@@ -19,8 +19,7 @@ language:
   - Sanskrit
 pages: 962
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Sarvepalli Radhakrishnan - The Principal Upanishads. Upanisad-George Allen and Unwin Ltd. (1968).pdf]]"
 aliases:
@@ -37,7 +36,7 @@ await dv.view("Templates/Views/open-pdf")
 
 *Note (5 Oct 2026):* The file name's 1968 is the second impression. The old title had a stray '. Upanisad'.
 
-**Text layer** (5 Oct 2026): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
+**Text layer** (5 Oct 2026; replaced on 15 Oct, below): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
 
 ## About
 
@@ -52,4 +51,6 @@ Sarvepalli Radhakrishnan's edition of the chief Upanishads: the Sanskrit in roma
 
 Sources: [Wikipedia, "The Principal Upanishads"](https://en.wikipedia.org/wiki/The_Principal_Upanishads) · [Britannica, "Sarvepalli Radhakrishnan"](https://www.britannica.com/biography/Sarvepalli-Radhakrishnan) · [Penn Libraries catalogue (1953)](https://find.library.upenn.edu/catalog/99736773503681) · [Princeton catalogue (1992)](https://catalog.princeton.edu/catalog/997358133506421) · [ECU Libraries catalogue (1989)](https://lib.ecu.edu/catalog-preview/catalog/366405) · *Drafted by AI on 13 Oct 2026 from these sources.*
 
-**Text layer** (15 Oct 2026, decision D09 a/b): the OCR text layer was redone (OCRmyPDF --redo-ocr, sandwich renderer, English and Sanskrit) to remove the stray glyph the old layer put after the vowel sign ि; the page images are unchanged. Stray glyphs after ि: 316 before, 1 now; Devanagari letters read into English lines: 10769 before, 8768 now.
+**Text layer** (15 Oct 2026, decision D09 a/b; replaced on 25 Oct 2026, below): the OCR text layer was redone (OCRmyPDF --redo-ocr, sandwich renderer, English and Sanskrit) to remove the stray glyph the old layer put after the vowel sign ि; the page images are unchanged. Stray glyphs after ि: 316 before, 1 now; Devanagari letters read into English lines: 10769 before, 8768 now.
+
+**Text layer** (25 Oct 2026, audit decision 6): the OCR text layer was redone in English only (OCRmyPDF --redo-ocr, sandwich renderer, Tesseract eng), because the book prints no Devanagari and the Latin-and-Sanskrit layer had put Devanagari letters in place of words on 894 of the 962 pages; the page images are unchanged. Devanagari letters in the layer: 12,394 before, 0 now; words 319,076 before, 319,061 now. Transliterated Sanskrit in the layer now has no diacritics (Śatapañcāśatka reads Satapancasatka).

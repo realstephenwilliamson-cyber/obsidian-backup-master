@@ -6,7 +6,7 @@ page_range: "10–19"
 aliases:
   - "Gita (Lombardo) 2"
 ---
-[p. 10]
+[p. 10] ^pg10
 
 ## Chapter Two
 

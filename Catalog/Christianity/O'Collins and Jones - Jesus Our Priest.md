@@ -18,8 +18,7 @@ language:
   - English
 pages: 322
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[O'Collins and Jones - Jesus Our Priest (OUP 2010).pdf]]"
   - "[[Library/Christianity/Jesus Our Priest (O'Collins)/Jesus Our Priest (O'Collins)]]"

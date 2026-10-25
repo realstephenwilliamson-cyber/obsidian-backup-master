@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 37
 verses: 42
-page_range:
-  - 634
-  - 636
+page_range: "634–636"
 aliases:
   - "BCP Psalm 37"
   - "BCP 634"
@@ -53,7 +51,7 @@ the one who succeeds in evil schemes. ^37-8
 **37:9** Refrain from anger, leave rage alone; \*  
 do not fret yourself; it leads only to evil. ^37-9
 
-[p. 634]
+[p. 634] ^pg634
 
 **37:10** For evildoers shall be cut off, \*  
 but those who wait upon the LORD shall possess the land. ^37-10
@@ -95,7 +93,7 @@ and in days of famine they shall have enough. ^37-20
 and the enemies of the LORD, like the glory of the meadows, shall vanish;  
 they shall vanish like smoke. ^37-21
 
-[p. 635]
+[p. 635] ^pg635
 
 **37:22** The wicked borrow and do not repay, \*  
 but the righteous are generous in giving. ^37-22
@@ -137,7 +135,7 @@ and their footsteps shall not falter. ^37-33
 **37:34** The wicked spy on the righteous \*  
 and seek occasion to kill them. ^37-34
 
-[p. 636]
+[p. 636] ^pg636
 
 **37:35** The LORD will not abandon them to their hand, \*  
 nor let them be found guilty when brought to trial. ^37-35

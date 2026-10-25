@@ -16,8 +16,7 @@ language:
   - English
 pages: 621
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/BCP - 1928.pdf]]"
   - "[[Library/Christianity/Book of Common Prayer 1928 (text)/Book of Common Prayer 1928 (text)]]"

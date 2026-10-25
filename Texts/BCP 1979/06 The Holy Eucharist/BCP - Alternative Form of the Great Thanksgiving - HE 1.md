@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/he1-altgt.html"
-page_range:
-  - 340
-  - 343
+page_range: "340–343"
 aliases:
   - "BCP 341"
   - "BCP 342"
@@ -17,7 +15,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 340–343
 
-[p. 340]
+[p. 340] ^pg340
 
 ## Alternative Form of the Great Thanksgiving
 
@@ -37,7 +35,7 @@ Celebrant Let us give thanks unto our Lord God.
 
 **People** It is meet and right so to do.
 
-[p. 341]
+[p. 341] ^pg341
 
 *Then, facing the Holy Table, the Celebrant proceeds*
 
@@ -61,7 +59,7 @@ Blessed is he that cometh in the name of the Lord. Hosanna in the highest.
 
 All glory be to thee, O Lord our God, for that thou didst create heaven and earth, and didst make us in thine own image; and, of thy tender mercy, didst give thine only Son Jesus Christ to take our nature upon him, and to suffer death upon the cross for our redemption. He made there a full and perfect sacrifice for the whole world; and did institute, and in his holy Gospel command us to continue, a perpetual memory of that his precious death and sacrifice, until his coming again.
 
-[p. 342]
+[p. 342] ^pg342
 
 *At the following words concerning the bread, the Celebrant is to hold it, or lay a hand upon it; and at the words concerning the cup, to hold or place a hand upon the cup and any other vessel containing wine to be consecrated*
 

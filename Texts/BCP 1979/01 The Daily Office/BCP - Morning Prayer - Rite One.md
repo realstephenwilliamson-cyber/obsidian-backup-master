@@ -5,9 +5,7 @@ section: "The Daily Office"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/DailyOffice/mp1.html"
-page_range:
-  - 37
-  - 60
+page_range: "37–60"
 aliases:
   - "BCP 37"
   - "BCP 38"
@@ -38,7 +36,7 @@ aliases:
 
 [[BCP 1979]] · *The Daily Office* · pages 37–60
 
-[p. 37]
+[p. 37] ^pg37
 
 ## Daily Morning Prayer: Rite One
 
@@ -58,7 +56,7 @@ Behold, I bring you good tidings of a great joy, which shall be to all people. F
 
 Behold, the tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God. *[[Revelation 21#^21-3|Revelation 21:3]]*
 
-[p. 38]
+[p. 38] ^pg38
 
 ### Epiphany
 
@@ -80,7 +78,7 @@ To the Lord our God belong mercies and forgivenesses, though we have rebelled ag
 
 Jesus said, "Whosoever will come after me, let him deny himself, and take up his cross, and follow me." *[[Mark 08#^8-34|Mark 8:34]]*
 
-[p. 39]
+[p. 39] ^pg39
 
 ### Holy Week
 
@@ -106,7 +104,7 @@ Ye shall receive power, after the Holy Ghost is come upon you; and ye shall be w
 
 Holy, holy, holy, Lord God Almighty, which was, and is, and is to come. *[[Revelation 04#^4-8|Revelation 4:8]]*
 
-[p. 40]
+[p. 40] ^pg40
 
 ### All Saints and other Major Saints' Days
 
@@ -179,7 +177,7 @@ Glory to the Father, and to the Son, and to the Holy Spirit: as it was in the be
 
 *Then follows one of the Invitatory Psalms, Venite or Jubilate.*
 
-[p. 43]
+[p. 43] ^pg43
 
 *One of the following Antiphons may be sung or said with the Invitatory Psalm*
 
@@ -215,7 +213,7 @@ Alleluia. The Spirit of the Lord filleth the world: O come, let us adore him. Al
 
 Father, Son, and Holy Spirit, one God: O come, let us adore him.
 
-[p. 44]
+[p. 44] ^pg44
 
 *On other Sundays and weekdays*
 
@@ -250,7 +248,7 @@ and a great King above all gods. In his hand are all the corners of the earth, \
 and the strength of the hills is his also. The sea is his, and he made it, \*  
 and his hands prepared the dry land.
 
-[p. 45]
+[p. 45] ^pg45
 
 O come, let us worship and fall down, \*  
 and kneel before the Lord our Maker. For he is the Lord our God, \*  
@@ -281,7 +279,7 @@ and his truth endureth from generation to generation.
 
 *In Easter Week, in place of an Invitatory Psalm, the following is sung or said. It may also be used daily until the Day of Pentecost.*
 
-[p. 46]
+[p. 46] ^pg46
 
 **Christ our Passover** *Pascha nostrum [[1 Corinthians 05#^5-7|1 Corinthians 5:7-8]]; [[Romans 06#^6-9|Romans 6:9-11]]; [[1 Corinthians 15#^15-20|1 Corinthians 15:20-22]]*
 
@@ -308,7 +306,7 @@ even so in Christ shall all be made alive. Alleluia.
 Glory to the Father, and to the Son, and to the Holy Spirit: \*  
 as it was in the beginning, is now, and will be for ever. Amen.
 
-[p. 47]
+[p. 47] ^pg47
 
 ## The Lessons
 
@@ -344,7 +342,7 @@ O ye heavens, bless ye the Lord; \*
 O ye waters that be above the firmament, bless ye the Lord; O all ye powers of the Lord, bless ye the Lord; \*  
 praise him and magnify him for ever.
 
-[p. 48]
+[p. 48] ^pg48
 
 O ye sun and moon, bless ye the Lord; \*  
 O ye stars of heaven, bless ye the Lord; O ye showers and dew, bless ye the Lord; \*  
@@ -376,7 +374,7 @@ O all ye fowls of the air, bless ye the Lord; \*
 O all ye beasts and cattle, bless ye the Lord; O ye children of men, bless ye the Lord; \*  
 praise him and magnify him for ever.
 
-[p. 49]
+[p. 49] ^pg49
 
 ### IV The People of God
 
@@ -399,7 +397,7 @@ praised and exalted above all for ever. Blessed art thou in the firmament of hea
 praised and exalted above all for ever. Blessed art thou, O Father, Son, and Holy Spirit; \*  
 praised and exalted above all for ever.
 
-[p. 50]
+[p. 50] ^pg50
 
 **3 The Song of Mary** *Magnificat [[Luke 01#^1-46|Luke 1:46-55]]*
 
@@ -425,7 +423,7 @@ for he hath visited and redeemed his people; And hath raised up a mighty salvati
 in the house of his servant David, As he spake by the mouth of his holy prophets, \*  
 which have been since the world began:
 
-[p. 51]
+[p. 51] ^pg51
 
 That we should be saved from our enemies, \*  
 and from the hand of all that hate us; To perform the mercy promised to our forefathers, \*  
@@ -450,7 +448,7 @@ according to thy word; For mine eyes have seen thy salvation, \*
 which thou hast prepared before the face of all people, To be a light to lighten the Gentiles, \*  
 and to be the glory of thy people Israel.
 
-[p. 52]
+[p. 52] ^pg52
 
 Glory to the Father, and to the Son, and to the Holy Spirit: \*  
 as it was in the beginning, is now, and will be for ever. Amen.
@@ -479,7 +477,7 @@ art most high in the glory of God the Father. Amen.
 
 We praise thee, O God; we acknowledge thee to be the Lord. All the earth doth worship thee, the Father everlasting. To thee all Angels cry aloud, the Heavens and all the Powers therein. To thee Cherubim and Seraphim continually do cry:
 
-[p. 53]
+[p. 53] ^pg53
 
 Holy, holy, holy, Lord God of Sabaoth;  
 Heaven and earth are full of the majesty of thy glory. The glorious company of the apostles praise thee. The goodly fellowship of the prophets praise thee. The noble army of martyrs praise thee. The holy Church throughout all the world doth acknowledge thee,  
@@ -505,7 +503,7 @@ suffered under Pontius Pilate,
 was crucified, dead, and buried.  
 He descended into hell.
 
-[p. 54]
+[p. 54] ^pg54
 
 The third day he rose again from the dead.  
 He ascended into heaven,  
@@ -540,7 +538,7 @@ as we forgive those who trespass against us. And lead us not into temptation,
 but deliver us from evil. For thine is the kingdom, and the power, and the glory,  
 for ever and ever. Amen.
 
-[p. 55]
+[p. 55] ^pg55
 
 *Then follows one of these sets of Suffrages*
 
@@ -556,7 +554,7 @@ V. O Lord, save thy people and bless thine heritage; R. Govern them and lift the
 
 ### The Collect of the Day
 
-[p. 56]
+[p. 56] ^pg56
 
 ### A Collect for Sundays
 
@@ -574,7 +572,7 @@ Almighty God, who after the creation of the world didst rest from all thy works 
 
 O God, the King eternal, who dividest the day from the night and turnest the shadow of death into the morning: Drive far from us all wrong desires, incline our hearts to keep thy law, and guide our feet into the way of peace; that, having done thy will with cheerfulness while it was day, we may, when the night cometh, rejoice to give thee thanks; through Jesus Christ our Lord. *Amen.* ^collect-a-collect-for-the-renewal-of-life
 
-[p. 57]
+[p. 57] ^pg57
 
 ### A Collect for Peace
 
@@ -594,7 +592,7 @@ Almighty and everlasting God, by whose Spirit the whole body of thy faithful peo
 
 *or the following*
 
-[p. 58]
+[p. 58] ^pg58
 
 O God, who hast made of one blood all the peoples of the earth, and didst send thy blessed Son to preach peace to those who are far off and to those who are near: Grant that people everywhere may seek after thee and find thee; bring the nations into thy fold; pour out thy Spirit upon all flesh; and hasten the coming of thy kingdom; through the same thy Son Jesus Christ our Lord. *Amen.* ^collect-a-collect-for-guidance-3
 
@@ -614,7 +612,7 @@ Lord Jesus Christ, who didst stretch out thine arms of love on the hard wood of 
 
 Almighty God, Father of all mercies, we thine unworthy servants do give thee most humble and hearty thanks for all thy goodness and loving-kindness to us and to all men. We bless thee for our creation, preservation, and all the blessings of this life; but above all for thine inestimable love in the redemption of the world by our Lord Jesus Christ; for the means of grace, and for the hope of glory.
 
-[p. 59]
+[p. 59] ^pg59
 
 And, we beseech thee, give us that due sense of all thy mercies, that our hearts may be unfeignedly thankful; and that we show forth thy praise, not only with our lips, but in our lives, by giving up our selves to thy service, and by walking before thee in holiness and righteousness all our days; through Jesus Christ our Lord, to whom, with thee and the Holy Ghost, be all honor and glory, world without end. *Amen.*
 
@@ -632,7 +630,7 @@ Let us bless the Lord. *Thanks be to God.*
 
 The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Ghost, be with us all evermore. *Amen. [[2 Corinthians 13#^13-14|2 Corinthians 13:14]]*
 
-[p. 60]
+[p. 60] ^pg60
 
 May the God of hope fill us with all joy and peace in believing through the power of the Holy Spirit. *Amen. [[Romans 15#^15-13|Romans 15:13]]*
 

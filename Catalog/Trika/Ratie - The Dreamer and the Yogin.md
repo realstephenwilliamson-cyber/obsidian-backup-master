@@ -18,8 +18,7 @@ language:
   - English
 pages: 42
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/The_Dreamer_and_the_Yogin_On_the_relatio.pdf]]"
   - "[[Library/Trika/The Dreamer and the Yogin (Ratie)/The Dreamer and the Yogin (Ratie)]]"

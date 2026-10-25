@@ -17,8 +17,7 @@ language:
   - English
 pages: 239
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Ethical-loneliness-the-injustice-of-not-being-heard.pdf]]"
   - "[[Library/Philosophy/Ethical Loneliness (Stauffer)/Ethical Loneliness (Stauffer)]]"

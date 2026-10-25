@@ -4,7 +4,7 @@ work: "[[Catalog/Trika/Watson - The Self's Awareness of Itself]]"
 book: "[[Library/Trika/The Self's Awareness of Itself (Watson)/The Self's Awareness of Itself (Watson)|The Self's Awareness of Itself (Watson)]]"
 order: 6
 source_pdf: "Library/Trika/Watson - The Self's Awareness of Itself, Bhatta Ramakantha against the Buddhist No-Self.pdf"
-pages: "125–166"
+page_range: "125–166"
 pdf_pages: "128–169"
 text_source: "fresh OCR with Tesseract 5 (Latin) of the page images (the text layer garbles the transliterated Sanskrit)"
 converted: 2026-10-22

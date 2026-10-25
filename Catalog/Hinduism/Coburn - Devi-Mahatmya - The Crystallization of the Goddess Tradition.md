@@ -17,8 +17,7 @@ language:
   - English
 pages: 386
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Coburn - Devi-Mahatmya (1984).pdf]]"
   - "[[Library/Hinduism/Devi-Mahatmya (Coburn)/Devi-Mahatmya (Coburn)]]"

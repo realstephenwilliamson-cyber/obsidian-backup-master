@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 115
 verses: 18
-page_range:
-  - 758
-  - 758
+page_range: "758"
 aliases:
   - "BCP Psalm 115"
   - "BCP 758"
@@ -41,7 +39,7 @@ eyes have they, but they cannot see; ^115-5
 **115:6** They have ears but they cannot hear; \*  
 noses, but they cannot smell; ^115-6
 
-[p. 758]
+[p. 758] ^pg758
 
 **115:7** They have hands, but they cannot feel;  
 feet, but they cannot walk; \*  

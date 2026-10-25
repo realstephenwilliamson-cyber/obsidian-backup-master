@@ -17,8 +17,7 @@ language:
   - English
 pages: 19
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Ehrman - Text and Tradition, Clark Lectures (1997).pdf]]"
   - "[[Ehrman - Text and Transmission, Clark Lecture 2 (2000)]]"

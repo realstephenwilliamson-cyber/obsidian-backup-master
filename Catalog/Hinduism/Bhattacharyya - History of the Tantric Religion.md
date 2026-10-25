@@ -17,8 +17,7 @@ language:
   - English
 pages: 484
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Bhattacharyya - History of the Tantric Religion (1999).pdf]]"
   - "[[Library/Hinduism/History of the Tantric Religion (Bhattacharyya)/History of the Tantric Religion (Bhattacharyya)]]"

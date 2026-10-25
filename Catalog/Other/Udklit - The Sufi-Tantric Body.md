@@ -17,8 +17,7 @@ language:
   - English
 pages: 25
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The-Sufi-Tantric-Body.pdf]]"
   - "[[Library/Other/The Sufi-Tantric Body (Udklit)]]"

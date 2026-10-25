@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 41
 verses: 13
-page_range:
-  - 642
-  - 642
+page_range: "642"
 aliases:
   - "BCP Psalm 41"
   - "BCP 642"
@@ -25,7 +23,7 @@ Hebrew text and JPS translation: [[Psalms 041]]
 **41:1** Happy are they who consider the poor and needy! \*  
 the LORD will deliver them in the time of trouble. ^41-1
 
-[p. 642]
+[p. 642] ^pg642
 
 **41:2** The LORD preserves them and keeps them alive,  
 so that they may be happy in the land; \*  

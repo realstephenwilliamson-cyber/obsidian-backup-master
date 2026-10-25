@@ -17,8 +17,7 @@ language:
   - English
 pages: 267
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[David Van Mill - Liberty, Rationality, and Agency in Hobbes's Leviathan (2001).pdf]]"
   - "[[Library/Philosophy/Liberty, Rationality, and Agency in Hobbes's Leviathan (van Mill)/Liberty, Rationality, and Agency in Hobbes's Leviathan (van Mill)]]"

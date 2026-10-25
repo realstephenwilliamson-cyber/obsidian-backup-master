@@ -17,8 +17,7 @@ language:
   - English
 pages: 402
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Ramaswamy - The Goddess and the Nation (2010).pdf]]"
 aliases:

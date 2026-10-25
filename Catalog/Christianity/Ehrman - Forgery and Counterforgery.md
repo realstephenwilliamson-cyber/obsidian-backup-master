@@ -17,8 +17,7 @@ language:
   - English
 pages: 628
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Forgery and Counterforgery (Ehrman)/Forgery and Counterforgery (Ehrman)]]"
 aliases: []

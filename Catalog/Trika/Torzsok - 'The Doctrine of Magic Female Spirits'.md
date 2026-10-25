@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 353
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Torzsok - The Doctrine of Magic Female Spirits (1999).pdf]]"
   - "[[Library/Trika/The Doctrine of Magic Female Spirits' (Torzsok)/The Doctrine of Magic Female Spirits' (Torzsok)]]"
@@ -37,7 +36,7 @@ await dv.view("Templates/Views/open-pdf")
 
 D.Phil. thesis, Merton College, Oxford, submitted 7 June 1999. Scan with poor OCR.
 
-**Text layer** (5 Oct 2026): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
+**Text layer** (5 Oct 2026; replaced on 15 Oct, below): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
 
 **Checked against the scan** on 4 Oct 2026 (title page and opening pages); properties updated from it.
 

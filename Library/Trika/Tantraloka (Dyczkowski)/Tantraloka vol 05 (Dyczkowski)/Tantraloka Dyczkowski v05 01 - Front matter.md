@@ -384,13 +384,13 @@ Monier-Williams Mund
 
 Mundaka Upaniṣad MT 
 
-Mṛgendratantra MrTvK 
+Mṛgendratantra MṛTvK 
 
 Mṛgendratantravṛtti Kriyāpāda 
 
-MrKri 
+MṛKri 
 
-Mṛgendratantra Kriyāpāda MrV 
+Mṛgendratantra Kriyāpāda MṛV 
 
 Mṛgendratantra Vidyāpāda NGMPP 
 
@@ -418,7 +418,7 @@ Parātrīśikā
 
 PTv 
 
-Parātriṁśikavivaraṇa (Parātrīśikāvivarana) 
+Parātriṁśikavivaraṇa (Parātrīśikāvivaraṇa) 
 
 ~\] 
 

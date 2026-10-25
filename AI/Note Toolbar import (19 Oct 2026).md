@@ -4,7 +4,7 @@ updated: 2026-10-19
 ---
 # Note Toolbar import (19 Oct 2026)
 
-Three toolbars for the Note Toolbar plugin, drafted on 19 October 2026 (the plugin's items not to change are in [[Vault Guide#Plugins|Plugins]]; the import is on the list in [[Open items and free books|Open items (Oct 2026)]]). Nothing here is live: the callouts are kept inside plain-text blocks so that neither Note Toolbar nor Callout Studio renders them.
+Three toolbars for the Note Toolbar plugin, drafted on 19 October 2026 (the plugin's items not to change are in [[Vault Guide#Plugins|Plugins]]; the import is on the list in [[Open items]]). Nothing here is live: the callouts are kept inside plain-text blocks so that neither Note Toolbar nor Callout Studio renders them.
 
 **How:** Settings → Note Toolbar → *Create toolbar from callout*; paste **one block at a time**, in this order (the Study toolbar's *Reference* item is a menu that points at the *CIS reference* toolbar by name). The importer turns `:LiName:` into the Lucide icon `lucide-name` if Obsidian has it, otherwise it logs *Icon not found* and the icon is set by hand; the `<!-- -->` comments become tooltips. **Visibility and position are not carried** by a callout: afterwards, in each toolbar's settings, set Position to *Top (fixed)* on desktop and *Floating button: right* on mobile, and set the Timeline, Ink and review items to desktop only. Then Settings → Note Toolbar → Rules: *Daily* if property `type` contains `daily`; *Study* if file name is `CIS study plan.md` or property `type` contains `cis-cards` or property `type` contains `flashcard`. Leave *Default toolbar* empty and *Scripting* off. Every file path below exists (checked on the laptop, 19 Oct 2026).
 

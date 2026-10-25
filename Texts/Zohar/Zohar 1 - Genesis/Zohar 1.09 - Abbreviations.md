@@ -4,7 +4,7 @@ book: "[[Zohar]]"
 order: 9
 page_range: 453–455
 ---
-[p. 453]
+[p. 453] ^pg453
 
 # Abbreviations
 

@@ -4,7 +4,7 @@ book: "[[Bhagavad Gita (Lombardo, Davis)]]"
 order: 2
 page_range: "xxxiii–xxxvi"
 ---
-[p. xxxiii]
+[p. xxxiii] ^pgxxxiii
 
 TRANSLATOR’S PREFACE
 

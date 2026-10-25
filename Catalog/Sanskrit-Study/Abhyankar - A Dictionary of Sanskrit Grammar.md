@@ -18,8 +18,7 @@ language:
   - English
 pages: 463
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Sanskrit/19 A Dictionary of Sanskrit Grammar.pdf]]"
 aliases:

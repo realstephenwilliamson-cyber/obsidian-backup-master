@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-auxiliary
 title: Kṣamā Prārthanā Stotram
+collection: "Devī Māhātmya"
 role: closing
 status: stub
 aliases:

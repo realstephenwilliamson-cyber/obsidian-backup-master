@@ -18,8 +18,7 @@ language:
   - Hebrew
 pages: 13
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[rabbi_dov_linzer_milin_havivin_volume_1.pdf]]"
 aliases: []

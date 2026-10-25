@@ -19,8 +19,7 @@ language:
   - English
 pages: 629
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Deleuze, Guattari - A Thousand Plateaus (1987).pdf]]"
   - "[[Library/Philosophy/A Thousand Plateaus (Deleuze, Guattari)/A Thousand Plateaus (Deleuze, Guattari)]]"

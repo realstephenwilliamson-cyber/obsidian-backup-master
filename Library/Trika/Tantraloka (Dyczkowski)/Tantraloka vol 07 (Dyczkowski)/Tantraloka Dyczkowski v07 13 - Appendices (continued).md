@@ -25,7 +25,7 @@ You have taught the root Mantra and the liturgy (krama) of nondual worship witho
 
 srībhairava uvāca 
 
-aprakāśyam idan gopyarn rahasyaṁ bhairavoditam ॥ 4 ॥
+aprakāśyam idan gopyaṁ rahasyaṁ bhairavoditam ॥ 4 ॥
 rakṣayeta prayatnād vai yathā lokar na garhati | \[illegible\] palāṇndur \[kh g: -ndar\] laśunādīni laṁvumṁśalaratarkaśā (?) | 5 ॥
 anyāni \[illegible\] a"'ngāni \[g: magāni\] vāmākusumasathyutam |
 dravyāṇy etāni subhage śaśyante kulamārgake \[kh: kulamā \* \*; g: -ko\] \\\\ 6 ॥
@@ -33,13 +33,13 @@ dravyāṇy etāni subhage śaśyante kulamārgake \[kh: kulamā \* \*; g: -ko\]
 
 kuṇdagolodbhavaṁ devi hy ete pānāḥ kulodbhavāḥ ॥ 7 ॥
 matsya māṁsaṁ gahogotthahn (> -mahāgo-) sthalajākāśagāminām |
-nirvikalpas tu sarveṣāṁ bhojanarn kurute sadā || 8 ॥4 
+nirvikalpas tu sarveṣāṁ bhojanaṁ kurute sadā || 8 ॥4 
 
 716?\. The following, up to verse 21, is quoted without acknowledgement by Vimalaprabodha in his kālikākulapañcakramakramārcana MS Ķ: NGMPP reel no. A 148/10, 31 folios, paper, Newari script. MS Kh: NGMPP reel no. A 158/1, NAV no. 1-169, 30 folios, paper, Newari script. He introduces it saying: atha nityanaimittikakāmyārcanaṁi (k, kh: - naimitti +) kuladravyagaṇaṁ (kh: -dravye ganar) likhyate ॥ And concludes it with the words: īdṛśaṁ kālikācakraṁ pūjayed vidhipūrvakaṁ | vyākhyādīkṣādhikāraṁ ca yāgaṁ kuryāt (kh: kuryā) susiddhaye || iti dravyagaṇavyavasthā | | The passages drawn from there follow one another without a break with the occasional insertion of an extra line.
 
 717?\. Verses 7 and 10ab are missing in manuscript Kh.
 
-718?\. KāKuKra: palāndu (kh: palādū) laśunaṁ grjańn lamvuṣaṁ lava tarkasāri | | vāmāpuṣpaṁi puṣpabandhari aṣtau dravyāni kaulike | | Sivāṁvu (kh: -vuṁ) ca surār raktar (kh: surā-) mahātailam (kh: + ca) śīdhukaṁ | kundalodbhavari (kh: kundagolodbhavari) śukraṁ (kh: \[illegible\] peyāny aṣtau kulāgame | matsyarn māṁsaṁ (1.1. 0 11111 mahāmāmsaṁ (kh: -māmsa) mṛgañcaiva bhakṣa \[illegible\] kulakrame | | The KāKuKcra lists three groups of eight. However, the text is very corrupt, not all of them can be made out.
+718?\. KāKuKra: palāndu (kh: palādū) laśunaṁ grjańn lamvuṣaṁ lava tarkasāri | | vāmāpuṣpaṁi puṣpabandhari aṣtau dravyāni kaulike | | Sivāṁvu (kh: -vuṁ) ca surār raktar (kh: surā-) mahātailam (kh: + ca) śīdhukaṁ | kundalodbhavari (kh: kundagolodbhavari) śukraṁ (kh: \[illegible\] peyāny aṣtau kulāgame | matsyaṁ māṁsaṁ (1.1. 0 11111 mahāmāmsaṁ (kh: -māmsa) mṛgañcaiva bhakṣa \[illegible\] kulakrame | | The KāKuKcra lists three groups of eight. However, the text is very corrupt, not all of them can be made out.
 
 
 *[p. 388]* ^pg410
@@ -68,7 +68,7 @@ nihśahkācāramārgenṇa \[kh: -gena; g: nihsamkācāra \* \* \*?\] \[illegibl
 
 721?\. The citation reads kārmukī carmakārinī for karṁdukī carmaraṁginī.
 
-722?\. \[illegible\] KāKuKra: mātaṁgī kajjarī śaundī kandukī carminṇī dhvajā | | cchippi veśyā susarivaddhā grāhya tāh kālikākule ||
+722?\. \[illegible\] KāKuKra: mātaṁgī kajjarī śaundī kandukī carminṇī dhvajā | | cchippi veśyā susarivaddhā grāhya tāḥ kālikākule ||
 
 723?\. 9cd-10ab is quoted in TĀv ad 29/66.
 
@@ -77,7 +77,7 @@ nihśahkācāramārgenṇa \[kh: -gena; g: nihsamkācāra \* \* \*?\] \[illegibl
 
 tadāsau siddhyate devi tair bhuktan bhāvitaīi yadi I| 13 I 
 
-And these are the Kula women who originate from the great sacred seats. If one desires accomplishment for oneself, one should always keep their company. They are all linked with the supreme kinds of sacrificial substances, (consumed in) the meal of those who are intent on reality and accompanied by (their) Kaula partners \[illegible\] Linked in this way with the wandering (the Kaula adept does around the sacred sites), it is said to be (particularly) special (Kaula) worship. If worship is (performed) by way of the path free of doubts, then, O goddess, he is successful, if he is sanctified by those (substances he has) eaten. (10-13) 
+And these are the Kula women who originate from the great sacred seats. If one desires accomplishment for oneself, one should always keep their company. They are all linked with the supreme kinds of sacrificial substances, (consumed in) the meal of those who are intent on reality and accompanied by (their) Kaula partners (dūtī). Linked in this way with the wandering (the Kaula adept does around the sacred sites), it is said to be (particularly) special (Kaula) worship. If worship is (performed) by way of the path free of doubts, then, O goddess, he is successful, if he is sanctified by those (substances he has) eaten. (10-13) 
 
 tatpānasparśanāhārāt \[k, kh, g -nāsparśadāhārā k: -kā-\] pāśacchedakarāḥ smṛtāḥ |
 gopitaṁ tan mayā pūrvam advaitācāraśobhanam \[illegible\] ॥ 14 ॥
@@ -98,13 +98,13 @@ tayā śaktyā vihīnā ye na te siddhim avāpnuyāt \[k: -yah\] ॥ 17 ॥
 *[p. 390]* ^pg412
 
 tasmāt sarvaprayatnena \[illegible\] kuryāt tayā \[g: tayāḥ\] saha |
-183b g) anyathā kurute yāgaṁ sarvaṁ tasya vinaśyati || 18 Il sugupte nirjane ramye vīrakṣetre ‘tha siddhiṣu (> siddhīcchuḥ) |
+183b g) anyathā kurute yāgaṁ sarvaṁ tasya vinaśyati || 18 || sugupte nirjane ramye vīrakṣetre ‘tha siddhiṣu (> siddhīcchuḥ) |
 digvāso hrīvinirmuktāś cādvaitakulapūjakāḥ \[kh: -jaka; g: -ścā \* \* \* \*?\]°? ॥ 19
 ॥
 parasparaṁ yajed dehau \[illegible\] deho kh: dehaḥ\] khānapānādisevitau |
-147b) parasparam tu ratinau kundagolādisaṁyutau \[kh: -tāh\] | 20 ॥
+147b) parasparam tu ratinau kundagolādisaṁyutau \[kh: -tāḥ\] | 20 ॥
 mīnamaṇndūkasariyuktau bhoktārau ca parasparam |
-vaktrād vaktreṣu (> vaktre tu) yojyantau bhojanarn pānacumbanam || 21 || ©? 
+vaktrād vaktreṣu (> vaktre tu) yojyantau bhojanaṁ pānacumbanam || 21 || ©? 
 
 Therefore, one should offer the sacrifice with all one’s efforts along with her (that is, the Kaula partner). If he does otherwise, all he possesses is destroyed. One who desires accomplishments (siddhi) (should offer it) in a sacred site for Kaula adepts that is well-hidden, solitary, and beautiful. (The adepts should be) naked, disinhibited, and worshippers of the nondual Kula. (They should worship) one another, (their) bodies plied with (good) food and drink. (They should be) devoted to one another and have kundagolas (balls of chalk mixed with sperm and menstrual blood) and the like (to make offerings). They should have (cooked) fish and frogs and feed one another, taking food and drink from (each other’s) mouth and putting it (in each other’s) mouth and kissing (as they do so). (18-21) 
 
@@ -130,7 +130,7 @@ vīrabhojyaṁ ca \[kh: na\] nānyatra \[kh: cānyatra\] na ca yāgaṁ hi siddh
 saminidhīkaraṇari \[g:?\] caiva melāpaṁ caiva jāyate ॥ 26 ॥
 184a g) yathā yajñādayaḥ sarve vinā cājyena niṣphalāḥ |
 tathā kulākule devi somaratnair vinā priye ॥ 27 ॥
-somar palāṇndum ity uktarn laśunaṁ ca viśeṣataḥ |
+somar palāṇndum ity uktaṁ laśunaṁ ca viśeṣataḥ |
 anye tadaṁśakā ye ca tiṣthanti \[g: -taṁti\] himavad girau ॥ 28 ॥
 utkata cāsya vai gandha aśuddhāś \[k: maśuddhaś\] ca tiraskṛtāḥ \[kh g: turaskṛtāḥ\] |
 sarve Śuddhā hitāś caiva \[g: hitā caiva\] pavitrāḥ \[k: -trā\] sarvathā smṛtāḥ ॥ 29
@@ -144,8 +144,8 @@ sāntipuṣtivasīkartum abhīṣtaphaladāyakam |
 sarvopadravahantāraṁi sarvabhūtapriyari \[g: -yeńn\] priye ॥ 31 ॥
 amṛtāmbhunavatvena \[k: -tavatve te, kh g: -tatā te\] navanābheti \[kh: -bhedi; g: -bhediti\] viśrutaḥ \[kh g: vai-\] |
 siddhyarthe vīrasiṁasya \[g: -ghasya\] tadabhyāsākṣayo bhavet ॥ 32 ॥
-guptaṁ tu bhūgṁāntastharnṁ mṛgamodārasaṁyutam |
-prāśayed yo pi nityasthaḥ śivavac cākṣayo bhavet || 33 I| 
+guptaṁ tu bhūgṁāntasthaṁ mṛgamodārasaṁyutam |
+prāśayed yo pi nityasthaḥ śivavac cākṣayo bhavet || 33 || 
 
 O fair lady, they remedy all diseases and bestow all (kinds of) good fortune. (By offering them, the sacred) Kulakaula is drawn nearby, and it bestows the fruit, which is enjoyment and liberation. In order to give peace and satisfaction, it bestows the desired fruit. It destroys all calamities and, O beloved, it is beloved by all living beings (bhūta). As it is the Nine Waters of Nectar, it is well known as the Nine Navels. For the accomplishment of the lion amongst Kaula adepts, its practice is imperishable. Hidden, it is within the abode of the earth. It should be eaten with the belly of a deer (?). (Doing so,) he abides perpetually. Like Śiva, he is imperishable. (30-33) 
 
@@ -155,23 +155,23 @@ agramā pūrayed bhakṣyor abhakṣyair yaiś ca \[kh: bhakṣor abhakṣaiś c
 
 *[p. 392]* ^pg414
 
-evar vidhi \[g: vidhi\] purā kṛtvā guhyakaularn mayoditam || 35 ॥
+evar vidhi \[g: vidhi\] purā kṛtvā guhyakaulaṁ mayoditam || 35 ॥
 184b g) ekamekena (> ekaikenṇa) vīryeṇa prāśitenājarāmaraḥ |
 sarvasiddhavaro vīro divyastho hy amṛtāśanaḥ || 36 ॥ 
 
 He who is the creator and destroyer in (this) world, bestows the secret of his own (?) accomplishment. He is always Bhairava’s beloved and of the many hosts of Mothers. . . . (?)[^728] Having first executed the secret Kaula procedure I have taught in this way, by virtue of the vitality of each one ingested, (he becomes) unborn and deathless. (That) Kaula adept (vīra) is the most excellent of all accomplished yogis (siddha). Established in the divine, he eats nectar. (34-36) 
 
 129a kh) melāpakaṁ tu devīnām dahed \[k, kh: dehed-\] dhūparīi punaḥ punaḥ |
-yatra sthāne bhaved dravyaṁ nirbhayarn \[kh g: nirṇayari\] tatra ca bhavet ॥ 37
+yatra sthāne bhaved dravyaṁ nirbhayaṁ \[kh g: nirṇayari\] tatra ca bhavet ॥ 37
 ॥
 laśunasya (€ -ṇasya\] palāṇdor vā \[kh: palāmdo \[illegible\] surāmadyasya bhairavi |
 matsyamāṁsaniyuktasya \[k, kh, g; -mārsāhi-\] tatra krīdanti devatāḥ ॥ 38 ॥
 mātaraḥ khecarī sarvā \[g: sarvāḥ\] bhūcarī siddhim icchātaḥ \[k, kh: -tā\] |
-kulakaulodayaṁ tatra yatrasthā tu kulāṅganā \[g: -nāh\] I| 39 ॥ 
+kulakaulodayaṁ tatra yatrasthā tu kulāṅganā \[g: -nāḥ\] ॥ 39 ॥ 
 
 (Enjoying) the union (melāpaka) of the goddesses, he should burn incense repeatedly. There, where the sacrificial substance is present, there is no fear. O Bhairavī, the deities of the garlic, onion, liquor, and (those of) the fish and meat play there. The Mothers and all the Khecarīs and Bhūcarīs (bestow) accomplishment as desired. Kula and Kaula dawns there where a Kula woman (is present). (37-39) 
 
-sarvasiddhyudayańn \[kh: -siddhodayarn\] jāyed yatrasthaḥ \[k, kh, g: -sthe\] kulasādhakaḥ \[k, kh, g: -ke\] |
+sarvasiddhyudayańn \[kh: -siddhodayaṁ\] jāyed yatrasthaḥ \[k, kh, g: -sthe\] kulasādhakaḥ \[k, kh, g: -ke\] |
 mahādravyaiś ca vividhaiḥ krīdantaś ca parasparam || 40 |
 sarvaduhkhavinirmuktaḥ sarvaśokavivarjitaḥ |
 sarvasya mokṣam apnoti vartate nirbhayaḥ sadā \[g: sadāḥ\] ॥ 41 ॥
@@ -181,7 +181,7 @@ All the accomplishments dawn wherever the Kaula adept may be, along with all the
 
 srīdevyuvāca 
 
-kirn māhātmyaṁ tu vīrasya dravyāi tu viśeṣataḥ ॥ 42 ॥ 
+kiṁ māhātmyaṁ tu vīrasya dravyāi tu viśeṣataḥ ॥ 42 ॥ 
 
 185a g) kulopadeśasaṁyuktā advaitācārasaṁyutāḥ \[g: addaitā-\] |
 prabhāvamri \[k: gabhāvarni\] tvatprasādena na \[illegible\] me kadacana ॥ 43 ॥ 
@@ -192,8 +192,8 @@ prabhāvamri \[k: gabhāvarni\] tvatprasādena na \[illegible\] me kadacana ॥ 
 
 adya me saphalaṁ janma tvatprasādāvadhāritam |
 vedāntair dūṣitās te tu vaiṣnavādisamaṁtataḥ || 44 |I|
-kim \[illegible\] teṣu vai duhkharn bhāgyahīnāḥ \[kh g: -nā\] katha \[k: kubharni\] ca tel asya dravyasya \[g: dra + sya\] pānasya amṛtasya na bāhyataḥ || 45 ॥
-niṣphalaṁ \[kh: nihphalarn\] kriyate sarvan mānuṣyami bhuvi durlabham | 
+kim arthaṁ teṣu vai duhkhaṁ bhāgyahīnāḥ \[kh g: -nā\] katha \[k: kubharni\] ca tel asya dravyasya \[g: dra + sya\] pānasya amṛtasya na bāhyataḥ || 45 ॥
+niṣphalaṁ \[kh: nihphalaṁ\] kriyate sarvan mānuṣyami bhuvi durlabham | 
 
 The venerable goddess said: 
 
@@ -215,8 +215,8 @@ The venerable Bhairava said:
 A sacrificial substance (should) not be made without the (proper) procedure and without having worshipped in due manner. Devoid of the right procedure. Once offered (that way) one goes to hell. (48) 
 
 brāhmane vidhiyuktyā tu yajñe sautrāmanau smṛtam |
-vaiṣnave siṁhacakre ca grāhyaṁ nihśeṣakami \[g: nih \* ṣakar\] rasam ॥ 49 Il teṣu bhāvavihīnā \[K: bhāve-\] ye te mūdhāḥ paśavaḥ smṛtāḥ \[g: -tā\] |
-185b g) nindanti \[k: nińdasi\] parama dravyaṁ cakṣurnāsābahiṣkṛtam || 50 I|
+vaiṣnave siṁhacakre ca grāhyaṁ nihśeṣakami \[g: nih \* ṣakar\] rasam ॥ 49 ॥ teṣu bhāvavihīnā \[K: bhāve-\] ye te mūdhāḥ paśavaḥ smṛtāḥ \[g: -tā\] |
+185b g) nindanti \[k: nińdasi\] parama dravyaṁ cakṣurnāsābahiṣkṛtam || 50 ||
 \[illegible\] tenaiva doṣeṇa ajñatvam upajāyate |
 yāvaj janmasahasrāni\[k: yāvaddhāś ca (?), kh g: yāvajanma\] āyātāni punaḥ punaḥ ॥ 51 ॥ 
 
@@ -244,7 +244,7 @@ sakṛtprāśritamātreṇa \[kh g: prāsita-\] kulajño labhate phalam | 58 ॥
 
 Aho! The greatness of the (Kaula sacrificial) substance amongst (the many varieties of) food and drinks etc. offered (abhiyukta) by the women of the Kula. I will tell (you) what that is. By just eating it once, the knower of Kula, omniscient, obtains the fruit of countless billions (of observances) of one who is intent for thousands of billions of lifetimes on (the practice of) austerities and the repetition of mantras, (the observance of) vows, rules (and penances such as fasting) in consonance with the phases of the moon (krechṛcāndrāyana), offering alms and the installation (of deities). (55cd-58) 
 
-kirn punaḥ śraddhayā yukto viśeṣakramapūjakaḥ | 
+kiṁ punaḥ śraddhayā yukto viśeṣakramapūjakaḥ | 
 
 *[p. 395]* ^pg417
 
@@ -259,12 +259,12 @@ What to say of one who, endowed with faith, worships the special Krama? O mistre
 
 187a g) śrībhairava uvāca yā sā kundalinīśaktir guhyacakre \[g: -śaktiguhya-\] vyavasthitā \[g: -tam\] |
 gūhanīyari sadā bhadre tat sthānaṁ sarvakāmadam || 74 ||
-149b) tadā guhyeti vikhyāta guhyād guhyatararn sadā |
-tadudbhavaṁ tu amṛtarn durlabhaṁ yat surāsuraiḥ ॥ 75 ॥
+149b) tadā guhyeti vikhyāta guhyād guhyataraṁ sadā |
+tadudbhavaṁ tu amṛtaṁ durlabhaṁ yat surāsuraiḥ ॥ 75 ॥
 yasya janmasahasrāṇi kṣayari yānti kulārṇave |
 saṁsāravāsanā \[k: vyasanā\] yasya nihśeṣā gatiḥ priye ॥ 76 ॥
 tadā saṁśuddhadehasya \[g: -yam\] bhāvanā \[k: -nāṁ\] yāti tatpade |
-yasya devātidevena bhairavena \[kh g: -na\] mahātmanā ॥ 77 ||
+yasya devātidevena bhairaveṇa \[kh g: -na\] mahātmanā ॥ 77 ||
 anugrahaṁ yadā prāptari tadā matir bhavet sadā | 
 
 The venerable Bhairava said: 
@@ -272,7 +272,7 @@ The venerable Bhairava said:
 The power Kundalinī is located in the Secret Wheel (guhyacakra) (of the genitals). O fair lady, that place, which bestows all desires, should always be kept hidden. Then it is called ‘hidden’ (guhyā). It is always more hidden than the hidden. The nectar that comes from that is hard to acquire (even) by gods and demons. Thousands of births cease in the ocean of Kula of the one who acquires it. All (that remains of his) condition is (just) a latent trace of transmigratory existence. Then the contemplation (bhāvanā) of one whose body is completely pure goes to that abode. If one has attained (that) by the grace of the great soul Bhairava, who is the God beyond the gods, then he always possesses an enlightened mind (mati). (74-78ab) 
 
 amā somakalā yā tu brahmadvāre vyavasthitā || 78 ||
-tatra yātaṁ jalan Śuddhaṁ patitarn kaundalīhṛdi | 
+tatra yātaṁ jalan Śuddhaṁ patitaṁ kaundalīhṛdi | 
 
 729?\. Verse 60 is quoted in the TĀv ad 29/99-100ab.
 
@@ -286,7 +286,7 @@ valipalitanirmuktāḥ sarvavyādhivivarjitāḥ ॥ 80 ॥
 The lunar digit of the New Moon (amā) is located within the Door of Brahmā. The pure water that has gone there has fallen into KunṇdalinT’s heart. The nectar that has come from his body is the juice (rasa) of Kunṇdalinī. By just eating it, (yogis) become immortal and are free from old age, grey hair, wrinkles and all diseases. (78cd-80) 
 
 karpūrāgurugandhāni mṛgajāni viśeṣataḥ |
-pītamātreṇa deveśi kih punar martracetasā || 81 Il divyadeho ‘pi tṛptātmā dagdhabījaḥ \[g: -jo\] punar bhavet |
+pītamātreṇa deveśi kiṁ punar martracetasā || 81 || divyadeho ‘pi tṛptātmā dagdhabījaḥ \[g: -jo\] punar bhavet |
 aṣṭādaśavidhaḥ kuṇdari \[kh g: \[illegible\] jvararogaharādikam \[k, kh, g: - garādikam\] ॥ 82 ॥
 viṣāṁś \[k kh: viṣāś\] ca vividhān ghorāṁś cakṣurogān anekaśaḥ |
 187b g) pītamātreṇa deveśi sarvasiddhyāruho bhavet || 83 ॥ 
@@ -300,7 +300,7 @@ The (sacrificial) hearth which is of eighteen kinds counters fever and disease (
 ādau yoginisahghasya yajanań pūjanaṁ hitam |
 1314 kh) kulakaulasya sāmnidhyaṁi \[kh g: sānidhyai\] yogeśīvīravallabham ॥
 84॥
-vīranāthaṁ svayarn devi bhavabandhaniṣūdanam \[kh: bhavevarisūdanarmi\] |
+vīranāthaṁ svayaṁ devi bhavabandhaniṣūdanam \[kh: bhavevarisūdanarmi\] |
 bhavaṁ bhavodbhavaṁ \[illegible\] bhāve grāhyaṁ bhavāntakam ॥ 85 ॥
 bhasmasāt \[g: -sā\] kurute sarvaùń māyīyārṇavakarmajam \[kh: -yāṇa; g: - yānṇava-\] |
 sparśanād \[k, g: -nāḷ} darśanāt prāśya \[kh: prāśyāt; g: prāśyā\] pītvā sarvārthasiddhidam || 86 ॥ 
@@ -361,7 +361,7 @@ O fair lady, the sacrificial substance itself, especially in association with Ma
 srīdevyuvāca 
 
 ekavīras tvayā prokto \[kh g: proktam\] maṁtra yo na prakāśitaḥ ॥ 99 ॥
-188b g) yena sā labhate siddhi \[k g: siddhi\] dravyaṁ \[g: dvavyarn\] devyā rasar bhavet |
+188b g) yena sā labhate siddhi \[k g: siddhi\] dravyaṁ \[g: dvavyaṁ\] devyā rasar bhavet |
 amṛtatvarhi bhaved yena vīrāṇnām sarhinidhir bhavet ॥ 100 ॥
 tad ahaṁ śrotum icchāmi kulasiddhir bhaved \[kh:-bhavad\] yathā |
 kulasiddhiparan mukhyari sarvamadhye (> -madye) vyavasthitam || 101 ॥
@@ -374,10 +374,10 @@ You have imparted (the teaching concerning) the Solitary Hero. (But) mantra has 
 
 150b) śrībhairava uvāca 
 
-śṛnusvaikamanā bhadre \[kh g: śṛnuṣveka-\] akathyarn kathayāmi te |
+śṛnusvaikamanā bhadre \[kh g: śṛnuṣveka-\] akathyaṁ kathayāmi te |
 \[illegible\] sā kundalinī nāma guptasthā sā \[kh: yā\] ca nityaśaḥ ॥ 103 ॥
 svetaraktanibhākārā śravantī yonimadhyagā \[k kh g: -ge\] |
-medhravāhā kharandhrenṇa sādhakasya sthitā tu yā ॥ 104 II tasyā devātideveśyā martro ‘yarn kathayāmi te |
+medhravāhā kharandhrenṇa sādhakasya sthitā tu yā ॥ 104 ॥ tasyā devātideveśyā martro ‘yarn kathayāmi te |
 anākhyeyari paraḥ kaulaṁ kulasārasya nirṇayam || 105 ॥
 yena \[k: aina\] vai smṛtamātreṇa yoginīvīrasarnikhyayā |
 189a g) saṁinidhānari prakurvanti mātryuktāś ca bhāmini ॥ 106 ॥ 
@@ -423,7 +423,7 @@ tad atra dīkṣāyām eva pratyavatiṣthante saugatāḥ - iha dīkṣayā kim
 
 śaktipāto ‘kṣīṇamalasya, 
 
-anyasya vā? kaś cātmanaḥ saṁskāraḥ? karmanivṛttiḥ, sukhaduhkhasaṁvinnivṛttiḥ, prakṛtyādivivekadarśanam, svasvarūpajñānam advaitadṛṣṭir vā? buddher api kah saṁskāra? kim indriyapreranāsāmarthyam, rāgādihānyādhānam, unmūlanamṁ vā? 
+anyasya vā? kaś cātmanaḥ saṁskāraḥ? karmanivṛttiḥ, sukhaduhkhasaṁvinnivṛttiḥ, prakṛtyādivivekadarśanam, svasvarūpajñānam advaitadṛṣṭir vā? buddher api kaḥ saṁskāra? kim indriyapreranāsāmarthyam, rāgādihānyādhānam, unmūlanamṁ vā? 
 
 malāūnām api kiṁ tadaiva kāryaprasavāsāmarthyam, 
 
@@ -455,7 +455,7 @@ akṣīṇamalasya śaktipāte sarvasyāsau syāt, malakṣayo ‘nyataḥ kuta�
 
 eva taṁy ātmanaḥ samskāro bhaviṣyatīti \[illegible\] śaktipātahetukena dīkṣāvidhānena? 
 
-ātmanaś ca nityaikasvabhāvasya karmatadbhoganivṛttyanivṛttyor aviśiṣtasya kah samṁiskāraḥ? vaiśiṣtye nityatāhāniḥ | karmabhogayoḥ vyatiriktayor nāśe tasya kim vṛttam? tatsamavāyo ‘sya nivṛtta iti cet, so 
+ātmanaś ca nityaikasvabhāvasya karmatadbhoganivṛttyanivṛttyor aviśiṣtasya kaḥ samṁiskāraḥ? vaiśiṣtye nityatāhāniḥ | karmabhogayoḥ vyatiriktayor nāśe tasya kim vṛttam? tatsamavāyo ‘sya nivṛtta iti cet, so 
 
 ‘pi karmādivat svātmany evety ātmano na bhoktṛtvakartṛtve, nāpi tadupaśamātmā muktiḥ syāt | 
 
@@ -481,7 +481,7 @@ rāgādidoṣāś ca savāsanākā dīkṣitasya na nivartante | buddher unmūla
 
 then, when the means (by which it takes place) is incapable (of operating), would the functioning of the Impurities be interrupted. (This may be your view, but according to us,) saying that the incapacitation (of the intellect) depends upon the death (of the body) is (just) a path to run away (from the debate). 
 
-mṛtyavasare ca dīkṣitasyātmādigrahaḥ prāgvad evopalabhyate | evan karmasv api vācyam, ārabdhakāryakarmasaṁiśodhane dīkṣāyā na sāmarthyam iti cet, anyatrāpi ka āśvāsaḥ? āgamapramānakam etad iti cet, āgamasya tadarthan kah pratibandhaḥ? mantrapratibandhād yathā bījam a"nkuram na sūte, tadvat karmabījāny api na saṁsāraṁ suvate iti | bījādisaṁsiddhyuktyā bījādivad dīkṣitasya tailābhya"nga-dāhādayo ‘py asāmarthyādhānahetavaḥ kriyantām |
+mṛtyavasare ca dīkṣitasyātmādigrahaḥ prāgvad evopalabhyate | evan karmasv api vācyam, ārabdhakāryakarmasaṁiśodhane dīkṣāyā na sāmarthyam iti cet, anyatrāpi ka āśvāsaḥ? āgamapramānakam etad iti cet, āgamasya tadarthan kaḥ pratibandhaḥ? mantrapratibandhād yathā bījam a"nkuram na sūte, tadvat karmabījāny api na saṁsāraṁ suvate iti | bījādisaṁsiddhyuktyā bījādivad dīkṣitasya tailābhya"nga-dāhādayo ‘py asāmarthyādhānahetavaḥ kriyantām |
 amūrtatvāt karmaṇām abhya"ngādayo na santīti tāni dīkṣaiva kṣapayati, tathā ca ghaṭadīkṣādīkṣitasya lāghavam apy upalabhyata iti cet, nāmūrtasya pāpādeḥ, gurutvābhāvāt | tasmāt kṣaṇikatvādibhāvanāpūrvikā nairātmyadṛṣṭir eva mokṣa iti | 
 
 One perceives that at the moment of death, as before, the initiate lays hold of the Self etc. One should say the same with regards to (his) Karmas. If (one were to reply) that initiation is not capable of purifying the Karma of which the effect has begun (to take place), (we would reply) what certainty could there be that that is (not so) elsewhere, (in the case of other sorts of Karma)? If (you say) that the authority for that is scripture, what prevents (the acceptance that) that is the sense of the scripture? Just as a seed that is obstructed by Mantra does not give birth to a sprout, in the same way, the seeds of Karma do not give birth to transmigratory existence. By comparing the success (of the rite of initiation to the sprouting of) a seed and the like, (what is meant is that) the causes that incapacitate the initiate (preventing his attainment of the goal) apply, for example to a seed, (that does not sprout) if it is smeared with oil, burnt and the like. (However, the analogy does not hold.) Karmas are formless, whereas smearing (with oil) and the like are not. 
@@ -521,7 +521,7 @@ ity āmnāyanirūpitasthityā āṇnavādipāśapraśamanaśivatvābhivyaktiyogy
 
 It is because everybody’s (consciousness) is contracted and consists of craving and the like (and their mind is) strewn with hundreds of inner (mental) sketches (of thought constructs) and the form (of their body) is thin and white or the like, that perceptions such as “I know this there” are effected (siddha). This is the meaning. The purification (saṁskāra) of this kind of latent trace that has been repeatedly (reinforced) (abhyasta) for thousands of rebirths and belongs to one who is like this (i.e. whose consciousness is contracted and is bound) is essentially the competence to make Śiva’s state manifest by quelling the fetters of (the Impurity) of the individual soul (Ānavamala) and the rest of them. (It is brought about) by initiation, the nature of which has been described by the tradition (as follows): 
 
-‘It bestows (dīyate) the essence of knowledge, and the latent trace of the fettered state is destroyed (kṣīyate); thus, endowed with (the capacity of) ‘bestowing’ \[illegible\] (knowledge) and the ‘destruction’ (kṣapana) (of the fettered state), it is called ‘initiation’ (dīkṣā).” 
+‘It bestows (dīyate) the essence of knowledge, and the latent trace of the fettered state is destroyed (kṣīyate); thus, endowed with (the capacity of) ‘bestowing’ (dāna) (knowledge) and the ‘destruction’ (kṣapana) (of the fettered state), it is called ‘initiation’ (dīkṣā).” 
 
 (Initiation) is effected in accord with the descent of the power (of grace) that has been induced by the influence of devotion (apparent) by the spontaneous desire (that arises in the fettered soul) to go to a teacher etc. The quelling of the fetters takes place by the influence of the inscrutable (acintya) power of Mantra. Just as (by that same power) seeds have no power to grow. As is (said): 
 
@@ -647,7 +647,7 @@ eva
 
 dīkṣā, śaktipāto malakṣayāt sa ca śaktipātād itītaretarāśrayaḥ, 
 
-akṣīṇnamalasya śaktipāte sarvasyāsau syāt, atha malakṣayasya śaktipātād anyo hetuḥ kaścit sa eva tarhi śaktipāte hetur astu kirn malakṣayenṇetiṁ | satyam etat, kitu nirargalapārameśavicitraśaktipātavato 
+akṣīṇnamalasya śaktipāte sarvasyāsau syāt, atha malakṣayasya śaktipātād anyo hetuḥ kaścit sa eva tarhi śaktipāte hetur astu kiṁ malakṣayenṇetiṁ | satyam etat, kitu nirargalapārameśavicitraśaktipātavato 
 
 731?\. This verse is quoted at the beginning of Chapter Twenty.
 
@@ -707,7 +707,7 @@ of difference (abheda). (If it were to do so,) then (that) negation would fall (
 
 athātmano jṁñānāntaraiḥ saha bhedam anadhyavasyan na vāntarāṇy abhedenā-dhyavasyati, tarhi yenātmanā saha yeṣāṁn jñānānām bhedo nādhyavasitaḥ, teṣām 
 
-abhedādhyavasāye tasyātmano ‘py abhedādhyavasāyaḥ prāptaḥ, ātmavad vā teṣām apy aprāptaḥ, anyathātmanā saha kas teṣāṁm bhedaḥ | na adhyavasāyaḥ, bhedādhyavasāya eva hy ayam itthaḥ syāt |
+abhedādhyavasāye tasyātmano ‘py abhedādhyavasāyaḥ prāptaḥ, ātmavad vā teṣām apy aprāptaḥ, anyathātmanā saha kas teṣāṁm bhedaḥ | na adhyavasāyaḥ, bhedādhyavasāya eva hy ayam itthaṁ syāt |
 (7 ca, anubhavasariskārottham ātmano rūpavaicitryam anubhavatāpi vikalpena nivṛttapūrvāṇy 
 
 anubhavāntarāṇny avasātuṁ śsakyante, tatrāsya nārikeladvīpanivāsitulyatvāt |
@@ -732,7 +732,7 @@ tuṣakambukavajjṁñeyan māyājama"nkurasya tu | |
 
 The Self is the true nature of oneness which is established (siddha) by the reflective awareness of uncreated subjectivity (akṛtakāhaṁvimarśa) that abides (unchanged) even when each appearing (of every single thing) is different (from every other) (ābhāsabheda). Surely (someone may ask), the venerable teacher Kheṭapāla accepts that the descent of the power (of grace) is caused by the complete maturation of Impurity and has criticized the view that the descent of the power (of grace) is independent (of any causes and conditions). So how does that square with its being based on the view that the descent of the power (of grace) is independent? It is said here (in this regard): If one desires to argue about this, that also is being discussed (with reasoned argument) (nirnīyate). Listen: 
 
-‘Now, it is said that the (fundamental) beginningless Impurity (mala) of the (countless) individual souls is their (basic) fettered state \[illegible\] One should know that (the Impurity) born from Māyā is like the chaff and integument of the sprout (of the fettered state).”? 
+‘Now, it is said that the (fundamental) beginningless Impurity (mala) of the (countless) individual souls is their (basic) fettered state (paśutva). One should know that (the Impurity) born from Māyā is like the chaff and integument of the sprout (of the fettered state).”? 
 
 iti Śrīsvāyarṁbhuvasūtre "mala" iti \[illegible\] iti coktiparyālocanayā eko ‘py asau bahuśaktikaḥ anyathā bahvāvārakatvam asya na ghaṭate, ekamuktau ca sarve mucyeran, karmabhiś ca saha pariṇamati, amiśrasya pariṇnāmāyogāt |
 pariṇnamaṁś ca kālaviśeṣāt kamicit prati katharicit tīvramadhyādibhedād yadā paripacyate, tadā pumṁsāṁ karmaparipākam ivāpekṣya śaktipātam karoti maheśvaraḥ, 
@@ -758,14 +758,14 @@ According to the view of those who maintain that the descent of the power (of gr
 anādy anādisambaddho (printed edition: -sańmbandho) 
 
 malaḥ sādhāraṇo ‘kṣayaḥ |
-pratipurniyataḥ svasvakālavyāpṛtaśaktikaḥ (printed edition: -vyāvrtta-) | |
+pratipurniyataḥ svasvakālavyāpṛtaśaktikaḥ (printed edition: -vyāvṛtta-) | |
 (132cd-133ab) iti | tathā 
 
 muktvā (printed edition: tyaktvā) nirodhikāḥ śaktīr nānyo dharmo ‘sya vidyate |
-karmāśayasametasya hetutvarn ca bhavārnṇave (printed edition: bhaved bhave) |
+karmāśayasametasya hetutvaṁ ca bhavārṇave (printed edition: bhaved bhave) |
 (145) iti | 
 
-tad atra yadi svātantryān malo bandhakaḥ, śivamuktānṇūn pratyapi syāt | atha śivecchā (> -tah) 
+tad atra yadi svātantryān malo bandhakaḥ, śivamuktānṇūn pratyapi syāt | atha śivecchā (> -taḥ) 
 
 tacchivasya vītarāgadveṣatvād muktāṇūn praty api malaśaktiprerakatvaṁ syāt | \[illegible\] svasvarūpābhivyaktir na tathā iti cet, netareṣām api svasvarūpasya tathātvāt | anādimalanirodhān na tathātvam ity ayuktam, 
 
@@ -781,7 +781,7 @@ So too:
 
 tannirodhasyaiva vicārayituṁ prakrāntatvāt | yadi cānādir nirodhaḥ, kṛtam sivaśaktyadhiṣthānena | tad apy anādi cet, kim ubhābhyām, malaśaktikṛta-nirodhasyānāditvamātreṇaiva sulebhenottareṇna (sulābheno-) 
 
-niyatapurn-viṣayatvam ucyatām | evam astv iti cen na, Śivasya sarvatrādhiṣthātṛtvaṁ syāt, tataś ca ---- 
+niyatapuṁ-viṣayatvam ucyatām | evam astv iti cen na, Śivasya sarvatrādhiṣthātṛtvaṁ syāt, tataś ca ---- 
 
 malasarisargāt tadvat teṣām akṛto hi śivavaśīkāraḥ |
 patyus tv te rodhyā..... 
@@ -859,11 +859,11 @@ karmabhiḥ sahitasya bhaviṣyatīti cen na, tāni malasyāntarviśantīti kās
 māyāvikārayoge karmayutaḥ kāraṇari malo bhavinām |
 malaśaktayo vibhinnāḥ pratyātmānari ca tadgunāvarikāḥ ॥ 11 ॥ 
 
-(Now, let us see what) they say concerning the (purifying) transformation \[illegible\] of Impurity. How can that happen to this unmixed (Impurity)? If (you say) that it will take place (as Impurity is) associated with Karmas, (we say) no (we disagree). They enter into Impurity (and so are included within it). So what would they be mixed with? Even though 
+(Now, let us see what) they say concerning the (purifying) transformation (pariṇāma) of Impurity. How can that happen to this unmixed (Impurity)? If (you say) that it will take place (as Impurity is) associated with Karmas, (we say) no (we disagree). They enter into Impurity (and so are included within it). So what would they be mixed with? Even though 
 
 ‘The cause of (the existence of) the fettered souls is Impurity, along with Karma (that generates their bodies) when associated with the modifications (vikāra) of Māyā (that bring about their worldly states of being - bhāva).’ (TTP llab) 
 
-ity ukta bharvādbhaḥ, tathāpi vijñānakevalināṁ malasya karmasāhityā-bhāvāt parināmāyoge muktyabhāvaḥ syāt | mantramantreśvarādīnāṁ ca yo ‘yam adhikārabandhaḥ, nāsau sahajamalakṛtaḥ tasya māyordhve ‘bhāvād iti tadarthaḥ malāntaram abhyupagantavyam |
+ity ukta bharvādbhaḥ, tathāpi vijñānakevalināṁ malasya karmasāhityā-bhāvāt parināmāyoge muktyabhāvaḥ syāt | mantramantreśvarādīnāṁ ca yo ‘yam adhikārabandhaḥ, nāsau sahajamalakṛtaḥ tasya māyordhve ‘bhāvād iti tadarthaṁ malāntaram abhyupagantavyam |
 teṣāṁm māheśyā mahāmāyā- 
 
 saktyaiva tāvatāṁśena bandhatvam, na tu vyatiriktenānyena maleneti cet, aṇūnām api māyā-śaktyā sa"nkucitatvābhāsanaḥ bandhanam astu, kim anupapannavyatirikta-malābhyupagamena |
@@ -925,7 +925,7 @@ apekṣya bhagavān malam ruṇaddhi, sa ca kālo duhkhasukharahitaḥ svayam up
 
 Now, as worldly experience goes on recurring, when at some time two Karmas of equal and contrary strength (block one another and) are also mature, (the soul) becomes indifferent (to both of them, as neither affects him,) due to (their mutual) opposition. (However, at that time) other Karmas are not propense to give rise to worldly experience (as they otherwise would be) because they are not mature. Thus, the Lord blocks (a soul’s) Impurity in accord with that (particular) time (when the two Karmas cancel each other out). That time is (one in which the soul is) devoid of the pleasure and pain (that are the consequence of Karma) and spontaneously (svayam) perceives it. This is the (opponent’s) view. 
 
-tad atrāpi brūmahe ---- karmaṇām kramānuṣṭhitāūnāmṁ kramikaphalānām katha tāvad yugapat-phaladānaunmukhyam, kathari vā tannirodhāvasare tato ‘nyat karmaphalaḥ na dadyāt | tasya svakāla eva phaladānonmukhatvaṁ na tu tatkāla iti cet, tayor api tarhi na tadekakālaṁ yuktam | īśvarecchāta eveti cet sā yadi svatantrā, tadyugapat sarvasya sarvakarmaparipākāt tadbhogarn dattvā muktiṁ vitaratu, karmānapekṣayā vā sarvasya malańi ruṇaddhu | 
+tad atrāpi brūmahe ---- karmaṇām kramānuṣṭhitāūnāmṁ kramikaphalānām katha tāvad yugapat-phaladānaunmukhyam, kathari vā tannirodhāvasare tato ‘nyat karmaphalaḥ na dadyāt | tasya svakāla eva phaladānonmukhatvaṁ na tu tatkāla iti cet, tayor api tarhi na tadekakālaṁ yuktam | īśvarecchāta eveti cet sā yadi svatantrā, tadyugapat sarvasya sarvakarmaparipākāt tadbhogaṁ dattvā muktiṁ vitaratu, karmānapekṣayā vā sarvasya malańi ruṇaddhu | 
 
 Here also (with regard to that) we say: Karmas are produced sequentially and their consequences (also follow one after another) sequentially. How then can they be propense to bear fruit simultaneously? And how is it that when they block (one another), some other fruit of Karma does not arise as a result of that (tataḥ)? If (you say) that it is propense to bear fruit at its own time, not at that (other) time, (we reply that) then it is sound (to maintain) that the two (Karmas arise) at the same time. If (you say) that (it happens) because of the Lord’s will, (our reply is that) if (that will) is free, it may bestow liberation after having given rise to the experience (which is a consequence of) that (Karma) by maturing all the Karmas of all (the souls) simultaneously. (Indeed, the Lord) may block everybody’s Impurity independently of (their) Karma! 
 
@@ -968,7 +968,7 @@ vairāgyaṁi bhogavairasyaṁ dharmaḥ ko ‘pi vivekitā |
 satsa"ngaḥ parameśānapūjādyabhyāsanityatā | |
 āpatprāptis tannirīkṣā dehe kiñcic ca lakṣaṇam |
 sāstrasevā bhogasa"nghapūrnatā jñānam aiśvaram | |
-ityādihetuke cecchā malari rundhe hathād iti | 
+ityādihetuke cecchā malari rundhe haṭhād iti | 
 
 ‘In the presence of (the following) causes, (the Lord’s) will forcefully blocks Impurity: dispassion (vairāgya), (a sense of) the insipid (unattractive nature) 
 
@@ -982,7 +982,7 @@ tathārūpatvādṛṣṭteḥ, nāpy ekaikasyeśecchāhetutvam, vairāgyādeḥ
 
 If the cause of their arising also is the Lord’s will, (then) they depend on one another. (In other words, the good qualities said to be the cause of grace are due to the Lord’s will; at the same time, those qualities themselves depend on grace for their existence). It is not possible to state another cause because that too is not regulated (by a causal or other such fixed determined relationship). Nor are these all (together) causes of the Lord’s will (to grace), because one does not see that that is the nature of those for whom a descent of the power (of grace) has taken place (i.e. they do not possess all these qualities). Nor is it (the case) that each single one is a cause, for one sees that (even sincere devotees commit) hundreds of transgressions of dispassion and the rest. (Moreover,) worship of the Supreme Lord and knowledge (of his sovereignty) etc. are preceded by the maturing of Impurity. It is not sound (to maintain that) they impel the Lord’s will. 
 
-yat punar anyad uktam - \[illegible\] mukteḥ kramikatvarn dṛṣtvā īśecchāyā api malaparipāka-hetutvaṁ kramikam anumīyate, yathā bhogasya kramāt 
+yat punar anyad uktam - \[illegible\] mukteḥ kramikatvaṁ dṛṣtvā īśecchāyā api malaparipāka-hetutvaṁ kramikam anumīyate, yathā bhogasya kramāt 
 
 taddhetukarmaparipākahetutvam kramikam iti, tad asat, mukteḥ kramo 
 
@@ -1012,7 +1012,7 @@ Although, (where it was said) in chapter four that ‘craving is the Impurity he
 
 atha jīvānāṁ tādṛgānantyam asti, yadīśenāpi na paricchidyate tarhi 
 
-Tśasyāsarvajñatā syāt | tad uktarn śārīrake muninā ---- antavattvam asarvajṁñatā vā (41) iti | āstām etat | 
+Tśasyāsarvajñatā syāt | tad uktaṁ śārīrake muninā ---- antavattvam asarvajṁñatā vā (41) iti | āstām etat | 
 
 Now individual souls are, in that way, endless (in number); if they were not to be differentiated (and individually identified) by the Lord also, He would not be omniscient. That is said by Muni in the Śārīraka: ‘having an end or the lack of omniscience’. (2/2/41) Let this suffice. 
 
@@ -1076,12 +1076,12 @@ so ‘pi tathātvasphuraṇād vastv eva malo ‘stu śāstreṣu |1411
 dīkṣāyogajñānair dhvaṁse ‘pi malasya nātmanāśo ‘sti |
 svacchasvacchandātmakacidghanatāvyaktir eva yanmokṣaḥ | | 5 | |
 jalam iva jale \[illegible\] payasi payo yadvad \[illegible\] tadvat |
-yānty ekatvarn dīkṣyā dīkṣākramenṇa dīkṣitā iti hi |1 6 |1
+yānty ekatvaṁ dīkṣyā dīkṣākramenṇa dīkṣitā iti hi |1 6 |1
 rauravaśāstre ‘py uktańn prāyas tarn vṛthaiva vṛttikṛtā |
 yenārthavyākhyābhis tasmin devas tathā tathā prathitaḥ | | 7 | |
-tad alarn bhedavikalpair anargaleśānaśaktipātotthā |
+tad alaṁ bhedavikalpair anargaleśānaśaktipātotthā |
 svacchandaśivaikyamayī muktir dīkṣādito ghaṭate || & | |
-ittharn dīkṣopāyo yo yo yair yair yathā yathā vihitaḥ |
+itthaṁ dīkṣopāyo yo yo yair yair yathā yathā vihitaḥ |
 so ‘pīttham eva sarvaḥ samarthyatāṁ śaktipāteddhaiḥ |19 | | 
 
 Free, dense (uninterrupted) consciousness perpetually flashes forth as all things, contracting and expanding, conjoined with both and free of them (both). (1) 
@@ -1092,7 +1092,7 @@ The contracted individual soul who experiences the consequence of each Karma it 
 
 In this way, the craving which is the contraction (of consciousness), that is said to be worldly, also flashes forth as things really are (tathātva), and so is the entity that in the scriptures (is said to be) Impurity. (4) 
 
-Although Impurity is destroyed by the insights \[illegible\] due to initiation and Yoga, the Self is not destroyed. Liberation is just the manifestation of the density (which is the uninterrupted state of) consciousness that is pure (svaccha) freedom. Just as water is present in water and milk in milk as long as it is not drunk, so too those who have been initiated by the rite (krama) of initiation attain oneness by initiation. (5-6) 
+Although Impurity is destroyed by the insights (jñāna) due to initiation and Yoga, the Self is not destroyed. Liberation is just the manifestation of the density (which is the uninterrupted state of) consciousness that is pure (svaccha) freedom. Just as water is present in water and milk in milk as long as it is not drunk, so too those who have been initiated by the rite (krama) of initiation attain oneness by initiation. (5-6) 
 
 The effort made by the commentator is useless with regard to what is taught in the Raurava scripture; the God is experienced within it in this way and that by the explanations of the meaning (of the scripture found in scripture itself). (7) 
 

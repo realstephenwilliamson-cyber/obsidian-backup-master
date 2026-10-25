@@ -17,8 +17,7 @@ language:
   - English
 pages: 164
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Grayling - Russell, A Very Short Introduction (2002).pdf]]"
   - "[[Library/Philosophy/Russell, A Very Short Introduction (Grayling)/Russell, A Very Short Introduction (Grayling)]]"

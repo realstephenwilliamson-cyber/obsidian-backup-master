@@ -20,7 +20,7 @@ language:
 pages: 233
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Adorno - Problems of Moral Philosophy (2001).pdf]]"
   - "[[Library/Philosophy/Problems of Moral Philosophy (Adorno)/Problems of Moral Philosophy (Adorno)]]"

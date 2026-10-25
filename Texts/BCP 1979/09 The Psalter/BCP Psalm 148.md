@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 148
 verses: 14
-page_range:
-  - 806
-  - 806
+page_range: "806"
 aliases:
   - "BCP Psalm 148"
   - "BCP 806"
@@ -32,7 +30,7 @@ praise him, all his host. ^148-2
 **148:3** Praise him, sun and moon; \*  
 praise him, all you shining stars. ^148-3
 
-[p. 806]
+[p. 806] ^pg806
 
 **148:4** Praise him, heaven of heavens, \*  
 and you waters above the heavens. ^148-4

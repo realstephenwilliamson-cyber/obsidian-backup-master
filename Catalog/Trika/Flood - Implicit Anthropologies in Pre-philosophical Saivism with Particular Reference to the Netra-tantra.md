@@ -17,8 +17,7 @@ language:
   - English
 pages: 27
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[s10781-020-09435-0.pdf]]"
   - "[[Library/Trika/Implicit Anthropologies in Pre-philosophical Saivism (Flood)]]"

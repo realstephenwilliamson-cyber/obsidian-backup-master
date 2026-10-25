@@ -17,8 +17,7 @@ language:
   - English
 pages: 13
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[MantranspersonalpsychologyandtheDeviMahatmya.pdf]]"
   - "[[Library/Hinduism/Man, Transpersonal Psychology and the Devi Mahatmya (Satpathy)]]"

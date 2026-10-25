@@ -20,7 +20,7 @@ come forth.” Be they good or bad, they shall hear the Voice, and shall come fo
 
 15\. I suppose when it is said, “God shall raise the dead again,” no incredible thing is said for it is of God, not of man, that it is said. It is a great thing which shall be done, yea, an incredible thing that shall be done. But let it not be incredible, for see, who It is That doeth it. He it is said shall raise thee, Who created thee. Thou wast not, and thou art; and once made, shalt thou not be? God forbid thou shouldest think so! God did something more marvellous when He made that which was not; and nevertheless He did make that which was not; and shall it be disbelieved that He is able to re-fashion that which was, by those very persons whom He made what they were not? Is this the return we make to God, we who were not, and were made? Is this the return we make Him, that we will not believe that He is able to raise again what He hath made? Is this the return which His creature renders Him? “Have I therefore,” God saith to thee, “made thee, O man, before thou wast, that thou shouldest not believe Me, that thou shalt be what thou wast, who hast been able to be what thou wast not?” But you will say, “Lo, what I see in the tomb, is dust, ashes, bones; and shall this receive life again, skin, substance, flesh, and rise again? what? these ashes, these bones, which I see in the tomb?” Well. At least thou seest ashes, thou seest bones in the tomb; in thy mother’s womb there was nothing. This thou seest, ashes at least there are, and bones; before that thou wast, there was neither ashes, nor bones; and yet thou wast made, when thou wast not at all; and dost thou not believe that these bones (for in whatever state, of whatever kind they are, yet they are), shall receive the form again which they had, when thou hast received what thou hadst not? Believe; for if thou shalt believe this, then shall thy soul be raised up. And thy soul shall be raised up “now;” “The hour shall come, and now is;” then to thy blessing shall thy flesh rise again, “when the hour shall come, that all that are in the graves shall hear His Voice, and shall come forth.” For thou must not at once rejoice, because thou dost hear “and come forth;” hear what follows, “They that have done good unto the resurrection of life; but they that have done evil unto the resurrection of damnation.”<sup>3813</sup> Turning to the Lord, etc.
 
-381\. 2 *Inferorum*. 492 3814 John v. 31. 3815 John xiv. 6. 3816 John v. 33, 35. 3817 Ps. cxxxii. 17. 3818 Ps. cxxxii. 18, Sept. Luke xx. 2, etc.
+3812 *Inferorum*. 492 3814 John v. 31. 3815 John xiv. 6. 3816 John v. 33, 35. 3817 Ps. cxxxii. 17. 3818 Ps. cxxxii. 18, Sept. Luke xx. 2, etc.
 
 
 *[p. 1018]* ^pg1044
@@ -47,7 +47,7 @@ to acquiesce in Him to whom John bare witness. But when they said, “We do not 
 
 5\. For in this body of ours there is a struggle; as long as we live, we are in combat; as long as we are in combat, we are in peril; but, “in all these things we are conquerors through Him who loved us.”<sup>3824</sup> Our combat ye heard of just now when the Apostle was being read.
 
-382\. 0 2 Cor. xiii. 3, Vulgate. 3821 Ps. lxviii. 18; Eph. iv. 8. 3822 Rom. v. 5. 3823 2 Cor. iv. 7. 493 3825 Gal. v. 14. 3826 Ps. x. 5, Sept. (xi. 5, English version). 3827 Gal. v. 15, 16. 3828 *Deo militamus*. Gal. v. 17.
+3820 2 Cor. xiii. 3, Vulgate. 3821 Ps. lxviii. 18; Eph. iv. 8. 3822 Rom. v. 5. 3823 2 Cor. iv. 7. 493 3825 Gal. v. 14. 3826 Ps. x. 5, Sept. (xi. 5, English version). 3827 Gal. v. 15, 16. 3828 *Deo militamus*. Gal. v. 17.
 
 
 *[p. 1020]* ^pg1046
@@ -68,7 +68,7 @@ on this day, the sabbath that is, they that hunger after the word of God are won
 
 8\. Be not willing then to be overcome when thou fightest. See what kind of war, what kind of battle, what kind of strife he hath set forth, within, within thine own self. “The flesh lusteth against the Spirit.” If the Spirit lust not also against the flesh, commit adultery. But if the Spirit lust against the flesh, I see a struggle, I do not see a victory, it is a contest. “The flesh lusteth against the Spirit.” Adultery has its pleasure. I confess that it has its pleasure. But, “The Spirit lusteth against the flesh:” Chastity too has its pleasure. Therefore let the Spirit overcome the flesh; or by all means not be overcome by the flesh. Adultery seeks the darkness, chastity desires the light. As thou wouldest wish to appear to others, so live; as thou wouldest wish to appear to men, even when beyond the eyes of men so live; for He who made thee, even in the darkness seeth thee. Why is chastity praised publicly by all? Why do not even adulterers praise adultery? “Whoso” then “seeketh the truth, cometh to the light.”<sup>3832</sup> But adultery has its pleasure. Be it contradicted, resisted, opposed. For it is not so that thou hast nothing wherewith to fight. Thy God is in thee, the good Spirit hath been given to thee. And notwithstanding this flesh of ours is permitted to lust against the spirit by evil suggestions and real<sup>3833</sup> delights. Be that secured which the Apostle saith, “Let not sin reign in your mortal body.”<sup>3834</sup> He did not say, “Let it not be there.” It is there already. And this is called sin, because it has befallen us through the wages<sup>3835</sup> of sin. For in Paradise the flesh did not lust against the spirit, nor was there this struggle there, where was peace only; but after the transgression, after that man was loth to serve God and was
 
-383\. 0 Gal. v. 17. 3831 Rom. vii. 19. 3832 John iii. 21. 3833 *Genuinis*. 3834 Rom. vi. 12. *Merito*. 494 3836 Rom. viii. 13. 3837 1 Cor. ii. 11. 3838 Gen. vi. 17 and vii. 22. 3839 Ps. cxlvii. 8, Sept. (cxlviii. 8, English version).
+3830 Gal. v. 17. 3831 Rom. vii. 19. 3832 John iii. 21. 3833 *Genuinis*. 3834 Rom. vi. 12. *Merito*. 494 3836 Rom. viii. 13. 3837 1 Cor. ii. 11. 3838 Gen. vi. 17 and vii. 22. 3839 Ps. cxlvii. 8, Sept. (cxlviii. 8, English version).
 
 
 *[p. 1022]* ^pg1048
@@ -79,7 +79,7 @@ given up to himself; yet not so given up to himself as that he could so much as 
 
 9\. For when he says, “The flesh lusteth against the Spirit, and the Spirit against the flesh;” do not suppose that so much hath been attributed to the spirit of man. It is the Spirit of God who fighteth in thee against thyself, against that which in thee is against thee. For thou wouldest not stand to Godward; thou didst fall, wast broken; as a vessel when it falls from a man’s hand to the ground, wast thou broken. And because thou wast broken, therefore art thou turned against thyself; therefore art thou contrary to thine own self. Let there be nought in thee contrary to thyself, and thou shalt stand in thine integrity. For that thou mayest know that this office appertaineth to the Holy Spirit; the Apostle saith in another place, “For if ye live after the flesh, ye shall die; but if ye through the Spirit do mortify the deeds of the flesh, ye shall live.”<sup>3836</sup> From these words man was at once uplifting himself, as though by his own spirit he were able to mortify the deeds of the flesh. “If ye live after the flesh, ye shall die; but if through the Spirit ye do mortify the deeds of the flesh, ye shall live.” Explain to us, Apostle, through what spirit? For man also hath a spirit appertaining to his proper nature, whereby he is man. For man consists of body and spirit. And of this spirit of man it is said, “No man knoweth the things of a man, save the spirit of man which is in him.”<sup>3837</sup> I see then that man himself hath his own spirit appertaining to his proper nature, and I hear thee saying, “But if through the Spirit ye do mortify the deeds of the flesh, ye shall live.” I ask, through what spirit; my own, or God’s? For I hear thy words, and am still perplexed by this ambiguity. For when the word “spirit” is used, it is used sometimes of the spirit of a man, and of cattle, as it is written, that “all flesh which had in itself the spirit of life, died by the flood.”<sup>3838</sup> And so the word spirit is spoken of cattle, and spoken of man too. Sometimes even the wind is called spirit; as it is in the Psalm, “Fire, hail, snow, frost, the spirit of the tempest.”<sup>3839</sup> For as much then as the word “spirit” is used in many ways, by what spirit, O Apostle, hast thou said that the deeds of the flesh are to be mortified; by mine own, or by the Spirit of God? Hear what follows, and understand. The difficulty is removed by the following words. For when he had said, “But if through the Spirit ye mortify the deeds of the flesh, ye shall live;”<sup>3840</sup> he added immediately, “For as many as are acted<sup>3841</sup>
 
-384\. 0 Rom. viii. 13. *Aguntur*.
+3840 Rom. viii. 13. *Aguntur*.
 
 
 *[p. 1023]* ^pg1049
@@ -92,7 +92,7 @@ upon by the Spirit of God, they are the sons of God.” Thou dost act, if thou a
 
 11\. But now, when “the flesh lusteth against the Spirit, and the Spirit against the flesh,” is the contention of death; we do not what we would. Why? Because we would that there should be no lusts, but we cannot hinder it. Whether we will or not, we have them; whether we will or not, they solicit,<sup>3844</sup> they allure, they sting, they disturb us, they will be rising. They are repressed, not yet extinguished. How long does the flesh lust against the Spirit,
 
-384\. 2 *Venatores*. 3843 1 Cor. xv. 53, etc. *Titillant*.
+3842 *Venatores*. 3843 1 Cor. xv. 53, etc. *Titillant*.
 
 
 *[p. 1024]* ^pg1050
@@ -103,7 +103,7 @@ and the Spirit against the flesh? Will it be so, even when the man is dead? God 
 
 12\. But do what ye are able; what the Apostle himself says in another place, which I had already begun to repeat; “Let not sin reign in your mortal body, to obey the desires there- 495 of.”<sup>3846</sup> Lo, what I would not; evil desires arise; but obey them not. Arm thyself, assume the weapons of war. The precepts of God are thy arms. If thou listen to me as thou shouldest, thou art armed even by that which I am speaking. “‘Let not sin,’ he says, ‘reign in your mortal body.’ For as long as ye bear a mortal body, sin doth fight against you; but let it not reign.” What is, “Let it not reign”? That is, “to obey the desires thereof.” If ye begin to obey, it reigns. And what is it to obey, but to “yield your members as instruments of iniquity unto sin”? Nothing more excellent than this teacher. What wouldest thou that I should yet explain to thee? Do what thou hast heard. Yield not thy members instruments of iniquity unto sin. God hath given thee power by His Spirit to restrain thy members. Lust riseth up, restrain thy members; what can it do now that it hath risen? Restrain thou thy members; yield not thy members instruments of iniquity unto sin; arm not thine adversary against thyself. Restrain thy feet, that they go not after unlawful things. Lust hath risen up, restrain thy members; restrain thine hands from all wickedness; restrain the eyes, that they wander not astray; restrain the ears, that they hear not the words of lust with pleasure; restrain the whole body, restrain the sides, restrain its highest and lowest parts. What can lust do? How to rise up, it knoweth. How to conquer, it knoweth not. By rising up constantly without effect, it learns not even to rise.
 
-384\. 5 *Exercete*.
+3845 *Exercete*.
 
 
 *[p. 1025]* ^pg1051
@@ -114,7 +114,7 @@ and the Spirit against the flesh? Will it be so, even when the man is dead? God 
 
 14\. Christ raised up the daughter of the ruler of the synagogue who was dead in the house.<sup>3848</sup> She was in the house, she had not yet been carried out. So is the man who hath determined on some wickedness in his heart; he is dead, but he lies within. But if he has come as far as to the action of the members, he has been carried out of the house. But the Lord raised also the young man, the widow’s son, when he was being carried out dead beyond the gate of the city.<sup>3849</sup> So then I venture to say, Thou hast determined in thine heart, if thou call thyself back from thy deed, thou wilt be cured before thou put it into action. For if thou repent in thine heart, that thou hast determined on some bad and wicked and abominable and damnable thing; there where thou wast lying dead, within, so within hast thou arisen. But if thou have fulfilled, now hast thou been carried out; but thou hast One to say to thee, “Young man, I say unto thee, Arise.” Even though thou have perpetrated it, repent thee, return at once, come not to the sepulchre. But even here I find a third one dead, who was brought even to the sepulchre. He has now upon him the weight of habit, a mass of earth presses him down exceedingly. For he has been practised much in unclean deeds, and is weighed down exceedingly by his immoderate<sup>3850</sup> habit. Here too Christ crieth, “Lazarus,
 
-384\. 7 Rom. vii. 17. 3848 Mark v. 35. *Vid*. Serm. xlviii. (Ben. xcviii.). 3849 Luke vii. 12, etc. *Nimiâ*.
+3847 Rom. vii. 17. 3848 Mark v. 35. *Vid*. Serm. xlviii. (Ben. xcviii.). 3849 Luke vii. 12, etc. *Nimiâ*.
 
 
 *[p. 1026]* ^pg1052
@@ -135,7 +135,7 @@ Sermon LXXIX.
 
 2\. For all these things it is easy to understand as touching the Jews. But we must beware, lest, when we give too much attention to them, we withdraw our eyes from ourselves. For the Lord was speaking to His disciples; and assuredly what He spake to them, He spake to us too their posterity. Nor to them only does what He said, “Lo, I am with you alway even unto the end of the world,”<sup>3857</sup> apply, but even to all Christians that should be after them, and succeed them even unto the end of the world. Speaking then to them He said, “Beware of the leaven of the Pharisees.”<sup>3858</sup> They at that time thought that the Lord had said this, because they had brought no bread; they did not understand that “Beware of the leaven of the Pharisees” meant, “beware of the doctrine of the Pharisees.” What was the doctrine of the Pharisees, but that which ye have now heard? “Seeking glory one of another, looking for glory one from another, and not seeking the glory which is of God only.” Of these the Apostle Paul thus speaks; “I bear them record that they have a zeal of God, but not according to knowledge.”<sup>3859</sup> “They have,” he says, “a zeal of God;” I know it, I am sure of it; I was
 
-385\. 2 John v. 39. 3853 John v. 43. 3854 John v. 44. 3855 John v. 45–47. 3856 *Divinitus*. 3857 Matt. xxviii. 20. 3858 Matt. xvi. 6.
+3852 John v. 39. 3853 John v. 43. 3854 John v. 44. 3855 John v. 45–47. 3856 *Divinitus*. 3857 Matt. xxviii. 20. 3858 Matt. xvi. 6.
 
 
 *[p. 1028]* ^pg1054
@@ -148,7 +148,7 @@ once among them, I was such as they. “They have,” he says, “a zeal of God,
 
 4\. But as I have said, let us leave these, and attend rather to these our brethren, with whom we have to do. For Christ is the Head of the Body. The Head is in Heaven, the Body is on earth; the Head is the Lord, the Body His Church. But ye remember it is said, “They shall be two in one flesh.” “This is a great mystery,”<sup>3863</sup> says the Apostle, “but I speak in Christ and in the Church.”<sup>3864</sup> If then they are two in one flesh, they are two in one voice. Our Head the Lord Christ spake to the Jews these things which we heard, when the Gospel was being read, The Head to His enemies; let the Body too, that is, the Church, speak to its enemies. Ye know to whom it should speak. What has it to say? It is not of myself that I have said, that the voice is one; because the flesh is one, the voice is one. Let us then say this to them; I am speaking with the voice of the Church. “O Brethren, dispersed children,
 
-386\. 0 Rom. x. 3. 3861 Matt. vii. 21; Luke vi. 46. 3862 *Absit*. 3863 *Sacramentum*. Eph. v. 31, 32.
+3860 Rom. x. 3. 3861 Matt. vii. 21; Luke vi. 46. 3862 *Absit*. 3863 *Sacramentum*. Eph. v. 31, 32.
 
 
 *[p. 1029]* ^pg1055
@@ -161,9 +161,9 @@ wandering sheep, branches cut off, why do ye calumniate me? Why do ye not acknow
 
 6\. These passages are for the Jews, and for these of our own brethren. Why so? Because these Scriptures of the Old Testament both the Jews receive, and these our brethren receive. But Christ Himself, whom the others do not receive, let us see if these last receive. Let Him speak Himself, speak both for Himself who is the Head, and for His Body which is the Church; for so in us the head speaks for the body. Hear for the Head; He was risen from the dead, He found the disciples hesitating, doubting, not believing for joy; He “opened their
 
-386\. 5 John vii. 36. 3866 Gal. iii. 16. 3867 Gen. xxii. 16, etc. 3868 Ps. lvii. 11. 3869 Ps. xxi. 17–19, Sept. (xxii. 16–18, English version).
+3865 John vii. 36. 3866 Gal. iii. 16. 3867 Gen. xxii. 16, etc. 3868 Ps. lvii. 11. 3869 Ps. xxi. 17–19, Sept. (xxii. 16–18, English version).
 
-387\. 0 Ps. xxi. 28, 29, Sept. (xxii. 27, 28, English version). 3871 Ps. xix. 5.
+3870 Ps. xxi. 28, 29, Sept. (xxii. 27, 28, English version). 3871 Ps. xix. 5.
 
 
 *[p. 1030]* ^pg1056
@@ -174,7 +174,7 @@ understanding that they might understand the Scriptures, and said to them, Thus 
 
 7\. It is said of Antichrist, and all understand of him what the Lord said, “I am come in My Father’s Name, and ye have not received Me; if another shall come in his own name, him ye will receive.”<sup>3875</sup> But let us hear John too; “Ye have heard that Antichrist cometh, and even now are there many Antichrists.”<sup>3876</sup> What is it in Antichrist that we are in horror of, but that he is to honour his own name, and to despise the Name of the Lord? What else doeth he that saith, “It is I that justify”? We answer him, “I came to Christ, not with my feet, but with my heart I came; where I heard the Gospel, there did I believe, there was I baptized; because I believed on Christ, I believed on God.” Yet says he, “Thou art not clean.” “Why?” “Because I was not there.” “Tell me why am not I cleansed, a man who was baptized in Jerusalem, who was baptized, for instance, among the Ephesians, to whom an Epistle you read was written, and whose peace you despise? Lo, to the Ephesians the Apostle wrote; a Church was founded, and remains even to this day; yea, remains in greater fruitfulness, remains in greater numbers, holds fast that which it received of the Apostle, ‘If any man preach ought
 
-387\. 3 Luke xxiv. 45–47. 3874 Rom. x. 2, 3. 3875 John v. 43. 1 John ii. 18.
+3873 Luke xxiv. 45–47. 3874 Rom. x. 2, 3. 3875 John v. 43. 1 John ii. 18.
 
 
 *[p. 1031]* ^pg1057
@@ -189,9 +189,9 @@ not coming, but wishing that I should come to thee, fixed in this place, sayest 
 
 9\. Let the Church then say those last words also, “If ye had believed Moses, ye would believe me also; for he wrote of me;”<sup>3883</sup> for that I am His body of whom he wrote. And of the Church did Moses write. For I have quoted the words of Moses “In thy seed shall all nations of the earth be blessed.”<sup>3884</sup> Moses wrote this in the first book. If ye believed Moses, ye would also believe Christ. Because ye despise Moses’ words, it must needs be that ye despise the words of Christ. “They have” there, saith He, “Moses and the Prophets, let them hear them. Nay, father Abraham, but if one went unto them from the dead,” him they will hear. “And He said, If they hear not Moses and the Prophets, neither will they believe, if one rise again from the dead.” <sup>3885</sup> This was said of the Jews: was it therefore not said of
 
-387\. 7 Gal. i. 9. 3878 John i. 33. 3879 1 Cor. iv. 16, xi. 1.
+3877 Gal. i. 9. 3878 John i. 33. 3879 1 Cor. iv. 16, xi. 1.
 
-388\. 0 Matt. xxiii. 3. 3881 1 Cor. x. 4. 3882 Matt. vii. 25. 3883 John v. 46. 3884 Gen. xxii. 18.
+3880 Matt. xxiii. 3. 3881 1 Cor. x. 4. 3882 Matt. vii. 25. 3883 John v. 46. 3884 Gen. xxii. 18.
 
 
 *[p. 1032]* ^pg1058
@@ -200,7 +200,7 @@ not coming, but wishing that I should come to thee, fixed in this place, sayest 
 
 heretics? He had risen from the dead, who said, “It behoved Christ to suffer, and to rise again from the dead the third day.” This I believe. I believe it, he says. Dost thou believe? Wherefore believest thou not what follows? In that thou believest, “It behoved Christ to suffer, and to rise again from the dead the third day;” this was spoken of the Head; believe also that which follows concerning the Church, “That repentance and remission of sins should be preached throughout all nations.”<sup>3886</sup> Wherefore dost thou believe as touching the Head, and believest not as touching the Body? What hath the Church done to thee, that thou wouldest so to say behead her? Thou wouldest take away the Church’s Head, and believe the Head, leave the Body as it were a lifeless trunk. It is all to no purpose that thou dost caress the Head, like any devoted servant. He that would take off the head, doth his best to kill both the head and the body. They are ashamed to deny Christ, yet are they not ashamed to deny Christ’s words. Christ neither we nor ye have seen with our eyes. The Jews saw, and slew Him. We have not seen Him, and believe; His words are with us. Compare yourselves with the Jews: they despised Him hanging upon the Tree, ye despise Him sitting in heaven; at their suggestion Christ’s title was set<sup>3887</sup> up, by your setting<sup>3888</sup> yourselves up, Christ’s Baptism is effaced. But what remains, Brethren, but that we pray even for the proud, that we pray even for the puffed up, who so extol themselves? Let us say to God on their behalf, “Let them know that the Lord is Thy Name; and” not “that” men, but “Thou Only art the Most High over all the earth.”<sup>3889</sup> Let us turn to the Lord, etc.
 
-388\. 6 Luke xxiv. 46, etc. 3887 *Stetit*. 3888 *Stantibus*. Ps. lxxxii. 19, Sept. (lxxxiii. 18, English version).
+3886 Luke xxiv. 46, etc. 3887 *Stetit*. 3888 *Stantibus*. Ps. lxxxii. 19, Sept. (lxxxiii. 18, English version).
 
 
 *[p. 1033]* ^pg1059
@@ -215,7 +215,7 @@ Sermon LXXX.
 
 2\. Let us turn to Him who did these things. He is Himself “The Bread which came down from heaven;”<sup>3892</sup> but Bread which refresheth the failing, and doth not fail; Bread which can be tasted,<sup>3893</sup> cannot be wasted. This Bread did the manna also figure. Wherefore it is said, “He gave them the Bread of heaven, man ate Angels’ Bread.”<sup>3894</sup> Who is the Bread of heaven, but Christ? But in order that man might eat Angels’ Bread, the Lord of Angels was made Man. For if He had not been made Man, we should not have His Flesh; if we had not His Flesh, we should not eat the Bread of the Altar. Let us hasten to the inheritance, seeing we have hereby received a great earnest of it. My brethren, let us long for the life of Christ,
 
-389\. 0 *Vilitas*. 3891 John v. 46. 3892 John vi. 41. 3893 *Qui sumi potest, consumi non potest*. Ps. lxxvii. 24, 25, Sept. (lxxviii. English version).
+3890 *Vilitas*. 3891 John v. 46. 3892 John vi. 41. 3893 *Qui sumi potest, consumi non potest*. Ps. lxxvii. 24, 25, Sept. (lxxviii. English version).
 
 
 *[p. 1034]* ^pg1060
@@ -226,7 +226,7 @@ seeing we hold as an earnest the Death of Christ. How shall He not give us His g
 
 3\. Let us then love Him, for He is sweet. “Taste and see that the Lord is sweet.”<sup>3898</sup> He is to be feared, but to be loved still more. He is Man and God; the One Christ is Man and God; as one man is soul and body: but God and Man are not two Persons. In Christ indeed
 
-389\. 5 *Instrumentum*. 3896 *Meruit*. 3897 Matt. xii. 29. Ps. xxxiii. 8, Vulgate (xxxiv. 8, English version).
+3895 *Instrumentum*. 3896 *Meruit*. 3897 Matt. xii. 29. Ps. xxxiii. 8, Vulgate (xxxiv. 8, English version).
 
 
 *[p. 1035]* ^pg1061
@@ -239,9 +239,9 @@ Him. For that hath been fulfilled which was promised to Abraham;<sup>3900</sup> 
 
 4\. We have begun to be some great thing; let no man despise himself: we were once nothing; but we are something. We have said unto the Lord, “Remember that we are dust;”<sup>3902</sup> but out of the dust He made man, and to dust He gave life, and in Christ our Lord hath He already brought this same dust to the Kingdom of Heaven. For from this dust took He flesh, from this took earth, and hath raised earth to heaven, He who made heaven and earth. If then these two new things, not yet done, were set before us, and it were asked of us, “Which is the most wonderful, that He who is God should be made Man, or he who is man should be made a man of God? which is the more wonderful? which the more difficult?” What hath Christ promised us? That which as yet we see not; that is, that we should be His
 
-389\. 9 *Homine. Vid*. Serm. xvii. (lxvii. Ben.) 7 (iv.), note.
+3899 *Homine. Vid*. Serm. xvii. (lxvii. Ben.) 7 (iv.), note.
 
-390\. 0 Gen. xii. 3. 3901 Gal. iii. 29. Ps. cii. 14, Sept. (ciii. English version). 501 3903 *Excusso*. 3904 *Semina*. *Tendunt se*.
+3900 Gen. xii. 3. 3901 Gal. iii. 29. Ps. cii. 14, Sept. (ciii. English version). 501 3903 *Excusso*. 3904 *Semina*. *Tendunt se*.
 
 
 *[p. 1036]* ^pg1062
@@ -270,7 +270,7 @@ Delivered at the Table of the Martyr St. Cyprian, the 9th of the Calends of Octo
 
 1\. We have heard the True Master, the Divine Redeemer, the human Saviour, commending to us our Ransom, His Blood. For He spake to us of His Body and Blood; He called His Body Meat, His Blood Drink. The faithful recognise the Sacrament of the faithful. But the hearers what else do they but hear? When therefore commending such Meat and such Drink He said, “Except ye shall eat My Flesh and drink My Blood, ye shall have no life in you;” 3907 (and this that He said concerning life, who else said it but the Life Itself? But that man shall have death, not life, who shall think that the Life is false), His disciples were offended, not all of them indeed, but very many, saying within themselves, “This is an hard saying, who can hear it?”<sup>3908</sup> But when the Lord knew this in Himself, and heard the murmurings of their thought, He answered them, thinking though uttering nothing, that they might understand that they were heard, and might cease to entertain such thoughts. What then did He answer? “Doth this offend you?” “What then if ye shall see the Son of Man ascend up where He was before?”<sup>3909</sup> What meaneth this? “Doth this offend you?” “Do ye imagine that I am about to make divisions of this My Body which ye see; and to cut up My Members, and give them to you? ‘What then if ye shall see the Son of Man ascend up where He was before?’” Assuredly, He who could ascend Whole could not be consumed. So then He both gave us of His Body and Blood a healthful refreshment, and briefly solved so great a question as to His Own Entireness. Let them then who eat, eat on, and them that drink, drink; let them hunger and thirst; eat Life, drink Life. That eating, is to be refreshed; but thou art in such wise refreshed, as that that whereby thou art refreshed, faileth not. That drinking, what is it but to live? Eat Life, drink Life; thou shalt have life, and the Life is Entire. But then this shall be, that is, the Body and the Blood of Christ shall be each man’s Life; if what is taken in the Sacrament visibly is in the truth itself eaten spiritually, drunk spiritually. For we have heard the Lord Himself saying, “It is the Spirit That quickeneth, but the flesh profiteth nothing. The words that I have spoken unto you, are Spirit and Life. But there are some of you,” saith He, “that believe not.”<sup>3910</sup> Such were they who said, “This is a hard saying, who
 
-390\. 7 John vi. 53. 3908 John vi. 60. 3909 John vi. 61, 62. 502
+3907 John vi. 53. 3908 John vi. 60. 3909 John vi. 61, 62. 502
 
 
 *[p. 1039]* ^pg1065
@@ -283,7 +283,7 @@ can hear it?” It is hard, but only to the hard; that is, it is incredible, but
 
 3\. But wonderful it is, that when Christ Crucified is preached, two hear, one despiseth, the other ascendeth. Let him that despiseth, impute it to himself; let not him that ascendeth, arrogate it to himself. For he hath heard from the True Master; “No man cometh unto Me, except it were given unto him of My Father.” Let him joy, that it hath been given; let him render thanks to Him who giveth it, with a humble, not an arrogant heart; lest what he hath attained<sup>3914</sup> through humility, he lose through pride. For even they who are already walking in this way of righteousness, if they attribute it to themselves, and to their own strength, perish out of it. And therefore Holy Scripture teaching us humility saith by the Apostle, “Work out your own salvation with fear and trembling.”<sup>3915</sup> And lest hereupon they should attribute ought to themselves, because he said, “Work,” he subjoined immediately, “For it is God who worketh in you both to will and to do of His good pleasure.”<sup>3916</sup> “It is God who worketh in you;” therefore “with fear and trembling,” make a valley, receive the rain. Low grounds are filled, high grounds are dried up. Grace is rain. Why dost thou marvel then, if
 
-391\. 1 John vi. 65. 3912 John vi. 44. 3913 Gal. vi. 14. 3914 *Meruit*. 3915 Phil. ii. 12. Phil. ii. 13.
+3911 John vi. 65. 3912 John vi. 44. 3913 Gal. vi. 14. 3914 *Meruit*. 3915 Phil. ii. 12. Phil. ii. 13.
 
 
 *[p. 1040]* ^pg1066
@@ -296,9 +296,9 @@ can hear it?” It is hard, but only to the hard; that is, it is incredible, but
 
 5\. What then doth the Lord say? “Serve ye the Lord in fear, and rejoice unto Him with trembling.”<sup>3924</sup> So the Apostle too, “Work out your own salvation with fear and trembling. For it is God who worketh in you.” Therefore rejoice with trembling: “Lest at any time the Lord be angry.” I see that you anticipate me by your crying out. For you know what I am
 
-391\. 7 Jas. iv. 6. 3918 Rom. xi. 20. 3919 Ps. xxix. 6, Sept. (xxx. English version).
+3917 Jas. iv. 6. 3918 Rom. xi. 20. 3919 Ps. xxix. 6, Sept. (xxx. English version).
 
-392\. 0 Ps. cxvi. 11. 3921 Ps. xxix. 8, Sept. (xxx. 7, English version). 3922 Ps. lviii. 10, Sept. (lix. 9, English version). 3923 Ps. cxlii. 6, Sept. (cxliii. English version). Ps. ii. 11, Sept. 503 3925 Ps. ii. 12, Sept. 3926 Ps. ii. 13, Sept. 3927 Eph. ii. 8. Luke x. 30, etc.
+3920 Ps. cxvi. 11. 3921 Ps. xxix. 8, Sept. (xxx. 7, English version). 3922 Ps. lviii. 10, Sept. (lix. 9, English version). 3923 Ps. cxlii. 6, Sept. (cxliii. English version). Ps. ii. 11, Sept. 503 3925 Ps. ii. 12, Sept. 3926 Ps. ii. 13, Sept. 3927 Eph. ii. 8. Luke x. 30, etc.
 
 
 *[p. 1041]* ^pg1067
@@ -319,9 +319,9 @@ never remove, when we shall have got in perfect health unto the kingdom of heave
 
 8\. Finally, after the redemption from all corruption, what remaineth but the crown of righteousness? This at least remaineth, but even in it, or under it, let not the head be swollen that it may receive the crown. Hear, mark well the Psalm, how that crown will not have a swollen head. After he had said, “Who redeemeth thy life from corruption;” he saith, “Who
 
-392\. 9 Ps. ciii. 1.
+3929 Ps. ciii. 1.
 
-393\. 0 Wisd. ix. 15. 3931 Matt. vi. 12. 3932 Ps. ciii. 2. 3933 Ps. ciii. 3. 3934 Ps. ciii. 4. 3935 1 Cor. xv. 54, 55. 3936 *Titillet.* Isa. xxvi. 12, Sept. 504 3938 Ps. cxvi. 11. 3939 Rom. xi. 5, 6, iv. 4.
+3930 Wisd. ix. 15. 3931 Matt. vi. 12. 3932 Ps. ciii. 2. 3933 Ps. ciii. 3. 3934 Ps. ciii. 4. 3935 1 Cor. xv. 54, 55. 3936 *Titillet.* Isa. xxvi. 12, Sept. 504 3938 Ps. cxvi. 11. 3939 Rom. xi. 5, 6, iv. 4.
 
 
 *[p. 1043]* ^pg1069
@@ -332,7 +332,7 @@ crowneth thee.” Here thou wert ready at once to say, “‘Crowneth thee,’ i
 
 9\. This then is the righteousness of God. As it is called, “The Lord’s salvation,”<sup>3940</sup> not whereby the Lord is saved, but which He giveth to them whom He saveth; so too the grace of God through Jesus Christ our Lord is called the righteousness of God, not as that whereby the Lord is righteous, but whereby He justifieth those whom of ungodly He maketh righteous. But some, as the Jews in former times, both wish to be called Christians, and still ignorant of God’s righteousness, desire to establish their own, even in our own times, in the times of open grace, the times of the full revelation of grace which before was hidden; in the times of grace now manifested in the floor, which once lay hid in the fleece. I see that a few have understood me, that more have not understood, whom I will by no means defraud by keeping silence. Gideon, one of the righteous men of old, asked for a sign from the Lord, and said, “I pray, Lord, that this fleece which I put in the floor be bedewed,<sup>3941</sup>and that the floor be dry.”<sup>3942</sup> And it was so; the fleece was bedewed, the whole floor was dry. In the morning he wrung out the fleece in a basin; forasmuch as to the humble is grace given; and in a basin, ye know what the Lord did to His disciples. Again, he asked for another sign; “O Lord, I would,” saith he, “that the fleece be dry, the floor bedewed.” And it was so. Call to mind the time of the Old Testament, grace was hidden in a cloud, as the rain in the fleece. Mark now the time of the New Testament, consider well the nation of the Jews, thou wilt find it as a dry fleece; whereas the whole world, like that floor, is full of grace, not hidden, but manifested. Wherefore we are forced exceedingly to bewail our brethren, who strive not against hidden, but against open and manifested grace. There is allowance for the Jews. What shall we say of Christians? Wherefore are ye enemies to the grace of Christ? Why rely
 
-394\. 0 Ps. iii. 9, Sept. (iii. 8, English version). 3941 *Compluatur*. Judg. vi. 37.
+3940 Ps. iii. 9, Sept. (iii. 8, English version). 3941 *Compluatur*. Judg. vi. 37.
 
 
 *[p. 1044]* ^pg1070
@@ -343,7 +343,7 @@ ye on yourselves? Why unthankful? For why did Christ come? Was not nature here b
 
 10\. What then was said of the Jews, the same altogether do we see in these men now. “They have a zeal of God: I hear them record that they have a zeal of God, but not according to knowledge.”<sup>3944</sup> What is, “not according to knowledge”? “For being ignorant of God’s righteousness, and wishing to establish their own, they have not submitted themselves unto the righteousness of God.”<sup>3945</sup> My Brethren, share with me in my sorrow. When ye find such as these, do not hide them; be there no such misdirected<sup>3946</sup> mercy in you; by all means, when ye find such, hide them not. Convince the gainsayers, and those who resist, bring to us. For already have two<sup>3947</sup> councils on this question been sent to the Apostolic see; and rescripts also have come from thence. The question has been brought to an issue; would that their error may sometime be brought to an issue too! Therefore do we advise that they may take heed, we teach that they may be instructed, we pray that they may be changed. Let us turn to the Lord, etc.
 
-394\. 3 Gal. ii. 21. 3944 Rom. x. 2. 3945 Rom. x. 3. 3946 *Perversa*. 3947 Of Carthage and Milevis which are among the Epistles of St. Augustin, 175, 176. And the rescripts of the Roman Pontiff, Innocent (A.D. 417), in the Epistles 181, 182. Ben. ed. note. 505 3948 1 Cor. xi. 29. 3949 John vi. 55.
+3943 Gal. ii. 21. 3944 Rom. x. 2. 3945 Rom. x. 3. 3946 *Perversa*. 3947 Of Carthage and Milevis which are among the Epistles of St. Augustin, 175, 176. And the rescripts of the Roman Pontiff, Innocent (A.D. 417), in the Epistles 181, 182. Ben. ed. note. 505 3948 1 Cor. xi. 29. 3949 John vi. 55.
 
 
 *[p. 1045]* ^pg1071
@@ -356,7 +356,7 @@ Sermon LXXXII.
 
 1\. As we heard when the Holy Gospel was being read, the Lord Jesus Christ exhorted us by the promise of eternal life to eat His Flesh and drink His Blood. Ye that heard these words, have not all as yet understood them. For those of you who have been baptized and the faithful do know what He meant. But those among you who are yet called Catechumens, or Hearers, could be hearers, when it was being read, could they be understanders too? Accordingly our discourse is directed to both. Let them who already eat the Flesh of the Lord and drink His Blood, think What it is they eat and drink, lest, as the Apostle says, “They eat and drink judgment to themselves.”<sup>3948</sup> But they who do not yet eat and drink, let them hasten when invited to such a Banquet. Throughout these days the teachers feed you. Christ daily feedeth you, That His Table is ever ordered before you. What is the reason. O Hearers, that ye see the Table, and come not to the Banquet? And peradventure, just now when the Gospel was being read, ye said in your hearts, “We are thinking what it is that He saith, ‘My Flesh is meat indeed, and My Blood is drink indeed.’ <sup>3949</sup> How is the Flesh of the Lord eaten, and the Blood of the Lord drunk? We are thinking what He saith.” Who hath closed it against thee, that thou dost not know this? There is a veil over it; but if thou wilt, the veil shall be taken away. Come to the profession,<sup>3950</sup> and thou hast resolved the difficulty. For what the Lord Jesus said, the faithful know well already. But thou art called a Catechumen, art called a Hearer, and art deaf. For the ears of the booty thou hast open, seeing that thou hearest the words which were spoken; but the ears of the heart thou hast still closed, seeing thou understandest not what was spoken. I plead,<sup>3951</sup> I do not discuss it. Lo, Easter<sup>3952</sup> is at hand, give in thy name for baptism. If the festivity arouse thee not, let the very curiosity induce thee: that thou mayest know the meaning of, Whoso eateth My Flesh and drinketh My Blood dwelleth in Me, and I in him.”<sup>3953</sup> That thou mayest know with me what is meant, “Knock, and it shall be opened unto thee:”<sup>3954</sup> and as I say to thee, “Knock, and it shall be opened unto thee,” so do I too knock, open thou to me. When I speak aloud to the ears, I knock at the breast.
 
-395\. 0 Baptismal profession. 3951 *Disputo non dissero*. 3952 *Pascha*. 3953 John vi. 56.
+3950 Baptismal profession. 3951 *Disputo non dissero*. 3952 *Pascha*. 3953 John vi. 56.
 
 
 *[p. 1046]* ^pg1072
@@ -365,7 +365,7 @@ Sermon LXXXII.
 
 2\. But if the Catechumens, my Brethren, are to be exhorted not to delay to approach to this so great grace of regeneration; what great care ought we to have in building up the faithful, that their approaching may profit them, and that they eat and drink not such a Banquet unto their own judgment? Now that they may not eat and drink unto judgment, let them live well. Be ye exhorters, not by words, but by your conduct; that they who have not been baptized, may in such wise hasten to follow you, that they perish not by imitating you. Do ye who are married keep the fidelity of the marriage-bed with your wives. Render what you require. As a husband thou requirest chastity from thy wife; give her an example, not words. Thou art the head, look where thou goest. For thou oughtest to go where it may not be dangerous for her to follow: yea, thou oughtest to walk thyself where thou wouldest have her follow. Thou requirest strength from the weaker sex; the lust of the flesh ye have both of you: let him that is the stronger, be the first to conquer. And yet, which is to be lamented, many men are conquered by the women. Women preserve chastity, which men will not preserve; and in that they preserve it not, would wish to appear men: as though he was in sex the stronger, only that the enemy might more easily subdue him. There is a struggle, a war, a combat. The man is stronger than the woman, the “man is the head of the woman.”<sup>3955</sup> The woman combats and overcomes; dost thou succumb to the enemy? The body stands firm, and does the head lie low? But those of you who have not yet wives, and who yet already approach to the Lord’s Table, and eat the Flesh of Christ, and drink His Blood, if ye are about to marry, keep yourselves for your wives. As ye would have them come to you, such ought they also to find you. What young man is there who would not wish to marry a chaste wife? And if he were to espouse a virgin who would not desire she should be unpolluted? Thou lookest for one unpolluted, be unpolluted thyself. Thou lookest for one pure, be not thyself impure. For it is not that she is able, and thou art not able. If it were not possible, then could not she be so. But, seeing that she can, let this teach thee, that it is possible. And that she may have this power, God is her ruler. But thou wilt have greater glory if thou shalt do it. Why greater glory? The vigilance of parents is a check to her, the very modesty of the weaker sex is a bridle to her; lastly, she is in fear of the laws of which thou art not afraid. Therefore it is then that thou wilt have greater glory if thou shalt do it; because if thou do it, thou fearest God. She has many things to fear besides God, thou fearest God alone. But He whom thou fearest is greater than all. He is to be feared in public, He in secret. Thou goest out, thou art seen; thou goest in, thou art seen; the lamp is lighted, He seeth thee; the lamp is extinguished, He seeth thee; thou enterest into thy closet, He seeth thee; in the retirement<sup>3956</sup> of thine own heart, He seeth thee. Fear Him, Him whose care it
 
-395\. 5 Eph. v. 23. *In corde versaris*. 506 3957 *Concubitu*. 3958 Matt. xxii. 30. 3959 1 Cor. xv. 41, 42.
+3955 Eph. v. 23. *In corde versaris*. 506 3957 *Concubitu*. 3958 Matt. xxii. 30. 3959 1 Cor. xv. 41, 42.
 
 
 *[p. 1047]* ^pg1073
@@ -388,7 +388,7 @@ Sermon LXXXIII.
 
 1\. I Purpose by the Lord’s assistance to treat of this section<sup>3961</sup> of the Gospel which has just been read; nor is there a little difficulty here, lest the truth be endangered, and falsehood glory. Not that either the truth can perish, nor falsehood triumph. Now hearken for a while what difficulty this lesson has; and being made attentive by the propounding of the difficulty, pray that I may be sufficient for its solution. “The Jews’ feast of tabernacles was at hand;”<sup>3962</sup> these it seems are the days which they observe even to this day, when they build huts.<sup>3963</sup> For this solemnity of theirs is called from the building of tabernacles; since σκηνὴ means a “tabernacle,” σκηνοπηγία is the building of a tabernacle. These days were kept as feast days among the Jews; and it was called one feast day, not because it was over in one day, but because it was kept up by a continued festivity; just as the feast day of the Passover, and the feast day of unleavened bread, and notwithstanding, as is manifest, that feast is kept throughout many days. This anniversary then was at hand in Judæa, the Lord Jesus was in Galilee, where He had also been brought up, where too He had relations and kinsfolk, whom Scripture calls “His brethren.” “His brethren, therefore,” as we have heard it read, “said unto Him, Pass from hence, and go into Judæa; that Thy disciples also may see Thy works that Thou doest. For no man doeth anything in secret, and himself seeketh to be known openly. If Thou do these things, manifest Thyself to the world.”<sup>3964</sup> Then the Evangelist subjoins, “For neither did His brethren believe in Him.”<sup>3965</sup> If then they did not believe in Him, the words they threw out were of envy. “Jesus answered them, My time is not yet come; but your time is alway ready. The world cannot hate you; but Me it hateth, because I testify of it that the works thereof are evil. Go ye up to this feast day. I go<sup>3966</sup> not up to this feast day, for My time is not yet accomplished.”<sup>3967</sup> Then follows the Evangelist; “When He had said these words, He Himself stayed in Galilee. But when His brethren were gone up, then went He also up to the feast day, not openly, but as it were in secret.”<sup>3968</sup> Thus far is the extent of the difficulty, all the rest is clear.
 
-396\. 1 *Capitulo*. 3962 John vii. 2. 3963 *Casas*. 3964 John vii. 3, 4. 3965 John vii. 5. In the Greek it is οὔπω, *nondum*, and so in some Latin copies (Ben. note); Griesbach and Scholz place 3966 οὐκ in the text, as having the authority of the mss. D, K, most Verss., and the Fathers. 3967 John vii. 6–8. 507 3969 *Fidem*.
+3961 *Capitulo*. 3962 John vii. 2. 3963 *Casas*. 3964 John vii. 3, 4. 3965 John vii. 5. In the Greek it is οὔπω, *nondum*, and so in some Latin copies (Ben. note); Griesbach and Scholz place 3966 οὐκ in the text, as having the authority of the mss. D, K, most Verss., and the Fathers. 3967 John vii. 6–8. 507 3969 *Fidem*.
 
 
 *[p. 1049]* ^pg1075
@@ -399,7 +399,7 @@ Sermon LXXXIII.
 
 3\. But some one who hears me will say, “Canst thou then say this of Christ, that He either was not able to fulfil what He would, or that He did not know things to come?” Thou doest well, good is thy suggestion, right thy hint; but, O man, share with me my anxiety. Dare we to say that He lies, Who we do not dare to say is weak in power? I for my part, to the best of my thinking, as far as according to my infirmity I am able to judge, would choose that a man should be deceived in any matter rather than lie in any. For to be deceived is the portion of infirmity, to lie of iniquity. “Thou hatest, O Lord,” saith he, “all them that work iniquity.”<sup>3971</sup> And immediately after, “Thou shalt destroy all them that speak a lie.”<sup>3972</sup> Either “iniquity” and “a lie” are upon a level; or, “Thou shalt destroy,” is more than “Thou hatest.” For he who is held in hatred, is not immediately punished by destruction. But let that question be, whether there be ever a necessity to lie; for I am not now discussing that; it is a dark question, and has many lappings;<sup>3973</sup> I have not time to cut them, and to come to the quick.<sup>3974</sup> Therefore let the treatment of it be deferred to some other time; for peradventure it will be cured by the Divine assistance without any words of mine. But attend and distinguish between what I have deferred, and what I wish to treat of to-day. Whether on any occasion one may lie, this difficult and most obscure question I defer. But whether Christ lied, whether the Truth spake anything false, this, being reminded of it by the Gospel lesson, have I undertaken to-day.
 
-397\. 0 *Prudentiam*. 3971 Ps. v. 5. 3972 Ps. v. 6. 3973 *Sinus*. *Vivum*.
+3970 *Prudentiam*. 3971 Ps. v. 5. 3972 Ps. v. 6. 3973 *Sinus*. *Vivum*.
 
 
 *[p. 1050]* ^pg1076
@@ -410,7 +410,7 @@ Sermon LXXXIII.
 
 5\. How then think we of the Lord Jesus Christ, that He lied? If it is a less evil to be deceived than to lie, dare we to say that He lies who we dare not to say is deceived? But He is neither deceived, nor doth He lie; but in very deed as it is written (for of Him is it understood, of Him ought it to be understood), “Nothing false is said unto the King, and nothing false shall proceed out of His mouth.” If by King here he meant any man, let us prefer Christ the
 
-397\. 5 *Rustici*. 3976 *Idiotæ*. 3977 *Prudentia*. 3978 Ecclus. ii. 14, Vulgate (ii. 12, English version).
+3975 *Rustici*. 3976 *Idiotæ*. 3977 *Prudentia*. 3978 Ecclus. ii. 14, Vulgate (ii. 12, English version).
 
 
 *[p. 1051]* ^pg1077
@@ -431,7 +431,7 @@ promise but truth? I am listening, standing, expecting, most earnestly expecting
 
 force the book upon him if he resisted, “Hold it, mark, read, it is the Gospel you have in your hands.” But why, I ask thee, why dost thou so rudely accost<sup>3981</sup> this feeble one? Do not be so eager; speak more composedly, more tranquilly. See, it is the Gospel I have in my hands; and what is there in it? He answers: “The Gospel declares that Christ said what thou deniest.” And wilt thou believe that Christ said it, because the Gospel declares it? “Decidedly for that reason,” says he. I marvel exceedingly how thou shouldest say that Christ lieth, and the Gospel doth not lie. But lest haply when I speak of the Gospel, thou shouldest think of the book itself, and imagine the parchment and ink to be the Gospel, see what the Greek word means; Gospel is “a good messenger,” or “a good message.” The messenger then doth not lie, and doth He who sent him, lie? This messenger, the Evangelist to wit, to give his name also, this John who wrote this, did he lie concerning Christ, or say the truth? Choose which you will, I am ready to hear you on either side. If he spake falsely, you have no means of proving that Christ spake those words. If he said the truth, truth cannot flow from the fountain of falsehood. Who is the Fountain? Christ: let John be the stream. The stream comes to me, and you say to me, “Drink securely;” yea, whereas you alarm me as to the Fountain Himself, whereas you tell me there is falsehood in the Fountain, you say to me, “Drink securely.” What do I drink? What said John, that Christ spake falsely? Whence came John? From Christ. Is he who came from Him, to tell me truth, when He from whom he came lied? I have read in the Gospel plainly, “John lay on the Lord’s Breast;”<sup>3982</sup> but I conclude that he drank in truth. What saw he as he lay on the Lord’s Breast? What drank he in? what, but that which he poured forth? “In the beginning was the Word, and the Word was with God, and the Word was God. The Same was in the beginning with God. All things were made by Him, and without Him was nothing made. That which was made in Him was life, and the Life was the Light of men; And the Light shineth in darkness, and the darkness comprehended It not;” <sup>3983</sup> nevertheless It shineth, and though I chance to have some obscurity, and cannot thoroughly comprehend It, still It shineth. “There was a man sent from God, whose name was John; he came to bear witness of the Light, that all men through him might believe. He was not the Light:” who? John: who? John the Baptist. For of him saith John the Evangelist, “He was not the Light;” of whom the Lord saith, “He was a burning, and a shining lamp.”<sup>3984</sup> But a lamp can be lighted, and extinguished. What then? whence drawest thou the distinction? of what place art thou enquiring? He to whom the lamp bare witness, “was the True Light.”<sup>3985</sup> Where John added, “the True,” there art thou looking
 
-398\. 1 *Conturbas*. 3982 John xiii. 23. 3983 John i. 1, etc. 3984 John v. 35.
+3981 *Conturbas*. 3982 John xiii. 23. 3983 John i. 1, etc. 3984 John v. 35.
 
 
 *[p. 1053]* ^pg1079
@@ -444,9 +444,9 @@ But thou sayest, “Beware of the fountain, there is falsehood there.” What el
 
 7\. “You have already,” he says, “said all, already have you checked, already chastened me. But tell me how He did not speak falsely who said, ‘I go not up,’ and went up?” I will tell you, if I can; but think it no little matter, that if I have not established you in the truth, I have yet kept you back from rashness. I will nevertheless tell you, what I imagine you know even already, if you remember the words which I have set forth to you. The words themselves solve the difficulty. That feast was kept for many days. On this, that is this present feast day, saith He, this day, that is when they hoped, He went not up; but when He Himself resolved to go. Now mark what follows, “When He had said these words, He Himself stayed in Galilee.” So then He did not go up on that feast day. For His brethren wished that He should go first; therefore had they said, “Pass from hence into Judæa.” They did not say, “Let us pass,” as though they would be His companions; or, “Follow us into Judæa,” as though they would go first; but as though they would send Him before them. He wished that they should go before; He avoided this snare, impressing His infirmity as Man, hiding the Divinity; this He avoided, as when He fled into Egypt.<sup>3989</sup> For this was no effect of want of power, but even of truth, that He might give an example of caution; that no servant of His might say, “I do not fly, because it is disgraceful;” when haply it might be expedient to fly. As He was going to say to His disciples, “When they have persecuted you in this city, flee ye into another;”<sup>3990</sup> He gave them Himself this example. For He was apprehended, when He willed; He was born, when He willed. That they might not anticipate Him then, and announce that He was coming, and plots be prepared; He said, “I go not up to this feast day.”<sup>3991</sup> He said, “I
 
-398\. 6 John i. 14. 3987 Rom. iii. 4. 3988 Ps. xxxiii. 6, Sept. (xxxiv. 5, English version). 3989 Matt. ii. 14.
+3986 John i. 14. 3987 Rom. iii. 4. 3988 Ps. xxxiii. 6, Sept. (xxxiv. 5, English version). 3989 Matt. ii. 14.
 
-399\. 0 Matt. x. 23.
+3990 Matt. x. 23.
 
 
 *[p. 1054]* ^pg1080
@@ -457,7 +457,7 @@ go not up,” that He might be hid; He added “this,” that He might not lie. 
 
 8\. But now if we turn our attention to ourselves, if we think of His Body, how that we are even He. For if we were not He, “Forasmuch as ye have done it unto one of the least of Mine, ye have done it unto Me,”<sup>3995</sup> would not be true. If we were not He, “Saul, Saul, why persecutest thou Me?”<sup>3996</sup> would not be true. So then we are He, in that we are His members, in that we are His Body, in that He is our Head, in that Whole Christ is both Head and Body.<sup>3997</sup> Peradventure then He foresaw us that we were not to keep the feast days of the Jews, and this is, “I go not up to this feast day.” See neither Christ nor the Evangelist lied; of the which two if one must needs choose one, the Evangelist would pardon me, I would by no means put him that is true before the Truth Himself; I would not prefer him that was sent to Him by whom he was sent. But God be thanked, in my judgment what was obscure has been laid open. Your piety will aid me before God. Behold, I have, as I was best able, resolved the question, both concerning Christ and the Evangelist. Hold fast the truth with me as men who love it, embrace charity without contention.
 
-399\. 2 *Aliquid intulit, aliquid abstulit, aliquid distulit*. 3993 John vii. 10. 3994 John vii. 25, 26. 3995 Matt. xxv. 40. 3996 Acts. ix. 4. Eph. i. 22, 23; 1 Cor. xii. 12.
+3992 *Aliquid intulit, aliquid abstulit, aliquid distulit*. 3993 John vii. 10. 3994 John vii. 25, 26. 3995 Matt. xxv. 40. 3996 Acts. ix. 4. Eph. i. 22, 23; 1 Cor. xii. 12.
 
 
 *[p. 1055]* ^pg1081
@@ -472,9 +472,9 @@ Sermon LXXXIV.
 
 2\. Now then seeing it hath been set forth what we ought to do, let us see what we are to receive. For He hath appointed a work, and promised a reward. What is the work? “If ye shall continue in Me.” A short work; short in description, great in execution. “If ye shall build on the Rock.”<sup>4000</sup> O how great a thing is this, Brethren, to build on the Rock, how great is it! “The floods came, the winds blew, the rain descended, and beat upon that house, and it fell not; for it was founded upon a rock.”<sup>4001</sup> What then is to continue in the word of God, but not to yield to any temptations? The reward, what is it? “Ye shall know the truth, and the truth shall free you.” Bear with me, for ye perceive that my voice is feeble;<sup>4002</sup> assist me by your calm<sup>4003</sup> attention. Glorious reward! “Ye shall know the truth.” Here one may haply say, “And what doth it profit me to know the truth?” “And the truth shall free you.”
 
-399\. 8 John viii. 31. 3999 John viii. 32.
+3998 John viii. 31. 3999 John viii. 32.
 
-400\. 0 Matt. vii. 24. 4001 Matt. vii. 25. 4002 *Obtusam*. *Tranquillitate*. 511 4004 John viii. 33. 4005 John viii. 34.
+4000 Matt. vii. 24. 4001 Matt. vii. 25. 4002 *Obtusam*. *Tranquillitate*. 511 4004 John viii. 33. 4005 John viii. 34.
 
 
 *[p. 1056]* ^pg1082
@@ -493,6 +493,6 @@ If the truth have no charms for you, let freedom have its charms. In the usage o
 
 5\. If then it was “the likeness of flesh of sin,” not flesh of sin, how, “That by sin He might condemn sin in the flesh”? So a likeness is wont to receive the name of that thing of which it is a likeness. The word man is used for a real man; but if you show a man painted on the wall, and enquire what it is, it is answered, “A man.” So then Flesh having the likeness of flesh of sin, that it might be a sacrifice for sin, is called “sin.” The same Apostle says in another place, “He made Him to be sin for us, who knew no sin.”<sup>4011</sup> “Him who knew no sin:” Who is He who knew no sin, but He That said, “Behold the prince of the world cometh, and shall find nothing in me?<sup>4012</sup> Him who knew no sin, made He sin for us;” even Christ Himself, who knew no sin, God made sin for us. What does this mean, Brethren? If it were said, “He made sin upon Him,” or, “He made Him to have sin;” it would seem intolerable; how do we tolerate what is said, “He made Him sin,” that Christ Himself should be sin? They who are acquainted with the Scriptures of the Old Testament recognise what I am saying. For it is not an expression once used, but repeatedly, very constantly, sacrifices for
 
-400\. 7 Ps. lxxxviii. 5. 4008 John xiv. 30. 4009 Rom. viii. 3.
+4007 Ps. lxxxviii. 5. 4008 John xiv. 30. 4009 Rom. viii. 3.
 
-401\. 0 Rom. viii. 4. 4011 2 Cor. v. 21.
+4010 Rom. viii. 4. 4011 2 Cor. v. 21.

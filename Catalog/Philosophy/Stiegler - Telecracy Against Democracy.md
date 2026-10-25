@@ -18,8 +18,7 @@ language:
   - English
 pages: 11
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Stiegler - Telecracy Against Democracy (Cultural Politics 2010).pdf]]"
   - "[[Library/Philosophy/Telecracy Against Democracy (Stiegler)]]"

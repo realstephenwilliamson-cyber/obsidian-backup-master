@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Stiegler (ed.) - Bifurcate]]"
 book: "[[Library/Philosophy/Bifurcate (Stiegler)/Bifurcate (Stiegler)|Bifurcate (Stiegler)]]"
 order: 1
 source_pdf: "Library/Philosophy/Stiegler (ed.) - Bifurcate (2021).pdf"
-pages: "1–9"
+page_range: "1–9"
 pdf_pages: "1–9"
 text_source: "the PDF's own text layer (PyMuPDF)"
 converted: 2026-10-22

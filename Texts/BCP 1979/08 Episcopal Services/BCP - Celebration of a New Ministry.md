@@ -5,9 +5,7 @@ section: "Episcopal Services"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/EpiscopalServices/newministry.html"
-page_range:
-  - 559
-  - 565
+page_range: "559–565"
 aliases:
   - "BCP 559"
   - "BCP 560"
@@ -21,7 +19,7 @@ aliases:
 
 [[BCP 1979]] · *Episcopal Services* · pages 559–565
 
-[p. 559]
+[p. 559] ^pg559
 
 ## Celebration of a New Ministry
 
@@ -47,7 +45,7 @@ Will you who witness this new beginning support and uphold *N.* in this ministry
 
 **People** We will.
 
-[p. 560]
+[p. 560] ^pg560
 
 Let us then offer our prayers to God for all his people, for this congregation, and for *N.* their *Rector.*
 
@@ -71,7 +69,7 @@ Everliving God, strengthen and sustain *N.*, that with patience and understandin
 
 *After the Sermon, and any responses to it, the congregation sings a hymn.*
 
-[p. 561]
+[p. 561] ^pg561
 
 ### The Induction
 
@@ -107,7 +105,7 @@ N., use this *oil*, and be among us as a healer and reconciler.
 
 **People** Amen.
 
-[p. 562]
+[p. 562] ^pg562
 
 *If the new minister is the rector or vicar of the parish, a Warden may now present the keys of the church, saying*
 
@@ -161,7 +159,7 @@ The peace of the Lord be always with you.
 
 *The Bishop, or in the Bishop's absence a Priest beginning a new ministry, standing at the Lord's Table as chief celebrant, and joined by the other clergy, proceeds with the Great Thanksgiving of the Eucharist.*
 
-[p. 564]
+[p. 564] ^pg564
 
 *Except on Major Feasts, the Preface may be that for Apostles and Ordinations.*
 
@@ -181,7 +179,7 @@ Additional Directions
 
 *The Letter of Institution is appropriate for the induction of a rector of a parish, the dean of a cathedral, and others having similar tenure of office.*
 
-[p. 565]
+[p. 565] ^pg565
 
 *Its wording may be altered by the bishop when circumstances require. In other cases, the bishop may state briefly the nature of the person's office and the authority being conferred.*
 

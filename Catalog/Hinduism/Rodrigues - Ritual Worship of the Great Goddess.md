@@ -17,8 +17,7 @@ language:
   - English
 pages: 434
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Rodrigues - Ritual Worship of the Great Goddess, The Liturgy of the Durga Puja.pdf]]"
 aliases:

@@ -17,8 +17,7 @@ language:
   - English
 pages: 245
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Halperin (tr.) - Sabbatai Zevi (2007).pdf]]"
 aliases:

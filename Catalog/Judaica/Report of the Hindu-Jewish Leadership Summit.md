@@ -16,8 +16,7 @@ language:
   - English
 pages: 73
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[1st-Hindu-Jewish_Summit_Report-Final.pdf]]"
   - "[[Library/Judaica/Report of the Hindu-Jewish Leadership Summit (text)/Report of the Hindu-Jewish Leadership Summit (text)]]"

@@ -18,8 +18,7 @@ language:
   - English
 pages: 262
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Idel - The Mystical Experience in Abraham Abulafia (1988).pdf]]"
   - "[[Library/Judaica/The Mystical Experience in Abraham Abulafia (Idel)/The Mystical Experience in Abraham Abulafia (Idel)]]"

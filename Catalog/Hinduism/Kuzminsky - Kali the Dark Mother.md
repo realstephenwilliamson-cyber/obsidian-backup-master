@@ -17,8 +17,7 @@ language:
   - English
 pages: 24
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Kali_the_Dark_Mother.pdf]]"
 aliases:

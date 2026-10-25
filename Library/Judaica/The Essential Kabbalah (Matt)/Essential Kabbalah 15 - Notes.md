@@ -72,7 +72,7 @@ Azriel of Gerona (thirteenth century), “Commentary on the Ten *Sefirot,”* in
 
 **“I am that I am”** The divine name revealed by God to Moses in [[Torah 13 - Shemot#^3-14|Exodus 3:14]].
 
-[p. 168]
+[p. 168] ^pg168
 
 ## DIVINE LIFE
 
@@ -370,7 +370,7 @@ Azriel of Gerona (thirteenth century), *Derekh ha-Emunah ve-Derekh ha-Kefirah.* 
 
 **“Being is in nothingness …”** Cf. the anonymous Neoplatonic *Liber de Causis,* chapter 11: “The effect is in the cause after the mode of the cause, and the cause is in the effect after the mode of the effect”; *The Book of Causes \[Liber de Causis*\], tr. Dennis J. Brand (Milwaukee, WI: Marquette University Press, 1984), 30. *Liber de Causis* was probably known to the kabbalists in translation.
 
-[p. 183]
+[p. 183] ^pg183
 
 ## THE WISDOM OF NOTHINGNESS
 
@@ -590,7 +590,7 @@ Moses Cordovero (sixteenth century), *Tomer Devorah* (Warsaw: Joel Levensohn, 18
 
 **renewing each day the act of Creation** Cf. the morning prayer: “Lord of wonders, who renews in his goodness every day continually the act of Creation.”
 
-[p. 194]
+[p. 194] ^pg194
 
 ## CONCEALING AND REVEALING
 
@@ -650,7 +650,7 @@ Israel Sarug (sixteenth-seventeenth centuries), *Limmudei Atsilut* (Munkacs, 189
 
 **the world of actualization** Hebrew, *olam ha-asiyyah,* the last of the four worlds, preceded by the worlds of emanation, creation, and formation.
 
-[p. 197]
+[p. 197] ^pg197
 
 ## CREATIVE AROUSAL
 
@@ -794,7 +794,7 @@ Isaac of Akko (thirteenth-fourteenth centuries), *Me’irat Einayim.* ed. Amos G
 
 **one who secluded himself in meditation** Hebrew, *chad me-hamitbodedim.* “one of those who practice hitbodedut” (see above).
 
-[p. 203]
+[p. 203] ^pg203
 
 ## KINDLING THE HEART
 
@@ -846,7 +846,7 @@ Abraham Isaac Kook (twentieth century), *Orot ha-Qodesh,* 3:270.
 
 Abraham Isaac Kook (twentieth century), *Orot ha-Qodesh.* 1:268.
 
-[p. 205]
+[p. 205] ^pg205
 
 ## THE RIVER OF ALREADY
 
@@ -900,7 +900,7 @@ Isaac of Akko (thirteenth-fourteenth centuries), *Otsar Hayyim,* Moscow-Guenzbur
 
 **from conceiving** Hebrew, *me-harher,* “conceiving, pondering,” conceiving mental images. It is dangerous to become fixated on any particular image, even a sublime one; see “Mental Attachment,” p. 115.
 
-[p. 207]
+[p. 207] ^pg207
 
 ### REVELATION AND TORAH
 
@@ -918,7 +918,7 @@ An earlier, midrashic parable (*Seder Eliyahu Zuta,* 2) also compares Torah to w
 
 “When the Blessed Holy One gave the Torah to Israel, he gave it to them as wheat from which to produce bread, and as flax from which to produce cloth.”
 
-[p. 208]
+[p. 208] ^pg208
 
 ## HOW TO LOOK AT TORAH
 
@@ -1060,7 +1060,7 @@ Isaac Luria (sixteenth century), a kavvanah (spiritual “intention”) recorded
 
 Alexander Susskind (eighteenth century), *Yesod ve-Shoresh ha-Avodah* (Israel: 1968), 7:2, 60a.
 
-[p. 215]
+[p. 215] ^pg215
 
 ## THE GREATEST PATH
 
@@ -1136,7 +1136,7 @@ Menahem Mendel of Peremishlany (eighteenth century), quoted by his disciple, Mes
 
 **the *Ari*** “The Lion,” Isaac Luria, the famous sixteenth-century kabbalist of Safed; see the introduction. *Ha-Ari* is an acronym for *Ha-Elohi Rabbi Yitshaq.* “the divine Rabbi Isaac.”
 
-[p. 218]
+[p. 218] ^pg218
 
 ## STUMBLING
 

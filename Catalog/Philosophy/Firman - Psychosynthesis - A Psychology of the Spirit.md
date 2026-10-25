@@ -18,8 +18,7 @@ language:
   - English
 pages: 235
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Firman, Gila - Psychosynthesis (2002).pdf]]"
   - "[[Library/Philosophy/Psychosynthesis (Firman)/Psychosynthesis (Firman)]]"

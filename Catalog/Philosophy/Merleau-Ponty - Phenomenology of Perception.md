@@ -18,8 +18,7 @@ language:
   - English
 pages: 697
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[Merleau-Ponty - Phenomenology of Perception (2012).pdf]]"
   - "[[Library/Philosophy/Phenomenology of Perception (Merleau-Ponty)/Phenomenology of Perception (Merleau-Ponty)]]"

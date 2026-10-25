@@ -5,9 +5,7 @@ section: "The Collects"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Collects/proper.html"
-page_range:
-  - 158
-  - 158
+page_range: "158"
 aliases:
   - "BCP 158"
 ---
@@ -15,7 +13,7 @@ aliases:
 
 [[BCP 1979]] · *The Collects* · pages 158–158
 
-[p. 158]
+[p. 158] ^pg158
 
 ## Concerning the Proper of the Church Year
 

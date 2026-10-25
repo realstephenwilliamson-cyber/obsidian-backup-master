@@ -16,8 +16,7 @@ language:
   - English
 pages: 21
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Hindu_Rituals.pdf]]"
   - "[[Library/Hinduism/Hindu Rituals and Routines (text)]]"

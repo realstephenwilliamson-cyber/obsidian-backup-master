@@ -18,8 +18,7 @@ language:
   - English
 pages: 12
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The_Saradamahatmya_of_the_Bhgisasahit.pdf]]"
 aliases:

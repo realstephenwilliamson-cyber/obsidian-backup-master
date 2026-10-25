@@ -6,7 +6,7 @@ page_range: 74–95
 aliases:
   - Goddess Traditions 07 - 4. Snakebite goddesses in the Śākta traditions - roots and incorporations of Tvaritā, Kuru
 ---
-[p. 74]
+[p. 74] ^pg74
 
 # 4 Snakebite goddesses in the Śākta traditions
 
@@ -245,7 +245,7 @@ A Gāruḍapurāṇa 19 reference sounds like our stand-alone Bheruṇḍā, but
 
 We find many other texts using Bheruṇḍā as an attendant goddess. The *Tantrarājatantra* has Bheruṇḍā as a *nityā* alongside Tvaritā and Kurukullā. In verses 3.35–37, the text gives her nine-seed-syllable spell in code working out to: <span class="small">*OṂ KROṂ BHROṂ KROṂ JHROṂ CHROṂ JROṂ SVĀHĀ*</span>. It is completely different from the Prakrit vidyā of her independent identity, but here too she is said to be able to destroy the three types of poison, but rather than chanting in the ear of the victim, it need only be recalled by the initiate. The *Tattvacintāmaṇi* has a similar series of syllables for its Bheruṇḍā *nityā*. In the *Brahmāṇḍapurāṇa*, the Viśvasāratantra, and the *Matsyendrasaṃhitā*, she is listed as one of fifteen or sixteen nityā goddesses, but no details on her form or mantra are given. In the Matasāra, Bheruṇḍā is one of eight goddesses of speech (*vāgeśvarī*).
 
-[p. 90]
+[p. 90] ^pg90
 
 ## Conclusion
 

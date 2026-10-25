@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 547
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Bang - Selected Chapters from the Tantrasadbhava (Hamburg diss. 2018).pdf]]"
   - "[[Library/Trika/Selected Chapters from the Tantrasadbhava (Bang)/Selected Chapters from the Tantrasadbhava (Bang)]]"

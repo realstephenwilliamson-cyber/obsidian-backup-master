@@ -17,8 +17,7 @@ language:
   - English
 pages: 301
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[McClellan - Divine Images, A Cognitive Approach (SBL 2022).pdf]]"
   - "[[Library/Biblical-Studies/Divine Images (McClellan)/Divine Images (McClellan)]]"

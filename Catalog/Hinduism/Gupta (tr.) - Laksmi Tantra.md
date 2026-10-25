@@ -17,8 +17,7 @@ language:
   - English
 pages: 435
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[LAKSMI-TANTRA-translation-by-Sanjukta-Gupta-reprint-Delhi-2003-LAKSHMI-TANTRA.pdf]]"
 aliases:

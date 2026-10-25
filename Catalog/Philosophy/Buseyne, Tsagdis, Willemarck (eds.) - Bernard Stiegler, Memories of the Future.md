@@ -20,7 +20,7 @@ language:
 pages: 265
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Buseyne, Tsagdis, Willemarck (eds.) - Bernard Stiegler, Memories of the Future (2024).pdf]]"
   - "[[Library/Philosophy/Bernard Stiegler (Buseyne)/Bernard Stiegler (Buseyne)]]"

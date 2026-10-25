@@ -17,8 +17,7 @@ language:
   - English
 pages: 58
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[ElishaBenAbuya.pdf]]"
   - "[[Library/Judaica/Elisha ben Abuya (Rubenstein)/Elisha ben Abuya (Rubenstein)]]"

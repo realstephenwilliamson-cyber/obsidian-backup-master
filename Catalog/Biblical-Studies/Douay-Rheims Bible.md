@@ -18,8 +18,7 @@ language:
   - English
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Douay-Rheims]]"
 aliases:
@@ -33,7 +32,7 @@ await dv.view("Templates/Views/open-pdf")
 
 The Douay-Rheims American edition of 1899, translated from the Latin Vulgate, as eBible.org gives it (`engDRA`, source files dated 3 November 2022; public domain): [[Douay-Rheims]] in `Texts/Bible/Douay-Rheims`, 1,334 chapter notes. The vault's English of the Vulgate (decision D22, 12 Oct 2026). eBible names the translator as the English College, Douai.
 
-Details from eBible's description page and copyright file, not checked against a printed copy; `status: keep` since 14 Oct 2026, as a primary text kept as notes.
+Details from eBible's description page and copyright file, not checked against a printed copy; accepted on 14 Oct 2026 as a primary text kept as notes.
 
 ## About
 

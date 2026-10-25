@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 24
 verses: 10
-page_range:
-  - 614
-  - 614
+page_range: "614"
 aliases:
   - "BCP Psalm 24"
   - "BCP 614"
@@ -41,7 +39,7 @@ and a just reward from the God of their salvation." ^24-5
 **24:6** Such is the generation of those who seek him, \*  
 of those who seek your face, O God of Jacob. ^24-6
 
-[p. 614]
+[p. 614] ^pg614
 
 **24:7** Lift up your heads, O gates;  
 lift them high, O everlasting doors; \*  

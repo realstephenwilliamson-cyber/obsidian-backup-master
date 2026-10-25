@@ -127,7 +127,7 @@ brāhmyaisī skandajā hārī vārāhy aindrī sacarcikā |
 pṛītā śuklā pītanīle nīlā 
 
 śuklārunṇā kramāt ॥ 242 ||
-agnīśasaumyayāmyāpyapūrvanairrtagās tu tāh |
+agnīśasaumyayāmyāpyapūrvanairrtagās tu tāḥ |
 arśena mānuṣe loke dhātrā tā hy avatāritāḥ ॥ 243 ॥ 
 
 (The Mothers are) Brāhmī, everything.[^735] (Maheśvarī), Skandajā (Kaumarī), Hārī (Vai: 
@@ -163,7 +163,7 @@ Their pervasion is not just this much. Thus, he says:
 स्वच्छन्दास्ताः पराश्चान्याः परे व्योमि व्यवस्थिताः ।
 स्वच्छन्दं ता निषेवन्ते सप्तधेयमुमा यतः ॥ २४४ ॥
 
-svacchandās tāh parāś cānyāḥ pare vyomni vyavasthitāḥ |
+svacchandās tāḥ parāś cānyāḥ pare vyomni vyavasthitāḥ |
 svacchandaṁ tā niṣevante saptadheyam umā yataḥ || 244 || 
 
 739?\. The Mothers are described in SvT 10/1018cd-1025 as summarized here.
@@ -310,7 +310,7 @@ Summary of the Worlds in the Intellect
 तत्र श्रैकण्ठमुक्त यत् तस्यैवोमापतिस्तथा ।
 मूर्तयः सुशिवा वीरो महादेवाष्टकं वपुः ॥ २५३ ॥
 
-buddhitattvam idar proktarn devayonyaṣtakāditaḥ |
+buddhitattvam idar proktaṁ devayonyaṣtakāditaḥ |
 mahādevāṣṭtakānte tad yogāṣtakam ihoditam ॥ 252 ॥
 tatra Śraikanṭham uktaṁ yat tasyaivomāpatis tathā |
 mūrtayaḥ suśivā vīro mahādevāṣṭtakari vapuḥ ॥ 253 ॥ 
@@ -346,7 +346,7 @@ The principle called the qualities (guṇa) is located above the intellect, (but
 
 #### Viveka on 8.253–254
 
-758\. Abhinava follows the SvT’s cosmology (prakriyā) here, which reckons that the three qualities (guṇa) of Nature (prakṛti) constitute an independent principle (tattva). We shall see that, in the world orders at this reality level, reside three lineages of teachers (8/261-262 (260cd-262ab)), as taught in the Svacchandatantra. However, there is a problem here. The acceptance of a separate principle would add to the standard number of thirty-six Tattvas. Not surprisingly, there was a difference of opinion. As Watson et al. note: ‘guṇatattva , . . was regarded by some Saiddhāntika scriptures as a separate tattva from that of prakṛti (also referred to therein as avyakta and pradhāna), which comes one above it. These scriptures can be subdivided into those (e.g. Parākhyatantra, Rauravasūtrasaigraha) that accepted above this puruṣa, regarded as the principle of the bound soul, and those (e.g. the Kiraṇatantra) that teach prakṛti and guna as separate tattvas, but seem to accept no puruṣatattva (see Goodall 1998: li-lv).... Svāyambhuvasūtrasaigraha does include a guṇatattva in its cosmography . . . ; but the Rauravasūtrasagraha teaches guna, avyakta and puruṣa as separate. Sadyojyotih tends to accept the existence of guṇatattva (see, e.g. Bhogakārikā 115 and Tattvasaṁgraha 9-10). Rāmakantha follows whatever position is maintained in the text he is commenting on.’ (Paramokṣanirāsakārikā, p. 443 note 827). Jayaratha, like Kṣemarāja, is aware of this problem. Kṣemarāja, commenting on the SvT 10/1046a, which states that guṇatattva is above the intellect, that is, precedes it in the order of creation, tries to solve the problem: ‘The emergence of the quality of sattva from the principle of Nature, the nature of which is a state of balanced equality of the qualities, is very different from it. Thus, it should be called in a different way, namely, as the intellect. (Now,) how can a sprout arise as an effect of a seed, for example, if a subtle state of imbalance, which is like the swelling (of the seed), does not arise in between (the seed’s state and that of the sprout, its effect? Similarly,) the principle of the qualities arises from the principle of Nature, from which it is said to not be very different. It is with the intention (to express this subtle difference) that gunṇatattva is presented (by some) as a distinct separate principle (from the others). In (scriptures) such as the venerable Mālinīvijaya, gunatattva is referred to as one with the principle of Nature (prakti), (but has some separate existence) insofar as the gunas continue to be mentioned, as when one names a seed (as being such) when it is in a swollen state. (This is) as happens when a subtle state of imbalance (between the gunas arises in Nature) and (they) issue forth from it. (Although these scriptures do refer to the gunas, , they do not refer to them as a separate principle) because the intention is to expound an abbreviated form of initiation by means of the world-orders. Here however, (in the Svacchandatantra,) the exposition of the procedure concerning the worlds is being undertaken in detail, and so guṇatattva is presented as separate from prakṛtitattva. One should not (feel) doubt (because) scriptures disagree.’ Kṣemarāja here has in mind MV 1/30: “Then (Māyā) generated the Unmanifest (Nature) (avyakta) from the principle of the Force (of limited agency). Then (from that) the Qualities (were produced), and from them the intellect with its eight qualities. Similarly, the ego (originated) from the intellect.” The SvT, followed and defended here by Abhinava, very clearly describes the worlds of the three Gunas as corresponding to those of three lineages of teachers (see 8/261-262 (260cd-262ab)). The Tattva and its worlds are as real as any of the others. Kṣemarāja’s explanation amounts to saying that Guṇatattva is Prakṛtitattva when it is aroused from its Unmanifest state, in which the gunas balance each other out. The brief procedure does not take the two states into account. This view is made explicit by Jayaratha below in TĀv ad 9/259-260 (258cd-260ab), where he argues that ‘they cannot be separate principles, as scripture declares Puruṣa to be the twenty-fifth principle, which is just above Prakṛti, the twenty-fourth.”
+758\. Abhinava follows the SvT’s cosmology (prakriyā) here, which reckons that the three qualities (guṇa) of Nature (prakṛti) constitute an independent principle (tattva). We shall see that, in the world orders at this reality level, reside three lineages of teachers (8/261-262 (260cd-262ab)), as taught in the Svacchandatantra. However, there is a problem here. The acceptance of a separate principle would add to the standard number of thirty-six Tattvas. Not surprisingly, there was a difference of opinion. As Watson et al. note: ‘guṇatattva , . . was regarded by some Saiddhāntika scriptures as a separate tattva from that of prakṛti (also referred to therein as avyakta and pradhāna), which comes one above it. These scriptures can be subdivided into those (e.g. Parākhyatantra, Rauravasūtrasaigraha) that accepted above this puruṣa, regarded as the principle of the bound soul, and those (e.g. the Kiraṇatantra) that teach prakṛti and guna as separate tattvas, but seem to accept no puruṣatattva (see Goodall 1998: li-lv).... Svāyambhuvasūtrasaigraha does include a guṇatattva in its cosmography . . . ; but the Rauravasūtrasagraha teaches guna, avyakta and puruṣa as separate. Sadyojyotih tends to accept the existence of guṇatattva (see, e.g. Bhogakārikā 115 and Tattvasaṁgraha 9-10). Rāmakantha follows whatever position is maintained in the text he is commenting on.’ (Paramokṣanirāsakārikā, p. 443 note 827). Jayaratha, like Kṣemarāja, is aware of this problem. Kṣemarāja, commenting on the SvT 10/1046a, which states that guṇatattva is above the intellect, that is, precedes it in the order of creation, tries to solve the problem: ‘The emergence of the quality of sattva from the principle of Nature, the nature of which is a state of balanced equality of the qualities, is very different from it. Thus, it should be called in a different way, namely, as the intellect. (Now,) how can a sprout arise as an effect of a seed, for example, if a subtle state of imbalance, which is like the swelling (of the seed), does not arise in between (the seed’s state and that of the sprout, its effect? Similarly,) the principle of the qualities arises from the principle of Nature, from which it is said to not be very different. It is with the intention (to express this subtle difference) that gunṇatattva is presented (by some) as a distinct separate principle (from the others). In (scriptures) such as the venerable Mālinīvijaya, guṇatattva is referred to as one with the principle of Nature (prakti), (but has some separate existence) insofar as the gunas continue to be mentioned, as when one names a seed (as being such) when it is in a swollen state. (This is) as happens when a subtle state of imbalance (between the gunas arises in Nature) and (they) issue forth from it. (Although these scriptures do refer to the gunas, , they do not refer to them as a separate principle) because the intention is to expound an abbreviated form of initiation by means of the world-orders. Here however, (in the Svacchandatantra,) the exposition of the procedure concerning the worlds is being undertaken in detail, and so guṇatattva is presented as separate from prakṛtitattva. One should not (feel) doubt (because) scriptures disagree.’ Kṣemarāja here has in mind MV 1/30: “Then (Māyā) generated the Unmanifest (Nature) (avyakta) from the principle of the Force (of limited agency). Then (from that) the Qualities (were produced), and from them the intellect with its eight qualities. Similarly, the ego (originated) from the intellect.” The SvT, followed and defended here by Abhinava, very clearly describes the worlds of the three Gunas as corresponding to those of three lineages of teachers (see 8/261-262 (260cd-262ab)). The Tattva and its worlds are as real as any of the others. Kṣemarāja’s explanation amounts to saying that Guṇatattva is Prakṛtitattva when it is aroused from its Unmanifest state, in which the gunas balance each other out. The brief procedure does not take the two states into account. This view is made explicit by Jayaratha below in TĀv ad 9/259-260 (258cd-260ab), where he argues that ‘they cannot be separate principles, as scripture declares Puruṣa to be the twenty-fifth principle, which is just above Prakṛti, the twenty-fourth.”
 
 
 *[p. 265]* ^pg283
@@ -527,7 +527,7 @@ It would also be contrary (to the same scripture, that states):
 
  
 
-In this way (if one accepts that the qualities are a separate principle), Nature (pradhāna) would be the twenty-fifth and the individual soul purusa), the twenty-sixth. Thus, just as Māyā is of two kinds, as the Knot (of ignorance) (granthi) and the principle (tattva) (which correspond to its disturbed and undisturbed aspects), 
+In this way (if one accepts that the qualities are a separate principle), Nature (pradhāna) would be the twenty-fifth and the individual soul puruṣa), the twenty-sixth. Thus, just as Māyā is of two kinds, as the Knot (of ignorance) (granthi) and the principle (tattva) (which correspond to its disturbed and undisturbed aspects), 
 
 TM similarly one should understand that Nature (is of two kinds) as disturbed and undisturbed, so that everything is coherent (and makes sense). The principle of the intellect is superior to all (the other principles generated from Nature), and so is very different in character (from the others and from Nature), as is the sprout, for example, from the seed. Thus, (the intellect) is its product. (Unmanifest Nature) is certainly not a cause also, (for if it were to be, it would be in its disturbed, causal state). Thus, one must necessarily accept (the existence) of the principle of the qualities as the cause of the intellect. And so it has been clarified in this way that even if one says that Nature is the qualities that are disturbed (spontaneously) by themselves, there is no occasion for the fault of the Sāṁkhya (view) to arise. (An opponent may rejoin that that makes no sense, because) if were to be so, one should first say that there is also an undisturbed form of the qualities; otherwise, in relation to what would their disturbed state be? Thus, it has been explained here that there 
 
@@ -618,7 +618,7 @@ Thus, from the intellect up to the qualities there are two hundred and seven Rud
 
 ‘The intellect’ is (here in its manifest) unfolding form, (from which the remaining principles up to Earth, which are) the products (of Nature, are derived). Thus, beginning with Earth up to the qualities, there are ‘primarily’ two hundred and seven worlds. (Only the primary ones are counted), because otherwise (if one counted all of them), they would be endless in number. Thus, 1) below Earth there is one world, (which is that) of Ananta. 
 
-2\) Within (the Earth) there are six, namely, (the worlds of) Kālāgni, Kūṣmānqda, Hātaka, Brahmā, Viṣṇu and Rudra. 
+2\) Within (the Earth) there are six, namely, (the worlds of) Kālāgni, Kūṣmānqda, Hāṭaka, Brahmā, Viṣṇu and Rudra. 
 
 3\) Outside (the Egg of Brahmā), there are the hundred (worlds) of the hundred Rudras. 
 
@@ -690,7 +690,7 @@ dharmajñānavirāgān
 
 aiśvaryaṁ tatphalāni vividhāni ॥ 266 ॥
 yacchanti gunebhyo ‘mī puruṣebhyo yogadātāraḥ |
-tebhyaḥ parato bhuvanarn 
+tebhyaḥ parato bhuvanaṁ 
 
 sattvādigunāsanasya devasya || 267 ॥
 sakalajagad ekamātur 
@@ -794,7 +794,7 @@ The Eight Rudras in Unmanifest Nature
 क्रोधेशचण्डसंवती ज्योति पिद्गलसूरकौ ।
 पञ्ान्तकैकवीरौ च शिखोदश्चाष्ट तत्र ते ॥ २७३ ॥
 
-guṇnānām yat \[param sāmyari tad avyaktarn gunordhvataḥ || 272 ॥
+guṇnānām yat \[param sāmyari tad avyaktaṁ gunordhvataḥ || 272 ॥
 krodheśacandasaṁvartā jyotihpiṅgalasūrakau |
 pañcāntakaikavīrau ca śikhodaś cāṣṭa tatra te ॥ 273 ॥ 
 
@@ -832,7 +832,7 @@ Here (in this case) also, he notes the particular (special teaching) taught in t
 
 gahanar puruṣanidhānamn 
 
-prakṛtir mūlarnṁ pradhānam avyaktam |
+prakṛtir mūlaṁ pradhānam avyaktam |
 guṇakāraṇam ity ete 
 
 māyāprabhavasya paryāyāḥ ॥ 274 |I| 
@@ -948,7 +948,7 @@ The eight (goddesses of the eight) accomplishments (siddhi) are said to be: 1)T�
 
 Pramodikā (Playful), 5) Pramoditā (Delighted), 6) Modamānā (Delighting), and after that 7) Ramyakā (Joyful) and 8) Sadāpramudikā (Always Delighted). 
 
-1\) Anima (Smallness), 2) Laghimā (Lightness) and 3) Mahimā (Great Size) as well as 4) Prāpti (Attainment) 5) Prākāmya (Multiplication of the body) and 6) \[Isitvarn (Mastery) and 7) Vaśitva (Control of living beings) and where there is 8) Kāmāvasāyitva (Divination of the location of an object), that is said to be the group of eight (yogic powers) beginning with \^ Anima." 
+1\) Anima (Smallness), 2) Laghimā (Lightness) and 3) Mahimā (Great Size) as well as 4) Prāpti (Attainment) 5) Prākāmya (Multiplication of the body) and 6) \[Isitvaṁ (Mastery) and 7) Vaśitva (Control of living beings) and where there is 8) Kāmāvasāyitva (Divination of the location of an object), that is said to be the group of eight (yogic powers) beginning with \^ Anima." 
 
 What is the nature of (this false) contentment and the rest? With this doubt in mind, he says: 
 
@@ -1013,7 +1013,7 @@ Five (are the forms of external false contentment) brought about by abstaining f
 1A) ‘Internal’ (ādhyātmika) (in this context) means that which is not the Self, that is, Nature etc. There (in that context), it is Nature (prakṛti) that is eight-fold as — Fundamental Nature (pradhāna), the intellect (mahat) and the rest, It is the (sole) instrumental cause (nimitta) of the coming into being (utpatti) of all things, and there is none other. Thus, there (in that context), it is 
 
 [^802]: Kapila is universally acclaimed to be the founder of Sāṁkhya. However, the Sāṁkhyakārikā, from which Abhinava draws here, is by Īśvarakṛṣṇa, not Kapila himself. Thus, Abhinava refers to ‘the followers of Kapila’ here.
-[^803]: \[illegible\] SārnKā 50ab.
+[^803]: \[illegible\] SāṁKā 50ab.
 
 *[p. 284]* ^pg302
 
@@ -1106,7 +1106,7 @@ By the word ‘also’, in ‘there also’, is meant that there are not just th
 
 813\. Concerning the channels of the vital breath (nādī), see above, 7/65cd-68ab.
 
-814\. Read with MSs Ch and Ñ and the SvT, athordhvarn for yathordhvami.
+814\. Read with MSs Ch and Ñ and the SvT, athordhvaṁ for yathordhvami.
 
 815\. SvT reads paramo muniḥ for paramastvṛṣiḥ.
 

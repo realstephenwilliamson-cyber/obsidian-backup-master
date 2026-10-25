@@ -17,8 +17,7 @@ language:
   - English
 pages: 449
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Lutgendorf - Hanuman's Tale (2007).pdf]]"
   - "[[Library/Hinduism/Hanuman's Tale (Lutgendorf)/Hanuman's Tale (Lutgendorf)]]"

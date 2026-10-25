@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 130
 verses: 7
-page_range:
-  - 785
-  - 785
+page_range: "785"
 aliases:
   - "BCP Psalm 130"
   - "BCP 785"
@@ -32,7 +30,7 @@ O LORD, who could stand? ^130-2
 **130:3** For there is forgiveness with you; \*  
 therefore you shall be feared. ^130-3
 
-[p. 785]
+[p. 785] ^pg785
 
 **130:4** I wait for the LORD; my soul waits for him; \*  
 in his word is my hope. ^130-4

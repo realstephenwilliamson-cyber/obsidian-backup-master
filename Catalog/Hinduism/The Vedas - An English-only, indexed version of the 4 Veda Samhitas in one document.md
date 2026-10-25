@@ -16,8 +16,7 @@ language:
   - English
 pages: 1109
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The Vedas (2002).pdf]]"
 aliases: []

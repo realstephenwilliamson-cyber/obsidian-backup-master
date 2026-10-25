@@ -17,8 +17,7 @@ language:
   - English
 pages: 159
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Brown (tr.) - The Song of the Goddess (2002).pdf]]"
   - "[[Library/Hinduism/The Song of the Goddess (Brown)/The Song of the Goddess (Brown)]]"

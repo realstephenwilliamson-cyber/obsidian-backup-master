@@ -17,8 +17,7 @@ language:
   - English
 pages: 193
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Susanne Sreedhar - Hobbes on Resistance_ Defying the Leviathan-Cambridge University Press (2010).pdf]]"
   - "[[Library/Philosophy/Hobbes on Resistance (Sreedhar)/Hobbes on Resistance (Sreedhar)]]"

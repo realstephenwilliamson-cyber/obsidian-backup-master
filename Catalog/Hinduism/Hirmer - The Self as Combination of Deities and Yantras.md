@@ -17,8 +17,7 @@ language:
   - English
 pages: 21
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[religions-13-00738-v2.pdf]]"
 aliases: []

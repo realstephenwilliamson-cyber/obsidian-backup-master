@@ -1,10 +1,14 @@
 ---
+type: book-chapter
+work: "An Introduction to Tantric Philosophy: The Paramārthasāra of Abhinavagupta with the Commentary of Yogarāja"
+order: 4
+page_range: "60–140"
 aliases:
   - Paramarthasara 04 - Translation — Kārikās 1–20
 ---
 # Translation — Kārikās 1–20
 
-[p. 60]
+[p. 60] ^pg75
 
 1. To the One who, although nothing but a mass of conscious-
 ness, 223 is yet solidified in the form of the world, 224 to the
@@ -60,7 +64,7 @@ jarasāśyānatārūpaṃ jagad unmajjayatīti yujyate, ‘Therefore, it i
 the Lord who is consciousness brings about the emergence of the world by solidifying
 his own essence’, and Śivasūtravimarśinī [ŚSV] I 2: yaḥ parameśvareṇa svasvātantryaśaktyā-
 
-[p. 61]
+[p. 61] ^pg76
 
 KĀRIKĀ 1
 61
@@ -115,7 +119,7 @@ of mind] as hesitation, uneasiness, laziness, and uncertainty’.
 231pramātr̥ — lit., ‘agent of [presumably valid] cognition (pramā)’. The two families of terms
 based on the roots jñā (jñāna, etc.) and mā (māna, esp. pramāna, etc.) present particular
 
-[p. 62]
+[p. 62] ^pg77
 
 considers his reverence 232 to the Supreme Lord (parameśvara).
 The essential meaning of the entire treatise is inherently present in
@@ -174,7 +178,7 @@ All of which might be alleged to favor the interpretation of the compound itself
 dvandva, but as a karmadhāraya or tatpuruṣa — for, precisely, cit and ānanda are not two;
 therefore our translation: ‘a uniform mass of blissful consciousness’.
 
-[p. 63]
+[p. 63] ^pg78
 
 KĀRIKĀ 1
 63
@@ -229,7 +233,7 @@ principle) that is implicit in every act of consciousness and which “surges fo
 as the insight determining even the possibility of awareness. See SpN I 3.
 239See PS 49 and YR ad loc.
 
-[p. 64]
+[p. 64] ^pg79
 
 Śaṃbhu, [appropriation of] whose nature becomes [for the aspirant]
 the ultimate goal (śreyas), 240 who are as well [absolute] Being (sattā),
@@ -282,7 +286,7 @@ the general principles of Indian hermeneutics in stressing the inner coherence (
 the text, and in raising possible objections and offering solutions (ākṣepasya samādhānam);
 cf. Grimal 2000: 765–785.
 
-[p. 65]
+[p. 65] ^pg80
 
 KĀRIKĀ 1
 65
@@ -337,7 +341,7 @@ materialized into actual creation. As Michel Hulin (1978: 305) states, at the le
 śuddhādhvan, ‘Śiva [fait], si l’on ose dire, le tour de sa nature’ (‘Śiva, so to speak, takes an
 overall view of his own nature’).
 
-[p. 66]
+[p. 66] ^pg81
 
 tiated, when manifesting various states of consciousness, 249 he does not
 deviate from his transcendent nature, which is all-encompassing.
@@ -391,7 +395,7 @@ form of the triad of his energies, viz., non-supreme, supreme, supreme-non-supre
 this verse (see Silburn, Singh, Dyczkowski ad SpK), largely for the reason that the syntactic
 construction of the first hemistich may be analyzed in two ways, as shown by Kṣemarāja in
 
-[p. 67]
+[p. 67] ^pg82
 
 KĀRIKĀ 1
 67
@@ -449,7 +453,7 @@ smoke, it is smoke that is established first, contrasts that sort of priority wi
 of the Self, which is qualified as purāṇa, since there cannot be any objectification of the
 Self, the pure subject. See also SpP avat., p. 6, which deals with the concept of ādisiddhatva
 
-[p. 68]
+[p. 68] ^pg83
 
 cognizer present in all possible perceptions as the principle of experience
 itself (anubhavitr̥tā);
@@ -501,7 +505,7 @@ Appendix 10, p. 330. For the same analogy of Śiva as an actor, see YR ad 5 an
 to the simultaneous transcendence and immanence of the Lord. The epithet sarvālaya is
 another formulation of SpK I 2: yatra sthitam idaṃ sarvaṃ kāryam […], ‘[The One, i.e.,
 
-[p. 69]
+[p. 69] ^pg84
 
 KĀRIKĀ 1
 69
@@ -557,7 +561,7 @@ nātīty ataḥprabhr̥ti krimir api jānātītyantam eka eva pramātā, 
 limiting conditions such as the body, and these [limiting conditions themselves], as soon as
 they are investigated, [turn out] not [to be] different [from the universal Self]; therefore the
 
-[p. 70]
+[p. 70] ^pg85
 
 Reflection 266 on the pronoun [‘all’ (sarva)] 267 gives rise to the ques-
 tion: ‘whence emerges this all (viśva)?’ 268
@@ -607,7 +611,7 @@ anyasyaitadvyatiriktasya aprakāśarūpasya prakāśamānatābhāvāt; 
 271SpK II 4b. ŚSV I 14 observes that this verse hints at the bhedābheda state of experience.
 YR quotes again SpK II 4b in his gloss ad 74.
 
-[p. 71]
+[p. 71] ^pg86
 
 KĀRIKĀ 1
 71
@@ -655,7 +659,7 @@ entitled Spandasūtrārthāvalī, the Necklace of Meanings [Strung Upon] the
 garbhaḥ, ‘Thus we have shown that this first verse contains, in a nutshell, the meaning of the
 entire work (or manual)’.
 
-[p. 72]
+[p. 72] ^pg87
 
 Kārikās 2–3
 Thus, through the intermediary of this verse of praise, the author has
@@ -709,7 +713,7 @@ pādya), in keeping with the Śaiva nondualistic doctrine; the objective (pray
 treatise, namely, attaining the realization of the identity of Śiva and paśu, culminating in
 liberation from the ‘cycle of sufferings’. As observed by YR, PS 2–3 has recourse to a fifth
 
-[p. 73]
+[p. 73] ^pg88
 
 KĀRIKĀS 2–3
 73
@@ -762,7 +766,7 @@ guru (kā. 4).
 planation of this expression is given further in YR ad 2–3: ‘whose heart is pierced with
 (viddhahr̥daya) the energy of the Supreme Lord’s favor (anugrahaśakti)’; see also YR ad 103:
 
-[p. 74]
+[p. 74] ^pg89
 
 wise in teaching all the doctrines without exception, 286 impartedinstruc-
 tion, saying: ‘[Knowledge of] the transcendental brahman (parabrah-
@@ -814,7 +818,7 @@ awareness, its very essence — reflective awareness [that is, the corresponding
 that is the non-adventitious cause of creation and reabsorption’; also TĀV ad loc.: haṃsaḥ
 [...] parapramātā; punaḥ sr̥ṣṭyādyuttarakālam.
 
-[p. 75]
+[p. 75] ^pg90
 
 KĀRIKĀS 2–3
 75
@@ -866,7 +870,7 @@ and prompts the enquiry addressed to his guru.
 298Lit., ‘how can the curiosity [that prompts him] to pose questions as to acquisition of the
 supreme benefit [...]’.
 
-[p. 76]
+[p. 76] ^pg91
 
 And [it is also here suggested that] he is a worthy receptacle for the
 teacher’s instruction in whom dispassion has developed, whose heart is
@@ -914,7 +918,7 @@ ābhāsān anyonyaṃ nānāvaicitryeṇa saṃyojayan viyojayaṃś ca vi
 rious display” (vibhava) means the infinite variety of the conjunction and disjunction of the
 Lord’s energies vis-à-vis each other, which thus appear as a wheel [lit., ‘the conjunction and
 
-[p. 77]
+[p. 77] ^pg92
 
 KĀRIKĀ 4
 77
@@ -968,7 +972,7 @@ Sāṃkhya, insofar as it is related to the doctrine of the tattvas that Sām�
 occurs here in an altogether different context, with an altogether different import: the tetrad
 of spheres is an ontological requirement of the system (see Appendix 5, p. 323).
 
-[p. 78]
+[p. 78] ^pg93
 
 (vastupiṇḍa), is so called inasmuch as it covers 306 the universe as does a
 sheath (kośa). As has been said:
@@ -1021,7 +1025,7 @@ bhavanakartr̥tā designates the Lord’s faculty of exerting his power of beco
 manifesting himself as the universe, eternally and permanently present in him. Being free,
 Parameśvara decides to embody reality, in other words, to become “real”. See again ĪPV
 
-[p. 79]
+[p. 79] ^pg94
 
 KĀRIKĀ 4
 79
@@ -1075,7 +1079,7 @@ or entity composed of those thirty-six principles, grouped into four spheres acc
 increasing constrictions put upon the Lord’s absolute freedom. For a detailed exposition of
 the notion of aṇḍa and an attempt at their interpretation, see Appendix 5, p. 323.
 
-[p. 80]
+[p. 80] ^pg95
 
 This energy, which pertains to the Supreme Lord, belongs to the uni-
 verse formed of cognizers and objects of cognition (pramātr̥prameya), even
@@ -1128,7 +1132,7 @@ the five kañcukas constitute the subjectivity of an individual soul (aṇu) an
 the three impurities. Might it be possible to see in these three terms, displaced to a more
 concrete level, references to the three forms of being noticed above (viz., sattā, bhavattā,
 
-[p. 81]
+[p. 81] ^pg96
 
 KĀRIKĀ 4
 81
@@ -1180,7 +1184,7 @@ being another variety, and those termed wild animals; those termed domestic cons
 a fifth variety, another being man. And Piśācas, Rakṣas, Yakṣas, Gandharvas, Indra, Soma,
 Prajāpati, Brahmā. Thus they are fourteen. Once this brahma[aṇḍa] has been purified, the
 
-[p. 82]
+[p. 82] ^pg97
 
 Thus does this tetrad of spheres, which is but the expansion 323 [i.e., the
 emanation] of the Supreme Lord, become apparent [to us] (parisphurati)
@@ -1229,7 +1233,7 @@ IV 24–25 and in the Rauravāgama, as clearly stated by TĀ (VIII 168b) itsel
 gurubhiś coktaṃ śrīrauravādiṣu, ‘The nature of the aṇḍa has been said by the gurus in the Rau-
 rava [āgama]’. The two following ślokas (TĀ VIII 169–170), defining aṇḍa, are a quotation
 
-[p. 83]
+[p. 83] ^pg98
 
 KĀRIKĀ 5
 83
@@ -1282,7 +1286,7 @@ niyati as ‘determinism’ (Miśra 1993: 175), ‘causal restriction’ (Silbu
 inasmuch as everything arises from the Lord, niyati as a category is called ‘tattva’, whereas
 niyatiśakti is a potentiality of the Lord. See also YR ad 9 and 17.
 
-[p. 84]
+[p. 84] ^pg99
 
 to possess faculties above the norm: even that which is distant [yet still
 visible], or is screened from view, or is entirely out of sight 331 may be
@@ -1331,7 +1335,7 @@ would indicate then consciousness that is not omniscient, which functions in the
 of always partial awareness — not only limited but also incompetent. According to Gonda
 (1960–1964, vol. II: 235ff.), the notion of the ‘aṇu’ — which is common to all the versions of
 
-[p. 85]
+[p. 85] ^pg100
 
 KĀRIKĀ 5
 85
@@ -1385,7 +1389,7 @@ knowers — in reference to whom the term “pramātr̥” may be understood li
 that the limitations on their “knowledge”, being self-imposed, are on no wise inherent.
 339avikalpya — lit., ‘dichotomized, subject to alternativity’. This is a topos: if brahman is
 
-[p. 86]
+[p. 86] ^pg101
 
 Likewise, according to [your own] maxim:
 Even each and every principle has got the form of the thirty-six
@@ -1437,7 +1441,7 @@ effect preexists potentially in the cause. Therefore, every tattva is present in
 as potency (pr̥thivī, the final tattva, is latent in Śiva, the first one) or as manifestation (when
 manifested, pr̥thivī is nothing but Śiva). Cf. TĀ IX 49b–52a, quoted n. 485.
 
-[p. 87]
+[p. 87] ^pg102
 
 KĀRIKĀ 5
 87
@@ -1488,7 +1492,7 @@ subject’, is, in any case, a metaphoric usage. Similar explanation of paśu i
 345padārtha.
 346Cf. SpK II 4, quoted n. 452.
 
-[p. 88]
+[p. 88] ^pg103
 
 It is in relation to this pair that all these worldly pursuits based on
 difference take place.
@@ -1534,7 +1538,7 @@ Sanskrit text’. The sentence is to be construed yathāsaṃkhyam. Also quoted
 to 98, also in the context of a controversy as to the ability of an undivided consciousness to
 assume entirely the form of diversity, i.e., to manifest itself as many.
 
-[p. 89]
+[p. 89] ^pg104
 
 KĀRIKĀ 6
 89
@@ -1589,7 +1593,7 @@ gated by’. Cf. also avat. ad 85–86, p. 167, and ŚSV III 1, defining citt
 or consciousness’, as viṣayavāsanācchurita, ‘colored by [or saturated by] the dispositions de-
 posited by the objects of senses’.
 
-[p. 90]
+[p. 90] ^pg105
 
 In ordinary parlance [or, in everyday practice], 361 we say only that
 these colors, red, etc., appear (sphuranti) here [viz., in the crystal], not
@@ -1641,7 +1645,7 @@ in the available MSS of the Saṃvitprakāśa, but is also quoted in the Laks�
 8a) in the same form, and as a paraphrase in TĀ V 154b–155a.
 370Time and space are deemed upādhis. Note the pun on khaṇḍanā, ‘dividing’ and ‘refuting’.
 
-[p. 91]
+[p. 91] ^pg106
 
 KĀRIKĀ 6
 91
@@ -1695,7 +1699,7 @@ we have related it to the verse’s subject, jñānopādhiḥ, as, apparently
 However that may be, the understandings of verse 220 are not that different as to the point
 that YR wants to make: even the most notorious partisans of multiplicity — the Buddhists —
 
-[p. 92]
+[p. 92] ^pg107
 
 Moreover, space and time are [here] postulated [by the objector] as
 diversifying the free, all-encompassing Knower (jñātr̥), whose nature is
@@ -1740,7 +1744,7 @@ of Buddhist logic, see also Vetter 1964: 66–71.
 375Silburn translates cinmūrti as ‘pure spiritualité’ (‘pure spirituality’).
 376bhedadharme, scil. sati.
 
-[p. 93]
+[p. 93] ^pg108
 
 KĀRIKĀ 7
 93
@@ -1790,7 +1794,7 @@ Self [remains constant in the midst of change]’.
 378vyavahr̥yate — or ‘is merely a convention of language’ — i.e., we say ‘the moon shimmers
 [on the water]’, but this is just a way of talking.
 
-[p. 94]
+[p. 94] ^pg109
 
 practice [i.e., the understanding] of those who are deluded (vyāmohita)
 by māyā in this phenomenal world, 379 just as happens when the moon [is
@@ -1845,7 +1849,7 @@ be’.
 specified). Ś comments upon these attributes: since birth is denied, the Self is unborn (aja);
 since perishability, i.e., death, is denied, it is eternal (nitya); since change in the form of
 
-[p. 95]
+[p. 95] ^pg110
 
 KĀRIKĀ 7
 95
@@ -1898,7 +1902,7 @@ Hence bondage itself does not provide a valid argument for the pūrvapakṣin w
 is that Śiva, as paśu in bondage, cannot be of an absolute nature. Whatever is bondage is
 known to be bondage, its existence depends upon the Self as knower. Therefore, whatever
 
-[p. 96]
+[p. 96] ^pg111
 
 In every wise, only the thing, such as the body, that has been created
 [by the Lord] can be subject to destruction or generation; never can cre-
@@ -1941,7 +1945,7 @@ lunar eclipses, is visible only when he crosses the moon; otherwise, he is invis
 visible, Rāhu, like consciousness, requires then a concrete substratum. Since eclipses are
 harmful, Rāhu is considered a demon, thus completing the image.
 
-[p. 97]
+[p. 97] ^pg112
 
 KĀRIKĀ 8
 97
@@ -1992,7 +1996,7 @@ multiplicity that characterizes every act of ordinary awareness.
 396viṣayo bhavati.
 397Second occurrence of the ‘I’-notion in YR’s commentary.
 
-[p. 98]
+[p. 98] ^pg113
 
 body (puryaṣṭakapramātr̥) 398 whenever objects of sense such as sound, 399
 viewed as 400 objects to be known 401 are apprehended in the mirror of
@@ -2044,7 +2048,7 @@ stance, the difference between ‘one may substitute saccharine for sugar at any
 term perhaps signifies that what is at issue is conditioned — by “facts”, by ordinary usage —
 and is in no wise predetermined; as such, it is subject to the complex of spatio-temporal con-
 
-[p. 99]
+[p. 99] ^pg114
 
 KĀRIKĀ 9
 99
@@ -2090,7 +2094,7 @@ jñānins, or none are. How then can one justify a hierarchy of pramātr̥s?
 410See PS 96.
 411ārurukṣu — see PS 97–102.
 
-[p. 100]
+[p. 100] ^pg115
 
 Self, are tightly fettered by the chains 412 of actions good and evil that
 occasion merit and demerit, and are bound to transmigrate. How can this
@@ -2140,7 +2144,7 @@ two births, but after a much longer stay in divine worlds (kā. 100–102).
 vibhāti and bhāti, vibhāti meaning ‘to shine in reflection’.
 416svīkr̥ — lit., ‘make its own’, ‘appropriate’.
 
-[p. 101]
+[p. 101] ^pg116
 
 KĀRIKĀ 9
 101
@@ -2192,7 +2196,7 @@ figure of the paśu: ‘on account of this [power], they wander (saṃsaranti) 
 again and again, engaged in good and bad actions, enjoying pleasure and pain, etc., for their
 own nature has not become co-extensive with their [universal] Self (svasvarūpāprathanāt)’.
 
-[p. 102]
+[p. 102] ^pg117
 
 sumed as one of the following types: sometimes intense (tīvra), sometimes
 feeble (manda), sometimes even more feeble (mandamandatara), etc. 420
@@ -2244,7 +2248,7 @@ paraṃtapa//, ‘But by unswerving devotion can/ I in such a guise, Arjuna,/ Be
 seen in very truth,/ And entered into, scorcher of the foe’ (BhG XI 54). There is no direct
 commentary of AG on this verse of the Gītā.
 
-[p. 103]
+[p. 103] ^pg118
 
 KĀRIKĀ 9
 103
@@ -2289,7 +2293,7 @@ on PS 27 (see Gnoli, ibid.). According to Gnoli, Avadhūtasiddha might have bee
 Kashmir, and, having become an authority among Śaivas as early as AG’s time, might have
 lived there in the 10th or even in the 9th cent.
 
-[p. 104]
+[p. 104] ^pg119
 
 Kārikās 10–11
 Having thus accounted for this entirety (idaṃ sarvam) [viz., the universe
@@ -2339,7 +2343,7 @@ paratattvaṃ tasmin vibhāti [...] jagat, ‘This world appears in the ultimat
 431Silburn translates literally: ‘abondamment pourvu de volonté (icchā), de Conscience
 (saṃvit) et d’instrument (karaṇa)’.
 
-[p. 105]
+[p. 105] ^pg120
 
 KĀRIKĀS 10–11
 105
@@ -2393,7 +2397,7 @@ ing in space and time (as paratattva, it ‘expands till dissolution’). As dem
 (YR ad 6 and 10–11), spatiality and temporality are insentient, unless taken as the very
 powers of the Lord. So grounded is the objection of the pūrvapakṣin. This ‘extending’ mani-
 
-[p. 106]
+[p. 106] ^pg121
 
 therefore, can it be applied to the Lord, to the Supreme Śiva, whose form
 is consciousness (cidrūpa)?
@@ -2444,7 +2448,7 @@ nature of the energies of Will (icchā), Knowledge (jñāna), and Action (kri
 ŚSV III 19, both quoting MVT III 5–13, describe in detail the entire process (see Appendix 9,
 p. 329).
 
-[p. 107]
+[p. 107] ^pg122
 
 KĀRIKĀS 10–11
 107
@@ -2502,7 +2506,7 @@ hetoḥ cakreśvaro bhavet cakrasya prākpratipāditasthityā carācarabha�
 prasr̥tasya śabdarāśisamutthasya svaśaktisamūhasya īśvaro ’dhiṣṭhātā, ‘By recognising his true
 essential nature, “He becomes the Lord of the Wheel”, that is, the Lord Who presides over the
 
-[p. 108]
+[p. 108] ^pg123
 
 from it [the ultimate principle], and also achieve rest in it. 445
 And, thus, it might also be said that, in the Lord, [his energy of abso-
@@ -2553,7 +2557,7 @@ bhāsanam//, ‘In fact, the manifestation of two things as different would [be
 example,] the case of the “jar” (ghaṭa) and the “non-jar” (aghaṭa). There is, however, no man-
 ifestation, as if it were light, of something other [than light]’; and its vr̥tti: prakāśād dvitīyasya
 
-[p. 109]
+[p. 109] ^pg124
 
 KĀRIKĀS 10–11
 109
@@ -2607,7 +2611,7 @@ famous hemistich (SpK II 4a): tasmāc chabdārthacintāsu na sāvasthā na 
 from some older texts (anekāmnāya); see n. 1028. Cf. TĀ IV 275a: sarvaṃ śivamayam, and
 avat. ad PS 46.
 
-[p. 110]
+[p. 110] ^pg125
 
 be possible even to ascertain 453 that there is an object here which, not
 subject to illumination (aprakāśamāna), has the form of its opposite [that
@@ -2659,7 +2663,7 @@ notion, see Rastogi 1987: 35–36; Bansat-Boudon 1992; Pollock 2006.
 III: 23),
 while commenting on na kvāpy aprakāśaḥ of the vivr̥tti ad II 1, 7, attributing it to the Śaiva
 
-[p. 111]
+[p. 111] ^pg126
 
 KĀRIKĀS 12–13
 111
@@ -2710,7 +2714,7 @@ YR’s commentary, where the previous quotation is from SpK II 3b. Such echoes f
 text show the persistent interreferentiality of the Trika system.
 456na kramate — see YR ad 6.
 
-[p. 112]
+[p. 112] ^pg127
 
 say that it is not different, what sense then can be attributed to this verbal
 construction of yours, 457 [which appears to say] that the universe appears
@@ -2762,7 +2766,7 @@ his own consciousness, of the appearance and disappearance of the universe, and 
 vv. 4–5.
 461sarva — in order to appreciate the force of the analogy, it seems important to understand
 
-[p. 113]
+[p. 113] ^pg128
 
 KĀRIKĀS 12–13
 113
@@ -2815,7 +2819,7 @@ bhavati tato ’py anyatra nāpy alam//, ‘[the reflected image] is a [real] t
 exist apart from that [mirror]’.
 467svayam.
 
-[p. 114]
+[p. 114] ^pg129
 
 reflected in the mirror, appear as different [from each other], inasmuch
 as they are also different from the mirror. 468
@@ -2863,7 +2867,7 @@ nature of the object.
 473The example (dr̥ṣṭānta) has been explained. The author now takes up to the dārṣṭāntika,
 the term to be explained through the example.
 
-[p. 115]
+[p. 115] ^pg130
 
 KĀRIKĀS 12–13
 115
@@ -2912,7 +2916,7 @@ a picture (for example). Here, this difference is exploited in order to emphasiz
 “reality” of the elephant is elsewhere, and does not derive from the mirror, which is not true
 of “objects” created by Śiva. The metaphor can, in other words, only be carried so far.
 
-[p. 116]
+[p. 116] ^pg131
 
 [the universe] is not different [from that consciousness]. 477 The Lord’s
 creativity (nirmātr̥tva) is nothing but that manifestation (ābhāsana) of the
@@ -2964,7 +2968,7 @@ its various forms, which designates a form of error at the cosmological level. F
 avidyā is the product of māyā, creative power par excellence, to which all men are sub-
 ject at every moment. Our authors, it seems, utilize these terms in full cognizance of their
 
-[p. 117]
+[p. 117] ^pg132
 
 KĀRIKĀ 14
 117
@@ -3017,7 +3021,7 @@ for clarification of [the pentad of śaktis] Consciousness, Bliss, Will, and Ac
 to be the pentad of tattvas — termed Śiva, Śakti, Sadā[śiva], Īśāna and [śuddha]vidyā. [And]
 although each one of the tattvas is filled with all the śaktis, yet every distinct entity [i.e.,
 
-[p. 118]
+[p. 118] ^pg133
 
 [The verse is to be construed as follows:]
 He, that is, the Supreme Śiva, whose essential nature has just been
@@ -3066,7 +3070,7 @@ the suffixes -tām (at the end of the first compound) and -mayīm (at the end 
 compound) of the first hemistich.
 490Such divisions and distinctions are but provisional modalities that are bound to disappear
 
-[p. 119]
+[p. 119] ^pg134
 
 KĀRIKĀ 14
 119
@@ -3122,7 +3126,7 @@ the key to this puzzle: ‘atirikta: “atiśayite, śreṣṭhe, bhinne, śu
 last meaning, ‘empty’: ‘yasya yāvatpramāṇaṃ yuktaṃ tato ’dhikatve: “hīnāṅgīm atiriktāṅgīm”
 iti smr̥tiḥ’, namely, ‘she who is “missing a limb” has gone beyond the norm established as
 
-[p. 120]
+[p. 120] ^pg135
 
 times in emaciated form, the two serving as metaphors of world creation
 and world dissolution.
@@ -3175,7 +3179,7 @@ correlated with Śakti; see ŚD I 29b–31, TĀ VI 43–44, and the rather en
 the ĪPK III 1, 2, thus explained by the Vimarśinī: āntarī jñānarūpā yā daśā tasyā udrekābhāsane
 sādākhyam [...] bahirbhāvasya kriyāśaktimayasya [...] udrekābhāse sati [...] īśvaratattvam,
 
-[p. 121]
+[p. 121] ^pg136
 
 KĀRIKĀ 14
 121
@@ -3232,7 +3236,7 @@ accords with that interpretation: īśvaratattve sphuṭedantāhantāsāma�
 vaṃ grāhyaṃ, tādr̥k [...], ‘The universe, in the īśvaratattva, grasped as that kind [of entity] in
 which the co-referentiality of the “I” and the “that” has become manifest, is such […]’. Note
 
-[p. 122]
+[p. 122] ^pg137
 
 seity and ecceity (idantā) are held in perfect equilibrium, according to the
 “rule of the balance” 502 [— which does not allow ‘this’, viz., the ‘other’,
@@ -3285,7 +3289,7 @@ the term be understood in the etymological sense of ‘extension’, ‘projecti
 mentators are wont to do (see YR ad 10–11, n. 433 and 434). They are states of consciousness
 in which the multiplicity of the world is at first submerged, then gradually revealed, though
 
-[p. 123]
+[p. 123] ^pg138
 
 KĀRIKĀ 14
 123
@@ -3340,7 +3344,7 @@ triangle’ (Singh PTV [Skt. text: 64; transl.: 176]; Gnoli PTV: 249); compare Y
 that of PTV 5–9 (PTV [Skt. text: 40; transl.: 101]) and TĀV IX 91a: māyordhve śuddhavidyā-
 dhaḥ santi vijñānakevalāḥ, ‘Above māyā and below śuddhavidyā are the Vijñānakevalas’ (see
 
-[p. 124]
+[p. 124] ^pg139
 
 Hence [it is only in that limited sense that] the Mantras residing there
 are said to be finite souls, for they are penetrated by mahāmāyā. 510
@@ -3396,7 +3400,7 @@ the Vijñānakevalas”. Therefore, if mahāmāyā is not [accepted as a ca
 abode of the Pralayakevalas is in the domain of māyā, and that of the Vidyeśvaras, etc., is in
 the domain of [śuddha]vidyā, in which domain would abide the Vijñānakevalas?’ By allud-
 
-[p. 125]
+[p. 125] ^pg140
 
 KĀRIKĀ 14
 125
@@ -3453,7 +3457,7 @@ pervades (vyāpaka) cannot be located in the same series as those pervaded (vya
 Torella ĪPK: 189–190, n. 2.
 514aham idam.
 
-[p. 126]
+[p. 126] ^pg141
 
 is this thought that, composed of pure knowing, is the instrument [of
 creation]. 515 The effect [thus produced] 516 is the ensemble of [concrete]
@@ -3502,7 +3506,7 @@ complishing [as the dichotomy of subjects and objects] is difficult’; 5) as a 
 TP (see 2) — ‘which accomplishes what is difficult to construe’. The translation follows YR’s
 interpretation.
 
-[p. 127]
+[p. 127] ^pg142
 
 KĀRIKĀ 15
 127
@@ -3559,7 +3563,7 @@ to him, who is himself playful, according to one etymology of the name deva. See
 svānandaghanatayocchalanaṃ krīḍā, ‘[Il est dieu, deva, parce qu’Il joue] sans se soucier de ce
 qui est à rechercher et à rejeter. [Son] jeu est jaillissement en tant que masse indivise de sa
 
-[p. 128]
+[p. 128] ^pg143
 
 appropriate to state, as do the Brahmavādins, 526 that there is a māyā who
 is distinct.
@@ -3613,7 +3617,7 @@ to justify reasonably, or that the result is difficult to effect within the unit
 durghaṭasaṃpādanam is a leitmotif in Trika literature, as shown by parallel passages in which
 appear such terms as durghaṭakārin (TĀV V 123), atidurghaṭakārin (TĀ I 92, TĀV IV 173a,
 
-[p. 129]
+[p. 129] ^pg144
 
 KĀRIKĀ 16
 129
@@ -3661,7 +3665,7 @@ ture is overcome’. See also ĪPvr̥ II 2, 5: tanmalatrayanirmāṇe prabhor 
 status is different from that of the triad of Will, Knowledge and Action, since māyāśakti is
 connected with differentiation.
 
-[p. 130]
+[p. 130] ^pg145
 
 individuation (puṃstattva) 530 as such, 531 which is manifested in the form
 of the enjoyer of experiences:
@@ -3710,7 +3714,7 @@ they are shining [within one’s self]’.
 535pūrṇasvarūpa — lit., ‘perfect’, ‘full’.
 536For a similar definition of paśu, see YR ad 5.
 
-[p. 131]
+[p. 131] ^pg146
 
 KĀRIKĀ 17
 131
@@ -3760,7 +3764,7 @@ different order [of the kañcukas] as happens in śāstras as the Raurava’.
 543antaraṅga — see n. 549.
 544The two kārikās 17 and 18 are to be read as a syntactic unit.
 
-[p. 132]
+[p. 132] ^pg147
 
 Action, when restricted, are said to become respectively the [limited]
 Knowledge (vidyā) and [limited] Agency (kalā) of the bound soul. 545
@@ -3813,7 +3817,7 @@ versal experience characteristic of the śuddhādhvan. And this delimitation c
 out replacing the free vision (svatantradr̥ś) characteristic of completeness with the clouded vi-
 sion brought about by māyā, the power of differentiation; cf. TĀ IX 49b–52a (quoted n. 485)
 
-[p. 133]
+[p. 133] ^pg148
 
 KĀRIKĀ 17
 133
@@ -3866,7 +3870,7 @@ goes for ‘knowing’. Only the Lord is ‘sarvakartr̥’, that is, can do or 
 — the universe that we experience only in limited ways.
 556Lit., ‘this alone’ (idam eva).
 
-[p. 134]
+[p. 134] ^pg149
 
 follow from a determinate cause — such as smoke from fire, or enjoyment
 of heaven, etc., from performance of sacrifices like the horse sacrifice, etc.;
@@ -3919,7 +3923,7 @@ regular correspondence between the Lord’s śaktis — omnipotence, omniscienc
 eternity, and inclusivity [lit., ‘pervasion’] — and the five kañcukas is laid down in PHvr̥ 9,
 pp. 72–73: tathā sarvakartr̥tvasarvajñatvapūrṇatvanityatvavyāpakatvaśaktayaḥ saṃkocaṃ gr̥h-
 
-[p. 135]
+[p. 135] ^pg150
 
 KĀRIKĀ 17
 135
@@ -3976,7 +3980,7 @@ Marceline ...’]. The same distinction is made in Sanskrit aesthetics between t
 feeling that is the rasa, śr̥ṅgāra for example, and the empirical affect (sthāyibhāva) that is
 its corresponding kāma; the former experienced by the audience at large, as a disembodied
 
-[p. 136]
+[p. 136] ^pg151
 
 Moreover, I know means that I know something that is before my eyes,
 such as this jar, etc., but not that distant object screened from view: 565
@@ -4022,7 +4026,7 @@ finitude.
 570vāstavena vr̥ttena.
 571prakṣipyamāṇa — lit., ‘thrown away’.
 
-[p. 137]
+[p. 137] ^pg152
 
 KĀRIKĀ 18
 137
@@ -4071,7 +4075,7 @@ And, apart from such knowledge of the Self [won through this arduous
 579viśeṣena = vi in the ‘viśuddhi’ of the kārikā.
 580aham eva maheśvaraḥ.
 
-[p. 138]
+[p. 138] ^pg153
 
 method], no mere act grounded on worldly causalities 581 and belonging
 to the realm of māyā would have the slightest chance of succeeding. 582
@@ -4120,7 +4124,7 @@ the process of creation takes place. However, the Trika develops its own notions
 sequence of tattvas that starts from prakr̥ti, postulating, notably, an additional principle, the
 guṇatattva; see Appendix 11, p. 334.
 
-[p. 139]
+[p. 139] ^pg154
 
 KĀRIKĀ 19
 139
@@ -4176,7 +4180,7 @@ Cf. SK 27, where manas is defined as saṃkalpaka.
 in Īśvarakr̥ṣṇa’s Sāṃkhya; there, the function of manas is clearly that of collecting the senses’
 data — scattered as such under the five domains of the individual organs — so that unique
 
-[p. 140]
+[p. 140] ^pg155
 
 By conceit of self [or self-referentiality] (abhimāna) the master
 means ‘possessive behavior’ (mamatā). 594

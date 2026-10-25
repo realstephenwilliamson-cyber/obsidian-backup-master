@@ -19,8 +19,7 @@ language:
   - Sanskrit
 pages: 479
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Bhaskararaya - Lalita-Sahasranaman with Bhaskararaya's Commentary (1951).pdf]]"
 aliases:

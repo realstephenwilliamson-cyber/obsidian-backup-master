@@ -17,8 +17,7 @@ language:
   - English
 pages: 161
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[sen-san-sivajnana-botham-metaphysics-of-saiva-siddhanta.pdf]]"
 aliases:

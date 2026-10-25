@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 89
 verses: 52
-page_range:
-  - 714
-  - 717
+page_range: "714–717"
 aliases:
   - "BCP Psalm 89"
   - "BCP 714"
@@ -36,7 +34,7 @@ you have set your faithfulness firmly in the heavens. ^89-2
 **89:3** "I have made a covenant with my chosen one; \*  
 I have sworn an oath to David my servant: ^89-3
 
-[p. 714]
+[p. 714] ^pg714
 
 **89:4** 'I will establish your line for ever, \*  
 and preserve your throne for all generations.'" ^89-4
@@ -80,7 +78,7 @@ they are jubilant in your righteousness. ^89-16
 **89:17** For you are the glory of their strength, \*  
 and by your favor our might is exalted. ^89-17
 
-[p. 715]
+[p. 715] ^pg715
 
 **89:18** Truly, the LORD is our ruler; \*  
 The Holy One of Israel is our King. ^89-18
@@ -121,7 +119,7 @@ and my covenant will stand firm for him. ^89-28
 **89:29** I will establish his line for ever \*  
 and his throne as the days of heaven." ^89-29
 
-[p. 716]
+[p. 716] ^pg716
 
 **89:30** "If his children forsake my law \*  
 and do not walk according to my judgments; ^89-30
@@ -165,7 +163,7 @@ and made all his enemies rejoice. ^89-42
 **89:43** You have turned back the edge of his sword \*  
 and have not sustained him in battle. ^89-43
 
-[p. 717]
+[p. 717] ^pg717
 
 **89:44** You have put an end to his splendor \*  
 and cast his throne to the ground. ^89-44

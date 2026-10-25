@@ -37,7 +37,7 @@ Surely (one may ask,) agreed that there is (good) reason (to consider) the gross
 विदुश्वतुष्टये चात्र सावकाशे तदास्थितिम् । १९१ ॥।
 
 sarvapratītisadbhāvagocarari bhūtam eva hi |
-viduś catuṣṭaye cātra sāvakāśe tadāsthitim |l 191 ॥ 
+viduś catuṣṭaye cātra sāvakāśe tadāsthitim ॥ 191 ॥ 
 
 (The gross Elements are called ‘bhūta’, meaning literally ‘existent’, because) an ‘existent ’[^1083] is that whose true nature is perceived by everybody, and they know that to be the case here with four (of the five gross elements), along with space (āvakāśa) (as the fifth). (191) 
 
@@ -286,12 +286,12 @@ The Goddess, the Lord’s Powers and Attributes as Means to Realization
 काष्टा सैव परा सुक्ष्मा सर्वदिककामृतात्मिका ॥ २०३ ॥
 ्र्वस्तावरणा णान्ता वस्तुमात्रातिलालसा |
 आद्यन्तोपरता साध्वी ूर्तित्वेनोपचर्यते || २०४ ॥
-tad uktarn śrīmataṁgādau svaśaktikiraṇātmakam |
+tad uktaṁ śrīmataṁgādau svaśaktikiraṇātmakam |
 atha patyur adhiṣthānam ityādy ukta viíśeṣanaih ॥ 202 ॥
 tasyāṁ divi sudīptātmā niṣkampo ‘calamūrtimān |
 kāṣthā saiva parā sūkṣmā sarvadikkāmṛtātmikā ॥ 203 ॥
 pradhvastāvaraṇā śāntā vastumātrātilālasā |
-ādyantoparatā sādhvī mūrtitvenopacaryate |l 204 ॥ 
+ādyantoparatā sādhvī mūrtitvenopacaryate ॥ 204 ॥ 
 
 The same is said at the beginning (of a chapter) in the venerable Mataṁgatantra[^1107] by (indicating various) distinguishing qualities of what is stated (concerning the Lord’s sustaining ground) at the beginning (of this passage, namely,) ‘now, the Lord’s sustaining ground (within which He is made manifest) consists of the rays of His own energies.’ (Thus it 
 
@@ -405,7 +405,7 @@ He (now) connects (what he has been saying back) to the main point.
 शक्तीः समाक्षिपेयुस्तदुपासान्तिकदूरतः || २०९ ॥
 
 tena pūrṇasvabhāvatvari prakāśatvaṁ cidātmatā |
-bhairavatvarn viśvaśaktīr ākṣiped vyāpakatvataḥ || 208 I|
+bhairavatvaṁ viśvaśaktīr ākṣiped vyāpakatvataḥ || 208 I|
 sadāśivādayas tūrdhvavyāptyabhāvād adhojuṣaḥ |
 saktīḥ samākṣipeyus tadupāsāntikadūrataḥ ॥ 209 ॥ 
 
@@ -716,11 +716,11 @@ He says that:
 अणुनीम स्फुटो । भेदस्तदुपाय इहाणवः ।
 विकल्पनिश्वयात्मैव पर्यन्ते निर्विकल्पक; ।। २२ १।।
 
-1147\. The reference here is to verse 1/170 (= MV 2/21) above which reads: uccārakaraṇnadhyānavarnṇasthānaprakalpanaiḥ | yo bhavet sa samāveśaḥ samyag āṇava ucyate || ‘The penetration that takes place by the utterance (of the vital breath and Mantra) (uccāra), bodily postures (karana), visualization (dhyāna), the letters (varna) and the formation of places (sthānakalpanā) is appropriately said to pertain to the individual soul (āṇava).” The kinds of practices belonging to the category of the Individual Means are listed in a single compound word that constitutes the first line of this verse. Abhinava is referring to the plural ending of this word (-aih). In other the words, ‘the utterance (of the vital breath and Mantra) (uccāra)’ stands for all of them and so implies ʻete.” also.
+1147\. The reference here is to verse 1/170 (= MV 2/21) above which reads: uccārakaraṇnadhyānavarnṇasthānaprakalpanaiḥ | yo bhavet sa samāveśaḥ samyag āṇava ucyate || ‘The penetration that takes place by the utterance (of the vital breath and Mantra) (uccāra), bodily postures (karana), visualization (dhyāna), the letters (varna) and the formation of places (sthānakalpanā) is appropriately said to pertain to the individual soul (āṇava).” The kinds of practices belonging to the category of the Individual Means are listed in a single compound word that constitutes the first line of this verse. Abhinava is referring to the plural ending of this word (-aiḥ). In other the words, ‘the utterance (of the vital breath and Mantra) (uccāra)’ stands for all of them and so implies ʻete.” also.
 
 1148\. Another way one can exp lain how the empowered state (śaktitā) is one of unity-in-
 
-1149\. diversity is as follows. The Sāmbhava state is oneness with Śiva, and so is clearly based on nonduality. The individual (ānava) state of individualized consciousness is clearly based on duality, that is, the distinction between subject and object as well as between individual objects and perceivers. In the former the power of the will as the intention to perceive or act latent in pure nondiscursive consciousness at the initial moment of perception dominates. In the latter, the power of action. The empowered state is between the two. The practice to which it leads commences with dualistic thought constructs and ends in the nondual consciousness of Siva, free of thought constructs. It operates in the flux of the power of knowledge which flows from the oneness of the perceiver and agent to the multiplicity of the perceived object and phenomena which are the product of its activity (kārya).
+1149\. diversity is as follows. The Sāmbhava state is oneness with Śiva, and so is clearly based on nonduality. The individual (āṇava) state of individualized consciousness is clearly based on duality, that is, the distinction between subject and object as well as between individual objects and perceivers. In the former the power of the will as the intention to perceive or act latent in pure nondiscursive consciousness at the initial moment of perception dominates. In the latter, the power of action. The empowered state is between the two. The practice to which it leads commences with dualistic thought constructs and ends in the nondual consciousness of Siva, free of thought constructs. It operates in the flux of the power of knowledge which flows from the oneness of the perceiver and agent to the multiplicity of the perceived object and phenomena which are the product of its activity (kārya).
 
 
 *[p. 399]* ^pg413
@@ -791,7 +791,7 @@ The same (view) is also well expressed in dualist scriptures such as the Mataṁ
 
 1154\. One could also translate svaprakāśa ‘illumines himself’.
 
-1155\. PS 5d. The complete verse reads: tatrāntar viśvam idarn vicitratanu — karana —bhuvanasaṁtānam | bhoktā ca tatra dehī śiva eva gṁītapaśubhāvaḥ || ‘There within (the four Eggs) is this universe, that is, the series of worlds (inhabited by beings with) various (astonishing) bodies and (their) sense organs of sense. The experiencing subject there is an embodied being who is Śiva Himself who has assumed the state of the fettered soul.’ This quarter is quoted again below in TĀv ad 1/331 (330) and ad 9/144cd-145ab. Cf TĀv ad 6/4lcd-42ab sivasyaiva svasvātantryād gṁītapaśubhāvasyetyarthaḥ Śiva Himself has assumed the state of the fettered soul by virtue of His freedom (to do so).”
+1155\. PS 5d. The complete verse reads: tatrāntar viśvam idaṁ vicitratanu — karana —bhuvanasaṁtānam | bhoktā ca tatra dehī śiva eva gṁītapaśubhāvaḥ || ‘There within (the four Eggs) is this universe, that is, the series of worlds (inhabited by beings with) various (astonishing) bodies and (their) sense organs of sense. The experiencing subject there is an embodied being who is Śiva Himself who has assumed the state of the fettered soul.’ This quarter is quoted again below in TĀv ad 1/331 (330) and ad 9/144cd-145ab. Cf TĀv ad 6/4lcd-42ab sivasyaiva svasvātantryād gṁītapaśubhāvasyetyarthaḥ Śiva Himself has assumed the state of the fettered soul by virtue of His freedom (to do so).”
 
 1156\. These lines are effectively a commentary on MPĀ vidyāpāda 3/21cd-22ab, which is quoted by Jayaratha.
 
@@ -907,7 +907,7 @@ There (in that context), the Individual (Means) is said to be predominantly base
 अभेदोपायमतरोक्तं शाम्भवं शाक्तमुच्यते | २२९ ॥
 भेदाभेदात्मकोपायं भेदोपायं तदाणवम् |
 abhedopāyam वा णवी काकवत śāktam ucyate || 229 I|
-bhedābhedātmakopāyarnṁ bhedopāyaṁ tadāṇavam | 
+bhedābhedātmakopāyaṁ bhedopāyaṁ tadāṇavam | 
 
 1163\. Pratyabhijñā terminology is absent, and so does not preclude the possibility that this verse may be drawn from a scriptural source. Judging by the content, it appears that it was a Trika Tantra — perhaps the Trisirobhairava?
 

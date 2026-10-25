@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-chapter
 title: Devī Māhātmya 11
+work: "Devī Māhātmya"
 chapter: 11
 charitra: Uttara Charitra (Final Episode)
 markandeya_purana_chapter: 88
@@ -19,7 +20,7 @@ Chapter 11 of the Devī Māhātmya (*Durgā Saptaśatī*), corresponding to chap
 
 ## Sanskrit text
 
-*(not yet entered — add the Devanāgarī/IAST verses here when available)*
+Not entered here: the Sanskrit (IAST) with an English translation is in [[Devi Mahatmya - Durga Saptashati 12 - Chapter 11 Hymn to Narayani|the DeviMahatmya.com edition, chapter 11]].
 
 ## Notes
 

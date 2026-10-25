@@ -17,8 +17,7 @@ language:
   - English
 pages: 155
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Dorman - A Study of the Letters of the Sanskrit Alphabet (2009).pdf]]"
 aliases:

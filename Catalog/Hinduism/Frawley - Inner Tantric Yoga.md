@@ -17,8 +17,7 @@ language:
   - English
 pages: 280
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Frawley - Inner Tantric Yoga (2008).pdf]]"
 aliases:

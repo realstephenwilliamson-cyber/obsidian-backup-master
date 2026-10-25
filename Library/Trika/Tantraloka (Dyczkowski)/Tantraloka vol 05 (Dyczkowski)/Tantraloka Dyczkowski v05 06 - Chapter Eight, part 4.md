@@ -237,10 +237,10 @@ it heats.
 मेघीभूतो मानानां सर्वेषामुपरि धरुवः ।
 
 svarlokas tu bhuvarlokād dhruvāntaṁ paribhāṣyate |
-sūryāl lakṣeṇa \$Sītāmśuḥ kriyāśaktiḥ śivasya sā ॥ 144 II candrāl lakṣeṇa nākṣatrari tato lakṣadvayena tu |
+sūryāl lakṣeṇa \$Sītāmśuḥ kriyāśaktiḥ śivasya sā ॥ 144 ॥ candrāl lakṣeṇa nākṣatrari tato lakṣadvayena tu |
 pratyeka bhaumataḥ sūryasutānte pañcakaṁi viduḥ | 145 ॥
 saurāl lakṣeṇa saptarṣivargas tasmād dhruvas tathā |
-brahmaivāpararūpena brahmasthāne dhruvo ‘calaḥ ॥ 146 II meghībhūto mānānām sarveṣām upari dhruvaḥ | 
+brahmaivāpararūpena brahmasthāne dhruvo ‘calaḥ ॥ 146 ॥ meghībhūto mānānām sarveṣām upari dhruvaḥ | 
 
 Now we will talk about Svarloka (the celestial world), which extends from Bhuvar (the atmospheric world), up to Dhruva (the pole star). 1) The Moon is at a distance of one hundred thousand leagues beyond the Sun, and is Śiva’s power of action. 2) The (circle of) the constellations (nakṣatram) is one hundred thousand (leagues) from the Moon. 3-7) (The wise) know that the five planets from Mars to Saturn are each two hundred thousand (leagues from one another). 8) (Then) the constellation of the Seven Rṣis (that is, the Great Bear) is a hundred thousand (leagues) from 
 
@@ -336,7 +336,7 @@ Seven are the principal realms of the winds in Svar (the heavenly region), begin
 
 those in the realm of the clouds’ means that amongst (realms of the winds) the clouds are the first. That is said (in the Svacchandatantra): 
 
-‘Beginning with the clouds, the Sun, the Moon, the constellations, the sphere of the planets, the Seven Rsis, , ending with the location of the Pole Star, which is the seventh.” \* 
+‘Beginning with the clouds, the Sun, the Moon, the constellations, the sphere of the planets, the Seven Ṛṣis, , ending with the location of the Pole Star, which is the seventh.” \* 
 
 Again: 
 
@@ -351,7 +351,7 @@ Whose is the dwelling here? He says:
 इतश्च क्रतुहोत्रादि कृत्वा ज्ञानविव्जिताः ॥ १४८ ॥
 स्वयीन्ति ततकषये लोकं मानुष्यं पुण्यशेषत ; ।
 
-itaś ca kratuhotrādi kṛtvā jñānavivarjitāḥ ॥ 148 II svar yānti tatkṣaye loka mānuṣyaṁ punyaśeṣataḥ | 
+itaś ca kratuhotrādi kṛtvā jñānavivarjitāḥ ॥ 148 ॥ svar yānti tatkṣaye loka mānuṣyaṁ punyaśeṣataḥ | 
 
 From here, those who are devoid of knowledge but have performed sacrifices and offered oblations to fire and the like go to Svar (the heavenly region). When (the fruits of their actions) are exhausted, (they are reborn) in the world of men by virtue of what remains of their merit. (148cd-149ab) (148) 
 
@@ -402,7 +402,7 @@ mahāntarāle tatrānye tv adhikārabhujo janāḥ ॥ 151 ॥
 aṣtṭau koṭyo mahallokāj jano ‘tra kapilādayaḥ |
 tiṣthanti sādhyās tatraiva bahavaḥ sukhabhāginaḥ ॥ 152 ॥
 janāt tapo ‘rkakoṭyo ‘tra sanakādyā mahādhiyaḥ |
-prajāpatīnār tatrādhikāro brahmātmajanmanām || 153 II brahmālayas tu tapasaḥ satyaḥ ṣodaśa koṭayaḥ |
+prajāpatīnār tatrādhikāro brahmātmajanmanām || 153 || brahmālayas tu tapasaḥ satyaḥ ṣodaśa koṭayaḥ |
 tatra sthitaḥ sa svayambhūr vigvam āviṣkaroty adaḥ ॥ 154 ॥
 satye vedās tathā cānye karmadhyānena bhāvitāḥ |
 ānandaniṣthās tatrordhve koṭir vairiñcam āsanam || 155 ॥
@@ -543,7 +543,7 @@ Rudra’s World
 ते यान्त्यण्डान्तरे रौद्रं पुरं नाधः कदाचन ॥ १५८ ॥
 
 dīkṣājṁñānavihīnā ye liṁgārādhanatatparāḥ |
-te yānty andāntare raudrań purar nādhaḥ kadācana ॥ 158 I| 
+te yānty andāntare raudrań purar nādhaḥ kadācana ॥ 158 ॥ 
 
 Those who are devoid of knowledge and have not been initiated, (but are) devoted to the worship of the Liṅga,” go to Rudra’s abode within the Egg of Brahmā, and never go to (worlds) below 1.5 (158) (157cd- 158ab) 
 
@@ -627,7 +627,7 @@ Elements Gross and Subtle From Which the Egg is Fashioned
 स्थूटर्विशेषैरारव्धाः सप्त लोकाः परे पुनः ॥ order.[^571] ॥
 सृ्मैरिति गुरुश्चैव ररौ सम्यड्ज्यरूपयत् ।
 
-sthūlair viśeṣair ārabdhāḥ sapta lokāḥ pare punaḥ ॥ 162 II sūkṣmair iti guruś caiva rurau samyaṁ nyarūpayat | 
+sthūlair viśeṣair ārabdhāḥ sapta lokāḥ pare punaḥ ॥ 162 ॥ sūkṣmair iti guruś caiva rurau samyaṁ nyarūpayat | 
 
 The teacher has rightly explained in (his commentary on) the Ruru[^572] that the first seven worlds are made first of all by the specific, gross elements, while the other (subsequent ones are formed) by the subtle ones (which are the corresponding sensations). (162cd-163ab) (162) 
 
@@ -690,7 +690,7 @@ Measurements of the Egg of Brahmā
 
 kālāgner dandapāṇyantam aṣtānavatikoṭayaḥ ॥ 165 ॥
 ata ūrdhvari kaṭāho ‘nde sa ghanaḥ koṭiyojanam |
-pañcāśatkoṭayaś cordhvarn bhūpṛṣthād adhara tathā ॥ 166 ॥ 
+pañcāśatkoṭayaś cordhvaṁ bhūpṛṣthād adhara tathā ॥ 166 ॥ 
 
 There are ninety-eight hundred million (leagues) from Kālāgni to Daṇdapānṇi. Thus, the upper (like the lower) shell of the Egg (of Brahmā) is ten million leagues thick. There are five hundred million leagues from the surface of the earth (up to the upper limit). The same is the case with the 
 
@@ -889,7 +889,7 @@ syād iti tadvyaktau samukhībhāva ucyate |
 tathāpi 
 
 śivamagnānām śaktīnām andatā bhavet || 172 ||
-tadartharn vākyam aparaṁ tā hi na cyutaśaktitaḥ |
+tadarthaṁ vākyam aparaṁ tā hi na cyutaśaktitaḥ |
 tanvakṣādau mā prasāṅkṣīd aṇdateti padāntaram || 173 ॥
 tanvakṣādiṣu naivāste kasyāpy āvāpanaṁ yataḥ |
 tanvakṣasamudāyatve katham ekatvam ity ataḥ | 174 ॥
@@ -1173,7 +1173,7 @@ According to the Siddhātantra, beyond the golden Egg, which measures a thousand
 
 627?\. This is the Egg of Brahmā, which is indeed golden and that size.
 
-628?\. MV 2/50ab. Read with the printed KSTS edition of the MV, ekam ekar pṛthak pṛthak for ekaikarn ca pṛthag dvayam. The previous verse enumerates the four Eggs, to which this line refers. Thus ‘the first (two’ are the Eggs of Earth and Nature, of which there are countless Eggs. The other two, viz. the Eggs of Māyā and Śakti, are only one.
+628?\. MV 2/50ab. Read with the printed KSTS edition of the MV, ekam ekar pṛthak pṛthak for ekaikaṁ ca pṛthag dvayam. The previous verse enumerates the four Eggs, to which this line refers. Thus ‘the first (two’ are the Eggs of Earth and Nature, of which there are countless Eggs. The other two, viz. the Eggs of Māyā and Śakti, are only one.
 
 
 *[p. 208]* ^pg226
@@ -1210,7 +1210,7 @@ The size of the other metaphysical principles also increases progressively in th
 
 dharāto ‘tra jalādi syād uttarottarataḥ kramāt | 186 ॥
 daśadhāhaṁkṛtāntaṁ dhīs tasyāḥ syāc chatadhā tataḥ |
-sahasradhā vyaktam ataḥ pauṁsnarn daśasahasradhā || 187 ॥
+sahasradhā vyaktam ataḥ pauṁsnaṁ daśasahasradhā || 187 ॥
 niyatir lakṣadhā tasmāt tasyās tu daśalakṣadhā | 
 
 629?\. Read with MSs Ch and Ñ śatamar for śatatamar.

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 48
 verses: 13
-page_range:
-  - 651
-  - 652
+page_range: "651–652"
 aliases:
   - "BCP Psalm 48"
   - "BCP 651"
@@ -61,7 +59,7 @@ because of your judgments. ^48-10
 walk round about her; \*  
 count the number of her towers. ^48-11
 
-[p. 652]
+[p. 652] ^pg652
 
 **48:12** Consider well her bulwarks;  
 examine her strongholds; \*  

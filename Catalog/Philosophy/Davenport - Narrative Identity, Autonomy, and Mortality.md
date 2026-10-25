@@ -18,7 +18,7 @@ language:
 pages: 249
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Davenport - Narrative Identity, Autonomy, and Mortality (2012).pdf]]"
   - "[[Library/Philosophy/Narrative Identity, Autonomy, and Mortality (Davenport)/Narrative Identity, Autonomy, and Mortality (Davenport)]]"

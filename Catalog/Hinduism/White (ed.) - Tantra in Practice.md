@@ -17,8 +17,7 @@ language:
   - English
 pages: 643
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[David Gordon White - Tantra in Practice (2000).pdf]]"
   - "[[Library/Hinduism/Tantra in Practice (White)/Tantra in Practice (White)]]"

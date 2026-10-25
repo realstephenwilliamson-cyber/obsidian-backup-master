@@ -117,7 +117,7 @@ madhye gurur bhavet teṣāmń guruvargas tadāvṛtiḥ ॥ 82 ॥
 tisra āvṛtayo bāhye samayy antā yathākramam |
 paṁktikramenṇa vā sarve madhye teṣāṁ guruḥ sadā ॥ 83 ॥
 tadā tadgandhadhūpasraksamālambhanavāsasā |
-pūjyaṁ cakrānusārenṇa tat tac cakram idaṁ tv iti ॥ 84 II 
+pūjyaṁ cakrānusārenṇa tat tac cakram idaṁ tv iti ॥ 84 ॥ 
 
 The teacher should (sit) in the middle of those (participants). (The first) circle that (surrounds) him is that of the (other) teachers (guruvarga). There are three circles outside (that one, in which the initiates of progressively lower status sit) in due order, (up to) the regular initiates (samayin) at the end. Or else (they may) all (sit) serially in rows (paṅktikrama).' The teacher should always be in the middle. Then, that (the assembly) should be worshipped with perfumes, incense, garlands, ointments (samālambhana) and cloth, in accord with the (sequence of) circles, (reflecting) that each circle is the particular one that it is. (82cd-84) 
 
@@ -176,9 +176,9 @@ He (now) establishes that (with reasoned argument).
 pretarūpaṁ bhavet pātraṁ śāktāmṛtam athāsavaḥ || 88 ||
 bhoktrī tatra tu sā śaktiḥ sa śambhuḥ parameśvaraḥ |
 anuśaktiśivātmettha dhyātvā sarimilitaṁ trayam ॥ 89 ॥
-tatas tu tarpanaṁ kāryam āvṛter āvṛteḥ kramāt |
+tatas tu tarpaṇaṁ kāryam āvṛter āvṛteḥ kramāt |
 pratisañcarayogena punar antaḥ praveśayet || 90 ॥
-yāvad gurvantikarn tad dhi pūrnaṁ bhramaṇam ucyate | 
+yāvad gurvantikaṁ tad dhi pūrṇaṁ bhramaṇam ucyate | 
 
 The sacrificial vessel (is Sadāśiva,) the (Great) Ghost (preta). The liquor (contained in it) is the nectar of (Śiva’s) power. There it is the Śakti' who enjoys it, and he, Śambhu, is the Supreme Lord (Himself) (parameśvara).”" Having meditated on the three, Man, Power, and Śiva, united together (milita) in this way, (the officiant) should then offer libation to each circle (of the assembly, one after the other) in due order. Then he should enter again into (the midst of the assembly) by moving round in the reverse order, until (he reaches) the teacher who is (in the centre) at the end. That is said to be a complete round. (88cd-91lab) 
 
@@ -204,7 +204,7 @@ Now he talks about the sequence in which libation (tarpana) (is offered).
 tatrādau devatās tarpyās tato vīrā iti kramaḥ || 91 ॥
 vīraś ca vīraśaktiś cety evam asmadgurukramaḥ |
 tato ‘vadaṁśān vividhān māmsamatsyādisaṁyutān || 92 ॥
-agre tatra pravikiret tṛptyantarn sādhakottamaḥ |
+agre tatra pravikiret tṛptyantaṁ sādhakottamaḥ |
 pātrābhāve punar bhadrari vellitāśuktim eva ca ॥ 93 ॥
 pātre kurvīta matimān iti siddhāmate kramaḥ | 
 
@@ -318,7 +318,7 @@ is easily accomplished."
 ूर्तियागेन सोऽपि स्यात् समयी | मण्डलं विना ।
 इत्येष मर्तियागः श्रीसिद्धयोगीश्वरीमते ॥ १११ ॥
 
-jānanti prathamarn gehaṁ tatas tasya samarthatām |
+jānanti prathamaṁ gehaṁ tatas tasya samarthatām |
 balābalar tataḥ paścād vismayante ‘tra mātaraḥ ॥ 102 ॥
 tato ‘pi sarninidhīyante prīyante varadās tataḥ |
 devīnām atha nāthasya parivārayujo ‘py alam ॥ 103 ॥
@@ -330,7 +330,7 @@ kāmyārthe tu na tā vyaṁgāri stanapuṣpavatīri tathā |
 pratipac chrutisajñe ca caturthī cottarātraye || 106 ॥
 haste ca pañcamī ṣaṣthī pūrvāsv atha punar vasau |
 saptamī tatparā pitrye rohinyāṁ navamī tathā ॥ 107 ॥
-māūle tu dvādaśī brahme bhūtāśvinyārnṁ ca pūrṇimā |
+māūle tu dvādaśī brahme bhūtāśvinyāṁ ca pūrṇimā |
 dhaniṣthāyām amāvasyā so ‘yam ekādaśātmakaḥ ॥ 108 ॥
 arkāditrayaśukrānyatamayukto ‘py aharganṇaḥ |
 yogaparveti vikhyāto rātrau vā dina eva vā || 109 ॥
@@ -363,7 +363,7 @@ tato ‘ṁguṣtam avaṣtabhya \[k: tato gusta-\] vidyām āvartayed giriḥ |
 sahasraṁ yāvad evāsau \[kh: -so\] bhavadāveśam āpnuyāt ॥ 48 ॥
 āviṣtāyā (> 
 
--yāh) pradātavyari surāmadyāsavaṁ bahuḥ \[k: cahuḥ\] |
+-yāḥ) pradātavyari surāmadyāsavaṁ bahuḥ \[k: cahuḥ\] |
 paścād yam āṁgam ātmīya \[k: vyamāṁga-\] bhitvārghari saṁpradāpayet ॥ 49 ॥
 datte ‘rghe \[k: tatte'rghe\] hastamātrena bhūmiṁ tyaktvā tu tiṣthati \[k: tiṣvati\] |
 tataḥ pṛcchen \[k, kh: sṛchet\] manorūdhāṁ kālatrayam atamnidritaḥ ॥ 50 ॥
@@ -422,7 +422,7 @@ brahmahatyāsahasrāṇi prāyaścittaśatāni ca ॥ 205 I|
 sakṛt sahpūjanari kṛtvā koṭipūjāruho bhavet |
 smaśāne kalpavṛkṣe ca yoginyaḥ kṣetram eva ca ॥ 206 ॥
 Smasdne cābhicārārthari kalpavṛkṣe tu siddhidam |
-yoginyaḥ kṣetramelāpe sarvasiddhi \[kh: sarvarisiddhi\] kulāgame I| 207 ॥ 
+yoginyaḥ kṣetramelāpe sarvasiddhi \[kh: sarvarisiddhi\] kulāgame ॥ 207 ॥ 
 
 “And he should feed Kumārī here, along with yogis (of all ranks) up to (those) who are the equals of Viras. Having worshipped (her just) once, (it remedies the sin of) a thousand Brahminicides. (It is equivalent to) hundreds of penances, and he has worshipped (thereby) tens of millions (of divine beings). 
 
@@ -432,10 +432,10 @@ a wish-granting tree it bestows accomplishments. Union with the Yoginis in (thei
 
 Kumārīs are commonly worshipped in groups, especially, and paradoxically, as the Mothers. We find an example in the same ṣatka of the Jayadrathayāmala: 
 
-ataś caivābhiṣekar \[k: -bhicyekarn\] tu śṛnu vīrendravandite |
+ataś caivābhiṣekar \[k: -bhicyekaṁ\] tu śṛnu vīrendravandite |
 kumāryaṣṭau samānīya \[g: -naya\] vastrālaikāra śobhitāḥ ॥ 36 ॥
 329b g) candanāguruliptāṁgāḥ (g: -lipāṁgoh\] puṣpasragdāmabhūṣitāḥ {kh g: śobhitāḥ\] |
-viliptā mānitāścaiva \[k: māsritāścaiva\] tarpitāḥ susamāhitāḥ \[g: susaṁ-\] I| 37 II tasam parigata nydsam hṛdayādiṣu kīrtitam |
+viliptā mānitāścaiva \[k: māsritāścaiva\] tarpitāḥ susamāhitāḥ \[g: susaṁ-\] || 37 || tasam parigata nydsam hṛdayādiṣu kīrtitam |
 svakarair venivaddhais tu kumārīṇām parasparam || 38 ॥
 230b kh) pūjānte pūjayet kumbhān navasaṁikhyāhṛtān \[kh g: hritā\] priye |
 nyasyamaṁtrā hṛtā \[kh g: hṛtīāḥ\] samyageṣa caite yathā vidhiḥ \[kh: vidhi\] I| 39 I|
@@ -449,16 +449,16 @@ tannāmāny atra saṁcintya \[kh: sacintya\] madhyato yāgamadhyamam |
 
 *[p. 56]* ^pg73
 
-112b gh) carukair dīpais tathā \[k, kh, gh: -kaidīpai-; ṁ: sarukairdvīpai = \*\] pānaiḥ \[k, kh, gh: pānai\] paścāt samayam ārabhet ॥ 56 I|
+112b gh) carukair dīpais tathā \[k, kh, gh: -kaidīpai-; ṁ: sarukairdvīpai = \*\] pānaiḥ \[k, kh, gh: pānai\] paścāt samayam ārabhet ॥ 56 ॥
 kumārī candikā jñeyā yoginī kubjikā ca \[ṁ: nva\] sā \[k, kh, gh: ya; ṁ: ye\] |
-desikaṁ bhairavarn vidyāt \[ṁ: viidyāt\] sahajānandananditam \[k, gh: saṁnhajā-; kh: 21 M 25/57 ॥ 
+desikaṁ bhairavaṁ vidyāt \[ṁ: viidyāt\] sahajānandananditam \[k, gh: saṁnhajā-; kh: 21 M 25/57 ॥ 
 
 “Before the Krama, in the assembly of the Rule, at a very sacred time (mahāparvan) and in the presence of the three lineages, offer in sacrifice the vessels of the Rule with six auspicious sacrificial substances that have been enjoined along with the sacrificial pap (caruka), lamps, and drinks. After that, begin the regular rite (samaya). Kumārī should be known to be Canqikā, the Yogini, , and Kubjikā. Know the teacher to be Bhairava, praised with innate bliss.’ (YKh 25/55cd- 57) 
 
 This may also be required during other occasional rites. For example, they are worshipped along with the senior members of the Kula and others during the preliminary rites of the Kaula Śrāddha. The procedure is taught in Śrāddhavidhisūtra in chapter 46 of the Yogakhanda, as follows: 
 
-arghaṁ datvā tu sarveṣāṁ saṁihārena tu bhairava I| 6 Il pādān \[g: pādā\] prakṣālayed bhṛtyā (kumdrinam ca jyeṣthayoḥ |
-ganeśabahuvīrāṇām yoginīsamavasthitām ॥ 7 Il yugmaṁ \[g: yugma\] yugmaṁ tataḥ \[g: tata\] sthāpya \[g: sthāpyaṁ\] samayāyāṁ navātmake |
+arghaṁ datvā tu sarveṣāṁ saṁihārena tu bhairava || 6 || pādān \[g: pādā\] prakṣālayed bhṛtyā (kumdrinam ca jyeṣthayoḥ |
+ganeśabahuvīrāṇām yoginīsamavasthitām ॥ 7 ॥ yugmaṁ \[g: yugma\] yugmaṁ tataḥ \[g: tata\] sthāpya \[g: sthāpyaṁ\] samayāyāṁ navātmake |
 gāyatryā dāpayed arghań puṣpākṣatātilānvitam || 8 ॥
 dāpayed vāme pārśve tu caitanyam \[g: caitanyem\] eva cobhayoḥ |
 āsanari vāgbhavenādau mūrtirūpaṁ vicintayet ॥ 9 || 
@@ -476,7 +476,7 @@ mandala madhyataḥ kṛtvā tato vākyam (g: ; vākṣam\] udīrayet ॥ 12 ॥
 adya tithe \[g: titho\] svayaṁ cātra āyāntu pataro (>>pitaro) mama |
 amisam mūrtim āsthāya bhujadhvaṁ muktibhājāḥ ॥ 13॥
 trptiń kṛtvā vrajadhvaṁ tu sthānam paramaśāśvatam |
-bhanitvā tu idan vakyarn ! kuladīpāni uddharet \[g: muddhare1\] ॥ 14 Il 
+bhanitvā tu idan vakyaṁ ! kuladīpāni uddharet \[g: muddhare1\] ॥ 14 ॥ 
 
 He should offer divine clothes to the Lord of Kula of the ancestor, and to the ancestors of the mother, and worship (them) with flowers and garlands. (He should offer) incense preceded by sandalwood to each one in due order. Then having offered meat and liquor, he should offer here Śakti’s flowers and lamps, and then utter (Mantra) all night (ārātrā) (?). (10-12ab) 
 
@@ -497,7 +497,7 @@ not be deformed, nor have (developed) breasts, or have menstruated. (104cd-106ab
 
 131\) The the first lunar day when (the sun is) in the (constellation) called Śruti (i.e. Śravaṇa), 2) the fourth day in the three Uttarās, 3) the fifth day in Hasta, 4) the sixth day in (the three) Pūrvās,'” and, again, 5) the seventh day in Vasu,\* 6) the one after that in Pitrī,” 7) the ninth in Rohini, 8) the twelfth in Mūla, 9) the fourteenth (bhūtā) in Brāhma (i.e. Tiṣya), 10) the full moon in Aśvinī, 11) and the New Moon (amāvasyā) in Dhaniṣthā, which is the eleventh. The days of the week amongst which any one (may be in) conjunction, are Sunday, the following three (i.e. Monday, Tuesday and Wednesday) and Friday. This is said to be a Yogaparvan (a Sacred Time of Union). During a Sacred Time of Union, whether at night or during the day, one should perform the Worship of the Embodiments in every way. The wise man who honours all these days, called ‘the Sacred Times of Union’ (yogaparvan), with the Worship of the Embodiments, also becomes a regular initiate (samayin)," (even) without the mandala.” Such 
 
-tais tṛptaiḥ sarve \[g: sarva\] tṛpyanti kulaśrāddhe kṛte pitṛm | nirvāṇaṁ (g: nirvanṇeṁ\] tu padaṁ yānti anyathā rājasītanum ॥ 17 ॥ gacchanti te na sandeho ato ‘rtharn śrāddham ācaret | He should offer completely full cups of liquor and flowers ~ Kula lamps, and then cups of liquor, various cooked foods, each different (and offered) many times. They should be offered with devotion and supreme faith. When they are satisfied, all are satisfied. Once the Kula śrāddha has been performed for the ancestors, they go to the plane of liberation (nirvana), ); otherwise (if the rite is not performed for them), they assume a rājasic body. There is no doubt (about . Thus perform (this) śrāddha.’ (15-18ab) The worship of Kumārīs can be an optional (kāmya) rite performed for worldly benefits, for example to promote peace and well-being, or for protection from natural calamities (YKh 9/42-48). The Manthānabhairava and related Kubjikā literature that developed after the KM is a major authority for the Newars in the Kathmandu Valley, who are well known for their extensive worship of Kumārīs. 13 The following is a list of eleven auspicious, sacred times — here called yogaparvans — to perform a Mūrtiyāga. 1% That is, Uttaraphalgunī, Uttarāṣādha, and Uttaraproṣṭhapada. 135 That is, Pārvaphalgunī, Pūrvāṣādha and Pūrvaproṣthapada. 1% Dhaniṣthā. 137 That is the eighth day in the month of Magha. 138 This passage prescribes seven performances of the Sacrifice to the Icons. With cach performance, the Mothers respond increasingly, and become progressively more satisfied, until they finally bestow the boons the worshipper desires. The two passages that follow (104cd-106ab and 106cd-11 lab) are also probably drawn from the SYM. Jayaratha quotes a passage, which is probably from there, of which 10664-1109 is a paraphrase. None of these passages are found in the short edited recension of the SYM. (See Törzsök 1999: 230). In the closing lines (110cd-111ab), Abhinava states that by the performance of the Mūrtiyāga at the right time, it is possible to receive the basic samaya initiation. That is not stated in the passage Jayaratha cites from the SYM. We have observed on several times that Abhinava is keen to promote the possibility of receiving initiation directly by the deity on various occasions. This is another one of them. 139 At the conclusion of the rite by which the neophant is initiated, he is shown the mandala of the deity and worships it. Thus a person who is ‘without a mandala’ is one who has not been formally initiated in this way. One wonders how such a person would have been allowed to be part of an assembly engaged in this rite in which teachers and initiates are worshipped. Perhaps he may have
+tais tṛptaiḥ sarve \[g: sarva\] tṛpyanti kulaśrāddhe kṛte pitṛm | nirvāṇaṁ (g: nirvanṇeṁ\] tu padaṁ yānti anyathā rājasītanum ॥ 17 ॥ gacchanti te na sandeho ato ‘rthaṁ śrāddham ācaret | He should offer completely full cups of liquor and flowers ~ Kula lamps, and then cups of liquor, various cooked foods, each different (and offered) many times. They should be offered with devotion and supreme faith. When they are satisfied, all are satisfied. Once the Kula śrāddha has been performed for the ancestors, they go to the plane of liberation (nirvana), ); otherwise (if the rite is not performed for them), they assume a rājasic body. There is no doubt (about . Thus perform (this) śrāddha.’ (15-18ab) The worship of Kumārīs can be an optional (kāmya) rite performed for worldly benefits, for example to promote peace and well-being, or for protection from natural calamities (YKh 9/42-48). The Manthānabhairava and related Kubjikā literature that developed after the KM is a major authority for the Newars in the Kathmandu Valley, who are well known for their extensive worship of Kumārīs. 13 The following is a list of eleven auspicious, sacred times — here called yogaparvans — to perform a Mūrtiyāga. 1% That is, Uttaraphalgunī, Uttarāṣādha, and Uttaraproṣṭhapada. 135 That is, Pārvaphalgunī, Pūrvāṣādha and Pūrvaproṣthapada. 1% Dhaniṣthā. 137 That is the eighth day in the month of Magha. 138 This passage prescribes seven performances of the Sacrifice to the Icons. With cach performance, the Mothers respond increasingly, and become progressively more satisfied, until they finally bestow the boons the worshipper desires. The two passages that follow (104cd-106ab and 106cd-11 lab) are also probably drawn from the SYM. Jayaratha quotes a passage, which is probably from there, of which 10664-1109 is a paraphrase. None of these passages are found in the short edited recension of the SYM. (See Törzsök 1999: 230). In the closing lines (110cd-111ab), Abhinava states that by the performance of the Mūrtiyāga at the right time, it is possible to receive the basic samaya initiation. That is not stated in the passage Jayaratha cites from the SYM. We have observed on several times that Abhinava is keen to promote the possibility of receiving initiation directly by the deity on various occasions. This is another one of them. 139 At the conclusion of the rite by which the neophant is initiated, he is shown the mandala of the deity and worships it. Thus a person who is ‘without a mandala’ is one who has not been formally initiated in this way. One wonders how such a person would have been allowed to be part of an assembly engaged in this rite in which teachers and initiates are worshipped. Perhaps he may have
 
 *[p. 58]* ^pg75
 
@@ -584,10 +584,10 @@ He says that (quoting from the Kularatnamālā):"“
 kṣīrābdhimathanodbhūtaviṣanidrāvimūrcchitaḥ |
 nāgarājaḥ svabhuvane meghakāle sma nāvasat ॥ 114 I|
 kevala tu pavitro ‘yam vāyubhakṣaḥ samāḥ śatam |
-divyaṁ daśaguṇaṁ nāthari bhairavarn paryapūjayat ॥ 115 ॥
+divyaṁ daśaguṇaṁ nāthari bhairavaṁ paryapūjayat ॥ 115 ॥
 vyajijñapac ca tar tuṣtaṁ nāthaṁ varṣāsv ahar nije |
 pātāle nāsituṁ śaktaḥ so ‘py enam ! parameśvaraḥ ॥ 116 ॥
-nāgam nijajatājūtapīṭhagaṁ paryakalpayat \\ tataḥ samastadevaughair dhārito ‘sau svamūrdhani Il 117 ॥
+nāgam nijajatājūtapīṭhagaṁ paryakalpayat \\ tataḥ samastadevaughair dhārito ‘sau svamūrdhani ॥ 117 ॥
 mahatām mahitānāṁ hi nādbhutari viśvapūjyatā |
 tasmān maheśitur mūrdhni devatānāṁ ca sarvaśaḥ ॥ 118 ॥
 ātmanaś ca pavitra tan kuryād yāgapurahsaram |
@@ -612,7 +612,7 @@ Ten times ten million rites of worship are not equal to (one) offering of the sa
 
 #### Viveka on 28.114–121
 
-\*When he was not able to live in (his hole in) the ground during the rainy seasons.’ KM 24/144 "8 vyajijñapac ca taṁ tuṣtaṁ nāthaṁ varṣāsv ahar nije | pātāle nāsituṁ íśaktah so ‘py enan parameśvaraḥ |I TĀ 28/116 II cf. tuṣto .ahaṁ tasya devesi kih kartavyarn puroditam \\ tato „asau dandavad bhūmau mama pādāgrataḥ sthitaḥ || prāvṛtkāle na Śaknomi talānte vasituṁ hara | \*0 mistress of the gods, satisfied with him, I asked him first what needs to be done. Then he prostrated full length before my feet (and said): “O Hara! I cannot live in the earth during the rainy season.” KM 24/146-147ab 19 nāgar nijajatājūṭapīīhagaṁ paryakalpayat | E tataḥ samastadevaughair dhārito ‘sau svamūrdhani I| TĀ 28/117 II cf. tataḥ so ‘pi mayā devi karābhyām gṛhya bhütalāt || śirasā dhārito devi jaṭājūṭe varānane \\ tataḥ sarvais tu deveśi Sirasa Sirasa dhāritaḥ śuciḥ |I (So,) O goddess, laying hold (of him) with (my) two hands, (I pulled him out of) the earth, and having done so, O fair lady, I bore (him) on (my) head, O goddess, in (my) matted hair. Thus, the pure one, O mistress of the gods, is (similarly) borne on the head of all (the gods). (KM 24/147cd-148) 1% Read nādbhūtaṁ for nādbhūtā. 19 118-119ab has no equivalent in the KM. This and the previous sentence could well be Abhinava’s own comment. 18 daśa kotyo na pūjānāṁ pavitrārohane samāḥ ॥ 119 ॥ vṛthā dīkṣā vṛthā jndnam gurvārādhanam eva ca | vinā pavitrād yenaitad dharen nāgaḥ śivājñayā ॥ TĀ 28/120 II tasmāt sarvaprayatnena sa kāryaḥ kulavedibhiḥ | cf. dasakoṭis tu pūjāūnāṁ pavitrārohaṇe samā | vṛthā diksd vṛthā jidnam gurvārādhanam eva ca ॥ harate nāgarājas tu vinā devi pavitrakāt | (vṛthā pariśramas tasya yo na kuryāt pavitrakam) || tasmāt sarvaprayatnena kartavyari kulajaiḥ priye |
+\*When he was not able to live in (his hole in) the ground during the rainy seasons.’ KM 24/144 "8 vyajijñapac ca taṁ tuṣtaṁ nāthaṁ varṣāsv ahar nije | pātāle nāsituṁ íśaktah so ‘py enan parameśvaraḥ |I TĀ 28/116 II cf. tuṣto .ahaṁ tasya devesi kiṁ kartavyaṁ puroditam \\ tato „asau dandavad bhūmau mama pādāgrataḥ sthitaḥ || prāvṛtkāle na Śaknomi talānte vasituṁ hara | \*0 mistress of the gods, satisfied with him, I asked him first what needs to be done. Then he prostrated full length before my feet (and said): “O Hara! I cannot live in the earth during the rainy season.” KM 24/146-147ab 19 nāgar nijajatājūṭapīīhagaṁ paryakalpayat | E tataḥ samastadevaughair dhārito ‘sau svamūrdhani I| TĀ 28/117 II cf. tataḥ so ‘pi mayā devi karābhyām gṛhya bhütalāt || śirasā dhārito devi jaṭājūṭe varānane \\ tataḥ sarvais tu deveśi Sirasa Sirasa dhāritaḥ śuciḥ |I (So,) O goddess, laying hold (of him) with (my) two hands, (I pulled him out of) the earth, and having done so, O fair lady, I bore (him) on (my) head, O goddess, in (my) matted hair. Thus, the pure one, O mistress of the gods, is (similarly) borne on the head of all (the gods). (KM 24/147cd-148) 1% Read nādbhūtaṁ for nādbhūtā. 19 118-119ab has no equivalent in the KM. This and the previous sentence could well be Abhinava’s own comment. 18 daśa koṭyo na pūjānāṁ pavitrārohaṇe samāḥ ॥ 119 ॥ vṛthā dīkṣā vṛthā jndnam gurvārādhanam eva ca | vinā pavitrād yenaitad dharen nāgaḥ śivājñayā ॥ TĀ 28/120 II tasmāt sarvaprayatnena sa kāryaḥ kulavedibhiḥ | cf. dasakoṭis tu pūjāūnāṁ pavitrārohaṇe samā | vṛthā diksd vṛthā jidnam gurvārādhanam eva ca ॥ harate nāgarājas tu vinā devi pavitrakāt | (vṛthā pariśramas tasya yo na kuryāt pavitrakam) || tasmāt sarvaprayatnena kartavyari kulajaiḥ priye |
 
 *[p. 64]* ^pg81
 
@@ -637,8 +637,8 @@ When should it be done? He says:
 तलोपलक्षितस्यान्तय कर्तिकस्य दिनं मतम् ॥ १२२ ॥
 कुलशब्दं पठन्तोऽन्ये व्याख्याभेदं प्रकुर्वते ।
 
-āṣādhaśuklān mithunakarkaṭasthe ravau vidhiḥ ॥ 121 |l kartavyaḥ so ‘nirodhena yāvat sā tulapūrnimā |
-tulopalakṣitasyāntyarn kārtikasya dinan matam || 122 ||
+āṣādhaśuklān mithunakarkaṭasthe ravau vidhiḥ ॥ 121 ॥ kartavyaḥ so ‘nirodhena yāvat sā tulapūrnimā |
+tulopalakṣitasyāntyaṁ kārtikasya dinan matam || 122 ||
 kulaśabdami paṭhanto ‘nye vyākhyābhedari prakurvate | 
 
 ‘Ten times ten million rites of worship are not equal to (one) offering of the sacred thread. Without (offering) the sacred thread, initiation, knowledge, and the worship of the teacher are (all) in vain. 0 goddess, it is because there is no (offering of the) sacred thread that the king of the Nāgas steals (one) away. In vain is the effort of one who would not perform (the ceremony of the) sacred thread. Thus, O beloved, those born of the Kula must perform (this rite of the sacred thread) with all effort.’ KM 24/149-15 lab 19 tenāsmy ārādhito devi pavitrena mahātmanā | cf. \[tenaharm rādhito\* devi pavitreṇa mahātmanā | KM 24/145ab. \* 555 48/4a reads renāpyārādhito, which is correct Sanskrit. 1% No equivalent in the KM or the 585. 15 Jayaratha is referring to a variant reading of pavitro ‘yam ‘this (Nāga called) Pavitra’. The variant is pavitrena. The word ‘pavitra’ means ‘pure’ or ‘sacred’. So ‘pavitrena’ means ‘by that which is sacred’. This Jayaratha understands to be the five sacred products of a cow i.e. milk, curd, butter, cow dung and urine. Thus, the translation would be: ‘By means of the sacred (five products of the cow etc.) he worshipped Lord Bhairava and fasted for a thousand divine years’ instead of ‘this (Nāga called) Pavitra (was there). He worshipped Lord Bhairava and fasted for a thousand divine years’. 1% This line is the same as KM 24/145cd.
@@ -794,7 +794,7 @@ pūraṇam śaktiyogena śaktyātma ca sitan dalam || 129 ॥
 dakṣiṇāyanasājātyāt tena tadvidhir ucyate |
 ekadvitricatuhpañcaṣadlataikatamaṁ mahat || 130 ॥
 hemaratnāṁkitagranthi kuryān muktāpavitrakam |
-sauvarṇasūtraṁ triguṇari saikagranthiśataṁ gurau |l 131 ||
+sauvarṇasūtraṁ triguṇari saikagranthiśataṁ gurau || 131 ||
 pare gurau tu tryadhikam adhyabdhi parameṣthini |
 prāksiddhācāryayogeśaviṣaye tu rasādhikam ॥ 132 ॥
 aṣtādhikari śivasyoktaṁ citraratnaprapūritam |
@@ -810,12 +810,12 @@ tenāṣtādaśatantūttham adhamaṁń madhyamamṁi punaḥ |
 aṣṭottaraśatari tasmāt triguṇaṁ tūttamaṁ matam || 136 ||
 granthayas tattvasanikhyātāḥ ṣadadhvakalanāvaśāt |
 yad vā vyāsasamāsābhyāri citrāḥ sadgandhapūritāḥ ॥ 137 ॥
-viśeṣavidhinā pūrvaṁ pūjayitvārpayet tataḥ \\ pavitrakari samastādhvaparipūrnatvabhāvanāt I| 138 ॥
+viśeṣavidhinā pūrvaṁ pūjayitvārpayet tataḥ \\ pavitrakari samastādhvaparipūrnatvabhāvanāt ॥ 138 ॥
 gurvātmanor jānunābhikanthamūrdhāntagari ca vā |
 tato mahotsavaḥ kāryo gurupūjāpurasaraḥ || 139 ||
 tarpyāḥ śāsanagāḥ sarve dakṣināvastrabhojanaiḥ |
 mahotsavaḥ prakartavyo gītanṛttātmako mahān I| 140 ॥
-cāturmāsyaṁ saptadinari tridinarn vāpy alābhataḥ |
+cāturmāsyaṁ saptadinari tridinaṁ vāpy alābhataḥ |
 tadante kṣamayed devan mandalādi visarjayet ॥ 141 ॥
 vahniṁ ca paścāt kartavyaś cakrayāgaḥ puroditaḥ |
 māse māse caturmāse varṣe vāpi pavitrakam || 142 ||
@@ -964,7 +964,7 @@ He says the following to indicate the (kind of person) for whom (this rite) is m
 ye narāḥ samayabhraṣtā guruśāstrādidūṣakāḥ |
 nityanaimittikādyanyaparvasandhivivarjitāḥ ॥ 148 ॥
 akāmāt kāmato vāpi sūkṣmapāpapravartinaḥ |
-{tesam praśamanārthāya pavitrarn kriyate śive ॥ 149 ॥
+{tesam praśamanārthāya pavitraṁ kriyate śive ॥ 149 ॥
 Śrāvaṇādau kārtikānte śuklapakṣe śubhaprade |
 na tu duhkhaprade kṛṣne kartrrāṣtranṛpādiṣu ॥ 150 ॥ 
 
@@ -994,7 +994,7 @@ In order to teach (the sacred thread’s) form, he says:
 चतु समविकिम्तांस्तानथवा कुंकुमेन तु ॥ १५४ ॥
 व्यक्ते जानुतयन्तं स्याल्लिदधं पीटावसानकम्
 
-182 Another translation could be: ‘(so too) those who are devoid (of the observance of) the (appropriate) parvan or (celestial) conjunction (to perform) the daily and occasional etc. (rites) and others.’ However, in both translations, there is a problem with the word ~ anya ~ ‘others’, which appears to be redundant, indicating that the line may be corrupt. This problem is resolved in MS T. But there, the reading of this and the following two lines (i.e. 148cd-149) is substantially different: nityanaimittikādyanyakarmanār hi viśuddhaye | sthūlasūkṣmādipāpānār śamanārthaṁ tathaiva ca | pavitrarn kriyate devi sarvasiddhipradāyakam | \*0 goddess, a sacred thread, which bestows all accomplishments, is made in order to purify the daily and occasional (rites) and other actions, and so also to atone for gross and subtle etc. sins (for those people who have fallen (from the observance of) the Rule, criticized (their) teacher or the scriptures etc.).” In this version the word - anya — clearly refers to ‘other’ karma in general, not just ritual action. 183 Instead of sravanddau, MS T reads āṣādhādau — ‘beginning with Āṣādha’ (June-July). This may be a better reading, cf. above Cf. above 28/121cd-123ab and notes. Kārttika (October-November) is the last month of the lunar year. See KM 24/251cd-252 quoted above in note
+182 Another translation could be: ‘(so too) those who are devoid (of the observance of) the (appropriate) parvan or (celestial) conjunction (to perform) the daily and occasional etc. (rites) and others.’ However, in both translations, there is a problem with the word ~ anya ~ ‘others’, which appears to be redundant, indicating that the line may be corrupt. This problem is resolved in MS T. But there, the reading of this and the following two lines (i.e. 148cd-149) is substantially different: nityanaimittikādyanyakarmanār hi viśuddhaye | sthūlasūkṣmādipāpānār śamanārthaṁ tathaiva ca | pavitraṁ kriyate devi sarvasiddhipradāyakam | \*0 goddess, a sacred thread, which bestows all accomplishments, is made in order to purify the daily and occasional (rites) and other actions, and so also to atone for gross and subtle etc. sins (for those people who have fallen (from the observance of) the Rule, criticized (their) teacher or the scriptures etc.).” In this version the word - anya — clearly refers to ‘other’ karma in general, not just ritual action. 183 Instead of sravanddau, MS T reads āṣādhādau — ‘beginning with Āṣādha’ (June-July). This may be a better reading, cf. above Cf. above 28/121cd-123ab and notes. Kārttika (October-November) is the last month of the lunar year. See KM 24/251cd-252 quoted above in note
 
 *[p. 76]* ^pg93
 
@@ -1008,7 +1008,7 @@ aṣṭottaraṁ tantuśataṁ tadardhaṁ vā tadardhakam | 152 ||
 hrāsas tu pūrvasarikhyāyā daśabhir daśabhiḥ kramāt |
 navabhiḥ pañcabhiḥ saptaviṁṛśatyā vā śivāditaḥ ॥ 153 ॥
 yādṛśas tantuvinyāso granthīn kuryāt tu tāvataḥ |
-catuhsamaviliptārs tān athavā kuńkumena tu ॥ 154 |I vyakte jānutaṭāntari syāl liṅge pīṭhāvasānakam |
+catuhsamaviliptārs tān athavā kuńkumena tu ॥ 154 ॥ vyakte jānutaṭāntari syāl liṅge pīṭhāvasānakam |
 arcāsu SŚobhanaṁ mūrdhni tritattvaparikalpanāt I| 155 ॥
 dvādaśagranthiśaktīnāi brahmavaktrārciṣāmapi | 
 
@@ -1123,7 +1123,7 @@ Here itself (he now) explains (the matters concerning) the knots.
 नास्माद् व्रत परं किञ्चित् का वास्य स्तुतिरुच्यते ॥ १८५ ॥
 शेषं त्वगाधे वार्येषि क्षिपेन्न स्थापयेत्स्थरम् ।
 
-vidyāpīṭhe tu khaśarāḥ pratimāliṁgapīthagam |I| 158 II vasuvedar, ca ghanṭtāyām śarākṣy aṣtādaśa sruve |
+vidyāpīṭhe tu khaśarāḥ pratimāliṁgapīthagam ||| 158 || vasuvedar, ca ghanṭtāyām śarākṣy aṣtādaśa sruve |
 vedākṣi sruci, ṣaṭtriṁśat prāsāde, mandape raviḥ | 159 ॥
 rasendu snānagehe ‘bdhinetre dhyānagṁe gurau |
 sapta sādhakagāḥ pañca putrake sapta sāmaye ॥ 160 ॥
@@ -1132,10 +1132,10 @@ liṅginār kevalo granthis torane daśa kalpayet ॥ 161 ॥
 dvāreṣv aṣtau granthayaḥ syuḥ kṛtvetthaṁ tu pavitrakam |
 pūjayitvā mantrajālari tatsthatvātmasthate tataḥ || 162 ||
 pavitrakānāṁ saṁpādya kuryāt sapātasariskriyām |
-tataḥ saṁvatsararn dhyāyed bhairavar chidrasākṣinam ॥ 163 ॥
+tataḥ saṁvatsaraṁ dhyāyed bhairavar chidrasākṣinam ॥ 163 ॥
 dattvā pūrnāhutiṁn devi praṇnamen mantrabhairavam |
 omr samastakriyādoṣapūraneśa vratar prati || 164 ॥
-yat kiñcid akṛtam duṣtaṁ kṛtarn vā mātṛnandana |
+yat kiñcid akṛtam duṣtaṁ kṛtaṁ vā mātṛnandana |
 tat sarvan mama deveśa tvatprasādāt pranṇaśyatu || 165 ॥
 sarvathā raśmicakreśa namas tubhyaṁ prasīda me |
 anena dadyād devāya nimantraṇapavitrakam || 166 ॥
@@ -1155,7 +1155,7 @@ vāmāmṛtādisamyuktaṁ naivedyaṁ trividharhi tataḥ ॥ 171 ॥
 dadyād asṛk tathā madyar pānāni vividhāni ca |
 tato homo mahākṣmājamāṁsais tilayutair atho ॥ 172 ॥
 tilair ghṛtayutair yad vā tandulair atha dhānyakaiḥ |
-śarkarākhaṇndasamyuktapañcāmṛtapariplutaiḥ Il 173 ॥
+śarkarākhaṇndasamyuktapañcāmṛtapariplutaiḥ ॥ 173 ॥
 mitlam ! sahasraṁ sāṣtoktaṁ triśaktau brahmavaktrakam | 
 
 iṣāṁ tu śataṁ sāṣtaṁi tataḥ pūrnāhutiṁ kṣipet ॥ 174 ||
@@ -1164,10 +1164,10 @@ akāmād athavā kāmād yan mayā na (11077 vibho ॥ 175 ॥
 tadacchidran mamāstv īśa pavitreṇa tavājñayā |
 mūlamantraḥ pūrayeti kriyāniyamam ity atha | 176 ॥
 vauṣadante pavitra ca dadyād bindvavasānakam |
-nādāntaṁi samanāntaṁ cāpy unmanāntaṁ kramāt trayam || 177 |l evar catuṣtayaṁ dadyād anulomena bhautikaḥ |
+nādāntaṁi samanāntaṁ cāpy unmanāntaṁ kramāt trayam || 177 || evar catuṣtayaṁ dadyād anulomena bhautikaḥ |
 naiṣthikas tu vilomena pavitrakacatuṣṭtayam ॥ 178 ॥
 yat kiñcid vividhaṁ vastracchatrālaṁkaranādikam |
-tan nivedyarn dīpamālāḥ suvarnṇatilabhājanam || 179 ॥
+tan nivedyaṁ dīpamālāḥ suvarṇatilabhājanam || 179 ॥
 vastrayugmayutaṁ sarvasampūraṇanimittataḥ |
 bhojanīyāḥ pūjanīyāḥ 
 
@@ -1176,12 +1176,12 @@ catustridvyekamāsādidinaikāntaḥ mahotsavam |
 kuryāt tato na vrajeyur anyasthānari kadācana || 181 ॥
 tatas tu daiśikaḥ pūjyo gām asmai (5717771 navām |
 dadyāt suvarṇaratnādirūpyavastravibhūṣitām ॥ 182 ॥
-vaded guruś ca saṁṁpūrnṇo vidhis tava bhavatv iti |
+vaded guruś ca saṁṁpūrṇo vidhis tava bhavatv iti |
 vaktavyarhi devadevasya punarāgamanāya ca || 183 ॥
-tato visarjanar kāryaḥ guptam ābharanādikam |
+tato visarjanar kāryaṁ guptam ābharanādikam |
 naivedyaṁ gurur ādāya yāgārthe tan niyojayet || 184 ॥
 caturnām api sāmānyari pavitrakam iti smṛtam |
-nāsmād vratar parar kiñcit kā vāsya stutir ucyate || 185 I|
+nāsmād vratar parar kiñcit kā vāsya stutir ucyate || 185 ||
 seṣar tv agādhe vāryoghe kṣipen na sthāpayet sthiram | 
 
 The knots (of the thread placed on) on the Seat of Knowledge (vidyāpītha) should be fifty; the one on the idol and the pedestal of the Liṅga, forty-eight, the one on the bell, twenty-five; the one on the little ladle, eighteen; and the one on the large ladle, twenty-four. (The thread) in the terrace has thirty-six (knots), the one in the pavilion, twelve. (The one) in the house (reserved for) the bathing (of the deities), sixteen. and (the one) in the shrine for meditation, twenty-four. (The one placed) on the teacher, seven. (The one) on the adepts, five. There are seven (knots in the thread 

@@ -1,6 +1,12 @@
+---
+type: book-chapter
+work: "An Introduction to Tantric Philosophy: The Paramārthasāra of Abhinavagupta with the Commentary of Yogarāja"
+order: 11
+page_range: "462"
+---
 # Anthology of Spiritual Experience
 
-[p. 462]
+[p. 462] ^pg477
 
 itthaṃ karoti, ‘I am not their
 accomplisher, it is the divine

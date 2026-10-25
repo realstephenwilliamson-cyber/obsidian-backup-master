@@ -17,8 +17,7 @@ language:
   - English
 pages: 32
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[11Crovetto.pdf]]"
   - "[[Library/Hinduism/Bhairavi Cakra (Crovetto)]]"

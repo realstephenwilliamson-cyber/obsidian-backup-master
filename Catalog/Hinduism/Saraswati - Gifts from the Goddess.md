@@ -18,8 +18,7 @@ language:
   - English
 pages: 637
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Bowden - Gifts from the Goddess, Selected Works of Sri Amritananda Natha Saraswati.pdf]]"
   - "[[Library/Hinduism/Gifts from the Goddess (Saraswati)/Gifts from the Goddess (Saraswati)]]"

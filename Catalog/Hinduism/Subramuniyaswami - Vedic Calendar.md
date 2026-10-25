@@ -18,7 +18,7 @@ language:
 pages: 41
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[pancha_intro.pdf]]"
 aliases:

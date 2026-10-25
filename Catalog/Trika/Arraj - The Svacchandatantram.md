@@ -17,8 +17,7 @@ language:
   - English
 pages: 511
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Arraj - The Svacchandatantram (1988).pdf]]"
   - "[[Library/Trika/The Svacchandatantram (Arraj)/The Svacchandatantram (Arraj)]]"

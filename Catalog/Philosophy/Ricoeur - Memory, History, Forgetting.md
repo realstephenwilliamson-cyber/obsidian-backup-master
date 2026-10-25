@@ -20,7 +20,7 @@ language:
 pages: 661
 text: searchable
 status: reading
-physical_copy: true
+print: true
 files:
   - "[[Paul Ricoeur - Memory, History, Forgetting (2004, University Of Chicago Press).pdf]]"
   - "[[Library/Philosophy/Memory, History, Forgetting (Ricoeur)/Memory, History, Forgetting (Ricoeur)]]"

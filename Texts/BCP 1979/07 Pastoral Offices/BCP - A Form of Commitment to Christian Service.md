@@ -5,9 +5,7 @@ section: "Pastoral Offices"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/PastoralOffices/christianserv.html"
-page_range:
-  - 420
-  - 421
+page_range: "420–421"
 aliases:
   - "BCP 420"
   - "BCP 421"
@@ -16,7 +14,7 @@ aliases:
 
 [[BCP 1979]] · *Pastoral Offices* · pages 420–421
 
-[p. 420]
+[p. 420] ^pg420
 
 ## A Form of Commitment to Christian Service
 
@@ -32,7 +30,7 @@ May the Holy Spirit guide and strengthen you, that in this, and in all things, y
 
 In the name of this congregation I commend you to this work, and pledge you our prayers, encouragement, and support.
 
-[p. 421]
+[p. 421] ^pg421
 
 *The Celebrant then says this or some other appropriate prayer*
 

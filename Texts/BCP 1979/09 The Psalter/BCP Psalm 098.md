@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 98
 verses: 10
-page_range:
-  - 728
-  - 728
+page_range: "728"
 aliases:
   - "BCP Psalm 98"
   - "BCP 728"
@@ -25,7 +23,7 @@ Hebrew text and JPS translation: [[Psalms 098]]
 **98:1** Sing to the LORD a new song, \*  
 for he has done marvelous things. ^98-1
 
-[p. 728]
+[p. 728] ^pg728
 
 **98:2** With his right hand and his holy arm \*  
 has he won for himself the victory. ^98-2

@@ -45,7 +45,7 @@ Well then, what is the (scriptural) authority that supports Ananta’s primacy? 
 ### TĀ 8.345
 
 उक्तं च गुरुभिरित्थं शिवतन्वाद्येषु शासनेष्वेतत् ॥ death).[^945] ॥
-uktaṁ ca gurubhir ittharn Śivatanvādyeṣu śāsaneṣv etat ॥ 345 ॥ 
+uktaṁ ca gurubhir itthaṁ Śivatanvādyeṣu śāsaneṣv etat ॥ 345 ॥ 
 
 And (this) has taught by (our) venerable teacher in the Śivatanu and other works (śāsana), in (the following) way.[^946] (345cd) (345ab) 
 
@@ -168,7 +168,7 @@ te ‘ṣtāv api śaktyaṣṭaka-
 yogāmalajalaruhāsanāsīnāḥ |
 ālocayanti deva 
 
-hṛdayastharn (karanam paramam || 351 ॥
+hṛdayasthaṁ (karanam paramam || 351 ॥
 tarn bhagavantam ananta 
 
 ### TĀ 8.349–352
@@ -228,7 +228,7 @@ One should relate (what has been said concerning this matter) to (those) concern
 
 963\. The universe is periodically recreated after an earlier universe comes to an end. Shorter cycles of cosmic creation and destruction are encompassed by larger one. The most extensive is called the Great Creation (mahāsṛṣti), which ends with the Great Destruction (mahāpralaya). Jayaratha is saying that these Rudras are appointed in the manner described to higher levels of office when this Great Destruction takes place, and so it is one of the things that takes place then. The appointments of the Rudras to their new office is thus part of the matters that have to do with the Great Destruction.
 
-964\. MPĀ Vidyāpāda 25/62cd, 63ab. The printed edition reads: suddhādhvapatayo devā mantrāś cāmoghaśaktayaḥ || 62 ॥ na sīdanti na lupyanti pidyante na ca kenacit | samāpya svādhikārārṁs te prayānti padam uttamam || 63 I| \[62d here reads mahāntaś cakravartinaḥ. In the printed edition, it reads mantrāś cāmoghaśaktayaḥ. Jayaratha’s citation reads svādhikāra te, the printed edition svādhikārāṁs te.\] Rāmakantha explains: Suddhādhvapatayaḥ anantādividyeśāḥ, devās tu māyāgarbhādhikārinaḥ śrīkaṇthā-dayah pūrvaḥ śivaniyuktatvena pratipāditāḥ, mantrāý ca ity ete | yasmād amoghaśaktayaḥ nirmalāḥ, kṣīṇakarmatvāc ca na kenacit karmaṇāpi avasādādikan traya nīyante; tasmāt te svādhikāramāyāsargādipañcavidhaṁ kṛtyaṁ parisamāpya uttamaṁ padarth parām mukti yugapad gacchantīti darśitaḥ prāk ॥ ‘The lords of the Pure Path’ are Ananta and the rest of the Vidyeśas. ‘The gods’, Śrīkaṇṭha and the rest, have authority within the womb of Māyā. They were established previously as appointed by Śiva. And these are ‘the Mantras’. Thus ‘their powers are unfailing’, that is, pure. Their Karma has ceased and the three, ‘waning away’ etc. are not brought about ‘by any’ Karma. Thus, it was shown previously that (all the Vidyeśas) go simultaneously to ‘the most excellent plane’ of close proximity (to Śiva), which is supreme liberation. Thus, they (perform) the five operations, namely, creation and the rest, of the (part of) Māyā over which they have authority.’
+964\. MPĀ Vidyāpāda 25/62cd, 63ab. The printed edition reads: suddhādhvapatayo devā mantrāś cāmoghaśaktayaḥ || 62 ॥ na sīdanti na lupyanti pidyante na ca kenacit | samāpya svādhikārārṁs te prayānti padam uttamam || 63 I| \[62d here reads mahāntaś cakravartinaḥ. In the printed edition, it reads mantrāś cāmoghaśaktayaḥ. Jayaratha’s citation reads svādhikāra te, the printed edition svādhikārāṁs te.\] Rāmakantha explains: Suddhādhvapatayaḥ anantādividyeśāḥ, devās tu māyāgarbhādhikārinaḥ śrīkaṇthā-dayah pūrvaṁ śivaniyuktatvena pratipāditāḥ, mantrāý ca ity ete | yasmād amoghaśaktayaḥ nirmalāḥ, kṣīṇakarmatvāc ca na kenacit karmaṇāpi avasādādikan traya nīyante; tasmāt te svādhikāramāyāsargādipañcavidhaṁ kṛtyaṁ parisamāpya uttamaṁ padarth parām mukti yugapad gacchantīti darśitaḥ prāk ॥ ‘The lords of the Pure Path’ are Ananta and the rest of the Vidyeśas. ‘The gods’, Śrīkaṇṭha and the rest, have authority within the womb of Māyā. They were established previously as appointed by Śiva. And these are ‘the Mantras’. Thus ‘their powers are unfailing’, that is, pure. Their Karma has ceased and the three, ‘waning away’ etc. are not brought about ‘by any’ Karma. Thus, it was shown previously that (all the Vidyeśas) go simultaneously to ‘the most excellent plane’ of close proximity (to Śiva), which is supreme liberation. Thus, they (perform) the five operations, namely, creation and the rest, of the (part of) Māyā over which they have authority.’
 
 965\. Although Jayaratha says that this is Supreme Śiva (Paramaśiva), it may be Ananta in his supreme form when he has ‘become Iśvara’, as Kṣemarāja says in commentary on SvT 10/1161-1162. See also, above, 8/343cd.
 
@@ -329,7 +329,7 @@ The Four Worlds in the Principle of Isvara
 dharmajñānavairāgyaiśyacatuṣtayapurari tu yat |
 rūpāvaraṇasamijñaṁ tattattve ‘sminn aiśvare viduḥ | 356 ॥
 vāmā jyeṣthā ca raudrīti bhuvanatrayaśobhitam |
-sūkṣmāvaraṇam ākhyātam īśíatattve gurūttamaiḥ ॥ 357 |l 
+sūkṣmāvaraṇam ākhyātam īśíatattve gurūttamaiḥ ॥ 357 ॥ 
 
 "There are four worlds in this, the principle of Īśvara. (The wise) know that they are called the Enclosure of Form (rāūpāvaraṇa),” and consist of virtue (dharma), knowledge (jñāna), detachment (vairagya)’” ) and mastery (aiśvarya). According to the most excellent teachers, within the principle of Īśa (above them) is what is called the ‘Subtle Enclosure’ (sūkṣmāvarana), which is adorned with the three worlds of Vāmā, Jyeṣthā and Raudrī.”\* (356-357) (355ed-357ab) 
 
@@ -341,7 +341,7 @@ sūkṣmāvaraṇam ākhyātam īśíatattve gurūttamaiḥ ॥ 357 |l
 
 973\. \[illegible\] Read -vairāgyaiśya- for -virāgaiśya-.
 
-974\. TĀ 8/356-357 (355cd-357ab) is based on SvT 10/1163-1164, but the wording is different. This is not a paraphrase, it is a rewording. Kṣemarāja explains that the world order called the Enclosure of Form (rūpāvaranṇa) is above that of Vidyeśa. ato rūpam avasthānaṁ tatra rudrān nibodha me | dharmo jṁñānar ca vairāgyam aiśvaryaṁ ca caturthakam ॥ 1163 ॥ yadvaśād vidyeśvarāṇām adhastanādhvādhāravattvam aśeṣajñatvam, pūrṇatayā nairākāṁkṣyam, mahāvibhavapradatvam | ta ete dharmādyā rudrā īśvarasya parivārāḥ Il atraiva ceśvaratattve ---- sūkṣmāvaraṇam ūrdhve ‘tah... ato rūpāvaraṇād ūrdhve || tatra śaktitrayari viduḥ | tāś ca vāmā jyeṣthā ca raudrī ca íaktayah samudāhṛtāḥ ॥ 1164 ॥ ‘Next comes the world (avasthāna) of Form. Know from me the Rudras that are there. (They are) Dharma, Jñāna, Vairāgya (Detachment) and Aiśvarya (Mastery), who is the fourth.’ (1163) It is by virtue of this that the Vidyeśvaras have a grounding in the Path below (them), which is their knowledge of all things. As it is complete, they are without desire and (this grounding) bestows (upon them) great glory. These Rudras, Dharma and the rest, are Īśvara’s attendants. Again, here in the Īśvara principle —‘Next, above that (Enclosure of Form) is the Subtle Enclosure.’ ‘(The wise) know that there are three powers there.’ And these are ‘said to be the powers (śakti), Vāmā Jyeṣthā and Raudrī. (1164).
+974\. TĀ 8/356-357 (355cd-357ab) is based on SvT 10/1163-1164, but the wording is different. This is not a paraphrase, it is a rewording. Kṣemarāja explains that the world order called the Enclosure of Form (rūpāvaranṇa) is above that of Vidyeśa. ato rūpam avasthānaṁ tatra rudrān nibodha me | dharmo jṁñānar ca vairāgyam aiśvaryaṁ ca caturthakam ॥ 1163 ॥ yadvaśād vidyeśvarāṇām adhastanādhvādhāravattvam aśeṣajñatvam, pūrṇatayā nairākāṁkṣyam, mahāvibhavapradatvam | ta ete dharmādyā rudrā īśvarasya parivārāḥ Il atraiva ceśvaratattve ---- sūkṣmāvaraṇam ūrdhve ‘taḥ... ato rūpāvaraṇād ūrdhve || tatra śaktitrayari viduḥ | tāś ca vāmā jyeṣthā ca raudrī ca íaktayah samudāhṛtāḥ ॥ 1164 ॥ ‘Next comes the world (avasthāna) of Form. Know from me the Rudras that are there. (They are) Dharma, Jñāna, Vairāgya (Detachment) and Aiśvarya (Mastery), who is the fourth.’ (1163) It is by virtue of this that the Vidyeśvaras have a grounding in the Path below (them), which is their knowledge of all things. As it is complete, they are without desire and (this grounding) bestows (upon them) great glory. These Rudras, Dharma and the rest, are Īśvara’s attendants. Again, here in the Īśvara principle —‘Next, above that (Enclosure of Form) is the Subtle Enclosure.’ ‘(The wise) know that there are three powers there.’ And these are ‘said to be the powers (śakti), Vāmā Jyeṣthā and Raudrī. (1164).
 
 
 *[p. 346]* ^pg364
@@ -382,7 +382,7 @@ The Enclosures and Deities of the Principle of Sadāśiva
 शक्त्यावृतिः प्रमाणाख्या ततः शासे निरूपिता ॥ ३५९ ॥
 
 aiśāt sādāśivaṁ jñānakriyāyugalamanditam |
-śsuddhāvaraṇam ity āhur uktā śuddhāvṛteḥ param II 358 ॥ 
+śsuddhāvaraṇam ity āhur uktā śuddhāvṛteḥ param ॥ 358 ॥ 
 
 [^975]: SvT 10/1171cd.
 
@@ -416,7 +416,7 @@ Thus, this is our reading, (which says that the Enclosure of Power is also calle
 
 980\. Read ity ādir āsmākar for ityādir āsmāka.
 
-981\. Commenting on Svacchandatantra 10/1174, Kṣemarāja says: pūrvoktānāṁ māyā-tattvāśritānām pañcārthādipramāṇānāṁi param idam padam prāptisthānamn tejeśaś ca ca vidyāvaraṇād ürdhve pramāṇāvarane sthite ity etat pramāṇāvaraṇam api bhuvanadvitayayogi ॥ ‘\*Tejeśa, Dhruveśa and the supreme plane, that is, the place of attainment of the aforementioned Pramāṇas, that is, Pañcārtha and the rest that are based on the principle of Māyā, are in the enclosure of the Pramānṇas, which is above that of Vidyā. Thus, this is also the enclosure of the Pramānas, associated with two worlds.” The Pramānas are the scriptures of Pāśupatas. All we have recovered of them are a few verses quoted by Kṣṣemarāja in SvTu ad 1/41-43 from the Pañcārthapramāṇa.
+981\. Commenting on Svacchandatantra 10/1174, Kṣemarāja says: pūrvoktānāṁ māyā-tattvāśritānām pañcārthādipramāṇānāṁi param idam padam prāptisthānamn tejeśaś ca ca vidyāvaraṇād ürdhve pramāṇāvarane sthite ity etat pramāṇāvaraṇam api bhuvanadvitayayogi ॥ ‘\*Tejeśa, Dhruveśa and the supreme plane, that is, the place of attainment of the aforementioned Pramāṇas, that is, Pañcārtha and the rest that are based on the principle of Māyā, are in the enclosure of the Pramānṇas, which is above that of Vidyā. Thus, this is also the enclosure of the Pramāṇas, associated with two worlds.” The Pramāṇas are the scriptures of Pāśupatas. All we have recovered of them are a few verses quoted by Kṣṣemarāja in SvTu ad 1/41-43 from the Pañcārthapramāṇa.
 
 
 *[p. 348]* ^pg366
@@ -431,13 +431,13 @@ Thus, this is our reading, (which says that the Enclosure of Power is also calle
 saktyāvṛtestu tejasvidhruveśābhyām alaṅkṛtam |
 tejasvyāvaraṇam vedapurā mānāvṛtis tataḥ ॥ 360 ॥
 mānāvṛteḥ suśuddhāvṛtpuratritayaśobhitā |
-suśuddhāvaraṇād ūrdhvaṁ śaivam ekapurami bhavet ॥ 361 |l 
+suśuddhāvaraṇād ūrdhvaṁ śaivam ekapurami bhavet ॥ 361 ॥ 
 
 After the Enclosure of Power comes the Enclosure of Brilliant Energy (tejasvyāvaraṇna), which is adorned with Tejasvī (Energetically Radiant) and Dhruveśa (Lord of Stability). Then (comes) the Enclosure of Right Knowledge (mānāvṛti), of which there are four worlds. Beyond the Enclosure of Right Knowledge is the Enclosure of Perfect Purity (suśuddhāvṛt), beautiful with (its) three worlds. Above the Enclosure of Perfect Purity, there is that of Śiva, in which there is only one world. (360- 361) (359cd-361ab) 
 
 #### Viveka on 8.359–361
 
-What is the reason here for calling (the Enclosure of Power) the ‘Enclosure of the Pramāṇas? With this question in mind, he says that (after the Enclosure of Power comes the) ‘the Enclosure of Brilliant Energy’. Tejeśa and Dhruveśa are the supreme plane of the Group of Eight Pramānas (i.e. the Pāśupata scriptures), located in the Principle of Māyā. This is the second, supreme, enclosure, of those two, ‘of which there are four worlds’. That is said (in the Svacchandatantra): 
+What is the reason here for calling (the Enclosure of Power) the ‘Enclosure of the Pramāṇas? With this question in mind, he says that (after the Enclosure of Power comes the) ‘the Enclosure of Brilliant Energy’. Tejeśa and Dhruveśa are the supreme plane of the Group of Eight Pramāṇas (i.e. the Pāśupata scriptures), located in the Principle of Māyā. This is the second, supreme, enclosure, of those two, ‘of which there are four worlds’. That is said (in the Svacchandatantra): 
 
 ‘(The four worlds are those of) Brahmā, Rudra, Pratoda and Ananta, 
 
@@ -514,8 +514,8 @@ Pain) and Vijṛmbhita (Expanded).
 
 icchāvṛteḥ prabuddhākhyari digrudrāṣtakacarcitam ॥ 364 I|
 prabuddhāvaraṇād ūrdhvaṁi samayāvaraṇari mahat |
-bhuvanaiḥ pañcabhir garbhīkṛtānantasamāvṛti |l 365 ॥
-sāmayāt sauśivari tatra sādākhyarnṁ bhuvanaṁ mahat |
+bhuvanaiḥ pañcabhir garbhīkṛtānantasamāvṛti ॥ 365 ॥
+sāmayāt sauśivari tatra sādākhyaṁ bhuvanaṁ mahat |
 tasmin sadāśivo devas tasya savyāpasavyayoḥ ॥ 366 ॥
 jñānakriye parecchā tu śaktir utsaṅgagāminī |
 sṛstyādipañcakṛtyāni kurute sa tayecchayā ॥ 367 ॥
@@ -638,7 +638,7 @@ The ten Śivas starting from the east are: 1) Oṁkāreśa, 2) Śiva, 3) Dīpta,
 
 the Ten), 6) Suśiva (Good Śiva), 7) Kāleśa (Lord of Time), 8) Sūkṣma (Sūkṣmarūpa) (Subtle Form), 9) Sutejas (Good Energy), and 10) Śarva.”” 
 
-The (eighteen) Rudras are said to be 1) Vijaya (Victory), 2) Nihśvāsa (Exhalation), 3) Svāyambhū (Self Born), 4) Agni (Fire), 5) Vīra (Hero), 6) Raurava (Roaring), 7) Mukuta (Crown), 8) Visara (Abundance), 9) Indu (Moon), 10) Bindu (Drop),” 11) Prodgītavat (Lauded), 12) Lalita (Playful), 13) Siddharudra (Accomplished Rudra), 14) Santāna (Eternal), 15) Śarva, 16) Para (Supreme), 17) Kiraṇa (Ray) and 18) Parameśvara (Supreme Lord).”” (The wise) know that from all these originate the forms of knowledge (i.e. scriptures) corresponding to their names. (369-373) (368cd-373ab) 
+The (eighteen) Rudras are said to be 1) Vijaya (Victory), 2) Nihśvāsa (Exhalation), 3) Svāyambhū (Self Born), 4) Agni (Fire), 5) Vīra (Hero), 6) Raurava (Roaring), 7) Mukuṭa (Crown), 8) Visara (Abundance), 9) Indu (Moon), 10) Bindu (Drop),” 11) Prodgītavat (Lauded), 12) Lalita (Playful), 13) Siddharudra (Accomplished Rudra), 14) Santāna (Eternal), 15) Śarva, 16) Para (Supreme), 17) Kiraṇa (Ray) and 18) Parameśvara (Supreme Lord).”” (The wise) know that from all these originate the forms of knowledge (i.e. scriptures) corresponding to their names. (369-373) (368cd-373ab) 
 
 #### Viveka on 8.368–373
 
@@ -792,7 +792,7 @@ Authority)?" With this question in mind, he says:
 तस्मिन्भोगः समुदिष्ट इत्यत्रेदं च वर्णितम् ।
 
 caturmūrtimayaṁ Śubhraṁ yat tat sakalaniṣkalam || 380 ॥
-tasmin bhogaḥ samuddiṣta ity atredaṁ ca varnṇitam | 
+tasmin bhogaḥ samuddiṣta ity atredaṁ ca varṇitam | 
 
 1012\. MPĂ vidyāpāda 3/20cd-21ab. 10 The four-fold form of the Point is explained in this and the following verse.
 
@@ -880,7 +880,7 @@ The Point, the Half Moon (Ardhacandra), and the Obstructress
 रुन्धनी रोधनी रोद्धी ज्ञानबोधा तमोपहा ॥ ३८४ ॥
 एताः पञ्च कलाः प्राूर्निरोधिन्यां गुरूत्तमाः ।
 
-bindūrdhve ‘rdhendur etasya kalā jyotsnā ca tadvatfī || 383 Il 
+bindūrdhve ‘rdhendur etasya kalā jyotsnā ca tadvatfī || 383 || 
 
 kāntiḥ prabhā ca vimalā pañcaitā rodhikās tataḥ |
 rundhanī rodhanī roddhrī jṁñānabodhā tamopahā || 384 I|
@@ -1080,7 +1080,7 @@ Above Suṣumnā is the enclosure named after the Cavity of Brahmā. Brahmā res
 
 #### Viveka on 8.394–395
 
-1042\. TĀ 8/394cd-396a (394-395abc) is a paraphrase of SvT 10/1237-1240ab. evar jñātvā varārohe śodhayet tarn śivādhvare ॥ 1236 ॥ tato brahmabilaṁ jṁñeyaṁ rudrakoṭtyarbudānvitam | tatra brahmā paro jñṁñeyaḥ Śaśāṁkaśatasaprabhaḥ Il 1237 ॥ daśabāhus trinetraś ca pañcavaktrenduśekharaḥ | triśūlapāṇir bhagavān jaṭīmukuṭamanditaḥ ॥ 1238 ॥ ‘Having known (this) in this way, one should purify that in Śiva’s sacrifice. Then one should know the Cavity of Brahmā, that has a hundred million Rudras. One should know that there Brahmā is supreme, his light equal to a hundred moons. He has ten arms and three eyes, five faces, and the moon is on the crown of his head. He holds a trident. He is the Lord, adorned with matted hair and a crown. (1236cd-1238) brahmabilaṁ nāmāvaraṇam antar Śiva bahir bhuvanāśrayatvenāpi sthitam | yady api sārdhās tisraḥ koṭyo mantrānām uktās tathāpi tatparivārasyāsaṁkhyatvād atrāpi ca (tesam ! sūkṣmatamena rūpeṇāvasthitatvād rudrakoṭyarbudānvitam ity uktam | para iti prāguktād brahmāndagatāt sthūlād buddhitattvagatāc ca sūkṣmād utkṛṣtaḥ, ata eva sāktatvād ayar sito daśabāhvādirūpaś ca ॥ 1238 ॥ kirn ca ---- The Cavity of Brahmā is the name of (another) enclosure. As it is inwardly, so too it exists externally, as the foundation of a world. Although it has been said that there are 35 million Mantras, even so his entourage is innumerable, and moreover, here they are in (their) most subtle form, and so (for these two reasons) it is said that (they number) 100 million. (Brahmā) is ‘supreme’. (He is) most excellent because, (in his) gross (form), he is present in the Egg of Bramā (in the manner) stated previously (that is, at its summit), and, as subtle, he is present in the principle of the intellect. Thus, because he is empowered (sākta), he is white, and his form has ten arms etc. Moreover: brahmānṇī tu parā śaktir yā sā mokṣapathe sthitā | dvaram ? yd mokṣamārgasya rodhayitvā vyavasthitā ॥ 1239 ॥ mokṣamārgapradātrī ca brahmotsaṁge ca saṁsthitā | Brahmānī is (his) supreme power and abides on the path to liberation. (She is) the door to the path of liberation; having blocked it, she is present there. She also bestows the path to liberation and sits next to Brahmā. (1239-1240ab) parety arthāt | mokṣapathe ---- śaivīṛ mukham ihocyate | She is, in other words, Parā. On the path to liberation — ‘Śiva’s power (śaivī) is said here (in the scriptures) to be (His) mouth (mukha) (which is the entrance to the realization of one’s own Śiva nature).’ (VB 20d) mokṣadvāram īśvarecchayā rundhānā sthitā | jṁāninaḥ prati mokṣamārga pradadāti tacchīlā \\\\ According to this teaching, (this) is the Path of Śakti, that faces upwards. Thus, with respect to the ignorant, by the Lord’s will, the door to liberation, which is the path of Śakti, is closed; (whereas) for those who know, she bestows and is the path to liberation.
+1042\. TĀ 8/394cd-396a (394-395abc) is a paraphrase of SvT 10/1237-1240ab. evar jñātvā varārohe śodhayet tarn śivādhvare ॥ 1236 ॥ tato brahmabilaṁ jṁñeyaṁ rudrakoṭtyarbudānvitam | tatra brahmā paro jñṁñeyaḥ Śaśāṁkaśatasaprabhaḥ Il 1237 ॥ daśabāhus trinetraś ca pañcavaktrenduśekharaḥ | triśūlapāṇir bhagavān jaṭīmukuṭamanditaḥ ॥ 1238 ॥ ‘Having known (this) in this way, one should purify that in Śiva’s sacrifice. Then one should know the Cavity of Brahmā, that has a hundred million Rudras. One should know that there Brahmā is supreme, his light equal to a hundred moons. He has ten arms and three eyes, five faces, and the moon is on the crown of his head. He holds a trident. He is the Lord, adorned with matted hair and a crown. (1236cd-1238) brahmabilaṁ nāmāvaraṇam antar Śiva bahir bhuvanāśrayatvenāpi sthitam | yady api sārdhās tisraḥ koṭyo mantrānām uktās tathāpi tatparivārasyāsaṁkhyatvād atrāpi ca (tesam ! sūkṣmatamena rūpeṇāvasthitatvād rudrakoṭyarbudānvitam ity uktam | para iti prāguktād brahmāndagatāt sthūlād buddhitattvagatāc ca sūkṣmād utkṛṣṭaḥ, ata eva sāktatvād ayar sito daśabāhvādirūpaś ca ॥ 1238 ॥ kiṁ ca ---- The Cavity of Brahmā is the name of (another) enclosure. As it is inwardly, so too it exists externally, as the foundation of a world. Although it has been said that there are 35 million Mantras, even so his entourage is innumerable, and moreover, here they are in (their) most subtle form, and so (for these two reasons) it is said that (they number) 100 million. (Brahmā) is ‘supreme’. (He is) most excellent because, (in his) gross (form), he is present in the Egg of Bramā (in the manner) stated previously (that is, at its summit), and, as subtle, he is present in the principle of the intellect. Thus, because he is empowered (sākta), he is white, and his form has ten arms etc. Moreover: brahmānṇī tu parā śaktir yā sā mokṣapathe sthitā | dvaram ? yd mokṣamārgasya rodhayitvā vyavasthitā ॥ 1239 ॥ mokṣamārgapradātrī ca brahmotsaṁge ca saṁsthitā | Brahmānī is (his) supreme power and abides on the path to liberation. (She is) the door to the path of liberation; having blocked it, she is present there. She also bestows the path to liberation and sits next to Brahmā. (1239-1240ab) parety arthāt | mokṣapathe ---- śaivīṛ mukham ihocyate | She is, in other words, Parā. On the path to liberation — ‘Śiva’s power (śaivī) is said here (in the scriptures) to be (His) mouth (mukha) (which is the entrance to the realization of one’s own Śiva nature).’ (VB 20d) mokṣadvāram īśvarecchayā rundhānā sthitā | jṁāninaḥ prati mokṣamārga pradadāti tacchīlā \\\\ According to this teaching, (this) is the Path of Śakti, that faces upwards. Thus, with respect to the ignorant, by the Lord’s will, the door to liberation, which is the path of Śakti, is closed; (whereas) for those who know, she bestows and is the path to liberation.
 
 
 *[p. 367]* ^pg385
@@ -1150,7 +1150,7 @@ tacchaktyutsaṅgabhṛtsūryaśatakoṭtisamaprabhaḥ |
 
 This is (the world of Anāśrita, which is) the Principle of Power. This cosmic unfolding (prapañca), that extends up to the Earth Principle, belongs to it. Then (beyond it) is the Śiva Principle. There, located in the four directions, are Vyāpin (the Pervasive), Vyomātmaka (the Void), Ananta (Endless) and Anātha (Lordless), along with their powers. (The 
 
-[^1045]: SvT 10/1242. East ~ Sūkṣmā, South — Susūkṣmā, West - Amrtā, North ~ Amitā, and Vyāpinī in the centre. The next line describes them all as having ‘five faces with three eyes (each). They are very radiantly energetic and very powerful.’ Cf. NT 22/42cd- 43ab: sūkṣmā caiva susūkṣmā ca hy amṛtāmṛtasarṁbhavā | vyāpinī caiva vikhyātā śaktitattvasamāśritāḥ || ‘Sūkṣmā (Subtle), Susūkṣmā (Very Subtle), Amṛtā (Immortal), the one Born from the Immortal and the one known as Vyāpinī (the Pervasive One) are (all) located in the principle of Sakti. Kṣemarāja explains: śaktitattvam iti śaktivyí ākhyasthānadvayavyāpi, na tu saktisthānam eva vyāpinyāḥ śaktipadordhvagaśūnyātiśūnyāśrayatvāt | “The principle of Sakti’ pervades two places called Sakti and Vyāpinī (the Pervasive One). It is not just the place of Sakti, because Vyāpinī rests within the Void beyond the Void.
+[^1045]: SvT 10/1242. East ~ Sūkṣmā, South — Susūkṣmā, West - Amṛtā, North ~ Amitā, and Vyāpinī in the centre. The next line describes them all as having ‘five faces with three eyes (each). They are very radiantly energetic and very powerful.’ Cf. NT 22/42cd- 43ab: sūkṣmā caiva susūkṣmā ca hy amṛtāmṛtasarṁbhavā | vyāpinī caiva vikhyātā śaktitattvasamāśritāḥ || ‘Sūkṣmā (Subtle), Susūkṣmā (Very Subtle), Amṛtā (Immortal), the one Born from the Immortal and the one known as Vyāpinī (the Pervasive One) are (all) located in the principle of Sakti. Kṣemarāja explains: śaktitattvam iti śaktivyí ākhyasthānadvayavyāpi, na tu saktisthānam eva vyāpinyāḥ śaktipadordhvagaśūnyātiśūnyāśrayatvāt | “The principle of Sakti’ pervades two places called Sakti and Vyāpinī (the Pervasive One). It is not just the place of Sakti, because Vyāpinī rests within the Void beyond the Void.
 
 *[p. 370]* ^pg388
 
@@ -1248,7 +1248,7 @@ The Equal One (Samanā)
 सर्वेषां कारणानां सा कर्तृभूता व्यवस्थिता ।
 विभ्यण्डान्यनेकानि शिवेन समधिष्ठिता ॥ ४ ०१ ॥
 
-sivatattvordhvataḥ śaktiḥ parā sā samanāhvayā I| 400 II sarvesam kāraṇānāri sā kartṛbhūtā vyavasthitā |
+sivatattvordhvataḥ śaktiḥ parā sā samanāhvayā || 400 || sarvesam kāraṇānāri sā kartṛbhūtā vyavasthitā |
 bibharty andāny anekāni śivena samadhiṣṭhitā ॥ 401 ॥ 
 
 Above the Śiva Principle is the supreme power called the Equal One (Samanā); it is the agent, governed by Śiva, of all the (universal) causes, and sustains countless cosmic eggs." (400cd-401) (400-401ab) 

@@ -16,8 +16,7 @@ language:
   - Sanskrit
 pages: 1
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Grade1_Slokas.pdf]]"
 aliases:

@@ -19,8 +19,7 @@ language:
   - Sanskrit
 pages: 132
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Tantraloka-chapter-1.pdf]]"
   - "[[Library/Trika/TAA-CHAPTER-III-with-Sanskrit.pdf]]"

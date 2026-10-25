@@ -17,8 +17,7 @@ language:
   - English
 pages: 20
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The_Heads_of_the_Godhead_The_Number_of_H.pdf]]"
 aliases:

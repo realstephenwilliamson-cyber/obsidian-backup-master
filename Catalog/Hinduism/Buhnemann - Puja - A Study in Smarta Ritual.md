@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 269
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Buhnemann - Puja (1988).pdf]]"
 aliases:

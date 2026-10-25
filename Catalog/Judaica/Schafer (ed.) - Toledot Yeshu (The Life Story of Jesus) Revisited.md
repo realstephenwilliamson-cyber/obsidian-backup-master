@@ -19,8 +19,7 @@ language:
   - English
 pages: 313
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Schafer, Meerson, Deutsch (eds.) - Toledot Yeshu Revisited (TSAJ 143).pdf]]"
 aliases:

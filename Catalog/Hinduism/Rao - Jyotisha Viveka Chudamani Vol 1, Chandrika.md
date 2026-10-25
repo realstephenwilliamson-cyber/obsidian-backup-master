@@ -19,7 +19,7 @@ language:
 pages: 760
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Rao, Rao - Jyotisha Viveka Chudamani, Volume 1.pdf]]"
 aliases: []

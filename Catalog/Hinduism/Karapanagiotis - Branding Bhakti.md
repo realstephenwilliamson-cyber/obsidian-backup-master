@@ -17,8 +17,7 @@ language:
   - English
 pages: 288
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Karapanagiotis - Branding Bhakti (2021).pdf]]"
 aliases:

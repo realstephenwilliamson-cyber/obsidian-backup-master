@@ -17,8 +17,7 @@ language:
   - English
 pages: 30
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Torzsok - Women in Early Sakta Tantras, Duti, Yogini and Sadhaki (2014).pdf]]"
   - "[[Library/Trika/Women in Early Sakta Tantras (Torzsok)]]"

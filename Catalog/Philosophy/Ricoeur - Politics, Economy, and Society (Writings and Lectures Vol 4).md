@@ -19,8 +19,7 @@ language:
   - English
 pages: 247
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Paul Ricoeur - Politics, Economy, and Society_ Writings and Lectures, Volume 4-Polity (2021).pdf]]"
   - "[[Library/Philosophy/Politics, Economy, and Society (Ricoeur)/Politics, Economy, and Society (Ricoeur)]]"

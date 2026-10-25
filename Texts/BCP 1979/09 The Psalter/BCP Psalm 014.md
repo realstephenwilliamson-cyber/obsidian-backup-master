@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 14
 verses: 7
-page_range:
-  - 599
-  - 599
+page_range: "599"
 aliases:
   - "BCP Psalm 14"
   - "BCP 599"
@@ -44,7 +42,7 @@ because God is in the company of the righteous. ^14-5
 **14:6** Their aim is to confound the plans of the afflicted, \*  
 but the LORD is their refuge. ^14-6
 
-[p. 599]
+[p. 599] ^pg599
 
 **14:7** Oh, that Israel's deliverance would come out of Zion! \*  
 when the LORD restores the fortunes of his people,  

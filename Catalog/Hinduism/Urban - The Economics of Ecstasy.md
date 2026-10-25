@@ -17,8 +17,7 @@ language:
   - English
 pages: 305
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Hugh B. Urban - The Economics of Ecstasy_ Tantra, Secrecy and Power in Colonial Bengal (2001).pdf]]"
 aliases:

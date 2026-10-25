@@ -5,9 +5,7 @@ section: "The Daily Office"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/DailyOffice/canticle.html"
-page_range:
-  - 144
-  - 146
+page_range: "144–146"
 aliases:
   - "BCP 144"
   - "BCP 145"
@@ -17,7 +15,7 @@ aliases:
 
 [[BCP 1979]] · *The Daily Office* · pages 144–146
 
-[p. 144]
+[p. 144] ^pg144
 
 ### Suggested Canticles at Morning Prayer
 
@@ -67,7 +65,7 @@ New Testament Reading*
 
 \4. or 16. Benedictus Dominus · \7. or 21. Te Deum laudamus
 
-[p. 145]
+[p. 145] ^pg145
 
 ### Suggested Canticles at Evening Prayer
 
@@ -99,7 +97,7 @@ New Testament Reading*
 
 *\* If only one Reading is used, the suggested Canticle is the Magnificat.*
 
-[p. 146]
+[p. 146] ^pg146
 
 **Psalm 95: Traditional** *Venite, exultemus*
 

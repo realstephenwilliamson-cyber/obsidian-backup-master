@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 21
 verses: 14
-page_range:
-  - 609
-  - 609
+page_range: "609"
 aliases:
   - "BCP Psalm 21"
   - "BCP 609"
@@ -28,7 +26,7 @@ how greatly he exults in your victory! ^21-1
 **21:2** You have given him his heart's desire; \*  
 you have not denied him the request of his lips. ^21-2
 
-[p. 609]
+[p. 609] ^pg609
 
 **21:3** For you meet him with blessings of prosperity, \*  
 and set a crown of fine gold upon his head. ^21-3

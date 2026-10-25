@@ -17,8 +17,7 @@ language:
   - English
 pages: 254
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Tollefsen - The Christocentric Cosmology of St Maximus the Confessor (OUP 2008).pdf]]"
   - "[[Library/Christianity/The Christocentric Cosmology of St Maximus the Confessor (Tollefsen)/The Christocentric Cosmology of St Maximus the Confessor (Tollefsen)]]"

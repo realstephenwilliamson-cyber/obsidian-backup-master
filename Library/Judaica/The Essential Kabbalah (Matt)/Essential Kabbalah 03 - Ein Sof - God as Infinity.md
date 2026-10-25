@@ -4,11 +4,11 @@ book: "[[The Essential Kabbalah (Matt)]]"
 order: 3
 page_range: "23–35"
 ---
-[p. 23]
+[p. 23] ^pg23
 
 # ![[essential-kabbalah-9780062048134_023.png]] Ein Sof: God as Infinity
 
-[p. 24]
+[p. 24] ^pg24
 
 ### NONDUALITY
 
@@ -20,13 +20,13 @@ Do not attribute duality to God. Let God be solely God. If you suppose that Ein 
 
 BEFORE ANYTHING emanated, there was only Ein Sof. Ein Sof was all that existed. Similarly, after it brought into being that which exists, there is nothing but it. You cannot find anything that exists apart from it. There is nothing that is not pervaded by the power of divinity. If there were, Ein Sof would be limited, subject to duality. Rather, God is everything that exists, though everything that exists is not God. It is present in everything, and everything comes into being from it. Nothing is devoid of its divinity. Everything is within it; it is within everything and outside of everything. There is nothing but it.
 
-[p. 25]
+[p. 25] ^pg25
 
 ### GOD’S ENCAMPMENT
 
 WHEN YOU contemplate the Creator, realize that his encampment extends beyond, infinitely beyond, and so, too, in front of you and behind you, east and west, north and south, above and below, infinitely everywhere. Be aware that God fashioned everything and is within everything. There is nothing else.
 
-[p. 26]
+[p. 26] ^pg26
 
 ### THE CHAIN OF BEING
 
@@ -36,7 +36,7 @@ There is nothing—not even the tiniest thing—that is not fastened to the link
 
 The entire chain is one. Down to the last link, everything is linked with everything else; so divine essence is below as well as above, in heaven and on earth. There is nothing else.
 
-[p. 27]
+[p. 27] ^pg27
 
 ### EIN SOF AND YOU
 
@@ -44,13 +44,13 @@ EACH OF US emerges from Ein Sof and is included in it. We live through its disse
 
 Delve into this. Flashes of intuition will come and go, and you will discover a secret here. If you are deserving, you will understand the mystery of God on your own.
 
-[p. 28]
+[p. 28] ^pg28
 
 ### YOU ENLIVEN EVERYTHING
 
 THERE MUST be a contraction of God’s presence. For if we believe that Ein Sof emanated the emanation and does not clothe itself within, then everything that emanated is outside of it, and it is outside of everything. Then there are two. So we must conclude that nothing is outside of God. This applies not only to the sefirot but to everything that exists, large and small—they exist solely through the divine energy that flows to them and clothes itself in them. If God’s gaze were withdrawn for even a moment, all existence would be nullified. This is the secret meaning of the verse: “You enliven everything.” So divinity flows and inheres in each thing that exists. This is the secret meaning of the verse: “God’s presence fills the entire world.” Contemplating this, you are humbled, your thoughts purified.
 
-[p. 29]
+[p. 29] ^pg29
 
 ### EIN SOF
 
@@ -62,7 +62,7 @@ One should avoid fashioning metaphors regarding Ein Sof, but in order to help yo
 
 Ein Sof cannot be conceived, certainly not expressed, though it is intimated in every thing, for there is nothing outside of it. No letter, no name, no writing, no thing can [p. 30] confine it. The witness testifying in writing that there is nothing outside of it is: “I am that I am.” Ein Sof has no will, no intention, no desire, no thought, no speech, no action—yet there is nothing outside of it.
 
-[p. 31]
+[p. 31] ^pg31
 
 ### DIVINE LIFE
 
@@ -74,7 +74,7 @@ IN THE FLOW of the holy spirit, one feels the divine life force coursing the pat
 
 THE THEORY of evolution accords with the secrets of Kabbalah better than any other theory. Evolution follows a path of ascent and thus provides the world with a basis for optimism. How can one despair, seeing that everything evolves and ascends? When we penetrate the inner nature of evolution, we find divinity illuminated in perfect clarity. Ein Sof generates, actualizes potential infinity.
 
-[p. 32]
+[p. 32] ^pg32
 
 ### HERETICAL FAITH
 

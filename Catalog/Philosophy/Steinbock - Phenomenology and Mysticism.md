@@ -17,8 +17,7 @@ language:
   - English
 pages: 329
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Steinbock - Phenomenology and Mysticism (2007).pdf]]"
   - "[[Library/Philosophy/Phenomenology and Mysticism (Steinbock)/Phenomenology and Mysticism (Steinbock)]]"

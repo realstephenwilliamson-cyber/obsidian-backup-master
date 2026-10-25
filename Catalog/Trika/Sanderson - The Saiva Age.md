@@ -18,8 +18,7 @@ language:
   - English
 pages: 309
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Sanderson - The Saiva Age (2009).pdf]]"
   - "[[Library/Trika/The Saiva Age (Sanderson)/The Saiva Age (Sanderson)]]"

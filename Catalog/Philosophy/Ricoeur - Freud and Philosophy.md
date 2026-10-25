@@ -19,7 +19,7 @@ language:
 pages: 585
 text: searchable
 status: reading
-physical_copy: true
+print: true
 files:
   - "[[Ricoeur - Freud and Philosophy (1970).pdf]]"
   - "[[Library/Philosophy/Freud and Philosophy (Ricoeur)/Freud and Philosophy (Ricoeur)]]"

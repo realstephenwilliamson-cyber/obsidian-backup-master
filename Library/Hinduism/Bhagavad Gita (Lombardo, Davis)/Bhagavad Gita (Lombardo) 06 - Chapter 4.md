@@ -6,7 +6,7 @@ page_range: "27–32"
 aliases:
   - "Gita (Lombardo) 4"
 ---
-[p. 27]
+[p. 27] ^pg27
 
 ## Chapter Four
 

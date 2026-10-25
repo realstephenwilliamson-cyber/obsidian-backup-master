@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 418
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Sanskrit/22 A Sanskrit Reader Text, Vocabulary and Notes.pdf]]"
   - "[[Library/Sanskrit/A Sanskrit Reader (Lanman)/A Sanskrit Reader (Lanman)]]"

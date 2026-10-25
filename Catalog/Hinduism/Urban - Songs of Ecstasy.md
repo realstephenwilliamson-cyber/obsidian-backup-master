@@ -17,8 +17,7 @@ language:
   - English
 pages: 200
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Hugh B. Urban - Songs of Ecstasy_ Tantric and Devotional Songs from Colonial Bengal (2001).pdf]]"
 aliases:

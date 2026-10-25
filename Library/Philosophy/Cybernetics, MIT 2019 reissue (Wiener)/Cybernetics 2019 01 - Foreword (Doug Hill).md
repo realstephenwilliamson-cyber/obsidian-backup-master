@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Wiener - Cybernetics]]"
 book: "[[Library/Philosophy/Cybernetics, MIT 2019 reissue (Wiener)/Cybernetics, MIT 2019 reissue (Wiener)|Cybernetics, MIT 2019 reissue (Wiener)]]"
 order: 1
 source_pdf: "Library/Philosophy/Wiener - Cybernetics (2019).pdf"
-pages: "ix–xx"
+page_range: "ix–xx"
 pdf_pages: "11–22"
 text_source: "the PDF's own text layer (PyMuPDF)"
 converted: 2026-10-22

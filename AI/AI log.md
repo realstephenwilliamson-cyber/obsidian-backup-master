@@ -5,6 +5,255 @@ type: log
 
 What each AI session changed in the vault, newest first: the date, what changed (with counts), where the backups are, and where the full record is. The [[House rules for AI work|house rules]] ask for an entry after every session. The entries up to the morning of 12 October 2026 were moved here from the Vault Guide's History section.
 
+## 25 Oct 2026 (14:20–15:30): corrections ahead of the week — S1's house rules, decisions for S2/S3, S3's small items and C-01, S6, S7's markers, S8's Radhakrishnan (Opus chat)
+
+- **Start.** Stephen: 4% of the week left (reset Mon 26 Oct, 11:00); runner on, no other AI. Probe pf80: 39,403 files, 36,795 notes, unresolved 14 files / 28 links (the new one: the 24 Oct daily note's link to the unwritten 25 Oct note).
+- **Decisions, with Stephen** (pf83; 8 notes, 26 edits):
+  - S1, the house rules (decision 31): `vault_agent` in rule 1; rule 4 has a narrow exception — a plugin setting Stephen names in the chat may be changed on the laptop through the plugin's own settings save, never by writing its files, and logged — and rule 13 and the Guide's *For AIs* say so (a line in [[Vault Guide history]]); a bullet for laptop agents (backup before a direct write, the notes listed in the log, bulk edits through the runner, restart after direct writes); the runner's name order and `RUNNER_STOP`; 30 MB per file / 100 MB per call; the commit wait is now 15 seconds (Stephen's choice); the figures and project-doc pointers of 25 Oct; "assume Sync is on" as rule 14 says. J3-18 not done.
+  - S2: the 37 "Tos" cases all approved (36 to *Zohar 12.12*, the only note that translates the passages printed as Tosefta on 1:32a, 37a, 54b, 60a and 3:55b; 12.05 L2460 to 10.07). Not applied yet; recorded in [[Audit decisions (19 Oct 2026, second round)]].
+  - S3: E-06's Matot row links `[[Zohar 12.11 - Zohar al ha-Parashot#^parashat-mattot]]` (a new block id on the PARASHAT MATTOT line); J2-07, Fürlinger's page: the doctorate (2005) falls during his years in North India (2001–2006 on his publisher's author page, opened today; 2002–2006 on the Zwischenräume profile), from 2007 Krems and Vienna.
+- **S8, decision 6, Radhakrishnan** (pf85): the text layer redone with the English model only (`ocrmypdf --redo-ocr -l eng`, sandwich renderer, not `--force-ocr`, which would have re-encoded every page and doubled the file). Devanagari letters in the layer 12,394 on 894 pages → 0; words 319,076 → 319,061; the 962 page images byte-identical; 38.0 → 38.8 MB. Old PDF in the backup folder; the catalog note's 15 Oct line marked replaced and a dated line added. A second reader on three pages: English prose 96–97% right; the transliterated Sanskrit verse lines poor (as expected without diacritics).
+- **S6, footnotes:**
+  - Finn, Törzsök, Rastogi (pf84; 13 notes, 94 edits): J2-02's 21 split definitions (edit 20 as "p. 213."), J2-01, J2-04; 19 duplicated calls (J2-03's 9, the 7 older, 3 with partial digits); J1-19's junk glyphs before 20 calls and note 407's label; in Finn Part 4 the calls 37/38 as printed and note 37 split from 36; in Finn Part 8 GANDHARVĪ 13, MAIDEN 15, APSARAS 16 with note 16 split from 15 (found by the independent check). Check: 30 seeded places read blind on the page images — 29 agreed, the 30th found the Part 8 cluster.
+  - Dhvanyāloka (decision 13; pf86; 17 notes): of the 179 calls followed by a quote mark or asterisk, two readers looked at each printed line: 161 marks removed (no mark printed); 18 left (call not seen 6, number differs 4, uncertain 4, not cropped 3, a quote printed before the number 1).
+  - Bang's thesis (decision 24; pf87; 5 notes): 11 footnotes where the call and the whole note text are in the Markdown and the layer (7 by rule, 4 whose note text sat at the end of a body paragraph); all 11 checked on the page images. Left: about 60 notes on the edition pages, whose Markdown is garbled OCR, and 21 that may run on.
+  - Left for later: 25 Finn definitions that swallowed the next note ("… 110\. The Sanskrit …"), and 4 uncalled raised numbers in Finn (e.g. "personalityž3").
+- **S7, decision 28** (pf90; 122 notes, 675 ids): `^pgK` on the bare page markers. *Paramārthasāra* (Bansat-Boudon; 414): K the PDF page, from the PDF's own page labels and a text match of each page (403 agree; 11 older markers give the PDF page as if printed — front matter and four others — and keep their wording). Seven of the eight books (Ehrman's *Forgery*, Matt's *Essential Kabbalah*, Lombardo's *Gītā*, Broo, Olesen, Fink, Padoux; 248) and the 13 in ten Zohar front-matter notes come from EPUBs with no PDF, so, as for the Prayer Book on 24 Oct, the id is the printed page (`^pg93`, `^pgxv`). pf91: all 675 registered. The Daily Office Lectionary's page lines stay bare, as before.
+- **S3, after the first close** (pf93–pf97; pf93 and pf94 read-only):
+  - D-19 (pf95): *Aquinas Summa II-II Q069* L93 links [[DRB Ezekiel 22#^22-27|Ezekiel 22:21]] with "[as printed; the verse is 22:27]" (the D04 rule). D-20: *Leviathan* (1651) ch. 33 L150–160, 9 references linked (Joshua 13:13, 14:14, 15:63; Judges 1:21, 1:26, 6:24, 10:4, 15:19, 17:6). E-17: *Ruppel - Vocabulary* p. 427 → p. 411 and *Ruppel 15* p. 166 → p. 150, the printed pages.
+  - C-01 (pf94 count, pf96 apply; 58 notes): 1,456 footnote numbers printed with four digits but split by the OCR (`102\. 9 …` → `1029 …`), each confirmed as a four-digit note number on its PDF page — Augustine NPNF1 6: 759 in 21 notes; Chrysostom on Matthew (NPNF1 10): 438 in 16; Gregory of Nyssa NPNF2 5: 259 in 20 (the same CCEL layout; the audit's 441 counted only NPNF1). Chrysostom on Matthew 08: footnote 526 ("Matt. xxv. 30.", PDF 155) restored before its page marker. Left: C-01(b), runs of two or more footnotes on one line.
+  - J1-21 (pf97): [[Alexis Sanderson]], Emeritus Fellow of All Souls since 2015 and Spalding Professor 1992–2015 (the All Souls and OCHS pages, opened today); [[Teun Goudriaan]], associate professor at Utrecht 1965–1991, retired 1991, died 28 Aug 2016 (the Dutch Studies page and the INDOLOGY list, opened today).
+  - E-15 is moot: S10 rewrote the decide-later note's headings and counts on 24 Oct.
+- **Checks:** every changed note compared with the text it should have (8 + 13 + 17 + 5 notes, then 2 + 58 + 2: all as intended); unresolved 14/28 before and after every job; divine name: none written (counts only).
+- Backups: `.work/backup-corrections-2026-10-25/` (`s1-decisions`, `s6a-footnotes`, `s6b-dhvanyaloka`, `s6c-bang`, `s7-markers`, `s8-radhakrishnan`, `close1`, `s3a`, `s3-c01`, `s3-j121`, `close2`). Jobs pf80–pf91 and their data to `.trash/work-corrections-2026-10-25/` by pf92. Record: the project doc *Corrections ahead of the week (25 Oct 2026) - record*.
+
+## 24 Oct 2026 (01:10–01:20): the rest of S3's ready edits (Opus chat)
+
+- Stephen, still at 96%: anything else worth doing. pf77 dry run, pf77b target check (33 of 33 present), pf78 apply: 34 edits in 5 notes, 0 refused.
+- *RCL to Jewish and Patristic Concordance*:
+  - E-06: the Ki Tavo row links the Zohar (Zohar 12.11, ^zh-59d) instead of "no English Zohar note"; the Matot row needs a new block id and stays (a decision).
+  - E-07: the 21 John chapters' Catena column links each chapter's first page in the Catena notes, not the page map.
+  - E-10: Pratyabhijñā in the John 1 row linked to its concept.
+- *Primary to Secondary Literature Matrix*:
+  - E-08: `Library/Catalog/` → `Catalog/` (2).
+  - E-10: the eight terms linked to their concepts (Prakāśa-Vimarśa, the four upāyas, Dvādaśa-Kālī, Mātṛkā, Hobbesian *Artificial Man*, Threefold Frame, Crisis of Curation, Attestation).
+- *Incomplete Sets and Scholar Research Guide* (E-09): Pritzker vol. 11 ticked; Hobbes's own 1651 text pointed to [[Leviathan (1651)]].
+- The Guide:
+  - E-12: the John hub's NRSVue and JANT folders named.
+  - E-13: the stale "not linked yet" about Zohar vol. 11 dropped. A line in [[Vault Guide history]].
+- [[Bihani Sarkar]] (J2-06): her two books named from the Lancaster profile read on 19 Oct (the audit's reading; not re-opened tonight).
+- Checks: unresolved 13 files / 27 links before and after; every new link's note and block exist; divine name: none written.
+- Backups: `.work/backup-corrections-2026-10-24/s3b/`. Jobs pf77–pf78 and data moved to `.trash/work-corrections3-2026-10-24/` by pf79, which stays in `.work/queue/done/`.
+
+## 24 Oct 2026 (00:40–01:10): corrections S7 and S10, with decision 15's links (Opus chat)
+
+- Stephen at 96% of the week: "do s7 and 10". Read-only survey pf70; dry runs pf71, pf71b, pf71c; applied pf72, pf72b, pf72c; checks pf73, pf74.
+- **S7, edits-G** (pf72; 29 notes, 35 edits, 0 refused):
+  - G-01: the JANT essays' splice; the end of *The Historical Jesus* moved back from *Paul and Judaism*.
+  - G-05 (decision 26): the 8 OCR fragments in five *Mālinīvijayottara* notes escaped (`\#`), so they are no longer tags.
+  - G-06: tag names quoted in prose put in code spans in two archived notes, with the two prose `#page` uses the check pass found.
+  - G-07: the 13 chapter notes of `Texts/Devi Mahatmya` point to the DeviMahatmya.com edition's chapters for the Sanskrit and English, and the index says so.
+  - G-08: the DCS index's Monier-Williams path, and 18 āhnikas, not 19.
+  - G-09 (from S4): six words in *CIS - Sandhi* restored from Ruppel's PDF.
+  - J1-25: the D08 entry names its backups `d08c/` and `d08e/`.
+  - G-15: a line in the Guide's catalog block on `work` and `role` (the *Devī Māhātmya*).
+  - Moot: G-04 (Policardi's catalog note went with the PDF-only works on 22 Oct) and edits 16–17 (the Ruiz marked-pages note and Welcome are gone).
+- **S7, the computed parts** (pf72b):
+  - J1-22: in 26 catalog notes the older "Text layer" line, beside the 15 Oct one, now says it was replaced on 15 Oct (25 by the job; the Kalikapurana in the close job).
+  - Decision 28: `^pgN` block ids on 801 bare `[p. N]` lines in 219 Prayer Book notes (N the printed page; the Prayer Book notes have no PDF). Two lines in *The Lectionary - Various Occasions* print p. 929 twice and stay bare.
+  - **Not given ids:** the 69 page lines in `Texts/BCP 1979/15 Daily Office Lectionary`. The Daily Office view reads those lines only as an exact `[p. N]` and takes Year One or Two from the page number, so an id there would break the Office.
+  - **Left:** 662 bare markers in eight library books (*Paramārthasāra* 414, *The Essential Kabbalah* 102, Ehrman's *Forgery* 58, Lombardo's *Gītā* 23, Broo 21, Olesen 17, Fink 16, Padoux 11) and 13 in four Zohar notes. Their `^pgK` must be the PDF page, so they need the PDFs.
+  - Decision 33: [[Devi Mahatmya - notes in Texts]], a `type: text` catalog note for the 30 notes of `Texts/Devi Mahatmya` (63 `type: text` notes now).
+  - L-06: the 14 Oct scans au19–au21 copied into `AI/Prompts/Scripts/Health checks/`.
+  - J2-10: the footnote readings dated 18 Oct in 27 notes' `text_source`, and the Holy Days work whose code comments say 18 Oct, are the work this log records under 19 Oct. Both began on 18 Oct (the backup folders are `backup-footnotes-2026-10-18` and `backup-holydays-2026-10-18`) and ran past midnight; the notes keep their dates.
+  - K-30: `AI/AI.md` checked; it is current.
+  - I-16, for Stephen: the `.work` scratch outside the backups and the runner is about 162 MB. That is `analysis-2026-10-06` 104.5 MB, `out` 47.5 MB, `p4` 5.8 MB, `fx` 2.2 MB, `edits` and `queue` 1 MB each. Decision 25 keeps it until after the corrections week.
+- **S10, with decision 15** (from S3; pf72c, 13 notes, 15 edits):
+  - The misprints and versification cases linked to the verse meant, in the D04 form `[[target|as printed]] [as printed; the verse is …]`:
+    - Hoffmeier's "44:14" → Jer 46:14.
+    - The *Summa*'s Psalm 13:11, 1:7, 18:33, 1:19 and 1:14 → Douay-Rheims Ps 113:11, 50:7, 118:33, 50:19 and 50:14.
+    - Hobbes's Mark 9.44, 46 → Douay-Rheims 9:43, 9:45 (and 48 linked as printed).
+    - *Gifts from the Goddess* "Mark 12:13" → 12:31.
+    - The JANT essay on prayer "Num 16.37–41" → 15:37–41.
+    - The JANT glossary "Exod 20.26" → 30:26.
+  - Linked plainly: the *Summa*'s John 5:4 (Douay-Rheims) and JANT Hebrews 11's "1 Kings 19.13" (now to LXX 3 Kingdoms 19:13).
+  - Each target block was read after the apply: it holds the words quoted.
+  - [[Bible references to decide later]] condensed:
+    - Sections 1–2 list only the 17 references still plain (7 left unlinked on 15 Oct, 10 with a reason to leave them), at today's line numbers.
+    - Section 3 keeps all its rows; the eight now linked are marked.
+    - The 13 Oct per-book counts are gone, and a 24 Oct paragraph replaces the 14 and 19 Oct ones.
+  - [[Scholars]]: the first 30 profiles are pages now; 71 pages, two names left to profile.
+- **Checks:**
+  - Unresolved 13 files / 27 links before and after every job.
+  - The five *Mālinīvijayottara* notes carry no tag.
+  - Prayer Book bare markers: 69 in the Daily Office Lectionary (untouched) and 2 elsewhere; 801 with ids.
+  - Frontmatter reads in every note checked.
+  - Render (pf74, Obsidian brought to the front, then control released): Home, the 21 Oct daily note, the Daily Office for 25 Oct and 1 Nov (Year Two, the right psalms), BCP Psalm 148 (the new ids do not show in reading view), the condensed decide-later note and the new catalog note drew with no errors.
+  - Divine name: none written (0 in every new or replacing text). The condensed decide-later note keeps one quoted source line that has it, down from two (counts only).
+  - One `#texts` tag is still indexed somewhere outside these edits; it was not looked for.
+- Backups: `.work/backup-corrections-2026-10-24/` (`s7`, `s7-dyn`, `s10`, `close2`). Jobs pf70–pf75 and their data moved to `.trash/work-corrections2-2026-10-24/` by pf76, which stays in `.work/queue/done/`.
+
+## 24 Oct 2026 (00:00–00:45): missed corrections; S3's small items; decisions 10 and 30; Haksar's PDF restored (Opus chat)
+
+- **Start.** Stephen asked for a fresh look at what earlier sessions had missed. Read-only survey (pf60): 39,414 files, 36,810 notes; unresolved links 13 files / 27 links. No script, template, view, Base or live prompt still writes `physical_copy`, `status: keep` or `pages` as a range; *PDF-only works*' "physical_copy tick" was the one stale mention (now `print: true`).
+- **Missed, now put right:**
+  - Decision 16b–d had been built on 19 Oct (evening), but the corrections prompt still scheduled it. The Holy Days table still offered All Saints on Sun 8 Nov 2026, and its generator (`yearRows` in `holyday/view.js`) would have written that row again: the row is gone and `yearRows` skips it when 1 Nov is a Sunday.
+  - The "not yet written" to-do of decision 27 was Home's list, removed on 19 Oct.
+  - Haksar's *Treasury of Sanskrit Poetry*: the checklist ticked the empty `25 A Treasury of Sanskrit Poetry.pdf.md` on 21 Oct, but the PDF beside it had gone to `.trash` instead, so the catalog's *Open the PDF* opened the empty note. At Stephen's choice the PDF is back in `Library/Sanskrit/` (8.6 MB, registered with `reconcileFile`) and the empty note is in `.trash`.
+  - The checklist's Romdenh-Romluc line ticked (decision 20, done 22 Oct).
+- **S3, the small items** (pf61 dry run, pf62; 23 notes, 79 edits, 0 refused):
+  - C-09: 2 Esdras 2:42-47 linked in the Holy Days table and *BCP - Daily Office - Holy Days*; the 19 Oct entry's "has no verse note" carries a dated correction.
+  - Decision 18: "appointed of fixed days" → "on fixed days" in the BCP Calendar note and the Holy Days quote, as the 19 Oct check pass read p. 17. bcponline.org, the vault's source for these notes, prints "of".
+  - Decision 16a (C-10): the Daily Office Engine's *Known gaps* states the Christmas rule (order of occurrence, Stephen, 19 Oct) and drops the four OCR slips, none of which is left in the lectionary notes. The Holy Days note names the 2026 case beside 2027, dates the choice 19 Oct and has a line for decision 16b.
+  - C-05 (decision 17): seven ranges in *Synoptic parallels* (rows 14a, 19e, 19g, 23f, 23g, 25a, 25b), with a bullet saying where and why they leave the BSB's parallels.
+  - C-06: Chrysostom's Homily 71 is John 13:12–18 (property and index), with the index's note that New Advent heads it 13:1.
+  - C-11: `Writing/` → `Projects/` in the Homily, Polyphonic and Hub templates and the today-study fallback; the concordance's folder paths and its §2 heading (no link used the heading).
+  - C-12: the map labels in JANT Matthew 3's note on 3:17 removed; the 4.1–11 section head moved to JANT Matthew 4 in the notes' own form, with no new block id.
+  - C-16: 46 stray `****Psalm**** **Lessons**` lines in six lectionary notes (the audit counted 28 in three).
+- **Decision 10** (Stephen confirmed): Whitney's 15 notes and catalog note to `.trash`; nothing else linked them. [[Open items]] (one scan left) and the Guide's count (472 catalog notes with a Markdown copy) follow, with a line in [[Vault Guide history]].
+- **Decision 30, the last diff** (Stephen approved it as shown): in `Journal/2026/2026-10-03.md` the first *pratyabhijñā* links to [[Pratyabhijna as Johannine Hermeneutic]].
+- **[[Audit corrections (Oct 2026)]]** (and the project doc's copy): the box lists what is done (decision 16b–d, the "not yet written" to-do, tonight's items); S3 starts with what to skip; E-10's safe links, which were in no batch, are added to S3; S5(h), S7 and decision 30 marked; the `date` type is optional (decision 4).
+- **Checks:**
+  - Every changed note was replayed against its backup and is exactly as intended. The two JANT notes, whose backups sit too deep for the file bridge, were checked by their new text.
+  - Every new link target and block exists (pf61b).
+  - Render (pf67): the date header and the Daily Office for 18, 19 Oct, 1, 8 Nov and 27, 28 Dec 2026 drew with no errors; on 1 Nov the Office links 2 Esdras 2:42-47 and keeps psalms 111, 112; on 8 Nov All Saints is not offered.
+  - Unresolved links 13 files / 27 links before and after every job.
+  - Divine name: none written; 0 matches in the changed notes (counts only).
+- Backups: `.work/backup-corrections-2026-10-24/` (`s3-small`, `whitney-haksar`, `decision30`, `close`). Jobs pf60–pf68 and their data moved to `.trash/work-corrections-2026-10-24/` by pf69, which stays in `.work/queue/done/`. Full record: the project doc *Missed corrections and the All Saints items (24 Oct 2026) - record*.
+
+## 23 Oct 2026 (23:00–23:20): property corrections; `physical_copy` renamed `print`; `status: keep` removed (Opus chat)
+
+- **The audit's property items:** decisions 19, 29 and 30, G-13's two safe items and M-06, in one job (pf52b dry run, pf53): 839 notes.
+  - `pages` → `page_range` in the 529 library chapter notes that held a printed page range as text. The 384 index notes keep `pages`, the page count. The converter (`conv.py`, its two frontmatter lines) and *Add new files from Downloads* now write `page_range`.
+  - The BCP notes' list-valued `page_range`: 241 made text ("966–995"), 23 empty lists removed.
+  - `work: "Devī Māhātmya"` on the 14 main notes; `collection: "Devī Māhātmya"` on the 16 hymns recited with it (Stephen chose the value); `work: "Zohar"` on Zohar.md.
+  - The 11 Paramārthasāra chapter notes: `type: book-chapter`, `work` (the catalog note's title, as plain text), `order`, and `page_range` from their page markers. Five got their first frontmatter.
+  - Stephen's Sample Homily: `occasion: "Easter-5A"` (he approved the diff; decision 30).
+  - **Left:**
+    - Raina *Trika* 02's `page_range: d`: its own page marker reads "[p. d]", so J1-17 stays in the corrections prompt.
+    - psalm, cards, strongs, source and chapter: Stephen's, or left as they are.
+- **Stephen's requests (23:07):**
+  - `physical_copy` is now `print`, in 702 notes: 701 catalog notes and his Sample Homily.
+  - `status: keep` is gone from the 1,134 notes that had it (635 catalog notes, 499 Muktabodha notes): status is now empty once a note's details are settled.
+  - The 43 catalog check lines that said "`status: keep` since 14 Oct 2026" now say "accepted on 14 Oct 2026".
+  - Followed in (pf55 dry run, pf56b):
+    - the *Catalog Item* template (`status:` empty, `print: false`);
+    - *Shelf check*, *Physical Library* and *Catalog.base*, and the Philosophy and Other subject notes;
+    - quick capture (`Templates/Views/quick-capture/view.js`);
+    - the Guide's catalog block and notes;
+    - *Check catalog notes against their files* and *Add new files from Downloads*;
+    - *Vault Health & Phantom Link Manager* and `health-counts.js`.
+- **Checks:**
+  - 0 refused. Afterwards no note has `physical_copy` or `status: keep`, and 702 have `print`.
+  - Rendered (pf56a, pf56c): the Other, Philosophy and Trika subject notes show 19, 163 and 152 results before and after, so their `status != "delete"` filter keeps notes with no status.
+  - *Physical Library*: 28 results, the 28 with `print: true`. *Shelf check*: 701, with the *print* column (pf58).
+  - Unresolved links 13 files / 27 links before and after. Divine name: none written.
+- Backups: `.work/backup-props-2026-10-23/` and `.work/backup-print-keep-2026-10-23/`. Jobs pf51–pf58 and their data moved to `.trash/work-props-2026-10-23/` by pf59, which stays in `.work/queue/done/`. The corrections prompt's S4, S5 and S7 mark these items done.
+
+## 23 Oct 2026 (21:47–22:10): the corrections prompt rewritten for the vault as it is now; the Guide's History moved to *Vault Guide history* (Opus chat)
+
+- **Start.** No cheap loose ends were left in the Viveka work: what is left needs a fresh OCR or a large reading run. So the logs of 19–23 Oct were read against the Guide and the prompt for the 26 Oct week. Stephen then said a new prompt could supersede the old one, and that the history need not be user-facing.
+- **[[Audit corrections (Oct 2026)]] rewritten.** It keeps its name, so its links hold. The 19 Oct text is [[Audit corrections (Oct 2026) - 19 Oct text]] in `AI/Archive/`, marked superseded.
+  - **A *What changed since 19 Oct* box:**
+    - the vault's growth (36,808 notes, 39,413 files);
+    - the notes the edit files name that have changed since (13,024 Talmud links, the Viveka boxes, Dyczkowski's library copy), so edits are matched on their old text in a fresh bundle, never by a 19 Oct line number alone;
+    - what was retired or moved: Welcome, Plugins, *Plugin tweaks* (groups C and D now read from its backup), the lists that became *Open items*, the wish list, the archived routine prompts, Excalidraw, the Guide's History;
+    - what is already done: S0's checks, the read-me rows, decisions 27, 20, the first half of 33, the first diff of 30, and 22's Talmud row; S11's D6.
+  - **In the batches:**
+    - Stephen's side is down to the vault copy and the `date` type (the plugins were installed on 19 Oct).
+    - S1 is re-aimed at the reworked Guide, with the house rules' six changes and the 23 Oct figures.
+    - S2, S3 and S4 match on content: the Talmud links; the Viveka boxes and headings; A-01 under its `### TĀ 9.191` heading.
+    - S5: (a) the converter as saved on 22 Oct; (b) `pages` → `page_range` in 913 notes (pf45), not 153; (g) done.
+    - S7: decisions 22 and 27 left out; only the second half of decision 33; decision 30's two remaining diffs; decision 10 to be confirmed with Stephen (Whitney's 16 notes are still there, and *Open items* still lists the scan).
+    - S8: the Dyczkowski re-OCR changes the PDFs only (never regenerate the proofread library notes), and is to say whether a new layer could fill the 4,353 placeholders. For Graham, only the PDF's own layer is left.
+    - S10 and S11 trimmed: group D read from the backup copy; what is left of group C is on *Open items*.
+    - The wrap-up names the current State doc and [[Vault Guide history]].
+    - After October: maintenance mode from 6 Nov, so the 2 Nov reset is the last fallback, and the Monthly check-up runs `health-report.js` without an AI.
+- **The Guide:**
+  - Its History section (20 lines) moved to the new [[Vault Guide history]] in `AI/`, with a 23 Oct line at the top.
+  - The Sync sizes were measured on 23 Oct (pf46): 8.98 GB, of which PDFs are 7.96 GB in 691 files; 1.03 GB without them; a phone holds about 0.59 GB.
+  - The library row says about 900 notes still have `pages`.
+  - Pointers updated: the house rules (*After every session*: a line in *Vault Guide history*), *Prompts - read me* (its link to the Guide's History; this prompt's row), *Extend the calendar tables*, *Complete vault audit*.
+  - The dated "since …" asides elsewhere in the Guide stay: rewording them all would be a larger edit.
+- **Checks:**
+  - pf48 dry run, pf49 apply: 0 refused.
+  - Links to `Vault Guide#History`: 1 before, 0 after. Unresolved links 13 files / 27 links before and after.
+  - Divine name: 0 in every note written or edited (counts only).
+  - Read-only jobs: pf45 (the counts the prompt relies on), pf46 (sizes), pf47 (references to the History).
+- Backups: `.work/backup-guide-prompt-2026-10-23/`. Jobs pf45–pf49 and their data moved to `.trash/work-guide-prompt-2026-10-23/` by pf50, which stays in `.work/queue/done/`. The project doc *Audit corrections (Oct 2026) - prompt* now holds the same text as the vault's prompt.
+
+## 23 Oct 2026 (21:11–21:35): the leftovers of the earlier passes (Opus chat, a Sonnet reader)
+
+- The library copy of Dyczkowski's Tantrāloka again. Stephen asked to see what could be done with the ~190 items the earlier passes had left.
+- **Found:**
+  - 93 words from the evening reading that had not been settled;
+  - 121 candidates of the 23 Oct second pass (30 lost Ś in Sanskrit lines, 91 plain bracketed terms) that fail that pass's placement test, which is where its 90 unresolved items were.
+- **Placed:** 106 of the 214 were placed on their pages by fuzzy matching of the neighbouring words. For the other 108, the text layer around the word is mostly Devanagari junk.
+- **Read blind:** one Sonnet agent read the 106 on full-width strips.
+- **Results:**
+  - 28 changes in 25 notes (pf41 dry run, pf42), among them *Chagalāṇḍa*, *Mātṛkānyāsa*, *pūrṇatā*, *tāvat*, *doṣa*, *SāṁKā*, *tatsthaṁ*. Four odd abbreviations (*KṛṀ*, *mātṚrvargaiḥ*, *diṅmātṚḥ*, *Vīranetrī*), held back in the evening, now have two blind readers agreeing and are given as printed.
+  - 42 confirmed as already printed: 22 Ś candidates (*iva* the particle and the like) and 19 bracketed terms printed plain, plus one word from the evening.
+  - 24 boxes fell on the wrong word, 2 more readings were unclear, and 9 readings were another word; all were left as they are.
+- **Checks:**
+  - The reader's first pass on three sheets was written before the images loaded, and it redid them. The lead read one of them (L-02) on the image: 15 of 15 as transcribed.
+  - pf43: 25 of 25 notes as intended; 5,707 verse notes, 7,727 embeds, 0 broken; 8,871 headings.
+  - Unresolved links 13 files / 27 links before and after.
+  - Divine name: 0 before and after (counts only).
+- **Left:** about 140 of these items (108 not placeable, 35 unclear or another word).
+- Scripts `night_left.py` and `night_build_left.py` in `AI/Prompts/Scripts/Viveka English/`. Backups: `.work/backup-proof6-2026-10-23/`. Jobs pf41–pf43 and their data moved to `.trash/work-proof6-2026-10-23/` by pf44, which stays in `.work/queue/done/`. Full record: the project doc *Leftovers of the earlier passes (23 Oct 2026) - record*.
+
+## 23 Oct 2026 (19:20–20:15): the remaining "rn" and 758 `[illegible]` gaps (Opus chat, Sonnet readers)
+
+- The library copy of Dyczkowski's Tantrāloka again (Stephen: "start on the what's left list").
+- ṁ for the remaining word-final "rn": the words whose ṁ spelling is rare in the copy, leaving out English words and names such as Silburn.
+  - 582 words, by rule; sample: 40 of 40 printed with ṁ.
+  - With one retried word: 583 changes in 126 notes (pf34 dry run, pf35, pf36 check).
+- The `[illegible]` placeholders: 5,117 in the copy (4,955 runs). The PDF text layer under them is Devanagari junk: most are italic Sanskrit that Tesseract read as Devanagari.
+  - 3,214 runs were placed on their pages by the neighbouring words, and those gaps were re-OCR'd with Tesseract's Latin-script model.
+  - 783 passed a filter: Tesseract's quirks mapped to IAST, every word occurring at least three times in the copy, and no known slip pattern.
+  - Samples showed the re-OCR alone is not good enough: 38 of 46, then 45 of 50 on a fresh sample after tightening. So every one of the 783 was read blind on the page by Sonnet agents.
+  - A gap was filled only where the reading and the re-OCR agree on the letters (at most one apart), with the reading's marks: 758 gaps (764 placeholders) in 112 notes, 716 lines (pf37 dry run, pf38). Left: 8 where the two differ, 17 unclear.
+- Checks:
+  - The lead chat read two of the readers' sheets on the images: 30 of 30 gaps as transcribed. These were the two sheets whose first pass had been written before the images loaded.
+  - pf39: 112 of 112 notes as intended; 5,707 verse notes, 7,727 embeds, 0 broken; 8,871 headings.
+  - Unresolved links 13 files / 27 links before and after.
+  - Divine name in the library copy: 0 before and after (counts only).
+- Left:
+  - 4,353 placeholders: 1,741 runs the text layer could not place, about 2,200 whose re-OCR did not pass the filter, and 231 with no re-OCR text. They would need reading on the pages one by one.
+  - As before, the ~100 unclear words and the 90 second-pass items.
+- Scripts `night_*.py` in `AI/Prompts/Scripts/Viveka English/`. Backups: `.work/backup-proof5-2026-10-23/` (each note as it was before this pass first changed it; the AI log and *Viveka English scripts* before these edits). Jobs pf33–pf39 and their data moved to `.trash/work-proof5-2026-10-23/` by pf40, which stays in `.work/queue/done/`. Full record: the project doc *Remaining rn and the illegible gaps (23 Oct 2026) - record*.
+
+## 23 Oct 2026 (17:14–17:50): the last slips in Dyczkowski's English (Opus chat, Sonnet readers)
+
+- The library copy of Dyczkowski's Tantrāloka (`Library/Trika/Tantraloka (Dyczkowski)/`): 2,259 changes in 152 notes (2,038 lines). One patch, checked against each note's length and hash (pf29 and pf29b dry runs, pf30).
+- By rule, each rule sampled on the page images:
+  - ṁ that the OCR read as "rn" (*kirn*, *ittharn*, *uktarn* → *kiṁ*, *itthaṁ*, *uktaṁ*), only where that ṁ spelling occurs at least three times in the copy: 653. Sample: 38 of 40 as printed; the other two were left.
+  - What the earlier passes left inside words (rnṇ → rṇ, rnṁ → ṁ, *sarhv-* → *saṁv-*): 153. Sample: 23 of 25; the other two were left.
+  - ḥ in words of up to three letters in Sanskrit lines (*tāḥ*, *taḥ*, *yāḥ*, *kaḥ*): 95. Sample: 12 of 15; *aih* is printed *aiṁ* there, so *aih* was taken out of the rule.
+  - Daṇḍas at verse numbers that the OCR read as I|, Il, II, |I or |l: 839, made the same as the daṇḍa on the other side of the number (|| where both were misread). 8 of 8 looked at are printed as double daṇḍas.
+- Read word by word on the page images (807 words, 783 placed; four Sonnet agents, blind: given the neighbouring words, not the word). Applied where the reading was confident, the word was placed with two neighbour words matching, and the print differs from the copy only in marks or by a letter or two:
+  - ṇ ḍ ṭ ṣ found only by spellings in the copy: 336 changed, 45 already as printed, 61 left.
+  - A final ḥ where ṁ is likelier (*idaḥ* → *idaṁ*): 67 changed, 62 where the print has ḥ, 1 left.
+  - Short words ending in h in English lines: 71 changed (*taḥ*, *saḥ*, *kiṁ*), 19 left.
+  - Abbreviations: 43 changed (*PrHṛ*, *MṛV*, *MṛTvK*, *SKṛK*, *AMṛTE*, *SāṁKā*), 19 left.
+  - The print's own slips stay as printed (*Upaṇisads*, *Pāniṇi*, *Vaisṇava*, *Kālasaṁkarṣinī*).
+- Checks:
+  - The lead chat read 16 applied changes on fresh crops: 16 of 16 agree.
+  - pf31: 152 of 152 notes as intended; 5,707 verse notes, 7,727 embeds, 0 broken; 8,871 headings (unchanged).
+  - Unresolved links 13 files / 27 links before and after.
+  - Divine name in the library copy: 0 before and after (counts only).
+- Left (in [[Viveka English scripts]], *What is still imperfect*): Devanagari read as junk; word-final "rn" where the ṁ spelling is rare in the copy (about 620, names such as Silburn among them); about 100 words this reading left; the 90 items of the second pass (they cannot be told from the 305 already read and kept without reading all of them again).
+- Scripts `slips_*.py` in `AI/Prompts/Scripts/Viveka English/`. Backups: `.work/backup-proof4-2026-10-23/` (the 152 notes; this log, *Viveka English scripts* and [[Open items]] before these edits). Jobs pf28–pf31 and their data moved to `.trash/work-proof4-2026-10-23/` by pf32, which stays in `.work/queue/done/`. Full record: the project doc *Last slips in the Viveka English (23 Oct 2026) - record*.
+
+## 23 Oct 2026 (17:00–17:08): *Open items and free books* renamed *Open items*; the import and book lists closed; Excalidraw uninstalled (Opus chat)
+
+- At Stephen's request, `Notes/Open items and free books.md` was renamed [[Open items]] through Obsidian (pf22 dry run, pf23). The 23 links in 10 notes followed it, and no link uses the old name.
+- Stephen's word: all the major content imports are complete, and what was not added he decided not to add. The note's *Text imports* section (Ramban, Ibn Ezra, Onkelos, Midrash Rabbah, Sefat Emet, the GRETIL Devī Māhātmya) is gone and its opening paragraph says why; the Whitney line says no better scan is to be added. Sanderson's five papers are off the list (Stephen found no good links). So is the GitHub backup, which Stephen looks after himself; one line in the Guide's *Sync and backups* says it exists. Excalidraw is uninstalled on the laptop and the phone; the item stays open for the tablet only. Two lines' "tonight" replaced by the date.
+- Pointers updated (pf24 dry run, pf25; 17 anchored edits in 9 notes): the Guide (the `Notes/` row, *Excalidraw*, *Sync and backups*, and the 13 Oct History line that named the list twice); house rule 13 (its clause on drawings no longer names Excalidraw); [[Checklist for the next session]] (the Excalidraw line ticked); [[AI]] and [[Note Toolbar import (19 Oct 2026)]] (the link's old label); three catalog notes whose pointer to the book list led nowhere (Lessig, *Speak Truth to Power*, Gregory of Nyssa); the corrections prompt's *Changed since* note (decision 22's *Free downloads* rows and S10's lists no longer apply; S11's D6 is moot).
+- Checks (pf26 dry run, pf27): unresolved links 13 files / 27 links before, 13 / 27 after; links to the old name 0; [[Open items]] linked 20 times from 7 notes; divine name in the 13 notes touched: 0 in the backups, 0 now (counts only).
+- Backups: `.work/backup-openitems-2026-10-23/` (`before-rename/`: the note and the 10 notes that linked it; `before-edits/`: the 10 notes edited). Jobs pf21–pf26 and their data moved to `.trash/work-openitems-2026-10-23/` by pf27, which stays in `.work/queue/done/`. Record: the project doc *Open items (23 Oct 2026) - record*.
+- Left for Stephen: Excalidraw on the tablet, if it is installed there.
+
 ## 23 Oct 2026 (15:58–16:20): the catalog subject notes' column order; the dots below restored in Dyczkowski's English (Opus chat, continuing; Fable readers)
 
 - At Stephen's request, the columns of both views in the eight subject folder notes (`Catalog/<Subject>/<Subject>.md`) now run *Read*, the work's name, Author, Type, then the columns each view had (pf12–pf13, pf14–pf15). Hinduism gains a Type column; column widths are untouched. Backups in `.work/backup-catalog-read-2026-10-23/` (`left/`, `order/`).
@@ -30,7 +279,7 @@ What each AI session changed in the vault, newest first: the date, what changed 
 - One patch (pf02 dry, pf03 apply): 159 notes, 1,594 lines; each note changed only if it was exactly the text the patch was made from (length and FNV hash), and the result checked. The lead chat read 20 of the applied changes itself: 20 of 20 as the Fable readers had them.
 - Checks (pf04): 159 of 159 notes as intended; 5,707 verse notes, 7,727 embeds, 0 broken; 8,871 headings in the library copy (unchanged); unresolved links 13 files / 27 links (unchanged); divine name 0 in the library copy before and after.
 - Backups: `.work/backup-proof2-2026-10-23/`. Scripts saved in `AI/Prompts/Scripts/Viveka English/` (`cands.py`, `crops.py`, `build_patch.py`, `proof2-patch.js`, `reading-brief.txt`), with rows in [[Viveka English scripts]]. Jobs pe99 and pf01–pf06 and their data moved to `.trash/work-proof2-2026-10-23/` (pf07, which made the last move, stays in `.work/queue/done/`). Record: the project doc *Viveka English proofreading 2 (23 Oct 2026) - record*.
-- Stephen has looked at the four page views on the phone: approved as they are. The four page-view items and the proofreading item on [[Open items and free books]] are ticked.
+- Stephen has looked at the four page views on the phone: approved as they are. The four page-view items and the proofreading item on [[Open items]] are ticked.
 - Left: letters that lost a dot below (ṛ ṇ ḍ ṭ ḥ: "hrdaya", "krta") throughout the library copy; Devanagari read as Latin junk; the 90 candidates left above.
 
 ## 23 Oct 2026 (13:51–15:05): the page views widened, their titles centred, a list of books, chapters or āhnikas above each; Rashi's column narrows when empty (Opus chat, continuing)
@@ -132,7 +381,7 @@ What each AI session changed in the vault, newest first: the date, what changed 
 - **Plugins (11:57–12:47; nothing installed by the AI, house rule 13).** *Hide Folders* (not needed), *Quick Explorer* (laptop, for keyboard navigation), *Sidebar Organizer* (no), *Vertical Tabs* (its navigation strategies cover what Open Tab Settings did, so one of the two handles opening, not both) looked into and recorded; Stephen installed Vertical Tabs 0.18.6 and Quick Explorer 0.2.21, switched Open Tab Settings off, updated every plugin and restarted; `p26`/`p27`: 19 plugins loaded, every render clean, Templater's folder trigger confirmed. The Guide's *Plugins* paragraph and the Plugins note record the swap (p28 dry, p29 apply). Rebuilding the three Workspaces layouts is Stephen's to-do (Open items).
 - **T17, handwriting from Excalidraw to Ink (13:22–14:00; p30–p40).** New `Study/Sanskrit/Sanskrit scratchpad.md` (a plain note for Ink blocks); the daily template's *Letter practice* line, the CIS plan, the Guide (4 places), Welcome (2), the Letter Cycle and the Anatomical Mapping notes re-pointed, the "add today's part to the 108-day drawing" idea dropped (the anatomical information kept); `## Practice` with one instruction line on all 108 card notes (review marks untouched); Home (mobile)'s *New handwritten note* makes `Notes/Handwritten <date time>.md` and runs Ink's command (the command needs a focused editor: p36 was empty, p37–p40 fixed it with focus, cursor and a 700 ms wait). p34 dry, p35 apply. The two Excalidraw drawings are Stephen's to trash or keep.
 - **Stephen's list of 14:28 (p41–p45).** The three ways of counting years verified consistent; Home's plan links dated and *Practice run* dropped, the Guide's *Daily study* sentence on plan years, RCL years and Office years (T19); his three chore lines retyped to the `Name — days` convention and the convention made explicit (T18; the Monday test right); p42 dry, p43 apply, p44 render (read from Home's own tab — Vertical Tabs deduplicates a fresh one). His Day Planner edits all in the plugin's form (p45); Home's task lists explained (the Tasks global query; the undated list is `Free downloads - to do later`). Areas 9 (the Calendar) and 10 (capture) checked off at his word.
-- **Area 11, the AI folder (15:0x–16:1x; p46 dry, p47 apply, p48, p49).** The prompts streamlined at Stephen's brief (estimates for compute and model tiers; the wish list rolled into the log and cleared each session; the vault to need as little AI as possible from 6 Nov 2026, when he is on the free tier): a *Who runs it, model, size* line in each of the fourteen kept prompts; [[Prompts - read me]] with two new columns, an S/M/L legend, a *Retired* line and a *Maintenance mode (from 6 Nov 2026)* section; [[Monthly check-up]] rewritten around the new no-AI report; the Gemini walk-through made general as [[Second opinion on decisions]]; *Vault health assessment*, *Sync and size check*, *Vault analysis (micro and macro)* and *Completion and final audit (Oct 2026)* retired to `AI/Archive/` with one-line banners, and the 15 Oct decisions and proposal notes moved there too (through Obsidian; the links followed); `Notes/Vault wish list - done.md` rolled into the entry below and trashed; `Notes/Vault wish list.md` renamed [[Discuss next session]] with four headings (his addition of 15:37); [[AI]] and [[Health check scripts]] brought up to date. **`AI/Prompts/Scripts/Health checks/health-report.js`** (new): the monthly check-up without an AI — copied into `.work/queue/` with the runner on, it writes `AI/Health reports/Health report <date>.md` (needs attention / worth knowing / fine / the numbers against the previous report) and changes nothing else. First run (p48, 16:04, 42 s): 31,656 notes, 34,203 files; 27 unresolved links in 13 notes (day links and placeholders); 718 catalog notes, 707 library PDFs and DjVus all linked; 15 in review, 5 scans; 8,595 MB (PDFs 7,723), `.trash` 1,059 MB, `.work` 2,095 MB; six dashboards clean; 19 plugins. Its red items (a Merleau-Ponty PDF under two catalog notes, an empty `25 A Treasury of Sanskrit Poetry.pdf.md`, `.trash`) are on [[Open items and free books|Open items (Oct 2026)]]; v2 (p49) excepts `Projects/_Originals/` from the name checks.
+- **Area 11, the AI folder (15:0x–16:1x; p46 dry, p47 apply, p48, p49).** The prompts streamlined at Stephen's brief (estimates for compute and model tiers; the wish list rolled into the log and cleared each session; the vault to need as little AI as possible from 6 Nov 2026, when he is on the free tier): a *Who runs it, model, size* line in each of the fourteen kept prompts; [[Prompts - read me]] with two new columns, an S/M/L legend, a *Retired* line and a *Maintenance mode (from 6 Nov 2026)* section; [[Monthly check-up]] rewritten around the new no-AI report; the Gemini walk-through made general as [[Second opinion on decisions]]; *Vault health assessment*, *Sync and size check*, *Vault analysis (micro and macro)* and *Completion and final audit (Oct 2026)* retired to `AI/Archive/` with one-line banners, and the 15 Oct decisions and proposal notes moved there too (through Obsidian; the links followed); `Notes/Vault wish list - done.md` rolled into the entry below and trashed; `Notes/Vault wish list.md` renamed [[Discuss next session]] with four headings (his addition of 15:37); [[AI]] and [[Health check scripts]] brought up to date. **`AI/Prompts/Scripts/Health checks/health-report.js`** (new): the monthly check-up without an AI — copied into `.work/queue/` with the runner on, it writes `AI/Health reports/Health report <date>.md` (needs attention / worth knowing / fine / the numbers against the previous report) and changes nothing else. First run (p48, 16:04, 42 s): 31,656 notes, 34,203 files; 27 unresolved links in 13 notes (day links and placeholders); 718 catalog notes, 707 library PDFs and DjVus all linked; 15 in review, 5 scans; 8,595 MB (PDFs 7,723), `.trash` 1,059 MB, `.work` 2,095 MB; six dashboards clean; 19 plugins. Its red items (a Merleau-Ponty PDF under two catalog notes, an empty `25 A Treasury of Sanskrit Poetry.pdf.md`, `.trash`) are on [[Open items|Open items (Oct 2026)]]; v2 (p49) excepts `Projects/_Originals/` from the name checks.
 - **Jobs:** p14–p49 (results `.work/out/p*.result.txt`, details `p*.detail.json`, the new texts `p*.<note>.new.md`), moved with p01–p13 to `.trash/work-orient-2026-10-21/` at the close (p50 dry, p51 apply); `.work/out/health-report-2026-10-21.json` stays, the report points at it. **Backups:** `.work/backup-orient-2026-10-21/` (`*.before-p18.md` the seven templates; `*.before-p23`, `-p28`, `-p34`, `-p42`, `-p47.md` the notes each job touched; `health-report.v1-before-p49.js`). **Usage:** 58% of the week and 52% of the Fable allowance at 09:09, 62% and 65% at 13:08, 68% and 75% at the close (16:34). **Left for the next chat:** areas 4–8 (Sanskrit, the Tantrāloka, the Bible and the homilies, Torah and Zohar, the catalog and the library); the prompt's state paragraph says where to start.
 
 ## 21 Oct 2026 (afternoon): the wish list's closed items, rolled in from *Vault wish list - done* (the note retired; the list is now *Discuss next session*)
@@ -156,7 +405,7 @@ The record of the vault wish list's closed items, kept since 20 Oct 2026 in `Not
 
 - **The orientation** (areas in Stephen's order; the running note is [[Orientation notes (Oct 2026)]]): *Sync and the devices* and *Home and the daily chain* walked through; the other nine areas go to the next chat. The day's decisions and facts: Tag Wrangler runs on the laptop only; the tablet is the Lenovo Yoga Tab Pro (Android) — its first sync of the new remote vault finished at 13:58, *Active community plugin list* then switched off there and its plugin list cleaned by hand; Spaced Repetition tested on the phone (both cards of *Card 018 e* reviewed at 13:41, the marks reached the laptop through Sync within a minute) after its settings had to be entered there by hand, which gave the day's rule, now in the Guide and Plugins: a community plugin's settings, and even its files, cannot be counted on to travel between devices (Meta Bind had to be installed on the phone by hand), so each is set on each device and checked there; Day Planner OG read-only on the phone and tablet (Daily mode, *Complete past* and *Mark in progress* off; two 90-s watches from the laptop saw no write; its File-mode stub `Day Planners/` was made from the phone at 13:56 and trashed by Stephen by evening); the daily note made first thing on the laptop as the habit (the 2-s `data.json` saves from midnight confirmed at 11:23–11:48; the "open on startup" setting first proposed does not exist); Advanced Multi Column removed on every device (31,662 notes checked, none used it); the Excalidraw Stylus Menu removed on every device after the S Pen on the phone, the Lenovo pen on the tablet and the pen on the laptop all drew without it — no record of why it was installed exists before 8–9 Oct, when it was already in use.
 - **Written during the day:** house rule 14 (Sync is live on the Android devices; if a step needs it paused, say so and wait); `Home.md` (*Phoneme of the day · CIS · Letter*; the today-items call without `only`), `Home (mobile).md` (the same) and `Calendar/Calendar.md` (a today-items block with `only: "letter"` under the date box), so the day's letter card is reachable from all three; the Guide and Plugins corrected as each decision came (jobs o03–o40); render checks clean each time.
-- **The purge (Stephen, 17:40):** `Plugins.md` rewritten from the 52 KB analysis of 19 Oct to the short list of things not to change or do (10.7 KB); the Guide's plugin table and per-device lists reduced to a paragraph each; `AI/Plugin tweaks (19 Oct 2026).md` and `AI/Plugin settings by device (20 Oct 2026).md` (the checklist written and corrected earlier the same day) trashed through Obsidian; the still-open items carried to [[Open items and free books|Open items (Oct 2026)]], with the stale-ids and property-types explanations; the three plugin documents deleted from the Claude project; links fixed in the house rules, the orientation prompt, this log and [[Note Toolbar import (19 Oct 2026)]] (kept, with [[Smart Connections exclusions]]).
+- **The purge (Stephen, 17:40):** `Plugins.md` rewritten from the 52 KB analysis of 19 Oct to the short list of things not to change or do (10.7 KB); the Guide's plugin table and per-device lists reduced to a paragraph each; `AI/Plugin tweaks (19 Oct 2026).md` and `AI/Plugin settings by device (20 Oct 2026).md` (the checklist written and corrected earlier the same day) trashed through Obsidian; the still-open items carried to [[Open items|Open items (Oct 2026)]], with the stale-ids and property-types explanations; the three plugin documents deleted from the Claude project; links fixed in the house rules, the orientation prompt, this log and [[Note Toolbar import (19 Oct 2026)]] (kept, with [[Smart Connections exclusions]]).
 - **Close-out:** the orientation prompt's carried-over paragraph brought up to date and its row added to [[Prompts - read me]]; the done items of [[Discuss next session|Vault wish list]] moved to the new *Vault wish list - done* (rolled into the 21 Oct entry below and trashed); the Guide's History line; the project's `State.md`.
 - **Jobs:** o01–o61 (probes, the Sync watches, the edits with their dry runs, the render checks); the job files and results moved from `.work` to `.trash/work-orient-2026-10-20/` at the end (o61). **Backups:** `.work/backup-orient-2026-10-20/` (each note before each tweak; `*.before-purge.md`; `*.before-close.md`), kept. **Counts:** 31,660 notes and 34,203 files at 11:40; 10 notes with unresolved links all day, unchanged since 19 Oct. Usage: 48% of the week at 13:08; at the close (18:18) 56% general and 52% of the Fable allowance.
 
@@ -185,7 +434,7 @@ The record of the vault wish list's closed items, kept since 20 Oct 2026 in `Not
 ## 19 Oct 2026: the greater feasts (Holy Days) in the calendar, the Daily Office and the homily templates, with a switch (done with the Agent SDK on the laptop)
 
 - **Why (Stephen, 18 Oct):** the calendar listed the lesser feasts and fasts but not the greater ones, and there was no easy way to use a feast's readings and collect in place of the Sunday's (St. Luke on Sunday 18 Oct 2026).
-- **New notes:** `Calendar/Holy Days (BCP 1979).md`, made from the BCP notes only: 31 Holy Days with rank (Calendar of the Church Year, pp. 15–17), psalm and lessons (Lectionary pp. 921–925), both versions of the collect with the Preface, the Daily Office readings with the Eves (pp. 996–1000) and the RCL notes that carry the same collect (6 feasts); the Prayer Book's rules quoted with page numbers; 107 rows of dates for 3 Oct 2026 – 2029 (kept on, transferred from, whether the Sunday may use the feast's readings). 10 readings the lectionary note prints without a link were linked to the verse notes; 2 Esdras 2:42-47 (All Saints' Office) has no verse note and stays plain. `Calendar/Holy Days - my choices.md`: one row per date for the choice between the Sunday's and the feast's (written by the buttons and the homily template; can be edited by hand).
+- **New notes:** `Calendar/Holy Days (BCP 1979).md`, made from the BCP notes only: 31 Holy Days with rank (Calendar of the Church Year, pp. 15–17), psalm and lessons (Lectionary pp. 921–925), both versions of the collect with the Preface, the Daily Office readings with the Eves (pp. 996–1000) and the RCL notes that carry the same collect (6 feasts); the Prayer Book's rules quoted with page numbers; 107 rows of dates for 3 Oct 2026 – 2029 (kept on, transferred from, whether the Sunday may use the feast's readings). 10 readings the lectionary note prints without a link were linked to the verse notes; 2 Esdras 2:42-47 (All Saints' Office) has no verse note and stays plain [corrected 24 Oct 2026: it has one, *NRSVue 2 Esdras 02*, and is linked now]. `Calendar/Holy Days - my choices.md`: one row per date for the choice between the Sunday's and the feast's (written by the buttons and the homily template; can be edited by hand).
 - **New view:** `Templates/Views/holyday/view.js` holds the rules (BCP pp. 15–17) and the choice, so the three copies of the "feasts that beat a Sunday" regex are no longer the only rule; it draws the switch on Home.
 - **Changed:** the date header (`today-header`: full title and rank of the Holy Day above the commemoration, "transferred from Sun 18 Oct", where the feast is kept when it falls on a Sunday, the next three Holy Days in the Calendar note's box; both views accept a `date` for testing), `today-study` (the Lectionary line and homily buttons name a feast whose readings are in use, and weekday feasts the plan does not list), `daily-office` (follows the choice), `Home`, `Home (mobile)` (one line each: the switch), `Calendar` (links), `Homily` and `Homily (Polyphonic)` templates (ask Sunday / feast / both where the Prayer Book allows; a feast with no RCL note takes the Prayer Book's lessons and both collects from the table; new properties `feast` and `propers`), the Daily Office Engine note and the Vault Guide. Daily note, Weekly note and your existing homilies were not changed.
 - **Rules as applied (Stephen's decisions of 19 Oct):** the engine's order for St. Stephen, St. John and the Holy Innocents kept; Thanksgiving on the fourth Thursday of November, labelled as not from the BCP; the Transfiguration (and the Presentation) can be switched back to the Sunday's; the Sunday's psalm kept when only the collect and lessons are substituted; the homily of 18 Oct (`2026-10-18 Proper 24A`) left as it is (no row for 18 Oct is recorded in the choices note).
@@ -280,7 +529,7 @@ The record of the vault wish list's closed items, kept since 20 Oct 2026 in `Not
 - **Rules and prompts (D01, D03):** the approved wording put into the house rules and ten prompts (17 edits in 11 notes) and the wish list (5 edits). Backups `d01/`, `d03/`.
 - **Catalog (D15, D16, D18, D19, D24.3, D30.1):** the two *Dawning* catalog notes merged and the Wallis catalog note, its library note and `B076ZQM87M.pdf` to `.trash` (links now go to *Ksemaraja - The Recognition Sutras*); 35 catalog notes renamed without "(year/publisher)"; H1 set to the title in 8; *Odyssey* year and copyright; the "hence `status: review`" sentence in 43 notes; 17 view blocks of the archived review note made plain "Done" lines; both DjVu books and their catalog notes, and the *108 Sanskrit Flash Cards* catalog note, to `.trash`; 12 `type: text` catalog notes for the text collections (Tanakh, Torah, NT, LXX, Tractates, Tanya, Mei HaShiloach, BCP 1979, Mālinīślokavārttika, Zohar Soncino, RCL, *A Great Cloud of Witnesses*). Backups `b2/`, `d19/`.
 - **Properties and tags (D17):** 3,010 notes: Ruppel `chapter` and 211 `volume` values as numbers; tag families merged (texts → text, zohar → texts/zohar …); `ahnika` → `chapter` in 2,744 word notes; 5 Devanagari-digit tags escaped. Your 7 Projects notes: `text` → `text_note`. Backups `d17/`, `own1/`.
-- **Page labels (D08, rest):** 4,594 markers in 635 notes marked *[PDF n]*; the three worst books read from their pages (Törzsök 335 markers, *Mālinīvijayottara* 379, *Questions and Doubts* 54); 116 link labels followed. Backups `d08d/`, `d08f/`.
+- **Page labels (D08, rest):** 4,594 markers in 635 notes marked *[PDF n]*; the three worst books read from their pages (Törzsök 335 markers, *Mālinīvijayottara* 379, *Questions and Doubts* 54); 116 link labels followed. Backups `d08c/`, `d08e/` (named d08d/d08f here until 24 Oct 2026).
 - **PDF names (D20):** 169 library PDFs renamed "Author - Short title (year).pdf" with Obsidian's rename, and the 9,932 places in 7,578 notes that named them edited as text, so every link keeps its form (Home's *Today's verses* reads them). No old name left; unresolved links back to 8 files once Obsidian had re-read the notes. Backups `d20/`.
 - **Your notes (D15, D21, D26):** concept and hub links to the Recognition Sutras, `up` hubs, first-mention links, the Creed AI footnotes as `[^a1]` …; the Matrix's first mentions linked; the hub-feed script skips task lines; the Guide's *Dynamic Feeds* sentence matches the hubs. Backups `own1/`, `d26/`.
 - **Lists (D27, D28, D29):** Wanted and Free downloads refreshed (vol. 11, TAK I–II, Origen XIII, Ambiguum 7; GRETIL row dropped; *Hebrew Bible* and *Year B (Mark)* sections); 66 plain heads linked, 27 empty tables dropped, 89 stale `check` flags removed and 101 added; the Tantrāloka index count recounted (152). Backups `d27/`, `d29/`.
@@ -343,7 +592,7 @@ The record of the vault wish list's closed items, kept since 20 Oct 2026 in `Not
 - **Sweep:** to `.trash`: `AI/Archive/Retired views/` (3 scripts), the 14 flash-card scans no note linked (Introductory Cards, Booklet), the 6 Oct analysis reports and findings (16 files; its five change records moved to `AI/Archive/`), the October 2026 plan's prompts and the 6 Oct PDF inventory to `.trash` (the archive keeps copies of the prompts, which the phase 1–3 records link). Kept on Stephen's word: `AI/Vault Health & Phantom Link Manager`, the phase 1–4 records in `AI/Archive/Claude outputs/`, `Catalog/To delete.base`, `Projects/_Originals/New folder/`, the two DjVu books (no Markdown copy). 29 accidental tags (`#4b`, `#44ndasa` …) in 17 converted-book notes escaped so the tag pane shows only real tags.
 - **Sync (decided with Stephen, nothing set by the AI):** sizes 14 Oct: 9.02 GB, PDFs 8.02 GB (698 files), without PDFs 1.01 GB. The old remote vault to be deleted (the Plus limit counts every remote vault on the account), a new one created from this computer with the selective-sync switches set before the first sync: PDFs off on every device, the two Muktabodha e-text folders excluded on every device, *Sync all other types* and images on, `Projects/_Originals` excluded on phone and tablet; the remote vault then carries about 0.6 GB. The Guide's *Sync and backups* and *Setting up a new device* sections say so.
 - **Guide, Welcome, prompts:** Guide (22 edits) and Welcome (5) brought up to date (counts, paths, Sync, plugins, History); [[Prompts - read me]] lists the routine prompts only. An audit script from another model (`Downloads/gemini-code-….py`) was read, found safe and run as a port inside Obsidian; its report went to Stephen with the caveats (its broken-link and tag counts are parsing artifacts).
-- **Left for later** (also in the final report, project doc 20): the medium/low/unlinked references in [[Bible references to decide later]]; [[Open items and free books|Free downloads - to do later]] and [[Open items and free books|Wanted - books not in the vault]]; the Dyczkowski diacritics pass (6b); the 490 unclear and 62 no-PDF page-label anomalies; the letters still left (Raina, Ganser, Sanderson's *Atharvavedins*, Wilke, Macdonell, Whitney, Jayaratha); Dillon & Gerson and Graham with Greek OCR; 92 unchecked *About* sections; TĀ 16.203 *naivaṃ*, 16.206, 16.210; the Word footnote anchors in the two Creed AI notes (18 links that do not resolve, Stephen's diff); scholar pages; the PDF file names with braces and padding (a rename would mean rewriting `source_pdf` in hundreds of notes); the volume 11 follow-ups above. Reminders: empty `.trash` in Explorer; the `.work/backup-*` folders can be deleted in Explorer once the results have been looked at; the cloud credit expires 4 Nov 2026, 11:59 PM PT; turn Smart Connections, then Omnisearch, back on.
+- **Left for later** (also in the final report, project doc 20): the medium/low/unlinked references in [[Bible references to decide later]]; [[Open items|Free downloads - to do later]] and [[Open items|Wanted - books not in the vault]]; the Dyczkowski diacritics pass (6b); the 490 unclear and 62 no-PDF page-label anomalies; the letters still left (Raina, Ganser, Sanderson's *Atharvavedins*, Wilke, Macdonell, Whitney, Jayaratha); Dillon & Gerson and Graham with Greek OCR; 92 unchecked *About* sections; TĀ 16.203 *naivaṃ*, 16.206, 16.210; the Word footnote anchors in the two Creed AI notes (18 links that do not resolve, Stephen's diff); scholar pages; the PDF file names with braces and padding (a rename would mean rewriting `source_pdf` in hundreds of notes); the volume 11 follow-ups above. Reminders: empty `.trash` in Explorer; the `.work/backup-*` folders can be deleted in Explorer once the results have been looked at; the cloud credit expires 4 Nov 2026, 11:59 PM PT; turn Smart Connections, then Omnisearch, back on.
 - **After this entry (to 19:43):** `.work` cleaned (bundles, out and queue/done to `.trash`; the backups and the runner kept); the [[Complete vault audit]] prompt and `AI/Prompts/Scripts/Health checks/` (a note and 8 scripts) added; two edits to [[Prompts - read me]]. (Added 14 Oct night from the audit.)
 
 ## 13 Oct 2026 (evening and night): phase 7, new texts and gaps
@@ -351,7 +600,7 @@ The record of the vault wish list's closed items, kept since 20 Oct 2026 in `Not
 - **Old links** (Stephen's diffs approved): *Engineered Cognitive Friction* links Pirkei Avot and Plato; *Epimetheus* links Protagoras 320d; the Sea Peoples flowchart's reading list and two epigraphs link Republic, Apology, Phaedrus, Protagoras, Sophist and Avot; *Artificial Interlocutor* links Avot 1:6, with a footnote that the vault's 1:6 names no book; the Matrix has a `Texts/Plato/` row and current paths.
 - **References linked:** 21,365 in Hobbes's *Leviathan* 1651, the *Summa* (Old Testament to the Douay-Rheims as printed), Chrysostom and Origen on John (New Testament only) and the JANT; 41 bracketed *Summa* references repaired after Obsidian read `[[[` as a link. 400 of the B3 leftovers in the converted books by 20 per-book rules (of 60 checked by an agent: 43 correct, 15 plausible, 2 wrong and corrected). The rest: [[Bible references to decide later]].
 - **Text fixes in the converted books:** page labels on 78 pages read blind from the page images, and whole runs in Vasudeva's *Mālinīvijayottara* (284 pages, PDF − 54) and the BCP 1928 Psalter (PDF − 7); stand-in letters in 68 books (8,033 lines in 686 notes; Raina, Ganser, Macdonell, Jayaratha left); the Greek in Ehrman, Fee and Holmes (16,072 words in 16 notes); the Devanagari of Dyczkowski's Tantrāloka drafts ch. 1 and 3 (1,049 lines from the PDFs' font layer); Tantrāloka 16.205 and 16.211 tidied (16.204 was a false alarm). Each was checked on samples against the PDF pages by agents that did not make it.
-- **New:** the [[Synoptic reader]] and [[Synoptic parallels]] (`Templates/Views/synoptic/`); 951 *Compare* lines from the Tanakh and Torah chapters to the NRSVue and [[NRSVue and JPS numbering]]; *About* sections in 124 catalog notes (104 works; 12 fact-checked, 4 corrected); [[Open items and free books|Wanted - books not in the vault]] and [[Open items and free books|Free downloads - to do later]]; the [[Reference linker]] updated (`wrapper3.js`).
+- **New:** the [[Synoptic reader]] and [[Synoptic parallels]] (`Templates/Views/synoptic/`); 951 *Compare* lines from the Tanakh and Torah chapters to the NRSVue and [[NRSVue and JPS numbering]]; *About* sections in 124 catalog notes (104 works; 12 fact-checked, 4 corrected); [[Open items|Wanted - books not in the vault]] and [[Open items|Free downloads - to do later]]; the [[Reference linker]] updated (`wrapper3.js`).
 - **Late (14 Oct, 00:00):** 538 more references linked in 265 notes: 38 where the book prints the Hebrew number, 30 *Summa* New Testament references in Vulgate-numbered chapters (to the Douay-Rheims), 38 marked "[LXX]", and 432 whose context agents matched to one candidate verse (a separate check: 54 of 55 right, the wrong rule fixed). About 400 are left in [[Bible references to decide later]]. Read-only measurements for phase 8 in `.work/plan/phase-8-prep/`; the phase 8 prompt updated for a fresh task.
 - **Removed:** Rao and Pai, *Tales of Durga* (catalog note and PDF to `.trash`), on Stephen's word.
 - **Plugins:** Omnisearch and Smart Connections were turned off by Stephen during the phase; turn them back on.

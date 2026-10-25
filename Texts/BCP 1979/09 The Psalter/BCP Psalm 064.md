@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 64
 verses: 10
-page_range:
-  - 672
-  - 672
+page_range: "672"
 aliases:
   - "BCP Psalm 64"
   - "BCP 672"
@@ -45,7 +43,7 @@ we have thought out a perfect plot." ^64-6
 but God will loose an arrow at them,  
 and suddenly they will be wounded. ^64-7
 
-[p. 672]
+[p. 672] ^pg672
 
 **64:8** He will make them trip over their tongues, \*  
 and all who see them will shake their heads. ^64-8

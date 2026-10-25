@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Butler - Postmodernism, A Very Short Introduction]]"
 book: "[[Library/Philosophy/Postmodernism, A Very Short Introduction (Butler)/Postmodernism, A Very Short Introduction (Butler)|Postmodernism, A Very Short Introduction (Butler)]]"
 order: 9
 source_pdf: "Library/Philosophy/Butler - Postmodernism, A Very Short Introduction (2002).pdf"
-pages: "133–134"
+page_range: "133–134"
 pdf_pages: "144–145"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15

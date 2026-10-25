@@ -18,8 +18,7 @@ language:
   - English
 pages: 255
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Pintchman, Sherma (eds.) - Woman and Goddess in Hinduism (2011).pdf]]"
   - "[[Library/Hinduism/Woman and Goddess in Hinduism (Pintchman)/Woman and Goddess in Hinduism (Pintchman)]]"

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 114
 verses: 8
-page_range:
-  - 757
-  - 757
+page_range: "757"
 aliases:
   - "BCP Psalm 114"
   - "BCP 757"
@@ -29,7 +27,7 @@ the house of Jacob from a people of strange speech, ^114-1
 **114:2** Judah became God's sanctuary \*  
 and Israel his dominion. ^114-2
 
-[p. 757]
+[p. 757] ^pg757
 
 **114:3** The sea beheld it and fled; \*  
 Jordan turned and went back. ^114-3

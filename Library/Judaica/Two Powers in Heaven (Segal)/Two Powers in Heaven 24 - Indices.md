@@ -4,7 +4,7 @@ work: "[[Catalog/Judaica/Segal - Two Powers in Heaven]]"
 book: "[[Library/Judaica/Two Powers in Heaven (Segal)/Two Powers in Heaven (Segal)|Two Powers in Heaven (Segal)]]"
 order: 24
 source_pdf: "Library/Judaica/Segal - Two Powers in Heaven (2002).pdf"
-pages: "289–BC"
+page_range: "289–BC"
 pdf_pages: "316–342"
 text_source: "the PDF's earlier OCR text layer (a scan), PyMuPDF"
 converted: 2026-10-22

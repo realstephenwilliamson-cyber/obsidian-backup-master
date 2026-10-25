@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 17
 verses: 16
-page_range:
-  - 601
-  - 602
+page_range: "601–602"
 aliases:
   - "BCP Psalm 17"
   - "BCP 601"
@@ -27,7 +25,7 @@ Hebrew text and JPS translation: [[Psalms 017]]
 give heed to my cry; \*  
 listen to my prayer, which does not come from lying lips. ^17-1
 
-[p. 601]
+[p. 601] ^pg601
 
 **17:2** Let my vindication come forth from your presence; \*  
 let your eyes be fixed on justice. ^17-2
@@ -70,7 +68,7 @@ deliver me from the wicked by your sword. ^17-13
 **17:14** Deliver me, O LORD, by your hand \*  
 from those whose portion in life is this world; ^17-14
 
-[p. 602]
+[p. 602] ^pg602
 
 **17:15** Whose bellies you fill with your treasure, \*  
 who are well supplied with children  

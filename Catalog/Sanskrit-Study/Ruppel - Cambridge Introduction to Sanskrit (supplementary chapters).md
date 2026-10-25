@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Sanskrit/Ruppel/Chapter_1_2_Cambridge_Introduction_to_Sanskrit.pdf]]"
   - "[[Library/Sanskrit/Ruppel/CIS_Chapter_0.pdf]]"

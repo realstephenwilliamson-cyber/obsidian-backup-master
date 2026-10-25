@@ -17,8 +17,7 @@ language:
   - English
 pages: 17
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[McClellan - The Use of the Old Testament in the New Testament (2019).pdf]]"
   - "[[Library/Biblical-Studies/The Use of the Old Testament in the New Testament (McClellan)]]"

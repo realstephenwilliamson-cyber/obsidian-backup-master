@@ -20,7 +20,7 @@ Hast thou, as being rich in money, become a lover of money? Thou hast begun to l
 
 3\. And whither must the Lord be followed? Whither He is gone, we know; but a very few days since we celebrated the solemn memorial of it. For He has risen again, and ascended into heaven; thither must He be followed. Undoubtedly we must not despair of it, because He hath Himself promised us, not because man can do anything. Heaven was far away from us, before that our Head had gone into heaven. But now why should we despair, if we are members of that Head? Thither then must He be followed. And who would be unwilling to
 
-316\. 1 Luke xv. 17. 3162 Luke xv. 18. Jer. xvii. 5. 410 3164 Mark x. 37. *Vid*. Serm. xxxviii. (lxxxviii. Ben.) 13 (xiv). Matt. xx. 31.
+3161 Luke xv. 17. 3162 Luke xv. 18. Jer. xvii. 5. 410 3164 Mark x. 37. *Vid*. Serm. xxxviii. (lxxxviii. Ben.) 13 (xiv). Matt. xx. 31.
 
 
 *[p. 854]* ^pg880
@@ -43,7 +43,7 @@ God saw that it was good,” and at the end summed them all up together thus how
 
 7\. What is the “world” which persecutes? That of which it is said to us, “Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him. For all that is in the world, is the lust of the flesh, and the lust of the eyes, and the pride of life, which is not of the Father, but of the world. And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever,” <sup>3169</sup> even as God abideth for ever. Lo! I have spoken of two “worlds,” the “world” which persecutes, and that which it persecutes. What is the “world” which persecutes? “All that is the world, the lust of the flesh, and the lust of the eyes, and the pride of life, which is not of the Father, but
 
-316\. 6 Gen. i. 3167 John i. 10. 3168 Eccles. vii. 30, Sept. (vii. 29, English version). 1 John ii. 15, etc. 411
+3166 Gen. i. 3167 John i. 10. 3168 Eccles. vii. 30, Sept. (vii. 29, English version). 1 John ii. 15, etc. 411
 
 
 *[p. 856]* ^pg882
@@ -56,7 +56,7 @@ of the world;” and “the world passeth away.” Lo, this is the “world” w
 
 9\. Now in this world, holy, good, reconciled, saved, or rather to be saved, and now saved in hope, “for we are saved in hope;”<sup>3173</sup> in this world, I say, that is in the Church which wholly follows Christ, He hath said as of universal application, “Whosoever will follow Me, let him deny himself.” For it is not that the virgins ought to give ear to this, and the married women ought not; or that the widows ought, and the women who still have their husbands ought not; or that monks ought, and the married men ought not; or that the clergy ought, and the laymen ought not: but let the whole Church, the whole body, all the members, distinguished and distributed throughout their several offices, follow Christ. Let the whole Church follow Him, that only Church, let the dove follow Him, let the spouse follow Him, let her who has been redeemed and endowed with the Bridegroom’s blood, follow Him. There virgin purity hath its place; there widowed continence hath its place; married chastity there hath its place; but adultery hath no place of its own there; and no place there hath lasciviousness, unlawful and meet for punishment. But let these several members which have their place there, in their kind and place and measure, “follow Christ;” let them “deny themselves;” that is, let them presume nothing of themselves: let them “take up their cross,” that is, let them in the world endure for Christ’s sake whatever the world may bring upon them. Let them love Him, who Alone doth not deceive, who Alone is not deceived, Alone deceiveth not; let them love Him, for that is true which He doth promise. But because He doth not give at once, faith wavers. Hold on, persevere, endure, bear delay and thou hast borne the cross.
 
-317\. 0 2 Cor. v. 19. 3171 John xv. 18. 3172 John iii. 17.
+3170 2 Cor. v. 19. 3171 John xv. 18. 3172 John iii. 17.
 
 
 *[p. 857]* ^pg883
@@ -65,7 +65,7 @@ of the world;” and “the world passeth away.” Lo, this is the “world” w
 
 10\. Let not the virgin say, “I shall alone be there.” For Mary shall not be there alone but the widow Anna shall be there also. Let not the woman which hath an husband say, “The widow will be there, not I;” for it is not that Anna will be there, and Susanna not be there. But by all means let them who would be there prove themselves hereby, that they who have here a lower place envy not, but love in others the better place. For, for instance, my Brethren, that ye may understand me; one man has chosen a married life, another a life of continence; if he who has chosen the married life, has adulterous lusts, he has “looked back;” he has lusted after that which is unlawful. He too who would wish afterwards to return from continence to a married life, has “looked back;” he has chosen what is in itself lawful, yet he has “looked back.” Is marriage then to be condemned? No. Marriage is not to be condemned; but see whither he had come who has chosen it. He had already got before it. When he was living as a young man in voluptuousness, marriage was before him; he was making his way towards it; but when he had chosen continence, marriage was behind him. “Remember,” saith the Lord, “Lot’s wife.”<sup>3174</sup> Lot’s wife, by looking behind, remained motionless. To whatever point then any one has been able to reach, let him fear to “look back” from thence; and let him walk in the way, let him “follow Christ.” “Forgetting those things which are behind, and stretching forth unto those things which are before, let him by an earnest inward intention press on toward the prize of the calling of God in Christ Jesus.”<sup>3175</sup> Let those that are married regard the unmarried as above themselves; let them acknowledge that they are better; let them in them love what themselves have not; and let them in them love Christ.
 
-317\. 4 Luke xvii. 32. Phil. iii. 13, 14. 412 3176 Mark xiii. 32. 3177 Ps. lv. 2, Sept. (lvi. 1, English version). 3178 Ps. lxxxii. 6. 3179 Ps. lxxxii. 7.
+3174 Luke xvii. 32. Phil. iii. 13, 14. 412 3176 Mark xiii. 32. 3177 Ps. lv. 2, Sept. (lvi. 1, English version). 3178 Ps. lxxxii. 6. 3179 Ps. lxxxii. 7.
 
 
 *[p. 858]* ^pg884
@@ -80,7 +80,7 @@ Sermon XLVII.
 
 2\. And how have we in the Psalm sung unto the Lord, “Lord, have mercy on me, for man hath trodden me down”?<sup>3177</sup> He is called a man who lives after the manner of men. For it is said to them who live after God, “Ye are gods, and ye are all the children of the Most High.”<sup>3178</sup> But to the reprobate, who were called to be the sons of God, and who wished rather to be men, that is, to live after the manner of men, he says, “But ye shall die like men, and fall as one of the princes.”<sup>3179</sup> For that man is mortal, ought to avail for his instruction, not for boasting. Whereupon does a worm that is to die on the morrow boast himself? I speak to your love, Brethren; proud mortals ought to be made blush by the devil. For he, though proud, is yet immortal; he is a spirit, though a malignant one. The last day is kept in store for him at the end as his punishment; nevertheless he is not subject to the death to which we are subject. But man heard the sentence, “Thou shalt surely die.”<sup>3180</sup> Let him make a good use of his punishment. What is that I have said, “Let him make a good use of his punishment”? Let him not by that from which he received his punishment fall into pride; let him acknowledge that he is mortal, and let it break down his elation. Let him hear it said to him, “Why is earth and ashes proud?”<sup>3181</sup> Even if the devil is proud, he is not “earth and
 
-318\. 0 Gen. ii. 17. Ecclus. x. 9.
+3180 Gen. ii. 17. Ecclus. x. 9.
 
 
 *[p. 859]* ^pg885
@@ -93,7 +93,7 @@ ashes.” Therefore was it said, “But ye shall die like men, and shall fall as
 
 4\. Let us not love the world. It overwhelms its lovers, it conducts them to no good. We must rather labour in it that it seduce us not, than fear lest it should fall. Lo, the world falleth; the Christian standeth firm; because Christ doth not fall. For wherefore saith the Lord, “Rejoice, for that I have overcome the world”?<sup>3185</sup> We might answer Him if we pleased, “‘Rejoice,’ yes do Thou rejoice. If Thou ‘hast overcome,’ do thou rejoice. Why should we?” Why doth He say to us, “Rejoice;” but because it is for us that He hath overcome, for us hath fought? For wherein fought He? In that He took man’s nature upon Him. Take away His
 
-318\. 2 Ps. lxxxii. 7. 3183 *Vid*. Serm. xxvii (lxxvii. Ben.) 14 (x.). 3184 Luke xvi. 22. 413 3186 Phil. ii. 7. 3187 John i. 1, 3. 3188 John i. 14. 3189 Ps. lv. 2, Sept. (lvi. 1, English version).
+3182 Ps. lxxxii. 7. 3183 *Vid*. Serm. xxvii (lxxvii. Ben.) 14 (x.). 3184 Luke xvi. 22. 413 3186 Phil. ii. 7. 3187 John i. 1, 3. 3188 John i. 14. 3189 Ps. lv. 2, Sept. (lvi. 1, English version).
 
 
 *[p. 860]* ^pg886
@@ -114,7 +114,7 @@ Sermon XLVIII.
 
 2\. The widowed mother rejoiced at the raising again of that young man; of men raised again in spirit day by day does Mother Church rejoice. He indeed was dead in the body but they in soul. His visible death was bewailed visibly; their death invisible was neither enquired into nor perceived. He sought them out who had known them to be dead; He Alone knew them to be dead, who was able to make them alive. For if the Lord had not come to raise the dead, the Apostle would not have said, “Rise, thou that sleepest, and arise from the dead, and Christ shall give thee light.”<sup>3193</sup> You hear of one asleep in the words, “Rise, thou that sleepest;” but understand it of one dead when you hear, “And arise from the dead.” Thus they who are even dead in the body<sup>3194</sup> are often said to be asleep. And certainly they all are but asleep, in respect of Him who is able to awaken them. For in respect of thee, a dead man is dead indeed, seeing he will not awake, beat or prick or tear him as thou wilt. But in respect of Christ, he was but asleep to whom it was said, “Arise,”<sup>3195</sup> and he arose forthwith. No one can as easily awaken another in bed, as Christ can in the tomb.
 
-319\. 1 John v. 21. 3192 Luke vii. 12. 3193 Eph. v. 14. 3194 *Visibiliter*. 414 3196 John xxi. 25. 3197 *Antiquarii*. 3198 *Apicum*. *Vid*. Serm. xxxix. (lxxxix. Ben.). Mark xi. 13.
+3191 John v. 21. 3192 Luke vii. 12. 3193 Eph. v. 14. 3194 *Visibiliter*. 414 3196 John xxi. 25. 3197 *Antiquarii*. 3198 *Apicum*. *Vid*. Serm. xxxix. (lxxxix. Ben.). Mark xi. 13.
 
 
 *[p. 862]* ^pg888
@@ -131,7 +131,7 @@ Sermon XLVIII.
 
 5\. These three kinds of dead persons, are three kinds of sinners whom even at this day Christ doth raise. For that dead daughter of the ruler of the synagogue was within in the house, she had not yet been carried out from the secresy of its walls into public view. There within was she raised, and restored alive to her parents. But the second was not now indeed in the house, but still not yet in the tomb, he had been carried out of the walls, but not committed to the ground. He who raised the dead maiden who was not yet carried out, raised this dead man who was now carried out, but not yet buried. There remained a third case, that He should raise one who was also buried; and this He did in Lazarus. There are then those who have sin inwardly in the heart, but have it not yet in overt act. A man, for
 
-320\. 0 Mark v. 35. 3201 Mark v. 36. 3202 Mark v. 39. 3203 Luke vii. 12. 3204 Luke vii. 14, 15. John xi. 11, etc. 415 3206 Matt. v. 28. 3207 Gen. xix. 9. 3208 John xi. 39.
+3200 Mark v. 35. 3201 Mark v. 36. 3202 Mark v. 39. 3203 Luke vii. 12. 3204 Luke vii. 14, 15. John xi. 11, etc. 415 3206 Matt. v. 28. 3207 Gen. xix. 9. 3208 John xi. 39.
 
 
 *[p. 864]* ^pg890
@@ -150,7 +150,7 @@ this time he stinketh.” Therefore, the Lord came, to whom of course all things
 
 may live; they who are dead may live again. Whether it be that as yet the sin has been conceived in the heart, and not come forth into open act; let the thought be repented of, and corrected, let the dead within the house of conscience arise. Or whether he has actually committed what he thought of; let not even thus his case be despaired of. The dead within has not arisen, let him arise when “he is carried out.” Let him repent him of his deed, let him at once return to life; let him not go to the depth of the grave, let him not receive the load of habit upon him. But peradventure I am now speaking to one who is already pressed down by this hard stone of his own habit, who is already laden with the weight of custom, who “has been in the grave four days already, and who stinketh.” Yet let not even him despair; he is dead in the depth below, but Christ is exalted on high. He knows how by His cry to burst asunder the burdens of earth, He knows how to restore life within by Himself, and to deliver him to the disciples to be loosed. Let even such as these repent. For when Lazarus
 
-321\. 0 John xi. 38. 3211 John xi. 44.
+3210 John xi. 38. 3211 John xi. 44.
 
 
 *[p. 866]* ^pg892
@@ -171,7 +171,7 @@ Sermon XLIX.
 
 2\. So then because she touched the Lord, in watering, kissing, washing, anointing His feet; the Pharisee who had invited the Lord Jesus Christ, seeing He was of that kind of proud men of whom the Prophet Isaiah says, “Who say, Depart far from me, touch me not, for I am clean;”<sup>3214</sup> thought that the Lord did not know the woman. This he was thinking with himself, and saying in his heart, “This man if He were a prophet, would have known what woman this is that” hath approached His feet. He supposed that He did not know her, because He repelled her not, because He did not forbid her to approach Him, because He suffered Himself to be touched by her, sinner as she was. For whence knew he, that He did not know her? But what if He did know, O thou Pharisee, inviter and yet derider of the Lord! Thou dost feed the Lord, yet by whom thou art to be fed thyself, thou dost not understand. Whereby knowest thou, that the Lord did not know what that woman had been, save because she was permitted to approach Him, save because by His sufferance she kissed His Feet, save because she washed, save because she anointed them? For these things a woman unclean ought not to be permitted to do with the Feet that are clean? So then had such a woman approached that Pharisee’s feet, he would have been sure to say what Isaiah says of such; “Depart from
 
-321\. 3 Luke vii. 36. Isa. lxv. 5, Sept.
+3213 Luke vii. 36. Isa. lxv. 5, Sept.
 
 
 *[p. 868]* ^pg894
@@ -184,7 +184,7 @@ me, touch me not, for I am clean.” But she approached the Lord in her uncleann
 
 4\. Here arises a difficulty which must in real truth be resolved, and which requires your fixed attention, Beloved, lest haply my words may not be equal to the removing and clearing of the whole obscurity of it by reason of the stress of time; especially as this flesh of mine exhausted by its heat, now longs to be recruited, and demanding its due, and clogging the eagerness of the soul gives proof of that which is said, “The spirit indeed is willing, but the flesh is weak.”<sup>3217</sup> Cause there is for fear, yea great cause for fear, lest by these words of the Lord, there steal over the minds of those who understand them not aright, who indulge their fleshly lusts, and are loth to be brought away from them into liberty, that sentiment which, even as the Apostles preached, sprung up in the tongues of slanderous men, of whom
 
-321\. 5 John iv. 7. 3216 Luke vii. 41, etc.
+3215 John iv. 7. 3216 Luke vii. 41, etc.
 
 
 *[p. 869]* ^pg895
@@ -197,7 +197,7 @@ love Him the more who forgiveth us our large debts. For that woman in the Gospel
 
 5\. Accept then a few words. If I shall not do justice to the magnitude of the question, lay up for a time<sup>3219</sup> what I shall say at present, and hold me a debtor for some future time. Suppose now two men, that by the clearer force of examples ye may think upon what I have proposed to you. One of them is full of sins, has lived most wickedly for a length of time; the other of them has committed but few sins; they come both to grace, are both baptized, they enter debtors, they go out free; more has been forgiven to one, less to the other. I ask, how much does each love? If I shall find that he loves most, to whom the most sins have been forgiven, it is to his greater advantage that he has sinned much, his much iniquity was to his greater advantage, that so his love might not be lukewarm. I ask the other how much he loves, I find less; for if I find that he too loves, as much as the other, to whom much has been forgiven, how shall I make answer to the words of the Lord, how shall that be true which the Truth hath said, “To whom little is forgiven, the same loveth little”? “See,” a man says, “but little has been forgiven me, I have not sinned much; yet I love as much as he, to whom much has been forgiven.” Dost thou speak truth, or Christ? Has thy lie been forgiven thee to this end, that thou shouldest fix the charge of lying on Him who forgave thee? If little has been forgiven thee, thou lovest little. For if but little has been forgiven thee, and thou lovest very much, thou contradictest Him who said, “To whom little is forgiven, the same loveth little.” Therefore I give the more credit to Him, who knoweth thee better than thou dost know thyself. If thou dost suppose that but little hath been forgiven thee, it is certain that thou lovest but little. “What then,” says he, “ought I to do? Ought I to commit many sins, that there may be many which He shall be able to forgive me, that I may be able to love more?” It presses me sore, but may the Lord, who hath proposed this saying of truth to us, deliver me out of this strait.
 
-321\. 8 Rom. iii. 8. *Interim*.
+3218 Rom. iii. 8. *Interim*.
 
 
 *[p. 870]* ^pg896
@@ -218,7 +218,7 @@ Christ was supposed to be but a man both by him who invited Him, and by them who
 
 8\. The Good Physician not only cured the sick then present, but provided also for them who were to be hereafter. There were to be men in after times, who should say, “It is I<sup>3221</sup> who forgive sins, I who justify, I who sanctify, I who cure whomsoever I baptize.” Of this number are they who say, “Touch me not.”<sup>3222</sup> Yes, so thoroughly are they of this number, that lately, in our conference,<sup>3223</sup> as ye may read in the records of it, when a place was offered them by the commissary,<sup>3224</sup> that they should sit with us, they thought it right to answer, “It is told us in Scripture with such not to sit,” lest of course by the contact of the seats, our
 
-322\. 1 The Donatists, holding the validity of Baptism to depend on the holiness of the minister, made it, in fact, man’s act, man’s gift. St. Augustin answers, Baptism is Christ’s, not man’s, and that “as His, it availeth equally to whom, however unequal they through whom, it is given.” Ep. 93, *ad Vinc. Don* § 47. See other passages, Tract. 67, on Holy Baptism, p. 192 sqq. 3222 Isa. lxv. 5. 3223 The Collatio Carthag. of which part of the acts remain. See also St. Augustin, *Brev. Coll. c. Don*. and *Ad Don. post Collat*. In it the Donatists being entirely confuted by St. Augustin, larger numbers than before joined the Church. Poss. *Vit*. c. 13. *Cognitore*. Marcellinus, see Serm. xiii. (lxiii. Ben) 18 (xii.) note. 419 3225 Ps. xxvi. 4, Sept. 3226 1 Tim. i. 7. 3227 Matt. xviii. 18. 3228 John xx. 22.
+3221 The Donatists, holding the validity of Baptism to depend on the holiness of the minister, made it, in fact, man’s act, man’s gift. St. Augustin answers, Baptism is Christ’s, not man’s, and that “as His, it availeth equally to whom, however unequal they through whom, it is given.” Ep. 93, *ad Vinc. Don* § 47. See other passages, Tract. 67, on Holy Baptism, p. 192 sqq. 3222 Isa. lxv. 5. 3223 The Collatio Carthag. of which part of the acts remain. See also St. Augustin, *Brev. Coll. c. Don*. and *Ad Don. post Collat*. In it the Donatists being entirely confuted by St. Augustin, larger numbers than before joined the Church. Poss. *Vit*. c. 13. *Cognitore*. Marcellinus, see Serm. xiii. (lxiii. Ben) 18 (xii.) note. 419 3225 Ps. xxvi. 4, Sept. 3226 1 Tim. i. 7. 3227 Matt. xviii. 18. 3228 John xx. 22.
 
 
 *[p. 872]* ^pg898
@@ -239,7 +239,7 @@ Now the Spirit is God. God therefore remits, not ye. But what are ye in regard t
 
 11\. Now why I have wished to bring this subject before you, give heed, Dearly Beloved. It was meet that God should first show that He worketh by the ministry of men; but afterwards by Himself, lest men should think, as Simon thought, that it was man’s gift, and not God’s. Though the disciples themselves knew this well already. For there were one hundred and twenty<sup>3236</sup> men collected together, when without the imposition of any hand the Holy Ghost came upon them. For who had laid hands on them at that time? And yet He came,
 
-323\. 0 1 Cor. iii. 16. 3231 1 Cor. vi. 19. 3232 Acts viii. 5. 3233 Acts viii. 14. 3234 Acts viii. 17. 3235 Acts viii. 19–21.
+3230 1 Cor. iii. 16. 3231 1 Cor. vi. 19. 3232 Acts viii. 5. 3233 Acts viii. 14. 3234 Acts viii. 17. 3235 Acts viii. 19–21.
 
 
 *[p. 874]* ^pg900
@@ -252,9 +252,9 @@ and filled them first. After that offence of Simon, what did God do? See Him tea
 
 13\. So then let every soul which is to be delivered from her manifold wickedness by the grace of the Lord, to be cleansed as it were in the Church from her filthy prostitution, believe with all assurance, approach the Feet of the Lord, seek His Footsteps, confess in pouring out tears upon them, and wipe them with her hair. The Feet of the Lord are the preachers
 
-323\. 7 Acts viii. 28. 3238 Acts viii. 29. 3239 Acts viii. 36, etc.
+3237 Acts viii. 28. 3238 Acts viii. 29. 3239 Acts viii. 36, etc.
 
-324\. 0 St. Augustin probably conceives of the presence of the Holy Ghost, which “caught away Philip,” as sanctifying the Eunich. “He went on his way rejoicing,” his Baptism being perfected. St Augustine is followed by the Gloss Ord. 3241 Acts x. 25.
+3240 St. Augustin probably conceives of the presence of the Holy Ghost, which “caught away Philip,” as sanctifying the Eunich. “He went on his way rejoicing,” his Baptism being perfected. St Augustine is followed by the Gloss Ord. 3241 Acts x. 25.
 
 
 *[p. 875]* ^pg901
@@ -263,7 +263,7 @@ and filled them first. After that offence of Simon, what did God do? See Him tea
 
 of the Gospel. The woman’s hair is all superfluous possessions. Let her wipe the Feet with her hair, yea by all means wipe them, let her do works of mercy; and when she has wiped them, let her kiss them, let her receive peace, that she may have love. She has approached to such an one, has been baptized by such an one as the Apostle Paul: from him let her hear, “Be ye followers of me, even as I also am of Christ.”<sup>3243</sup> But she has been baptized by another, by one “who seeks his own things, not the things which are Jesus Christ’s:”<sup>3244</sup> let her hear from the Lord, “Do what they say, but do not what they do.”<sup>3245</sup> So let her assurance be in Him, whether she meet with a good Evangelist, or with one who acts not as he speaks. For she hears from the Lord with firm assurance, “O woman, go thy way, thy faith hath made thee whole.”
 
-324\. 3 1 Cor. iv. 16, xi. 1. 3244 Phil. ii. 21.
+3243 1 Cor. iv. 16, xi. 1. 3244 Phil. ii. 21.
 
 
 *[p. 876]* ^pg902
@@ -278,9 +278,9 @@ Sermon L.
 
 2\. And then forthwith to another who was silent, and said nothing, and promised nothing, He saith, “Follow Me!” As much evil as He saw in the other, so much good saw He in this man. “Follow Me,”<sup>3251</sup> Thou sayest to one who hath no wish for it. Lo, here is a man quite ready, “I will follow Thee whithersoever Thou goest;” and yet Thou sayest to another who hath no such wish, “Follow thou Me.” “The first,” saith He, “I decline, because I see in
 
-324\. 6 Luke ix. 57. 3247 Phil. ii. 21. 3248 Matt. vii. 21. 3249 John ii. 25.
+3246 Luke ix. 57. 3247 Phil. ii. 21. 3248 Matt. vii. 21. 3249 John ii. 25.
 
-325\. 0 Luke ix. 58.
+3250 Luke ix. 58.
 
 
 *[p. 877]* ^pg903
@@ -293,7 +293,7 @@ commandment of God. And the Apostle Paul has in his Epistle laid it down, and sa
 
 3\. See now how another disciple presented himself, to whom no one said anything: he said, “Lord, I will follow Thee, but I will first go to bid them farewell which are at my house.”<sup>3256</sup> I suppose this is his meaning, “Let me tell my friends, lest haply they seek me as usual.” And the Lord said, “No man putting his hand on the plough, and looking back,
 
-325\. 2 Eph. vi. 2. 3253 Luke ix. 60. 3254 Cant. ii. 4, Sept. 3255 2 Macc. vii. 22.
+3252 Eph. vi. 2. 3253 Luke ix. 60. 3254 Cant. ii. 4, Sept. 3255 2 Macc. vii. 22.
 
 
 *[p. 878]* ^pg904
@@ -304,9 +304,9 @@ is fit for the kingdom of God.”<sup>3257</sup> The East calls thee, and thou a
 
 4\. Beware, O Christian, beware of pride. For though thou art a follower of the saints, ascribe it always wholly to grace; for that there should be any “remnant” in thee, the grace of God hath brought to pass, not thine own deserts. For the Prophet Isaiah again having this remnant in view, had said already, “Except the Lord of Hosts had left us a seed, we should have become as Sodom, and should have been like unto Gomorrah.”<sup>3259</sup> “So then,” says the Apostle, “at this present time also a remnant is saved through the election of grace. But if by grace,” says he, “then is it no more of works” (that is, “be now no more lifted up upon thine own deserts”); “otherwise grace is no more grace.”<sup>3260</sup> For if thou dost build<sup>3261</sup> on thine own work; then is a reward rendered unto thee, not grace freely bestowed. But if
 
-325\. 7 Luke ix. 62. 3258 Rom. xi. 3, etc. 3259 Isa. i. 9.
+3257 Luke ix. 62. 3258 Rom. xi. 3, etc. 3259 Isa. i. 9.
 
-326\. 0 Rom. xi. 5, 6. *Præsumis*.
+3260 Rom. xi. 5, 6. *Præsumis*.
 
 
 *[p. 879]* ^pg905
@@ -325,7 +325,7 @@ Sermon LI.
 
 \[CI. Ben.\] *On the words of the Gospel, Luke x. 2, “The harvest truly is plenteous,” etc.* 1. By the lesson of the Gospel which has just been read, we are reminded to search what that harvest is of which the Lord says, “The harvest truly is great, but the labourers are few. Pray ye the Lord of the harvest, that He would send forth labourers into His harvest.”<sup>3262</sup> Then to His twelve disciples, whom He also named Apostles, He added other seventy-two, and sent them all, as appears from His words, to the harvest then ready. What then was that harvest? For that harvest was not among these Gentiles, among whom there had been nothing sown. It remains therefore that we understand that this harvest was among the people of the Jews. It was to that harvest that the Lord of the harvest came, to that harvest He sent reapers; but to the Gentiles He sent not reapers, but sowers. Understand we then that it was harvest among the people of the Jews, sowing time among the peoples of the Gentiles. For out of that harvest were the Apostles chosen, where now that the harvest was, the corn was already ripe; for there had the Prophets sown. Delightful it is to take a view of God’s husbandry, and to feel delight in His gifts, and the labourers in His field. For in this husbandry did he labour, who said, “I laboured more than they all.” <sup>3263</sup> But the strength to labour was given him by the Lord of the harvest. Therefore he added, “Yet it is not I, but the grace of God which is with me.” For that he was employed in this husbandry he clearly enough shows, where he says, “I have planted, Apollos watered.”<sup>3264</sup> But this Apostle, from Saul, becoming Paul, that is, from being proud, the least of all (for the name of Saul is derived from Saul; but Paul is little; whence in a way interpreting his own name, he says, “I am the least of the Apostles”<sup>3265</sup>: this Paul I say, the little, and the least, sent unto the Gentiles, says that he was sent particularly to the Gentiles. He himself so writes, we read, believe, preach it. He then in his Epistle to the Galatians says, that having been now called by the Lord Jesus, he came to Jerusalem, and “communicated the Gospel”<sup>3266</sup> unto the Apostles, that their right hands were given to him, the sign of harmony, the sign of agreement, that what they had learnt from him differed in no respect from them. Afterwards he says that it was agreed between him and them, that he should go to the Gentiles, and they unto the circumcision, he as a sower, they as reapers. So also with good reason, though they knew it not, did the Athenians give him his name. For as they heard the word from him, they said, “Who is this sower of words?”<sup>3267</sup>
 
-326\. 2 Luke x. 2. 3263 1 Cor. xv. 10. 3264 1 Cor. iii. 6. 3265 1 Cor. xv. 9. 3266 Gal. ii. 1, etc. Acts xvii. 18. σπερμολόγος. 423 3268 Luke x. 2. 3269 Luke x. 3.
+3262 Luke x. 2. 3263 1 Cor. xv. 10. 3264 1 Cor. iii. 6. 3265 1 Cor. xv. 9. 3266 Gal. ii. 1, etc. Acts xvii. 18. σπερμολόγος. 423 3268 Luke x. 2. 3269 Luke x. 3.
 
 
 *[p. 881]* ^pg907
@@ -334,7 +334,7 @@ Sermon LI.
 
 2\. Attend then and be it your delight with me to take a view of the husbandry of God and the two harvests in it, the one already past, the other yet to come; the one already past among the people of the Jews, the one yet to come among the peoples of the Gentiles. Let us prove this; and whereby, but by the Scripture of God, the Lord of the harvest? See we have it said there in this present lesson, “The harvest is great, but the labourers are few. Pray ye the Lord of the harvest, that He would send forth labourers into His harvest.”<sup>3268</sup> But because in that harvest there were to be gainsaying and persecuting Jews, He says, “Behold, I send you forth as lambs among wolves.”<sup>3269</sup> Let us show something clearer still touching this harvest in the Gospel according to John, where the Lord sat as He was wearied at the well, great mysteries<sup>3270</sup> indeed were transacted, but the time is too short to treat of them all. But give ye ear to that which relates to the present subject. For we have undertaken to show a harvest among the people, among whom the Prophets preached; for therefore were they sowers, that the Apostles might be reapers. A woman of Samaria talks with the Lord Jesus, and when the Lord among other things had told her how God ought to be worshipped, she says, “We know that Messias cometh who is called Christ, and He will teach us all things. And the Lord saith to her, I that speak with thee am He.”<sup>3271</sup> Believe what thou hearest; why dost thou make search for what thou seest? “I that speak with thee am He.” But as to what she had said, “We know that the Messias will come,” whom Moses and the Prophets have announced, “who is called Christ.” The harvest was already in the ear. When it had yet to grow it had received the Prophets as sowers, now that it was come to ripeness it waited for the Apostles as reapers. Presently as she heard this she believed and left her water-pot, and ran in haste, and began to announce the Lord. The disciples at that time had gone to buy bread; who on their return found the Lord talking with the woman, and they marvelled. Yet did they not dare to say to Him, “What or why talkest Thou with her?”<sup>3272</sup> They had astonishment in themselves, they repressed their boldness in their heart. To this Samaritan woman then the Name of Christ was nothing new, she was already waiting for His coming, already did she believe that He would come. Whence had she believed it, if Moses had not sown? But hear this more expressly noted. The Lord then said to His disciples, “Ye say that the summer is yet far distant, lift up your eyes, and see the fields white already to harvest” 3273 And then He adds, “Others have laboured, and ye are entered into their labours.”3274
 
-327\. 0 *Sacramenta*. 3271 John iv. 25, 26. 3272 John iv. 27. 3273 John iv. 35.
+3270 *Sacramenta*. 3271 John iv. 25, 26. 3272 John iv. 27. 3273 John iv. 35.
 
 
 *[p. 882]* ^pg908
@@ -347,7 +347,7 @@ Abraham laboured, Isaac, Jacob, Moses, the Prophets laboured in sowing; at the L
 
 4\. My place accordingly it is, whom with all my unworthiness the Lord hath appointed to be a labourer in His field, to say these things to you, to sow, to plant, to water, yea to dig round about some trees, and to apply the basket of<sup>3280</sup> dung; belongeth it to me to do these things faithfully; to you to receive them faithfully; to the Lord to aid me in my labour, and
 
-327\. 5 Rom. xv. 20. 3276 John xv. 5. 3277 Luke viii. 5. 3278 *Difficiles*. 3279 *Vitiosæ*. *i.e*. to appoint the exercises of penance; see Sermon lx. (cx. Ben) (i.). 424
+3275 Rom. xv. 20. 3276 John xv. 5. 3277 Luke viii. 5. 3278 *Difficiles*. 3279 *Vitiosæ*. *i.e*. to appoint the exercises of penance; see Sermon lx. (cx. Ben) (i.). 424
 
 
 *[p. 883]* ^pg909
@@ -360,7 +360,7 @@ you in your belief, all of us labouring, but in Him overcoming the world. What t
 
 6\. Let us give heed to our Lord, our True Example and Succour. Let us prove that He is our Succour; “Without Me ye can do nothing.”<sup>3283</sup> Let us prove that He is our Example; “Christ,” says Peter, “suffered for us, leaving us an example that we should follow His steps.”<sup>3284</sup> Our Lord Himself had bags in the way, and these bags He entrusted to Judas. It is true He suffered from the thief; but I as desiring to learn of my Lord say, “O Lord, Thou didst suffer from the thief, whence hadst Thou that of which he could take away? Me, a wretched and infirm man Thou hast admonished not even to carry a purse; Thou didst carry
 
-328\. 1 John viii. 44. 3282 Luke x. 4–6. 3283 John xv. 5. 1 Pet. ii. 21.
+3281 John viii. 44. 3282 Luke x. 4–6. 3283 John xv. 5. 1 Pet. ii. 21.
 
 
 *[p. 884]* ^pg910
@@ -373,7 +373,7 @@ bags, and hadst that in which Thou couldest suffer from the thief. If Thou hadst
 
 8\. But what thinkest thou, who dost not choose to understand in what sense these words are used, and who art forced by thy<sup>3288</sup> perverse interpretation to slander even the Lord Himself as to the “bags” and “shoes;” what thinkest thou? Does it please thee then, that as we meet our friends in the way, we should neither pay them our salutations if they are our betters, nor return the salutations of our inferiors? What, dost thou fulfil the Gospel, because thou art saluted, and art silent? But thus thou wilt not be like to the traveller going on the way, but to the milestone pointing out the way. Let us then lay aside this coarse<sup>3289</sup> interpretation, and understand aright the words of the Lord, “and salute no man by the way.” For it is not without a cause that we are enjoined this, nor would He mislike us to do what He enjoined. What then is, “Salute no man by the way”? It might indeed be even simply taken thus, that He has commanded us to do what He enjoins with all speed; and that His words “Salute no man by the way,” are as though He had said, “Put all other things by, till ye accomplish what has been enjoined you;” according to that style of speaking by which
 
-328\. 5 Rom. xii. 16. 3286 Exod. iii. 5. 3287 Luke iii. 16. 3288 *Praviter*. *Stoliditatem*.
+3285 Rom. xii. 16. 3286 Exod. iii. 5. 3287 Luke iii. 16. 3288 *Praviter*. *Stoliditatem*.
 
 
 *[p. 885]* ^pg911
@@ -386,7 +386,7 @@ expressions are wont to be exaggerated in the custom of conversation. Nor need w
 
 10\. For such as these did the Apostle suffer; yet did he not enjoin them so to be. And these do something, or something is done by them; they seek something else, yet they preach the word. Care not what the preacher seeks after; be it thy will to hold fast what he preaches; but let his intention be no concern of thine. Hear the word of salvation from his mouth,
 
-329\. 0 Luke x. 15. 3291 *Salutem*. Phil. ii. 21.
+3290 Luke x. 15. 3291 *Salutem*. Phil. ii. 21.
 
 
 *[p. 886]* ^pg912
@@ -397,7 +397,7 @@ from his mouth hold fast this salvation. Be not thou the judge of his heart. If 
 
 not by the way,” that is, who do not seek or do any other thing, but who in genuine charity preach the Gospel, let them come into the house, and say, “Peace to this house.” They speak not with the mouth only; they pour out that of which they are full; they preach peace, and they have peace. They are not as those of whom it was said, “Peace, Peace, and there is no peace.” <sup>3298</sup> What is, “Peace, Peace, and there is no peace”? They preach it, but they have it not; they praise it and they love it not; they say, and do not. But yet do thou receive the peace, “whether by occasion or in truth Christ be preached.” Whoso then is full of peace, and salutes, saying, “Peace to this house, if the son of peace be there, his peace shall rest upon him; if not,” for peradventure there is no one of peace there, yet he who saluted has lost nothing, “it shall return,” says he, “to you again.” It shall return to thee, though it never departed from thee. For this He would mean to say, It profiteth thee that thou hast declared it, it hath not profited him at all who hath not received it; thou hast not lost thy reward, because he hath remained empty; it is rendered thee for thy good will, it is rendered thee
 
-329\. 3 *Salutem*. 3294 Matt. xxiii. 3. 3295 1 Cor. iv. 16, xi. 1; Sermon xxiv. (lxxiv. Ben.) 4. 3296 *Salutem*. Phil i. 18, 19. προφάσει; *per occasionem*, Vulgate. 3297 Jer. viii. 11.
+3293 *Salutem*. 3294 Matt. xxiii. 3. 3295 1 Cor. iv. 16, xi. 1; Sermon xxiv. (lxxiv. Ben.) 4. 3296 *Salutem*. Phil i. 18, 19. προφάσει; *per occasionem*, Vulgate. 3297 Jer. viii. 11.
 
 
 *[p. 887]* ^pg913
@@ -422,7 +422,7 @@ Sermon LII.
 
 3\. Remember that rich and that poor man in the Gospel; “the rich man clothed in purple and fine linen,” and crammed with daily feastings; and the poor man “lying before” the rich man’s gate, hungry, and looking for “the crumbs from his table, full of sores, licked” by “dogs.”<sup>3301</sup> Remember, I say; and whence do ye remember, but because Christ is there in your hearts? Tell me, what have ye asked Him within, and what hath He answered. For he goes on to say, “It came to pass that that poor man died, and was carried by the Angels into Abraham’s bosom. The rich man also died, and was buried in hell. And being in torments
 
-330\. 0 Luke x. 16. Luke xvi. 19, etc. 427 3302 Luke xvi. 22–24. 3303 *Temporis*.
+3300 Luke x. 16. Luke xvi. 19, etc. 427 3302 Luke xvi. 22–24. 3303 *Temporis*.
 
 
 *[p. 889]* ^pg915
@@ -455,9 +455,9 @@ Sermon LIII.
 
 2\. Martha and Mary were two sisters, true kinswomen both, not only in blood, but in religion also; both clave to the Lord, both with one heart served the Lord when He was present in the flesh. Martha received Him, as strangers are usually received. Yet it was the handmaid received her Lord, the sick her Saviour, the creature her Creator. And she received Him to be fed in the body, herself to be fed in spirit. For the Lord was pleased to “take on Him the form of a servant,”<sup>3306</sup> and “having taken the form of a servant” in it to be fed by servants, by reason of His condescension, not His condition. For this truly was condescension, to allow Himself to be fed by others. He had a body, wherein He might hunger indeed and thirst; but do ye not know that when He hungered in the wilderness Angels ministered to Him?<sup>3307</sup> So then, in that He was pleased to be fed, He showed favour to them that fed Him. And what marvel is this, seeing He showed this same favour to the widow as touching the Holy Elias, whom He had before fed by the ministry of a raven?<sup>3308</sup> Did He fail in His power of feeding him, when He sent him to the widow? By no means. He did not fail in His power of feeding him, when He sent him to the widow; but He designed to bless the religious widow, by means of her pious office paid to His servant. Thus then was the Lord received as a guest, “who came unto His own, and His own received Him not: but as many as received Him, to them gave He power to become the sons of God:”<sup>3309</sup> adopting servants, and making them brethren; redeeming captives, and making them co-heirs. Yet let none of you, as perhaps may be the case, say, “O blessed they who obtained the grace<sup>3310</sup> to receive Christ into their own house!” Do not grieve, do not murmur, that thou wert born in times when thou seest the Lord no more in the flesh; He has not taken this blessedness from thee. “Forasmuch,” says He, “as ye have done it unto the least of Mine, ye have done unto Me.”<sup>3311</sup>
 
-330\. 6 Phil. ii. 7. 3307 Matt. iv. 11. 3308 1 Kings xvii. 6. 3309 John i. 11, 12.
+3306 Phil. ii. 7. 3307 Matt. iv. 11. 3308 1 Kings xvii. 6. 3309 John i. 11, 12.
 
-331\. 0 *Meruerunt*. 428 3312 Ps. xlvi. 10. 3313 Luke x. 41. 3314 Luke x. 42. 3315 St. Augustin is explaining the words *unum opus est*, which in themselves might mean, “there is one work,” or as in the text. 3316 1 Cor. i. 10. Phil. ii. 2, 3.
+3310 *Meruerunt*. 428 3312 Ps. xlvi. 10. 3313 Luke x. 41. 3314 Luke x. 42. 3315 St. Augustin is explaining the words *unum opus est*, which in themselves might mean, “there is one work,” or as in the text. 3316 1 Cor. i. 10. Phil. ii. 2, 3.
 
 
 *[p. 892]* ^pg918
@@ -478,6 +478,6 @@ prays to the Father touching them that are His: “that they may be one even as 
 
 6\. Yea, Martha, blessed in thy good serving, even thou (with thy leave would I say it) seekest this reward for all thy labour—quiet. Now thou art occupied about much serving,
 
-331\. 8 John xvii. 22. 3319 Acts iv. 32.
+3318 John xvii. 22. 3319 Acts iv. 32.
 
-332\. 0 Ps. xxxiv. 3. 3321 *Supernum*. 3322 1 Cor. ix. 11. 3323 Heb. xiii. 2. 429 παρελθων; *transiens*, Vulgate. 3325 3326 Luke xii. 37. 3327 Matt. viii. 11. 3328 John xiii. 1. μεταβῇ; *transeat*, Vulgate.
+3320 Ps. xxxiv. 3. 3321 *Supernum*. 3322 1 Cor. ix. 11. 3323 Heb. xiii. 2. 429 παρελθων; *transiens*, Vulgate. 3325 3326 Luke xii. 37. 3327 Matt. viii. 11. 3328 John xiii. 1. μεταβῇ; *transeat*, Vulgate.

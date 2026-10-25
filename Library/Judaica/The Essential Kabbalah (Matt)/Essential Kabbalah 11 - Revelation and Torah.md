@@ -8,7 +8,7 @@ page_range: "132–146"
 
 # ![[essential-kabbalah-9780062048134_023.png]] Revelation and Torah
 
-[p. 134]
+[p. 134] ^pg134
 
 ### THE ESSENCE OF TORAH
 
@@ -22,7 +22,7 @@ Finally they brought him royal pastry made with honey and oil. He said, “And w
 
 Because of that view, he knew nothing of the delights of the world; they were lost to him. So it is with one who grasps the principle and does not know all those delectable delights deriving, diverging, from that principle.
 
-[p. 135]
+[p. 135] ^pg135
 
 ### HOW TO LOOK AT TORAH
 
@@ -95,7 +95,7 @@ As wine must sit in a jar, so Torah must sit in this garment.
 So look only at what is under the garment.
 All those words and all those stories are garments.”
 
-[p. 138]
+[p. 138] ^pg138
 
 ### THE OLD MAN AND THE RAVISHING MAIDEN
 
@@ -307,7 +307,7 @@ if you run, you will not stumble.
 Your people, all of them righteous, will inherit the land forever—
 a sprout of my planting, the work of my hands, making me glorious.”
 
-[p. 145]
+[p. 145] ^pg145
 
 ### UNRIPE FRUIT OF WISDOM
 
@@ -319,7 +319,7 @@ But isn’t the Torah the source of life? How can you say that she is unripe’ 
 
 Look! The root of Torah is supernal wisdom—hidden and concealed, perceived only through its wondrous pathways. How wondrous are the offshoots! But since the root is wisdom, who can ever reach it? That is why Israel’s sweet singer sang, “Open my eyes, so I can see wonders out of your Torah!”
 
-[p. 146]
+[p. 146] ^pg146
 
 ### WITHOUT VOWELS
 

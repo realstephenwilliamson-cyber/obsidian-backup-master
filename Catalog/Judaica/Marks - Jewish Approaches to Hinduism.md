@@ -18,8 +18,7 @@ language:
   - English
 pages: 248
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Marks - Jewish Approaches to Hinduism (2021).pdf]]"
   - "[[Library/Judaica/Jewish Approaches to Hinduism (Marks)/Jewish Approaches to Hinduism (Marks)]]"

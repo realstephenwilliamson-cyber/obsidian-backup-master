@@ -5,9 +5,7 @@ section: "Pastoral Offices"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/PastoralOffices/an_order_for_marriage.html"
-page_range:
-  - 435
-  - 436
+page_range: "435–436"
 aliases:
   - "BCP 435"
   - "BCP 436"
@@ -16,7 +14,7 @@ aliases:
 
 [[BCP 1979]] · *Pastoral Offices* · pages 435–436
 
-[p. 435]
+[p. 435] ^pg435
 
 ## An Order for Marriage
 
@@ -34,7 +32,7 @@ aliases:
 
 *\4. The vows of the man and woman are exchanged, using the following form*
 
-[p. 436]
+[p. 436] ^pg436
 
 In the Name of God, I, *N.*, take you, *N.*, to be my (wife) (husband), to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, until we are parted by death. This is my solemn vow.
 

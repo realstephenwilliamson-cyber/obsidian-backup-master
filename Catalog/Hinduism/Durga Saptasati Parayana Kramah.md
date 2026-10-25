@@ -17,8 +17,7 @@ language:
   - English
 pages: 173
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[DM2020-English.pdf]]"
 aliases:

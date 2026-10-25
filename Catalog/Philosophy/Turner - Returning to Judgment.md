@@ -17,8 +17,7 @@ language:
   - English
 pages: 269
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Turner - Returning to Judgment (2023).pdf]]"
   - "[[Library/Philosophy/Returning to Judgment (Turner)/Returning to Judgment (Turner)]]"

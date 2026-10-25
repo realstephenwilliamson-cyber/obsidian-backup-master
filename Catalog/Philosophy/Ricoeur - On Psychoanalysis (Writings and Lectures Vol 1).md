@@ -18,8 +18,7 @@ language:
   - English
 pages: 245
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[Library/Philosophy/Ricoeur - On Psychoanalysis, Writings and Lectures 1 (2012).pdf]]"
   - "[[Library/Philosophy/On Psychoanalysis - Writings and Lectures, Volume 1 (Ricoeur)/On Psychoanalysis - Writings and Lectures, Volume 1 (Ricoeur)]]"

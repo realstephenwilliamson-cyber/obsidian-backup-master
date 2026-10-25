@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/American Friends Service Committee - Speak Truth to 
 book: "[[Library/Philosophy/Speak Truth to Power (American Friends Service Committee)/Speak Truth to Power (American Friends Service Committee)|Speak Truth to Power (American Friends Service Committee)]]"
 order: 4
 source_pdf: "Library/Philosophy/American Friends Service Committee - Speak Truth to Power (1955).pdf"
-pages: "i–13"
+page_range: "i–13"
 pdf_pages: "9–21"
 text_source: "the PDF's OCR text layer (Acrobat), PyMuPDF"
 converted: 2026-10-22

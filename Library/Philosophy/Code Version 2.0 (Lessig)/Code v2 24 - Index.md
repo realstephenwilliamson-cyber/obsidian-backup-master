@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Lessig - Code Version 2.0]]"
 book: "[[Library/Philosophy/Code Version 2.0 (Lessig)/Code Version 2.0 (Lessig)|Code Version 2.0 (Lessig)]]"
 order: 24
 source_pdf: "Library/Philosophy/Lessig - Code Version 2.0 (2006).pdf"
-pages: "399–410"
+page_range: "399–410"
 pdf_pages: "413–424"
 text_source: "the PDF's own text layer (PyMuPDF)"
 converted: 2026-10-22

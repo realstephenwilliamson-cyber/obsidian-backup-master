@@ -19,8 +19,7 @@ language:
   - English
 pages: 333
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Maurice Merleau-Ponty - The Visible and the Invisible.pdf]]"
   - "[[Library/Philosophy/The Visible and the Invisible (Merleau-Ponty)/The Visible and the Invisible (Merleau-Ponty)]]"

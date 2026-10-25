@@ -4,7 +4,7 @@ book: "[[The Essential Kabbalah (Matt)]]"
 order: 2
 page_range: "1–22"
 ---
-[p. 1]
+[p. 1] ^pg1
 
 # Introduction: A Glimpse of the Orchard
 
@@ -20,7 +20,7 @@ From the beginning of the movement in the twelfth and thirteenth centuries, the 
 
 The kabbalists made the fantastic claim that their mystical teachings derived from the Garden of Eden. This suggests that Kabbalah conveys our original nature: the unbounded awareness of Adam and Eve. We have lost this nature, the most ancient tradition, as the inevitable consequence of tasting the fruit of knowledge, the price of maturity and culture. The kabbalist yearns to recover that primordial tradition, to regain cosmic consciousness, without renouncing the world.
 
-[p. 3]
+[p. 3] ^pg3
 
 ## Visions of God
 
@@ -133,7 +133,7 @@ The purpose of learning is to grasp the divine.
 
 The purpose of apprehending the divine is to maintain the endurance of the one who apprehends with the joy of apprehending.
 
-[p. 22]
+[p. 22] ^pg22
 
 ### THE NATURE OF GOD
 

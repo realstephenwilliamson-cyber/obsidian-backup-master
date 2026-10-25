@@ -161,7 +161,7 @@ const HD = (() => {
         else sunday = "—";
         rows.push({ observed: o.observed, nominal: o.nominal, f, nomDay, obsDay, what, sunday });
       }
-      for (const o of obsYear(y).filter(o => /^All Saints/.test(o.name) && DO.parts(o.nominal).y === y)) {
+      for (const o of obsYear(y).filter(o => /^All Saints/.test(o.name) && DO.parts(o.nominal).y === y && DO.parts(o.nominal).dow !== 0)) { // none when 1 Nov is itself a Sunday (decision 16b; 24 Oct 2026)
         const T = firstSundayAfterNov1(y), f = dress(o);
         rows.push({ observed: T, nominal: o.nominal, f, nomDay: DO.DAYS[DO.parts(o.nominal).dow], obsDay: "Sunday", what: "may also be observed on the Sunday following November 1 (BCP p. 15)", sunday: "yes, always (BCP p. 15)" });
       }

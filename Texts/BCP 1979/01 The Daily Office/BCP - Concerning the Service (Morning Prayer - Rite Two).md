@@ -5,9 +5,7 @@ section: "The Daily Office"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/DailyOffice/concernmp2.html"
-page_range:
-  - 74
-  - 74
+page_range: "74"
 aliases:
   - "BCP 74"
 ---
@@ -15,7 +13,7 @@ aliases:
 
 [[BCP 1979]] · *The Daily Office* · pages 74–74
 
-[p. 74]
+[p. 74] ^pg74
 
 ## Concerning the Service
 

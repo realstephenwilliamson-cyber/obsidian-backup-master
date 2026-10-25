@@ -19,8 +19,7 @@ language:
   - Sanskrit
 pages: 802
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Goodall (ed.) - The Parakhyatantra (2004).pdf]]"
   - "[[Library/Trika/The Parakhyatantra - A Scripture of the Saiva Siddhanta (Goodall)/The Parakhyatantra - A Scripture of the Saiva Siddhanta (Goodall)]]"

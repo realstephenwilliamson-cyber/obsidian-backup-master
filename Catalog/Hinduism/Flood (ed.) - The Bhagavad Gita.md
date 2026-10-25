@@ -19,8 +19,7 @@ language:
   - English
 pages: 225
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Flood (ed.) - The Bhagavad Gita (2015).pdf]]"
   - "[[Library/Hinduism/The Bhagavad Gita (Flood)/The Bhagavad Gita (Flood)]]"

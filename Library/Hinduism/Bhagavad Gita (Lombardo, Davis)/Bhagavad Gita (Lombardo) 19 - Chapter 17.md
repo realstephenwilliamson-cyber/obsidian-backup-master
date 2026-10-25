@@ -6,7 +6,7 @@ page_range: "91–94"
 aliases:
   - "Gita (Lombardo) 17"
 ---
-[p. 91]
+[p. 91] ^pg91
 
 ## Chapter Seventeen
 

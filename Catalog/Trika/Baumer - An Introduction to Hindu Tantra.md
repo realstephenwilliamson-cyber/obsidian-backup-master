@@ -17,8 +17,7 @@ language:
   - English
 pages: 49
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Baumer - Introduction to Hindu Tantra, four lectures (Bir 2011).pdf]]"
   - "[[Library/Trika/An Introduction to Hindu Tantra (Baumer)/An Introduction to Hindu Tantra (Baumer)]]"

@@ -18,8 +18,7 @@ language:
   - Hebrew
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Texts/Pirkei Avot/Pirkei Avot]]"
 aliases:
@@ -36,7 +35,7 @@ Charles Taylor's English translation (1897) with the Hebrew from the Vilna editi
 
 Each mishnah's block id stands under its Hebrew text, so a link such as `[[Pirkei Avot 01#^1-1]]` opens the Hebrew; the English is the paragraph above it.
 
-Details from the source's own metadata, as the cloud build of October 2026 recorded them; not checked against a printed copy; `status: keep` since 14 Oct 2026, as a primary text kept as notes.
+Details from the source's own metadata, as the cloud build of October 2026 recorded them; not checked against a printed copy; accepted on 14 Oct 2026 as a primary text kept as notes.
 
 ## About
 

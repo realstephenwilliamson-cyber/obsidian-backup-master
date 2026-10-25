@@ -17,8 +17,7 @@ language:
   - English
 pages: 46
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[2014_The_Saiva_Atimarga_in_the_Light_of.pdf]]"
   - "[[Library/Hinduism/The Saiva Atimarga in the Light of Nisvasaguhya 12.1-22ab (Acri)/The Saiva Atimarga in the Light of Nisvasaguhya 12.1-22ab (Acri)]]"

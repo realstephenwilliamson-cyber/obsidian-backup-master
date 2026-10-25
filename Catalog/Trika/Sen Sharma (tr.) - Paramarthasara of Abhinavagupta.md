@@ -19,8 +19,7 @@ language:
   - Sanskrit
 pages: 301
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Parmartha Sara of Abhinavagupta the Essence of the Supreme Truth Edited by Debabrata Sen Sharma.pdf]]"
   - "[[Library/Trika/Paramarthasara of Abhinavagupta (Abhinavagupta)/Paramarthasara of Abhinavagupta (Abhinavagupta)]]"

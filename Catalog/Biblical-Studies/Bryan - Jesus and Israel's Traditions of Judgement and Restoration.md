@@ -17,8 +17,7 @@ language:
   - English
 pages: 296
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Bryan - Jesus and Israel's Traditions of Judgement and Restoration (CUP 2002).pdf]]"
   - "[[Library/Biblical-Studies/Jesus and Israels Traditions (Bryan)/Jesus and Israels Traditions (Bryan)]]"

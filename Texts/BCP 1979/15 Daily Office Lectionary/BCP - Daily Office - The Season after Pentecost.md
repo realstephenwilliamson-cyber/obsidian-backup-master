@@ -5,9 +5,7 @@ section: "Daily Office Lectionary"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/DOLectionary/Pentecost.html"
-page_range:
-  - 966
-  - 995
+page_range: "966–995"
 aliases:
   - "BCP 966"
   - "BCP 967"

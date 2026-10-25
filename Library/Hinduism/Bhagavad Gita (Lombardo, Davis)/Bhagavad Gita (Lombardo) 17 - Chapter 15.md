@@ -6,7 +6,7 @@ page_range: "84–86"
 aliases:
   - "Gita (Lombardo) 15"
 ---
-[p. 84]
+[p. 84] ^pg84
 
 ## Chapter Fifteen
 

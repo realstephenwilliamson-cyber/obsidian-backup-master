@@ -22,9 +22,9 @@ received it when it was given, repented, found grace, and believing drunk that B
 
 2\. Accordingly, when the disciples marvelled at the withering of the tree, He set forth to them the value of faith, and said to them, “If ye have faith, and doubt not;”<sup>2957</sup> that is, if in all things ye have trust in God; and do not say, “God can do this, this He cannot do;” but rely on the omnipotence of the Almighty; “ye shall not only do this, but also if ye shall say to this mountain, Be thou removed, and be thou cast into the sea, it shall be done. And all things whatsoever ye shall ask in prayer, believing, ye shall receive.”<sup>2958</sup> Now we read that miracles were wrought by the disciples, yea rather by the Lord through the disciples; for, “without Me,” He says, “ye can do nothing.”<sup>2959</sup> The Lord could do many things without the disciples, but the disciples nothing without the Lord. He who could make<sup>2960</sup> even the disciples themselves, was not certainly assisted by them to make them. We read then of the Apostles’ miracles, but we nowhere read of a tree being withered by them, nor of a mountain removed into the sea. Let us enquire therefore where this was done. For the words of the Lord could not be without effect. If ye are thinking of “trees” and “mountains” in their ordinary and familiar sense, it has not been done. But if ye think of that tree of which He spake, and of that mountain of the Lord of which the Prophet said, “In the last days the mountain of the Lord’s house shall be manifest;”<sup>2961</sup> if ye think of it, and understand it thus, it has
 
-295\. 5 Acts ii. 37. 2956 Gal. v. 22. 2957 Matt. xxi. 21. 2958 Matt. xxi. 22. 2959 John xv. 5.
+2955 Acts ii. 37. 2956 Gal. v. 22. 2957 Matt. xxi. 21. 2958 Matt. xxi. 22. 2959 John xv. 5.
 
-296\. 0 The meaning of “*facio*” as “to *do*,” and “to make,” cannot be expressed in our language. Isa. ii. 2. 390 2962 Acts xiii. 46, etc.; Isa. xlix. 6. 2963 Isa. v. 6.
+2960 The meaning of “*facio*” as “to *do*,” and “to make,” cannot be expressed in our language. Isa. ii. 2. 390 2962 Acts xiii. 46, etc.; Isa. xlix. 6. 2963 Isa. v. 6.
 
 
 *[p. 813]* ^pg839
@@ -43,7 +43,7 @@ would say to us, “I have no delight in the withering away of this tree, but th
 
 4\. This one thing is that which the Lord intimates that He designed to signify by what He did. What else is there? He cometh to the tree being hungry, and seeketh fruit. Did He not know that it was not the time for it? What the cultivator of the tree knew, did not its Creator know? He seeketh on the tree then for fruit which it had not yet. Doth He really seek for it, or rather make a pretence of seeking it? For if He really sought it, He was mistaken. But this be far from Him, to be mistaken! He made then a pretence of seeking it. Fearing to allow this, that he maketh a pretence, thou dost confess that He was mistaken. Again, thou dost turn away from the idea of His being mistaken, and so run into that of His making a pretence. We are parched up between the two. If we are parched, let us beg for rain, that we may grow green, lest in saying anything unworthy of the Lord, we rather wither away. The Evangelist indeed says, “He came to the tree, and found no fruit on it.”<sup>2965</sup> “He found none,” would not be said of Him, unless He had either really sought for it, or made a pretence of seeking, though He knew that there was none there. Wherefore we do not hesitate, let us by no means say that Christ was mistaken. What then? shall we say He made a pretence? Shall we say this? How shall we get out of this difficulty? Let us say what, if the Evangelist had not said of the Lord in another place, we should not of ourselves dare to say. Let us say what the Evangelist has written, and when we have said, let us understand it. But in order that we may understand it, let us first believe. For, “unless ye believe,” says the Prophet, “ye shall not understand.”<sup>2966</sup> The Lord Christ after His Resurrection, was walking in the way with two of His disciples, by whom He was not yet recognised, and with whom He joined company as a third traveller. They came to the place whither they were going, and the Evangelist says, “But He made a pretence as though He would have gone further.”<sup>2967</sup> But they kept Him, saying, in the spirit of a courteous kindness,<sup>2968</sup> that it was already drawing toward evening, and praying Him to tarry there with them; being received and entertained by them, He breaketh Bread, and is known of them in blessing and breaking of the Bread. So then, let us not now fear to say, that He made a pretence of seeking, if He made a pretence
 
-296\. 5 Matt. xxi. 19. 2966 Isa. vii. 9, Sept. 2967 Luke xxiv. 28. *More humanitatis*. 391 2969 Probably in that Sermon which is marked as next before this in Posidonius’ Catalogue, ch. 9, namely, “From the Epistle to the Galatians, where Paul reproved Peter.” Ben ed. note.
+2965 Matt. xxi. 19. 2966 Isa. vii. 9, Sept. 2967 Luke xxiv. 28. *More humanitatis*. 391 2969 Probably in that Sermon which is marked as next before this in Posidonius’ Catalogue, ch. 9, namely, “From the Epistle to the Galatians, where Paul reproved Peter.” Ben ed. note.
 
 
 *[p. 815]* ^pg841
@@ -54,7 +54,7 @@ of going further. But here there arises another question. Yesterday<sup>2969</su
 
 5\. Ye have heard instances of a literal expression, and a literal action, and of a figurative expression; ye are waiting for an instance of a figurative action. There are many such, but meanwhile, as is suggested by this mention of the corner-stone, when Jacob anointed the stone which he had placed at his head as he slept, and in his sleep saw a mysterious<sup>2975</sup> dream, ladders rising from the earth to heaven, and Angels ascending and descending, and the Lord standing upon the ladder,<sup>2976</sup> he understood what it was designed to figure, and
 
-297\. 0 *Commendavimus*. 2971 *Regulariter*. 2972 *Cognitionem*. 2973 Matt. xxi. 42; Ps. cxviii. 22. 2974 Eph. ii. 14. 2975 *Magnum*. Gen. xxviii. 11, etc.
+2970 *Commendavimus*. 2971 *Regulariter*. 2972 *Cognitionem*. 2973 Matt. xxi. 42; Ps. cxviii. 22. 2974 Eph. ii. 14. 2975 *Magnum*. Gen. xxviii. 11, etc.
 
 
 *[p. 816]* ^pg842
@@ -65,9 +65,9 @@ took the stone for a figure of Christ, to prove to us thereby that he was no str
 
 6\. Ye have heard an instance of a literal expression, as “that we shall rise again;” of a literal action, as that, according as it is said, “Paul went up to Jerusalem to see Peter.”<sup>2981</sup> “The stone which the builders refused,” is a figurative expression; “the anointed stone” which was at Jacob’s head, is a figurative action. There is now due to your expectation an example made out of both together, something which is at once a literal fact, and which also signifies something else figured by it. “We know that Abraham had two sons, the one by a bondmaid, the other by a free-woman;”<sup>2982</sup> this was literally a fact, not only a story, but a
 
-297\. 7 Gen. xxv. 27. 2978 John i. 47, etc. 2979 1 Cor. xi. 3.
+2977 Gen. xxv. 27. 2978 John i. 47, etc. 2979 1 Cor. xi. 3.
 
-298\. 0 Acts ix. 4. 2981 Gal. i. 18. Gal. iv. 22. 392 2983 Matt. xiii. 3, etc. See Serm. vi. (lvi. Ben.) 10 (vi.) note.
+2980 Acts ix. 4. 2981 Gal. i. 18. Gal. iv. 22. 392 2983 Matt. xiii. 3, etc. See Serm. vi. (lvi. Ben.) 10 (vi.) note.
 
 
 *[p. 817]* ^pg843
@@ -90,9 +90,9 @@ Sermon XL.
 
 2\. I do not doubt that ye wish to hear, Beloved, who they are of whom I have spoken in my address, that they should not look for the good without, and should bear with the evil within. If all within are evil, whom do I address? If all within are good, whom did I advise them to bear with being evil? Let me first then with the Lord’s assistance get out of this difficulty as best I can. If you consider good perfectly and strictly<sup>2990</sup> speaking, none is good but God Alone. Ye have the Lord saying most plainly, “Why callest thou Me good? there is none Good but One, that is, God.”<sup>2991</sup> How then can that marriage feast have good and bad guests, if “none is good but God Alone”? In the first place ye ought to know, that after a certain sort we are all evil. Yes, doubtless after a certain sort are we all evil; but after no sort are we all good. For can we compare ourselves with the Apostles, to whom the Lord Himself said, “If ye then being evil know how to give good gifts unto your children?”<sup>2992</sup> If we consider the Scriptures, there was but one evil one among the twelve Apostles, with reference to whom the Lord said in a certain place, “And ye are clean, but not all.”<sup>2993</sup> But yet in ad-
 
-298\. 5 The great Church in Carthage where the bodies of the Martyr Sts. Perpetua and Felicitas lay. See Ben. ed. in Sermon xix. note. 2986 *Baptized fideles*. 2987 *Apparatus*. 2988 *Voluntati omnium*. 2989 1 Cor. xi. 29.
+2985 The great Church in Carthage where the bodies of the Martyr Sts. Perpetua and Felicitas lay. See Ben. ed. in Sermon xix. note. 2986 *Baptized fideles*. 2987 *Apparatus*. 2988 *Voluntati omnium*. 2989 1 Cor. xi. 29.
 
-299\. 0 *Liquido*. 2991 Matt. xix. 17. 2992 Matt. vii. 11. 393 2994 Matt. xxii. 10. 2995 1 John i. 8. 1 John i. 9.
+2990 *Liquido*. 2991 Matt. xix. 17. 2992 Matt. vii. 11. 393 2994 Matt. xxii. 10. 2995 1 John i. 8. 1 John i. 9.
 
 
 *[p. 819]* ^pg845
@@ -111,9 +111,9 @@ dressing them all together, He said, “If ye being evil.” Peter heard this, J
 
 many. Here some diligent hearer may answer me, and say, “I have no wish for you to tell me your guesses; I wish to have it proved to me that that one represented many.”<sup>2997</sup> By the Lord’s present help, I will prove it clearly; nor will I search far, that I may be able to prove it. God will assist me in His own words in this place, and will furnish you by my ministry with a plain proof of it. “The Master of the house came in to see the guests.”<sup>2998</sup> See, my Brethren, the servants’ business was only to invite and bring in the good and bad; see that it is not said, that the servants took notice of the guests, and found among them a man which had not on a wedding garment, and spoke to him. This is not written. The Master of the house saw him, the Master of the house discovered, the Master of the house inspected, the Master of the house separated him out. It was not right to pass over this. But I have undertaken to establish another point, how that that one signifies many. “The Master of the house” then “came in to see the guests, and He found there a man which had not on a wedding garment. And He saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless.”<sup>2999</sup> For He who questioned him was One, to whom he could give no feigned reply. The garment that was looked for is in the heart, not on the body; for had it been put on externally, it could not have been concealed even from the servants. Where that wedding garment must be put on, hear in the words, “Let thy priests be clothed with righteousness.”<sup>3000</sup> Of that garment the Apostle speaks,<sup>3001</sup> “If so be that we shall be found clothed, and not naked.”<sup>3002</sup> Therefore was he discovered by the Lord, who escaped the notice of the servants. Being questioned, he is speechless: he is bound, cast out, and condemned one by many. I have said, Lord, that Thou teachest us that in this Thou dost give warning to all. Recollect then with me, my Brethren, the words which ye have heard, and ye will at once discover, at once determine, that that one was many. True it was one man whom the Lord questioned, to one He said, “Friend, how camest thou in hither?” It was one who was speechless, and of that same one was it said, “Bind him hand and foot, and cast him into outer darkness; there shall be weeping and gnashing of teeth.”<sup>3003</sup> Why? “For many are called, but few chosen.”<sup>3004</sup> How can any one gainsay this manifestation of the truth? “Cast him,” He saith, “into outer darkness.” “Him,” that one man assuredly, of whom the Lord saith, “for many are called, but few chosen.” So then it is the few who are
 
-299\. 7 Serm. xlv. (xcv. Ben.) 6. 2998 Matt. xxii. 11. 2999 Matt. xxii. 12.
+2997 Serm. xlv. (xcv. Ben.) 6. 2998 Matt. xxii. 11. 2999 Matt. xxii. 12.
 
-300\. 0 Ps. cxxxii. 9. 3001 See note, Serm. viii. (lviii. Ben.) 13 (xi.). 3002 2 Cor. v. 3. 3003 Matt. xxii. 13. 394 3005 Matt. viii. 11. Exod. vii.
+3000 Ps. cxxxii. 9. 3001 See note, Serm. viii. (lviii. Ben.) 13 (xi.). 3002 2 Cor. v. 3. 3003 Matt. xxii. 13. 394 3005 Matt. viii. 11. Exod. vii.
 
 
 *[p. 821]* ^pg847
@@ -132,9 +132,9 @@ of Israel who could not do them, and yet that people were the people of God. In 
 
 6\. What is that “wedding garment” then? This is the wedding garment: “Now the end of the commandment,” says the Apostle, “is charity out of a pure heart, and of a good conscience, and of faith unfeigned.”<sup>3008</sup> This is “the wedding garment.” Not charity of any kind whatever; for very often they who are partakers together of an evil conscience seem to love one another. They who commit robberies together, who love the hurtful arts of sorceries, and the stage together, who join together in the shout of the chariot race, or the wild beast fight; these very often love one another; but in these there is no “charity out of a pure heart, and of a good conscience, and of faith unfeigned. The wedding garment” is such charity as this. “Though I speak with the tongues of men and of Angels, and have not charity, I am become as sounding brass, and a tinkling cymbal.”<sup>3009</sup> Tongues have come in alone, and it is said to them, “How came ye in hither not having a wedding garment?” “Though,” said he, “I have the gift of prophecy, and understand all mysteries, and all knowledge, and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.” See, these are the miracles of men who very often have not “the wedding garment.” “Though,” he says, “I have all these, and have not Christ, I am nothing.” Is then “the gift of prophecy” nothing? is then “the knowledge of mysteries”<sup>3010</sup> nothing? It is not that these are nothing; but “I,” if I have them, “and have not charity, am nothing.” How many good things profit nothing without this one good thing! If then I have not charity, though I bestow alms freely upon the poor, though I have come to the confession of Christ’s Name even unto blood and fire, these things may be done even through the love of glory, and so are vain. Because then they may be done even from the love of glory, and so be vain, and not through the rich charity of a godly affection, he names them all also in express terms, and do thou give ear to them; “though I distribute all my goods for the use of the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.”<sup>3011</sup> This then is “the wedding garment.” Question yourselves; if ye have it, ye may be without fear in the Feast of the Lord. In one and the same man there exist two things, charity and desire. Let charity be born in thee, if it be yet unborn, and if it be born, be it nourished, fostered, increased. But as to that desire, though in this life it cannot be utterly extinguished; “for if we say that we have no sin we deceive ourselves, and the truth is not in us;” <sup>3012</sup> but in so far as desire
 
-300\. 7 1 Cor. xii. 29, etc. 3008 1 Tim. i. 5. 3009 1 Cor. xiii. 1.
+3007 1 Cor. xii. 29, etc. 3008 1 Tim. i. 5. 3009 1 Cor. xiii. 1.
 
-301\. 0 *Sacramentorum*. 3011 1 Cor. xiii. 3. 1 John i. 8.
+3010 *Sacramentorum*. 3011 1 Cor. xiii. 3. 1 John i. 8.
 
 
 *[p. 823]* ^pg849
@@ -147,7 +147,7 @@ all his heart and with all his mind. To such an one I would at once entrust his 
 
 7\. One may say, “Who is my neighbour?” Every man is your neighbour. Had we not all the same two parents? Animals of every species are neighbours one to the other, the dove to the dove, the leopard to the leopard, the asp to the asp, the sheep to the sheep, and is not man neighbour to man? Call to mind the ordering of the creation. God spake, the waters brought forth swimming creatures, great whales, fish, birds, and such like things. Did all the birds come of one bird? Did all vultures come of one vulture? Did all doves come of one dove? Did all snakes come of one snake? or all gilt-heads of one gilt-head?<sup>3016</sup> or all sheep of one sheep? No, the earth assuredly brought forth all these kinds together. But when it came to man, the earth did not bring forth man. One father was made for us; not even two, father and mother: one father, I say, was made for us, not even two, father and mother; but out of the one father came the one mother; the one father came from none, but was made by God, and the one mother came out of him. Mark then the nature of our race: we flowed out of one fountain; and because that one was turned to bitterness, we all became from a good, a wild olive tree. And so grace came also. One begat us unto sin and death, yet as one race, yet as neighbours one to another, yet as not merely like, but related to each other. There came *One* against *one*; against the one who scattered, One who gathereth. Thus against the
 
-301\. 3 Phil. ii. 21. 3014 *Deferte*. 3015 Ps. x. 5, Sept. (xi. 5, English version). *Aurata*.
+3013 Phil. ii. 21. 3014 *Deferte*. 3015 Ps. x. 5, Sept. (xi. 5, English version). *Aurata*.
 
 
 *[p. 824]* ^pg850
@@ -158,9 +158,9 @@ one who slayeth, is the One who maketh alive. “For as in Adam all die, even so
 
 8\. So then, my Brethren, have charity. I have explained it to be this garment, this “wedding garment.” Faith is praised, it is plain, it is praised: but what kind of faith this is, the Apostle distinguishes. For certain who boasted of faith, and had not a good conversation, the Apostle James rebukes and says, “Thou believest there is one God, thou doest well; the devils also believe and tremble.”<sup>3018</sup> Call to mind with me whereupon Peter was praised, whereupon called blessed. Was it because he said, “Thou art the Christ, the Son of the living God”?<sup>3019</sup> He who pronounced Him blessed, regarded not the sound of the words, but the affection of the heart. For would ye know that Peter’s blessedness lay not in these words? The devils also said the same. “We know Thee who Thou art, the Son of God.”<sup>3020</sup> Peter confessed Him to be “the Son of God;” the devils confessed Him to be “the Son of God.” “Distinguish, my lord, distinguish between the two.” I do make a plain distinction. Peter spake in love, the devils from fear. And again Peter says, “I am with Thee, even unto death.”<sup>3021</sup> The devils say, “What have we to do with Thee?” So then thou who art come to the feast, glory not of faith only. Distinguish well the nature of this faith; and then in thee is recognised “the wedding garment.” Let the Apostle make the distinction, let him teach us; “neither circumcision availeth anything, nor uncircumcision, but faith.”<sup>3022</sup> Tell us, what faith? do not even the devils believe and tremble? I will tell thee, he says, and listen, I will now draw the distinction, “But faith which worketh by love.” What faith, then, and of what kind? “That which worketh by love.” “Though I have all knowledge,” he says, “and all faith, so that I could remove mountains, and have not charity, I am nothing.” Have faith with love; for love without faith ye cannot have. This I warn, this I exhort, this in the name of the Lord I teach you, Beloved, that ye have faith with love; for ye may possibly have faith without love. I do not exhort you to have faith, but love. For ye cannot have love without faith; the love I mean of God and your neighbour; whence can it come without faith? How doth he love God, who doth not believe on God? How doth the fool love God, “who saith in his heart, there is no God”?<sup>3023</sup> Possible it is that ye may believe that Christ hath come
 
-301\. 7 1 Cor. xv. 22. 3018 Jas. ii. 19. 3019 Matt. xvi. 16.
+3017 1 Cor. xv. 22. 3018 Jas. ii. 19. 3019 Matt. xvi. 16.
 
-302\. 0 Matt. viii. 29; Mark i. 24. 3021 Matt. xxvi. 35. 3022 Gal. v. 6.
+3020 Matt. viii. 29; Mark i. 24. 3021 Matt. xxvi. 35. 3022 Gal. v. 6.
 
 
 *[p. 825]* ^pg851
@@ -171,7 +171,7 @@ and not love Christ. But it is not possible that ye should love Christ, and yet 
 
 9\. So then, have faith with love. This is the “wedding garment.” Ye who love Christ, love one another, love your friends, love your enemies. Let not this be hard to you. What then do ye lose thereby, when ye gain so much? What? dost thou ask of God as some great favour, that thine enemy may die? This is not “the wedding garment.” Turn thy thoughts to the Bridegroom Himself hanging upon the Cross for thee, and praying to His Father for His enemies; “Father,” saith He, “forgive them, for they know not what they do.”<sup>3024</sup> Thou hast seen the Bridegroom speaking thus; see too the friend of the Bridegroom, a guest “with the wedding garment.” Look at the blessed Stephen, how he rebukes the Jews as though in rage and resentment, “Ye stiffnecked and uncircumcised in heart and ears, ye have resisted the Holy Ghost. Which of the Prophets have not your fathers killed?”<sup>3025</sup> Thou hast heard how 396 severe he is with his tongue. And at<sup>3026</sup> once thou art prepared to speak against any one; and I would it were against him who offendeth God, and not who offendeth thee. One offendeth God, and thou dost not rebuke him; he offendeth thee, and thou criest out; where is that “wedding garment”? Ye have heard therefore how Stephen was severe; now hear how he loved. He offended those whom he was rebuking, and was stoned by them. And as he was being overwhelmed and bruised to death by the hands of his furious persecutors on every side, and the blows of the stones, he first said, “Lord Jesus Christ, receive my spirit.”<sup>3027</sup> Then after he had prayed for himself standing, he bent the knee for them who were stoning him, and said, “Lord, lay not this sin to their charge; let me die in my body, but let not these die in their souls. And when he had said this, he fell asleep.”<sup>3028</sup> After these words he added no more; he spake them and departed; his last prayer was for his enemies. Learn ye hereby to have “the wedding garment.” So do thou too bend the knee, and beat thy forehead against the ground, and as thou art about to approach the Table of the Lord, the Feast of the Holy Scriptures, do not say, “O that mine enemy might die! Lord, if I have deserved ought of Thee, slay mine enemy.” Because if so be that thou sayest so, dost thou not fear lest He should answer thee, “If I should choose to slay thine enemy, I should first slay thee. What! dost thou glory because thou hast now come invited hither? Think only what thou wast but a little while ago. Hast thou not blasphemed Me? hast thou not derided Me? didst thou not wish to wipe out My Name from off the earth? Yet now thou dost applaud thyself because thou hast come invited hither! If I had slain thee when thou wast Mine enemy, how could
 
-302\. 4 Luke xxiii. 34. 3025 Acts vii. 51, 52. 3026 *Adhuc*. 3027 Acts vii. 59.
+3024 Luke xxiii. 34. 3025 Acts vii. 51, 52. 3026 *Adhuc*. 3027 Acts vii. 59.
 
 
 *[p. 826]* ^pg852
@@ -182,9 +182,9 @@ I have made thee My friend? Why, by thy wicked prayers dost thou teach Me to do,
 
 10\. Extend your love then, and limit it not to your wives and children. Such love is found even in beasts and sparrows. Ye know the sparrows and the swallows how they love their mates, how together they hatch their eggs, and nourish their young together, by a sort of free<sup>3031</sup> and natural kindliness, and with no thought of a return. For the sparrow does not say, “I will nourish my young, that when I am grown old, they may feed me.” He has no such thought; he loves and feeds them, for the love of them; displays the affection of a parent, and looks for no return. And so, I know, I am sure, do ye love your children. “For the children ought not to lay up for the parents, but the parents for the children.”<sup>3032</sup> Yea upon this plea it is that many of you excuse your covetousness, that ye are getting for your children, and are laying by for them.<sup>3033</sup> But I say, extend your love, let this love grow; for to love wives and children, is not yet that “wedding garment.” Have faith to Godward. First love God. Extend yourselves out to God; and whomsoever ye shall be able, draw on to God. There is
 
-302\. 9 Luke xxiii. 34.
+3029 Luke xxiii. 34.
 
-303\. 0 *Zabulo*; Lactant. *De Mort. Pers.* 16. 3031 *Grata*. 3032 2 Cor. xii. 14. *Vid*. Serm. xxxvi. (lxxxvi. Ben.) 11 (ix., x.).
+3030 *Zabulo*; Lactant. *De Mort. Pers.* 16. 3031 *Grata*. 3032 2 Cor. xii. 14. *Vid*. Serm. xxxvi. (lxxxvi. Ben.) 11 (ix., x.).
 
 
 *[p. 827]* ^pg853
@@ -195,7 +195,7 @@ thine enemy: let him be drawn to God. There is a son, a wife, a servant; let the
 
 it bruised? how worn away? When it is rubbed against the earth? And what is, “When it is rubbed against the earth”? When it is worn by earthly lusts. For “though man <sup>3034</sup> walketh in this image, yet is he disquieted in vain.”<sup>3035</sup> Truth is looked for in God’s image, not vanity. By the love of the truth then be that image, after which we were created, engraven anew, and His Own tribute rendered to our Cæsar. For so ye have heard from the Lord’s answer, when the Jews tempted Him, as He said, “Why tempt ye Me, ye hypocrites; show Me the tribute money,”<sup>3036</sup> that is, the impress and superscription of the image. Show me what ye pay, what ye get ready, what is exacted of you. And “they showed Him a denarius;” and “He asked whose image and superscription it had.” They answered, “Cæsar’s.” So Cæsar looks for his own image. It is not Cæsar’s will that what he ordered to be made should be lost to him, and it is not surely God’s will that what He hath made should be lost to Him. Cæsar, my Brethren, did not make the money; the masters of the mint<sup>3037</sup> make it; the workmen have their orders, he issues his commands to his ministers. His image was stamped upon the money; on the money was Cæsar’s image. And yet he requires what others have stamped; he puts it in his treasures; he will not have it refused him. Christ’s coin is man. In him is Christ’s image, in him Christ’s Name, Christ’s gifts, Christ’s rules of duty.<sup>3038</sup>
 
-303\. 4 Serm. x. (lx. Ben.) 2, etc. 3035 Ps. xxxviii. 7, Sept. (xxxix. 6 English version). 3036 Matt. xxii. 18, 19. 3037 *Monetarii*. *Officia*.
+3034 Serm. x. (lx. Ben.) 2, etc. 3035 Ps. xxxviii. 7, Sept. (xxxix. 6 English version). 3036 Matt. xxii. 18, 19. 3037 *Monetarii*. *Officia*.
 
 
 *[p. 828]* ^pg854
@@ -210,9 +210,9 @@ Sermon XLI.
 
 2\. But when the Jews could not answer the Lord proposing a question, and asking “whose Son they said Christ was;” and they answered, “the Son of David;”<sup>3043</sup> He goes on with the further question put to them, “How then doth David in spirit call Him Lord, saying, The Lord said unto my Lord, Sit thou on My right hand till I make Thine enemies My footstool.
 
-303\. 9 Matt. xxvii. 42.
+3039 Matt. xxvii. 42.
 
-304\. 0 1 Cor. ii. 8. 3041 Gen. xxii. 18. 3042 Ps. cxviii. 22; Luke xx. 17, 18.
+3040 1 Cor. ii. 8. 3041 Gen. xxii. 18. 3042 Ps. cxviii. 22; Luke xx. 17, 18.
 
 
 *[p. 829]* ^pg855
@@ -225,7 +225,7 @@ us;”<sup>3046</sup> see how He is David’s Son. But as being ignorant, they w
 
 3\. But seeing that is a great thing to know the mystery how He is David’s Son and David’s Lord: how one Person is both Man and God; how in the form of Man He is less than the Father, in the form of God equal with the Father; how again He saith, on the one hand, “The Father is greater than I;”<sup>3047</sup> and on the other, “I and My Father are one;”<sup>3048</sup> seeing this is a great mystery,<sup>3049</sup> our conduct must be fashioned, that it may be comprehended. For to the unworthy is it closed up, it is opened to those who are meet for it. It is not with stones, or clubs, or the fist, or the heel, that we knock unto the Lord. It is the life which knocks, it is to the life that it is opened. The seeking is with the heart, the asking is with the heart, the knocking is with the heart, the opening is to the heart. Now that heart which asks rightly, and knocks and seeks rightly, must be godly. Must first love God for His Own sake (for this is godliness); and not propose to itself any reward which it looks for from Him other than God Himself. For than Him is there nothing better. And what precious thing can he ask of God, in whose sight God Himself is lightly esteemed? He giveth earth, and thou rejoicest, thou lover of the earth, who art thyself become earth. If when He giveth earthly goods, thou dost rejoice, how much more oughtest thou to rejoice when He giveth thee Himself, who made heaven and earth? So then God must be loved for His own sake. For the Devil not knowing what was passing in the heart of holy Job, brought this as a great charge against him, saying, “Doth Job worship God for His Own sake.”<sup>3050</sup>
 
-304\. 4 Matt. xxii. 43–45. 3045 John i. 1. 3046 John i. 14. 3047 John xiv. 28. 3048 John x. 30. 3049 *Sacramentum*. Job i. 9. *Gratis*.
+3044 Matt. xxii. 43–45. 3045 John i. 1. 3046 John i. 14. 3047 John xiv. 28. 3048 John x. 30. 3049 *Sacramentum*. Job i. 9. *Gratis*.
 
 
 *[p. 830]* ^pg856
@@ -236,7 +236,7 @@ us;”<sup>3046</sup> see how He is David’s Son. But as being ignorant, they w
 
 5\. Because then, in order to understand the mystery<sup>3053</sup> of God, how Christ is both man and God, the heart must be cleansed: and it is cleansed by a good conversation, by a pure life,<sup>3054</sup> by chastity, and sanctity, and love, and by “faith, which worketh by love”<sup>3055</sup> (now all this that I am speaking of, is, as it were, the tree which hath its root in the heart; for it is only from the root of the heart that actions proceed; in which if thou plant desire, thorns spring forth; if thou plant charity, good fruit): the Lord, after that question which He had
 
-305\. 1 2 Cor. i. 12. 3052 Job i. 21, Sept. 3053 *Sacramentum*. 3054 *Vita*. Gal. v. 6.
+3051 2 Cor. i. 12. 3052 Job i. 21, Sept. 3053 *Sacramentum*. 3054 *Vita*. Gal. v. 6.
 
 
 *[p. 831]* ^pg857
@@ -249,7 +249,7 @@ but because they love them. For in these words he accused their heart. Now none 
 
 6\. But what then has the Church of God to do, that it may be able to understand what it has first obtained<sup>3060</sup> grace to believe? It must make the mind capacious for receiving what shall be given it. And that this may be done, that the mind, that is, may be capacious, our Lord God suspends His promises, He has not taken them away. Therefore does He suspend them, that we may stretch out ourselves; and therefore do we stretch ourselves out, that we may grow; and therefore do we grow, that we may reach them. Behold the Apostle Paul stretching himself out unto these suspended promises: “Not as though I had already attained, either were already perfect. Brethren, I count not myself to have apprehended: but
 
-305\. 6 Matt. xxiii. 6; Mark xii. 39. 3057 *Prepositi plebis*. 3058 Matt. xvi. 6. 3059 Matt. xvi. 9, 12. *Meruit*.
+3056 Matt. xxiii. 6; Mark xii. 39. 3057 *Prepositi plebis*. 3058 Matt. xvi. 6. 3059 Matt. xvi. 9, 12. *Meruit*.
 
 
 *[p. 832]* ^pg858
@@ -260,7 +260,7 @@ this one thing I do; forgetting those things which are behind, and stretching fo
 
 7\. We must journey on then, yet for this no need of anointing the feet, or looking out for beasts, or providing a vessel. Run with the heart’s affection, journey on with love, ascend by charity. Why seekest thou for the way? Cleave unto Christ, who by Descending and Ascending hath made Himself the Way. Dost thou wish to ascend? Hold fast to Him that ascendeth. For by thine own self thou canst not rise. “For no man hath ascended up to heaven, but He that came down from heaven, even the Son of Man which is in heaven.”<sup>3062</sup> If no one ascendeth but He that descended, that is, the Son of Man, our Lord Jesus, dost thou wish to ascend also? Be then a member of Him who Only hath ascended. For He the Head, with all the members, is but One Man. And since no one can ascend, but he who in His Body is made a member of Him; that is fulfilled, “that no man hath ascended, but He that descended.” For thou canst not say, “Lo, why hath Peter, for instance, ascended, why hath Paul ascended, why have the Apostles ascended, if no one hath ascended, but He that descended?” The answer to this is, “What do Peter, and Paul, and the rest of the Apostles, and all the faithful, what do they hear from the Apostle? ‘Now ye are the Body of Christ, and members in particular.’<sup>3063</sup> If then the Body of Christ and His members belong to One, do not thou make two of them. For He left ‘father and mother, and clave to his wife, that two might be one flesh.’<sup>3064</sup> He left His Father, in that here He did not show Himself as equal with the Father; but ‘emptied Himself, taking the form of a servant.’<sup>3065</sup> He left His mother also, the synagogue of which He was born after the flesh. He clave to His Wife, that is, to His Church. Now in the place where Christ Himself brought forward this testimony, He showed that the marriage bond might not be dissolved: ‘Have ye not read,’ said He, ‘that God which made them at the beginning, made them male and female; and said, They twain shall be in one flesh? What therefore God hath joined together, let not man put asunder.’ 3066 And what is the meaning of ‘They twain shall be in one flesh’? He goes on to say;
 
-306\. 1 Phil. iii. 12, etc. 3062 John iii. 13. 3063 1 Cor. xii. 27. 3064 Eph. v. 31. 3065 Phil. ii. 7. Matt. xix. 4, etc.
+3061 Phil. iii. 12, etc. 3062 John iii. 13. 3063 1 Cor. xii. 27. 3064 Eph. v. 31. 3065 Phil. ii. 7. Matt. xix. 4, etc.
 
 
 *[p. 833]* ^pg859
@@ -273,9 +273,9 @@ this one thing I do; forgetting those things which are behind, and stretching fo
 
 9\. Seeing then that we are of His members, in order that we may understand this mystery as I have said, Brethren, let us live holily, let us love God for His Own sake. Now He who showeth to us while in our pilgrimage the form of a servant, reserveth for those that reach their country the form of God. With the form of a servant hath He laid down the way, with the form of God He hath prepared the home. Seeing then that it is a hard matter for us to comprehend this, but no hard matter to believe it; for Isaiah says, “Unless ye believe ye shall not understand;”<sup>3069</sup> let us “walk by faith as long as we are in pilgrimage from the Lord, till we come to sight where we shall see face to face.”<sup>3070</sup> As walking by faith, let us do good works. In these good works, let there be a free love of God for His Own sake, and an active<sup>3071</sup> love of our neighbour. For we have nothing we can do for God; but because we have something we may do for our neighbour, we shall by our good offices to the needy, gain His favour who is the source of all abundance.<sup>3072</sup> Let every one then do what he can for others; let him freely bestow upon the needy of his superfluity. One has money; let him feed the poor, let him clothe the naked, let him build a church, let him do with his money all the good he can. Another has good counsel; let him guide his neighbour, let him by the light of holiness drive away the darkness of doubting. Another has learning; let him draw out of this store of the Lord, let him minister food to his fellow-servants, strengthen the faithful, recall the wandering, seek the lost, do all the good he can. Something there is, which even the poor may deal out to one another; let one lend feet to the lame, another give his own eyes to guide
 
-306\. 7 John iii. 13. 3068 Isa. lxi. 10, Sept. 3069 Isa. vii. 9, Sept.
+3067 John iii. 13. 3068 Isa. lxi. 10, Sept. 3069 Isa. vii. 9, Sept.
 
-307\. 0 2 Cor. v. 6, 7. 3071 *Benefica*. *Promerebimur abundantem*.
+3070 2 Cor. v. 6, 7. 3071 *Benefica*. *Promerebimur abundantem*.
 
 
 *[p. 834]* ^pg860
@@ -304,9 +304,9 @@ and earth, the Lord of the Angels, equal with God, in the form of God, how is He
 
 3\. Thus have ye heard that Christ is both David’s Son, and David’s Lord: David’s Lord always, David’s Son in time: David’s Lord, born of the substance of His Father, David’s Son, born of the Virgin Mary, conceived by the Holy Ghost. Let us hold fast both. The one of them will be our eternal habitation, the other is our deliverance from our present exile. For unless our Lord Jesus Christ had vouchsafed to become man, man had perished. He was made that which He made, that what He made might not perish. Very Man, Very God; God and man whole Christ. This is the Catholic faith. Whoso denieth that Christ is God is a Photinian;<sup>3080</sup> whoso denieth that Christ is man is a Manichæan.<sup>3081</sup> Whoso confesseth that Christ is God equal with the Father and very man, that He truly suffered, truly shed His blood (for the Truth would not have set us free, if He had given a false price for us); whoso confesseth both, is a Catholic. He hath the country, he hath the way. He hath the country, “In the beginning was the Word;”<sup>3082</sup> He hath the country, “Being in the form of God, He thought it not robbery to be equal with God.”<sup>3083</sup> He hath the way, “The Word was made flesh;”<sup>3084</sup> He hath the way, “He emptied Himself, taking the form of a servant.”<sup>3085</sup>
 
-307\. 8 Phil. ii. 6, etc. 3079 Matt. xxi. 44.
+3078 Phil. ii. 6, etc. 3079 Matt. xxi. 44.
 
-308\. 0 Vinc. Lirinens. *Commonit*. xii.; *Conf*. vii. 26 (xx.), Oxf. transl, and note *f*. 3081 *Conf*. v. 16 (ix.), 20 (x.), 25 (xix.), vii. 25 (xix.), Oxf. trans. and note *A*, p. 325. *De Dono Perseverant*, c. 67 (xxiv.), Serm. lxvi. (cxvi. Ben.) 1–5 (i.-iv.), Epist. 236 (al. 74) 2. 3082 John i. 1. 3083 Phil. ii. 6. 3084 John i. 14. Phil. ii. 7.
+3080 Vinc. Lirinens. *Commonit*. xii.; *Conf*. vii. 26 (xx.), Oxf. transl, and note *f*. 3081 *Conf*. v. 16 (ix.), 20 (x.), 25 (xix.), vii. 25 (xix.), Oxf. trans. and note *A*, p. 325. *De Dono Perseverant*, c. 67 (xxiv.), Serm. lxvi. (cxvi. Ben.) 1–5 (i.-iv.), Epist. 236 (al. 74) 2. 3082 John i. 1. 3083 Phil. ii. 6. 3084 John i. 14. Phil. ii. 7.
 
 
 *[p. 837]* ^pg863
@@ -339,7 +339,7 @@ Sermon XLIII.
 
 5\. Of these then, my Brethren, yea, of these let us the rather treat. He who will not see what is evil, he who will not hear what is evil, he that turneth away his smell from the unlawful fumes, and his taste from the unlawful food of the sacrifices, he who refuseth the embrace of another man’s wife, breaketh his bread to the hungry, bringeth the stranger into his house, clotheth the naked, reconcileth the litigious, visiteth the sick, burieth the dead; he surely is a virgin, surely he hath lamps. What seek we more? Something yet I seek. What seekest thou
 
-309\. 1 Matt. v. 16. 3092 Luke xii. 35. 3093 2 Cor. xi. 2. 2 Cor. xi. 3. 403 3095 *Supereminentiorem*. 1 Cor. xii. 31. 3096 1 Cor. xiii. 1. 3097 *Vincit*. 3098 1 Cor. xiii. 8. *Cadit*. 3099 Matt. xxiv. 12, 13.
+3091 Matt. v. 16. 3092 Luke xii. 35. 3093 2 Cor. xi. 2. 2 Cor. xi. 3. 403 3095 *Supereminentiorem*. 1 Cor. xii. 31. 3096 1 Cor. xiii. 1. 3097 *Vincit*. 3098 1 Cor. xiii. 8. *Cadit*. 3099 Matt. xxiv. 12, 13.
 
 
 *[p. 840]* ^pg866
@@ -350,7 +350,7 @@ yet, one will say? Something yet I seek; the Holy Gospel hath set me on the sear
 
 6\. What is it then, Brethren? Let us treat now of the five wise and the five foolish virgins. They wished to go to meet the Bridegroom. What is the meaning of “to go and meet the Bridegroom”? To go with the heart, to be waiting for his coming. But he tarried. “While he tarries, they all slept.” What is “all”? Both the foolish and the wise, “all slumbered and slept.” Think we is this sleep good? What is this sleep? Is it that at the tarrying of the Bridegroom, “because iniquity aboundeth, the love of many waxeth cold”? Are we to understand this sleep so? I like it not. I will tell you why. Because among them are the wise virgins; and certainly when the Lord said, “Because iniquity shall abound, the love of many shall wax cold;” He went on to say, “But he that shall endure unto the end, the same shall be saved.”<sup>3099</sup> Where would ye have those wise virgins be? Are they not among those that “shall endure unto the end”? They would not be admitted within at all, Brethren, for any other reason, than because they have “endured unto the end.” No coldness of love then crept over them, in them love did not wax cold; but preserves its glow even unto the end. And because it glows even unto the end, therefore are the gates of the Bridegroom opened to them; therefore are they told to enter in, as that excellent servant, “Enter thou into the joy of thy Lord.”<sup>3100</sup> What then is the meaning of they “all slept”?<sup>3101</sup> There is another sleep which no one escapes. Remember ye not the Apostle saying, “But I would not have you to be ignorant, brethren, concerning them which are asleep,”<sup>3102</sup> that is, concerning them which are dead? For why
 
-310\. 0 Matt. xxv. 21. 3101 Matt. xxv. 5. 1 Thess. iv. 13.
+3100 Matt. xxv. 21. 3101 Matt. xxv. 5. 1 Thess. iv. 13.
 
 
 *[p. 841]* ^pg867
@@ -365,7 +365,7 @@ are they called “they which are asleep,” but because they are in their own d
 
 9\. “But when that cry was made at midnight.” What cry was this, but that of which the Apostle says, “In the twinkling of an eye, at the last trump”? “For the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed”?<sup>3107</sup> And so when the
 
-310\. 3 Ps. xl. 9, Sept. (xli. 8, English version). 3104 Matt. xxv. 6. 3105 Acts i. 7. 3106 1 Thess. v. 2. 1 Cor. xv. 52.
+3103 Ps. xl. 9, Sept. (xli. 8, English version). 3104 Matt. xxv. 6. 3105 Acts i. 7. 3106 1 Thess. v. 2. 1 Cor. xv. 52.
 
 
 *[p. 842]* ^pg868
@@ -378,9 +378,9 @@ cry was made at midnight, “Behold, the Bridegroom cometh;” what follows? “
 
 11\. But they say, “Not so, lest there be not enough for us and you, but go ye rather to them that sell, and buy for yourselves.”<sup>3112</sup> This was not the answer of those who give advice, but of those who mock. And why mock they? Because they were wise, because wisdom was
 
-310\. 8 John v. 28, 29. 3109 Matt. xxv. 4, 3.
+3108 John v. 28, 29. 3109 Matt. xxv. 4, 3.
 
-311\. 0 2 Cor. i. 12. 3111 Matt. xxv. 8.
+3110 2 Cor. i. 12. 3111 Matt. xxv. 8.
 
 
 *[p. 843]* ^pg869
@@ -395,7 +395,7 @@ in them. For they were not wise by ought of their own; but that wisdom was in th
 
 14\. See then what this, “Give us oil,” is. They were told “Go ye rather to them that sell.” In that ye have been used to live upon the praises of men, ye do not carry oil with you; but we can give you none; “lest there be not enough for us and you.” For scarcely do we judge of ourselves, how much less can we judge of you? What is “scarcely do we judge of ourselves”? Because, “When the righteous King sitteth on the throne, who will glory that his heart is pure?” <sup>3119</sup> It may be thou dost not discover anything in thine own conscience; but He who seeth better, whose Divine glance penetrateth into deeper things, discovereth it may be
 
-311\. 3 Prov. i. 26. 3114 Matt. xxv. 9. 3115 *Impinguabit*. 3116 Ps. cxl. 5, Sept. (cxli. English version). 3117 *Titillant*. 3118 Matt. vi. 12. Prov. xx. 8, 9, Sept.
+3113 Prov. i. 26. 3114 Matt. xxv. 9. 3115 *Impinguabit*. 3116 Ps. cxl. 5, Sept. (cxli. English version). 3117 *Titillant*. 3118 Matt. vi. 12. Prov. xx. 8, 9, Sept.
 
 
 *[p. 844]* ^pg870
@@ -410,7 +410,7 @@ heaven.”<sup>3122</sup> He did not say, “may glorify you.” For thou hast n
 
 16\. It is said, and it is true, and no deceiving saying, “Knock, and it shall be opened unto you;”<sup>3125</sup> but now when it is the time of mercy, not when it is the time of judgment. For these times cannot be confounded, since the Church sings to her Lord of “mercy and judgment.”<sup>3126</sup> It is the time of mercy; repent. Canst thou repent in the time of judgment? Thou wilt be then as those virgins, against whom the door was shut. “Lord, Lord, open to us.” What! did they not repent, that they had brought no oil with them? Yes, but what profiteth
 
-312\. 0 Ps. cxliii. 2. 3121 Matt. vi. 1, etc. 3122 Matt. v. 16. 3123 1 Cor. iv. 7. 3124 Matt. xxv. 10. 3125 Matt. vii. 7.
+3120 Ps. cxliii. 2. 3121 Matt. vi. 1, etc. 3122 Matt. v. 16. 3123 1 Cor. iv. 7. 3124 Matt. xxv. 10. 3125 Matt. vii. 7.
 
 
 *[p. 845]* ^pg871
@@ -421,9 +421,9 @@ them their late repentance, when the true wisdom mocked them? Therefore “the d
 
 17\. The five wise virgins came, and “went in.” How many are ye, my Brethren, in the profession of Christ’s Name! let there be among you the five wise, but be not five such persons only. Let there be among you the five wise, belonging to this wisdom of the number five. For the hour will come, and come when we know not. It will come at midnight, Watch ye. Thus did the Gospel close; “Watch, for ye know neither the day nor the hour.” <sup>3128</sup> But if we are all to sleep, how shall we watch? Watch with the heart, watch with faith, watch with hope, watch with charity, watch with good works; and then, when thou shalt sleep in thy body, the time will come that thou shalt rise. And when thou shalt have risen, make ready the lamps. Then shall they go out no more, then shall they be renewed<sup>3129</sup> with the inner oil of conscience; then shall that Bridegroom fold thee in His spiritual<sup>3130</sup> embrace, then shall He bring thee into His House where thou shall never sleep, where thy lamp can never be extinguished. But at present we are in labour, and our lamps flicker<sup>3131</sup> amid the winds and temptations of this life; but only let our flame burn strongly, that the wind of temptation may increase the fire, rather than put it out.
 
-312\. 7 Matt. xxv. 12. 3128 Matt. xxv. 13. 3129 *Vegetentur*.
+3127 Matt. xxv. 12. 3128 Matt. xxv. 13. 3129 *Vegetentur*.
 
-313\. 0 *Incorporeis*. *Fluctuant*. 406 3132 *Vid*. Serm. xxix. (lxxix. Ben.). 3133 *Meritum*. Eph. vi. 5; Tit. ii. 9.
+3130 *Incorporeis*. *Fluctuant*. 406 3132 *Vid*. Serm. xxix. (lxxix. Ben.). 3133 *Meritum*. Eph. vi. 5; Tit. ii. 9.
 
 
 *[p. 846]* ^pg872
@@ -450,9 +450,9 @@ Sermon XLV.
 
 3\. Of a truth four thousand men were filled by seven loaves; what is more wonderful than this! Yet even this were not enough, had not seven baskets also been filled with the fragments that remained. O great mysteries! they were works, and the works spake. If thou understand these doings, they are words. And ye too belong to the four thousand, because ye live under the fourfold Gospel. To this number the children and women did not belong.
 
-313\. 5 *Saginam laudis eructuate*. 3136 Mark viii. 6. 3137 Ps. cxix. 164. 3138 Ps. xxxiv. 1. 3139 Rev. i. 4.
+3135 *Saginam laudis eructuate*. 3136 Mark viii. 6. 3137 Ps. cxix. 164. 3138 Ps. xxxiv. 1. 3139 Rev. i. 4.
 
-314\. 0 *Voraces*, Edd. ant.; *veraces*, B from 1Ms. 2da manu. 407 3142 Matt. xv. 38. 3143 Matt. xxii. 11. 3144 Ps. xliv. 3 (xlv. 2, English version). 3145 *Positio*. 3146 Isa. liii. 2, Sept. Phil. ii. 6.
+3140 *Voraces*, Edd. ant.; *veraces*, B from 1Ms. 2da manu. 407 3142 Matt. xv. 38. 3143 Matt. xxii. 11. 3144 Ps. xliv. 3 (xlv. 2, English version). 3145 *Positio*. 3146 Isa. liii. 2, Sept. Phil. ii. 6.
 
 
 *[p. 848]* ^pg874
@@ -473,9 +473,9 @@ it not robbery to be equal with God.” Lo, where he saw Him who was “fair in 
 
 6\. For in truth, dearly Beloved, he who was cast forth from the feast, does not signify one man; far from it. They are many. And the Lord Himself who put forth this parable, the Bridegroom Himself, who calleth together to the feast, and quickeneth whom He calleth, He hath Himself explained to us, that that man does not denote one man, but many, there, in that very place, in the same parable. I do not go far for this, I find the explanation there,
 
-314\. 8 Phil. ii. 7, 8. 3149 Cant. i. 8.
+3148 Phil. ii. 7, 8. 3149 Cant. i. 8.
 
-315\. 0 Cant. viii. 5, Sept. *Dealbata*, “not as women whiten themselves, who would appear what they are not; not as a whitened wall,—not thus whitened, but enlightened, because not of itself white.—Grace came illumining and whitening; first thou wert black, but hast been made white by His grace. For ye were darkness, but now are ye light in the Lord.” St. Aug. *In Ps*. 103, s. 1, § 6. Matt. xxii. 12, etc.
+3150 Cant. viii. 5, Sept. *Dealbata*, “not as women whiten themselves, who would appear what they are not; not as a whitened wall,—not thus whitened, but enlightened, because not of itself white.—Grace came illumining and whitening; first thou wert black, but hast been made white by His grace. For ye were darkness, but now are ye light in the Lord.” St. Aug. *In Ps*. 103, s. 1, § 6. Matt. xxii. 12, etc.
 
 
 *[p. 850]* ^pg876
@@ -486,7 +486,7 @@ there I break the bread, and set it before you to be eaten. For He said, when he
 
 7\. What is “the wedding garment”? Let us search for it in the Holy Scriptures. What is “the wedding garment”? Without doubt it is something which the bad and good have not in common; let us discover this, and we shall discover “the wedding garment.” Among the gifts of God, what have not the good and bad in common?<sup>3153</sup> That we are men and not beasts, is a gift of God; but this is common to good and bad. That the light from heaven rises upon us, that the rain descends from the cloud, the fountains flow, the fields yield their fruit; these are gifts, but common to the good and bad. Let us go to the marriage feast, let us leave the others without, who being called come not. Let us consider the guests themselves, that 408 is, Christians. Baptism is a gift of God, the good and bad have it. The Sacraments of the Altar the good and bad receive together. Saul prophesied for all his wickedness, and in his rage against a holy and most righteous man, even while he was persecuting him, he prophesied. Are the good only said to believe? “The devils also believe and tremble.”<sup>3154</sup> What shall I do? I have sifted all, and have not yet come to “the wedding garment.” I have unfolded my envelopings, I have considered all, or almost all, and have not yet come to that garment. The Apostle Paul in a certain place has brought me a great collection<sup>3155</sup> of excellent things; he has laid them open before me, and I have said to him, “Show me, if so be thou hast found among them that ‘wedding garment.’” He begins to unfold them one by one, and to say, “Though I speak with the tongues of men and of Angels, though I have all knowledge, and the gift of prophecy, and all faith, so that I could remove mountains; though I distribute all my goods to the poor, and give my body to be burned.”<sup>3156</sup> Precious garments! nevertheless, there is not yet here that “wedding garment.” Now bring out to us “the wedding garment.” Why dost thou keep us in suspense, O Apostle? Peradventure prophecy is a gift of God which both good and bad have not. “If,” says He, “I have not charity, nothing profiteth me.” See “the wedding garment;” put it on, ye guests, that ye may sit down securely. Do not say; “we are too poor to have that garment.” Clothe others, and ye are clothed yourselves. It is winter, clothe the naked. Christ is naked; and He will give you that “wedding garment”
 
-315\. 2 Matt. xxii. 14. 3153 *Vid*. Serm. xl. (xc. Ben.) 5, etc. 3154 Jas. ii. 19. 3155 *Involucrum*. 1 Cor. xiii. 1, etc.
+3152 Matt. xxii. 14. 3153 *Vid*. Serm. xl. (xc. Ben.) 5, etc. 3154 Jas. ii. 19. 3155 *Involucrum*. 1 Cor. xiii. 1, etc.
 
 
 *[p. 851]* ^pg877

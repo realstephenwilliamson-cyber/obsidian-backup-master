@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-auxiliary
 title: Utkīlana Mantram
+collection: "Devī Māhātmya"
 role: opening
 status: stub
 aliases:

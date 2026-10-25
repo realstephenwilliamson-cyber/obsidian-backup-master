@@ -19,8 +19,7 @@ language:
   - English
 pages: 103
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[MBT CH 4_text and translation+notes_Malinistavaraja.pdf]]"
   - "[[Library/Trika/The Kumarikakhanda of the Manthanabhairavatantra, Chapter (Dyczkowski)/The Kumarikakhanda of the Manthanabhairavatantra, Chapter (Dyczkowski)]]"

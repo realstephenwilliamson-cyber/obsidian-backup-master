@@ -26,7 +26,7 @@ And if we have a daughter, a virgin, we watch her strictly; but that which is mo
 
 And thou, while into the apple of thine eye thou sufferest not so much as a grain of dust to enter, dost thou pass unnoticed thy soul, gathering to itself a heap of so great evils? When shall we then be able to clear out this filth, which we are daily laying up within us? when to cut up the thorns? when to sow the seed? Knowest thou not that henceforth the time of harvest is at hand? But we have not yet so much as ploughed our fields. If then the husbandman should come and find fault, what shall we say? and what answer shall we make? That
 
-174\. 6 Gen. iii. 13. 1747 Ps. iv. 4, LXX. 1748 1 Cor. xi. 31. Job. i. 5.
+1746 Gen. iii. 13. 1747 Ps. iv. 4, LXX. 1748 1 Cor. xi. 31. Job. i. 5.
 
 
 *[p. 485]* ^pg493
@@ -65,7 +65,7 @@ Wherefore also He rebukes them severely. And when they were questioning Him roug
 
 Now by these sayings He signified Himself to be of one accord with His Father, and them to be doing nothing new; He was also unfolding their secrets, how with hypocrisy and as enemies they were making their demand. Therefore He called them “an evil generation,” because they have been always ungrateful towards their benefactors; because upon favors they become worse, which belongs to extreme wickedness.
 
-175\. 0 \[“Unto them” is omitted in the Greek text here, against all our New Testament codices.—R.\] See Ezek. xvi. 23, etc. διορθσαι. 1752 γυμνζει. 1753 1754 Matt. xxii. 40. Matt. xxvii. 63. \[The citation is not exact: at the close a different verb, in a different tense, is given.—R.\]
+1750 \[“Unto them” is omitted in the Greek text here, against all our New Testament codices.—R.\] See Ezek. xvi. 23, etc. διορθσαι. 1752 γυμνζει. 1753 1754 Matt. xxii. 40. Matt. xxvii. 63. \[The citation is not exact: at the close a different verb, in a different tense, is given.—R.\]
 
 
 *[p. 487]* ^pg495
@@ -122,7 +122,7 @@ Where now are they that seek after signs? Let them hear that a considerate mind 
 
 5\. All this might be seasonably said, not of them only, but of us also, when after having been enlightened,<sup>1763</sup>and delivered from our former ills, we again cleave unto the same wickedness, for more grievous also thenceforth will be the punishment of our subsequent sins. Therefore to the sick of the palsy also Christ said, “Behold, thou art made whole; sin no more, lest a worse thing come unto thee;”<sup>1764</sup>and this to a man who was thirty-eight
 
-176\. 2 Matt. xxiv. 21. 1763 Heb. vi. 4.
+1762 Matt. xxiv. 21. 1763 Heb. vi. 4.
 
 
 *[p. 490]* ^pg498
@@ -139,7 +139,7 @@ And this I say, because I know many, who like Pharaoh are even now saying, “I 
 
 Concerning that day, hear the prophets, saying, “The day of the Lord is incurable, full of anger and wrath.”<sup>1769</sup> For there will be none to stand by, none to rescue, nowhere the face of Christ, so mild and calm. But as those who work in the mines are delivered over to certain cruel men, and see none of their friends, but those only that are set over them; so will it be then also: or rather not so, but even far more grievous. For here it is possible to go unto the king, and entreat, and free the condemned person: but there, no longer; for He permits it not, but they continue in the scorching torment,<sup>1770</sup>and in so great anguish, as
 
-176\. 5 Ezek. xvi. 6, 9, 14, 26. 1766 Exod. v. 2. 1767 Ephes. vi. 9. 1768 Dan. iii. 22. 1769 Is. xiii. 9. ἀποτηγανιζμενοι.
+1765 Ezek. xvi. 6, 9, 14, 26. 1766 Exod. v. 2. 1767 Ephes. vi. 9. 1768 Dan. iii. 22. 1769 Is. xiii. 9. ἀποτηγανιζμενοι.
 
 
 *[p. 491]* ^pg499
@@ -170,7 +170,7 @@ Let us take heed therefore to ourselves, that we may gain them also. I say nothi
 
 271
 
-177\. 1 2 Thess. iii. 1. Matt. v. 15; Luke xi. 33.
+1771 2 Thess. iii. 1. Matt. v. 15; Luke xi. 33.
 
 
 *[p. 493]* ^pg501
@@ -225,9 +225,9 @@ But do thou, I pray, examine not the words only, which contain a moderate reproo
 
 This then He establishes here also, but in a manner less invidious, and more measured, as became Him speaking to His mother. For He said not at all, “She is not my mother, nor are those my brethren, because they do not my will;” neither did He declare and pronounce
 
-177\. 9 Luke xi. 27, 28. \[According to many Harmonists this occurred about the same time, probably as His mother was seen approaching.—R.\]
+1779 Luke xi. 27, 28. \[According to many Harmonists this occurred about the same time, probably as His mother was seen approaching.—R.\]
 
-178\. 0 Matt. iii. 7, 9.
+1780 Matt. iii. 7, 9.
 
 
 *[p. 497]* ^pg505
@@ -250,7 +250,7 @@ And having sat down there, He speaks by parables.
 
 “And He spake,” it says, “many things unto them in parables.”<sup>1786</sup>
 
-178\. 2 Matt. xiii. 50. \[Slightly altered.\] 1783 John ii. 1–11. 1784 Chap. xiii. 1. \[R.V., “On that day,” etc.\] 1785 Matt. xiii. 2. \[R.V., “all the multitude stood on the beach.”\]
+1782 Matt. xiii. 50. \[Slightly altered.\] 1783 John ii. 1–11. 1784 Chap. xiii. 1. \[R.V., “On that day,” etc.\] 1785 Matt. xiii. 2. \[R.V., “all the multitude stood on the beach.”\]
 
 
 *[p. 498]* ^pg506
@@ -271,9 +271,9 @@ He said not, that He cast them, but that “they fell.”
 
 A fourth part is saved; and not this all alike, but even here great is the difference.
 
-178\. 7 Mark iv. 13. \[Freely cited.\] 1788 \[R.V., “the sower.”\] 1789 Matt. xiii. 4. \[R.V., “And as he sowed,” etc.\]
+1787 Mark iv. 13. \[Freely cited.\] 1788 \[R.V., “the sower.”\] 1789 Matt. xiii. 4. \[R.V., “And as he sowed,” etc.\]
 
-179\. 0 Matt. xiii. 5–9. \[The Greek text here differs slightly from that of the New Testament passage, as well as from the accounts of Mark and Luke.—R.\]
+1790 Matt. xiii. 5–9. \[The Greek text here differs slightly from that of the New Testament passage, as well as from the accounts of Mark and Luke.—R.\]
 
 
 *[p. 499]* ^pg507
@@ -292,7 +292,7 @@ And this was not the case with the seed only, but also with the net; for that to
 
 And how can it be reasonable, saith one, to sow among the thorns, on the rock, on the wayside? With regard to the seeds and the earth it cannot be reasonable; but in the case of men’s souls and their instructions, it hath its praise, and that abundantly. For the husbandman indeed would reasonably be blamed for doing this; it being impossible for the rock to become earth, or the wayside not to be a wayside, or the thorns, thorns; but in the things that have reason it is not so. There is such a thing as the rock changing, and becoming rich
 
-179\. 1 Is. v. 4. 1792 Is. v. 1. βναυσοι. 1794 1795 Matt. xiii. 20, 21, 19. \[There are some variations in the Greek text, not found in any New Testament mss. In verse 19 ἀληθεα is substituted for βασιλεα.—R.\]
+1791 Is. v. 4. 1792 Is. v. 1. βναυσοι. 1794 1795 Matt. xiii. 20, 21, 19. \[There are some variations in the Greek text, not found in any New Testament mss. In verse 19 ἀληθεα is substituted for βασιλεα.—R.\]
 
 
 *[p. 500]* ^pg508
@@ -371,7 +371,7 @@ It by no means follows, however, because it is a gift, that therefore free will 
 
 278 1798 \[R.V., “Unto you it is given,” omitting “Because.”\] 1799 Mark iv. 10.
 
-180\. 0 Luke ix. 12. 1801 Matt. xv. 12. 1802 Matt. xiii. 11. \[R.V., “Unto you it is given,” etc.\] ἀποκλρωσι. 1803 1804 Matt. xiii. 12. See Luke viii. 18. \[δοκε is inserted from the latter passage, and repeated in the comments.—R.\]
+1800 Luke ix. 12. 1801 Matt. xv. 12. 1802 Matt. xiii. 11. \[R.V., “Unto you it is given,” etc.\] ἀποκλρωσι. 1803 1804 Matt. xiii. 12. See Luke viii. 18. \[δοκε is inserted from the latter passage, and repeated in the comments.—R.\]
 
 
 *[p. 505]* ^pg513
@@ -388,7 +388,7 @@ Then He also made what He had said more distinct, pointing out the meaning of, �
 
 “For in them is fulfilled,” saith He, “the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand, and seeing ye shall see, and shall not perceive.”<sup>1808</sup> Seest thou the prophet likewise, accusing them with this same accuracy? for neither did He say, Ye see not, but “Ye shall see and not perceive;” nor again, Ye shall not hear, but “Ye shall hear and not understand.” So that they first inflicted the loss on themselves, by stopping
 
-180\. 5 Matt. xiii. 13. 1806 Matt. xii. 14. 1807 John ix. 16. Matt. xiii. 14. See Is. vi. 9, 10. 279 1809 Matt. xiii. 15. \[The passage is abridged. R.V., “should turn again ” (so in Isaiah). Chrysostom takes it in this sense, as the context shows.—R.\]
+1805 Matt. xiii. 13. 1806 Matt. xii. 14. 1807 John ix. 16. Matt. xiii. 14. See Is. vi. 9, 10. 279 1809 Matt. xiii. 15. \[The passage is abridged. R.V., “should turn again ” (so in Isaiah). Chrysostom takes it in this sense, as the context shows.—R.\]
 
 
 *[p. 506]* ^pg514
@@ -405,7 +405,7 @@ Seest thou that, “unto you it is given,” was not of necessity? For neither w
 
 But not such were these; wherefore He also blessed them. And in another way too He assures them again, saying,
 
-181\. 0 \[“turn again.”\] \[τ πιστραφναι.\] 1811 1812 Ezek. xviii. 23. \[Freely cited in the first part.—R.\]
+1810 \[“turn again.”\] \[τ πιστραφναι.\] 1811 1812 Ezek. xviii. 23. \[Freely cited in the first part.—R.\]
 
 
 *[p. 507]* ^pg515
@@ -422,7 +422,7 @@ Then of virtue also He brings forward different forms. For being full of love to
 
 Yet surely, even antecedently to the kingdom, and to all the rest, even for the very fact of His giving, we ought to feel bound to Him. For so servants too, when bidding their masters to a meal, account themselves not to be giving but receiving; but here the contrary hath
 
-181\. 4 Matt. xiii. 17. 1815 Matt. xiii. 18. Isa. lviii. 7, LXX.
+1814 Matt. xiii. 17. 1815 Matt. xiii. 18. Isa. lviii. 7, LXX.
 
 
 *[p. 508]* ^pg516
@@ -491,7 +491,7 @@ Wherefore how they may for the present extirpate the mischief, this is their obj
 
 What then doth the Master? He forbids them, saying, “Lest haply ye root up the wheat with them.” And this He said, to hinder wars from arising, and blood and slaughter. For it is not right to put a heretic to death, since an implacable war would be brought into the
 
-181\. 9 Matt. x. 22. 1 Cor. xvi. 13.
+1819 Matt. x. 22. 1 Cor. xvi. 13.
 
 
 *[p. 512]* ^pg520
@@ -510,7 +510,7 @@ That is, since He had said, that of the crop three parts are lost, and but one s
 
 Therefore He brought forward the similitude of this herb, which has a very strong resemblance to the subject in hand; “Which indeed is the least,” He saith, “of all seeds, but
 
-182\. 1 Matt. xiii. 30. 1822 Matt. iii. 12. \[μου is omitted from the text of the Homily.—R.\] 1823 1824 \[Matt. xiii. 31. \[R.V., “set he before them,” etc.\] κρυγμα.
+1821 Matt. xiii. 30. 1822 Matt. iii. 12. \[μου is omitted from the text of the Homily.—R.\] 1823 1824 \[Matt. xiii. 31. \[R.V., “set he before them,” etc.\] κρυγμα.
 
 
 *[p. 513]* ^pg521
@@ -531,7 +531,7 @@ And marvel not, if discoursing about the kingdom, He made mention of a little se
 
 Where now are the children of the Greeks? Let them learn Christ’s power, seeing the verity of His deeds, and on either ground let them adore Him, that He both foretold so great
 
-182\. 6 Matt. xiii. 31, 32. \[R.V., “is less than all,” “is greater than.”\] ἐξηπλθη. 1827 Matt. xiii. 33. \[ἔκρυψεν (see Luke xiii. 21) is the reading here, and in the comment. Our best New Testa- 1828 ment mss. read ἐνκρυψεν.—R.\] ἰσχν.
+1826 Matt. xiii. 31, 32. \[R.V., “is less than all,” “is greater than.”\] ἐξηπλθη. 1827 Matt. xiii. 33. \[ἔκρυψεν (see Luke xiii. 21) is the reading here, and in the comment. Our best New Testa- 1828 ment mss. read ἐνκρυψεν.—R.\] ἰσχν.
 
 
 *[p. 514]* ^pg522
@@ -548,7 +548,7 @@ And what can it be then, he will say, that showed them great? Their contempt of 
 
 What manner of miracle did John work, that he fixed on himself the attention<sup>1831</sup>of so many cities? For as to the fact that he did no wondrous works, hear the evangelist, saying, “John did no miracle.”<sup>1832</sup> And whence did Elias become admirable? Was it not from his boldness towards the king? from his zeal towards God? from his voluntary poverty? from his garment of sheep’s skin, and his cave, and his mountains? For his miracles he did after all these. And as to Job, what manner of miracle did he work in sight of the devil, that he was amazed at him? No miracle indeed, but a life that shone and displayed an endurance
 
-183\. 0 This sentence is printed in italics, as not appearing in many of the mss. It is evidently a marginal note by some copyist. \[It is not found in any of the mss. collated by Field, and was bracketed as doubtful by earlier editors.—R.\] ἀνηρτσατο. 1831 John x. 41. \[R.V., “sign,” and so elsewhere in this edition of the Homilies. The same term (σημεον) occurs frequently in the present context, and is uniformly rendered “miracle.”—R.\] 284 1833 Acts xiii. 22. 1834 Matt. viii. 20. 1835 Matt. v. 16. 1836 John xxi. 16.
+1830 This sentence is printed in italics, as not appearing in many of the mss. It is evidently a marginal note by some copyist. \[It is not found in any of the mss. collated by Field, and was bracketed as doubtful by earlier editors.—R.\] ἀνηρτσατο. 1831 John x. 41. \[R.V., “sign,” and so elsewhere in this edition of the Homilies. The same term (σημεον) occurs frequently in the present context, and is uniformly rendered “miracle.”—R.\] 284 1833 Acts xiii. 22. 1834 Matt. viii. 20. 1835 Matt. v. 16. 1836 John xxi. 16.
 
 
 *[p. 515]* ^pg523
@@ -571,9 +571,9 @@ Wherefore, if thou desire to become equal to the apostles, there is nothing to h
 
 The saying is not mine, but the blessed Paul’s. For when he had said, “Covet earnestly the best gifts, and yet show I unto you a more excellent way;”1843\\he did not speak next of a sign, but of charity, the root of all our good things. If then we practise this, and all the self-denial
 
-183\. 8 Matt. xi. 29. 1839 Luke x. 7, 8; compare 1 Cor. x. 27. \[The two passages are combined.—R.\]
+1838 Matt. xi. 29. 1839 Luke x. 7, 8; compare 1 Cor. x. 27. \[The two passages are combined.—R.\]
 
-184\. 0 Matt. x. 9. ἀναβαλλσθω ε σημεα. 1841 1842 Acts viii. 10. 1 Cor. xii. 31.
+1840 Matt. x. 9. ἀναβαλλσθω ε σημεα. 1841 1842 Acts viii. 10. 1 Cor. xii. 31.
 
 
 *[p. 517]* ^pg525
@@ -582,7 +582,7 @@ that flows from it, we shall have no need of signs; even as on the other hand, i
 
 Bearing in mind then all this, let us imitate those things whereby the apostles became great. And whereby did they become great? Hear Peter, saying, “Behold we have forsaken all, and followed Thee; what shall we have therefore?”<sup>1844</sup> Hear also Christ saying to them, “Ye shall sit upon twelve thrones,” and, “every one that hath forsaken houses, or brethren, or father, or mother, shall receive an hundredfold in this world, and shall inherit everlasting life.”<sup>1845</sup> From all worldly things, therefore, let us withdraw ourselves, and dedicate ourselves to Christ, that we may both be made equal to the apostles according to His declaration, and may enjoy eternal life; unto which may we all attain, by the grace and love towards man of our Lord Jesus Christ to whom be glory and might forever and ever. Amen.
 
-184\. 4 Matt. xix. 27. Matt. v. 29; compare Mark x. 30, Luke viii. 30.
+1844 Matt. xix. 27. Matt. v. 29; compare Mark x. 30, Luke viii. 30.
 
 
 *[p. 518]* ^pg526
@@ -603,9 +603,9 @@ Wherefore also He left them and went away. For, “Then,” saith he, “Jesus s
 
 “And His disciples come unto Him, asking Him concerning the parable of the tares;”<sup>1854</sup>although at times wishing to learn, and afraid<sup>1855</sup>to ask. Whence then arose their
 
-184\. 6 \[R.V., “nothing,” following a reading accepted by Chrysostom, both here and in the comments. The received text has “not.”—R. \] 1847 \[R.V., “things hidden.”\] 1848 Comp. Ps. lxxviii. 2. 1849 Matt. iv. 33.
+1846 \[R.V., “nothing,” following a reading accepted by Chrysostom, both here and in the comments. The received text has “not.”—R. \] 1847 \[R.V., “things hidden.”\] 1848 Comp. Ps. lxxviii. 2. 1849 Matt. iv. 33.
 
-185\. 0 Ezek. xii. 9, xxiv. 19, xxxvii. 18. 1851 \[R.V., “he left the multitudes.” Compare the previous sentence. But Chrysostom, with the rec. text inserts “Jesus.”—R.\] 1852 Matt. xiii. 36, *the* house (rec. text). ἐπιλαβσθαι . 1853 1854 \[Matt. xiii. 36, freely cited.\] Mark ix. 32. 286 1856 This passage is translated according to a conjectural emendation of Mr. Field. \[The Greek text seems to be corrupt here. The mss. readings yield no intelligible sense that can be considered correct.—R.\] Or, “produce lawlessness,” το ποιοντα τν νομαν, in which sense it seems more directly applicable to 1857 heretics, who may not be vicious in their own lives, but produce a contempt of God’s law by their false doctrines. *Transl*. 1858 Matt. xiii. 37–43. \[The long citation presents few textual variations of any kind, none that affect the sense.—R.\]
+1850 Ezek. xii. 9, xxiv. 19, xxxvii. 18. 1851 \[R.V., “he left the multitudes.” Compare the previous sentence. But Chrysostom, with the rec. text inserts “Jesus.”—R.\] 1852 Matt. xiii. 36, *the* house (rec. text). ἐπιλαβσθαι . 1853 1854 \[Matt. xiii. 36, freely cited.\] Mark ix. 32. 286 1856 This passage is translated according to a conjectural emendation of Mr. Field. \[The Greek text seems to be corrupt here. The mss. readings yield no intelligible sense that can be considered correct.—R.\] Or, “produce lawlessness,” το ποιοντα τν νομαν, in which sense it seems more directly applicable to 1857 heretics, who may not be vicious in their own lives, but produce a contempt of God’s law by their false doctrines. *Transl*. 1858 Matt. xiii. 37–43. \[The long citation presents few textual variations of any kind, none that affect the sense.—R.\]
 
 
 *[p. 519]* ^pg527
@@ -640,9 +640,9 @@ And how saith He elsewhere, that “the righteous are caught up first?”<sup>18
 
 “The Kingdom of Heaven is like unto treasure hid in a field, the which when a man hath found, he hideth, and for joy thereof selleth all that he hath, and buyeth that field. Again,
 
-185\. 9 John iv. 35.
+1859 John iv. 35.
 
-186\. 0 Matt. ix. 37; Luke x. 2. 1861 John iv. 37. ὑπακουσντων . 1862 1863 1 Thess. iv. 17. Matt. xiii. 51. \[R.V., omits “Lord,” so the oldest mss. and the Vulgate.—R.\] 287 Matt. xiii. 44–46. \[Here also the Greek text presents few peculiarities; τ is omitted before ἀγρ in verse 44, 1865 as in a few mss. of the New Testament.—R.\] 1866 Matt. xiii. 47, 48. \[R.V., “which, when it was filled, they drew upon the beach,” etc.\]
+1860 Matt. ix. 37; Luke x. 2. 1861 John iv. 37. ὑπακουσντων . 1862 1863 1 Thess. iv. 17. Matt. xiii. 51. \[R.V., omits “Lord,” so the oldest mss. and the Vulgate.—R.\] 287 Matt. xiii. 44–46. \[Here also the Greek text presents few peculiarities; τ is omitted before ἀγρ in verse 44, 1865 as in a few mss. of the New Testament.—R.\] 1866 Matt. xiii. 47, 48. \[R.V., “which, when it was filled, they drew upon the beach,” etc.\]
 
 
 *[p. 521]* ^pg529
@@ -711,6 +711,6 @@ Hast thou seen a head such as thou hadst never seen? Wilt thou see the face too,
 
 And if thou wilt see the eyes also, behold them exactly delineated with decency and temperance. Wherefore they become also so beautiful and sharpsighted, as to behold even the Lord Himself. For, “Blessed,” saith He, “are the pure in heart, for they shall see God.”<sup>1884</sup>
 
-187\. 7 Matt v. 3; Luke vi. 20. 1878 Is. lxvi. 2. 1879 Ps. ci. 6, comp. Ps. lxxvi. 9.
+1877 Matt v. 3; Luke vi. 20. 1878 Is. lxvi. 2. 1879 Ps. ci. 6, comp. Ps. lxxvi. 9.
 
-188\. 0 Ps. xxxiv. 18. βμο, θυσιαστριον. These two words are commonly used, the former in a bad, the other in a good sense, 1881 of Heathen, and Christian, or Jewish, altars respectively. This seems to be an invariable rule, as to the word βμο, in the Greek Bible except that it is used of the Jewish altar in the following places of the Apocrypha: Ecclus. l. 12, 14; 2 Macc. ii. 19, xiii. 8, which may suffice to show that it was occasionally employed, as by St. Chrysostom here, with no unholy association. 1882 Ps. li. 17. 1883 Ecclus. xxxii. 10. \[ἀγπ \] 1885 \[ἀγπην.\] 1886 1887 Luke xxii. 30. 1888 Acts v. 41. σψι, q.d. “the wear and tear.”
+1880 Ps. xxxiv. 18. βμο, θυσιαστριον. These two words are commonly used, the former in a bad, the other in a good sense, 1881 of Heathen, and Christian, or Jewish, altars respectively. This seems to be an invariable rule, as to the word βμο, in the Greek Bible except that it is used of the Jewish altar in the following places of the Apocrypha: Ecclus. l. 12, 14; 2 Macc. ii. 19, xiii. 8, which may suffice to show that it was occasionally employed, as by St. Chrysostom here, with no unholy association. 1882 Ps. li. 17. 1883 Ecclus. xxxii. 10. \[ἀγπ \] 1885 \[ἀγπην.\] 1886 1887 Luke xxii. 30. 1888 Acts v. 41. σψι, q.d. “the wear and tear.”

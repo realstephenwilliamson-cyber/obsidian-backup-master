@@ -19,8 +19,7 @@ language:
   - English
 pages: 49
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Dyczkowski (ed. and tr.) - The Samvitprakasa of Vamanadatta (1990).pdf]]"
   - "[[Library/Trika/The Samvitprakasa by Vamanadatta (Vamanadatta)/The Samvitprakasa by Vamanadatta (Vamanadatta)]]"

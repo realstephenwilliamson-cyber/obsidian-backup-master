@@ -19,8 +19,7 @@ language:
   - English
 pages: 621
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Mirnig, Rastelli, Eltschinger (eds.) - Tantric Communities in Context (2019).pdf]]"
   - "[[Library/Trika/Tantric Communities in Context (Mirnig)/Tantric Communities in Context (Mirnig)]]"

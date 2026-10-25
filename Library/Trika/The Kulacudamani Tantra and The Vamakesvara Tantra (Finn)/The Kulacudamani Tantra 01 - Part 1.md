@@ -355,7 +355,7 @@ In his introduction to this edition of the text, Maitra points out[^35] that the
 
 For these additional reasons, one can reasonably suppose the KCT to have been written between the 9th and llth centuries, and when one goes on to consider the further internal evidence that the Kula-cüdāmaṇi presents, it generally points to an earlier rather than later date on this scale.
 
-For example, a text like Bhavabhūti's Mālatī-Mādhava reveals that magic and bloody sacrifices of Tantric typežł[^37] were certainly current in 7-8th C India. The KCT has a frank and almost predominant interest in the application of mantras for magical and mundane ends, and as the extant text has a somewhat abrupt and patchy presentation suggesting that many verses may have been deleted or bowdlerized - perhaps because they had begun to seem offensive, this may in itself indicate a date before the consolidation of the caste structure and the gradual emergence of a more censorious society. These characteristics, in addition to the lack of the usual introductory
+For example, a text like Bhavabhūti's Mālatī-Mādhava reveals that magic and bloody sacrifices of Tantric type[^37] were certainly current in 7-8th C India. The KCT has a frank and almost predominant interest in the application of mantras for magical and mundane ends, and as the extant text has a somewhat abrupt and patchy presentation suggesting that many verses may have been deleted or bowdlerized - perhaps because they had begun to seem offensive, this may in itself indicate a date before the consolidation of the caste structure and the gradual emergence of a more censorious society. These characteristics, in addition to the lack of the usual introductory
 [^36]: The "bija" counts as the ninth syllable.
 
 [^35]: Woodroffe, Kulacūdāmaṇi Tantra, p. 13.
@@ -465,9 +465,9 @@ Although, due to her demon slaying myth, Mahiṣãsuramardinī has remained a mo
 of today.
 
 Therefore the heyday of the worship of goddesses such as Mahiṣãsura-mardinī, the Mothers and Araṇyā is deduced to be in the 7th to 8th centuries of the first millenium followed by a marked decline in their popularities that must have begun by the end of the same era. On the basis that the KCT includes a surprising amount of worship for these goddesses in comparison to known later texts, one beljeves the KCT to be a relatively early eclectic work promoting the worship
-[^57]: Although she is no longer a "living" goddess, there is 7th C evidence that Araṇyyā was once worshipped in temples. Epigraphica Indica, Vol. 20 (Calcutta: Arehaeological Survey of India, n.d.), p.
+[^57]: Although she is no longer a "living" goddess, there is 7th C evidence that Araṇyyā was once worshipped in temples. Epigraphica Indica, Vol. 20 (Calcutta: Arehaeological Survey of India, n.d.), p. 97.
 
-97.
+
 
 [^58]: A surprising number of the earliest representations of Mahigãāsuramardini (especially certain Kushan ones) show the goddess without the lion. Only later does the lion begin to consistently appear in the sculptures - usually biting the flank of the buffalo demon Mahiṣa. From this same early period there also exist representations of an Ambikã-like goddess accompanied by a lion, e.g. in the eaves at Nastik.
 
@@ -492,9 +492,9 @@ Kullā, Kurukullā, Virodhī, Vipracittā, Ugramukhī, Ugraprabhā, Pradīpta, N
 Dictionary of the Indian Religions.
 
 For example, Vimalā is one of the ten Buddhist bhūmis;[^62] Kurukullā has various sādhanas in the SM;[^63] VāgīsvarĪ is one of the Buddhist attendants of the mother goddess Brahmāṇĵi;[^64] Pradīptā is probably Pradīpa Tārā who is the same as Aparājitās[^65] - an inferior Mahāyāna goddess; Kapālinī is a Buddhist deity in the SM and the NSP, and NĪ1ā66 is supposedly the same as Anilā and is a blue/black goddess in the NSP.[^67] Judging from their names, one suspects that Sukulā, Kulā, Ugramukhī and Ugraprabhā would also be part of the Buddhist pantheon if some identification could be found for them.
-[^64]: Ibid., p.
+[^64]: Ibid., p. 129.
 
-129.
+
 
 66\. Ibid., p. 212.
 
@@ -516,9 +516,9 @@ In the KCT it is notable that the Buddhist name is preferred to the Hindu name o
 Also, there is a curious half-verse (I1:1) which refers to the various colours of the Goddess as black, red, green and blue. Colour coding of gods and goddesses is practised in Hinduism and in Buddhism, but what attracts the attention here is that instead of the conventional Hindu sequence of the four colours white, red, yellow and black,[^70] two of the colours are blue and green which seem to be more characteristic of. Buddhist deities.
 
 Furthermore, Chapter VI Verse 39 mentions the "añjana giddhi".[^71] In Hinduism the traditional list of siddhis includes Aṇnimā, Laghimā, Mahimā, Prāpti, Prakāmya, Tsitva, Vaśitva and Kāmāvasāyitva.[^72]” The Buddhist list contains: Khadga, Añjana, Pādalepa, Antardhāna, Rasara-
-[^69]: Benoytosh Bhattacharyya, An Introduction to Buddhist Esoterism (Delhi: M. Banarsidass, 1980), p.
+[^69]: Benoytosh Bhattacharyya, An Introduction to Buddhist Esoterism (Delhi: M. Banarsidass, 1980), p. 151.
 
-151.
+
 [^71]: A "siddhi" tis an attainment of a magical or supernatural kind.
 
 [^68]: She ts classified along wtth eleven other goddesses as one of the "Kulasundarts" which is a grouping that is not familiar from any souree known to the author.,
@@ -577,12 +577,12 @@ The division which is perhaps best known outside of Tantric circles is that into
 Unfortunately the terms "left-hand" and "right hand" are not always similarly defined by the varying authors who employ them. In common usage, the left-hand path has "emphasized the use of the five
 
 81\. A familiarity with the Saradã script (from Kashmir) is sometimes necessary for the interpretation of the commentary due to the strong influence of Kashmir Śaivism.
-[^82]: Goudriaan, Tantrie and Sākta Literature, p.
+[^82]: Goudriaan, Tantrie and Sākta Literature, p. 64.
 
-64.
-[^83]: Ibid., p.
 
-59.
+[^83]: Ibid., p. 59.
+
+
 [^84]: See Jayaratha's Invocatory Verses and his commentary to I:58.
 [^85]: Apart from the references to Vāmakeśvarīmatam in the Invocatory Verses and in the commentary to I:58, the main text itself makes no mention of Vāmakeśvarī or Vāmakeśvara.
 
@@ -597,9 +597,9 @@ It is in connection with the more notorious connotations of the left-hand path a
 The second classification into "rotas" or "currents" is a more ancient one, but it too is not very instructive for the good reason that texts of the left current are rare91 and their content and meaning are so far effectively unknown.
 
 87\. I.e., wine, fish, meat, parched grain and sexual intereourse.
-[^88]: Vijhānabhairava or Divine Consetousness, trsl. and notes by  Jaideva Singh (Delhi: M. Banarstdass, 1979), p.
+[^88]: Vijhānabhairava or Divine Consetousness, trsl. and notes by  Jaideva Singh (Delhi: M. Banarstdass, 1979), p. 4.
 
-4.
+
 
 89\. Bharati says that "dakgiṇnācāra and vāmācāra refer to the
 
@@ -663,9 +663,9 @@ Sivānanda and "Artharatnāvalī" by Vidyānanda, ed. Vrajavallabha Dwiveda, Yog
 
 Sanskrit Vishvavidyalaya, 1968).
 [^99]: See the Appendix.
-[^100]: Jayaratha's "Vivarana" (12th C); Sivānanda's "Rjuvimarśin"  (13th C); Vidyānanda's "A4rtharatnāval?" (? C) and Bhāskararāya's "Setubandha” (18th C). (Goudriaan, Bindu Tantric and Sākta Literature, p.
+[^100]: Jayaratha's "Vivarana" (12th C); Sivānanda's "Rjuvimarśin"  (13th C); Vidyānanda's "A4rtharatnāval?" (? C) and Bhāskararāya's "Setubandha” (18th C). (Goudriaan, Bindu Tantric and Sākta Literature, p. 60.
 
-60.
+
 
 *[p. 39]* ^pg35
 
@@ -678,9 +678,9 @@ According to Pandey, Jayaratha lived towards the close of the 12th and at the be
 Although one learns from the Tantrālokaviveka that the Kula tradition to which Jayaratha adheres was received from his immediate guru Subhata Datta, (with instruction in Śaivism from Kalyāna and additional teaching in other subjects from Saṁkhadhara,[^103]) it is a tradition in the line of descent from ĪSvaraśiva - 9th century abbot of Sūramatha founded by the minister of Anantivarman, to Visvāvarta (9-10th C), Abhinavagupta (10th C), Kṣṣemarāja (10-11th C) and Dīpikanātha (12th C?).
 
 This lineage (paramparā) is confirmed in the works of Jayaratha for he regularly makes references to these spiritual ancestors as a means of establishing his authority on the legitimate Kashmir tradition.
-[^103]: Ibid., p.
+[^103]: Ibid., p. 262.
 
-262.
+
 
 [^101]: The basis for this assertion lies in Jayaratha's cormentary to Chapter I Verse 88 in which he refers to the two alternative methods sponsored by Īśvaraśiva and Śaṁkararīsi for extracting the particular mantra. From this it is assumed that the venerable gurus must have written commentaries on the VT also.. The assumption does not seem justified in light of what Jayaratha actually says (see translation p. 243. It is possible that the extraction of these mantras was a common feature of other texts besides the VP since the ritual practice of\_the cakra and the vidyā is common to the Kula system. The Iśvara-stíva alternative method may have formed a part of the Śrīrasamahodadhi - a text which Jayaratha aseribes to Iśvara-stva.
 [^102]: Tantrālokaviveka, Alaṁkāravimarśínī and Alaṁkārodāharaṇa. (Pandey, Abhtnavagupta, p. 2683.)
@@ -694,12 +694,12 @@ Among Jayaratha's authorities, he quotes from and expresses immense respect for 
 The final guru whom Jayaratha mentions in a way which indicates that the guru was in the line of Jayaratha's received traditions is Dīpikanātha who is referred to in the commentary to Chapter IV Verses
 [^104]: See commentary to I¥\*88.
 [^105]: See commentary to IV:62.
-[^106]: Ibids, p.
+[^106]: Ibids, p. 581.
 
-581.
-[^107]: Ibid., p.
 
-16.
+[^107]: Ibid., p. 16.
+
+
 [^108]: See commentary to I:1.
 
 ikā listed by Pandey as a work of Kgemarāja. (Ibíid., p. 2586.)
@@ -712,14 +712,14 @@ ikā listed by Pandey as a work of Kgemarāja. (Ibíid., p. 2586.)
 
 The fact that Jayaratha also admits to having received direct instruction from several gurus of his own generation such as Kalyāna, indicates that the learned of the age were not the advocates of a sole tradition. More than one doctrinal school was considered legitimate and in these many fields Jayaratha is thought by some to have a "creative genius" only slightly less than that of the master Abhinava-gupta.[^111] In the VT commentary Jayaratha parades his erudition by quoting from a number of scriptures with which he concurs. They are the: Svacchanda Tantra; the Mālinīîvijaya Tantra; the ĪSvarapratya-bhijñā by Utpalācārya; the Tantrāloka by Abhinavagupta; the Utpala-stotrāvalī by Kṣemarāja; the Bṁadāraṇyakopaniṣad; the Vākyapadī; the Srīyogasañcāra; the Nityākula Tantra; the ĀnandeSvarakalpa; the YoginĪ Hṛdayam; the Rasasvacchanda Tantra; the Pratyabhijnā-
 
-hrdaya by Kṣemarāja and the Srīrasamahodadhi.[^112] <sup>112</sup>
+hrdaya by Kṣemarāja and the Srīrasamahodadhi.[^112]
 
 The conclusion to be drawn from Jayaratha's name dropping and extensive use of scriptural sources is that he placed himself directly in the succession of Kashmir's most prestigious gurus and therefore felt fully qualified to throw light upon the inner meanings of the
 
 VāmakeSvarīmatam.[^113] 
-[^111]: Rastogi, Krama Tantrieism, p.
+[^111]: Rastogi, Krama Tantrieism, p. 213.
 
-218.
+
 [^112]: Of these texts only the Svacchanda Tantra; the Mālintvíijaya Tantra; the Tantrāloka; the Bpṁadāranyakopanisad; the Pratyabhijnāhyrdayam and the Yogini Hrdayam are still known to be extant.
 [^113]: See the Invocatory Verses to the Vāmakeśvarīmatam.
 
@@ -768,9 +768,9 @@ Thirdly, Abhinavagupta (alive in AD 1000) and his works bear no witness to the e
 
 of making pilgrimages.
 [^119]: There are explicit references to the Rudrayāmala in I:84 and  IV:59; there is also an implicit reference in I:15.
-[^120]: Ibid., p.
+[^120]: Ibid., p. 47.
 
-47.
+
 
 [^121]: Ibid., p. 47
 [^122]: Pandey, Abhinavagupta, p. 593.

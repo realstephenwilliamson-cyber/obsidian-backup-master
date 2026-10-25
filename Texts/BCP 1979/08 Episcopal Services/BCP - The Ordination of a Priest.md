@@ -5,9 +5,7 @@ section: "Episcopal Services"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/EpiscopalServices/ordination_of_a_priest.html"
-page_range:
-  - 525
-  - 535
+page_range: "525–535"
 aliases:
   - "BCP 525"
   - "BCP 526"
@@ -25,7 +23,7 @@ aliases:
 
 [[BCP 1979]] · *Episcopal Services* · pages 525–535
 
-[p. 525]
+[p. 525] ^pg525
 
 ## The Ordination of a Priest
 
@@ -53,7 +51,7 @@ Blessed be God: Father, Son, and Holy Spirit.
 
 Almighty God, to you all hearts are open, all desires known, and from you no secrets are hid. Cleanse the thoughts of our hearts by the inspiration of your Holy Spirit, that we may perfectly love you, and worthily magnify your holy Name; through Christ our Lord. *Amen.*
 
-[p. 526]
+[p. 526] ^pg526
 
 ## The Presentation
 
@@ -77,7 +75,7 @@ Will you be loyal to the doctrine, discipline, and worship of Christ as this Chu
 
 I am willing and ready to do so; and I solemnly declare that I do believe the Holy Scriptures of the Old and New Testaments to be the Word of God, and to contain all things necessary to salvation; and I do solemnly engage to conform to the doctrine, discipline, and worship of The Episcopal Church.
 
-[p. 527]
+[p. 527] ^pg527
 
 *The Ordinand then signs the above Declaration in the sight of all present.*
 
@@ -111,7 +109,7 @@ The Lord be with you
 
 **People** And also with you.
 
-[p. 528]
+[p. 528] ^pg528
 
 Let us pray.
 
@@ -133,7 +131,7 @@ A Reading (Lesson) from \_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 *A citation giving chapter and verse may be added.*
 
-[p. 529]
+[p. 529] ^pg529
 
 *After each Reading, the Reader may say*
 
@@ -170,7 +168,7 @@ the Father, the Almighty,
 maker of heaven and earth,  
 of all that is, seen and unseen.
 
-[p. 530]
+[p. 530] ^pg530
 
 We believe in one Lord, Jesus Christ,  
 the only Son of God,  
@@ -201,7 +199,7 @@ We acknowledge one baptism for the forgiveness of sins.
 We look for the resurrection of the dead,  
 and the life of the world to come. Amen.
 
-[p. 531]
+[p. 531] ^pg531
 
 ## The Examination
 
@@ -221,7 +219,7 @@ My *brother*, do you believe that you are truly called by God and his Church to 
 
 **Answer** I do.
 
-[p. 532]
+[p. 532] ^pg532
 
 **Bishop** Will you respect and be guided by the pastoral direction and leadership of your bishop?
 
@@ -251,7 +249,7 @@ Bishop Will you persevere in prayer, both in public and in private, asking God's
 
 **Answer** Amen.
 
-[p. 533]
+[p. 533] ^pg533
 
 ## The Consecration of the Priest
 
@@ -269,7 +267,7 @@ God and Father of all, we praise you for your infinite love in calling us to be 
 
 Therefore, Father, through Jesus Christ your Son, give your Holy Spirit to *N.*; fill *him* with grace and power, and make *him* a priest in your Church.
 
-[p. 534]
+[p. 534] ^pg534
 
 *The Bishop then continues*
 
@@ -295,7 +293,7 @@ The peace of the Lord be always with you.
 
 *The Presbyters present greet the newly ordained; who then greets family members and others, as may be convenient. The Clergy and People greet one another.*
 
-[p. 535]
+[p. 535] ^pg535
 
 ### At the Celebration of the Eucharist
 

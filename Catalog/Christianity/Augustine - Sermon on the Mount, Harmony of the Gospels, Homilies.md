@@ -22,7 +22,7 @@ language:
 pages: 1209
 text: searchable
 status: review
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Augustine - Sermon on the Mount, Harmony of the Gospels, Homilies (NPNF1 6).pdf]]"
   - "[[Library/Christianity/Sermon on the Mount, Harmony of the Gospels, Homilies (Augustine)/Sermon on the Mount, Harmony of the Gospels, Homilies (Augustine)]]"

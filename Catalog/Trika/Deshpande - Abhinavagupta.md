@@ -17,8 +17,7 @@ language:
   - English
 pages: 182
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[G. T. Deshpande - Abhinavagupta-Sahitya Akademi (1995).pdf]]"
   - "[[Library/Trika/Abhinavagupta (Deshpande)/Abhinavagupta (Deshpande)]]"

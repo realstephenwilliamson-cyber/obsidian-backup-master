@@ -5,9 +5,7 @@ section: "Episcopal Services"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/EpiscopalServices/ordination_of_a_bishop.html"
-page_range:
-  - 512
-  - 523
+page_range: "512–523"
 aliases:
   - "BCP 512"
   - "BCP 513"
@@ -26,7 +24,7 @@ aliases:
 
 [[BCP 1979]] · *Episcopal Services* · pages 512–523
 
-[p. 512]
+[p. 512] ^pg512
 
 ## The Ordination of a Bishop
 
@@ -54,7 +52,7 @@ Blessed be God: Father, Son, and Holy Spirit.
 
 Almighty God, to you all hearts are open, all desires known, and from you no secrets are hid. Cleanse the thoughts of our hearts by the inspiration of your Holy Spirit, that we may perfectly love you, and worthily magnify your holy Name; through Christ our Lord. *Amen.*
 
-[p. 513]
+[p. 513] ^pg513
 
 ## The Presentation
 
@@ -74,7 +72,7 @@ In the Name of the Father, and of the Son, and of the Holy Spirit, I, *N.N.*, ch
 
 *The Presiding Bishop then says the following, or similar words, and asks the response of the people*
 
-[p. 514]
+[p. 514] ^pg514
 
 Brothers and sisters in Christ Jesus, you have heard testimony given that *N.N.* has been duly and lawfully elected to be a bishop of the Church of God to serve in the Diocese of *N.* You have been assured of *his* suitability and that the Church has approved *him* for this sacred responsibility. Nevertheless, if any of you know any reason why we should not proceed, let it now be made known.
 
@@ -98,7 +96,7 @@ We will.
 
 The Scriptures tell us that our Savior Christ spent the whole night in prayer before he chose and sent forth his twelve apostles. Likewise, the apostles prayed before they appointed Matthias to be one of their number. Let us, therefore, follow their examples, and offer our prayers to Almighty God before we ordain *N.* for the work to which we trust the Holy Spirit has called *him*.
 
-[p. 515]
+[p. 515] ^pg515
 
 *All kneel, and the Person appointed leads the Litany for Ordinations, or some other approved litany. At the end of the litany, after the Kyries, the Presiding Bishop stands and reads the Collect for the Day, or the following Collect, or both, first saying*
 
@@ -118,7 +116,7 @@ O God of unchangeable power and eternal light: Look favorably on your whole Chur
 
 *Old Testament* [[Isaiah 61#^61-1|Isaiah 61:1-8]], *or* [[Isaiah 42#^42-1|Isaiah 42:1-9]] *Psalm* 99, *or* 40:1-14, *or* 100 *Epistle* [[Hebrews 05#^5-1|Hebrews 5:1-10]], *or* [[1 Timothy 03#^3-1|1 Timothy 3:1-7]], *or* [[2 Corinthians 03#^3-4|2 Corinthians 3:4-9]]
 
-[p. 516]
+[p. 516] ^pg516
 
 *The Reader first says*
 
@@ -156,7 +154,7 @@ The Gospel of the Lord
 
 *After the Sermon, the Congregation sings a hymn.*
 
-[p. 517]
+[p. 517] ^pg517
 
 ## The Examination
 
@@ -174,7 +172,7 @@ Are you persuaded that God has called you to the office of bishop?
 
 *The following questions are then addressed to the bishop-elect by one or more of the other bishops*
 
-[p. 518]
+[p. 518] ^pg518
 
 **Bishop** Will you accept this call and fulfill this trust in obedience to Christ?
 
@@ -204,7 +202,7 @@ Answer I will, by the grace given me.
 
 Answer I will, for the sake of Christ Jesus.
 
-[p. 519]
+[p. 519] ^pg519
 
 *All stand. The Presiding Bishop then says*
 
@@ -239,7 +237,7 @@ he suffered death and was buried.
 On the third day he rose again in accordance with the Scriptures;  
 he ascended into heaven and is seated at the right hand of the Father.
 
-[p. 520]
+[p. 520] ^pg520
 
 He will come again in glory to judge the living and the dead,  
 and his kingdom will have no end.
@@ -265,7 +263,7 @@ and the life of the world to come. Amen.
 
 God and Father of our Lord Jesus Christ, Father of mercies and God of all comfort, dwelling on high but having regard for the lowly, knowing all things before they come to pass: We give you thanks that from the beginning you have gathered and prepared a people to be heirs of the covenant of Abraham, and have raised up prophets, kings, and priests, never leaving your temple untended. We praise you also that from the creation you have graciously accepted the ministry of those whom you have chosen.
 
-[p. 521]
+[p. 521] ^pg521
 
 *The Presiding Bishop and other Bishops now lay their hands upon the head of the bishop-elect, and say together*
 
@@ -285,7 +283,7 @@ Receive the Holy Scriptures. Feed the flock of Christ committed to your charge, 
 
 *After this other symbols of office may be given.*
 
-[p. 522]
+[p. 522] ^pg522
 
 *The Presiding Bishop presents to the people their new bishop.*
 
@@ -319,7 +317,7 @@ The peace of the Lord be always with you.
 
 *In place of the usual postcommunion prayer, one of the bishops leads the people in the following*
 
-[p. 523]
+[p. 523] ^pg523
 
 Almighty Father, we thank you for feeding us with the holy food of the Body and Blood of your Son, and for uniting us through him in the fellowship of your Holy Spirit. We thank you for raising up among us faithful servants for the ministry of your Word and Sacraments. We pray that *N.* may be to us an effective example in word and action, in love and patience, and in holiness of life. Grant that we, with *him*, may serve you now, and always rejoice in your glory; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen. *The new Bishop blesses the people, first saying*
 

@@ -17,8 +17,7 @@ language:
   - English
 pages: 24
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Remarks_on_the_Text_of_the_Kubjikamatata.pdf]]"
   - "[[Library/Trika/Remarks on the Text of the Kubjikamatatantra (Sanderson)]]"

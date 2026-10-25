@@ -17,8 +17,7 @@ language:
   - English
 pages: 271
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Romdenh-Romluc - Merleau-Ponty and Phenomenology of Perception (2011).pdf]]"
   - "[[Library/Philosophy/Routledge Philosophy GuideBook to Merleau-Ponty (Romdenh-Romluc)/Routledge Philosophy GuideBook to Merleau-Ponty (Romdenh-Romluc)]]"

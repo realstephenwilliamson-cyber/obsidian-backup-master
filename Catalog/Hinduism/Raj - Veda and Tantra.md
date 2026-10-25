@@ -17,8 +17,7 @@ language:
   - English
 pages: 192
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Acc.no.9116-Veda and Tantra-1984.pdf]]"
 aliases:

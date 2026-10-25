@@ -18,8 +18,7 @@ language:
   - English
 pages: 871
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/The Gnostic Bible.pdf]]"
   - "[[Library/Christianity/The Gnostic Bible (Barnstone)/The Gnostic Bible (Barnstone)]]"

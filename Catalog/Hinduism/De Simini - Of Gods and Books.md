@@ -17,8 +17,7 @@ language:
   - English
 pages: 491
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[God's and books.pdf]]"
   - "[[Library/Hinduism/Of Gods and Books (De Simini)/Of Gods and Books (De Simini)]]"

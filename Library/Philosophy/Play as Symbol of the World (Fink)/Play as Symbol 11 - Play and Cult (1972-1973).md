@@ -4,7 +4,7 @@ book: "[[Play as Symbol of the World (Fink)]]"
 order: 11
 page_range: "249–250"
 ---
-[p. 249]
+[p. 249] ^pg249
 
 ## Play and Cult {1972–1973?}
 

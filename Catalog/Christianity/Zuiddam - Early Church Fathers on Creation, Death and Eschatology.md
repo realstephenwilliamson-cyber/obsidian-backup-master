@@ -17,8 +17,7 @@ language:
   - English
 pages: 7
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[j28_1_77-83.pdf]]"
   - "[[Library/Christianity/Early Church Fathers on Creation, Death and Eschatology (Zuiddam)]]"

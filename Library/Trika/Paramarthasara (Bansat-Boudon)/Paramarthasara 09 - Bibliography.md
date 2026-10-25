@@ -1,6 +1,12 @@
+---
+type: book-chapter
+work: "An Introduction to Tantric Philosophy: The Paramārthasāra of Abhinavagupta with the Commentary of Yogarāja"
+order: 9
+page_range: "408–436"
+---
 # Bibliography
 
-[p. 408]
+[p. 408] ^pg423
 
 MBh
 Mahābhārata
@@ -87,7 +93,7 @@ Svacchandatantroddyota
 ŚSĀ
 Śivastotrāvalī
 
-[p. 409]
+[p. 409] ^pg424
 
 ŚSV
 Śivasūtravimarśinī
@@ -170,7 +176,7 @@ JRAS
 Journal of the Royal Asiatic Society [of Great Britain
 and Ireland], Londres
 
-[p. 410]
+[p. 410] ^pg425
 
 KSS
 Kashi Sanskrit Series
@@ -228,7 +234,7 @@ Paramārthadvādaśikā,
 Mahopadeśaviṃśatikā,
 Dehasthadevatācakrastotra.] Paris, De Boccard (Publ. ICI 31).
 
-[p. 411]
+[p. 411] ^pg426
 
 Aṣṭādhyāyī [P.]
 S. Chandra Vasu 1962 (ed., transl.): The Aṣṭādhyāyī of Pāṇini. Edited and
@@ -281,7 +287,7 @@ P. Olivelle 2000 (transl.): Dharmasūtras: the law codes of Āpastamba, Gau-
 tama, Baudhāyana, and Vasiṣṭha. Annotated text and translation.
 Delhi, Motilal Banarsidass.
 
-[p. 412]
+[p. 412] ^pg427
 
 Āryāpañcāśīti
 See Paramārthasāra of Ādiśeṣa
@@ -330,7 +336,7 @@ Bhagavadbhaktistotra
 R. Gnoli 1958 (ed.): “The Bhagavadbhaktistotra by Avadhūtasiddha”, East
 and West 9, 1–2 (n.s.): “Miscellanea Indica”, 1: 215–222.
 
-[p. 413]
+[p. 413] ^pg428
 
 Bhāmatī
 See Brahmasūtrabhāṣya (J. L. Shastri)
@@ -370,7 +376,7 @@ Chāndogyopaniṣad [ChU]
 Belles lettres (Collection Émile Senart [1]).
 See Br̥hadāraṇyakopaniṣad (S. Radhakrishnan)
 
-[p. 414]
+[p. 414] ^pg429
 
 Dehasthadevatācakrastotra
 See Anuttarāṣṭikā.
@@ -416,7 +422,7 @@ Doctrine of Divine Recognition. Vol. 1 and 2: Sanskrit text with the
 commentary Bhāskarī (K. A. Subramanya Iyer, K. C. Pandey); vol. 3:
 English translation (K. C. Pandey). Delhi, Motilal Banarsidass. [1st ed.
 
-[p. 415]
+[p. 415] ^pg430
 
 Allahabad, Lucknow, 1930–1954 (The Princess of Wales Saraswati
 Bhavana Texts 70, 83, 84).]
@@ -456,7 +462,7 @@ Kāṭhakasaṃhitā [KS]
 L. von Schroeder 1900–1910 (ed.): Kāṭhakam: die Saṃhitā der Kaṭha-
 Śākhā. 3 vols. Leipzig, F. A. Brockhaus.
 
-[p. 416]
+[p. 416] ^pg431
 
 Kāṭhakopaniṣad [KāU]
 See Br̥hadāraṇyakopaniṣad (S. Radhakrishnan)
@@ -500,7 +506,7 @@ P. V. Kane, R. D. Karmarkar, V. G. Paranpe, V. P. Vaidya, S. K. De,
 F. Edgerton, R. N. Dandekar, Raghu Vira, et al.: The Mahābhārata,
 for the first time critically edited. Poona, BORI.
 
-[p. 417]
+[p. 417] ^pg432
 
 Mahābhāṣya
 S. D. Joshi, J. A. F. Roodbergen 1968–1986 (eds, transl.): Patañjali’s Vyā-
@@ -541,7 +547,7 @@ N. R. Bhatt 1962 (ed.): Mr̥gendrāgama (Kriyāpāda & incomplete Caryā-
 pāda) with the commentary of Bhaṭṭa Nārāyanakantha. Pondicherry,
 IFI (PIFI 23).
 
-[p. 418]
+[p. 418] ^pg433
 
 M. Hulin 1980 (transl.): Mr̥gendrāgama, Sections de la doctrine et du yoga,
 avec la vr̥tti de Bhaṭṭanārāyaṇakaṇṭha et la Dīpikā d’Aghoraśivācārya.
@@ -583,7 +589,7 @@ Benares, CSS Office (CSS 93).
 Pt. IV: 501–502 (s.v. vedānta). [1st ed. (Bengali script) Calcutta
 1821–1857.]
 
-[p. 419]
+[p. 419] ^pg434
 
 Pandit Bālaśāstrin 1871 (ed.): Śeṣakr̥tā-āryāpañcāśītiḥ, The Pandit, 5: 189
 –191.
@@ -625,7 +631,7 @@ Parāprāveśikā
 M. Rāma Shāstrī 1918 (ed.): The Parā Prāveshikā of Kṣhemarāja. Srinagar,
 Research Department, Jammu & Kashmir State (KSTS 15).
 
-[p. 420]
+[p. 420] ^pg435
 
 Parātrīśikā / Parātriṃśikā [PT], Parātrīśikālaghuvṛtti [PTLvr̥], Parātrīśikāvi-
 varaṇa [PTV]
@@ -665,7 +671,7 @@ dien (Wiener Studien zur Tibetologie und Buddhismuskunde 12).
 Praśnopaniṣad [PU]
 See Br̥hadāraṇyakopaniṣad (S. Radhakrishnan)
 
-[p. 421]
+[p. 421] ^pg436
 
 Pratyabhijñāhr̥daya [PH], Pratyabhijñāhr̥dayavr̥tti [PHvr̥]
 J. C. Chatterji 1911 (ed.): The Pratyabhijñā Hr̥idaya of Kṣhemarāja, being a
@@ -705,7 +711,7 @@ by Veṅkaṭa-Mādhava, and Mudgala’s Vṛtti based on Sāyaṇa-bhāṣya. 8
 vols. Hoshiarpur, Vishveshvaranand Research Institute (Vishvesh-
 varanand Indological Series 19–26).
 
-[p. 422]
+[p. 422] ^pg437
 
 Saṃvitprakāśa
 M. S. G. Dyczkowski 1990 (ed.): The Saṃvitprakāśa by Vāmanadatta, edited
@@ -754,7 +760,7 @@ Merton
 College,
 University of Oxford.
 
-[p. 423]
+[p. 423] ^pg438
 
 Siddhitrayī
 M. Kaul Shāstrī 1921 (ed.): The Siddhitrayi and the Pratyabhijna-Karika-
@@ -796,7 +802,7 @@ Spandakārikā. Stances sur la Vibration de Vasugupta et gloses de Bhaṭṭa
 Kallaṭa, Kṣemarāja, Utpalācārya, Śivadr̥ṣṭi (chapitre I) de Somānanda.
 Introduction et traduction. Paris, De Boccard (Publ. ICI 58).
 
-[p. 424]
+[p. 424] ^pg439
 
 M. S. G. Dyczkowski 1992 (transl.): The Stanzas on Vibration. The Span-
 dakārikā, with four commentaries: Spandasaṃdoha by Kṣemarāja,
@@ -834,7 +840,7 @@ The Śivastotrāvalī of Utpaladevāchārya, with the Sanskrit commentary
 of Kṣemarāja. Edited with Hindi commentary. Benares, CSS Office
 (CSS 15).
 
-[p. 425]
+[p. 425] ^pg440
 
 Śivasūtra [ŚS], Śivasūtravārtika [Bhāskara-ŚSvā, Varadarāja-ŚSvā], Śivasū-
 travimarśinī [ŚSV]
@@ -875,7 +881,7 @@ L. Silburn †, A. Padoux 1998 (transl.): Abhinavagupta, La Lumière sur les
 Tantras. Chapitres 1 à 5 du Tantrāloka, traduits et commentés. Paris,
 De Boccard (Publ. ICI 66).
 
-[p. 426]
+[p. 426] ^pg441
 
 R. Gnoli 1999 (transl.): Abhinavagupta, Luce dei Tantra: Tantrāloka.
 Milan, Adelphi (Biblioteca orientale 4). [Completely revised ed.]
@@ -916,7 +922,7 @@ Handschriften herausgegeben und mit einem Pāda-index versehen.
 Wiesbaden, Steiner (Abhandlungen für die Kunde des Morganlandes
 42, 4).
 
-[p. 427]
+[p. 427] ^pg442
 
 M. Biardeau 1964 (transl.): Bhartr̥hari, Vākyapadīya Brahmakānḍa, avec la
 vr̥tti de Harivr̥ṣabha. Texte reproduit de l’édition de Lahore. Traduction,
@@ -956,7 +962,7 @@ T. Gaṇapati Śāstrī 1922–1924 (ed.): The Yâjnavalkyasmriti, with the co
 mentary Bâlakrîdâ of Visvarûpâchârya. 2 parts. Trivandrum, Govern-
 ment of His Highness the Maharajah of Travancore (TSS 74, 81).
 
-[p. 428]
+[p. 428] ^pg443
 
 Yogasūtra [YS]
 D. Śastri 1930 (ed.): The Yogasūtra of Patañjali with six commentaries [Rā-
@@ -1003,7 +1009,7 @@ enlarged edition by P. K. Gode and C. G. Karve.
 Poona, Prasad
 Prakashan, 1957–1959.
 
-[p. 429]
+[p. 429] ^pg444
 
 S. Auroux (ed.) [EPU]: Encyclopédie philosophique universelle. II. Les no-
 tions philosophiques: Dictionnaire, t. 2: 2781–2937. Paris, Presses
@@ -1050,7 +1056,7 @@ Jammu & Kashmir State (KSTS 2).
 F. Chenet 1987: ‘Bhāvanā et créativité de la conscience’, Numen, 34, 1:
 45–96.
 
-[p. 430]
+[p. 430] ^pg445
 
 — 1998–1999: Psychogenèse et cosmogonie selon le Yoga-Vāsiṣṭha. ‘Le monde
 est dans l’âme’. 2 vols. Paris, De Boccard (Publ. ICI 67, 1–2).
@@ -1095,7 +1101,7 @@ tions in Near and Middle East Studies Series A).
 L. Bansat-Boudon, Poétique du théâtre indien: Lectures du Nāṭyaśāstra.
 Paris, EFEO (Publ. EFEO 169)], JAOS, 117, 2: 343–346.
 
-[p. 431]
+[p. 431] ^pg446
 
 R. Gnoli 1968: The aesthetic experience according to Abhinavagupta. Bena-
 res, CSS Office (CSSt 62).
@@ -1141,7 +1147,7 @@ and Research Institute (Building Centenary & Silver Jubilee Series
 E. Kahrs 1998: Indian semantic analysis. The nirvacana tradition. Cam-
 bridge/New York, Cambridge University Press.
 
-[p. 432]
+[p. 432] ^pg447
 
 A. B. Keith 1921: Indian logic and atomism. An exposition of the Nyāya and
 Vaiśeṣika systems. Oxford, Clarendon Press.
@@ -1190,7 +1196,7 @@ Abhinavagupta in the non-dual Shaivism of Kashmir. Delhi, Sri Satguru
 Publications (Sri Garib Dass Oriental Series 214). [1st ed. New York
 1989.]
 
-[p. 433]
+[p. 433] ^pg448
 
 G. Oberhammer 1994: La délivrance, dès cette vie (jīvanmukti). Paris, De
 Boccard (Publ. ICI 61).
@@ -1240,7 +1246,7 @@ vols. Paris, Réimpressions de l’EFEO (Publ. EFEO 9).
 D. S. Ruegg 1959: Contributions à l’histoire de la philosophie linguistique
 indienne. Paris, De Boccard (Publ. ICI 7).
 
-[p. 434]
+[p. 434] ^pg449
 
 — 1986: ‘Does the Mādhyamika have a thesis and philosophical posi-
 tion’ in B. K. Matilal, R. D. Evans (eds), Buddhist logic and epistemol-
@@ -1284,7 +1290,7 @@ New Delhi, D. K. Printworld: 79–138.
 — 2006: ‘The date of Sadyojyotis and Br̥haspati’, Cracow Indological Stud-
 ies, 8: 39–91.
 
-[p. 435]
+[p. 435] ^pg450
 
 — 2007: ‘The Śaiva exegesis of Kashmir’ in D. Goodall, A. Padoux (eds),
 Mélanges tantriques à la mémoire d’Hélène Brunner. Pondicherry, IFP-
@@ -1329,7 +1335,7 @@ T. Vetter 1964: Erkenntnissprobleme bei Dharmakīrti.
 Vienna, Österrei-
 schiche Akademie der Wissenschaften.
 
-[p. 436]
+[p. 436] ^pg451
 
 A. Watson 2006: The Self’s awareness of Itself. Vienna, Sammlung De No-
 bili, Institut für Südasien-, Tibet- und Buddhismuskunde der Univer-

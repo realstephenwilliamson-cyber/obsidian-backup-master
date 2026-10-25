@@ -5,9 +5,7 @@ section: "The Daily Office"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/DailyOffice/noonday.html"
-page_range:
-  - 103
-  - 107
+page_range: "103–107"
 aliases:
   - "BCP 103"
   - "BCP 104"
@@ -19,7 +17,7 @@ aliases:
 
 [[BCP 1979]] · *The Daily Office* · pages 103–107
 
-[p. 103]
+[p. 103] ^pg103
 
 ## An Order of Service for Noonday
 
@@ -45,7 +43,7 @@ and a light upon my path.
 **106** I have sworn and am determined \*  
 to keep your righteous judgments.
 
-[p. 104]
+[p. 104] ^pg104
 
 **107** I am deeply troubled; \*  
 preserve my life, O LORD, according to your word.
@@ -88,7 +86,7 @@ nor the moon by night.
 **7** The LORD shall preserve you from all evil; \*  
 it is he who shall keep you safe.
 
-[p. 105]
+[p. 105] ^pg105
 
 **8** The LORD shall watch over your going out and your coming in, \*  
 from this time forth for evermore.
@@ -129,7 +127,7 @@ The love of God has been poured into our hearts through the Holy Spirit that has
 
 *or the following*
 
-[p. 106]
+[p. 106] ^pg106
 
 If anyone is in Christ he is a new creation; the old has passed away, behold the new has come. All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation. *[[2 Corinthians 05#^5-17|2 Corinthians 5:17-18]]*
 
@@ -165,7 +163,7 @@ as we forgive those
 who sin against us. Save us from the time of trial,  
 and deliver us from evil.
 
-[p. 107]
+[p. 107] ^pg107
 
 **Officiant** Lord, hear our prayer;
 

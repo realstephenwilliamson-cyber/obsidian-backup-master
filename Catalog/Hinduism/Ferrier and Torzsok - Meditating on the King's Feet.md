@@ -18,8 +18,7 @@ language:
   - English
 pages: 21
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Meditating_on_the_kings_feet_Some_remark.pdf]]"
 aliases:

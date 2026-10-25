@@ -17,8 +17,7 @@ language:
   - Greek
 pages: 6
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[parmenides.pdf]]"
   - "[[Library/Philosophy/Le poeme de Parmenide (Parmenides)]]"

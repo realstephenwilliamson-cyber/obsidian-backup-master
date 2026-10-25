@@ -40,7 +40,7 @@ A Brief Direct Initiation Without Outer Supports न रजो नाधिव�
 कुत्स एकतक्तवानतां शिवभावैकभावितः ।
 
 na rajo nādhivāso ‘tra na bhūkṣetraparigrahaḥ |
-yatra tatra pradeśe tu pūjayitvā guruḥ śivam |l 1 ॥
+yatra tatra pradeśe tu pūjayitvā guruḥ śivam ॥ 1 ॥
 adhvānaṁ manasā dhyātvā dīkṣayet tattvapāragaḥ | 
 
 kuryāt sa ekatattvāntāri śivabhāvaikabhāvitaḥ | 
@@ -62,7 +62,7 @@ the number of) reality levels (it involves, starting with many) up to (just) one
 
 #### Viveka on 18.1–3
 
-(The teacher has meditated on the Path) ‘mentally’, not by imagining it in the thread of the fetters (pāśasūtra) or the like. (A teacher who is fit to perform this initiation is one who has) ‘crossed over the reality levels \[illegible\] certainly not one who has not. The sense is that he does not have the authority (to perform) such a rite. As he will say: 
+(The teacher has meditated on the Path) ‘mentally’, not by imagining it in the thread of the fetters (pāśasūtra) or the like. (A teacher who is fit to perform this initiation is one who has) ‘crossed over the reality levels (tattva)’, certainly not one who has not. The sense is that he does not have the authority (to perform) such a rite. As he will say: 
 
 ‘The teacher may perform the brief rite (of initiation) to the degree in which his knowledge (of ultimate principles) is well exercised and he is identified (with Śiva); otherwise not.”\* 
 
@@ -80,7 +80,7 @@ The Required Mantras and Oblations
 ततः पूर्णेति संशोध्यहीनमुत्तममीदृशम् ।
 दीक्षाकर्मोदितं तत्र तत्र शास्रे महेशिना ॥ ६ ॥
 
-parāmantras tato ‘syeti tattvarn saṁhśodhayāmy atha | 3 I|
+parāmantras tato ‘syeti tattvaṁ saṁhśodhayāmy atha | 3 I|
 svāheti pratitattvar syāc chuddhe pūrnāhutim kṣipet |
 evar mantrāntaraiḥ kuryāt samastair athavoktavat || 4 ॥
 parāsaṁpuṭitaḥ nāma svāhāntaṁ prathamāntakam |
@@ -90,7 +90,7 @@ dīkṣākarmoditar tatra tatra śāstre maheśinā ॥ 6 ॥
 
 (The teacher should first utter) the Parā mantra for each principle and then (say): “I purify (this) principle within him”, followed by SVĀHA.5 
 
-460?\. Cf. above, 11/39cd-4lab and 16/187ab. The one principle is, of course, \[illegible\] This is an immediate form of initiation.
+460?\. Cf. above, 11/39cd-4lab and 16/187ab. The one principle is, of course, Śiva. This is an immediate form of initiation.
 
 461?\. Below, 18/8.
 
@@ -105,7 +105,7 @@ dīkṣākarmoditar tatra tatra śāstre maheśinā ॥ 6 ॥
 
 ‘According to (his) energy’ means ‘as is his capacity’. Thus, the sense is that (the teacher) should perform a hundred fire offerings or a thousand, in accord with the time and place etc. (in which he does it). (This initiatory rite is) ‘free of (the Path that is) the object of purification’. The meaning is that the deposition of the Path etc. need not be done here (in this case) at all, even mentally. ‘In various scriptures’, that is, in, for example, the Kiranatantra. As is said there: 
 
-‘I will talk about another (form of) initiation. (This one) is connected (only) with the Śiva principle. Having in the beginning placed within Śiva’s mantra'' the name of the individual soul (who is being initiated), conjoined’? with the syllable OM (pranava) and having then encapsulated (his name with) \[illegible\] he should offer oblation. Such is the fire offering of a thousand (oblations) that disconnects the three fetters. O Bird! It is hard to obtain this initiation which (is performed) by removing along with the others (ādi) (the purifying processes whereby the disciple is induced) to take birth (in successive worlds).’'"\* 
+‘I will talk about another (form of) initiation. (This one) is connected (only) with the Śiva principle. Having in the beginning placed within Śiva’s mantra'' the name of the individual soul (who is being initiated), conjoined’? with the syllable OM (pranava) and having then encapsulated (his name with) Śambhu, he should offer oblation. Such is the fire offering of a thousand (oblations) that disconnects the three fetters. O Bird! It is hard to obtain this initiation which (is performed) by removing along with the others (ādi) (the purifying processes whereby the disciple is induced) to take birth (in successive worlds).’'"\* 
 
 463?\. SAUH AMŪKANĀMĀ SAUH SVĀHĀ.
 
@@ -137,7 +137,7 @@ He (now) talks about the various Mantras (required) here also.
 प्रत्येक मातृकायुग्मवैस्तत्त्वानि शोधयेत् ।
 यदि वा पिण्डमत्रेण सर्वमन्रेष्वयं विधि; ।॥ ७
 
-pratyekarn mātṛkāyugmavarnais tattvāni śodhayet |
+pratyekaṁ mātṛkāyugmavarnais tattvāni śodhayet |
 yadi vā pindamantrenṇa sarvamantreṣv ayaṁ vidhiḥ ॥ 7 ॥ 
 
 In this (rite, the teacher) may purify the principles one by one with by means of pairs of phonemes of the Mātṛkā and Mālinī (alphabets), or also if he does so by means of a syllabic mantra (pinda), this procedure applies to all the Mantras (in general). (7) 
@@ -211,7 +211,7 @@ dīkṣottare kairane ca tatra tatrāpi śāsane || 11 ॥
 
 [^475]: Basically, this amounts to imagining and thereby experiencing that all the Paths pervade each other equally.
 [^476]: Read savistaraḥ for na vistaraḥ.
-[^477]: Even though it occurs twice, I have emended vikṣiptaṁ to saṁkṣiptaṁ as the sense demands, and is also the way in which this rite is called above, in verse 9. Moreover, this is also how Abhinava himself refers to this procedure in the following verse. As the name of the rite, \[illegible\] understand vikṣipta to mean ‘special’ — viista, even though in a general sense he too understands it to mean ‘brief — saṁksipta. The application of these two meanings to the same word is well exemplified by Gnoli’s translation of this verse which, translated into English, is as follows: “Tf he is not identified (with Śiva) he may rejoin this state of identification by taking up the special (vikṣipta) (rite of initiation), whereby he gradually attains a state of identification. Thus, he should (subsequently) perform (this) brief (vikṣipta) ritual procedure (vidhi).” Cf. above, note 17,121.
+[^477]: Even though it occurs twice, I have emended vikṣiptaṁ to saṁkṣiptaṁ as the sense demands, and is also the way in which this rite is called above, in verse 9. Moreover, this is also how Abhinava himself refers to this procedure in the following verse. As the name of the rite, Gnoli understand vikṣipta to mean ‘special’ — viista, even though in a general sense he too understands it to mean ‘brief — saṁksipta. The application of these two meanings to the same word is well exemplified by Gnoli’s translation of this verse which, translated into English, is as follows: “Tf he is not identified (with Śiva) he may rejoin this state of identification by taking up the special (vikṣipta) (rite of initiation), whereby he gradually attains a state of identification. Thus, he should (subsequently) perform (this) brief (vikṣipta) ritual procedure (vidhi).” Cf. above, note 17,121.
 
 *[p. 198]* ^pg218
 

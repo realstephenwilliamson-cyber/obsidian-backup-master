@@ -4,7 +4,7 @@ work: "[[Catalog/Judaica/Davila - Hekhalot Literature in Translation]]"
 book: "[[Library/Judaica/Hekhalot Literature in Translation (Davila)/Hekhalot Literature in Translation (Davila)|Hekhalot Literature in Translation (Davila)]]"
 order: 3
 source_pdf: "Library/Judaica/Davila - Hekhalot Literature in Translation (2013).pdf"
-pages: "vii–viii"
+page_range: "vii–viii"
 pdf_pages: "8–9"
 text_source: "PDF text layer (born-digital), PyMuPDF"
 converted: 2026-10-22

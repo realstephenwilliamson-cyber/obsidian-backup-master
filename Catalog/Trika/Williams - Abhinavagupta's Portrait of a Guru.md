@@ -17,8 +17,7 @@ language:
   - English
 pages: 380
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Abhinavaguptas_Portrait_of_a_Guru_Revela.pdf]]"
   - "[[Library/Trika/Abhinavagupta's Portrait of a Guru (Williams)/Abhinavagupta's Portrait of a Guru (Williams)]]"

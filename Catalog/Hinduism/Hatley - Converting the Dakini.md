@@ -17,8 +17,7 @@ language:
   - English
 pages: 36
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Converting_the_akini_Goddess_Cults_and.pdf]]"
   - "[[Library/Hinduism/Converting the Dakini (Hatley)]]"

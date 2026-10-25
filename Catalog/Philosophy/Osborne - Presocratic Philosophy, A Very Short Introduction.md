@@ -17,8 +17,7 @@ language:
   - English
 pages: 163
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Osborne - Presocratic Philosophy, A Very Short Introduction (2004).pdf]]"
   - "[[Library/Philosophy/Presocratic Philosophy, A Very Short Introduction (Osborne)/Presocratic Philosophy, A Very Short Introduction (Osborne)]]"

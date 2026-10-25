@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 65
 verses: 14
-page_range:
-  - 673
-  - 673
+page_range: "673"
 aliases:
   - "BCP Psalm 65"
   - "BCP 673"
@@ -48,7 +46,7 @@ they are girded about with might. ^65-6
 the roaring of their waves,  
 and the clamor of the peoples. ^65-7
 
-[p. 673]
+[p. 673] ^pg673
 
 **65:8** Those who dwell at the ends of the earth will tremble at your marvelous signs; \*  
 you make the dawn and the dusk to sing for joy. ^65-8

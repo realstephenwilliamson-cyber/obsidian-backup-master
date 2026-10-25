@@ -1,6 +1,6 @@
 ---
 type: parallel
-ref: John 14:1
+ref: Romans 1:1
 translation: nrsvue
 cssclasses:
   - wide

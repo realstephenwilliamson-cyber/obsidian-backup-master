@@ -20,8 +20,7 @@ language:
   - Greek
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Texts/Plato/Republic (Plato)/Republic (Plato)]]"
   - "[[Texts/Plato/Republic VI-X, Jowett (Plato)/Republic VI-X, Jowett (Plato)]]"
@@ -40,7 +39,7 @@ Paul Shorey's English translation (1930) with John Burnet's Greek text, from the
 - Licence: the translation and the Greek text are public domain; the Perseus TEI encoding is CC BY-SA 3.0 US (as the cloud build's report quotes the TEI header).
 - The Loeb notes are footnotes (in the source they were run into the English in square brackets; changed when imported, 12 Oct 2026).
 
-Details from the source's own metadata, as the cloud build of October 2026 recorded them; not checked against a printed copy; `status: keep` since 14 Oct 2026, as a primary text kept as notes.
+Details from the source's own metadata, as the cloud build of October 2026 recorded them; not checked against a printed copy; accepted on 14 Oct 2026 as a primary text kept as notes.
 
 ## About
 

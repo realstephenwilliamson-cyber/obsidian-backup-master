@@ -17,8 +17,7 @@ language:
   - English
 pages: 293
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Being Human in a Technological Age (2020).pdf]]"
   - "[[Library/Christianity/Being Human in a Technological Age (van den Heuvel)/Being Human in a Technological Age (van den Heuvel)]]"

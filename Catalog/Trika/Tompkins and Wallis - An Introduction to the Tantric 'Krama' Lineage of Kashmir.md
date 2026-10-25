@@ -18,8 +18,7 @@ language:
   - English
 pages: 14
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[An_Introduction_to_the_Tantric_Krama_lin.pdf]]"
   - "[[Library/Trika/An Introduction to the Tantric 'Krama' Lineage of Kashmir (Tompkins)]]"

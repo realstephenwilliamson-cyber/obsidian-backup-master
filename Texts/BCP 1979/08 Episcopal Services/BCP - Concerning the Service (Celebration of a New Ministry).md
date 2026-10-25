@@ -5,9 +5,7 @@ section: "Episcopal Services"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/EpiscopalServices/concerning_the_service_new_ministry.html"
-page_range:
-  - 558
-  - 558
+page_range: "558"
 aliases:
   - "BCP 558"
 ---
@@ -15,7 +13,7 @@ aliases:
 
 [[BCP 1979]] · *Episcopal Services* · pages 558–558
 
-[p. 558]
+[p. 558] ^pg558
 
 ## Concerning the Service
 

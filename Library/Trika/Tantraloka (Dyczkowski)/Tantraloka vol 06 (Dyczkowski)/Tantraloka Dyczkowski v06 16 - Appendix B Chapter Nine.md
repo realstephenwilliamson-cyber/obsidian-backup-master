@@ -33,7 +33,7 @@ The word ‘kañcuka’ in a literal, non-technical sense means, according to Mo
 
 The order here, that is, Kalā, Vidyā, Rāga, Kāla and Niyati, is also found in the Tantrāloka (9/204). However, it is not always the same in all the texts. Even in the Tantrāloka itself we find a variant. Thus, we read in Chapter Six that: ‘At the lower level, the pure principles, Anāśritaśiva, Sadāśiva, Īśvara and Śuddhavidyā become Māyā, Kalā-Vidyā, Kāla-Niyati, and Rāga, respectively.’ Kṣemarāja uniformly adheres to the former sequence in his Parāpraveśikā (p.6, 7-8), Pratyabhijṁāhṛdaya (p. 16 and p. 22) and commentary on the Svacchandatantra (SvTu ad 11/59. See TĀ note 9, 323 for a translation). In the Parāpraveśikā (p. 7-8) we read: 
 
-‘If the Supreme Lord, laying hold of his own nature with the power of Māyā, which is (His) supreme sovereign (power), assumes the (individual) perceiver’s contracted state (of consciousness, he is) then called ‘purusa’. This is the (individual soul) subject to transmigratory existence, bound by Karma and deluded by Māyā. (But) although he is not separate from the Supreme Lord, the Supreme Lord is not deluded (thereby). It is like magic. The magician, who has brought about the illusion by his own will, has the mastery that comes from knowing (how to perform the trick). Possessing the wealth of consciousness, he 
+‘If the Supreme Lord, laying hold of his own nature with the power of Māyā, which is (His) supreme sovereign (power), assumes the (individual) perceiver’s contracted state (of consciousness, he is) then called ‘puruṣa’. This is the (individual soul) subject to transmigratory existence, bound by Karma and deluded by Māyā. (But) although he is not separate from the Supreme Lord, the Supreme Lord is not deluded (thereby). It is like magic. The magician, who has brought about the illusion by his own will, has the mastery that comes from knowing (how to perform the trick). Possessing the wealth of consciousness, he 
 
 is Supreme Śiva himself who is free (mukta). 
 
@@ -43,7 +43,7 @@ In the Pratyabhijñāhṛdaya, the kañcukas are said to originate from the five
 
 399?\. TĀ 6/41cd-42ab.
 
-400?\. svarūpaṁ (p. 8) gṁayitvā samikucitagrāhakatīm aśnute tadā puruṣasarjṁaḥ, ayam eva māyāmohitaḥ karmabandhanaḥ sarisārī, parameśvarād abhinno ‘pi asya mohaḥ parameśvarasya na bhavet —indrajālam iva aindrajālikasya svecchayā samipāditabhrānteḥ, sarvajñatvaḥ pūrṇatvaḥ nityatvaḥ vyāpakatva ca, śaktayo ‘samikucitā api saṁikocagrahaṇena kalāvidyārāgakālaniyatirīpatayā bhavanti | atra kalāūnāma (p. 9) asya puruṣasya kircitkartṛtāhetuḥ, vidyā kiricijjñatvakāranam, rāgo viṣayeṣv abhiṣvaṁgaḥ, kālo hi bhāvānāṁ bhāsanābhāsanātmakānām kramo ‘vacchedako bhūtādeḥ, niyatiḥ mamedari kartavya neda kartavyam iti niyamanahetuḥ, etat pañcakam asya svarūpāvarakatvāt kañcukam iti 4. cidānandecchājñānakriyāśaktirūpatve ‘pi akhyātivaśāt kalā-vidyā-rāga-kāla-niyatikañcukavalitatvāt pañcakasvarūpaḥ PrHr p. 16 Jaidev Singh gives the same sequence in note 12 on the Śivasūtra 2/7 - mātrkācakrasaibodhah — ‘the awakening of the assembly of letters’.
+400?\. svarūpaṁ (p. 8) gṁayitvā samikucitagrāhakatīm aśnute tadā puruṣasarjṁaḥ, ayam eva māyāmohitaḥ karmabandhanaḥ sarisārī, parameśvarād abhinno ‘pi asya mohaḥ parameśvarasya na bhavet —indrajālam iva aindrajālikasya svecchayā samipāditabhrānteḥ, sarvajñatvaḥ pūrṇatvaṁ nityatvaḥ vyāpakatva ca, śaktayo ‘samikucitā api saṁikocagrahaṇena kalāvidyārāgakālaniyatirīpatayā bhavanti | atra kalāūnāma (p. 9) asya puruṣasya kircitkartṛtāhetuḥ, vidyā kiricijjñatvakāranam, rāgo viṣayeṣv abhiṣvaṁgaḥ, kālo hi bhāvānāṁ bhāsanābhāsanātmakānām kramo ‘vacchedako bhūtādeḥ, niyatiḥ mamedari kartavya neda kartavyam iti niyamanahetuḥ, etat pañcakam asya svarūpāvarakatvāt kañcukam iti 4. cidānandecchājñānakriyāśaktirūpatve ‘pi akhyātivaśāt kalā-vidyā-rāga-kāla-niyatikañcukavalitatvāt pañcakasvarūpaḥ PrHṛ p. 16 Jaidev Singh gives the same sequence in note 12 on the Śivasūtra 2/7 - mātrkācakrasaibodhah — ‘the awakening of the assembly of letters’.
 
 
 *[p. 504]* ^pg523
@@ -64,7 +64,7 @@ The Correspondences Between the Semivowels and the Kañcukas
 
 Another context in which the sequential order of the kañcukas varies is in their association with the semivowels. The letters of the alphabet correspond to metaphysical principles (zattva). Abhinava describes this in detail in his commentaries on the Parātrīśikā and in Chapter Three of the Tantrāloka. 
 
-401?\. sarłkocamtn gṁnānā yathākramari kalāvidyārāgakālaniyatirūpatayā bhānti | tathāvidhaś ca ayańi saktidaridraḥ saṁsārī ucyate svaśaktivikāse tu śiva eva |l 9 || \[illegible\] p. 22.
+401?\. sarłkocamtn gṁnānā yathākramari kalāvidyārāgakālaniyatirūpatayā bhānti | tathāvidhaś ca ayańi saktidaridraḥ saṁsārī ucyate svaśaktivikāse tu śiva eva || 9 || \[illegible\] p. 22.
 
 402?\. This matter is discussed in Dīkṣottara IFP T 17 pp. 994-995.
 
@@ -110,7 +110,7 @@ According to the PT, they sustain the individual soul in a condition between the
 
 406?\. vāyvagnisalilendrāṇām dhāranānāri catuṣtayam | PT Tab.
 
-407?\. 1) kalā vāyurūpā \[illegible\] kartṛtvena prerikā | 2) aśuddhavidyā tejorūpā kiṁicijjñatvena prakāśikā ca | 3) māyā salilarūpā abhiṣvaṁgarīūpanimajjanātmakastambhanasvabhāvā | 4) indropalakṣitā pṛthivīrūpā rāgaśaktiḥ | tā etāś catasraḥ śaktayaḥ puruṣam dhārayanti madhye triśaṁkuvad viśramayanti, anyathā pāṣāṇādivat jadabhumim evāpatet parameśvaravad vā saṁṁvidgaganam evāpatet | PTLV p. 4
+407?\. 1) kalā vāyurūpā kiṁcit kartṛtvena prerikā | 2) aśuddhavidyā tejorūpā kiṁicijjñatvena prakāśikā ca | 3) māyā salilarūpā abhiṣvaṁgarīūpanimajjanātmakastambhanasvabhāvā | 4) indropalakṣitā pṛthivīrūpā rāgaśaktiḥ | tā etāś catasraḥ śaktayaḥ puruṣam dhārayanti madhye triśaṁkuvad viśramayanti, anyathā pāṣāṇādivat jadabhumim evāpatet parameśvaravad vā saṁṁvidgaganam evāpatet | PTLV p. 4
 
 408?\. Here only four kañcukas are mentioned, as this is in relation to the four letters Y, R , L and V. The two remaining kañcukas of kāla and niyati are included in kalā and rāga, respectively.
 
@@ -121,7 +121,7 @@ According to the PT, they sustain the individual soul in a condition between the
 
 manner these four functions is ambivalent. On the one hand, they restrain the unfolding of the soul’s consciousness, and yet at the same time they also prevent it from degenerating further down to the level of insentience. 
 
-The serial order in the Parātrīśikāvivaraṇa is different. There, Abhinava says that ‘the semivowels) beginning with Y and ending with V correspond to the principles called Rāga, Vidyā, Kalā and Māyā." In one place in the PTv, Ś to H 15 Mahāmāyā, ŚSuddhavidyā, Iśvara, Sadāśiva and \[illegible\] In another place in the PTv, where they are equated with the five Brahmās, they are listed as 
+The serial order in the Parātrīśikāvivaraṇa is different. There, Abhinava says that ‘the semivowels) beginning with Y and ending with V correspond to the principles called Rāga, Vidyā, Kalā and Māyā." In one place in the PTv, Ś to H 15 Mahāmāyā, ŚSuddhavidyā, Iśvara, Sadāśiva and Śakti. In another place in the PTv, where they are equated with the five Brahmās, they are listed as 
 
 Śuddhavidyā, Īśvara, Sadāśiva, Śakti and Anāśrita Śiva. 
 

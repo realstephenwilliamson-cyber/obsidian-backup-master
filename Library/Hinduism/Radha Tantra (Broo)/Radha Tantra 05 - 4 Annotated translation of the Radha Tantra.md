@@ -6,7 +6,7 @@ page_range: 242–342
 aliases:
   - Radha Tantra 05 - 4 Annotated translation of the Rādhā Tantra
 ---
-[p. 242]
+[p. 242] ^pg242
 
 # 4 Annotated translation of the Rādhā Tantra
 
@@ -122,7 +122,7 @@ aliases:
 <sup>13</sup>‘When she had said this, Padminī, Tripurāsundarī’s *dūtī*, suddenly disappeared into the garland, <sup>14</sup>and when Vāsudeva saw this, he left the delightful city of Kāśī, the great and unparalleled Seat, and quickly went to the ocean of milk.[^cb-2] <sup>15</sup>Padminī, the greatest goddess, went to the Seat of Mathurā, where Kātyāyanī Durgā is a form of Mahāmāyā. <sup>16</sup>Worshipped and praised by Nārada and other great sages, Kātyāyanī Mahāmāyā stays in the waters of the Yamunā. <sup>17</sup>There, the water of the Yamunā is a direct form of Kālī, it is delightful and full of lotuses, white, yellow and greatly shining, <sup>18</sup>red, black, green, variegated and enchanting all. Great mistress, where supreme Kātyāyanī is called Kālindī,[^cc-2] <sup>19</sup>there mother Kālikā, praised by great sages, eternally resides as Kālindī, to benefit the worlds.
 <sup>20</sup>‘The circle of Mathurā is situated in the middle of a thousand-petalled lotus. Great mistress, this is the lotus that always stays in your hairband. <sup>21</sup>In the middle of the lotus is this enchanting Seat of the hair; in your hair-band, great mistress, is Vraja, the circle of Mathurā. <sup>22</sup>Goddess, Vraja Vṛndāvana is where Kātyāyanī Māyā, Mahāmāyā, the world itself, with all her powers stays. <sup>23</sup>Greatest mistress, by just a part of her, Śakti remains the witness, but without Śakti, great mistress, Brahman is like a dead corpse.’
 
-[p. 254]
+[p. 254] ^pg254
 
 ## Seventh Paṭala
 
@@ -181,7 +181,7 @@ aliases:
 *Īśvara said:* <sup>1</sup>‘Fawn-eyed woman, Rādhā is Padminī, dear to Viṣṇu. Tripurā, the greatest mistress, is Mahāmāyā Jagaddhātrī. <sup>2</sup>Padminī, fragrant as a lotus, is her *dūtī*, and because of her firm devotion to Viṣṇu, Padminī is dear to him. <sup>3</sup>Sweetly smiling one, great mistress, Vṛkabhānu’s devotion is firm; Padminī of the fragrant garland became his daughter, <sup>4</sup>but after she had suckled the breast, goddess, she created another Rādhā and entered into a thicket of lotuses in the middle of the waters of the Yamunā. <sup>5</sup>In that secluded place she recited the great mantra of Mahākālī; another, Candrāvalī Rādhā, stayed in the house of Vṛkabhānu.[^bb-3]
 <sup>6</sup>‘Lotus-eyed goddess, greatest mistress! All of the previously mentioned companions of Padminī were created by Padminī, not by anyone else. <sup>7</sup>Rādhikā should be understood as having two forms: Candrāvalī and Padminī. Greatest mistress, sweetly smiling one, the sun or the moon does not see her, <sup>8</sup>greatest mistress, let alone wretched humans! Padminī concealed herself and took shelter within a lotus, for Padminī, great mistress, is the assistant of Tripurā.’
 
-[p. 260]
+[p. 260] ^pg260
 
 ## Tenth Paṭala
 
@@ -342,7 +342,7 @@ aliases:
 ‘Beyond this are lofty and most enchanting walls made of crystal <sup>78</sup>in all the four directions, splendidly shining with red and white flowers. A white, four-armed Viṣṇu, <sup>79</sup>decorated with a conch, disk, club, lotus, diadem and other ornaments is gatekeeper in the West. A red, four-armed Viṣṇu, wearing the weapons of the conch, disk and club, <sup>80</sup>splendid with a diadem, earrings and other ornaments, is gatekeeper in the North. A golden, four-armed Viṣṇu, wearing the weapons of the conch, disk and club, <sup>81</sup>decorated with a diadem, earrings and other ornaments and a garland of forest flowers is gatekeeper in the East. He is known as Golden Viṣṇu. <sup>82</sup>A black, four-armed Viṣṇu, decorated with conch, disk and so on is gatekeeper in the South. Let one meditate on this blessed Viṣṇu Hari![^ca-6]
 <sup>83</sup>‘This, greatest mistress, is the supreme sevenfold covering. Padminī, the highest Rādhā, has this sevenfold covering. My dear – this covering is the Seven Śaktis[^cb-6] themselves.’
 
-[p. 281]
+[p. 281] ^pg281
 
 ## Eighteenth Paṭala
 
@@ -675,7 +675,7 @@ aliases:
 <sup>34</sup>‘Red like the asparagus flower, the supreme part of Padminī, whose hair is spotlessly dark and curled like the tail of a yak; <sup>35</sup>whose enchanting, gleaming cheeks are touched by her jewelled earrings; whose nose is illumined by a pearl from the frontal globe of a king of elephants; <sup>36</sup>the circles of whose breasts are richly decked with gems, pearls and coral; the ornaments around whose neck includes the sunstone, the moonstone and the touchstone; <sup>37</sup>whose gleaming teeth resemble glittering citron seeds; who showers sidelong glances under eyebrows resembling Cupid’s bow; <sup>38</sup>whose breasts are like the frontal globes of an elephant; whose eyes are like glittering red water lilies; whose ears have delightful orifices; whose gait resembles that of an elephant;[^db-9] <sup>39</sup>whose two arms are decked with luminous ruby armlets; who wears bracelets of pure gold studded with various gems; <sup>40</sup>whose handsome wrists are decked with rings made of ivory; whose body is decorated with ornaments; who wears wonderful small bells; <sup>41</sup>who wears silken clothing; who is fond of her softly tinkling anklets; who is anointed with a paste of camphor, aloe, musk and saffron; <sup>42</sup>who sometimes assumes a white form, sometimes a red form, sometimes a yellow form and sometimes a black form, my dear – <sup>43</sup>this Rādhā of many forms, my dear, always and at every time of the day does this Padminī Rādhā remain by the side of Tripurā.
 <sup>44</sup>‘In this way, goddess, have I told you the enchanting truth of her Meditation. Next I will tell you the Armour named after Rādhikā. <sup>45</sup>Pārvatī! That Armour that has not been described in any of the Tantras or among the minor *vidyās* I will now explain to you, greatest mistress. <sup>46</sup>This Armour called Enchanter of the three worlds has come from me; this Armour, greatest mistress, makes Padminī submit to you. <sup>47</sup>This Armour, goddess, is rare among the minor *vidyās*, for wherever the minor *vidyās* have been indicated, handsome one, great mistress, they have all been devoid of an Armour.’
 
-[p. 317]
+[p. 317] ^pg317
 
 ## Thirty-second Paṭala
 

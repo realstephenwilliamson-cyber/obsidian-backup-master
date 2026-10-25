@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 94
 verses: 23
-page_range:
-  - 723
-  - 724
+page_range: "723–724"
 aliases:
   - "BCP Psalm 94"
   - "BCP 723"
@@ -32,7 +30,7 @@ give the arrogant their just deserts. ^94-2
 **94:3** How long shall the wicked, O LORD, \*  
 how long shall the wicked triumph? ^94-3
 
-[p. 723]
+[p. 723] ^pg723
 
 **94:4** They bluster in their insolence; \*  
 all evildoers are full of boasting. ^94-4
@@ -76,7 +74,7 @@ who took my part against the evildoers? ^94-16
 **94:17** If the LORD had not come to my help, \*  
 I should soon have dwelt in the land of silence. ^94-17
 
-[p. 724]
+[p. 724] ^pg724
 
 **94:18** As often as I said, "My foot has slipped," \*  
 your love, O LORD, upheld me. ^94-18

@@ -12,7 +12,6 @@ country: "India"
 subject:
   - Sanskrit Texts
   - Muktabodha
-status: keep
 source: "Muktabodha Indological Research Institute"
 license: "CC BY-NC 4.0"
 files:

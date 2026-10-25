@@ -18,8 +18,7 @@ language:
   - English
 pages: 8
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Virtual identity crisis The phenomenology of Lockean selfhood in the Age of Disruption.pdf]]"
   - "[[Library/Philosophy/Virtual Identity Crisis (Deckard)]]"

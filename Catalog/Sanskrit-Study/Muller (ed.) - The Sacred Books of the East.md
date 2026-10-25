@@ -23,8 +23,7 @@ language:
   - Sanskrit
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Sanskrit/Sacred Books of the East/1 - Upanishads Vol 1 - Chandogya, Kena, Aitreya, Kausitaki, Isa.pdf]]"
   - "[[Library/Sanskrit/Sacred Books of the East/15 - Upanishads Vol 2.pdf]]"

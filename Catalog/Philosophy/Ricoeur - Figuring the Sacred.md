@@ -19,8 +19,7 @@ language:
   - English
 pages: 356
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Ricoeur - Figuring the Sacred, Religion, Narrative, and Imagination (1995).pdf]]"
   - "[[Library/Philosophy/Figuring the Sacred (Ricoeur)/Figuring the Sacred (Ricoeur)]]"

@@ -31,7 +31,7 @@ The Highest Tradition is Grounded in Complete Belief
 uktanītyaiva sarvatra vyavahāre pravartite |
 prasiddhāv upajīvyāyām avaśyagrāhya āgamaḥ ॥ 1 ॥ 
 
-As the ongoing business of daily life depends (always and) everywhere on a priori belief (prasiddhi), in accord with the principle (nīti) that has just been explained, it is essential to accept (this, the most elevated and complete) tradition \[illegible\] (that embodies it most completely). (1) 
+As the ongoing business of daily life depends (always and) everywhere on a priori belief (prasiddhi), in accord with the principle (nīti) that has just been explained, it is essential to accept (this, the most elevated and complete) tradition (āgama) (that embodies it most completely). (1) 
 
 #### Viveka on 37.1
 
@@ -84,7 +84,7 @@ What is the one that is such? With this doubt in mind, he says:
 The Scripture Whose Teachings are Complete Bestows Anuttara 
 
 तच्च यत्सर्वसर्वज्ञदृष्टं तच्चापि किं भवेत् ।
-tac ca yat sarvasarvajñadṛṣtar tac \[illegible\] (771 bhavet | 
+tac ca yat sarvasarvajñadṛṣtar tac cāpi (771 bhavet | 
 
 546?\. There are two types of consequences of one’s actions (karman). One is ‘seen’, in the sense that it is apparent in this life. The other type is not.
 
@@ -102,7 +102,7 @@ Which is the one that is perceived by all who are omniscient? Asking this questi
 ### TĀ 37.6 (2)
 
 यदशेषोपदेशेन सूयतेऽनुत्तरं फलम् ॥ ६ ॥
-yad aśeṣopadeśena sūyate 'nuttararn phalam | 6 II 
+yad aśeṣopadeśena sūyate 'nuttaraṁ phalam | 6 II 
 
 (And which one is that?) (It is) the one that, because its teaching is complete, (and by teaching it completely) (aśeṣopadeśena) gives rise to the fruit which is Anuttara (beyond which there is nothing higher) (anuttara). (6bcd) 
 
@@ -117,7 +117,7 @@ Lower Teachings are Imparted by Those with
 a Corresponding Limited Knowledge यथाधराधरप्रक्तवस्तुतत्वानुवादतः ।
 उत्तरं कथितं संवित्सिद्धं तद्धि तथा भवेत् ॥ ७ ॥
 yathādharādharaproktavastutattvānuvādataḥ |
-uttaraṁ kathitarn saṁvitsiddhaṁ tad dhi tathā bhavet ॥ 7 ॥ 
+uttaraṁ kathitaṁ saṁvitsiddhaṁ tad dhi tathā bhavet ॥ 7 ॥ 
 
 Just as a higher (reality) is explained in terms of its consonance with the nature of the matter (vastutattva) taught at a correspondingly lower level, so is it with (the reality) that is proved (to exist) by the consciousness (of personal experience).? (7) 
 
@@ -138,7 +138,7 @@ yaduktādhikasaṁivittisiddhavastunirūpanāt |
 
 *[p. 230]* ^pg248
 
-apūrṇasarvavitproktir jñāyate ‘dharaśāsane || 8 Il 
+apūrṇasarvavitproktir jñāyate ‘dharaśāsane || 8 || 
 
 One knows that the teachings of a lower school have been imparted by those who are not fully omniscient, by examining the reality that is proved (to exist) by the greater consciousness taught (here). (8) 
 
@@ -183,7 +183,7 @@ The Supreme Lord has said in the venerable Aanandaśāstra, for example, that a 
 
 #### Viveka on 37.10–11
 
-Surely (one may object) that, if one should not adopt treatises such as Manusmṛti (that deal with Dharma), would not all this (right) conduct \[illegible\] suffer a fall? With this doubt in mind, he says: 
+Surely (one may object) that, if one should not adopt treatises such as Manusmṛti (that deal with Dharma), would not all this (right) conduct (ācāra) suffer a fall? With this doubt in mind, he says: 
 
 ### TĀ 37.11–12
 
@@ -236,11 +236,11 @@ Agreed that this takes place by attaining Bhairava’s state, well then, (as thi
 पञ्चस्रोत इति प्रोक्तं ्ीमच्छीकण्ठशासनम् ॥ १६ ॥
 दशाष्टादशधा सोत -पञ्चकं यतततोऽप्यलम् उत्कृष्टं भैरवाभिख्यं चतुःषष्टिविभेदितम् ॥ १७ ॥
 
-ajñatvānupadeṣtṛtvasaṁdaṣṭe ‘dharaśāsane ॥ 13 |I etadviparyayād grāhyam avaśyaṁ śivaśāsanam |
+ajñatvānupadeṣtṛtvasaṁdaṣṭe ‘dharaśāsane ॥ 13 ॥ etadviparyayād grāhyam avaśyaṁ śivaśāsanam |
 dvāv āptau tatra ca Śrīmacchrīkanṇthalakuleśvarau | 14 |l dvipravāham idaṁ śāstraḥ samyaṁnihśreyasapradam |
 prācyasya tu yathābhīṣtabhogadatvam api sthitam || 15 ॥
 tac ca pañcavidhar proktaṁ śaktivaicitryacitritam |
-pañcasrota iti proktarn śŚrīmacchrīkanṭthaśāsanam | 16 ॥
+pañcasrota iti proktaṁ śŚrīmacchrīkanṭthaśāsanam | 16 ॥
 daśāṣtādaśadhā srotahpañcakaṁ yat tato ‘py alam |
 utkṛṣtaṁ bhairavābhikhyaṁ catuhṣaṣtivibheditam | 17 Il 
 
@@ -311,7 +311,7 @@ The Blessed One (bhagavat) has said in the venerable Ānandaśāstra and elsewhe
 
 ‘The Blessed One (bhagavat) has said’ in the Āgama that ‘(the term) ‘pīṭha’ (denotes) a ‘collection’ (samūha) (of scriptures).’ The meaning is that it has been defined this way. ‘According to whether it is of the right or the left’ means as being in the form of Śiva or (His) Power. The nature of Mantra is 
 
-563?\. 1 have discussed this important way of categorizing the Tantras, including lists of the contents of the four groups of scripture in my Canon 1988 p. 49-55 and 105-120 The reader is there for a detailed discussion. Sanderson has written about the distingui the Tantras of these pīṭhas, focusing especially on the Vidyāpīṭha in hi epic article published in 1988. Perhaps the earliest place where this classification appears is in the Brahmayāmala. The BY consisting of twelve thousand verses refers to itself as a Bhairava Tantra containing the four pīṭhas (nudrāmandalamantrāni vidyāpīthopalakṣitam ॥ 2 Il sahasrāni daśadve ca catuhpīṭhaṁ tu bhairavam 1). They are all implicitly indicated and so contained in the Vidyāpīṭha to which the BY assigns itself in its colophons (bhairavasrotasi mahātantre vidyāpīthe brahmayāmale ). The SYM does the same. By the time we get to the first (and probably earliest) ṣaṭka of the JY (which also assigns itself to the Vidyāpīṭha), the classification is filled out with lists of Tantras belonging to each pīṭha. The Vidyāpīṭha contained the Trika Tantras and developed extensively amongst the types of Tantras Abhinava valued the most. It is mentioned in the Svacchandatantra (that belongs to the Mantrapīṭha) and the Sarvācāra and the Ānandatantra. Sanderson has pointed out in eloquent detail the special prestige, from Abhinava’s point of view, of the Tantras of the Vidyāpīṭha as being contrary to the norms of purity advocated by the Brahminical orthodoxy and prescribing the worship of goddesses with offerings of bodily substances. Commenting of SvT 1/5c, where the Svacchandatantra is declared to be ‘a great Tantra consisting of the four pīṭhas’ (catuṣpīṭhaḥ mahātantrari), Kṣemarāja, introducing a quote from the Sarvavīra, which was a Trika Tantra, he says that: caturnār vidyāmantramandalamudrānām, pītham āśrayaṁ saṁṁbhavamātrenṇa | ʻA pīṭha is a category (āśraya) (of scriptures that teach) Vidyās, Mantras, Mandalas and Mudrās (respectively). (This is not an absolute rule, it is so) just as a possibility. (In other words, Tantras of any of the four categories may teach matters found in the others) (Indeed, they are all present in each of them)’ (cf. T 37/19cd-22ab). The division of Tantras into groups called ‘pīṭhas’ is not found in the MV nor does it affiliate itself to any of them. Mantras are the sonic bodies of male deities and Vidyās of female ones. This distinction is a major defining feature of the Tantras of these two pīthas. Thus, according to the Sarvavīra quoted by Kṣemarāja in the SvTU ad 1/5c, the Mantrapīṭha Tantras are named after Bhairavas: svacchandabhairavaścandaḥ krodha unmattabhairavaḥ | granthāntarāni catvāri mantrapīthaṁi varānane ॥ ʻO fair faced lady, the Mantrapītṭha consists of four other books, namely, the Svacchandabhairavatantra, the Candabhairava, Krodhabhairava and Unmattabhairava.” The Svacchandatantra is the only known Tantra of this pītha. It is centred on the worship of this Bhairava. Abhinava citing the Ānandabhairava understands the worship of the numerous goddesses of the Vidyāpīṭha to be its completion and fulfilment.
+563?\. 1 have discussed this important way of categorizing the Tantras, including lists of the contents of the four groups of scripture in my Canon 1988 p. 49-55 and 105-120 The reader is there for a detailed discussion. Sanderson has written about the distingui the Tantras of these pīṭhas, focusing especially on the Vidyāpīṭha in hi epic article published in 1988. Perhaps the earliest place where this classification appears is in the Brahmayāmala. The BY consisting of twelve thousand verses refers to itself as a Bhairava Tantra containing the four pīṭhas (nudrāmandalamantrāni vidyāpīthopalakṣitam ॥ 2 Il sahasrāni daśadve ca catuhpīṭhaṁ tu bhairavam 1). They are all implicitly indicated and so contained in the Vidyāpīṭha to which the BY assigns itself in its colophons (bhairavasrotasi mahātantre vidyāpīthe brahmayāmale ). The SYM does the same. By the time we get to the first (and probably earliest) ṣaṭka of the JY (which also assigns itself to the Vidyāpīṭha), the classification is filled out with lists of Tantras belonging to each pīṭha. The Vidyāpīṭha contained the Trika Tantras and developed extensively amongst the types of Tantras Abhinava valued the most. It is mentioned in the Svacchandatantra (that belongs to the Mantrapīṭha) and the Sarvācāra and the Ānandatantra. Sanderson has pointed out in eloquent detail the special prestige, from Abhinava’s point of view, of the Tantras of the Vidyāpīṭha as being contrary to the norms of purity advocated by the Brahminical orthodoxy and prescribing the worship of goddesses with offerings of bodily substances. Commenting of SvT 1/5c, where the Svacchandatantra is declared to be ‘a great Tantra consisting of the four pīṭhas’ (catuṣpīṭhaḥ mahātantrari), Kṣemarāja, introducing a quote from the Sarvavīra, which was a Trika Tantra, he says that: caturnār vidyāmantramandalamudrānām, pīṭham āśrayaṁ saṁṁbhavamātrenṇa | ʻA pīṭha is a category (āśraya) (of scriptures that teach) Vidyās, Mantras, Mandalas and Mudrās (respectively). (This is not an absolute rule, it is so) just as a possibility. (In other words, Tantras of any of the four categories may teach matters found in the others) (Indeed, they are all present in each of them)’ (cf. T 37/19cd-22ab). The division of Tantras into groups called ‘pīṭhas’ is not found in the MV nor does it affiliate itself to any of them. Mantras are the sonic bodies of male deities and Vidyās of female ones. This distinction is a major defining feature of the Tantras of these two pīṭhas. Thus, according to the Sarvavīra quoted by Kṣemarāja in the SvTU ad 1/5c, the Mantrapīṭha Tantras are named after Bhairavas: svacchandabhairavaścandaḥ krodha unmattabhairavaḥ | granthāntarāni catvāri mantrapīthaṁi varānane ॥ ʻO fair faced lady, the Mantrapītṭha consists of four other books, namely, the Svacchandabhairavatantra, the Candabhairava, Krodhabhairava and Unmattabhairava.” The Svacchandatantra is the only known Tantra of this pītha. It is centred on the worship of this Bhairava. Abhinava citing the Ānandabhairava understands the worship of the numerous goddesses of the Vidyāpīṭha to be its completion and fulfilment.
 
 
 *[p. 235]* ^pg253
@@ -336,7 +336,7 @@ mandala sāram ukta hi mandaśrutyā śivāhvayam |
 evam anyonyasamibhedavṛtti pīthacatuṣtayam ॥ 21 ॥
 yatas tasmād bhavet sarvar \[illegible\] pīthe ‘pi vastutaḥ | 
 
-The one that bestows (deep) reflection (manana) and salvation (trāṇa) is called ‘Mantra’. The reinforcement there (in that respect) by Vidyā is fulfilment \[illegible\] (of Mantra). It is that which illumines what should be known. Mudrā is the counterpart (pratikṛti) of Mantra, and Mandala fulfils it. It is said to be the essence and, in accord with (the sense of) the word ‘manda’, it is called Śiva.” The four pīthas penetrate one another in this way and so, in actual fact, everything is present in each single \[illegible\] (19cd-22ab) 
+The one that bestows (deep) reflection (manana) and salvation (trāṇa) is called ‘Mantra’. The reinforcement there (in that respect) by Vidyā is fulfilment \[illegible\] (of Mantra). It is that which illumines what should be known. Mudrā is the counterpart (pratikṛti) of Mantra, and Mandala fulfils it. It is said to be the essence and, in accord with (the sense of) the word ‘manda’, it is called Śiva.” The four pīṭhas penetrate one another in this way and so, in actual fact, everything is present in each single \[illegible\] (19cd-22ab) 
 
 #### Viveka on 37.19–22
 
@@ -597,13 +597,13 @@ He explains (its) greatness.
 
 yatrādharādharapadāt parama śivānta- 
 
-mārodhum apy adhikṛtiḥ kṛtinām anarghā I| 35 II 
+mārodhum apy adhikṛtiḥ kṛtinām anarghā || 35 || 
 
 It is where the priceless faculty (adhikṛti) called creative action (kṛti) exists, to ascend gradually from lower levels up to the Śiva, the supreme summit. (35cd) 
 
 #### Viveka on 37.35
 
-583?\. The seven worlds starting from the lowest are: Bhūrloka, Bhuvarloka, Mahāloka, Brahmaloka, Satyaloka, Viṣnuloka and Śivaloka. See above, 8/119cd (119) ff.
+583?\. The seven worlds starting from the lowest are: Bhūrloka, Bhuvarloka, Mahāloka, Brahmaloka, Satyaloka, Viṣṇuloka and Śivaloka. See above, 8/119cd (119) ff.
 
 584?\. Concerning the continents (varsa) and islands \[illegible\] of this world, see above, 8/62cd ff. Amongst them, India is the region called ‘Kanyā’ or “Kumārikā’. Cf. above, 8/83-84 and note, sce also Dyczkowski 2009: vol. 1 p. 115.
 
@@ -631,7 +631,7 @@ He justifies this (view of the uniqueness of this land as the only place where n
 
 prākkarmabhogipaśutocitabhogabhājā 
 
-kirn janmanā nanu sukhaikapade ‘pi dhāmni |
+kiṁ janmanā nanu sukhaikapade ‘pi dhāmni |
 sarvo hi bhāvini parami paritoṣam eti 
 
 sambhāvite na tu nimeṣini vartamāne || 36 ||
@@ -704,7 +704,7 @@ adhivasati yad gaurīkāntaḥ karair vijayādibhir-
 yugapad akhilan bhoge \[illegible\] \[illegible\] rasāt paricarvitum | 39 ॥
 sthāne sthāne munibhir akhilaiś cakrire yan nivāsā 
 
-yac cādhyāste pratipadam idarn sa svayarn candracūdaḥ |
+yac cādhyāste pratipadam idaṁ sa svayaṁ candracūdaḥ |
 tan manye ‘hañ samabhilaṣitāśeṣasiddher na siddhyai 
 
 kaśmīrebhyaḥ param atha puran pūrnavṛtter na tuṣtyai || 40 ॥ 
@@ -784,7 +784,7 @@ yasmiñ śakticatuṣtyojjvalamala madyan mahābhairavam | 42 ॥
 trinayanamahākopajvi na iha sthito 
 
 madanaviśikhavrāto madyacchalena vijṛmbhate |
-katham itarathā rāgaṁn mohan madan madanajvararn 
+katham itarathā rāgaṁn mohan madan madanajvaraṁ 
 
 vidadhaniśan kāmātaṁkair vaśīkurute jagat ॥ 43 ॥
 yat kāntānār praṇayavacasi praudhimānari vidhatte 
@@ -861,7 +861,7 @@ antargādhāruṇarucilasatkesarālīvicitraiḥ |
 
 ### TĀ 37.45
 
-samyag devītritayayajanodyānam āviṣkaroti || 45 |l sarvo lokaḥ kavir atha budho yatra \[illegible\] ‘pi vāgmī 
+samyag devītritayayajanodyānam āviṣkaroti || 45 || sarvo lokaḥ kavir atha budho yatra \[illegible\] ‘pi vāgmī 
 
 candroddyotā masṛṇagatayaḥ pauranāryaś ca yatra |
 yatrāṁṁgārojjvalavikasitāīnantasauṣumnamārga- 
@@ -973,7 +973,7 @@ rodhahpratiṣthitamaheśvarasiddhaliṁṁga-
 svāyaṁbhuvārcanavilepanagandhapuṣpaiḥ |
 āvarjyamānatanuvīci nimajjanaugha- 
 
-vidhvastapāpmamunisiddhamanuṣyavandyā || 50 II bhogāpavargaparipūraṇakalpavallī 
+vidhvastapāpmamunisiddhamanuṣyavandyā || 50 || bhogāpavargaparipūraṇakalpavallī 
 
 bhogaikadānarasikāṁ surasiddhasindhum |
 nyakkurvatī harapinākakalāvatīrṇnā 
@@ -1091,7 +1091,7 @@ tāruṇnyasāgarataraṁgabharānapohya
 vairāgyapotam adhiruhya dṛdhari haṭhena |
 yo bhaktirohaṇam avāpya maheśacintā- 
 
-ratnair alarn dalayati sma bhavāpadastāḥ || 55 ॥
+ratnair alaṁ dalayati sma bhavāpadastāḥ || 55 ॥
 tasyātmajo ‘bhinavagupta iti prasiddhaḥ 
 
 srīcandracūdacaraṇābjaparāgapūtaḥ |
@@ -1150,7 +1150,7 @@ pitrā sa śabdagahane kṛtasaipraveśas
 tarkārṇavormipṛṣatāmalapūtacittaḥ |
 sāhityasāndrarasabhogaparo maheśa- 
 
-bhaktyā svayahgrahanadurmadayā gṁītaḥ ॥ 58 Il sa tanmayībhūya na lokavartanīm 
+bhaktyā svayahgrahanadurmadayā gṁītaḥ ॥ 58 ॥ sa tanmayībhūya na lokavartanīm 
 
 ajīgaṇat kām api kevala punaḥ |
 tadīyasaibhogavivṛddhaye purā 
@@ -1243,7 +1243,7 @@ svātmārāmas tad ayam aniśaṁ tattvasevāraso ‘bhūt || 63 ॥
 
 1\) Vāmanātha, the son of the true teacher, the excellent Erakavara, was the helmsman (of the boat on which he crossed) the ocean of the Lineage of Bliss (ānandasaṁtati).[^620] 2) The venerable son of Bhūtirāja, who 
 
-[^620]: Abhinava has had occasion to refer to a set of four Śaiva orders (maṭhika — literally ‘small monasteries’) (see 4/265cd-267ab, and 36/11-14), of which, he says, the Tantrāloka is imbued with the essence (rasa). These derive their names from their founders. The Āmardaka order taught dualistic Śaivism. The one founded by Śrīnātha, dualistic-cum-nondualistic. Tryambaka is nondual, and the additional Half Tryambaka founded by his daughter is the Kaula Trika. If this is the model here, as Sanderson understands it to be (2005b: 121 note 79), the Ānandasaṁtati is the dualist Śaiva order founded by Āmardaka taught to him by Vāmanātha. While the identity of the other three is quite clear, this one is not. The problem is the identity of Erakavara. According to the Kramastotra, as reported by Jayaratha (TĀv ad 4/173ab), Eraka, also called Erakanātha and Naverakanātha, was a disciple of Keyūravatī, who was a direct disciple of Sivānanda (alias Jñānanetra), who introduced the Krama system into the Kashmir Valley around the middle of the 9TM century. That would place Erakanātha around the first half of the 10\* century. Erakanātha wrote the Kramastotra that Abhinava commented on and appreciated very much. The young Abhinava may well have learnt the Krama teachings of this, ‘the Lineage of Bliss’ of the Krama school, from an aged Vāmanātha. Sanderson does not endorse the view that the Erakavara to whom Abhinava refers was the Krama teacher. However, Āmardaka is a well-known founder gure mentioned in Siddhānta sources. This is as one would expect, if this order taught dualist Śaivism. One wonders why Abhinava refers to these teachers before he does those of the Pratyabhijñā and Trika, who appear in the verse that follows. If the serial order of the verses has not been reversed by mistake, it may appear that these teachers were in some way more important than the ones that follow. Possibly Abhinava is listing them in chronological order. Abhinava’s first teacher was his father. We know that his commentary on the Bhagavadgītā was the earliest surviving work. There he states that he reflected on the traditional explanation taught in Bhaṭtendurāja’s tradition (ibid. intro. verse 6) and that he was Bhūtirāja’s son (concluding verse 1, where he is compared to the sun, as he is at the beginning of the work). We know from his reference to his commentary on the Kramastotra — the Kramakeli — in the PTv that Abhinava wrote it before the PTv. Abhinava appears to have begun his studies with Krama and Trika and then moved on to the Pratyabhijñā, because although he quotes from the Jśvarapratyabhijñā and other works by Utpaladeva in the PTv, he does not refer there to Lakṣmanagupta, who taught him Pratyabhijñā (above 1/11). Finally, we observe that this is the serial order in which he praises them at the beginning of the Tantrāloka also (see above, 1/7-11)
+[^620]: Abhinava has had occasion to refer to a set of four Śaiva orders (maṭhika — literally ‘small monasteries’) (see 4/265cd-267ab, and 36/11-14), of which, he says, the Tantrāloka is imbued with the essence (rasa). These derive their names from their founders. The Āmardaka order taught dualistic Śaivism. The one founded by Śrīnātha, dualistic-cum-nondualistic. Tryambaka is nondual, and the additional Half Tryambaka founded by his daughter is the Kaula Trika. If this is the model here, as Sanderson understands it to be (2005b: 121 note 79), the Ānandasaṁtati is the dualist Śaiva order founded by Āmardaka taught to him by Vāmanātha. While the identity of the other three is quite clear, this one is not. The problem is the identity of Erakavara. According to the Kramastotra, as reported by Jayaratha (TĀv ad 4/173ab), Eraka, also called Erakanātha and Naverakanātha, was a disciple of Keyūravatī, who was a direct disciple of Sivānanda (alias Jñānanetra), who introduced the Krama system into the Kashmir Valley around the middle of the 9TM century. That would place Erakanātha around the first half of the 10\* century. Erakanātha wrote the Kramastotra that Abhinava commented on and appreciated very much. The young Abhinava may well have learnt the Krama teachings of this, ‘the Lineage of Bliss’ of the Krama school, from an aged Vāmanātha. Sanderson does not endorse the view that the Erakavara to whom Abhinava refers was the Krama teacher. However, Āmardaka is a well-known founder gure mentioned in Siddhānta sources. This is as one would expect, if this order taught dualist Śaivism. One wonders why Abhinava refers to these teachers before he does those of the Pratyabhijñā and Trika, who appear in the verse that follows. If the serial order of the verses has not been reversed by mistake, it may appear that these teachers were in some way more important than the ones that follow. Possibly Abhinava is listing them in chronological order. Abhinava’s first teacher was his father. We know that his commentary on the Bhagavadgītā was the earliest surviving work. There he states that he reflected on the traditional explanation taught in Bhaṭtendurāja’s tradition (ibid. intro. verse 6) and that he was Bhūtirāja’s son (concluding verse 1, where he is compared to the sun, as he is at the beginning of the work). We know from his reference to his commentary on the Kramastotra — the Kramakeli — in the PTv that Abhinava wrote it before the PTv. Abhinava appears to have begun his studies with Krama and Trika and then moved on to the Pratyabhijñā, because although he quotes from the Jśvarapratyabhijñā and other works by Utpaladeva in the PTv, he does not refer there to Lakṣmaṇagupta, who taught him Pratyabhijñā (above 1/11). Finally, we observe that this is the serial order in which he praises them at the beginning of the Tantrāloka also (see above, 1/7-11)
 
 *[p. 255]* ^pg273
 
@@ -1253,7 +1253,7 @@ was favoured (with initiation) by his father, (was for him) a radiantly beautifu
 
 Śrīnātha.” (60) 
 
-621?\. We have seen that Bhûtirāja was one of Abhinava’s Krama teachers. Abhinava hails him with the greatest respect as most excellent teacher (tato gurutaraḥ śrīmānbhūtirājo mahāmatiḥ | MVV 1/6ab) on a par with his Trika master, Śambhunātha (above, 1/9). It appears therefore that he also taught the dualist-cum-nondualist Śaivism of the Śrīsantati, Śrīsantāna and Śrīnāthasaṁtāna (see above comm. 1/9 and 6/89). See above, note to comm. 1/9. There has been some speculation whether ‘the son of Bhûtirāọja’ was Helārāja, who wrote an important commentary of the Vākyapadīya by Bhartṛhari, the foremost treatise in Sanskrit on the philosophy of language. In the colophons at the end of each chapter, Helārāja declares that he is ‘the son of Bhūtirāja’. Moreover, elsewhere he tells us that he was a descendent of Lakṣaṇa (> Lakṣmana), a minister of the Kashmiri king Muktāpīda (VP khanda 3 pt. 2 p. 272). However, in the concluding verses on his commentary on the Bhagavadgītā, Abhinava tells us that his teacher in the Gītā and literature (sāhitya) was the son of Bhūtirāja, called Indurāja ot Bhaṭṭendurāja. The latter ascription is amply confirmed by Abhinava himself, for he praises Bhaṭtendurāja as his teacher at the beginning of his commentary (locana) on the great work on poetics, the Dhvanyāloka by Anandavardhana. Thus he writes: bhaṭṭendurājacaranābjakṛtādhivāsahṛdyaśruto ‘bhinavaguptapadābhidho” ham | \*I am the one called Abhinavagupta, who has heard what is to be taken to heart, having taken as (my) abode the lotus feet of Bhattendurāja.” Although Indurāja’s learning as a literary critic is attested, it is not stated that he was also learned in the work of Bhartṛhari. Is it possible that Indurāja and Helārāja were both sons of Bhūtirāja? We know from Jayaratha that Abhinava wrote a work called Prakīrnakavivarana (TĀv ad 10/44) that has not been recovered. It appears from the context that it was a work that dealt with grammar. As prakīrṇa is the name of the third section (khanda) of the Vākyapadīya. It is possible that it was a commentary (vivarana) on this section of the Vākyapadīya. Helārāja’ commentary is called Prakīrnakaprakaśa. It has been suggested on the basis of this very tenuous evidence that Helārāja was the ‘son of Bhūtirāja’, to whom Abhinava is referring here (Iyer 1969: 40). There can be no doubt that Bharthari was well known to the expounders of the Pratyabhijñā, Somānanda (who criticized him) and Utpaladeva (who accepted him), before Abhinava, as he was by Abhinava himself. It may well be that Abhinava did write a commentary on his work, but beyond that there is no strong evidence that he was a \[illegible\] of Helārāja.
+621?\. We have seen that Bhûtirāja was one of Abhinava’s Krama teachers. Abhinava hails him with the greatest respect as most excellent teacher (tato gurutaraḥ śrīmānbhūtirājo mahāmatiḥ | MVV 1/6ab) on a par with his Trika master, Śambhunātha (above, 1/9). It appears therefore that he also taught the dualist-cum-nondualist Śaivism of the Śrīsantati, Śrīsantāna and Śrīnāthasaṁtāna (see above comm. 1/9 and 6/89). See above, note to comm. 1/9. There has been some speculation whether ‘the son of Bhûtirāọja’ was Helārāja, who wrote an important commentary of the Vākyapadīya by Bhartṛhari, the foremost treatise in Sanskrit on the philosophy of language. In the colophons at the end of each chapter, Helārāja declares that he is ‘the son of Bhūtirāja’. Moreover, elsewhere he tells us that he was a descendent of Lakṣaṇa (> Lakṣmana), a minister of the Kashmiri king Muktāpīda (VP khanda 3 pt. 2 p. 272). However, in the concluding verses on his commentary on the Bhagavadgītā, Abhinava tells us that his teacher in the Gītā and literature (sāhitya) was the son of Bhūtirāja, called Indurāja ot Bhaṭṭendurāja. The latter ascription is amply confirmed by Abhinava himself, for he praises Bhaṭtendurāja as his teacher at the beginning of his commentary (locana) on the great work on poetics, the Dhvanyāloka by Anandavardhana. Thus he writes: bhaṭṭendurājacaranābjakṛtādhivāsahṛdyaśruto ‘bhinavaguptapadābhidho” ham | \*I am the one called Abhinavagupta, who has heard what is to be taken to heart, having taken as (my) abode the lotus feet of Bhaṭṭendurāja.” Although Indurāja’s learning as a literary critic is attested, it is not stated that he was also learned in the work of Bhartṛhari. Is it possible that Indurāja and Helārāja were both sons of Bhūtirāja? We know from Jayaratha that Abhinava wrote a work called Prakīrnakavivarana (TĀv ad 10/44) that has not been recovered. It appears from the context that it was a work that dealt with grammar. As prakīrṇa is the name of the third section (khanda) of the Vākyapadīya. It is possible that it was a commentary (vivarana) on this section of the Vākyapadīya. Helārāja’ commentary is called Prakīrnakaprakaśa. It has been suggested on the basis of this very tenuous evidence that Helārāja was the ‘son of Bhūtirāja’, to whom Abhinava is referring here (Iyer 1969: 40). There can be no doubt that Bharthari was well known to the expounders of the Pratyabhijñā, Somānanda (who criticized him) and Utpaladeva (who accepted him), before Abhinava, as he was by Abhinava himself. It may well be that Abhinava did write a commentary on his work, but beyond that there is no strong evidence that he was a \[illegible\] of Helārāja.
 
 
 *[p. 256]* ^pg274
@@ -1331,11 +1331,11 @@ He (now) refers to these few people.
 
 yo yauvane viditaśārrbhavatattvasāraḥ | 
 
-[^629]: Abhinava says this of him in the PTv: bhrātā mamaiva śivaśāsanarūdhacittaḥ prepsuḥ parātmani manorathaguptanāmā | yah sāstratantram akhilarn pravivektukāmaḥ prāptur parar sivapadaṁ bhavabhedanāya ॥ 8 ॥ ‘My brother, named Manorathagupta, whose mind is well established in Śiva’s teachings, much intent on attaining the supreme Self, desires to discern all the śāstras and Tantras to attain Śiva’s supreme plane, and so destroy continued rebirth.” PTv p. 280 (8)
+[^629]: Abhinava says this of him in the PTv: bhrātā mamaiva śivaśāsanarūdhacittaḥ prepsuḥ parātmani manorathaguptanāmā | yah sāstratantram akhilaṁ pravivektukāmaḥ prāptur parar sivapadaṁ bhavabhedanāya ॥ 8 ॥ ‘My brother, named Manorathagupta, whose mind is well established in Śiva’s teachings, much intent on attaining the supreme Self, desires to discern all the śāstras and Tantras to attain Śiva’s supreme plane, and so destroy continued rebirth.” PTv p. 280 (8)
 
 *[p. 258]* ^pg276
 
-deha tyajan prathayati sma janasya satyarn 
+deha tyajan prathayati sma janasya satyaṁ 
 
 ### TĀ 37.65
 
@@ -1464,7 +1464,7 @@ refusing a (sincere) request.” (69)
 
 636?\. Rāmagupta must have been Rāmadeva, to whom Abhinava refers at the end of the PTv p. 280 (9), as being of noble birth and as an expert in Sanskrit grammar, ritual and logic, but solely concentrated on Śiva’s scriptures. At the end of his commentary on the Netratantra, Kṣemarāja refers to a certain Śrīrāma as ‘the first of the group of teachers’ (śrīrāmādigurugrāmas-). Could this be the same man?
 
-637?\. Read -padah for -padar.
+637?\. Read -padaḥ for -padar.
 
 638?\. To sum up, comparing this account with the other found in the concluding verses of the PTv (p. 279-280) (5-10) (A) parallel to TĀ (B). Sanderson (2006, p. 7 note 16) co-ordinates them as follows: (TĀ 37/65-83), concerning his discip les Karna (Vallabha, prime minister \[amātyāgranīḥ\] of Yaśaskara (reigned 939-348 CE) (A 5) > Sauri, who retired to devote himself to religion \[B 75\] > Karna), and his cousin Mandra, described as the wealthy and learned son of an unnamed minister (B 66). Śauri was the brother of Mandra’s father and was married to Vatsalikā (A 6 ab, B 75a) in a house provided by whom Abhinavagupta wrote his Tantrāloka (B 82). Sanderson notes (ibid p. 7) that: ‘the innermost circle of the devotees of Abhinavagupta . . . consisted of members of ministerial families one of a grandson of the same king’s \[i.e. Yaśaskara’s\] prime minister.” This trend continues with Jayaratha, whose patrilineal ancestors included ministers to several kings.
 
@@ -1643,7 +1643,7 @@ yām agrage vayasi bhartrviyogadīnām
 anvagrahiīt trinayanaḥ svayam eva bhaktyā |
 bhāviprabhāvarabhaseṣu janeṣv anarthaḥ 
 
-sārthaṁ samākṛṣati so ‘rthaparamparānām || 77 |l bhaktyullasatpulakatām sphutam aṅgabhūṣāṁ 
+sārthaṁ samākṛṣati so ‘rthaparamparānām || 77 || bhaktyullasatpulakatām sphutam aṅgabhūṣāṁ 
 
 śrīśambhunāthanatim eva lalāṭikāṁ ca |
 saivaśrutiṁ śŚravaṇabhūṣaṇam apy avāpya 
@@ -1764,7 +1764,7 @@ santo ‘nugṁnīta krtińn tadīyām
 gṁnīta pūrvaṁ vidhir eṣa tāvat |
 tadapi gṁnātu bhavanmatiṁ sā 
 
-sadyo ‘nugṁnātu ca tattvadṛṣtyā || 84 II 
+sadyo ‘nugṁnātu ca tattvadṛṣtyā || 84 || 
 
 *[p. 267]* ^pg285
 

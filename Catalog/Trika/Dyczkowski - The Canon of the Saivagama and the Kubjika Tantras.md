@@ -17,8 +17,7 @@ language:
   - English
 pages: 243
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Dyczkowski - The Canon of the Saivagama and the Kubjika Tantras (SUNY 1988).pdf]]"
   - "[[Library/Trika/Canon of the Saivagama (Dyczkowski)/Canon of the Saivagama (Dyczkowski)]]"

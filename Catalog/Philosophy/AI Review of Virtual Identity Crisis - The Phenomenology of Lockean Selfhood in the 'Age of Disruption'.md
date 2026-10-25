@@ -16,8 +16,7 @@ language:
   - English
 pages: 5
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Other/(67) AI Review - Academia.edu.pdf]]"
   - "[[Library/Other/AI Review of Virtual Identity Crisis]]"

@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Deleuze, Guattari - Anti-Oedipus]]"
 book: "[[Library/Philosophy/Anti-Oedipus (Deleuze, Guattari)/Anti-Oedipus (Deleuze, Guattari)|Anti-Oedipus (Deleuze, Guattari)]]"
 order: 15
 source_pdf: "Library/Philosophy/Deleuze, Guattari - Anti-Oedipus (1983).pdf"
-pages: "471–512"
+page_range: "471–512"
 pdf_pages: "471–512"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15

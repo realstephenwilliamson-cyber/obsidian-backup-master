@@ -6,7 +6,7 @@ page_range: "93–146"
 ---
 [[Forgery and Counterforgery 05 - Chapter Four - Forgery in Antiquity - Aspects of the Broader Phenomenon|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 07 - Chapter Six - Introduction to Forgery and Counterforgery in Early Christian Polemics|next →]]
 
-[p. 93]
+[p. 93] ^pg93
 
 ## Chapter Five: Forgery in Antiquity - Motives, Techniques, Intentions, Justifications, and Criteria of Detection
 
@@ -42,7 +42,7 @@ We do not know how Salonius reacted to Salvian’s defensive ninth letter. But i
 
 Before stressing its importance for the polemical forgeries of early Christianity, we would do well to consider the range of motivations for forgery attested in our ancient sources.
 
-[p. 97]
+[p. 97] ^pg97
 
 ### TAXONOMY OF MOTIVATIONS
 
@@ -70,7 +70,7 @@ So too the supporters of Julius Caesar could find cold comfort in an oracle “d
 
 At other times forgeries were used to authorize the establishment of religious institutions, such as the oracle at Abonoteichus established by Alexander, Lucian’s infamous “False Prophet.” To demonstrate the divine approval of the new oracle, according to Lucian, Alexander and a cohort forged a set of bronze tablets and buried them in the temple of Apollo in Chalcedon. When dug up, these divine writings indicated that Asclepius and his father Apollo were soon to move to Pontus and take up residence at Abonoteichus. Here is one instance in which a forgery was spectacularly successful (*Alexander the False Prophet*, 10).
 
-[p. 100]
+[p. 100] ^pg100
 
 #### *As Apologia*
 
@@ -186,7 +186,7 @@ The first thing to note is that Iamblichus is referring only to the followers of
 
 It may be that Iamblichus is referring not to Pythagoras’ immediate followers but to the later Pythagoreans of the Hellenistic period. But here too he would be speaking of literary practices from four hundred to five hundred years earlier. How would he know about these? And if he is right, why are these practices not mentioned by any authors—including biographers of Pythagoras—writing earlier? In fact, the questions keep on coming.
 
-[p. 112]
+[p. 112] ^pg112
 
 ##### LATER SUPPORTERS OF IAMBLICHUS’ VIEW
 
@@ -230,7 +230,7 @@ The clearest instance, however, comes in one that is self-attested. Arrian, as i
 
 In short, it was perfectly acceptable to publish the notes of a teacher in his name; but to publish them in one’s own name, as if they were one’s own teachings, was seen as plagiarism. This is quite different, however, from writing one’s own treatise and claiming that it was someone else’s, even a beloved teacher’s. If the words did not go back to the teacher himself, this would be forgery.[^74]
 
-[p. 116]
+[p. 116] ^pg116
 
 ##### MEDICAL SCHOOLS
 
@@ -476,7 +476,7 @@ A comparable logic drives Rufinus to explain how “orthodox” books could cont
 
 > For it is shown in the case of saintly men of old and of those already judged to have been Catholics … that if anything is found in *their* works contrary to the faith of the Church, it should be thought to have been inserted by heretics rather than to have been written by the authors themselves. (*De adult. lib. Orig*., 8)[^151]
 
-[p. 143]
+[p. 143] ^pg143
 
 #### *Established Patterns of Usage*
 
@@ -500,7 +500,7 @@ Augustine in particular stresses both the secular and theological logic of this 
 
 The continuous attestation of books from the time of their author gives evidence of their authenticity, even in the case of secular writings. But that is even more the case with Christian writings, transmitted by faithful believers, unaltered over the years, in a way analogous to the famed apostolic succession, in which bishops can trace their lineage through their predecessors back to the apostles of Jesus themselves. With the Christian writings this is not just a matter of historical accident; it is an act of providence.
 
-[p. 146]
+[p. 146] ^pg146
 
 ---
 

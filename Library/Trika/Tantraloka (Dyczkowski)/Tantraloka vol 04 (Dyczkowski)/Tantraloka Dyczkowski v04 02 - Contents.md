@@ -46,7 +46,7 @@ Consciousness, verses 180-185 (179cd-185ab), pages 391-394
 
 Time in the other Vital Breaths 
 
-Apāna - Inhalation, verses 186-195 (185cd-195ab), pages 394-397 The Six Causal Deities in the Body, verses 189-193 (188cd-193ab), pages 397-401 The Lower Mouth, verses 194-195 (193cd-195ab), pages 401-402 Samāna ~ the Equalizing Breath, verses 196-199 (195cd-199ab), pages 402- 410 The Circulation \[illegible\] of the Equalizing Breath and the Equinoxes (viṣuvat), verses 200-208 (199cd-208ab), pages 410-420 Conclusion of the Projections of the Cycles of Time in the Equalizing Breath, verses (209-211) (208cd-21 lab), pages 420-421 Udāna ~ the Ascending Breath, verses 212-214ab (21160-213), pages 421- 422 Vyāna -- the Pervasive Breath, verses 214cd-216ab (214-215), pages 423- 424 
+Apāna - Inhalation, verses 186-195 (185cd-195ab), pages 394-397 The Six Causal Deities in the Body, verses 189-193 (188cd-193ab), pages 397-401 The Lower Mouth, verses 194-195 (193cd-195ab), pages 401-402 Samāna ~ the Equalizing Breath, verses 196-199 (195cd-199ab), pages 402- 410 The Circulation (saṁcāra) of the Equalizing Breath and the Equinoxes (viṣuvat), verses 200-208 (199cd-208ab), pages 410-420 Conclusion of the Projections of the Cycles of Time in the Equalizing Breath, verses (209-211) (208cd-21 lab), pages 420-421 Udāna ~ the Ascending Breath, verses 212-214ab (21160-213), pages 421- 422 Vyāna -- the Pervasive Breath, verses 214cd-216ab (214-215), pages 423- 424 
 
 The Supreme, Subtle and Gross Emergence of the Phonemes (varnodaya), 
 
@@ -100,11 +100,11 @@ Mundaka Upaniṣad
 
 MṛT 
 
-Mṛgendratantra MrTvK 
+Mṛgendratantra MṛTvK 
 
-Mṛgendratantravṛtti Kriyāpāda MrKri 
+Mṛgendratantravṛtti Kriyāpāda MṛKri 
 
-Mṛgendratantra Kriyāpāda MrV 
+Mṛgendratantra Kriyāpāda MṛV 
 
 Mṛgendratantra Vidyāpāda NGMPP 
 

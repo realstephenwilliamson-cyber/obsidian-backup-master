@@ -132,7 +132,7 @@ According to the Rauravasangraha, Unmanifest Nature (avyakta) and the Force (of 
 
 Qualities.” 
 
-And here, according to (the commentator,) the venerable Bṛhaspati, by the pronoun \[illegible\] (‘from that’) — (where it says) ‘the Unmanifest (arose) from that (avyaktarn ca tatas) — refers to Māyā. As is said (in his commentary (vārtika) on the Rauravasaṁgraha): 
+And here, according to (the commentator,) the venerable Bṛhaspati, by the pronoun \[illegible\] (‘from that’) — (where it says) ‘the Unmanifest (arose) from that (avyaktaṁ ca tatas) — refers to Māyā. As is said (in his commentary (vārtika) on the Rauravasaṁgraha): 
 
 ‘Unmanifest Nature and the Force (of limited agency) (kalā) (originate) from Māyā,” and from the Force (of limited agency), Attachment (raga) and (limited) Knowledge (vidyā).” 
 
@@ -171,7 +171,7 @@ Now he illustrates the variety (of the forms of causality) in the world.
 लोके च गोमयात्कीरात् सङल्पात्स्वणतः स्मृतेः ॥ ४२ ॥
 योगीच्छातो द्रव्यमचरप्रभावादेश् वृश्चिकः ।
 
-loke ca gomayāt kīṭāt saṁkalpāt svapnataḥ smṛteḥ ॥ 42 I|
+loke ca gomayāt kīṭāt saṁkalpāt svapnataḥ smṛteḥ ॥ 42 ॥
 yogīcchāto dravyamantraprabhāvādeś ca vṛścikaḥ | 
 
 Again, (as an example of the variety of possible causes that give rise to the same effect) in the world, (we can cite the) scorpion who can be born from cow dung, a larva, the imagination, a dream, memory, the yogi’s will, or by the power of (magical) substances (such as jewels or herbs), or mantra. (42cd-43ab) 
@@ -292,7 +292,7 @@ According to the Jñānottara, the principles of the Individual Self, Attachment
 
 #### Viveka on 9.46–47
 
-02 Read kālordhve for kalordhve. Jayaratha disputes this emended reading, effectively saying that the reading he has in his main manuscript is kālordhve but he prefers kalordhve, which is a reading he has seen in another manuscript. He says that that is because in that case, the sequential order found in the Svāyambhuva would agree with the Kiraṇa. But if that were so, one wonders why Abhinava mentioned this as an alternative, possible serial order. 3 Jayaratha quotes five lines from the Kirana that Abhinava summarizes in TĀ 9/46cd- 4740. These are KiT vidyāpāda 8/125, 128ab, 130cd and 133ab. 1% This statement is drawn from KiT 8/128ab, which is quoted by Jayaratha. There is a lative compound in the TĀ, whereas the equivalent in the citation in Vivanti’s a dual compound. Thus, in the former case, we have the singular tisaṁpuṭam; in the latter, the dual kālaniyatyākhyau saṁputau — ‘the two bowls called Time and Necessity’. In the first case, the singular suggests that the two bowls fit together to form a capsule, for which the Sanskrit is also saṁpuṭa. The second suggests two hemispherical bowls are facing upwards, one above the other. Either way, mentioning Time and Necessity together as a pair is significant. Causality, the regularity of which Necessity ensures, extends over time, especially Karmic causality, and so they are closely linked. 15 Read with MS C, in accord with references from the Kiraṇatantra in the commentary: kālaniyati- and \[illegible\] māyeti for kalāniyati- and kālo māyeti. 1% Concerning the various sequential orders of these principles in the Siddhānta, see Goodall (1995) intro. p. 19. The order in Svāyambhuva (here called Vairiñca) is: 1) Māyā; 2) Kāla; 3) Niyati; 4) Kalā; 5) Vidyā. The Kiraṇatantra teaches that Puruṣa, who guards of the house of Prakṛti, is the first, then comes Attachment (Rāga), from which arises impure (empirical) Knowledge which deludes beings on lower levels of consciousness (paśu), then come Time (Kāla) and Necessity (Niyati) as a pair (saṁpuṭa); the Force (of limited agency) (Kalā) emerges out of Time (Kāla), above which is Māyā. Obviously, the order is reversed, descending from the experience of the principles directly relating to forms of Deity at the Pure level to the dualistic empirically defined experience at the Impure level. The downward sequence is recorded in chapter 4 of the Kiraṇatantra (verse 18 ff). Ananta stimulates Māyā to generate its products, i.e. the principles that comprise the Impure Path. As the universal cause, Māyā cannot be disturbed. However, once it has pervaded phenomenal entities (bhāva) beginning with Kalā, it is liable to being disturbed (18-20). From Māyā are generated Kalā, Kāla,
+02 Read kālordhve for kalordhve. Jayaratha disputes this emended reading, effectively saying that the reading he has in his main manuscript is kālordhve but he prefers kalordhve, which is a reading he has seen in another manuscript. He says that that is because in that case, the sequential order found in the Svāyambhuva would agree with the Kiraṇa. But if that were so, one wonders why Abhinava mentioned this as an alternative, possible serial order. 3 Jayaratha quotes five lines from the Kirana that Abhinava summarizes in TĀ 9/46cd- 4740. These are KiT vidyāpāda 8/125, 128ab, 130cd and 133ab. 1% This statement is drawn from KiT 8/128ab, which is quoted by Jayaratha. There is a lative compound in the TĀ, whereas the equivalent in the citation in Vivanti’s a dual compound. Thus, in the former case, we have the singular tisaṁpuṭam; in the latter, the dual kālaniyatyākhyau saṁputau — ‘the two bowls called Time and Necessity’. In the first case, the singular suggests that the two bowls fit together to form a capsule, for which the Sanskrit is also saṁpuṭa. The second suggests two hemispherical bowls are facing upwards, one above the other. Either way, mentioning Time and Necessity together as a pair is significant. Causality, the regularity of which Necessity ensures, extends over time, especially Karmic causality, and so they are closely linked. 15 Read with MS C, in accord with references from the Kiraṇatantra in the commentary: kālaniyati- and kalā māyeti for kalāniyati- and kālo māyeti. 1% Concerning the various sequential orders of these principles in the Siddhānta, see Goodall (1995) intro. p. 19. The order in Svāyambhuva (here called Vairiñca) is: 1) Māyā; 2) Kāla; 3) Niyati; 4) Kalā; 5) Vidyā. The Kiraṇatantra teaches that Puruṣa, who guards of the house of Prakṛti, is the first, then comes Attachment (Rāga), from which arises impure (empirical) Knowledge which deludes beings on lower levels of consciousness (paśu), then come Time (Kāla) and Necessity (Niyati) as a pair (saṁpuṭa); the Force (of limited agency) (Kalā) emerges out of Time (Kāla), above which is Māyā. Obviously, the order is reversed, descending from the experience of the principles directly relating to forms of Deity at the Pure level to the dualistic empirically defined experience at the Impure level. The downward sequence is recorded in chapter 4 of the Kiraṇatantra (verse 18 ff). Ananta stimulates Māyā to generate its products, i.e. the principles that comprise the Impure Path. As the universal cause, Māyā cannot be disturbed. However, once it has pervaded phenomenal entities (bhāva) beginning with Kalā, it is liable to being disturbed (18-20). From Māyā are generated Kalā, Kāla,
 
 *[p. 52]* ^pg69
 
@@ -306,7 +306,7 @@ The Jñānottara is the Sarvajñānottara. As is stated there:
 
 \[illegible\] reality, the individual soul (puruṣa) is subtle, eternal and (both) manifest and unmanifest.” " 
 
-Niyati, Vidyā, Rāga and Prakṛti (tasmāt kalā truṭiḥ sarṁisthā bodhinī hy abhilāṣakṛt \\\\ sūkṣmaṁ \[illegible\] guṇās tebhyo buddhir buddher ahariikṛtiḥ | 4/22cd-23ab). 10 Concerning the various sequential orders of these principles in the Siddhānta, see Goodall (1995) intro. p. 19. The order in Svāyambhuva is: 1) Māyā, 2) Kāla, 3) Niyati, 4) Kalā, 5) Vidyā. Kiranatantra here maintains that Puruṣa is the guardian of the house of Prakṛti and is the first, then Attachment, from which arises impure (empirical) Knowledge which deludes beings on lower levels of consciousness (pasu), then come Kāla and Niyati as a mutually dependent pair (saṁpuṭa), Kalā comes into being out of Kāla, above which is Māyā. Note that the order is reversed in descending from the nondual experience at the \[illegible\] level to the dualistic empirically defined experience at the Aśuddha level. The sequence Abhinava accepts, which is found in the MV, also appears in the KiT. It appears following a definition of the nature of the individual fettered soul in 1/15 (quoted below ad 9/145cd-146), where it continues: \*‘Kalā from Śiva joins this impure soul. The bound soul’s consciousness is empowered by this (kalā), the sphere (of the operation of the senses) is made known by vidyā, and it is also stained by passion. And matter (pradhānaṁ ca), which consists of the gunas (viz. sattva, rajas and tamas) (is joined with the soul). And the soul is bound through its connection with the organs (of sense and action), beginning with buddhi \[intellect\] and with the army (of gross and subtle elements). Then by the embrace of binding fate \[niyati\], it is also bound to that (karman) which is itself accumulated. Because of the effect (of Māyā), which is the division of time, he is deluded in experience by (the \[illegible\] of) time. Thus bound with the tattva-elements, the (soul that is) naturally enveloped (becomes) partially equipped of knowledge, linked to a (gross) body, embraced by experience (generated out) of Māyā and (thus) absorbed by that (Māyā)’ 1/16-19 Translation by Goodall 1998 (pp. 199-211) 1% CF, MPĀ vidyāpāda, 9/2 ff.; 9/15; 10/1 ff.; 11/2 ff.; 12/1 ff.; 13/1 ff.; 14/1 ff. 1” Sarvajñānottara IFP T. no. 334 copied from MS D. 5550 of the GOML Chennai. The e-text is on the Muktabodha website. These references are from the Kriyāpāda. The context in which the sequence of these rattvas are presented is a description of the world orders and their resident and presiding deities. As Abhinava says, the series begins with 1) Puruṣa (10/96-102ab). Then come the Enclosures (āvaraṇa) of the worlds of 2) attachments (Rāga) (10/102cd-1 10ab), 3) limited noetic subjectivity (Vidyā) (10/1 10cd- 118ab), 4) limited agency (Kalā) (10/1 18cd-126ab) and 5) time (Kāla) (10/126-132ab), followed by 6) the principle of Māyā (10/132cd ff.) (transcript p. 66-69). Out of these, Jayaratha has chosen four, namely Puruṣa, Kalā, Kāla and Māyā. Although he has omitted two of them, he has taken care, as he should, to maintain their serial order as it is in the text. The beginning of the first entry reads in the transcript sthitvā tu — ‘having abideď’ for vastutaḥ — ‘in reality’. In 10/118cd, 132cd, the transcript reads the deviant atordhvaṁ for the correct ata \[illegible\] — ‘above that’ of the printed edition of the TĀv. 1) sthitvā tu puruṣaḥ sūkṣmo vyaktāvyaktaḥ sanātanaḥ | utpādayati satvāni bhavabhūtāni caiva hi || 97 || 2) atordhvaṁ tu bhaved anyat rāgāvaranasaṁjñakam || 102 |
+Niyati, Vidyā, Rāga and Prakṛti (tasmāt kalā truṭiḥ sarṁisthā bodhinī hy abhilāṣakṛt \\\\ sūkṣmaṁ \[illegible\] guṇās tebhyo buddhir buddher ahariikṛtiḥ | 4/22cd-23ab). 10 Concerning the various sequential orders of these principles in the Siddhānta, see Goodall (1995) intro. p. 19. The order in Svāyambhuva is: 1) Māyā, 2) Kāla, 3) Niyati, 4) Kalā, 5) Vidyā. Kiranatantra here maintains that Puruṣa is the guardian of the house of Prakṛti and is the first, then Attachment, from which arises impure (empirical) Knowledge which deludes beings on lower levels of consciousness (pasu), then come Kāla and Niyati as a mutually dependent pair (saṁpuṭa), Kalā comes into being out of Kāla, above which is Māyā. Note that the order is reversed in descending from the nondual experience at the \[illegible\] level to the dualistic empirically defined experience at the Aśuddha level. The sequence Abhinava accepts, which is found in the MV, also appears in the KiT. It appears following a definition of the nature of the individual fettered soul in 1/15 (quoted below ad 9/145cd-146), where it continues: \*‘Kalā from Śiva joins this impure soul. The bound soul’s consciousness is empowered by this (kalā), the sphere (of the operation of the senses) is made known by vidyā, and it is also stained by passion. And matter (pradhānaṁ ca), which consists of the gunas (viz. sattva, rajas and tamas) (is joined with the soul). And the soul is bound through its connection with the organs (of sense and action), beginning with buddhi \[intellect\] and with the army (of gross and subtle elements). Then by the embrace of binding fate \[niyati\], it is also bound to that (karman) which is itself accumulated. Because of the effect (of Māyā), which is the division of time, he is deluded in experience by (the tattva of) time. Thus bound with the tattva-elements, the (soul that is) naturally enveloped (becomes) partially equipped of knowledge, linked to a (gross) body, embraced by experience (generated out) of Māyā and (thus) absorbed by that (Māyā)’ 1/16-19 Translation by Goodall 1998 (pp. 199-211) 1% CF, MPĀ vidyāpāda, 9/2 ff.; 9/15; 10/1 ff.; 11/2 ff.; 12/1 ff.; 13/1 ff.; 14/1 ff. 1” Sarvajñānottara IFP T. no. 334 copied from MS D. 5550 of the GOML Chennai. The e-text is on the Muktabodha website. These references are from the Kriyāpāda. The context in which the sequence of these rattvas are presented is a description of the world orders and their resident and presiding deities. As Abhinava says, the series begins with 1) Puruṣa (10/96-102ab). Then come the Enclosures (āvaraṇa) of the worlds of 2) attachments (Rāga) (10/102cd-1 10ab), 3) limited noetic subjectivity (Vidyā) (10/1 10cd- 118ab), 4) limited agency (Kalā) (10/1 18cd-126ab) and 5) time (Kāla) (10/126-132ab), followed by 6) the principle of Māyā (10/132cd ff.) (transcript p. 66-69). Out of these, Jayaratha has chosen four, namely Puruṣa, Kalā, Kāla and Māyā. Although he has omitted two of them, he has taken care, as he should, to maintain their serial order as it is in the text. The beginning of the first entry reads in the transcript sthitvā tu — ‘having abideď’ for vastutaḥ — ‘in reality’. In 10/118cd, 132cd, the transcript reads the deviant atordhvaṁ for the correct ata \[illegible\] — ‘above that’ of the printed edition of the TĀv. 1) sthitvā tu puruṣaḥ sūkṣmo vyaktāvyaktaḥ sanātanaḥ | utpādayati satvāni bhavabhūtāni caiva hi || 97 || 2) atordhvaṁ tu bhaved anyat rāgāvaranasaṁjñakam || 102 |
 
 *[p. 53]* ^pg70
 
@@ -320,7 +320,7 @@ hard to cross."
 
 ‘The principle of Time, which is located on those two planes, (emerges first) from the principle of Māyā. The Well Established (Saṁsthā) is (located) on another (plane). Again, similarly, the Force (of limited agency) (Kalā) (comes next), and then (the limited capacity for) Knowledge (Vidyā) 2180.1114 
 
-3) atastradhvaṁ bhaved anyad vidyāvaraṇasaṁjñakaḥ || 110 | 4) atordhvarn tu bhavedanyat kalāvaraṇasamjñakam || 118 || 5) ata ūrdhvaṁ bhaved anyat kālasyāvaranari guha || 126 ॥ 6) atordhvaṁ tu bhaved anyan māyātatvaṁ sudustaram || 132 || H0 SJñā Kriyāpāda 10/97ab. The following line reads: utpādayati satvāni bhavabhūtāni caiva hi | ‘It generates living beings, the fettered state (bhava) and the gross elements.” 111 ऽ Kriyāpāda 10/1 18cd. p. 68 of the transcript of the Sarvajñānottara. 112 Thid. Kriyāpāda 10/126cd. p. 68 of the transcript of the Sivajñānottara. 113 Ibid. Kriyāpāda 10/132cd. p. 69 of the transcript of the Sivajñānottara. ! The serial order of these principles in the Svāyambhuva is Māyā > Time > Necessity > Kalā > Vidyā. The first four chapters of vidyāpāda of the Svāyambhuvāgama (called Svāyambhuvasūtra-saṁgraha in the colophons) along with the commentary by Sadyojyotiṣ have been published and translated by Filliozat (see bibliography). This verse is not found there. However, it is found in IFP T No. 39 in chapter 36, which is the fourth chapter of the Svāyambhuvasūtrasarigraha. It is numbered 36/28 in the transcript. A is the variant reading noted in the transcript, which is drawn from an unnamed source. It reads there: māyāthakṣā kālatadvastu saristhitās tat padadvaye \[A : māyādhaḥ kālatatva tu saṁsthitaṁ tatpadadvaye\]) | niyatiś ca pare ‘nyasmin \[A : pare hy asmin\] \[illegible\] vidyā tataḥ punaḥ || 28 ॥ ‘The principle of Time, which is located on those two planes, is below Māyā. And Necessity is (located) on the other, subsequent (plane), then again (next come) the Force (of limited agency) (kalā) and (limited) Knowledge.’ The Sanskrit of this verse quoted in the TĀv reads: māyātattvāt kālatattvaṁ saṁsthitarn tatpadadvaye | saṁisthānyasmin kalā tadvad vidyāpy evaṁ tataḥ punaḥ \[ch, ñ: puram) ॥ Note that Jayaratha states that the commentators explain that Well Established (saṁsthā) is the principle of Necessity (niyati), whereas the reading in the transcript states that directly.
+3) atastradhvaṁ bhaved anyad vidyāvaraṇasaṁjñakaḥ || 110 | 4) atordhvaṁ tu bhavedanyat kalāvaraṇasamjñakam || 118 || 5) ata ūrdhvaṁ bhaved anyat kālasyāvaranari guha || 126 ॥ 6) atordhvaṁ tu bhaved anyan māyātatvaṁ sudustaram || 132 || H0 SJñā Kriyāpāda 10/97ab. The following line reads: utpādayati satvāni bhavabhūtāni caiva hi | ‘It generates living beings, the fettered state (bhava) and the gross elements.” 111 ऽ Kriyāpāda 10/1 18cd. p. 68 of the transcript of the Sarvajñānottara. 112 Thid. Kriyāpāda 10/126cd. p. 68 of the transcript of the Sivajñānottara. 113 Ibid. Kriyāpāda 10/132cd. p. 69 of the transcript of the Sivajñānottara. ! The serial order of these principles in the Svāyambhuva is Māyā > Time > Necessity > Kalā > Vidyā. The first four chapters of vidyāpāda of the Svāyambhuvāgama (called Svāyambhuvasūtra-saṁgraha in the colophons) along with the commentary by Sadyojyotiṣ have been published and translated by Filliozat (see bibliography). This verse is not found there. However, it is found in IFP T No. 39 in chapter 36, which is the fourth chapter of the Svāyambhuvasūtrasarigraha. It is numbered 36/28 in the transcript. A is the variant reading noted in the transcript, which is drawn from an unnamed source. It reads there: māyāthakṣā kālatadvastu saristhitās tat padadvaye \[A : māyādhaḥ kālatatva tu saṁsthitaṁ tatpadadvaye\]) | niyatiś ca pare ‘nyasmin \[A : pare hy asmin\] kalā vidyā tataḥ punaḥ || 28 ॥ ‘The principle of Time, which is located on those two planes, is below Māyā. And Necessity is (located) on the other, subsequent (plane), then again (next come) the Force (of limited agency) (kalā) and (limited) Knowledge.’ The Sanskrit of this verse quoted in the TĀv reads: māyātattvāt kālatattvaṁ saṁsthitaṁ tatpadadvaye | saṁisthānyasmin kalā tadvad vidyāpy evaṁ tataḥ punaḥ \[ch, ñ: puram) ॥ Note that Jayaratha states that the commentators explain that Well Established (saṁsthā) is the principle of Necessity (niyati), whereas the reading in the transcript states that directly.
 
 *[p. 54]* ^pg71
 
@@ -396,7 +396,7 @@ The Five Pure Principles
 
 स्वात्यभासितभिदा पञ्चधा प्रविभज्यते ।
 
-sivaḥ svatantradṛgrūpaḥ pañcaśaktisunirbharaḥ ॥ 49 |I svātantryabhāsitabhidā pañcadhā pravibhajyate | 
+sivaḥ svatantradṛgrūpaḥ pañcaśaktisunirbharaḥ ॥ 49 ॥ svātantryabhāsitabhidā pañcadhā pravibhajyate | 
 
 Śiva, whose nature is free discerning consciousness (svatantradṛg)” and is full (to overflowing) with five powers, manifesting (the domain) of duality by (the power of) His freedom, is divided into five. (49cd-50ab) 
 
@@ -427,7 +427,7 @@ He explains (this) five-fold division.
 चिदानन्देषणाज्ञानक्रियाणां सुस्फुटत्वतः ।। ५० ॥
 शिवशक्तिसदेशानविद्याख्यं ततत्वपञ्चकम् |
 
-cidānandeṣaṇājñānakriyānṇām susphutatvataḥ || 50 Il sivaśaktisadeśānavidyākhyaṁ tattvapañcakam | 
+cidānandeṣaṇājñānakriyānṇām susphutatvataḥ || 50 || sivaśaktisadeśānavidyākhyaṁ tattvapañcakam | 
 
 As (the powers) of consciousness, bliss, will, knowledge and action become (progressively) clearly evident, (they manifest) as the group of five principles called Śiva, Śakti, Sadāśiva, Īśvara and Pure Knowledge (respectively). (50cd-51ab) 
 
@@ -463,7 +463,7 @@ Although each one of these principles is full of all the powers, they are differ
 
 teaching), Śiva, who is pure consciousness, is indeed supreme (and transcendent — para). Although he has no need (nirārisa), because (of His) (all-embracing) plenitude, desiring to manifest externally out of the greatness of His innate freedom, in accord with the hierarchy of the wonder of (His) supreme bliss, 2) He initially shines forth on the plane of \[illegible\] in the form of the reflective awareness (of pure) ‘T’ \[illegible\] 
 
-3\) After that, he manifests the two branches (4/2) of reflective awareness, namely ‘I am’ and ‘(all) this’ (aham idam). If, when the ‘T’ aspect predominates there as pure consciousness alone, the Supreme Lord generates the ‘this’ aspect, then because (its) purview \[illegible\] is the aggregate of phenomena (bhāvarāśi) which has just (barely) unfolded, like the faintly traced outline of a picture, it is not clearly (manifest in a differentiated form). Thus, it is the principle of Sadāśiva, (in which) the power of the will is predominant, 1 and (corresponds to the inner experience of consciousness that) ‘I am (all) this’. 
+3\) After that, he manifests the two branches (4/2) of reflective awareness, namely ‘I am’ and ‘(all) this’ (aham idam). If, when the ‘T’ aspect predominates there as pure consciousness alone, the Supreme Lord generates the ‘this’ aspect, then because (its) purview (viṣaya) is the aggregate of phenomena (bhāvarāśi) which has just (barely) unfolded, like the faintly traced outline of a picture, it is not clearly (manifest in a differentiated form). Thus, it is the principle of Sadāśiva, (in which) the power of the will is predominant, 1 and (corresponds to the inner experience of consciousness that) ‘I am (all) this’. 
 
 4\) Again, when the aggregate of phenomena has become clearly evident (within consciousness) (sphuṭībhūta), and the ‘this’ aspect predominates, if it is posited (niṣiñcati) in the ‘T aspect, it is then the Iśvara principle, (in which) the power of knowledge is predominant. (‘T' corresponds to the experience that) ‘(all) this am I’. Thus, although the (subjective) reflective awareness of ‘T (ahaṁivimarśa) remains the same, there is a difference here in the (objective) ‘this’, according to whether it is pure or impure." 
 
@@ -490,7 +490,7 @@ Surely, if duality is possible in this way here in the supreme nature also, how 
 तथाहि स्वस्वतच्रत्वपरिपूर्णतया विभुः ॥ ५२ ॥
 नि .संख्यैर्बहुभी रूपैभीत्यवच्छेदवर्जनात् ।
 
-tathā hi svasvatantratvaparipūrṇatayā vibhuḥ ॥ 52 II nihsaṁkhyair bahubhī rūpair bhāty avacchedavarjanāt | 
+tathā hi svasvatantratvaparipūrṇatayā vibhuḥ ॥ 52 ॥ nihsaṁkhyair bahubhī rūpair bhāty avacchedavarjanāt | 
 
 1 Cf. Dyczkowski 1987: 85: “The universe is the wonderful variety (vicitratā) of Śiva’s nature, created by Him when He reflects on Himself and thinks ‘I am diverse’. Śiva contemplates none other than Himself, whether He knows Himself as the multiplicity of things or as their undivided source. At one with Śiva, the enlightened yogi recognises that the expansion (unmeṣa) of the universe of diversity coincides with the expansion of his own undivided consciousness, that appears ‘as the dawning of absolute reality to the exclusion of the external world. Thus, the two phases \[the first corresponding to the Sadāśiva principle and the second to Īśvara\] in the pulse of consciousness coincide. Oscillating like pans of an evenly weighted balance, they are perfectly equivalent.” 1 Although the reading nirāśaṁsāt ‘from the one devoid of want’ (see above, note 9,131) is the same in the printed edition of the ĪPv, in the edition which includes Bhāskara’s commentary, we find the reading nirābhāsāt ‘from the unmanifest’. 19 This is the opening verse (maṁgalaśloka) of Abhinavagupta’s Īśvarapratyabhijñāvimarśini. Bhāskarakaṇātha strongly criticises Jayaratha’s understanding of this verse. As we can see from Jayaratha’s commentary, and Bhāskara correctly reports, the ‘two aspects’ (dviśsākhā) are, according to him, subject (aham) and object (idam). However, Bhāskara contends, offering convincing reasons, that they are Śiva and Śakti.
 
@@ -518,7 +518,7 @@ mantrā iti viśuddhāḥ syur amī pañca gaṇāḥ kramāt |
 svasmin svasmin gane bhāti yad yad rūpaṁ samanvayi || 54 ||
 tad eṣu tattvam ity ukta kālāgnyāder dharādivat | 
 
-The Divine (śāmbhava) (subjects), those Born of Power (śaktija), the Great Lords of Mantra, the Lords of Mantra and the Mantras” \_ these are the five groups of pure (subjects), in due order. Whatever be the inherent nature (rūpa) that shines in its own respective group in conjunction (with it) is said to be the (particular) \[illegible\] amongst these ones. As is (for example) the Earth (principle, that extends through all its worlds), starting with Kālāgni. (53cd-55ab) 
+The Divine (śāmbhava) (subjects), those Born of Power (śaktija), the Great Lords of Mantra, the Lords of Mantra and the Mantras” \_ these are the five groups of pure (subjects), in due order. Whatever be the inherent nature (rūpa) that shines in its own respective group in conjunction (with it) is said to be the (particular) tattva amongst these ones. As is (for example) the Earth (principle, that extends through all its worlds), starting with Kālāgni. (53cd-55ab) 
 
 #### Viveka on 9.53–55
 
@@ -530,7 +530,7 @@ The Divine (śāmbhava) (subjects), those Born of Power (śaktija), the Great Lo
 
 The Divine (subjects) are those who belong to Śambhu, who is the Supreme Light. All existing things (bhāva), that is, the world-orders and the rest, have each attained a state of oneness (tādātmyavṛtti) with their corresponding (reality level), because otherwise it would not be (logically) possible (for them to shine with) the supreme illuminating (light). As was stated before: 
 
-‘The supreme (universal) nature \[illegible\] that is permeated without a break (nivida) by the Light (of consciousness) shines within (the worlds) we have discussed with their many varieties. Associated (anvita) (and inherent within) them (as their common nature), it is Deity who is Śiva, the one 
+‘The supreme (universal) nature (rūpa), that is permeated without a break (nivida) by the Light (of consciousness) shines within (the worlds) we have discussed with their many varieties. Associated (anvita) (and inherent within) them (as their common nature), it is Deity who is Śiva, the one 
 
 (reality). 
 
@@ -548,7 +548,7 @@ the external state predominates.’
 
 For the reason stated here and elsewhere, the form (of consciousness) that manifests in consonance with the coming to prominence of the inner state (and then the external state) etc. 
 
-said here, with reference to that, that they are the principles of Sadāśiva and Īśvara. It is not with reference to the presiding deity (at these reality levels). This is because Śiva’s state \[illegible\] always \[illegible\] shines as the inner form (of universal consciousness), and the Īśvara (principle) as the outer form. In this same way, Brahmā and the rest (of the causal deities) would also be counted as separate principles (tattva). Otherwise (if this were not so), because they are not different from the causal states (over which they preside as deities), they would possess two opposite natures (ardhajātīya) (by asserting that they are also \[illegible\] + Again, if that were to be so, the undesirable consequence would be that a king, even if he be the lord of all the earth, would be a separate reality \[illegible\] (from the earth and its creatures) because he governs the earth, and that is not so. Thus, what has been said is logically sound (yukta)."\*" 
+said here, with reference to that, that they are the principles of Sadāśiva and Īśvara. It is not with reference to the presiding deity (at these reality levels). This is because Śiva’s state \[illegible\] always \[illegible\] shines as the inner form (of universal consciousness), and the Īśvara (principle) as the outer form. In this same way, Brahmā and the rest (of the causal deities) would also be counted as separate principles (tattva). Otherwise (if this were not so), because they are not different from the causal states (over which they preside as deities), they would possess two opposite natures (ardhajātīya) (by asserting that they are also \[illegible\] + Again, if that were to be so, the undesirable consequence would be that a king, even if he be the lord of all the earth, would be a separate reality (tattva) (from the earth and its creatures) because he governs the earth, and that is not so. Thus, what has been said is logically sound (yukta)."\*" 
 
 Born of Power (śaktija), Śaktitattva, the Great Lords of Mantra, Sadāśivatattva, the Lords of Mantra, Īśvaratattva and the Mantra subjects Śuddhavidyātattva. 14 Above, 9/2ab. 145 TP 3/1/2. 14 ardhajātīya is the maxim ~ nyāya — of ‘being half aged’ (ardhajaratanyāya), that indicates that it is impossible for two opposite and conflicting qualities to reside in the same substance, or combining two opposite attributes in a single individual at the same time, just as person cannot be simultaneously both young and old. 14 Sadāśiva is Śiva shining inwardly, while Īśvara is His shining forth externally. Śivatattva etc. must not be confused with presiding deities of the Tattva. Śivatattva etc. represent various states of being of the One Light in all its degrees of self-awareness, according to the extent that experience is internalized within consciousness, and so one with it. Thus, it includes all the manifestations associated with it, including the corresponding perceivers and Lords associated with each zattva.
 
@@ -574,7 +574,7 @@ tena yat prāhur ākhyānasādṛśyena vidambitāḥ || 55 ॥
 gurūpāsār vinaivāttapustakābhīṣtadṛṣtayaḥ |
 \*\*brahmā nivṛttyadhipatiḥ pṛthak tattvaṁ na ganyate || 56 ॥
 sadāśivādyās tu pṛthag ganyanta iti ko nayaḥ |
-brahmaviṣṇuhareśānasuśivānāśritātmani ॥ 57 Il \[illegible\] kāraṇasaṁjñe ‘rdhajaratīyam iyarn kutaḥ |
+brahmaviṣṇuhareśānasuśivānāśritātmani ॥ 57 ॥ \[illegible\] kāraṇasaṁjñe ‘rdhajaratīyam iyaṁ kutaḥ |
 iti tanmūlato dhvastaṁ gaṇitaṁ na hi kāraṇam || 58 ॥
 yathā pṛthivyadhipatir nṛpas tattvāntarari na hi |
 tathā tattatkaleśānaḥ pṛthaktattvāntarari katham || 59 ॥ 
@@ -666,7 +666,7 @@ The greed (lolikā) to which individual souls are subject is an (intense) object
 
 #### Viveka on 9.62
 
-The (intense) craving to which individual souls are subject is ‘objectless’, because it is not (an actual) action (directed at a goal); (rather, it is) just desire alone, and because it does not a have a fixed object \[illegible\] it is ‘greed’ ‘devoid of (any) specific limiting (referent)’; that is, (it is just the sense) of need (they feel) within themselves. Thus, ‘it corresponds to the sense they have of themselves as incomplete’, and so it is ‘the ignorance’, that is, contracted knowledge, due to the ignorance of (their own) nature as full (and complete) knowledge (i.e. consciousness). Thus, as that which conceals one’s own nature, it is (said to be binding) Impurity (mala) (that is defined in the following lines). 
+The (intense) craving to which individual souls are subject is ‘objectless’, because it is not (an actual) action (directed at a goal); (rather, it is) just desire alone, and because it does not a have a fixed object (viṣaya), it is ‘greed’ ‘devoid of (any) specific limiting (referent)’; that is, (it is just the sense) of need (they feel) within themselves. Thus, ‘it corresponds to the sense they have of themselves as incomplete’, and so it is ‘the ignorance’, that is, contracted knowledge, due to the ignorance of (their own) nature as full (and complete) knowledge (i.e. consciousness). Thus, as that which conceals one’s own nature, it is (said to be binding) Impurity (mala) (that is defined in the following lines). 
 
 ‘This, the Impurity which pertains directly to the individual soul (āṇavaṁ malam) brought about by the obliteration (of the knowledge) of one’s own true nature, is of two kinds. It is the loss of the freedom of (its innate) consciousness, 
 
@@ -751,7 +751,7 @@ When the will of Siva, Who is free, (assumes) the form of a jar,“ it becomes a
 
 #### Viveka on 9.65–66
 
-(Impurity) ‘has assumed a substantial form’ because (Śiva) own nature is concealed. Here (according to this view), the Supreme Lord first conceals his own essential nature, which is full (and perfect) knowledge and action, by His own will (to do so), and then makes the contracted state of the Self manifest. Thus, it is proclaimed everywhere that his nature is contracted consciousness \[illegible\] That is said (in the Mālinīvijottara): 
+(Impurity) ‘has assumed a substantial form’ because (Śiva) own nature is concealed. Here (according to this view), the Supreme Lord first conceals his own essential nature, which is full (and perfect) knowledge and action, by His own will (to do so), and then makes the contracted state of the Self manifest. Thus, it is proclaimed everywhere that his nature is contracted consciousness (jñāna). That is said (in the Mālinīvijottara): 
 
 ‘(The wise) prefer (the view that) Impurity (mala) is ignorance, (not a 
 
@@ -801,7 +801,7 @@ Again: ‘Thus it is said to be the impurity of individual souls.”
 ### TĀ 9.67
 
 व्यतिरिक्तः स्वतन््रस्तु न कोऽपि शकटादिवत् ।। ६७ ॥।
-vyatiriktaḥ svatantras tu na ko ‘pi śakaṭādivat ॥ 67 |l 
+vyatiriktaḥ svatantras tu na ko ‘pi śakaṭādivat ॥ 67 ॥ 
 
 (Indeed,) nothing is separate and independent (from consciousness) in the way a cart (is separate from the \[illegible\] (67cd) 
 
@@ -849,7 +849,7 @@ The Paralyzing Power of Impurity
 मलस्य रोद्धी काप्यस्ति शक्तिः सा चाप्यमुक्तगा ।॥ ६८ ॥
 इति न्यायोज्ितो वाटः ्रद्वामा्ैककल्पितः |
 
-malasya roddhrī kāpy asti śaktiḥ sā cāpy amuktagā ॥ 68 II iti nyāyojjhito vādaḥ śraddhāmātraikakalpitaḥ | 
+malasya roddhrī kāpy asti śaktiḥ sā cāpy amuktagā ॥ 68 ॥ iti nyāyojjhito vādaḥ śraddhāmātraikakalpitaḥ | 
 
 The view that Impurity has a peculiar paralyzing power (roddhrī sakti), and that that is present (and operative) in souls that are not liberated," is (a totally) illogical view conceived on the basis of just (blind) belief alone. (68cd-69ab) 
 
@@ -927,13 +927,13 @@ Impurity is not in actual fact an Obscuring Covering of the Soul
 मलेनावृतरूपाणामणुनां यत्सतत्वकम् | ७२ ॥
 शिव एव न यत्पशयेत्तस्यैवासौ मलो भवेत् ।
 
-malaś cāvaraṇam tac ca nāvāryasya viśeṣakam ॥ 71 |l upalambhaṁ vihanty etad ghatasyeva paṭāvṛtiḥ |
+malaś cāvaraṇam tac ca nāvāryasya viśeṣakam ॥ 71 ॥ upalambhaṁ vihanty etad ghatasyeva paṭāvṛtiḥ |
 malenāvṛtarūpāṇām aṇūnār yat satattvakam ॥ 72 ||
 siva eva na yat paśyet tasyaivāsau malo bhavet | 
 
 18¥Some maintain) that impurity is an obscuring covering (āvaraṇa) that does not alter the nature of what it covers, (but merely) prevents one 
 
-1 The arguments advanced in 9/7 Icd-74ab are practically reproduced below in 13/63- 65. The following discussion from 9/7 1cd to 84ab concerns whether Impurity can really be an obscuring covering that envelops the fettered soul, as the Siddhānta ai Abhinava himself says that he has discussed this matter elsewhere (9/84ab), which could only be in MVV 2/157-186, which is translated here for the reader’s convenience. Cf. also below TĀ 13/63-65. tathāhi dīkṣā nāmeyaṁ yā malānāri nikartanī | sā bhedavādināṁ pakṣe kathan nāmopapadyate ॥ 157 ॥ tathāhi yo malo nāma sa kathaṁ citsvabhāvakam | ātmānam āvṛnīte kva vibhor āvaraṇakriyā ॥ 158 ॥ na ca prakāśas tamasā jātu saṁvriyate yataḥ | prakāśodaya \[illegible\] dhvāntadhvaṁsakriyātmakaḥ || 159 ॥ kir cāvaraṇam \[illegible\] hi raśmyāder gatidharmiṇaḥ | pratighātātmakari tat kiń vibhor agatidharminaḥ ॥ 160 ॥ “Such is thi: ation, that it severs Impurities. How can that be possible, according to the view dualists maintain? Similarly, how can Impurity envelop the Self, the nature of which is consciousness? Where does the pervasive Lord’s act of obscuration (operate)? For indeed, light (can never be) obscured by darkness. (This is why) this dawning of light is the act that destroys darkness. What is an obscuring covering said to be? (If you say that) it blocks the moving rays etc. (of light), how can (it affect) the pervasive Lord, who is immobile? (157-160) api vā jñṁñeyatāmātratirodhaiva({-dhānam) hi saṁvṛteḥ | paṭādinā ghaṭ{ādeḥ syān na svarūpānyathāsthitiḥ ॥ 161 ॥ na cātmānaś cidātmatvāj jñeyatvam adhiśerate | tad āvaraṇam \[illegible\] tu śabdeṣv api na śobhate | 162 ॥ nanv īTśvarasya te jṁeyā anṇavaḥ katham īdṛśam |
+1 The arguments advanced in 9/7 Icd-74ab are practically reproduced below in 13/63- 65. The following discussion from 9/7 1cd to 84ab concerns whether Impurity can really be an obscuring covering that envelops the fettered soul, as the Siddhānta ai Abhinava himself says that he has discussed this matter elsewhere (9/84ab), which could only be in MVV 2/157-186, which is translated here for the reader’s convenience. Cf. also below TĀ 13/63-65. tathāhi dīkṣā nāmeyaṁ yā malānāri nikartanī | sā bhedavādināṁ pakṣe kathan nāmopapadyate ॥ 157 ॥ tathāhi yo malo nāma sa kathaṁ citsvabhāvakam | ātmānam āvṛnīte kva vibhor āvaraṇakriyā ॥ 158 ॥ na ca prakāśas tamasā jātu saṁvriyate yataḥ | prakāśodaya \[illegible\] dhvāntadhvaṁsakriyātmakaḥ || 159 ॥ kir cāvaraṇam uktaṁ hi raśmyāder gatidharmiṇaḥ | pratighātātmakari tat kiń vibhor agatidharminaḥ ॥ 160 ॥ “Such is thi: ation, that it severs Impurities. How can that be possible, according to the view dualists maintain? Similarly, how can Impurity envelop the Self, the nature of which is consciousness? Where does the pervasive Lord’s act of obscuration (operate)? For indeed, light (can never be) obscured by darkness. (This is why) this dawning of light is the act that destroys darkness. What is an obscuring covering said to be? (If you say that) it blocks the moving rays etc. (of light), how can (it affect) the pervasive Lord, who is immobile? (157-160) api vā jñṁñeyatāmātratirodhaiva({-dhānam) hi saṁvṛteḥ | paṭādinā ghaṭ{ādeḥ syān na svarūpānyathāsthitiḥ ॥ 161 ॥ na cātmānaś cidātmatvāj jñeyatvam adhiśerate | tad āvaraṇam \[illegible\] tu śabdeṣv api na śobhate | 162 ॥ nanv īTśvarasya te jṁeyā anṇavaḥ katham īdṛśam |
 
 *[p. 75]* ^pg92
 
@@ -955,7 +955,7 @@ paṭādi
 
 na tu \[paṭādivan neti pāthaḥ\] vijñātur asty āvaraṇasamibhavaḥ ॥ 167 ॥
 malaś cāvyāpako vyāptur āvāraka iti sphuṭam |
-ghate ‘pi vyomni sadadhyād aśŭnyatvarn svarūpataḥ ॥ 168 ॥ 
+ghate ‘pi vyomni sadadhyād aśŭnyatvaṁ svarūpataḥ ॥ 168 ॥ 
 
 Moreover, the Lord’s omniscience is destroyed in this way. He does not know the souls who are enveloped (in darkness), and their (obscuring darkness) can never be destroyed. (Surely the opponent may object that,) if the colour blue is devoid of an obscuring covering, (then it is) the perceiver (of that blue who) is obscured. This being so, (he) does not see it. (We reply that) there is no impediment in this way. The omniscient one is not enveloped by Impurity. (165-166) 
 
@@ -971,8 +971,8 @@ malasadbhāvamātrari hi tasyāvaraṇam ucyate |
 malena sa dvitīyo ‘nur āvṛtaḥ paribhāṣyate ॥ 170 ॥
 hantānena nayenaiṣa \[eveti pāṭhaḥ\] śivamuktātmanām api |
 sthitam āvaraṇaṁ satyaṁń malasadbhāvamātrataḥ ॥ 171 ॥
-kirn cāvṛto malenātmā malam eva na vetti kim |
-tadasańivedane tasya \[illegible\] malāntaram ucyate ॥ 172 ॥ 
+kiṁ cāvṛto malenātmā malam eva na vetti kim |
+tadasańivedane tasya kiṁ malāntaram ucyate ॥ 172 ॥ 
 
 If (you were to say that) Impurity does not do anything to the Self, because it is not subject to (Impurity’s) authority to do so, then how could it be capable of covering it 
 
@@ -984,10 +984,10 @@ If (you were to say that) Impurity does not do anything to the Self, because it 
 
 ॥ 
 
-ataḥ kirn malaṁ vettu (> vettus) \[vettum iti pāthaḥ\] tarhi vidyākale vinā |
+ataḥ kiṁ malaṁ vettu (> vettus) \[vettum iti pāthaḥ\] tarhi vidyākale vinā |
 sarvajñatvar bhavet tac ca malar viditam eva sat || 173 ॥
 jahātvātmābhyupāyais tais tair vicitraiḥ prakalpitaiḥ |
-kirn cāvaranam etena yasyātmani bhavet tataḥ ॥ 174 ॥
+kiṁ cāvaranam etena yasyātmani bhavet tataḥ ॥ 174 ॥
 ghaṭādau jñātṛkartṛtve katham asya bhaviṣyataḥ \\ nanu vidyākale kiṁcijjñatvakartṛtvade smṛte ॥ 175 ॥
 itthaṁ vimūdhamatayo vañcyante na tu panditāḥ |
 jadasvabhāvā 
@@ -1004,10 +1004,10 @@ viśeṣyatāri katha nāma sāṁśavastūcitari hi tat \\ nanu devaḥ kalāvi
 vyanaktu sarvato hanta nāsyāśaktir athāgrahaḥ |
 male sadātane cāsya kathaṁ muktir bhaviṣyati ॥ 179 ॥
 raudrī (roddhrī) śaktir malasyāsti sā ca kvāpi nivartate |
-kvāpi pravartate ceti dhig idaḥ mūdhabhāṣitam ॥ 180 ॥
+kvāpi pravartate ceti dhig idaṁ mūdhabhāṣitam ॥ 180 ॥
 jadānāri ko ‘nusaṁdhiḥ syāt tarn vinaitat \[illegible\] bhavet |
 atha tatrāpi devasya hetutābhyupagamyate ॥ 181 ॥
-kirn nimittam asau devas tām śaktiḥ saṁpravartayet |
+kiṁ nimittam asau devas tām śaktiḥ saṁpravartayet |
 pravartitāṁ vā (171 nāma tā nivartayate punaḥ || 182 ॥ 
 
 (The opponent replies that) the power of consciousness is made manifest with specifications such as ‘limited’. (Our response is,) how can (consciousness) be differentiated? That is possible (only) in the case of an entity with parts. (177cd-178ab) 
@@ -1050,7 +1050,7 @@ With this doubt in mind, he says:
 धर्मीद्धर्मिणि यो भेदः समवायेन चैकता ।। ७४ ॥।
 न तद्धवद्धिरुदितं कणभोजनशिष्यवत् ।
 
-dharmād dharmini yo bhedaḥ samavāyena caikatā ॥ 74 I|
+dharmād dharmini yo bhedaḥ samavāyena caikatā ॥ 74 ॥
 na tadbhavadbhir udita kanabhojanaśiṣyavat | 
 
 According to you (and we agree), an attribute is not separate from its possessor, as the followers of Kanāda maintain; (rather,) they are in a state of oneness by way of (their) inherence (in one another). (74cd-75ab) 
@@ -1086,9 +1086,9 @@ Surely (an opponent may object that), even if (their) nature is not destroyed, w
 नामूर्तेन न मूर्तेन प्रावरीतुं च शक्यते ॥ ७५ ॥
 ज्ञानं चाक्ुषरश्मीनां तथाभावे सरत्यपि ।
 
-nāmūrtena na mūrtena prāvarītuṁ ca śakyate ॥ 75 |I \[illegible\] cākṣuṣaraśmīnāri tathābhāve saraty api | 
+nāmūrtena na mūrtena prāvarītuṁ ca śakyate ॥ 75 ॥ \[illegible\] cākṣuṣaraśmīnāri tathābhāve saraty api | 
 
-(Impurity), whether it has a form or not, cannot veil noetic consciousness \[illegible\] which (is formless), even though (the fettered soul) continues to transmigrate (saraty api). That is so with the rays of vision’ (that can be covered by a veil). (75cd-76ab) 
+(Impurity), whether it has a form or not, cannot veil noetic consciousness (jñāna), which (is formless), even though (the fettered soul) continues to transmigrate (saraty api). That is so with the rays of vision’ (that can be covered by a veil). (75cd-76ab) 
 
 #### Viveka on 9.75–76
 
@@ -1105,7 +1105,7 @@ Surely (one may argue), what is the need to obstinately determine whether (what 
 सएवच मलो मूर्त : किं ज्ञानेन न वेद्यते || ७६ ||
 सर्वगेण ततः सर्वः सर्वज्ञत्वं न किं भजेत् ।
 sa eva ca malo mūrtaḥ ki jñānena na vedyate || 76 ॥
-sarvageṇa tataḥ sarvaḥ sarvajñatvaṁ na kirn bhajet | 
+sarvageṇa tataḥ sarvaḥ sarvajñatvaṁ na kiṁ bhajet | 
 
 That same Impurity has a form (and does not). Why is it not perceived by consciousness (jñāna) that is all-pervasive? Thus, why should not everyone be omniscient? (76cd-77ab) 
 
@@ -1142,7 +1142,7 @@ Surely (one may ask), when the insentient is presided over by consciousness, if 
 न च चेतनमात्मानमस्वतन््रो मल; क्षमः । ७८ ॥
 आवरीतुं भ क कके कै क चक कैक केक |
 
-na ca cetanam ātmānam asvatantro malaḥ kṣamaḥ ॥ 78 I| 
+na ca cetanam ātmānam asvatantro malaḥ kṣamaḥ ॥ 78 ॥ 
 
 Āvarītuṁ 
 
@@ -1175,7 +1175,7 @@ Such is your (view) also. Thus he says:
 
 उक्तं भवद्धिरेवेत्थं जडः कती नहि स्वयम् ॥ ७९ ॥
 स्वतच्रस्येश्वरस्यैताः शक्तयः प्ररिकाः किल ।
-\[illegible\] bhavadbhir evettharn jadaḥ kartā na hi svayam ॥ 79 ॥
+\[illegible\] bhavadbhir evetthaṁ jadaḥ kartā na hi svayam ॥ 79 ॥
 svatantrasyeśvarasyaitāḥ śaktayaḥ prerikāḥ kila | 
 
 You (yourselves maintain) as much, saying that an insentient entity is not an agent (independently) by itself. Indeed, (it is) these energies that 
@@ -1196,7 +1196,7 @@ Then what (happens)? With this doubt in mind, he says:
 
 मद्यं सुते मदं दु -खसुखमोहफलात्मकम् |
 
-ataḥ karmavipākajñaprabhuśaktibaleritam ॥ 80 II madyar sūte madar duhkhasukhamohaphalātmakam | 
+ataḥ karmavipākajñaprabhuśaktibaleritam ॥ 80 ॥ madyar sūte madar duhkhasukhamohaphalātmakam | 
 
 Thus, impelled by the strength of the power of the Lord (prabhuśakti), who knows (the degree of) the maturity of (the soul’s) Karma, wine inebriates, resulting in pain, pleasure, and delusion. (80cd- 
 

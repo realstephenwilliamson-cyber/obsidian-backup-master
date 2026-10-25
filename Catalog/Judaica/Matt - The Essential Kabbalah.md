@@ -18,8 +18,7 @@ language:
   - English
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The Essential Kabbalah (Matt)]]"
 aliases: []

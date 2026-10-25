@@ -164,7 +164,7 @@ The conquest of the demons: for in that poem his conquest of all three worlds is
 
 A An example of poetic suggestion of āksepa (feigned or pregnant denial) is as follows:
 
-He can express all Hayagriva’s virtues who can measure by jars the water of the sea.[^A352-1]’
+He can express all Hayagriva’s virtues who can measure by jars the water of the sea.[^A352-1]
 
 Here by means of the \[expressed\] figure hyperbole there appears a \[suggested} ākṣepa, which takes the form of proclaiming that Hayagrīva's virtues are indescribable and which has the purpose of showing that in their excellence these virtues are unique.[^A352-2]
 
@@ -208,7 +208,7 @@ ment connected (with that particular statement).
 
 L Is possible: by this word he shows that the consideration at this point of suggestion based on the power of words is incidental \[the matter properly under consideration being suggestion based on tbe power of meaning\].
 
-\[After translating the Prakrit stanza “Since fruit depends on fate,” etc., into Sanskrit. Abbinava continues:\] Unlike other trees such as the mango and the like, tbe asoka tree does not bear Íruit. Wbat can be done about it? But its flowers are extremely beautiful. By expressing this mucb the denotation of the sentence is complete. Before \[we reach this point), we apprehend a substantiation of this \[particular\] fact through the \[double\] power of the \[ambiguous\] word phale (fruit or reward). The general proposition takes the form of the following observation: “Sometimes, because of fate, the result in tbe form of success may not be achieved even by a man of uncommon ambition who sets forth with the correct means.” But now a difficulty arises because an allegory (aprastutapraśamsā) is suggested[^L355-1]’ as tbe predominant meaning of the sentence as a whole. How then can the figure substantiation be suggested. since two predominant meanings cannot coexist? In view of this diffcwty he says, As the suggestion is here revealed by a word. For it will be stated \[in 3.1-2} that all the forms of suggestion are revealed either by single words or by complete sentences. In the verse we are discussing substantiation (arthāntaranyãsa) is the predominant suggestion in a single word, whereas allegory (aprastutaprasamsā) is the predominant suggestion in the sentence. But of these two it is the relation of substantiating and substantiated statements (i.e., the arthāntaranyāsa) furnished by the word phale that appears in greater predominance[^L355-2] and so one will categorize the verse as an example of
+\[After translating the Prakrit stanza “Since fruit depends on fate,” etc., into Sanskrit. Abbinava continues:\] Unlike other trees such as the mango and the like, tbe asoka tree does not bear Íruit. Wbat can be done about it? But its flowers are extremely beautiful. By expressing this mucb the denotation of the sentence is complete. Before \[we reach this point), we apprehend a substantiation of this \[particular\] fact through the \[double\] power of the \[ambiguous\] word phale (fruit or reward). The general proposition takes the form of the following observation: “Sometimes, because of fate, the result in tbe form of success may not be achieved even by a man of uncommon ambition who sets forth with the correct means.” But now a difficulty arises because an allegory (aprastutapraśamsā) is suggested[^L355-1] as tbe predominant meaning of the sentence as a whole. How then can the figure substantiation be suggested. since two predominant meanings cannot coexist? In view of this diffcwty he says, As the suggestion is here revealed by a word. For it will be stated \[in 3.1-2} that all the forms of suggestion are revealed either by single words or by complete sentences. In the verse we are discussing substantiation (arthāntaranyãsa) is the predominant suggestion in a single word, whereas allegory (aprastutaprasamsā) is the predominant suggestion in the sentence. But of these two it is the relation of substantiating and substantiated statements (i.e., the arthāntaranyāsa) furnished by the word phale that appears in greater predominance[^L355-2] and so one will categorize the verse as an example of
 
 suggested substantiation (arthāntaranyāsadhvani).
 
@@ -372,7 +372,7 @@ given beauty.
 
 A suggestion of aprastutaprasamsā is as follows:[^L364-2]
 
-Flying about the ketaka trees, you wil kill yourself on their thorns, O bee; while ia your wandering you will not find a flower sweet as the jasmine.[^L364-3]’
+Flying about the ketaka trees, you wil kill yourself on their thorns, O bee; while ia your wandering you will not find a flower sweet as the jasmine.[^L364-3]
 
 A certain lady, walking in a garden with her lover, sees a bee and addresses these words to it. Thus the direct statement about the bee is contextual.[^L364-4] You cannot say that we understand this meaning to be non-contextual from the use of the vocative,[^L364-5] because the vocative can be contextual, being due to the lady's simplicity.[^L364-6] So the aprastuta-praśamsā cannot be reached simply by the power of denotation. It is only after the denotative process has been completed that a reference to some other matter is suggested by the force of the directly expressed sense.”[^L364-7] The suggestion is that a lady of good family, beautiful and proud, comparable to a delicate, sweet-smelling jasmine, prompted by her sincere love, berates her lover who has been roaming hither and yon among prostitutes of low birth, who have gained a reputation for their artificial skill, who are surrounded by thorns in the persons of their bawds, and who can well be represented by a grove of ketaka trees with
 
@@ -386,7 +386,7 @@ The same verse carries also a suggestion of the figure sasandeha (doubt), for th
 
 *[p. 351]* ^pg366
 
-is suggested to the effect that “I do not know what it is.” There is also a suggestion of prativastūpamā.[^L364-9]” The prativastūpamā that is suggested is this. A lady who has refused to accept her lover's apologies subsequently feels remorse and pain at the separation occasioned \[by her anger\], so she prepares to welcome her lover back and after completing the decoration of her person is ready in the love chamber for his arrival. It is a ful-moon night and her lover arrives, guided by the gobetween. The lover fatters the lady, telling her, “the ornamental markings on your swelling breast stir my passion.” to which the analogous sentence is that "this beautiful appearance, dark as the petal of a blue waterlily, on the moon does the same.™'? The term “reservoir of nectar,” although it is used only as a synonym for the moon, still suggests the reason for the god of love's seeking to allay his heat there. So we have also a suggestion of hetvalarikāra (the figure cause).[^L364-11]' There is also a suggestion of sahokti (pairing) in the form that the beauty of your breasts and the beauty of the moon together stir my passion. From the apprehension of the sense that “the moon is like your breast and the curve of your breast is like that of the moon, the figure upameyopamā[^L364-12]” is also suggested. In this way, other varieties \[of suggested figures of speech\] can be imagined. For these words of a great poet are like a magic wishing-cow, \[endless in the gifts they can furnish). For it has been said:
+is suggested to the effect that “I do not know what it is.” There is also a suggestion of prativastūpamā.[^L364-9] The prativastūpamā that is suggested is this. A lady who has refused to accept her lover's apologies subsequently feels remorse and pain at the separation occasioned \[by her anger\], so she prepares to welcome her lover back and after completing the decoration of her person is ready in the love chamber for his arrival. It is a ful-moon night and her lover arrives, guided by the gobetween. The lover fatters the lady, telling her, “the ornamental markings on your swelling breast stir my passion.” to which the analogous sentence is that "this beautiful appearance, dark as the petal of a blue waterlily, on the moon does the same.™'? The term “reservoir of nectar,” although it is used only as a synonym for the moon, still suggests the reason for the god of love's seeking to allay his heat there. So we have also a suggestion of hetvalarikāra (the figure cause).[^L364-11] There is also a suggestion of sahokti (pairing) in the form that the beauty of your breasts and the beauty of the moon together stir my passion. From the apprehension of the sense that “the moon is like your breast and the curve of your breast is like that of the moon, the figure upameyopamā[^L364-12] is also suggested. In this way, other varieties \[of suggested figures of speech\] can be imagined. For these words of a great poet are like a magic wishing-cow, \[endless in the gifts they can furnish). For it has been said:
 
 The playful gesture of one man produces results unending; another's efort cannot achieve a particle of gain.
 
@@ -518,7 +518,7 @@ A A suggested sense is of two sorts: it may be clear or indistinct. Whether occa
 
 For example:
 
-O auntie! Without touching the lotuses or scaring away the geese, someone has laid out a cloud upside down on the village tank.[^A373-1]'
+O auntie! Without touching the lotuses or scaring away the geese, someone has laid out a cloud upside down on the village tank.[^A373-1]
 
 (Miañka, Sattasai 2.10)
 
@@ -562,7 +562,7 @@ and where this expressed meaning then appears as subordinate to the suggested me
 
 O farmer's bride, gather the flowers on the ground and don't shake the sephālikã tree.
 
-Your bangles will end on an ugly note if your husband's father hears them.[^A376-1]’
+Your bangles will end on an ugly note if your husband's father hears them.[^A376-1]
 
 Here we have a wife, who is engaged in sex with her paramour, being warned by a friend because of the noise, heard afar, of ber jingling bangles. This \[context\] is necessary in order to understand the direct meaning. But after the expressed meaning has been understood, inasmuch as it has been expressed only in order to furnish the final meaning which is the hiding of the woman's adultery, it becomes subordinate to the suggestion. Accordingly, the verse should be included in the type of dhvani where the suggested sense is similar to a reverberation.
 

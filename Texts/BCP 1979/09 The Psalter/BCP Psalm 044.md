@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 44
 verses: 26
-page_range:
-  - 646
-  - 647
+page_range: "646–647"
 aliases:
   - "BCP Psalm 44"
   - "BCP 646"
@@ -49,7 +47,7 @@ and my sword does not give me the victory. ^44-6
 **44:7** Surely, you gave us victory over our adversaries \*  
 and put those who hate us to shame. ^44-7
 
-[p. 646]
+[p. 646] ^pg646
 
 **44:8** Every day we gloried in God, \*  
 and we will praise your Name for ever. ^44-8
@@ -94,7 +92,7 @@ or stretched out our hands to some strange god, ^44-20
 **44:21** Will not God find it out? \*  
 for he knows the secrets of the heart. ^44-21
 
-[p. 647]
+[p. 647] ^pg647
 
 **44:22** Indeed, for your sake we are killed all the day long; \*  
 we are accounted as sheep for the slaughter. ^44-22

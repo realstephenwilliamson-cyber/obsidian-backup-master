@@ -17,8 +17,7 @@ language:
   - English
 pages: 268
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Bihani Sarkar - Heroic Shaktism_ The Cult of Durga in Ancient Indian Kingship-OUP Oxford (2017).pdf]]"
   - "[[Library/Hinduism/Heroic Shaktism - The Cult of Durga in Ancient Indian (Sarkar)/Heroic Shaktism - The Cult of Durga in Ancient Indian (Sarkar)]]"

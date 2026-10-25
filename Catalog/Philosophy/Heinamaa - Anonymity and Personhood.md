@@ -17,8 +17,7 @@ language:
   - English
 pages: 27
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Anonymity_and_personhood_Merleau_Pontys.pdf]]"
   - "[[Library/Philosophy/Anonymity and Personhood (Heinamaa)]]"

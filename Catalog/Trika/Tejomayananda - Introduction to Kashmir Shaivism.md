@@ -17,8 +17,7 @@ language:
   - English
 pages: 113
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Tejomayananda - Introduction to Kashmir Shaivism (1979).pdf]]"
   - "[[Library/Trika/Introduction to Kashmir Shaivism (Tejomayananda)/Introduction to Kashmir Shaivism (Tejomayananda)]]"

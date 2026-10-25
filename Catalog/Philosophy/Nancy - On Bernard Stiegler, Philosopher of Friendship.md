@@ -18,7 +18,7 @@ language:
 pages: 169
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Nancy - On Bernard Stiegler, Philosopher of Friendship (2024).pdf]]"
   - "[[Library/Philosophy/On Bernard Stiegler (Nancy)/On Bernard Stiegler (Nancy)]]"

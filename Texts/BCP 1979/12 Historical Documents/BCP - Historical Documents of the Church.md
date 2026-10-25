@@ -5,9 +5,7 @@ section: "Historical Documents"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Misc/histdocs.html"
-page_range:
-  - 864
-  - 878
+page_range: "864–878"
 aliases:
   - "BCP 864"
   - "BCP 865"
@@ -29,7 +27,7 @@ aliases:
 
 [[BCP 1979]] · *Historical Documents* · pages 864–878
 
-[p. 864]
+[p. 864] ^pg864
 
 ### Definition of the Union of the Divine and Human Natures in the Person of Christ
 
@@ -50,7 +48,7 @@ equal, the Majesty co-eternal. Such as the Father is, such is the Son, and such 
 incomprehensible. The Father eternal, the Son eternal, and the Holy Ghost eternal. And yet they are not three eternals, but one eternal. As also there are not three incomprehensibles, nor three uncreated, but one uncreated, and  
 one incomprehensible. So likewise the Father is Almighty, the Son Almighty, and the Holy Ghost Almighty. And yet they are not three Almighties, but one Almighty.
 
-[p. 865]
+[p. 865] ^pg865
 
 So the Father is God, the Son is God, and the Holy Ghost is God. And yet they are not three Gods, but one God. So likewise the Father is Lord, the Son Lord, and the Holy Ghost Lord. And yet not three Lords, but one Lord. For like as we are compelled by the Christian verity to acknowledge every Person by  
 himself to be both God and Lord, So are we forbidden by the Catholic Religion, to say, There be three Gods, or three Lords. The Father is made of none, neither created, nor begotten. The Son is of the Father alone, not made, nor created, but begotten. The Holy Ghost is of the Father and of the Son, neither made, nor created, nor begotten,  
@@ -67,7 +65,7 @@ whence he will come to judge the quick and the dead. At whose coming all men wil
 own works. And they that have done good shall go into life everlasting; and they that have done evil into  
 everlasting fire. This is the Catholic Faith, which except a man believe faithfully, he cannot be saved.
 
-[p. 866]
+[p. 866] ^pg866
 
 ### Preface
 
@@ -95,7 +93,7 @@ Though it be appointed in the afore written preface, that all things shall be re
 
 There is but one living and true God, everlasting, without body, parts, or passions; of infinite power, wisdom, and goodness; the Maker, and Preserver of all things both visible and invisible. And in the unity of this Godhead there be three Persons, of one substance, power, and eternity; the Father, the Son, and the Holy Ghost. ^article-1
 
-[p. 868]
+[p. 868] ^pg868
 
 ### II. Of the Word or Son of God, which was made very Man.
 
@@ -145,7 +143,7 @@ The Book of Tobias, · Jesus the Son of Sirach,
 
 The Book of Judith, · Baruch the Prophet,
 
-[p. 869]
+[p. 869] ^pg869
 
 The Song of the Three Children, · The Prayer of Manasses,
 
@@ -173,7 +171,7 @@ Original sin standeth not in the following of Adam, (as the Pelagians do vainly 
 
 The condition of Man after the fall of Adam is such, that he cannot turn and prepare himself, by his own natural strength and good works, to faith, and calling upon God. Wherefore we have no power to do good works pleasant and acceptable to God, without the grace of God by Christ preventing us, that we may have a good will, and working with us, when we have that good will. ^article-10
 
-[p. 870]
+[p. 870] ^pg870
 
 ### XI. Of the Justification of Man.
 
@@ -199,7 +197,7 @@ Christ in the truth of our nature was made like unto us in all things, sin only 
 
 Not every deadly sin willingly committed after Baptism is sin against the Holy Ghost, and unpardonable. Wherefore the grant of repentance is not be denied to such as fall into sin after Baptism. After we have received the Holy Ghost, we may depart from grace given, and fall into sin, and by the grace of God we may arise again, and amend our lives. And therefore they are to be condemned, which say, they can no more sin as long as they live here, or deny the place of forgiveness to such as truly repent. ^article-16
 
-[p. 871]
+[p. 871] ^pg871
 
 ### XVII. Of Predestination and Election.
 
@@ -223,7 +221,7 @@ As the Church of Jerusalem, Alexandria, and Antioch, have erred; so also the Chu
 
 The Church hath power to decree Rites or Ceremonies, and authority in Controversies of Faith: and yet it is not lawful for the Church to ordain anything that is contrary to God's Word written, neither may it so expound one place of Scripture, that it be repugnant to another. Wherefore, although the Church be a witness and a keeper of Holy Writ, yet, as it ought not to decree any thing against the same, so besides the same ought not to enforce any thing to be believed for necessity of Salvation. ^article-20
 
-[p. 872]
+[p. 872] ^pg872
 
 ### XXI. Of the Authority of General Councils.
 
@@ -253,7 +251,7 @@ Those five commonly called Sacraments, that is to say, Confirmation, Penance, Or
 
 The Sacraments are not ordained of Christ to be gazed upon, or to be carried about, but that we should duly use them. And in such only as worthily receive the same, they have a wholesome effect or operation: but they that receive them unworthily, purchase to themselves damnation, as Saint Paul saith.
 
-[p. 873]
+[p. 873] ^pg873
 
 ### XXVI. Of the Unworthiness of the Ministers, which hinders not the effect of the Sacraments.
 
@@ -281,7 +279,7 @@ The Sacrament of the Lord's Supper was not by Christ's ordinance reserved, carri
 
 The Wicked, and such as be void of a lively faith, although they do carnally and visibly press with their teeth (as Saint Augustine saith) the Sacrament of the Body and Blood of Christ; yet in no wise are they partakers of Christ: but rather, to their condemnation, do eat and drink the sign or Sacrament of so great a thing. ^article-29
 
-[p. 874]
+[p. 874] ^pg874
 
 ### XXX. Of both Kinds.
 
@@ -309,7 +307,7 @@ Every particular or national Church hath authority to ordain, change, and abolis
 
 The Second Book of Homilies, the several titles whereof we have joined under this Article, doth contain a godly and wholesome Doctrine, and necessary for these times, as doth the former Book of Homilies, which were set forth in the time of Edward the Sixth; and therefore we judge them to be read in Churches by the Ministers, diligently and distinctly, that they may be understanded of the people. ^article-35
 
-[p. 875]
+[p. 875] ^pg875
 
 ### Of the Names of the Homilies
 
@@ -348,7 +346,7 @@ The Power of the Civil Magistrate extendeth to all men, as well Clergy as Laity,
 
 *The original 1571, 1662 text of this Article reads as follows: "The King's Majesty hath the chief power in this Realm of England, and other his Dominions, unto whom the chief Government of all Estates of this Realm, whether they be Ecclesiastical or Civil, in all causes doth appertain, and is not, nor ought to be, subject to any foreign Jurisdiction. Where we attribute to the King's Majesty the chief government, by which Titles we understand the minds of some slanderous folks to be offended; we give not our Princes the*
 
-[p. 876]
+[p. 876] ^pg876
 
 *ministering either of God's Word, or of the Sacraments, the which thing the Injunctions also lately set forth by Elizabeth our Queen do most plainly testify; but that only prerogative, which we see to have been given always to all godly Princes in holy Scriptures by God himself; that is, that they should rule all estates and degrees committed to their charge by God, whether they be Ecclesiastical or Temporal, and restrain with the civil sword the stubborn and evil-doers.*
 
@@ -378,7 +376,7 @@ We, Bishops of the Protestant Episcopal Church in the United States of America, 
 
 \3. That in all things of human ordering or human choice, relating to modes of worship and discipline, or to traditional customs, this Church is ready in the spirit of love and humility to forego all preferences of her own;
 
-[p. 877]
+[p. 877] ^pg877
 
 \4. That this Church does not seek to absorb other Communions, but rather, co-operating with them on the basis of a common Faith and Order, to discountenance schism, to heal the wounds of the Body of Christ, and to promote the charity which is the chief of Christian graces and the visible manifestation of Christ to the world.
 
@@ -406,7 +404,7 @@ That, in the opinion of this Conference, the following Articles supply a basis o
 
 (b) The Apostles' Creed, as the Baptismal Symbol; and the Nicene Creed, as the sufficient statement of the Christian faith.
 
-[p. 878]
+[p. 878] ^pg878
 
 (c) The two Sacraments ordained by Christ Himself--Baptism and the Supper of the Lord --ministered with unfailing use of Christ's words of Institution, and of the elements ordained by Him.
 

@@ -4,7 +4,7 @@ work: "[[Catalog/Judaica/Dan - Kabbalah, A Very Short Introduction]]"
 book: "[[Library/Judaica/Kabbalah, A Very Short Introduction (Dan)/Kabbalah, A Very Short Introduction (Dan)|Kabbalah, A Very Short Introduction (Dan)]]"
 order: 3
 source_pdf: "Library/Judaica/Dan - Kabbalah, A Very Short Introduction (2006).pdf"
-pages: "1–10"
+page_range: "1–10"
 pdf_pages: "12–21"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15

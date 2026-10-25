@@ -17,8 +17,7 @@ language:
   - English
 pages: 523
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Saraswati - Sri Vijnana Bhairava Tantra (2003).pdf]]"
 aliases:

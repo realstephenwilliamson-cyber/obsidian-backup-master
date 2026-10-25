@@ -17,8 +17,7 @@ language:
   - English
 pages: 148
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Arendt, Hannah - Eichmann in Jerusalem.pdf]]"
   - "[[Library/Philosophy/Eichmann in Jerusalem (Arendt)/Eichmann in Jerusalem (Arendt)]]"

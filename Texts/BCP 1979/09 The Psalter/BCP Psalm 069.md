@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 69
 verses: 38
-page_range:
-  - 680
-  - 682
+page_range: "680–682"
 aliases:
   - "BCP Psalm 69"
   - "BCP 680"
@@ -47,7 +45,7 @@ and my faults are not hidden from you. ^69-6
 **69:7** Let not those who hope in you be put to shame through me, Lord GOD of hosts; \*  
 let not those who seek you be disgraced because of me, O God of Israel. ^69-7
 
-[p. 680]
+[p. 680] ^pg680
 
 **69:8** Surely, for your sake have I suffered reproach, \*  
 and shame has covered my face. ^69-8
@@ -90,7 +88,7 @@ be swift and answer me, for I am in distress. ^69-19
 **69:20** Draw near to me and redeem me; \*  
 because of my enemies deliver me. ^69-20
 
-[p. 681]
+[p. 681] ^pg681
 
 **69:21** You know my reproach, my shame, and my dishonor; \*  
 my adversaries are all in your sight." ^69-21
@@ -132,7 +130,7 @@ I will proclaim his greatness with thanksgiving. ^69-32
 **69:33** This will please the LORD more than an offering of oxen, \*  
 more than bullocks with horns and hoofs. ^69-33
 
-[p. 682]
+[p. 682] ^pg682
 
 **69:34** The afflicted shall see and be glad; \*  
 you who seek God, your heart shall live. ^69-34

@@ -17,8 +17,7 @@ language:
   - English
 pages: 134
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[KRI-717_Kularnava Tantra - M.P. Pandit.pdf]]"
 aliases: []

@@ -18,8 +18,7 @@ language:
   - English
 pages: 319
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Sorell, Foisneau (eds.) - Leviathan After 350 Years (2004).pdf]]"
   - "[[Library/Philosophy/Leviathan After 350 Years (Sorell)/Leviathan After 350 Years (Sorell)]]"

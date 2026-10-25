@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 137
 verses: 9
-page_range:
-  - 792
-  - 792
+page_range: "792"
 aliases:
   - "BCP Psalm 137"
   - "BCP 792"

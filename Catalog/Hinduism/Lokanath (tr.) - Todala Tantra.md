@@ -17,8 +17,7 @@ language:
   - English
 pages: 61
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Todala_Tantra.pdf]]"
 aliases:

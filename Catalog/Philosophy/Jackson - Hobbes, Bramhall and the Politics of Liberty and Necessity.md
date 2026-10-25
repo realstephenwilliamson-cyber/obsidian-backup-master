@@ -17,8 +17,7 @@ language:
   - English
 pages: 356
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Jackson - Hobbes, Bramhall and the Politics of Liberty and Necessity (CUP 2007).pdf]]"
   - "[[Library/Philosophy/Hobbes, Bramhall and the Politics of Liberty and Necessity (Jackson)/Hobbes, Bramhall and the Politics of Liberty and Necessity (Jackson)]]"

@@ -19,8 +19,7 @@ language:
   - English
 pages: 261
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Adorno - Lectures 1949-1968, Volume 2 (2025).pdf]]"
   - "[[Library/Philosophy/Lectures 1949-1968, Volume 2 (Adorno)/Lectures 1949-1968, Volume 2 (Adorno)]]"

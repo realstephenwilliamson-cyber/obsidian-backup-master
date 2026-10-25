@@ -4,11 +4,11 @@ book: "[[The Essential Kabbalah (Matt)]]"
 order: 6
 page_range: "73–88"
 ---
-[p. 73]
+[p. 73] ^pg73
 
 # ![[essential-kabbalah-9780062048134_023.png]] The Ten Sefirot
 
-[p. 74]
+[p. 74] ^pg74
 
 ### THE BODY OF GOD
 
@@ -22,7 +22,7 @@ RABBI ISHMAEL said, “I saw the King of kings of kings, the Holy One, blessed b
 
 “His tongue extends from one end of the universe to the other. The width of his forehead is 130 million parasangs; on it are written seventy letters. The black of his right eye is 11,500 parasangs, and so on the left. From his right shoulder to his left shoulder is 160 million parasangs. From his right arm to his left arm is 120 million parasangs. His arms are folded. The fingers on each of his hands are 150 million parasangs, each finger 30 million. His palms are each 40 million parasangs. His toes are 100 million parasangs, each one 20 million. Therefore he is called ‘the great, mighty, and awesome God.’ [p. 75] “But then Metatron told me how to calculate the parasangs. What is their measure? Each parasang is three miles, each mile is 10,000 cubits, each cubit is two spans—measured according to God’s span, which spans the entire universe.”
 
-[p. 76]
+[p. 76] ^pg76
 
 ### THE TEN SEFIROT
 
@@ -42,7 +42,7 @@ Ten sefirot belimah. Their measure is ten, yet infinite. Depth of beginning, dep
 
 Ten sefirot belimah. A vision flashing like lightning. Their limit has no end. God’s word surges through them.
 
-[p. 77]
+[p. 77] ^pg77
 
 ### THE COSMIC TREE
 
@@ -50,13 +50,13 @@ I AM the one who planted this tree for all the world to delight in. With it I sp
 
 Alone I was when I made it. When I spread out my earth, in which I planted and rooted this tree—giving them joy in one another, rejoicing along with them—who was with me? To whom could I reveal this secret of mine?
 
-[p. 78]
+[p. 78] ^pg78
 
 ### THE RIGHTEOUS PILLAR
 
 ONE PILLAR extends from earth to heaven. Its name is Righteous One, named for the righteous. If there are righteous people in the world, the pillar is strengthened; if not, it is weakened. It upholds the entire world, as it is written: “The righteous one is the foundation of the world.” If it weakens, the world cannot endure. So if the world contains just one righteous person, that person sustains the world.
 
-[p. 79]
+[p. 79] ^pg79
 
 ### THE POWER OF THE RIGHTEOUS
 
@@ -66,7 +66,7 @@ But if humans defile themselves by distancing themselves from Torah and mitsvot,
 
 One who understands this secret understands the immense power a human has to build and to destroy. Now, come and see the power of the righteous: they can unite all the sefirot, harmonizing the upper and the lower worlds.
 
-[p. 80]
+[p. 80] ^pg80
 
 ### THE SECRET OF SABBATH
 
@@ -86,7 +86,7 @@ all of whom are crowned with new souls.
 Then the beginning of prayer,
 blessing her with joy, with beaming faces.
 
-[p. 81]
+[p. 81] ^pg81
 
 ### HUMAN AND DIVINE LIMBS
 
@@ -96,7 +96,7 @@ So all those descriptions that we read in the Torah, of God’s hand, foot, ear,
 
 Know and understand that there is no similarity in substance or structure between God and us—except for the intention of the forms of our organs and limbs, which are fashioned as symbols of hidden, supernal realities. The mind cannot know these realities directly; it can only be reminded of them. As when one writes “Reuben son of Jacob.” The form of these letters is not the form, structure, and essence of the real Reuben son of Jacob but simply a mnemonic device. “Reuben son of Jacob” is a symbol of the particular entity called by that name. [p. 82] Since God wanted to purify us, he created in the human body various organs and limbs—hidden and revealed—as symbols of the divine structure. If one succeeds in purifying a particular organ or limb, it becomes a throne for the sublime, inner reality called by that name: “eye,” “hand,” or any other one.
 
-[p. 83]
+[p. 83] ^pg83
 
 ### THE PALM TREE OF DEBORAH
 

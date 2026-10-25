@@ -18,8 +18,7 @@ language:
   - English
 pages: 267
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Dyczkowski (tr.) - The Aphorisms of Siva, the Sivasutra with Bhaskara's Varttika (SUNY 1992).pdf]]"
   - "[[Library/Trika/The Aphorisms of Siva (Bhaskara)/The Aphorisms of Siva (Bhaskara)]]"

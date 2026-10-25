@@ -38,7 +38,7 @@
   // 3. catalog
   const SUBJ = ['Trika', 'Judaica', 'Christianity', 'Philosophy', 'Sanskrit-Study', 'Hinduism', 'Biblical-Studies', 'Other'];
   const TYPES = ['book', 'article', 'chapter', 'thesis', 'collection', 'multi-volume-set', 'text', 'other']; // 'text' added 14 Oct 2026 (audit K-08)
-  const TEXT = ['searchable', 'scan', 'print'], STATUS = ['keep', 'reading', 'review', 'delete'];
+  const TEXT = ['searchable', 'scan', 'print'], STATUS = [null, 'reading', 'review', 'delete'];
   const catNotes = md.filter(f => /^Catalog\/[^/]+\/[^/]+\.md$/.test(f.path) && !f.path.startsWith('Catalog/Scholars/') && f.basename !== f.parent.name);
   const linkedBy = {}; const badFileLinks = []; const propProblems = []; const review = [], scan = [], printOnly = [], subjMismatch = [], noFiles = [];
   const isList = v => Array.isArray(v);
@@ -56,7 +56,7 @@
     if (fm.status !== undefined && !STATUS.includes(fm.status)) pb.push('status:' + JSON.stringify(fm.status));
     if (fm.author !== undefined && fm.author !== null && !isList(fm.author)) pb.push('author-not-list');
     if (fm.language !== undefined && fm.language !== null && !isList(fm.language)) pb.push('language-not-list');
-    if (fm.physical_copy !== undefined && typeof fm.physical_copy !== 'boolean') pb.push('physical_copy:' + JSON.stringify(fm.physical_copy));
+    if (fm.print !== undefined && typeof fm.print !== 'boolean') pb.push('print:' + JSON.stringify(fm.print));
     if (fm.title === undefined || fm.title === null || fm.title === '') pb.push('title:empty');
     if (pb.length) propProblems.push([f.path, pb]);
     if (fm.status === 'review') review.push(f.path);

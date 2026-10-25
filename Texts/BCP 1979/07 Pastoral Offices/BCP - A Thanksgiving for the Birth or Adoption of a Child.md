@@ -5,9 +5,7 @@ section: "Pastoral Offices"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/PastoralOffices/childthanks.html"
-page_range:
-  - 439
-  - 445
+page_range: "439–445"
 aliases:
   - "BCP 439"
   - "BCP 440"
@@ -21,7 +19,7 @@ aliases:
 
 [[BCP 1979]] · *Pastoral Offices* · pages 439–445
 
-[p. 439]
+[p. 439] ^pg439
 
 ## A Thanksgiving for the Birth or Adoption of a Child
 
@@ -33,7 +31,7 @@ aliases:
 
 *At the proper time, the Celebrant invites the parents and other members of the family to present themselves before the Altar.*
 
-[p. 440]
+[p. 440] ^pg440
 
 ### For the Birth of a Child
 
@@ -55,7 +53,7 @@ Dear Friends: It has pleased God our heavenly Father to answer the earnest praye
 
 Parent(s) · I do.
 
-[p. 441]
+[p. 441] ^pg441
 
 *Then if the child is old enough to answer, the Celebrant asks*
 
@@ -89,7 +87,7 @@ the Almighty has done great things for me,
 and holy is his Name. He has mercy on those who fear him \*  
 in every generation.
 
-[p. 442]
+[p. 442] ^pg442
 
 He has shown the strength of his arm, \*  
 he has scattered the proud in their conceit. He has cast down the mighty from their thrones, \*  
@@ -112,7 +110,7 @@ in the midst of you, O Jerusalem.
 Hallelujah! Glory to the Father, and to the Son, and to the Holy Spirit: \*  
 as it was in the beginning, is now, and will be for ever. Amen.
 
-[p. 443]
+[p. 443] ^pg443
 
 *or this*
 
@@ -135,7 +133,7 @@ Let us pray.
 
 O God, you have taught us through your blessed Son that whoever receives a little child in the name of Christ receives Christ himself: We give thanks for the blessing you have bestowed upon this family in giving them a child. Confirm their joy by a lively sense of your presence with them, and give them calm strength and patient wisdom as they seek to bring this child to love all that is true and noble, just and pure, lovable and gracious, excellent and admirable, following the example of our Lord and Savior, Jesus Christ. *Amen.*
 
-[p. 444]
+[p. 444] ^pg444
 
 ### Prayers
 
@@ -157,7 +155,7 @@ O eternal God, you have promised to be a father to a thousand generations of tho
 
 Into your hands, O God, we place your child *N.* Support *him* in *his* successes and in *his* failures, in *his* joys and in *his*
 
-[p. 445]
+[p. 445] ^pg445
 
 sorrows. As *he* grows in age, may *he* grow in grace, and in the knowledge of *his* Savior Jesus Christ. *Amen.*
 

@@ -16,8 +16,7 @@ language:
   - Sanskrit
 pages: 1
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Opening invocations - The Five Brahmas and the Faces of Sadasiva.pdf]]"
 aliases:

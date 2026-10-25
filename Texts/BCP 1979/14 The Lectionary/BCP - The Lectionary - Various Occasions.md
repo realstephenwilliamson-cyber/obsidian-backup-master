@@ -5,9 +5,7 @@ section: "The Lectionary"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Lectionary/Various.html"
-page_range:
-  - 927
-  - 929
+page_range: "927–929"
 aliases:
   - "BCP 928"
   - "BCP 929"
@@ -18,11 +16,9 @@ aliases:
 
 [[BCP 1979]] · *The Lectionary* · pages 927–929
 
-[p. 927]
+[p. 927] ^pg927
 
 ## Various Occasions
-
-****Psalm**** **Lessons**
 
 ****1.**** **Of the Holy Trinity** [[BCP Psalm 029#^29-1|29]] [[Torah 13 - Shemot#^3-11|Exodus 3:11-15]] [[Romans 11#^11-33|Romans 11:33-36]] [[Matthew 28#^28-18|Matthew 28:18-20]]
 
@@ -34,9 +30,7 @@ aliases:
 
 ****5.**** **Of the Holy Eucharist** [[BCP Psalm 034#^34-1|34]] *or* [[BCP Psalm 116#^116-10|116:10-17]] [[Torah 46 - Eikev#^8-2|Deuteronomy 8:2-3]] [[Revelation 19#^19-1|Revelation 19:1-2a]],4-9 *or* [[1 Corinthians 10#^10-1|1 Corinthians 10:1-4]],16-17 *or* [[1 Corinthians 11#^11-23|1 Corinthians 11:23-29]] [[John 06#^6-47|John 6:47-58]]
 
-[p. 928]
-
-****Psalm**** **Lessons**
+[p. 928] ^pg928
 
 ****6.**** **Of the Holy Cross** [[BCP Psalm 040#^40-1|40:1-11]] *or* [[BCP Psalm 040#^40-5|40:5-11]] [[Isaiah 52#^52-13|Isaiah 52:13-15]]; [[Isaiah 53#^53-10|53:10-12]] [[1 Corinthians 01#^1-18|1 Corinthians 1:18-24]] [[John 12#^12-23|John 12:23-33]]
 
@@ -56,8 +50,6 @@ aliases:
 
 [p. 929]
 
-****Psalm**** **Lessons**
-
 ****11.**** **At Confirmation** [[BCP Psalm 001#^1-1|1]] *or* [[BCP Psalm 139#^139-1|139:1-9]] [[Isaiah 61#^61-1|Isaiah 61:1-9]] *or* [[Jeremiah 31#^31-31|Jeremiah 31:31-34]] *or* [[Ezekiel 37#^37-1|Ezekiel 37:1-10]] [[Romans 08#^8-18|Romans 8:18-27]] *or* [[Romans 12#^12-1|Romans 12:1-8]] *or* [[Galatians 05#^5-16|Galatians 5:16-25]] *or* [[Ephesians 04#^4-7|Ephesians 4:7]],11-16 [[Matthew 05#^5-1|Matthew 5:1-12]] *or* [[Matthew 16#^16-24|Matthew 16:24-27]] *or* [[Luke 04#^4-16|Luke 4:16-22]] *or* [[John 14#^14-15|John 14:15-21]]
 
 ****12.**** **Anniversary of the Dedication of a Church** [[BCP Psalm 084#^84-1|84]] *or* [[BCP Psalm 084#^84-1|84:1-6]] [[I Kings 08#^8-22|1 Kings 8:22-30]] *or* [[Torah 07 - Vayetzei#^28-10|Genesis 28:10-17]] [[1 Peter 02#^2-1|1 Peter 2:1-5]],9-10 [[Matthew 21#^21-12|Matthew 21:12-16]]
@@ -72,9 +64,7 @@ aliases:
 
 ****15.**** **For the Ministry III** [[BCP Psalm 015#^15-1|15]] [[Torah 17 - Yitro#^19-3|Exodus 19:3-8]] [[1 Peter 04#^4-7|1 Peter 4:7-11]] [[Matthew 16#^16-24|Matthew 16:24-27]]
 
-[p. 930]
-
-****Psalm**** **Lessons**
+[p. 930] ^pg930
 
 ****16.**** **For the Mission of the Church I** [[BCP Psalm 096#^96-1|96]] *or* [[BCP Psalm 096#^96-1|96:1-7]] [[Isaiah 02#^2-2|Isaiah 2:2-4]] [[Ephesians 02#^2-13|Ephesians 2:13-22]] [[Luke 10#^10-1|Luke 10:1-9]]
 

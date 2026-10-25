@@ -4,7 +4,7 @@ work: "[[Catalog/Judaica/Verman - The Books of Contemplation]]"
 book: "[[Library/Judaica/The Books of Contemplation (Verman)/The Books of Contemplation (Verman)|The Books of Contemplation (Verman)]]"
 order: 1
 source_pdf: "Library/Judaica/Verman - The Books of Contemplation (1992).pdf"
-pages: "1–6"
+page_range: "1–6"
 pdf_pages: "1–6"
 text_source: "the PDF's earlier OCR text layer (a scan), PyMuPDF; the 34 pages with Hebrew read by a fresh OCR (Tesseract 5: heb on the Hebrew pages, heb+eng on the mixed ones); 34 pages read by OCR (Tesseract) where the text layer has no Unicode"
 converted: 2026-10-22

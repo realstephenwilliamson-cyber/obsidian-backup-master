@@ -57,7 +57,7 @@ Thus, because she is intent on (her) desire to emanate, she possesses the suprem
 *[p. 85]* ^pg103
 
 anyonyaṁ bījayonīnār kṣobhād vaisargikodayāt ॥ 126 ॥
-kāṁ \[illegible\] siddhirn na vitaret ki vā nyūnaṁ na pūrayet | 
+kāṁ \[illegible\] siddhiṁ na vitaret ki vā nyūnaṁ na pūrayet | 
 
 The emissive state’ (of consciousness arises) due to the mutual arousal of the seeds (which are the vowels) and the matrices (which are the consonants). What accomplishment does (its arising) not produce, and what is it that is incomplete, that it does not fulfil? (126cd-127ab) 
 
@@ -103,7 +103,7 @@ He explains its primacy.
 भेदैर्गीता हि मुख्येयं नादिफान्तेति मालिनी ।
 phakārādisamuccārān nakārānte ‘dhvamandalam ॥ 128 ॥
 11111111 11171 ataḥ śāstreṣu bahudhā kulaputtalikādibhiḥ ॥ 129 I|
-bhedair gītā hi mukhyeyarn nādiphānteti mālinī | 
+bhedair gītā hi mukhyeyaṁ nādiphānteti mālinī | 
 
 How can this full (and perfect) consciousness, that by uttering the letters from PH to N reabsorbs into itself all the cosmic order, be expressed in words? Thus, although she is praised in the scriptures in many ways as the various types (of alphabets in which the order of the letters is mixed up), such as (the one called) Kulaputtilikā,?[^233] this one, which begins with N and ends with PH, that is, Mālinī, is the main one. (128cd-130ab) 
 
@@ -193,7 +193,7 @@ Application of the Deposition of Mālinī: Correction of Faults
 तेन भ्रष्टे विधौ वीर्ये स्वरूपे वाऽनया परम् ॥ १३४ ॥
 मन्ना न्यस्ताः पुनध्यासात्ूर्यन्ते तत्फलप्रदः ।
 
-tena bhraṣṭe vidhau vīrye svarūpe vānayā param || 134 II mantrā nyastāḥ punar nyāsāt pūryante tatphalapradāḥ | 
+tena bhraṣṭe vidhau vīrye svarūpe vānayā param || 134 || mantrā nyastāḥ punar nyāsāt pūryante tatphalapradāḥ | 
 
 Thus, even if one has fallen \[illegible\] from the ritual procedure (vidhi), (its) vitality (vīrya), or (even its) form (svarūpa), by repeating the 
 
@@ -262,7 +262,7 @@ nyasyej japtvāpi ca japed ayatnād apavṛktaye |
 Although the Mantras of the Garuda and other such (Tantras) are impure, they are completed by Mālinī in order to make them effective (in their specific tasks), and by the power (bala)? (of reflective awareness, 
 
 [^249]: MV 3/35cd-36, also quoted in PTv p. 151.
-[^250]: The Garuda Tantras are a class of Tantras concerned with the diagnosis and removal of snake venom and magic. A few fragmentary survivors of this type of Tantra exist, mostly in Nepalese manuscripts. The most extensive one is the Kriyākāloddyota, which deals with the same matters, and also the diagnosis and removal of malignant spirits \[illegible\] The latter was the concern of the Bhūta Tantras, which have also been mostly lost. Michael Slouber has edited a part of the Kriyākāloddyata (Slouber 2016). The first reference to this text and contents is in Dyczkowski 1988: 39-42. Notification of the existence of this class of Tantras is published for the first time there, along with notification of probable fragments of the Gārudatantras incorporated into the Gārudapurānṇa. Slouber in a personal communication admitted seeing my work but nowhere acknowledges that.
+[^250]: The Garuda Tantras are a class of Tantras concerned with the diagnosis and removal of snake venom and magic. A few fragmentary survivors of this type of Tantra exist, mostly in Nepalese manuscripts. The most extensive one is the Kriyākāloddyota, which deals with the same matters, and also the diagnosis and removal of malignant spirits (bhūta). The latter was the concern of the Bhūta Tantras, which have also been mostly lost. Michael Slouber has edited a part of the Kriyākāloddyata (Slouber 2016). The first reference to this text and contents is in Dyczkowski 1988: 39-42. Notification of the existence of this class of Tantras is published for the first time there, along with notification of probable fragments of the Gārudatantras incorporated into the Gārudapurānṇa. Slouber in a personal communication admitted seeing my work but nowhere acknowledges that.
 [^251]: It seems that by the use of the term bala, which literally means ‘strength’, Abhinava is referring to an important feature of the Spanda teachings. We read in the Spandakārikā: ‘Seizing that strength (bala), Mantras, endowed with the power of omniscience, perform their functions, as do the senses of the embodied.” (Ibid. 26) The following stanzas make it quite clear that the ‘strength’ meant here is what came to be understood as the power of reflective awareness through which the Yogi achieves the liberating vision of ultimate reality (paramārtha): ‘Just as an object which is not seen clearly at first, even when the mind attends to it carefully, later becomes fully evident when observed with the effort exerted through one’s own (inherent) strength (svabala); when the yogi lays hold of that same power in the same way, then whatever (he perceives manifests to him) quickly in accord with its true nature (paramārthena), whatever be its form, locus, time or state.” (Ibid. 36-37)
 
 *[p. 92]* ^pg110
@@ -288,13 +288,13 @@ for Benefits and Liberation
 सामुदायिकविन्यासे पृथक् पिण्डाविमौ क्रमात् ।
 अक्रमादथवा न्यस्येदेकमेवाथ योजयेत् ।। १ ४२ ॥
 
-ity eva mātṛkāṁ nyasyen mālinīṁ vā kramād dvayam || 139 I|
+ity eva mātṛkāṁ nyasyen mālinīṁ vā kramād dvayam || 139 ||
 siddhimuktyanusārād vā varṇān vā yugapaddvayoḥ |
 akṣahrīṁ naphahrīm etau pindau saṁghāv ihānayoḥ ॥ 140 ॥
 vācakau nyāsa etābhyāṁ kṛte nyāse ‘thavaikakaḥ |
 eṣa cāṁgatanubrahmayukto vā tadviparyayaḥ ॥ 141 ॥
 sāmudāyikavinyāse pṛthak pindāv imau kramāt |
-akramād athavā nyasyed ekam evātha yojayet |l 142 ॥ 
+akramād athavā nyasyed ekam evātha yojayet ॥ 142 ॥ 
 
 In this way, one should deposit Mātṛkā or Mālinī, either both one after another, according to (whether one desires) worldly benefits or liberation, or else deposit the letters of both of them together. Here, the 
 
@@ -322,7 +322,7 @@ Surely (one may ask), what is the use of (undertaking all this) mass of ritual a
 
 256\. Abhinava explains in the Tantrasāra p. 134 that the format of the two depositions together is:
 
-257\. hrīṁ na pha hrīṁ hrīṁ a \[illegible\] \[illegible\] The two together are Śiva and Śakti. Mālinī is Śakti and Śabdarāśi, the other deposition, is Śiva (the possessor of Śakti). One wonders whether we should read hrīṁ narn phaṁ hrīṁ \[illegible\] an kṣaṁ \[illegible\] with the phonemes ‘crowned’ by anusvara, as one would expect would be the form when they are projected onto the body. Or else we may take these to be the Mantras of the two, in which case the form would be \[illegible\] naphahrīṁ and hrīṁ akṣahrīṁ. The full series for deposition of both on the body is recorded in an Appendix to Chapter Thirty. The locations on the body of these combined forms is not stated. Most probably cach phoneme is in the same place as in the single depositions, in which case the adept would be moving back and forth up and down and to the sides of the body with each placement. This would require reasonable speed and careful attention.
+257\. hrīṁ na pha hrīṁ hrīṁ a \[illegible\] \[illegible\] The two together are Śiva and Śakti. Mālinī is Śakti and Śabdarāśi, the other deposition, is Śiva (the possessor of Śakti). One wonders whether we should read hrīṁ naṁ phaṁ hrīṁ \[illegible\] an kṣaṁ \[illegible\] with the phonemes ‘crowned’ by anusvara, as one would expect would be the form when they are projected onto the body. Or else we may take these to be the Mantras of the two, in which case the form would be \[illegible\] naphahrīṁ and hrīṁ akṣahrīṁ. The full series for deposition of both on the body is recorded in an Appendix to Chapter Thirty. The locations on the body of these combined forms is not stated. Most probably cach phoneme is in the same place as in the single depositions, in which case the adept would be moving back and forth up and down and to the sides of the body with each placement. This would require reasonable speed and careful attention.
 
 258\. it seems that each unit in this sequence is in two halves. The first is formed by the juxtaposition of the corresponding letters of the two depositions in the forward order. For example, A N, then & r etc. The second half is formed by the juxtaposition of the two letters beginning from the last working back in reverse. For example, KṢ PH. For the full set, see Appendix to Chapter Thirty.
 
@@ -338,10 +338,10 @@ Surely (one may ask), what is the use of (undertaking all this) mass of ritual a
 
 kriyayā siddhikāmo yah sa kriyāṁi bhūyasīmi caret |
 anīpsur api yas tasmai bhūyase svaphalāya sā ॥ 143 ॥
-yas tu dhyānajapābhyāsaiḥ siddhīpsuḥ sa kriyārnṁ param |
+yas tu dhyānajapābhyāsaiḥ siddhīpsuḥ sa kriyāṁ param |
 saṁskṛtyai svecchayā kuryāt prāṁnayenātha bhūyasīm ॥ 144 ॥
 mumukṣur atha tasmai vā yathābhīṣta samācaret |
-sivatāpattir evārtho hy eṣāṁnṁ nyāsādikarmaṇām ॥ 145 II 
+sivatāpattir evārtho hy eṣāṁnṁ nyāsādikarmaṇām ॥ 145 ॥ 
 
 \[illegible\] He who aspires to attain accomplishments (siddhi) by ritual action, as well as 1b) he who has no (such) desire, should perform the rite (of deposition) in its extensive form (bhūyasīṁn \[illegible\] so that (the goddess) may (bestow on) him (her) own fruits in abundance. 2a) He who desires (to attain) accomplishments by the continuous practice of meditation and the repetition (of Mantras) may perform the rite (of deposition); however (in that case, it only serves as an empowering) purification. (The depositions) can be done, as one pleases, either in an abbreviated or extensive form, as explained above. 2b) Now, he who aspires to liberation (by practicing meditation) may (optionally) perform (the depositions) as he pleases for that (purpose). (At any rate, the ultimate) goal (for him) of (all) these rites (karman), including the depositions, is to attain Śiva’s state. (143-145) 
 
@@ -386,7 +386,7 @@ The Articulation of Ritual Action
 पूणीदव्यतिरेकित्वं कारकाणामिहार्चया ।। १४७ ॥
 
 yataḥ samastabhāvānār śivāt siddhimayād \[illegible\] |
-pūrnṇād avyatirekitvaṁ kārakāṇām ihārcayā || 147 ॥ 
+pūrṇād avyatirekitvaṁ kārakāṇām ihārcayā || 147 ॥ 
 
 Since here (in our view), by ritual worship (arcā) all things (are realised to be) inseparable from Śiva, (who manifests, as the case may be,) as consisting of (all possible divine) attainments (for those who aspire to worldly benefits), or as (perfectly) full (and unlimited for those who seek liberation), (the same applies) to the factors that constitute action (kāraka), (each expressed by its own grammatical function, that work together to execute the action expressed by a verb). 
 
@@ -511,7 +511,7 @@ In This Way, Mantra Quickly Grants Accomplishment
 साधकस्यापि तत्सिद्धिप्रदमन्रैकतां गतम् ।। १५५ ॥।
 विशं व्रजदविघ्नत्वं स्वां सिद्धिं शीप्रमावहेत् ।
 
-sādhakasyāpi tatsiddhipradamantraikatāri gatam || 155 |I viśvaṁ vrajad avighnatvarn \[illegible\] siddhirn Sīghram āvahet | 
+sādhakasyāpi tatsiddhipradamantraikatāri gatam || 155 || viśvaṁ vrajad avighnatvaṁ \[illegible\] siddhiṁ Sīghram āvahet | 
 
 For the adept (sādhaka) (who desires worldly benefits) also, the Mantra that grants his accomplishment (siddhi) becomes one with the universe (he contemplates in this way), and (every) obstacle (to its realisation) ceasing (thereby), it quickly bestows its own accomplishment. (155ed-156ab) 
 
@@ -527,7 +527,7 @@ There is no means (of attainment) (sādhana) one who has ascended onto this leve
 केवल स्मरणात्सिद्धिवीज्छितेति मतादिषु |
 
 \[illegible\] ca parameśena na vidhir nārcanakramaḥ ॥ 156 ॥
-kevalarn smaranāt siddhir vāñchiteti matādiṣu | 
+kevalaṁ smaranāt siddhir vāñchiteti matādiṣu | 
 
 The Supreme Lord has said in the Mata and elsewhere: ‘There is no ritual procedure (vidhi) or liturgy (arcanakrama) (that attains the goal); the desired accomplishment (is achieved) solely by recollecting (mantra). (156cd-157ab) 
 
@@ -573,7 +573,7 @@ The identification of the officiant with the foundation (where he performs the r
 
 #### Viveka on 15.158–159
 
-269\. Thus, we can articulate ritual action in the following sentence: ‘The officiant (nominative) is offering the offering (accusative) with water (instrumental) taken from the sacrificial vessel ablative) for the deity (dative) in the place of worship (locative). Sanderson (2006; 48) explains: "The meaning attributed to the common ritual structure was {~ - - expressed in the nonduality of the actors of action (kārakaḥ). These factors are the parücipants in the action described in a sentence. So in the example, ‘In the place of worship I Śratify the deities of the earthen platform (sthandilam) with liquor from the chalice’, we have the agent of the action \[illegible\] its object (karma \[the deities\]), its instrument (karanam \[liquor\]), its point of ablation (apādānam \[the chalice\]), and the two substrates (adhikaranam), that of the agent (the place of worship) and that of the object (the earthen platform). Cf. SvTu 1 (2) 87. See the discussion by Sanderson ibid. 48-49.
+269\. Thus, we can articulate ritual action in the following sentence: ‘The officiant (nominative) is offering the offering (accusative) with water (instrumental) taken from the sacrificial vessel ablative) for the deity (dative) in the place of worship (locative). Sanderson (2006; 48) explains: "The meaning attributed to the common ritual structure was {~ - - expressed in the nonduality of the actors of action (kārakaḥ). These factors are the parücipants in the action described in a sentence. So in the example, ‘In the place of worship I Śratify the deities of the earthen platform (sthandilam) with liquor from the chalice’, we have the agent of the action (kartā), its object (karma \[the deities\]), its instrument (karanam \[liquor\]), its point of ablation (apādānam \[the chalice\]), and the two substrates (adhikaranam), that of the agent (the place of worship) and that of the object (the earthen platform). Cf. SvTu 1 (2) 87. See the discussion by Sanderson ibid. 48-49.
 
 
 *[p. 101]* ^pg119
@@ -864,7 +864,7 @@ Surely (one may ask), how can this (practice), which is (only) appropriate for a
 
 पाशवेष्वपि शासेषु तदद्शिं महेशिना || १७३ ॥
 घोरा्यहैमननिशामध्यगाचिरदीप्िवत् ।
-pāśaveṣv api Śāstreṣu tad adarśi maheśinā ॥ 173 |I ghorāndhyahaimananiśīmadhyagāciradīptivat | 
+pāśaveṣv api Śāstreṣu tad adarśi maheśinā ॥ 173 ॥ ghorāndhyahaimananiśīmadhyagāciradīptivat | 
 
 The Great Lord?[^296] has revealed (this practice) even in the scriptures of the fettered, like a flash of light in the midst of a winter’s (haimana)[^297] night of dreadful, blinding darkness. (173cd-174ab) 
 
@@ -887,7 +887,7 @@ The Inconsistency of the Vedic Texts Concerning Norms of Purity
 भक्ष्यो हंसो न भक्ष्योऽसाविति विप्रतिपत्तिषु ।। Indra.[^298] ॥
 स्ार्तीषु विजयत्येको यः शिवाभेदशुद्धिकः ।
 
-bhakṣyo haṁso na bhakṣyo \[illegible\] iti vipratipattiṣu ॥ 174 ॥
+bhakṣyo haṁso na bhakṣyo ‘sāv iti vipratipattiṣu ॥ 174 ॥
 smārtīṣu vijayaty eko yah śivābhedaśuddhikaḥ | 
 
 Only one who is purified by Śiva’s nondual (practice) triumphs over the (many) Vedic texts, which (frequently) disagree with one another, as happens (for example, where it is said in some places that) wild goose (haṁsa) can be eaten (and in others that) it cannot be eaten. (174cd-175ab) 
@@ -941,7 +941,7 @@ na vidhipratiṣedhākhyadharmayor ekam āspadam |
 
 #### Viveka on 15.177
 
-Now, in such cases as the Horse Sacrifice (aśvamedha), the king, for example, may eat that (horse); otherwise (in other circumstances), it is said that (horsemeat) should not be eaten. Thus, in a situation in which the sphere (of application of the rule) \[illegible\] differs, the division between purity and impurity is not thereby rendered defective. Accordingly, he says (in response to this objection): 
+Now, in such cases as the Horse Sacrifice (aśvamedha), the king, for example, may eat that (horse); otherwise (in other circumstances), it is said that (horsemeat) should not be eaten. Thus, in a situation in which the sphere (of application of the rule) (viṣaya) differs, the division between purity and impurity is not thereby rendered defective. Accordingly, he says (in response to this objection): 
 
 ### TĀ 15.177–178
 
@@ -987,7 +987,7 @@ The Worship Outside the Abode of the Sacrifice (bahirarcā)
 सामान्यमर्घपात्राम्भोविप्रदिभ : प्रोक्ष्य चाखिलम् ।
 यागोपकरणं पश्वाट्बाह्ययागं समाचरेत् ।। १८० ॥
 
-prakṛtari brūmahe kṛtvā nyāsarnṁ dehārghapātrayoḥ ॥ 179 ॥
+prakṛtari brūmahe kṛtvā nyāsaṁ dehārghapātrayoḥ ॥ 179 ॥
 sāmānyam arghapātrāmbhoviprudbhiḥ prokṣya cākhilam |
 \[illegible\] \[illegible\] paścād bāhyayāgamṁi samācaret || 180 ॥ 
 
@@ -1014,7 +1014,7 @@ He (now) talks about that.
 तारो नाम चतुध्यन्तं नमश्वत्य्चने मनुः ।
 
 prabhāmandalake khe vā suliptāyār ca vā bhuvi |
-triśūlārkavṛṣān diksthā mātaraḥ kṣetrapaṁ yajet ॥ 181 Il yoginīś ca pṛthaṁ mantrair oùnamonāmayojitaih |
+triśūlārkavṛṣān diksthā mātaraḥ kṣetrapaṁ yajet ॥ 181 ॥ yoginīś ca pṛthaṁ mantrair oùnamonāmayojitaih |
 ekoccāreṇa vā bāhyaparivāreti śabditāḥ ॥ 182 ॥
 tāro nāma caturthyantań namaś cety arcane manuḥ | 
 
@@ -1061,7 +1061,7 @@ The Worship of the Door (dvārārcana)
 अर्घपष्पसमालम्भधूपनैवेदयवन्दनै 1 पूजां । कयीदिहार्घश्ाप्यु्तमदरव्ययोजित : ॥ १८९ ॥
 एकोच्वारेण वा कु्यीद् द्राःस्थदैवतपूजनम् ।
 
-evar bahiḥ pūjayitvā \[illegible\] prokṣya prapūjayet ॥ 183 Il triśirahśāsanādau ca sa dṛṣṭo vidhir ucyate |
+evar bahiḥ pūjayitvā \[illegible\] prokṣya prapūjayet ॥ 183 ॥ triśirahśāsanādau ca sa dṛṣṭo vidhir ucyate |
 ganeśalakṣmyau dvārordhve dakṣe vāme tayoḥ punaḥ ॥ 184 ॥
 madhye vāgīśvarīri dindimahodarayugaṁ tathā |
 kramāt svadakṣavāmasthaṁ tathaitena kramena ca || 185 ॥
@@ -1077,7 +1077,7 @@ ekoccāreṇa vā kuryād dvāhsthadaivatapūjanam |
 
 307\. In Vedic sacrifices the word sthandila denotes a piece of open ground that is levelled, squared and prepared as the area where the sacrifice is performed. In these later sources the sthandila is more specifically a small raised platform made of earth as the place where the representation of the main deity is installed. Thus, it is the main altar.
 
-308\. See above 1/303d. Nandin is first worshipped on the right, then Mahākāla on the left of the door. In the same way, Gaṅgā (trimārgagā) is on the right and Yamunā (kālindī) is on the left, Chāgāsya is on the right and Meṣāsya is on the left. Kṣemarāja (SvTu ad 2/25) observes that the deities that are worshipped on the door vary in different Śaivite schools. According to the Trisirobhairavatantra, to which Abhinava refers here, the deities that should be worshipped on the right of the door (that is, to the left of the observer) are Mahākāla, Yamunā, Mahodara and Meṣāsya, and on the left, Nandin, Gaṅgā, Dindin and Chāgāsya. According to the current of the right, to which the SvT belongs, and in which, Kṣemarāja tells us, withdrawal is predominant, the deities on the right of the door are Mahākāla and Yāmunā, and, on the left, Nandin and Gaṅgā. According to the current of the left, in which emission is predominant, on the right of the door, there are Nandin, Gaṅgā and 11652599 and on the left, Mahākāla, Yāmunā and Chāgāsya. The same in reverse order is found in the Siddhānta, with the omission of Meṣṣāsya and Chāgāsya. See SvT 2/25, NT 3/9 and SŚP, vol. 1 pp. 91 ff., cf. above TĀv ad 4/25 Icd. āśāmātrraganari lakṣmīṁ nandigaṁge ca pūjayet | mahākālaṁ tu yamunāṁ dehalīri pūjayet tataḥ ॥ NT 3/9 Il bahir diṁñmātRh, dvārordhve ganapatilakṣmyau, pārśvadvaye nandigaṁge mahākāla-yamune, vāme dehalīḥ praṇavacaturthi namahśabdayogena pūjayet | asya nayasya sarvasahatvāt siddhāntadṛśā nandigaṁge dakṣiṇne pi mahākālayamune vāme | vāmasrotasyevaṁi meṣāsyacchāgāsyau tu adhikau dakṣinavāmayoḥ | bhairavasrotasi sarłhārapradhānatvād dakṣiṇe mahākālayamune vāme nandigaṁge | ṣadardhe tu dindimahodarau adhikau I| 9 ॥ ‘One should worship the group of Mothers of the directions, Lakṣmī, Nandi and Gaṅgā, Mahākāla and Yamunā. One should then worship the threshold. (NT 3/9) The Mothers of the directions are outside. Ganapati and Lakṣmī are above the door, on the two sides are Nandi and Gaṅgā and Mahākāla and Yamunā on the left. Worship (the deities of) the threshold with OM, (their names in) the dative, and by adding the word ‘namaḥ’. As this teaching is acceptable to all, according to the Siddhānta’s view, Nandi and Gaṅgā should be worshipped on the right and Mahākāla and Yamunā on the left. Similarly, according to (the Tantras of) the current of the left, Meṣṣāsya and Chāgāsya are extra on the right and left (respectively). As the Bhairava current (of scripture) predominantly (teaches) withdrawal, Mahākāla and Yamunā are on the right, while Nandi and Gaṅgā are on the left. In the Trika (ṣadardha) (Tantras) Dindi and Mahodara are extra. dvārādhyakṣās tato bāhye kāryāḥ svāmnāyadarśanāt | NT 18/57a \[illegible\] ullekhyāḥ pūjyāś ca | svāmnāyadarśanād iti siddhāntasthityā dvārasya dakṣiṇe nandigaṁge, vāme mahākālayamune, bhairavadṛśi tu etad eva vipary 'āmasrotasi tu prāgvad nandigaṁgādi dindimahodarasahitam, trikanaye bhairavadṛgvad meṣānana-cchāgānanau tv adhikau, ity ādyanusartavyam | ete ca lokapālās trāntā (> tantra-) devatā viśeṣāḥ |
+308\. See above 1/303d. Nandin is first worshipped on the right, then Mahākāla on the left of the door. In the same way, Gaṅgā (trimārgagā) is on the right and Yamunā (kālindī) is on the left, Chāgāsya is on the right and Meṣāsya is on the left. Kṣemarāja (SvTu ad 2/25) observes that the deities that are worshipped on the door vary in different Śaivite schools. According to the Trisirobhairavatantra, to which Abhinava refers here, the deities that should be worshipped on the right of the door (that is, to the left of the observer) are Mahākāla, Yamunā, Mahodara and Meṣāsya, and on the left, Nandin, Gaṅgā, Dindin and Chāgāsya. According to the current of the right, to which the SvT belongs, and in which, Kṣemarāja tells us, withdrawal is predominant, the deities on the right of the door are Mahākāla and Yāmunā, and, on the left, Nandin and Gaṅgā. According to the current of the left, in which emission is predominant, on the right of the door, there are Nandin, Gaṅgā and 11652599 and on the left, Mahākāla, Yāmunā and Chāgāsya. The same in reverse order is found in the Siddhānta, with the omission of Meṣṣāsya and Chāgāsya. See SvT 2/25, NT 3/9 and SŚP, vol. 1 pp. 91 ff., cf. above TĀv ad 4/25 Icd. āśāmātrraganari lakṣmīṁ nandigaṁge ca pūjayet | mahākālaṁ tu yamunāṁ dehalīri pūjayet tataḥ ॥ NT 3/9 Il bahir diṅmātṚḥ, dvārordhve ganapatilakṣmyau, pārśvadvaye nandigaṁge mahākāla-yamune, vāme dehalīḥ praṇavacaturthi namahśabdayogena pūjayet | asya nayasya sarvasahatvāt siddhāntadṛśā nandigaṁge dakṣiṇne pi mahākālayamune vāme | vāmasrotasyevaṁi meṣāsyacchāgāsyau tu adhikau dakṣinavāmayoḥ | bhairavasrotasi sarłhārapradhānatvād dakṣiṇe mahākālayamune vāme nandigaṁge | ṣadardhe tu dindimahodarau adhikau I| 9 ॥ ‘One should worship the group of Mothers of the directions, Lakṣmī, Nandi and Gaṅgā, Mahākāla and Yamunā. One should then worship the threshold. (NT 3/9) The Mothers of the directions are outside. Ganapati and Lakṣmī are above the door, on the two sides are Nandi and Gaṅgā and Mahākāla and Yamunā on the left. Worship (the deities of) the threshold with OM, (their names in) the dative, and by adding the word ‘namaḥ’. As this teaching is acceptable to all, according to the Siddhānta’s view, Nandi and Gaṅgā should be worshipped on the right and Mahākāla and Yamunā on the left. Similarly, according to (the Tantras of) the current of the left, Meṣṣāsya and Chāgāsya are extra on the right and left (respectively). As the Bhairava current (of scripture) predominantly (teaches) withdrawal, Mahākāla and Yamunā are on the right, while Nandi and Gaṅgā are on the left. In the Trika (ṣadardha) (Tantras) Dindi and Mahodara are extra. dvārādhyakṣās tato bāhye kāryāḥ svāmnāyadarśanāt | NT 18/57a \[illegible\] ullekhyāḥ pūjyāś ca | svāmnāyadarśanād iti siddhāntasthityā dvārasya dakṣiṇe nandigaṁge, vāme mahākālayamune, bhairavadṛśi tu etad eva vipary 'āmasrotasi tu prāgvad nandigaṁgādi dindimahodarasahitam, trikanaye bhairavadṛgvad meṣānana-cchāgānanau tv adhikau, ity ādyanusartavyam | ete ca lokapālās trāntā (> tantra-) devatā viśeṣāḥ |
 
 
 *[p. 114]* ^pg132
@@ -1196,7 +1196,7 @@ and their Guardians
 यद्यप्यस्ति न दिडजाम काचित्पू्वीपरादिका ।
 ्रत्ययो हि न तस्याः स्यादेकस्या अनुपाहितेः । north.[^320] ॥
 
-yady apy asti na (> tu) diù nāma kācit pūrvāparādikā (> kah) ।
+yady apy asti na (> tu) diù nāma kācit pūrvāparādikā (> kaḥ) ।
 pratyayo hi na tasyāḥ syād ekasyā anupāhiteḥ ॥ 194 ॥ 
 
 TMEyen if” there is (as you say) only a certain (unique) quarter (in space), the perception of that as east and west etc. would not occur, 
@@ -1257,7 +1257,7 @@ Surely (one may point out that) then, (in that case, we have been) vanquished by
 tasmāt saṁvitprakāśo ‘yah mūrtyābhāsanabhāgataḥ |
 pūrvādidigvibhāgākhyavaicitryollekhadurmadaḥ ॥ 196 ॥ 
 
-Therefore, (the truth is that,) by means of that aspect which manifests (physical) form \[illegible\] (the Lord, who is) this light of consciousness, (delights in) the foolish inebriation (durmada) of delineating the wonderful diversity called the divisions of the directions into east and the rest. (196) 
+Therefore, (the truth is that,) by means of that aspect which manifests (physical) form (mūrti), (the Lord, who is) this light of consciousness, (delights in) the foolish inebriation (durmada) of delineating the wonderful diversity called the divisions of the directions into east and the rest. (196) 
 
 #### Viveka on 15.196
 
@@ -1281,7 +1281,7 @@ Therefore, (the truth is that,) by means of that aspect which manifests (physica
 तत्प्रकाशितमेयेन्ुस्पर्शसौम्यं तदेव हि ।
 
 yatra yad yat prakāśate sadā svīkarane kṣamam |
-tad evordhvarn prakāśātma sparśāyogyam adhaḥ punaḥ ॥ 197 ॥
+tad evordhvaṁ prakāśātma sparśāyogyam adhaḥ punaḥ ॥ 197 ॥
 kiñcitprakāśatā madhyaṁ tato vai diksamudbhavaḥ |
 kiñcitprakāśayogyasya sarmukhari prasarat puraḥ | 198 ॥
 parāṁmukhar tu tatpaścād iti digdvayam āgatam |

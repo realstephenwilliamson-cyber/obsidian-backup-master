@@ -17,8 +17,7 @@ language:
   - English
 pages: 164
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[anway mukhopadhyay - The Goddess in Hindu-Tantric Traditions_ Devi as Corpse-Routledge (2018).pdf]]"
 aliases:

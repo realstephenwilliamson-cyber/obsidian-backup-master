@@ -1,7 +1,7 @@
 ---
 type: decisions
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-25
 ---
 # Audit decisions (19 Oct 2026, second round)
 
@@ -45,6 +45,7 @@ Grouped; each item names the finding ids. "Safe" fixes need no decision and go s
 **C. Zohar and Bible**
 14. B-01: re-point the 733 links to the text the reference names (by line; 37 "Tos" cases reviewed by Stephen); B-02 un-split the italics; link the vol. 11 notes' 1,159 plain references and the 153 Soncino-folio links (check-B M1, M2); J1-02's 419 ZḤ folios with a block.
    **Answer (19 Oct, 16:20):** all of it, by line: the 733 (the 37 'Tos' cases shown to Stephen first), the 1,466 split italics, the vol. 11 notes' 1,159 plain references, the 153 Soncino-folio links and J1-02's 419 ZḤ folios with a block; one batch, dry run, 50-link check.
+   **25 Oct 2026:** the 37 'Tos' cases explained to Stephen (36 references marked "(*Tos*)" to folios 1:32a, 37a, 54b, 60a and 3:55b, whose passages printed as Tosefta only *Zohar 12.12 - Passages (Mis)Labeled as Tosefta* translates; and 12.05 L2460, "labeled as *Tos*, but in fact *MhN*", to 10.07): all 37 approved.
 15. Hoffmeier Jer 44:14 → 46:14 (B-07, the book's misprint): link the right verse with a note / keep as printed. JANT Hebrews 11 L84 (B-12): the LXX pair. E-05's 11 references with a certain intended verse (D04 vs D06): link / keep plain.
    **Answer (19 Oct, 16:20):** link the intended verse and mark the misprint — Hoffmeier → Jer 46:14 "(printed 44:14)"; JANT Hebrews 11 L84 → the LXX note; the 11 references of E-05 linked the same way (D04 wins; the decide-later note records it).
 16. Holy Days: the Christmas transfers (C-07; Stephen's rule, document it in `Daily Office Engine.md` L61); All Saints on 8 Nov when 1 Nov is a Sunday (C-08, J2-09); the Monday after a Sunday feast choice (J2-08); the 18 Oct row in the choices note.
@@ -83,6 +84,7 @@ Grouped; each item names the finding ids. "Safe" fixes need no decision and go s
    **Answer (19 Oct, 16:50):** diffs for `type: daily` on the 7 journal notes, `occasion: Easter-5A`, and the 2026-10-03 first mention; the wish-list lines 35 and 45 stay his.
 31. House rules (K-17): the plugin-save exception, laptop agents editing directly, `vault_agent`, runner order, the size and wait figures; and the record of the tags rule being shown first (J3-18).
    **Answer (19 Oct, 16:55):** yes — the lead drafts the six wording changes; Stephen approves the text before they go in.
+   **25 Oct 2026:** approved and applied: rule 1 names `vault_agent`; rule 4 gains a narrow exception (a plugin setting Stephen names in the chat, changed on the laptop through the plugin's own settings save, logged), with rule 13 and the Guide's *For AIs* to match; a bullet for laptop agents (backup before a direct write, the notes listed in the log); the runner's name order and `RUNNER_STOP`; 30 MB per file and 100 MB per call; the commit wait 15 s (Stephen's choice); the figures and project-doc pointers of 25 Oct. J3-18 (a record that the tags rule was shown first) not done.
 32. The routine prompts (L-07, K-19…K-27): baselines, scripts, the 14 Oct figures, the Gemini walk-through's archiving; the "after October" note on routine prompts and the Dataview watch (Part 3's own item).
    **Answer (19 Oct, 16:55):** yes — refresh with the 19 Oct baseline, the scripts named, the Gemini walk-through archived, the Dataview watch added.
 33. `EPOCH` in one place (M-03, F-11); `type: text` note for the Devī Māhātmya collection (J3-12); the lexicon on the phone (D24.4, I-15).

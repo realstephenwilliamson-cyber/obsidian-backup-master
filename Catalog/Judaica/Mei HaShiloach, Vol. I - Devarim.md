@@ -18,8 +18,7 @@ language:
   - Hebrew
 pages: 4
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[devarim_5767.pdf]]"
   - "[[Library/Judaica/Mei HaShiloach, Vol. I (Izbica)]]"

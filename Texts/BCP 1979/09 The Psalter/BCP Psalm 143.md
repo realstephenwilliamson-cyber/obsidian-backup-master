@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 143
 verses: 12
-page_range:
-  - 799
-  - 799
+page_range: "799"
 aliases:
   - "BCP Psalm 143"
   - "BCP 799"
@@ -29,7 +27,7 @@ answer me in your righteousness. ^143-1
 **143:2** Enter not into judgment with your servant, \*  
 for in your sight shall no one living be justified. ^143-2
 
-[p. 799]
+[p. 799] ^pg799
 
 **143:3** For my enemy has sought my life;  
 he has crushed me to the ground; \*  

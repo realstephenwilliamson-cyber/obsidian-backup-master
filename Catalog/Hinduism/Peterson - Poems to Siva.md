@@ -17,8 +17,7 @@ language:
   - English
 pages: 207
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Peterson - Poems to Siva (1991).pdf]]"
 aliases:

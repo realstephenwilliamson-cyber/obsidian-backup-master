@@ -17,8 +17,7 @@ language:
   - English
 pages: 267
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Greggs - Barth, Origen, and Universal Salvation (OUP 2009).pdf]]"
   - "[[Library/Christianity/Barth, Origen, and Universal Salvation (Greggs)/Barth, Origen, and Universal Salvation (Greggs)]]"

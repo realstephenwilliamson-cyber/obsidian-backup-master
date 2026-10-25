@@ -17,8 +17,7 @@ language:
   - English
 pages: 222
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Weiss - The Emergence of Modern Hinduism (2019).pdf]]"
   - "[[Library/Hinduism/The Emergence of Modern Hinduism (Weiss)/The Emergence of Modern Hinduism (Weiss)]]"

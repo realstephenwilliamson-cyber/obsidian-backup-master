@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 59
 verses: 20
-page_range:
-  - 666
-  - 667
+page_range: "666–667"
 aliases:
   - "BCP Psalm 59"
   - "BCP 666"
@@ -33,7 +31,7 @@ and save me from those who thirst for my blood. ^59-2
 how the mighty gather together against me; \*  
 not for any offense or fault of mine, O LORD. ^59-3
 
-[p. 666]
+[p. 666] ^pg666
 
 **59:4** Not because of any guilt of mine \*  
 they run and prepare themselves for battle. ^59-4
@@ -77,7 +75,7 @@ and to the ends of the earth. ^59-15
 **59:16** They go to and fro in the evening; \*  
 they snarl like dogs and run about the city. ^59-16
 
-[p. 667]
+[p. 667] ^pg667
 
 **59:17** They forage for food, \*  
 and if they are not filled, they howl. ^59-17

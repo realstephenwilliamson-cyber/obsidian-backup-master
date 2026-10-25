@@ -17,8 +17,7 @@ language:
   - English
 pages: 17
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Torzsok - The (Un)dreadful Goddess, Aghori in Early Sakta Tantras (2012).pdf]]"
   - "[[Library/Trika/The (Un)dreadful Goddess (Torzsok)]]"

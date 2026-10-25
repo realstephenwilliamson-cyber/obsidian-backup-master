@@ -4,7 +4,7 @@ title: "Śrī Durgā Saptaśatī: Preliminary Hymns"
 author: []
 work: "[[Catalog/Hinduism/Sri Durga Saptasati - Preliminary Hymns]]"
 source_pdf: "Library/Hinduism/DURGA700_INTRO_TRANS.pdf"
-pages: "1–26"
+page_range: "1–26"
 pdf_pages: "1–26"
 text_source: "fresh OCR with Tesseract 5 (Latin; Latin+san on the pages with Devanagari) of the page images (the PDF sets its Devanagari and transliteration in old fonts with no Unicode map)"
 converted: 2026-10-22

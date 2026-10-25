@@ -21,7 +21,7 @@ language:
 pages: 103
 text: searchable
 status: reading
-physical_copy: true
+print: true
 files:
   - "[[Acting Out (2008).pdf]]"
   - "[[Library/Philosophy/Acting Out (Stiegler)/Acting Out (Stiegler)]]"

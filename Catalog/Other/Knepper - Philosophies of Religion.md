@@ -17,8 +17,7 @@ language:
   - English
 pages: 497
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Knepper - Philosophies of Religion (2023).pdf]]"
   - "[[Library/Other/Philosophies of Religion (Knepper)/Philosophies of Religion (Knepper)]]"

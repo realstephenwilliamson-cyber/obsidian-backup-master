@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 83
 verses: 18
-page_range:
-  - 707
-  - 707
+page_range: "707"
 aliases:
   - "BCP Psalm 83"
   - "BCP 707"
@@ -55,7 +53,7 @@ they became like dung upon the ground. ^83-10
 **83:11** Make their leaders like Oreb and Zeëb, \*  
 and all their commanders like Zebah and Zalmunna, ^83-11
 
-[p. 707]
+[p. 707] ^pg707
 
 **83:12** Who said, "Let us take for ourselves \*  
 the fields of God as our possession." ^83-12

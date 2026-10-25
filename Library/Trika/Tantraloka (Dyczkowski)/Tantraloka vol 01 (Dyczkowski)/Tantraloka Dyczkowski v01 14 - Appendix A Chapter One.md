@@ -90,7 +90,7 @@ Having gone beyond mind, she is the radiant pulse of (Śiva’s) own uncondition
 
 2\) Samanā - the Equal One, With Mind astitvamātram ātmānaṁ kṣobhyari kṣobhayate yadā ॥ 60 ॥
 samanāsau vinirdiṣtā śaktiḥ sarvādhvavartinī |
-krodīkaroti yā viśvaṁ sańihrtya sṛjate punaḥ || 61 Il 
+krodīkaroti yā viśvaṁ sańihrtya sṛjate punaḥ || 61 || 
 
 If She disturbs the (limited) Self, which is just Being alone and is the object of disturbance, she is called Samanā (the Equal One or With Mind), the power that is present on all the Path. She embraces the universe and, having withdrawn it, emits it again. (21/60cd-61) 
 
@@ -166,8 +166,8 @@ vikhyātā
 
 | 
 
-(काक? sarveṣām brahmādidevānāṁ nirodhikā ūrdhvavyāptyā dhārikā yathoktarn śrīsvacchande nirodhayati yā devān brahmādīmiś ca surādhipe |
-nirodhiketi sākhyātā | (SvT 10/1223abc) iti ॥ 64 II 
+(काक? sarveṣām brahmādidevānāṁ nirodhikā ūrdhvavyāptyā dhārikā yathoktaṁ śrīsvacchande nirodhayati yā devān brahmādīmiś ca surādhipe |
+nirodhiketi sākhyātā | (SvT 10/1223abc) iti ॥ 64 ॥ 
 
 Where Resonance is present on the Path and rests unobstructed, it is called Nirodhinī (the Obstructress), who obstructs all the gods. (21/64) 
 
@@ -180,8 +180,8 @@ paramaśivābhedākhyātir eva brahmāder nirodha ity āha niruddhasya
 maheśatvamahimā na pravartate |
 ataś cābhedākhyātyaiva tatrasthānām 
 
-nānātvam ity āha asamikhyātās tu koṭyo vai mantrānāṁ tatra saṁsthitāḥ ॥ 65cd ॥
-kirn ca 
+nānātvam ity āha asamikhyātās tu koṭyo vai mantrāṇāṁ tatra saṁsthitāḥ ॥ 65cd ॥
+kiṁ ca 
 
 labhante tat praviṣtā vai.......... (21/66a) 
 
@@ -195,7 +195,7 @@ What obstructs Brahmā etc. is ignorance of Supreme Śiva’s oneness. Thus it i
 
 Those Yogis who have entered into that plane of the Obstructress (Nirodhikā) attain only that, not the pervasion of oneness which is above. One should add ‘that’ for a second time (i.e. those who have entered that attain (only) that). 
 
-yā ceyarn dhvanimātrātmanādāntavyāptinirodhikākhyā māntrī kalā 
+yā ceyaṁ dhvanimātrātmanādāntavyāptinirodhikākhyā māntrī kalā 
 
 -śa binduś ceśvaraḥ smṛtaḥ | (21/66b) 
 
@@ -261,7 +261,7 @@ This Half Moon, rising above the plane of Bindu, ‘the withdrawal of all living
 
 ‘Here, the letter M is indeed Rudra, the most excellent conjunction of phonemes (saṁghatta).” (21/68ab) In the course of this, the diversity that Bindu generates manifests. It is initially (in the form of) the letter M that contemplates the individual soul that rests in Māyā. 
 
-atra ca rudro ‘dhiṣthāteti śeṣaḥ | eṣa ca makāraḥ prastutapraṇavāpekṣayākāro-kārābhyām, mantrāntarāpekṣ tu varnṇāntarebhyo ‘py uttama utkṛṣṭ ‘tiśayena 
+atra ca rudro ‘dhiṣthāteti śeṣaḥ | eṣa ca makāraḥ prastutapraṇavāpekṣayākāro-kārābhyām, mantrāntarāpekṣ tu varṇāntarebhyo ‘py uttama utkṛṣṭ ‘tiśayena 
 
 udgata 
 
@@ -270,12 +270,12 @@ plutāntaṁ ca dīrghahrasvatad-varṇanīyavācyasattāstīty api ca varṇasa
 
 Here Rudra is the presiding (Lord). This is what remains (that is implicitly stated). And this letter M is ‘the most excellent’ with respect to the letters A and U of the praṇava (OM) we are talking about, and so too with respect to other Mantras and other phonemes (structured in this way). It is better, that is, excellent, (in the sense) that it has opened up exceedingly and is the ‘conjunction’ of the phonemes that is above (them as) the place (where they) rest. The phonemes associated with syllabic Mantras (pindākṣara) are the denotators of specific realities (tattattattva). As long as they have not assumed the form of the resonance of the letter M which, by its prolated utterance (plutoccāra), rends assunder the Knot of Māyā, they do not enter into the pervasion of Bindu, which is the state of consciousness (vedanā) that is (one and) undivided from all the objects of denotation. And the (universal) Being of the objects of denotation that are described by the long and short (utterances of long and short vowels) is (found) at the end of the prolated (utterance), and this is also the ‘conjunction of phonemes (saṁghatta)’ . 
 
-ittharn ca pūrvoktā śaktir māyāgranthyāśrayamakārātmamantrāvayavarūpatām āpannā viśva-jagadātmatayā 
+itthaṁ ca pūrvoktā śaktir māyāgranthyāśrayamakārātmamantrāvayavarūpatām āpannā viśva-jagadātmatayā 
 
 yadā sthitińn ca labhate svonmukhari sṛṣtikāranam ॥ 68 ॥
 pratiṣthākhya ukāras tu viṣnuḥ sākṣād bhavaty asau | 
 
-svonmukham iti svatra saṁvidrūpe unmukharn kṛtvā pramāṇapradhānatvāt sthitidaśāyāḥ pramāṇasya ca jñeyācchuritasavidrūpatvād evam uktam, ata eva sṛṣter meyapradhānāyā daśāyāḥ kāranam | 
+svonmukham iti svatra saṁvidrūpe unmukhaṁ kṛtvā pramāṇapradhānatvāt sthitidaśāyāḥ pramāṇasya ca jñeyācchuritasavidrūpatvād evam uktam, ata eva sṛṣter meyapradhānāyā daśāyāḥ kāraṇam | 
 
 *[p. 494]* ^pg508
 
@@ -311,7 +311,7 @@ evar
 
 tām 
 
-vadan makārakalāyāḥ saṁhāradaśāprādhānyaṁ garbhīkṛtapumādimāyāntatattva-saptakarn vidyākalāvyāptir ity ādy anumantavyam iti śikṣayati ॥ 
+vadan makārakalāyāḥ saṁhāradaśāprādhānyaṁ garbhīkṛtapumādimāyāntatattva-saptakaṁ vidyākalāvyāptir ity ādy anumantavyam iti śikṣayati ॥ 
 
 One should consider that, amongst other things, it is taught that as one goes on uttering that (pratiṣthā) in this ({ďame way), the pervasion of Vidyākalā (develops. It consists of) the group of seven principles beginning with the individual soul and ending with Māyā encompassed (within it), and is predominantly the phase of withdrawal of the energy of the letter M. 
 

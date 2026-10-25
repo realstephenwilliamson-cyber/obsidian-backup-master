@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 60
 verses: 12
-page_range:
-  - 668
-  - 668
+page_range: "668"
 aliases:
   - "BCP Psalm 60"
   - "BCP 668"
@@ -45,7 +43,7 @@ I will divide the valley of Succoth. ^60-6
 **60:7** Gilead is mine and Manasseh is mine; \*  
 Ephraim is my helmet and Judah my scepter. ^60-7
 
-[p. 668]
+[p. 668] ^pg668
 
 **60:8** Moab is my wash-basin,  
 on Edom I throw down my sandal to claim it, \*  

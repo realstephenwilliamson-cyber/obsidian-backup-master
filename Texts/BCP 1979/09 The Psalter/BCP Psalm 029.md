@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 29
 verses: 11
-page_range:
-  - 621
-  - 621
+page_range: "621"
 aliases:
   - "BCP Psalm 29"
   - "BCP 621"
@@ -54,7 +52,7 @@ all are crying, "Glory!" ^29-9
 **29:10** The LORD sits enthroned above the flood; \*  
 the LORD sits enthroned as King for evermore. ^29-10
 
-[p. 621]
+[p. 621] ^pg621
 
 **29:11** The LORD shall give strength to his people; \*  
 the LORD shall give his people the blessing of peace. ^29-11

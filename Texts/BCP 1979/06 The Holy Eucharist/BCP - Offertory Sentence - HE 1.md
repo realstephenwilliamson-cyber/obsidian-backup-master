@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/offsenthe1.html"
-page_range:
-  - 343
-  - 344
+page_range: "343–344"
 aliases:
   - "BCP 344"
 ---
@@ -15,7 +13,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 343–344
 
-[p. 343]
+[p. 343] ^pg343
 
 ## Offertory Sentences
 
@@ -31,7 +29,7 @@ I beseech you, brethren, by the mercies of God, to present yourselves as a livin
 
 If thou bring thy gift to the altar, and there rememberest that thy brother hath aught against thee, leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift. *[[Matthew 05#^5-23|Matthew 5:23]],24*
 
-[p. 344]
+[p. 344] ^pg344
 
 Through Christ let us continually offer to God the sacrifice of praise, that is, the fruit of lips that acknowledge his Name. But to do good and to distribute, forget not; for with such sacrifices God is well pleased. *[[Hebrews 13#^13-15|Hebrews 13:15]],16*
 

@@ -107,11 +107,11 @@ of the Binding Power of Impurity
 मक्ता अपि न मुक्ताः स्युः शक्तिं चास्य न मन्महे ।। ६० ॥
 
 athāsya pāko nāmaiṣa svaśaktipratibaddhatā |
-sarvān prati tathaiṣa syād ruddhaśaktir viṣāgnivat || 59 Il punar udbhūtaśaktau ca svakāryaṁ syād viṣāgnivat | 
+sarvān prati tathaiṣa syād ruddhaśaktir viṣāgnivat || 59 || punar udbhūtaśaktau ca svakāryaṁ syād viṣāgnivat | 
 
 *[p. 161]* ^pg181
 
-muktā api na muktāḥ syuḥ śaktin cāsya na manmahe ॥ 60 I| 
+muktā api na muktāḥ syuḥ śaktin cāsya na manmahe ॥ 60 ॥ 
 
 Now, (the opponent replies that,) this (process whereby Impurity) matures (pāka) is the paralysis (pratibaddhatā) of its powers (not its destruction). (In that case, we would say) that (Impurity) should then be like that, namely, with its power paralyzed for everybody, like fire (that burns everything that is inflammable placed in it) or poison (that affects everybody who takes it). Moreover, when its power awakens, it would (give rise to its) own effect again, as does fire (that has gone out and is then relit,) or poison (ingested a second time). Thus, those who have been liberated would become bound (again). Moreover, we fail to understand what this power (of Impurity) could be.” (59-60) 
 
@@ -285,9 +285,9 @@ Again, with regards to the latter view, what is said to be the balancing out of 
 विरोधात्कर्मणी रुद्धे तिष्ठतः साम्यमीदृशम् ॥ ६८ ॥
 
 karmasāmyam apekṣyātha tasyecchā saṁpravartate |
-tasyāpi rīpami vaktavyarn samatā karmanṇāṁi hi kā | 67 ||
+tasyāpi rīpami vaktavyaṁ samatā karmanṇāṁi hi kā | 67 ||
 bhogaparyāyamāhātmyāt kāle kvāpi phalarin prati |
-virodhāt karmanṇī ruddhe tiṣthataḥ sāmyam īdṛśam |l 68 ॥ 
+virodhāt karmanṇī ruddhe tiṣthataḥ sāmyam īdṛśam ॥ 68 ॥ 
 
 Now, (if you say that) his will (to act in this way) operates depending on the balancing out of (opposite) Karmas (that cancel each other out) (karmasāmya), then (you) should explain what that (state of balance) is also.” What (do you mean by the) balancing out of Karmas? 
 
@@ -428,7 +428,7 @@ There (in that case), if (the Lord’s liberating action) depended on that in a 
 किं चानादिरयं भोगः कमीनादि सपुद्रलम् ।
 ततश्च भोगपयीयकाल; सर्वस्य निःसमः ॥ ७५ ॥
 
-kirn cānādir \[illegible\] bhogaḥ karmānādi sapudgalam |
+kiṁ cānādir \[illegible\] bhogaḥ karmānādi sapudgalam |
 tataś ca bhogaparyāya kālaḥ sarvasya nihsamaḥ || 75 ॥ 
 
 Again, Karma, this worldly experience (which is its consequence), and the individual soul, are all three without beginning; thus, how can (the lapse of) time (required to get through) the ongoing worldly experience (bhogaparyāya) not be the same for all (three, and all souls)?” (75) 
@@ -447,7 +447,7 @@ Again, this difference (viśeṣa) (in time) would be possible (only) if any one
 
 ādimattve hi kasyāpi vargād asmād bhaved iyam |
 vaicitrī bhuktam etena kalpam etena tu dvayam || 76 ॥
-iyato bhogaparyāyāt syāt \[illegible\] \[illegible\] karmanām iti | 
+iyato bhogaparyāyāt syāt sāmyaṁ karmaṇām iti | 
 
 A variety (of temporal situations) would be possible (only if) any one of this group (of three) were to have (an ascertainable) beginning (in such a way that one could say that) this (soul, for example,) has undergone 
 
@@ -489,7 +489,7 @@ He establishes that this is (indeed) inconceivable.
 अनादिमलसंच्छन्ना अणवो दूविक्रियात्मना ।। ७८ ॥।
 सर्वे तुल्याः कथं चित्रं श्रिताः कर्मपरम्पराम् ।
 
-anādimalasaricchannā aṇavo dṛkkriyātmanā || 78 Il sarve tulyāḥ kathan citrām śritāḥ karmaparamparām | 
+anādimalasaricchannā aṇavo dṛkkriyātmanā || 78 || sarve tulyāḥ kathan citrām śritāḥ karmaparamparām | 
 
 Individual souls are (all) obscured by beginningless Impurity, and (their) nature is knowledge and action, (and so they) are all (essentially) the same. So how is it that they are (each) engaged in (such a) varied series of Karmas? (78cd-79ab) 
 
@@ -529,7 +529,7 @@ All the Reasons Advanced as the Cause of the Soul’s Bondage are Untenable
 
 anādikarmasamiskāravaicitryād iti cet punaḥ |
 vācyaṁ tad eva vaicitryari kuto niyatirāgayoḥ ॥ 80 ॥
-mahimā ced ayaṁ tau kirn nāsamañjasyabhāginau | 
+mahimā ced ayaṁ tau kiṁ nāsamañjasyabhāginau | 
 
 If (you were to say) that it is due to the variety of the latent traces (left by) beginningless Karma,” then one would again have to explain how that variety (of latent traces) arises. If (you say) that it is due to the power of Necessity (niyati) and Attachment (rāga), then why should these two not be liable to (the same) objection? (80-81ab) 
 
@@ -559,7 +559,7 @@ Now, (if) it is said that the reason (nimitta) for the variety of Karma (of each
 ईरच्छानपेक्षा तु भेदहेतुर्नं कल्पते ॥
 ॥
 
-Tśvarecchānapekṣā tu bhedahetur na kalpate ॥ 81 Il 
+Tśvarecchānapekṣā tu bhedahetur na kalpate ॥ 81 ॥ 
 
 (ls it due then to God’s will? No, because) the Lord’s will is (free. It does) not depend (on any causes or conditions, and so) cannot be conceived 
 
@@ -567,7 +567,7 @@ to be the cause of (any biased) distinctions.” (81cd)
 
 #### Viveka on 13.81
 
-(The Lord’s will) is not dependent in this way \[illegible\] (on any factor for its nature and application), because it is not logically feasible (ayogāt) (for that to be applied) to the result, which is the variety of Karma, as there is nothing apart from Impurity and Karma that (the will) could be dependent on. Nor is (the Lord’s) independent (will the cause of the diversity of the souls’ Karma). (The existence) of that variety (of Karma) cannot be logically explained (in this 
+(The Lord’s will) is not dependent in this way (tāvat) (on any factor for its nature and application), because it is not logically feasible (ayogāt) (for that to be applied) to the result, which is the variety of Karma, as there is nothing apart from Impurity and Karma that (the will) could be dependent on. Nor is (the Lord’s) independent (will the cause of the diversity of the souls’ Karma). (The existence) of that variety (of Karma) cannot be logically explained (in this 
 
 364?\. The variety of present Karma is said to be due to the variety of latent tendencies left behind by past Karma. These give rise to a desire for pleasure or aversion which are the cause of the variety of actions (that are done to acquire this pleasure or avoid that to which the individual is averse) which again leave behind a variety of latent tendencies leading to a variety of actions and so on. Thus, instead of explaining the origin of this variety in this way this line of reasoning leads to a self-destructive vicious circle.
 
@@ -714,7 +714,7 @@ kvāpi kāle tayor etad audāsīnyaṁ yadā tataḥ ॥ 89 ॥
 kālāntare tayos tadvad virodhasyānivṛttitaḥ |
 ataś ca na phaletānte tābhyāṁ karmāntarāni ca ॥ 90 ||
 ruddhāni prāptakālatvād gatābhyām upabhogyatām |
-evar sadaiva vārtāyām dehapāte tathaiva ca || 91 Il jāte vimokṣa ity āstām śaktipātādikalpanā | 
+evar sadaiva vārtāyām dehapāte tathaiva ca || 91 || jāte vimokṣa ity āstām śaktipātādikalpanā | 
 
 *[p. 180]* ^pg200
 
@@ -757,7 +757,7 @@ Now, there (in those circumstances), no other (subsequent) Karma would give rise
 फलतः प्रतिबन्धस्य वर्जनं किंकृतं तयोः
 
 kṣaṇāntare ‘tha te eva pratibandhavivarjite ॥ 93 ॥
-phalataḥ pratibandhasya varjanari kirn kṛtaṁ tayoḥ | 
+phalataḥ pratibandhasya varjanari kiṁ kṛtaṁ tayoḥ | 
 
 (You may respond that) these two actions will give rise to their fruits in another (future) moment, devoid of the constraint (that holds them in check). Ultimately, (this line of reasoning leads to a basic question, which is,) what terminates the opposition between them? (93cd-94ab) 
 
@@ -794,7 +794,7 @@ In the same way as grace cannot be explained by assuming your view, so too the o
 कर्मसाम्येन यत्कृत्यं प्रागवैतत्कृतं किल ।
 
 tirobhāvaś ca nāmāyari sa kasmād udbhavet punaḥ ॥ 95 ॥
-karmasāmyena yat kṛtyarn prāg evaitat kṛtaṁ kila | 
+karmasāmyena yat kṛtyaṁ prāg evaitat kṛtaṁ kila | 
 
 Again, from what then could this obscuration (tirobhāva) arise subsequently? (It could not be) the state of equilibrium between Karmas, which (according to you,) performed its function (of bringing about a descent of the power of grace) previously. (95cd-96ab) 
 
@@ -805,7 +805,7 @@ The job of the balance of (opposing) Karmas amounts to this much alone; that is,
 Surely, (the opponent may rejoin,) what is the use of these (supposed causes of the soul’s subsequent obscuration)? One should say that it is the Lord’s will itself that is the cause. Accordingly, he says: 
 
 हेतुत्वे चेश्वरच्छाया वाच्यं पूर्ववदेव तु ॥ ९६ ॥
-\[illegible\] ceśvarecchāyā vācyari pūrvavad eva tu || 96 I| 
+\[illegible\] ceśvarecchāyā vācyari pūrvavad eva tu || 96 || 
 
 If you say the cause (which brings this about) is the Lord’s will, (then the same objections are applicable) as before. \[illegible\] 
 
@@ -848,7 +848,7 @@ Now one could say that the Supreme Lord bestows the descent of the power (of His
 vairāgyaṁi bhogavairasya dharmaḥ ko ‘pi vivekitā |
 satsaṅgaḥ parameśānapūjādyabhyāsanityatā ॥ 98 ॥
 āpatprāptis tannirīkṣā dehe kiñcic ca lakṣaṇam |
-sāstrasevā bhogasaṁghapūrṇatā jṁānam aiśvaram Il 99 ||
+sāstrasevā bhogasaṁghapūrṇatā jṁānam aiśvaram || 99 ||
 ity apekṣyaṁ yadīśasya dūṣyam etac ca pūrvavat | 
 
 All the various causes on which the Lord is said to depend (in order to dispense His grace, according to one view or another), such as, dispassion (vairāgya), disgust for worldly experience (bhogavairasya), religious observance (dharma), a certain kind of discrimination, association with spiritual people, the worship of the Supreme Lord and other (deities), regular spiritual practice, indifference to the calamities which befall one, some sign (lakṣana) (of spiritual attainment that appears) on the body, the veneration (sevā) of the scriptures, the completion of (all) the aggregate of worldly experience (bhogasanghapūrnatā), and knowledge of God, are (all implicitly) faulted (dūṣya) as before (by the preceding arguments). (98- 100ab) 
@@ -916,7 +916,7 @@ The Power of the Descent of Grace
 bhrāntiviṣāveśamūrcchānirmokadāyinīm |
 śrīśaṁbhuvadanodgīrnām vacmy āgamamahauṣadhīm ॥ 102 ॥ 
 
-Thus, in this manner I will (now) speak about the great medicinal herb of the tradition (āgama) that has come forth from the mouth of the venerable Śambhunātha, that grants release from the stupor (brought about by) the penetration \[illegible\] of the poison of error (and confusion). ” (102) 
+Thus, in this manner I will (now) speak about the great medicinal herb of the tradition (āgama) that has come forth from the mouth of the venerable Śambhunātha, that grants release from the stupor (brought about by) the penetration (āveśa) of the poison of error (and confusion). ” (102) 
 
 #### Viveka on 13.102
 
@@ -953,7 +953,7 @@ Surely (one may ask), what purpose of transmigratory existence (saṁsārārtha)
 बध्नात्यात्मानमेवेह स्वातन््यादिति वर्णितम् ।॥ १०४ ॥
 
 sa svayaṁ kalpitākāravikalpātmakakarmabhiḥ |
-badhnāty ātmānam eveha svātantryād iti varnitam |l 104 ॥ 
+badhnāty ātmānam eveha svātantryād iti varnitam ॥ 104 ॥ 
 
 It has been explained (in the scriptures) that it is (Śiva) Himself who, out of His own free will, binds Himself here (in this world) by actions, which are essentially thoughts with (variously) conceived forms. TMTM (104) 
 
@@ -1060,7 +1060,7 @@ Surely (one may ask), an individual soul does not engage in action, whether it i
 तत्राणोः सत एवास्ति स्वात्यं कर्मतो हि तत् ।
 
 channasvarūpatābhāse this)?[^385] yad yādṛśaṁi phalam ॥ 109 ॥
-tatrāṇoḥ sata evāsti svātantryarnṁ karmato hi tat | 
+tatrāṇoḥ sata evāsti svātantryaṁ karmato hi tat | 
 
 When the innate luminosity of the individual soul is obscured, the freedom (to act) (svātantrya) the individual soul possesses there in that case bears its corresponding fruit, which is (as limited) as is (its freedom,) because it is (due to its) Karma (not the activity of the unobscured Śiva nature). (109cd-110ab) 
 
@@ -1155,7 +1155,7 @@ Surely (one may object), if that is so, what is the use of Impurity and the rest
 
 इत्थं सृष्टिस्थितिध्वंसत्रय मायामपेक्षते || ११३ ॥
 कृत्यै मलं तथा कर्म शिवेच्रैवेति सुस्थितम् ।
-ittharn sṛṣtisthitidhvaṁsatraye māyām apekṣate ॥ 113 ॥
+itthaṁ sṛṣtisthitidhvaṁsatraye māyām apekṣate ॥ 113 ॥
 kṛtyai malar tathā karma śivecchaiveti susthitam | 
 
 It is well established in this way that Śiva’s will requires Māyā, Karma and Impurity to carry out the three (acts of) creation, persistence and destruction. (113cd-114ab) 
@@ -1198,7 +1198,7 @@ tatrāsya nāṇuge tāvad apekṣye malakarmanī |
 anusvarūpatāhānau tadgatarni hetutām katham || 115 ॥
 vrajen māyānapekṣatvam ata evopapādayet | 
 
-There (in that case), (Śiva) does not depend in this way \[illegible\] on the Impurity and Karma present in the (fettered) individual soul (to do this). How can that (Impurity) present (there) bring about the destruction of the (fettered) nature of an individual soul (anusvarūpatā)? Thus, one can establish on the basis of sound reason that (when Śiva is gracing the soul,) He becomes independent of Māyā (in order to do so). (115-116ab) 
+There (in that case), (Śiva) does not depend in this way (tāvat) on the Impurity and Karma present in the (fettered) individual soul (to do this). How can that (Impurity) present (there) bring about the destruction of the (fettered) nature of an individual soul (anusvarūpatā)? Thus, one can establish on the basis of sound reason that (when Śiva is gracing the soul,) He becomes independent of Māyā (in order to do so). (115-116ab) 
 
 #### Viveka on 13.115–116
 
@@ -1213,7 +1213,7 @@ Thus, it is reasonably sound (to maintain) that the Supreme Lord’s agency is n
 the Degrees of Grace 
 
 तेन शुद्धः स्वप्रकाशः शिव एवात्र कारणम् ।
-tena śuddhaḥ svaprakāśaḥ śiva evātra kāraṇam || 116 Il 
+tena śuddhaḥ svaprakāśaḥ śiva evātra kāraṇam || 116 || 
 
 *[p. 195]* ^pg215
 

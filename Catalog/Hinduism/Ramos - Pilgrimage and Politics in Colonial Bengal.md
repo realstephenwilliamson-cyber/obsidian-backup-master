@@ -17,8 +17,7 @@ language:
   - English
 pages: 147
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Ramos - Pilgrimage and Politics in Colonial Bengal (2017).pdf]]"
 aliases:

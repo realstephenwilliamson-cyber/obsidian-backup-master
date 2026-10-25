@@ -5,9 +5,7 @@ section: "The Collects"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Collects/variousc.html"
-page_range:
-  - 251
-  - 261
+page_range: "251–261"
 aliases:
   - "BCP 251"
   - "BCP 252"
@@ -25,7 +23,7 @@ aliases:
 
 [[BCP 1979]] · *The Collects* · pages 251–261
 
-[p. 251]
+[p. 251] ^pg251
 
 ## Various Occasions
 
@@ -49,7 +47,7 @@ Everlasting God, you have ordained and constituted in a wonderful order the mini
 
 *Preface of Trinity Sunday*
 
-[p. 252]
+[p. 252] ^pg252
 
 ### 4. Of the Incarnation
 
@@ -97,7 +95,7 @@ Almighty God, we remember before you today your faithful servant *N.*; and we pr
 
 *The postcommunion prayer on page 498 may be used.*
 
-[p. 254]
+[p. 254] ^pg254
 
 ### 9. Of the Reign of Christ
 
@@ -137,7 +135,7 @@ Almighty Father, whose blessed Son before his passion prayed for his disciples t
 
 *Preface of Baptism, or of Trinity Sunday*
 
-[p. 256]
+[p. 256] ^pg256
 
 ### 15. For the Ministry (Ember Days)
 
@@ -171,7 +169,7 @@ O God of all the nations of the earth: Remember the multitudes who have been cre
 
 *Preface of the Season, or of Pentecost*
 
-[p. 258]
+[p. 258] ^pg258
 
 ### 17. For the Nation
 
@@ -209,7 +207,7 @@ O merciful Creator, your hand is open wide to satisfy the needs of every living 
 
 *Preface of the Season*
 
-[p. 260]
+[p. 260] ^pg260
 
 ### 20. For the Sick
 
@@ -231,7 +229,7 @@ Heavenly Father, whose blessed Son came not to be served but to serve: Bless all
 
 *Preface of the Season*
 
-[p. 261]
+[p. 261] ^pg261
 
 ### 23. For Education
 

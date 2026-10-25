@@ -4,11 +4,11 @@ book: "[[The Essential Kabbalah (Matt)]]"
 order: 12
 page_range: "147–158"
 ---
-[p. 147]
+[p. 147] ^pg147
 
 # ![[essential-kabbalah-9780062048134_023.png]] Living in the Material World
 
-[p. 148]
+[p. 148] ^pg148
 
 ### THE JOURNEY OF THE SOUL
 
@@ -18,7 +18,7 @@ Before descending to this world, the soul is emanated from the mystery of the hi
 
 At first, before descending to this world, the soul is imperfect; she is lacking something. By descending to this world, she is perfected in every dimension.
 
-[p. 149]
+[p. 149] ^pg149
 
 ### BRINGING FORTH SPARKS
 
@@ -28,7 +28,7 @@ Sparks of holiness intermingle with everything in the world, even inanimate obje
 
 So when you are about to eat bread, say the *motsi:* “Blessed are you, YHVH our God, sovereign of the world, who brings forth bread from the earth.” Then by eating, you bring forth sparks that cleave to your soul.
 
-[p. 150]
+[p. 150] ^pg150
 
 ### TASTING THE SPARKS
 
@@ -36,13 +36,13 @@ WHEN YOU eat and drink, you experience enjoyment and pleasure from the food and 
 
 Answer yourself, “This is nothing but the holy sparks from the sublime holy worlds that are within the food and drink.”
 
-[p. 151]
+[p. 151] ^pg151
 
 ### THE GREATEST PATH
 
 WHEN YOU desire to eat or drink, or to fulfill other worldly desires, and you focus your awareness on the love of God, then you elevate that physical desire to spiritual desire. Thereby you draw out the holy spark that dwells within. You bring forth holy sparks from the material world. There is no path greater than this. For wherever you go and whatever you do—even mundane activities—you serve God.
 
-[p. 152]
+[p. 152] ^pg152
 
 ### RAISING THE SPARKS
 
@@ -52,7 +52,7 @@ The ideal ripens within our spirit as we ascend. As we become aware of the ideal
 
 We raise these scattered sparks and arrange them into worlds, constructed within us, in our private and social lives. In proportion to the sparks we raise, our lives are enriched. Everything accords with how we act. The higher the aspiration, the greater the action; the deeper the insight, the higher the aspiration.
 
-[p. 153]
+[p. 153] ^pg153
 
 ### EVERYTHING ASPIRES
 
@@ -66,7 +66,7 @@ Everything teems with richness, everything aspires to ascend and be purified. Ev
 
 THERE IS a secular world and a holy world, secular worlds and holy worlds. These worlds contradict one another. The contradiction, of course, is subjective. In our limited perception we cannot reconcile the sacred and the secular, we cannot harmonize their contradictions. Yet at the pinnacle of the universe they are reconciled, at the site of the holy of holies.
 
-[p. 154]
+[p. 154] ^pg154
 
 ### THE SONG OF SONGS
 
@@ -80,7 +80,7 @@ Then there is one who expands even further until he unites with all of existence
 
 There is one who ascends with all these songs in unison—the song of the soul, the song of the nation, the song of humanity, the song of the cosmos—resounding together, blending in harmony, circulating the sap of life, the sound of holy joy.
 
-[p. 155]
+[p. 155] ^pg155
 
 ### SEXUAL HOLINESS
 
@@ -94,7 +94,7 @@ When sexual union is for the sake of heaven, there is nothing as holy or pure. T
 
 You should welcome her with words that draw her heart, calm her mind, and bring her joy. Then her mind will be linked with yours, and your intention with hers. Speak with her in words that arouse desire, love, and passionate union—and in words that draw her to the awe of God.
 
-[p. 157]
+[p. 157] ^pg157
 
 ### HOLY PLEASURE
 
@@ -104,7 +104,7 @@ What he said helped me understand a saying of our rabbis, may their memory be a 
 
 Sometime later, God favored me with a gift of grace, granting me understanding of the essence of sexual holiness. The holiness derives precisely from feeling the pleasure. This secret is wondrous, deep, and awesome.
 
-[p. 158]
+[p. 158] ^pg158
 
 ### THE GIFT OF HOLINESS
 

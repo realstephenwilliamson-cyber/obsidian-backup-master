@@ -19,7 +19,7 @@ language:
 pages:
 text: searchable
 status: review
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Rastogi - Metaphysics and Tantric Esotericism of Krama/Part 1.pdf]]"
   - "[[Library/Trika/Rastogi - Metaphysics and Tantric Esotericism of Krama/Part 2.pdf]]"

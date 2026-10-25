@@ -21,8 +21,7 @@ language:
   - Mandaic
 pages: 234
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The_Mandaean_Book_of_John_Open_Access_Ve.pdf]]"
   - "[[Library/Christianity/The Mandaean Book of John (Haberl)/The Mandaean Book of John (Haberl)]]"

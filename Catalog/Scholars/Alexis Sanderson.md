@@ -3,13 +3,13 @@ type: scholar
 name: "Alexis Sanderson"
 aliases: []
 subjects: [Trika, Hinduism]
-affiliation: "Spalding Professor of Eastern Religions and Ethics, University of Oxford, and Fellow of All Souls College"
+affiliation: "Emeritus Fellow of All Souls College, Oxford; Spalding Professor of Eastern Religions and Ethics, University of Oxford, 1992–2015"
 catalog_names: ["Alexis Sanderson"]
 profiled: 2026-10-15
 ---
 # Alexis Sanderson
 
-Spalding Professor of Eastern Religions and Ethics, University of Oxford, and Fellow of All Souls College ([source](https://www.tantric-studies.uni-hamburg.de/people/sanderson.html)).
+Emeritus Fellow of All Souls College, Oxford, since 2015; Spalding Professor of Eastern Religions and Ethics, University of Oxford, and Fellow of All Souls from 1992 until he retired in 2015 ([All Souls](https://www.asc.ox.ac.uk/people/professor-alexis-sanderson); [OCHS](https://ochs.org.uk/fellow/professor-alexis-g-j-s-sanderson/)).
 
 ## In the library
 
@@ -30,5 +30,7 @@ Moved on 15 Oct 2026 from [[Scholars - library and free sources]], where these l
 
 ## Sources
 
-- [www.tantric-studies.uni-hamburg.de](https://www.tantric-studies.uni-hamburg.de/people/sanderson.html): present position (as checked on 5 Oct 2026).
+- [www.asc.ox.ac.uk](https://www.asc.ox.ac.uk/people/professor-alexis-sanderson): Emeritus Fellow since 2015; Spalding Professor and Fellow of All Souls from 1992 to 2015 (opened 25 Oct 2026).
+- [OCHS, fellow page](https://ochs.org.uk/fellow/professor-alexis-g-j-s-sanderson/): elected to the Spalding chair in 1992, retired from it in 2015 (opened 25 Oct 2026).
+- [www.tantric-studies.uni-hamburg.de](https://www.tantric-studies.uni-hamburg.de/people/sanderson.html): the position as given on 5 Oct 2026 (Spalding Professor and Fellow of All Souls), superseded by the two pages above.
 - [[Scholars - library and free sources]] (5 Oct 2026), the earlier entry this page replaces.

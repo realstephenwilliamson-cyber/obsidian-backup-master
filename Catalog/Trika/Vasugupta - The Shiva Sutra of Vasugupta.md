@@ -19,8 +19,7 @@ language:
   - English
 pages: 38
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[eng-sk-shiva-sutra-gerard.pdf]]"
   - "[[Library/Trika/The Shiva Sutra of Vasugupta (Vasugupta)]]"

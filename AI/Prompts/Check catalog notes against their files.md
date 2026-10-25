@@ -30,8 +30,8 @@ For each note:
    - series, volume, and container for an article or chapter;
    - type, language, and pages (the PDF's page count for one file).
 3. Change a value only when the evidence shows it. Never fill one from memory. If the file doesn't show it, you may settle one missing detail online; cite the exact URL in the note.
-4. Leave text, subject, files, aliases and physical_copy alone. If the subject looks wrong, say so in the report instead.
-5. Set status to keep when everything is settled. Leave it as review only if something important can't be settled, and say exactly what in the body.
+4. Leave text, subject, files, aliases and print alone. If the subject looks wrong, say so in the report instead.
+5. Empty status (the key stays, with no value) when everything is settled. Leave it as review only if something important can't be settled, and say exactly what in the body.
 6. Add one line to the body:
    **Checked against the file** on <date>: <one plain sentence saying what was confirmed or corrected; if still in review, what remains open>.
    Do not delete earlier dated lines.

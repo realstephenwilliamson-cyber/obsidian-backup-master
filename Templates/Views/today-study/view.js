@@ -25,7 +25,7 @@ const fail = e => {
 try { // (the body is not indented, to keep the change small)
 const dir = "Texts/Tantraloka/Study plan/";
 // the homilies folder is wherever the note "Homilies" (its folder note) is (12 Oct 2026, restructure)
-const HOMILIES = app.metadataCache.getFirstLinkpathDest("Homilies", "")?.parent?.path || "Writing/Homilies";
+const HOMILIES = app.metadataCache.getFirstLinkpathDest("Homilies", "")?.parent?.path || "Projects/Homilies";
 // A date in the input ({ date: "2026-10-18" }) shows that day (18 Oct 2026, for testing the Holy Days); the buttons still use the real date.
 const now = input && input.date ? moment(String(input.date) + " 12:00", "YYYY-MM-DD HH:mm") : moment(); const today = now.format("YYYY-MM-DD");
 // The Holy Days (18 Oct 2026): the shared holyday view; without it the view works as before.

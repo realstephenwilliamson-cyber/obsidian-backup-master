@@ -4,7 +4,7 @@ book: "[[Play as Symbol of the World (Fink)]]"
 order: 18
 page_range: "303–319"
 ---
-[p. 303]
+[p. 303] ^pg303
 
 ## German Editors’ Afterword
 

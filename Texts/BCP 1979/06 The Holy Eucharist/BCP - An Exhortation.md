@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/exhortation.html"
-page_range:
-  - 316
-  - 317
+page_range: "316–317"
 aliases:
   - "BCP 316"
   - "BCP 317"
@@ -16,7 +14,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 316–317
 
-[p. 316]
+[p. 316] ^pg316
 
 ## An Exhortation
 
@@ -30,7 +28,7 @@ But if we are to share rightly in the celebration of those holy Mysteries, and b
 
 For, as the benefit is great, if with penitent hearts and living faith we receive the holy Sacrament, so is the danger great, if we receive it improperly, not recognizing the Lord’s Body. Judge yourselves, therefore, lest you be judged by the Lord.
 
-[p. 317]
+[p. 317] ^pg317
 
 Examine your lives and conduct by the rule of God's commandments, that you may perceive wherein you have offended in what you have done or left undone, whether in thought, word, or deed. And acknowledge your sins before Almighty God, with full purpose of amendment of life, being ready to make restitution for all injuries and wrongs done by you to others; and also being ready to forgive those who have offended you, in order that you yourselves may be forgiven. And then, being reconciled with one another, come to the banquet of that most heavenly Food.
 

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 86
 verses: 17
-page_range:
-  - 710
-  - 711
+page_range: "710–711"
 aliases:
   - "BCP Psalm 86"
   - "BCP 710"
@@ -26,7 +24,7 @@ Hebrew text and JPS translation: [[Psalms 086]]
 **86:1** Bow down your ear, O LORD, and answer me, \*  
 for I am poor and in misery. ^86-1
 
-[p. 710]
+[p. 710] ^pg710
 
 **86:2** Keep watch over my life, for I am faithful; \*  
 save your servant who puts his trust in you. ^86-2
@@ -66,7 +64,7 @@ and glorify your Name for evermore. ^86-12
 **86:13** For great is your love toward me; \*  
 you have delivered me from the nethermost Pit. ^86-13
 
-[p. 711]
+[p. 711] ^pg711
 
 **86:14** The arrogant rise up against me, O God,  
 and a band of violent men seeks my life; \*  

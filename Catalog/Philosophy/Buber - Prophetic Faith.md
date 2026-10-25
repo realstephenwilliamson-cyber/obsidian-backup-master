@@ -18,8 +18,7 @@ language:
   - English
 pages: 250
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Buber - Prophetic Faith (1960).pdf]]"
   - "[[Library/Philosophy/The Prophetic Faith (Buber)/The Prophetic Faith (Buber)]]"

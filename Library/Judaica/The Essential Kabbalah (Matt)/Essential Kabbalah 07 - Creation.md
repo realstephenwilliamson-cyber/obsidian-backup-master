@@ -4,11 +4,11 @@ book: "[[The Essential Kabbalah (Matt)]]"
 order: 7
 page_range: "89–99"
 ---
-[p. 89]
+[p. 89] ^pg89
 
 # ![[essential-kabbalah-9780062048134_023.png]] Creation
 
-[p. 90]
+[p. 90] ^pg90
 
 ### THE HIDDEN LIGHT
 
@@ -43,7 +43,7 @@ Since the first day, the light has never been fully revealed,
 but it is vital to the world,
 renewing each day the act of Creation.”
 
-[p. 91]
+[p. 91] ^pg91
 
 ### CONCEALING AND REVEALING
 
@@ -54,7 +54,7 @@ With the concealment of the light, the things that exist were created in all the
 This is the secret of the act of Creation.
 One who understands will understand.
 
-[p. 92]
+[p. 92] ^pg92
 
 ### THE DIVINE BREATH
 
@@ -64,7 +64,7 @@ So God, great, mighty, and awesome, powerfully breathed out a breath, and cosmic
 
 HOW DID God create the world? Like a person taking a deep breath and holding it, so that the small contains the large. Similarly God contracted his light to a divine hand-breadth, and the world was left in darkness. In the darkness God carved cliffs and hewed rocks to clear wondrous paths of wisdom.
 
-[p. 93]
+[p. 93] ^pg93
 
 ### TSIMTSUM: CREATIVE WITHDRAWAL
 
@@ -72,7 +72,7 @@ WISDOM IS the end of what you can ponder in thought, for Keter, the highest sefi
 
 BEFORE THE creation of the world, Ein Sof withdrew itself into its essence, from itself to itself within itself. It left an empty space within its essence, in which it could emanate and create.
 
-[p. 94]
+[p. 94] ^pg94
 
 ### TSIMTSUM AND SHEVIRAH: WITHDRAWAL AND SHATTERING
 
@@ -84,25 +84,25 @@ To fashion pottery, the potter first takes an unformed mass of clay and then put
 
 When the light emanated once again—regenerated, arrayed anew— it extended only to the end of the world of emanation. “Emanation” denotes this extension of the light of Ein Sof during the time of regeneration. Emanation consists of five visages. These visages are reconfigurations of the points of light, capable now of receiving the light, so that no shattering occur, as at first. Below these visages the light of Ein Sof appears only through a screen. As when you sit in the shade: though the sun does not shine on you directly, it illuminates the shaded area. In a similar manner, the light of Ein Sof illuminates the world of creation through a screen, indirectly.
 
-[p. 96]
+[p. 96] ^pg96
 
 ### SHATTERING AND GROWTH
 
 THE SUPERNAL vacuum is like a field, in which are sown ten points of light. Just as each grain of seed grows according to its fertile power, so does each of these points. And just as a seed cannot grow to perfection as long as it maintains its original form—growth coming only through decomposition—so these points could not become perfect configurations as long as they maintained their original form but only by shattering.
 
-[p. 97]
+[p. 97] ^pg97
 
 ### TRACES
 
 TRACES OF the light adhered to the shards of the shattered vessels. This may be compared to a vessel full of oil. If it breaks and the oil spills out, a bit of the liquid adheres to the shards in the form of drops. Likewise in our case, a few sparks of light adhered. When the shards descended to the bottom of the world of actualization, they were transformed into the four elements—fire, air, water, and earth—from which evolved the stages of mineral, vegetable, animal, and human. When these materialized, some of the sparks remained hidden within the varieties of existence. You should aim to raise those sparks hidden throughout the world, elevating them to holiness by the power of your soul.
 
-[p. 98]
+[p. 98] ^pg98
 
 ### CREATIVE AROUSAL
 
 THE WORLD could be created only by virtue of the action of the righteous, the arousal of those below. So God contemplated the good deeds of the righteous—yet to be created—and this act of thinking was enough to actualize the thought. God drew forth light from within himself and delighted himself with holy people, like those who would eventually be. This joy engendered undulation, greater delight. In the bliss of contemplating the righteous, of imagining holy people—in this fluctuation, the power to create was born.
 
-[p. 99]
+[p. 99] ^pg99
 
 ### RENEWAL
 

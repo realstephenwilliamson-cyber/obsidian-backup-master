@@ -4,7 +4,7 @@ work: "[[Catalog/Trika/Goudriaan (ed.) - The Vinasikhatantra - A Saiva Tantra of
 book: "[[Library/Hinduism/The Vinasikhatantra (Goudriaan)/The Vinasikhatantra (Goudriaan)|The Vinasikhatantra (Goudriaan)]]"
 order: 6
 source_pdf: "Library/Hinduism/Vinasikhatantra_text.pdf"
-pages: "145–156"
+page_range: "145–156"
 pdf_pages: "156–167"
 text_source: "the PDF's earlier OCR text layer (a scan), PyMuPDF"
 converted: 2026-10-22

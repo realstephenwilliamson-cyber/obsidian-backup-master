@@ -5,9 +5,7 @@ section: "Pastoral Offices"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/PastoralOffices/burialorder.html"
-page_range:
-  - 506
-  - 507
+page_range: "506–507"
 aliases:
   - "BCP 506"
   - "BCP 507"
@@ -16,7 +14,7 @@ aliases:
 
 [[BCP 1979]] · *Pastoral Offices* · pages 506–507
 
-[p. 506]
+[p. 506] ^pg506
 
 ## An Order for Burial
 
@@ -38,7 +36,7 @@ aliases:
 
 \8. If there is a Communion, it precedes the commendation, and begins with the Peace and Offertory of the Eucharist. Any of the authorized eucharistic prayers may be used.
 
-[p. 507]
+[p. 507] ^pg507
 
 **Note:**
 

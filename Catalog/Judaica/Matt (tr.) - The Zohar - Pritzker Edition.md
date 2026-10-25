@@ -22,8 +22,7 @@ language:
   - Aramaic
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Zohar]]"
   - "[[Zohar folio index]]"

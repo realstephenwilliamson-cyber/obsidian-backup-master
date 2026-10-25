@@ -18,8 +18,7 @@ language:
   - English
 pages: 22
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Bansat-Boudon - Nondual Saivism and the Debate on Jivanmukti.pdf]]"
   - "[[Library/Trika/The Contribution of Nondual Saivism of Kashmir to the Debate (Bansat-Boudon)]]"

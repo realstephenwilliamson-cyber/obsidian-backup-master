@@ -5,9 +5,7 @@ section: "Holy Baptism"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Baptism/adddirectbaptism.html"
-page_range:
-  - 312
-  - 314
+page_range: "312–314"
 aliases:
   - "BCP 312"
   - "BCP 313"
@@ -17,7 +15,7 @@ aliases:
 
 [[BCP 1979]] · *Holy Baptism* · pages 312–314
 
-[p. 312]
+[p. 312] ^pg312
 
 ## Additional Directions
 
@@ -41,7 +39,7 @@ If the Presentation of the Candidates does not take place at the font, then befo
 
 If the movement to the font is a formal procession, a suitable psalm, such as Psalm 42, or a hymn or anthem, may be sung.
 
-[p. 313]
+[p. 313] ^pg313
 
 Where practicable, the font is to be filled with clean water immediately before the Thanksgiving over the Water.
 
@@ -67,7 +65,7 @@ If you are not already baptized, *N*., I baptize you in the name of the Father, 
 
 I baptize you in the Name of the Father, and of the Son, and of the Holy Spirit.
 
-[p. 314]
+[p. 314] ^pg314
 
 *The Lord's Prayer is then said.*
 

@@ -104,7 +104,7 @@ K And the sensitive reader should not assign the name of dhvani to that area whi
 
 A For tbe patbs of dhvani and of subordinated suggestion are sometimes found merged in a poem. That one of the two whicb has the benefit of reason should give its designation to the poem. One should not be unduly partial to dhvani in all cases. For example:
 
-“With this, touch the moon in your husband's crest,” was the laughing benediction spoken by her friend after lacquering her foot; to which Pāratī said not a word but struck the girl with her garland.[^A636-1]’
+“With this, touch the moon in your husband's crest,” was the laughing benediction spoken by her friend after lacquering her foot; to which Pāratī said not a word but struck the girl with her garland.[^A636-1]
 
 (KumSam. 7.19)
 
@@ -116,7 +116,7 @@ The lady stood, her eyes suffused with tears, sayiag nothing, scratching with he
 
 \[Kirātārjunīya 8.14\]
 
-In both stanzas, as the phrases “without a word” and "saying nothing” appear by their negatives to denote to some extent the suggestion \[furnished by the remainder of the stanza), it seems best to take the suggestion as subordinated. It is when the suggested meaning appears as the sentence meaning without any indirect statement |to the same effect\]? that we can speak of that \[meaning\] as predominant, as in “While the heavenly visitor was speaking.”[^A636-4] But here there is a literal statement, at least in an indirect way (bhañgyã), so tbe literal statement also is important (literally, “predominant”). Accordingly, we should not designate tbese stanzas as dàvani of the type where the \[literal sense is subordinated to a) suggestion |which\] resembles a reverberation.[^A636-5]"
+In both stanzas, as the phrases “without a word” and "saying nothing” appear by their negatives to denote to some extent the suggestion \[furnished by the remainder of the stanza), it seems best to take the suggestion as subordinated. It is when the suggested meaning appears as the sentence meaning without any indirect statement |to the same effect\]? that we can speak of that \[meaning\] as predominant, as in “While the heavenly visitor was speaking.”[^A636-4] But here there is a literal statement, at least in an indirect way (bhañgyã), so tbe literal statement also is important (literally, “predominant”). Accordingly, we should not designate tbese stanzas as dàvani of the type where the \[literal sense is subordinated to a) suggestion |which\] resembles a reverberation.[^A636-5]
 
 *[p. 622]* ^pg637
 
@@ -497,9 +497,9 @@ In this verse, by its saying that when the many rose-apples ripen in the thicket
 
 *[p. 643]* ^pg658
 
-reddened by the juice of the fruit, as might occur from her hasty, stolen intercourse with her lover.[^L657-9]” This should be explanation enough.
+reddened by the juice of the fruit, as might occur from her hasty, stolen intercourse with her lover.[^L657-9] This should be explanation enough.
 
-Dhṁvani alone is poetry: What our author means is that in reality the soul and the body are the same, but for the purpose of analysis one may make a distinction.[^L657-10]’
+Dhṁvani alone is poetry: What our author means is that in reality the soul and the body are the same, but for the purpose of analysis one may make a distinction.[^L657-10]
 
 By the use of the \[second\] word vā (“or") our author includes the false or improper rasa and bhāva that were mentioned before (e.g., 2.3 K). In a hidden way: such that it receives beauty by being hidden. Along that road of poetry:. on that path of poetry. Has its realm: as much as to say that the \[whole\] path of poetry is the realm of the three kinds of dṁvani.™
 

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 23
 verses: 6
-page_range:
-  - 613
-  - 613
+page_range: "613"
 aliases:
   - "BCP Psalm 23"
   - "BCP 613"
@@ -28,7 +26,7 @@ I shall not be in want. ^23-1
 **23:2** He makes me lie down in green pastures \*  
 and leads me beside still waters. ^23-2
 
-[p. 613]
+[p. 613] ^pg613
 
 **23:3** He revives my soul \*  
 and guides me along right pathways for his Name's sake. ^23-3

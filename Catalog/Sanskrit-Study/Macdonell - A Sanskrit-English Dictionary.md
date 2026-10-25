@@ -19,7 +19,7 @@ language:
 pages: 404
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[A Sanskrit-English Dictionary.pdf]]"
 aliases: []

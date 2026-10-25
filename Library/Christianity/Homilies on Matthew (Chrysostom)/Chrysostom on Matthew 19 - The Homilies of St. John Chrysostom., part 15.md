@@ -24,7 +24,7 @@ And who is so wretched and miserable, one may say, as not to become gentle in pr
 
 6\. Nay, if thou wilt accuse, accuse thyself. If thou wilt whet and sharpen thy tongue, let it be against thine own sins. And tell not what evil another hath done to thee, but what thou hast done to thyself; for this is most truly an evil; since no other will really be able to injure thee, unless thou injure thyself. Wherefore, if thou desire to be against them that wrong thee, approach as against thyself first; there is no one to hinder; since by coming into court against another, thou hast but the greater injury to go away with.
 
-202\. 1 1 Tim. ii. 8. 2022 Ecclus. xviii. 16. 2023 Ecclus. iv. 8. 2024 Ecclus. ix. 15. \[ππτωμεν π γνατα, “fall on our knees” seems to be the more probable sense, as the context indicates. 2025 Compare the last sentence in the paragraph.—R.\] 1 Tim. vi. 16.
+2021 1 Tim. ii. 8. 2022 Ecclus. xviii. 16. 2023 Ecclus. iv. 8. 2024 Ecclus. ix. 15. \[ππτωμεν π γνατα, “fall on our knees” seems to be the more probable sense, as the context indicates. 2025 Compare the last sentence in the paragraph.—R.\] 1 Tim. vi. 16.
 
 
 *[p. 565]* ^pg573
@@ -71,9 +71,9 @@ And some also taking it as an allegory say, that when Christ came out of Judea, 
 
 The evangelist speaks against the woman, that he may show forth her marvellous act, and celebrate her praise the more. For when thou hearest of a Canaanitish woman, thou shouldest call to mind those wicked nations, who overset from their foundations the very
 
-202\. 8 \[R.V., “And Jesus went out thence and withdrew into the parts of Tyre and Sidon. And behold, a Canaanitish woman came out from those borders, and cried.” But Chrysostom agrees with the rec. text, in adding “unto Him.” There is some doubt as to the correct form of the Greek verb rendered “cried,” both in the New Testament and in Chrysostom’s text.—R.\] 2029 Mark vii. 24.
+2028 \[R.V., “And Jesus went out thence and withdrew into the parts of Tyre and Sidon. And behold, a Canaanitish woman came out from those borders, and cried.” But Chrysostom agrees with the rec. text, in adding “unto Him.” There is some doubt as to the correct form of the Greek verb rendered “cried,” both in the New Testament and in Chrysostom’s text.—R.\] 2029 Mark vii. 24.
 
-203\. 0 Acts x. 15, 20. 2031 Matt. x. 5. \[R.T. “*any* way.”\] 312 2033 See John iv. 49, and comp. Matt. ix. 18.
+2030 Acts x. 15, 20. 2031 Matt. x. 5. \[R.T. “*any* way.”\] 312 2033 See John iv. 49, and comp. Matt. ix. 18.
 
 
 *[p. 568]* ^pg576
@@ -112,7 +112,7 @@ What is this, O woman? Hast thou then greater confidence than the apostles? more
 
 What then saith the woman? Out of His own very words she frames her plea. “Why, though I be a dog,” said she, “I am not an alien.”
 
-203\. 5 Matt. xv. 24. 2036 Matt. xv. 25.
+2035 Matt. xv. 24. 2036 Matt. xv. 25.
 
 
 *[p. 570]* ^pg578
@@ -131,9 +131,9 @@ But do thou, I pray thee, together with her faith see also her humility. For He 
 
 Seest thou the woman’s wisdom, how she did not venture so much as to say a word against it, nor was stung by other men’s praises, nor was indignant at the reproach? Seest thou her constancy? He said, “It is not meet,” and she said, “Truth, Lord;” He called them “children,” but she “masters;” He used the name of a dog, but she added also the dog’s act. Seest thou this woman’s humility?
 
-203\. 8 John ix. 32. 2039 Matt. viii. 7.
+2038 John ix. 32. 2039 Matt. viii. 7.
 
-204\. 0 Matt. viii. 8. 2041 Luke viii. 46. 2042 John iv. 18. 2043 \[R.V., “for even the dogs,” etc.\]
+2040 Matt. viii. 8. 2041 Luke viii. 46. 2042 John iv. 18. 2043 \[R.V., “for even the dogs,” etc.\]
 
 
 *[p. 571]* ^pg579
@@ -158,7 +158,7 @@ And by the issue He also excused Himself to His disciples for the delay, and sho
 
 Now He goes about Himself, now sits awaiting the diseased, and hath the lame brought up unto the mountain. And no longer do they touch so much as His garment, but advance
 
-204\. 5 John viii. 33. 2046 John viii. 41. 2047 Matt. xv. 28. 2048 Gen. i. 3. 2049 \[“cast them down.”\] Matt. xv. 29–31. \[Comp. the more exact rendering of the R.V., “the dumb speaking,” etc.\]
+2045 John viii. 33. 2046 John viii. 41. 2047 Matt. xv. 28. 2048 Gen. i. 3. 2049 \[“cast them down.”\] Matt. xv. 29–31. \[Comp. the more exact rendering of the R.V., “the dumb speaking,” etc.\]
 
 
 *[p. 572]* ^pg580
@@ -221,7 +221,7 @@ But now He saith not this, “Give ye them to eat,” but what? “I have compas
 
 But as thou hast seen their imperfection hereby, so do thou observe the severity of their spirit, and admire their love of truth, how, writing themselves, they conceal not their own
 
-205\. 5 Matt. xv. 33. \[R.V., “in a desert place.”\] 2056 Matt. xiv. 16. 2057 Matt. xv. 34. Matt. xv. 35, 36. \[The imperfect ἐδδου, “kept giving,” is found here, against the rec. text.—R.\] 2059
+2055 Matt. xv. 33. \[R.V., “in a desert place.”\] 2056 Matt. xiv. 16. 2057 Matt. xv. 34. Matt. xv. 35, 36. \[The imperfect ἐδδου, “kept giving,” is found here, against the rec. text.—R.\] 2059
 
 
 *[p. 575]* ^pg583
@@ -242,7 +242,7 @@ But why at the former time, when there were five thousand, did twelve baskets fu
 
 Either then one may say this, that the baskets on this last occasion<sup>2062</sup>were greater than those used before,<sup>2063</sup>or if this were not so, lest the equality of the miracle should again cast them into forgetfulness, He rouses their recollection by the difference, that by the variation they might be reminded of both one and the other. Accordingly, in that case, He makes the baskets full of fragments equal in number to His disciples, in this, the other baskets equal to the loaves; indicating even hereby His unspeakable power, and the ease wherewith He exercised His authority, in that it was possible for Him to work such miracles, both in this way and in the other. For neither was it of small power, to maintain the exact number, both then and now; then when there were five thousand, now when there were four thousand; and not suffer the remnants to be more than the baskets used on the one occasion or on the other, although the number of the guests was different.
 
-206\. 0 \[R.V., “that which remained over of the broken pieces.”\] 2061 Matt. xv. 37, 38. σπυρδε. That the σπυρς was of large size would appear from Acts ix. 25, where this word is again used. 2062 Κφινο is the word commonly used by the LXX. for basket; that it was in common use among the Jews seems proved by the well-known line in Juvenal, Sat. iii. 14. “Judæis, quorum cophinus fænumque suppellex.” See also Sat. vi. 541, 542. Tr. κφινοι.
+2060 \[R.V., “that which remained over of the broken pieces.”\] 2061 Matt. xv. 37, 38. σπυρδε. That the σπυρς was of large size would appear from Acts ix. 25, where this word is again used. 2062 Κφινο is the word commonly used by the LXX. for basket; that it was in common use among the Jews seems proved by the well-known line in Juvenal, Sat. iii. 14. “Judæis, quorum cophinus fænumque suppellex.” See also Sat. vi. 541, 542. Tr. κφινοι.
 
 
 *[p. 576]* ^pg584
@@ -259,9 +259,9 @@ For not in order to believe did they seek, but to lay hold of Him. Since had the
 
 But since they did not seek to believe, therefore He also calls them hypocrites, because in another place they said one thing, and meant another. Yea, had they believed, they would not even have asked. And from another thing too it is evident that they believed not; that when reproved and exposed, they abode not with Him, nor said, “We are ignorant and seek to learn.”
 
-206\. 4 John vi. 17. 2065 John vi. 15. 2066 Matt. xv. 39. \[R.V., “Magadan,” following a better supported reading; so Jerome, Augustin, and others.—R.\] 2067 \[“tempting him” is omitted.\] 2068 \[“hypocrites” is omitted; so R.V., “ye know how to discern the face of the heavens; but ye cannot *discern* the signs of the times.” The last clause is not a question.—R.\] 2069 Chap. xvi. 1–4.
+2064 John vi. 17. 2065 John vi. 15. 2066 Matt. xv. 39. \[R.V., “Magadan,” following a better supported reading; so Jerome, Augustin, and others.—R.\] 2067 \[“tempting him” is omitted.\] 2068 \[“hypocrites” is omitted; so R.V., “ye know how to discern the face of the heavens; but ye cannot *discern* the signs of the times.” The last clause is not a question.—R.\] 2069 Chap. xvi. 1–4.
 
-207\. 0 Mark viii. 12.
+2070 Mark viii. 12.
 
 
 *[p. 577]* ^pg585
@@ -280,7 +280,7 @@ And if men speak of the signs in Pharaoh’s time, there was an enemy then from 
 
 But do thou see their hardened heart, how on being told, that “no sign should be given them but the sign of the prophet Jonas,” they do not ask. And yet, knowing both the prophet, and all that befell him, and having been told this a second time, they ought to have
 
-207\. 2 \[See above, note 10. Were the sentence a question, it would imply an affirmative answer, but it is plainly implied that they could not discern the signs of the times.—R.\] 2073 Matt. xxiv. 29. 2074 Matt. xxiv. 27. 2075 Is. xlii. 2.
+2072 \[See above, note 10. Were the sentence a question, it would imply an affirmative answer, but it is plainly implied that they could not discern the signs of the times.—R.\] 2073 Matt. xxiv. 29. 2074 Matt. xxiv. 27. 2075 Is. xlii. 2.
 
 
 *[p. 578]* ^pg586
@@ -297,9 +297,9 @@ Wherefore on all accounts He attacks them even with severity, saying, “Why rea
 
 Seest thou intense displeasure? For nowhere else doth He appear to have so rebuked them. Wherefore then doth He so? In order again to cast out their prejudice about the meats. I mean that with this view, whereas then He had only said, “Perceive ye not, neither understand?” in this place, and with a strong rebuke, He saith, “O ye of little faith.”<sup>2082</sup>
 
-207\. 7 Matt. xvi. 5, 6. Matt. xvi. 7. \[R.V., “We took no bread;” ὅτι being *recitantis*.\] 2078 2079 Matt. xiv. 8. \[R.V., “because ye have no bread ?” Chrysostom agrees with the rec. text.—R.\]
+2077 Matt. xvi. 5, 6. Matt. xvi. 7. \[R.V., “We took no bread;” ὅτι being *recitantis*.\] 2078 2079 Matt. xiv. 8. \[R.V., “because ye have no bread ?” Chrysostom agrees with the rec. text.—R.\]
 
-208\. 0 Mark viii. 17, 18. 2081 Matt. xvi. 9, 10. 2082 \[Both the citations are from Matthew, but probably the former occasion referred to is that narrated in Matt. xv. 16, 17.—R.\]
+2080 Mark viii. 17, 18. 2081 Matt. xvi. 9, 10. 2082 \[Both the citations are from Matthew, but probably the former occasion referred to is that narrated in Matt. xv. 16, 17.—R.\]
 
 
 *[p. 579]* ^pg587
@@ -316,7 +316,7 @@ And wherefore did He not ask them at once their own opinion, but that of the peo
 
 And He said not, “Whom say the Scribes and Pharisees that I am?” often as these had come unto Him, and discoursed with Him; but, “Whom do men say that I am?” inquiring
 
-208\. 3 Matt. xvi. 11. \[See R.V., for a different reading.\] 2084 Matt. xiv. 12. \[Some mss. insert φιλοτιμα κα, “from ambition and want of faith.” It is *με*. So R.V. margin, “that I the 2085 Son of Man am,” as in the parallel passages.—R.\] 2086 \[The A.V. is ungrammatical; “whom” is simply a transfer of the Greek accusative (with the infinitive in the passage) into the English finite clause.—R.\] 319 2087 *i.e*. His Incarnation. 2088 John iii. 13. 2089 John vi. 62.
+2083 Matt. xvi. 11. \[See R.V., for a different reading.\] 2084 Matt. xiv. 12. \[Some mss. insert φιλοτιμα κα, “from ambition and want of faith.” It is *με*. So R.V. margin, “that I the 2085 Son of Man am,” as in the parallel passages.—R.\] 2086 \[The A.V. is ungrammatical; “whom” is simply a transfer of the Greek accusative (with the infinitive in the passage) into the English finite clause.—R.\] 319 2087 *i.e*. His Incarnation. 2088 John iii. 13. 2089 John vi. 62.
 
 
 *[p. 580]* ^pg588
@@ -331,7 +331,7 @@ Then, since they said, “Some John the Baptist, some Elias, some Jeremias, or o
 
 Yet surely unless he had rightly confessed Him, as begotten of the very Father Himself, this were no work of revelation; had he accounted our Lord to be one of the many, his saying was not worthy of a blessing. Since before this also they said, “Truly He is Son of God,”<sup>2096</sup>those, I mean, who were in the vessel after the tempest, which they saw, and were
 
-209\. 0 Matt. xvi. 14. 2091 Matt. xvi. 15. 2092 Matt. xiv. 2. ὁ κορυφαο. 2093 2094 Matt. xvi. 16. 2095 Matt. xvi. 17.
+2090 Matt. xvi. 14. 2091 Matt. xvi. 15. 2092 Matt. xiv. 2. ὁ κορυφαο. 2093 2094 Matt. xvi. 16. 2095 Matt. xvi. 17.
 
 
 *[p. 581]* ^pg589
@@ -348,9 +348,9 @@ Seest thou how the Father reveals the Son, how the Son the Father? For “neithe
 
 3\. What then saith Christ? “Thou art Simon, the son of Jonas; thou shalt be called Cephas.”<sup>2101</sup>“Thus since thou hast proclaimed my Father, I too name him that begat thee;” all but saying, “As thou art son of Jonas, even so am I of my Father.” Else it were superfluous to say, “Thou art Son of Jonas;” but since he had said, “Son of God,” to point out that He is so Son of God, as the other son of Jonas, of the same substance with Him that begat Him, therefore He added this, “And I say unto thee, Thou art Peter, and upon this rock will I build my Church;”<sup>2102</sup>that is, on the faith of his confession. Hereby He signifies that many were now on the point of believing, and raises his spirit, and makes him a shepherd. “And
 
-209\. 7 John i. 49. 2098 John i. 50. ἐνηχσαντα. 2099
+2097 John i. 49. 2098 John i. 50. ἐνηχσαντα. 2099
 
-210\. 0 Matt. xi. 27; Luke x. 22. 2101 Matt. xvi. 17, 18; see John i. 42.
+2100 Matt. xi. 27; Luke x. 22. 2101 Matt. xvi. 17, 18; see John i. 42.
 
 
 *[p. 582]* ^pg590
@@ -367,7 +367,7 @@ I would fain inquire then of those who desire to lessen the dignity of the Son, 
 
 And these things I say, not dividing the works of Father and Son (“for all things are made by Him, and without Him was nothing made which was made”):<sup>2110</sup>but bridling the shameless tongue of them that dare so to speak.
 
-210\. 3 \[R.V., “Hades.”\] \[Chrysostom reads κα γ δ, probably from verse 18, as none of our authorities have this fuller form.—R.\] 2104 Matt. xvi. 19. \[The text is peculiar in omitting τ βασιλεα. The translator has here rendered τν ορανν, 2105 “the heavens;” but not in all similar instances. The English versions generally disregard the plural form.—R.\] \[το ορανο \] 2106 2107 Matt. xx. 23. 2108 Jer. i. 18. 2109 Matt. xxiv. 35. John i. 3. \[The Greek text omits ὃ γγονεν “which was made.”\] \[The singular is retained here by the translator, though the Greek form is the same, τν ορανν.—R.\]
+2103 \[R.V., “Hades.”\] \[Chrysostom reads κα γ δ, probably from verse 18, as none of our authorities have this fuller form.—R.\] 2104 Matt. xvi. 19. \[The text is peculiar in omitting τ βασιλεα. The translator has here rendered τν ορανν, 2105 “the heavens;” but not in all similar instances. The English versions generally disregard the plural form.—R.\] \[το ορανο \] 2106 2107 Matt. xx. 23. 2108 Jer. i. 18. 2109 Matt. xxiv. 35. John i. 3. \[The Greek text omits ὃ γγονεν “which was made.”\] \[The singular is retained here by the translator, though the Greek form is the same, τν ορανν.—R.\]
 
 
 *[p. 583]* ^pg591
@@ -384,7 +384,7 @@ And if they who had enjoyed the benefit of many miracles, and had had part in so
 
 And to instruct thee how great a thing it was, their afterwards learning His doctrine complete, when the things that offend had passed by; learn it from this same leader of theirs. For this very Peter, he who after so many miracles proved so weak as even to deny Him, and to be in fear of a mean damsel; after the cross had come forth, and he had received the certain proofs of the resurrection, and there was nothing more to offend and trouble him,
 
-211\. 1 2112 Matt. xvi. 20. ὁ κορυφαο. 2113
+2111 2112 Matt. xvi. 20. ὁ κορυφαο. 2113
 
 
 *[p. 584]* ^pg592
@@ -403,7 +403,7 @@ But not even so did they understand what He said. “For the saying,” it is sa
 
 For that He is Son of God he had learnt, but what the mystery of the cross and of the resurrection might be, was not yet manifest to him: for “the saying,” it is said, “was hid from them.”
 
-211\. 5 Matt. xvi. 21. 2116 *i.e.*, the woman of Canaan. 2117 Luke xviii. 34. 2118 Luke ix. 45. Matt. xvi. 22. \[R.V., “this shall never be unto thee.”\]
+2115 Matt. xvi. 21. 2116 *i.e.*, the woman of Canaan. 2117 Luke xviii. 34. 2118 Luke ix. 45. Matt. xvi. 22. \[R.V., “this shall never be unto thee.”\]
 
 
 *[p. 585]* ^pg593
@@ -424,7 +424,7 @@ Thus as John, accounting it unworthy of Christ to be baptized by him, was persua
 
 7\. Let no man therefore be ashamed of the honored symbols of our salvation, and of the chiefest of all good things, whereby we even live, and whereby we are; but as a crown, so let us bear about the cross of Christ. Yea, for by it all things are wrought, that are wrought
 
-212\. 0 Matt. xvi. 23. 2121 \[R.V., “mindest.”\] 2122 \[R.V., “mindest.”\] καθικνομενο. 2123 2124 Matt. iii. 15.
+2120 Matt. xvi. 23. 2121 \[R.V., “mindest.”\] 2122 \[R.V., “mindest.”\] καθικνομενο. 2123 2124 Matt. iii. 15.
 
 
 *[p. 586]* ^pg594
@@ -441,7 +441,7 @@ This sign, both in the days of our forefathers and now, hath opened doors that w
 
 This therefore do thou engrave upon thy mind, and embrace the salvation of our souls. For this cross saved and converted the world, drove away error, brought back truth, made
 
-212\. 6 Isaiah liii. 7. 2127 1 Cor. vii. 23. \[R.V., “become not bondservants of men.”\] 2128 See S. Cyril, *Catech*. xiii. 41. Oxf. Trans. and the note there: see also especially hereafter on S. Matth. xxiv. 30, Hom. LXXVI. 2129 S. Greg. Nyss. Life of S. Greg. Thaum. Works, t. iii. p. 573. Paris, 1638. Sim. Metaphr. Life of St. John, p. 47, etc. Oxon. 1597. 323
+2126 Isaiah liii. 7. 2127 1 Cor. vii. 23. \[R.V., “become not bondservants of men.”\] 2128 See S. Cyril, *Catech*. xiii. 41. Oxf. Trans. and the note there: see also especially hereafter on S. Matth. xxiv. 30, Hom. LXXVI. 2129 S. Greg. Nyss. Life of S. Greg. Thaum. Works, t. iii. p. 573. Paris, 1638. Sim. Metaphr. Life of St. John, p. 47, etc. Oxon. 1597. 323
 
 
 *[p. 587]* ^pg595
@@ -458,7 +458,7 @@ And how, one may say, is it possible for us, being here, to stand by that throne
 
 For were He distant from us in place, thou mightest well doubt, but if He is present everywhere, to him that strives and is in earnest He is near. Wherefore also the prophet said, “I will fear no evil, for Thou art with me;<sup>2133</sup>” and God Himself again, “I am a God nigh at
 
-213\. 1 1 Cor. ii. 14. 2132 Gal. vi. 14.
+2131 1 Cor. ii. 14. 2132 Gal. vi. 14.
 
 
 *[p. 588]* ^pg596
@@ -477,7 +477,7 @@ What is more easy than this? tell me. But even if thou account it difficult, loo
 
 For much as our emperors at the horse races heap together before the combatants crowns, and prizes, and garments, even so Christ also sets His rewards in the midst of His course, holding them out by the prophet’s words, as it were by many hands. And the emperors
 
-213\. 4 Jerem. xxiii. 23. 2135 Is. lviii. 9, lxv. 24. \[The citation is from the former passage; but “I will say” from the latter is substituted for “he will say.” So in the last part of the longer citation below.—R.\] 2136 Is. lviii. 6–9. \[LXX., see note above.\] \[το οκεοι, “thy kinsmen,” taken from Isa. lviii. 7., LXX., last clause (see above.)—R.\] 324 \[πρωμον, explained below. Our versions render “as the morning.”—R.\] 2138 2139 Isaiah xxxv. 10. 1 Cor. ii. 9.
+2134 Jerem. xxiii. 23. 2135 Is. lviii. 9, lxv. 24. \[The citation is from the former passage; but “I will say” from the latter is substituted for “he will say.” So in the last part of the longer citation below.—R.\] 2136 Is. lviii. 6–9. \[LXX., see note above.\] \[το οκεοι, “thy kinsmen,” taken from Isa. lviii. 7., LXX., last clause (see above.)—R.\] 324 \[πρωμον, explained below. Our versions render “as the morning.”—R.\] 2138 2139 Isaiah xxxv. 10. 1 Cor. ii. 9.
 
 
 *[p. 589]* ^pg597
@@ -518,7 +518,7 @@ Now, thus saying, He drew them unto Him the more. For he indeed that uses compul
 
 325
 
-214\. 1 \[R.V., “If any man would come after me, let him deny himself,” etc. The Oxford translator substitutes “renounce” to bring out the distinction between ἀπαρνεσθαι and ἀρνεσθαι, which is pointed out in the Homily, sec. 2.—R.\] 2142 Matt. xvi. 22, 23.
+2141 \[R.V., “If any man would come after me, let him deny himself,” etc. The Oxford translator substitutes “renounce” to bring out the distinction between ἀπαρνεσθαι and ἀρνεσθαι, which is pointed out in the Homily, sec. 2.—R.\] 2142 Matt. xvi. 22, 23.
 
 
 *[p. 592]* ^pg600
@@ -573,9 +573,9 @@ This takes place in the camp also. For if the general, sparing the soldiers, com
 
 “In order then that this may not happen in your case also,” saith He, “ye must be arrayed against continual death. For now too a grievous war is about to be kindled. Sit not therefore within, but go forth and fight; and shouldest thou fall in thy post, then hast thou obtained life.” For if in the visible wars he that in his post meets slaughter, is both more distinguished than the rest, and more invincible, and more formidable to the enemy; although we know that after death the king, in behalf of whom he takes his station, is not able to raise him up again: much more in these wars, when there are such hopes of resurrection besides, will he who exposes his own life unto death, find it; in one sense, because he will not be quickly taken; in a second, because even though he fall, God<sup>2151</sup>will lead his life on to a higher life.
 
-214\. 7 \[R.V., “shall a man be profited;” so the Homily here, against rec. text.—R.\] Matt. xvi. 25. 26. \[Chrysostom inserts ὑπρ, and takes ψυχ in ver. 26as “soul,” but in his comment in ver. 2148 25recognizes the obvious contrast between lower and higher life.—R.\] 2149 Prov. xxiii. 13, 14.
+2147 \[R.V., “shall a man be profited;” so the Homily here, against rec. text.—R.\] Matt. xvi. 25. 26. \[Chrysostom inserts ὑπρ, and takes ψυχ in ver. 26as “soul,” but in his comment in ver. 2148 25recognizes the obvious contrast between lower and higher life.—R.\] 2149 Prov. xxiii. 13, 14.
 
-215\. 0 Ecclus. xxx. 7. 2151 \[The word “God” is supplied by the translator, but this is not necessarily the sense; the subject may be the man himself.—R.\]
+2150 Ecclus. xxx. 7. 2151 \[The word “God” is supplied by the translator, but this is not necessarily the sense; the subject may be the man himself.—R.\]
 
 
 *[p. 595]* ^pg603
@@ -592,7 +592,7 @@ And what marvel, if it be so with the soul? Since even in the body one may see t
 
 Now thus I bid thee reason with regard to thy soul also; or rather even much more with regard to the soul; and do thou, forsaking all besides, spend all thy care upon it. Do not then while taking thought about the things of others, neglect thyself and thine own things; which now all men do, resembling them that work in the mines. For neither do these receive any profit from this labor, nor from the wealth; but rather great harm, both because they incur fruitless peril, and incur it for other men, reaping no benefit from such their toils and deaths. These even now are objects of imitation to many, who are digging up wealth for others; or rather we are more wretched even than this, inasmuch as hell itself awaits us after these our
 
-215\. 2 \[Here the citation agrees with the rec. text.—R.\] \[Here ὑπρ does not occur, the text agreeing with the received.—R.\] 328 Matt. xvi. 37. \[Some mss. of the Homily omit ἁγων, and read τν πρξιν for τ ργα (see note 1, p. 342). So 2154 R.V.—R.\] 2155 1 Cor. xv. 41. \[τν πρξιν, the reading accepted in R.V.—R.\]
+2152 \[Here the citation agrees with the rec. text.—R.\] \[Here ὑπρ does not occur, the text agreeing with the received.—R.\] 328 Matt. xvi. 37. \[Some mss. of the Homily omit ἁγων, and read τν πρξιν for τ ργα (see note 1, p. 342). So 2154 R.V.—R.\] 2155 1 Cor. xv. 41. \[τν πρξιν, the reading accepted in R.V.—R.\]
 
 
 *[p. 596]* ^pg604
@@ -621,7 +621,7 @@ Now this hymn is in all parts worthy of admiration, but especially the above end
 
 For after that feast, then they ventured on those acts of lawless daring. Do thou therefore also look to it, lest something like it befall thee. For though thou sacrifice not to stone nor to gold, either sheep or bullocks, see lest to wrath thou sacrifice thine own soul, lest to whoredom or other like passions, thou sacrifice thine own salvation. Yea—on this account, you see, they being afraid of these downfalls, when they have enjoyed their meal, or rather fasting (for their meal is in fact fasting), remind themselves of the terrible judgment-seat, and of that day. And if they who correct themselves both with fasting, and with nights spent on the ground, with watchings, and with sackcloth, and with ten thousand means, do yet require also this reminding, when will it be possible for us to live virtuously; who set forth tables loaded with innumerable wrecks, and do not so much as pray at all, neither in the beginning nor the end ?
 
-215\. 7 Deut. xxxii. 15 \[LXX.\] Deut. vi. 11, 12. 329 2159 Colos. iii. 17.
+2157 Deut. xxxii. 15 \[LXX.\] Deut. vi. 11, 12. 329 2159 Colos. iii. 17.
 
 
 *[p. 598]* ^pg606
@@ -642,7 +642,7 @@ Hereby they stop the mouths, both of the Manichæans, and of them of Valentinus,
 
 Then comes the petition: “Fill our hearts with joy and gladness.” With what manner of joy then, doth it mean? the joy of this world? God forbid: for had they meant this, they would
 
-216\. 0 Luke xii. 7. \[Very freely cited.\] Deut. viii. 3; Matt. iv. 4.
+2160 Luke xii. 7. \[Very freely cited.\] Deut. viii. 3; Matt. iv. 4.
 
 
 *[p. 599]* ^pg607
@@ -663,7 +663,7 @@ Therefore neither let us blame these our angels, as acting disorderly, for that 
 
 Wherefore they say, “Glory be to Thee, O Lord; glory be to Thee, O Holy One; glory be to Thee, O King; that Thou hast given us food to make us glad.”
 
-216\. 2 Gal. v. 22. 2163 2 Cor. ix. 8. 2164 Gal. i. 4, 5. ἀπαγχονιζντων, a strong figurative expression, as it seems, for the unhallowed self-tormenting of the 2166 Manichæans. In Hom. XLII., the word is applied to Saul, “choking with envy” towards David. 2167 \[In some mss. the two paragraphs which follow are omitted, “and not be ashamed” being joined with this clause.—R.\] 2168 Matt. vi. 33. \[Here, also, the peculiar reading “Kingdom of Heaven” occurs. Comp. Homily XXII. 4.—R.\] \[See above, note 1.—R.\]
+2162 Gal. v. 22. 2163 2 Cor. ix. 8. 2164 Gal. i. 4, 5. ἀπαγχονιζντων, a strong figurative expression, as it seems, for the unhallowed self-tormenting of the 2166 Manichæans. In Hom. XLII., the word is applied to Saul, “choking with envy” towards David. 2167 \[In some mss. the two paragraphs which follow are omitted, “and not be ashamed” being joined with this clause.—R.\] 2168 Matt. vi. 33. \[Here, also, the peculiar reading “Kingdom of Heaven” occurs. Comp. Homily XXII. 4.—R.\] \[See above, note 1.—R.\]
 
 
 *[p. 600]* ^pg608
@@ -700,7 +700,7 @@ And the prophets too, all had both wives and households, as Isaiah, as Ezekiel, 
 
 These then let us also imitate, and continually offer thanksgiving to God, continually sing hymns to Him; let us give heed to temperance, and to all other virtues, and the self-denial that is practised in the deserts, let us bring into our cities; that we may appear both well-pleasing before God, and approved before men, and attain unto the good things to come, by the grace and love towards man of our Lord Jesus Christ, through whom and with whom be unto the Father, glory, honor, and might, together with the holy and life-giving Spirit, now and always and world without end. Amen.<sup>2170</sup>
 
-217\. 0 The grace here commented on is in its commencement the same with one still used *before meat* in collegiate bodies: *e.g.* in Oriel College, Oxford. “*Benedicte Deus qui pascis nos in juventute nostra, et præbes cibum omni carni: reple gaudio et lætitia corda nostra, ut nos affatim quod satis est habentes, abundemus ad omne opus bonum: Per Jesum Christum Dominum nostrum*: Amen.” The conclusion of St. Chrysostom’s grace seems to be referred to by St. Just Mart. Apol. 1. p. 83 C. and p. 50 E. as quoted by Mr. Field here. \[γεννη.\] 2171 2172 Matt. xvi. 25. Matt. xvi. 27. \[τν πρξιν ατο.\] 2173 2174 Matt. xvii. 1.
+2170 The grace here commented on is in its commencement the same with one still used *before meat* in collegiate bodies: *e.g.* in Oriel College, Oxford. “*Benedicte Deus qui pascis nos in juventute nostra, et præbes cibum omni carni: reple gaudio et lætitia corda nostra, ut nos affatim quod satis est habentes, abundemus ad omne opus bonum: Per Jesum Christum Dominum nostrum*: Amen.” The conclusion of St. Chrysostom’s grace seems to be referred to by St. Just Mart. Apol. 1. p. 83 C. and p. 50 E. as quoted by Mr. Field here. \[γεννη.\] 2171 2172 Matt. xvi. 25. Matt. xvi. 27. \[τν πρξιν ατο.\] 2173 2174 Matt. xvii. 1.
 
 
 *[p. 602]* ^pg610

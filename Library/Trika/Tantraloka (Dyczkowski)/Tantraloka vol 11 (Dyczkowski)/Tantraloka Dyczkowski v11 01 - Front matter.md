@@ -98,7 +98,7 @@ exponent of Śrīvidyā.
 
 I owe a special thanks also to Bettina Bäumer whose dedication and scholarship in many fields has been an abiding source of inspiration and knowledge for me throughout the 50 years of our acquaintance. Of those who do not reside in Benares I gratefully acknowledge Prof. Navajivan Rastogi whose books and lectures have helped me a great deal. 
 
-I should not forget to mention my good friends and fellow travelers, especially Dr. Śitalāprasād Upādhyāya, formarly head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University and then rector of the University. I am especially grateful to Prof. Rana Singh, retired head of the Geography department of Banaras Hindu University who guided me through the principles of sacred geography, particularly that of \[illegible\] 
+I should not forget to mention my good friends and fellow travelers, especially Dr. Śitalāprasād Upādhyāya, formarly head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University and then rector of the University. I am especially grateful to Prof. Rana Singh, retired head of the Geography department of Banaras Hindu University who guided me through the principles of sacred geography, particularly that of Kāśī. 
 
 During the decades that went into making this translation and study I continuously searched for the sources Abhinavagupta quotes in his Tantrāloka and other works. In this regard I am deeply indebted to the librarians who permitted me to have copies of manuscripts and early rare printed books. I am especially grateful to the German directors in Nepal of the German Nepalese Manuscript Preservation Project. Over the twenty odd years in which I travelled every year, sometimes more than once, to Nepal, seven came and went. There I collected copies of manuscripts of the majority of the most important texts belonging to the early period, that is, prior to Abhinavagupta, from which he drew. The Nepalese collection is very extensive and contains most of the earliest manuscripts preserved in the Indian subcontinent. Other libraries that have furnished manuscripts of important texts, are the Asiatic Society in Calcutta, the central library of Banaras Hindu University, and the libraries in Jodhpur and Poone. 
 
@@ -258,7 +258,7 @@ The Totality of Daily Life Can only be Possible if it is Based on Bhairava, the 
 
 Associated with Countless Partial Aspects, the One Tradition Extends 
 
-Throughout Daily Life, verse 15, pages 198-199 This is the Śaiva Tradition, that is Complete and Perfect and Bestows the Highest Fruit, verses 16-17, pages 199-200 Food is Known to be Nourishing only by a priori Belief, verses 18-19ab, pages 200-201 A priori Certainty is the Inner Language (śabdana) of Conviction (pratīti) Free of Contradiction, verses 19cd-22, pages 201-202 The Tradition is Just One and Source of All Fruits, verses 23-25, pages 203-204 All Worldly and Spiritual Traditions Come from the Five Faces of Sadāśiva, verses 26-27, pages 204-208 Gradations in the One Tradition, verses 28-29, pages 208-209 Only One Tradition \[illegible\] in which Every (Tradition) is Grounded from 
+Throughout Daily Life, verse 15, pages 198-199 This is the Śaiva Tradition, that is Complete and Perfect and Bestows the Highest Fruit, verses 16-17, pages 199-200 Food is Known to be Nourishing only by a priori Belief, verses 18-19ab, pages 200-201 A priori Certainty is the Inner Language (śabdana) of Conviction (pratīti) Free of Contradiction, verses 19cd-22, pages 201-202 The Tradition is Just One and Source of All Fruits, verses 23-25, pages 203-204 All Worldly and Spiritual Traditions Come from the Five Faces of Sadāśiva, verses 26-27, pages 204-208 Gradations in the One Tradition, verses 28-29, pages 208-209 Only One Tradition (āgama) in which Every (Tradition) is Grounded from 
 
 Vedic to Śaiva, Culminating in Trika, verses 30-31ab, pages 209-210 Trika is Kula, that is Present in All Traditions, verses 31cd-34, pages 210-212 This is the One Tradition that Embodies a priori Certainty, verse 35, pages 212- 213 All Traditions Come from Śiva and are Just Fragments of the One Traditions, verse 36, pages 213-214 Even if There Are Many Traditions, They Must be Established in a Single 
 
@@ -486,13 +486,13 @@ Mundaka Upaniṣad
 
 MT 
 
-Mṛgendratantra MrTvK 
+Mṛgendratantra MṛTvK 
 
 Mṛgendratantravṛtti Kriyāpāda 
 
-MrKri 
+MṛKri 
 
-Mṛgendratantra Kriyāpāda MrV 
+Mṛgendratantra Kriyāpāda MṛV 
 
 Mṛgendratantra Vidyāpāda NGMPP 
 
@@ -536,7 +536,7 @@ Pramānṇavārtika PVi
 
 Pramāṇaviniścaya 
 
-PrHr 
+PrHṛ 
 
 Pratyabhijñāhṛdaya 
 

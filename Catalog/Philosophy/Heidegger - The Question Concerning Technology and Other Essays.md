@@ -18,8 +18,7 @@ language:
   - English
 pages: 214
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[Heidegger - The Question Concerning Technology and Other Essays (1977).pdf]]"
   - "[[Library/Philosophy/The Question Concerning Technology and Other Essays (Heidegger)/The Question Concerning Technology and Other Essays (Heidegger)]]"

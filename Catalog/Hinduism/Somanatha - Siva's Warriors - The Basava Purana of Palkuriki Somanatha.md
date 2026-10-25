@@ -19,8 +19,7 @@ language:
   - English
 pages: 340
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Rao, Roghair (tr.) - Siva's Warriors, The Basava Purana of Palkuriki Somanatha (1990).pdf]]"
 aliases:

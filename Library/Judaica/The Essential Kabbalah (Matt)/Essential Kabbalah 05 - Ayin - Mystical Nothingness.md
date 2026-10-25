@@ -8,7 +8,7 @@ page_range: "64–72"
 
 # ![[essential-kabbalah-9780062048134_023.png]] Ayin: Mystical Nothingness
 
-[p. 66]
+[p. 66] ^pg66
 
 ### [^AYIN]
 
@@ -16,13 +16,13 @@ AYIN, NOTHINGNESS, is more existent than all the being of the world. But since i
 
 THE INNER power is called Ayin because thought does not grasp it, nor reflection. Concerning this, Job said, “Wisdom comes into being out of ayin.”
 
-[p. 67]
+[p. 67] ^pg67
 
 ### THE NAME OF NOTHINGNESS
 
 THE DEPTH of primordial being is called Boundless. Because of its concealment from all creatures above and below, it is also called Nothingness. If one asks, “What is it?” the answer is, “Nothing,” meaning: No one can understand anything about it. It is negated of every conception. No one can know anything about it—except the belief that it exists. Its existence cannot be grasped by anyone other than it. Therefore its name is “I am becoming.”
 
-[p. 68]
+[p. 68] ^pg68
 
 ### BEING AND NOTHINGNESS
 
@@ -30,7 +30,7 @@ YOU MAY be asked: “How did God bring forth being from nothingness? Is there no
 
 Answer as follows: “Being is in nothingness in the mode of nothingness, and nothingness is in being in the mode of being.” Nothingness is being, and being is nothingness. The node of being as it begins to emerge from nothingness into existence is called faith. For the term “faith” applies neither to visible, comprehensible being, nor to nothingness, invisible and incomprehensible, but rather to the nexus of nothingness and being. Being does not stem from nothingness alone but rather, from being and nothingness together. All is one in the simplicity of absolute undifferentiation. Our limited mind cannot grasp or fathom this, for it joins infinity.
 
-[p. 69]
+[p. 69] ^pg69
 
 ### THE WISDOM OF NOTHINGNESS
 
@@ -46,13 +46,13 @@ The beginning of existence is the secret concealed point, primordial wisdom, the
 
 Contemplate this: When the emanation was emanated out of Ayin, all things and all sefirot were dependent on thought. God’s secret existence emerged from this single point. That which abides in thought yet cannot be grasped is called wisdom: Hokhmah. What is the meaning of Hokhmah? *Hakkeh mah.* Since you can never grasp it, hakkeh, “wait,” for mah, “what” will come and what will be. This is the sublime, primordial wisdom emerging out of Ayin.
 
-[p. 71]
+[p. 71] ^pg71
 
 ### THINK OF YOURSELF AS AYIN
 
 THINK OF yourself as Ayin and forget yourself totally. Then you can transcend time, rising to the world of thought, where all is equal: life and death, ocean and dry land. Such is not the case if you are attached to the material nature of this world. If you think of yourself as something, then God cannot clothe himself in you, for God is infinite. No vessel can contain God, unless you think of yourself as Ayin.
 
-[p. 72]
+[p. 72] ^pg72
 
 ### EFFACEMENT
 

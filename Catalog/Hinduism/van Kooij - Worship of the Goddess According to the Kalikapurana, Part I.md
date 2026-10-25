@@ -17,8 +17,7 @@ language:
   - English
 pages: 216
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Kooij - Worship of the Goddess According to the Kalikapurana, Part I (1972).pdf]]"
 aliases:

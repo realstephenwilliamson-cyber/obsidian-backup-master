@@ -18,7 +18,7 @@ language:
 pages: 15
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[9789004432802-BP000019.pdf]]"
   - "[[Library/Trika/Sarika's Mantra (Hanneder)]]"

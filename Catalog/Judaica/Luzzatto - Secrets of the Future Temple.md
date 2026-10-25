@@ -19,7 +19,7 @@ language:
 pages: 118
 text: searchable
 status: review
-physical_copy: false
+print: false
 files:
   - "[[Luzzatto - Secrets of the Future Temple.pdf]]"
   - "[[Library/Judaica/Secrets of the Future Temple (Luzzatto)/Secrets of the Future Temple (Luzzatto)]]"

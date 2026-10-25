@@ -25,7 +25,7 @@ views:
       - type
       - year
       - status
-      - physical_copy
+      - note.print
       - file.tags
     sort:
       - property: file.name

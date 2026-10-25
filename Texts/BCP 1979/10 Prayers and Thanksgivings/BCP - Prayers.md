@@ -5,9 +5,7 @@ section: "Prayers and Thanksgivings"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Misc/Prayers.html"
-page_range:
-  - 814
-  - 835
+page_range: "814–835"
 aliases:
   - "BCP 814"
   - "BCP 815"
@@ -36,7 +34,7 @@ aliases:
 
 [[BCP 1979]] · *Prayers and Thanksgivings* · pages 814–835
 
-[p. 814]
+[p. 814] ^pg814
 
 ## Prayers and Thanksgivings
 
@@ -66,7 +64,7 @@ O God, you made us in your own image and redeemed us through Jesus your Son: Loo
 
 Eternal God, in whose perfect kingdom no sword is drawn but the sword of righteousness, no strength known but the strength of love: So mightily spread abroad your Spirit, that all peoples may be gathered under the banner of the Prince of Peace, as children of one Father; to whom be dominion and glory, now and for ever. *Amen.*
 
-[p. 816]
+[p. 816] ^pg816
 
 ### 5. For Peace Among the Nations
 
@@ -100,7 +98,7 @@ O God, by your grace you have called us in this Diocese to a goodly fellowship o
 
 Almighty and everliving God, ruler of all things in heaven and earth, hear our prayers for this parish family. Strengthen the faithful, arouse the careless, and restore the penitent. Grant us all things necessary for our common life, and bring us all to be of one heart and mind within your holy Church; through Jesus Christ our Lord. *Amen.* ^prayer-11
 
-[p. 818]
+[p. 818] ^pg818
 
 ### 12. For a Church Convention or Meeting
 
@@ -118,7 +116,7 @@ Almighty God, giver of every good gift: Look graciously on your Church, and so g
 
 O God the Father of our Lord Jesus Christ, our only Savior, the Prince of Peace: Give us grace seriously to lay to heart the great dangers we are in by our unhappy divisions; take away all hatred and prejudice, and whatever else may hinder us from godly union and concord; that, as there is but one Body and one Spirit, one hope of our calling, one Lord, one Faith, one Baptism, one God and Father of us all, so we may be all of one heart and of one soul, united in one holy bond of truth and peace, of faith and charity, and may with one mind and one mouth glorify *thee*; through Jesus Christ our Lord. *Amen.*
 
-[p. 819]
+[p. 819] ^pg819
 
 ### 15. For those about to be Baptized or to renew their Baptismal Covenant
 
@@ -134,7 +132,7 @@ O Lord Jesus Christ, you became poor for our sake, that we might be made rich th
 
 O God, whom saints and angels delight to worship in heaven: Be ever present with your servants who seek through art and music to perfect the praises offered by your people on earth; and grant to them even now glimpses of your beauty, and make them worthy at length to behold it unveiled for evermore; through Jesus Christ our Lord. *Amen.* ^prayer-17
 
-[p. 820]
+[p. 820] ^pg820
 
 ### Prayers for National Life
 
@@ -148,7 +146,7 @@ Almighty God, who hast given us this good land for our heritage: We humbly besee
 
 O Lord our Governor, whose glory is in all the world: We commend this nation to *thy* merciful care, that, being guided by *thy* Providence, we may dwell secure in *thy* peace. Grant to the President of the United States, the Governor of this State (*or* Commonwealth), and to all in authority, wisdom and strength to know and to do *thy* will. Fill them with the love of truth and righteousness, and make them ever mindful of their calling to serve this people in *thy* fear; through Jesus Christ our Lord, who *liveth* and *reigneth* with *thee* and the Holy Spirit, one God, world without end. *Amen.* ^prayer-19
 
-[p. 821]
+[p. 821] ^pg821
 
 ### 20. For Congress or a State Legislature
 
@@ -166,7 +164,7 @@ O Lord our Governor, bless the leaders of our land, that we may be a people at p
 
 To the President and members of the Cabinet, to Governors of States, Mayors of Cities, and to all in administrative authority, grant wisdom and grace in the exercise of their duties. *Give grace to your servants, O Lord.*
 
-[p. 822]
+[p. 822] ^pg822
 
 To Senators and Representatives, and those who make our laws in States, Cities, and Towns, give courage, wisdom, and foresight to provide for the needs of all our people, and to fulfill our obligations in the community of nations. *Give grace to your servants, O Lord.*
 
@@ -182,7 +180,7 @@ Almighty God our heavenly Father, send down upon those who hold office in this S
 
 Almighty God, to whom we must account for all our powers and privileges: Guide the people of the United States (*or* of this community) in the election of officials and representatives; that, by faithful administration and wise laws, the rights of all may be protected and our nation be enabled to fulfill your purposes; through Jesus Christ our Lord. *Amen.* ^prayer-24
 
-[p. 823]
+[p. 823] ^pg823
 
 ### 25. For those in the Armed Forces of our Country
 
@@ -200,7 +198,7 @@ O God our Father, whose Son forgave his enemies while he was suffering shame and
 
 Grant, O God, that your holy and life-giving Spirit may so move every human heart [and especially the hearts of the people of this land], that barriers which divide us may crumble, suspicions disappear, and hatreds cease; that our divisions being healed, we may live in justice and peace; through Jesus Christ our Lord. *Amen.*
 
-[p. 824]
+[p. 824] ^pg824
 
 ### 28. In Times of Conflict
 
@@ -222,7 +220,7 @@ Heavenly Father, we remember before you those who suffer want and anxiety from l
 
 O Eternal God, bless all schools, colleges, and universities [and especially \_\_\_\_\_\_\_\_\_\_\_], that they may be lively centers for sound learning, new discovery, and the pursuit of wisdom; and grant that those who teach and those who learn may find you to be the source of all truth; through Jesus Christ our Lord. *Amen.* ^prayer-31
 
-[p. 825]
+[p. 825] ^pg825
 
 *For Education, see Various Occasions no. 23.*
 
@@ -238,7 +236,7 @@ Heavenly Father, in your Word you have given us a vision of that holy City to wh
 
 Lord Christ, when you came among us, you proclaimed the kingdom of God in villages, towns, and lonely places: Grant that your presence and power may be known throughout this land. Have mercy upon all of us who live and work in rural areas [especially \_\_\_\_\_\_\_\_\_\_\_]; and grant that all the people of our nation may give thanks to you for food and drink and all other bodily necessities of life, respect those who labor to produce them, and honor the land and the water from which these good things come. All this we ask in your holy Name. *Amen.* ^prayer-34
 
-[p. 826]
+[p. 826] ^pg826
 
 ### 35. For the Poor and the Neglected
 
@@ -252,7 +250,7 @@ Look with pity, O heavenly Father, upon the people in this land who live with in
 
 Lord Jesus, for our sake you were condemned as a criminal: Visit our jails and prisons with your pity and judgment. Remember all prisoners, and bring the guilty to repentance and amendment of life according to your will, and give them hope for their future. When any are held unjustly, bring them release; forgive us, and teach us to improve our justice. Remember those who work in these institutions; keep them humane and compassionate; and save them from becoming brutal or callous. And since what we do for those in prison, O Lord, we do for you, constrain us to improve their lot. All this we ask for your mercy's sake. *Amen.* ^prayer-37
 
-[p. 827]
+[p. 827] ^pg827
 
 ### 38. For the Right Use of God's Gifts
 
@@ -276,7 +274,7 @@ Almighty and everlasting God, you made the universe with all its marvelous order
 
 Almighty God, in giving us dominion over things on earth, you made us fellow workers in your creation: Give us wisdom and reverence so to use the resources of nature, that no one may suffer from our abuse of them, and that generations yet to come may continue to praise you for your bounty; through Jesus Christ our Lord. *Amen.*
 
-[p. 828]
+[p. 828] ^pg828
 
 ### 42. For the Harvest of Lands and Waters
 
@@ -310,7 +308,7 @@ God our Father, you see your children growing up in an unsteady and confusing wo
 
 Almighty God, whose Son had nowhere to lay his head: Grant that those who live alone may not be lonely in their solitude, but that, following in his steps, they may find fulfillment in loving you and their neighbors; through Jesus Christ our Lord. *Amen.* ^prayer-48
 
-[p. 830]
+[p. 830] ^pg830
 
 ### 49. For the Aged
 
@@ -328,7 +326,7 @@ Watch over thy child, O Lord, as *his* days increase; bless and guide *him* wher
 
 O God, whose fatherly care *reacheth* to the uttermost parts of the earth: We humbly beseech *thee* graciously to behold and bless those whom we love, now absent from us. Defend them from all dangers of soul and body; and grant that both they and we, drawing nearer to *thee*, may be bound together by *thy* love in the communion of *thy* Holy Spirit, and in the fellowship of *thy* saints; through Jesus Christ our Lord. *Amen.* ^prayer-52
 
-[p. 831]
+[p. 831] ^pg831
 
 ### 53. For Travelers
 
@@ -348,7 +346,7 @@ O merciful Father, who hast taught us in thy holy Word that thou dost not willin
 
 O blessed Lord, you ministered to all who came to you: Look with compassion upon all who through addiction have lost their health and freedom. Restore to them the assurance of your unfailing mercy; remove from them the fears that beset them; strengthen them in the work of their recovery; and to those who care for them, give patient understanding and persevering love. *Amen.* ^prayer-56
 
-[p. 832]
+[p. 832] ^pg832
 
 ### 57. For Guidance
 
@@ -386,7 +384,7 @@ O Lord, support us all the day long, until the shadows lengthen, and the evening
 
 O Almighty God, *who pourest* out on all who desire it the spirit of grace and of supplication: Deliver us, when we draw near to *thee*, from coldness of heart and wanderings of mind, that with steadfast thoughts and kindled affections we may worship *thee* in spirit and in truth; through Jesus Christ our Lord. *Amen.* ^prayer-64
 
-[p. 834]
+[p. 834] ^pg834
 
 ### 65. For the Answering of Prayer
 
@@ -406,7 +404,7 @@ O Lord Jesus Christ, who in a wonderful Sacrament hast left unto us a memorial o
 
 Grant, we beseech *thee*, Almighty God, that the words which we have heard this day with our outward ears, may, through *thy* grace, be so grafted inwardly in our hearts, that they may bring forth in us the fruit of good living, to the honor and praise of *thy* Name; through Jesus Christ our Lord. *Amen.* ^prayer-68
 
-[p. 835]
+[p. 835] ^pg835
 
 ### 69. On Sunday
 

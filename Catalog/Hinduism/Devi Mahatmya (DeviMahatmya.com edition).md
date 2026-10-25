@@ -17,8 +17,7 @@ language:
   - Sanskrit
 pages: 118
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Hinduism/Devi Mahatmya (DeviMahatmya.com edition).pdf]]"
   - "[[Devi Mahatmya - Durga Saptashati]]"

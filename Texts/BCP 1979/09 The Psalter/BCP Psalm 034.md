@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 34
 verses: 22
-page_range:
-  - 628
-  - 629
+page_range: "628–629"
 aliases:
   - "BCP Psalm 34"
   - "BCP 628"
@@ -32,7 +30,7 @@ let the humble hear and rejoice. ^34-2
 **34:3** Proclaim with me the greatness of the LORD; \*  
 let us exalt his Name together. ^34-3
 
-[p. 628]
+[p. 628] ^pg628
 
 **34:4** I sought the LORD, and he answered me \*  
 and delivered me out of all my terror. ^34-4
@@ -73,7 +71,7 @@ and his ears are open to their cry. ^34-15
 **34:16** The face of the LORD is against those who do evil, \*  
 to root out the remembrance of them from the earth. ^34-16
 
-[p. 629]
+[p. 629] ^pg629
 
 **34:17** The righteous cry, and the LORD hears them \*  
 and delivers them from all their troubles. ^34-17

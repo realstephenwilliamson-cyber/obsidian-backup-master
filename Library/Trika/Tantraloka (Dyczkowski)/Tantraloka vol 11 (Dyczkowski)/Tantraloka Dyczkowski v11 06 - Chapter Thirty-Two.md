@@ -76,7 +76,7 @@ bimbasya yasyā udaya ity uktā tadupāyatā ॥ 2 ॥
 
 The ‘arising’ (samudaya) (of the reflection is its) origination (utpatti). (The pronoun) ‘its’, that is, of Mudrā, which is a reflection, has the sense of a genitive. (In the second instance of the use of the word) ‘its’, the sense is that of an ablative, as (the arising of the reflection) from the presence (of the original image). Its ‘arising’ is insight (jñapti) and ‘the means to that’ is the means to (the realisation of the nature of) the original image by means of insight. This is the meaning. 
 
-Having explained the conventional meaning \[illegible\] of the word \[illegible\] he (now) also explains the etymological (yoga) one. 
+Having explained the conventional meaning (rūḍhi) of the word \[illegible\] he (now) also explains the etymological (yoga) one. 
 
 ### TĀ 32.3
 
@@ -90,7 +90,7 @@ It is called mudrā in the scriptures because, (as its etymology indicates,) it 
 
 #### Viveka on 32.3
 
-[^367]: About the origin and derivation of the word mudra, see Shah 1956: 11-14. This is a common didactic etymology of the word mudrā. Abhinava uses the term mudrā in another sense in the PTv (p. 223). There he says that mudrā — a feminine word — denotes two forms of Sakti. One is the power of knowledge \[illegible\] and the other action (kriyā). These energies are the ‘stamps’ (mudrā) or marks (anka) which characterize gender, female and male respectively. He alludes also to the union of the genders as a yoga of ‘inner reversing into outer and outer into inner’ as the union of the sign of gender of the two partners engaged in union. He writes: sarvaṁ hi mudrādvayānuviddhaḥ — jñānakriyāśaktisāratvāt kevala devatāsu jṁāūnamudrā antarudriktā kriyāmudrā bahiḥ vīreṣu viparyayaḥ anupraveśas tu samatayā viparyayāc ca anenaivābhiprāyenṇa jñānaśaktyātmake \[illegible\] kriyāśaktisamarpanam uktam | ‘Everything is threaded through with two seals, because the essence (of all things) are the powers of knowledge and action. The seal of knowledge is inwardly predominant within the deities (of the senses). The seal of action is external and is within Kaula adepts (vīra). Reversal is entering (within,) and because of the balance (samatā) and reversal, it is said with this intention that the power of action is offered into the genital centre \[illegible\] which is the power of knowledge.’ PTv (p. 223) Commenting on the following verse from Utpaladeva’s Sivastotrāvali, Kṣemarāja says, along the same lines, that the mudrā of Maheśvara is stamped everywhere, and consists of knowledge and action, which are the two genders. jaya sarva jagannyastasvamudrāvyaktavaibhava | jayātmadānaparyantaviśveśvara maheśvara | “Victory (to You) O Maheśvara, You who are everything! You whose glory is manifest by Your own seal (mudrā) stamped (everywhere) in (all) the universe; victory (to You) who are the Lord of the universe to the very limit of the gift of Yourself.” ŚSt 14/12 jaya sarveti | sarvatra jagati nyastayā svamudrayānandasārajñānakriyāśaktivyāpti-mayayāvaṣtambharūpayā vyaktarn vaibhavaṁ vyāpakatvari prabhutvari ca yasya | yad āgamaḥ na cakrāṁkā na vajrāṁkā dṛśyante jantavaḥ kvacit | bhagaliṅgāṁkitaṁ viśvaṁ tena māheśvaraṁ jagat |1 iti | \*His glory is his Lordship and omnipresence, made manifest in His own seal, made of the pervasion of the powers of knowledge and action, the essence of which is bliss. As scripture (declares): ‘People, wherever they be, are not seen (to be who they truly are by being) marked (with sectarian signs such as) the Wheel and Vajra. (But) everything is marked with the signs of the female and male organs, thus the universe (pervaded by) Maheśvara belongs to Him.’ See also Gnoli-Orofino 1994 p. 81.
+[^367]: About the origin and derivation of the word mudra, see Shah 1956: 11-14. This is a common didactic etymology of the word mudrā. Abhinava uses the term mudrā in another sense in the PTv (p. 223). There he says that mudrā — a feminine word — denotes two forms of Sakti. One is the power of knowledge \[illegible\] and the other action (kriyā). These energies are the ‘stamps’ (mudrā) or marks (anka) which characterize gender, female and male respectively. He alludes also to the union of the genders as a yoga of ‘inner reversing into outer and outer into inner’ as the union of the sign of gender of the two partners engaged in union. He writes: sarvaṁ hi mudrādvayānuviddhaḥ — jñānakriyāśaktisāratvāt kevala devatāsu jṁāūnamudrā antarudriktā kriyāmudrā bahiḥ vīreṣu viparyayaḥ anupraveśas tu samatayā viparyayāc ca anenaivābhiprāyenṇa jñānaśaktyātmake \[illegible\] kriyāśaktisamarpanam uktam | ‘Everything is threaded through with two seals, because the essence (of all things) are the powers of knowledge and action. The seal of knowledge is inwardly predominant within the deities (of the senses). The seal of action is external and is within Kaula adepts (vīra). Reversal is entering (within,) and because of the balance (samatā) and reversal, it is said with this intention that the power of action is offered into the genital centre \[illegible\] which is the power of knowledge.’ PTv (p. 223) Commenting on the following verse from Utpaladeva’s Sivastotrāvali, Kṣemarāja says, along the same lines, that the mudrā of Maheśvara is stamped everywhere, and consists of knowledge and action, which are the two genders. jaya sarva jagannyastasvamudrāvyaktavaibhava | jayātmadānaparyantaviśveśvara maheśvara | “Victory (to You) O Maheśvara, You who are everything! You whose glory is manifest by Your own seal (mudrā) stamped (everywhere) in (all) the universe; victory (to You) who are the Lord of the universe to the very limit of the gift of Yourself.” ŚSt 14/12 jaya sarveti | sarvatra jagati nyastayā svamudrayānandasārajñānakriyāśaktivyāpti-mayayāvaṣtambharūpayā vyaktaṁ vaibhavaṁ vyāpakatvari prabhutvari ca yasya | yad āgamaḥ na cakrāṁkā na vajrāṁkā dṛśyante jantavaḥ kvacit | bhagaliṅgāṁkitaṁ viśvaṁ tena māheśvaraṁ jagat |1 iti | \*His glory is his Lordship and omnipresence, made manifest in His own seal, made of the pervasion of the powers of knowledge and action, the essence of which is bliss. As scripture (declares): ‘People, wherever they be, are not seen (to be who they truly are by being) marked (with sectarian signs such as) the Wheel and Vajra. (But) everything is marked with the signs of the female and male organs, thus the universe (pervaded by) Maheśvara belongs to Him.’ See also Gnoli-Orofino 1994 p. 81.
 
 *[p. 137]* ^pg155
 
@@ -148,11 +148,11 @@ Surely (one may ask), there can also be other mudrās like Triśūlinī etc. tha
 41) 
 
 \[illegible\] tadaṁgabhūtās tu padmādyā mālinīmate ॥ 6 I|
-\[illegible\] bahutvāmukhyatvayogābhyārṁ neha varnanam | 
+tāsāṁ bahutvāmukhyatvayogābhyārṁ neha varnanam | 
 
 371?\. Yogamudrā is described in MV 7/35-36; even so, one wonders whether to emend to the much better known yonimudrā.
 
-372?\. These four mudrās beginning with Karaṅkinī are, along with Khecarīmudrā, an important, ndard set of five, integrated and internalized into the so-called Pañcavāha, taught in the systematized Krama practice in its final fully formed development as an elaboration of phases of the flux of cognitive consciousness engaged in the act of perception, marked with the components of its original external liturgy. They are mentioned together in a meditation in the Vijñānabhairava (verse 77). Kṣemarāja makes a brief reference to these mudrās in his commentary on NT 20/36ab, referring us back to his unfortunately lost commentary on the VBh. He writes: mudrātra prathamaḥ svaśarīranihsaranasamaye karaṁkinī, taccharīrākramaṇe krodhanā, tadraśmyādivilāpane lelihānā, tatpurād nihsarane khecarī, svahṛtprāptau bhairavī | tadbandhasatattvarn ānabhairavoddyote.asmābhirdarśitam | ‘Here the first Seal is Karaṅkinī, (which is used) at the time when one exits from one’s own body. (The Seal called) Krodhanā (is used) when attacking that body. Lelihānā (is used) when its rays etc. are being destroyed, and Khecarī when quitting that abode (i.e. body), Bhairavi when attaining one’s own heart. 1 have explained their formation and nature in the venerable Vijñānabhairavoddyota.” The reader is referred to the Appendix to this chapter for extensive citations of Trika and Krama sources concerning mudras, including these five, that are elaborated as phases or aspects of the dynamism of cognitive consciousness engaged in perception.
+372?\. These four mudrās beginning with Karaṅkinī are, along with Khecarīmudrā, an important, ndard set of five, integrated and internalized into the so-called Pañcavāha, taught in the systematized Krama practice in its final fully formed development as an elaboration of phases of the flux of cognitive consciousness engaged in the act of perception, marked with the components of its original external liturgy. They are mentioned together in a meditation in the Vijñānabhairava (verse 77). Kṣemarāja makes a brief reference to these mudrās in his commentary on NT 20/36ab, referring us back to his unfortunately lost commentary on the VBh. He writes: mudrātra prathamaṁ svaśarīranihsaranasamaye karaṁkinī, taccharīrākramaṇe krodhanā, tadraśmyādivilāpane lelihānā, tatpurād nihsarane khecarī, svahṛtprāptau bhairavī | tadbandhasatattvaṁ ānabhairavoddyote.asmābhirdarśitam | ‘Here the first Seal is Karaṅkinī, (which is used) at the time when one exits from one’s own body. (The Seal called) Krodhanā (is used) when attacking that body. Lelihānā (is used) when its rays etc. are being destroyed, and Khecarī when quitting that abode (i.e. body), Bhairavi when attaining one’s own heart. 1 have explained their formation and nature in the venerable Vijñānabhairavoddyota.” The reader is referred to the Appendix to this chapter for extensive citations of Trika and Krama sources concerning mudras, including these five, that are elaborated as phases or aspects of the dynamism of cognitive consciousness engaged in perception.
 
 373?\. Read ity evaṁ bahu- for ity evaṁbahu-.
 
@@ -172,7 +172,7 @@ Surely (one may ask), the venerable Khecarīmudrā is also taught in the venerab
 श्रीखेचरीसमाविष्टो यद्यत्स्थानं समाश्रयेत् ॥ ७ ॥
 देवीसनिषये तत्स्यादलं किं उम्बौर्वृया ।
 
-śrīkhecarīsamāviṣtṭo yad yat sthānaṁṁ samāśrayet ॥ 7 |l devīsaṁnidhaye tat syād alarn (71 dambarair vṛthā | 
+śrīkhecarīsamāviṣtṭo yad yat sthānaṁṁ samāśrayet ॥ 7 ॥ devīsaṁnidhaye tat syād alaṁ (71 dambarair vṛthā | 
 
 Whatever place one who is penetrated by the venerable (goddess) Khecarī (the Skyfarer) (may choose) to take up as his dwelling (samāśrayet), that (act by itself) is enough to make the goddesses draw close. So why (indulge) in useless chatter (about other mudrās)? (7cd-8ab) 
 
@@ -253,7 +253,7 @@ Mālinīvijayottara'
 निगृह्य तत्र तरण प्ररयेत् खत्रयेण तु ॥ १ १॥
 एतां बद्धवा खे गतिः स्यादिति ्रीपूर्वशासने |
 
-baddhvā padmāsanari yogī nābhāv akṣeśvaraṁ kṣipet ॥ 10 II daṇndākārari tu tarn tāvan nayed yāvat kakhatrayam |
+baddhvā padmāsanari yogī nābhāv akṣeśvaraṁ kṣipet ॥ 10 ॥ daṇndākārari tu tarn tāvan nayed yāvat kakhatrayam |
 nigṛhya tatra tat \[illegible\] prerayet khatrayenṇa tu ॥ 11 ॥
 etāmṁ baddhvā khe gatiḥ syād iti śŚrīpūrvaśāsane | 
 
@@ -276,7 +276,7 @@ Once the Yogi who is seated in a stable and comfortable posture has risen from t
 
 B) The Seal of the Skyfarer According to the Yogasamhcāra’' ध्वनिज्योतिर्मरुयुक्त चित्तं विश्रम्य चोपरि ॥ १२॥
 अनेनाभ्यासयोगेन शिवं भित्वा परं व्रजेत् । |
-dhvanijyotirmarudyuktarn \[illegible\] viśramya copari ॥ 12 ॥
+dhvanijyotirmarudyuktaṁ \[illegible\] viśramya copari ॥ 12 ॥
 anenābhyāsayogena śivaṁ bhittvā \[illegible\] vrajet | 
 
 Once having brought to rest the mind, yoked to Resonance (dhvani), Light (jyotiṣ) and Wind (marut), and pierced (progressively) through (the levels) above, (the Yogi) reaches supreme Śiva by engaging in this practice. (12cd-13ab) 
@@ -330,7 +330,7 @@ triśūlam tad vijānīyād yena vyomotpated budhaḥ | 17 ॥
 
 Once Wind and Fire” have been made (to fuse) into the single staff of the three presiding deities, the three powers conjoined (to it and each other), and the Void and (its opposite) the Non-void have dissolved away, 
 
-382?\. \[illegible\] The end of the two branches (Sakhāprānta) is the End of the Twelve, and the two wheels (or branches) of exhalation (prāna) and inhalation (apāna) that, ascending and descending, reabsorb and emit, respectively.
+382?\. \[illegible\] The end of the two branches (Sakhāprānta) is the End of the Twelve, and the two wheels (or branches) of exhalation (prāṇa) and inhalation (apāna) that, ascending and descending, reabsorb and emit, respectively.
 
 
 *[p. 146]* ^pg164
@@ -389,7 +389,7 @@ mantraikaniṣthaḥ saṁpaśyan dehasthāḥ sarvadevatāḥ ॥ 21 ॥
 hlādodvegāsmitākruṣtanidrāmaithunamatsare |
 rūpādau vā kartṛkarmakaraneṣu ca sarvaśaḥ ॥ 22 ॥
 nāham asmīti manvāna ekībhūtaṁ vicintayan |
-karnākṣimukhanāsādicakrasthaṁ devatāgaṇam ॥ 23 Il grahītārari sadā paśyan khecaryā siddhyati sphuṭam | 
+karnākṣimukhanāsādicakrasthaṁ devatāgaṇam ॥ 23 ॥ grahītārari sadā paśyan khecaryā siddhyati sphuṭam | 
 
 Free from partial aspects and without (any) doubts, devoid (of the need for conventionally proper) behaviour (nirācāra), devoid of the world (and its concerns), having shaken off (worldly desires) (avadhūta), devoid of (all obligations to observe any prescribed) conduct (nirācāra), meditating that “I am not”, solely intent on Mantra, seeing that all the deities reside in (his) body, considering that “I am not” present in any way in the agent, action and (its) instrument, nor in form and the rest (of the objects of sense), or (in the shifting emotions of) joy, worry, pride, anger, sleep, (the desire for) sex and envy, thinking that (they are all) one (thing), always seeing how the host of deities that reside in the wheels of the ears, eyes, mouth and nose etc., are the (true) perceiver, is, by virtue of the Skyfaring (mudrā), clearly (and evidently) successful. (20cd-24ab) 
 
@@ -436,7 +436,7 @@ tatrasthā devatāḥ sarvā dyotayantyo ‘khilańi jagat ॥ 25 ॥
 
 *[p. 149]* ^pg167
 
-The Seal of the Skeleton - \[illegible\] Mudrā 
+The Seal of the Skeleton - Karaṅkinī Mudrā 
 
 Having taught the nature of the Trident (Mudrā), he also talks about that of Karaṅkinī (the Skeleton Mudrā). 
 
@@ -467,9 +467,9 @@ Holding the mouth wide open with the little fingers,” and, in the same way, th
 ........ jvālinīṁ śŚrṇu sāṁpratam |
 hanur lalāṭagau hastau prasāryāṁgulitaḥ sphutau | 27 ॥
 cālayed vāyuvegena kṛtvāntarbhrukuṭī budhaḥ |
-vidāryāsyari sajihvarn ca hāhākāraṁ tu kārayet ॥ 28 ॥
+vidāryāsyari sajihvaṁ ca hāhākāraṁ tu kārayet ॥ 28 ॥
 eṣā jvāliny agnicakre tayā cāṣtottaraṁ śatam |
-japed yadi tataḥ siddhyet trailokyarn sacarācaram || 29 ॥ 
+japed yadi tataḥ siddhyet trailokyaṁ sacarācaram || 29 ॥ 
 
 Now listen to (how the seal of the Goddess) Jvālinī (the Blazing One) (is made). The hands placed (on the area) from the jaw to the forehead, stretching (them out) clearly from the fingers, and having placed the eyebrows within them, the wise man should move them about with the 
 
@@ -495,7 +495,7 @@ He (now) explains the accomplishment (attained by means of this mudrā).
 
 paradeheṣu cātmānaṁ paraṁ cātmaśarīrataḥ |
 paśyec caranta hānādād gamāgamapadasthitam || 30 ॥
-navacchidragatar caikaṁ tadantarn vyāpakaṁ dhruvam |
+navacchidragatar caikaṁ tadantaṁ vyāpakaṁ dhruvam |
 anayā hi khacārī śrīyogasañcāra ucyate || 31 || 
 
 By (making the) sound (nāda) HĀ! (the yogi) sees (his own) Self wandering within the bodies of others and (that of) another (person) within his own body. Established on the plane of the going and coming (of the vital breath), by letting (it) go and taking (it) up, he is present in the nine cavities (of the body, moving through them back and forth). One (alone), within that, he is pervasive and well fixed (dhruva). It is said in the venerable Yogasamṁcāra that by virtue of this (mudrā), he is indeed a Skyfarer (khacārin). (30-31) 
@@ -546,7 +546,7 @@ Kulakuṇdalikā abides unaware (avedinī) within the individual (fettered) soul
 
 Kulakundalikā, who ‘abides unaware (vedinī) here ‘within the individual (fettered) soul’, wanders inwardly in a state of identity with that (soul’s) nature. Entering into the power of the vital breath in the centre, She who withdraws ignorance reaches ‘her own place’, that is, the Foundation of the Empowered One (sāktādhāra), and (there) attains ‘(a state of contended) rest (nivṛti)’, which is the attainment of oneness with that. Then she impels the Sound of (the soul’s) awakened consciousness, in accord with the teaching (in the Vīrāvali) that 
 
-‘the empowered one who impels awakened consciousness and Sound is said to be in the root \[illegible\] 
+‘the empowered one who impels awakened consciousness and Sound is said to be in the root (mūla).’ 
 
 For this reason, (Kuṇqalinī) makes ‘the sound’ (rāva) which is (the innate) Sound (of consciousness) \[illegible\] that is ‘without sound’, its nature completely tranquil, within the foundation of the subtle channel \[illegible\] in the centre (i.e. \[illegible\] Then, in accord with the view (taught in the Vīrāva/i) that ‘(the deities) in the Bulb (kanda) are greedy for the six flavours’, ‘the plane of the Bulb’ ʻis the juice (of the aesthetic delight) of the nectar of (spiritual) knowledge \[illegible\] 
 
@@ -560,7 +560,7 @@ For this reason, (Kuṇqalinī) makes ‘the sound’ (rāva) which is (the inna
 वज्ाख्यां ज्ञानजेनैव तथा शाखोभयान्ततः ।
 कोणमध्यविनिष्क्रान्तं लिद्धमूलं विभेदयेत् ॥ ३६ ॥
 
-tatra \[illegible\] bodhayitvā tu gatim buddhvā kramāgatām ॥ 34 I|
+tatra \[illegible\] bodhayitvā tu gatim buddhvā kramāgatām ॥ 34 ॥
 cakrobhayanibaddhār tu śākhāprāntāvalambinīm |
 mūlasthānād yathā yogī tamogranthiń vidārayet || 35 ॥
 vajrākhyāmi jñānajenaiva tathā śākhobhayāntataḥ |
@@ -581,7 +581,7 @@ the Root, and, linked to both the two wheels (of the cycles of inhalation and ex
 
 #### Viveka on 32.34–36
 
-‘Once (the yogi) has awakened’ that Kulakundalikā ‘who has come’ there ‘gradually’, into the foundations, and known her to be moving up to the End of the Twelve, beginning ‘from the location of the Root’ ‘linked to the two cycles \[illegible\] that are inhalation and exhalation, this yogi ‘should burst apart’, by the great glory (māhātmya) ‘born of knowledge, the knot of darkness’ which, because it is hard to pierce, ʻis called the Adamantine (vajra) as well as the Central Channel (suṣumnā). (Then,) taking (his) support ‘from the extremity of both branches’, that is, the exhaled and inhaled breath, ‘he should in the same way pierce through the root of the Jiṅga that has emerged from the centre of the triangle’, that is, the Foundation of Birth. As it is located below the penis (i.e. in the root of the Liṅga), it is called the foundation of Akula. 
+‘Once (the yogi) has awakened’ that Kulakundalikā ‘who has come’ there ‘gradually’, into the foundations, and known her to be moving up to the End of the Twelve, beginning ‘from the location of the Root’ ‘linked to the two cycles (cakra)’ that are inhalation and exhalation, this yogi ‘should burst apart’, by the great glory (māhātmya) ‘born of knowledge, the knot of darkness’ which, because it is hard to pierce, ʻis called the Adamantine (vajra) as well as the Central Channel (suṣumnā). (Then,) taking (his) support ‘from the extremity of both branches’, that is, the exhaled and inhaled breath, ‘he should in the same way pierce through the root of the Jiṅga that has emerged from the centre of the triangle’, that is, the Foundation of Birth. As it is located below the penis (i.e. in the root of the Liṅga), it is called the foundation of Akula. 
 
 ### TĀ 32.37–40
 
@@ -641,7 +641,7 @@ Sound) devoid of phonemes (avarpa), which is (immanent as) the phonemes. (40cd-4
 
 #### Viveka on 32.40–41
 
-‘This is the sequence’ of her (gradual rise), which is (her) circulation through each of the Foundations \[illegible\] as stated, that is, (her) spontaneous flow. This is the meaning. “There is also another’ (arising of) that (Kunqalinī,) that takes place (suddenly) \[illegible\] of sequence’. This ‘supreme Skyfaring (Goddess), (previously) known as the Foundation of the Yoni (yonyādhārā)’, is then ‘called ‘the Root of the Trident (sū/amūlā when she is arisen. The meaning is that she attains the plane of the End of the Twelve (suddenly and) immediately by being conjoined to the three spokes (of the Trident), that are Power, the Pervasive One and the Equal One. It is because of that that ‘the phonemes’ that are outer (acts of) reflective awareness ‘dissolve away there’ within (Kundalinī, who is Unstruck Sound, and so is) ‘devoid of phonemes (avarṇpa)’. (In other words, they) come to rest in (her) own nature, which is just her own (pure) reflective awareness (of her own pure conscious nature), that has also encompassed (within itself) outer reflective awareness, and whose nature is to remove all (the diversity of discursive representation).” This is the meaning. 
+‘This is the sequence’ of her (gradual rise), which is (her) circulation through each of the Foundations (ādhāra) as stated, that is, (her) spontaneous flow. This is the meaning. “There is also another’ (arising of) that (Kunqalinī,) that takes place (suddenly) \[illegible\] of sequence’. This ‘supreme Skyfaring (Goddess), (previously) known as the Foundation of the Yoni (yonyādhārā)’, is then ‘called ‘the Root of the Trident (sū/amūlā when she is arisen. The meaning is that she attains the plane of the End of the Twelve (suddenly and) immediately by being conjoined to the three spokes (of the Trident), that are Power, the Pervasive One and the Equal One. It is because of that that ‘the phonemes’ that are outer (acts of) reflective awareness ‘dissolve away there’ within (Kundalinī, who is Unstruck Sound, and so is) ‘devoid of phonemes (avarṇpa)’. (In other words, they) come to rest in (her) own nature, which is just her own (pure) reflective awareness (of her own pure conscious nature), that has also encompassed (within itself) outer reflective awareness, and whose nature is to remove all (the diversity of discursive representation).” This is the meaning. 
 
 Surely (one may ask), be that so (as you say), but how can the yogi awaken her again? With this doubt in mind, he says: 
 
@@ -726,7 +726,7 @@ D) The Seal of the Skyfarer According to the Kāmikatantra”
 ग्रसमानमिदं विशव चद्रार्कपुटसंपुटे ।
 तेनैव स्यात्खगामीति श्रीमत्कामिक उच्यते ॥ ४८ ॥
 
-cumbākārenṇa vaktreṇa yat tattvarn śrūyate param | 47 ॥
+cumbākārenṇa vaktreṇa yat tattvaṁ śrūyate param | 47 ॥
 grasamānam idar viśvan candrārkapuṭasathipuṭe | 
 
 402?\. Read sarvabandhottīrnar for sarvasaṁbandhottīrnaṁ.
@@ -758,7 +758,7 @@ bhavān muktvā drāvayanti pāśān mudrā hi śaktayaḥ ।
 mukhyāsām khecarī sā ca tridhoccārenṇa vācikī ॥ 49 ॥
 triśiromudgaro(re) devi kāyikī paripaṭhyate । 
 
-404?\. See above, 3/168cd-170ab (168-169) and note and also PT 12cd ff. Abhinava clearly identifies his source as the Kāmika. Even so, the first line of his citation is practically the same as the first line of NTS mūlasūtra 6/10, and that reads: cumbākāreṇa vaktreṇa yat \[illegible\] śrūyate bhuvi | kalādhantari vijānīyād ākāśasthaṁi ca me śṛnu Il ‘That TATTVA (Mantra) that is heard on earth (bhuvi) (when it is uttered) with the mouth shaped in the form of a kiss: (this) one should know to be KALĀDHYA.’ (modified translation by Goodall et al.) Also, Sārdhatriśatikālottara 19/6ab: cumbākārenṇa vaktrenṇa tat tattvaṁ parikīrtitam | Goodall et al. suggest that ‘In other words this could be a sort of whistling sound produced by breathing HUM through the mouth when the lips are pushed forward into a moue.” See also Goodall, Vasudeva and Isaacson, ‘\*tattva\` in Tantrābhidhānakośa vol. 3 p. 55.
+404?\. See above, 3/168cd-170ab (168-169) and note and also PT 12cd ff. Abhinava clearly identifies his source as the Kāmika. Even so, the first line of his citation is practically the same as the first line of NTS mūlasūtra 6/10, and that reads: cumbākāreṇa vaktreṇa yat tattvaṁ śrūyate bhuvi | kalādhantari vijānīyād ākāśasthaṁi ca me śṛnu Il ‘That TATTVA (Mantra) that is heard on earth (bhuvi) (when it is uttered) with the mouth shaped in the form of a kiss: (this) one should know to be KALĀDHYA.’ (modified translation by Goodall et al.) Also, Sārdhatriśatikālottara 19/6ab: cumbākārenṇa vaktrenṇa tat tattvaṁ parikīrtitam | Goodall et al. suggest that ‘In other words this could be a sort of whistling sound produced by breathing HUM through the mouth when the lips are pushed forward into a moue.” See also Goodall, Vasudeva and Isaacson, ‘\*tattva\` in Tantrābhidhānakośa vol. 3 p. 55.
 
 405?\. a Crow, see above 3/168cd-170ab (168-169) and note.
 
@@ -794,7 +794,7 @@ In the very same way, supreme consciousness has poured forth as the body. Thus h
 भवस्थानाभवस्थानमुच्चारेणावधारयेत् ॥ ५१ ॥
 मानसीयम्
 
-\[illegible\] \[illegible\] cāpi hṛt stanadvayam eva ca ॥ 50 I|
+\[illegible\] \[illegible\] cāpi hṛt stanadvayam eva ca ॥ 50 ॥
 vṛṣaṇadvayaliṅgari ca prāpya \[illegible\] gatā tv iyam | 
 
 407?\. The three kinds of mudrā are those of the body, speech and mind. Above in 32/9cd, it is said that mudrās are four kinds, that is, these three as well as hands.
@@ -822,7 +822,7 @@ of the Seal of the Skyfarer).“ (50cd-52a)
 शरीरं तु समस्तं यत्कूाश्षरसमाकृति ।
 एषा मद्रा महामुद्रा भैरवस्येति गहरे ॥ ५३ ॥
 
-„+ . + itas tv anyāḥ padmādyā aṣṭa mudrikāḥ \\ mātrvyūhakule tāh syur asyās tu parivāragāḥ || 52 ॥
+„+ . + itas tv anyāḥ padmādyā aṣṭa mudrikāḥ \\ mātrvyūhakule tāḥ syur asyās tu parivāragāḥ || 52 ॥
 śarīraṁ tu samastaṁ yat kūṭākṣarasamākṛti \\ \[illegible\] mudrā mahāmudrā bhairavasyeti gahvare || 53 ॥ 
 
 Apart from (the Skyfarer,) there are eight (other) mudras, including (the Seal of the) Lotus and the rest, that are amongst its entourage, (each belonging) to a family of the group (of eight) Mothers. The form of the entire body (as a whole) is the phoneme \[illegible\] (kūfākṣara). (It is said) in the Gahvaratantra that this seal is Bhairava’s Great Seal (mahāmudrā). (52bcd- 53) 
@@ -864,7 +864,7 @@ F) The Seal of the Skyfarer According to the Bhargāṣṭakaśikhākula सू�
 अन्त स्थितिः खेचरीयं सङ्धोचाख्या शशाङ्किनी ।
 
 sūpaviṣtaḥ padmake tu hastāgrāmiguliraśmibhiḥ |
-parāùmukhair jhatity udyadraśmibhiḥ pṛṣthasaṁsthitaiḥ | 54 ॥
+parāùmukhair jhaṭity udyadraśmibhiḥ pṛṣthasaṁsthitaiḥ | 54 ॥
 antahsthitiḥ khecarīyaṁ saṁkocākhyā śaśāṁkinī | 
 
 1\) (The yogi,) well seated in the lotus posture, (experiences) the inner state (of rest when he engulfs and withdraws outer objectivity) with the (lunar) rays located on the back of the fingers on the forepart of (his) hands, that emerge all of a sudden, turned away (from \[illegible\] This (first form of the Seal of the) Skyfarer is (the Goddess of the Moon) Śaśāṁkinī, who is (also appropriately) called ‘Retraction’ (sarrkocā).’(54-55ab) 
@@ -885,7 +885,7 @@ Here (engaged in this practice), the yogi sits in the lotus or other such postur
 
 *[p. 163]* ^pg181
 
-tasmād eva samuttamyaṛ bāhū caivāvakuñcitau |l 55 ॥
+tasmād eva samuttamyaṛ bāhū caivāvakuñcitau ॥ 55 ॥
 samyag vyomasu saṁsthānād vyomākhyā khecarī matā | 
 
 2\) Then having raised the arms well bent, he abides well in the Voids and so this (form of) Khecarī is considered to be (the one) called the (Seal of the) Void (vyomākhyā). (55cd-56ab) 

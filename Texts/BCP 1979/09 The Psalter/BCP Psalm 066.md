@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 66
 verses: 18
-page_range:
-  - 674
-  - 675
+page_range: "674–675"
 aliases:
   - "BCP Psalm 66"
   - "BCP 674"
@@ -33,7 +31,7 @@ because of your great strength your enemies cringe before you. ^66-2
 **66:3** All the earth bows down before you, \*  
 sings to you, sings out your Name." ^66-3
 
-[p. 674]
+[p. 674] ^pg674
 
 **66:4** Come now and see the works of God, \*  
 how wonderful he is in his doing toward all people. ^66-4
@@ -74,7 +72,7 @@ I will give you oxen and goats. ^66-13
 **66:14** Come and listen, all you who fear God, \*  
 and I will tell you what he has done for me. ^66-14
 
-[p. 675]
+[p. 675] ^pg675
 
 **66:15** I called out to him with my mouth, \*  
 and his praise was on my tongue. ^66-15

@@ -17,8 +17,7 @@ language:
   - English
 pages: 13
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Self_Awareness_and_Egoity.pdf]]"
   - "[[Library/Trika/Self Awareness, Own Being and Egoity (Dyczkowski)]]"

@@ -18,8 +18,7 @@ language:
   - English
 pages: 342
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Judaica/Segal - Two Powers in Heaven (2002).pdf]]"
   - "[[Library/Judaica/Two Powers in Heaven (Segal)/Two Powers in Heaven (Segal)]]"

@@ -19,8 +19,7 @@ language:
   - English
 pages: 43
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Bansat-Boudon - The Surprise of Spanda (2022).pdf]]"
   - "[[Library/Trika/The Surprise of Spanda (Bansat-Boudon)/The Surprise of Spanda (Bansat-Boudon)]]"

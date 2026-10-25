@@ -17,8 +17,7 @@ language:
   - English
 pages: 346
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Ehrman - Lost Scriptures (2003).pdf]]"
   - "[[Library/Christianity/Lost Scriptures (Ehrman)/Lost Scriptures (Ehrman)]]"

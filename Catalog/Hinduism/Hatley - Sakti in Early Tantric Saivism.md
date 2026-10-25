@@ -17,8 +17,7 @@ language:
   - English
 pages: 17
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Sakti_in_Early_Tantric_Saivism_Historica.pdf]]"
 aliases:

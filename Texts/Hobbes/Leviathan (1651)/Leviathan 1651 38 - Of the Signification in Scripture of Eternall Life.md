@@ -393,7 +393,7 @@ Torments Of Hell
 
 The Torments of Hell, are expressed sometimes, by "weeping, and gnashing
 of teeth," as Mat. 8.12. Sometimes, by "the worm of Conscience;" as
-[[Isaiah 66#^66-24|Isa.66.24]]. and Mark 9.44, 46, 48; sometimes, by Fire, as in the place
+[[Isaiah 66#^66-24|Isa.66.24]]. and [[DRB Mark 09#^9-43|Mark 9.44]] [as printed; the verse is Mark 9:43 in the Douay-Rheims], [[DRB Mark 09#^9-45|46]] [as printed; the verse is Mark 9:45 in the Douay-Rheims], [[Mark 09#^9-48|48]]; sometimes, by Fire, as in the place
 now quoted, "where the worm dyeth not, and the fire is not quenched,"
 and many places beside: sometimes by "Shame, and contempt," as Dan.
 12.2. "And many of them that sleep in the dust of the Earth, shall

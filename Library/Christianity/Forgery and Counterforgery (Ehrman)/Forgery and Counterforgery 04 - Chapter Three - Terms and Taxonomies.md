@@ -6,7 +6,7 @@ page_range: "29–68"
 ---
 [[Forgery and Counterforgery 03 - Chapter Two - Forgers, Critics, and Deceived Deceivers|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 05 - Chapter Four - Forgery in Antiquity - Aspects of the Broader Phenomenon|next →]]
 
-[p. 29]
+[p. 29] ^pg29
 
 ## Chapter Three: Terms and Taxonomies
 
@@ -34,7 +34,7 @@ c. ![[forgery-counterforgery-00031.jpeg]] This term, “counterfeit,” is entir
 
 Speyer lists twenty-six Greek terms, with Latin equivalents, sometimes used to describe the act of committing forgery, almost all of them with negative connotations, including ![[forgery-counterforgery-00033.jpeg]] and ![[forgery-counterforgery-00034.jpeg]] to his list could be added ![[forgery-counterforgery-00035.jpeg]] and ![[forgery-counterforgery-00036.jpeg]] “to make up,” “invent,” “fabricate.” Simply on the terminological level, this was not a respectable practice. When one considers what ancient authors actually said about the practice—a matter to which we will soon turn—there appears to be no reason to shy away from calling it what it is. *Forgery* is not an unnecessarily negative term, contrary to the claims of some New Testament scholars.[^9] Books that made false authorial claims were thought of as lies, bastards, and counterfeits.
 
-[p. 33]
+[p. 33] ^pg33
 
 ### DESCRIPTIONS OF THE PHENOMENA
 
@@ -60,7 +60,7 @@ c. *Non-pseudepigraphic forgeries*. There are other instances in which a book pu
 
 In [[Forgery and Counterforgery 05 - Chapter Four - Forgery in Antiquity - Aspects of the Broader Phenomenon|Chapter Four]] we will see a number of scholars who, on general principle, are loath to label pseudepigraphic writings (especially canonical cases) forgeries, in part because they fail to see that false authorial claims involve deception. There are other scholars who posit special cases in which forgery is not really forgery. For these scholars, there are indeed instances of deception among the pseudonymous writings of antiquity, but other instances entailed special circumstances that make it inappropriate to label the pseudepigraphic writings in question forgeries.
 
-[p. 36]
+[p. 36] ^pg36
 
 #### *Wolfgang Speyer and “Genuine Religious Pseudepigraphy”*
 
@@ -348,7 +348,7 @@ It should be clear on a number of grounds that the alteration of texts was widel
 
 If authors objected to having words wrongly placed on their pens by falsifiers, it does not take much to imagine how they would react to words wrongly placed on their pens by forgers. In these instances a deceptive writer does not merely interpolate or alter the words of a text, implicitly claiming them to be the words of the author; he instead invents a text out of whole cloth, claiming that it presents the words of the author falsely named. In both cases the question is whether the written text derives from the person who is being claimed as its author.
 
-[p. 68]
+[p. 68] ^pg68
 
 ---
 

@@ -18,8 +18,7 @@ language:
   - English
 pages: 468
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Chuang Tzu - Wandering on the Way (1994).pdf]]"
   - "[[Library/Other/Wandering on the Way (Mair)/Wandering on the Way (Mair)]]"

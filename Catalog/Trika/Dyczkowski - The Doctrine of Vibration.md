@@ -17,8 +17,7 @@ language:
   - English
 pages: 307
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Dyczkowski The doctrine of vibration.pdf]]"
   - "[[Library/Trika/The Doctrine of Vibration (Dyczkowski)/The Doctrine of Vibration (Dyczkowski)]]"

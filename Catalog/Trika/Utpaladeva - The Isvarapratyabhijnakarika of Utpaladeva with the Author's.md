@@ -20,8 +20,7 @@ language:
   - Sanskrit
 pages: 338
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[Torella - The Isvarapratyabhijnakarika of Utpaladeva with the Author's Vrtti (SOR 71).pdf]]"
   - "[[Library/Trika/The Isvarapratyabhijnakarika of Utpaladeva with the Author's (Utpaladeva)/The Isvarapratyabhijnakarika of Utpaladeva with the Author's (Utpaladeva)]]"

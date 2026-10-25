@@ -16,8 +16,7 @@ language:
   - English
 pages: 4
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[212119699-Yogini-Tantra.pdf]]"
   - "[[Library/Hinduism/Yogini Tantra (text)]]"

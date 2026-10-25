@@ -18,8 +18,7 @@ language:
   - English
 pages: 248
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Maximus the Confessor - Questions and Doubts (2010).pdf]]"
   - "[[Library/Christianity/Questions and Doubts (Maximus the Confessor)/Questions and Doubts (Maximus the Confessor)]]"

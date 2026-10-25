@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 111
 verses: 10
-page_range:
-  - 755
-  - 755
+page_range: "755"
 aliases:
   - "BCP Psalm 111"
   - "BCP 755"
@@ -51,7 +49,7 @@ because they are done in truth and equity. ^111-8
 he commanded his covenant for ever; \*  
 holy and awesome is his Name. ^111-9
 
-[p. 755]
+[p. 755] ^pg755
 
 **111:10** The fear of the LORD is the beginning of wisdom; \*  
 those who act accordingly have a good understanding;  

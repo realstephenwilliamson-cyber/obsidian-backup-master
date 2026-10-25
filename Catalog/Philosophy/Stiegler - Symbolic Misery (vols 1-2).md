@@ -19,7 +19,7 @@ language:
 pages:
 text: searchable
 status: reading
-physical_copy: true
+print: true
 files:
   - "[[Library/Philosophy/Bernard Stiegler - Symbolic Misery, Volume One_ The Hyperindustrial Epoch-Polity Press (2014).pdf]]"
   - "[[(Symbolic Misery 2) The Catastrophe of the Sensible (2015).pdf]]"

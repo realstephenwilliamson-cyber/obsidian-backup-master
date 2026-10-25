@@ -5,9 +5,7 @@ section: "The Daily Office"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/DailyOffice/mp2.html"
-page_range:
-  - 75
-  - 102
+page_range: "75–102"
 aliases:
   - "BCP 75"
   - "BCP 76"
@@ -42,7 +40,7 @@ aliases:
 
 [[BCP 1979]] · *The Daily Office* · pages 75–102
 
-[p. 75]
+[p. 75] ^pg75
 
 ## Daily Morning Prayer: Rite Two
 
@@ -62,7 +60,7 @@ Behold, I bring you good news of a great joy, which will come to all the people;
 
 Behold, the dwelling of God is with mankind. He will dwell with them, and they shall be his people, and God himself will be with them, and be their God. *[[Revelation 21#^21-3|Revelation 21:3]]*
 
-[p. 76]
+[p. 76] ^pg76
 
 ### Epiphany
 
@@ -112,7 +110,7 @@ Holy, holy, holy is the Lord God Almighty, who was, and is, and is to come. *[[R
 
 We give thanks to the Father, who has made us worthy to share in the inheritance of the saints in light. *[[Colossians 01#^1-12|Colossians 1:12]]*
 
-[p. 78]
+[p. 78] ^pg78
 
 You are no longer strangers and sojourners, but fellow citizens with the saints and members of the household of God. *[[Ephesians 02#^2-19|Ephesians 2:19]]*
 
@@ -138,7 +136,7 @@ The hour is coming, and now is, when the true worshipers will worship the Father
 
 Thus says the high and lofty One who inhabits eternity, whose name is Holy, "I dwell in the high and holy place and also with the one who has a contrite and humble spirit, to revive the spirit of the humble and to revive the heart of the contrite." *[[Isaiah 57#^57-15|Isaiah 57:15]]*
 
-[p. 79]
+[p. 79] ^pg79
 
 *The following Confession of Sin may then be said; or the Office may continue at once with "Lord, open our lips."*
 
@@ -158,7 +156,7 @@ Let us confess our sins against God and our neighbor.
 
 Most merciful God, we confess that we have sinned against you in thought, word, and deed, by what we have done, and by what we have left undone. We have not loved you with our whole heart; we have not loved our neighbors as ourselves. We are truly sorry and we humbly repent. For the sake of your Son Jesus Christ, have mercy on us and forgive us; that we may delight in your will, and walk in your ways, to the glory of your Name. Amen.
 
-[p. 80]
+[p. 80] ^pg80
 
 *The Priest alone stands and says*
 
@@ -192,7 +190,7 @@ Our King and Savior now draws near: Come, let us adore him.
 
 Alleluia. To us a child is born: O come, let us adore him. Alleluia.
 
-[p. 81]
+[p. 81] ^pg81
 
 *From the Epiphany through the Baptism of Christ, and on the Feasts of the Transfiguration and Holy Cross*
 
@@ -230,7 +228,7 @@ Worship the Lord in the beauty of holiness: Come let us adore him.
 
 The mercy of the Lord is everlasting: Come let us adore him.
 
-[p. 82]
+[p. 82] ^pg82
 
 *The Alleluias in the following Antiphons are used only in Easter Season.*
 
@@ -265,7 +263,7 @@ Be joyful in the Lord, all you lands; \*
 serve the Lord with gladness  
 and come before his presence with a song.
 
-[p. 83]
+[p. 83] ^pg83
 
 Know this: The Lord himself is God; \*  
 he himself has made us, and we are his;  
@@ -295,7 +293,7 @@ the first fruits of those who have fallen asleep. For since by a man came death,
 by a man has come also the resurrection of the dead. For as in Adam all die, \*  
 so also in Christ shall all be made alive. Alleluia.
 
-[p. 84]
+[p. 84] ^pg84
 
 *Then follows*
 
@@ -324,7 +322,7 @@ The Word of the Lord.
 
 *Silence may be kept after each Reading. One of the following Canticles, or one of those on pages 47-52 (Canticles 1-7), is sung or said after each Reading. If three Lessons are used, the Lesson from the Gospel is read after the second Canticle.*
 
-[p. 85]
+[p. 85] ^pg85
 
 **8 The Song of Moses** *Cantemus Domino*  
 *[[Torah 16 - Beshalach#^15-1|Exodus 15:1-6]], 11-13, 17-18*
@@ -350,7 +348,7 @@ for ever and for ever.
 Glory to the Father, and to the Son, and to the Holy Spirit: \*  
 as it was in the beginning, is now, and will be for ever. Amen.
 
-[p. 86]
+[p. 86] ^pg86
 
 **9 The First Song of Isaiah** *Ecce, Deus*  
 *[[Isaiah 12#^12-2|Isaiah 12:2-6]]*
@@ -377,7 +375,7 @@ nor your ways my ways, says the Lord. For as the heavens are higher than the ear
 so are my ways higher than your ways,  
 and my thoughts than your thoughts.
 
-[p. 87]
+[p. 87] ^pg87
 
 For as rain and snow fall from the heavens \*  
 and return not again, but water the earth, Bringing forth life and giving growth, \*  
@@ -401,7 +399,7 @@ ruin or destruction within your borders. You will call your walls, Salvation, \*
 and all your portals, Praise. The sun will no more be your light by day; \*  
 by night you will not need the brightness of the moon.
 
-[p. 88]
+[p. 88] ^pg88
 
 The Lord will be your everlasting light, \*  
 and your God will be your glory.
@@ -432,7 +430,7 @@ praise him and highly exalt him for ever.
 Glorify the Lord, O chill and cold, \* drops of dew and flakes of snow. Frost and cold, ice and sleet, glorify the Lord, \*  
 praise him and highly exalt him for ever.
 
-[p. 89]
+[p. 89] ^pg89
 
 Glorify the Lord, O nights and days, \*  
 O shining light and enfolding dark. Storm clouds and thunderbolts, glorify the Lord, \*  
@@ -462,7 +460,7 @@ Glorify the Lord, O spirits and souls of the righteous, \*
 praise him and highly exalt him for ever. You that are holy and humble of heart, glorify the Lord, \*  
 praise him and highly exalt him for ever.
 
-[p. 90]
+[p. 90] ^pg90
 
 ### Doxology
 
@@ -493,7 +491,7 @@ God of Abraham, Isaac, and Jacob,
 and of all their righteous offspring: You made the heavens and the earth, \*  
 with all their vast array.
 
-[p. 91]
+[p. 91] ^pg91
 
 All things quake with fear at your presence; \*  
 they tremble because of your power. But your merciful promise is beyond all measure; \*  
@@ -514,7 +512,7 @@ and yours is the glory to ages of ages. Amen.
 My soul proclaims the greatness of the Lord, my spirit rejoices in God my Savior; \*  
 for he has looked with favor on his lowly servant.
 
-[p. 92]
+[p. 92] ^pg92
 
 From this day all generations will call me blessed: \*  
 the Almighty has done great things for me,  
@@ -540,7 +538,7 @@ to set us free from the hands of our enemies, Free to worship him without fear, 
 holy and righteous in his sight  
 all the days of our life.
 
-[p. 93]
+[p. 93] ^pg93
 
 You, my child, shall be called the prophet of the Most High, \*  
 for you will go before the Lord to prepare his way, To give his people knowledge of salvation \*  
@@ -567,7 +565,7 @@ Splendor and honor and kingly power \*
 are yours by right, O Lord our God, For you created everything that is, \*  
 and by your will they were created and have their being;
 
-[p. 94]
+[p. 94] ^pg94
 
 And yours by right, O Lamb that was slain, \*  
 for with your blood you have redeemed for God, From every family, language, people, and nation, \*  
@@ -615,7 +613,7 @@ Father, of majesty unbounded,
 your true and only Son, worthy of all worship,  
 and the Holy Spirit, advocate and guide.
 
-[p. 96]
+[p. 96] ^pg96
 
 You, Christ, are the king of glory, the eternal Son of the Father. When you became man to set us free you did not shun the Virgin's womb. You overcame the sting of death and opened the kingdom of heaven to all believers. You are seated at God's right hand in glory. We believe that you will come and be our judge.  
 Come then, Lord, and help your people,  
@@ -644,7 +642,7 @@ the forgiveness of sins,
 the resurrection of the body,  
 and the life everlasting. Amen.
 
-[p. 97]
+[p. 97] ^pg97
 
 ## The Prayers
 
@@ -684,7 +682,7 @@ now and for ever. Amen.
 
 V. Show us your mercy, O Lord; R. And grant us your salvation. V. Clothe your ministers with righteousness; R. Let your people sing with joy. V. Give peace, O Lord, in all the world; R. For only in you can we live in safety.
 
-[p. 98]
+[p. 98] ^pg98
 
 V. Lord, keep this nation under your care; R. And guide us in the way of justice and truth. V. Let your way be known upon earth; R. Your saving health among all nations. V. Let not the needy, O Lord, be forgotten; R. Nor the hope of the poor be taken away. V. Create in us clean hearts, O God; R. And sustain us with your Holy Spirit.
 
@@ -700,7 +698,7 @@ V. Save your people, Lord, and bless your inheritance; R. Govern and uphold them
 
 O God, you make us glad with the weekly remembrance of the glorious resurrection of your Son our Lord: Give us this day such blessing through our worship of you, that the week to come may be spent in your favor; through Jesus Christ our Lord. *Amen.* ^collect-a-collect-for-sundays
 
-[p. 99]
+[p. 99] ^pg99
 
 ### A Collect for Fridays
 
@@ -718,7 +716,7 @@ O God, the King eternal, whose light divides the day from the night and turns th
 
 O God, the author of peace and lover of concord, to know you is eternal life and to serve you is perfect freedom: Defend us, your humble servants, in all assaults of our enemies; that we, surely trusting in your defense, may not fear the power of any adversaries; through the might of Jesus Christ our Lord. *Amen.* ^collect-a-collect-for-peace
 
-[p. 100]
+[p. 100] ^pg100
 
 ### A Collect for Grace
 
@@ -738,7 +736,7 @@ O God, you have made of one blood all the peoples of the earth, and sent your bl
 
 *or the following*
 
-[p. 101]
+[p. 101] ^pg101
 
 Lord Jesus Christ, you stretched out your arms of love on the hard wood of the cross that everyone might come within the reach of your saving embrace: So clothe us in your Spirit that we, reaching forth our hands in love, may bring those who do not know you to the knowledge and love of you; for the honor of your Name. *Amen.* ^collect-a-collect-for-guidance-4
 
@@ -754,7 +752,7 @@ Lord Jesus Christ, you stretched out your arms of love on the hard wood of the c
 
 Almighty God, Father of all mercies, we your unworthy servants give you humble thanks for all your goodness and loving-kindness to us and to all whom you have made. We bless you for our creation, preservation, and all the blessings of this life; but above all for your immeasurable love in the redemption of the world by our Lord Jesus Christ; for the means of grace, and for the hope of glory. And, we pray, give us such an awareness of your mercies, that with truly thankful hearts we may show forth your praise, not only with our lips, but in our lives, by giving up our selves to your service, and by walking before you in holiness and righteousness all our days; through Jesus Christ our Lord, to whom, with you and the Holy Spirit, be honor and glory throughout all ages. Amen.
 
-[p. 102]
+[p. 102] ^pg102
 
 ### A Prayer of St. Chrysostom
 

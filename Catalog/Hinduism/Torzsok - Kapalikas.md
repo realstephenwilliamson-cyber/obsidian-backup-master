@@ -17,8 +17,7 @@ language:
   - English
 pages: 9
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Torzsok - Kapalikas (Brill's Encyclopedia of Hinduism 2011).pdf]]"
   - "[[Library/Trika/Kapalikas (Torzsok)]]"

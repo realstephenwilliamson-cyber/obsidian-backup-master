@@ -5,9 +5,7 @@ section: "The Daily Office"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/DailyOffice/devotion2.html"
-page_range:
-  - 136
-  - 140
+page_range: "136–140"
 aliases:
   - "BCP 136"
   - "BCP 137"
@@ -19,7 +17,7 @@ aliases:
 
 [[BCP 1979]] · *The Daily Office* · pages 136–140
 
-[p. 136]
+[p. 136] ^pg136
 
 ## Daily Devotions for Families and Individuals
 
@@ -37,7 +35,7 @@ b) the Daily Office Lectionary, page 934
 
 c) some other manual of devotion which provides daily selections for the Church Year.
 
-[p. 137]
+[p. 137] ^pg137
 
 ### In the Morning
 
@@ -86,7 +84,7 @@ now and for ever. Amen.
 
 Lord God, almighty and everlasting Father, you have brought us in safety to this new day: Preserve us with your mighty power, that we may not fall into sin, nor be overcome by adversity; and in all we do, direct us to the fulfilling of your purpose; through Jesus Christ our Lord. *Amen.* ^collect-the-collect
 
-[p. 138]
+[p. 138] ^pg138
 
 ### At Noon
 
@@ -134,7 +132,7 @@ Blessed Savior, at this hour you hung upon the cross, stretching out your loving
 
 Lord Jesus Christ, you said to your apostles, "Peace I give to you; my own peace I leave with you:" Regard not our sins, but the faith of your Church, and give to us the peace and unity of that heavenly City, where with the Father and the Holy Spirit you live and reign, now and for ever. *Amen.* ^collect-the-collect-3
 
-[p. 139]
+[p. 139] ^pg139
 
 ### In the Early Evening
 
@@ -180,7 +178,7 @@ now and for ever. Amen.
 
 Lord Jesus, stay with us, for evening is at hand and the day is past; be our companion in the way, kindle our hearts, and awaken hope, that we may know you as you are revealed in Scripture and the breaking of bread. Grant this for the sake of your love. *Amen.* ^collect-the-collect-4
 
-[p. 140]
+[p. 140] ^pg140
 
 ### At the Close of Day
 

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 150
 verses: 6
-page_range:
-  - 808
-  - 808
+page_range: "808"
 aliases:
   - "BCP Psalm 150"
   - "BCP 808"
@@ -26,7 +24,7 @@ Hebrew text and JPS translation: [[Psalms 150]]
 Praise God in his holy temple; \*  
 praise him in the firmament of his power. ^150-1
 
-[p. 808]
+[p. 808] ^pg808
 
 **150:2** Praise him for his mighty acts; \*  
 praise him for his excellent greatness. ^150-2

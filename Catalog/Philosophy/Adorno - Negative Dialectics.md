@@ -18,8 +18,7 @@ language:
   - English
 pages: 188
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Adorno - Negative Dialectics (2001).pdf]]"
   - "[[Library/Philosophy/Negative Dialectics (Adorno)/Negative Dialectics (Adorno)]]"

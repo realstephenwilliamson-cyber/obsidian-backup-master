@@ -21,8 +21,7 @@ language:
   - Greek
 pages: 510
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Biblical-Studies/Ehrman, Fee, Holmes - The Text of the Fourth Gospel in the Writings of Origen, vol. 1 (1992).pdf]]"
   - "[[Library/Biblical-Studies/The Text of the Fourth Gospel in the Writings of Origen (Ehrman)/The Text of the Fourth Gospel in the Writings of Origen (Ehrman)]]"

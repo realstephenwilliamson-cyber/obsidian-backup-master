@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 139
 verses: 23
-page_range:
-  - 794
-  - 795
+page_range: "794–795"
 aliases:
   - "BCP Psalm 139"
   - "BCP 794"
@@ -61,7 +59,7 @@ darkness and light to you are both alike. ^139-11
 **139:12** For you yourself created my inmost parts; \*  
 you knit me together in my mother's womb. ^139-12
 
-[p. 795]
+[p. 795] ^pg795
 
 **139:13** I will thank you because I am marvelously made; \*  
 your works are wonderful, and I know it well. ^139-13

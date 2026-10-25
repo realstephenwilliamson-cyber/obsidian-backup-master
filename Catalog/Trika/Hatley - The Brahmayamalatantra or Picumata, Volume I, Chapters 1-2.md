@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 724
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Hatley - The Brahmayamalatantra or Picumata, Volume I (2018).pdf]]"
   - "[[Library/Trika/The Brahmayamalatantra or Picumata, Volume I, Chapters 1-2 (Hatley)/The Brahmayamalatantra or Picumata, Volume I, Chapters 1-2 (Hatley)]]"

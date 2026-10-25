@@ -5,9 +5,7 @@ section: "The Daily Office"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/DailyOffice/evening.html"
-page_range:
-  - 109
-  - 114
+page_range: "109–114"
 aliases:
   - "BCP 109"
   - "BCP 110"
@@ -20,7 +18,7 @@ aliases:
 
 [[BCP 1979]] · *The Daily Office* · pages 109–114
 
-[p. 109]
+[p. 109] ^pg109
 
 Opening Sentences - The Lessons - The Prayers - The Psalms
 
@@ -50,7 +48,7 @@ Light and peace, in Jesus Christ our Lord.
 
 Jesus said, "You are the light of the world. A city built on a hill cannot be hid. No one lights a lamp to put it under a bucket, but on a lamp-stand where it gives light for everyone in the house. And you, like the lamp, must shed light among your fellow men, so that they may see the deed you do, and give glory to your Father in heaven." *[[Matthew 05#^5-14|Matthew 5:14-16]]*
 
-[p. 110]
+[p. 110] ^pg110
 
 It is not ourselves that we proclaim; we proclaim Christ Jesus as Lord, and ourselves as your servants, for Jesus' sake. For the same God who said, "Out of darkness let light shine," has caused his light to shine within us, to give the light of r evelation—the revelation of the glory of God in the face of Jesus Christ. *[[2 Corinthians 04#^4-5|2 Corinthians 4:5-6]]*
 
@@ -66,7 +64,7 @@ Grant us, Lord, the lamp of charity which never fails, that it may burn in us an
 
 O Lord God Almighty, as you have taught us to call the evening, the morning, and the noonday one day; and have made the sun to know its going down: Dispel the darkness of our hearts, that by your brightness we may know you to be the true God and eternal light, living and reigning for ever and ever. *Amen.*
 
-[p. 111]
+[p. 111] ^pg111
 
 Lighten our darkness, we beseech thee, O Lord; and by thy great mercy defend us from all perils and dangers of this night; for the love of thy only Son, our Savior, Jesus Christ. *Amen.*
 
@@ -90,7 +88,7 @@ Eternal God, who led your ancient people into freedom by a pillar of cloud by da
 
 Lord Christ, your saints have been the lights of the world in every generation: Grant that we who follow in their footsteps may be made worthy to enter with them into that heavenly country where you live and reign for ever and ever. *Amen.*
 
-[p. 112]
+[p. 112] ^pg112
 
 *The candles at the Altar are now lighted, as are other candles and lamps as may be convenient.*
 
@@ -116,7 +114,7 @@ You are worthy at all times to be praised by happy voices, O Son of God, O Giver
 
 *Or, it may continue as a complete evening Office with the following elements:*
 
-[p. 113]
+[p. 113] ^pg113
 
 **Selection from the Psalter.** Silence, or a suitable Collect, or both, may follow the Psalmody.
 
@@ -134,7 +132,7 @@ Blessed are you, O Lord, the God of our fathers, creator of the changes of day a
 
 Almighty, everlasting God, let our prayer in your sight be as incense, the lifting up of our hands as the evening sacrifice. Give us grace to behold you, present in your Word and Sacraments, and to recognize you in the lives of those around us. Stir up in us the flame of that love which burned in the heart of your Son as he bore his passion, and let it burn in us to eternal life and to the ages of ages. *Amen.*
 
-[p. 114]
+[p. 114] ^pg114
 
 *A bishop or priest may use the following or some other blessing or grace*
 

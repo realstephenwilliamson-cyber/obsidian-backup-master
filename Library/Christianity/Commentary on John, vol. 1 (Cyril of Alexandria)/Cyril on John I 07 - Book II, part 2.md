@@ -4,7 +4,7 @@ work: "[[Catalog/Christianity/Cyril of Alexandria - Commentary on John]]"
 book: "[[Library/Christianity/Commentary on John, vol. 1 (Cyril of Alexandria)/Commentary on John, vol. 1 (Cyril of Alexandria)|Commentary on John, vol. 1 (Cyril of Alexandria)]]"
 order: 7
 source_pdf: "Library/Christianity/Cyril of Alexandria - Commentary on John, vol. 1 (1874).pdf"
-pages: "169–207"
+page_range: "169–207"
 pdf_pages: "233–271"
 text_source: "a fresh OCR of the page images (Tesseract 5, eng+grc, 300 dpi); the archive.org text layer was not used"
 converted: 2026-10-22

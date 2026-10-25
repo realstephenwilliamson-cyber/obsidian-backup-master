@@ -896,7 +896,7 @@ desire, with desire one should excite the desirable, with desire one should join
 
 9E 10
 
-12, 13 E14 Then having meditated on the mantra and done repetition of the mantra, and looking at the pīthai[^176] etc., he places his penis in the pītha[^177] <sup>177</sup>of the mother according to the prescribed rite.
+12, 13 E14 Then having meditated on the mantra and done repetition of the mantra, and looking at the pīthai[^176] etc., he places his penis in the pītha[^177] of the mother according to the prescribed rite.
 
 If (a thief) forcibly takes a bit of (the sādhaka's) clothing, or a couple of betel leaves, a cowrie shell, or anything of half the value of a cowrie which may be of use to the sāõdhaka, and (the thief) leaves (the premises) in the proper way by doing a circumambulation, then the sādďhaka is ruined. (Or if the thief takes) anything that belongs to one of the ladies or their guardian, (the sãdhaka is also ruined). It is a blow and a deception from which harm of a black magic nature will occur to
 
@@ -1028,9 +1028,9 @@ Abandoning all the other pīṭthas, there I reside my Son:
 41\. That pīṭha is of two types - secret and manifest, Oh MahesSvara: (Even) by the best of sāãdhakas the secret one is harder to obtain than the manifest pṛtha and is more meritorious.
 
 42\. Oh Lord of the Kulas: It is everywhere a secret acquired by noble kula sādhakas.
-[^190]: The double meaning should be understood here. Not only tis the actual Kāmākhyā temple in Assam referred to, but the Kāmākhyā temple of the body is also implied - including the even more 189. 190. esoterie pîtha of Verse
+[^190]: The double meaning should be understood here. Not only tis the actual Kāmākhyā temple in Assam referred to, but the Kāmākhyā temple of the body is also implied - including the even more 189. 190. esoterie pîtha of Verse 39.
 
-39.
+
 
 [^189]: I.e., the sakti.
 [^191]: This secret pltha is a reference to the yoni in the Sahasrāra which is the source of all existence and bliss.
@@ -1115,9 +1115,9 @@ u
 
 58\. The aforesaid blja is the Supreme Śakti herself and with this bīja the actual figure of the deity should be imagined.
 
-(The sādhaka)} should imagine the limbs of the deity with the blja and the six long vowels.[^205] <sup>5</sup>
+(The sādhaka)} should imagine the limbs of the deity with the blja and the six long vowels.[^205]
 
-59\. Then he should place each of the fourteen letters of the alphabet separately on his heart, his two hands and his feet.[^206] <sup>6</sup>
+59\. Then he should place each of the fourteen letters of the alphabet separately on his heart, his two hands and his feet.[^206]
 
 60\. He should then do nyāãsa (of the entire body) fifty times with the root mantra and should perform the fivefold meditation
 

@@ -3,7 +3,7 @@ filters:
     - file.folder.startsWith("Catalog/")
     - type != "index"
     - file.folder != "Catalog/Scholars"
-    - physical_copy == true
+    - note.print == true
 views:
   - type: table
     name: On the shelf

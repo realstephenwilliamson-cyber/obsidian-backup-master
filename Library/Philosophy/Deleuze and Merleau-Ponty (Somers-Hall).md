@@ -4,7 +4,7 @@ title: "Deleuze and Merleau-Ponty"
 author: ["Henry Somers-Hall"]
 work: "[[Catalog/Philosophy/Somers-Hall - Deleuze and Merleau-Ponty]]"
 source_pdf: "Library/Philosophy/Somers-Hall - Deleuze and Merleau-Ponty.pdf"
-pages: "212–221"
+page_range: "212–221"
 pdf_pages: "1–5"
 text_source: "the PDF's earlier OCR text layer (a scan), PyMuPDF"
 converted: 2026-10-22

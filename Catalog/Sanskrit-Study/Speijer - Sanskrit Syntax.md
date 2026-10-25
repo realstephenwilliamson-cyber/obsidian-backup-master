@@ -17,8 +17,7 @@ language:
   - English
 pages: 206
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Sanskrit/20 Sanskrit Syntax.pdf]]"
   - "[[Library/Sanskrit/Sanskrit Syntax (Speijer)/Sanskrit Syntax (Speijer)]]"

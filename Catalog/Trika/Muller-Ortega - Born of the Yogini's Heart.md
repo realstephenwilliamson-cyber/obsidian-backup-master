@@ -18,7 +18,7 @@ language:
 pages: 48
 text: searchable
 status: review
-physical_copy: false
+print: false
 files:
   - "[[Muller-Ortega - Born of the Yogini's Heart.pdf]]"
   - "[[Library/Trika/Born of the Yogini's Heart (Muller-Ortega)/Born of the Yogini's Heart (Muller-Ortega)]]"

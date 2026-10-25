@@ -17,8 +17,7 @@ language:
   - English
 pages: 216
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[dasara_2021_document.pdf]]"
 aliases:

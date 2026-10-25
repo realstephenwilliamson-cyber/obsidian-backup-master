@@ -17,8 +17,7 @@ language:
   - English
 pages: 297
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Ramberg - Given to the Goddess (2014).pdf]]"
 aliases:

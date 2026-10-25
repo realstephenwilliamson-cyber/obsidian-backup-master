@@ -18,8 +18,7 @@ language:
   - English
 pages: 224
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Lakshmanjoo, Hughes - The Mystery of Vibrationless-Vibration in Kashmir Shaivism (2016).pdf]]"
   - "[[Library/Trika/The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)/The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)]]"

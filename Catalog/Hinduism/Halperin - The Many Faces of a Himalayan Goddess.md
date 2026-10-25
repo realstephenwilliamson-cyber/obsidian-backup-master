@@ -17,8 +17,7 @@ language:
   - English
 pages: 297
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Halperin - The Many Faces of a Himalayan Goddess (2019).pdf]]"
 aliases:

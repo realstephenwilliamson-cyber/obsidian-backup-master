@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 72
 verses: 19
-page_range:
-  - 686
-  - 686
+page_range: "686"
 aliases:
   - "BCP Psalm 72"
   - "BCP 686"
@@ -46,7 +44,7 @@ there shall be abundance of peace till the moon shall be no more. ^72-7
 **72:8** He shall rule from sea to sea, \*  
 and from the River to the ends of the earth. ^72-8
 
-[p. 686]
+[p. 686] ^pg686
 
 **72:9** His foes shall bow down before him, \*  
 and his enemies lick the dust. ^72-9

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 93
 verses: 6
-page_range:
-  - 722
-  - 722
+page_range: "722"
 aliases:
   - "BCP Psalm 93"
   - "BCP 722"

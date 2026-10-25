@@ -27,7 +27,7 @@ vande bindugatātmānaṁ triṣkoṇamn ṣaṭkalāṁkitam \[g: -kalānvita�
 pañcavyomāmbukamale nādyante hṛtpure \[g: rhyahṛt\] pure \[g: missing\] |
 daśavāyunirodhena \[g: dasa-\] bhramate śaktivigrahe \[g: sakti-\] ||
 vande ājñādhikāraṁ \[k, kh, g: -re\] tu ādhārādheyamandale \[k: ādhārāceya-\] |
-svādhiṣthāne sthitan nityarn manipūrnapure tathā \[k, kh: tridhā\] ॥
+svādhiṣthāne sthitan nityaṁ manipūrnapure tathā \[k, kh: tridhā\] ॥
 anāhate dvidhāvasthan viśuddhe dandamūrdhani |
 ājṁñābodhabalenāpi pare vyomni layaṁ vrajet ||
 vande \[g: caṁdre\] nādātmakaṁ tejo \[k, kh, g: tejam\] bhairaveṇānupūritam \[k, kh: bhairavenānu-; g: bhairavenānatupūritaṁ\] |
@@ -65,7 +65,7 @@ sarīraṁ yo hi \[kh: bhi\] jānāti sa bhavet \[kh: -k\] kulanandanaḥ ॥ T�
 
 (kula); 
 
-No less than Wheels, Supports, Signs and Voids, along with Knots (not mentioned here), are markers of the stages in the ascent of Kunṇqdalinī. This model was already well established when our text was written, although the KMT does not mention it. An important source, which may precede the KMT, is chapter seven of the Netratantra, which begins with a variant of the standard line (rtucakrarn svarādhārar trilakṣyaṁ vyomapañcakam | NT 7/1cd). Dvivedi (NṢĀ intro. pp. 115) points out that the early Śrīvidyā tradition also accepted this model. However, a major modification was introduced. This was the increase in number of the Wheels from six to nine, to make them coincide with the nine triangles that constitute Śrīcakra, the famous mandala of this school. Even so, the system of Six Wheels, Five Voids and Twelve Knots was known to 
+No less than Wheels, Supports, Signs and Voids, along with Knots (not mentioned here), are markers of the stages in the ascent of Kunṇqdalinī. This model was already well established when our text was written, although the KMT does not mention it. An important source, which may precede the KMT, is chapter seven of the Netratantra, which begins with a variant of the standard line (rtucakraṁ svarādhārar trilakṣyaṁ vyomapañcakam | NT 7/1cd). Dvivedi (NṢĀ intro. pp. 115) points out that the early Śrīvidyā tradition also accepted this model. However, a major modification was introduced. This was the increase in number of the Wheels from six to nine, to make them coincide with the nine triangles that constitute Śrīcakra, the famous mandala of this school. Even so, the system of Six Wheels, Five Voids and Twelve Knots was known to 
 
 *[p. 445]* ^pg465
 
@@ -110,13 +110,13 @@ sarvasaṁkrāmaṇari kuryāt kumbhastho \[kh, gh g:
 
 -sthā\] nānyagāminaḥ ||
 cittakṣobhavaśākṛṣṭir apamṛtyunibarhanam \[k, kh: yaṣākṛṣṭti apamṛtyu- - bhavaṣākrṣti-apa-\] |
-vedhadīkṣātmasambodhaṁ \[k, kh: -kṣātsasabodhaṁ\] kuryāt saṁijīvanīgataḥ \[k g gh: -gati; kh: -gatirn\] ||
-kūrmādhārasamādhistho \[k gh: kurmodhāra-\] yogī parapurarn vrajet |
-sarujār \[g: sarujyāmi\] nirujār \[g: nirujyarn\] caiva nirujaṁ \[k, kh, gh: -jām; g: nirujyari\] sarujaṁ priye \\l sthito jīvaputādhāre sādhako \[gh: -kā\] yogacintakaḥ \[k, kh: -cittakah\] |
+vedhadīkṣātmasambodhaṁ \[k, kh: -kṣātsasabodhaṁ\] kuryāt saṁijīvanīgataḥ \[k g gh: -gati; kh: -gatiṁ\] ||
+kūrmādhārasamādhistho \[k gh: kurmodhāra-\] yogī parapuraṁ vrajet |
+sarujār \[g: sarujyāmi\] nirujār \[g: nirujyaṁ\] caiva nirujaṁ \[k, kh, gh: -jām; g: nirujyari\] sarujaṁ priye \\l sthito jīvaputādhāre sādhako \[gh: -kā\] yogacintakaḥ \[k, kh: -cittakah\] |
 nidhanaṁ yasyate \[all MSs: pasyate\] sarvar sarvasiddhīśvaro bhavet |
 lolākhyaṁ sthānam āsādya bhogāni vividhāni ca |
 prāpnoti sādhakaḥ kṣipraṁni nātra \[illegible\] \[k g gh: kārya; kh: kāryā\] vicāraṇam \[k g gh: vicāraṇāt; kh: -ranṇā\] ||
-lambikāntasthito \[g: lambi \* ntasthito\] yogī kṣutpipāsam alarn \[k: -sa \* lam\] haret \[k, kh, gh: daret\] \\ rasar rasāyanaṁ \[k: rayāyanami\] siddhaṁ labhate mṛtyujid bhavet ||
+lambikāntasthito \[g: lambi \* ntasthito\] yogī kṣutpipāsam alaṁ \[k: -sa \* lam\] haret \[k, kh, gh: daret\] \\ rasar rasāyanaṁ \[k: rayāyanami\] siddhaṁ labhate mṛtyujid bhavet ||
 guruvaktraguhāntasthaḥ \[all MSs: -tastha\] sādhako vigataspṛhaḥ |
 avināśatanur bhūtvā \[all MSs: avināsa-\] prāpnoti paraman padam ||
 viṣuvastho 
@@ -130,7 +130,7 @@ visuvasthā; kh, g:
 visuvastho\] mahādevo jagaduddharaṇakṣamaḥ \[all MSs: jagaduddharana-\] |
 bhavate nātra saṁńdehah \[k g gh: 
 
--harn; kh: 
+-haṁ; kh: 
 
 -haṁh\] pūjyate \[k, kh: pūjaye g gh: pūjate\] yoginīganṇaiḥ \[all MSs: yoginī-; k: 
 
@@ -200,8 +200,8 @@ mouth and who is free of craving, becoming one whose body is imperishable, attai
 The KMT does not refer to the Sixteen Supports. Instead in chapter 17 we find a system of Sixteen Knots (granthi), said to be Supports (ādhāra). The KMT relates the four syllables of the names of each of the four primary seats to them (see intro. vol. 1, p 599 ff.), thereby probably taking over an earlier model that did not include them. Thus, we find the same set listed in the KRU in a passage common with the KMT (KRU 5/143ab-150ab = KMT 17/71-78ab) but no mention is made there of the sacred seats. The Sixteen Knots (granthi) or Supports (ādhāra) are part of the body of the goddess Mahāmāyā. Moving in the vital breath, she fills it and the body with her sixteen energies. In the KRU we read: 
 
 paścimānanasaṁbhūtā \[k, kh, g: -tām\] vṛddhamāyā \[k: -māyām\] mahattarā |
-granthiṣodaśakopetā \[all MSs: -tāh\] hamrisasthā \[k: -sthāh; g: hasasthā\] hamsagāminī \[k: -minīṁ\] ||
-haṁsaḥ \[g: -sa\] prāṇnaḥ samākhyātas tejastattvaḥ \[k: -tejatatvarn; kh: -tejatatva\] tathaiva ca |
+granthiṣodaśakopetā \[all MSs: -tāḥ\] hamrisasthā \[k: -sthāh; g: hasasthā\] hamsagāminī \[k: -minīṁ\] ||
+haṁsaḥ \[g: -sa\] prāṇnaḥ samākhyātas tejastattvaḥ \[k: -tejatatvaṁ; kh: -tejatatva\] tathaiva ca |
 tābhyāṁ madhyasthitā \[g: madhosthitā\] hy eṣā \[k: \* pā; kh: epā; g: eṣām\] ṣodaśādhāravigrahā ||
 tena haṁsāsanā proktā tathā vai hahṁsagāminī |
 \[illegible\] kh: + tathā vai\] ādhārāḥ śrīkuleśānyāḥ \[g: śrīkujeśāntāḥ\] pādādau mastakāvadhiḥ ||
@@ -221,7 +221,7 @@ After listing the Knots and Supports, the KMT and KRU declare in a common passag
 
 The Sixteen Knots are then listed along with their locations, as follows: 1) Ananta — middle finger. 2) Kāla — ankles. 3) Raudrī — sole (of the feet?) 4) Jyeṣthā and Vāmā ~ (right and) left hips. 5) Kāma — foundation of the genitals. 6) Liṅga — just above (the location of the previous one). 7) Brahmā — above and below where the hairs of the body (roma) are located. 8) Soma — just above the previous one. 9) Sūrya — just above that again. 10) Prāṇa — just above. 11) Jīva —just above. Living beings live and die because of this. 12) Viṣṇu — throat. 13) Rudra — palate. 14) 159 — above that. 15) Sādākhya — above \[illegible\] 16) Māyā - above that flooded with the bliss of desire (icchānanda). 
 
-The Tīkā, in accord with the source upon which it is commenting, presents an extensive projection of the Six Paths (ṣadadhvan), that is, the cosmic order and its mantric equivalents distributed systematically in the sixteen places in the body where the Supports are located. In this context, the Supports are understood to be extensive world orders (bhuvana) that contain lesser worlds and their corresponding Principles, energies, mantra, parts of mantra and letters, that constitute the Six Paths. The Supports are listed in the Sūtra of the Sixteen Supports, quoted in full by the \[illegible\] as part of the Sūtra of the Body (Dehasūtra). 
+The Tīkā, in accord with the source upon which it is commenting, presents an extensive projection of the Six Paths (ṣadadhvan), that is, the cosmic order and its mantric equivalents distributed systematically in the sixteen places in the body where the Supports are located. In this context, the Supports are understood to be extensive world orders (bhuvana) that contain lesser worlds and their corresponding Principles, energies, mantra, parts of mantra and letters, that constitute the Six Paths. The Supports are listed in the Sūtra of the Sixteen Supports, quoted in full by the Ṭīkā as part of the Sūtra of the Body (Dehasūtra). 
 
 Although their names and identity vary, the group of Sixteen Supports (ādhāra) is common to many Tantric and Kaula systems and is carried on to later Yoga traditions. In his commentary on the NT (7/1cd, see Dvivedi 1985: 111-113), Kṣemarāja presents their projection into the body in two modalities (prakriyā). For the first, which is presumably the Tantric, he simply lists the locations of the Supports, which in that modality serve to sustain the individual soul in the body. The locations in the body are practically the same as those listed in the 7\[illegible\] (Rai 1975: 33). They are: 1) Toe 2) Ankle 3) Knee 4) Anus (medhra) 5) Genitals (pāyu) 6) Root (kanda) 7) Channel of the vital breath \[illegible\] 8) Stomach 9) Heart 10) The Channel of the Tortoise (kūrmanādī) 11) Throat 12) Palate 13) Middle of the eyebrows 14) Forehead 15) Cavity of Brahmā 16) End of the Twelve. 
 
@@ -231,7 +231,7 @@ Kṣemarāja goes on to quote from an unknown source a list of the Sixteen Suppo
 
 APPENDIX A CHAPTER NINETEEN 
 
-‘One should know that Kula is below the anus (medhra) and the one called Poison \[illegible\] is in the middle (of it). It is said that the Empowered One (sākta) that impels the Sound of Awakened Consciousness (bodhanāda) is in the Root (māla). Then, the one called Fire is four fingers above that, below the navel in the Support of Fire (pavanādhāra). \[0 the navel itself is the one called the Jar. The one called All Desire (sarvakāma) is halfway between the navel and the heart. The one called the Vivifier is in the middle of the calyx (udara) of the lotus of the heart. The Tortoise is in the chest and the one called Lola (the glottis) is said to be in the throat. The Support of Nectar (sudhā), that nature of which is nectar (sudhā), is located above the glottis (lambaka). The Lunar One (saumya), enveloped by the energies of the Moon, is located in the root of that same (glottis). The one called the Lotus of Knowledge is between the eyebrows in the Circle of the Sky (gaganābhoga). The Support on the surface of the palate is (called) Raudra and is sustained by Rudra’s power. (The Support called) Cintāmanṇi is located on the Crossroad. The Support of the Fourth (state) is in the head, in the middle of the Cavity of Brahmā. The Support of the Channel (of the vital breath) (nādyādhāra) is subtle and supreme. It awakens to intense pervasion (ghanavyāpti). These are said to be the Sixteen Supports.” 
+‘One should know that Kula is below the anus (medhra) and the one called Poison (viṣa) is in the middle (of it). It is said that the Empowered One (sākta) that impels the Sound of Awakened Consciousness (bodhanāda) is in the Root (māla). Then, the one called Fire is four fingers above that, below the navel in the Support of Fire (pavanādhāra). \[0 the navel itself is the one called the Jar. The one called All Desire (sarvakāma) is halfway between the navel and the heart. The one called the Vivifier is in the middle of the calyx (udara) of the lotus of the heart. The Tortoise is in the chest and the one called Lola (the glottis) is said to be in the throat. The Support of Nectar (sudhā), that nature of which is nectar (sudhā), is located above the glottis (lambaka). The Lunar One (saumya), enveloped by the energies of the Moon, is located in the root of that same (glottis). The one called the Lotus of Knowledge is between the eyebrows in the Circle of the Sky (gaganābhoga). The Support on the surface of the palate is (called) Raudra and is sustained by Rudra’s power. (The Support called) Cintāmanṇi is located on the Crossroad. The Support of the Fourth (state) is in the head, in the middle of the Cavity of Brahmā. The Support of the Channel (of the vital breath) (nādyādhāra) is subtle and supreme. It awakens to intense pervasion (ghanavyāpti). These are said to be the Sixteen Supports.” 
 
 The Sixteen Supports are mentioned in the Gorakṣaśataka (verse 13) but they are not described there. The commentator refers the reader to the Siddhasiddhāntapaddhati. (Briggs 1973: 287 fn. 2). Referring to this source, Banerjea (1962: 182) lists and explains the details of the practice at each support. They are: 1) Big toe 2) The Root Foundation (mālādhāra) 3) Rectum (gudādhāra) 4) Base of the genitals (medhrādhāra) 5) Udyāna 6) Navel 7) Heart 8) Throat 9) Uvula (ghantikā) 10) Palate 11) Tongue 12) Middle of the eyebrows 13) Nose 14) Root of the nose (kapāta) 15) Forehead 16) Cavity of Brahmā. 
 
@@ -241,7 +241,7 @@ Elsewhere the Five Voids are equated with five of the Six Wheels within which th
 
 Now the Six Wheels will be declared. In the (Void) called Birth is the Wheel of the Channels (of the vital breath) (nādicakra). The excellent (Wheel) called Māyā is in the navel. The Wheel of Yogis is in the heart. The one located in the palate is said to be (the one called) Splitting Apart (bhedana). The Wheel of Illumination (dīpticakra) is in the Point and the one located in Sound is called Tranquil (śānta).” 
 
-Kṣemarāja comments: The Endless (Void) (is so called) because it is as if without end and because it is the abode \[illegible\] of the universe. (The Void) 
+Kṣemarāja comments: The Endless (Void) (is so called) because it is as if without end and because it is the abode (āśraya) of the universe. (The Void) 
 
 *[p. 451]* ^pg471
 

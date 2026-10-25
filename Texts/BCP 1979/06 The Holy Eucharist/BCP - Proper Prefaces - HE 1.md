@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/pphe1.html"
-page_range:
-  - 344
-  - 349
+page_range: "344–349"
 aliases:
   - "BCP 345"
   - "BCP 346"
@@ -19,7 +17,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 344–349
 
-[p. 344]
+[p. 344] ^pg344
 
 ## Proper Prefaces
 
@@ -33,7 +31,7 @@ Creator of the light and source of life, who hast made us in thine image, and ca
 
 *or the following*
 
-[p. 345]
+[p. 345] ^pg345
 
 ### 2. Of God the Son
 
@@ -57,7 +55,7 @@ Because thou didst send thy beloved Son to redeem us from sin and death, and to 
 
 Because thou didst give Jesus Christ, thine only Son, to be born for us; who, by the mighty power of the Holy Ghost, was made very Man of the substance of the Virgin Mary his mother; that we might be delivered from the bondage of sin, and receive power to become thy children.
 
-[p. 346]
+[p. 346] ^pg346
 
 ### Epiphany
 
@@ -79,7 +77,7 @@ Through Jesus Christ our Lord; who for our sins was lifted high upon the cross, 
 
 But chiefly are we bound to praise thee for the glorious resurrection of thy Son Jesus Christ our Lord; for he is the very Paschal Lamb, who was sacrificed for us, and hath taken away the sin of the world; who by his death hath destroyed death, and by his rising to life again hath won for us everlasting life.
 
-[p. 347]
+[p. 347] ^pg347
 
 ### Ascension
 
@@ -99,7 +97,7 @@ For with thy co-eternal Son and Holy Spirit, thou art one God, one Lord, in Trin
 
 Who, in the multitude of thy saints, hast compassed us about with so great a cloud of witnesses, that we, rejoicing in their fellowship, may run with patience the race that is set before us; and, together with them, may receive the crown of glory that fadeth not away.
 
-[p. 348]
+[p. 348] ^pg348
 
 ### A Saint
 
@@ -125,7 +123,7 @@ Through Jesus Christ our great High Priest; in whom we are built up as living st
 
 Because in Jesus Christ our Lord thou hast received us as thy sons and daughters, made us citizens of thy kingdom, and given us the Holy Spirit to guide us into all truth.
 
-[p. 349]
+[p. 349] ^pg349
 
 ### Marriage
 

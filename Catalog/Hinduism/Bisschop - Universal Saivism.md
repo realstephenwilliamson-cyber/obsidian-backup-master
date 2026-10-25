@@ -19,7 +19,7 @@ language:
 pages: 229
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Universal Saivism.pdf]]"
   - "[[Library/Hinduism/Universal Saivism (Bisschop)/Universal Saivism (Bisschop)]]"

@@ -17,8 +17,7 @@ language:
   - English
 pages: 14
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Wilberg - Absolute Awareness or Absolute Egoity.pdf]]"
   - "[[Library/Trika/Absolute Awareness or Absolute Egoity (Wilberg)]]"

@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/offsenthe2.html"
-page_range:
-  - 376
-  - 377
+page_range: "376–377"
 aliases:
   - "BCP 377"
 ---
@@ -15,7 +13,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 376–377
 
-[p. 376]
+[p. 376] ^pg376
 
 ## Offertory Sentences
 
@@ -33,7 +31,7 @@ If you are offering your gift at the altar, and there remember that your brother
 
 Through Christ let us continually offer to God the sacrifice of praise, that is, the fruit of lips that acknowledge his Name.
 
-[p. 377]
+[p. 377] ^pg377
 
 But do not neglect to do good and to share what you have, for such sacrifices are pleasing to God. *[[Hebrews 13#^13-15|Hebrews 13:15]], 16*
 

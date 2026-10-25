@@ -180,7 +180,7 @@ The Cycle of the Flow of AHAM that Encapsulates All Things: verses 200cd- 208ab,
 
 The Unfolding Configurations of the Goddesses of Consciousness: verses 265cd- 267 (265-267ab), pages 390-392 The Seal of the Supreme Means is the Awareness that Everything is Reflected in the Mirror of Consciousness: verses 268-27 Lab (267cd-270), pages 393-395 Liberation in This Life (jīvanmukti): verses 271cd-274ab (271-273), pages 395- 396 
 
-The Reflection of the Principles \[illegible\] in the Fifty Forms of Reflective Awareness: verses 274cd-280ab (274-279), pages 396-401 I Am the Author of the Cycle of Creation and Destruction that Arises in the Mirror of My Consciousness: verses 280cd-288ab (280-287), pages 401-407 
+The Reflection of the Principles (tattva) in the Fifty Forms of Reflective Awareness: verses 274cd-280ab (274-279), pages 396-401 I Am the Author of the Cycle of Creation and Destruction that Arises in the Mirror of My Consciousness: verses 280cd-288ab (280-287), pages 401-407 
 
 The Supreme Means is Beyond Ritual: verses 288cd-290 (288-290ab), pages 407- 408 The 11.711 Master: verses 291-293ab (290cd-292), pages 408-410 The Supreme Goal is Siva: verses 293cd-294ab (293), pages 410-41 1 
 
@@ -356,7 +356,7 @@ Spandasaṁdoha
 
 Évetāśvatara Upaniṣad 
 
-Satsahasrasaṁhitā 
+Ṣaṭsahasrasaṁhitā 
 
 SŚP 
 

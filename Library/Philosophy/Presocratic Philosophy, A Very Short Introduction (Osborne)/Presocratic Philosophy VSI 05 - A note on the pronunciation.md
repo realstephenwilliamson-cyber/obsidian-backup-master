@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Osborne - Presocratic Philosophy, A Very Short Intro
 book: "[[Library/Philosophy/Presocratic Philosophy, A Very Short Introduction (Osborne)/Presocratic Philosophy, A Very Short Introduction (Osborne)|Presocratic Philosophy, A Very Short Introduction (Osborne)]]"
 order: 5
 source_pdf: "Library/Philosophy/Osborne - Presocratic Philosophy, A Very Short Introduction (2004).pdf"
-pages: "15"
+page_range: "15"
 pdf_pages: "15–15"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15

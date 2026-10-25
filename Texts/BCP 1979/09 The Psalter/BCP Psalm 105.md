@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 105
 verses: 45
-page_range:
-  - 739
-  - 741
+page_range: "739–741"
 aliases:
   - "BCP Psalm 105"
   - "BCP 739"
@@ -59,7 +57,7 @@ an everlasting covenant for Israel, ^105-10
 **105:11** Saying, "To you will I give the land of Canaan \*  
 to be your allotted inheritance." ^105-11
 
-[p. 739]
+[p. 739] ^pg739
 
 **105:12** When they were few in number, \*  
 of little account, and sojourners in the land, ^105-12
@@ -99,7 +97,7 @@ and to teach his elders wisdom. ^105-22
 **105:23** Israel came into Egypt, \*  
 and Jacob became a sojourner in the land of Ham. ^105-23
 
-[p. 740]
+[p. 740] ^pg740
 
 **105:24** The LORD made his people exceedingly fruitful; \*  
 he made them stronger than their enemies; ^105-24
@@ -143,7 +141,7 @@ the firstfruits of all their strength. ^105-36
 **105:37** He led out his people with silver and gold; \*  
 in all their tribes there was not one that stumbled. ^105-37
 
-[p. 741]
+[p. 741] ^pg741
 
 **105:38** Egypt was glad of their going, \*  
 because they were afraid of them. ^105-38

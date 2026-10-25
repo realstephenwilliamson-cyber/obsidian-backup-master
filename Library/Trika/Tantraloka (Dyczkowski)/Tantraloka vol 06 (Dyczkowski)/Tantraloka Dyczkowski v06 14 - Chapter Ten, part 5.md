@@ -28,7 +28,7 @@ gatāgatari suvikṣiptan saṁgataṁn susamāhitam |
 
 (As before,) like the previous state, one can make out four kinds there also. (They are called) ‘Gone and Come’ (gatāgata), ‘Well Dispersed’ (suvikṣipta), ‘Well Conjoined’? 
 
-\[illegible\] and ‘Well Concentrated’ (susamāhita)." (252cd-253ab) 
+(saṁgata) and ‘Well Concentrated’ (susamāhita)." (252cd-253ab) 
 
 #### Viveka on 10.252–253
 
@@ -58,7 +58,7 @@ Dreaming, like waking, has three kinds of names. Thus he says:
 
 atrāpi pūrvavan nāma laukikaṁ svapna ity adaḥ ॥ 253 ॥
 bāhyābhimatabhāvānām svāpo hy agrahanarnń matam |
-sarvādhvanaḥ padar prāṇaḥ saṅkalpo ‘vagamātmakaḥ ॥ 254 Il padam ca tatsamāpatti padasthaṁ yogino viduḥ | 
+sarvādhvanaḥ padar prāṇaḥ saṅkalpo ‘vagamātmakaḥ ॥ 254 ॥ padam ca tatsamāpatti padasthaṁ yogino viduḥ | 
 
 Here also, as before, (this state has three names,) of which the first is the (common) daily one (laukika), namely, dreaming. A dream (svāpa) is considered to be the absence of the perception of things that are normally considered to be external. The ‘Place’ (pada) is (where) the entire Cosmic Path (is located). It is the vital breath,” (or) the conception (saṁkalpa) which is (inner) understanding (avagama). (The corresponding) contemplative state (samāpatti) is known to yogis as ‘Abiding in Place’ (padastha). (253cd-255ab) 
 
@@ -173,7 +173,7 @@ What is it that is ‘the same’ (with the deep sleep of yogis and common folk)
 
 318\. suṣthu suptatvam ucyate ‘is said to be the state of sleeping well’. The word susuptam
 
-319\. ‘deep sleep’ — is derived from susthu suptam ‘sleeping well’.
+319\. ‘deep sleep’ — is derived from suṣṭhu suptam ‘sleeping well’.
 
 320\. The word for ‘perceiver’ or ‘subject’ is pramātr. The word derived from the root ‘man’ in the sense of ‘to measure’ with prefix ‘pra’. Engaged in the act of perception, the perceiver ‘measures’, that is, knows the object.
 
@@ -189,7 +189,7 @@ Like waking in waking, for example, this is the primary (form of the) state of d
 मुख्या मातृदशा सेयं सुषुप्ताख्या निगद्यते ।। २६० ॥
 mukhyā mātṛdaśā \[illegible\] suṣuptākhyā nigadyate ॥ 260 ॥ 
 
-This state called deep sleep is said to be the primary plane \[illegible\] of the perceiver. (260cd) 
+This state called deep sleep is said to be the primary plane (daśā) of the perceiver. (260cd) 
 
 #### Viveka on 10.260
 
@@ -207,7 +207,7 @@ rūpasthari tatsamāpattyaudāsīnyari rūpiṇārṁ viduḥ ॥ 261 ॥
 prasarikhyānavataḥ kāpi vedyasaṁkocanātra yat |
 nāsti tena mahāvyāptir iyan tadanusārataḥ ॥ 262 ॥ 
 
-Insofar as (the perceiver) metaphorically (rūpakatvāt) (identifies with the object of cognition, he is himself called) ‘Form’ \[illegible\] Yogis (call) the state of identity with that (subject) ‘Established in Form’ (rāpastha). (The wise) know that those who, by means of the corresponding contemplative attainment (samāpatti), are endowed with the subject’s form (rūpin), are in a state of transcendent detachment (audasīnya) (from all phenomena with \[illegible\] The contraction (to which consciousness is subject due to) objectivity does not occur here.” Thus those who possess intuitive insight (prasaṁikhyāna) (call it), in accord with that, the ‘Great Pervasion’ (mahāvyāpti). (261-262) 
+Insofar as (the perceiver) metaphorically (rūpakatvāt) (identifies with the object of cognition, he is himself called) ‘Form’ (rūpa). Yogis (call) the state of identity with that (subject) ‘Established in Form’ (rāpastha). (The wise) know that those who, by means of the corresponding contemplative attainment (samāpatti), are endowed with the subject’s form (rūpin), are in a state of transcendent detachment (audasīnya) (from all phenomena with \[illegible\] The contraction (to which consciousness is subject due to) objectivity does not occur here.” Thus those who possess intuitive insight (prasaṁikhyāna) (call it), in accord with that, the ‘Great Pervasion’ (mahāvyāpti). (261-262) 
 
 #### Viveka on 10.261–262
 
@@ -238,7 +238,7 @@ Here also, as is the case with the Corporeal (pindastha) and other states, there
 भूतादि तदुपाध्युत्थमव्र भेदचतुष्टयम् ॥ २६३ ॥
 उदितं विपुलं शान्तं सुप्रसन्नमथापरम् ।
 
-udāsīnasya tasyāpi vedyarn yena caturvidham |
+udāsīnasya tasyāpi vedyaṁ yena caturvidham |
 bhūtādi tadupādhyuttham atra bhedacatuṣtayam || 263 ॥
 uditaṁ vipulaṁ śāntaṁ suprasannam athāparam | 
 
@@ -277,9 +277,9 @@ Now, in due order, he defines the Fourth state.
 
 तत्तर्यमुच्यते शक्तिसमावेशो ह्यसौ मतः ।। २६५ ॥
 
-yat tu pramātmakaṁ rūpaṁ pramātur upari sthitam || 264 I|
+yat tu pramātmakaṁ rūpaṁ pramātur upari sthitam || 264 ||
 pūrṇatāgamanaunmukhyam audāsīnyāt paricyutiḥ |
-tat turyam ucyate śaktisamāveśo hy asau mataḥ || 265 Il 
+tat turyam ucyate śaktisamāveśo hy asau mataḥ || 265 || 
 
 The Fourth state is considered to be penetration into (the reflective awareness which is) the power (of consciousness) (śaktisamāveśa), and it is said to occur when (the body of the creatures and the rest) becomes a form of cognitive consciousness (pramā) which is superior to that of the subject, who is no longer transcendentally aloof (as he was in deep sleep), but intent on the process of developing (perfect) plenitude.” (264cd-265) 
 
@@ -302,7 +302,7 @@ Surely (one may ask), is this intent on the process of developing (perfect) plen
 मानान्मातुश्च भिन्नैव तदर्थं त्रितयं यतः ॥ २६६ ॥
 
 sā saṁvit svaprakāśā tu kaiścid uktā prameyataḥ |
-mānān mātuś ca bhinnaiva tadartharn tritayarn yataḥ ॥ 266 ॥ 
+mānān mātuś ca bhinnaiva tadarthaṁ tritayaṁ yataḥ ॥ 266 ॥ 
 
 Some (might) say that this self-luminous consciousness differs from the subject, object and means of knowledge insofar as these three (all tend towards it and) exist for its sake (tadartham). (266) 
 
@@ -337,7 +337,7 @@ The object comes to rest in the means of knowledge, the latter in the subject, a
 
 (She is called a goddess —) ‘dev? , because, luminous with her own light, she shines.[^332] She is ‘the sole life of the universe’ because everything, the object (of knowledge, the means to it and the subject,) find rest here. As is said (in the Saṁvitprakāśa): 
 
-‘(In the course of perception,) the object (becomes subjective, and so) assumes the state of the subject, and the subject (becomes) consciousness. If it is true that consciousness is Your essential nature \[illegible\] then (for that reason) this universe is made of You. 
+‘(In the course of perception,) the object (becomes subjective, and so) assumes the state of the subject, and the subject (becomes) consciousness. If it is true that consciousness is Your essential nature (ātman), then (for that reason) this universe is made of You. 
 
 Surely (one may object that) this (consciousness) is the fruit of (the application of) the means of knowledge (to its object). Thus,[^334] the object etc. are its life, it is certainly not theirs. So how is it that he said that? With this doubt in mind, he says: 
 
@@ -391,13 +391,13 @@ Thus he says:
 तत्समावेशनैकस्यात् त्रयं तत्तदनग्रहात् ।
 
 tatsamāveśatādātmye mātṛtvaṁi bhavati sphutam |
-tatsamāveśoparāgān mānatvaṁ meyatā punaḥ ॥ 270 |l tatsamāveśanaikatyāt trayaṁ tattadanugrahāt | 
+tatsamāveśoparāgān mānatvaṁ meyatā punaḥ ॥ 270 ॥ tatsamāveśanaikatyāt trayaṁ tattadanugrahāt | 
 
-(The pure) subjectivity (of consciousness) is clearly evident \[illegible\] in the state of oneness \[illegible\] with the penetration of that (the Fourth State) (samāveśa). The means of knowledge (operates) due to the influence (uparāga) of that penetration, and objectivity (exists) because of its proximity (naikaṭya) to it. Thus, the three exist by the grace of each of these (relationships with the penetrating contemplative absorption of the Fourth State, that is, by oneness, influence and proximity). (270-271ab) 
+(The pure) subjectivity (of consciousness) is clearly evident \[illegible\] in the state of oneness (tādātmya) with the penetration of that (the Fourth State) (samāveśa). The means of knowledge (operates) due to the influence (uparāga) of that penetration, and objectivity (exists) because of its proximity (naikaṭya) to it. Thus, the three exist by the grace of each of these (relationships with the penetrating contemplative absorption of the Fourth State, that is, by oneness, influence and proximity). (270-271ab) 
 
 #### Viveka on 10.270–271
 
-Subject, (means, and object of knowledge are such) according to their distance in relation to the Fourth state. Thus he says that \[illegible\] pure) subjectivity (of consciousness) is clearly evident (sphuta)) in the state of oneness \[illegible\] with the penetration (of the Fourth State) (samāveśa). (The means of knowledge (operates)) due to the influence (uparāga) of that penetration, and (objectivity (exists)) because of its proximity (naikatya) to it? 
+Subject, (means, and object of knowledge are such) according to their distance in relation to the Fourth state. Thus he says that \[illegible\] pure) subjectivity (of consciousness) is clearly evident (sphuta)) in the state of oneness (tādātmya) with the penetration (of the Fourth State) (samāveśa). (The means of knowledge (operates)) due to the influence (uparāga) of that penetration, and (objectivity (exists)) because of its proximity (naikatya) to it? 
 
 According to the doctrine that consciousness is other than the result of the (application of) a means of knowledge, and in accord with what is well known to the scriptures, he says: 
 
@@ -447,7 +447,7 @@ Here (in this case) also, as before, there is a variety of designations (of this
 rūpakatvād udāsīnāc cyuteyarń pūrṇatonmukhī I| 273 ॥
 daśā \[illegible\] samāpattī rūpātītaṁ tu yoginaḥ |
 pūrṇataunmukhyayogitvād vivan paśyati tanmayaḥ ॥ 274 |
-prasaṁkhyātā pracayatas teneyarn pracayo matā | 
+prasaṁkhyātā pracayatas teneyaṁ pracayo matā | 
 
 [^339]: This verse is a gloss on MV 2/41, which is quoted below as 10/285. See there.
 [^340]: See below 10/284d-287, which is MV 2/40d-42.
@@ -470,7 +470,7 @@ Surely (one may ask), as they are mixed together with one another within that (s
 naitasyām aparā turyadaśā sambhāvyate kila ॥ 275 ||
 saṁvin na kila vedyā sā vittvenaiva hi bhāsate | 
 
-No second Fourth state (i.e. Fourth-fourth) is possible in this (state). Consciousness \[illegible\] is not objectively perceptible (vedyā). It only manifests as the conscious sentience (vittva) (of the perceiver). (275cd- 276ab) 
+No second Fourth state (i.e. Fourth-fourth) is possible in this (state). Consciousness (saṁvid) is not objectively perceptible (vedyā). It only manifests as the conscious sentience (vittva) (of the perceiver). (275cd- 276ab) 
 
 #### Viveka on 10.275–276
 
@@ -525,7 +525,7 @@ turyātītaṁ tu tat prāhus tad eva paramaṁ padam || 278 ॥
 
 #### Viveka on 10.278
 
-Surely (one may ask): Beyond the Fourth is the fifth plane (of consciousness). Is there another plane beyond that also, or not? With this doubt in mind, he says that it is ‘the supreme plane (pada) of consciousness)’. It is ‘supreme’ because it does not require anything else, as it is the abode of supreme rest. Thus, it is said that ‘the nature \[illegible\] of the state Beyond the Fourth (tūryātīta) is that which lacks nothing \[illegible\] is undivided, and is overflowing with bliss.” 
+Surely (one may ask): Beyond the Fourth is the fifth plane (of consciousness). Is there another plane beyond that also, or not? With this doubt in mind, he says that it is ‘the supreme plane (pada) of consciousness)’. It is ‘supreme’ because it does not require anything else, as it is the abode of supreme rest. Thus, it is said that ‘the nature (vapuṣ) of the state Beyond the Fourth (tūryātīta) is that which lacks nothing \[illegible\] is undivided, and is overflowing with bliss.” 
 
 Surely (one may ask), just as the terms for the four states of waking and the rest are said to be three as they relate to three (different aspects of the same state, when seen from the point of view) of daily life (loka), Yoga and intuitive insight \[illegible\] \[illegible\] (prasamkhyana),[^345] in the same way are they said to be (three) here (in this case) also, or not? With this doubt in mind, he says: 
 
@@ -560,7 +560,7 @@ Thus, as (the state) here is one with consciousness, only intuitive insight (pra
 prasaṁikhyānabalāt tv etad 7 \[illegible\] pūrnatvayogataḥ ॥ 280 ॥
 anuttarād iha \[illegible\] mahāpracayasamjñitam | 
 
-This state \[illegible\] (can only be attained) by the power of intuition (prasaṁṁkhyāna).” For this reason, and because it is full (and perfect) and is Anuttara (the Absolute), it is called here the ‘Great Accumulation’ (mahāpracaya).\* (280cd-281ab) 
+This state (rūpa) (can only be attained) by the power of intuition (prasaṁṁkhyāna).” For this reason, and because it is full (and perfect) and is Anuttara (the Absolute), it is called here the ‘Great Accumulation’ (mahāpracaya).\* (280cd-281ab) 
 
 #### Viveka on 10.280–281
 
@@ -575,7 +575,7 @@ This state \[illegible\] (can only be attained) by the power of intuition (prasa
 पूर्णत्वादेव भेदानामस्यां सम्भावना न हि ॥ २८१ ॥
 तन्निरासाय नैतस्यां भेद उक्तो विशेषणम् ।
 
-pūrnṇatvād eva bhedānām asyāṁ sambhāvanā na hi || 281 ||
+pūrṇatvād eva bhedānām asyāṁ sambhāvanā na hi || 281 ||
 tannirāsāya \[illegible\] \[illegible\] bheda ukto viśeṣanam | 
 
 347\. See above 10/245.
@@ -630,7 +630,7 @@ Divisions divide (things up, distinguishing them from one another) in relation t
 Thus, to say that here (in this case) there is (only) one division is the babbling of a fool. 
 
 [^351]: MV 2/45cd-46ab.
-[^352]: SārnKā 13a.
+[^352]: SāṁKā 13a.
 
 *[p. 476]* ^pg495
 
@@ -639,7 +639,7 @@ Thus, to say that here (in this case) there is (only) one division is the babbli
 तुयीतीते भेद एकः सततोदित इत्ययम् ।। २८३ ॥
 मूढवादस्तेन सिद्धमविभेदित्वमस्य तु
 
-turyātīte bheda ekaḥ satatodita ity ayam ॥ 283 I|
+turyātīte bheda ekaḥ satatodita ity ayam ॥ 283 ॥
 mūdhavādas tena siddham avibheditvam asya tu | 
 
 (Some maintain) that there is one division in the state Beyond the Fourth, namely, the ‘Ever Arisen’ (i.e. eternally manifest). This is a foolish view (not worth considering), and so it is established that (undivided,) it has 
@@ -702,7 +702,7 @@ Surely, it was said before that ‘(I will now describe them as) I have learnt t
 श्रीशंभुनाथ : सद्भावं जाग्रदादौ न्यरूपयत् । २८७ ॥
 
 iti śrīsumatiprajṁācandrikāśāntatāmasaḥ |
-srīśarnṁbhunāthaḥ sadbhāvari jāgradādau nyarūpayat || 287 ॥ 
+srīśaṁbhunāthaḥ sadbhāvari jāgradādau nyarūpayat || 287 ॥ 
 
 Śambhunātha described the essence of the waking and other states (to me); the darkness (of his ignorance) dissipated by the moonlight of the venerable Sumati’s wisdom. (287) 
 
@@ -727,7 +727,7 @@ The Waking and Other States of the Seven Perceivers
 यद्रूपं जाग्रदादीनां तदिदानीं निरूप्यते ॥ २८८ ॥
 
 anye tu kathayanty \[illegible\] bhaṅgīm anyādṛśīm śritāḥ |
-yad rūüpari jāgradādīnāṁ tad idānīṁn nirūpyate || 288 II 
+yad rūüpari jāgradādīnāṁ tad idānīṁn nirūpyate || 288 || 
 
 We will now describe the nature of the waking and other states according to what others say, who see it from another point of view.” (288) 
 
@@ -776,7 +776,7 @@ The state of deep sleep coincides with the absence (of all sensations) of pleasu
 
 (devoid of objective content) of the Consciousness 
 
-(ānava) impurity alone. (289-291) 
+(āṇava) impurity alone. (289-291) 
 
 #### Viveka on 10.289–291
 
@@ -904,7 +904,7 @@ asphuṭaṁ tu yadābhāti suṣuptaṁ tatpuro ‘pi yat% | 295 I|
 trayasyāsyānusaridhis” tu yad vaśād upajāyate |
 sraksūtrakalpaḥ tat (1004081 sarvabhedeṣu gṁyatām I| 296 ॥
 yat tv advaitabharollāsadrāvitāśeṣabhedakam’” |
-turyātītaṁ tu tat prāhur ittharn sarvatra yojayet ॥ 297 ॥ 
+turyātītaṁ tu tat prāhur itthaṁ sarvatra yojayet ॥ 297 ॥ 
 
 (Again, from yet another point of view,) one should consider waking to be the state of one to whom a particular form appears clearly (sphuṭa). (If) it manifests without stability and has been previously (perceived in some form when awake,) such is dreaming. (The state of the perceiver is) deep sleep when nothing manifests clearly, as previously (when awake, but does so subsequently when he wakes up and thinks ‘I 
 
@@ -929,7 +929,7 @@ in this way.[^381] (294cd-297)
 
 #### Viveka on 10.294–297
 
-[^381]: TĀ 10/253ab, 275cd, 283cd, 294cd-297 are quoted in MM p. 157. Maheśvarānanda presents an overview of the teachings given here in his auto-commentary of verse 61 of the Mahārthamañjarī. Translated, this is as follows. ‘The yogi carries a wonderfully varied \[illegible\] rosary of gems, arranged as the series of sacred times (parvan) of waking, dreaming, deep sleep and the Fourth, strung together with the single thread of reflective awareness. (61) (p. 156) Waking and the rest are all ‘sacred times’ (parvan) vitalized by the passage of time, that is, particular states. There, (with regards to them,) in terms of common daily life, the waking state is a product of (the activity of) both the external and internal senses, once reality (artha) has been made into an object of the senses as one that is common to all (perceivers). The dream state consists of thought, which is essentially the creation of (a personal) reality (artha) that is not (experienced) in common (with anybody else). Its is the inner mental organ alone. Deep sleep is the absence of the manifestation of reality in any form. As is said in the venerable Śivasūtras: ‘Knowledge (born of sensory perception) is the waking state’. ‘Thought constructs are dreaming’. ‘Deep sleep is Māyā, the lack of discernment’. (ŚSū 1/9-10) As is also said in the venerable Pratyabhijñā: ‘The waking state (obtains when) creation is common for all perceivers. In the purview of all the senses, it is stable externally. \[illegible\] 3/2/17) The dreaming state is considered to be (one in which) the creation of phenomena is (their) clearly evident manifestation that, although it is takes place solely on the path of the mind, is mistakenly (thought to be) an object of the (outer) senses. IP? 3/2/16) When the abiding state is just a trace (of awareness), it is said to be deep sleep which is like the dissolving away (of the worlds at the end of time).’ (ĪP 3/2/15ab) From the yogi’s point of view, (the first three states of consciousness) are sustained (concentration) (dhāranā), meditation (dhyāna) and contemplative absorption (samādhi), (respectively). The Āgamas characterize them as follows. Fixing the mind on (some particular) place is sustained (concentration) (dhāraṇā). Individual streams of perception (focused on one object) is meditation (dhyāna). Contemplative absorption (samādhi) is the falling away of the relationship between subject and object and the like. Again, the Fourth (state) is linked to all (the other states), and even if it is not, it abides as a single (undivided) nature. The difference (from the other states) is that only a yogi is capable of that kind of reflective awareness. Again, (concerning) the Fourth state, according to the teaching of the venerable Śivasūtra, ‘the Fourth should be sprinkled like oil into the three.” (2/20(21)) It is the Great Effulgence (of the light of consciousness) that is associated with (and pervades) the three states of waking and the rest. This is a synecdoche. For the second is in the first, the third is in the two, the fourth is in the three, and the fifth in the fourth — the sense (of this sūtra) must necessarily be understood this way. Again, that has been said concisely in the sūtra as what is being taught. The series of these sacred times is a unity, because their state is such as they are mutually of each other's nature. The yogi, whose nature has been described, carries (a rosary) that, like the thread of a necklace, has many jewels, such as pearls and rubies. Stringing (the states of consciousness) together with one thread called reflective awareness that is capable of penetrating into all of them, he ‘carries it by virtue of some excellence that crosses over the journey of worldly life and causes him to attain (the goal), and by the reflective awareness of the essential nature of each (of these states), establishes it within his own Self. Having gone there beyond the three common states (of consciousness) worldly people (experience) and perceiving the fourth state in its own essential nature as Beyond the Fourth (p. 157), which is the supreme perceiver, (that Fourth state itself) is explained to be reflective awareness, by which, like the thread of a garland, the lower three states are held together. There also (in that case), the part \[illegible\] that is pervaded (ākrānta) (by the Fourth state), that moves along with (sāhacarya)\* those of waking and the rest etc., is conjoined with the part that has entered into the essential nature of the perceiver. It is that which is being held together, as well as the means of holding (the states) together. Both (interpretations) make sense. \*SvTu ad 4/408cd-409ab: ācāraḥ proktasphārānupraveśaḥ sahacāritva tadabheda-vimarśaparamārtham || ‘Moving’ (in this context means) entry into the expansion (of consciousness) taught (previously). (Thus,) the true nature of the condition of ‘moving along with’ is the reflective awareness at one with that. In this way, one perceives in the four states of waking and the rest, that they penetrate one another in the form of, for example, waking in waking, dreaming in waking, deep sleep in waking, and the Fourth in waking. There (these) four divisions of waking are (called) Abuddha, Buddha, Prabuddha and Suprabuddha. ‘(They are called) ‘Gone and Come’ (gatāgata), ‘Well Dispersed’ (suvikṣipta), ‘Well Conjoined’ (saṁgata) and ‘Well Concentrated’ (susamāhita).’ (TÀ 10/253ab) (These are the four kinds) of dream state. Udita, Vipula, Śānta and Suprasanna are (those) of deep sleep. Whereas with regards to the Fourth state: ‘No second Fourth state (i.e. Fourth-fourth) is possible in this (state). TĀ 10/275cd (Some maintain) that there is one division in the state Beyond the Fourth, namely, the ‘Ever Arisen’ (i.e. eternally manifest). TĀ 10/283cd (Abhinava goes on to say: This is a foolish view. Thus it is established that it has no divisions.) According to the view held by the Tantrāloka, there are three kinds (of Fourth state): Manonmana, Ananta, and Sarvatobhadra. And in Turyātīta: ‘In Turyatīta there is one kind (only), and this is Satatodita.’ TĀ 10/283cd According to this teaching, there is secondarily said to be (just) one kind, which is Satatodita, that illumines the perpetual state of reflective awareness. (Each of these is of three kinds,) because of the difference between (the manner in which they) manifest, namely clearly \[illegible\] clearly-cum-unclearly (sphuṭāsphuṭa), and unclearly (aphuṭa), as well as (their basic) state as (the fourth,), which threads through (all of
+[^381]: TĀ 10/253ab, 275cd, 283cd, 294cd-297 are quoted in MM p. 157. Maheśvarānanda presents an overview of the teachings given here in his auto-commentary of verse 61 of the Mahārthamañjarī. Translated, this is as follows. ‘The yogi carries a wonderfully varied (citrā) rosary of gems, arranged as the series of sacred times (parvan) of waking, dreaming, deep sleep and the Fourth, strung together with the single thread of reflective awareness. (61) (p. 156) Waking and the rest are all ‘sacred times’ (parvan) vitalized by the passage of time, that is, particular states. There, (with regards to them,) in terms of common daily life, the waking state is a product of (the activity of) both the external and internal senses, once reality (artha) has been made into an object of the senses as one that is common to all (perceivers). The dream state consists of thought, which is essentially the creation of (a personal) reality (artha) that is not (experienced) in common (with anybody else). Its is the inner mental organ alone. Deep sleep is the absence of the manifestation of reality in any form. As is said in the venerable Śivasūtras: ‘Knowledge (born of sensory perception) is the waking state’. ‘Thought constructs are dreaming’. ‘Deep sleep is Māyā, the lack of discernment’. (ŚSū 1/9-10) As is also said in the venerable Pratyabhijñā: ‘The waking state (obtains when) creation is common for all perceivers. In the purview of all the senses, it is stable externally. \[illegible\] 3/2/17) The dreaming state is considered to be (one in which) the creation of phenomena is (their) clearly evident manifestation that, although it is takes place solely on the path of the mind, is mistakenly (thought to be) an object of the (outer) senses. IP? 3/2/16) When the abiding state is just a trace (of awareness), it is said to be deep sleep which is like the dissolving away (of the worlds at the end of time).’ (ĪP 3/2/15ab) From the yogi’s point of view, (the first three states of consciousness) are sustained (concentration) (dhāranā), meditation (dhyāna) and contemplative absorption (samādhi), (respectively). The Āgamas characterize them as follows. Fixing the mind on (some particular) place is sustained (concentration) (dhāraṇā). Individual streams of perception (focused on one object) is meditation (dhyāna). Contemplative absorption (samādhi) is the falling away of the relationship between subject and object and the like. Again, the Fourth (state) is linked to all (the other states), and even if it is not, it abides as a single (undivided) nature. The difference (from the other states) is that only a yogi is capable of that kind of reflective awareness. Again, (concerning) the Fourth state, according to the teaching of the venerable Śivasūtra, ‘the Fourth should be sprinkled like oil into the three.” (2/20(21)) It is the Great Effulgence (of the light of consciousness) that is associated with (and pervades) the three states of waking and the rest. This is a synecdoche. For the second is in the first, the third is in the two, the fourth is in the three, and the fifth in the fourth — the sense (of this sūtra) must necessarily be understood this way. Again, that has been said concisely in the sūtra as what is being taught. The series of these sacred times is a unity, because their state is such as they are mutually of each other's nature. The yogi, whose nature has been described, carries (a rosary) that, like the thread of a necklace, has many jewels, such as pearls and rubies. Stringing (the states of consciousness) together with one thread called reflective awareness that is capable of penetrating into all of them, he ‘carries it by virtue of some excellence that crosses over the journey of worldly life and causes him to attain (the goal), and by the reflective awareness of the essential nature of each (of these states), establishes it within his own Self. Having gone there beyond the three common states (of consciousness) worldly people (experience) and perceiving the fourth state in its own essential nature as Beyond the Fourth (p. 157), which is the supreme perceiver, (that Fourth state itself) is explained to be reflective awareness, by which, like the thread of a garland, the lower three states are held together. There also (in that case), the part (aṁśa) that is pervaded (ākrānta) (by the Fourth state), that moves along with (sāhacarya)\* those of waking and the rest etc., is conjoined with the part that has entered into the essential nature of the perceiver. It is that which is being held together, as well as the means of holding (the states) together. Both (interpretations) make sense. \*SvTu ad 4/408cd-409ab: ācāraḥ proktasphārānupraveśaḥ sahacāritva tadabheda-vimarśaparamārtham || ‘Moving’ (in this context means) entry into the expansion (of consciousness) taught (previously). (Thus,) the true nature of the condition of ‘moving along with’ is the reflective awareness at one with that. In this way, one perceives in the four states of waking and the rest, that they penetrate one another in the form of, for example, waking in waking, dreaming in waking, deep sleep in waking, and the Fourth in waking. There (these) four divisions of waking are (called) Abuddha, Buddha, Prabuddha and Suprabuddha. ‘(They are called) ‘Gone and Come’ (gatāgata), ‘Well Dispersed’ (suvikṣipta), ‘Well Conjoined’ (saṁgata) and ‘Well Concentrated’ (susamāhita).’ (TÀ 10/253ab) (These are the four kinds) of dream state. Udita, Vipula, Śānta and Suprasanna are (those) of deep sleep. Whereas with regards to the Fourth state: ‘No second Fourth state (i.e. Fourth-fourth) is possible in this (state). TĀ 10/275cd (Some maintain) that there is one division in the state Beyond the Fourth, namely, the ‘Ever Arisen’ (i.e. eternally manifest). TĀ 10/283cd (Abhinava goes on to say: This is a foolish view. Thus it is established that it has no divisions.) According to the view held by the Tantrāloka, there are three kinds (of Fourth state): Manonmana, Ananta, and Sarvatobhadra. And in Turyātīta: ‘In Turyatīta there is one kind (only), and this is Satatodita.’ TĀ 10/283cd According to this teaching, there is secondarily said to be (just) one kind, which is Satatodita, that illumines the perpetual state of reflective awareness. (Each of these is of three kinds,) because of the difference between (the manner in which they) manifest, namely clearly \[illegible\] clearly-cum-unclearly (sphuṭāsphuṭa), and unclearly (aphuṭa), as well as (their basic) state as (the fourth,), which threads through (all of
 
 *[p. 486]* ^pg505
 
@@ -1027,7 +1027,7 @@ The Five States in Relation to the Fifteen Divisions and the Seven Perceivers
 स्वं क्रिया ज्ञानमिच्छा च शंभुर्र च पञ्चमी ।
 महेशभेदे त्रिविधे जाग्रदादि निरूपितम् || ३०८ ॥
 
-etac chrīpūrvaśāstre ca \[illegible\] uktarn maheśinā II 301 II tatra svarūpam śaktiś ca sakalaś ceti tat trayam |
+etac chrīpūrvaśāstre ca \[illegible\] uktaṁ maheśinā || 301 || tatra svarūpam śaktiś ca sakalaś ceti tat trayam |
 iti jāūgradavastheyaṁ bhede pañcadaśātmake ॥ 302 ॥
 akalau svapnasauṣupte turyańn mantrādivargabhāk |
 turyātītaṁ śaktiśaṁbhū trayodaśābhidhe punaḥ | 303 ॥
@@ -1041,7 +1041,7 @@ svar jāgratsvapnasupte dve turyādy atra ca pūrvavat || 304 ॥
 
 tadīśāḥ 
 
-śaktiśambhv ittharn pañca syur jāgradādayaḥ Il 305 ॥
+śaktiśambhv itthaṁ pañca syur jāgradādayaḥ ॥ 305 ॥
 saptabhede tu mantrākhye \[illegible\] mantreśā maheśvarāḥ |
 śaktiḥ śambhuś ca pañcoktā avasthā jāgradādayaḥ ॥ 306 ॥
 svarūpam mantramāhesī śaktir mantramaheśvaraḥ |
@@ -1086,7 +1086,7 @@ Great Lords of Mantra, power and Śiva. (307)
 
 (subject) (implicitly includes) it and its power. ‘The two Deconditioned (subjects)’ are the Dissolution Deconditioned (pralayākala) and Consciousness Deconditioned (vijñānākala) (subjects). 
 
-(2) (When the divisions are thirteen, one’s) ‘Own nature’ is the Conditioned (perceiver), its power, and (the principles from Nature) up to the Force (of limited agency) \[illegible\] ‘the others are as before’. Thus, the two Deconditioned (perceivers correspond to the states of) dreaming and deep sleep (respectively). The Fourth (state includes) the Mantra and other (higher perceivers), and Beyond the Fourth is Power and Siva. One should continue mutatis mutandis in this way. 
+(2) (When the divisions are thirteen, one’s) ‘Own nature’ is the Conditioned (perceiver), its power, and (the principles from Nature) up to the Force (of limited agency) (kalā); ‘the others are as before’. Thus, the two Deconditioned (perceivers correspond to the states of) dreaming and deep sleep (respectively). The Fourth (state includes) the Mantra and other (higher perceivers), and Beyond the Fourth is Power and Siva. One should continue mutatis mutandis in this way. 
 
 (3) ‘When the Dissolution Deconditioned (perceivers ~ pralayākala)’ become objects, the divisions become eleven. What was ‘the waking state’ before corresponds to ‘(one’s) Own Nature’ as a Dissolution Conditioned (perceiver) etc. “The two’ are the Consciousness Deconditioned perceiver and its power. Thus, the power of the Consciousness Deconditioned perceiver is (experienced) when dreaming, and the Consciousness Deconditioned perceiver (itself alone) in deep sleep. (The remaining two higher states) ‘are as before’. Thus, the (higher) Mantra and other (perceivers are experienced) in the Fourth 
 
@@ -1110,7 +1110,7 @@ The waking and other (states) are not only discernible (nirāūpanīya) up to he
 *[p. 493]* ^pg512
 
 vyāpārād ādhipatyāc ca taddhānyā prerakatvataḥ |
-icchānivṛtteḥ svasthatvāc chiva eko ‘pi pañcadhā Il 309 ॥ 
+icchānivṛtteḥ svasthatvāc chiva eko ‘pi pañcadhā ॥ 309 ॥ 
 
 Although, Śiva is one, the five states are present in Him by virtue of His 1) activity (vyāpāra), 2) Lordship (adhipatya), 3) the absence of these (two characteristics), 4) impulse (prerakatva), and when (His) desire is satisfied, 5) rest within Himself. (309) 
 

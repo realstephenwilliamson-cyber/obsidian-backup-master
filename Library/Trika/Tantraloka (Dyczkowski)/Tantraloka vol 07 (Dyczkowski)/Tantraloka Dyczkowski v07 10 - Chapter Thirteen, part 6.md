@@ -38,7 +38,7 @@ The Hierarchy of Śaiva Scriptures and Traditions”
 दक्षे मते कुले कौले षडर्धे हदये ततः ।
 उल्लंघनवशाद्रापि दमरित्यक्रममेव वा । ३०१ ॥
 
-kramikaḥ śaktipātaś ca siddhānte vāmake tataḥ ॥ 300 I|
+kramikaḥ śaktipātaś ca siddhānte vāmake tataḥ ॥ 300 ॥
 dakṣe mate kule kaule ṣadardhe hṛdaye tataḥ |
 ullaṁghanavaśād vāpi jhaṭity akramam eva vā || 301 ॥ 
 
@@ -67,7 +67,7 @@ The Trika system (trikārtha}[^603] alone is supreme because it is the most exce
 
 605?\. Note that the immediate sense is that ‘kaula’ is an adjective of Trika. But one may also understand the two disjunctively as referring to two different school: Trika. Cf. reference above ad 1/18 and ad 4/47cd-48, where Kaula is missing, and Mata follows Kula. See notes there for identity of Mata and distinction between Kula and Kaula. Cf the expression kulamate trike MVV 2/287cd.
 
-606?\. A variant of this verse reads: vedāc chaivaṁ tato vāmar tato dakṣaṁ tataḥ kulam | tato matar tataś cāpi trika sarvottamaṁ param || “After the Veda comes Śaiva (i.e. Śaivasiddhānta), then Vāma (the Tantras of the Left Current), then Dakṣa (the Tantras of the Right Current), then Kula, then Mata, and then after that also comes Trika which, the best of all, is supreme.’ This variant of this verse and the one quoted by Jayaratha in his commentary on the following verse are quoted together above in TĀv ad 1/18, where Jayaratha tells us, as does Abhinava, that the latter is drawn from the Niśācāratantra (also called Niśisaṁcāratantra). See there for the variant readings and further remarks. We are nowhere told the source. In the former instance, Jayaratha cites the verse as a gloss to Abhinava’s words that the essence of (the scriptures) is the Trika sāstra. In the second instance, he cites the same verse to establish the point that ‘Each subsequent corpus of scripture \[illegible\] and parts thereof is more primary (than the one that precedes), and the others are secondary.’ This verse in this form is also quoted in the PTv p. 92, along with two others from the Nisisamcāra and the Sarvācāra that are commonly quoted together. Thus, the former is quoted just below in TĀv ad 13/302 (see note 13,338 below). The Niśsācāra (i.e. the \[illegible\] declares that the teacher ‘who knows the supreme reality’, even though he has been consecrated as a teacher into the Vāma Tantras of the Left, still requires further purifying initiations (saṁskāra) into the Bhairavatantras, Kula, Kaula and, finally Trika. Just after citing the Niśācāra and the Sarvācāra to support it, Abhinava himself (in PTv p. 92) tells us that the serial order is: 1) the Veda that is for all people, 2) Siddhānta, 3) Vāma, 4) Dakṣiṇa, 5) Kula, and 6) Mata. He presents them as planes (bhūmi) of the ultimately real perceiver. (kramaś ca eṣa eva yathoktam — evan yat sarvalokaveda-siddhānta-vāma-dakṣina-kula-matabhūmiṣu paramārthapramātr iti 1). He goes on: ‘as is said: ‘Salutation to the One who is the Self of all, who is all things and is eternal’. The venerable Somānanda has said in in his own extensive commentary (on the PT): ‘once that same Anuttara has encompassed in itself all this, then what is there (to say) much? Everything is Anuttara, because it is most excellent (anuttara). Thus, he places Anuttara Trika at the end of the series. In MVV 2/2874, translated in the following note, the sequence is Kula > Mata > Trika. Thus, Mata in this case is equivalent to Kaula.
+606?\. A variant of this verse reads: vedāc chaivaṁ tato vāmar tato dakṣaṁ tataḥ kulam | tato matar tataś cāpi trika sarvottamaṁ param || “After the Veda comes Śaiva (i.e. Śaivasiddhānta), then Vāma (the Tantras of the Left Current), then Dakṣa (the Tantras of the Right Current), then Kula, then Mata, and then after that also comes Trika which, the best of all, is supreme.’ This variant of this verse and the one quoted by Jayaratha in his commentary on the following verse are quoted together above in TĀv ad 1/18, where Jayaratha tells us, as does Abhinava, that the latter is drawn from the Niśācāratantra (also called Niśisaṁcāratantra). See there for the variant readings and further remarks. We are nowhere told the source. In the former instance, Jayaratha cites the verse as a gloss to Abhinava’s words that the essence of (the scriptures) is the Trika sāstra. In the second instance, he cites the same verse to establish the point that ‘Each subsequent corpus of scripture (śāstra) and parts thereof is more primary (than the one that precedes), and the others are secondary.’ This verse in this form is also quoted in the PTv p. 92, along with two others from the Nisisamcāra and the Sarvācāra that are commonly quoted together. Thus, the former is quoted just below in TĀv ad 13/302 (see note 13,338 below). The Niśsācāra (i.e. the \[illegible\] declares that the teacher ‘who knows the supreme reality’, even though he has been consecrated as a teacher into the Vāma Tantras of the Left, still requires further purifying initiations (saṁskāra) into the Bhairavatantras, Kula, Kaula and, finally Trika. Just after citing the Niśācāra and the Sarvācāra to support it, Abhinava himself (in PTv p. 92) tells us that the serial order is: 1) the Veda that is for all people, 2) Siddhānta, 3) Vāma, 4) Dakṣiṇa, 5) Kula, and 6) Mata. He presents them as planes (bhūmi) of the ultimately real perceiver. (kramaś ca eṣa eva yathoktam — evan yat sarvalokaveda-siddhānta-vāma-dakṣina-kula-matabhūmiṣu paramārthapramātr iti 1). He goes on: ‘as is said: ‘Salutation to the One who is the Self of all, who is all things and is eternal’. The venerable Somānanda has said in in his own extensive commentary (on the PT): ‘once that same Anuttara has encompassed in itself all this, then what is there (to say) much? Everything is Anuttara, because it is most excellent (anuttara). Thus, he places Anuttara Trika at the end of the series. In MVV 2/2874, translated in the following note, the sequence is Kula > Mata > Trika. Thus, Mata in this case is equivalent to Kaula.
 
 
 *[p. 311]* ^pg333
@@ -112,7 +112,7 @@ As is said (in the Niśācāra):
 
 ‘A teacher who knows the (nature of the) supreme reality (which is his goal), although he has been consecrated in the Path of the Left, needs (nonetheless) to be initiated into the Bhairava (Tantras), and he too (needs to take further initiations) into Kula, Kaula, and (then finally) also into Trika.” 
 
-Surely (one may ask), it is said that ‘as all (of these traditions) are born from \[illegible\] they all bestow the fruit of Śivas abode’. (According to this teaching,) there is no difference at all (between them), either with respect to their cause or their fruit, so how is it that it is said that this scripture is higher and that (other one) lower? With this doubt in mind, he says: 
+Surely (one may ask), it is said that ‘as all (of these traditions) are born from Śiva, they all bestow the fruit of Śivas abode’. (According to this teaching,) there is no difference at all (between them), either with respect to their cause or their fruit, so how is it that it is said that this scripture is higher and that (other one) lower? With this doubt in mind, he says: 
 
 ### TĀ 13.303
 
@@ -208,7 +208,7 @@ Nor is that said only here, it is also said elsewhere. Thus, he says:
 स्वच्छन्दशासख्रे संक्षेपाुक्तं च श्रीमहेशिना ।
 अन्यशाखरतो यस्तु नासौ सिद्धिफलप्रदः ।। accomplishments.[^620] ॥
 
-svacchandaśāstre sakṣepād uktarn ca śrīmaheśinā |
+svacchandaśāstre sakṣepād uktaṁ ca śrīmaheśinā |
 anyaśāstrarato yas tu nāsau siddhiphalapradaḥ || 307 ॥ 
 
 Moreover, the venerable Lord has said in brief in the Svacchandaśāstra: ‘he who is devoted to other scriptures cannot bestow 
@@ -270,7 +270,7 @@ The disciple who desires some (worldly) benefit and makes the accomplishments (s
 
 #### Viveka on 13.310
 
-A disciple who desires some limited \[illegible\] (worldly) benefit, and (considers that) that depends on (his) teacher, will (certainly) not have that accomplishment (siddhi) by acquiring a false teacher. On the contrary, (as is said in the scriptures): ‘the fifth (kind of misguided disciple is one) who associates with that (false teacher).’ According to this teaching, by serving a teacher who (is sinful and so) should perform penance, (his disciple will) most certainly burn in hell. The meaning is that his misfortune would be very great (indeed). That is said (in the Jayadrathayāmala,) beginning with (the verse): 
+A disciple who desires some limited (tāvat) (worldly) benefit, and (considers that) that depends on (his) teacher, will (certainly) not have that accomplishment (siddhi) by acquiring a false teacher. On the contrary, (as is said in the scriptures): ‘the fifth (kind of misguided disciple is one) who associates with that (false teacher).’ According to this teaching, by serving a teacher who (is sinful and so) should perform penance, (his disciple will) most certainly burn in hell. The meaning is that his misfortune would be very great (indeed). That is said (in the Jayadrathayāmala,) beginning with (the verse): 
 
 *[p. 318]* ^pg340
 
@@ -280,7 +280,7 @@ hell,”
 
 ‘The Great Teaching (mahārtha) imparted by Bhairava is a (treasure) chest of knowledge and wisdom. Those (false teachers) who, having adopted the conduct (it teaches) by themselves (without having taking initiation from a true teacher, and moreover) bestow the grace of initiation (on others,) are (in actual fact) selling these (teachings) for their own worldly benefit to fettered souls who are, like them, (similarly deceitful). . . . (Such teachers) fall into a very terrible hell, just as (their disciples do,) along with their sons, dependents, friends and (relations, with) up to seven degrees of family (ties). (There is nothing to be done;) penances cannot purify them.’ °°? 
 
-621?\. Read ye te narakaṁ for yena narakaṁ. These lines correspond to JY 4/20/81cd-2ab (MS K fl. 140b Kh 120b, MS G 172a-172b). There we find the readings cānye ~ ‘and others’ for ye na and gantum icchatā for gantukāminaḥ. yadā na jñāyate tatvan \[kh: tva + g: tvak\] cchadmād \[k: dvadmād; g: padmāṁ\] gṛhnanti kaulikam || 81 || 172b g) mahāpātakinaś cānye narakarn gantum icchatā | The JY continues: haṭhāt praveśaṁ kurvanti mahati \[kh g: mahānte\] kulaśāsane ॥ 82 ॥ vākyāmṛtāni yuṁjanti (>> bhuṁjanti) viṣjamāyāni (> viṣamayāni) gopayet | yāvad ākarṇayet sarvan nihśeṣaṁi grāhayet priye ॥ 83 ॥ paścād doṣari \[kh: doṣāṁ\] gamiṣyanti nirmūlaṁ yena gacchati \\ dvadmāt (>>cchadmād) praviśyate devi kauṭilyā mahatāś ca ye I| 84 ॥ saktipātavihīnās te patanti narake balata (>>balāt) | ‘Those who enter by force into the great Kula teachings, and enjoy the nectarian statements (there), which should be kept secret, (and so for them) are made of poison, to the degree all has been heard and is taken up completely, they subsequently become defective, and so, that which is entered into by deceit becomes rootless. O goddess, those who are greatly deceitful, devoid of the descent of the power (of grace), fall, by force, into hell.”
+621?\. Read ye te narakaṁ for yena narakaṁ. These lines correspond to JY 4/20/81cd-2ab (MS K fl. 140b Kh 120b, MS G 172a-172b). There we find the readings cānye ~ ‘and others’ for ye na and gantum icchatā for gantukāminaḥ. yadā na jñāyate tatvan \[kh: tva + g: tvak\] cchadmād \[k: dvadmād; g: padmāṁ\] gṛhnanti kaulikam || 81 || 172b g) mahāpātakinaś cānye narakaṁ gantum icchatā | The JY continues: haṭhāt praveśaṁ kurvanti mahati \[kh g: mahānte\] kulaśāsane ॥ 82 ॥ vākyāmṛtāni yuṁjanti (>> bhuṁjanti) viṣjamāyāni (> viṣamayāni) gopayet | yāvad ākarṇayet sarvan nihśeṣaṁi grāhayet priye ॥ 83 ॥ paścād doṣari \[kh: doṣāṁ\] gamiṣyanti nirmūlaṁ yena gacchati \\ dvadmāt (>>cchadmād) praviśyate devi kauṭilyā mahatāś ca ye I| 84 ॥ saktipātavihīnās te patanti narake balata (>>balāt) | ‘Those who enter by force into the great Kula teachings, and enjoy the nectarian statements (there), which should be kept secret, (and so for them) are made of poison, to the degree all has been heard and is taken up completely, they subsequently become defective, and so, that which is entered into by deceit becomes rootless. O goddess, those who are greatly deceitful, devoid of the descent of the power (of grace), fall, by force, into hell.”
 
 622?\. JY 4/20/85cd-86, 88cd-89. The complete passage reads in the manuscripts: mahārthaṁ bhairavoktiḥ syāj jñānavijñānabhādrajā \[kh: -bhondajāh; g: -bhāṁdajāh\] 11851 svayaṁ gṁītam \[k: gṁīta\] ācāraṁ \[k: ācāra\] dīkṣānugrahakṛt sadā | vikrīṇaty ātmano bhogārthe \[k: bhogārmye; kh: rtha\] paśūnār \[g: -nā\] vṛṣātmanām \[kh g: vṛśāt-\] ॥ 86 II (na viridanti durācārā hy ātmacaurā narādhamāḥ | anyāyena gṁītārthaḥ mahāntaṁ pārameśvaram |l 87 ॥ tādṛśena prayuñjanti maryādābhedakādhamāḥ |) 141a) te patanti mahāghore narake tāmasānvitāḥ \[kh: -sānvite; g: —śānvito\] I| 88 ॥ The three lines Jayaratha omits mean: ‘Those low people of bad conduct, thieves of souls do not attain (anything). Once acquired the great teaching of the Lord unlawfully, these vile transgressors apply it in the same way. Possessed of darkness they fall into a very terrible hell.’ JY 4/20/85cd-88 MS K 140b-14la, MS Kh fl. 120b,\* MS G fl. 172b \*Sanderson 2006 17 n 44. He incorrectly reports MS Kh 121r for 120r.
 
@@ -307,7 +307,7 @@ The (teaching concerning the) variety (of forms) of obscuration is thus introduc
 
 that (Śiva’s grace) is independent (of any causes or conditions). 
 
-Surely (one may ask), so be it (as you say), what then should be done with this teacher, who has taken the teachings \[illegible\] by deceit, with a distorted understanding or the like? With this doubt in mind, he says: 
+Surely (one may ask), so be it (as you say), what then should be done with this teacher, who has taken the teachings (jñāna) by deceit, with a distorted understanding or the like? With this doubt in mind, he says: 
 
 ### TĀ 13.312–313
 
@@ -374,8 +374,8 @@ Obscured by Śiva Remain as they are
 शिवेनैव तिरोभाव्य स्थापितो नियतेरबलात् || ३१५ ॥
 कथङ्कारं पतिपदं प्रयातु परतच्रितः ।
 
-sa hi bhedaikavṛttitvarn Sivajñāne śrute ‘py alam || 314 ||
-nojjhatīti dṛdharn vāmādhiṣthitas tatpaśūttamaḥ |
+sa hi bhedaikavṛttitvaṁ Sivajñāne śrute ‘py alam || 314 ||
+nojjhatīti dṛdhaṁ vāmādhiṣthitas tatpaśūttamaḥ |
 sivenaiva tirobhāvya sthāpito niyater balāt ॥ 315 ॥
 kathaṅkāram patipada prayātu paratantritaḥ | 
 
@@ -414,7 +414,7 @@ It is also said in the Svacchandasāstra that those who are devoted to the follo
 
 *[p. 322]* ^pg344
 
-Surely (one may ask), let Māyā induce Vaiṣṇavas and the like to wander (about deluded). (But) what happens to one who, although a \[illegible\] and the like, is (also) a (follower of) Siva? 
+Surely (one may ask), let Māyā induce Vaiṣṇavas and the like to wander (about deluded). (But) what happens to one who, although a Vaiṣṇava and the like, is (also) a (follower of) Siva? 
 
 ### TĀ 13.317–318
 
@@ -577,7 +577,7 @@ This is not said just with respect to others (belonging to different traditions)
 उत्तरोत्तरमाचार्य विद्नप्यधरोऽधरः || ३२५ ॥
 कुर्व्नधिक्रियां शाखरटषै निग्रहभाजनम् ।
 
-uttarottaram ācāryaṁ vidann apy adharo ‘dharaḥ ॥ 325 I|
+uttarottaram ācāryaṁ vidann apy adharo ‘dharaḥ ॥ 325 ॥
 kurvann adhikriyār śāstralaṁghī nigrahabhājanam | 
 
 The teacher who belongs to a lower tradition, and even though he knows of the existence of teachers belonging to higher ones, continues to assume the status (of a teacher), violates (the precepts of) the scriptures, and (so) deserves to be punished (nigrahabhājana). (325cd-326ab) 
@@ -622,7 +622,7 @@ Hearing, Cogitation and Meditation
 ज्ञानं तदुत्तरं ज्यायो यतो मोक्ैककारणम् ॥ ३२७ ॥
 
 śrautaṁ cintāmayaṁ dyvātma bhāvanāmayam eva ca |
-\[illegible\] tad uttararn jyāyo yato mokṣaikakāranam || 327 ॥ 
+\[illegible\] tad uttaraṁ jyāyo yato mokṣaikakāranam || 327 ॥ 
 
 Knowledge (is of three kinds. The first is one received) through hearing (and study) (śrauta), (the second, of which there are) two varieties, consists of cogitation \[illegible\] (The third) is imaginative contemplation (bhāvanā). The last of these is the sole cause of liberation, and, as such, is 
 
@@ -654,7 +654,7 @@ Yoga Bestows Accomplishments, Knowledge Liberation. Both May Operate Together, b
 तत्त्वेभ्य उद्धूतिं क्वापि योजनं सकलेऽकले ।
 कथं कु्ीद्रिना ज्ञानं भावनामयमुत्तमम् ॥ ३२८ ॥
 
-tattvebhya uddhṛtirn kvāpi yojanari sakale ‘kale |
+tattvebhya uddhṛtiṁ kvāpi yojanari sakale ‘kale |
 katha kuryād vinā \[illegible\] bhāvanāmayam uttamam | 328 ॥ 
 
 So how can (a teacher, although he knows the higher principles,) extract (uddhṛtiṁ kuryāt) (his disciple) from the (lower, impure) principles and conjoin (him) anywhere, (to Śiva,) whether differentiated (and immanent) (sakala) or undifferentiated (akala) (and transcendent), without the most excellent knowledge, which is imaginative contemplation (bhāvanā)? (328) 
@@ -765,7 +765,7 @@ He says that:
 तेनोक्तं मालिनीतन्र विचार्य ज्ञानयोगिते ।
 यतश्च मोक्षद प्रोक्तः स्वभ्यस्तज्ञानवान्बुधैः ।। ३३२ ॥
 
-tenoktaḥ mālinītantre vicārya jṁānayogite |
+tenoktaṁ mālinītantre vicārya jṁānayogite |
 yataś ca mokṣadaḥ proktaḥ svabhyastajñānavān budhaiḥ ॥ 332 ॥ 
 
 Thus, after having examined (the nature of) one who possesses knowledge (jñānayogita), (the Lord) says in the Mālinītantra: ”[^650] . . and because, the wise say, (only) one who possesses well exercised knowledge 
@@ -931,7 +931,7 @@ that one also, one should take a teacher who is a man of knowledge who, as he te
 वरं ज्ञानी योऽभ्युपायं दिशेदपि च मोचयेत् ॥ ३४० ॥
 
 phaladānākṣame yoginy upāyaikopadeśini |
-varar jñānī yo ‘bhyupāyari died api ca mocayet I| 340 ॥ 
+varar jñānī yo ‘bhyupāyari died api ca mocayet ॥ 340 ॥ 
 
 (A teacher) who is a man of knowledge (jñānin), who can teach the means (to liberation) and can liberate (others), is better than (a teacher who is) a yogi who cannot give the (desired worldly) fruits and can only teach the means (to attain them). (340) 
 
@@ -965,7 +965,7 @@ Again, on the contrary, one who has been touched by an intense descent of the po
 ### TĀ 13.342
 
 धन्यस्तु पूर्णविज्ञानं ज्ञानार्था लभते गुरुम् ।॥ ३४२ ॥
-dhanyas tu pūrṇavijṁñānar jñānārthī labhate gurum || 342 I| 
+dhanyas tu pūrṇavijṁñānar jñānārthī labhate gurum || 342 || 
 
 (However, it is also possible that) a fortunate (dhanya) (seeker, who has received an intense descent of the power of grace, and so) desires knowledge, does find a teacher who is endowed with complete (and perfect) knowledge. (342cd) 
 
@@ -1037,7 +1037,7 @@ The Hierarchy of Teachers लोकाध्यात्मातिमागी
 lokādhyātmātimārgādikarmayogavidhānataḥ ॥ 346 I|
 saribodhotkarṣabāhulyāt kramotkṛṣtān vibhāvayet | 
 
-[^653]: This is the final verse of Kallata’s commentary on the Spandakārikā. Jayaratha quotes the second line of this verse above in TĀv ad 1/9, see note there. We may note again that this verse is not found in the end of the version of the Spandakārikā on which Kṣemarāja comments. Were he to have retained it, it would be proof that Kallata wrote the Kārikās, as it serves virtually as the author's signature. But we know that he considered Vasugupta to be their author, as did Abhinava himself (see Dyczkowski 1992a:21-24). Presumably then, Abhinava quotes this verse considering it not to be part of the Spandakārikā but of Kallata’s gloss (vṛtti) of the same.
+[^653]: This is the final verse of Kallaṭa’s commentary on the Spandakārikā. Jayaratha quotes the second line of this verse above in TĀv ad 1/9, see note there. We may note again that this verse is not found in the end of the version of the Spandakārikā on which Kṣemarāja comments. Were he to have retained it, it would be proof that Kallaṭa wrote the Kārikās, as it serves virtually as the author's signature. But we know that he considered Vasugupta to be their author, as did Abhinava himself (see Dyczkowski 1992a:21-24). Presumably then, Abhinava quotes this verse considering it not to be part of the Spandakārikā but of Kallaṭa’s gloss (vṛtti) of the same.
 [^654]: Emend naseviṣi to niseviṣi.
 
 *[p. 338]* ^pg360
@@ -1050,7 +1050,7 @@ One should note (that there is a hierarchy also amongst the teachers of other tr
 
 ‘The common worldly traditions (loka) are the Vedas (śruti) and affiliated scriptures (smṛti). ‘Those concerning the Self (adhyātma)’ are Vedānta etc. “The Atimārga[^657] is Sāṁkhya and Pātañjali (Yoga) etc. The same applies to ‘the (types of) rites’, such as (the Vedic) Agniṣtoma and ‘Yoga they teach’, which consists of the blocking of the activity of the mind and the like. ‘One should note’ and know that Vedic and other teachers are progressively (more) excellent according to the degree of excellence of their sound ‘knowledge’, which has (those teachings as their) cause. This is the meaning. 
 
-The same applies to the wise ascetics (muni) as they progress through (the stages of) being \[illegible\] etc., as the desire for our teaching (darsana) (grows,) according to the degree in which the knowledge they possess excels. Thus, he says: 
+The same applies to the wise ascetics (muni) as they progress through (the stages of) being Vaiṣṇavas etc., as the desire for our teaching (darsana) (grows,) according to the degree in which the knowledge they possess excels. Thus, he says: 
 
 ### TĀ 13.347–348
 
@@ -1133,7 +1133,7 @@ A teacher (of a particular scripture) is said to be (only) one who has been auth
 तथोत्तरोत्त्ञानि द्रुः समाश्रयन् ।। ३५२ ॥
 अधराधरमाचार्य विनाशमधिगच्छति ।
 
-yathā tanmandalāsīno mandalāntarabhūpatim || 351 Il svamandalajigīṣuḥ san sevamāno vinaśyati |
+yathā tanmandalāsīno mandalāntarabhūpatim || 351 || svamandalajigīṣuḥ san sevamāno vinaśyati |
 tathottarottarajñānasiddhiprepsuḥ samāśrayan ॥ 352 ॥
 adharādharam ācāryaṁ vināśam adhigacchati | 
 
@@ -1162,7 +1162,7 @@ That is not said just on the basis of our own view (darśana), but also (on the 
 
 evam evordhvavartiṣnor āgamāt siddhivāñchakaḥ ॥ 353 ॥
 māyīyaśāstranirato vināśari pratipadyate |
-uktaṁ ca śrīmadānande karma saṁśritya bhāvataḥ Il 354 ॥
+uktaṁ ca śrīmadānande karma saṁśritya bhāvataḥ ॥ 354 ॥
 jugupsate tat tasmiṁś ca viphale ‘nyat samāśrayet |
 dinād dinar hrasaṁs tv evan pacyate rauravādiṣu || 355 ॥ 
 
@@ -1258,7 +1258,7 @@ Surely (one may ask), if they are omniscient, how is it that they, disregarding 
 
 Lower Teachings Taught to Viṣṇu and the Others as They are Incapable of Grasping the Śaiva Ones इत्थं विष्ण्वादयः शैवपरमार्थैकवेदिनः |
 काश्चित्परति तथादिक्षुस्ते मोहाद्विमतिं श्रिताः ।। ३६० ॥
-ittharn viṣnvādayaḥ śaivaparamārthaikavedinaḥ |
+itthaṁ viṣnvādayaḥ śaivaparamārthaikavedinaḥ |
 kāmścit prati tathādikṣus te mohād vimatim śritāḥ ॥ 360 ॥ 
 
 Thus, Viṣṇu and the others, conscious of the fact that the only true scripture is that of Śiva, have taught (this) to some in this way, but due to (their) delusion, they have chosen to disagree. (360) 
@@ -1267,7 +1267,7 @@ Thus, Viṣṇu and the others, conscious of the fact that the only true scriptu
 
 (There are only) ‘some’ who are fit to this degree to (receive) the teachings. (They have been taught) ‘in this way’; that is, in a way which is that of inferior knowledge. This is the meaning. Their understanding of the truth is thus contrary (to ours), due to the sway of illusion. Thus, it is said that, it is ‘due to (their) delusion, they have chosen to disagree’. 
 
-[^663]: Read asmadādidarśanānām anugrāhyatvarnṁ for asmadādidarśanānugrāhyatvam. The gods of other traditions do not prescribe rites of purification to Śaivites to allow them access to their teachings. This is because Śaivites belong to superior schools and so do not require it. As higher traditions they are not the objects of grace of lower ones.
+[^663]: Read asmadādidarśanānām anugrāhyatvaṁ for asmadādidarśanānugrāhyatvam. The gods of other traditions do not prescribe rites of purification to Śaivites to allow them access to their teachings. This is because Śaivites belong to superior schools and so do not require it. As higher traditions they are not the objects of grace of lower ones.
 
 *[p. 344]* ^pg366
 

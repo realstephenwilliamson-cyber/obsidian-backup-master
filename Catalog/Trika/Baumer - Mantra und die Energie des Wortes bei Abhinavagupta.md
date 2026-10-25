@@ -20,8 +20,7 @@ language:
   - German
 pages: 14
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Baumer - Mantra und die Energie des Wortes bei Abhinavagupta.pdf]]"
   - "[[Library/Trika/Mantra und die Energie des Wortes bei Abhinavagupta (Baumer)]]"

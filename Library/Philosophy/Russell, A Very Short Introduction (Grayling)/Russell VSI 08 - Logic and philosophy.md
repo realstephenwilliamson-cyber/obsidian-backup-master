@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Grayling - Russell, A Very Short Introduction]]"
 book: "[[Library/Philosophy/Russell, A Very Short Introduction (Grayling)/Russell, A Very Short Introduction (Grayling)|Russell, A Very Short Introduction (Grayling)]]"
 order: 8
 source_pdf: "Library/Philosophy/Grayling - Russell, A Very Short Introduction (2002).pdf"
-pages: "29–60"
+page_range: "29–60"
 pdf_pages: "44–75"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15

@@ -18,8 +18,7 @@ language:
   - English
 pages: 25
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Dilthey_Other_Persons.pdf]]"
   - "[[Library/Philosophy/The Understanding of Other Persons and Their Expressions (Dilthey)]]"

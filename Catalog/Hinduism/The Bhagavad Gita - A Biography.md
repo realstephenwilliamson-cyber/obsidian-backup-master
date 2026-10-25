@@ -17,8 +17,7 @@ language:
   - English
 pages: 256
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[bhagavad_gita.pdf]]"
 aliases: []

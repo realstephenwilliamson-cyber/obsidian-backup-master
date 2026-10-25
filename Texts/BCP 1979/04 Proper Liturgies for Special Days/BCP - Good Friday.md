@@ -5,9 +5,7 @@ section: "Proper Liturgies for Special Days"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/SpecialDays/friday.html"
-page_range:
-  - 276
-  - 282
+page_range: "276–282"
 aliases:
   - "BCP 276"
   - "BCP 277"
@@ -21,7 +19,7 @@ aliases:
 
 [[BCP 1979]] · *Proper Liturgies for Special Days* · pages 276–282
 
-[p. 276]
+[p. 276] ^pg276
 
 ## Good Friday
 
@@ -43,7 +41,7 @@ Almighty God, we pray you graciously to behold this your family, for whom our Lo
 
 *The Passion Gospel is announced in the following manner*
 
-[p. 277]
+[p. 277] ^pg277
 
 The Passion of our Lord Jesus Christ according to John.
 
@@ -71,7 +69,7 @@ We pray, therefore, for people everywhere according to their needs.
 
 *The biddings may be read by a Deacon or other person appointed. The Celebrant says the Collects.*
 
-[p. 278]
+[p. 278] ^pg278
 
 Let us pray for the holy Catholic Church of Christ throughout the world;
 
@@ -129,7 +127,7 @@ For those who in the name of Christ have persecuted others
 
 That God will open their hearts to the truth, and lead them to faith and obedience.
 
-[p. 280]
+[p. 280] ^pg280
 
 *Silence*
 
@@ -143,7 +141,7 @@ O God of unchangeable power and eternal light: Look favorably on your whole Chur
 
 *The service may be concluded here with the singing of a hymn or anthem, the Lord's Prayer, and the final prayer on page 282.*
 
-[p. 281]
+[p. 281] ^pg281
 
 *If desired, a wooden cross may now be brought into the church and placed in the sight of the people.*
 
@@ -167,7 +165,7 @@ We adore you, O Christ, and we bless you, *because by your holy cross you have r
 
 If we have died with him, we shall also live with him; if we endure, we shall also reign with him.
 
-[p. 282]
+[p. 282] ^pg282
 
 *We adore you, O Christ, and we bless you, because by your holy cross you have redeemed the world.*
 

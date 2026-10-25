@@ -17,8 +17,7 @@ language:
   - English
 pages: 400
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Malini Vijayottara Tantra Eng Translation 1956 - Vishnu Datt Shastri.pdf]]"
   - "[[Library/Trika/Malini Vijayottara Tantra (Shastri)/Malini Vijayottara Tantra (Shastri)]]"

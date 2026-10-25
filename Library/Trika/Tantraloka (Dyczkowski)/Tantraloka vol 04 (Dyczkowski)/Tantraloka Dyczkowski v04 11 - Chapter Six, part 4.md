@@ -27,7 +27,7 @@ He says that:
 
 ववे ॥ )८
 
-\[illegible\] \[illegible\] yadā tv ardhaṁ \[illegible\] prātipade dale ॥ 106 ॥
+\[illegible\] \[illegible\] yadā tv ardhaṁ līnaṁ prātipade dale ॥ 106 ॥
 pratipac ca viśuddhā syāt tanmokṣo dūrage vidhau | 
 
 When the half (moment) of the New Moon (amāvasyā) dissolves into the half of the first lunar day, the first lunar day is pure (and the Sun is freed at the end of an eclipse), when the Moon has moved away.” (106cd- 107ab) (106) 
@@ -97,14 +97,14 @@ The Lunar Eclipse
 तिथिच्छेद ऋणं कासो वृद्धिर्न श्वसनं धनम् ॥ १०९ ॥
 अयत्नजं यत्नजं तु रेचनादथ रोधनात् ।
 
-tithiccheda \[illegible\] kāso vṛddhir nihśvasanarni dhanam || 109 I|
+tithiccheda \[illegible\] kāso vṛddhir nihśvasanarni dhanam || 109 ||
 ayatnajaṁ yatnajaṁ tu recanād atha rodhanāt | 
 
 The loss of a lunar day (that takes place) by coughing is (the inner) ‘debt’ (rna), while (the inner) ‘gift’ (dhana)” is the addition of one (that 
 
 247\. See above, 6/100cd-101ab (100) and note to the commentary.
 
-248\. Line 6/109cd (109ab) is a condensation of SvT 7/65cd-66ab that is quoted by Jayaratha in the commentary. Defow, Hart and Robert Svoboda (2003: 186) explain: ‘In Vedic time keeping a żithi is a lunar day, or the time it takes for the longitudinal angle between the Moon and the Sun to increase by 12 degrees. In other words, a tithi is a time-duration between the consecutive epochs that correspond to when the longitudinal angle between Sun and Moon is an integer multiple of 12 degrees. Tithis begin at varying times of day and vary in duration from approximately 19 to 26 hours.’ A tithi is determined by the speed of the Sun and the Moon. There is a big difference between the movement of the Sun and the Moon. The Sun passes through one sign of the zodiac in thirty days. The Moon takes approximately two and a half days. Moreover, the relative motion of the Moon with respect to the Sun may be greater or less according to the relative position of the two. As the Earth’s orbit is elliptical, the time it takes for the longitudinal angle between Sun and Moon to increase 12 degrees may be less or more according to the relative distance between the Sun and the Moon. It is as if the speed of the Moon increases or decreases. If the time required is more than 24 hours there is more than one solar day in a zithi. This is termed an \*increase’ (vṛddhi) of the rithi. For example, if on a Sunday, the sun rises at 06:32 AM, and on that day the fifth rithi begins at 06:15 am and continues till 07:53 am on Monday, it lasts 25 hours and 36 minutes and continues through sunrise on both Sunday and Monday. A rithi that for more than a day is considered to be one that extends for two days and so there is an increase of a tithi (tithi Conversely, a tithi may be so short that there is a loss of a day, which is thus a ‘decrease’ or ‘loss’ \[illegible\] of a tithi. For example, if the Sun rises on Friday at 07:12 and the eleventh (41 ends at 07:36 after sunrise the next day, ushering in the twelfth tithi. Now this twelfth rithi will remain for only 30:26 minutes, i.e. till 06:26 am, and after that the thirteenth zithi starts. If the sun rises at 7:13 am, it means that the sun has not risen in the twelfth \[illegible\] Thus, it was the eleventh rithi at sunrise on Friday, and sunrise on Saturday took place in the course of the thirteenth rithi. Thus, the twelfth rithi was much reduced and so was destroyed \[illegible\] In short, if a tithi starts after the Sun rises and ends before the next sunrise it is called tithikṣaya — loss of a tithi, and the rithi is a kṣayatithi. It a tithi starts before one sunrise and ends after the next one, it is called zithivṛddhi — an increase of a tithi. Generally, both should be avoided as inauspicious times (muhūrta). Concerning the length of a tithi, see also above note 6,229.
+248\. Line 6/109cd (109ab) is a condensation of SvT 7/65cd-66ab that is quoted by Jayaratha in the commentary. Defow, Hart and Robert Svoboda (2003: 186) explain: ‘In Vedic time keeping a żithi is a lunar day, or the time it takes for the longitudinal angle between the Moon and the Sun to increase by 12 degrees. In other words, a tithi is a time-duration between the consecutive epochs that correspond to when the longitudinal angle between Sun and Moon is an integer multiple of 12 degrees. Tithis begin at varying times of day and vary in duration from approximately 19 to 26 hours.’ A tithi is determined by the speed of the Sun and the Moon. There is a big difference between the movement of the Sun and the Moon. The Sun passes through one sign of the zodiac in thirty days. The Moon takes approximately two and a half days. Moreover, the relative motion of the Moon with respect to the Sun may be greater or less according to the relative position of the two. As the Earth’s orbit is elliptical, the time it takes for the longitudinal angle between Sun and Moon to increase 12 degrees may be less or more according to the relative distance between the Sun and the Moon. It is as if the speed of the Moon increases or decreases. If the time required is more than 24 hours there is more than one solar day in a zithi. This is termed an \*increase’ (vṛddhi) of the rithi. For example, if on a Sunday, the sun rises at 06:32 AM, and on that day the fifth rithi begins at 06:15 am and continues till 07:53 am on Monday, it lasts 25 hours and 36 minutes and continues through sunrise on both Sunday and Monday. A rithi that for more than a day is considered to be one that extends for two days and so there is an increase of a tithi (tithi Conversely, a tithi may be so short that there is a loss of a day, which is thus a ‘decrease’ or ‘loss’ \[illegible\] of a tithi. For example, if the Sun rises on Friday at 07:12 and the eleventh (41 ends at 07:36 after sunrise the next day, ushering in the twelfth tithi. Now this twelfth rithi will remain for only 30:26 minutes, i.e. till 06:26 am, and after that the thirteenth zithi starts. If the sun rises at 7:13 am, it means that the sun has not risen in the twelfth tithi. Thus, it was the eleventh rithi at sunrise on Friday, and sunrise on Saturday took place in the course of the thirteenth rithi. Thus, the twelfth rithi was much reduced and so was destroyed \[illegible\] In short, if a tithi starts after the Sun rises and ends before the next sunrise it is called tithikṣaya — loss of a tithi, and the rithi is a kṣayatithi. It a tithi starts before one sunrise and ends after the next one, it is called zithivṛddhi — an increase of a tithi. Generally, both should be avoided as inauspicious times (muhūrta). Concerning the length of a tithi, see also above note 6,229.
 
 
 *[p. 336]* ^pg351
@@ -134,7 +134,7 @@ of the breath.”
 
 Now in order to explain (how that happens) in the flow of inhalation 
 
-\[illegible\] also, he says: 
+(apāna) also, he says: 
 
 251\. Here it may be that Jayaratha is mistaken. The measure and extent of the flow of the breath may be regulated effortlessly (ayatna), that is, spontaneously. It may also be regulated consciously, with effort (yatna) (see above, 6/46cd-48). The point here is not that those who are not yogis do not pay attention to the spontaneous change in the flow of the breath when they cough or yawn. Rather, that this change in such cases takes place spontaneously, without effort. However, it is also possible to induce it by exerting an effort to do so.
 
@@ -192,7 +192,7 @@ Night.
 
 antyāyāṁ pūrṇamastuṭyāṁ pūrvavat pakṣasandhitā ॥ 112 ॥
 indugrahaś ca pratipatsandhau pūrvapraveśataḥ |
-aihikarn grahaṇe cātra sādhakānām mahāphalam ॥ 113 ॥
+aihikaṁ grahaṇe cātra sādhakānām mahāphalam ॥ 113 ॥
 prāgvad anyad ayan māsaḥ prāṇacāre ‘bda ucyate | 
 
 As before, the conjunction between the (two) fortnights takes place in the last 
@@ -263,7 +263,7 @@ The sense is that six (signs of the zodiac,) from Capricorn up to Gemini, multip
 सं्रन्तित्रितये वृत्ते भुक्ते चाष्टादशाद्खले ॥ north.[^265] ॥
 मेषं प्राप्ते रवौ पुण्यं विषुवत्पारलोकिकम् ।
 
-sarikrāntitritaye vṛtte bhukte cāṣtādaśāṁgule ॥ 115 II meṣam prāpte ravau puṇyaṁ viṣuvat pāralaukikam | 
+sarikrāntitritaye vṛtte bhukte cāṣtādaśāṁgule ॥ 115 ॥ meṣam prāpte ravau puṇyaṁ viṣuvat pāralaukikam | 
 
 Once three transits (saṁkrānti) (from one sign of the zodiac to the next) have taken place and eighteen finger(-breadths) have been used up, when the Sun reaches Aries, the auspicious (spring) equinox occurs, (whose fruit) is supernal (pāralaukika).[^264] (115cd-116ab) (115) 
 
@@ -340,11 +340,11 @@ makarādīni tenātra kriyā sūte sadṛk phalam |
 
 (Exhalation): The signs of Capricorn and the rest are, respectively, 1) impregnation (and pregnancy) (garbhatā) (Capricorn), 2) the (initial) state of the impulse to birth (prodbubhūṣiṣyadbhāva) (Aquarius), 3) the state of desire to be born (udbubhūṣutā) (Pisces), 4) incipient birth (udbhaviṣyattva) (proximity to future birth) (Aries), 5) the commencement of birth (udbhūtiprārambha) (Taurus), and 6) the stable state of (incipient) emergence (udbhavasthiti) (Gemini). 
 
-(Inhalation): 7) Birth (janma) (Cancer), 8) existence \[illegible\] (Leo), 9) development (pariṇati) (Virgo), 10) maturity (vṛddhi) (Libra), 11) decrease (hrāsa) (Scorpio), and 12) destruction \[illegible\] (Sagittarius). The (spiritual) action (performed) there (with mindfulness of this process) thus generates the fruit corresponding to their nature.” (117cd-119ab) (117- 118) 
+(Inhalation): 7) Birth (janma) (Cancer), 8) existence (sattā) (Leo), 9) development (pariṇati) (Virgo), 10) maturity (vṛddhi) (Libra), 11) decrease (hrāsa) (Scorpio), and 12) destruction (kṣaya) (Sagittarius). The (spiritual) action (performed) there (with mindfulness of this process) thus generates the fruit corresponding to their nature.” (117cd-119ab) (117- 118) 
 
 #### Viveka on 6.117–118
 
-1\) ‘Pregnancy’ means (the initial) impregnation. 2) (‘The (initial) state of the impulse to birth’) is the state of being (bhāva) or essence \[illegible\] of (consciousness) in the (initial) act of intent to be born (in a phenomenal form). Such is the initial pulse of desire. 3) ‘the state of desire to be born (udbubhūṣutā}’ is the state or essential nature of (consciousness) that wishes to be born. (This is the pure) will alone (icchāmātra), associated with the object of desire, namely, birth. This is the meaning. 4) ‘Incipient birth (udbhaviṣyattva)’ is the orientation (avasthāna) (of consciousness) as the outpouring within itself 
+1\) ‘Pregnancy’ means (the initial) impregnation. 2) (‘The (initial) state of the impulse to birth’) is the state of being (bhāva) or essence (sattā) of (consciousness) in the (initial) act of intent to be born (in a phenomenal form). Such is the initial pulse of desire. 3) ‘the state of desire to be born (udbubhūṣutā}’ is the state or essential nature of (consciousness) that wishes to be born. (This is the pure) will alone (icchāmātra), associated with the object of desire, namely, birth. This is the meaning. 4) ‘Incipient birth (udbhaviṣyattva)’ is the orientation (avasthāna) (of consciousness) as the outpouring within itself 
 
 270\. We have seen that the Northern Course from Capricorn to Gemini bestows supernal fruits; the Southern Course from Cancer to Sagittarius worldly ones.
 
@@ -383,9 +383,9 @@ There is another particular feature here (of these transits). Thus, he says:
 प्रवेशे खल तत्रैव शान्तिपुष्स्यादिसुन्दरम् ॥ १२० ॥
 कर्म स्यादैहिकं तच्च दूरटूरफलः क्रमात्
 
-āmutrike meṣaḥ kumbho mantrādeḥ pūrvasevane || 119 II catuṣkaṁ kila mīnādyam antika cottarottaram |
+āmutrike meṣaḥ kumbho mantrādeḥ pūrvasevane || 119 || catuṣkaṁ kila mīnādyam antika cottarottaram |
 praveśe khalu tatraiva śāntipuṣtyādisundaram || 120 ॥
-karma syād aihikarn tac ca dūradūraphalaṁ kramāt | 
+karma syād aihikaṁ tac ca dūradūraphalaṁ kramāt | 
 
 Capricorn?”\* and Aquarius give other-worldly fruits. The four signs beginning with Pisces” are especially good for the recitation of Mantra and the like. (These six signs) are progressively more excellent. During the entry (of the breath), the appropriate acts are ‘peace’ and ‘nourishment’ and other beautiful rites (not black ones), the fruits of which have to do with this life. (The corresponding signs) are progressively less immediately fruitful. (119cd-121ab) (119-120) 
 
@@ -516,7 +516,7 @@ Surely (one may ask,) (it was said) previously that (the month of) Caitra arises
 
 हदि चैत्रोदितिस्तेन तत्र मन्रोदयोऽपि हि
 
-caitre mantroditiḥ so ‘pi tāluny \[illegible\] ‘dhunā punaḥ || 125 II hṛdi caitroditis tena tatra mantrodayo ‘pi hi | 
+caitre mantroditiḥ so ‘pi tāluny ukto ‘dhunā punaḥ || 125 || hṛdi caitroditis tena tatra mantrodayo ‘pi hi | 
 
 It was stated earlier that the Mantras start to arise in the month of Caitra, which arises, in its turn, in the palate. Now, instead, (the year that takes its name from) Caitra arises in the Heart, and so it is here that Mantra also arises. (125cd 126ab) (125) 
 
@@ -584,7 +584,7 @@ So that those who hear (these teachings should) not be confused, because they ha
 
 ‘O fair faced lady, the days and nights in sixty years number 21,600.[^295] 
 
-[^295]: The Jovian cycle takes sixty years. This is the outermost measured span of time projected into the breathing cycle in this system. This reference is SvT 7/138. Here is the context: athātisūkṣmayā vyavasthayā ṣaṣtyabdodayam atraiva punaś ca kathayāmi te || 130 ॥ ānandādyās tu te jṁeyāḥ ṣaṣtyabdās tu varānane | te cādha ūrdhvage prāṇe ekasmin surasundari ॥ 131 ॥ caranti pravibhāgena tathā te kathayāmyaham | ānandaprabhṛter devi mantram ārādhayet tu yah ॥ 132 ॥ tasyānandas tu deveśi mantreṇa saha jāyate | mantrasya paraniṣkalasvabhāvatayāśeṣaviśvanirbharatvena paramānandarūpatvāt tadabhedavimarśamayaprāṇoccārajñasya ānandamayataiva bhavati | tata cehābhihita-ṣaṣtyabdodayasthityā sarvam eva puruṣāyuṣa yan nityakarmāvaśya-kartavyam tad ekatraiva prāṇacāre vyāptijñasya sakṛd eva krtań sarvadaiva krtań bhavati jñāninaḥ | siddhikāmasya tu ṣaṣṭtivarṣasādhyam, tadīyavatsare tat tat sādhyaṁ vā karma prāṇīyavyāptijṁāna-pūrvaka kurvato na visaṁvadatīty āśayeneha sādhakādhikāre ṣaṣṭyabdodayād adhikarn noktam | “Now when the state (of the movement of the breath) is extremely subtle: ‘I will tell you about the arising that takes place here itself (within the movement of the breath) in sixty-year (cycles). O fair faced lady, the sixty years should be known to be Ānanda and the rest. O beautiful lady of the gods, I will tell you (how) they move part by part within the one breath that goes from below to above. O goddess, he who worships Mantra from (the year) Ānanda onwards, becomes blissful along with the Mantra.’ SvT 7/130cd-133ab The nature of one who knows the movement of the vital breath, that is, the reflective awareness of the oneness (abheda) of Mantra, is bliss, because its nature is supreme bliss. (This is because the Mantra that moves in the flow of the breath) is full of all the universe, as its nature is the supreme and undifferentiated (niṣkala) (deity). And so, by means of the state of the arising of the sixty-year (cycle) stated here, the entire lifespan of a man, and the regular Karman that must be done, is done all at once and once and for all, in one place, together within the flow of the vital breath of the man of knowledge, one who knows the pervasion (of the breath). The goal (sādhya) to be attained in sixty years by one who desires accomplishments (siddhi) is not in disagreement with the alternative, which is the particular goal (sādhya) (attained) in its corresponding year, as he goes on doing the Karman grounded in the knowledge of the pervasion of the breath. It is with this intention that, with regards to the competence of the adept, no more has been taught here than the arising of the sixty-year (cycle). Śrīnandiśikhāyāṁ tu jṁñāūnavyāptyabhiprāyena viṁiśatyadhikaśatodayo ‘py abhihitaḥ | evan ca jñānayoginām evan prāṇe vyāptijñānāt sarvam ayatnena siddhyaty eva | yaduktaṁ śrīmadutpaladevapādaiḥ ---- sākṣādbhavanmaye nātha sarvasmin bhuvanāntare | kim na bhaktimatāṁ kṣetran mantraḥ kvaiṣār na siddhyati || iti || kir ca ---- dvādaśābde tv ahorātraṁ pañcadhā bhedayų ṣaṣtyabde te tv ahorātrāḥ pañcaiva pariki dvādaśābdodaye 'ṁgulasya ṣaṣtitamo bhāgo'horātra ity uktam | \[illegible\] tu tam api pañcadhā bhedayet | evan ṣaṣtyabdodaye prāṇāṁgulasya triśatatamo bhāgo ʻhorātro bhavati | tad anayā susūkṣmayā sthityā ---- te vai ṣadguṇitās tatra māsa ekaḥ prakītītaḥ ॥ 134 ॥ taiś ca dvādaśabhir devi varṣam ekar vidhīyate | te iti dvādaśābdodaye ‘horātrāḥ | tair iti tathābhūtair māsaiḥ || evar ca ---- aṁgule tu sapañcāmśe mānam etat prakītītam ॥ 135 ॥ An arising (of a cycle of) one hundred and twenty (years) has been taught in the venerable Nandisikhā, with respect to the pervasion of knowledge. And in this way, by the knowledge the yogis who are men of knowledge have of pervasion within the vital breath, everything is accomplished without effort. As Utpaladeva has said: ‘O Lord, when everything in the world is You Yourself directly apparent, what is not a sacred place for (Your) devotees? Where is their Mantra not successful? (ŚSt 1/4) Moreover: ‘Multiply (the number of) days and nights in twelve years by five. Those days and nights in sixty years are said to be five.’ (7/133cd-134ab) Tt is said that is a twelve-year (cycle); a day and a night is a sixtieth part of a finger.\* Now one should multiply that also by five. In this way, in the arising of a (cycle of) sixty years, a day and night is a three-hundreth part of a finger breadth of the breath. \*\*
+[^295]: The Jovian cycle takes sixty years. This is the outermost measured span of time projected into the breathing cycle in this system. This reference is SvT 7/138. Here is the context: athātisūkṣmayā vyavasthayā ṣaṣtyabdodayam atraiva punaś ca kathayāmi te || 130 ॥ ānandādyās tu te jṁeyāḥ ṣaṣtyabdās tu varānane | te cādha ūrdhvage prāṇe ekasmin surasundari ॥ 131 ॥ caranti pravibhāgena tathā te kathayāmyaham | ānandaprabhṛter devi mantram ārādhayet tu yah ॥ 132 ॥ tasyānandas tu deveśi mantreṇa saha jāyate | mantrasya paraniṣkalasvabhāvatayāśeṣaviśvanirbharatvena paramānandarūpatvāt tadabhedavimarśamayaprāṇoccārajñasya ānandamayataiva bhavati | tata cehābhihita-ṣaṣtyabdodayasthityā sarvam eva puruṣāyuṣa yan nityakarmāvaśya-kartavyam tad ekatraiva prāṇacāre vyāptijñasya sakṛd eva krtań sarvadaiva krtań bhavati jñāninaḥ | siddhikāmasya tu ṣaṣṭtivarṣasādhyam, tadīyavatsare tat tat sādhyaṁ vā karma prāṇīyavyāptijṁāna-pūrvaka kurvato na visaṁvadatīty āśayeneha sādhakādhikāre ṣaṣṭyabdodayād adhikaṁ noktam | “Now when the state (of the movement of the breath) is extremely subtle: ‘I will tell you about the arising that takes place here itself (within the movement of the breath) in sixty-year (cycles). O fair faced lady, the sixty years should be known to be Ānanda and the rest. O beautiful lady of the gods, I will tell you (how) they move part by part within the one breath that goes from below to above. O goddess, he who worships Mantra from (the year) Ānanda onwards, becomes blissful along with the Mantra.’ SvT 7/130cd-133ab The nature of one who knows the movement of the vital breath, that is, the reflective awareness of the oneness (abheda) of Mantra, is bliss, because its nature is supreme bliss. (This is because the Mantra that moves in the flow of the breath) is full of all the universe, as its nature is the supreme and undifferentiated (niṣkala) (deity). And so, by means of the state of the arising of the sixty-year (cycle) stated here, the entire lifespan of a man, and the regular Karman that must be done, is done all at once and once and for all, in one place, together within the flow of the vital breath of the man of knowledge, one who knows the pervasion (of the breath). The goal (sādhya) to be attained in sixty years by one who desires accomplishments (siddhi) is not in disagreement with the alternative, which is the particular goal (sādhya) (attained) in its corresponding year, as he goes on doing the Karman grounded in the knowledge of the pervasion of the breath. It is with this intention that, with regards to the competence of the adept, no more has been taught here than the arising of the sixty-year (cycle). Śrīnandiśikhāyāṁ tu jṁñāūnavyāptyabhiprāyena viṁiśatyadhikaśatodayo ‘py abhihitaḥ | evan ca jñānayoginām evan prāṇe vyāptijñānāt sarvam ayatnena siddhyaty eva | yaduktaṁ śrīmadutpaladevapādaiḥ ---- sākṣādbhavanmaye nātha sarvasmin bhuvanāntare | kim na bhaktimatāṁ kṣetran mantraḥ kvaiṣār na siddhyati || iti || kir ca ---- dvādaśābde tv ahorātraṁ pañcadhā bhedayų ṣaṣtyabde te tv ahorātrāḥ pañcaiva pariki dvādaśābdodaye 'ṁgulasya ṣaṣtitamo bhāgo'horātra ity uktam | \[illegible\] tu tam api pañcadhā bhedayet | evan ṣaṣtyabdodaye prāṇāṁgulasya triśatatamo bhāgo ʻhorātro bhavati | tad anayā susūkṣmayā sthityā ---- te vai ṣadguṇitās tatra māsa ekaḥ prakītītaḥ ॥ 134 ॥ taiś ca dvādaśabhir devi varṣam ekar vidhīyate | te iti dvādaśābdodaye ‘horātrāḥ | tair iti tathābhūtair māsaiḥ || evar ca ---- aṁgule tu sapañcāmśe mānam etat prakītītam ॥ 135 ॥ An arising (of a cycle of) one hundred and twenty (years) has been taught in the venerable Nandisikhā, with respect to the pervasion of knowledge. And in this way, by the knowledge the yogis who are men of knowledge have of pervasion within the vital breath, everything is accomplished without effort. As Utpaladeva has said: ‘O Lord, when everything in the world is You Yourself directly apparent, what is not a sacred place for (Your) devotees? Where is their Mantra not successful? (ŚSt 1/4) Moreover: ‘Multiply (the number of) days and nights in twelve years by five. Those days and nights in sixty years are said to be five.’ (7/133cd-134ab) Tt is said that is a twelve-year (cycle); a day and a night is a sixtieth part of a finger.\* Now one should multiply that also by five. In this way, in the arising of a (cycle of) sixty years, a day and night is a three-hundreth part of a finger breadth of the breath. \*\*
 
 *[p. 354]* ^pg369
 
@@ -699,7 +699,7 @@ Human Measures of Time
 tithis tattrihśatā māsas te dvādaśa tu vatsaraḥ |
 abdari pitryas tv ahorātra udagdakṣinato ‘yanāt || 131 ॥
 pitRnār yat svamānena varṣaṁ tad divyam ucyate |
-ṣaṣtyadhikaṁ ca triśatarn varṣānām atra mānuṣam || 132 || 
+ṣaṣtyadhikaṁ ca triśataṁ varṣānām atra mānuṣam || 132 || 
 
 Six (full) breaths (of four seconds each) make a \[illegible\] (twenty-four seconds), sixty caṣakas a nālī (twenty-four minutes), the same (number) of those a lunar day, thirty (days) a month, and twelve (months) a year. One (of our) years is for the ancestors (pitr) a day and a night, which correspond to the movement of the sun from the north to the south. A year of the ancestors, in accord with their own measure, is said to be one of the gods (divya), which is three hundred and sixty[^305] human years here. (130cd-132) (130-132ab) 
 
@@ -855,7 +855,7 @@ The Night and Day of Brahmā
 ्र्माहोऽन्ते कालवहेरवाला योजनलक्षिणी दग्ध्वा लोकत्रयं धूमात्त्वन्यत्परस्वापयेत्रयम् ॥ १४१ ॥
 
 brahmāho ‘nte kālavahner jvālā yojanalakṣiṇī |
-dagdhvā lokatrayarn dhūmāt tv anyat prasvāpayet trayam || 141 || 
+dagdhvā lokatrayaṁ dhūmāt tv anyat prasvāpayet trayam || 141 || 
 
 At the end of a day of Brahmā, once the blaze of Kālāgni (the Fire of Time), that extend for 100,000 leagues (yojana)," has burnt up the three worlds, it puts to sleep the other three by (its) smoke. (141) (140cd-141ab) 
 
@@ -1163,9 +1163,9 @@ with ‘the lifespan’ and ending with ‘termed Equality’.
 pradhāne yad ahorātraṁ tajjań varṣaśataṁ vibhoḥ | 153 ॥
 śrīkaṇthasyāyur etac ca dinan kañcukavāsinām |
 tatkramān niyatiḥ kālo rāgo vidyā kalety amī ॥ 154 ॥
-\[illegible\] anyonyaṁ layarn teṣām āyur gāhanikarni dinam | 
+\[illegible\] anyonyaṁ layaṁ teṣām āyur gāhanikarni dinam | 
 
-The lifespan of the Lord Śrikanṭha is one hundred years, made of the days and nights in Fundamental (Nature) (pradhāna). It is equivalent to a day of (the Rudras,) who reside in the Obscuring Coverings (kañcuka). These, namely, Necessity (niyati), Time (kāla), Attachment (rāga), (Power of Limited) Knowledge (vidyā) and (Power of Limited) Action \[illegible\] dissolve successively into one another. The life of those (Rudras who reside there) is equal to a day of Gahaneśa. (153cd-155ab) (153-154) 
+The lifespan of the Lord Śrikanṭha is one hundred years, made of the days and nights in Fundamental (Nature) (pradhāna). It is equivalent to a day of (the Rudras,) who reside in the Obscuring Coverings (kañcuka). These, namely, Necessity (niyati), Time (kāla), Attachment (rāga), (Power of Limited) Knowledge (vidyā) and (Power of Limited) Action (kalā), dissolve successively into one another. The life of those (Rudras who reside there) is equal to a day of Gahaneśa. (153cd-155ab) (153-154) 
 
 #### Viveka on 6.153–154
 
@@ -1196,7 +1196,7 @@ The (length of a) Day of Gahaneśa, that is, the measure of time Unmanifest (Nat
 
 taddinaprakṣaye \[illegible\] \[illegible\] \[illegible\] pravilīyate || 155 ॥
 kṣīṇāyāṁ niśi tāvatyāṁ gahaneśaḥ sṛjet punaḥ |
-evam avyaktakālaīi tu parārdhair daśabhir jahi ॥ 156 II māyāhas tāvatī rātrir bhavet pralaya eṣa saḥ | 
+evam avyaktakālaīi tu parārdhair daśabhir jahi ॥ 156 ॥ māyāhas tāvatī rātrir bhavet pralaya eṣa saḥ | 
 
 At the end of his Day, the universe dissolves into Māyā, and at the end of the Night, which is the same length (as the day), Gahaneśa creates it again. To obtain the length of a day of Māyā, multiply the duration of (a Day of) Unmanifest (Nature) (prakṛti) by ten times a trillion (parārdha).\* Such also is its Night, which is (the period of) dissolution (pralaya). (155cd- 157ab) (155-156) 
 

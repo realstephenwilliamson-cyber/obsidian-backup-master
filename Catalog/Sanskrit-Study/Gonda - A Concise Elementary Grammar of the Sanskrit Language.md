@@ -19,8 +19,7 @@ language:
   - Sanskrit
 pages: 81
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Gonda, Ford (tr.) - A Concise Elementary Grammar of the Sanskrit Language.pdf]]"
   - "[[Library/Sanskrit/A Concise Elementary Grammar of the Sanskrit Language (Gonda)/A Concise Elementary Grammar of the Sanskrit Language (Gonda)]]"

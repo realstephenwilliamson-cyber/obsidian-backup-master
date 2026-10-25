@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Deleuze, Guattari - A Thousand Plateaus]]"
 book: "[[Library/Philosophy/A Thousand Plateaus (Deleuze, Guattari)/A Thousand Plateaus (Deleuze, Guattari)|A Thousand Plateaus (Deleuze, Guattari)]]"
 order: 9
 source_pdf: "Library/Philosophy/Deleuze, Guattari - A Thousand Plateaus (1987).pdf"
-pages: "196–214"
+page_range: "196–214"
 pdf_pages: "217–256"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15

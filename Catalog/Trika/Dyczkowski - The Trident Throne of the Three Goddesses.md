@@ -18,8 +18,7 @@ language:
   - English
 pages: 7
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The Trident Throne of the Three Trika Goddesses.pdf]]"
   - "[[Library/Trika/The Trident Throne of the Three Goddesses (Dyczkowski)]]"

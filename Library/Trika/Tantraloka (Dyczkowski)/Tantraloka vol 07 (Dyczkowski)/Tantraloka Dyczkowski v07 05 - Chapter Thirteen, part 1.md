@@ -96,7 +96,7 @@ which consists of sattva and the other (experiential qualities in a balanced sta
 
 Intent on establishing the sequence (of the forms of) the descent of the power (of grace), ‘this is said there’ with regards to the things that need to be done. These are to discern (the differences between our own) and others’ (views concerning the nature of the) descent of the power of (grace), and (those aspects of them) with which we are in agreement. (So too, to) refute those (views with which we are not in agreement,) and expound our own view. This is the meaning. (All) ‘this’ (sphere of perceptible (objective) existence, ranging) from the intellect up to Earth, ‘partakes (of the experience of) pleasure, pain and delusion (corresponding to the three qualities of sattva, rajas and tamas)’, and so is ‘unbalanced (viṣama)’. The meaning is that it is the form (of Nature that) consists of the qualities of sattva and the rest, that are in a state of predominance and subordination with respect to one another. ‘(This objective existence) is such’, that is, its nature is pleasure, pain and delusion. The ‘state of equilibrium (sama)’ is one in which the qualities are not in a state of predominance and subordination (with respect to one another). This is the meaning. Thus, it is said that ‘Nature (prakṛti) is the state of equilibrium of (its qualities of) sattva, rajas and tamas. That is (the preceding) ‘cause’ (of the unbalanced state). 
 
-Surely (one may ask), this (notion that the sphere of objectivity) is the unbalanced state (of the qualities of Nature), and that its state of repose is one of equilibrium, is the Sāṁńkhya view. Moreover, (the Sāṁkhya maintains that) the state of equilibrium is eternal, one, and not preceded by (a prior) cause. Thus, no (metaphysical) principle \[illegible\] beyond that which serves as its cause can possibly exist. So what more (can there be to add to that view)? 
+Surely (one may ask), this (notion that the sphere of objectivity) is the unbalanced state (of the qualities of Nature), and that its state of repose is one of equilibrium, is the Sāṁńkhya view. Moreover, (the Sāṁkhya maintains that) the state of equilibrium is eternal, one, and not preceded by (a prior) cause. Thus, no (metaphysical) principle (tattva) beyond that which serves as its cause can possibly exist. So what more (can there be to add to that view)? 
 
 With this doubt in mind, he says ‘this is’ (Unmanifest (Nature) (avyakta), which consists of sattva and the other (experiential qualities). The logical formulation (prayoga) (of our view is as follows). Unmanifest Nature (avyakta) is an effect because, insofar as it is insentient, it is multiple (and so cannot be a unitary ultimate cause). That which is insentient is multiple, and it is all (entirely) an effect (of some prior cause), as is (for example) a jar. That which is not an effect (of a prior cause) is sentient, as is the Self, in which case 
 
@@ -110,7 +110,7 @@ Self, which is conscious.’
 
 As Unmanifest Nature is an effect, what (then) is its cause? Thus (in response to this question), it is said that ‘the sole cause of this (objectivity is Māyā), the Night \[illegible\] . 
 
-Surely (then, the Sāṁkhya opponent may object that), agreed that your Māyā is like our Nature, the cause of all things, then what is the need to also (postulate the existence of) the Lord \[illegible\] who presides over it? With this doubt in mind, he says: 
+Surely (then, the Sāṁkhya opponent may object that), agreed that your Māyā is like our Nature, the cause of all things, then what is the need to also (postulate the existence of) the Lord (īśvara), who presides over it? With this doubt in mind, he says: 
 
 ### TĀ 13.5–6
 
@@ -166,7 +166,7 @@ How can Karma be Destroyed?
 ### TĀ 13.7
 
 पुंसश्च निर्विशेषत्वे मुक्ताणुन् प्रति किं न तत् ।
-pursaś ca nirviśeṣatve muktāṇūn prati kirn na tat | 
+pursaś ca nirviśeṣatve muktāṇūn prati kiṁ na tat | 
 
 (If this is true, the question arises that, as) no individual soul is qualitatively different (from any other, as they are all essentially consciousness,) why is that (type of experience) not (generated) for liberated souls also? (7ab) 
 
@@ -367,8 +367,8 @@ The Nature of Ignorance
 प्रागभावोऽथवा ध्वंस आद्ये किं सर्वसंविदाम् । १६ ॥
 कस्यापि वाथ ज्ञानस्य प्राच्यः पक्षस्त्वसंभवी ।
 
-ajñānam iti yat proktarn jñānābhāvaḥ sa cet sa kim |
-prāgabhāvo ‘thavā dhvaṁsa ādye kirn sarvasaṁvidām ॥ 16 ॥
+ajñānam iti yat proktaṁ jñānābhāvaḥ sa cet sa kim |
+prāgabhāvo ‘thavā dhvaṁsa ādye kiṁ sarvasaṁvidām ॥ 16 ॥
 kasyāpi vātha jñānasya prācyaḥ pakṣas tv asarṁbhavī | 
 
 (Again,) is what is called ignorance (just) an absence of knowledge? If so, does this absence precede (the arising of knowledge) (prāgabhāva) or is it (subsequent to its) destruction? In the first case, is it an absence of all (forms of) cognitive consciousness (saṁvid) or of (just) some kind of knowledge? The former alternative is impossible. (16-17ab) 
@@ -601,7 +601,7 @@ association (of his Karma) with false knowledge (as an ancillary cause), (but) h
 यद्यपि ज्ञानवान्भूत्वा विधत्ते कर्म किञ्चन ॥ २९ ॥
 विफलं स्यात्त तत्ूरवकर्मराशो का गतिः ।
 
-yady api jñānavān bhūtvā vidhatte karma kiñcana |I 29 ॥
+yady api jñānavān bhūtvā vidhatte karma kiñcana ॥ 29 ॥
 viphalari syāt tu tatpūrvakarmarāśau tu kā gatiḥ | 
 
 Even if, once having become a man of knowledge, whatever Karma he creates would bear no consequences, what is the condition (gati) (and destiny) of the previous Karma (he) accumulated (before he achieved that liberating knowledge? Why should that be sterile)? (29cd-30ab) 
@@ -620,7 +620,7 @@ Surely, (the opponent may rejoin, alright,) what is (the need) for us (to mainta
 
 atha pralayakāle ‘pi citsvabhāvatvayogataḥ ॥ 30 ॥
 anṇūnāṁ sańibhavaty eva \[illegible\] mithyeti tat kutaḥ |
-svabhāvād iti cen mukte śive vā kirn tathā na hi || 31 ॥ 
+svabhāvād iti cen mukte śive vā kiṁ tathā na hi || 31 ॥ 
 
 Now, (you may reply that) it is possible for individual souls? to possess (some) knowledge even when cosmic destruction (pralaya) (takes place,) because of (their) connection with (their) (own essential) conscious nature. (But in that case, we reply by asking,) how could that (knowledge) be false? If you were to say that that is the essential nature (of knowledge itself), why then is it absent in that form (fathā) within Śiva, who is liberated? (30cd-31) 
 
@@ -633,7 +633,7 @@ Now, (you may reply that) it is possible for individual souls? to possess (some)
 
 *[p. 141]* ^pg161
 
-liberated souls or even Siva not be conjoined to false knowledge? Thus, he says: ‘why then is it absent in that form \[illegible\] within Śiva?’ 
+liberated souls or even Siva not be conjoined to false knowledge? Thus, he says: ‘why then is it absent in that form (tathā) within Śiva?’ 
 
 Surely, here (in this context), the intention was not to refer to ignorance in general (sāmānyena); rather (the reference here is to that ignorance which is) the absence of insight, which is the discerning discrimination (viveka) between Nature (prakṛti) and the individual soul, as is taught by the followers of Sāṁkhya. He says just that: 
 
@@ -715,7 +715,7 @@ Liberating Separation from Nature
 buddhir evāsmi vikṛtidharmikānyas tu ko ‘py asau |
 madvilakṣaṇna ekātmety evar vaiviktyasaṁvidi || 35 ॥
 pumarthasya kṛtatvena sahakāriviyogataḥ |
-tarn pumāmsaṁ prati naiva sūte kirn tv anyam eva hi | 36 ॥ 
+tarn pumāmsaṁ prati naiva sūte kiṁ tv anyam eva hi | 36 ॥ 
 
 The consciousness of ‘separation[^308] (vaiviktyasańvid) (consists of the insight that) “I am the intellect, which is a modification (vikṛti) (of Nature). There is a certain (other inscrutable reality) which is quite different (vilakṣaṇa) from me, that is, the solitary (eka) Self.” (When this insight arises,) and the soul has realized its goals, it separates itself from (Nature and the disposition) associated with it (to assist the individual soul to have worldly experience). Thus, (Nature) no longer generates (its products) for that soul, but however, (continues to do so) for another. (35-36) 
 
@@ -897,7 +897,7 @@ One should state in this way (the nature of) some obscuring covering that limits
 tasmād ajñānaśabdena jṁñatvakartṛtvadharmānām I| 43 I|
 cidanūnām āvaraṇari kiñcid vācyari vipaścitā | 
 
-Thus, an intelligent person should say that the term ‘ignorance’ refers to some kind of \[illegible\] obscuring covering (that envelops) the individual oci of consciousness (cidāṇnu) that are endowed with the 
+Thus, an intelligent person should say that the term ‘ignorance’ refers to some kind of (kiñcit) obscuring covering (that envelops) the individual oci of consciousness (cidāṇnu) that are endowed with the 
 
 attributes“ of subjectivity and agency. (43cd-44ab) 
 
@@ -954,7 +954,7 @@ bhede pramāṇābhāvāc ca tad ekar nikhilātmasu |
 
 tac ca kasmāt prasūtaṁ 5) \[illegible\] māyātaś cet kathaṁ nu sā ॥ 45 ॥
 kvacid eva suvītaitan na tu muktātmanīty ayam |
-prācyaḥ paryanuyogaḥ syān nimittarn cen na labhyate ॥ 46 ॥
+prācyaḥ paryanuyogaḥ syān nimittaṁ cen na labhyate ॥ 46 ॥
 utpattyabhāvatas tena nityaṁ na ca vinaśyati | 
 
 Again, from what could that (obscuring covering) be born? If it (were to be born) from Māyā, how could (Māyā) generate it in some place (for fettered) souls and not for those who are liberated? The previous objection would apply (here also).” Again, if (you try and avoid this problem by saying that) there is no (instrumental) cause (nimitta) (of this obscuring covering), thus (the obscuration is just an illusion and so) it does not (really) come into being, then it would be permanent and so is not destroyed. (45cd-47ab) 
@@ -1007,7 +1007,7 @@ Surely, (one may ask, alright,) agreed that that is so, (but) what serves to lin
 ### TĀ 13.48 (2)
 
 न चैतेनात्मनां योगो हेतुमांस्तदसंभवात् ।॥ ४८ ॥
-na caitenātmanāṁ yogo hetumāṁs tad \[illegible\] || 48 I| 
+na caitenātmanāṁ yogo hetumāṁs tad \[illegible\] || 48 || 
 
 326?\. \[illegible\] pumāvaraṇalakṣaṇāyām arthakriyāyām asya kartṛtvād literaly means ‘because it possesses agency in the causal efficacy, the characteristic of which is the shrouding of the soul.”
 
@@ -1137,7 +1137,7 @@ That is this (process of illumination,) termed in the scriptures ‘the descent 
 
 *[p. 157]* ^pg177
 
-\[illegible\] is the touch of Śiva’s rays we are discussing (prakrānta) that causes the maturing of Impurity. (It is) ‘this’ that was discussed previously, as directly apparent (to the senses). ‘It is termed’ (a descent of the power of grace) by the venerable teacher Khetapāla and other (Siddhāntins after him), who establish (this terminology) as their own conventional usage (samaya).” This is the meaning. 
+\[illegible\] is the touch of Śiva’s rays we are discussing (prakrānta) that causes the maturing of Impurity. (It is) ‘this’ that was discussed previously, as directly apparent (to the senses). ‘It is termed’ (a descent of the power of grace) by the venerable teacher Kheṭapāla and other (Siddhāntins after him), who establish (this terminology) as their own conventional usage (samaya).” This is the meaning. 
 
 Having presented others’ teaching (vidhi) concerning the descent of the power (of grace), he (now) refutes it. 
 
@@ -1147,7 +1147,7 @@ Having presented others’ teaching (vidhi) concerning the descent of the power 
 इति पूवीहिणके प्रोक्तं पुनरुक्तौ तु कि फलम् ॥ ५३ ॥
 
 atrocyate malas tāvad ittham eṣa na yujyate |
-iti pūrvāhṇike proktarn punaruktau tu ki phalam |I 53 ॥ 
+iti pūrvāhṇike proktaṁ punaruktau tu ki phalam ॥ 53 ॥ 
 
 Here (in response to this view), it is said that this (concept of) Impurity (mala) in this way is untenable. This has been discussed in a previous chapter. What (would be) gained by repeating what has been said 
 
@@ -1172,7 +1172,7 @@ from the Dualist Point of View
 malasya pākaḥ ko ‘yarn syān nāśaś ced itarātmanām |
 sa eko mala ity ukter nairmalyam anuṣajyate ॥ 54 ॥
 atha pratyātmaniyato ‘nādiś ca prāgabhāvavat |
-malo naśyet tathāpy eṣa nāśo yadi sahetukaḥ ॥ 55 Il hetuḥ karmeśvarecchā vā karma tāvan na tādṛśam | 
+malo naśyet tathāpy eṣa nāśo yadi sahetukaḥ ॥ 55 ॥ hetuḥ karmeśvarecchā vā karma tāvan na tādṛśam | 
 
 337?\. Kheṭapāla, also called Sadyojyotiṣ, is the earliest known exponent of the dualist school of Śaivism, which holds that ignorance is a cover that hides the perfection of the Self with respect to its knowledge and action (see Pandey p. 451-60).
 

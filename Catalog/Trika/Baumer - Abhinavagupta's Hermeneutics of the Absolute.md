@@ -17,8 +17,7 @@ language:
   - English
 pages: 351
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Baumer - Abhinavagupta's Hermeneutics of the Absolute, Anuttaraprakriya.pdf]]"
   - "[[Library/Trika/Abhinavagupta's Hermeneutics of the Absolute (Baumer)/Abhinavagupta's Hermeneutics of the Absolute (Baumer)]]"

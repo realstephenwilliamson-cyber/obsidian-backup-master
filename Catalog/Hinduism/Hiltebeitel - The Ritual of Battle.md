@@ -17,8 +17,7 @@ language:
   - English
 pages: 373
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Hiltebeitel - The Ritual of Battle (1990).pdf]]"
   - "[[Library/Hinduism/The Ritual of Battle (Hiltebeitel)/The Ritual of Battle (Hiltebeitel)]]"

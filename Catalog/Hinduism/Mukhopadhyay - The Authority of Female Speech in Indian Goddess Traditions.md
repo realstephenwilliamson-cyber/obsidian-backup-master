@@ -17,8 +17,7 @@ language:
   - English
 pages: 177
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Mukhopadhyay - The Authority of Female Speech in Indian Goddess Traditions (2020).pdf]]"
   - "[[Library/Hinduism/The Authority of Female Speech in Indian Goddess Traditions (Mukhopadhyay)/The Authority of Female Speech in Indian Goddess Traditions (Mukhopadhyay)]]"

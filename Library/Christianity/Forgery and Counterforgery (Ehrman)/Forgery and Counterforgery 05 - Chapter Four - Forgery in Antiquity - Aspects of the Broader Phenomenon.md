@@ -6,7 +6,7 @@ page_range: "69–92"
 ---
 [[Forgery and Counterforgery 04 - Chapter Three - Terms and Taxonomies|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 06 - Chapter Five - Forgery in Antiquity - Motives, Techniques, Intentions, Justifications, and Criteria|next →]]
 
-[p. 69]
+[p. 69] ^pg69
 
 ## Chapter Four: Forgery in Antiquity - Aspects of the Broader Phenomenon
 
@@ -64,7 +64,7 @@ In addition, Irenaeus mentions numerous apocryphal and inauthentic writings by t
 
 As a net result, there is certainly no lack of materials from antiquity related to forgery—pagan, Jewish, and Christian. All the odder, as I indicated at the outset, that there are so few studies devoted to the topic. There are to be sure explorations of individual cases in droves,[^25] as well as extensive studies of the relationship between pseudepigraphy and canon.[^26] And there are articles written on this or that aspect of the broader problem,[^27] many of them compiled into valuable collections.[^28] But where are the monographs?[^29]
 
-[p. 78]
+[p. 78] ^pg78
 
 ### FALSE AUTHORIAL CLAIMS AND INTELLECTUAL PROPERTY
 

@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 449
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Nemec - The Ubiquitous Siva, vol. I (2011).pdf]]"
   - "[[Library/Trika/The Ubiquitous Siva (Nemec)/The Ubiquitous Siva (Nemec)]]"

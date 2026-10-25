@@ -70,7 +70,7 @@ Rabbi Tanḥum said, “Similarly in the time to come: With compassion He struck
 
 # REFERENCE MATTER
 
-[p. 588]
+[p. 588] ^pg588
 
 [^1]: **We have learned** The following short pericope is not found in printed editions of the *Zohar*. It is preserved in one manuscript alone (Ms2, Moscow, Guenzburg 262) and was published by Ronit Meroz. Some of the material found here does, however, appear in *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-20b|20b]], [[Zohar 10.04 - Parashat Noah#^zh-21c|21c–d]] (both *MhN*) and in *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-117b|1:117b–118a]] (*MhN*). For a masterful analysis of this entire unit, see Meroz, “Va-Ani Lo Hayiti Sham?,” 163–93.
 

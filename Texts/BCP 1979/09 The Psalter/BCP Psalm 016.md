@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 16
 verses: 11
-page_range:
-  - 600
-  - 600
+page_range: "600"
 aliases:
   - "BCP Psalm 16"
   - "BCP 600"
@@ -26,7 +24,7 @@ Hebrew text and JPS translation: [[Psalms 016]]
 I have said to the LORD, "You are my Lord,  
 my good above all other." ^16-1
 
-[p. 600]
+[p. 600] ^pg600
 
 **16:2** All my delight is upon the godly that are in the land, \*  
 upon those who are noble among the people. ^16-2

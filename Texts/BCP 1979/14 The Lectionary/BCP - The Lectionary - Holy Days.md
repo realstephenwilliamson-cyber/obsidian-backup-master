@@ -5,9 +5,7 @@ section: "The Lectionary"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Lectionary/Holy%20Days.html"
-page_range:
-  - 921
-  - 925
+page_range: "921–925"
 aliases:
   - "BCP 922"
   - "BCP 923"
@@ -18,19 +16,15 @@ aliases:
 
 [[BCP 1979]] · *The Lectionary* · pages 921–925
 
-[p. 921]
+[p. 921] ^pg921
 
 ## Holy Days
-
-****Psalm**** **Lessons**
 
 **St. Andrew** *November 30* · [[BCP Psalm 019#^19-1|19]] *or* [[BCP Psalm 019#^19-1|19:1-6]] · [[Torah 51 - Nitzavim#^30-11|Deuteronomy 30:11-14]] [[Romans 10#^10-8|Romans 10:8b-18]] [[Matthew 04#^4-18|Matthew 4:18-22]]
 
 **St. Thomas** *December 21* · [[BCP Psalm 126#^126-1|126]] · [[Habakkuk 2#^2-1|Habakkuk 2:1-4]] [[Hebrews 10#^10-35|Hebrews 10:35]]--11:1 John 20:24-29
 
-[p. 922]
-
-****Psalm**** **Lessons**
+[p. 922] ^pg922
 
 **St. Stephen** *December 26* · [[BCP Psalm 031#^31-1|31]] *or* [[BCP Psalm 031#^31-1|31:1-5]] · [[Jeremiah 26#^26-1|Jeremiah 26:1-9]],12-15 [[Acts 06#^6-8|Acts 6:8]]--7:2a,51c-60 [[Matthew 23#^23-34|Matthew 23:34-39]]
 
@@ -50,9 +44,7 @@ aliases:
 
 **The Annunciation** *March 25* · [[BCP Psalm 040#^40-1|40:1-11]] *or* [[BCP Psalm 040#^40-5|40:5-10]] *or* Canticle 3 or 15 · [[Isaiah 07#^7-10|Isaiah 7:10-14]] [[Hebrews 10#^10-5|Hebrews 10:5-10]] [[Luke 01#^1-26|Luke 1:26-38]]
 
-[p. 923]
-
-****Psalm**** **Lessons**
+[p. 923] ^pg923
 
 **St. Mark** *April 25* · [[BCP Psalm 002#^2-1|2]] *or* [[BCP Psalm 002#^2-7|2:7-10]] · [[Isaiah 52#^52-7|Isaiah 52:7-10]] [[Ephesians 04#^4-7|Ephesians 4:7-8]],11-16 [[Mark 01#^1-1|Mark 1:1-15]] *or* [[Mark 16#^16-15|Mark 16:15-20]]
 
@@ -72,9 +64,7 @@ aliases:
 
 **St. Mary Magdalene** *July 22* · [[BCP Psalm 042#^42-1|42:1-7]] · [[LXX Judith 09#^9-1|Judith 9:1]],11-14 [[2 Corinthians 05#^5-14|2 Corinthians 5:14-18]] [[John 20#^20-11|John 20:11-18]]
 
-[p. 924]
-
-****Psalm**** **Lessons**
+[p. 924] ^pg924
 
 **St. James** *July 25* · [[BCP Psalm 007#^7-1|7:1-10]] · [[Jeremiah 45#^45-1|Jeremiah 45:1-5]] [[Acts 11#^11-27|Acts 11:27]]--12:3 [[Matthew 20#^20-20|Matthew 20:20-28]]
 
@@ -94,9 +84,7 @@ aliases:
 
 **St. James of Jerusalem** *October 23* · [[BCP Psalm 001#^1-1|1]] · [[Acts 15#^15-12|Acts 15:12-22a]] [[1 Corinthians 15#^15-1|1 Corinthians 15:1-11]] [[Matthew 13#^13-54|Matthew 13:54-58]]
 
-[p. 925]
-
-****Psalm**** **Lessons**
+[p. 925] ^pg925
 
 **St. Simon & St. Jude** *October 28* · [[BCP Psalm 119#^119-89|119:89-96]] · [[Torah 53 - Ha'Azinu#^32-1|Deuteronomy 32:1-4]] [[Ephesians 02#^2-13|Ephesians 2:13-22]] [[John 15#^15-17|John 15:17-27]]
 

@@ -38,7 +38,7 @@ Reply to Objection 3. This objection considers the habit which inclines a power 
 
 ## Article 2. Whether there are several original sins in one man?
 
-Objection 1. It would seem that there are many original sins in one man. For it is written (Psalm 1:7): "Behold I was conceived in iniquities, and in sins did my mother conceive me." But the sin in which a man is conceived is original sin. Therefore there are several original sins in man.
+Objection 1. It would seem that there are many original sins in one man. For it is written ([[DRB Psalms 50#^50-7|Psalm 1:7]] [as printed; the verse is Ps 50:7 in the Douay-Rheims]): "Behold I was conceived in iniquities, and in sins did my mother conceive me." But the sin in which a man is conceived is original sin. Therefore there are several original sins in man.
 
 Objection 2. Further, one and the same habit does not incline its subject to contraries: since the inclination of habit is like that of nature which tends to one thing. Now original sin, even in one man, inclines to various and contrary sins. Therefore original sin is not one habit; but several.
 

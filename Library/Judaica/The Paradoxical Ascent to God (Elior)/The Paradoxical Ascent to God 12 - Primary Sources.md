@@ -4,7 +4,7 @@ work: "[[Catalog/Judaica/Elior - The Paradoxical Ascent to God]]"
 book: "[[Library/Judaica/The Paradoxical Ascent to God (Elior)/The Paradoxical Ascent to God (Elior)|The Paradoxical Ascent to God (Elior)]]"
 order: 12
 source_pdf: "Library/Judaica/Elior - The Paradoxical Ascent to God (1993).pdf"
-pages: "255–258"
+page_range: "255–258"
 pdf_pages: "278–281"
 text_source: "the PDF's earlier OCR text layer (a scan), PyMuPDF"
 converted: 2026-10-22

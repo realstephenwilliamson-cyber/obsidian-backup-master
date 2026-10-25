@@ -18,8 +18,7 @@ language:
   - English
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Texts/Aquinas/Aquinas - Summa Theologica/Aquinas - Summa Theologica]]"
 aliases:
@@ -38,7 +37,7 @@ The whole *Summa* in the translation of the Fathers of the English Dominican Pro
 
 The library has Aquinas's *Catena Aurea* on John as a book: [[Aquinas - Catena Aurea, St John]].
 
-Details from the source's own metadata, as the cloud build of October 2026 recorded them; not checked against a printed copy; `status: keep` since 14 Oct 2026, as a primary text kept as notes.
+Details from the source's own metadata, as the cloud build of October 2026 recorded them; not checked against a printed copy; accepted on 14 Oct 2026 as a primary text kept as notes.
 
 ## About
 

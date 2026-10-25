@@ -6,7 +6,7 @@ page_range: "367–406"
 ---
 [[Forgery and Counterforgery 12 - Chapter Eleven - Anti-Jewish Forgeries|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 14 - Chapter Thirteen - Forgeries Involving Debates over the Flesh|next →]]
 
-[p. 367]
+[p. 367] ^pg367
 
 ## Chapter Twelve: Forgeries Involving Church Organization and Leadership
 
@@ -158,7 +158,7 @@ We have already considered the Didascalia at some length with respect to the ant
 
 Some readers have suspected that the heightened emphasis on the role of the bishop in the life of the community is not simply descriptive of situations that widely obtained at the time of the author’s writing, but represent a plea to grant the bishop greater authority. It is striking that eight of the twenty-seven chapters of the book deal with the office, responsibilities, and behavior of the bishop. Charlotte Methuen contends that “the Didascalia must be seen as part of an ongoing struggle to establish a more hierarchical Church centered on the bishop, which led to the discrediting of other forms of authority and the groups which supported them.”[^36] In particular she has in mind church groups that stressed the possibility of women exercising authoritative roles in the work of teaching and baptizing, a matter to which we will turn momentarily. But it is also possible that the stress on the bishop was driven by broader concerns of localizing the power of the local congregation in the hands of one authority figure who was able thereby to marginalize and overturn schismatic and heretical factions advocating alternative forms of polity or the age-old bugbear, “false teaching.”
 
-[p. 388]
+[p. 388] ^pg388
 
 ##### The Celebration of Easter
 
@@ -254,7 +254,7 @@ Although, as Steimer indicates, there is a broad consensus that locates the Apos
 
 The work is a composite text consisting of a two-ways teaching similar to that found in the Didache, but placed on the pens of the twelve apostles ([[Forgery and Counterforgery 02 - Chapter One - Introduction|chs. 1]]–[[Forgery and Counterforgery 16 - Chapter Fifteen - Apologetic Forgeries|15]]),[^72] followed by a brief church order that deals with the appointment, qualifications, and duties of church officers (bishop, presbyters, readers, deacons, widows), as well as of laity and women ([[Forgery and Counterforgery 17 - Chapter Sixteen - Lies and Deception in the Cause of Truth|chs. 16]]–30), also given in first-person narrative by the apostles.[^73] Stewart-Sykes, as is his wont, provides a complex source and redactional analysis. An earlier influential assessment of sources was made by Adolf Harnack.[^74]
 
-[p. 397]
+[p. 397] ^pg397
 
 ##### The Pseudepigraphic Character and Polemic
 
@@ -288,7 +288,7 @@ We can see the same movement toward hierarchical structure play itself out, more
 
 The Ascension of Isaiah then presents a kind of counterattack against this move toward orthodox hierarchy. The settled, antiprophetic leadership of the church is peopled by covetous, boastful, and envious leaders who are “devoid of wisdom” and who move the community in the wrong direction. God speaks through the prophets—not merely the prophets of old, such as Isaiah, but through the prophets of the present day, who have visions of God and learn the truths necessary for the proper guidance of the community.
 
-[p. 401]
+[p. 401] ^pg401
 
 #### *The Coptic Apocalypse of Peter*
 

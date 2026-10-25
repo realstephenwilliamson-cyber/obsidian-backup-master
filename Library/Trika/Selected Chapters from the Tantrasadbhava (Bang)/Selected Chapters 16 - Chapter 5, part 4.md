@@ -433,7 +433,7 @@ Eight *kalaśa* pots are consecrated as *Vidyeśvaras* who bear the eight oceans
 
 Identical features of eight *kalaśas* and identical manner of decoration are mentioned in *Netratantra* 16.104-105*ed.* (ngmpp 43<sup>v</sup>5-44<sup>r</sup>1):
 
-*bāhye ’tra kalaśān aṣṭau pūrvādau pūjayet tataḥ |* *sitacandanakarpūrasudhūpāmodasaṃstutān*<sup>70</sup> || 104
+*bāhye ’tra kalaśān aṣṭau pūrvādau pūjayet tataḥ |* *sitacandanakarpūrasudhūpāmodasaṃstutān*[^70] || 104
 *ratnagarbhāmubusampūrṇān sarvauṣadhisamanvitān |* *sauvarṇān rājatāṃs tāmrāṃ mṛṇmayān vā suśobhanān ||* 105
 
 9.393-394b \[*Kalaśa* rites\] One should place \[the eight\] oceans beginning with Kṣāra (salty ocean) and ending with Garbhoda (*cf. Parākhyatantra* 5.109-111b) in \[the eight\] *kalaśa* pots; then, \[the eight pots\] should be regarded as the eight Vidyeśās, protectors of worlds, and placed on \[thrones made of\] the eight groups \[of consonants\]. And one should commence consecration.
@@ -442,7 +442,7 @@ Identical features of eight *kalaśas* and identical manner of decoration are me
 
 9.396c-397 \[After consecration\] Afterwards, once the *mantrin* has been consecrated, he should be anointed with white sandal power and wear a white garment and garland. \[The guru\] should lead \[the consecrated\] to God \[Śiva\]. And after \[the guru\] makes him worship \[Śiva\], \[the consecrated\] should fall down on the ground like a rod.
 
-<sup>70</sup>*◦saṃstutān* \] *em*.; *◦saṃstutā cod*.; *◦saṃyutān ed.*
+[^70]: *◦saṃstutān* \] *em*.; *◦saṃstutā cod*.; *◦saṃyutān ed.*
 
 *[p. 416]* ^pg428
 
@@ -566,7 +566,7 @@ This part is also found in *Niśvāsakārikā* 10.27c-28 as follows:
 
 *[p. 420]* ^pg432
 
-*saptajihvāvibhāgajño homakarma samārabhet || 27 jihvābhedena tattvajño juhyād yāgaṃ hutāśane ||* *yathā dāhayate karma tatsarvaṃ saphalaṃ bhavet || 28* <sup>76</sup> *One who knows the division of seven tongues should undertake the home ritual. The knower of tattva performs an offering to the fire according to \[the seven\] kinds of the fire. In a manner,* *a rite burns \[the past\] karman,\[in the same manner,\] all rite (karman) will be fruitful.*
+*saptajihvāvibhāgajño homakarma samārabhet || 27 jihvābhedena tattvajño juhyād yāgaṃ hutāśane ||* *yathā dāhayate karma tatsarvaṃ saphalaṃ bhavet || 28* [^76] *One who knows the division of seven tongues should undertake the home ritual. The knower of tattva performs an offering to the fire according to \[the seven\] kinds of the fire. In a manner,* *a rite burns \[the past\] karman,\[in the same manner,\] all rite (karman) will be fruitful.*
 
 The equivalent idea of both texts, the *Tantrasadbhāva* and *Niśvāsakārikā*, is that only one who knows the seven types of flames can bring forth a fruitful result from the rite. However, a missing correlative pronoun to the relative *yaḥ* and a causative verb in *Tantrasadbhāva* 419cd lead to the more complex syntax compared to the above passage of the *Niśvāsa* which seems to have been deliberately made unambiguous.
 
@@ -574,11 +574,11 @@ The equivalent idea of both texts, the *Tantrasadbhāva* and *Niśvāsakārikā*
 
 Corresponding to *Tantrasadbhāva* 9.420c-423 is *Niśvāsakārikā* 10.29-32b as follows:
 
-*hutvādyāgnividhānena pūjyāhutyā pratarpitam |* *tuṣyate yajamānasya santuṣṭo vṛṣabhadhvajaḥ || 29 aṅguṣthaparvavistīrṇā bahuhavyendhanocitāḥ |* *ekībhūtās tu tiṣṭhanti svalpahavyendhanena tu || 30 tatkuṇḍānapramāṇena mukham etad dhutāśane |* *jvālāmālāsahasrais tu pātālavadanaṃ smṛtam || 31 agneḥ prabodhanaṃ kṛtvā jihvānāṃ lakṣayet tadā |* <sup>77</sup>
+*hutvādyāgnividhānena pūjyāhutyā pratarpitam |* *tuṣyate yajamānasya santuṣṭo vṛṣabhadhvajaḥ || 29 aṅguṣthaparvavistīrṇā bahuhavyendhanocitāḥ |* *ekībhūtās tu tiṣṭhanti svalpahavyendhanena tu || 30 tatkuṇḍānapramāṇena mukham etad dhutāśane |* *jvālāmālāsahasrais tu pātālavadanaṃ smṛtam || 31 agneḥ prabodhanaṃ kṛtvā jihvānāṃ lakṣayet tadā |* [^77]
 
-<sup>76</sup>27c *◦vibhāgajño* \] T127; *◦vibhānajño* T17; *◦bhedena* T150 28a *dāhayate* \] *em*.; *dāharate* Σ 28b *yāgaṃ* \] T150; *yoga* T127; *yo unmet.*T17.
+[^76]: 27c *◦vibhāgajño* \] T127; *◦vibhānajño* T17; *◦bhedena* T150 28a *dāhayate* \] *em*.; *dāharate* Σ 28b *yāgaṃ* \] T150; *yoga* T127; *yo unmet.*T17.
 
-<sup>77</sup>29a *hutvādyāgni◦* \] T127 T150; *hutvāsyāgniṃ* T17 30b *◦nocitāḥ* \] *em*.; *◦nocitā* Σ 30d *svalpahavye◦* \] *em*.TaSa ; *svalahavye◦* T17 T127; *jvalakavye◦* T150 32b *lakṣayet tadā* \] T17 T127; *lakṣayen tadā* T150.
+[^77]: 29a *hutvādyāgni◦* \] T127 T150; *hutvāsyāgniṃ* T17 30b *◦nocitāḥ* \] *em*.; *◦nocitā* Σ 30d *svalpahavye◦* \] *em*.TaSa ; *svalahavye◦* T17 T127; *jvalakavye◦* T150 32b *lakṣayet tadā* \] T17 T127; *lakṣayen tadā* T150.
 
 *[p. 421]* ^pg433
 

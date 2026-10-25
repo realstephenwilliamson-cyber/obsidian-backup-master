@@ -18,8 +18,7 @@ language:
   - English
 pages: 206
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[Padoux, Jeanty (tr.) - The Heart of the Yogini (2013).pdf]]"
   - "[[Library/Trika/The Heart of the Yogini (Padoux)/The Heart of the Yogini (Padoux)]]"

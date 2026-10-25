@@ -20,8 +20,7 @@ language:
   - English
 pages: 25
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Ratie - Paramarthika or aparamarthika (2013).pdf]]"
   - "[[Library/Trika/Paramarthika or aparamarthika On the Ontological Status (Ratie)]]"

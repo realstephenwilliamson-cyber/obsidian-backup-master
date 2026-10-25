@@ -17,8 +17,7 @@ language:
   - English
 pages: 13
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[61-370-2-PB.pdf]]"
   - "[[Library/Philosophy/Merleau-Ponty (Bauer)]]"

@@ -5,9 +5,7 @@ section: "Pastoral Offices"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/PastoralOffices/reconciliation.html"
-page_range:
-  - 447
-  - 452
+page_range: "447–452"
 aliases:
   - "BCP 447"
   - "BCP 448"
@@ -20,7 +18,7 @@ aliases:
 
 [[BCP 1979]] · *Pastoral Offices* · pages 447–452
 
-[p. 447]
+[p. 447] ^pg447
 
 ## The Reconciliation of a Penitent
 
@@ -40,7 +38,7 @@ I confess to Almighty God, to his Church, and to you, that I have sinned by my o
 
 *Here the Priest may offer counsel, direction, and comfort.*
 
-[p. 448]
+[p. 448] ^pg448
 
 *The Priest then pronounces this absolution*
 
@@ -64,7 +62,7 @@ Go (or abide) in peace, and pray for me, a sinner.
 
 Our Lord Jesus Christ, who offered himself to be sacrificed for us to the Father, forgives your sins by the grace of the Holy Spirit. *Amen.*
 
-[p. 449]
+[p. 449] ^pg449
 
 ### Form Two
 
@@ -94,7 +92,7 @@ God so loved the world, that he gave his only-begotten Son, to the end that all 
 
 This is a true saying, and worthy of all men to be received, that Christ Jesus came into the world to save sinners. [[1 Timothy 01#^1-15|1 Timothy 1:15]]
 
-[p. 450]
+[p. 450] ^pg450
 
 If any man sin, we have an Advocate with the Father, Jesus Christ the righteous; and he is the perfect offering for our sins, and not for ours only, but for the sins of the whole world. [[1 John 02#^2-1|1 John 2:1-2]]
 
@@ -120,7 +118,7 @@ Will you turn again to Christ as your Lord?
 
 Penitent I will.
 
-[p. 451]
+[p. 451] ^pg451
 
 *Priest*
 
@@ -146,7 +144,7 @@ Now there is rejoicing in heaven; for you were lost, and are found; you were dea
 
 Penitent Thanks be to God.
 
-[p. 452]
+[p. 452] ^pg452
 
 ### Declaration of Forgiveness to be used by a Deacon or Lay Person
 

@@ -5,9 +5,7 @@ section: "The Collects"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Collects/commont.html"
-page_range:
-  - 195
-  - 199
+page_range: "195–199"
 aliases:
   - "BCP 195"
   - "BCP 196"
@@ -19,7 +17,7 @@ aliases:
 
 [[BCP 1979]] · *The Collects* · pages 195–199
 
-[p. 195]
+[p. 195] ^pg195
 
 ## The Common of Saints
 
@@ -41,7 +39,7 @@ O Almighty God, by whose grace and power thy holy martyr *N.* triumphed over suf
 
 *or the following*
 
-[p. 196]
+[p. 196] ^pg196
 
 Almighty and everlasting God, who didst enkindle the flame of thy love in the heart of thy holy martyr *N.*: Grant to us, thy humble servants, a like faith and power of love, that we who rejoice in *her* triumph may profit by *her* example; through Jesus Christ our Lord, who liveth and reigneth with thee and the Holy Spirit, one God, for ever and ever. *Amen.* ^collect-of-a-martyr-3
 
@@ -77,7 +75,7 @@ O Almighty God, who didst give to thy servant *N.* special gifts of grace to und
 
 *Preface of a Saint, or of Trinity Sunday*
 
-[p. 198]
+[p. 198] ^pg198
 
 ### Of a Monastic
 

@@ -17,8 +17,7 @@ language:
   - English
 pages: 393
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Ludvik - Sarasvati, Riverine Goddess of Knowledge (2007).pdf]]"
 aliases:

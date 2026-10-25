@@ -4,7 +4,7 @@ book: "[[Tantric Mantras (Padoux)]]"
 order: 4
 page_range: "24–53"
 ---
-[p. 24]
+[p. 24] ^pg24
 
 # 3 Japa[^1]
 

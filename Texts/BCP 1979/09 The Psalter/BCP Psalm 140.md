@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 140
 verses: 13
-page_range:
-  - 796
-  - 797
+page_range: "796–797"
 aliases:
   - "BCP Psalm 140"
   - "BCP 796"
@@ -61,7 +59,7 @@ and evil shall hunt down the lawless. ^140-11
 **140:12** I know that the LORD will maintain the cause of the poor \*  
 and render justice to the needy. ^140-12
 
-[p. 797]
+[p. 797] ^pg797
 
 **140:13** Surely, the righteous will give thanks to your Name, \*  
 and the upright shall continue in your sight. ^140-13

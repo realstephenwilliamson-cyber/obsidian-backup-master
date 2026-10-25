@@ -18,7 +18,7 @@ language:
 pages: 12
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[lyotardessay2017-02-09-125345.pdf]]"
   - "[[Library/Philosophy/Jean-Francois Lyotard (Trahair)]]"

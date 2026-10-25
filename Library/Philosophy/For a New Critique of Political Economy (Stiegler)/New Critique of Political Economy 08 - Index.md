@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Stiegler - For a New Critique of Political Economy]]
 book: "[[Library/Philosophy/For a New Critique of Political Economy (Stiegler)/For a New Critique of Political Economy (Stiegler)|For a New Critique of Political Economy (Stiegler)]]"
 order: 8
 source_pdf: "Library/Philosophy/For a New Critique of Political Economy (2010).pdf"
-pages: "143–154"
+page_range: "143–154"
 pdf_pages: "147–158"
 text_source: "fresh OCR with Tesseract 5 (eng) of the page images (the earlier OCR layer misread about a third of the words)"
 converted: 2026-10-22

@@ -17,8 +17,7 @@ language:
   - English
 pages: 20
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[malinivijayottaratantra_sanderson.pdf]]"
   - "[[Library/Trika/The Doctrine of the Malinivijayottaratantra (Sanderson)]]"

@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 Appendix B 
 
-The Wheel of Twelve \[illegible\] According to Chapter Seven of 
+The Wheel of Twelve Kālīs According to Chapter Seven of 
 
 the Ciñciṇīmatasārasamuccaya — The Collection of the Essence of the Tradition of (Kubjikā) the Goddess of the Tamarind Tree 
 
@@ -54,7 +54,7 @@ Niṣkriyānanda’s Hymn in Fifty Verses is recorded in the CMSS (7/189- 240). 
 
 *[p. 416]* ^pg429
 
-which is the Kaula reality of the Kaṅkāla Kula within the Sky.) She is the energy of Kaula Kaṅkāla, and so is the consuming fire of absorption (grāsa). The Manthānabhairavatantra refers to a form of Kālī called Kālakaṁkālakaulikī (KuKh 61/69). She is the \[illegible\] of the Skeleton of Time (KuKh 63/37). Kālakaṁkāla Bhairava governs the Wheel of Rudras in the cremation ground called Karavīra (KuKh 6/26), which is linked to the ‘tradition of the North’ and the Kālīkrama in a special way. Clearly, the ‘Skeleton’ represents Time, that Kālī consumes. Thus, we read: 
+which is the Kaula reality of the Kaṅkāla Kula within the Sky.) She is the energy of Kaula Kaṅkāla, and so is the consuming fire of absorption (grāsa). The Manthānabhairavatantra refers to a form of Kālī called Kālakaṁkālakaulikī (KuKh 61/69). She is the Kālī of the Skeleton of Time (KuKh 63/37). Kālakaṁkāla Bhairava governs the Wheel of Rudras in the cremation ground called Karavīra (KuKh 6/26), which is linked to the ‘tradition of the North’ and the Kālīkrama in a special way. Clearly, the ‘Skeleton’ represents Time, that Kālī consumes. Thus, we read: 
 
 ‘One's own form devoid of form is the form between form and non-form. The undifferentiated reality (niskala) is everywhere manifest (udita), free of Being and Nonbeing. Kālī, the Supreme Goddess who devours the Skeleton (kaṁkāla), is manifest (uditā) there. Once having drunk from the vessel of the sprout (kandala) of the Skeleton born of the nectar of the Sky, she is made to pulsate (ghūrmitā) and to vomit (vamitā), and so the universe comes into 
 
@@ -85,7 +85,7 @@ of the Twelve Kālīs; thus, they are her ‘family’ or aggregate of energies 
 
 The two Voids, like the two Suns, are the Twelve Kālis and the thirteenth. The former is immanent — the Emptiness of phenomena, and the latter transcendent — the Emptiness of the goddess’s eternal consciousness. Just as they emanate from one another, they consume each other. We have already observed that at the earliest stage exemplified by the passage in the JY, the Twelve Kālīs and the Thirteenth, the one \[illegible\] are juxtaposed as complementary polarities. These two Voids — the former the reflection (pratibimba) and the latter the original image (bimba) — the Wheel and the essential nature, Akula (or Kaula) and Kula, and the two Suns. According to the teachings of the Sūryakula (also called the Bhānavīkula) — the Kula of the Sun, the Twelve Kālīs are reflections that shine like the rays of the sun around the original form (bimba), which is the thirteenth Kālī in the centre. Thus, in a way, there are two Suns - the original form (bimba) and its twelvefold reflection that arises from it. The world of manifestation seemingly consumes its transcendental source even as it is born from it. 
 
-Bhānavī Kaulinī is known to the JY, but only mentioned once, in a passage found also in the CMSS." Clearly, there is a continuity from the Mata of the JY, which is inspired by the energy of the Mata, and transmits it and the Kālīkrama in general, of which this is a branch. The CMSS stresses that Kālī is the energy of the Sun (bhānavī), consisting of the twelve risen (suns). (204cd). The text repeatedly refers to the Twelve. This is because the twelve are the one Sun ~ ravi. These twelve, in other words, form a unit that is voraciously intent on devouring (grāsaghasmara), consuming and digesting into the Void of the Sky of consciousness within which the Sun rises. Although the CMSS preserves the identity of the \[illegible\] in the centre, the understanding of her nature has become more subtle by identifying her and her twelve-fold emanation as the Void. 
+Bhānavī Kaulinī is known to the JY, but only mentioned once, in a passage found also in the CMSS." Clearly, there is a continuity from the Mata of the JY, which is inspired by the energy of the Mata, and transmits it and the Kālīkrama in general, of which this is a branch. The CMSS stresses that Kālī is the energy of the Sun (bhānavī), consisting of the twelve risen (suns). (204cd). The text repeatedly refers to the Twelve. This is because the twelve are the one Sun ~ ravi. These twelve, in other words, form a unit that is voraciously intent on devouring (grāsaghasmara), consuming and digesting into the Void of the Sky of consciousness within which the Sun rises. Although the CMSS preserves the identity of the Kālī in the centre, the understanding of her nature has become more subtle by identifying her and her twelve-fold emanation as the Void. 
 
 1059?\. See verse 172 and note.
 
@@ -142,12 +142,12 @@ Bhairava said:
 
 punar anyaṁ pravakṣyāmi āmnāyagharam uttamam \[gh: ghana-\] |" 
 
-sāntasvarodayaṁi \[k kh gh: -daya\] padan janmādhārari tu \[k: ti; kh gh: \*\] khandinī Il 155 ॥ 
+sāntasvarodayaṁi \[k kh gh: -daya\] padan janmādhārari tu \[k: ti; kh gh: \*\] khandinī ॥ 155 ॥ 
 
 tatroditā devīkalā \[k kh gh: devi-\] kālī kaulikabhakṣinī 
 
 \[gh: kailika-\] |
-36b gh) kaulācārari kaulagarbharn \[k: kaula \* rbham\] kaulodayami \[k kh gh: - daya\] trikaulakam || 156 ॥
+36b gh) kaulācārari kaulagarbhaṁ \[k: kaula \* rbham\] kaulodayami \[k kh gh: - daya\] trikaulakam || 156 ॥
 tasmāt kauleśvarī devī kumārīkulabhakṣiṇī | 
 
 1 will tell (you) again something else, namely, the most excellent House (ghara) of the (northern) tradition. The energy of the goddess, Kālī, who consumes the Kaulika and (is Kundalini who is) Khandinī (who destroys all things), arises within the Foundation of Birth, the plane of the arising of (the energies of) the letters (svarodaya) (beginning with A and) ending with S. She is Kaulācāra, contains Kaula, is the arising of Kaula, and (so) is the triple Kaula,” and so she is the goddess Kauleśvarī who devours the Kumārīkula. (155-157ab) 
@@ -165,7 +165,7 @@ tasmāt kauleśvarī devī kumārīkulabhakṣiṇī |
 
 20a k) tatrāvatārar \[k: tatravatārai\] kṛtvā tu yatrastho \[all: -sthā\] tamaso muniḥ \[k gh: muni\] | 157 ॥ 
 
-kathitarn krodharājasya vedhasamikramanarii \[gh: -gańn\] kṛtam ॥ 158 ॥
+kathitaṁ krodharājasya vedhasamikramanarii \[gh: -gańn\] kṛtam ॥ 158 ॥
 paramāmnāyadivyaughaṁ \[k g gh: -divyoghańi\] karṇāt karnan \[all: karna\] kramar sthitam |
 38b g) ślokadvādaśanirbhinnaḥ \[k gh: snokadvādaśanibhinna; kh g: slokadvādaśanibhinnari\] sarṁpradāyaparisphuram || 159 ॥
 guruvaktragataṁ devi svānubhūtyaikalakṣaṇam |
@@ -183,7 +183,7 @@ kathayasva \[gh: -śŚva\] prasādena yena tuṣyāmy ahan prabho \[gh: prabhā\
 
 sṛnu devi pravakṣyāmi kālikākramam uttamam || 162 ॥
 18b kh) dvādaśaiva para bhadre \[g: \* dre\] saṁnpradāyaṁ vadāmy aham |
-aviluptaparāvyāptir bhedabhinnā \[all: -vyāptibhedabhinnā\] tu svaprabhā \[k kh 8: -bhām; gh: -bham\] Il 163 ॥
+aviluptaparāvyāptir bhedabhinnā \[all: -vyāptibhedabhinnā\] tu svaprabhā \[k kh 8: -bhām; gh: -bham\] ॥ 163 ॥
 vācām 
 
 atītaviśrāntir yoganidrā \[k g: 
@@ -205,7 +205,7 @@ Listen O goddess, I will tell you the most excellent Kālikākrama. O fair one, 
 kathayāmi mahājñānaṁ \[gh: -jñāna\] niṣkriya \[k g gh: nikriya; kh: nih kriyari\] śṛnu suvrate || 165 ॥
 ravipradīpako loke sūryamadhyād vinirgataḥ |
 ravir antargato bhānur \[k kh: bhānu g: g: bhānu\] bhāsayaty akhilam jagat ॥
-166 II bhānavī kaulinī yā sā tatpuñjabharitaṁ \[all: -paritarn\] jagat |
+166 II bhānavī kaulinī yā sā tatpuñjabharitaṁ \[all: -paritaṁ\] jagat |
 tatrotpannā mahāmantrā \[kh: mahāmāntrā\] bhairavāṣtāṣtayonayaḥ \[g: - yodayah\] ॥ 167 ॥
 20b k) ravibhānumayī devī \[g: devi\] \[illegible\] \[kh: -śrī\] kulagahvarī |
 37b gh) kṣobhānandā virāmā \[gh: virāma\] tu paśyate \[kh: pamśyate\] kulasantatiḥ \[k g gh: -santati\] ॥ 168 ॥ 
@@ -231,7 +231,7 @@ bhānavīkundamadhye tu layacakrari svabhāvataḥ |
 bhāvābhāvakṣayakṣīṇa \[k kh gh: -kṣayokṣīnṇnarni; g: -kṣoyokṣīnai\] yā cinoty \[g: yasvino-, anye: yaścino-\] aśarīriṇaḥ |
 sā cidā nihsvabhāvatvād \[k kh: niśvabhāvasvā; g: nisvabhāvatvā; gh: niścabhāvasvā\] sūryakulakṛṣodarī \[k kh: cchūryā-; g: chūryo-; gh: cchuryā-\] ॥
 171॥
-tatsvarūpoditaṁ \[illegible\] cidbhānvarkagatisthitam \[k g gh: -sthitah\] |
+tatsvarūpoditaṁ \[illegible\] cidbhānvarkagatisthitam \[k g gh: -sthitaḥ\] |
 pratibimbam ivābhāti \[k g gh: prata-\] bimbagrāsaikalampaṭam \[k kh: -padam\] ॥ 17211
 na kular kaulinīśaktir na svabhāvodayari tataḥ |
 na saṁhārasya saṁārari divyo ‘sau \[all: divyāsau\] sarvabhogabhuk \[gh: -tuk\] ॥ 17311
@@ -245,21 +245,21 @@ Kaulinī śakti (is the inscrutable Anākhyā, she) is not Kula (the Twelve Kāl
 
 Niṣkriyānanda and His Sexual Yoga 
 
-sṛstiḥ \[all: sṛṣtis\] sarvagatasyaiva samhārari kathayāmi te ॥ 174 Il rasenānandajami (> rasanā-) \[illegible\] yadā \[g: padā; gh: yādā\] grāhyena \[gh: grā \* na\] gṛhyate |
-\[illegible\] \[all: yadā\] pratyastamas tatra sa ca taṁ vṛttigocaram \[k: vrrtti-; kh: vṛttirn-\] |l 175 ॥
+sṛstiḥ \[all: sṛṣtis\] sarvagatasyaiva samhārari kathayāmi te ॥ 174 ॥ rasenānandajami (> rasanā-) \[illegible\] yadā \[g: padā; gh: yādā\] grāhyena \[gh: grā \* na\] gṛhyate |
+\[illegible\] \[all: yadā\] pratyastamas tatra sa ca taṁ vṛttigocaram \[k: vrrtti-; kh: vṛttiṁ-\] ॥ 175 ॥
 9 kh) 
 
 40ag 
 
 ) \[illegible\] \[k g: -vrrttih\] pralīnatvāj jāyate \[g: pralīnanvājāyate\] paramādbhutam |
-trikoṇnar tattrikonastharn \[k kh gh: ta-; gh: -stha\] suśiraṁn suśirāgragam \[k: - gratar; kh: suśirāgratam\] |l 176 ॥ 
+trikoṇnar tattrikonasthaṁ \[k kh gh: ta-; gh: -stha\] suśiraṁn suśirāgragam \[k: - gratar; kh: suśirāgratam\] ॥ 176 ॥ 
 
 1074?\. See above 156.
 
 
 *[p. 424]* ^pg437
 
-9 \[k gh: śūnya; g: strānya\] śūnyamukhe \[k: śūnyamukhai; g: strānyamukhai\] līnaṁ cittarn cittāntaroditam \[all: -rocitam\] |
+9 \[k gh: śūnya; g: strānya\] śūnyamukhe \[k: śūnyamukhai; g: strānyamukhai\] līnaṁ cittaṁ cittāntaroditam \[all: -rocitam\] |
 cidanādimahāyonau \[k kh: cipanādihāhānau; g: cidanādicidāhānau; gh: 
 
 gṛham\] ॥ 177 ॥
@@ -290,7 +290,7 @@ bhairava uvāca
 40b g) sṛnu devi \[g: devīḷ\] pravakṣyāmi samkrāmaṁmi yasya \[g: pasya\] satńikramam || 181 ॥
 sīlācitir munivaras \[k: silācitin munivaraṁ-; kh: silācitiy munivarami-; g: manivarar-\] tasya putras tapodhanaḥ \[k kh gh: pūtratapodhanam; g: putratayodhanaṁ\] |
 yogābhyāsarato \[k g: \[illegible\] kh: -jyāsarataṁ; gh: -tyāsaratarni\] devi siddhaḥ lall: siddha\] śāvararūpadhṛk \[all: sāvara-\] ॥ 182 ॥
-vidyānandeti vikhyāto \[all: -tam\] mahādhīravaraḥ \[all: -vararn\] priye |
+vidyānandeti vikhyāto \[all: -tam\] mahādhīravaraḥ \[all: -varaṁ\] priye |
 śmaśānavāsī \[k kh: -vāśī; gh: smaśānavāśi\] nityastho niśātanarataḥ \[all: nisā-\] paraḥ \[all: param\] ॥ 183 ॥
 siddhayogīndro \[k kh g: -yogendra; gh: -yoyendra\] vīraś \[all: vīrāś\] ca cakracārarataḥ \[k kh gh: -rati; g: -rata\] priye | 
 
@@ -304,8 +304,8 @@ Listen, O goddess, I will tell (you) about the transmission. The excellent sage 
 
 the Practice of the Assembly (cakracāra).” (182-184ab) 
 
-sivapīthaḥ \[g: -pīṭha\] mahādevi \[g: -devī\] śrīśailam \[k g gh: -saila\] devatāpriyam \[gh: priyern\] ॥ 184 II tasya uttaradigbhāge \[gh: -vigbhāge\] nānāśikharaparvate \[k gh: -sikhara-\] |
-tatra hemamayī divyaguhā \[all: divyami-\] siddhasurārcitā |l 185 ॥
+sivapīthaḥ \[g: -pīṭha\] mahādevi \[g: -devī\] śrīśailam \[k g gh: -saila\] devatāpriyam \[gh: priyeṁ\] ॥ 184 ॥ tasya uttaradigbhāge \[gh: -vigbhāge\] nānāśikharaparvate \[k gh: -sikhara-\] |
+tatra hemamayī divyaguhā \[all: divyami-\] siddhasurārcitā ॥ 185 ॥
 39a gh) tatrārādhanakami \[all: -dhanatami\] kṛtvā vidyāśikharam uttamam \[k kh gh: -saviram uttama; g: -seviram vattamaṁ\] | 
 
 1077?\. I understand the the Practice of the Assembly (cakracāra) to be sexual union (melāpa) with yoginīs and attendant behaviour.
@@ -334,10 +334,10 @@ munivara\] śrīniṣkriyānandam \[g: -niṣkriyo-\] uttamam || 187 ||
 
 O Great Goddess, Śrīśaila is a Śivapītha beloved and pleasing to the deities. To the north of it, on a mountain with many peaks, is a divine cave made of gold which is venerated by Siddhas and gods. Having worshipped the most excellent peak of (all) Vidyās there, the lord of yogis practiced devotion, desirous of the Knowledge of Inaction (niṣkriyājñāna). Bearing the form of a (wild tribal) Śābara, he practiced a more intense form of divine devotion. (Thus,) the excellent sage the venerable Niṣkriyānanda was pleased with him and transmitted the Kālikākrama to him by his unfailing words. He told him the knowledge of Vāmā, the sequence of fifty planes (corresponding to the verses of his hymn). (184cd-188) 
 
-The Hymn of Fifty Verses to the \[illegible\] by Niṣkriyānanda (Kālikākramapañcaśatika) 
+The Hymn of Fifty Verses to the Kālīs by Niṣkriyānanda (Kālikākramapañcaśatika) 
 
-teṣāṁi bhedarn vadiṣyāmi \[g: vadikhyāmi\] śṛnu sarvar tu pārvati |
-vibhaktodbhavacakrāntam \[k kh: vibhaktadbhava-; g: vibhaktyād-; gh: vibhaktādbhava\] gaganari gaganoditam ॥ 189 II dvādaśārkaprabhākālī \[all: dvādaśāṁka-\] vyomarūpā khabhakṣinī \[k kh gh: ścabhakṣanī; g: svabhakṣanī\] | (1) 
+teṣāṁi bhedaṁ vadiṣyāmi \[g: vadikhyāmi\] śṛnu sarvar tu pārvati |
+vibhaktodbhavacakrāntam \[k kh: vibhaktadbhava-; g: vibhaktyād-; gh: vibhaktādbhava\] gaganari gaganoditam ॥ 189 ॥ dvādaśārkaprabhākālī \[all: dvādaśāṁka-\] vyomarūpā khabhakṣinī \[k kh gh: ścabhakṣanī; g: svabhakṣanī\] | (1) 
 
 sphuratkṣīṇā \[g: sphurakṣīṇā\] svayami \[all: svarai\] kṣīṇāt \[k: kṣīnan; kh g gh: kṣīṇan\] tat \[gh: tan; g: ta\] \[illegible\] \[g: kṣvīṇai\] divyagocaram \[kh: -śocaraṁ\] I 190 I|
 21b k) kramasaṁhārasaihārari \[g: kramaṁ-\] pāramparyakramānugam | (2) 
@@ -355,10 +355,10 @@ svakulari \[gh: svakṣala\] svakulāfītai \[gh: -kṣalā-\] svapadań svapad�
 
 *[p. 427]* ^pg440
 
-39b gh) spṛstvā kālikramari divyarn uditarnń oghamandalam \[k: ūgha-\] | (3) manonmanapadāntasthaṁ cidarkodayamandalam ॥ 192 ||
-tadbhāvabhāvitarasai viśvaughasphuratejasam \[k g gh: visvogha-; k kh gh: - tekramarn MS g ends here\] | (4) 
+39b gh) spṛstvā kālikramari divyaṁ uditarnń oghamandalam \[k: ūgha-\] | (3) manonmanapadāntasthaṁ cidarkodayamandalam ॥ 192 ||
+tadbhāvabhāvitarasai viśvaughasphuratejasam \[k g gh: visvogha-; k kh gh: - tekramaṁ MS g ends here\] | (4) 
 
-bhittvā \[all: bhitvā\] bodhapadaṁ divyarn bodhabhāskarasevitam \[all: -vecitam\] ॥ 193॥
+bhittvā \[all: bhitvā\] bodhapadaṁ divyaṁ bodhabhāskarasevitam \[all: -vecitam\] ॥ 193॥
 drāvita cinmarīcibhiḥ \[all: cinmarīcībhiḥ\] pītvā tu rasam uttamam | (5) citsvarūpaparākāśaṁ \[k: -rūpa \* rākāśamni\] sadasadbhāvavarjitam || 194 I|
 tadantare \[all: tadantaraḥ\] mahārasari \[k, kh, g: sara-\] parākāśavijṛmbhitam \[k gh: parākāsa-\] | (6) 
 
@@ -389,8 +389,8 @@ kramar kulākulāmnāyami \[all: kula-\] yoginīyuktigocaram \[all: yoginī-; gh
 
 It is the Yoni (bhaga), beyond the plane of the Yoni (of Māyā). It is the teaching (mata) -that most excellent teaching. (The group of Twelve Kālīs) is the Krama. The tradition of Kula and Akula (which is its source) is the field of the contemplation (yukti) of the yoginīs. (9) (195cd-198ab) 
 
-\[illegible\] kāmāntaraṁṁ kāmam tejas \[all: tejarn\] tejeṣu \[kh: tejaṣu\] maithunam ॥
-198 II bhogan bhogāntara bhogan mataśaktiḥ \[k kh: -śakti; gh: yukti\] prakīrtitā fall: -tah} | (10) 
+\[illegible\] kāmāntaraṁṁ kāmam tejas \[all: tejaṁ\] tejeṣu \[kh: tejaṣu\] maithunam ॥
+198 II bhogan bhogāntara bhogan mataśaktiḥ \[k kh: -śakti; gh: yukti\] prakīrtitā fall: -taḥ} | (10) 
 
 rudraś ca rudraśaktiś (> rudrena rudraśaktyā) ca yaugapadyena mathitam \[k gh: yugapadmena bhaktitahn; kh: yugapadmena bhariktitari\] ॥ 199 ॥
 sarudraḥ drāvakami \[k: drāvakhaḥ; kh: drāvakhammi; gh: -ka\] khar \[k kh: ke\] khe \[gh: ke\] kaṅkālakulakaulikam \[k: kaṁkākekulakaulike; kh gh: karnikokela kukaulake\] | (11) 
@@ -420,7 +420,7 @@ antargagane yā kācit \[all: kāvin\] saṁvidānandanandinī || 203 ||
 
 *[p. 429]* ^pg442
 
-kaulakaṁkālakalayā \[kh: -kaṁkola-\] grāsaghasmararīūpinī I| 204 |l kālī kālāñjanī bhīmā dvādaśoditabhānavī \[k: 
+kaulakaṁkālakalayā \[kh: -kaṁkola-\] grāsaghasmararīūpinī || 204 || kālī kālāñjanī bhīmā dvādaśoditabhānavī \[k: 
 
 -sobhitabhānakī; kh: - bhitabhānakī; gh: dvādasodita-\] | (16) 
 
@@ -437,7 +437,7 @@ cidaciccakramadhyastho \[all: -krama \* stho\] yoganidrānubhāvitaḥ \[all: - 
 sūnyāśūnyāntaragataḥ sa \[all: śūnyaśüŭnyāntaragato na\] vindati kulātmakam |
 (18) 
 
-antargalitaciddhāmasvabhāvapadasaṁvidaḥ \[all: -cidvāma-; k kh: -sarn \* dah\] ॥ 207 II asau \[gh: anau\] parāparollāsaḥ \[k kh: pammaparollāsa; gh: pamyaparollāsa\] kālicakravijṛmbhitaḥ | (19) 
+antargalitaciddhāmasvabhāvapadasaṁvidaḥ \[all: -cidvāma-; k kh: -saṁ \* dah\] ॥ 207 ॥ asau \[gh: anau\] parāparollāsaḥ \[k kh: pammaparollāsa; gh: pamyaparollāsa\] kālicakravijṛmbhitaḥ | (19) 
 
 Located between the cycles (cakra) of consciousness and the unconscious, it is sanctified by the Sleep of Yoga (yoganidrā). He who is in between emptiness (śūnya) and fullness (aśūnya) attains the Kula nature. (18) 
 
@@ -461,15 +461,15 @@ It is the life of the living being, and it illumines the living being, which is 
 
 Contemplation born of Audacity (sahasa) is within Śiva’s abode. The supreme energy of the Process of Forceful (Realisation) (hatṭhakrama) should pierce through the form of cognition (mānavigraha) (and illumine it). (23) (208cd-212ab) 
 
-vyomātītaṁ vyomapadam udita \[gh: -mudinarn\] bhānavīkramam || 212 ॥
+vyomātītaṁ vyomapadam udita \[gh: -mudinaṁ\] bhānavīkramam || 212 ॥
 jvālāsahasratejādhyaṁ trailokyańi grāsaghasmaram | (24) 
 
 22b k) 20b kh) tridhāmodayamadhye \[k gh: -mādaya-; kh: -mādayamakhya\] tu cittejaparabhāvitaḥ ॥ 213 ॥
-nirviṣaṁ viṣjam ākramya kālakūṭtavibhakṣitam \[k kh: -tah\] | (25) 
+nirviṣaṁ viṣjam ākramya kālakūṭtavibhakṣitam \[k kh: -taḥ\] | (25) 
 
 kular kulākulāmnāyaṁ rasaḥ rasasamudbhavam \[k kh: rayasamudbhavari\] ॥
 214॥
-padaḥ padāpadātītaḥ \[all: padapadā-\] sthāna \[all: = \[illegible\] kaulikam uttamam | (26) 
+padaḥ padāpadātītaḥ \[all: padapadā-\] sthāna \[all: = sthāna\] kaulikam uttamam | (26) 
 
 The Liturgy of the Sun (bhānavīkrama) transcends 1) the Void and is 2) the risen plane of the Void. It is rich with the radiant energy of a thousand fires. It is the voracity of the devouring (grāsa) (consciousness that consumes) the three worlds. (24) 
 
@@ -497,7 +497,7 @@ It is pure with all the letters, beginning with the vowels, and the one devoted 
 (She is) 1) the energy of consciousness (bodhā) that awakens 2) the consciousness that has been awakened by 3) one’s own consciousness.[^1083] They penetrate into one another in consonance with the variety (vibheda) of the movement of the cycle (of Kālīs) (cakracāra). (29) (215cd-218ab) 
 
 svabhūmibhūmim ākrāntaṁ \[all: -nta\] khecaram ūrdhvakham uttamam \[k kh: khecanmūrddhakha-\] (one syllable too long) ॥ 218 ॥
-tadvadvīryāvabhāsena \[gh: -vabhāse \*\] pindar \[all: pinda\] spandatararn \[all: pindatarari\] gatam | (30) 
+tadvadvīryāvabhāsena \[gh: -vabhāse \*\] pindar \[all: pinda\] spandataraṁ \[all: pindatarari\] gatam | (30) 
 
 (12421407 \[all: -kāla\] svakālaṁ ca tyaktvā \[k: tyaktyā; gh: bhaktyā\] viśrāntayet \[k kh: -yen; gh: -yas\] sukhe \[k kh: mukhaṁ; gh: sukhar\] ॥ 219 ॥
 tatsukhe \[all: tatsukhaṁ\] krīdate yogī spṛṣtvā cittejamandalam | (31) 
@@ -543,7 +543,7 @@ Absorbing (into himself ~ ākṛṣya) the juice (rasa) of the root of the Void,
 He who contemplates the Kālīkrama, having become one (samarasa) in this way, the aeon (kalpa) is conceived within the aeon. It is conceived (vikalpita) by the conception (kalpa) of Kula (the Twelve Kālīs). (223-225ab) 
 
 23a k) kālicakram abhedam ca uditāvyaktamandalam || 225 ॥
-sthūlar \[all: sthūla\] sūkṣmaṁ tathā śūnyaṁ \[gh: \[illegible\] tricaitanyar \[all: -tanya\] layar gatam \[all: -gatah\] | (37) 
+sthūlar \[all: sthūla\] sūkṣmaṁ tathā śūnyaṁ \[gh: \[illegible\] tricaitanyar \[all: -tanya\] layar gatam \[all: -gataḥ\] | (37) 
 
 2la kh) tatra dhāmoditā kācid viśvākhyā \[k gh: visvākhya; kh: -khya\] sumarīcinī || 226 ॥
 bindunādakṣaye kṣīne sthāne citpadamandale | (38) 
@@ -661,13 +661,13 @@ bhairava uvāca
 
 sṛnu devi pravakṣyāmi rahasya kaulikāgamam \[gh: kolikā-\] ॥ 243 ॥
 gopanīyaṁ mahābhadre \[gh: -bhade\] tathāpi kathayāmi te |
-sṛṣtikālī \[k kh: -kāli\] sthitikālī samhāraṁ ca tṛtīyakam I| 244 ॥
+sṛṣtikālī \[k kh: -kāli\] sthitikālī samhāraṁ ca tṛtīyakam ॥ 244 ॥
 44a gh) raktakālī caturthī ca sukālī pañcamī smṛtā \[k: -tāṁ; gh: -taṁ\] |
 yamakālī tathā ṣaṣthī \[k gh: ṣastha\] mṛtyukālī ca saptamī || 245 ॥
 aṣtamī bhadrakālī ca paramārkā nava smṛtā \[all: smṛtāḥ\] |
-mahāmārtaṇdakālī ca daíśamī parikīrtitā \[all: -tāh\] ॥ 246 ॥
+mahāmārtaṇdakālī ca daíśamī parikīrtitā \[all: -tāḥ\] ॥ 246 ॥
 ekādaśī rudrakālī mahākālī tu dvādaśī |
-etad \[gh: eted-\] bhedakramar devi nāmasamijñā prakīrtitā \[all: -tāh\] ॥ 247 ॥ 
+etad \[gh: eted-\] bhedakramar devi nāmasamijñā prakīrtitā \[all: -tāḥ\] ॥ 247 ॥ 
 
 Bhairava said: 
 

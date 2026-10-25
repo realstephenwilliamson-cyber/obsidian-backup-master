@@ -5,9 +5,7 @@ section: "Proper Liturgies for Special Days"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/SpecialDays/concernvigil.html"
-page_range:
-  - 284
-  - 284
+page_range: "284"
 aliases:
   - "BCP 284"
 ---
@@ -15,7 +13,7 @@ aliases:
 
 [[BCP 1979]] · *Proper Liturgies for Special Days* · pages 284–284
 
-[p. 284]
+[p. 284] ^pg284
 
 ## Concerning the Vigil
 

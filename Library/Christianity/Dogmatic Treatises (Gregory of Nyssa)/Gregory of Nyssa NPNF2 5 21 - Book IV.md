@@ -4,7 +4,7 @@ work: "[[Catalog/Christianity/Gregory of Nyssa - Dogmatic Treatises]]"
 book: "[[Library/Christianity/Dogmatic Treatises (Gregory of Nyssa)/Dogmatic Treatises (Gregory of Nyssa)|Dogmatic Treatises (Gregory of Nyssa)]]"
 order: 21
 source_pdf: "Library/Christianity/Gregory of Nyssa - Dogmatic Treatises (NPNF2 5).pdf"
-pages: "290–327"
+page_range: "290–327"
 pdf_pages: "311–348"
 text_source: "PDF text layer (born-digital, CCEL), PyMuPDF"
 converted: 2026-10-22

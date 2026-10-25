@@ -17,8 +17,7 @@ language:
   - English
 pages: 34
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Vasudeva - Synaesthetic Iconography (2007).pdf]]"
   - "[[Library/Trika/Synsthetic Iconography (Vasudeva)]]"

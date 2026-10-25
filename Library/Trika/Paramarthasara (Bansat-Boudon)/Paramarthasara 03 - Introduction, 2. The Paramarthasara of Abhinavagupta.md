@@ -1,10 +1,14 @@
 ---
+type: book-chapter
+work: "An Introduction to Tantric Philosophy: The Paramārthasāra of Abhinavagupta with the Commentary of Yogarāja"
+order: 3
+page_range: "18–58"
 aliases:
   - Paramarthasara 03 - Introduction — 2. The Paramārthasāra of Abhinavagupta
 ---
 # Introduction — 2. The Paramārthasāra of Abhinavagupta
 
-[p. 18]
+[p. 18] ^pg33
 
 the possible exception of Nāgeśa’s grammatical reference — concern more
 or less the idea of jīvanmukti. Two among them (especially 81, the most
@@ -53,7 +57,7 @@ tatsparśavivarjitā bhavati//.
 87ĀPS 75: buddhvā vibhaktāṃ prakr̥tiṃ puruṣaḥ saṃsāramadhyago bhavati/ nirmuktaḥ sar-
 vakarmabhir ambujapattraṃ yathā salilaiḥ//.
 
-[p. 19]
+[p. 19] ^pg34
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 19
@@ -99,7 +103,7 @@ in due course.
 89See p. 35.
 90On the date of the MM, see Cox 2006; Sanderson 2007: 379, n. 479.
 
-[p. 20]
+[p. 20] ^pg35
 
 that it is indeed an epitome, a concise treatment of doctrine (see vv. 104
 and 105), it does nevertheless diverge from the type in two principal ways:
@@ -145,7 +149,7 @@ his own heart’ — the apparently straightforward authorial signature is
 qu’un simple exégète qui ne possède aucune originalité; c’est la raison pour laquelle nous ne
 donnons qu’un résumé de sa glose’ (Silburn PS: 20).
 
-[p. 21]
+[p. 21] ^pg36
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 21
@@ -195,7 +199,7 @@ the notion of kramamudrā, or mudrākrama; see also Sanderson 2007: 398ff.
 97See also, inter alia, the reference to the notion of ‘great Void beyond the Void’ (ma-
 hāśūnyātiśūnya), in YR ad 14 (n. 495).
 
-[p. 22]
+[p. 22] ^pg37
 
 cryptic references to the notion of supreme Speech, to the doctrine of
 phonemic emanation and the role of the mātr̥kās (vv. 10–11), to mudrās
@@ -243,7 +247,7 @@ of the image of the water-wheel (araghaṭṭaghaṭīyantra), in a similar con
 mentary ad 47 and in the Janmamaraṇavicāra: 18–19; 2) Vāmadeva’s citation (pp. 20–21)
 of the same two verses that YR had quoted in his commentary ad 83.
 
-[p. 23]
+[p. 23] ^pg38
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 23
@@ -288,7 +292,7 @@ the jīvanmukta.
 102See p. 52.
 103In supposing that the interpretation of YR reflects the views of AG.
 
-[p. 24]
+[p. 24] ^pg39
 
 Vv. 14–22: exposé of the thirty-six ‘principles’ (tattva), ontological
 categories or principles constitutive of the ‘pure path’ and the ‘impure
@@ -335,7 +339,7 @@ between macrocosmic (creation, etc.) and microcosmic (the four states,
 waking, etc.) modes of the Self (34); justification of the apparent para-
 104See n. 848, ad PS 39.
 
-[p. 25]
+[p. 25] ^pg40
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 25
@@ -383,7 +387,7 @@ model of the vedic ‘self-praise’ (ātmastuti). 106 The realization of the a
 106I call it ahaṃstuti, ‘[self-]praise of the “I” ’. Note that the first appearances of the key
 notion of the absolute ‘I’ are to be found in YR’s commentary ad 6 (see n. 369), with the con-
 
-[p. 26]
+[p. 26] ^pg41
 
 solute ‘I’ (aham), equally that of the yogin and that of the Lord, is char-
 acteristic of the ‘way of Śaṃbhu’ (śāṃbhavopāya), defined, as well, as the
@@ -433,7 +437,7 @@ maintenance, and reabsorption’. Cf. PS 48a: mayyeva bhāti viśvaṃ darpan
 of everything [that exists], that, being in evidence everywhere in virtue of being established
 first [as condition for everything else], he enjoins the creation and all that follows from it’.
 
-[p. 27]
+[p. 27] ^pg42
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 27
@@ -481,7 +485,7 @@ matical example of the verb yaj- ‘to sacrifice’, which, when inflected in
 110Cf. BSBh I 1, 4: aśarīratvaṃ mokṣākhyam; See YR ad 63, 70, 72 (and n. 1062), 79–80
 (and n. 1212).
 
-[p. 28]
+[p. 28] ^pg43
 
 the middle voice (yajate), implies that the yajamāna, the patron of the sac-
 rifice, is its beneficiary, but, when inflected in the active voice (yajati),
@@ -527,7 +531,7 @@ Vv. 81–88: new portrait of the jīvanmukta, again in quasi-philosoph-
 ical terms (81): the commentary borrowing from the Sāṃkhyakārikā the
 famous image of the potter’s wheel (without however acknowledging the
 
-[p. 29]
+[p. 29] ^pg44
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 29
@@ -578,7 +582,7 @@ consciousness [...]’.
 eva), is formed by the Fourth; and he transcends even that Fourth, once his body no longer
 exists’.
 
-[p. 30]
+[p. 30] ^pg45
 
 one has always been — whether he be a bound soul (paśu) or a ‘knower’
 (jñānin). No intervening accident, no unexpected shock is sufficient to de-
@@ -626,7 +630,7 @@ dented fashion (apūrvatvena). Thus, previous rehearsal (pūrvābhyāsa) is 
 whatever [effect ensues]. This is the purport’.
 115viśr̥ṅkhala, as it is said in the avat. ad 9.
 
-[p. 31]
+[p. 31] ^pg46
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 31
@@ -674,7 +678,7 @@ brings into focus, perhaps, the strategy of rewriting at issue here, where
 sometimes fidelity and coherence must be reconciled somewhat loosely.
 This borrowing from the older text does serve Abhinavagupta, however, in
 
-[p. 32]
+[p. 32] ^pg47
 
 facilitating his claim that liberation is universally accessible — witness the
 vibrant plea of Yogarāja in favor of the effort to obtain liberation (103).
@@ -720,7 +724,7 @@ tions of] conceit of self affecting the limited cognizer; it is not that any eve
 [really] take place in the reality that is consciousness — the ultimate truth [of this system]’;
 see n. 1039.
 
-[p. 33]
+[p. 33] ^pg48
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 33
@@ -768,7 +772,7 @@ ing that “it alone is the teaching that serves as a means for realizing the
 118PS 33.
 119See YR ad 60 and 69.
 
-[p. 34]
+[p. 34] ^pg49
 
 highest among the goals of human life.” ’
 Likewise, in his commentary on the first verse, Yogarāja appears to
@@ -815,7 +819,7 @@ the ultimate goal’.
 the Kashmirian exegetes, see, especially, Brunner, Somaśaṃbhupaddhati [SŚP], vol. III: XIII,
 and TAK, s.v. jīvanmukta (vol. II: 275ff.).
 
-[p. 35]
+[p. 35] ^pg50
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 35
@@ -865,7 +869,7 @@ only the hero’s determination not (na) to let his foe escape (muktaḥ) alive 
 battle. The locution is found in the affirmative in the Harivaṃśa: jitaḥ ... jīvan muktaś ca
 viṣṇunā, ‘vanquished, he was released alive by Viṣṇu’. The context here is clearly not “mukti”
 
-[p. 36]
+[p. 36] ^pg51
 
 Even its technical interpretation is there: are ‘free while alive’ those that
 “act” no more, but are obliged to live out their prārabdhakarman, because
@@ -912,7 +916,7 @@ texte est la plus ancienne référence à la jīvanmuktiḥ et peut-être le se
 emploie le terme technique de jīvanmukta’.
 128See Utpalavaiṣṇava’s exegesis, p. 41.
 
-[p. 37]
+[p. 37] ^pg52
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 37
@@ -962,7 +966,7 @@ eva mahāprayojanatvaṃ nirvāhitam//.
 132… which serves also to describe the two final ‘states’ (avasthā), turya and turyātīta (see
 YR ad 96 and n. 1365).
 
-[p. 38]
+[p. 38] ^pg53
 
 that same analogy applies to jīvanmukti obtained by the ‘way of the finite
 soul’.
@@ -1010,7 +1014,7 @@ himself as the unchanging Śiva, his mind free of dualities, because his being 
 136TĀV XIV 44b–45: evaṃ nirvikalpavr̥ttīnāṃ jīvatām eva muktir itareṣāṃ tu dehapātānan-
 taram iti siddham (vol. V: 2438).
 
-[p. 39]
+[p. 39] ^pg54
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 39
@@ -1059,7 +1063,7 @@ Kyoto, September 1–5, 2009.
 mayāmala from the 6th to the 8th cent.
 142Hatley 2007: 223.
 
-[p. 40]
+[p. 40] ^pg55
 
 which suggests again that the Svacchandatantra, the scripture of that cult,
 predates the Vidyāpīṭha. As to the Netratantra, also referred to in the con-
@@ -1108,7 +1112,7 @@ n. 1239.
 na saṃśayaḥ//, ‘Or he, who has this awareness, viewing the entire world as the play [of the
 Self], and constantly united [with it], is liberated while living; there is no doubt about it’.
 
-[p. 41]
+[p. 41] ^pg56
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 41
@@ -1159,7 +1163,7 @@ anena ca dehena maheśvaratvam avāpnoty eveti yāvat.
 155Īśvarapratyabhijñākārikāvr̥tti [ĪPvr̥] IV 16: etatpariśīlanena śivatāveśāt jīvann eva mukto
 bhavati (tr. Torella ĪPK).
 
-[p. 42]
+[p. 42] ^pg57
 
 among the Advaitins, as, for example, Śaṅkara ad BĀU IV 4, 6 makes clear.
 These debates proceed, in the first place, from the incredulity and skep-
@@ -1207,7 +1211,7 @@ sāram ādāya tiṣṭheta nārikelaphalaṃ yathā//; see also Sanderson 
 159Tantrāloka I 44: bauddhajñānena tu yadā bauddham ajñānajr̥mbhitam/ vilīyate tadā jīvan-
 muktiḥ karatale sthitā//.
 
-[p. 43]
+[p. 43] ^pg58
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 43
@@ -1252,7 +1256,7 @@ that obtained while living and that secured at death — and the two final
 nasyāsti pradhānatā// and TĀV, avat. ad I 44: nanu yady evaṃ dīkṣayā dehānta eva muktir
 bhavet, tat kathaṃ “jīvann eva vimukto ’sau” ityādy uktam ity āśaṅkyāha/.
 
-[p. 44]
+[p. 44] ^pg59
 
 (turyātīta) 161 — the latter appearing as a Śaiva innovation. 162 From the
 moment the ‘state of liberation’ (mokṣa) found a home in life existential
@@ -1300,7 +1304,7 @@ solely of blissful consciousness’.
 164See p. 51. On the Kaula developments in general and their importance in the exegetical
 tradition, see Sanderson 1988: 692ff.
 
-[p. 45]
+[p. 45] ^pg60
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 45
@@ -1352,7 +1356,7 @@ as well allusion to the notion of jīvanmukti in SK 67–68.
 169Probably not the Gauḍapāda, author of the Āgamaśāstra; see Frauwallner 1973: 226;
 Larson 1998: 148–149.
 
-[p. 46]
+[p. 46] ^pg61
 
 vv. 67–68: contrasting the ‘incarnate’ state of v. 67 with the ‘disincarnate’
 state of v. 68 (prāpte śarīrabhede) — life and death in effect. Moreover, the
@@ -1400,7 +1404,7 @@ freed from his transitory body; see, esp., YR ad 87–88.
 172Silburn, Padoux TĀ: 47. Others have seen, in other contexts, systems setting forth the
 dispensation of grace on the part of a merciful god; for instance, Hiriyanna (1995: 412–413),
 
-[p. 47]
+[p. 47] ^pg62
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 47
@@ -1452,7 +1456,7 @@ characteristic of the śāṃbhavopāya. See also the general avat. ad PS 41
 path” — that is, in the path leading to the most excellent [form of] liberation — that there
 is no restriction of qualification [on such practice]’.
 
-[p. 48]
+[p. 48] ^pg63
 
 (vv. 4–5, 23, 41, 46); on the other, reference to the theory of the ‘word’
 remains mostly implicit (vv. 10–11), 179 as is the treatment of the upāyas
@@ -1501,7 +1505,7 @@ vedhitam//.
 185At least into two practices typical of that path, namely, reflection on the Wheel of ener-
 gies, and raising the energy of breath (TĀ V 41, 50b–52).
 
-[p. 49]
+[p. 49] ^pg64
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 49
@@ -1553,7 +1557,7 @@ relation to the finite soul [viz., to the way of the finite soul]; they, because
 character, are not referenced in this Spandaśāstra, which is devoted to the exposition of the
 way of energy’.
 
-[p. 50]
+[p. 50] ^pg65
 
 is of the essence, associated with an intense sensory activity.
 Among
@@ -1601,7 +1605,7 @@ amr̥tabīja; see YR ad loc.
 199See TĀ IV 211 and PS 41–46, 74–80.
 200Same rhetoric in TĀ IV 194–203.
 
-[p. 51]
+[p. 51] ^pg66
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 51
@@ -1653,7 +1657,7 @@ for its unique means (upāya) the favor of the Supreme Lord. Here, such [acts] 
 the rosary, meditation, offering sacrifice, etc., which arise thanks to the [Lord’s] power of
 [causal] constraint, are ineffectual as means (upāya)’ (YR ad 96). The only positive reference
 
-[p. 52]
+[p. 52] ^pg67
 
 The manner in which the Paramārthasāra positions itself in relation to
 other systems deserves also to be noted in brief. With the signal excep-
@@ -1701,7 +1705,7 @@ advaitic devaluation of the phenomenal world extends even to acosmism — the aj
 an indication of Gauḍapāda’s putative Buddhism — a point of view much debated (on this
 debate, see Bouy ĀŚ: 42–43).
 
-[p. 53]
+[p. 53] ^pg68
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 53
@@ -1751,7 +1755,7 @@ pratyabhijñānakrameṇāvalambate/, ‘By gulping down the entire range of 
 earth to Śiva, he reaches gradually through the process of recognition the state of supreme
 subject, which exists unconditionally’; see also PTLvr̥ 21–24, quoted n. 621.
 
-[p. 54]
+[p. 54] ^pg69
 
 the yogin, is in some manner the reverse (pratisarga, or pratiprasava, YS
 IV 34) of the process described in Sāṃkhya, resulting in the world of our
@@ -1797,7 +1801,7 @@ in MVT (Vasudeva MVT: 149).
 paths’.
 212See TĀ VI 30 and TĀV ad loc. cited n. 1387.
 
-[p. 55]
+[p. 55] ^pg70
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 55
@@ -1846,7 +1850,7 @@ devaluated form of the absolute ‘aham’.
 215See also PS 10–11, PS 14, PS 45, and YR ad loc.; also ĪPvr̥ III 2, 5, quoted n. 515.
 216See YR ad 75 and 79–80.
 
-[p. 56]
+[p. 56] ^pg71
 
 whom Abhinavagupta was probably the most influential, 217 developed a
 “theory of beauty”, or rather, of “aesthetic experience”, that remains one
@@ -1897,7 +1901,7 @@ This characterization is excerpted from a much longer passage describing the spe
 experience in response to the play. See Bansat-Boudon 1992: 151–152.
 219Phrase borrowed from the title of J. Rancière’s book (2008).
 
-[p. 57]
+[p. 57] ^pg72
 
 2. THE PARAMĀRTHASĀRA OF ABHINAVAGUPTA
 57
@@ -1946,7 +1950,7 @@ found also in the most extreme realistic doctrines — notably Prābhākarami�
 it cannot be admitted that an idea (even an erroneous one) has “nothing” for its object; see
 also n. 265.
 
-[p. 58]
+[p. 58] ^pg73
 
 vertically; it has no reality from the ultimate point of view, when envis-
 aged horizontally. In some ways, it could be said that the Trika conception

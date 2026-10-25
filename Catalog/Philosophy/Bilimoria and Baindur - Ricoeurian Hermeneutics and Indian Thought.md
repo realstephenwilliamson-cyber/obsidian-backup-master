@@ -18,8 +18,7 @@ language:
   - English
 pages: 25
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Bilimoria and Baindur - Ricoeurian Hermeneutics and Indian Thought (Sophia 2025).pdf]]"
   - "[[Library/Philosophy/Ricoeurian Hermeneutics and Indian Thought (Bilimoria)]]"

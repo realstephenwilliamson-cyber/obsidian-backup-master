@@ -17,8 +17,7 @@ language:
   - English
 pages: 11
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[devikavacham_english.pdf]]"
 aliases: []

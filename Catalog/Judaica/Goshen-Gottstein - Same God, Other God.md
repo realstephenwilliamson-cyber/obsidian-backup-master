@@ -17,8 +17,7 @@ language:
   - English
 pages: 266
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Same God, other god _ Judaism, Hinduism, and the problem of idolatry-Palgrave Macmillan (2015).pdf]]"
   - "[[Library/Judaica/Same God, Other God (Goshen-Gottstein)/Same God, Other God (Goshen-Gottstein)]]"

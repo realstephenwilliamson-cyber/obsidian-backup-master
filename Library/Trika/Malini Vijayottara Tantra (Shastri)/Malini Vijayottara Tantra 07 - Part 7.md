@@ -93,7 +93,7 @@ Sastras.
 
 speech. Pane
 
-7. On considering his body in the hand, the! Sadhaka meditating on it for six months, can undoubtedly receive a #-thing from long distanos. Iv he continuss His weditetion for three years, he scan get the thing even from other sorner
+7. On considering his body in the hand, the! Sadhaka meditating on it for six months, can undoubtedly receive a \#-thing from long distanos. Iv he continuss His weditetion for three years, he scan get the thing even from other sorner
 
 of the sea. ;
 

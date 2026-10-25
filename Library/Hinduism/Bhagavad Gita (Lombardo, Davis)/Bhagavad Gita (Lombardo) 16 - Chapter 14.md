@@ -6,7 +6,7 @@ page_range: "80–83"
 aliases:
   - "Gita (Lombardo) 14"
 ---
-[p. 80]
+[p. 80] ^pg80
 
 ## Chapter Fourteen
 

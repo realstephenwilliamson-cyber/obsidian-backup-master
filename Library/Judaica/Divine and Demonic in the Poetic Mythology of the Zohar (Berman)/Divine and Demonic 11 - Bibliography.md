@@ -4,7 +4,7 @@ work: "[[Catalog/Judaica/Berman - Divine and Demonic in the Poetic Mythology of 
 book: "[[Library/Judaica/Divine and Demonic in the Poetic Mythology of the Zohar (Berman)/Divine and Demonic in the Poetic Mythology of the Zohar (Berman)|Divine and Demonic in the Poetic Mythology of the Zohar (Berman)]]"
 order: 11
 source_pdf: "Library/Judaica/Divine and Demonic in the Poetic Mythology of the Zohar-BRILL (2018).pdf"
-pages: "287–299"
+page_range: "287–299"
 pdf_pages: "302–314"
 text_source: "PDF text layer (born-digital), PyMuPDF"
 converted: 2026-10-22

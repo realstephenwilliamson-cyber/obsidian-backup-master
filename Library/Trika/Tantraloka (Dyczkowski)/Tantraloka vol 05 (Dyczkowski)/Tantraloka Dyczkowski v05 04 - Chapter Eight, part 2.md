@@ -36,13 +36,13 @@ devāgnidravyavṛttyarniśajīvinaś cottamasthitāḥ |
 adhahsthagārudādyanyamantrasevāparāyanāḥ ॥ 34 ॥
 te hāṭakavibhor agre kiṁkarā vividhātmakāḥ || 
 
-Those who have taken on vows (vratin) but have behaved in a manner prohibited (by scripture) and (so) are sinful (vikarmasthā), those who though initiated have fallen from the rule (samaya) and have failed to perform the rites of expiation (prāyaścitta), those who are (adherents and yet) detractors (dūṣaka) of the conduct of the left (vāmācāra),“" those who earn a living from the sacrificial offerings (dravya) to the gods and fire, those who though adherents of more excellent (doctrines) practice the mantras of lower (ones) such as those of Garuda etc. — (all these) in their various kinds are servants before the All-pervasive Lord Hātaka. (32cd- 35ab) 
+Those who have taken on vows (vratin) but have behaved in a manner prohibited (by scripture) and (so) are sinful (vikarmasthā), those who though initiated have fallen from the rule (samaya) and have failed to perform the rites of expiation (prāyaścitta), those who are (adherents and yet) detractors (dūṣaka) of the conduct of the left (vāmācāra),“" those who earn a living from the sacrificial offerings (dravya) to the gods and fire, those who though adherents of more excellent (doctrines) practice the mantras of lower (ones) such as those of Garuda etc. — (all these) in their various kinds are servants before the All-pervasive Lord Hāṭaka. (32cd- 35ab) 
 
 #### Viveka on 8.32–35
 
 The reason why ‘they are sinful’ is because they behave ‘in a manner prohibited by scripture’. Those ‘have fallen from the rule’, because of their 
 
-249\. Gnoli considers the citation here from the Ānandatantra (which he calls the Ānandādhika) to start from 35cd. However, the continuity and uniformity of the subject matter indicates that it is more likely that the entire passage from 32cd to 41ab is drawn from there. Also, cf. TĀ 8/34a devāgnidravya-vrttyaṁnśajīvinaś — ‘those who earn a living from the sacrificial offerings (dravya) to the gods and fire’ and candadravyena jīvanti ‘those who earn a living (jīvanti) from sacrificial substances (offered to) fierce (deities). The latter is drawn from a passage Jayaratha is quoting in TĀv ad 8/35cd- 42ab, that is probably from the Ānandatantra. Although the wording does not coincide, the idea is the same, and so could be Abhinava’s source. If we compare the account of Hātakeśvara here with those in the Parākhya and SvT, that are typical of those found in the Siddhāntas, the difference is striking. There can be no doubt that Abhinava is not drawing from the Raurava or any other Siddhānta. In this source, Hāṭakeśvara is the lord of a hell especially meant for those who transgress ‘the conduct of the left (vāmācāra)' of the higher Śaiva teacher. Thus, there is little room to doubt that the reference is drawn from the Ānanda / Ānandādhika — a Tantra which sponsors the conduct of the left — vāmācāra.
+249\. Gnoli considers the citation here from the Ānandatantra (which he calls the Ānandādhika) to start from 35cd. However, the continuity and uniformity of the subject matter indicates that it is more likely that the entire passage from 32cd to 41ab is drawn from there. Also, cf. TĀ 8/34a devāgnidravya-vrttyaṁnśajīvinaś — ‘those who earn a living from the sacrificial offerings (dravya) to the gods and fire’ and candadravyena jīvanti ‘those who earn a living (jīvanti) from sacrificial substances (offered to) fierce (deities). The latter is drawn from a passage Jayaratha is quoting in TĀv ad 8/35cd- 42ab, that is probably from the Ānandatantra. Although the wording does not coincide, the idea is the same, and so could be Abhinava’s source. If we compare the account of Hāṭakeśvara here with those in the Parākhya and SvT, that are typical of those found in the Siddhāntas, the difference is striking. There can be no doubt that Abhinava is not drawing from the Raurava or any other Siddhānta. In this source, Hāṭakeśvara is the lord of a hell especially meant for those who transgress ‘the conduct of the left (vāmācāra)' of the higher Śaiva teacher. Thus, there is little room to doubt that the reference is drawn from the Ānanda / Ānandādhika — a Tantra which sponsors the conduct of the left — vāmācāra.
 
 250\. Read na ca for naca.
 
@@ -240,7 +240,7 @@ Then, in the middle of the earth,” to a height of eighty-four thousand (league
 
 272\. Read with MS C bhūrmadhyato for bhūmyürdhvato.
 
-273\. Cf. jambūdvīpari kṣiter nābhis tadvṛttaṁ lakṣayojanam ॥ tasya madhye sthitaḥ śailarājarājo hiranmayaḥ || tiraskṛtāhśumajjyotir meruḥ suraniṣevitaḥ | tadvad evonnato lakṣaṁ mūle ṣodaśa vistṛtaḥ | ‘Jambūdvīpa is the navel of the earth. It is round and extends for 100,000 leagues. (Meru,) the king of mountains, that is made of gold, is in the middle of it. Obscuring the light of the sun, it is attended by the gods. It extends 16,000 leagues into the earth from its surface. It is of the same height, and in the root it extends for 16 (thousand leagues).’ Mṛgendra (Vidyāpāda) 13/40cd-43ab sa merur bhūmer antaḥ ṣodaśa yojanasahasrāni praviṣtaḥ, mahītalād ārabhya ūrdhvaṁm yāvat caturaśītisahasronnatiḥ, müle ca ṣodaśasahasravistāraḥ | ürdhvato ‘sya Sarāvākṛti-vistārādhikyena dvaigunyarn | uktaṁ ca śrīmatsvatantre sodaśaiva sahasrānṇi ūrdhvabhāge praropitaḥ | müle vistāras tadūrdhva dviguṇas tu sah ॥ (SvT 10/123cd-124ab) rtir devi merur devāśrayo “drirāt | (Commentary): ‘Meru is 16,000 leagues deep in the ground, beginning from the surface of the earth. Above it rises to a height of 84,000 leagues, and it extends for 16,000 in width at the root. Above (its peak) is the form of a plate, and it is double more (the size it is below). It is said in the venerable Svatantra (i.e. Svacchandatantra): ‘It rises in its upper part to 16,000. Such is (the size of) its root. Then above that it is double (the size), its form that of a plate. O goddess, Meru is the king of mountains and the abode of the gods.”” (SvT 10/123cd-124ab) Mount Meru \[Pe | Measurement in yojanas | Height | 84,000 \[ Root | 16,000 | Width 16,000 Summit 32,000 \[ Part | | Shape | | Deity | | Upper | Round | Rudra | | Middle | | Octagonal | Viṣṇu Lower | Square | Brahmā
+273\. Cf. jambūdvīpari kṣiter nābhis tadvṛttaṁ lakṣayojanam ॥ tasya madhye sthitaḥ śailarājarājo hiranmayaḥ || tiraskṛtāhśumajjyotir meruḥ suraniṣevitaḥ | tadvad evonnato lakṣaṁ mūle ṣodaśa vistṛtaḥ | ‘Jambūdvīpa is the navel of the earth. It is round and extends for 100,000 leagues. (Meru,) the king of mountains, that is made of gold, is in the middle of it. Obscuring the light of the sun, it is attended by the gods. It extends 16,000 leagues into the earth from its surface. It is of the same height, and in the root it extends for 16 (thousand leagues).’ Mṛgendra (Vidyāpāda) 13/40cd-43ab sa merur bhūmer antaḥ ṣodaśa yojanasahasrāni praviṣtaḥ, mahītalād ārabhya ūrdhvaṁm yāvat caturaśītisahasronnatiḥ, müle ca ṣodaśasahasravistāraḥ | ürdhvato ‘sya Sarāvākṛti-vistārādhikyena dvaigunyaṁ | uktaṁ ca śrīmatsvatantre sodaśaiva sahasrānṇi ūrdhvabhāge praropitaḥ | müle vistāras tadūrdhva dviguṇas tu saḥ ॥ (SvT 10/123cd-124ab) rtir devi merur devāśrayo “drirāt | (Commentary): ‘Meru is 16,000 leagues deep in the ground, beginning from the surface of the earth. Above it rises to a height of 84,000 leagues, and it extends for 16,000 in width at the root. Above (its peak) is the form of a plate, and it is double more (the size it is below). It is said in the venerable Svatantra (i.e. Svacchandatantra): ‘It rises in its upper part to 16,000. Such is (the size of) its root. Then above that it is double (the size), its form that of a plate. O goddess, Meru is the king of mountains and the abode of the gods.”” (SvT 10/123cd-124ab) Mount Meru \[Pe | Measurement in yojanas | Height | 84,000 \[ Root | 16,000 | Width 16,000 Summit 32,000 \[ Part | | Shape | | Deity | | Upper | Round | Rudra | | Middle | | Octagonal | Viṣṇu Lower | Square | Brahmā
 
 
 *[p. 99]* ^pg117
@@ -311,7 +311,7 @@ cakravāṭaś caturdikko meror atra tu lokapāḥ |
 
 amarāvatikendrasya pūrvasyāṁ dakṣinena tām ॥ 48 ॥
 apsaraḥ siddhasādhyās tām uttareṇa vināyakāḥ |
-tejovatī svadiśy agneḥ purī tām paścimena tu || 49 I|
+tejovatī svadiśy agneḥ purī tām paścimena tu || 49 ||
 viśvedevā viśvakarmā kramāt tadanugāś ca ye |
 yamyam samyamanī (tam tu paścimena kramāt sthitāḥ ॥ 50 ॥
 mātṛnandā svasarikhyātā rudrās tatsādhakās tathā |
@@ -422,7 +422,7 @@ He concludes that (description saying):
 भेरवे चक्रवाटेऽस्मिन्नेवं मुख्याः पुरोऽष्टा ॥ ५६ ॥
 अन्तरालगतास्त्वन्याः पुनः षडिवंशतिः स्मृताः ।
 
-bhairave \`cakravāṭe ‘sminn eva mukhyāḥ puro ‘ṣtadhā ॥ 56 II antarālagatās tv anyāḥ punaḥ ṣadviṁśatiḥ smṛtāḥ | 
+bhairave \`cakravāṭe ‘sminn eva mukhyāḥ puro ‘ṣtadhā ॥ 56 ॥ antarālagatās tv anyāḥ punaḥ ṣadviṁśatiḥ smṛtāḥ | 
 
 (Thus,) the main cities on Meru’s circular terrace are eight, while the others (around and) between them are said to be twenty-six. (56cd- 57ab) 
 
@@ -520,7 +520,7 @@ This is the place where those who have done good deeds enjoy (the fruits of thei
 इष्टापूर्तरताः पुण्ये वर्षे ये भारते नराः ॥ ५७ ॥
 ते मेरुगाः सकृच्छम्भ ये वार्चन्ति यथोचितम् ।
 
-iṣfāpūrtaratāḥ punye varṣe ye bhārate narāḥ || 57 |l te merugāḥ sakṛc chambhuṁ ye vārcanti yathocitam | 
+iṣfāpūrtaratāḥ punye varṣe ye bhārate narāḥ || 57 || te merugāḥ sakṛc chambhuṁ ye vārcanti yathocitam | 
 
 The natives of the sacred land of India (bhāratavarṣa) who are devoted to cherished meritorious works (isfapiirta), ), and those who worship Śiva (even) once in the proper manner, go to mount Meru.” (57cd-58ab) 
 
@@ -654,8 +654,8 @@ niṣadho hemakūtaś ca himavān dakṣine trayaḥ ॥ 63 ॥
 Snow).[^316] 11 sahasranavatis tad aśītir iti kramāt |
 nīlaḥ śvetas triśṛṅgaś 
 
-ca tāvantaḥ savyataḥ punaḥ ॥ 64 II meroḥ ṣad ete maryādācalāḥ pūrvāparāyatāḥ |
-pūrvato mālyavān paścād gandhamādanasamijñitaḥ ॥ 65 II savyottarāyatau tau tu catustrihśatsahasrakau |
+ca tāvantaḥ savyataḥ punaḥ ॥ 64 ॥ meroḥ ṣad ete maryādācalāḥ pūrvāparāyatāḥ |
+pūrvato mālyavān paścād gandhamādanasamijñitaḥ ॥ 65 ॥ savyottarāyatau tau tu catustrihśatsahasrakau |
 aṣṭāv ete tato ‘py anyau dvau dvau pūrvādiṣu kramāt || 66 ||
 jātharaḥ kūṭahimavadyātrajārudhiśṛṅginaḥ |
 evar sthito vibhāgo ‘tra varṣasiddhyai nirūpyate ॥ 67 ॥ 
@@ -694,7 +694,7 @@ in width.”
 
 321\. See above 8/62cd-63ab.
 
-322\. \[illegible\] SvT 10/202cd. The SvT continues: kailāsayukto himavāṁs triśṛṁgaś ca sajārudhiḥ | himavato madhye kailāsaḥ śṛṅgarūpaḥ | yad uktarn devīyāmale ---- tasya madhye mahāśṛṁga śatayojanavistṛtam | ity upakramya, tatrāsāv amaraiḥ sārdhaṁ śūlī vasati sarvadā | iti | sṛṅgavatas tu jārudhiḥ sańńlagnah || esam prātilomyato varnar nirūpayati ---- Srùgavāmṁś candrakanibhaḥ sitaḥ śveto virājate \\\\ nīlaratnamayo nīlo niṣadhaḥ padmarāgabhaḥ | sauvarṇno hemakūtaś ca himābho himavān iti || "1211258 is linked to Himavat and Triśṛṁga with Jārudhi.’ (SvT 10/203ab) Kailāsa is a (mountain) peak in the middle of Himavat. As is said in the Devïyāmala, beginning with ‘in the middle of that there is a great peak that is a hundred yojanas wide (vitṛta).” “There (Siva), the bearer of the trident, always lives along with the gods.’ Jārudhi is connected to Śṛṁgavat. (Next, the Tantra) states their colour in reverse order. ‘Śṛṁgavat is (white) like the moon. The white Śveta looks beautiful. Nīla is made of blue gems and Niṣadha is (red) like ruby. And Hemakūta is golden. Himavat is (white) like snow.’ (SvT 10/203cd-204) The three ranges on each side taper from 100,00, to 90,000, and then 80,000, which is the length of the Himavat and Śṛṅgavat ranges, and are two thousand yojanas wide (pārśvamāna).
+322\. \[illegible\] SvT 10/202cd. The SvT continues: kailāsayukto himavāṁs triśṛṁgaś ca sajārudhiḥ | himavato madhye kailāsaḥ śṛṅgarūpaḥ | yad uktaṁ devīyāmale ---- tasya madhye mahāśṛṁga śatayojanavistṛtam | ity upakramya, tatrāsāv amaraiḥ sārdhaṁ śūlī vasati sarvadā | iti | sṛṅgavatas tu jārudhiḥ sańńlagnah || esam prātilomyato varnar nirūpayati ---- Srùgavāmṁś candrakanibhaḥ sitaḥ śveto virājate \\\\ nīlaratnamayo nīlo niṣadhaḥ padmarāgabhaḥ | sauvarṇno hemakūtaś ca himābho himavān iti || "1211258 is linked to Himavat and Triśṛṁga with Jārudhi.’ (SvT 10/203ab) Kailāsa is a (mountain) peak in the middle of Himavat. As is said in the Devïyāmala, beginning with ‘in the middle of that there is a great peak that is a hundred yojanas wide (vitṛta).” “There (Siva), the bearer of the trident, always lives along with the gods.’ Jārudhi is connected to Śṛṁgavat. (Next, the Tantra) states their colour in reverse order. ‘Śṛṁgavat is (white) like the moon. The white Śveta looks beautiful. Nīla is made of blue gems and Niṣadha is (red) like ruby. And Hemakūta is golden. Himavat is (white) like snow.’ (SvT 10/203cd-204) The three ranges on each side taper from 100,00, to 90,000, and then 80,000, which is the length of the Himavat and Śṛṅgavat ranges, and are two thousand yojanas wide (pārśvamāna).
 
 
 *[p. 116]* ^pg134
@@ -796,7 +796,7 @@ Bhadrāśva with Five Mountains ~ East of Mālyavat
 सहस्रदशकायुस्तत्सपञ्चकुकपर्वतम् ॥ ७० ॥
 
 meroḥ 07177 mālyavān yo bhadrāśvas tasya pūrvataḥ |
-sahasradaśakāyus tat sapañcakulaparvatam ॥ 70 |l 
+sahasradaśakāyus tat sapañcakulaparvatam ॥ 70 ॥ 
 
 [^333]: The Parākhyā, quoted in SvTu ad 10/216, supplies the following reason for this land’s name: ‘When the fierce outset of a battle between the gods and the Asuras began, there appeared there suddenly from nowhere garlands (mālā) of comets (ketu); seeing these the gods were frightened: that is why it is known as Ketumālā’. (Parākhyā 5/74cd- 75) Goodall (2004: 297) Goodall (2004: 297 note 556) ‘Vāyupurānṇa 35/36-41: Indra at the end of a battle between Devas and Asuras that followed the churning of the milk ocean, hung his crushed garland (mālā) upon the Aśvattha tree that is the ketu of the landmass, whence the name. Thus, also Niśvāsaguhyasūtra 5/49ab: ratnamālān dadec chakro hatvā daityān sudurjayān.” (‘Indra should give a garland of gems, having killed the demons that are hard to conquer.)
 [^334]: The supporting mountains, pairs, are on the shores, which means in the case of the Gandhamādana range, below it. This is true west in relation to Meru. Jayaratha is clarifying that the direction is in relation to the chain. Looking along it from below (i.e. from the side where the Nīla range is located), the west of it is on the left side with respect to the viewer.
@@ -1028,7 +1028,7 @@ Thus, because the ocean of salt is circular in shape, it is said to be like a bo
 
 358?\. These two words for ‘eunuch’ literally mean ‘what (kim) (is this), a man (puruṣa 11८1८)?"
 
-359?\. SVT 10/237cd-238a. The following is quoted by Kṣemarāja in SvTu ad 10/237cd- 239ab: ‘the landmass called Kiṁpuruṣa is where the Vidyādharī Ramyā was dropped by the hand of a Vidyādhara. The male (Vidyādhara) was then asked by her ‘Did you (kih tvayā)ą, O man (puruṣa), throw me?’ (and so it got the name Kiṁpuru,sa).’ (Parākhya 5/88) Goodall’s translation.
+359?\. SVT 10/237cd-238a. The following is quoted by Kṣemarāja in SvTu ad 10/237cd- 239ab: ‘the landmass called Kiṁpuruṣa is where the Vidyādharī Ramyā was dropped by the hand of a Vidyādhara. The male (Vidyādhara) was then asked by her ‘Did you (kiṁ tvayā)ą, O man (puruṣa), throw me?’ (and so it got the name Kiṁpuru,sa).’ (Parākhya 5/88) Goodall’s translation.
 
 360?\. SVT 10/239cd-240ab. The Tantra goes on to describe the inhabitants of the land of Bhārata and why they suffer: ‘(Here) people, frightened by the fear of disease, are suffering, and they have little wealth. They are beautiful and with little beauty, (some are) fortunate and others unfortunate. (Some) enjoy (a lot) and (others) have few pleasures, and others again suffer extremely. They are white, blue and black, brown, pale and yellow. In the (land) called Bhārata, there are four castes, due to the division of castes and clans, in accord with the many (kinds of) work (they do). 240cd-243ab (In this land) there are regions, major and minor, (each) with the language of their own countries. There are learned men and fools, and so too those who know (art and) architecture. There are Yogis and men of knowledge, those who choose righteousness and others who are sinful. There are those who beg and other people who give, those who serve and those who are not servants — many are the people (here), O beloved.’ SvT 10/243cd-245 The following is quoted by Kṣemarāja in SvTu ad 10/240cd-243ab: ‘Here the suffering was borne by Bharat because of (his) sons, who followed bad paths.” (Parākhya 5/92cd) Goodall’s edition and translation.
 
@@ -1046,7 +1046,7 @@ Other lands are ones in which one experiences the fruit (of previous actions), b
 इलावृतं केतुभद्रं कुरुहैरण्यरम्यकम् ।
 हरिकिन्नरवर्षे च भोगभूर्न तु कर्मभूः ॥ ७९ ॥
 
-ilāvṛtai ketubhadrarn kuruhairanyaramyakam |
+ilāvṛtai ketubhadraṁ kuruhairanyaramyakam |
 harikinnaravarṣe ca bhogabhūr na tu karmabhūḥ ॥ 79 ॥ 
 
 (The other lands, that is,) 1) Ilāvṛta, 2) Ketumāla, 3) Bhadrāśva, 4) Kuru, 5) Hiraṇyamaya, 6) Ramyaka, 7) Hari and 8) Kinnara are lands where one experiences (the fruits of previous actions) (bhoga); (they are) not lands of action (karma).\* ). (79) 
@@ -1055,7 +1055,7 @@ harikinnaravarṣe ca bhogabhūr na tu karmabhūḥ ॥ 79 ॥
 
 (But) surely, (one may ask,) in some cases a land of karmic action may also be found in a land of the experience of its consequences? As was said before: 
 
-‘However, those who, even there, worship (Hātaka), the Lord of the gods, with devotion merge into the Īśa principle (tattva) and (from there) progressively into Supreme Śiva. Those who, deeply engaged in that experience (of the consequence of their actions) (bhoga), behave otherwise, crying pitifully due to the heat of the Fire of Time, merge into the principle of the constituent qualities (guna) (of Nature). Then, in accord with their actions, at the beginning of creation (sṛstimukhe), they are thrown down again from there by the Mothers into bodies 
+‘However, those who, even there, worship (Hāṭaka), the Lord of the gods, with devotion merge into the Īśa principle (tattva) and (from there) progressively into Supreme Śiva. Those who, deeply engaged in that experience (of the consequence of their actions) (bhoga), behave otherwise, crying pitifully due to the heat of the Fire of Time, merge into the principle of the constituent qualities (guna) (of Nature). Then, in accord with their actions, at the beginning of creation (sṛstimukhe), they are thrown down again from there by the Mothers into bodies 
 
 increasingly lower orders, heralded by torrents of horrible torments (ghorayātana).””\* 
 

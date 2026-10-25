@@ -18,8 +18,7 @@ language:
   - English
 pages: 313
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Howells, Moore (eds.) - Stiegler and Technics (Edinburgh 2013).pdf]]"
   - "[[Library/Philosophy/Stiegler and Technics (Howells)/Stiegler and Technics (Howells)]]"

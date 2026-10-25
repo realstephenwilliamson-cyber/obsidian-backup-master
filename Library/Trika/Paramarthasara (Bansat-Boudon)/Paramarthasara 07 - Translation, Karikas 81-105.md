@@ -1,10 +1,14 @@
 ---
+type: book-chapter
+work: "An Introduction to Tantric Philosophy: The Paramārthasāra of Abhinavagupta with the Commentary of Yogarāja"
+order: 7
+page_range: "270–316"
 aliases:
   - Paramarthasara 07 - Translation — Kārikās 81–105
 ---
 # Translation — Kārikās 81–105
 
-[p. 270]
+[p. 270] ^pg285
 
 Until the very last moment, he leads [his life], as taught here, in confor-
 mity with the view that there is no second (advayadr̥ś).
@@ -47,7 +51,7 @@ of the kārikā).
 cakrabhramavad dhr̥taśarīraḥ, ‘By the attainment of perfect wisdom, virtue and the rest be-
 come devoid of causal energy; yet the spirit remains a while invested with the body, just
 
-[p. 271]
+[p. 271] ^pg286
 
 KĀRIKĀ 82
 271
@@ -93,7 +97,7 @@ same v. 67 of the SK in the mouth of an objector. Cf. PS 69 and ĀŚ II 37b 
 without willing anything’. Same image and phraseology in YR ad 83.
 1225parāmarśa.
 
-[p. 272]
+[p. 272] ^pg287
 
 the entirety of knowers and things known; in other words, he is both the
 transcendent (sarvottīrṇa) and the immanent (sarvamaya).
@@ -139,7 +143,7 @@ sthitaḥ), which reinforces our hypothesis that the śāktopāya is the poin
 the PS when evoking the figure of the jīvanmukta — chapter IV of the TĀ being devoted to
 that path.
 
-[p. 273]
+[p. 273] ^pg288
 
 KĀRIKĀ 83
 273
@@ -187,7 +191,7 @@ doche to signify ‘consciousness’ (of something) in general. The entire follo
 seems to imply the question: ‘Can one arrive at kaivalya without being conscious at the
 moment of death?’
 
-[p. 274]
+[p. 274] ^pg289
 
 phlegm arising at that moment 1233 — that is, if consciousness of his own
 Self has departed — even if he thus, helpless, leaves his body, now com-
@@ -234,7 +238,7 @@ māyā, he requires nothing else, merely supporting his body as [basis for
 1236adhirūḍha — lit., ‘mounted upon’.
 1237aham eva sarvam idam. Cf. TĀ XXVIII 72–73a, which quotes the Niśāṭana (see n. 1240).
 
-[p. 275]
+[p. 275] ^pg290
 
 KĀRIKĀ 83
 275
@@ -286,7 +290,7 @@ Newari script); see Sanderson 2005: 110–112, 133; 2007: 375. It is abundantly 
 in TĀ and TĀV: I 51, IV 78b, IV 177–178a, VI 31b, XII 23b–24a, XIII 197, 241b–242a,
 XIV 43b–45, XV 83–97a, 105b–107a, 596, XVI 200a (according to JR, śāstre is implicitly
 
-[p. 276]
+[p. 276] ^pg291
 
 [In the time it takes] to milk a cow or an arrow to fall, which
 may be encompassed in the blink of an eye, he who has once
@@ -337,7 +341,7 @@ that he [the dying man] becomes only the object brought in fact [to his awarenes
 final moment? Can he possibly become what he sees or remembers at the final moment
 — a friend, wife, or child that he has recollected or the cool drink [that he has then been
 
-[p. 277]
+[p. 277] ^pg292
 
 KĀRIKĀ 83
 277
@@ -387,7 +391,7 @@ the Mahālakṣmīsaṃhitā, available in MS.
 1247The source of the first quotation is probably the Lakṣmīṣaṃhitā, as the following one,
 although the expression yad uktam (which introduces it) may allude to an unnamed source.
 
-[p. 278]
+[p. 278] ^pg293
 
 Kārikā 84
 If then having recourse to places of pilgrimage, etc., is, as stated above,
@@ -432,7 +436,7 @@ cus of the cognizer has entirely vanished due to the firm awareness [of
 1254Lit., ‘For it is evident that [in their case] seizure by the notion that the body is the locus
 of the cognizer [yet persists]’.
 
-[p. 279]
+[p. 279] ^pg294
 
 KĀRIKĀS 85–86
 279
@@ -477,7 +481,7 @@ repeated in respect of the heart: hr̥dayākāśa.
 1258kathaṃkāram — same adjective in the avat. ad 63 (see note thereon). It is used here for
 rhetorical reasons.
 
-[p. 280]
+[p. 280] ^pg295
 
 [that is, with merits and demerits]? And once he is permeated by them,
 how can he not become [again] a transmigrating self at death ? The master
@@ -524,7 +528,7 @@ the spiritual Self, if it has [once] been separated from the Qualities (guṇa) 
 [together with these any longer]’.
 1262tadrūpatayā = tadrūpa° in the compound.
 
-[p. 281]
+[p. 281] ^pg296
 
 KĀRIKĀS 85–86
 281
@@ -574,7 +578,7 @@ or conditions in view of something.
 1269Transmigration is the result of impurities, which are themselves the result of nescience,
 which consists in taking the body as the Self. The idea is that the body is not the sole cause
 
-[p. 282]
+[p. 282] ^pg297
 
 This being the case, the [mind of the] knower of the Self (jñānī), while
 living (jīvann eva), is formed by the Fourth; and he transcends even that
@@ -618,7 +622,7 @@ is beyond the Fourth state [of consciousness], composed solely of blissful consc
 1273On the conjunction of particles, api, iva, see B&R, ss.vv.: §§ 2 (p. 303), 4 (p. 819).
 1274udyotita — or ‘assured’ (lit., ‘clarified’).
 
-[p. 283]
+[p. 283] ^pg298
 
 KĀRIKĀS 87–88
 283
@@ -669,7 +673,7 @@ such as the weight of the lead, etc. The yogin’s consciousness is devoid of su
 1279While referring to the lapidary phrasing of the kārikā, YR reformulates the line in more
 normal syntax.
 
-[p. 284]
+[p. 284] ^pg299
 
 the adjunction of any number of other contingencies [such as dust, etc.],
 so likewise, consciousness, though freed from the contingency of the body,
@@ -714,7 +718,7 @@ sharpened’).
 fined, from the viewpoint of nondual Śivaism of Kashmir, in kā. 60. See also MBh X 47,
 12–15, quoted n. 425.
 
-[p. 285]
+[p. 285] ^pg300
 
 KĀRIKĀ 89
 285
@@ -767,7 +771,7 @@ kṣaṇo vilakṣaṇapratyayānantarito ’bhyāsaḥ sa cābhyāso yogah�
 repetition of the same kind of thought, uninterrupted by any contrary idea, with regard to
 Me alone who am the object of concentration of the mind; that repetition itself is “yoga” ’.
 
-[p. 286]
+[p. 286] ^pg301
 
 benefit of others —
 or in the domain of Self-knowledge — whether that effort is based
@@ -815,7 +819,7 @@ acquires ontological status in the developed doctrine of the ritualists — sinc
 of the rite is consequentially certain, the apūrva in fact “exists” as the link between rite and
 result (if not immediate).
 
-[p. 287]
+[p. 287] ^pg302
 
 KĀRIKĀS 90–91
 287
@@ -864,7 +868,7 @@ pretation differs from hers; esp., ‘gati’ we take as ‘going’ onward (v. 
 behaving, mode of being’ (v. 91); Silburn translates saṃskr̥ta (as does Barnett) by ‘purified’.
 1299Lit., ‘nourish’.
 
-[p. 288]
+[p. 288] ^pg303
 
 — he who has abolished the conceit that the body is the Self, and who is
 ever expert in perceiving the Great Lord as his own Self — that the last
@@ -913,7 +917,7 @@ healthy’; cf. the two verses from the Lakṣmīsaṃhitā quoted by YR ad 8
 understood as an argument a fortiori: if the last moment is not decisive in the case of the
 average man, how could it be so in the case of the jñānin?
 
-[p. 289]
+[p. 289] ^pg304
 
 KĀRIKĀS 90–91
 289
@@ -967,7 +971,7 @@ buddhiḥ samyag-
 darśanaṃ mattattvaviṣayaṃ tena yogo buddhiyogaḥ taṃ buddhiyogaṃ/ yena buddhiyogena
 samyagdarśanalakṣaṇena māṃ parameśvaram ātmabhūtam ātmatvena upayānti pratipadyante,
 
-[p. 290]
+[p. 290] ^pg305
 
 It is the transformation of one’s inner organ [into the Lord, or not, as
 the case may be] that constitutes the cause granting immediate direction
@@ -1013,7 +1017,7 @@ all’interno di un corpo’).
 recalls the poetical notion of aucitya — which principle asserts that no element of the drama
 should violate the constraints of the main rasa.
 
-[p. 291]
+[p. 291] ^pg306
 
 KĀRIKĀS 92–93
 291
@@ -1061,7 +1065,7 @@ mokṣa has taken place.
 1318krama may be taken in two ways: either the particular tradition of instruction (e.g.,
 advaitakrama) or the process, the procedure, followed by a particular guru in his teaching.
 
-[p. 292]
+[p. 292] ^pg307
 
 condition of self-reflection (parāmarśa) which is limited [only] by its char-
 acteristic quality of perfect freedom.
@@ -1104,7 +1108,7 @@ ascetic practices — the commentator says in conclusion that if such contradict
 ted, the ascetic tradition itself, as it is conducted, would be rendered inoperative, for the end
 of the practice (final beatitude or illumination) would become inexplicable.
 
-[p. 293]
+[p. 293] ^pg308
 
 KĀRIKĀS 94–95
 293
@@ -1160,7 +1164,7 @@ particularity on which the chance behaviors listed above depend. It is for this 
 Kr̥ṣṇa recommends that one remember him always — there exist saṃskāras (tajjāḥ: those
 born of that — the identification with the divinity) that are able to cancel other saṃskāras
 
-[p. 294]
+[p. 294] ^pg309
 
 not lapse from ultimate reality [experienced] as his own Self. 1329
 The purloining 1330 of the group of organs, viz., the thirteen external
@@ -1209,7 +1213,7 @@ PS 19.
 1334brahmavidyākathana — lit., ‘recitation of the knowledge of brahman’. We have opted for
 the (otherwise unusual) syntactical linkage of vinā with the following term.
 
-[p. 295]
+[p. 295] ^pg310
 
 KĀRIKĀS 94–95
 295
@@ -1259,7 +1263,7 @@ sought.
 with the body at the moment when it gives signs of ceasing to function.
 1341svasthahr̥daya.
 
-[p. 296]
+[p. 296] ^pg311
 
 that are self-formulated. 1342
 Therefore [we say that] the knower of the Self is liberated (mukta) at
@@ -1308,7 +1312,7 @@ highest’ may be understood as referring to intellection (buddhi) — immaculat
 is properly the guṇa of buddhi. Note that, in the same context, TĀ XXVIII 326b gives a
 paraphrase of BhG XIV 14–15, which TĀV ad loc. quotes in its entirety.
 
-[p. 297]
+[p. 297] ^pg312
 
 KĀRIKĀS 94–95
 297
@@ -1360,7 +1364,7 @@ is necessarily “free from [the three] guṇas” (nirguṇa) does not exclude 
 ideal guṇas which, on the contrary, must be ascribed to Him, because without them there
 could be no “pure creation”, and, all further evolution depending ad loc., no creation at all’.
 
-[p. 298]
+[p. 298] ^pg313
 
 Lord of the universe? 1351
 Modifications affecting the body, from that of the insect to Sadāśiva,
@@ -1410,7 +1414,7 @@ etc.? [I.e., to whom apply the measures intended to check the process of rebirth
 to the jñānin]’; Sharma understands differently kasya janmādinigrahaḥ: ‘Who is imprisonned
 in birth, etc.? [Not the man of knowledge.]’.
 
-[p. 299]
+[p. 299] ^pg314
 
 KĀRIKĀ 96
 299
@@ -1460,7 +1464,7 @@ although with variants: yantram for yatra, prakāśitam for prabhāṣitam): 
 ruṇā nirvikalpaṃ prabhāṣitam/ tadaiva kila mukto ’sau yatra tiṣṭhati kevalam’, and comments:
 ‘[...] gurukaṭākṣapātalakṣaṇāt [...] kṣaṇād eva’. Similarly, MM 67, whose subject-matter is
 
-[p. 300]
+[p. 300] ^pg315
 
 He, O dear one, is instantly liberated, on whom the [guru who]
 knows the essence [of things, who knows the real] casts his
@@ -1512,7 +1516,7 @@ the series of transmigratory states’, and the citation, there, of the Rasasidd
 living cannot know the knowable, and therefore there is and must be life’. YR’s commentary
 alludes only to that tradition according to which this mercury, poured into melted copper,
 
-[p. 301]
+[p. 301] ^pg316
 
 KĀRIKĀ 97
 301
@@ -1561,7 +1565,7 @@ vouschafed to him as he confronts his final moments (kā. 98–99). The term ru
 suitably in both contexts: the acolyte has not understood the “direct sense” of the teacher’s
 instruction, and that sense remains mysterious to him even at the moment of death. In both
 
-[p. 302]
+[p. 302] ^pg317
 
 Thus, as has been said, 1372 for him who, because of the feeble de-
 scent of the [divine] energy, accedes to the utterly transcendent state,
@@ -1614,7 +1618,7 @@ transcended the frame of the body at this stage. Through nāda, its unarticulat
 imperceptible resonance (itself ending in nādānta, even more subtle, which resides higher,
 at the level of the brahmarandhracakra), that power of the mantra dissolves into śakti, Śiva’s
 
-[p. 303]
+[p. 303] ^pg318
 
 KĀRIKĀ 97
 303
@@ -1664,7 +1668,7 @@ This explains the two concepts of
 jīvanmukti and videhamukti.
 1379paramārthapraroha.
 
-[p. 304]
+[p. 304] ^pg319
 
 Kārikās 98–99
 Should such familiarity 1380 [with the object of his practice] not be ac-
@@ -1713,7 +1717,7 @@ without his wish (44a)’. GAS VI 41 glosses ‘for endless years’ (śāśv
 years of Viṣṇu’ (śāśvatasya viṣṇoḥ samāḥ — vaiṣṇavāni trīni varṣāṇi)!
 1386ullaṅghanakrameṇa.
 
-[p. 305]
+[p. 305] ^pg320
 
 KĀRIKĀS 98–99
 305
@@ -1767,7 +1771,7 @@ commentary to kā. 102, below, YR explicitly quotes its first and last verses. 
 1391Or ‘from [the path of] yoga’.
 1392Cf. BhG VI 37: yogāc calitamānasaḥ, he ‘whose mind falls away from discipline’.
 
-[p. 306]
+[p. 306] ^pg321
 
 ments], etc.’.
 When the body falls away, he becomes a lord (pati), a potentate (īś-
@@ -1811,7 +1815,7 @@ such as that of women, of food [...], etc.’.
 1397In the preceding verses (98–99) are treated two types of “failed” aspirants — both fail-
 ures signaled by a ‘viśrānti’ in the discipline. Either the aspirant has found a ‘satisfaction’
 
-[p. 307]
+[p. 307] ^pg322
 
 KĀRIKĀS 100–101
 307
@@ -1862,7 +1866,7 @@ verbatim.
 the yogin’s progress. Or ‘due to the absence of basis [of his practice, caused by] faults of the
 mind’.
 
-[p. 308]
+[p. 308] ^pg323
 
 Just as a monarch who rules over the entire earth, that is, a uni-
 versal emperor, lord of the seven continents, is venerated, shown respect,
@@ -1909,7 +1913,7 @@ residence without end in the proximity of the Lord — a notion more in conformi
 requirements of bhakti — where the idea of an ‘identification’ with the Lord is seen rather as
 arrogance or lèse-majesté. The very notion of bhakti or devotional fervor seems to require an
 
-[p. 309]
+[p. 309] ^pg324
 
 KĀRIKĀ 102
 309
@@ -1964,7 +1968,7 @@ which YR quotes, below, at the end of the passage.
 1408Lit., ‘he goes to a condition of unshakability with respect to the essence of the ultimate
 [principle]’.
 
-[p. 310]
+[p. 310] ^pg325
 
 return. 1409
 Even a bit of reflection on the important and auspicious subject which
@@ -2015,7 +2019,7 @@ attains perfect insight’.
 1415BhG VI 45.
 Commenting on this, AG emphasizes that the verse refers to the ‘yo-
 
-[p. 311]
+[p. 311] ^pg326
 
 KĀRIKĀ 103
 311
@@ -2065,7 +2069,7 @@ to contain, as it were, the memory of an historical evolution, whereby the notio
 replaced (or complemented) the śreyas of the ritualists; taken literally, paraśreyas means ‘that
 which is beyond, or exceeds, śreyas’.
 
-[p. 312]
+[p. 312] ^pg327
 
 As has been stated in the teaching entitled Śivadharmottara: 1422
 Here is expounded the liberation that takes place within the
@@ -2112,7 +2116,7 @@ no doer of the right/ Comes to a bad end, my friend’.
 1424Cf. YR ad 102.
 1425śreyas — for a similar statement, see YR’s commentary ad 102.
 
-[p. 313]
+[p. 313] ^pg328
 
 KĀRIKĀ 104
 313
@@ -2163,7 +2167,7 @@ odd gerund; it functions thus as a parenthesis, to note that a noun is not at is
 a grammatical notation of the usage itself.
 1433That is, his core consciousness. The kārikā is somewhat puzzling in its construction,
 
-[p. 314]
+[p. 314] ^pg329
 
 This transcendental, or most excellent, brahman, which has been
 explained as ‘that which expands that which is unfolding’ 1434 is [so called]
@@ -2213,7 +2217,7 @@ that which “is expanded” (prathamānam)’ — the visible world.
 1436On the syntactical construction, see n. 1432.
 1437Same expression in YR ad 105; see also YR ad 2–3.
 
-[p. 315]
+[p. 315] ^pg330
 
 KĀRIKĀ 105
 315
@@ -2258,7 +2262,7 @@ of monistic Śaivism as they then flourished in Kashmir, those that are referre
 Mahārthadarśana (also termed Mahānaya and Krama), the Kula (originating in Assam), the
 Trika (in the restricted sense of Spanda) and the Pratyabhijñādarśana.
 
-[p. 316]
+[p. 316] ^pg331
 
 attributed to anyone else, who was beset by the confusion of the body
 (and the like) and the Self and who had not recognized that his essence

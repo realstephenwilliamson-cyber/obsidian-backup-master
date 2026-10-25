@@ -420,7 +420,7 @@ me(upadhi).. It is toth, unconscious and unreal beouuse it
 
 no relation to the Brahman, regarded as congctous {cit svarupa) and real. The world of names and forms, produced by maya, from the Vedantic point of view, is false and unconscious (jada).
 
-The position of the parinamavadin also differs #£éifrom the Vedanta, The Sankhya School holds that the world is real because it is the creation of prakrti, regarded eternal. But as regards the nature of prakrti, it is. #\$.j8said to be material (jada). From the point of vicw or Sunkhya, the world is gimultaneously real and acit (f§ada).
+The position of the parinamavadin also differs \#£éifrom the Vedanta, The Sankhya School holds that the world is real because it is the creation of prakrti, regarded eternal. But as regards the nature of prakrti, it is. #\$.j8said to be material (jada). From the point of vicw or Sunkhya, the world is gimultaneously real and acit (f§ada).
 
 From the Trika point of view, the world is both, real es well as conscious (cit). It is the creation of Sakti, rewarded consoious and real. Besides, the justie fication ot the abhase vadin is that the, world was already existent in Siva in its embryonio form. (Cf. Vartamena
 

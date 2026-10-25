@@ -17,8 +17,7 @@ language:
   - English
 pages: 16
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Dupuche - The Scandalous Tantric Hymn to Kali (2012).pdf]]"
 aliases:

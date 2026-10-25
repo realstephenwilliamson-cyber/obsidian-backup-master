@@ -17,8 +17,7 @@ language:
   - English
 pages: 66
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Devi+Mahatyam.pdf]]"
   - "[[Library/Hinduism/Devi Mahatyam (Saraswati)/Devi Mahatyam (Saraswati)]]"

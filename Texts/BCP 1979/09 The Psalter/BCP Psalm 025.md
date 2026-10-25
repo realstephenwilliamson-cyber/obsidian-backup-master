@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 25
 verses: 21
-page_range:
-  - 615
-  - 616
+page_range: "615–616"
 aliases:
   - "BCP Psalm 25"
   - "BCP 615"
@@ -41,7 +39,7 @@ in you have I trusted all the day long. ^25-4
 **25:5** Remember, O LORD, your compassion and love, \*  
 for they are from everlasting. ^25-5
 
-[p. 615]
+[p. 615] ^pg615
 
 **25:6** Remember not the sins of my youth and my transgressions; \*  
 remember me according to your love  
@@ -83,7 +81,7 @@ and forgive me all my sin. ^25-17
 **25:18** Look upon my enemies, for they are many, \*  
 and they bear a violent hatred against me. ^25-18
 
-[p. 616]
+[p. 616] ^pg616
 
 **25:19** Protect my life and deliver me; \*  
 let me not be put to shame, for I have trusted in you. ^25-19

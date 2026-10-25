@@ -70,7 +70,7 @@ TRIANGLE,[^36] OH SUPREME LADY:
 
 *[p. 327]* ^pg323
 
-As a result of entering on the supreme inner path, She is "in a subtle form", i.e. unknowable due to her being of one essence with the supreme pramātp.[^37] And because of her intimate association in this, She is first. Since She (ever) remains in her own essence, She is the supreme Sakti who is also the whole causal universe actualised in her self. (She is the supreme Śakti) who as a result of the greatness of her autonomous will desires to display outwardly. Due to the tendency to propagate all things, assuming the coiled-up form,[^38] (as) Vāmā She reaches the sprouting stage vomiting forthž[^39] the entire swallowed-up universe. Thereafter desiring to arise She is the peak. Jyeṣṭhā attains the state of rod-like clear straight lines which are all the paths that exist upto the doomsday conflagration.[^40]“ By duly closing the boundary, Raudrī - who is the one desirous of annihalating the world - produces the pyramidal triangular form whose essence is the joyful conmingling of the three saktis Icchãā etc..\*1 It means that She is manifesting the foremost letter[^42] which breathes life into all the letters (and) which is the three states of creation, preservation and destruction depicted on the screen of her self.
+As a result of entering on the supreme inner path, She is "in a subtle form", i.e. unknowable due to her being of one essence with the supreme pramātp.[^37] And because of her intimate association in this, She is first. Since She (ever) remains in her own essence, She is the supreme Sakti who is also the whole causal universe actualised in her self. (She is the supreme Śakti) who as a result of the greatness of her autonomous will desires to display outwardly. Due to the tendency to propagate all things, assuming the coiled-up form,[^38] (as) Vāmā She reaches the sprouting stage vomiting forth[^39] the entire swallowed-up universe. Thereafter desiring to arise She is the peak. Jyeṣṭhā attains the state of rod-like clear straight lines which are all the paths that exist upto the doomsday conflagration.[^40]“ By duly closing the boundary, Raudrī - who is the one desirous of annihalating the world - produces the pyramidal triangular form whose essence is the joyful conmingling of the three saktis Icchãā etc..\*1 It means that She is manifesting the foremost letter[^42] which breathes life into all the letters (and) which is the three states of creation, preservation and destruction depicted on the screen of her self.
 [^37]: I.e., Siva.
 
 [^38]: I.e., in the form of Kundalint.
@@ -153,7 +153,7 @@ Indeed, it is the supreme Śakti - the "sinuous one" (as well as being the one i
 
 *[p. 331]* ^pg327
 
-body with its dharma forms, its true essence is undisguised.[^57] Therefore She "proceeds" to the ultimate Knower who is the "supreme male" without attributes; meaning that She attains oneness with Him.[^58] <sup>58</sup>
+body with its dharma forms, its true essence is undisguised.[^57] Therefore She "proceeds" to the ultimate Knower who is the "supreme male" without attributes; meaning that She attains oneness with Him.[^58]
 
 End of commentary on Verse 14.
 
@@ -326,9 +326,9 @@ From the mention here of the word "penis", one extracts the term "desire" which 
 
 According to this verse the brahmagranthi lies between the two bearers of fire and viga at the root of the genitals in what is specified as the Sākta support.[^84] Having pierced it carefully, resolutely and completely (not just slightly), the supreme middle Sakti (comes) shining forth. She is Vāgīśvarī in the form of bīja who of her very nature is awakening one to consciousness and bliss, activating the sound of enlightenment.
 [^79]: See note 70. By "visa" the brahmagranthi ts probably intended. In the ascent of Kundalint, tt ts the point at which the two breaths are arrested.
-[^81]: Fire or "vahni" symbolizes the prāna breath in particular, but also the. "adhah Kuṇdalint" whose descent into the Mūlādhāra (after unton with Śiva in the Sahasrāra) reasserts the creative process. (Singh, Vijñanabhairava, p.
+[^81]: Fire or "vahni" symbolizes the prāna breath in particular, but also the. "adhah Kuṇdalint" whose descent into the Mūlādhāra (after unton with Śiva in the Sahasrāra) reasserts the creative process. (Singh, Vijñanabhairava, p. 65.)
 
-65.)
+
 
 [^80]: At the root of the genitals?
 [^82]: The Mūlādhāra cakra ts characterised by an upward facing triangle technically known as "vahni" or "fire". See Chapter I footnote 177.
@@ -691,7 +691,7 @@ And so on. According to precept, one should "cast" into the eyes etc. of the sā
 
 *[p. 348]* ^pg344
 
-which is producing the wheel of created beings.[^131] It means that in oneself, by the preceding action of concealment and rest,[^132] one brings (her) through (her) own inclination into a state lacking in self-control.[^133] <sup>133</sup>
+which is producing the wheel of created beings.[^131] It means that in oneself, by the preceding action of concealment and rest,[^132] one brings (her) through (her) own inclination into a state lacking in self-control.[^133]
 [^133]: The above interpretatton of the Kāmamantra verses (45 & 46) apparently refers to the raising of Kundalin? who, when aroused, longs for union with Śiva in the Sahasrāra. The practice is antaryāga" or an inner form of worship, but the imagery tis deam from sexual love. The sãdhaka "leads" (nayet) his beloved Kundalinī to unton in the secret trysting place in the Sahasrāra. The force of his desire and words (mantra) inflame Her to seek union with Śiva. This ritual spiritual "intercourse" within the Self produces ecstasy and a stream of neetar that suffuses the practitioner in bliss. However, tt seems that the beloved must ultimately return home. In the process of parting, they wend their way stopping here and there to exchange loving looks, i.e. Kuṇndalint pauses to rest in the intervening four cakras. (As She does not go directly to Sahasrāra neither does She proceed direetly home.) She feels helpless and all her being ts at the sādhaka's disposal. Possessing Kuṇndalint and her divine energy gives the sādhaka the abtlity to play havoc with the universe, i.e. he acquires supernatural powers. Whilst the imagery of the commentary (not unique to this conmentary) ts concrete and sexual, the practice thereby described is a purely inner and spiritual one that begets fruits of a spiritual nature. Furthermore, as Ŝiva and Kungalin? represent the polar aspects of the sādhaka's own being, ít ts really he himself as Stva who unites with his other self - the Goddess who is the sādhyā.
 
 [^131]: The practice being spoken of in this passage and in the commentary to Verse 44 may have connection with secret mudrās that have nothing to do with hand postures. Singh says that in the Kramamudrāã "the mind swings alternately between the internal and the external. The internal appears as the universal: consciousness and the external no longer appears as merely the world, but as the form of Śiva or universal consetousness. (Singh, Pratyabhijnāhydayam, p p. 155.) Elsewhere he says that it tnvolves "an entrance of consetousness from the external into the internal and (then) from the internal into the external." (Ibid., p. 104.) Or, the practice may have to do with "bhrūkgepa" which ts a closely guarded secret for converting prānte energy into eitsakti. (Singh, Vijñānabhairava, p. 28.) \` The commentary to Verse 44 also indicates that this praetice (or another one similar to it) ts extremely esoterie.
@@ -948,7 +948,7 @@ ending with 'kș'."
 
 Or it may be that the sākta part of these (two gods) begins with 'kṣ' and ends with 'ū' and is suggested by the six (characteristics): 'self-active[^174]'; 'in the path of the self'; 'self-existent'; 'arisen from the kula of the self'; 'self-joyous' (and) 'ascended to the station of the self'. Since the sākta part is from 'r' ending with nāda, it is also implied that the Śiva part is from nāda ending with ip? 0174
 
-And so on. This extraction of those speaking is unconnected with the movement of creation and destruction (being commented upon above).[^175] <sup>175</sup>
+And so on. This extraction of those speaking is unconnected with the movement of creation and destruction (being commented upon above).[^175]
 
 "When what should be spoken of with trepidation does not entail the fear that the tongue will be cut out, nor that the roof of the mouth will cave in, which shameless man “is not a pundit?"[^176]
 
@@ -1055,7 +1055,7 @@ HE MAY AGITATE THE WOMEN OF THE WORLDS OF HEAVEN, EARTH
 
 AND THE UNDERWORLD.
 
-In this way mentioning the dominance over women (resulting) from the mādanas, (the Lord) also refers to the dominance over males (that results) from the sāktas.[^189] <sup>189</sup>
+In this way mentioning the dominance over women (resulting) from the mādanas, (the Lord) also refers to the dominance over males (that results) from the sāktas.[^189]
 
 61\. SIMILARLY, THROUGH THE ŚĀKTAS, OH QUEEN OF THE GODS! ,
 

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 104
 verses: 37
-page_range:
-  - 735
-  - 737
+page_range: "735–737"
 aliases:
   - "BCP Psalm 104"
   - "BCP 735"
@@ -62,7 +60,7 @@ and the wild asses quench their thirst. ^104-11
 **104:12** Beside them the birds of the air make their nests \*  
 and sing among the branches. ^104-12
 
-[p. 736]
+[p. 736] ^pg736
 
 **104:13** You water the mountains from your dwelling on high; \*  
 the earth is fully satisfied by the fruit of your works. ^104-13
@@ -104,7 +102,7 @@ and to his labor until the evening. ^104-24
 in wisdom you have made them all;  
 the earth is full of your creatures. ^104-25
 
-[p. 737]
+[p. 737] ^pg737
 
 **104:26** Yonder is the great and wide sea  
 with its living things too many to number, \*  

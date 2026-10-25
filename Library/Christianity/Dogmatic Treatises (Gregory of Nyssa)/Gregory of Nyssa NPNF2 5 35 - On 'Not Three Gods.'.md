@@ -4,7 +4,7 @@ work: "[[Catalog/Christianity/Gregory of Nyssa - Dogmatic Treatises]]"
 book: "[[Library/Christianity/Dogmatic Treatises (Gregory of Nyssa)/Dogmatic Treatises (Gregory of Nyssa)|Dogmatic Treatises (Gregory of Nyssa)]]"
 order: 35
 source_pdf: "Library/Christianity/Gregory of Nyssa - Dogmatic Treatises (NPNF2 5).pdf"
-pages: "614–623"
+page_range: "614–623"
 pdf_pages: "635–644"
 text_source: "PDF text layer (born-digital, CCEL), PyMuPDF"
 converted: 2026-10-22
@@ -28,7 +28,7 @@ In truth, the question you propound to us is no small one, nor such that but sma
 
 The argument which you state is something like this:—Peter, James, and John, being in one human nature, are called three men: and there is no absurdity in describing those who are united in nature, if they are more than one, by the plural number of the name derived from their nature. If, then, in the above case, custom admits this, and no one forbids us to speak of those who are two as two, or those who are more than two as three, how is it that in the case of our statements of the mysteries of the Faith, though confessing the Three Persons, and acknowledging no difference of nature between them, we are in some sense at variance with our confession, when we say that the Godhead of the Father and of the Son and of the Holy Ghost is one, and yet forbid men to say “there are three Gods”? The question is, as I said, very difficult to deal with: yet, if we should be able to find anything that may give support to the uncertainty of our mind, so that it may no longer totter and waver in this monstrous dilemma, it would be well: on the other hand, even if our reasoning be found unequal to the problem, we must keep for ever, firm and unmoved, the tradition which we received by succession from the fathers, and seek from the Lord the reason which is the advocate of our faith: and if this be found by any of those endowed with grace, we must give
 
-129\. 8 Ps. cxx. 3; the phrase is rendered in A.V. by “coals of juniper,” in the Vulg. by “carbonibus desolatoriis.” Reading, with Oehler, εὐπειθείας 332 Reading τοὺς μὴ διηρημένούς, as Sifanus seems to have read. The Paris Edit. of 1615 reads τοὺς διηρημένους, which Oehler leaves uncorrected.
+1298 Ps. cxx. 3; the phrase is rendered in A.V. by “coals of juniper,” in the Vulg. by “carbonibus desolatoriis.” Reading, with Oehler, εὐπειθείας 332 Reading τοὺς μὴ διηρημένούς, as Sifanus seems to have read. The Paris Edit. of 1615 reads τοὺς διηρημένους, which Oehler leaves uncorrected.
 
 
 *[p. 615]* ^pg636
@@ -89,9 +89,9 @@ As we have to a certain extent shown by our statement that the word “Godhead�
 
 334
 
-130\. 8 S. Matt. ix. 4 1309 Acts v. 3. Reading with Oehler παρ᾽ ἑαυτοῦ for δι᾽ ἑαυτοῦ.
+1308 S. Matt. ix. 4 1309 Acts v. 3. Reading with Oehler παρ᾽ ἑαυτοῦ for δι᾽ ἑαυτοῦ.
 
-131\. 0 Reading κοινωνοὺς for κοινωνίας, with Oehler.
+1310 Reading κοινωνοὺς for κοινωνίας, with Oehler.
 
 
 *[p. 619]* ^pg640
@@ -134,7 +134,7 @@ As, then, the golden staters are many, but the gold is one, so too those who are
 
 Indeed, it would be a lengthy task to set out in detail from the Scriptures those constructions which are inexactly expressed, in order to prove the statement I have made; where, however, there is a risk of injury to any part of the truth, we no longer find in Scriptural phrases any indiscriminate or indifferent use of words. For this reason Scripture admits the naming of “men” in the plural, because no one is by such a figure of speech led astray in his conceptions to imagine a multitude of humanities, or supposes that many human natures are indicated by the fact that the name expressive of that nature is used in the plural. But the word “God” it employs studiously in the singular form only, guarding against introducing the idea of different natures in the Divine essence by the plural signification of “Gods.” This is the cause why it says, “the Lord our God is one Lord<sup>1320</sup>,” and also proclaims the Only-begotten God by the name of Godhead, without dividing the Unity into a dual signification, so as to call the Father and the Son two Gods, although each is proclaimed by the holy writers as God. The Father is God: the Son is God: and yet by the same proclamation God is One, because no difference either of nature or of operation is contemplated in the Godhead. For if (according to the idea of those who have been led astray) the nature of the Holy Trinity were diverse, the number would by consequence be extended to a plurality of Gods, being divided according to the diversity of essence in the subjects. But since the Divine, single, and unchanging nature, that it may be one, rejects all diversity in essence, it does not admit in its own case the signification of multitude; but as it is called one nature, so it is called in the singular by all its other names, “God,” “Good,” “Holy,” “Saviour,” “Just,” “Judge,” and
 
-131\. 9 Heb. vi. 16. Deut. vi. 4.
+1319 Heb. vi. 16. Deut. vi. 4.
 
 
 *[p. 623]* ^pg644

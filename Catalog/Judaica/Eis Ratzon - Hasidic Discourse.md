@@ -17,7 +17,7 @@ language:
 pages: 2
 text: searchable
 status: review
-physical_copy: false
+print: false
 files:
   - "[[Library/Judaica/Eis ratzon.pdf]]"
   - "[[Library/Judaica/Eis Ratzon]]"

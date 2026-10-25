@@ -20,8 +20,7 @@ language:
   - English
 pages: 
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Maximus the Confessor - Ambigua I (Constas 2014).pdf]]"
   - "[[Library/Christianity/Ambigua I (Constas)/Ambigua I (Constas)]]"

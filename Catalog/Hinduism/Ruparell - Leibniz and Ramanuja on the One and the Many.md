@@ -17,8 +17,7 @@ language:
   - English
 pages: 10
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Leibniz and Ramanuja on the One and the Many.pdf]]"
 aliases: []

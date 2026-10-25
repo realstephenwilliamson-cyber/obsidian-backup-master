@@ -18,8 +18,7 @@ language:
   - English
 pages: 528
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Kaul (tr.) - Bhavani-nama-sahasra-stutih, The Thousand Names of Bhavani (1991).pdf]]"
   - "[[Library/Hinduism/Bhavaninamasahasrastutih (Kaul)/Bhavaninamasahasrastutih (Kaul)]]"

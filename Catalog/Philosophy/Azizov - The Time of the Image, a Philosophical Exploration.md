@@ -18,7 +18,7 @@ language:
 pages: 218
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Azizov - The Time of the Image (2020).pdf]]"
   - "[[Library/Philosophy/The Time of the Image (Azizov)/The Time of the Image (Azizov)]]"

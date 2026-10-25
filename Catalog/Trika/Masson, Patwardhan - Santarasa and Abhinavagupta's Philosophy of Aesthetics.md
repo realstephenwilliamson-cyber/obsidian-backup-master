@@ -20,7 +20,7 @@ language:
 pages: 242
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Masson, Patwardhan - Santarasa and Abhinavagupta's Philosophy of Aesthetics (1969).pdf]]"
   - "[[Library/Trika/Santarasa and Abhinavagupta's Philosophy of Aesthetics (Masson)/Santarasa and Abhinavagupta's Philosophy of Aesthetics (Masson)]]"

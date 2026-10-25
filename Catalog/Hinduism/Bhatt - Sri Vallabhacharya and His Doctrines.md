@@ -17,8 +17,7 @@ language:
   - English
 pages: 68
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[SriVallabhacharyaAndHisDoctrinesEnglishenglish.pdf]]"
 aliases:

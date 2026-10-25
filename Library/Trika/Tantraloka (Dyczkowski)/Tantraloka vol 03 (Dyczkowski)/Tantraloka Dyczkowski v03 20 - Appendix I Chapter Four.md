@@ -54,8 +54,8 @@ Everybody is generally seen to be attached to sex, wine and meat; some in partic
 to them requires that they first give up these things, it does not develop even slightly in their minds. The mind (mati) of people, that for hundreds of births has been in the habit (of enjoying) sense objects, is hard to control, just as it is hard to prevent an old cow (when given the chance) from grazing on (a farmer’s) crops. As this example (suggests), it is hard for (people) to renounce them. Even so, they are in need of instruction. The teaching that is based on the enjoyment (of these things) as they are is believed by people who are given there (to these things). (4-8) 
 
 prathaikarūpābhāvāc (> -rūpabhāvāc) ca niṁviyante (> nirvahyate) tataḥ katham |
-prathāyā bhāvaparyantaṁi rīūpaṁ tad bhidyate katham ॥ 9 II bhedaś ced kalpyate tarhi kalpaneyarn na satyabhūḥ |
-sphuraṇād eva vai \[illegible\] gālanari nāpi tāttvikam || 10 II tac ca kalpair asaṁkhyeyair bahuduṣkaracaryayā |
+prathāyā bhāvaparyantaṁi rīūpaṁ tad bhidyate katham ॥ 9 ॥ bhedaś ced kalpyate tarhi kalpaneyaṁ na satyabhūḥ |
+sphuraṇād eva vai \[illegible\] gālanari nāpi tāttvikam || 10 || tac ca kalpair asaṁkhyeyair bahuduṣkaracaryayā |
 na cāsti sphuraṇābhāvo (sphura \*-) hy anyasyānupalambhataḥ ॥ 11 ॥
 abhāvamātraṁ nāsty eva syāc cet tad bhāti sarvadā |
 tasmāt tattvam atattvaṁ vā na bhāvena vinā bhavet ॥ 12 ॥
@@ -67,7 +67,7 @@ If relative distinction (bheda) (between phases of perception and their contents
 
 And that (falling away could not be brought about, even) with innumerable thoughts (kalpa) and much action that is difficult to do. Nor (can we say that consciousness does not possesses this dynamic) effulgence, for one does not perceive that anything else possesses it. (11) 
 
-Nor is there just non-existence (abhāvamātra). For if there were, it would always be manifest. Therefore, be it reality \[illegible\] or its absence (atattva), it would not be possible without phenomenal being \[illegible\] (12) 
+Nor is there just non-existence (abhāvamātra). For if there were, it would always be manifest. Therefore, be it reality (tattva) or its absence (atattva), it would not be possible without phenomenal being \[illegible\] (12) 
 
 Manifestation (bhāna lit. ‘shining’) is dominated (vaśa) by the empire of one’s own (consciousness), and so is the same for both what truly exists (tattva) and what does not (atattva). (9-13ab) 
 
@@ -82,7 +82,7 @@ Thus, the dependence (everyone experiences) on the ongoing differentiation (kala
 ekar svarūparūpari hi meyamānapramātṛtaḥ |
 sargāvatārasamhāramayair ākramya vartate ॥ 15 ||
 svasvarūpānugunyena pratyeka kalanāvaśāt |
-sṛstisthityādibhir bhedaiś caturdhā api tāh sthitāḥ ॥ 16 ॥
+sṛstisthityādibhir bhedaiś caturdhā api tāḥ sthitāḥ ॥ 16 ॥
 kālagrāsāntam udayāc caturdhā vihito hi yah |
 tasya viśrāntir ekaiva tato devyas trayodaśa (devyātra-) \\\\ 17 ॥
 anākhyacakraprādhānyāt (anyā-) pūjanīyatayā sthitāḥ |
@@ -105,7 +105,7 @@ kālasya sahasāgrāsasaṁkramād ittham iṣyate (grā \*-) ॥ 20 ॥
 yasmin yasmin hi viṣaye saṁikrāmanti marīcayaḥ |
 tatra tatra hy anāyāsād anākhyasphuraṇari sthitam || 21 ॥ 
 
-Time, which by its very nature is differentiated by succession, is considered to be such (that is, the Inexplicable) by the transition (sakrama) (into consciousness) brought about by (its sudden) forceful \[illegible\] assimilation. The flash of Anākhya is effortlessly present in whatever object of sense the rays (of pure consciousness) penetrate (sarikrāmanti) (20-21). 
+Time, which by its very nature is differentiated by succession, is considered to be such (that is, the Inexplicable) by the transition (sakrama) (into consciousness) brought about by (its sudden) forceful (sahasā) assimilation. The flash of Anākhya is effortlessly present in whatever object of sense the rays (of pure consciousness) penetrate (sarikrāmanti) (20-21). 
 
 udyoge nāvabhāsaś cet kathaṁ saktasya sambhave (> —vet) |
 acarvito ‘vabhāsaḥ syāt tad amṛṣṭatayā katham || 22 ॥
@@ -137,7 +137,7 @@ anyonyaparihāreṇa nīlasarivin na tad bhavet || 27 ॥
 
 If that were not so, in what other way could consciousness extend within phenomena? For it would be blocked within (a particular) form alone and be (fundamentally) conditioned (paricchinna) by nature. (25) 
 
-(The light of consciousness which is) manifestation (bhāna) abides in this way \[illegible\] within ‘blue’ and manifestation within the relish (carvanṇa) (of it). If it were (also) not to persist devoid of succession (akramena), a perception of (even the colour) blue would not be possible (na siddhyati). (26) 
+(The light of consciousness which is) manifestation (bhāna) abides in this way (tāvat) within ‘blue’ and manifestation within the relish (carvanṇa) (of it). If it were (also) not to persist devoid of succession (akramena), a perception of (even the colour) blue would not be possible (na siddhyati). (26) 
 
 If, (in the course of perception of the colour blue,) blue initially, then (its) manifestation (bhāna), and then (its) relish (carvana) (were to take place, with each phase) mutually exclusive from one another, the perception of blue (nīlasaṁvid) would not be possible (27). 
 
@@ -165,9 +165,9 @@ evan mānasvarūpe ‘pi caturdhā bhedasambhavaḥ || 32 ॥
 svaucityena parijñeyo mātrrūpe tathaiva ca |
 atra sarvatra viśrāntir ekaiva nirupādhikā || 33 ॥
 āsāṁ dvādaśadevīnāṁ parāmarśabalāt sphuṭam |
-vikalpavāsanāśūnyari nirvikalparn pravartate ॥ 34 ॥
+vikalpavāsanāśūnyari nirvikalpaṁ pravartate ॥ 34 ॥
 ye tu yoṣidvyasaninas tanmukhenaiva te kramāt |
-kālagrāsapade samyak praviśanti nirāśraye ॥ 35 Il 
+kālagrāsapade samyak praviśanti nirāśraye ॥ 35 ॥ 
 
 There, the divisions pertaining to objectivity (meyasvarūpa) arise four-fold. 
 
@@ -185,7 +185,7 @@ By means of that, those who are addicted to women progressively (kramāt) enter 
 
 kecid darśanamātrenṇa tathāṁgasparśanāt pare |
 dvīndriyotpattitaś cānye viśrāmyanti nirāśraye || 36 ॥
-ittharn yoṣidvyasaninār tisro ‘nubhavabhūmikāḥ |
+itthaṁ yoṣidvyasaninār tisro ‘nubhavabhūmikāḥ |
 dṛśyante kālavilaye viśrāntir nirupādhikā ॥ 37 ॥
 sṛstyasṛṣtyādibhedena (sṛṣti-) catasro ‘nākhyadevatāḥ |
 prameyabhūmim āśritya kālagrāsaparāḥ sthitāḥ ॥ 38 ॥ 
@@ -203,7 +203,7 @@ kālīśabdaś catasṛnām devīnār vācakaḥ sthitaḥ ॥ 39 ॥
 kṣepo bahirmukhecchātmayoṣitsambhogajanmani |
 pravṛttes tāstamyādivaśāt (> tāratamyādi-) kālagrāsaḥ (-mayah) sthitaḥ ॥ 40 ॥ 
 
-The word ‘KālT denotes the four Goddesses clearly, in accord with the meaning of the root kal in the sense of ‘casting forth’ \[illegible\] (39) 
+The word ‘KālT denotes the four Goddesses clearly, in accord with the meaning of the root kal in the sense of ‘casting forth’ (kṣepa). (39) 
 
 Casting forth into incipient (janman) sexual enjoyment with a woman who is (the very) nature of extroverted desire which, by its progressively (developing) engagement, is the devouring of time (kālagrāsa). (40) 
 
@@ -266,7 +266,7 @@ iti siddhamukhāmnā ktyā naivāsti vastutaḥ ॥ 53 ॥
 
 vastusvabhāvo yatrāyari kālaḥ syāt kalanātmakaḥ |
 svaviṣphāramayaṁ (> svavisphāra-) sarvam idaṁ saṁṁsthānam ātmanaḥ || 54 ||
-iti bodhodayānandāt kah kālo grasyate hi yah |
+iti bodhodayānandāt kaḥ kālo grasyate hi yah |
 tadgrāsasaṁrambhaparā yāś ca dvādaśa kālikāḥ ॥ 55 ॥ 
 
 (This can be done) in particular with the most excellent objects of worship, that is, a female partner (lalanā), wine and meat, and in the same way with all phenomena on all planes of experience. (51) 
@@ -277,7 +277,7 @@ According to the Mahārtha view, time is easily and effortlessly consumed (kāla
 
 (In reality,) all this ground of the Self is the expansion of one’s own nature (svavisphāra). Thus, what is (the nature of) the time consumed by the bliss of the dawning of awakened consciousness, that the twelve Kālikās are engaged in the act of (its) assimilation? (55) 
 
-ittharn vicāryamāṇnānāṁ na kiñcid iti niścayāt | 
+itthaṁ vicāryamāṇnānāṁ na kiñcid iti niścayāt | 
 
 *[p. 531]* ^pg544
 
@@ -287,7 +287,7 @@ savikalpāvikalpānāṁ sarvāsā (> sarveṣāṁ) sarividālayaḥ ॥ 57 ॥
 kramākramapadottīrṇā (kramāt-) tadābhogātmikāpi yā |
 acalā spandarahitā sarvaspandopabhoginī ॥ 58 ॥ 
 
-Reflecting upon them in this way, (one realises that time) is nothing at all. Thus, as this is the ascertained teaching (iti niścayāt), there (can) only be just one state of rest \[illegible\] which is (both) consciousness and its absence, worldly- experience (bhoga) and its absence, as well as (transcendence) devoid of (all worldly) experience (nirbhoga). (And that state of rest) is the supreme Goddess, who is devoid of the limiting adjunct of time and is the abode which is consciousness (saṁvidālaya) of all (perceptions), be they accompanied by thought constructs or without. Beyond the planes of process and its absence, although she is also its blissful expanse (ābhoga), (She is) immobile, without pulsation (spanda), and (yet) enjoys all the pulsations (of universal consciousness). (56-58) 
+Reflecting upon them in this way, (one realises that time) is nothing at all. Thus, as this is the ascertained teaching (iti niścayāt), there (can) only be just one state of rest (viśrānti), which is (both) consciousness and its absence, worldly- experience (bhoga) and its absence, as well as (transcendence) devoid of (all worldly) experience (nirbhoga). (And that state of rest) is the supreme Goddess, who is devoid of the limiting adjunct of time and is the abode which is consciousness (saṁvidālaya) of all (perceptions), be they accompanied by thought constructs or without. Beyond the planes of process and its absence, although she is also its blissful expanse (ābhoga), (She is) immobile, without pulsation (spanda), and (yet) enjoys all the pulsations (of universal consciousness). (56-58) 
 
 pratyakṣabhūtā sarvasyāpy adyāpi vividhair mukhaiḥ |
 tathā pūjanasaṁkrāmair upāyair upalakṣitā ॥ 59 ॥
@@ -297,7 +297,7 @@ upādeyatayā saiva paropāsyatayā sthitā |
 trayodaśsīnāṁ \[illegible\] svaucityārthānusārataḥ |
 abhidhānāni (-nni) vartante hṛdayaṁgamayuktitaḥ ॥ 61 ॥
 etāsām abhidhānena yā mantrākṣaramālikāḥ |
-kālikākramadṛṣṭatvād upacārenṇa tāh sthitāḥ ॥ 62 ॥ 
+kālikākramadṛṣṭatvād upacārenṇa tāḥ sthitāḥ ॥ 62 ॥ 
 
 She is the direct perception (pratyakṣabhūtā) of everything (taking place) now also through many kinds of channels (mukha). She is experienced (upalakṣitā) in this way through the (many) means (to realisation), which are (forms of) worship (pūjana), and transference (sankrāma) (of enlightened consciousness). (59) 
 
@@ -308,14 +308,14 @@ The names of the thirteen goddesses are in consonance with their own correspondi
 They abide in a secondary sense as the garlands of the syllables of the Mantras (formed) by naming them, because (they) are perceived as the procession (krama) of Kālikās (rather than phases of perception). (62) 
 
 p. 54) melāpadarśane (melāva-) hy atra pratyakṣajñānagocare |
-kathan mantrasya sadbhāvaḥ sa pratyakṣo ‘pi vā katham |l 63 ॥
+kathan mantrasya sadbhāvaḥ sa pratyakṣo ‘pi vā katham ॥ 63 ॥
 avarṇarājapratyakṣaḥ kāyānubhavabhūmikaḥ |
 pañcapindātmako ‘pi syāt sīūkṣmapratyakṣadarśinaḥ ॥ 64 ॥
 nānyāni mantravarnāni pratyakṣānīva sarvathā | 
 
 *[p. 532]* ^pg545
 
-upacāreṇa tadvṛtti (> -vrttih) kālikākramagocarā ॥ 65 ॥ 
+upacāreṇa tadvṛtti (> -vṛttiḥ) kālikākramagocarā ॥ 65 ॥ 
 
 (One may ask at this point,) what is the essential nature of Mantra here, according to the teaching concerning the union (of Siddhas and Yoginīs) (melāpadarśana)? Or (one may ask), how is it directly apparent (to the senses)? The direct perception of the letter A, who is the king (of all the phonemes,) is on the plane of corporeal experience, and so too of the Five-Lettered (Syllable) (KHPHREM) (pañcapinda), of those who perceive by means of a subtle, direct perception. No other letters of Mantra are as directly perceived in all respects (as these are). It is metaphorically (said) that their functional state (vṛtti) is in the field of the procession (krama) of the Kālikās. (63-65) 
 
@@ -339,18 +339,18 @@ following
 
 Mantras are drawn from the Kālīkulapañcakramakramārcana. The mantras of the thirteen Kālīs are also found in the Kramasadbhāva, which may well have been their original source. The colophons of the Kālīkulapañcakramakramārcana tell us that it was compilled by Prabodhanātha who was a priest in the well known Paśupatinātha temple in Kathmandu in the 12" century. 
 
-Pindanātha Sarnṁārabīja khphrern/ma-e-kha-pha-rańn 
+Pindanātha Sarnṁārabīja khphreṁ/ma-e-kha-pha-rańn 
 
-Nine syllable Vidyā khphrern mahācandayogeśvari Seventeen syllable Vidyā (1) 
+Nine syllable Vidyā khphreṁ mahācandayogeśvari Seventeen syllable Vidyā (1) 
 
 hrīṁ mahācandayogeśvari thr dhr thr phat phat phaṭ phat phat Seventeen syllable Vidyā (2) 
 
-khphreṁ phāṁ phīṁ mahācandayogeśvari kālakāli \[illegible\] phaṭ 100 syllable Samayavidyā khphreṁ phat | mahācande caṇdamukhi candayogeśvari phat | candaduhkhavimocani sarvasamayalopavighātani tejovati (tejomayi) amṛtamūrte asiddha-sādhani siddhirddhiprade nāśaya sarvadoṣān abhimataṁ me prayaccha sarve sarvage arūpe sarvarūpe \[illegible\] phaṭ | khphrern phat | \[illegible\] kron \[illegible\] sarva-vidyeśvari phat svāhā | 
+khphreṁ phāṁ phīṁ mahācandayogeśvari kālakāli \[illegible\] phaṭ 100 syllable Samayavidyā khphreṁ phat | mahācande caṇdamukhi candayogeśvari phat | candaduhkhavimocani sarvasamayalopavighātani tejovati (tejomayi) amṛtamūrte asiddha-sādhani siddhirddhiprade nāśaya sarvadoṣān abhimataṁ me prayaccha sarve sarvage arūpe sarvarūpe \[illegible\] phaṭ | khphreṁ phat | \[illegible\] kron \[illegible\] sarva-vidyeśvari phat svāhā | 
 
 The Thirteen Kālīs 
 
 khphrehāriphām phīrnmahāsṛsṣṭikāli kālagrasanakāliambāpāda namaḥ\\\\ 1 || N khphreṁ \[illegible\] phām phīṁ mahāsthitikāli kālagrasanakāli ambāpāda namaḥ ॥ 2 ॥
-NW khphreṁ āin phām phīṁn mahāsaṁhārakāli kālagrasanakāli ambāpāda namaḥ ॥ 3 ॥ NW khphrer ārn phāṁ phīn mahāraktakāli kālagrasanakāli ambāpāda namaḥ |l | 
+NW khphreṁ āin phām phīṁn mahāsaṁhārakāli kālagrasanakāli ambāpāda namaḥ ॥ 3 ॥ NW khphrer āṁ phāṁ phīn mahāraktakāli kālagrasanakāli ambāpāda namaḥ |l | 
 
 WwW khphreṁ \[illegible\] phām phīṁn mahāsukāli kālagrasanakāli ambāpāda namaḥ ॥ 5 ॥
 Sw 
@@ -358,8 +358,8 @@ Sw
 *[p. 534]* ^pg547
 
 khphren ām \[illegible\] 70771 mahāyamakāli kālagrasanakāli ambāpāda namaḥ ॥
-6॥ SW khphreń ām phāṁṁphīṁṁmahāmṛtyukāli kālagrasanakāli ambāpāda namaḥ ॥ 7 | S khphreḥ ām phāmṁ 01771 mahābhadrakāli kālagrasanakāli ambāpāda namaḥ ॥ 8 ॥ SE khphrem \[illegible\] \[illegible\] 7171 mahāparamārkakāli kālagrasanakāli ambāpāda namaḥ ॥ 9 || SE khpreṁ ām 11211 0011771 māhāmārtandakāli kālagrasanakāli ambāpāda namaḥ |I 10॥ E khphrer ārn phām phīṭn mahākālāgnirudrakāli kālagrasanakāli ambāpāda namaḥ ॥ 11 I| NE khphrem ām phām 11771 mahākālakāli kālagrasanakāli ambāpāda namaḥ ॥
-12 || Front of NE khphrer \[illegible\] phāṁi 11701 mahāghoracandabhairavikāli kāligrasanakāli ambāpāda namaḥ|l| 13 || Middle 
+6॥ SW khphreń ām phāṁṁphīṁṁmahāmṛtyukāli kālagrasanakāli ambāpāda namaḥ ॥ 7 | S khphreṁ ām phāmṁ 01771 mahābhadrakāli kālagrasanakāli ambāpāda namaḥ ॥ 8 ॥ SE khphrem \[illegible\] \[illegible\] 7171 mahāparamārkakāli kālagrasanakāli ambāpāda namaḥ ॥ 9 || SE khpreṁ ām 11211 0011771 māhāmārtandakāli kālagrasanakāli ambāpāda namaḥ ॥ 10॥ E khphrer āṁ phām phīṭn mahākālāgnirudrakāli kālagrasanakāli ambāpāda namaḥ ॥ 11 ॥ NE khphrem ām phām 11771 mahākālakāli kālagrasanakāli ambāpāda namaḥ ॥
+12 || Front of NE khphrer \[illegible\] phāṁi 11701 mahāghoracandabhairavikāli kāligrasanakāli ambāpāda namaḥ||| 13 || Middle 
 
 etā raktavarṇā dvādaśārapadmasthā nīlotpaladalaśyāmāḥ |
 caturbhujā varatriśūlapadmakādyadharāḥ | raśmirūpā gale mundamālopaśobhitāḥ\\| śuṣkāḥ saptakapālaśii pimgordhvakeśanāgabandhamaulicandrārdhabhi nūpuravīraghanṭāḥ kiikiṇījālamani 

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 135
 verses: 21
-page_range:
-  - 788
-  - 789
+page_range: "788–789"
 aliases:
   - "BCP Psalm 135"
   - "BCP 788"
@@ -62,7 +60,7 @@ and all the kingdoms of Canaan. ^135-11
 **135:12** He gave their land to be an inheritance, \*  
 an inheritance for Israel his people. ^135-12
 
-[p. 789]
+[p. 789] ^pg789
 
 **135:13** O LORD, your Name is everlasting; \*  
 your renown, O LORD, endures from age to age. ^135-13

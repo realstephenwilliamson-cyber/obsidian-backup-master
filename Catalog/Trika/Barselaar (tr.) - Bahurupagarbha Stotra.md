@@ -18,8 +18,7 @@ language:
   - English
 pages: 14
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Bahurupagarba Stotra.pdf]]"
   - "[[Library/Trika/Bahurupagarbha Stotra (Barselaar)]]"

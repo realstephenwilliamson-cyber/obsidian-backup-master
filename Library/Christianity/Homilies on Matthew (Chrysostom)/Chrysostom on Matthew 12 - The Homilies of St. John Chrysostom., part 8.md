@@ -100,7 +100,7 @@ Despond not therefore, O man, nor show less of zeal about virtue, than they do o
 
 5\. And if thou doubt my affirmation, at any rate believe His example.
 
-100\. 8 Matt. vii. 6. Matt. xix. 25, and 10.
+1008 Matt. vii. 6. Matt. xix. 25, and 10.
 
 
 *[p. 289]* ^pg297
@@ -113,7 +113,7 @@ Because, as among men, if thou keep on doing so, thou art even accounted trouble
 
 Do thou also therefore ask nothing worldly, but all things spiritual, and thou wilt surely receive. For so Solomon,<sup>1013</sup>because he asked what he ought, behold how quickly he received. Two things now, you see, should be in him that prays, asking earnestly, and asking what he ought: “since ye too,” saith He, “though ye be fathers, wait for your sons to ask: and if they should ask of you anything inexpedient, ye refuse the gifts; just as, if it be expedient, ye consent and bestow it.” Do thou too, considering these things, not withdraw until thou receive; until thou have found, retire not; relax not thy diligence, until the door be opened. For if thou approach with this mind, and say, “Except I receive, I depart not;” thou wilt surely receive, provided thou ask such things, as are both suitable for Him of whom thou askest to give, and expedient for thee the petitioner. But what are these? To seek the things spiritual, all of them; to forgive them that have trespassed, and so to draw nigh asking forgiveness; “to lift up holy hands without wrath and doubting.”<sup>1014</sup> If we thus ask, we shall receive. As it is, surely our asking is a mockery, and the act of drunken rather than of sober men.
 
-101\. 0 Matt. vii. 9. \[The citation is not exact. Here, as below, Chrysostom gives the form: “For which is there of you,” omitting “man.” The Oxford translator follows the A.V. here but not below. “Of whom” (in R.V.) is better English (see below); the Greek is the same in both passages.—R.\] ἐπετεχισε. 1011 \[οκ ατεν χρ μνου, λλ κα χρ ιτεν, “not only is it fitting to ask,” but to ask what “is fitting.”—R.\] 1012 1013 1 Kings iii. 10–14; 2 Chron. i. 11, 12. 1014 1 Tim. ii. 8, perhaps “disputing” rather than “doubting.” \[R.V. text “disputing,” in the margin “doubting.” Comp. Homily XIX. 11, p. 138.—R.\]
+1010 Matt. vii. 9. \[The citation is not exact. Here, as below, Chrysostom gives the form: “For which is there of you,” omitting “man.” The Oxford translator follows the A.V. here but not below. “Of whom” (in R.V.) is better English (see below); the Greek is the same in both passages.—R.\] ἐπετεχισε. 1011 \[οκ ατεν χρ μνου, λλ κα χρ ιτεν, “not only is it fitting to ask,” but to ask what “is fitting.”—R.\] 1012 1013 1 Kings iii. 10–14; 2 Chron. i. 11, 12. 1014 1 Tim. ii. 8, perhaps “disputing” rather than “doubting.” \[R.V. text “disputing,” in the margin “doubting.” Comp. Homily XIX. 11, p. 138.—R.\]
 
 
 *[p. 290]* ^pg298
@@ -134,7 +134,7 @@ Now here indeed He signifies His goodness by means of our fathers, but in what p
 
 “For all things,” saith He, “whatsoever ye would that men should do to you, do ye also to them.”<sup>1019</sup>
 
-101\. 5 Matt. vii. 11. \[“Heavenly” is substituted for “which is in Heaven.”—R.\] πονηραν. 1016 1017 Or “life:” see Matt. vi. 25. 1018 Rom. viii. 32. Matt. vii. 12. \[οτω is omitted; so the Vulgate.—R.\] \[πολιτεα.\]
+1015 Matt. vii. 11. \[“Heavenly” is substituted for “which is in Heaven.”—R.\] πονηραν. 1016 1017 Or “life:” see Matt. vi. 25. 1018 Rom. viii. 32. Matt. vii. 12. \[οτω is omitted; so the Vulgate.—R.\] \[πολιτεα.\]
 
 
 *[p. 291]* ^pg299
@@ -153,7 +153,7 @@ And yet after this He said, “My yoke is easy, and my burden is light.”<sup>1
 
 And not only herein is the part of virtue easy, but also by the end again it becomes yet easier. For not the passing away of our labors and toils, but also their issuing in a good end (for they end in life) is enough to console those in conflict. So that both the temporary nature of our labors, and the perpetuity of our crowns, and the fact that the labors come first, and the crowns after, must prove a very great relief in our toils. Wherefore Paul also called their
 
-102\. 0 Confined, τεθλιμμνη . 1021 1022 Matt. vi. 13, 14. \[R.V., “by the narrow gate;” “enter in thereby;” “For narrow is the gate, and straitened the way,” &c. Chrysostom introduces verse 14 with κα; and in some mss. of the Homilies τ is added. Comp. R.V. margin: “How narrow,” etc.—R.\] 160 1024 2 Cor. iv. 17, 18. 1025 Eph. vi. 12. \[R.V., “our wrestling is not,” etc.—R.\] 1026 Matt. xi. 12. \[R.V., “men of violence,” etc.—R.\] 1027 ‘They pass in stooping low, For strait and narrow was the way, which he did shew. \_\_\_\_\_\_\_\_\_ Each goodly thing is hardest to begin: But entered in, a spacious court they see, Both plaine, and pleasant to be walked in. *Spenser’s Faery Queen*, b. i. c. x. 5, 6.
+1020 Confined, τεθλιμμνη . 1021 1022 Matt. vi. 13, 14. \[R.V., “by the narrow gate;” “enter in thereby;” “For narrow is the gate, and straitened the way,” &c. Chrysostom introduces verse 14 with κα; and in some mss. of the Homilies τ is added. Comp. R.V. margin: “How narrow,” etc.—R.\] 160 1024 2 Cor. iv. 17, 18. 1025 Eph. vi. 12. \[R.V., “our wrestling is not,” etc.—R.\] 1026 Matt. xi. 12. \[R.V., “men of violence,” etc.—R.\] 1027 ‘They pass in stooping low, For strait and narrow was the way, which he did shew. \_\_\_\_\_\_\_\_\_ Each goodly thing is hardest to begin: But entered in, a spacious court they see, Both plaine, and pleasant to be walked in. *Spenser’s Faery Queen*, b. i. c. x. 5, 6.
 
 
 *[p. 292]* ^pg300
@@ -218,7 +218,7 @@ But Christ saith not this, that for the wicked there is no way to change, or tha
 
 161
 
-103\. 3 Rom. xvi. 18. \[R.V., “by their smooth and fair speech they beguile the hearts of the innocent.” But Chrysostom omits κα ελογα, agreeing with the reading of the four principal Græco-Latin mss. of the Pauline Epistles.—R.\] 1034 Matt. vii. 16–18. Rom. viii. 6, 7. \[R.V., “For the mind of the flesh,” etc. The translator has not rendered γρ, which occurs in the Greek of the Homily, as in Rom. viii. 6.—R.\] ἐπετεχισεν ατο. 1036 1037 Matt. vii. 19. Matt. vii. 20. \[There is here a slight variation from the New Testament text.—R.\]
+1033 Rom. xvi. 18. \[R.V., “by their smooth and fair speech they beguile the hearts of the innocent.” But Chrysostom omits κα ελογα, agreeing with the reading of the four principal Græco-Latin mss. of the Pauline Epistles.—R.\] 1034 Matt. vii. 16–18. Rom. viii. 6, 7. \[R.V., “For the mind of the flesh,” etc. The translator has not rendered γρ, which occurs in the Greek of the Homily, as in Rom. viii. 6.—R.\] ἐπετεχισεν ατο. 1036 1037 Matt. vii. 19. Matt. vii. 20. \[There is here a slight variation from the New Testament text.—R.\]
 
 
 *[p. 295]* ^pg303
@@ -247,7 +247,7 @@ Even here He shows His love, and indicates the yearning which He hath toward the
 
 162 1039 Phil. i. 23.
 
-104\. 0 Matt. xxv. 12.
+1040 Matt. xxv. 12.
 
 
 *[p. 297]* ^pg305
@@ -372,7 +372,7 @@ Such an one was Ahab, but not such Elijah (since when we have put virtue and vic
 
 But the Apostles not so, but how? “We cannot but speak the things which we have seen and heard.”<sup>1058</sup> Seest thou a noble spirit? seest thou a rock laughing waves to scorn? seest thou a house unshaken? And what is yet more marvellous; so far from turning cowards themselves at the plots formed against them, they even took more courage, and cast the others into greater anxiety. For so he that smites adamant, is himself the one smitten; and he that kicks against the pricks, is himself the one pricked, the one on whom the severe wounds fall: and he who is forming plots against the virtuous, is himself the one in jeopardy. For wickedness becomes so much the weaker, the more it sets itself in array against virtue. And as he who wraps up fire in a garment, extinguishes not the flame, but consumes the
 
-105\. 5 Gal. vi. 8. 1056 Acts iv. 16. 1057 Acts v. 28. \[ἑαυτν δ φνισε, “but obliterates himself.”—R.\] 1059 Matt. xiv. 2; Luke ix. 9. \[The verb ἀνελον, which occurs here, is not found in the New Testament accounts
+1055 Gal. vi. 8. 1056 Acts iv. 16. 1057 Acts v. 28. \[ἑαυτν δ φνισε, “but obliterates himself.”—R.\] 1059 Matt. xiv. 2; Luke ix. 9. \[The verb ἀνελον, which occurs here, is not found in the New Testament accounts
 
 
 *[p. 305]* ^pg313
@@ -387,7 +387,7 @@ Seest thou the rock? Seest thou the sand; how easily it sinks down, how it yield
 
 And it doth not merely fall, but with great calamity: for “great indeed,” He saith, “was the fall of it.” The risk not being of trifles, but of the soul, of the loss of Heaven, and those immortal blessings. Or rather even before that loss, no life so wretched as he must live that follows after this; dwelling with continual despondencies, alarms, cares, anxieties; which a certain wise man also was intimating when he said, “The wicked fleeth, when no man is pursuing.”<sup>1066</sup> For such men tremble at their shadows, suspect their friends, their enemies,
 
-106\. 0 of Herod’s language.—R.\] 1061 Luke iii. 10, 14. 1062 Matt. iii. 7. 1063 1 Kings xviii. 21, LXX. 1064 1 Kings xxi. 19, LXX. 1065 Mark vi. 18. Prov. xxviii. 1.
+1060 of Herod’s language.—R.\] 1061 Luke iii. 10, 14. 1062 Matt. iii. 7. 1063 1 Kings xviii. 21, LXX. 1064 1 Kings xxi. 19, LXX. 1065 Mark vi. 18. Prov. xxviii. 1.
 
 
 *[p. 306]* ^pg314
@@ -416,7 +416,7 @@ And yet it was likely that this too would disturb them. For if, when they saw Hi
 
 But do thou mark, I pray thee, the Lord’s consideration, how He varies the mode of profiting His hearers, after miracles entering on words, and again from the instruction by His words passing to miracles. Thus, both before they went up into the mountain, He healed many, preparing the way for His sayings; and after finishing that long discourse to the people, He comes again to miracles, confirming what had been said by what was done. And so, because
 
-106\. 7 \[R.V., “When Jesus ended these words, the multitudes were astonished at his teaching.”—R.\]
+1067 \[R.V., “When Jesus ended these words, the multitudes were astonished at his teaching.”—R.\]
 
 
 *[p. 308]* ^pg316
@@ -431,9 +431,9 @@ But the apostles not so: rather in what way? The whole people being in amazement
 
 And it was not that He said this, but did it not; but the work also followed immediately. Whereas, if he had not spoken well, but the saying had been a blasphemy, the work ought to have been interrupted. But now nature herself gave way at His command, and that speedily,
 
-106\. 9 Matt. vii. 2. \[The first clause is from verse 1; and the passages are joined to point the lesson from the assumed delay. But there can be little doubt that the healing of the leper took place earlier. Comp. Mark i. 40–42; Luke v. 12–16.—R.\]
+1069 Matt. vii. 2. \[The first clause is from verse 1; and the passages are joined to point the lesson from the assumed delay. But there can be little doubt that the healing of the leper took place earlier. Comp. Mark i. 40–42; Luke v. 12–16.—R.\]
 
-107\. 0 Mark i. 40. Comp. Luke v. 12. Acts iii. 12. \[The New Testament passage has been modified in the citation.—R.\]
+1070 Mark i. 40. Comp. Luke v. 12. Acts iii. 12. \[The New Testament passage has been modified in the citation.—R.\]
 
 
 *[p. 309]* ^pg317
@@ -450,7 +450,7 @@ Now some say, that for this intent He bade him tell no man, that they might prac
 
 “How then elsewhere doth He bid them tell of it?” one may ask. Not as jostling with or opposing Himself, but as teaching men to be grateful. For neither in that place did He give command to proclaim Himself, but to “give glory to God;”<sup>1074</sup>by this leper training us to
 
-107\. 2 Titus i. 15. 1073 Matt. viii. 4. 1074 Luke xvii. 18. \[This is the passage probably referred to. The Oxford edition refers to Luke vii. 18, and the Latin version to John ix. 24, where the exact phrase occurs, but in the mouths of Christ’s opposers.—R.\] 170 1075 Lev. xiv. 1–32. φιλοσοφ.
+1072 Titus i. 15. 1073 Matt. viii. 4. 1074 Luke xvii. 18. \[This is the passage probably referred to. The Oxford edition refers to Luke vii. 18, and the Latin version to John ix. 24, where the exact phrase occurs, but in the mouths of Christ’s opposers.—R.\] 170 1075 Lev. xiv. 1–32. φιλοσοφ.
 
 
 *[p. 310]* ^pg318
@@ -475,9 +475,9 @@ For this cause Paul also said, “Be ye thankful.”<sup>1081</sup> For the best
 
 For this cause even the awful mysteries, so full of that great salvation, which are celebrated at every communion, are called a sacrifice of thanksgiving,<sup>1082</sup>because they are the commemoration of many benefits, and they signify the very sum of God’s care for us, and by all means they work upon us to be thankful. For if His being born of a virgin was a great miracle, and the evangelist said in amaze, “now all this was done;” His being also slain, what place shall we find for that? tell me. I mean, if to be born is called “all this;” to be crucified, and
 
-107\. 7 \[This interpretation is scarcely admissible, nor does Chrysostom notice the disobedience of the healed man (Mark i. 45). The “testimony” is that commanded by Moses.—R.\] 1078 Matt. xxiv. 14. 1079 Ps. xix. 4; Rom. x. 18. τ φλτρ.
+1077 \[This interpretation is scarcely admissible, nor does Chrysostom notice the disobedience of the healed man (Mark i. 45). The “testimony” is that commanded by Moses.—R.\] 1078 Matt. xxiv. 14. 1079 Ps. xix. 4; Rom. x. 18. τ φλτρ.
 
-108\. 0 1081 Col. iii. 15. εχαριστα. \[The translator has paraphrased the passage. Literally, “which are at every assembly (σναξιν), are called Eucharist.” There is no suggestion of “sacrifice” in the Greek at this point.—R.\]
+1080 1081 Col. iii. 15. εχαριστα. \[The translator has paraphrased the passage. Literally, “which are at every assembly (σναξιν), are called Eucharist.” There is no suggestion of “sacrifice” in the Greek at this point.—R.\]
 
 
 *[p. 312]* ^pg320
@@ -496,7 +496,7 @@ Wherefore Paul also, everywhere in his epistles, gives thanks for God’s gracio
 
 And to pass over all the rest, which exceed the sand in multitude; what is equal to the dispensation<sup>1085</sup>that hath taken place for our sake? In that what was more precious to Him than all, even His only-begotten Son, Him He gave for us His enemies; and not only gave, but after giving, did even set Him before us as food;<sup>1086</sup> Himself doing all things that were for our good, both in giving Him, and in making us thankful for all this. For because man is for the most part unthankful, He doth Himself everywhere take in hand and bring about what is for our good. And what He did with respect to the Jews, by places, and times, and feasts, reminding them of His benefits, that He did in this case also, by the manner of the sacrifice bringing us to a perpetual remembrance of His bounty in these things.
 
-108\. 3 \[Here the word meaning “sacrifice” is used.—R.\] 1084 Luke ii. 14. \[The form is that of the received text; but “among men” is the correct rendering even of this reading.—R.\] οκονομα. 1085 τρπεζαν, a table.
+1083 \[Here the word meaning “sacrifice” is used.—R.\] 1084 Luke ii. 14. \[The form is that of the received text; but “among men” is the correct rendering even of this reading.—R.\] οκονομα. 1085 τρπεζαν, a table.
 
 
 *[p. 313]* ^pg321
@@ -507,9 +507,9 @@ No one hath so labored that we should be approved, and great, and in all things 
 
 And this springs from pride, and from thinking one’s self worthy of something. But the contrite will acknowledge grounds of thanksgiving to God, not for good things only, but also for what seem to be adverse; and how much soever he may suffer, will count none of his sufferings undeserved. Let us then also, the more we advance in virtue, so much the more make ourselves contrite; for indeed this, more than anything else is virtue. Because, as the sharper our sight is, the more thoroughly do we learn how distant we are from the sky; so the more we advance in virtue, so much the more are we instructed in the difference between God and us. And this is no small part of true wisdom,<sup>1089</sup>to be able to perceive our own desert. For he best knows himself, who accounts himself to be nothing. Thus we see that both David and Abraham, when they were come up to the highest pitch of virtue, then best fulfilled this; and would call themselves, the one, “earth and ashes,”<sup>1090</sup>the other, “a worm;”<sup>1091</sup>and all the saints too, like these, acknowledge their own wretchedness. So that he surely who is lifted up in boasting, is the very person to be most ignorant of himself. Wherefore also in our common practice we are wont to say of the proud, “he knows not himself,” “he is ignorant of himself.” And he that knows not himself, whom will he know? For as he that knows himself will know all things, so he who knows not this, neither will he know the rest.
 
-108\. 7 2 Cor. xii. 9. 1088 Wisdom xvi. 29. φιλοσοφα. 1089
+1087 2 Cor. xii. 9. 1088 Wisdom xvi. 29. φιλοσοφα. 1089
 
-109\. 0 Gen. xviii. 27.
+1090 Gen. xviii. 27.
 
 
 *[p. 314]* ^pg322
@@ -542,7 +542,7 @@ This at least He did, in an opposite way, in the case also of the Phœnician wom
 
 For being a wise physician and full of resources, He knows how to bring about contraries the one by the other.<sup>1096</sup> And as here by His freely-offered coming, so there by His peremptory putting off and denial, He unfolds the woman’s faith. So likewise He doth in Abraham’s case, saying, “I will by no means hide from Abraham my servant;”<sup>1097</sup>to make thee know that man’s kindly affection, and his care for Sodom. And in the instance of Lot,<sup>1098</sup>they that
 
-109\. 3 \[R.V., “in the house.”\] Luke vii. 2. \[R.V., “and” at the point of death; κα in the citation means “and,” not “even.”—R.\] 1094 1095 Luke v. 19. δι τν ναντων τ νντια. The argument seems to require τ ατ, “the same things by opposite means:” but no 1096 ms. authority appears for such a change. 1097 Gen. xviii. 17 \[LXX.\]. Gen. xix. 2.
+1093 \[R.V., “in the house.”\] Luke vii. 2. \[R.V., “and” at the point of death; κα in the citation means “and,” not “even.”—R.\] 1094 1095 Luke v. 19. δι τν ναντων τ νντια. The argument seems to require τ ατ, “the same things by opposite means:” but no 1096 ms. authority appears for such a change. 1097 Gen. xviii. 17 \[LXX.\]. Gen. xix. 2.
 
 
 *[p. 316]* ^pg324
@@ -561,9 +561,9 @@ What then saith the centurion? “I am not worthy that thou shouldest come under
 
 Seest thou how each of them that bore witness of His authority is “marvelled at? And the multitudes were astonished at His doctrine, because He taught as one having authority;”<sup>1102</sup>and so far from blaming them, He both took them with Him when He came down, and by His words of cleansing to the leper, confirmed their judgment. Again, that leper said, “If thou wilt, thou canst make me clean;”<sup>1103</sup>and so far from rebuking, He on the contrary
 
-109\. 9 Matt. viii. 8.
+1099 Matt. viii. 8.
 
-110\. 0 \[R.V., “only say the word,” “Gr. with a word.” Chrysostom varies from the order, placing “only” last.—R.\] 1101 Matt. viii. 4. 1102 Matt. vii. 29. 174 1104 Matt. viii. 8. 1105 Matt. viii. 10. \[The reading of the received text is found here. Comp. R.V. margin for the reading of the Vatican ms., accepted by Augustin.—R.\] 1106 John xi. 22. 1107 John xi. 40. 1108 John xi. 25. ἐνεργεαν. 1109 Matt. viii. 10. Comp. στραφες, is taken from the latter passage.—R.\]
+1100 \[R.V., “only say the word,” “Gr. with a word.” Chrysostom varies from the order, placing “only” last.—R.\] 1101 Matt. viii. 4. 1102 Matt. vii. 29. 174 1104 Matt. viii. 8. 1105 Matt. viii. 10. \[The reading of the received text is found here. Comp. R.V. margin for the reading of the Vatican ms., accepted by Augustin.—R.\] 1106 John xi. 22. 1107 John xi. 40. 1108 John xi. 25. ἐνεργεαν. 1109 Matt. viii. 10. Comp. στραφες, is taken from the latter passage.—R.\]
 
 
 *[p. 317]* ^pg325
@@ -582,7 +582,7 @@ It follows, that to have high imaginations concerning Him, this especially is of
 
 Thus, since He had shown many miracles, He proceeds to talk with them more unreservedly.
 
-111\. 0 Matt. viii. 11, 12. \[For “with” Chrysostom substitutes “in the bosom of” (ε το κλπου), commenting upon the term below (sec. 5). There is no authority for this reading, so far as now known.—R.\] 175 1112 Matt. viii. 13. τ προαιρσειποιε. 1113 1114 Luke vii. 2. 1115 John iv. 49. φιλοσοφε.
+1110 Matt. viii. 11, 12. \[For “with” Chrysostom substitutes “in the bosom of” (ε το κλπου), commenting upon the term below (sec. 5). There is no authority for this reading, so far as now known.—R.\] 175 1112 Matt. viii. 13. τ προαιρσειποιε. 1113 1114 Luke vii. 2. 1115 John iv. 49. φιλοσοφε.
 
 
 *[p. 318]* ^pg326
@@ -631,7 +631,7 @@ And not by this alone did He honor him, but also by signifying upon whose castin
 
 But that His saying might not affront<sup>1124</sup>the hearers, nor afford them any handle; He neither brings forward prominently what He hath to say of the Gentiles, but upon occasion
 
-112\. 1 Matt. viii. 9. 1122 1 Sam. xxvi. 1123 Matt. vi. 33. \[Comp. Hom. XXII. 4, p.148, on the reading “kingdom of heaven.”—R.\] προσστναι, “disagree with, be nauseous to.”
+1121 Matt. viii. 9. 1122 1 Sam. xxvi. 1123 Matt. vi. 33. \[Comp. Hom. XXII. 4, p.148, on the reading “kingdom of heaven.”—R.\] προσστναι, “disagree with, be nauseous to.”
 
 
 *[p. 321]* ^pg329
@@ -648,7 +648,7 @@ Let no man therefore suppose that the threat is one only, for both the punishmen
 
 But nevertheless, unto this great and marvellous work the centurion too contributed no little; which thing, we see, Christ also declared, saying, “Go thy way, and as thou hast
 
-112\. 5 Matt. viii. 11. 1126 \[Both terms were current in Jewish theological language; but it is implied in the argument that “Abraham’s bosom” was not so well known, or so definitely apprehended.—R.\]
+1125 Matt. viii. 11. 1126 \[Both terms were current in Jewish theological language; but it is implied in the argument that “Abraham’s bosom” was not so well known, or so definitely apprehended.—R.\]
 
 
 *[p. 322]* ^pg330
@@ -663,9 +663,9 @@ For not at all among Jews only may one see this taking place, but also among the
 
 7\. Let us not then be confident, who stand, but let us say to ourselves, “Let him that thinketh he standeth take heed lest he fall;”<sup>1131</sup>neither let us who are fallen despair, but let us say to ourselves, “He that falleth, doth he not arise?”<sup>1132</sup> For many even who have mounted to the very summit of Heaven, and have shown forth all austerity, and had made their abode in the deserts, nor saw any woman so much as in a dream; having become a
 
-112\. 8 Matt. xix. 28. 1129 Matt. xix. 30.
+1128 Matt. xix. 28. 1129 Matt. xix. 30.
 
-113\. 0 Matt. iii. 9. 1131 1 Cor. x. 12. Jer. viii. 4.
+1130 Matt. iii. 9. 1131 1 Cor. x. 12. Jer. viii. 4.
 
 
 *[p. 323]* ^pg331

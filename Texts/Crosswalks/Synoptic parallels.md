@@ -11,6 +11,7 @@ The passages that Matthew, Mark and Luke share, one row per pericope. Each refer
 - **Rows with a number** are the rows of the table of parallel texts in the *Jewish Annotated New Testament* (2nd ed., pp. 776–777), as printed there and in that order: rows 1–27 the passages of Mark that Matthew and Luke share, rows 28–48 the “Q” passages of Matthew and Luke. References in brackets are the JANT’s own brackets (a partial parallel). The JANT gives no John column.
 - **Rows with a letter** (8a, 8b …) split a JANT row that covers more than one NRSVue section of Mark into those sections, titled with the NRSVue headings. A Matthew or Luke passage is given in such a row only where the NRSVue’s own cross-references for those Mark verses point into the JANT row’s Matthew or Luke range; the passage is then the NRSVue section of Matthew or Luke holding the verse referred to, cut to the JANT range. Each passage found so was then read against the Mark section: a link of theme or wording between two different episodes is left out, and where the NRSVue section of Matthew or Luke is another episode but the verse referred to is a true parallel, only that verse is given, in brackets (both listed under the table). An empty cell in these rows does not mean there is no parallel: the JANT row above gives the whole range. Since 15 Oct 2026 (decision D31a) the Matthew and Luke cells this method left empty are filled from the parallel references the Berean Standard Bible prints under its section headings in Mark (BSB USFM, release v5.16, the source of the vault's BSB notes), cut to the JANT row's Matthew or Luke range, and used only where the row holds at least half of the BSB section (counted within the JANT row's Mark range); where that gives nothing, from the NRSVue section of Matthew or Luke that has the row's own heading, cut the same way. The *source* column says which. Two section rows still give Mark only: 17e and 19d.
 - **Verse numbers** are the NRSVue’s and the BSB’s. The Douay-Rheims numbers a few chapters differently (see the notes under the table).
+- **Where these rows leave the BSB's parallels** (24 Oct 2026; audit C-05, Stephen's decision 17 of 19 Oct): rows 14a, 19e, 19g, 23f–23g and 25a–25b take their Matthew or Luke range from the gospel text and the NRSVue's sections, not from the BSB's printed parallels, whose section breaks differ there. 14a adds Mt 10:1, the parallel of Mk 6:7; 19e runs to Mt 17:20, since 17:19–20 parallel Mk 9:28–29; 19g stops at Lk 9:48, leaving 9:49–50 to 19h; Lk 20:19, the parallel of Mk 12:12, belongs to 23f, not 23g; Lk 21:10–11, the parallel of Mk 13:8, belongs to 25a, not 25b.
 
 | id | title | Matthew | Mark | Luke | John | source |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -47,7 +48,7 @@ The passages that Matthew, Mark and Luke share, one row per pericope. Each refer
 | 12b | A girl restored to life and a woman healed | [[Matthew 09#^9-18\|Mt 9:18–26]] | [[Mark 05#^5-21\|Mk 5:21–43]] | [[Luke 08#^8-40\|Lk 8:40–56]] |  | NRSVue xref and BSB parallels |
 | 13 | Rejection in Nazareth | [[Matthew 13#^13-53\|Mt 13:53–58]] | [[Mark 06#^6-1\|Mk 6:1–6]] |  |  | JANT p. 776 ([[Synoptic parallels#Notes on the table\|check]]) |
 | 14 | Events in Jesus’ ministry | [[Matthew 10#^10-1\|Mt 10:1]], [[Matthew 10#^10-9\|9–11]]; [[Matthew 14#^14-1\|14:1–2]] | [[Mark 06#^6-7\|Mk 6:7–14]] | [[Luke 09#^9-1\|Lk 9:1–9]] |  | JANT p. 776 |
-| 14a | The mission of the twelve | [[Matthew 10#^10-9\|Mt 10:9–11]] | [[Mark 06#^6-7\|Mk 6:7–13]] | [[Luke 09#^9-1\|Lk 9:1–6]] |  | NRSVue xref and BSB parallels |
+| 14a | The mission of the twelve | [[Matthew 10#^10-1\|Mt 10:1]], [[Matthew 10#^10-9\|9–11]] | [[Mark 06#^6-7\|Mk 6:7–13]] | [[Luke 09#^9-1\|Lk 9:1–6]] |  | NRSVue xref and BSB parallels |
 | 14b | The death of John the Baptist (part) | [[Matthew 14#^14-1\|Mt 14:1–2]] | [[Mark 06#^6-14\|Mk 6:14]] | [[Luke 09#^9-7\|Lk 9:7–9]] |  | NRSVue xref and BSB parallels |
 | 15 | Death of John the Baptist | [[Matthew 14#^14-3\|Mt 14:3–12]] | [[Mark 06#^6-17\|Mk 6:17–29]] |  |  | JANT p. 776 |
 | 16 | Feeding of five thousand | [[Matthew 14#^14-13\|Mt 14:13–21]] | [[Mark 06#^6-30\|Mk 6:30–44]] | [[Luke 09#^9-10\|Lk 9:10–17]] |  | JANT p. 776 |
@@ -66,9 +67,9 @@ The passages that Matthew, Mark and Luke share, one row per pericope. Each refer
 | 19b | Jesus foretells his death and resurrection | [[Matthew 16#^16-21\|Mt 16:21–23]], [[Matthew 16#^16-24\|24–28]] | [[Mark 08#^8-31\|Mk 8:31–9:1]] | [[Luke 09#^9-21\|Lk 9:21–22]], [[Luke 09#^9-23\|23–27]] |  | NRSVue xref and BSB parallels |
 | 19c | The transfiguration | [[Matthew 17#^17-1\|Mt 17:1–13]] | [[Mark 09#^9-2\|Mk 9:2–8]] | [[Luke 09#^9-28\|Lk 9:28–36]] |  | NRSVue xref and BSB parallels |
 | 19d | The coming of Elijah |  | [[Mark 09#^9-9\|Mk 9:9–13]] |  |  | NRSVue xref |
-| 19e | The healing of a boy with a spirit | [[Matthew 17#^17-14\|Mt 17:14–18]] | [[Mark 09#^9-14\|Mk 9:14–29]] | [[Luke 09#^9-37\|Lk 9:37–42]] |  | NRSVue xref and BSB parallels |
+| 19e | The healing of a boy with a spirit | [[Matthew 17#^17-14\|Mt 17:14–20]] | [[Mark 09#^9-14\|Mk 9:14–29]] | [[Luke 09#^9-37\|Lk 9:37–42]] |  | NRSVue xref and BSB parallels |
 | 19f | Jesus again foretells his death and resurrection | [[Matthew 17#^17-22\|Mt 17:22–23]] | [[Mark 09#^9-30\|Mk 9:30–32]] | [[Luke 09#^9-43\|Lk 9:43–45]] |  | NRSVue xref and BSB parallels |
-| 19g | Who is the greatest? | [[Matthew 18#^18-1\|Mt 18:1–5]] | [[Mark 09#^9-33\|Mk 9:33–37]] | [[Luke 09#^9-46\|Lk 9:46–50]] |  | NRSVue xref and BSB parallels |
+| 19g | Who is the greatest? | [[Matthew 18#^18-1\|Mt 18:1–5]] | [[Mark 09#^9-33\|Mk 9:33–37]] | [[Luke 09#^9-46\|Lk 9:46–48]] |  | NRSVue xref and BSB parallels |
 | 19h | Another exorcist |  | [[Mark 09#^9-38\|Mk 9:38–41]] | [[Luke 09#^9-49\|Lk 9:49–50]] |  | NRSVue xref and NRSVue heading |
 | 19i | Temptations to sin (part) | [[Matthew 18#^18-6\|Mt 18:6–9]] | [[Mark 09#^9-42\|Mk 9:42–48]] | [[Luke 17#^17-1\|Lk 17:1–2]] |  | NRSVue xref and BSB parallels |
 | 20 | Sayings of Jesus | [[Matthew 22#^22-34\|Mt 22:34–40]] | [[Mark 12#^12-28\|Mk 12:28–31]] | [[Luke 10#^10-25\|Lk 10:25–28]] |  | JANT p. 776 ([[Synoptic parallels#Notes on the table\|check]]) |
@@ -85,15 +86,15 @@ The passages that Matthew, Mark and Luke share, one row per pericope. Each refer
 | 23c | Jesus cleanses the temple | [[Matthew 21#^21-12\|Mt 21:12–17]] | [[Mark 11#^11-15\|Mk 11:15–19]] | [[Luke 19#^19-45\|Lk 19:45–48]] |  | NRSVue xref and BSB parallels |
 | 23d | The lesson from the withered fig tree | [[Matthew 21#^21-18\|Mt 21:18–22]] | [[Mark 11#^11-20\|Mk 11:20–25]] |  |  | NRSVue xref |
 | 23e | Jesus’s authority is questioned | [[Matthew 21#^21-23\|Mt 21:23–27]] | [[Mark 11#^11-27\|Mk 11:27–33]] | [[Luke 20#^20-1\|Lk 20:1–8]] |  | NRSVue xref and BSB parallels |
-| 23f | The parable of the wicked tenants | [[Matthew 21#^21-33\|Mt 21:33–46]] | [[Mark 12#^12-1\|Mk 12:1–12]] | [[Luke 20#^20-9\|Lk 20:9–18]] |  | NRSVue xref and BSB parallels |
-| 23g | The question about paying taxes | [[Matthew 22#^22-15\|Mt 22:15–22]] | [[Mark 12#^12-13\|Mk 12:13–17]] | [[Luke 20#^20-19\|Lk 20:19–26]] |  | NRSVue xref and BSB parallels |
+| 23f | The parable of the wicked tenants | [[Matthew 21#^21-33\|Mt 21:33–46]] | [[Mark 12#^12-1\|Mk 12:1–12]] | [[Luke 20#^20-9\|Lk 20:9–19]] |  | NRSVue xref and BSB parallels |
+| 23g | The question about paying taxes | [[Matthew 22#^22-15\|Mt 22:15–22]] | [[Mark 12#^12-13\|Mk 12:13–17]] | [[Luke 20#^20-20\|Lk 20:20–26]] |  | NRSVue xref and BSB parallels |
 | 23h | The question about the resurrection | [[Matthew 22#^22-23\|Mt 22:23–33]] | [[Mark 12#^12-18\|Mk 12:18–27]] | [[Luke 20#^20-27\|Lk 20:27–40]] |  | NRSVue xref and BSB parallels |
 | 23i | The first commandment | ([[Matthew 22#^22-46\|Mt 22:46]]) | [[Mark 12#^12-28\|Mk 12:28–34]] | ([[Luke 20#^20-39\|Lk 20:39]]; [[Luke 10#^10-25\|10:25–28]]) |  | NRSVue xref |
 | 23j | The question about David’s son | [[Matthew 22#^22-41\|Mt 22:41–46]] | [[Mark 12#^12-35\|Mk 12:35–37]] | [[Luke 20#^20-41\|Lk 20:41–44]] |  | NRSVue xref and BSB parallels |
 | 24 | The poor widow |  | [[Mark 12#^12-41\|Mk 12:41–44]] | [[Luke 21#^21-1\|Lk 21:1–4]] |  | JANT p. 776 |
 | 25 | Sayings of Jesus about the end | [[Matthew 24#^24-1\|Mt 24:1–36]] | [[Mark 13#^13-1\|Mk 13:1–32]] | [[Luke 21#^21-5\|Lk 21:5–33]] |  | JANT p. 776 |
-| 25a | The destruction of the temple foretold | [[Matthew 24#^24-1\|Mt 24:1–8]] | [[Mark 13#^13-1\|Mk 13:1–8]] | [[Luke 21#^21-5\|Lk 21:5–9]] |  | NRSVue xref and BSB parallels |
-| 25b | Persecution foretold | [[Matthew 24#^24-9\|Mt 24:9–14]] | [[Mark 13#^13-9\|Mk 13:9–13]] | [[Luke 21#^21-10\|Lk 21:10–19]] |  | NRSVue xref and BSB parallels |
+| 25a | The destruction of the temple foretold | [[Matthew 24#^24-1\|Mt 24:1–8]] | [[Mark 13#^13-1\|Mk 13:1–8]] | [[Luke 21#^21-5\|Lk 21:5–11]] |  | NRSVue xref and BSB parallels |
+| 25b | Persecution foretold | [[Matthew 24#^24-9\|Mt 24:9–14]] | [[Mark 13#^13-9\|Mk 13:9–13]] | [[Luke 21#^21-12\|Lk 21:12–19]] |  | NRSVue xref and BSB parallels |
 | 25c | The desolating sacrilege | [[Matthew 24#^24-15\|Mt 24:15–25]] | [[Mark 13#^13-14\|Mk 13:14–23]] | [[Luke 21#^21-20\|Lk 21:20–24]] |  | NRSVue xref and BSB parallels |
 | 25d | The coming of the Son of Man | [[Matthew 24#^24-26\|Mt 24:26–31]] | [[Mark 13#^13-24\|Mk 13:24–27]] | [[Luke 21#^21-25\|Lk 21:25–28]] |  | NRSVue xref and BSB parallels |
 | 25e | The lesson of the fig tree | [[Matthew 24#^24-32\|Mt 24:32–35]] | [[Mark 13#^13-28\|Mk 13:28–31]] | [[Luke 21#^21-29\|Lk 21:29–33]] |  | NRSVue xref and BSB parallels |

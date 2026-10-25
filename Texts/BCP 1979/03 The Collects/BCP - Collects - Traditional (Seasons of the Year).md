@@ -5,9 +5,7 @@ section: "The Collects"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Collects/seasonst.html"
-page_range:
-  - 159
-  - 185
+page_range: "159–185"
 aliases:
   - "BCP 159"
   - "BCP 160"
@@ -41,7 +39,7 @@ aliases:
 
 [[BCP 1979]] · *The Collects* · pages 159–185
 
-[p. 159]
+[p. 159] ^pg159
 
 ## Collects: Traditional
 
@@ -57,7 +55,7 @@ Merciful God, who didst send thy messengers the prophets to preach repentance an
 
 *Preface of Advent*
 
-[p. 160]
+[p. 160] ^pg160
 
 ### Third Sunday of Advent
 
@@ -81,7 +79,7 @@ O God, who makest us glad by the yearly remembrance of the birth of thy only Son
 
 *or the following*
 
-[p. 161]
+[p. 161] ^pg161
 
 O God, who hast caused this holy night to shine with the illumination of the true Light: Grant us, we beseech thee, that as we have known the mystery of that Light upon earth, so may we also perfectly enjoy him in heaven; where with thee and the Holy Spirit he liveth and reigneth, one God, in glory everlasting. *Amen.* ^collect-the-nativity-of-our-lord-christmas-day-2
 
@@ -101,7 +99,7 @@ Almighty God, who hast poured upon us the new light of thine incarnate Word: Gra
 
 *Preface of the Incarnation*
 
-[p. 162]
+[p. 162] ^pg162
 
 ### The Holy Name
 
@@ -127,7 +125,7 @@ O God, who by the leading of a star didst manifest thy only- begotten Son to the
 
 *The preceding Collect, with the Psalm and Lessons for the Epiphany, or those for the Second Sunday after Christmas Day, serves for weekdays between the Epiphany and the following Sunday. The Preface of the Epiphany is used.*
 
-[p. 163]
+[p. 163] ^pg163
 
 ### First Sunday after the Epiphany: The Baptism of our Lord
 
@@ -147,7 +145,7 @@ Give us grace, O Lord, to answer readily the call of our Savior Jesus Christ and
 
 *Preface of the Epiphany, or of the Lord's Day*
 
-[p. 164]
+[p. 164] ^pg164
 
 ### Fourth Sunday after the Epiphany
 
@@ -187,7 +185,7 @@ O God, who before the passion of thy only-begotten Son didst reveal his glory up
 
 *Preface of the Epiphany*
 
-[p. 166]
+[p. 166] ^pg166
 
 ### Ash Wednesday
 
@@ -231,7 +229,7 @@ O Almighty God, who alone canst order the unruly wills and affections of sinful 
 
 *Preface of Lent*
 
-[p. 168]
+[p. 168] ^pg168
 
 ### Sunday of the Passion: Palm Sunday
 
@@ -253,7 +251,7 @@ O God, by the passion of thy blessed Son didst make an instrument of shameful de
 
 *Preface of Holy Week*
 
-[p. 169]
+[p. 169] ^pg169
 
 ### Wednesday in Holy Week
 
@@ -275,7 +273,7 @@ Almighty Father, whose dear Son, on the night before he suffered, did institute 
 
 Almighty God, we beseech thee graciously to behold this thy family, for whom our Lord Jesus Christ was contented to be betrayed, and given into the hands of sinners, and to suffer death upon the cross; who now liveth and reigneth with thee and the Holy Ghost ever, one God, world without end. *Amen.* ^collect-good-friday
 
-[p. 170]
+[p. 170] ^pg170
 
 ### Holy Saturday
 
@@ -317,7 +315,7 @@ O God, whose blessed Son did manifest himself to his disciples in the breaking o
 
 *Preface of Easter*
 
-[p. 172]
+[p. 172] ^pg172
 
 ### Thursday in Easter Week
 
@@ -361,7 +359,7 @@ O Almighty God, whom truly to know is everlasting life: Grant us so perfectly to
 
 *Preface of Easter*
 
-[p. 174]
+[p. 174] ^pg174
 
 ### Sixth Sunday of Easter
 
@@ -383,7 +381,7 @@ Grant, we beseech thee, Almighty God, that like as we do believe thy only-begott
 
 *Either of the preceding Collects, with the proper Psalm and Lessons for Ascension Day, serves for the following weekdays, except as otherwise appointed.*
 
-[p. 175]
+[p. 175] ^pg175
 
 ### Seventh Sunday of Easter: The Sunday after Ascension Day
 
@@ -403,7 +401,7 @@ O God, who on this day didst teach the hearts of thy faithful people by sending 
 
 *Preface of Pentecost*
 
-[p. 176]
+[p. 176] ^pg176
 
 *On the weekdays which follow, the numbered Proper which corresponds most closely to the date of Pentecost in that year is used. See page 158.*
 
@@ -453,7 +451,7 @@ O God, whose never-failing providence ordereth all things both in heaven and ear
 
 *Preface of the Lord's Day*
 
-[p. 178]
+[p. 178] ^pg178
 
 ### Proper 5
 
@@ -511,7 +509,7 @@ Almighty God, the fountain of all wisdom, who knowest our necessities before we 
 
 *Preface of the Lord's Day*
 
-[p. 180]
+[p. 180] ^pg180
 
 ### Proper 12
 
@@ -569,7 +567,7 @@ Grant us, O Lord, we pray thee, to trust in thee with all our heart; seeing that
 
 *Preface of the Lord's Day*
 
-[p. 182]
+[p. 182] ^pg182
 
 ### Proper 19
 
@@ -629,7 +627,7 @@ Almighty and everlasting God, give unto us the increase of faith, hope, and char
 
 *Preface of the Lord's Day*
 
-[p. 184]
+[p. 184] ^pg184
 
 ### Proper 26
 
@@ -655,7 +653,7 @@ Blessed Lord, who hast caused all holy Scriptures to be written for our learning
 
 *Preface of the Lord's Day*
 
-[p. 185]
+[p. 185] ^pg185
 
 ### Proper 29
 

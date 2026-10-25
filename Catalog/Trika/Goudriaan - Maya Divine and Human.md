@@ -17,8 +17,7 @@ language:
   - English
 pages: 531
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Teun Goudriaan - Maya Divine and Human-Motilal Banarsidass (1978).pdf]]"
   - "[[Library/Trika/Maya Divine and Human (Goudriaan)/Maya Divine and Human (Goudriaan)]]"

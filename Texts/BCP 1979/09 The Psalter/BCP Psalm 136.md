@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 136
 verses: 26
-page_range:
-  - 790
-  - 791
+page_range: "790–791"
 aliases:
   - "BCP Psalm 136"
   - "BCP 790"
@@ -29,7 +27,7 @@ for his mercy endures for ever. ^136-1
 **136:2** Give thanks to the God of gods, \*  
 for his mercy endures for ever. ^136-2
 
-[p. 790]
+[p. 790] ^pg790
 
 **136:3** Give thanks to the Lord of lords, \*  
 for his mercy endures for ever. ^136-3
@@ -70,7 +68,7 @@ for his mercy endures for ever; ^136-14
 **136:15** But swept Pharaoh and his army into the Red Sea, \*  
 for his mercy endures for ever; ^136-15
 
-[p. 791]
+[p. 791] ^pg791
 
 **136:16** Who led his people through the wilderness, \*  
 for his mercy endures for ever. ^136-16

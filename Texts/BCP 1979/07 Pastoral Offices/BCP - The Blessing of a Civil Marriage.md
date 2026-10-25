@@ -5,9 +5,7 @@ section: "Pastoral Offices"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/PastoralOffices/civilmarriage.html"
-page_range:
-  - 433
-  - 434
+page_range: "433–434"
 aliases:
   - "BCP 433"
   - "BCP 434"
@@ -16,7 +14,7 @@ aliases:
 
 [[BCP 1979]] · *Pastoral Offices* · pages 433–434
 
-[p. 433]
+[p. 433] ^pg433
 
 ## The Blessing of a Civil Marriage
 
@@ -38,7 +36,7 @@ The Husband answers I do.
 
 The Wife answers I do.
 
-[p. 434]
+[p. 434] ^pg434
 
 *The Celebrant then addresses the congregation, saying*
 

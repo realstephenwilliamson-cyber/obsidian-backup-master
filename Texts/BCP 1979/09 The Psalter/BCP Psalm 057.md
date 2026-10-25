@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 57
 verses: 11
-page_range:
-  - 664
-  - 664
+page_range: "664"
 aliases:
   - "BCP Psalm 57"
   - "BCP 664"
@@ -34,7 +32,7 @@ the God who maintains my cause. ^57-2
 he will confound those who trample upon me; \*  
 God will send forth his love and his faithfulness. ^57-3
 
-[p. 664]
+[p. 664] ^pg664
 
 **57:4** I lie in the midst of lions that devour the people; \*  
 their teeth are spears and arrows,  

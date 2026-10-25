@@ -18,8 +18,7 @@ language:
   - English
 pages: 231
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Acri, Rosati (eds.) - Tantra, Magic, and Vernacular Religions in Monsoon Asia (2023).pdf]]"
   - "[[Library/Hinduism/Tantra, Magic, and Vernacular Religions in Monsoon Asia (Acri)/Tantra, Magic, and Vernacular Religions in Monsoon Asia (Acri)]]"

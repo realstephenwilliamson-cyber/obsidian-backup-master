@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 4
 verses: 8
-page_range:
-  - 588
-  - 588
+page_range: "588"
 aliases:
   - "BCP Psalm 4"
   - "BCP 588"
@@ -26,7 +24,7 @@ Hebrew text and JPS translation: [[Psalms 004]]
 you set me free when I am hard-pressed;  
 have mercy on me and hear my prayer. ^4-1
 
-[p. 588]
+[p. 588] ^pg588
 
 **4:2** "You mortals, how long will you dishonor my glory; \*  
 how long will you worship dumb idols  

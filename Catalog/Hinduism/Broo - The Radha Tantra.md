@@ -19,8 +19,7 @@ language:
   - Sanskrit
 pages:
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[The Radha Tantra (Broo)]]"
 aliases: []

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 2
 verses: 13
-page_range:
-  - 586
-  - 587
+page_range: "586–587"
 aliases:
   - "BCP Psalm 2"
   - "BCP 586"
@@ -61,7 +59,7 @@ and with trembling bow before him; ^2-11
 **2:12** Lest he be angry and you perish; \*  
 for his wrath is quickly kindled. ^2-12
 
-[p. 587]
+[p. 587] ^pg587
 
 **2:13** Happy are they all \*  
 who take refuge in him! ^2-13

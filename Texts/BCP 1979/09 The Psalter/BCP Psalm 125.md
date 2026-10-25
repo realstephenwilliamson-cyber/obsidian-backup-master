@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 125
 verses: 5
-page_range:
-  - 782
-  - 782
+page_range: "782"
 aliases:
   - "BCP Psalm 125"
   - "BCP 782"
@@ -32,7 +30,7 @@ from this time forth for evermore. ^125-2
 **125:3** The scepter of the wicked shall not hold sway over the land allotted to the just, \*  
 so that the just shall not put their hands to evil. ^125-3
 
-[p. 782]
+[p. 782] ^pg782
 
 **125:4** Show your goodness, O LORD, to those who are good \*  
 and to those who are true of heart. ^125-4

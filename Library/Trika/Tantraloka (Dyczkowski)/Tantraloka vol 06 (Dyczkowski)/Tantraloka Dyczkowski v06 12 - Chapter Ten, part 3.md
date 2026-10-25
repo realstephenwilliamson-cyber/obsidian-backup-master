@@ -40,7 +40,7 @@ Surely (one may ask), if Śiva himself is in this way an object of knowledge, th
 Śiva is Not Objective and is Undivided 
 
 तथा वेदयस्वभावेऽपि वस्तुतो न शिवात्मताम् ॥ १२० ॥
-कोऽपि भावः प्रोज्छतीति सत्यं तद्धावना फलेत् tathā vedyasvabhāve ‘pi vastuto na śivātmatām ॥ 120 |I ko ‘pi bhāvaḥ projjhatīti satyarn tadbhāvanā phalet | 
+कोऽपि भावः प्रोज्छतीति सत्यं तद्धावना फलेत् tathā vedyasvabhāve ‘pi vastuto na śivātmatām ॥ 120 ॥ ko ‘pi bhāvaḥ projjhatīti satyaṁ tadbhāvanā phalet | 
 
 166\. See below, 13/104, where Abhinava appears to comment on this statement. We are reminded of \[illegible\] 6/5: ‘Let a man raise himself by his own self; let him not debase himself. For he is himself his friend, himself his foe.”
 
@@ -109,7 +109,7 @@ Deep Sleep and Awaking
 
 Divisions of the Other Subjects from Thirteen Onwards महेशवरशमन्राणां तथा केवलिनर््रयोः || १२३ ॥।
 अनन्तभेदतैकेक स्थिता सकलवत्किल ।
-maheśvareśamantrāṇāṁ tathā kevalinor dvayoḥ ॥ 123 II anantabhedataikaikaṁ sthitā sakalavat kila | 
+maheśvareśamantrāṇāṁ tathā kevalinor dvayoḥ ॥ 123 ॥ anantabhedataikaikaṁ sthitā sakalavat kila | 
 
 Just as the divisions of the Fully Conditioned (sakala) (perceivers) are endless, so too are those of each one (of the types of perceivers, namely) the Great Lords of Mantra, the Lords of Mantra, the Mantras, the Consciousness Deconditioned (vijñānākala), and Dissolution Deconditioned (pralayākala) (perceivers). (123cd-124ab) 
 
@@ -221,7 +221,7 @@ Again, there is no difference between Consciousness Deconditioned perceivers, ev
 
 विज्ञानकेवलादीनां तावत्यपि न वै भिदा ।। १३० ॥
 शिवस्वाच्छन्दयमात्रं तु भेदायैषां विजृम्भते ।
-vijñānakevalādīnār tāvaty api na vai bhidā I| 130 ॥
+vijñānakevalādīnār tāvaty api na vai bhidā ॥ 130 ॥
 sivasvācchandyamātraṁ tu bhedāyaiṣām vijṛmbhate | 
 
 *[p. 377]* ^pg396
@@ -353,7 +353,7 @@ Not only the Dissolution Deconditioned (perceivers) wake up in two ways ~ the Co
 मन््रादित्वाय वा जातु जातु संसृतयेऽपि वा | १३८ ॥
 
 jñānākalo ‘pi mantreśamaheśatvāya budhyate |
-mantrāditvāya vā jātu jātu sarhisṛtaye ‘pi vā |l 138 ॥ 
+mantrāditvāya vā jātu jātu sarhisṛtaye ‘pi vā ॥ 138 ॥ 
 
 may awaken to become a Great Lord of Mantra, a Lord of Mantra, Mantra and the rest, or he may sometimes (wake up to return) to transmigratory existence. (138) 
 
@@ -403,7 +403,7 @@ Thus, it is said in the Śrīpūrvaśāsana (i.e. Mālinīvijayottara) that: ‘
 
 That is said there: 
 
-[^181]: Gnoli suggests the emendation kevalaḥ for kevalarn. If we retain the reading in the printed edition, the meaning would be ‘only because of (his) conditioned nature’.
+[^181]: Gnoli suggests the emendation kevalaḥ for kevalaṁ. If we retain the reading in the printed edition, the meaning would be ‘only because of (his) conditioned nature’.
 [^182]: Above, 9/90cd-92ab.
 [^183]: Paraphrase of MV 1/18cd-19ab.
 
@@ -556,7 +556,7 @@ Surely (one may ask), even if that beautiful woman is being enjoyed (in this way
 tām eva dṛṣṭvā ca tadā samānāśayabhāg api ॥ 147 ॥
 anyas tathā na saṁvitte kam atropalabhāmahe | 
 
-(If) another (man), once having seen that same (woman) is not gripped then by the same sentiments, even though he has the same disposition \[illegible\] whom do we blame? (147cd-148ab) 
+(If) another (man), once having seen that same (woman) is not gripped then by the same sentiments, even though he has the same disposition (āśaya), whom do we blame? (147cd-148ab) 
 
 #### Viveka on 10.147–148
 
@@ -653,7 +653,7 @@ kā kathānyatra tu bhaved bhoge vāpi svarūpake ॥ 152 ॥
 
 #### Viveka on 10.152
 
-Whereas the worlds of Rudra and \[illegible\] (both) equally belong to the Earth (principle), the experience (bhoga) (of them and their) nature (svarāpa) is varied. So what to say of these two in other cases, that is, (the experience and nature of) the world-orders etc. that are Earth, Water and the rest? Thus it is said: ‘what then to say (of the difference between them and other world-orders) in other cases?’ 
+Whereas the worlds of Rudra and Viṣṇu (both) equally belong to the Earth (principle), the experience (bhoga) (of them and their) nature (svarāpa) is varied. So what to say of these two in other cases, that is, (the experience and nature of) the world-orders etc. that are Earth, Water and the rest? Thus it is said: ‘what then to say (of the difference between them and other world-orders) in other cases?’ 
 
 Surely then, please explain in detail that by virtue of which the world-orders etc. are wonderfully varied in this way. With this question in mind, he says: 
 
@@ -686,7 +686,7 @@ There (in that context), it was said previously, that there are fourteen main ki
 रूपमेकान्नपञ्चाशत्स्वरूपं चाधिकं ततः ।। १५४ ॥।
 
 saptānāri mātṛśaktīnām \[illegible\] bhedane sati |
-rūpam ekānnapañcāśat \[illegible\] \[illegible\] cādhikaṁ tataḥ ॥ 154 I| 
+rūpam ekānnapañcāśat \[illegible\] \[illegible\] cādhikaṁ tataḥ ॥ 154 ॥ 
 
 (Thus,) the mutual conjunction of the seven powers of the (Conditioned and other subjects) gives rise to forty-nine divisions, with an extra one for the essential nature (of the subject). (154) 
 
@@ -902,7 +902,7 @@ Surely (one may ask), what has been said, namely, the emergence and concealment 
 atrāpi vedyatā nāma tādātmyaṁ vedakaiḥ saha |
 tataḥ sakalavedyo ‘sau ghaṭaḥ sakala eva hi || 165 ॥
 yāvac chivaikavedyo ‘sau siva evāvabhāsate |
-tāvad ekaśarīro hi bodho bhāty eva yāvatā I| 166 ॥ 
+tāvad ekaśarīro hi bodho bhāty eva yāvatā ॥ 166 ॥ 
 
 Here (in this case) also, perceptibility is one with (the corresponding) perceivers. Thus, the jar that is perceptible to a Conditioned (perceiver) (sakalavedya) is itself conditioned (sakala). To the degree in which that (object) is perceptible to Śiva alone, it is just Śiva who manifests. To the same degree (as in all these cases), consciousness manifests as possessing one body (which is all things). (165-166) 
 
@@ -1035,7 +1035,7 @@ Nor should one say that this memory has arisen from the experience of the pleasi
 तदैव स्मृतिरेषेति नार्थजज्ञानजा स्मृतिः ॥ १७५ ॥
 
 yadaiva sa kṣaṇaṁ sūkṣmaṁ nidrāyaiva prabuddhyate |
-tadaiva smṛtir \[illegible\] nārthajajñānajā smṛtiḥ |l 175 ॥ 
+tadaiva smṛtir \[illegible\] nārthajajñānajā smṛtiḥ ॥ 175 ॥ 
 
 Recollection (of having slept deeply) takes place then, just at the very subtle moment when one wakes up from sleep. It is not (the same as the) memory which results from cognition, (which in its turn) originates from an object. (175) 
 
@@ -1094,10 +1094,10 @@ The Seven Perceivers and Their Powers
 सकलान्तास्तु तास्तिख इच्छाज्ञानक्रिया मताः ।
 
 asyaiva saptakasya svasvavyāpāraprakalpane |
-prakṣobho yas tad evoktaṁ śaktīnāmi saptakarn sphutam" || 178 II sivo hy acyutacidrūpas tisras tacchaktayas tu yāh |
-tāh svātantryavaśopātta grahitṛgrāhyarūpikāḥ?" ॥ 179 ॥
+prakṣobho yas tad evoktaṁ śaktīnāmi saptakaṁ sphutam" || 178 || sivo hy acyutacidrūpas tisras tacchaktayas tu yāḥ |
+tāḥ svātantryavaśopātta grahitṛgrāhyarūpikāḥ?" ॥ 179 ॥
 tridhā mantrāvasānāḥ syur udāsīnā iva sthitāḥ |
-grāhyākāroparāgāt tu grahitrākāratāvaśātṛ” ॥ 180 II sakalāntās tu tās tisra icchājñānakriyā matāḥ | 
+grāhyākāroparāgāt tu grahitrākāratāvaśātṛ” ॥ 180 ॥ sakalāntās tu tās tisra icchājñānakriyā matāḥ | 
 
 It is said that the disturbed condition (prakṣobha) of these seven (subjects that results) when they are engaged in their respective tasks is clearly (their corresponding) seven powers. Śiva is the (eternally) persistent (acyuta) conscious nature. He possesses three powers, that by virtue of (His) freedom have assumed the forms of (the energies of) the perceiver and the perceived. By virtue of their form as the perceiver, they are the three kinds (of pure perceivers), ending with Mantra, that (undisturbed) are as if aloof (udāsīna) (from all activity). Whereas, coloured by the form of the object, those three, that are known to be (the powers of) will, knowledge and action, are (the three impure perceivers), ending with the Conditioned (Sakala) (subjects).? (178-181ab) 
 
@@ -1113,7 +1113,7 @@ It is said that the disturbed condition (prakṣobha) of these seven (subjects t
 
 212\. grahītrākāratāvaśāt grāhyākāroparāgāt tu for grāhyākāroparāgāt tu grahītrākāratāvaśāt.
 
-213\. After MVV 1/977-979, that Abhinava reproduces here with explanatory supplements, he writes: grahītṛbhāgodrekenṇa grāhyabhāgocchalattvataḥ | sapta sapteti yat tv ekan jadamātraṁ narātmakam || tat svarūpath tatas traidharn pratitattvarn vyavasthitam | ‘They are (in two groups of) seven, (one or the other, according to whether) the subjective part predominates (or) the outpouring of the objective aspect. There is one (moment) that is purely insentient (jadamātra). It is Nara, and that is the ‘own nature’ (svarūpa). Thus, each reality level (rattva) is ordered in three ways.’ MVV 1/980-981ab
+213\. After MVV 1/977-979, that Abhinava reproduces here with explanatory supplements, he writes: grahītṛbhāgodrekenṇa grāhyabhāgocchalattvataḥ | sapta sapteti yat tv ekan jadamātraṁ narātmakam || tat svarūpath tatas traidhaṁ pratitattvaṁ vyavasthitam | ‘They are (in two groups of) seven, (one or the other, according to whether) the subjective part predominates (or) the outpouring of the objective aspect. There is one (moment) that is purely insentient (jadamātra). It is Nara, and that is the ‘own nature’ (svarūpa). Thus, each reality level (rattva) is ordered in three ways.’ MVV 1/980-981ab
 
 
 *[p. 402]* ^pg421
@@ -1138,7 +1138,7 @@ He (now) concludes (this point).
 *[p. 403]* ^pg422
 
 सप्तधेत्थं प्रमातृत्वं तत्क्षोभो मानता तथा ॥ १८१ ॥
-saptadhetthaḥ pramātṛtvaṁ tatkṣobho mānatā tathā ॥ 181 Il 
+saptadhetthaḥ pramātṛtvaṁ tatkṣobho mānatā tathā ॥ 181 ॥ 
 
 Tn this way, there are seven kinds of subjectivity. In the same way, its disturbed condition corresponds to the state of the means of knowledge. (1810) 
 
@@ -1173,7 +1173,7 @@ He (now) applies this (teaching) elsewhere also.
 ### TĀ 10.183
 
 एवं जलाद्यपि वदेद्धेदर्भिन्नं महामतिः ।
-evar jalādy api vaded bhedair bhinnarn mahāmatiḥ | 
+evar jalādy api vaded bhedair bhinnaṁ mahāmatiḥ | 
 
 [^216]: Tt appears that the reference to Nara here as a Trika teaching identifies the source as a Trika Tantra. See above, note ad 10/170-172.
 
@@ -1199,7 +1199,7 @@ From this point of view, this division into fifteen aspects occurs generally in 
 
 #### Viveka on 10.183–184
 
-(One may ask: This division into fifteen aspects occurs) ‘in all the divisions up to the Great Lords of Mantra’; that is to say, the Dissolution Deconditioned (perceivers) and the rest. The sense is that (if that is so,) what has been said concerning the thirteen-fold and other (divisions) is contrary to the logic (underlying this teaching) \[illegible\] (In response to this objection, we say that) this is indeed true, however, like the thirteen-fold and other (divisions), it is not clearly evident (at these levels) and so is not mentioned here. 
+(One may ask: This division into fifteen aspects occurs) ‘in all the divisions up to the Great Lords of Mantra’; that is to say, the Dissolution Deconditioned (perceivers) and the rest. The sense is that (if that is so,) what has been said concerning the thirteen-fold and other (divisions) is contrary to the logic (underlying this teaching) (nyāya). (In response to this objection, we say that) this is indeed true, however, like the thirteen-fold and other (divisions), it is not clearly evident (at these levels) and so is not mentioned here. 
 
 Surely (one may ask), the succeeding lower nature, merged into the (corresponding one) before it (in the ascending order), abandons its own nature. As a consequence, there would not be any place for the fifteen-fold etc. (states of the ascending series of perceivers, up to the Great Lords of Mantra). With this doubt in mind, he says: 
 
@@ -1266,11 +1266,11 @@ by the venerable Śambhunātha.?” (186cd-187ab)
 samaste ‘rthe ‘tra nirgrāhye tutayaḥ ṣodaśa kṣanāḥ ॥ 187 ॥
 ṣaṭtrihśadamtigule \[illegible\] sāṁśadvyaṁgulakalpitāḥ | 
 
-Sixteen time-units of the breath (tufi) (are as many) moments \[illegible\] (of perception, discernible) here in all that is perceivable. = Each 
+Sixteen time-units of the breath (tufi) (are as many) moments (kṣaṇa) (of perception, discernible) here in all that is perceivable. = Each 
 
-219\. \[illegible\] Concerning this passage from 10/187cd-226ab, see also TSā p. 102-105 and MVV 1/977-991. TĀ 10/187cd-188ab is equivalent to MVV 1/981cd-982ab, that reads: kim cārthe khalu nirgrāhye tutayaḥ ṣodaśa kṣanāḥ || sapādadvyangulāveśāt pratyekaṁ parikalpitāḥ | ‘Moreover, sixteen time-units of the breath \[illegible\] (are as many) moments \[illegible\] (of perception discernible) here in perceivable reality. Each is formed (parikalpita) by penetrating two and a quarter finger (breadths) (into the 36 fingers breadths of the movement of the breath).”
+219\. \[illegible\] Concerning this passage from 10/187cd-226ab, see also TSā p. 102-105 and MVV 1/977-991. TĀ 10/187cd-188ab is equivalent to MVV 1/981cd-982ab, that reads: kim cārthe khalu nirgrāhye tutayaḥ ṣodaśa kṣanāḥ || sapādadvyangulāveśāt pratyekaṁ parikalpitāḥ | ‘Moreover, sixteen time-units of the breath \[illegible\] (are as many) moments (kṣaṇa) (of perception discernible) here in perceivable reality. Each is formed (parikalpita) by penetrating two and a quarter finger (breadths) (into the 36 fingers breadths of the movement of the breath).”
 
-220\. \[illegible\] Above, 6/64d. We have seen above (note 6,71) that the tuṭi (corrupt for truṭi lit ‘fragment’) is a unit of time commonly used in the Siddhāntas although, surprisingly less so in modern Indian astronomy. It is applied to measure spans of time in the cycle of the breath and perception. We have seen that, in the course of inhalation or exhalation, the breath traverses a distance of thirty-six finger spans. This takes two seconds, which comprise sixteen tuṭis. Thus, a tuṭi is one-eighth of a second inside the breath, and is the time taken for the breath to move a distance of two and a quarter fingers’ breadth. This teaching, imparted to Abhinava by his Trika teacher Śambhunātha, equates these units of time related to the breath with the ‘moments’ (kṣana), that are the units of the act of perception, as is the usage in the verses that follow, up to 196. Although the two terms are sometimes used interchangeably, in this context, in order to make sense of what Abhinava is saying, we need to distinguish the parameters to which the two measures refer here. It seems that Jayaratha is not clear about this distinction, or at least does not clarify it. Instead, he confuses the reader by referring to the Svacchandatantra. It is clear that Abhinava is equating a ‘tuṭi’ with a ‘kṣaṇa’. But if we take the two as measures of time as being within the same parameter, then, as Jayaratha himself points out, the use of the term kṣaṇa here is anomalous. Normally, two of them make a tuṭi. He cannot fail to notice this, but tries to circumvent the problem by saying that this is a special case. Moreover, we are not told anything by simply taking the two to be synonyms, as Jayaratha does. We find an application of the transposition of the act of perception to the movement of the breath in the commentary by Śivopādhyāya on VB 24: Ārdhve prāṇo hy adho jīvo visargātmā paroccaret | utpattidvitayasthāne bharaṇāt bharitā sthitiḥ ॥ ‘The exhaled breath (prānṇa) (harn) above and the inhaled (jīva) (sah) below, (the goddess) Parā who is emission (visarga) should be uttered forth (and made manifest in this way) within the two places where they originate. (The yogi attains) the state of plenitude by filling (them with the power of awareness). In a long commentary on this meditative practice (dhāraṇā), Śivopādhyāya supplies several ways in which to do it, which he classifies as belonging to one or other of the three categories of means to realisation (upāya). He tells us that the following way of applying attention to the flow of the breath belongs to the Empowered Means, just as Abhinava implicitly tells us the practice he is describing here does (see below 10/200cd-203 and note). Śivopādhyāya explains: ‘The exhaled breath is ‘above’ as the most excellent. It is the extending flow (prasara) of (the powers of) will, knowledge and action, which impels (and give life) (anuprānṇaka) to all things. The one ‘below’ is the lesser one, as the one which is to be contemplated as objectivity (idantā). It is the exhaled breath (jīva) which is the object of will, knowledge and action. As its nature is the Moon, it is the cause of the abiding living condition (jīvitasthiti) of those subject to transmigration. She is that goddess Parā, who is uttered forth in (that) form as the three powers, and as Middling (parāpara) and Inferior (apara), that is, abides perpetually moving as the most excellent, extends as the radiance (of consciousness) (sphurattā), at one with all things. Having made it so, in the ‘place of origin’ on the plane of the object of knowledge, and the one which is indicated by the word ‘second’, which is the dynamic union of the illuminator and the object of illumination on the plane of the means of knowledge, and so in the abode of rest of both of them, which is on the plane of the subject. ‘By filling’ them in the way taught (in the
+220\. \[illegible\] Above, 6/64d. We have seen above (note 6,71) that the tuṭi (corrupt for truṭi lit ‘fragment’) is a unit of time commonly used in the Siddhāntas although, surprisingly less so in modern Indian astronomy. It is applied to measure spans of time in the cycle of the breath and perception. We have seen that, in the course of inhalation or exhalation, the breath traverses a distance of thirty-six finger spans. This takes two seconds, which comprise sixteen tuṭis. Thus, a tuṭi is one-eighth of a second inside the breath, and is the time taken for the breath to move a distance of two and a quarter fingers’ breadth. This teaching, imparted to Abhinava by his Trika teacher Śambhunātha, equates these units of time related to the breath with the ‘moments’ (kṣana), that are the units of the act of perception, as is the usage in the verses that follow, up to 196. Although the two terms are sometimes used interchangeably, in this context, in order to make sense of what Abhinava is saying, we need to distinguish the parameters to which the two measures refer here. It seems that Jayaratha is not clear about this distinction, or at least does not clarify it. Instead, he confuses the reader by referring to the Svacchandatantra. It is clear that Abhinava is equating a ‘tuṭi’ with a ‘kṣaṇa’. But if we take the two as measures of time as being within the same parameter, then, as Jayaratha himself points out, the use of the term kṣaṇa here is anomalous. Normally, two of them make a tuṭi. He cannot fail to notice this, but tries to circumvent the problem by saying that this is a special case. Moreover, we are not told anything by simply taking the two to be synonyms, as Jayaratha does. We find an application of the transposition of the act of perception to the movement of the breath in the commentary by Śivopādhyāya on VB 24: Ārdhve prāṇo hy adho jīvo visargātmā paroccaret | utpattidvitayasthāne bharaṇāt bharitā sthitiḥ ॥ ‘The exhaled breath (prānṇa) (haṁ) above and the inhaled (jīva) (saḥ) below, (the goddess) Parā who is emission (visarga) should be uttered forth (and made manifest in this way) within the two places where they originate. (The yogi attains) the state of plenitude by filling (them with the power of awareness). In a long commentary on this meditative practice (dhāraṇā), Śivopādhyāya supplies several ways in which to do it, which he classifies as belonging to one or other of the three categories of means to realisation (upāya). He tells us that the following way of applying attention to the flow of the breath belongs to the Empowered Means, just as Abhinava implicitly tells us the practice he is describing here does (see below 10/200cd-203 and note). Śivopādhyāya explains: ‘The exhaled breath is ‘above’ as the most excellent. It is the extending flow (prasara) of (the powers of) will, knowledge and action, which impels (and give life) (anuprānṇaka) to all things. The one ‘below’ is the lesser one, as the one which is to be contemplated as objectivity (idantā). It is the exhaled breath (jīva) which is the object of will, knowledge and action. As its nature is the Moon, it is the cause of the abiding living condition (jīvitasthiti) of those subject to transmigration. She is that goddess Parā, who is uttered forth in (that) form as the three powers, and as Middling (parāpara) and Inferior (apara), that is, abides perpetually moving as the most excellent, extends as the radiance (of consciousness) (sphurattā), at one with all things. Having made it so, in the ‘place of origin’ on the plane of the object of knowledge, and the one which is indicated by the word ‘second’, which is the dynamic union of the illuminator and the object of illumination on the plane of the means of knowledge, and so in the abode of rest of both of them, which is on the plane of the subject. ‘By filling’ them in the way taught (in the
 
 
 *[p. 408]* ^pg427
@@ -1279,7 +1279,7 @@ Sixteen time-units of the breath (tufi) (are as many) moments \[illegible\] (of 
 
 #### Viveka on 10.187–188
 
-The meaning of ‘all that is perceivable’ is (any) entity that can be perceived (vedya), as are, for example, the principles \[illegible\] phenomena (bhāva), and the world-orders. 
+The meaning of ‘all that is perceivable’ is (any) entity that can be perceived (vedya), as are, for example, the principles (tattva), phenomena (bhāva), and the world-orders. 
 
 The term ‘moment’ here (in this context) refers to a particular (span of) time, consisting of two moments, as defined (in the Svacchandatantra as follows): 
 
@@ -1319,7 +1319,7 @@ pravibhāvyo na hi pṛthag upāntyo grāhakaḥ kṣanaḥ |
 
 There (in that context), the first (of these moments) is that of supreme nonduality, which is the undivided aesthetic delight (rasa) (of 
 
-229\. Abhinava gives us his explanation of the phases of this cycle of perception linked to the breath in the following passage in the Tantrasāra. ‘Now (follows) a description (of the how) the divisions (of the reality levels are present) within the one perceiver by being established (within him) as the vital breath. Here (in everyday life), the vital breath, which consists of sixteen units of time (tuṭi), arises in the course of the perception of (any object, such as the colour) blue, (extending) up to (its) immersion \[illegible\] into objectivity (thus laying hold of it). The first unit (always remains) one and undivided. The second is the (initial) outpouring (ullāsa) (into a distinct form) of the perceiver. The last one is at one with the object, and (so) is of that nature. The penultimate one is the perceiver that has become (fully) evident. In between is a group of twelve moments. Amongst them, the first group of six is (consciousness) free of thought constructs, that veils (the form of consciousness consisting of) thought constructs. Amongst these six moments, one is the innate nature (svarūpa) in itself, and the remaining five moments (mark the progressive expansion of consciousness,) even as they are engaged in veiling (the form of consciousness consisting of) thought constructs. (The first of these five corresponds) to the intention (of consciousness) to unfold \[illegible\] and (the next to) its being about to unfold (unmiṣattā), which, because it is a fully evident action, (necessarily) takes up two moments, as (a single) pulse cannot last just an instant. (The fourth moment is that) of the unfolded (state of consciousness), and (the fifth, coupled with it, corresponds to its) state as the agency of its own products. Thus, because of the fivefold nature of thought (construct formation), which is to be concealed in this way, and because the innate nature (of consciousness is counted separately), there are six moments (of consciousness) free of thought constructs. Then again, (just after that,) there are (another) six moments (in the formation of the state of consciousness with thought constructs). (These are:) 1) the state free of thought constructs in the process of being destroyed (dhvaṁsamanatā), 2) (its) actual destruction (dhvaṁsa), 3) the intention to unfold (unmiṣiṣā) thought, 4 and 5) the state (in which it is) about to unfold (unmiṣattā), consisting of two moments, and 6) the unfolded state itself. (The condition of consciousness which is that of being) the agency of its own product (i.e. thought) is said to be essentially subjectivity, and so is not counted separately again. In this way, those who are rich in discrimination, who follow the teaching of a (true) teacher, discern (this) fifteenfold state in each (of its) divisions (one by one) everywhere (throughout all the reality levels, extending from the Earth onwards). As thought decreases, the number of moments (ruṭi) also decreases, as happens, for example. when one (experiences) happiness (and one forgets the troubles of the past), until the state free of thought (is attained). (Even) ordinary people, by (bringing) thought to rest in that state (of consciousness) consisting of (pure) subjectivity (ahantā), which is reflective awareness, the flow of the thought of objectivity (idaṁmbhāva) covered over by subjectivity, consider it to be as if unmanifest, like those who, resting in the joy (they feel at times, consider that) the state of suffering (does not exist,) and that by the decrease of thought it is that alone that manifests. And so it is that Abhinavagupta’s venerable teacher (has taught him) that this is attention to the relationship between subject and object.\* When this fifteenfold condition obtains to the degree in which the duality (bheda) which is clearly manifest objectivity decreases, as (the moments) decrease two by two, (it continues) up to absorption (āveśa) into Śiva, that takes two moments. There the first moment is full (and complete) in all respects, (whereas) the second, practiced with the practice that is absorbed (āviṣṭa) into the cause of all knowledge, serves to attain omniscience and omnipotence. (This is) not so (in the case of) the first (of these two final moments). As the venerable Kallaṭa said, ‘during the falling (transition) of (the second) moment.’ \*\* Here (in this context), by the word ‘falling’ is (meant) the Goddess, the venerable Kālī, Mātṛsadbhāva, Bhairava, creative intuition (pratibhā) etc. (who
+229\. Abhinava gives us his explanation of the phases of this cycle of perception linked to the breath in the following passage in the Tantrasāra. ‘Now (follows) a description (of the how) the divisions (of the reality levels are present) within the one perceiver by being established (within him) as the vital breath. Here (in everyday life), the vital breath, which consists of sixteen units of time (tuṭi), arises in the course of the perception of (any object, such as the colour) blue, (extending) up to (its) immersion (āveśa) into objectivity (thus laying hold of it). The first unit (always remains) one and undivided. The second is the (initial) outpouring (ullāsa) (into a distinct form) of the perceiver. The last one is at one with the object, and (so) is of that nature. The penultimate one is the perceiver that has become (fully) evident. In between is a group of twelve moments. Amongst them, the first group of six is (consciousness) free of thought constructs, that veils (the form of consciousness consisting of) thought constructs. Amongst these six moments, one is the innate nature (svarūpa) in itself, and the remaining five moments (mark the progressive expansion of consciousness,) even as they are engaged in veiling (the form of consciousness consisting of) thought constructs. (The first of these five corresponds) to the intention (of consciousness) to unfold \[illegible\] and (the next to) its being about to unfold (unmiṣattā), which, because it is a fully evident action, (necessarily) takes up two moments, as (a single) pulse cannot last just an instant. (The fourth moment is that) of the unfolded (state of consciousness), and (the fifth, coupled with it, corresponds to its) state as the agency of its own products. Thus, because of the fivefold nature of thought (construct formation), which is to be concealed in this way, and because the innate nature (of consciousness is counted separately), there are six moments (of consciousness) free of thought constructs. Then again, (just after that,) there are (another) six moments (in the formation of the state of consciousness with thought constructs). (These are:) 1) the state free of thought constructs in the process of being destroyed (dhvaṁsamanatā), 2) (its) actual destruction (dhvaṁsa), 3) the intention to unfold (unmiṣiṣā) thought, 4 and 5) the state (in which it is) about to unfold (unmiṣattā), consisting of two moments, and 6) the unfolded state itself. (The condition of consciousness which is that of being) the agency of its own product (i.e. thought) is said to be essentially subjectivity, and so is not counted separately again. In this way, those who are rich in discrimination, who follow the teaching of a (true) teacher, discern (this) fifteenfold state in each (of its) divisions (one by one) everywhere (throughout all the reality levels, extending from the Earth onwards). As thought decreases, the number of moments (ruṭi) also decreases, as happens, for example. when one (experiences) happiness (and one forgets the troubles of the past), until the state free of thought (is attained). (Even) ordinary people, by (bringing) thought to rest in that state (of consciousness) consisting of (pure) subjectivity (ahantā), which is reflective awareness, the flow of the thought of objectivity (idaṁmbhāva) covered over by subjectivity, consider it to be as if unmanifest, like those who, resting in the joy (they feel at times, consider that) the state of suffering (does not exist,) and that by the decrease of thought it is that alone that manifests. And so it is that Abhinavagupta’s venerable teacher (has taught him) that this is attention to the relationship between subject and object.\* When this fifteenfold condition obtains to the degree in which the duality (bheda) which is clearly manifest objectivity decreases, as (the moments) decrease two by two, (it continues) up to absorption (āveśa) into Śiva, that takes two moments. There the first moment is full (and complete) in all respects, (whereas) the second, practiced with the practice that is absorbed (āviṣṭa) into the cause of all knowledge, serves to attain omniscience and omnipotence. (This is) not so (in the case of) the first (of these two final moments). As the venerable Kallaṭa said, ‘during the falling (transition) of (the second) moment.’ \*\* Here (in this context), by the word ‘falling’ is (meant) the Goddess, the venerable Kālī, Mātṛsadbhāva, Bhairava, creative intuition (pratibhā) etc. (who
 
 
 *[p. 411]* ^pg430
@@ -1344,7 +1344,7 @@ In this way, he (now) analyses the remaining twelve moments (in the breath) (tu�
 तृतीयं क्षणमारभ्य क्षणषट्क तु यत्स्थितम् ।। १९० ॥
 तनिर्विकल्पं ्रोद्रच्छद्विकल्पाच्छादनात्मकम्
 
-tṛtīyaṁ kṣanam ārabhya kṣaṇaṣatkami tu yat sthitam ॥ 190 II tan nirvikalpa prodgacchad vikalpācchādanātmakam | 
+tṛtīyaṁ kṣanam ārabhya kṣaṇaṣatkami tu yat sthitam ॥ 190 ॥ tan nirvikalpa prodgacchad vikalpācchādanātmakam | 
 
 The six moments?” from the third (to the eighth) are non-discursive (nirvikalpa), and consist of the (progressive) falling away of the obscuration of discursive ideation \[illegible\] (190cd-191ab) 
 
@@ -1368,7 +1368,7 @@ Surely, one may ask, how can one ascend here? The obscuration of thought constru
 तदेव शिवरूपं हि परशक्त्यात्मकं विदुः ॥
 ॥
 
-tad eva \[illegible\] hi paraśaktyātmakaṁ viduḥ ॥ 191 I| 
+tad eva \[illegible\] hi paraśaktyātmakaṁ viduḥ ॥ 191 ॥ 
 
 (The wise) know these (six moments) to be Śiva’s nature, which is the Supreme Power.? (191cd) 
 

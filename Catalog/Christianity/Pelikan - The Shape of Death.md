@@ -17,8 +17,7 @@ language:
   - English
 pages: 132
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Pelikan - The Shape of Death (1962).pdf]]"
   - "[[Library/Christianity/The Shape of Death (Pelikan)/The Shape of Death (Pelikan)]]"

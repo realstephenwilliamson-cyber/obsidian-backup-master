@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 84
 verses: 12
-page_range:
-  - 708
-  - 708
+page_range: "708"
 aliases:
   - "BCP Psalm 84"
   - "BCP 708"
@@ -37,7 +35,7 @@ they will always be praising you. ^84-3
 **84:4** Happy are the people whose strength is in you! \*  
 whose hearts are set on the pilgrims' way. ^84-4
 
-[p. 708]
+[p. 708] ^pg708
 
 **84:5** Those who go through the desolate valley will find it a place of springs, \*  
 for the early rains have covered it with pools of water. ^84-5

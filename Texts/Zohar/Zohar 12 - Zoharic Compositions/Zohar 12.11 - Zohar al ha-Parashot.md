@@ -1083,7 +1083,7 @@ He opened, saying, “*YHVH Elohim cast a deep slumber on Adam, and he slept* ([
 
 “Of that day is written *They will enter caves in the rocks and clefts in the cliffs, from the fear of YHVH* ([[Isaiah 02#^2-19|Isaiah 2:19]]). This alludes to *Shekhinah*—who will be exalted from then onward, Messiah at Her side. *And from the glory of His majesty* (ibid.)—this is the Messiah. *When He rises to terrify the earth* (ibid.), then, *He will assemble the banished of Israel, and gather the dispersed of Judah from the four corners of the earth* (ibid. 11:12)—they will go in the sixtieth year of the sixth millennium, after the blessed Holy One has performed numerous miracles.”[^483] [p. 680]
 
-PARASHAT MATTOT מטות‎ פרשת
+PARASHAT MATTOT מטות‎ פרשת ^parashat-mattot
 
 *“Tribes” ([[Torah 42 - Matot#^30-2|Numbers 30:2–32:42]])*
 

@@ -16,8 +16,7 @@ language:
   - English
 pages: 7
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[devi-khadgamala-stotram.pdf]]"
 aliases: []

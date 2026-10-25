@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 35
 verses: 28
-page_range:
-  - 630
-  - 632
+page_range: "630–632"
 aliases:
   - "BCP Psalm 35"
   - "BCP 630"
@@ -39,7 +37,7 @@ let those who plot my ruin fall back and be dismayed. ^35-4
 **35:5** Let them be like chaff before the wind, \*  
 and let the angel of the LORD drive them away. ^35-5
 
-[p. 630]
+[p. 630] ^pg630
 
 **35:6** Let their way be dark and slippery, \*  
 and let the angel of the LORD pursue them. ^35-6
@@ -79,7 +77,7 @@ strangers whom I did not know tore me to pieces and would not stop. ^35-15
 **35:16** They put me to the test and mocked me; \*  
 they gnashed at me with their teeth. ^35-16
 
-[p. 631]
+[p. 631] ^pg631
 
 **35:17** O Lord, how long will you look on? \*  
 rescue me from the roaring beasts,  
@@ -118,7 +116,7 @@ let those who boast against me be clothed with dismay and shame. ^35-26
 let them say always, "Great is the LORD,  
 who desires the prosperity of his servant." ^35-27
 
-[p. 632]
+[p. 632] ^pg632
 
 **35:28** And my tongue shall be talking of your righteousness \*  
 and of your praise all the day long. ^35-28

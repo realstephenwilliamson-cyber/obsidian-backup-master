@@ -5,9 +5,7 @@ section: "Pastoral Offices"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/PastoralOffices/concernconf.html"
-page_range:
-  - 412
-  - 412
+page_range: "412"
 aliases:
   - "BCP 412"
 ---
@@ -15,7 +13,7 @@ aliases:
 
 [[BCP 1979]] · *Pastoral Offices* · pages 412–412
 
-[p. 412]
+[p. 412] ^pg412
 
 ## Concerning the Service
 

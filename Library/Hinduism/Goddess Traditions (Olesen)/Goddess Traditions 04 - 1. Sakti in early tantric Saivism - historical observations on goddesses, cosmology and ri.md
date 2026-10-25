@@ -6,7 +6,7 @@ page_range: 16–32
 aliases:
   - Goddess Traditions 04 - 1. Śakti in early tantric Śaivism - historical observations on goddesses, cosmology and ri
 ---
-[p. 16]
+[p. 16] ^pg16
 
 # 1 Śakti in early tantric Śaivism
 
@@ -20,7 +20,7 @@ This essay seeks to elucidate conceptions of śakti and the roles of goddesses i
 
 In studying the *Niśvāsatattvasaṃhitā* – hereafter, ‘the *Niśvāsa*’ – I rely heavily upon the foundational studies of Alexis Sanderson (2006) and Dominic Goodall (forthcoming), particularly in the area of cosmology. My reading of the *Niśvāsa* is based on the provisional editions circulated among participants in the *Niśvāsa* workshop (Pondicherry, 2007) and Early Tantra project (2008–2010);[^4] and the more recent draft editions and translations of Goodall *et al.* (forthcoming), and, for the *Mukhāgama*, Nirajan Kafle (forthcoming). I approach the text diachronically, following the hypothetical stratification being proposed by its editors (Goodall *et al.*, forthcoming) – namely, that the scripture’s five books were composed in the following chronological order: the *Mūlasūtra, Uttarasūtra*, and then *Nayasūtra*, followed by the *Guhyasūtra* and *Mukhāgama*, the whole presumably being complete before the end of the seventh century. In the present essay I for the most part omit discussion of the *Niśvāsakārikā*, a large and poorly transmitted supplement to the *Niśvāsa* which might belong to a somewhat later period.
 
-[p. 17]
+[p. 17] ^pg17
 
 ## Mahādevī
 
@@ -62,7 +62,7 @@ In contrast, the triad of Śiva’s powers of knowledge, action, and volition �
 
 The position of *icchāśakti* as a late entrant into the cosmology of the *Niśvāsa* seems to confirm Hélène Brunner’s suggestion (1992: 1–7) that the pair *jñānaśakti* and *kriyāśakti* underlies later groupings of three or more. Indeed, Śiva’s dual powers of knowledge and action are a topic emphasized in Pāśupata literature,[^32] where, it may be noted, the ‘femaleness’ of Śiva’s *śakti* seems confined wholly to grammatical gender. Identification of Śiva’s volition as a *śakti* may have developed to explain how the quiescent, desireless Śiva should stir into action at all, echoing the Upaniṣadic idea of a primeval divine aspiration which sets creation in motion. This is conceptually distinct from the cosmogony intimated in passages from the *Uttara*- and *Nayasūtra*, which emphasize the desireless (*niṣkāma*) nature of Śiva and Śakti, whose conjunction nonetheless results in the origin of *bindu*. The metaphor invoked is that of the solar Śiva’s rays shining upon the sunstone of Śakti, giving rise to the appearance of fire.[^33] Śakti produces *bindu* when conjoined with or possessing Śiva’s *tejas* – his radiance, or perhaps generative power[^34] – a potentially problematic third cosmogonic factor. In contract, and in a less philosophical register, the *Guhyasūtra* invokes the image of divine progenitors when it speaks of the Goddess as the ever-pregnant creatrix and Śiva as her lover (*kāmayitṛ*).[^35]
 
-[p. 22]
+[p. 22] ^pg22
 
 ## Mother-goddesses
 
@@ -86,7 +86,7 @@ In the *Guhyasūtra*, some glimpses may be had of the cult of spirits prominent 
 
 A number of historical observations emerge from the preceding analysis of the *Niśvāsa* corpus. First, it is evident that a theology emphasizing Śiva’s cosmogonic and grace-bestowing ‘power’ (*śakti*) comes into view in the middle stratum of the *Niśvāsa* corpus. This nexus of ideas receives further elaboration in the *Guhyasūtra*, which, for instance, incorporates the idea of Śiva’s ‘power of volition’ (*icchāśakti*), accompanied by a shift in cosmogonic imagery. In general terms, a disproportionate amount of the material concerning *śakti*s and goddesses belongs to the *Guhyasūtra*, a comparatively late stratum of the text. Diachronic analysis of the *Niśvāsa* corpus suggests that early tantric goddesses were frequently apotheoses of feminine-gender cosmological categories; a movement from feminine-gendered principles to embodied goddesses may be characteristic of the early Mantramārga. The equation of goddesses with *śakti*, and the ‘femaleness’ of *śakti*, appear to be innovations of the early Mantramārga, aspects of the early development of which are visible in the *Niśvāsa* itself. Furthermore, the conflation of *prakṛti* and *śakti*, which appears critical to the Purāṇic construction of the Mahādevī, becomes evident in the cosmology of the *Niśvāsa* in the deification of *prakṛti* and in the subsumption of all such cosmological goddesses within *śakti*. It is also evident that many of the ritual forms and concerns of the early Śākta Vidyāpīṭha are presaged in the *Guhyasūtra* of the *Niśvāsa*.
 
-[p. 27]
+[p. 27] ^pg27
 
 ## References
 

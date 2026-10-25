@@ -5,9 +5,7 @@ section: "Pastoral Offices"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/PastoralOffices/marriage.html"
-page_range:
-  - 423
-  - 432
+page_range: "423–432"
 aliases:
   - "BCP 423"
   - "BCP 424"
@@ -24,7 +22,7 @@ aliases:
 
 [[BCP 1979]] · *Pastoral Offices* · pages 423–432
 
-[p. 423]
+[p. 423] ^pg423
 
 ## The Celebration and Blessing of a Marriage
 
@@ -38,7 +36,7 @@ Dearly beloved: We have come together in the presence of God to witness and bles
 
 The union of husband and wife in heart, body, and mind is intended by God for their mutual joy; for the help and comfort given one another in prosperity and adversity; and, when it is God's will, for the procreation of children and their nurture in the knowledge and love of the Lord. Therefore marriage is not to be entered into unadvisedly or lightly, but reverently, deliberately, and in accordance with the purposes for which it was instituted by God.
 
-[p. 424]
+[p. 424] ^pg424
 
 Into this holy union *N.N.*. and *N.N.*. now come to be joined. If any of you can show just cause why they may not lawfully be married, speak now; or else for ever hold your peace.
 
@@ -64,7 +62,7 @@ I will.
 
 I will.
 
-[p. 425]
+[p. 425] ^pg425
 
 *The Celebrant then addresses the congregation, saying*
 
@@ -88,7 +86,7 @@ Let us pray.
 
 O gracious and everliving God, you have created us male and female in your image: Look mercifully upon this man and this woman who come to you seeking your blessing, and assist them with your grace, that with true fidelity and steadfast love they may honor and keep the promises and vows they make; through Jesus Christ our Savior, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. *Amen.*
 
-[p. 426]
+[p. 426] ^pg426
 
 *Then one or more of the following passages from Holy Scripture is read. If there is to be a Communion, a passage from the Gospel always concludes the Readings.*
 
@@ -114,7 +112,7 @@ The Gospel of the Lord.
 
 *A homily or other response to the Readings may follow.*
 
-[p. 427]
+[p. 427] ^pg427
 
 ## The Marriage
 
@@ -136,7 +134,7 @@ Bless, O Lord, *this ring* to be a *sign* of the vows by which this man and this
 
 *N.*, I give you this ring as a symbol of my vow, and with all that I am, and all that I have, I honor you, in the Name of the Father, and of the Son, and of the Holy Spirit (*or* in the Name of God).
 
-[p. 428]
+[p. 428] ^pg428
 
 *Then the Celebrant joins the right hands of husband and wife and says*
 
@@ -176,7 +174,7 @@ now and for ever. Amen.
 
 *If Communion is to follow, the Lord's Prayer may be omitted here.*
 
-[p. 429]
+[p. 429] ^pg429
 
 *The Deacon or other person appointed reads the following prayers, to which the People respond, saying, Amen.*
 
@@ -198,7 +196,7 @@ Bestow on them, if it is your will, the gift and heritage of children, and the g
 
 Give them such fulfillment of their mutual affection that they may reach out in love and concern for others. *Amen.*
 
-[p. 430]
+[p. 430] ^pg430
 
 Grant that all married persons who have witnessed these vows may find their lives strengthened and their loyalties confirmed. *Amen.*
 
@@ -210,7 +208,7 @@ Grant that the bonds of our common humanity, by which all your children are unit
 
 Most gracious God, we give you thanks for your tender love in sending Jesus Christ to come among us, to be born of a human mother, and to make the way of the cross to be the way of life. We thank you, also, for consecrating the union of man and woman in his Name. By the power of your Holy Spirit, pour out the abundance of your blessing upon this man and this woman. Defend them from every enemy. Lead them into all peace. Let their love for each other be a seal upon their hearts, a mantle about their shoulders, and a crown upon their foreheads. Bless them in their work and in their companionship; in their sleeping and in their waking; in their joys and in their sorrows; in their life and in their death. Finally, in your mercy, bring them to that table where your saints feast for ever in your heavenly home; through Jesus Christ our Lord, who with you and the Holy Spirit lives and reigns, one God, for ever and ever. *Amen.*
 
-[p. 431]
+[p. 431] ^pg431
 
 *or this*
 
@@ -232,7 +230,7 @@ The peace of the Lord be always with you.
 
 *When Communion is not to follow, the wedding party leaves the church. A hymn, psalm, or anthem may be sung, or instrumental music may be played.*
 
-[p. 432]
+[p. 432] ^pg432
 
 ### At the Eucharist
 

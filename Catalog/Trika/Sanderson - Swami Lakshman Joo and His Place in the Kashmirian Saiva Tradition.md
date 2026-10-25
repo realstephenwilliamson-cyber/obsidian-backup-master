@@ -17,8 +17,7 @@ language:
   - English
 pages: 36
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Swami_Lakshman_Joo_and_His_Place_in_the.pdf]]"
   - "[[Library/Trika/Swami Lakshman Joo and His Place in the Kashmirian Saiva (Sanderson)]]"

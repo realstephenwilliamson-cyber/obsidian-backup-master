@@ -172,7 +172,7 @@ About 255 converted chapter notes have names like "Gifts from the Goddess 135 - 
 - 42 Ruppel notes store `chapter` as text instead of a number.
 - `volume` is written three ways ("Vol. 14", 7, "1-12").
 - One note in Projects/ has a `text` property holding a link.
-- Some tag families split in two and no query reads either form: #text/#texts, #Tantrāloka/#Tantraloka, #zohar/#texts/zohar, #parashah/#parasha, #bcp1979/#library/bcp-1979.
+- Some tag families split in two and no query reads either form: `#text`/`#texts`, `#Tantrāloka`/`#Tantraloka`, `#zohar`/`#texts/zohar`, `#parashah`/`#parasha`, `#bcp1979`/`#library/bcp-1979`.
 - The Tantrāloka word notes call the chapter `ahnika`, where the verse notes say `chapter`.
 - Three accidental tags are in Devanagari digits (\#१९like, \#१, \#४).
 - A. Claude tidies all of these:

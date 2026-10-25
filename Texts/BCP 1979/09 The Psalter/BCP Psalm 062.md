@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 62
 verses: 14
-page_range:
-  - 670
-  - 670
+page_range: "670"
 aliases:
   - "BCP Psalm 62"
   - "BCP 670"
@@ -50,7 +48,7 @@ God is my strong rock and my refuge. ^62-8
 **62:9** Put your trust in him always, O people, \*  
 pour out your hearts before him, for God is our refuge. ^62-9
 
-[p. 670]
+[p. 670] ^pg670
 
 **62:10** Those of high degree are but a fleeting breath, \*  
 even those of low estate cannot be trusted. ^62-10

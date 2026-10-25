@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/he1.html"
-page_range:
-  - 323
-  - 340
+page_range: "323–340"
 aliases:
   - "BCP 323"
   - "BCP 324"
@@ -32,7 +30,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 323–340
 
-[p. 323]
+[p. 323] ^pg323
 
 ## The Holy Eucharist: Rite One
 
@@ -62,7 +60,7 @@ Blessed be God: Father, Son, and Holy Spirit.
 
 Almighty God, unto whom all hearts are open, all desires known, and from whom no secrets are hid: Cleanse the thoughts of our hearts by the inspiration of thy Holy Spirit, that we may perfectly love thee, and worthily magnify thy holy Name; through Christ our Lord. *Amen.*
 
-[p. 324]
+[p. 324] ^pg324
 
 *Then the Ten Commandments (page 317) may be said, or the following*
 
@@ -94,7 +92,7 @@ O Lord, the only-begotten Son, Jesus Christ; O Lord God, Lamb of God, Son of the
 that takest away the sins of the world,  
 have mercy upon us.
 
-[p. 325]
+[p. 325] ^pg325
 
 Thou that takest away the sins of the world,  
 receive our prayer. Thou that sittest at the right hand of God the Father,  
@@ -134,7 +132,7 @@ The Word of the Lord.
 
 *Or the Reader may say* Here endeth the Reading (Epistle).
 
-[p. 326]
+[p. 326] ^pg326
 
 *Silence may follow*
 
@@ -174,7 +172,7 @@ Through him all things were made.
 For us and for our salvation  
 he came down from heaven:
 
-[p. 327]
+[p. 327] ^pg327
 
 by the power of the Holy Spirit  
 he became incarnate from the Virgin Mary,  
@@ -211,7 +209,7 @@ begotten, not made,
 being of one substance with the Father;  
 by whom all things were made;
 
-[p. 328]
+[p. 328] ^pg328
 
 who for us men and for our salvation  
 came down from heaven,  
@@ -246,7 +244,7 @@ Let us pray for the whole state of Christ's Church and the world.
 
 *After each paragraph of this prayer, the People may make an appropriate response, as directed.*
 
-[p. 329]
+[p. 329] ^pg329
 
 Almighty and everliving God, who in thy holy Word hast taught us to make prayers, and supplications, and to give thanks for all men: Receive these our prayers which we offer unto thy divine Majesty, beseeching thee to inspire continually the Universal Church with the spirit of truth, unity, and concord; and grant that all those who do confess thy holy Name may agree in the truth of thy holy Word, and live in unity and godly love.
 
@@ -260,7 +258,7 @@ Open, O Lord, the eyes of all people to behold thy gracious hand in all thy work
 
 And we most humbly beseech thee, of thy goodness, O Lord, to comfort and succor [ and] all those who in this transitory life, are in trouble, sorrow, need, sickness, or any other adversity.
 
-[p. 330]
+[p. 330] ^pg330
 
 *Additional petitions and thanksgivings may be included here.*
 
@@ -284,7 +282,7 @@ Let us humbly confess our sins unto Almighty God.
 
 *Silence may be kept.*
 
-[p. 331]
+[p. 331] ^pg331
 
 *Minister and People*
 
@@ -295,7 +293,7 @@ and wickedness, which we from time to time most grievously have committed, by th
 
 Most merciful God, we confess that we have sinned against thee in thought, word, and deed, by what we have done, and by what we have left undone. We have not loved thee with our whole heart; we have not loved our neighbors as ourselves. We are truly sorry and we humbly repent. For the sake of thy Son Jesus Christ, have mercy on us and forgive us; that we may delight in thy will, and walk in thy ways, to the glory of thy Name. Amen.
 
-[p. 332]
+[p. 332] ^pg332
 
 *The Bishop when present, or the Priest, stands and says*
 
@@ -323,7 +321,7 @@ The peace of the Lord be always with you.
 
 *Then the Ministers and People may greet one another in the name of the Lord.*
 
-[p. 333]
+[p. 333] ^pg333
 
 ## The Holy Communion
 
@@ -357,7 +355,7 @@ Celebrant Let us give thanks unto our Lord God.
 
 It is very meet, right, and our bounden duty, that we should at all times, and in all places, give thanks unto thee, O Lord, holy Father, almighty, everlasting God.
 
-[p. 334]
+[p. 334] ^pg334
 
 *Here a Proper Preface is sung or said on all Sundays, and on other occasions as appointed.*
 
@@ -389,7 +387,7 @@ And we most humbly beseech thee, O merciful Father, to hear us; and, of thy almi
 
 And we earnestly desire thy fatherly goodness mercifully to accept this our sacrifice of praise and thanksgiving; most humbly beseeching thee to grant that, by the merits and death of thy Son Jesus Christ, and through faith in his blood, we, and all thy whole Church, may obtain remission of our sins, and all other benefits of his passion.
 
-[p. 336]
+[p. 336] ^pg336
 
 And here we offer and present unto thee, O Lord, our selves, our souls and bodies, to be a reasonable, holy, and living sacrifice unto thee; humbly beseeching thee that we, and all others who shall be partakers of this Holy Communion, may worthily receive the most precious Body and Blood of thy Son Jesus Christ, be filled with thy grace and heavenly benediction, and made one body with him, that he may dwell in us, and we in him.
 
@@ -410,7 +408,7 @@ as we forgive those who trespass against us. And lead us not into temptation,
 but deliver us from evil. For thine is the kingdom, and the power, and the glory,  
 for ever and ever. Amen.
 
-[p. 337]
+[p. 337] ^pg337
 
 ### The Breaking of the Bread
 
@@ -432,7 +430,7 @@ O Lamb of God, that takest away the sins of the world, have mercy upon us. O Lam
 
 We do not presume to come to this thy Table, O merciful Lord, trusting in our own righteousness, but in thy manifold and great mercies. We are not worthy so much as to gather up the crumbs under thy Table. But thou art the same Lord whose property is always to have mercy. Grant us therefore, gracious Lord, so to eat the flesh of thy dear Son Jesus Christ, and to drink his blood, that we may evermore dwell in him, and he in us. *Amen.*
 
-[p. 338]
+[p. 338] ^pg338
 
 *Facing the people, the Celebrant may say the following Invitation*
 
@@ -458,7 +456,7 @@ The Body of Christ, the bread of heaven. [*Amen.*] The Blood of Christ, the cup 
 
 *When necessary, the Celebrant consecrates additional bread and wine, using the form on page 408.*
 
-[p. 339]
+[p. 339] ^pg339
 
 *After Communion, the Celebrant says*
 
@@ -484,7 +482,7 @@ Let us go forth in the name of Christ.
 
 *or the following*
 
-[p. 340]
+[p. 340] ^pg340
 
 **Deacon** Go in peace to love and serve the Lord.
 

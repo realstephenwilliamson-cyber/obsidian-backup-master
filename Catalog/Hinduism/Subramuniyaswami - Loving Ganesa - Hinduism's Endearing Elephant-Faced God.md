@@ -17,8 +17,7 @@ language:
   - English
 pages: 595
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Subramuniyaswami - Loving Ganesa (2000).pdf]]"
 aliases:

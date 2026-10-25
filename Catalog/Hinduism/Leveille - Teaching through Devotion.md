@@ -17,8 +17,7 @@ language:
   - English
 pages: 64
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Leveille_ku_0099M_15328_DATA_1.pdf]]"
 aliases: []

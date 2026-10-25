@@ -17,8 +17,7 @@ language:
   - English
 pages: 452
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Davila - Hekhalot Literature in Translation (2013).pdf]]"
   - "[[Library/Judaica/Hekhalot Literature in Translation (Davila)/Hekhalot Literature in Translation (Davila)]]"

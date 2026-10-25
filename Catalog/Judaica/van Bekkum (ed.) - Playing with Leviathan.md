@@ -22,8 +22,7 @@ language:
   - English
 pages: 343
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[van Bekkum et al. (eds.) - Playing with Leviathan.pdf]]"
   - "[[Library/Judaica/Playing with Leviathan (van Bekkum)/Playing with Leviathan (van Bekkum)]]"

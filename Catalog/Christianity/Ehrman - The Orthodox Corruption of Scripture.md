@@ -17,8 +17,7 @@ language:
   - English
 pages: 329
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Ehrman - The Orthodox Corruption of Scripture (1996).pdf]]"
   - "[[Library/Christianity/The Orthodox Corruption of Scripture (Ehrman)/The Orthodox Corruption of Scripture (Ehrman)]]"

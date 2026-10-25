@@ -334,6 +334,8 @@ Now then, having to partake of such blessings, do I see thee minding money, and 
 
 For if he who had paradise for his portion, for one disobedience underwent such dreadful things after his honor; we, who have received Heaven, and are become joint heirs with the Only Begotten, what excuse shall we have, for running to the serpent after the dove? For it will be no longer, “Dust thou art, and unto dust shalt thou return,”<sup>523</sup>and thou “tillest the ground,”<sup>524</sup>and those former words, that will be said to us;<sup>525</sup>but what is far more grievous than these, the “outer darkness,”<sup>526</sup>the bonds that may not be burst, the venomous worm, the “gnashing of teeth;” and this with great reason. For he that is not made better
 
+526 Matt. xxv. 30.
+
 *[p. 148]* ^pg156
 
 even by so great a benefit, would justly suffer the most extreme, and a yet more grievous punishment. Elias once opened and shut Heaven, but that was to bring down rain, and restrain it; whereas to thee the heaven is not so opened, but in order for thee to ascend thither; and what is yet more, not to ascend only, but to lead up others also, if thou wilt; such great confidence and power hath He bestowed on thee in all that is His.

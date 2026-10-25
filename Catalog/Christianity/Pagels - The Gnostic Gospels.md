@@ -17,8 +17,7 @@ language:
   - English
 pages: 224
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/The Gnostic Gospels.pdf]]"
   - "[[Library/Christianity/The Gnostic Gospels (Pagels)/The Gnostic Gospels (Pagels)]]"

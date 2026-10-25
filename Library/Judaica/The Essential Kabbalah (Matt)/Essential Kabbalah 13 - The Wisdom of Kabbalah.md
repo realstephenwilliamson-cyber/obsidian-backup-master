@@ -4,11 +4,11 @@ book: "[[The Essential Kabbalah (Matt)]]"
 order: 13
 page_range: "159–163"
 ---
-[p. 159]
+[p. 159] ^pg159
 
 # ![[essential-kabbalah-9780062048134_023.png]] The Wisdom of Kabbalah
 
-[p. 160]
+[p. 160] ^pg160
 
 ### HOW TO APPROACH KABBALAH
 
@@ -26,7 +26,7 @@ If something in this wisdom seems doubtful to you, wait. As time passes, it will
 
 Those who persevere in this wisdom find that when they ponder these teachings many times, knowledge grows within them—an increase of essence. The search always leads to something new.
 
-[p. 162]
+[p. 162] ^pg162
 
 ### HIDDEN WISDOM
 
@@ -34,7 +34,7 @@ SOMETHING YOU cannot explain to another person is called *nistar,* “hidden,”
 
 But calling the wisdom of Kabbalah “hidden” is strange. How is it hidden? Whoever wants to learn—the book is readily available. If one does not understand, he is ignorant. For such a person, the Talmud is also hidden! Rather, the secrets hidden throughout the *Zohar* and the writings of the *Ari* are based entirely on cleaving to God—for one worthy to cleave.
 
-[p. 163]
+[p. 163] ^pg163
 
 ### STUMBLING
 

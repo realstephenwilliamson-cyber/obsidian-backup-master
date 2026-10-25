@@ -4,7 +4,7 @@ book: "[[The Essential Kabbalah (Matt)]]"
 order: 1
 page_range: "xi"
 ---
-[p. xi]
+[p. xi] ^pgxi
 
 # Foreword
 

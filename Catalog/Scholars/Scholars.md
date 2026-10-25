@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-10-19
+updated: 2026-10-24
 ---
 # Scholars
 
@@ -8,7 +8,7 @@ updated: 2026-10-19
 > The scholars and thinkers whose work is in the library: a list of names, and a page for each one once an AI has profiled them. A page gives the scholar's position and field in a sentence or two, their works in the library (a live list from the catalog), and where their own work can be read free and legally. To have pages made, run [[Add scholar pages|Add scholar pages]]: it takes the next names in *To profile*, makes their pages in `Catalog/Scholars/`, and turns each name into a link.
 
 > [!links]
-> - [[Scholars - library and free sources]] (the first 30 profiles, to be moved into pages) · [[Incomplete Sets and Scholar Research Guide]] · [[Catalog.base|Browse the library]]
+> - [[Scholars - library and free sources]] (the first 30 profiles, all made into pages since) · 71 pages on 24 Oct 2026, two names left to profile · [[Incomplete Sets and Scholar Research Guide]] · [[Catalog.base|Browse the library]]
 
 ## Profiled
 
@@ -23,7 +23,7 @@ SORT file.name ASC
 
 One name per line, with the subjects of their works in the library. Add anyone you like, anywhere in the list; the prompt works from the top. A name that is a link has its page.
 
-### Already profiled in [[Scholars - library and free sources]] (move these first)
+### Profiled first in [[Scholars - library and free sources]] (all now pages)
 
 - [[Andrea Acri]] · Hinduism
 - [[Lyne Bansat-Boudon]] · Trika

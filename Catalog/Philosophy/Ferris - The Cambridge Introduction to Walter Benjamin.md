@@ -17,8 +17,7 @@ language:
   - English
 pages: 174
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Ferris - The Cambridge Introduction to Walter Benjamin (CUP 2008).pdf]]"
   - "[[Library/Philosophy/The Cambridge Introduction to Walter Benjamin (Ferris)/The Cambridge Introduction to Walter Benjamin (Ferris)]]"

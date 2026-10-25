@@ -20,7 +20,7 @@ language:
 pages: 90
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Echographies of Television Filmed Interviews (2002).pdf]]"
   - "[[Library/Philosophy/Echographies of Television (Derrida)/Echographies of Television (Derrida)]]"

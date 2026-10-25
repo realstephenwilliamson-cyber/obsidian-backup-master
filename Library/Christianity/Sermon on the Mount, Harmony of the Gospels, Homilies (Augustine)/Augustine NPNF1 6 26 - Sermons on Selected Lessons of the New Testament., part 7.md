@@ -22,9 +22,9 @@ showed the difficulty to be such that it was absolutely impossible. For every im
 
 4\. If then they ought not to “trust in riches,” not to confide in them, “but in the living God;” what are they to do with their riches? Hear what: “Let them be rich in good works.”<sup>2804</sup> What does this mean? Explain, O Apostle. For many are loth to understand what they are loth to practise. Explain, O Apostle; give none occasion to evil works by the obscurity of thy words. Tell us what thou dost mean by, “let them be rich in good works.” Let them hear and understand; let them not be suffered to excuse themselves; but rather let them begin to accuse themselves, and to say what we have just heard in the Psalm, “For I acknowledge my sin.”
 
-279\. 9 Matt. xix. 24.
+2799 Matt. xix. 24.
 
-280\. 0 Matt. xix. 25. 2801 1 Tim. vi. 17. 2802 2 Cor. vi. 10. 2803 Serm. xi. (lxi. Ben.) 10 (ix.). 1 Tim. vi. 18. 368 2805 Ps. li. 3. 2806 John vi. 51. 2807 Vulgate. 2808 Luke xviii. 12. 2809 Matt. v. 20. 1 Tim. vi. 6.
+2800 Matt. xix. 25. 2801 1 Tim. vi. 17. 2802 2 Cor. vi. 10. 2803 Serm. xi. (lxi. Ben.) 10 (ix.). 1 Tim. vi. 18. 368 2805 Ps. li. 3. 2806 John vi. 51. 2807 Vulgate. 2808 Luke xviii. 12. 2809 Matt. v. 20. 1 Tim. vi. 6.
 
 
 *[p. 772]* ^pg798
@@ -45,7 +45,7 @@ common with the rich, but ye have the heaven in common, the light in common. See
 
 7\. Ye have now heard what ye must do, ye have heard what ye must fear, ye have heard how the kingdom of heaven may be purchased, ye have heard by what the kingdom of heaven may be hindered. Be ye all of one mind in obeying the word of God. God made both the rich and poor. Scripture says, “The rich and the poor meet together, the Lord is the Maker of them both.”<sup>2815</sup> The rich and the poor meet together. In what way, except in this present life? The rich and the poor are born alike. Ye meet one another as ye walk on the way together. Do not thou oppress, nor thou defraud. The one hath need, the other hath plenty. But “the Lord is the Maker of them both.” By him who hath, He helpeth him that needeth; by him who hath not, He proveth him that hath. We have heard, we have spoken; let us fear, let us take heed, let us pray, let us attain.
 
-281\. 1 1 Tim. vi. 7. 2812 1 Tim. vi. 8. 2813 1 Tim. vi. 9. 2814 1 Tim. vi. 10. Prov. xxii. 2.
+2811 1 Tim. vi. 7. 2812 1 Tim. vi. 8. 2813 1 Tim. vi. 9. 2814 1 Tim. vi. 10. Prov. xxii. 2.
 
 
 *[p. 774]* ^pg800
@@ -60,7 +60,7 @@ Sermon XXXVI.
 
 2\. We have just heard a certain rich man seeking counsel from the “Good Master” as to the means of obtaining eternal life. Great was the thing he loved, and of little value was that he was unwilling to renounce. And so in perverseness of heart, on hearing Him whom he had but now called “Good Master,” through the overpowering love of what was valueless, he lost the possession of what was of great price. If he had not wished to obtain eternal life, he would not have asked counsel how to obtain eternal life. How is it then, Brethren, that he rejected the words of Him whom he had called “Good Master,” drawn out for him as they were from the doctrine of the faith? What? Is He a Good Master before He teacheth, and when He hath taught, a bad one? Before He taught, He was called “Good.” He did not hear what he wished, but he did hear what was proper for him; he had come with longing, but he went away in sadness. What if He had told him, “Lose what thou hast”? when he went away sad, because it was said, “Keep what thou hast securely.” “Go,” saith He, “sell all that thou hast, and give to the poor.”<sup>2818</sup> Art thou afraid, it may be, lest thou shouldest lose
 
-281\. 6 *Sursum cor*. 2817 But communicants only, as alone hearing the words in the Office.
+2816 *Sursum cor*. 2817 But communicants only, as alone hearing the words in the Office.
 
 
 *[p. 775]* ^pg801
@@ -73,9 +73,9 @@ it. See what follows; “And thou shall have treasure in heaven.” Before now i
 
 4\. Give to God, and press God for payment.<sup>2820</sup> Yea rather give to God, and thou wilt be pressed to receive payment. On earth indeed thou hadst to seek thy debtor; and he sought too, but only to find where he might hide himself from thy face. Thou hadst gone to the judge, and said, “Bid that my debtor be summoned;” and he on hearing this gets away, and cares not even to wish thee well,<sup>2821</sup> though to him perhaps in his need thou hadst given wealth by thy loan. Thou hast one then on whom thou mayest well lay out thy money. Give to Christ; He will of His own accord press thee to receive, whilst thou wilt even wonder that He hath received ought of thee. For to them who are placed on His right hand He will first say, “Come, ye blessed of My Father.” “Come” whither? “Receive the kingdom prepared for you from the foundation of the world.” For what? “For I was an hundred, and ye gave Me meat; I was thirsty, and ye gave Me drink; I was a stranger, and ye took Me in; naked, and ye clothed Me; I was sick and in prison, and ye visited Me.” And they will say, “Lord, when
 
-281\. 9 Matt. xxv. 40.
+2819 Matt. xxv. 40.
 
-282\. 0 *Conveni Deum.* *Nec*salutare *te quærit, cui forte egenti* salutem *commodando præstiteras*?
+2820 *Conveni Deum.* *Nec*salutare *te quærit, cui forte egenti* salutem *commodando præstiteras*?
 
 
 *[p. 776]* ^pg802
@@ -88,7 +88,7 @@ saw we Thee?”<sup>2822</sup> What doth this mean? The debtor presses to pay,<s
 
 6\. Yes, sometimes two opposing mistresses have possession of a man, avarice and luxuriousness. Avarice says, “Keep;” luxuriousness, says, “Spend.” Under two mistresses bidding and exacting diverse things what canst thou do? They have both their mode of address. And when thou dost begin to be unwilling to obey them, and to take a step towards thy liberty; because they have no power to command, they use caresses. And their caresses are more to
 
-282\. 2 Matt. xxv. 34, etc. 2823 *Convenit*. *Et reficit et non deficit*. 371 2825 See, on the custom of festivals at the funeral of the dead, St. Augustin, Ep. 22 (al. 64) to Aurelius Bishop of Carthage and Primate of Africa, calling for their abolition. He gives an account of his having abolished them at Hippo, where he was only a Priest, in the 29th (167) Letter, to his friend Alypius Bishop of Thagaste. See also *Conf*. vi. 2.
+2822 Matt. xxv. 34, etc. 2823 *Convenit*. *Et reficit et non deficit*. 371 2825 See, on the custom of festivals at the funeral of the dead, St. Augustin, Ep. 22 (al. 64) to Aurelius Bishop of Carthage and Primate of Africa, calling for their abolition. He gives an account of his having abolished them at Hippo, where he was only a Priest, in the 29th (167) Letter, to his friend Alypius Bishop of Thagaste. See also *Conf*. vi. 2.
 
 
 *[p. 777]* ^pg803
@@ -111,7 +111,7 @@ for thy money, thou wilt be in fear of thy life. It may be whilst thou art keepi
 
 10\. Thus have the counsels of avarice been refuted; but now let the Lord say the same words, now let righteousness speak: the words will be the same, but not the same the meaning. “Keep for thyself,” saith the Lord, “consult for the future.” Now ask Him, “Where shall I keep?” “Thou shalt have treasure in heaven, where no thief approacheth, nor moth corrupteth.”<sup>2827</sup> Against what an enduring future shalt thou keep it! “Come, ye blessed of My Father, receive the kingdom prepared for you from the foundation of the world.”<sup>2828</sup> And of how many days this kingdom is, the end of the passage shows. For after He had said
 
-282\. 6 *Imagine*. 2827 Matt. xix. 21; Luke xii. 33. 372 2829 Matt. xxv. 46.
+2826 *Imagine*. 2827 Matt. xix. 21; Luke xii. 33. 372 2829 Matt. xxv. 46.
 
 
 *[p. 779]* ^pg805
@@ -122,7 +122,7 @@ of those on the left hand, “So these shall go away into everlasting burning;�
 
 11\. One thing may yet be said, “But what am I to do about my children?” Hear on this point also the counsel of thy Lord. If thy Lord should say to thee, “The thoughts of them concern Me more who did create, than thee who didst beget them,”<sup>2832</sup> peradventure thou couldest have nothing to say. Yet thou wilt look upon that rich man who went away sorrowful, and was rebuked in the Gospel, and wilt say to thyself perhaps, “That rich man did evil in not selling all and giving to the poor, because he had no children; but I have children; I have those for whom I should be keeping something. In this weakness too the Lord is ready to advise with thee. I would be bold to speak through His mercy; I would be bold to say something, not of mine own imagining, but of His pity. Keep then for thy children too, but hear me. Suppose (such is man’s condition) any one should lose one of his children; mark, Brethren, mark how that avarice has no excuse, either as respects this world or the world to come. Such, I say, is man’s condition; for it is not that I wish it, but we see instances. Some Christian child has been lost: thou hast lost a Christian child; not that thou hast indeed lost him, but hast sent him before thee. For he is not gone<sup>2833</sup> quite away, but gone before. Ask thine own faith: surely thou too wilt go thither presently, where he hath gone before. It is but a short question I ask, which yet I suppose no one will answer. Does thy son live? Ask thy faith. If he live then, why is his portion seized upon by his brothers? But thou wilt say, What, will he return and possess it? Let it then be sent to him whither he is gone before; he cannot come to his goods, his goods can go to him. Consider only with Whom he is. If any son were serving at the Court, and became the Emperor’s friend, and were to say to thee, “Sell my portion, which is there, and send it to me;” wouldest thou find what to answer him? Well, thy son is now with the Emperor of all emperors, with the King of all kings, with the Lord of all lords; send to Him. I do not say thy son is in need himself; but his Lord with
 
-283\. 0 Ps. xxiii. 6. 2831 Ps. ii. 7. 2832 *Vide* Serm. ix. 20, 21 (Ben.). *Neque enim ille decessit sed præcessit*.
+2830 Ps. xxiii. 6. 2831 Ps. ii. 7. 2832 *Vide* Serm. ix. 20, 21 (Ben.). *Neque enim ille decessit sed præcessit*.
 
 
 *[p. 780]* ^pg806
@@ -137,7 +137,7 @@ whom he is, is in need upon the earth. He vouchsafes to receive here, what He gi
 
 14\. What great demand is this, my Brethren? I give you counsel only; do I use violence?<sup>2836</sup> As saith the Apostle, “This I speak for your own profit, not that I may cast a snare upon you.”<sup>2837</sup> I imagine, Brethren, that it is a light and easy thought for a father of children to suppose that he has one child more, and thereby to procure such an inheritance as thou
 
-283\. 4 *Fac trajectitium*. 2835 *Attendant*. 2836 *Guttur ligo*. 1 Cor. vii. 35. 373 2838 Luke xii. 16, etc. 2839 Luke xvi. 19, etc. *Superos*.
+2834 *Fac trajectitium*. 2835 *Attendant*. 2836 *Guttur ligo*. 1 Cor. vii. 35. 373 2838 Luke xii. 16, etc. 2839 Luke xvi. 19, etc. *Superos*.
 
 
 *[p. 781]* ^pg807
@@ -172,7 +172,7 @@ Sermon XXXVII.
 
 3\. Again, He “planted a vineyard,” as the Lord Jesus Christ Himself saith, “and let it out to husbandmen, who should render Him the fruit in the proper season. And He sent His
 
-284\. 1 *Corporalis*. 2842 *Colit nos Deus et colimus Deum*. *Conf*. B. xiii. 1. 2843 *Colimus enim eum adorando non arando*. 2844 *Indisciplinatum*.
+2841 *Corporalis*. 2842 *Colit nos Deus et colimus Deum*. *Conf*. B. xiii. 1. 2843 *Colimus enim eum adorando non arando*. 2844 *Indisciplinatum*.
 
 
 *[p. 784]* ^pg810
@@ -185,7 +185,7 @@ they killed Him, and cast Him out of the vineyard. When the Lord of the vineyard
 
 4\. Ye have just heard too the parable out of the Holy Gospel; that “the kingdom of heaven is like unto a householder, which went out to hire labourers into His vineyard. He went out in the morning,” and hired those whom he found, and agreed with them for a denarius as their hire. He “went out again at the third hour, and found others,” and brought them to the labour of the vineyard. “And the sixth and ninth hour he did likewise. He went out also at the eleventh hour,” near the end of the day, “and found some idle and standing still, and he said to them, Why stand ye here?” Why do ye not work in the vineyard? They answered, “Because no man hath hired us.” “Go ye also,” said He, “and whatsoever is right I will give you.”<sup>2847</sup> His pleasure was to fix their hire at a denarius. How could they who had only to work one hour dare hope for a denarius? Yet they congratulated themselves in the hope that they should receive something. So then these were brought in even for one hour. At the end of the day he ordered the hire to be paid to all, from the last to the first. Then he began to pay at those who had come in at the eleventh hour, and he commanded a denarius to be given them. When they who had come at the first hour saw that the others had received a denarius, which he had agreed for with themselves “they hoped that they should have received more:” and when their turn came, they also received a denarius. “They murmured against the good man of the house, saying, Behold, thou hast made us who have borne the burning and heat of the day, equal and like to those who have laboured but one hour in the vineyard.” And “the good man,” returning a most just answer to one of them, said, “Friend, I do thee no wrong;” that is, “I have not defrauded thee, I have paid thee what
 
-284\. 6 Matt. xxi. 33, etc. Matt. xx. 1, etc. 375 2848 *Æquando non præposterando*.
+2846 Matt. xxi. 33, etc. Matt. xx. 1, etc. 375 2848 *Æquando non præposterando*.
 
 
 *[p. 785]* ^pg811
@@ -206,7 +206,7 @@ I agreed for with thee. “I have done thee no wrong,” for I have paid thee wh
 
 8\. But, Brethren, hearken ye and understand, lest any put off to come into the vineyard, because he is sure, that, come when he will, he shall receive this denarius. And sure indeed he is that the denarius is promised him; but this is no injunction to put off. For did they who were hired into the vineyard, when the householder came out to them to hire whom he might find, at the third hour for instance, and did hire them, did they say to him, “Wait, we are not going thither till the sixth hour”? or they whom he found at the sixth hour, did they say, “We are not going till the ninth hour”? or they whom he found at the ninth hour, did they say, “We are not going till the eleventh? For he will give to all alike; why should we fatigue ourselves more than we need?” What He was to give, and what He was to do, was in the secret of His own counsel: do thou come when thou art called. For an equal reward is promised to all; but as to this appointed hour of working, there is an important question.
 
-285\. 0 *Meritorum*. *Passionis*. 376 2852 1 Cor. ii. 8.
+2850 *Meritorum*. *Passionis*. 376 2852 1 Cor. ii. 8.
 
 
 *[p. 787]* ^pg813
@@ -225,7 +225,7 @@ rise again from the grave. He showed forth an example of patience for our instru
 
 10\. It is plain then, my Brethren, it is plain to all, do ye hold it fast, and be sure of it, that whensoever any one turns himself to the faith of our Lord Jesus Christ, from a useless<sup>2857</sup> or abandoned way of life, all that is past is forgiven him, and as though all his debts were cancelled, a new account is entered into with him. All is entirely forgiven. Let no one be anxious in the thought that there remains anything which is not forgiven him. But on the other hand, let no one rest in a perverse security. For these two things are the death of souls, despair, and perverse hope. For as a good and right hope saveth, so doth a perverse hope deceive. First, consider how despair deceiveth. There are men, who when they begin to reflect on the evils they have done, think they cannot be forgiven; and whilst they think they cannot be forgiven, forthwith they give up their souls to ruin, and perish through despair, saying in their thoughts, “Now there is no hope for us; for such great sins as we have committed cannot be remitted or pardoned us; why then should we not satisfy our lusts? Let us at least fill up the pleasure of the time present, seeing we have no reward in that which is to come. Let us do what we list, though it be not lawful; that we may at least have a temporal enjoyment, because we cannot<sup>2858</sup> attain to the receiving an eternal.” In saying such things they perish through despair, either before they believe at all, or when Christians already, they have fallen by evil living into any sins and wickednesses. The Lord of the vineyard goeth forth to them, and by the Prophet Ezekial knocketh, and calleth to them in their despair, and as they turn their backs to Him that calleth them. “In whatsoever day a man shall turn
 
-285\. 4 Acts i. 15. 2855 Acts ii. 4. 2856 Ps. xix. 6. 2857 *Superflua*. *Meremur*.
+2854 Acts i. 15. 2855 Acts ii. 4. 2856 Ps. xix. 6. 2857 *Superflua*. *Meremur*.
 
 
 *[p. 789]* ^pg815
@@ -236,9 +236,9 @@ from his most wicked way, I will forget all his iniquities.”<sup>2859</sup> If
 
 11\. But these must fear, lest they fall into another gulf, and they die through a perverse hope, who could not die through despair. For they change their thoughts, which are far different indeed from what they were before, but not less pernicious, and begin again to say in their hearts, “If in whatever day I turn from my most evil way, the merciful God, as He truly promiseth by the Prophet, will forget all my iniquities, why should I turn to-day and not to-morrow? Let this day pass as yesterday, in excess of guilty pleasure, in the full flow of licentiousness, let it wallow in deadly delights; to-morrow I shall ‘turn myself,’ and there will be an end to it.” One may answer thee, An end of what? Of mine iniquities, thou wilt say. Well, rejoice indeed, that to-morrow there will be an end of thine iniquities. But what if before to-morrow thine own end shall be? So then thou dost well indeed to rejoice that God hath promised thee forgiveness for thine iniquities, if thou art converted; but no one has promised thee to-morrow. Or if perchance some astrologer hath promised it, it is a far different thing from God’s promise. Many have these astrologers deceived, in that they have 377 promised themselves advantages, and have found only losses. Therefore for the sake of these again whose hope is wrong, doth the Householder go forth. As He went forth to those who had despaired wrongly, and were lost in their despair, and called them back to hope; so doth He go forth to these also who would perish through an evil hope; and by another book He saith to them, “Make no tarrying to turn to the Lord.”<sup>2860</sup> As He had said to the others, “In whatsoever day a man shall turn from his most wicked way, I will forget all his iniquities,” and took despair away from them, because they had now given up their soul to perdition, despairing of forgiveness by any means; so doth He go forth to these also who have a mind to perish through hope and delay; and speaketh to them, and chideth them, “Make no tarrying to turn to the Lord, and put not off from day to day; for suddenly shall the wrath of the Lord come forth, and in the day of vengeance He will destroy thee.” Therefore put not off, shut not against thyself what now is open. Lo, the Giver of forgiveness openeth the door to thee; why dost thou delay? Thou oughtest to rejoice, were He to open after ever so long a time to thy knocking; thou hast not knocked, yet doth He open, and dost thou remain outside? Put not off then. Scripture saith in a certain place, as touching works of mercy, “Say not, Go, and come again, and to-morrow I will give;<sup>2861</sup> when thou canst do the kindness at once; for thou knowest not what may happen on the morrow.” Here then is a precept of not putting off being merciful to another, and wilt thou by putting off be cruel
 
-285\. 9 Ezek. xviii. 21.
+2859 Ezek. xviii. 21.
 
-286\. 0 Ecclus. v. 7. Prov. iii. 28.
+2860 Ecclus. v. 7. Prov. iii. 28.
 
 
 *[p. 790]* ^pg816
@@ -251,7 +251,7 @@ against thine own self? Thou oughtest not to put off to give bread, and wilt tho
 
 13\. If any one in a city had some bodily sickness, and there was in that place some very skilful physician who was an enemy to the sick man’s powerful friends; if any one, I say, in a city were labouring under some dangerous bodily sickness; and there was in the same city a very skilful physician, an enemy as I said, of the sick man’s powerful friends, and they were to say to their friend, “Do not call him in, he knows nothing;” and they were to say this not from any judgment of their mind, but through dislike of him; would he not for his own safety’s sake remove from him the groundless assertions<sup>2865</sup> of his powerful friends,
 
-286\. 2 Ecclus. xxx. 23, Vulgate. 2863 *Idiota*. 2864 1 Cor. i. 27, 28. *Fabulas*.
+2862 Ecclus. xxx. 23, Vulgate. 2863 *Idiota*. 2864 1 Cor. i. 27, 28. *Fabulas*.
 
 
 *[p. 791]* ^pg817
@@ -266,7 +266,7 @@ sent the Prophets before Him. Are not those things which were foretold of old, f
 
 15\. Of this we have examples. Saul persecuted the members of Jesus Christ, who is now sitting in heaven; grievously did he persecute them in his frenzy, in the loss of his reason, in the transport of his madness. But He with one word, calling to him out of heaven, “Saul,
 
-286\. 6 *Statio*.
+2866 *Statio*.
 
 
 *[p. 792]* ^pg818
@@ -275,7 +275,7 @@ sent the Prophets before Him. Are not those things which were foretold of old, f
 
 Saul, why persecutest thou Me?”<sup>2868</sup> struck down the frantic one, raised him up whole, killed the persecutor, quickened the preacher. And so again many lethargic ones are healed. For to such are they like, who are not violent against Christ, nor malicious against Christians, but who in their delay are only dull and heavy with drowsy words, are slow to open their eyes to the light, and are annoyed with those who would arouse them. “Get away from me,” says the heavy, lethargic man, “I pray thee, get away from me.” Why? “I wish to sleep.” But you will die in consequence. He through love of sleep will answer, “I wish to die.” And Love from above calls out “I do not wish it.” Often does the son exhibit this loving affection to an aged father, though he must needs die in a few days; and is now in extreme old age. If he sees that he is lethargic, and knows from the physician that he is oppressed with a lethargic complaint, who tells him “Arouse your father, do not let him sleep, if you would save his life”! Then will the son come to the old man, and beat, and squeeze, or pinch, or prick him, or give him any uneasiness, and all through his dutiful affection to him; and will not allow him to die at once, die though he soon must from very age; and if his life is thus saved, the son rejoices that he has now to live some few days more with him who must soon depart to make way for him. With how much greater affection then ought we to be importunate<sup>2869</sup> with our friends, with whom we may live not a few days in this world, but in God’s presence for ever! Let them then love us, and do what they hear us say, and worship Him, whom we also worship, that they may receive what we also hope for. “Let us turn to the Lord,” etc.
 
-286\. 8 Acts ix. 4. *Molesti*.
+2868 Acts ix. 4. *Molesti*.
 
 
 *[p. 793]* ^pg819
@@ -290,7 +290,7 @@ Sermon XXXVIII.
 
 2\. Let no one then, Brethren, say that our Lord Jesus Christ doeth not those things now, and on this account prefer the former to the present ages of the Church. In a certain place indeed the same Lord prefers those who “do not see, and yet believe,”<sup>2872</sup> to them who see and therefore believe. For even at that time so irresolute was the infirmity of His disciples, that they thought that He whom they saw to have risen again must be handled, in order that they might believe. It was not enough for their eyes that they had seen Him, unless their hands also were applied to His limbs, and the scars of His recent wounds were touched; that that disciple who was in doubt, might cry out suddenly when he had touched and recognised the scars, “My Lord and my God.”<sup>2873</sup> The scars manifested Him who had healed all wounds in others. Could not the Lord have risen again without the scars? Yes, but He knew the wounds which were in the hearts of His disciples, and to heal them He had preserved the scars on His own Body. And what said the Lord to him who now confessed and said, “My Lord and my God”? “Because thou hast seen,” He said, “thou hast believed; blessed are they who do not see, and yet believe.” Of whom spake He, Brethren, but of us? Not that He spake only of us, but of those also who shall come after us. For after a little while when He had
 
-287\. 0 2 Cor. xiii. 4. 2871 Rom. vi. 9. 2872 John xx. 29.
+2870 2 Cor. xiii. 4. 2871 Rom. vi. 9. 2872 John xx. 29.
 
 
 *[p. 794]* ^pg820
@@ -301,7 +301,7 @@ departed from the sight of men, that faith might be established in their hearts,
 
 4\. Again, what eyes did He look for when He spake to those who saw indeed, but who saw only with the eyes of the flesh? For when Philip said to Him, “Lord, show us the Father,
 
-287\. 4 Matt. viii. 22. 2875 Eph. v. 14.
+2874 Matt. viii. 22. 2875 Eph. v. 14.
 
 
 *[p. 795]* ^pg821
@@ -310,9 +310,9 @@ and it sufficeth us;”<sup>2877</sup> he understood indeed that if the Father w
 
 known Me, Philip? He who hath seen Me, hath seen the Father also.”<sup>2878</sup> And that He might in the mean while heal the eyes of faith, he has first of all instructions given him regarding faith, that so he might attain to sight. And lest Philip should think that he was to conceive of God under the same form in which he then saw the Lord Jesus Christ in the body, he immediately subjoined; “Believest thou not that I am in the Father, and the Father in Me?”<sup>2879</sup> He had already said, “He who hath seen Me, hath seen the Father also.” But Philip’s eye was not yet sound enough to see the Father, nor consequently to see the Son who is Himself Coequal with the Father. And so Jesus Christ took in hand to cure, and with the medicines and salve of faith to strengthen the eyes of his mind, which as yet were weak and unable to behold so great a light, and He said, “Believest thou not that I am in the Father, and the Father in Me?” Let not him then who cannot yet see what the Lord will one day show him, seek first to see what he is to believe; but let him first believe that the eye by which he is to see may be healed. For it was only the form of the servant which was exhibited to the eyes of servants; because if “He who thought it not robbery to be equal with God,”<sup>2880</sup> could have been now seen as equal with God by those whom He wished to be healed, He would not have needed to “empty Himself, and to take the form of a servant.” But because there was no way whereby God could be seen, but whereby man could be seen, there was; therefore He who was God was made man, that that which was seen might heal that whereby He was not seen. For He saith Himself in another place, “Blessed are the pure in heart, for they shall see God.” <sup>2881</sup> Philip might of course have answered and said, “Lord, lo, I see Thee; is the Father such as I see Thee to be? forasmuch as Thou hast said, ‘He who hath seen Me, hath seen the Father also’?” But before Philip answered thus, or perhaps before he so much as thought it, when the Lord had said, “He who hath seen Me, hath seen the Father also;” He immediately added, “Believest thou not that I am in the Father, and the Father in Me?” For
 
-287\. 7 John xiv. 8. 2878 John xiv. 9. 2879 John xiv. 10.
+2877 John xiv. 8. 2878 John xiv. 9. 2879 John xiv. 10.
 
-288\. 0 Phil. ii. 6.
+2880 Phil. ii. 6.
 
 
 *[p. 796]* ^pg822
@@ -331,7 +331,7 @@ heart of a pure conscience, he rejoiced at the presence of God; when that eye wa
 
 7\. Therefore, my Brethren, since we too are born of him, and as the Apostle says, “In Adam all die;”<sup>2883</sup> for we were all at first two persons if we were loth to obey the physician, that we might not be sick; let us obey Him now, that we may be delivered from sickness. The physician gave us precepts, when we were whole; He gave us precepts that we might not need a physician. “They that are whole,” He saith, “need not a physician, but they that are sick.”<sup>2884</sup> When whole we despised these precepts, and by experience have felt how to our own destruction we despised His precepts. Now we are sick, we are in distress, we are on the bed of weakness; yet let us not despair. For because we could not come to the Physician, He hath vouchsafed to come Himself to us. Though despised by man when he was whole, He did not despise him when he was stricken. He did not leave off to give other precepts to the weak, who would not keep the first precepts, that he might not be weak; as though He would say, “Assuredly thou hast by experience felt that I spake the truth when I said, Touch not this. Be healed then now at length, and recover the life thou hast lost. Lo, I am bearing thine infirmity; drink thou the bitter cup. For thou hast of thine own self made those my so sweet precepts which were given to thee when whole, so toilsome. They were despised and so thy distress began; cured thou canst not be, except thou drink the bitter cup, the cup of temptations, wherein this life abounds, the cup of tribulation, anguish, and sufferings. Drink then,” He says, “drink, that thou mayest live.” And that the sick man may not make answer, “I cannot, I cannot bear it, I will not drink;” the Physician, all whole though he be, drinketh first, that the sick man may not hesitate to drink. For what bitterness is there in this cup, which He hath not drunk? If it be contumely; He heard it first when He drove out the devils, “He hath a devil, and by Beelzebub He casteth out devils.”<sup>2885</sup> Whereupon in order to comfort the sick, He saith, “If they have called the Master of the house Beelzebub, how much more shall they call them of His household?”<sup>2886</sup> If pains are this bitter cup, He was bound and scourged and crucified. If death be this bitter cup, He died also. If infirmity shrink with horror from any particular kind of death, none was at that time more ignominious than the death of the cross. For it was not in vain that the Apostle, when setting forth His obedience, added, “Made obedient unto death, even the death of the cross.”<sup>2887</sup>
 
-288\. 3 1 Cor. xv. 22. 2884 Matt. ix. 12. 2885 Mark iii. 22. 2886 Matt. x. 25. Phil. ii. 8. 382 2888 Gal. iii. 13.
+2883 1 Cor. xv. 22. 2884 Matt. ix. 12. 2885 Mark iii. 22. 2886 Matt. x. 25. Phil. ii. 8. 382 2888 Gal. iii. 13.
 
 
 *[p. 798]* ^pg824
@@ -346,7 +346,7 @@ written that so they might be read, they “passed by” when they were being do
 
 10\. And what are “the two blind men by the way side,” but the two people to cure whom Jesus came? Let us show those two people in the Holy Scriptures. It is written in the Gospel, “Other sheep I have which are not of this fold; them also must I bring, that there may be one fold and One Shepherd.”<sup>2891</sup> Who then are the two people? One the people of the Jews, and the other of the Gentiles. “I am not sent,” He saith, “but unto the lost sheep of the house of Israel.”<sup>2892</sup> To whom did He say this? To the disciples; when that woman of Canaan who confessed herself to be a dog, cried out that she might be found worthy of the crumbs from the master’s<sup>2893</sup> table. And because she was found worthy, now were the two people to whom He had come made manifest: the Jewish people, to wit, of whom He said, “I am not sent but unto the lost sheep of the house of Israel;” and the people of the Gentiles, whose type this woman exhibited whom He had first rejected, saying, “It is not meet to cast the children’s bread to the dogs;” and to whom when she said, “Truth, Lord, yet the dogs eat of the crumbs which fall from their master’s table;” He answered, “O woman, great is thy faith, be it unto thee even as thou wilt.”<sup>2894</sup> For of this people also was that centurion of whom the same Lord saith, “Verily I say unto you, I have not found so great faith, no, not in Israel.” Because he had said, “I am not worthy that Thou shouldest come under my roof, but speak the word only, and my servant shall be healed.”<sup>2895</sup> So then the Lord even before His Passion and Glorification pointed out two people, the one to whom He had come because of the promises to the Fathers; and the other whom for His mercy’s sake He did not reject; that it might be fulfilled which had been promised to Abraham, “In thy seed shall all nations be blessed.”<sup>2896</sup> Wherefore also the Apostle after the Lord’s Resurrection and Ascension, when He was despised by the Jews, went to the Gentiles. Not that he was silent however towards the Churches which consisted of Jewish believers; “I was unknown,” he says, “by face unto
 
-289\. 0 Rom. vi. 9. 2891 John x. 16. 2892 Matt. xv. 24. 2893 *Mereretur*. 2894 Matt. xv. 26–28. 2895 Matt. viii. 10, 8. Gen. xxii. 18. 383 2897 Gal. i. 22–24. 2898 Eph. ii. 14, 20. 2899 Ps. cxviii. 22.
+2890 Rom. vi. 9. 2891 John x. 16. 2892 Matt. xv. 24. 2893 *Mereretur*. 2894 Matt. xv. 26–28. 2895 Matt. viii. 10, 8. Gen. xxii. 18. 383 2897 Gal. i. 22–24. 2898 Eph. ii. 14, 20. 2899 Ps. cxviii. 22.
 
 
 *[p. 800]* ^pg826
@@ -357,7 +357,7 @@ the Churches of Judæa which were in Christ. But they heard only that he which p
 
 12\. Now what is it, Brethren, “to cry out” unto Christ, but to<sup>2901</sup> correspond to the grace of Christ by good works? This I say, Brethren, lest haply we cry aloud with our voices, and in our lives be dumb. Who is he that crieth out to Christ, that his inward blindness may be driven away by Christ as He is “passing by,” that is, as He is dispensing to us those temporal sacraments, whereby we are instructed to receive the things which are eternal? Who is he that crieth out unto Christ? Whoso despiseth the world, crieth out unto Christ. Whoso despiseth the pleasures of the world, crieth out unto Christ. Whoso saith not with his tongue, but with his life, “The world is crucified unto me, and I unto the world,”<sup>2902</sup> crieth out unto Christ. Whoso “disperseth abroad and giveth to the poor, that his righteousness may endure for ever,”<sup>2903</sup> crieth out unto Christ. For let him that hears, and is not deaf to the sound,
 
-290\. 0 *Secundum*. 2901 *Congruere*. 2902 Gal. vi. 14.
+2900 *Secundum*. 2901 *Congruere*. 2902 Gal. vi. 14.
 
 
 *[p. 801]* ^pg827
@@ -366,7 +366,7 @@ the Churches of Judæa which were in Christ. But they heard only that he which p
 
 13\. When he shall begin to do all this, all his kinsmen, relations, and friends will be in commotion. They who love this world, will oppose him. What madness this! you are too extreme:<sup>2907</sup> what! are not other men Christians? This is folly, this is madness. And other such like things do the multitude cry out to prevent the blind from crying out. The multitude rebuked them as they cried out; but did not overcome their cries. Let them who wish to be healed understand what they have to do. Jesus is now also “passing by;” let them who are by the way side cry out. These are they “who know God with their lips, but their heart is far from Him.” <sup>2908</sup> These are by the way side, to whom as blinded<sup>2909</sup> in heart Jesus gives His precepts. For when those passing things which Jesus did are recounted, Jesus is always represented to us as “passing by.” For even unto the end of the world there will not be wanting “blind men sitting by the way side.” Need then there is that they who sit by the way side should cry out. The multitude that was with the Lord would repress the crying of those who were seeking for recovery. Brethren, do ye see my meaning? For I know not how to speak, but still less do I know how to be silent. I will speak then, and speak plainly. For I fear “Jesus passing by” and “Jesus standing still;” and therefore I cannot keep silence. Evil and lukewarm Christians hinder good Christians who are truly earnest,<sup>2910</sup> and wish to do the commandments of God which are written in the Gospel. This multitude which is with the Lord hinders those who are crying out, hinders those that is who are doing well, that they may not by perseverance be healed. But let them cry out, and not faint; let them not be led away as if by the authority of numbers; let them not imitate those who became Christians before them, who live evil lives themselves, and are jealous of the good deeds of others. Let them not say, “Let us live as these so many live.” Why not rather as the Gospel ordains? Why dost thou
 
-290\. 4 Luke xii. 33. 2905 Luke vi. 30. 2906 Luke xix. 8. 2907 *Nimius*. 2908 Isa. xxix. 13; Matt. xv. 8. 2909 *Obtritis*. *Studiosos*. 384
+2904 Luke xii. 33. 2905 Luke vi. 30. 2906 Luke xix. 8. 2907 *Nimius*. 2908 Isa. xxix. 13; Matt. xv. 8. 2909 *Obtritis*. *Studiosos*. 384
 
 
 *[p. 802]* ^pg828
@@ -377,7 +377,7 @@ wish to live according to the remonstrances of the multitude who would hinder th
 
 15\. Now what thing more precious can we have than the eye made whole? They rejoice who see this created light which shines from heaven, or even that which is given out from a lamp. And how wretched do they seem, who cannot see this light? But wherefore do I speak, and talk of all these things, but to exhort you all to “cry out,” when Jesus “passeth by.” I hold up this light which perhaps ye do not see as an object of love to you, Holy Brethren.
 
-291\. 1 *Dispensatione*. 2912 *Sacramentum*. 2 Cor. v. 16.
+2911 *Dispensatione*. 2912 *Sacramentum*. 2 Cor. v. 16.
 
 
 *[p. 803]* ^pg829
@@ -388,7 +388,7 @@ Believe, whilst as yet ye see not; and “cry out” that ye may see. How great 
 
 17\. To be brief; that I may conclude this Sermon, Brethren, with a matter which touches me very nearly, and gives me much pain, see what crowds there are which “rebuke the blind as they cry out.” But let them not deter you, whosoever among this crowd desire to be healed; for there are many Christians in name, and in works ungodly; let them not deter you from good works. Cry out amid the crowds that are restraining you, and calling you back, and insulting you, whose lives are evil. For not only by their voices, but by evil works, do wicked Christians repress the good. A good Christian has no wish to attend the public shows. In this very thing, that he bridles his desire of going to the theatre, he cries out after Christ, cries out to be healed. Others run together thither, but perhaps they are heathens or Jews? Ah! indeed, if Christians went not to the theatres, there would be so few people there, that they would go away for very shame. So then Christians run thither also, bearing the Holy
 
-291\. 4 Tob. ii. 14. Tob. iv. 10.
+2914 Tob. ii. 14. Tob. iv. 10.
 
 
 *[p. 804]* ^pg830
@@ -399,7 +399,7 @@ crying out, even there were they who cried out made whole.
 
 18\. For observe this too, Holy Brethren, what it is to persevere in crying out. I will speak of what many as well as myself have experienced in Christ’s name; for the Church does not cease to give birth to such as these. When any Christian has begun to live well, to be fervent in good works, and to despise the world; in this newness of his life he is exposed to the animadversions and contradictions of cold Christians. But if he persevere, and get the better of them by his endurance, and faint not in good works; those very same persons who before hindered will now respect him.<sup>2917</sup> For they rebuke, and hinder, and withstand him so long as they have any hope that he will yield to them. But if they shall be overcome by their perseverance who make progress, they turn round and begin to say, “He is a great man, a holy man, happy he to whom God hath given such grace.” Now do they honour him, they congratulate and bless and laud him; just as that multitude did which was with the Lord. They first hindered the blind men that they might not cry out; but when they continued to cry so as to attain to be heard, and to obtain the Lord’s mercy, that same multitude now says, “Jesus calleth you.” And they who a little before “rebuked them that they should hold their peace,” use now the voice of exhortation. Now he only is not called by the Lord who is not in labour in this world. But who is there in this life who is not in labour through his sins and iniquities? But if all labour, it is said to all, “Come unto Me, all ye that labour.” <sup>2918</sup> Now if this is said to all, why ascribest thou thy miscarriage<sup>2919</sup> to Him that so inviteth thee? Come. His house is not too narrow for thee; the kingdom of God is possessed equally by all, and wholly by each one; it is not diminished by the increasing number of those who possess it, because it is not divided. And that which is possessed by many with one heart, is whole and entire for each one.
 
-291\. 6 *Temporalem*. 2917 *Obsequentur*. 2918 Matt. xi. 28. *Culpam*.
+2916 *Temporalem*. 2917 *Obsequentur*. 2918 Matt. xi. 28. *Culpam*.
 
 
 *[p. 805]* ^pg831
@@ -408,7 +408,7 @@ crying out, even there were they who cried out made whole.
 
 20\. But then in the correction and repressing of other men’s sins, one must take heed, that in rebuking another he do not lift up himself; and that sentence of the Apostle must be thought of, “Wherefore let him that thinketh he standeth, take heed lest he fall.”<sup>2921</sup> Let the voice of chiding sound outwardly in tones of terror, let the spirit of love and gentleness be maintained within. “If a man be overtaken in a fault,” as the same Apostle says, “ye which are spiritual restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted. Bear ye one another’s burdens, and so shall ye fulfil the law of Christ.”<sup>2922</sup> And again in another place, “The servant of the Lord must not strive, but be gentle unto all men, apt to teach, patient, in meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth; and that they may recover themselves out of the snare of the devil, who are held captive by him at his will.”<sup>2923</sup>
 
-292\. 0 Eph. v. 11. 2921 1 Cor. x. 12. 2922 Gal. vi. 1, 2. 2 Tim. ii. 24, etc.
+2920 Eph. v. 11. 2921 1 Cor. x. 12. 2922 Gal. vi. 1, 2. 2 Tim. ii. 24, etc.
 
 
 *[p. 806]* ^pg832
@@ -417,7 +417,7 @@ So then be neither consenting to evil, so as to approve of it; nor negligent so 
 
 21\. But whoso forsaketh unity, violateth charity; and whosoever violateth charity, how great gifts soever he have, he is nothing. “If he speak with the tongues of men and of angels; 386 if he knew all mysteries, if he have all faith, so as to remove mountains, if he distribute all his goods to the poor, if he give his body to be burned, and have not charity; it is nothing; it profiteth him nothing.”<sup>2924</sup> He possesseth all things to no useful end, who hath not that one thing by which he may use all these things well. So then let us embrace charity, “studying to keep the unity of the Spirit in the bond of peace.”<sup>2925</sup> Let not those seduce us who understand the Scriptures in a carnal manner, and who in making a bodily separation, are separated themselves by a spiritual sacrilege from the good corn of the Church which is spread over the whole world. For throughout the whole world hath the good seed been sown. That good Sower, the Son of Man, hath scattered the good seed not in Africa only, but everywhere. But the enemy hath sown tares upon it. Yet what saith the Householder? “Let both grow together until the harvest.”<sup>2926</sup> Grow where? In the field, of course. What is the field? Is it Africa? No! What is it then? Let us not interpret it ourselves, let the Lord speak; let us not suffer any one to make his guess at his own pleasure. For the disciples said to the Master, “Declare unto us the parable of the tares.” And the Lord declared it: “The good seed,” said He, “are the children of the Kingdom. But the tares are the children of the wicked one.” Who sowed them? “The enemy that sowed them,” said He,” is the devil.” What is the field? “The field,” said He, “is this world.” What is the harvest? “The harvest,” said He, “is the end of the world.” Who are the reapers? “The reapers,” said He, “are the Angels.” Is Africa the world? Is this present time the harvest? Is Donatus the reaper? Look then for the harvest throughout the whole world, throughout the whole world “grow unto the harvest,” throughout the whole world bear with the tares even until the harvest. Let not perverse men seduce you, that chaff so light, which flies out of the floor before the coming of the Winnower; let them not seduce you. Hold them fast even to this single parable of the tares, and suffer them not to speak of anything else. This man, one will say, surrendered<sup>2927</sup> the Scriptures; no, not so: but this other man surrendered them. Whosoever it might be who has surrendered them, has their faithlessness made void the faithfulness of God? What is “the faithfulness of God”? That which He promised to Abraham, saying, “In thy seed shall all nations be blessed.”<sup>2928</sup> What
 
-292\. 4 1 Cor. xiii. 1–3. 2925 Eph. iv. 3. 2926 Matt. xiii. 24, etc. 2927 The occasion of the Donatist schism was a charge brought against Cecilianus, Bishop of Carthage, and Felix, Bishop of Aptunga, who had ordained him, of being traditors, that is, of having surrendered such copies of the Holy Scriptures as they had in their possession in times of persecution. Gen. xxvi. 4. 387 2929 *Paucitatem*.
+2924 1 Cor. xiii. 1–3. 2925 Eph. iv. 3. 2926 Matt. xiii. 24, etc. 2927 The occasion of the Donatist schism was a charge brought against Cecilianus, Bishop of Carthage, and Felix, Bishop of Aptunga, who had ordained him, of being traditors, that is, of having surrendered such copies of the Holy Scriptures as they had in their possession in times of persecution. Gen. xxvi. 4. 387 2929 *Paucitatem*.
 
 
 *[p. 807]* ^pg833
@@ -428,7 +428,7 @@ is the faithfulness of God? “Let both grow together until the harvest.” Grow
 
 23\. See, they say, the Prophet says, “Depart ye, go ye out from thence, and touch no unclean thing;”<sup>2936</sup> how then for peace sake should we bear with the wicked, from whom
 
-293\. 0 Matt. xiii. 30. 2931 Matt. xxiv. 12. 2932 Luke xviii. 8, Vulgate. 2933 Gen. iii. 19, Sept. 2934 Gen. xv. 5 and xxii. 17. 2935 Matt. viii. 11. Isa. lii. 11.
+2930 Matt. xiii. 30. 2931 Matt. xxiv. 12. 2932 Luke xviii. 8, Vulgate. 2933 Gen. iii. 19, Sept. 2934 Gen. xv. 5 and xxii. 17. 2935 Matt. viii. 11. Isa. lii. 11.
 
 
 *[p. 808]* ^pg834
@@ -437,9 +437,9 @@ we are commanded to “go out and depart that we touch not the unclean thing”?
 
 24\. So cried Moses and Isaiah, Jeremiah and Ezekiel. Let us see then if they acted thus, if they left the people of God, and betook themselves to other nations. How many and vehement rebukes did Jeremiah utter against the sinners, and wicked ones of his people. Yet he lived amongst them, he entered into the same temple with them, celebrated the same mysteries;<sup>2941</sup> he lived in that congregation of wicked men, but by his crying out “he went
 
-293\. 7 *Persona*. 2938 Luke x. 11. 2939 Ezek. iii. 17.
+2937 *Persona*. 2938 Luke x. 11. 2939 Ezek. iii. 17.
 
-294\. 0 Ezek. iii. 19. *Sacramenta*. 388 2942 Exod. xxxii. 2943 Exod. xxxii. 10. 2944 Exod. xxxii. 32. 2945 *Visceribus*. 2946 *Prudentiæ*. 2947 By their false accusations against Cecilian of being a traditor, of which they were themselves convicted. Ep. 43 (162), etc. Aug. Serm. cxiv. (clxiv Ben).
+2940 Ezek. iii. 19. *Sacramenta*. 388 2942 Exod. xxxii. 2943 Exod. xxxii. 10. 2944 Exod. xxxii. 32. 2945 *Visceribus*. 2946 *Prudentiæ*. 2947 By their false accusations against Cecilian of being a traditor, of which they were themselves convicted. Ep. 43 (162), etc. Aug. Serm. cxiv. (clxiv Ben).
 
 
 *[p. 809]* ^pg835
@@ -464,6 +464,6 @@ Sermon XXXIX.
 
 1\. The lesson of the Holy Gospel which has just been read, has given us an alarming warning, lest we have leaves only, and have no fruit. That is, in few words, lest words be present and deeds be wanting. Very terrible! Who does not fear when in this lesson he sees with the eyes of the heart the withered tree, withered at that word being spoken to it, “Let no fruit grow on thee henceforward for ever”?<sup>2949</sup> Let the fear work amendment, and the amendment bring forth fruit. For without doubt, the Lord Christ foresaw that a certain tree would deservedly become withered, because it would have leaves, and would have no fruit. That tree is the synagogue, not that which was called, but that which was reprobate. For out of it also was called the people of God, who in sincerity and truth waited in the Prophets for the salvation of God, Jesus Christ. And forasmuch as it waited in faith, it was thought worthy<sup>2950</sup> to know Him when He was present. For out of it came the Apostles, out of it came the whole multitude of those who went before the ass of the Lord, and said, “Hosanna to the Son of David, blessed is He that cometh in the Name of the Lord.”<sup>2951</sup> There was a great company then of believing Jews, a great company of those who believed in Christ before He shed His Blood for them. For it was not in vain that the Lord Himself had come to none “but to the lost sheep of the house of Israel.”<sup>2952</sup> But in others, after He was crucified, and was now exalted into heaven, He found the fruit of repentance; and these He did not make to wither, but cultivated them in His field, and watered them with His word. Of this number were those four thousand Jews who believed, after that the disciples and those who were with them, filled with the Holy Ghost, spake with the tongues of all nations,<sup>2953</sup> and in that diversity of tongues announced in a way beforehand, that the Church should be throughout all nations. They believed at that time, and “they were the lost sheep of the house of Israel;” but because “the Son of Man had come to seek and to save that which was lost,”<sup>2954</sup> He found these also. But they lay hid here and there among thorns, as though wasted and dispersed by the wolves; and because they lay hid among thorns, He did not come to find them,
 
-294\. 9 Matt. xxi. 19.
+2949 Matt. xxi. 19.
 
-295\. 0 *Meruit*. 2951 Matt. xxi. 9. 2952 Matt. xv. 24. 2953 Acts ii. 4.
+2950 *Meruit*. 2951 Matt. xxi. 9. 2952 Matt. xv. 24. 2953 Acts ii. 4.

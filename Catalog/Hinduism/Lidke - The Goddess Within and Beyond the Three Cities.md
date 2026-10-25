@@ -17,8 +17,7 @@ language:
   - English
 pages: 417
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The_Goddess_Within_and_Beyond_the_Three.pdf]]"
   - "[[Library/Hinduism/The Goddess Within and Beyond the Three Cities (Lidke)/The Goddess Within and Beyond the Three Cities (Lidke)]]"

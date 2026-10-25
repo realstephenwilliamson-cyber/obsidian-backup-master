@@ -18,8 +18,7 @@ language:
   - English
 pages: 190
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[Odier, Frock - Yoga Spandakarika, the Sacred Texts at the Origins of Tantra (2005).pdf]]"
   - "[[Library/Trika/Yoga Spandakarika - The Sacred Texts at the Origins (Odier)/Yoga Spandakarika - The Sacred Texts at the Origins (Odier)]]"

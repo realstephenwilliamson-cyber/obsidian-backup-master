@@ -17,8 +17,7 @@ language:
   - English
 pages: 37
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Interpreting_Across_Mystical_Boundaries.pdf]]"
   - "[[Library/Trika/Interpreting across Mystical Boundaries (Lidke)]]"

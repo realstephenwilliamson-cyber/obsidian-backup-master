@@ -6,7 +6,7 @@ page_range: "75–79"
 aliases:
   - "Gita (Lombardo) 13"
 ---
-[p. 75]
+[p. 75] ^pg75
 
 ## Chapter Thirteen
 

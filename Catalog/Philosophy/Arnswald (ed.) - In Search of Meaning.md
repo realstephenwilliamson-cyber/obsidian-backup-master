@@ -17,8 +17,7 @@ language:
   - English
 pages: 168
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Arnswald (ed.) - In Search of Meaning (2009).pdf]]"
   - "[[Library/Philosophy/In Search of Meaning (Arnswald)/In Search of Meaning (Arnswald)]]"

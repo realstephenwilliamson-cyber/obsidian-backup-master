@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-chapter
 title: Devī Māhātmya 6
+work: "Devī Māhātmya"
 chapter: 6
 charitra: Uttara Charitra (Final Episode)
 markandeya_purana_chapter: 83
@@ -19,7 +20,7 @@ Chapter 6 of the Devī Māhātmya (*Durgā Saptaśatī*), corresponding to chapt
 
 ## Sanskrit text
 
-*(not yet entered — add the Devanāgarī/IAST verses here when available)*
+Not entered here: the Sanskrit (IAST) with an English translation is in [[Devi Mahatmya - Durga Saptashati 07 - Chapter 6 The Slaying of Dhumralocana|the DeviMahatmya.com edition, chapter 6]].
 
 ## Notes
 

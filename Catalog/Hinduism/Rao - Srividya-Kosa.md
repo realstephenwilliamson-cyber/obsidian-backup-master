@@ -17,8 +17,7 @@ language:
   - English
 pages: 414
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Sri Vidya Kosha -S.K.Ramachandra Rao.pdf]]"
 aliases:

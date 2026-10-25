@@ -18,8 +18,7 @@ language:
   - English
 pages: 223
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Balslev, Mohanty (eds.) - Religion and Time (1993).pdf]]"
   - "[[Library/Other/Religion and Time (Balslev)/Religion and Time (Balslev)]]"

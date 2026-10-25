@@ -19,8 +19,7 @@ language:
   - English
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Play as Symbol of the World (Fink)/Play as Symbol of the World (Fink)]]"
 aliases: []

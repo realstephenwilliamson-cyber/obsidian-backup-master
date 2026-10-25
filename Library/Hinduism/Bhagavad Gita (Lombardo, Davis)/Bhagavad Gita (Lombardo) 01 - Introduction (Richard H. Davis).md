@@ -4,7 +4,7 @@ book: "[[Bhagavad Gita (Lombardo, Davis)]]"
 order: 1
 page_range: "vii–xxxii"
 ---
-[p. vii]
+[p. vii] ^pgvii
 
 INTRODUCTION
 

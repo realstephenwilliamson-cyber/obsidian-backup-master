@@ -291,9 +291,9 @@ Here one would like to consider additional evidence which could not be adduced t
 
 The immediate transmission of the Krama tenets by Mangala Devi to jnananetranatha [^2-p106] in Sitikantha finds a close analogue in Sivananda's receiving the spiritual secrets from Mangala Devi in the *Maharthamanjari.*[^3-p106] Moreover, Antarnetranatha is the first preceptor ever to be mentioned in connection with the Northern Seat by the *Mahanayaprakasa.*[^4] This, again, 
 
-[^2-p106]: *M.P.(S),p.*
+[^2-p106]: *M.P.(S),p.* 49.
 
-49\. 
+
 
 [^3-p106]: *Vide* pp. 99, 197.
 

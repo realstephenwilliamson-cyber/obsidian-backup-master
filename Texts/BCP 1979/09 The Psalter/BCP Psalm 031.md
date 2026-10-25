@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 31
 verses: 24
-page_range:
-  - 623
-  - 624
+page_range: "623–624"
 aliases:
   - "BCP Psalm 31"
   - "BCP 623"
@@ -48,7 +46,7 @@ and I put my trust in the LORD. ^31-6
 for you have seen my affliction;  
 you know my distress. ^31-7
 
-[p. 623]
+[p. 623] ^pg623
 
 **31:8** You have not shut me up in the power of the enemy; \*  
 you have set my feet in an open place. ^31-8
@@ -88,7 +86,7 @@ and in your loving-kindness save me." ^31-16
 rather, let the wicked be put to shame;  
 let them be silent in the grave. ^31-17
 
-[p. 624]
+[p. 624] ^pg624
 
 **31:18** Let the lying lips be silenced which speak against the righteous, \*  
 haughtily, disdainfully, and with contempt. ^31-18

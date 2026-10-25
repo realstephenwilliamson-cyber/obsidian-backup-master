@@ -17,8 +17,7 @@ language:
   - English
 pages: 200
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Mahanirvana-Tantra.pdf]]"
 aliases:

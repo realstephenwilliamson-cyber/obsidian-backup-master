@@ -35,7 +35,7 @@ Then confirm with me that no other AI tool is working on the vault.
 3. Check for duplicates. Search the catalog (Catalog/**) by title, author and aliases, and compare page counts and MD5 hashes.
    - The same file already present: skip it and tell me.
    - The same work in a different file (another edition, a scan versus a text copy, a partial copy): tell me which looks better and why, and wait for my decision. If I keep both, they share one catalog note.
-   - A catalog note with text: print for the same work (a book I had only on paper): add the file to that note's files: and set text, keeping its status and physical_copy. Don't make a second note.
+   - A catalog note with text: print for the same work (a book I had only on paper): add the file to that note's files: and set text, keeping its status and print. Don't make a second note.
    - A volume of a set the library already has: it joins that set's catalog note.
 
 4. Subject and folder. The subject is one of Trika | Judaica | Christianity | Philosophy | Sanskrit-Study | Hinduism | Biblical-Studies | Other.
@@ -56,7 +56,7 @@ Then confirm with me that no other AI tool is working on the vault.
    - Text source: the PDF's own text layer when it is good; a fresh OCR (AI/Prompts/Make scans searchable (OCR).md → step 3 for languages) when it is a scan, gibberish, or someone else's poor OCR; or the layer with its junk words replaced from a fresh OCR. Sample a few pages of the result against the page images before deciding.
    - Format: a folder Library/<Subject>/<Short title (Author)>/ with an index note (named like the folder) and one note per chapter, from the printed contents or the PDF's bookmarks, otherwise parts of 40 pages. Chapter notes are named "<Short title> NN - <Chapter>" with previous · contents · next links. An article of a few pages is one note, Library/<Subject>/<Short title (Author)>.md.
    - Every PDF page starts with a marker *[p. N]* ^pgK, where N is the printed page number and K the PDF page, so links can point at a page. Footnotes become Markdown footnotes where their reference can be found. Devanagari, IAST and Hebrew are kept.
-   - Frontmatter of each note: type (book or book-chapter), work (a link to the catalog note), book (a link to the index note), order, source_pdf (the PDF's vault path as plain text, not a link), pages, pdf_pages, text_source (where the text came from), converted (the date).
+   - Frontmatter of each note: type (book or book-chapter), work (a link to the catalog note), book (a link to the index note), order, source_pdf (the PDF's vault path as plain text, not a link), page_range (the printed page range, as text; the index note keeps pages, the page count), pdf_pages, text_source (where the text came from), converted (the date).
    - If the text has known weaknesses (a fresh OCR of transliterated Sanskrit, a poor scan), say so in a short callout at the top of each note.
    - Names in ASCII, and no note name used twice anywhere in Library/ (a bare [[name]] link would open the wrong one).
 
@@ -64,7 +64,7 @@ Then confirm with me that no other AI tool is working on the vault.
    - year and pages as numbers;
    - lists as lists, with plain personal names;
    - files: with full vault paths, like - "[[Library/Trika/Author - Short title (1990).pdf]]", followed by the Markdown index note, like - "[[Library/Trika/Short title (Author)/Short title (Author)]]";
-   - status: keep, or review with the reason in the body.
+   - status: empty, or review with the reason in the body.
    Body:
    - a "# Title" line, followed by the Open the PDF button (a dataviewjs block: await dv.view("Templates/Views/open-pdf"));
    - one sentence starting "**Checked against the file** on <date>:" that says where the details came from;

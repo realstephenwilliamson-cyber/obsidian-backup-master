@@ -17,8 +17,7 @@ language:
   - English
 pages: 304
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[thirtyminorupani00xxxxuoft.pdf]]"
 aliases:

@@ -17,8 +17,7 @@ language:
   - English
 pages: 313
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Biernacki - Renowned Goddess of Desire (2007).pdf]]"
 aliases:

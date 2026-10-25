@@ -17,8 +17,7 @@ language:
   - English
 pages: 368
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Idel - Ben, Sonship and Jewish Mysticism (2007).pdf]]"
   - "[[Library/Judaica/Ben - Sonship and Jewish Mysticism (Idel)/Ben - Sonship and Jewish Mysticism (Idel)]]"

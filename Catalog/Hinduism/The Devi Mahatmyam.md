@@ -17,8 +17,7 @@ language:
   - Sanskrit
 pages: 55
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Devi Mahatmyam.pdf]]"
   - "[[Library/Hinduism/The Devi Mahatmyam (text)/The Devi Mahatmyam (text)]]"

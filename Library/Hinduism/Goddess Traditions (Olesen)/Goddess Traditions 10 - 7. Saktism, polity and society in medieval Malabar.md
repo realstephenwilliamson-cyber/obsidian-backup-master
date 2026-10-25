@@ -6,7 +6,7 @@ page_range: 141–173
 aliases:
   - Goddess Traditions 10 - 7. Śāktism, polity and society in medieval Malabar
 ---
-[p. 141]
+[p. 141] ^pg141
 
 # 7 Śāktism, polity and society in medieval Malabar
 
@@ -72,7 +72,7 @@ Alexis Sanderson’s main focus in his political treatment of the ‘Śaiva Age�
 
 Accordingly, in the remainder of this paper, I will try to broadly sketch out a number of intersecting social and ritual dimensions of the worship of Śākta and related deities in Malabar. This will entail surveying how Malabar chiefs articulated puranic goddesses and their cohort with local histories and Śākta cults and officiants, how Brahmans positioned themselves in negotiating between their institutional interest in Āgamic temple culture and the challenge from tantric Śāktism, how tantric yogis made their appearance and their accommodation with Brahmans and the royal and caste order, and finally, how one bit of material culture around the charged issue of blood-offerings demonstrates an accommodation that is diagnostic of the complex layering of both doctrine and caste around the issue of ritual status and purity.
 
-[p. 152]
+[p. 152] ^pg152
 
 ## Polity and Puranic Śākta goddesses
 

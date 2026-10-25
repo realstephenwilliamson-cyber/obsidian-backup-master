@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 293
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Sanskrit/24 A Vedic Reader for Students.pdf]]"
 aliases: []

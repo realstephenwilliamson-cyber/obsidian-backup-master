@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 92
 verses: 14
-page_range:
-  - 721
-  - 721
+page_range: "721"
 aliases:
   - "BCP Psalm 92"
   - "BCP 721"
@@ -28,7 +26,7 @@ and to sing praises to your Name, O Most High; ^92-1
 **92:2** To tell of your loving-kindness early in the morning \*  
 and of your faithfulness in the night season; ^92-2
 
-[p. 721]
+[p. 721] ^pg721
 
 **92:3** On the psaltery, and on the lyre, \*  
 and to the melody of the harp. ^92-3

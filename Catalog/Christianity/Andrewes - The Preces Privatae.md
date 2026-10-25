@@ -19,7 +19,7 @@ language:
 pages:
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/theprecesprivata00andruoft.pdf]]"
 aliases: []

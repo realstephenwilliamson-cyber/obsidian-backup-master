@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 27
 verses: 18
-page_range:
-  - 618
-  - 619
+page_range: "618–619"
 aliases:
   - "BCP Psalm 27"
   - "BCP 618"
@@ -44,7 +42,7 @@ that I may dwell in the house of the LORD all the days of my life; ^27-5
 **27:6** To behold the fair beauty of the LORD \*  
 and to seek him in his temple. ^27-6
 
-[p. 618]
+[p. 618] ^pg618
 
 **27:7** For in the day of trouble he shall keep me safe in his shelter; \*  
 he shall hide me in the secrecy of his dwelling  
@@ -84,7 +82,7 @@ and also those who speak malice. ^27-16
 that I should see the goodness of the LORD \*  
 in the land of the living! ^27-17
 
-[p. 619]
+[p. 619] ^pg619
 
 **27:18** O tarry and await the LORD'S pleasure;  
 be strong, and he shall comfort your heart; \*  

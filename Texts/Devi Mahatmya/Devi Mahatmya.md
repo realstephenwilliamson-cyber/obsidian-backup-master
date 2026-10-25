@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-index
 title: "Devī Māhātmya"
+work: "Devī Māhātmya"
 ---
 
 # Devī Māhātmya
@@ -86,4 +87,4 @@ views:
 
 ## Status
 
-All 29 companion notes are stubs: the 13 chapter notes link to the existing English translation, and all have headings left ready for the Sanskrit text and translation to be added later.
+All 29 companion notes are stubs: the 13 chapter notes link to the existing English translation, and all have headings left ready for the Sanskrit text and translation to be added later. The Sanskrit (IAST) of the thirteen chapters, with an English translation, is in [[Devi Mahatmya - Durga Saptashati]].

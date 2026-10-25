@@ -32,7 +32,7 @@ But more than this, while it is true that a meaning that acts as a suggestor may
 
 suggestors.' \[By the Vrttikāra's use of the word punah (“again”) be indicates the following.) It is not the case that in analyzing dṁvani through the types avivakṣita, etc. there was no analysis by reference to suggestor factors. That analysis was indeed made by reference to suggestor factors. But although made, it will now be made again by reference to purely suggestor factors.? Thus, without reference to the suggested sense, one can divide suggestors into words, sentences, phonemes, word-components, texture (sarighatanã), and long sections of poetry. But none of these, like the literal meaning, is ever capable of being suggested. So the point of his statement is that the varieties lof dṁvani in the Third Chapter) will be described exclusively on the basis of the \[verbal\] suggestors.
 
-A certain commentator[^L384-3] bas explained the Vrtti’s phrase “through an analysis of what is suggested” as follows: “by reference to that which is suggested, namely vastu, alaṁkāra, and rasa.” He should be questioned in these terms: It was not the author of the Kārikās who made this threefold division; it was the author of the Vrtti who pointed it out \[cf. 1.4a A\]. And it is not the author of the Vrtti who will make the \[new} divisions \[in Chapter Three\].\* Therefore, what kind of logic would it be to say, “be did that and now he is doing this,” when the agent is not one and the same person?[^L384-5] Moreover, this explanation hardly makes a contextual connection with the whole of the book that bas gone before, because other varieties also, such as avivakṣitavācya, have already been shown.[^L384-6]’ But enough argument with an elder member of my own family.[^L384-7]”
+A certain commentator[^L384-3] bas explained the Vrtti’s phrase “through an analysis of what is suggested” as follows: “by reference to that which is suggested, namely vastu, alaṁkāra, and rasa.” He should be questioned in these terms: It was not the author of the Kārikās who made this threefold division; it was the author of the Vrtti who pointed it out \[cf. 1.4a A\]. And it is not the author of the Vrtti who will make the \[new} divisions \[in Chapter Three\].\* Therefore, what kind of logic would it be to say, “be did that and now he is doing this,” when the agent is not one and the same person?[^L384-5] Moreover, this explanation hardly makes a contextual connection with the whole of the book that bas gone before, because other varieties also, such as avivakṣitavācya, have already been shown.[^L384-6] But enough argument with an elder member of my own family.[^L384-7]
 
 1\. Le., the discussion in Chapter Three will be distinguished by its treating suggestor words (as opposed to suggestor meaniags), which were not treated in the previous chapters. 2. By purely suggestor factors (suddha-vyañjaka) Abhinava means words, phonemes, etc., which are purely suggestive, never suggested.
 
@@ -208,7 +208,7 @@ A Inthe same sub-type of dhvani a sentence may act as a suggestor, as in the spe
 
 In this great disaster you are now all that is left .
 
-In this cosmic destruction you are now the world-serpent Seṣa for the support of the earth.[^A396-1]’
+In this cosmic destruction you are now the world-serpent Seṣa for the support of the earth.[^A396-1]
 
 \[Harsacarito, p. 192 bottom (Chapter 6, lines 421-2 out of 628)
 
@@ -396,7 +396,7 @@ You were trembling; in your fear the robe was slipping from your shoulders; and 
 
 But the cruel fire, pitiless, burned on with swift att blinded by its smoke, it destroyed you without seeing.
 
-Mātrarāja, Tāpasavatsarājacarita 2.16[^A407-1]'
+Mātrarāja, Tāpasavatsarājacarita 2.16[^A407-1]
 
 For in this verse it will be clear to sensitive readers that the word “those” (te) is full of rasa.
 
@@ -412,7 +412,7 @@ Thus, what a certain \[commentator\] has objected to and answered are both false
 
 *[p. 394]* ^pg409
 
-be mentioned, there the word tad then shows the copresence \[of that second property\] with the first property that we still bear in mind.[^L408-6] So the rule that “yad and tad must go together” refers to the anaphoric usage of tad. On the other hand, where the word tad is used to suggest a particular memory-picture induced by some cause,[^L408-7]” as in the phrase “that pot” (meaning the pot which I remember as having seen before), in such and similar expressions, the word tad has no reference whatever to anything mentioned previously. So enough of arguing with persons who think themselves learned but whose references are wrong.
+be mentioned, there the word tad then shows the copresence \[of that second property\] with the first property that we still bear in mind.[^L408-6] So the rule that “yad and tad must go together” refers to the anaphoric usage of tad. On the other hand, where the word tad is used to suggest a particular memory-picture induced by some cause,[^L408-7] as in the phrase “that pot” (meaning the pot which I remember as having seen before), in such and similar expressions, the word tad has no reference whatever to anything mentioned previously. So enough of arguing with persons who think themselves learned but whose references are wrong.
 
 By the words “trembling,” etc., the speaker of the stanza imagines the symptoms (anubhāvas) of the queen's fear. The thought that he has been unable to prevent |that fear\] is a stimulus (vibhāva) of the sorrow which fills him. (He speaks of) casting “those” eyes, that is, eyes which, although they were always the unique abode of beauty-in-motion, were now helpless, finding no goal of sight in their terror and as if asking “Who will save me? Where is my husband?” That “those” eyes ol hers should have been reduced to such a condition acts as a stimulant (uddipana) of the speaker's sorrow in an exceptional degree. “Cruel”: such is the very nature \[of fire\] and cannot be helped. And yet, the fire was blinded by smoke and so was unable to see \[the queen\], for it is inconceivable that an informed agent should do such an improper deed. Thus the memory of the beauty of her eyes now acts as a stimulus of the sorrow which overwhelms the king. All this development of meaning is achieved by the presence of the word “those.” In this manner \[the suggestive power of particular words) should be explained in the case of other examples.
 
@@ -450,7 +450,7 @@ lovelier than a startled deer's,
 
 somehow, as it dropped a tear,
 
-tell me not to go?[^A410-1]'
+tell me not to go?[^A410-1]
 
 Here the component tribhāga (“corner”)[^A410-2] (in the compound netratri-
 
@@ -462,7 +462,7 @@ bhāga ("eye-corner”) is suggestive\].
 
 *[p. l]* ^pg411
 
-L The component “corner”: The speaker remembers how she looked at him, despite the presence of their elders, with a sweet glance that contained yearning, grief, and despair.[^L411-1]’ The recollection serves as a stimulant of the grief of separation, caused by a journey, of persons who cannot live without each other.? This stimulation is made clear by the presence of the word element “corner.”
+L The component “corner”: The speaker remembers how she looked at him, despite the presence of their elders, with a sweet glance that contained yearning, grief, and despair.[^L411-1] The recollection serves as a stimulant of the grief of separation, caused by a journey, of persons who cannot live without each other.? This stimulation is made clear by the presence of the word element “corner.”
 
 [^L411-1]: The reading of the Kashi edition -garvamantharam makes very little sense. We have preferred the KM reading (also accepted by Badarināth Śarmā) -garbhamadṁuram, and have so translated,
 

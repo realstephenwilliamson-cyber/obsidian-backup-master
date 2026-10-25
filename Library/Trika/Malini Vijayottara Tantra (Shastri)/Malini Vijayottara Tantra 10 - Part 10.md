@@ -240,7 +240,7 @@ The sixth stage iw Siddhenta in wh igh an jaspirent
 
 *[p. 11]* ^pg378
 
-ooncludes aftor a deliberate consideration and ‘forms his. opinion about the merits of the path of enjoyment (Bhukti- #£=vada) and that of renunciation (Muktivada). Thus “he pur- 4 sues the latter path and reaches the final stage of Kaula #=whioch means 'a place without name and form’ aagording to -
+ooncludes aftor a deliberate consideration and ‘forms his. opinion about the merits of the path of enjoyment (Bhukti- \#£=vada) and that of renunciation (Muktivada). Thus “he pur- 4 sues the latter path and reaches the final stage of Kaula #=whioch means 'a place without name and form’ aagording to -
 
 jvVe.l. =%&It should be borne in mind in this copmection that it is not a ‘void’ (Sunya) stage of the nihilietig school which negates all the universal manifestations, It is the stage of a perfect quiescence where all limitations dis- —
 
@@ -295,7 +295,7 @@ the various, Dharanas (Mental concentrationa) of the diver -gent tattvas desorib
 
 : tue rene
 
-If we minutely exetine this method of eublimation, aited above, 1t will be found fully based on the two pole-rities 1,e. subject and object corresponding to two epithets \~ ‘Ahem’ and 'Idam’. Aham refers to the subject which is all pervading, undifferentiated, unmeasured and Infinite. ‘Idam‘ (this) points out the objects of the universe, which are not different from the subject whichis under deter minants (Pasas, fettes)’ and which has forgotten Its true existence, To approach the ‘subject, aspirant should pay, his attention to the object, 4.0., ignorance and fettes by which the unlimited (aubject ig delimited), #1t is the; sghief characteristics of the Tontrik philosophy that all Sadhanas should be started from Limited objects, dgnorance and iilusions, which, in reelity, ave seit wanirestations oat of the transcendent subject and through whieh 4t, oan eaa/
+If we minutely exetine this method of eublimation, aited above, 1t will be found fully based on the two pole-rities 1,e. subject and object corresponding to two epithets \~ ‘Ahem’ and 'Idam’. Aham refers to the subject which is all pervading, undifferentiated, unmeasured and Infinite. ‘Idam‘ (this) points out the objects of the universe, which are not different from the subject whichis under deter minants (Pasas, fettes)’ and which has forgotten Its true existence, To approach the ‘subject, aspirant should pay, his attention to the object, 4.0., ignorance and fettes by which the unlimited (aubject ig delimited), \#1t is the; sghief characteristics of the Tontrik philosophy that all Sadhanas should be started from Limited objects, dgnorance and iilusions, which, in reelity, ave seit wanirestations oat of the transcendent subject and through whieh 4t, oan eaa/
 
 *[p. 15]* ^pg382
 
@@ -890,7 +890,7 @@ Kaa III 40. Ksarna If 51. sls
 Ksapane Il. Kema X¥ 20. .  
 Kseama XVIII 768. Ms Kelivavrksa VIII 123 i gta  
 Pra. hes RE San  
-Trike II \$4, VIII 109. - Trikone XIII #le.:-. “ge  
+Trike II \$4, VIII 109. - Trikone XIII \#le.:-. “ge  
 . \~\~ ; shh  
 Tritayatva VI 29. Trikhanda VI 10, IX 682.  
 Tridandia XX 55. Trisula IV 25, VII 2, VIII  

@@ -17,8 +17,7 @@ language:
   - English
 pages: 27
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[netratantraJHS2012.pdf]]"
   - "[[Library/Trika/Netra Tantra at the Crossroads of the Demonological (White)]]"

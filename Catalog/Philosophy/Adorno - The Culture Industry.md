@@ -18,8 +18,7 @@ language:
   - English
 pages: 219
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Adorno - The Culture Industry.pdf]]"
   - "[[Library/Philosophy/The Culture Industry (Adorno)/The Culture Industry (Adorno)]]"

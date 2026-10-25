@@ -45,7 +45,7 @@ A passage found in the Yonigahvara’ is also found at the beginning of chapter 
 
 variants. Listed there are the four Yuganāthas, who were founders of Kaulism in the four cosmic ages (yuga), and their consorts. Matsyendranātha figures as the founder of Kaulism in this Age.\* He had twelve disciples. A detailed account is found in the Kulakrīdāvatāra, which Abhinava quotes in Chapter Twenty-nine.‘ In both the YG and the DP, the passage continues with a lineage of four teachers beginning with Niṣkriyānanda, noted above. In this way the locus of an independent Kaula tradition saw its roots in the Kaulism taught by Matsyendranātha. In this way, Kaulism as a whole is channelled through the teachings of the lineage of the Kālīkrama that thereby appropriates them. This connection is strengthened and maintained down the line. The YG and DP texts begin with the same auspicious verse of invocation, thus emphasizing the tie between them. We also find it at the beginning of the Devīdvyardhaśatika, which draws a great deal from the Yonigahvara or some common source. It reads: 
 
-‘I bow to \[illegible\] the supreme bestower of Being, to my own nature. She is the Light that has emerged from frying pan (heated by the) Fire at the end (of Time) She is established in the middle within the three paths of the Moon, Sun and Fire, her state the dissolving away of consciousness, the object of consciousness, the mind, the senses and (their) objects. 7 
+‘I bow to Kālī, the supreme bestower of Being, to my own nature. She is the Light that has emerged from frying pan (heated by the) Fire at the end (of Time) She is established in the middle within the three paths of the Moon, Sun and Fire, her state the dissolving away of consciousness, the object of consciousness, the mind, the senses and (their) objects. 7 
 
 1127?\. The four Yuganāthas and their consorts: Kṛtayuga: Khagendranātha and Vijjā avvā (DP ambā) Dvāyuga: Kūrmanātha and Maṁgalādūti (DP ambā) Tretayuga: Meśanātha and Kāmamaṁgalā Kaliyuga: Mīnanāthaṁ and Koṁkaṇāmbā (DP Kuṁkaṇādūti)
 
@@ -68,7 +68,7 @@ date, all of which, we have seen, are called Mahānayaprakāśa. There we find a
 
 We find it in both texts in a seed state. Thus, after presenting the Yuganāthas, the YG goes on to declare that: 
 
-‘In the cremation ground (called) Karavīra in the venerable Uttarapītha, once the venerable Jñānanetranātha had extracted the Yonigahvara, which is most excellent essence of Mantra, he revealed it on the surface of the earth. \* 
+‘In the cremation ground (called) Karavīra in the venerable Uttarapīṭha, once the venerable Jñānanetranātha had extracted the Yonigahvara, which is most excellent essence of Mantra, he revealed it on the surface of the earth. \* 
 
 The YG is indeed concerned with the ‘essence of Mantra’, as most of it is taken up with the extraction in code of the forms of Kālasaṁkarṣiṇī’s Vidyā, that is used for the worship of the cycles (cakra) of emanation (sṛṣti), persistence (sthiti), withdrawal (saṁhāra), the Inexplicable (Anāmā) and illumination (bhāsā). 
 
@@ -159,7 +159,7 @@ kim api niruttarasahajasvarūpasaṁvitprakāśamayam || 3 ॥
 Victorious is Your will that surges up (perpetually)! By means of that, (You) in some (inexplicable way) assume the form of Your own essential nature, which is the most excellent (niruttara) (absolute) and spontaneous (sahaja) light of consciousness! (3) 
 
 vāntvā samastakālaṁ \[k: tva-\] mūrtyāhaṁkāraghoramūrtim api |
-nigraham asmin kṛtvānugraham api tu \[k: missing\] kurvatī jayasi ॥ 4 I| 
+nigraham asmin kṛtvānugraham api tu \[k: missing\] kurvatī jayasi ॥ 4 ॥ 
 
 Having emitted all time as (Your) form (mārti), even though (Your) form is fearsome as the (fettered soul’s) ego, having restrained (it) within this, even as You are also bestowing (Your) grace, You are victorious! (4) 
 
@@ -174,7 +174,7 @@ icchāvaśena yasyāḥ sā tva bhuvanāmvikā \[k: stva-\] jayasi | 6 ॥
 You, who are the Mother of the Worlds, are victorious. Swayed by Your will, Time, which is Bhairava, emits the universe beginning with (Siva, its universal) cause, up to (a tiny) insect. (6) 
 
 jayati śaśāṁkadivārkapāvakadhāmatrayāntaravyāpi \[k: -divāka-\] |
-janani tava kim api vimalari svarūparūpari paraḥ dhāma || 7 Il 
+janani tava kim api vimalari svarūparūpari paraḥ dhāma || 7 || 
 
 *[p. 461]* ^pg474
 
@@ -199,9 +199,9 @@ amalīsvabhāvajaladhau śāntaṁ \[illegible\] ca te rūpam || 11 ॥
 Your tranquil and beautiful nature, the wave of the deployment of the ongoing universe, wonderfully various with all that moves and is immobile, triumphs in the ocean of (Your) stainless nature. (11) 
 
 sahajollāsavikāsaprapūritāśeṣaviśvavibhavaiṣā |
-pūrṇā tavāmba mūrtir jayati parānandasapūrnṇā || 12 || 
+pūrṇā tavāmba mūrtir jayati parānandasapūrṇā || 12 || 
 
-O Mother, this Your iconic form \[illegible\] which is the glory of all the universe, completely filled with the expansion of (Your) spontaneous (innate) outpouring (sahajollāsa) and, full of supreme bliss, triumphs! (12) 
+O Mother, this Your iconic form (mūrti), which is the glory of all the universe, completely filled with the expansion of (Your) spontaneous (innate) outpouring (sahajollāsa) and, full of supreme bliss, triumphs! (12) 
 
 kavalitasakalajagattrayavikatamahākālakavalanodyuktā |
 upabhuktabhāvavibhavaprabhavāpi tu \[k: \*\] kṛśodarī jayasi || 13 | 
@@ -254,12 +254,12 @@ tādṛg jagattrayam idan bhavatu tavāmba prasādena || 19 ॥
 
 May this triple universe be, by Your grace, as is the Goddess’s own nature, which is established in transcendence (akulastha), as ( have) perceived in the Great Cremation Ground. (19) 
 
-ittharn svarūpastutir abhyadhāyi samyaksamāveśadaśāvaśena |
+itthaṁ svarūpastutir abhyadhāyi samyaksamāveśadaśāvaśena |
 mayā śivenātra \[k: missing\] śivāya samyag mamaiva viśvasya tu maṁgalākhye ॥
 20 ॥ 
 
 0 Maṅgalā! may the praise of (your) own nature that I, who am Śiva, have expressed here (in this world) in this way, under the sway of the state of perfect immersion (in Your nature) (samāveśa), bring true (samyak) peace (śiva) to the whole world that is myself! (20) 
 
-kṛtir \[illegible\] śrījñānanetrapādānām iti || 
+kṛtir iyaṁ śrījñānanetrapādānām iti || 
 
 This is the work of the venerable Jñānanetra.

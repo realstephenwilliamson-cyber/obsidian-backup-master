@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 88
 verses: 19
-page_range:
-  - 712
-  - 713
+page_range: "712–713"
 aliases:
   - "BCP Psalm 88"
   - "BCP 712"
@@ -61,7 +59,7 @@ will those who have died stand up and give you thanks? ^88-11
 **88:12** Will your loving-kindness be declared in the grave? \*  
 your faithfulness in the land of destruction? ^88-12
 
-[p. 713]
+[p. 713] ^pg713
 
 **88:13** Will your wonders be known in the dark? \*  
 or your righteousness in the country where all is forgotten? ^88-13

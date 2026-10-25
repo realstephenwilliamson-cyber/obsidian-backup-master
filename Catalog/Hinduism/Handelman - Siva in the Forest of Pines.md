@@ -18,8 +18,7 @@ language:
   - English
 pages: 261
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Handelman, Shulman - Siva in the Forest of Pines (2004).pdf]]"
 aliases:

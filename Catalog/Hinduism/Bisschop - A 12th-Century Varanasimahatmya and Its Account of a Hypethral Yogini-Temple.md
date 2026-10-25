@@ -17,8 +17,7 @@ language:
   - English
 pages: 29
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Bisschop - A 12th-Century Varanasimahatmya (2016).pdf]]"
   - "[[Library/Hinduism/A 12th-Century Varanasimahatmya and Its Account (Bisschop)]]"

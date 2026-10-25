@@ -21,7 +21,7 @@ language:
 pages: 305
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Horkheimer, Adorno - Dialectic of Enlightenment (2002).pdf]]"
   - "[[Library/Philosophy/Dialectic of Enlightenment (Horkheimer)/Dialectic of Enlightenment (Horkheimer)]]"

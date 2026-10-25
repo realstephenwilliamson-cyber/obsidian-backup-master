@@ -17,8 +17,7 @@ language:
   - English
 pages: 398
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Collingwood - The New Leviathan (1944).pdf]]"
   - "[[Library/Philosophy/The New Leviathan (Collingwood)/The New Leviathan (Collingwood)]]"

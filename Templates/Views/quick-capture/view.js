@@ -48,9 +48,9 @@ bar.createEl("button", { text: "New handwritten note" }).onclick = async () => {
   } catch (e) { fail(e); }
 };
 
-// books: the ones you are reading first (status: reading), then the ones you own on paper (physical_copy)
+// books: the ones you are reading first (status: reading), then the ones you own in print (print)
 const books = dv.pages(`"${CAT}"`)
-  .where(p => p.status === "reading" || p.physical_copy === true)
+  .where(p => p.status === "reading" || p.print === true)
   .sort(p => (p.status === "reading" ? "0" : "1") + String(p.title || p.file.name).toLowerCase())
   .array();
 const det = dv.el("details", "", { container: root, cls: "vp-capture-books" });
@@ -168,8 +168,8 @@ async function addBook(thenScan) {
     "language:\n  - English",
     "pages: ",
     "text: print",
-    `status: ${fReading.checked ? "reading" : "keep"}`,
-    `physical_copy: ${fOwn.checked}`,
+    `status: ${fReading.checked ? "reading" : ""}`,
+    `print: ${fOwn.checked}`,
     "files: []",
     "aliases: []",
     "---",
@@ -179,7 +179,7 @@ async function addBook(thenScan) {
     (link ? `Details from [this page](${link}), added on ${today}.` : `Details typed in on ${today}; check them against the title page when you can.`) +
     `\n\nPages you photograph with *Photograph marked pages* on Home go to ${MARKED}/ and show in this note's backlinks.\n`;
   const f = await app.vault.create(path, fm + body);
-  const p = { file: { name, path: f.path }, title, author: authors, status: fReading.checked ? "reading" : "keep" };
+  const p = { file: { name, path: f.path }, title, author: authors, status: fReading.checked ? "reading" : "" };
   books.unshift(p); setCount(); render(box.value);
   say(`Added “${name}” to ${CAT}/${subject}.` + (short0 ? "" : " The title has no Latin letters, so the file name is a placeholder: rename the note in Obsidian."));
   if (window.Notice) new Notice(`Added “${name}” to ${CAT}/${subject}`);

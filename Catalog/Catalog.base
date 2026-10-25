@@ -64,7 +64,7 @@ views:
     order:
       - file.name
       - status
-      - physical_copy
+      - note.print
     sort:
       - property: title
         direction: ASC

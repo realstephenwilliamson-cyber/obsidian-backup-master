@@ -19,10 +19,10 @@
 //   .work/backup-orient-2026-10-21/Templates/ and in Sync's version history.
 // ================================================================================================================
 // Homily (Polyphonic): a Sunday's or feast's readings beside the week's parashah, Rashi, Mei HaShiloach and the Zohar.
-// Use it with Templater's "Create new note from template" (a note made directly in Writing/Homilies gets the ordinary
+// Use it with Templater's "Create new note from template" (a note made directly in Projects/Homilies gets the ordinary
 // Homily template). If the new note's title starts with a date in the study plan, the occasion and the parashah come
 // from that day's row; otherwise it asks for the occasion and the date. The note is then named
-// "<date> <occasion> (polyphonic)" and filed in Writing/Homilies. The parashah texts are found from the note's
+// "<date> <occasion> (polyphonic)" and filed in Projects/Homilies. The parashah texts are found from the note's
 // `parashah` property each time the note is shown, so you can change it by hand.
 // Rebuilt 6 Oct 2026 (phase 1 of the October plan): the old version built links to paths that do not exist.
 // Changed 18 Oct 2026 (Holy Days): the same choice as in the Homily template between the Sunday's collect and readings and a Holy Day's
@@ -180,7 +180,7 @@ out += "### First Reading (Hebrew Bible / Old Testament)\n\n\n\n### Psalm\n\n\n\
 out += "## Homiletical Draft\n\n> [!reflection] The Proclamation (*Praedicatio*)\n> \n\n- claim:: \n- cites:: \n";
 const name = `${date || moment().format("YYYY-MM-DD")} ${label} (polyphonic)`;
 // the homilies folder is wherever the note "Homilies" (its folder note) is (12 Oct 2026, restructure)
-const HF = app.metadataCache.getFirstLinkpathDest("Homilies", "")?.parent?.path || "Writing/Homilies";
+const HF = app.metadataCache.getFirstLinkpathDest("Homilies", "")?.parent?.path || "Projects/Homilies";
 // a name that is already taken makes the move throw, and the note was left blank (F29 g): keep this name, fill the note, say why
 if (!tp.file.folder(true).startsWith(HF) || tp.file.title !== name) {
   try { await tp.file.move(`${HF}/${name}`); }

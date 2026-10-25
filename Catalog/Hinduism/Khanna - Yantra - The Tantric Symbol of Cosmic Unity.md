@@ -17,8 +17,7 @@ language:
   - English
 pages: 176
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Madhu Khanna - Yantra_ The Tantric Symbol of Cosmic Unity-Thames & Hudson (1997).pdf]]"
 aliases:

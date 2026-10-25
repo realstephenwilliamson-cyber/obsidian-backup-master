@@ -4,23 +4,23 @@ book: "[[The Essential Kabbalah (Matt)]]"
 order: 9
 page_range: "109–128"
 ---
-[p. 109]
+[p. 109] ^pg109
 
 # ![[essential-kabbalah-9780062048134_023.png]] Mind, Meditation, and Mystical Experience
 
-[p. 110]
+[p. 110] ^pg110
 
 ### IMAGINE THAT YOU ARE LIGHT
 
 WHATEVER ONE implants firmly in the mind becomes the essential thing. So if you pray and offer a blessing to God, or if you wish your intention to be true, imagine that you are light. All around you—in every corner and on every side—is light. Turn to your right, and you will find shining light; to your left, splendor, a radiant light. Between them, up above, the light of the Presence. Surrounding that, the light of life. Above it all, a crown of light—crowning the aspirations of thought, illumining the paths of imagination, spreading the radiance of vision. This light is unfathomable and endless.
 
-[p. 111]
+[p. 111] ^pg111
 
 ### AN EXTRA SPIRIT
 
 YOU FEEL an extra spirit—arousing you, flowing over your entire body, bringing pleasure. It seems as if fine balsam oil has been poured over you from your head to your feet—once, maybe more. You are overjoyed, in delight and trembling: the soul in delight, the body in trembling. Like a rider racing a horse: the rider is joyful and exuberant, while underneath, the horse quivers.
 
-[p. 112]
+[p. 112] ^pg112
 
 ### JOINING THE DIVINE
 
@@ -32,7 +32,7 @@ Join thought to divine wisdom, so she and he become one.
 
 The soul will cleave to the divine mind, and the divine mind will cleave to her. For more than the calf wants to suck, the cow wants to suckle. She and the divine mind become one, like pouring a jug of water into a gushing spring: all becomes one.
 
-[p. 113]
+[p. 113] ^pg113
 
 ### THE MIRROR OF THOUGHT
 
@@ -50,7 +50,7 @@ THOUGHT RISES to contemplate its own innerness until its power of comprehension 
 
 THE INNER, subtle essences can be contemplated only by sucking, not by knowing.
 
-[p. 114]
+[p. 114] ^pg114
 
 ### RIPPLES
 
@@ -58,25 +58,25 @@ THOUGHT REVEALS itself only through contemplating a little without content, cont
 
 It is the same with the beginning of emanation. As you begin to contemplate it, it vanishes, then reappears; you understand—and it disappears. Even though you do not grasp it, do not despair. The source is still emanating, spreading.
 
-[p. 115]
+[p. 115] ^pg115
 
 ### MENTAL ATTACHMENT
 
 IN MEDITATION, everything depends on thought. If your thought becomes attached to any created thing—even something unseen or spiritual, higher than any earthly creature—it is as if you were bowing down to an idol on your hands and knees.
 
-[p. 116]
+[p. 116] ^pg116
 
 ### IMAGINATION
 
 THE FIERCE power of imagination is a gift from God. Joined with the grandeur of the mind, the potency of inference, ethical depth, and the natural sense of the divine, imagination becomes an instrument for the holy spirit.
 
-[p. 117]
+[p. 117] ^pg117
 
 ### GATHERING MULTIPLICITY
 
 ONE WHO descends from the root of roots to the form of forms must walk in multiplicity. One who ascends from the form of forms to the root of roots must gather the multiplicity, for the highest form unites them all, and the root extends through every form that arises from it at any time. When the forms are destroyed, the root is not destroyed.
 
-[p. 118]
+[p. 118] ^pg118
 
 ### EQUANIMITY
 
@@ -94,25 +94,25 @@ He answered, “By the life of your soul, my master! I do feel pleasure and sati
 
 The master said, “My son, go away in peace. For as long as you have not attained equanimity and still feel humiliation from something done to you, you are not ready for your thought to be linked on high. You are not ready to come and seclude yourself in meditation. But go and humble your heart further, genuinely, until you attain equanimity. Then you can experience aloneness.”
 
-[p. 119]
+[p. 119] ^pg119
 
 ### KINDLING THE HEART
 
 THOSE WHO practice aloneness and unify the divine name kindle the fire on the altar of their hearts. By their pure thought, all the sefirot are unified and linked to one another until they are drawn to the source of the infinitely sublime flame. Here lies the secret of the unification that a person performs in the morning and evening prayers, raising all the sefirot and unifying them into a single cluster. Thereby one cleaves to the divine name.
 
-[p. 120]
+[p. 120] ^pg120
 
 ### GAZING AT THE LETTERS
 
 REMEMBER GOD and God’s love constantly. Let your thought not be separated from God. I declare, both to individuals and to the masses: If you want to know the secret of binding your soul above and joining your thought to God—so that by means of such continuous contemplation you attain incessantly the world that is coming, and so that God be with you always, in this life and the next—then place in front of the eyes of your mind the letters of God’s name, as if they were written in a book in Hebrew script. Visualize every letter extending to infinity. What I mean is: when you visualize the letters, focus on them with your mind’s eye as you contemplate infinity. Both together: gazing and meditating.
 
-[p. 121]
+[p. 121] ^pg121
 
 ### CLIMBING THE LADDER
 
 I, RABBI ISAAC of Akko, was contemplating, according to the method I received from the great one of his generation—great in humility, the wisdom of Kabbalah, philosophy, and the science of permutation of letters. He insisted that I set the ten sefirot in front of me, as it is written: “I set YHVH before me always.” I saw them today above my head like a pillar, with their feet on my head and their heads high above, beyond all the four worlds: emanation, creation, formation, and actualization. As long as I was contemplating this ladder—the name of the Blessed Holy One—I saw my soul cleaving to Ein Sof.
 
-[p. 122]
+[p. 122] ^pg122
 
 ### GATES OF HOLINESS
 
@@ -128,7 +128,7 @@ Draw forth the spirit until you see and know for certain that it is bound to you
 
 Sanctify your limbs and adorn them with good deeds, making yourself into a throne for the divine presence, your body an ark for Shekhinah. When you do a good deed, you sanctify yourself.
 
-[p. 124]
+[p. 124] ^pg124
 
 ### WHAT ARE WE?
 
@@ -138,13 +138,13 @@ Then you find bliss, transcending all humiliations or anything that happens, by 
 
 Then you gather everything, without hatred, jealousy, or rivalry. The light of peace and a fierce boldness manifest in you. The splendor of compassion and the glory of love shine through you. The desire to act and work, the passion to create and to restore yourself, the yearning for silence and for the inner shout of joy—these all band together in your spirit, and you become holy.
 
-[p. 125]
+[p. 125] ^pg125
 
 ### THE VOICE OF GOD
 
 WHEN YOU train yourself to hear the voice of God in everything, you attain the quintessence of the human spirit. Usually the mind conceals the divine thoroughly by imagining that there is a separate mental power that constructs the mental images. But by training yourself to hear the voice of God in everything, the voice reveals itself to your mind as well. Then right in the mind, you discover revelation.
 
-[p. 126]
+[p. 126] ^pg126
 
 ### THE RIVER OF ALREADY
 
@@ -156,7 +156,7 @@ A parable has been told. To what can this be compared? To someone who went to th
 
 So, Ezekiel was standing on the River Kevar. As he was gazing at the water, the seven heavens were opened for him and he saw the Glory of Holiness, along with celestial creatures, ministering angels, bands of angels, seraphs, and angels with sparkling wings, all joined to the heavenly chariot. As they were passing through heaven, Ezekiel saw them reflected in the water. As it is written, “on the River Kevar,” the River of Already.
 
-[p. 127]
+[p. 127] ^pg127
 
 ### GO TO YOUR SELF
 
@@ -166,7 +166,7 @@ God said to Abram, “Go to your self, know your self, fulfill your self.”
 
 THIS VERSE is addressed to every person. Search and discover the root of your soul, so that you can fulfill it and restore it to its source, its essence. The more you fulfill yourself, the closer you approach your authentic self.
 
-[p. 128]
+[p. 128] ^pg128
 
 ### BEYOND CAPACITY
 

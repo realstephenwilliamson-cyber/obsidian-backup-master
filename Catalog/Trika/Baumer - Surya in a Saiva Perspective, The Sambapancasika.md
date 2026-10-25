@@ -18,8 +18,7 @@ language:
   - English
 pages: 43
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Baumer - Surya in a Saiva Perspective, The Sambapancasika (from Pasyanti).pdf]]"
   - "[[Library/Trika/Surya in a Saiva Perspective (Baumer)/Surya in a Saiva Perspective (Baumer)]]"

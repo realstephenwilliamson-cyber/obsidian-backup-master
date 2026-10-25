@@ -19,7 +19,7 @@ language:
 pages: 130
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[The Re-Enchantment of the World The Value of Spirit Against Industrial Populism (2014).pdf]]"
   - "[[Library/Philosophy/The Re-Enchantment of the World (Stiegler)/The Re-Enchantment of the World (Stiegler)]]"

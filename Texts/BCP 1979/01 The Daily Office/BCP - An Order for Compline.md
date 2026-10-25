@@ -5,9 +5,7 @@ section: "The Daily Office"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/DailyOffice/compline.html"
-page_range:
-  - 127
-  - 135
+page_range: "127–135"
 aliases:
   - "BCP 127"
   - "BCP 128"
@@ -23,7 +21,7 @@ aliases:
 
 [[BCP 1979]] · *The Daily Office* · pages 127–135
 
-[p. 127]
+[p. 127] ^pg127
 
 ## An Order for Compline
 
@@ -45,7 +43,7 @@ Let us confess our sins to God.
 
 Almighty God, our heavenly Father: We have sinned against you, through our own fault, in thought, and word, and deed, and in what we have left undone. For the sake of your Son our Lord Jesus Christ, forgive us all our offenses; and grant that we may serve you in newness of life, to the glory of your Name. Amen.
 
-[p. 128]
+[p. 128] ^pg128
 
 *Officiant*
 
@@ -84,7 +82,7 @@ speak to your heart in silence upon your bed.
 5 Offer the appointed sacrifices \*  
 and put your trust in the LORD.
 
-[p. 129]
+[p. 129] ^pg129
 
 6 Many are saying,  
 "Oh, that we might see better times!" \*  
@@ -125,7 +123,7 @@ abides under the shadow of the Almighty.
 "You are my refuge and my stronghold, \*  
 my God in whom I put my trust."
 
-[p. 130]
+[p. 130] ^pg130
 
 3 He shall deliver you from the snare of the hunter \*  
 and from the deadly pestilence.
@@ -167,7 +165,7 @@ under your feet.
 therefore will I deliver him; \*  
 I will protect him, because he knows my Name.
 
-[p. 131]
+[p. 131] ^pg131
 
 15 He shall call upon me, and I will answer him; \*  
 I am with him in trouble;  
@@ -203,7 +201,7 @@ Come to me, all who labor and are heavy-laden, and I will give you rest. Take my
 
 *or the following*
 
-[p. 132]
+[p. 132] ^pg132
 
 May the God of peace, who brought again from the dead our Lord Jesus, the great shepherd of the sheep, by the blood of the eternal covenant, equip you with everything good that you may do his will, working in you that which is pleasing in his sight; through Jesus Christ, to whom be glory for ever and ever. *[[Hebrews 13#^13-20|Hebrews 13:20-21]]*
 
@@ -235,7 +233,7 @@ your kingdom come,
 your will be done,  
 on earth as in heaven.
 
-[p. 133]
+[p. 133] ^pg133
 
 Give us this day our daily bread. And forgive us our trespasses,  
 as we forgive those  
@@ -261,7 +259,7 @@ Look down, O Lord, from your heavenly throne, and illumine this night with your 
 
 Visit this place, O Lord, and drive far from it all snares of the enemy; let your holy angels dwell with us to preserve us in peace; and let your blessing be upon us always; through Jesus Christ our Lord. *Amen.*
 
-[p. 134]
+[p. 134] ^pg134
 
 ### A Collect for Saturdays
 
@@ -283,7 +281,7 @@ Guide us waking, O Lord, and guard us sleeping; that awake we may watch with Chr
 
 *In Easter Season, add* Alleluia, alleluia, alleluia.
 
-[p. 135]
+[p. 135] ^pg135
 
 Lord, you now have set your servant free \*  
 to go in peace as you have promised;

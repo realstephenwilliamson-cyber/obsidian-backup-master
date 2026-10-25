@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 177
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Sivananda - Lord Siva and His Worship-Divine Life Society (2004).pdf]]"
 aliases:

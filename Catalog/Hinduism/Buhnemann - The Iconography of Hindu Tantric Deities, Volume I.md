@@ -17,8 +17,7 @@ language:
   - English
 pages: 379
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Gudrun Buhnemann - The Iconography of Hindu Tantric Deities.pdf]]"
 aliases:

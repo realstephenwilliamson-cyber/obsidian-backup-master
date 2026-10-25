@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 207
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[Vijnana Bhairava Or Divine Consciousness - Jaideva Singh.pdf]]"
   - "[[Library/Trika/Vijnanabhairava or Divine Consciousness (Singh)/Vijnanabhairava or Divine Consciousness (Singh)]]"
@@ -36,7 +35,7 @@ await dv.view("Templates/Views/open-pdf")
 
 *Note (5 Oct 2026):* Note title and note file name ('Jaideva Singh.md') are the translator's name, not the book's title, because the filename was split the wrong way round.
 
-**Text layer** (5 Oct 2026): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
+**Text layer** (5 Oct 2026; replaced on 15 Oct, below): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
 
 ## About
 

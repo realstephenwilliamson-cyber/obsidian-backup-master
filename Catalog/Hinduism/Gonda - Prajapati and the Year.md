@@ -17,8 +17,7 @@ language:
   - English
 pages: 98
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Gonda - Prajapati and the Year (1984).pdf]]"
 aliases:

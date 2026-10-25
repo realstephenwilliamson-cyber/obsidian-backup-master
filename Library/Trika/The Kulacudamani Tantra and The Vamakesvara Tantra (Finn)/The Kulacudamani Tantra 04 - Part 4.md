@@ -62,7 +62,7 @@ begin with.
 
 Then going-to Pūrṇagiri,[^221] he should sacrifice to Caṇdī and should then repeat the mantra.
 
-8\. On entering Kāmarūpa,[^222] he should first sacrifice to Kāmākhyā (and) then to the great Goddess Dikkaravāsinī at the edges.[^223] <sup>223</sup>
+8\. On entering Kāmarūpa,[^222] he should first sacrifice to Kāmākhyā (and) then to the great Goddess Dikkaravāsinī at the edges.[^223]
 
 9\. In this manner, when the attentive (sādhaka) has accomplished at night the seven hundred thousand repetitions of the mantra to the Queen of the pītha[^224] in the seven pīthas,[^225] he should worship his own chosen deity.
 
@@ -1094,9 +1094,9 @@ In this connection,
 
 the alphabet." (Sva. 11:199)
 [^9]: Later on in the commentary to this first verse, the "gaṇas" explained as the eight classes of Sanskrit letters: a, ka, Ca, ta, ta, pa, ya and sa.
-[^10]: "Yogints" are semi-divine female beings with magical powers who are counted among the attendants of Śiva and the Goddess, and through whom some of the Tantric texts are said to have been transmitted. Tantric female ascatics may also have been referred to as yogints. Rastogi, Krama Tantricism, p.
+[^10]: "Yogints" are semi-divine female beings with magical powers who are counted among the attendants of Śiva and the Goddess, and through whom some of the Tantric texts are said to have been transmitted. Tantric female ascatics may also have been referred to as yogints. Rastogi, Krama Tantricism, p. 45.
 
-45.
+
 
 11\. "PIthas" are geographical sites (sometimes parts of the body) sacred to the Goddess. There ts a tradition which maintains that they represent the places where the pieces of Satl's body fell after it had been dismembered by the discus of Viṣnu. Fifty-one sites are cormmonly enumerated, but four of them are particularly famous.
 
@@ -1210,7 +1210,7 @@ As to Her who bears "these forms":
 
 *[p. 160]* ^pg156
 
-It means that She also shines forth[^33] by means of her Time nature as defined by the great guru. However, not only in that way. She also reveals Herself as Spacež[^34] for it has been said that "her form is the
+It means that She also shines forth[^33] by means of her Time nature as defined by the great guru. However, not only in that way. She also reveals Herself as Space[^34] for it has been said that "her form is the
 
 pttha."
 
@@ -1222,12 +1222,13 @@ Even though here (pītha) is merely denoting )She) who is the foundation of the 
 
 "Through diversity of form He manifests the arrangement of Space. The Lord also (manifests) the course of Time through the phenomena of diverse actions." (Ī. Pra. 2:1:5)
 
-According to this view, She manifests the dimensionžt[^36] of space (by) shining through the diverse manifestation of forms that have the nature of kalā,[^38] tattvaž38 and bhuvanał[^39] together with (the qualities) of the
+According to this view, She manifests the dimension[^36] of space (by) shining through the diverse manifestation of forms that have the nature of kalā,[^37] tattva[^38] and bhuvana[^39] together with (the qualities) of the
 [^34]: "Deśa" having the meaning of 3-dimenstonal space here. Ākāśa often connotes the idea of "ether".
 
 [^33]: Literally: She "manifests, quivers, flashes" ete..
 [^35]: The one word "mātrkā" is used in the text, but the double meaning of\_ "mother" and "alphabet" should be borne in mind. Although pltha specifically means a place sacred to the Goddess, here the meaning is extended to include location in general.
-[^36]: Literally: "The path, way or course" (of space). 37\. Among a number of dietionary meanings, "kalā" chtefly signifies a small part or portion of anything. In the philosophy of this text however, it can denote a primary unit of extension, activity or power tnaccesstble to the senses. and so abstract as to present itself to the mind in an almost mathematical way.
+[^36]: Literally: "The path, way or course" (of space).
+[^37]: Among a number of dietionary meanings, "kalā" chtefly signifies a small part or portion of anything. In the philosophy of this text however, it can denote a primary unit of extension, activity or power tnaccesstble to the senses. and so abstract as to present itself to the mind in an almost mathematical way.
 [^38]: "Tattva" = constituent principle in the sense that there ts sufficient extension to allow the mind to grasp its nature. It ts prime substance on a subtle level.
 [^39]: "Bhuvana" relates to the actual physical world of expertence; it ts the world of finite and individualised entittes - be they tangible or intangible.
 

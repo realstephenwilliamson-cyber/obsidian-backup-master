@@ -4,7 +4,7 @@ book: "[[Bhagavad Gita (Lombardo, Davis)]]"
 order: 23
 page_range: "120–128"
 ---
-[p. 120]
+[p. 120] ^pg120
 
 GLOSSARY AND INDEX OF SANSKRIT NAMES AND TERMS
 

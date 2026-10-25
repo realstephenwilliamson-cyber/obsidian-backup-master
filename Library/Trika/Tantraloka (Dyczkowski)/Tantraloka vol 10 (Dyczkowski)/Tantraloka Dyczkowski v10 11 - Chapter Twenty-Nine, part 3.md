@@ -50,7 +50,7 @@ A Brahmacārin is said to be one who makes use of the three that come at the end
 
 ‘The labials’ are the group of phonemes (beginning with) P. The phoneme M comes at the end of that (series). Three of them are wine (madya), meat (māṁsa), and the product of sexual intercourse (maithuna).?[^233] 
 
-[^233]: Nowadays the popular notion is that there are Five Ms. This is a late Śākta tradition of Bengal, where they add fish (matsya) and parched grains fried in ghee (mudrā), to make a set of five to homologise with other pentads. The following is an account of the Three Ms found in the MP (2 Tri) from the point of view of the Krama system. The three sets of four Kālīs, who dawn in the domain of the object, means of knowledge and the perceiver, correspond to the experience of the three Ms, each devouring time within its own domain. In 4/173cd-175 Abhinava presents five meanings of the root kal, from which the word kāla ('time’) and hence the name Kālī, is derived. These are given in the standard list of roots attributed to Panini (dhātupātha), as follows: 1) casting forth (ksepa), ), 2) knowledge (jñāna), 3) enumeration (saṁkhyāna), 4) movement (gati) and 5) sound (nāda). In the following explanation of the Three Ms, each of them is said to correspond to one or more of these meanings, because their consumption culminates in the experience of the Twelve Kālis, by virtue of which the passage of time is realized to be non-existent. ye tu yoṣidvyasaninas tanmukhenaiva te kramāt | kālagrāsapade samyak praviśanti nirāśraye | 35 ॥ kecid darśanamātreṇa tathāṁgasparśanāt pare | dvīndriyotpattitaś cānye (>-tāc ānye) viśrāmyanti nirāśraye I| 36 I| ‘Those who are addicted to (the pleasure of sex with) women enter properly into the plane without support, in which time is consumed by that very means. Some, by just seeing (them), others by touching (their) body in this way, and others (again) by rising through (the bliss of the union of) the two organs of sense (male and female), come to rest (on the plane) without support. (35-36) itthaṁ yoṣidvyasanināṁ tisro ‘nubhavabhūmikāḥ | dṛśyante kālavilaye viśrāntir nirupādhikā I| 37 ॥ sṛstyasṛstyādibhedena (> sṛṣti-) catasro ‘nākhyadevatāḥ | prameyabhümim āśritya kālagrāsaparāḥ sthitāḥ ॥ 38 ॥ kṣepārthasya kaler dhāior anvarthānugamāt sphutam | kālīśabdaś catasṛnāṁ devīnāṁ vācakaḥ sthitaḥ ॥ 39 I| ksepo bahirmukhecchātma yoṣitsambhogajanmani | pravṛttes tā (-tā) (a)stamyādivaśāt kālagrāsaḥ ({-mayah) sthitaḥ ॥ 40 I| Such in this way are the planes of experience of the third (makāra) of those who are addicted to women. They experience, when time dissolves away, rest free of (all) limitations. The four deities of the Inexplicable, as the class of the emanation of emanation etc., having entered the plane of objectivity, abide intent on consuming time. For it is clear that the root kal, in the sense of casting forth (ksepa), ). has this meaning, in accord with reality, and the name ‘Kāli (accordingly) denotes the four goddesses (on the plane of objectivity). (37-39) The casting forth of activity when the enjoyment (of the pleasures of sex with) women, which is extroverted desire, arises, abides as the consumption of time by the receding of (the energies of the senses into consciousness). (40) evar madyavyasanino ye kecij jantavaḥ sthitāḥ | (tesam tadāśrayenṇaiva kālagrāso ‘bhidhīyate I| 41 ॥ tasyāpi darśanasparśapānayogavataḥ (-tā) sphuṭam | udrekāt karṣato dṛṣtaḥ kālagrāsasya sambhavaḥ ॥ 42 ॥ praviṣte ‘ntaḥ sidhurase (-sarn) bhedaniṁaranātmake | sthairyam eti camatkāro vinā viṣayasaṁgatim ॥ 43 ॥ So is it with those people who are addicted to wine. It is said that they consume time, (absorbing it into consciousness,) by use of that, as is clear to those who see, touch and drink it. By (its) abundance and drawing (it towards oneself,) time is seen (0 be consumed (into consciousness). Once having entered into the emotive experience (rasa) of wine, which is the removal of duality, the wonder (of consciousness) becomes firm (and stable), without (having to make) contact with the objects of sense. (41-43) pratibimbamahābhogamadhyabhūmivikāsataḥ | pramāṇabhūmim āśritya catasraḥ kālikāḥ sthitāḥ ॥ 44 ॥ Sabdasaṁkhyānavṛtteśca kaler dhātoḥ kilārthataḥ | sthitisṛṣtyādibhedena caturdhā kālikodayaḥ ॥ 45 ॥ Once having entered the plane of the means of knowledge by the expansion of the plane in the centre, which is the great enjoyment of the reflection (of the goddess of consciousness within it), four Kālikās of the modality of sound and enumeration (saṁkhyāna) are present, for such is the meaning of the root Kal as the fourfold dawning of Kālikā as the division of the (Twelve Kālīs, corresponding to the) emanation of persistence and the rest. (44-45) evarn māṁsavyasaninām antarāsvādabhūminām | pramātrrūpam āviśya catasraḥ kālikāḥ sthitāḥ ॥ 46 ॥ gatārthasya kaler dhātor arthasyānugamādimāḥ | darśanasparśasambhogavirāmodrekatā matāḥ ॥ 47 ॥ samhārasṛṣṭyādimayaś caturdhāyaṁ kramaḥ sthitaḥ | strīmadyamāṁsabhogeṣu camatkārānuvṛttitaḥ ॥ 48 ॥ In the same way, there are four Kālikās for those who are addicted to meat, whose plane is that of inner taste, once (they) have entered the nature of the perceiver. In accord with the meaning and the reality (it denotes) of the root Kal, such is considered to be the excellence of (their) sight, touch, enjoyment, and repose (attained by consuming meat). The state of this fourfold process is the emanation of withdrawal, in accord with the experience of the wonder (of expanded consciousness) in the course of the enjoyment of women, wine and meat. (46-48) kālagrāso vyasaninām kañcit kālaṁi sphuṭaṁ sthitaḥ (> -tam) | etatparikaras tv anyo bhāvavargo vyavasthitaḥ ॥ 49 ॥ yuktyānayaiva tatrāpi kālagrāsamayī sthitiḥ | anenaivāśayenaiva parabrahmopalabdhaye ॥ 50 ॥ lalanāmadhumārisāni pūjyāgrāni viśeṣataḥ | tadittharn sarvabhāvānām sarvānubhavabhūmiṣu Il 51 Il mahārthadṛṣṭyā sugamaḥ kālagrāso ‘py ayatnataḥ | The consumption of time on the part of those addicted (to these worldly pleasures) clearly takes place (like this) for some time. The other category of phenomena abides as its attendant. Time is consumed by this same practice (yukti) there also. In order to perceive the Supreme Brahman with this same intention, woman, wine and meat are especially the foremost objects of worship. In this way, according to the view of (the teachings of) Mahārtha, the time of all existing things on all planes of experience is easily and effortlessly consumed.” (49-52ab) (MP (2 Tri) 9/35-52ab) (MP (2 Tri) 9/52cd-55) is quoted and translated in note 3,13.
+[^233]: Nowadays the popular notion is that there are Five Ms. This is a late Śākta tradition of Bengal, where they add fish (matsya) and parched grains fried in ghee (mudrā), to make a set of five to homologise with other pentads. The following is an account of the Three Ms found in the MP (2 Tri) from the point of view of the Krama system. The three sets of four Kālīs, who dawn in the domain of the object, means of knowledge and the perceiver, correspond to the experience of the three Ms, each devouring time within its own domain. In 4/173cd-175 Abhinava presents five meanings of the root kal, from which the word kāla ('time’) and hence the name Kālī, is derived. These are given in the standard list of roots attributed to Panini (dhātupātha), as follows: 1) casting forth (ksepa), ), 2) knowledge (jñāna), 3) enumeration (saṁkhyāna), 4) movement (gati) and 5) sound (nāda). In the following explanation of the Three Ms, each of them is said to correspond to one or more of these meanings, because their consumption culminates in the experience of the Twelve Kālis, by virtue of which the passage of time is realized to be non-existent. ye tu yoṣidvyasaninas tanmukhenaiva te kramāt | kālagrāsapade samyak praviśanti nirāśraye | 35 ॥ kecid darśanamātreṇa tathāṁgasparśanāt pare | dvīndriyotpattitaś cānye (>-tāc ānye) viśrāmyanti nirāśraye I| 36 I| ‘Those who are addicted to (the pleasure of sex with) women enter properly into the plane without support, in which time is consumed by that very means. Some, by just seeing (them), others by touching (their) body in this way, and others (again) by rising through (the bliss of the union of) the two organs of sense (male and female), come to rest (on the plane) without support. (35-36) itthaṁ yoṣidvyasanināṁ tisro ‘nubhavabhūmikāḥ | dṛśyante kālavilaye viśrāntir nirupādhikā I| 37 ॥ sṛstyasṛstyādibhedena (> sṛṣti-) catasro ‘nākhyadevatāḥ | prameyabhümim āśritya kālagrāsaparāḥ sthitāḥ ॥ 38 ॥ kṣepārthasya kaler dhāior anvarthānugamāt sphutam | kālīśabdaś catasṛnāṁ devīnāṁ vācakaḥ sthitaḥ ॥ 39 I| ksepo bahirmukhecchātma yoṣitsambhogajanmani | pravṛttes tā (-tā) (a)stamyādivaśāt kālagrāsaḥ ({-mayah) sthitaḥ ॥ 40 I| Such in this way are the planes of experience of the third (makāra) of those who are addicted to women. They experience, when time dissolves away, rest free of (all) limitations. The four deities of the Inexplicable, as the class of the emanation of emanation etc., having entered the plane of objectivity, abide intent on consuming time. For it is clear that the root kal, in the sense of casting forth (ksepa), ). has this meaning, in accord with reality, and the name ‘Kāli (accordingly) denotes the four goddesses (on the plane of objectivity). (37-39) The casting forth of activity when the enjoyment (of the pleasures of sex with) women, which is extroverted desire, arises, abides as the consumption of time by the receding of (the energies of the senses into consciousness). (40) evar madyavyasanino ye kecij jantavaḥ sthitāḥ | (tesam tadāśrayenṇaiva kālagrāso ‘bhidhīyate I| 41 ॥ tasyāpi darśanasparśapānayogavataḥ (-tā) sphuṭam | udrekāt karṣato dṛṣtaḥ kālagrāsasya sambhavaḥ ॥ 42 ॥ praviṣte ‘ntaḥ sidhurase (-saṁ) bhedaniṁaranātmake | sthairyam eti camatkāro vinā viṣayasaṁgatim ॥ 43 ॥ So is it with those people who are addicted to wine. It is said that they consume time, (absorbing it into consciousness,) by use of that, as is clear to those who see, touch and drink it. By (its) abundance and drawing (it towards oneself,) time is seen (0 be consumed (into consciousness). Once having entered into the emotive experience (rasa) of wine, which is the removal of duality, the wonder (of consciousness) becomes firm (and stable), without (having to make) contact with the objects of sense. (41-43) pratibimbamahābhogamadhyabhūmivikāsataḥ | pramāṇabhūmim āśritya catasraḥ kālikāḥ sthitāḥ ॥ 44 ॥ Sabdasaṁkhyānavṛtteśca kaler dhātoḥ kilārthataḥ | sthitisṛṣtyādibhedena caturdhā kālikodayaḥ ॥ 45 ॥ Once having entered the plane of the means of knowledge by the expansion of the plane in the centre, which is the great enjoyment of the reflection (of the goddess of consciousness within it), four Kālikās of the modality of sound and enumeration (saṁkhyāna) are present, for such is the meaning of the root Kal as the fourfold dawning of Kālikā as the division of the (Twelve Kālīs, corresponding to the) emanation of persistence and the rest. (44-45) evaṁ māṁsavyasaninām antarāsvādabhūminām | pramātrrūpam āviśya catasraḥ kālikāḥ sthitāḥ ॥ 46 ॥ gatārthasya kaler dhātor arthasyānugamādimāḥ | darśanasparśasambhogavirāmodrekatā matāḥ ॥ 47 ॥ samhārasṛṣṭyādimayaś caturdhāyaṁ kramaḥ sthitaḥ | strīmadyamāṁsabhogeṣu camatkārānuvṛttitaḥ ॥ 48 ॥ In the same way, there are four Kālikās for those who are addicted to meat, whose plane is that of inner taste, once (they) have entered the nature of the perceiver. In accord with the meaning and the reality (it denotes) of the root Kal, such is considered to be the excellence of (their) sight, touch, enjoyment, and repose (attained by consuming meat). The state of this fourfold process is the emanation of withdrawal, in accord with the experience of the wonder (of expanded consciousness) in the course of the enjoyment of women, wine and meat. (46-48) kālagrāso vyasaninām kañcit kālaṁi sphuṭaṁ sthitaḥ (> -tam) | etatparikaras tv anyo bhāvavargo vyavasthitaḥ ॥ 49 ॥ yuktyānayaiva tatrāpi kālagrāsamayī sthitiḥ | anenaivāśayenaiva parabrahmopalabdhaye ॥ 50 ॥ lalanāmadhumārisāni pūjyāgrāni viśeṣataḥ | taditthaṁ sarvabhāvānām sarvānubhavabhūmiṣu Il 51 Il mahārthadṛṣṭyā sugamaḥ kālagrāso ‘py ayatnataḥ | The consumption of time on the part of those addicted (to these worldly pleasures) clearly takes place (like this) for some time. The other category of phenomena abides as its attendant. Time is consumed by this same practice (yukti) there also. In order to perceive the Supreme Brahman with this same intention, woman, wine and meat are especially the foremost objects of worship. In this way, according to the view of (the teachings of) Mahārtha, the time of all existing things on all planes of experience is easily and effortlessly consumed.” (49-52ab) (MP (2 Tri) 9/35-52ab) (MP (2 Tri) 9/52cd-55) is quoted and translated in note 3,13.
 
 *[p. 288]* ^pg305
 
@@ -70,7 +70,7 @@ Surely (one may ask), (according to Manusmṛti):
 आनन्दकृत्रिमाहारास्तदर्ज चक्रयाजकाः ॥ ९९ ॥
 ्रयेऽपि निरये यान्ति रौरवे भीषणे त्विति । | |
 tadvarjitā ye paśava ānandaparivarjitāḥ |
-ānandakṛtrimāhārās tadvarjarn cakrayājakāḥ ॥ 99 ॥
+ānandakṛtrimāhārās tadvarjaṁ cakrayājakāḥ ॥ 99 ॥
 dvaye ‘pi niraye yānti raurave bhīṣane tv iti | 
 
 Those are fettered souls (paśu) who, (abstaining from them out of avarice or doubt,) are devoid of them (even when worshipping, and so) are devoid of bliss. (Fettered also are) those who sacrifice to the Wheel without that, consuming deceitfully the bliss (of the three on other occasions). Both go to a horrible and frightening hell. (99-100ab) 
@@ -146,11 +146,11 @@ She bends forward with the weight of (her) unrestrained breasts, beautiful like 
 
 relish of nothing but Bhairava’s unique aesthetic rapture (camatkāra).”” She is the infatuating Dūti, the Tantric consort (mudrā)\* in this universe of moving and unmoving things.” 
 
-247\. This passage is drawn from the 56" chapter of the fourth saṭka of the JY, otherwise known to Abhinava as the Mādhavakula. It is called: ādyayāgavidhiḥ kramārthapūjāpatalaḥ | Here is the only surviving scriptural source of Ādiyāga, that Abhinava promotes as the most elevated of all rites. In the following chapter, Vīramelāpa is described for the congregation of initiates. See the appendix for editions of these chapters and translations. See above, 28/60cd ff. concerning cakracaryā.
+247\. This passage is drawn from the 56" chapter of the fourth ṣaṭka of the JY, otherwise known to Abhinava as the Mādhavakula. It is called: ādyayāgavidhiḥ kramārthapūjāpatalaḥ | Here is the only surviving scriptural source of Ādiyāga, that Abhinava promotes as the most elevated of all rites. In the following chapter, Vīramelāpa is described for the congregation of initiates. See the appendix for editions of these chapters and translations. See above, 28/60cd ff. concerning cakracaryā.
 
 248\. The Tantric consort is commonly called mudrā in the equivalent Buddhist Tantras. In the Śaiva Tantras this appellation is rare.
 
-249\. Quoted from JY 4/56/48-63ab (MS K fl. 216a-216b, Kh fl. 204a-204b G fl. 292a-292b). In the manuscripts it reads as follows. The variant reading in the Tantrāloka are labelled TĀ: tatas tatrānayed dūtīṁ madaghūrnitalocanām | bimboṣthīṁ \[kh g: -ṣthī\] cārudaśanār sabhrūbhaṁgānanāṁi śubhām ॥ 48 ॥ trastabālamṛgābhāsanayanāīi cāruhāsinīm | sphuradbhramarasaṁghātanibhasatkeśapāśikām ॥ 49 ॥ kāmakārmukasaikāíah bhabhaṁge \[TĀ: -saṁkāśabhrūbhaṁga-} taralekṣanām \[kh: taranakṣanām\] | dravaccāmīkarāvarṇā \[kh g: -gīkarā-\] savannā \[TA: dravaccāmīkarākārasavarṇāri) nistaraṁgiṇīm ॥ 50 ॥ karnābharaṇasaccitraśobhāśatasuśobhanam \[kh: -śuśobhanām; g: -nām\] | satkanṭhanibha \[TĀ: satkambunibha-\] satkanṭhavara \* + \* bhūṣitīm \[kh g: -bhūḷinam\] \[TĀ: - bhūṣanṇabhūṣitām) ॥ 51 ॥ gajakumbhanibhoddāmastanabhārāvanāmitām | suvṛttopaci lākāra vāhukadali \[TĀ —-kandali-\] manditām ॥ 52 Il —satyaṁ ca phenasahkāśa \[kh g: phanasahkāśa\] \[TĀ: 1) karaśākhāvirājitām | 204b kh) sphuradratnaśikhā citra ūrmikāṁgulibhūṣitām kh g: -ürmikai-\] \[TĀ: ~ citrakormikā-\] ॥ 531 pūrṇenduvaralāvaṇyār \[kh g: -vanyari\] vadanāṁ cittahārinīm | harihetimahāsiṁha pipāla varamadhyagām \[TĀ: -pipīlavara-) ॥ 54 ॥ 292b g) trivaliśrenisadviṁva jaghanālasagāminīm \[kh g: -nām\] | rambhā karikarākāravaroruvarajahghikām \[kh: -jamgvikām\] \\\\ 55 ॥ satkāmaravacakrābhagulphapādasuśobhanām \[ pralaṁvahemābharanahārāvali \[kh g: raraṇahāi sphuranmañjīra sahkārarasanāmukharasvarām \[TĀ: -mañjīrajhāṁkāraraśanā-\] \\ pārihāryajhanatkāravalayadhvānamantharām \[TĀ: -bhaṇatkāra-) (>kvanatkāra-) ॥ 57 ॥ mattanāgendrasaṁkāśagamāṁ \[kh: -śaṁ-\] \[TĀ: -gatiń) gambhīranābhikām | (216b) hamsagadgadavāgvahnśasadṛśāṁ śubhabhāṣinīm ॥ 58 ॥ keyürasūtrikāsārapuṣpasragdāmabhūṣitām \[TĀ: -sūtrikāmodi- | mahāpañcaphaṇāpīdatāīmbūlavaralālasām ॥ 59 ॥ \[kh: nāsti\] nṛtyagīta \[g: nṛttagīta\] sītkāra līlākoṭiśatāvṛtām \[TĀ: -līlākuṭṭamitā-) । \[kh: nāsti) nistaṁgām sarvavarṇāṁ devyekārpitamānasām Íg: devyai-\] \\| 60 ॥ \[kh: nāsti\] lobhamohaparikṣīnacetasām \[kh: mahāmoha-\] \[TĀ -saṁ) indubhāvitām | bhairavaikacamatkāracarvanaikasvarūpinīm I| 61 ॥ parabodhāmṛtāsvādaparamānandapūrṇitām | madirāsava sanmāṁsa \[kh: sanmāsa\] paritṛptasvarūpinīm || 62 || extra sā dūtir mohanīmudrā jagatyasmin carācare | The citation ends here. The JY continues: rūpenāharate cānyā sparśenānyā \[g: nanyam\] \] prabhāṣanṇāt ॥ 63 Il anyam sa \[kh g: +lāsari\] cārena (> anyā sālāsacārena) līlāceṣṭādike pare | 293a g) vilolālokane cānye cumbanenāpare priye Il 64 I| gādhāliṁganakenānyān āharet sa (> sā) mahāvalā |
+249\. Quoted from JY 4/56/48-63ab (MS K fl. 216a-216b, Kh fl. 204a-204b G fl. 292a-292b). In the manuscripts it reads as follows. The variant reading in the Tantrāloka are labelled TĀ: tatas tatrānayed dūtīṁ madaghūrnitalocanām | bimboṣthīṁ \[kh g: -ṣthī\] cārudaśanār sabhrūbhaṁgānanāṁi śubhām ॥ 48 ॥ trastabālamṛgābhāsanayanāīi cāruhāsinīm | sphuradbhramarasaṁghātanibhasatkeśapāśikām ॥ 49 ॥ kāmakārmukasaikāíah bhabhaṁge \[TĀ: -saṁkāśabhrūbhaṁga-} taralekṣanām \[kh: taranakṣanām\] | dravaccāmīkarāvarṇā \[kh g: -gīkarā-\] savannā \[TA: dravaccāmīkarākārasavarṇāri) nistaraṁgiṇīm ॥ 50 ॥ karnābharaṇasaccitraśobhāśatasuśobhanam \[kh: -śuśobhanām; g: -nām\] | satkanṭhanibha \[TĀ: satkambunibha-\] satkanṭhavara \* + \* bhūṣitīm \[kh g: -bhūḷinam\] \[TĀ: - bhūṣanṇabhūṣitām) ॥ 51 ॥ gajakumbhanibhoddāmastanabhārāvanāmitām | suvṛttopaci lākāra vāhukadali \[TĀ —-kandali-\] manditām ॥ 52 ॥ —satyaṁ ca phenasahkāśa \[kh g: phanasahkāśa\] \[TĀ: 1) karaśākhāvirājitām | 204b kh) sphuradratnaśikhā citra ūrmikāṁgulibhūṣitām kh g: -ürmikai-\] \[TĀ: ~ citrakormikā-\] ॥ 531 pūrṇenduvaralāvaṇyār \[kh g: -vanyari\] vadanāṁ cittahārinīm | harihetimahāsiṁha pipāla varamadhyagām \[TĀ: -pipīlavara-) ॥ 54 ॥ 292b g) trivaliśrenisadviṁva jaghanālasagāminīm \[kh g: -nām\] | rambhā karikarākāravaroruvarajahghikām \[kh: -jamgvikām\] \\\\ 55 ॥ satkāmaravacakrābhagulphapādasuśobhanām \[ pralaṁvahemābharanahārāvali \[kh g: raraṇahāi sphuranmañjīra sahkārarasanāmukharasvarām \[TĀ: -mañjīrajhāṁkāraraśanā-\] \\ pārihāryajhanatkāravalayadhvānamantharām \[TĀ: -bhaṇatkāra-) (>kvanatkāra-) ॥ 57 ॥ mattanāgendrasaṁkāśagamāṁ \[kh: -śaṁ-\] \[TĀ: -gatiń) gambhīranābhikām | (216b) hamsagadgadavāgvahnśasadṛśāṁ śubhabhāṣinīm ॥ 58 ॥ keyürasūtrikāsārapuṣpasragdāmabhūṣitām \[TĀ: -sūtrikāmodi- | mahāpañcaphaṇāpīdatāīmbūlavaralālasām ॥ 59 ॥ \[kh: nāsti\] nṛtyagīta \[g: nṛttagīta\] sītkāra līlākoṭiśatāvṛtām \[TĀ: -līlākuṭṭamitā-) । \[kh: nāsti) nistaṁgām sarvavarṇāṁ devyekārpitamānasām Íg: devyai-\] \\| 60 ॥ \[kh: nāsti\] lobhamohaparikṣīnacetasām \[kh: mahāmoha-\] \[TĀ -saṁ) indubhāvitām | bhairavaikacamatkāracarvanaikasvarūpinīm ॥ 61 ॥ parabodhāmṛtāsvādaparamānandapūrṇitām | madirāsava sanmāṁsa \[kh: sanmāsa\] paritṛptasvarūpinīm || 62 || extra sā dūtir mohanīmudrā jagatyasmin carācare | The citation ends here. The JY continues: rūpenāharate cānyā sparśenānyā \[g: nanyam\] \] prabhāṣanṇāt ॥ 63 ॥ anyam sa \[kh g: +lāsari\] cārena (> anyā sālāsacārena) līlāceṣṭādike pare | 293a g) vilolālokane cānye cumbanenāpare priye || 64 || gādhāliṁganakenānyān āharet sa (> sā) mahāvalā |
 
 
 *[p. 293]* ^pg310
@@ -169,7 +169,7 @@ sadrajahpaṅkajajāte \[k: -sajjāte, kh g: -sājjāte\] retoghāvartalālini �
 Placing her on a great bed, deposit (onto her body) the goddess Kṛśodarī. Having covered (her) with two pieces of cloth, begin the sacrifice (yāga) there. Fashion the mark of the feet on the channel in the lotus of (her) bhaga which, very extensive, contains the sacred seats, primary (parva) ) and secondary, and is beautiful with its door open. Bearing the sign (of the goddess) Klinnā and disturbed by the state of the (god of love,) whose banner is marked with a Jaṣa bird, arisen with the lotus of true (spiritual) menses, (she is charming) to fondle (and embrace), by virtue of the whirlpool of the flood of (her) menses. (66-68) 
 
 tena maṁtrāstrakalaśe trikoṇapariveṣtinī |
-mukhopapaṁkajākīrne vāhukeśopalāñṁchane \[g: vāhū-\] Il 69॥
+mukhopapaṁkajākīrne vāhukeśopalāñṁchane \[g: vāhū-\] ॥ 69॥
 madodbhavabharoddāmasatsaṁnidhisumanthare \[kh: manodbhava-; g: mabhodabhava-\] |
 sītkāraravasanmantraproccaratkilikiñcite ॥ 70 ॥ 
 
@@ -186,11 +186,11 @@ There, at first, O supreme goddess, one should worship the mistresses of the god
 
 sālambe ‘tha nirālambe bhāvasamhārake ca yā |
 devyastā (devyā sā) eva pūjyātra nityādiprakramenṇa ca || 73 ॥
-293b g) mahopahārasambhārair arcayed vibhavarn yathā |
+293b g) mahopahārasambhārair arcayed vibhavaṁ yathā |
 nānāmārsāsavaiś citraiḥ sahajaiḥ kṛtrimais tathā ॥ 74 ॥
-candanāgurukarpūraiḥ puspair nānāvidhais tathā |
-gītamaṁgalanirghoṣair vināpanavanihsvanaiḥ ॥ 75 Il evar prapūjya tatrasthan kramam etan mahādhipe |
-paścāt tu juhuyāt tatra yathā yac ca tathā śṛnu || 76 I| 
+candanāgurukarpūraiḥ puṣpair nānāvidhais tathā |
+gītamaṁgalanirghoṣair vināpanavanihsvanaiḥ ॥ 75 ॥ evar prapūjya tatrasthan kramam etan mahādhipe |
+paścāt tu juhuyāt tatra yathā yac ca tathā śṛnu || 76 || 
 
 The goddess (as the diiti) ) should be worshipped (in the states) with and without support, and in the destruction of phenomenal existence here by the procedure (used to worship) the Nityā etc. (She should be) worshipped as (one does) wealth (vibhava), with great collections of offerings, many kinds of meat, various wines, natural and manmade, with sandalwood, āguru, camphor and many kinds of flowers, (so too) with music and auspicious proclamations, and the 
 
@@ -199,34 +199,34 @@ The goddess (as the diiti) ) should be worshipped (in the states) with and witho
 sounds of drums and vīnā. 0 great lord, having worshipped in this way the Krama present there, then one should make offerings to the fire. Listen to how that (is done). (73-76) 
 
 tām unnānam \[k: untānam\] ataḥ kṛtvā sasaprabhena (> saprabhavena) cetasā |
-kāmayeta sasītkāraṁ \[kh g: śaśīt-\] harṣavyākulitekṣanaḥ ॥ 78 Il trikoṇabhagakundānie \[kh: -bhagakuṁidāta; g: kundakundāta\] liṅgaśrucyā juhed alam |
+kāmayeta sasītkāraṁ \[kh g: śaśīt-\] harṣavyākulitekṣanaḥ ॥ 78 ॥ trikoṇabhagakundānie \[kh: -bhagakuṁidāta; g: kundakundāta\] liṅgaśrucyā juhed alam |
 ātyantasūkṣmam \[k: ādyantacchuṣkam; kg g: ādyantacchukram\] atulaḥ tarpaṇārghaṁ \[kh g. tarpaṇnārthaṁi\] tato juhet ॥ 79 ॥
 evar homar samātiṣthed yāvad vai kṣaṇamātrakam |
-tāvad āviśate dūtiḥ (> diitim) ) kṛtvā kanṭharavarīḥ mahat ॥ 80 Il 
+tāvad āviśate dūtiḥ (> diitim) ) kṛtvā kanṭharavarīḥ mahat ॥ 80 ॥ 
 
 Having thus bowed to her with a powerful mind, his eyes disturbed with the joy (of passion), he should make love (to her) with sounds of lovemaking (sīrkāra). Within the hearth of the triangle of (her) bhaga, he should make offerings to the fire with the ladle of the liṅgam. He should then offer the incomparable and extremely subtle libation to the fire. In this way, he should engage in making offerings to the fire until that moment when, having entered the dūti, a great sound (arises) from (her) throat. (78-80) 
 
 snehāt kaulikam evaiṣa kathayen nātra saṁiśayaḥ |
-tatkāla eva saṁcāra (> -rań) kramapūrnṇaṁ \[k: -pūrnṇe kh g: pūrṇaiḥ\] prajāyate ॥ 81 ॥
+tatkāla eva saṁcāra (> -rań) kramapūrṇaṁ \[k: -pūrṇe kh g: pūrṇaiḥ\] prajāyate ॥ 81 ॥
 205b kh) priyamelāpam āyānti devyādevyas tu sādhake |
-su \[kh: sa; g: ?\] \*\*\*\*\*\*\*\* prārthayec cāmṛtai śubham || 82 II MS g page no 294 is unclear 294a g) āpived ghanṭikāvaktre \[kh: -vaktrah; k g: -tṭivaktra\] picuvaktraprayogataḥ \[k, kh, g: -vaktrarn-\] | 
+su \[kh: sa; g: ?\] \*\*\*\*\*\*\*\* prārthayec cāmṛtai śubham || 82 || MS g page no 294 is unclear 294a g) āpived ghanṭikāvaktre \[kh: -vaktrah; k g: -tṭivaktra\] picuvaktraprayogataḥ \[k, kh, g: -vaktraṁ-\] | 
 
 Out of affection he will, no doubt, teach the Kaulika (teachings). At that very time, the flow (through the two) (saṁcāra) becomes full (and complete) by virtue of the Krama (liturgy). Goddesses and those who are not goddesses come (to enjoy) pleasing (sexual) union (priyamelāpa) within the adept (sādhaka) . . . he should request the auspicious nectar and drink it in the mouth of the uvula (ghanikāvaktra) by making use of Picu’s Mouth. (81-83ab) 
 
 ākarṣāt karṣayet karṣyaṁ \[kh: -karṣāńi\] karṣyakendūpakarṣanam \[kh: -nṇāt\] ॥ 83 ॥
 cumbet pivel lihed yāvat tāva + sarvasiddhibhāk |
-nistarṁgi nirvikalpaś cādvaitācārabhāvitaḥ \[kh: niciṁikalpā-; kh: -hyadaitācāra-; kh: -tam\] I| 84 ॥
+nistarṁgi nirvikalpaś cādvaitācārabhāvitaḥ \[kh: niciṁikalpā-; kh: -hyadaitācāra-; kh: -tam\] ॥ 84 ॥
 siddhiṁ ca prāpnuyād devi nātra kāryā vicāranṇā | 
 
 Drag along what should be dragged along by dragging it: (such) is the dragging of the Moon that is to be dragged along (?) (by the breathing in consonance of the two partners (?)) - kiss, drink, and lick until (you come to) possess all the accomplishments (siddhi). Free of waves and thought constructs, sanctified (bhāvita) by the conduct of nonduality (advaitācāra). O goddess, he (surely) attains success (siddhi), there is no need to reflect here (on this). (83cd-85ab) 
 
-praṇamanti \[kh: praṇayanti\] ca taṁ nityaṁ yoginyo bhairavaiḥ saha ॥ 85 Il yāntam atrānuyāsyanti raśmayo nātra sai vah | 
+praṇamanti \[kh: praṇayanti\] ca taṁ nityaṁ yoginyo bhairavaiḥ saha ॥ 85 ॥ yāntam atrānuyāsyanti raśmayo nātra sai vaḥ | 
 
 (2170) 
 
 yāvad evar \[k g: eṣa\] mahāyāgaṁ na \[k, g: nari\] krtańn sādhakaiḥ saha \[kh: tathā\] ॥
 86 II tar \[kh: nāsti\] vai \[kh: nāsti\] kramārtham atulańi \[kh: vaktramārtha-\] na sarati (> nāpasarati) bhairavi |
-etad yāgavarat siddha mahābhairavapālitam II 87 Il sakṛtsiddhipradaṁ khyātaṁ mahābhogābhayāvaham \[k, g: -bhoga-; kh: -bhoga \* + vaham\] |
+etad yāgavarat siddha mahābhairavapālitam || 87 || sakṛtsiddhipradaṁ khyātaṁ mahābhogābhayāvaham \[k, g: -bhoga-; kh: -bhoga \* + vaham\] |
 tad asti priyavastu yatra sādhayate balāt ॥ 88 ॥ 
 
 The yoginīs along with the Bhairavas bow to him constantly, and when he moves the rays follow (him) here without a doubt so long as the Great Sacrifice is not performed (and completed) in this way along with (the other) adepts (sādhaka). That indeed is the unparalleled Krama reality that he does not abandon, O Bhairavī. That is the most excellent sacrifice that has been accomplished and is protected by Mahābhairava. It is said to bestow success once (and 
@@ -286,7 +286,7 @@ Many accomplishments (siddhis) can be had from a Śakti of even low (caste). Tha
 
 255\. Union with her lord, harmony with her partner, is the qualifying mark.
 
-256\. Regarding caste, this is the point of view of the jnānī as opposed to the ritualist; a very common contradiction in Śaiva literature. We have similar lists of very restrictive characteristics for teachers, but they often end with ‘sarvalakṣsanahīno’pi jñānavān guru isyate”, ‘but a Guru who has knowledge is acceptable, even if he lacks all these characteristics’. For the pursuit of siddhi, one must try to get the most perfect ritual instrument; external characteristics become overwhelmingly important. He must have a very beautiful dūti or a very ugly one. But for the liberation seeker, what is important is the mentality of the partner.
+256\. Regarding caste, this is the point of view of the jnānī as opposed to the ritualist; a very common contradiction in Śaiva literature. We have similar lists of very restrictive characteristics for teachers, but they often end with ‘sarvalakṣsanahīno’pi jñānavān guru iśyate”, ‘but a Guru who has knowledge is acceptable, even if he lacks all these characteristics’. For the pursuit of siddhi, one must try to get the most perfect ritual instrument; external characteristics become overwhelmingly important. He must have a very beautiful dūti or a very ugly one. But for the liberation seeker, what is important is the mentality of the partner.
 
 257\. Read with the JY, sasyate for gamyate.
 
@@ -423,7 +423,7 @@ How should that be done (kārya)? He says:
 
 273\. \[illegible\] This line is talking about the expansion and contraction of orgasm. Both partners experience the upsurge and withdrawal of its pulsation, and the stillness in the centre of that oscillation, that is the ultimate fusion of the two flows of creation and withdrawal. It may well be that the passage from 104ab to 109ab, that describes what takes place inwardly in the course of union, is Abhinava’s own explanation. This may explain why Jayaratha has not managed to find parallel citations in the scriptures. If that is so, the distinctive terminology in this passage, in which consciousness ~ as the Main Wheel — is distinguished, even as it is associated with the senses ~ the secondary wheels, is Abhinava’s own.
 
-274\. Read tad idarn for tata idaṁ.
+274\. Read tad idaṁ for tata idaṁ.
 
 
 *[p. 301]* ^pg318
@@ -433,7 +433,7 @@ How should that be done (kārya)? He says:
 तामाहत्य मिथोऽभ्यच्य तर्पयित्वा परस्परम् ॥ १०४ ॥
 अन्तरदवक्रमेणैव मुख्यचक्रस्य पूजनम् ।
 
-tām āhṛtya mitho ‘bhyarcya tarpayitvā parasparam ॥ 104 I|
+tām āhṛtya mitho ‘bhyarcya tarpayitvā parasparam ॥ 104 ॥
 antaraṁgakramenṇaiva mukhyacakrasya pūjanam | 
 
 After having drawn that (śakti) close by, worshipped each other mutually and offered libation to one another, the Main Wheel (mukhyacakra) is worshipped by the inner process (of consciousness).?” (104cd-105ab) 
@@ -526,7 +526,7 @@ One should offer libation in this way to the subordinate centres in order to att
 
 इत्थं स्वोचितवस्त्व॑शैरनुचक्रेषुतर्पणम् ॥ १०९ ॥
 कुर्वीयातामिहान्योन्यं मुखचक्रैकताकृते |
-itthań svocitavastvahśair anucakreṣu tarpanam |l 109 ॥
+itthań svocitavastvahśair anucakreṣu tarpanam ॥ 109 ॥
 kurvīyātām ihānyonyaṁn mukhacakraikatākṛte | 
 
 (The couple) should in this way (satisfy and) offer libation (tarpana) here to one another in (their) subordinate Wheels, with the aspects of things appropriate to them, in order to realise a state of oneness with the Main Wheel (mukhyacakra). (109cd-110ab) 
@@ -584,7 +584,7 @@ nijanijabhogābhoga-
 pravikāsinijasvarīūpaparimar‘śe || 111 ॥
 kramaśo ‘nucakradevyaḥ 
 
-sarviccakrarn hi madhyamaṁ yānti 1\*5 When one reflects on one’s own nature, unfolding with the bliss of the enjoyment (of the objects of) their own respective (senses), the goddesses of the subordinate wheels progressively converge onto the centre, which is the wheel of consciousness.” (111cd-112ab) 
+sarviccakraṁ hi madhyamaṁ yānti 1\*5 When one reflects on one’s own nature, unfolding with the bliss of the enjoyment (of the objects of) their own respective (senses), the goddesses of the subordinate wheels progressively converge onto the centre, which is the wheel of consciousness.” (111cd-112ab) 
 
 #### Viveka on 29.111–112
 
@@ -664,7 +664,7 @@ Surely (one may ask), even if this is so, what (is the result) of that (union)?
 ुभ्नात्यनुचक्राण्यपि तानि तदा तन्मयानि न पृथक्तुं ।
 tadyugalam ūrdhvadhāma- 
 
-praveśasaṁisparśajātasaṁkṣobham?” || 114 II kṣubhnāty anucakrāny api 
+praveśasaṁisparśajātasaṁkṣobham?” || 114 || kṣubhnāty anucakrāny api 
 
 tāni tadā tanmayāni na pṛthak tu | 
 
@@ -772,7 +772,7 @@ Idṛktādṛkprāya-
 praśamodayabhāvavilayaparikathayā ॥ 118 ॥
 anavacchinnań dhāma 
 
-praviśed vaisargikarn subhagaḥ | 
+praviśed vaisargikaṁ subhagaḥ | 
 
 The fortunate one should enter into the unconditioned Abode of Emission by carefully attending (parikathayā) to the coming into being (bhāva) and falling away (vilaya) of the state of tranquillity and emergence (which, for want of better words, are said to be) ‘like this’ and “like that’. (118cd-119ab) 
 
@@ -942,7 +942,7 @@ Having had occasion to talk about this by the way, he now (returns to) talk abou
 
 315\. Ormikaulārnava 3/108ab. This line is also quoted above in TĀv ad 1/16. Read as above and the Ọrmikaulārnava punaḥ ('again’\`) for priye ('O beloved’).
 
-316\. This line cannot be traced in the extant Ürmikaulārnava. \`The unrecovered Tartvārthacintāmani is the only work which we are repeatedly told was written by Kallatabhaṭta. Jayaratha quotes from it in several places (see above, note 28,316). Here, he does not, and so it is uncertain whether this line is drawn from there. Perhaps this is another work by Kallaṭa, but this seems unlikely, as we have no other references to it. Anyway, this reference proves that he and his tradition, with which the Sivasūtra and Spandakārikā, are associated, have, as one would expect, deep Kaula roots.
+316\. This line cannot be traced in the extant Ürmikaulārnava. \`The unrecovered Tartvārthacintāmani is the only work which we are repeatedly told was written by Kallaṭabhaṭṭa. Jayaratha quotes from it in several places (see above, note 28,316). Here, he does not, and so it is uncertain whether this line is drawn from there. Perhaps this is another work by Kallaṭa, but this seems unlikely, as we have no other references to it. Anyway, this reference proves that he and his tradition, with which the Sivasūtra and Spandakārikā, are associated, have, as one would expect, deep Kaula roots.
 
 317\. \[illegible\] The expansion of consciousness in the centre (madhyavikāsa) occurs in women spontaneously, and they are thereby purified in a way superior to any form of purification of the male disciple’s body.
 
@@ -977,7 +977,7 @@ Surely (one may ask), pray tell, what kind of knowledge is obtained from that? W
 tad idam alekhyaṁ bhanṇitaṁ 
 
 vaktrād vaktrastham uktayuktyā ca ॥ 125 ॥
-vaktrarn pradhānacakram 
+vaktraṁ pradhānacakram 
 
 svam ! saṁvillikhyatāṁ ca katham | 
 
@@ -1087,7 +1087,7 @@ That (ejaculate is) also (taken) from the main mouth and passes mutually (from m
 
 327\. The word ‘kula’ denotes, amongst other things, this Kaula sacrificial substance.
 
-328\. Read Sivarn for sivaḥ.
+328\. Read Sivaṁ for sivaḥ.
 
 329\. The ‘middle of the body’ probably refers to the location of the Yoni, from which the ejaculate mixed with menstrual blood is drawn by the male partner.
 
@@ -1433,7 +1433,7 @@ Thus, without referring to that book, he corroborates (this view by referring to
 
 कुण्डं शक्तिः शिवो लिबद्गं मेलकं परमं पदम् ॥ १४१ ॥
 राभ्यां सृष्टिः संहतिस्तद्विसर्गखिविधो गमे ।
-kundar śaktiḥ 5410 (lingam melakar paraman padam |l 141 ॥
+kundar śaktiḥ 5410 (lingam melakar paraman padam ॥ 141 ॥
 dvābhyāṁ sṛṣtṭiḥ sańihrtis tadvisargas trividho game | 
 
 The firepit (kunda) is Śakti (the yoni), and Śiva, the liṅga. (Their) union is the supreme plane. Creation and destruction (takes place) because of both of them. (Thus,) according to the Gamatantra, their emission (visarga) is of three kinds. (29/141cd-142ab) 

@@ -19,7 +19,7 @@ language:
 pages:
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Adorno - Minima Moralia (2005).pdf]]"
   - "[[Library/Philosophy/Minima Moralia - Reflections on a Damaged Life (Adorno)/Minima Moralia - Reflections on a Damaged Life (Adorno)]]"

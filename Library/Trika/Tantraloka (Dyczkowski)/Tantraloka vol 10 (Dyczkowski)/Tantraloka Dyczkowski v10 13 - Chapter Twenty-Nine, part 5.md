@@ -76,7 +76,7 @@ The Kula sacrifice (is taught orally). It is in the mouth of the Yogini. It shou
 sarvam jāgrati kartavyaṁ svapne pratyekamantragam |
 nivārya supte mūlākhyaḥ svaśaktiparibṛmihitaḥ I| 222 ॥
 turye tv ekaiva dūtyākhyā tadatīte kuleśitā |
-svaśaktiparipūrṇānām ittharn pūjā pravartate || 223 ॥ 
+svaśaktiparipūrṇānām itthaṁ pūjā pravartate || 223 ॥ 
 
 [^471]: SpKā 2/4b (= 29b). Verses 28 and 29 read together: ‘Everything arises out of the individual soul, and so he is all things, because he perceives his identity with the awareness (he has) of them. Therefore, there is no state of the thoughts of words or (their) meanings which is not Śiva. It is the enjoyer alone who always and everywhere abides as the object of enjoyment.’ I would have thought that citing SpKā 3 would be more appropriate here. It says: ‘Even when division prevails due to the waking and other states, it extends through that which is undivided by them (tadabhinna), because the perceiving subjectivity forever remains true to its own nature.”
 
@@ -201,7 +201,7 @@ This is the implicit sense here, namely, he who out of these two is a teacher, h
 
 more 
 
-excellent (that the former), having first given (yogic) accomplishments, also (bestows) liberation. Although it is taught that one who has been initiated with an initiation ‘with seed’ and aspires to liberation is a teacher, even so, that applies to one engaged in ritual (karmin), whereas this applies to a man of knowledge. (But even so,) there is no contradiction. (The knowledge that is) ‘of three kinds’, Individual (ānava), Empowered (śākta), and Divine (śāmbhava). ‘Their own (respective) rite’ is initiation etc. 
+excellent (that the former), having first given (yogic) accomplishments, also (bestows) liberation. Although it is taught that one who has been initiated with an initiation ‘with seed’ and aspires to liberation is a teacher, even so, that applies to one engaged in ritual (karmin), whereas this applies to a man of knowledge. (But even so,) there is no contradiction. (The knowledge that is) ‘of three kinds’, Individual (āṇava), Empowered (śākta), and Divine (śāmbhava). ‘Their own (respective) rite’ is initiation etc. 
 
 480?\. 29/230 is a literal quotation of MV 11/46 with no variants.
 
@@ -327,7 +327,7 @@ It has been said to be of many kinds, which he (now) describes.”
 A) Initiation by Piercing According to the Kulagahvara””? मन्रनादबिन्दुशक्तिभुजङ्गमपरात्मिका ॥ २३९ ॥
 षोढा श्रीगह्े वेधदीकषोक्ता परमेशिना ।
 mantranādabinduśaktibhujaṁgamaparātmikā ॥ 239 ॥
-sodhā śrīgahvare vedhadīkṣoktā parameśinā | 
+ṣoḍhā śrīgahvare vedhadīkṣoktā parameśinā | 
 
 The Supreme Lord has said in the venerable Gahvara that the initiation by piercing is of six kinds, namely: (piercing by) Mantra, Sound (nāda), the Drop (bindu), the empowered one (Sakta), ), the serpent (bhujaṅga of Kuṇdalinī), and supreme (para). (239cd-240ab) 
 
@@ -380,7 +380,7 @@ As is said (in the Kulagahvaratantra):
 
 496\. Abhinava’s paraphrasis of this passage helps to explain it. The ‘other person’s mind’ is pierced by piercing the Wheel of the Heart with the Wheel the teacher has imagined. Perhaps this association with the mind — manas — which common didactic etymology perceives to be the first part of the word ‘mantra’ that ‘saves (tra) the mind’, is why this kind of piercing is given this name. Otherwise, we may understand that the Wheel the teacher imagines is full of the flames of the mantra or mantras within it. Perhaps a better way to understand what has happened emerges by comparing Jayaratha’s literal citation of the Kulagahvara with Abhinava’s paraphrase of the same. We observe that Abhinava has modified the original significantly. The teacher, according to him, pierces the Wheel of the disciple’s Heart, not the mind, as is stated in the original. Perhaps the difference is only apparent. The Heart is generally considered to be the seat of the mind, and so can be taken to be equivalent. In other words, Abhinava has explained the text by altering it. But this is probably not what Abhinava intended because, according to him, it is Sound (nāda) rather than Mantra that pierces the mind (TĀ 29/244a). Perhaps he tried in this way to distinguish between the sphere of operation of the two forms of piercing. Jayaratha appears to endorse this view when he says that the Wheel of the Heart ‘is where the Self (dtman) ) that is contracted by the object of thought (cetya) is perceived, because that is where it is located. Thus, Jayaratha understands ‘mind’ mentioned in the original citation to mean the individual soul, because it is this that is normally said to reside there.
 
-497\. The Sanskrit here reads: jvālākulari tato dhyātvā aṣtāraṁ cakram uttamam | dvādaśāram atho vāpi svaśāstravidhiyogataḥ |l paracittaṁ vedhanīyaṁ mantravedha udāhṛtaḥ | ‘Then, having meditated on the most excellent wheel with eight spokes or else the one with twelve spokes, full of flames, in accord with the procedure prescribed by one’s own scripture, he should pierce the other person's mind. (This is) said to be piercing by Mantra (mantravedha). Compare the version in the Kumārikākhanda of the Manthānabhairava: jvālāmālākulaṁ dhyāyet ṣadārari cakram uttamam | dvādaśāre ‘thavā vyāptiḥ śvāsakumbhakayogataḥ ॥ parar cittarn prabodhavyaṁ mantravedham udāhṛtam | “One should visualize (dhyāyer) the excellent wheel with six spokes surrounded by a garland of flames. Or else, (one experiences) pervasion (vyāpti) within the Twelve-spoked (Wheel) in conjunction with the retention of the breath. (The teacher) should awaken the mind of the other (i.e. his disciple). (This) is said to be the Piercing with Mantra.’ KuKh 31/13-14ab The KuKh has replaced the eight-spoked wheel of the original with a six-spoked one. The intention here seems to be to adapt this practice more closely to the Wheels in the body of the Six Wheel system, to which the KuKh is committed. The Kulagahvara, or indeed any of Abhinava’s sources, do not know this system of Six Wheels, that originated in the Kubjikā Tantras, to become the well-known standard set in Kaula Tantras after the 13 century. According to this system, the Wheel of the Self-supported (svādhisthāna), between the navel and the genitals, is said to have six spokes, and the Wheel of the City of Gems (manipura) has twelve. According to the Kubjikā Tantras, Kundalinī can be awakened from either of these two places. She rises up through the central channel transported by the current of the upward moving breath that flows between exhalation and inhalation when they have come to a halt. This takes place in both the teacher and the disciple. The energies of teacher and disciple are harnessed together, so that when the teacher raises his Kundalinī, the same occurs in his disciple. The teacher awakens the mind of his disciple in this way by filling it with the energy of Kundalini.
+497\. The Sanskrit here reads: jvālākulari tato dhyātvā aṣtāraṁ cakram uttamam | dvādaśāram atho vāpi svaśāstravidhiyogataḥ |l paracittaṁ vedhanīyaṁ mantravedha udāhṛtaḥ | ‘Then, having meditated on the most excellent wheel with eight spokes or else the one with twelve spokes, full of flames, in accord with the procedure prescribed by one’s own scripture, he should pierce the other person's mind. (This is) said to be piercing by Mantra (mantravedha). Compare the version in the Kumārikākhanda of the Manthānabhairava: jvālāmālākulaṁ dhyāyet ṣadārari cakram uttamam | dvādaśāre ‘thavā vyāptiḥ śvāsakumbhakayogataḥ ॥ parar cittaṁ prabodhavyaṁ mantravedham udāhṛtam | “One should visualize (dhyāyer) the excellent wheel with six spokes surrounded by a garland of flames. Or else, (one experiences) pervasion (vyāpti) within the Twelve-spoked (Wheel) in conjunction with the retention of the breath. (The teacher) should awaken the mind of the other (i.e. his disciple). (This) is said to be the Piercing with Mantra.’ KuKh 31/13-14ab The KuKh has replaced the eight-spoked wheel of the original with a six-spoked one. The intention here seems to be to adapt this practice more closely to the Wheels in the body of the Six Wheel system, to which the KuKh is committed. The Kulagahvara, or indeed any of Abhinava’s sources, do not know this system of Six Wheels, that originated in the Kubjikā Tantras, to become the well-known standard set in Kaula Tantras after the 13 century. According to this system, the Wheel of the Self-supported (svādhisthāna), between the navel and the genitals, is said to have six spokes, and the Wheel of the City of Gems (manipura) has twelve. According to the Kubjikā Tantras, Kundalinī can be awakened from either of these two places. She rises up through the central channel transported by the current of the upward moving breath that flows between exhalation and inhalation when they have come to a halt. This takes place in both the teacher and the disciple. The energies of teacher and disciple are harnessed together, so that when the teacher raises his Kundalinī, the same occurs in his disciple. The teacher awakens the mind of his disciple in this way by filling it with the energy of Kundalini.
 
 
 *[p. 381]* ^pg398
@@ -396,7 +396,7 @@ He (now) also talks about the same (piercing by Mantra, done) with a different p
 
 akaram navadhā dehe nyasya saṁkramayet tataḥ ॥ 241 ॥
 nyāsayogena śiṣyāya dīpyamānami mahārciṣam |
-pāśastobhāt tatas tasya paratattve tu yojanam || 242 II iti dīkṣottare dṛṣtṭo vidhir me śambhunoditaḥ | 
+pāśastobhāt tatas tasya paratattve tu yojanam || 242 || iti dīkṣottare dṛṣtṭo vidhir me śambhunoditaḥ | 
 
 Having deposited the letter A[^498] nine times on (his) body, (the teacher) should then transmit it, shining with great lustre, to the disciple by depositing it (on his body). Then (the disciple’s) bonds are paralysed and so 
 
@@ -437,7 +437,7 @@ nādena vedhayec cittam nādavedha udīritaḥ |
 3\) The Piercing with the Point विन्दुस्थानगतं चित्त भ्रूमध्यपथसंस्थितम् ॥ २४४ ॥
 हल्लश्य वा महेशानि विनं ज्वालाकुलग्रभम् |
 तेन संबोधयेत्साध्यं विन््राख्योऽयं प्रकीर्तितः ॥ २४५ ॥
-bindusthānagatari cittam bhrūmadhyapathasaṁsthitam Il 244 ॥
+bindusthānagatari cittam bhrūmadhyapathasaṁsthitam ॥ 244 ॥
 1.11 11111111 10 tena sabodhayet sādhyaṁ bindvākhyo ‘yarn prakīrtitaḥ ॥ 245 ॥ 
 
 501\. Next Abhinava returns to the Kulagahvaratantra. He continues with the next topic, following systematically the order of presentation there. This is the Piercing with Sound, which is missing in the KuKh. This may be due just to an accidental loss in some stage of its transmission, or may have already occurred in a phase of its redaction. Perhaps the copy of the text the author of this section incorporated into his work was lacunose. It is also possible that alterations we notice in the remaining verses of this passage in the KuKh are an indication that the Piercing with Sound has been omitted on purpose, with the intention of making the progression through the Wheels more systematic.
@@ -488,7 +488,7 @@ evar bhramaravedhena śāktavedha udāhṛtaḥ ॥ 247 ॥
 
 #### Viveka on 29.246–247
 
-[^509]: \[illegible\] Verses 246-247 have been translated in accord with Jayaratha’s explanation. However, Sanderson suggests (as reported by Wallis (2014) p. 399-400), these verses should be understood to be presenting the syllable HSKHPHREM in code. If this is so, according to Sanderson, two emendations are required. The printed edition reads: sākta saktimad uccārād gandhoccārena sundari — ‘the empowered one (śākta) (arises) by the upward movement (uccāra) into the possessor of (that) power (in the End of the Twelve, induced) by the elevation (uccāra) (brought about by the force of the contraction of the) anus (gandha). Emended, it read: saktiśaktimaduccārād gāntoccāreṇa sundari. The meaning would then be as is the first sentence of the following translation: ‘The empowered one (sākta) (arises) by the upward movement (uccāra) of the possessor of power (i.e. Siva, the letter H) and power (the letter S), along with the elevation of the letter that is followed by G (i.e. KH). O fair lady, (initially) crooked (R), and form (round like an) earring (PH) (Kunṇdalinī), sits on the seat of the Water Chestnut (E);\*” ); having uttered (that) without utterance (through the resonance of the final M), pierce the entire universe (of the disciple’s body). (This) is said to be the Empowered Piercing, (that takes place) in this way by the Piercing of (the sound of) the Bee (bhramaravedha).’ This may well be correct, if the Kulagahvara made use of this seed-syllable Mantra drawn from the Krama system, as it does of the Trika syllable SAUH. This interpretation of this passage has some support from the version of it found in the KuKh, that makes no mention of the contraction of the anus. This reads: Sākta śaktiḥ samuccārya ürdhvoccārena sundara || Sṛṁgāakāsanasthā tu kubjikā kutilākṛtiḥ \\ ādhārādisamuccāryā dīpākārā śikhopamā Il sthiracittāṁgabhāvena vedhayed akhilarn jagat | bhramadandamahāvegaḥ śāktavedham udāhṛtam ॥
+[^509]: \[illegible\] Verses 246-247 have been translated in accord with Jayaratha’s explanation. However, Sanderson suggests (as reported by Wallis (2014) p. 399-400), these verses should be understood to be presenting the syllable HSKHPHREM in code. If this is so, according to Sanderson, two emendations are required. The printed edition reads: sākta saktimad uccārād gandhoccārena sundari — ‘the empowered one (śākta) (arises) by the upward movement (uccāra) into the possessor of (that) power (in the End of the Twelve, induced) by the elevation (uccāra) (brought about by the force of the contraction of the) anus (gandha). Emended, it read: saktiśaktimaduccārād gāntoccāreṇa sundari. The meaning would then be as is the first sentence of the following translation: ‘The empowered one (sākta) (arises) by the upward movement (uccāra) of the possessor of power (i.e. Siva, the letter H) and power (the letter S), along with the elevation of the letter that is followed by G (i.e. KH). O fair lady, (initially) crooked (R), and form (round like an) earring (PH) (Kunṇdalinī), sits on the seat of the Water Chestnut (E);\*” ); having uttered (that) without utterance (through the resonance of the final M), pierce the entire universe (of the disciple’s body). (This) is said to be the Empowered Piercing, (that takes place) in this way by the Piercing of (the sound of) the Bee (bhramaravedha).’ This may well be correct, if the Kulagahvara made use of this seed-syllable Mantra drawn from the Krama system, as it does of the Trika syllable SAUH. This interpretation of this passage has some support from the version of it found in the KuKh, that makes no mention of the contraction of the anus. This reads: Sākta śaktiḥ samuccārya ürdhvoccārena sundara || Sṛṁgāakāsanasthā tu kubjikā kutilākṛtiḥ \\ ādhārādisamuccāryā dīpākārā śikhopamā Il sthiracittāṁgabhāvena vedhayed akhilaṁ jagat | bhramadandamahāvegaḥ śāktavedham udāhṛtam ॥
 
 *[p. 386]* ^pg403
 
@@ -498,7 +498,7 @@ The redactor of the KuKh replaced the reading kutilamn kundalākṛtim — ‘cr
 
 Kundalinī is described in this version in much the same way as the individual soul (puruṣa) is in the Upaniṣads. She, like him, is ‘the measure of a thumb, like a light without smoke’ (Kaṭha 4/13). It is like a flame that burns without flickering in the space within the Cave of the Heart. Similarly, Kuṇgalinī burns in the Caves of Emptiness in the centre of each Wheel. Each Cave is connected to the next by the subtle filament of Suṣumṇā. Burning in the darkness of Māyā, Kunṇqdalinī illumines the adept’s innermost being and fills his body with light, to reveal the inner universe it enshrines. Rising with great force, Kundalinī exits from the uppermost cavity of the body and enters the End of the Twelve above it, to merge there with her source along with the individual soul she has transported in the powerful current of her upward flow. Thus, the adept is instructed that he should, ‘with the mind and limbs firm’, by virtue of the unfolding of luminous, vital energy, ‘pierce the entire universe’ of his body. 
 
-The essential paradigm of this and countless similar practices is very ancient. It was well known to the seers of the earliest Upaniṣads who formulated it as the process of quitting the body at death, never to return. The latter Upanisads elaborated this model further. For example, we read in the Yogaśikhā Upanisad (verses 4 to 7, translation by Deussen): 
+The essential paradigm of this and countless similar practices is very ancient. It was well known to the seers of the earliest Upaniṣads who formulated it as the process of quitting the body at death, never to return. The latter Upaṇisads elaborated this model further. For example, we read in the Yogaśikhā Upaṇisad (verses 4 to 7, translation by Deussen): 
 
 Upon one pillar (the vertebral column), three posts (idā, piṅgalā and suṣumnā), With nine doors (the nine openings of the body), having five gods (the five senses), Stands a temple, body in it one shall seek the highest. 
 
@@ -514,7 +514,7 @@ Practising this Yoga repeatedly, the Yogi penetrates through the sun.
 
 Then, zigzag, he goes upwards through the shining door of Suṣumnā; Breaking through the cerebral dome, he finally sees the highest one. 
 
-We turn now to the identity of Kundalini as the Bee who wanders in the Wheels of the subtle body. It is possible that Jayaratha’s manuscript read bhramanavedhena (‘by the piercing of wandering about’) instead of bhramaravedhena (‘by the piercing of the bee’), that we find in the printed edition. Or else he intentionally understood it in this way and glossed it accordingly as bhramarn dadhānaḥ tattatsthānagatyā — ‘wandering by going to this and that place’. The KuKh seems to confirm Jayaratha’s interpretation. 
+We turn now to the identity of Kundalini as the Bee who wanders in the Wheels of the subtle body. It is possible that Jayaratha’s manuscript read bhramanavedhena (‘by the piercing of wandering about’) instead of bhramaravedhena (‘by the piercing of the bee’), that we find in the printed edition. Or else he intentionally understood it in this way and glossed it accordingly as bhramaṁ dadhānaḥ tattatsthānagatyā — ‘wandering by going to this and that place’. The KuKh seems to confirm Jayaratha’s interpretation. 
 
 Even so, ‘the Piercing of the Bee’ is a correct translation of the expression bhramaravedha, and it is meaningful. The bee is an ancient symbol of the goddess. According to Abhinava, the sound of the energy of Mālinī, who is Kundalinī in her upward moving phase, which is that of reabsorption, is like the buzzing sound of a bee (TĀ 15/131cd-133ab). This is the Unstruck Sound of the engulfing energy of the vital breath that moves upwards through the central channel of Suṣumnā, reabsorbing the lower gross levels progressively into its own subtle nature, to ultimately merge all the diversity it has absorbed into Śiva, the lord of power. 
 
@@ -536,19 +536,19 @@ adbhutātmā maheśāni
 
 kāryakāranavarjitam |
 bhramaraṁ bhramarī baddhvā hṛtpadme parameśvari || 27 ॥
-yogastho ‘harn maheśāni lakṣavarṣari gajo (> yogo) mama |
-etasmin samaye devi bhramarīṁ gatavān priye I| 28 ॥
+yogastho ‘haṁ maheśāni lakṣavarṣari gajo (> yogo) mama |
+etasmin samaye devi bhramarīṁ gatavān priye ॥ 28 ॥
 Ājñāpuraṁ (>-pure) maheśāni tad dṛṣtvā bhramara (> bhramaraṁ) priye |
 tatpaścāt pradyayau (> prayayau) īghraṁ lolatvan kamalānane I| 29 I|
 kāryañ ca kāranṇañ caiva prakrtiń viddhi pārvati |
-evarn dhyānaparo bhūtvā yat kṛtaṁ tat Śṛnu priye I 30 II bhramaraś ca maheśāni bhramaryā saha sundari |
+evaṁ dhyānaparo bhūtvā yat kṛtaṁ tat Śṛnu priye I 30 II bhramaraś ca maheśāni bhramaryā saha sundari |
 jñānapāśena vijñāto anyonyaṁ ca śucismite ॥ 31 ॥
 ṣatṭpadmasaṁsthito bhūtvā madhupānayutaḥ sadā |
 bhramarī parameśāni sākṣān mokṣapradāyinī | 32 ॥
 yatra yatra maheśāni bhramarī yāti sundarī |
 tatra tatra maheśāni bhramaraḥ prayayau drutam || 33 ||
 bhramarīr tu gate devi yogabhaṅgam abhūn mayā |
-yogasthe sati cārvaṁgi ṣatpuraṁ paramādbhutam |l 34 ||
+yogasthe sati cārvaṁgi ṣatpuraṁ paramādbhutam || 34 ||
 ṣatpurī parameśāni sadā jyotirmayī priye |
 pitrimh jyotirmayīṁ divyāmṁi paramāmytapūritām \\\\ 35 ||
 dṛṣtvā padmavanaṁ bhadre kadācin na nivartate |
@@ -624,8 +624,8 @@ praviṣtṭā vedhayet kāyam ātmānaṁ pratibhedayet |
 
 *[p. 390]* ^pg407
 
-evarn bhujaṅgavedhas tu kathito bhairavāgame ॥ 251 ||
-tāvad bhāvayate cittarn yāvac citta kṣayaṁ gatam |
+evaṁ bhujaṅgavedhas tu kathito bhairavāgame ॥ 251 ||
+tāvad bhāvayate cittaṁ yāvac citta kṣayaṁ gatam |
 kṣīne citte sureśāni parānanda udāhṛtaḥ || 252 || 
 
 (Kundalin?’s five hoods represent her) fivefold nature as 1) (the five) Forces, 2) (five) principles, 3) (five) (goddesses, that is) Nandā and the rest, 4) (five) Voids, 5) (five) Kulas, 6) (five) causes, namely, Brahmā and the rest, and 7) the (five) senses.[^515] 
@@ -655,7 +655,7 @@ Having entered (therein), she should pierce the (subtle) body and penetrate thro
 
 518?\. Abhinava is drawing this passage from the Kulagahvara. The reference here, either his own or original, to the Bhairavāgama indicates that this is a common manner of initiation in the Bhairavāgamas in general. This however, is not entirely true. The Svacchandatantra, for example, is a Bhairavatantra but does not advocate initiation by piercing. KuKh 31/23b replaces the reading ‘bhairavāgame’ in TĀ 29/251d with ‘kulāgame’. This is more accurate. This kind of Kaula initiation developed in those Bhairava Tantras with Kaula traits. These are the Tantras belonging to the Vidyāpīṭha. In the course of time, Kaulism came into its own, rising out of its original milieu as a modality of practice (prakriyā) to develop Tantras of its own schools, collectively called Kulāgamas or Kula Tantras.
 
-519?\. \[illegible\] There is no equivalent in the KuKh of line 29/252ab. As this line is required to complete the sense of what was said before, its omission is more likely to a mistake rather than intentional. The second line reads: ksīne citte sureśāna parānandam udāhṛtam | (KuKh 31/25ab) The feminine ‘sureśān? ‘mistress of the gods’ has been made masculine by a redactor of the KuKh because there the speaker is the goddess, who is addressing the god. Again, in standard Sanskrit, the noun ‘parānanda-’\` is masculine. The deviant Sanskrit of the KuKh treats it as neuter. Abhinava appears to have corrected the deviant Sanskrit of his source here, as he normally does.
+519?\. \[illegible\] There is no equivalent in the KuKh of line 29/252ab. As this line is required to complete the sense of what was said before, its omission is more likely to a mistake rather than intentional. The second line reads: kṣīṇe citte sureśāna parānandam udāhṛtam | (KuKh 31/25ab) The feminine ‘sureśān? ‘mistress of the gods’ has been made masculine by a redactor of the KuKh because there the speaker is the goddess, who is addressing the god. Again, in standard Sanskrit, the noun ‘parānanda-’\` is masculine. The deviant Sanskrit of the KuKh treats it as neuter. Abhinava appears to have corrected the deviant Sanskrit of his source here, as he normally does.
 
 520?\. See above 11/1-43. Jayaratha probably drew the following details from the Kulagahvara.
 
@@ -697,7 +697,7 @@ Thus, duality falls away for him in all respects. Accordingly, he says. ने�
 न मनो नापि मन्तव्यं न मन्ता न मतिक्रिया ॥ (253-254ab)[^531] ॥
 सर्वभावपरिक्षीणे परवेध उदाहतः ।
 nendriyānṇi na vai prāṇā nāntahkaraṇagocaraḥ |
-na mano nāpi mantavyari na mantā na matikriyā I| 253 ॥
+na mano nāpi mantavyari na mantā na matikriyā ॥ 253 ॥
 sarvabhāvaparikṣīnṇe paravedha udāhṛtaḥ | 
 
 (In that state,) there are no senses, no vital breaths, nor field of the inner (mental) senses. There is no mind, no object of the mind, no one who cogitates (mantr) and no cogitation (matikriyā). When all phenomenal (and emotional) states (bhāva) cease,[^530] that is said to be the Supreme Piercing. (253-254ab)\*? 
@@ -973,7 +973,7 @@ the rest (of the senses).[^544] When the Piercing of the Channels (takes place i
 
 9\) The Supreme Piercing परवेधं समस्तेषु चक्रेष्वद्रेतमामृशन् ।
 परं शिवं प्रकुर्वीत शिवतापत्तिदो गुरः ॥ २७१ ॥
-paravedharn samasteṣu cakreṣv advaitam āmṛśan |
+paravedhaṁ samasteṣu cakreṣv advaitam āmṛśan |
 paraṁ Sivam prakurvīta śivatāpattido guruḥ ॥ 271 ॥ 
 
 9\) Reflecting on the nonduality which is (the experience of) the Supreme Piercing in all the Wheels, the teacher who dispenses the attainment of Śivahood should transform (the disciple) into Supreme Śiva.[^547] (271) 
@@ -993,7 +993,7 @@ One should understand that this applies to all (these types of piercing).
 
 ### TĀ 29.272
 
-This is said in the same way in scripture also. Accordingly, he says: श्रीमद्रीरावलिकुटे तथा चेत्थं निरूपितम् śrīmadvīrāvalikule tathā cettharn nirūpitam | 
+This is said in the same way in scripture also. Accordingly, he says: श्रीमद्रीरावलिकुटे तथा चेत्थं निरूपितम् śrīmadvīrāvalikule tathā cetthaṁ nirūpitam | 
 
 (The supreme initiation by piercing) is also described in the venerable Vīrāvalikula in this way (as follows).[^548] (272ab) 
 
@@ -1008,7 +1008,7 @@ He says just that:
 abhedyaṁ sarvathā jṁeyaṁ madhyarni jñātvā na lipyate ॥ 272 ॥
 tadvibhāgakrame siddhaḥ sa gurur mocayet \[paSiin | 
 
-[^548]: I understand Abhinava to be saying that the following passage from 272cd to 281 is also taken from the Vṛrāvalikula, that describes in a similar manner the ninth, supreme, type of initiation, as it did the previous eight. It is an account of the procedure to which verses 233-235 above refer. There it is said to be drawn from the Vṛrāvalibhairava, which here is called the Vīrāvalikula. For the reader’s convenience, here it is again: ‘It is said in the venerable Vīrāvalibhairava that (in this procedure) ‘the group of six called the causal forces (kérana) ) and he who is Supreme Śiva along with Lord Bhairava (Bhairavanātha) are called the group of eight. The teacher, perceiving that each one (of the eight) is of the nature of all (the others), and that that condition (vyti) is present within himself, should transfer it into (each of one of) the senses (of his disciple), beginning with that of sight, wherever (and whatever) it may be. This alone is considered to be the supreme consecration, which is (performed) with (just these inner) jars full (of the essence of consciousness), without (making use of) outer ones also.” (233-235) These verses describe the most essential feature of this procedure, here called the supreme consecration, which is the supreme piercing described in verses 29/272cd-281, that are drawn from the Vīrāvalikula / Vīrāvalibhairava. By this procedure the empowered energies of the teacher's senses and mind (the group of six) and the Deity in its two forms are transferred into the counterparts within his disciple. The passage from 271 to 281 is a detailed account of how this transfer is mediated by the upward flow of the vital breath through the centre between inhalation and exhalation of the teacher and disciple harnessed together. The seemingly purely cognitive Yoga of 233-235 is thus seen to be based on the basic prānic Yoga of the merger of the vital breaths, their penetration through the Centre, and elevation within it to ultimate identification. Why are these verses not been placed here? The answer lies in the statement here that the teacher should be ‘(fully) accomplished (siddha) in (the practice of) the sequence of its types’. Accordingly, Abhinava has first presented the types of piercing taught in the Kularatnamālā and then in the Vīrāvali, to conclude with the supreme piercing, which is the supreme consecration taught in 233-235.
+[^548]: I understand Abhinava to be saying that the following passage from 272cd to 281 is also taken from the Vṛrāvalikula, that describes in a similar manner the ninth, supreme, type of initiation, as it did the previous eight. It is an account of the procedure to which verses 233-235 above refer. There it is said to be drawn from the Vṛrāvalibhairava, which here is called the Vīrāvalikula. For the reader’s convenience, here it is again: ‘It is said in the venerable Vīrāvalibhairava that (in this procedure) ‘the group of six called the causal forces (kérana) ) and he who is Supreme Śiva along with Lord Bhairava (Bhairavanātha) are called the group of eight. The teacher, perceiving that each one (of the eight) is of the nature of all (the others), and that that condition (vyti) is present within himself, should transfer it into (each of one of) the senses (of his disciple), beginning with that of sight, wherever (and whatever) it may be. This alone is considered to be the supreme consecration, which is (performed) with (just these inner) jars full (of the essence of consciousness), without (making use of) outer ones also.” (233-235) These verses describe the most essential feature of this procedure, here called the supreme consecration, which is the supreme piercing described in verses 29/272cd-281, that are drawn from the Vīrāvalikula / Vīrāvalibhairava. By this procedure the empowered energies of the teacher's senses and mind (the group of six) and the Deity in its two forms are transferred into the counterparts within his disciple. The passage from 271 to 281 is a detailed account of how this transfer is mediated by the upward flow of the vital breath through the centre between inhalation and exhalation of the teacher and disciple harnessed together. The seemingly purely cognitive Yoga of 233-235 is thus seen to be based on the basic prāṇic Yoga of the merger of the vital breaths, their penetration through the Centre, and elevation within it to ultimate identification. Why are these verses not been placed here? The answer lies in the statement here that the teacher should be ‘(fully) accomplished (siddha) in (the practice of) the sequence of its types’. Accordingly, Abhinava has first presented the types of piercing taught in the Kularatnamālā and then in the Vīrāvali, to conclude with the supreme piercing, which is the supreme consecration taught in 233-235.
 
 *[p. 403]* ^pg420
 
@@ -1049,7 +1049,7 @@ Surely (one may ask), even though (this may be) so, what of that? With this doub
 उभयोश्ो्मनागत्या तत्काले दीक्षितो भवेत् ।
 शशिभास्करसंयोगे जीवन् तन्मयतां व्रजेत् ॥ २७५ ॥
 
-citte samarasībhūte dvayor aunmanasī sthitiḥ ॥ 274 Il ubhayoś conmanāgatyā tatkāle dīkṣito bhavet |
+citte samarasībhūte dvayor aunmanasī sthitiḥ ॥ 274 ॥ ubhayoś conmanāgatyā tatkāle dīkṣito bhavet |
 saśibhāskarasamiyoge jīvan tanmayatāṁ vrajet | 275 ॥ 
 
 When (their) minds are fused together (samarasībhūta) (in common aesthetic delight), the two are in the state beyond mind, and by condition beyond mind“? of both, (the disciple) is initiated at that very moment. (Then,) when the Moon (of inhalation) and the Sun (of exhalation) are united, even as he lives[^551] he becomes one (with the centre). (274cd-275) 
@@ -1122,20 +1122,20 @@ And how can that be so for him? With this doubt in mind, he says: बाह्�
 नातमव्योमवहिर्मन्रेहसंधानमाचेत् दीक्षेयं सर्वजन्तूनां शिवतापत्तिदायिका ॥ २८१ ॥
 
 bāhyari prāṇami bāhyagatari timirākārayogataḥ ॥ 278 ॥
-niryātar romakūpais tu bhramantarn sarvakāranṇaiḥ |
+niryātar romakūpais tu bhramantaṁ sarvakāranṇaiḥ |
 madhyarm nirlakṣyam āsthāya bhramayed visṛjet tataḥ ॥ 279 ॥
 saṅghattotpātayogena vedhayed granthipañcakam |
 saṅghattavṛttiyugalaḥ madhyadhāmni vicintayet ॥ 280 ॥
 nātmavyomabahirmantradehasarṁdhānam ācaret |
 dīkṣeyari sarvajantūnāri śivatāpattidāyikā ॥ 281 ॥ 
 
-5The external (breath that enters by inhalation and) exhalation (prāna), that (has flowed outwards,) is (also) external.\* By its association with (the limited perceiver,) whose form is darkness, it has exited by means of the pores of the skin. (But it) is made to wander (internally) by all the causal (deities) (in the Wheels over which they preside). (The yogi,) having firmly fixed (āsthāya) (his attention) on the imperceptible Centre, should make (the breath) circulate and then emit (it) (visṛjet). By being linked (yogena) to the upward movement” of the union (of the breath), he should pierce through the five knots and contemplate (vicintayet) the pair (of breaths) in a state of (intimate) union within the Abode of the Centre. He should not attend to (and connect) (saṁdhāna) the (limited) Self, Void, the outer (world), Mantra and the body.“' This initiation bestows the attainment of Śivahood to all living beings. (278cd-281) 
+5The external (breath that enters by inhalation and) exhalation (prāṇa), that (has flowed outwards,) is (also) external.\* By its association with (the limited perceiver,) whose form is darkness, it has exited by means of the pores of the skin. (But it) is made to wander (internally) by all the causal (deities) (in the Wheels over which they preside). (The yogi,) having firmly fixed (āsthāya) (his attention) on the imperceptible Centre, should make (the breath) circulate and then emit (it) (visṛjet). By being linked (yogena) to the upward movement” of the union (of the breath), he should pierce through the five knots and contemplate (vicintayet) the pair (of breaths) in a state of (intimate) union within the Abode of the Centre. He should not attend to (and connect) (saṁdhāna) the (limited) Self, Void, the outer (world), Mantra and the body.“' This initiation bestows the attainment of Śivahood to all living beings. (278cd-281) 
 
 #### Viveka on 29.278–281
 
 557?\. This passage, ending with verse 281, concludes a long quotation from the Vṛrāvalikula that began with line 254cd.
 
-558?\. As always, I am constrained to follow Jayaratha’s interpretation and translate accordingly. However, there is a problem here. The way Jayaratha understands the first statement, both exhalation and inhalation are external. But the singular of niryātaṁ ‘has exited’ indicates that there is only one breath. This can only be (pṛdna - the exhaled breath that exits the body, and so in its final phase is ‘external’. Thus, a better, less forced, interpretation, corresponds to the literal meaning of bāhya prānari bāhyagataṁ, which is ‘the external (exhaled) breath that has gone outside’. However, the reference further ahead to ‘the pair’ (of breaths) may be taken to mean that the two, inhalation and exhalation, are being treated together as a pair which is in the singular number. Thus, Jayaratha has interpretated this expression in this way by saying that the breath(s) circulate(s) inwardly ‘by blocking its upward movement’ of prāna, the exhaled breath. This ‘upward movement’ should be distinguished from the ‘upward movement’ to which Abhinava refers, as that of the pair of both inhaled and exhaled breaths that have fused in the Abode of the Centre, which is central channel of suṣsumnā.
+558?\. As always, I am constrained to follow Jayaratha’s interpretation and translate accordingly. However, there is a problem here. The way Jayaratha understands the first statement, both exhalation and inhalation are external. But the singular of niryātaṁ ‘has exited’ indicates that there is only one breath. This can only be (pṛdna - the exhaled breath that exits the body, and so in its final phase is ‘external’. Thus, a better, less forced, interpretation, corresponds to the literal meaning of bāhya prānari bāhyagataṁ, which is ‘the external (exhaled) breath that has gone outside’. However, the reference further ahead to ‘the pair’ (of breaths) may be taken to mean that the two, inhalation and exhalation, are being treated together as a pair which is in the singular number. Thus, Jayaratha has interpretated this expression in this way by saying that the breath(s) circulate(s) inwardly ‘by blocking its upward movement’ of prāṇa, the exhaled breath. This ‘upward movement’ should be distinguished from the ‘upward movement’ to which Abhinava refers, as that of the pair of both inhaled and exhaled breaths that have fused in the Abode of the Centre, which is central channel of suṣsumnā.
 
 559?\. Read saṁghaṭtotpāta- for sahghaṭtotpāṭa-.
 

@@ -18,7 +18,7 @@ language:
 pages:
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[The Model of the Text.pdf]]"
   - "[[Library/Philosophy/The Model of the Text (Ricoeur)]]"

@@ -8,8 +8,8 @@ page_range: ix–x
 
 [[Zohar]] · [[Zohar 11.02 - Preface]] →
 
-[p. ix]
+[p. ix] ^pgix
 
 ![[zohar11-00002.jpeg]]
 
-[p. x]
+[p. x] ^pgx

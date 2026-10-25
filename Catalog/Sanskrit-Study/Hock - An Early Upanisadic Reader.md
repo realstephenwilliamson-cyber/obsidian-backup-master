@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 107
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Hock - An Early Upanisadic Reader (2006).pdf]]"
   - "[[Library/Sanskrit/An Early Upanisadic Reader (Hock)/An Early Upanisadic Reader (Hock)]]"

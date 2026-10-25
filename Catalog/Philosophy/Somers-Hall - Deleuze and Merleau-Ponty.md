@@ -17,8 +17,7 @@ language:
   - English
 pages: 5
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Somers-Hall - Deleuze and Merleau-Ponty.pdf]]"
   - "[[Library/Philosophy/Deleuze and Merleau-Ponty (Somers-Hall)]]"

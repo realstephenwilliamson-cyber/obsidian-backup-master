@@ -4,7 +4,7 @@ work: "[[Catalog/Christianity/Gregory of Nyssa - Dogmatic Treatises]]"
 book: "[[Library/Christianity/Dogmatic Treatises (Gregory of Nyssa)/Dogmatic Treatises (Gregory of Nyssa)|Dogmatic Treatises (Gregory of Nyssa)]]"
 order: 42
 source_pdf: "Library/Christianity/Gregory of Nyssa - Dogmatic Treatises (NPNF2 5).pdf"
-pages: "712–753"
+page_range: "712–753"
 pdf_pages: "733–774"
 text_source: "PDF text layer (born-digital, CCEL), PyMuPDF"
 converted: 2026-10-22
@@ -42,7 +42,7 @@ For if, the consideration of man being lacking in his Hexaëmeron, none of those
 
 The scope of our proposed enquiry is not small: it is second to none of the wonders of the world,—perhaps even greater than any of those known to us, because no other existing thing, save the human creation, has been made like to God: thus we shall readily find that
 
-158\. 6 Prov. xvii. 6 (LXX.). The clause is not found in the English version. Reading (with Forbes’ marginal note), ὑποβολῆς
+1586 Prov. xvii. 6 (LXX.). The clause is not found in the English version. Reading (with Forbes’ marginal note), ὑποβολῆς
 
 
 *[p. 715]* ^pg736
@@ -123,7 +123,7 @@ all that is seen was finished, and each of the things that are betook itself to 
 
 388 1588 A Bodleian ms. of the Latin version, cited by Forbes, which gives independent titles, has here:—“Of the perfection and beauty of the world and of the harmonious discord of the four elements.” 1589 Gen. ii. 4 (LXX.). ὑπερβόλη apparently means “intensity” or “a high degree of force,” not “*excess* of force,” since, though
 
-159\. 0 the force in each is augmented, it does not exceed that in the other, which is augmented also *pari passu.*
+1590 the force in each is augmented, it does not exceed that in the other, which is augmented also *pari passu.*
 
 
 *[p. 718]* ^pg739
@@ -156,7 +156,7 @@ II. *Why man appeared last, after the creation*<sup>1593</sup>
 
 2\. For this reason man was brought into the world last after the creation, not being rejected to the last as worthless, but as one whom it behoved to be king over his subjects at his very birth. And as a good host does not bring his guest to his house before the preparation of his feast, but, when he has made all due preparation, and decked with their proper adornments his house, his couches, his table, brings his guest home when things suitable for his refreshment are in readiness,—in the same manner the rich and munificent Entertainer of our nature, when He had decked the habitation with beauties of every kind, and prepared this great and varied banquet, then introduced man, assigning to him as his task not the acquiring of what was not there, but the enjoyment of the things which were there; and for this reason He gives him as foundations the instincts of a twofold organization, blending the Divine with the earthy, that by means of both he may be naturally and properly disposed to each enjoyment, enjoying God by means of his more divine nature, and the good things of earth by the sense that is akin to them.
 
-159\. 3 The title in the Bodleian Latin ms. is:—“That it was reasonable that man should be created last of the creatures.”
+1593 The title in the Bodleian Latin ms. is:—“That it was reasonable that man should be created last of the creatures.”
 
 
 *[p. 721]* ^pg742
@@ -169,7 +169,7 @@ III. *That the nature of man is more precious than all the visible creation*<sup
 
 2\. O marvellous! a sun is made, and no counsel precedes; a heaven likewise; and to these no single thing in creation is equal. So great a wonder is formed by a word alone, and the saying indicates neither when, nor how, nor any such detail. So too in all particular cases, the æther, the stars, the intermediate air, the sea, the earth, the animals, the plants,—all are brought into being with a word, while only to the making of man does the Maker of all draw near with circumspection, so as to prepare beforehand for him material for his formation, and to liken his form to an archetypal beauty, and, setting before him a mark for which he is to come into being, to make for him a nature appropriate and allied to the operations, and suitable for the object in hand.
 
-159\. 4 The title in the Bodleian Latin ms. is:—“That God created man with great deliberation.” Gen. i. 26, not exactly from the LXX.
+1594 The title in the Bodleian Latin ms. is:—“That God created man with great deliberation.” Gen. i. 26, not exactly from the LXX.
 
 
 *[p. 722]* ^pg743
@@ -180,7 +180,7 @@ IV. *That the construction of man throughout signifies his ruling power*<sup>159
 
 1\. For as in our own life artificers fashion a tool in the way suitable to its use, so the best Artificer made our nature as it were a formation fit for the exercise of royalty, preparing it at once by superior advantages of soul, and by the very form of the body, to be such as to be adapted for royalty: for the soul immediately shows its royal and exalted character, far removed as it is from the lowliness of private station, in that it owns no lord, and is self-governed, swayed autocratically by its own will; for to whom else does this belong than to a king? And further, besides these facts, the fact that it is the image of that Nature which 390 rules over all means nothing else than this, that our nature was created to be royal from the first. For as, in men’s ordinary use, those who make images<sup>1597</sup> of princes both mould the figure of their form, and represent along with this the royal rank by the vesture of purple, and even the likeness is commonly spoken of as “a king,” so the human nature also, as it was made to rule the rest, was, by its likeness to the King of all, made as it were a living image, partaking with the archetype both in rank and in name, not vested in purple, nor giving indication of its rank by sceptre and diadem (for the archetype itself is not arrayed with these), but instead of the purple robe, clothed in virtue, which is in truth the most royal of all raiment, and in place of the sceptre, leaning on the bliss of immortality, and instead of the royal diadem, decked with the crown of righteousness; so that it is shown to be perfectly like to the beauty of its archetype in all that belongs to the dignity of royalty.
 
-159\. 6 The title in the Bodleian Latin ms. is:—“Of the kingly dignity of the human form.” 1597 It is not clear whether the reference here is to painting or to sculpture, of which the product was afterwards painted. The combination of ἀναμάσσονται and συμπαραγράφουσι suggests the latter.
+1596 The title in the Bodleian Latin ms. is:—“Of the kingly dignity of the human form.” 1597 It is not clear whether the reference here is to painting or to sculpture, of which the product was afterwards painted. The combination of ἀναμάσσονται and συμπαραγράφουσι suggests the latter.
 
 
 *[p. 723]* ^pg744
@@ -193,9 +193,9 @@ V. *That man is a likeness of the Divine sovereignty*<sup>1598</sup>.
 
 2\. And if you were to examine the other points also by which the Divine beauty is expressed, you will find that to them too the likeness in the image which we present is perfectly preserved. The Godhead is mind and word: for “in the beginning was the Word<sup>1600</sup>” and the followers of Paul “have the mind of Christ” which “speaks” in them<sup>1601</sup>: humanity too is not far removed from these: you see in yourself word and understanding, an imitation of the very Mind and Word. Again, God is love, and the fount of love: for this the great John declares, that “love is of God,” and “God is love<sup>1602</sup>”: the Fashioner of our nature has made this to be our feature too: for “hereby,” He says, “shall all men know that ye are my disciples, if ye love one another<sup>1603</sup>”:—thus, if this be absent, the whole stamp of the likeness is transformed. The Deity beholds and hears all things, and searches all things out: you too have the power of apprehension of things by means of sight and hearing, and the understanding that inquires into things and searches them out.
 
-159\. 8 In the Bodleian Latin ms. the title is:—“How the human soul is made in the image of God.” λαμπρότης. The old Latin version translates this by “purpurissus.” 1599
+1598 In the Bodleian Latin ms. the title is:—“How the human soul is made in the image of God.” λαμπρότης. The old Latin version translates this by “purpurissus.” 1599
 
-160\. 0 S. John i. 1 1601 Cf. 1 Cor. ii. 16; and 2 Cor. xiii. 3 1602 1 S. John iv. 7, 8. S. John xiii. 35 (not verbally).
+1600 S. John i. 1 1601 Cf. 1 Cor. ii. 16; and 2 Cor. xiii. 3 1602 1 S. John iv. 7, 8. S. John xiii. 35 (not verbally).
 
 
 *[p. 724]* ^pg745
@@ -212,7 +212,7 @@ VI. *An examination of the kindred of mind to nature: wherein, by way of digress
 
 3\. But what, I would ask, becomes of the heresy of the Anomœans? what will they say to this utterance? how will they defend the vanity of their dogma in view of the words cited? Will they say that it is possible that one image should be made like to different forms? if the Son is in nature unlike the Father, how comes it that the likeness He forms of the different natures is one? for He Who said, “Let us make after our image,” and by the plural signification revealed the Holy Trinity, would not, if the archetypes were unlike one another, have mentioned the image in the singular: for it would be impossible that there should be one likeness displayed of things which do not agree with one another: if the natures were different he would assuredly have begun their images also differently, making the appropriate image for each: but since the image is one, while the archetype is not one, who is so far beyond the range of understanding as not to know that the things which are like the same thing, surely resemble one another? Therefore He says (the word, it may be, cutting short this wickedness at the very formation of human life), “Let us make man in our image, after our likeness.”
 
-160\. 4 The Bodleian Latin ms. gives:—“That God has not human limbs, and that the image of the Father and of the Son is one, against the Eunomians.” 1605 Ps. xciv. 9.
+1604 The Bodleian Latin ms. gives:—“That God has not human limbs, and that the image of the Father and of the Son is one, against the Eunomians.” 1605 Ps. xciv. 9.
 
 
 *[p. 725]* ^pg746
@@ -227,7 +227,7 @@ VII. *Why man is destitute of natural weapons and covering*<sup>1607</sup>
 
 3\. It was the slowness and difficult motion of our body that brought the horse to supply our need, and tamed him: it was the nakedness of our body that made necessary our management of sheep, which supplies the deficiency of our nature by its yearly produce of wool: it was the fact that we import from others the supplies for our living which subjected beasts of burden to such service: furthermore, it was the fact that we cannot eat grass like cattle which brought the ox to render service to our life, who makes our living easy for us by his own labour; and because we needed teeth and biting power to subdue some of the other
 
-160\. 7 The Bodleian Latin ms. gives:—“Why man was not created with horns and other defences like certain other animals.” The argument of this and the following chapter seems to be derived to a great extent from Origen (*Contra Celsum,* iv. 75 et sqq.).
+1607 The Bodleian Latin ms. gives:—“Why man was not created with horns and other defences like certain other animals.” The argument of this and the following chapter seems to be derived to a great extent from Origen (*Contra Celsum,* iv. 75 et sqq.).
 
 
 *[p. 726]* ^pg747
@@ -252,7 +252,7 @@ VIII. *Why man’s form is upright; and that hands were given him because of rea
 
 4\. But it seems to me that by these facts Moses reveals a hidden doctrine, and secretly delivers that wisdom concerning the soul, of which the learning that is without had indeed some imagination, but no clear comprehension. His discourse then hereby teaches us that the power of life and soul may be considered in three divisions. For one is only a power of growth and nutrition supplying what is suitable for the support of the bodies that are nourished, which is called the vegetative<sup>1609</sup> soul, and is to be seen in plants; for we may
 
-160\. 8 The Latin version divides the chapters somewhat differently at this point. The Bodleian ms. gives this section the title, “Of the dignity of the human form, and why man was created after the other creatures.” “Vegetative”:—reading (with several mss. of both classes of those cited by Forbes) φυτικὴ for φυσικὴ 1609 (the reading which Forbes follows in his text). A similar reading has been adopted in some later passages, where the mss. show similar variations. It seems not unlikely that the less common φυτικὸς should have been altered by copyists to φυσικός. But Gregory seems in this treatise to use the word φύσις for the *corporeal* nature: and he may have employed the adjectival form in a corresponding sense.
+1608 The Latin version divides the chapters somewhat differently at this point. The Bodleian ms. gives this section the title, “Of the dignity of the human form, and why man was created after the other creatures.” “Vegetative”:—reading (with several mss. of both classes of those cited by Forbes) φυτικὴ for φυσικὴ 1609 (the reading which Forbes follows in his text). A similar reading has been adopted in some later passages, where the mss. show similar variations. It seems not unlikely that the less common φυτικὸς should have been altered by copyists to φυσικός. But Gregory seems in this treatise to use the word φύσις for the *corporeal* nature: and he may have employed the adjectival form in a corresponding sense.
 
 
 *[p. 728]* ^pg749
@@ -263,7 +263,7 @@ perceive in growing plants a certain vital power destitute of sense; and there i
 
 5\. We might make a division of our subject in some such way as this. Of things existing, part are intellectual, part corporeal. Let us leave alone for the present the division of the intellectual according to its properties, for our argument is not concerned with these. Of the corporeal, part is entirely devoid of life, and part shares in vital energy. Of a living body, again, part has sense conjoined with life, and part is without sense: lastly, that which has sense is again divided into rational and irrational. For this reason the lawgiver says that after inanimate matter (as a sort of foundation for the form of animate things), this vegetative life was made, and had earlier<sup>1610</sup> existence in the growth of plants: then he proceeds to 393 introduce the genesis of those creatures which are regulated by sense: and since, following the same order, of those things which have obtained life in the flesh, those which have sense can exist by themselves even apart from the intellectual nature, while the rational principle could not be embodied save as blended with the sensitive,—for this reason man was made last after the animals, as nature advanced in an orderly course to perfection. For this rational animal, man, is blended of every form of soul; he is nourished by the vegetative kind of soul, and to the faculty of growth was added that of sense, which stands midway, if we regard its peculiar nature, between the intellectual and the more material essence being as much coarser than the one as it is more refined than the other: then takes place a certain alliance and commixture of the intellectual essence with the subtle and enlightened element of the sensitive nature: so that man consists of these three: as we are taught the like thing by the apostle in what he says to the Ephesians<sup>1611</sup>, praying for them that the complete grace of their “body and soul and spirit” may be preserved at the coming of the Lord; using, the word “body” for the nutritive part, and denoting the sensitive by the word “soul,” and the intellectual by “spirit.” Likewise too the Lord instructs the scribe in the Gospel that he should set before every commandment that love to God which is exercised with all the heart and soul and mind<sup>1612</sup>: for here also it seems to me that the phrase indicates the same difference,
 
-161\. 0 *Earlier,* i.e. earlier than the animal life, or “sensitive” soul. The reference is really to 1 Thess. v. 23. Apparently all Forbes’ mss. read πρὸς τοὺς ᾽Εφεσίους: but the 1611 Latin version of Dionysius Exiguus corrects the error, giving the quotation at greater length. Cf. S. Mark xii. 30 ψυχικὴν: “psychic” or “animal:”—the Authorised Version translates the word by “natural.” 1613 1614 Cf. 1 Cor. iii. 3. 1615 Cf. 1 Cor. ii. 14, 15. 1616 The Latin versions make ch. ix. begin at this point. The Bodleian ms. gives as its title:—“That the form of the human body agrees with the rationality of the mind.” It is not absolutely clear whether λόγος in the following passage means *speech* or *reason*—and whether 1617 λογικὸς means “capable of speech,” or “rational.” But as λογικὸς in §7 clearly has the force of “rational,” it would seem too abrupt a transition to make it mean “capable of speech” in the first line of §8, and this may determine the meaning of λόγος. Reading τῶν for τὸν, with some of Forbes’ mss.
+1610 *Earlier,* i.e. earlier than the animal life, or “sensitive” soul. The reference is really to 1 Thess. v. 23. Apparently all Forbes’ mss. read πρὸς τοὺς ᾽Εφεσίους: but the 1611 Latin version of Dionysius Exiguus corrects the error, giving the quotation at greater length. Cf. S. Mark xii. 30 ψυχικὴν: “psychic” or “animal:”—the Authorised Version translates the word by “natural.” 1613 1614 Cf. 1 Cor. iii. 3. 1615 Cf. 1 Cor. ii. 14, 15. 1616 The Latin versions make ch. ix. begin at this point. The Bodleian ms. gives as its title:—“That the form of the human body agrees with the rationality of the mind.” It is not absolutely clear whether λόγος in the following passage means *speech* or *reason*—and whether 1617 λογικὸς means “capable of speech,” or “rational.” But as λογικὸς in §7 clearly has the force of “rational,” it would seem too abrupt a transition to make it mean “capable of speech” in the first line of §8, and this may determine the meaning of λόγος. Reading τῶν for τὸν, with some of Forbes’ mss.
 
 
 *[p. 729]* ^pg750
@@ -298,7 +298,7 @@ IX. *That the form of man was framed to serve as an instrument for the use of re
 
 3\. Now the music of the human instrument is a sort of compound of flute and lyre, sounding together in combination as in a concerted piece of music. For the breath, as it is forced up from the air-receiving vessels through the windpipe, when the speaker’s impulse to utterance attunes the harmony to sound, and as it strikes against the internal protuberances which divide this flute-like passage in a circular arrangement, imitates in a way the sound uttered through a flute, being driven round and round by the membranous projections. But the palate receives the sound from below in its own concavity, and dividing the sound by the two passages that extend to the nostrils, and by the cartilages about the perforated bone, as it were by some scaly protuberance, makes its resonance louder; while the cheek, the tongue, the mechanism of the pharynx by which the chin is relaxed when drawn in, and tightened when extended to a point—all these in many different ways answer to the motion of the plectrum upon the strings, varying very quickly, as occasion requires, the arrangement of the tones; and the opening and closing of the lips has the same effect as players produce when they check the breath of the flute with their fingers according to the measure of the tune.
 
-161\. 9 This and part of the next chapter, according to the division of the Greek, are included in the ninth chapter of the Latin Version. 395
+1619 This and part of the next chapter, according to the division of the Greek, are included in the ninth chapter of the Latin Version. 395
 
 
 *[p. 732]* ^pg753
@@ -317,7 +317,7 @@ X. *That the mind works by means of the senses.*
 
 5\. And as, to follow the illustration of the city, it may often be that those who are of the same family and kindred do not enter by the same gate, coming in by different entrances, as it may happen, but are none the less, when they come within the circuit of the wall, brought together again, being on close terms with each other (and one may find the contrary happen; for those who are strangers and mutually unknown often take one entrance to the
 
-162\. 0 Here the Latin version begins chapter x. The title in the Bodleian ms. is:—“Of the five bodily senses.” 1621 That is, of the mind, in connection with reason. Cf. Eccles. i. 8. The quotation is not from the LXX.: it is perhaps not intended to be verbal.
+1620 Here the Latin version begins chapter x. The title in the Bodleian ms. is:—“Of the five bodily senses.” 1621 That is, of the mind, in connection with reason. Cf. Eccles. i. 8. The quotation is not from the LXX.: it is perhaps not intended to be verbal.
 
 
 *[p. 733]* ^pg754
@@ -356,7 +356,7 @@ confine the intelligible energy to certain bodily organs; of whom some lay it do
 
 2\. Each of those who uphold these views puts forward some reasons of a more physical character on behalf of his opinion concerning the ruling principle. One declares that the motion which proceeds from the understanding is in some way akin to the nature of fire, because fire and the understanding are alike in perpetual motion; and since heat is allowed to have its source in the region of the heart, he says on this ground that the motion of mind is compounded with the mobility of heat, and asserts that the heart, in which heat is enclosed, is the receptacle of the intelligent nature. The other declares that the cerebral membrane (for so they call the tissue that surrounds the brain) is as it were a foundation or root of all the senses, and hereby makes good his own argument, on the ground that the intellectual energy cannot have its seat save in that part where the ear, connected with it, comes into concussion with the sounds that fall upon it, and the sight (which naturally belongs to the hollow of the place where the eyes are situated) makes its internal representation by means of the images that fall upon the pupils, while the qualities of scents are discerned in it by being drawn in through the nose, and the sense of taste is tried by the test of the cerebral membrane, which sends down from itself, by the veterbræ of the neck, sensitive nerve-processes to the isthmoidal passage, and unites them with the muscles there.
 
-162\. 6 In the Latin version chap. xii. includes only §§1—8 (incl.), to which the Bodleian ms. gives the title:—“That the principle of man does not all reside in the brain, but in the whole body.” This view of the position of the heart is perhaps shared by Gregory himself: see *e.g.* ch. xxx. §15. 397 διὰ τῶν κατὰ τὴν βάσιν πόρων. The meaning of this is obscure. If we might read τῶν κατὰ τὴν ὀψιν 1628 πόρων, we should have a parallel to τοῦ κατὰ τὸ στόμα πόρου below. But there seems to be no variation in the mss.
+1626 In the Latin version chap. xii. includes only §§1—8 (incl.), to which the Bodleian ms. gives the title:—“That the principle of man does not all reside in the brain, but in the whole body.” This view of the position of the heart is perhaps shared by Gregory himself: see *e.g.* ch. xxx. §15. 397 διὰ τῶν κατὰ τὴν βάσιν πόρων. The meaning of this is obscure. If we might read τῶν κατὰ τὴν ὀψιν 1628 πόρων, we should have a parallel to τοῦ κατὰ τὸ στόμα πόρου below. But there seems to be no variation in the mss.
 
 
 *[p. 736]* ^pg757
@@ -381,7 +381,7 @@ the moisture in the form of drops (and the drop is called a tear), so I would ha
 
 8\. And although I am aware that the intellectual energies are blunted, or even made altogether ineffective in a certain condition of the body, I do not hold this a sufficient evidence for limiting the faculty of the mind by any particular place, so that it should be forced out of its proper amount of free space by any inflammations that may arise in the neighbouring parts of the body<sup>1630</sup> (for such an opinion is a corporeal one, that when the receptacle is already occupied by something placed in it, nothing else can find place there); for the intelligible nature neither dwells in the empty spaces of bodies, nor is extruded by encroachments of the flesh; but since the whole body is made like some musical instrument, just as it often happens in the case of those who know how to play, but are unable, because the unfitness of the instrument does not admit of their art, to show their skill (for that which is destroyed by time, or broken by a fall, or rendered useless by rust or decay, is mute and inefficient, even if it be breathed upon by one who may be an excellent artist in flute-playing); so too the mind, passing over the whole instrument, and touching each of the parts in a mode corresponding to its intellectual activities, according to its nature, produces its proper effect on those parts which are in a natural condition, but remains inoperative and ineffective upon those which are unable to admit the movement of its art; for the mind is somehow naturally adapted to be in close relation with that which is in a natural condition, but to be alien from that which is removed from nature.
 
-162\. 9 Ps. vii. 10. The inflammation causing swelling in the neighbouring parts, and so leaving no room for the mind.
+1629 Ps. vii. 10. The inflammation causing swelling in the neighbouring parts, and so leaving no room for the mind.
 
 
 *[p. 738]* ^pg759
@@ -392,7 +392,7 @@ the moisture in the form of drops (and the drop is called a tear), so I would ha
 
 10\. Thus so long as one keeps in touch with the other, the communication of the true beauty extends proportionally through the whole series, beautifying by the superior nature that which comes next to it; but when there is any interruption of this beneficent connection, or when, on the contrary, the superior comes to follow the inferior, then is displayed the misshapen character of matter, when it is isolated from nature (for in itself matter is a thing without form or structure), and by its shapelessness is also destroyed that beauty of nature with which<sup>1634</sup> it is adorned through the mind; and so the transmission of the ugliness of matter reaches through the nature to the mind itself, so that the image of God is no longer seen in the figure expressed by that which was moulded according to it; for the mind, setting the idea of good like a mirror behind the back, turns off the incident rays of the effulgence of the good, and it receives into itself the impress of the shapelessness of matter.
 
-163\. 1 The Latin version (as well as several of the Greek mss.) makes this the beginning of chap. xiii. The Bodleian ms. gives as the title:—“That as the mind is governed by God, so is the material life of the body by the mind.” καλὸν and τὸ καλὸν seem in the following passage to be used of goodness, alike moral and aesthetic: 1632 once or twice καλὸν seems to be used as equivalent to ἀγαθὸν or as opposed to κακὸν, in a sense capable of being rendered simply by “good”; it also seems to carry with it in other phrases the distinct idea of *aesthetic* goodness, or “beauty,” and the use of κάλλος and καλλωπίζειν, in other phrases still, makes it necessary to preserve this idea in translation. The phrases “beautiful and good,” or “beauty and goodness,” have therefore been here adopted to express the single adjective καλὸν. Omitting τοῦ, which Forbes inserts before κατακοσμεῖσθαι: it appears to be found in all the mss., but 1633 its insertion reduces the grammar of the passage to hopeless confusion. Perhaps the true reading is τοῦ πρωτοτύπου καλλιστοῦ Reading ᾧ, with several of Forbes’ mss., for the ἥof the Paris ed., and the ὅ of Forbes’ text.
+1631 The Latin version (as well as several of the Greek mss.) makes this the beginning of chap. xiii. The Bodleian ms. gives as the title:—“That as the mind is governed by God, so is the material life of the body by the mind.” καλὸν and τὸ καλὸν seem in the following passage to be used of goodness, alike moral and aesthetic: 1632 once or twice καλὸν seems to be used as equivalent to ἀγαθὸν or as opposed to κακὸν, in a sense capable of being rendered simply by “good”; it also seems to carry with it in other phrases the distinct idea of *aesthetic* goodness, or “beauty,” and the use of κάλλος and καλλωπίζειν, in other phrases still, makes it necessary to preserve this idea in translation. The phrases “beautiful and good,” or “beauty and goodness,” have therefore been here adopted to express the single adjective καλὸν. Omitting τοῦ, which Forbes inserts before κατακοσμεῖσθαι: it appears to be found in all the mss., but 1633 its insertion reduces the grammar of the passage to hopeless confusion. Perhaps the true reading is τοῦ πρωτοτύπου καλλιστοῦ Reading ᾧ, with several of Forbes’ mss., for the ἥof the Paris ed., and the ὅ of Forbes’ text.
 
 
 *[p. 739]* ^pg760
@@ -419,7 +419,7 @@ XIII. *A Rationale of sleep, of yawning, and of dreams*<sup>1635</sup>.
 
 3\. Further, rest at proper times is necessary for the framework of the body, that the nutriment may be diffused over the whole body through the passages which it contains, without any strain to hinder its progress. For just as certain misty vapours are drawn up from the recesses of the earth when it is soaked with rain, whenever the sun heats it with rays of any considerable warmth, so a similar result happens in the earth that is in us, when the nutriment within is heated up by natural warmth; and the vapours, being naturally of upward tendency and airy nature, and aspiring to that which is above them, come to be in the region of the head like smoke penetrating the joints of a wall: then they are dispersed thence by exhalation to the passages of the organs of sense, and by them the senses are of course rendered inactive, giving way to the transit of these vapours. For the eyes are pressed upon by the eyelids when
 
-163\. 5 The Latin version (and with it several of the Greek mss.) makes this the fourteenth chapter. The Bodleian ms. gives as its title:—“That our body is always in motion.” Life is represented as a succession of opposite states (τῶν ἐναντίων διαδοχὴ), which yet recur again and again in the same sequence (διὰ τῶν ὁμοίων). This is illustrated in the following section. 400 Reading μηχανῆς with the earlier editions and (apparently) a large number of Forbes’ mss. in place of 1637 μηχανικῆς. But μολυβδίνης may be for μολυβδαίνης Reading δείκνυσιν, as Forbes does (apparently from all the mss. and agreeing with the earlier editt.). The Latin translation points to the reading δείκνυται
+1635 The Latin version (and with it several of the Greek mss.) makes this the fourteenth chapter. The Bodleian ms. gives as its title:—“That our body is always in motion.” Life is represented as a succession of opposite states (τῶν ἐναντίων διαδοχὴ), which yet recur again and again in the same sequence (διὰ τῶν ὁμοίων). This is illustrated in the following section. 400 Reading μηχανῆς with the earlier editions and (apparently) a large number of Forbes’ mss. in place of 1637 μηχανικῆς. But μολυβδίνης may be for μολυβδαίνης Reading δείκνυσιν, as Forbes does (apparently from all the mss. and agreeing with the earlier editt.). The Latin translation points to the reading δείκνυται
 
 
 *[p. 741]* ^pg762
@@ -460,7 +460,7 @@ strings a sort of uncertain and indistinct hum; so in sleep the mechanism of the
 
 401 Reading ἐπιδιστάζουσα with several of Forbes’ mss. 1639
 
-164\. 0 “The holy men,” Joseph and Daniel, who were enabled, by the authority they obtained through their interpretation of dreams, to benefit the state.
+1640 “The holy men,” Joseph and Daniel, who were enabled, by the authority they obtained through their interpretation of dreams, to benefit the state.
 
 
 *[p. 744]* ^pg765
@@ -489,7 +489,7 @@ XIV. *That the mind is not in a part of the body; wherein also is a distinction 
 
 3\. Thus, neither is there perception without material substance, nor does the act of perception take place without the intellectual faculty.
 
-164\. 1 This is chapter xv. in the Latin version and some Greek mss. The Bodleian ms. of the Latin gives the title:—“That the mind is sometimes in servitude to the body, and of its three differences, vital, spiritual, and rational.”
+1641 This is chapter xv. in the Latin version and some Greek mss. The Bodleian ms. of the Latin gives the title:—“That the mind is sometimes in servitude to the body, and of its three differences, vital, spiritual, and rational.”
 
 
 *[p. 746]* ^pg767
@@ -504,7 +504,7 @@ XV. *That the soul proper, in fact and name, is the rational soul, while the oth
 
 3\. The course of our argument, however, has diverged to another point: for the subject of our speculation was not the fact that the energy of mind is of more dignity among the attributes we conceive in man than the material element of his being, but the fact that the
 
-164\. 2 Otherwise chap. xvi. The Bodleian ms. of the Latin version gives the title:—“That the vital energy of the irrational creatures is not truly but equivocally called ‘soul’, and of the unspeakable communion of body and soul.” τῇ τῆς ψυχῆς κλήσει συγκεκριμένη. The meaning is apparently something like that given; but if we 1643 might read συγκεχρημένη the sense of the passage would be much plainer. Reading φυτικής for φυσικῆς as before, ch. 8, §4 (where see note). 1644 Cf. Gen. ix. 3. The quotation, except the last few words, is not verbally from the LXX. It does not seem of much consequence whether we read περιλαμβάνεται with Forbes and the mss., and 1646 treat it as of the middle voice, or περιλαμβάνει τι with the Paris Editt. The reading περιλαμβάνεται, taken *passively,* obscures the sense of the passage.
+1642 Otherwise chap. xvi. The Bodleian ms. of the Latin version gives the title:—“That the vital energy of the irrational creatures is not truly but equivocally called ‘soul’, and of the unspeakable communion of body and soul.” τῇ τῆς ψυχῆς κλήσει συγκεκριμένη. The meaning is apparently something like that given; but if we 1643 might read συγκεχρημένη the sense of the passage would be much plainer. Reading φυτικής for φυσικῆς as before, ch. 8, §4 (where see note). 1644 Cf. Gen. ix. 3. The quotation, except the last few words, is not verbally from the LXX. It does not seem of much consequence whether we read περιλαμβάνεται with Forbes and the mss., and 1646 treat it as of the middle voice, or περιλαμβάνει τι with the Paris Editt. The reading περιλαμβάνεται, taken *passively,* obscures the sense of the passage.
 
 
 *[p. 747]* ^pg768
@@ -529,7 +529,7 @@ XVI. *A contemplation of the Divine utterance which said—“Let us make man af
 
 4\. How then is man, this mortal, passible, shortlived being, the image of that nature which is immortal, pure, and everlasting? The true answer to this question, indeed, perhaps only the very Truth knows: but this is what we, tracing out the truth so far as we are capable by conjectures and inferences, apprehend concerning the matter. Neither does the word of God lie when it says that man was made in the image of God, nor is the pitiable suffering of man’s nature like to the blessedness of the impassible Life: for if any one were to compare
 
-164\. 7 Otherwise chap. xvii. The title in the Bodleian ms. of the Latin Version is:—“That the excellence of man does not consist in the fact that, according to philosophers, he is made after the image of the world, but in the fact that he is made in the image of God, and how he is made in the image of God.”
+1647 Otherwise chap. xvii. The title in the Bodleian ms. of the Latin Version is:—“That the excellence of man does not consist in the fact that, according to philosophers, he is made after the image of the world, but in the fact that he is made in the image of God, and how he is made in the image of God.”
 
 
 *[p. 749]* ^pg770
@@ -548,9 +548,9 @@ our nature with God, one of two things must needs be allowed in order that the d
 
 9\. I think that by these words Holy Scripture conveys to us a great and lofty doctrine; and the doctrine is this. While two natures—the Divine and incorporeal nature, and the irrational life of brutes—are separated from each other as extremes, human nature is the mean
 
-164\. 9 Gen. i. 27.
+1649 Gen. i. 27.
 
-165\. 0 Gen. i. 27. 1651 Cf. Gal. iii. 28 1652 Gen. i. 27.
+1650 Gen. i. 27. 1651 Cf. Gal. iii. 28 1652 Gen. i. 27.
 
 
 *[p. 750]* ^pg771
@@ -579,7 +579,7 @@ remains the same, while the created nature cannot exist without change; for its 
 
 16\. What is it then which we understand concerning these matters? In saying that “God created man” the text indicates, by the indefinite character of the term, all mankind; for was not Adam here named together with the creation, as the history tells us in what follows<sup>1657</sup>? yet the name given to the man created is not the particular, but the general name: thus we are led by the employment of the general name of our nature to some such view as this—that in the Divine foreknowledge and power all humanity is included in the first creation; for it
 
-165\. 5 Cf. S. Matt. xxii. 20, 21. 1656 Hist. Sus. 42. 1657 The punctuation followed by Forbes here does not seem to give a good sense, and also places S. Gregory in the position of formally stating that one passage of Genesis contradicts another. By substituting an interrogation after ἡ ἱστορία φησίν, the sense given is this:—we know from a later statement in Genesis that the name Adam was given “in the day that they were created” (Gen. v. 2), but here the name given is *general,* not *particular.* There must be a reason for this, and the reason is, that the race of man, and not the individual, is that spoken of as “created in the image of God.” With this view that all humanity is included in the first creation may be compared a passage near the end of the *De Animâ,* where the first man is compared to a full ear of corn, afterwards “divided into a multitude of bare grain.”
+1655 Cf. S. Matt. xxii. 20, 21. 1656 Hist. Sus. 42. 1657 The punctuation followed by Forbes here does not seem to give a good sense, and also places S. Gregory in the position of formally stating that one passage of Genesis contradicts another. By substituting an interrogation after ἡ ἱστορία φησίν, the sense given is this:—we know from a later statement in Genesis that the name Adam was given “in the day that they were created” (Gen. v. 2), but here the name given is *general,* not *particular.* There must be a reason for this, and the reason is, that the race of man, and not the individual, is that spoken of as “created in the image of God.” With this view that all humanity is included in the first creation may be compared a passage near the end of the *De Animâ,* where the first man is compared to a full ear of corn, afterwards “divided into a multitude of bare grain.”
 
 
 *[p. 752]* ^pg773
@@ -592,7 +592,7 @@ is fitting for God not to regard any of the things made by Him as indeterminate,
 
 18\. For this reason the whole race was spoken of as one man, namely, that to God’s power nothing is either past or future, but even that which we expect is comprehended, equally with what is at present existing, by the all-sustaining energy. Our whole nature, then, extending from the first to the last, is, so to say, one image of Him Who is; but the distinction of kind in male and female was added to His work last, as I suppose, for the reason which follows<sup>1659</sup>.
 
-165\. 8 With this passage, again, may be compared the teaching of the *De Animâ* on the subject of the Resurrection. The explanation of the reason, however, is deferred; see xvii. 4.
+1658 With this passage, again, may be compared the teaching of the *De Animâ* on the subject of the Resurrection. The explanation of the reason, however, is deferred; see xvii. 4.
 
 
 *[p. 753]* ^pg774
@@ -605,4 +605,4 @@ XVII. *What we must answer to those who raise the question—“If procreation i
 
 2\. Now here again the true answer, whatever it may be, can be clear to those only who, like Paul, have been instructed in the mysteries of Paradise; but our answer is as follows. 406 When the Sadducees once argued against the doctrine of the resurrection, and brought forward, to establish their own opinion, that woman of many marriages, who had been wife to seven brethren, and thereupon inquired whose wife she will be after the resurrection, our Lord answered their argument so as not only to instruct the Sadducees, but also to reveal to all that come after them the mystery of the resurrection-life: “for in the resurrection,” He says, “they neither marry, nor are given in marriage; neither can they die any more, for they are equal to the angels, and are the children of God, being the children of the resurrection<sup>1661</sup>.” Now the resurrection promises us nothing else than the restoration of the fallen to their ancient state; for the grace we look for is a certain return to the first life, bringing back again to Paradise him who was cast out from it. If then the life of those restored is closely related to that of the angels, it is clear that the life before the transgression was a kind of angelic life, and hence also our return to the ancient condition of our life is compared to the angels. Yet while, as has been said, there is no marriage among them, the armies of the angels are in countless myriads; for so Daniel declared in his visions: so, in the same way, if there had not come upon us as the result of sin a change for the worse, and removal from equality with the angels, neither should we have needed marriage that we might multiply; but whatever the mode of increase in the angelic nature is (unspeakable and inconceivable by human conjectures, except that it assuredly exists), it would have operated also in the
 
-166\. 0 Otherwise Chap. xviii. The Bodleian ms. of the Latin version has the title:—“Against those who say that sin was a useful introduction for the propagation of the human race; and that by sin it deserved animal generation.” S. Luke xx. 35, 36.
+1660 Otherwise Chap. xviii. The Bodleian ms. of the Latin version has the title:—“Against those who say that sin was a useful introduction for the propagation of the human race; and that by sin it deserved animal generation.” S. Luke xx. 35, 36.

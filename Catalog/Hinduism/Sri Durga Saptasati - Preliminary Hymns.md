@@ -17,8 +17,7 @@ language:
   - English
 pages: 26
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[DURGA700_INTRO_TRANS.pdf]]"
   - "[[Library/Hinduism/Durga Saptasati - Preliminary Hymns (text)]]"

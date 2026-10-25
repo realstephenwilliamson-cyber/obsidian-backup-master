@@ -17,8 +17,7 @@ language:
   - English
 pages: 272
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Swami Satyananda Saraswati - Yoga Nidra-Yoga Publications Trust, Munger, Bihar, India (2009).pdf]]"
 aliases:

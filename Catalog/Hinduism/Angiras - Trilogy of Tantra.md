@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 145
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Angiras - Trilogy of Tantra (1989).pdf]]"
 aliases:

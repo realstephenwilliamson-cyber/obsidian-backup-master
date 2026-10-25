@@ -18,8 +18,7 @@ language:
   - English
 pages: 443
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Other/Homer - The Odyssey of Homer (1965).pdf]]"
   - "[[Library/Other/The Odyssey of Homer (Homer)/The Odyssey of Homer (Homer)]]"

@@ -17,8 +17,7 @@ language:
   - English
 pages: 289
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Harrison - Hobbes, Locke, and Confusion's Masterpiece (CUP 2003).pdf]]"
   - "[[Library/Philosophy/Hobbes, Locke, and Confusion's Masterpiece (Harrison)/Hobbes, Locke, and Confusion's Masterpiece (Harrison)]]"

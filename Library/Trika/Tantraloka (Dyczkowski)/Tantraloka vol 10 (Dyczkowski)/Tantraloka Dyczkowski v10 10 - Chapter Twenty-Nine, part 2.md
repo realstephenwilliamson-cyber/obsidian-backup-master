@@ -32,7 +32,7 @@ Kuleśvarī and Kuleśvara in the Centre
 
 mantrasiddhaprāṇasarivitkaraṇātmani yā kule ॥ 46 ॥
 cakrātmake citiḥ prabhvī proktā seha kuleśvarī |
-sā madhye śrīparā devī mātṛsadbhāvarūpinī |l 47 ॥
+sā madhye śrīparā devī mātṛsadbhāvarūpinī ॥ 47 ॥
 pūjyā ‘tha tatsamāropād aparātha parāparā |
 ekavīrā ca sā pūjyā yadi vā sakuleśvarā ॥ 48 ॥ 
 
@@ -61,7 +61,7 @@ Surely (one may ask), what difference is there in worshipping with the liturgy o
 prasarecchaktir ucchūnā sollāso bhairavaḥ punaḥ |
 saṁghaṭṭānandaviśrāntyā yugmam itthańn prapūjayet ॥ 49 ॥
 mahāprakāśarūpāyāḥ sańivido visphuliṁgavat |
-yo raśmyoghas tam evātra pūjayed devatāgaṇam II 50 ॥ 
+yo raśmyoghas tam evātra pūjayed devatāgaṇam ॥ 50 ॥ 
 
 Śakti, swollen (with passion) (ucchūnā), flows forth, and Bhairava pours out with enthusiasm (to unite with her) — one should worship the couple in this way by resting in the bliss of (their) union. A stream of rays emerges like sparks from (their united) consciousness, which is the Great Light. That is the host of (attendant) deities one should worship here. (49- 50) 
 
@@ -87,7 +87,7 @@ the Groups of Four, and Sixty-four Yoginīs
 चतुष्क वा यथेच्छं वा का सङ्ख्या किल रश्मिषु ॥ ५९ ॥
 
 antardvādaśakari piijyam ! tato ‘ṣtāṣtakameva ca |
-catuṣkaṁ vā yathecchaṁ vā kā saṁkhyā kila raśmiṣu ॥ 51 Il 
+catuṣkaṁ vā yathecchaṁ vā kā saṁkhyā kila raśmiṣu ॥ 51 ॥ 
 
 One should worship the inner group of twelve, and then the group of eight times eight, or else the group of four, as one prefers. Indeed, what (limit can there be to) the number of rays (of light)? (51) 
 
@@ -147,7 +147,7 @@ tā digvibhāgenāha ----
 
 He describes them according to the divisions of space. 
 
-1\) (southeast) brāhmī kamalapatrābhā divyābharanabhūṣitā Il 1018 ॥
+1\) (southeast) brāhmī kamalapatrābhā divyābharanabhūṣitā ॥ 1018 ॥
 āgneyyāṁ disi devesi sthitā vai śrīr ivāparā |
 2) (northeast) śaṁkhagokṣīrasaṅkāśā tv aiśānyāṁ tu varānane ॥ 1019
 ॥
@@ -162,14 +162,14 @@ sivenaivādhiṣṭhitā satī iyan dhyātā, na tu viṣṇunā | pratyutaitasy
 
 \*1) Brāhmī, who is (radiant and beautiful) like the petals of a lotus, is adorned with divine ornaments. O mistress of the gods, as if another goddess Śrī, she is located in the southeast direction. 2) O fair faced lady, in the northeast, (white) like a conch or cow milk, is Māheśvarī, who possesses great radiant energy and is worshipped by the gods. 3) Kaumārī, (who shines) like the calix of a lotus, is adorned with a necklace and bracelets, and, in the northern quarter, O mistress of the gods, is worshipped by passionate young women (kāminī). 4) (Beautiful) like a pleasing blue lotus, she is adorned with a necklace and earrings. In the southern quarter she worships the Supreme Lord. She is called Vaiṣṇavī, (and abides along) with Śiva, the Supreme Soul.’ (10/1018cd-1022) 
 
-Ksemarāja: This (Mother) is contemplated as presided over by Śiva, not by Viṣṇu. Rather, on the conary \^ Viṣṇu’s state (as Visnu) is because he is presided over by a limb of this power of that Siva). 
+Kṣemarāja: This (Mother) is contemplated as presided over by Śiva, not by Viṣṇu. Rather, on the conary \^ Viṣṇu’s state (as Viṣṇu) is because he is presided over by a limb of this power of that Siva). 
 
 (Lord 
 
 5\) (south) nīlajīmūtasaṅkāśā sarvābharaṇabhūṣitā |
 vārunyāṁ disi devesi vārāhī paryupasthitā ॥ 1023 ॥
 6) (east)śaṁkhakundendudhavalā hārakundalamanditā |
-aindryāṁ disi ca sā devī indrānṇī paryupasthitā I| 1024 ॥
+aindryāṁ disi ca sā devī indrānṇī paryupasthitā ॥ 1024 ॥
 7) (southwest) karālavadanā dīptā sarvābharaṇabhūṣitā |
 nairrtyāṁ disi cīmundā upāste parameśvaram I| 1025 ॥ 
 
@@ -177,8 +177,8 @@ nairrtyāṁ disi cīmundā upāste parameśvaram I| 1025 ॥
 
 ### TĀ 29.52–53
 
-etāḥ sapta parivārabhūtāḥ, umā tu devī bhagavataḥ śarīrārdhasthāṣtamī | saiva yogeśvarī yasyā etāḥ prapañcaḥ | yad vakṣyati "umaiva saptadhā bhūtvā" (10/1029) iti | ata eva pūrvam ---- "mātṛkā bhairavarn devam avargenṇa prapūjayet |
-bhairavī kādinā pūjyā mātRrvargaih prapūjyet ॥ (1/34) 
+etāḥ sapta parivārabhūtāḥ, umā tu devī bhagavataḥ śarīrārdhasthāṣtamī | saiva yogeśvarī yasyā etāḥ prapañcaḥ | yad vakṣyati "umaiva saptadhā bhūtvā" (10/1029) iti | ata eva pūrvam ---- "mātṛkā bhairavaṁ devam avargenṇa prapūjayet |
+bhairavī kādinā pūjyā mātṚrvargaiḥ prapūjyet ॥ (1/34) 
 
 *[p. 249]* ^pg266
 
@@ -339,7 +339,7 @@ In order to attain both worldly benefits (bhoga) and liberation, one must worshi
 
 " 
 
-142\. JY 4/20/59 (MS K fl. 139b, Kh fl. 119b, G fl. 1719). JY 4/20/59. These three references are drawn from JY 4/20/59 (MS K fl. 139b, Kh fl. 119b, G fl. 171a) (beginning sṛstikramarm), ), 61cd (MS K fl. 139b, Kh fl. 119b, G fl. 1719) (beginning sa kālīkula..), 78 (MS K fl. 140b, Kh fl. 120a, G fl. 172a fl) (beginning pīṭhakramena) sṛstikramar tu prathamarn avatārar dvitīyakam | saṁārar tu (tṛttyam syādarinākhyeyaṁ \[kh g: syādanā-\] caturthakam ॥ 59 ॥ sa kālikulasabhūto bhāvanā bhāvaya \[kh: -ye; g: ?\] sphuṭaḥ \[g: 21॥ 61 | fl 120a: evar krameṣu cāmnāyaṁ saṁkaṁyākhyātyadhiṣthitam \[kh g: -khyātva-\] | tair vinā na bhavet siddhistatpadari \[kh g: siddhihtat-\] kathayāmi te ॥ 78 ॥ After this verse: Íkh: + iti; g: +cha \\\\\] jayadrathayāmale kālikule \[kh: -kula\] kramanirnayo nāma \[g: +| cha Il) ॥ Note that Jayaratha observes that ‘according to the Devyāyāmala, the group of four consists of the three goddesses (of the Trika) and the venerable Saṁkarṣinī.” Jayaratha says this because he was well that integration of the Krama with Trika in this or, indeed, any other way, is unknown to the JY. In other words, at the scriptural level Krama may be integrated with Trika, but not Trika with Krama. Thus, where this occurs is invariably a Trika Tantra. Another possibility that Abhinava did not consider and may well not have witnessed is that the two, Trika and Krama, may be integrated into a third that incorporates both, as we find in the Kubjikā Tantras.
+142\. JY 4/20/59 (MS K fl. 139b, Kh fl. 119b, G fl. 1719). JY 4/20/59. These three references are drawn from JY 4/20/59 (MS K fl. 139b, Kh fl. 119b, G fl. 171a) (beginning sṛstikramarm), ), 61cd (MS K fl. 139b, Kh fl. 119b, G fl. 1719) (beginning sa kālīkula..), 78 (MS K fl. 140b, Kh fl. 120a, G fl. 172a fl) (beginning pīṭhakramena) sṛstikramar tu prathamaṁ avatārar dvitīyakam | saṁārar tu (tṛttyam syādarinākhyeyaṁ \[kh g: syādanā-\] caturthakam ॥ 59 ॥ sa kālikulasabhūto bhāvanā bhāvaya \[kh: -ye; g: ?\] sphuṭaḥ \[g: 21॥ 61 | fl 120a: evar krameṣu cāmnāyaṁ saṁkaṁyākhyātyadhiṣthitam \[kh g: -khyātva-\] | tair vinā na bhavet siddhistatpadari \[kh g: siddhihtat-\] kathayāmi te ॥ 78 ॥ After this verse: Íkh: + iti; g: +cha \\\\\] jayadrathayāmale kālikule \[kh: -kula\] kramanirnayo nāma \[g: +| cha Il) ॥ Note that Jayaratha observes that ‘according to the Devyāyāmala, the group of four consists of the three goddesses (of the Trika) and the venerable Saṁkarṣinī.” Jayaratha says this because he was well that integration of the Krama with Trika in this or, indeed, any other way, is unknown to the JY. In other words, at the scriptural level Krama may be integrated with Trika, but not Trika with Krama. Thus, where this occurs is invariably a Trika Tantra. Another possibility that Abhinava did not consider and may well not have witnessed is that the two, Trika and Krama, may be integrated into a third that incorporates both, as we find in the Kubjikā Tantras.
 
 143\. JY 4/20/61cd.
 
@@ -358,7 +358,7 @@ He (now) states the location (pada) of the sacred seats in the body (as taught) 
 न्यस्यत्वेन विधिं देहे पीठाख्यं पारमेश्वरम् ॥ ५८ ॥
 
 ātmano vā ‘thavā śakteś cakrasyātha smared imam |
-nyasyatvena vidhirn dehe pithakhyam ! pārameśvaram || 58 ॥ 
+nyasyatvena vidhiṁ dehe pithakhyam ! pārameśvaram || 58 ॥ 
 
 This procedure is called that of the sacred seats, (and is taught by) the Supreme Lord (parameśvara). One should recollect it as that of the (outer) circle (cakra) (of sacred seats), that should be deposited onto the body, whether one’s own or that of the (Kaula) consort (śakti). (58) 
 
@@ -378,7 +378,7 @@ This procedure is called that of the sacred seats, (and is taught by) the Suprem
 कुड्याकेशी च सोपारं मायाप्षीरके तथा ॥ ६२ ॥
 जानुज॑े गृल्फयुम्मे तवाम्रतनृपसदमनी पादाधारे तु वैरिज्ी कालागन्यवधिधारिकाम् ॥ ६३ ॥
 
-aṭtahāsarni śikhāsthāne caritrarn ca karandhrake |
+aṭtahāsarni śikhāsthāne caritraṁ ca karandhrake |
 śrutyoḥ kaulagirin nāsārandhryoś ca jayantikām ॥ 59 ॥ 
 
 144\. Read sarkarṣnyākhyātyadhiṣṭitam for sarikarṣanyā tv adhiṣṭitam. MS K reads saṁkaṁyā-. MSs Kh and G -saṁkaṁyākhyātva-.
@@ -389,7 +389,7 @@ aṭtahāsarni śikhāsthāne caritrarn ca karandhrake |
 *[p. 255]* ^pg272
 
 bhruvor ujjayinīr vaktre prayāgari hṛdaye punaḥ |
-vardnasim skandhayuge śrīpīthaṁ virajarn gale ॥ 60 ॥
+vardnasim skandhayuge śrīpīthaṁ virajaṁ gale ॥ 60 ॥
 edābhīm udare ॥ halara ! nābhau kande tu gośrutim |
 upasthe marukośaṁ ca nagaram paundravardhanam || 61 ॥
 elāpuram purastīraṁ sakthyūrvor dakṣiṇāditaḥ |
@@ -397,7 +397,7 @@ kudyākeśīr ca sopāraṁi māyāpūkṣīrake tathā ॥ 62 ॥
 jānujaṁghe gulphayugme tv āmratanṛpasadmanī |
 pādādhāre tu vairiñcīṁ kālāgnyavadhidhārikām ॥ 63 ॥ 
 
-1\) Aṭttahāsa is in the location of the topknot (sikhd). ). 2) Caitra is in the Aperture of Space (karandhra). 3) Kaulagiri is in the ears. 4) Jayantikā is in the nostrils. 5) Ujjayanī is the eyebrows. 6) Prayāga is in the mouth. 7) Vārāṇasī is in the heart. 8) Śrīpītha is on the two shoulders. 9) Viraja is on the neck. 10) Edābhī is on the stomach. 11) Hālā'“ is in the navel. 12) Gośruti is in the bulb (kanda). 13) Merukośa is in the genitals. 14-55) Nagara and Pauṇdravardhana are on the right and left buttock. 16- 17) “Elāpura and Purastīra are on the right and left thigh. 18-19) Kudyākeśī and Sopāra'“ are on the right and left knees. 20-21) Māyāpura and Kṣīraka are on the right and left shank. 22-23) Āmrātakeśvara and Rājagṁa are on the right and left ankles. 24) Vairiñcī is on the soles of the feet and sustains all things up to Kālāgnī."” (59-63) 
+1\) Aṭṭahāsa is in the location of the topknot (sikhd). ). 2) Caitra is in the Aperture of Space (karandhra). 3) Kaulagiri is in the ears. 4) Jayantikā is in the nostrils. 5) Ujjayanī is the eyebrows. 6) Prayāga is in the mouth. 7) Vārāṇasī is in the heart. 8) Śrīpītha is on the two shoulders. 9) Viraja is on the neck. 10) Edābhī is on the stomach. 11) Hālā'“ is in the navel. 12) Gośruti is in the bulb (kanda). 13) Merukośa is in the genitals. 14-55) Nagara and Pauṇdravardhana are on the right and left buttock. 16- 17) “Elāpura and Purastīra are on the right and left thigh. 18-19) Kudyākeśī and Sopāra'“ are on the right and left knees. 20-21) Māyāpura and Kṣīraka are on the right and left shank. 22-23) Āmrātakeśvara and Rājagṁa are on the right and left ankles. 24) Vairiñcī is on the soles of the feet and sustains all things up to Kālāgnī."” (59-63) 
 
 #### Viveka on 29.59–63
 
@@ -407,7 +407,7 @@ pādādhāre tu vairiñcīṁ kālāgnyavadhidhārikām ॥ 63 ॥
 
 148\. uyākeśīr for kudyākeśīm. Read with JY sopāraṁ for sopānar.
 
-149\. 29/59-63 is a direct quote with a few modifications of JY 4/20/152-158 (MS K fl. 143a Kh fl. 123b G fl. 176a-176b) In the manuscripts, this passage reads: 123b kh) aṭtahāsaṁ \[g: ?\] sikhāsthāne caritrańn ca karandhrake | kullagirye \[kh: ku \*(? : -giye\] priye karnaṁ jayantyaṁ \[kh g: jayaritya\] cottarāyane \[kh: ya \*(?)\] M 152 ॥ ujjayanyār tu bhrūmadhye prayāgaṁ vaktramadhyagam | vārānṇasīri tu hṛdaye śrīpīthaṁ skahdhayordvayoḥ \[g: -yoddhayoh\] I1 153 ॥ kaṁthadeśe tu viraja herundrya udare priye | 176b g) alahpuraṁ nābhimadhye \[g: -nābhi \* dhye\] saidorddhve (lapuram ) \[kh: \*? puram\] priye Lkh: 21॥ 154 ॥ kaṁdādhāre tu gokarṇaṁ maruddeśari bhagāntare | atha medhropari \[g: medropari\] bhadre jñātavyaḥ sādhakena ca \[kh g: tu\] Il 155 ॥ dakṣine sasthinagare \[kh: \* \*? nagare; g: saktinagare\] vāme syāt \[kh g: syāḥ\] pauṁndravarddhane \[kh: paudra-\] | vāmaskaṁdhe purastīrari pṛṣthāpuraṁ \[kh: + \*? puraṁ\] tu dakṣine Il 156 II udyākesī jānumadhye sopāraṁ cārtare smṛtam | (kstrikam \[kh: kṣī + \*?\] vāmahaste \[kh: vāmaha \*?\] tu māyāpurīṁ \[kh g: -puryāṁm\] tu dakṣiṇe ॥ 15711 Āāmrātakeśvaraṁ gulpi pādādhāre tu brahmā 'avi\] dharakim \[kh g: -kī\] Il 158 ॥ e.var nityoditā bhadre ?\] saṁsmaret \[g: ?\] | 143b) yadicchedātmanaḥ \[kh: yadi + \*? manaḥ} śreyo nāthaḥ \[kh g: nāryo\] pūjyāḥ svasiddhaye (g: -yeh\] I 159॥ evar \[kh: +ca\] codayar तिद्धते madhye jyā \* la \[kh: \*? la\] krīhtanī | A map of these places in India is given in Dyczkowski 2004: 161, and a drawing of the projections onto the body ibid. 172.
+149\. 29/59-63 is a direct quote with a few modifications of JY 4/20/152-158 (MS K fl. 143a Kh fl. 123b G fl. 176a-176b) In the manuscripts, this passage reads: 123b kh) aṭtahāsaṁ \[g: ?\] sikhāsthāne caritrańn ca karandhrake | kullagirye \[kh: ku \*(? : -giye\] priye karnaṁ jayantyaṁ \[kh g: jayaritya\] cottarāyane \[kh: ya \*(?)\] M 152 ॥ ujjayanyār tu bhrūmadhye prayāgaṁ vaktramadhyagam | vārānṇasīri tu hṛdaye śrīpīthaṁ skahdhayordvayoḥ \[g: -yoddhayoh\] I1 153 ॥ kaṁthadeśe tu viraja herundrya udare priye | 176b g) alahpuraṁ nābhimadhye \[g: -nābhi \* dhye\] saidorddhve (lapuram ) \[kh: \*? puram\] priye Lkh: 21॥ 154 ॥ kaṁdādhāre tu gokarṇaṁ maruddeśari bhagāntare | atha medhropari \[g: medropari\] bhadre jñātavyaṁ sādhakena ca \[kh g: tu\] Il 155 ॥ dakṣine sasthinagare \[kh: \* \*? nagare; g: saktinagare\] vāme syāt \[kh g: syāḥ\] pauṁndravarddhane \[kh: paudra-\] | vāmaskaṁdhe purastīrari pṛṣthāpuraṁ \[kh: + \*? puraṁ\] tu dakṣine Il 156 II udyākesī jānumadhye sopāraṁ cārtare smṛtam | (kstrikam \[kh: kṣī + \*?\] vāmahaste \[kh: vāmaha \*?\] tu māyāpurīṁ \[kh g: -puryāṁm\] tu dakṣiṇe ॥ 15711 Āāmrātakeśvaraṁ gulpi pādādhāre tu brahmā 'avi\] dharakim \[kh g: -kī\] Il 158 ॥ e.var nityoditā bhadre ?\] saṁsmaret \[g: ?\] | 143b) yadicchedātmanaḥ \[kh: yadi + \*? manaḥ} śreyo nāthaḥ \[kh g: nāryo\] pūjyāḥ svasiddhaye (g: -yeḥ\] I 159॥ evar \[kh: +ca\] codayar तिद्धते madhye jyā \* la \[kh: \*? la\] krīhtanī | A map of these places in India is given in Dyczkowski 2004: 161, and a drawing of the projections onto the body ibid. 172.
 
 
 *[p. 256]* ^pg273
@@ -436,7 +436,7 @@ And one should not be present here in a state of aloof indifference, rather one 
 इत्येवं वासनां कु्ीत्सर्वदा स्मृतिमात्रतः ॥ ६४ ॥
 
 nāham asmi na cānyo ‘sti kevalāḥ śaktayas tv aham |
-ity evan vāsanām kuryāt sarvadā smṛtimātrataḥ || 64 Il 
+ity evan vāsanām kuryāt sarvadā smṛtimātrataḥ || 64 || 
 
 150\. This line is equivalent to: alaṁpuraṁ nābhimadhye \[g: -nābhi \* dhye\] saidorddhve (lapuram \[kh: \*? puraṁ\] priye \[kh: 21॥ JY 4/20/154cd.
 
@@ -460,7 +460,7 @@ That is said there (in the Mādhavakula):
 Surely (one may object) that it is said everywhere (in the scriptures) that the (specific) accomplishment (siddhi) (attained in any given sacred place) is 
 
 [^154]: 15t Quoted above in TĀv ad 29/22cd. It is clear from the context in which Jayaratha quotes this verse that he understands the energies mentioned here to be the letters and mantras of Parā and Mālinī. The idea is that a purified body is one that been converted into a network of mantric energies, formed by projecting Mantras onto the body. The partners in this Kula sacrifice are so thoroughly purified that their personal existence has given way to the energies of Mantra.
-[^155]: This is the verse Abhinava is paraphrasing here. It is JY 4/20/220cd-221 (MS K fl. 145b Kh fl. 126a G fl. 180b), which in the manuscripts reads with variants: nāham asmi \[kh g: asti\] na cānyo ‘sti kevalaḥ śāntarūpake II 220॥ ksanam apy atra viśrāmaṁ sahajaṁ yadi bhāvayet | tadā sa khecaro bhūtvā yoginīmelakaṁ labhet \[kh: bhavet\] | 221 ॥ “I am not, nor is there another.” If the one who is (thus) alone contemplates (this) natural state of rest here even for a moment in the tranquil nature, he then becomes a Skyfarer (khecara), and attains union with the Yoginīs (melaka). Cf. also NT 3/13: nāham asmi na cānyo ‘sti dhyeyaṁ cātra na vidyate ॥ ānandapadasarlīnaṁ manaḥ samarasīgatam || “T am not nor is there another.” There is no object of meditation here. Dissolved away (and merged into) the plane of bliss, the mind has become one (with it). This is the meditation (dhyāna) the officiant should cultivate when he is taking his seat to perform the rites to Śiva taught in the Netratantra. Cf also TS 1/328-330ab: mamatvaṁ tyajya (> (tyajyam) ) sarvatra nāham asmīti (g: nāntam asmīti) bhāvayet | nāham asmi na cānyo ‘sti advaitakriyayā rataḥ ॥ 328 ॥ yāvan na vindate hy evar (kh: heva) tāvat (kh: tāvan) tasya na kiñcana (kh, g: -nah) | aham iti stuyo arthaḥ sa ca (> tena) baddho (k, kh, g: vaddha) gunatraye 11329 ॥ yāvan na (kh: yāvana) tyajate devi sa niruddho (g: niru \*?) bhaviṣyati (g: ?) | “Attachment should be abandoned in all respects (sarvatra). One who is devoted to the practice of nonduality should think that “I am not. I am not and nor is there another.” As long as he does not think in this way, he possesses nothing. That thing which is said to be ‘T’ is bound within the three qualities. So long as he does not abandon (it), O goddess, he will be bound.’ Also ibid. 1/337 muktaṁ (kh: muktaḥ) paśyati muktātmā ātmā sarvatra kevalam | (g: ?) nāham asti na cānyo ‘sti ekatvam anupaśyati (k, kh, g: -tah) ॥ ‘A liberated soul only sees the liberated Self everywhere, and accordingly, he sees the oneness (which is) ‘there is no T’, , nor is there (anything) else.”
+[^155]: This is the verse Abhinava is paraphrasing here. It is JY 4/20/220cd-221 (MS K fl. 145b Kh fl. 126a G fl. 180b), which in the manuscripts reads with variants: nāham asmi \[kh g: asti\] na cānyo ‘sti kevalaḥ śāntarūpake II 220॥ kṣaṇam apy atra viśrāmaṁ sahajaṁ yadi bhāvayet | tadā sa khecaro bhūtvā yoginīmelakaṁ labhet \[kh: bhavet\] | 221 ॥ “I am not, nor is there another.” If the one who is (thus) alone contemplates (this) natural state of rest here even for a moment in the tranquil nature, he then becomes a Skyfarer (khecara), and attains union with the Yoginīs (melaka). Cf. also NT 3/13: nāham asmi na cānyo ‘sti dhyeyaṁ cātra na vidyate ॥ ānandapadasarlīnaṁ manaḥ samarasīgatam || “T am not nor is there another.” There is no object of meditation here. Dissolved away (and merged into) the plane of bliss, the mind has become one (with it). This is the meditation (dhyāna) the officiant should cultivate when he is taking his seat to perform the rites to Śiva taught in the Netratantra. Cf also TS 1/328-330ab: mamatvaṁ tyajya (> (tyajyam) ) sarvatra nāham asmīti (g: nāntam asmīti) bhāvayet | nāham asmi na cānyo ‘sti advaitakriyayā rataḥ ॥ 328 ॥ yāvan na vindate hy evar (kh: heva) tāvat (kh: tāvan) tasya na kiñcana (kh, g: -nah) | aham iti stuyo arthaḥ sa ca (> tena) baddho (k, kh, g: vaddha) gunatraye 11329 ॥ yāvan na (kh: yāvana) tyajate devi sa niruddho (g: niru \*?) bhaviṣyati (g: ?) | “Attachment should be abandoned in all respects (sarvatra). One who is devoted to the practice of nonduality should think that “I am not. I am not and nor is there another.” As long as he does not think in this way, he possesses nothing. That thing which is said to be ‘T’ is bound within the three qualities. So long as he does not abandon (it), O goddess, he will be bound.’ Also ibid. 1/337 muktaṁ (kh: muktaḥ) paśyati muktātmā ātmā sarvatra kevalam | (g: ?) nāham asti na cānyo ‘sti ekatvam anupaśyati (k, kh, g: -taḥ) ॥ ‘A liberated soul only sees the liberated Self everywhere, and accordingly, he sees the oneness (which is) ‘there is no T’, , nor is there (anything) else.”
 
 *[p. 258]* ^pg275
 
@@ -540,9 +540,9 @@ saṅgamavaruṇākulagiry-
 attahāsajayantīcaritrakāmrakakoṭtṭam |
 haimapuram navamarhi syān 
 
-madhye tāsāṁ ca cakrinī mukhyā ॥ 67 |l 
+madhye tāsāṁ ca cakrinī mukhyā ॥ 67 ॥ 
 
-(The eight ‘houses’, i.e. sacred seats (pitha) ) in which they reside are, respectively,) 1) Saṁgama (i.e. Prayāga), 2) Varuṇā, 3) Kulagiri, 4) Atṭtahāsa, 5) Jayantī, 6) Caritraka, 7) Amraka (i.e. Amrātakeśvara), 8) Kotta (i.e. Devīkoṭta). 9) The ninth one in the centre is Haimapūra. Cakriṇī, who is the main one amongst them (resides here). (67) 
+(The eight ‘houses’, i.e. sacred seats (pitha) ) in which they reside are, respectively,) 1) Saṁgama (i.e. Prayāga), 2) Varuṇā, 3) Kulagiri, 4) Aṭṭahāsa, 5) Jayantī, 6) Caritraka, 7) Amraka (i.e. Amrātakeśvara), 8) Kotta (i.e. Devīkoṭta). 9) The ninth one in the centre is Haimapūra. Cakriṇī, who is the main one amongst them (resides here). (67) 
 
 #### Viveka on 29.67
 
@@ -606,7 +606,7 @@ Once having worshipped the arising of the Wheel (cakrodaya) (that is, the cyclic
 
 166\. Read cakre yuktā for cakrayuktā. This emendation is in consonance with the metre.
 
-167\. Read cakre yāmalagāpi for cakrayāmalagāpi. 29/69-70ab is probably drawn from the Devyāyāmala or inspired by it. The passage is not found in the JY. Also, Kālasaṁkarṣinī, identified as Kuleśvarī (the goddess of the Kula), is characterized as being either solitary (ekavīrā) or coupled, as we find above in 29/46cd-48 which is also probably drawn from the Devyāyāmala or inspired by it. Drawing from the Devyāyāmala here in consonance with the Mādhavakula, a proto-Krama scripture in which Trika is absent, makes sense, as it implicitly strengthens the incorporation of the Kālīkrama and its goddess, Kālasaṁkarṣinṇī, into the higher, syncretic form of Trika Abhinava sponsored. 167 29/68 is a paraphrase of these lines. They are JY 4/21/67cd-68ab (MS K fl.149a Kh fl. 130a G fl. 186a), which reads (variants are in bold face): navamā cakrinī yā sā bhramaniī viśvamadhyagā ॥ 67 I| sarvavījāni pīdyantī rasaṣaṭkair dvidhā kṛtā \[kh g: kṛtau\] | sā ca kundalinī nāma kandaveśmād vinirgatā ॥ 68 ॥ Read with JY kandaveśma- for kandaveṣṭa- The form veśmād is aiśa. The correct form would be veśmataḥ, which does not fit the metre. It seems that Jayaratha corrected the Sanskrit. Although veṣṭa- meaning ‘an enclosure’ is correct, if Jayaratha had the reading -veśmād before him, one would expect him to have simply corrected to -veśma, which accords with the terminology here. The locations in the body of these places is listed in the following lines of the JY: aṣtapīṭhodbhavā sā tu navamā sā ca siddhidā | tayā hīnā ca yā kācit \[g: kāci\] siddhir melāpakena sah \[kh g: sa\] ॥ 69 1I tadā melāpakaṁ kuryāt sarvayoginīsaṁngame \[g: -yogi \*-\] \\ idā suṣumne \[kh g: suṣumne-\] saighaṭte prayāgarhi varavarnini ॥ 70 ॥ varuṇākhyaṁ bhruvor \[g: bhūvār\] madhye kaulari lambikayā tathā | nāsāgraṁ cāṭṭahāsar tu jayantī tālarandhrake ॥ 71 ॥ vindūpari caritrā ca ekāmrā nābhigocare | 130b kh) devīkoṭaṁ tu kandasthar jñātvā paryaṭanati bhavet I| 72 ॥ kandorddhvā kundalī śaktir yathā (> yayā) vai mohitari jagat | ‘She is born of the eight sacred seats, and is the ninth, that bestows accomplishment. Without her there is no accomplishment by uniting (with the yoginīs). One should practice union with her in every union with a yoginī. O most excellent lady, 1) Prayāga is (located) where Idā and Suṣumnā unite. 2) The one called Varunā is between the eyebrows, and 3) Kaula is with the uvula (at the back of the throat). 4) Attahāsa is at the tip of the nose, and 5) Jayanti is in the cavity of the palate. 6) Caritrā is above the Bindu and 7) Ekāmrā is in the navel. 8) Devīkoṭa is located in
+167\. Read cakre yāmalagāpi for cakrayāmalagāpi. 29/69-70ab is probably drawn from the Devyāyāmala or inspired by it. The passage is not found in the JY. Also, Kālasaṁkarṣinī, identified as Kuleśvarī (the goddess of the Kula), is characterized as being either solitary (ekavīrā) or coupled, as we find above in 29/46cd-48 which is also probably drawn from the Devyāyāmala or inspired by it. Drawing from the Devyāyāmala here in consonance with the Mādhavakula, a proto-Krama scripture in which Trika is absent, makes sense, as it implicitly strengthens the incorporation of the Kālīkrama and its goddess, Kālasaṁkarṣinṇī, into the higher, syncretic form of Trika Abhinava sponsored. 167 29/68 is a paraphrase of these lines. They are JY 4/21/67cd-68ab (MS K fl.149a Kh fl. 130a G fl. 186a), which reads (variants are in bold face): navamā cakrinī yā sā bhramaniī viśvamadhyagā ॥ 67 I| sarvavījāni pīdyantī rasaṣaṭkair dvidhā kṛtā \[kh g: kṛtau\] | sā ca kundalinī nāma kandaveśmād vinirgatā ॥ 68 ॥ Read with JY kandaveśma- for kandaveṣṭa- The form veśmād is aiśa. The correct form would be veśmataḥ, which does not fit the metre. It seems that Jayaratha corrected the Sanskrit. Although veṣṭa- meaning ‘an enclosure’ is correct, if Jayaratha had the reading -veśmād before him, one would expect him to have simply corrected to -veśma, which accords with the terminology here. The locations in the body of these places is listed in the following lines of the JY: aṣtapīṭhodbhavā sā tu navamā sā ca siddhidā | tayā hīnā ca yā kācit \[g: kāci\] siddhir melāpakena saḥ \[kh g: sa\] ॥ 69 1I tadā melāpakaṁ kuryāt sarvayoginīsaṁngame \[g: -yogi \*-\] \\ idā suṣumne \[kh g: suṣumne-\] saighaṭte prayāgarhi varavarnini ॥ 70 ॥ varuṇākhyaṁ bhruvor \[g: bhūvār\] madhye kaulari lambikayā tathā | nāsāgraṁ cāṭṭahāsar tu jayantī tālarandhrake ॥ 71 ॥ vindūpari caritrā ca ekāmrā nābhigocare | 130b kh) devīkoṭaṁ tu kandasthar jñātvā paryaṭanati bhavet I| 72 ॥ kandorddhvā kundalī śaktir yathā (> yayā) vai mohitari jagat | ‘She is born of the eight sacred seats, and is the ninth, that bestows accomplishment. Without her there is no accomplishment by uniting (with the yoginīs). One should practice union with her in every union with a yoginī. O most excellent lady, 1) Prayāga is (located) where Idā and Suṣumnā unite. 2) The one called Varunā is between the eyebrows, and 3) Kaula is with the uvula (at the back of the throat). 4) Attahāsa is at the tip of the nose, and 5) Jayanti is in the cavity of the palate. 6) Caritrā is above the Bindu and 7) Ekāmrā is in the navel. 8) Devīkoṭa is located in
 
 
 *[p. 264]* ^pg281
@@ -639,11 +639,11 @@ the Root (kanda). Once having known that, a tour (paryatana) (of the sacred site
 
 168\. The code word is the location on the body on which the phoneme of the Mālinī alphabet is deposited. It is found in MV 3/37-4lab, which is paraphrased above in 15/121-15ab. Read nāsārnam for nāśārnam.
 
-169\. Read śūlārnṇa- for śülārdha-.
+169\. Read śūlārṇa- for śülārdha-.
 
 170\. Read, as Sanderson (2007b: 248 n 167) suggests, jihvayā for jihvayoḥ.
 
-171\. \[illegible\] The Vidyā of Kālasaṁkarṣiṇī, consisting of seventeen phonemes presented here, is: HRĪM MAHĀCANDAYOGEŚVARI TṬHR (M) DHR (M) THR (M) PHAṬ PHAT PHAT PHA’ AT. Sanderson (20070; 284) explains that ‘this is the basic Vidyā of the goddess Kālasaṁkarṣinī in the Jadrathayāmala. He notes that ‘the anusvāraḥ after each of these syllables is not taught in these verses, but this is such a surprising irregularity that I have assumed that the absence was not intended and that either their presence was to be understood or that a line has been lost in which it was prescribed.’ (ibid. n 167).
+171\. \[illegible\] The Vidyā of Kālasaṁkarṣiṇī, consisting of seventeen phonemes presented here, is: HRĪM MAHĀCANDAYOGEŚVARI TṬHR (M) DHR (M) THR (M) PHAṬ PHAT PHAT PHA’ AT. Sanderson (20070; 284) explains that ‘this is the basic Vidyā of the goddess Kālasaṁkarṣiṇī in the Jadrathayāmala. He notes that ‘the anusvāraḥ after each of these syllables is not taught in these verses, but this is such a surprising irregularity that I have assumed that the absence was not intended and that either their presence was to be understood or that a line has been lost in which it was prescribed.’ (ibid. n 167).
 
 172\. JY 4/20/173ab (MS K fl. 143b, Kh fl. 124a, G fl. 177b). The complete passage in which the Vidyā is given is JY 4/20/173-177ab. Unfortunately, it is very corrupt. The Kālīkrama does not teach Mālinī as we find in the Trika and its close relative, the Kubjikā Tantras.
 
@@ -731,7 +731,7 @@ wish-granting tree bestows accomplishments. The union (melāpa) (of Siddhas and 
 srīdevyuvāca kulāgame tu deveśa kim anyo ‘sti vada prabho |
 proktaṁ tava mahādeva hy asmin vai kulamādhave ॥ 208 ॥
 yad anyo ‘sti viśeṣena prasādād vaktum arhasi |
-Smaśānam \[k: -nah\] kīdṛśam \[k: -śah) proktaṁ (k: proktaḥ\] kalpavṛkṣaṁ vadasva me ॥ 209 I|
+Smaśānam \[k: -nah\] kīdṛśam \[k: -śaḥ) proktaṁ (k: proktaḥ\] kalpavṛkṣaṁ vadasva me ॥ 209 ॥
 yoginyaḥ \[kh: yoginī\] (ksetram \[kh: ksetra\] me brūhi yad anyo 'nugrahaḥ kvacit | 
 
 The venerable Goddess said: “O Lord of the gods, what else is there in the Kulāgama? O Lord, tell (me) what is said of you, Mahādeva, in this Kulamādhava? If there is anything else (taught) in particular, by (Your) grace you should tell (me that). How is the cremation ground said to be? Tell me (about) the wish-granting tree. Tell me (about) the field of the Yoginīs, which is another grace (You bestow) somewhere.” (208-210ab) 
@@ -753,7 +753,7 @@ The venerable Goddess O god, do not hide that from me. (Practice) devoid of the 
 145b) mmālatantusadṛśā \[g: mṛnālataṁtu tu sadṛśā\] jñānavijñānagrāhakī |
 calate sarvacakresī cakrasthā cakramadhyagā \[kh g: ca + madhyagā\] ॥ 215 ॥
 nirgunā nirvikalpā sā bhuvanādhāradhārakī |
-ekadhā \[kh: pamcadhā\] ca tridhā sā ca kulasatvapradāyakī ॥ 216 I|
+ekadhā \[kh: pamcadhā\] ca tridhā sā ca kulasatvapradāyakī ॥ 216 ॥
 (tam praviśya prayogena \[kh g: -na\] akule śāśvate pade |
 cittacaitanyayogena martre saptādaśākṣare ॥ 217 ॥
 rodhayitvā ca dvau spaṁdau layodayavivarjitau |
@@ -768,7 +768,7 @@ Where there is expansion there (also there is) contraction. Another (higher form
 entered into that by means of the application (prayoga) (of the practice), and checked the two pulsations devoid of merger and emergence by the union (yoga) of mind and consciousness on the eternal (transcendental) plane of Akula, in the Mantra of seventeen syllables. The physical (prākṛta) body which is the T’ (of the embodied ego) is not abandoned otherwise. (214cd-218) pūrvapaścimakarmāni \[k: pūrvaṁ-\] prakṛtākṣatā kṛtā |
 180b g) vighnarūpāśca \[kh: -rūpāśi; g: -rūpāni\] te sarve \[kh: sarva\] mohayanti balāt priye I| 219
 ॥
-na teṣu ramate cittaṁ (g: citta\] cittarn madhye niveśayet \[g: nive = \* 1\] |
+na teṣu ramate cittaṁ (g: citta\] cittaṁ madhye niveśayet \[g: nive = \* 1\] |
 nāham asmi \[kh g: asti\] na cānyo ‘sti kevalaḥ Śāntarūpake ॥ 220 ॥
 kṣaṇam apy atra viśrāmaṁ sahajaṁ yadi bhāvayet |
 tadā sa khecaro bhūtvā yoginīmelakaṁ labhet {kh: bhavet\] ॥ 221 ॥ quoted in TĀ 29/64 
@@ -778,14 +778,14 @@ Previous and subsequent Karmas have been made imperishable by nature, they are a
 “Iam not, nor is there another.” If the one who is (thus) alone contemplates (this) natural state of rest here even for a moment in the tranquil nature, he then becomes a Skyfarer (khecara) and attains union with the Yoginīs (melaka). (219-221) 
 
 tanmadhye bhāvanā kṛtvā praviśed (g: ; -śe\] dehajān bahūn |
-tayāvalokitar cakra caturviṁśatisahkulam \[kh g: -rviṁśa \* sarn} ॥ 222 ॥
+tayāvalokitar cakra caturviṁśatisahkulam \[kh g: -rviṁśa \* saṁ} ॥ 222 ॥
 tanmadhye bhāvanā yasyā sa vai coktā mukhāgame |
 tataḥ pūjākramami bhadre cānyathā paśubhāvanā I| 223 I|
 anenāsau prayogenṇa \[kh g: -na\] kramar pūjyānyathā paśuḥ |
 sadbhāvaśakto (g: ; tadbhāva-\] yah kaścit pūjakaḥ kramapūjakaḥ ॥ 224 ॥
 126b kh) anyathā vākpralāpī syān maṁtrataritrabahihkṛtaḥ | 
 
-Having meditated (bhāvanāṁ kṛtvā) in the centre of that, he should enter many (beings) born from the body, having observed the Wheel with (its) twenty-four (constituent beings) by means of that (meditation). Her meditation in the middle of that (Wheel) is taught in the oral tradition (mukhāgama). After that, O fair lady, (one should perform) the rite of worship (pūjākrama), otherwise (if one does not do that), the meditation is that of a fettered soul (paśubhāvanā). One should worship the Krama by means of this procedure (prayoga), otherwise (if one does not, one is a) fettered soul (pasu). Whoever is a worshipper attached to the true (essence of things) is a Krama worshipper. Otherwise, he would be (just) one who chatters (meaninglessly), expelled from (the practice of) Mantra and the Tantras. (222-225ab) dvitīyan mārgam evoktarn Śṛnuṣvaikamanādhunā \[kh: -ṣvekamanāh priye; g: Śṛnuṣyeka-\] I 225 ॥
+Having meditated (bhāvanāṁ kṛtvā) in the centre of that, he should enter many (beings) born from the body, having observed the Wheel with (its) twenty-four (constituent beings) by means of that (meditation). Her meditation in the middle of that (Wheel) is taught in the oral tradition (mukhāgama). After that, O fair lady, (one should perform) the rite of worship (pūjākrama), otherwise (if one does not do that), the meditation is that of a fettered soul (paśubhāvanā). One should worship the Krama by means of this procedure (prayoga), otherwise (if one does not, one is a) fettered soul (pasu). Whoever is a worshipper attached to the true (essence of things) is a Krama worshipper. Otherwise, he would be (just) one who chatters (meaninglessly), expelled from (the practice of) Mantra and the Tantras. (222-225ab) dvitīyan mārgam evoktaṁ Śṛnuṣvaikamanādhunā \[kh: -ṣvekamanāh priye; g: Śṛnuṣyeka-\] I 225 ॥
 Śmaśānar yatra vikhyātaṁ grāme vā nagare 'pi vā |
 suyogyatāś \[k, kh: vayogatāś, g: cayogatāś\] ca ye lokā bhāvayanti \[g: bhāvaṁyati\] janāś ca ye I|
 226 Il 8rāmānte grāmamadhye vā ekavṛkṣe 'tha nirjare \[k: nirddhare(?)\]\\ veśyāgṁe samūhaṁ tu jñātavyaṁ yoginīgṁam ॥ 227 ॥ 
@@ -808,7 +808,7 @@ When the worship (of the sacred sites) has been completed, it is necessary to sh
 वस्वंगुलोन्नतानृध्ववर्तुलान् क्षाममध्यकान् ॥ ७२ ॥
 रक्तवर्तस्ग्रितिदृशो दीपान्कुर्वीत सर्पिषाम् ।
 
-vasvarigulonnatān ūrdhvavartulān kṣāmamadhyakān ॥ 72 |l raktavartīñ" srutidṛśo dīpān kurvīta sarpiṣām | 
+vasvarigulonnatān ūrdhvavartulān kṣāmamadhyakān ॥ 72 ॥ raktavartīñ" srutidṛśo dīpān kurvīta sarpiṣām | 
 
 The officiant should make twenty-four lamps, (fed) with clarified butter, and wicks that are vertical, eight fingers long, round, thin in the middle and red.” (72cd-73ab) 
 
@@ -816,13 +816,13 @@ The officiant should make twenty-four lamps, (fed) with clarified butter, and wi
 
 (The lamps are) twenty-four. That is said (in the Mādhavakula): 188: Arrange twenty-four lamps in the four quarters. They are made of kneaded flour, (their) base and middle is thin, and they are beautifully round. 
 
-evar yo vetti tatvajñaḥ \[k: tatvaktreḥ; g: ?\] sa bhaveta \[k, g: bhavetat\] kulāgamī | evar vai \[kh: yo\] yo \[kh: vai\] na jānāti trividhaṁ sthānapūjanam ॥ 231 I| janme janme paśuḥ so hi bhramate dehajān bahūn \[g: ?\] | O goddess, it should always be kept secret and should only be known by an adept. The cremation ground is in the middle of the house and is well-established by the oral tradition. One who knows the Brahman and belongs to a tradition of teachers, having known (that as) the field of the Yoginīs, O mistress of the gods, is conjoined to all the accomplishments. O fair lady, the wish-granting tree that sustains the foundation is in the middle. Union of all the congregation of Yoginīs takes place here. The knower of reality who knows (this) thus is one who belongs to the Kula tradition (kulāgamin). He who does not know the threefold worship of place (sthānapūjana) in this way is a fettered soul who wonders in many (creatures) born of bodies from birth to birth. (228-232ab) Āādau cādhyātmikari \[kh: vādhyātmike\] yogar aliphalgusubhojanam \[g: alirn-\] \\ 232 ॥ svasarwittiprayogena \[kh g: -na\] sakrīdāpūjanaṁ \[k, kh, g: sakṛdā-\] yadi | kulakoṭyarbudair yukto vaset khecaramadhyagaḥ I| 233 ॥ sarvakṛt sarvabhoktā ca sraṣtāraṁ \[k, kh: mraṣtāram\] bhuvaneśvaram \[k, kh: bhava-\] | yena jānanti tatvajñāḥ \[g: tatvajṁā\] kathaṁ bāhye tu pūjanam ॥ 234 ॥ First of all, (one should practice) inner (adhyātmika) Yoga. (This is) the good meal of meat and liquor. If worship along with (sexual) sport (is performed) by applying one’s own consciousness, he resides engaged (in Yoga) with billions of millions of Kulas amongst the skyfarers. He does and enjoys all things, he is the creator and lord of the worlds.’ (232cd-234) JY 4/120/206cd-234
+evar yo vetti tatvajñaḥ \[k: tatvaktreḥ; g: ?\] sa bhaveta \[k, g: bhavetat\] kulāgamī | evar vai \[kh: yo\] yo \[kh: vai\] na jānāti trividhaṁ sthānapūjanam ॥ 231 I| janme janme paśuḥ so hi bhramate dehajān bahūn \[g: ?\] | O goddess, it should always be kept secret and should only be known by an adept. The cremation ground is in the middle of the house and is well-established by the oral tradition. One who knows the Brahman and belongs to a tradition of teachers, having known (that as) the field of the Yoginīs, O mistress of the gods, is conjoined to all the accomplishments. O fair lady, the wish-granting tree that sustains the foundation is in the middle. Union of all the congregation of Yoginīs takes place here. The knower of reality who knows (this) thus is one who belongs to the Kula tradition (kulāgamin). He who does not know the threefold worship of place (sthānapūjana) in this way is a fettered soul who wonders in many (creatures) born of bodies from birth to birth. (228-232ab) Āādau cādhyātmikari \[kh: vādhyātmike\] yogar aliphalgusubhojanam \[g: aliṁ-\] \\ 232 ॥ svasarwittiprayogena \[kh g: -na\] sakrīdāpūjanaṁ \[k, kh, g: sakṛdā-\] yadi | kulakoṭyarbudair yukto vaset khecaramadhyagaḥ I| 233 ॥ sarvakṛt sarvabhoktā ca sraṣtāraṁ \[k, kh: mraṣtāram\] bhuvaneśvaram \[k, kh: bhava-\] | yena jānanti tatvajñāḥ \[g: tatvajṁā\] kathaṁ bāhye tu pūjanam ॥ 234 ॥ First of all, (one should practice) inner (adhyātmika) Yoga. (This is) the good meal of meat and liquor. If worship along with (sexual) sport (is performed) by applying one’s own consciousness, he resides engaged (in Yoga) with billions of millions of Kulas amongst the skyfarers. He does and enjoys all things, he is the creator and lord of the worlds.’ (232cd-234) JY 4/120/206cd-234
 
 186\. The sites are worshipped by projecting the three constituents of the sacred seats into the body. See citation in previous note.
 
 187\. These lamps ~ dipa, , pradīpa or dīpacaru, are made of dough and may be eaten (presumably after they have been used as lamps) as a substitute for human flesh (see Sanderson 2006b 45: 2007: 284). Also above, TĀv ad 29/54.
 
-188\. JY 4/20/191cd-193 (K fl. 144b, Kh fl. 125a, G fl. 178b) caturviṁśatidīpāś ca dikṣu dikṣu \[kh: + dikṣu\] pradāpayet ॥ 191 ॥ pṛsthā punādya cādhāramadhyakṣāmā suvartulā | aṣtāṁgulapramāṇasthā śobhanā caturaṁgulā ॥ 192 ॥ adha ūrddhvasamāyuktā tatpramānṇena kārayet \[g: kāre = t\] | ghṛtadīpena \[kh g: kṛtaṁdīpena\] saṁyuktā raktavartyupari \[kh: -vartyāpari; g: -vartyopari\] sthitā ॥ 193 II
+188\. JY 4/20/191cd-193 (K fl. 144b, Kh fl. 125a, G fl. 178b) caturviṁśatidīpāś ca dikṣu dikṣu \[kh: + dikṣu\] pradāpayet ॥ 191 ॥ pṛsthā punādya cādhāramadhyakṣāmā suvartulā | aṣtāṁgulapramāṇasthā śobhanā caturaṁgulā ॥ 192 ॥ adha ūrddhvasamāyuktā tatpramānṇena kārayet \[g: kāre = t\] | ghṛtadīpena \[kh g: kṛtaṁdīpena\] saṁyuktā raktavartyupari \[kh: -vartyāpari; g: -vartyopari\] sthitā ॥ 193 ॥
 
 
 *[p. 271]* ^pg288
@@ -858,14 +858,14 @@ tāvat tejo ‘sahiṣṇutvān nirjīvāḥ syur ihādvaye |
 
 192\. The practice of nonduality is essentially the offering and drinking of wine and other Kaula sacrificial substances.
 
-193\. Ye yasmin martrayogena taṁtrācārapade sthitāḥ \[kh: -tah; g: ?\] | JY 4/20/238ab (MS K 146a Kh fl 127a, G fl. 181b). Here tantrācāra means kulācāra. 1% svakramaṁ tu yajen madhye dvai iraṁ tu varjayet || \[g: ?\] JY 4/20/239cd (MS K fl. 146a, Kh fl 127a, G fl. 181b). ye (> yo) yasmin maritrayogena taṁtrācārapade sthitaḥ \[k: -tāh; g: 24 | Tasya \[g: ?\] tat \[g: ?\] kathayiṣyāmi yathā tattvena siddhyati || 238 ॥ anena kramayogena yajanaṁ cārabhet priye | svakramar \[g: ?\] tu yajen madhye dvaitācāram (g: ?\] tu \[g: ?\] varjayet \[g: ?\] U 4120/239 Ii ‘I will explain how he who, by the application of (powerful) Mantras (mantrayoga), is on the plane of Tantric practice (fantrācāra), is truly successful. O beloved, he should perform the sacrifice by applying this ritual procedure (krama). One should worship one’s own sequence (of mantras) (svakrama) in the centre and avoid practice (based on) duality (between pure and impure).’ The text continues up to Jayaratha’s next citation as follows: srīdevyuvāca dvaitācārar kathaṁ proktam advaitaṁ kīdṛśamr prabho | yena nihsaṁśayoṁ bhütvā bhrāntirvai \[kh: bhrāntivai\] na bhavet kvacit ॥ 240 ॥ \[g: ?\] Srībhairava uvāca \[g: ?\] vāmadakṣiṇataṁtrā ye akulāni kulāni ye | \[g: ?\] sauragāruda ye proktā advaitadravyasabhavāḥ ॥ 241 ॥ \[g: ?\] madhyādipānā ye hārāḥ surāpānaiḥ susevitāḥ \[k, kh, g: suveśitā\] | \[g: 21 adyaitācārasahyuktā dravyādvaitāś \[k, kh, g: dravyadvetāś\] ca ye smṛtāḥ ॥ 242 ॥ \[g: ?\] 146b) te martrāś ca \[kh: mantrāni\] vikalpāś ca ye sumantrasamūhayaḥ \[yeṣu mātrā samūhayaḥ\] Ig: ?\] sākiā \[k, g: śāktāḥ\] ‘Seṣasaisiddhās \[k, kh, g: Seṣasarisiddhas\] te pūjyāś cakramadhyataḥ ॥ 243 ॥ \[£ ?\] ‘The venerable Goddess said: What is said to be dualist conduct and how, O Lord, is the non-dualist one? (Tell me) so that once (I am) free of doubt there may not be (any) mistake (about this) anywhere (in any way). (240) The venerable Bhairava said: Those Tantras of the Left and Right, the Akulas and the Kulas, those said to be Saura and Gāruqa (Tantras), are (all) born from nondual sacrificial substances. The delightful (alcoholic) drinks like wine that are well served by those who drink wine, engaged in the conduct of nonduality, and are said to be nondual (with respect to their) sacrificial substances and these mantras, notions, and aggregate of good mantras, empowered, and completely accomplished, should be worshipped in the midst of the Wheel. (241-243) JY 4/20/241-243 (MS K fl. 146a- 146b, Kh fl. 127a, G fl. 181b). 095 siddhāntā vaiṣṇavā bauddhā vedoktāḥ smārtadarśanāḥ | te \[tat\] prayatnena vai varjyā yasmāt te paśavaḥ smṛtāḥ || JY 4/20/244 1%siddhāntā vaiṣnavā bauddhā vedoktāḥ \[kh: vedāktāḥ\] smārtadarśanāḥ | \[g: ? 182a g) tatprayatnena vai varjyā yasmāt \[g: yasmā\] te paśavaḥ \[g: -va\] smṛtāḥ ॥ 244 ॥
+193\. Ye yasmin martrayogena taṁtrācārapade sthitāḥ \[kh: -taḥ; g: ?\] | JY 4/20/238ab (MS K 146a Kh fl 127a, G fl. 181b). Here tantrācāra means kulācāra. 1% svakramaṁ tu yajen madhye dvai iraṁ tu varjayet || \[g: ?\] JY 4/20/239cd (MS K fl. 146a, Kh fl 127a, G fl. 181b). ye (> yo) yasmin maritrayogena taṁtrācārapade sthitaḥ \[k: -tāḥ; g: 24 | Tasya \[g: ?\] tat \[g: ?\] kathayiṣyāmi yathā tattvena siddhyati || 238 ॥ anena kramayogena yajanaṁ cārabhet priye | svakramar \[g: ?\] tu yajen madhye dvaitācāram (g: ?\] tu \[g: ?\] varjayet \[g: ?\] U 4120/239 Ii ‘I will explain how he who, by the application of (powerful) Mantras (mantrayoga), is on the plane of Tantric practice (fantrācāra), is truly successful. O beloved, he should perform the sacrifice by applying this ritual procedure (krama). One should worship one’s own sequence (of mantras) (svakrama) in the centre and avoid practice (based on) duality (between pure and impure).’ The text continues up to Jayaratha’s next citation as follows: srīdevyuvāca dvaitācārar kathaṁ proktam advaitaṁ kīdṛśamr prabho | yena nihsaṁśayoṁ bhütvā bhrāntirvai \[kh: bhrāntivai\] na bhavet kvacit ॥ 240 ॥ \[g: ?\] Srībhairava uvāca \[g: ?\] vāmadakṣiṇataṁtrā ye akulāni kulāni ye | \[g: ?\] sauragāruda ye proktā advaitadravyasabhavāḥ ॥ 241 ॥ \[g: ?\] madhyādipānā ye hārāḥ surāpānaiḥ susevitāḥ \[k, kh, g: suveśitā\] | \[g: 21 adyaitācārasahyuktā dravyādvaitāś \[k, kh, g: dravyadvetāś\] ca ye smṛtāḥ ॥ 242 ॥ \[g: ?\] 146b) te martrāś ca \[kh: mantrāni\] vikalpāś ca ye sumantrasamūhayaḥ \[yeṣu mātrā samūhayaḥ\] Ig: ?\] sākiā \[k, g: śāktāḥ\] ‘Seṣasaisiddhās \[k, kh, g: Seṣasarisiddhas\] te pūjyāś cakramadhyataḥ ॥ 243 ॥ \[£ ?\] ‘The venerable Goddess said: What is said to be dualist conduct and how, O Lord, is the non-dualist one? (Tell me) so that once (I am) free of doubt there may not be (any) mistake (about this) anywhere (in any way). (240) The venerable Bhairava said: Those Tantras of the Left and Right, the Akulas and the Kulas, those said to be Saura and Gāruqa (Tantras), are (all) born from nondual sacrificial substances. The delightful (alcoholic) drinks like wine that are well served by those who drink wine, engaged in the conduct of nonduality, and are said to be nondual (with respect to their) sacrificial substances and these mantras, notions, and aggregate of good mantras, empowered, and completely accomplished, should be worshipped in the midst of the Wheel. (241-243) JY 4/20/241-243 (MS K fl. 146a- 146b, Kh fl. 127a, G fl. 181b). 095 siddhāntā vaiṣṇavā bauddhā vedoktāḥ smārtadarśanāḥ | te \[tat\] prayatnena vai varjyā yasmāt te paśavaḥ smṛtāḥ || JY 4/20/244 1%siddhāntā vaiṣnavā bauddhā vedoktāḥ \[kh: vedāktāḥ\] smārtadarśanāḥ | \[g: ? 182a g) tatprayatnena vai varjyā yasmāt \[g: yasmā\] te paśavaḥ \[g: -va\] smṛtāḥ ॥ 244 ॥
 
 
 *[p. 272]* ^pg289
 
 ‘One should worship one’s sequence (of mantras) (svakrama) in the centre, and avoid practice (based on) duality (between pure and impure). ' Having said that (the Jayadrathayāmala continues): 
 
-‘(The Mantras of) the Siddhāntas, Vaiṣnavas, Bauddhas, the Vedāntas and Smārta systems should be abandoned with effort, because they are considered to be those of the fettered.” Those (Mantras) that abandon association with nondual (sacrificial) substances (commonly considered to be impure) become averse (to those whose who use them,) and without the life (the substances bestow), they (themselves) have no life." 
+‘(The Mantras of) the Siddhāntas, Vaiṣṇavas, Bauddhas, the Vedāntas and Smārta systems should be abandoned with effort, because they are considered to be those of the fettered.” Those (Mantras) that abandon association with nondual (sacrificial) substances (commonly considered to be impure) become averse (to those whose who use them,) and without the life (the substances bestow), they (themselves) have no life." 
 
 *[p. 273]* ^pg290
 
@@ -881,7 +881,7 @@ Thus, having set aside that kind of (offering as) an aid to worship, one should 
 
 kalaśaṁ netrabandhādi mandalamri sruksruvānalam | 75 ॥
 hitvātra siddhiḥ san madye pātre madhye kṛśār yajet |
-ahorātram iman yāgaṁ kurvataś cāpare ‘hani |l 76 ॥
+ahorātram iman yāgaṁ kurvataś cāpare ‘hani ॥ 76 ॥
 vīrabhojye kṛte ‘vaśyan mantrāḥ siddhyanty ayatnataḥ |
 pīthastotram paṭhed atra yāge bhāgyāvahāhvaye ॥ 77 ॥ 
 
@@ -939,7 +939,7 @@ Surely (one may ask), how can worship reach completion (and fulfilment) when the
 
 एक एवाथ कौलेशः स्वयं भूत्वापि तावतीः ।
 शक्तीयामलयोगेन तर्षयद्रिधरूपवत् ॥ ७९ ॥
-eka evātha kauleśaḥ svayarn bhūtvāpi tāvatīḥ |
+eka evātha kauleśaḥ svayaṁ bhūtvāpi tāvatīḥ |
 saktīr yāmalayogena tarpayed viśvarūpavat ॥ 79 ॥ 
 
 Now He who is the sole Lord of Kula (kauleśa), and (as such) is all things, may (just) by himself (alone) offer libation to all these energies, (and so satisfy them) by uniting (with each one to form) a couple. (79) 
@@ -1050,12 +1050,12 @@ He now presents its wonderful varied nature.
 
 udaye saṅgame 52711411 17114450 japa ucyate |
 āsye gamāgame sūtre haṁisākhye śaivayugmake || 83 ॥
-pañcalakṣā ime proktā daśārṁṁśarnṁ homam ācaret |
+pañcalakṣā ime proktā daśārṁṁśaṁ homam ācaret |
 netre gamāgame vaktre harhise caivākṣasūtrake ॥ 84 ॥
 sivaśaktisamāyoge ṣadlakṣo japa ucyate |
 netre gamāgame karne haṁse vaktre ca bhāmini || 85 ॥
 haste ca yugmake caiva japaḥ saptavidhaḥ smṛtaḥ |
-netre gamāgame karnṇāv āsye guhye ca guhyake ॥ 86 ॥
+netre gamāgame karṇāv āsye guhye ca guhyake ॥ 86 ॥
 śatāreṣu ca madhyasthe sahasrāreṣu bhāmini |
 japa eṣa rudralakṣo homo ‘py atra daśāṁśataḥ ॥ 87 ॥
 netre gamāgame karṇau mukha brahmabilāntaram |
@@ -1178,7 +1178,7 @@ Thus, with this same intended sense, it is said in all the scriptures that \^. .
 
 218\. Perhaps this verse is also drawn from the Yogasaṁcāra. Cf. nāham asmi na cānyo ‘sti advaitakriyayā rataḥ | yāvan na vindate hy evar \[kh: heva\] tāvat \[kh: tāvan\] tasya na kiñcana \[kh, g: -nah\] I “I am not, nor is there anybody else” ~ so long as one who is devoted to the activity of nonduality does not attain (realisation) in this way, he possesses nothing.’ TS 1/328 muktaṁ \[kh: muktaḥ\] paśyati muktātmā ātmā sarvatra kevalam |I| \[g: ?\] nāham asmi \[k, kh, g: asti\] na cānyo ‘sti ekatvam anupaśyataḥ | ‘One who is liberated by nature, sees (the one reality) that is liberated, seeing as a consequence “there is only the Self everywhere. I am not, nor is there anybody else”. TS 1/336cd-337ab
 
-219\. This reference from the Śrīkanthīyasarihitā is quoted by Kṣemarāja, who identifies it for us in his commentary on ŚSū 2/1 (‘the mind is mantra’), where he says: ‘Mantra is that which (the adept) reflects upon inwardly in secret as one with the Supreme Lord . . . . The mind of the adept is intent on reflecting on the deity of the mantra; becoming thus one with it, it is mantra. (Mantra) is not a mere aggregate of various letters.’ Maheśvarānanda (MM p. 123-124) also quotes his aphorism, commenting: “It is said, in accord with this teaching, that the primary meaning of the words of a mantra are just the essential nature of one’s own consciousness. On the contrary, (the meaning found) in the particular arrangements of the letters is said to be so secondarily.” iti nītyā svātmasaṁvit-svarūpasyaiva mantraśabdārthatvaḥ mukhyam | akṣara-sanniveśeṣu punar upacāreṇocyata ity uktarn bhavati |
+219\. This reference from the Śrīkanthīyasarihitā is quoted by Kṣemarāja, who identifies it for us in his commentary on ŚSū 2/1 (‘the mind is mantra’), where he says: ‘Mantra is that which (the adept) reflects upon inwardly in secret as one with the Supreme Lord . . . . The mind of the adept is intent on reflecting on the deity of the mantra; becoming thus one with it, it is mantra. (Mantra) is not a mere aggregate of various letters.’ Maheśvarānanda (MM p. 123-124) also quotes his aphorism, commenting: “It is said, in accord with this teaching, that the primary meaning of the words of a mantra are just the essential nature of one’s own consciousness. On the contrary, (the meaning found) in the particular arrangements of the letters is said to be so secondarily.” iti nītyā svātmasaṁvit-svarūpasyaiva mantraśabdārthatvaḥ mukhyam | akṣara-sanniveśeṣu punar upacāreṇocyata ity uktaṁ bhavati |
 
 220\. CF, TS 21/43: ekānte vijane dhyātvā japet tat tu parāyanaḥ | lakṣam ekar susantapto? \[g: susatnadvo\] mūlamantrasya sādhakaḥ I| ‘Having meditated in a solitary place, the adept who has practiced austerity well should undertake the repetition for 100,000 times of the root mantra.”
 

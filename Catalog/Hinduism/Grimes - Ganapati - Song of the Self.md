@@ -17,8 +17,7 @@ language:
   - English
 pages: 166
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[Grimes - Ganapati (1995).pdf]]"
   - "[[Library/Hinduism/Ganapati - Song of the Self (Grimes)/Ganapati - Song of the Self (Grimes)]]"

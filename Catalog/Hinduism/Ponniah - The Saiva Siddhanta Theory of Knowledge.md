@@ -17,8 +17,7 @@ language:
   - English
 pages: 369
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[sen-the-saiva-siddhanta-theory-of-knowledge.pdf]]"
 aliases:

@@ -58,7 +58,7 @@ All those who (explain these) verses without having understood this are (wasting
 
 #### Viveka on 28.364–365
 
-‘The position of the relative pronoun (yaf) and the demonstrative (tat) is reversed (vyatyayam).’ (Instead of yarn yarn samaran taṁ tan bhāvaṁi —‘(he attains) whatever state (bhāva) he recollects’, he reads taṁ tah samaran yari yarn (bhavam, , i.e.) ‘he recollects whatever state (bhāva) (he attains)’. (Some (read the text)) ‘in another way’, because (they have altered) the reading (or selected a different variant). ‘The two particles (vā and api) are out of sequence’; (instead of reading vāpi smaran, they read) ‘smaran vāpi’. (Thus, instead of understanding the text to mean ‘or else also (vāpi), he attains whatever state (bhāva) he recollects’, they understand it to mean, ‘or he attains that state (bhāva) recollecting also’). (The diction) ‘he abandons’ (functions as)) ‘a locative absolute’. (Thus, instead of meaning simply ‘he abandons the body 
+‘The position of the relative pronoun (yaf) and the demonstrative (tat) is reversed (vyatyayam).’ (Instead of yarn yarn samaran taṁ tan bhāvaṁi —‘(he attains) whatever state (bhāva) he recollects’, he reads taṁ taṁ samaran yari yarn (bhavam, , i.e.) ‘he recollects whatever state (bhāva) (he attains)’. (Some (read the text)) ‘in another way’, because (they have altered) the reading (or selected a different variant). ‘The two particles (vā and api) are out of sequence’; (instead of reading vāpi smaran, they read) ‘smaran vāpi’. (Thus, instead of understanding the text to mean ‘or else also (vāpi), he attains whatever state (bhāva) he recollects’, they understand it to mean, ‘or he attains that state (bhāva) recollecting also’). (The diction) ‘he abandons’ (functions as)) ‘a locative absolute’. (Thus, instead of meaning simply ‘he abandons the body 
 
 \[illegible\] Above, 28/326cd. 811 8/6-7ab quoted above as 28/325-326ab. 350 That is 351 kusakāśālambinaḥ — literally: ‘hanging (from strands of) Kuśa and Kāśa grass’. tyajaty ante kalevaram | 392 yar yarn vāpi smaran bhāvaṁ taṁ tam evaiti kaunteya sadā tadbhāvabhāvitaḥ || tasmāt sarveṣu kāleṣu mām anusmara yudhya ca | ‘O son of Kunti, or else also, he attains whatever state (bhāva) he recollects at the end, and abandons the body, always taken up with feeling that state (bhāvita). Therefore, think of me at all times and fight! 28/325
 
@@ -103,7 +103,7 @@ viditamytisatattvāḥ sahṁvidambhonidhānād
 acalahṛdayavīryākarṣaniṣpīdanottham |
 amṛtam iti nigīrne kālakūṭe ‘tra devā 
 
-yadi pibatha tadānīri niścitaṁ vah śivatvam || 367 ॥ 
+yadi pibatha tadānīri niścitaṁ vaḥ śivatvam || 367 ॥ 
 
 (Even) after having swallowed the Poison of Time (kālakūṭa) (produced by the churning of the Milky Ocean), if you (all), who have come to know the nature of death and (are like) gods, drink the nectar that comes 
 
@@ -230,7 +230,7 @@ Surely (one may ask), how is it that that (consciousness) expands because of jus
 उच्छलन्निजटृम्योधः संवित्सु प्रतिबिम्बितः ॥ २३७४ ॥
 बहुदरपणवदीप्तः सवीयेताप्ययत्नतः ।
 
-ucchalan nijaraśmyoghaḥ saṁvitsu pratibimbitaḥ ॥ 374 II bahudarpaṇavad dīptaḥ sarvāyetāpy ayatnataḥ | 
+ucchalan nijaraśmyoghaḥ saṁvitsu pratibimbitaḥ ॥ 374 ॥ bahudarpaṇavad dīptaḥ sarvāyetāpy ayatnataḥ | 
 
 The flux of the rays of their own (senses), pouring forth, reflected in the (individual) consciousness (of each of those present,) as if within many mirrors, (thus) intensified (dīpta), spontaneously“ becomes them all (sarvāyeta).\* (374cd-375ab) 
 
@@ -297,7 +297,7 @@ Again, in the case of those in whose midst there is someone in whom the contract
 अतन्मये तु कस्िपिं्िततत्रस्थे प्रतिहन्यते ॥ ३७८ ॥
 स्थपुटस्यर्शवत्संविद्विजातीयतया स्थिते ।
 
-atanmaye tu kasmiṁnścit tatrasthe pratihanyate ॥ 378 |I sthapuṭasparśavat saṁvid vijātīyatayā sthite | 
+atanmaye tu kasmiṁnścit tatrasthe pratihanyate ॥ 378 ॥ sthapuṭasparśavat saṁvid vijātīyatayā sthite | 
 
 However, if anyone present there is (not absorbed in the show, and so) not one with it, (the one collective, unified consciousness) is destroyed, because, like the touch of an uneven, rugged surface (sthapuṭa), (his) consciousness stands out as differing in kind (from that of the others). (378cd-379ab) 
 
@@ -305,7 +305,7 @@ However, if anyone present there is (not absorbed in the show, and so) not one w
 
 (The person is) ‘not one with it’ means that he does not possess a state of oneness with (the collective) consciousness. Thus, it is said that (his consciousness) ‘stands out as differing in kind (from that of the others)’, e the touch of an uneven, rugged surface (sthapuṭa)’. It is like (touching) something (with an uneven surface, that is, with) depressions (in some places) and protuberances (in others) — the sense of touch meets resistance in (each place where there is a) depression. Such is the case here also with (the one collective) consciousness. This is the meaning. 
 
-7? Abhinava has in mind the rules (samaya) the initiate is bound to observe taught in the Devyāyāmala. Amongst them are that he must rid himself of pride, envy and other such defects (see above, 15/523cd (529cd)). The ethics of these Tantras does not maintain that the initiate must observe the rules commanded by the deity, otherwise the sin they cause angers him and he may punish him for doing so. While this is also possible, Abhinava stresses that this must be done in order to remove the impediment to the free expansion of consciousness. \[illegible\] Silburn: ‘When free from the causes of contraction such envy, jealousy, etc., the unobstructed expanding of consciousness is known as the bliss of the yoginīs.” Müller-Ortega: ‘The absence of causes of contraction such as jealousy, hate, etc., allows consciousness in such moments fully to expand without obstacles in a fullness of bliss, %7 Instead of yeṣāmń punar irṣyādisaṁṁkocābhāvo nāsti, teṣām kih sahvinmayībhāvo bhaven na vety read yeṣāḥ madhye kasmiṁś cit punar īrṣyādisarłṁkocābhāvo nāsti, anyeṣāṁ ki samvinmayībhāvo bhaven na vety 5S Silburn: ‘But if any among the audience does not identify with the ceremony, his consciousness remaining alien and as if full of asperities, etc.” Müller-Ortega: ‘But if even one of those present is not concentrated and absorbed, then consciousness remains offended as at the touch of a surface full of depressions and protuberances because he stands out there as a heterogeneous element.”
+7? Abhinava has in mind the rules (samaya) the initiate is bound to observe taught in the Devyāyāmala. Amongst them are that he must rid himself of pride, envy and other such defects (see above, 15/523cd (529cd)). The ethics of these Tantras does not maintain that the initiate must observe the rules commanded by the deity, otherwise the sin they cause angers him and he may punish him for doing so. While this is also possible, Abhinava stresses that this must be done in order to remove the impediment to the free expansion of consciousness. \[illegible\] Silburn: ‘When free from the causes of contraction such envy, jealousy, etc., the unobstructed expanding of consciousness is known as the bliss of the yoginīs.” Müller-Ortega: ‘The absence of causes of contraction such as jealousy, hate, etc., allows consciousness in such moments fully to expand without obstacles in a fullness of bliss, %7 Instead of yeṣāmń punar irṣyādisaṁṁkocābhāvo nāsti, teṣām kiṁ sahvinmayībhāvo bhaven na vety read yeṣāṁ madhye kasmiṁś cit punar īrṣyādisarłṁkocābhāvo nāsti, anyeṣāṁ ki samvinmayībhāvo bhaven na vety 5S Silburn: ‘But if any among the audience does not identify with the ceremony, his consciousness remaining alien and as if full of asperities, etc.” Müller-Ortega: ‘But if even one of those present is not concentrated and absorbed, then consciousness remains offended as at the touch of a surface full of depressions and protuberances because he stands out there as a heterogeneous element.”
 
 *[p. 172]* ^pg189
 
@@ -366,7 +366,7 @@ Is he of any assistance or not? With this doubt in mind, he says:
 स त्वनुग्रहशक्त्या चेद्विद्धस्तत्तनमयीभवेत् ॥ ३८२ ॥
 वामाविद्धस्त तन्नि्देत्यशा्तं घातयेदपि ।
 
-sa tv anugrahaśaktyā ced viddhas tattanmayī bhavet || 382 II vāmāviddhas tu tan nindet paścat taṁ ghātayed api | 
+sa tv anugrahaśaktyā ced viddhas tattanmayī bhavet || 382 || vāmāviddhas tu tan nindet paścat taṁ ghātayed api | 
 
 If he is penetrated by the power of grace, he becomes (absorbed in the rite and) one with that, but if he is penetrated by the malevolent (power of the Lord) (vama),\* ), he would criticize (the gathering), and after that he would (even) strike out at it (ghātayet) also. (382cd-383ab) 
 
@@ -401,7 +401,7 @@ And even if he is not one (with the participants’ consciousness when he enters
 लोकाचारस्थितो यस्तु प्रविष्टे तादृशे तु सः ॥ ३८४ ॥
 अकृत्वा तं समाचारं पुनशचक्रं प्रपूजयेत् ।
 
-lokācārasthito yas tu praviṣṭe tādṛśe tu saḥ ॥ 384 I|
+lokācārasthito yas tu praviṣṭe tādṛśe tu saḥ ॥ 384 ॥
 akṛtvā ta samācāraṁ punaś cakram prapūjayet | 
 
 If such a one who is engaged in the common observance (of Vedic norms) (lokācāra) (happens to have) entered (the gathering, the officiant should interrupt the rite). Without completing that common (basic) practice (samācāra) (at that time), he should worship the assembly (cakra) again (later). (384cd-385ab) 
@@ -606,9 +606,9 @@ In this way, one should request a teacher of this sort for an explanation (of th
 इत्थं विज्ञाय सदा शिष्यः सम्पूर्णशाखबोद्धारम् ।
 व्याख्यायै गुरुमभ्यर्थयेत पूजापुरःसरं मतिमान् ॥ ३९४ ॥
 
-ittharn vijñāya sadā 
+itthaṁ vijñāya sadā 
 
-siṣyaḥ sampūrṇaśāstraboddhāram | 
+śiṣyaḥ sampūrṇaśāstraboddhāram | 
 
 \*%\* Read huluhule for hulahule. See note 28,401 above.
 
@@ -676,7 +676,7 @@ adhare kaje ca kalpe-
 sāmānyavidhiniyuktā- 
 
 rghapātrayogena cakram atha samyak |
-santarpya vyākhyānarn 
+santarpya vyākhyānaṁ 
 
 kuryāt sambandhapūrvakai matimān || 399 ॥ 
 
@@ -839,7 +839,7 @@ The teacher should undertake (his) explanation making use of (every) means to aw
 
 *[p. 188]* ^pg205
 
-should not talk about (a subject) that is (found further ahead,) after (that) chapter (patalād iirdhvam). ). (406) 
+should not talk about (a subject) that is (found further ahead,) after (that) chapter (paṭalād iirdhvam). ). (406) 
 
 ### TĀ 28.407
 
@@ -887,8 +887,8 @@ Surely (one may ask), what is the authority (that supports the view that one sho
 सर्वस्मात्कर्मणो जालात्समृतितत्वकलाविद : ।
 तथापि स्थितिरकषर्थं कर्तव्यश्चोदितो विधिः ॥ ४११ ॥
 
-śŚrīpicau ca smṛter eva pāpaghnatve kathaḥ vibho ॥ 409 II prāyaścittavidhiḥ prokta iti devyā pracodite |
-satyaṁ smaranam eveha sakṛj \[japtam vimocayet || 410 ॥
+śŚrīpicau ca smṛter eva pāpaghnatve kathaḥ vibho ॥ 409 ॥ prāyaścittavidhiḥ prokta iti devyā pracodite |
+satyaṁ smaraṇam eveha sakṛj \[japtam vimocayet || 410 ॥
 sarvasmāt karmanṇo jālāt smṛtitattvakalāvidaḥ |
 tathāpi sthitirakṣārthaṁ kartavyaś codito vidhiḥ \\\\ 411 Il 
 
@@ -930,7 +930,7 @@ sāstracaryāsadāyattaiḥ saṁkarari tad vivarjayet ॥ 413
 || 
 
 saṁkaraṁ vā samanvicchet prāyaścittan samācaret |
-yathā teṣām na śāstrārthe dolārūdhā matir bhavet ॥ 414 II 
+yathā teṣām na śāstrārthe dolārūdhā matir bhavet ॥ 414 ॥ 
 
 Thus, if he is without thought, and (his involvement with this) obscured reality (saṁvṛti) has ceased, he should avoid mixing with those who are always dependent on observance (caryā) (taught) in the scriptures. Or else, if he does wish to mix (with them), he should practice the reparatory rites (prāyaścitta) in such a way that their mind should not vacillate (with doubt) concerning the meaning of the scriptures. (413-14) 
 
@@ -956,7 +956,7 @@ He explains by way of an example (a manner of) atonement for an infringement of 
 प्रतिष्ठितस्य तूरादर्द्शनेऽनधिकारिणा ॥ ४१८ ॥
 प्रायश्चित्तं प्रकर्तव्यमिति श्रीब्रह्मयामले ।
 
-yat svayarn Śivahastākhye vidhau sañcoditai purā |
+yat svayaṁ Śivahastākhye vidhau sañcoditai purā |
 satar japtvāsya cāstrasya mucyate strīvadhād rte || 415 ॥
 saktināśān mahādoṣo narakaṁ śāśvataṁ priye |
 iti śrīratnamālāyām 
@@ -968,7 +968,7 @@ mālinī mātṛkā vāpi japyā lakṣatrayāntakam |
 pratiṣthitasya tūrāder darśane ‘nadhikārinṇā ॥ 418 ॥
 prāyaścitta prakartavyam iti śŚrībrahmayāmale | 
 
-(A rite of) atonement (niṣkṛti) that cancels the sin when the Rule has been transgressed is taught in the venerable Ratnamālā for those who have been initiated into a Kula (kulaja). (There the Lord says,) “(I will tell you) what I myself have previously enjoined (in the course of explaining) the procedure (vidhi) called ‘Śiva’s hand’. Having repeated the (Mantra of) the great Weapon a hundred times, he is freed (from sin). (The sole) exception (is the sin of) killing a woman. The blame (dosa) ) (incurred) by killing a Śakti is (very) great. (Indeed,) O beloved, (the consequence) is eternal hell.” (415-417ab) 
+(A rite of) atonement (niṣkṛti) that cancels the sin when the Rule has been transgressed is taught in the venerable Ratnamālā for those who have been initiated into a Kula (kulaja). (There the Lord says,) “(I will tell you) what I myself have previously enjoined (in the course of explaining) the procedure (vidhi) called ‘Śiva’s hand’. Having repeated the (Mantra of) the great Weapon a hundred times, he is freed (from sin). (The sole) exception (is the sin of) killing a woman. The blame (doṣa) ) (incurred) by killing a Śakti is (very) great. (Indeed,) O beloved, (the consequence) is eternal hell.” (415-417ab) 
 
 ### TĀ 28.417–419
 
@@ -1019,7 +1019,7 @@ prostitutes. The initiate should not look at naked women with lust if they are b
 टूतीपरिग्रहेऽन्यत् गतशचत्काममोहितः ॥ ४२२॥
 लक्षजापं ततः क्ीदित्युक्तं ब्रह्मयामले ।
 
-brahmaghno gurutalpastho vīradravyaharas tathā ॥ 419 Il devadravyahṛd ākāraprahartā liṁgabhedakaḥ |
+brahmaghno gurutalpastho vīradravyaharas tathā ॥ 419 ॥ devadravyahṛd ākāraprahartā liṁgabhedakaḥ |
 nityādilopakṛd bhraṣṭa (>bhraṣtaḥ) svakamātrāparicchadaḥ ॥ 420 ॥
 saktivyaṅgatvakṛd yogijñānihantā vilopakaḥ |
 naimittikānām lakṣādikramād dviguṇnaṁ japet ॥ 421 ॥
@@ -1082,7 +1082,7 @@ How should the teacher be worshipped here? It is said:\*\*'
 अतोषयित्वा तु गुरुं दक्षिणाभिः समन्ततः ।
 तत्त्वज्ञोऽप्युणवन्धेन तेन यात्यधिकारिताम् ॥ ४२९ ॥
 
-mandale svastikaṁ kṛtvā tatra haimādikāsanam I| 425 II kṛtvārcayeta tatrastham adhvānami sakalāntakam |
+mandale svastikaṁ kṛtvā tatra haimādikāsanam || 425 || kṛtvārcayeta tatrastham adhvānami sakalāntakam |
 tato vijñapayed bhaktyā tadadhiṣthitaye gurum I| 426 I|
 sa tatra pūjyaḥ svair mantraiḥ puṣpadhūpārghavistaraiḥ |
 samālambhanasadvastrair naivedyais tarpaṇaiḥ kramāt ॥ 427 ॥
@@ -1132,7 +1132,7 @@ Surely (one may ask), it was said before that the sacrificial fee is (given to t
 
 ततः प्रपूजयेच्चक्रं यथाविभवसम्भवम् ॥ ४३२ ॥
 
-pūrvaṁ hi yāgāṁgatayā proktami tat tuṣtaye tv idam ॥ 431 Il tajjuṣtam atha tasyājñā prāpyāśnīyāt svayarn śiśuḥ |
+pūrvaṁ hi yāgāṁgatayā proktami tat tuṣtaye tv idam ॥ 431 ॥ tajjuṣtam atha tasyājñā prāpyāśnīyāt svayaṁ śiśuḥ |
 tataḥ prapūjayec cakran yathāvibhavasambhavam ॥ 432 || 
 
 (The worship of the teacher) that was taught before“ was as an ancillary to the sacrifice. This one is to satisfy him (personally). Now, once the disciple has received his permission (to do so), he should himself eat the remnants of (the teacher’s) meal. He should then worship the assembly (cakra) as (lavishly) as his financial means permits. (431cd-432) 
@@ -1147,7 +1147,7 @@ He emphasizes (the point) by way of (referring to what happens by doing) the opp
 
 अकृत्वा गुरुयागं तु कृतमप्यकृतं यतः ।
 तस्मात्प्रयत्नतः कार्यो गुरुयागो यथाबलम् ॥ ४३३ ॥
-akṛtvā guruyāgaṁ tu kṛtam apy akṛtarn yataḥ |
+akṛtvā guruyāgaṁ tu kṛtam apy akṛtaṁ yataḥ |
 tasmāt prayatnataḥ kāryo guruyāgo yathābalam ॥ 433 ॥ 
 
 Without performing a sacrificial rite for the teacher (guruyāga), even what has been done is (as if) it had not been done. Thus, the sacrificial rite for the teacher should be performed with effort and all one’s might (yathābala). (433) 
@@ -1164,7 +1164,7 @@ If the teacher is not present, then what should be done? With this doubt in mind
 तद्रव्यं देवताकृत्ये कुयीद्धक्तजनेष्वथ ॥ ४३४ ॥
 
 atatrastho ‘pi hi guruḥ pūjyaḥ saṁkalpya pūrvavat |
-tad dravyaṁ devatākṛtye kuryād bhaktajaneṣv atha ॥ 434 I| 
+tad dravyaṁ devatākṛtye kuryād bhaktajaneṣv atha ॥ 434 ॥ 
 
 Even if the teacher is not present there, he should be worshipped as before, imagining (him to be there), and that sacrificial substance which is meant for the gods, should be offered to (his) devotees. (434) 
 

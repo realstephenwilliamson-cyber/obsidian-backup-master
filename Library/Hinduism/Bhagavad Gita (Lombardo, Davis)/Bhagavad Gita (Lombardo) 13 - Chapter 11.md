@@ -6,7 +6,7 @@ page_range: "64–71"
 aliases:
   - "Gita (Lombardo) 11"
 ---
-[p. 64]
+[p. 64] ^pg64
 
 ## Chapter Eleven
 

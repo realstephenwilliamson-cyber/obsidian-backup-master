@@ -17,8 +17,7 @@ language:
   - English
 pages: 263
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Play_and_Self_Reflection_Eugen_Fink_s_Ph.pdf]]"
   - "[[Library/Philosophy/Dialogue and Universalism 28, no. 4 (Brudzinska)/Dialogue and Universalism 28, no. 4 (Brudzinska)]]"

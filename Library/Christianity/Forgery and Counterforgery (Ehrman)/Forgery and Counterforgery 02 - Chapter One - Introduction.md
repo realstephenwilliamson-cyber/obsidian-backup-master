@@ -6,7 +6,7 @@ page_range: "1–8"
 ---
 [[Forgery and Counterforgery 01 - Acknowledgments|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 03 - Chapter Two - Forgers, Critics, and Deceived Deceivers|next →]]
 
-[p. 1]
+[p. 1] ^pg1
 
 ## Chapter One: Introduction
 
@@ -54,7 +54,7 @@ I should stress that the preceding topics are all important and deserve full exa
 
 Another way to express this caveat is this: my ultimate concerns do not lie (at least in this study) with theological or ontological questions of ultimate truth, but in historical questions about how Christianity developed as a religion. From a historical perspective—just to take an example—writings that were actually written by Paul were themselves products of their time, based on things Paul heard, experienced, and thought, just as were the writings produced by others in his name. As a historian I do not value the authentically Pauline writings any more or less than later “Pauline” writings that were forged.
 
-[p. 8]
+[p. 8] ^pg8
 
 ---
 

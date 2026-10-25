@@ -30,7 +30,7 @@ yad anyanyakkṛtyā viṣamaviśikhaploṣanaguror vibhoḥ stotre saśvat prat
 This is the way (vidhi) to cross over (to the liberated state), once having understood the manner of life which is (this) mass of suffering. (Experiencing) the savour of the essence of the expansion of Great Bliss, this miserable day (of Māyā), which is its opposite, is reduced to naught. Thus, the mind, freed from fear, is constantly reflected in the hymn to the Omnipresent Lord, who is the teacher that burns up the rugged path (of fettered life). (1) 
 
 vimṛśya svātmānaṁ vimṛśati punaḥ stutyacaritar tathā stotā stotre prakaṭayati bhedaikaviṣaye |
-vimṛṣtaś ca svātmā nikhilaviṣayajñānasamaye tad itthań tvatstotre 'ham iha satatar yatnarahitaḥ ॥ 2 Il 
+vimṛṣtaś ca svātmā nikhilaviṣayajñānasamaye tad itthań tvatstotre 'ham iha satatar yatnarahitaḥ ॥ 2 ॥ 
 
 Having reflected on himself, the one who lauds (You) reflects again on (Your) laudable conduct (carita), and reveals it in the hymn that has as its subject the oneness of duality. And so too is one’s own Self contemplated every time knowledge of the objects of sense (viṣaya) (arises). In this way, free of fatigue, I am always (present) here in your hymn. (2) 
 
@@ -49,7 +49,7 @@ anāmṛṣṭaḥ svātmā na hi bhavati bhāvapramitibhāj anāmṛṣtaḥ sv
 One’s own Self, ignored \[illegible\] does not rightly know existence. (Indeed,) without the practice of awareness (there would be no knowledge,) even that one’s own Self is being ignored. And Śiva is one’s own Self in the oneness of feeling (rasa) with all of radiantly manifesting existence, and so, my heart disposed to (uttering) Your hymn, I am constantly made joyful (sukhita). (3) 
 
 vicitrair jātyādibhramaṇaparipāṭīparikarair avāptam sārvajñari hṛdayaṁ yad ayatnena bhavatā |
-tad antas tvadbodhaprasarasaraṇībhūtamahasi sphuṭam vāci prāpya prakaṭaya vibhoḥ stotram adhunā I| 4 |l 
+tad antas tvadbodhaprasarasaraṇībhūtamahasi sphuṭam vāci prāpya prakaṭaya vibhoḥ stotram adhunā || 4 || 
 
 You have effortlessly attained the heart of the omniscient one by virtue of the many varied discernments of (the true nature of) the series of (worldly) errors such as caste and the like. Having attained that clearly within the great power of speech, which serves as the path for the flow of your awakened consciousness (bodha), now make the pervasive Lord’s hymn clear (and lucid). (4) 
 
@@ -79,7 +79,7 @@ That aesthetic savour (rasa), (experienced) when restrictions fall away in the s
 
 Self-luminous union (yoga), it is the oneness which is the essential nature of all phenomenal existence that, with (its) streams of harmonious attributes, is supreme consciousness that is priceless and delightful. (8) 
 
-itīdṛkṣair rūpair varada vividharn te kila vapur vibhāti svāmśe 'smin jagati gatabhedańn bhagavataḥ |
+itīdṛkṣair rūpair varada vividhaṁ te kila vapur vibhāti svāmśe 'smin jagati gatabhedańn bhagavataḥ |
 tad evaitat stotuṁ hṛdayam atha gīr bāhyakaraṇnaprabandhāś ca syur me satatam aparityaktarabhasaḥ ॥ 9 ॥ 
 
 O bestower of boons, Your body shines in many ways with such forms within this, the Lord’s universe, which is as aspect (aṁśa) of Himself in which He, (as Your body), is free of duality. 
@@ -105,7 +105,7 @@ Thus, the state of the pervasive Lord is both various and not, dynamic (krama) a
 amuṣmāt saṁpūrnāt vata rasamahollāsasarasān nijāṁ 5441101 bhedaṁ gamayasi nijecchāprasarataḥ |
 anarghaṁ svātantryaṁ tava tad idam atyadbhutamayīṁ 
 
-bhavacchaktir stunvan vigalitabhayo 'harn śivamayaḥ || 12 ॥ 
+bhavacchaktir stunvan vigalitabhayo 'haṁ śivamayaḥ || 12 ॥ 
 
 From this completely full lake of the great outpouring of aesthetic savour (rasa), You divide Your own power by the extending flow (prasara) of Your will. This is Your sinless freedom made of extraordinary wonder. As I 
 
@@ -135,14 +135,14 @@ The Sphere of Objectivity’
 1\) Sṛṣtikālī (the emantion of objectivity) 
 
 purā sṛṣṭir līnā hutavahamayī yātra vilaset parollāsaunmukhyaṁ vrajati śaśisaṁsparśasubhagā |
-hutāśendusphārobhayavibhavabhāg bhairavavibho taveyarn sṛstyākhyā mama manasi nityarn vilasatām || 15 ॥ 
+hutāśendusphārobhayavibhavabhāg bhairavavibho taveyaṁ sṛstyākhyā mama manasi nityaṁ vilasatām || 15 ॥ 
 
-Initially, the supreme \[illegible\] emanation is merged (in consciousness). She is made of Fire that here, beautiful with its contact with the Moon, enters a state of propense expectancy (aunmukhya) towards the supreme outpouring (of manifestation). O pervasive lord Bhairava, who possesses the glorious power (vibhava) of the expansion of both Fire and Moon, this is Your \[illegible\] called Sṛṣti. May she always play in my mind. (15) (1) 
+Initially, the supreme (parā) emanation is merged (in consciousness). She is made of Fire that here, beautiful with its contact with the Moon, enters a state of propense expectancy (aunmukhya) towards the supreme outpouring (of manifestation). O pervasive lord Bhairava, who possesses the glorious power (vibhava) of the expansion of both Fire and Moon, this is Your (Kālī) called Sṛṣti. May she always play in my mind. (15) (1) 
 
 2\) Raktākālī (the persistence of objectivity) 
 
-visṛṣte \[illegible\] bahir atiśayāsvādavirase yadā tatraiva tvarn bhajasi rabhasād raktimayatām |
-tadā raktā devī tava sakalabhāveṣu nanu mām kriyād raktāpānakramaghaṭitagoṣthīgataghṛnam |l 16 ॥ 
+visṛṣte \[illegible\] bahir atiśayāsvādavirase yadā tatraiva tvaṁ bhajasi rabhasād raktimayatām |
+tadā raktā devī tava sakalabhāveṣu nanu mām kriyād raktāpānakramaghaṭitagoṣthīgataghṛnam ॥ 16 ॥ 
 
 Once the aspect of (phenomenal) existence has been emitted externally and the most excellent (inner) savouring (āsvāda) (of consciousness has become) insipid, if You then assume with force the nature of attachment (rakti), You become the goddess Raktā in all Your emotive states (bhāva). May You indeed make me free from aversion (gataghṛna) in the assembly formed (to attend) the rite of drinking Raktā (the embodiment of the blood of the sacrificial victim) (raktāpānakrama). (16) (2) 
 
@@ -177,14 +177,14 @@ When the flux of doubts has dissolved away and (Your) glory is completely full (
 
 6\) Mṛtyukālī (persistence of perception) 
 
-tad ittharn devībhiḥ sapadi dalite bhedavibhave vikalpaprāṇāsau pravilasati mātṛsthitir alam |
+tad itthaṁ devībhiḥ sapadi dalite bhedavibhave vikalpaprāṇāsau pravilasati mātṛsthitir alam |
 ataḥ samhārāmśam nijahṛdi vimṛśya sthitimayī 
 
 [^1158]: According to Monier Williams, the word ‘yama’, which basically means moral restraint, has a range of meanings, including: ‘m. a rein, curb, bridle, a driver, charioteer, the act of checking or curbing, suppression, restraint, restraint of words (silence), self-control, forbearance, any great moral rule or duty (as opposed to niyama, a minor observance; ten yamas are mentioned, sometimes only five, (in Yoga) self-restraint (as the first of the eight ancillaries of Yoga); any rule or observance.’ It is also the name of the god of death, who judges the actions of the dead, consigning them their appropriate reward or punishment. In this context, ‘yama’ is the mistaken notion (vikalpa) that vacillates between right and wrong, restraining the person subject to it by the restrictions of moral law and regulations. In this, the fourth station of the cycle of perception, which is that of the inexplicable in the domain of objectivity, yama is the uncertainty of what is right and wrong, and as a consequence, what one should do.
 
 *[p. 477]* ^pg490
 
-prasannā syān mṛtyupralayakaranī me bhagavatfī ॥ 20 Il 
+prasannā syān mṛtyupralayakaranī me bhagavatfī ॥ 20 ॥ 
 
 When the goddesses have in this way destroyed the power of duality in an instant, the abiding state of the perceiver, of which the (very) life is conceptualization 
 
@@ -202,7 +202,7 @@ kramād unmeṣeṇa pravidadhati \[illegible\] bhavadaśām imābhyo devībhya�
 The plane created in this way by the Krama of the six wheels (of the first six Kālīs) are these, Your energies, that have been attained by the unfolding of Your own glorious power (vibhava) of (withdrawal), the third (state). By unfolding in due order (kramāt), (Bhadrakālī) bestows a strange (and wonderful) state (daśā) in the world. May I, whose heart is inclined to devotion, be freed from fear by these goddesses. (21) 
 
 imār rundhe bhūmiṁ bhavabhayabhidātaṁkakaranīm imām bodhaikāntadrutirasamayīm cāpi vidadhe |
-tad ittharn sahrodhaṁ drutim atha vilupyāśubhatatīr yatheṣtar cācārari bhajati lasatāṁ sā mama hṛdi ॥ 22 ॥ 
+tad itthaṁ sahrodhaṁ drutim atha vilupyāśubhatatīr yatheṣtar cācārari bhajati lasatāṁ sā mama hṛdi ॥ 22 ॥ 
 
 I am blocking this plane which causes mental distress due to the duality and fear of phenomenal existence. So too, I ordain this (state) which is the inwardly melting juice (of the aesthetic delight) (rasa) at one with awakened consciousness. Having destroyed in this way blockage, flux and the inauspicious mass of sacrificial rites (tati), she behaves (freely) as she wishes. May She play in my heart! (22) (7) 
 
@@ -256,10 +256,10 @@ pramāṇari mātārari mitim atha samagrari jagad idar \[illegible\]
 
 krodīkṛtya śrayatu mama cittaṁ citim imām || 27 ॥ 
 
-Then having suddenly severed the process (krama) within the goddess, whose abiding state is supreme and completely full, by the aesthetic savour (rasa) of the consciousness (mati) of stable continuity (sthiti), She ordains (the operation of) the means of knowledge, perceiver, perception and all this universe, having encompassed (them all). May she reside in my mind (citta), which is this abiding \[illegible\] consciousness (citi). (27) (12) 
+Then having suddenly severed the process (krama) within the goddess, whose abiding state is supreme and completely full, by the aesthetic savour (rasa) of the consciousness (mati) of stable continuity (sthiti), She ordains (the operation of) the means of knowledge, perceiver, perception and all this universe, having encompassed (them all). May she reside in my mind (citta), which is this abiding (sthitā) consciousness (citi). (27) (12) 
 
-anargalasvātmamaye mahesśe tiṣthanti yasmin vibhuśaktayas tāh |
-tarn śaktimantaṁ pranamāmi devan manthānasaṁjñaṁ jagadekasāram || 28 I| 
+anargalasvātmamaye mahesśe tiṣthanti yasmin vibhuśaktayas tāḥ |
+tarn śaktimantaṁ pranamāmi devan manthānasaṁjñaṁ jagadekasāram || 28 || 
 
 I bow to the god called Manthāna (Bhairava), the one essence of the universe, Who is the possessor of those energies of (His) glorious power that abide within the Great Lord who is my own unfettered Self. (28) 
 
@@ -269,7 +269,7 @@ tenāśu sarvajanatār nijaśāsanāṁmśusaṁśāntitākhila-tamahpaṭalā�
 O God, having heard in this way the continuing series of praises of the current of the rays of Your own powers, if You become propitious to me, may You quickly quell by that (grace) the entire veil of darkness of all humanity with the rays of Your teachings. (29) 
 
 ṣatṣaṣtinām eke varṣe navamyām asite 'hani |
-mayā 'bhinavaguptena mārgaśīrṣe stutaḥ śivaḥ ॥ 30 Il 
+mayā 'bhinavaguptena mārgaśīrṣe stutaḥ śivaḥ ॥ 30 ॥ 
 
 iti śrī abhinavaguptapādācāryakṛtaṁi kramastotraṁ sampūrṇam || 
 
@@ -303,7 +303,7 @@ Artharatnāvali, the earliest commentary on the Nityāṣodaśikārṇava, the r
 
 Mahānayaprakāśía. 
 
-Sanderson has demonstrated that the Cidgaganacandrikā by = \[illegible\] elaborates on the Mahānayaprakāśa of Arṇasimha. Thus, this was clearly an influential work in South Indian on the Krama system. 
+Sanderson has demonstrated that the Cidgaganacandrikā by = Śrīvatsa elaborates on the Mahānayaprakāśa of Arṇasimha. Thus, this was clearly an influential work in South Indian on the Krama system. 
 
 We know from the many citations Maheśvarānanda makes of the existence of a good number of Krama works belonging to this final phase, many written by Maheśvarānanda himself. Some, probably redacted in Kashmir, were known to Kṣemarāja. An important one is the Kālikākrama, which he quotes in several places. Unknown to Abhinava, it seems that this Krama text, as well as 
 

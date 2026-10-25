@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 22
 verses: 30
-page_range:
-  - 610
-  - 612
+page_range: "610–612"
 aliases:
   - "BCP Psalm 22"
   - "BCP 610"
@@ -58,7 +56,7 @@ you were my God when I was still in my mother's womb. ^22-10
 **22:11** Be not far from me, for trouble is near, \*  
 and there is none to help. ^22-11
 
-[p. 611]
+[p. 611] ^pg611
 
 **22:12** Many young bulls encircle me; \*  
 strong bulls of Bashan surround me. ^22-12
@@ -99,7 +97,7 @@ in the midst of the congregation I will praise you. ^22-21
 stand in awe of him, O offspring of Israel;  
 all you of Jacob's line, give glory. ^22-22
 
-[p. 612]
+[p. 612] ^pg612
 
 **22:23** For he does not despise nor abhor the poor in their poverty;  
 neither does he hide his face from them; \*  

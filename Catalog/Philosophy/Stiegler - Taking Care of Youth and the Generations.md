@@ -19,7 +19,7 @@ language:
 pages: 259
 text: searchable
 status: reading
-physical_copy: true
+print: true
 files:
   - "[[Taking Care of Youth and the Generations (2010).pdf]]"
   - "[[Library/Philosophy/Taking Care of Youth and the Generations (Stiegler)/Taking Care of Youth and the Generations (Stiegler)]]"

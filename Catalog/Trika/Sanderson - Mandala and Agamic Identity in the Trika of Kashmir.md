@@ -17,8 +17,7 @@ language:
   - English
 pages: 25
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Mandala_and_Agamic_Identity_in_the_Trika.pdf]]"
   - "[[Library/Trika/Mandala and Agamic Identity in the Trika of Kashmir (Sanderson)]]"

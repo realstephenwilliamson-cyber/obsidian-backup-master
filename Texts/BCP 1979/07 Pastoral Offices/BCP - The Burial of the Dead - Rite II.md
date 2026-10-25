@@ -5,9 +5,7 @@ section: "Pastoral Offices"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/PastoralOffices/BurialII.html"
-page_range:
-  - 491
-  - 505
+page_range: "491–505"
 aliases:
   - "BCP 491"
   - "BCP 492"
@@ -29,7 +27,7 @@ aliases:
 
 [[BCP 1979]] · *Pastoral Offices* · pages 491–505
 
-[p. 491]
+[p. 491] ^pg491
 
 ## The Burial of the Dead: Rite Two
 
@@ -41,7 +39,7 @@ As for me, I know that my Redeemer lives and that at the last he will stand upon
 
 For none of us has life in himself, and none becomes his own master when he dies. For if we have life, we are alive in the Lord, and if we die, we die in the Lord. So, then, whether we live or die, we are the Lord's possession.
 
-[p. 492]
+[p. 492] ^pg492
 
 Happy from now on are those who die in the Lord! So it is, says the Spirit, for they rest from their labors.
 
@@ -61,7 +59,7 @@ Holy God, Holy and Mighty, Holy and merciful Savior, deliver us not into the bit
 
 *When all are in place, the Celebrant may address the congregation, acknowledging briefly the purpose of the gathering, and bidding their prayers for the deceased and the bereaved.*
 
-[p. 493]
+[p. 493] ^pg493
 
 *The Celebrant then says*
 
@@ -85,7 +83,7 @@ O God, whose mercies cannot be numbered: Accept our prayers on behalf of your se
 
 O God of grace and glory, we remember before you this day our brother (sister) *N.* We thank you for giving *him* to us, *his* family and friends, to know and to love as a companion on our earthly pilgrimage. In your boundless compassion, console us who mourn. Give us faith to see in death the gate of eternal life, so that in quiet confidence we may continue our course on earth, until, by your call, we are reunited with those who have gone before; through Jesus Christ our Lord. *Amen.*
 
-[p. 494]
+[p. 494] ^pg494
 
 At the Burial of a Child
 
@@ -107,7 +105,7 @@ From the Old Testament
 
 *A suitable psalm, hymn, or canticle may follow. The following Psalms are appropriate: 42:1-7, 46, 90:1-12, 121, 130, 139:1-11.*
 
-[p. 495]
+[p. 495] ^pg495
 
 From the New Testament
 
@@ -133,7 +131,7 @@ The Gospel of the Lord.
 
 *Here there may be a homily by the Celebrant, or a member of the family, or a friend.*
 
-[p. 496]
+[p. 496] ^pg496
 
 *The Apostles' Creed may then be said, all standing. The Celebrant may introduce the Creed with these or similar words*
 
@@ -166,7 +164,7 @@ and the life everlasting. Amen.
 
 *When there is a Communion, the following form of the Prayers of the People is used, or else the form on page 465 or 480.*
 
-[p. 497]
+[p. 497] ^pg497
 
 For our brother (sister) *N.*, let us pray to our Lord Jesus Christ who said, "I am Resurrection and I am Life."
 
@@ -188,7 +186,7 @@ Comfort us in our sorrows at the death of our brother (sister); let our faith be
 
 *The Celebrant concludes with one of the following or some other prayer*
 
-[p. 498]
+[p. 498] ^pg498
 
 Lord Jesus Christ, we commend to you our brother (sister) *N.*, who was reborn by water and the Spirit in Holy Baptism. Grant that *his* death may recall to us your victory over death, and be an occasion for us to renew our trust in your Father's love. Give us, we pray, the faith to follow where you have led the way; and where you live and reign with the Father and the Holy Spirit, to the ages of ages. *Amen.*
 
@@ -208,7 +206,7 @@ Preface of the Commemoration of the Dead
 
 Almighty God, we thank you that in your great love you have fed us with the spiritual food and drink of the Body and Blood of your Son Jesus Christ, and have given us a foretaste of your heavenly banquet. Grant that this Sacrament may be to us a comfort in affliction, and a pledge of our inheritance in that kingdom where there is no death, neither sorrow nor crying, but the fullness of joy with all your saints; through Jesus Christ our Savior. *Amen.*
 
-[p. 499]
+[p. 499] ^pg499
 
 *If the body is not present, the service continues with the [blessing and] dismissal.*
 
@@ -230,7 +228,7 @@ You only are immortal, the creator and maker of mankind; and we are mortal, form
 
 Into your hands, O merciful Savior, we commend your servant *N.* Acknowledge, we humbly beseech you, a sheep of your own fold, a lamb of your own flock, a sinner of your own redeeming. Receive *him* into the arms of your mercy, into the blessed rest of everlasting peace, and into the glorious company of the saints in light. *Amen.*
 
-[p. 500]
+[p. 500] ^pg500
 
 *The Celebrant, or the Bishop if present, may then bless the people, and a Deacon or other Minister may dismiss them, saying*
 
@@ -252,7 +250,7 @@ Into paradise may the angels lead you. At your coming may the martyrs receive yo
 
 The Song of Zechariah, *Benedictus* The Song of Simeon, *Nunc dimittis* Christ our Passover, *Pascha nostrum*
 
-[p. 501]
+[p. 501] ^pg501
 
 ## The Committal
 
@@ -280,7 +278,7 @@ The Lord be with you
 
 **Celebrant** Let us pray.
 
-[p. 502]
+[p. 502] ^pg502
 
 *Celebrant and People*
 
@@ -324,7 +322,7 @@ Alleluia. Christ is risen.
 
 *or with the following*
 
-[p. 503]
+[p. 503] ^pg503
 
 The God of peace, who brought again from the dead our Lord Jesus Christ, the great Shepherd of the sheep, through the blood of the eternal covenant: Make you perfect in every good work to do his will, working in you that which is well-pleasing in his sight; through Jesus Christ, to whom be glory for ever and ever. *Amen.*
 
@@ -338,7 +336,7 @@ O God, whose blessed Son was laid in a sepulcher in the garden: Bless, we pray, 
 
 Almighty God, with whom still live the spirits of those who die in the Lord, and with whom the souls of the faithful are in joy and felicity: We give you heartfelt thanks for the good examples of all your servants, who, having finished their course in faith, now find rest and refreshment. May we, with all who have died in the true faith of your holy Name, have perfect fulfillment and bliss in your eternal and everlasting glory; through Jesus Christ our Lord. *Amen.*
 
-[p. 504]
+[p. 504] ^pg504
 
 O God, whose days are without end, and whose mercies cannot be numbered: Make us, we pray, deeply aware of the shortness and uncertainty of human life; and let your Holy Spirit lead us in holiness and righteousness all our days; that, when we shall have served you in our generation, we may be gathered to our ancestors, having the testimony of a good conscience, in the communion of the Catholic Church, in the confidence of a certain faith, in the comfort of a religious and holy hope, in favor with you, our God, and in perfect charity with the world. All this we ask through Jesus Christ our Lord. *Amen.*
 
@@ -348,7 +346,7 @@ Lord Jesus Christ, by your death you took away the sting of death: Grant to us y
 
 Father of all, we pray to you for those we love, but see no longer: Grant them your peace; let light perpetual shine upon them; and, in your loving wisdom and almighty power, work in them the good purpose of your perfect will; through Jesus Christ our Lord. *Amen.*
 
-[p. 505]
+[p. 505] ^pg505
 
 Merciful God, Father of our Lord Jesus Christ who is the Resurrection and the Life: Raise us, we humbly pray, from the death of sin to the life of righteousness; that when we depart this life we may rest in him, and at the resurrection receive that blessing which your well-beloved Son shall then pronounce: "Come, you blessed of my Father, receive the kingdom prepared for you from the beginning of the world." Grant this, O merciful Father, through Jesus Christ, our Mediator and Redeemer. *Amen.*
 

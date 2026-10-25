@@ -4,7 +4,7 @@ book: "[[Play as Symbol of the World (Fink)]]"
 order: 5
 page_range: "125–187"
 ---
-[p. 125]
+[p. 125] ^pg125
 
 ## Chapter Three
 

@@ -57,7 +57,7 @@ And (that energy) With Mind generates the Five-fold Reality (pañcārtha) within
 
 1089?\. arajaḥ 44140 bhānuḥ \[k, kh: bhrāntaḥ\] kalpanātītagocaraḥ | saktyātītaḥ parānando gunṇāśrayavivarjitaḥ || 18 ॥ nirvikāraḥ paraḥ śuddho hetudṛṣtṭāntavarjitaḥ | sarvabhāvāntarasthaś ca vyomātīto nirāmayaḥ \[g: nī-\] \\\\ 19 ॥ sarvagaḥ sarvakartā \[kh, g: -rttā\] ca svacchando ‘mṛtanirbharaḥ \[k, kh: svacchandā\] | 39g-b) nirupādhir mahādevaḥ sarvabhūteṣvavasthitaḥ || 20 ॥ 43kh-a) tasyāvabodhāt paramā svecchayā parameśvara | jātā tatkālikā śaktir ekā taddharmadharminī \[g: tarddharmmadharmmīnī\] || 21 || sūkṣmarūpā \[kh, g: Śūkṣma-\] parā śāntā paramānandananditā | svabhāvataḥ śivā jātā vedyarūpā nirañjanā || 22 ॥ unmanā samanā sā tu svecchayā parameśvarī |
 
-1090?\. yathā raśmiprabhā \[g: rāśmi-\] sūrye \[g: sūrya\] bahnau ca dahanātmikā ॥ 23 ॥ acintitā samutpannā śivasya saha dharminī | samanonmanarūpenṇa śivecchā \[g: śivacchā\] dvayam advayam |l 24 I| tat tad icchāmy anicchātas tadiccheyami \[k, kh, g: -da\] kriye \[g: kriyo\] śive | saṁbhūtā \[illegible\] sambhūtārni\] tu \[g: ta\] parā śaktiḥ \[g: śakti\] samanonmanarūpinī | 25 ॥ 43kh-b, 40g-a) samanā caiva viśve ‘smin pañcārthānām prasūyinī | unmanā śivasāmarthyā \[g: -sāmathyā\] dāpayej jṁānam uttamam \[k: darpayejjñāna-; kh: darpayet jṁāna; g: darppayejñāna-\] ॥ 26 ॥ punaḥ sā grasate viśvaṁ svecchayā parameśvarī | tadvivartaḥ \[k, kh, g: -vivarta\] smṛto jyotiḥ puñjacakreśipūrvagaḥ \[g: puñjacakrośi-\] ॥ kalābījāni sūte ca somārkānalasaṁyutā | ekākārā nirālokā paradhāmasvarūpinī ॥ 28 ॥
+1090?\. yathā raśmiprabhā \[g: rāśmi-\] sūrye \[g: sūrya\] bahnau ca dahanātmikā ॥ 23 ॥ acintitā samutpannā śivasya saha dharminī | samanonmanarūpenṇa śivecchā \[g: śivacchā\] dvayam advayam || 24 || tat tad icchāmy anicchātas tadiccheyami \[k, kh, g: -da\] kriye \[g: kriyo\] śive | saṁbhūtā \[illegible\] sambhūtārni\] tu \[g: ta\] parā śaktiḥ \[g: śakti\] samanonmanarūpinī | 25 ॥ 43kh-b, 40g-a) samanā caiva viśve ‘smin pañcārthānām prasūyinī | unmanā śivasāmarthyā \[g: -sāmathyā\] dāpayej jṁānam uttamam \[k: darpayejjñāna-; kh: darpayet jṁāna; g: darppayejñāna-\] ॥ 26 ॥ punaḥ sā grasate viśvaṁ svecchayā parameśvarī | tadvivartaḥ \[k, kh, g: -vivarta\] smṛto jyotiḥ puñjacakreśipūrvagaḥ \[g: puñjacakrośi-\] ॥ kalābījāni sūte ca somārkānalasaṁyutā | ekākārā nirālokā paradhāmasvarūpinī ॥ 28 ॥
 
 
 *[p. 440]* ^pg453
@@ -74,12 +74,12 @@ Sṛnu vakṣyāmi tat sarvan vakrād vaktreṣu yat \[k, g: ya\] sthitam |
 akathyaṁñ paraman \[illegible\] vācyavācakavarjitam || 1 ॥
 anyaśāstropamāhīnari durvijñeyaṁ durāsadam | 
 
-1091?\. tejas tu \[g: tra\] yasya madhyasthā saikībhāvatvamāgatā \[g: maikī-\] \\ nānākhyagā tu sā bhāti bhūribhānusamaprabhā || 29 || naśaśīi tārakābhāvo nāsau vyomeśaraśmibhā | na ca sā taditaḥ prakhyā citrabhānusamānasā || 30 || 44kh-a) sā bhāsā jaṭhare caiva \[k, kh, g: naiva\] dṛśyate jṁñānacakṣuṣā | unmeṣamārgacakṣuṣe nānyathā dṛśyate tu sā || 31 || pradīpyante tayā sarve \[g: sarvva\] vahnicandrārkatārakāḥ \[g: -tārikāh\] | 40g-b) ravisomavibhāgena sāmarasyapadapradā || 32 I| tenāsormikulā \[g: tanā-\] bhīmā \[kh: bhāmā\] dvaitabhāvasya bhakṣinī | saṁhāravahniyogena kulaprāptagatā parā ॥ 33 ॥ DP 7/18cd-33
+1091?\. tejas tu \[g: tra\] yasya madhyasthā saikībhāvatvamāgatā \[g: maikī-\] \\ nānākhyagā tu sā bhāti bhūribhānusamaprabhā || 29 || naśaśīi tārakābhāvo nāsau vyomeśaraśmibhā | na ca sā taditaḥ prakhyā citrabhānusamānasā || 30 || 44kh-a) sā bhāsā jaṭhare caiva \[k, kh, g: naiva\] dṛśyate jṁñānacakṣuṣā | unmeṣamārgacakṣuṣe nānyathā dṛśyate tu sā || 31 || pradīpyante tayā sarve \[g: sarvva\] vahnicandrārkatārakāḥ \[g: -tārikāh\] | 40g-b) ravisomavibhāgena sāmarasyapadapradā || 32 || tenāsormikulā \[g: tanā-\] bhīmā \[kh: bhāmā\] dvaitabhāvasya bhakṣinī | saṁhāravahniyogena kulaprāptagatā parā ॥ 33 ॥ DP 7/18cd-33
 
 
 *[p. 441]* ^pg454
 
-nādyāpi viditarn yac ca \[g: yavva\] siddhānām bodhaśālinām \[g: -sālināri\] ॥ 2 ॥
+nādyāpi viditaṁ yac ca \[g: yavva\] siddhānām bodhaśālinām \[g: -sālināri\] ॥ 2 ॥
 pāramparyakramāyātaṁ sarńcarantaṁ mukhānmukham |
 tac chṛnuṣva \[k, g: tat-\] mahāprājña yathāvat kālikākramam || 3 ॥ 
 
@@ -88,13 +88,13 @@ The venerable Bhairava said:
 Listen, I will tell (you) all that has come from (my) mouth and is in the mouths (of initiates). The supreme essence, devoid of (anything that can be) denoted (by words) and (any) denotator, cannot be told (to others). Incomparable (to anything in any other) śāstra, it is hard to understand and hard to acquire. Even today, it has not been known by Siddhas, (even though they) possess an awakened consciousness. It has come down through the series (of masters and disciples) and moves from mouth to mouth. O greatly wise one, listen to that Kālikākrama, as is proper. (1-3) 
 
 8 45a) yat tad brahma paran dhāma vyomātītaṁ nirāmayam |
-niṣkalaṁ \[k: nikūlar; g: nikṛlaḥ\] ca para śuddhaṁ \[k: \[illegible\] g: śūddhi\] nirvikāraṁ nirāśrayam || 4 |l kaivalyaṁ ca nirādhāraṁ sarvavāgjālavarjitam |
-nistattvarn paramātmākhyaṁ ajan śāntarnṁ dhruvarn \[g: dhruva\] śivam \[k, g: śi \*1॥5॥
+niṣkalaṁ \[k: nikūlar; g: nikṛlaḥ\] ca para śuddhaṁ \[k: \[illegible\] g: śūddhi\] nirvikāraṁ nirāśrayam || 4 || kaivalyaṁ ca nirādhāraṁ sarvavāgjālavarjitam |
+nistattvaṁ paramātmākhyaṁ ajan śāntaṁ dhruvaṁ \[g: dhruva\] śivam \[k, g: śi \*1॥5॥
 bhāvābhāvapadaiṁīnar \[k: -padaihīnaṁni\] bhāvanāparivarjitam | 
 
 That Brahman that is the supreme abode beyond the Void, free of disease, formless, supremely pure, unchanging, without support, liberation (kaivalya) (itself), without foundation, free of all the net of speech, free of the metaphysical principles, called the Supreme Self, unborn, tranquil, peaceful, stable, auspicious (śiva), devoid of the planes of Being and Nonbeing, and devoid of meditation. (4-6ab) 
 
-hānādānapadair muktarn \[k: dāūnādānapadairyuktaṁ\] sarvagań parameśvaram ॥ 6॥
+hānādānapadair muktaṁ \[k: dāūnādānapadairyuktaṁ\] sarvagań parameśvaram ॥ 6॥
 saktyātītaḥ guṇātītaḥ sarvadvandvavivarjitam |
 akṣarākṣarabhāvena bhāvyaṁ tanna kadācana ॥ 7 ॥
 na dvaitar na ca vādvaitar \[k: nādvaitari\] dvaitādvaitobhayojjhitam |
@@ -110,7 +110,7 @@ Free of the planes of abandonment and assumption, omnipresent, the Supreme Lord,
 energy (kalārūpā), like a great burning coal, She is (full of great and) beautifully radiant energy (sutejasī) (6cd-10ab) 
 
 upamānasvarūpena \[k: -ṇe; g: -rūpena\] bhūribhānurivoditā ॥ 10 ॥
-\[illegible\] khamayiī \[k, g: khabhayī\] khasthā khecarīṣv api durgamā \[k: durbhagā\] l mahākālīkalākhyātā \[k, g: -lāyātā\] kalāmṛtamayī śubhā I| 11 ॥ 
+\[illegible\] khamayiī \[k, g: khabhayī\] khasthā khecarīṣv api durgamā \[k: durbhagā\] l mahākālīkalākhyātā \[k, g: -lāyātā\] kalāmṛtamayī śubhā ॥ 11 ॥ 
 
 In a metaphorical form, She arises like a great (radiant) Sun. The energy (kalā) of the Void, She is the Void, residing in the Void. Even amongst the Skyfarers She is hard to attain. She is called the energy of the Great Kālī. Made of the nectar of energy (kalā), She is auspicious. (10cd-11) 
 
@@ -151,7 +151,7 @@ ekākinī caikavīrā susūkṣmā \[g: suśūkṣmā\] cāvyayā parā ॥ 19 �
 
 Immobile in the location of the (dimensionless) Point (bindu) (of the light of consciousness), she is eternal and abides in the form of Her own (inherent free) will. Solitary and without companion (ekavīrā), She is imperishable and supreme. (19) 
 
-tāsāṁ nāmāni ye deva dvādaśa \[k, g: -śah\] śṛnṇu bhairava |
+tāsāṁ nāmāni ye deva dvādaśa \[k, g: -śaḥ\] śṛnṇu bhairava |
 sarvakāraṇanirmuktā icchā tu yā \[g: pā\] tu \[g: tū\] saṁsthitā ॥ 20 ॥
 khasvarūpā \[k kh: svasvarūpā\] khamadhyasthā khacakre ca vyavasthitā \[g: pyapasthitā\] |
 nirāmayā cāprameyā anuccāryā gunojjhitā \[g: gunojjhatā\] ॥ 21 ॥ 
@@ -236,7 +236,7 @@ alakṣyalakṣā \[k: alakṣālakṣa; g: alakṣyālakṣa\] nirlakṣā \[g:
 6\) Yamakālī (4) (withdrawal of the persistence of emanation) 
 
 yamarūpasvarūpasthā rūpātītasvarūpagā |
-sā kalā līyate \[illegible\] yamakālī tu sā smṛtā || 33 ॥ 
+sā kalā līyate yasyāṁ yamakālī tu sā smṛtā || 33 ॥ 
 
 Yamakālī is said to be (the Kālī) within which the energy (kalā) that is present in the essential nature of the restraint (of injunctions and prohibitions) 
 
@@ -263,7 +263,7 @@ mṛtyvantakā \[k: mṛtyuntakā; g: mṛtyantakā\] kalā yasya praviśed deha
 
 Established in her own nature, her form is the fettered soul, present in (the reality that is) beyond, beyond form and the rest, she protects the Sky, she governs the energies, and falls at the extreme end of the time of death, the destroyer of death, (this) energy (kalā) enters the mandala of the body. (34- 35ab) 
 
-tena hy \[illegible\] kuleśānī mṛtyukālāntapātinī || 35 ॥
+tena hy eṣā kuleśānī mṛtyukālāntapātinī || 35 ॥
 mṛtyukālakalā yasyāḥ praviśed vigrahaṁ śiva |
 \[illegible\] sā mṛtyukālīti jñeyā girisutādhava ॥ 36 ॥ 
 
@@ -281,7 +281,7 @@ Present in (the reality) easily attained between the coming and going (of the br
 
 1100?\. DP 5/33 is quoted in TĀv ad 4/151. Read with the MSs \[illegible\] for rūpātīta
 
-1101?\. Read, with the MSs of the DP, tena hy \[illegible\] for om ity esd.
+1101?\. Read, with the MSs of the DP, tena hy eṣā for om ity esd.
 
 1102?\. Read with the MSs of the DP yasya for yasyāḥ. Two lines prior to this one in the MSs this line is repeated. The second half reads praviśed dehamandale — ‘penetrates the sphere of the body’.
 
@@ -313,7 +313,7 @@ Withdrawal of Withdrawal
 10\) Mārtaṇdakālī (8) (withdrawal of the withdrawal of emanation) 
 
 sabdabrahmapadātītā ṣattriṁśāntanavāntagā |
-brahmāndakhandād uttīrnṇā mārtandī mūrtir avyayā || 41 ॥
+brahmāndakhandād uttīrṇā mārtandī mūrtir avyayā || 41 ॥
 sā kalā līyate yasyāṁ mārtandī kālikocyate | 
 
 Beyond the plane of the Sound Absolute (Śabdabrahman), present at the end of the nine (syllables of Kāli’s Vidyā) at the summit of the thirty-six (principles), beyond (Māyā, which is) the part that is the Egg of Brahmā (brahmānda), She 15 Mārtaṇdī, Whose form is imperishable. The energy that merges within Her is called Mārtanqī Kālikā.” (40-41ab) 
@@ -358,7 +358,7 @@ called Kālakālī.” (44cd-45)
 tejojjvalā \[k kh: tejījvalā, g: tejojvalā\] mahādīptā sūryakoṭisamaprabhā |
 daśasaptavisargasthā mahābhairavabhīṣanṇā I| 46 ॥
 sarihared bhairavān sarvān viśvaṁ ca surapūjita |
-sāntaḥ śāmyati yasyāṁ ca sā syād bharitabhairavī ॥ 47 |l mahābhairavacandograghorakālī parā ca sā | 
+sāntaḥ śāmyati yasyāṁ ca sā syād bharitabhairavī ॥ 47 ॥ mahābhairavacandograghorakālī parā ca sā | 
 
 Burning with radiant energy, greatly energized, her light like that of a billion suns, ‘O (Śiva) worshipped by (all) the gods, She Who resides in the emission of the seventeen (energies),” fierce like the Great Bhairava, withdraws all the Bhairavas and the universe. She within Whom She inwardly comes to rest is Bhairavī, full (of all things). She is Parā (the Supreme Goddess) who is 
 
@@ -368,7 +368,7 @@ Burning with radiant energy, greatly energized, her light like that of a billion
 
 1113?\. DP 5/44cd-45 is quoted in TĀv 4/169-170.
 
-1114?\. The Vidyā of Kālasaṁkarṣiṇī, who is the supreme form of Kālī of the Kashmiri Kālī Krama, consists of seventeen syllables. She is accordingly depicted as being in the centre, as the seventeenth and highest Goddess, surrounded by Her sixteen aspects, represented by Kālīs, each of which embodies one of the syllables of the Vidyā. These kind of configurations (cakra, mandala) of purely female forms, is an interesting feature of the \[illegible\] Krama and its predecessor, the Mata, which is expounded in the Jayadrathayāmala. A striking, well-known example of the same is Śrīcakra of the Śrīvidyā school, which also consists entirely of female forms. In both these cases, the Goddess in the centre contains within Herself the male polarity which must, of course, be present in some form. The Wheel of Sixteen energies, in this case Kālīs, symbolizes the moon with its sixteen digits. The seventeenth in the centre is understood to be the emissive energy (visarga) that generates and withdraws the others. This matter is discussed at length in Dyczkowski 2009: vol. 1, 421 ff and vol. 2, 346 ff.
+1114?\. The Vidyā of Kālasaṁkarṣiṇī, who is the supreme form of Kālī of the Kashmiri Kālī Krama, consists of seventeen syllables. She is accordingly depicted as being in the centre, as the seventeenth and highest Goddess, surrounded by Her sixteen aspects, represented by Kālīs, each of which embodies one of the syllables of the Vidyā. These kind of configurations (cakra, mandala) of purely female forms, is an interesting feature of the Kālī Krama and its predecessor, the Mata, which is expounded in the Jayadrathayāmala. A striking, well-known example of the same is Śrīcakra of the Śrīvidyā school, which also consists entirely of female forms. In both these cases, the Goddess in the centre contains within Herself the male polarity which must, of course, be present in some form. The Wheel of Sixteen energies, in this case Kālīs, symbolizes the moon with its sixteen digits. The seventeenth in the centre is understood to be the emissive energy (visarga) that generates and withdraws the others. This matter is discussed at length in Dyczkowski 2009: vol. 1, 421 ff and vol. 2, 346 ff.
 
 
 *[p. 449]* ^pg462
@@ -394,7 +394,7 @@ Cause a circle (vyomabimba) to be drawn with red lac (rājavarta) and place twel
 pañcāśītis tu devīnāṁ koṭayas tatra nityaśaḥ ॥ 52 ||
 vyomarūpāś ca tiṣthanti mahāsiddhipradā yataḥ |
 madhye pūjyā mahākālī bāhye ‘nyā dvādaśa kramāt || 53 ॥
-pūrvād ārabhya sarvās tāh pūjayed yoginandana |
+pūrvād ārabhya sarvās tāḥ pūjayed yoginandana |
 strīveśadhārī bhūtvāsau nagnavāso \[k, kh, g: -vāsā\] mahāmatiḥ | 54 ॥
 nirvikalpaḥ \[g: -l\\pa\] prasannātmā pūjākarmaviśāradaḥ |
 yathā tathā yatra tatra sarvatra vimalāśayaḥ \[g: -śaya\] ॥ 55 ॥ 
@@ -459,7 +459,7 @@ sāpi \[kh: sopi\] pūrvoktabījasya \[g: pūrvākta-\] prapañcatve vyavasthit�
 tat svayaṁ pūjitaṁ yena viśvaṁ tena prapūjitam |
 pūjanīyā mahādeva saṁmhārāntakarī parā || 73 ॥
 na jñātā triṣu lokeṣu tvadṛte bhaktivatsala |
-33g-a) cakrarn \[g: cakra\] samastapūrvoktaṁ \[g: -pūrvokta\] saha cakratrayeṇa vā ॥ 74 ॥
+33g-a) cakraṁ \[g: cakra\] samastapūrvoktaṁ \[g: -pūrvokta\] saha cakratrayeṇa vā ॥ 74 ॥
 pūjyā \[k, kh, g: pūjyāḥ\] samayavidyā \[k, kh, g: -vidyā\] ca dikṣu \[k, kh: dikṣur\] caiva vidikṣu ca |
 vyomacakraṁ \[k, kh, g: cakra\] triśūlaṁ \[k: triśūlāṁ; kh, g: triśūlā\] ca krameṇa paripūjayet ॥ 75 ॥
 ekadvitricaturbhedaiḥ \[g: -ticaturbhedaih\] samādiṣta \[illegible\] kh, g: samadikka\] yathā param | 
@@ -506,7 +506,7 @@ palāṇdu
 
 palāṇduṁ; g: 
 
-palāmduṁ\] laśunaḥ caiva dravyadvādaśakari śubham | 
+palāmduṁ\] laśunaṁ caiva dravyadvādaśakari śubham | 
 
 The auspicious group of twelve substances (consists of) semen, urine (harāmbu), menstrual blood \[illegible\] faeces \[illegible\] and phlegm (nālājyaka), human flesh (pauruṣa), beef (kṣmābhava), goat’s flesh (chāga), fish, fowl, onion and garlic. \* (81-82ab) 
 
@@ -514,7 +514,7 @@ ebhir dvādaśabhir deva \[k, kh, g: devyo\] naivedyais toṣayec chiva \[g: ~ y
 anyāni yāni dravyānṇi rasarūpānṇi dāpayet |
 pūjanīyā \[k, kh: -nāyā\] yathānyāyari vittaśāthyaṁ na kārayet || 83 ॥
 paścād gurun dakṣayet \[k, g: -yeta\] sarvasvena sureśvara |
-ājñābhaṁgo na kartavyaḥ prāṇān \[g: prāṇā\] tasmai pradāpayet ॥ 84 |I etat \[g: etan\] te sarvam ākhyātarni kramaṁ kālisamudbhavam |
+ājñābhaṁgo na kartavyaḥ prāṇān \[g: prāṇā\] tasmai pradāpayet ॥ 84 ॥ etat \[g: etan\] te sarvam ākhyātarni kramaṁ kālisamudbhavam |
 gopayet prāṇavad yatnād anyathā maraṇami bhavet || 85 ॥
 mukhāmnāyagatā vidyā vaktuṁ \[k, kh: vaktraii\] no yujyate hara |
 34g-a) yasmāc chrīnāthabhāṇdāre cintāmanir iva \[g: vintā-\] sthitā ॥ 86 ॥

@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/ordhe.html"
-page_range:
-  - 400
-  - 405
+page_range: "400–405"
 aliases:
   - "BCP 400"
   - "BCP 401"
@@ -20,7 +18,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 400–405
 
-[p. 400]
+[p. 400] ^pg400
 
 ## An Order for Celebrating the Holy Eucharist
 
@@ -38,7 +36,7 @@ The proclamation and response may include readings, songs, talk, dance, instrume
 
 ### Pray for the World and the Church
 
-[p. 401]
+[p. 401] ^pg401
 
 ### Exchange the Peace
 
@@ -62,7 +60,7 @@ The Body and Blood of the Lord are shared in a reverent manner; after all have r
 
 *When a common meal or Agape is a part of the celebration, it follows here.*
 
-[p. 402]
+[p. 402] ^pg402
 
 ## At the Great Thanksgiving
 
@@ -102,7 +100,7 @@ Hosanna in the highest.
 Blessed is he who comes in the name of the Lord.  
 Hosanna in the highest.
 
-[p. 403]
+[p. 403] ^pg403
 
 *The Celebrant now praises God for the salvation of the world through Jesus Christ our Lord.*
 
@@ -122,7 +120,7 @@ Gather us by this Holy Communion into one body in your Son Jesus Christ. Make us
 
 By him, and with him, and in him, in the unity of the Holy Spirit all honor and glory is yours, Almighty Father, now and for ever. *AMEN.*
 
-[p. 404]
+[p. 404] ^pg404
 
 ### Form 2
 
@@ -160,7 +158,7 @@ Hosanna in the highest.
 
 *The Celebrant now praises God for the salvation of the world through Jesus Christ our Lord.*
 
-[p. 405]
+[p. 405] ^pg405
 
 *At the following words concerning the bread, the Celebrant is to hold it, or to lay a hand upon it; and at the words concerning the cup, to hold or place a hand upon the cup and any other vessel containing wine to be consecrated.*
 

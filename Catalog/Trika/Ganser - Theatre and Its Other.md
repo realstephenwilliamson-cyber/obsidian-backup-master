@@ -17,8 +17,7 @@ language:
   - English
 pages: 425
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Ganser - Theatre and Its Other, Abhinavagupta on Dance and Dramatic Acting (2021).pdf]]"
   - "[[Library/Trika/Theatre and Its Other (Ganser)/Theatre and Its Other (Ganser)]]"

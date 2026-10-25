@@ -57,10 +57,10 @@ CHAPTER THIRTY-SIX
 etais tato guruḥ koṭimātrāt pādaṁ vifīrṇavān |
 dakṣādibhya ubhau pādau saṁvartādibhya eva ca || 3 ॥
 pādari ca vāmanādibhyaḥ pādārdhari bhārgavāya ca |
-pādapādaṁ tu balaye pādapādas tu yo ‘paraḥ ॥ 4 Il simhhāyārdhari tataḥ śiṣtād dvau bhāgau vinatābhuve |
-\[illegible\] vāsukināgāya khandāḥ saptadaśa tv amī |l 5 ॥
+pādapādaṁ tu balaye pādapādas tu yo ‘paraḥ ॥ 4 ॥ simhhāyārdhari tataḥ śiṣtād dvau bhāgau vinatābhuve |
+\[illegible\] vāsukināgāya khandāḥ saptadaśa tv amī ॥ 5 ॥
 svargād ardhaṁ rāvaṇo ‘tha jahre rāmo ‘rdham apy ataḥ |
-vibhīṣaṇamukhād āpa guruśiṣyavidhikramāt |l 6 ||
+vibhīṣaṇamukhād āpa guruśiṣyavidhikramāt || 6 ||
 khandair ekānnaviṁśatyā vibhaktaṁ tad abhūt tataḥ | 
 
 (This is the transmission) taught in the venerable Siddhā and other (Tantras) (my) teacher? has described. (The first to transmit it was) Bhairava, (then the following received and transmitted it successively:) 2) the goddess Bhairavī, 3) Svacchanda, 4) Lākula, 5) Aṇurāṭ (the Lord of the Souls), 6) Gahaneśa, 7) Abjaja (Brahmā, the Lotus Born One), 8) Śakra and 9) Bṛhaspati. (The scripture originally) extended to 1) 90,000,000 (verses). 2-9) 10,000,000 (verses) less (of it) was studied successively by (each of one of) these nine. Then Bṛhaspati out of the mere 10,000,000 (verses he had received) transmitted 10) a quarter (2,500,000) to Dakṣa and the rest, 11) both quarters to Saṁvarta and the rest, 12) a quarter to Vāmana etc (2,500,000), 13) half a quarter (1,250,000) to Bhārgava, 14) a quarter of a quarter to Bali (625,000), 15) a half of the other quarter of a quarter to Siṁha (312,500), 16) then two parts (bhāga) of what remained to Garuda (104,167), 17) one part to the snake Vāsuki (52,083).\* (Up to this point,) these sections (khanda) number seventeen. Now 18) Rāvanṇa stole half from heaven (78,125). (Then) from that 19) Rāma also (obtained) half from Vibhīṣana’s mouth (78,125). Thus, that (scripture which was transmitted) successively from teacher to disciple in the prescribed manner was divided into nineteen parts (khanda). (1-7ab) 
@@ -69,7 +69,7 @@ khandair ekānnaviṁśatyā vibhaktaṁ tad abhūt tataḥ |
 
 ‘Anurātṭ (the Lord of the Souls)’ is Ananta. ‘Abjaja (The Lotus Born One)’ is Brahmā. (Then each of the following studied) ‘10,000,000 (verses) less 
 
-530?\. Although no direct citations can be identified, the edited text of the short recension of the SYM has a short version of the transmission in chapter 32. The list of names \[illegible\] etc. referred to in verse 3 and cited by Jayaratha are found in chapter 28 of that recension of the SYM.
+530?\. Although no direct citations can be identified, the edited text of the short recension of the SYM has a short version of the transmission in chapter 32. The list of names Dakṣa etc. referred to in verse 3 and cited by Jayaratha are found in chapter 28 of that recension of the SYM.
 
 531?\. 1 take the plural of gurubhis to be an honorific referring to Śambhunātha. This is quite possible, as there are several other places where Abhinava implies he has received teachings from him concerning the SYM. However, it seems that Jayaratha does not agree. Thus, after quoting (above in TĀv ad 1/84-86ab) the first half of the first line of his citation from the SYM here, the commentary, apparently mirroring Abhinava’s words, declares that, ‘this and the remaining statement has also been made by our teachers (asmadgurubhi.’ He then goes on to say, ‘this is said by Śrīkaṇtha’, who is a form of Śiva (ityādyukter asmadgurubhir apy ukta iti śrīkanthasyeyam uktiḥ). We may take this to be an ambiguous, indirect way of referring to whom Abhinava identifies with Śrīkantha (above, 1/9, where he is called Maheśvara).
 
@@ -94,7 +94,7 @@ for ninety million (verses). As the scripture (i.e. the Siddhayogeśvarīmata sa
 
 535?\. Read bhairavyā for bhairavīṁ. The first half of this line is quoted above in TĀv ad 1/84-86ab.
 
-536?\. <sup>\*</sup>In other words, Saṁvarta received a quarter. He says ‘both quarters’ in the sense of that one and the quarter received by Daksa.
+536?\. <sup>\*</sup>In other words, Saṁvarta received a quarter. He says ‘both quarters’ in the sense of that one and the quarter received by Dakṣa.
 
 
 *[p. 222]* ^pg240

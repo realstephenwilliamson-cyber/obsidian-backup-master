@@ -21,8 +21,7 @@ language:
   - English
 pages: 855
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Biblical-Studies/Levine, Brettler (eds.) - The Jewish Annotated New Testament (2017).pdf]]"
   - "[[Texts/Bible/Jewish Annotated New Testament/Jewish Annotated New Testament]]"

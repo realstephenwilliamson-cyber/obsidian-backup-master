@@ -41,14 +41,14 @@ else dv.paragraph("No unresolved links in Study/Hubs or Study/Concepts.");
 
 ---
 
-## 3. Physical Books Inventory (`physical_copy: true`)
+## 3. Physical Books Inventory (`print: true`)
 
 Tracks all catalog items where you own a physical copy on your shelves:
 
 ```dataview
 TABLE author, year, publisher, subject
 FROM "Catalog"
-WHERE physical_copy = true
+WHERE print = true
 SORT author ASC
 ```
 

@@ -147,8 +147,8 @@ this day;" which to have said in the time of Joshua had been improper.
 So also the name of the Valley of Achor, from the trouble that Achan
 raised in the Camp, ([[Joshua 07#^7-26|Josh. 7. 26]]) the Writer saith, "remaineth unto
 this day;" which must needs bee therefore long after the time of Joshua.
-Arguments of this kind there be many other; as [[Joshua 08#^8-29|Josh. 8. 29]]. 13. 13. 14.
-14. 15. 63.
+Arguments of this kind there be many other; as [[Joshua 08#^8-29|Josh. 8. 29]]. [[Joshua 13#^13-13|13. 13]]. 14.
+[[Joshua 14#^14-14|14]]. [[Joshua 15#^15-63|15. 63]].
 
 ^p10
 
@@ -157,7 +157,7 @@ The Booke Of Judges And Ruth Written Long After The Captivity
 ^p11
 
 The same is manifest by like arguments of the Book of Judges, chap. 1.
-21,26 6.24 10.4 15.19 17.6 and [[Ruth 1#^1-1|Ruth 1. 1]]. but especially [[Judges 18#^18-30|Judg. 18. 30]].
+[[Judges 01#^1-21|21]],[[Judges 01#^1-26|26]] [[Judges 06#^6-24|6.24]] [[Judges 10#^10-4|10.4]] [[Judges 15#^15-19|15.19]] [[Judges 17#^17-6|17.6]] and [[Ruth 1#^1-1|Ruth 1. 1]]. but especially [[Judges 18#^18-30|Judg. 18. 30]].
 where it is said, that Jonathan "and his sonnes were Priests to the
 Tribe of Dan, untill the day of the captivity of the land."
 

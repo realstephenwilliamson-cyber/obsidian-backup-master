@@ -63,7 +63,7 @@ tato japet parām ekāṁ prāguktoccārayogataḥ ॥ 52 ॥
 
 *[p. 44]* ^pg62
 
-He is the sun, the breath (of life) \[illegible\] which is the vitality (vīrya) (of all) that satiates (and delights) the gods, ancestors, sages, Yakṣas, demons, and all else that lives (in the elemental world) (bhautika). 
+He is the sun, the breath (of life) (prāṇa), which is the vitality (vīrya) (of all) that satiates (and delights) the gods, ancestors, sages, Yakṣas, demons, and all else that lives (in the elemental world) (bhautika). 
 
 Then (after having propitiated it), he should recite the one (monosyllabic Mantra of) Parā,” uttering it in the manner explained previously (that is, along with its limbs), until the awareness considered (develops within him of his having) become one with it.” This is to be ablution in (the element) Water. (51cd-53ab) 
 
@@ -237,9 +237,9 @@ How does he benefit by (performing) the eight ablutions? With this doubt in mind
 घृत्याप्यायमलप्टोषवीर्यव्यापिसृजिस्थिती : ।
 अभेदं च क्रमादेति स्नानाष्टकपरो मुनिः ॥ ६२ ॥
 dhṛtyāpyāyamalaploṣavīryavyāptisṛjisthitīḥ |
-abhedar ca kramād eti snānāṣtakaparo muniḥ || 62 |I 
+abhedar ca kramād eti snānāṣtakaparo muniḥ || 62 || 
 
-The sage (muni) who is intent (on performing) the eight ablutions attain successively, (respectively,) stability (dhṛti) (Earth), nourishment (apyāya) (Water), the burning of impurity (malaploṣa) (Fire), vitality (vīrya) (Air), pervasion \[illegible\] (Space), the power to create \[illegible\] (Moon) and maintain (sthiti) (Sun), and (then finally,) oneness (abheda) (i.e., the \[illegible\] (62) 
+The sage (muni) who is intent (on performing) the eight ablutions attain successively, (respectively,) stability (dhṛti) (Earth), nourishment (apyāya) (Water), the burning of impurity (malaploṣa) (Fire), vitality (vīrya) (Air), pervasion (vyāpti) (Space), the power to create \[illegible\] (Moon) and maintain (sthiti) (Sun), and (then finally,) oneness (abheda) (i.e., the \[illegible\] (62) 
 
 #### Viveka on 15.62
 
@@ -305,7 +305,7 @@ The intended sense is that the the fruit of these (Mantras) is predetermined, as
 
 142\. Jayaratha is implicitly commenting here on the words ‘individually and collectively (vyāsasamāsābhyām)’. Jayaratha connects the expression svarūpaśivarūpābhyāṁ ‘according to their own (specific) nature and as Siva’ in the previous verse with vyāsasamāsābhyām “individually and (or) collectively’ in this verse. In other words, according to Jayaratha, Abhinava is himself explaining what he means. Thus ‘individually’ refers to eight individual ‘bodies’, and ‘collectively’, each being Śiva in such a way that each one, both itself individually and, equally, is Śiva of the nature of all the others. Although this may well be a good explanation, Abhinava offers another one below in 78cd and his TSā p. 129: ca ekadvitryādibhedena samastavyastatayā kvacit kasyacit kadācit ca tathā āśvāsopalabdheḥ vicitro bhedaḥ | ‘Various is the perception that carries conviction (āfvāsopalabdhi), as (both) collective and individual, it is of one, two, or three or more kinds, that (arise) in some place for some person at some time.”
 
-143\. Now Abhinava goes on to add the internal equivalents of the Eight Bodies in as many locations along the ascending axis of the subtle body, beginning with the Root. This projection is done by the officiant in the course of outer worship (arcā). Certainly, this is drawn from the Yogasaṁcāra, as Abhinava himself tells us. Jayaratha did not have the Yogasaṁcāra, so he could not identify the eight places in the subtle body. Possibly they could be as follows. A possible basic form of the Mantras in each case may well simply be an invocation in the dative of the name of the element followed by the standard salutation — namaḥ and preceded by a simple oṁ. Assuming that that is so, a possible form of the Mantras is given in brackets. 1) Bulb — Earth (oṁ pṛthvyai namaḥ) 2) Navel — Water (oṁ jalāya namaḥ) 3) Heart — Fire (or agnyai namaḥ) 4) Throat — Air (oṁ vāyave namaḥ) 5) Between the Eyebrows — Space (oṁ ākāśāya namaḥ) 6) Forehead — Sun (oṁ sūryāya namaḥ) 7) Cavity of Brahma (oṁ somāya namaḥ) 8) Śiva / Self — Beyond (orn ātmane / śivāya namaḥ).
+143\. Now Abhinava goes on to add the internal equivalents of the Eight Bodies in as many locations along the ascending axis of the subtle body, beginning with the Root. This projection is done by the officiant in the course of outer worship (arcā). Certainly, this is drawn from the Yogasaṁcāra, as Abhinava himself tells us. Jayaratha did not have the Yogasaṁcāra, so he could not identify the eight places in the subtle body. Possibly they could be as follows. A possible basic form of the Mantras in each case may well simply be an invocation in the dative of the name of the element followed by the standard salutation — namaḥ and preceded by a simple oṁ. Assuming that that is so, a possible form of the Mantras is given in brackets. 1) Bulb — Earth (oṁ pṛthvyai namaḥ) 2) Navel — Water (oṁ jalāya namaḥ) 3) Heart — Fire (or agnyai namaḥ) 4) Throat — Air (oṁ vāyave namaḥ) 5) Between the Eyebrows — Space (oṁ ākāśāya namaḥ) 6) Forehead — Sun (oṁ sūryāya namaḥ) 7) Cavity of Brahma (oṁ somāya namaḥ) 8) Śiva / Self — Beyond (oṁ ātmane / śivāya namaḥ).
 
 
 *[p. 51]* ^pg69
@@ -321,12 +321,12 @@ Kaula Ablution
 आत्मा निरधूतनिःशेषविकल्यातङ्कसुस्थित ; ॥
 स्नानाचीदावित्युपास्यं वीराणां विग्रहाष्टकम् || ६८ ॥
 
-Śrīnirmaryādaśāstre ‘pi tad ittharn sunirūpitam |
+Śrīnirmaryādaśāstre ‘pi tad itthaṁ sunirūpitam |
 dharādeś ca viśeṣo ‘sti vīrasādhakasarimataḥ ॥ 66 ॥
 raṇarenur vīrajalaṁ vīrabhasma mahāmarut |
 śmaśānāraṇyagaganaṁ candrārkau tadupāhitau || 67 ॥
 ātmā nirdhūtanihśeṣavikalpātaṁkasusthitaḥ |
-snānārcādāv ity upāsyaṁ \[illegible\] vigrahāṣtakam Il 68 ॥ 
+snānārcādāv ity upāsyaṁ \[illegible\] vigrahāṣtakam ॥ 68 ॥ 
 
 That is well described in this way in the venerable Nirmaryādaśāstra also, (where it says that there is) a particular (form of) Earth and the rest (of the eight bodies of Śiva) that is (highly) esteemed by (Kaula) adepts (vīra). (These are) 1) the dust of a battlefield (which is Earth). 2) the Hero’s water (vīrajala) (i.e., urine) (which is Water). 3) The Hero’s ash (taken from a funeral pyre, is Fire), 4) (Air is) the great wind (that bears the dust of cremation grounds). 5) (Space is) the sky (above) a cremation ground and (a wild) forest.[^144] The Sun (6) and Moon (7) are those associated (upāhita) with them. (The eighth is) the Self that, freed of all the disquietude of thought constructs, is well established. (Kaula) heroes should venerate (this) group of eight bodies (in this way) when bathing and worshipping etc. (66-68) 
 
@@ -357,7 +357,7 @@ Five Purifications with Wine
 \[illegible\] proktan madyaśīdhusurādinā |
 susvādunā prasannena tanunā susugandhinā ॥ 69 I|
 kandalādigatenāntarbahiḥ saiskārapañcakam |
-kṛtvā nirīkṣaṇami prokṣya tādanāpyāyagunthanam ॥ 70 Il mantracakrasya tanmadhye \[illegible\] vipruṭpratarpaṇam |
+kṛtvā nirīkṣaṇami prokṣya tādanāpyāyagunthanam ॥ 70 ॥ mantracakrasya tanmadhye \[illegible\] vipruṭpratarpaṇam |
 tenātmasekaḥ kalaśamudrayā cābhiṣecanam ॥ 71 ॥
 devatātarpaṇaṁ dehaprānobhayapathāśritam |
 sarvatīrthatapoyajṁñadānādiphalam aśnute | 72 ||
@@ -398,7 +398,7 @@ One should know that Vāruṇī is clear. (Other inebriating drinks) are Parisru
 
 151\. Read madyaṁ for madhu.
 
-152\. Cf, Netratantra 18/6cd-8. dīpanaṁ bodhanar caiva tādanaṁ cābhiṣecanam | vimalīkaranar caiva tathendhananiveśanam | saṁtarpaṇnaṁ guptibhāva āpyāyo navamas tathā | evar navaprakāreṇa mantravādam aśeṣataḥ ॥ yo jānāti sa jānāti mantrasādhanasādhanam || ‘Energizing (dīpana), awakening (bodhana), beating (rādana), sprinkling (abhiṣecana), cleaning (vimalīkarana), placing of the fuel (indhananivesana), offering libation (saṁtarpana), protecting (guptibhāva), and nourishing (āpyāya) is the ninth. He who knows, in this way with these nine kinds, the doctrine concerning Mantra completely, knows the means to the practice of Mantra (mantrasādhana).' NT 18/6cd-8 dīpanaṁ mantrasya pranavena | bodhanaṁ namahsabdena | tādanaṁ phatkārena | abhiṣecanaḥ vauṣaṭkārena | vimalīkaranaṁ svāhāśabdena | indhananiveśanari dāhyapāśaviṣādidahane viniyojanari huṁkārena saṁpuṭīkaranam | Kṣemarāja explains: ‘The energizing (dīpana) of a Mantra is done with OM, (its) awakening (bodhana) with the word 'NAMAH', ‘beating’ (rādana) (is done) with the syllable PHAT, ‘sprinkling’ (abhiṣecana) with the syllable \*‘VAUṢAT”, cleaning (vimalīkarana) with the word SVĀHĀ. Placing the fuel (indhananiveśana), assigning it to the buring of the fetters that are to be burnt and poison etc., is (done by) encapsulation with the syllable HUM. That is said in the venerable Ucchuṣmatantra. tad uktarn śrīmaducchuṣmatantre dīpane tu mahābhāga praṇavobhayayojanam | bodhane tu namaskāraḥ svāhākāro ‘male tathā || vauṣadantargataṁ mantram abhiṣeke niyojayet | phaṭkārobhayasaṁiyuktari tādane viniyojayet ॥ ādyantaṁ caiva huṁkāram indhane viniyojayet | tarpaṇaṁ balavattādhānam, tac ca prativarṇaṁ lāṁkāreṇa saṁpuṭīkaraṇam | yad uktam lāṅkāreṇa tu bījena tathaikāntaritena ca \\ balavān jāyate mantraḥ „Iiri | guptibhāvo rakṣanam, tacca netranāthasarṁpuṭīkṛtasyāyutajapād bhavati | yathoktam mṛtyujitsahpuṭībhūtar japet tad ayutari punaḥ | japtenānena vidhinā mantrarakṣā kṛtā bhavet || iti | āpyāyanaṁ punarjātabalasya puṣtyādhānam, tac ca vāṁikāreṇa prativarnai sahpuṭīkārāt | yad uktam ekāntaritayogena vārikāreṇa tu sarvadā | त iti | itthaṁ navadhā mantravādar yo jānāti, sa mantrā sādhanamātmāyattatāpādanaṁ jānāti || 8 | ‘O Mahābhāga, when energizing, OM is conjoined on both (sides of the mantra), when awakening, with NAMAH, when cleaning, SVĀHĀ, when sprinkling the place, the mantra between, VAUṢAT, when beating, conjoin it with the syllable PHAT on both (sides), and when adding fuel, conjoin the syllable HUM at the beginning and end.’ The offering of libation is the acquisition of strength. And that (is done) by encapsulating each phoneme (of the Mantra) with the letter L. As is said: ‘The Mantra becomes strong by the seed letter L, with which each one (of the letters of the Mantra) alternates.” Protecting (guptibhāva) means protection, and that takes place by repeating the Mantra ten thousand times, encapsulated with Netranātha (i.e. Mṛtyuñjaya Mantra). As is said: ‘He should repeat (the Mantra) again ten thousand times, encapsulated with Mptyujit. By repeating the Mantra following this procedure, the Mantra’s protection is effected. ‘Nourishing’ (āpyāyana) is adding further nourishment to (a Mantra) that has become strong. That is done by encapsulating each phoneme with the syllable VAM. As is said: “The Mantra is nourished by always conjoining the syllable VAM alternately with each (letter of the Mantra).’ He who knows the nine-fold doctrine of Mantra in this way knows how to bring (his) practice under his own control and the practices (associated with them) that bring about accomplishment (siddhi).
+152\. Cf, Netratantra 18/6cd-8. dīpanaṁ bodhanar caiva tādanaṁ cābhiṣecanam | vimalīkaranar caiva tathendhananiveśanam | saṁtarpaṇnaṁ guptibhāva āpyāyo navamas tathā | evar navaprakāreṇa mantravādam aśeṣataḥ ॥ yo jānāti sa jānāti mantrasādhanasādhanam || ‘Energizing (dīpana), awakening (bodhana), beating (rādana), sprinkling (abhiṣecana), cleaning (vimalīkarana), placing of the fuel (indhananivesana), offering libation (saṁtarpana), protecting (guptibhāva), and nourishing (āpyāya) is the ninth. He who knows, in this way with these nine kinds, the doctrine concerning Mantra completely, knows the means to the practice of Mantra (mantrasādhana).' NT 18/6cd-8 dīpanaṁ mantrasya pranavena | bodhanaṁ namahsabdena | tādanaṁ phatkārena | abhiṣecanaḥ vauṣaṭkārena | vimalīkaranaṁ svāhāśabdena | indhananiveśanari dāhyapāśaviṣādidahane viniyojanari huṁkārena saṁpuṭīkaranam | Kṣemarāja explains: ‘The energizing (dīpana) of a Mantra is done with OM, (its) awakening (bodhana) with the word 'NAMAH', ‘beating’ (rādana) (is done) with the syllable PHAT, ‘sprinkling’ (abhiṣecana) with the syllable \*‘VAUṢAT”, cleaning (vimalīkarana) with the word SVĀHĀ. Placing the fuel (indhananiveśana), assigning it to the buring of the fetters that are to be burnt and poison etc., is (done by) encapsulation with the syllable HUM. That is said in the venerable Ucchuṣmatantra. tad uktaṁ śrīmaducchuṣmatantre dīpane tu mahābhāga praṇavobhayayojanam | bodhane tu namaskāraḥ svāhākāro ‘male tathā || vauṣadantargataṁ mantram abhiṣeke niyojayet | phaṭkārobhayasaṁiyuktari tādane viniyojayet ॥ ādyantaṁ caiva huṁkāram indhane viniyojayet | tarpaṇaṁ balavattādhānam, tac ca prativarṇaṁ lāṁkāreṇa saṁpuṭīkaraṇam | yad uktam lāṅkāreṇa tu bījena tathaikāntaritena ca \\ balavān jāyate mantraḥ „Iiri | guptibhāvo rakṣanam, tacca netranāthasarṁpuṭīkṛtasyāyutajapād bhavati | yathoktam mṛtyujitsahpuṭībhūtar japet tad ayutari punaḥ | japtenānena vidhinā mantrarakṣā kṛtā bhavet || iti | āpyāyanaṁ punarjātabalasya puṣtyādhānam, tac ca vāṁikāreṇa prativarnai sahpuṭīkārāt | yad uktam ekāntaritayogena vārikāreṇa tu sarvadā | त iti | itthaṁ navadhā mantravādar yo jānāti, sa mantrā sādhanamātmāyattatāpādanaṁ jānāti || 8 | ‘O Mahābhāga, when energizing, OM is conjoined on both (sides of the mantra), when awakening, with NAMAH, when cleaning, SVĀHĀ, when sprinkling the place, the mantra between, VAUṢAT, when beating, conjoin it with the syllable PHAT on both (sides), and when adding fuel, conjoin the syllable HUM at the beginning and end.’ The offering of libation is the acquisition of strength. And that (is done) by encapsulating each phoneme (of the Mantra) with the letter L. As is said: ‘The Mantra becomes strong by the seed letter L, with which each one (of the letters of the Mantra) alternates.” Protecting (guptibhāva) means protection, and that takes place by repeating the Mantra ten thousand times, encapsulated with Netranātha (i.e. Mṛtyuñjaya Mantra). As is said: ‘He should repeat (the Mantra) again ten thousand times, encapsulated with Mptyujit. By repeating the Mantra following this procedure, the Mantra’s protection is effected. ‘Nourishing’ (āpyāyana) is adding further nourishment to (a Mantra) that has become strong. That is done by encapsulating each phoneme with the syllable VAM. As is said: “The Mantra is nourished by always conjoining the syllable VAM alternately with each (letter of the Mantra).’ He who knows the nine-fold doctrine of Mantra in this way knows how to bring (his) practice under his own control and the practices (associated with them) that bring about accomplishment (siddhi).
 
 
 *[p. 54]* ^pg72
@@ -605,10 +605,10 @@ For as the Supreme Lord has said in the venerable Naiśasamhcāra, (83cd)
 
 ज्ञेयं सङल्पनारूपमर्धपीटमतः परम् ।
 
-tasyecchā pīṭtham ādhāro yatrastharn sacarācaram |
+tasyecchā pīṭtham ādhāro yatrasthaṁ sacarācaram |
 agryar tat kāmarūpaṁ syād bindunādadvayari tataḥ ॥ 84 ॥
 nādapīṭhari pūrṇagirir dakṣine vāmataḥ punaḥ |
-pīṭham uddiyanarn bindur mukhyari pīthatrayaṁ tv idam |I| 85 ॥
+pīṭham uddiyanaṁ bindur mukhyari pīthatrayaṁ tv idam |॥ 85 ॥
 \[illegible\] saṅkalpanārūpam ardhapīṭham ataḥ param | 
 
 1 The sacred seat that is His will is the foundation where (the entire) mobile and immobile (universe) is established. That is Kāmarūpa which is located in front (in the eastern corner of the triangle). Then (from that) come the two, namely, the Point (bindu) and Sound (nāda). The seat of Sound is Pūrṇagiri, which is on the right (corner of the triangle), whereas the seat to the left is Uddiyāna, which is the Point. These are the three main seats. One should know that the (so called) Half-Seat (ardhapītha),” apart from these, is (merely) imaginary (saṁkalpanārūpa).”” (84-86ab) 
@@ -625,7 +625,7 @@ The sacred seat (of the will) is not such in name only, and so it is said that i
 
 170\. The printed edition reads uddayāna.
 
-171\. Concerning sacred Kaula sites, see Dyczkowski 2004: 93-174, which is chapter four, called ‘the inner pilgrimage of the Tantras”. See especially ibid. p. 107, concerning the seats mentioned here. Whereas Abhinava does not accept that this ‘half seat’ has an external location, according to the Kaulajnānanirnaya (p. 24), this seat is Arbuda, which is located in Rajasthan (Bagchi 1975: 24) m The Three Main Sacred Seats (pītha) according to the Niśisahcāra \[Direction | InnerPitha ěűć | Outer \[illegible\] Front / East. Śakti / Will Kāmarūpa Right / South Sound \[illegible\] Pūrṇagiri Left / North Point (bindu) Uddiyāna The three primary seats (pīṭha) are located on the corners of a triangle. The ‘front’ of the triangle is in the east, where Kāmarūpa, i.e. modern Kāmākhya in Assam, is located. Viewing towards that direction, Uddiyāna is on the left in the northwest of the subcontinent, and Pùrnagiri is on the right, that is, in the south.
+171\. Concerning sacred Kaula sites, see Dyczkowski 2004: 93-174, which is chapter four, called ‘the inner pilgrimage of the Tantras”. See especially ibid. p. 107, concerning the seats mentioned here. Whereas Abhinava does not accept that this ‘half seat’ has an external location, according to the Kaulajnānanirnaya (p. 24), this seat is Arbuda, which is located in Rajasthan (Bagchi 1975: 24) m The Three Main Sacred Seats (pītha) according to the Niśisahcāra \[Direction | InnerPitha ěűć | Outer \[illegible\] Front / East. Śakti / Will Kāmarūpa Right / South Sound (nāda) Pūrṇagiri Left / North Point (bindu) Uddiyāna The three primary seats (pīṭha) are located on the corners of a triangle. The ‘front’ of the triangle is in the east, where Kāmarūpa, i.e. modern Kāmākhya in Assam, is located. Viewing towards that direction, Uddiyāna is on the left in the northwest of the subcontinent, and Pùrnagiri is on the right, that is, in the south.
 
 172\. See above, 6/31cd-33, concerning the three types of terms used in Śaiva scripture, according to the Nisisahcāra.
 
@@ -646,9 +646,9 @@ Kāmarūpa, the first (and foremost seat, come the two other seats). That is sai
 पण्ड्वर्धनवरेदद्र | तथैकाम्रमिदं बहिः ।
 नवधा कथितं पीठमन्तबीह्यक्रमेण तत् ॥ ८८ ॥
 
-sākta kundalinī vedakalaṁ ca try upapīthakam ॥ 86 II devīkoṭtojjayinyau dve tathā kulagiriḥ paraḥ |
+sākta kundalinī vedakalaṁ ca try upapīthakam ॥ 86 ॥ devīkoṭtojjayinyau dve tathā kulagiriḥ paraḥ |
 lālanaṁ baindavaṁ vyāptir iti saṁṁdohakatrayam | 87 |l pundravardhanavārendre tathaikāmram idaṁ bahiḥ |
-navadhā kathitarn pīṭham antarbāhyakramena tat || 88 ॥ 
+navadhā kathitaṁ pīṭham antarbāhyakramena tat || 88 ॥ 
 
 The triad of subsidiary seats (upapītha) are the empowered one (śākta), that is, Kuṇdalinī, the one relating to (the Point,) which consists of four energies (vedakala), (and the one relating to Sound). (These correspond externally) to the two, Devīkoṭta and Ujjayinī along with Kulagiri, which is the other one. The three saṁdohakas’” are the tongue, the centre between the eyes (baindava), and pervasion. Pundravardhana, Vārendra and Ekāmra ~ this is the outer (corresponding triad). (Thus,) in accord with the inner and outer sequence (of sacred sites), the seat (of the goddess) is said to be ninefold.” (86cd-88) 
 
@@ -665,7 +665,7 @@ The Point is that ‘which consists of four energies’. ‘The triad of subsidi
 
 ‘The great, empowered (śākta) seat of Śakti is in the centre of the plane of Kunṇdalinī. The seat of the Point (baindava) is that of the Point. It consists of four energies and is beautifully round.” O beloved, one should know that one born of Sound is below Pervasion and is above the double cavity. This is the group of three secondary seats. 
 
-Now listen to (what they are) externally by name. Devīkotṭa is said to be the empowered (seat). Ujjayinī is said to be (seat of) the Point. Kaulagiri is said to be in the middle within the Pervasive One, as the downward dynamism (adhogati) of pervasion.? 
+Now listen to (what they are) externally by name. Devīkoṭṭa is said to be the empowered (seat). Ujjayinī is said to be (seat of) the Point. Kaulagiri is said to be in the middle within the Pervasive One, as the downward dynamism (adhogati) of pervasion.? 
 
 ‘Pervasion’ is the place where (energy) flows forth. A ‘sahdohaka’ (is so called) because it is like the milked secretion of the secondary seats.”” That is said there (in the Nisisacāratantra): 
 
@@ -697,7 +697,7 @@ upakṣetrāṣtakaṁ prāhur hṛtpadmāgradalāṣṭakam ॥ 90 ॥
 virajair udikā hālā elā pūh kṣīrikā purī |
 māyākhyā marudeśaś ca bāhyābhyantararūpataḥ ॥ 91 ॥ 
 
-The eight fields \[illegible\] of those who know the fields are 1) the eight petals of the lotus of the heart, namely, Prayāga, Varaṇā, then after that Attahāsa, Jayantikā, Vārāṇasī, Kāliṅga, Kulūtā and Lāhulā. 2) They say that the eight subsidiary fields (upakṣetra) are the eight tips of the petals of the lotus of the heart, namely, Virajā, Erudikā, Hālā, Elāpurī, Kṣīrikā, Purī, the one called Māyā, and Marudeśa. (Such are these two groups,) external and internal. (89-91) 
+The eight fields (kṣetra) of those who know the fields are 1) the eight petals of the lotus of the heart, namely, Prayāga, Varaṇā, then after that Attahāsa, Jayantikā, Vārāṇasī, Kāliṅga, Kulūtā and Lāhulā. 2) They say that the eight subsidiary fields (upakṣetra) are the eight tips of the petals of the lotus of the heart, namely, Virajā, Erudikā, Hālā, Elāpurī, Kṣīrikā, Purī, the one called Māyā, and Marudeśa. (Such are these two groups,) external and internal. (89-91) 
 
 #### Viveka on 15.89–91
 
@@ -743,12 +743,12 @@ Sacred Sites in the Body
 
 dvipathaṁ dvayasaṁghattāt tripathańi trayamelakāt ॥ 93 ॥
 catuṣpathaṁ śaktimato layāt tatraiva manvate |
-nāsāntatālurandhrāntam etad dehe vyavasthitam |l 94 ॥
-bhrūmadhyakanṭhahṛtsaṁijñan madhyamarn tad udāhṛtam |
+nāsāntatālurandhrāntam etad dehe vyavasthitam ॥ 94 ॥
+bhrūmadhyakanṭhahṛtsaṁijñan madhyamaṁ tad udāhṛtam |
 nābhikandamahānandadhāma tat kaulikańi trayam ॥ 95 I|
 parvatāgrar nadītīram ekaliṅgaṁ tad eva ca |
-kirn vātibahunā sarvan saṁvittau prāṇagaṁ tataḥ ॥ 96 ॥
-tato dehasthitarn tasmād dehāyatanago bhavet | 
+kiṁ vātibahunā sarvan saṁvittau prāṇagaṁ tataḥ ॥ 96 ॥
+tato dehasthitaṁ tasmād dehāyatanago bhavet | 
 
 A. 1) The bifurcation (dvipatha) (of two paths) is brought about by the conjunction of two (channels), and 2) the trifurcation (tripatha) by the union of three. 3) The crossroad (catuṣpatha) is considered to be (formed) by the fusion of the possessor of power there itself (with the others).! 
 
@@ -786,7 +786,7 @@ According to this and other (passages, the teaching concerning the sacred places
 mouth.[^183] 
 
 [^182]: Read varanā for varunā. The Vāraṇā is a river that marks the southern extremity of Vārāṇasī, just as the Assi river did the other. The shift of the centre of the two from south to north over the centuries is well known. This may account for this form of the name. Vārāṇasī is the name of the city already in the Buddha’s time, and this is the form of the name we find in the Purāṇas and Epics. Possibly, the goddess’s pīṭha was located in the southern part of the city, which is the place this name denotes. Sanderson (2001: p. 7 n 8) identifies the other places as follows: ‘Koṭivarṣa is the site called Devīkoṭṭa, Devikoṭa, Śrīpīṭha, Śrīkoṭa or Śonitapura. A Viṣaya of the Puṇdravardhana Bhukti (EI 14, p. 325) it may be identified with Bāngaṁ on the bank of the Punarbhavā river in the west Dinajpur District of Bengal; see D.C Ganguly, \*Yādavaprakāśa on the ancient Geography of India’, Indian Historical Quarterly 19 (1943), p. 224; J.C. Sengupta, West Dinajpur, Calcutta: State Editor West Bengal District Gazetters, 1965, pp. 186-187, 219-220 (both have been put in bibliography). It is one of the set of eight Kṣetras or primary sites of the Goddess, venerated in our earliest sources (sic.), the other seven being Prayāga (modern Allahabad), Varaṇā (modern Benares), Kollagiri (modern Kolhapur in Karṇāṭaka), Aṭṭahāsa (in Bhirbhum District of Bengal), Jayantī (modern Jayantipur in the Ganjam District of Orissa?), Caritra (in the Puri District of Orissa) and Ekāmra (Bhubbaneswar in the same District) (Mādhavakula and Kālasarłkarṣaṇyāṁ saktinirdeśa \[both in Jayadrathayāmala, \[illegible\] 4), Guhyasiddhi, Nityāhnikatilaka etc. or those with Ujjayinī in the place of Ekāmra. It is also one of the eight Śmaśāna-sites worshipped in the Mandala of the Picumata, Paṭala 3, the others being Prayāga, Vārāṇasī, Virajā (modern Jajpur in Orissa), Kollagiri, Prabhāsa (modern Somnātha-Pattab in Surat), Ujjayinī (in Malwa), Bhūteśvara (identity uncertain) and Ekāmra. According to Kṣemarāja, (Koṭivarṣa) is one of the sites of the Śmaśānādhipatis listed in Svacchandatantra 2/177-180ab, the other being Kāmarūpa, Ujjayinī, Kāśmira, Kāñcī, Karavīra, Uddiyāna and Hiraṇyapura.”
-[^183]: The original source of these lines is KM 25/93-95ab; it is reproduced in 585 49/116-118ab and Kulakaulinīmata (a.k.a Ājñākhanda) 7/128cd-130. The passage in the KM reads: prayāgari nābhisaristhaṁ tu varunā hṛtpradeśataḥ | kolāgiryaṁ tu kanṭhasthani bhīmanādaṁ ca tāluke || bindusthāne jayantyākhyaṁ nādākhye tu caritrakam ekāmrar śaktimadhye tu jñātavyaṁ viditātmakaiḥ \\\\ guruvaktragatarn proktaṁ kofīvarṣaṁ tu cāṣtamam | ‘The passage here reads: prayāgo nābhisaṁisthastu varaṇā hṛtpradeśataḥ | kulādriḥ \[th: kullādriḥ\] kanthasaṁsthastu bhīmanādastu tālukaḥ \\\\ bindusthāne jayantyākhyaṁ nādākhye tu caritrakam | ekāmrar śaktimadhye tu jṁātavyaṁ viditātmakaiḥ \\\\ guruvaktragatari proktarn koṭivarṣaṁ tathāṣtamam | Notice how Jayaratha must have corrected the Sanskrit. Here we have clear proof that the worship of the goddess Kubjikā had reached the valley of Kashmir by at least Jayaratha’s time, i.e. the 13th century. Here is another piece of evidence that Jayaratha knew the Kubjikā Tantras. We have just one reference from the KM in Abhinava’s PTv, that cannot be traced in extant Kubjikā sources. Kṣemarāja appears to be oblivious of it. In TĀv 3/94cd-95ab, Jayaratha quotes the Cinñcinīsrasamuccaya, a Kubjikā Tantra, without naming his source. He quotes a verse in his commentary on the Vāmakeśvara-mata that refers to Kubjikā in the context of the main Kaula deities of Kashmir: anenaiva āśayena bhavadbhir api. ürmir iti bhoginīty api kubjeti kuleśvarīti jagaduryām | śrīkālakarṣanīty api kundalinīty api ca naumi tāṁ devīm Ii Another example of placement of a similar group of eight sites is found in chapter 21 of the fourth ṣagka of the JY, according to the teachings of the Kālīkula: idā suṣumne saṁghaṭte \[kh g: suṣumne-\] prayāgaṁ varavarnini I 70 II varunākhyaṁ bhruvor madhye \[g: bhüvārmadhye\] kaulaṁ lambikayā tathā | nāsāgraṁ cāṭtahāsaṁ tu jayantī tālurandhrake ॥ 71 ॥ vindūpari caritrā ca ekāmrā nābhigocare | 130b kh) devīkoṭar tu kandasthaṁ jñātvā paryaṭṣanari bhavet ॥ 72 ॥ kandorddhvā kundalī śaktir yathā (> yayā) vai mohitari jagat | \*O lady of most excellent colour, Prayāga is Idā at the juncture with suṣumnā. The one called Varunā is in between the eyebrows, and Kaula(giri) is with the uvula (lambikā). Attahāsa is at the tip of the nose, and Jayanti in the cavity of the palate. Caritrā is above Bindu, and Ekāmrā is in the area of the navel. Devīkoṭa is in the bulb (kanda) — having known this, the wandering (around the sacred sites) can take place. Above the Bulb is the power Kundali, by which the universe is deluded.”
+[^183]: The original source of these lines is KM 25/93-95ab; it is reproduced in 585 49/116-118ab and Kulakaulinīmata (a.k.a Ājñākhanda) 7/128cd-130. The passage in the KM reads: prayāgari nābhisaristhaṁ tu varunā hṛtpradeśataḥ | kolāgiryaṁ tu kanṭhasthani bhīmanādaṁ ca tāluke || bindusthāne jayantyākhyaṁ nādākhye tu caritrakam ekāmrar śaktimadhye tu jñātavyaṁ viditātmakaiḥ \\\\ guruvaktragataṁ proktaṁ kofīvarṣaṁ tu cāṣtamam | ‘The passage here reads: prayāgo nābhisaṁisthastu varaṇā hṛtpradeśataḥ | kulādriḥ \[th: kullādriḥ\] kanthasaṁsthastu bhīmanādastu tālukaḥ \\\\ bindusthāne jayantyākhyaṁ nādākhye tu caritrakam | ekāmrar śaktimadhye tu jṁātavyaṁ viditātmakaiḥ \\\\ guruvaktragatari proktaṁ koṭivarṣaṁ tathāṣtamam | Notice how Jayaratha must have corrected the Sanskrit. Here we have clear proof that the worship of the goddess Kubjikā had reached the valley of Kashmir by at least Jayaratha’s time, i.e. the 13th century. Here is another piece of evidence that Jayaratha knew the Kubjikā Tantras. We have just one reference from the KM in Abhinava’s PTv, that cannot be traced in extant Kubjikā sources. Kṣemarāja appears to be oblivious of it. In TĀv 3/94cd-95ab, Jayaratha quotes the Cinñcinīsrasamuccaya, a Kubjikā Tantra, without naming his source. He quotes a verse in his commentary on the Vāmakeśvara-mata that refers to Kubjikā in the context of the main Kaula deities of Kashmir: anenaiva āśayena bhavadbhir api. ürmir iti bhoginīty api kubjeti kuleśvarīti jagaduryām | śrīkālakarṣanīty api kundalinīty api ca naumi tāṁ devīm Ii Another example of placement of a similar group of eight sites is found in chapter 21 of the fourth ṣagka of the JY, according to the teachings of the Kālīkula: idā suṣumne saṁghaṭte \[kh g: suṣumne-\] prayāgaṁ varavarnini I 70 II varunākhyaṁ bhruvor madhye \[g: bhüvārmadhye\] kaulaṁ lambikayā tathā | nāsāgraṁ cāṭtahāsaṁ tu jayantī tālurandhrake ॥ 71 ॥ vindūpari caritrā ca ekāmrā nābhigocare | 130b kh) devīkoṭar tu kandasthaṁ jñātvā paryaṭṣanari bhavet ॥ 72 ॥ kandorddhvā kundalī śaktir yathā (> yayā) vai mohitari jagat | \*O lady of most excellent colour, Prayāga is Idā at the juncture with suṣumnā. The one called Varunā is in between the eyebrows, and Kaula(giri) is with the uvula (lambikā). Attahāsa is at the tip of the nose, and Jayanti in the cavity of the palate. Caritrā is above Bindu, and Ekāmrā is in the area of the navel. Devīkoṭa is in the bulb (kanda) — having known this, the wandering (around the sacred sites) can take place. Above the Bulb is the power Kundali, by which the universe is deluded.”
 
 *[p. 67]* ^pg85
 
@@ -798,7 +798,7 @@ Surely (one may ask), if one should consider that the sacred sites are within on
 
 The Power of Outer Sacred Places वाह्य तु तादृशान्तःस्थयोगमार्गविशारदाः ॥ ९७ ॥
 देव्यः स्वभावाज्जायन्ते पीठं तद्बाह्यमुच्यते ।
-bāhye tu tādṛśāntahsthayogamārgaviśāradāḥ ॥ 97 Il devyaḥ svabhāvāj jāyante \[illegible\] tad bāhyam ucyate | 
+bāhye tu tādṛśāntahsthayogamārgaviśāradāḥ ॥ 97 ॥ devyaḥ svabhāvāj jāyante \[illegible\] tad bāhyam ucyate | 
 
 The (same) godd who are well versed in such inner paths of Yoga arise (spontaneously) by their very nature (svabhāvat) externally. 
 
@@ -1041,7 +1041,7 @@ The injunction (vidhi) (in this case is that) what is pleasing to the mind (mano
 
 193\. The fifth syllable of the first quarter of this rather roughly put together verse should be short (laghu), not long (guru).
 
-194\. The statement tac ca sarvidvikāsena — ‘that (takes place) by the expansion (vikāsa) of consciousness’ is most probably Abhinava’s gloss. If so, one wonders whether 107cd-108ab is also by Abhinava. I take it to be drawn from the \[illegible\]
+194\. The statement tac ca sarvidvikāsena — ‘that (takes place) by the expansion (vikāsa) of consciousness’ is most probably Abhinava’s gloss. If so, one wonders whether 107cd-108ab is also by Abhinava. I take it to be drawn from the Vīrāvali.
 
 195\. Cf, above, 15/104cd-105ab.
 
@@ -1059,7 +1059,7 @@ Surely (one may ask), it is said everywhere that a particular accomplishment (si
 नियतिप्राणतायोगात्सामग्रीतस्तु यद्यपि ॥ ११० ॥
 सिद्धयो भाववैमल्यं तथापि निखिलोत्तमम् ।
 
-niyatiprāṇatāyogāt sāmagrītas tu yady api ॥ 110 |I siddhayo bhāvavaimalyaṁ tathāpi nikhilottamam | 
+niyatiprāṇatāyogāt sāmagrītas tu yady api ॥ 110 ॥ siddhayo bhāvavaimalyaṁ tathāpi nikhilottamam | 
 
 Even though (some) accomplishments (may be the result) of a combination (of factors, spatial and temporal,) in accord with the power of Necessity (niyati), the purity of one’s disposition (bhāvavaimalya) is still the most excellent of all (of them). (110cd-111ab) 
 
@@ -1133,7 +1133,7 @@ He concludes this (teaching saying):
 तत्स्थानं यत्र विश्रान्तसुन्दरं हदयं भवेत् ।
 
 tasmāt siddhyai vimuktyai vā pūjājapasamādhiṣu ॥ 114 I|
-tat sthānaṁ yatra viśrāntisundaraṁ hṛdayarn bhavet | 
+tat sthānaṁ yatra viśrāntisundaraṁ hṛdayaṁ bhavet | 
 
 Therefore, in order to attain worldly accomplishment or liberation, the place which is best suited to perform the rites of adoration, the repetition of Mantras and meditation, is where the heart (of consciousness) is beautiful with the rest (it enjoys in its own essential nature) (viśrāntisundara). (114cd-115ab) 
 
@@ -1171,7 +1171,7 @@ He (now) says (what it is):
 मातृकां मालिनीं वाथ द्वितयं वा क्रमाक्रमात् ।। ११६ ॥
 सुष्टयप्ययद्रयैः कुर्यीदेकेकं संघशो द्विशः ।
 
-mātṛkāṁi mālinīṁ vātha dvitayan vā kramākramāt || 116 |I 
+mātṛkāṁi mālinīṁ vātha dvitayan vā kramākramāt || 116 || 
 
 ṣtyapyayadvayaiḥ kuryād ekaikańi saṁghaśo dviśaḥ | 
 
@@ -1264,7 +1264,7 @@ bakavarga-i-ā vaktradantajihvāgiri kramāt |
 vabhayāḥ kanthadakṣādiskandhayor bhujayor dadhau ॥ 122 ॥
 tho hastayor jhañau śākhā jraṭau śūlakapālake |
 pa hṛcchalau stanau kṣīramā sa jīvo visargayuk || 123 ॥
-prāno havarnaḥ kathitaḥ ṣakṣāv udaranābhigau |
+prāṇo havarnaḥ kathitaḥ ṣakṣāv udaranābhigau |
 maśāntā kaṭiguhyoruyugmagā jānunī tathā ॥ 124 ॥
 e-aikārau tatparau tu jaṁghe caranagau daphau | 
 

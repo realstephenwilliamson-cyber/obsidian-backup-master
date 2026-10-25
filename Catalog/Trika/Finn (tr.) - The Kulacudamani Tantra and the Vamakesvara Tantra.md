@@ -17,8 +17,7 @@ language:
   - English
 pages: 408
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[KULACUDAMANI TANTRA and VAMAKESVARA TANTRA with the JAYARATHA COMMENTARY - Louise M. Finn - 1986.pdf]]"
   - "[[Library/Trika/The Kulacudamani Tantra and The Vamakesvara Tantra (Finn)/The Kulacudamani Tantra and The Vamakesvara Tantra (Finn)]]"

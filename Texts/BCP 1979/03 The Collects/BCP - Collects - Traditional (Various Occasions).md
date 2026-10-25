@@ -5,9 +5,7 @@ section: "The Collects"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Collects/varioust.html"
-page_range:
-  - 199
-  - 210
+page_range: "199–210"
 aliases:
   - "BCP 200"
   - "BCP 201"
@@ -25,7 +23,7 @@ aliases:
 
 [[BCP 1979]] · *The Collects* · pages 199–210
 
-[p. 199]
+[p. 199] ^pg199
 
 ## Various Occasions
 
@@ -37,7 +35,7 @@ Almighty God, who hast revealed to thy Church thine eternal Being of glorious ma
 
 *Preface of Trinity Sunday*
 
-[p. 200]
+[p. 200] ^pg200
 
 ### 2. Of the Holy Spirit
 
@@ -57,7 +55,7 @@ O God, who didst wonderfully create, and yet more wonderfully restore, the digni
 
 *Preface of the Epiphany*
 
-[p. 201]
+[p. 201] ^pg201
 
 ### 5. Of the Holy Eucharist
 
@@ -83,7 +81,7 @@ Grant, O Lord God, to all who have been baptized into the death and resurrection
 
 *Preface of Baptism*
 
-[p. 202]
+[p. 202] ^pg202
 
 ### 8. For the Departed
 
@@ -119,7 +117,7 @@ Grant, Almighty God, that we, who have been redeemed from the old life of sin by
 
 *Preface of Baptism, or of Pentecost*
 
-[p. 204]
+[p. 204] ^pg204
 
 ### 12. On the Anniversary of the Dedication of a Church
 
@@ -157,7 +155,7 @@ O God, who didst lead thy holy apostles to ordain ministers in every place: Gran
 
 *Preface of the Season*
 
-[p. 206]
+[p. 206] ^pg206
 
 ### III. For all Christians in their vocation
 
@@ -175,7 +173,7 @@ O God of all the nations of the earth: Remember the multitudes who have been cre
 
 *Preface of the Season, or of Pentecost*
 
-[p. 207]
+[p. 207] ^pg207
 
 ### 17. For the Nation
 
@@ -201,7 +199,7 @@ Almighty God, Lord of heaven and earth: We humbly pray that thy gracious provide
 
 *Preface of the Season*
 
-[p. 208]
+[p. 208] ^pg208
 
 ### II. For Commerce and Industry
 
@@ -223,7 +221,7 @@ Heavenly Father, giver of life and health: Comfort and relieve thy sick servants
 
 *The postcommunion prayer on page 457 may be used.*
 
-[p. 209]
+[p. 209] ^pg209
 
 ### 21. For Social Justice
 
@@ -243,7 +241,7 @@ Almighty God, the fountain of all wisdom: Enlighten by thy Holy Spirit those who
 
 *Preface of the Season*
 
-[p. 210]
+[p. 210] ^pg210
 
 ### 24. For Vocation in Daily Work
 

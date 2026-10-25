@@ -17,8 +17,7 @@ language:
   - English
 pages: 151
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Coeckelbergh - Green Leviathan or the Poetics of Political Liberty.pdf]]"
   - "[[Library/Philosophy/Green Leviathan or the Poetics of Political Liberty (Coeckelbergh)/Green Leviathan or the Poetics of Political Liberty (Coeckelbergh)]]"

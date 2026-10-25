@@ -18,8 +18,7 @@ language:
   - English
 pages: 774
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Cyril of Alexandria - Commentary on Luke, part 1 (1859).pdf]]"
   - "[[Library/Christianity/Cyril of Alexandria - Commentary on Luke, part 2 (1859).pdf]]"

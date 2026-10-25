@@ -17,8 +17,7 @@ language:
   - English
 pages: 22
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Gokhale - The Philosophical Geography of Kashmir Saivism.pdf]]"
   - "[[Library/Trika/The Philosophical Geography of Kashmir Saivism (Gokhale)]]"

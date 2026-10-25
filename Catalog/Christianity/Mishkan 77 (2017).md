@@ -16,8 +16,7 @@ language:
   - English
 pages: 37
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The_Wrath_of_a_Disappointed_Lover_On_Lut.pdf]]"
   - "[[Library/Christianity/Mishkan 77]]"

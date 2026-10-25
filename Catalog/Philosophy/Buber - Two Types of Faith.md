@@ -18,8 +18,7 @@ language:
   - English
 pages: 176
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Buber, Martin - Two Types of Faith (Macmillan, 1951).pdf]]"
   - "[[Library/Philosophy/Two Types of Faith (Buber)/Two Types of Faith (Buber)]]"

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 147
 verses: 21
-page_range:
-  - 804
-  - 805
+page_range: "804–805"
 aliases:
   - "BCP Psalm 147"
   - "BCP 804"
@@ -60,7 +58,7 @@ he has no pleasure in the strength of a man; ^147-11
 **147:12** But the LORD has pleasure in those who fear him, \*  
 in those who await his gracious favor. ^147-12
 
-[p. 805]
+[p. 805] ^pg805
 
 **147:13** Worship the LORD, O Jerusalem; \*  
 praise your God, O Zion; ^147-13

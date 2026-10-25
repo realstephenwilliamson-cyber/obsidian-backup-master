@@ -4,7 +4,7 @@ book: "[[Play as Symbol of the World (Fink)]]"
 order: 7
 page_range: "216–224"
 ---
-[p. 216]
+[p. 216] ^pg216
 
 ## Play and Celebration {1975}
 

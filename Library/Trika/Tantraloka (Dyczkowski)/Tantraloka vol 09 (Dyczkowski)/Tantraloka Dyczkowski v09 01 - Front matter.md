@@ -82,7 +82,7 @@ Although I have not studied formally with Prof. K. D. Tripathi, retired dean of 
 
 *[p. m]* ^pg7
 
-are many other renowned scholars in \[illegible\] whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was a scholar and initiate in line of Bhāskara Rāya, the great 18\* century exponent of Śrīvidyā. 
+are many other renowned scholars in Kāśī whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was a scholar and initiate in line of Bhāskara Rāya, the great 18\* century exponent of Śrīvidyā. 
 
 I owe a special thanks also to Bettina Bäumer whose dedication and scholarship in many fields has been an abiding source of inspiration and knowledge for me throughout the 50 years of our acquaintance. Of those who do not reside in Benares I gratefully acknowledge Prof. Navajivan Rastogi whose books and lectures have helped me a great deal. 
 

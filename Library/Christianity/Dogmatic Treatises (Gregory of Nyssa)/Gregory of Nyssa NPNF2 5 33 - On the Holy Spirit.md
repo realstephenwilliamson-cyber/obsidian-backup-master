@@ -4,7 +4,7 @@ work: "[[Catalog/Christianity/Gregory of Nyssa - Dogmatic Treatises]]"
 book: "[[Library/Christianity/Dogmatic Treatises (Gregory of Nyssa)/Dogmatic Treatises (Gregory of Nyssa)|Dogmatic Treatises (Gregory of Nyssa)]]"
 order: 33
 source_pdf: "Library/Christianity/Gregory of Nyssa - Dogmatic Treatises (NPNF2 5).pdf"
-pages: "586–605"
+page_range: "586–605"
 pdf_pages: "607–626"
 text_source: "PDF text layer (born-digital, CCEL), PyMuPDF"
 converted: 2026-10-22
@@ -34,7 +34,7 @@ What then is the charge they bring against us? They accuse us of profanity for e
 
 316 σηπεδονώδης…γάγγραινα: both used by Galen.
 
-122\. 1 εἰς ἀσεβείαν γράφειν. This is Mai’s reading. Cf. ἀσεβείας γραφή. The *active* (instead of middle) in this 1222 sense is found in Aristoph. Av. 1052: the passive is not infrequent in Demosthenes and Æschines. *From God, and of the Christ, according to Scripture.* This is noticeable. The Greek is ἐκ τοῦ Θεοῦ ἐστι, 1223 καὶ τοῦ Χριστοῦ ἐστι, καθὼς γέγραπται. Compare the words below “proceeding from the Father, receiving from the Son.” τὸ ἀπαράλλακτον (but there is something lost before this: perhaps τὸ ἡνωμένον). This word is used to 1224 express substantial identity. Origen uses it in alluding to the “Stoic resurrection,” *i.e.* the time when the “Great Year” shall again begin, and the world’s history be literally repeated, *i.e.* the “identical Socrates shall marry the identical Xantippe, and teach the identical philosophy, &c.” This expression was a favourite one also with Chrysostom and Cyril of Alexandria to express the identity of Glory, of Godhead, and of Honour, in the Blessed Trinity. Reading μορίοις (cf. the same word below) for μορίαν. 1225 πρὸς τὴν ἐναντίαν ποιότητα.
+1221 εἰς ἀσεβείαν γράφειν. This is Mai’s reading. Cf. ἀσεβείας γραφή. The *active* (instead of middle) in this 1222 sense is found in Aristoph. Av. 1052: the passive is not infrequent in Demosthenes and Æschines. *From God, and of the Christ, according to Scripture.* This is noticeable. The Greek is ἐκ τοῦ Θεοῦ ἐστι, 1223 καὶ τοῦ Χριστοῦ ἐστι, καθὼς γέγραπται. Compare the words below “proceeding from the Father, receiving from the Son.” τὸ ἀπαράλλακτον (but there is something lost before this: perhaps τὸ ἡνωμένον). This word is used to 1224 express substantial identity. Origen uses it in alluding to the “Stoic resurrection,” *i.e.* the time when the “Great Year” shall again begin, and the world’s history be literally repeated, *i.e.* the “identical Socrates shall marry the identical Xantippe, and teach the identical philosophy, &c.” This expression was a favourite one also with Chrysostom and Cyril of Alexandria to express the identity of Glory, of Godhead, and of Honour, in the Blessed Trinity. Reading μορίοις (cf. the same word below) for μορίαν. 1225 πρὸς τὴν ἐναντίαν ποιότητα.
 
 
 *[p. 588]* ^pg609
@@ -61,7 +61,7 @@ For the plea will not avail them in their self-defence, that He is delivered by 
 
 Since, then, it has been affirmed, and truly affirmed, that the Spirit is of the Divine Essence, and since in that one word “Divine” every idea of greatness, as we have said, is involved, it follows that he who grants that Divinity has potentially granted<sup>1233</sup> all the rest;—the gloriousness, the omnipotence, everything indicative of superiority. It is indeed a monstrous thing to refuse to confess this in the case of the Spirit; monstrous, because of the incongruity, as applied to Him, of the terms which in the list of opposites correspond to the above terms.
 
-123\. 1 “The Ancient Greek Fathers, speaking of this procession, mention the Father only, and never, I think, express the Son, as sticking constantly in this to the language of the Scriptures (John xv. 26)”—Pearson. The language of the above simile of Gregory would be an illustration of this. So Greg. Naz., *Orat. I. de Filio,* “standing on our definitions, we introduce the Ungenerate, the Generated, and that which proceeds from the Father.” This last expression was so known and public, that it is recorded even by Lucian in his *Philopatris,* §12. Reading καὶ τῆς εὐσεβοῦς ἐννοίας. 1232 The edition of Cardinal Mai has ὁ ἐκεῖνο δοὺς τῇ δυνάμει, συνωμολόγησε, κ. τ. λ. But the sense requires the comma to be placed after δοὺς. Reading τὸ ἐφεξῆς. 1234 ἐφεξῆς. 1235 Reading ὁμολογεῖς
+1231 “The Ancient Greek Fathers, speaking of this procession, mention the Father only, and never, I think, express the Son, as sticking constantly in this to the language of the Scriptures (John xv. 26)”—Pearson. The language of the above simile of Gregory would be an illustration of this. So Greg. Naz., *Orat. I. de Filio,* “standing on our definitions, we introduce the Ungenerate, the Generated, and that which proceeds from the Father.” This last expression was so known and public, that it is recorded even by Lucian in his *Philopatris,* §12. Reading καὶ τῆς εὐσεβοῦς ἐννοίας. 1232 The edition of Cardinal Mai has ὁ ἐκεῖνο δοὺς τῇ δυνάμει, συνωμολόγησε, κ. τ. λ. But the sense requires the comma to be placed after δοὺς. Reading τὸ ἐφεξῆς. 1234 ἐφεξῆς. 1235 Reading ὁμολογεῖς
 
 
 *[p. 591]* ^pg612
@@ -94,9 +94,9 @@ What means, then, this lowering and this expanding of their soul, on the part of
 
 “Yes,” replies one of them, “but we have been taught by Scripture that the Father is the Creator, and in the same way that it was ‘through the Son<sup>1243</sup>’ that ‘all things were made’; but God’s word tells us nothing of this kind about the Spirit; and how, then, can it be right to place the Holy Spirit in a position of equal dignity with One Who has displayed such magnificence of power through the Creation?”
 
-123\. 9 Ps. xix. 1. Is. xl. 12. Τίς ἐμέtrjse…τὸν οὐρανὸν σπιθαμῇ.
+1239 Ps. xix. 1. Is. xl. 12. Τίς ἐμέtrjse…τὸν οὐρανὸν σπιθαμῇ.
 
-124\. 0 λαμβανόμενον 1241 πιστὸς. 2 Tim. ii. 13. 1242 320 πρὸ πάσης καταληπτῆς ἐπινοίας. 1244 1 Cor. xiii. 6.
+1240 λαμβανόμενον 1241 πιστὸς. 2 Tim. ii. 13. 1242 320 πρὸ πάσης καταληπτῆς ἐπινοίας. 1244 1 Cor. xiii. 6.
 
 
 *[p. 594]* ^pg615
@@ -121,7 +121,7 @@ we say to those of them who subscribe to the reverential conception of the Holy 
 
 321 τὴν ἀληθῆ μόρφωσιν τῆς εὐσεβείας 1247 ἐντίθεται: συντίθεται, “concedes to,” would perhaps be better. 1248 1249 2 Cor. xiii. 11. Cf. 1 Cor. xiv. 20. Cf. 2 Tim. i. 13 (ὑποτύπωσιν); Rom. ii. 20 (μόρφωσιν); vi. 17 (τύπον), all referring to truth as contained
 
-125\. 0 in a formula. Cf. also Gal. iv. 19. Reading καθὼς ἐκεῖνος φησὶν. Eccles. xi. 5 (LXX.). οὐκ ἔστι γινωσκων τίς ἡ ὁδὸς τοῦ πνεύματος, ὡς ὀστᾶ ἐν γαστρὶ κυοφορούσης 1252 1253 Acts x. 38. Cf. iv. 27. 1254 2 Cor. iii. 14, 15. ἐκ τοῦ περιέχοντος. This expression of Anaxagoras is repeated more than once in the Treatise “On the Soul.”
+1250 in a formula. Cf. also Gal. iv. 19. Reading καθὼς ἐκεῖνος φησὶν. Eccles. xi. 5 (LXX.). οὐκ ἔστι γινωσκων τίς ἡ ὁδὸς τοῦ πνεύματος, ὡς ὀστᾶ ἐν γαστρὶ κυοφορούσης 1252 1253 Acts x. 38. Cf. iv. 27. 1254 2 Cor. iii. 14, 15. ἐκ τοῦ περιέχοντος. This expression of Anaxagoras is repeated more than once in the Treatise “On the Soul.”
 
 
 *[p. 597]* ^pg618
@@ -156,9 +156,9 @@ in Their life, the same as that which we have through the Holy Spirit, supplied 
 
 So that if these despisers and impugners of their very own life conceive of the gift as a little one, and decree accordingly to slight the Being who imparts the gift, let them be made aware that they cannot limit to one Person only their ingratitude, but must extend its profanity beyond the Holy Spirit to the Holy Trinity Itself. For like as the grace flows down in an unbroken stream from the Father, through the Son and the Spirit, upon the persons worthy of it, so does this profanity return backward, and is transmitted from the Son to the God of all the world, passing from one to the other. If, when a man is slighted, He Who sent him is slighted (yet what a distance there was between the man and the Sender!), what criminality<sup>1258</sup> is thereby implied in those who thus defy the Holy Spirit! Perhaps this is the blasphemy against our Law-giver<sup>1259</sup> for which the judgment without remission has been decreed; since in Him the<sup>1260</sup> entire Being, Blessed and Divine, is insulted also. As the devout worshipper of the Spirit sees in Him the glory of the Only-begotten, and in that sight beholds the image of the Infinite God, and by means of that image makes an outline, upon his own cognition<sup>1261</sup>, of the Original, so most plainly does this contemner<sup>1262</sup> (of the Spirit), whenever he advances any of his bold statements against the glory of the Spirit, extend, by virtue of the same reasoning, his profanity to the Son, and beyond Him to the Father. Therefore, those who reflect must have fear lest they perpetrate an audacity the result of which will be the complete blotting out of the perpetrator of it; and while they exalt the Spirit in the naming, they will even before the naming exalt Him in their thought, it being impossible that words can mount along with thought; still when one shall have reached the
 
-125\. 7 “Whether or not the Macedonians explicitly denied the Divinity of the Holy Ghost is uncertain; but they viewed Him as essentially separate from, and external to, the One Indivisible Godhead. The ‘Nicene’ Creed declares that He is the *Lord,* or Sovereign Spirit because the heretics considered Him to be a minister of God; and the Supreme *Giver of Life,* because they considered Him a mere instrument by which we receive the gift.”—Newman’s *Arians,* note p. 420. κατάκρισιν 1258 κατὰ τοῦ νομοθέτου is Mai’s reading. But κατὰ τὸν νομοθέτην, *i.e.* according to S. Mark iii. 29, S. Luke 1259 xii. 10, would be preferable. Migne reads παρὰ in this sense. τὸ has probably dropped out.
+1257 “Whether or not the Macedonians explicitly denied the Divinity of the Holy Ghost is uncertain; but they viewed Him as essentially separate from, and external to, the One Indivisible Godhead. The ‘Nicene’ Creed declares that He is the *Lord,* or Sovereign Spirit because the heretics considered Him to be a minister of God; and the Supreme *Giver of Life,* because they considered Him a mere instrument by which we receive the gift.”—Newman’s *Arians,* note p. 420. κατάκρισιν 1258 κατὰ τοῦ νομοθέτου is Mai’s reading. But κατὰ τὸν νομοθέτην, *i.e.* according to S. Mark iii. 29, S. Luke 1259 xii. 10, would be preferable. Migne reads παρὰ in this sense. τὸ has probably dropped out.
 
-126\. 0 τῇ γνώσει ἑαυτοῦ. 1261 Something has dropped out here. ἐπιβαλλόυσης. Cf. Ps. xcix. 5; 2 Chron. xxviii. 2. 1263 1264 Wisdom xvi. 14. βιωτικῆς ἀπάτης.
+1260 τῇ γνώσει ἑαυτοῦ. 1261 Something has dropped out here. ἐπιβαλλόυσης. Cf. Ps. xcix. 5; 2 Chron. xxviii. 2. 1263 1264 Wisdom xvi. 14. βιωτικῆς ἀπάτης.
 
 
 *[p. 601]* ^pg622
@@ -197,7 +197,7 @@ But you will say, “When I think of the Father it is the Son (alone) that I hav
 
 325 καλὸν.
 
-127\. 1 1272 Deut. vi. 13; x. 20. The LXX. has προσεκύνησεν ἐπὶ τὴν γῆν ἑπτάκις, Gen. xxxiii. 3. 1273 προσεκύνησε τῷ λαῷ τῆς γῆς, τοῖς υἱοῖς τοῦ Χετ, Gen. xxiii. 7. 1274 τοῦ βίου. This is a late use of βίος. Still the word προσκυνεῖν became consecrated to the highest Christian worship while θεραπεύειν was 1276 employed for address to the angels. “Every supplication, every prayer, every entreaty, and every giving of thanks must be offered to the Almighty through the High Priest who is over all the angels, the incarnate Word and God. And we shall make supplication and prayer to the Word Himself also, and we shall give Him thanks if we can distinguish prayer in its proper meaning from the wrong use of the word,” Origen c. Cels. v. 4 (Cf. viii. 13, where he answers the question whether Gabriel, Michael, and the rest of the archangels should be addressed, θεραπευέσθαι).
+1271 1272 Deut. vi. 13; x. 20. The LXX. has προσεκύνησεν ἐπὶ τὴν γῆν ἑπτάκις, Gen. xxxiii. 3. 1273 προσεκύνησε τῷ λαῷ τῆς γῆς, τοῖς υἱοῖς τοῦ Χετ, Gen. xxiii. 7. 1274 τοῦ βίου. This is a late use of βίος. Still the word προσκυνεῖν became consecrated to the highest Christian worship while θεραπεύειν was 1276 employed for address to the angels. “Every supplication, every prayer, every entreaty, and every giving of thanks must be offered to the Almighty through the High Priest who is over all the angels, the incarnate Word and God. And we shall make supplication and prayer to the Word Himself also, and we shall give Him thanks if we can distinguish prayer in its proper meaning from the wrong use of the word,” Origen c. Cels. v. 4 (Cf. viii. 13, where he answers the question whether Gabriel, Michael, and the rest of the archangels should be addressed, θεραπευέσθαι).
 
 
 *[p. 604]* ^pg625

@@ -17,8 +17,7 @@ language:
   - English
 pages: 288
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Denys Turner - The Darkness of God_ Negativity in Christian Mysticism (1998).pdf]]"
   - "[[Library/Christianity/The Darkness of God (Turner)/The Darkness of God (Turner)]]"

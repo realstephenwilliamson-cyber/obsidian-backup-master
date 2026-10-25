@@ -108,7 +108,7 @@ sivo yāgapriyo yasmād viíeṣān mātṛmadhyagaḥ ॥ 6 ॥7
 tasmād rahasyaśāstreṣu ye mantrās tān budho bahiḥ |
 na pratiṣthāpayej jātu viśeṣād vyaktarūpinaḥ ॥ 7 ॥
 ata eva mṛtasyārthe pratiṣthānyatra yoditā |
-sātra śāstreṣu no kāryā kāryā sādhāranṇī punaḥ ॥ 8 II 
+sātra śāstreṣu no kāryā kāryā sādhāranṇī punaḥ ॥ 8 ॥ 
 
 Moreover, the Supreme Lord has said this in the Jñānottara.\* (There we read): ‘Śiva loves sacrifices (yāga), especially (when He is) in the midst of the (Circle of the) Mothers.’ Thus, a wise man should most 
 
@@ -116,7 +116,7 @@ Moreover, the Supreme Lord has said this in the Jñānottara.\* (There we read):
 
 940?\. If the text is the Sarvajñānottara, the name is always, except here, in the masculine, as one would expect. We have noted that we observe a shift of gender in the case of the Kāmika /Kāmikā, Kiraṇa / Kiraṇā, and Mṛgendra / Mṛgendrā (see notes 4,83 and 15,78). Thus, a similar shift in this case is not impossible, although one could consider emending to the normal gender jñānottare yac as a possible correct reading. This passage cannot be traced to the manuscripts of the Sarvajñānottara. Moreover, the reference to rahasyaśāstra here is suspect. Although the Sarvajñānottara is an unusual Siddhāntāgama in many respects, promoting in several places nondualism and direct identification with Siva, nonetheless it does not think of itself as a ‘secret scripture’. It is thus quite possible that Abhinava is not referring here to the Sarvajñānottara.
 
-941?\. Concerning the eight Mothers, see above, 8/241cd-242, where their names are listed, and the commentary. Abhinava comments on line 27/6cd in the MVV 1/46-47: yatrocyate svaśakyādikṣobhasariraribhanirbharā | devasya yāgapriyatā vieṣān mātṛmadhyataḥ |l 46cd is equivalent to TĀ 27/6cd aiśvaryaśaktyudrekena labdheśvarapadābhidaḥ | devo vijñānamahimāprodbhūto ‘yam prapañcitaḥ ॥ “Where it is said that the love the god has for the sacrifice is full (to overflowing) with the enthusiasm that comes from the arousal of his own power etc., especially (when he is) in the midst of the (Circle of the) Mothers, the god, by virtue of the superabundance of the power of (His) lordship, is called ‘He who has attained the plane of the Lord \[illegible\] and by the glorious power (of His) consciousness (vijñāna), (all) this that is extensively conceived (prapañcita) has arisen.’ Śiva’s relish for enjoyment is more commonly associated with ferocious deities, specifically his form as Bhairava. This is so in MVV 1/42-45, that precedes this passage in MVV 1/46-47, where Abhinava presents the experience Deity has of the world as a source of liberation: “As soon as Bhairava, who is knowledge, becomes entirely identified with the flood of the waves of objects (tat), but (remains) (when he) as the possessor of his power is satisfied with no less than the plenitude of things, when this state of having a power is subordinated by means of his full, own power alone, then such a stream of knowledge consisting of reflective awareness (vimarśa), in which an extraordinary bliss (hlāda) appears through instruction in enjoyment (bhoga), pervades (everything). For the fortunate ones, even the multitude of enjoyments, if cultivated by confidence in this (yadīya) performance of the ‘practice of consciousness’ are transformed into the abode of salvation.’ (MVV 1/42-45) Translation by Hanneder.
+941?\. Concerning the eight Mothers, see above, 8/241cd-242, where their names are listed, and the commentary. Abhinava comments on line 27/6cd in the MVV 1/46-47: yatrocyate svaśakyādikṣobhasariraribhanirbharā | devasya yāgapriyatā vieṣān mātṛmadhyataḥ |l 46cd is equivalent to TĀ 27/6cd aiśvaryaśaktyudrekena labdheśvarapadābhidaḥ | devo vijñānamahimāprodbhūto ‘yam prapañcitaḥ ॥ “Where it is said that the love the god has for the sacrifice is full (to overflowing) with the enthusiasm that comes from the arousal of his own power etc., especially (when he is) in the midst of the (Circle of the) Mothers, the god, by virtue of the superabundance of the power of (His) lordship, is called ‘He who has attained the plane of the Lord (īśvara)’, and by the glorious power (of His) consciousness (vijñāna), (all) this that is extensively conceived (prapañcita) has arisen.’ Śiva’s relish for enjoyment is more commonly associated with ferocious deities, specifically his form as Bhairava. This is so in MVV 1/42-45, that precedes this passage in MVV 1/46-47, where Abhinava presents the experience Deity has of the world as a source of liberation: “As soon as Bhairava, who is knowledge, becomes entirely identified with the flood of the waves of objects (tat), but (remains) (when he) as the possessor of his power is satisfied with no less than the plenitude of things, when this state of having a power is subordinated by means of his full, own power alone, then such a stream of knowledge consisting of reflective awareness (vimarśa), in which an extraordinary bliss (hlāda) appears through instruction in enjoyment (bhoga), pervades (everything). For the fortunate ones, even the multitude of enjoyments, if cultivated by confidence in this (yadīya) performance of the ‘practice of consciousness’ are transformed into the abode of salvation.’ (MVV 1/42-45) Translation by Hanneder.
 
 
 *[p. 403]* ^pg423
@@ -192,28 +192,28 @@ Should the spiritual sons (putraka) etc. prepare the idol (pratimā) (for worshi
 पङ्क्तिचक्रकशूलान्नविधिना तूरमाश्रयेत् तल्लक्षणं द्रवे श्ीमत्पिचुशाखे निरूपितम् ॥ २९१ ॥
 तूरे यागः सदा शस्तः सिद्धिदो दोषवर्जिते ।
 
-putrakair gurur abhyarthyaḥ sādhakas tu svayarn vidan |
-yadi tat sthāpayen no cet tenāpy arthyo gurur bhavet I| 10 ॥
+putrakair gurur abhyarthyaḥ sādhakas tu svayaṁ vidan |
+yadi tat sthāpayen no cet tenāpy arthyo gurur bhavet ॥ 10 ॥
 guruś cātra nirodhākhye kāla ittharni vibhau vadet |
 Jjīvaty asmin phalāntaṁ tvar tiṣther jīvāvadhīti vā || 11 ॥
-\[illegible\] ca bāṇaliṁgaṁ vā ratnajarn vātha mauktikam |
+\[illegible\] ca bāṇaliṁgaṁ vā ratnajaṁ vātha mauktikam |
 pauṣpam ānnam atho vāstra gandhadravyakṛtaṁ ca vā ॥ 12 ॥
-na tu pāṣānajar liṅgaṁ silpyuttharn parikalpayet |
+na tu pāṣānajar liṅgaṁ silpyutthaṁ parikalpayet |
 dhātūtthaṁ ca suvarṇotthavarjam anyad vivarjayet I| 13 ॥
 na cātra liṅgam ānādi kvacid apy upayujyate |
-udāravīryair mantrair yad bhāsitaṁ phaladarn hi tat | 14 ॥
+udāravīryair mantrair yad bhāsitaṁ phaladaṁ hi tat | 14 ॥
 tasyāpi sthandilādy uktavidhinā śuddhim ācaret |
 mantrārpaṇar tathaiva syn nirodhastūktayuktitaḥ ॥ 15 ॥
 agnau ca tarpana bhūriviśeṣād dakṣinā guroḥ |
 dīnāditṛptir vibhavād yāga ity adhiko vidhiḥ ॥ 16 ॥
 sarveṣv avyaktaliṅgeṣu pradhānaṁ syād akalpitam |
-tathā ca tatra tatroktarn lakṣane pārameśvare ॥ 17 ॥
+tathā ca tatra tatroktaṁ lakṣane pārameśvare ॥ 17 ॥
 sūtre pātre dhvaje vastre svayambhūbānṇapūjite |
 nadīprasravanṇotthe ca nāhvānaṁ nāpi kalpanā ॥ 18 ॥
 pītṭhaprāsādamantrāmśavelādiniyamo na ca |
 vyaktari vā citrapustādau devadārusuvarṇajam || 19 ॥
 atha dīkṣitasacchilpikṛtan sthāpayate guruḥ |
-athavā lakṣaṇopetamūrdhatatkarparāśritam Il 20 Il 
+athavā lakṣaṇopetamūrdhatatkarparāśritam || 20 || 
 
 *[p. 406]* ^pg426
 
@@ -235,7 +235,7 @@ The \[illegible\] may be a made of quartz (bānṇaliṅga)," gems, pearls, flow
 
 ### TĀ 27.14–16
 
-The measurements etc. (listed in scriptures for) liṅgas are of no application here at all. (Only a \[illegible\] that shines with Mantras of illustrious vitality (udāravīrya) bestows (the desired) fruit (and none other). (However,) that too should be purified with the (same) procedure taught with regard to the sacrificial surface etc.“ (Then,) the Mantras should be offered to it, (and the deity) should be detained (within it) in the same way, that is, in the manner explained (previously), and so too the lustration (tarpana) of the fire (that comes next). (Finally,) the remuneration (dakṣinā) (offered to) the teacher should be very special. An additional procedure (vidhi) is the sacrifice (offered) by virtue of (one’s spiritual) wealth, which is (to bring joy to the complete) satisfaction (tṛpti) of the downtrodden (dīna) and others (that are afflicted). (14-16) 
+The measurements etc. (listed in scriptures for) liṅgas are of no application here at all. (Only a liṅga) that shines with Mantras of illustrious vitality (udāravīrya) bestows (the desired) fruit (and none other). (However,) that too should be purified with the (same) procedure taught with regard to the sacrificial surface etc.“ (Then,) the Mantras should be offered to it, (and the deity) should be detained (within it) in the same way, that is, in the manner explained (previously), and so too the lustration (tarpana) of the fire (that comes next). (Finally,) the remuneration (dakṣinā) (offered to) the teacher should be very special. An additional procedure (vidhi) is the sacrifice (offered) by virtue of (one’s spiritual) wealth, which is (to bring joy to the complete) satisfaction (tṛpti) of the downtrodden (dīna) and others (that are afflicted). (14-16) 
 
 ### TĀ 27.17–19
 
@@ -317,7 +317,7 @@ He (now) defines the (possible) defects (of a skull).
 जालकर्जजे र्दनतैरूनाधिक रुजा ॥ २२॥
 युक्तं च तरे हानिः स्यात् तद्धीने याग उत्तमः ।
 
-jālakair jarjarai randhrair dantair ūnādhikai rujā ॥ 22 Il yukte ca tūre hāniḥ syāt taddhīne yāga uttamaḥ | 
+jālakair jarjarai randhrair dantair ūnādhikai rujā ॥ 22 ॥ yukte ca tūre hāniḥ syāt taddhīne yāga uttamaḥ | 
 
 If the skull has networks (of channels), old cavities, too many or too few teeth, and is diseased, (the worshipper) will suffer loss (hāni). If (the skull is) devoid of these (defects), the sacrifice (performed on it) is the most excellent (of all). (22cd-23ab) 
 
@@ -355,17 +355,17 @@ Some maintain that the skull is used only for (magical) intentional rites (kāmy
 
 guravas tu vidhau kāmye yatnād doṣāṁs tyajed iti |
 vyācakṣate picuproktari na nitye karmanīty adaḥ ॥ 24 ॥
-śrīsiddhātantra uktarn ca tūralakṣaṇam uttamam |
+śrīsiddhātantra uktaṁ ca tūralakṣaṇam uttamam |
 ekādikacatuṣkhande gomukhe pūrnacandrake || 25 ॥
 padmagorocanāmuktānīrasphaṭikasaṁnibhe |
 ekādipañcasadrandhravidyārekhānvite śubhe ॥ 26 ॥
 na rūkṣavakraśakaladīrghanimnasabinduke |
-slakṣnṇayā vajrasūcyātra sphutarn devīganānvitam ॥ 27 ||
+slakṣnṇayā vajrasūcyātra sphutaṁ devīganānvitam ॥ 27 ||
 sarvar samālikhet pūjyaṁ sarvāvayavasundaram | 
 
 (But our) teachers” explain that, when it is said in the Picumata (that) ‘in a magical rite (kāmyavidhi) one should take care to avoid (a skull 
 
-960?\. The following is a passage from the Brahmayāmala, where we find an example of the use of a skull for a magical rite to subdue ~ ‘attract’ — a victim: yāgakāle prakartavyā gandhadhūpādikā kriyā \\ 162 I| daśārnarecitā vidyā siddhasandohalakṣanā | asya sādhanakarmaṁ ca kathayāmi yathā bhavet || 163 ॥ “At the time of a sacrifice, one should make ritual (offering of) perfume, incense and the like. The Vidyā is made of five phonemes and is the extract of (the teachings of the) Siddhas. Now I will tell you how the rite of its sādhana is. (162cd-163) mahāvīrakapāle tu kṛtvā \[illegible\] caturbhujam | kapālamālābharanaṁ nāgayajñopavītinam \[g: -nīm\] Il 164 ॥ kapālakhaṭvāṁgadharāmi pretārūdhāri subhairavīm | 143a g\] digambarāṁ \[g: ?\] caturvaktrāṁ pāśāṁkuśadharāṁ śubhām ॥ 165 ॥ pūjayīta kṛtanyāso mudrāpañcakabhūṣitaḥ | The worshipper who has performed the deposition (of the mantras on his body) and is adorned with the five insignia (mudrā) (of a Kāpālika) (should worship) having fashioned in this way (a Bhairava) on the skull of a Great Hero with four arms (holding) a skull, a garland, as an ornament, and (wearing) a snake as a sacred thread. (On the skull there is also) a beautiful Bhairavi who holds an ascetic’s staff, mounted on a ghost, naked with four faces and holds an auspicious noose and elephant gaud, (164-166ab) digvāso muktakeśaś ca madhocchiṣtavidhau sthitaḥ ॥ 166 ॥ mṛtanirmālyapuṣpais tu anyair vācāntadhāūtakaiḥ | \[g: 21 pūjayed bhairavīdevīṁi puṣpair nānāvidhais tathā ॥ 167 ॥ \[g: ?\] dantakarnākṣināsāyā mūlaṁ balisamudbhavam | \[g: ?\] sugandhamiśritaṁ \[g: ?\] dadyād gandhametad dvijottamaḥ || 168 II He is naked, his hair dishevelled, observing the procedure that requires wine and the remnants of food. He should worship the goddess Bhairavi with dead leftover flowers, used previously as an offering and other (such things) and (also) with flowers of many kinds. The most excellent of the twice bor, should offer this as scent — the root of the teeth, ears and eyes of the animal offered in sacrifice (bali) mixed with fine perfume. (168) laśunaṁ guggulaṁ caiva mahāmāṁsari tathaiva ca | kṛsnamārjāraviṣṭiṁ ca ekatra viniyojitam ॥ 169 I| bodhitar strīrajenāyaṁn daded dhūpaṁ tu mantravit | svavāmāṁgodbhavenaiva rudhireṇa kapālake || 170 ॥ arghar tasya pradātavyaṁ suray ca pratarpayet | Garlic, bdellium, human flesh (or beef), a black cat and (the meat of a) slave together in one place — the knower of Mantra should offer (this), awakened (and energized) by a woman’s menstrual blood as incense. Purifying liquid (argha) should be offered with the blood from the left part of one’s own body onto the skull and offer libation with wine (surā). (171ab) matsyamāṁsaṁ caruṁ deva upahāraṁ tathaiva ca ॥ 171 II vaṭakaiḥ pūrakair dhūpair āmamāṁsamanvitaiḥ | naivedyarn dāpayet prājṁñaḥ palānduṁ laśunaṁ tathā ॥ 172 Il tato homar prakartavyaṁ mahāmārisena mantrinī | gomāṁsarudhireṇaiva tarpayed hastajena tu || 173 ॥ arthālābhena \[g: ?\] cānyena \[g: ?\] tataḥ kṛtvā pradakṣinām | japaṁ śahkhākṣasūtrari \[g: saṁ-\] ca mahāśaṁkho \[g: -sarikho\] hy atandritaḥ W 174 Il sadocchiṣto japed devīṁ yadīcchet siddhim ātmanaḥ \[g: -tsiddhimā + \*?\] | japet akṣarātyakṣena mahocchuṣmaṁ prapaśyati ? ॥ 175 ॥ bhinnāñjanapratīkāśami ghorarn dvādaśalocanam | svapnānte paśyate devī dṛṣṭvā siddhyati mantravit ॥ 176 ॥ O god, the wise man should offer a food offering of sacrificial pap made of fish and meat, along with cakes of pulse, balls of meat, incense, along with raw meat, onion, and garlic. O reciter of Mantra, (he should make) a fire offering of human flesh (or beef) (mahāmāṁsa) and offer libations with the blood of cow flesh and that of an elephant or with something else if he cannot procure the money (to do that). Then, having circumambulated (the skull), he should tirelessly repeat (the Vidyā of) the goddess if he wishes accomplishments for himself. (171cd-175ab) He should repeat Mantra without omitting (any letters) (until) he sees Mahocchuṣmā. (He is black) like sliced collyrium, fearsome and with twelve eyes. O goddess, he sees him in a dream and having seen him, the knower of Mantra is successful.” (175cd-176) The text goes on to list a variety of kinds of meat to offer in the fire concluding that the person with whose name he makes these offering is attracted in a moment. (177-1 82ab)
+960?\. The following is a passage from the Brahmayāmala, where we find an example of the use of a skull for a magical rite to subdue ~ ‘attract’ — a victim: yāgakāle prakartavyā gandhadhūpādikā kriyā \\ 162 I| daśārnarecitā vidyā siddhasandohalakṣanā | asya sādhanakarmaṁ ca kathayāmi yathā bhavet || 163 ॥ “At the time of a sacrifice, one should make ritual (offering of) perfume, incense and the like. The Vidyā is made of five phonemes and is the extract of (the teachings of the) Siddhas. Now I will tell you how the rite of its sādhana is. (162cd-163) mahāvīrakapāle tu kṛtvā \[illegible\] caturbhujam | kapālamālābharanaṁ nāgayajñopavītinam \[g: -nīm\] Il 164 ॥ kapālakhaṭvāṁgadharāmi pretārūdhāri subhairavīm | 143a g\] digambarāṁ \[g: ?\] caturvaktrāṁ pāśāṁkuśadharāṁ śubhām ॥ 165 ॥ pūjayīta kṛtanyāso mudrāpañcakabhūṣitaḥ | The worshipper who has performed the deposition (of the mantras on his body) and is adorned with the five insignia (mudrā) (of a Kāpālika) (should worship) having fashioned in this way (a Bhairava) on the skull of a Great Hero with four arms (holding) a skull, a garland, as an ornament, and (wearing) a snake as a sacred thread. (On the skull there is also) a beautiful Bhairavi who holds an ascetic’s staff, mounted on a ghost, naked with four faces and holds an auspicious noose and elephant gaud, (164-166ab) digvāso muktakeśaś ca madhocchiṣtavidhau sthitaḥ ॥ 166 ॥ mṛtanirmālyapuṣpais tu anyair vācāntadhāūtakaiḥ | \[g: 21 pūjayed bhairavīdevīṁi puṣpair nānāvidhais tathā ॥ 167 ॥ \[g: ?\] dantakarnākṣināsāyā mūlaṁ balisamudbhavam | \[g: ?\] sugandhamiśritaṁ \[g: ?\] dadyād gandhametad dvijottamaḥ || 168 II He is naked, his hair dishevelled, observing the procedure that requires wine and the remnants of food. He should worship the goddess Bhairavi with dead leftover flowers, used previously as an offering and other (such things) and (also) with flowers of many kinds. The most excellent of the twice bor, should offer this as scent — the root of the teeth, ears and eyes of the animal offered in sacrifice (bali) mixed with fine perfume. (168) laśunaṁ guggulaṁ caiva mahāmāṁsari tathaiva ca | kṛsnamārjāraviṣṭiṁ ca ekatra viniyojitam ॥ 169 I| bodhitar strīrajenāyaṁn daded dhūpaṁ tu mantravit | svavāmāṁgodbhavenaiva rudhireṇa kapālake || 170 ॥ arghar tasya pradātavyaṁ suray ca pratarpayet | Garlic, bdellium, human flesh (or beef), a black cat and (the meat of a) slave together in one place — the knower of Mantra should offer (this), awakened (and energized) by a woman’s menstrual blood as incense. Purifying liquid (argha) should be offered with the blood from the left part of one’s own body onto the skull and offer libation with wine (surā). (171ab) matsyamāṁsaṁ caruṁ deva upahāraṁ tathaiva ca ॥ 171 II vaṭakaiḥ pūrakair dhūpair āmamāṁsamanvitaiḥ | naivedyaṁ dāpayet prājṁñaḥ palānduṁ laśunaṁ tathā ॥ 172 Il tato homar prakartavyaṁ mahāmārisena mantrinī | gomāṁsarudhireṇaiva tarpayed hastajena tu || 173 ॥ arthālābhena \[g: ?\] cānyena \[g: ?\] tataḥ kṛtvā pradakṣinām | japaṁ śahkhākṣasūtrari \[g: saṁ-\] ca mahāśaṁkho \[g: -sarikho\] hy atandritaḥ W 174 Il sadocchiṣto japed devīṁ yadīcchet siddhim ātmanaḥ \[g: -tsiddhimā + \*?\] | japet akṣarātyakṣena mahocchuṣmaṁ prapaśyati ? ॥ 175 ॥ bhinnāñjanapratīkāśami ghoraṁ dvādaśalocanam | svapnānte paśyate devī dṛṣṭvā siddhyati mantravit ॥ 176 ॥ O god, the wise man should offer a food offering of sacrificial pap made of fish and meat, along with cakes of pulse, balls of meat, incense, along with raw meat, onion, and garlic. O reciter of Mantra, (he should make) a fire offering of human flesh (or beef) (mahāmāṁsa) and offer libations with the blood of cow flesh and that of an elephant or with something else if he cannot procure the money (to do that). Then, having circumambulated (the skull), he should tirelessly repeat (the Vidyā of) the goddess if he wishes accomplishments for himself. (171cd-175ab) He should repeat Mantra without omitting (any letters) (until) he sees Mahocchuṣmā. (He is black) like sliced collyrium, fearsome and with twelve eyes. O goddess, he sees him in a dream and having seen him, the knower of Mantra is successful.” (175cd-176) The text goes on to list a variety of kinds of meat to offer in the fire concluding that the person with whose name he makes these offering is attracted in a moment. (177-1 82ab)
 
 
 *[p. 411]* ^pg431
@@ -416,7 +416,7 @@ And the scripture also (characterizes the sacrificial jar) in the same way. Acco
 
 *[p. 413]* ^pg433
 
-Śrībrahmayāmale ‘py uktarn \[illegible\] gomukham uttamam |
+Śrībrahmayāmale ‘py uktaṁ \[illegible\] gomukham uttamam |
 gajakūrmatalaṁ kumbhavṛttaśaktikajākṛti ॥ 29 ॥ 
 
 Tt is also said in the venerable Brahmayāmala that the best vessel (i.e. a skull) is (one that is shaped like) the head of a cow, its base (round like) a tortoise or elephant, and form like the female organ (śaktikaja),”it (should be) round like an elephant’s forehead (kumbha).(29) 
@@ -436,9 +436,9 @@ Having described the many kinds of the liṅga, he (now) describes (various form
 तदर्ध वाथ पञ्चाशदयक्तं तत्परिकल्पयेत् ।
 
 akṣasūtram atho kuryāt tatraivābhyarcayet kramam |
-vīradhātujalodbhūtamuktāratnasuvarnṇajam Il 30 ॥
+vīradhātujalodbhūtamuktāratnasuvarṇajam ॥ 30 ॥
 akṣasūtraṁ kramotkṛṣtan raudrākṣaṁ vā viśeṣataḥ |
-śataṁ tithyuttararn yad vā sāṣtaṁn yad vā tadardhakam || 31 ॥
+śataṁ tithyuttaraṁ yad vā sāṣtaṁn yad vā tadardhakam || 31 ॥
 tadardhaṁ vātha pañcāśadyuktaṁ tat parikalpayet | 
 
 Now, one should fashion (or acquire) a rosary, and worship there itself the (entire) sequence (of principles, worlds and deities etc,) (krama). (The beads should be) made of the Heroes’ Substance (vīradhātu), seeds of padmākṣa,” pearls, gems, (or) gold. The rosary (made of these materials) is, respectively, more excellent, or especially so, one (made of) rudrākṣa.” It should be fashioned with one hundred and fifteen (beads), one hundred and eight, half of this, or half of that (again), or else (just) fifty.” (30-32ab) 
@@ -490,7 +490,7 @@ dīkṣāyāṁ mukhyato mantrāris tān pañcadaśa daiśikaḥ |
 yadi vā tattvabhuvanakalāmantrapadārnajaiḥ ॥ 36 ॥
 samkhyābhedaiḥ kṛte sūtre tarn ta nyāsaṁ guruś caret |
 kṛtvākṣasūtraṁ tasyāpi sarvar sthandilavad bhavet || 37 ॥
-pūjitena ca tenaiva japarn kuryād atandritaḥ |
+pūjitena ca tenaiva japaṁ kuryād atandritaḥ |
 vidhir uktas tv ayam Śrīmanmālinīvijayottare ॥ 38 ॥
 cakravad bhramayann etad yad vakti sa japo bhavet |
 yad īkṣate juhoty etad bodhāgnau saṁipraveśanāt ॥ 39 ॥ 
@@ -521,7 +521,7 @@ Once the rosary has been made, everything (that needs be done to purify it etc.)
 
 #### Viveka on 27.37–39
 
-The group of five faces ʻis five-fold’, because it is multiplied by the group of five energies commencing with consciousness, thus making twenty-five. This is the meaning. ‘Oneness’ is the single nature \[illegible\] that transcends (the domain of) limiting adjuncts (upādhi). This is the meaning. It is of two 
+The group of five faces ʻis five-fold’, because it is multiplied by the group of five energies commencing with consciousness, thus making twenty-five. This is the meaning. ‘Oneness’ is the single nature (rūpa) that transcends (the domain of) limiting adjuncts (upādhi). This is the meaning. It is of two 
 
 969?\. See above, 17/39cd, 40ab.
 
@@ -603,7 +603,7 @@ fluids meant for those without fear (niṣkamparasa)’ are the (bodily) secreti
 पूजान्ते तद्रसापूर्णमात्मानं प्रविधाय तत् ।
 अधोमुखं च संपूज्य स्थापयेत विचक्षणः ॥ ४३ ॥
 
-adhomukharn sadā \[illegible\] pūjita pūjane punaḥ |
+adhomukhaṁ sadā \[illegible\] pūjita pūjane punaḥ |
 tat pātramunmukhaṁ tac ca riktaṁ kuryān na tādṛśam ॥ 42 ॥
 pūjānte tadrasāūpūrnam ātmānari pravidhāya tat |
 adhomukhaṁ ca saṁpūjya sthāpayeta vicakṣanaḥ ॥ 43 ॥ 
@@ -632,9 +632,9 @@ Other Supports on which to Worship the Deity
 स्थण्डिलेऽगनौ प्ट न्न पते पऽ मण्डले ॥ ४५ ॥
 मूतौ घटेऽखसंघाते पटे सूमरेऽ्थ पूजयेत् ।
 स्वेन स्वेनोपचारेण सट्धरं वजयेदिति ॥ ४६ ॥
-khadgarn kṛpānikām yad vā kartarīṁi makurarn ca vā |
+khadgaṁ kṛpānikām yad vā kartarīṁi makuraṁ ca vā |
 vimalar tat tathā kuryāc chrīmatkālīmukhoditam || 44 ॥
-Srībhairavakule ‘py uktarn kulaparvaprapūjane |
+Srībhairavakule ‘py uktaṁ kulaparvaprapūjane |
 sthandile ‘gnau pate liṅge pātre padme ‘tha mandale ॥ 45 ॥
 mūrtau ghate ‘strasaṅghāte paṭe sūtre ‘tha pūjayet |
 svena svenopacārenṇa saṁkarar varjayed iti ॥ 46 ॥ 
@@ -662,7 +662,7 @@ Surely (one may ask), what is the use of having many supports on which to worshi
 *[p. 420]* ^pg440
 
 yathāpsu śāntaye mantrās tadvad astrādiṣu dhruvam |
-satrucchedādikartāraḥ kāmyo ‘tah saṁkarojjhitaḥ ॥ 47 ॥ 
+satrucchedādikartāraḥ kāmyo ‘taḥ saṁkarojjhitaḥ ॥ 47 ॥ 
 
 Just as Mantras (projected) into water serve to bring peace, in the same way (conversely, those projected) onto weapons and the like certainly destroy (one’s) enemies etc. Thus (it is for this reason) that a magical rite (performed with a desire for a specific goal) (kāmya) is free of admixture. (47) 
 
@@ -705,11 +705,11 @@ The Various Types of Worship (pujābhedaḥ)
 अत एव यदा भूरिदिनं मण्डलकल्पनम् तदा दिने दिने कुयीद्रिभवै्र्पणं बहु ॥ ५१ ॥
 प्रतिष्ठायां च सर्वत्र गुरुः पूर्वोदितं परम् सतत्त्वमनुसन्धाय संनिधिं स्फुटमाचरेत् ॥ ५२ ॥
 
-ittharn svayaṁpratiṣtheṣu yāvad yāvat sthitir bhavet |
+itthaṁ svayaṁpratiṣtheṣu yāvad yāvat sthitir bhavet |
 vibhavais tarpaṇaṁ śuddhis tāvad vicchedavarjanam ॥ 50 ॥
 ata eva yadā bhūridinan mandalakalpanam |
-tadā dine dine kuryād vibhavais tarpaṇaṁ bahu ॥ 51 II pratiṣthāyāṁ ca sarvatra guruḥ pūrvodita param |
-satattvam anusandhāya saṁnidhirn sphutam ācaret || 52 ॥ 
+tadā dine dine kuryād vibhavais tarpaṇaṁ bahu ॥ 51 ॥ pratiṣthāyāṁ ca sarvatra guruḥ pūrvodita param |
+satattvam anusandhāya saṁnidhiṁ sphutam ācaret || 52 ॥ 
 
 (It is essential) to purify and lustrate (tarpana) (the Liṅgas and icons etc.) installed in this way by oneself lavishly,“ (regularly, ànd) without a break, for as long as they are functional. Thus if, (for example), a mandala that has been fashioned to last for many days, it should be lustrated daily abundantly. When installing (a deity) the teacher should, in all respects, conjoin (himself in) meditation with the supreme reality and its essential nature mentioned previously, and having done so, bring (the deity) into his presence \[illegible\] in a clearly evident manner (in the outer icon). (50-52) 
 
@@ -741,10 +741,10 @@ According to this teaching, it is said that spiritual sons etc. resort to (the w
 सर्वमासनपक्षे परा न्यस्य संपूजयेत्क्रमम् ।
 
 siddhe tu tanmayībhāve phale putrakasādhakaiḥ |
-anyasmai taddvayād anyatarasmai tat samarpyate || 53 Il tasyāpy eṣa vidhiḥ sarvas tadalābhe tu sarvathā |
+anyasmai taddvayād anyatarasmai tat samarpyate || 53 || tasyāpy eṣa vidhiḥ sarvas tadalābhe tu sarvathā |
 agādhe ‘mbhasi tat kṣepyaṁ kṣamayitvā visṛjya ca ॥ 54 ॥
 ity eṣa svapratiṣthānavidhiḥ Śivanirūpitaḥ |
-parapratiṣthite liṅge bānīye ‘tha svayahbhuvi ॥ 55 Il sarvam āsanapakṣe prāù nyasya sahpūjayet kramam | 
+parapratiṣthite liṅge bānīye ‘tha svayahbhuvi ॥ 55 ॥ sarvam āsanapakṣe prāù nyasya sahpūjayet kramam | 
 
 When the spiritual sons and the adepts have attained a state of identification (with the deity which is their desired) fruit, that (object of worship) is offered to another (initiate) that differs from those two (kinds). All the procedure (to be observed) in his regard is the same. If one cannot find (anybody who is fit to do this) in all respects, (the outer icon) should be thrown into deep water, after having asked (the deity’s) forgiveness (for any omissions or errors committed in the course of its worship), and (formally) dismissed (it). This is the procedure described by Śiva Himself for one’s own (personal) installation (of the deity).\* (52-55ab) 
 
@@ -796,7 +796,7 @@ Nor is this established (to be correct) by just reasoning alone. Accordingly, he
 कृत्वेष्टं मण्डल तत्र समस्तं क्रममर्चयेत् ।
 
 \[illegible\] tantre ‘py aghoreśe svacchande vibhunā tathā |
-athavā pratyaharn proktamānārdhārdhaniyogataḥ ॥ 58 ॥
+athavā pratyahaṁ proktamānārdhārdhaniyogataḥ ॥ 58 ॥
 kṛtveṣtan mandalaṁ tatra samasta kramam arcayet | 
 
 The pervasive Lord has said also in the Tantra Aghoreśa Svacchanda (where we read): ‘Or else, after having fashioned (one’s own) preferred mandala by making it a quarter of the stated measure (given for initiation), the entire liturgy (krama) should be celebrated there every day.[^994] (58-59ab) 
@@ -810,7 +810,7 @@ He concludes this (topic, saying):
 ### TĀ 27.59
 
 बहुप्रकारभिन्नस्य लिद्धस्याची निरूपिता ॥ ५९ ॥
-bahuprakārabhinnasya liṅgasyārcā nirūpitā ॥ 59 Il 
+bahuprakārabhinnasya liṅgasyārcā nirūpitā ॥ 59 ॥ 
 
 The worship of the \[illegible\] which is of many kinds, has (thus been) described. (59cd) 
 
@@ -834,11 +834,11 @@ Chapter twenty of the Netratantra deals with animal sacrifice, which is the topi
 
 ### Dyczkowski's verse 1-3
 
-uktarn devena tatsarvaṁ paripṛṣtaṁ hi yanmayā |
+uktaṁ devena tatsarvaṁ paripṛṣtaṁ hi yanmayā |
 adhunā śrotumicchāmi saṁśayo.ayaṁ hṛdi sthitaḥ ॥ 1 ॥
 yoginyo mātaraścaiva śākinyo balavattarāḥ |
-kathan parapurāt prānān kṣaṇādākarṣayanti tāh ॥ 2 ॥
-kasmācca nirghṛnā raudrāḥ kirn vā tāsāṁn prayojanam |
+kathan parapurāt prāṇān kṣaṇādākarṣayanti tāḥ ॥ 2 ॥
+kasmācca nirghṛnā raudrāḥ kiṁ vā tāsāṁn prayojanam |
 etat sarvam aśeṣeṇa bhagavan vaktum arhasi ॥ 3 ॥ 
 
 Śrotum icchāmi iti devī praśnavākyārthanirnayam adhigantum icchati | katham iti, kasmād iti, kim vety uktibhiḥ prakārahetuprayojanaviṣayā jijñāsār sphuṭayati | 3 ॥
@@ -853,11 +853,11 @@ tannirṇayāya śrībhagavān uvāca
 ### Dyczkowski's verse 4-7
 
 sṛnu devi pravakṣyāmi rahasya paramādbhutam |
-yathā prānāñjighāmsanti paśünām patiśāsanāt ॥ 4 Il rāgadveṣavimuktās tā lobhamohavivarjitāḥ |
-yāgārthaṁ devadevasya paśün vai prokṣayanti tāh ॥ 5 ॥
+yathā prānāñjighāmsanti paśünām patiśāsanāt ॥ 4 ॥ rāgadveṣavimuktās tā lobhamohavivarjitāḥ |
+yāgārthaṁ devadevasya paśün vai prokṣayanti tāḥ ॥ 5 ॥
 na lobhena na hiṁsārthaṁ na caiva hi jighāmsayā |
-mahābhairavadevasya śāsanari pālayanti tāh ॥ 6 ॥
-tadartharn paśavaḥ sṛṣtāḥ svayam eva svayaṁbhuvā |
+mahābhairavadevasya śāsanari pālayanti tāḥ ॥ 6 ॥
+tadarthaṁ paśavaḥ sṛṣtāḥ svayam eva svayaṁbhuvā |
 paśavaḥ patiyāgārtham upayuktā na cānyathā || 7 | 
 
 ‘Listen, O goddess, I will tell you a supremely astonishing secret, that is, how (the priests) do violence to the vital breaths of the sacrificial animals according to the Lord’s teaching (patiśāsana). Free of attachment and aversion, they are devoid of greed and delusion. They consecrate (prokṣayanti) (and so prepare the offering of) the sacrificial animals of the God of the gods for the 
@@ -872,7 +872,7 @@ sacrifice. They do not protect the teachings of the god Mahābhairava out of gre
 
 patiśāsanād iti tadāśritya | evam kasmād iti hetuḥ, yāgārtham ity anena ca prayojana nirnītam |
 lobhamoha ityādinā nirghṛnatvaḥ pratyuktam |
-prokṣayanti upahārāya yojayanti | hiṁmsārtham upadravāya | tad artham iti yāgāya | svayam evety anena patiśāsanād ity uktiḥ pramānṇīkṛtā | na ceti ca evārthe || 7 Il 
+prokṣayanti upahārāya yojayanti | hiṁmsārtham upadravāya | tad artham iti yāgāya | svayam evety anena patiśāsanād ity uktiḥ pramānṇīkṛtā | na ceti ca evārthe || 7 || 
 
 (This is done) ‘according to the Lord’s teaching’, that is, having adopted it. In this way (the question) ‘why’ is (in relation to) the cause. By (saying) ‘for the sacrifice’, the purpose is taught. (By saying) ‘devoid of greed and delusion’, he is replying (to the accusation of) being cruel. “They consecrate’ means (the priests) appoint them to be an offering. The purpose of violence is to attack (another violently). The purpose of (the slaughter of the sacrificial animal) is for the sacrifice. Saying ‘by themselves alone’, the statement ‘by the Lord’s teaching’ is given authority. (The word) and (in the expression) ‘and not’ is in the sense of ‘indeed’. 
 
@@ -890,16 +890,16 @@ paśūnām upayuktānāṁ nityamūrdhvagatir bhavet |
 
 trividhena tu yogena yojayanti śivājñayā ॥ 9 ॥
 parenṇaiva hi sūkṣmena sthūlena tritayena tu |
-yojayanti na caivātra ghātayanti balena tāh || 10 ॥
+yojayanti na caivātra ghātayanti balena tāḥ || 10 ॥
 paraḥ sarvātmako ‘nanto niṣkriyo nirmalas tu yah |
-vyāpakaḥ parameśānaḥ sarvakāraṇakāranam |l 11 ॥
+vyāpakaḥ parameśānaḥ sarvakāraṇakāranam ॥ 11 ॥
 sarvabhūtāntarāvasthaḥ sarvānugrahakārakaḥ |
 tasminn eva niyuktās tā nirmalā vigataklamāḥ ॥ 12 |
 ekībhāvam anuprāpya na viyuktāḥ kathaṁcana |
 tacchaktau tu vilīnās tā icchārūpeṇa saṁsthitāḥ | 13 ॥
 jñānotkarṣāḥ kriyāvasthā yāgayogāvadhūtikāḥ | 
 
-995?\. Amṛteśatantra MS reads tāh for tān.
+995?\. Amṛteśatantra MS reads tāḥ for tān.
 
 996?\. NT 20/8-9ab is cited in TĀv ad 16/58cd-59ab.
 
@@ -929,7 +929,7 @@ Having assumed that state and impelled by Śiva and (His) power, the (sacrificia
 yathā yogena dīkṣāyāṁ Śivatvam upalabhyate |
 tathā vai yogiyogena śivatvamupayānti te ॥ 16 ॥
 atyantamalinasyāsya pūrvoktasyādhikārinaḥ |
-malapradhvastarūpasya nairmalyarn vyañjayanti tāh ॥ 17 ॥ 
+malapradhvastarūpasya nairmalyaṁ vyañjayanti tāḥ ॥ 17 ॥ 
 
 Just as one attains Śiva’s state in the course of initiation by Yoga, in the same way by the Yoga of the yoginīs, (the sacrificial animals) attain Śiva’s state. (The yoginīs) make manifest the purity of the embodied being mentioned before, who is extremely tainted and fallen due to (that) impurity. (16-17) 
 
@@ -946,7 +946,7 @@ viyogas tu Śarīreṇna marana tadvidurbudhāḥ ॥ 21 ॥
 
 ‘By severing the root (of the fettered state) of the sacrificial animal,’ (the yoginīs) destroy (its) three impurities. The body of (the soul) that has been disconnected from the three Impurities does not develop (again in another life). 
 
-997?\. NT reads tesāṁ — ‘their’ for paśor — \*of the sacrificial animal’. The latter is confirmed by the same reading in the manuscript of the Amyteśatantra (Nepal Archive MS no 1/285, NGMPP reel no. B25/4).
+997?\. NT reads teṣāṁ — ‘their’ for paśor — \*of the sacrificial animal’. The latter is confirmed by the same reading in the manuscript of the Amyteśatantra (Nepal Archive MS no 1/285, NGMPP reel no. B25/4).
 
 
 *[p. 428]* ^pg448
@@ -1000,7 +1000,7 @@ yady api śāktarni jñānaṁ sarveṣāṁ bhittiḥ, tathāpi
 
 ajñānenāvṛtaṁ \[illegible\] paśūnām samalaṁ sthitam | 
 
-ajñānaḥ māyāśaktikṛtam ātmany anātmatāpratipattipurahsaram anātmani dehādāv ātmābhimānātma || yata evam ato yogābhyāsaprabuddhena nijena 
+ajñānaṁ māyāśaktikṛtam ātmany anātmatāpratipattipurahsaram anātmani dehādāv ātmābhimānātma || yata evam ato yogābhyāsaprabuddhena nijena 
 
 nirmalena tu tā devyā jñānenābhibhavanti tat | 24 ॥
 yathā prabuddhaḥ suptena krīdate ca yatas tataḥ |
@@ -1028,7 +1028,7 @@ Ignorance is created by Māyā; it brings about the false notion that the Self i
 
 #### Viveka on Dyczkowski's verse 24cd-27
 
-yat tat paramam avyaktarn śāśvataṁ hy acalarn dhruvaml tat prāpya yogamārgena praviśya paradehataḥ ॥ 28 ॥
+yat tat paramam avyaktaṁ śāśvataṁ hy acalaṁ dhruvaml tat prāpya yogamārgena praviśya paradehataḥ ॥ 28 ॥
 paro bhūtvā svaśaktyā tu jīvaṁ jīvena veṣtayet | 
 
 yat tad ityādi prāgvat | tat prāpya paran cinmayaṁ balaḥ samāviśya yoga-mārgeneti 
@@ -1056,7 +1056,7 @@ ahaṁkāragatā buddhiḥ sa cittattvan samāśritaḥ ||
 
 ‘The circulation is in the principle of Air and the principle of Air is in the intellect. The intellect is in the ego, and that is grounded in the principle of consciousness.” 
 
-ity āmnāyadṛṣṭyā paratrāharipratītidārdhye mātrāśatari sthitvā prāṇakṣobheṇa tah kṣobhayitvā svendriyaśaktibhis tadindriyākramanapūrvam ātmaśaktisvī-krtasya parasya śarīraḥ sva-parispandapravrttinivrttikramenṇātmaśarīrīkrtya jīvam parapuryaṣṭakaṁ, jīvena svapuryaṣtakena, svaśaktyeti pronmiṣita- 
+ity āmnāyadṛṣṭyā paratrāharipratītidārdhye mātrāśatari sthitvā prāṇakṣobheṇa taḥ kṣobhayitvā svendriyaśaktibhis tadindriyākramanapūrvam ātmaśaktisvī-krtasya parasya śarīraḥ sva-parispandapravrttinivrttikramenṇātmaśarīrīkrtya jīvam parapuryaṣṭakaṁ, jīvena svapuryaṣtakena, svaśaktyeti pronmiṣita- 
 
 sāktabalena svaprānṇena veṣtayed ākramet || tad ittham 
 
@@ -1066,13 +1066,13 @@ Abiding, in accord with this traditional doctrine, for a hundred measures (of ti
 
 *[p. 431]* ^pg451
 
-ākramya taṁ hṛdistharn vai adha ūrdhvapraveśataḥ | 29 ॥
+ākramya taṁ hṛdisthaṁ vai adha ūrdhvapraveśataḥ | 29 ॥
 \[illegible\] samāsādya samatvaṁ tatra cābhyaset |
 \[illegible\] kāraṇam āśritya svatantratvaṁ tadābhyasetl\\ 30 ॥
 parar kāraṇam śākta balam āśritya tadgraheṇāvaṣtabhya | tatra ceti paran prerayati yadevāha karomi, tadevāyaṁ karotv 'rśam samabhyasyan tena 
 
 saha ekyam āsādya svatantratvam abhyased iti jigamiṣuṁn nirodhayet tiṣthan taṁ gamayed iti krameṇa ta svaceṣtāvaśaga kuryāt |
-tad etad \[illegible\] 
+tad etad uktaṁ 
 
 gurubhiḥ 
 
@@ -1150,26 +1150,26 @@ atha
 
 gṁītvā tat svacetasā ॥ 34 ॥
 praviśet tu tadā yogī puram ākramya sarvataḥ |
-druta gṁītaṁ tat sarvan kṣipram ātmastham ānayet || 35 I| 
+druta gṁītaṁ tat sarvan kṣipram ātmastham ānayet || 35 || 
 
-tad iti pūrvokta sarvan gṁītvā, āgamoktadṛṣṭyā sādhyasya mūrdhadvāreṇa niṣkramya cetasā purar \[illegible\] praviśet | tatas tad ākramya śaktyā ‘sya yat \[illegible\] drutarn vilāpitan saṁgṁītam, tat sarvan kṣipram ātmaniṣthaṁ kuryāt 113511 
+tad iti pūrvokta sarvan gṁītvā, āgamoktadṛṣṭyā sādhyasya mūrdhadvāreṇa niṣkramya cetasā purar \[illegible\] praviśet | tatas tad ākramya śaktyā ‘sya yat \[illegible\] drutaṁ vilāpitan saṁgṁītam, tat sarvan kṣipram ātmaniṣthaṁ kuryāt 113511 
 
 Now \^. . . having laid hold of that with his own mind, the yogi should then enter, once invaded (ākramya), the body (of the victim) in every way. Having quickly laid hold of all that, he should quickly place it within himself.’ (34d-35) 
 
 #### Viveka on Dyczkowski's verse 34d-35
 
-‘Having laid hold of’ all ‘that’ was mentioned, and having made an exit through the head of the victim \[illegible\] in accord with the manner taught in the scriptures, he should enter the body ‘with his mind’. Then ‘having invaded’ that with the energy (of his consciousness), what was previously liquified, destroyed and gathered together should all be quickly placed within oneself. 
+‘Having laid hold of’ all ‘that’ was mentioned, and having made an exit through the head of the victim (sādhya), in accord with the manner taught in the scriptures, he should enter the body ‘with his mind’. Then ‘having invaded’ that with the energy (of his consciousness), what was previously liquified, destroyed and gathered together should all be quickly placed within oneself. 
 
 ### Dyczkowski's verse 36ab
 
-tad ittharn yogī 
+tad itthaṁ yogī 
 
 tatkṣanṇād ānayej jīvarṁṁ mudrāmantraprayogataḥ | 
 
 mudrā 
 
 ‘tra prathamaṁ svaśarīranihsaraṇasamaye karaṁkinī, taccharīrā-kramane krodhanā, tadraśmyādivilāpane lelihānā, tatpurād nihsaraṇe khecarī, svahṛtprāptau bhairavī |
-tad bandhasatattvarn jñānabhairavoddyote ‘smābhir darśitam 
+tad bandhasatattvaṁ jñānabhairavoddyote ‘smābhir darśitam 
 
 |
 mantras tu pañcapindakṣurikākālarātryabhidhānaḥ Srīguptatantrāt śrīpūrvādidṛṣtaḥ | tatprayogād yoginyaḥ kṣaṇāt parajīvam ānayanti 

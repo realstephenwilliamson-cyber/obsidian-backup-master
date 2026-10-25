@@ -8,7 +8,7 @@ page_range: "36–63"
 
 # ![[essential-kabbalah-9780062048134_023.png]] Ein Sof and the Sefirot
 
-[p. 38]
+[p. 38] ^pg38
 
 ### WATER, LIGHT, AND COLORS
 
@@ -18,7 +18,7 @@ To help you conceive this, imagine water flowing through vessels of different co
 
 Better yet, imagine a ray of sunlight shining through a stained-glass window of ten different colors. The sunlight possesses no color at all hut appears to change hue as it passes through the different colors of glass. Colored light radiates through the window. The light has not essentially changed, though so it seems to the viewer. Just so with the sefirot. The light that clothes itself in the vessels of the sefirot is the essence, like the ray of sunlight. That essence does not change color at all, neither judgment nor compassion, neither right nor left. Yet by emanating through the sefirot—the variegated stained glass—judgment or compassion prevails.
 
-[p. 39]
+[p. 39] ^pg39
 
 ### EIN SOF AND THE SEFIROT
 
@@ -128,7 +128,7 @@ WHILE THERE are many unerasahle names—the ten divine names of the ten sefirot�
 
 THE RIGHTEOUS are capable of becoming a vehicle for the sefirot, through the mystery of the emanation of their souls, their actions in this world, and their inclination toward one side and toward one of the sefirot. Thus Abraham was a man of Hesed, Isaac a man of Gevurah, Jacob master of Tif’eret, Moses master of Netsah, Aaron master of Hod, Joseph master of Yesod, and David master of Malkhut.
 
-[p. 50]
+[p. 50] ^pg50
 
 ### DIVINE QUALITIES
 
@@ -142,7 +142,7 @@ ELIJAH OPENED and said, “Master of the worlds! You are one—but not in counti
 
 “You are wise—not with a known wisdom. You understand—not with known understanding. You have no known place—just making known your power and strength to human beings, showing them how the world is conducted by justice and compassion, according to human action. But actually you have no known justice or compassion, nor any quality at all.”
 
-[p. 52]
+[p. 52] ^pg52
 
 ### THE CREATION OF GOD
 
@@ -182,7 +182,7 @@ With Beginning, the unknown concealed one created the palace,
 a palace called God.
 The secret is: “With Beginning, \_\_\_\_\_\_ created God.”
 
-[p. 54]
+[p. 54] ^pg54
 
 ### THE AROMA OF INFINITY
 
@@ -202,7 +202,7 @@ And when the highest point and the world that is coming ascend,
 they know only the aroma,
 as one inhaling an aroma is sweetened.
 
-[p. 55]
+[p. 55] ^pg55
 
 ### THE WEDDING CELEBRATION
 
@@ -425,7 +425,7 @@ Many sublime treasures lie in store for him.
 ‘Go to the end and take your rest;
 you will rise for your reward at the end of days.’”
 
-[p. 63]
+[p. 63] ^pg63
 
 ### OBLIVION
 

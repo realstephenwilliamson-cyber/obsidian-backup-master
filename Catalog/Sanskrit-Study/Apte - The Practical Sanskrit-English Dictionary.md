@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 1184
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Sanskrit/29 The Practical Sanskrit-English Dictionary.pdf]]"
 aliases: []

@@ -1,10 +1,14 @@
 ---
+type: book-chapter
+work: "An Introduction to Tantric Philosophy: The Paramārthasāra of Abhinavagupta with the Commentary of Yogarāja"
+order: 2
+page_range: "2–17"
 aliases:
   - Paramarthasara 02 - Introduction — 1. The Two Paramārthasāra
 ---
 # Introduction — 1. The Two Paramārthasāra
 
-[p. 2]
+[p. 2] ^pg17
 
 featuring a mumukṣu, one who ‘aspires to liberation’, a student desirous
 of learning from a master the means whereby he may put an end to his
@@ -54,7 +58,7 @@ the ‘presiding deity of Māyā’ (TĀ VIII 323a, with the commentary of Ja
 made to Dwivedi and Rastogi’s ed. 1987). Abhinavagupta [AG] seems generally to opt for
 a supra-mundane status; he cites, in his commentary to Bhagavadgītā [BhG] VIII 6, v. 81 of
 
-[p. 3]
+[p. 3] ^pg18
 
 1. THE TWO PARAMĀRTHASĀRA
 3
@@ -110,7 +114,7 @@ burn PS: 19: ‘un Sāṃkhya teinté de Viṣnouisme (sic), par conséquent th
 (Barnett PS: 708). P. Hacker (1965: 154) treats the ĀPS as one of the texts ‘that profess
 Vaiṣṇavism and teach radical advaitism at the same time’. For Danielson (ĀPS: 4, 6, 10),
 
-[p. 4]
+[p. 4] ^pg19
 
 The doctrine that emerges from the earlier Paramārthasāra reflects at
 least a part of the conceptual apparatus of Sāṃkhya evolutionism, placing
@@ -159,7 +163,7 @@ the Lord, Brahmā, etc.’.
 tation, which consists of Magic (māyā), is absorbed again in [reverse] order’.
 22ĀPS 4: saṃsārārṇavataraṇapraśnaṃ pr̥cchāmy ahaṃ bhagavan.
 
-[p. 5]
+[p. 5] ^pg20
 
 1. THE TWO PARAMĀRTHASĀRA
 5
@@ -210,7 +214,7 @@ which is hard to penetrate because of the darkness [consisting] of Delusion?’
 mānaṃ narā mūḍhāḥ//, ‘Deluded by this error, people do not recognize Vāsudeva as the Self
 of everything’.
 
-[p. 6]
+[p. 6] ^pg21
 
 and become Supreme Lord at the same time’. 29 Another aspect of the strat-
 egy of identification elaborated by the first Paramārthasāra is its claim of
@@ -256,7 +260,7 @@ of the received text of the Upadeśasāhasrī may have been based on the mode
 by the first PS: a mumukṣu asking a master to instruct him regarding means of acceding to
 liberation.
 
-[p. 7]
+[p. 7] ^pg22
 
 1. THE TWO PARAMĀRTHASĀRA
 7
@@ -305,7 +309,7 @@ of AG’s PS and its commentary are the author’s).
 38With, sometimes, a fourth term: meditative practice (pariśīlana); see YR ad 8, 10–11,
 79–80.
 
-[p. 8]
+[p. 8] ^pg23
 
 makes it appear that the debate with Sāṃkhya has really never taken place,
 which justifies nondual Śaivism of Kashmir in borrowing the theory of the
@@ -356,7 +360,7 @@ stone, but ‘ “serene”, reposing [ever] in its absolute nature, in unison 
 is no disturbance arising from the dichotomy between the knower and the known’ (YR ad
 10–11). On the above discussion, see also n. 791; on Maṇḍana, see Biardeau 1969.
 
-[p. 9]
+[p. 9] ^pg24
 
 1. THE TWO PARAMĀRTHASĀRA
 9
@@ -403,7 +407,7 @@ author of the first PS, as Ahīśāna, v. 81 of whose work TĀ XXVIII 312 q
 44See n. 946. On the question of Trika’s supremacy, see also PS 27 and n. 661.
 45See Chatterji 1914: 14.
 
-[p. 10]
+[p. 10] ^pg25
 
 The text’s authority was not limited in time or by tendency. Abhina-
 vagupta himself refers to Ādiśeṣa’s work elsewhere, citing twice its verse
@@ -452,7 +456,7 @@ divinity in which it must inhere, thus justifying an idealistic monism.
 53ĀPS 83: vr̥kṣāgrāc cyutapādo yadvad anicchan naraḥ kṣitau patati/ tadvad guṇapuruṣajño
 ’nichann api kevalībhavati//.
 
-[p. 11]
+[p. 11] ^pg26
 
 1. THE TWO PARAMĀRTHASĀRA
 11
@@ -503,7 +507,7 @@ lokam ācaret. See, esp., Sastri ĀPS: VIII; Bhattacharya ĀŚ: LXXIXff.
 (p. 291), 65 (p. 295). He shows that Ādiśeṣa conceives error as sadasatkhyāti, not as anirva-
 canīyakhyāti; see Sastri ĀPS: XX.
 
-[p. 12]
+[p. 12] ^pg27
 
 them it borrows not only the notion of śakti, but many elements of ritual
 and yogic practice (mantras, mudrās, kuṇḍalinī, etc.) that serve to place it
@@ -551,7 +555,7 @@ daṃ yo vetti sa tanmayo bhavati//; cf. ĀPS 80: vyāpinam abhinnam itthaṃ
 tanānātvam/ nirupamaparamānandaṃ yo veda sa tanmayo bhavati//. See also YR ad 69, which
 discusses the double meaning of sarvabhūtātman.
 
-[p. 13]
+[p. 13] ^pg28
 
 1. THE TWO PARAMĀRTHASĀRA
 13
@@ -602,7 +606,7 @@ loves to sport, in and by himself’.
 64ĀPS 25: sarvavikalpanahinaḥ śuddho buddho ’jarāmaraḥ śāntaḥ/ amalaḥ sakr̥d vibhātaś
 cetana ātmā khavad vyāpī// (tr. Danielson, modified).
 
-[p. 14]
+[p. 14] ^pg29
 
 Śaivite texts that take up this formula in more or less developed versions
 are numerous. Its origin is perhaps to be found also in the upaniṣads, as
@@ -649,7 +653,7 @@ pāte ’nyathā bhavati//.
 69ĀPS 73: mokṣasya naiva kiṃcid dhāmāsti na cāpi gamanam anyatra/ ajñānamaya-
 granther bhedo yas taṃ vidur mokṣaḥ// (the words common to the two PS are in roman).
 
-[p. 15]
+[p. 15] ^pg30
 
 1. THE TWO PARAMĀRTHASĀRA
 15
@@ -698,7 +702,7 @@ kaivalyaṃ yāti hataśokaḥ//.
 74See p. 49, and n. 858; also n. 1227.
 75See n. 1054, the usage the Mīmāṃsā makes of it.
 
-[p. 16]
+[p. 16] ^pg31
 
 becomes one with water, milk with milk, wind with wind, so, by medita-
 tion (bhāvanā) on the spotless Brahman, [man] becomes one with it. If in
@@ -749,7 +753,7 @@ maṇivat samabhyeti//. This verse lacks a correspondent in the later PS.
 81PS 68: itthaṃ sakalavikalpān pratibuddho bhāvanāsamīraṇataḥ/ ātmajyotiṣi dīpte juhvajjyo-
 tirmayo bhavati//.
 
-[p. 17]
+[p. 17] ^pg32
 
 1. THE TWO PARAMĀRTHASĀRA
 17

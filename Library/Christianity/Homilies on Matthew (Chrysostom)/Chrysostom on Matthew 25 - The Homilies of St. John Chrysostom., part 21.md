@@ -38,9 +38,9 @@ But not for this intent only did He put forward this about the fig tree, in orde
 
 After this, that they might not straightway return to it again, and say, “When?” he brings to their remembrance the things that had been said, saying, “Verily I say unto you, This generation shall not pass, till all these things be fulfilled!”<sup>2821</sup> All these things. What things?
 
-281\. 6 \[R.V., “Now from the fig-tree learn her parable: when her branch is now become tender, and putteth forth its leaves, ye know that the summer is nigh; even so ye also, when ye see all these things, know ye that he (or, it) is nigh, *even* at the doors.”\] 2817 \[The comment seems to imply a preference for the interpretation: “it is nigh,” *i.e.,* the day of the Lord’s coming.—R.\] 2818 John xii. 24. 2819 \[A clause is omitted here: “reasoning with the Corinthians about the resurrection.”—R.\]
+2816 \[R.V., “Now from the fig-tree learn her parable: when her branch is now become tender, and putteth forth its leaves, ye know that the summer is nigh; even so ye also, when ye see all these things, know ye that he (or, it) is nigh, *even* at the doors.”\] 2817 \[The comment seems to imply a preference for the interpretation: “it is nigh,” *i.e.,* the day of the Lord’s coming.—R.\] 2818 John xii. 24. 2819 \[A clause is omitted here: “reasoning with the Corinthians about the resurrection.”—R.\]
 
-282\. 0 1 Cor. xv. 36. Matt. xxiv. 34. \[R.V., “pass away” and “accomplished.”\]
+2820 1 Cor. xv. 36. Matt. xxiv. 34. \[R.V., “pass away” and “accomplished.”\]
 
 
 *[p. 806]* ^pg814
@@ -53,7 +53,7 @@ Then to lead them on more in faith, He saith, “Heaven and earth shall pass awa
 
 “But of that day and hour knoweth no man, no, not the angels of Heaven,<sup>2826</sup>neither the Son,<sup>2827</sup>but the Father.” By saying, not the angels, He stopped their mouths, that they
 
-282\. 2 Ps. xxiv. 6. 2823 Matt. xxiv. 6. 2824 Matt. xxiv. 14. 2825 Matt. xxiv. 35. 2826 \[R.V., “no man, not even the angels of heaven.”\] 2827 Matt. xxiv. 36. Comp. Mark xiii. 32. \[The received text (and A.V.) omit “neither the Son” in Matthew, but not in Mark. The R.V., with our best mss., inserts the phrase in Matthew. The Fathers vary, but Chrysostom accepts it and comments upon it. Still the last clause, as given above, agrees exactly with Mark xiii. 32, and differs from Matt. xxiv. 36.—R.\]
+2822 Ps. xxiv. 6. 2823 Matt. xxiv. 6. 2824 Matt. xxiv. 14. 2825 Matt. xxiv. 35. 2826 \[R.V., “no man, not even the angels of heaven.”\] 2827 Matt. xxiv. 36. Comp. Mark xiii. 32. \[The received text (and A.V.) omit “neither the Son” in Matthew, but not in Mark. The R.V., with our best mss., inserts the phrase in Matthew. The Fathers vary, but Chrysostom accepts it and comments upon it. Still the last clause, as given above, agrees exactly with Mark xiii. 32, and differs from Matt. xxiv. 36.—R.\]
 
 
 *[p. 807]* ^pg815
@@ -64,9 +64,9 @@ should not seek to learn what these angels know not; and by saying, “neither t
 
 For this cause, I say, when He had told all things, both the times and the seasons, and had brought it to the very doors (“for it is near,” He saith, “even at the doors”), He was silent as to the day. For if thou seek after the day and hour, thou shalt not hear them of me, saith He; but if of times and preludes, without hiding anything, I will tell thee all exactly.
 
-282\. 8 Acts i. 7. \[R.V., “set within his own authority.”\] 2829 1 Cor. ii. 10.
+2828 Acts i. 7. \[R.V., “set within his own authority.”\] 2829 1 Cor. ii. 10.
 
-283\. 0 John i. 3. \[Literally rendered.\] ανα. 2831 Arians \[The word οσαν, here used, was the current term in the Arian controversy.—R.\] 2832 Col. ii. 3.
+2830 John i. 3. \[Literally rendered.\] ανα. 2831 Arians \[The word οσαν, here used, was the current term in the Arian controversy.—R.\] 2832 Col. ii. 3.
 
 
 *[p. 808]* ^pg816
@@ -79,7 +79,7 @@ But not so the righteous, but they were passing their time in tribulation and de
 
 And wherefore did He not speak of the ills in Sodom? It was His will to introduce an example embracing all men,<sup>2836</sup>and disbelieved after it was foretold. So therefore, as by the more part the things to come are disbelieved, He confirms those things by the past, terrifying their minds. And together with the points I have mentioned, He shows this also, that of the
 
-283\. 4 Matt. xxiv. 38, 39. \[The passage is abridged.\] 2835 1 Thess. v. 3. καθολικν. 447 2837 Matt. xxiv. 40–42. \[The citation agrees with the received text, except in the omission of the articles in verse 40. R.V., “is taken,” “ is left,” in verses 40, 41.—R.\] 2838 Exod. xi. 5. \[LXX., both altered and abridged.\] 2839 Luke xvii. 34.
+2834 Matt. xxiv. 38, 39. \[The passage is abridged.\] 2835 1 Thess. v. 3. καθολικν. 447 2837 Matt. xxiv. 40–42. \[The citation agrees with the received text, except in the omission of the articles in verse 40. R.V., “is taken,” “ is left,” in verses 40, 41.—R.\] 2838 Exod. xi. 5. \[LXX., both altered and abridged.\] 2839 Luke xvii. 34.
 
 
 *[p. 809]* ^pg817
@@ -96,7 +96,7 @@ After this again, that they may not ask about it, He added, “Watch therefore, 
 
 For this intent He tells them not, in order that they may watch, that they may be always ready; therefore He saith, When ye look not for it, then He will come, desiring that they should be anxiously waiting, and continually in virtuous action.
 
-284\. 0 Matt. xxiv. 42. 2841 Matt. xxiv. 43, 44. \[R.V., “if the master of the house had known in what watch the thief was coming,…to be broken through.…in an hour ye think not,” etc.\]
+2840 Matt. xxiv. 42. 2841 Matt. xxiv. 43, 44. \[R.V., “if the master of the house had known in what watch the thief was coming,…to be broken through.…in an hour ye think not,” etc.\]
 
 
 *[p. 810]* ^pg818
@@ -115,7 +115,7 @@ Tell me, is this too the language of one who is in ignorance? For if because He 
 
 And the Father too will be found to be saying such things. For He Himself likewise saith, “Adam, where art thou?”<sup>2847</sup>and, “The cry of Sodom and Gomorrah is waxed great before
 
-284\. 2 \[The future tense is peculiar to this citation, also the addition of “their.”—R.\] 2843 See last note. 2844 Matt. xxiv. 45–47. \[R.V., “that he will set him over all that he hath.” The translator has made a similar change in verse 45.—R.\] 2845 John xxi. 16. 2846 John xi. 34. Gen. iii. 9. 448 2848 Gen. xviii. 20, 21. 2849 Ezek. ii. 5. Luke xx. 13. \[In Homily LXVIII. this form of the saying is cited as occurring in Matthew (xxi. 37).—R.\]
+2842 \[The future tense is peculiar to this citation, also the addition of “their.”—R.\] 2843 See last note. 2844 Matt. xxiv. 45–47. \[R.V., “that he will set him over all that he hath.” The translator has made a similar change in verse 45.—R.\] 2845 John xxi. 16. 2846 John xi. 34. Gen. iii. 9. 448 2848 Gen. xviii. 20, 21. 2849 Ezek. ii. 5. Luke xx. 13. \[In Homily LXVIII. this form of the saying is cited as occurring in Matthew (xxi. 37).—R.\]
 
 
 *[p. 811]* ^pg819
@@ -142,7 +142,7 @@ But do thou hear also what followeth, and learn how continually He reminds them 
 
 What then is the purport of that which followeth? “For He shall come in a day when he looketh not for Him, and in an hour that he is not aware of;”<sup>2856</sup>and shall inflict upon him
 
-285\. 1 \[R.V., “when he expecteth not, and in an hour when he knoweth not.”\] 2852 \[R.V. margin, “severely scourge him.”\] 2853 Matt. xxiv. 48–51. \[The textual variations are slight, and are indicated in the emendations of the A.V. appearing in the above rendering.—R.\] 2854 Phil. iv. 5, 6. 2855 Heb. x. 37.
+2851 \[R.V., “when he expecteth not, and in an hour when he knoweth not.”\] 2852 \[R.V. margin, “severely scourge him.”\] 2853 Matt. xxiv. 48–51. \[The textual variations are slight, and are indicated in the emendations of the A.V. appearing in the above rendering.—R.\] 2854 Phil. iv. 5, 6. 2855 Heb. x. 37.
 
 
 *[p. 813]* ^pg821
@@ -183,9 +183,9 @@ But if ye be willing, from a third point also let us compare them; and let the o
 
 Wilt thou that I tell thee a fourth proof also of these things? “Peter, lovest thou me,” saith He; “Feed my sheep:”<sup>2861</sup>and having asked him a third time, declared this to be an infallible proof of love. But not to priests only is this said, but to every one of us also, who are also entrusted with a little flock. For do not despise it, because it is a little flock: For “my Father,” He saith, “hath pleasure in them.”<sup>2862</sup> Each of us hath a sheep, let him lead that to the proper pastures. And let the man, as soon as he has risen from his bed, seek after nothing else, but how he may do and say something whereby he may render his whole house more reverent. The woman again, let her be indeed a good housekeeper; but before attending to
 
-285\. 7 1 Cor. x. 24. 2858 Rom. xv. 2, 3. 2859 1 Cor. xiii. 3.
+2857 1 Cor. x. 24. 2858 Rom. xv. 2, 3. 2859 1 Cor. xiii. 3.
 
-286\. 0 Philip. i. 23, 24. 2861 John xxi. 15–17. 451 2863 Acts x. 4. 2 Cor. xi. 29.
+2860 Philip. i. 23, 24. 2861 John xxi. 15–17. 451 2863 Acts x. 4. 2 Cor. xi. 29.
 
 
 *[p. 816]* ^pg824
@@ -230,7 +230,7 @@ But wherefore doth He set forth this parable in the person of the virgins, and d
 
 “And about midnight there was a cry made.” Either He was continuing the parable, or again He shows that the resurrection will be at night. But the cry Paul also indicates, saying, “With a shout, with a voice of an archangel, with the last trump, He shall come down from Heaven.”<sup>2870</sup> And what mean the trumpets, and what saith the cry? “The bridegroom
 
-286\. 6 Matt. xix. 12. 2867 1 Cor. vii. 25. α δ. 2868 α νικηθεσαι. 2869 1 Thess. iv. 16 (comp. 1 Cor. xv. 52).
+2866 Matt. xix. 12. 2867 1 Cor. vii. 25. α δ. 2868 α νικηθεσαι. 2869 1 Thess. iv. 16 (comp. 1 Cor. xv. 52).
 
 
 *[p. 820]* ^pg828
@@ -263,7 +263,7 @@ But see Him everywhere, not requiring it again immediately. For in the case of t
 
 454
 
-287\. 2 Matt. xxv. 12. 2873 See Matt. vii. 23. 2874 Matt. xxv. 13. 1 Cor. vii. 34, 35.
+2872 Matt. xxv. 12. 2873 See Matt. vii. 23. 2874 Matt. xxv. 13. 1 Cor. vii. 34, 35.
 
 
 *[p. 822]* ^pg830
@@ -276,9 +276,9 @@ But not so that other one, but how? “I knew that thou art a hard man, reaping 
 
 What could be more gentle than this? For men indeed do not so, but him that hath put out the money at usury, even him do they make also responsible to require it again. But He not so; but, Thou oughtest, He saith, to have put it out, and to have committed the requiring of it again to me. And I should have required it with increase; by increase upon the hearing, meaning the showing forth of the works. Thou oughtest to have done that which is easier, and to have left to me what is more difficult. Forasmuch then as he did not this, “Take,” saith He, “the talent from him, and give it to him that hath ten talents.<sup>2879</sup> For unto every one that hath shall be given, and he shall have abundance; but from him that hath not shall be taken away even that which he hath.”<sup>2880</sup> What then is this? He that hath a gift of word and teaching to profit thereby, and useth it not, will lose the gift also; but he that giveth diligence, will gain to himself the gift in more abundance; even as the other loseth what he had received. But not to this is the penalty limited for him that is slothful, but even intolerable is the punishment, and with the punishment the sentence, which is full of a heavy accusation. For “cast ye,” saith He, “the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth.”<sup>2881</sup> Seest thou how not only the spoiler, and the covetous, nor only the doer of evil things, but also he that doeth not good things, is punished with extreme punishment.
 
-287\. 6 Matt. xxv. 23. 2877 Matt. xxv. 24, 25. 2878 Matt. xxv. 27. \[R.V., “bankers.”\] 2879 \[R.V., “the ten talents.”\]
+2876 Matt. xxv. 23. 2877 Matt. xxv. 24, 25. 2878 Matt. xxv. 27. \[R.V., “bankers.”\] 2879 \[R.V., “the ten talents.”\]
 
-288\. 0 Matt. xxv. 28, 29. Matt. xxv. 30. \[R.V., “cast ye out,” etc.\] 455 προστασαν . 2882 2883 Acts iv. 13. 2884 Matt. ix. 5. 2885 Acts ix. 40. John viii. 49. \[Greek, “demon.”\]
+2880 Matt. xxv. 28, 29. Matt. xxv. 30. \[R.V., “cast ye out,” etc.\] 455 προστασαν . 2882 2883 Acts iv. 13. 2884 Matt. ix. 5. 2885 Acts ix. 40. John viii. 49. \[Greek, “demon.”\]
 
 
 *[p. 823]* ^pg831
@@ -303,7 +303,7 @@ Wherefore greater is he that thus speaks, than he that prophecies. For this is e
 
 Let us see also how a devil’s mouth is made; that we may never frame that. How then is it made? By curses, by insults, by envy, by perjury. For when any one speaks his words, he takes his tongue. What kind of excuse then shall we have; or rather, what manner of
 
-288\. 7 John xviii. 23. Jer. xv. 19. κατ τν τ οκονομα λγονἐρφια, *hædos*, not *capras*; St. Jerome. 2889 ἔριφο.
+2887 John xviii. 23. Jer. xv. 19. κατ τν τ οκονομα λγονἐρφια, *hædos*, not *capras*; St. Jerome. 2889 ἔριφο.
 
 
 *[p. 825]* ^pg833
@@ -320,7 +320,7 @@ But mark them, how they are destitute not of one or two things only, but of all.
 
 And mark how easy are His injunctions. He said not, “I was in prison, and ye set me free; I was sick, and ye raised me up again;” but, “ye visited me,” and, “ye came unto me.” And neither in hunger is the thing commanded grievous. For no costly table did He seek, but what is needful only, and His necessary food, and He sought in a suppliant’s garb, so that all things were enough to bring punishment on them; the easiness of the request, for it was bread; the pitiable character of Him that requesteth, for He was poor; the sympathy of nature, for He was a man; the desirableness of the promise, for He promised a kingdom;
 
-289\. 0 Hosea vi. 6. 457 2892 Matt. xxv. 45; comp. verse 40. \[“My brethren” is added here from verse 40. The order of words varies from that found in that verse.—R.\] 2893 Matt. xxv. 34–40. 2894 Matt. xii. 41, 42. 2895 Matt. xii. 27. 1 Cor. vi. 3.
+2890 Hosea vi. 6. 457 2892 Matt. xxv. 45; comp. verse 40. \[“My brethren” is added here from verse 40. The order of words varies from that found in that verse.—R.\] 2893 Matt. xxv. 34–40. 2894 Matt. xii. 41, 42. 2895 Matt. xii. 27. 1 Cor. vi. 3.
 
 
 *[p. 826]* ^pg834
@@ -359,7 +359,7 @@ So for this cause, while the one are punished justly, the others are crowned by 
 
 “Then were assembled together the chief priests, and the scribes, and the elders of the people, in the palace of the high priest, who was called Caiaphas, and consulted that they
 
-289\. 7 \[R.V., “words;” the word “all” is omitted.—R.\] 2898 Matt. xxvi. 1, 2. 2899 \[A clause is omitted here: “and then He brings in ‘is delivered up to be crucified.’” But some editors read: “‘And the Son of Man is delivered up,’ and then He brings in ‘to be crucified.’” For the latter reading there is no good authority.—R.\]
+2897 \[R.V., “words;” the word “all” is omitted.—R.\] 2898 Matt. xxvi. 1, 2. 2899 \[A clause is omitted here: “and then He brings in ‘is delivered up to be crucified.’” But some editors read: “‘And the Son of Man is delivered up,’ and then He brings in ‘to be crucified.’” For the latter reading there is no good authority.—R.\]
 
 
 *[p. 829]* ^pg837
@@ -374,7 +374,7 @@ What did they consult together? That they might seize Him secretly, or that they
 
 Yet for all this, boiling with anger, they changed their purpose again. For though they had said, “Not at the feast time;” when they found the traitor, they waited not for the time, but slew Him at the feast. But why did they take Him then? They were boiling with rage, as I said; and they expected then to find Him, and all things they did as blinded. For though He Himself made the greatest use of their wickedness for His own dispensation, they were not surely for this guiltless, but deserving of inflictions without number for their temper of mind. At least when all should be set free, even the guilty, then these men slew the guiltless, Him that had conferred on them countless benefits, and who for a time had neglected the Gentiles for their sake. But O loving-kindness! them that were thus depraved, them that were *thus froward, and*<sup>2902</sup>full of countless evils, He again saves, and sends the apostles to
 
-290\. 0 Matt. xxvi. 3–5. \[This passage contains some peculiar variations: in verse 3, “in the palace” (court) is substituted for “unto;” in verse 4, the more probable reading should be rendered, “were consulting” (or taking counsel together). Verse 5 shows no variations but should be rendered as in the R.V., “Not during the feast, lest a tumult arise among the people.” The comments show that Chrysostom understood the verse as referring to the entire festival.—R.\] 2901 \[“Not during the feast.”\] \[The words in italics are not sustained by the mss. collated by Field.—R.\]
+2900 Matt. xxvi. 3–5. \[This passage contains some peculiar variations: in verse 3, “in the palace” (court) is substituted for “unto;” in verse 4, the more probable reading should be rendered, “were consulting” (or taking counsel together). Verse 5 shows no variations but should be rendered as in the R.V., “Not during the feast, lest a tumult arise among the people.” The comments show that Chrysostom understood the verse as referring to the entire festival.—R.\] 2901 \[“Not during the feast.”\] \[The words in italics are not sustained by the mss. collated by Field.—R.\]
 
 
 *[p. 830]* ^pg838
@@ -389,7 +389,7 @@ What can be equal to this tenderness? On hearing these things let us hide our fa
 
 The sons of the Greeks, who look for nothing great, have often shown self-command toward these: and thou who art to depart hence with such hopes, shrinkest, and art slow to act; and that which time effects, this thou endurest not to do before the time for God’s law, but willest this passion to be quenched without reward, rather than for a reward? For neither,
 
-290\. 3 2 Cor. v. 20. \[R.V., “on behalf of Christ.”\] Luke xxiii. 34. \[Freely cited.\] 460 2905 Amos vi. 6. Micah i. 11, LXX.
+2903 2 Cor. v. 20. \[R.V., “on behalf of Christ.”\] Luke xxiii. 34. \[Freely cited.\] 460 2905 Amos vi. 6. Micah i. 11, LXX.
 
 
 *[p. 831]* ^pg839
@@ -420,7 +420,7 @@ Now I had undertaken that he should receive no harm; but the account as it proce
 
 Let us not then vex ourselves with others, injuring ourselves, and rendering our soul weak. For the vexation is not so much from our neighbors’ wickedness, as from our weakness. Because of this, should any one insult us, we weep, and frown; should any one rob us, we
 
-290\. 7 Prov. xii. 28, LXX. 2908 Ecclus. xxviii. 3. 2909 2 Cor. iv. 16. \[R.V., “our outward man is decaying.”\] Rom. v. 4. \[R.V., “probation;” δοκιμν cannot be accurately rendered by any single English term.—R.\]
+2907 Prov. xii. 28, LXX. 2908 Ecclus. xxviii. 3. 2909 2 Cor. iv. 16. \[R.V., “our outward man is decaying.”\] Rom. v. 4. \[R.V., “probation;” δοκιμν cannot be accurately rendered by any single English term.—R.\]
 
 
 *[p. 833]* ^pg841
@@ -429,7 +429,7 @@ suffer the same like those little children, which the more clever of their compa
 
 Wherefore I entreat, let us let go this childish mind, and lay hold of Heaven. For indeed, Christ willeth us to be men, perfect men. On this wise did Paul also command, “Brethren, be not children in understanding,” he saith, “howbeit in malice be ye children.”<sup>2911</sup> Let us therefore be children<sup>2912</sup>in malice, and flee wickedness, and lay hold on virtue, that we may attain also to the good things eternal, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might, world without end. Amen.
 
-291\. 1 1 Cor. xiv. 20. \[R.V., “be not children in mind; howbeit in malice be ye babes.”\] \[“babes.”\]
+2911 1 Cor. xiv. 20. \[R.V., “be not children in mind; howbeit in malice be ye babes.”\] \[“babes.”\]
 
 
 *[p. 834]* ^pg842
@@ -448,7 +448,7 @@ But not without purpose did the evangelist mention the leprosy of Simon, but in 
 
 The woman therefore having seen Him, and having taken confidence from thence came unto Him. For if she that had the issue of blood, although conscious to herself of nothing like this, yet because of that natural seeming uncleanness, approached Him trembling and in fear; much more was it likely this woman should be slow, and shrink back because of her evil conscience. Wherefore also it is after many women, the Samaritan, the Canaanite, her that had the issue of blood, and other besides, that she cometh unto Him, being conscious to herself of much impurity; and then not publicly but in a house. And whereas all the others were coming unto Him for the healing of the body alone, she came unto Him by way of
 
-291\. 3 St. Augustin, on St. John, Hom. XLIX. sec. 3, speaks of the identity as doubtful. See also Greswell, vol. ii., Diss. XVII., and vol. iii. Diss. III. It seems that the *occasion* recorded in Luke vii. 37 must have been different, whether the person were the same or not. St. Chrysostom supposes *two* unctions *at Bethany*. See note at the end of “Sermons preached at St. Saviour’s Church, Leeds.” \[Augustin discusses the question more fully in his *Harmony of the Gospels*, see *Nicene Fathers*, vol. vi. pp. 173, 174. He holds that there were two occasions, one named by Luke, and the other by Matthew, Mark and John, but that Mary was the person anointing on both occasions. This leads to the identification of Mary, the sister of Lazarus, with Mary Magdalene. But there is no proof that Luke refers to the latter. The opinion of Chrysostom seems to be that Matthew, Mark and Luke refer to the same person, and John to another on a different occasion. But to this there are insuperable objections.—R.\] Lit, an economy. 462 2915 Matt. xxvi. 8–13. \[The Greek text agrees with the received with the exception of a change of order in the first clause of verse 11. In verse 12, the R.V. renders, “to prepare me for burial,” and in verse 12, “bespoken of” for “be told.”—R.\] See ix. 13, and xii. 7.
+2913 St. Augustin, on St. John, Hom. XLIX. sec. 3, speaks of the identity as doubtful. See also Greswell, vol. ii., Diss. XVII., and vol. iii. Diss. III. It seems that the *occasion* recorded in Luke vii. 37 must have been different, whether the person were the same or not. St. Chrysostom supposes *two* unctions *at Bethany*. See note at the end of “Sermons preached at St. Saviour’s Church, Leeds.” \[Augustin discusses the question more fully in his *Harmony of the Gospels*, see *Nicene Fathers*, vol. vi. pp. 173, 174. He holds that there were two occasions, one named by Luke, and the other by Matthew, Mark and John, but that Mary was the person anointing on both occasions. This leads to the identification of Mary, the sister of Lazarus, with Mary Magdalene. But there is no proof that Luke refers to the latter. The opinion of Chrysostom seems to be that Matthew, Mark and Luke refer to the same person, and John to another on a different occasion. But to this there are insuperable objections.—R.\] Lit, an economy. 462 2915 Matt. xxvi. 8–13. \[The Greek text agrees with the received with the exception of a change of order in the first clause of verse 11. In verse 12, the R.V. renders, “to prepare me for burial,” and in verse 12, “bespoken of” for “be told.”—R.\] See ix. 13, and xii. 7.
 
 
 *[p. 835]* ^pg843
@@ -483,7 +483,7 @@ Great is the loving-kindness of the Lord. He endureth an harlot, an harlot kissi
 
 But mark thou this too, how far they were now raised up above the world, and forward in almsgiving. And why was it He did not merely say, “She hath wrought a good work,” but before this, “Why trouble ye the woman?” That they might learn not at the beginning to require too high principles of the weaker sort. Therefore neither doth He examine the act merely itself by itself, but taking into account the person of the woman. And indeed if He had been making a law, He would not have brought in the woman, but that thou mightest learn that for her sake these things were said, that they might not mar her budding faith, but rather cherish it, therefore He saith it, teaching us whatever good thing may be done by any man, though it be not quite perfect, to receive it, and encourage it, and advance it, and
 
-291\. 7 \[A clause is omitted here: “and conquered in wars.”—R.\] 2918 \[This accords with the assumed identity with the woman spoken of in Luke vii. But there seems to be no proof that Chrysostom identified the woman with Mary Magdalene. Compare p. 41, Homily VI. 8.—R.\]
+2917 \[A clause is omitted here: “and conquered in wars.”—R.\] 2918 \[This accords with the assumed identity with the woman spoken of in Luke vii. But there seems to be no proof that Chrysostom identified the woman with Mary Magdalene. Compare p. 41, Homily VI. 8.—R.\]
 
 
 *[p. 837]* ^pg845
@@ -500,7 +500,7 @@ And wherefore did He promise the woman nothing spiritual; but the perpetual memo
 
 “Then went one of the twelve, he that was called Judas Iscariot, unto the chief priests, and said unto them, What will ye give me, and I will deliver Him unto you?”<sup>2919</sup> Then. When? When these things were spoken, when He had said, it is for my burial, and not even thereby was he moved to compunction, neither when he heard that the Gospel should be preached everywhere did he fear (and yet it was the language of unspeakable power), but when women showed so much honor, and women that had been harlots, then he wrought the devil’s works.
 
-291\. 9 Matt. xxvi. 14, 15. \[R.V., “Then one of the twelve, who was called Judas Iscariot, went unto the chief priests, and said, What are ye willing to give me,” etc.\] 464 Luke xxii. 4. \[The explanation is untenable. The “captains” (στρατηγο) were not “chiliarchs,” but the
+2919 Matt. xxvi. 14, 15. \[R.V., “Then one of the twelve, who was called Judas Iscariot, went unto the chief priests, and said, What are ye willing to give me,” etc.\] 464 Luke xxii. 4. \[The explanation is untenable. The “captains” (στρατηγο) were not “chiliarchs,” but the
 
 
 *[p. 838]* ^pg846
@@ -521,7 +521,7 @@ Oh madness! how did covetousness altogether blind him! For he that had often see
 
 Knowing this, then, let us also not intermit to do all things unto them that sin and are remiss, warning, teaching, exhorting, admonishing, advising, though we profit nothing. For Christ indeed foreknew that the traitor was incorrigible, yet nevertheless He ceased not to supply what could be done by Himself, as well admonishing as threatening and bewailing over him, and nowhere plainly, nor openly, but in a concealed way. And at the very time of
 
-292\. 0 officers of the temple guard; comp. Luke xxii. 52, where the same word occurs. 2921 Matt. xxvi. 15, 16. \[R.V., “And they weighed unto him thirty,” etc. to deliver Him *unto them.* The same word as in verse 15.—R.\]
+2920 officers of the temple guard; comp. Luke xxii. 52, where the same word occurs. 2921 Matt. xxvi. 15, 16. \[R.V., “And they weighed unto him thirty,” etc. to deliver Him *unto them.* The same word as in verse 15.—R.\]
 
 
 *[p. 839]* ^pg847
@@ -578,7 +578,7 @@ But wherefore did He keep the passover? To indicate by all things unto the last 
 
 And for what possible reason doth He send them to an unknown person? To show by this also that He might have avoided suffering. For He who prevailed over this man’s mind, so that he received them, and that by words; what would He not have done with them that crucified Him, if it had been His will not to suffer? And what He did about the ass, this He did here also. For there too He saith, “If any man say aught unto you, ye shall say, that the Lord hath need of them;”<sup>2928</sup>and so likewise here, “The Master saith, I will keep the passover at thy house.” But I marvel not at this only, that he received Him, being unknown, but that
 
-292\. 4 John xiii. 1. 2925 \[But John does not call it the day before.—R.\] 2926 Luke xxii. 7. 2927 \[The language is somewhat obscure. But it would seem from this passage that Chrysostom believed our Lord ate the passover at the regular time. In Homily LXXXIV., he speaks of the chief priests as neglecting to eat it in their hate against our Lord, explaining in this way the difficulty arising from the statement in John xviii. 28. But in Homily LXXXIII. 3, on the Gospel of John, he presents both views, either that the whole feast is meant, or that our Lord had anticipated the observance of the Paschal supper.—R.\] 467 2929 1 Sam. x. 3.
+2924 John xiii. 1. 2925 \[But John does not call it the day before.—R.\] 2926 Luke xxii. 7. 2927 \[The language is somewhat obscure. But it would seem from this passage that Chrysostom believed our Lord ate the passover at the regular time. In Homily LXXXIV., he speaks of the chief priests as neglecting to eat it in their hate against our Lord, explaining in this way the difficulty arising from the statement in John xviii. 28. But in Homily LXXXIII. 3, on the Gospel of John, he presents both views, either that the whole feast is meant, or that our Lord had anticipated the observance of the Paschal supper.—R.\] 467 2929 1 Sam. x. 3.
 
 
 *[p. 843]* ^pg851
@@ -595,4 +595,4 @@ For when the disciples had done, as Jesus had appointed them, “when the even w
 
 Intolerable sorrow thereupon seized that holy company. And John indeed saith, they “were in doubt, and looked one upon another,”<sup>2934</sup>and each of them asked in fear concerning himself, although conscious to themselves of no such thing. But this evangelist saith, that
 
-293\. 0 Matt. xxvi. 20. \[R.V., “was sitting at meat with the twelve disciples.” The rec. text omits “disciples,” as does one mss. of the Homilies here. Comp. R.V. margin. Below it is omitted by Chrysostom also.—R.\] 2931 Lit., salt. 2932 \[See note 7, p. 485.\] 2933 Matt. xxvi. 21. \[R.V., “were eating.”\] John xiii. 22. \[Freely cited.\]
+2930 Matt. xxvi. 20. \[R.V., “was sitting at meat with the twelve disciples.” The rec. text omits “disciples,” as does one mss. of the Homilies here. Comp. R.V. margin. Below it is omitted by Chrysostom also.—R.\] 2931 Lit., salt. 2932 \[See note 7, p. 485.\] 2933 Matt. xxvi. 21. \[R.V., “were eating.”\] John xiii. 22. \[Freely cited.\]

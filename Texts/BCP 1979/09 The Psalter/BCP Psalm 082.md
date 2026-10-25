@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 82
 verses: 8
-page_range:
-  - 706
-  - 706
+page_range: "706"
 aliases:
   - "BCP Psalm 82"
   - "BCP 706"
@@ -44,7 +42,7 @@ and all of you children of the Most High; ^82-6
 **82:7** Nevertheless, you shall die like mortals, \*  
 and fall like any prince.'" ^82-7
 
-[p. 706]
+[p. 706] ^pg706
 
 **82:8** Arise, O God, and rule the earth, \*  
 for you shall take all nations for your own. ^82-8

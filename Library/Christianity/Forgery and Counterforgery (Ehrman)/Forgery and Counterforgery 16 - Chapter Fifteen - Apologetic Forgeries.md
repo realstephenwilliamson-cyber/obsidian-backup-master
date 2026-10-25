@@ -6,7 +6,7 @@ page_range: "481–528"
 ---
 [[Forgery and Counterforgery 15 - Chapter Fourteen - Forgeries Arising from Later Theological Controversies|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 17 - Chapter Sixteen - Lies and Deception in the Cause of Truth|next →]]
 
-[p. 481]
+[p. 481] ^pg481
 
 ## Chapter Fifteen: Apologetic Forgeries
 
@@ -382,7 +382,7 @@ If pagans were using forged oracles to oppose the Christians, is it any surprise
 
 Normally, the false “Hebrews” here are taken to be non-Jewish Christians of some kind. But might they, even more radically, be taken to be actual Jews, who, for Christians, were not in fact “true Jews,” because by rejecting Christ they had rejected their own God? As this book itself says, in further attacking Jews: “Ah, Coele-Syria,… wretched one, you did not recognize your God, whom once Jordan washed in its streams” (7.64–67). And so, it should be at least considered possible that the forger of this part of book 7 produced his Christian interpolation precisely as a counter to the Jewish Sibylline prophecies that he saw here before him, which needed to be “corrected” in line with true religion.
 
-[p. 520]
+[p. 520] ^pg520
 
 ### THE LETTERS OF PAUL AND SENECA
 
@@ -444,7 +444,7 @@ The driving force behind the association of Paul with Seneca in particular is th
 
 The long-range effect was significant, for both Paul and Seneca. Paul hereafter was seen as closely connected with the greatest mind of his day, who praised him for his divinely inspired thought, and Seneca’s status among Christians was elevated by his association with Paul. The letters came to be included as standard fare among the manuscripts of the writings of Seneca down to the invention of printing.
 
-[p. 528]
+[p. 528] ^pg528
 
 ---
 

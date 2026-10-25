@@ -46,7 +46,7 @@ According to the Mālinīvijayottara
 मत्स्यसन्धिद्यं त्वेवं दधषिणोत्तरयोर्भवित् ॥३॥
 तन्मध्ये पातयेत्सत्रं दक्षिणोत्तरसिद्धये ।
 
-sādhayitvā diśarnṁ \[illegible\] sūtram āsphālayet 54001401 ॥ 1 ॥
+sādhayitvā diśaṁ \[illegible\] sūtram āsphālayet 54001401 ॥ 1 ॥
 tadardhayitvā madhyaprākpratīcīṣv aṁkayet punaḥ |
 tato ‘py ardhatadardhārdhamānataḥ pūrvapaścimau || 2 I|
 aṅkayet tāvatā dadyāt sūtreṇna bhramayugmakam |
@@ -144,9 +144,9 @@ Surely (one may ask), there are many mandalas in each scripture. So here which o
 
 *[p. 70]* ^pg88
 
-ekasmāt prabhṛti proktarn śatāntaḥ mandalami yataḥ ॥ 7 ॥
+ekasmāt prabhṛti proktaṁ śatāntaḥ mandalami yataḥ ॥ 7 ॥
 siddhātantre maṇdalānāri íśatari tat pītha ucyate |
-yat tanmadhyagatarn mukhyarn mandalānāri trayarn smṛtam |I 8 I|
+yat tanmadhyagataṁ mukhyaṁ mandalānāri trayaṁ smṛtam |I 8 I|
 madhyaśŭlar tritriśūlaṁ navaśūlam iti sphutam |
 tatra śūlavidhānaṁ yad uktam bhedair anantakaiḥ ॥ 9 ॥
 tadyoni mandala brūmaḥ sadbhāvakramadarśitam | 
@@ -178,7 +178,7 @@ A) The Construction of the Mandala According to the Trikasadbhāva 4
 वेदाश्रित चतुर्हस्ते त्रिभागं सर्वतस्त्यजेत् ॥ १० ॥
 भागैः षोडशभिः सर्वं तततत््त्र इभाजयेत् |
 
-vedāśrite caturhaste tribhāgaṁ sarvatas tyajet |l 10 ॥ 
+vedāśrite caturhaste tribhāgaṁ sarvatas tyajet ॥ 10 ॥ 
 
 210?\. Cf, above, 16/2cd-4.
 
@@ -223,7 +223,7 @@ The mandala of the Three Tridents described in the Trikasadbhāva.”
 
 brahmasūtradvayasyātha madhyarnń brahmapadaṁ sphuṭam | 1 1 |
 kṛtvāvadhiṁ tato 11111110 sūtram āditaḥ |
-tatas tiryag vrajet sūtraṁ caturtharn tadanantare || 12 ||
+tatas tiryag vrajet sūtraṁ caturthaṁ tadanantare || 12 ||
 koṣtṭhe cendudvayaṁ kuryād bahirbhāgārdhabhāgataḥ |
 tayor lagna brahmasūtrāt tṛtīye marmani sthitam || 13 ॥
 koṣthakārdhe ‘paraṁ ceti yugmam antarmukhaṁ bhavet |
@@ -283,8 +283,8 @@ says ‘(to form) a pair of half-moons (i.e. semi-circles)’. Its form here is 
 चतुधार च चदर्धद्रयमन्त्मुखं भवेत् ॥ १९ ॥
 
 tiryagbhāgadvayaṁ tyaktvā khandendoḥ paścimāt tataḥ |
-konar yāvat tathā syāc ca kuryāt khandań bhramadvayam || 17 I|
-sutīkṣṇakuṭilāgraṁ tad ekańn śṛṅgarn prajāyate |
+konar yāvat tathā syāc ca kuryāt khandań bhramadvayam || 17 ||
+sutīkṣṇakuṭilāgraṁ tad ekańn śṛṅgaṁ prajāyate |
 dvitīyasminn api proktaḥ śṛṁga eṣa vidhiḥ sphuṭaḥ ॥ 18 ॥
 madhyaśṛṁge ‘tha kartavye tṛtīye ūrdhvakoṣthake |
 caturthārdhe ca candrārdhadvayam antarmukhaṁ bhavet || 19 ॥ 
@@ -359,7 +359,7 @@ He now says how the prongs are located on the southern and northern sides.
 ततो यदुनमुखं खण्डचनदरयुगमं पुरोदितम् ॥ २४ ॥
 ततो द्येन कर्तव्या गण्डिकान्तः सुसङ्गता द्रयेनाग्रगसूत्राभ्यां मध्यशृद्द्रयं भवेत् ॥ २५ ॥
 
-tato yad unmukharn khandacandrayugmar puroditam ॥ 24 ॥
+tato yad unmukhaṁ khandacandrayugmar puroditam ॥ 24 ॥
 tato dvayena kartavyā gandikāntaḥ susaṁgatā |
 dvayenāgragasūtrābhyāṁ madhyaśṛṅgadvayari bhavet ॥ 25 ॥ 
 
@@ -738,10 +738,10 @@ Such greatness is not only of that (mandala), rather it is also of one who knows
 मण्डलस्यास्य यो व्यापि देवतान्यासमेव च ॥ ५० ॥
 वर्तनां च विजानाति स गुरुखिकशासने |
 तस्य पादरजो मूर्धि धार्य शिवसमीहिना ॥ ५१ ॥
-mandalasyāsya yo vyāptiṁ devatānyāsam eva ca ॥ 50 Il vartanāṁ ca vijānāti sa gurus trikaśāsane |
+mandalasyāsya yo vyāptiṁ devatānyāsam eva ca ॥ 50 ॥ vartanāṁ ca vijānāti sa gurus trikaśāsane |
 tasya pādarajo mūrdhni dhāryami śivasamīhinā || 51 1| 
 
-He who knows the pervasive extent \[illegible\] of this mandala, the deposition of the deities (within it) and (how to) draw it, is a (true) teacher in the Trika teachings (trikaśāsana)." It behoves one who aspires to 
+He who knows the pervasive extent (vyāpti) of this mandala, the deposition of the deities (within it) and (how to) draw it, is a (true) teacher in the Trika teachings (trikaśāsana)." It behoves one who aspires to 
 
 246?\. Jayaratha here has in mind the root ran, which means ‘to extend’. Jayaratha clearly had this reading before him. Even so, one wonders if this reading is correct. The meaning as ìt stands is not clear.
 
@@ -803,13 +803,13 @@ Moreover, what we have said is also stated in other scriptures. Thus he says:
 शूल इत्थं प्रकर्तव्यमष्टधा तत् त्रिधापि वा ॥ ५७ ॥
 एवं संसूचित दिव्यं खेचरीणां पुरं त्विति ।
 ity etat (4101114) gupte ṣadardhahṛdaye pare |
-satke proktarn sūcitaṁi śrīsiddhayogīśvarīmate || 54 ॥
+satke proktaṁ sūcitaṁi śrīsiddhayogīśvarīmate || 54 ॥
 agrataḥ sūtrayitvā tu mandalarni sarvakāmadam |
-mahāśūlasamopetaṁn padmacakrādibhūṣitam || 55 Il dvāre dvāre likhec chūlaṁ varjayitvā tu paścimam |
+mahāśūlasamopetaṁn padmacakrādibhūṣitam || 55 || dvāre dvāre likhec chūlaṁ varjayitvā tu paścimam |
 konṇeṣv api ca vā kāryaṁ mahāśūlai drumānvitam || 56 ॥
-amṛtāmbhodbhavārīṇām śūlāgre tu trikarn trikam |
-\[illegible\] ittharn prakartavyam aṣtadhā tat tridhāpi vā ॥ 57 ॥
-evar saṁsūcitaṁ divyarn khecarīnāṁ purar tv iti | 
+amṛtāmbhodbhavārīṇām śūlāgre tu trikaṁ trikam |
+\[illegible\] itthaṁ prakartavyam aṣtadhā tat tridhāpi vā ॥ 57 ॥
+evar saṁsūcitaṁ divyaṁ khecarīnāṁ purar tv iti | 
 
 This is stated in the hidden, supreme Ṣadardhahṛdaya of six thousand verses \[illegible\] and (just implicitly) mentioned in the Siddhayogīśvarīmata.” 
 
@@ -817,12 +817,12 @@ This is stated in the hidden, supreme Ṣadardhahṛdaya of six thousand verses 
 
 252?\. Presumably, Jayaratha means that the other two prongs of the fourth trident, which is below the other three, are visible.
 
-253?\. Here in verses 10cd to 52, Abhinava has described the drawing of the triple Trident mandala. He tells us there that he is following the Sadbhāva (31/10ab). First he presents the purely Trika Trident mandala, and makes it very clear that this is such, by declaring that a person who knows how to draw it is a teacher of the Trika Tantras. Then, after having spent about 40 verses to do that, he continues for another two to explain how the fourfold Krama can be projected and worshipped in this Trika mandala. This is followed by the statement that this is taught in the SṢadardhahrdaya. — ‘This is stated in the hidden, supreme Ṣadardhahṛdaya of six thousand verses (ṣatka)' (31/54bc) (ity etat kathitaṁ gupte ṣadardhahṛdaye pare | ṣatke). Reading ṣadardhahṛdaye ‘pare, as Gnoli does, the translation would be “in the last (or ‘other’) section of six thousand verses (saṭka)’ (Gn jell’esade posteriore’) instead of ‘supreme Ṣadardhahṛdaya’. But there is no need to hypothesize that this is one ṣaṭka along with others of the same text. We know from a reference in Bhāskara’s commentary on ŚSu 2/2 that the Trikasāra was just 6,000 verses long. The Parāṣaṭka (the Six Thousand Verses concerning Parā) is a Trika Tantra, mentioned along with the Vṛrāvalī and the ‘one called Bhairava’ (i.e. the Bhairavakula?) and the Kālikākula, that is a Krama Tantra, at the end of the Kumārikākhaṇda. There in chapter 68, a hierarchy of schools is outlined based on a graded classification of their scriptures. On the basis of the same common exegetical principle adopted by Abhinava that we see exemplified in the revealed scriptures themselves, lower schools (= Tantras) sustain and support higher ones, and the more so, the closer they are in the hierarchy. These are considered to be immediately below Kubjikā Tantras (KuKh 68/1 14cd-116ab). They may well have included the Parāṣaṭka in particular as a Trika Tantra that incorporated the Kālīkrama, as do the Kubjikā Tantras, that are themselves direct descendants of the Trika. Given the intimate relationship between the Kubjikā and the Trika Tantras, it may well be that the Parāṣaṭka is the Trikasāra of six thousand verses. Let us get back to Jayaratha, who glosses ‘Ṣadardhahṛdaya’ as ‘Trikahṛdaya’ and concludes his commentary on this passage (in TĀv ad 31/59) saying that: ‘Having explained the placement of the tridents and lotuses taught in the venerable Trikasadbhāva, he sets out to explain (the placement) described in other scriptures.” Clearly, there can be no doubt that Jayaratha considered the Trikasadbhāva and Trikahṛdaya Ṣadardhahṛdaya) to be one and the same. Nor is he simply guessing. Jayaratha appears to be citing the Trikasadbhāva in as many as four places in the course of his commentary on this passage in TĀv ad 31/26-29ab, 30-32, 42cd-43ab and ad 31/54-58ab, and he cites the Trikasāra in several places. All this evidence suggests that the Trikahṛdaya, Trikasadbhāva and the Trikasāra are the same. Sanderson, however, does not accept this identification, maintaining instead that this Trika mandala is described in the Trikasadbhāva, and the projection of the Krama is from the Trikahṛdaya. Then, for good measure, Abhinava describes another alternative form of that mandala. Seemingly, that too is taken from the Trikahṛdaya. The Krama projection taught in the Trikahṛdaya into the core of the Trika mandala is central to Abhinava’s Anuttara Trika. It is at the summit of the worship and contemplation of the mandala (see above, note 31,27). Accordingly, Abhinava places it at the summit of the full Trika initiation that results in ultimate liberation (nirvāṇadīkṣā), taught above in Chapter Sixteen. We witness it here in the deployment of the pantheon in the triple Trident mandala, as we did in there, where the preparatory purification of the initiand is taught. There we have seen that it involves the projections onto his body of a series of seventy depositions (nyāsa). The base of these depositions is constructed with Trika alphabets and mantras, to serve as the surface of inscription for the ultimate deposition, which is that of the Krama cycle of ‘the four-fold wheel of the Nameless, withdrawal, stability and emanation, together with their own deities, nourished (brrithita) by (the Vidyā of the goddess) Mātṛsadbhāva.’ (16/157) Abhinava, as usual, acknowledges his source, invoking its unique authority by declaring that amongst the Trika Tantras, this Krama rites is taught in the the ‘venerable Sāraśāstra’, which is how Abhinava almost always calls the Trikasāra (ṣadardhaśāstreṣu śrīmatsāraśāstre ca kathyate । 16/158cd). So there we face again, as we do here and in several other places, the uncertainty of the identity of the Trika / -hridaya / -sadbhāva/ -sāra. Are they three different texts, two or just one? If Abhinava is saying that this is taught only in the Trikasāra amongst all of the Trika scriptures, then obviously these are three names for the one text. Indeed, the names all mean the same, i.e. ‘essence’. We know that the Devyāyāmala also taught the supremacy of the goddess Kālasaṁkarṣiṇī. Abhinava repeats that with obvious satisfaction several times in the Tantrāloka. Here perhaps it is specifically the Krama teaching of the four processes coordinated with the Twelve Kālis that surround Parā / Kālasaṁkarṣiṇī in the mandala and the highest deposition. If so, and it is indeed likely, then most probably we should take these to be three names for the same text.
+253?\. Here in verses 10cd to 52, Abhinava has described the drawing of the triple Trident mandala. He tells us there that he is following the Sadbhāva (31/10ab). First he presents the purely Trika Trident mandala, and makes it very clear that this is such, by declaring that a person who knows how to draw it is a teacher of the Trika Tantras. Then, after having spent about 40 verses to do that, he continues for another two to explain how the fourfold Krama can be projected and worshipped in this Trika mandala. This is followed by the statement that this is taught in the SṢadardhahrdaya. — ‘This is stated in the hidden, supreme Ṣadardhahṛdaya of six thousand verses (ṣatka)' (31/54bc) (ity etat kathitaṁ gupte ṣadardhahṛdaye pare | ṣatke). Reading ṣadardhahṛdaye ‘pare, as Gnoli does, the translation would be “in the last (or ‘other’) section of six thousand verses (ṣaṭka)’ (Gn jell’esade posteriore’) instead of ‘supreme Ṣadardhahṛdaya’. But there is no need to hypothesize that this is one ṣaṭka along with others of the same text. We know from a reference in Bhāskara’s commentary on ŚSu 2/2 that the Trikasāra was just 6,000 verses long. The Parāṣaṭka (the Six Thousand Verses concerning Parā) is a Trika Tantra, mentioned along with the Vṛrāvalī and the ‘one called Bhairava’ (i.e. the Bhairavakula?) and the Kālikākula, that is a Krama Tantra, at the end of the Kumārikākhaṇda. There in chapter 68, a hierarchy of schools is outlined based on a graded classification of their scriptures. On the basis of the same common exegetical principle adopted by Abhinava that we see exemplified in the revealed scriptures themselves, lower schools (= Tantras) sustain and support higher ones, and the more so, the closer they are in the hierarchy. These are considered to be immediately below Kubjikā Tantras (KuKh 68/1 14cd-116ab). They may well have included the Parāṣaṭka in particular as a Trika Tantra that incorporated the Kālīkrama, as do the Kubjikā Tantras, that are themselves direct descendants of the Trika. Given the intimate relationship between the Kubjikā and the Trika Tantras, it may well be that the Parāṣaṭka is the Trikasāra of six thousand verses. Let us get back to Jayaratha, who glosses ‘Ṣadardhahṛdaya’ as ‘Trikahṛdaya’ and concludes his commentary on this passage (in TĀv ad 31/59) saying that: ‘Having explained the placement of the tridents and lotuses taught in the venerable Trikasadbhāva, he sets out to explain (the placement) described in other scriptures.” Clearly, there can be no doubt that Jayaratha considered the Trikasadbhāva and Trikahṛdaya Ṣadardhahṛdaya) to be one and the same. Nor is he simply guessing. Jayaratha appears to be citing the Trikasadbhāva in as many as four places in the course of his commentary on this passage in TĀv ad 31/26-29ab, 30-32, 42cd-43ab and ad 31/54-58ab, and he cites the Trikasāra in several places. All this evidence suggests that the Trikahṛdaya, Trikasadbhāva and the Trikasāra are the same. Sanderson, however, does not accept this identification, maintaining instead that this Trika mandala is described in the Trikasadbhāva, and the projection of the Krama is from the Trikahṛdaya. Then, for good measure, Abhinava describes another alternative form of that mandala. Seemingly, that too is taken from the Trikahṛdaya. The Krama projection taught in the Trikahṛdaya into the core of the Trika mandala is central to Abhinava’s Anuttara Trika. It is at the summit of the worship and contemplation of the mandala (see above, note 31,27). Accordingly, Abhinava places it at the summit of the full Trika initiation that results in ultimate liberation (nirvāṇadīkṣā), taught above in Chapter Sixteen. We witness it here in the deployment of the pantheon in the triple Trident mandala, as we did in there, where the preparatory purification of the initiand is taught. There we have seen that it involves the projections onto his body of a series of seventy depositions (nyāsa). The base of these depositions is constructed with Trika alphabets and mantras, to serve as the surface of inscription for the ultimate deposition, which is that of the Krama cycle of ‘the four-fold wheel of the Nameless, withdrawal, stability and emanation, together with their own deities, nourished (brrithita) by (the Vidyā of the goddess) Mātṛsadbhāva.’ (16/157) Abhinava, as usual, acknowledges his source, invoking its unique authority by declaring that amongst the Trika Tantras, this Krama rites is taught in the the ‘venerable Sāraśāstra’, which is how Abhinava almost always calls the Trikasāra (ṣadardhaśāstreṣu śrīmatsāraśāstre ca kathyate । 16/158cd). So there we face again, as we do here and in several other places, the uncertainty of the identity of the Trika / -hridaya / -sadbhāva/ -sāra. Are they three different texts, two or just one? If Abhinava is saying that this is taught only in the Trikasāra amongst all of the Trika scriptures, then obviously these are three names for the one text. Indeed, the names all mean the same, i.e. ‘essence’. We know that the Devyāyāmala also taught the supremacy of the goddess Kālasaṁkarṣiṇī. Abhinava repeats that with obvious satisfaction several times in the Tantrāloka. Here perhaps it is specifically the Krama teaching of the four processes coordinated with the Twelve Kālis that surround Parā / Kālasaṁkarṣiṇī in the mandala and the highest deposition. If so, and it is indeed likely, then most probably we should take these to be three names for the same text.
 
 
 *[p. 91]* ^pg109
 
-254?\. Abhinava is referring to the incorporation of \[illegible\] Krama worship into the Trika Trident mandala. By saying that it is just mentioned or suggested (sūcita) in the SYM, it is clear that it was not explicitly taught there, which is as we would expect. There certainly is no mention of Krama worship in the short recension of the SYM that has survived.
+254?\. Abhinava is referring to the incorporation of Kālī Krama worship into the Trika Trident mandala. By saying that it is just mentioned or suggested (sūcita) in the SYM, it is clear that it was not explicitly taught there, which is as we would expect. There certainly is no mention of Krama worship in the short recension of the SYM that has survived.
 
 
 *[p. 92]* ^pg110
@@ -846,7 +846,7 @@ This is not said only here, rather it is also (said) elsewhere. Thus he says:
 ### TĀ 31.58
 
 स्थानान्तरेऽपि कथितं श्रीसिद्धातन्रशासने ॥ ५८ ॥
-sthānāntare ‘pi kathitarn śrīsiddhātantraśāsane ॥ 58 ॥ 
+sthānāntare ‘pi kathitaṁ śrīsiddhātantraśāsane ॥ 58 ॥ 
 
 “This has been taught in another place also, that is, in the teaching of the venerable Siddhātantra. (58cd) 
 
@@ -879,7 +879,7 @@ He quotes that:
 शृलाङ्कं मण्डल कल्प्यं कमलाङ्ं च पूरणे ॥ ५९ ॥
 
 \[illegible\] madhye tadardhena śūlaśṛṅgāni tāni tu |
-sūlāṁkaṁ mandalarn kalpyarn kamalāṅkari ca pūrane || 59 I| 
+sūlāṁkaṁ mandalaṁ kalpyaṁ kamalāṅkari ca pūrane || 59 || 
 
 ‘(In one type of mandala, there is a) lotus in the middle (of it). (In the other type,) the prongs of the trident are half the size of that (lotus). These (constitute) the mandala that is marked by a trident. One marked by a lotus should be fashioned to complete 1." (59) 
 
@@ -990,7 +990,7 @@ How is that? (In response to this question,) he says:
 tayor antas \[illegible\] tu dakṣiṇottarapārśvayoḥ |
 jīve khaṇndenduyugalaṁ kuryād antarbhramād budhaḥ || 65 ॥
 tayor \[illegible\] \[illegible\] \[illegible\] khandendudvayakotigam |
-bahirmukharn bhramaṁ kuryāt khandacandradvayai dvayam ॥ 66 Il tadvad brahmani kurvīta bhāgabhāgārdhasarimitam | 
+bahirmukhaṁ bhramaṁ kuryāt khandacandradvayai dvayam ॥ 66 ॥ tadvad brahmani kurvīta bhāgabhāgārdhasarimitam | 
 
 On a third living thread between those two on the southern (right) and northern (left) side, the wise man should fashion a pair of half-moons by turning (the thread) towards the inside, after that he should fashion (another) two pairs of half-moons (two on the right and two on the left), facing outwards, located on another junction (between squares with respect to the preceding ones), touching at the extremities of the two half-moons. In the same way, he should fashion (two half-moons) measuring one square and a half square, on the (thread of) Brahmā.” (65-67ab) 
 
@@ -998,7 +998,7 @@ On a third living thread between those two on the southern (right) and northern 
 
 As one begins from the fourth thread to the side (vertically) where, because it is the measure of a square, it comes to rest in the second thread, the third thread in the middle between these two threads, that is to say, the same fourth (thread) from the front, having the left or right hand there, as is required, ‘by turning towards the inside’ (between) both the two sides, not outside, ‘the wise man’ who knows how to draw that should fashion two half-moons.[^275] However, the difference with the half-moon, from the point of view that will be explained (further ahead), is that it is drawn beginning from the fourth square. 
 
-[^275]: Read khandacandradvayarn for khandacakradvayaṁ.
+[^275]: Read khandacandradvayaṁ for khandacakradvayaṁ.
 
 *[p. 97]* ^pg115
 
@@ -1014,7 +1014,7 @@ After having drawn the sides in this way, he talks about the drawing of the midd
 सूत्रद्रयं प्रकुर्वीत मध्यभृद्गपरसिद्धये |
 
 tato dvitīyabhāgānte brahmanṇaḥ pārśvayor dvayoḥ ॥ 67 ॥
-dve rekhe pūrvage neye bhāgatryarnṁśaśame budhaiḥ |
+dve rekhe pūrvage neye bhāgatryaṁśaśame budhaiḥ |
 ekārdhendūrdhvakoṭisthaṁ brahmasūtrāgrasaṅgatam || 68 ॥
 sūtradvayaṁ prakurvīta madhyaśṛṁgaprasiddhaye | 
 
@@ -1038,7 +1038,7 @@ He now explains how the prongs on the (two) sides are drawn.
 वात् सूत्रमेकान्तर धृतम् ॥ ६९ ॥
 आदिद्वितीयखणडन्दुकोणात् कोणान्तमानयेत् ॥
 तयोरेवापराज्जीवात् म्रथमर्धुकोणतः ॥ ७०॥
-तद्रदेव नयेत्सूत्र शहद्वितयसिद्धये tadagrapārśvayor jīvāt sūtram ekāntare dhṛtam ॥ 69 II ādidvitīyakhaṇdendukoṇāt koṇāntam ānayet |
+तद्रदेव नयेत्सूत्र शहद्वितयसिद्धये tadagrapārśvayor jīvāt sūtram ekāntare dhṛtam ॥ 69 ॥ ādidvitīyakhaṇdendukoṇāt koṇāntam ānayet |
 tayor evāparāj jīvāt prathamārdhendukoṇataḥ || 70 ॥
 tadvad eva nayet sūtraṁ Śṛṅgadvitayasiddhaye | 
 
@@ -1072,7 +1072,7 @@ Having drawn the three prongs in this way in the front half of the field, (in or
 एककभागमानानि कटुयीट् वृत्तानि वेदवत् ॥ ७२ ॥
 
 ksetrārdhe cāpare dando dvikaraśchannapañcakaḥ ॥ 71 ॥
-sadvistṛtarn caturdīrghaṁ tadadho ‘malasārakam |
+sadvistṛtaṁ caturdīrghaṁ tadadho ‘malasārakam |
 vedāmgulari ca tadadho mūlaṁ tīkṣnāgram iṣyate ॥ 72 ॥
 ādikṣetrasya kurvīta dikṣu dvāracatuṣtayam |
 hastāyāmari tadardhaṁ tu vistārād api tatsamam || 73 ॥

@@ -20,7 +20,7 @@
 //   through Obsidian. A typo makes Templater show an error and leave the note empty; the previous version of this file is
 //   in .work/backup-orient-2026-10-21/Templates/ and in Sync's version history.
 // ================================================================================================================
-// Homily note. Applied to new notes in Writing/Homilies. A title like "2026-10-04 Proper 22A"
+// Homily note. Applied to new notes in Projects/Homilies. A title like "2026-10-04 Proper 22A"
 // picks the readings from the study plan (the feast of that day, if it has one); otherwise you choose from a list.
 // It also shows the collect of the day and the psalm as the Prayer Book prints it, when the lectionary note has them.
 // Changed 18 Oct 2026 (Holy Days): a date with a Holy Day of the Prayer Book (Calendar/Holy Days (BCP 1979)) takes the feast's collect and

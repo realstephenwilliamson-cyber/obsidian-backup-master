@@ -17,8 +17,7 @@ language:
   - English
 pages: 241
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Sauthoff - Illness and Immortality (2022).pdf]]"
   - "[[Library/Trika/Illness and Immortality (Sauthoff)/Illness and Immortality (Sauthoff)]]"

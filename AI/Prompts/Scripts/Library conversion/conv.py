@@ -1461,11 +1461,11 @@ def convert(job):
         a2, b2 = (nb_[0], nb_[-1]) if nb_ else (a, b)
         pr = f"{pnum[a2].split('–')[0]}–{pnum[b2].split('–')[-1]}" if a2 != b2 else f'{pnum[a2]}'
         fm = ['---', 'type: book-chapter', f'work: "[[{job["catalog"]}]]"', f'book: "[[{job["folder"]}/{job["index_name"]}|{job["index_name"]}]]"',
-              f'order: {ci + 1}', f'source_pdf: "{job["pdf_vault"]}"', f'pages: "{_yq(pr)}"', f'pdf_pages: "{a + 1}–{b + 1}"',
+              f'order: {ci + 1}', f'source_pdf: "{job["pdf_vault"]}"', f'page_range: "{_yq(pr)}"', f'pdf_pages: "{a + 1}–{b + 1}"',
               f'text_source: "{job["text_source"]}"', f'converted: {today}', '---', '']
         if job.get('single'):
             fm1 = ['---', f'type: {job.get("ctype") or "article"}', f'title: "{job["title"]}"', f'author: {json.dumps(job["authors"], ensure_ascii=False)}',
-                   f'work: "[[{job["catalog"]}]]"', f'source_pdf: "{job["pdf_vault"]}"', f'pages: "{_yq(pr)}"', f'pdf_pages: "1–{N}"',
+                   f'work: "[[{job["catalog"]}]]"', f'source_pdf: "{job["pdf_vault"]}"', f'page_range: "{_yq(pr)}"', f'pdf_pages: "1–{N}"',
                    f'text_source: "{job["text_source"]}"', f'converted: {today}', '---',
                    f'# {job["title"]}', '', job.get('byline', ''), '',
                    f'Converted from the PDF on {datetime.date.fromisoformat(today).strftime("%-d %b %Y")}. Each PDF page starts with `*[p. N]*`, the printed page number (or the PDF page where none is printed), ending in the block id `^pgK` for PDF page K. The PDF stays on the computer: open it from [[{job["catalog"]}|the catalog note]].', ''] + ([job['callout'], ''] if job.get('callout') else [])

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 46
 verses: 12
-page_range:
-  - 649
-  - 650
+page_range: "649–650"
 aliases:
   - "BCP Psalm 46"
   - "BCP 649"
@@ -55,7 +53,7 @@ what awesome things he has done on earth. ^46-9
 he breaks the bow, and shatters the spear,  
 and burns the shields with fire. ^46-10
 
-[p. 650]
+[p. 650] ^pg650
 
 **46:11** "Be still, then, and know that I am God; \*  
 I will be exalted among the nations;  

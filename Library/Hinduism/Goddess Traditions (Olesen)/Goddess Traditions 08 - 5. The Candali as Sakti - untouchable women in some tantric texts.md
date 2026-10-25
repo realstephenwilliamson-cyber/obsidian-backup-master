@@ -6,7 +6,7 @@ page_range: 96–108
 aliases:
   - Goddess Traditions 08 - 5. The Cāṇḍālī as Śakti - untouchable women in some tantric texts
 ---
-[p. 96]
+[p. 96] ^pg96
 
 # 5 The Cāṇḍālī as Śakti
 
@@ -120,7 +120,7 @@ Untouchability has here been illustrated by texts in which the meaning of touch 
 
 All three texts assume a two-levelled world. On the surface there is the world of the respectable life according to the expectations of family and class. Here kinship is the leading principle, and sexuality is seen in the context of preserving and protecting the family line. Accordingly, there are good wombs and bad wombs, and Untouchability preserves this distinction. The foul *yoni* of the Cāṇḍālī in the *Chāndogyaupaniṣad* is the womb of a mother. But there is another secret level where sexuality is free from associations with mothers, children and family obligations. This is the level of King Śūdraka’s dreams of lovemaking with the beautiful, unspoiled Caṇḍāla woman, and this is the level of the Siddhas’ experiments with sexual energy and transcendent states of consciousness. Rejecting the values of family and social hierarchy while insisting on enjoyment means that relations are turned upside down. Seen from this level, observance of Untouchability rules represents the unripe, unenlightened state of the public social world. At the same time it preserves the unspoiled *śakti*, which is embodied by young, untouchable and ever childless women, whose *yoni* becomes at once the source of sexual joy and, allegedly, the opening to blissful states of consciousness beyond any contact with the world of sense experience.
 
-[p. 106]
+[p. 106] ^pg106
 
 ## References
 

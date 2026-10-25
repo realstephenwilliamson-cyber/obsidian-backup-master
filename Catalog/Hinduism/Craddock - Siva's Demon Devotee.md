@@ -17,8 +17,7 @@ language:
   - English
 pages: 207
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Craddock - Siva's Demon Devotee (2010).pdf]]"
 aliases:

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 56
 verses: 12
-page_range:
-  - 663
-  - 663
+page_range: "663"
 aliases:
   - "BCP Psalm 56"
   - "BCP 663"
@@ -39,7 +37,7 @@ for what can flesh do to me? ^56-4
 **56:5** All day long they damage my cause; \*  
 their only thought is to do me evil. ^56-5
 
-[p. 663]
+[p. 663] ^pg663
 
 **56:6** They band together; they lie in wait; \*  
 they spy upon my footsteps;  

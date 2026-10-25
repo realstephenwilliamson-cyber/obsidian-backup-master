@@ -4,7 +4,7 @@ book: "[[Tantric Mantras (Padoux)]]"
 order: 11
 page_range: "160–164"
 ---
-[p. 160]
+[p. 160] ^pg160
 
 # Index of Sanskrit terms
 

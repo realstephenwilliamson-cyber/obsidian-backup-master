@@ -5,9 +5,7 @@ section: "Proper Liturgies for Special Days"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/SpecialDays/thursday.html"
-page_range:
-  - 274
-  - 275
+page_range: "274–275"
 aliases:
   - "BCP 274"
   - "BCP 275"
@@ -16,7 +14,7 @@ aliases:
 
 [[BCP 1979]] · *Proper Liturgies for Special Days* · pages 274–275
 
-[p. 274]
+[p. 274] ^pg274
 
 ## Maundy Thursday
 
@@ -32,7 +30,7 @@ Old Testament [[Torah 15 - Bo#^12-1|Exodus 12:1-14a]] *Psalm* 78:14-20, 23-25 *E
 
 The Lord Jesus, after he had supped with his disciples and had washed their feet, said to them, "Do you know what I, your Lord and Master, have done to you? I have given you an example, that you should do as I have done."
 
-[p. 275]
+[p. 275] ^pg275
 
 *Peace is my last gift to you, my own peace I now leave with you; peace which the world cannot give, I give to you.*
 

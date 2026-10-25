@@ -5,9 +5,7 @@ section: "Pastoral Offices"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/PastoralOffices/adddirectmarriage.html"
-page_range:
-  - 437
-  - 438
+page_range: "437–438"
 aliases:
   - "BCP 437"
   - "BCP 438"
@@ -16,7 +14,7 @@ aliases:
 
 [[BCP 1979]] · *Pastoral Offices* · pages 437–438
 
-[p. 437]
+[p. 437] ^pg437
 
 ## Additional Directions
 
@@ -44,6 +42,6 @@ The Apostles' Creed may be recited after the Lessons, or after the homily, if th
 
 When desired, some other suitable symbol of the vows may be used in place of the ring.
 
-[p. 438]
+[p. 438] ^pg438
 
 At the Offertory, it is desirable that the bread and wine be presented to the ministers by the newly married persons. They may then remain before the Lord's Table and receive Holy Communion before other members of the congregation.

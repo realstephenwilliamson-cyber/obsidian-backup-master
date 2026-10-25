@@ -17,8 +17,7 @@ language:
   - English
 pages: 90
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[CantxFA_washington_0250O_14690.pdf]]"
   - "[[Library/Other/Theurgy of the Snake (Cantu)/Theurgy of the Snake (Cantu)]]"

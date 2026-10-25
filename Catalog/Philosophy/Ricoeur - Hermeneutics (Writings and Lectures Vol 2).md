@@ -18,8 +18,7 @@ language:
   - English
 pages: 201
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Ricoeur - Hermeneutics, Writings and Lectures 2 (2013).pdf]]"
   - "[[Library/Philosophy/Hermeneutics - Writings and Lectures, Volume 2 (Ricoeur)/Hermeneutics - Writings and Lectures, Volume 2 (Ricoeur)]]"

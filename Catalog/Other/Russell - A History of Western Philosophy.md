@@ -18,8 +18,7 @@ language:
   - English
 pages: 955
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[Bertrand Russell - A History of Western Philosophy-Touchstone (1967).pdf]]"
   - "[[Library/Other/A History of Western Philosophy (Russell)/A History of Western Philosophy (Russell)]]"

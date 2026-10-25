@@ -17,8 +17,7 @@ language:
   - English
 pages: 273
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The Sanskrit Hero_ Karna in Epic Mahabharata-Brill Academic Publishers (2004).pdf]]"
 aliases:

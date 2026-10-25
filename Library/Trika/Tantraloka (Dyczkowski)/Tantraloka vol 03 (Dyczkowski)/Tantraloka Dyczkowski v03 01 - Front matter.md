@@ -92,13 +92,13 @@ While Swami Laksmaṇajoo was a great master of inner, yogic practice, in Nepal 
 
 Pt. Vrajavallabha Dvivedi, former head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University, was an abiding source of inexhaustible knowledge. Indeed, his scholarly work, both in Sanskrit and Hindi, is formidable — ranging as it does through virtually every major Tantric tradition including not only Kashmiri Śaivism, but also Śaiva Siddhānta, Vīra Śaivism, Śrīvidyā, the Kaula Tantras, Vaiṣṇava Pañcarātra, the Buddhist Anuttarayoga Tantras and even Jain Tantrism. 
 
-In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstrī, former Director of the Research Department of Saṁpūrnānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
+In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstrī, former Director of the Research Department of Saṁpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
 
 Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bharṭṁari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nātyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of 
 
 *[PDF 7]* ^pg7
 
-the Music Faculty of BHU and President of the Sangit Nataka Academy. There are many other renowned scholars in \[illegible\] whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was a scholar and initiate in line of Bhāskara Rāya, the great 18\* century 
+the Music Faculty of BHU and President of the Sangit Nataka Academy. There are many other renowned scholars in Kāśī whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was a scholar and initiate in line of Bhāskara Rāya, the great 18\* century 
 
 exponent of Śrīvidyā. 
 

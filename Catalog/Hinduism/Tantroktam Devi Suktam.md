@@ -17,8 +17,7 @@ language:
   - English
 pages: 4
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[TantroktamDeviSuktam.pdf]]"
 aliases:

@@ -39,11 +39,11 @@ trīṇi dṛgabdhiś candraḥ
 śrutiḥ Śaśsī pañca vidhumahaścandrāḥ ॥ 216 ॥
 ekānnaviṁśatau syād 
 
-akṣarasaṁkhyā padeṣv iyarn devyāḥ |
+akṣarasaṁkhyā padeṣv iyaṁ devyāḥ |
 haldvayayutavasucitragu- 
 
 parisaikhyātasvavarnāyāḥ ॥ 217 ॥
-mūlāntar sārdhavarṇari \[illegible\] māyāntaṁ varnam ekakam |
+mūlāntar sārdhavarṇari syān māyāntaṁ varnam ekakam |
 saktyantam ekam aparānyāse vidhir udīritaḥ ॥ 218 ॥
 māyāntaṁ hal tataḥ śaktiparyante svara ucyate |
 niṣkale śivatattve vai paro nyāsaḥ paroditaḥ ॥ 219 ॥
@@ -78,7 +78,7 @@ The mantras of the two groups of eight beginning with Aghorī are the same as th
 पिण्डानां बीजवत्यासमन्ये तु प्रतिपेदिरे ॥ २२२ ॥
 
 pindākṣarānāri sarveṣāṁn varnasaikhyāvibhedataḥ |
-avyaktāntari svare nyasyarn Śeṣaṁ Śeṣeṣu yojayet || 221 Il bījāni sarvatattveṣu vyāptṛtvena prakalpayet |
+avyaktāntari svare nyasyaṁ Śeṣaṁ Śeṣeṣu yojayet || 221 || bījāni sarvatattveṣu vyāptṛtvena prakalpayet |
 pindānār bījavannyāsamanye tu pratipedire \\\\ 222 ॥ 
 
 (All the principles) up to Nature should be deposited? into the vowel of any of the phonemes of a Pinda (mantra formed from groups of phonemes). In accord with (their) differing numbers of phonemes,” the remaining (set of principles from the individual soul onwards) should be conjoined within the remaining (phonemes). (221) (221cd-222ab) 
@@ -138,7 +138,7 @@ The three Eggs (that extend up to the end of Māyā) are pervaded by the letter 
 The Projection of the Purifying Mantras अकृते वाऽथ शोध्यस्य न्यासे वस्तुबलात् स्थितेः ।
 शोधकन्यासमात्रेण सर्वं शोध्य विशुध्यति ॥ २२३ ॥
 akṛte vā ‘tha śodhyasya nyāse vastubalāt sthiteḥ |
-sodhakanyāsamātrenṇa sarvarn Śodhyaṁ viśudhyati ॥ 223 ॥ 
+sodhakanyāsamātrenṇa sarvaṁ Śodhyaṁ viśudhyati ॥ 223 ॥ 
 
 (In some cases,) even though the object of purification has not been deposited (on the disciple’s body), all that needs to be purified is completely 
 
@@ -200,7 +200,7 @@ The Deposition of Parāparā and the other Two Goddesses
 *[p. 98]* ^pg118
 
 dehaśuddhyartham apy etat tulyam etena vastutaḥ |
-anyaprakaranoktarn yad yuktarn prakaranāntare ॥ 225 ॥
+anyaprakaranoktaṁ yad yuktaṁ prakaranāntare ॥ 225 ॥
 jñāpakatvena sākṣād vā tat ki nānyatra gṛhyate |
 mālinīmātṛkāṁgasya nyāso yo ‘rcāvidhau purā ॥ 226 ॥
 proktaḥ kevalasaśoddhṛmantranyāse sa eva tu |
@@ -321,7 +321,7 @@ He says that.
 ्रादशांगृलमन्यच्च ्रेऽ्ये पञ्चांग पृथक् ।
 पदद्रयं चतुष्र्वं तथान्ये द्व द्विपर्वणी ॥ २३५ ॥
 
-\[illegible\] dvyamgularn jñeyaṁ tatra pūrvaṁ padatrayam || 233 ||
+\[illegible\] dvyamgulaṁ jñeyaṁ tatra pūrvaṁ padatrayam || 233 ||
 aṣṭāmgulāni catvāri daśāmigulam ataḥ param |
 dvyaigule” dve pade cānye ṣadamgulam ataḥ param ॥ 234 ॥
 dvādaśāmṁgulam anyac ca dve ‘nye pañcārigule pṛthak |
@@ -390,7 +390,7 @@ Surely (one may ask), why has the deposition of the (other) two goddesses not be
 
 विद्याद्य शिष्यतनौ व्याप्तृत्वेनैव योजयेत् । २३६ ॥
 इति दर्शयितुं नास्य पृथङ्ज्यासं न्यरूपयत् vidyādvayaṁ Śiṣyatanau vyāptṛtvenaiva yojayet ॥ 236 ॥
-iti darsayiturn nāsya pṛthaṁ nyāsami nyarūpayat | 
+iti darsayituṁ nāsya pṛthaṁ nyāsami nyarūpayat | 
 
 The other two vidyās' should by conjoined to the body of the disciple, as (the consciousness that) pervades (it). In order to teach this, (the Lord) has not explained (their) deposition separately. (236cd-237ab) (237) 
 
@@ -404,7 +404,7 @@ Surely (one may ask), what is the use of (having) two kinds of deposition of the
 पाशजालं विलीयेत तट् ध्यानबलतो गुरोः ।
 शोध्यत समस्तानां योनीनां तुल्यकालतः || २३८ ॥
 जननाद्धोगतः कर्मक्षये स्यादपवृक्तता ।
-evar śodhakamantrasya nyāse tadraśmiyogataḥ ॥ 237 Il 
+evar śodhakamantrasya nyāse tadraśmiyogataḥ ॥ 237 ॥ 
 
 280\. According to this version, which Jayaratha notes and rejects, the spatial divisions of the body corresponding to the Parts of the Parāparā Vidyā are as follows: 4 +4 +4 +2 + 2 \[8 +8 +8 +8 + 10\]}+2+2+6+12+34+7+ 4+ 2 = 96 fingers in 18 divisions. The Vidyā of Parāparā consists of nineteen Parts. However, the Parts deployed are 18, as the nineteenth is pervasive.
 
@@ -452,7 +452,7 @@ Here (according to us), the ‘individual soul’ is the contracted Self. Its ma
 
 *[p. 105]* ^pg125
 
-Mantras (mantrabala). They all exist simultaneously, each fashioned by the variety of its own particular Karma, and so although (the one individual soul) experiences the consequences (of all its Karma thereby), it does not have a clear mental perception of (this) ‘diversity’, that is, pluriform (experience,) that connects it together. The meaning is that he has no knowledge \[illegible\] that may arise of the sort “I am (the same one) who is experiencing in another body as I am in this one”. An example (of the same ignorance is found) here itself (in common experience). It is ‘as happens with (with the common experience of) the conjunction and separation with all things’. The Self is (all) pervasive, and so there is no perception of a connection (with it) in the unions and separations (that take place) ‘with all things’, that is, the mass of (objective) phenomena (bhāvavrata), such that (it experiences that) “I am conjoined with this and am separate from this (other thing) ”. Just as that is so (in everyday experience), so it is in this case also. 
+Mantras (mantrabala). They all exist simultaneously, each fashioned by the variety of its own particular Karma, and so although (the one individual soul) experiences the consequences (of all its Karma thereby), it does not have a clear mental perception of (this) ‘diversity’, that is, pluriform (experience,) that connects it together. The meaning is that he has no knowledge (jñāna) that may arise of the sort “I am (the same one) who is experiencing in another body as I am in this one”. An example (of the same ignorance is found) here itself (in common experience). It is ‘as happens with (with the common experience of) the conjunction and separation with all things’. The Self is (all) pervasive, and so there is no perception of a connection (with it) in the unions and separations (that take place) ‘with all things’, that is, the mass of (objective) phenomena (bhāvavrata), such that (it experiences that) “I am conjoined with this and am separate from this (other thing) ”. Just as that is so (in everyday experience), so it is in this case also. 
 
 Surely (one may object that) this example is not proved (to be correct), for (the Self is all) pervasive and so there should be (some) perception there (in that case) also that connects (the individual perceiver and objectivity together) (anusandhi). With this doubt in mind, he says: 
 
@@ -461,7 +461,7 @@ Surely (one may object that) this example is not proved (to be correct), for (th
 नियत्या मनसो देहमात्रे वृत्तिस्ततः परम् ॥ object.[^287] ॥
 नानुसन्धा यतः सैकस्वान्तयुक्ताक्षकल्पिता ।
 
-niyatyā manaso dehamātre vṛttis tataḥ param ॥ 240 I|
+niyatyā manaso dehamātre vṛttis tataḥ param ॥ 240 ॥
 nānusandhā yataḥ saikasvāntayuktākṣakalpitā | 
 
 The activity of the mind (manas) necessarily takes place only in the body, not beyond it, for the perception that conjoins (sensations) (anusandhā) is mentally conceived (kalpitā)[^286] by means of the one organ of sense that is inwardly conjoined with its own (mind and outwardly with its own object). (240cd-241ab) (241) 
@@ -500,7 +500,7 @@ Surely (one may ask), if that is so, how can the perception that yogis possess a
 यदा तु मनसस्तस्य देहवृत्तेरपि ध्रुवम् ॥ २४२ ॥
 योगमचक्रियादेः स्याद्रैमल्यं तद्विदा तदा ।
 
-yadā tu manasas tasya dehavṛtter api dhruvam I| 242 ||
+yadā tu manasas tasya dehavṛtter api dhruvam || 242 ||
 yogamantrakriyādeḥ syād vaimalyaṁ tadvidā tadā | 
 
 Even though its activity is corporeal, if the mind possesses the purity (and clarity) brought about by (the practice of) yoga, mantras, and ritual etc., then it certainly has the knowledge of that (which is beyond the senses). (242cd-243ab) (243) 
@@ -533,7 +533,7 @@ tadāsmād uddharāmīti yuktam ūhaprakalpanam |
 yadā śodhyaṁ vinā śoddhṛnyāsas tatrāpi mantrataḥ || 245 ॥
 jananādikramam kuryāt tattvasaṁśleṣavarjitam |
 ekākiśoddhṛnyāse ca jananādivivarjane ॥ 246 ॥
-tacchoddhrsańnputa nāma kevalarn parikalpayet | 
+tacchoddhrsańnputa nāma kevalaṁ parikalpayet | 
 
 Just as a (completely) pure (clear) mind quickly (and effortlessly) sees a distant (object), in the same way (the initiand has) a vision of each world in the course of the initiation of firm conviction (pratyayadīkṣā). (243cd-244ab) (244) 
 
@@ -659,7 +659,7 @@ The Supreme Lord has said that in the venerable Sāraśāstra: ‘(The initial i
 
 The initial (raw) ‘perception’ is (the immediate) viewing of an entity. It consists 
 
-of (just) the awareness of it (which, as yet undefined and unidentified,) is like pointing to (one’s own) head with a finger. It is (the one consciousness which is both) ‘the object and the perceiver’, and is devoid of discursive ideation by (its very) nature (avikalpaka-svabhāvā). This same (initial perception) is the power which is the very being \[illegible\] of all Mantras. It is (constantly) being uttered as (the power) that is inwardly hidden within the one nature of the perceiver. This is the meaning. 
+of (just) the awareness of it (which, as yet undefined and unidentified,) is like pointing to (one’s own) head with a finger. It is (the one consciousness which is both) ‘the object and the perceiver’, and is devoid of discursive ideation by (its very) nature (avikalpaka-svabhāvā). This same (initial perception) is the power which is the very being (sattā) of all Mantras. It is (constantly) being uttered as (the power) that is inwardly hidden within the one nature of the perceiver. This is the meaning. 
 
 And this is taught in this way by Him (the Lord Himself). Accordingly, he says: 
 
@@ -755,7 +755,7 @@ the sense (of what he is saying). Here (in response to this objection,) one shou
 पूर्वूर्वक्रमादित्थं य एवादिगुोः पुरा ।
 सञ्जल्पो हयभिसंक्रान्तः सोऽद्याप्यस्तीति गृह्यताम् ।। २५९ ॥
 
-pūrvapūrvakramād ittharn ya evādiguroḥ purā |
+pūrvapūrvakramād itthaṁ ya evādiguroḥ purā |
 sañjalpo hy abhisakrāntaḥ so ‘dyāpy astīti gṁyatām ॥ 259 ॥ 
 
 The initial discourse (sañjalpa) (that constitutes the teaching originated) from the first teacher. By being successively transmitted in this way in all respects from each preceding (teacher to the next, it has come down to us and) exists today also (as it did in the past). Thus, you should accept (this view to be the correct one). (259) (259cd-260ab) 
@@ -864,7 +864,7 @@ yac cāpi bījapi
 ler uktan prāg bodharūpakam |
 tat tasyaiva kuto ‘nyasya tat kasmād anyakalpanā ॥ 266 ॥ 
 
-Thus, (the Lord) has adopted Mantra (as a means to realization), observing that the notion (vikalpana) that arises from the special words (sounds) (śabda) and meanings of mantras is different from the one that arises from other (common) words (śabda). Moreover, the form of (noetic) consciousness (bodha) mentioned earlier of seed-syllables \[illegible\] and syllabic groups (pinda) etc. (of Mantra) pertains to that alone, so how could it be that of (any) other (common word)? How could that be a notion (that is derived) from something else?[^300] (265-266) (265cd-267ab) 
+Thus, (the Lord) has adopted Mantra (as a means to realization), observing that the notion (vikalpana) that arises from the special words (sounds) (śabda) and meanings of mantras is different from the one that arises from other (common) words (śabda). Moreover, the form of (noetic) consciousness (bodha) mentioned earlier of seed-syllables (bīja) and syllabic groups (pinda) etc. (of Mantra) pertains to that alone, so how could it be that of (any) other (common word)? How could that be a notion (that is derived) from something else?[^300] (265-266) (265cd-267ab) 
 
 #### Viveka on 16.265–267
 
@@ -900,8 +900,8 @@ A True Teacher is a Master of Mantra
 एतदर्थ गुरोर्यत्नाल्लक्षणे तत्र तत्र तत् ।
 लक्षणं कथितं ह्येष मत्रतच्रविशारटः (apoha).[^304] ६७ ॥।
 
-etadartharn guror yatnāl lakṣanṇe tatra tatra tat |
-lakṣaṇari kathitarn hy eṣa mantratantraviśāradaḥ ॥ 267 ॥ 
+etadarthaṁ guror yatnāl lakṣanṇe tatra tatra tat |
+lakṣaṇari kathitaṁ hy eṣa mantratantraviśāradaḥ ॥ 267 ॥ 
 
 It is for this reason that when (scriptures define) the characteristics of a (true) teacher, (this one) characteristic is stated with (insistent) effort (yatnāt) in various places, namely, that he is an expert in Mantras and their application (mantratantraviśārada). (267) (267cd-268ab) 
 
@@ -944,7 +944,7 @@ Thus, he says:
 ### TĀ 16.268–270
 
 तदभ्यासात्तत्सङ्धल्यमयो ह्यसौ ॥ २६९ ॥
-\[illegible\] tładabhyāsāt tatsaṁkalpamayo hy asau ॥ 269 II 
+\[illegible\] tładabhyāsāt tatsaṁkalpamayo hy asau ॥ 269 ॥ 
 
 By virtue of (his assiduous) practice (abhyāsa) of that, (the teacher) is identified with the intention (that initiates its use) (tatsankalpa). (268cd-270ab) 
 
@@ -1087,14 +1087,14 @@ A lover, who is beautiful with (the delight of) discourse and (joyful) union wit
 
 Surely (one may ask), even if there is no desire for the discourse of Mantra, how is it that (his discourse) manifests as being of that nature? With this doubt in mind, he says: 
 
-[^308]: Read kiiḥ na syāt for kirn syāt.
+[^308]: Read kiiḥ na syāt for kiṁ syāt.
 
 *[p. 124]* ^pg144
 
 ### TĀ 16.278
 
 विकल्पयन्नप्येकार्थं यतोऽन्यदपि पश्यति ।। २७७ । ||
-vikalpayann apy \[illegible\] yato ‘nyad api paśyati ॥ 277 Il 
+vikalpayann apy \[illegible\] yato ‘nyad api paśyati ॥ 277 ॥ 
 
 This is because, even though (a person may be engaged) in thinking one thing, he also sees (something) else (at the same time). (277cd) (278ab) 
 
@@ -1107,7 +1107,7 @@ He supports this (view) with the words of scripture.
 ### TĀ 16.278 (2)
 
 विषापहारिमन््रादीत्युक्त श्रीपूर्वशासने ।
-viṣāpahārimantrādīty uktarn Śrīpūrvaśāsane | 
+viṣāpahārimantrādīty uktaṁ Śrīpūrvaśāsane | 
 
 It is said in the Mālinīvijayottara (śŚrīpūrvaśāsana): ‘(Armed with) the mantras and the rest that counter poison and what follows. (278ab) (278cd) 
 
@@ -1176,7 +1176,7 @@ Surely (one may ask), how can the reality which is the object of meditation be e
 वस्त्वेव भावयत्येष न सञ्जल्पमिमं पुनः ॥ २८० ॥
 गृहणाति भासनोपायं भाते तत्र तु तेन किम् ।
 
-vastv eva bhāvayaty eṣa na sañjalpam \[illegible\] punaḥ ॥ 280 II gṁnāti bhāsanopāyaṁ bhāte tatra tu tena kim | 
+vastv eva bhāvayaty eṣa na sañjalpam \[illegible\] punaḥ ॥ 280 ॥ gṁnāti bhāsanopāyaṁ bhāte tatra tu tena kim | 
 
 One contemplates (bhāvayati) a real entity (vastu eva), not (just) discourse. This (discourse) is taken up (as) a means to make (that reality) manifest (bhāsanopāya). Once it has manifested, then what use is it there (in that case)? (280cd-281ab) (281) 
 
@@ -1189,7 +1189,7 @@ Surely (one may ask), if this is so, what use is it for him to take up (the teac
 एवं सञ्जल्पनिहीसे सुपरिस्फुटतात्मकम् ॥ २८१ ॥
 अकृत्रिमविम्शात्म सफुेद्रस्त्वविकल्पकम् ।
 
-evar sañjalpaniṁrāse suparisphutatātmakam ॥ 281 II akṛtrimavimarśātma sphured vastv avikalpakam | 
+evar sañjalpaniṁrāse suparisphutatātmakam ॥ 281 ॥ akṛtrimavimarśātma sphured vastv avikalpakam | 
 
 As (the inner) discourse (of thought) decreases in this way, reality (vastu) manifests 
 
@@ -1216,7 +1216,7 @@ What consciousness free of thought constructs sees clearly as it is, that is ind
 
 #### Viveka on 16.283
 
-(Such is the nature of) ‘outer reality also’, that is, its being \[illegible\] on which it is dependent. This is the meaning. 
+(Such is the nature of) ‘outer reality also’, that is, its being (sattā), on which it is dependent. This is the meaning. 
 
 The teacher who is one with Śiva (not only perceives universal Being by his reflective awareness free of thought constructs, he also) conceives (the nature of things) just as they are in particular (by means of his thought constructs). Thus he says: 
 
@@ -1248,7 +1248,7 @@ Surely, (one may object that,) even so, according to us that is logically correc
 विकल्पेऽपि गुरोः सम्यगभित्रशिवताजुषः ॥ २८४ ॥
 अविकल्पकपर्यन्तपरीक्षा नोपयुज्यते ।
 
-vikalpe ‘pi guroḥ samyagabhinnaśivatājuṣaḥ ॥ 284 Il avikalpakaparyantaparīkṣā nopayujyate | 
+vikalpe ‘pi guroḥ samyagabhinnaśivatājuṣaḥ ॥ 284 ॥ avikalpakaparyantaparīkṣā nopayujyate | 
 
 Even if a teacher who is an authentic state of identity with Śiva is engaged in thought, it is not necessary (nor proper) to examine” whether he is ultimately free of thought constructs. (284cd-285ab) (285) 
 
@@ -1266,7 +1266,7 @@ Mantra Deity Close to Consciousness
 महासंवित्समासन्नेत्युक्तं श्रीगमशासने ।
 
 tadvimarśasvabhāvā hi sā vācyā mantradevatā ॥ 285 ॥
-mahāsaṁvitsamāsannety uktarn Śrīgamaśāsane | 
+mahāsaṁvitsamāsannety uktaṁ Śrīgamaśāsane | 
 
 The Mantra deity expressed (by the Mantra) (vāycā) is the reflective awareness (vimarśa) of that (individual non-conceptual consciousness,) which is very close to the (one) Great Consciousness. (Thus) it is said in the venerable Gamaśāsana ~ (285cd-286ab) (286) 
 
@@ -1312,7 +1312,7 @@ Moreover, that is also said in our scripture. Thus, he says:
 उक्ताभिप्रायगर्भ तदुक्तं श्रीमालिनीमते || २८७ ॥
 मन्राणां लक्षणं कस्मादित्यक्ते मुनिभिः किल ।
 
-uktābhiprāyagarbhaṁ tad uktarn śrīmālinīmate ॥ 287 ॥
+uktābhiprāyagarbhaṁ tad uktaṁ śrīmālinīmate ॥ 287 ॥
 mantrāṇāṁ lakṣaṇaṁ kasmād ity ukte munibhiḥ kila | 
 
 What is said in the venerable Mālinīmata has the (same) intended sense as has (just) been stated (here), as when the sages asked (Kumāra), “what is the purpose of (the defining) the characteristic feature of Mantras?” (287cd-288ab) (288) 
@@ -1368,7 +1368,7 @@ api mantrādhikāritvaṁ muktiśca śivadīkṣayā ॥ 292 ॥
 
 327?\. \[illegible\] Abhinava omits MV 4/5ab, perhaps because it was not found in his manuscript or was added later as a gloss. It reads: dvirūpam api taj jṁñānaṁ vinā jñātuṁ na śakyate | “It cannot be known in either of its two forms (as what should be accepted or rejected) without knowledge (jñāna).
 
-328?\. ‘concentration with seed’ — in Patañjali’s Yoga (YSū 1/46 ʻā eva sabījaḥ samādhiḥ). According to the Yogasūtrabhāṣya, the term denotes the four kinds of meditative attainments (5 ti) related to gross and subtle external objects (ibid. \[illegible\] catasraḥ samāpattayo bahirvastubījā iti samādhir api sabījaḥ).
+328?\. ‘concentration with seed’ — in Patañjali’s Yoga (YSū 1/46 ʻā eva sabījaḥ samādhiḥ). According to the Yogasūtrabhāṣya, the term denotes the four kinds of meditative attainments (5 ti) related to gross and subtle external objects (ibid. tāś catasraḥ samāpattayo bahirvastubījā iti samādhir api sabījaḥ).
 
 329?\. \[illegible\] See above note 1,1172 to TĀv ad 1/231cd-232ab (232).
 
@@ -1395,7 +1395,7 @@ mantram evāśrayen mūlaṁ nirvikalpāntam ādṛtaḥ ॥ 293 ॥
 mantrābhyāsena bhogan vā mokṣaṁ vāpi prasādhayan |
 tatrādhikāritālabdhyai dīkṣāṁ gṁnīta daiśikāt ॥ 294 ॥ 
 
-It is also stated with these (words) that, in order to achieve oneness with (ultimate) reality (tattvaika), the yogi must dedicate himself \[illegible\] to the root Mantra alone, and to be intent on this (until he attains) the final culmination (of its practice, which is a state of reflective awareness) free of (dichotomizing) thought constructs. He who, wishing to attain (any specific result), be it worldly benefit (bhoga) or even liberation, by the practice of Mantra, must first take initiation from a teacher in order to obtain the authority there (to access and practice Mantra).[^333] (293-294) (293cd-295ab) 
+It is also stated with these (words) that, in order to achieve oneness with (ultimate) reality (tattvaika), the yogi must dedicate himself (āśrayet) to the root Mantra alone, and to be intent on this (until he attains) the final culmination (of its practice, which is a state of reflective awareness) free of (dichotomizing) thought constructs. He who, wishing to attain (any specific result), be it worldly benefit (bhoga) or even liberation, by the practice of Mantra, must first take initiation from a teacher in order to obtain the authority there (to access and practice Mantra).[^333] (293-294) (293cd-295ab) 
 
 #### Viveka on 16.293–295
 
@@ -1417,7 +1417,7 @@ tat syād asyānyatattve ‘pi yuktasya guruṇā śiśoḥ ॥ 295 ॥
 
 ### TĀ 16.295–296
 
-Thus, even though the disciple may have been applied (yukta) by the teacher to (some) other principle \[illegible\] he can (nevertheless) accomplish every single thing (fat tat) there may be (in any of the principles) by the might (bala) of Mantra, knowledge and Yoga. (295) (295cd-296ab) 
+Thus, even though the disciple may have been applied (yukta) by the teacher to (some) other principle (tattva), he can (nevertheless) accomplish every single thing (fat tat) there may be (in any of the principles) by the might (bala) of Mantra, knowledge and Yoga. (295) (295cd-296ab) 
 
 #### Viveka on 16.295–296
 
@@ -1430,7 +1430,7 @@ Surely (one may ask), if (the disciple) is conjoined by the teacher to (some) ot
 दीक्षा हयस्योपयुज्येत संस्क्रियायां स संस्कृतः ।
 स्वबलेनैव भोगं वा मोक्षं वा लभते बुधः || २९६ ॥
 dīkṣā hy asyopayujyeta sarniskriyāyāṁ sa saṁskṛtaḥ |
-svabalenaiva bhogarn vā mokṣaṁ vā labhate budhaḥ ॥ 296 ॥ 
+svabalenaiva bhogaṁ vā mokṣaṁ vā labhate budhaḥ ॥ 296 ॥ 
 
 (The disciple’s) initiation should rightly serve to purify (him). (Once he is) purified (and empowered thereby), he, wise (as he is), obtains worldly benefits or (attains) liberation (as the case may be) by his own (inherent) strength (svabala) alone. (296) (296cd-297ab) 
 
@@ -1455,7 +1455,7 @@ Thus, although he has been purified?” in the course of initiation, there shoul
 tena vijñānayogādibalī prāk samayī bhavan |
 putrako vā na tāvān syād api tu svabalocitaḥ ॥ 297 ॥ 
 
-Thus, he who has the strength (in himself to sustain) insight \[illegible\] Yoga and the like, whether he is initially a regular (initiate) or a spiritual son, he should not (limit himself) to being this only, but rather to what is consonant with (his) own (inherent spiritual) strength. (297) (297cd- 298ab) 
+Thus, he who has the strength (in himself to sustain) insight (vijñāna), Yoga and the like, whether he is initially a regular (initiate) or a spiritual son, he should not (limit himself) to being this only, but rather to what is consonant with (his) own (inherent spiritual) strength. (297) (297cd- 298ab) 
 
 #### Viveka on 16.297–298
 
@@ -1504,8 +1504,8 @@ It was said before on the basis of (both) reasoning and scripture, that initiati
 सोऽपि यत्रैव युक्तः स्यात्तमयत्वं प्रपद्यते ।
 
 yas tu dīkṣākṛtām evāpekṣya yojanikāṁ 51441 |
-sphuṭībhūtyai tad ucitarn jñānaṁ yogam athāśritaḥ ॥ 300 ॥
-so ‘pi yatraiva yuktaḥ syāt tanmayatvarn prapadyate | 
+sphuṭībhūtyai tad ucitaṁ jñānaṁ yogam athāśritaḥ ॥ 300 ॥
+so ‘pi yatraiva yuktaḥ syāt tanmayatvaṁ prapadyate | 
 
 The disciple who is dependent on the conjunction (with a particular principle) brought about by initiation, relies on (the corresponding) insight and yoga appropriate to it in order to make it clearly evident. (Nonetheless,) wherever he has been conjoined (at whatever reality-level), he also attains a state of oneness (tanmayatva) (with it, and hence all levels). (300-301ab) (300cd-301) 
 
@@ -1536,7 +1536,7 @@ Purification of the Disciple’s Karma by Initiation
 
 duṣtānām eva sarveṣāṁ bhūtabhavyabhaviṣyatām |
 karmanārm śodhanaṁ \[illegible\] bubhukṣor na śubhātmanām ॥ 302 ॥
-yah punar laukikarn bhogaṁ rājyasvargādikaṁ śisuḥ |
+yah punar laukikaṁ bhogaṁ rājyasvargādikaṁ śisuḥ |
 tyaktvā lokottaraṁ bhogam īpsus tasya śubheṣv api | 303 ॥ 
 
 (Only) the bad actions (karman), past, present and future of one who desires worldly benefits should be purified, not the (good) auspicious ones. (However,) the good actions (should also be purified) in the case of a disciple who, on the contrary, having abandoned worldly benefits such as a kingdom, (residence) in heaven and the like, desires (only) other-worldly (lokottara) benefits. (302-303) (302cd-304ab) 
@@ -1558,7 +1558,7 @@ tatra dravyamayīmṛni dīkṣāṁ kurvann ājyatilādikaiḥ |
 
 *[p. 136]* ^pg156
 
-karmāsya śodhayāmīti juhuyād daiśikottamaḥ ॥ 304 Il jñānamayyāri tu dīkṣāyāṁ tadviśuddhyati sandhitaḥ |
+karmāsya śodhayāmīti juhuyād daiśikottamaḥ ॥ 304 ॥ jñānamayyāri tu dīkṣāyāṁ tadviśuddhyati sandhitaḥ |
 guroḥ svasaṁvidrūdhasya balāt tatprakṣayo bhavet İl 305 ॥
 yadāsyāśubhakarmāni śuddhāni syus tadā śubham |
 svatāratamyāśrayanād adhvamadhye prasūtidam ॥ 306 ॥ 

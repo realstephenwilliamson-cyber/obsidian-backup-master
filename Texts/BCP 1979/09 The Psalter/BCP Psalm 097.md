@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 97
 verses: 12
-page_range:
-  - 727
-  - 727
+page_range: "727"
 aliases:
   - "BCP Psalm 97"
   - "BCP 727"
@@ -29,7 +27,7 @@ let the multitude of the isles be glad. ^97-1
 **97:2** Clouds and darkness are round about him, \*  
 righteousness and justice are the foundations of his throne. ^97-2
 
-[p. 727]
+[p. 727] ^pg727
 
 **97:3** A fire goes before him \*  
 and burns up his enemies on every side. ^97-3

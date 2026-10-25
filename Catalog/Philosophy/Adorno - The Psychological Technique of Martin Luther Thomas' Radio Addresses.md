@@ -17,8 +17,7 @@ language:
   - English
 pages: 88
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Adorno - The Psychological Technique of Martin Luther Thomas' Radio Addresses (1975).pdf]]"
   - "[[Library/Philosophy/The Psychological Technique of Martin Luther Thomas' Radio (Adorno)/The Psychological Technique of Martin Luther Thomas' Radio (Adorno)]]"

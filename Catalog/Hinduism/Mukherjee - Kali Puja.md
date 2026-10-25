@@ -20,8 +20,7 @@ language:
   - English
 pages: 143
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Mukherjee, Bandyopadhyay - Kali Puja.pdf]]"
 aliases:

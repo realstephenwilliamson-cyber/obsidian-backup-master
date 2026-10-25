@@ -18,7 +18,7 @@ APPENDICES CHAPTER FOUR
 
 other, so as to present the brilliant doctrinal and literary value of these interesting texts in the perspective of a history of ideas. 
 
-First, we will examine the earliest form of the Krama system as it is found in the Jayadrathayāmala, and then in the Cincinīmatasārasamuccaya. The teachings of the latter are couched in the terminology and symbolism of the earliest form of the Krama as we find it in the Jayadrathayāmala, having advanced to some degree in the density and extent of use of the basic symbolic constructs originating in the former. From there we will move on to the first independent \[illegible\] Krama Tantras, of which the Kālīkulapañcaśatika is an example. I have chosen chapter five, from which Jayaratha draws the description of the thirteen Kālīs. The full chapter gives us an idea of the manner of their worship. 
+First, we will examine the earliest form of the Krama system as it is found in the Jayadrathayāmala, and then in the Cincinīmatasārasamuccaya. The teachings of the latter are couched in the terminology and symbolism of the earliest form of the Krama as we find it in the Jayadrathayāmala, having advanced to some degree in the density and extent of use of the basic symbolic constructs originating in the former. From there we will move on to the first independent Kālī Krama Tantras, of which the Kālīkulapañcaśatika is an example. I have chosen chapter five, from which Jayaratha draws the description of the thirteen Kālīs. The full chapter gives us an idea of the manner of their worship. 
 
 Having presented examples of scriptural Krama sources, we move on to the post-scriptural Krama. This begins with Śivānandanātha, who was three generations prior to Abhinavagupta. It is with him that what scholars commonly call the Krama system begins. While this is true in the sense that Śivānanda (alias Jñānanetra) did indeed initiate a new, more advanced development of the tradition, he was not absolutely the first to start it. This has been assumed largely because the earlier scriptural Krama sources have not been available or have been poorly studied. However, he is the single most important founder figure, who heads all the genealogies we have that are presented here in Appendix G. His Kālikāstotra has been translated in Appendix D. 
 
@@ -34,13 +34,13 @@ The Early Krama
 
 Introduction 
 
-The Jayadrathayāmala, from which the passage in Appendix A is drawn, is a long Tantra divided into four sections of six thousand verses called ‘ṣatkas’. These were most probably written separately over a period of time by more than one person. All the manuscripts we have are Nepalese. Unfortunately, mostly badly corrupt, the oldest is not earlier that the 16\* or 17" century. Sanderson reads a reference Jayaratha makes to his father’s and teacher’s teacher, Śṛṁgāra, son of Rājānaka DĀāśī, as suggesting that he taught this Tantra." Whether that is so or not, Jayaratha knew it well enough to quote from all four ṣatkas, whereas Abhinava only quotes from the fourth one. This may be because, although it seems unlikely, that this is the only one that existed in Abhinava’s day. Indeed, he never refers to the Jayadrathayāmala as such or by its honorific alias Tantrarājabhatṭāraka, as Jayaratha and the Tantra itself do.? He always calls it the Mādhavakula, which is the name by which it knows itself? Mādhava is a name of Viṣṇu. The goddess here is related to the 
+The Jayadrathayāmala, from which the passage in Appendix A is drawn, is a long Tantra divided into four sections of six thousand verses called ‘ṣatkas’. These were most probably written separately over a period of time by more than one person. All the manuscripts we have are Nepalese. Unfortunately, mostly badly corrupt, the oldest is not earlier that the 16\* or 17" century. Sanderson reads a reference Jayaratha makes to his father’s and teacher’s teacher, Śṛṁgāra, son of Rājānaka DĀāśī, as suggesting that he taught this Tantra." Whether that is so or not, Jayaratha knew it well enough to quote from all four ṣatkas, whereas Abhinava only quotes from the fourth one. This may be because, although it seems unlikely, that this is the only one that existed in Abhinava’s day. Indeed, he never refers to the Jayadrathayāmala as such or by its honorific alias Tantrarājabhaṭṭāraka, as Jayaratha and the Tantra itself do.? He always calls it the Mādhavakula, which is the name by which it knows itself? Mādhava is a name of Viṣṇu. The goddess here is related to the 
 
 1000?\. See note to verse 36 of Jayaratha’s biography of his family’s lineage at the end of his commentary. There Jayaratha says that he taught him the ‘rājatantra’. Rastogi has understood this to mean that he taught him political science. Sanderson instead sees a reference there to the Tantrarāja, which is another name for the Jayadrathayāmala. See note to that verse.
 
 1001?\. See the following note for an example.
 
-1002?\. Śṛnuṣva kathayiṣyāmi taṁtrarājasya madhyataḥ | 138a k) yathā tan mādhavakulari vaktavyarn maṁńdaropari (> mandalopari) ॥ 4 ॥ 117b kh) yathā ca tatra sā kālā (> kālī) tathā sarvańn bravīmi te | yo ‘sau śāntaḥ parākāśaḥ prapūrṇaḥ \[kh g: prapūrna\] sarvatomukhaḥ ॥ 5 ॥ nityaḥ sadasannirmuktaḥ \[kh g: -sanirmuktah \] kāranṇātītavigrahaḥ | ajo hy anantaḥ sarvajño vibhur dhātā śivo ‘vyayaḥ ॥ 6 ॥ akulaḥ \[g: akulas\] sarvato dikkaḥ paritaḥ sarvyavasthitaḥ | tasyodaram idaṁ vyaktaṁ \[g: vyaṁktai\] avibhedi prakāśabhāk ॥ 7 \\\\ nityānaṁdarasoddāmasvābhāsābharibhāsuraḥ \[kh: -ra\] | sa mādhaveti vijñeyaḥ \[g: -yo\] kuleśaḥ kulabhāskaraḥ ॥ 8 Il ‘Listen, I will tell (you) the Mādhavakula, that is in the middle of the Tantrarāja (as a part of it). It should be taught in the manner in which it is (venerated) on the mandala and because Kālī is present there. I will tell you everything. The Supreme Sky that is tranquil is completely full and omnipresent (sarvatomukha), eternal, free of being and nonbeing, its form beyond the (universal) cause. Unborn, endless, omniscient, and all-pervasive, it is the Benefactor, imperishable Śiva. He is Akula, who faces (and is located) everywhere. This manifest (universe) is his belly. Undivided, he possesses (great) light. He should be known to be Mādhava, the Lord of Kula, who is the Sun of Kula. Unborn, imperishable, tranquil, he generates emanation and brings about withdrawal. Greatly terrible and most excellent, he is the fierce Kulabhairava.” (4cd-9) The colophon of this chapter tells us that ‘it is called the Tantrācāranirnaya (the Teachings Concerning Right Tantric Conduct), belonging to the Kālīkula in the Jayarathayāmala’. iti jayadrathayāmale kālikule taṁitrācāranirṇayo \[illegible\] taritrācāra \* + \*?\] nāma \[g: ?\] ॥ 20 ॥ ) The entire chapter is quoted and translated in an Appendix to Chapter Twenty-nine of the Tantrāloka.
+1002?\. Śṛnuṣva kathayiṣyāmi taṁtrarājasya madhyataḥ | 138a k) yathā tan mādhavakulari vaktavyaṁ maṁńdaropari (> mandalopari) ॥ 4 ॥ 117b kh) yathā ca tatra sā kālā (> kālī) tathā sarvańn bravīmi te | yo ‘sau śāntaḥ parākāśaḥ prapūrṇaḥ \[kh g: prapūrna\] sarvatomukhaḥ ॥ 5 ॥ nityaḥ sadasannirmuktaḥ \[kh g: -sanirmuktah \] kāranṇātītavigrahaḥ | ajo hy anantaḥ sarvajño vibhur dhātā śivo ‘vyayaḥ ॥ 6 ॥ akulaḥ \[g: akulas\] sarvato dikkaḥ paritaḥ sarvyavasthitaḥ | tasyodaram idaṁ vyaktaṁ \[g: vyaṁktai\] avibhedi prakāśabhāk ॥ 7 \\\\ nityānaṁdarasoddāmasvābhāsābharibhāsuraḥ \[kh: -ra\] | sa mādhaveti vijñeyaḥ \[g: -yo\] kuleśaḥ kulabhāskaraḥ ॥ 8 Il ‘Listen, I will tell (you) the Mādhavakula, that is in the middle of the Tantrarāja (as a part of it). It should be taught in the manner in which it is (venerated) on the mandala and because Kālī is present there. I will tell you everything. The Supreme Sky that is tranquil is completely full and omnipresent (sarvatomukha), eternal, free of being and nonbeing, its form beyond the (universal) cause. Unborn, endless, omniscient, and all-pervasive, it is the Benefactor, imperishable Śiva. He is Akula, who faces (and is located) everywhere. This manifest (universe) is his belly. Undivided, he possesses (great) light. He should be known to be Mādhava, the Lord of Kula, who is the Sun of Kula. Unborn, imperishable, tranquil, he generates emanation and brings about withdrawal. Greatly terrible and most excellent, he is the fierce Kulabhairava.” (4cd-9) The colophon of this chapter tells us that ‘it is called the Tantrācāranirnaya (the Teachings Concerning Right Tantric Conduct), belonging to the Kālīkula in the Jayarathayāmala’. iti jayadrathayāmale kālikule taṁitrācāranirṇayo \[illegible\] taritrācāra \* + \*?\] nāma \[g: ?\] ॥ 20 ॥ ) The entire chapter is quoted and translated in an Appendix to Chapter Twenty-nine of the Tantrāloka.
 
 
 *[p. 388]* ^pg401
@@ -72,7 +72,7 @@ Krama teachings are central to Abhinava’s Kaulism, and the Mādhavakula was a 
 
 *[p. 390]* ^pg403
 
-but a corpus of texts is not meant. Rather the word ‘Āāgama’ there has the more literal sense of ‘what has come (from the past)’ as tradition. The frequent references to the teachings of the Kālīkrama as oral tradition (mukhāgama) may be understood to sustain this view. The Jayadrathayāmala, which, along with the Brahmayāmala, is the earliest known Tantra centred on Kālī and Her many forms, belongs to a class of Bhairava Tantras of the \[illegible\] called ‘Matayāmala’, which were the precursors of the Kaula Tantras. As the CMSS declares: ‘the knowledge in the teacher’s mouth is obtained within the Mata’. An important form of \[illegible\] of the Jayadrathayāmala is Mateśvarī, which supports the view that it was a Mata Tantra. This type of Bhairava Tantra stood at the threshold of the transition to Kula Tantras. As a precursor of them, it contains extensive passages concerning Kaula Kālī teachings. In this Appendix, one is translated in which initiation into the worship of these Kālīs is described. In the Appendices to Chapters Twelve and Twenty-nine, there are two more. The following Appendix contains a translation of a passage from the CMSS, which belongs to the same form of the early Kālīkrama as we find in the Jayadrathayāmala. 
+but a corpus of texts is not meant. Rather the word ‘Āāgama’ there has the more literal sense of ‘what has come (from the past)’ as tradition. The frequent references to the teachings of the Kālīkrama as oral tradition (mukhāgama) may be understood to sustain this view. The Jayadrathayāmala, which, along with the Brahmayāmala, is the earliest known Tantra centred on Kālī and Her many forms, belongs to a class of Bhairava Tantras of the \[illegible\] called ‘Matayāmala’, which were the precursors of the Kaula Tantras. As the CMSS declares: ‘the knowledge in the teacher’s mouth is obtained within the Mata’. An important form of Kālī of the Jayadrathayāmala is Mateśvarī, which supports the view that it was a Mata Tantra. This type of Bhairava Tantra stood at the threshold of the transition to Kula Tantras. As a precursor of them, it contains extensive passages concerning Kaula Kālī teachings. In this Appendix, one is translated in which initiation into the worship of these Kālīs is described. In the Appendices to Chapters Twelve and Twenty-nine, there are two more. The following Appendix contains a translation of a passage from the CMSS, which belongs to the same form of the early Kālīkrama as we find in the Jayadrathayāmala. 
 
 The term ‘krama’ has multiple meanings. In the most basic literal sense, the word ‘krama’ means a ‘sequence’. In the context of ritual procedure, a krama is a liturgy. It is the sequence in which deities are worshipped through the utterance of Mantras and the corresponding ritual actions that accompany them. In this perspective, the Kālī- or Kālikā- krama is simply the rite through which Kālī, her forms and associated deities, are worshipped. Similarly, ‘krama’ may also denote the sequence of teachers. As such, it is the gurukrama, that is, the lineage through which the teachings are transmitted. By extension, the krama is also what is transmitted. In this sense, a ‘krama’ is the school or tradition in eneral. Thus, the Kālīkrama is Kālī’s tradition, just as the Śrīkrama is the Śrīvidyā tradition, and Anuttaratrikakulakrama is Abhinava’s Trika school, as well as what they teach. The krama is not only the entire teaching; it may also be a particular teaching that is transmitted through it or other schools. The Kālīkrama existed in this less developed form before it became consolidated as an independent school with its own Tantras. 
 
@@ -178,7 +178,7 @@ is her body. If (the adept) is properly mounted there (on that plane), then that
 
 If the one who consumes the Fire of Time is within the foundation of the Fire of Time, he too, the Lord of the Heroes, swallows (all things,) and then that energy manifests. If (he is present) in the abode of the Moon that has flowed forth from the Thousand Phonemes, then that energy manifests within the wonderfully varied Skeleton of Time. If the one who is called Birth (jātināmā) (?), who destroys all things, and brings the Kula to an end, is well established in that supreme womb, then that energy manifests. In the same way, he whose universe arises and falls away (while) he is content and located within the Kula (of the Kālīs), (then) that energy, which is his, manifests.’ ” 
 
-1024?\. kālasamkarṣaṇīcakre ṣodaśenduvirājite \[gh?: ṣodaśaśaṁidu-\] I| 42 ॥ trayodaśārkasandīpte \[g: -pto\] vahnitrayasamanvite \[gh: -teh\] | bhāsure \[gh: tā-\] bhāsurādhāre \[all except g: -dhāro\] tyāgagrāsakramākulaḥ \[g: yāga- 1॥ 43॥ sthitikālikramārūdhaḥ \[all MSs: -dho\] sṛṣtidhāmni \[k: vṛṣtidhāmni; gh: -dhāsni\] vijrńbhate । avatīrṇas tathā \[all MSs except gh: avatīnirṇa-\] rūpas tadā vyajyati sā kalā ॥ 44 I| 219a gh) trāsahāsabhayasparśakrodhaśokagṁāntare | sānande ‘tha \[g: va\] nirānande vyaktas tiṣthati susthiraḥ \[g: suṣthiraḥ\] ॥ 45 ॥ yadā tadā \[k: sadā\] mahābhāge vyajyate sā parā kalā | yato jānāti yad vetti yena jānāti tadvapuḥ \[g: yadva-\] ॥ 46 ॥ 286a g) tatrārūdho yadā samyak \[illegible\] 17 sā kalā | janmāṁkurasamutthānaṁi \[kh gh: janmārmikula-; g: -na\] yāto \[gh: yato\] jātaṁ \[k: jānta\] pralīyate ॥ 47 ॥ yatra \[illegible\] \[k: patra yānti, g: yatra jāti\] ca tadrūdho yadā vyajyet tadā kalā | 227b) yadā (> tadā) bhāsākule \[gh: ?\] bhānau bhāsā bhānukulāntakaḥ \[g: sānu-\] (> - kā) ॥ 48 ॥ jvalajjvalanasaṁsthityā \[kh: -jvālana; g: -jvalana\] tadā vyajyati sā kalā | yadā kālānalādhāre \[k: -narā-\] kālavahniprabhakṣakaḥ ॥ 49 ॥ so ‘pi \[g: sāpi\] grasati vīrendras tadā vyajyati sā kalā | 184b kh) yadā candrakulāvāse \[kh gh: candakulā-; g: ca kundalā-\] sahasrārṇavisarpite \[gh: -tai\] 50 ॥ vicitrakālakaṁikāle \[k: -la\] tadā vyajyati sā kalā | yadā sarvakṣayaṁkaro jātināma kulāntakṛt || 51 ॥ tadgarbhaparame rūdhas tadā vyajyati sā evam eva jagad yasya kṣayam eti hy udeti \[g \_h: hyadeti\] ca ॥ 52 ॥ so nivṛtaḥ \[k: nivṛtā; kh: -tto; gh: tivṛntā\] kulāntastho tasya \[k: nasya; g: ta \*\] vyajyati sā kalā | JY 3/57/42cd-453ab This passage is drawn from a chapter called devīsvarūpanirūpaṇavidhiḥ — ‘the manner of describing the goddess’s essential nature’. The colophon reads: iti bhairavasrotasi \[g: nāsti; gh: bhaira \* srotasi\] vidyāpīthe \[g: nāsti\] śiracchede \[g: nāsti\] jayadrathayāmale mahātantre \[g: nāsti\] caturviṁśatisāhasre \[g: nāsti\] tṛtīyaṣatke devīsvarūpanirūpanṇavidhir nāma paṭalaḥ \[kh: + ॥ 57 |\] ॥
+1024?\. kālasamkarṣaṇīcakre ṣodaśenduvirājite \[gh?: ṣodaśaśaṁidu-\] ॥ 42 ॥ trayodaśārkasandīpte \[g: -pto\] vahnitrayasamanvite \[gh: -teh\] | bhāsure \[gh: tā-\] bhāsurādhāre \[all except g: -dhāro\] tyāgagrāsakramākulaḥ \[g: yāga- 1॥ 43॥ sthitikālikramārūdhaḥ \[all MSs: -dho\] sṛṣtidhāmni \[k: vṛṣtidhāmni; gh: -dhāsni\] vijrńbhate । avatīrṇas tathā \[all MSs except gh: avatīnirṇa-\] rūpas tadā vyajyati sā kalā ॥ 44 ॥ 219a gh) trāsahāsabhayasparśakrodhaśokagṁāntare | sānande ‘tha \[g: va\] nirānande vyaktas tiṣthati susthiraḥ \[g: suṣthiraḥ\] ॥ 45 ॥ yadā tadā \[k: sadā\] mahābhāge vyajyate sā parā kalā | yato jānāti yad vetti yena jānāti tadvapuḥ \[g: yadva-\] ॥ 46 ॥ 286a g) tatrārūdho yadā samyak tadā 17 sā kalā | janmāṁkurasamutthānaṁi \[kh gh: janmārmikula-; g: -na\] yāto \[gh: yato\] jātaṁ \[k: jānta\] pralīyate ॥ 47 ॥ yatra \[illegible\] \[k: patra yānti, g: yatra jāti\] ca tadrūdho yadā vyajyet tadā kalā | 227b) yadā (> tadā) bhāsākule \[gh: ?\] bhānau bhāsā bhānukulāntakaḥ \[g: sānu-\] (> - kā) ॥ 48 ॥ jvalajjvalanasaṁsthityā \[kh: -jvālana; g: -jvalana\] tadā vyajyati sā kalā | yadā kālānalādhāre \[k: -narā-\] kālavahniprabhakṣakaḥ ॥ 49 ॥ so ‘pi \[g: sāpi\] grasati vīrendras tadā vyajyati sā kalā | 184b kh) yadā candrakulāvāse \[kh gh: candakulā-; g: ca kundalā-\] sahasrārṇavisarpite \[gh: -tai\] 50 ॥ vicitrakālakaṁikāle \[k: -la\] tadā vyajyati sā kalā | yadā sarvakṣayaṁkaro jātināma kulāntakṛt || 51 ॥ tadgarbhaparame rūdhas tadā vyajyati sā evam eva jagad yasya kṣayam eti hy udeti \[g \_h: hyadeti\] ca ॥ 52 ॥ so nivṛtaḥ \[k: nivṛtā; kh: -tto; gh: tivṛntā\] kulāntastho tasya \[k: nasya; g: ta \*\] vyajyati sā kalā | JY 3/57/42cd-453ab This passage is drawn from a chapter called devīsvarūpanirūpaṇavidhiḥ — ‘the manner of describing the goddess’s essential nature’. The colophon reads: iti bhairavasrotasi \[g: nāsti; gh: bhaira \* srotasi\] vidyāpīthe \[g: nāsti\] śiracchede \[g: nāsti\] jayadrathayāmale mahātantre \[g: nāsti\] caturviṁśatisāhasre \[g: nāsti\] tṛtīyaṣatke devīsvarūpanirūpanṇavidhir nāma paṭalaḥ \[kh: + ॥ 57 |\] ॥
 
 
 *[p. 397]* ^pg410
@@ -227,7 +227,7 @@ Jayaratha distinguishes between the pūjākrama, i.e., ritual worship of the Kā
 
 *[p. 400]* ^pg413
 
-Arimalla, that is, in the 11" century, and was a priest at the well-known Paśupati temple. A number of manuscripts of Kālikrama Tantras bear his name in the colophons, stating that they belonged to him. Clearly, he was deeply immersed in these teachings. Arṇasimha refers to a certain Prabodhanātha as the disciple of Cakrabhānu (MNP A 163). However, it is difficult to identify the two, as there is a discrepancy of some one hundred years between them. Moreover, if they are the same, he would be an exception. Sivānanda and the teachers in his lineage may not have engaged in ritual. This may seem strange at first sight. The fully developed Krama system as we find it in the three Mahānayaprakāśas, exemplified by the one by Arnṇasiṁha in Appendix H, very much appears to be interiorization of ritual. Indeed, most of the constitutive elements — cakras, mudrās, siddhas and the like — are clearly prefigured at the scriptural level, where rituals are certainly performed. It is possible that the fully developed form at least was entirely ideal right from the start. However, the existence of Vimalaprabodha’s liturgy suggests that this was not so. Moreover, I have been told, a liturgical rite is performed to a set of thirteen Kālīs in temples in Kerala, that the priests refer to as the Pañcavāha. It would be very interesting to examine its contents. Research is underway. Until we have a detailed survey of its contents, it is not possible to say how closely it adheres to that of the Mahānayaprakāśas. So we will leave the matter as an open question. 
+Arimalla, that is, in the 11" century, and was a priest at the well-known Paśupati temple. A number of manuscripts of Kālikrama Tantras bear his name in the colophons, stating that they belonged to him. Clearly, he was deeply immersed in these teachings. Arṇasimha refers to a certain Prabodhanātha as the disciple of Cakrabhānu (MNP A 163). However, it is difficult to identify the two, as there is a discrepancy of some one hundred years between them. Moreover, if they are the same, he would be an exception. Sivānanda and the teachers in his lineage may not have engaged in ritual. This may seem strange at first sight. The fully developed Krama system as we find it in the three Mahānayaprakāśas, exemplified by the one by Arṇasiṁha in Appendix H, very much appears to be interiorization of ritual. Indeed, most of the constitutive elements — cakras, mudrās, siddhas and the like — are clearly prefigured at the scriptural level, where rituals are certainly performed. It is possible that the fully developed form at least was entirely ideal right from the start. However, the existence of Vimalaprabodha’s liturgy suggests that this was not so. Moreover, I have been told, a liturgical rite is performed to a set of thirteen Kālīs in temples in Kerala, that the priests refer to as the Pañcavāha. It would be very interesting to examine its contents. Research is underway. Until we have a detailed survey of its contents, it is not possible to say how closely it adheres to that of the Mahānayaprakāśas. So we will leave the matter as an open question. 
 
 Chapter Four of the Mādhavakula, the Fourth \[illegible\] of the Jayadrathayāmala, 
 
@@ -239,7 +239,7 @@ the Initiation in Front of the mandala of the Thirteen Kālīs.
 prāha prasannagaṁbhīraṁ punar eva śivaṁ vacam \[k, g: vaca; kh: vacaḥ\] ॥ 1 ॥
 śrīdevyuvāca tṛptāsmi bhagavan samyag jñātaṁ tat paramaṁ padam |
 mayā tava prasādena sarveśvara maheśvara || 2 ||
-adhunā śrotum icchāmi kamkālākhyami kulārnṇavam \[k: -va\] |
+adhunā śrotum icchāmi kamkālākhyami kulārṇavam \[k: -va\] |
 yatra sā kālikā devī cidakkocchā (>cidarkkecchā) vijrńbhate ॥ 3 I 8lb g) 
 
 śekharādhasthitā \[illegible\] -rā kh: 
@@ -269,7 +269,7 @@ Once the King of the gods had heard this and consumed the Kaula sacrificial subs
 
 srībhairava uvāca śṛnuṣva kathayiṣyāmi rahasyam idam uttamaṁ \[g: \* \* \*(?)J || 6 ॥
 puṣthibhūtaṁ \[k, kh: mu-; g: (?)\] mahākaulai khecare ‘vasthitan bhavet \[k: haret kh, g: ha \* t\] |
-avikalpam asaṁńdigdharn prapūrṇam ubhayojjitaṁ \[kh, g: -mujhitan\] | 7 ॥
+avikalpam asaṁńdigdhaṁ prapūrṇam ubhayojjitaṁ \[kh, g: -mujhitan\] | 7 ॥
 cidarkkaṁ Sekharībhūtari \[g: ~ \* \*(?)\] tasyāpi pratidīpikā |
 kālikā \[g: (?)\] sā \[g: (?)\] pradīpā \[g: (?)\] ca \[g: (?)\] sadā kālipradīpikā ॥ 8 ॥
 tatrāntare tatra gatā tantre ‘smin tantravat \[k,kh, g: tatra-\] sadā | 
@@ -296,7 +296,7 @@ sa ravir devatākāraḥ \[g: sa ravi Bhairavas.[^1038] \* \* + \*(?)\] ravir ev
 That is the Sun, which has as (its) foundation the Shining One, the foundation of which is Kālikā. The extensive foundation within (the Wheel of) six spokes% that is like (the Goddess of) Sixteen Lights who, flashing forth, brings about the emanation of the Sun that vomits and devours.” That Sun” is the form of the deity. The Sun itself is its (physical) form. (lab) 
 
 ravi (>raviḥ) pradīpako \[g: (?)\] loke \[g: (?)\] sūryamadhyāt \[kh, g: (?)\] samutthitaḥ \[kh: (?)\] ॥ 11 ॥
-ravirantargato bhānur bhāmayaṁty (CMSS > bhāsayaty) akhilarn jagat । \[kh: (2 bhānavī kaulinī yā sā tatpuṁjabharitaṁ \[g: puṁhja \* \* \*(?)\] jagat (8. (211 ॥ 12 ॥
+ravirantargato bhānur bhāmayaṁty (CMSS > bhāsayaty) akhilaṁ jagat । \[kh: (2 bhānavī kaulinī yā sā tatpuṁjabharitaṁ \[g: puṁhja \* \* \*(?)\] jagat (8. (211 ॥ 12 ॥
 tatrotpannā 
 
 \[g: (?)\] mahāmantrā \[g: \*(?)-\] bhairavāṣtāṣtayonayaḥ |
@@ -319,7 +319,7 @@ svasarvit \[kh: \*(? )saṁvit\] paramāditya (> -tyo) nityoditamarīcibhiḥ �
 *[p. 403]* ^pg416
 
 bhacakrar bhāsitari yena sa vai kālaharo(?) \[k: -naro, kh, g: -jaro\] bhavet |
-vāhyam \[g: vādya-\] ābhyarṁitaraṁ kṛtvā maṁtrarn cābhyaṁtaraṁ bahiḥ | 16 ॥
+vāhyam \[g: vādya-\] ābhyarṁitaraṁ kṛtvā maṁtraṁ cābhyaṁtaraṁ bahiḥ | 16 ॥
 advaita \[kh: (?)\] saṁtā \[kh: (?)\] (> advaitasthita-) marrtrajño \[kh: (?)\] maṁtrī maṁtrodayaṁ labhet |
 viviktārthaparisyādanaṁdanodyānakaṁdarāt || 17 |
 prāpyate paramānandari nispańńdam ubhayojjhitam | 
@@ -353,7 +353,7 @@ Union (saṁyoga) can churn (and destroy the very) root of (this) terrible trans
 69a) 82b g) khacandracaṁhdrikā yena (> tena) \[g: (?)\] ciccakre carccitā ciram ॥
 23॥
 mokṣalakṣmyā spandanānte \[illegible\] g: spadarinaṁte; kh: spandanante\] krtań ātmānam ātmanā |
-candreśaś candradhāmnisthas tathā \[k: tatpas kh: tastha; g: -sthasta\] tatkālikojjhitaḥ \[kh: statkālikojhitaḥ; g: sthastatkālikojhitaḥ\] Il 24 II kālikāmtakulāśakto nihkalo + vijṛbhate \[kh, g: vijṛbhate\] |
+candreśaś candradhāmnisthas tathā \[k: tatpas kh: tastha; g: -sthasta\] tatkālikojjhitaḥ \[kh: statkālikojhitaḥ; g: sthastatkālikojhitaḥ\] || 24 || kālikāmtakulāśakto nihkalo + vijṛbhate \[kh, g: vijṛbhate\] |
 subhā \[k: śrutau; kh: śubhau; g: subhau\] suvigatā bhāti tadbhātmā pūrayej jagat ॥ 25 ॥
 sucir agniprabhāsātmā tadā kālikuleśvaraḥ | 
 
@@ -422,20 +422,20 @@ sukālī yamakālī ca mṛtyukālī bhayāvahā |
 bhadrakālī tathā cānyā paramādityakālikā ॥ 40 ॥
 70a) 83b g) mārttaṁdakālī kālāgnirudrakālī mahollbaṇā \[all: maholvanṇā\] |
 mahākālakule kālī mahābhairavakālikā ॥ 41 ॥
-trayodaśavidhā kālī vijñeyā raśmibhedataḥ \[k: -bhedah(?)\] | 
+trayodaśavidhā kālī vijñeyā raśmibhedataḥ \[k: -bhedaḥ(?)\] | 
 
 The Supreme Goddess who has been emanated is 1) Sṛṣṭikālī (the Kālī of Emanation), who withdraws (all things into consciousness). 2) Then (comes) the fierce Sthitikālī (the Kālī of Persistence), and then 3) Saṁhārakālikā (the Kālī of Withdrawal). (Then there is) 4) Raktakālī (the Kālī of Blood), who relishes (consuming emanation), according to the various ways that blood (rakta) comes forth. 5) (Then come) Sukālī, 6) Yamakālī, and the frightening 7) Mṛtyukālī, and another is 8) Bhadrakālī and 9) Paramādityakālikā. (Then come) 10) Mārtaṇdakālī, 11) Kālāgnirudrakālī, who is very powerful, and 12) the Kālī who belongs to the Kula of Mahākāla and 13) Mahābhairavakālikā. One should know Kālī who is of thirteen kinds, in accord with the division of the rays (of consciousness). (38cd-42ab) 
 
 paramārkaprabhāśānta (> -prabhāsāntāh) sphuratsmaraṇadīpitāḥ ॥ 42 ॥
 bhārūpā paramā kālī kālayantī \[k, g: kārayaritī\] jagatsthitā |
-ekadhā triprakārā sā tridhā sā turyagā smṛtā I| 43 ॥ 
+ekadhā triprakārā sā tridhā sā turyagā smṛtā ॥ 43 ॥ 
 
-parcadhā caiva ṣodhā ca saptāṣtanavadhā \[g: -na twelvefold.[^1044] dhā\] smṛtā \[k, g: -tāh\] |
-daśaikā \[g: -kāṁ\] daśadhā \[g: daśadhā\] devi tathā dvādaśadhā priye I| 44 ॥
+parcadhā caiva ṣodhā ca saptāṣtanavadhā \[g: -na twelvefold.[^1044] dhā\] smṛtā \[k, g: -tāḥ\] |
+daśaikā \[g: -kāṁ\] daśadhā \[g: daśadhā\] devi tathā dvādaśadhā priye ॥ 44 ॥
 trayodaśavibhedena grasate sacarācaram |
-tenaiṣā kālikā jñeyā tasyā maṁtraṁ śṛnuṣva me || 45 II 
+tenaiṣā kālikā jñeyā tasyā maṁtraṁ śṛnuṣva me || 45 || 
 
-(They are all) within the light of the Supreme Sun, energized by the flashing pulse of recollection. The form of the supreme \[illegible\] is light; she abides in the universe, generating time. Once (i.e., single), of three kinds, she is threefold and said to be in the four. She is fivefold, sixfold, and considered to be seven, eight and ninefold. She is eleven, tenfold and so too, O beloved, twelvefold.“ Divided into thirteen, she devours the mobile and immobile 
+(They are all) within the light of the Supreme Sun, energized by the flashing pulse of recollection. The form of the supreme Kālī is light; she abides in the universe, generating time. Once (i.e., single), of three kinds, she is threefold and said to be in the four. She is fivefold, sixfold, and considered to be seven, eight and ninefold. She is eleven, tenfold and so too, O beloved, twelvefold.“ Divided into thirteen, she devours the mobile and immobile 
 
 [^1044]: These numbers denote the serial emergence of the Kālīs. Kālī emerges by a process called ‘kalana’, a term that has several meanings, one of which is ‘enumeration’ (saṁkhyāyana). See TĀ 4/173cd-175.
 
@@ -456,18 +456,18 @@ jvaladvakadhakāra (> -dvādaśadhakārā) rāvinī bhāsurānanām || 53 ||
 vaktrāva vi + niṣdyūta(?) \[kh: viniṣtvā; g: viniṣtyuta\] (> vaktrāntavinisṛtaṁ \* \*) sphuratkalpāṁṁtapāvakam |
 gambhīraddhāna humikāra trāsitoccandamaṁdalam ॥ 54 I| 
 
-O goddess, having drawn the mandala measured out by the great twelve \[illegible\] associated with the twelve rays, the venerable Siddhas and sacred seats, Mahākālī is the one in the centre who, fierce and very powerful, has (come forth) from the centre in hundreds of thousands (of forms). Pulsing radiantly, they fall into (just a single) pore (of her skin). A fire with billions of flames extends within her womb - she is Rāviṇī, whose face is radiant light, and whose form burns in twelve ways. The (purifying) Fire that flashes forth at the end of (a cosmic) Age (kalpa) has come forth from within (her) face. The assembly of fierce (deities) is frightened by the deep sound (of her) HUMKĀRA. (49cd-54) 
+O goddess, having drawn the mandala measured out by the great twelve (Kālīs) associated with the twelve rays, the venerable Siddhas and sacred seats, Mahākālī is the one in the centre who, fierce and very powerful, has (come forth) from the centre in hundreds of thousands (of forms). Pulsing radiantly, they fall into (just a single) pore (of her skin). A fire with billions of flames extends within her womb - she is Rāviṇī, whose face is radiant light, and whose form burns in twelve ways. The (purifying) Fire that flashes forth at the end of (a cosmic) Age (kalpa) has come forth from within (her) face. The assembly of fierce (deities) is frightened by the deep sound (of her) HUMKĀRA. (49cd-54) 
 
 Karaṅkinī, the Thirteenth Kālī 
 
 anamtādiphanīṁidrenṁdragrāse ghasmarabhairavām (> -vīm) = |
 aparṇalakṣaparnādya muṁdāpīdavirājitāṁ \[kh: muṁdo-\] \[kh, g: -tā\] | 55 ॥
 sarvādhvapatikahkālamekhalādhāmamaṁditām \[k: -paṁ-\] |
-kālarātrīśataskaidhavasitām (k, kh, g: -śatamn-) bhairavekṣanām |I 56 ॥
+kālarātrīśataskaidhavasitām (k, kh, g: -śatamn-) bhairavekṣanām ॥ 56 ॥
 vidyudulkāsahasraughakṣepasaṁikāśalocanām \[g: vidyu + lkā-\] |
 asakṛtpīdabrahmāndamandapāṁ bhṛkutīmukhām |I| 57 ॥
 kākālikulakṛṣṇābhrā(> kālikā- -bhām) nirasatkekarekṣaṇām |
-cala \* \* girohasta \[kh, g: cala śiro-\] ghatṭitādhvapaṭīśvarām ॥ 58 I|
+cala \* \* girohasta \[kh, g: cala śiro-\] ghatṭitādhvapaṭīśvarām ॥ 58 ॥
 mahātaraṇi mudraughakeśarī \[kh: keśurī; g: keśu \*(?)\] kṛta \[illegible\] \[kh, g: -rā\] | 
 
 (She is Karaṅkinī,) a voracious Bhairavī (engaged in) devouring Ananta and the rest of the Lords of the Nāgas (at the base of the universe, to go on to 
@@ -540,7 +540,7 @@ nivedya sahasenaiva dhuned vāyaṁtate punaḥ || 73 ॥
 *[p. 410]* ^pg423
 
 tadā vidārya khadgena fīkṣṇaśastrenṇa vā priye |
-85b g) chitvāśipādaṁ vai \* \* saraktām vinivedayet || 74 II padmaṁ dakṣinamārāṁ ca dikṣu raktāichaṭāmi \[kh: cchaṭā; g: kṣaṭā\] kuru \\ 
+85b g) chitvāśipādaṁ vai \* \* saraktām vinivedayet || 74 || padmaṁ dakṣinamārāṁ ca dikṣu raktāichaṭāmi \[kh: cchaṭā; g: kṣaṭā\] kuru \\ 
 
 Having offered it audaciously, he should make (the victim) tremble and shake (vāyaṁtate (?)) again. Then having cut it to pieces with a sword or a sharp weapon, O beloved, and having severed the āśi (?) foot, it should be offered with the blood (?). The blood should be sprinkled in (all) directions. (73cd-75ab) 
 
@@ -586,7 +586,7 @@ kṛśār vṛtti samāśṛtya kṛśam (> kṛśām) evar vilokayet |
 punaḥ pūrvatarām (> pūrnatarām) 1711707 \[kh, g: vṛtti\] avalaṁvyaiva \[kh, g: avalaṁvyeva\] sādhakaḥ ॥ 84 ॥
 60b kh) pūrṇarūpaṁ samālokya kṛśam evar vilokayet punaḥ pūrṇataraṁ 11011701 avalaṁvyeva sādhakaḥ \[g: sādhaḥ + ॥ 85 ॥
 pūrṇarūpaṁi samālokyari \[kh: -lokya\] mahākāliṁ kulākulam |
-paṁca bhitvā dhupar \[kh: dhaparn\] caiva kāyavākcittabhedataḥ ॥ 86 ॥
+paṁca bhitvā dhupar \[kh: dhapaṁ\] caiva kāyavākcittabhedataḥ ॥ 86 ॥
 tadā kācais tathākāras tadrūḍhyās tadvilāpakāḥ | 
 
 The adept (sādhaka), having entered into the mode of being of (the \[Kali called) Kṛśā (Emaciated), should view (the goddess) Kṛśā, having again assumed her fullest mode of being. Having viewed the full form, he should view in the same way the ‘thin’ one. Having again assumed the fullest mode of being, he should view the full form, the great Kālī Kulākula. (84-86ab) 
@@ -594,13 +594,13 @@ The adept (sādhaka), having entered into the mode of being of (the \[Kali calle
 Having penetrated through the five and dhupa (?) (variously) according to whether it be the body, speech or mind, then with that form, mounted on that, they are the destroyers of that (?) (86cd-87ab) 
 
 evaṁ sahbodhya taṁ \[illegible\] siddhaṁ bhavati bhāmini ॥ 87 |
-cidaikyāpūrṇadevatvam ānaṁdaṁ tat svarūpataḥ \[k: -kah; g: svarūpaḥ \*\] |
+cidaikyāpūrṇadevatvam ānaṁdaṁ tat svarūpataḥ \[k: -kaḥ; g: svarūpaḥ \*\] |
 tadā viddhas tu \[k, g: vińdvastu, kh: vidvastu\] jānīyāt tān (> tam) yathonmādavat \[kh: mānya-\] priye ॥ 88 ॥
 72b) evar tad īkṣinaṁ kuryād ācāryo kramapāragaḥ |
 yasyevaṁ dīkṣayet samyak \[g: samyat\] sa mukto bhavabaṁdhanāt ॥ 89 ॥
 anyathā devadeveśi tilājyānalayogataḥ |
 puroktām \[g: purāktāṁ\] vṛttim ālambya yasya yasyāvalokayet ॥ 90 ॥
-tar tah nayati sāyojyari \[kh: yojya\] vacas tv avitathaḥ mama | 
+tar taḥ nayati sāyojyari \[kh: yojya\] vacas tv avitathaḥ mama | 
 
 Having awakened the disciple in this way, O fair lady, he becomes successful (siddha). That is, (he becomes) spontaneously the very nature of bliss, which is the full divinity of oneness with consciousness. Then he should be known to have been pierced (viddha) (by the goddess, and is,) O beloved, like one who is mad. (88) 
 
@@ -610,13 +610,13 @@ The teacher who has mastered the Krama should gaze upon (his disciple) in this w
 
 *[p. 412]* ^pg425
 
-whoever he gazes upon, along with (making offerings to) the fire with sesame seed and clarified butter, he leads to a state of union \[illegible\] (with the deity) (This will surely be so;) my word is not false! (89-91ab) 
+whoever he gazes upon, along with (making offerings to) the fire with sesame seed and clarified butter, he leads to a state of union (sāyujya) (with the deity) (This will surely be so;) my word is not false! (89-91ab) 
 
 anukrame yadā śaktaḥ \[g: śakto\] kuryād vā vyavahārakam || 91 ॥
 yasya yasya sadaivańi \[k, g: sahaivarni\] hi taṁ nayed brahma \[illegible\] ta nayed vasra(?), g: ta nayad vrahma\] śāśvataṁ \[g: \* śvatan(?)\] |
 atrārūdhaḥ sparśayeta yari yari vā prītacetasā || 92 ||
-86b g) tah mukta nātra saṁdehaḥ \[g: -deho\] satya satyam ganāṁvike |
-evaṁ vidhiṁ tataḥ kṛtvā paścād eva kramaṁ punaḥ ॥ 93 I|
+86b g) taḥ mukta nātra saṁdehaḥ \[g: -deho\] satya satyam ganāṁvike |
+evaṁ vidhiṁ tataḥ kṛtvā paścād eva kramaṁ punaḥ ॥ 93 ॥
 yajeta parameśāni paścāt asyārpayet mahat |
 kalaśaṁ cārghapātrari vā pūrvoktakramayogataḥ ॥ 94 ॥
 tenābhiṣecyataṁ devi kramam asmai prakāśayet | 
@@ -636,7 +636,7 @@ sadaivābhyasanīyari \[g: (?)\] hi abhyāsāt svagatir (> su-) bhavet || 98 ॥
 Success will come in six months by means of this practice, O goddess of the gods, wherever he may go, no doubt! O fair lady, what is the use of speaking much and prolixity of speech, there is nothing greater than this, I am telling you the truth. O greatly fortunate one, once one whose (karma) is auspicious and is in the last life has obtained the teaching concerning the Kālikākrama in this way, he should practice it regularly. By practice (his) condition will be good. (95cd- 98) 
 
 73a) vācayā pūrvasiddhiś (> pūrnasiddhiṁ) ca sādhayaty \[g: sādhayety\] eva nānyathā |
-evar rahasyam \[g: raha + m\] ākhyātaṁi suguptarn kālikākramaṁi ॥ 99 ॥
+evar rahasyam \[g: raha + m\] ākhyātaṁi suguptaṁ kālikākramaṁi ॥ 99 ॥
 kathanīyam na caiveha śiṣye mamidaparīkṣite | 
 
 1050?\. Tf the disciple cannot be totally merged into the deity by this initiation, he is conjoined to it by this milder rite. Although there is no complete āveśa, he is conjoined to the deity by the teacher’s gaze as he makes offerings of sesame seeds into the fire.
@@ -645,7 +645,7 @@ kathanīyam na caiveha śiṣye mamidaparīkṣite |
 *[p. 413]* ^pg426
 
 anājñayā kathed yo hi sa mahāpātakī bhavet | 100 ॥
-paśyate narakaṁ ghorańn yāvadābhūtasarnṁplavam \[kh: -hūta-\] |
+paśyate narakaṁ ghorańn yāvadābhūtasaṁplavam \[kh: -hūta-\] |
 na kadācid asau mucye narakād rauravād iha ॥ 101 ॥
 eva sthitiń tam āsthāya varttitavyaṁ tadā naraiḥ | 
 

@@ -18,8 +18,7 @@ language:
   - English
 pages: 18
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Capek-Loidolt2021_Article_PhenomenologicalApproachesToPe.pdf]]"
   - "[[Library/Philosophy/Phenomenological Approaches to Personal Identity (Capek)]]"

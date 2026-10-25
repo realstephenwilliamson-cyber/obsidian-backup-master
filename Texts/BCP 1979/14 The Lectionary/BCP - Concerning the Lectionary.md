@@ -5,9 +5,7 @@ section: "The Lectionary"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Lectionary/concernlect.html"
-page_range:
-  - 888
-  - 888
+page_range: "888"
 aliases:
   - "BCP 888"
 ---
@@ -15,7 +13,7 @@ aliases:
 
 [[BCP 1979]] · *The Lectionary* · pages 888–888
 
-[p. 888]
+[p. 888] ^pg888
 
 ## Concerning the Lectionary
 

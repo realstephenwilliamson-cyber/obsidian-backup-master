@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 28
 verses: 11
-page_range:
-  - 620
-  - 620
+page_range: "620"
 aliases:
   - "BCP Psalm 28"
   - "BCP 620"
@@ -53,7 +51,7 @@ my heart trusts in him, and I have been helped; ^28-8
 **28:9** Therefore my heart dances for joy, \*  
 and in my song will I praise him. ^28-9
 
-[p. 620]
+[p. 620] ^pg620
 
 **28:10** The LORD is the strength of his people, \*  
 a safe refuge for his anointed. ^28-10

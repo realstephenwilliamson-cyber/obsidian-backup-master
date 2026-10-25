@@ -17,8 +17,7 @@ language:
   - English
 pages: 15
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[de Ville - Deconstructing the Leviathan (2012).pdf]]"
   - "[[Library/Philosophy/Deconstructing the Leviathan (de Ville)]]"

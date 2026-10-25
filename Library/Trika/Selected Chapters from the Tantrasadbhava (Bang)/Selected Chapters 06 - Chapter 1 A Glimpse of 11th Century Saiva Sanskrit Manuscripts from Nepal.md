@@ -53,11 +53,11 @@ The first chapter aims at examining Nepalese manuscripts of Śaiva texts dated f
 
 Catalogues of Nepalese manuscripts
 
-The recent development of the philological method of studies of Sanskrit literature was instigated by some important projects related to Sanskrit manuscripts. Many of scholars in this field, including myself, received great benefit from the Nepal-German Manuscript Preservation Project (NGMPP) and its successor, the Nepalese-German Manuscript Cataloguing Project (NGMCP), which ran from 2002 until 2015 under the direction of the University of Hamburg and the Nepal Research Centre (NRC). Most of the manuscripts dealt within the following section are preserved in Nepal up to the present day, specifically in the National Archives, Kathmandu (NAK) and in the Kaiser Library (KL). Other manuscripts are accessible thanks to the online database of Cambridge Digital Library<sup>3</sup>.
+The recent development of the philological method of studies of Sanskrit literature was instigated by some important projects related to Sanskrit manuscripts. Many of scholars in this field, including myself, received great benefit from the Nepal-German Manuscript Preservation Project (NGMPP) and its successor, the Nepalese-German Manuscript Cataloguing Project (NGMCP), which ran from 2002 until 2015 under the direction of the University of Hamburg and the Nepal Research Centre (NRC). Most of the manuscripts dealt within the following section are preserved in Nepal up to the present day, specifically in the National Archives, Kathmandu (NAK) and in the Kaiser Library (KL). Other manuscripts are accessible thanks to the online database of Cambridge Digital Library[^3].
 
 All of them are Śaiva or Śaiva-related works and date to around the 10th to 11th century or contain palaeographic evidence that their production could have taken place in the 9th to 12th centuries. Twenty Śaiva manuscripts were selected through which to examine philological issues. Although four of them are undated manuscripts, their dates can be determined through palaeographical evidence. Consequently they are also included in the following list in chronological order; the detailed reason for the determination of their chronology will be discussed.
 
-<sup>3</sup>https://cudl.lib.cam.ac.uk/collections/sanskrit
+[^3]: https://cudl.lib.cam.ac.uk/collections/sanskrit
 
 *[p. 5]* ^pg17
 
@@ -638,7 +638,7 @@ In Central and Northern India people use the bark of the *tūz* tree, one kind o
 
 a piece of cloth and fastened between two tablets of the same size. Such a book is called *pūthī* (*cf. pusta, pustaka*). Their letters and whatever else they have to write, they write on the bark of the *tūz* tree.
 
-Balbir 2006:59-60 also mentions that the word *pothī* might have been derived from Sanskrit *pustikā*. This point is already introduced and discussed in Formigatti 2011<sup>24</sup>.
+Balbir 2006:59-60 also mentions that the word *pothī* might have been derived from Sanskrit *pustikā*. This point is already introduced and discussed in Formigatti 2011[^24].
 
 The layout of the manuscripts on our list is composed of one to three pseudo-columns. The division of columns is based on the position of string holes. A vertical line for dividing columns is found only in the manuscript of the *Kriyākālaguṇottara* *⃝*). Since, as Szántó has pointed out to me, the pre-lined layout might belong (*cf.* 19 to the Pāla period, the influence of this practice seems to begin in the early 12th century, and the manuscripts were usually written in Rañjanā script. The *Kriyākālaguṇottara* manuscript could also be an imitation of Pāla style, but it is written in Old Newarī script.
 
@@ -652,7 +652,9 @@ The emergence of Śaivism in Nepal is closely related to the history of the Paś
 
 *•* Bhaktapur
 
-The name of the town ‘Bhaktapur’ (Bhaktapura or Bhaktapurī in Sanskrit) is also known as Bhatgaon or Bhadgaon and called Khopva, Khvopa or Kṛmpṛm in Newari. The earliest mention of Bhaktapura is found in the final colophon of the above-mentioned *Kiraṇatantra* manuscript, dated to 924 CE; the name of the owner of the manuscript is ‘Udayapālasoma’. Another old palm-leaf manuscript, which <sup>24</sup>He deals with previous studies on Sanskrit manuscript formats (*cf.* Formigatti 2001:25-29).
+The name of the town ‘Bhaktapur’ (Bhaktapura or Bhaktapurī in Sanskrit) is also known as Bhatgaon or Bhadgaon and called Khopva, Khvopa or Kṛmpṛm in Newari. The earliest mention of Bhaktapura is found in the final colophon of the above-mentioned *Kiraṇatantra* manuscript, dated to 924 CE; the name of the owner of the manuscript is ‘Udayapālasoma’. Another old palm-leaf manuscript, which
+
+[^24]: He deals with previous studies on Sanskrit manuscript formats (*cf.* Formigatti 2001:25-29).
 
 *[p. 36]* ^pg48
 

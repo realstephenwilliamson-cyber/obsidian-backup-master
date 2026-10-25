@@ -50,7 +50,7 @@ anye tu samastānāri
 guravaḥ prāhuḥ punarbahī rudraśatam |
 aṣtṭāv antaḥ sākam 
 
-sarvenetīdṛsī nivṛttiriyarn syāt || 411 ॥ 
+sarvenetīdṛsī nivṛttiriyaṁ syāt || 411 ॥ 
 
 In each of the seven (principles of) Water, Fire, Wind, Space, Ego, Intellect and the Root (Nature) (mūla) is (a group of) eight (deities). Such is said to be (the energy of) the Foundation (Pratiṣthā), that thus contains fifty-six worlds." Here some say that (only) the eight who are the lords of their own (respective) groups of eight groups should be purified, whilst others declare that all the worlds should be purified. Again, the venerable Bhūtirāja and various (other) teachers say that there are one hundred Rudras outside (the Egg of Brahmā), and that there are eight within it, along with Śarva. Such (is the energy of) Cessation (Nivṛtti). (409-411) (408cd-411ab) 
 
@@ -328,7 +328,7 @@ sauṣumnaṁ brahmabilaṁ
 kundalinī vyāpipañcakaṁ samanā || 427 ||
 iti ṣodaśabhuvaneyaṁ 
 
-tattvayugarn Santyatitd ) Santyatitd syāt | 
+tattvayugaṁ Santyatitd ) Santyatitd syāt | 
 
 1\) (The Enclosures of) the Point, 2) the Half Moon, 3) the Obstructress, 4) (the world of) supreme Sadāśiva (Suśiva), 5) that of Indhikā and the rest, 6) Suṣumnā and 7) the supreme Sound (within it), 8) the Cavity of Brahmā, 9) the power Kunṇdalinī in her raised state associated with Sūkṣmā and the rest, 10-14) the five worlds of Vyāpin, Vyomarūpa, Ananta, Anātha and Anāśrita and then the sixth, 15) supreme Anāśrita and that of 16) the Equal One (Samanā). Thus, there are sixteen worlds and two Principles belonging to Beyond the Quiescent (śāntyāfīta). (425-428ab) (425ab-427) 
 
@@ -380,7 +380,7 @@ Out of the five groups of eight, 1) thirty-two (worlds) are in the four gross el
 
 Ā rāgatattvagāḥ |
 dvādaśaikaśivādyāḥ syur vidyāyāṁ kalane daśa ॥ 433 ॥
-vāmādyās triśatī seyarn triparvany abdhirasyayuk | 
+vāmādyās triśatī seyaṁ triparvany abdhirasyayuk | 
 
 1\) (The Rudras called) Patadruk and the rest (reside in Time and Constraint), while 2) Anguṣthamātra and the rest reside in the principle of Attachment. 3) There are twelve (Rudras), Ekaśiva and the rest, in the force of (the limited knower) Knowledge. 4) There are the ten (Rudras), 
 
@@ -451,7 +451,7 @@ Surely, (one may ask,) what is the purpose of describing the division of the wor
 
 yatra yadā parabhogān 
 
-bubhukṣate tatra yojanarn kāryam |
+bubhukṣate tatra yojanaṁ kāryam |
 sodhanam atha tad dhānau 
 
 seṣar tv antargataṁ kāryam || 435 ॥
@@ -557,7 +557,7 @@ kālāgniḥ kūímānṇdo
 narakeśo hātṭako ‘tha bhūtalapaḥ |
 brahmā munilokeśo 
 
-rudrāḥ pañcāntarālasthāḥ"'"' ॥ 438 II adhare ‘nantaḥ prācyāḥ 
+rudrāḥ pañcāntarālasthāḥ"'"' ॥ 438 ॥ adhare ‘nantaḥ prācyāḥ 
 
 kapālivahnyantanir-rtibalākhyāh"" |
 laghunidhipatividyādhipa- 
@@ -567,7 +567,7 @@ ekādaśabhir bāhye pills
 
 brahmāndarmi pañcabhis tathāntarikaiḥ iti ṣodaśapuram etan 
 
-nivṛttikalayeha kalanīyam"" || 440 II 
+nivṛttikalayeha kalanīyam"" || 440 || 
 
 lakulīśabhārabhūtī "”” 
 
@@ -587,7 +587,7 @@ bhīmendrāṭṭahāsavimala'
 atiguhyāṣtakam etan 
 
 maruti ca satanmātrake ca sākṣe ca ॥ 443 ॥
-sthāṇusuvarnṇākhyau kila 
+sthāṇusuvarṇākhyau kila 
 
 bhadro gokarnako mahālayakaḥ |
 avimuktarudrakoṭī 
@@ -606,7 +606,7 @@ cchagalāndā aṣṭtakaṁ hy ahaṁkāre ॥ 445 I|
 
 1112\. (TSa reads: -bālākhyāi
 
-1113\. Emend -pati to -patih.
+1113\. Emend -pati to -patiḥ.
 
 1114\. This line is missing in the TSā.
 
@@ -676,7 +676,7 @@ In this way the inner activity (of the Rudras within the Egg of Brahmā) has bee
 
 1127\. TĀ 8/444 (443cd-444ab) is a paraphrase of MV 5/20.
 
-1128\. Kālañjara is the name of a sacred mountain in Bundalkhand. It is the modern Kallinjer, which is considered to be a good place to practice austere devotion. It is also a name of Śiva. MrG vidyāpāda 13/143ab says the name of this place is Kālāñjana.
+1128\. Kālañjara is the name of a sacred mountain in Bundalkhand. It is the modern Kallinjer, which is considered to be a good place to practice austere devotion. It is also a name of Śiva. MṛG vidyāpāda 13/143ab says the name of this place is Kālāñjana.
 
 1129\. TĀ 8/445 (444cd-445ab) is a paraphrase of MV 5/21. ‘This is said to be the group of eight immobile ones (sthāṇvaṣtaka), which is located at the extremity of the ego.’ MV 5/22ab.
 
@@ -726,7 +726,7 @@ anye ‘haṅkārāntas
 
 tanmātrāṇīndriyāni cāpy āhuḥ””” | 
 
-dhiyi yonyaṣtakam""” uktarn 
+dhiyi yonyaṣtakam""” uktaṁ 
 
 prakṛtau yogāṣṭakaṁ kilākṛtaprabhṛti || 446 ॥
 iti saptāṣtakabhuvanā 
@@ -737,7 +737,7 @@ nari vāmo bhīmograu
 bhaveśavīrāḥ pracandagaurīśau ॥ 447 ||
 ajasānantaikaśivau 
 
-vidyāyāṁ krodhacandayugmarn syāt |
+vidyāyāṁ krodhacandayugmaṁ syāt |
 samvarto jyotiratho 
 
 kalāniyatyāri ca sūrapañcāntau || 448 I|
@@ -758,7 +758,7 @@ hālāhalarudrakrud
 ambikāghorikāḥ savāmāḥ syuḥ |
 vidyāyār vidyeśās 
 
-tv aṣtṭāv ige sadāśive pañca ॥ 451 |I vāmā jyeṣthā raudrī 
+tv aṣtṭāv ige sadāśive pañca ॥ 451 ॥ vāmā jyeṣthā raudrī 
 
 śaktiḥ sakalā ca śānteyam |
 aṣṭtādaśa bhuvanā syāt \* \* \* \* \* 
@@ -776,7 +776,7 @@ Nature.”
 
 *[p. 395]* ^pg413
 
-Vāma, Bhīma (Terrible), Ugra (Fierce), Bhava and Īśa, Ekavīra (Solitary Hero), Pracanda (Extremely Fierce), Gaurīśa (Mādhava), Aja (Unborn), along with Ananta (Endless) and Ekaśiva (Solitary Śiva) reside in the individual soul. soul 
+Vāma, Bhīma (Terrible), Ugra (Fierce), Bhava and Īśa, Ekavīra (Solitary Hero), Pracaṇḍa (Extremely Fierce), Gaurīśa (Mādhava), Aja (Unborn), along with Ananta (Endless) and Ekaśiva (Solitary Śiva) reside in the individual soul. soul 
 
 The two, Krodheśa (Lord of Warth) and Canda (Fierce) reside in (Impure) Knowledge. Samvarta (Doomsday Fire) and Jyotiṣ (Light) reside in the Force (of limited agency) (kalā). Sura (God) and Pañcāntaka (Destroyer of the Five) reside in Constraint (niyati). The three called Ekavīra (Solitary Hero), Śikhaṇdīśa (Sikhin) ) and Śrīkanṇtha reside in Time. "” 
 

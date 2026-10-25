@@ -5,9 +5,7 @@ section: "The Collects"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Collects/holydayst.html"
-page_range:
-  - 185
-  - 194
+page_range: "185–194"
 aliases:
   - "BCP 186"
   - "BCP 187"
@@ -23,7 +21,7 @@ aliases:
 
 [[BCP 1979]] · *The Collects* · pages 185–194
 
-[p. 185]
+[p. 185] ^pg185
 
 ## Holy Days
 
@@ -43,7 +41,7 @@ Everliving God, who didst strengthen thine apostle Thomas with firm and certain 
 
 *Preface of Apostles*
 
-[p. 186]
+[p. 186] ^pg186
 
 ### Saint Stephen
 
@@ -69,7 +67,7 @@ We remember today, O God, the slaughter of the holy innocents of Bethlehem by th
 
 *Preface of the Incarnation*
 
-[p. 187]
+[p. 187] ^pg187
 
 ### Confession of Saint Peter
 
@@ -95,7 +93,7 @@ Almighty and everliving God, we humbly beseech thee that, as thy only-begotten S
 
 *Preface of the Epiphany*
 
-[p. 188]
+[p. 188] ^pg188
 
 ### Saint Matthias
 
@@ -153,7 +151,7 @@ Grant, O God, that we may follow the example of thy faithful servant Barnabas, w
 
 *Preface of Apostles*
 
-[p. 190]
+[p. 190] ^pg190
 
 ### The Nativity of Saint John the Baptist
 
@@ -181,7 +179,7 @@ Lord God Almighty, in whose Name the founders of this country won liberty for th
 
 *Preface of Trinity Sunday*
 
-[p. 191]
+[p. 191] ^pg191
 
 ### Saint Mary Magdalene
 
@@ -207,7 +205,7 @@ O God, who on the holy mount didst reveal to chosen witnesses thy well-beloved S
 
 *Preface of the Epiphany*
 
-[p. 192]
+[p. 192] ^pg192
 
 ### Saint Mary the Virgin
 
@@ -265,7 +263,7 @@ Grant, we beseech thee, O God, that after the example of thy servant James the J
 
 *Preface of All Saints*
 
-[p. 194]
+[p. 194] ^pg194
 
 ### Saint Simon and Saint Jude
 

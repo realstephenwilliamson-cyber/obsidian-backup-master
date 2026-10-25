@@ -29,6 +29,21 @@ They are in `AI/Prompts/Scripts/Viveka English/`. They were written for a cloud 
 | `proof2-patch.js` | Runner job of the second pass (as `viveka-patch.js`, without the boxes) |
 | `dots.py` | The dots-below pass (23 Oct 2026, evening): candidates for ṛ (an r between consonants) and ḥ (a final h after a vowel), with ṇ ḍ ṭ ṣ from spellings in the copy, by tier (Sanskrit line; English line with other marks; unmarked word in an English line; matched spelling only) |
 | `build_dots.py` | Scores the page-read sample per tier and builds the patch for the tiers given (applied: the three rule tiers) |
+| `slips_common.py` | The last slips pass (23 Oct 2026, evening): loads the bundle of the library copy, word counts, the English word lists |
+| `slips_measure.py` | Measures the leftover classes: ṇ ḍ ṭ ṣ by matched spelling, r before y/v, short words in h, ḥ where ṁ is commoner, abbreviations, word-final "rn" |
+| `slips_cands.py` | Splits them into words to read on the page and rule edits (ṁ for "rn", the residue of earlier fixes, short ḥ in Sanskrit lines) with their samples |
+| `slips_danda.py` | Daṇḍas at verse numbers that the OCR read as I\|, Il, II, \|I or \|l, made like the daṇḍa on the other side |
+| `slips_crops.py` | Places the words and makes the sheets with `crops.py` |
+| `slips_build.py` | Scores the reads and the rule samples, and builds the patch |
+| `night_rn.py` | The night pass (23 Oct 2026): ṁ for the remaining word-final "rn" (not English, not a name such as Silburn), with a sample to read |
+| `night_illeg.py` | Places each `[illegible]` run on its page by the neighbouring words in the PDF text layer, and takes the junk words between them |
+| `night_reocr.py` | Re-OCRs those gaps with Tesseract's Latin-script model (`tesseract-ocr-script-latn`), on 4× crops |
+| `night_accept.py` | Maps the model's quirks to IAST and keeps a gap only if every word occurs at least three times in the copy and looks like no known slip |
+| `night_sheets.py` | Full-width line strips with the target boxed, so nothing is cut at the edges |
+| `night_build_rn.py` | Scores the samples and builds the "rn" patch |
+| `night_build_fill.py` | Fills a gap only where the blind page reading and the re-OCR agree (at most one letter apart; the reading's marks win) |
+| `night_left.py` | The leftovers (23 Oct 2026, late): rebuilds the current text, finds the evening's unsettled words and the second pass's unplaced candidates, places them by fuzzy neighbour matching |
+| `night_build_left.py` | Applies the page readings of those items (rules as in `slips_build.py`; a lost Ś only where the print has it) |
 
 ## Checks used
 
@@ -38,7 +53,7 @@ They are in `AI/Prompts/Scripts/Viveka English/`. They were written for a cloud 
 
 ## What is still imperfect
 
-- Other OCR slips stay: dots below that the 23 Oct rules did not cover (ṇ ḍ ṭ ṣ found only by spellings in the copy, where the print has typos of its own; ṛ before y or v; ḥ in words of three letters; abbreviations), ṁ that the OCR read as a final h, Devanagari read as Latin junk, and what the second pass left (11 Ś candidates and 79 bracketed terms it could not place, or where the print has another word). The Ś the OCR dropped from Śiva, Śakti and Śaiva was put back in the English lines on 22 Oct 2026, night (`proof.py`, 803 words; 31 of them read on the page images, all as printed), and on 23 Oct where the page shows it in Sanskrit lines and mantra lists (33). On 23 Oct ṁ read as "ri"/"r" was mended (506, by rule; 58 of 58 sampled as printed), 130 bracketed terms were given the print's diacritics (240 more are printed without them), and the 43 notes outside the verse chapters had the letter clean-up. The record is the AI log, 23 Oct 2026 (15:04–15:45). Later the same day ṛ and ḥ were restored by rule (22,089 words; 175 of 178 sampled words as printed; AI log, 23 Oct 2026, 15:58–16:20).
+- Other OCR slips stay: 4,353 `[illegible]` placeholders, most of them italic Sanskrit that the OCR read as Devanagari (the PDF text layer under them is Devanagari junk); about 140 words from the 23 Oct passes that could not be placed on the page or read clearly (the text layer around most of them is Devanagari junk); and ṛ before y or v (no candidate has its ṛ spelling in the copy). The Ś the OCR dropped from Śiva, Śakti and Śaiva was put back in the English lines on 22 Oct 2026, night (`proof.py`, 803 words; 31 of them read on the page images, all as printed), and on 23 Oct where the page shows it in Sanskrit lines and mantra lists (33). On 23 Oct ṁ read as "ri"/"r" was mended (506, by rule; 58 of 58 sampled as printed), 130 bracketed terms were given the print's diacritics (240 more are printed without them), and the 43 notes outside the verse chapters had the letter clean-up. The record is the AI log, 23 Oct 2026 (15:04–15:45). Later the same day ṛ and ḥ were restored by rule (22,089 words; 175 of 178 sampled words as printed; AI log, 23 Oct 2026, 15:58–16:20). In the evening the rest of the dots below were read on the page images, and ṁ read as "rn", short ḥ, ṁ read as a final h, the abbreviations and the daṇḍas at verse numbers were mended (2,259 changes; AI log, 23 Oct 2026, 17:14–17:50). That night the remaining word-final "rn" was made ṁ (582; 40 of 40 sampled as printed), and 758 placeholder gaps were filled where a blind page reading and a Latin-model re-OCR agree (AI log, 23 Oct 2026, 19:20–20:15). Later the leftovers of those passes were placed by their neighbours and read on the pages: 28 changed, 42 confirmed as printed (AI log, 23 Oct 2026, 21:11–21:35).
 - Where a range is printed inside one of Dyczkowski's long translations (8.438–445), the phase 5 map split it, so part of the translation shows as commentary. A lead-in sentence occasionally sits under the next verse's heading (6.39).
 - Where Dyczkowski quotes a passage at the very start or end of a chapter, the quotation may still have headings of its own ("Dyczkowski's verse N").
 - 25 verse notes have no unit placed (new or renamed units) and 113 have no commentary within reach; they have no box.

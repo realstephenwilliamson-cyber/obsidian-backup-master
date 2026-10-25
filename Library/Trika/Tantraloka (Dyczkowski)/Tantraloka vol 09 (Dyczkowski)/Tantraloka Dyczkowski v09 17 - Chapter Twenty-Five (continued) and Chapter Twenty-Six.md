@@ -70,7 +70,7 @@ Then, having first taken the food offering (naivedya) in (his) hand, meditated o
 
 828?\. The version quoted by Kṣemarāja (see following note) reads pāśavāṁśo for pāśavo ‘mśo. There is no other variant.
 
-829?\. where the procedure for the offering of food to the ancestors (śrāddha) is taught. He docs not say, as he normally would, that he is quoting from his teacher’s Tantrāloka. Introducing this passage in NTu ad 18/1 19ab, he says that ‘there (with regards to that), the procedure for the offering of food to the ancestors according to the Siddhānta is generally well known (prasiddha). However, it is stated (in the following passage) in accord with manner of offering the food taught in the secret procedure (rahasyavidhi).” tatra saiddhāntikaśrāddhavidhis tāvat prasiddhaḥ, rahasyavidhau tu ity evaḥ naivedyanivedanayuktyaivoktaḥ. It is possible to take rahasyavidhi, ‘the secret procedure’, to be the name of the source text. The possibility that Kṣemarāja is referring to the procedure taught in the Siddhātantra in this way is doubtful, as he goes on to quote a passage corresponding to TĀ 24/6cd-10ab, saying that it is from the Siddhā. But if he is referring to the SYM, then 2cd-4ab is most probably also drawn from there. Despite these uncertainties, I take 2cd-6 to be drawn from the SYM. Verses 7 and 8 are Abhinava’s analysis, as Jayaratha maintains. Anyway, it is clear that there are two Śaiva mortuary rites. One is Saiddhāntika, which is publicly performed, and so is ‘generally well known’. The other is a private (‘secret’) rite for Kaula (in this case Trika) initiates. It may be performed by itself or after the basic common, purificatory, mortuary rites. Abhinava does not specify, but clearly this may be Śaiva or Smārta, in line with the Śaiva scriptures that tend to either eliminate Vedic ritual or, as we have seen, supplement it with a Śaiva counterpart. Newar Kaula initiates perform a separate, additional mortuary rite apart from the smarta one for a deceased initiate, in the course of which the mantra the deceased has received is returned to the teacher from whom he received initiation.
+829?\. where the procedure for the offering of food to the ancestors (śrāddha) is taught. He docs not say, as he normally would, that he is quoting from his teacher’s Tantrāloka. Introducing this passage in NTu ad 18/1 19ab, he says that ‘there (with regards to that), the procedure for the offering of food to the ancestors according to the Siddhānta is generally well known (prasiddha). However, it is stated (in the following passage) in accord with manner of offering the food taught in the secret procedure (rahasyavidhi).” tatra saiddhāntikaśrāddhavidhis tāvat prasiddhaḥ, rahasyavidhau tu ity evaṁ naivedyanivedanayuktyaivoktaḥ. It is possible to take rahasyavidhi, ‘the secret procedure’, to be the name of the source text. The possibility that Kṣemarāja is referring to the procedure taught in the Siddhātantra in this way is doubtful, as he goes on to quote a passage corresponding to TĀ 24/6cd-10ab, saying that it is from the Siddhā. But if he is referring to the SYM, then 2cd-4ab is most probably also drawn from there. Despite these uncertainties, I take 2cd-6 to be drawn from the SYM. Verses 7 and 8 are Abhinava’s analysis, as Jayaratha maintains. Anyway, it is clear that there are two Śaiva mortuary rites. One is Saiddhāntika, which is publicly performed, and so is ‘generally well known’. The other is a private (‘secret’) rite for Kaula (in this case Trika) initiates. It may be performed by itself or after the basic common, purificatory, mortuary rites. Abhinava does not specify, but clearly this may be Śaiva or Smārta, in line with the Śaiva scriptures that tend to either eliminate Vedic ritual or, as we have seen, supplement it with a Śaiva counterpart. Newar Kaula initiates perform a separate, additional mortuary rite apart from the smarta one for a deceased initiate, in the course of which the mantra the deceased has received is returned to the teacher from whom he received initiation.
 
 
 *[p. 358]* ^pg378
@@ -98,7 +98,7 @@ Surely (one may ask), the initiate after death spontaneously becomes one with Si
 एकेनैव विधानेन यद्यपि स्यात्कृतार्थता |
 तथापि तन्मयीभावसिद्धयै सर्वं विधि चरेत् ॥ ८ ॥
 ekenaiva vidhānena yady api syāt kṛtārthatā |
-tathāpi tanmayībhāvasiddhyai sarvar vidhiṁ caret |l 8 ॥ 
+tathāpi tanmayībhāvasiddhyai sarvar vidhiṁ caret ॥ 8 ॥ 
 
 Although the purpose is achieved by just one of (these) procedures, even so, in order to achieve a state of oneness, (the teacher) should apply all the procedures. (8) 
 
@@ -280,7 +280,7 @@ The Worship of the Assembly When Performing śrāddha for the Ancestors
 स चक्रेष्टिः भवेच्छैतो न तु स्यात्पाशवो विधिः ॥ १६ ॥
 
 yasya kasyāpi vā śrāddhe gurudevāgnitarpanṇam |
-sa cakreṣtiḥ bhavec chrauto na tu syāt pāśavo vidhiḥ ॥ 16 Il 
+sa cakreṣtiḥ bhavec chrauto na tu syāt pāśavo vidhiḥ ॥ 16 ॥ 
 
 The lustration of the teacher, deity and fire that is done in the course of making offerings to the ancestors (śrāddha), for whomsoever (it may be performed who is initiated), is a sacrifice of the assembly \[illegible\] The procedure should not be Vedic (śrauta), which is (meant for) the uninitiated (paśu).” (16) 
 
@@ -338,7 +338,7 @@ He paraphrases the book called Siddhayogīśvarīmata:”
 भावनातन्मयीभावे सा नाडी वहति सरम् |
 यद्रा वाहयितुं यष्टा तटं तेन पाणिना ॥ २० ॥
 आपीड्य कुक्षिं नमयेत्सा वहेन्नाडिका क्षणात् ।
-yā vāhayitum iṣyeta nādī tām eva bhāvayet ॥ 19 I|
+yā vāhayitum iṣyeta nādī tām eva bhāvayet ॥ 19 ॥
 bhāvanātanmayībhāve sā nāḍī vahati sphuṭam |
 yadvā vāhayituṁ yeṣṭā tadaṁgaṁ tena 0211114 || 20 ॥
 āpīdya \[illegible\] namayet sā vahen nādikā kṣanāt | 
@@ -381,7 +381,7 @@ Surely (one may ask), it is said that initiation by itself is the means to (both
 शक्तिपातोदये जन्तोरयेनोपायेन दैशिकः ॥ २२॥
 करोत्युद्धरणं तत्तन्निवीणायास्य कल्पते ।
 
-saktipātodaye jantor yenopāyena daiśikaḥ ॥ 22 Il karoty uddharaṇaṁ tattannirvāṇāyāsya kalpate | 
+saktipātodaye jantor yenopāyena daiśikaḥ ॥ 22 ॥ karoty uddharaṇaṁ tattannirvāṇāyāsya kalpate | 
 
 Once a descent of the power (of grace) has arisen for someone, whatever be the means the teacher applies to extract (him from his fettered state) serves to extinguish it (nirvānāya) (and liberate him). (22cd-23ab) 
 
@@ -423,13 +423,13 @@ caryāmātrāt kathaṁ sā syād ity ataḥ samam uttaram || 25 ||
 prahasyoce vibhuḥ kasmād bhrantis te parameśituḥ |
 sarvānugrāhakatvari hi sahsiddhaṁ dṛśyatāṁ kila ॥ 26 ॥ 
 
-“If liberation (is attained) by discriminating (viveka) between the metaphysical principles \[illegible\] initiation or Yoga, how can it (be attained) by (observance and right) conduct (caryā) alone?” Then, the all-pervasive Lord, smiling, uttered the corresponding answer: “How has (this) your delusion (arisen)? It is well established (and recognised) that the Supreme Lord graces everybody. See (for yourself)!” (25-26) 
+“If liberation (is attained) by discriminating (viveka) between the metaphysical principles (tattva), initiation or Yoga, how can it (be attained) by (observance and right) conduct (caryā) alone?” Then, the all-pervasive Lord, smiling, uttered the corresponding answer: “How has (this) your delusion (arisen)? It is well established (and recognised) that the Supreme Lord graces everybody. See (for yourself)!” (25-26) 
 
 #### Viveka on 25.25–26
 
 That is said there (in the Mataṅgatantra): 
 
-‘Liberation (is attained) by discriminating (viveka) between the metaphysical principles \[illegible\] that is, by reflecting (pravicārataḥ) on (the nature) of Earth and the rest (of them). Another (liberation), which is well ascertained, is by means of initiation, and that (teaching) has assumed a place in the section concerning ritual (kriyāpāda). A third is accomplished by what is stated in the section concerning Yoga,” and that too is taught (as sound). (However) how could” the fourth be well-accomplished by (right conduct and) observance (caryā) alone, (and why) should (that) be taken up?” When there is knowledge of Śiva, sever the sprout of ignorance concerning Me.” 
+‘Liberation (is attained) by discriminating (viveka) between the metaphysical principles (tattva), that is, by reflecting (pravicārataḥ) on (the nature) of Earth and the rest (of them). Another (liberation), which is well ascertained, is by means of initiation, and that (teaching) has assumed a place in the section concerning ritual (kriyāpāda). A third is accomplished by what is stated in the section concerning Yoga,” and that too is taught (as sound). (However) how could” the fourth be well-accomplished by (right conduct and) observance (caryā) alone, (and why) should (that) be taken up?” When there is knowledge of Śiva, sever the sprout of ignorance concerning Me.” 
 
 849?\. The following passage is not found in the vidyāpāda of the Mataṁgatantra, which is the only section (pāda) of this Siddhāntāgama that has been edited. It appears that this question introduces the section concerned with right conduct and observance (caryāpāda). See the following note.
 
@@ -461,7 +461,7 @@ He justifies that this (teaching is sound) by presenting an example.
 prāptamṛtyor viṣavyādhiśastrādi kila kāraṇam |
 alpa vā bahu vā tadvad anudhyā muktikāraṇam ॥ 27 ॥
 muktyartham upacaryante bāhyaliṅgāny amūni tu |
-iti jñātvā na sandeha ittharn kāryo vipaścitā ॥ 28 ॥
+iti jñātvā na sandeha itthaṁ kāryo vipaścitā ॥ 28 ॥
 iyataiva kathan muktir iti bhakti parām śrayet | 
 
 The (apparent external) cause (of death), whether it be much or little, of a man whose time has come to die, is poison, illness, (wounds made by a) weapon or the like (but this is not the ultimate cause). Similarly, these (rites) with external (visible) signs are (only) secondarily said to serve (as a means) to liberation. The (essential) cause of liberation is devout meditation (anudhyā). Once a wise man has understood this, he should not cultivate (any) doubt about how liberation (is possible) by just this (practice of right conduct and observance alone). Accordingly, (leaving all else aside,) he should dedicate himself to supreme devotion (alone). (27-29ab) 
@@ -486,7 +486,7 @@ He concludes this (topic) with the first half (of verse):
 ### TĀ 25.29
 
 उक्तः श्राद्धविधिर्भ्रन्तिगरातडविमर्दनः ॥ २९ ॥
-uktaḥ śŚrāddhavidhir bhrantigarātaṁkavimardanaḥ |l 29 ॥ 
+uktaḥ śŚrāddhavidhir bhrantigarātaṁkavimardanaḥ ॥ 29 ॥ 
 
 (Thus) has been taught the procedure to make offerings to the ancestors (Śrāddha), which destroys the fear brought about by the poison of error. (29cd) 
 
@@ -500,7 +500,7 @@ This is the twenty-fourth chapter of the venerable Tantrālokaviveka, called the
 
 856?\. The edition of the MPĀ reads pranaṣtarāgasya — (whose) attachment has been destroyed’ for prasannabhāvasya — ‘who is (tranquil and) content’.
 
-857?\. Read with the edition of the MPA, rayāvistasya for \[illegible\] śiṣyasya.
+857?\. Read with the edition of the MPA, rayāvistasya for tayā śiṣyasya.
 
 858?\. MPĀ caryāpāda 4ḷ6cd-10, 13. I have added the translation of the two verses Jayaratha omits in brackets.
 
@@ -518,7 +518,7 @@ Now, in order to teach the way of life that remains concerning those who have re
 ### TĀ 26.1
 
 अथोच्यते शेषवृक्तिरजीवतामुपयोगिनी ॥ १ ॥
-athocyate Śeṣavṛttir jīvatām upayoginī ॥ 1 Il 
+athocyate Śeṣavṛttir jīvatām upayoginī ॥ 1 ॥ 
 
 Now we will explain the way of life that remains (to be observed after having received initiation) (Seṣavṛtti), which is of benefit (for one’s life and the good of all) living beings.? (1) 
 
@@ -563,7 +563,7 @@ Teacher Instructs as to the Daily Conduct, Including Ritual and Mantra
 tatra saṁskārasiddhyai yā dīkṣā sākṣān na mocanī |
 anusamidhivaśād yā ca sākṣān moktrī sabījikā ॥ 3 ॥
 tayobhayyā dīkṣitā ye teṣām ājīvavartanam |
-vaktavyarn putrakādīnāṁ tanmayatvaprasiddhaye ॥ 4 || 
+vaktavyaṁ putrakādīnāṁ tanmayatvaprasiddhaye ॥ 4 || 
 
 There (in that regard), the initiation which serves to accomplish (a preliminary) purification does not liberate directly. The one that is directly liberating, (chosen) in accord with (the teacher’s) unifying intention (anusandhi),\* is one ‘with seed’. It is necessary to explain to those spiritual sons and others who have been initiated with this one out of the two, how to behave up to the end of their life, so that they may attain oneness (with the Lord when they die). (3-4) 
 
@@ -690,9 +690,9 @@ kāmyavarjari yataḥ kāmāś citrāś citrābhyupāyakāḥ ॥ 11 ॥
 tatra nityo vidhiḥ sandhyānuṣthānaṁ devatāvrate |
 gurvagniśāstrasahite pūjā bhūtadayety ayam ॥ 12 ||
 naimittikas tu sarveṣāṁ parvanāṁ pūjanaṁ japaḥ |
-viśeṣavaśataḥ kiñca pavitrakavidhikramaḥ |l 13 ॥
+viśeṣavaśataḥ kiñca pavitrakavidhikramaḥ ॥ 13 ॥
 ācāryasya ca dīkṣeyaṁ bahubhedā vivecitā |
-vyākhyādikaṁ ca tat tasyādhikaṁ naimittikarn dhruvam || 14 ॥
+vyākhyādikaṁ ca tat tasyādhikaṁ naimittikaṁ dhruvam || 14 ॥
 tatrādau śiíśave brūyād gurur nityavidhińn sphutam |
 tadyogyatāmi samālokya vitatāvitatātmanām || 15 ॥
 mukhyetarādimantrāṇāṁ vīryavyāptyādiyogyatām \\ dṛṣtvā śiṣye tam evāsmai mūlamantraṁ samarpayet ॥ 16 ॥ 
@@ -775,7 +775,7 @@ puṣpapātavaśāt siddho mantro ‘rpyaḥ sādhyasiddhaye ॥ 18 ॥
 vitate gunabhūte vā vidhau diṣte punar guruḥ |
 777
 
-‘smai yogyatāsāraṁ sarnṁkṣiptan vidhim ācaret ॥ 19 ॥
+‘smai yogyatāsāraṁ saṁkṣiptan vidhim ācaret ॥ 19 ॥
 tatraiṣa niyamo yad yan māntrari rūpaṁ na tadguruḥ |
 likhitvā prathayec chiṣye viśeṣād ürdhvaśāsane ॥ 20 ॥ 
 
@@ -792,7 +792,7 @@ likhitvā prathayec chiṣye viśeṣād ürdhvaśāsane ॥ 20 ॥
 
 *[p. 377]* ^pg397
 
-three types of initiate, namely) an adept \[illegible\] one who desires worldly benefits, or one who is about to become an adept. (18) 
+three types of initiate, namely) an adept (sādhaka), one who desires worldly benefits, or one who is about to become an adept. (18) 
 
 ### TĀ 26.19
 
@@ -865,8 +865,8 @@ Thus, he says:
 इति ज्ञात्वा गुरः सम्यक् परमानन्दपूर्णितः ॥ २४ ॥
 तादृशो तादृशे धाम्नि पूजयित्वा विधिं चरेत् ।
 
-ye tu pustakalabdhe ‘pi mantre vīryaṁ prajānate ॥ 23 |I te bhairavīyasaskārāḥ proktāḥ sāṁsiddhikā iti \\ iti jñātvā guruḥ samyak paramānandaghūrnitaḥ ॥ 24 ॥
-tādṛśe tādṛśe dhāmni pūjayitvā vidhirn caret | 
+ye tu pustakalabdhe ‘pi mantre vīryaṁ prajānate ॥ 23 ॥ te bhairavīyasaskārāḥ proktāḥ sāṁsiddhikā iti \\ iti jñātvā guruḥ samyak paramānandaghūrnitaḥ ॥ 24 ॥
+tādṛśe tādṛśe dhāmni pūjayitvā vidhiṁ caret | 
 
 881?\. Whether a particular mantra or part of it has some literal meaning or not, the power of the mantra lies in the power of the awareness of the one who recites it. By ‘awareness’ is meant a direct apprehension unmediated by thoughts and notions. These are clothed in language constituted of words that convey the meanings that convention assigns to them. A mantra is ‘meaningful’ in a different sense: it heightens and deepens awareness of the Deity which is its object and of which the mantra is the body.
 
@@ -902,11 +902,11 @@ The Teacher Imparts Trika Mantras in Secret
 
 yathānyaśiṣyānuṣthānaṁ nānyaśiṣyena budhyate ॥ 25 ॥
 tathā kuryād gurur guptihānir doṣavatī yataḥ |
-devīnām tritayańi Śuddharn yad vā yāmalayogataḥ ॥ 26 ॥
+devīnām tritayańi Śuddhaṁ yad vā yāmalayogataḥ ॥ 26 ॥
 devīm ekām atho śuddhāṁ vaded vā yāmalātmikām |
 tatra mantraḥ sphuṭaṁ vaktrād gurunopāṁśu coditam || 27 ॥
 avadhāryāpravṛttes tam abhyasyen manasā svayam |
-tataḥ suśikṣitā sthānadehāntahśodhanatrayīm I| 28 Il nyāsaṁ dhyānaṁ japan mudrām pūjāṁ kuryāt prayatnataḥ | 
+tataḥ suśikṣitā sthānadehāntahśodhanatrayīm || 28 || nyāsaṁ dhyānaṁ japan mudrām pūjāṁ kuryāt prayatnataḥ | 
 
 Just as one disciple does not know the religious practice (anuṣthāna) of another, so too the teacher should act (in secrecy), for a breach of secrecy is a (culpable) defect. (The mantras) he should tell (his disciple) may be that of the triad of Goddesses, who may be pure (i.e. solitary), or in union with (their consorts). He may tell him (the Mantra of just) one goddess, pure (i.e. alone), or else in union (with her Bhairava).” (25cd-27ab) 
 
@@ -971,7 +971,7 @@ kṛtāvaśyakakartavyaḥ śuddho bhūtvā tato gṛham |
 mudrāpradarśanari dhyānaṁi bhedābhedasvarūpataḥ ॥ 31 ॥
 dehāsudhīvyomabhūṣu manasā tatra cārcanam |
 japar cātra yathāśakti devāyaitan nivedanam || 32 ॥
-tanmayībhāvasiddhiyarthaṁ pratisandhyarn samācaret |
+tanmayībhāvasiddhiyarthaṁ pratisandhyaṁ samācaret |
 anye tu prāgudakpaścāddakṣadikṣu catuṣtayīm ॥ 33 ॥
 sandhyānām āhur etac ca tāntrikīyaṁ na no matam | 
 
@@ -993,7 +993,7 @@ Again, he says (the following, in accord) with our own view.
 
 yāsau kālādhikāre prāk sandhyā proktā catuṣtayī ॥ 34 ॥
 tām evāntaḥ samādhāya sāndhyaṁ vidhim upācaret |
-sandhyācatuṣṭayīkṛtyam ekasyām athavā śiśuḥ Il 35 ॥
+sandhyācatuṣṭayīkṛtyam ekasyām athavā śiśuḥ ॥ 35 ॥
 kuryāt svādhyāyavijñānagurukṛtyāditatparaḥ | 
 
 889?\. Concerning the ritual ablution by which the officiant purifies himself, see above, 15/38cd-79.
@@ -1060,15 +1060,15 @@ Invocation (ā&vāhana)
 
 tato yatheṣtakāle ‘sau \[illegible\] puṣpāsavādibhiḥ ॥ 37 ॥
 sthandilādau śiśuḥ kuryād vibhavādyanurūpataḥ |
-suśuddhaḥ san vidhi sarvarn kṛtvāntarajapāntakam || 38 ॥
-arghapātrarn purā yadvad vidhāya sveṣtamantrataḥ |
+suśuddhaḥ san vidhi sarvaṁ kṛtvāntarajapāntakam || 38 ॥
+arghapātraṁ purā yadvad vidhāya sveṣtamantrataḥ |
 tena sthandilapuṣpādi sarvan saiprokṣayed budhaḥ ॥ 39 ॥
 tatas tatraiva saṁkalpya dvārāsanagurukramam |
 pūjayec chivatāviṣtaḥ svadehārcāpurahsaram || 40 ॥
-tatas tat sthandilarn vīdhravyomasphaṭikanirmalam |
+tatas tat sthandilaṁ vīdhravyomasphaṭikanirmalam |
 bodhātmakam samālokya tatra svan devatāganam || 41 ॥
 pratibimbatayā paśyed bimbatvena ca bodhataḥ |
-etad āvāhanami mukhyarn vyajanān marutām iva || 42 || 
+etad āvāhanami mukhyaṁ vyajanān marutām iva || 42 || 
 
 Then, whenever he wishes, the disciple should worship on the sacrificial surface” (sthandila) etc. with flowers, wine and the like, 
 
@@ -1102,7 +1102,7 @@ Analysing the example, he explains:
 अर्थकृत्सर्वगं मन्चक्र रूदेस्तथा भवेत् ॥ ४३ ॥
 चतुष्कपञ्चाशिकायां तदेतत्त्वमुच्यते ।
 5471460 ‘pi marud yadvad vyajanenopavījitaḥ |
-arthakṛt sarvagaṁ mantracakrarn rūdhes tathā bhavet ॥ 43 ॥
+arthakṛt sarvagaṁ mantracakraṁ rūdhes tathā bhavet ॥ 43 ॥
 catuṣkapañcāśikāyār tad etat tattvam ucyate | 
 
 Just like air which, although present everywhere, produces its (own) effects (arthakṛt), (only when) fanned? by a fan, so too the omnipresent assembly (cakra) of mantras (produces its effects) by mounting in this way (onto the sacrificial surface). This, its true nature (tattva), is explained in the Catuṣkapañcāśikā. (43-44ab) 
@@ -1186,7 +1186,7 @@ prāṇinām aprabuddhānār santoṣajananāya vai |
 kālena tu vijānanti pravṛttāḥ patiśāsane |
 anukramenṇa devasya prāptiṁ bhuvanapūrvikām ॥ 49 ॥
 jñānadīpadyutidhvastasamastājñānasañcayāḥ |
-kuto vānīyate devaḥ kutra vā nīyate ‘pi saḥ ॥ 50 II sthūlasūkṣmādibhedena sa hi sarvatra saṁsthitaḥ | 
+kuto vānīyate devaḥ kutra vā nīyate ‘pi saḥ ॥ 50 ॥ sthūlasūkṣmādibhedena sa hi sarvatra saṁsthitaḥ | 
 
 “I have invoked the deity (deva) into the sacrificial surface, installed, worshipped and praised (him there)” — having perceived (him joyfully) in this way, the deity should (then) be dismissed. The invocation and the other (ritual actions are performed) in order to satisfy (santoṣajanana) unawakened living beings. Otherwise, how else could they (be induced to) progress (along the path to liberation)? Engaged (in following) Śaiva doctrine (patiśāsana), with time they come to know the attainment of the deity which, preceded (and based on the attainment of the) 
 
@@ -1216,7 +1216,7 @@ In order to teach what should be done after the invocation of the deity, (the Ta
 दीप्तानां शक्तिनादादिमन््राणामासवैः पटैः ॥ ५२ ॥
 रक्तैः प्राक् तर्पणं पश्चात् पुष्पधूपादिविस्तरैः ।
 
-āvāhite mantragane puṣpāsavanivedanaiḥ || 51 |I dhūpaiś ca tarpaṇaṁ kāryaṁ śraddhābhaktibalocitaiḥ \\ dīptānār śaktinādādimantrāṇām āsavaiḥ palaiḥ ॥ 52 ॥
+āvāhite mantragane puṣpāsavanivedanaiḥ || 51 || dhūpaiś ca tarpaṇaṁ kāryaṁ śraddhābhaktibalocitaiḥ \\ dīptānār śaktinādādimantrāṇām āsavaiḥ palaiḥ ॥ 52 ॥
 raktaiḥ prāk tarpaṇaṁ paścāt puṣpadhūpādivistaraiḥ | 
 
 “Once the host of Mantras has been invoked, one must offer (them) libation (tarpana), along with offerings of flowers, wine, and incense (of various kinds), as befits the strength of (the officiant’s) faith and devotion." Libation“ should first be offered to the energized Mantras of Śakti and (Her) Lord etc.“ with wine, meat and blood, and then with flowers, incense and the rest of the full extent (of the offerings). (51cd-53ab) 
@@ -1301,7 +1301,7 @@ Surely (one may ask), what is the means (required) for a particular (ritual) pro
 रक्तकपीसतूलेच्छुसतुल्यतद्बीजपुञ्चवत् ।
 सन्ति भोगे विरोषाश्च विचित्रा; कारणेरिताः ॥ ५७ ॥
 
-kārye viíeṣam ādhitsur \[illegible\] kāraṇari spṛśet ॥ 56 II raktakarpāsatūlecchus tulyatadbījapuñjavat |
+kārye viíeṣam ādhitsur \[illegible\] kāraṇari spṛśet ॥ 56 ॥ raktakarpāsatūlecchus tulyatadbījapuñjavat |
 santi bhoge viśeṣāśca vicitrāḥ kāranṇeritāḥ ॥ 57 ॥ 
 
 One who wants a particular result should lay hold of \[illegible\] the particular (corresponding) cause, just as one who desires (to cultivate) saffron (rakta) and varieties of cotton (karpāsa and tūla) (requires their corresponding) seeds, which are as they are. (Thus,) the (many) particular worldly experiences (bhoga) are determined by (as many) varied causes. (56cd-57) 
@@ -1364,7 +1364,7 @@ citaḥ svātantryasāratvāt tasyānandaghanatvataḥ | 60 ॥
 
 kriyā syāt tanmayībhūtyai hṛdayāhlādadāyibhiḥ | 
 
-The essence of consciousness is freedom, and that is its dense (uninterrupted) bliss. Thus, (it is for this reason that ritual) action \[illegible\] aimed at (attaining) a state of oneness (with consciousness) (must be performed with the aid of factors that) bring joy to the heart. (60cd-6lab) 
+The essence of consciousness is freedom, and that is its dense (uninterrupted) bliss. Thus, (it is for this reason that ritual) action (kriyā) aimed at (attaining) a state of oneness (with consciousness) (must be performed with the aid of factors that) bring joy to the heart. (60cd-6lab) 
 
 #### Viveka on 26.60–61
 
@@ -1391,7 +1391,7 @@ He (now) states that he explained this himself elsewhere at length.
 Hymn to Inner Worship 
 
 स्तोत्रेषु बहुधा चैतन्मया प्रोक्तं निजाहिके ॥ ६२ ॥
-stotreṣu bahudhā caitan mayā proktarn nijāhnike ॥ 62 ॥ 
+stotreṣu bahudhā caitan mayā proktaṁ nijāhnike ॥ 62 ॥ 
 
 I have said this many times in (my) hymns, in the course of my own daily worship (āhnika). (62cd) 
 
@@ -1491,14 +1491,14 @@ The meaning has been explained in a previous (part of the) commentary, and so is
 ### TĀ 26.68
 
 तच्चोक्तं कर्तृतातत्वनिरूपणविधौ पुरा ॥ ६८ ॥
-tac \[illegible\] kartṛtātattvanirīpaṇavidhau purā || 68 II 
+tac \[illegible\] kartṛtātattvanirīpaṇavidhau purā || 68 || 
 
 923?\. See above, 15/259ab. We are told below (32/9cd-10ab) that mudrās are each of four kinds, according to whether they are of body, hands, speech, or the mind.
 
 
 *[p. 395]* ^pg415
 
-This has been said before in the course of the procedure of describing (and perceiving) the true (and essential) nature \[illegible\] of the agency (of consciousness). (68cd) 
+This has been said before in the course of the procedure of describing (and perceiving) the true (and essential) nature (tattva) of the agency (of consciousness). (68cd) 
 
 #### Viveka on 26.68
 
@@ -1536,7 +1536,7 @@ He (now) states the reason why (the remnant of the food offering) is thrown into
 विधिना भाविना श्रीमन्मीननाथावतारिणा ॥ ७१ ॥
 
 prānino jalajāḥ pūrvadīkṣitāḥ śambhunā svayam |
-vidhinā bhāvinā śrīmanmīnanāthāvatārinā ॥ 71 Il 
+vidhinā bhāvinā śrīmanmīnanāthāvatārinā ॥ 71 ॥ 
 
 Aquatic creatures have (in fact already) been initiated previously by Śiva Himself, by means of the procedure that will be (taught later,) that has been brought down (into the world) by the venerable Mīnanātha.“ (71) 
 
@@ -1604,12 +1604,12 @@ Nor is that said without a basis (in scripture). Thus, he says:
 मार्जयित्वा ततः स्नाते पुष्पेणाथ प्रपूजयेत् ॥ ७५ ॥
 पुष्पादि सर्वं यत्स्थं तदगाधाम्भसि निधिपेत् ।
 
-srīmanmatamahāśāstre tad uktarn vibhunā svayam |
+srīmanmatamahāśāstre tad uktaṁ vibhunā svayam |
 saṁkasaṁkocaniṣkāsanaparāyanaḥ ॥ 74 ॥
 bhavet tathā yathānyeṣāṁ \$ \[illegible\] no manasi sphuret | 
 
 mārjayitvā tataḥ snāte puṣpenātha prapūjayet ॥ 75 ॥
-puṣpādi sarvarn yatsthańn tadagādhāmbhasi nikṣipet | 
+puṣpādi sarvaṁ yatsthańn tadagādhāmbhasi nikṣipet | 
 
 The pervasive Lord Himself has said in the venerable and great Mata scripture: ‘One should oneself be intent on opening up the 
 
@@ -1647,7 +1647,7 @@ This is the twenty-sixth chapter of the venerable Tantrālokaviveka, called the 
 
 930?\. Read snāte for snānar.
 
-931?\. Read yatstharn for tatsthaṁ.
+931?\. Read yatsthaṁ for tatsthaṁ.
 
 932?\. Here Abhinavagupta is most probably referring here to his Trika teacher Śambhunātha.
 

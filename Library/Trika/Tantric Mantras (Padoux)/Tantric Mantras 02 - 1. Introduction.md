@@ -4,7 +4,7 @@ book: "[[Tantric Mantras (Padoux)]]"
 order: 2
 page_range: "1–11"
 ---
-[p. 1]
+[p. 1] ^pg1
 
 # 1 Introduction
 

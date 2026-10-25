@@ -18,8 +18,7 @@ language:
   - English
 pages: 644
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[ed_Samarasya_Studies_in_Indian_Arts_Phi.pdf]]"
   - "[[Library/Trika/Samarasya (Das)/Samarasya (Das)]]"

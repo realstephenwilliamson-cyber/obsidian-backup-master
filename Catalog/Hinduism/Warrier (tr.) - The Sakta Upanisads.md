@@ -17,8 +17,7 @@ language:
   - English
 pages: 118
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The Sakta Upanishads Tr. by A.G. Krishna Warrier - Adyar Library.pdf]]"
 aliases: []

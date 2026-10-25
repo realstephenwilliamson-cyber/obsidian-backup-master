@@ -20,8 +20,7 @@ language:
   - English
 pages: 408
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Adorno, Benjamin - The Complete Correspondence 1928-1940 (2000).pdf]]"
   - "[[Library/Philosophy/The Complete Correspondence, 1928-1940 (Adorno)/The Complete Correspondence, 1928-1940 (Adorno)]]"

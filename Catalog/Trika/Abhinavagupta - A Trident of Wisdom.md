@@ -18,8 +18,7 @@ language:
   - English
 pages: 428
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Abhinavagupta - A Trident of Wisdom (1989).pdf]]"
   - "[[Library/Trika/Abhinavagupta - A Trident of Wisdom (Abhinavagupta)/Abhinavagupta - A Trident of Wisdom (Abhinavagupta)]]"

@@ -17,8 +17,7 @@ language:
   - English
 pages: 717
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Craig - The Platonian Leviathan (2010).pdf]]"
   - "[[Library/Philosophy/The Platonian Leviathan (Craig)/The Platonian Leviathan (Craig)]]"

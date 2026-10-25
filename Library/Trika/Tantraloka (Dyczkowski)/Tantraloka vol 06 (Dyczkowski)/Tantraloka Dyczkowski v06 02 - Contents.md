@@ -148,11 +148,11 @@ Monier-Williams Mund
 
 Mundaka Upaniṣad MT 
 
-Mṛgendratantra MrTvK 
+Mṛgendratantra MṛTvK 
 
-Mṛgendratantravṛtti Kriyāpāda MrKri 
+Mṛgendratantravṛtti Kriyāpāda MṛKri 
 
-Mṛgendratantra Kriyāpāda MrV 
+Mṛgendratantra Kriyāpāda MṛV 
 
 Mṛgendratantra Vidyāpāda NGMPP 
 
@@ -178,7 +178,7 @@ Parātrīśikā (= Parātrimśika)
 
 PTv 
 
-Parātrimśikavivaraṇa (Parātrīśikāvivarana) 
+Parātrimśikavivaraṇa (Parātrīśikāvivaraṇa) 
 
 PāSū 
 
@@ -192,7 +192,7 @@ Paramārthasāra PV
 
 Pramānṇavārtika PVi 
 
-Pramānaviniścaya PrHr 
+Pramānaviniścaya PrHṛ 
 
 Pratyabhijṁñāhṛdaya RSO 
 
@@ -228,7 +228,7 @@ Spandakārikā SpNi
 
 Spandanirnaya SpPra 
 
-Spandapradīpikā SpSarn 
+Spandapradīpikā SpSaṁ 
 
 6 andasaṁndoha 
 

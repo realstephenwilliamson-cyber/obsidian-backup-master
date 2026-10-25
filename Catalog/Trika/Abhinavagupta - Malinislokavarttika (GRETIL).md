@@ -17,8 +17,7 @@ language:
   - "Sanskrit"
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Texts/Malinislokavarttika/Malinislokavarttika]]"
 aliases: []

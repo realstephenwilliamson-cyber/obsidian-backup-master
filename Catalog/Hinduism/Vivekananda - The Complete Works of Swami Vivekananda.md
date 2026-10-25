@@ -18,7 +18,7 @@ language:
 pages: 4112
 text: searchable
 status: review
-physical_copy: false
+print: false
 files:
   - "[[Vivekananda - The Complete Works of Swami Vivekananda.pdf]]"
 aliases:

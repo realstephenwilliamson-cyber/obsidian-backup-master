@@ -62,15 +62,15 @@ and Led Upwards Inspired by Grace
 अनेन क्रमयोगेन संप्राप्तः परमं पदम् ॥ ६ ॥
 न भूयः पशुतामेति शुद्धे स्वात्मनि तिष्ठति ।
 
-uktarn śrīmālinītantre kila pārthivadhāraṇām |
+uktaṁ śrīmālinītantre kila pārthivadhāraṇām |
 uktvā yo yojito yatra sa tasmān na nivartate ॥ 2 ॥
 yogyatāvaśasañjātā yasya yatraiva vāsanā |
-sa tatraiva niyoktavyo dīkṣākāle tatas tv asau || 3 I|
+sa tatraiva niyoktavyo dīkṣākāle tatas tv asau || 3 ||
 phalaṁ sarvar samāsādya śive yukto ‘pavṛjyate |
 ayukto ‘py ūrdhvasahśuddhiṁn saṁprāpya bhuvaneśataḥ ॥ 4 ॥
 suddhaḥ śivatvam āyāti dagdhasaisārabandhanaḥ |
-uktvā \[illegible\] \[illegible\] coktam etad vaidāntikaṁ mayā I| 5 ॥
-kapilāya purā proktarn prathame paṭale tathā |
+uktvā \[illegible\] \[illegible\] coktam etad vaidāntikaṁ mayā ॥ 5 ॥
+kapilāya purā proktaṁ prathame paṭale tathā |
 anena kramayogena samprāptaṁi paraman padam ॥ 6 ॥
 na bhūyaḥ paśutāmeti śuddhe svātmani tiṣthati \\ 
 
@@ -107,7 +107,7 @@ samastaśāstrakathitavastuvaiviktyadāyinaḥ ॥ 8 ॥
 sivāgamasya sarvebhyo ‘py āgamebhyo viśiṣṭatā |
 sivajñānena ca vinā bhūyo ‘pi paśutodbhavaḥ ॥ 9 ॥ 
 
-Thus, the sense that (these verses) suggest is also that 1) one who has been conjoined to reality levels \[illegible\] below that of Śiva, should be extracted from them again (and elevated further). 2) Śiva’s scripture bestows separation from the realities taught in all (the other) doctrines \[illegible\] (Such) is its special (excellence) with respect to all (other) serāptures (which makes it the most elevated of all). 3) Without knowledge of Siva, the fettered state (inevitably) arises again. (7cd-9) 
+Thus, the sense that (these verses) suggest is also that 1) one who has been conjoined to reality levels (tattva) below that of Śiva, should be extracted from them again (and elevated further). 2) Śiva’s scripture bestows separation from the realities taught in all (the other) doctrines \[illegible\] (Such) is its special (excellence) with respect to all (other) serāptures (which makes it the most elevated of all). 3) Without knowledge of Siva, the fettered state (inevitably) arises again. (7cd-9) 
 
 #### Viveka on 22.7–9
 
@@ -122,7 +122,7 @@ Thus, the sense that (these verses) suggest is also that 1) one who has been con
 
 *[p. 280]* ^pg300
 
-out (from the lower levels) by the teacher in the manner, for example, the Lords of the world orders (proceed upwards to higher worlds by abandoning the lower ones impelled by the Supreme Lord). It is said everywhere (in all the Śaiva scriptures) that the means there (to do that) is the initiation by means of which the sectarian signs (of other traditions) are extracted. ‘AIl (the other) doctrines (Śāstra)’ are (the Sāmkhya) of Kapila and the rest. The reality (vastu) taught there is the discrimination between Nature and the individual soul. (However,) even if that (has been achieved,) they are not liberated from Māyā. (Whereas) the Śaivāgama is the main (and most excellent), because it bestows separation from the reality those (others) teach. Thus, it is from that that one attains the supreme level (pada) directly \[illegible\] whereas, on the contrary, those who have attained other philosophies, attain only lower levels. This has been said many times before. 
+out (from the lower levels) by the teacher in the manner, for example, the Lords of the world orders (proceed upwards to higher worlds by abandoning the lower ones impelled by the Supreme Lord). It is said everywhere (in all the Śaiva scriptures) that the means there (to do that) is the initiation by means of which the sectarian signs (of other traditions) are extracted. ‘AIl (the other) doctrines (Śāstra)’ are (the Sāmkhya) of Kapila and the rest. The reality (vastu) taught there is the discrimination between Nature and the individual soul. (However,) even if that (has been achieved,) they are not liberated from Māyā. (Whereas) the Śaivāgama is the main (and most excellent), because it bestows separation from the reality those (others) teach. Thus, it is from that that one attains the supreme level (pada) directly (sākṣāt), whereas, on the contrary, those who have attained other philosophies, attain only lower levels. This has been said many times before. 
 
 And there (in this regard), such is the sequence (of stages) that one should follow, as he says: 
 
@@ -199,12 +199,12 @@ The Proclamation” (to the Lord) and (His) Consent (Śrāvanam cābhyanujñāna
 
 tatropavāsya tarn cānyadine sādhāramantrataḥ ॥ 14 I|
 sthandile pūjayitveśaṁni śrāvayet tasya vartanīm |
-eṣa prāgabhavalliṁgī coditas tv adhunā tvayā ॥ 15 Il prasannena tad etasmai kuru samyag anugraham |
+eṣa prāgabhavalliṁgī coditas tv adhunā tvayā ॥ 15 ॥ prasannena tad etasmai kuru samyag anugraham |
 svaliṅgatyāgaśaṁkottha prāyaścitta ca māsya bhūt ॥ 16 ॥
-acirāt tvanmayībhūya bhogarn mokṣaṁ prapadyatām | 
+acirāt tvanmayībhūya bhogaṁ mokṣaṁ prapadyatām | 
 
 apāsyāmbhasi nikṣipya snapayed anurūpataḥ |
-snātaṁ saṁiprokṣayed arghapātrāmbhobhir anantaram |l 18 ॥
+snātaṁ saṁiprokṣayed arghapātrāmbhobhir anantaram ॥ 18 ॥
 pañcagavyaṁ dantakāṣthaṁ tatas tasmai samarpayet |
 tatas tan baddhanetrar ca praveśya pranipātayet ॥ 19 ॥ 
 
@@ -238,8 +238,8 @@ Bestowing of One of the Seven Common Śaiva Mantras
 
 praṇavo mātṛkā māyā vyomavyāpī ṣadakṣaraḥ |
 bahurūpo ‘tha netrākhyaḥ sapta sādhāranā amī ॥ 20 ॥
-teṣāṁ madhyād ekatamarn mantram asmai samarpayet |
-so ‘py ahorātram evainaṁ japed alpabhug apy abhuk ॥ 21 II mantram asmai samarpyātha sādhāravidhisaṁskṛte |
+teṣāṁ madhyād ekatamaṁ mantram asmai samarpayet |
+so ‘py ahorātram evainaṁ japed alpabhug apy abhuk ॥ 21 ॥ mantram asmai samarpyātha sādhāravidhisaṁskṛte |
 vahnau tarpitatanmantre vrataśuddhiṁ samācaret || 22 || 
 
 1\) OM, 2) Mātṛkā, 3) Māyā, 4) Vyomavyāpin (the Pervader of the Sky), 5) the six-syllabled Mantra, 6) Bahurūpa (the Pluriform), and 7) the one called Netra (the Eye)” — these are the seven (universal) common 
@@ -290,12 +290,12 @@ Purifying Fire Offering
 
 pūjitenaiva mantreṇa kṛtvā nāmāsya saṁputam |
 prāyaścittaṁ śodhayāmi phaṭ svāhety ūhayogataḥ ॥ 23 ॥
-sataṁ sahasraṁ vā hutvā punaḥ pūrnṇāhutiṁ tathā |
+sataṁ sahasraṁ vā hutvā punaḥ pūrṇāhutiṁ tathā |
 prayogād vauṣad antām ca kṣiptvāhūya vrateśvaram ॥ 24 ॥
 tāro vrateśvarāyeti namaś cety enam arcayet |
 srāvayec ca tvayā nāsya kāryaṁ kiñcic chivājñayā ॥ 25 ॥
 tato vrateśvaras tarpyaḥ svāhāntena tataśca saḥ |
-kṣamayitvā visṛjyaḥ syāt tato ‘gneś ca visarjanam |l 26 ॥
+kṣamayitvā visṛjyaḥ syāt tato ‘gneś ca visarjanam ॥ 26 ॥
 tacchravaṇaṁ ca devāya kṣamasveti visarjanam | 
 
 Having encapsulated the name (of his disciple) with the Mantra that is being worshipped (in this way, he inserts it in the following mantra), appropriately 
@@ -400,7 +400,7 @@ Lower Order and to those who are Obscured
 *[p. 288]* ^pg308
 
 gurvantasyāpy adhodṛṣtiśāyinaḥ samskriyām imām ॥ 31 ॥
-kṛtvā rahasyarn kathayen nānyathā kāmike kila |
+kṛtvā rahasyaṁ kathayen nānyathā kāmike kila |
 anyatantrābhiṣikte ‘pi rahasya na prakāśayet ॥ 32 ॥ 
 
 Even (if he is) up to the (level of a) teacher, the secret (teaching) is only to be revealed to a follower of inferior doctrines once this rite of purification (saṁskriyā) has been performed — not otherwise. Indeed, (it is said) in the Kāmika: ‘even if one is consecrated (as a teacher) in another Tantra,” the secret (teaching) should not be revealed (to him)’.” (31cd-32) 
@@ -431,9 +431,9 @@ Surely (one may ask), agreed that there is no advantage (guna) at all in being d
 जप्तवान्स गुरु्चत्र नाधिकारयक्तदूषणात् ॥ ३४ ॥
 ततोऽस्य शुद्धिं प्ाक्कृत्वा ततो दीक्ष समाचरेत् ।
 
-ajñācāryamukhāyātaṁ nirvīryarnṁ mantram eṣa yat |
+ajñācāryamukhāyātaṁ nirvīryaṁ mantram eṣa yat |
 japtavān sa guruś cātra nādhikāry uktadūṣanāt ॥ 34 ॥
-tato ‘sya śuddhirn prāk kṛtvā tato dīkṣām samācaret | 
+tato ‘sya śuddhiṁ prāk kṛtvā tato dīkṣām samācaret | 
 
 (The reason for this) is because he has repeated a Mantra devoid of vitality, that has come from the mouth of an ignorant teacher. Moreover, (that) teacher has no authority (to teach and impart Mantras), due to the 
 
@@ -460,7 +460,7 @@ aforementioned defect. Thus, (a true teacher) may initiate (him again only after
 adhodarśanasaṁsthena gurunṇā dīkṣitaḥ purā ॥ 35 ॥
 tīvraśaktivaśāt paścād yadā gacchet sa sadgurum |
 tadāpy asya śiśor evan śuddhiṁ kṛtvā sa sadguruḥ ॥ 36 ॥
-dīkṣādikarma nikhilarn kuryād uktavidhānataḥ | 
+dīkṣādikarma nikhilaṁ kuryād uktavidhānataḥ | 
 
 One who has been previously initiated by a teacher who belongs to an inferior school of thought (darsana) may subsequently go to a good teacher, thanks to an intense descent of the power (of grace). Then, if (that happens), once that true teacher has thus purified his (new) disciple, he should (without misgivings) perform all the rites of initiation and the rest, in accord with the stated procedure. (35cd-37ab) 
 
@@ -490,7 +490,7 @@ Ascertainment of a Disciple’s Competence
 
 prāpto ‘pi sadgurur yogyabhāvam asya na vetti cet || 37 ॥
 vijñānadāne tac chiṣyo yogyatāmi darśayen nijām |
-sarvathā tv abruvann eṣa bruvānṇo vā viparyayam || 38 I|
+sarvathā tv abruvann eṣa bruvānṇo vā viparyayam || 38 ||
 ajño vastuta eveti tat tyaktvetthaṁ vidhi caret | 
 
 Even once a true teacher has been found, if he does not know the state (of the disciple’s) aptitude to receive the knowledge (of the scriptures) (and wants to ascertain it), the disciple is obliged to show him his own competence (to do \[illegible\] Nevertheless, even if (the disciple) says nothing or says (something) that is contrary (to the teaching) (viparyaya), (the teacher, reflecting that) he is in fact ignorant (by nature) (vastutaḥ), abandoning that (inquiry), should apply the procedure in this way. (37cd-39ab) 
@@ -634,7 +634,7 @@ Veneration of the One Teacher who Bestows the Highest Knowledge
 *[p. 294]* ^pg314
 
 gurūṇār bhūyasām madhye yato vijñānam uttamam || 46 ॥
-prāptaṁ so ‘sya gurur \[illegible\] cātra mukhyā hi saṁvidi | 
+prāptaṁ so ‘sya gurur dīkṣā cātra mukhyā hi saṁvidi | 
 
 Amongst the many teachers, one’s teacher (in the fullest sense is the one) from whom one has obtained the highest knowledge, and his is the chief initiation here within consciousness.“ (46cd-47ab) 
 

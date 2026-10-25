@@ -5,9 +5,7 @@ section: "The Lectionary"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Lectionary/Year%20B.html"
-page_range:
-  - 900
-  - 910
+page_range: "900–910"
 aliases:
   - "BCP 901"
   - "BCP 902"
@@ -26,11 +24,9 @@ aliases:
 
 This Sunday table is the 1979 Prayer Book lectionary, which General Convention resolution 2006-A077 replaced with the Revised Common Lectionary from Advent 2007. For Sunday readings see [[RCL Index]].
 
-[p. 900]
+[p. 900] ^pg900
 
 ## Year B
-
-****Psalm**** **Lessons**
 
 **First Sunday of Advent** · [[BCP Psalm 080#^80-1|80]] *or* [[BCP Psalm 080#^80-1|80:1-7]] · [[Isaiah 63#^63-19|Isaiah 64:1-9a]] [[1 Corinthians 01#^1-1|1 Corinthians 1:1-9]] Mark 13:(24-32)33-37
 
@@ -42,9 +38,7 @@ This Sunday table is the 1979 Prayer Book lectionary, which General Convention r
 
 **Christmas Day I** · [[BCP Psalm 096#^96-1|96]] *or* [[BCP Psalm 096#^96-1|96:1-4]],11-12 · [[Isaiah 09#^9-1|Isaiah 9:2-4]],6-7 [[Titus 02#^2-11|Titus 2:11-14]] [[Luke 02#^2-1|Luke 2:1-14]](15-20)
 
-[p. 901]
-
-****Psalm**** **Lessons**
+[p. 901] ^pg901
 
 **Christmas Day II** · [[BCP Psalm 097#^97-1|97]] *or* [[BCP Psalm 097#^97-1|97:1-4]],11-12 · [[Isaiah 62#^62-6|Isaiah 62:6-7]],10-12 [[Titus 03#^3-4|Titus 3:4-7]] Luke 2:(1-14)15-20
 
@@ -64,9 +58,7 @@ This Sunday table is the 1979 Prayer Book lectionary, which General Convention r
 
 **Third Sunday after Epiphany** · [[BCP Psalm 130#^130-1|130]] · [[Jeremiah 03#^3-21|Jeremiah 3:21]]--4:2 [[1 Corinthians 07#^7-17|1 Corinthians 7:17-23]] [[Mark 01#^1-14|Mark 1:14-20]]
 
-[p. 902]
-
-****Psalm**** **Lessons**
+[p. 902] ^pg902
 
 **Fourth Sunday after Epiphany** · [[BCP Psalm 111#^111-1|111]] · [[Torah 48 - Shoftim#^18-15|Deuteronomy 18:15-20]] [[1 Corinthians 08#^8-1|1 Corinthians 8:1b-13]] [[Mark 01#^1-21|Mark 1:21-28]]
 
@@ -86,9 +78,7 @@ This Sunday table is the 1979 Prayer Book lectionary, which General Convention r
 
 **Second Sunday in Lent** · [[BCP Psalm 016#^16-1|16]] *or* [[BCP Psalm 016#^16-5|16:5-11]] · [[Torah 04 - Vayera#^22-1|Genesis 22:1-14]] [[Romans 08#^8-31|Romans 8:31-39]] [[Mark 08#^8-31|Mark 8:31-38]]
 
-[p. 903]
-
-****Psalm**** **Lessons**
+[p. 903] ^pg903
 
 **Third Sunday in Lent** · [[BCP Psalm 019#^19-7|19:7-14]] · [[Torah 17 - Yitro#^20-1|Exodus 20:1-17]] [[Romans 07#^7-13|Romans 7:13-25]] [[John 02#^2-13|John 2:13-22]]
 
@@ -108,9 +98,7 @@ Liturgy of the Word · [[BCP Psalm 022#^22-1|22:1-21]] *or* [[BCP Psalm 022#^22-
 
 **Wednesday in Holy Week** · [[BCP Psalm 069#^69-7|69:7-15]],22-23 · [[Isaiah 50#^50-4|Isaiah 50:4-9a]] [[Hebrews 09#^9-11|Hebrews 9:11-15]],24-28 [[John 13#^13-21|John 13:21-35]] *or* [[Matthew 26#^26-1|Matthew 26:1-5]],14-25
 
-[p. 904]
-
-****Psalm**** **Lessons**
+[p. 904] ^pg904
 
 **Maundy Thursday** · [[BCP Psalm 078#^78-14|78:14-20]],23-25 · [[Torah 15 - Bo#^12-1|Exodus 12:1-14a]] [[1 Corinthians 11#^11-23|1 Corinthians 11:23-26]](27-32) [[John 13#^13-1|John 13:1-15]] *or* [[Luke 22#^22-14|Luke 22:14-30]]
 
@@ -130,9 +118,7 @@ Principal Service · 118:14-29 *or* 118:14-17,22-24 · [[Acts 10#^10-34|Acts 10:
 
 Evening Service · 114 *or* 136 *or* 118:14-17,22-24 · [[Acts 05#^5-29|Acts 5:29a]],30-32 *or* [[Daniel 12#^12-1|Daniel 12:1-3]] [[1 Corinthians 05#^5-6|1 Corinthians 5:6b-8]] *or* [[Acts 05#^5-29|Acts 5:29a]],30-32 [[Luke 24#^24-13|Luke 24:13-35]]
 
-[p. 905]
-
-****Psalm**** **Lessons**
+[p. 905] ^pg905
 
 **Monday in Easter Week** · [[BCP Psalm 016#^16-8|16:8-11]] *or* [[BCP Psalm 118#^118-19|118:19-24]] · [[Acts 02#^2-14|Acts 2:14]],22-32 [[Matthew 28#^28-9|Matthew 28:9-15]]
 
@@ -152,9 +138,7 @@ Evening Service · 114 *or* 136 *or* 118:14-17,22-24 · [[Acts 05#^5-29|Acts 5:2
 
 **Fourth Sunday of Easter** · [[BCP Psalm 023#^23-1|23]] *or* [[BCP Psalm 100#^100-1|100]] · Acts 4:(23-31)32-37 *or* [[Ezekiel 34#^34-1|Ezekiel 34:1-10]] [[1 John 03#^3-1|1 John 3:1-8]] *or* Acts 4:(23-31)32-37 [[John 10#^10-11|John 10:11-16]]
 
-[p. 906]
-
-****Psalm**** **Lessons**
+[p. 906] ^pg906
 
 **Fifth Sunday of Easter** · [[BCP Psalm 066#^66-1|66:1-11]] *or* [[BCP Psalm 066#^66-1|66:1-8]] · [[Acts 08#^8-26|Acts 8:26-40]] *or* [[Torah 45 - Vaetchanan#^4-32|Deuteronomy 4:32-40]] 1 John 3:(14-17)18-24 *or* [[Acts 08#^8-26|Acts 8:26-40]] [[John 14#^14-15|John 14:15-21]]
 
@@ -168,9 +152,7 @@ Evening Service · 114 *or* 136 *or* 118:14-17,22-24 · [[Acts 05#^5-29|Acts 5:2
 
 Early or Vigil Service · 33:12-22 Canticle 2 or 13 130 Canticle 9 104:25-32 · [[Torah 02 - Noach#^11-1|Genesis 11:1-9]] *or* [[Torah 17 - Yitro#^19-1|Exodus 19:1-9]],16-20a; 20:18-20 *or* [[Ezekiel 37#^37-1|Ezekiel 37:1-14]] *or* [[Joel 2#^2-18|Joel 2:18-32]] [[Acts 02#^2-1|Acts 2:1-11]] *or* [[Romans 08#^8-14|Romans 8:14-17]],22-27 [[John 07#^7-37|John 7:37-39a]]
 
-[p. 907]
-
-****Psalm**** **Lessons**
+[p. 907] ^pg907
 
 **Principal Service** · [[BCP Psalm 104#^104-25|104:25-37]] *or* [[BCP Psalm 104#^104-25|104:25-32]] *or* [[BCP Psalm 033#^33-12|33:12-15]],18-22 · [[Acts 02#^2-1|Acts 2:1-11]] *or* [[Isaiah 44#^44-1|Isaiah 44:1-8]] [[1 Corinthians 12#^12-4|1 Corinthians 12:4-13]] *or* [[Acts 02#^2-1|Acts 2:1-11]] [[John 20#^20-19|John 20:19-23]] *or* [[John 14#^14-8|John 14:8-17]]
 
@@ -190,9 +172,7 @@ Early or Vigil Service · 33:12-22 Canticle 2 or 13 130 Canticle 9 104:25-32 · 
 
 **Proper 3** *Closest to May 25* · [[BCP Psalm 103#^103-1|103]] *or* [[BCP Psalm 103#^103-1|103:1-6]] · [[Hosea 02#^2-16|Hosea 2:14-23]] 2 Corinthians 3:(4-11)17--4:2 [[Mark 02#^2-18|Mark 2:18-22]]
 
-[p. 908]
-
-****Psalm**** **Lessons**
+[p. 908] ^pg908
 
 **Proper 4** *Closest to June 1* · [[BCP Psalm 081#^81-1|81]] *or* [[BCP Psalm 081#^81-1|81:1-10]] · [[Torah 45 - Vaetchanan#^5-6|Deuteronomy 5:6-21]] [[2 Corinthians 04#^4-5|2 Corinthians 4:5-12]] [[Mark 02#^2-23|Mark 2:23-28]]
 
@@ -212,9 +192,7 @@ Early or Vigil Service · 33:12-22 Canticle 2 or 13 130 Canticle 9 104:25-32 · 
 
 **Proper 12** *Closest to July 27* · [[BCP Psalm 114#^114-1|114]] · [[II Kings 02#^2-1|2 Kings 2:1-15]] [[Ephesians 04#^4-1|Ephesians 4:1-7]],11-16 [[Mark 06#^6-45|Mark 6:45-52]]
 
-[p. 909]
-
-****Psalm**** **Lessons**
+[p. 909] ^pg909
 
 **Proper 13** *Closest to August 3* · [[BCP Psalm 078#^78-1|78:1-25]] *or* [[BCP Psalm 078#^78-14|78:14-20]],23-25 · [[Torah 16 - Beshalach#^16-2|Exodus 16:2-4]],9-15 [[Ephesians 04#^4-17|Ephesians 4:17-25]] [[John 06#^6-24|John 6:24-35]]
 
@@ -234,9 +212,7 @@ Early or Vigil Service · 33:12-22 Canticle 2 or 13 130 Canticle 9 104:25-32 · 
 
 **Proper 21** *Closest to September 28* · [[BCP Psalm 019#^19-1|19]] *or* [[BCP Psalm 019#^19-7|19:7-14]] · [[Torah 36 - Beha'alotcha#^11-4|Numbers 11:4-6]],10-16,24-29 [[James 04#^4-7|James 4:7-12]](13---5:6) [[Mark 09#^9-38|Mark 9:38-43]],45,47-48
 
-[p. 910]
-
-****Psalm**** **Lessons**
+[p. 910] ^pg910
 
 **Proper 22** *Closest to October 5* · [[BCP Psalm 008#^8-1|8]] *or* [[BCP Psalm 128#^128-1|128]] · [[Torah 01 - Bereshit#^2-18|Genesis 2:18-24]] Hebrews 2:(1-8)9-18 [[Mark 10#^10-2|Mark 10:2-9]]
 

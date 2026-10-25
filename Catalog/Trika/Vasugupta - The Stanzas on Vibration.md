@@ -18,8 +18,7 @@ language:
   - English
 pages: 446
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Dyczkowski (tr.) - The Stanzas on Vibration, the Spandakarika with Four Commentaries.pdf]]"
   - "[[Library/Trika/The Stanzas on Vibration (Vasugupta)/The Stanzas on Vibration (Vasugupta)]]"

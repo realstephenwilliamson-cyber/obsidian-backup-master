@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 103
 verses: 22
-page_range:
-  - 734
-  - 734
+page_range: "734"
 aliases:
   - "BCP Psalm 103"
   - "BCP 734"
@@ -49,7 +47,7 @@ slow to anger and of great kindness. ^103-8
 **103:9** He will not always accuse us, \*  
 nor will he keep his anger for ever. ^103-9
 
-[p. 734]
+[p. 734] ^pg734
 
 **103:10** He has not dealt with us according to our sins, \*  
 nor rewarded us according to our wickedness. ^103-10

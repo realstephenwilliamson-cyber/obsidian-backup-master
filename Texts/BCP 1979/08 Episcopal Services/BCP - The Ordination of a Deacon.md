@@ -5,9 +5,7 @@ section: "Episcopal Services"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/EpiscopalServices/ordination_of_a_deacon.html"
-page_range:
-  - 537
-  - 547
+page_range: "537–547"
 aliases:
   - "BCP 537"
   - "BCP 538"
@@ -25,7 +23,7 @@ aliases:
 
 [[BCP 1979]] · *Episcopal Services* · pages 537–547
 
-[p. 537]
+[p. 537] ^pg537
 
 ## The Ordination of a Deacon
 
@@ -53,7 +51,7 @@ Blessed be God: Father, Son, and Holy Spirit.
 
 Almighty God, to you all hearts are open, all desires known, and from you no secrets are hid. Cleanse the thoughts of our hearts by the inspiration of your Holy Spirit, that we may perfectly love you, and worthily magnify your holy Name; through Christ our Lord. *Amen.*
 
-[p. 538]
+[p. 538] ^pg538
 
 ## The Presentation
 
@@ -77,7 +75,7 @@ Will you be loyal to the doctrine, discipline, and worship of Christ as this Chu
 
 I am willing and ready to do so; and I solemnly declare that I do believe the Holy Scriptures of the Old and New Testaments to be the Word of God, and to contain all things necessary to salvation; and I do solemnly engage to conform to the doctrine, discipline, and worship of The Episcopal Church.
 
-[p. 539]
+[p. 539] ^pg539
 
 *The Ordinand then signs the above Declaration in the sight of all present.*
 
@@ -111,7 +109,7 @@ The Lord be with you
 
 **People** And also with you.
 
-[p. 540]
+[p. 540] ^pg540
 
 Let us pray.
 
@@ -131,7 +129,7 @@ A Reading (Lesson) from \_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 *A citation giving chapter and verse may be added.*
 
-[p. 541]
+[p. 541] ^pg541
 
 *After each Reading, the Reader may say*
 
@@ -168,7 +166,7 @@ the Father, the Almighty,
 maker of heaven and earth,  
 of all that is, seen and unseen.
 
-[p. 542]
+[p. 542] ^pg542
 
 We believe in one Lord, Jesus Christ,  
 the only Son of God,  
@@ -199,7 +197,7 @@ We acknowledge one baptism for the forgiveness of sins.
 We look for the resurrection of the dead,  
 and the life of the world to come. Amen.
 
-[p. 543]
+[p. 543] ^pg543
 
 ## The Examination
 
@@ -221,7 +219,7 @@ My *brother*, do you believe that you are truly called by God and his Church to 
 
 **Answer** I will.
 
-[p. 544]
+[p. 544] ^pg544
 
 **Bishop** Will you be faithful in prayer, and in the reading and study of the Holy Scriptures?
 
@@ -251,7 +249,7 @@ My *brother*, do you believe that you are truly called by God and his Church to 
 
 *A period of silent prayer follows, the people still standing.*
 
-[p. 545]
+[p. 545] ^pg545
 
 *The Bishop then says this Prayer of Consecration*
 
@@ -273,7 +271,7 @@ Make *him*, O Lord, modest and humble, strong and constant, to observe the disci
 
 Receive this Bible as the sign of your authority to proclaim God's Word and to assist in the ministration of his holy Sacraments.
 
-[p. 546]
+[p. 546] ^pg546
 
 ### The Peace
 

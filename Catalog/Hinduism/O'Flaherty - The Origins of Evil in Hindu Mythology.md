@@ -17,8 +17,7 @@ language:
   - English
 pages: 439
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Wendy Doniger - The Origins Of Evil In Hindu Mythology.pdf]]"
 aliases:

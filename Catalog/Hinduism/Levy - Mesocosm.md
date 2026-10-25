@@ -18,8 +18,7 @@ language:
   - English
 pages: 843
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Levy, Rajopadhyaya - Mesocosm (1990).pdf]]"
 aliases:

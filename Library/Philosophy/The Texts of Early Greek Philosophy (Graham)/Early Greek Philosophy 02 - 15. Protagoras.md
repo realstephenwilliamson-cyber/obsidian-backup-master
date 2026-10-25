@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Graham (ed.) - The Texts of Early Greek Philosophy]]
 book: "[[Library/Philosophy/The Texts of Early Greek Philosophy (Graham)/The Texts of Early Greek Philosophy (Graham)|The Texts of Early Greek Philosophy (Graham)]]"
 order: 2
 source_pdf: "Library/Philosophy/Graham (tr.) - The Texts of Early Greek Philosophy (2010).pdf"
-pages: "688–723"
+page_range: "688–723"
 pdf_pages: "3–20"
 text_source: "fresh OCR with Tesseract 5 (grc+eng) of the page images, each half of the two-page spreads read on its own (the earlier OCR layer broke up the Greek)"
 converted: 2026-10-22

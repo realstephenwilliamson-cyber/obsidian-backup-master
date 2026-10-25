@@ -17,8 +17,7 @@ language:
   - English
 pages: 378
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Goudriaan (ed.) - Ritual and Speculation in Early Tantrism (1992).pdf]]"
   - "[[Library/Trika/Ritual and Speculation in Early Tantrism (Goudriaan)/Ritual and Speculation in Early Tantrism (Goudriaan)]]"

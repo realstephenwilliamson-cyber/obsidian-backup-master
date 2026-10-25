@@ -5,9 +5,7 @@ section: "The Great Litany"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/GreatLitany/Litany.html"
-page_range:
-  - 148
-  - 155
+page_range: "148–155"
 aliases:
   - "BCP 148"
   - "BCP 149"
@@ -22,7 +20,7 @@ aliases:
 
 [[BCP 1979]] · *The Great Litany* · pages 148–155
 
-[p. 148]
+[p. 148] ^pg148
 
 ## The Great Litany
 
@@ -40,7 +38,7 @@ Remember not, Lord Christ, our offenses, nor the offenses of our forefathers; ne
 
 From all evil and wickedness; from sin; from the crafts and assaults of the devil; and from everlasting damnation, *Good Lord, deliver us.*
 
-[p. 149]
+[p. 149] ^pg149
 
 From all blindness of heart; from pride, vainglory, and hypocrisy; from envy, hatred, and malice; and from all want of charity, *Good Lord, deliver us.*
 
@@ -58,7 +56,7 @@ By thine Agony and Bloody Sweat; by thy Cross and Passion; by thy precious Death
 
 In all time of our tribulation; in all time of our prosperity; in the hour of death, and in the day of judgment, *Good Lord, deliver us.*
 
-[p. 150]
+[p. 150] ^pg150
 
 We sinners do beseech thee to hear us, O Lord God; and that it may please thee to rule and govern thy holy Church Universal in the right way, *We beseech thee to hear us, good Lord.*
 
@@ -76,7 +74,7 @@ That it may please thee to give us a heart to love and fear thee, and diligently
 
 That it may please thee so to rule the hearts of thy servants, the President of the United States (*or* of this nation), and all others in authority, that they may do justice, and love mercy, and walk in the ways of truth, *We beseech thee to hear us, good Lord.*
 
-[p. 151]
+[p. 151] ^pg151
 
 That it may please thee to make wars to cease in all the world; to give to all nations unity, peace, and concord; and to bestow freedom upon all peoples, *We beseech thee to hear us, good Lord.*
 
@@ -94,7 +92,7 @@ That it may please thee to visit the lonely; to strengthen all who suffer in min
 
 That it may please thee to support, help, and comfort all who are in danger, necessity, and tribulation, *We beseech thee to hear us, good Lord.*
 
-[p. 152]
+[p. 152] ^pg152
 
 That it may please thee to have mercy upon all mankind, *We beseech thee to hear us, good Lord.*
 
@@ -116,7 +114,7 @@ O Lamb of God, that takest away the sins of the world, *Have mercy upon us.*
 
 O Lamb of God, that takest away the sins of the world, *Grant us thy peace.*
 
-[p. 153]
+[p. 153] ^pg153
 
 O Christ, hear us. *O Christ, hear us.*
 
@@ -148,7 +146,7 @@ Let us pray.
 
 Almighty God, who hast promised to hear the petitions of those who ask in thy Son's Name: We beseech thee mercifully to incline thine ear to us who have now made our prayers and supplications unto thee; and grant that those things which we have asked faithfully according to thy will, may be obtained effectually, to the relief of our necessity, and to the setting forth of thy glory; through Jesus Christ our Lord. *Amen.*
 
-[p. 154]
+[p. 154] ^pg154
 
 *The Officiant may add other Prayers, and end the Litany, saying*
 
@@ -176,7 +174,7 @@ Glory be to the Father, and to the Son, and to the Holy Ghost; as it was in the 
 
 **R.** Mercifully forgive the sins of thy people.
 
-[p. 155]
+[p. 155] ^pg155
 
 **V.** Favorably with mercy hear our prayers;
 

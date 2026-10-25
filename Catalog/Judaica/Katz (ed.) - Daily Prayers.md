@@ -22,8 +22,7 @@ language:
   - Hebrew
 pages: 100
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Daily Prayers 102307.pdf]]"
   - "[[Library/Judaica/Daily Prayers (Katz)/Daily Prayers (Katz)]]"

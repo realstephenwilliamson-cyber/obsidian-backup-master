@@ -18,8 +18,7 @@ language:
   - English
 pages: 128
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[OceanOfJewelsPrameyRatnarnavEnglishenglish.pdf]]"
 aliases:

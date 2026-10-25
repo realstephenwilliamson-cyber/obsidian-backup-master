@@ -6,7 +6,7 @@ page_range: 111–122
 aliases:
   - Tantric Mantras 10 - 9. The oral and the written - Mantra and mantraśāstra
 ---
-[p. 111]
+[p. 111] ^pg111
 
 # 9 The oral and the written
 

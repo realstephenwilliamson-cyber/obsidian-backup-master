@@ -20,8 +20,7 @@ language:
   - Sanskrit
 pages:
 text: scan
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Sanskrit/KSTS/Trika/KSTS - Tantraloka Sanskrit (vols I-XII)/Abhinavagupta - Tantraloka KSTS vol 01 (1918).pdf]]"
   - "[[Library/Sanskrit/KSTS/Trika/KSTS - Tantraloka Sanskrit (vols I-XII)/Abhinavagupta - Tantraloka KSTS vol 02 (1921).pdf]]"

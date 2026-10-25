@@ -4,7 +4,7 @@ work: "[[Catalog/Biblical-Studies/Coogan - The Old Testament, A Very Short Intro
 book: "[[Library/Biblical-Studies/The Old Testament, A Very Short Introduction (Coogan)/The Old Testament, A Very Short Introduction (Coogan)|The Old Testament, A Very Short Introduction (Coogan)]]"
 order: 7
 source_pdf: "Library/Biblical-Studies/Coogan - The Old Testament, A Very Short Introduction (2008).pdf"
-pages: "158"
+page_range: "158"
 pdf_pages: "158–158"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15

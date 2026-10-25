@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 80
 verses: 18
-page_range:
-  - 703
-  - 703
+page_range: "703"
 aliases:
   - "BCP Psalm 80"
   - "BCP 703"
@@ -41,7 +39,7 @@ you have given them bowls of tears to drink. ^80-5
 **80:6** You have made us the derision of our neighbors, \*  
 and our enemies laugh us to scorn. ^80-6
 
-[p. 703]
+[p. 703] ^pg703
 
 **80:7** Restore us, O God of hosts; \*  
 show the light of your countenance, and we shall be saved. ^80-7

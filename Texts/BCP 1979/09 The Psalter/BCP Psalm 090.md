@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 90
 verses: 17
-page_range:
-  - 718
-  - 719
+page_range: "718–719"
 aliases:
   - "BCP Psalm 90"
   - "BCP 718"
@@ -26,7 +24,7 @@ Hebrew text and JPS translation: [[Psalms 090]]
 **90:1** Lord, you have been our refuge \*  
 from one generation to another. ^90-1
 
-[p. 718]
+[p. 718] ^pg718
 
 **90:2** Before the mountains were brought forth,  
 or the land and the earth were born, \*  
@@ -67,7 +65,7 @@ that we may apply our hearts to wisdom. ^90-12
 **90:13** Return, O LORD; how long will you tarry? \*  
 be gracious to your servants. ^90-13
 
-[p. 719]
+[p. 719] ^pg719
 
 **90:14** Satisfy us by your loving-kindness in the morning; \*  
 so shall we rejoice and be glad all the days of our life. ^90-14

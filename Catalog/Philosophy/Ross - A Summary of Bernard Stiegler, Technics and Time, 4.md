@@ -17,8 +17,7 @@ language:
   - English
 pages: 29
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[A_Summary_of_Bernard_Stiegler_Technics_a.pdf]]"
   - "[[Library/Philosophy/A Summary of Bernard Stiegler, Technics and Time, 4 (Ross)]]"

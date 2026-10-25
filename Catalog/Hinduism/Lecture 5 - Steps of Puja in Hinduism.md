@@ -17,8 +17,7 @@ language:
   - English
 pages: 7
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[54eeafe41c7c8_1424928740.pdf]]"
   - "[[Library/Hinduism/Lecture 5 - Steps of Puja in Hinduism (Agarwal)]]"

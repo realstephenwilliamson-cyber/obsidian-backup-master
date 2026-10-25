@@ -80,7 +80,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "exclude_folders",
+  "settingsTab": "general",
   "supportedFileTypes": [
     "md",
     "canvas",

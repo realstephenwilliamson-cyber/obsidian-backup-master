@@ -20,8 +20,7 @@ language:
   - English
 pages: 32
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Ratie - A Note on Sankaranandana's Intuition according to Abhinavagupta.pdf]]"
   - "[[Library/Trika/A Note on Sankaranandana's Intuition according (Ratie)]]"

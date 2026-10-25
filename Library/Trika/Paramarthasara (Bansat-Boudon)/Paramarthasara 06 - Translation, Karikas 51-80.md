@@ -1,10 +1,14 @@
 ---
+type: book-chapter
+work: "An Introduction to Tantric Philosophy: The Paramārthasāra of Abhinavagupta with the Commentary of Yogarāja"
+order: 6
+page_range: "214–269"
 aliases:
   - Paramarthasara 06 - Translation — Kārikās 51–80
 ---
 # Translation — Kārikās 51–80
 
-[p. 214]
+[p. 214] ^pg229
 
 single entity, which we have characterized as consciousness, assumes all
 forms, for taking up residence everywhere.
@@ -50,7 +54,7 @@ the skandhas are functionally independent.
 964paraḥ puruṣaḥ — cf. PS 36.
 965ŚvU III 19. Same quotation in R ad ĀPS 62.
 
-[p. 215]
+[p. 215] ^pg230
 
 KĀRIKĀ 51
 215
@@ -96,7 +100,7 @@ or power. It is this force, or power, on which all our notions of the Real are g
 is bewildering.
 970PS 51 borrows from ĀPS 58 and 59 (PS 51a = ĀPS 59a; PS 51b = ĀPS 58a).
 
-[p. 216]
+[p. 216] ^pg231
 
 once the postulation of duality has ceased, that is, once the display
 of difference has vanished,
@@ -141,7 +145,7 @@ verse from the Kakṣyāstotra; on Bhaṭṭadivākaravatsa, see n. 800.
 979Lit., ‘when you have not caused the host of senses to detach (avyāvr̥tya) from you in-
 wardly’.
 
-[p. 217]
+[p. 217] ^pg232
 
 KĀRIKĀ 52
 217
@@ -188,7 +192,7 @@ unstable, the great, the all-pervading, the wise man does not grieve’.
 982paramādvaya — same term in YR ad 1 and PS 53. On bhāvanā, see YR ad 68 and Appendix
 20, p. 345.
 
-[p. 218]
+[p. 218] ^pg233
 
 would not, in that case, the accumulation of the fruits of his actions, be
 they auspicious or inauspicious, which are occasioned by that body, make
@@ -238,7 +242,7 @@ and that liberation is therefore possible; cf. kā. 67–68, and YR ad 67, who
 fact that the law of karman depends, in ultimate terms, on vikalpas; cf. Upadeśasāhasrī II 2,
 45–48.
 
-[p. 219]
+[p. 219] ^pg234
 
 KĀRIKĀ 54
 219
@@ -279,7 +283,7 @@ master says:
 have been stored up during the period of ignorance, vanish thanks
 992Same term in YR ad 56; see also kā. 15.
 
-[p. 220]
+[p. 220] ^pg235
 
 to the radiance of knowledge, just as is consumed [in a moment]
 goose-down which has accumulated for a long time. 993
@@ -321,7 +325,7 @@ I 46: tataḥ sa bhagavān īśaḥ ... pradadāha muneḥ sarvam ajñāna
 995aham eva paraṃ brahma.
 996BhG IV 37.
 
-[p. 221]
+[p. 221] ^pg236
 
 KĀRIKĀ 56
 221
@@ -372,7 +376,7 @@ completed by its association with the “floral” image implied in the pair sam
 as bondage is the “closing up” of the innate śaktis, liberation is their “blossoming”. Again, YR
 anticipates PS 60, where he glosses svaśaktyabhivyaktā of the kārikā with svātmaśaktivikas-
 
-[p. 222]
+[p. 222] ^pg237
 
 Kārikā 57
 The master now describes [more fully] this process: 1004
@@ -419,7 +423,7 @@ exhausted by summer heat, so that seeds develop?’
 1007The grain that is separated from its envelope loses its power of generation. Another
 possibility is to heat it, as exemplified in kārikā 58 and 62.
 
-[p. 223]
+[p. 223] ^pg238
 
 KĀRIKĀ 58
 223
@@ -465,7 +469,7 @@ come and go in this mirror which I am — I, that unity, remain ever there. Thes
 terms of APS 13 (see n. 265), quoted in ĪPV ad I 1, 5 and I 5, 3, as well as in SpN I 5.
 1012YR now takes up the question of the greatest fear, that of death.
 
-[p. 224]
+[p. 224] ^pg239
 
 As had been said by my teacher’s teacher’s teacher:
 For him who is eternally joyful in this world [understood as]
@@ -510,7 +514,7 @@ of what am I afraid?” Thereupon his fear, verily, passed away, for, of what sh
 been afraid? Assuredly it is from a second that far arises’.
 1015avacchinna — see n. 701.
 
-[p. 225]
+[p. 225] ^pg240
 
 KĀRIKĀ 59
 225
@@ -557,7 +561,7 @@ Achaemenid inscriptions, has been borrowed by Gk. γάζα; see Mayrhofer KEWA 
 1020The similitude extends to aspects of the things compared — such as vibhūti, prarūḍha,
 gañja, which are understood as double entendres (śleṣa) — as well as to the things themselves.
 
-[p. 226]
+[p. 226] ^pg241
 
 even the soul yet embodied becomes the Great Lord, that is, may expe-
 rience the freedom of the Light that is his own Self, whose characteristic
@@ -605,7 +609,7 @@ eṣaṇīyeṇa maheśvaraḥ’.
 suitably apply to ultimate reality, and that such comparisons are capricious or fortuitous.
 The analogy may be conventional as indicated by its use elsewhere in Śaiva texts, such as
 
-[p. 227]
+[p. 227] ^pg242
 
 KĀRIKĀ 60
 227
@@ -657,7 +661,7 @@ to “dualists” inasmuch as it involves a “displacement” of the vital airs
 ‘liberation’, echoes TĀ XIV 31–37, where the notion is discussed in the context of jīvanmukti.
 Placing himself under the authority of the Ūrmikaulārṇava, which denies to the ‘dualistic’
 
-[p. 228]
+[p. 228] ^pg243
 
 Such is liberation. As has been stated:
 If the existence of Śiva [as consciousness] is all-pervasive, what
@@ -708,7 +712,7 @@ ation”] derives from the principle of māyā rather than from pure knowledge
 etc.’.
 1034The order of the two errors is that adopted by YR ad PS 31 and 61; cf. YR ad 53.
 
-[p. 229]
+[p. 229] ^pg244
 
 KĀRIKĀ 60
 229
@@ -759,7 +763,7 @@ one and indivisible.
 also YR ad PS 16, 24 and 37.
 1039Bondage and liberation are equally illusory, a point often associated with Mādhyamikas.
 
-[p. 230]
+[p. 230] ^pg245
 
 through the discrimination of its own energies [of independence, etc.].
 Hence bondage as well as liberation are both essentially [functions of]
@@ -812,7 +816,7 @@ relevant to the present argument, YR probably understands the ‘expanse of wate
 ‘expanse of space’ and the ‘jar’ (that is, a ‘space-enclosure’) of the following illustration.
 Note that, just before the verse (100, 51) quoted here by YR (‘As, when the bellows-hide is
 
-[p. 231]
+[p. 231] ^pg246
 
 KĀRIKĀ 61
 231
@@ -862,7 +866,7 @@ kutaḥ// yathā heyagaṇadhvaṃsād avabodhādayo guṇāḥ/ prakāśy
 mano hite// (Grünendahl observes that all MSS. have hybrid ‘-ôdupāna-‘, except N1: ‘-ôda-‘,
 and B: yathôpadānakaraṇāt kriyate jalasaṃcayam; D-mss.: -lântaram).
 
-[p. 232]
+[p. 232] ^pg247
 
 But, says an opponent, if bondage is [as you say] association with the
 body, how then could such a one be liberated, since an association with
@@ -906,7 +910,7 @@ again in YR ad 83, and more explicitly at the end of the commentary on 85–86; 
 p. 43.
 1045śarīrayātrā.
 
-[p. 233]
+[p. 233] ^pg248
 
 KĀRIKĀ 62
 233
@@ -952,7 +956,7 @@ come citta, empirical consciousness (v. 5), thereafter ultimately regaining its 
 its own nature’, it serves as a synonym to kaivalya, ‘autonomy’.
 1050Similar statement in YR ad 51.
 
-[p. 234]
+[p. 234] ^pg249
 
 Kārikā 63
 If, then, this is so, how 1051 has this energy of consciousness 1052 come to
@@ -1003,7 +1007,7 @@ mind by ritual acts; see n. 1060. Cf. BhG II 66, where Edgerton’s interpreta
 cāsty ayuktasya bhāvanā ātmajñānābhiniveśaḥ.
 1055Egocentric purposes such as attainment of sovereignty or possession of much wealth.
 
-[p. 235]
+[p. 235] ^pg250
 
 KĀRIKĀ 63
 235
@@ -1051,7 +1055,7 @@ performed, whose results have not yet begun to be enjoyed, and remain stored up,
 prārabdhakarman, the act whose results have begun to be experienced, but not yet exhausted.
 1058See n. 1054 and 1060.
 
-[p. 236]
+[p. 236] ^pg251
 
 delimited, 1059 just as does the space within the jar;
 — and so, this energy [of consciousness], once the [present] body
@@ -1101,7 +1105,7 @@ his consciousness, as a mere tatter, of no more importance to him than is the sk
 serpent sloughs off, the ‘knower’ acts henceforth disinterestedly, indifferently, focusing only
 on his status as ‘liberated while living’.
 
-[p. 237]
+[p. 237] ^pg252
 
 KĀRIKĀS 64–66
 237
@@ -1148,7 +1152,7 @@ or ‘made of [viz., who has made himself into] an all-transcending knower and a
 ‘ordonnateur très expert des œuvres de création et autres’.
 1071paraśaktipāta — lit., ‘descent of [the Lord’s] supreme energy’; see YR ad 9.
 
-[p. 238]
+[p. 238] ^pg253
 
 the like the capacity to cognize, 1072 has become aware that his own
 Self is formed of Śiva [see kārikā 66], that is, once he recognizes that
@@ -1193,7 +1197,7 @@ scription given in the three kārikās:]
 1073Similar phraseology in YR ad 60, which deals with the definition of mokṣa.
 1074tadatirikta.
 
-[p. 239]
+[p. 239] ^pg254
 
 KĀRIKĀS 64–66
 239
@@ -1244,7 +1248,7 @@ thought without corresponding words, the entire sphere of plurality may be seen 
 of Speech, which is itself, ultimately, that same potentality, or dynamism, of consciousness
 that has received the name of vimarśa in nondual Śivaism of Kashmir. The vācaka exists
 
-[p. 240]
+[p. 240] ^pg255
 
 Also, he is the excellent instigator of the injunctions of creation
 and so on, that is, he is an extremely skilled instigator, or establisher [of
@@ -1289,7 +1293,7 @@ Śiva and Śakti.
 speak in the first person. The conclusion, so far implicit, is: ‘it follows from the above that
 you can act without being burdened with fruits’.
 
-[p. 241]
+[p. 241] ^pg256
 
 KĀRIKĀ 67
 241
@@ -1339,7 +1343,7 @@ n. 1101 and 1371.
 1090na mamedam api tu tasya.
 1091pāralaukika.
 
-[p. 242]
+[p. 242] ^pg257
 
 sacrifice [for another, yajanti, active voice]; the patron of the sacrifice
 (yajamāna) sacrifices [for himself, yajate, middle voice]’, although the of-
@@ -1388,7 +1392,7 @@ ton) modulé […] ou un ñ, quand le fruit de l’action se dirige vers l’ag
 1096mahiman.
 1097Note that here the brahmanical sacrifice is part and parcel of “wordly affairs”. And the
 
-[p. 243]
+[p. 243] ^pg258
 
 KĀRIKĀ 68
 243
@@ -1437,7 +1441,7 @@ external objects, it is now identified with the fire of the highest consciousnes
 [viz., it appears only as consciousness]’.
 1101rūḍhi, normally the direct and unconditionned denotative sense of a word, here taken
 
-[p. 244]
+[p. 244] ^pg259
 
 context of the Self [as justified by the insight]: ‘It is I who am the Great
 Lord in the form of consciousness, who manifest (sphurāmi) ever thus, in-
@@ -1485,7 +1489,7 @@ been thought to be the mechanism through which the ‘karman’ of the sacrifice
 sacrifice itself) worked itself out. But this ‘adr̥ṣṭa’ has one quality that the Mīmāṃsaka’s
 reasoned ‘adr̥ṣṭa’ most significantly lacked: it is the self-evidence of consciousness itself.
 
-[p. 245]
+[p. 245] ^pg260
 
 KĀRIKĀ 69
 245
@@ -1537,7 +1541,7 @@ BhG XIII 27: samaṃ sarveṣu bhūteṣu tiṣṭhantaṃ parameśvaram/ [...
 ‘Alike in all beings/ Abiding, the Supreme Lord,/ [...] Who sees him, he (truly) sees’.
 1110Lit., ‘falls’, scil., ‘in his begging-bowl’.
 
-[p. 246]
+[p. 246] ^pg261
 
 Likewise, inhabiting anywhere at all;
 anywhere, in a place of whatever sort, being merely desirous of shelter
@@ -1585,7 +1589,7 @@ of this vrata by an ascetic who develops the same themes as does YR here. In thi
 MBh, the metaphor of the python may illustrate yādr̥cchika of ĀŚ II 37b. What is celebrated
 here is a life of randomness. It is exemplified by the ‘vow of the python’ to which a Hindi
 
-[p. 247]
+[p. 247] ^pg262
 
 KĀRIKĀ 70
 247
@@ -1632,7 +1636,7 @@ XXVIII 72–75a, in n. 1240.
 1121The aptoryāma is a particular way of offering the soma sacrifice.
 1122pramāda.
 
-[p. 248]
+[p. 248] ^pg263
 
 — in either cases, he who knows [the true Self] is touched, or pol-
 luted, neither by the merits, that is, by the auspicious results, nor by
@@ -1675,7 +1679,7 @@ he should behave as one insensible. 1129
 to capture best the several equivocations of the term; see Webster’s: “1) incapable or bereft
 of feeling; 2) insentient; 3) unconscious; 4) not apparent to the senses, hence indifferent;
 
-[p. 249]
+[p. 249] ^pg264
 
 KĀRIKĀ 71
 249
@@ -1728,7 +1732,7 @@ niḥsvadhākāra eva ca/, as well as in AG’s PS 73. Several parallel passag
 MBh I 110, 9; XII 237, 24 (quoted by BĀUBh III 5, 1); XII 261, 2; XIV 46, 43; XIV 47, 10
 (nirdvaṃdvo nirnamaskāro niḥsvadhākāra eva ca); for further details, see Bouy ĀŚ: 141.
 
-[p. 250]
+[p. 250] ^pg265
 
 formulae (mantra) such as vaṣaṭ, etc., for there exists no specific divinity
 different from him [to be invoked thereby].
@@ -1775,7 +1779,7 @@ their substratum, and inasmuch as the liberated self continues to exist in some 
 with the body — by definition, the state of jīvanmukti — then, how is it that the self is not
 further sullied by them, however unusual be the final relation between Self and body?
 
-[p. 251]
+[p. 251] ^pg266
 
 KĀRIKĀ 73
 251
@@ -1821,7 +1825,7 @@ the other, the subject, also “different” — and vice versa.
 etc.
 1145Note that the entire passage (PS 69–73) echoes ĀŚ II 35–37.
 
-[p. 252]
+[p. 252] ^pg267
 
 that presents itself to him as different; [there is nothing] to be praised,
 such as a deity, [nothing] to be honored with an oblation — such that
@@ -1868,7 +1872,7 @@ substratum is mainly a smooth mirror-like surface — for instance, a mirror or 
 blade; it may also be ‘a liṅga (provided it is private, moveable, not of fashioned stone,
 nor of any metal but gold), a rosary (akṣasūtram), a skull-cup (mahāpātram), a skull-staff
 
-[p. 253]
+[p. 253] ^pg268
 
 KĀRIKĀ 74
 253
@@ -1921,7 +1925,7 @@ identity with, the deity), or to different degrees in its attainment (see PS 96�
 1154That is, not metaphorically. Here mukhyā vr̥tti means abhidhā, the primary or denotative
 power of the word.
 
-[p. 254]
+[p. 254] ^pg269
 
 What sort [of body]? The master says: ‘endowed with the thirty-six
 principles’.
@@ -1976,7 +1980,7 @@ niviśya paśyanti arcayanti ca te ’pīti nāsty atra vivādaḥ, ‘Even
 thirty-six principles in the form of Śiva, and treat it with respect, acquire spiritual perfection.
 So do those who, investing even a jar, etc., with the form of Śiva, perceive it in the same
 
-[p. 255]
+[p. 255] ^pg270
 
 KĀRIKĀ 75
 255
@@ -2020,7 +2024,7 @@ meaning is also apparent: ‘terrifying’, a quasi-causative from bhīru, ‘t
 and made resplendent — rather than as elements in the process of creation — maintenance,
 withdrawal, ejection.
 
-[p. 256]
+[p. 256] ^pg271
 
 resplendent (parisphuret) 1161 by propitiating that deity unceasingly, ac-
 cording to the process about to be expounded.
@@ -2068,7 +2072,7 @@ the vr̥tti ad DhĀl, in Appendix 3, p. 320.
 1165Lit., ‘... that accompanies unceasingly each moment ...’.
 1166Implicit reference, here, to aesthetic theory, as Śaiva thinkers developed it in Kashmir;
 
-[p. 257]
+[p. 257] ^pg272
 
 KĀRIKĀ 75
 257
@@ -2123,7 +2127,7 @@ is Bhairava’.
 Bhairava, the terrible Lord, inhabits the cremation ground.
 Hence, the body, which is, on the one hand, the abode of the deity, may also be seen, on
 
-[p. 258]
+[p. 258] ^pg273
 
 Kārikā 76
 At the conclusion of [the ritual of] worship, an oblation should be made
@@ -2170,7 +2174,7 @@ in elaborating the phenomenal world. Compare the “twin” perspectives of Sā
 Yoga — the one elaborating a theoretical construct and the other promoting its abolition. In
 this world of diversity, every mental operation has three aspects: discrimination (or identi-
 
-[p. 259]
+[p. 259] ^pg274
 
 KĀRIKĀ 76
 259
@@ -2224,7 +2228,7 @@ available manuscripts of the Saṃvitprakāśa. Might it not be then the case 
 Śrī Vāmana of the SpN is the same author as the Bhaṭṭa Śrī Vīravāmana(ka) to which YR
 attributes the present verse?
 
-[p. 260]
+[p. 260] ^pg275
 
 We perform obligatorily that supra-mundane sacrifice 1179 in
 which the forest of duality provides the [required] firewood,
@@ -2267,7 +2271,7 @@ tary ad 77, saṃvidbhitti, the ‘wall of consciousness’, appears as a gloss 
 may distract the yogin from contemplating the ceaseless stream of divine activity they man-
 ifest.
 
-[p. 261]
+[p. 261] ^pg276
 
 KĀRIKĀ 78
 261
@@ -2313,7 +2317,7 @@ recitation [of the mantra]’, quoted here by YR ad 78, and by Kṣemarāja ad 
 kā being glossed as akṣasūtra and akṣamālā, with a śleṣa on akṣa (m.), ‘bead’ and akṣa (n.),
 ‘sense-organ’.
 
-[p. 262]
+[p. 262] ^pg277
 
 The constant[ly recurring] reflection on supreme ipseity as not differ-
 ent from the universe itself, [which is pursued] in the manner about to be
@@ -2366,7 +2370,7 @@ of his practice.
 and ‘swallows’ the universe periodically.
 The yogin strives to regulate his breath, sup-
 
-[p. 263]
+[p. 263] ^pg278
 
 KĀRIKĀ 78
 263
@@ -2420,7 +2424,7 @@ man and cosmic, connected with “breath” (prāṇa)’. Padoux (YH: 375) tra
 a fibre of the lotus stalk (mr̥ṇālatantu); see Kubjikāmatatantra [KMT] XXIV 120–121, where
 the Goddess, in the form of śakti, the mother of the three worlds, situated in [the middle
 
-[p. 264]
+[p. 264] ^pg279
 
 middle breath; emerging naturally, [this energy] is said to be an innate
 [kind of] rosary, as it comprehends all the senses. 1196
@@ -2471,7 +2475,7 @@ ual ever repeat the mantra haṃsa, haṃsa’ (tr. Singh ŚS: 190, modified); 
 the ŚSV, Silburn restores (p. 170, n. 4) this verse to the VBh; Padoux (1992: 140, n. 149)
 identifies the verse as Dhyānabindūpaniṣad 62, although he observes: ‘this Upaniṣad as edited
 
-[p. 265]
+[p. 265] ^pg280
 
 KĀRIKĀS 79–80
 265
@@ -2521,7 +2525,7 @@ api yo jalpaḥ sa japaḥ [...]/ ityādy uktam.
 1201Lit., ‘[an awareness] accompanied by the imagistic notion (kalpana) that his body is
 nothing but a “staff surmounted by a skull” (khaṭvāṅga)’. In other words, his body is treated
 
-[p. 266]
+[p. 266] ^pg281
 
 own hand [as his begging-bowl] any fragment of the knowable, [in-
 stead of] a skull, 1202 filling it with the liquor of delighting in all the
@@ -2575,7 +2579,7 @@ vaiśvarūpyeṇa pūrṇatvaṃ jñātum); also TS IV, p. 27, which gives
 quoting the Nandaśikhā: sarvasāmyaṃ paraṃ vratam, ‘The highest vow is [to take] everything
 as identical’.
 
-[p. 267]
+[p. 267] ^pg282
 
 KĀRIKĀS 79–80
 267
@@ -2622,7 +2626,7 @@ tion ground made frightening by the fact that all cognizers and objects
 1209pitr̥vana.
 1210Or, taking the compound as a dvandva: ‘by virtue of [scenes of] creation and destruction’.
 
-[p. 268]
+[p. 268] ^pg283
 
 of cognition are found to be perishable; like one insane, he plays games
 (krīḍā) with those fettered cognizers, who are [effectively] insentient, and
@@ -2670,7 +2674,7 @@ men’s] [stubborn] insistence that the body [etc.] is the cognizer’.
 1214Lit., ‘he who has taken the heroic vow’.
 1215See YR ad 21.
 
-[p. 269]
+[p. 269] ^pg284
 
 KĀRIKĀS 79–80
 269

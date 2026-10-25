@@ -5,9 +5,7 @@ section: "Daily Office Lectionary"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/DOLectionary/Holy%20Days.html"
-page_range:
-  - 996
-  - 1000
+page_range: "996–1000"
 aliases:
   - "BCP 996"
   - "BCP 997"
@@ -118,6 +116,6 @@ or [[Galatians 04#^4-1|Galatians 4:1-7]]
 
 **Eve of All Saints** · 34 [[LXX Wisdom of Solomon 03#^3-1|Wisdom 3:1-9]] [[Revelation 19#^19-1|Revelation 19:1]],4-10
 
-**All Saints' Day** *November 1* · 111,112 2 Esdras 2:42-47 [[Hebrews 11#^11-32|Hebrews 11:32]]--12:2 · 148,150 [[LXX Wisdom of Solomon 05#^5-1|Wisdom 5:1-5]],14-16 [[Revelation 21#^21-1|Revelation 21:1-4]],22--22:5
+**All Saints' Day** *November 1* · 111,112 [[NRSVue 2 Esdras 02#^2-42|2 Esdras 2:42-47]] [[Hebrews 11#^11-32|Hebrews 11:32]]--12:2 · 148,150 [[LXX Wisdom of Solomon 05#^5-1|Wisdom 5:1-5]],14-16 [[Revelation 21#^21-1|Revelation 21:1-4]],22--22:5
 
 **Thanksgiving Day** · 147 [[Torah 50 - Ki Tavo#^26-1|Deuteronomy 26:1-11]] [[John 06#^6-26|John 6:26-35]] · 145 [[Joel 2#^2-21|Joel 2:21-27]] [[1 Thessalonians 05#^5-12|1 Thessalonians 5:12-24]]

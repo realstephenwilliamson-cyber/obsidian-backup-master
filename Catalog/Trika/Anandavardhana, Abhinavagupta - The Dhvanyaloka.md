@@ -23,7 +23,7 @@ language:
 pages: 853
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Anandavardhana - The Dhvanyaloka, with the Locana of Abhinavagupta (1990).pdf]]"
   - "[[Library/Trika/The Dhvanyaloka of Anandavardhana with the Locana (Anandavardhana)/The Dhvanyaloka of Anandavardhana with the Locana (Anandavardhana)]]"

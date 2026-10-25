@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 18
 verses: 50
-page_range:
-  - 603
-  - 606
+page_range: "603–606"
 aliases:
   - "BCP Psalm 18"
   - "BCP 603"
@@ -49,7 +47,7 @@ and cried out to my God for help. ^18-6
 **18:7** He heard my voice from his heavenly dwelling; \*  
 my cry of anguish came to his ears. ^18-7
 
-[p. 603]
+[p. 603] ^pg603
 
 **18:8** The earth reeled and rocked; \*  
 the roots of the mountains shook;  
@@ -92,7 +90,7 @@ for they were too mighty for me. ^18-18
 **18:19** They confronted me in the day of my disaster; \*  
 but the LORD was my support. ^18-19
 
-[p. 604]
+[p. 604] ^pg604
 
 **18:20** He brought me out into an open place; \*  
 he rescued me because he delighted in me. ^18-20
@@ -133,7 +131,7 @@ with the help of my God I will scale any wall. ^18-30
 the words of the LORD are tried in the fire; \*  
 he is a shield to all who trust in him. ^18-31
 
-[p. 605]
+[p. 605] ^pg605
 
 **18:32** For who is God, but the LORD? \*  
 who is the Rock, except our God? ^18-32
@@ -178,7 +176,7 @@ you put me at the head of the nations. ^18-43
 no sooner shall they hear than they shall obey me; \*  
 strangers will cringe before me. ^18-44
 
-[p. 606]
+[p. 606] ^pg606
 
 **18:45** The foreign peoples will lose heart; \*  
 they shall come trembling out of their strongholds. ^18-45

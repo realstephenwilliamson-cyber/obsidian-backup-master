@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Lutgendorf - Hanuman's Tale - The Messages of a Divine
 book: "[[Library/Hinduism/Hanuman's Tale (Lutgendorf)/Hanuman's Tale (Lutgendorf)|Hanuman's Tale (Lutgendorf)]]"
 order: 4
 source_pdf: "Library/Hinduism/Lutgendorf - Hanuman's Tale (2007).pdf"
-pages: "35–88"
+page_range: "35–88"
 pdf_pages: "50–103"
 text_source: "PDF text layer (born-digital), PyMuPDF; the dots below letters, drawn as separate marks, put back where they sit by their letter"
 converted: 2026-10-22

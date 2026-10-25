@@ -19,7 +19,7 @@ language:
 pages: 428
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[The Age of Disruption Technology and Madness in Computational Capitalism (2019).pdf]]"
   - "[[Library/Philosophy/The Age of Disruption (Stiegler)/The Age of Disruption (Stiegler)]]"

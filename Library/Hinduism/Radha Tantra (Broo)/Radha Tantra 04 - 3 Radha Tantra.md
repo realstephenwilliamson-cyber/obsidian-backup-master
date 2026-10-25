@@ -6,7 +6,7 @@ page_range: 44–241
 aliases:
   - Radha Tantra 04 - 3 Rādhā Tantra
 ---
-[p. 44]
+[p. 44] ^pg44
 
 # 3 Rādhā Tantra
 
@@ -804,7 +804,7 @@ evaṃ nānāvidhaṃ bhadre śaktyā lakṣaṇalakṣitam \|\|44\|\|
 
 100 iti śrīvāsudevarahasye rādhatantre harapārvatīsaṃvāde daśamaḥ paṭalaḥ \|\|10\|\|
 
-[p. 85]
+[p. 85] ^pg85
 
 ### 11. Paṭala īśvara uvāca
 rahasyaṃ paramaṃ guhyaṃ jaganmohanasaṃjñakam \|
@@ -861,7 +861,7 @@ karṇikā tan mahaddhāma kṛṣṇasthānam anuttamam \|\|26\|\|
 
 iti śrīvāsudevarahasye rādhatantre harapārvatīsaṃvāde ekādaśaḥ paṭalaḥ \|\|11\|\|
 
-[p. 89]
+[p. 89] ^pg89
 
 ### 12. Paṭala īśvara uvāca
 tatropari svarṇapīṭhe maṇimaṇḍapamaṇḍite \|
@@ -2068,7 +2068,7 @@ kim asādhyaṃ maheśāni tripurāyāḥ prasādataḥ \|\|35\|\|
 
 iti śrīvāsudevarahasye rādhātantre harapārvatīsaṃvāde dvāviṃśatiḥ paṭalaḥ \|\|22\|\|
 
-[p. 154]
+[p. 154] ^pg154
 
 ### 23. Paṭala īśvara uvāca
 nigadāmi śṛṇu prauḍhe rahasyam atigopanam \|
@@ -2247,7 +2247,7 @@ sandaṣṭauṣṭapuṭā kruddhā kiyad vākyam uvāca ha \|\|39\|\|
 
 95 iti śrīvāsudevarahasye rādhātantre harapārvatīsaṃvāde caturviṃśatiḥ paṭalaḥ \|\|24\|\|
 
-[p. 162]
+[p. 162] ^pg162
 
 ### 25. Paṭala pārvaty uvāca
 kṛṣṇasyoktiṃ tataḥ śrutvā padminī kim akarot tadā \|
@@ -2574,7 +2574,7 @@ ity uktvā sā mahāmāyā tatraivāntaradhīyata \|\|34\|\|
 
 iti śrīvāsudevarahasye rādhātantre harapārvatisaṃvāde aṣṭaviṃśatiḥ paṭalaḥ \|\|28\|\| 80
 
-[p. 178]
+[p. 178] ^pg178
 
 ### 29. Paṭala īśvara uvāca
 tataḥ kṛṣṇo mahābāho nandagopagṛhaṃ gataḥ \|
@@ -3472,7 +3472,7 @@ tasya tasya ca deveśi mahāvidyā hi sidhyati \|\|31\|\|
 
 iti śrīvāsudevarahasye rādhātantre harapārvatisaṃvāde catustriṃśat paṭalaḥ \|\|34\|\| 70
 
-[p. 226]
+[p. 226] ^pg226
 
 ### 35. Paṭala
 

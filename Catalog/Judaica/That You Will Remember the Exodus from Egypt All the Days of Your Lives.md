@@ -16,8 +16,7 @@ language:
   - English
 pages: 4
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[That you will remember the Exodus from Egypt all the days of your lives.pdf]]"
   - "[[Library/Judaica/That you will remember the Exodus from Egypt (second version).pdf]]"

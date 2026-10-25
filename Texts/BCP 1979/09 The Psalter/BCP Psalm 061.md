@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 61
 verses: 8
-page_range:
-  - 669
-  - 669
+page_range: "669"
 aliases:
   - "BCP Psalm 61"
   - "BCP 669"
@@ -41,7 +39,7 @@ you have granted me the heritage of those who fear your Name. ^61-5
 **61:6** Add length of days to the king's life; \*  
 let his years extend over many generations. ^61-6
 
-[p. 669]
+[p. 669] ^pg669
 
 **61:7** Let him sit enthroned before God for ever; \*  
 bid love and faithfulness watch over him. ^61-7

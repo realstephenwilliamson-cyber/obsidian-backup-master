@@ -4,7 +4,7 @@ book: "[[Play as Symbol of the World (Fink)]]"
 order: 2
 page_range: "14–31"
 ---
-[p. 14]
+[p. 14] ^pg14
 
 ## Oasis of Happiness
 

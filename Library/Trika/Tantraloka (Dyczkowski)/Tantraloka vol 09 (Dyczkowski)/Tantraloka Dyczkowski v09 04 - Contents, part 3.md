@@ -126,7 +126,7 @@ Sāmkhyakārikā Spandakārikā SpKā SpNi
 
 Spandanirṇaya Spandapradīpikā SpPra 
 
-Spandasaṁdoha SpSarn ŚDr 
+Spandasaṁdoha SpSaṁ ŚDr 
 
 )
 

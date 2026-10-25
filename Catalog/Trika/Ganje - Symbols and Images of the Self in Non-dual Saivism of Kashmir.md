@@ -18,7 +18,7 @@ language:
 pages: 37
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Symbols_and_Images_of_the_Self_in_Non_du.pdf]]"
   - "[[Library/Trika/Symbols and Images of the Self in Non-dual Saivism (Ganje)]]"

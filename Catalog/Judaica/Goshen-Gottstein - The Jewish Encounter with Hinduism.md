@@ -17,8 +17,7 @@ language:
   - English
 pages: 277
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The Jewish encounter with Hinduism _ wisdom, spirituality, identity-Palgrave Macmillan (2016).pdf]]"
   - "[[Library/Judaica/The Jewish Encounter with Hinduism (Goshen-Gottstein)/The Jewish Encounter with Hinduism (Goshen-Gottstein)]]"

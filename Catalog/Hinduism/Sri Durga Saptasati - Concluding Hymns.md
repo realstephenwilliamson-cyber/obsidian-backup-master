@@ -17,8 +17,7 @@ language:
   - English
 pages: 7
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[DURGA700_END_TRANS.pdf]]"
   - "[[Library/Hinduism/Durga Saptasati - Concluding Hymns (text)]]"

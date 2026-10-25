@@ -18,8 +18,7 @@ language:
   - English
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Pelikan - The Christian Tradition 1 - The Emergence of the Catholic Tradition (100-600).pdf]]"
   - "[[Library/Christianity/Pelikan - The Christian Tradition 2 - The Spirit of Eastern Christendom (600-1700).pdf]]"

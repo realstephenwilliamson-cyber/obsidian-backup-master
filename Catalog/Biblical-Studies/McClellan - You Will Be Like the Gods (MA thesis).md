@@ -17,8 +17,7 @@ language:
   - English
 pages: 192
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[McClellan - You Will Be Like the Gods (MA thesis 2013).pdf]]"
   - "[[Library/Biblical-Studies/You Will Be Like the Gods (McClellan)/You Will Be Like the Gods (McClellan)]]"

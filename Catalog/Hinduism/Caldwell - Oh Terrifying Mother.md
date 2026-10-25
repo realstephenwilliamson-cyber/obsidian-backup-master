@@ -17,8 +17,7 @@ language:
   - English
 pages: 341
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Caldwell - Oh Terrifying Mother (1999).pdf]]"
 aliases:

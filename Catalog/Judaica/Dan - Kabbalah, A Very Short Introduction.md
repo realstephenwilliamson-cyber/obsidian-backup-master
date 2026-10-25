@@ -17,8 +17,7 @@ language:
   - English
 pages: 140
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Dan - Kabbalah, A Very Short Introduction (2006).pdf]]"
   - "[[Library/Judaica/Kabbalah, A Very Short Introduction (Dan)/Kabbalah, A Very Short Introduction (Dan)]]"

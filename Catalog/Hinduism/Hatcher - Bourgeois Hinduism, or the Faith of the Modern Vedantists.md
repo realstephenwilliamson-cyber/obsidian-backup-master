@@ -17,8 +17,7 @@ language:
   - English
 pages: 241
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Hatcher - Bourgeois Hinduism, or the Faith of the Modern Vedantists (2008).pdf]]"
   - "[[Library/Hinduism/Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)/Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)]]"

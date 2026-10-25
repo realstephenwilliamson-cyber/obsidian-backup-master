@@ -6,7 +6,7 @@ page_range: "95–105"
 aliases:
   - "Gita (Lombardo) 18"
 ---
-[p. 95]
+[p. 95] ^pg95
 
 ## Chapter Eighteen
 

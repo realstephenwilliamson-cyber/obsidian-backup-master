@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 33
 verses: 22
-page_range:
-  - 626
-  - 627
+page_range: "626–627"
 aliases:
   - "BCP Psalm 33"
   - "BCP 626"
@@ -59,7 +57,7 @@ and the designs of his heart from age to age. ^33-11
 **33:12** Happy is the nation whose God is the LORD! \*  
 happy the people he has chosen to be his own! ^33-12
 
-[p. 627]
+[p. 627] ^pg627
 
 **33:13** The LORD looks down from heaven, \*  
 and beholds all the people in the world. ^33-13

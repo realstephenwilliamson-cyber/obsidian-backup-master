@@ -20,8 +20,7 @@ language:
   - English
 pages: 84
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Quintessence-Soundarya-Lahari.pdf]]"
 aliases:

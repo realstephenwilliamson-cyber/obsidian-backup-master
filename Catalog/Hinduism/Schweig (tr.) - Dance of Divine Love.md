@@ -17,8 +17,7 @@ language:
   - English
 pages: 420
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Schweig (tr.) - Dance of Divine Love (2005).pdf]]"
 aliases:

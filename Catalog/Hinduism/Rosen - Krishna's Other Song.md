@@ -17,8 +17,7 @@ language:
   - English
 pages: 313
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Rosen, Steven J - Krishna's Other Song_ a New Look at the Uddhava Gita-ABC-CLIO, LLC (2010).pdf]]"
 aliases:

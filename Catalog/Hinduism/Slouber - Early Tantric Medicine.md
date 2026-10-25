@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 393
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Slouber - Early Tantric Medicine (2017).pdf]]"
   - "[[Library/Hinduism/Early Tantric Medicine (Slouber)/Early Tantric Medicine (Slouber)]]"

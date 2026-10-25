@@ -17,8 +17,7 @@ language:
   - English
 pages: 1
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[On Exactitude in Science.pdf]]"
   - "[[Library/Other/On Exactitude in Science (Borges)]]"

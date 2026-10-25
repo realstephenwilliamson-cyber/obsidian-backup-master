@@ -17,8 +17,7 @@ language:
   - English
 pages: 159
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Buhnemann - Tantric Forms of Ganesa (1989).pdf]]"
 aliases:

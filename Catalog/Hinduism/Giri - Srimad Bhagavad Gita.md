@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 315
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Giri - Srimad Bhagavad Gita (2002).pdf]]"
 aliases:

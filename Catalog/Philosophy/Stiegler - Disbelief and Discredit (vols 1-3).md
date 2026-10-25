@@ -20,7 +20,7 @@ language:
 pages:
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Stiegler - The Decadence of Industrial Democracies, Disbelief and Discredit 1 (2011).pdf]]"
   - "[[(Disbelief and Discredit 2) Uncontrollable Societies of Disaffected Individuals (2011).pdf]]"

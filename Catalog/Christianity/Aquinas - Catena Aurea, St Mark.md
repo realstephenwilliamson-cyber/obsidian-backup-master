@@ -17,8 +17,7 @@ language:
   - English
 pages: 281
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Aquinas - Catena Aurea, St Mark (1842).pdf]]"
   - "[[Library/Christianity/Catena Aurea on Mark (Aquinas)/Catena Aurea on Mark (Aquinas)]]"

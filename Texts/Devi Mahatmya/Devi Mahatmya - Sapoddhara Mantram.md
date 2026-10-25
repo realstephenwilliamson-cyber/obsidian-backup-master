@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-auxiliary
 title: Śāpoddhāra Mantram
+collection: "Devī Māhātmya"
 role: opening
 status: stub
 aliases:

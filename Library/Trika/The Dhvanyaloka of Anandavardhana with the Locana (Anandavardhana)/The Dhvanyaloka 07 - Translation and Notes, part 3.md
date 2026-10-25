@@ -497,7 +497,7 @@ one can easily imagine a relation of subject and simile between the terms even t
 
 Dasaratha was like Rāma, Raghu like Daśaratha and Aja like Raghu and the whole race of Diipa like Aja:
 
-marvellous is the glory of Rāma,[^L165-9]’
+marvellous is the glory of Rāma,[^L165-9]
 
 where one cannot say that it does not exist. So why worry whether sequentiality or contemporaneity hinders. the \[suggestion of\] simile? Enough of trying to milk a mule.
 

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 52
 verses: 9
-page_range:
-  - 658
-  - 658
+page_range: "658"
 aliases:
   - "BCP Psalm 52"
   - "BCP 658"
@@ -25,7 +23,7 @@ Hebrew text and JPS translation: [[Psalms 052]]
 **52:1** You tyrant, why do you boast of wickedness \*  
 against the godly all day long? ^52-1
 
-[p. 658]
+[p. 658] ^pg658
 
 **52:2** You plot ruin;  
 your tongue is like a sharpened razor, \*  

@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/pop.html"
-page_range:
-  - 383
-  - 395
+page_range: "383–395"
 aliases:
   - "BCP 383"
   - "BCP 384"
@@ -27,7 +25,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 383–395
 
-[p. 383]
+[p. 383] ^pg383
 
 ## The Prayers of the People
 
@@ -57,7 +55,7 @@ and for the salvation of our souls, let us pray to the Lord.
 
 For the peace of the world, for the welfare of the Holy Church of God, and for the unity of all peoples, let us pray to the Lord. *Lord, have mercy.*
 
-[p. 384]
+[p. 384] ^pg384
 
 For our Bishop, and for all the clergy and people, let us pray to the Lord. *Lord, have mercy.*
 
@@ -81,7 +79,7 @@ For the poor and the oppressed, for the unemployed and the destitute, for prison
 
 For all who have died in the hope of the resurrection, and for all the departed, let us pray to the Lord. *Lord, have mercy.*
 
-[p. 385]
+[p. 385] ^pg385
 
 For deliverance from all danger, violence, oppression, and degradation, let us pray to the Lord. *Lord, have mercy.*
 
@@ -107,7 +105,7 @@ I ask your prayers for God's people throughout the world; for our Bishop(s) ; fo
 
 *Silence*
 
-[p. 386]
+[p. 386] ^pg386
 
 I ask your prayers for peace; for goodwill among nations; and for the well-being of all people. Pray for justice and peace.
 
@@ -138,7 +136,7 @@ Praise God for those in every generation in whom Christ has been honored [especi
 
 *Silence*
 
-[p. 387]
+[p. 387] ^pg387
 
 *The Celebrant adds a concluding Collect.*
 
@@ -166,7 +164,7 @@ Let us pray for our own needs and those of others.
 
 *Silence*
 
-[p. 388]
+[p. 388] ^pg388
 
 *The People may add their own petitions.*
 
@@ -198,7 +196,7 @@ Lord, in your mercy *Hear our prayer.*
 
 Bless all whose lives are closely linked with ours, and grant that we may serve Christ in them, and love one another as he loves us.
 
-[p. 389]
+[p. 389] ^pg389
 
 *Silence*
 
@@ -230,7 +228,7 @@ For the holy Church of God, that it may be filled with truth and love, and be fo
 
 Kyrie eleison. or Lord, have mercy.
 
-[p. 390]
+[p. 390] ^pg390
 
 For *N.* our Presiding Bishop, for *N.* (*N.*) our own Bishop(s), for all bishops and other ministers, and for all the holy people of God, we pray to you, O Lord.
 
@@ -254,7 +252,7 @@ poverty, famine, and disaster, we pray to you, O Lord.
 
 For the poor, the persecuted, the sick, and all who suffer; for refugees, prisoners, and all who are in danger; that they may be relieved and protected, we pray to you, O Lord.
 
-[p. 391]
+[p. 391] ^pg391
 
 For this congregation [for those who are present, and for those who are absent], that we may be delivered from hardness of heart, and show forth your glory in all that we do, we pray to you, O Lord.
 
@@ -279,7 +277,7 @@ Rejoicing in the fellowship of [the ever-blessed Virgin Mary, (*blessed N.*) and
 
 For yours is the majesty, O Father, Son, and Holy Spirit; yours is the kingdom and the power and the glory, now and for ever. *Amen.*
 
-[p. 392]
+[p. 392] ^pg392
 
 ### Form VI
 
@@ -309,7 +307,7 @@ For the special needs and concerns of this congregation.
 
 Hear us, Lord; *For your mercy is great.*
 
-[p. 393]
+[p. 393] ^pg393
 
 We thank you, Lord, for all the blessings of this life.
 
@@ -344,7 +342,7 @@ through Jesus Christ our Lord. Amen.
 
 *The Celebrant concludes with an absolution or a suitable Collect.*
 
-[p. 394]
+[p. 394] ^pg394
 
 ### The Collect at the Prayers
 

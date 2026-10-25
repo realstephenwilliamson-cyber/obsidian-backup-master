@@ -189,7 +189,7 @@ Thus, their relationship (with one another) as the means and the goal, is procla
 अविज्ञाय शिवं दीक्षा कथमित्यत्र चोत्तरम् ।
 
 śrīmatkiraṇaśāstre ca tat praśnottarapūrvakam |
-anubhāvo vikalpo ‘pi mānaso na manaḥ śive || 74 I|
+anubhāvo vikalpo ‘pi mānaso na manaḥ śive || 74 ||
 avijñāya śivan dīkṣā katham ity atra cottaram | 
 
 That (view) also (expressed in its own way) in the venerable Kiraṇaśāstra in the (course of a series) of questions and answers (that begins with the following objection): ‘The experience (anubhāva) (of hunger and thirst etc.) is mental, and (as such) is also a thought construct (vikalpa). (Thus,) the mind (cannot apply itself) to Śiva.% (But) without having first known Śiva, how is initiation (that serves to conjoin the soul to Him possible)?” The answer here (to this question) is as follows." (74- 75ab) (75-76ab) 
@@ -287,7 +287,7 @@ physical one) like a jar. A thought construct is लावा. It is subtle, and
 
 ”\*\* 
 
-What is said to be (Śiva’s) voidness is so (in a secondary) figurative sense (upacārena) in relation to Māyā.“\* Śiva is said to be the Void because He is devoid of the attributes (of Māyā) such as mutability and the like (which condition empirical entities). This amounts to saying that in relation to something else that (Śiva) is not void (and hence can be known as something). And so (as this is so), once Śiva has been known by means of (His) power, the 
+What is said to be (Śiva’s) voidness is so (in a secondary) figurative sense (upacāreṇa) in relation to Māyā.“\* Śiva is said to be the Void because He is devoid of the attributes (of Māyā) such as mutability and the like (which condition empirical entities). This amounts to saying that in relation to something else that (Śiva) is not void (and hence can be known as something). And so (as this is so), once Śiva has been known by means of (His) power, the 
 
 642\. A passage, perhaps drawn from a commentary, found in a note of the Sanskrit text explains: ‘What is said (here serves to) refute (the view that the) nature (of the mind) is such that it does not make contact with (any) object (artha). He states the (right) manner (to understand the matter) there (in that case), saying that ‘(a thought construct also has as its) basis (a real) entity’ and so on. (With regards to the statement that) ‘there is no thought construct (vikalpa) (where there is (a direct) experience of hunger and the like)’, it is said as a reason for this that ‘(a thought construct also has as its) basis (a real) entity’. (But) if based on (a real empirical) entity, then why does it not manifest (externally) like a jar? Thus it is said that it is not like a jar. The reason there is ‘that a thought construct is mental’ and so on.’
 
@@ -357,10 +357,10 @@ In this way, whatever be the wonderful diversity of this universe consisting of 
 
 अकलौ सकलश्चेति शिवस्यैव विभूतयः ।। ८०॥।
 
-bahuśaktitvam asyoktarn śivasya yad ato mahān |
+bahuśaktitvam asyoktaṁ śivasya yad ato mahān |
 kalātattvapurārṇāṇupadādibhedavistaraḥ ॥ 77 ॥
 sṛṣtisthititirodhānasaihārānugrahādi ca |
-turyam ity api devasya bahuśaktitvajṛmbhitam || 78 Il jāgratsvapnasuṣuptāny atadatītāni yāny api |
+turyam ity api devasya bahuśaktitvajṛmbhitam || 78 || jāgratsvapnasuṣuptāny atadatītāni yāny api |
 tāny apy amuṣya nāthasya svātantryalaharībharaḥ ॥ 79 ॥
 mahāmantreśamantreśamantrāḥ śivapurogamāḥ |
 akalau sakalaś ceti śivasyaiva vibhūtayaḥ ॥ 80 ॥ 
@@ -413,7 +413,7 @@ Somadeva, searching for the origins of the sets of perceivers, refers to the Sv�
 *[p. 224]* ^pg238
 
 tattvagrāmasya sarvasya dharmaḥ syād anapāyavān |
-ātmaiva hi svabhāvātmety uktaṁ śrītriśiromate || 81 Il 
+ātmaiva hi svabhāvātmety uktaṁ śrītriśiromate || 81 || 
 
 It is said in the venerable Triśiromata that the (essential) nature (dharma) of the (entire) group (grāma) of metaphysical principles (tattva) is imperishable. Indeed, it is the Self alone who is the identity of their own nature (svabhāvātman). (81) (82) 
 
@@ -427,7 +427,7 @@ A scripture functions in two ways — as word and meaning (that is, as what is w
 
 हदिस्थं सर्वदिहस्थं स्वभावस्थं सुसृक्ष्मकम् ।
 सामूह्यं चैव तत्वानां प्रमशब्देन कीर्तितम् | ८२॥
-hṛdistharn sarvadehasthaṁ svabhāvastharni susūkṣmakam |
+hṛdisthaṁ sarvadehasthaṁ svabhāvastharni susūkṣmakam |
 sāmūhyari caiva tattvānāṁ grāmaśabdena kīrtitam || 82 | 
 
 The extremely subtle totality (कद्व) of the principles located in the Heart, in all the body, and in the specific nature (svabhāva) (of all things), is termed the ‘group’ (grāma).\*“ (82) (83) 
@@ -531,7 +531,7 @@ in the centre (between them) (tanmadhyabhāvena).[^669]
 
 672\. rāt paras tu.
 
-673\. These lines appear to be drawn from the Trisirobhairavatantra. Quoted by Jayaratha without further explanation, they are mysterious. It seems that Jayaratha assumed that his readers would have access to the text or that they would be given an explanation by a teacher. It is possible that the text is referring to three forms, aspects or developments of the emissive power (visargaśakti) of consciousness, symbolized by the sixteenth, seventeenth and eighteenth digit of the Moon. Abhinava refers to three types of utterances of visarga — normal, short and very short — and correlates them with the highest level of aesthetic enjoyment (PTv pp. 46-48). Below, Abhinava quotes a passage from the TBh (see below 3/139ab (3/138) ff.) that refers to the seventeenth digit as the quiescent, potential form of Kundalini - \$ jon as the Kundalinī of the cosmic breath (prāṇakundalinī). According to the passage we are examining, the eighteenth is the emission that encompasses both aspects, quiescent and emergent. The three are related in some way to the breathing. Possibly, the sixteenth lower form is in the inhaled breath (apāna), the supreme in the exhaled (prāna) and the middling one in the centre between them, where the movement of the breath rests. As we shall see in detail in Chapter Six, the movement of the breath is coordinated with the flux of time. Thus, it seems that according to this passage the emissions of the breath correspond to three aspects or forms of time. Thus pure, eternal consciousness shines free of the obscuration of time when the breath, charged with the energies that impel it and generate time, has been ‘abandoned’ and the yogi realises his essential, unobscured conscious nature.
+673\. These lines appear to be drawn from the Trisirobhairavatantra. Quoted by Jayaratha without further explanation, they are mysterious. It seems that Jayaratha assumed that his readers would have access to the text or that they would be given an explanation by a teacher. It is possible that the text is referring to three forms, aspects or developments of the emissive power (visargaśakti) of consciousness, symbolized by the sixteenth, seventeenth and eighteenth digit of the Moon. Abhinava refers to three types of utterances of visarga — normal, short and very short — and correlates them with the highest level of aesthetic enjoyment (PTv pp. 46-48). Below, Abhinava quotes a passage from the TBh (see below 3/139ab (3/138) ff.) that refers to the seventeenth digit as the quiescent, potential form of Kundalini - \$ jon as the Kundalinī of the cosmic breath (prāṇakundalinī). According to the passage we are examining, the eighteenth is the emission that encompasses both aspects, quiescent and emergent. The three are related in some way to the breathing. Possibly, the sixteenth lower form is in the inhaled breath (apāna), the supreme in the exhaled (prāṇa) and the middling one in the centre between them, where the movement of the breath rests. As we shall see in detail in Chapter Six, the movement of the breath is coordinated with the flux of time. Thus, it seems that according to this passage the emissions of the breath correspond to three aspects or forms of time. Thus pure, eternal consciousness shines free of the obscuration of time when the breath, charged with the energies that impel it and generate time, has been ‘abandoned’ and the yogi realises his essential, unobscured conscious nature.
 
 
 *[p. 230]* ^pg244
@@ -711,7 +711,7 @@ How can that (perpetually) abiding state (sthiti), which is the attainment of on
 परं शिवं तु व्रजति भैरवाख्यं जपादपि ।
 
 kalmaṣakṣīṇamanasā smṛtimātranirodhanāt |
-dhyāyate paraman dhyeyarn gamāgamapade sthitam |I 88 I|
+dhyāyate paraman dhyeyaṁ gamāgamapade sthitam |I 88 I|
 paran śivaṁ tu vrajati[^704] bhairavākhyaṁ japād api | 
 
 He who, with a mind free of impurity, meditates on (this) the supreme object of meditation, located on the plane of ‘going and coming’ (gamāgamapada),[^705] by suppressing just (his) memory alone (which is the source of thought), attains Supreme Śiva, Who is called Bhairava, by the repeated recitation of Mantra (japa) also.[^706] (88-89ab) (89-90ab) 
@@ -742,7 +742,7 @@ What is this repeated recitation of Mantra? With this doubt in mind, he says:
 ### TĀ 1.90
 
 तत्स्वरूपं जपः प्रोक्तो भावाभावपदच्युतः ॥ ८९ ॥
-tatsvarūpaṁ japaḥ \[10410 bhāvābhāvapadacyutaḥ ॥ 89 Il 
+tatsvarūpaṁ japaḥ \[10410 bhāvābhāvapadacyutaḥ ॥ 89 ॥ 
 
 The repeated recitation of Mantra that is free of the polarities of Being and Nonbeing, is said to be His own nature. (89cd) (90cd) 
 
@@ -760,7 +760,7 @@ s ‘own nature’ is essentially the supreme form of Speech (parāvāc) which i
 
 710\. Listed in verses 87-88.
 
-711\. VBh 145 (143). This verse is also quoted in SvTu ad 2/137cd-139ab. Śivopadhyāya explains: pare bhāve viśvapūraṇe svasvabhāve yā bhāvanā vimarśanā aham eva paro hamsaḥ sivaḥ paramakāranam | (SvT 4/399cd) ityādirūpā bhāvyate saṁipādyate | sa eva nādaḥ akṛtakāhaṁvimarśātmā japanīyo devaḥ | yā bhāvanā niṣpādyate sa japaḥ iti anvayaḥ | japyam कव svayań nādo mantrātmā iti pṛthaṁ mantraḥ pṛthaṁ mantrī na siddhyati kadācana | iti nyāyāt | atra sūkṣmavastīūpadeśamaye śāstre || ‘\*Contemplation’ is the reflecting awareness ‘within the supreme state’, that is, within one’s own essential nature that fills everything. It is experienced, that is, comes about in the form of ‘I myself am the supreme Haṁsa, Śiva, the supreme cause’ (SvT 4/399cd). That is ‘(unstruck) Sound’, the deity who should be repeatedly recited, the nature of which is the reflective awareness of the uncreated ego. The connected sense is that the contemplation that is generated (thereby) is the repeated recitation of Mantra. The ‘Mantra that should be recited’ is said to be the spontaneous Sound (of consciousness), the nature of which is Mantra. This is because the teaching is that ‘separate from the Mantra (he recites), one who recites Mantra is never successful’, ‘here’ according to the scripture that consists of the teachings concerning the subtle reality.” Abhinava also quotes this verse in ĪPVv 2, p. 262 where he writes: nanu yadi sabdāvartanaḥ japas tadavicchinne kālabhedam aspṛśati paravāgrūpe katha japavyavahāraḥ | āvartanasya hi vicchidya vicchidya yad udīranaṁ, tad eva rūpam | parāvasthāyām iti sakṛdvibhātatvavat sakṛd āvartanam eva tatra japa iti yāvat, āvartanavyavahāraś ca tatra udayamātre | sakṛcchabdena tu ekavāravācinā sadārthaparyāyena vā vicchedaśaṁkā nivāritā, yathoktańi prāk svarasoditā iti | yas tu bhūyo bhūyaḥ pare bhāve bhāvanā bhāvyate hi yā | japaḥ so ‘tra svayarn nādo mantrātmā japya īdṛśaḥ || (110 bhai0 145) iti parādaśāyām api Āāvartanavyavahāraḥ, sa शा क्कक्ताः ८), 1 paśyantīmadhyamādarśapatitāyāṁ daśāyām | ‘Surely, if the repetition of Mantra is a continuous round of words, how can the activity of repetition of Mantra take place within the nature of Supreme Speech which, being undivided, is not affected by temporal division? The utterance of a round (of sounds) takes place by separating (one sound from another) repeatedly, and that itself is its nature (rūpa). In the supreme state, the repetition takes place once (atemporally) like a single flash (sakṛdvibhātatva), and repetition of Mantra is like a continuously repeated action there when it has just arisen. The word ‘once’, that denotes (something that takes) place a single time or one that is synonymous with ‘always’, removes the doubt that there is a break. As was said before, ‘(Speech) arises spontaneously’. (Abhinava then quotes VBh 145 (143).) Thus (according to this teaching,) continuously repeated action takes place on the supreme plane also as (takes place) on this plane, that has fallen to the level of the mirror of the Speech of Vision and the Middle One.
+711\. VBh 145 (143). This verse is also quoted in SvTu ad 2/137cd-139ab. Śivopadhyāya explains: pare bhāve viśvapūraṇe svasvabhāve yā bhāvanā vimarśanā aham eva paro hamsaḥ sivaḥ paramakāranam | (SvT 4/399cd) ityādirūpā bhāvyate saṁipādyate | sa eva nādaḥ akṛtakāhaṁvimarśātmā japanīyo devaḥ | yā bhāvanā niṣpādyate sa japaḥ iti anvayaḥ | japyam कव svayań nādo mantrātmā iti pṛthaṁ mantraḥ pṛthaṁ mantrī na siddhyati kadācana | iti nyāyāt | atra sūkṣmavastīūpadeśamaye śāstre || ‘\*Contemplation’ is the reflecting awareness ‘within the supreme state’, that is, within one’s own essential nature that fills everything. It is experienced, that is, comes about in the form of ‘I myself am the supreme Haṁsa, Śiva, the supreme cause’ (SvT 4/399cd). That is ‘(unstruck) Sound’, the deity who should be repeatedly recited, the nature of which is the reflective awareness of the uncreated ego. The connected sense is that the contemplation that is generated (thereby) is the repeated recitation of Mantra. The ‘Mantra that should be recited’ is said to be the spontaneous Sound (of consciousness), the nature of which is Mantra. This is because the teaching is that ‘separate from the Mantra (he recites), one who recites Mantra is never successful’, ‘here’ according to the scripture that consists of the teachings concerning the subtle reality.” Abhinava also quotes this verse in ĪPVv 2, p. 262 where he writes: nanu yadi sabdāvartanaḥ japas tadavicchinne kālabhedam aspṛśati paravāgrūpe katha japavyavahāraḥ | āvartanasya hi vicchidya vicchidya yad udīranaṁ, tad eva rūpam | parāvasthāyām iti sakṛdvibhātatvavat sakṛd āvartanam eva tatra japa iti yāvat, āvartanavyavahāraś ca tatra udayamātre | sakṛcchabdena tu ekavāravācinā sadārthaparyāyena vā vicchedaśaṁkā nivāritā, yathoktańi prāk svarasoditā iti | yas tu bhūyo bhūyaḥ pare bhāve bhāvanā bhāvyate hi yā | japaḥ so ‘tra svayaṁ nādo mantrātmā japya īdṛśaḥ || (110 bhai0 145) iti parādaśāyām api Āāvartanavyavahāraḥ, sa शा क्कक्ताः ८), 1 paśyantīmadhyamādarśapatitāyāṁ daśāyām | ‘Surely, if the repetition of Mantra is a continuous round of words, how can the activity of repetition of Mantra take place within the nature of Supreme Speech which, being undivided, is not affected by temporal division? The utterance of a round (of sounds) takes place by separating (one sound from another) repeatedly, and that itself is its nature (rūpa). In the supreme state, the repetition takes place once (atemporally) like a single flash (sakṛdvibhātatva), and repetition of Mantra is like a continuously repeated action there when it has just arisen. The word ‘once’, that denotes (something that takes) place a single time or one that is synonymous with ‘always’, removes the doubt that there is a break. As was said before, ‘(Speech) arises spontaneously’. (Abhinava then quotes VBh 145 (143).) Thus (according to this teaching,) continuously repeated action takes place on the supreme plane also as (takes place) on this plane, that has fallen to the level of the mirror of the Speech of Vision and the Middle One.
 
 
 *[p. 240]* ^pg254
@@ -823,7 +823,7 @@ He concludes this (point by saying):
 ### TĀ 1.92
 
 svātantryapūrṇatvād atidurghaṭakāry ayam |
-kena nāma na rūpeṇa bhāsate parameśvaraḥ I| 91 ॥ 
+kena nāma na rūpeṇa bhāsate parameśvaraḥ ॥ 91 ॥ 
 
 In what form does the Supreme Lord not appear by virtue of the fullness (of His) freedom in this way? (Verily,) He accomplishes miracles!” (91) (92) 
 
@@ -839,7 +839,7 @@ The ‘form’ (in which Śiva appears) is as each one of His (countless) energi
 इच्छादिभिरभिख्याभिर्गुरुभिः प्रकटीकृतम् ।। ९३॥
 
 nirāvaraṇam ābhāti bhāty āvṛtanijātmakaḥ |
-āvṛtānāvṛto bhāti bahudhā bhedasaṁgamāt Il 92 ||
+āvṛtānāvṛto bhāti bahudhā bhedasaṁgamāt || 92 ||
 iti śaktitrayaṁ nāthe svātantryāparanāmakam |
 icchādibhir abhikhyābhir gurubhiḥ prakaṭīkṛtam ॥ 93 ॥ 
 

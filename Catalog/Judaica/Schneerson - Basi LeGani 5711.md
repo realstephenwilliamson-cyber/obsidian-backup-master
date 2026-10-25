@@ -18,8 +18,7 @@ language:
   - Hebrew
 pages: 79
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Basi Legani.pdf]]"
   - "[[Library/Judaica/Basi LeGani 5711 (Schneerson)/Basi LeGani 5711 (Schneerson)]]"

@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Weiss - The Emergence of Modern Hinduism]]"
 book: "[[Library/Hinduism/The Emergence of Modern Hinduism (Weiss)/The Emergence of Modern Hinduism (Weiss)|The Emergence of Modern Hinduism (Weiss)]]"
 order: 16
 source_pdf: "Library/Hinduism/Weiss - The Emergence of Modern Hinduism (2019).pdf"
-pages: "155–158"
+page_range: "155–158"
 pdf_pages: "172–175"
 text_source: "PDF text layer (born-digital), PyMuPDF"
 converted: 2026-10-22

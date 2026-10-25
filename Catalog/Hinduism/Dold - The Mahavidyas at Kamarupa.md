@@ -17,8 +17,7 @@ language:
   - English
 pages: 35
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The_Mahavidyas_at_Kamarupa_Dynamics_of_T.pdf]]"
 aliases:

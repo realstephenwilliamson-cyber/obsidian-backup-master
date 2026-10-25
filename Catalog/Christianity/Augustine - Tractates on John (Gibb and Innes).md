@@ -19,8 +19,7 @@ language:
   - "English"
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Texts/Fathers/Augustine - Tractates on John/Augustine - Tractates on John]]"
 aliases: []

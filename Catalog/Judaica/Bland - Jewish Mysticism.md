@@ -17,8 +17,7 @@ language:
   - English
 pages: 14
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Jewish Mysticism Guidebook.pdf]]"
   - "[[Library/Judaica/Jewish Mysticism (Bland)]]"

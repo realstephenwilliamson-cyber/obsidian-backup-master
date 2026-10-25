@@ -17,8 +17,7 @@ language:
   - English
 pages: 59
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The_Inner_Pilgrimage_of_the_Tantras.pdf]]"
   - "[[Library/Trika/The Inner Pilgrimage of the Tantras (Dyczkowski)/The Inner Pilgrimage of the Tantras (Dyczkowski)]]"

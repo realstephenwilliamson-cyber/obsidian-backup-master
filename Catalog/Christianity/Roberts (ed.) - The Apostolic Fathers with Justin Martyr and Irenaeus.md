@@ -19,8 +19,7 @@ language:
   - English
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf]]"
   - "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"

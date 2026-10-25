@@ -17,8 +17,7 @@ language:
   - English
 pages: 119
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The_Dynamic_of_Sexuality_in_the_Mystic_W.pdf]]"
   - "[[Library/Other/The Dynamic of Sexuality in the Mystic Way (Martin)/The Dynamic of Sexuality in the Mystic Way (Martin)]]"

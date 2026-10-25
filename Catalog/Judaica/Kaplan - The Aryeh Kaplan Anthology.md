@@ -17,8 +17,7 @@ language:
   - English
 pages: 319
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Aryeh Kaplan - Aryeh Kaplan Anthology Volume I. 1-Artscroll (1991).pdf]]"
   - "[[Library/Judaica/The Aryeh Kaplan Anthology (Kaplan)/The Aryeh Kaplan Anthology (Kaplan)]]"

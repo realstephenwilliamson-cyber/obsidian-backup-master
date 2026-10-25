@@ -6,7 +6,7 @@ page_range: "33–36"
 aliases:
   - "Gita (Lombardo) 5"
 ---
-[p. 33]
+[p. 33] ^pg33
 
 ## Chapter Five
 

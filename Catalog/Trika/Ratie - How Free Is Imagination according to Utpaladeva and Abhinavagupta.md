@@ -17,8 +17,7 @@ language:
   - English
 pages: 49
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Ratie - How Free Is Imagination according to Utpaladeva and Abhinavagupta (2010).pdf]]"
   - "[[Library/Trika/A Five-Trunked, Four-Tusked Elephant Is Running in the Sky (Ratie)/A Five-Trunked, Four-Tusked Elephant Is Running in the Sky (Ratie)]]"

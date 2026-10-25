@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 462
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Samvid (tr.) - Tripurarahasyam (2000).pdf]]"
 aliases: []
@@ -35,7 +34,7 @@ await dv.view("Templates/Views/open-pdf")
 
 *Note (5 Oct 2026):* Title page names no author for the classical text, so author is left empty. The Devanagari subtitle (Jñānakhaṇḍam) shows this volume covers the Jñāna section only. End of file not available to check.
 
-**Text layer** (5 Oct 2026): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
+**Text layer** (5 Oct 2026; replaced on 15 Oct, below): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
 
 ## About
 

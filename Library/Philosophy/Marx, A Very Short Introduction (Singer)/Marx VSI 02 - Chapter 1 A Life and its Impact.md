@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Singer - Marx, A Very Short Introduction]]"
 book: "[[Library/Philosophy/Marx, A Very Short Introduction (Singer)/Marx, A Very Short Introduction (Singer)|Marx, A Very Short Introduction (Singer)]]"
 order: 2
 source_pdf: "Library/Philosophy/Singer - Marx, A Very Short Introduction (2000).pdf"
-pages: "14–28"
+page_range: "14–28"
 pdf_pages: "13–27"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15

@@ -17,8 +17,7 @@ language:
   - English
 pages: 552
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Dupuche - Abhinavagupta, The Kula Ritual as Elaborated in Chapter 29 of the Tantraloka (2003).pdf]]"
   - "[[Library/Trika/Abhinavagupta - The Kula Ritual as Elaborated in Chapter 29 (Dupuche)/Abhinavagupta - The Kula Ritual as Elaborated in Chapter 29 (Dupuche)]]"

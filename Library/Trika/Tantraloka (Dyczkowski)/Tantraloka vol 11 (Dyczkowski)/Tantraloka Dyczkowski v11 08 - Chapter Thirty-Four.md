@@ -42,7 +42,7 @@ He talks about that.
 yad etad bahudhā proktam āṇavari śivatāptaye |
 tatrāntarantarāviśya viśrāmyet savidhe pade || 1 ||
 tato ‘py āṇavasaṁtyāgāc chāktī bhūmim upāśrayet |
-tato ‘pi śāmbhavīm evar tāratamyakramāt sphutṭam |I 2 ॥ 
+tato ‘pi śāmbhavīm evar tāratamyakramāt sphutṭam ॥ 2 ॥ 
 
 Having penetrated more and more deeply into the Individual (means to realization), which is of many kinds, in order to attain Śiva’s nature \[illegible\] (the adept) should come to rest on that plane (which is proximate to it and) of a similar nature (savidha). Then, by abandoning the Individual (level), he should take the support of the Empowered plane. Then, after that also, (he attains) the Śāmbhava one. In this same way, by 
 
@@ -66,11 +66,11 @@ Surely (one may ask), once this is so, what happens to him? With this doubt in m
 {1101411 kramoditavibodhamahāmarīci- 
 
 sampūritaprasarabhairavabhāvabhāgī |
-ante ‘bhyupāyanirapekṣatayaiva \[illegible\] 
+ante ‘bhyupāyanirapekṣatayaiva nityaṁ 
 
 svātmānam āviśati garbhitaviśvarūpam || 3 ॥ 
 
-474?\. is, states, to be categories of practice. The terminology supports this interpretation, but while quite possible, Abhinava does not explicitly confirm it. He tells us that the source of this teaching is his teacher’s teacher, that is, Sumati. If Abhinava were to be talking about the categories of practice — upāya - we would have to accept that he learnt this classification of practice. But this is unlikely, for we have no other references that could possibly support that view. Here ānava etc. clearly refer to states. In the MV, the same terms are applied to levels and forms of \[illegible\] / samāveśa. So, it appears that Sumati interpreted them as states — avasthā or planes — bhūmi. This perspective has been retained to furnish the distinction in the modern exegesis between means — upāya and the state — avasthā in
+474?\. is, states, to be categories of practice. The terminology supports this interpretation, but while quite possible, Abhinava does not explicitly confirm it. He tells us that the source of this teaching is his teacher’s teacher, that is, Sumati. If Abhinava were to be talking about the categories of practice — upāya - we would have to accept that he learnt this classification of practice. But this is unlikely, for we have no other references that could possibly support that view. Here āṇava etc. clearly refer to states. In the MV, the same terms are applied to levels and forms of \[illegible\] / samāveśa. So, it appears that Sumati interpreted them as states — avasthā or planes — bhūmi. This perspective has been retained to furnish the distinction in the modern exegesis between means — upāya and the state — avasthā in
 
 475?\. which the adept practices. The former is a development that, apparently, Abhinava brought about or led to completion.
 

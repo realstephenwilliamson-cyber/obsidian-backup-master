@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 193
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[K.P. Leelamma - Devi Mahatmyam with Word to Word Meaning-Sri Ramakrishna Math Thrissur (1998).pdf]]"
 aliases:
@@ -38,7 +37,7 @@ await dv.view("Templates/Views/open-pdf")
 
 *Note (5 Oct 2026):* 'with Word to Word Meaning' comes only from the PDF file name and is not on the title page; the note file name still uses it.
 
-**Text layer** (5 Oct 2026): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
+**Text layer** (5 Oct 2026; replaced on 15 Oct, below): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
 
 ## About
 

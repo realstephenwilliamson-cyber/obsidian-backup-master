@@ -20,7 +20,7 @@ language:
 pages: 430
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Frank - The Collection of the Words of the Lord (2004).pdf]]"
   - "[[Library/Judaica/The Collection of the Words of the Lord (Frank)/The Collection of the Words of the Lord (Frank)]]"

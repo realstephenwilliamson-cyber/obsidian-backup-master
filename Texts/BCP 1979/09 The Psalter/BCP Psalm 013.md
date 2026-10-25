@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 13
 verses: 6
-page_range:
-  - 598
-  - 598
+page_range: "598"
 aliases:
   - "BCP Psalm 13"
   - "BCP 598"
@@ -26,7 +24,7 @@ Hebrew text and JPS translation: [[Psalms 013]]
 will you forget me for ever? \*  
 how long will you hide your face from me? ^13-1
 
-[p. 598]
+[p. 598] ^pg598
 
 **13:2** How long shall I have perplexity in my mind,  
 and grief in my heart, day after day? \*  

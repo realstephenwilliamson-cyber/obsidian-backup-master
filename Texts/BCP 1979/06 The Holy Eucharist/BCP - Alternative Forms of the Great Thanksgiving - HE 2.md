@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/he2-altgt.html"
-page_range:
-  - 367
-  - 376
+page_range: "367–376"
 aliases:
   - "BCP 367"
   - "BCP 368"
@@ -24,7 +22,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 367–376
 
-[p. 367]
+[p. 367] ^pg367
 
 ## Alternative Forms of the Great Thanksgiving
 
@@ -58,7 +56,7 @@ Holy, Holy, Holy Lord, God of power and might, heaven and earth are full of your
 Hosanna in the highest. Blessed is he who comes in the name of the Lord.  
 Hosanna in the highest.
 
-[p. 368]
+[p. 368] ^pg368
 
 *The people stand or kneel.*
 
@@ -78,7 +76,7 @@ Therefore, according to his command, O Father,
 
 We remember his death, We proclaim his resurrection, We await his coming in glory;
 
-[p. 369]
+[p. 369] ^pg369
 
 *The Celebrant continues*
 
@@ -100,7 +98,7 @@ And now, as our Savior Christ has taught us, we are bold to say, · As our Savio
 
 The Lord be with you. *And also with you.*
 
-[p. 370]
+[p. 370] ^pg370
 
 Lift up your hearts. *We lift them to the Lord.*
 
@@ -118,7 +116,7 @@ Again and again, you called us to return. Through prophets and sages you reveale
 
 And therefore we praise you, joining with the heavenly chorus, with prophets, apostles, and martyrs, and with all those in every generation who have looked to you in hope, to proclaim with them your glory, in their unending hymn:
 
-[p. 371]
+[p. 371] ^pg371
 
 *Celebrant and People*
 
@@ -138,7 +136,7 @@ After supper, he took the cup of wine, gave thanks, and said, "Drink this, all o
 
 Remembering now his work of redemption, and offering to you this sacrifice of thanksgiving, *We celebrate his death and resurrection, as we await the day of his coming.*
 
-[p. 372]
+[p. 372] ^pg372
 
 Lord God of our Fathers: God of Abraham, Isaac, and Jacob; God and Father of our Lord Jesus Christ: Open our eyes to see your hand at work in the world about us. Deliver us from the presumption of coming to this Table for solace only, and not for strength; for pardon only, and not for renewal. Let the grace of this Holy Communion make us one body, one spirit in Christ, that we may worthily serve the world in his name. *Risen Lord, be known to us in the breaking of the Bread.*
 
@@ -164,7 +162,7 @@ Celebrant Let us give thanks to the Lord our God.
 
 **People** It is right to give him thanks and praise.
 
-[p. 373]
+[p. 373] ^pg373
 
 *Then, facing the Holy Table, the Celebrant proceeds*
 
@@ -186,7 +184,7 @@ Hosanna in the highest.
 
 We acclaim you, holy Lord, glorious in power. Your mighty works reveal your wisdom and love. You formed us in your own image, giving the whole world into our care, so that, in obedience to you, our Creator, we might rule and serve all your creatures. When our disobedience took us far from you, you did not abandon us to the power of death. In your mercy you came to our help, so that in seeking you we might find you. Again and again you called us into covenant with you, and through the prophets you taught us to hope for salvation.
 
-[p. 374]
+[p. 374] ^pg374
 
 Father, you loved the world so much that in the fullness of time you sent your only Son to be our Savior. Incarnate by the Holy Spirit, born of the Virgin Mary, he lived as one of us, yet without sin. To the poor he proclaimed the good news of salvation; to prisoners, freedom; to the sorrowful, joy. To fulfill your purpose he gave himself up to death; and, rising from the grave, destroyed death, and made the whole creation new.
 
@@ -200,7 +198,7 @@ After supper he took the cup of wine; and when he had given thanks, he gave it t
 
 Father, we now celebrate this memorial of our redemption. Recalling Christ's death and his descent among the dead, proclaiming his resurrection and ascension to your right hand, awaiting his coming in glory; and offering to you, from the gifts you have given us, this bread and this cup, we praise you and we bless you.
 
-[p. 375]
+[p. 375] ^pg375
 
 *Celebrant and People*
 
@@ -220,7 +218,7 @@ And grant that we may find our inheritance with [the Blessed Virgin Mary, with p
 
 Through Christ, and with Christ, and in Christ, all honor and glory are yours, Almighty God and Father, in the unity of the Holy Spirit, for ever and ever. *AMEN.*
 
-[p. 376]
+[p. 376] ^pg376
 
 And now, as our Savior Christ has taught us, we are bold to say, · As our Savior Christ has taught us, we now pray,
 

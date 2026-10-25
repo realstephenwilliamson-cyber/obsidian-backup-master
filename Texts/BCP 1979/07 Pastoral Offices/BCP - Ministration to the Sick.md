@@ -5,9 +5,7 @@ section: "Pastoral Offices"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/PastoralOffices/ministration_to_the_sick.html"
-page_range:
-  - 453
-  - 461
+page_range: "453–461"
 aliases:
   - "BCP 453"
   - "BCP 454"
@@ -23,7 +21,7 @@ aliases:
 
 [[BCP 1979]] · *Pastoral Offices* · pages 453–461
 
-[p. 453]
+[p. 453] ^pg453
 
 ## Ministration to the Sick
 
@@ -47,7 +45,7 @@ Peace be to this house (place), and to all who dwell in it.
 
 [[2 Corinthians 01#^1-3|2 Corinthians 1:3-5]] (God comforts us in affliction) Psalm 91 (He will give his angels charge over you) [[Luke 17#^17-11|Luke 17:11-19]] (Your faith has made you well)
 
-[p. 454]
+[p. 454] ^pg454
 
 ### Penitence
 
@@ -71,7 +69,7 @@ Peace be to this house (place), and to all who dwell in it.
 
 Most merciful God, we confess that we have sinned against you in thought, word, and deed, by what we have done, and by what we have left undone. We have not loved you with our whole heart; we have not loved our neighbors as ourselves. We are truly sorry and we humbly repent.
 
-[p. 455]
+[p. 455] ^pg455
 
 For the sake of your Son Jesus Christ, have mercy on us and forgive us; that we may delight in your will, and walk in your ways, to the glory of your Name. *Amen.*
 
@@ -93,7 +91,7 @@ Savior of the world, by your cross and precious blood you have redeemed us; *Sav
 
 *The Priest then lays hands upon the sick person, and says one of the following*
 
-[p. 456]
+[p. 456] ^pg456
 
 *N.*, I lay my hands upon you in the Name of the Father, and of the Son, and of the Holy Spirit, beseeching our Lord Jesus Christ to sustain you with his presence, to drive away all sickness of body and spirit, and to give you that victory of life and peace which will enable you to serve him both now and evermore. *Amen.*
 
@@ -135,7 +133,7 @@ Let us bless the Lord. *Thanks be to God.*
 
 *If a person desires to receive the Sacrament, but, by reason of extreme sickness or physical disability, is unable to eat and drink the Bread and Wine, the Celebrant is to assure that person that all the benefits of Communion are received, even though the Sacrament is not received with the mouth.*
 
-[p. 458]
+[p. 458] ^pg458
 
 ### Prayers for the Sick
 
@@ -153,7 +151,7 @@ O God of heavenly powers, by the might of your command you drive away from our b
 
 Heavenly Father, watch with us over your child *N.*, and grant that *he* may be restored to that perfect health which it is yours alone to give; through Jesus Christ our Lord. *Amen.*
 
-[p. 459]
+[p. 459] ^pg459
 
 *or this*
 
@@ -171,7 +169,7 @@ Strengthen your servant *N.*, O God, to do what *he* has to do and bear what *he
 
 Heavenly Father, giver of life and health: Comfort and relieve your sick servant *N.*, and give your power of healing to those who minister to *his* needs, that *he* may be strengthened in *his* weakness and have confidence in your loving care; through Jesus Christ our Lord. *Amen.*
 
-[p. 460]
+[p. 460] ^pg460
 
 ### For the Sanctification of Illness
 
@@ -189,7 +187,7 @@ Sanctify, O Lord, those whom you have called to the study and practice of the ar
 
 O Lord, your compassions never fail and your mercies are new every morning: We give you thanks for giving our brother (sister) *N.* both relief from pain and hope of health renewed. Continue in *him*, we pray, the good work you have begun; that *he*, daily increasing in bodily strength, and rejoicing in your goodness, may so order *his* life and conduct that *he* may always think and do those things that please you; through Jesus Christ our Lord. *Amen.*
 
-[p. 461]
+[p. 461] ^pg461
 
 ### Prayers for use by a Sick Person
 

@@ -1,6 +1,7 @@
 ---
 type: book
 title: "The Zohar: Pritzker Edition"
+work: "Zohar"
 author: Daniel C. Matt (trans.)
 publisher: Stanford University Press
 format: Markdown from EPUB

@@ -6,7 +6,7 @@ page_range: "575–590"
 ---
 [[Forgery and Counterforgery 18 - Bibliography|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 20 - Index of Subjects|next →]]
 
-[p. 575]
+[p. 575] ^pg575
 
 ## INDEX OF ANCIENT SOURCES
 
@@ -1318,4 +1318,4 @@ For modern scholars, refer to the **Modern Scholars** index found on pages 623-6
 | 11 | 470, 479 |
 | War (Josephus), 1.26.3 | 71, 102 |
 
-[p. 590]
+[p. 590] ^pg590

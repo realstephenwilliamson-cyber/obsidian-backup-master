@@ -17,8 +17,7 @@ language:
   - English
 pages: 233
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Mohanty (ed.) - Phenomenology and the Human Sciences (1985).pdf]]"
   - "[[Library/Philosophy/Phenomenology and the Human Sciences (Mohanty)/Phenomenology and the Human Sciences (Mohanty)]]"

@@ -17,8 +17,7 @@ language:
   - English
 pages: 118
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Swami Sivananda - Practical Lessons in Yoga-Divine Life Society (1997).pdf]]"
 aliases:

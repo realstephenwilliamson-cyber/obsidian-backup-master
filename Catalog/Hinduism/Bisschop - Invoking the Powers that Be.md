@@ -17,8 +17,7 @@ language:
   - English
 pages: 9
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Invoking_the_Powers_that_Be_The_Sivadhar.pdf]]"
   - "[[Library/Hinduism/Invoking the Powers that Be (Bisschop)]]"

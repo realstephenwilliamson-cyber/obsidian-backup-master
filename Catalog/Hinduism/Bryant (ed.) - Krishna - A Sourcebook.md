@@ -17,8 +17,7 @@ language:
   - English
 pages: 590
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Edwin F. Bryant - Krishna_ A Sourcebook-Oxford University Press, USA (2007).pdf]]"
   - "[[Library/Hinduism/Krishna - A Sourcebook (Bryant)/Krishna - A Sourcebook (Bryant)]]"

@@ -20,8 +20,7 @@ language:
   - English
 pages: 633
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Saivism and the Tantric Traditions.pdf]]"
   - "[[Library/Hinduism/Saivism and the Tantric Traditions (Goodall)/Saivism and the Tantric Traditions (Goodall)]]"

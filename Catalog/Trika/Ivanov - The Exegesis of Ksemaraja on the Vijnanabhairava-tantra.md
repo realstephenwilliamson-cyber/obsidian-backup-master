@@ -17,8 +17,7 @@ language:
   - English
 pages: 9
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[25766-54364-1-PB.pdf]]"
   - "[[Library/Trika/The Exegesis of Ksemaraja on the Vijnanabhairava-tantra (Ivanov)]]"

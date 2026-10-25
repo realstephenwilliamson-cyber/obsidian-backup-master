@@ -17,8 +17,7 @@ language:
   - English
 pages: 304
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Jones - Mysticism Examined (1993).pdf]]"
   - "[[Library/Other/Mysticism Examined (Jones)/Mysticism Examined (Jones)]]"

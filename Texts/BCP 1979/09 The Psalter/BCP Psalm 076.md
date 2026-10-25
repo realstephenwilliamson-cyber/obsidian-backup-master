@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 76
 verses: 12
-page_range:
-  - 692
-  - 692
+page_range: "692"
 aliases:
   - "BCP Psalm 76"
   - "BCP 692"

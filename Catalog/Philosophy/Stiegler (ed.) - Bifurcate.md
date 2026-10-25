@@ -19,8 +19,7 @@ language:
   - English
 pages: 330
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Stiegler (ed.) - Bifurcate (2021).pdf]]"
   - "[[Library/Philosophy/Bifurcate (Stiegler)/Bifurcate (Stiegler)]]"

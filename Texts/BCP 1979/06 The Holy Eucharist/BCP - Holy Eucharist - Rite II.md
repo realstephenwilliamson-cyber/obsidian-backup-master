@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/he2.html"
-page_range:
-  - 355
-  - 366
+page_range: "355–366"
 aliases:
   - "BCP 355"
   - "BCP 356"
@@ -26,7 +24,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 355–366
 
-[p. 355]
+[p. 355] ^pg355
 
 ## The Holy Eucharist: Rite Two
 
@@ -54,7 +52,7 @@ Blessed be God: Father, Son, and Holy Spirit.
 
 Almighty God, to you all hearts are open, all desires known, and from you no secrets are hid: Cleanse the thoughts of our hearts by the inspiration of your Holy Spirit, that we may perfectly love you, and worthily magnify your holy Name; through Christ our Lord. *Amen.*
 
-[p. 356]
+[p. 356] ^pg356
 
 *When appointed, the following hymn or some other song of praise is sung or said, all standing*
 
@@ -86,7 +84,7 @@ Lord, have mercy. · Kyrie eleison.
 
 Holy God, Holy and Mighty, Holy Immortal One, *Have mercy upon us.*
 
-[p. 357]
+[p. 357] ^pg357
 
 ### The Collect of the Day
 
@@ -128,7 +126,7 @@ The Holy Gospel of our Lord Jesus Christ according to .
 
 **People** Glory to you, Lord Christ.
 
-[p. 358]
+[p. 358] ^pg358
 
 *After the Gospel, the Reader says*
 
@@ -165,7 +163,7 @@ he suffered death and was buried.
 On the third day he rose again in accordance with the Scriptures;  
 he ascended into heaven and is seated at the right hand of the Father.
 
-[p. 359]
+[p. 359] ^pg359
 
 He will come again in glory to judge the living and the dead,  
 and his kingdom will have no end.
@@ -195,7 +193,7 @@ and the life of the world to come. Amen.
 
 *One of the sentences from the Penitential Order on page 351 may be said.*
 
-[p. 360]
+[p. 360] ^pg360
 
 *The Deacon or Celebrant says*
 
@@ -221,7 +219,7 @@ The peace of the Lord be always with you.
 
 *Then the Ministers and People may greet one another in the name of the Lord.*
 
-[p. 361]
+[p. 361] ^pg361
 
 ## The Holy Communion
 
@@ -257,7 +255,7 @@ It is right, and a good and joyful thing, always and every- where to give thanks
 
 *Here a Proper Preface is sung or said on all Sundays, and on other occasions as appointed.*
 
-[p. 362]
+[p. 362] ^pg362
 
 Therefore we praise you, joining our voices with Angels and Archangels and with all the company of heaven, who for ever sing this hymn to proclaim the glory of your Name:
 
@@ -279,7 +277,7 @@ He stretched out his arms upon the cross, and offered himself, in obedience to y
 
 On the night he was handed over to suffering and death, our Lord Jesus Christ took bread; and when he had given thanks to you, he broke it, and gave it to his disciples, and said, "Take, eat: This is my Body, which is given for you. Do this for the remembrance of me."
 
-[p. 363]
+[p. 363] ^pg363
 
 After supper he took the cup of wine; and when he had given thanks, he gave it to them, and said, "Drink this, all of you: This is my Blood of the new Covenant, which is shed for you and for many for the forgiveness of sins. Whenever you drink it, do this for the remembrance of me."
 
@@ -299,7 +297,7 @@ All this we ask through your Son Jesus Christ: By him, and with him, and in him,
 
 And now, as our Savior Christ has taught us, we are bold to say, · As our Savior Christ has taught us, we now pray,
 
-[p. 364]
+[p. 364] ^pg364
 
 *People and Celebrant*
 
@@ -341,7 +339,7 @@ now and for ever. Amen.
 
 The Gifts of God for the People of God.
 
-[p. 365]
+[p. 365] ^pg365
 
 and may add · Take them in remembrance that Christ died for you, and feed on him in your hearts by faith, with thanksgiving.
 
@@ -369,7 +367,7 @@ Eternal God, heavenly Father, you have graciously accepted us as living members 
 
 *or the following*
 
-[p. 366]
+[p. 366] ^pg366
 
 Almighty and everliving God, we thank you for feeding us with the spiritual food of the most precious Body and Blood of your Son our Savior Jesus Christ; and for assuring us in these holy mysteries that we are living members of the Body of your Son, and heirs of your eternal kingdom. And now, Father, send us out to do the work you have given us to do, to love and serve you as faithful witnesses of Christ our Lord. To him, to you, and to the Holy Spirit, be honor and glory, now and for ever. Amen.
 

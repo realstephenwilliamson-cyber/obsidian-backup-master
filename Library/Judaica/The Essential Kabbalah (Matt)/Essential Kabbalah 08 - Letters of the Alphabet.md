@@ -8,7 +8,7 @@ page_range: "100–108"
 
 # ![[essential-kabbalah-9780062048134_023.png]] Letters of the Alphabet
 
-[p. 102]
+[p. 102] ^pg102
 
 ### LETTERS OF CREATION
 
@@ -20,7 +20,7 @@ Out of chaos God formed substance, making what is not into what is. He hewed eno
 
 When Abraham our father, peace unto him, gazed—looking, seeing, probing, understanding, engraving, carving, permuting, and forming—he succeeded in creation. Immediately God manifested to him, embracing him, kissing him on the head, calling him “Abraham, my beloved.”
 
-[p. 103]
+[p. 103] ^pg103
 
 ### UNSHEATHING THE SOUL
 
@@ -32,7 +32,7 @@ Now turn your thoughts to visualizing the Name and its supernal angels, imaginin
 
 Realize that the stronger the mental flow, the weaker will become your organs and limbs. Your entire body will begin to tremble violently. You will think that you are about to die because your soul, overjoyed at what she has attained, will depart from your body. Consciously choose death over life, knowing that such death affects only the body and that thereby the soul lives eternally. Then you will know that you are capable of receiving the flow. If you then wish to honor the glorious Name by serving it with the life of body and soul, hide your face, fear to gaze at God, and come no closer, like Moses at the burning bush. Return to the physical dimension; rise, eat and drink a little, inhale a fragrant aroma. Return your spirit to its sheath until another time. Rejoice in what you have, and know that God loves you.
 
-[p. 105]
+[p. 105] ^pg105
 
 ### THE PROOF OF WISDOM
 
@@ -52,7 +52,7 @@ My mind did not accept it. But after about two months of meditation, my thought 
 
 Those who know a little about this—and especially those to whom something has been revealed experientially—will rejoice in what I have written and find it fitting. But their difficulty will be that I have revealed all this explicitly. As for me, God knows and is my witness! My intention is for the sake of heaven. I wish that every person in our holy nation excelled me in this, that everyone was purer than I. Then, perhaps, things unknown to me could be revealed. For God, who is truly one, teaches all who are ready to receive—freely and in love. Since God desires us to imitate the divine perfectly, I cannot bear not to lavish upon another what God has lavished upon me. That is why I had to tell the story of my experience, because the only genuine proof of this wisdom is experience itself.
 
-[p. 108]
+[p. 108] ^pg108
 
 ### ALONENESS AND ABUNDANCE
 

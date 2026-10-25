@@ -19,8 +19,7 @@ language:
   - English
 pages: 53
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The_Smarta_Saktism_of_South_India_Lalita.pdf]]"
 aliases:

@@ -17,8 +17,7 @@ language:
   - English
 pages: 396
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Invisible Leviathan_ Marx's Law of Value in the Twilight of Capitalism-Brill (2018).pdf]]"
   - "[[Library/Philosophy/Invisible Leviathan (Smith)/Invisible Leviathan (Smith)]]"

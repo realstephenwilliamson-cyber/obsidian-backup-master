@@ -6,7 +6,7 @@ page_range: 12–23
 aliases:
   - Tantric Mantras 03 - 2. The extraction and examination of mantras - Mantroddhāra and mantravicāra
 ---
-[p. 12]
+[p. 12] ^pg12
 
 # 2 The extraction and examination of mantras[^1]
 

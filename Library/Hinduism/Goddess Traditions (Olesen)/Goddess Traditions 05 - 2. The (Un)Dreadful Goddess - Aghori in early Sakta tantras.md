@@ -6,7 +6,7 @@ page_range: 33–50
 aliases:
   - Goddess Traditions 05 - 2. The (Un)Dreadful Goddess - Aghorī in early Śākta tantras
 ---
-[p. 33]
+[p. 33] ^pg33
 
 # 2 The (Un)Dreadful Goddess
 

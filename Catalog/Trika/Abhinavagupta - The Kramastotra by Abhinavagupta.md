@@ -18,8 +18,7 @@ language:
   - English
 pages: 8
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The Kramastotra by Abhinavagupta.pdf]]"
   - "[[Library/Trika/The Kramastotra by Abhinavagupta (Abhinavagupta)]]"

@@ -17,8 +17,7 @@ language:
   - English
 pages: 25
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Hobbess_Biblical_Beasts_Leviathan_and_Be.pdf]]"
   - "[[Library/Philosophy/Hobbes's Biblical Beasts (Springborg)]]"

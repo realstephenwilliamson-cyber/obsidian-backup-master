@@ -17,8 +17,7 @@ language:
   - English
 pages: 276
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Mohanty - The Possibility of Transcendental Philosophy (1985).pdf]]"
   - "[[Library/Philosophy/The Possibility of Transcendental Philosophy (Mohanty)/The Possibility of Transcendental Philosophy (Mohanty)]]"

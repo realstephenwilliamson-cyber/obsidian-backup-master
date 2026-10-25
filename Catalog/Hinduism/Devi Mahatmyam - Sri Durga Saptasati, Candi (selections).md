@@ -17,8 +17,7 @@ language:
   - English
 pages: 31
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Durga.pdf]]"
   - "[[Devi Mahatmyam - Sri Durga Saptasati, Candi, selections (text)]]"

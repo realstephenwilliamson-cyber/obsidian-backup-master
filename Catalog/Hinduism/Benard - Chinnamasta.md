@@ -17,8 +17,7 @@ language:
   - English
 pages: 186
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Chinnamasta_ The Aweful Buddhist and Hindu Tantric Goddess-Motilal Banarsidass Publ. (2000).pdf]]"
 aliases:

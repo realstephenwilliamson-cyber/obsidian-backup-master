@@ -45,7 +45,7 @@ pīthoditar (-dita) mahāmnāyaṁ (mahāmnāya) saṁpradāyopabṛṁṁitam �
 This is the supreme root aphorism transmitted by the word of mouth of the Siddhas (the Accomplished Ones). It is the Great Teaching (mahāmnāya) born of the Sacred Seat \[illegible\] and extended by the tradition. (4) 
 
 yat tat sadgurupādābjaprasādāvagataṁ (-pādāvje-) sphutam |
-dhāmāditritayeneha cakrabhaṁgabhayān manāk || 5 Il prakāśyate mayā samyag vākyair aviṣamāśayaiḥ |
+dhāmāditritayeneha cakrabhaṁgabhayān manāk || 5 || prakāśyate mayā samyag vākyair aviṣamāśayaiḥ |
 kudeśikamatenaiva (-mataśvabhra) bhraṁśinār bhaktiśālinām ॥ 6 ॥ 
 
 1173?\. Only one manuscript of this text has been recovered. See bibliography. Where the text has been emended, the original reading in the manuscript is noted in brackets after the emendation.
@@ -63,17 +63,17 @@ It is the exertion of the vitalizing one (ojaka) who is the sole path (ekāyana 
 The Sacred Seat 
 
 sivaśaktyubhayonmeṣasāmarasyodbhavaṁ mahat |
-vīryaṁ tasmād deha eva mahāpīthe (-pītha) samudgatam (-tah) | 8 ॥ 
+vīryaṁ tasmād deha eva mahāpīthe (-pītha) samudgatam (-taḥ) | 8 ॥ 
 
-The vitality (vīrya) which is the energy \[illegible\] generated from the oneness (sāmarasya) of the expansion of both Śiva and Śakti has arisen within (my) body, the Great Seat (of divine consciousness). (8) 
+The vitality (vīrya) which is the energy (mahat) generated from the oneness (sāmarasya) of the expansion of both Śiva and Śakti has arisen within (my) body, the Great Seat (of divine consciousness). (8) 
 
 ādyasaṁivitsamullāsaḥ (-sa) \[illegible\] \[illegible\] (pīyas) kṛtāspadaḥ (-dā) ।
-anantaśakticakraughasvāminī tatra mokṣadā (mokṣayam) ॥ 9 Il 
+anantaśakticakraughasvāminī tatra mokṣadā (mokṣayam) ॥ 9 ॥ 
 
 The mistress of the flux of the Wheel of Endless Power bestows freedom, in whichever of the sacred seats the primordial outpouring of consciousness takes place. (9) 
 
 pṛthivyādimahābhūtapañcake sā (tad) virājate |
-akṛtrimamahāvīryasphurattaikasvarūpinī ॥ 10 Il 
+akṛtrimamahāvīryasphurattaikasvarūpinī ॥ 10 ॥ 
 
 She shines in all the five great elements from Earth onwards, her one nature the radiant pulse of the uncreated and immense vitality (vīrya of consciousness). (10) 
 
@@ -82,7 +82,7 @@ yā saṁvit saiva satatar pīṭhacakraikadharminī |
 
 The one nature of consciousness is the Wheel of the Sacred Seat, whose form is free of limitations. Although persisting at all times, this (consciousness) can be known only to the wise. (11) 
 
-vīreśasya sthitāḥ pañca kalā yāh satatoditāḥ |
+vīreśasya sthitāḥ pañca kalā yāḥ satatoditāḥ |
 tā eva sarvavarnākhyaśaktīnāṁ pīthatāmi gatāḥ \\| 12 ॥ 
 
 Perpetually active, the five energies of the Lord of the Heroes have become the Sacred Seat of all the energies of the letters. (12) 
@@ -180,7 +180,7 @@ pratyāvṛttitayā nitya viśvagrāsaikaghasmarī ॥ 28 ॥
 Descending to the level of the activity of the many objects of sense, she is known as Bhūcarī who, alone, as the process of reversal (back into consciousness), constantly devours all things. (28) 
 
 samhārabhakṣinī (-bhakṣyanī) saiva rasasaicarvanotthitā |
-svarūpaprāntacitvattaḥ samārūdhā nirāśrayā (-yāh) ॥ 29 ॥ 
+svarūpaprāntacitvattaḥ samārūdhā nirāśrayā (-yāḥ) ॥ 29 ॥ 
 
 This same (goddess) is Saṁnhārabhakṣiṇī — the Devourer of Withdrawal —arisen to relish the juice of the aesthetic delight (of objectivity inwardly digested). Endowed with the innermost consciousness of one’s own nature, she is well mounted (on universal consciousness) and free (of all outer) support. (29) 
 
@@ -189,14 +189,14 @@ saiva raudreśvarī jñeyā surabhigrahaṇodyatā |
 One should know this same (goddess) to be Raudreśvarī, intent on laying hold of the fragrance (of the latent traces of objectivity). (30ab) 
 
 itthaṁ devīnaye (-name) samyag vyomavāmādipañcakam ॥ 30 ॥
-dandamundakramenoktarn mahānirvānasiddhidam | 
+dandamundakramenoktaṁ mahānirvānasiddhidam | 
 
 Thus, the pentad consisting of Vyomavāmā and the others has been properly explained in the Devīnaya (the Teaching Concerning the Goddess) in terms of the sequence of the Stick and the Head,’ that bestows the accomplishment of the Great Extinction (mahānirvāṇa). (30cd-31ab) 
 
-grāhyagrāhakabhedotthakalpanākṣobhasarikhyayā (-bhedottharn-) | 31 ॥
+grāhyagrāhakabhedotthakalpanākṣobhasarikhyayā (-bhedotthaṁ-) | 31 ॥
 sāmarasyamahāhlādadhāmny (-dhāmnetā) etā bhānti devatāḥ | 
 
-1174?\. These two are the twelve rays of the organs of action along with the vital breath (prāna), and those of knowledge along with the intellect, respectively.
+1174?\. These two are the twelve rays of the organs of action along with the vital breath (prāṇa), and those of knowledge along with the intellect, respectively.
 
 
 *[p. 492]* ^pg505
@@ -205,21 +205,21 @@ These deities shine within the abode of the great bliss of oneness (sāmarasya) 
 
 avarṇapañcapindārṇarūpayor advayī gatiḥ ॥ 32 ||
 yatas tasmād ucyate ‘lan devīnār (devīnā) saṁsthitaḥ (tasthitam) vapuḥ |
-yo ‘nāhatahatottīrnarāvarūpo ‘svaraḥ (-rūpah svaraḥ) smṛtaḥ |l 33 ॥
+yo ‘nāhatahatottīrnarāvarūpo ‘svaraḥ (-rūpah svaraḥ) smṛtaḥ ॥ 33 ॥
 suvarnamūladhāmotthavyomapañcaniketabhṛt (-vyomatpañna-(?)) |
 tadgatāḥ parameśvaryo vyomavāmādisarijñikāḥ ॥ 34 ॥ 
 
 The letter A and the five letters syllable (i.e., KHPHREM) are one, and so there is no more to say. The body of the goddesses abides (in this way). The letter A (asvara) is said to be the resonance (rāva of consciousness) beyond both struck and unstruck sound. It is the meeting ground of the Five Voids, arisen from the abode of the Golden Root (suvarṇnamūla). The goddesses who reside there are those named Vyomavāmā and the rest. (32cd-34) 
 
-viṣayagrāso (-grāsa) vyākhyatas (vyākyatada-) tadanyavyomamadhyagaḥ (- 8āh) ।
+viṣayagrāso (-grāsa) vyākhyatas (vyākyatada-) tadanyavyomamadhyagaḥ (- 8āḥ) ।
 makārādisvarūpo yah pañcapindakramoditaḥ ॥ 35 ॥
 tatraiva vyomavāmādidevyaḥ samyag vyavasthitāḥ |
 akramodrekavibhavāḥ paramādvayavigrahāḥ ॥ 36 ॥ 
 
 That is said to be the devouring of the objects of sense that takes place in the centre of the other (??) Void. It is the letter M and the rest, that has arisen from the sequence of the five-fold syllable (KHPHREM). The goddess Vyomavāmā and the rest are properly established there itself, their glorious power bom of the intensity of the changeless (akrama aspect of consciousness) and from supreme nonduality. (35-36) 
 
-ittharn devyo nirāveśamahāvarṇakramoditāḥ |
-tattvataḥ sparśasaṁvittilaharyām antare sphuṭam |l 37 ॥
+itthaṁ devyo nirāveśamahāvarṇakramoditāḥ |
+tattvataḥ sparśasaṁvittilaharyām antare sphuṭam ॥ 37 ॥
 sāmarasyena bhāntīha vāmādyā devatāḥ sadā | 
 
 In this way, the goddesses generated through the sequence of (A,) the Great Letter (that, transcendent, is) free of penetration, are in reality clearly manifest within the wave of the consciousness of touch. The goddesses Vāmā and the rest shine here eternally as oneness (sāmarasyena). (37-38ab) 
@@ -272,7 +272,7 @@ Again, this same (goddess), her body the pulsing radiance of (the One) Reality, 
 
 I praise Saṁhārabhakṣiṇī (the Devourer of Withdrawal), She who, free, is within her own abode (svapada). (44cd-45ab) 
 
-pratyāvṛttitayā nityarn svarūpatrayabhakṣinī || 45 ॥
+pratyāvṛttitayā nityaṁ svarūpatrayabhakṣinī || 45 ॥
 mahāvyomāntaniṣthātvāt saiva raudreśvarī smṛtā | 
 
 Established within the Great Void, she perpetually devours the three innate natures (of creation, persistence and destruction), as (she) is the process of reversal (back from manifestation into unmanifest consciousness), and so this same (goddess) is known as Raudreśvarī. (45cd-46ab) 
@@ -284,7 +284,7 @@ sarvās tatraiva (tadaiva) satata sāmarasyena yānty alam |
 
 The Master's Sandals (pādukā) shine by themselves in the midst of these goddesses, and there itself they all perpetually attain oneness (sāmarasya). (46cd- 47ab) 
 
-iti sadguruvaktrotthayuktyā yo hy anirodhitaḥ (yenātiraudhitaḥ) I| 47 ॥
+iti sadguruvaktrotthayuktyā yo hy anirodhitaḥ (yenātiraudhitaḥ) ॥ 47 ॥
 samādhisevitaḥ śaśvat sa mahāmnāyapāragaḥ | 
 
 He who, by this practice that has come from the lips of a true master, possesses perfect concentration (samādhi) at all times and is not obstructed, has understood the Great Tradition. (47cd-48ab) 
@@ -310,7 +310,7 @@ The glorious power that, free of limitations, arises from the aggregate of energ
 
 tathā cāvyaktarūpā ye nirvibhāgaikavigrahāḥ ॥ 52 ॥
 svarā dvādaśasarṁkhyākāḥ paśyantīgarbhaniṣthitāḥ |
-paraprakāśavibhavasvabhāvatvād gurūttamāḥ |l 53 ॥ 
+paraprakāśavibhavasvabhāvatvād gurūttamāḥ ॥ 53 ॥ 
 
 Such also are the twelve vowels, whose nature is unmanifest, and their one form undivided. They are the glorious power of the supreme light of 
 
@@ -323,7 +323,7 @@ consciousness, and so, established in the womb of Word of Vision (paśyanfī), t
 tā (tān) eva prathayantīha (katha-) dikcarīcakravartinaḥ |
 nirāvaraṇacidvyomarūpā dvādaśadhāvyayāḥ ॥ 54 ||
 saṁvidullāsanārūdhāḥ (saṁviduktāsanā-) svaprakāśaikavigrahāḥ |
-yā (yāh(?)mā) harhṁsahaṁsamatyādi (\* \* haisamatyādi) nāmataḥ satatoditāḥ ॥
+yā (yāḥ(?)mā) harhṁsahaṁsamatyādi (\* \* haisamatyādi) nāmataḥ satatoditāḥ ॥
 551l 
 
 Residing in the Wheel of Dikcarī, they unfold here (in this world). Their nature is the unobscured Void of Consciousness and, twelve-fold, they are eternal. Mounted on the outpouring of consciousness, their one form is their own inherent Light and, ever active, are called Unstruck Sound (haṁsa), its possessor (haṁsamati) and the like. (54-55) 
@@ -348,7 +348,7 @@ The energies of the Moon are sixteen and their form nectar. Once having taken th
 adṛṣtadharminaḥ śāntāḥ svarāḥ ṣodaśarūpinaḥ ॥ 60 ॥
 āsphālya madhyam ārūdhās tābhir eva samāśritāḥ |
 dvipañcakendriyadvāraiḥ paravyomaikavigrahāḥ || 61 ॥
-bahirvinirgatā devyo haṭhamelāpakena yāh | 
+bahirvinirgatā devyo haṭhamelāpakena yāḥ | 
 
 The sixteen vowels, their qualities unmanifest, are tranquil. The goddesses, whose sole form is the Supreme Sky of Consciousness, having embraced them and risen up to the centre, are penetrated by them and, by (the power of) violent union, exit by the ten doors of the senses. (60cd-62ab) 
 
@@ -360,7 +360,7 @@ nirvikalpaciduddāmabhairavasyāmitadyuteḥ |
 
 The group of five, form and the rest, is the (outer) form of the body of bliss, which is the unbounded radiance of Bhairava, who is unrestrained (uddāma), non-discursive consciousness. Rightly penetrated by these (energies), (this group of five) is worshipped in an undivided way. (62cd-63) 
 
-ittharn dviraṣtavisphāravibhavaḥ kalpanojjhitaḥ |
+itthaṁ dviraṣtavisphāravibhavaḥ kalpanojjhitaḥ |
 niruttaracamatkārapradatvāt (-camatkārami-) prathito ‘niśam ॥ 64 ॥ 
 
 In this way, the glorious power of the sixteen-fold expansion, free of thought constructs, is ever perceived, bestowing as it does unexcelled wonder (niruttaracamatkāra). (64) 
@@ -387,7 +387,7 @@ visargasahitā bhānti parāvāggarbhaniṣthitāḥ (-vāgarbha-) |
 
 The sixteen vowels, their energies completely tranquil, shine along with (the energy of) emission (visarga), firmly fixed in the womb of Supreme Speech. (69cd-70ab) 
 
-varṇabhedakramenetthaṁ samāśrityeha \[illegible\] adhaḥ || 70 |l 
+varṇabhedakramenetthaṁ samāśrityeha \[illegible\] adhaḥ || 70 || 
 
 *[p. 497]* ^pg510
 
@@ -423,7 +423,7 @@ vīrapañcānanārūdhā mahāmelāpatatparā \\
 
 She is called Maṁgalā here (in this world), because she quickly frees (gālayati) from Māyā. Mounted on the Hero's Five Faces, she is intent on the Great Union (mahāmelāpa). (16cd-77ab) 
 
-paraviddharasaughena (paravidha-) madana (madanām) cetasi bhṛśam (niśarn) ॥ 77 ॥
+paraviddharasaughena (paravidha-) madana (madanām) cetasi bhṛśam (niśaṁ) ॥ 77 ॥
 gamanāt paramākāśe sṛṣtyādikalanojjhite |
 sānākhyācakravapuṣaḥ (lānākhe-) paratattvasya sarvadā ॥ 78 ॥
 maṁgaleha tataḥ khyātā nirāvaranadharminī | 
@@ -461,22 +461,22 @@ Established on the emanating plane (vāmapada) of emptiness beyond the plane of 
 
 The Wheel of the Aggregate The Jñānasiddhas yā saiva kathitā sadbhiḥ parā mudrā karaṁkinī |
 eṣām \[illegible\] jñïānākhyarūpānāri siddhānāṁ saṁsthitā kalā ॥ 86 ॥
-mudrayitvā pṛthagbhedaḥ mudreyarn karanojjhitā (-tām) | 
+mudrayitvā pṛthagbhedaḥ mudreyaṁ karanojjhitā (-tām) | 
 
 (The energy that does this) is called Karaṅkiṇī, the supreme seal (mudrā), by the wise. It is the energy of these, the Jñānasiddhas. This gesture, having sealed duality, is free of all the senses. (86-87ab) 
 
-The Mantrasiddhas pṛthivyādiprakṛtyantatattvavistāravibhramaḥ ॥ 87 Il dviṣatkadvigunātmā yah pārimityagrahānvitaḥ (-tā) |
+The Mantrasiddhas pṛthivyādiprakṛtyantatattvavistāravibhramaḥ ॥ 87 ॥ dviṣatkadvigunātmā yah pārimityagrahānvitaḥ (-tā) |
 tam eva nigalanty (nigalaty) uccaiḥ krodhān mantramarīcayaḥ ॥ 88 ॥
 (+ yatas tasyān) mantrasiddhā yatas tasyā (\* \* \* \*) vyəmadhāmakramoditāḥ |
 The rays of the Mantra(siddhas) upwardly consume (nigalanti) by (the force of) Wrath the entire expanse of the play of the twenty-four conditioned principles from Earth to Nature, as they are the Mantrasiddhas of that (power of consciousness) generated from the process (operating in) the Abode of Emptiness (vyomadhāmakrama). (87cd-89ab) 
 
-krodhena tattvavibhavaṁ nayaty ugranirākulā (-kularn) Il 89 ॥
+krodhena tattvavibhavaṁ nayaty ugranirākulā (-kulaṁ) ॥ 89 ॥
 yā māntrari (mātraṁ) parama vīryaṁ sā mudrā krodhinī smṛtā | 
 
-The seal \[illegible\] that is fierce and (yet) undisturbed, that conducts the energy (vibhava) of the principles to the supreme vitality of mantra by (the power of) Wrath is said to be Krodhinī. This most excellent seal is that of the Mantrasiddhas. Once having sealed what is generated by duality, it is established in the body. (89cd-90ab) 
+The seal (mudrā) that is fierce and (yet) undisturbed, that conducts the energy (vibhava) of the principles to the supreme vitality of mantra by (the power of) Wrath is said to be Krodhinī. This most excellent seal is that of the Mantrasiddhas. Once having sealed what is generated by duality, it is established in the body. (89cd-90ab) 
 
 The Melapasiddhas eṣāṁ \[illegible\] mantrākhyarūpānāṁ siddhānāṁ saṁivyavasthitā ॥ 90 ॥
-mudrayitvā vibhedottharn dehe (dehan) mudreyam uttamā |
+mudrayitvā vibhedotthaṁ dehe (dehan) mudreyam uttamā |
 dviṣaṭkarūpabhedena granthayo ye vyavasthitāḥ ॥ 91 ॥
 tān eva bhedayitvemāḥ śaktayaḥ proditāḥ parāḥ |
 mahāmelāpadharminyaḥ 
@@ -498,14 +498,14 @@ bhedadambaram (- dambaram) ॥ 93 ॥
 yā sthitā pūrṇavibhavā nirāvaraṇavigrahā (nirāvarna-) |
 bhairavī saiva vikhyātā mudrā sadasadujjhitā ॥ 94 ॥
 nistaraṅgavikāsātmasāmarasyaikanirbharā (-vikāśātma-) |
-eṣāṁ (āsāṁ) melāpasiddhānāṁ mudreyari bhairavyātmikā (bhairavā-) ॥ 95 Il 
+eṣāṁ (āsāṁ) melāpasiddhānāṁ mudreyari bhairavyātmikā (bhairavā-) ॥ 95 ॥ 
 
 Bhairavī is said to be the seal that, having filled the spectacle of duality generated by the intensity of her innate power, is free of being and nonbeing, her glorious power full (and perfect) and form unobscured. Bhairavī by nature, this is the gesture, full to overflowing with the oneness (sāmarasya), which is the waveless expansion of consciousness, of these Melāpasiddhas. (93cd-95). 
 
 The Śāktasiddhas 
 
 puryaṣtakasya gaditā vāsanābījavigrahāḥ |
-śaktayo yāh sūkṣmatarās tāsāṁ samharaṇodyatāḥ ॥ 96 ॥
+śaktayo yāḥ sūkṣmatarās tāsāṁ samharaṇodyatāḥ ॥ 96 ॥
 dīptayo yās tīkṣṇatamā vigatagrahadhāmagāḥ |
 tā eva kathitāḥ samyak śāktasiddhā nirāmayāḥ || 97 ॥ 
 
@@ -545,7 +545,7 @@ svaprakāśavikāsaikarūpā sā khecarī smṛtā ॥ 103 ॥
 Khecarī is said to be the lightning flash that travels through the Sky (of Consciousness), the plane free of all things, her sole nature the expansion of her own innate light (svaprakāśa). (103) 
 
 āsām śāmbhavasiddhānār devīnāṁ prathitā sadā |
-mudraṇāyāśu nānātvari (-tve) mudreyarn kalpanojjhitā ॥ 104 ॥ 
+mudraṇāyāśu nānātvari (-tve) mudreyaṁ kalpanojjhitā ॥ 104 ॥ 
 
 This seal, free of thought constructs and perceived (prathitā) at all times, serves to seal in an instant the multiplicity of these, the goddesses of the Śāmbhavasiddhas. (104) 
 
@@ -574,7 +574,7 @@ kakārādibhakārāntā varnavyañjanarūpinaḥ |
 
 dviṣatkadvigunākrāntāḥ (-ṇnākrāmūh (?)) siddhā (siddha) vācakavigrahāḥ (\* + \* kavigrahāḥ) ॥ 108 ॥ 
 
-The Mantrasiddhas are the consonants (varnṇavyañjana)} ranging from K to BH. They possess twenty-four qualities and are the denotators (vācaka). (108) dvādaśākhyās tathā (-tayāh) proktā mātrās tā eva saṁismṛtāḥ \\ melāpasiddhāḥ (-siddhā) satatan sīmarasyapradāḥ sadā ॥ 109 ॥ 
+The Mantrasiddhas are the consonants (varṇavyañjana)} ranging from K to BH. They possess twenty-four qualities and are the denotators (vācaka). (108) dvādaśākhyās tathā (-tayāh) proktā mātrās tā eva saṁismṛtāḥ \\ melāpasiddhāḥ (-siddhā) satatan sīmarasyapradāḥ sadā ॥ 109 ॥ 
 
 Similarly, the Melāpasiddhas who bestow oneness (sāmarasya) at all times are considered to be the twelve measures (of the letter A). (109) 
 
@@ -584,8 +584,8 @@ The eight letters ranging from Y to H should be known to be the
 
 Śāktasiddhas, intent on illumining the universe. (110) 
 
-akārasyeha yāh proktāś catasraḥ (catastraḥ) śaktayo ‘mitāḥ |
-sāmbhavākhyāḥ siddhavarāḥ saṁismṛtās tāh sadoditāḥ (satoditāḥ) ॥ 111 ॥ 
+akārasyeha yāḥ proktāś catasraḥ (catastraḥ) śaktayo ‘mitāḥ |
+sāmbhavākhyāḥ siddhavarāḥ saṁismṛtās tāḥ sadoditāḥ (satoditāḥ) ॥ 111 ॥ 
 
 The four boundless energies of the letter A are said to be the excellent 
 
@@ -616,7 +616,7 @@ saktayo rāvabimbāśca (-viṁvā ca) sudīptā amitāḥ (yitāḥ sadā) ॥ 
 
 While the Mantrasiddhas, supreme, arise from Vāmā. These energies, well illumined and always unlimited, are the very form of the resonance (of consciousness — rāvabimba). (115) 
 
-melāpasiddhāḥ satatarn prathitā niravagrahāḥ |
+melāpasiddhāḥ satataṁ prathitā niravagrahāḥ |
 ambikāyāḥ parānandanirbharāḥ (-nirbharā) śaktayo ‘mitāḥ || 116 ॥ 
 
 The Melāpasiddhas, perpetually perceived, free of limitations and full of supreme bliss, are the unlimited energies of Ambikā. (116) 
@@ -629,7 +629,7 @@ The Śāktasiddhas are the goddesses of Jyeṣthā. Ever active and perpetually 
 
 kalāś catasraḥ paramāḥ khyātāḥ svātmaprakāśikāḥ | 118 ॥
 kalācatuṣṭayam (-caṭuṣtam) ida sāmarasyasvarūpatām |
-yātaṁ yatrādyavarnṇe ‘smin tadrūpāḥ śāmbhavāḥ smṛtāḥ | 119 ॥ 
+yātaṁ yatrādyavarṇe ‘smin tadrūpāḥ śāmbhavāḥ smṛtāḥ | 119 ॥ 
 
 There are four energies that, illuminating their own (true) nature, are said to be supreme. This group of four energies becomes one in A, the first letter, and the Śāmbhava (Siddhas) (residing) in this (the letter A) are considered to be of their nature. (118cd-119) 
 
@@ -711,12 +711,12 @@ sāktakramas tato bhāti sadasatkramavarjitaḥ | 133 ॥
 That also dissolves away inwardly in the Sky of the Great Dissolution, and so the Sequence of Power (śāktakrama), free of the sequences of being and nonbeing, manifests. (133) 
 
 punas tad eva saṁvittikalanāparivarjitam |
-niruttaraḥ parar yat (yata) tat kathitarn vyomaśāmbhavam || 134 ॥ 
+niruttaraḥ parar yat (yata) tat kathitaṁ vyomaśāmbhavam || 134 ॥ 
 
 Again, that same (principle,) completely free of the cognitive process (saṁvittikalanā), is the supreme absolute (niruttara), said to be the Śāmbhava state of emptiness (vyomaśāmbhava). (134) 
 
-ayaṁ (idarn) śrīvīrasiṁākhyasvāminā (-svāminyā) samprakāśitaḥ |
-srījñānanetranāthasya vṛndacakrodayaḥ paraḥ || 135 II 
+ayaṁ (idaṁ) śrīvīrasiṁākhyasvāminā (-svāminyā) samprakāśitaḥ |
+srījñānanetranāthasya vṛndacakrodayaḥ paraḥ || 135 || 
 
 *[p. 506]* ^pg519
 
@@ -749,7 +749,7 @@ prathitā (prathitaḥ) pātavibhavasvabhāvenākramākṛtiḥ \\ tasyaiva sa�
 The form of the changeless (akrama aspect of consciousness) is perceived as the innate nature of the glorious power of the descent (pāta of the energies of consciousness into manifest activity). I will now explain the oral tradition concerning (its five aspects). (140) 
 
 dvandvayugmasvarūpena vāmeśyevoditā sadā (gamā) |
-ajasraṁ(ajastrarn) śŚāmbhavākhyena gṁītvā pātam (yātam)āditaḥ ॥ 141 |l 
+ajasraṁ(ajastraṁ) śŚāmbhavākhyena gṁītvā pātam (yātam)āditaḥ ॥ 141 ॥ 
 
 Vāmeśī is perpetually active as the innate nature of the pair of opposites (dvandvayugma), once having assumed in an instant the first descent (of 
 
@@ -768,12 +768,12 @@ bhūcarī sahasāśritya samyagjñānaṁ (-jñātaṁ) tṛtīyakam ॥ 143 ॥
 Bhūcarī is constantly generated by her own twelve energies when she enters with sudden force (sahasā) the third (descent), which is that of right knowledge (saṁyagjñāna). (143). 
 
 caturviṁśatisvabhāvābhir devatābhiḥ sadoditā |
-sarihārabhakṣiny āśritya nityarn pātaṁ (yātaṁ) caturthakam ॥ 144 ॥ 
+sarihārabhakṣiny āśritya nityaṁ pātaṁ (yātaṁ) caturthakam ॥ 144 ॥ 
 
 Saṁhārabhakṣinṇī is constantly activated by the twenty-four deities when she enters the fourth perpetual descent (of consciousness). (144) 
 
 dviraṣtaraśmirūpābhir devībhiḥ proditāntagā |
-raudreśvarī samāśritya \[illegible\] tu pañcamaṁi (pañca +) kramāt ॥ 145 ॥ 
+raudreśvarī samāśritya pātaṁ tu pañcamaṁi (pañca +) kramāt ॥ 145 ॥ 
 
 When, in due order, Raudreśvarī enters the fifth descent she, the last (of the goddesses), is activated by the goddesses who are the sixteen rays (of consciousness). (145) 
 
@@ -803,7 +803,7 @@ nirūpākhyamahāgrāsarūpān (-rūpā) na cyavate kadā (sada) ॥ 150 ॥
 Perceptions (saṁvit), which in reality are continuous and devoid of all thought constructs (and intentions — saṁkalpa), assume that (one essential) nature wherever they manifest. In this way, the Wheel, which is the glorious power (vibhava) of the five-fold nature (pañcātman), presided over by Raudreśī, never wavers from its true nature as the inexplicable and great consumption (mahāgrāsa) (of perceptions into undifferentiated consciousness). (149-150) 
 
 dhāmamudrāvarṇakalāsavidbhāvasvabhāvataḥ |
-pāūātāniketadṛṣṭyādi (yātā-) vrndacakrańi prakāśitam ॥ 151 Il 
+pāūātāniketadṛṣṭyādi (yātā-) vrndacakrańi prakāśitam ॥ 151 ॥ 
 
 (Thus,) the Wheel of the Aggregate (vṛndacakra), the first (of all), consisting of the Abodes, Seals, Letters, Energies and Cognition (saṁvid), has been explained from the point of view of the descents and the Abodeless. (151) 
 
@@ -819,7 +819,7 @@ lokottaramahājñānacakṣuṣa pranamāmy aham ॥ 153 ॥
 2\) Then I bow at all times to the best of teachers, the venerable Śivānandanātha, who possesses the eye of great transcendental wisdom (mahājñāna). (153) 
 
 śrīmatkeyūravatyākhyā (-keryukhatyākhyā) pīthajajṁñānapāragā |
-khacakracārinī yeyar tām ahaḥ naumi bhaktitaḥ || 154 ॥ 
+khacakracārinī yeyar tām ahaṁ naumi bhaktitaḥ || 154 ॥ 
 
 3\) I bow with devotion to the venerable one called Keyuravatī, who has grasped all the wisdom born of the sacred seat, and wanders in the Wheel of Emptiness. (154) 
 
@@ -831,12 +831,12 @@ devīdhāmni sadārūdhas tan vande kramabhāskaram | 155 II
 *[p. 509]* ^pg522
 
 tataḥ śrīmaccakrabhānur devatānayadeśikaḥ |
-mahāvratadharo yas tarn vande ‘harn paradhāmagam || 156 ॥ 
+mahāvratadharo yas tarn vande ‘haṁ paradhāmagam || 156 ॥ 
 
 5\) Then I salute the venerable Cakrabhānu, teacher of the Devatānaya (Teachings concerning the Deities) who, observing the Great Vow (mahāvrata) (of a Kāpālika), has attained the supreme abode. (156) 
 
 srīmadīśānikākhyā yā pañcamudrāvibhūṣitā ।
-akramakramasantānakovidā (-santānākovidān) \[illegible\] namāmy aham || 157 Il 
+akramakramasantānakovidā (-santānākovidān) \[illegible\] namāmy aham || 157 || 
 
 6\) I salute the venerable one called Īśānikā, she who is adorned with the five insignias (of a Kāpālika) and is well versed in the tradition of the Krama without stages (akrama). (157) 
 
@@ -846,7 +846,7 @@ mahānayaparajñānavibhūtisatpradaḥ (-vibhūṣita-) sadā |
 7\) I salute the venerable one called Nandaka, who resides in the abode of Emptiness and always dispenses the truth of the wealth of the supreme knowledge of the Mahānaya (Great Teaching). (158) 
 
 Śrīmatsajjananāmas taṁ (-nāmānaīn) rahasyakramanirbharam (rahasyaṁ-) |
-bhedābhedakalaṁkasya (-kalaṁkastu) varjitan pranamāmy aham II 159 ॥ 
+bhedābhedakalaṁkasya (-kalaṁkastu) varjitan pranamāmy aham ॥ 159 ॥ 
 
 8\) I bow to the venerable one called Sajjana who, devoid of the stain of both unity and diversity, is full of the secret tradition (rahasyakrama). (159) nirmalasphaṭikaprakhyahṛdayari vigatāmayam |
 srīmatsomeśvarari vande mahāśāsanapāragam ॥ 160 ॥ 
@@ -890,7 +890,7 @@ abhiṣiktaḥ (abhisiktaḥ) kṛto ‘thāntacittenāvṛttatejasā (kryāśr�
 
 6\) By him I have been given the gift of the Great Tradition in this, the Supreme Wonder, and initiated by the inner mind enveloped with radiant power (tejas). (167) 
 
-ittharn proktā santatis tu dvitīyeṣā mahānaye |
+itthaṁ proktā santatis tu dvitīyeṣā mahānaye |
 nirāveśasamāveśacamatkāraughanirbharā (-camatkārādya-) ॥ 168 ॥ 
 
 In this way this, the second lineage of the Great Teaching, overflowing with the flood of the wonder of impenetrable (nirāveśa) mystical absorption (samāveśa), has been declared. (168) 
@@ -902,7 +902,7 @@ The entire lineage of true teachers has developed in this way through the tradit
 
 *[p. 511]* ^pg524
 
-sativitpramāmahādbhūtasamullāsamahodayaḥ h (samvitprānamahābhūta- -ya) l abhyantaradṛśā iti divyo ‘sau sadgurukramaḥ |I 170 ॥ 
+sativitpramāmahādbhūtasamullāsamahodayaḥ h (samvitprānamahābhūta- -ya) l abhyantaradṛśā iti divyo ‘sau sadgurukramaḥ ॥ 170 ॥ 
 
 From the inner point of view, the divine lineage of true teachers is the Great Arising, which is the outpouring of the great wonder of the pure knowledge (pramā) of consciousness. (170) 
 
@@ -914,12 +914,12 @@ I take refuge in the unborn master who is made manifest by the great rays (of co
 The Five Wombs 
 
 pañcagranthisamudbhedakaraṇā yoditā citiḥ |
-yatas tasmāt pañcadhotthā (-dhottha) pranavāvartarūpinī |l 172 ॥ 
+yatas tasmāt pañcadhotthā (-dhottha) pranavāvartarūpinī ॥ 172 ॥ 
 
 The active power of consciousness (citi) pierces through the five knots and so arises five-fold as the circulation of Pranava. (172) 
 
 yeyar tasyā niraupamyaśarīrād (-rā) dīptayas tu yah (sā) |
-niyatagrahasaṁhāranirmalā yāh (ya) samutthitāḥ (samutthitā) \\ 173 ॥
+niyatagrahasaṁhāranirmalā yāḥ (ya) samutthitāḥ (samutthitā) \\ 173 ॥
 tā eva gaditāḥ (gam-) pañcayonayaḥ paradhāmagāḥ |
 niyatagrahasaṁsthānakalpanāparivarjitāḥ ॥ 174 ॥ 
 
@@ -989,7 +989,7 @@ That (i.e., the state of persistence) is said to be an embodiment of consciousne
 Khagendra 
 
 khagaḥ paramahaṁsātmaspandadeho ‘vinaśvaraḥ |
-tasyendro ‘sparsarūpo ‘yari (tasyondrosparśa- -yah) khagendraḥ sa nigadyate II 188 II 
+tasyendro ‘sparsarūpo ‘yari (tasyondrosparśa- -yah) khagendraḥ sa nigadyate || 188 || 
 
 The indestructible Skyfarer (khaga) is the one whose body is the pulsation (of consciousness and vitality) which is the Supreme Self (paramahaṁsa). His lord (indra) who is this (absolute,) free of contact (with the phenomenal world asparśarūpa), is said to be Khagendra. (188) 
 
@@ -1025,7 +1025,7 @@ Meṣanātha who, endowed with the expansion (unmeṣa of consciousness), is eve
 
 Matsyendranātha 
 
-dvayādvayasvarūpāṇārmi śāstā yah sarvasarnṁvidām |
+dvayādvayasvarūpāṇārmi śāstā yah sarvasaṁvidām |
 samanirdhāmavapuṣo mama cchedanena (cchandena) tiṣthati ॥ 194 ॥
 sa eva procyate Śrīmān matsyendraḥ (matsyeṁńduh) kṛtakaḥ paraḥ | 
 
@@ -1053,7 +1053,7 @@ The unconditioned form of reality explained from this point of view is the expan
 The Sequence of Destruction 
 
 śrotādipañcakaganṇaḥ pramātā manasāñjitaḥ (-sāñcitah) |
-buddhīndriyena samiyuktarn tathā vāmādipañcakam ॥ 199 ॥
+buddhīndriyena samiyuktaṁ tathā vāmādipañcakam ॥ 199 ॥
 evar dvādaśadhāmākhyo (-dhāmastho) yas tv akṣagrāmavistaraḥ |
 sa eva buddhivibhraṁśād (-sā) nirvicārapadāśritaḥ (-padaśritah) ॥ 200 ॥ 
 
@@ -1066,7 +1066,7 @@ The very form of the changeless (akrama), devoid of the configurations of condit
 
 ekādaśavidhastīkṣṇaḥ saṁtyaktā (-kta) kalanāvaliḥ |
 yuktāyuktadaśātīto nityoditasvadhāmagaḥ (-ditaravadhāmagah) ॥ 202 ॥
-pakārādihakārantā varṇāḥ (varnṇā) kṣakārasaiyutāḥ | 
+pakārādihakārantā varṇāḥ (varṇā) kṣakārasaiyutāḥ | 
 
 vyaktāvyaktakrameṇeyaṁ kalpanā prathitā tu sā |
 tadbhakṣaṇaparaḥ (-bhakṣanah-) prokto bhāvābhāvatamojjhitaḥ ॥ 204 ॥
@@ -1081,11 +1081,11 @@ itthamekādaśavidhaḥ saṁvidullāsavistaraḥ |
 
 *[p. 516]* ^pg529
 
-tasyaiva bhedavibhavagrasanāya samutthitaḥ |l 207 ॥ 
+tasyaiva bhedavibhavagrasanāya samutthitaḥ ॥ 207 ॥ 
 
 The ten-fold expansion of subject and object, along with the arising of the resonance (nāda of consciousness) which is one in nature with (the process of) reversal \[illegible\] in this way constitutes the eleven-fold expanse of the outpouring of consciousness, manifest to consume the energy of its own duality (bheda). (206-207) 
 
-mahābhakṣādirūpiṇnyo niśitā dīptayogagāḥ (-māh) |
+mahābhakṣādirūpiṇnyo niśitā dīptayogagāḥ (-māḥ) |
 yās tā eveha saṁṁhāre (-ra) sahasā bhānti nityaśaḥ ॥ 208 ॥ 
 
 Here, in the state of withdrawal, the mighty energies, Mahābhakṣā and the rest are in a state of energized union (dīptayogaga) and shine perpetually with immense force (sahasā). (208) 
@@ -1131,7 +1131,7 @@ nirvikalpamahāvyomadīptayo vigatāśrayāḥ ॥ 216 ॥
 
 The goddesses, their form egolessness (nirahaṁkāra), free of (outer) support, energized by the great sky of consciousness free of thought constructs, arise to withdraw simultaneously and in an instant (aśu), the manifest and unmanifest nature of these, (the twelve vowels) beginning with A and ending with Emission, free of (the four) neuter (letters).” (215-216) 
 
-parādyā sā udety (parādyunmorūṭity) eva sphuritāīnandaghūrnitā (-tāh) \\ yākramaspandalaharī (-syanda-) vidyullekhaiva (-kheva) cañcalā ॥ 217 ॥ 
+parādyā sā udety (parādyunmorūṭity) eva sphuritāīnandaghūrnitā (-tāḥ) \\ yākramaspandalaharī (-syanda-) vidyullekhaiva (-kheva) cañcalā ॥ 217 ॥ 
 
 The supreme primordial (goddess) who arises in this way, inebriated by the radiant, pulsing bliss (of consciousness), is the wave of the processless (akrama) vibration (of consciousness), as fleeting and fickle as a lightning flash. (217) 
 
@@ -1192,7 +1192,7 @@ In this way this supreme and terrible sequence of Lord Bhairava manifests devoid
 
 The Goddess 
 
-tasyaiva satatarn devī haṭhāt kavalanoditā |
+tasyaiva satataṁ devī haṭhāt kavalanoditā |
 yatas tasmāt samākhyātā \[illegible\] nāmnopacārataḥ ॥ 229 ॥
 vastutaḥ svasti naivāsyā nāmarūpaprakalpanā |
 mahāsamhāracakreśyāḥ sarvottīrṇasvarūpataḥ | 230 ॥ 
@@ -1200,7 +1200,7 @@ mahāsamhāracakreśyāḥ sarvottīrṇasvarūpataḥ | 230 ॥
 The goddess is perpetually intent on devouring him with violent force (haṭhāt). Thus, she is said to be the goddess (only) in a secondary sense. In fact, it is wrong to conceive of her as having either name or form, for the mistress of the great Wheel of Withdrawal transcends all things. (229-230) 
 
 cidānandaparispandavibhavaḥ \[illegible\] gataḥ |
-yasmāt (yasyā) seheti satatarn gocaratvaṁ samantataḥ ॥ 231 ॥ 
+yasmāt (yasyā) seheti satataṁ gocaratvaṁ samantataḥ ॥ 231 ॥ 
 
 The glorious power of the pulse (parispanda) of the bliss of consciousness has become the sacred seat (of cosmic manifestation), and so the (goddess) comes here, everywhere, and at all times, within the purview of the senses. (231) 
 
@@ -1216,7 +1216,7 @@ na tu gocaratām eti devīyaṁ sarvagā safī || 233 ॥
 This goddess, present everywhere, is never perceivable, even by means of the processes that generate the Great Knowledge, the Great Union and the rest. (233) 
 
 guruprasādenāviṣtā ( -prasādataś \[illegible\] kecit tanmayadharminaḥ |
-bhavanti vyomavṛttyaikasvabhāvā nātra saiśayaḥ ॥ 234 Il 
+bhavanti vyomavṛttyaikasvabhāvā nātra saiśayaḥ ॥ 234 ॥ 
 
 Certain (yogis), penetrated by the teacher’s grace and endowed with that same nature, are one with the (universal) activity of the Void (of consciousness). There is no doubt about it! (234) 
 
@@ -1236,7 +1236,7 @@ prasphuraty (-sphuranty) avibhāgena vyomavṛttyaikatāi (vyomavṛntyaikatā�
 
 The great arising of the liturgy of the rite of adoration (pūjākrama) manifests thus in the Great Teaching (mahānaya); although just an aspect of the exertive force of consciousness (udyoga), the extension of the Wheel of Deities manifests undivided, and has become one with the (universal) activity of the expanse (of consciousness, vyomavṛtti). (236cd-237) 
 
-ittharn sadaiva sarvatra devīnām udayaḥ paraḥ |
+itthaṁ sadaiva sarvatra devīnām udayaḥ paraḥ |
 niṣthito ‘pi satāṁm gamyo niravagrahavigrahaḥ ॥ 238 ॥ 
 
 Although the arising of the deities, supreme and unlimited, is established in this way everywhere and all times, it is attainable (only) by the wise. (238) 
@@ -1304,8 +1304,8 @@ sarvatrāvasthitaḥ vande vācātfītam anāmayam || 249 ||
 
 yady apy \[illegible\] mukhāmnāyayuktyā samyak (samyaṁ) nirūpitaḥ |
 akramakramasadbhāvasamgrahasyaikanirbharaḥ (ańikra( ?)makra-) ॥ 250 ॥
-tathāpy etat samuttīrṇaṁ (samuttīrṇā) vastu vakturn na pāryate |
-samayakṣatibhīrutvāt (-tvā) vijñeyarn guruvaktrataḥ ॥ 251 ॥ 
+tathāpy etat samuttīrṇaṁ (samuttīrṇā) vastu vaktuṁ na pāryate |
+samayakṣatibhīrutvāt (-tvā) vijñeyaṁ guruvaktrataḥ ॥ 251 ॥ 
 
 Although this reality, namely, the unitary flux of the totality of the essence of the processless process (of the activity of consciousness) has been correctly described according to the oral tradition, even then, (1I) cannot say everything about this transcendental reality for fear of breaking the rule (samaya). One should (therefore) learn it (directly) from the master’s lips. (250-251) 
 
@@ -1316,13 +1316,13 @@ Due to (their) ignorance (vimoha, they suffer from) the illusion that what has b
 
 sākṣād mahānayamayaḥ (mahāmayamayari) prakāśaḥ prakaṭīkṛtaḥ |
 so ‘yarn mayārṇasiṁena saddeśikamukhodgataḥ ॥ 253 ॥
-tam eva paramelāpasapradāyopabṛmihitam (-tah) |
+tam eva paramelāpasapradāyopabṛmihitam (-taḥ) |
 vibudhāś carvaṇanty uccair jīvanmuktyātmasiddhaye || 254 ॥ 
 
 I, Arṇasiṁha, have directly revealed the Light which is the Great Teaching (mahānaya), come from the lips of a true master. That (teaching), augmented by the teaching (received) through Supreme Union, is relished by the wise, to attain liberation in this very life. (253-254) 
 
 abuddhaṁ (avu \* (?)) manmataṁ yena (yana) madvaktrād abudho janaḥ |
-mahānayam ayari Śāstraṁ svavikalpair vikalpayan ॥ 255 |I garjaty abudhabudhīnāri punaḥ pānāsavakṣaye (pānāsanakṣane) |
+mahānayam ayari Śāstraṁ svavikalpair vikalpayan ॥ 255 ॥ garjaty abudhabudhīnāri punaḥ pānāsavakṣaye (pānāsanakṣane) |
 namo ‘stu kṛtine tasmai sadṛṣṭityāgine param || 256 ॥ 
 
 The unawakened, that is, the person by whom my teaching, which has not been understood by means of (the teachings) from my mouth (or that of a true 

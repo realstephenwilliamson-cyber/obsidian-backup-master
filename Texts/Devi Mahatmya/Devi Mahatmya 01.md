@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-chapter
 title: Devī Māhātmya 1
+work: "Devī Māhātmya"
 chapter: 1
 charitra: Prathama Charitra (First Episode)
 markandeya_purana_chapter: 78
@@ -19,7 +20,7 @@ Chapter 1 of the Devī Māhātmya (*Durgā Saptaśatī*), corresponding to chapt
 
 ## Sanskrit text
 
-*(not yet entered — add the Devanāgarī/IAST verses here when available)*
+Not entered here: the Sanskrit (IAST) with an English translation is in [[Devi Mahatmya - Durga Saptashati 02 - Chapter 1 The Slaying of Madhu and Kaitabha|the DeviMahatmya.com edition, chapter 1]].
 
 ## Notes
 

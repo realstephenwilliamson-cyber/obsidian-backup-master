@@ -18,8 +18,7 @@ language:
   - English
 pages: 385
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Biblical-Studies/Metzger, Ehrman - The Text of the New Testament (4th ed., 2005).pdf]]"
   - "[[Library/Biblical-Studies/The Text of the New Testament (Metzger, Ehrman)/The Text of the New Testament (Metzger, Ehrman)]]"

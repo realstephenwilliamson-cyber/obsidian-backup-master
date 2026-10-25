@@ -17,8 +17,7 @@ language:
   - English
 pages: 229
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Denton - Female Ascetics in Hinduism (2004).pdf]]"
 aliases:

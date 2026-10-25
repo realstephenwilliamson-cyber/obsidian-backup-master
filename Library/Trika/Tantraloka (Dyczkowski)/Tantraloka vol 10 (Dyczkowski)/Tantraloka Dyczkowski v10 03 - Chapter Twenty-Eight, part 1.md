@@ -30,19 +30,19 @@ Jīvanmukta eva prathamoktanayena bhavati ity anubhava evāyam āvartate na tv a
 
 upāsakas tv ananupraviṣṭavīryasatiāsārahṛdayo ‘pi kramapūjāmāhātmyāt bījaṁ samyak smaran prāptahṛdayākhyatattvamantravīryaḥ prakarṣena siddhyati - kramapūjāmāhātmyād eva 
 
-tāratamyātiśayāt svayarn vā prasannagurubhaṣārakavadanakamalād vā (p. 270) mantravīryaḥ hṛdayāimakam āsādayati jīvanmuktaś ca bhavatīti yāvat | 
+tāratamyātiśayāt svayaṁ vā prasannagurubhaṣārakavadanakamalād vā (p. 270) mantravīryaḥ hṛdayāimakam āsādayati jīvanmuktaś ca bhavatīti yāvat | 
 
 However, the practitioner (updsaka = kṛtapūjāvidhi) who has not (yet) penetrated into the Heart, which is the essence of (the very) being of the vitality (of mantra), (but nonetheless) continuously recollects (this) seed syllable correctly (samyak) and has (gradually) attained the vitality of Mantra, which is the reality called the Heart, is successful by the glory of (his) worship of the liturgy (kramapūjā), and by the excellence (of its) progressive (development) (rāratamya). (So) either by himself or (by the grace that comes from) the lotus face (of his) honourable teacher who is pleased (with him), he attains the vitality of Mantra, which is the Heart, and becomes one who is liberated in this life. 
 
-atra dvāraparivāragurupūjana gunar khandanām \[atra dehalīdīpanyāyena naśabdo yojanīy tena na gunam āvahati na vā khandanām āvahatīty arthaḥ |) vā na vahati tata eva bhaṭṭapādaiḥ nyarūpi | atra tu kulaparvāni pavitraṁ ceti samyaktvarn pūjāvidheḥ ........... 
+atra dvāraparivāragurupūjana gunar khandanām \[atra dehalīdīpanyāyena naśabdo yojanīy tena na gunam āvahati na vā khandanām āvahatīty arthaḥ |) vā na vahati tata eva bhaṭṭapādaiḥ nyarūpi | atra tu kulaparvāni pavitraṁ ceti samyaktvaṁ pūjāvidheḥ ........... 
 
 The worship of the door, the attendants and teacher does not bring (special) merit (guna) nor harm (khandanā) and so has been described by Somānanda. (However,) here (in this case), the observance of Kula times of propitiation (parvan) and (the rite of) the sacred thread are enjoined, because (this is what is meant by) the correctness of (the performance of) the prescribed (rite of) worship . . ~\` PTv p. 269-270 
 
 Abhinava quotes the following passages in the PTv p. 272: 
 
-kramapūjanamātrari ca kulaparvapavitrakaiḥ \\ sahātra pūjane proktaṁ samyaktvarn trikaśāsane ॥
+kramapūjanamātrari ca kulaparvapavitrakaiḥ \\ sahātra pūjane proktaṁ samyaktvaṁ trikaśāsane ॥
 yathoktam dravyāṇāmiva śārīraṁ \[vīryalakṣaṇnam\] varnānāṁ sṛṣtibījakam |
-Sāsanānāṁ trikarn Sastram mokṣānāṁ bhairavīsthitiḥ ||
+Sāsanānāṁ trikaṁ Sastram mokṣānāṁ bhairavīsthitiḥ ||
 upāsāyāḥ samāpattir vratānāri vīravṛttitā |
 tathaiva parvamadhye tu kulaparvāni śāsane ॥ 
 
@@ -61,7 +61,7 @@ Definition of Occasional (naimittika) and Regular Rites (nitya)
 ### TĀ 28.2
 
 niyataṁ bhāvi yan nityaṁ tad ity asmin vidhau sthite |
-mukhyatvari tanmayībhūtaṁ sarvarn naimittikaṁ tataḥ || 2 |l 
+mukhyatvari tanmayībhūtaṁ sarvaṁ naimittikaṁ tataḥ || 2 || 
 
 (If what is meant by) a regular (nitya) (rite) is that it (must invariably) take płace (constantly (nitya)), then in this (kind of) ritual procedure, its primary (characteristic) is of that nature.\* Thus, (as no ritual can be performed all the time,) all (rituals) are occasional.\* (2) 
 
@@ -118,7 +118,7 @@ Having defined the occasional (rite), he (goes on) by association to define the 
 
 ### TĀ 28.5
 
-sandhyādi parvasarnipūjā pavitrakam idarn sadā |
+sandhyādi parvasarnipūjā pavitrakam idaṁ sadā |
 nityaṁ niyatarūpatvāt sarvasmin śāsanāśrite || 5 || 
 
 (According to this definition, the veneration of) the junctions (of the day) (sandhya) and the like, worship at propitious times (parvan),\* and (the offering of) the sacred thread, are always regular rites (nitya), because they are fixed for all followers of a (particular) scripture (śāsana).’ (5) 
@@ -157,7 +157,7 @@ tajjanmasaṁskriyābhedāḥ svajanmotsavasaṁgatiḥ ॥ 6 ॥
 yoginīmelakaḥ svāṁśasantānādyaiś ca melanam || 7 ||
 sāstravyākhyāpurāmadhyāvasānāni kramodayaḥ |
 devatādarśanaṁi svāpnam ajfia samayaniṣkṛtiḥ ॥ 8 ॥
-iti naimittikarn Śrīmattantrasāre nirūpitam |
+iti naimittikaṁ Śrīmattantrasāre nirūpitam |
 trayoviṁśatibhedena viśeṣārcānibandhanam || 9 ॥ 
 
 The venerable Tantrasāra has defined (the following events), into twenty-three kinds, as ‘occasional’, that are associated with special rites of worship.” 1) The acquisition of (spiritual) knowledge, 2) the acquisition of the scriptures, 3) (a visit) by the teacher and 4) by his brothers and 5) family," 6) (the teacher’s) birthday, 7) (the day of the teacher’s) consecration and 8) that of his union (abheda) (with Śiva when he died),”? 9) (the day of) one’s own birth, 10) a gathering for a festival,” 11) offerings to the dead (śrāddha), 12) the countering of a calamity, 13) rejoicing, 14) the sight of a portent, 15) a meeting with the Yoginīs, 16) a reunion with one who belong to one’s own spiritual lineage” and the like, 17) the beginning, 18) middle and 19) end of the explanation of scripture,” 20) the invocation of the liturgy (kramodaya), 21) a vision of a deity in a dream, 22) the authorization (ājñā) (received during one’s own ordination as a teacher), 23) as reparation for an infringement of the rules. (6-9) 
@@ -191,14 +191,14 @@ According to the Yogasaṁcāra
 अन्यैश्चाकुलपवीपि वैपरीत्येन लक्षितम् ।
 
 tatra parvavidhińn brūmo dvidhā parva kulākulam |
-kulāṣṭakakṛtan pūrvaṁi proktarn śrīyogasañcare || 10 ||
+kulāṣṭakakṛtan pūrvaṁi proktaṁ śrīyogasañcare || 10 ||
 abdhīndumunir ity etan māheśyā brahmasantateḥ |
 pratipatpañcadaśyau dve kaumāryā rasavahniyuk || 11 ॥
 abdhirakṣīndu vaiṣṇavyā endyras tv astran trayodaśī |
 vārāhyā randhrarudrau dve candyā vasvakṣiyugmakam I| 12 ||
 dve dve tithī tu sarvāsār yogeśyā daSami punaḥ | 
 
-ram, subsequently identified as a manifestation of the deity Saṁkarṣaṇa, comes with Narasiṁha to rescue the Goddess Parvatī when the Yoginīs had magically extracted her from Śiva’s heart and sacrificed her to him in Bhairava form without his knowledge: ‘When Śiva saw that before him, understood it, and reflected upon it, he became greatly disturbed, contemplating his own heart that was now empty of Parvati. Then when Visnu had learned that this had come to pass he arrived in the form of a child, playing, two-armed, wearing a golden turban and a red robe, riding Garu the form of a ram. Narasaiṁha (came) too. Accompanied by his Narasiṁha form, Nārāyaṇa emitted a deep and terrifying roar (rushing) to and fro amid the band of Yoginīs, causing them to quake (with fear).’ (HCC 31/44-47) The Yoginīs, eight in number, meditate on the eight Mothers that are their sources. These come forth and the Yoginis in placating Śiva with a hymn. The terrible Śivādūt then arises to devour the Yoginīs and a celestial voice calls on Śiva to remember his own true nature. This he does, and immediately the Supreme Śakti emerges in her terrible universal aspect (as Kālasaṁkarṣanī). Evidently this is the true nature that Śiva had forgotten. The Yoginīs restore Pārvatī; a second Śakti of Viṣnṇu (in addition to Śivādūtī) comes forth to serve her; her two defenders, the first, Viṣṇu, now identified more specifically as Saṁkarṣaṇa and Narasiṁha by adopting them as her ear-pendants, evidently an aetiological explanation of a detail of her iconography. This detail I have encountered . . . in manifestations of Kālasaṁkarṣaṇī taught in the Kashmirian part of the Jayadrathayāmala. See Sanderson ibid. For variants of this myth in the Dūtidāmara, the Sureśvaramāhātmya of the Śarvāvatāra, and the Haranāgavarnana of the Vitastamāhātmya. Sanderson is referring to a form of Visnu described in the Netratantra (13/10- 13ab). He is a naked, ithyphallic, eight-armed child riding a ram. He plays with women and is attended by four naked goddesses, Karpurī, Candanī, Kasturī, and Kuṁkumī.
+ram, subsequently identified as a manifestation of the deity Saṁkarṣaṇa, comes with Narasiṁha to rescue the Goddess Parvatī when the Yoginīs had magically extracted her from Śiva’s heart and sacrificed her to him in Bhairava form without his knowledge: ‘When Śiva saw that before him, understood it, and reflected upon it, he became greatly disturbed, contemplating his own heart that was now empty of Parvati. Then when Viṣṇu had learned that this had come to pass he arrived in the form of a child, playing, two-armed, wearing a golden turban and a red robe, riding Garu the form of a ram. Narasaiṁha (came) too. Accompanied by his Narasiṁha form, Nārāyaṇa emitted a deep and terrifying roar (rushing) to and fro amid the band of Yoginīs, causing them to quake (with fear).’ (HCC 31/44-47) The Yoginīs, eight in number, meditate on the eight Mothers that are their sources. These come forth and the Yoginis in placating Śiva with a hymn. The terrible Śivādūt then arises to devour the Yoginīs and a celestial voice calls on Śiva to remember his own true nature. This he does, and immediately the Supreme Śakti emerges in her terrible universal aspect (as Kālasaṁkarṣanī). Evidently this is the true nature that Śiva had forgotten. The Yoginīs restore Pārvatī; a second Śakti of Viṣnṇu (in addition to Śivādūtī) comes forth to serve her; her two defenders, the first, Viṣṇu, now identified more specifically as Saṁkarṣaṇa and Narasiṁha by adopting them as her ear-pendants, evidently an aetiological explanation of a detail of her iconography. This detail I have encountered . . . in manifestations of Kālasaṁkarṣaṇī taught in the Kashmirian part of the Jayadrathayāmala. See Sanderson ibid. For variants of this myth in the Dūtidāmara, the Sureśvaramāhātmya of the Śarvāvatāra, and the Haranāgavarnana of the Vitastamāhātmya. Sanderson is referring to a form of Visnu described in the Netratantra (13/10- 13ab). He is a naked, ithyphallic, eight-armed child riding a ram. He plays with women and is attended by four naked goddesses, Karpurī, Candanī, Kasturī, and Kuṁkumī.
 
 *[p. 9]* ^pg26
 
@@ -319,7 +319,7 @@ He gives an example of that (to explain what he means).
 
 yathā prekṣanake tattaddraṣtṛsaṁṁvidabheditām ॥ 20 ॥
 kramoditām sadya eva labhate tatpraveśanāt |
-yogābhyāsakramopāttāṁ tathā pūrnṇnāri svasaṁividam || 21 ॥
+yogābhyāsakramopāttāṁ tathā pūrṇnāri svasaṁividam || 21 ॥
 labhante sadya evaitat sahvidaikyapraveśanāt |
 tatkālari cāpi saṁvitteḥ pūrṇatvāt kāmadogdhṛtā ॥ 22 ॥
 tena tat tat phala tatra kāle sampūjayācirāt | 
@@ -375,7 +375,7 @@ Common Auspicious Days according to the Haidara“ उक्तच तत्र 
 
 uktaṁ ca tatra teneha kule sāmānyatety alam || 25 ||
 yasya yad dhṛdaye devi vartate daisikājñayā |
-mantro yogaḥ kramaś caiva pūjanāt siddhido bhavet ॥ 26 II kulācāreṇa deveśi pūjyan siddhivimuktaye |
+mantro yogaḥ kramaś caiva pūjanāt siddhido bhavet ॥ 26 ॥ kulācāreṇa deveśi pūjyan siddhivimuktaye |
 ye parvasv eṣu deveśi tarpana tu viśeṣataḥ ॥ 27 ॥
 gurūṇnār devatānāṁ ca na kurvanti pramādataḥ |
 durācārā hi te duṣtāḥ paśutulyā varānane ॥ 28 ॥
@@ -408,7 +408,7 @@ Yoginīs at their sacred sites) (atana), which is said to be done in order to at
 सजातीया तु सोत्कृष्टेत्येवं शम्भुभ्यरूपयत् ॥ ३५ ॥
 
 māsasyādyarni pañcamarmi ca śrīdinaṁ paribhāṣyate ॥ 31 ॥
-utkṛṣṭatvāt parvadinarn śrīpūrvatvena bhāṣyate |
+utkṛṣṭatvāt parvadinaṁ śrīpūrvatvena bhāṣyate |
 samayo hy eṣa yad guptaṁ tan nānupapadaṁi vadet || 32 ||
 turyāṣtamānyabhuvanacaramāṇi dvayor api |
 pakṣayor iha sīmānyasāmānyari parva kīrtitam || 33 ॥
@@ -482,7 +482,7 @@ mārgaśirahprabhṛtimāseṣu |
 
 The (corresponding) planets are, (in that order), 1) the sun, 2) moon, 3) Jupiter, 4) moon, 5) Mercury, 6) Mercury, 7) moon, 8) sun, 9) Venus, 10) Jupiter, and 11) the moon.“ 
 
-(The corresponding) constellations are: 1) Uttaraphalgunī, 2) Citrā, 3) Maghā, \*4) Tiṣya, \*5) Pūrvaphalgunī, 6) Śravana, 7) Śatabhiṣaj, 8) Mūla, \*9) Rohinī, \*10) Viśākha, along with the one called 11) Śravana. 
+(The corresponding) constellations are: 1) Uttaraphalgunī, 2) Citrā, 3) Maghā, \*4) Tiṣya, \*5) Pūrvaphalgunī, 6) Śravaṇa, 7) Śatabhiṣaj, 8) Mūla, \*9) Rohinī, \*10) Viśākha, along with the one called 11) Śravaṇa. 
 
 The days of the lunar fortnight mentioned above are 1) the ninth, 2) the ninth, 3) the fifteenth, \*4) the twelfth, \*5) the thirteenth, \*6) the eighth, 
 
@@ -520,7 +520,7 @@ As is said (in the Haidaratantra):"
 
 6\) O fair-faced lady, the sixth parvan (occurs) at midday on the eighth of the dark lunar fortnight of the month of Vaiśākha, when Mercury and Śravaṇa are in conjunction (on a Wednesday). 
 
-7\) O Pārvatī, the seventh parvan occurs in the month of Jyeṣtha on the ninth of the dark fortnight at midday when the moon and Vāruna (= Śatabhiṣaj) are in conjunction (on a Monday). 
+7\) O Pārvatī, the seventh parvan occurs in the month of Jyeṣtha on the ninth of the dark fortnight at midday when the moon and Vāruṇa (= Śatabhiṣaj) are in conjunction (on a Monday). 
 
 8\) The eighth parvan is said to occur in the month of liṣādha on the first of the bright fortnight at midday during the conjunction of Mūla and the sun (on a Sunday). 
 
@@ -546,7 +546,7 @@ pūjyāś cakre ‘nuyāgākhye |
 
 When the assembly (cakra) called the Ancillary Sacrifice (anuyāga) (takes place on those days, the women) that should be worshipped in it individually (by themselves) and collectively (all together) are, in due order, 
 
-\* In the Tantrasāra, where these parvans are listed, the eleventh parvan according to Abhinava occurs on a Monday with the moon in Śrāvana. Perhaps this is the special-ordinary parvan. , He writes: yadi mārgasīrṣādikramenṇa yathāsarikhyari bhavati āśvayujari varjayitvā tadā viśeṣa-viśeṣah | ‘If the (parvan is amongst) the series beginning with Mārgaśira in numerical order except Asvayuja, then it is a special-special one.” TSā p. 184 The parvan in Aśvayuja is an occasion to achieve liberation, here called ‘the great dawning of the accomplishment of Kula’. The following verses, 39cd to 42ab, are an aside. Abhinava picks up his account of the special parvans from 42cd to 45. He concludes in the following verses, presenting these parvans as the times to perform Ādiyāga, and make his own general observations.
+\* In the Tantrasāra, where these parvans are listed, the eleventh parvan according to Abhinava occurs on a Monday with the moon in Śrāvaṇa. Perhaps this is the special-ordinary parvan. , He writes: yadi mārgasīrṣādikramenṇa yathāsarikhyari bhavati āśvayujari varjayitvā tadā viśeṣa-viśeṣah | ‘If the (parvan is amongst) the series beginning with Mārgaśira in numerical order except Asvayuja, then it is a special-special one.” TSā p. 184 The parvan in Aśvayuja is an occasion to achieve liberation, here called ‘the great dawning of the accomplishment of Kula’. The following verses, 39cd to 42ab, are an aside. Abhinava picks up his account of the special parvans from 42cd to 45. He concludes in the following verses, presenting these parvans as the times to perform Ādiyāga, and make his own general observations.
 
 *[p. 23]* ^pg40
 
@@ -601,7 +601,7 @@ Surely (one may ask), how is it here (in the case of the parvan that occurs in) 
 वेलाभग्रहकलना कथितैकादशसु मासेषु |
 bhagrahasamayaviśeṣo 
 
-nāśvayuje ko ‘pi tena tad varjam ॥ 42 I|
+nāśvayuje ko ‘pi tena tad varjam ॥ 42 ॥
 velābhagrahakalanā 
 
 kathitaikādaśasu māseṣu |
@@ -626,7 +626,7 @@ Thus here (in this case, the parvan possesses) the condition of a special-specia
 
 phālgunamāse śuklam 
 
-yat proktarn dvādaśī dinaṁ parva ॥ 43 ॥
+yat proktaṁ dvādaśī dinaṁ parva ॥ 43 ॥
 agratithivedhayogo 
 
 mukhyatamo ‘sau viseṣo ‘tra | 
@@ -710,7 +710,7 @@ He states another view here (with regard to this).
 ### TĀ 28.48
 
 नेति त्वस्मद्रुरवो विशेषरूपा हि तिथिरिह न वेला ॥ ४८ ॥
-neti tv asmadguravo viśeṣarūpā hi tithir iha na velā ॥ 48 I| 
+neti tv asmadguravo viśeṣarūpā hi tithir iha na velā ॥ 48 ॥ 
 
 Our teachers” say that that is not so. (According to them,) here (in this case), it is the lunar day that is special, not the time.” (48cd) 
 
@@ -867,7 +867,7 @@ The (auspicious) time (for worship) mentioned by the Lord in the ÜŪrmi and oth
 
 *[p. 32]* ^pg49
 
-4\) The Lord has said that in (the remaining five months, beginning with Śrāvana) and ending with Mārgaśīrṣa, (he attains, respectively) A) friendship, B) wealth, C) union (melāpa) (with the yoginīs), D) the destruction of an enemy by smashing with anger a rock in the place the assembly (has gathered) (cakrasthāna), and E) (on the fifth month,) he obtains (the empowering) command of a Siddha. (53-56ab) 
+4\) The Lord has said that in (the remaining five months, beginning with Śrāvaṇa) and ending with Mārgaśīrṣa, (he attains, respectively) A) friendship, B) wealth, C) union (melāpa) (with the yoginīs), D) the destruction of an enemy by smashing with anger a rock in the place the assembly (has gathered) (cakrasthāna), and E) (on the fifth month,) he obtains (the empowering) command of a Siddha. (53-56ab) 
 
 #### Viveka on 28.53–56
 
@@ -1002,11 +1002,11 @@ tatrānuyāgasiddhyarthari cakrayago )
 
 0 nirūpyate ॥ 60 ॥
 mūrtiyāga iti prokto yah Śrīyogīśvarīmate |
-nityaṁ naimittikarn karma yad atroktaḥ maheśinā || 61 ॥
+nityaṁ naimittikaṁ karma yad atroktaḥ maheśinā || 61 ॥
 sarvatra cakrayāgo ‘tra mukhyaḥ kāmye viśeṣataḥ |
 jñānī yogī ca puruṣaḥ strī vāsmin mūrtisaṁijñake ॥ 62 ||
 yāge prayatnato yojyas tad dhi pātram anuttaram |
-tatsaṁparkāt pūrnṇatā syād iti traiśirasādiṣu ॥ 63 ॥ 
+tatsaṁparkāt pūrṇatā syād iti traiśirasādiṣu ॥ 63 ॥ 
 
 There (with regard to that), the Worship of the Assembly (cakrayāga) will be described, so that the Ancillary Sacrifice (anuyāga) may be successfully accomplished.. It is called the Sacrifice to the 
 
@@ -1022,7 +1022,7 @@ Embodiments (mūrtiyāga) in the venerable Yogeśvarīmata.\* Of all the regular
 
 He quotes that (Trisirobhairavatantra): 
 
-one is especially centred on the worship of women. These may be a young virgin girl (kumārī). The texts in general prescribe that they should be premenstrual. They may also be adult women of lower caste, or prostitutes who may be paid to attend. In the following accounts, the names of the Yāga change, but these essential elements do not. Abhinava writes in his Tantrasāra: tatra guruḥ tadvargyaḥ sasantānaḥ tattvavit kanyā antyā veśyā aruṇā \[k: taruṇeti pāṭhaḥ 1|) tattvavedinī vā iti cakrayāge mukhyapūjyāḥ viśeṣāt sīmastyena | tatra madhye p. 185) guruḥ tadāvaraṇakrameṇa gurvādi-samayyantan vīraḥ śaktiḥ iti (kramena ity evaṁ cakrasthityā vā paṁktisthityā vā āsīta. ‘There the main objects of worship in the Sacrifice of the Assembly (cakrayāga) is the teacher, those of his category, along with the lineage, a knower of the reality (taught in the scriptures), a virgin girl, a prostitute, a young woman who knows the reality (taught in the scripture). (They may be worshipped) individually or all together. The teacher is there in the centre, and (is worshipped with) his surrounding entourage in due order, beginning with the teacher and ending with the common initiate, the Kaula adept (vīra) and partner (śakti). They sit in this order, either in circles or in rows.’ TSā p. 185-186. % References to the worship of the embodiments of deities (mārtiyāga) here in 28/60cd-61ab and below in 28/75cd-76ab are not found in the short recension of the SYM. Abhinava has confirmed above (25/2ab) that it is taught in the recension he had. However, cakrayāga, in the sense of the worship of assemblies of deities, is found throughout in the text of the short recension, starting from chapter 13. See Törzsök 1999: 229. % The word ‘mārti’ literally denotes an image or icon of a deity. It is the mantra body of the deity that has a visualized iconic form. Here, the ‘icons’ are the teachers and adepts that attend the assembly of the sacrifice (yāgacakra) to participate in the Sacrifice to the Assembly, cakrayāga. Thus, Mūrtiyāga is Cakrayāga. It is the worship of the assembly of teachers and initiates by the assembly. This begins with the worship of the assembly of deities, especially the Mothers. The members of the assembly participate in a banquet, eating together a sacrificial meal with meat and wine. It may also involve the ingestion of faeces and urine (see Sanderson 2006: 48 n 153). Whatever concern there may be that such food is defiling, or that eating with others of a lower caste is so, must be abandoned. This is achieved by identifying with the deity who is the true eater of the food, and the food itself, echoing the teachings of the Upaniṣads applied in this Śaiva context (for a reference from the Taittirīyopanisad see below, note 28,103). Abhinava draws the meditative practice from the Dīksṣottara. The Krama and proto-Krama sources Abhinava must have known contain more dramatic versions of the rite. Abhinava wished, it seems, to attenuate the power of this very intense ritual by coordinating it with a rite described in the Diīksottara. There it is reduced to a banquet consumed by the assembly. Below (29/164-166ab) Abhinava lists a number of Tantras that maintain that Ādiyāga is the principle (mukhya) rite. Clearly cakrayāga is a synonym. The full Aadiyāga is variously called in Krama sources a ‘cakramelaka’, ‘cakrakrīdā’, "virayaga’, , ‘vīramelāpa”. Sanderson (2006: 43- 48) presents two examples from Krama sources. See appendix to this chapter for a description of Vīramelāpa according to JY 4/52; so too a long passage there on the practice of Ādyayāga.
+one is especially centred on the worship of women. These may be a young virgin girl (kumārī). The texts in general prescribe that they should be premenstrual. They may also be adult women of lower caste, or prostitutes who may be paid to attend. In the following accounts, the names of the Yāga change, but these essential elements do not. Abhinava writes in his Tantrasāra: tatra guruḥ tadvargyaḥ sasantānaḥ tattvavit kanyā antyā veśyā aruṇā \[k: taruṇeti pāṭhaḥ 1|) tattvavedinī vā iti cakrayāge mukhyapūjyāḥ viśeṣāt sīmastyena | tatra madhye p. 185) guruḥ tadāvaraṇakrameṇa gurvādi-samayyantan vīraḥ śaktiḥ iti (kramena ity evaṁ cakrasthityā vā paṁktisthityā vā āsīta. ‘There the main objects of worship in the Sacrifice of the Assembly (cakrayāga) is the teacher, those of his category, along with the lineage, a knower of the reality (taught in the scriptures), a virgin girl, a prostitute, a young woman who knows the reality (taught in the scripture). (They may be worshipped) individually or all together. The teacher is there in the centre, and (is worshipped with) his surrounding entourage in due order, beginning with the teacher and ending with the common initiate, the Kaula adept (vīra) and partner (śakti). They sit in this order, either in circles or in rows.’ TSā p. 185-186. % References to the worship of the embodiments of deities (mārtiyāga) here in 28/60cd-61ab and below in 28/75cd-76ab are not found in the short recension of the SYM. Abhinava has confirmed above (25/2ab) that it is taught in the recension he had. However, cakrayāga, in the sense of the worship of assemblies of deities, is found throughout in the text of the short recension, starting from chapter 13. See Törzsök 1999: 229. % The word ‘mārti’ literally denotes an image or icon of a deity. It is the mantra body of the deity that has a visualized iconic form. Here, the ‘icons’ are the teachers and adepts that attend the assembly of the sacrifice (yāgacakra) to participate in the Sacrifice to the Assembly, cakrayāga. Thus, Mūrtiyāga is Cakrayāga. It is the worship of the assembly of teachers and initiates by the assembly. This begins with the worship of the assembly of deities, especially the Mothers. The members of the assembly participate in a banquet, eating together a sacrificial meal with meat and wine. It may also involve the ingestion of faeces and urine (see Sanderson 2006: 48 n 153). Whatever concern there may be that such food is defiling, or that eating with others of a lower caste is so, must be abandoned. This is achieved by identifying with the deity who is the true eater of the food, and the food itself, echoing the teachings of the Upaniṣads applied in this Śaiva context (for a reference from the Taittirīyopaṇisad see below, note 28,103). Abhinava draws the meditative practice from the Dīksṣottara. The Krama and proto-Krama sources Abhinava must have known contain more dramatic versions of the rite. Abhinava wished, it seems, to attenuate the power of this very intense ritual by coordinating it with a rite described in the Dīkṣottara. There it is reduced to a banquet consumed by the assembly. Below (29/164-166ab) Abhinava lists a number of Tantras that maintain that Ādiyāga is the principle (mukhya) rite. Clearly cakrayāga is a synonym. The full Aadiyāga is variously called in Krama sources a ‘cakramelaka’, ‘cakrakrīdā’, "virayaga’, , ‘vīramelāpa”. Sanderson (2006: 43- 48) presents two examples from Krama sources. See appendix to this chapter for a description of Vīramelāpa according to JY 4/52; so too a long passage there on the practice of Ādyayāga.
 
 *[p. 37]* ^pg54
 
@@ -1053,7 +1053,7 @@ sarvatattvamayo bhūtvā yadi bhuṁkte sa sādhakaḥ |
 tena bhojitamātrenṇa sakṛtkotis tu bhojitāḥ ॥ 66 ॥
 atha tattvavid etasmin yadi bhuñjīta tat priye |
 parisaṁkhyā na vidyeta tadāha bhagavāñ chivaḥ ॥ 67 ॥
-bhojyarn māyātmakaṁ sarvaṁ 5710 bhoktā sa cāpy aham |
+bhojyaṁ māyātmakaṁ sarvaṁ 5710 bhoktā sa cāpy aham |
 evar yo vai vijānāti daiśikas tattvapāragaḥ ॥ 68 ॥
 tarn dṛṣtvā devam āyāntaṁ krīdantyoṣadhayo gṛhe |
 nivṛttam adyaivāsmābhiḥ samsāragahanārṇavāt ॥ 69 ॥
@@ -1078,19 +1078,19 @@ His countenance attained, TM we will go to the supreme plane.” Others eat inha
 
 #### Viveka on 28.65–71
 
-\* The word here ~ śvapāca ~ literally means \*one who cooks (and eats) dogs’. This is a common expression referring to what is perceived to be the characteristic of the members of the lowest, most defiled castes. ° Emend bhojitā to bhojitāḥ. %8 A part of the text appears to be ing here; even so, the meaning is clearly something like what I have added in brackets. ” One could also translate \*one who has crossed over beyond the principles’. 1% Gnoli notes that the same expression occurs in the epic poem Haricaritracintāmani, written by Jayadratha, Jayaratha’s brother: ‘Seeing a Śaivite yogi arrive, here the herbs dance in the house of the good, thinking that, entering after a little while into his mouth, they will be entering into Siva.’ HCC 30/86 It seems that Jayadratha had the equivalent verses in the Dīkṣottara in his mind when he wrote this, or else knew these verses from the Tantrāloka. But as we know that Jayaratha, Jayadratha’s brother, did not have access to the Dīkṣottara, the latter is more likely, unless there is a there is a third common source. 101 Read saṁprāptaṁ for sahprāptā 10 Cf. VBh 24a: ürdhve prāno hy adho jīvo ~ ‘The exhaled breath (prana) ) is above and the inhaled breath (jīva) below’. 1 TĀ 28/65bcd, 67-69ab, and 71 correspond to Dīkṣottara 15/38cd-40ab, 53-54ab, 56cd-58ab, and 6lcd-62ab. The whole passage in chapter 15 of the Dīkṣottara reads: Sṛnu devi pravakṣyāmi samāsāt sādhakasya tu | yena vijñātamātreṇa annadose (> -doṣair) na lipyate ॥ 37 ॥ dātā bhoktā ca mantā ca sādākhyapadam āpnuyāt | annar brahmā raso viṣṇur bhoktā devo maheśvaraḥ || 38 |I p. 1049) sthitas sarvaśarīreṣu bhunkte caiva dadāti ca | yo vijānāti kartāraṁ bhoktā bhojyañca he priye I| 39 ॥ Svapaceṣv api bhuñjāno na sa pāpena lipyate | ‘Listen, O goddess, I will tell (you) in brief that, just by knowing which, an adept is not stained by the defects of (impurity associated with) food. The giver (of food), the eater (of food) and reciter of mantra may (thereby) attain the plane of Sādākhya. O beloved, the eater who knows the agent and the object of enjoyment, and that food is the Brahman, (its) taste (rasa) Viṣṇu, and the one who eats it, the God Maheśvara (= 28/65bc) who, present in all bodies, eats and gives (food), even if he eats amongst those of the lowest caste, he is not stained by sin. (37-40ab) tatvāni manasā cintya svaśarīre yathākramam || 40 I|
+\* The word here ~ śvapāca ~ literally means \*one who cooks (and eats) dogs’. This is a common expression referring to what is perceived to be the characteristic of the members of the lowest, most defiled castes. ° Emend bhojitā to bhojitāḥ. %8 A part of the text appears to be ing here; even so, the meaning is clearly something like what I have added in brackets. ” One could also translate \*one who has crossed over beyond the principles’. 1% Gnoli notes that the same expression occurs in the epic poem Haricaritracintāmani, written by Jayadratha, Jayaratha’s brother: ‘Seeing a Śaivite yogi arrive, here the herbs dance in the house of the good, thinking that, entering after a little while into his mouth, they will be entering into Siva.’ HCC 30/86 It seems that Jayadratha had the equivalent verses in the Dīkṣottara in his mind when he wrote this, or else knew these verses from the Tantrāloka. But as we know that Jayaratha, Jayadratha’s brother, did not have access to the Dīkṣottara, the latter is more likely, unless there is a there is a third common source. 101 Read saṁprāptaṁ for sahprāptā 10 Cf. VBh 24a: ürdhve prāṇo hy adho jīvo ~ ‘The exhaled breath (prana) ) is above and the inhaled breath (jīva) below’. 1 TĀ 28/65bcd, 67-69ab, and 71 correspond to Dīkṣottara 15/38cd-40ab, 53-54ab, 56cd-58ab, and 6lcd-62ab. The whole passage in chapter 15 of the Dīkṣottara reads: Sṛnu devi pravakṣyāmi samāsāt sādhakasya tu | yena vijñātamātreṇa annadose (> -doṣair) na lipyate ॥ 37 ॥ dātā bhoktā ca mantā ca sādākhyapadam āpnuyāt | annar brahmā raso viṣṇur bhoktā devo maheśvaraḥ || 38 |I p. 1049) sthitas sarvaśarīreṣu bhunkte caiva dadāti ca | yo vijānāti kartāraṁ bhoktā bhojyañca he priye I| 39 ॥ Svapaceṣv api bhuñjāno na sa pāpena lipyate | ‘Listen, O goddess, I will tell (you) in brief that, just by knowing which, an adept is not stained by the defects of (impurity associated with) food. The giver (of food), the eater (of food) and reciter of mantra may (thereby) attain the plane of Sādākhya. O beloved, the eater who knows the agent and the object of enjoyment, and that food is the Brahman, (its) taste (rasa) Viṣṇu, and the one who eats it, the God Maheśvara (= 28/65bc) who, present in all bodies, eats and gives (food), even if he eats amongst those of the lowest caste, he is not stained by sin. (37-40ab) tatvāni manasā cintya svaśarīre yathākramam || 40 I|
 
 *[p. 39]* ^pg56
 
 karnau ca cakṣuṣī caiva nāsāyār vadane tathā |
 dakṣine śravane caiva khamalaḥ parikīrtitaḥ ॥ 41 ॥
 vāme caiva kalādhyan tu śravaṇe paricintayet |
-sakalaṁ niṣkalañ caiva nāsāyāi parikalpayet ॥ 42 Il kṣapaṇnari kṣayam antañ ca cakṣuṣī tau vicintayet | 
+sakalaṁ niṣkalañ caiva nāsāyāi parikalpayet ॥ 42 ॥ kṣapaṇnari kṣayam antañ ca cakṣuṣī tau vicintayet | 
 
 yena (??) paśyate cānnaṁ veditavyari prayatnataḥ || 43 ॥ p. 1050) 
 
 grāsar gṁnāti deveśe (> deveśi) kanthoṣthaḥ parameśvaraḥ |
-brahmā ca viṣnuś śravane rudram īśvaracakṣuṣī |l 44 ॥
+brahmā ca viṣnuś śravane rudram īśvaracakṣuṣī ॥ 44 ॥
 ghrāne vaktre sthito nityam uktiś (>nityaṁ śaktiś) caiva sadāśivaḥ |
 nāsāśaktir vijānīyād vaktre devan sadāśivam ॥ 45 ॥
 ṣanmukha ekakaraṇaṁ kathitaṁ tava śobhane | 
@@ -1112,13 +1112,13 @@ badhyate sakalenaiva niṣkalena tu svādviti |
 
 Having meditated in this way on Siva, the supreme cause, who consists of (all the reality) principles, and having thought, ‘I am Siva’ whilst eating, one is not stained (with sin). (46cd-47ab) 
 
-The Lord always eats with (the offering of) the sacrifice of the six faces, and always drinks water with the three-fold (yogic) contrivance (prayoga). Eating with pieces of food, he always takes it during the night (kṣapaṇa). ). He is obstructed by Sakala, and with Niskala he tastes. He castes the morsal (of food) upwards that there may not be what is fashioned by the Impurity of space. (46cd-49). 
+The Lord always eats with (the offering of) the sacrifice of the six faces, and always drinks water with the three-fold (yogic) contrivance (prayoga). Eating with pieces of food, he always takes it during the night (kṣapaṇa). ). He is obstructed by Sakala, and with Niṣkala he tastes. He castes the morsal (of food) upwards that there may not be what is fashioned by the Impurity of space. (46cd-49). 
 
 antastho mucyate grāhiṁ (> grāhari) nātra kuryād vicakṣanaḥ |
 Sūnyenaiva annādya granthete (> graste) satatan punaḥ ॥ 50 ॥
 bhojanañ caiva annastho annañ caiva vicārati |
 lehyar śoṣyañ ca peyañ ca annāni vividhāni ca || 51 ॥
-kanthoṣthaṁ parameśāno (> -narn) veditavyarn prayatnataḥ |
+kanthoṣthaṁ parameśāno (> -naṁ) veditavyaṁ prayatnataḥ |
 evaṁ tatvamayaṁ (> tanmayo) divyam (> divya) ācārya (> ācāryaś) cchinnasaṁśayaḥ ॥ 52 || 
 
 He who is established in food is liberated. Here (in this case), the skilful man should not grasp (with attachment). Again, he who, having eaten food, devours it constantly with the Void itself, established in food, he reflects (on the nature of) eating and food. Foods are of many kinds ~ those that are licked, sucked and drunk. One should know with effort the Supreme Lord who is in the throat and lips. In this way, the teacher who is made of (all the reality) principles and divine is severed from doubt. (50-52) 
@@ -1132,9 +1132,9 @@ parisathikhyā na vidyeta ityāha bhagavān śivaḥ |
 atattvapratibuddhasya jṁānine koṭir ucyate || 54 I|
 jṁāni tatvavidaś caiva parisaikhyā na vidyate | 222 
 
-jānāṁ vedaviduṣāṁ kotirn sabhojya yat phalam || 55 I|
+jānāṁ vedaviduṣāṁ kotiṁ sabhojya yat phalam || 55 ||
 jñānine śānticittāya sakṛt bhunkte tu tatphalam |
-bhojyaṁ māyātmakaṁ sarvaṁ kartā (> bhoktā) devo maheśvaraḥ || 56 Il bhoktā caiva śivas sākṣāt evam eva na samnśayaḥ |
+bhojyaṁ māyātmakaṁ sarvaṁ kartā (> bhoktā) devo maheśvaraḥ || 56 || bhoktā caiva śivas sākṣāt evam eva na samnśayaḥ |
 evaṁ vai yo vijānāti deśikas tattvapāragaḥ ॥ 57 ॥
 tar dṛṣtvā gṛham āyāntaṁ krīdanty oṣadhayo gṛhe | 
 
@@ -1144,7 +1144,7 @@ The fruit for a man of knowledge of tranquil mind, who eats (just) once (in one�
 
 ‘all that is eaten (bhojya) (i.e. the object of experience) is Māyā, the one who does so is the god Śiva. The eater (of food) is in this way Śiva himself, there is no doubt (about it). A teacher who knows (everything) in this way, has known reality completely (fattvapāraga). Seeing him coming to the house, the (very) herbs (dance and) play in the house (he enters). (56cd-58ab) = TĀ 28/68-69ab 
 
-evar bhojyavidhiri samyak na tu sarvatra vyāpayet (khyāpayet) I| 58 ॥ p. 1053) 
+evar bhojyavidhiri samyak na tu sarvatra vyāpayet (khyāpayet) ॥ 58 ॥ p. 1053) 
 
 putrasyāpi na dāi 
 
@@ -1158,7 +1158,7 @@ inī cānyathā bhavet || 59 ॥
 Such is the proper procedure for how he should be fed. It should not be explained everywhere (to just anybody). It should not be given even to a son, (what to say of) people of sinful intellect. One who knows (this) in this way is other than one who lacks knowledge. O goddess, without a doubt, he always enjoys to the full (ābhuṅkte) with food and drink. Exhalation (prāṇa) flows upwards, and inhalation travels downwards. Once known in this way, one should eat and is freed from all (his) sins. (58cd-61ab) 
 
 tena bhuktena deveśe (> -Śi) dātaro dasya (> tasya) kulāni tu ॥ 61 ॥
-mucyante yātanā (> -nāt) kṣipraṁ sucirarn narakārṇavāt | 
+mucyante yātanā (> -nāt) kṣipraṁ suciraṁ narakārṇavāt | 
 
 O queen of the gods, once that has been eaten, the (spiritual) families of the one who gives (the food) are quickly liberated for a long time from the ocean of hell. 
 

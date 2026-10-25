@@ -18,8 +18,7 @@ language:
   - English
 pages: 212
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Husserl - Ideas Pertaining To A Pure Phenomenology And To A Phenomenological Philosophy I.pdf]]"
   - "[[Library/Philosophy/Ideas Pertaining to a Pure Phenomenology (Husserl)/Ideas Pertaining to a Pure Phenomenology (Husserl)]]"

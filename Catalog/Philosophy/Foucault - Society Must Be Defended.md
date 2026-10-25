@@ -20,8 +20,7 @@ language:
   - English
 pages: 346
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/foucault_society_must_be_defended.pdf]]"
   - "[[Library/Philosophy/Society Must Be Defended (Foucault)/Society Must Be Defended (Foucault)]]"

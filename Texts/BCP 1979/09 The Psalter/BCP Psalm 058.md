@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 58
 verses: 11
-page_range:
-  - 665
-  - 665
+page_range: "665"
 aliases:
   - "BCP Psalm 58"
   - "BCP 665"
@@ -31,7 +29,7 @@ and your hands deal out violence in the land. ^58-2
 **58:3** The wicked are perverse from the womb; \*  
 liars go astray from their birth. ^58-3
 
-[p. 665]
+[p. 665] ^pg665
 
 **58:4** They are as venomous as a serpent, \*  
 they are like the deaf adder which stops its ears, ^58-4

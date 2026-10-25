@@ -17,8 +17,7 @@ language:
   - English
 pages: 365
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[Library/Philosophy/Taylor - The Language Animal (2016).pdf]]"
   - "[[Library/Philosophy/The Language Animal (Taylor)/The Language Animal (Taylor)]]"

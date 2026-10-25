@@ -17,8 +17,7 @@ language:
   - English
 pages: 200
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[David Frawley - Mantra Yoga and Primal Sound_ Secrets of Seed (Bija) Mantras-Lotus Press (2010).pdf]]"
 aliases:

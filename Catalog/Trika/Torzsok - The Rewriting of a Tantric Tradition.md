@@ -18,7 +18,7 @@ language:
 pages: 16
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[The_rewriting_of_a_Tantric_tradition_fro.pdf]]"
   - "[[Library/Trika/The Rewriting of a Tantric Tradition (Torzsok)]]"

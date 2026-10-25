@@ -115,7 +115,7 @@ The normal writing of the Egyptian s in Hebrew is samek, not shin, as shown by t
 
 pr bstt (Bubastis) appears in [[Ezekiel 30#^30-17|Ezekiel 30:17]] as פי-בסת : (Pi-beseth); p3 nh. sy appears in [[Torah 14 - Vaera#^6-25|Exodus 6:25]] and [[Torah 40 - Balak#^25-7|Numbers 25:7]], [[Torah 41 - Pinchas#^25-11|11]] as פינחס : (Phineas); t3 h. (mt) p3 nsw appears in [[I Kings 11#^11-19|1 Kings 11:19]] as תחפניס ; (Tehpenes);
 
-t3 h. (wt) p3 nh. si appears in [[Jeremiah 02#^2-16|Jeremiah 2:16]], [[Jeremiah 43#^43-7|43:7–9]]; [[Jeremiah 44#^44-1|44:1]], [[Jeremiah 44#^44-14|14]] as חס :
+t3 h. (wt) p3 nh. si appears in [[Jeremiah 02#^2-16|Jeremiah 2:16]], [[Jeremiah 43#^43-7|43:7–9]]; [[Jeremiah 44#^44-1|44:1]], [[Jeremiah 46#^46-14|14]] [as printed; the verse is Jer 46:14] as חס :
 
 (Tahpanhes); and
 

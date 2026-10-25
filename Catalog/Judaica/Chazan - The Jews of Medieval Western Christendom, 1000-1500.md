@@ -17,8 +17,7 @@ language:
   - English
 pages: 362
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Chazan - The Jews of Medieval Western Christendom, 1000-1500 (CUP 2006).pdf]]"
   - "[[Library/Judaica/The Jews of Medieval Western Christendom, 1000-1500 (Chazan)/The Jews of Medieval Western Christendom, 1000-1500 (Chazan)]]"

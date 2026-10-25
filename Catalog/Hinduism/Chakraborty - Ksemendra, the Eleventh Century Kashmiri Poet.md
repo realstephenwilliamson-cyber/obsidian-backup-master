@@ -17,8 +17,7 @@ language:
   - English
 pages: 322
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Chakraborty - Ksemendra, the Eleventh Century Kashmiri Poet (1991).pdf]]"
 aliases:

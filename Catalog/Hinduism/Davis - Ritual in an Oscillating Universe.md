@@ -17,8 +17,7 @@ language:
   - English
 pages: 217
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Davis - Ritual in an Oscillating Universe (1991).pdf]]"
 aliases:

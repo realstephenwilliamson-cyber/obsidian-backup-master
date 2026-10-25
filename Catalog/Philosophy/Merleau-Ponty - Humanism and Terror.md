@@ -18,8 +18,7 @@ language:
   - English
 pages: 238
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Merleau_Ponty_Maurice_Humanism_and_Terror_An_Essay_on_the_Communist_Problem_1969.pdf]]"
   - "[[Library/Philosophy/Humanism and Terror (Merleau-Ponty)/Humanism and Terror (Merleau-Ponty)]]"

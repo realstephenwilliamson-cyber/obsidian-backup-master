@@ -17,8 +17,7 @@ language:
   - English
 pages: 180
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Domestic Mandala_ Architecture of Lifeworlds in Nepal-Routledge (2006).pdf]]"
   - "[[Library/Hinduism/Domestic Mandala (Gray)/Domestic Mandala (Gray)]]"

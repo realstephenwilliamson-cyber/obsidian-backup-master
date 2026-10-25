@@ -5,9 +5,7 @@ section: "Pastoral Offices"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/PastoralOffices/death.html"
-page_range:
-  - 462
-  - 467
+page_range: "462–467"
 aliases:
   - "BCP 462"
   - "BCP 463"
@@ -20,7 +18,7 @@ aliases:
 
 [[BCP 1979]] · *Pastoral Offices* · pages 462–467
 
-[p. 462]
+[p. 462] ^pg462
 
 ## Ministration at the Time of Death
 
@@ -40,7 +38,7 @@ God the Son, *Have mercy on your servant.*
 
 God the Holy Spirit, *Have mercy on your servant.*
 
-[p. 463]
+[p. 463] ^pg463
 
 Holy Trinity, one God, *Have mercy on your servant.*
 
@@ -64,7 +62,7 @@ Jesus, bearer of our sins: *Have mercy on* him*.*
 
 Jesus, redeemer of the world: *Give* him *your peace*.
 
-[p. 464]
+[p. 464] ^pg464
 
 Lord, have mercy. *Christ, have mercy.* Lord, have mercy.
 
@@ -97,7 +95,7 @@ Deliver your servant, *N.*, O Sovereign Lord Christ, from all evil, and set *him
 Depart, O Christian soul, out of this world; In the Name of God the Father Almighty who created you; In the Name of Jesus Christ who redeemed you; In the Name of the Holy Spirit who sanctifies you. May your rest be this day in peace,  
 and your dwelling place in the Paradise of God.
 
-[p. 465]
+[p. 465] ^pg465
 
 ### A Commendatory Prayer
 
@@ -117,7 +115,7 @@ Wash *him* in the holy font of everlasting life, and clothe *him* in *his* heave
 
 May *he* hear your words of invitation, "Come, you blessed of my Father." *Into your hands, O Lord, we commend our brother (sister) N.*
 
-[p. 466]
+[p. 466] ^pg466
 
 May *he* gaze upon you, Lord, face to face, and taste the blessedness of perfect rest. *Into your hands, O Lord, we commend our brother (sister) N.*
 
@@ -139,7 +137,7 @@ With faith in Jesus Christ, we receive the body of our brother (sister) *N.* for
 
 Deliver your servant, *N.*, O Sovereign Lord Christ, from all evil, and set *him* free from every bond; that *he* may rest with all your saints in the eternal habitations; where with the Father and the Holy Spirit you live and reign, one God, for ever and ever. *Amen.*
 
-[p. 467]
+[p. 467] ^pg467
 
 Let us also pray for all who mourn, that they may cast their care on God, and know the consolation of his love.
 

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 132
 verses: 19
-page_range:
-  - 786
-  - 787
+page_range: "786–787"
 aliases:
   - "BCP Psalm 132"
   - "BCP 786"
@@ -26,7 +24,7 @@ Hebrew text and JPS translation: [[Psalms 132]]
 **132:1** LORD, remember David, \*  
 and all the hardships he endured; ^132-1
 
-[p. 786]
+[p. 786] ^pg786
 
 **132:2** How he swore an oath to the LORD \*  
 and vowed a vow to the Mighty One of Jacob: ^132-2
@@ -71,7 +69,7 @@ he has desired her for his habitation: ^132-14
 **132:15** "This shall be my resting-place for ever; \*  
 here will I dwell, for I delight in her. ^132-15
 
-[p. 787]
+[p. 787] ^pg787
 
 **132:16** I will surely bless her provisions, \*  
 and satisfy her poor with bread. ^132-16

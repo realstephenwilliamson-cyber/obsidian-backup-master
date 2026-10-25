@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 7
 verses: 18
-page_range:
-  - 591
-  - 592
+page_range: "591–592"
 aliases:
   - "BCP Psalm 7"
   - "BCP 591"
@@ -32,7 +30,7 @@ and snatch me away with none to deliver me. ^7-2
 **7:3** O LORD my God, if I have done these things: \*  
 if there is any wickedness in my hands, ^7-3
 
-[p. 591]
+[p. 591] ^pg591
 
 **7:4** If I have repaid my friend with evil, \*  
 or plundered him who without cause is my enemy; ^7-4
@@ -72,7 +70,7 @@ he makes his arrows shafts of fire. ^7-14
 **7:15** Look at those who are in labor with wickedness, \*  
 who conceive evil, and give birth to a lie. ^7-15
 
-[p. 592]
+[p. 592] ^pg592
 
 **7:16** They dig a pit and make it deep \*  
 and fall into the hole that they have made. ^7-16

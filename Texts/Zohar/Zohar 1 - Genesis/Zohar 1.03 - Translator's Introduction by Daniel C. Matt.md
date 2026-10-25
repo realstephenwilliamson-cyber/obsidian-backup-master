@@ -4,7 +4,7 @@ book: "[[Zohar]]"
 order: 3
 page_range: xv–xxv
 ---
-[p. xv]
+[p. xv] ^pgxv
 
 #  Translator’s Introduction
 

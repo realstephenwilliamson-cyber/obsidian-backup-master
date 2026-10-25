@@ -108,8 +108,8 @@ ____________
 
 [^3]: On this and on the halls more generally, see Tishby, *Wisdom of the Zohar*, 2:591–94.
 
-[p. 1]
+[p. 1] ^pg1
 
 # ZOHARIC COMPOSITIONS
 
-[p. 2]
+[p. 2] ^pg2

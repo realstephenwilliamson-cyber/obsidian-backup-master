@@ -88,7 +88,7 @@ John Chrysostom. Homilies on the Gospel of John. Translated by Charles Marriott.
 | 68 | [[Chrysostom on John Hom 68\|Homily 68 on the Gospel of John]] | [[John 12#^12-34\|John 12:34–41]] |
 | 69 | [[Chrysostom on John Hom 69\|Homily 69 on the Gospel of John]] | [[John 12#^12-42\|John 12:42–50]] |
 | 70 | [[Chrysostom on John Hom 70\|Homily 70 on the Gospel of John]] | [[John 13#^13-1\|John 13:1–2]] |
-| 71 | [[Chrysostom on John Hom 71\|Homily 71 on the Gospel of John]] | [[John 13#^13-1\|John 13:1–18]] |
+| 71 | [[Chrysostom on John Hom 71\|Homily 71 on the Gospel of John]] | [[John 13#^13-12\|John 13:12–18]] |
 | 72 | [[Chrysostom on John Hom 72\|Homily 72 on the Gospel of John]] | [[John 13#^13-20\|John 13:20–31]] |
 | 73 | [[Chrysostom on John Hom 73\|Homily 73 on the Gospel of John]] | [[John 13#^13-36\|John 13:36–14:7]] |
 | 74 | [[Chrysostom on John Hom 74\|Homily 74 on the Gospel of John]] | [[John 14#^14-8\|John 14:8–14]] |
@@ -107,4 +107,4 @@ John Chrysostom. Homilies on the Gospel of John. Translated by Charles Marriott.
 | 87 | [[Chrysostom on John Hom 87\|Homily 87 on the Gospel of John]] | [[John 20#^20-24\|John 20:24–21:14]] |
 | 88 | [[Chrysostom on John Hom 88\|Homily 88 on the Gospel of John]] | [[John 21#^21-15\|John 21:15–25]] |
 
-The *Scripture* column gives the passage each homily treats, as New Advent heads it (https://www.newadvent.org/fathers/2401.htm, read 15 Oct 2026); each homily note has it in its `scripture` property.
+The *Scripture* column gives the passage each homily treats, as New Advent heads it (https://www.newadvent.org/fathers/2401.htm, read 15 Oct 2026); each homily note has it in its `scripture` property. Homily 71 is the one exception: New Advent heads it John 13:1, but the verse it prints and expounds is 13:12 (the foot-washing is in Homily 70), so the passage given here is 13:12–18 (24 Oct 2026; audit C-06).

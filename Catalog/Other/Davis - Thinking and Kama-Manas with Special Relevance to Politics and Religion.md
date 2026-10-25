@@ -17,8 +17,7 @@ language:
   - English
 pages: 3
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Thinking_and_Kama_Manas_with_Special_Rel.pdf]]"
   - "[[Library/Other/Thinking and Kama-Manas with Special Relevance to Politics (Davis)]]"

@@ -2,15 +2,17 @@
   "nativeMenus": false,
   "enabledCssSnippets": [
     "callout-styles",
-    "dark-folders"
+    "dark-folders",
+    "hide-layers"
   ],
   "showRibbon": true,
   "baseFontSize": 17,
   "cssTheme": "Minimal",
   "accentColor": "#5c4cd6",
-  "interfaceFontFamily": "Palatino,Noto Serif,Noto Serif Devanagari",
+  "interfaceFontFamily": "Palatino",
   "theme": "obsidian",
-  "textFontFamily": "Noto Serif,Noto Serif Devanagari",
-  "monospaceFontFamily": "Noto Sans Mono",
-  "showViewHeader": true
+  "textFontFamily": "Palatino",
+  "monospaceFontFamily": "Monaco",
+  "showViewHeader": true,
+  "baseFontSizeAction": true
 }

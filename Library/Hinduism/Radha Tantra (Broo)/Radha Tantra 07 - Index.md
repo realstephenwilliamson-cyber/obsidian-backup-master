@@ -4,7 +4,7 @@ book: "[[The Radha Tantra (Broo)]]"
 order: 7
 page_range: "349–352"
 ---
-[p. 349]
+[p. 349] ^pg349
 
 # Index
 

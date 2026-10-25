@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 nandiś caiva mahākālo vṛṣabho bhṛṁgir eva ca ॥ 26 ॥
 sameśvaras tathā śarmaḥ (k: śamo?; kh: śarmmā; g: sarma) ajeśaś caturānanaḥ (g: ajesa-) |
-jambhanī mohanī vāmā andhanī kartrr eva ca || 27 |l kalanī damanī caiva tathā pramathanīti (k, kh, g: prathama-) ca |
+jambhanī mohanī vāmā andhanī kartrr eva ca || 27 || kalanī damanī caiva tathā pramathanīti (k, kh, g: prathama-) ca |
 aṣṭāre pūjayed etā (kh: pūjā-) yogeśvaryo (kh: -ryā) mahābalāḥ || 28 ॥ 
 
 Nandi, Mahākāla, Vṛṣabha, \[illegible\] Sameśvaras, Śarma, Ajeśa, and Caturānana (are the Rudras). In the (wheel) with eight spokes these are the very powerful Yogīśvarīs that should be worshipped: Jambhanī, Mohanī, Vāmā, Aandhanī, Kṛtrr, Kalanī, Damanī and Pramathanī. (26cd-28) 
@@ -104,7 +104,7 @@ The sixteen verses translated here were composed by Abhinavagupta to praise the 
 
 The fifty letters of the alphabet represent fifty energies of AHAM - the great I AM that is the self awareness and innermost nature of Deity and the Absolute. The alphabet ranging from the letter A to H symbolizes the phases in the cycle of creation, just as the reverse, MAHĀ — represents that of withdrawal. Everything takes place within Śiva as the play of His energies; each one an aspect and phase of His one power which is His freedom identified with the reflective awareness of AHAM. The sixteen vowels at the beginning of the alphabet represent phases of the activation of the energies within Śiva’s consciousness. They are at the pure level in which the universe manifests as one with Anuttara as its aspects experienced directly within it. The thirty-four consonants that follow represent phases of the emanation of the reality levels (tattva) ranging from Earth to Māyā, that are experienced as a universe of objects and perceivers that are as if outside Śiva consciousness. Abhinava explains this process in all his works on Trika, most extensively in chapter three of the Tantrāloka. 
 
-The word ‘anuttara’ appears in the very beginning of the Parātrīśikā, a Trika scripture of great authority. There the Goddess asks a question: ‘anuttaraḥ kathaḥ deva sadyaḥ kaulikasiddhidam. ʻO God, what is Anuttara that immediately bestows Kaula accomplishment? There it may simply mean ‘the most excellent’ ~ which is its literal meaning. But Abhinava takes Anuttara to be a proper name denoting the highest reality taught in Trika Śaivism. We 
+The word ‘anuttara’ appears in the very beginning of the Parātrīśikā, a Trika scripture of great authority. There the Goddess asks a question: ‘anuttaraṁ kathaḥ deva sadyaḥ kaulikasiddhidam. ʻO God, what is Anuttara that immediately bestows Kaula accomplishment? There it may simply mean ‘the most excellent’ ~ which is its literal meaning. But Abhinava takes Anuttara to be a proper name denoting the highest reality taught in Trika Śaivism. We 
 
 727?\. I first translated the verses at in March 2014 in Varanasi.
 
@@ -178,7 +178,7 @@ Now we enter the sphere of the reflective awareness of the power of the will. It
 Tśvaram aśeṣatāpapraśamanam amṛtadravari sadā vande |
 apratighātisvecchāvikāsaviśrāntam amṛtakaramaulim || 
 
-I always \[illegible\] salute the Lord (īśvara) Amṛtadrava (Who Pours Out Nectar). He who is the quelling of all (the intense heat of) suffering and, resting in the unimpeded expansion of his own will, bares as a crest jewel (on his hair), a ray of (lunar) nectar. (4) 
+I always (sadā) salute the Lord (īśvara) Amṛtadrava (Who Pours Out Nectar). He who is the quelling of all (the intense heat of) suffering and, resting in the unimpeded expansion of his own will, bares as a crest jewel (on his hair), a ray of (lunar) nectar. (4) 
 
 This and the previous Rudra correspond to Sadāśivatattva to which, it seems Abhinavagupta is covertly referring by saying ‘always’ ~ sadā. This word is an indeclineable, so sadā vande — ‘I always salute always’ can also mean ‘I salute Sadā’ i.e. Sadāśiva. As usual, the long vowel represents the consolidation or ‘expansion’ of the state represented by the short vowel. The will (icchā — I) which impels the worlds into existence becomes the sovereign power (īśānaśakti) of Īśvara (Ī) - the Lord of all the worlds outlined within consciousness, resting at one with it as the reflective awareness that ‘I am (all) this’. 
 
@@ -191,7 +191,7 @@ Tśvaram unmiṣad amṛtaughasundarar tat stuve dhāma ||
 
 I praise the Lord \[illegible\] who is the Abode that is full (and perfect) by virtue of the will that is expanding with bliss[^731] out of (and because of) the awakened consciousness of Anuttara and is beautiful with the unfolding (unmiṣat) flood of nectar (amṛtaugha). (5) 
 
-Each of the forms of reflective awareness symbolized by the letters is an Abode of Anuttara but this is especially true of the vowels. Anuttara is Amṛṭa, that is nectar, which is ‘not dead’ (amṛta) and gives its imperishable life to all things pervaded by it. This abode of nectar is where the power of knowledge unfolds and so the vowel U is called ‘Unfolding’ (unmeṣa), to which Abhinava is clearly alluding here. This and the following form of reflective awareness, centered on the power of knowledge, function on the reality level \[illegible\] of Īśvara as the experience that ‘(all) this is me’. It seems that Abhinava is alluding to this also by referring to this Rudra as Īśvara — Lord. He is said to be ‘full’ because the awakened consciousness of Anuttara, which is the awakening of Anuttara, is its bliss from which arises the will to know itself as all things ‘full’ of the nectar of that realisation. That awakening of Anuttara within the nature of Anuttara is the power of knowledge which is the awakened awareness of Anuttara, that is, the full knowledge of Anuttara. The awakening takes place inside the nature of Anuttara because before that there is only the Light of consciousness pervaded by the power of the will (icchā) to know. This is not yet knowledge (jnāna) which arises when that initial state of unfolding is consolidated in the following state of reflective awareness. Here Īśvara - the Lord - is perfect, full (pūrṇa) and beautiful. In the following phase this plenitude pours out of itself as waves of the lifegiving nectar of insight. 
+Each of the forms of reflective awareness symbolized by the letters is an Abode of Anuttara but this is especially true of the vowels. Anuttara is Amṛṭa, that is nectar, which is ‘not dead’ (amṛta) and gives its imperishable life to all things pervaded by it. This abode of nectar is where the power of knowledge unfolds and so the vowel U is called ‘Unfolding’ (unmeṣa), to which Abhinava is clearly alluding here. This and the following form of reflective awareness, centered on the power of knowledge, function on the reality level (tattva) of Īśvara as the experience that ‘(all) this is me’. It seems that Abhinava is alluding to this also by referring to this Rudra as Īśvara — Lord. He is said to be ‘full’ because the awakened consciousness of Anuttara, which is the awakening of Anuttara, is its bliss from which arises the will to know itself as all things ‘full’ of the nectar of that realisation. That awakening of Anuttara within the nature of Anuttara is the power of knowledge which is the awakened awareness of Anuttara, that is, the full knowledge of Anuttara. The awakening takes place inside the nature of Anuttara because before that there is only the Light of consciousness pervaded by the power of the will (icchā) to know. This is not yet knowledge (jnāna) which arises when that initial state of unfolding is consolidated in the following state of reflective awareness. Here Īśvara - the Lord - is perfect, full (pūrṇa) and beautiful. In the following phase this plenitude pours out of itself as waves of the lifegiving nectar of insight. 
 
 6\) Amṛtormī \[illegible\] The Rudra Who is the Wave of Nectar. 
 
@@ -245,7 +245,7 @@ I bow to Śiva, whose body is nectar and, endowed with the third of the group of
 samjīvanaturyakalākalitavibodhaṁ samastabhāvānām |
 dūṣaṇaviṣaśīrnānām amṛtodgārami śivaṁ vande |l 
 
-I praise Śiva who is the well awakened consciousness generated from the fourth \[illegible\] vivifying (saṁjīvana) energy (i.e., Ḷ) and the spew of nectar (amṭodgāra) of (all phenomena) wasted away (Sīrṇna) (and rent asunder) by the poison of corrupting 
+I praise Śiva who is the well awakened consciousness generated from the fourth (turya) vivifying (saṁjīvana) energy (i.e., Ḷ) and the spew of nectar (amṭodgāra) of (all phenomena) wasted away (Sīrṇna) (and rent asunder) by the poison of corrupting 
 
 (impurity) \[illegible\] (10) 
 
@@ -325,7 +325,7 @@ pūrṇībhāvayati satām amṛteśaṁ taṁ namasyāmi ||
 
 I bow with reverence to that Amṛteśa (the Lord of Nectar) who renders the wise full (and perfect); he who is the (aesthetic) 
 
-732?\. The text reads pāśatraya- The word for fetter — paśa- has a short initial vowel. The lengthening of this vowel renders the word into a possessive. Thus, paśa means ‘fetter’ and \[illegible\] ‘pertaining to a fetter’.
+732?\. The text reads pāśatraya- The word for fetter — paśa- has a short initial vowel. The lengthening of this vowel renders the word into a possessive. Thus, paśa means ‘fetter’ and pāśa ‘pertaining to a fetter’.
 
 733?\. The Tridenti is the symbol of Trika Śaivism. But it may also be substituted for a triangle which is the common symbol for the goddess.
 
@@ -386,7 +386,7 @@ Chapter 6: Sujaya Rudra (ÑA): The Temporal Means (kālopāya) ‘Victorious is 
 
 Chapter 7: Jayarudra Rudra (CA): The Division of the Principles (tattvabhedanam) 
 
-‘May the Rudra (who bestows) victory and is the penetration \[illegible\] of the fierce (canda) Bhairava that has rendered excellent the emergence of (every) single 
+‘May the Rudra (who bestows) victory and is the penetration (āveśa) of the fierce (canda) Bhairava that has rendered excellent the emergence of (every) single 
 
 Mantra 
 
@@ -396,7 +396,7 @@ Chapter 8: Jayakīrti Rudra (CHA): The Path of Space (deśādhavan) May He Whose
 
 Chapter 9: Jayāvaha Rudra (JA): The Path of the Principles (tattvādhvan) 
 
-His glorious power (vibhava) the division of the manifestation of the sequence of realities \[illegible\] his ornament a snake, he effects the coming to pass of the victory of (His) devotees, (Lord Śiva), who brings victory, triumphs. 
+His glorious power (vibhava) the division of the manifestation of the sequence of realities (tattva), his ornament a snake, he effects the coming to pass of the victory of (His) devotees, (Lord Śiva), who brings victory, triumphs. 
 
 Chapter 10: Jayamūrti Rudra (JHA): The Division of the Principles (tattvabhedanam) 
 
@@ -422,7 +422,7 @@ Chapter 14: Bala Rudra (DA): A Preamble to the Rite of Initiation (dīkṣopakra
 
 We make an offering (bali) to that strength (bala) which, as the beloved of the Yoginīs, strengthens the process by which the obscuration of the universe disappears by virtue of its power (bala). 
 
-Chapter 15: Atibala Rudra (DHA): The Common Initiation into the Rule (sāmayī \[illegible\] 
+Chapter 15: Atibala Rudra (DHA): The Common Initiation into the Rule (sāmayī dīkṣā) 
 
 ‘I who have (tamed) the elephant of fettered existence with the goad of the teachings concerning the rites of the Supreme Lord’s worship, bow (to Lord Śiva,) who has a snake as his ornament, and is the strength of (my) weak mind.” 
 
@@ -624,7 +624,7 @@ taduktatad-atiriktayuktārthayogāt nityatve ‘pi āgamānām prasiddhiḥ
 
 tāvat avaśyopagamyā anvaya-vyatirekādhyakṣādīnāmn tatprāmāṇyasya 
 
-tanmūlatvāt satyarn rajataṁ paśyāmi iti hi sauvarṇikādiparaprasiddhyaiva 
+tanmūlatvāt satyaṁ rajataṁ paśyāmi iti hi sauvarṇikādiparaprasiddhyaiva 
 
 Although the Upaniṣads, (for example,) are a part (of Vedic doctrine, they bestow more elevated fruits than the rest of it). Although (each of the various traditions) has been created by different authors one could say that in actual fact they have all been created by one omniscient author. (It is not right to maintain that it is not possible for a being who is not omniscient to have been the author of all the scriptures) because each one says different things from the others. (If we accept that, then none of them would be valid). 
 
@@ -873,7 +873,7 @@ Aitareyāraṇyaka, see Keith, 1909.
 
 Ajitāgama, 2 vol. critical edition N. R. Bhatt, IFI, Pondichery, 1964-1967. Ajitāgama, edited by N. R. Bhatt. Vol. 1, vol. 2: 1967 Pondichéry : Institut Français d’Indologie, no. 24 and 24,2, 1964 Atharvavedasaṁhitā and bhāṣya of Sāyaṇācārya, translated by Whitney, W. D. Edited and revised by K. L. Joshi. Delhi: Indica Books, 2000 (reprint). Aparājitaprechā of Bhuvanadeva, edited by P. A. Mankad, Barod, 1950. Āryamañjuśrīmūlakalpa. Mahāyānasūtrasahṁgrahaḥ dvitīyaḥ khandaḥ. Edited by P. L. Vaidya and published by the Maithila Institute of Post-graduate Studies and Research in Sanskrit Learning. Darbhanga, 1964. 
 
-Aṣtaprakaraṇam - a collection of the eight Siddhānta tracts: Tattvaprakāśa, Tattvasarhigraha, Tattvatrayanirnaya, Ratnatraya, Bhogakārikā, Nādakārikā, Mokṣakārikā, and Paramokṣanirāsakārikā. Edited by Vrajavallabha Dvivedi. Yogatantragranthamālā vol. 12. Vārāṇasī: Sarnṁpūrnānanda Sanskrit University, 1988. 
+Aṣtaprakaraṇam - a collection of the eight Siddhānta tracts: Tattvaprakāśa, Tattvasarhigraha, Tattvatrayanirnaya, Ratnatraya, Bhogakārikā, Nādakārikā, Mokṣakārikā, and Paramokṣanirāsakārikā. Edited by Vrajavallabha Dvivedi. Yogatantragranthamālā vol. 12. Vārāṇasī: Saṁpūrnānanda Sanskrit University, 1988. 
 
 Ānandakanda, edited S. V. Radhakrishna Sastri. Tanjore Sarasvati Mahal Series, 15. Tanjore, 1952. 
 
@@ -987,7 +987,7 @@ Private Ltd. Calcutta, 1926.
 
 Tattvatrayanirṇaya by Sadyojyotis, with a vṛtti by Aghoraśiva, in Aṣtaprakaraṇam. (see entry there) 
 
-Tattvaprakāśā with Tātparyadīpikā by Bhoja and vytti by Aghoraśiva in Aṣtaprakaranam. 
+Tattvaprakāśā with Tātparyadīpikā by Bhoja and vytti by Aghoraśiva in Aṣṭaprakaraṇam. 
 
 Tattvasaṁgraha by Sadyojyotis with vṛtti by Aghoraśiva in the Aṣtaprakaraṇam. 
 
@@ -1139,7 +1139,7 @@ Mudrāvicāraprakaraṇam edited by Shah, Priyabala Baroda, 1956.
 
 Mūlamadhyamakakārika (Mādhyamikāsūtras) by Nāgārjuna with the Prasannapadā, commentary by Candrakīrti, L. de the Vallée Poussin, Bibliotheca Buddhica (4), Imprimerie de l'Academie Imperiale des Sciences, St.-Petersbourg, 1913. 
 
-Mṛgendratantra (Kriyāpāda, Caryāpāda) with the commentary by \[illegible\] Nārāyaṇakantha, critical edition N. R. Bhatt, IFI, Pondichery, 1962. Mṛgendratantra (Vidyāpāda \[illegible\] Yogapāda), with the commentary by Nārāyaṇakanṭha, M. S. Kaul, KSTS (50), Bombay, 1930. See also Brunner-Lachaux, 1985. 
+Mṛgendratantra (Kriyāpāda, Caryāpāda) with the commentary by Bhaṭṭa Nārāyaṇakantha, critical edition N. R. Bhatt, IFI, Pondichery, 1962. Mṛgendratantra (Vidyāpāda \[illegible\] Yogapāda), with the commentary by Nārāyaṇakanṭha, M. S. Kaul, KSTS (50), Bombay, 1930. See also Brunner-Lachaux, 1985. 
 
 Mṛtyujitbhattāraka, see Netratantra. 
 
@@ -1169,13 +1169,13 @@ Rūpamanṇdana by Sūtradhārāṇdana. Edited and translated into English by B
 
 Rgvedasarihitā and bhāṣya of Sāyaṇācārya. Translation of by Wilson, H. H. Introduction and notes by Ravi Prakash Arya and K. L. Joshi. Four volumes. Delhi: Indica Books, 2000 (reprint). 
 
-Aiterīya Brāhmana of the Rgveda. Haug M. Vārāṇasī, 1977 (reprint). 
+Aiterīya Brāhmaṇa of the Rgveda. Haug M. Vārāṇasī, 1977 (reprint). 
 
 Lakṣmītantra, a Pāñcarātra Āgama, \[illegible\] Krishnamacharya, The Adyar Library and Research Centre, Madrās, 1975 (first edition, 1959). 
 
 Lalitāsahasranāma with Bhāskararāya’s commentary. Translated into English by R. Ananthakrishna Sastry. Adyar, Chennai: The Adyar Library and Research Centre. 1988 (reprint). 
 
-Liṁgapurāṇa: Translated by a Board of Scholars and edited by Prof. J. L. \[illegible\] Delhi: Motilal Banarsidass, 1973. 
+Liṁgapurāṇa: Translated by a Board of Scholars and edited by Prof. J. L. Śāstrī. Delhi: Motilal Banarsidass, 1973. 
 
 Luptāgamasamigraha. In three volumes first volume by Gopinātha Kavirāja, 1970. Last two volumes by Vrajavallabha Dvivedi, (dated 1982 and 1986 respectively). Yogatantragranthamālā no. 12, 21 and 24. Vārāṇasī: 
 
@@ -1229,7 +1229,7 @@ KSTS (4) Śrīnagar, 1916 (second edition, 1970).
 
 Sāmavedasamihitā and bhāṣya of Sāyaṇācārya. Translation by Griffith R. T. H. Introduction and exegetical notes by Ravi Prakash Arya. Delhi: Indica Books, 2000 (reprint). 
 
-Saubhāgyaratnākara by Vidyānanda. Edited by Paramahaṁsa Miśra. Yogatantragranthamālā no 30. Vārāṇasī: Sarnṇpūrṇānanda Sanskrit University, 2000. 
+Saubhāgyaratnākara by Vidyānanda. Edited by Paramahaṁsa Miśra. Yogatantragranthamālā no 30. Vārāṇasī: Sarṇpūrṇānanda Sanskrit University, 2000. 
 
 Sarvollāsatantra by Sarvānandanātha. Edited by Rāmamohana Cakravartti. Calcutta: Economic Press, 1953. 
 

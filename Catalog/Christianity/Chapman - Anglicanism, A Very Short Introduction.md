@@ -17,8 +17,7 @@ language:
   - English
 pages: 169
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Chapman - Anglicanism, A Very Short Introduction (2006).pdf]]"
   - "[[Library/Christianity/Anglicanism, A Very Short Introduction (Chapman)/Anglicanism, A Very Short Introduction (Chapman)]]"

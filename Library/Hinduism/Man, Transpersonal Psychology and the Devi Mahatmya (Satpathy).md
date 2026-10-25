@@ -4,7 +4,7 @@ title: "Man, Transpersonal Psychology and the Devi Mahatmya"
 author: ["Biswajit Satpathy"]
 work: "[[Catalog/Hinduism/Satpathy - Man, Transpersonal Psychology and the Devi Mahatmya]]"
 source_pdf: "Library/Hinduism/MantranspersonalpsychologyandtheDeviMahatmya.pdf"
-pages: "263–273"
+page_range: "263–273"
 pdf_pages: "1–13"
 text_source: "PDF text layer (born-digital), PyMuPDF"
 converted: 2026-10-22

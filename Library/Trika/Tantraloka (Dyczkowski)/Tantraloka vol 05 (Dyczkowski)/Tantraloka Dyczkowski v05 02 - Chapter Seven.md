@@ -36,7 +36,7 @@ Cycles of Mantras and the like, that have their own particular form? With this q
 ### TĀ 7.1
 
 अथ परमरहस्योऽयं चक्राणां भण्यतेऽभ्युदयः ॥ १ ॥
-atha paramarahasyo ‘yarn cakranadm bhanyate ‘bhyudayaḥ |l 1 || 
+atha paramarahasyo ‘yarn cakranadm bhanyate ‘bhyudayaḥ || 1 || 
 
 Now we will expound this supreme secret, which is the emergence of the cycles (of Mantras in the flow of the breath).? (1) 
 
@@ -67,7 +67,7 @@ Surely (one may ask), what is the purpose of saying that? With this question in 
 बीजपिण्डात्मक सर्व संविदः स्यन्दनात्मताम् ॥ २ ॥
 विदधत्परसंवित्तावुपाय इति वर्णितम् ।
 
-bījapindātmakaṁ sarvarn saṁłvidah spandanātmatām || 2 |
+bījapindātmakaṁ sarvaṁ saṁłvidah spandanātmatām || 2 |
 vidadhat parasaṁvittāv upāya iti varnitam | 
 
 All (Mantras) consisting of seed syllables (bīja) and syllabic groups (pinda) are the (dynamic) pulsing nature (spandanātmatā) of consciousness. Thus, (a Mantra) is said to serve as a means (to attain) Supreme Consciousness (because such is its nature). (2cd-3ab) 
@@ -89,8 +89,8 @@ Surely (one may ask), he has set out to explain that here (according to this vie
 तन्मन््रदेवता यत्नात्तादात्म्येन प्रसीदति |
 
 yathāraghatṭtacakrāgraghaṭīyantraughavāhanam | 3 ॥
-ekānusaṁdhiyatnena citrarn yantrodayaṁ bhajet |
-ekānusaṁdhānabalāj jāte mantrodaye ‘niśam ॥ 4 |I tanmantradevatā yatnāt tādātmyena prasīdati | 
+ekānusaṁdhiyatnena citraṁ yantrodayaṁ bhajet |
+ekānusaṁdhānabalāj jāte mantrodaye ‘niśam ॥ 4 ॥ tanmantradevatā yatnāt tādātmyena prasīdati | 
 
 A waterwheel moves a series of machines for raising water located in front of it, and (so) possesses (bhajet) the varied emergent (activity of the) machines (it sets into operation) by (its) single, unified exertion. Similarly, when Mantras arise by the strength of a single (one-pointed and) continuous application (of attention and intention) (anusamidhāna), the deity of those Mantras, because it is at one with them, becomes propitious by virtue of (that) exertion (yatnāt). (3cd-5ab) 
 
@@ -146,10 +146,10 @@ The Arising of Mantras in the Flow of the Breath
 khe rasaikākṣi nityotthe tadardharni dvikapindake ॥ 5 ॥
 trike sapta sahasrānṇi dviśatītyudayo mataḥ |
 catuṣke tu sahasrāni pañca caiva catuhśatī || 6 ॥
-pañcārnṇe ‘bdhisahasrāni triśatī viṁśatis tathā \\ ṣatke sahasratritayaṁ ṣatśatī codayo bhavet ॥ 7 ॥
+pañcārṇe ‘bdhisahasrāni triśatī viṁśatis tathā \\ ṣatke sahasratritayaṁ ṣatśatī codayo bhavet ॥ 7 ॥
 saptake trisahasraṁ tu ṣadasītyadhikaṁi smṛtam | 
 
-satais tu saptaviṁśatyā varnṇāṣtakavikalpite ॥ 8 ॥
+satais tu saptaviṁśatyā varṇāṣtakavikalpite ॥ 8 ॥
 caturviṁśatiśatyā tu navārṇeṣūdayo bhavet | 
 
 śake mahācakre ṣaṭśatī pañcasaptatiḥ |
@@ -159,7 +159,7 @@ catuṣpañcāśake cakre śatānāṁ tu catuṣtayam || 16 ||
 saptatriṁśatsahārdhena triśatyaṣtāṣtake bhavet |
 ardhamardhatribhāgaś ca ṣatṣaṣṭir dviśatī bhavet || 17 ||
 ekāśītipade cakre udayaḥ prāṇacāragaḥ |
-cakre tu ṣaṇnavatyākhye sapādā dviśatī bhavet ॥ 18 II aṣtottaraśate cakre dviśatas tūdayo bhavet | 
+cakre tu ṣaṇnavatyākhye sapādā dviśatī bhavet ॥ 18 ॥ aṣtottaraśate cakre dviśatas tūdayo bhavet | 
 
 °A monosyllabic Mantra arises (spontaneously) constantly 21,600 times, (that is, once for each breathing cycle, in the course of twenty-four hours). If it consists of two syllables, half this number; if three, it is considered to arise 7,200 (times); if four, 5,400; if five, 4,320; if six, it arises 3,600 (times); if seven, it is said to be 3,086 (times); if formed by eight, 2,700 (times); if nine syllables arise, 2,400; if ten, 2,160; if they are eleven 
 
@@ -284,7 +284,7 @@ And so, what happens (to the yogi)? With this question in mind, he says:
 प्ाणग्रासक्रमावाप्तकालसदुर्षणस्थितिः ॥ २९९ ॥
 संविदेकैव पणी स्याज्ञानभेदव्यपोहनात्
 
-prāṇagrāsakramāvāptakālasaṁkarṣaṇasthitiḥ ॥ 22 |l 
+prāṇagrāsakramāvāptakālasaṁkarṣaṇasthitiḥ ॥ 22 ॥ 
 
 The state in which time is dragged (into and consumed within consciousness) (kālasaṁkarṣaṇasthiti)” obtains (in consonance) with the process by which the breath is consumed. (When this process is complete,) consciousness is one alone and (perfectly) full (integral and all-embracing) (pūrnā), by setting aside (vyapohana) the relative distinctions (of discursive conceptual) knowledge (jñānabheda). (22cd-23ab) 
 
@@ -477,7 +477,7 @@ the vital breath, and so, were the pulse of the vital breath not to exist, that 
 
 which is the pulsation (of consciousness)’. The pulsation (spanda) (of consciousness) is the nature (prakṛti), that is, the root cause (of the activity of the senses). The meaning is that it is dependent on the pulsation (of consciousness). The intended sense is that, moving from one place to another, (the activity of the senses) is conjoined with another entity or separated (from the previous one). Moreover, the pulsation (of consciousness is also) the basis (āśraya) of the (movement) of the vital breath, and so it is certain (niścita) that the successive conjunction and separation is also ‘present in the (movement of) the vital breath’. Thus ‘were the pulse of the vital breath not to exist, that also would not’. When the instrumental cause does not exist, its effect also does not. Thus, in accord with (this) principle, how could it exist (independently of it)? This is the meaning.” 
 
-Surely then, (the opponent rejoins,) let this conjunction and disjunction take place (as you say), or (indeed) may it not, why should this worry us? Explain how it is possible to bring about what you originally set out to discuss, namely, (the attainment of) the one full (all-embracing and perfect) consciousness, when time has been consumed (kālagrāsa) by the process of consuming the vital breath (prānagrāsa)? With this doubt in mind, he says: 
+Surely then, (the opponent rejoins,) let this conjunction and disjunction take place (as you say), or (indeed) may it not, why should this worry us? Explain how it is possible to bring about what you originally set out to discuss, namely, (the attainment of) the one full (all-embracing and perfect) consciousness, when time has been consumed (kālagrāsa) by the process of consuming the vital breath (prāṇagrāsa)? With this doubt in mind, he says: 
 
 ### TĀ 7.29
 
@@ -543,7 +543,7 @@ Surely (one may ask), if in reality there is just one consciousness that is thus
 अत एकैव संवित्तिनीनारूपे तथा तथा ॥ ३० ॥
 विन्दाना निर्विकल्पापि विकल्पो भावगोचरे ।
 
-ata ekaiva saṁvittir nānārūpe tathā tathā |l 30 II vindānā nirvikalpāpi vikalpo bhāvagocare | 
+ata ekaiva saṁvittir nānārūpe tathā tathā || 30 || vindānā nirvikalpāpi vikalpo bhāvagocare | 
 
 Thus, (because it is free of all contact with time,) the one consciousness, knowing in this way and that the multiple form (of the objects of knowledge), although (essentially) devoid of ideation (nirvikalpa), is (itself) ideation (vikalpa)[^45] ) within the sphere of phenomenal existence. (30cd-31ab) 
 
@@ -559,7 +559,7 @@ Surely (then), if the reflective awareness (of consciousness takes place) in thi
 तावानेको विकल्पः स्याद्रिविधं वस्तु कल्पयन्
 
 spandāntarar na yāvat tad uditaṁ tāvad eva saḥ || 31 ॥
-tāvān eko vikalpaḥ syād vividharn vastu kalpayan | 
+tāvān eko vikalpaḥ syād vividhaṁ vastu kalpayan | 
 
 Until another pulse (spanda) (of cognitive consciousness) arises, that representational ideation (vikalpa) abides alone in this way as a single 
 
@@ -613,8 +613,8 @@ He explains that:
 न विकल्पश्च कोऽप्यस्ति यो मात्रामात्रनिष्ठितः ।
 
 Sabdārūṣanṇayā jñānaṁ vikalpaḥ kila kathyate ॥ 33 ॥
-sā ca syāt kramikaivetthaṁ kirn katharn ko vikalpayet |
-ghaṭa ity api neyān syād vikalpaḥ kā kathā sthitau ॥ 34 I|
+sā ca syāt kramikaivetthaṁ kiṁ kathaṁ ko vikalpayet |
+ghaṭa ity api neyān syād vikalpaḥ kā kathā sthitau ॥ 34 ॥
 na vikalpaś ca ko ‘py asti yo mātrāmātraniṣṭhitaḥ | 
 
 A thought construct (vikalpa) is, according to (the Buddhists, as it is according to us,) knowledge (that has become such because it is) pervaded“' with words. Now if this (process of pervasion) were to be successive, who could conceive of anything, and how could it be conceived in this way? (If one accepted their thesis,) not even (the word) ‘jar’ could be an (object of) thought (vikalpa). What then to say (of the word) ‘standing’ (in the phrase ‘the jar is standing (ghaṭtas tiṣthati)’). In short, no differentiated ideation (vikalpa) could exist (in their view of things), even if it were to subsist for just a single measure (mdtra)” ) (of time) or a part of one (amātra). (33cd- 35ab) 
@@ -924,7 +924,7 @@ tāvantam udaya kṛtvā tripadoktyāditaḥ kramāt ॥ 47 ॥
 dvādaśākhye dvādaśite cakre sārdhaṁ Śataṁ bhavet |
 udayas tad dhi sacatuścatvāriṁśacchataṁ bhavet || 48 ॥
 ṣodaśākhye dvādaśite dvānavatyadhike śate |
-cārārdhena samai proktarn śatan dvādaśakādhikam I| 49 ॥
+cārārdhena samai proktaṁ śatan dvādaśakādhikam I| 49 ॥
 sodaśākhye ṣodaśite bhavec caturaśītigaḥ |
 udayo dviśataṁ tad dhi ṣaṭpañcāśatsamuttaram ॥ 50 ॥
 cārāṣtabhāgārms trīn atra kathayanty adhikān budhāḥ |
@@ -1001,7 +1001,7 @@ He (now) concludes.
 ### TĀ 7.52
 
 एष चक्रोदयः प्रोक्तः साधकानां हितावहः ॥ ५२ ॥
-eṣa cakrodayaḥ proktaḥ sādhakānāmi hitāvahaḥ ॥ 52 |l 
+eṣa cakrodayaḥ proktaḥ sādhakānāmi hitāvahaḥ ॥ 52 ॥ 
 
 This, the emergence of the cycles (of Mantra within the flow of the breath) that benefits adepts (sādhaka)\* has been taught. (52cd) 
 
@@ -1013,9 +1013,9 @@ The Division of Mantras and Vidyās (mantravidyābhid) in the Cycle of the Breat
 व्युत्थाय यावद्वश्रामयत्तावच्चारोदयो ह्ययम् ॥ ५३ ॥
 
 niruddhya mānasīr vṛttīś cakre viśrāntim āgataḥ |
-vyutthāya yāvad viśrāmyet tāvac cārodayo hy ayam || 53 I| 
+vyutthāya yāvad viśrāmyet tāvac cārodayo hy ayam || 53 || 
 
-This emerging movement (of the breathing cycle) (cārodaya) (continues) as long as (yāvat (tavat) ) (it extends through three phases). (First,) once the activities of the mind have been checked, a cycle (of syllables) comes to rest.” (Then,) having emerged (from the Heart, it travels up with 
+This emerging movement (of the breathing cycle) (cārodaya) (continues) as long as (yāvat (tāvat) ) (it extends through three phases). (First,) once the activities of the mind have been checked, a cycle (of syllables) comes to rest.” (Then,) having emerged (from the Heart, it travels up with 
 
 83?\. 16 x 12 = 192 and 192 x 112 = 21,504. Thus 96 remain, to make the full set of 21,600 cycles. 96 is a half of 192. \* 256 x 84 = 21,504. As 21,600 breathing cycles take place in a day, 96 remain. 256 divided by 8 = 32 x 3 = 96.
 
@@ -1093,11 +1093,11 @@ Surely (one may ask), what (indeed) cannot be achieved that is present in the vi
 शक्तिस्थं नैव तं तत्र विभागस्त्वोनमोन्तगः ।
 
 dvis triś catur vā mātrābhir (vidyam vā cakram eva vā |
-tattvodayayutaṁ nityarn pṛthagbhūtaṁ japet sadā || 57 ॥
+tattvodayayutaṁ nityaṁ pṛthagbhūtaṁ japet sadā || 57 ॥
 pindākṣarapadair mantram ekaikaṁ śaktitattvagam |
 bahvakṣaras tu yo mantro vidyā vā cakram eva vā || 58 ॥ 
 
-saktisthaṁ naiva taṁ tatra vibhāgas tv orn namo ‘ntagaḥ | 
+saktisthaṁ naiva taṁ tatra vibhāgas tv oṁ namo ‘ntagaḥ | 
 
 (The Yogi who is a beginner) should always recite a Vidyā or a cycle (of Mantra which is just) two, three or four measures (mātrā) long (so that each repetition) is separate (and distinct). It should always be linked with the emergence of the reality (tattvodaya) (at one with susumna). ). Every single (repetition of a) Mantra, along the syllabic groups (pinda), phonemes (akṣara) and parts (pada) (that constitute it should be) separate and (experienced to be) present within the essential power (śaktitattva) (of the vital breath). If a Mantra with many phonemes, and Vidyā or cycle (of Mantra), is not established in the power (of the vital breath) in this way, (then) there (in that case) a division (vibhadga) ) (should be made between each recitation by adding) OM (at the beginning of the Mantra) and 
 
@@ -1154,7 +1154,7 @@ Having explained that by the way, he (now) continues with the (main) point.
 
 pūrvodaye tu viśramya dvitīyenollased yadā ॥ 60 ॥
 viec cārdhardhikāyogāt tadoktārdhodayo bhavet |
-yadā pūrnodayātmā tu samaḥ kālas trike sphuret |l 61 ॥
+yadā pūrnodayātmā tu samaḥ kālas trike sphuret ॥ 61 ॥
 praveśaviśrāntyullāse syāt svatryahśodayas tadā | 
 
 If once (the yogi) has rested in the first emergence (of the breath), (he) pours out (exhaling) by the second, and enters (inhaling in the third,) by (thus) uniting the halves,” this is (the equivalent of) half the emergence (of a breathing cycle) described previously.” If time, as the full emergence (udaya) (of the breathing cycle), manifests equally in the triad (trika) of 
@@ -1204,7 +1204,7 @@ This is the power (vibhava) of Time, that is established (in this form) within t
 
 *[p. 43]* ^pg61
 
-(The exhaled) ‘vital breath’ (prāna) is the main one, and so (it stands for) the inhaled and (all the) other (forms of the vital breath) also. “This’, that is, the breath, (is established) in the universal ‘pulsation (of consciousness)’, that is, within the modality (and function of consciousness that) impels (and imparts life) (prāṇanāvṛtti), which is (its) initial expansion (prasara). “The Void’ is the perceiver of the emptiness (of deep sleep). The sense is that ‘this’ (power of Time) pouring forth externally, (impelled) by (its) enthusiasm for (outer) objectivity, is variously called the vital breath and the pulsation (of consciousness) etc. ‘That’ is the Void, because consciousness itself manifests by its own freedom as the Void (of deep sleep, which although objective is without content). “Thus’, because of the stated serial cause, ‘all things’, that is, the six-fold Path, (is established in consciousness). As he will say: 
+(The exhaled) ‘vital breath’ (prāṇa) is the main one, and so (it stands for) the inhaled and (all the) other (forms of the vital breath) also. “This’, that is, the breath, (is established) in the universal ‘pulsation (of consciousness)’, that is, within the modality (and function of consciousness that) impels (and imparts life) (prāṇanāvṛtti), which is (its) initial expansion (prasara). “The Void’ is the perceiver of the emptiness (of deep sleep). The sense is that ‘this’ (power of Time) pouring forth externally, (impelled) by (its) enthusiasm for (outer) objectivity, is variously called the vital breath and the pulsation (of consciousness) etc. ‘That’ is the Void, because consciousness itself manifests by its own freedom as the Void (of deep sleep, which although objective is without content). “Thus’, because of the stated serial cause, ‘all things’, that is, the six-fold Path, (is established in consciousness). As he will say: 
 
 ‘All this Path is established in pure consciousness (cinmātra), for what does not rest there (is as unreal as) a sky-flower. (Through and) mediated by consciousness, the Path is established in that which it has emitted, namely, in the void, in the intellect, in the vital breaths, in the wheels of the channels (of the vital breath) (nādī), in the secondary wheels (cakra) (of the senses), and in the external body.[^100] 
 
@@ -1272,7 +1272,7 @@ The Channels of the Breath and the Measure of the Body
 प्राणे प्रतिष्ठितः कालस्तदाविष्टा च यत्तनुः ॥ ६५ ॥
 देहे प्रतिष्ठितस्यास्य ततो रूपं निरूप्यते ।
 
-prānṇe pratiṣthitaḥ kālas tadāviṣṭā ca yat tanuḥ Il 65 II dehe pratiṣthitasyāsya tato rūpaṁ nirūpyate | 
+prānṇe pratiṣthitaḥ kālas tadāviṣṭā ca yat tanuḥ || 65 || dehe pratiṣthitasyāsya tato rūpaṁ nirūpyate | 
 
 Time is based on the vital breath, and the body is penetrated (and pervaded) by that. Accordingly, the nature of that (vital breath), which is established in the body, will be described. (65cd-66ab) 
 
@@ -1306,7 +1306,7 @@ In accord with this teaching, (the Cavity) initially, like a central (supporting
 
 Thus, the scripture also (teaches) the same. Accordingly, he says: श्रीस्वच्छन्देऽत एवोक्त यथा पर्ण स्वतन्तुभिः ॥ ६७ ॥
 व्याप्तं तद्र्नुदरीरदारिभावेन नाडिभिः ।
-srīsvacchande ‘ta evoktarn yathā parnam ! svatantubhiḥ | 67 ॥
+srīsvacchande ‘ta evoktaṁ yathā parnam ! svatantubhiḥ | 67 ॥
 vyāptari tadvattanurdvāradvāribhāvena nāḍibhiḥ | 
 
 Thus it is said in the venerable Svacchanda that the body is pervaded by primary and secondary channels (nādī), like a leaf by its filaments. (67cd-68ab) 
@@ -1321,7 +1321,7 @@ Surely all agree that, according to the dictum ‘all (the channels) are filled 
 
 105?\. Explanatory paraphrase of SvT 7/10cd-1 lab.
 
-106?\. \[illegible\] SvT 7/7cd-10. In the Heart of Recognition (Pratyabhijñāhṛdaya), Kṣemarāja writes: ‘The Centre is the Goddess of Consciousness alone, for it is the inner being of all things, as nothing would have a nature of its own were it not fixed on the screen of that (consciousness). However, even though it is such, it conceals its real nature at the level of Māyā, and in accord with the dictum: ‘initially consciousness is transformed into the vital breath’, it assumes the form of the power of the vital breath (prāṇaśakti). It then gradually descends through the planes of the intellect and the body etc. and reposes there, following the course of countless vital channels (nādī). The principal form it assumes is that of the Central Channel (madhyanādī, i.e. suṣumnā), whose substratum is Brahman, the power of the vital breath. It travels from the Cavity of Brahmā (brahmarandhra) (at the top of the head) to the ‘lower face’ (adhovaktra) (of the genital region), like the central rib of a leaf.’ PrHy comm. sū. 17.
+106?\. \[illegible\] SvT 7/7cd-10. In the Heart of Recognition (Pratyabhijñāhṛdaya), Kṣemarāja writes: ‘The Centre is the Goddess of Consciousness alone, for it is the inner being of all things, as nothing would have a nature of its own were it not fixed on the screen of that (consciousness). However, even though it is such, it conceals its real nature at the level of Māyā, and in accord with the dictum: ‘initially consciousness is transformed into the vital breath’, it assumes the form of the power of the vital breath (prāṇaśakti). It then gradually descends through the planes of the intellect and the body etc. and reposes there, following the course of countless vital channels (nādī). The principal form it assumes is that of the Central Channel (madhyanādī, i.e. suṣumnā), whose substratum is Brahman, the power of the vital breath. It travels from the Cavity of Brahmā (brahmarandhra) (at the top of the head) to the ‘lower face’ (adhovaktra) (of the genital region), like the central rib of a leaf.’ PrHṛ comm. sū. 17.
 
 
 *[p. 47]* ^pg65

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 127
 verses: 6
-page_range:
-  - 783
-  - 783
+page_range: "783"
 aliases:
   - "BCP Psalm 127"
   - "BCP 783"
@@ -25,7 +23,7 @@ Hebrew text and JPS translation: [[Psalms 127]]
 **127:1** Unless the LORD builds the house, \*  
 their labor is in vain who build it. ^127-1
 
-[p. 783]
+[p. 783] ^pg783
 
 **127:2** Unless the LORD watches over the city, \*  
 in vain the watchman keeps his vigil. ^127-2

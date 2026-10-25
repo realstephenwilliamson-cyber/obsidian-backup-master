@@ -17,8 +17,7 @@ language:
   - English
 pages: 316
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The_Saiva_Age_The_Rise_and_Dominance_of.pdf]]"
   - "[[Library/Hinduism/Genesis and Development of Tantrism (Einoo)/Genesis and Development of Tantrism (Einoo)]]"

@@ -6,7 +6,7 @@ page_range: 109–140
 aliases:
   - Goddess Traditions 09 - 6. Śāktism and haṭhayoga
 ---
-[p. 109]
+[p. 109] ^pg109
 
 # 6 Śāktism and *haṭhayoga*[^1]
 
@@ -156,7 +156,7 @@ This distinction between munis or *ṛṣi*s and *yogin*s or *siddha*s is found 
 
 What this boils down to is a distinction between layayoga-practising *siddha*s such as Gorakṣa and *haṭhayoga*-practising *muni*s such as Kapila or Dattātreya, which manifests among today’s ascetics as a distinction between the Śākta Nāths and the relatively more orthodox Daśanāmīs and Rāmānandīs. This distinction should not be applied too rigorously, however, because there are many anomalies, in particular lexical ones. Thus Kapila, though most commonly said to be a *muni*, is described as a *siddha* in texts as diverse as the *Bhagavadgītā* and the *Dattātreyayogaśāstra* itself.[^92]
 
-[p. 120]
+[p. 120] ^pg120
 
 ## The *muni* tradition of *haṭhayoga*
 
@@ -302,7 +302,7 @@ The Śākta appropriation of *haṭhayoga* and its associated adoption by the N�
 
 *Haṭharatnāvalī*, ed. M.L. Gharote,P. Devnath and V.K. Jha. Lonavla: Lonavla Yoga Institute. 2002.
 
-[p. 138]
+[p. 138] ^pg138
 
 ## Secondary literature
 

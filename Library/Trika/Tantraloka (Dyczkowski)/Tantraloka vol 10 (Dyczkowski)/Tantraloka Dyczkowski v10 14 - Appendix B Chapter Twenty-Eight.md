@@ -34,7 +34,7 @@ Māgha (January - bright Thursday Maghā, Midnight February)
 
 fortnight Jupiter 
 
-\* + \*\*Phālguna bright Monday Tisya, midday ( February 
+\* + \*\*Phālguna bright Monday Tiṣya, midday ( February 
 
 — March) 
 
@@ -80,7 +80,7 @@ The Yoginīs Who Are Embodiments of the Mothers According to Chapter Sixteen of 
 
 According to the following passages drawn from the Tantrasadbhāva, which is a Trika Tantra, there are seven types of mortal Yoginīs. Each type is associated with one of the Seven Mothers who give knowledge and the sacrificial food (caru) to the Kaula adept (vīra) of their own arma i.e., Kula. Each type of Yoginī has her own sacred lunar days when to meet her. 
 
-Brāhmī 1\] yā nāryā raktagauryābhā sauvarṇā \[k: savarnāmi; g samagotrā\] vā kṛsodarī ॥ 247 II mukha padmopamar yasyā \[k, kh g: yasya\] dvijasnigdhā ghanastanī |
+Brāhmī 1\] yā nāryā raktagauryābhā sauvarṇā \[k: savarnāmi; g samagotrā\] vā kṛsodarī ॥ 247 ॥ mukha padmopamar yasyā \[k, kh g: yasya\] dvijasnigdhā ghanastanī |
 kadalīstambhasamikāśā (> -‘sau) purakau (> jamnghanau) sumanoramau I| 248 ||
 trivalītarangamadhyasthā sutalalā suvarcasā |
 cihurā (hair of the head) kuñcitā yasyā gandakūpau tu jāyate ॥ 249 ॥
@@ -109,9 +109,9 @@ excellent garment of antelope skin. A svastika is drawn on (her) hand’ and she
 
 Kaumārī 2\] śuklagauryā tu yā gauryā vibhaktāṇgī ghanāruhā || 255 ॥
 kapilā dīrghakeśī ca kapilekṣaṇarūgviṇā |
-lalāṭe dṛśyate corddhve trayo rekhā(s) triśūlagāḥ Il 256 ॥
+lalāṭe dṛśyate corddhve trayo rekhā(s) triśūlagāḥ ॥ 256 ॥
 vidhibhaktā ca boddhavyā rudrārcanaparāyanā |
-samayikaṁ putrakarn vāpi dcaryam ) dcaryam ! sādhako ‘pi vā ॥ 257 ॥
+samayikaṁ putrakaṁ vāpi dcaryam ) dcaryam ! sādhako ‘pi vā ॥ 257 ॥
 dṛṣtvāduṣyati sā nārī mahākautuhalānvitā \[k: mahākakuhala- g: mahākau \* halānvitā\] |
 aṣtamī ca tathā devi bhūtyākhyā parvaṇī yathā ॥ 258 ||
 evar vai lakṣaṇaṁ jñātvā mudrām tasyāḥ pradarśayet |
@@ -140,10 +140,10 @@ itarasya varārohe sthānaṁ cādeśya vatsarāt |
 (The yoginī associated with Vaiṣṇavī 15) a woman whose complexion is yellow and white and who always wants to wear yellow clothes. She likes gardens and forests and is always dedicated to the practice of continence. (Her voice is) deep like the sound of a peacock and her conversation is pleasing. She (wears) beautiful garlands. O beloved of the Heroes, one should know that her sacred day is the sixth (one of the lunar months). Having known (this) thus, display her gesture. Or else one should display the spear, bell, flag or a vapūraṁ. In six months, she bestows the boon of the vital breath to the Hero, and in a year she ordains a place to another (who is not of her Kula). (16/261cd- 265ab) 
 
 Cāmuṇdā 4\] \$ Syamavarna Syamavarna \[g: syā-\] tu yā nārī atasīpuṣpasannibhā \[g: ataśī-\] ॥ 265 ॥
-pītāmbarapriyā nityarn mallayuddhā tu rāginī |
+pītāmbarapriyā nityaṁ mallayuddhā tu rāginī |
 madyāsaktā \[g: -Śaktā\] varārohe dānavānāśanapriyā \[g: sa-\] ॥ 266 ॥
 tāmbūlapuṣpaveṣādhyā \[g: sādhyā\] atikāīmā gaṇapriyā |
-tyaktalajjā sadā jñeyā atanārthe ratā sadā ॥ 267 I|
+tyaktalajjā sadā jñeyā atanārthe ratā sadā ॥ 267 ॥
 evar jñātvā tu mantrajño mudrām tasyā pradarśayet |
 samkhamudgarasārangacakraṁ muśalam eva vā I| 268 ॥
 svagotre varadā devī vigotre Subham ādiset | 
@@ -154,7 +154,7 @@ Vārāhī 5\] bhinnāṁjanapratīkāśā dariturā pāvikadvijā ॥ 269 ॥
 lambastanī bṁatkāyā sthūlamātrā ghanatviṣā |
 ārakte locane tasyā bhavate nirdayā sadā | 270 ॥
 nistrisā \[g: -sā\] nispṁā devi bhavate kalahapriyā |
-vārāhyaṁiśā samuddiṣtā mudrāṁ tasyā.h pradāpayet I| 271 ॥ 
+vārāhyaṁiśā samuddiṣtā mudrāṁ tasyā.h pradāpayet ॥ 271 ॥ 
 
 571?\. According to the normal serial order, Cāmunqā is the penultimate or, sometimes, last Mother. This is also the order of presentation in the list of their sacred days recorded here further ahead. The visualized form also corresponds to that of Cāmundā. Again, while this visualization is not named here, the visualization of Indrāṇī is named. This too confirms that the sequential order of the visualizations has somehow been changed.
 
@@ -195,11 +195,11 @@ mudrārm tasya (> tasyā.h) pradarśyeta \[g: pradarśeta\] kapālaṁni śīlam
 
 *[p. 417]* ^pg434
 
-khatvāṁgār damarukańi vāpi pińłcchakarn (> kimcchukarn) vāthavā priye ॥
+khatvāṁgār damarukańi vāpi pińłcchakaṁ (> kimcchukaṁ) vāthavā priye ॥
 281 II svārṁśasya \[g: -sasya\] caiva vīrasya dadāā saṁpradāyakam |
-(carukam vā pasurm vāpi vidhi vā puṣkalari priye ॥ 282 I|
+(carukam vā pasurm vāpi vidhi vā puṣkalari priye ॥ 282 ॥
 anyeṣāṁ kathayaty āśu sevanād vatsarārddhataḥ \[g: sevānādva-\] |
-vijñānam udayarn māsām kathyamānari nibodha me || 283 I| 
+vijñānam udayaṁ māsām kathyamānari nibodha me || 283 || 
 
 (Yogeśī is embodied as) a woman whose throat and lips are white, neck is long and belly thin. Her gaze is fierce. She is very tall, her hands and feet are very big, and her breasts are long (and dangling). She is emaciated (although) she eats much. She is sweet and brown (madhupingalā) (?). She is attached to wondering about at night. She cannot be disturbed (and aroused to passion) and she (always) speaks the truth. She is always devoted (to frequenting) the cremation ground and delights in hearing stories (of adepts’) heroic state. Her hair is tied up, (and she is radiant like) the blazing sun. Without a doubt, she is a (true) yoginī. 
 

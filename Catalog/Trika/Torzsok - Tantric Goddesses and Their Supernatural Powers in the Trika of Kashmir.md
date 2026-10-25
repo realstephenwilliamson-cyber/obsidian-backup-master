@@ -18,7 +18,7 @@ language:
 pages: 10
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Tantric_goddesses_and_their_supernatural.pdf]]"
   - "[[Library/Trika/Tantric Goddesses and Their Supernatural Powers in the Trika (Torzsok)]]"

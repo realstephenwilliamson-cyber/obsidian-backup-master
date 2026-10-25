@@ -17,8 +17,7 @@ language:
   - English
 pages: 312
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The_Touch_of_Sakti_A_Study_in_Non_Dualis.pdf]]"
   - "[[Library/Trika/The Touch of Sakti (Furlinger)/The Touch of Sakti (Furlinger)]]"

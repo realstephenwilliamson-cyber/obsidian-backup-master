@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 306
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Ruppel - An Introductory Sanskrit Reader (2022).pdf]]"
   - "[[Library/Sanskrit/An Introductory Sanskrit Reader (Ruppel)/An Introductory Sanskrit Reader (Ruppel)]]"

@@ -5,9 +5,7 @@ section: "Front Matter"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/General/concern.html"
-page_range:
-  - 13
-  - 14
+page_range: "13–14"
 aliases:
   - "BCP 13"
   - "BCP 14"
@@ -16,7 +14,7 @@ aliases:
 
 [[BCP 1979]] · *Front Matter* · pages 13–14
 
-[p. 13]
+[p. 13] ^pg13
 
 ## Concerning the Service of the Church
 

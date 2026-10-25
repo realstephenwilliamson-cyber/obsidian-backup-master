@@ -17,8 +17,7 @@ language:
   - English
 pages: 191
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[B.N. Pandit - History of Kashmir Saivism-Utpal Publications (1990).pdf]]"
   - "[[Library/Trika/History of Kashmir Saivism (Pandit)/History of Kashmir Saivism (Pandit)]]"

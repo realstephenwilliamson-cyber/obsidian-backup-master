@@ -19,8 +19,7 @@ language:
   - Sanskrit
 pages: 699
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Hinduism/van Nooten, Holland - Rig Veda, a Metrically Restored Text (HOS 50, 1994).pdf]]"
 aliases:
@@ -41,7 +40,7 @@ await dv.view("Templates/Views/open-pdf")
 
 *Second copy removed on 5 Oct 2026:* `Rig Veda _ a metrically restored text with an introduction and notes (only Introduction and Notes)-Harvard University Press (199.pdf` was taken out of this note and moved to the vault's `.trash`.
 
-**Text layer** (5 Oct 2026): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
+**Text layer** (5 Oct 2026; replaced on 15 Oct, below): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
 
 ## About
 

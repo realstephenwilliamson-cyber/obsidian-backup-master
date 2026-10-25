@@ -18,8 +18,7 @@ language:
   - English
 pages: 1
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Chapter_3.pdf]]"
   - "[[CIS - Answers to Chapter 3 Exercises (Ruppel)]]"

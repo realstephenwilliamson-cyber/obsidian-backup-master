@@ -20,7 +20,7 @@ language:
 pages: 134
 text: searchable
 status: reading
-physical_copy: true
+print: true
 files:
   - "[[Philosophising by Accident Interviews with Elie During (2017).pdf]]"
   - "[[Library/Philosophy/Philosophising by Accident (Stiegler)/Philosophising by Accident (Stiegler)]]"

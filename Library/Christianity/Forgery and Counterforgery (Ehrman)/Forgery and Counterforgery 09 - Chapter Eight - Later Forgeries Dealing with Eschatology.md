@@ -6,7 +6,7 @@ page_range: "191–238"
 ---
 [[Forgery and Counterforgery 08 - Chapter Seven - Early Pauline Forgeries Dealing with Eschatology|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 10 - Chapter Nine - Forgeries in Support of Paul and His Apostolic Mission|next →]]
 
-[p. 191]
+[p. 191] ^pg191
 
 ## Chapter Eight: Later Forgeries Dealing with Eschatology
 
@@ -132,7 +132,7 @@ The authorities for these Pastoral communities are not only the apostolic voice,
 
 It is important to stress that all of these various arguments are cumulative and all point in the same direction. The accumulation is not merely as strong as its weakest link. One argument after the other simply reinforces the one that precedes: the distinctive vocabulary, its non-Pauline character and force, the post-Pauline historical situation, the role of authorities in the church including written Gospel texts. At the same time, it cannot be stressed enough that specific comments of each of the individual books as well point in precisely the same direction, reinforcing the sense that if one of these books is forged, they all are forged.
 
-[p. 206]
+[p. 206] ^pg206
 
 #### *Arguments from Each of the Books*
 
@@ -220,7 +220,7 @@ But even if the author of 2 Timothy found Ephesians of some use for his own lett
 
 The possibility that 2 Timothy presents us with a counterforgery was recognized already by Lindemann.[^49] The author of the book does not provide us with a vague rejection of some kind of fantasized Gnostic teaching of the resurrection. He opposes a teaching that had arisen within the circles that the author himself is addressing, Pauline communities that had taken Paul’s teaching of the “new creation” in Christ in the wrong direction and to a false extreme, in arguing that the resurrection is a spiritual event that had already occurred. For the author of 2 Timothy, this is non-Pauline, devilish, and wrong. The resurrection is a future event, yet to be experienced, notwithstanding “Pauline” letters, such as Ephesians, that indicate otherwise.
 
-[p. 218]
+[p. 218] ^pg218
 
 ### EXCURSUS: THE SECRETARY HYPOTHESIS
 
@@ -300,7 +300,7 @@ So too did the author of 2 Peter. Was this one of the reasons this book too even
 
 In taking this stand, the author placed himself securely in the tradition that he understood to have stemmed from the apocalyptic proclamation of Jesus and his apostles, among whom he numbered himself. In order to provide particularly strong authorization for his views, he claimed to have seen firsthand the glory of Jesus, a glory that foreshadowed one yet to be revealed, on the “Day of the Lord,” when destruction would come to this world. His views, in other words, were not simply those that stood within a noble tradition. They derived from the foundation of the church. The church is rooted in Scriptural prophecies, which anticipate a coming destruction, in the teachings of Jesus himself, and in the writings of Paul. This author was allegedly a companion of Jesus and a fellow apostle of Paul. As opposed to the “mockers” who have proclaimed a nonapocalyptic view of the faith, he writes to assure his readers that a clear and definite end is coming, and that it will be brutal, especially for those who think otherwise. These are “lying prophets” ![[forgery-counterforgery-00270.jpeg]] and lying teachers ![[forgery-counterforgery-00271.jpeg]]. And the author has no scruples at all about telling a lie of his own, by writing a ![[forgery-counterforgery-00272.jpeg]], in order to attack the teachers of falsehood.[^76]
 
-[p. 230]
+[p. 230] ^pg230
 
 ### THE GOSPEL OF THOMAS
 
@@ -356,7 +356,7 @@ The polemic against the apocalyptic view here is extended through the use of fam
 
 For the Gospel of Thomas nothing could be farther from the truth. Here, false teachers are not false simply because they wrongly think Jesus will physically [p. 237] return to earth before the catastrophic end; they are false because they think there will be a catastrophic end. They are not wrong in advancing a faulty apocalyptic scenario; they are wrong in advancing any kind of apocalyptic scenario. The kingdom is not coming as a future event. For this Gospel it is experienced here and now among those who interpret and implement Jesus’ sayings correctly and so know who they really are. The kingdom is already spread out on the earth. It is not coming at a future time to a specific place. It is available to all who “find the meaning of these words.” The kingdom of God is not imminent; it is immanent.
 
-[p. 238]
+[p. 238] ^pg238
 
 ---
 

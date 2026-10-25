@@ -19,8 +19,7 @@ language:
   - English
 pages: 385
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Stiegler_2020_Nanjing-Lectures.pdf]]"
   - "[[Library/Philosophy/Nanjing Lectures 2016-2019 (Stiegler)/Nanjing Lectures 2016-2019 (Stiegler)]]"

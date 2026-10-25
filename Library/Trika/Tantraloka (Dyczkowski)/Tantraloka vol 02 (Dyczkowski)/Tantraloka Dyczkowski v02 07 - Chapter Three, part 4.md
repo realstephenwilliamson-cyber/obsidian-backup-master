@@ -80,7 +80,7 @@ The desire which is related to the supreme subject is fulfilled when it has ‘a
 
 *[p. 188]* ^pg204
 
-with K (that represent the metaphysical principles in the sphere of objectivity). It is fulfilled in the sense that, by resting within its own nature alone, it becomes full (and all-inclusive), in accord with the principle \[illegible\] that ‘these cosmic waves of Bhairava are my very own’. ‘The disciples of the venerable Somānanda’, namely, the venerable Utpaladeva and the others, who are the objects of his compassion, say that that is ‘the location’, that is, the field of operation \[illegible\] of ‘the arousal’, which is the freedom of consciousness. In the course of Kaula sexual practice (caryākrama) also, a man’s desire is fulfilled when a state of oneness (sāmarasya)” has been attained. This is the characteristic feature of the matrix (yoni), which is ‘the location of arousal’ 
+with K (that represent the metaphysical principles in the sphere of objectivity). It is fulfilled in the sense that, by resting within its own nature alone, it becomes full (and all-inclusive), in accord with the principle (nyāya) that ‘these cosmic waves of Bhairava are my very own’. ‘The disciples of the venerable Somānanda’, namely, the venerable Utpaladeva and the others, who are the objects of his compassion, say that that is ‘the location’, that is, the field of operation \[illegible\] of ‘the arousal’, which is the freedom of consciousness. In the course of Kaula sexual practice (caryākrama) also, a man’s desire is fulfilled when a state of oneness (sāmarasya)” has been attained. This is the characteristic feature of the matrix (yoni), which is ‘the location of arousal’ 
 
 ° 
 
@@ -92,7 +92,7 @@ The nature of the seed and the matrix has been indicated in (these verses), begi
 यज्जेयमात्रं तद् बीजं यद्योगाद्बीजता स्वरे ॥ ८५ ॥
 
 sarvidām ïṭṣaṇnādīnām anudbhinnaviśeṣakam |
-yaj jñeyamātraṁi tad bījaḥ yad yogād bījatā svare || 85 ॥ 
+yaj jñeyamātraṁi tad bījaṁ yad yogād bījatā svare || 85 ॥ 
 
 The seed (bīja) is just (pure) objectivity alone (jñeyamātra) (of Śiva consciousness that needs be known), which is not (yet) differentiated into the 
 
@@ -142,17 +142,17 @@ Having explained the. meaning of the word ‘seed’, he explains (what is meant
 हटाद्यदौदासीन्यांशच्यावनं संविदो बलात् ।॥। ८७ ॥
 
 tasya bījasya saivoktā visisṛkṣā ya udbhavaḥ |
-yato grāhyam idan bhāsyad bhinnakalparn cidātmanaḥ ॥ 86 ॥
+yato grāhyam idan bhāsyad bhinnakalpaṁ cidātmanaḥ ॥ 86 ॥
 eṣa kṣobhaḥ kṣobhanṇā tu tūṣṇīṁbhūtānyamātṛgam |
 haṭhād yad audāsīnyāṁśacyāvanaṁ saṁvido balāt || 87 ॥ 
 
-The intent to emit (visisṛkṣā) mentioned previously is the outpouring (udbhava) of that seed, due to which this object of knowledge (grāhya) (ultimately) manifests as if it were separate from the conscious nature. This is arousal \[illegible\] The act of arousing (kṣobhanā) is that which causes the consciousness of other perceivers who are silent (fūṣṇīmhbhūta) (in the sense that their attention is not directed outside themselves) to be forcefully \[illegible\] (drawn away and) fall from the detached (transcendental) aspect (audāsīnyāmśa) of consciousness by its (inherent) power.” (86-87) 
+The intent to emit (visisṛkṣā) mentioned previously is the outpouring (udbhava) of that seed, due to which this object of knowledge (grāhya) (ultimately) manifests as if it were separate from the conscious nature. This is arousal (kṣobha). The act of arousing (kṣobhanā) is that which causes the consciousness of other perceivers who are silent (fūṣṇīmhbhūta) (in the sense that their attention is not directed outside themselves) to be forcefully \[illegible\] (drawn away and) fall from the detached (transcendental) aspect (audāsīnyāmśa) of consciousness by its (inherent) power.” (86-87) 
 
 #### Viveka on 3.86–87
 
 The ‘outpouring’ is (the inner) exertive state (of consciousness that flows out through emission to generate objectivity) (udyantṛtā) ‘due to which this 
 
-286?\. In the following three verses, Abhinava defines what he means by arousal \[illegible\] the act of arousal and the foundation of arousal (kṣobhādhāra). Arousal is the desire to emit all things, which heralds the outpouring of objectivity from the pure conscious nature in such a way that it manifests as if it were separate from it. The act of arousal is the arousal of consciousness from its introverted to its extroverted state. In its introverted state, it views itself alone, full of all things and yet beyond them, as they are nothing but consciousness itself. This is the state of the supreme perceiver, blissfully at rest in His own infinite, inexplicable nature. In the extroverted state, consciousness contracts to assume the form of the individual perceiver, who views the outer world as separate from himself. The act of arousal is the powerful impulse of consciousness which pulls it away, as it were, from its introverted to the extroverted state. The foundation of arousal is the fundamental identity of the inner and outer states of subject and object in the one unitary consciousness. This is not a static condition. On the contrary, it is the perpetual renewal of their oneness. The very moment a distinction between them as the object of desire and the one who desires it arises within consciousness, it is fulfilled. The repose of consciousness within itself is the foundation of the arousal that brings about this distinction. If this fundamental unity were not to exist, nothing would take place.
+286?\. In the following three verses, Abhinava defines what he means by arousal (kṣobha), the act of arousal and the foundation of arousal (kṣobhādhāra). Arousal is the desire to emit all things, which heralds the outpouring of objectivity from the pure conscious nature in such a way that it manifests as if it were separate from it. The act of arousal is the arousal of consciousness from its introverted to its extroverted state. In its introverted state, it views itself alone, full of all things and yet beyond them, as they are nothing but consciousness itself. This is the state of the supreme perceiver, blissfully at rest in His own infinite, inexplicable nature. In the extroverted state, consciousness contracts to assume the form of the individual perceiver, who views the outer world as separate from himself. The act of arousal is the powerful impulse of consciousness which pulls it away, as it were, from its introverted to the extroverted state. The foundation of arousal is the fundamental identity of the inner and outer states of subject and object in the one unitary consciousness. This is not a static condition. On the contrary, it is the perpetual renewal of their oneness. The very moment a distinction between them as the object of desire and the one who desires it arises within consciousness, it is fulfilled. The repose of consciousness within itself is the foundation of the arousal that brings about this distinction. If this fundamental unity were not to exist, nothing would take place.
 
 287?\. Cf, above, 3/83 (83cd-84ab).
 
@@ -265,7 +265,7 @@ The Neuter Vowels Continued
 प्रकृतं ब्रूमहे नेदं बीजं वर्णचतुष्टयम् ।
 नापि योनिर्यतो नैतत्कनोभाधारत्वमृच्छति । ९१ ॥
 
-prakṛtarn brūmahe \[illegible\] bījaṁ varṇacatuṣṭayam |
+prakṛtaṁ brūmahe \[illegible\] bījaṁ varṇacatuṣṭayam |
 nāpi yonir yato naitat kṣobhādhāratvam rcchati ॥ 91 ॥ 
 
 We will (now return to) discussing the main point. This group of four letters (r R } Ḷ) is not the seed (of any further states within the vowel series), neither is it a matrix, because it is not considered to be a location of arousal. 91) 
@@ -329,7 +329,7 @@ is generated. Again, if the letter I (is mixed together) with the letter A, (we 
 
 He will say: 
 
-‘That same (power of the will) sullied by the object of knowledge (is again of two types), according to whether it obtains (its) object fleetingly (Sīghra) or is stable \[illegible\] and so when intent on a different (power from itself, i.e. A etc.), becomes (the letters) R and L.” 
+‘That same (power of the will) sullied by the object of knowledge (is again of two types), according to whether it obtains (its) object fleetingly (Sīghra) or is stable (sthira), and so when intent on a different (power from itself, i.e. A etc.), becomes (the letters) R and L.” 
 
 The Letter E as the Yoni 
 
@@ -360,7 +360,7 @@ The Absolute (A), which is the supreme vibration (spanda) (of consciousness), an
 
 #### Viveka on 3.93–94
 
-Those two letters, A and Ā, which are denoted by the words Anuttara and Ānanda, conjoined with the will and expansion, that is, the letters I and U, form phonemic combinations \[illegible\] in accord with the rule ādgunaḥ,"! and so from that ‘become wonderfully various’, that is, become the letters E and 0.12 that develop further as (other vowels), that differ from those that are being conjoined 1५. 
+Those two letters, A and Ā, which are denoted by the words Anuttara and Ānanda, conjoined with the will and expansion, that is, the letters I and U, form phonemic combinations (saṁdhi) in accord with the rule ādgunaḥ,"! and so from that ‘become wonderfully various’, that is, become the letters E and 0.12 that develop further as (other vowels), that differ from those that are being conjoined 1५. 
 
 Having explained in this way just the emergence of the letter E, summing up, he also defines its nature. 
 
@@ -409,7 +409,7 @@ Those who are outside (our tradition) similarly say, with the same intended (sen
 
 ‘That divine (reality) in the centre (of the Mandala), whose form is (that of) the letter E, is adorned with a hexagon (satkāra). It is the abode of all forms of pleasure, the casket of the jewels of awakened consciousness (bodha), 
 
-318\. This verse is found in the Ciñcinīmatasārasamuccaya (5/14cd-15ab), which is important Kubjikā Tantra. Ciñcinī is a common name of the goddess Kubjikā, who is the deity of the Ciñca, that is, the tamarind tree. The Ciñcinīkrama is the ‘sequence’ or liturgy of the mantras of the goddess \[illegible\] that are used to worship Her and through which she generates the universe. A basic form of Kubjikā’s mandala is indeed a triangle that represents the goddess’s womb (bhaga, yoni), from which the universe originates. This triangle, which is in the centre of the full Saṁvartāmandala of the goddess Kubjikā, is derived from the Trika triangle, which serves sometimes as a substitute for the Trika Trident. It was incorporated into the centre of Śrīcakra, and so all three traditions have the same to say about it (see Dyczkowski 2009, intro. vol. 1, 281 ff.). Although Jayaratha could not have been aware of the concrete historical continuity between these Triangles, their essential identity was clearly evident to him, and so he quoted these passages from Tantras of the two schools to suggest that. Cf. trikoṇnamandalaṁ pūjyaṁ śaktitrayasamanvitam | tanmadhye cetanar cintyarn liṅgaṁ vai paścimāmukham || ‘One should worship the Triangle mandala, which has the three powers (of will, knowledge and action), and think that consciousness (cetana) is in the centre of that. (This) indeed is the Liṅga that faces west.”\* \*\#This verse is cited below ad 5/122 (121). The source is most probably a Kubjikā Tantra, because the reference to the Yoni as a Liṅgam facing west is commonly found in those sources, whereas it is very rare elsewhere.
+318\. This verse is found in the Ciñcinīmatasārasamuccaya (5/14cd-15ab), which is important Kubjikā Tantra. Ciñcinī is a common name of the goddess Kubjikā, who is the deity of the Ciñca, that is, the tamarind tree. The Ciñcinīkrama is the ‘sequence’ or liturgy of the mantras of the goddess \[illegible\] that are used to worship Her and through which she generates the universe. A basic form of Kubjikā’s mandala is indeed a triangle that represents the goddess’s womb (bhaga, yoni), from which the universe originates. This triangle, which is in the centre of the full Saṁvartāmandala of the goddess Kubjikā, is derived from the Trika triangle, which serves sometimes as a substitute for the Trika Trident. It was incorporated into the centre of Śrīcakra, and so all three traditions have the same to say about it (see Dyczkowski 2009, intro. vol. 1, 281 ff.). Although Jayaratha could not have been aware of the concrete historical continuity between these Triangles, their essential identity was clearly evident to him, and so he quoted these passages from Tantras of the two schools to suggest that. Cf. trikoṇnamandalaṁ pūjyaṁ śaktitrayasamanvitam | tanmadhye cetanar cintyaṁ liṅgaṁ vai paścimāmukham || ‘One should worship the Triangle mandala, which has the three powers (of will, knowledge and action), and think that consciousness (cetana) is in the centre of that. (This) indeed is the Liṅga that faces west.”\* \*\#This verse is cited below ad 5/122 (121). The source is most probably a Kubjikā Tantra, because the reference to the Yoni as a Liṅgam facing west is commonly found in those sources, whereas it is very rare elsewhere.
 
 319\. \[illegible\] This configuration, a downward facing triangle enclosed by a hexagon, is a common one. Thus, we notice it, for example, at the core of Durgā’s Yantra, as well as that of Sūrya, the Sun. Even so, it seems likely that Jayaratha is quoting a verse from a Kubjikā Tantra which describes the centre of Kubjikā’s Saṁvartāmandala. The next letter — Al — is represented by a hexagon. Concerning the development of the Triangle to a hexagon, see the PTv (p. 79). There Abhinava explains that at the centre of the Triangle ‘the goddess is in the act of churning Bhairava Who is supreme bliss’, which thus generates the hexagon. This, the divine level, reflects the human level of practice in which the partners, identified with Siva and Śakti, are the two triangles. The former is the power of knowledge, the latter that of action. In the case of the deities, the dynamism (mudrā) of knowledge is internal and the dynamism of action is external. In the case of practice by Kaula adepts (vīra), it is the other way around (see Bäumer, 2011: 205-206). The triangular vowel E is the archetype within Siva consciousness of the matrix of consonants, which correspond to the outer principles ranging from Earth onwards, and the vowels of the seeds of inner Siva consciousness by which they are fertilized. Abhinava clearly implies in the following passage in the PTv that this union of Siva and Śakti is the inner process within consciousness corresponding to outer physical union. ‘The condensed state of consciousness, which although formless and (pure) consciousness alone, is the power of action. This, in accord with the aforestated principle, arises by the progression (krama) of the six energies (of A Ā I Ī U and \[illegible\] The five powers (A I U R and Ḷ) that have flowed forth (prasṛta) (to form the consonants (see below 3/150-153ab (149cd-152)), multiplied by six to make thirty, which, along with the six, make the thirty-six (metaphysical principles). Śiva’s seed \[illegible\] having condensed in this way by (the power of) its own freedom, abiding somewhere (in some inscrutable manner) in the (empowered) body of Śakti as the flower (of menses) (kusumātayā), is called the matrix (yoni). That same ‘flower’, in accord with the principle enunciated previously, is the triangle of the object of perception, perception (itself) and the perceiver (grāhyagrahanagrāhaka). (However), in actual fact, it is the plane of birth (prasūtipada) only when it is united with the seed, because it is only then that it is really (the fertilized) flower (of menses). At any other time, it is called (a ‘flower’) in this way, as its (potential) competence (to be so) (yogyatayaiva). In this way that flower, as the triangle, is the matrix (yoni). The Supreme Goddess Bhairavī, the venerable consort (mudrā), is the triangle which is divided (threefold) in a clearly evident manner as the object of perception and the rest, the Moon (of the object), the Sun (of the means of knowledge), and the Fire (of the subject), emanation, persistence and withdrawal, Idā, Piṅgalā and Suṣumnā, Dharma, Adharma and the mixture (śabala) (of the two) and so on. It is thus called the matrix (yoni) as it is the foundation (ādhāra) of the source (yoni) (of all things), which has this form (of a triangle) (tadrūpayonyādhāratayā). The same is taught in the Kubjikāmata (in the section) concerning khandacakra, that is predominantly dedicated to this subject. (There we read): ‘above Māyā is Mahāmāyā, which is the bliss of the triangle (trikonānanda).’ It is thus taught in the venerable Trikatantrasāra that the union of Siva and Śakti, which is the single condensed state of this kind of seed and flower, should be worshipped by ourselves (svayam) by means of our own self alone (svayam svātmanaiva). (There we read): ‘one whose nature is the dense (state of) Śiva and Śakti is so by virtue of the contemplative absorption (samāpatti) of Śiva and Śakti. He should worship the supreme triad which is (formed by) the union of Śiva and Śakti.’ PTv p. 183-184.
 
@@ -556,7 +556,7 @@ Surely (one may ask,) why should this Lord of Consciousness not manifest in a fi
 अस्थास्यदेकरूपेण वपुषा चेन्महे्वरः ।। १०० ॥
 महेशवरत्वं संवित्त्वं तदत्यक्ष्यट्घरादिवत् ।
 
-asthāsyad ekarūpena vapuṣā cen maheśvaraḥ ॥ 100 II maheśvaratvaṁ saṁvittvaṁ tad atyakṣyad ghaṭādivat | 
+asthāsyad ekarūpena vapuṣā cen maheśvaraḥ ॥ 100 ॥ maheśvaratvaṁ saṁvittvaṁ tad atyakṣyad ghaṭādivat | 
 
 If the Great Lord were to have a body of (but) one (fixed) form, he would have to give up His lordship and nature as consciousness and be (insentient,) like a (common) jar. (100cd-101ab) 
 
@@ -674,15 +674,15 @@ It is not only the Lord who has said here that by the penetration (samāveśa) o
 निरञ्जनमिदं चोक्तं गुरुभिस्तत्तवदर्शिभिः । १०५ ॥
 शक्तिमानञ्ज्यते यस्मान्न शक्तिजीतु केनचित् ।
 
-nirañjanam idar \[illegible\] gurubhis tattvadarśibhiḥ | 105 Il saktimān añjyate yasmān na Śaktir jātu kenacit | 
+nirañjanam idar coktaṁ gurubhis tattvadarśibhiḥ | 105 Il saktimān añjyate yasmān na Śaktir jātu kenacit | 
 
-And the masters who perceive the true nature of reality \[illegible\] call this the Stainless (nirañjana). This is because it is the possessor of power, who is ‘stained’ (añjyate) (that is, made manifest), while (His) power is (the cause of all manifestation and so) is never (‘stained’, that is, made manifest,) by anything. (105cd-106ab) 
+And the masters who perceive the true nature of reality (tattva) call this the Stainless (nirañjana). This is because it is the possessor of power, who is ‘stained’ (añjyate) (that is, made manifest), while (His) power is (the cause of all manifestation and so) is never (‘stained’, that is, made manifest,) by anything. (105cd-106ab) 
 
 #### Viveka on 3.105–106
 
 (The word) ‘and’ is out of sequence. Thus, (according to the intended) syntax (anvaya), (the sense is) ‘and it is called the Stainless’ (nirañjana), which is the fourteenth abode, characterized by the letter AU, because (as the Vijñānabhairava teaches): 
 
-342\. The power of action can operate in two ways, according to how we understand it to be ‘most evident’. One we have just mentioned, namely, that it is ‘most evident’ externally when it generates and sustains the energies that bind the souls attached to the world of the senses through their Karma. The other way is internal and is the very opposite. When in a state of balance \[illegible\] in which the positive effects of the energies reinforce each other, they are the pure state of consciousness. This is the way in which the power of action of consciousness is most evident to awakened yogis, that is, as the summation of the activity of the powers of the will, knowledge and action that operate in relation to objectivity, whether externally projected or, in this phase, internally. Entry into this pure, liberated state is purifying and liberating.
+342\. The power of action can operate in two ways, according to how we understand it to be ‘most evident’. One we have just mentioned, namely, that it is ‘most evident’ externally when it generates and sustains the energies that bind the souls attached to the world of the senses through their Karma. The other way is internal and is the very opposite. When in a state of balance (sāmya) in which the positive effects of the energies reinforce each other, they are the pure state of consciousness. This is the way in which the power of action of consciousness is most evident to awakened yogis, that is, as the summation of the activity of the powers of the will, knowledge and action that operate in relation to objectivity, whether externally projected or, in this phase, internally. Entry into this pure, liberated state is purifying and liberating.
 
 343\. MV 4/25b. The whole verse is quoted below ad 4/186cd-188ab (which is a paraphrase and explanation of it), ad 11/89, and along with the preceding verse, ad 16/221-222 (221cd-223ab). It is quoted by Abhinava himself in PTv p. 242. The verse explains how the four letters of SAUH, the seed-syllable of the goddess Parā, pervade the four Eggs which span the metaphysical principles from Earth to Śakti (see note to TĀv ad 4/186cd- 188ab). Jayaratha’s reference here serves to confirm that the Trident is the letter AU. The connection of SAUH with the Eggs is not relevant in this context. Indeed, it seems that Abhinava is not referring to this verse in the MV. However, there is no direct reference in the printed edition, which could be the one to which he refers. Moreover, it seems that it was not found in the manuscript(s) Jayaratha had before him.
 
@@ -767,7 +767,7 @@ The Eight Groups of Eight
 इत्थं परामृतपदादारभ्याष्टकमीदृशम् || १०९ ॥।
 ब्राहम्यादिरूपसंभेदाद्यात्यष्टष्टकतां स्फुटम् ।
 
-itthan parāmṛtapadād ārabhyāṣtakam īdṛśam ॥ 109 II brāhmyādirūpasambhedād yāty aṣtāṣtakatāṁi sphutam | 
+itthan parāmṛtapadād ārabhyāṣtakam īdṛśam ॥ 109 ॥ brāhmyādirūpasambhedād yāty aṣtāṣtakatāṁi sphutam | 
 
 In this way, this group of eight (vowels) which is such, starting from (those on) the plane of the Supreme Nectar (r R | L), by uniting with the (eight Mothers), Brāhmī and the rest, evidently becomes eight groups of eight. (109cd-110ab) (109) 
 
@@ -883,7 +883,7 @@ The Point (bindu) is the supreme Light (of Śiva consciousness) that makes (all 
 
 361\. These correspond to the three Trika goddesses, Parā, Parāparā and Aparā.
 
-362\. Read with MS T \[illegible\] gatarn for triṣu sthānagato.
+362\. Read with MS T \[illegible\] gataṁ for triṣu sthānagato.
 
 363\. There is no evidence that Jayaratha had access to the Tartvarakṣāvidhāna, otherwise one could suppose that this line is drawn from there.
 
@@ -960,7 +960,7 @@ This Light is inherently independent in itself of the wonderful diversity of ple
 
 ‘This’ supreme ‘Light’ does not in itself depend on ‘the wonderful diversity’, which is the pleasure (the Moon affords) and the (pain of) the sharp (rays) etc. associated with moon and the sun etc., and the (colours) white and red etc. It has no fixed (conditioned) form (niyatarūpa), and so (its) nature is not the same as (any of) that. Moreover, it is self-luminous, and so is not an object of that (Light's) illumination (prakāśya);, therefore, it is not the Sun (of the means of knowledge) etc., nor that which is illumined by them, rather its sole nature is the supreme subject who impels (and vitalizes) (anuprāṇaka) the three abodes of Sun (Moon and Fire). By the two ʻ\*etc.’s” (of the expressions ‘refreshment (the Moon affords) and the sharp (rays of the Sun) etc. or white and red etc.’), one should understand the burning (of fire) that arises from the various types of fuels and the multiple colours.” We are not the only ones to say this. The same is said by the Lord, that is, Vāsudeva (Kṛṣṇa). As (we read in the) Bhagavadgītā: 
 
-373\. In the hot summer months in India the moon at night is experienced as pleasantly cooling after a hot summer’s day. The moon’s light is said to give \[illegible\] that is, ‘refreshment’, ‘pleasure’, ‘gladness’, ‘joy’, or ‘delight’. Conversely, the hot summer sun is painful. Its rays are \[illegible\] that is, ‘sharp’, ‘hot’, or ‘fiery’. The third member of this group is fire which burns, which is signalled by the ‘etc.’. The colours white and red are emblematic of all colours, which are signalled by the ‘etc.”.
+373\. In the hot summer months in India the moon at night is experienced as pleasantly cooling after a hot summer’s day. The moon’s light is said to give ‘hlāda’, that is, ‘refreshment’, ‘pleasure’, ‘gladness’, ‘joy’, or ‘delight’. Conversely, the hot summer sun is painful. Its rays are \[illegible\] that is, ‘sharp’, ‘hot’, or ‘fiery’. The third member of this group is fire which burns, which is signalled by the ‘etc.’. The colours white and red are emblematic of all colours, which are signalled by the ‘etc.”.
 
 374\. Fire burns, so does fever and craving, and so all three are denoted by the same word in Sanskrit, i.e. ‘dāhaka’, that is, ‘(something that) burns’. Thus, ‘fire’ here stands for the craving that burns (dāhaka) with the fuel of the objects of craving (dāhya). Similarly, the moon represents the pleasure of the objects of the senses, whereas the blazing summer sun the suffering they can cause. Like the outer luminaries, their three counterparts light up, as it were, the world of individual experience with these three feelings. Raw physical sensations are the perceptions of the qualities of things, one may call their ‘varied colours’, illumined, as it were, by the feelings they evoke of pleasure, pain or attachment. Both these parallel series are made manifest by the Light of consciousness, which is not as they are, that is, objects of its illumination which are manifest contents of experience. The Light of consciousness illumines itself. It does not depend on another light, as they do, to manifest as consciousness. Nor does it have any fixed form.
 
@@ -982,7 +982,7 @@ This Light is inherently independent in itself of the wonderful diversity of ple
 
 yan na süryo na vā somo nāgnir bhāsayate ‘pi ca |
 na cārkasomavahnīnāṁ tatprakāśād vinā mahaḥ | 116 ॥
-kim apy asti nija kirn tu saṁvid itthan prakāśate | 
+kim apy asti nija kiṁ tu saṁvid itthan prakāśate | 
 
 (As Kṛṣnṇa has said in the Bhagavadgītā, there is a reality) that neither Sun, Moon nor Fire (can) illumine, nor do the Sun, Moon or Fire have any power of their own without its Light; rather, (the truth is that) consciousness shines in this way. (116-117ab) (115cd-116) 
 
@@ -1038,7 +1038,7 @@ Even (the blazing hot summer) sun (rīknāmśu) that troubles the eyes, when it 
 सूयीदिषु प्रकाशोऽसावुपाधिकटषीकृतः । ११९ ॥
 संवित््रकाशं माहेशमत एव ह्यपेक्षते ।
 
-süryādiṣu prakāśo ‘sāv upādhikaluṣīkṛtaḥ ॥ 119 II saṁvitprakāśaṁ māheśam ata eva hy apekṣate | 
+süryādiṣu prakāśo ‘sāv upādhikaluṣīkṛtaḥ ॥ 119 ॥ saṁvitprakāśaṁ māheśam ata eva hy apekṣate | 
 
 The light of the Sun and the rest is sullied (as it were) by the limiting adjuncts (upādhi) (created by the Lord). Thus, it depends on the Light of consciousness of the Great Lord. (119cd-120ab) (119) 
 
@@ -1058,14 +1058,14 @@ In this way also, he explains the nature (of the Sun, Moon and Fire) as they are
 प्रकाशमात्रं सुव्यक्त सर्य इत्युच्यते स्फुटम् । १२० ॥
 प्रकाश्यवस्तुसारांशवर्षि तत्सोम उच्यते ।
 
-prakāśamātraṁ suvyaktaṁ sūrya ity ucyate sphuṭam ॥ 120 I|
+prakāśamātraṁ suvyaktaṁ sūrya ity ucyate sphuṭam ॥ 120 ॥
 prakāśyavastusārāmśavarṣi tat soma ucyate | 
 
 The (pure) Light alone (prakāśamātra), well manifest and clearly apparent (sphuta), is said to be the Sun, while the Moon is said to be that which rains down the aspect of the illumined entities which are their (blissful) essence. (120cd-121ab) (120) 
 
 #### Viveka on 3.120
 
-(When one says that the Light of consciousness is) ‘well manifest’, it means that it is (essentially) unassociated (with limiting adjuncts) such as the watery substances and the rest (mentioned previously). The sense is that (the essential) nature \[illegible\] of the Sun is ‘the (pure) Light alone (prakāśamātra). Hence its state is that of the means of knowledge. That is the form (of consciousness the Sun) is meant to represent, namely, (pure) cognition (jñānamātra) alone which is ‘clearly apparent’, that is, witnessed (directly) by everybody. 
+(When one says that the Light of consciousness is) ‘well manifest’, it means that it is (essentially) unassociated (with limiting adjuncts) such as the watery substances and the rest (mentioned previously). The sense is that (the essential) nature (rūpa) of the Sun is ‘the (pure) Light alone (prakāśamātra). Hence its state is that of the means of knowledge. That is the form (of consciousness the Sun) is meant to represent, namely, (pure) cognition (jñānamātra) alone which is ‘clearly apparent’, that is, witnessed (directly) by everybody. 
 
 All objective entities that are illumined (by the Light of consciousness) consist of pleasure, pain and illusion, and so, with respect to (their) two aspects, (physical and experiential, their) ‘essence’ and most excellent ‘aspect’ is the bliss that brings joy and the like (that comes from the experience of objectivity as an aspect of the Light of consciousness). Thus, in accord with the saying ‘the Moon 
 
@@ -1103,7 +1103,7 @@ Having defined the nature of the Sun and Moon in this way, he (now) defines that
 anyonyam aviyuktau tau svatantrāv apy ubhau sthitau |
 bhoktṛbhogyobhayātmaitad anyonyonmukhatāṁ gatam | 122 ॥
 tato jvalanacidrūpar citrabhānuḥ prakīrtitaḥ |
-yo ‘yarn vahneḥ paraṁ tattvaḥ pramātur idam eva tat || 123 ॥ 
+yo ‘yarn vahneḥ paraṁ tattvaṁ pramātur idam eva tat || 123 ॥ 
 
 (Although) they are both independent, they are not separate from one another, and of the nature of the enjoyer, the object of enjoyment and both (together), they became intent on one another. Then the flaming conscious nature (which arises between them) is called Fire (citrabhānu, lit. ‘Many Rayed One’). This, the supreme principle of Fire, is indeed that of the 
 

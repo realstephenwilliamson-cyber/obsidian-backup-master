@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 110
 verses: 7
-page_range:
-  - 754
-  - 754
+page_range: "754"
 aliases:
   - "BCP Psalm 110"
   - "BCP 754"
@@ -39,7 +37,7 @@ like dew from the womb of the morning." ^110-3
 will smite kings in the day of his wrath; \*  
 he will rule over the nations. ^110-5
 
-[p. 754]
+[p. 754] ^pg754
 
 **110:6** He will heap high the corpses; \*  
 he will smash heads over the wide earth. ^110-6

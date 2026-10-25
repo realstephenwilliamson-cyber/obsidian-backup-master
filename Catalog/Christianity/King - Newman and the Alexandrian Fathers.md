@@ -17,8 +17,7 @@ language:
   - English
 pages: 308
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[King - Newman and the Alexandrian Fathers (OUP 2009).pdf]]"
   - "[[Library/Christianity/Newman and the Alexandrian Fathers (King)/Newman and the Alexandrian Fathers (King)]]"

@@ -4,7 +4,7 @@ book: "[[Zohar]]"
 order: 12
 page_range: 463–464
 ---
-[p. 463]
+[p. 463] ^pg463
 
 # Bibliography
 

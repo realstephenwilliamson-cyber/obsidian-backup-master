@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 71
 verses: 24
-page_range:
-  - 683
-  - 685
+page_range: "683–685"
 aliases:
   - "BCP Psalm 71"
   - "BCP 683"
@@ -59,7 +57,7 @@ and those who lie in wait for my life take counsel together. ^71-10
 go after him and seize him; \*  
 because there is none who will save." ^71-11
 
-[p. 684]
+[p. 684] ^pg684
 
 **71:12** O God, be not far from me; \*  
 come quickly to help me, O my God. ^71-12
@@ -95,7 +93,7 @@ and bring me up again from the deep places of the earth. ^71-20
 **71:21** You strengthen me more and more; \*  
 you enfold and comfort me, ^71-21
 
-[p. 685]
+[p. 685] ^pg685
 
 **71:22** Therefore I will praise you upon the lyre for your faithfulness, O my God; \*  
 I will sing to you with the harp, O Holy One of Israel. ^71-22

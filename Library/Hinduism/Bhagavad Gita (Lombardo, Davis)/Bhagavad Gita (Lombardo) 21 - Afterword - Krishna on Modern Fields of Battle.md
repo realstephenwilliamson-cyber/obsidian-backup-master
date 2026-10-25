@@ -4,7 +4,7 @@ book: "[[Bhagavad Gita (Lombardo, Davis)]]"
 order: 21
 page_range: "106–117"
 ---
-[p. 106]
+[p. 106] ^pg106
 
 AFTERWORD: KRISHNA ON MODERN FIELDS OF BATTLE
 

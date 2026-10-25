@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-auxiliary
 title: Rahasya Trayam — Prādhānika Rahasyam
+collection: "Devī Māhātmya"
 role: rahasya
 status: stub
 aliases:

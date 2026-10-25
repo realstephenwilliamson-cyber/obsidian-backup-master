@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 121
 verses: 8
-page_range:
-  - 779
-  - 779
+page_range: "779"
 aliases:
   - "BCP Psalm 121"
   - "BCP 779"

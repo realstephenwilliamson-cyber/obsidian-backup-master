@@ -174,7 +174,7 @@ Having given birth to one son, as if in order to announce the fame of the future
 
 ### Dyczkowski's verse 29
 
-Greedy for the dust of (her saintly husband’s) feet, (his widow) served the wise intelligence \[illegible\] that was bound to the ordinances of the fire offerings to the manes and gods, and (her) thought was great with good deeds accumulated by blameless conduct. By rivelling the radiant beauty of the nails (of his feet,) coming forth clearly (from them) white and clear, she was like the river of the gods. (29) 
+Greedy for the dust of (her saintly husband’s) feet, (his widow) served the wise intelligence (dhī) that was bound to the ordinances of the fire offerings to the manes and gods, and (her) thought was great with good deeds accumulated by blameless conduct. By rivelling the radiant beauty of the nails (of his feet,) coming forth clearly (from them) white and clear, she was like the river of the gods. (29) 
 
 ### Dyczkowski's verse 30
 
@@ -338,7 +338,7 @@ dandadariṣtre mahāpretā mahāmudrā khageśvarī || 2 ॥
 mahodayā karālā ca khaṭvāṁgamr sakapālakam |
 halar pāśāṁkuśam ghanṭā mudgarastriśikho ‘paraḥ ॥ 3 ॥
 āvāhasthāpanīrodhā dravyadā natireva ca |
-amṛtā yogamudreti \[illegible\] vīravandite ॥ 4 II 
+amṛtā yogamudreti \[illegible\] vīravandite ॥ 4 ॥ 
 
 (The gestures \[illegible\] Triśūla (the Trident) and Padma (the Lotus), Śakti (Power), Cakra (the Wheel) along with Vajra (the Thunderbolt), Danda (the Stick), Daṁṣṭra (the Fang), Mahāpretā (the Great Ghost), Mahāmudrā (the Great Gesture), Khageśvarī (the Skyfaring Goddess), Mahodayā (the Great Arising), Karālā (the Gapping Mouth and Protruding Teeth) and Khatvāṁga (the Ascetic’s Staff) along with Kapālaka (the Skull), Hala (the Plough), Pāśa (the Fetter), Aṅkuśa (the Elephant Gaud), \[illegible\] (the Bell), Mudgara (the Mallet), and Triśikha (the Three Tufts of Hair) is another. (The gesture made to) Aavaha 
 
@@ -453,7 +453,7 @@ The hands facing down, the wise man should lead (his) two feet up to the heart a
 
 Khageśvarī (the Skyfaring Goddess) 
 
-vaddhvā padmāsanari yogī nābhāv akṣeśvarari nyaset || 15 I|
+vaddhvā padmāsanari yogī nābhāv akṣeśvarari nyaset || 15 ||
 dandākārari tu tarn tāvan nayed yāvat kakhatrayam“ | 
 
 682?\. Read \[illegible\] for prītā.
@@ -716,13 +716,13 @@ The following is an extract from chapter eight of the Trika Tantra, the Tantrasa
 75b kh) evam ādyais tu (kh: -mādyaustu) paryāyaiḥ śaktir vācyā (k, kh, g: - vācyāh) pṛthak pṛthak |
 mudrāśaktir iti proktā mudritaṁ (kh: -ta) drāvayiṣyati ॥ 76 ॥
 tena mudrā samākhyātā devadevena śaṁbhunā (kh: -vā) |
-mudritaḥ gopitan proktarn cicchaktyāyāḥ (all: cichaktyāyā) svarūpiṇam (kh: - pakar) ॥ 77 ॥
+mudritaḥ gopitan proktaṁ cicchaktyāyāḥ (all: cichaktyāyā) svarūpiṇam (kh: - pakar) ॥ 77 ॥
 na (g: ?) jñāyate (k: jāyate; g: ?) varārohe sā māyā (k, kh, g: mayā kh: + sayā) samudāhṛtā |
 ajñānamalarūpeṇa yāvad baddhaḥ sa pudgalaḥ ॥ 78 ॥ 
 
 na jānāti parātmānar tāvan māyā (k, kh, g: yāyā) pravartate | 
 
-bhinne tamasi ekatvarn yadā paśyati mānavaḥ ॥ 79 ||
+bhinne tamasi ekatvaṁ yadā paśyati mānavaḥ ॥ 79 ||
 tadā sā tu parā proktā bandhamokṣakarī (kh: kari) priye | (g: ? 76 to 80ab unclear in MS G) 
 
 Śakti is denoted in this way by these and other such synonyms, each separately. She is said to be the power of Mudrā (mudrāśakti). Stamped (with that the world) will melt away. Thus, she is called Mudrā by Śambhu, the God of the gods. \`Sealed' is said to be what has been hidden which is the essential nature of the power of consciousness. Unknown, O fair lady, she is said to be Māyā. As long as the soul is bound by the impurity of ignorance,’ he does not know the Supreme Self and Māyā operates. If when the darkness has been rent asunder and a man sees oneness,‘ then, O beloved, (that power) is said to be Parā (the supreme) who binds and releases\* (bandhamokṣakarī) (16-80ab) 
@@ -732,10 +732,10 @@ tadā sā tu parā proktā bandhamokṣakarī (kh: kari) priye | (g: ? 76 to 80a
 ekā (kh: eka) sā paramā śaktiḥ (kh: sakti) saṁsthitā tu śivecchayā ॥ 80 ॥ (g: ?) mocayantī (k, kh, g: -yanti) grahādibhyaḥ pāśoghan (k, g: yāmogham) drāvayanti ca | (g: ?) 
 
 mocanād (k, kh, g: mocanā) drāvaṇād yasmān mudrākhyā (kh: -smāt-) sā śaktiḥ (k, g: śaktyaya; kh: śaktaya) smṛtā (k, kh, g: smṛtaḥ) ॥ 81 ॥
-gatimatyarthabhāvena khamārge caiva nityaśaḥ (g: -sah) |
-carate sarvajantūnāṁi khecarī tena sā smṛtā (k, kh, g: smṛtāḥ) II 82 ॥
+gatimatyarthabhāvena khamārge caiva nityaśaḥ (g: -saḥ) |
+carate sarvajantūnāṁi khecarī tena sā smṛtā (k, kh, g: smṛtāḥ) ॥ 82 ॥
 paratvenaikadhā (kh: nekadhā) jṁeyā punaś caiva dvidhā smṛtā |
-icchā (g: icchā) \[illegible\] (g: jñāna) tṛtīyā (g: \* \* \*?) tu (g: \*?) varnṇarūpā (g: \* \* \* \*?) upāgatā (g: \* \* \* \*?) |I 83 Il (k: ?) 
+icchā (g: icchā) \[illegible\] (g: jñāna) tṛtīyā (g: \* \* \*?) tu (g: \*?) varṇarūpā (g: \* \* \* \*?) upāgatā (g: \* \* \* \*?) || 83 || (k: ?) 
 
 695?\. KM 6/76-113ab is drawn di.rectly from the Tantrasadbhāva 8/76cd-113ab. The two versions have been compared. In places I adopt the reading in the KM although, the Tantrasadbhāva certainly precedes it.
 
@@ -758,10 +758,10 @@ That supreme power is one, established as Śiva’s will, liberating from (the n
 
 pañcāsadbhedasaṁbhinnā ekā evam udāhṛtā | (k: missing g: ?) 
 
-aṁśāvayavasampūrnṇā (kh: aṁisāva-) mālayitvā jagat sthitā) ॥ 84 ॥ (k, g: ?) 30a) nādiphāntasvarūpeṇa (kh: -phanta-; g: ?) tena (g: ?) sā (g: ?) malinī smṛtā (k, kh, g: smṛtāḥ) ।
+aṁśāvayavasampūrṇā (kh: aṁisāva-) mālayitvā jagat sthitā) ॥ 84 ॥ (k, g: ?) 30a) nādiphāntasvarūpeṇa (kh: -phanta-; g: ?) tena (g: ?) sā (g: ?) malinī smṛtā (k, kh, g: smṛtāḥ) ।
 saptakotyas tu mantrāṇām aprameyās tu ye smṛtāḥ ॥ 85 ॥
 svatantrasthās (k, g: svatanusthās) tu te sarve mudritāḥ parameśvari |
-76a kh) tena mudrā samākhyātā sadyahpratyayakārikā (k, kh: -kāh; g: pratyaya \* \* \*?) || 86 ॥ 
+76a kh) tena mudrā samākhyātā sadyahpratyayakārikā (k, kh: -kāḥ; g: pratyaya \* \* \*?) || 86 ॥ 
 
 Divided into fifty, she is said in this way to be one. Complete in all her limbs and parts, she abides in the form of (the alphabet) beginning with N and ending with PH having threaded together (mālayitvā) the universe. Thus, she is called Mālinī. O Supreme Goddess, the 70 billion mantras that are said to be without measure (in their extent and number). (They are each) in their own Tantra, all sealed (with Mudrā). Thus, she is called Mudrā and gives immediate realisation. (84-86) 
 
@@ -789,7 +789,7 @@ cāmundās tu smṛtāḥ (kh: smṛtās) sapta evar vai sapta saptasu | (g: ?)
 
 *[p. 287]* ^pg305
 
-ekonapañcāśatir devyo (k, g: -ti devyau) bhuvanāvalisaṁsthitāḥ (kh: -sam 1€51.[^702] 10) ॥ 91 II 
+ekonapañcāśatir devyo (k, g: -ti devyau) bhuvanāvalisaṁsthitāḥ (kh: -sam 1€51.[^702] 10) ॥ 91 ॥ 
 
 Her form, in terms of (her) limbs are the Mothers, each one located within her own limb. O fair faced lady, there is the limb that is Brāhmī, (so too) Raudrī, Kaumārī, Vaiṣṇavī, Yāmī, and Aindrā. O sinless one, she is Yogeśvarī s limb of Yoga. She is the leader (nāyikā) of (these), the Mistresses of Yoga (yogayogesT). These are said to be seven limbs and, again, they are in each group of seven. (88-89ab) 
 
@@ -814,7 +814,7 @@ Again, she who is the series of (Yoginīs) in the Sky (gaganāvalī) abides as m
 anavas tv aprameyās tu (k: abhāvastva-; g: ?) tatve tatve anekadhā |
 sūkṣmarūpās (k, g: sūkṣmā rūpā) tathā mudrā \[illegible\] sarṁkhyā na vidyate ॥ 95 ॥
 vyāpitaṁ tu samastaṁ (kh: -sta) hi mudre sūkṣmāntaraiḥ (kh: sūkṣmaparaiḥ; g: sūkṣmātaraiḥ) priye |
-evan mudrāḥ samākhyātā vyāpitvam aprameyataḥ (k: -tāh; g: vyāpi \* \* \* \*\* \*?) |196 Il 76b kh) ekā eva parā mudrā yasyedarn (k, kh, g: -haṁ) tiṣthate jagat | (g: ?) yari yar spṛśaty asāv aṁgaṁn sā sā mudrā vidhīyate ॥ 97 || (g: ?) 
+evan mudrāḥ samākhyātā vyāpitvam aprameyataḥ (k: -tāḥ; g: vyāpi \* \* \* \*\* \*?) |196 Il 76b kh) ekā eva parā mudrā yasyedaṁ (k, kh, g: -haṁ) tiṣthate jagat | (g: ?) yari yar spṛśaty asāv aṁgaṁn sā sā mudrā vidhīyate ॥ 97 || (g: ?) 
 
 [^702]: \[illegible\] We note, by the way, that Abhinava must have observed that the scriptures he considered to be the most elevated taught of the existence of hoards of Yoginīs. Although he does, of course, refer to yoginīs and their worship, he does not stress their immense numbers and forms as do his scriptures that refer to them repeatedly, extensively, with great imagination. They are a primary feature of the Tantras of the Vidyāpītha, so too of the Mudrāpītha, if we accept that the Kubjikā Tantras also belonged to that group of scriptures as well as to the Vidyāpītha. Apart from the two chapters at the end of the Svacchanda that appear to be later additions, they hardly appear in the Svacchanda, although the Mothers, are well known to it and integral to the entourage of Svacchanda Bhairava. Kṣemarāja stresses their association with the letters of the alphabet. He cites the Tantrasadbhāva about this in his commentary on the Śivasūtra.
 
@@ -826,22 +826,22 @@ The individual souls are without measure (that is, innumerable) in each one of t
 
 ### Dyczkowski's verse 98-101ab
 
-nṛtyaḥ calan (k, g: vala; kh: \[illegible\] tathā hāsyaṁ nagnatvarn (k, g: nanagna; kh: nagnatvā) lamghanarm (kh: laghana) ca yat |
-romodgamar (kh: romodbhava) tathā cānyar rodanarn sphoṭam eva ca ॥ 98 ॥
+nṛtyaḥ calan (k, g: vala; kh: \[illegible\] tathā hāsyaṁ nagnatvaṁ (k, g: nanagna; kh: nagnatvā) lamghanarm (kh: laghana) ca yat |
+romodgamar (kh: romodbhava) tathā cānyar rodanaṁ sphoṭam eva ca ॥ 98 ॥
 yari vikārari prakurvanti tat sarva mudrasaṁjñitam |
-aṅgulyā (k, kh, g: -\$) caṁganā proktā aṁge carati nityaśaḥ (g: -sah) ॥ 99 ॥
+aṅgulyā (k, kh, g: -\$) caṁganā proktā aṁge carati nityaśaḥ (g: -saḥ) ॥ 99 ॥
 aṅgulyās tena uddiṣtā mudrābandhe varānane (g: va + \* \*?) |
-karn śarīram (k, g: śavīram; kh: śarīras) iti khyātaṁ nyastās tatra pravartate \\|
+kaṁ śarīram (k, g: śavīram; kh: śarīras) iti khyātaṁ nyastās tatra pravartate \\|
 100 Il (g: ?) 
 
 helāgamanamārgena (kh: -na) tena nāmā kanīyasī (k: varīyasī > kh: vanīyasī) |
 (8: 2) 
 
-Dance, motion, humour, nudity, jumping, horripilation, weeping, outbursts ~ whatever alteration they bring about (in the body), it is all called mudrā. And the finger (aṁgulyā) is said to be the woman (aṁganā) (Kuṇqalinī (?)) who moves constantly in the body \[illegible\] Thus, O fair faced lady, (the positioning of) the fingers are taught when making a mudrā.” ‘Ka’ is said to be the body. (The fingers) placed there, (mudrā) operates by the path of amorous dalliance (helāgamana). Thus (kanīyasī, the little finger) is called the \`lowest' (kanīyasī). (98-101ab) 
+Dance, motion, humour, nudity, jumping, horripilation, weeping, outbursts ~ whatever alteration they bring about (in the body), it is all called mudrā. And the finger (aṁgulyā) is said to be the woman (aṁganā) (Kuṇqalinī (?)) who moves constantly in the body (aṅga). Thus, O fair faced lady, (the positioning of) the fingers are taught when making a mudrā.” ‘Ka’ is said to be the body. (The fingers) placed there, (mudrā) operates by the path of amorous dalliance (helāgamana). Thus (kanīyasī, the little finger) is called the \`lowest' (kanīyasī). (98-101ab) 
 
 ### Dyczkowski's verse 101cd-102ab
 
-anāmā (g:?) nāmarahitā (g: ?rahitā) koṭidhā (kh: -dho) sarńłvyavasthitā (k, kh, 8: -tāh) ॥ 101 1I nāmar na śakyate (g: sakṛte) kartu (KM: vaktum, kh: karta) anāmā tena gīyate |
+anāmā (g:?) nāmarahitā (g: ?rahitā) koṭidhā (kh: -dho) sarńłvyavasthitā (k, kh, 8: -tāḥ) ॥ 101 1I nāmar na śakyate (g: sakṛte) kartu (KM: vaktum, kh: karta) anāmā tena gīyate |
 madhye pravartate nitya āśrayā pudgalasya tu ॥ 102 ॥
 tatrādhārād (k, kh, g: -ro) vrajed ūrddhvaṁi punar āgamanami priye | 
 
@@ -890,11 +890,11 @@ Day (AHA) is said to be the upward motion (of prāṇa) and STAU, (the downward 
 
 #### Viveka on Dyczkowski's verse 106cd-108ab
 
-vāmavyāptari jagat (kh: gajat) kṛtsnarn \[7411 jñātaṁ tadā priye ॥ 108 ॥
+vāmavyāptari jagat (kh: gajat) kṛtsnaṁ \[7411 jñātaṁ tadā priye ॥ 108 ॥
 saṁyogena varārohe ātmakundalinī (k, g: -mundalinī) tu sā |
 etat sārar parā (k, g: parar; kh: para) yoniḥ yonīnām (kh, g: -nā) yonir uttamā ॥ 109 ॥
 yo jñāyati varārohe śaktir ādyā (g: sa-) manonmanī (kh: -manotmanī) |
-tena jñātaṁ (k, g: jñānamn) jagat sarvan (g: ?) avarnaṁ (k, kh: avarnṇa; g: ?) varṇavarjitam (kh: varnā-) ॥ 110 ॥
+tena jñātaṁ (k, g: jñānamn) jagat sarvan (g: ?) avarnaṁ (k, kh: avarṇa; g: ?) varṇavarjitam (kh: varnā-) ॥ 110 ॥
 42a g) sā tu mudrā samākhyātā viśvavyāptikarā parā | 
 
 The universe is pervaded by the left. Once known (that), then, O beloved, everything is known.’ O fair lady, by conjoining (the two), that (mudrā becomes) the Kundalinī of the Self. This is the essence, the supreme womb (yoni), the most excellent womb (yoni) of the wombs (yoni). O fair lady, he who knows the first (and foremost) Śakti, that is, Mind beyond Mind (manonmanī), has known the entire universe. (It is) the letter A devoid of 
@@ -903,7 +903,7 @@ The universe is pervaded by the left. Once known (that), then, O beloved, everyt
 
 706?\. Lines 107 to 108 illegible in MS g.
 
-707?\. 107cd reads: vāmāvyāptaṁ jagat kṛtsnarn saṁārāntaṁ tadā priye “The entire universe is pervaded by Vāmā then, O beloved, it is the end of withdrawal.”
+707?\. 107cd reads: vāmāvyāptaṁ jagat kṛtsnaṁ saṁārāntaṁ tadā priye “The entire universe is pervaded by Vāmā then, O beloved, it is the end of withdrawal.”
 
 
 *[p. 290]* ^pg308
@@ -982,7 +982,7 @@ Bhairavī is said to be the seal that, having filled the spectacle of duality ge
 
 The Śāktasiddhas, free of defects, are rightly said to be (those who) reside in the abode devoid of limitations (graha) they, luminous and supremely powerful (fīkṣṇatama), are intent on destroying the most subtle energies said to 
 
-711?\. MNP (by Arnasimha) verses 86-106
+711?\. MNP (by Arṇasimha) verses 86-106
 
 
 *[p. 292]* ^pg310
@@ -1087,7 +1087,7 @@ Bhairavī
 
 Bhairavī is (perfectly) full consciousness (that is such) by virtue of the simultaneous (awareness) of interiority (within subjectivity) and externality (within objectivity). As (is said in the Cidgaganacandrikā): 
 
-0 \[illegible\] there are also six knots. She who sustains them is the plane of the Sky of Consciousness, free of obscuring coverings. You, O Bhairavī, who splits apart all things (from one another), are the clutter (and deceat) of duality sustained by (the power of action) the form of which is the pulse (of consciousness) (spandamūrti). 
+0 Umā, there are also six knots. She who sustains them is the plane of the Sky of Consciousness, free of obscuring coverings. You, O Bhairavī, who splits apart all things (from one another), are the clutter (and deceat) of duality sustained by (the power of action) the form of which is the pulse (of consciousness) (spandamūrti). 
 
 And this is that in which we delight very much for that (state, at once internal and external) befits the oneness of the two (forms of) absorption (samādhi), that is, with the eyes closed and the eyes open. 
 
@@ -1103,13 +1103,13 @@ The gaze is fixed and is the support of the outer object. Although free of thoug
 
 I have also said in the venerable Parāstotra: 
 
-[^715]: yathā śrīmahānayaprakāśe - mahāmelāpadharminyah kraundalyunmeṣavigrahāḥ | nirāvaraṇacidvyomadhāmasthā bhānti nityaśaḥ ॥ Āāpūrya svabalodrekasamutthai bhedadambaram | yā sthitā pūrṇavibhavā nirāvaraṇavigrahā || bhairavī saiva vikhyātā mudrā sadasadujjhitā | nistaraṁgavikāsātmasāmarasyaikapālinī ॥ \[illegible\] melāpasiddhānār devīnāṁ mudritā sadā | mu(dri?dre)jneyarn dvidhā bhāsamudreyaṁ bhairavātmikā || iti | This passage is not drawn from the Mahānayaprakāśa by Arṇasiṁha (see appendix to chapter four for the complete text). it corresponds to verses 90cd-95 of the MNP (T). Each group of five Siddhas is in its own state corresponding to one of the five Mudraas.
+[^715]: yathā śrīmahānayaprakāśe - mahāmelāpadharminyah kraundalyunmeṣavigrahāḥ | nirāvaraṇacidvyomadhāmasthā bhānti nityaśaḥ ॥ Āāpūrya svabalodrekasamutthai bhedadambaram | yā sthitā pūrṇavibhavā nirāvaraṇavigrahā || bhairavī saiva vikhyātā mudrā sadasadujjhitā | nistaraṁgavikāsātmasāmarasyaikapālinī ॥ \[illegible\] melāpasiddhānār devīnāṁ mudritā sadā | mu(dri?dre)jneyaṁ dvidhā bhāsamudreyaṁ bhairavātmikā || iti | This passage is not drawn from the Mahānayaprakāśa by Arṇasiṁha (see appendix to chapter four for the complete text). it corresponds to verses 90cd-95 of the MNP (T). Each group of five Siddhas is in its own state corresponding to one of the five Mudraas.
 
 *[p. 296]* ^pg314
 
 APPENDIX D TO CHAPTER THIRTY-TWO 
 
-Having heated intensely the Earth with the hot, stainless (rays) that have unfolded from the eyes from (the state) which is the dawning of bliss without limits whose sole touch (spar”sa) is (contact) with the Inner Place, She, who the wise man contemplates above (in the Sky of Consciousness), for there to be the festival of the unfolding perception of full (and perfect) subjectivity (pūrnṇāhamprathana) is that certain (inscrutable reality) that is said to be You, the inconceivable accomplishment — the great immobile Mudrā!\* 
+Having heated intensely the Earth with the hot, stainless (rays) that have unfolded from the eyes from (the state) which is the dawning of bliss without limits whose sole touch (spar”sa) is (contact) with the Inner Place, She, who the wise man contemplates above (in the Sky of Consciousness), for there to be the festival of the unfolding perception of full (and perfect) subjectivity (pūrṇāhamprathana) is that certain (inscrutable reality) that is said to be You, the inconceivable accomplishment — the great immobile Mudrā!\* 
 
 Lelihānā 
 
@@ -1150,7 +1150,7 @@ mattagandhan samāhṛtya pāpaśūla \[kh, g: yāvacchūlai\] vinihsṛtam \[kh
 
 vini-\] 
 
-Il 171 ॥
+॥ 171 ॥
 trinādicaru(?)yogena \[kh, g: -vaddhayogena\] triśūla dvādaśāntagam |
 jvalajjvalanasaṁkāśaṁi sphuliṅgānekasaṁṁkulam \[g: spuligā-\] ॥ 172 ॥
 cintayiṣa \[kh, g: cintayitvā + karau samyaganyonyaḥ śleṣa\] yojitaḥ \[k: yojanaiḥ; g: (?)\] | 
@@ -1178,7 +1178,7 @@ dṛśyate sarvalokeṣu yaś cāsau \[kh: yathāsau\] parameśvara \[kh: -rah\]
 13a) anayā baddhayā devī dāvyo dāmarikās tathā ॥ 176 ॥
 khecaryo nakracu(?)ṣpāś \[kh: cūnyāś\] ca lāmā bhūcarya eva ca |
 te sthitā gatadarpāś ca mohitās tā bhavanti hi || 177 ॥
-mahocchūṣmādayaḥ sarvā vaśe tiṣthanti tasya \[kh: tasma\] tāh |
+mahocchūṣmādayaḥ sarvā vaśe tiṣthanti tasya \[kh: tasma\] tāḥ |
 eṣā sarvottamā mudrā \[k: \* \*\] triśūlākhyā prakīrtitā ॥ 178 ॥
 iti jayadrathe triśūlamudrāvidhiḥ \[kh: \* śūlamudrā + \*\] || 
 
@@ -1198,7 +1198,7 @@ ataḥ parar pravakṣyāmi sarahasyań mahadbhutam |
 yan na kasyacid ākhyātarni \[illegible\] \* \*(?)khyātaṁ\] tad adya kathayāmy aham ॥ 572
 ॥
 40b g) yena samyag adhītena bhairaveva bhaven naraḥ |
-vedhayet sarvam akhilarn jagad etac carācaram \[g: -carācaram\] ॥ 573 ॥
+vedhayet sarvam akhilaṁ jagad etac carācaram \[g: -carācaram\] ॥ 573 ॥
 tatrādau \[kh: tavādau; g: tatrā \*(?)\] \[illegible\] śreṣthā tām śṛnuṣva nagātmaje |
 madirānandacaitanyaḥ sadhūpāmodamoditaḥ \[g: + dhūpā-\] ॥ 574 ॥
 supuṣpitasutāṁmvūlaś candanāgurucarcitaḥ |
@@ -1240,7 +1240,7 @@ Lelihānāmudrā
 athātaḥ saṁpravakṣyāmi ghorāmṁ \[kh: ghorā\] mudrām \[kh: mudrā\] bhayānakī ||
 587 II lelihānābhidhāneti sarvadāveśakārikā |
 yasyā bandhanamātreṇa bhaved romodgamasphutam \[kh: romodgamaṁ-\] ॥
-588 II kampate pindam atularn śivārāvārm \[k, kh, g: -vāh\] kariṣyati \\ mahāhāsyaṁ ca geyari ca nartanaṁ valganari tathā ॥ 589 ॥
+588 II kampate pindam atulaṁ śivārāvārm \[k, kh, g: -vāḥ\] kariṣyati \\ mahāhāsyaṁ ca geyari ca nartanaṁ valganari tathā ॥ 589 ॥
 sarvacakravikāsar ca jāyate bandhamātrataḥ |
 tac chṛnuṣva samāsena sādhakānāri hitāya vai ॥ 590 ॥ 
 
@@ -1318,7 +1318,7 @@ citibhasmoddhūlitātmā śavayajñopavītikaḥ \\ bandhen mudrām ghoratarām 
 soṣayeta balād gātra bāhū ardhanikuñcitau ॥ 618 ॥
 savismayagatau hastau nayane koṭare punaḥ |
 bhrāmayeta sakṛd vaktrari naden \[g: narder\] nādaṁ subhairavam ॥ 619 ॥
-vikāśayed granthikularn kramavyutkramayogataḥ | 
+vikāśayed granthikulaṁ kramavyutkramayogataḥ | 
 
 Having gone to Hara’s fearsome abode, exaulted by the bliss of wine, observing the vow of a great hero, adorned with (the bones of) a great skeleton, his soul covered with the ashes of the power of consciousness (citi), wearing a sacred thread made from (the hair of) a corpse, (the adept) should make the most fearsome mudrā, intent on devouring the causes (of worldly existence) (karana). Engaged in the process of licking up (the worlds) and then standing again, the right knee advanced and the left leg drawn back (pratyālīdha), he should dry out the body with force. The two arms half bent, his hands (expressing his sense of) astonishment and his eyes again looking severe, he should move his face around and produce a beautiful and fearful sound (subhairava). He should expand out (and burst apart) the mass of knots by (practicing the movement of the breath) sequentially and out of sequence. (616-620ab) 
 
@@ -1329,7 +1329,7 @@ Having gone to Hara’s fearsome abode, exaulted by the bliss of wine, observing
 
 *[p. 302]* ^pg320
 
-mahādhāmakulārūdho jagad etad grasaṁ iva |l 620 ॥
+mahādhāmakulārūdho jagad etad grasaṁ iva ॥ 620 ॥
 vamaty \[k, kh: vamety; g: vamertya-\] avalihet \[k, g: avellihet; kh:evellihe\] sarvar \[k: sarvad, kh, g: bhaved\] graset sarvamalaṁ priye |
 pūrvavīryasamārūdho bandhen mudrām mahāprabhām || 621 ॥
 anayā baddhayā devi trailokyai bhasmasād vrajet |
@@ -1341,7 +1341,7 @@ sa ca bhairavanātho ‘sau bhavaty eva na cādbhutam |
 sarvakarmakarī 
 
 jñeyā sarvasaṁārakārikā |
-mahākṣobhakarī jñṁñeyā na bandhet samaya vinā I| 625 ॥
+mahākṣobhakarī jñṁñeyā na bandhet samaya vinā ॥ 625 ॥
 sarahasyā tavākhyātā \[k: bhavā-\] gopanīyā prayatnataḥ |
 iti jayadrathe karaṁkiṇīmudrābandhaḥ | 
 
@@ -1353,7 +1353,7 @@ Khecarīmudrā
 
 adhunā saṁmpravakṣyāmi sarvakarmakarī śivām \[kh, g: śivā\] ॥ 626 ॥
 khecarī nāma yā mudrā sarvatantreṣu gopitā |
-31b kh) yayā khecaratāṁ yāti sādhako \[k: -ke, kh, g: -karn\] vīravandite ॥ 627 ॥
+31b kh) yayā khecaratāṁ yāti sādhako \[k: -ke, kh, g: -kaṁ\] vīravandite ॥ 627 ॥
 guruvaktrasthitā nitya yoginīhṛdaye sthitā |
 yayāpy eva na śocanti sādhakāḥ \[k: -kā\] siddhikārikṣiṇaḥ \[g: sirddhi-\] ॥ 628 ॥
 yasyā bandhanamātrenṇa khecaraiḥ saha modate |
@@ -1373,14 +1373,14 @@ pañcāmṛtaviliptar tu sudhūpāmodavāsitam |
 madirānandacaitanyar kṛtapūjāvidhikramaḥ ॥ 631 ॥
 svadeham arcayed devī yathā devī karaṅkinī |
 paścāt svarūparūpastho cittabhāsāvalokakaḥ ॥ 632 I|
-triśūlacakre samirūdho \[k: su-\] mamidalarn cānukalpayet |
+triśūlacakre samirūdho \[k: su-\] mamidalaṁ cānukalpayet |
 44a g) satya tad \[illegible\] \[illegible\] \[g: tadūrddhegaṁ\] kāryaṁ hastenāṁguṣtham ākramāt \[kh: hasta-\] ॥ 633 ॥ 
 
 Having made a beautiful place strewn with flowers and smeared with the five nectars, fumagated with the fragrence of fine incense, (one’s) consciousness (joyful) with the bliss of wine and performed the liturgy according to the procedure (by which the deity is) worshipped, he should, O goddess, 1 worship his own body as the goddess Karaṁkiṇī. After that, established in his own nature, viewing the light of (his own) mind, mounted on the Wheel of the Trident, he should fashion the mandala. In truth, it should made to face upwards by covering the thumb with the hand. 
 
 36a) vāmapādaṁ tadvad eva gudayantraniveśitam \[kh, g: -tāmi\] |
-ūrdhvavaktro viśālākṣo hāsyavaktro \[kh: -vakreṇa\] naded \[k: nahed; kh: pad; 8: nahed\] bhṛśam ॥ 634 II aṣtadhātu mahānādami śūlari \[k, kh, g: -le\] prekhatprayogataḥ |
-prerayet cārgalān \[k, kh: kārgalā g: kārgalāṁ\] tān tān \[k, kh, g: tad\] yāvad vāmā susaṁsthitā \[k, g: stu; k, kh, g: -tah ॥ 635 ॥
+ūrdhvavaktro viśālākṣo hāsyavaktro \[kh: -vakreṇa\] naded \[k: nahed; kh: pad; 8: nahed\] bhṛśam ॥ 634 ॥ aṣtadhātu mahānādami śūlari \[k, kh, g: -le\] prekhatprayogataḥ |
+prerayet cārgalān \[k, kh: kārgalā g: kārgalāṁ\] tān tān \[k, kh, g: tad\] yāvad vāmā susaṁsthitā \[k, g: stu; k, kh, g: -taḥ ॥ 635 ॥
 tatrārūdhaṁ plaved devi praharāt khecarīpadam |
 eṣā devi tavākhyātā mudrā nāmnā tu khecarī ॥ 636 ॥ 
 
@@ -1447,10 +1447,10 @@ palālipūrnaḥ sānando \[kh: (?)\] vinā yāgaṁ na darśayet ॥ 652 ॥
 śmaśāne \[kh: -nań\] bandhayed vīro vedimadhye vyavasthitaḥ |
 37a) praharārdhāt khecaro ‘sau sādhakendro bhaviṣyati I| 653 ॥
 sarvaiśvaryasamāyukto yathā bhairavanāyakaḥ |
-sakṛt svarūpalābhaṁ syād baddhā paśyati yo naraḥ Il 654 ॥
+sakṛt svarūpalābhaṁ syād baddhā paśyati yo naraḥ ॥ 654 ॥
 silāfarīro ‘pi sadā samayācāralopakaḥ |
 mudrasyā \[k, kh, g: mudresyā\] darśanād devi svarūpastho bhaviṣyati ॥ 655 ॥
-anayā rahitaṁ \[kh: -tah\] sarvan bhiravāśeṣavistaram \[kh: bhairavā \* \* \* \* \*(?)J1 nirjīvaṁtaṁ samākhyātaṁ nātra kāryā vicāranṇā || 656 ॥
+anayā rahitaṁ \[kh: -taḥ\] sarvan bhiravāśeṣavistaram \[kh: bhairavā \* \* \* \* \*(?)J1 nirjīvaṁtaṁ samākhyātaṁ nātra kāryā vicāranṇā || 656 ॥
 sarvatantreṣu sāmānyā vidyāpīthe tathaiva hi |
 na prakāśyā maheśāni śiṣye mandaparīkṣite ॥ 657 ॥
 mudrārājñā 
@@ -1483,7 +1483,7 @@ Sarvātmakacakra according to chapter five of the Tantrasadbhāva'
 mantranyāsaṁ (k, kh: madyanyāsaṁ) tataḥ kuryād bījair dvādaśabhedataḥ (bījaidvādasa-) |
 sve sve varnādhikāreṇa parāyāstu (kh: parāyastu) yathākramam || 11 ॥
 dīrghāstu yoginī jṁeyā hrasvā rudrāḥ prakalpayet |
-dale dale tu dātavyo rudraṣaṭko varānane || 12 |I (; g: ?) 
+dale dale tu dātavyo rudraṣaṭko varānane || 12 || (; g: ?) 
 
 taducchagagatā devya ṣatṭkā yuktāni yogataḥ | (g: 2) 
 
@@ -1503,10 +1503,10 @@ catuṣke tu nyased (kh:
 
 nyase) devi napuṁsakaganaṁ śubham |
 aṣṭāre tu (g: ?) yakārādyāḥ (g: ?) prāṇāntā (g: \* \*?ntā) yāvad eva hi ॥ 15 ॥
-26a g) dvādaśāre kalāḥ (k, kh, g: kalā) nyasya dvādaśaḥ (kh: -śa; -sah) parisamkhyayā |
+26a g) dvādaśāre kalāḥ (k, kh, g: kalā) nyasya dvādaśaḥ (kh: -śa; -saḥ) parisamkhyayā |
 sodaśair vā yathā nyasya nādyādhārāḥ (kh: -dharā; g: dhārās) subhekṣane (kh: su-) || 16 ॥
 sparśākhyaṁ (kh, g: -khyā) tu tato dadyād dvātrimśaddalamadhyataḥ (kh:dvā \* \* # \* dala-; g: -sadala-) |
-eva nyāsastu kartavyo (g: karttavyā) bāhyācaraṇagaḥ (kh: -ga; & ~ caratyāgaḥ) priye ॥ 17 Il 
+eva nyāsastu kartavyo (g: karttavyā) bāhyācaraṇagaḥ (kh: -ga; & ~ caratyāgaḥ) priye ॥ 17 ॥ 
 
 I will tell (you) their deposition. Listen to the sure (and certain) teaching concerning the procedure. O goddess, on the group of four (petals of the central lotus), one should deposit the auspicious group of (four) neuter (vowels) (i.e., T R | L). On the (wheel of) eight spokes the (semivowels) begining with Y and ending with te aspirate H. On the one with twelve spokes the energies numbering twelve (of the twelve vowels). O lady with the auspicious gaze, (the following wheel) is depositied with the sixteen (vowels) that are the foundations beginning with A. Then one should add those called consonants in the middle of the thirty-two petalled (lotus) (i.e., K to S). O beloved, one should perform the external deposition in this way. (14cd-17) 
 
@@ -1524,14 +1524,14 @@ APPENDIX A TO CHAPTER THIRTY-THREE
 karnikāyāṁ (kh: -yā) nyased devan ruruńi sarvātmakaṁ śubham (kh: śubha; g: subha) |
 tryakṣaḥ daśabhujaḥ (k, g: bhujām; kh: -bhujā) bhīmamṁ padmahastaṁ trilocanam || 18 ॥
 jatājūtadharari (k, kh, g: -paraṁ) devan śaśāṁkami kṛtam ūrddhvajam (k, kh, g: kita-) |
-prottuṁgena (kh: proktaṁgena; g: prokturn-) lalāṭena (kh: -te \*) nāsāvaṁśena sobhitam (kh: \* - tā) ॥ 19 ॥
-itthań rūpaṁ sadā dhyeyarn karṇikāntargatari vibhum | 
+prottuṁgena (kh: proktaṁgena; g: proktuṁ-) lalāṭena (kh: -te \*) nāsāvaṁśena sobhitam (kh: \* - tā) ॥ 19 ॥
+itthań rūpaṁ sadā dhyeyaṁ karṇikāntargatari vibhum | 
 
 The auspicious Ruru who is all things (sarvātmaka) is in the calix. He has three eyes, ten arms, he is fierce, holds a lotus and has three eyes. He wears dredlocks. He is the god who has placed the Moon on his hair. He has a high forehead and is adorned by (his) beautiful nose. One should always meditate on the pervasive Lord in this form within the calix (of the lotus). (18-20ab) 
 
 ### Dyczkowski's verse 20cd-22ab
 
-tasyordhvagagatā (k: -gato; kh: tasyocchagagato; g: tasyoccharn-) devī (k, kh, g: devir) nādiphāntasvarūpinī (k, kh, g: -hāntasvarūpinīm) ॥ 20 ॥
+tasyordhvagagatā (k: -gato; kh: tasyocchagagato; g: tasyocchaṁ-) devī (k, kh, g: devir) nādiphāntasvarūpinī (k, kh, g: -hāntasvarūpinīm) ॥ 20 ॥
 sarvāvayavasariyuktā (k: sarvo- -yuktāṁ; kh: sarvo \* \* \* ?saṁmyuktām; g: - 
 
 yuktām) krīdayantī mahādyutiḥ (k, g: -ti; kh: -11071/ |
@@ -1547,7 +1547,7 @@ jayā ca vijayā caiva gokarnī ca mahābalā |
 catuṣke vinyased devi yogeśvaryo mahābalaḥ || 23 ॥
 47a kh) baliś ca balinandaś ca daśagrīvo haro hayaḥ |
 mādhavaś ca samākhyāto mahābala parākramaḥ || 24 ||
-viśvā (kh: vimvā) viśveśvarī (kh: vimveru?rī) caiva hāraudrī vīranāyikā (k, g: ~ ke)\\ ambā pūrveti nāmāni yoginyas tv ambharodbhavā I| 25 ॥
+viśvā (kh: vimvā) viśveśvarī (kh: vimveru?rī) caiva hāraudrī vīranāyikā (k, g: ~ ke)\\ ambā pūrveti nāmāni yoginyas tv ambharodbhavā ॥ 25 ॥
 pūjyāḥ 
 
 (k 

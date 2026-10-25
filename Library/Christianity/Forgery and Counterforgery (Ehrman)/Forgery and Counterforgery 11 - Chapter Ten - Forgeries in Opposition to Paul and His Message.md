@@ -6,7 +6,7 @@ page_range: "283–322"
 ---
 [[Forgery and Counterforgery 10 - Chapter Nine - Forgeries in Support of Paul and His Apostolic Mission|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 12 - Chapter Eleven - Anti-Jewish Forgeries|next →]]
 
-[p. 283]
+[p. 283] ^pg283
 
 ## Chapter Ten: Forgeries in Opposition to Paul and His Message
 
@@ -116,7 +116,7 @@ One obvious solution, and the one most frequently suggested, is that James simpl
 
 James is not attacking the position of Paul himself, as scholars have reconstructed him today on the basis of the undisputed letters.[^23] But he does seem to be attacking a position that could be read out of the Deutero-Pauline epistles. Or to put it differently, the author of James is reading Paul—either the Pauline letters themselves (Gal. 2:16; Rom. 3:28, 4:2), or Pauline traditions circulating orally, based on those letters—through the lens provided by later Paulinists, as evidenced in the Deutero-Pauline letters. If he actually had access to literary forms of the later Pauline tradition, for example, the letter of Ephesians itself, then his writing is not just a forgery. It is a counterforgery.
 
-[p. 296]
+[p. 296] ^pg296
 
 #### *Why James?*
 
@@ -268,7 +268,7 @@ Later Peter points out that the Anti-Christ comes before Christ returns. And so 
 
 As earlier noted, Simon Magus is not simply a cipher for Paul throughout Peter’s discourses. But one cannot help but draw the inferences in this case, as it is Paul in the Christian tradition who first goes out in the gentile mission field as the apostle to the gentiles.[^71] In this understanding of things, Peter must follow in Paul’s footsteps to correct those he has led astray.[^72]
 
-[p. 316]
+[p. 316] ^pg316
 
 #### *Homilies 17.13–19*
 
@@ -318,7 +318,7 @@ Whereas *Recognitions* 1.27–71 has sometimes been seen as a counterforgery to 
 
 In light of these contrasts, Reed postulates that Eusebius provides a “parade example” of what Amos Funkenstein has called “counter history”: “the process by which another group’s history and sources are appropriated and reworked in the service of contrasting aims.”[^88] As she notes, Eusebius draws extensively on Josephus and Philo to describe the failings of Judaism; moreover, he relies on Hegesippus, himself possibly a “Jewish Christian” to narrate the history of “Jewish Christianity.” If this view of Eusebius is right, then the possibility further presents itself that “the *Homilies* was compiled, at least in part, to counter this counter-history.” That is to say, with many of the same concerns as Eusebius, the *Homilies* spin the tale in precisely a contrary way. This involves not merely alluding to Paul “in order to exclude him,” but also telling the entire story of the Christian mission and message in a way that stands at odds with the “orthodox” historian. It is, then, a counterforgery in what I am calling the weak sense, a forgery designed to counter views found in another writing, in this case a writing that was destined to attain the status of orthodoxy and to determine how historians understood the development of the Christian church for many centuries to follow.
 
-[p. 322]
+[p. 322] ^pg322
 
 ---
 

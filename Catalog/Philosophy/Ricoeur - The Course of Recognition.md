@@ -19,7 +19,7 @@ language:
 pages: 311
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Ricoeur - The Course of Recognition (2005).pdf]]"
   - "[[Library/Philosophy/The Course of Recognition (Ricoeur)/The Course of Recognition (Ricoeur)]]"

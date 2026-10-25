@@ -19,7 +19,7 @@ language:
 pages: 291
 text: searchable
 status: reading
-physical_copy: true
+print: true
 files:
   - "[[States of Shock Stupidity and Knowledge in the 21st Century (2015).pdf]]"
   - "[[Library/Philosophy/States of Shock (Stiegler)/States of Shock (Stiegler)]]"

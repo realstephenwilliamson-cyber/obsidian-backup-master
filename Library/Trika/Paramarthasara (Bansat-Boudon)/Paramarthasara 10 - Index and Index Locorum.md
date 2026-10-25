@@ -1,6 +1,12 @@
+---
+type: book-chapter
+work: "An Introduction to Tantric Philosophy: The Paramārthasāra of Abhinavagupta with the Commentary of Yogarāja"
+order: 10
+page_range: "438–476"
+---
 # Index and Index Locorum
 
-[p. 438]
+[p. 438] ^pg453
 
 anantaśakti, replete with an infinity of en-
 ergies, 107
@@ -114,7 +120,7 @@ consciousness-receptacle,
 āmarśana, self-reflection, self-awareness,
 256
 
-[p. 439]
+[p. 439] ^pg454
 
 ānanda, bliss, 46, 55, 56, 142, 183, 269,
 271, 272, 314
@@ -228,7 +234,7 @@ blue, 89, 91, 92, 154, 199, 258
 blue and pleasure, 154, 165, 168, 182
 bodha, universal consciousness, 130
 
-[p. 440]
+[p. 440] ^pg455
 
 brahmabhūta, composed of brahman, hav-
 ing become [one with] brah-
@@ -352,7 +358,7 @@ dehātmamānitva, see dehādyātmamānitva,
 Deo ignoto, 158
 deśādhvan, ‘Path of space’, 325
 
-[p. 441]
+[p. 441] ^pg456
 
 deva, 175, 180, 207, 208, 212, 253, 255,
 256, 269, 307, 308
@@ -471,7 +477,7 @@ jñāna, knowledge, 219–221, 232, 288,
 291, 296
 jñāna[śakti], [energy of] Knowledge, 65,
 
-[p. 442]
+[p. 442] ^pg457
 
 104, 106, 107, 117, 118, 120,
 131, 132, 148, 187, 202, 205,
@@ -592,7 +598,7 @@ kṣobha, disturbance, 110, 335–337
 Kubjikāmatatantra, 120, 123
 Kula, 44, 51, 205, 252, 269, 315
 
-[p. 443]
+[p. 443] ^pg458
 
 Kulapañcāśikā, 299
 Kularatnamālā, 38, 272, 275, 299
@@ -709,7 +715,7 @@ Mīmāṃsānyāyaprakāśa, 234
 mocana, liberation, 102
 moha, delusion, bewilderment, 16, 81,
 
-[p. 444]
+[p. 444] ^pg459
 
 127, 138, 167, 192, 217, 219,
 221, 228, 248–250, 293
@@ -827,7 +833,7 @@ supreme ipseity, 71, 80, 108,
 parāhantāviśrānti, repose in supreme ipse-
 ity, 226
 
-[p. 445]
+[p. 445] ^pg460
 
 parāmarśa,
 self-reflection,
@@ -953,7 +959,7 @@ mundane man, 145
 Puruṣa, 156, 158
 puruṣatattva, 130
 
-[p. 446]
+[p. 446] ^pg461
 
 puryaṣṭaka, subtle body, 97, 98, 171, 174,
 187, 216, 238, 291, 340
@@ -1076,7 +1082,7 @@ saṃvr̥tisatya, empirical truth, 88, 102,
 sanmātra, pure Being, 198, 200
 sañcitakarman, 235
 
-[p. 447]
+[p. 447] ^pg462
 
 saprapañcabrahman, 3, 5, 153, 155
 saptapramātr̥s, seven subjects, 68, 121,
@@ -1194,7 +1200,7 @@ svātmamaheśa, see svātmamaheśvara, 247
 svātmamaheśvara, the Great Lord that is
 one’s own Self, 91, 95, 126,
 
-[p. 448]
+[p. 448] ^pg463
 
 137, 192, 215, 223, 225, 238,
 240, 255, 260, 271, 272, 274,
@@ -1312,7 +1318,7 @@ śuddhavidyā, pure, perfect Knowledge,
 80, 120, 122–124, 136, 209,
 211, 327, 332
 
-[p. 449]
+[p. 449] ^pg464
 
 śuddhādhvan, pure path, 54, 65, 66, 125
 śūnya, Void, 153, 169, 171
@@ -1423,7 +1429,7 @@ Vaiṣṇava Vedānta, 156
 Vaiṣṇavī, 107
 Vaiyākaraṇasiddhāntalaghumañjūṣā, 11
 
-[p. 450]
+[p. 450] ^pg465
 
 Varadarāja, 322
 varṇa, letter, 240
@@ -1545,7 +1551,7 @@ vyāpti, inclusion, 135
 Vyāsa, 310
 vyāvr̥tti, 118
 
-[p. 451]
+[p. 451] ^pg466
 
 Vyomavāmeśvarī, 120
 Vyomavyāpin, 332
@@ -1592,11 +1598,11 @@ yukti, reasoning, 96, 104, 105, 174, 240,
 267, 269, 271, 286, 313
 Yuktidīpikā, 10, 82
 
-[p. 452]
+[p. 452] ^pg467
 
 This page intentionally left blank
 
-[p. 468]
+[p. 468] ^pg468
 
 Index locorum
 ABh I 107, 56
@@ -1682,7 +1688,7 @@ BĀU II 4, 12, 60
 BĀU III 5, 1, 249
 453
 
-[p. 454]
+[p. 454] ^pg469
 
 BĀU III 7, 3, 156
 BĀU III 9, 26, 344
@@ -1790,7 +1796,7 @@ GAS XIII 1–2, 320
 GAS XIV 14, 296
 GAS XV 7, 86
 
-[p. 455]
+[p. 455] ^pg470
 
 GAS XV 15, 110
 GBh 1, 53
@@ -1896,7 +1902,7 @@ MDhŚ VIII 93, 266
 MDhŚ XI 72, 266
 MM 32, 206
 
-[p. 456]
+[p. 456] ^pg471
 
 MM 61, 176
 MuU II 2, 11, 14
@@ -2003,7 +2009,7 @@ SpN III 13, 107, 146
 SpN III 14, 167
 SpN III 19, 41, 53, 210
 
-[p. 457]
+[p. 457] ^pg472
 
 SpN IV 2, 197
 SpP, avat., p. 2, 72
@@ -2113,7 +2119,7 @@ TĀ III 91–92a, 204
 TĀ III 104b–105a, 205
 TĀ III 165b–166a, 204
 
-[p. 458]
+[p. 458] ^pg473
 
 TĀ III 167, 203
 TĀ III 168b, 323
@@ -2224,7 +2230,7 @@ TS VIII, p. 83, 335
 TS VIII, p. 84, 131
 TS VIII, p. 86, 140
 
-[p. 459]
+[p. 459] ^pg474
 
 TS VIII, p. 87, 336
 TS VIII, p. 87–89, 140
@@ -2258,11 +2264,11 @@ YS IV 34, 233
 Yuktidīpikā, 337
 YV VI 36, 18, 319
 
-[p. 460]
+[p. 460] ^pg475
 
 This page intentionally left blank
 
-[p. 476]
+[p. 476] ^pg476
 
 Anthology of spiritual
 experience

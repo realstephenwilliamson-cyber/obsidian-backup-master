@@ -17,8 +17,7 @@ language:
   - English
 pages: 400
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Parker - An Introduction to the New Testament Manuscripts and Their Texts (CUP 2008).pdf]]"
   - "[[Library/Biblical-Studies/An Introduction to the New Testament Manuscripts (Parker)/An Introduction to the New Testament Manuscripts (Parker)]]"

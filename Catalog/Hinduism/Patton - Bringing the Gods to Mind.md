@@ -17,8 +17,7 @@ language:
   - English
 pages: 306
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Patton - Bringing the Gods to Mind (2005).pdf]]"
 aliases:

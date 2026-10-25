@@ -17,8 +17,7 @@ language:
   - English
 pages: 234
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Levinson - Legal Revision and Religious Renewal in Ancient Israel (CUP 2008).pdf]]"
   - "[[Library/Biblical-Studies/Legal Revision and Religious Renewal in Ancient Israel (Levinson)/Legal Revision and Religious Renewal in Ancient Israel (Levinson)]]"

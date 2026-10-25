@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/penord2.html"
-page_range:
-  - 351
-  - 353
+page_range: "351–353"
 aliases:
   - "BCP 351"
   - "BCP 352"
@@ -17,7 +15,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 351–353
 
-[p. 351]
+[p. 351] ^pg351
 
 ## A Penitential Order: Rite Two
 
@@ -51,7 +49,7 @@ Blessed be God: Father, Son, and Holy Spirit.
 
 Jesus said, "The first commandment is this: Hear, O Israel: The Lord your God is the only Lord. Love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength. The second is this: Love your neighbor as yourself. There is no commandment greater than these." *[[Mark 12#^12-29|Mark 12:29-31]]*
 
-[p. 352]
+[p. 352] ^pg352
 
 If we say that we have no sin, we deceive ourselves, and the truth is not in us. But if we confess our sins, God, who is faithful and just, will forgive our sins and cleanse us from all unrighteousness. *[[1 John 01#^1-8|1 John 1:8]],9*
 
@@ -67,7 +65,7 @@ Let us confess our sins against God and our neighbor.
 
 Most merciful God, we confess that we have sinned against you in thought, word, and deed, by what we have done, and by what we have left undone. We have not loved you with our whole heart; we have not loved our neighbors as ourselves. We are truly sorry and we humbly repent. For the sake of your Son Jesus Christ, have mercy on us and forgive us; that we may delight in your will, and walk in your ways, to the glory of your Name. Amen.
 
-[p. 353]
+[p. 353] ^pg353
 
 *The Bishop when present, or the Priest, stands and says*
 

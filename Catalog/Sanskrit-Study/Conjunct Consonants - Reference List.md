@@ -18,8 +18,7 @@ language:
   - English
 pages: 2
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Sanskrit/Conjunct_Consonants_Reference_List.pdf]]"
   - "[[Conjunct Consonants - Reference List (Ruppel)]]"

@@ -18,7 +18,7 @@ language:
 pages: 3
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Re_examining_the_cult_of_the_feminine_An.pdf]]"
 aliases: []

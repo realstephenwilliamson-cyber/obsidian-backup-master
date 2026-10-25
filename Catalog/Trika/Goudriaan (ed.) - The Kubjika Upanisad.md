@@ -19,8 +19,7 @@ language:
   - English
 pages: 194
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The Kubjika Upanisad-Egert Forsten (1994.).pdf]]"
   - "[[Library/Trika/The Kubjika Upanisad (Goudriaan)/The Kubjika Upanisad (Goudriaan)]]"

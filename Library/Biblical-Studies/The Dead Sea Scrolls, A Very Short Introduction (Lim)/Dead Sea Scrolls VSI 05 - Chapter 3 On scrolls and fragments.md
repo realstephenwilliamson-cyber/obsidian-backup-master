@@ -4,7 +4,7 @@ work: "[[Catalog/Biblical-Studies/Lim - The Dead Sea Scrolls, A Very Short Intro
 book: "[[Library/Biblical-Studies/The Dead Sea Scrolls, A Very Short Introduction (Lim)/The Dead Sea Scrolls, A Very Short Introduction (Lim)|The Dead Sea Scrolls, A Very Short Introduction (Lim)]]"
 order: 5
 source_pdf: "Library/Biblical-Studies/Lim - The Dead Sea Scrolls, A Very Short Introduction (2005).pdf"
-pages: "32–39"
+page_range: "32–39"
 pdf_pages: "43–50"
 text_source: "fresh OCR with Tesseract 5 (eng) of the page images (the PDF had no text layer)"
 converted: 2026-10-15

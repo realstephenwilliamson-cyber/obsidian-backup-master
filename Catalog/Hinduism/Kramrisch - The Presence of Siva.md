@@ -17,8 +17,7 @@ language:
   - English
 pages: 520
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[Stella Kramrisch - The Presence of Shiva-Princeton University Press (1981).pdf]]"
 aliases:

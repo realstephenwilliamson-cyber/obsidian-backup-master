@@ -6,13 +6,13 @@ page_range: "9–28"
 ---
 [[Forgery and Counterforgery 02 - Chapter One - Introduction|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 04 - Chapter Three - Terms and Taxonomies|next →]]
 
-[p. 9]
+[p. 9] ^pg9
 
 ## Part I: Forgery in the Greco-Roman World
 
-[p. 10]
+[p. 10] ^pg10
 
-[p. 11]
+[p. 11] ^pg11
 
 ## Chapter Two: Forgers, Critics, and Deceived Deceivers
 
@@ -146,7 +146,7 @@ These anecdotal accounts set the stage and express the themes for our detailed e
 
 Before looking specifically at the Christian materials, it will be important to have a more thorough grounding in the practice of forgery in the broader environment, defined here as the Greek and Roman worlds of antiquity and late antiquity. This will be the subject of Chapters Four and Five. First, however, I need to explain the terminology that I will be using throughout the study and justify my usage. That will be the subject of the next chapter.
 
-[p. 28]
+[p. 28] ^pg28
 
 ---
 

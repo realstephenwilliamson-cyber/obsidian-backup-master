@@ -77,7 +77,7 @@ He (now) begins (the exposition) of that (deposition in relation to the thirty-s
 tatra tattveṣu vinyāso gulphānte caturaigule ॥ 101 ॥
 dharā jalādimūlāntaṁ pratyeka dvyarnńgulańi kramāt |
 rasaśrutyaṁgulaṁ nābher ūrdhvam itthaṁ ṣadaṁgule ॥ 102 ॥
-puṁsaḥ kalāntaṁ ṣaṭttattvīṁ pratyekarn tryangule kṣipet |
+puṁsaḥ kalāntaṁ ṣaṭttattvīṁ pratyekaṁ tryangule kṣipet |
 aṣtādaśāmgulaṁ tv evan kanṭhakūpāvasānakam | 103 ॥
 sadāśivāntaḥ māyādicatuṣkaṁ caturaṁgule |
 pratyekam ity abdhivasusarnńkhyam ālikadeśataḥ ॥ 104 ॥
@@ -141,7 +141,7 @@ Surely (one may ask), what is the (scriptural) authority for (these) three measu
 
 *[p. 51]* ^pg71
 
-trividhonmānakami vyaktarn vasudigbhyo ravikṣayāt |
+trividhonmānakami vyaktaṁ vasudigbhyo ravikṣayāt |
 mayatantre tathā coktaṁ tattatsvaphalavāñchayā ॥ 108 ॥ 
 
 (This) threefold measure is clearly apparent due to the (successive) subtraction of twelve (finger spaces) (ravikṣaya) from the (full measure of) one hundred and eight. The same is stated in the Mayatantra: ‘(they are this or that,) according to the fruits one desires.’”S (108) 
@@ -168,12 +168,12 @@ The (manner and content of the) deposition in the case of a deposition of nine, 
 
 115\. tion is not clear. 101cd-105 is a paraphrase of MV 6/2-6ab, and 106-107 a condensed paraphrase of MV 6/24cd-27ab, and so this passage definitely not drawn from the Mayatantra (also called Mayasaṁgraha). This way of measuring the proportions of the body is a common, standard one. The Mayatantra, which is concerned with temple architecture, followed the same system. There the three measurements must have been homologized in an analogous manner, with reality levels that, projected onto the body, bestowed their respective form of accomplishments. In other words, what is meant here is that one can choose one or other of these three procedures, according to the particular results one desires.
 
-116\. These depositions are taught in MV 6/6cd-10. 1) In the deposition of nine principles, Nature takes up fifty fingers, the individual soul three, Necessity (niyati) nine, time (kāla) six, Māyā, Śuddhavidyā, Īśvara and Sadāśiva four fingers each (50 + 3 + 9 + 6 + 16 (4 x 4) = 84). Note that for the calculations to be correct, we must take the entry ‘Vidyeśa’ to mean, as Jayaratha implies, Śuddha Vidyā and Īśvara, each of which occupies a space of four fingers. 2) In the deposition of five principles, Earth takes up four fingers, Water forty-six, Fire twenty-two, Air twelve, and Space, like Śiva, is pervasive. Thus, 4 + 46 + 22 + 12 = 84. 3) The deposition of the four principles, namely, Earth, Nature, Māyā and Power (Sakti), corresponding to the four eggs (anda) (see above, 11/8 ff.), are in the same proportions (4 + 46 + 22 + 12 = 84). 4) In the deposition of the three principles, the Self \[illegible\] occupies seventy-two fingers, Knowledge \[illegible\] twelve and Śiva, as before, is not counted (72 + 12 = 84).
+116\. These depositions are taught in MV 6/6cd-10. 1) In the deposition of nine principles, Nature takes up fifty fingers, the individual soul three, Necessity (niyati) nine, time (kāla) six, Māyā, Śuddhavidyā, Īśvara and Sadāśiva four fingers each (50 + 3 + 9 + 6 + 16 (4 x 4) = 84). Note that for the calculations to be correct, we must take the entry ‘Vidyeśa’ to mean, as Jayaratha implies, Śuddha Vidyā and Īśvara, each of which occupies a space of four fingers. 2) In the deposition of five principles, Earth takes up four fingers, Water forty-six, Fire twenty-two, Air twelve, and Space, like Śiva, is pervasive. Thus, 4 + 46 + 22 + 12 = 84. 3) The deposition of the four principles, namely, Earth, Nature, Māyā and Power (Sakti), corresponding to the four eggs (anda) (see above, 11/8 ff.), are in the same proportions (4 + 46 + 22 + 12 = 84). 4) In the deposition of the three principles, the Self \[illegible\] occupies seventy-two fingers, Knowledge (vidyā) twelve and Śiva, as before, is not counted (72 + 12 = 84).
 
 
 *[p. 52]* ^pg72
 
-1\) There, (in the case) of the deposition of nine principles. (Those up to) Nature are (contained) in fifty finger(-breadths), the individual soul in three, Necessity in nine, Time in six, Māyā, \[illegible\] and Sadāśiva each in four, and Śiva as pervading (all of them). (In the case of) the deposition of five principles, Earth is in four finger(-breadths), Water in forty-six, Fire in twenty-two, Air in twelve, and Space as pervading (them all). This is the lower procedure. As is said (in the Mālinīvijayottara): 
+1\) There, (in the case) of the deposition of nine principles. (Those up to) Nature are (contained) in fifty finger(-breadths), the individual soul in three, Necessity in nine, Time in six, Māyā, Vidyeśa and Sadāśiva each in four, and Śiva as pervading (all of them). (In the case of) the deposition of five principles, Earth is in four finger(-breadths), Water in forty-six, Fire in twenty-two, Air in twelve, and Space as pervading (them all). This is the lower procedure. As is said (in the Mālinīvijayottara): 
 
 ‘Now will be explained how the five principles are (distributed) in the body. (The body) is pervaded by the Earth principle up to the ankles (for a space of four fingers), the rest, in due order, by Water up to a space of six fingers above the navel." Twenty-two units above that are covered by Fire.” The pervasion of Air is said to (extend for) twelve units from that. Recollect the end of Space, which is the supreme, tranquil (reality) that pervades (them) 41.10 
 
@@ -190,9 +190,9 @@ Surely (one may ask), agreed that the measure (of the body) is of three kinds in
 दरासप्ततिर्दश द्र च देहस्थं शिरसोऽन्ततः || १११ ||
 पादादारभ्य सुश्रोणि अनाहतपदावधि ।
 
-uktaṁ ca triśirastantre svādhārasthaṁ yathā sthitam |l 110 I|
+uktaṁ ca triśirastantre svādhārasthaṁ yathā sthitam || 110 ||
 dvādaśāmgulam utthānaṁ dehātītaṁ samar tathā |
-dvāsaptatir daśa dve ca dehastharn śiraso ‘ntataḥ ॥ 111 ॥
+dvāsaptatir daśa dve ca dehasthaṁ śiraso ‘ntataḥ ॥ 111 ॥
 pādād ārabhya suśroni anāhatapadāvadhi | 
 
 117\. See previous note, entry 1.
@@ -275,7 +275,7 @@ devayogāṣtake dve hi pratyekāmgulapādataḥ ॥ 115 ॥
 iti pradhānaparyantaṁ ṣaṭcatvāriṁśadaṁgulam |
 ṣatpañcāśatpurānītthan prāgdharāyāṁ tu ṣodaśa ॥ 116 ॥
 tato ‘pyardhāmṁgulavyāptyā ṣaṭpurānyaṁgulatraye |
-catvāri yugma ekasminnekarn ca puramaṁgule ॥ 117 ॥
+catvāri yugma ekasminnekaṁ ca puramaṁgule ॥ 117 ॥
 sarāge paṁispurānīśasarikhyānītthai ṣadaṁgule |
 krodheśapuramekasmindvaye cāṇndamiyaṁ ca vit || 118 ॥
 saṁvartajyotiṣorevaṁ kalātattvagayoḥ kramāt |
@@ -289,7 +289,7 @@ After this, there are six worlds, pervading half a finger (each), they are conta
 
 #### Viveka on 16.117–119
 
-126?\. The fifty-six worlds from Water to Nature comprise 1) the forty worlds from Lakulin to Chagalānda, and 2) the sixteen worlds of the eight gods and eight Yogas. There is 1) a space of forty-two fingers up to Lakulin to Chagalānda (39 + 3), and 2) four more for the two groups of eight, thus making forty-six fingers in all. 3) Below that are the sixteen worlds of the Earth principle that extend for four finger-spaces. Taking those into account, up to Nature, there are seventy-two worlds contained in a space of fifty fingers.
+126?\. The fifty-six worlds from Water to Nature comprise 1) the forty worlds from Lakulin to Chagalāṇḍa, and 2) the sixteen worlds of the eight gods and eight Yogas. There is 1) a space of forty-two fingers up to Lakulin to Chagalāṇḍa (39 + 3), and 2) four more for the two groups of eight, thus making forty-six fingers in all. 3) Below that are the sixteen worlds of the Earth principle that extend for four finger-spaces. Taking those into account, up to Nature, there are seventy-two worlds contained in a space of fifty fingers.
 
 127?\. 114 to 119 is an extended explanation of MV 6/1 lcd-14 which is as follows: “Thus, the procedure concerning the principles has been taught. Now, (that concerning) the path of the worlds is expounded in the same way. Having visualized (them), 1) the sixteen worlds ranging from Kālāgni to Vīrabhadra should be projected up to the ankle (each one occupying a quarter finger’s space) (4 fingers). 2) Beyond that, one should project the (thirty-nine) worlds from Lakulin to Dviranda, each of which occupies one finger-space (39 fingers). 3) Chagalāndaka occupies (a space of) three fingers (3 fingers). 4) (The four worlds) of the eight divine beings and the eight Yogas together occupy four fingers” space (4 fingers). 5) After that, one should think that there are another six worlds, each of which occupies a half finger-space (3 fingers), 6) (there are) another four in two fingers (space) (2 fingers) and 7) one in one (finger-space). 1 (11ed-14)
 
@@ -368,11 +368,11 @@ tato ‘py ahguṣthamātrānta māyātattvastham aṣṭakam |
 
 pratyekam ardhāṁṁgulataḥ syād aṁgulacatuṣtaye ॥ 124 ॥
 ittham dvyakṣnṇi purāny aṣṭāviṁnśatiḥ puruṣān niśi |
-puratrayarn dvayos tryaṁśanyūnāṁgulam iti kramāt || 125 ॥
+puratrayaṁ dvayos tryaṁśanyūnāṁgulam iti kramāt || 125 ॥
 dvayor dvayaṁ pañcapurī vaidyīye caturamhgule |
 tata eśapurāny aṣṭau catuṣke ‘rdhāhṁgulakramāt ॥ 126 ॥
-tatas \[illegible\] dvaye dve ca dvayor ittharn catuṣtaye |
-sādāśivaṁi pañcakaṁ syād ittharn vasvekakaīi ravau || 127 ॥ 
+tatas \[illegible\] dvaye dve ca dvayor itthaṁ catuṣtaye |
+sādāśivaṁi pañcakaṁ syād itthaṁ vasvekakaīi ravau || 127 ॥ 
 
 In this way, (the worlds) contained in the six principles beginning with the individual soul are deposited into (a space of) eighteen fingers." Then the group of eight (worlds) ending with Aṅguṣthamātra, within the principle of Māyā, occupy four fingers’ (space altogether), as each one (extends for) half a finger(-space). In this way, the twenty-eight worlds, (contained in the principles ranging) from the individual soul up to Māyā, (occupy a space of) twenty-two fingers.[^133] (123cd-125ab) 
 
@@ -419,7 +419,7 @@ Tn this way, this (deposition) is accomplished. Thus he says.
 रसश्रुतिस्थान इति षट्चत्वारिंशदात्मनि ।
 
 aṣtādaśādhikaśataṁ purāni dehe ‘tra caturaśīti mite |
-vinyastāni tad ittharn \[illegible\] tu vyāpakaṁ \[illegible\] tattvam || 129 I|
+vinyastāni tad itthaṁ \[illegible\] tu vyāpakaṁ \[illegible\] tattvam || 129 ||
 iti vidhir aparaḥ kathitaḥ parāparākhye rasaśrutisthāne |
 aṣtaśarari sarṁkhyānaṁ khamunikṛtaṁ tat pare vidhau jñeyam ॥ 130 ॥ 
 
@@ -468,7 +468,7 @@ The Deposition of the Path of the Parts of Mantra (padādhvan)
 
 aparādividhitraitād atha nyāsaḥ padādhvanaḥ |
 pūrvaṁ daśapadī coktā svatantrā nyasyate yadā ॥ 132 ॥
-tayaiva dīkṣā kāryā cet tadeyarn nyāsakalpanā |
+tayaiva dīkṣā kāryā cet tadeyaṁ nyāsakalpanā |
 tattvādimukhyatāyogād dīkṣāyāṁ tu padāvalī ॥ 133 ॥
 tattattvādyanusārenṇa tatrāntar bhāvyate tathā |
 svapradhānatvayoge tu dīkṣāyāṁ padapaddhatim ॥ 134 ॥
@@ -532,7 +532,7 @@ He transposes the same (procedure) elsewhere (to another context).
 व्यापिमात्रं हि भिद्यतेत्युक्तं प्रागेव तत्तथा ।
 
 mantrādhvano ‘py eṣa eva vidhir vinyāsayojane ॥ 138 ॥
-vyāptimātraṁ hi bhidyetety uktarn prāg eva tat tathā | 
+vyāptimātraṁ hi bhidyetety uktaṁ prāg eva tat tathā | 
 
 142\. MV 6/19cd-20. Read daśamaṁ for navamaṁ.
 
@@ -561,7 +561,7 @@ Now, in order to define the Path of the Phonemes, he says (the following).
 वर्जयित्वाद्यवर्ण तु ततत्ववतसया्रवीन्रवीन् तां त्रयोविंशतौ वर्णेष्वप्यन्यत्स्याद्रिधिद्रयम् ॥ १४२ ॥
 
 varnādhvano ‘tha vinyāsaḥ kathyate ‘tra vidhitraye ॥ 139 ॥
-ekar \[illegible\] pratyekarn dvayor agulayoḥ kramāt |
+ekar \[illegible\] pratyekaṁ dvayor agulayoḥ kramāt |
 trayovihśativarnī syāt 
 
 ṣadvaṁy ekaikaśastriṣu ॥ 140 ॥
@@ -629,7 +629,7 @@ He (now) quotes the passage there concerning (this) transposition.
 dvividho ‘pi hi varnānāṁ ṣadvidho bheda ucyate |
 tattvamārgavidhānena jñātavyaḥ paramārthataḥ ॥ 144 ॥
 upadeśātideśābhyāṁ yad \[illegible\] tatpadādiṣu |
-bhūyo nirdiṣṭaṁ tatraiva śāstre ‘smad dhṛdayeśvare ॥ 145 Il 
+bhūyo nirdiṣṭaṁ tatraiva śāstre ‘smad dhṛdayeśvare ॥ 145 ॥ 
 
 ‘Although the phonemes are of two kinds, it is said that (there is also) a division into six kinds. That should be known as it truly is by (referring) to the procedure concerning the Path of the Principles.”” (144) 
 
@@ -671,7 +671,7 @@ The Deposition of the Path of the Forces (kalā)
 ### TĀ 16.147
 
 उक्तं तत्पदमन््रेषु कलास्वथ निरूप्यते ।
-uktarn tatpadamantreṣu kalāsv atha nirūpyate | 
+uktaṁ tatpadamantreṣu kalāsv atha nirūpyate | 
 
 Now that that was taught with regards to (the Path of) Mantras and (their) Parts, (the three procedures) are now described with regards to the (Path of) the Forces (kalā).\* (147ab) 
 
@@ -689,7 +689,7 @@ He teaches that:
 क्रमात्किप्त्वा विधिदरतं परापरपरात्मकम् चतुरण्डविधिस्त्वादिशब्देनह प्रगृह्यते । । १४९ ॥
 कलाचतुष्कवत्तेन तस्मन्वाच्यं विधित्रयम् ।
 
-caturṣu rasavede dvāviṁśatau dvādaśasv atha ॥ 147 Il nivṛttyādyāś catasraḥ syur vyāptrī syāc chāntyatītikā |
+caturṣu rasavede dvāviṁśatau dvādaśasv atha ॥ 147 ॥ nivṛttyādyāś catasraḥ syur vyāptrī syāc chāntyatītikā |
 dvitīyasyāṁi kalāyāri tu dvādaśa dvādaśāīigulān ॥ 148 ॥
 kramāt kṣiptvā vidhidvaita parāparaparātmakam | 
 
@@ -864,7 +864,7 @@ aghorādyaṣtakeneha śodhanīyar vipaścitā |
 athavaikākṣarāmantrair athavā mātṛkākramāt || 159 ॥
 bhairavīyahṛdā vāpi khecarīhṛdayena vā |
 bhairaveṇa mahādevi tv atha vaktrāṁgapañcakaiḥ ॥ 160 ॥
-yena yena hi mantrena tantre ‘sminn udbhavaḥ kṛtaḥ |
+yena yena hi mantreṇa tantre ‘sminn udbhavaḥ kṛtaḥ |
 tenaiva dīkṣayen mantrī ity ājñā pārameśvarī ॥ 161 || 
 
 evar śodhakabhedena saptatiḥ kīrtitā bhidaḥ |
@@ -903,9 +903,9 @@ As (the word) ‘Mantras’ is plural, it means that they are (those) associated
 
 176?\. If we read the entry ‘five faces and limbs’ together as qualifying Bhairava, we may suppose that the Bhairava meant is Svacchandabhairava, who has the five faces. But this is not supported by Jayaratha, I think quite rightly. I have taken the Śakti with five faces above in 153a to be Parā. It makes sense that these should be her limbs and faces. Although, in the Tantrāloka, she generally has five faces and six limbs, five limbs is also possible.
 
-177?\. An upward leap (udbhava) is one of the ‘signs on the path’ (pathalakṣana) that serves as a means of ascertaining (pratyaya) that a penetration \[illegible\] or descent of power (śaktipāta) of the deity has taken place in the disciple in the course of initiation, indicating that it has been imparted successfully. See above, 5/101 ff.
+177?\. An upward leap (udbhava) is one of the ‘signs on the path’ (pathalakṣana) that serves as a means of ascertaining (pratyaya) that a penetration (āveśa) or descent of power (śaktipāta) of the deity has taken place in the disciple in the course of initiation, indicating that it has been imparted successfully. See above, 5/101 ff.
 
-178?\. Most forms of initiation include the object of purification \[illegible\] that is, the world orders (bhuvana), reality principles (rattva) and sphere of energy \[illegible\] that contain them. The neophant is induced, through the ritual procedure, to be reborn progressively from lower to higher levels within it, and so is progressively purified of his binding Karma. This is done by means of the mantra, parts of mantra and phonemes, that are the purifiers (śodhaka). In this case, the neophant is initiated by the power of the deposition of the purifying mantras deposited on his body alone, without previously projecting the paths that are to be purified. See below, 16/237cd-239ab (238- 239) and 16/244cd-247ab (245-247).
+178?\. Most forms of initiation include the object of purification \[illegible\] that is, the world orders (bhuvana), reality principles (rattva) and sphere of energy (kalā) that contain them. The neophant is induced, through the ritual procedure, to be reborn progressively from lower to higher levels within it, and so is progressively purified of his binding Karma. This is done by means of the mantra, parts of mantra and phonemes, that are the purifiers (śodhaka). In this case, the neophant is initiated by the power of the deposition of the purifying mantras deposited on his body alone, without previously projecting the paths that are to be purified. See below, 16/237cd-239ab (238- 239) and 16/244cd-247ab (245-247).
 
 179?\. Cf. above, 16/157-158ab and below 16/190. Now that the deposition of the 70 purifying Mantras has been defined, Abhinava goes on to talk about the deposition of the object of purification and the enumeration of its forms. This subject and concluding remarks take up verses 163 to 206. The exposition of the deposition of Mantras continues below from verse 207 onwards.
 
@@ -1079,7 +1079,7 @@ prāktanāṣṭabhidā yogād dvātrimśadbheda ucyate |
 mokṣa eko ‘pi bījasya samayākhyasya tādṛśam ॥ 179 ॥
 bālādikami jñātaśīghramaranarm śaktivarjitam |
 vṛddhar voddiśya bhaktaṁh vā śodhanāśodhanād dvidhā ॥ 180 ॥
-sadya utkrāntitas traidharn sā cāsannamṛtau guroḥ |
+sadya utkrāntitas traidhaṁ sā cāsannamṛtau guroḥ |
 kāryety ājñā maheśasya śrīmadgahvarabhāṣitā ॥ 181 ॥
 dṛṣtvā śiṣyaṁ jarāgrastaṁ vyādhinā paripīditam |
 utkramayya tatas tvenaṁ paratattve niyojayet ॥ 182 ॥
@@ -1156,7 +1156,7 @@ Analysing that (variety of forms of initiation), he presents it.
 catvāriṁśatsamuttārā kathitā | 18
 tām saptatyā bhittvā 
 
-dīkṣābhedānsvayari kalayet || 185 Il pañcakamiha lakṣānām 
+dīkṣābhedānsvayari kalayet || 185 || pañcakamiha lakṣānām 
 
 ca saptanavatiḥ sahasraparisaikhyā |
 aṣṭau \[illegible\] dīkṣā- 
@@ -1268,7 +1268,7 @@ bhedānār parigaṇanā
 na śakyate kartum ity asaṁkīrnāḥ |
 bhedāḥ saṁkīrṇnāḥ punar 
 
-anye bhūyaḥ saṅkīrnṇā bahudhā | 192 ॥
+anye bhūyaḥ saṅkīrṇā bahudhā | 192 ॥
 śodhakaśodhyādīnām 
 
 216\. As Abhinava has said himself, there is in actual fact only one form of liberation. It is said to be of three kinds because there are three ways taught here to attain it. See above, 16/179cd ff.
@@ -1304,7 +1304,7 @@ Surely (one may ask), what is the use of talking about (these) varieties (of ini
 
 bhoge sādhye yad yad 
 
-bahu kartavyarn tadāśrayen matimān ॥ 193 ॥
+bahu kartavyaṁ tadāśrayen matimān ॥ 193 ॥
 kāraṇabhūyas tvan kila 
 
 phalabhūyas tv āya kiń citram |
@@ -1547,7 +1547,7 @@ evar Siṣyatanau Śodhyaṁ nyasyādhvānari yathepsitam \\\\ 206 Il śodhaka�
 
 *[p. 89]* ^pg109
 
-Having deposited onto the body of the disciple in this way the Path which is, according to (the teacher’s) wish, the one to be purified, he should then deposit onto (this the appropriate) purifying Mantra, in accord with the reality levels \[illegible\] (he has projected onto the body of the disciple). (206cd-207ab) (207) 
+Having deposited onto the body of the disciple in this way the Path which is, according to (the teacher’s) wish, the one to be purified, he should then deposit onto (this the appropriate) purifying Mantra, in accord with the reality levels (tattva) (he has projected onto the body of the disciple). (206cd-207ab) (207) 
 
 #### Viveka on 16.207
 
@@ -1563,7 +1563,7 @@ He says that.
 dvayor mātṛkayos tattvasthityā varnakramaḥ purā ॥ 207 ॥
 kathitas tarn tathā nyasyet tattattattvaviśSuddhaye | 
 
-The series of the phonemes of the two syllabaries, and in terms of (their corresponding) metaphysical principles \[illegible\] has been explained previously. That should be deposited in that way (by the teacher onto the disciple’s body) in order to purify each corresponding reality level (tattva). (207cd-208ab) (208) 
+The series of the phonemes of the two syllabaries, and in terms of (their corresponding) metaphysical principles (tattva), has been explained previously. That should be deposited in that way (by the teacher onto the disciple’s body) in order to purify each corresponding reality level (tattva). (207cd-208ab) (208) 
 
 #### Viveka on 16.208
 
@@ -1582,7 +1582,7 @@ Although it is said (in the scriptures) that the Path of the Phonemes is an obje
 
 #### Viveka on 16.209
 
-234\. \[illegible\] See above 16/141. Abhinavagupta presents an extensive and detailed exposition of the correspondences between the letters of these two syllabaries and the \[illegible\] in his commentary on the Parātrīśika, verses 5 to 9ab.
+234\. \[illegible\] See above 16/141. Abhinavagupta presents an extensive and detailed exposition of the correspondences between the letters of these two syllabaries and the tattvas in his commentary on the Parātrīśika, verses 5 to 9ab.
 
 235\. SvT 10/358d. Also quoted above ad 1/34.
 
@@ -1618,7 +1618,7 @@ The Distribution of the Reality Levels Within the Parts of Parāparā Vidyā
 
 236\. By referring to the source of this quote (see following note), it is clear that here ‘śabda-\* is short for Śabdarāśi ~ the Assemblage of Sounds. This Bhairava is an embodiment of the fifty letters of the alphabet, cach of which is embodied by a Bhairava. See Appendix C, Chapter 15.
 
-237\. The Svāyambhuva (i.e. Svāyambhuvasūtrasathgraha) with the commentary by Sadyojyotis has been edited and translated by P-S Filliozat (1991). This passage is found in the commentary on 1/6 (p. 10), where the reading is: kin ca śabdarāser viśeṣaś cābhāditaḥ śivātmakaḥ anyataraś ca pāśātmākaḥ. It is also quoted by Utpaladeva in his commentary on Somānanda’s Śivadṛṣṭi 3/14, where the reading is as Abhinavagupta quotes it, thus suggesting that this is probably the original reading. It is as follows: kih sabdarāśer viśeṣo’sti | bādham ekaḥ śivātmako'nyas ca pāśātmanaḥ | yah sivātmakaḥ sa kāmikādibhedena bhidyate | yas tu pāíātmakah sa vedādibhedena bhidyate II “Does the assemblage of phonemes (Sabdarāśi) (from which the scriptures are formed) possess a peculiarity? Yes indeed! One (nature it possesses) is Śiva, and the other that of (binding) fetters. The one which is Śiva is divided up into the various Āgamas, beginning with Kāmikagama. That which is made of bonds is divided up into the Veda and the like.”
+237\. The Svāyambhuva (i.e. Svāyambhuvasūtrasathgraha) with the commentary by Sadyojyotis has been edited and translated by P-S Filliozat (1991). This passage is found in the commentary on 1/6 (p. 10), where the reading is: kin ca śabdarāser viśeṣaś cābhāditaḥ śivātmakaḥ anyataraś ca pāśātmākaḥ. It is also quoted by Utpaladeva in his commentary on Somānanda’s Śivadṛṣṭi 3/14, where the reading is as Abhinavagupta quotes it, thus suggesting that this is probably the original reading. It is as follows: kiṁ sabdarāśer viśeṣo’sti | bādham ekaḥ śivātmako'nyas ca pāśātmanaḥ | yah sivātmakaḥ sa kāmikādibhedena bhidyate | yas tu pāíātmakah sa vedādibhedena bhidyate II “Does the assemblage of phonemes (Sabdarāśi) (from which the scriptures are formed) possess a peculiarity? Yes indeed! One (nature it possesses) is Śiva, and the other that of (binding) fetters. The one which is Śiva is divided up into the various Āgamas, beginning with Kāmikagama. That which is made of bonds is divided up into the Veda and the like.”
 
 
 *[p. 91]* ^pg111
@@ -1629,7 +1629,7 @@ The Distribution of the Reality Levels Within the Parts of Parāparā Vidyā
 विद्ये्वरसदाशक्तिशिवेषु पदपञ्चकम् ।
 एकोनविंशतिः सेयं पदानां स्यात्परापरा ॥ २१५ ॥
 
-srīpūrvaśāstre cāpy \[illegible\] te tair āliṁgitā iti |
+srīpūrvaśāstre cāpy uktaṁ te tair āliṁgitā iti |
 sadyojātādivaktrāṇi hṛdādyaṁgāni paṛca ca ॥ 211
 ॥ 
 
@@ -1665,7 +1665,7 @@ As is said there (in the Mālinīvijayottara):
 
 ”? 
 
-In this way, one (and the same) phoneme contemplated as being Śiva by nature is purifying (Śodhaka), otherwise it is an object of purification \[illegible\] This is the purport here. (The auxiliary limbs are deposited) ‘six times’, taken together in relation to the (three) powers and their (three) possessors for each principle. (The deposition of the Vidyā of Parāparā) ʻis in the reverse order’, because the sequence of withdrawal is the appropriate one in the case of initiation. Thus, the sense is that, although (a mantra) is denoted in the scriptures in the (forward order, which is) the sequence of emanation, the deposition (in this case) should be done in this (other) way. (Thus, it is as follows). 
+In this way, one (and the same) phoneme contemplated as being Śiva by nature is purifying (Śodhaka), otherwise it is an object of purification (śodhya). This is the purport here. (The auxiliary limbs are deposited) ‘six times’, taken together in relation to the (three) powers and their (three) possessors for each principle. (The deposition of the Vidyā of Parāparā) ʻis in the reverse order’, because the sequence of withdrawal is the appropriate one in the case of initiation. Thus, the sense is that, although (a mantra) is denoted in the scriptures in the (forward order, which is) the sequence of emanation, the deposition (in this case) should be done in this (other) way. (Thus, it is as follows). 
 
 1\) The ‘three Parts (pada)’ (in the Earth principle) are PHAṬ, HAH, HUM, which consists of one phoneme each along with a half (a phoneme). 
 
@@ -1681,7 +1681,7 @@ which consist of two, three and two phonemes (respectively).
 
 5\) (There is) ‘one’ (in that of Necessity), namely, HAH, which is one phoneme. 
 
-6\) The ‘one Part’ (in the Force (of limited agency) \[illegible\] and Māyā) is GHORARÜPE, which consists of four phonemes ‘in due order’. Thus, RŪPE is in the Force (of limited agency) (kalā) and GHORA is in Māyā. 
+6\) The ‘one Part’ (in the Force (of limited agency) (kalā) and Māyā) is GHORARÜPE, which consists of four phonemes ‘in due order’. Thus, RŪPE is in the Force (of limited agency) (kalā) and GHORA is in Māyā. 
 
 7\) ‘There are five Parts’, that is, HUM, PARAMAGHORE, HRĪH. AGHORE, OM, which thus consists of one, five, one, three and one (phoneme). The division there is one Part in Pure Knowledge, one in Īśvara, two in Sadāśiva, and one in Śakti and Śiva (together). 
 

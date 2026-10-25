@@ -17,8 +17,7 @@ language:
   - English
 pages: 17
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[On_yantras_in_early_Saiva_Tantras.pdf]]"
 aliases:

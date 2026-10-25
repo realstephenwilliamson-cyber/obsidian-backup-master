@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 144
 verses: 16
-page_range:
-  - 800
-  - 801
+page_range: "800–801"
 aliases:
   - "BCP Psalm 144"
   - "BCP 800"
@@ -61,7 +59,7 @@ and deliver me from the hand of foreign peoples, ^144-11
 **144:12** Whose mouths speak deceitfully \*  
 and whose right hand is raised in falsehood. ^144-12
 
-[p. 801]
+[p. 801] ^pg801
 
 **144:13** May our sons be like plants well nurtured from their youth, \*  
 and our daughters like sculptured corners of a palace. ^144-13

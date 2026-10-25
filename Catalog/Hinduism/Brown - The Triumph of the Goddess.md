@@ -17,8 +17,7 @@ language:
   - English
 pages: 336
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Brown - The Triumph of the Goddess, the Devi-Bhagavata Purana (SUNY 1990).pdf]]"
   - "[[Library/Hinduism/The Triumph of the Goddess (Brown)/The Triumph of the Goddess (Brown)]]"

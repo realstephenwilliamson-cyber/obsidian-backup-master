@@ -1,6 +1,12 @@
+---
+type: book-chapter
+work: "An Introduction to Tantric Philosophy: The Paramārthasāra of Abhinavagupta with the Commentary of Yogarāja"
+order: 1
+page_range: "10–16"
+---
 # Preface and Acknowledgments
 
-[p. 10]
+[p. 10] ^pg10
 
 Preface
 In the text, kārikās and pratīkas are set in boldface.
@@ -36,7 +42,7 @@ referring it to a general background that will be recognized by the reader’
 (Chicago Manual of Style, 13th ed.).
 ix
 
-[p. 11]
+[p. 11] ^pg11
 
 x
 PREFACE
@@ -62,7 +68,7 @@ New Delhi, Muktabodha, and
 Emeryville, Calif. The work is however more a free gloss than a trans-
 lation.
 
-[p. 12]
+[p. 12] ^pg12
 
 Acknowledgments
 The work on the annotated translation of the Paramārthasāra and its gloss
@@ -98,7 +104,7 @@ necessary touch of mischievousness, he fulfilled the role of an objector,
 commenting and challenging many terms and passages of earlier drafts of
 xi
 
-[p. 13]
+[p. 13] ^pg13
 
 xii
 ACKNOWLEDGMENTS
@@ -107,16 +113,16 @@ ing to, and indeed incorporating some of, his comments. Needless to say,
 any remaining infelicities should be attributed to me.
 LBB
 
-[p. 14]
+[p. 14] ^pg14
 
 Śiva (?), with the khaṭvāṅga. Sirpur, Châttisgarh. 7th century. Photo by Nicole
 Ménant-Di Dio
 
-[p. 15]
+[p. 15] ^pg15
 
 This page intentionally left blank
 
-[p. 16]
+[p. 16] ^pg16
 
 Introduction
 As soon as the expanse of ignorance affecting the mind is

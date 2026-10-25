@@ -17,8 +17,7 @@ language:
   - English
 pages: 28
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Inherited_cognitions_prasiddhi_agama_pra.pdf]]"
   - "[[Library/Trika/Inherited Cognitions (Torella)]]"

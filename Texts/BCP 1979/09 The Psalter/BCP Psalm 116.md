@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 116
 verses: 17
-page_range:
-  - 759
-  - 760
+page_range: "759–760"
 aliases:
   - "BCP Psalm 116"
   - "BCP 759"
@@ -58,7 +56,7 @@ for all the good things he has done for me? ^116-10
 **116:11** I will lift up the cup of salvation \*  
 and call upon the Name of the LORD. ^116-11
 
-[p. 760]
+[p. 760] ^pg760
 
 **116:12** I will fulfill my vows to the LORD \*  
 in the presence of all his people. ^116-12

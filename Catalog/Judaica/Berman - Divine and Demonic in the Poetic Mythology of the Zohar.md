@@ -17,8 +17,7 @@ language:
   - English
 pages: 327
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Divine and Demonic in the Poetic Mythology of the Zohar-BRILL (2018).pdf]]"
   - "[[Library/Judaica/Divine and Demonic in the Poetic Mythology of the Zohar (Berman)/Divine and Demonic in the Poetic Mythology of the Zohar (Berman)]]"

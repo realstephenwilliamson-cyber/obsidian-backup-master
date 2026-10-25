@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 39
 verses: 15
-page_range:
-  - 639
-  - 639
+page_range: "639"
 aliases:
   - "BCP Psalm 39"
   - "BCP 639"
@@ -36,7 +34,7 @@ but my pain became unbearable. ^39-3
 while I pondered, the fire burst into flame; \*  
 I spoke out with my tongue: ^39-4
 
-[p. 639]
+[p. 639] ^pg639
 
 **39:5** LORD, let me know my end and the number of my days, \*  
 so that I may know how short my life is. ^39-5

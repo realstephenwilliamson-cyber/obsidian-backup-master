@@ -17,8 +17,7 @@ language:
   - English
 pages: 818
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[196174216674_10151214712626675.pdf]]"
 aliases:

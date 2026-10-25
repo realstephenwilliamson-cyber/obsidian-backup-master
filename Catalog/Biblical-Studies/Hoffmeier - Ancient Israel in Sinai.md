@@ -17,8 +17,7 @@ language:
   - English
 pages: 360
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Hoffmeier - Ancient Israel in Sinai (OUP 2005).pdf]]"
   - "[[Library/Biblical-Studies/Ancient Israel in Sinai (Hoffmeier)/Ancient Israel in Sinai (Hoffmeier)]]"

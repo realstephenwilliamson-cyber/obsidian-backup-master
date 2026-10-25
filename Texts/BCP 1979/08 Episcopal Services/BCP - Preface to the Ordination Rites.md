@@ -5,9 +5,7 @@ section: "Episcopal Services"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/EpiscopalServices/preface_to_the_ordination_rites.html"
-page_range:
-  - 510
-  - 510
+page_range: "510"
 aliases:
   - "BCP 510"
 ---
@@ -15,7 +13,7 @@ aliases:
 
 [[BCP 1979]] · *Episcopal Services* · pages 510–510
 
-[p. 510]
+[p. 510] ^pg510
 
 ## Preface to the Ordination Rites
 

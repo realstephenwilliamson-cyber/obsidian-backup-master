@@ -17,8 +17,7 @@ language:
   - English
 pages: 250
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Rorem - Hugh of Saint Victor (OUP 2009).pdf]]"
   - "[[Library/Christianity/Hugh of Saint Victor (Rorem)/Hugh of Saint Victor (Rorem)]]"

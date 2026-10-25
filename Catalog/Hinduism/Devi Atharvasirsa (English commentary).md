@@ -17,8 +17,7 @@ language:
   - English
 pages: 9
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[devi-atharvashirsha.pdf]]"
 aliases:

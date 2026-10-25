@@ -17,8 +17,7 @@ language:
   - English
 pages: 93
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Dyczkowski - The Cult of the Goddess Kubjika (Nepal Research Centre 23).pdf]]"
   - "[[Library/Trika/The Cult of the Goddess Kubjika (Dyczkowski)/The Cult of the Goddess Kubjika (Dyczkowski)]]"

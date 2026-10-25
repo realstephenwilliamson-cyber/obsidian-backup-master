@@ -8,7 +8,7 @@ views:
     name: Shelf check
     order:
       - file.name
-      - physical_copy
+      - print
       - subject
     sort:
       - property: subject

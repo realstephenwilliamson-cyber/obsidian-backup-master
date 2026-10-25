@@ -6,7 +6,7 @@ page_range: "623–628"
 ---
 [[Forgery and Counterforgery 20 - Index of Subjects|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]]
 
-[p. 623]
+[p. 623] ^pg623
 
 ## INDEX OF MODERN SCHOLARS
 

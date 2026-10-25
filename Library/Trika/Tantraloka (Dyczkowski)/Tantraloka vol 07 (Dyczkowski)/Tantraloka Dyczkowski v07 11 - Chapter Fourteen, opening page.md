@@ -55,6 +55,6 @@ It is the Supreme Lord’s (Parameśvara) nature to manifest in two ways — in 
 
 #### Viveka on 14.1–2
 
-664?\. The exposition of the Paths of the worlds (bhuvana), principles \[illegible\] and forces (kalā) starts from the lower and progresses through to the highest. This is the sequence of withdrawal. The three Paths of Mantra, parts of Mantra and phonemes follow suit.
+664?\. The exposition of the Paths of the worlds (bhuvana), principles (tattva), and forces (kalā) starts from the lower and progresses through to the highest. This is the sequence of withdrawal. The three Paths of Mantra, parts of Mantra and phonemes follow suit.
 
 665?\. Abhinava reverts to this topic below in 23/69 ff.

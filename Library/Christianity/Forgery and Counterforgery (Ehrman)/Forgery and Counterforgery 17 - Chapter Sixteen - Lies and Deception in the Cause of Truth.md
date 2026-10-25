@@ -6,7 +6,7 @@ page_range: "529–548"
 ---
 [[Forgery and Counterforgery 16 - Chapter Fifteen - Apologetic Forgeries|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 18 - Bibliography|next →]]
 
-[p. 529]
+[p. 529] ^pg529
 
 ## Chapter Sixteen: Lies and Deception in the Cause of Truth
 

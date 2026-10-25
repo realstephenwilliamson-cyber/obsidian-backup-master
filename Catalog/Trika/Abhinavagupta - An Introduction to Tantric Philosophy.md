@@ -21,8 +21,7 @@ language:
   - Sanskrit
 pages: 477
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Abhinavagupta, Yogaraja - An Introduction to Tantric Philosophy (2011).pdf]]"
   - "[[Paramarthasara (Bansat-Boudon)]]"

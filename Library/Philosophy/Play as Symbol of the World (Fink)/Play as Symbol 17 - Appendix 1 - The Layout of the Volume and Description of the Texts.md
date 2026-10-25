@@ -140,7 +140,7 @@ This text is transmitted in a version that Fink himself produced in a single-spa
 
 This text is based on a two-page typescript produced by Fink (in E 11 / 126). The purpose and time of composition of the text cannot be determined with ultimate certainty. We can assume that it stems from the ambit of works on “Play and Celebration” (or the radio version “The Olympic View of Play and Sport”) and on “The World-Significance of Play.” At the end of the text, there is the specification “p. 67.” This could be a reference to the typescript that served as the basis of the book version of *Play as Symbol of the World*, since “Play and Cult” concludes with the question “What does the term symbol mean?” and pages 67ff. of the typescript (Section 10 of the book version) treat of the “symbol-problem” and this makes reference to cult.
 
-[p. 302]
+[p. 302] ^pg302
 
 ### *The Philosophical-Pedagogical Problem of Play*
 

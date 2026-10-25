@@ -5,9 +5,7 @@ section: "The Daily Office"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/DailyOffice/ep2.html"
-page_range:
-  - 115
-  - 126
+page_range: "115–126"
 aliases:
   - "BCP 115"
   - "BCP 116"
@@ -26,7 +24,7 @@ aliases:
 
 [[BCP 1979]] · *The Daily Office* · pages 115–126
 
-[p. 115]
+[p. 115] ^pg115
 
 ## Daily Evening Prayer: Rite Two
 
@@ -48,7 +46,7 @@ I will bless the Lord who gives me counsel; my heart teaches me, night after nig
 
 Seek him who made the Pleiades and Orion, and turns deep darkness into the morning, and darkens the day into night; who calls for the waters of the sea and pours them out upon the surface of the earth: The Lord is his name. *[[Amos 5#^5-8|Amos 5:8]]*
 
-[p. 116]
+[p. 116] ^pg116
 
 If I say, "Surely the darkness will cover me, and the light around me turn to night," darkness is not dark to you, O Lord; the night is as bright as the day; darkness and light to you are both alike. *[[BCP Psalm 139#^139-10|Psalm 139:10]],11*
 
@@ -72,7 +70,7 @@ Let us confess our sins against God and our neighbor.
 
 Most merciful God, we confess that we have sinned against you in thought, word, and deed, by what we have done, and by what we have left undone. We have not loved you with our whole heart; we have not loved our neighbors as ourselves. We are truly sorry and we humbly repent.
 
-[p. 117]
+[p. 117] ^pg117
 
 For the sake of your Son Jesus Christ, have mercy on us and forgive us; that we may delight in your will, and walk in your ways, to the glory of your Name. Amen.
 
@@ -98,7 +96,7 @@ Glory to the Father, and to the Son, and to the Holy Spirit: as it was in the be
 
 *The following, or some other suitable hymn, or an Invitatory Psalm, may be sung or said.*
 
-[p. 118]
+[p. 118] ^pg118
 
 **O Gracious Light** *Phos hilaron*
 
@@ -124,7 +122,7 @@ A Reading (Lesson) from \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 *A citation giving chapter and verse may be added.*
 
-[p. 119]
+[p. 119] ^pg119
 
 *After each Lesson the Reader may say*
 
@@ -154,7 +152,7 @@ to Abraham and his children for ever.
 Glory to the Father, and to the Son, and to the Holy Spirit: \*  
 as it was in the beginning, is now, and will be for ever. Amen.
 
-[p. 120]
+[p. 120] ^pg120
 
 **The Song of Simeon** *Nunc Dimittis*
 
@@ -189,7 +187,7 @@ the forgiveness of sins,
 the resurrection of the body,  
 and the life everlasting. Amen.
 
-[p. 121]
+[p. 121] ^pg121
 
 ## The Prayers
 
@@ -229,7 +227,7 @@ now and for ever. Amen.
 
 V. Show us your mercy, O Lord; R. And grant us your salvation. V. Clothe your ministers with righteousness; R. Let your people sing with joy. V. Give peace, O Lord, in all the world; R. For only in you can we live in safety.
 
-[p. 122]
+[p. 122] ^pg122
 
 V. Lord, keep this nation under your care; R. And guide us in the way of justice and truth. V. Let your way be known upon earth; R. Your saving health among all nations. V. Let not the needy, O Lord, be forgotten; R. Nor the hope of the poor be taken away. V. Create in us clean hearts, O God; R. And sustain us with your Holy Spirit.
 
@@ -251,7 +249,7 @@ That we may be bound together by your Holy Spirit in the communion of [\_\_\_\_\
 
 ### The Collect of the Day
 
-[p. 123]
+[p. 123] ^pg123
 
 ### A Collect for Sundays
 
@@ -273,7 +271,7 @@ Most holy God, the source of all good desires, all right judgments, and all just
 
 Be our light in the darkness, O Lord, and in your great mercy defend us from all perils and dangers of this night; for the love of your only Son, our Savior Jesus Christ. *Amen.* ^collect-a-collect-for-aid-against-perils
 
-[p. 124]
+[p. 124] ^pg124
 
 ### A Collect for Protection
 
@@ -291,7 +289,7 @@ O God and Father of all, whom the whole heavens adore: Let the whole earth also 
 
 Keep watch, dear Lord, with those who work, or watch, or weep this night, and give your angels charge over those who sleep. Tend the sick, Lord Christ; give rest to the weary, bless the dying, soothe the suffering, pity the afflicted, shield the joyous; and all for your love's sake. *Amen.* ^collect-a-collect-for-the-presence-of-christ-3
 
-[p. 125]
+[p. 125] ^pg125
 
 *or the following*
 
@@ -309,7 +307,7 @@ O God, you manifest in your servants the signs of your presence: Send forth upon
 
 Almighty God, Father of all mercies, we your unworthy servants give you humble thanks for all your goodness and loving-kindness to us and to all whom you have made. We bless you for our creation, preservation, and all the blessings of this life; but above all for your immeasurable love in the redemption of the world by our Lord Jesus Christ; for the means of grace, and for the hope of glory. And, we pray, give us such an awareness of your mercies, that with truly thankful hearts we may show forth your praise, not only with our lips, but in our lives, by giving up our selves to your service, and by walking before you in holiness and righteousness all our days; through Jesus Christ our Lord, to whom, with you and the Holy Spirit, be honor and glory throughout all ages. Amen.
 
-[p. 126]
+[p. 126] ^pg126
 
 ### A Prayer of St. Chrysostom
 

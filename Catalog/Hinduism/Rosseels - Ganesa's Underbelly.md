@@ -17,8 +17,7 @@ language:
   - English
 pages: 73
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Gaesa_s_Underbelly_From_Hindu_Goblin_Go.pdf]]"
   - "[[Library/Hinduism/Ganesa's Underbelly (Rosseels)/Ganesa's Underbelly (Rosseels)]]"

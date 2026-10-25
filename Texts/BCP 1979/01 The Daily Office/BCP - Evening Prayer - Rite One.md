@@ -5,9 +5,7 @@ section: "The Daily Office"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/DailyOffice/ep1.html"
-page_range:
-  - 61
-  - 73
+page_range: "61–73"
 aliases:
   - "BCP 61"
   - "BCP 62"
@@ -27,7 +25,7 @@ aliases:
 
 [[BCP 1979]] · *The Daily Office* · pages 61–73
 
-[p. 61]
+[p. 61] ^pg61
 
 ## Daily Evening Prayer: Rite One
 
@@ -47,7 +45,7 @@ Thine is the day, O God, thine also the night; thou hast established the moon an
 
 I will bless the Lord, who giveth me counsel; my heart teacheth me, night after night. I have set the Lord always before me; because he is at my right hand, I shall not fall. *[[BCP Psalm 016#^16-7|Psalm 16:7]],8*
 
-[p. 62]
+[p. 62] ^pg62
 
 Seek him that made the Pleiades and Orion, that turneth deep darkness into the morning, and darkeneth the day into night; that calleth for the waters of the sea, and poureth them out upon the face of the earth: The Lord is his Name. *[[Amos 5#^5-8|Amos 5:8]]*
 
@@ -96,7 +94,7 @@ Glory to the Father, and to the Son, and to the Holy Spirit: as it was in the be
 
 *Except in Lent,* Alleluia *may be added.*
 
-[p. 64]
+[p. 64] ^pg64
 
 *The following, or some other suitable hymn, or an Invitatory Psalm, may be sung or said*
 
@@ -125,7 +123,7 @@ A Reading (Lesson) from \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 *A citation giving chapter and verse may be added.*
 
-[p. 65]
+[p. 65] ^pg65
 
 ### After each Lesson the Reader may say
 
@@ -154,7 +152,7 @@ Abraham and his seed for ever.
 Glory to the Father, and to the Son, and to the Holy Spirit: \*  
 as it was in the beginning, is now, and will be for ever. Amen.
 
-[p. 66]
+[p. 66] ^pg66
 
 **The Song of Simeon** *Nunc dimittis [[Luke 02#^2-29|Luke 2:29-32]]*
 
@@ -189,7 +187,7 @@ and the life everlasting. Amen.
 
 *The text of the Creed on page 120 may be used instead.*
 
-[p. 67]
+[p. 67] ^pg67
 
 ### The Prayers
 
@@ -218,7 +216,7 @@ for ever and ever. Amen.
 
 V. O Lord, show thy mercy upon us; R. And grant us thy salvation. V. Endue thy ministers with righteousness; R. And make thy chosen people joyful. V. Give peace, O Lord, in all the world; R. For only in thee can we live in safety. V. Lord, keep this nation under thy care; R. And guide us in the way of justice and truth.
 
-[p. 68]
+[p. 68] ^pg68
 
 V. Let thy way be known upon earth; R. Thy saving health among all nations. V. Let not the needy, O Lord, be forgotten; R. Nor the hope of the poor be taken away. V. Create in us clean hearts, O God; R. And sustain us with thy Holy Spirit.
 
@@ -240,7 +238,7 @@ That we may be bound together by thy Holy Spirit in the communion of [\_\_\_\_\_
 
 ### The Collect of the Day
 
-[p. 69]
+[p. 69] ^pg69
 
 ### A Collect for Sundays
 
@@ -258,7 +256,7 @@ O God, the source of eternal light: Shed forth thine unending day upon us who wa
 
 O God, from whom all holy desires, all good counsels, and all just works do proceed: Give unto thy servants that peace which the world cannot give, that our hearts may be set to obey thy commandments, and also that by thee, we, being defended from the fear of all enemies, may pass our time in rest and quietness; through the merits of Jesus Christ our Savior. *Amen.* ^collect-a-collect-for-peace
 
-[p. 70]
+[p. 70] ^pg70
 
 ### A Collect for Aid against Perils
 
@@ -278,7 +276,7 @@ O God and Father of all, whom the whole heavens adore: Let the whole earth also 
 
 ### or the following
 
-[p. 71]
+[p. 71] ^pg71
 
 Keep watch, dear Lord, with those who work, or watch, or weep this night, and give thine angels charge over those who sleep. Tend the sick, Lord Christ; give rest to the weary, bless the dying, soothe the suffering, pity the afflicted, shield the joyous; and all for thy love's sake. *Amen.*
 
@@ -298,7 +296,7 @@ O God, who dost manifest in thy servants the signs of thy presence: Send forth u
 
 Almighty God, Father of all mercies, we thine unworthy servants do give thee most humble and hearty thanks for all thy goodness and loving-kindness to us and to all men. We bless thee for our creation, preservation, and all the blessings of this life; but above all for thine inestimable love in the redemption of the world by our Lord Jesus Christ; for the means of grace, and for the hope of glory. And, we beseech thee, give us that due sense of all thy mercies, that our hearts may be unfeignedly thankful;
 
-[p. 72]
+[p. 72] ^pg72
 
 and that we show forth thy praise, not only with our lips, but in our lives, by giving up our selves to thy service, and by walking before thee in holiness and righteousness all our days; through Jesus Christ our Lord, to whom, with thee and the Holy Ghost, be all honor and glory, world without end. *Amen.*
 
@@ -316,7 +314,7 @@ Let us bless the Lord. *Thanks be to God.*
 
 The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Ghost, be with us all evermore. *Amen. [[2 Corinthians 13#^13-14|2 Corinthians 13:14]]*
 
-[p. 73]
+[p. 73] ^pg73
 
 May the God of hope fill us with all joy and peace in believing through the power of the Holy Spirit. *Amen. [[Romans 15#^15-13|Romans 15:13]]*
 

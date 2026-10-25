@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-auxiliary
 title: Tāntrika Rātri Sūktam
+collection: "Devī Māhātmya"
 role: opening
 status: stub
 aliases:

@@ -18,8 +18,7 @@ language:
   - English
 pages: 233
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Gertrud Hirschi - Mudras_ Yoga in Your Hands-Red Wheel_Weiser (2000).pdf]]"
   - "[[Library/Hinduism/Mudras - Yoga in Your Hands (Hirschi)/Mudras - Yoga in Your Hands (Hirschi)]]"

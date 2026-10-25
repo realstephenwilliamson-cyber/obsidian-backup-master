@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 106
 verses: 48
-page_range:
-  - 742
-  - 745
+page_range: "742–745"
 aliases:
   - "BCP Psalm 106"
   - "BCP 742"
@@ -34,7 +32,7 @@ for his mercy endures for ever. ^106-1
 **106:2** Who can declare the mighty acts of the LORD \*  
 or show forth all his praise? ^106-2
 
-[p. 742]
+[p. 742] ^pg742
 
 **106:3** Happy are those who act with justice \*  
 and always do what is right! ^106-3
@@ -74,7 +72,7 @@ and did not wait for his counsel. ^106-13
 **106:14** A craving seized them in the wilderness, \*  
 and they put God to the test in the desert. ^106-14
 
-[p. 743]
+[p. 743] ^pg743
 
 **106:15** He gave them what they asked, \*  
 but sent leanness into their soul. ^106-15
@@ -115,7 +113,7 @@ and would not listen to the voice of the LORD. ^106-25
 **106:26** So he lifted his hand against them, \*  
 to overthrow them in the wilderness, ^106-26
 
-[p. 744]
+[p. 744] ^pg744
 
 **106:27** To cast out their seed among the nations, \*  
 and to scatter them throughout the lands. ^106-27
@@ -155,7 +153,7 @@ the blood of their sons and daughters, \*
 which they offered to the idols of Canaan,  
 and the land was defiled with blood. ^106-38
 
-[p. 745]
+[p. 745] ^pg745
 
 **106:39** Thus they were polluted by their actions \*  
 and went whoring in their evil deeds. ^106-39

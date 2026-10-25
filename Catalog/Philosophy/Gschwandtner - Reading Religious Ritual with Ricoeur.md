@@ -17,8 +17,7 @@ language:
   - English
 pages: 301
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Gschwandtner - Reading Religious Ritual with Ricoeur (2021).pdf]]"
   - "[[Library/Philosophy/Reading Religious Ritual with Ricoeur (Gschwandtner)/Reading Religious Ritual with Ricoeur (Gschwandtner)]]"

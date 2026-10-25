@@ -17,8 +17,7 @@ language:
   - English
 pages: 330
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[012016.pdf]]"
   - "[[Library/Hinduism/Prabuddha Bharata, January 2016 (Narasimhananda)/Prabuddha Bharata, January 2016 (Narasimhananda)]]"

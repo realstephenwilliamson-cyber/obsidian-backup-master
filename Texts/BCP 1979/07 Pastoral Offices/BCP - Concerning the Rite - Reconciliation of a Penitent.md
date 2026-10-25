@@ -5,9 +5,7 @@ section: "Pastoral Offices"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/PastoralOffices/concernreconciliation.html"
-page_range:
-  - 446
-  - 446
+page_range: "446"
 aliases:
   - "BCP 446"
 ---
@@ -15,7 +13,7 @@ aliases:
 
 [[BCP 1979]] · *Pastoral Offices* · pages 446–446
 
-[p. 446]
+[p. 446] ^pg446
 
 ## Concerning the Rite
 

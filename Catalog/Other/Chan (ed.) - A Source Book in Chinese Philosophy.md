@@ -18,8 +18,7 @@ language:
   - English
 pages: 883
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Wing-Tsit Chan - A Source Book in Chinese Philosophy (1969).pdf]]"
   - "[[Library/Other/A Source Book in Chinese Philosophy (Chan)/A Source Book in Chinese Philosophy (Chan)]]"

@@ -17,8 +17,7 @@ language:
   - English
 pages: 4
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Leo XIV - Magnifica Humanitas (encyclical, 15 May 2026).pdf]]"
   - "[[Library/Christianity/Leo XIV - Magnifica Humanitas (encyclical, 15 May 2026, full text).pdf]]"

@@ -15,7 +15,7 @@ status: stub
 
 Chapter 15 of Ruppel's *The Cambridge Introduction to Sanskrit* (pp. 166–175 in the PDF).
 
-**Full textbook:** [[Library/Sanskrit/The Cambridge Introduction to Sanskrit (Ruppel)/The Cambridge Introduction 22 - Chapter 15 Consonant Stems I#^pg166|open at p. 166]] ([[Library/Sanskrit/Ruppel/A. M. Ruppel - The Cambridge Introduction to Sanskrit-Cambridge University Press (2017).pdf#page=166|pdf]])
+**Full textbook:** [[Library/Sanskrit/The Cambridge Introduction to Sanskrit (Ruppel)/The Cambridge Introduction 22 - Chapter 15 Consonant Stems I#^pg166|open at p. 150]] ([[Library/Sanskrit/Ruppel/A. M. Ruppel - The Cambridge Introduction to Sanskrit-Cambridge University Press (2017).pdf#page=166|pdf]])
 
 ## Notes
 

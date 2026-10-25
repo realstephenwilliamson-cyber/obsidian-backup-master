@@ -17,8 +17,7 @@ language:
   - English
 pages: 345
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Deloria - God Is Red (2003).pdf]]"
   - "[[Library/Other/God Is Red (Deloria)/God Is Red (Deloria)]]"

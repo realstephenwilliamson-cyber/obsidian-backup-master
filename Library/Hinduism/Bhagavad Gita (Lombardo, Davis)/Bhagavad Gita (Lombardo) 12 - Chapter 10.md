@@ -6,7 +6,7 @@ page_range: "58–63"
 aliases:
   - "Gita (Lombardo) 10"
 ---
-[p. 58]
+[p. 58] ^pg58
 
 ## Chapter Ten
 

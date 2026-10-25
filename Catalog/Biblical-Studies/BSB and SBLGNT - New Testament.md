@@ -19,8 +19,7 @@ language:
   - "Greek"
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Texts/Bible/New Testament/New Testament]]"
 aliases: []

@@ -1,6 +1,6 @@
 ---
 type: parallel
-amud: Bekhorot 35a
+amud: Chagigah 2a
 cssclasses:
   - wide
 ---

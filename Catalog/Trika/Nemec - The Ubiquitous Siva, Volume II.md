@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 305
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Nemec - The Ubiquitous Siva, Volume II (2021).pdf]]"
   - "[[Library/Trika/The Ubiquitous Siva, Volume II (Nemec)/The Ubiquitous Siva, Volume II (Nemec)]]"

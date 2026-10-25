@@ -19,7 +19,7 @@ language:
 pages: 389
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Lectures on Ideology and Utopia - Paul Ricoeur.pdf]]"
   - "[[Library/Philosophy/Lectures on Ideology and Utopia (Ricoeur)/Lectures on Ideology and Utopia (Ricoeur)]]"

@@ -19,8 +19,7 @@ language:
   - Latin
 pages: 626
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Hobbes, Baumgold (ed.) - Three-Text Edition of Thomas Hobbes's Political Theory (2017).pdf]]"
   - "[[Library/Philosophy/Three-Text Edition of Thomas Hobbes's Political Theory (Hobbes)/Three-Text Edition of Thomas Hobbes's Political Theory (Hobbes)]]"

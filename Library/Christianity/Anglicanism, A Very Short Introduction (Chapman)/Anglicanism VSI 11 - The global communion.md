@@ -4,7 +4,7 @@ work: "[[Catalog/Christianity/Chapman - Anglicanism, A Very Short Introduction]]
 book: "[[Library/Christianity/Anglicanism, A Very Short Introduction (Chapman)/Anglicanism, A Very Short Introduction (Chapman)|Anglicanism, A Very Short Introduction (Chapman)]]"
 order: 11
 source_pdf: "Library/Christianity/Chapman - Anglicanism, A Very Short Introduction (2006).pdf"
-pages: "94–115"
+page_range: "94–115"
 pdf_pages: "105–126"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15

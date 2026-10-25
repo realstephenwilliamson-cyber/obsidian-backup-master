@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 36
 verses: 12
-page_range:
-  - 633
-  - 633
+page_range: "633"
 aliases:
   - "BCP Psalm 36"
   - "BCP 633"
@@ -54,7 +52,7 @@ and in your light we see light. ^36-9
 **36:10** Continue your loving-kindness to those who know you, \*  
 and your favor to those who are true of heart. ^36-10
 
-[p. 633]
+[p. 633] ^pg633
 
 **36:11** Let not the foot of the proud come near me, \*  
 nor the hand of the wicked push me aside. ^36-11

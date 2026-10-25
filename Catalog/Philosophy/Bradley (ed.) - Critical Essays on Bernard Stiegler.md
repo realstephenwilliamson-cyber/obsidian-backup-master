@@ -18,7 +18,7 @@ language:
 pages: 302
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Bradley - Critical Essays on Bernard Stiegler (2024).pdf]]"
   - "[[Library/Philosophy/Critical Essays on Bernard Stiegler (Bradley)/Critical Essays on Bernard Stiegler (Bradley)]]"

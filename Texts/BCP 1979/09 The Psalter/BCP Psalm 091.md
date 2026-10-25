@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 91
 verses: 16
-page_range:
-  - 720
-  - 720
+page_range: "720"
 aliases:
   - "BCP Psalm 91"
   - "BCP 720"
@@ -46,7 +44,7 @@ nor of the sickness that lays waste at mid-day. ^91-6
 and ten thousand at your right hand, \*  
 but it shall not come near you. ^91-7
 
-[p. 720]
+[p. 720] ^pg720
 
 **91:8** Your eyes have only to behold \*  
 to see the reward of the wicked. ^91-8

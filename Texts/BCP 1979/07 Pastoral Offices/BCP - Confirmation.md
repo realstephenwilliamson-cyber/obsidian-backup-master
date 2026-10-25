@@ -5,9 +5,7 @@ section: "Pastoral Offices"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/PastoralOffices/confirmation.html"
-page_range:
-  - 413
-  - 419
+page_range: "413–419"
 aliases:
   - "BCP 413"
   - "BCP 414"
@@ -21,7 +19,7 @@ aliases:
 
 [[BCP 1979]] · *Pastoral Offices* · pages 413–419
 
-[p. 413]
+[p. 413] ^pg413
 
 ## Confirmation
 
@@ -63,7 +61,7 @@ There is one Body and one Spirit;
 
 **Bishop** Let us pray.
 
-[p. 414]
+[p. 414] ^pg414
 
 ### The Collect of the Day
 
@@ -97,7 +95,7 @@ The Holy Gospel of our Lord Jesus Christ according to \_\_\_\_\_\_\_\_\_\_.
 
 **People** Glory to you, Lord Christ.
 
-[p. 415]
+[p. 415] ^pg415
 
 *After the Gospel, the Reader says*
 
@@ -133,7 +131,7 @@ Do you renew your commitment to Jesus Christ?
 
 I do, and with God's grace I will follow him as my Savior and Lord.
 
-[p. 416]
+[p. 416] ^pg416
 
 *After all have been presented, the Bishop addresses the congregation, saying*
 
@@ -203,7 +201,7 @@ Let us now pray for *these persons* who have renewed *their* commitment to Chris
 
 *A period of silence follows.*
 
-[p. 418]
+[p. 418] ^pg418
 
 *Then the Bishop says*
 
@@ -223,7 +221,7 @@ Defend, O Lord, your servant *N.* with your heavenly grace, that *he* may contin
 
 *N.*, we recognize you as a member of the one holy catholic and apostolic Church, and we receive you into the fellowship of this Communion. God, the Father, Son, and Holy Spirit, bless, preserve, and keep you. *Amen.*
 
-[p. 419]
+[p. 419] ^pg419
 
 ### For Reaffirmation
 

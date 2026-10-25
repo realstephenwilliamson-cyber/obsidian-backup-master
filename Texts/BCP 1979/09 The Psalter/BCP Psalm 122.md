@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 122
 verses: 9
-page_range:
-  - 780
-  - 780
+page_range: "780"
 aliases:
   - "BCP Psalm 122"
   - "BCP 780"
@@ -31,7 +29,7 @@ within your gates, O Jerusalem. ^122-2
 **122:3** Jerusalem is built as a city \*  
 that is at unity with itself; ^122-3
 
-[p. 780]
+[p. 780] ^pg780
 
 **122:4** To which the tribes go up,  
 the tribes of the LORD, \*  

@@ -18,8 +18,7 @@ language:
   - English
 pages: 240
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Maximus the Confessor - Selected Writings (Berthold 1985).pdf]]"
   - "[[Library/Christianity/Selected Writings (Berthold)/Selected Writings (Berthold)]]"

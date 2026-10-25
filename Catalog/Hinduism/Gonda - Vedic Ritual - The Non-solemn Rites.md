@@ -17,8 +17,7 @@ language:
   - English
 pages: 532
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Jan Gonda - Vedic Ritual_ The Non-solemn Rites-E.J. Brill (1980).pdf]]"
 aliases:

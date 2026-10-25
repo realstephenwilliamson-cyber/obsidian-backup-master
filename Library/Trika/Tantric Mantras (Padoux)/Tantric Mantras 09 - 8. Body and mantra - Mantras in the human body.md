@@ -4,7 +4,7 @@ book: "[[Tantric Mantras (Padoux)]]"
 order: 9
 page_range: "103–110"
 ---
-[p. 103]
+[p. 103] ^pg103
 
 # 8 Body and mantra[^1]
 

@@ -18,8 +18,7 @@ language:
   - English
 pages: 1185
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Bhattacharyya - Principles of Tantra (1952).pdf]]"
 aliases:

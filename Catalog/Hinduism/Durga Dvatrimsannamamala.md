@@ -17,8 +17,7 @@ language:
   - English
 pages: 3
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[DURGA32_TRANS.pdf]]"
 aliases:

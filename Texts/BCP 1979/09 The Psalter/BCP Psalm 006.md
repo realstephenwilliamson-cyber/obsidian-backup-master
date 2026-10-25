@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 6
 verses: 10
-page_range:
-  - 590
-  - 590
+page_range: "590"
 aliases:
   - "BCP Psalm 6"
   - "BCP 590"
@@ -25,7 +23,7 @@ Hebrew text and JPS translation: [[Psalms 006]]
 **6:1** LORD, do not rebuke me in your anger; \*  
 do not punish me in your wrath. ^6-1
 
-[p. 590]
+[p. 590] ^pg590
 
 **6:2** Have pity on me, LORD, for I am weak; \*  
 heal me, LORD, for my bones are racked. ^6-2

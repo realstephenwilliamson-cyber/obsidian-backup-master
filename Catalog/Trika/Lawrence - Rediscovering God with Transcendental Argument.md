@@ -18,7 +18,7 @@ language:
 pages: 328
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Lawrence - Rediscovering God with Transcendental Argument (SUNY 1999).pdf]]"
   - "[[Library/Trika/Rediscovering God with Transcendental Argument (Lawrence)/Rediscovering God with Transcendental Argument (Lawrence)]]"

@@ -17,8 +17,7 @@ language:
   - English
 pages: 241
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Gregor - Ricoeur's Hermeneutics of Religion (2019).pdf]]"
   - "[[Library/Philosophy/Ricoeur's Hermeneutics of Religion (Gregor)/Ricoeur's Hermeneutics of Religion (Gregor)]]"

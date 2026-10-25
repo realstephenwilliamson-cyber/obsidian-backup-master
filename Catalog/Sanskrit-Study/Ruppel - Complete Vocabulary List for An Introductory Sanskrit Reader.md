@@ -18,8 +18,7 @@ language:
   - English
 pages: 146
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[4057106_vocablist_letter.pdf]]"
   - "[[Library/Sanskrit/Complete Vocabulary List for An Introductory Sanskrit Reader (Ruppel)/Complete Vocabulary List for An Introductory Sanskrit Reader (Ruppel)]]"

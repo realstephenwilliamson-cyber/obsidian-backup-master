@@ -17,8 +17,7 @@ language:
   - English
 pages: 18
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Torzsok - Three Chapters of Saiva Material Added to the Skandapurana (2003).pdf]]"
   - "[[Library/Trika/Three Chapters of Saiva Material Added to the Earliest Known (Torzsok)]]"

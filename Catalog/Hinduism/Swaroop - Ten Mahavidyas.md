@@ -18,7 +18,7 @@ language:
 pages: 63
 text: searchable
 status: review
-physical_copy: false
+print: false
 files:
   - "[[tantra dev - mahavidyas (2020).pdf]]"
 aliases: []

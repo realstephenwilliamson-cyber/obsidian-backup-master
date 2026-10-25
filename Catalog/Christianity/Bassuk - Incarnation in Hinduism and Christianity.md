@@ -18,8 +18,7 @@ language:
   - English
 pages: 241
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Bassuk - Incarnation in Hinduism and Christianity (1987).pdf]]"
   - "[[Library/Christianity/Incarnation in Hinduism and Christianity (Bassuk)/Incarnation in Hinduism and Christianity (Bassuk)]]"

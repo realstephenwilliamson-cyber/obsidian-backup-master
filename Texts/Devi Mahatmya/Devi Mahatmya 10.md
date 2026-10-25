@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-chapter
 title: Devī Māhātmya 10
+work: "Devī Māhātmya"
 chapter: 10
 charitra: Uttara Charitra (Final Episode)
 markandeya_purana_chapter: 87
@@ -19,7 +20,7 @@ Chapter 10 of the Devī Māhātmya (*Durgā Saptaśatī*), corresponding to chap
 
 ## Sanskrit text
 
-*(not yet entered — add the Devanāgarī/IAST verses here when available)*
+Not entered here: the Sanskrit (IAST) with an English translation is in [[Devi Mahatmya - Durga Saptashati 11 - Chapter 10 The Slaying of Sumbha|the DeviMahatmya.com edition, chapter 10]].
 
 ## Notes
 

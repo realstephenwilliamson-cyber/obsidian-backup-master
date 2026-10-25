@@ -5,9 +5,7 @@ section: "The Collects"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Collects/holydaysc.html"
-page_range:
-  - 237
-  - 246
+page_range: "237–246"
 aliases:
   - "BCP 237"
   - "BCP 238"
@@ -24,7 +22,7 @@ aliases:
 
 [[BCP 1979]] · *The Collects* · pages 237–246
 
-[p. 237]
+[p. 237] ^pg237
 
 ## Holy Days
 
@@ -52,7 +50,7 @@ We give you thanks, O Lord of glory, for the example of the first martyr Stephen
 
 *Preface of the Incarnation*
 
-[p. 238]
+[p. 238] ^pg238
 
 ### Saint John
 
@@ -110,7 +108,7 @@ O God, who from the family of your servant David raised up Joseph to be the guar
 
 *Preface of the Epiphany*
 
-[p. 240]
+[p. 240] ^pg240
 
 ### The Annunciation
 
@@ -168,7 +166,7 @@ Almighty God, whose blessed apostles Peter and Paul glorified you by their marty
 
 *Preface of Apostles*
 
-[p. 242]
+[p. 242] ^pg242
 
 ### Independence Day
 
@@ -196,7 +194,7 @@ O gracious God, we remember before you today your servant and apostle James, fir
 
 *Preface of the Apostles*
 
-[p. 243]
+[p. 243] ^pg243
 
 ### The Transfiguration
 
@@ -222,7 +220,7 @@ Almighty and everlasting God, who gave to your apostle Bartholomew grace truly t
 
 *Preface of the Apostles*
 
-[p. 244]
+[p. 244] ^pg244
 
 ### Holy Cross Day
 
@@ -280,7 +278,7 @@ Almighty God, you have knit together your elect in one communion and fellowship 
 
 *Preface of All Saints*
 
-[p. 246]
+[p. 246] ^pg246
 
 ### Thanksgiving Day
 

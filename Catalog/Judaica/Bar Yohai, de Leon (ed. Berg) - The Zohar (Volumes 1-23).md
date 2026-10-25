@@ -20,7 +20,7 @@ language:
 pages: 3782
 text: searchable
 status: review
-physical_copy: false
+print: false
 files:
   - "[[Berg (ed.) - The Zohar, Volumes 1-23 (Kabbalah Publishing 2003).pdf]]"
 aliases: []

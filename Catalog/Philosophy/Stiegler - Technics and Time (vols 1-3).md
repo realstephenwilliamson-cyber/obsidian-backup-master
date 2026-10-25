@@ -21,7 +21,7 @@ language:
 pages:
 text: searchable
 status: reading
-physical_copy: true
+print: true
 files:
   - "[[(Technics and Time 1) The Fault of Epimetheus (1998).pdf]]"
   - "[[Library/Philosophy/Stiegler - Technics and Time (1998).pdf]]"

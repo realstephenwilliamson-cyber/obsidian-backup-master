@@ -295,7 +295,7 @@ Written in Bengali script and dated Śāka 1700 \[CE 1778\]. The name of the scr
 
 This is probably the oldest manuscript that I have seen, but it already tries to improve on the text, by emending *vṛkabhānu* to *vṛṣabhānu* (until giving up at 22.19). It also emends irregularly used optatives in 8.1–2 and 18.7.
 
-[p. 27]
+[p. 27] ^pg27
 
 #### B – Sanskrit College, Kolkata. Manuscript number 13554
 
@@ -404,7 +404,7 @@ Bengali script. Not dated. Black ink on tan paper. 11 folia, 8 or 9 lines a page
 
 Bengali script. Ink on paper. 20 folia, 6 lines a page. Not dated. Complete copy of a fragment, covers Paṭalas One through Seventeen. Abridged version. Very close to J and K, but unique in numbering the verses from 1 to 522 over the Paṭalas. Regularly adds incorrect *visargas* at the end of *padas*. Careless scribe, skipping many lines by haplography. Ends with a Vaiṣṇava verse.
 
-[p. 31]
+[p. 31] ^pg31
 
 #### N – Saṃskṛta Sāhitya Pariṣad, Kolkata. Manuscript number 13291
 
@@ -430,7 +430,7 @@ In addition to the manuscripts above, I have consulted a number of other manuscr
 
 Bengali script. Black ink on yellow paper, very neat handwriting. This is an exact, duplicate copy of F above, registered at the College of Tattvavidhan in 1825 CE. Bound together with *Guptasādhana Tantra* and *Gautamīya Tantra*. 63 folia, 28 lines a page. Complete in thirty-seven Paṭalas. Final colophon simply *namo ‘stu gurave*.
 
-[p. 32]
+[p. 32] ^pg32
 
 #### b – Asiatic Society, Kolkata. Manuscript number III H 167
 
@@ -456,7 +456,7 @@ Bengali script. Black ink on tan paper. Fragment, folios 1–10 and 23–39, 6 o
 
 Bengali script. Black ink on brown paper. 50 folia, 6 lines a page, apart from the last, which has only four. Not dated. Abridged version. Ends in the middle of Paṭala Thirty-one. Perhaps an unfinished copy?
 
-[p. 33]
+[p. 33] ^pg33
 
 #### h – Dhaka University Library, Bangladesh. Manuscript number 3829
 
@@ -482,7 +482,7 @@ Bengali script. 12 folios, 7–10 lines a page. Not dated. Faded into illegibili
 
 Bengali script. 94 folios, 7 lines a page. Black ink on paper. Clear but at times faulty handwriting. Complete in thirty-seven Paṭalas. Not dated, but the condition and the script used shows that it is not very old.
 
-[p. 34]
+[p. 34] ^pg34
 
 #### n – Sarasvatī Bhavan at the Sampūrṇānanda Saṃskṛta Viśvavidyālaya, Varanasi. Manuscript number SB 85885
 

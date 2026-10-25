@@ -20,8 +20,7 @@ language:
   - Sanskrit
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Shastri (tr.) - The Kalikapurana, part 1 (1991).pdf]]"
   - "[[Library/Hinduism/Shastri (tr.) - The Kalikapurana, part 2 (1991).pdf]]"
@@ -43,7 +42,7 @@ Distinct from Karel Rijk van Kooij's *Worship of the Goddess according to the K�
 
 **Checked against the file** on 7 Oct 2026: the title and imprint pages of all three parts confirm The Kālikāpurāṇa, text, introduction and translation in English, by B. N. Shastri, first edition by Nag Publishers, Delhi (Parts I and II 1991, Part III 1992), so the leading 'The', the subtitle as printed, the city and the year 1991 were set, and pages stay empty because the note has three files (604, 546 and 446 PDF pages).
 
-**Text layer of all 3 files** (5 Oct 2026): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scans without text went with the trash when it was emptied on 6 Oct 2026.
+**Text layer of all 3 files** (5 Oct 2026; replaced on 15 Oct, below): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scans without text went with the trash when it was emptied on 6 Oct 2026.
 
 ## About
 

@@ -5,9 +5,7 @@ section: "Holy Baptism"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Baptism/concernbaptism.html"
-page_range:
-  - 298
-  - 298
+page_range: "298"
 aliases:
   - "BCP 298"
 ---
@@ -15,7 +13,7 @@ aliases:
 
 [[BCP 1979]] · *Holy Baptism* · pages 298–298
 
-[p. 298]
+[p. 298] ^pg298
 
 ## Concerning the Service
 

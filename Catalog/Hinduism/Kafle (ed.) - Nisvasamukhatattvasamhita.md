@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 132
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Hinduism/Kafle (ed.) - Nisvasamukhatattvasamhita, A Preface to the Earliest Surviving Saiva Tantra (2020).pdf]]"
 aliases: []

@@ -18,8 +18,7 @@ language:
   - English
 pages: 265
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Robert E. Scott, Paul B. Stephan - Limits of leviathan-Cambridge University Press (2006).pdf]]"
   - "[[Library/Philosophy/The Limits of Leviathan (Scott)/The Limits of Leviathan (Scott)]]"

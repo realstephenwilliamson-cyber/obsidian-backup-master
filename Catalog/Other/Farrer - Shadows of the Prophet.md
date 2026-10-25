@@ -17,8 +17,7 @@ language:
   - English
 pages: 316
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Farrer - Shadows of the Prophet (2009).pdf]]"
   - "[[Library/Other/Shadows of the Prophet (Farrer)/Shadows of the Prophet (Farrer)]]"

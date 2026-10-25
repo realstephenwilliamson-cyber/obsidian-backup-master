@@ -5,9 +5,7 @@ section: "Episcopal Services"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/EpiscopalServices/concerning_the_ordination_of_a_bishop.html"
-page_range:
-  - 511
-  - 511
+page_range: "511"
 aliases:
   - "BCP 511"
 ---
@@ -15,7 +13,7 @@ aliases:
 
 [[BCP 1979]] · *Episcopal Services* · pages 511–511
 
-[p. 511]
+[p. 511] ^pg511
 
 ## Concerning the Ordination of a Bishop
 

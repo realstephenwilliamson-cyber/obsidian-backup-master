@@ -20,7 +20,7 @@ language:
 pages: 241
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Fitzpatrick, O'Dwyer, O'Hara (eds.) - Aesthetics, Digital Studies and Bernard Stiegler (2021).pdf]]"
   - "[[Library/Philosophy/Aesthetics, Digital Studies and Bernard Stiegler (Fitzpatrick)/Aesthetics, Digital Studies and Bernard Stiegler (Fitzpatrick)]]"

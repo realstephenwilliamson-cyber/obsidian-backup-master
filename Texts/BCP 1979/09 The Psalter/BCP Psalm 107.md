@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 107
 verses: 43
-page_range:
-  - 746
-  - 749
+page_range: "746–749"
 aliases:
   - "BCP Psalm 107"
   - "BCP 746"
@@ -55,7 +53,7 @@ and the wonders he does for his children. ^107-8
 **107:9** For he satisfies the thirsty \*  
 and fills the hungry with good things. ^107-9
 
-[p. 747]
+[p. 747] ^pg747
 
 **107:10** Some sat in darkness and deep gloom, \*  
 bound fast in misery and iron; ^107-10
@@ -96,7 +94,7 @@ and the wonders he does for his children. ^107-21
 **107:22** Let them offer a sacrifice of thanksgiving \*  
 and tell of his acts with shouts of joy. ^107-22
 
-[p. 748]
+[p. 748] ^pg748
 
 **107:23** Some went down to the sea in ships \*  
 and plied their trade in deep waters; ^107-23
@@ -139,7 +137,7 @@ because of the wickedness of those who dwell there. ^107-34
 **107:35** He changed deserts into pools of water \*  
 and dry land into water-springs. ^107-35
 
-[p. 749]
+[p. 749] ^pg749
 
 **107:36** He settled the hungry there, \*  
 and they founded a city to dwell in. ^107-36

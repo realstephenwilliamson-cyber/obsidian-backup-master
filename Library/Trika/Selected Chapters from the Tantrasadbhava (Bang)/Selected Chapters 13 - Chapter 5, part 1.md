@@ -253,11 +253,11 @@ The *saṃcāra*, ‘path’, is here etymologically interpreted as ‘alway (*s
 
 The 1.103cd is unclear. And the line 1.105ab is elliptical. There two states are mentioned; Parāśakti who is called Vibhvī abides in the state of *laya*. At the same time, it has the nature of the following state, the highest state, i.e. Śivaśakti in the *layātīta* state. 1.106c-109 \[Abandoning is destroying bondage\] A drop of mind (*manobindu*), O Varārohā, is consciousness (*cetas*) in the form of great sound (*mahā-dhvani*). As soon as it is withdrawn, the body remains like a block of wood. Then, bondage composed of *dharma* and *adharma* is destroyed. About this, there is no doubt. Since \[bondage\] has been destroyed, he (the yogin) goes to the highest state, O Suśroṇī. As long as one is not freed from these great bonds, even though the six paths have been purified, how could there be liberation for him? In this manner, I have declared abandoning (*tyāga*) below *vidyā* \[i.e. Śivavidyā\].
 
-The association of five *Kāraṇeśa*s with the eight *tattvas* which are components of *puryaṣṭaka* is already found in Kālottara literature<sup>5</sup>, e.g., *Adhyuṣṭaśatika* chapter 16. The section (based on an electronic transcription of the Kālottara based on ngmpp B 118-7) reads as follows:
+The association of five *Kāraṇeśa*s with the eight *tattvas* which are components of *puryaṣṭaka* is already found in Kālottara literature[^5], e.g., *Adhyuṣṭaśatika* chapter 16. The section (based on an electronic transcription of the Kālottara based on ngmpp B 118-7) reads as follows:
 
 *śabdaḥ sparśaś ca rūpaṃ ca raso gandhaś ca pañcamaḥ |* *buddhir manas tv ahaṃkāraḥ puryaṣṭakam iti smṛtam ||* *yāvad etair na mucyante kathaṃ mucyanti bandhanāt |* *śabdasparśau(em., śabdaḥ sparśa cod.) tyajed brahme rasaṃ vai keśave tyajet ||* *rūpagandhau tyajed rudre buddhyahaṃkāram īśvare |* *manobinduṃ śive tyajya ebhir muktaḥ śivo bhavet |*
 
-<sup>5</sup>*Cf.* TAK 3: s.v. *kāraṇa* 1.
+[^5]: *Cf.* TAK 3: s.v. *kāraṇa* 1.
 
 *[p. 292]* ^pg304
 

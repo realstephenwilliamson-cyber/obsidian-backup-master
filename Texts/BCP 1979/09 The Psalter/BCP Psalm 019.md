@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 19
 verses: 14
-page_range:
-  - 607
-  - 607
+page_range: "607"
 aliases:
   - "BCP Psalm 19"
   - "BCP 607"
@@ -38,7 +36,7 @@ and their message to the ends of the world. ^19-4
 it comes forth like a bridegroom out of his chamber;  
 it rejoices like a champion to run its course. ^19-5
 
-[p. 607]
+[p. 607] ^pg607
 
 **19:6** It goes forth from the uttermost edge of the heavens  
 and runs about to the end of it again; \*  

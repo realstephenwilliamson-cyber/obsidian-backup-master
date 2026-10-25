@@ -18,8 +18,7 @@ language:
   - "English"
 pages: 4448
 text: "searchable"
-status: "keep"
-physical_copy: false
+print: false
 files:
   - "[[Library/Hinduism/Tulsi Ram (tr.) - Rigveda, vols I-IV (2013).pdf]]"
 aliases:

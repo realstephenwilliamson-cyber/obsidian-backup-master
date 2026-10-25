@@ -17,8 +17,7 @@ language:
   - English
 pages: 30
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[A22b_MATRKA_Print_Toerzsoek_20151125.pdf]]"
   - "[[Library/Hinduism/The Emergence of the Alphabet Goddess Matrka in Early Saiva (Torzsok)]]"

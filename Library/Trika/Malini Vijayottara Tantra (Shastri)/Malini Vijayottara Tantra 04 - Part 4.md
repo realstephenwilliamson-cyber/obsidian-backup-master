@@ -245,7 +245,7 @@ he Lecomes an eloquent speaker,
 
 By tho dhuranu on the powor of vwrasping (Punt) Sedheka becomes onapabls of grasping CGletent things within six months. A conoentration on the power of loconotion (Yada) makes a Sedhaka cupable of yanderinz all over ths garth. A Sadhaka practising the power of excretion (Payu) becones free from diseunses of Payu. A dharena on the Phallus (Linga) strengthens the will power of a Suadhuka and he becomes able to oreats things by his own will (Iccha
 
-A Sadhuaka, concentrating himself on the power of testing (Ragendriya) for #ws1lx months, hus ‘the oupebllity to taste a G4istant thing. by a weinilar dharana on the nou for six months, 6 Sadhaka oan sinell things lyiug at a long distance. A dhalena on the eyes mekos a Sedhaka divine giented. A Sedkhaka beconés setrong-bodied by a diervang on the power of feeling (Tvak).
+A Sadhuaka, concentrating himself on the power of testing (Ragendriya) for \#ws1lx months, hus ‘the oupebllity to taste a G4istant thing. by a weinilar dharana on the nou for six months, 6 Sadhaka oan sinell things lyiug at a long distance. A dhalena on the eyes mekos a Sedhaka divine giented. A Sedkhaka beconés setrong-bodied by a diervang on the power of feeling (Tvak).
 
 By e, concentration on the power of hearing \_ (SJrotrs) a Seadnaka can hear a sound from long distauvs.
 

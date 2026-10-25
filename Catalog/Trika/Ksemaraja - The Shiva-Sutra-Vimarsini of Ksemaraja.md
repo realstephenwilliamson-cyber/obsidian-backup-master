@@ -18,8 +18,7 @@ language:
   - English
 pages: 110
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Ksemaraja - The Shiva-Sutra-Vimarsini of Ksemaraja (1994).pdf]]"
   - "[[Library/Trika/The Shiva-Sutra-Vimarsini of Ksemaraja (Ksemaraja)/The Shiva-Sutra-Vimarsini of Ksemaraja (Ksemaraja)]]"

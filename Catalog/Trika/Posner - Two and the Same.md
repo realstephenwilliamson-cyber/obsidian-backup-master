@@ -18,7 +18,7 @@ language:
 pages: 9
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Two_and_the_Same_Two_Faces_of_Subjectivi.pdf]]"
   - "[[Library/Trika/Two and the Same (Posner)]]"

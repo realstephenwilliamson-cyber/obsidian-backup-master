@@ -17,8 +17,7 @@ language:
   - English
 pages: 138
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[UBC_1975_A8 D85.pdf]]"
 aliases:

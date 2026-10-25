@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 67
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[41490102.pdf]]"
 aliases:

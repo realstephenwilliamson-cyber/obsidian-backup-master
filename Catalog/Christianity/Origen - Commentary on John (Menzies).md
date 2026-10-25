@@ -19,8 +19,7 @@ language:
   - English
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Texts/Fathers/Origen - Commentary on John/Origen - Commentary on John]]"
 aliases: []
@@ -33,4 +32,4 @@ await dv.view("Templates/Views/open-pdf")
 
 Allan Menzies's translation in the Ante-Nicene Fathers, vol. 9, from New Advent: Books I, II, IV, V, VI and X, one note each: [[Origen - Commentary on John]] in `Texts/Fathers`. Public domain. The editors' footnotes are not included.
 
-Details from the source's own metadata, as the cloud build of October 2026 recorded them; not checked against a printed copy; `status: keep` since 14 Oct 2026, as a primary text kept as notes.
+Details from the source's own metadata, as the cloud build of October 2026 recorded them; not checked against a printed copy; accepted on 14 Oct 2026 as a primary text kept as notes.

@@ -17,8 +17,7 @@ language:
   - English
 pages: 390
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Urban - Tantra (2003).pdf]]"
   - "[[Library/Hinduism/Tantra - Sex, Secrecy, Politics, and Power in the Study (Urban)/Tantra - Sex, Secrecy, Politics, and Power in the Study (Urban)]]"

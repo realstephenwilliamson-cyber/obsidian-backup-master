@@ -18,8 +18,7 @@ language:
   - English
 pages: 153
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Lim - The Dead Sea Scrolls, A Very Short Introduction (2005).pdf]]"
   - "[[Library/Biblical-Studies/The Dead Sea Scrolls, A Very Short Introduction (Lim)/The Dead Sea Scrolls, A Very Short Introduction (Lim)]]"

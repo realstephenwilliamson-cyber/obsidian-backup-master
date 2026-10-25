@@ -18,8 +18,7 @@ language:
   - English
 pages: 147
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Buber, Martin - I and Thou (trans. Smith, Scribners 1958).pdf]]"
   - "[[Library/Philosophy/I and Thou (Buber)/I and Thou (Buber)]]"

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 5
 verses: 15
-page_range:
-  - 589
-  - 589
+page_range: "589"
 aliases:
   - "BCP Psalm 5"
   - "BCP 589"
@@ -37,7 +35,7 @@ and evil cannot dwell with you. ^5-4
 **5:5** Braggarts cannot stand in your sight; \*  
 you hate all those who work wickedness. ^5-5
 
-[p. 589]
+[p. 589] ^pg589
 
 **5:6** You destroy those who speak lies; \*  
 the bloodthirsty and deceitful, O LORD, you abhor. ^5-6

@@ -17,8 +17,7 @@ language:
   - English
 pages: 234
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Sanskrit/25 A Treasury of Sanskrit Poetry.pdf]]"
   - "[[Library/Sanskrit/A Treasury of Sanskrit Poetry in English Translation (Haksar)/A Treasury of Sanskrit Poetry in English Translation (Haksar)]]"

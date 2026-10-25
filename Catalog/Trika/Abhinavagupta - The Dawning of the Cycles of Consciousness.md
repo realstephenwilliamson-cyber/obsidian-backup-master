@@ -19,8 +19,7 @@ language:
   - English
 pages: 20
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Dawning-of-Cycles-of-Consciousness.pdf]]"
   - "[[Library/Trika/The Dawning of the Cycles of Consciousness (Abhinavagupta)]]"

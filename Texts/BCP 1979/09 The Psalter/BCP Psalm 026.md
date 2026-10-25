@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 26
 verses: 12
-page_range:
-  - 617
-  - 617
+page_range: "617"
 aliases:
   - "BCP Psalm 26"
   - "BCP 617"
@@ -50,7 +48,7 @@ and the place where your glory abides. ^26-8
 **26:9** Do not sweep me away with sinners, \*  
 nor my life with those who thirst for blood, ^26-9
 
-[p. 617]
+[p. 617] ^pg617
 
 **26:10** Whose hands are full of evil plots, \*  
 and their right hand full of bribes. ^26-10

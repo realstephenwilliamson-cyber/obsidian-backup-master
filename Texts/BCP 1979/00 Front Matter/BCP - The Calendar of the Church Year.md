@@ -5,9 +5,7 @@ section: "Front Matter"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/General/calendar.html"
-page_range:
-  - 15
-  - 33
+page_range: "15–33"
 aliases:
   - "BCP 15"
   - "BCP 16"
@@ -33,7 +31,7 @@ aliases:
 
 [[BCP 1979]] · *Front Matter* · pages 15–33
 
-[p. 15]
+[p. 15] ^pg15
 
 ## The Calendar of the Church Year
 
@@ -57,7 +55,7 @@ Trinity Sunday
 
 These feasts take precedence of any other day or observance. All Saints' Day may always be observed on the Sunday following November 1, in addition to its observance on the fixed date.
 
-[p. 16]
+[p. 16] ^pg16
 
 ### 2. Sundays
 
@@ -85,7 +83,7 @@ The Annunciation · Holy Cross Day
 
 The Visitation
 
-[p. 17]
+[p. 17] ^pg17
 
 ### Other Major Feasts
 
@@ -105,7 +103,7 @@ Saint Mary Magdalene
 
 Ash Wednesday · Good Friday
 
-Feasts appointed of fixed days in the Calendar are not observed on the days of Holy Week or of Easter Week. Major Feasts falling in these weeks are transferred to the week following the Second Sunday of Easter, in the order of their occurrence.
+Feasts appointed on fixed days in the Calendar are not observed on the days of Holy Week or of Easter Week. Major Feasts falling in these weeks are transferred to the week following the Second Sunday of Easter, in the order of their occurrence.
 
 Feasts appointed on fixed days in the Calendar do not take precedence of Ash Wednesday.
 
@@ -127,7 +125,7 @@ Commemorations listed in the Calendar Other Commemorations, using the Common of 
 
 Provided, that there is no celebration of the Eucharist for any such occasion on Ash Wednesday, Maundy Thursday, Good Friday, and Holy Saturday; and provided further, that none of the Propers appointed for Various Occasions is used as a substitute for, or as an addition to, the Proper appointed for the Principal Feasts.
 
-[p. 19]
+[p. 19] ^pg19
 
 **January**
 
@@ -194,7 +192,7 @@ Anglican Communion, 1944
 
 **31** c
 
-[p. 20]
+[p. 20] ^pg20
 
 **February**
 
@@ -258,7 +256,7 @@ to the Slavs, 869, 885
 
 29
 
-[p. 21]
+[p. 21] ^pg21
 
 **March**
 
@@ -329,7 +327,7 @@ Western New York, 1929
 
 **5** 31 f John Donne, Priest, 1631
 
-[p. 22]
+[p. 22] ^pg22
 
 **April**
 
@@ -394,7 +392,7 @@ and of Litchfield, 1878
 
 **30** A
 
-[p. 23]
+[p. 23] ^pg23
 
 **May**
 
@@ -463,7 +461,7 @@ United States, 1870
 
 *The First Book of Common Prayer, 1549, is appropriately observed on a weekday following the Day of Pentecost.*
 
-[p. 24]
+[p. 24] ^pg24
 
 **June**
 
@@ -528,7 +526,7 @@ and Martyr, 754
 
 **30** f
 
-[p. 25]
+[p. 25] ^pg25
 
 **July**
 
@@ -595,7 +593,7 @@ Truth, and Harriet Ross Tubman
 
 **31** b Joseph of Arimathaea
 
-[p. 26]
+[p. 26] ^pg26
 
 **August**
 
@@ -663,7 +661,7 @@ Civil Rights, 1965
 
 **31** e Aidan, Bishop of Lindisfarne, 651
 
-[p. 27]
+[p. 27] ^pg27
 
 **September**
 
@@ -728,7 +726,7 @@ Companions, Martyrs, 1871
 
 **30** g Jerome, Priest, and Monk of Bethlehem, 420
 
-[p. 28]
+[p. 28] ^pg28
 
 **October**
 
@@ -800,7 +798,7 @@ Africa, and his Companions, Martyrs, 1885
 
 **31** c
 
-[p. 29]
+[p. 29] ^pg29
 
 **November**
 
@@ -866,7 +864,7 @@ Bishop, 1784
 
 **30** e **Saint Andrew the Apostle**
 
-[p. 30]
+[p. 30] ^pg30
 
 **December**
 
@@ -933,7 +931,7 @@ China and Japan, 1910
 
 **31** A
 
-[p. 31]
+[p. 31] ^pg31
 
 ### The Titles of the Seasons Sundays and Major Holy Days observed in this Church throughout the Year
 
@@ -958,7 +956,7 @@ The First Day of Lent, or Ash Wednesday The First Sunday in Lent The Second Sund
 
 The Sunday of the Passion: Palm Sunday Monday in Holy Week
 
-[p. 32]
+[p. 32] ^pg32
 
 Tuesday in Holy Week Wednesday in Holy Week Maundy Thursday Good Friday Holy Saturday
 
@@ -974,7 +972,7 @@ The First Sunday after Pentecost: Trinity Sunday The Second Sunday through the T
 
 Saint Andrew the Apostle, *November 30* Saint Thomas the Apostle, *December 21* Saint Stephen, Deacon and Martyr, *December 26* Saint John, Apostle and Evangelist, *December 27* The Holy Innocents, *December 28* The Confession of Saint Peter the Apostle, *January 18*
 
-[p. 33]
+[p. 33] ^pg33
 
 The Conversion of Saint Paul the Apostle, *January 25* The Presentation of Our Lord Jesus Christ in the Temple,  
 also called the Purification of Saint Mary the Virgin, *February 2* Saint Matthias the Apostle, *February 24* Saint Joseph, *March 19* The Annunciation of Our Lord Jesus Christ  

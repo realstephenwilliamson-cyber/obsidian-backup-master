@@ -221,7 +221,7 @@ That which is below "ṣ" is "h"; that which is below "1" is "s"; the one before
 
 (one gets) the Sakti bīja.
 
-In the obvious sevenfold structurež[^353] (that we have) here there should be no talk of a ninefold one. (If) there is such (a ninefold structure) by taking Wirodhint etc. into account, (then) why isn't a tenfold etc. nature discussed since in mantra substance there is no distinction?[^354]
+In the obvious sevenfold structure[^353] (that we have) here there should be no talk of a ninefold one. (If) there is such (a ninefold structure) by taking Wirodhint etc. into account, (then) why isn't a tenfold etc. nature discussed since in mantra substance there is no distinction?[^354]
 
 [^351]: To extract the mūlavidyā according to this method see the chart in footnote 320.
 [^352]: If "ādyarṇa" refers to the first letter "Āā", then the line from the quotation means "the one to the side of \*au” that is provided with 'ā"". On the chart, the letter "I" is equidistant from both "Āā" and "au". (2?)
@@ -265,7 +265,7 @@ And so on.... All of it is to be ignored because, according to the instructions 
 
 *[p. 254]* ^pg250
 
-a May the great magnanimous onesž[^361] who are in fear (of infringing) established custom have mercy:
+a May the great magnanimous ones[^361] who are in fear (of infringing) established custom have mercy:
 
 Having upset the status quo with regard to guru etc., they all possess only damaged and corrupted texts (which they have acquired) from here and there, from inappropriate places, by evil means and finally even by theft etc.. They are averse to putting mantra matters into practice {and are only) interested in and devoted to the sale of mantras and the acquisition of worldly goods. Having contrived their authority on the subject through the guruship of their own father etc., they are obviously confusing everybody. As "out of fear of prejudicing the real meaning of the scriptures, only a very little deliberation of this kind is done”, enough of this discussion which gives headaches (even) to the wicked:
 
@@ -355,9 +355,9 @@ By "triple city" is meant the anus, the heart and the space between the eyebrows
 As will be explained:
 
 "in the middle of the maydala of the navel, the lotus of the heart and the maydala of the face." (4:51)
-[^366]: See Verse
+[^366]: See Verse 105.
 
-105.
+
 [^367]: Before invoking Karasuddhi with the Karasuddhikarī vidyãā, one  should meditate on the root vidyā of Mahātripurasundart, thereafter placing its syllables on the anus, heart and spot between the eyebrows.
 
 *[p. 257]* ^pg253
@@ -394,7 +394,7 @@ samarpayāmi plus the vidyā" ete..
 
 *[p. 258]* ^pg254
 
-recoursežł[^374] to the body as a whole. Furthermore, because there is a lack of authority for ascertaining externally the front, right or left sides of these (āsanas), the limitation of place should certainly be understood by what the name forcefully suggests, otherwise the worship may be undone.[^375]
+recourse[^374] to the body as a whole. Furthermore, because there is a lack of authority for ascertaining externally the front, right or left sides of these (āsanas), the limitation of place should certainly be understood by what the name forcefully suggests, otherwise the worship may be undone.[^375]
 
 As I have said (before):
 
@@ -439,7 +439,7 @@ ON THE FUNDAMENT AS WELL AS THE LOCOMOTIVE PARṬ.[^382]
 
 (Putting) them inside the mouth, on the two arms, the heart, the two hips and in the middle of the navel is the sequence of mantra nyāsa.
 
-Having disposed (these mantras on himself) he should let the weapon mantraž[^383] disperse (the obstructive forces) and then make a disposition of the cakras.
+Having disposed (these mantras on himself) he should let the weapon mantra[^383] disperse (the obstructive forces) and then make a disposition of the cakras.
 
 In the space just above the head is bindu which is the first and foremost cakra.
 
@@ -464,9 +464,9 @@ There is nothing (in that passage) of concern (to us) because we have no need of
 
 practice.[^384]“
 
-"One should not incorporate into one scripture what has been receivedž[^385] from another.
+"One should not incorporate into one scripture what has been received[^385] from another.
 
-That ìs so because the origin of a scripture is in the human intellect and not out of reference to any other (scripture). Even in the case of a reference, the reference is (as a means of) proof (and) only as much as is needed to refer to should be takenž[^386] from the other (source) as it may result in confusion."
+That ìs so because the origin of a scripture is in the human intellect and not out of reference to any other (scripture). Even in the case of a reference, the reference is (as a means of) proof (and) only as much as is needed to refer to should be taken[^386] from the other (source) as it may result in confusion."
 
 Therefore, in regard also to the teachings imparted by the worthy gurus from various other places, what (need) is there to discuss every word with those who do not come under our instruction?[^387] Enough:
 
@@ -780,7 +780,7 @@ CREATES THE LURE OF NAMES;
 [^408]: The cakra called "Sarvāśāparíipūraṇam" in Sanskrit.
 
 [^405]: I.e., Tripurā, and the individual goddess reigning over that cakra.
-[^407]: 407, I.e., Tripurā, the particular mudrāī (or cakra goddess) and the particular siddhi.
+[^407]: I.e., Tripurā, the particular mudrāī (or cakra goddess) and the particular siddhi.
 
 *[p. 268]* ^pg264
 

@@ -18,8 +18,7 @@ language:
   - English
 pages: 41
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Judaica/Halperin (tr.) - I Came This Day to the Spring (Va-avo ha-yom), chs 1-21.pdf]]"
   - "[[Library/Judaica/I Came This Day to the Spring (Va-avo ha-yom el ha-ayin) (Eibeschuetz)/I Came This Day to the Spring (Va-avo ha-yom el ha-ayin) (Eibeschuetz)]]"

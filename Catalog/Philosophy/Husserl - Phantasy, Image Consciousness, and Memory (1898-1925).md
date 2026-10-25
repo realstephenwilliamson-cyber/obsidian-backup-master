@@ -18,8 +18,7 @@ language:
   - English
 pages: 744
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Husserl - Phantasy, Image Consciousness, and Memory 1898-1925 (2005).pdf]]"
   - "[[Library/Philosophy/Phantasy, Image Consciousness, and Memory (Husserl)/Phantasy, Image Consciousness, and Memory (Husserl)]]"

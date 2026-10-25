@@ -4,7 +4,7 @@ book: "[[Play as Symbol of the World (Fink)]]"
 order: 14
 page_range: "275–278"
 ---
-[p. 275]
+[p. 275] ^pg275
 
 ## Play and Sport {1962}
 

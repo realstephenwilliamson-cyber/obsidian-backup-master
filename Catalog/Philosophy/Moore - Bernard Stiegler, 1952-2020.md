@@ -18,7 +18,7 @@ language:
 pages: 5
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[rp-208-Moore.pdf]]"
   - "[[Library/Philosophy/Bernard Stiegler, 1952-2020 (Moore)]]"

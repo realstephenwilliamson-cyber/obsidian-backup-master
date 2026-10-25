@@ -12,6 +12,8 @@ source: "Oxford University Press 2017 (2nd ed.; ISBN 978-0-19-046185-0); Stephen
 
 Text: [[NRSVue Matthew 04|NRSVue]] · [[Matthew 04|BSB and SBLGNT]] · Introduction: [[JANT Matthew - Introduction]]
 
+**[[NRSVue Matthew 04#^4-1|4.1–11]]:** **Jesus’ temptation** ([[Mark 01#^1-12|Mk 1.12–13]]; [[Luke 04#^4-1|Lk 4.1–13]]).
+
 **[[NRSVue Matthew 04#^4-1|1]]:** *Led up by the Spirit*, suggests God planned the temptation (e.g., [[Isaiah 63#^63-14|Isa 63.14]]; [[Psalms 107#^107-7|Ps 107.7]]; also [[I Samuel 16#^16-13|1 Sam 16.13]]; [[I Kings 18#^18-12|1 Kings 18.12]]; [[II Kings 02#^2-16|2 Kings 2.16]]; [[Ezekiel 03#^3-14|Ezek 3.14]]). *Tempted*, *Jub.* 17.17 notes that Abraham endured tests of faith, including famine, kingly riches, and circumcision (see also *m. Avot* 5.5, which notes that Abraham endured ten trials). *Devil*, Gk “diabolos,” equivalent to Heb “satan,” “accuser” ([[Torah 40 - Balak#^22-2|Num 22.2]]; [[Zechariah 03#^3-1|Zech 3.1]]; [[Psalms 109#^109-6|Ps 109.6]]; [[Job 06#^6-1|Job 6.1]]; [[I Chronicles 21#^21-1|1 Chr 21.1]]; [[Shabbat 89#89b|*b. Shabb*. 89b]]; see also “Supernatural Beings,” p. 682). ^4-1
 
 **[[NRSVue Matthew 04#^4-2|2]]:** *He fasted*, Moses fasted while on Sinai ([[Torah 46 - Eikev#^9-9|Deut 9.9]]; see also [[Torah 18 - Mishpatim#^24-18|Ex 24.18]]). *Forty days and forty nights*, evoking Noah, Moses, the wilderness period, Elijah, etc. ([[Torah 02 - Noach#^7-12|Gen 7.12]]; [[Torah 18 - Mishpatim#^24-18|Ex 24.18]]; [[Torah 21 - Ki Tisa#^34-28|34.28]]; [[Torah 37 - Sh'lach#^13-25|Num 13.25]]; [[Torah 46 - Eikev#^8-2|Deut 8.2]]; [[I Kings 19#^19-8|1 Kings 19.8]]; [[Ezekiel 04#^4-6|Ezek 4.6]]; Jon 3.4). ^4-2

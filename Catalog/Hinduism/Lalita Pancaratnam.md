@@ -17,8 +17,7 @@ language:
   - English
 pages: 5
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Lalita_Pancharatnam_Trans.pdf]]"
 aliases:

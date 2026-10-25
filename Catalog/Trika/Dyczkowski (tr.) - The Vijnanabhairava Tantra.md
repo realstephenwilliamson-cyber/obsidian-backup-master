@@ -19,8 +19,7 @@ language:
   - Sanskrit
 pages: 24
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Dyczkowski - The Vijnanabhairava Tantra.pdf]]"
   - "[[Library/Trika/The Vijnanabhairava Tantra (Dyczkowski)]]"

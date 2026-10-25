@@ -20,8 +20,7 @@ language:
   - English
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf]]"
   - "[[Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 02.pdf]]"

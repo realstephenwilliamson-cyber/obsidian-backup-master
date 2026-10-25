@@ -17,8 +17,7 @@ language:
   - English
 pages: 241
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[DeCaroli - Haunting the Buddha (OUP 2004).pdf]]"
   - "[[Library/Other/Haunting the Buddha (DeCaroli)/Haunting the Buddha (DeCaroli)]]"

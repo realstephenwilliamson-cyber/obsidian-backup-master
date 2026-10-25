@@ -5,9 +5,7 @@ section: "Tables"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Misc/tables.html"
-page_range:
-  - 880
-  - 885
+page_range: "880–885"
 aliases:
   - "BCP 880"
   - "BCP 881"
@@ -20,7 +18,7 @@ aliases:
 
 [[BCP 1979]] · *Tables* · pages 880–885
 
-[p. 880]
+[p. 880] ^pg880
 
 ### Tables and Rules for Finding the Date of Easter Day
 
@@ -44,7 +42,7 @@ The Golden Number of any year is calculated as follows: Take the number of the y
 
 The following Table provides ready reference to the Sunday Letter of any year between A.D. 1900 and A.D. 2099. It will be found on the line of the hundredth year above the column that contains the remaining digits of the year. But in Leap Years the Letter above the number marked with an asterisk is the Sunday Letter for January and February, and the Letter over the number not so marked is the Sunday Letter for the rest of the year.
 
-[p. 881]
+[p. 881] ^pg881
 
 **Hundred Years: 1900** · g · f · e · d · c · b · A
 
@@ -94,7 +92,7 @@ When one has both the Golden Number and the Sunday Letter for any particular yea
 
 \2. Easter Day will be the next date bearing the Sunday Letter of that year. But when the Golden Number of a given year and the Sunday Letter of that year occur on the same date, then Easter day is one week later. (For example, if the Golden Number is 19--which appears in the Calendar prefixed to March 27--and the Sunday Letter is d, then Easter Day in that year will fall on March 29. If the Golden Number is 10 and the Sunday Letter is A, then Easter Day will fall on April 9. But if the Golden Number is 19 and the Sunday Letter is b, then Easter Day will be one week later, namely April 3.)
 
-[p. 882]
+[p. 882] ^pg882
 
 ### A Table to Find Easter Day
 
@@ -178,7 +176,7 @@ When one has both the Golden Number and the Sunday Letter for any particular yea
 
 ****19**** 1937 March 28 1975 March 30 2013 March 31
 
-[p. 883]
+[p. 883] ^pg883
 
 ### A Table to Find Easter Day
 
@@ -262,7 +260,7 @@ When one has both the Golden Number and the Sunday Letter for any particular yea
 
 ****19**** 2051 April 2 2089 April 3 *are Leap Years.*
 
-[p. 884]
+[p. 884] ^pg884
 
 ### A Table to Find Movable Feasts and Holy Days
 
@@ -312,7 +310,7 @@ April 7 · 6 · Feb. 20 · May 16 · May 26 · \#5 · December 1
 
 *‡Indicates the numbered Proper to be used on the Sunday after Trinity Sunday. Subsequently, the Propers are used consecutively.*
 
-[p. 885]
+[p. 885] ^pg885
 
 **Sundays** Numbered
 

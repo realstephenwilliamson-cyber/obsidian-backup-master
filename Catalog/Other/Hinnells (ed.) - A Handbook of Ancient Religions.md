@@ -17,8 +17,7 @@ language:
   - English
 pages: 624
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Hinnells (ed.) - A Handbook of Ancient Religions (CUP 2007).pdf]]"
   - "[[Library/Other/A Handbook of Ancient Religions (Hinnells)/A Handbook of Ancient Religions (Hinnells)]]"

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 53
 verses: 6
-page_range:
-  - 659
-  - 659
+page_range: "659"
 aliases:
   - "BCP Psalm 53"
   - "BCP 659"
@@ -26,7 +24,7 @@ Hebrew text and JPS translation: [[Psalms 053]]
 All are corrupt and commit abominable acts;  
 there is none who does any good. ^53-1
 
-[p. 659]
+[p. 659] ^pg659
 
 **53:2** God looks down from heaven upon us all, \*  
 to see if there is any who is wise,  

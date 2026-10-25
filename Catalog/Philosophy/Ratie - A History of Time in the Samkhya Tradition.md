@@ -17,8 +17,7 @@ language:
   - English
 pages: 85
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Ratie - A History of Time in the Samkhya Tradition (2021).pdf]]"
   - "[[Library/Philosophy/A History of Time in the Samkhya Tradition (Ratie)/A History of Time in the Samkhya Tradition (Ratie)]]"

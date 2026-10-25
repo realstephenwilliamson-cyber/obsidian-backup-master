@@ -17,8 +17,7 @@ language:
   - English
 pages: 15
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[What_is_a_Yogini_Towards_a_Polythetic_De.pdf]]"
 aliases:

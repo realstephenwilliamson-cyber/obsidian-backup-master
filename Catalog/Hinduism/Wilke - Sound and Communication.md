@@ -18,8 +18,7 @@ language:
   - English
 pages: 1136
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Wilke, Moebus - Sound and Communication (2011).pdf]]"
   - "[[Library/Hinduism/Sound and Communication (Wilke)/Sound and Communication (Wilke)]]"

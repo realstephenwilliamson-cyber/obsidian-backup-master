@@ -17,8 +17,7 @@ language:
   - English
 pages: 248
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The_Saiva_Exegesis_of_Kashmir_In_Melange.pdf]]"
   - "[[Library/Trika/The Saiva Exegesis of Kashmir (Sanderson)/The Saiva Exegesis of Kashmir (Sanderson)]]"

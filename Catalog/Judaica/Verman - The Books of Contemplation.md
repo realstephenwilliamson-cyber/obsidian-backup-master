@@ -17,8 +17,7 @@ language:
   - English
 pages: 283
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Verman - The Books of Contemplation (1992).pdf]]"
   - "[[Library/Judaica/The Books of Contemplation (Verman)/The Books of Contemplation (Verman)]]"

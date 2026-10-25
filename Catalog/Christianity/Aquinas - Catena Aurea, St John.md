@@ -17,8 +17,7 @@ language:
   - English
 pages: 658
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Catena Aurea (Aquinas)/Catena Aurea on John (Aquinas).pdf]]"
   - "[[Library/Christianity/Catena Aurea - Commentary on the Four Gospels, Collected out (Aquinas)/Catena Aurea - Commentary on the Four Gospels, Collected out (Aquinas)]]"

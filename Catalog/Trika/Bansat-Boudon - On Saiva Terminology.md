@@ -17,8 +17,7 @@ language:
   - English
 pages: 62
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Bansat-Boudon - On Saiva Terminology (2014).pdf]]"
   - "[[Library/Trika/On Saiva Terminology (Bansat-Boudon)/On Saiva Terminology (Bansat-Boudon)]]"

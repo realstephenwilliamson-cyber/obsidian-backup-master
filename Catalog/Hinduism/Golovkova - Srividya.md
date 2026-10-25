@@ -17,8 +17,7 @@ language:
   - English
 pages: 8
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Golovkova_Anna_A_Srividya_Edited_by_Knut.pdf]]"
   - "[[Library/Hinduism/Srividya (Golovkova)]]"

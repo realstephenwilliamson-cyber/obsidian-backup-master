@@ -4,11 +4,11 @@ book: "[[The Essential Kabbalah (Matt)]]"
 order: 10
 page_range: "129–131"
 ---
-[p. 129]
+[p. 129] ^pg129
 
 # ![[essential-kabbalah-9780062048134_023.png]] Dangers of Contemplation
 
-[p. 130]
+[p. 130] ^pg130
 
 ### THE ORIGIN OF THOUGHT
 
@@ -18,7 +18,7 @@ By way of parable: a spring of water emerging from its source. If you dig beneat
 
 If you dare to contemplate that to which thought cannot expand and ascend, you will not escape one of two consequences. From forcing thought to grasp that which cannot be comprehended, your soul will ascend, be severed, and return to her root, or else your mind will become confused.
 
-[p. 131]
+[p. 131] ^pg131
 
 ### DROWNING
 

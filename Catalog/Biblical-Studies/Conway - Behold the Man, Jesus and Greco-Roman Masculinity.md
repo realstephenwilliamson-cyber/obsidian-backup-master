@@ -17,8 +17,7 @@ language:
   - English
 pages: 267
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Conway - Behold the Man, Jesus and Greco-Roman Masculinity (OUP 2008).pdf]]"
   - "[[Library/Biblical-Studies/Behold the Man (Conway)/Behold the Man (Conway)]]"

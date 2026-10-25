@@ -17,8 +17,7 @@ language:
   - English
 pages: 24
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Quintessence_of_the_Highest_Purpose_A_Tr.pdf]]"
   - "[[Library/Trika/Quintessence of the Highest Purpose (Lidke)]]"

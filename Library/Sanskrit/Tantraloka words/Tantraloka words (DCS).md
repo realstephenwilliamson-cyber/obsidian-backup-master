@@ -14,9 +14,9 @@ aliases:
 
 One note per verse, named "Tantraloka CC.VVV - words": the verse by pāda, then each word's form, lemma, unsandhied form, part of speech and grammatical features, as the DCS analyses them. Each note links to the verse note it matches by text: 2647 have the same number, 18 are numbered one higher in the DCS (1.59–1.76), 53 are divided differently (check the text), and 8 have no match.
 
-Session 1 also added a Monier-Williams gloss for each word, taking the first dictionary entry for the lemma. That was often the wrong word of the same spelling (e.g. *vyoman* "one who cannot be saved" for "sky"), so the column was left out. The full dictionary is in Library/Data/Monier-Williams ([[README - Monier-Williams]]).
+Session 1 also added a Monier-Williams gloss for each word, taking the first dictionary entry for the lemma. That was often the wrong word of the same spelling (e.g. *vyoman* "one who cannot be saved" for "sky"), so the column was left out. The full dictionary is in Library/Sanskrit/Monier-Williams ([[README - Monier-Williams]]).
 
-19 of 37 āhnikas present in DCS. Missing: 10, 13, 14, 15, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37.
+18 of 37 āhnikas present. Missing: 10, 13, 14, 15, 22, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37.
 
 ## [[Tantraloka words 01|Āhnika 1]]
 

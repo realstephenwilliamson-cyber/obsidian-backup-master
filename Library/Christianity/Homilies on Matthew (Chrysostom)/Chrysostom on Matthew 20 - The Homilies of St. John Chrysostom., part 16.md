@@ -40,7 +40,7 @@ To train them therefore for all this, He brought forward those who shone forth u
 
 4\. What then saith the ardent Peter? “It is good for us to be here.”<sup>2187</sup> For because he had heard that Christ was to go to Jerusalem and to suffer, being in fear still and trembling
 
-218\. 4 Exod. xxxii. 32. 2185 Luke ix. 54, 55. \[The latter clause is omitted in the R.V. text.—R.\] 2186 Matt. v. 20.
+2184 Exod. xxxii. 32. 2185 Luke ix. 54, 55. \[The latter clause is omitted in the R.V. text.—R.\] 2186 Matt. v. 20.
 
 
 *[p. 606]* ^pg614
@@ -55,9 +55,9 @@ And see how even in the very midst of the actual dangers he counselled amiss<sup
 
 What sayest thou, O Peter? didst thou not a little while since distinguish Him from the servants? Art thou again numbering Him with the servants? Seest thou how exceedingly imperfect they were before the crucifixion? For although the Father had revealed it to him, yet he did not always retain the revelation, but was troubled by his alarm; not this only, which I have mentioned, but another also, arising from that sight. In fact, the other evangelists, to declare this, and to indicate that the confusion of his mind, with which he spake these things, arose from that alarm, said as follows; mark, “He wist not what to say, for they were
 
-218\. 8 Matt. xvi. 22. 2189 John xiii. 37.
+2188 Matt. xvi. 22. 2189 John xiii. 37.
 
-219\. 0 Matt. xxvi. 35. παρεβολευετο. Comp. Philip. ii. 30. 2191 \[R.V., “I will make” (ποισω) with the earliest mss. Mark and Luke: “Let us make.”—R.\]
+2190 Matt. xxvi. 35. παρεβολευετο. Comp. Philip. ii. 30. 2191 \[R.V., “I will make” (ποισω) with the earliest mss. Mark and Luke: “Let us make.”—R.\]
 
 
 *[p. 607]* ^pg615
@@ -76,9 +76,9 @@ For as, when He threatens, He shows a dark cloud;—as on Mount Sinai; for “Mo
 
 And whereas Peter had said “Let us make three tabernacles,” He showed a tabernacle not made with hands. Wherefore in that case it was smoke, and vapor of a furnace; but in this, light unspeakable and a voice.
 
-219\. 3 Mark ix. 6. 2194 Luke ix. 33. 2195 Luke ix. 32. \[R.V., margin, “having remained awake.”\] 2196 Ps. xcvii. 2. 2197 Is. xix. 1. 2198 Ps. civ. 3. 2199 Acts i. 9.
+2193 Mark ix. 6. 2194 Luke ix. 33. 2195 Luke ix. 32. \[R.V., margin, “having remained awake.”\] 2196 Ps. xcvii. 2. 2197 Is. xix. 1. 2198 Ps. civ. 3. 2199 Acts i. 9.
 
-220\. 0 Dan. vii. 13. 2201 Matt. xvii. 5. 2202 Exod. xx. 21, xix. 18.
+2200 Dan. vii. 13. 2201 Matt. xvii. 5. 2202 Exod. xx. 21, xix. 18.
 
 
 *[p. 608]* ^pg616
@@ -99,7 +99,7 @@ But what means, “In whom I am well pleased?” As though He had said, “In wh
 
 How was it that, when they heard these words, they were dismayed? And yet before this also a like voice was uttered at Jordan, and a multitude was present, and no one felt anything of the kind; and afterwards again, when also they said, “It thundered,”<sup>2205</sup>yet neither at that time did they experience anything like this. How then did they fall down in the mount? Because there was solitude, and height, and great quietness, and a transfiguration full of awe, and a pure light, and a cloud stretched out; all which things put them in great alarm.
 
-220\. 4 Matt. xvii. 6–8. Matt. xvii. 9. \[In the last clause “the Son of Man” is omitted, and ἀναστ is substituted for ἐγερθμεσολαβοντο 2206 . 2207 Matt. xxv. 34, 35. 2208 Matt. xxv. 23. 2209 Matt. xxv. 41.
+2204 Matt. xvii. 6–8. Matt. xvii. 9. \[In the last clause “the Son of Man” is omitted, and ἀναστ is substituted for ἐγερθμεσολαβοντο 2206 . 2207 Matt. xxv. 34, 35. 2208 Matt. xxv. 23. 2209 Matt. xxv. 41.
 
 
 *[p. 609]* ^pg617
@@ -120,7 +120,7 @@ And again passing an opposite sentence, to some He will answer, “Depart into t
 
 “Then shall the righteous shine forth as the sun;”<sup>2212</sup>or rather more than the sun. But so much is said, not because their light is to be so much and no more, but since we know
 
-221\. 0 Matt. xxv. 26. 2211 Matt. xxii. 13. 335 2213 Heb. iv. 13. 2214 Is. lviii. 6. Is. lviii. 7.
+2210 Matt. xxv. 26. 2211 Matt. xxii. 13. 335 2213 Heb. iv. 13. 2214 Is. lviii. 6. Is. lviii. 7.
 
 
 *[p. 610]* ^pg618
@@ -179,7 +179,7 @@ And if thou wilt ask the Gentile lawgivers too, thou wilt be told that even by t
 
 How then is it not a horrible thing, if thou ascribe not even so much honor to the polity of Heaven, as the legislators to the council of the Romans; but Heaven is to obtain less than
 
-221\. 7 Gen. xii. 11, etc. 2218 Exod. xxii. 25; Lev. xxv. 35, 36; Deut. xxiii. 19. 2219 See Bingham, *Antiq*. vi. ii. 6, who refers to a Law of Honorius, A.D. 397. *Cod. Theod.* lib. 2, tit. 33, *de usuris*, leg. 3; and Gibbon, c. 44; who quotes several of the Fathers to prove that all lending with interest was forbidden; but most or all of them seem to be speaking of exorbitant interest, or of lending to the poor.
+2217 Gen. xii. 11, etc. 2218 Exod. xxii. 25; Lev. xxv. 35, 36; Deut. xxiii. 19. 2219 See Bingham, *Antiq*. vi. ii. 6, who refers to a Law of Honorius, A.D. 397. *Cod. Theod.* lib. 2, tit. 33, *de usuris*, leg. 3; and Gibbon, c. 44; who quotes several of the Fathers to prove that all lending with interest was forbidden; but most or all of them seem to be speaking of exorbitant interest, or of lending to the poor.
 
 
 *[p. 613]* ^pg621
@@ -194,7 +194,7 @@ And thou indeed supposest thy substance to be increased hereby, but instead of s
 
 That this therefore may not be, let us cut out the evil womb of usurious gains, let us deaden these lawless travailings, let us dry up this place of pernicious teeming, and let us pursue the true and great gains only. “But what are these?” Hear Paul saying “Godliness with contentment is great gain.”<sup>2224</sup>
 
-222\. 0 So St. Basil, as quoted below. “The husbandman having reaped the ear, seeks not again the seed under the root. But thou having the fruits, still givest not up that of which they grew. Thou plantest without land, thou reapest without seed.” 2221 St. Basil, *Hom. in Ps*. 14 (15), c. 3. “Interest upon interest, a bad offspring of bad parents. These may be well called *a generation of vipers*, I mean what our usuries bring forth. Vipers, they say, are yeaned, eating through their mother’s womb: and these usurious gains devour the debtors’ houses, and so have their birth.” There is here and afterwards a play upon the word τκο, gain, as a derivative of τκτειν, *to bring forth*, 2222 which can hardly be expressed in English. 2223 Luke vi. 35. \[Cited very freely.\] 1 Tim. vi. 6.
+2220 So St. Basil, as quoted below. “The husbandman having reaped the ear, seeks not again the seed under the root. But thou having the fruits, still givest not up that of which they grew. Thou plantest without land, thou reapest without seed.” 2221 St. Basil, *Hom. in Ps*. 14 (15), c. 3. “Interest upon interest, a bad offspring of bad parents. These may be well called *a generation of vipers*, I mean what our usuries bring forth. Vipers, they say, are yeaned, eating through their mother’s womb: and these usurious gains devour the debtors’ houses, and so have their birth.” There is here and afterwards a play upon the word τκο, gain, as a derivative of τκτειν, *to bring forth*, 2222 which can hardly be expressed in English. 2223 Luke vi. 35. \[Cited very freely.\] 1 Tim. vi. 6.
 
 
 *[p. 614]* ^pg622
@@ -223,7 +223,7 @@ What then is the solution, which Christ alleged? “Elias indeed cometh then, be
 
 In this sense Elias is come: but if thou wouldest seek the Tishbite, he is coming. Wherefore also He said, “Elias truly cometh, and shall restore all things.”<sup>2230</sup> All what things?
 
-222\. 5 John iv. 25. 2226 John i. 21. 2227 Titus ii. 11, 12. \[The Homily omits “to all men.”\] 2228 Tit. ii. 13. 2229 John i. 21. Matt. xvii. 11. \[R.V., “Elijah indeed cometh,” etc.\] 338
+2225 John iv. 25. 2226 John i. 21. 2227 Titus ii. 11, 12. \[The Homily omits “to all men.”\] 2228 Tit. ii. 13. 2229 John i. 21. Matt. xvii. 11. \[R.V., “Elijah indeed cometh,” etc.\] 338
 
 
 *[p. 616]* ^pg624
@@ -242,7 +242,7 @@ And yet neither the Scribes said this, nor the Scriptures; but because now they 
 
 And whence did the disciples know this? He had already told them, “He is Elias, which was for to come;”<sup>2237</sup>but here, that he hath come; and again, that “Elias cometh and will
 
-223\. 1 Mal. iv. 5, 6, LXX. 2232 \[The Hebrew does not have this; the argument rests on the inaccurate rendering of the LXX.\] 2233 John xii. 47. 2234 See LXX. 2235 As to Elijah’s future coming, see St. Just. Mart. *Dial. adv*. *Tryph*. p. 268, ed. Paris, 1636: Tert. *de Anim*. 35; *de Resur. Carnis*, 22; Origen (more doubtfully) *in St. Matt.* tom. 13, iii. 572; *in St. Joan.* tom. 3, iv. 92. St. Jer. *in St. Matt*. xi, 15, (t. 7, 70. Vallars. 1771), but doubtingly; *in loco,* p. 132, more positively; St. Aug. *in St. Joan*. Tr. iv. 5, 6. *de Civ. Dei*, 20, 29: who speaks positively of his coming to convert the Jews, as being “a most common topic in the mouths and hearts of the faithful.” 2236 Matt. xvii. 12, 13.
+2231 Mal. iv. 5, 6, LXX. 2232 \[The Hebrew does not have this; the argument rests on the inaccurate rendering of the LXX.\] 2233 John xii. 47. 2234 See LXX. 2235 As to Elijah’s future coming, see St. Just. Mart. *Dial. adv*. *Tryph*. p. 268, ed. Paris, 1636: Tert. *de Anim*. 35; *de Resur. Carnis*, 22; Origen (more doubtfully) *in St. Matt.* tom. 13, iii. 572; *in St. Joan.* tom. 3, iv. 92. St. Jer. *in St. Matt*. xi, 15, (t. 7, 70. Vallars. 1771), but doubtingly; *in loco,* p. 132, more positively; St. Aug. *in St. Joan*. Tr. iv. 5, 6. *de Civ. Dei*, 20, 29: who speaks positively of his coming to convert the Jews, as being “a most common topic in the mouths and hearts of the faithful.” 2236 Matt. xvii. 12, 13.
 
 
 *[p. 617]* ^pg625
@@ -261,9 +261,9 @@ Again on the mountain, when He had shown them the marvellous vision, and the pro
 
 And after a little while again, when He had cast out the devil, which His disciples were not able to cast out; for then too, “As they abode in Galilee,” so it saith, “Jesus said unto them, The Son of Man shall be betrayed into the hands of sinful<sup>2243</sup>men, and they shall kill Him, and the third day He shall rise again.”<sup>2244</sup>
 
-223\. 8 This refers apparently to such texts as Jer. xxx. 9; Ezek. xxxiv. 23, 24, xxxvii. 24; Hos. iii. 5. 2239 Isa. i. 10.
+2238 This refers apparently to such texts as Jer. xxx. 9; Ezek. xxxiv. 23, 24, xxxvii. 24; Hos. iii. 5. 2239 Isa. i. 10.
 
-224\. 0 Amos ix. 7. 2241 Matt. xvii. 12. 2242 Matt. xvi. 21. \[“Sinful” (ἁμαρτωλν) is omitted in some mss. of the Homily. It does not occur in Matt. xvii. 22, but is 2243 taken from Luke xxiv. 7. Comp. Homily LVIII. at the beginning.—R.\] 339 2245 Matt. xvi. 14. 2246 Comp. Luke xxiii. 24. 2247 Matt. xvii. 22, 23. 2248 Mark ix. 32. 2249 Luke ix. 45.
+2240 Amos ix. 7. 2241 Matt. xvii. 12. 2242 Matt. xvi. 21. \[“Sinful” (ἁμαρτωλν) is omitted in some mss. of the Homily. It does not occur in Matt. xvii. 22, but is 2243 taken from Luke xxiv. 7. Comp. Homily LVIII. at the beginning.—R.\] 339 2245 Matt. xvi. 14. 2246 Comp. Luke xxiii. 24. 2247 Matt. xvii. 22, 23. 2248 Mark ix. 32. 2249 Luke ix. 45.
 
 
 *[p. 618]* ^pg626
@@ -278,7 +278,7 @@ But when they heard these things, they do not ask Him when Elias cometh; being s
 
 3\. “And when they were come to the multitude, there came to Him a man, kneeling down to Him, and saying, Lord, have mercy on my son, for he is lunatic, and sore vexed;<sup>2250</sup>for ofttimes he falleth into the fire, and oft into the water. And I brought him unto Thy disciples, and they could not cure him.”<sup>2251</sup>
 
-225\. 0 \[R.V., “for he is epileptic, and suffereth grievously.”\]
+2250 \[R.V., “for he is epileptic, and suffereth grievously.”\]
 
 
 *[p. 619]* ^pg627
@@ -295,7 +295,7 @@ But when He said, “How long shall I be with you,” He indicates again death t
 
 He stopped not however at the accusations; but what saith He? “Bring him hither to me.”<sup>2259</sup> And Himself moreover asks him, “how long time he is thus;” both making a plea
 
-225\. 2 Mark ix. 23. 2253 Mark ix. 24. 2254 Mark ix. 25. 2255 Mark ix. 22. 2256 2 Kings xiii. 21. 2257 Gal. ii. 9. 2258 Matt. xvii. 17. Mark ix. 21. 340
+2252 Mark ix. 23. 2253 Mark ix. 24. 2254 Mark ix. 25. 2255 Mark ix. 22. 2256 2 Kings xiii. 21. 2257 Gal. ii. 9. 2258 Matt. xvii. 17. Mark ix. 21. 340
 
 
 *[p. 620]* ^pg628
@@ -310,7 +310,7 @@ But do thou not only from this observe His providence and His beneficence, but a
 
 And if he call him “a lunatic,” trouble not thyself at all, for it is the father of the possessed who speaks the word. How then saith the evangelist also, “He healed many that were lunatic?”<sup>2263</sup> Denominating them according to the impression of the multitude. For the evil spirit, to bring a reproach upon nature,<sup>2264</sup>by wine? For the weaker the vessel, the more entire the shipwreck, whether she be free or a slave. For the free woman behaves herself unseemly in the midst of her slaves as spectators, and the slave again in like manner in the
 
-226\. 0 Mark ix. 23. 2261 Matt. viii. 2. Mark ix. 23. \[The word πιστεσαι is read here; The R.V. has a briefer reading. The entire passage in Mark 2262 shows many variations of text.—R.\] Matt. iv. 24. \[σεληνιαζομνου; the same term occurs here, and is the basis of the comment.—R.\] 2263 το στοιχεουπαραφερομνη. 341 2265 1 Tim. v. 23. 2266 Ps. civ. 15. 2267 Lightfoot, *Harmony*, A.D., 43. t. i. p. 333, seems to show from Talmudic writers, that anointing was regularly used among the Jews, either as a remedy or as a charm, in complaints of the head especially; and he uses the fact to explain St. James v. 15.
+2260 Mark ix. 23. 2261 Matt. viii. 2. Mark ix. 23. \[The word πιστεσαι is read here; The R.V. has a briefer reading. The entire passage in Mark 2262 shows many variations of text.—R.\] Matt. iv. 24. \[σεληνιαζομνου; the same term occurs here, and is the basis of the comment.—R.\] 2263 το στοιχεουπαραφερομνη. 341 2265 1 Tim. v. 23. 2266 Ps. civ. 15. 2267 Lightfoot, *Harmony*, A.D., 43. t. i. p. 333, seems to show from Talmudic writers, that anointing was regularly used among the Jews, either as a remedy or as a charm, in complaints of the head especially; and he uses the fact to explain St. James v. 15.
 
 
 *[p. 621]* ^pg629
@@ -367,7 +367,7 @@ And if Mark saith,<sup>2278</sup>that they did not ask, but reasoned in themselv
 
 342
 
-227\. 4 Matt. viii. 26. 2275 Matt. xiv. 29. 2276 Matt. xviii. 1. \[R.V., “Who then is greatest (Greek, greater).” Compare the comment.—R.\] 2277 Matt. xvi. 19. Mark ix. 34. \[μεζων “greater.”\] 2279
+2274 Matt. viii. 26. 2275 Matt. xiv. 29. 2276 Matt. xviii. 1. \[R.V., “Who then is greatest (Greek, greater).” Compare the comment.—R.\] 2277 Matt. xvi. 19. Mark ix. 34. \[μεζων “greater.”\] 2279
 
 
 *[p. 624]* ^pg632
@@ -388,7 +388,7 @@ Seest thou how again He calls us on to all natural excellencies, indicating that
 
 And the child which He set in the midst I suppose to have been a very young child indeed, free from all these passions. For such a little child is free from pride and the mad desire of glory, and envy, and contentiousness, and all such passions, and having many virtues, simplicity, humility, unworldliness,<sup>2282</sup>prides itself upon none of them; which is a twofold severity of goodness; to have these things, and not to be puffed up about them.
 
-228\. 0 \[R.V., “Except ye turn, and become as little children,” but Chrysostom substitutes “this little child.”—R.\] 2281 Matt. xviii. 2, 3. ἀπραγμοσνην . 343 2283 Matt. xviii. 5. \[“one such little child,” rec. text; so R.V.\] 2284 Matt. xviii. 6. \[R.V., “but whoso shall cause one of these little ones which believe in me to stumble, it is profitable for him that a great millstone (Greek, a millstone turned by an ass) should be hanged about his neck, and that he should be sunk in the depth of the sea.” The Greek text of Chrysostom agrees very closely with the received, but omits “which believe in me.”—R.\] \[σκνδαλον, “stumbling block.”\] 2285 \[συμφερε ατ, “it is profitable for him.”\]
+2280 \[R.V., “Except ye turn, and become as little children,” but Chrysostom substitutes “this little child.”—R.\] 2281 Matt. xviii. 2, 3. ἀπραγμοσνην . 343 2283 Matt. xviii. 5. \[“one such little child,” rec. text; so R.V.\] 2284 Matt. xviii. 6. \[R.V., “but whoso shall cause one of these little ones which believe in me to stumble, it is profitable for him that a great millstone (Greek, a millstone turned by an ass) should be hanged about his neck, and that he should be sunk in the depth of the sea.” The Greek text of Chrysostom agrees very closely with the received, but omits “which believe in me.”—R.\] \[σκνδαλον, “stumbling block.”\] 2285 \[συμφερε ατ, “it is profitable for him.”\]
 
 
 *[p. 625]* ^pg633
@@ -457,7 +457,7 @@ And, if thou wilt, let us first bring forward glory, so lovely and desirable wit
 
 “But he rejoices,” thou wilt say, “and exults in these things, and they brighten him up.” The crowning point<sup>2295</sup>of his evils lies in that word of thine, and the incurable part of the disease. For he that rejoices in these things, would be unwilling however easily to be released
 
-229\. 0 1 Cor. xii. 26. 2291 1 Thes. ii. 19. 2292 1 Thes. iii. 8. 2293 2 Cor. ii. 4. 2294 2 Cor. xi. 29. κολοφνα. \[The Greek text has διασκεψμεθα, which the translator has ignored: “Let us consider well, lest,” etc.—R.\] 2296 \[Some mss. insert here: κα το συνδολου τπτοντε φειδ, “and beating the fellow servants unsparingly.” But it is put in brackets by Field.—R.\]
+2290 1 Cor. xii. 26. 2291 1 Thes. ii. 19. 2292 1 Thes. iii. 8. 2293 2 Cor. ii. 4. 2294 2 Cor. xi. 29. κολοφνα. \[The Greek text has διασκεψμεθα, which the translator has ignored: “Let us consider well, lest,” etc.—R.\] 2296 \[Some mss. insert here: κα το συνδολου τπτοντε φειδ, “and beating the fellow servants unsparingly.” But it is put in brackets by Field.—R.\]
 
 
 *[p. 630]* ^pg638
@@ -506,7 +506,7 @@ But if these men had been kept right, it may be said, and there had been no one 
 
 And wherefore did He not take them out of the way? it may be said. Why, wherefore should they have been taken out of the way? For the sake of them that are hurt? But not thence is the ruin of them that are hurt, but from their own remissness. And the virtuous prove it, who, so far from being injured thereby, are even in the greatest degree profited, such as was Job, such as was Joseph, such as were all the righteous, and the apostles. But if many perish, it is from their own slumbering. But if it were not so, but the ruin was the effect of the offenses, all must have perished. And if there are those who escape, let him who doth not escape impute it to himself. For the offenses, as I have said, awaken, and render more quick-sighted, and sharper, not only him that is preserved; but even him that hath fallen into them, if he rise up again quickly, for they render him more safe, and make him more difficult to overcome; so that if we be watchful, no small profit do we reap from hence, even to be continually awake. For if when we have enemies, and when so many dangers are
 
-230\. 1 2 Cor. xi. 26. 2302 Acts xx. 30. 2303 Matt. x. 36. 2304 Luke xvii. 1. σκνδαλα.
+2301 2 Cor. xi. 26. 2302 Acts xx. 30. 2303 Matt. x. 36. 2304 Luke xvii. 1. σκνδαλα.
 
 
 *[p. 633]* ^pg641
@@ -567,7 +567,7 @@ Seest thou how He hath put away the mischief that would result from the offenses
 
 παραμυθαν, Field. 2306 2307 Matt. xviii. 7. δ ο. 2308 \[δι ο and ὑφ ο, *i.e.,*“through whom” for “by whom,” the latter phrase referring to the personal agent.—R.\] 2309 Gen. iv. 1, LXX. \[δι το θεο.\]
 
-231\. 0 2311 Gen. xl. 8. 2312 1 Cor. i. 9. 2313 Matt. xviii. 8, 9. \[The variations from the received text appear in the English rendering as given above.—R.\] 350 γνμη. 2314 2315 Matt. xviii. 10. \[R.V., “See,” etc.\] 2316 1 Cor. x. 10. 2317 A.V., “Children of Israel,” al. “Sons of God,” and hence “Angels.” Deut. xxxii. 8.
+2310 2311 Gen. xl. 8. 2312 1 Cor. i. 9. 2313 Matt. xviii. 8, 9. \[The variations from the received text appear in the English rendering as given above.—R.\] 350 γνμη. 2314 2315 Matt. xviii. 10. \[R.V., “See,” etc.\] 2316 1 Cor. x. 10. 2317 A.V., “Children of Israel,” al. “Sons of God,” and hence “Angels.” Deut. xxxii. 8.
 
 
 *[p. 637]* ^pg645
@@ -602,9 +602,9 @@ Seest thou by how many things He is urging to the care of our mean brethren. Say
 
 5\. If then God thus rejoices over the little one that is found, how dost thou despise them that are the objects of God’s earnest care, when one ought to give up even one’s very life for one of these little ones? But is he weak and mean? Therefore for this very cause most of all, one ought to do everything in order to preserve him. For even He Himself left the ninety and nine sheep, and went after this, and the safety of so many availed not to throw into the shade the loss of one. But Luke saith, that He even brought it on his shoulders, and that
 
-231\. 9 Matt. xviii. 11. \[This verse, which is passed over without comment is omitted in Matthew by some of the best mss. and fathers. Probably taken from Luke xix. 10.—R.\]
+2319 Matt. xviii. 11. \[This verse, which is passed over without comment is omitted in Matthew by some of the best mss. and fathers. Probably taken from Luke xix. 10.—R.\]
 
-232\. 0 \[“Verily I say unto you,” omitted.\] 2321 \[R.V., margin, Greek: “a thing willed before your Father.”\]
+2320 \[“Verily I say unto you,” omitted.\] 2321 \[R.V., margin, Greek: “a thing willed before your Father.”\]
 
 
 *[p. 639]* ^pg647
@@ -621,7 +621,7 @@ Wherefore I entreat, when morning hath appeared, straightway as we come out of o
 
 For the merchant too, to increase his wealth, crosses the sea; and the artisan, to add to his substance, doeth all things. Let us also then not be satisfied with our own salvation only, since else we destroy even this. For in a war too, and in an engagement, the soldier who is looking to this only how he may save himself by flight, destroys the rest also with himself; much as on the other hand the noble-minded one, and he who stands in arms in defense of the others, with the others preserves himself also. Since then our state too is a war, and of all wars the bitterest, and an engagement and a battle, even as our King commanded us, so let us set ourselves in array in the engagement, prepared for slaughter, and blood, and
 
-232\. 3 Luke xv. 7. 352 2325 *i.e.*Heathens.
+2323 Luke xv. 7. 352 2325 *i.e.*Heathens.
 
 
 *[p. 640]* ^pg648
@@ -652,7 +652,7 @@ And we do the same as if any one seeing a house in a bad state, and the walls gi
 
 For this is done even now, and when our soul is in evil and wretched case, and angry, and reviling, and lusting wrongly, and full of vainglory, and at strife, and dragged down to the earth, and torn by so many wild beasts, we neglect to drive away the passions from her, and are careful about house and servants. And while if a bear has escaped by stealth, we shut up our houses, and run along by the narrow passages, so as not to fall in with the wild beast; now while not one wild beast, but many such thoughts are tearing in pieces the soul, we have not so much as a feeling of it. And in the city we take so much care, as to shut up the wild beasts in solitary places and in cages, and neither at the senate house of the city, nor at the courts of justice, nor at the king’s palace, but far off somewhere at a distance do we keep them chained; but in the case of the soul, where the senate house is, where the King’s palace, where the court of justice is, the wild beasts are let loose, crying and making a tumult about the mind itself and the royal throne. Therefore all things are turned upside down, and all is full of disturbance, the things within, the things without, and we are in nothing different
 
-232\. 7 Luke vi. 37. See Luke xiii. 23. 353 Isaiah xiii. 21, 22. \[The word δρκοντε, here rendered “serpents,” is not found in the LXX.; nor does the prophecy refer to Judæa, but to Babylon.—R.\]
+2327 Luke vi. 37. See Luke xiii. 23. 353 Isaiah xiii. 21, 22. \[The word δρκοντε, here rendered “serpents,” is not found in the LXX.; nor does the prophecy refer to Judæa, but to Babylon.—R.\]
 
 
 *[p. 642]* ^pg650
@@ -683,4 +683,4 @@ But what are we advantaged by such accusations against it? For we indeed shoot a
 
 But may God both deliver you from this disease, and cause us to glory in you, for to Him be glory, and dominion, world without end. Amen.
 
-233\. 0 Matt. xvi. 26. παιδαγωγν, a man-servant who took care of boys. 2331 \[ἀνδριαντοποιο, “maker of statuary.”\]
+2330 Matt. xvi. 26. παιδαγωγν, a man-servant who took care of boys. 2331 \[ἀνδριαντοποιο, “maker of statuary.”\]

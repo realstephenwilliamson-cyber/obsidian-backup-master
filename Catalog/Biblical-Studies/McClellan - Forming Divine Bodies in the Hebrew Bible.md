@@ -17,8 +17,7 @@ language:
   - English
 pages: 24
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[McClellan - Forming Divine Bodies in the Hebrew Bible (2021).pdf]]"
   - "[[Library/Biblical-Studies/Forming divine bodies in the Hebrew Bible (McClellan)]]"

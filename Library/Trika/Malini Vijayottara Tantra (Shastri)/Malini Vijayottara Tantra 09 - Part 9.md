@@ -322,7 +322,7 @@ sleep (3)
 
 .Menutra 3.8akti. The fourth
 
-4.3iva,. #eBakti. Beyond the
+4.3iva,. \#eBakti. Beyond the
 
 fourth.
 
@@ -802,7 +802,7 @@ that is 72 fingers. Twelve fingers’ apace from 78 to 18, is covered by the Vid
 
 the whole body. . pal:
 
-Vorse 19-21, in the verges the Varnanyasa, #accsording to the Apara vidhi, is mentioned, All lstters ars arranged in the nine groups. The pervasion ‘of the
+Vorse 19-21, in the verges the Varnanyasa, \#accsording to the Apara vidhi, is mentioned, All lstters ars arranged in the nine groups. The pervasion ‘of the
 
 \#£=«eroups is given in a chart below:= (oi oz fle  
 wae : fee  

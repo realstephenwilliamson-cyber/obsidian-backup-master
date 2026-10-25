@@ -83,7 +83,7 @@ wherever there is a conjunction. When the link to that has been made firm, havin
 विचित्राकारसंस्थानं वल्लीसूकषमगृहान्वितम्
 
 karṇikā pītavarṇena mūlamadhyāgrabhedataḥ |
-sitar raktarn tathā pītan \[illegible\] \[illegible\] kesarajālakam ॥ 79 ॥
+sitar raktaṁ tathā pītan \[illegible\] \[illegible\] kesarajālakam ॥ 79 ॥
 dalāni śuklavarṇāni prativāraṇayā saha |
 pīthaṁ tadvac catuṣkoṇaṁh karnikārdhasamami bahiḥ ॥ 80 ॥
 sitaraktapītakṛṣṇais tatpādān vahnitaḥ kramāt |
@@ -91,16 +91,16 @@ caturbhir api
 
 śŚrùgāni tribhir mandalam iṣyate ॥ 81 ॥
 dandaḥ syān nīlaraktena pītamāmalasārakam |
-raktaṁ mūlaṁ prakurvīta yat tat \[illegible\] prakalpitam |I 82 ॥
+raktaṁ mūlaṁ prakurvīta yat tat \[illegible\] prakalpitam ॥ 82 ॥
 paścād dvārasya pūrveṇa tyaktvāṁgulacatuṣtayam |
-dvāraṁ vedāśri vṛttarn vā saṁkīrṇaṁ vā vicitritam || 83 ॥
-ekadvitripuraṁ tulyarn sāmu(dra, )mathavobhayam |
+dvāraṁ vedāśri vṛttaṁ vā saṁkīrṇaṁ vā vicitritam || 83 ॥
+ekadvitripuraṁ tulyaṁ sāmu(dra, )mathavobhayam |
 kapolakanṭthaśobhopaśobhādibahucitritam ॥ 84 ॥
 vicitrākārasaristhānaṁ vallīsūkṣmagṁānvitam | 
 
 ”The calix should be coloured yellow and the stamens white, red and yellow, according to whether they are at the root, middle or end (i.e. on the left, middle or right). The petals, along with the protective border (prativāranā), are white. Such also is the square pedestal \[illegible\] (on which the lotus is situated). (It extends) outwards (beyond the lotus) for a space equal to half (the width) of the calix.” (It is supported) by its (four) legs, that are of four (different) colours, namely, (moving clockwise) beginning with the one in the southeast, white, red, yellow and black.” The prongs are (coloured with the same) three (colours, omitting red). This is how the mandala should be. The shaft (of the trident) is purple (nīlarakta). The bulb (at the base of the shaft) (āmalasāraka) is yellow and the root should be 
 
-292?\. The published MV contains a verse not found in the TĀ: tataḥ prapūjayen mantrī rajobhiḥ sitapūrakaiḥ I raktaiḥ kṛṣṇai stathā pītaiṁaritaiśca viśeṣataḥ | ‘Then the officiant (mantrin) should worship (the mandala) with powders, first white (read sitapūrvakaiḥ for sitapūrakaiḥ), red, black, yellow and, especially, green. MV 9/24-25ab Then 31/79-85ab = MV 9/25cd-31; MV 9/25cd reads —deśataḥ for -bhedatah in 31/79b, which is the reading of MS K of the MV.
+292?\. The published MV contains a verse not found in the TĀ: tataḥ prapūjayen mantrī rajobhiḥ sitapūrakaiḥ I raktaiḥ kṛṣṇai stathā pītaiṁaritaiśca viśeṣataḥ | ‘Then the officiant (mantrin) should worship (the mandala) with powders, first white (read sitapūrvakaiḥ for sitapūrakaiḥ), red, black, yellow and, especially, green. MV 9/24-25ab Then 31/79-85ab = MV 9/25cd-31; MV 9/25cd reads —deśataḥ for -bhedataḥ in 31/79b, which is the reading of MS K of the MV.
 
 293?\. The 10105 is on pedestal within a square enclosure that extends beyond its circumference by a space of three fingers.
 
@@ -136,7 +136,7 @@ C) The Construction of the Mandala According to the Devyāyāmala'”
 चतुरथींशा्दुध्वं तु ऊध्वाधो योजयेत्पुनः ॥ ८८ ॥
 तन्मानादृध्वमाभ्राम्य चतुर्थेन नियोजयेत्
 
-srīdevyāyāmale tūktari kṣetre vedāśrite sati ॥ 85 II 
+srīdevyāyāmale tūktari kṣetre vedāśrite sati ॥ 85 ॥ 
 
 296?\. \[illegible\] This proves, observes Jayaratha, that the stick is not two cubits long (see above, verse. 71) — it is one and a half.
 
@@ -251,8 +251,8 @@ the wall (kaṭi),” to the right and the left. (92cd-93)
 अस्योध्वे तु परां दक्षेऽन्यां वामे चापरा बुधः ॥ ९६ ॥
 
 karṇikā pītalā raktapītaśuklaṁ ca kesaram |
-dalāni padmabāhyasthā śuklā ca prativāranī ॥ 94 II sülar kṛṣṇena rajasā brahmarekhā sitā punaḥ |
-sūlāgraṁ jvālayā yuktarn śūladandas tu pītalaḥ ॥ 95 ॥
+dalāni padmabāhyasthā śuklā ca prativāranī ॥ 94 ॥ sülar kṛṣṇena rajasā brahmarekhā sitā punaḥ |
+sūlāgraṁ jvālayā yuktaṁ śūladandas tu pītalaḥ ॥ 95 ॥
 sūlamadhye ca yat padmaṁ \[illegible\] pūjayet sadā |
 asyordhve tu \[illegible\] dakṣe ‘nyārṁi vāme cāparār budhaḥ ॥ 96 ॥ 
 
@@ -270,7 +270,7 @@ Surely (one may ask), here (according to this teaching), Kālasaṁkarṣinṇī
 ग्रसते शुलचक्र सा त्विच्छामात्रेण सर्वदा ॥ ९७ ॥
 
 yā sā kālāntakā devī parātītā vyavasthitā |
-grasate Śülacakrarn sā tv icchāmātreṇa sarvadā || 97 ॥ 
+grasate Śülacakraṁ sā tv icchāmātreṇa sarvadā || 97 ॥ 
 
 The Goddess who destroys time (kālāntakā)' and is established as (she who is) Beyond Parā (parāfītā), devours the Wheel of the Trident continuously by just (Her) will alone. (97) 
 
@@ -318,7 +318,7 @@ Surely, Śāntā and the rest are said to belong to Sadāśiva as (his) energy. 
 भैरवं दण्ड ऊध्वस्थं रूपं सादाशिवात्मकम् ।
 चतसः शक्त्यस्त्वस्य स्थूलाः सृश्मास्त्वनेकधा ॥ ९९ ॥
 
-bhairavarn danda ūrdhvasthaṁ rūpaṁ sādāśivātmakam |
+bhairavaṁ danda ūrdhvasthaṁ rūpaṁ sādāśivātmakam |
 catasraḥ śaktyas tv asya sthūlāḥ sūkṣmās tv anekadhā ॥ 99 ॥ 
 
 Bhairava’s nature (rūpa), situated above the staff, is that of Sadāśiva, whose four powers, gross and subtle, are of many kinds. (99) 
@@ -392,7 +392,7 @@ dvādaśāṁgulamānena dandamūle tu pīthikā ॥ 103 ॥
 *[p. 110]* ^pg128
 
 dairdhyāt tūcchrāyāc cordhve ca caturaṁgulamānataḥ |
-ūrdhve ‘py ucchrāyato vedārgulā dairghyād daśāmigulā ॥ 104 I|
+ūrdhve ‘py ucchrāyato vedārgulā dairghyād daśāmigulā ॥ 104 ॥
 sūlamūlagatami pīṭhadvayaṁi khābdhisamārigulam | 
 
 (First of all,) one must worship the ground (on which the mandala is to be drawn), and the coloured powders, chalk and thread (by which that is done), with the root (mantra) and with holy and beautiful (offerings), foremost of which is (wine), the nectar of the left.” (101) 
@@ -447,7 +447,7 @@ He (now) divides up the group of three squares in terms of the parts of the trid
 उभयोः पार्श्वयोशचैवमर्धचन्दराकृतिं तथा ॥ १०८ ॥
 
 sūlāgrari śūlamadhyaṁi tac chūlamūlaṁ tu tad bhavet ॥ 106 ॥
-vedī madhye prakartavyā ubhayośca ṣadarnṁgulam |
+vedī madhye prakartavyā ubhayośca ṣadaṁgulam |
 dvādaśāṁguladīrghā tu ubhayoḥ pārśvayostathā ॥ 107 ॥
 caturagulam ucchrayān mūle vedīṁ prakalpayet |
 ubhayoḥ pārśvayoś caivam ardhacandrākṛtir tathā ॥ 108 ॥ 
@@ -533,7 +533,7 @@ He now talks about the extent here (of their) thickness.
 
 caturaṁgulanimnaṁ tu madhyaṁ tu parikalpayet | 113 Il pūrvāparari tad eveha madhye śūlaṁ tu tadbahiḥ | 
 
-kārayeta tribhiḥ sūtrair ekaikarn vartayeta ca || 114 ॥ 
+kārayeta tribhiḥ sūtrair ekaikaṁ vartayeta ca || 114 ॥ 
 
 kajatrayar tu śūlāgran vedāṁśair dvādaśārṁnṁgulam |
 kramād dakṣānyamadhyeṣu tryaṣtadvādaśapatrakam ॥ 115 ॥
@@ -542,7 +542,7 @@ vidyābhikhyaṁ śūlamūle rajah paścāt prapātayet ॥ 116 ॥
 triśūlaṁr daṇdaparyantar rājavartena pūrayet |
 sūtratrayasya pṛṣthe tu śuklaṁ cārātrayaṁ bhavet ॥ 117 ॥
 suklena rajasā śūlamūle vidyāmbujarni bhavet |
-raktarn raktāsitar \[illegible\] kramād ūrdhvāmbujatrayam || 118 ||
+raktaṁ raktāsitar \[illegible\] kramād ūrdhvāmbujatrayam || 118 ||
 suklena vyomarekhā syāt sā sthaulyād arṁṁgularni bahiḥ |
 tām tyaktvā vedikā kāryā hastamātraṁ pramāṇataḥ || 119 ॥
 vaipulyatriguṇaṁ dairdhyāt prākāraṁ caturaśrakam |
@@ -551,7 +551,7 @@ tridhā vibhajya kramaśo dvādaśāmgulamānataḥ |
 kantha kapolaṁ śobhāṁ tu upaśobhār tadantataḥ | 121 ॥
 prākārar caturaśraṁ tu sabhūrekhāsamanvitam |
 sitaraktapītakṛṣṇai rajobhiḥ kārayet tataḥ ॥ 122 ॥
-raktai rajobhir madhyarn tu yathāśobhaṁ tu pūrayet |
+raktai rajobhir madhyaṁ tu yathāśobhaṁ tu pūrayet |
 asya vyāptau purā cokta tatraivānusarec ca tat || 123 ॥ 
 
 ‘(The upper) eastern and (lower) western (part of the prong in the middle) should be fashioned (in such a way that) the middle (part of it) is depressed by four finger-breadths. Such is the prong here in the middle. Outside that (on its two sides), one should fashion with three threads each (three circles), and draw (within them) three lotuses on the tip of the trident.” (These lotuses have a radius of) twelve finger-breadths (set at a distance of) four finger-breadths (from one other). Those on the right and left (both) have three and eight petals (respectively), and the one in the 
@@ -571,7 +571,7 @@ After that, one should apply coloured powder (to the mandala). The trident, up t
 
 323?\. The eight yoginīs that attend upon Parāparā according to the Trisirobhairava are recorded in a citation below ad 33/2-17ab. The names of the twelve yoginīs attending on Parā, corresponding to the twelve vowels (a ā i \[illegible\] ū e ai o au aṁ ah), are recorded in the MV (20/46-47): siddhir yddhis tathā lakṣmīr dīptir mālā śikhāśivā | sumukhī vāmanī nandā harikeśī hayānanā Il viśvesī ca samākhyātā \[sumākhyā ca; g: sāīmākhyā ca\] etā vai \[vā\] dvādaía kramāt | etāsāṁ vācakā jñeyāḥ svarāḥ ṣanthavivarjitāḥ ॥ ‘Or else, there are these twelve in due order: Siddhi, Rddhi and Lakṣmī, Dīpti, Mālā, Śivāśivā,\* Sumukhī, Vāmanī, Nandā, Harikeśī, Hayānanā, Viśveśī, and the one called Sumā. One should know that the vowels, without the (four) neuter, are their denotators.’ (MV 20/46-47).
 
-324?\. Read with Sanderson (1990: 53 n 99) sivāśivā for śikhā śivā. The reading śivāśivā ìs found in TS 3/219b. nāmabhir \[kh: nāmabhis-\] mudritās tv etā dvādaśāre tathā śṛṇu ॥ siddhir \[k, kh, g: siddhi\] buddhis tathā lakṣmī dīptir \[k, kh, g: dipti-\] mālā śivāśivā | 23b g\] sumukhī vāmanī nandā harikeśī \[kh: harike +\] hayānanā \[k, kh, g: -nāh\] ॥ TS 31218cd- 219 ‘Listen to these in the twelve ked (wheel) stamped with their names. (They are) द Sumukhī, Vāmanī, Nandā, \[illegible\] and Siddhi, Buddhi, Lakṣmī, Dīpti, Mālā Hayānanā.” The only variant with respect to the MV cited above, we find buddhis in the first line for rddhis, which is clearly the better reading and is most probably the original one. The second line is identical as it stands. However, the yoginīs listed are only eleven. The twelfth is listed in a third line in the MV, which is missing here. If this line dropped out in the course of redaction of the text of the TS, the TS is drawing from the MV. The Tantrasadbhāva lists the three yoginīs attending on Aparā as follows: tryarake tu tataś cakre sthitāḥ sarvagatāḥ \[k, g: -gatā; kh: sarvagaṇugratā\] śubhāḥ 1I pūrve tu mānasī proktā cakravegā tathāpare | 43a kh\] kauverye \[k, kh, g: kauvīrye\] mohanī jñeyā mahābalaparākramā \[k: -karṁ; kh, g: - kramāh\] |I “Then residing in the three-spoked wheel, they are omnipresent and auspicious. In the east is said to be Mānasī and Cakravegā in the same way in the west. One should know that Mohinī, who is is very strong and with great valour, is in the north.” TS 3/214cd-215
+324?\. Read with Sanderson (1990: 53 n 99) sivāśivā for śikhā śivā. The reading śivāśivā ìs found in TS 3/219b. nāmabhir \[kh: nāmabhis-\] mudritās tv etā dvādaśāre tathā śṛṇu ॥ siddhir \[k, kh, g: siddhi\] buddhis tathā lakṣmī dīptir \[k, kh, g: dipti-\] mālā śivāśivā | 23b g\] sumukhī vāmanī nandā harikeśī \[kh: harike +\] hayānanā \[k, kh, g: -nāḥ\] ॥ TS 31218cd- 219 ‘Listen to these in the twelve ked (wheel) stamped with their names. (They are) द Sumukhī, Vāmanī, Nandā, \[illegible\] and Siddhi, Buddhi, Lakṣmī, Dīpti, Mālā Hayānanā.” The only variant with respect to the MV cited above, we find buddhis in the first line for rddhis, which is clearly the better reading and is most probably the original one. The second line is identical as it stands. However, the yoginīs listed are only eleven. The twelfth is listed in a third line in the MV, which is missing here. If this line dropped out in the course of redaction of the text of the TS, the TS is drawing from the MV. The Tantrasadbhāva lists the three yoginīs attending on Aparā as follows: tryarake tu tataś cakre sthitāḥ sarvagatāḥ \[k, g: -gatā; kh: sarvagaṇugratā\] śubhāḥ 1I pūrve tu mānasī proktā cakravegā tathāpare | 43a kh\] kauverye \[k, kh, g: kauvīrye\] mohanī jñeyā mahābalaparākramā \[k: -karṁ; kh, g: - kramāh\] |I “Then residing in the three-spoked wheel, they are omnipresent and auspicious. In the east is said to be Mānasī and Cakravegā in the same way in the west. One should know that Mohinī, who is is very strong and with great valour, is in the north.” TS 3/214cd-215
 
 325?\. See above, 31/39.
 
@@ -621,8 +621,8 @@ He says that.
 arātrayavibhāgas tu praveśo nirgamo bhramaḥ |
 anāhatapadavyāptiḥ kundalyā udayaḥ paraḥ ॥ 124 ॥
 hṛdi sthāne gatā devyas triśūlasya sumadhyame |
-nābhisthaḥ śūladandas tu śūlamūlamn hṛdi sthitam Il 125 ॥
-śaktisthānagataṁi prāntaṁ prānte cakratrayarn smaret | 
+nābhisthaḥ śūladandas tu śūlamūlamn hṛdi sthitam ॥ 125 ॥
+śaktisthānagataṁi prāntaṁ prānte cakratrayaṁ smaret | 
 
 The division into three spokes (corresponds) to the entrance (into the mandala), the exit (from it), and the circular movement (within it). It is the pervasion of the plane of Unstruck Sound (anāhata), which is the supreme arising of kundalinī. The goddesses of the trident are in the location of the heart, in the beautiful middle (of the trident). The staff of the trident is located in the navel. The base of the trident is in the heart. (Its) extremity is in the Place of the Power. One should recollect the three wheels within the extremity (of the End of the Twelve). (124-126ab) 
 
@@ -677,11 +677,11 @@ mūlamānandam āpīḍya śaktitrayapadaṁ viśet || 128 ॥
 tatra \[illegible\] \[illegible\] prayatnena jāyante sarvasiddhayaḥ |
 samastādhvasamāyogāt ṣodhādhvavyāptibhāvataḥ || 129 I|
 samastamantracakrādyair evamādi prayatnataḥ |
-ṣattrihśattattvaracitaṁ triśūlaḥ paribhāvayet || 130 ॥
+ṣattrihśattattvaracitaṁ triśūlaṁ paribhāvayet || 130 ॥
 viṣuvatsthena vinyāso mantrāṇnām mandalottame |
 kāryo ‘smin pūjite yatra sarveśvarapadari bhajet ॥ 131 ॥ 
 
-(In other words,) after having set the motionless instrument all at once into motion and squeezed the root which is bliss, one should enter into the plane of the three powers, that should be worshipped there with effort. All the attainments arise (this way). (At the same time,) one should contemplate (paribhāvayet) the trident made of the thirty-six reality levels (tattva) with this kind of initial effort, by conjoining (there) all the Path by (power of) the pervasion of the Six Paths, along with all the Mantras and wheels etc. The Mantras should be deposited in this venerated and most excellent mandala, where one who is established in the Equinox \[illegible\] may attain the plane of the Lord of AIl.’ (128-131) 
+(In other words,) after having set the motionless instrument all at once into motion and squeezed the root which is bliss, one should enter into the plane of the three powers, that should be worshipped there with effort. All the attainments arise (this way). (At the same time,) one should contemplate (paribhāvayet) the trident made of the thirty-six reality levels (tattva) with this kind of initial effort, by conjoining (there) all the Path by (power of) the pervasion of the Six Paths, along with all the Mantras and wheels etc. The Mantras should be deposited in this venerated and most excellent mandala, where one who is established in the Equinox (viṣuvat) may attain the plane of the Lord of AIl.’ (128-131) 
 
 #### Viveka on 31.128–131
 
@@ -792,7 +792,7 @@ the platform, are (fashioned within squares) numbering the (eight) Vasus.[^337] 
 
 ‘The objects of sense (viṣaya)’ are five, and this is (done) all around (sarvataḥ), so that there are two and half squares on each side. One should understand (that the procedure) is such subsequently also. A distinguishing characteristic of the lotus is that it ‘consists of two mandalas of the moon’, that is, the svastika. In order to clarify that, because it is conjoined, it is of primary importance here, he says that it ‘bestows all (one’s) desires’. Thus, the lotus (is drawn) with five squares, the circle of the moon with two, the pedestal with six, the platform (07/07) with eight, and the door with eight. Thus, it is said that there are twenty-nine squares. ‘Such is the circumambulation of the squares’. 
 
-He now sets out \[illegible\] to draw the door there. 
+He now sets out (tāvat) to draw the door there. 
 
 ### TĀ 31.136–137
 
@@ -856,7 +856,7 @@ Now, in order to direct the drawing of the platform (11), he says:
 
 nādayo brahmavaṁśasya lopyā netrād rasasthitāḥ ॥ 138 ॥
 vahner netrānalau lopyau vedān netrayugaṁ rasāt |
-netraṁ saumyagataṁ \[illegible\] pūrvād vedānalau rasāt || 139 I| 
+netraṁ saumyagataṁ \[illegible\] pūrvād vedānalau rasāt || 139 || 
 
 ‘Six squares (nādī) should be deleted, (beginning) from the second (square on the right side of) the square of Brahmā, from the third, five, from the fourth, four, and beginning from the sixth, two. (The same should be done also) on the left, where (the equivalent squares should similarly) be deleted beginning from the second, the third, the fourth and the sixth (squares).’ (138cd-139) 
 
@@ -873,7 +873,7 @@ Having drawn the configuration of the citadel, he teaches the drawing of the sva
 तरात् पूर्वगताच्चैव ।
 
 lokasthān nādikān 11111 netrād vedāgnayaḥ kramāt |
-sarair vahniyutaṁ caiva yugarn netrāgnayo kramāt ॥ 140 ॥
+sarair vahniyutaṁ caiva yugaṁ netrāgnayo kramāt ॥ 140 ॥
 netrāt pūrvagatāc caiva.... 
 
 ‘Having omitted seven threads (nādikā)” (i.e. squares, starting from that of Brahmā) and (then) after the eye (that is two more), (one should delete) (the number of the four) Vedas (squares) and (three squares) (that are the number of the sacred) fires, successively. (Then) from the eye 
@@ -991,7 +991,7 @@ How (is that done)? He says:
 ### TĀ 31.144
 
 वह्वीषु-क्षिमध्याच्च लोप्य पीठेन्दुकावधि ॥ १४४ ॥
-vahnīṣurṣimadhyāc ca lopyarn pīṭhendukāvadhi ॥ 144 ॥ 
+vahnīṣurṣimadhyāc ca lopyaṁ pīṭhendukāvadhi ॥ 144 ॥ 
 
 (This) must be erased (starting) from the middle, (specified by the numbers of the three sacred) fires, (five) arrows and (seven) sages, ending with the moon (next to) the pedestal. (144cd) 
 
@@ -1007,7 +1007,7 @@ Having taught in this way (the manner of) drawing the lotus, he (now) says (how 
 सागरे नेत्रकं लोप्यं नाडयः पर्वदिग्गताः ॥ १४५ ॥
 
 brahmano netraviṣayān netrād vedānalau haret |
-sāgare netrakaṁ lopyarn nādayaḥ pūrvadiggatāḥ ॥ 145 ॥ 
+sāgare netrakaṁ lopyaṁ nādayaḥ pūrvadiggatāḥ ॥ 145 ॥ 
 
 *[p. 127]* ^pg145
 
@@ -1105,7 +1105,7 @@ He (now) states that procedure.
 मध्ये शलं च ततरत्थं
 
 \[illegible\] prāk \[illegible\] caturaśrite |
-hastamātraṁ tridhā sūryān navakhandarn yathā bhavet | 155 ॥
+hastamātraṁ tridhā sūryān navakhandaṁ yathā bhavet | 155 ॥
 madhye \[illegible\] ca tatretthan 
 
 First (one must draw) within a square field (another one which is smaller) by twelve (finger-breadths on each side). It is three times one handspan (on each side) and (fashioned) so that it is divided into nine parts (for each handspan), and the trident is (drawn) there in this way in the middle (of it). (155bcd-160a) 

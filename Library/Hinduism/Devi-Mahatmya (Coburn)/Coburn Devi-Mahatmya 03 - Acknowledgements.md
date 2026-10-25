@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Coburn - Devi-Mahatmya - The Crystallization of the Go
 book: "[[Library/Hinduism/Devi-Mahatmya (Coburn)/Devi-Mahatmya (Coburn)|Devi-Mahatmya (Coburn)]]"
 order: 3
 source_pdf: "Library/Hinduism/Coburn - Devi-Mahatmya (1984).pdf"
-pages: "13–18"
+page_range: "13–18"
 pdf_pages: "13–18"
 text_source: "fresh OCR with Tesseract 5 (Latin) of the page images (the earlier OCR layer had lost the diacritics)"
 converted: 2026-10-22

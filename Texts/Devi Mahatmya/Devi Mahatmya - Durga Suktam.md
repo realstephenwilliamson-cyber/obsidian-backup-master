@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-auxiliary
 title: Durgā Sūktam
+collection: "Devī Māhātmya"
 role: closing
 status: stub
 aliases:

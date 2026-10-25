@@ -19,8 +19,7 @@ language:
   - Sanskrit
 pages: 96
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Abhinavagupta - Essence of the Exact Reality or Paramarthasara of Abhinavagupta (1991).pdf]]"
   - "[[Library/Trika/Essence of the Exact Reality or Paramarthasara (Abhinavagupta)/Essence of the Exact Reality or Paramarthasara (Abhinavagupta)]]"

@@ -75,7 +75,7 @@ Surely, it is said everywhere (in the scriptures) that only consecration can con
 
 yo naivaṁ veda naivāsāv abhiṣikto 111 samayyādikrameneti śŚrīmatkāmika ucyate ॥ 4 ॥
 yo na vedādhvasandhānarni ṣodhā bāhyāntarasthitam |
-sa gurur mocayenn eti siddhayogīśvarīmate || 5 Il sarvalakṣaṇahīno ‘pi jṁñānavān gurur iṣyate |
+sa gurur mocayenn eti siddhayogīśvarīmate || 5 || sarvalakṣaṇahīno ‘pi jṁñānavān gurur iṣyate |
 1014971 prādhānyam evoktam iti śrīkacabhārgave ॥ 6 ॥
 padavākyapramāṇajñaḥ śivabhaktyekatatparaḥ |
 samastaśivaśāstrārthaboddhā kāruniko guruḥ ॥ 7 ॥ 
@@ -136,7 +136,7 @@ paśvātmanā svayarṁbhūṣnur nādhikārī sa kutracit |
 *[p. 298]* ^pg318
 
 bhasmāṁkuro vratisuto duhśīlātanayas tathā ॥ 9 ॥
-kundo golaś ca te duṣtā uktarn devyākhyayāmale |
+kundo golaś ca te duṣtā uktaṁ devyākhyayāmale |
 punarbhūś cānyaliṁgo yah punaḥ śaive pratiṣthitaḥ ॥ 10 ॥ 
 
 ‘(The teacher one adopts should not be) ‘self-generated’ (that is, without a teacher) (svayahbhūḥ).” The Supreme Lord has stated the (true) characteristic of this (most elevated sort of teacher). (A false teacher) is devoid of devotion (abhakta);? he acts ungoverned by the Lord,” (performing the rites solely) with the thought of (earning a) livelihood. By nature a fettered soul, he wishes (only to affirm himself as) a self-generated teacher (syaṁbhūṣnuḥ) and has no authority anywhere (to do anything in that capacity). (False is the teacher) who covers (himself) with ashes (just for show), one who is (an illegitimate) son of an ascetic (or) of an immoral woman, (one who is) an adulterine and a widow’s bastard.’ These are said in the Devyāyāmala to be defective (false and wicked teachers). (Moreover,) he too (is not a true teacher) who (once bore) the sectarian sign of another (tradition), and (although now) established in the Śaiva (tradition), must be born again." (8-10) 
@@ -245,7 +245,7 @@ Teachers that Should be Avoided
 यतः कारकसामग्रचात्कर्मिणो नाधिकः क्वचित् देव्यायामलशासख्रे च काञ्च्यादिपरिवर्जनम् ॥ १४ ॥
 तदृष्टदोषात्क्रोधादेः सम्यक्जञातर्यसौ कुतः ।
 
-yas tu karmitayācāryas tatra kāṇādivarjanam |l 13 ||
+yas tu karmitayācāryas tatra kāṇādivarjanam || 13 ||
 yataḥ kārakasāmagryāt (4771110 nādhikaḥ kvacit |
 devyāyāmalaśāstre ca kāñcyādiparivarjanam ॥ 14 ॥
 tad dṛṣtadoṣāt krodhādeḥ samyakjñātary asau kutaḥ | 
@@ -281,7 +281,7 @@ guravas tu \[illegible\]
 
 ### TĀ 23.15–16
 
-\[illegible\] varjyarn yad yāmalādiṣu | 15 Il karmyabhiprāyataḥ sarvaṁ tad iti vyācacakṣire | 
+\[illegible\] varjyaṁ yad yāmalādiṣu | 15 Il karmyabhiprāyataḥ sarvaṁ tad iti vyācacakṣire | 
 
 The teachers have declared that (statements) in the Devyāyāmala and elsewhere, (such as) ‘a ‘self-generated’ (teacher who has no teacher) should be avoided’, all refer to (a teacher) who specializes in the performance of rituals (karmin) (not one who focuses on knowledge of the scriptures).” (15cd-16ab) 
 
@@ -324,10 +324,10 @@ The Creation of a Teacher (&cāryakaranam)
 ततोऽभिषिञ्त्तं शिष्यं चतुःषष्ट्या ततः सकृत् तन्मन््ररसतोयेन पूर्वोक्तविधिना गुरुः ॥ १ ८॥
 विभवेन सुविस्तीर्णं ततस्तस्मै वदेत्स्वकम् सर्वं कर्तव्यसारं यच्छासख्राणां परमं रहः ॥ । १९ ॥
 
-prāgvat saṁpūjya hutvā ca śrāvayitvā cikīrṣitam ॥ 17 Il tato ‘bhiṣiñcet tarn Śiṣyaṁ catuhṣaṣtyā tataḥ sakṛt |
+prāgvat saṁpūjya hutvā ca śrāvayitvā cikīrṣitam ॥ 17 ॥ tato ‘bhiṣiñcet tarn Śiṣyaṁ catuhṣaṣtyā tataḥ sakṛt |
 tanmantrarasatoyena pūrvoktavidhinā guruḥ || 18 ॥
 vibhavena suvistīrnaṁ tatas tasmai vadet svakam |
-sarvar kartavyasāraṁ yac chāstrāṇārṁ paramarn rahaḥ || 19 ॥ 
+sarvar kartavyasāraṁ yac chāstrāṇārṁ paramaṁ rahaḥ || 19 ॥ 
 
 After having worshipped and offered oblations as before and declared what he intends to do, the teacher should then sprinkle the disciple sixty-four (times) and then just once with water (infused with) the aesthetic essence (rasa) of the Mantras (used to consecrate it), observing the procedure (vidhi) taught above. (He should perform the rite) sumptuously and at great length. Then (the teacher) should tell (the disciple) all the essence of his duties and the supreme secret of the scriptures. (17cd-19) 
 
@@ -366,7 +366,7 @@ jñānamāūlo guruḥ proktaḥ saptasatrīm pravartayet |
 
 “And that is said in the Jāānottara (where we read that): ‘Brahmins, kṣatriyas, vaiśyas,” eunuchs, women, śūdras, as well as others 
 
-710?\. The source of these four lines is problematic. Abhinava clearly tells us that he is quoting from the Jāānottara, ie the Sarvajñānottara. Indeed, 23/20d-2lab is a light paraphrase of Sarvajñānottara Kriyāpāda 19/27 (IFP T 334 p. 102), which is a verse in a chapter concerning the consecration of a teacher (abhiṣekaprakarana). It reads: brāhmanāḥ kṣatriyā vaiśyāḥ strī íüdrādi napuṁsakāḥ | dīkṣākāle tv amīmāṁsyā jñāūnadāne vicārayet I| 23/21cd is a direct quotation of 19/27cd. It is also quoted, without variants, above in TĀv ad 22/35cd-37ab. But there is a significant variant in the Sarvajñānottara which may be the original reading. This is jñānadāne for jñānakāle. The former means ‘when knowledge is imparted’; the latter literally ‘at the time of knowledge’, implying ‘at the time when knowledge is imparted’. The former thus appears to be a more satisfactory reading and has been chosen accordingly. This reading is further supported by Kṣemarāja’s citation of these lines in his commentary on the Netratantra ad 22/72c. They read: brahmanāḥ kṣatriyāścaiva vaiśyā vā vīravandite \\ napuṁsakāḥ striyāḥ śüdrā ye cānye ‘pi tadarthinaḥ \\\\ dīkṣākāle na mīmāṁsyā jñāūnadāne vicārayet ॥ jṁñānamūlo gurur yasmāt saptasatrīpravartakaḥ || However, although the text is clearly the same despite the variants, Kṣemarāja says that he is drawing these lines from the Kāmika. This is confusing. There is some doubt as to whether Kṣemarāja had access to the Kāmika, as in all instances in which he quotes it, his references coincide with those of his teacher. However, in this instance it appears that he is quoting the original. Thus, in place of uktaṁ jñānottare caitad brahmanāḥ kṣatriyā viśaḥ ॥ 20 ॥ ‘And that is said in the Jñānottara (where we read that): ‘Brahmins, \[illegible\] vaiśyas,” he reads brahmanāḥ kṣatriyāścaiva vaiśyā vā vīravandite | ‘O (goddess) praised by Kaula adepts (vīra), Brahmins and kṣatriyas or vaiśyas, We notice, by the way, that the speaker here is Siva, who is addressing the Goddess. In the Kāmika that is circulating nowadays, Śiva is addressing the sages (rṣi). The Sarvajñānttara that has reached us is not set in the form of a dialogue. There is no reason to suppose that there is a mistake in the printed edition of the Netratantra. For the last line is quoted separately in the commentary on the Netratrantra ad 16/68ab. There also Kṣemarāja says he is quoting from the Kāmikā (feminine!). Gnoli suggests in a note to his translation, that only this line is from the Kāmikāgama; the rest is, as Abhinava says, from the Sarvajñānottara. The recovery of the original Kāmika may well confirm Gnoli’s learned conjecture. However, it may also be possible there was some intertextuality between the Kāmika and the Sarvajñānottara, as evidenced in the first three lines, and then the last line is a departure in the Kāmika from the common text. Unfortunately, we do not have the text of the Kāmika known to Abhinava, but it may well have been that the subject discussed here is not found in the Sarvajñānottara. Kṣemarāja had access to the Sarvajñānottara. Thus, it is quite possible that he noticed that the last line here is not found there. There is no evidence that Kṣemarāja had access to the Kāmika / Kāmikā except perhaps here. How could he have mistaken the full passage in NTu ad 22/72c quoted above as being from the Kāmika? If he did not have access to it, perhaps the mistake is in the early manuscripts of the Tantrāloka that instead of Sarvajñānottara say the entire passage is from the Kāmika. Now let’s examine the last line. The word ‘satr? could be derived from satrin meaning ‘one who performs a sacrifice’, that is, a sattram. A ‘sattra’ is an extensive Vedic sacrificial session. MW defines it as ʻa great soma sacrifice lasting according to some, from 13 to 100 days and performed by many officiating Brahmins; also applied to any oblation or meritorious work equivalent to the performance of a Sattra.’ The form satrī is certainly very unusual, and it is tempting to simply emend the text. However, the line is quoted in two other places with the same word, and Jayaratha uses it in his introduction to the following verse, further supporting the reading here. Kṣemarāja quotes the last line in two places in his commentary on the Netratantra. One is in NTu ad 16/68ab, and the other we have noted already ibid. ad 22/72c. In the first instance the reading is proktaḥ saptasatrīpravartakaḥ — that I take to mean: ‘(the teacher is the root of knowledge,) who is said to be the one who instigates the seven sacrificial sessions (saptasatrī)’. In the second instance we find the reading yasmāt saptasatrīpravartakaḥ ‘(the teacher is the root of knowledge,) for he is the one who instigates the seven sacrificial sessions (saptasatrī)’.
+710?\. The source of these four lines is problematic. Abhinava clearly tells us that he is quoting from the Jāānottara, ie the Sarvajñānottara. Indeed, 23/20d-2lab is a light paraphrase of Sarvajñānottara Kriyāpāda 19/27 (IFP T 334 p. 102), which is a verse in a chapter concerning the consecration of a teacher (abhiṣekaprakarana). It reads: brāhmanāḥ kṣatriyā vaiśyāḥ strī íüdrādi napuṁsakāḥ | dīkṣākāle tv amīmāṁsyā jñāūnadāne vicārayet I| 23/21cd is a direct quotation of 19/27cd. It is also quoted, without variants, above in TĀv ad 22/35cd-37ab. But there is a significant variant in the Sarvajñānottara which may be the original reading. This is jñānadāne for jñānakāle. The former means ‘when knowledge is imparted’; the latter literally ‘at the time of knowledge’, implying ‘at the time when knowledge is imparted’. The former thus appears to be a more satisfactory reading and has been chosen accordingly. This reading is further supported by Kṣemarāja’s citation of these lines in his commentary on the Netratantra ad 22/72c. They read: brahmanāḥ kṣatriyāścaiva vaiśyā vā vīravandite \\ napuṁsakāḥ striyāḥ śüdrā ye cānye ‘pi tadarthinaḥ \\\\ dīkṣākāle na mīmāṁsyā jñāūnadāne vicārayet ॥ jṁñānamūlo gurur yasmāt saptasatrīpravartakaḥ || However, although the text is clearly the same despite the variants, Kṣemarāja says that he is drawing these lines from the Kāmika. This is confusing. There is some doubt as to whether Kṣemarāja had access to the Kāmika, as in all instances in which he quotes it, his references coincide with those of his teacher. However, in this instance it appears that he is quoting the original. Thus, in place of uktaṁ jñānottare caitad brahmanāḥ kṣatriyā viśaḥ ॥ 20 ॥ ‘And that is said in the Jñānottara (where we read that): ‘Brahmins, kṣatriyas, vaiśyas,” he reads brahmanāḥ kṣatriyāścaiva vaiśyā vā vīravandite | ‘O (goddess) praised by Kaula adepts (vīra), Brahmins and kṣatriyas or vaiśyas, We notice, by the way, that the speaker here is Siva, who is addressing the Goddess. In the Kāmika that is circulating nowadays, Śiva is addressing the sages (rṣi). The Sarvajñānttara that has reached us is not set in the form of a dialogue. There is no reason to suppose that there is a mistake in the printed edition of the Netratantra. For the last line is quoted separately in the commentary on the Netratrantra ad 16/68ab. There also Kṣemarāja says he is quoting from the Kāmikā (feminine!). Gnoli suggests in a note to his translation, that only this line is from the Kāmikāgama; the rest is, as Abhinava says, from the Sarvajñānottara. The recovery of the original Kāmika may well confirm Gnoli’s learned conjecture. However, it may also be possible there was some intertextuality between the Kāmika and the Sarvajñānottara, as evidenced in the first three lines, and then the last line is a departure in the Kāmika from the common text. Unfortunately, we do not have the text of the Kāmika known to Abhinava, but it may well have been that the subject discussed here is not found in the Sarvajñānottara. Kṣemarāja had access to the Sarvajñānottara. Thus, it is quite possible that he noticed that the last line here is not found there. There is no evidence that Kṣemarāja had access to the Kāmika / Kāmikā except perhaps here. How could he have mistaken the full passage in NTu ad 22/72c quoted above as being from the Kāmika? If he did not have access to it, perhaps the mistake is in the early manuscripts of the Tantrāloka that instead of Sarvajñānottara say the entire passage is from the Kāmika. Now let’s examine the last line. The word ‘satr? could be derived from satrin meaning ‘one who performs a sacrifice’, that is, a sattram. A ‘sattra’ is an extensive Vedic sacrificial session. MW defines it as ʻa great soma sacrifice lasting according to some, from 13 to 100 days and performed by many officiating Brahmins; also applied to any oblation or meritorious work equivalent to the performance of a Sattra.’ The form satrī is certainly very unusual, and it is tempting to simply emend the text. However, the line is quoted in two other places with the same word, and Jayaratha uses it in his introduction to the following verse, further supporting the reading here. Kṣemarāja quotes the last line in two places in his commentary on the Netratantra. One is in NTu ad 16/68ab, and the other we have noted already ibid. ad 22/72c. In the first instance the reading is proktaḥ saptasatrīpravartakaḥ — that I take to mean: ‘(the teacher is the root of knowledge,) who is said to be the one who instigates the seven sacrificial sessions (saptasatrī)’. In the second instance we find the reading yasmāt saptasatrīpravartakaḥ ‘(the teacher is the root of knowledge,) for he is the one who instigates the seven sacrificial sessions (saptasatrī)’.
 
 
 *[p. 305]* ^pg325
@@ -387,14 +387,14 @@ seven sacrifices (saptasatrin)
 
 713?\. One could also translate ‘whose root is knowledge’.
 
-714?\. Cf. NT 22/71cd-72ab. deyam etat svaśiṣyānāṁ svaputrāṇāṁ na cānyathā || NT 22/71 ॥ svadīkṣitānām bhaktānāīi gurudevāgnipūjinām | svayarn śāsitum aṁāṇāḥ \[illegible\] ca, na cādhyāpitamantrānām, api tu svayarn dīkṣitīnām bhaktyādiyujāmh svaputrāṇnām api tādṛśām evaitad deyam ārādhanāya tattvataḥ prakāśanīyam || sāsanāṁāya, api cātyantamanunmiṣitavivekāya, asańbhavadvittíāya vā vinā samayadīkṣāṁ ca na dadyāt........ iti śrīkāmikoktasthityonmiṣacchivabhaktaye suparīkṣitāmālyacittāya api vā kṛtasamayadīkṣāya tad vidhānaṁ deyam eva, na tu dīkṣāṁ vinā jātucit | uktarn ca Śrīmālinīvijaye ña cādhikāritā \[illegible\] vinā yoge.asti śāṁkare | ity upakramyā api mantrādhikāritvaṁ muktiś ca śivadīkṣayā | (MV 4/6-8) iti ॥ a ṣvapriye pi ca | 22/72 ॥ sarvathā naiva dātavyamityājñā pārameśvarī | This (procedure vidhāna) should be given to one’s own disciples and sons, not otherwise, (it should be given) to one’s own initiates, devotees and those who worship the teacher, gods and the (sacred) fire.” (NT 22/71cd-72ab) (it should be given) to such as are his own worthy disciples he himself has taught, not to those who have leart Mantras (by themselves), rather to those who have been initiated and are devout, so too to his own sons. It should be revealed so that they may worship correctly. ‘Without the (regular, basic) Initiation into the Rule, it should not be given’ (even to) one who is worthy of the teachings, or to one whose discernment (viveka) is extremely undeveloped, or one for whom it is impossible (to have the) money (to cover the cost). Then Kṣemarāja quotes the equivalent of TĀ 23/20cd-22ab (see above note 23,31). He continues: ‘Thus, according to the stated view of the venerable Kāmika that this procedure should be given to one whose devotion for Siva has developed, so too to one whose mind is pure and well examined, but never in any circumstance without initiation. It is also said in the Māli jaya, beginning with: “There is no competence (adhikāritā) (to practice) Śaiva Yoga without initiation’ up to “(Moreover, (initiation) is said to be of two kinds, in accord with the distinction between (the practice based on the performance of ritual) action and (that conducive to the development of the) knowledge (of ultimate principles). Thus, this has been said, because that (initiation) should be performed in the two (corresponding) ways. Śiva’s initiation not only confers entitlement (to fruits of) yoga (and its practice),) it also (confers the) authority (to practice) mantras as well as liberation (itself). (MV 5/6-8) “(It should not be given without initiation,) even to one’s own beloved. The Supreme Goddess commands that it should not be given in every way (to anybody).” (NT 22/72d-73ab)
+714?\. Cf. NT 22/71cd-72ab. deyam etat svaśiṣyānāṁ svaputrāṇāṁ na cānyathā || NT 22/71 ॥ svadīkṣitānām bhaktānāīi gurudevāgnipūjinām | svayaṁ śāsitum aṁāṇāḥ \[illegible\] ca, na cādhyāpitamantrānām, api tu svayaṁ dīkṣitīnām bhaktyādiyujāmh svaputrāṇnām api tādṛśām evaitad deyam ārādhanāya tattvataḥ prakāśanīyam || sāsanāṁāya, api cātyantamanunmiṣitavivekāya, asańbhavadvittíāya vā vinā samayadīkṣāṁ ca na dadyāt........ iti śrīkāmikoktasthityonmiṣacchivabhaktaye suparīkṣitāmālyacittāya api vā kṛtasamayadīkṣāya tad vidhānaṁ deyam eva, na tu dīkṣāṁ vinā jātucit | uktaṁ ca Śrīmālinīvijaye ña cādhikāritā \[illegible\] vinā yoge.asti śāṁkare | ity upakramyā api mantrādhikāritvaṁ muktiś ca śivadīkṣayā | (MV 4/6-8) iti ॥ a ṣvapriye pi ca | 22/72 ॥ sarvathā naiva dātavyamityājñā pārameśvarī | This (procedure vidhāna) should be given to one’s own disciples and sons, not otherwise, (it should be given) to one’s own initiates, devotees and those who worship the teacher, gods and the (sacred) fire.” (NT 22/71cd-72ab) (it should be given) to such as are his own worthy disciples he himself has taught, not to those who have leart Mantras (by themselves), rather to those who have been initiated and are devout, so too to his own sons. It should be revealed so that they may worship correctly. ‘Without the (regular, basic) Initiation into the Rule, it should not be given’ (even to) one who is worthy of the teachings, or to one whose discernment (viveka) is extremely undeveloped, or one for whom it is impossible (to have the) money (to cover the cost). Then Kṣemarāja quotes the equivalent of TĀ 23/20cd-22ab (see above note 23,31). He continues: ‘Thus, according to the stated view of the venerable Kāmika that this procedure should be given to one whose devotion for Siva has developed, so too to one whose mind is pure and well examined, but never in any circumstance without initiation. It is also said in the Māli jaya, beginning with: “There is no competence (adhikāritā) (to practice) Śaiva Yoga without initiation’ up to “(Moreover, (initiation) is said to be of two kinds, in accord with the distinction between (the practice based on the performance of ritual) action and (that conducive to the development of the) knowledge (of ultimate principles). Thus, this has been said, because that (initiation) should be performed in the two (corresponding) ways. Śiva’s initiation not only confers entitlement (to fruits of) yoga (and its practice),) it also (confers the) authority (to practice) mantras as well as liberation (itself). (MV 5/6-8) “(It should not be given without initiation,) even to one’s own beloved. The Supreme Goddess commands that it should not be given in every way (to anybody).” (NT 22/72d-73ab)
 
 
 *[p. 306]* ^pg326
 
 It ‘was said’ previously. 
 
-Surely (one may ask), who is one who is engaged in the seven sacrificial sessions (saptasatrī)? How should he impel him to perform them (katharn pravartayet)? With this doubt in mind, he says: 
+Surely (one may ask), who is one who is engaged in the seven sacrificial sessions (saptasatrī)? How should he impel him to perform them (kathaṁ pravartayet)? With this doubt in mind, he says: 
 
 ### TĀ 23.22–23
 
@@ -466,7 +466,7 @@ Once the teacher who is (dedicated to the performance of) rituals (karmin), (but
 
 (He should tell) ‘him’, that is, (the disciple) he has himself consecrated (as a teacher in his place). (Note that) in some (manuscripts) this verse comes just after (the one that begins with) ‘(the newly consecrated teacher) should observe the seven sacrificial sessions’ This has been written because the scribes made a mistake and so should be ignored. 
 
-Again, this is the difference (between this kind of teacher) and a knowledgeable one \[illegible\] Thus, he says: 
+Again, this is the difference (between this kind of teacher) and a knowledgeable one (jñānin). Thus, he says: 
 
 ### TĀ 23.26–28
 
@@ -498,7 +498,7 @@ of authority (when it is transmitted from teacher to disciple), and (conversely,
 
 #### Viveka on 23.26–28
 
-724?\. Read prāk cākurvan for prāk ca kurvan. Cf. TSā, p. 173. The transmission from teacher to disciple mirrors that between father and son. We are reminded of the Bṁadāranyakopaniṣad (1/5) where this is described: ‘when one who has this knowledge departs from this world, he enters into his son with these vital breaths \[i.e. faculties of Speech, Mind and Breath\] . . . (17) From the earth and from the fire the divine Speech enters. Verily, that is the divine Speech whereby whatever one says comes to be. (18) Out of the sky and out of the sun the divine Mind enters him. Verily, that is the divine Mind whereby one becomes blissful and sorrows not. (19) Out of the water and out of the moon the divine Breath enters him. Verily, that is the divine Breath which, whether moving or unmoving, is not perturbed nor injured. He who knows this becomes the Self of all beings. . . 220) Again the ‘transmission’ from the dying father to his son is described in the Kausītaki Upaniṣad (2/15). They sit facing each other. ‘Father: ‘My speech in you I would place!” Son: “Your speech in me I take.” F: ‘My breath in you I place.” S: “Your breath in me I take.” F: ‘My eye in you I place.” S: “Your eye in me I take.” It continues in this way as the father transmits to his son his ear, tastes, deeds (karman), pleasure and pain, bliss, delight and procreation, his goings, mind, and intelligence \[illegible\] Then the son ‘turning to the right, he goes forth towards the east. The father calls out after him: ‘May glory (yaśas), sacred lustre (brahmavarcasa), and fame delight in you!” Then the other looks over his left shoulder. Having hid (his face) with his hand, or having covered (it) with the edge of his garment, he says: ‘Heavenly (svarga) worlds and desires do you obtain!”
+724?\. Read prāk cākurvan for prāk ca kurvan. Cf. TSā, p. 173. The transmission from teacher to disciple mirrors that between father and son. We are reminded of the Bṁadāranyakopaniṣad (1/5) where this is described: ‘when one who has this knowledge departs from this world, he enters into his son with these vital breaths \[i.e. faculties of Speech, Mind and Breath\] . . . (17) From the earth and from the fire the divine Speech enters. Verily, that is the divine Speech whereby whatever one says comes to be. (18) Out of the sky and out of the sun the divine Mind enters him. Verily, that is the divine Mind whereby one becomes blissful and sorrows not. (19) Out of the water and out of the moon the divine Breath enters him. Verily, that is the divine Breath which, whether moving or unmoving, is not perturbed nor injured. He who knows this becomes the Self of all beings. . . 220) Again the ‘transmission’ from the dying father to his son is described in the Kausītaki Upaniṣad (2/15). They sit facing each other. ‘Father: ‘My speech in you I would place!” Son: “Your speech in me I take.” F: ‘My breath in you I place.” S: “Your breath in me I take.” F: ‘My eye in you I place.” S: “Your eye in me I take.” It continues in this way as the father transmits to his son his ear, tastes, deeds (karman), pleasure and pain, bliss, delight and procreation, his goings, mind, and intelligence (prajñā). Then the son ‘turning to the right, he goes forth towards the east. The father calls out after him: ‘May glory (yaśas), sacred lustre (brahmavarcasa), and fame delight in you!” Then the other looks over his left shoulder. Having hid (his face) with his hand, or having covered (it) with the edge of his garment, he says: ‘Heavenly (svarga) worlds and desires do you obtain!”
 
 
 *[p. 310]* ^pg330
@@ -550,7 +550,7 @@ The Teacher’s Mantra Observance (tadvratam)
 
 prāptābhiṣekaḥ sa guruḥ ṣanmāsān mantrapaddhatim |
 sarvāṁ tantroditāṁ dhyāyej japec cātanmayatvataḥ ॥ 31 ॥
-yadaiva tanmayībhūtas \[illegible\] vīryam upāgataḥ |
+yadaiva tanmayībhūtas tadā vīryam upāgataḥ |
 chindyāt pāśāṁs tato yatnari kuryāt tanmayatāsthitau || 32 ॥ 
 
 The (new) teacher who has (just) been consecrated should recite for six months the entire liturgy of Mantras taught in the scriptures, and meditate on (them) until he becomes one with them. If he has become one with them, he then attains (their) vitality (vīrya), and (so) may sever the fetters (of his disciples). Thus, he should exert himself (to attain and) abide in (that) state of unity.” (31-32) 
@@ -574,7 +574,7 @@ The (new) teacher who has (just) been consecrated should recite for six months t
 
 732?\. i.e. (the teacher should sprinkle) ‘the surrounding enclosure of the three energies’.
 
-733?\. MV 10/31cd-35ab. Jayaratha understands that Abhinava is commenting on these verses. However, reading ahead, it is clear that Abhinava is drawing from the Devyāyāmala, commenting as he does so. He also refers to the Brahmayāmala. Abhinava wishes to incorporate a Vidyāvrata into his Trika. This he finds in the Devyāyāmala, which we know was a Trika Tantra. Although, it is not explicitly mentioned in the MV, Abhinava sees its implicit presence there. Thus, towards the end of the passage, Jayaratha quotes from the MV, which Abhinava has in mind, we find the expression ‘cīrnavrata’, that is, ‘one who has observed the vow.” He repeats a modified version of the expression below in 23/44a i.e. cīrnavidyāvrataḥ, with reference to the BY. There the Vidyāvrata is strongly antinomian. This Abhinava wishes to contain. Thus, he does not refer to the preceding verses in the MV that set out the scenario in which the repetition of the Vidyā takes place. Even so, we can assume that he would expect his reader to be aware of the context. They read: ‘Or else, his mind is that of a hero once he has served (his teacher and the deity) as taught (in the scriptures). This procedure should be practiced at night on a day in the dark lunar fortnight (kṛṣnabhūtadina). Having performed the aforementioned sacrifice and offered the most excellent (sacrificial) substance to the fire, the officiant (mantrin) should repeat mantra, his body erect, immobile and facing north. (27-28) (He should do so) until the mistresses of yoga gather together from all around. Having made a loud sound that is very fierce and terrifying, falling on the ground, (the yoginīs) stay (there) penetrating the lord of adepts. Having paid homage to them and pierced the left limb of his own (body) and then having given them (the blood) that comes from it as a liquid offering (argha), he becomes one with them (tatsama).’ (29-31ab) MV 10/27-31ab Cf. also Tantrasadbhāva chapter 21: cīrnavidyāvrato mantrī \[g: ?\] divyaiḥ \[g: ?\] samisevyate \[g: \*?sevyate\] sadā | kalpajīvī sutejasvī bālāditąasamaprabhah ॥ 124 ॥ yatra yatrecchate mantrī purar bhavati rūkṣajam | bhakṣyabhojyaiḥ \[g: -jyais\] susaṁpürnarn sarvakāmasamanvitam || 125 I| divyakanyaiḥ \[g: -kanyais\] samākīrnṇaiḥ \[g: -nai\] śayyāsanasamanvitam \[g: ayy + + + + \* \*?\] | rātrau suratabhogaṁ tu ramitvā? tantramantravit | 126 ॥ \[illegible\] ?\] māyüūrapiricchakenaiva punaś caivāpasaṁharet | \[g: ?\] 142a g\] evar krīdayate mantrī sakhāyaiḥ parivāritam || 127 ॥ ‘The reciter of mantra who has observed the Vow of the (Observance of the) Vidyā is always attended by divine (beings). He lives for aeons (kalpa) and is full of radiant energy, his light tike that of a young (morning) sun. (124) Wherever the reciter of mantra desires the world, it is born of (his) stern (steadiness) (rūkṣā), it is well filled with delicious edibles and all one may desire, strewn with divine virgin girls, it has a couch and seat. At night, the one who knows mantra and Tantra, (enjoys) the pleasures of love, and by the (magic wand of) the peacock’s tail he removes it again. The knower of mantra plays in this way surrounded by his companions.’ (125-127)
+733?\. MV 10/31cd-35ab. Jayaratha understands that Abhinava is commenting on these verses. However, reading ahead, it is clear that Abhinava is drawing from the Devyāyāmala, commenting as he does so. He also refers to the Brahmayāmala. Abhinava wishes to incorporate a Vidyāvrata into his Trika. This he finds in the Devyāyāmala, which we know was a Trika Tantra. Although, it is not explicitly mentioned in the MV, Abhinava sees its implicit presence there. Thus, towards the end of the passage, Jayaratha quotes from the MV, which Abhinava has in mind, we find the expression ‘cīrnavrata’, that is, ‘one who has observed the vow.” He repeats a modified version of the expression below in 23/44a i.e. cīrnavidyāvrataḥ, with reference to the BY. There the Vidyāvrata is strongly antinomian. This Abhinava wishes to contain. Thus, he does not refer to the preceding verses in the MV that set out the scenario in which the repetition of the Vidyā takes place. Even so, we can assume that he would expect his reader to be aware of the context. They read: ‘Or else, his mind is that of a hero once he has served (his teacher and the deity) as taught (in the scriptures). This procedure should be practiced at night on a day in the dark lunar fortnight (kṛṣnabhūtadina). Having performed the aforementioned sacrifice and offered the most excellent (sacrificial) substance to the fire, the officiant (mantrin) should repeat mantra, his body erect, immobile and facing north. (27-28) (He should do so) until the mistresses of yoga gather together from all around. Having made a loud sound that is very fierce and terrifying, falling on the ground, (the yoginīs) stay (there) penetrating the lord of adepts. Having paid homage to them and pierced the left limb of his own (body) and then having given them (the blood) that comes from it as a liquid offering (argha), he becomes one with them (tatsama).’ (29-31ab) MV 10/27-31ab Cf. also Tantrasadbhāva chapter 21: cīrnavidyāvrato mantrī \[g: ?\] divyaiḥ \[g: ?\] samisevyate \[g: \*?sevyate\] sadā | kalpajīvī sutejasvī bālāditąasamaprabhah ॥ 124 ॥ yatra yatrecchate mantrī purar bhavati rūkṣajam | bhakṣyabhojyaiḥ \[g: -jyais\] susaṁpürnaṁ sarvakāmasamanvitam || 125 I| divyakanyaiḥ \[g: -kanyais\] samākīrṇaiḥ \[g: -nai\] śayyāsanasamanvitam \[g: ayy + + + + \* \*?\] | rātrau suratabhogaṁ tu ramitvā? tantramantravit | 126 ॥ \[illegible\] ?\] māyüūrapiricchakenaiva punaś caivāpasaṁharet | \[g: ?\] 142a g\] evar krīdayate mantrī sakhāyaiḥ parivāritam || 127 ॥ ‘The reciter of mantra who has observed the Vow of the (Observance of the) Vidyā is always attended by divine (beings). He lives for aeons (kalpa) and is full of radiant energy, his light tike that of a young (morning) sun. (124) Wherever the reciter of mantra desires the world, it is born of (his) stern (steadiness) (rūkṣā), it is well filled with delicious edibles and all one may desire, strewn with divine virgin girls, it has a couch and seat. At night, the one who knows mantra and Tantra, (enjoys) the pleasures of love, and by the (magic wand of) the peacock’s tail he removes it again. The knower of mantra plays in this way surrounded by his companions.’ (125-127)
 
 
 *[p. 313]* ^pg333
@@ -594,7 +594,7 @@ The Yoga of the Vow of the Observance of the Vidyā
 hṛccakrād utthitā sūkṣmā śaśisphaṭikasaṁnibhā |
 lekhākārā nādarūpā praśāntā cakrapaṁktigā ॥ 33 ॥
 dvādaśānte nirūdhā sā sauṣumne tripathāntare |
-tatra hṛccakram āpūrya japen mantraṁ jvalatprabham |l 34 ॥
+tatra hṛccakram āpūrya japen mantraṁ jvalatprabham ॥ 34 ॥
 cakṣurlomādirandhraughavahajjvālaurvasainibham | 
 
 “(The power of the breath) that originates from the wheel of the (teacher’s) heart is subtle (and brilliant) like the moon or a crystal. It is in 
@@ -620,7 +620,7 @@ He now describes the going and coming of the Mantra (in the cyclic flow of the b
 
 yāvac chāntaśikhākīrṇari viśvājyapravilāpakam ॥ 35 I|
 tadājyadhārāsaritṛptam ānābhikuharāntaram |
-evar mantrā mokṣadāḥ syur dīptā buddhāḥ sunirmalāḥ |l 36 ॥ 
+evar mantrā mokṣadāḥ syur dīptā buddhāḥ sunirmalāḥ ॥ 36 ॥ 
 
 ‘(This process continues) until (the fire) fills the Topknot, located in the tranquil (End of the Twelve). (There) it melts the clarified butter which is the universe, then satisfied (and propitiated) by this flow of butter, (the fire of the vital breath, blazing with Mantra, enters) the cavity of the navel. In this way, the Mantras effulgent, awakened and stainless, bestow liberation.’ (35cd-36) 
 
@@ -694,7 +694,7 @@ Once he has completed his Vow of the Observance of the Vidyā, he is competent (
 रहस्ये योजयेद्रपरं परीक्ष्य विपरीततः ॥ ४२॥
 आचाराच्छक्तिमप्येव नान्यथेत्यूर्मिशासने ।
 
-kṛtavidyāvrataḥ paścād dīkṣāvyākhyādi sarvataḥ ॥ 41 Il kuryād yogyeṣu Siṣyeṣu nāyogyeṣu kadācana |
+kṛtavidyāvrataḥ paścād dīkṣāvyākhyādi sarvataḥ ॥ 41 ॥ kuryād yogyeṣu Siṣyeṣu nāyogyeṣu kadācana |
 rahasye yojayed vipra parīkṣya viparītataḥ ॥ 42 ॥
 \[illegible\] chaktim apy eva nānyathety ūrmiśāsane | 
 
@@ -761,7 +761,7 @@ The Removal of Knowledge from a Deceitful Disciple
 
 *[p. 318]* ^pg338
 
-dehasaṁbandhasamichannasārvajñyo dambhabhājanam || 44 Il avidan dīkṣamāno ‘pi na duṣyed daiśikaḥ kvacit |
+dehasaṁbandhasamichannasārvajñyo dambhabhājanam || 44 || avidan dīkṣamāno ‘pi na duṣyed daiśikaḥ kvacit |
 jñātvā tv ayogyatāṁ naina dīkṣeta pratyavāyitām ॥ 45 ॥
 buddhvā 
 
@@ -873,7 +873,7 @@ ajñāte ‘pi punar jñāte vijñïānaharaṇar caret ॥ 51 ॥
 punaḥ punar yadā jñāto viśvāsaparivarjitaḥ |
 \[illegible\] samagrato dhyāyet sphurantari candrasūryavat || 52 ||
 tato nijahṛdambhojabodhāmbarataloditām |
-svarbhānumalinām dhyāyed vāmār \[illegible\] vimohanīm II 53 ॥
+svarbhānumalinām dhyāyed vāmār \[illegible\] vimohanīm ॥ 53 ॥
 vāmācārakrameṇainām nihsṛtār sādhyagāminīm |
 cintayitvā tayā grastaprakāśari tarn vicintayet ॥ 54 ॥
 anena kramayogena mūdhabuddher durātmanaḥ |
@@ -894,7 +894,7 @@ present before him, shining like the Sun or Moon. He should imagine that Vāmā,
 
 The sense (of saying) ‘repeatedly’ is that here (in this case) also, (the situation) may not be otherwise (than it seems to be). The (expression) ‘movement in reverse’ means the sequence of withdrawal. That is said (in the Mālinīvijayottara): 
 
-\[illegible\] the disciple has) taken” knowledge \[illegible\] in a proper (honest) way (nyāyena) but subsequently fails to understand it, the wise (teacher) should 
+\[illegible\] the disciple has) taken” knowledge (jñāna) in a proper (honest) way (nyāyena) but subsequently fails to understand it, the wise (teacher) should 
 
 751?\. Concerning Rāhu and eclipses, see above, 6/100cd-102ab (100-101).
 
@@ -918,7 +918,7 @@ Surely, (one may object,) knowledge and action are the (very) nature of the Self
 ननु विज्ञानमात्मस्थं कथं हर्तु क्षमं भवेत् ।
 अतो विज्ञानहरणं कथं श्रपूर्व उच्यते ॥ ५६ ॥
 
-nanu vijñïānam ātmasthaḥ \[illegible\] harturn kṣamaṁ bhavet |
+nanu vijñïānam ātmasthaḥ \[illegible\] hartuṁ kṣamaṁ bhavet |
 ato vijñïānaharaṇam kathan śrīpūrva ucyate ॥ 56 ॥ 
 
 Surely (one may ask), how can one remove the knowledge that is present in the Self? So how is it that the removal of knowledge (from a deceitful disciple’s) soul is taught in the Śrīpūrva (Mālinīvijayottara)?” (56) 
@@ -974,7 +974,7 @@ Surely (one may ask), if the Vidyā etc. is detrimental by its very nature, beca
 तिरोभावाभिधं कृत्यं तथासौ शिवतात्मकः ॥ ६१ ॥
 
 guruḥ punaḥ śivābhinnaḥ san yah pañcavidhāṁ kṛtim |
-kuryād yadi tataḥ pūrṇam adhikāritvam asya tat I| 59 ॥
+kuryād yadi tataḥ pūrṇam adhikāritvam asya tat ॥ 59 ॥
 ato yathā śuddhatattvasṛṣtisthityor malātyaye |
 yojanānugrahe kāryacatuṣke ‘dhikṛto guruḥ ॥ 60 ॥ 
 
@@ -984,7 +984,7 @@ yojanānugrahe kāryacatuṣke ‘dhikṛto guruḥ ॥ 60 ॥
 *[p. 324]* ^pg344
 
 sivābhedena tat kuryāt tadvat pañcamam apy ayam |
-tirobhāvābhidhaṁ kṛtyarn tathāsau śivatātmakaḥ |l 61 Il 
+tirobhāvābhidhaṁ kṛtyaṁ tathāsau śivatātmakaḥ || 61 || 
 
 Again, if the teacher, being one with Śiva, can perform His five-fold task (kṛti), his authority is then, for this reason, full (and complete). Thus, just as the teacher is authorized to perform (the following) four tasks, that is, the creation and maintenance of the pure principles, the destruction of Impurity and the grace (of bestowing) union (yojanā) (with Śiva); in the same way, because he is not separate from Śiva, he may perform the fifth task, called obscuration. It is in this way that Śiva’s state is his (very) nature.” (59-61) 
 
@@ -1119,7 +1119,7 @@ Surely then, (one may ask) what was the purpose of saying that (the teacher) sho
 
 *[p. 327]* ^pg347
 
-svātantryamātrajñaptyai tu kathitarn śāstra īdṛśam |
+svātantryamātrajñaptyai tu kathitaṁ śāstra īdṛśam |
 na kāryaṁ patatām hastālambaḥ sahyo na pātanam ॥ 68 ॥ 
 
 This kind of (practice) has been taught in the scripture” only to make known (the teacher’s complete) freedom. It should not be done. One should lend a hand to those who have fallen, not cause them to fall (further). (68) 
@@ -1163,7 +1163,7 @@ Better to Follow an Inferior Doctrine and Give it Up Than Give up a Superior One
 Ārdhvadṛṣtau prapannaḥ sann anāśvastas tataḥ param |
 adhahśāstraṁ prapadyāpi na śreyaḥ pātratām iyāt ॥ 70 ॥
 adhodṛṣṭau prapannas tu tad anāśvastamānasaḥ |
-ūrdhvaśāsanabhāk pāpaṁ tac cojjhec ca śivībhavet I| 71 ॥ 
+ūrdhvaśāsanabhāk pāpaṁ tac cojjhec ca śivībhavet ॥ 71 ॥ 
 
 He who, propense to a superior doctrine \[illegible\] loses (his) faith in it and so subsequently follows an inferior scripture, (will never) become worthy of the more excellent one (śreyas). However, he who (on the contrary), is propense to an inferior doctrine, (but his) mind has no faith (in it) and adheres (instead) to a more elevated teaching (śāsana), may abandon the sin (and blame of his former belief) and identify with Śiva. (10-71) 
 
@@ -1211,7 +1211,7 @@ He explains the overall sense.
 atra hy artho ‘yam etāvat pūrvoktajñānabṛmhitaḥ ॥ 73 ॥
 gurus tāvat sa evātra tacchabdenāvamṛśyate | 
 
-The sense here is as follows. The word ‘that’ signifies that the teacher is just the same \[illegible\] one (as the first), who is nurtured by the knowledge previously imparted. 
+The sense here is as follows. The word ‘that’ signifies that the teacher is just the same (tāvat) one (as the first), who is nurtured by the knowledge previously imparted. 
 
 = (73cd-74ab) 
 
@@ -1352,7 +1352,7 @@ The (basic) cause of (the disciple’s) lack of acceptance of (his) teacher and 
 
 na dhvastavyādhikaḥ ko hi bhiṣaja bahu manyate |
 asūyur nūnam adhvastavyādhiḥ svasthāyate balāt ॥ 81 ॥
-evar jñïānasamāśvastah kir kirn na gurave caret |
+evar jñïānasamāśvastah kir kiṁ na gurave caret |
 no cen nūnam aviśvasto viśvasta iva tiṣthati ॥ 82 ॥ 
 
 Who is it that, having been cured of a disease, does not have a great deal of respect (for his) doctor? (However,) a detractor (who does not like the doctor), will (nevertheless) certainly stubbornly (balāt) (insist) that he is curing (himself,) (although) he continues to be sick. In the same way, what will one who is satisfied (and has faith in the) knowledge (he has received) not offer the teacher? But if not, although he is not satisfied (and has no faith), he will certainly (act) as if he is satisfied. (81-82) 
@@ -1404,7 +1404,7 @@ In order to explain that ignorance and the like are the teacher’s defects (to 
 
 *[p. 334]* ^pg354
 
-mentioned’ because the stealing away (thereby of the teacher’s) life (prāna) and money is a worldly (concern). 
+mentioned’ because the stealing away (thereby of the teacher’s) life (prāṇa) and money is a worldly (concern). 
 
 Surely, (one may object that,) if this is so, (the teacher) would not know how to discriminate between what should and what should not be done. In accord with the following view, one should abandon him: 
 
@@ -1419,9 +1419,9 @@ Surely, (one may object that,) if this is so, (the teacher) would not know how t
 तदीयाप्रियभीरस्तु परं तादृशमाचरेत् ॥ ८८ ॥
 यतस्तदप्रियं नैष शृणुयादिति भाषितम्
 
-na hy asya sa gurutve syād 4650 yenoṣare (> yathoṣare) kṛṣim ॥ 87 Il kuryād vrajen niśāyār vā sa tv arthaprāṇahārakaḥ |
+na hy asya sa gurutve syād 4650 yenoṣare (> yathoṣare) kṛṣim ॥ 87 ॥ kuryād vrajen niśāyār vā sa tv arthaprāṇahārakaḥ |
 tadīyāpriyabhīrus tu paran tādṛśam ācaret || 88 ॥
-yatas tad apriyarn naiṣa Śṛnuyād iti bhāṣitam | 
+yatas tad apriyaṁ naiṣa Śṛnuyād iti bhāṣitam | 
 
 (A defect) like farming (infertile) saline soil or wandering around at night, does not entail a defect in the teacher’s status. (A significant defect) steals away the vital breath and material wealth (of others). But although fearful of its displeasing (nature), even so, (the disciple) should behave in such a way that he may hear what is displeasing (nor should he tell others about it). This is what is said (in the Mālinīvijayottara). (87cd-89ab) 
 
@@ -1432,7 +1432,7 @@ Those Who are Graced May Remove their Own Obscuration to Some Degree
 श्रीमात्धे तदुक्तं च नाधीतं भूमभीतितः ॥ ८९ ॥
 17114147) 
 
-\[illegible\] tad \[illegible\] ca nādhītarnṁ bhūmabhītitaḥ ॥ 89 ॥ 
+\[illegible\] tad \[illegible\] ca nādhītaṁ bhūmabhītitaḥ ॥ 89 ॥ 
 
 The same is said in the venerable Mataṁga. It is not cited (here) for fear of being too verbose. (89cd) 
 
@@ -1457,8 +1457,8 @@ knowledge from him)’
 
 yac caitad uktam etāvat kartavyam iti tad dhruvam |
 tīvraśaktigṁītānām svayam eva hṛdi sphuret ॥ 90 ॥
-upadeśastvayarnṁ mandamadhyaśkater nijām kramāt |
-sakti jvalayiturn proktaḥ sā hy evarn jājvalīty alam ॥ 91 ॥ 
+upadeśastvayaṁ mandamadhyaśkater nijām kramāt |
+sakti jvalayituṁ proktaḥ sā hy evaṁ jājvalīty alam ॥ 91 ॥ 
 
 “What has been said (by the Lord) should be done in that (very) way”” — that (intention) shines firm and radiantly, spontaneously (by itself) in the heart of those who are seized by an intense descent of the power (of grace). (90) 
 
@@ -1629,7 +1629,7 @@ He now explains the division of the subject (at hand, namely teachers who transg
 षटर्धदैशिकशचार्धनारीशभुवनस्थिति : ।
 
 iyat tatratyatātparyari siddhāntagurur unnayaḥ |
-bhavet piśācavidyeśaḥ śuddha eva tu tāntrikaḥ ॥ 99 Il ṣadardhadaiśikaś cārdhanārīśabhuvanasthitiḥ | 
+bhavet piśācavidyeśaḥ śuddha eva tu tāntrikaḥ ॥ 99 ॥ ṣadardhadaiśikaś cārdhanārīśabhuvanasthitiḥ | 
 
 The sense here (of these statements) is (simply) that a teacher of the Siddhānta who has transgressed the rule becomes a demon (piśāca) Vidyeśa; a Tāntrika becomes a pure (Vidyeśa,) and one who teaches Trika, a resident of Ardhanāreśvara’s world." (99-100ab) 
 
@@ -1687,7 +1687,7 @@ Here too there are differences, which he (now) states.
 समस्तेऽप्युपदेशः स्यात्निजोपकरणार्पणम् ।
 
 adhikārārpanaṁ nātra na ca vidyāvrataṁ kila |
-sādhyamantrārpaṇari tv atra svopayogikriyākrame |l 102 ॥
+sādhyamantrārpaṇari tv atra svopayogikriyākrame ॥ 102 ॥
 samaste ‘py upadeśaḥ syān nijopakaranārpaṇnam | 
 
 There is no transmission of competence or Mantra observance (vidyāvrata) here (in this case). (What does take place) here is (that) the mantra of the goal (to be achieved) (sādhyamantra) is transmitted, the teaching regarding the entire sequence of rites that are useful to him (is imparted,) and he is given his own (ritual) implements.” (102-103ab) 
@@ -1696,7 +1696,7 @@ There is no transmission of competence or Mantra observance (vidyāvrata) here (
 
 As is said (concerning the imparting of) ‘the teaching’: 
 
-‘He should impart properly and completely the three kinds of knowledge to the two of them. The yogi should give his own permission \[illegible\] with regards to his own rites and (ritual) implements.” 
+‘He should impart properly and completely the three kinds of knowledge to the two of them. The yogi should give his own permission (ājñā) with regards to his own rites and (ritual) implements.” 
 
 As is said with regards to ‘his own (ritual) implements’: 
 

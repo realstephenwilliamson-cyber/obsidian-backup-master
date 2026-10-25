@@ -4,7 +4,7 @@ work: "[[Catalog/Christianity/Gregory of Nyssa - Dogmatic Treatises]]"
 book: "[[Library/Christianity/Dogmatic Treatises (Gregory of Nyssa)/Dogmatic Treatises (Gregory of Nyssa)|Dogmatic Treatises (Gregory of Nyssa)]]"
 order: 43
 source_pdf: "Library/Christianity/Gregory of Nyssa - Dogmatic Treatises (NPNF2 5).pdf"
-pages: "754–795"
+page_range: "754–795"
 pdf_pages: "775–816"
 text_source: "PDF text layer (born-digital, CCEL), PyMuPDF"
 converted: 2026-10-22
@@ -24,7 +24,7 @@ case of men, who were “made a little lower than the angels<sup>1662</sup>,” 
 
 5\. Hence also, it seems to me, the great David pitying the misery of man mourns over his nature with such words as these, that, “man being in honour knew it not” (meaning by “honour” the equality with the angels), therefore, he says, “he is compared to the beasts that have no understanding, and made like unto them<sup>1663</sup>.” For he truly was made like the beasts, who received in his nature the present mode of transient generation, on account of his inclination to material things.
 
-166\. 2 Ps. viii. 6.
+1662 Ps. viii. 6.
 
 
 *[p. 755]* ^pg776
@@ -41,7 +41,7 @@ XVIII. *That our irrational passions have their rise from kindred with irrationa
 
 4\. Thus our love of pleasure took its beginning from our being made like to the irrational creation, and was increased by the transgressions of men, becoming the parent of so many
 
-166\. 4 Otherwise Chap. xix. The Bodleian ms. of the Latin version has the title:—“That our other passions also are common to us and to the irrational animals, and that by the restraint of them we are said to be like to God.” Reading with Forbes διαγλύφους. The reading διγλύφους of the earlier editt. gives a better sense, but is not supported by any of Forbes’ mss.
+1664 Otherwise Chap. xix. The Bodleian ms. of the Latin version has the title:—“That our other passions also are common to us and to the irrational animals, and that by the restraint of them we are said to be like to God.” Reading with Forbes διαγλύφους. The reading διγλύφους of the earlier editt. gives a better sense, but is not supported by any of Forbes’ mss.
 
 
 *[p. 756]* ^pg777
@@ -66,7 +66,7 @@ Col. iii. 2.
 
 9\. It may be, however, that some one feels shame at the fact that our life, like that of the brutes, is sustained by food, and for this reason deems man unworthy of being supposed to have been framed in the image of God; but he may expect that freedom from this function will one day be bestowed upon our nature in the life we look for; for, as the Apostle says, 408 “the Kingdom of God is not meat and drink<sup>1667</sup>;” and the Lord declared that “man shall not live by bread alone, but by every word that proceedeth out of the mouth of God<sup>1668</sup>.” Further, as the resurrection holds forth to us a life equal with the angels, and with the angels there is no food, there is sufficient ground for believing that man, who will live in like fashion with the angels, will be released from such a function.
 
-166\. 7 Rom. xiv. 17. S. Matt. iv. 4
+1667 Rom. xiv. 17. S. Matt. iv. 4
 
 
 *[p. 758]* ^pg779
@@ -83,9 +83,9 @@ life, if as it seems, we formerly existed by eating, and shall hereafter be free
 
 4\. It seems to me that I may take the great David and the wise Solomon as my instructors in the interpretation of this text: for both understand the grace of the permitted delight to be one,—that very actual Good, which in truth is “every” good;—David, when he says,
 
-166\. 9 Otherwise Chap. xx. The Bodleian ms. of the Latin version has the title:—“How the food ought to be understood with which man was fed in Paradise and from which he was prohibited.”
+1669 Otherwise Chap. xx. The Bodleian ms. of the Latin version has the title:—“How the food ought to be understood with which man was fed in Paradise and from which he was prohibited.”
 
-167\. 0 Prov. ix. 5. 1671 Cf. Is. xii. 3 1672 Amos viii. 11.
+1670 Prov. ix. 5. 1671 Cf. Is. xii. 3 1672 Amos viii. 11.
 
 
 *[p. 759]* ^pg780
@@ -96,7 +96,7 @@ life, if as it seems, we formerly existed by eating, and shall hereafter be free
 
 5\. Thus the “every” tree of which the passage gives food to him who was made in the likeness of God, is the same with the tree of life; and there is opposed to this tree another tree, the food given by which is the knowledge of good and evil:—not that it bears in turn as fruit each of these things of opposite significance, but that it produces a fruit blended and mixed with opposite qualities, the eating of which the Prince of Life forbids, and the serpent counsels, that he may prepare an entrance for death: and he obtained credence for his counsel, covering over the fruit with a fair appearance and the show of pleasure, that it might be pleasant to the eyes and stimulate the desire to taste.
 
-167\. 4 Ps. xxxvii. 4. Prov. iii. 18.
+1674 Ps. xxxvii. 4. Prov. iii. 18.
 
 
 *[p. 760]* ^pg781
@@ -109,9 +109,9 @@ XX. *What was the life in Paradise, and what was the forbidden tree*<sup>1676</s
 
 2\. The tree, then, from which comes this fruit of mixed knowledge, is among those things which are forbidden; and that fruit is combined of opposite qualities, which has the serpent to commend it, it may be for this reason, that the evil is not exposed in its nakedness, itself appearing in its own proper nature—for wickedness would surely fail of its effect were it not decked with some fair colour to entice to the desire of it him whom it deceives—but now the nature of evil is in a manner mixed, keeping destruction like some snare concealed in its depths, and displaying some phantom of good in the deceitfulness of its exterior. The beauty of the substance seems good to those who love money: yet “the love of money is a root of all evil<sup>1684</sup>”: and who would plunge into the unsavoury mud of wantonness, were it not that he whom this bait hurries into passion thinks pleasure a thing fair and acceptable? so, too, the other sins keep their destruction hidden, and seem at first sight acceptable, and some deceit makes them earnestly sought after by unwary men instead of what is good.
 
-167\. 6 Otherwise Chap. xxi. The Bodleian ms. of the Latin version gives as the title:—“Why Scripture calls the tree, ‘the tree of the knowledge of good and evil.’” The reference is to Gen. ii. 9 (in LXX.), where the tree is called, τὸ ξύλον τοῦ εἰδέναι γνωστὸν καλοῦ 1677 καὶ πονηροῦ. S. Gregory proceeds to ascertain the exact meaning of the word γνωστὸν in the text; the eating is the “knowing,” but what is “knowing”? He answers, “desiring.” 1678 Cf. Heb. v. 14 1679 1 Thess v. 21.
+1676 Otherwise Chap. xxi. The Bodleian ms. of the Latin version gives as the title:—“Why Scripture calls the tree, ‘the tree of the knowledge of good and evil.’” The reference is to Gen. ii. 9 (in LXX.), where the tree is called, τὸ ξύλον τοῦ εἰδέναι γνωστὸν καλοῦ 1677 καὶ πονηροῦ. S. Gregory proceeds to ascertain the exact meaning of the word γνωστὸν in the text; the eating is the “knowing,” but what is “knowing”? He answers, “desiring.” 1678 Cf. Heb. v. 14 1679 1 Thess v. 21.
 
-168\. 0 Cf. 1 Cor. ii. 15. 1681 2 Tim. ii. 19. 1682 Ex. xxxiii. 12 (LXX.). 1683 S. Matt. vii. 23. 1 Tim. vi. 10.
+1680 Cf. 1 Cor. ii. 15. 1681 2 Tim. ii. 19. 1682 Ex. xxxiii. 12 (LXX.). 1683 S. Matt. vii. 23. 1 Tim. vi. 10.
 
 
 *[p. 761]* ^pg782
@@ -124,7 +124,7 @@ XX. *What was the life in Paradise, and what was the forbidden tree*<sup>1676</s
 
 5\. The image, therefore, properly belongs to the better part of our attributes; but all in our life that is painful and miserable is far removed from the likeness to the Divine.
 
-168\. 5 Gen. iii. 5, 6 (LXX.).
+1685 Gen. iii. 5, 6 (LXX.).
 
 
 *[p. 762]* ^pg783
@@ -143,7 +143,7 @@ XXI. *That the resurrection is looked for as a consequence, not so much from the
 
 4\. Paradise therefore will be restored, that tree will be restored which is in truth the tree of life;—there will be restored the grace of the image, and the dignity of rule. It does not seem to me that our hope is one for those things which are now subjected by God to man
 
-168\. 7 Otherwise Chap. xxii. The Bodleian ms. of the Latin version gives as the title:—“That the Divine counsel is immutable.”
+1687 Otherwise Chap. xxii. The Bodleian ms. of the Latin version gives as the title:—“That the Divine counsel is immutable.”
 
 
 *[p. 763]* ^pg784
@@ -166,9 +166,9 @@ some one, giving his thought wings to soar towards the sweetness of our hope, de
 
 4\. Man, then, was made in the image of God; that is, the universal nature, the thing like God; not part of the whole, but all the fulness of the nature together was so made by omnipotent wisdom. He saw, Who holds all limits in His grasp, as the Scripture tells us which says, “in His hand are all the corners of the earth<sup>1692</sup>,” He saw, “Who knoweth all things” even “before they be<sup>1693</sup>,” comprehending them in His knowledge, how great in number
 
-168\. 8 Otherwise Chap. xxiii. The title in the Bodleian ms. of the Latin version is:—“That when the generation of man is finished, time also will come to an end.” Some mss. of the Latin version make the first few words part of the preceding chapter. 1689 Gen. i. 26, 27.
+1688 Otherwise Chap. xxiii. The title in the Bodleian ms. of the Latin version is:—“That when the generation of man is finished, time also will come to an end.” Some mss. of the Latin version make the first few words part of the preceding chapter. 1689 Gen. i. 26, 27.
 
-169\. 0 This Realism is expressed even more strongly in the *De Animâ et Resurrectione.* 1691 1 Cor. xv. 47. 1692 Ps. xcv. 4. Cf. Hist. Sus. 42.
+1690 This Realism is expressed even more strongly in the *De Animâ et Resurrectione.* 1691 1 Cor. xv. 47. 1692 Ps. xcv. 4. Cf. Hist. Sus. 42.
 
 
 *[p. 765]* ^pg786
@@ -183,7 +183,7 @@ character of our creation; for it was not when He made that which was in His own
 
 6\. And this it seems to me the Divine apostle considered when he declared in his epistle to the Corinthians the sudden stoppage of time, and the change of the things that are now moving on back to the opposite end where he says, “Behold, I show you a mystery; we shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trump<sup>1695</sup>.” For when, as I suppose, the full complement of human nature has reached the limit of the pre-determined measure, because there is no longer anything to be made up in the way of increase to the number of souls, he teaches us that the change in existing things will take place in an instant of time, giving to that limit of time which has no parts or extension the names of “a moment,” and “the twinkling of an eye”; so that it will no more be possible for one who reaches the verge of time (which is the last and extreme point, from
 
-169\. 4 Gen. i. 28. 1 Cor. xv. 51, 52. 412 1696 1 Thess. iv. 17. 1697 Heb. xi. 40. 1698 Heb. xi. 13. 1699 Heb. xi. 11.
+1694 Gen. i. 28. 1 Cor. xv. 51, 52. 412 1696 1 Thess. iv. 17. 1697 Heb. xi. 40. 1698 Heb. xi. 13. 1699 Heb. xi. 11.
 
 
 *[p. 766]* ^pg787
@@ -196,7 +196,7 @@ the fact that nothing is lacking to the attainment of its extremity) to obtain b
 
 8\. Neither, then, should we be troubled at the brief delay of what we hope for, but give diligence that we may not be cast out from the object of our hopes; for just as though, if one
 
-170\. 0 Ps. lxxxiv. 3. 1701 Ps. lxxxiv. 11 (LXX.). 1702 Ps. lxxxiv. 10.
+1700 Ps. lxxxiv. 3. 1701 Ps. lxxxiv. 11 (LXX.). 1702 Ps. lxxxiv. 10.
 
 
 *[p. 767]* ^pg788
@@ -219,7 +219,7 @@ But if some one, beholding the present course of the world, by which intervals o
 
 3\. For in that case too, argumentative men might by plausible reasoning upset our faith, so that we should not think that statement true which Holy Scripture delivers concerning the material creation, when it asserts that all existing things have their beginning of being from God. For those who abide by the contrary view maintain that matter is co-eternal with God, and employ in support of their own doctrine some such arguments as these. If God is in His nature simple and immaterial, without quantity<sup>1707</sup>, or size, or combination, and removed from the idea of circumscription by way of figure, while all matter is apprehended in extension measured by intervals, and does not escape the apprehension of our senses, but becomes known to us in colour, and figure, and bulk, and size, and resistance, and the other attributes belonging to it, none of which it is possible to conceive in the Divine nature,—what method is there for the production of matter from the immaterial, or of the nature that has dimensions from that which is unextended? for if these things are believed to have their existence from that source, they clearly come into existence after being in Him
 
-170\. 5 Otherwise Chap. xxiv. The Bodleian ms. of the Latin version has a title corresponding to that of the following chapter in the other mss.:—“Against those who say that matter is co-eternal with God.” 1706 Cf. Heb. xi. 3. The mss. give somewhat the same variations which are observable in the N.T. Codices. The reading which Forbes adopts coincides with the Textus Receptus. Reading, with some of Forbes’ mss., ἄποσος, which seems on the whole the better reading so far as sense 1707 is concerned. ἄποιος may be the result of a sense of the awkwardness of employing both ἄποσος and ἀμεγέθης: but further on in the section we find ἄποσος where the mss. seem to agree. Further, the connecting particles seem to show a closer connection of sense between ἀποσὸς and ἀμεγέθης than between ἀμεγέθης and ἀσύνθετος
+1705 Otherwise Chap. xxiv. The Bodleian ms. of the Latin version has a title corresponding to that of the following chapter in the other mss.:—“Against those who say that matter is co-eternal with God.” 1706 Cf. Heb. xi. 3. The mss. give somewhat the same variations which are observable in the N.T. Codices. The reading which Forbes adopts coincides with the Textus Receptus. Reading, with some of Forbes’ mss., ἄποσος, which seems on the whole the better reading so far as sense 1707 is concerned. ἄποιος may be the result of a sense of the awkwardness of employing both ἄποσος and ἀμεγέθης: but further on in the section we find ἄποσος where the mss. seem to agree. Further, the connecting particles seem to show a closer connection of sense between ἀποσὸς and ἀμεγέθης than between ἀμεγέθης and ἀσύνθετος
 
 
 *[p. 769]* ^pg790
@@ -244,7 +244,7 @@ XXIV. *An argument against those who say that matter is co-eternal with God.*<su
 
 3\. Let this discussion, however, be by way of digression: we must direct our discourse once more to the faith by which we accept the statement that the universe took being from nothing, and do not doubt, when we are taught by Scripture, that it will again be transformed into some other state.
 
-170\. 8 Otherwise Chap. xxv. The Bodleian ms. of the Latin version has the title:—“That all matter exists in certain quantities.” With this passage may be compared the idealistic doctrine of the *De Anim. et Resurr.*
+1708 Otherwise Chap. xxv. The Bodleian ms. of the Latin version has the title:—“That all matter exists in certain quantities.” With this passage may be compared the idealistic doctrine of the *De Anim. et Resurr.*
 
 
 *[p. 771]* ^pg792
@@ -261,7 +261,7 @@ XXV. *How one even of those who are without may be brought to believe the Script
 
 3\. Who knows not how the people of Israel flourished of old, raised up against all the powers of the world; what were the palaces in the city of Jerusalem, what the walls, the towers, the majestic structure of the Temple? things that seemed worthy of admiration even to the disciples of the Lord, so that they asked the Lord to take notice of them, in their disposition to marvel, as the Gospel history shows us, saying, “What works, and what buildings<sup>1711</sup>!” But He indicates to those who wondered at its present state the future desolation of the place and the disappearance of that beauty, saying that after a little while nothing of what they saw should be left. And, again, at the time of His Passion, the women followed, bewailing the unjust sentence against Him,—for they could not yet see into the dispensation of what was being done:—but He bids them be silent as to what is befalling Him, for it does not demand their tears, but to reserve their wailing and lamentation for the true time for tears, when the city should be compassed by besiegers, and their sufferings reach so great a strait that they should deem him happy who had not been born: and herein He foretold also the horrid deed of her who devoured her child, when He said that in those days the womb should be accounted blest that never bare<sup>1712</sup>. Where then are those palaces? where is the Temple? where are the walls? where are the defences of the towers? where is the power of
 
-171\. 0 Otherwise Chap. xxvi. The title in the Bodleian ms. of the Latin version is:—“Of faith in the resurrection, and of the three dead persons whom the Lord Jesus raised.” 1711 Cf. S. Mark xiii. 1 Cf. S. Luke xxiii. 27–29.
+1710 Otherwise Chap. xxvi. The title in the Bodleian ms. of the Latin version is:—“Of faith in the resurrection, and of the three dead persons whom the Lord Jesus raised.” 1711 Cf. S. Mark xiii. 1 Cf. S. Luke xxiii. 27–29.
 
 
 *[p. 772]* ^pg793
@@ -292,7 +292,7 @@ father cried, “come down, ere my child die<sup>1714</sup>”), He again brings
 
 10\. Still in addition to these acts He exceeds them in wonder, and by a more exalted act of power prepares for men the way of faith in the resurrection. The Scripture tells us of a city called Nain in Judæa: a widow there had an only child, no longer a child in the sense of being among boys, but already passing from childhood to man’s estate: the narrative calls him “a young man.” The story conveys much in few words: the very recital is a real lamentation: the dead man’s mother, it says, “was a widow.” See you the weight of her misfortune, how the text briefly sets out the tragedy of her suffering? for what does the phrase mean? that she had no more hope of bearing sons, to cure the loss she had just sustained in him who had departed; for the woman was a widow: she had not in her power to look to another instead of to him who was gone; for he was her only child; and how great a grief is here expressed any one may easily see who is not an utter stranger to natural feeling. Him alone she had known in travail, him alone she had nursed at her breast; he alone made her table cheerful, he alone was the cause of brightness in her home, in play, in work, in learning, in gaiety, at processions, at sports, at gatherings of youth; he alone was all that is sweet and precious in a mother’s eyes. Now at the age of marriage, he was the stock of her race, the shoot of its succession, the staff of her old age. Moreover, even the additional detail of his time of life is another lament: for he who speaks of him as “a young man” tells of the flower of his faded beauty, speaks of him as just covering his face with down, not yet with a full thick beard, but still bright with the beauty of his cheeks. What then, think you, were his mother’s sorrows for him? how would her heart be consumed as it were with a flame; how bitterly would she prolong her lament over him, embracing the corpse as it lay before her, lengthening out her mourning for him as far as possible, so as not to hasten the funeral of the dead, but to have her fill of sorrow! Nor does the narrative pass this by: for Jesus “when He saw her,” it says, “had compassion”; “and He came and touched the bier; and they that bare him stood still;” and He said to the dead, “Young man, I say unto thee, arise<sup>1715</sup>,” “and
 
-171\. 4 S. John iv. 49 Cf. S. Luke vii. 13–15. 416 1716 Omitting, as several of Forbes’ mss. do, and as the ms. employed by Dionysius seems to have done, the words ἀποδίδοναι πάλιν τῷ ζῆν. If these words are retained, βιαζομένης must be taken passively, and the πρᾶγμα φευκτόν understood not of the condition of the corpse, but of the *resurrection* of Lazarus. 1 Thess. iv. 16.
+1714 S. John iv. 49 Cf. S. Luke vii. 13–15. 416 1716 Omitting, as several of Forbes’ mss. do, and as the ms. employed by Dionysius seems to have done, the words ἀποδίδοναι πάλιν τῷ ζῆν. If these words are retained, βιαζομένης must be taken passively, and the πρᾶγμα φευκτόν understood not of the condition of the corpse, but of the *resurrection* of Lazarus. 1 Thess. iv. 16.
 
 
 *[p. 774]* ^pg795
@@ -311,9 +311,9 @@ He delivered him to his mother” alive. Observe that no short time had interven
 
 13\. Since, then, every prediction of the Lord is shown to be true by the testimony of events, while we not only have learnt this by His words, but also received the proof of the promise in deed, from those very persons who returned to life by resurrection, what occasion is left to those who disbelieve? Shall we not bid farewell to those who pervert our simple faith by “philosophy and vain deceit<sup>1721</sup>,” and hold fast to our confession in its purity, learning briefly through the prophet the mode of the grace, by his words, “Thou shalt take away their breath and they shall fail, and turn to their dust. Thou shalt send forth Thy Spirit and they shall be created, and Thou shalt renew the face of the earth<sup>1722</sup>;” at which time also he says that the Lord rejoices in His works, sinners having perished from the earth: for how shall any one be called by the name of sin, when sin itself exists no longer?
 
-171\. 8 S. Luke iv. 23 1719 Cf. S. John xx. 27
+1718 S. Luke iv. 23 1719 Cf. S. John xx. 27
 
-172\. 0 1 Cor. xv. 12. 1721 Col. ii. 8. Ps. civ. 29, 30 (LXX.). Cf. also with what follows vv. 31–35.
+1720 1 Cor. xv. 12. 1721 Col. ii. 8. Ps. civ. 29, 30 (LXX.). Cf. also with what follows vv. 31–35.
 
 
 *[p. 776]* ^pg797
@@ -326,7 +326,7 @@ XXVI. *That the resurrection is not beyond probability*<sup>1723</sup>.
 
 2\. But we briefly cut short their long circuits of logical folly by acknowledging that dissolution of the body into its component parts does take place, and not only does earth, according to the Divine word, return to earth, but air and moisture also revert to the kindred element, and there takes place a return of each of our components to that nature to which it is allied; and although the human body be dispersed among carnivorous birds, or among the most savage beasts by becoming their food, and although it pass beneath the teeth of fish, and although it be changed by fire into vapour and dust, wheresoever one may in argument suppose the man to be removed, he surely remains in the world; and the world, the voice of inspiration tells us, is held by the hand of God. If thou, then, art not ignorant of any of the things in thy hand, dost thou deem the knowledge of God to be feebler than thine own power, that it should fail to discover the most minute of the things that are within the compass of the Divine span?
 
-172\. 3 Otherwise Chap. xxvii. The Bodleian ms. of the Latin version has the title:—“That however much the human body may have been consumed, the Divine power can easily bring it together.” ἀναλυσέως, in S. Gregory, seems to be frequently used in the sense of “return.” Cf. Phil. i. 23, εἰς τὸ ἀναλῦσαι, καὶ σὺν Χριστῳ εἶναι, where Tertullian translates “cupio *recipi*”, (*De Patientia*).
+1723 Otherwise Chap. xxvii. The Bodleian ms. of the Latin version has the title:—“That however much the human body may have been consumed, the Divine power can easily bring it together.” ἀναλυσέως, in S. Gregory, seems to be frequently used in the sense of “return.” Cf. Phil. i. 23, εἰς τὸ ἀναλῦσαι, καὶ σὺν Χριστῳ εἶναι, where Tertullian translates “cupio *recipi*”, (*De Patientia*).
 
 
 *[p. 777]* ^pg798
@@ -343,7 +343,7 @@ a hard thing when the air in us has been resolved into its kindred element, and 
 
 4\. We must except, however, from this statement the change which happens to the form as the result of disease: for the deformity of sickness takes possession of the form like some
 
-172\. 5 Otherwise Chap. xxviii. The title in the Bodleian ms. of the Latin version is:—“That although bodies rise together they will yet receive their own souls.” Cf. S. Luke xvi. 24–31. 418 1727 The word, that is of the Prophet, or of the Saviour, as in the cases cited. 1728 The “form” seems to be regarded as a seal, which, while taking its pattern from the combination of elements, yet marks those elements which have been grouped together under it; and which at the same time leaves an impression of itself upon the soul. The soul is thus enabled to recognize the elemental particles which make up that body which belonged to it, by the τύπος imprinted on them as well as on itself.
+1725 Otherwise Chap. xxviii. The title in the Bodleian ms. of the Latin version is:—“That although bodies rise together they will yet receive their own souls.” Cf. S. Luke xvi. 24–31. 418 1727 The word, that is of the Prophet, or of the Saviour, as in the cases cited. 1728 The “form” seems to be regarded as a seal, which, while taking its pattern from the combination of elements, yet marks those elements which have been grouped together under it; and which at the same time leaves an impression of itself upon the soul. The soul is thus enabled to recognize the elemental particles which make up that body which belonged to it, by the τύπος imprinted on them as well as on itself.
 
 
 *[p. 778]* ^pg799
@@ -378,9 +378,9 @@ been raised in the churches touching soul and body. Some of those before our tim
 
 3\. Those who stand by the former doctrine, and assert that the state of souls is prior to their life in the flesh, do not seem to me to be clear from the fabulous doctrines of the heathen which they hold on the subject of successive incorporation: for if one should search carefully, he will find that their doctrine is of necessity brought down to this. They tell us that one of their sages said that he, being one and the same person, was born a man, and afterwards
 
-172\. 9 Otherwise Chap. xxix. The title in the Bodleian ms. of the Latin version is:—“Of different views of the origin of the soul.”
+1729 Otherwise Chap. xxix. The title in the Bodleian ms. of the Latin version is:—“Of different views of the origin of the soul.”
 
-173\. 0 Cf. Gen. ii. 7 S. Matt. vi. 25
+1730 Cf. Gen. ii. 7 S. Matt. vi. 25
 
 
 *[p. 781]* ^pg802
@@ -407,7 +407,7 @@ human life, they must, as has been said, declare the life of a tree to be prefer
 
 8\. The doctrine of both, then, is equally to be rejected; but I think that we ought to direct our own doctrine in the way of truth between these theories: and this doctrine is that we are not to suppose, according to the error of the heathen that the souls that revolve with the motion of the universe weighed down by some wickedness, fall to earth by inability to keep up with the swiftness of the motion of the spheres.
 
-173\. 3 In the discourse that is contained in the next chapter. The point has been mentioned, but the conclusions were not drawn from it in the opening section of this chapter.
+1733 In the discourse that is contained in the next chapter. The point has been mentioned, but the conclusions were not drawn from it in the opening section of this chapter.
 
 
 *[p. 783]* ^pg804
@@ -422,7 +422,7 @@ XXIX. *An establishment of the doctrine that the cause of the existence of soul 
 
 3\. But just as we say that in wheat, or in any other grain, the whole form of the plant is potentially included—the leaves, the stalk, the joints, the grain, the beard—and do not say in our account of its nature that any of these things has pre-existence, or comes into being before the others, but that the power abiding in the seed is manifested in a certain natural order, not by any means that another nature is infused into it—in the same way we suppose the human germ to possess the potentiality of its nature, sown with it at the first start of its existence, and that it is unfolded and manifested by a natural sequence as it proceeds to its perfect state, not employing anything external to itself as a stepping-stone to perfection, but itself advancing its own self in due course to the perfect state; so that it is not true to say either that the soul exists before the body, or that the body exists without the soul, but that there is one beginning of both, which according to the heavenly view was laid as their foundation in the original will of God; according to the other, came into existence on the occasion of generation.
 
-173\. 4 Otherwise Chap. xxx. But in the Latin translation of Dionysius, the new chapter does not begin till the end of the first sentence of the Greek text. As Forbes remarks, either place is awkward: a better beginning would be found at §8 of the preceding chapter. The Bodleian ms. of the Latin version gives as the title:—“That God equally made the soul and the body of man.” Hist. Sus. 42. The reading αὐτῆς μεθισταμένης, “itself being transformed,” seems to give a better sense, but the weight 1736 of ms. authority seems to be against it. Altering Forbes’ punctuation.
+1734 Otherwise Chap. xxx. But in the Latin translation of Dionysius, the new chapter does not begin till the end of the first sentence of the Greek text. As Forbes remarks, either place is awkward: a better beginning would be found at §8 of the preceding chapter. The Bodleian ms. of the Latin version gives as the title:—“That God equally made the soul and the body of man.” Hist. Sus. 42. The reading αὐτῆς μεθισταμένης, “itself being transformed,” seems to give a better sense, but the weight 1736 of ms. authority seems to be against it. Altering Forbes’ punctuation.
 
 
 *[p. 784]* ^pg805
@@ -451,7 +451,7 @@ is suitable and conformable to his existing need, in its preparing for itself it
 
 11\. Moreover we plant in the ground the kernels of fruits, and portions torn from roots, not deprived by death of the vital power which naturally resides in them, but preserving in themselves, hidden indeed, yet surely living, the property of their prototype; the earth that surrounds them does not implant such a power from without, infusing it from itself (for surely then even dead wood would proceed to growth), but it makes that manifest which resides in them, nourishing it by its own moisture, perfecting the plant into root, and bark, and pith, and shoots of branches, which could not happen were not a natural power implanted
 
-173\. 8 Deut. iv. 23. Reading φυτικὸν for φυσικόν, see note 6 on ch. 8, §4.
+1738 Deut. iv. 23. Reading φυτικὸν for φυσικόν, see note 6 on ch. 8, §4.
 
 
 *[p. 786]* ^pg807
@@ -476,7 +476,7 @@ sight and light and perception, having his own nature to instruct him; any one t
 
 422
 
-174\. 0 Otherwise Chap. xxxi. The Bodleian ms. of the Latin version gives the title:—“Of the threefold nature of the body.” Cf. S. John x. 5
+1740 Otherwise Chap. xxxi. The Bodleian ms. of the Latin version gives the title:—“Of the threefold nature of the body.” Cf. S. John x. 5
 
 
 *[p. 788]* ^pg809

@@ -18,8 +18,7 @@ language:
   - English
 pages: 583
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Maximus the Confessor - Responses to Thalassios (Constas 2018).pdf]]"
   - "[[Library/Christianity/Responses to Thalassios (Constas)/Responses to Thalassios (Constas)]]"

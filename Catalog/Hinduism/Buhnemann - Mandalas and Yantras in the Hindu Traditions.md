@@ -17,8 +17,7 @@ language:
   - English
 pages: 339
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Mandalas and Yantras in the Hindu Traditions.pdf]]"
   - "[[Library/Hinduism/Mandalas and Yantras in the Hindu Traditions (Buhnemann)/Mandalas and Yantras in the Hindu Traditions (Buhnemann)]]"

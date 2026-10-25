@@ -6,7 +6,7 @@ page_range: "ix–x"
 ---
 [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 02 - Chapter One - Introduction|next →]]
 
-[p. ix]
+[p. ix] ^pgix
 
 ## ACKNOWLEDGMENTS
 

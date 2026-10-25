@@ -18,8 +18,7 @@ language:
   - English
 pages: 440
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Paul Deussen - The Philosophy of the Upanishads (The Religion and Philosophy of India) (2009).pdf]]"
 aliases:

@@ -4,7 +4,7 @@ book: "[[Play as Symbol of the World (Fink)]]"
 order: 6
 page_range: "188–215"
 ---
-[p. 188]
+[p. 188] ^pg188
 
 ## Chapter Four
 

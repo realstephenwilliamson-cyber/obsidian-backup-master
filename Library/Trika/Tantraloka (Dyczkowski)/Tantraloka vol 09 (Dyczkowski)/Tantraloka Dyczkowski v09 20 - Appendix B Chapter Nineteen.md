@@ -86,7 +86,7 @@ contains human bones with some liquor. One should then repeat the Vidyā along w
 Appendix to Chapter Twenty-two The Seven Common Mantras 
 
 praṇavo mātṛkā māyā vyomavyāpī ṣadakṣaraḥ |
-bahurūpo ‘tha netrākhyaḥ sapta sādhāraṇā amī I| 20 ॥ 
+bahurūpo ‘tha netrākhyaḥ sapta sādhāraṇā amī ॥ 20 ॥ 
 
 1\) OM, 2) Mātṛkā, 3) Māyā, 4) Vyomavyāpin (the Pervader of the Sky), 15) the six-syllabled Mantra, 6) Bahurūpa (the Pluriform), and 7) the one called Netra (the Eye} — these are the seven (universal) common Mantras.’ (20) 
 

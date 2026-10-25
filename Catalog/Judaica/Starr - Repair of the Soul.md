@@ -18,8 +18,7 @@ language:
   - English
 pages: 160
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Starr - Repair of the Soul (2008).pdf]]"
   - "[[Library/Judaica/Repair of the Soul (Starr)/Repair of the Soul (Starr)]]"

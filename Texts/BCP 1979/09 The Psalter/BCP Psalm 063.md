@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 63
 verses: 11
-page_range:
-  - 671
-  - 671
+page_range: "671"
 aliases:
   - "BCP Psalm 63"
   - "BCP 671"
@@ -44,7 +42,7 @@ and meditate on you in the night watches. ^63-6
 **63:7** For you have been my helper, \*  
 and under the shadow of your wings I will rejoice. ^63-7
 
-[p. 671]
+[p. 671] ^pg671
 
 **63:8** My soul clings to you; \*  
 your right hand holds me fast. ^63-8

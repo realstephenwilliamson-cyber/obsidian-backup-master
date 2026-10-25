@@ -17,8 +17,7 @@ language:
   - English
 pages: 3
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The-12-Kalis-in-Kashmir-Shaivism-by-George-Barselaar-print.pdf]]"
   - "[[Library/Trika/The 12 Kalis in Kashmir Shaivism (Barselaar)]]"

@@ -25,14 +25,14 @@ The Kulapradīpa by Śivānanda (c. 16\* century) is a compendium of passages ta
 1\) According to the Devīyāmala 
 
 dūtīyāgavidhiṁ vakṣye kauladharmottamottamam |
-tasyānuṣthānamātreṇa svayarn brahmatvam āpnuyāt ॥ 1 ॥
+tasyānuṣthānamātreṇa svayaṁ brahmatvam āpnuyāt ॥ 1 ॥
 santi nānāvidhā dharmā ehikāmuṣmikapradāḥ \\ tat sāraṁ tu samālokya tathānyan mantrasahńgraham || 2 ||
 tanmadhye sārabhūtaṁ ca sadyaḥ pratyayakārakam |
 nasyāpi (> nāsyāpi) ? varārohe proktavān tridiśeṣv ati (> api) ॥ 3 ॥
 dūtīyāge kṛte mantra (> mantrī) sarvajño jāyate dhruvam |
 na tasya punarāvṛttiḥ kalpakoṭiśatair ati (> api) ॥ 4 ॥
 devā yakṣāś ca gandharvā rṣayaś ca munīśvarāḥ |
-brahmaviṣnumaheśādyās tathā ca pitṛdevatāḥ ॥ 5 II dūtīyāgavidhiṁ kṛtvā tat padam avāpnuyuḥ |
+brahmaviṣnumaheśādyās tathā ca pitṛdevatāḥ ॥ 5 ॥ dūtīyāgavidhiṁ kṛtvā tat padam avāpnuyuḥ |
 vividhasukṛtīn kṛtvā dūtīyāgaṁ tu pārvati ॥ 6 ॥
 kṛtakṛtyo na sandehaḥ sundarī (> sundari) suprasīdati | 
 
@@ -48,14 +48,14 @@ The gods, Yakṣas, Gandharvas, Rrsi and the lords of the sages, Brahma, Viṣ�
 
 yeṣārń vamSe prajāyeta dūtīyāgo maheśvari || 7 |
 te dhanyāś ca samarddhās (> samṛddhās) te ste (> te) vandyāḥ suhṛdaḥ sadā |
-kayena masā (> manasā) vācā sarvathā na prakāśayet ॥ 8 I|
+kayena masā (> manasā) vācā sarvathā na prakāśayet ॥ 8 ॥
 sutaṁ putnīr (> patnīṁ) 570 dadyān na deyam idam uttamam |
-kuryāt prayatnataś caiva dūtikāyajanari priye || 9 Il yaiḥ kṛtaṁ yajanarn düūtyās tair iṣtāḥ kartavyo ‘khilāḥ (kartavyāḥ khila)\\ sarvatīrthamayaḥ proktaḥ sarvadaivamayo bhavet \\\\ 10 ॥
+kuryāt prayatnataś caiva dūtikāyajanari priye || 9 || yaiḥ kṛtaṁ yajanaṁ düūtyās tair iṣtāḥ kartavyo ‘khilāḥ (kartavyāḥ khila)\\ sarvatīrthamayaḥ proktaḥ sarvadaivamayo bhavet \\\\ 10 ॥
 puraścaryādi sakalar kṛtaṁ tena na saṁśayaḥ |
 aśvamedhasahasrānṇi vājapeyaśatāni ca ॥ 11 ॥
 āsamudrāīi ca dharanī dattā tena sadakṣiṇā |
 merumandiratulyāni suvarnāny arpitāni vai \\\\ 12 ||
-gokoṭinād yat punyarn tat punye (> kṛte) jāyate priye |
+gokoṭinād yat punyaṁ tat punye (> kṛte) jāyate priye |
 tasmāt sarvaprayatnena dūtīyāgaṁ samācaret ॥ 13 ॥
 pūjāsampūrṇadari bhadre sarvāriṣtapraśīmakam |
 yad anuṣthānamātreṇa sarvam ācāritaṁ bhavet ॥ 14 ॥
@@ -81,7 +81,7 @@ pūrnagandakapolā ca raktoṣṭī ca sudantikā || 19 ॥
 vartulālakā (> -nala) gaurā ca suhanuḥ kambukanṭhinī |
 subāhuvallīyuktā ca vṛttapīnapayodharā ॥ 20 ॥
 kṛśamadhyā sunābhiḥ syād arustabhātimāṁsalā |
-saralāmgulikā yuktā sarvalakṣaṇasamiyutā || 21 |l kāyena manasā vāpi svārthalaulyavivarjitā |
+saralāmgulikā yuktā sarvalakṣaṇasamiyutā || 21 || kāyena manasā vāpi svārthalaulyavivarjitā |
 pūjayā prayatnena pañcaviṁśativārṣakī || 22 ॥
 aprasūtā viśeṣeṇa Syamam ! (>Śyāmā) caivəmāmatā (> caivonmanā-)|\\ 
 
@@ -94,7 +94,7 @@ susparśaśiśiramārisala varāmgavivarāmganā śyāmeti || 24 ||
 atadūrdhva na pūjyā syād ity pārameśvarī | 
 
 pūjitā ced varārohi tarpaṇaṁ niṣphalaṁ bhavet || 25 ॥
-arcaneṣu prayoktavyāḥ kāminyo bhakticetasā (> -sāh) |
+arcaneṣu prayoktavyāḥ kāminyo bhakticetasā (> -sāḥ) |
 tā yadā rajasā yuktās tataḥ pūjyā mahāphalāḥ (> -lā) ॥ 26 ॥
 ātmīyāś ca parāś caiva puṣpavantīḥ prapūjayet |
 atra dveṣaparo mūrkho dāridryaṁ samavāpnuyāt ॥ 27 |
@@ -127,11 +127,11 @@ sundarīparataḥ proktā prītivavyanukārinī (-vavya > -vatya-)\\ tatparā pa
 samayācārasatipannā mantrajñā bhayavarjitā |
 vidagdhā tv aprasūtā ca dhairyasvātantryasaṁiyutā || 33 ॥
 evat guṇasamāyuktā pūjayet sarvayoṣitaḥ |
-ātmīyāś ca parāś caiva íśaktimātraṁ maheśvari I| 34 ||
+ātmīyāś ca parāś caiva íśaktimātraṁ maheśvari || 34 ||
 mantrādhidevatā budhyā pūjyāḥ sarvopacārakaiḥ |
 vividhaiḥ phalatāmbulavastrālamkārahemabhiḥ ॥ 35 ॥
-samhipūjya vidhivad bhaktyā bahuheturn pradāpayet |
-saṁbhogavāsanāṁi dhṛtvā yah kuryāt chaktipūjanam II 36 ॥
+samhipūjya vidhivad bhaktyā bahuhetuṁ pradāpayet |
+saṁbhogavāsanāṁi dhṛtvā yah kuryāt chaktipūjanam ॥ 36 ॥
 sadāridryam avāpnoti nārakī ca bhaved dhruvam | 
 
 Mātanginī is better than that and (better than) a Mātangī is a Puṣkalī. Better than a Puṣkalī is a virgin, and more than her is considered to be a very beautiful woman. Better than a beautiful woman is said to be one who imitates a woman in love. 
@@ -144,7 +144,7 @@ possess these qualities. O Maheśvarī, whether they be one’s own or (the woma
 
 Considering them to be the foremost deities of Mantras, they should be worshipped with all the many kinds of offerings (including) fruits, betel leaf, clothes, ornaments and gold. Having worshipped them with devotion in accord with the procedure, he should offer much hetu?? He who worships Śakti, gripped by the desire (vāsanā) (just) to enjoy sex attains (nothing, just) poverty, and will certainly go to hell. (35-37ab) 
 
-paramānandarūpenṇa dehabhāvavivarjitaḥ || 37 Il saktyā yuktam ! \* deveśi tadace (> tadā vai) śāmbhavī svayam |
+paramānandarūpenṇa dehabhāvavivarjitaḥ || 37 || saktyā yuktam ! \* deveśi tadace (> tadā vai) śāmbhavī svayam |
 tadājñā tu prakartavyā tadā śreyaḥ pravartate ॥ 38 ॥
 saktyājñālamghako mantrī tapas tepe nirarthakam |
 kṛte tatropahāsyādi (kusti (> puṣtir) bhavati nānyathā ॥ 39 ॥
@@ -173,7 +173,7 @@ kaniṣṭā (> kuniṣthā) krodadantā ca sadā svārthasamanvitā || 45 ||
 matibhraṣtātivikalā atidīrghātikubjikā |
 etallakṣaṇasarniyuktā śaktir yatnena varjayet ॥ 47 ॥
 viśeṣataḥ prayatnena vidhayā (> vidhavā) parivarjayet |
-śaktipātraṁ na dātavyari vidhavāyai kadācana II 48 ॥
+śaktipātraṁ na dātavyari vidhavāyai kadācana ॥ 48 ॥
 ajñānāl labhato mohād atte pūjā tu nihphalāḥ (> -lā) |
 tasmād dūtī prakartavyā lakṣanoktā tu pārvati ॥ 49 ॥ 
 
@@ -187,9 +187,9 @@ The Characteristics of a Dūtī According to the Brahmayāmala\* tathā brahmay�
 nārada uvāca sarvajña jagatār nātha §aktam ! cet śruticoditam |
 mātangīpūjanaṁ tatra katha muktipradāyakam | 50 ॥
 arcane prathitā veśyā veśyā sā tu rajasvalā |
-rajasvalā ca mātangī sā dūtī sarvamangalā I| 51 ॥
-iti proktarn tvayā pūrvam idānīṁn tadviparyayaḥ |
-etad vākyam abhūd brahmann etad vada pitāmaha II 52 ॥ 
+rajasvalā ca mātangī sā dūtī sarvamangalā ॥ 51 ॥
+iti proktaṁ tvayā pūrvam idānīṁn tadviparyayaḥ |
+etad vākyam abhūd brahmann etad vada pitāmaha ॥ 52 ॥ 
 
 The same (is said) in the Brahmayāmala. 
 
@@ -219,7 +219,7 @@ apatyātāḥ samāsādya matkulālaṁṁbanaṁ kuru || 56 ॥
 ity abhyaśca (> abhyarcya) maniśreṣto (> muniśreṣtho) janayāmāsa tāṁi sutam |
 śyāmalām cāruvadanāṁ vīṇāśukasamanvitām || 57 ||
 sārikām jṁānasaṁṁpannāri japamālākarāmibuje |
-dhārayantīṁ viśālākṣīṁ śaṇkhatātarnṁkaśobhinī ॥ 58 ॥
+dhārayantīṁ viśālākṣīṁ śaṇkhatāṭaṁkaśobhinī ॥ 58 ॥
 sā babhūva mahādevi matangakulanandinī |
 mātangīti tadā devī vikhyātā varadāyitām || 59 ॥
 vilokya tadā śahbhur dūtīcakre sulakṣaṇam (> nām) |
@@ -233,7 +233,7 @@ sarvasaubhāgyajananaṁ mālām (> devīmantrami) abhūt tadā || 63 ||
 rasavāpipadā (> rasa- -pradaṁ) devyām (> divyam) anindyari lokarañjanam |
 mātaṇgīmantram atyarthaḥ manmathapratipādakam || 64 ॥
 ārdyaṁtaśūnyā (>ādyanta-) sā devī tasmāt khyātā tadaṁtyajā |
-mātangī antyavarnṇasthā tadā sā arityajā bhavet || 65 ॥ 
+mātangī antyavarṇasthā tadā sā arityajā bhavet || 65 ॥ 
 
 Brahmā said: 
 
@@ -252,24 +252,24 @@ Then having become a good king, he referred to her as Śiva’s beloved.
 From then on, she appeared in the beautiful Dūtiyāga. Then, with the (utterance of) the pranava (OM), Śiva made love with her (ratiḥ \_bhajet). (Then,) the Mantra called Mātanga that was within the praṇava came forth, that gives rise to all that is good and auspicious (saubhāgya). Then the goddess’s Mantra came into being. The bestower of the well of sentiment (rasa), it was divine and, impeccable, it delighted the world. (Such is) Mātaṇgī’s Mantra, very valuable; it bestows (romantic) love. That goddess is devoid of beginning and end, and so is known as ‘born last’ (antyajā). Mātangī (the sweeper) belongs to the lowest caste, and (so) she is then a low-caste woman (antyajā). (61cd-65) 
 
 antyajānāri dvijānār ca cakre aikyam praśasyate |
-sā devī sarvavarnānāṁ varar datvā varar tadā ॥ 66 I|
+sā devī sarvavarnānāṁ varar datvā varar tadā ॥ 66 ॥
 na doṣar tatra vijñeyaṁ sarvar te śruticoditam |
 devīmuddimokṣārthaṁ (> devīsiddhi-) krtań yad doṣavarjitam ॥ 67 ॥
 eta chāstram idaṁ divyaṁ na (> tad) vācyari śruticoditam |
-antaryāgam idar jñeyaṁ bahiryāgaṁ ca vaidikam II 68 I|
+antaryāgam idar jñeyaṁ bahiryāgaṁ ca vaidikam || 68 ||
 mantratantrasamāyuktai tadvayaṁ (> advayam) ?) brahmabodhakam |
-cakre sanketasamayaṁ sarva (>sarvaṁ) tubhyarn prakāśitam ॥ 69 ॥
+cakre sanketasamayaṁ sarva (>sarvaṁ) tubhyaṁ prakāśitam ॥ 69 ॥
 gopanīyaṁ prayatnena na vācyaṁ paśusannidhau | 
 
 Oneness (i.e. equality of status) is taught (as a basic requirement) in the assembly of members of the lowest caste and Brahmins. She is the goddess of all castes. Once she has given a boon, it is then a (real) boon. One should know that there is no defect there; everything is enjoined in your scripture. Whatever has been done (to bestow) liberation and the attainments of the goddess and is devoid of defects, is this divine scripture (sastra); ); its words are enjoined by the Veda. One should know that this is the inner sacrifice. The outer sacrifice is Vedic. Endowed with Mantra and Tantra, nondual, it awakens to the Brahman. I have revealed to you all the Rule that has been commonly agreed within the assembly (cakra). It should be kept secret with effort. It should not be spoken in the presence of fettered souls (paśu) (who are not Kaulas). (66-70ab) 
 
 tvaja (> tyaja) Samka (> -kāṁ) mahābhāga satyam etan mayoditam || 70 ॥
-mātangīpūjane (> -narn) śreṣthaṁn dūtīyāge manohare |
+mātangīpūjane (> -naṁ) śreṣthaṁn dūtīyāge manohare |
 yonipūjār vinā pūjā kṛtam apy akrtańi bhavet || 71 |
 smṛtvā kenāpi sarvajñas sa bhaved vigatāmayaḥ |
 āyurārogyavibhavān amitān labhate naraḥ I| 72 |
 anenaiva vidhānena viṣārto nirviṣo bhavet |
-putrārthī labhate putran dhanārthī labhate dhanam Il 73 ॥
+putrārthī labhate putran dhanārthī labhate dhanam ॥ 73 ॥
 mātangīśaktim abhyarcya tayā sākam samarcayet | 
 
 O great being! Abandon (all) doubt. I have told (you) the truth. The worship of Mātangī in the course of a beautiful Dūtīyāga is the best. Even if 
@@ -281,7 +281,7 @@ worship is offered, but the Yoni is not worshipped, it is (as if) it has not bee
 mātaṇgī manmathopetā sarvakāmārthasiddhaye || 74 ॥
 sāktā (> śaktyā) sākaṁ sadā pūjyā mātangī mantradevatā |
 sā devī śaktihīnā tu na dadāti manoratham || 75 ||
-nihśarikāṁ nirmalāri nanvīṁ (> tanvīṁi) 5) Syamarn ! cārupayodharām |
+nihśarikāṁ nirmalāri nanvīṁ (> tanvīṁi) 5) Syamaṁ ! cārupayodharām |
 kaulikānvayasambhūtāri dīkṣitāṁ krodhavarjitām ॥ 76 ॥
 dīkṣitāṁ kaulike yāge susīlāṁ ca dṛdhavratām |
 trihśatsaṁvatsarādhasthāmi ṣodaśābdādhikām api ॥ 77 | 
@@ -297,8 +297,8 @@ paśustrīsangame prāpte śuddhiś cet paśubandhanam |
 athavā gṁanī pūjyā pūjā (> pūjyā) puṣpavatī yadi ॥ 80 ॥
 arcane kanyakāḥ śreṣthāḥ pramadāś ca viśeṣataḥ |
 \[tasam bhojyaṁi prakartavyām (> -vyam) iti śāstrasya niścayaḥ || 81 ॥
-śaktyullāsakararnṁ bhogam ānandasukham ucyate |
-dūtyaś ca bhaginī putrī pautrī nadtrī ?? tathāstu ṣā (> sā) ॥ 82 II rajakī carmakārī ca mātangī gṁanṇī varā |
+śaktyullāsakaraṁ bhogam ānandasukham ucyate |
+dūtyaś ca bhaginī putrī pautrī nadtrī ?? tathāstu ṣā (> sā) ॥ 82 ॥ rajakī carmakārī ca mātangī gṁanṇī varā |
 arcane prathitā veśyā mantrayuktā manoharā || 83 ॥
 mātangī yadi ced veśyā veśyā sāpi rajasvalā |
 rajasvalā tadā (> yadā) cāstītycāsītsaryotkṛṣtā iti (cāstyātyotkṛṣṭā tadā) smṛtā ॥
@@ -312,12 +312,12 @@ purpose of worship, virgins are the best, and especially (women) who are wanton.
 
 The Characteristics of a Dūtī According to the Kulacūdāmani tathā kulacūdāmanṇau |
 taruṇollāsasaṁyuktāṁ paryanke tu niveśayet |
-bhayalajjāni sarvāni parityajyātha dūtikā |l 85 II karivukaṁ (> kañcukar) ca parityajya tathā 77 pārvati |
+bhayalajjāni sarvāni parityajyātha dūtikā || 85 || karivukaṁ (> kañcukar) ca parityajya tathā 77 pārvati |
 ācāryānucarī raktā manasā sukhadāyinī || 86 ॥
 dehabhāvam parityajya samsaktabhujakā priye |
 cumbanālingane caiva nakhadantakṣatārnni (> -tāni. ) ca ॥ 87 ॥
 bahu nātra kim uktena prāṇam aikyam ! samācaret |
-dūtī yasya susarijñātā saphalarn tasya jīvitam | 88 ॥
+dūtī yasya susarijñātā saphalaṁ tasya jīvitam | 88 ॥
 So too, according to the Kulacūdāmani: 
 
 One should place a Dūtikā who has the enthusiasm of youth and has abandoned all fear and bashfulness onto a bed. Now, O Pārvatī, having taken off (her) cloak and clothes, a (faithful) follower of (her) teacher, (she should be) passionate and give pleasure with (her) mind. Having abandoned (all) bodily se, O beloved, she embraces (her partner). Kissing and embracing and scratching and biting with nails and teeth, what is there much to say here (about this)? (The practitioner) should make the breath (of his partner) one (with his own). The life of one whose Dūtī has been well (chosen and) understood is fruitful. (85-88) 
@@ -362,11 +362,11 @@ At night, after the first watch (of three hours), the man (should go) to the hou
 
 naṭikā pālakī veśyā pulkasī nāpi nāṇnganā |
 rajakī rañjakī caiva sairaṁidhrī ca suvāsinī ॥ 99 ॥
-khaṭikā ghatikā caiva tathā gopālakanyakā |
+khaṭikā ghaṭikā caiva tathā gopālakanyakā |
 viśeṣavaidagdhayutāḥ (> -vaidagdhya-) sarvāṁ (> sarvā) eva kulāṇganāḥ ॥
 100 ॥
 gurubhaktād eva bhaktā ghṛnālajjāvivarjitāḥ |
-samgopanaparāḥ prāyas taruṇyaḥ sarvasiddhidā (> -dāh) ॥ 101 ॥ 
+samgopanaparāḥ prāyas taruṇyaḥ sarvasiddhidā (> -dāḥ) ॥ 101 ॥ 
 
 *[p. 469]* ^pg486
 
@@ -415,13 +415,13 @@ Kula, should be worshipped on the bed that (has been) strewn with sandal, aloe, 
 pūjayed api paryaṁńke madhye mandūkam agrataḥ |
 kālāgnirudram ādhāraśaktikūrmam anantakam ॥ 107 ॥
 vārāhaṁ pṛthivīṁ kaṁdamṛnālaikesarāny api |
-padmaṁ ca karnikāṁ caiva mandalarn ca samarcayet || 108 ॥
+padmaṁ ca karnikāṁ caiva mandalaṁ ca samarcayet || 108 ॥
 dharma vairāgyam aiśvaryaṁ jñānam ajñānam eva ca |
 anaiśvaryam avairāgyam adharmam api pūjayet ॥ 109 ॥
 jñānajīvātmaparamātmanaś cāpi pūjayet \\ gandhapuṣpākṣatādīni datvā tatraiva pūjayet ॥ 110 ॥
 tasyopari kulaṁ sthāpya pūjānuṣthānam eva ca |
 pūjayec ca tatas (tasyam ) tasyam pañcakāmān samāhitaḥ | 111 ॥
-hrīṁ caiva kāmarājaṁ ca klīn kaṁńdarpam airn manmatham |
+hrīṁ caiva kāmarājaṁ ca klīn kaṁńdarpam aiṁ manmatham |
 blū/ mīnaketanami caiva strīṁ caiva hi manobhavam || 112 ||
 „.okārādi namo ṇetam kuṣumair ganńdhasamnyutaih |
 arcayitvā caturdikṣu pūjayet kulanāyikām || 113 ॥
@@ -437,7 +437,7 @@ vāgbhavarni kāmarājari ca strībīja kāmarājakam || 114 ॥
 hasavlerm ante ca datvādhāraśakti (> -śaktiṇm) tato vadet |
 Śrīpādukāṁ tato datvā pūjayāmi vaden namaḥ || 115 ॥
 anena manunā tasyā lalāṭte simanoharam |
-trikoṇaṁ tatra saṁlikhya (> -khyarn) simdüūrādyair varānane || 116 || 
+trikoṇaṁ tatra saṁlikhya (> -khyaṁ) simdüūrādyair varānane || 116 || 
 
 In another Tantra (it is said): ‘(AIM) which is) Vāgbhava, (HRĪM, which is) Kāmarāja, and the seed syllable STRĪM, which is (also a form of) 
 
@@ -463,7 +463,7 @@ ramyjint caiva madanā kalāsvaravirājitāḥ |
 
 Śraddhā, Prīti, Rati, Dhṛti, Kīrti, Manobhavā, Vimalāmodinī, Ghorā, Madanā, Unmādinī, Mohinī, Dīpinī, Śodhinī, Śānkarī, Raṁjīnī and Madanā shine beautifully in the (sixteen) vowels of the energies (of Speech) (kalāsvara). (120ed-122ab) 
 
-tatra candrakalāḥ pūjyā āśiraścaraṇāvadhi |l 122 ||
+tatra candrakalāḥ pūjyā āśiraścaraṇāvadhi || 122 ||
 pūṣā vaśā ca sumanā ratiḥ prītir dhṛtis tathā |
 krūdhiḥ (> kruddhiḥ) saumyā marīciś ca tathā vai candamālinī ॥ 123 ॥
 40118170 śaśinī chāyā tathā saṁpūrnamandalo (> -lā) ।
@@ -503,7 +503,7 @@ One should worship in the temple of Madana (the god of love) that has been smear
 pūjayitvātha tac cakran gandhaiḥ puṣpais tathākṣataiḥ || 131 ॥
 dhūpair dīpaiś ca naivedyair vividhaiḥ kulasādhakaḥ |
 vidyāyā vanditāmṁ tāṁ ca duchiṣtaṁ (>dūrucchiṣtam) svayari haret | 132 ॥
-arcad (> arcayed) gandhapuṣpādyai svaśire tadanantaram || 133 |I mūlamantra (> -mantramn) tataḥ (> tataḥ) oñ hrīm namaḥ śivāya tatparam |
+arcad (> arcayed) gandhapuṣpādyai svaśire tadanantaram || 133 || mūlamantra (> -mantramn) tataḥ (> tataḥ) oñ hrīm namaḥ śivāya tatparam |
 yajet tatpuruṣāghorasadyojātasvarān api || 134 ॥
 nivṛtiś ca pratiṣṭthā ca vidyā ca tadanantaram |
 sāntiś ca śāntitītā ca ṣadarṁṁgamn tadanantaram || 135 ॥
@@ -513,15 +513,15 @@ samagravidyām uccārya (trikonam caiva pūjayet |
 
 Now, once the Kula adept has worshipped that cakra with perfumes, flowers, unbroken grains of rice, incenses, lamps, and food offerings of many kinds, and (so too she (who is the goddess) of the Vidyā, he should remove to a great distance the leftovers (of the food offerings) (ucchista). ). Then after that, he should worship with scent and flowers etc. the root Mantra within his own head. Then, after that, he should worship (with the Mantra) OM HRĪM NAMAH ŚIVĀYA and so (too with) the vowels of Tatpuruṣa, Aghora, and Sadyojāta, as well as (the five forces), Nivṛti and Pratiṣthā followed by Vidyā, Śānti, and Śāntitītā, and after that the six limbs. Having uttered all the Vidyās together, he should also worship the Triangle. (131cd-136ab) 
 
-tadanujñār tato labdhvā datvā tāṁbūlam uttamam I| 136 ॥
+tadanujñār tato labdhvā datvā tāṁbūlam uttamam ॥ 136 ॥
 sivaṁ tatra nikṣipya gajatudākhyamudrayā |
 dharmādharmeti cāvadya japed aṣtau sahasrakam I| 137 ॥
 prātam vānte (> cānte) prakāśākhyaṁ mununā tattvam utsṛjet |
 sivaśaktisamāyogo yatra yatra prajāyate ॥ 138 ॥
-tatra tatra dvayarn grāhyaṁ dharmādharmādikaīn manu (> manum. ) |
+tatra tatra dvayaṁ grāhyaṁ dharmādharmādikaīn manu (> manum. ) |
 prajapet sobharahitaś cāṣtottarasahasrakam ॥ 139 ॥
 satam aṣṭottara vāpi akṣubdhaḥ sthiramānasaḥ |
-japyate taj japan devyai samarpya tadanantaram || 140 Il 
+japyate taj japan devyai samarpya tadanantaram || 140 || 
 
 Having then received her permission and offered (her) the most excellent betel and placed Śiva there with the gesture (mudrā) called Gajatunda (the Elephant’s Trunk), he should repeat DHARMĀDHARMA (etc.) for one thousand and eight times without a break. At dawn and at the end (of the day), one should eject the principle called Light (prakāśa) (i.e. sexual fluid) by means of the Mantra. Wherever Siva and Śakti unite, the two should be taken up. One who is beautiful should repeat the Mantra DHARMĀDHARMA etc. one thousand and eight times or else, undisturbed and his mind firm, one hundred and eight times. That repetition of Mantra is repeated after having offered it to the goddess. (136cd-140) 
 
@@ -529,7 +529,7 @@ kṣubdhamāno bhavamukhaḥ sukhena viharec ciram |
 galaccandradravaṁ tasmād grahī kundagolajam ॥ 141 ॥
 arghyasthāpanayaṁtrāṁkacandanāniṣu (> -diṣu) yojayet | 
 
-gajatundākhyamudreyarnṁ manasobhiṣtidāyinī ॥ 142 ॥ 
+gajatundākhyamudreyaṁ manasobhiṣtidāyinī ॥ 142 ॥ 
 
 May he whose mind is disturbed and attends to worldly affairs play happily for a long time. Take from the (nectar) that exudes from the Moon what is generated from the mixture of male and female sexual fluids (kundagola) and place it in the marks (aṁka) (of the parts) of the Yantra in which the liquid offering (arghya) is installed, and in the incense and the rest (of the offerings and utensils). This is the gesture (mudrā) called Gajatundā (the Elephant’s Trunk), that gives what the mind most desires. (141-142) 
 
@@ -564,7 +564,7 @@ pūjayed akṣitaiḥ (> akṣataiḥ) śuddhais tasyā madanamandire |
 bhāvayet kāmabhāvena tāsu tattvaṁ na cotsṛjet ॥ 146 ॥
 suddhamantrauṣadhenaiva mathayen madanālayam |
 mathyamāne punas tasyā jāyate tattvām (> tattvam) uttamam || 147 ||
-gṁnīyāt tat prayatnena dravyarn kundodbhavari śubham |
+gṁnīyāt tat prayatnena dravyaṁ kundodbhavari śubham |
 mathanar gajahasta (> -hastahn) mudrayati | 
 
 Now begins (an exposition of) the procedure with which sexual fluids (kundagola) and the like are extracted. (It is said in the) Pañcamīmala. 
@@ -597,7 +597,7 @@ svayańi mokṣābhito (> prokṣābhito) bhūtvā sādhakaḥ pañcamīm yajet 
 svechā (> svecchā) kratumatī śaktiḥ sākṣād devī sureśvari |
 tasyā (puspam svayaṁ yat tad rakṣanīyaṁ prayatnataḥ ॥ 153 ॥
 vastrālamkārapuṣpeṇa śaktiṁ ca pūjayet sadā |
-yathākāle yathā puṣpaṁ svayarn yad galitari bhavet Il 154 ॥
+yathākāle yathā puṣpaṁ svayaṁ yad galitari bhavet ॥ 154 ॥
 gṁītvā tat prayatnena svayanbhūkusumaṁ caret | 
 
 Having sprinkled (himself) by himself all around, the adept should offer the fifth (Kaula substance, that is, the sexual fluids produced during intercourse). O mistress of the gods, Śakti is independent and intelligent. She is the goddess in visible form. One should keep (and protect) with effort, her menses (puṣpa) that (has arisen) spontaneously and oozed out (of her yoni) at the proper time, as it is. Laying hold of that with effort, one should offer the Flower 
@@ -611,13 +611,13 @@ menstrual blood)
 that is Born Spontaneously (svayabhūkusuma). (153-155ab) 
 
 tantracūdāmanau |
-sṛnu vatsa kuladravyamāhātmyaṁi paramarn śubham | 155 ॥
+sṛnu vatsa kuladravyamāhātmyaṁi paramaṁ śubham | 155 ॥
 yat prāpya kuladevena labhyate vāñchitar mahat | 
 
 *[p. 476]* ^pg493
 
 āmāvāsyātithau devī suṣimnāmadhyavartinī || 156 ॥
-amṛtam varṣate sā tu tridinarn pṛthavītale |
+amṛtam varṣate sā tu tridinaṁ pṛthavītale |
 tasyāṁ tithau kular vīkṣya yadi vidyam samuccaret | 157 ॥
 sarvasiddhir bhavet yatra pratyuccāranam eva hi | 
 
@@ -626,14 +626,14 @@ sarvasiddhir bhavet yatra pratyuccāranam eva hi |
 Listen, O child, (as I tell about) the greatness of the Kula (sacrificial) substance, supreme and auspicious, having obtained which the deity of Kula obtains the great (things) desired. On the night of the new moon, the goddess is in the middle of suṣumnā. She rains down nectar for three days on the surface of the earth. If, having seen the Kula (substance) on that lunar day and one utters the Vidyā, all the accomplishments (are attained by the one) towards whom the (Mantra) has been uttered. (15Scd-158ab) 
 
 tasmāt sarvaprayatnena kular vīkṣya japar kuru ॥ 158 ॥
-dṛṣtvā tad amṛtarn deva galitam ! paragṛhya ca |
+dṛṣtvā tad amṛtaṁ deva galitam ! paragṛhya ca |
 sādhayet sādhanaṁ sarvan kulācārasya siddhaye ॥ 159 ॥
 sivahīnā yadā śaktiḥ saivādau varṣato hi tat |
 tadaiva parama divyaṁ svayanbhukusumākhyakam || 160 ॥
 svayaṁbhukusumaṁ dravyaṁ trailokye cāpi durlabham |
 kvacid gandharvarājena labhyete vā na vā vibho ॥ 161 ॥
 yadi tal labhyate deva lākṣārasasamanvitam |
-kastūrīm kuhkumāktari ca vatirn kṛtvā tu gopayet ॥ 162 ॥
+kastūrīm kuhkumāktari ca vatiṁ kṛtvā tu gopayet ॥ 162 ॥
 yantrarājaṁ samālikhya pūjayed yadi sādhakaḥ |
 etenākṣatayogena mahatīṁ siddhim ālabhet || 163 ॥ 
 
@@ -649,13 +649,13 @@ samayācāratantre
 *[p. 477]* ^pg494
 
 snānārthaṁ devatānām ca rahasyaṁn pañcamar śṛnṇu |
-yena snāne kṛte devi devatā suprasīdati ॥ 164 II rātrau pañcamakāle tu kṛtvā pañcamam uttamam |
-bhagamadhye ya (> yad) dravyarn gṁnīyāt tat prayatnataḥ ॥ 165 ॥
+yena snāne kṛte devi devatā suprasīdati ॥ 164 ॥ rātrau pañcamakāle tu kṛtvā pañcamam uttamam |
+bhagamadhye ya (> yad) dravyaṁ gṁnīyāt tat prayatnataḥ ॥ 165 ॥
 tasya kundodbhavaṁ toyan vijñeyaṁ bhuktimuktidam |
 labhyate bhāgyayogena (> bhagayogena) devatānāri ca durlabham || 166 ॥
 tasmin kiñ 
 
-larn kṣiptvā tāmrapātre ca dhārayet | 
+laṁ kṣiptvā tāmrapātre ca dhārayet | 
 
 taddravyasnānamātreṇa devatā suprasīdati ॥ 167 ॥ 
 
@@ -666,13 +666,13 @@ Listen (now) to the fifth secret (makāra, i.e. sexual fluid) that serves to bat
 striyo rajaś ca prathamaṁ yasmin vayasi jāyate |
 gṁnīyāc cāśu bhage brahmādīnāṁ ca durlabham ॥ 168 ॥
 svayabhūkusumaṁ nāma devatānārmi ca prītaye |
-yadi bhāgyavaśād devi labhate kusuma (>kusumami) tv idam II 169 ॥
+yadi bhāgyavaśād devi labhate kusuma (>kusumami) tv idam ॥ 169 ॥
 tatar (> tataḥ) svadevatānār ca prakuryāt snānam uttamam |
-vāñchitaṁ labhate mantrī satyarn satyarn varānane ॥ 170 ॥
+vāñchitaṁ labhate mantrī satyaṁ satyaṁ varānane ॥ 170 ॥
 svagurudattamantreṇa ṣadanganyāsam ācaret |
 saktidehe svadeha (> -he) vā pañcamaṁ kārayet tataḥ ॥ 171 ॥
 tato japādikaṁ kuryāc cākṣayaṁ labhate phalam |
-idarn rahasyaṁ kathitarn devatāsnānahetave ॥ 172 ॥ 
+idaṁ rahasyaṁ kathitaṁ devatāsnānahetave ॥ 172 ॥ 
 
 The first is a woman’s menses that arise when young. Hard to acquire by Brahmins and the like, one should lay hold of it with alacrity in the Yoni (bhaga). Called Svayaṁbhūkusuma (the Spontaneously Born Flower), it (serves) to please the deities. If by (one’s) good fortune, O goddess, one acquires this Flower, one should then (give this) most excellent bath to one’s own deities. The reciter of Mantra gets what he desires, O fair-faced lady, this is true indeed. Then one should deposit the six limbs of the Mantra given by the teacher onto the body of the Śakti or on one’s own, and then produce the fifth substance). After that, one should repeat Mantra and the like. (In this way, the yogi) obtains the imperishable fruit. This secret has been taught so that the deity (can be) bathed (properly). (168-172) 
 
@@ -682,13 +682,13 @@ Jjīvatibharttaranārīnām (> -bhartanā-) pañcamami kārayet priye |
 
 *[p. 478]* ^pg495
 
-tasyā bhagasya yad dravyaṁ tac ca golodbhavarn matam || 174 ||
+tasyā bhagasya yad dravyaṁ tac ca golodbhavaṁ matam || 174 ||
 kundagolodbhavadravyābhāve tu śṛnu sundarī (> sundari) |
 kathań snānam prakuryāc ca devatātoṣahetave || 175 ॥
 yasya kasya taroḥ puṣpaṁ gṁītvā suprayatnataḥ |
 raktacandanaghṛṣte ca jale caiva kṣipet tadā ॥ 176 ॥
 tajjalena prakurvīta devatāsnānam uttamam |
-vāñchita phalam āpnoti satyaṁ satyarn varānane || 177 ॥ 
+vāñchita phalam āpnoti satyaṁ satyaṁ varānane || 177 ॥ 
 
 This secret is taught in the Tantras of the six traditions (āmnāya). One should practice that especially (according to the procedure taught) in the Tantras of the Northern Tradition (uttarāmnāya). O beloved, one should produce the fifth (substance) of women whose husbands are alive. The substance (that comes from) her Yoni is considered to have been produced from the male seed (gola). O fair lady, listen how the bath should be given to satisfy the deity if the substance produced from the male and female sexual fluids (kundagola) is not available. Once one has exerted oneself to lay hold of a flower from any tree, having smeared it with red sandal paste, it should then be thrown into water. The most excellent ablution of the deity should be done with that water. O fair faced lady! It is true indeed that (one who does so) obtains the fruit (he) desires. (173-177) 
 
@@ -696,7 +696,7 @@ rudrayāmale
 
 tīrthaṁ kumbhasahasraiś ca palabhāraśatair api |
 na tṛpyāsi sureśāni bhagalingāmṛtaṁ vinā ॥ 178 ॥
-bhaga kunda (> kundar) snuvo (> śruvo) lińgaṁ argalarn ca bhagānkuram |
+bhaga kunda (> kundar) snuvo (> śruvo) lińgaṁ argalaṁ ca bhagānkuram |
 ājyari vīryarṁ mano hotā ity uktaṁ bhairavāgame ॥ 179 ॥
 dūtījanaṁ samāhūya gṁītvā tattvam uttamam |
 nikṣipya cālipātre ca tataḥ pūjā (> -jām) samācaret ॥ 180 ॥ 

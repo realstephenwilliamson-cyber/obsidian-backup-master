@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/decaloguet.html"
-page_range:
-  - 317
-  - 318
+page_range: "317–318"
 aliases:
   - "BCP 318"
 ---
@@ -15,13 +13,13 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 317–318
 
-[p. 317]
+[p. 317] ^pg317
 
 ### The Decalogue: Traditional
 
 God spake these words, and said: I am the Lord thy God who brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have none other gods but me. *Lord have mercy upon us, and incline our hearts to keep this law*.
 
-[p. 318]
+[p. 318] ^pg318
 
 Thou shalt not make to thyself any graven image, nor the likeness of any thing that is in heaven above, or in the earth beneath, or in the water under the earth; thou shalt not bow down to them, nor worship them. *Lord have mercy upon us, and incline our hearts to keep this law*.
 

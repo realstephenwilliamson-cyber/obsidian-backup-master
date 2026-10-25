@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 30
 verses: 13
-page_range:
-  - 622
-  - 622
+page_range: "622"
 aliases:
   - "BCP Psalm 30"
   - "BCP 622"
@@ -54,7 +52,7 @@ I pleaded with the Lord, saying, ^30-9
 **30:10** "What profit is there in my blood, if I go down to the Pit? \*  
 will the dust praise you or declare your faithfulness? ^30-10
 
-[p. 622]
+[p. 622] ^pg622
 
 **30:11** Hear, O LORD, and have mercy upon me; \*  
 O LORD, be my helper." ^30-11

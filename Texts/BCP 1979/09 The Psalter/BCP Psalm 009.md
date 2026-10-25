@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 9
 verses: 20
-page_range:
-  - 593
-  - 594
+page_range: "593–594"
 aliases:
   - "BCP Psalm 9"
   - "BCP 593"
@@ -59,7 +57,7 @@ proclaim to the peoples the things he has done. ^9-11
 **9:12** The Avenger of blood will remember them; \*  
 he will not forget the cry of the afflicted. ^9-12
 
-[p. 594]
+[p. 594] ^pg594
 
 **9:13** Have pity on me, O LORD; \*  
 see the misery I suffer from those who hate me,  

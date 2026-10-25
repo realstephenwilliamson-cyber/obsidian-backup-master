@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 40
 verses: 19
-page_range:
-  - 640
-  - 641
+page_range: "640–641"
 aliases:
   - "BCP Psalm 40"
   - "BCP 640"
@@ -62,7 +60,7 @@ and that, O LORD, you know. ^40-10
 I have spoken of your faithfulness and your deliverance; \*  
 I have not concealed your love and faithfulness from the great congregation. ^40-11
 
-[p. 641]
+[p. 641] ^pg641
 
 **40:12** You are the LORD;  
 do not withhold your compassion from me; \*  

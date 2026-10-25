@@ -18,8 +18,7 @@ language:
   - English
 pages: 10
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[GANAPATI_UPANISHAD_TRANS.PDF]]"
 aliases:

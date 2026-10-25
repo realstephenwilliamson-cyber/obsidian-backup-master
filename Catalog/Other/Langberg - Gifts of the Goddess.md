@@ -17,8 +17,7 @@ language:
   - English
 pages: 50
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Other/Langberg - Gifts of the Goddess, Sarasvati and Sri in the Sutra of Golden Light (2022).pdf]]"
   - "[[Library/Other/Gifts of the Goddess (Langberg)/Gifts of the Goddess (Langberg)]]"

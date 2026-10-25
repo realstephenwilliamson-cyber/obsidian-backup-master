@@ -18,8 +18,7 @@ language:
   - English
 pages: 183
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Adorno -Stars Down To Earth.pdf]]"
   - "[[Library/Philosophy/The Stars Down to Earth and Other Essays on the Irrational (Adorno)/The Stars Down to Earth and Other Essays on the Irrational (Adorno)]]"

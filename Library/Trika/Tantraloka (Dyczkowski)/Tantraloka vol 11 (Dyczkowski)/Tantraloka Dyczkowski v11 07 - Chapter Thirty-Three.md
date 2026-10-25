@@ -93,11 +93,11 @@ Vyiśvā tadīśā hāraudrī vīranetryambikā tathā |"
 
 gurvīti ṣadare devyaḥ śrīsiddhāvīradarśitāḥ ॥ 2 ॥ 
 
-1\) The goddesses that are presented in the Siddhāvīra” (as being in the wheel) with six spokes are Viśvā (the All), its governess \[illegible\] (the Governess of Universe), Hāraudrī, Vīranetrī (Hero's Eye), Ambikā (Mother) and Gurvī (Teacher). (2) 
+1\) The goddesses that are presented in the Siddhāvīra” (as being in the wheel) with six spokes are Viśvā (the All), its governess (tadīśā) (the Governess of Universe), Hāraudrī, Vīranetrī (Hero's Eye), Ambikā (Mother) and Gurvī (Teacher). (2) 
 
 #### Viveka on 33.2
 
-‘Its governess’ is Viśveśvarī (the Governess of Universe). ‘VīranetrT is Vīranāyikā. That is said (in the Mālinīvijayottara) 
+‘Its governess’ is Viśveśvarī (the Governess of Universe). ‘Vīranetrī is Vīranāyikā. That is said (in the Mālinīvijayottara) 
 
 ‘Viśvā (the All), Viśveśvarī (the Governess of Universe), and Hāraudrī, Vīranāyikā, Ambā and Gurvī are the Yoginīs . . . " 
 
@@ -129,7 +129,7 @@ māheśī brahmanī skāndī vaiṣṇavy aindrī yamātmikā |
 
 cāmundā caiva yogīśīty aṣtāghoryādayo ‘thavā ॥ 3 ॥
 agninirrtivāyvīśamātṛbhir dvādaśānvitāḥ |
-nandā bhadrā jayā kālī karālī vikṛtānanā I| 4 ॥
+nandā bhadrā jayā kālī karālī vikṛtānanā ॥ 4 ॥
 kroṣtukī bhīmamudrā ca vāyuvegā hayānanā |
 gambhīrā ghoṣanī ceti caturvimśatyare vidhiḥ ॥ 5 ॥ 
 
@@ -238,7 +238,7 @@ The Powerholders of the Sixteen-spoked Wheel
 तनुसेचनमूर्तीशाः सर्वीमृतधरोऽपरः ।
 सखीपाठाच्छक्तयश्चैताः षोडशैव प्रकीर्तिताः ॥ १२॥
 
-śrīkantṭho ‘nantasūkṣmau ca trimūrtiḥ śaṁvareśvaraḥ ॥ 9 |I arghīśo bhārabhūtiś ca sthitiḥ sthāṇur haras tathā |
+śrīkantṭho ‘nantasūkṣmau ca trimūrtiḥ śaṁvareśvaraḥ ॥ 9 ॥ arghīśo bhārabhūtiś ca sthitiḥ sthāṇur haras tathā |
 jhanthibhautikasadyojānugrahakrūrasainikāḥ | 10 ॥
 dvyaṣṭau yad vāmṛtas tena yuktāḥ pūrnābhataddravāḥ |
 oghormisyandanāṁgāś ca vapurudgāravaktrakāḥ ॥ 11 ॥
@@ -448,7 +448,7 @@ eka eva cidātmaiṣa viśívāmarśanasārakah |
 tayor eva vibhāge tu śaktitadvatprakalpane |
 śsabdarāśir mālinī ca kṣobhātma vapur īdṛśam || 21 ॥ 
 
-This consciousness, which is the essential nature \[illegible\] (of all things), is one alone, and its essence, the reflective awareness of all things. (Proceeding) from this is power and its possessor, which are (respectively) said to be Mātr (Mother) and Śabdarāśi. When these two divide (further) and are conceived to be power and its possessor, (they are then) Śabdarāśi and Mālinī, whose essential nature is the arousal (into manifestation of 
+This consciousness, which is the essential nature (ātman) (of all things), is one alone, and its essence, the reflective awareness of all things. (Proceeding) from this is power and its possessor, which are (respectively) said to be Mātr (Mother) and Śabdarāśi. When these two divide (further) and are conceived to be power and its possessor, (they are then) Śabdarāśi and Mālinī, whose essential nature is the arousal (into manifestation of 
 
 Mātṛkā,) and body is like this.“ (20-21) 
 
@@ -546,13 +546,13 @@ rdhamātrāsahatvataḥ |
 svarārdham apy asti yataḥ svaritasyārdhamātrakam ॥ 27 ||
 tasyādita udāttari tat kathita padavedinā | 
 
-A half vowel also exists, as (the vowels) allow (division) into half measures, wherefore (Pānini), who knows grammar (padavedin), has said that the half measure at the beginning of a middle accent (svarita) is acute 
+A half vowel also exists, as (the vowels) allow (division) into half measures, wherefore (Pāṇini), who knows grammar (padavedin), has said that the half measure at the beginning of a middle accent (svarita) is acute 
 
 (udātta).\*' (27bcd-28ab) 
 
 #### Viveka on 33.27–28
 
-As vowels allow (division) into half measures, they also have half-measures. Accordingly, Pānini declares that the middle accent is a combination of an acute accent, (in the aphorism,) ‘the vowel that has the combination of udātta and anudātta tones is said to be svarita or circumflexly accented’, (Similarly, there is the rule that) also declares that the short vowel in the first part of an acute accent is half a measure. (It states that) ‘the first portion of it (i.e. svarita) is udātta, to the extent of a half measure, or prosodial length. ” 
+As vowels allow (division) into half measures, they also have half-measures. Accordingly, Pāṇini declares that the middle accent is a combination of an acute accent, (in the aphorism,) ‘the vowel that has the combination of udātta and anudātta tones is said to be svarita or circumflexly accented’, (Similarly, there is the rule that) also declares that the short vowel in the first part of an acute accent is half a measure. (It states that) ‘the first portion of it (i.e. svarita) is udātta, to the extent of a half measure, or prosodial length. ” 
 
 466?\. Read -mātrarūpatayā for -mātrānurūpatayā.
 
@@ -573,7 +573,7 @@ He concludes the main subject.
 अभिन्नं संविदशचैतच्चक्राणां चक्रवाकम् ।
 स्वाम्यावरणभेदेन बहुधा तत्प्रयोजयेत् ॥ २९॥
 
-ittharn saṁvid iyan yājyasvarūpāmarśarūpinī ॥ 28 || 
+itthaṁ saṁvid iyan yājyasvarūpāmarśarūpinī ॥ 28 || 
 
 abhinnar saṁvidaś caitac cakrāṇāri cakravālakam |
 svāmyāvaraṇabhedena bahudhā tat prayojayet ॥ 29 || 

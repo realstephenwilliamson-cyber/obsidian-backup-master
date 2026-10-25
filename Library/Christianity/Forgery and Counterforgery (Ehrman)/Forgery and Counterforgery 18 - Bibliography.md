@@ -6,7 +6,7 @@ page_range: "549–574"
 ---
 [[Forgery and Counterforgery 17 - Chapter Sixteen - Lies and Deception in the Cause of Truth|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 19 - Index of Ancient Sources|next →]]
 
-[p. 549]
+[p. 549] ^pg549
 
 ## BIBLIOGRAPHY
 

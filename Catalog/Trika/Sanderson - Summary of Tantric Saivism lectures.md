@@ -17,8 +17,7 @@ language:
   - English
 pages: 8
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Sanderson - Summary of Tantric Saivism, lectures at the EPHE.pdf]]"
   - "[[Library/Trika/Summary of 'Tantric Saivism', 24 lectures delivered at (Sanderson)]]"

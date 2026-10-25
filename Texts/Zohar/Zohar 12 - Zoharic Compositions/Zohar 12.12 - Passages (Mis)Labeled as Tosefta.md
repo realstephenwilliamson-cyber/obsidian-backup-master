@@ -71,7 +71,7 @@ He said to him, “My son, take out your note and heed the voice of your elder, 
 
 # REFERENCE MATTER
 
-[p. 710]
+[p. 710] ^pg710
 
 [^1]: ***Tosefta*** This chapter consists of seven short passages—this first one (on 1:31b) being a mere fragment. These passages were apparently given the heading *Tosefta* (“Addendum”) by the editors of the first printed texts. However, they do not bear the stylistic qualities of the Zoharic stratum called *Tosefta*. The heading *Tosefta* was one of several titles used by kabbalists and printers to refer to sections of *Zohar* that scribes had not bound together previously with larger sections. (Other such headings include *Matnitin*, Our Mishnah; *Sitrei Torah*, Secrets of Torah; and Midrash of Rabbi Shim’on son of Yoḥai.) None of these passages appear in the extant manuscripts. See Scholem, *Kabbalah*, 216; Gottlieb, *Studies in the Kabbalah Literature*, 163–214; Tishby, *Wisdom of the Zohar*, 1:3; Abrams, “The ‘*Zohar*’ as Palimpsest,” 40–41; Vol. 11, pp. xiii–xiv.
 

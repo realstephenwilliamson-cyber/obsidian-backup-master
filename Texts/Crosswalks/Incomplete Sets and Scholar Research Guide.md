@@ -64,7 +64,7 @@ This presents an astonishing conceptual polarity with Thomas Hobbes:
 ### B. Files that hold only part of a work
 
 - [[Rastogi - Kalikrama and Abhinavagupta]]: the first 12 pages of the 2021 book.
-- [[Hobbes - Leviathan (parts 1-2)]]: Jonathan Bennett's modernised adaptation of Parts 1–2 (its first page reads "Copyright © Jonathan Bennett", first launched 2004), not Hobbes's own text; Parts 3–4 and the 1651 text are not in the vault.
+- [[Hobbes - Leviathan (parts 1-2)]]: Jonathan Bennett's modernised adaptation of Parts 1–2 (its first page reads "Copyright © Jonathan Bennett", first launched 2004), not Hobbes's own text; Hobbes's own 1651 text, Parts 1–4, is in [[Leviathan (1651)]].
 - [[Ricoeur - Figuring the Sacred]]: pp. 259–304 are missing (the end of ch. 14, chs 15–19, and pp. 303–304 of ch. 20).
 - [[Ricoeur - The Model of the Text]]: pp. 316–333 of a reader not yet identified; the scan breaks off mid-sentence at the foot of p. 333, so the end of the essay is missing.
 - [[Stiegler - Disbelief and Discredit (vols 1-3)|Stiegler, *Disbelief and Discredit* vol. 1]]: the scan ends with the notes; the index (p. 184) is missing.
@@ -112,7 +112,7 @@ From your downloads: [[Nemec - The Ubiquitous Siva, vol. I]], [[Ricoeur - On Psy
 
 ## 3. Library tasks
 
-- [ ] Pritzker Zohar vol. 11.
+- [x] Pritzker Zohar vol. 11 (added 14 Oct 2026).
 - [ ] Pelikan vols. 4–5.
 - [ ] TAK III; Brahmayāmalatantra vol. II; Padoux "Contributions" III (free on Persée, one click).
 - [ ] Ricoeur *Writings and Lectures* 3; Adorno *Lectures* vol. 1.

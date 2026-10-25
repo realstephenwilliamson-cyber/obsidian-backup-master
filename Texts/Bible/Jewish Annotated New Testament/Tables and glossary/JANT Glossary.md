@@ -66,7 +66,7 @@ source: "Oxford University Press 2017 (2nd ed.; ISBN 978-0-19-046185-0); Stephen
 
 **annunciation** announcement to Mary by the angel Gabriel that she will give birth to the one called “holy, the Son of God” ([[Luke 01#^1-26|Lk 1.26-38]]).
 
-**anoint** to touch or rub with oil as a sign of being dedicated to God, including kings ([[I Kings 01#^1-39|1 Kings 1.39]]), priests ([[Torah 25 - Tzav#^8-30|Lev 8.30]]), and liturgical structures (Exod 20.26). Bodies ([[Ruth 3#^3-3|Ruth 3.3]]; [[Daniel 10#^10-3|Dan 10.3]]; Jtd 10.3), including corpses (Lk 26.53), were also anointed.
+**anoint** to touch or rub with oil as a sign of being dedicated to God, including kings ([[I Kings 01#^1-39|1 Kings 1.39]]), priests ([[Torah 25 - Tzav#^8-30|Lev 8.30]]), and liturgical structures ([[Torah 21 - Ki Tisa#^30-26|Exod 20.26]] [as printed; the verse is Exod 30:26]). Bodies ([[Ruth 3#^3-3|Ruth 3.3]]; [[Daniel 10#^10-3|Dan 10.3]]; Jtd 10.3), including corpses (Lk 26.53), were also anointed.
 
 **antichrist** originally a term for false teachers and given in the plural ([[1 John 02#^2-18|1 Jn 2.18]],[[1 John 02#^2-22|22]]; [[1 John 04#^4-3|4.3]]; 2 Jn 7), the term comes to indicate in the post-NT period an eschatological figure who opposes God.
 

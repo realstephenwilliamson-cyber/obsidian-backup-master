@@ -17,8 +17,7 @@ language:
   - English
 pages: 269
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Pintchman (ed.) - Seeking Mahadevi (2001).pdf]]"
   - "[[Library/Hinduism/Seeking Mahadevi (Pintchman)/Seeking Mahadevi (Pintchman)]]"

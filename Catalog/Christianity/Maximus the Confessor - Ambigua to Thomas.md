@@ -19,8 +19,7 @@ language:
   - Greek
 pages: 144
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Maximus the Confessor - Ambigua to Thomas and Second Letter to Thomas (2009).pdf]]"
   - "[[Library/Christianity/Ambigua to Thomas and Second Letter to Thomas (Maximus the Confessor)/Ambigua to Thomas and Second Letter to Thomas (Maximus the Confessor)]]"

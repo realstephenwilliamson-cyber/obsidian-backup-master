@@ -17,8 +17,7 @@ language:
   - English
 pages: 2
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Mrityunjaya Mantra.pdf]]"
   - "[[Library/Trika/Mrtyunjaya Mantra (text)]]"

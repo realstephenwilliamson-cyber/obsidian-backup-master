@@ -18,8 +18,7 @@ language:
   - English
 pages: 231
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Abhinavagupta - Gitarthasangraha (1983).pdf]]"
   - "[[Library/Trika/Gitarthasangraha (Abhinavagupta)/Gitarthasangraha (Abhinavagupta)]]"

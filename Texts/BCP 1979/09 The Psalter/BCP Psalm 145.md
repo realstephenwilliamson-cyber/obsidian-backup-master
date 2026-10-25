@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 145
 verses: 22
-page_range:
-  - 802
-  - 803
+page_range: "802–803"
 aliases:
   - "BCP Psalm 145"
   - "BCP 802"
@@ -44,7 +42,7 @@ and I will tell of your greatness. ^145-6
 **145:7** They shall publish the remembrance of your great goodness; \*  
 they shall sing of your righteous deeds. ^145-7
 
-[p. 802]
+[p. 802] ^pg802
 
 **145:8** The LORD is gracious and full of compassion, \*  
 slow to anger and of great kindness. ^145-8
@@ -88,7 +86,7 @@ he hears their cry and helps them. ^145-20
 **145:21** The LORD preserves all those who love him, \*  
 but he destroys all the wicked. ^145-21
 
-[p. 803]
+[p. 803] ^pg803
 
 **145:22** My mouth shall speak the praise of the LORD; \*  
 let all flesh bless his holy Name for ever and ever. ^145-22

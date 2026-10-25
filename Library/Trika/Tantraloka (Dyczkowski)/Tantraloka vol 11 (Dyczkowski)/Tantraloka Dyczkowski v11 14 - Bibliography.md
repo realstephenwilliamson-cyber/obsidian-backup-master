@@ -64,7 +64,7 @@ Arraj, W. J. 1988: The Svacchandatantram: History and Structure of a Śaiva Scri
 
 Aurobindo, 2001: Essays on the Gita. The Bhagavadgita as Translated by Aurobindo. Publisher Sri Aravindo. 
 
-Bakkar, Hans T. 2000: Somaśarman, Somavaṁśa and Somasiddhānta. A Pāśupata Tradition in Seventh-Century Dakṣina Kośala. Studies in the Saikndapurāna 3’, in HarānandalaharīT Volume in Honour of Professor Minoru Hara on his Sventieth Birthday, ed. R. Tsuchida and A. Wezler. Reinbek: Dr. Inge Wezler, pp. 1-19. 
+Bakkar, Hans T. 2000: Somaśarman, Somavaṁśa and Somasiddhānta. A Pāśupata Tradition in Seventh-Century Dakṣiṇa Kośala. Studies in the Saikndapurāna 3’, in HarānandalaharīT Volume in Honour of Professor Minoru Hara on his Sventieth Birthday, ed. R. Tsuchida and A. Wezler. Reinbek: Dr. Inge Wezler, pp. 1-19. 
 
 Bakker, Hans, and Alan Entwistle, eds. 1983: Devī: The Worship of the Goddess and its Contribution to Indian Pilgrimage. Institute of Indian Studies, State University of Groningen, Groningen. 
 
@@ -178,7 +178,7 @@ Bunce, Fredrick W. 1994: An Encyclopaedia of Buddhist Deities, Demigods, Godling
 
 Burnett, LD. 1910: The Paramārthasāra of Abhinavagupta, in JRAS, pp. 707- 47. 
 
-Caitanyānanda 1996: Śrī Vidyā. Śrī Cakra Pūjā Vidhiḥ. \[illegible\] Dattātreya Caitanyānandanātha Sampradāya Sampūrṇa Krama. Madras: Sri Maruti Graphics. 
+Caitanyānanda 1996: Śrī Vidyā. Śrī Cakra Pūjā Vidhiḥ. Śrī Dattātreya Caitanyānandanātha Sampradāya Sampūrṇa Krama. Madras: Sri Maruti Graphics. 
 
 Carelli, M. 1941: Sekoddeśaṭīkā of Nadapāda (Nāropā), edition and introduction, Gaekwad's Oriental Series (90), Baroda. 
 
@@ -408,7 +408,7 @@ Hawley, John S. and Wulff, Donna Marie (editors) 1986: The Divine Consort: Rādh
 
 Hanneder, Jürgen 2005: The Mokṣopāya, Yogavāṣiṣtha and Related Texts edited by Jurgen Hanneder. Indologica Halensis. Shaker Verlag, Āchen. 
 
-Hatley, Shaman and Csaba Kiss, The Brahmayamala Tantra or Picumata (set of two volumes), Institut Français de Pondichéry, École Français d’Extrême-Orient, 2018 Hazra, R. C. 1975: Studies in the Purānic Records on Hindu Rites and Customs. Delhi: Motilal Banarsidass, 1958: Studies in the Upapurānas Vol. 1: Śaiva and Vaisṣnava Upapurāṇas. Calcutta: Calcutta Sanskrit College Research Series, no. 2. 1963: Studies in the Upapurāṇas Vol. 2: Śākta and Non-sectarian Upapurāṇas. Calcutta: Calcutta Sanskrit College Research Series, no. 22. Hedayetullah, Muhammad 1977: Kabir: The Apostle of Hindu-Muslim Unity. Delhi: Motilal Banarsidass. 
+Hatley, Shaman and Csaba Kiss, The Brahmayamala Tantra or Picumata (set of two volumes), Institut Français de Pondichéry, École Français d’Extrême-Orient, 2018 Hazra, R. C. 1975: Studies in the Purānic Records on Hindu Rites and Customs. Delhi: Motilal Banarsidass, 1958: Studies in the Upapurāṇas Vol. 1: Śaiva and Vaisṣnava Upapurāṇas. Calcutta: Calcutta Sanskrit College Research Series, no. 2. 1963: Studies in the Upapurāṇas Vol. 2: Śākta and Non-sectarian Upapurāṇas. Calcutta: Calcutta Sanskrit College Research Series, no. 22. Hedayetullah, Muhammad 1977: Kabir: The Apostle of Hindu-Muslim Unity. Delhi: Motilal Banarsidass. 
 
 Heilijgers-Seelen, D. M 1994: The System of Five Cakras in Kubjikāmatatantra 14-16. Groningen: Egbert Forsten. 
 
@@ -756,7 +756,7 @@ Sircar, D. C. 1948: The Śākta Pītha, JASB (14), pp. 1-108.
 
 Sircar, D. C. (editor) 1967: The Sakti Cult and Tārā. Calcutta: University of Calcutta. 
 
-Sironi, A. 1987: the commentary of Kṣemarāja to stanza V, 88 of Svacchanda-Tantra: the nature and the scope of \[illegible\] in RSO (61), pp. 89-113. 
+Sironi, A. 1987: the commentary of Kṣemarāja to stanza V, 88 of Svacchanda-Tantra: the nature and the scope of dīkṣā, in RSO (61), pp. 89-113. 
 
 Sironi, A. 1989: Vijñānabhairava. the conoscenza of tremendo, translation and commentary, introduction di R. Gnoli, Adelphi, Milan. 
 
@@ -790,7 +790,7 @@ Sukul, Kuber Natha 1977: Vārāṇasī Vaibhava. Patna: Bihār Rāṣtrabhāṣ�
 
 Sutherland, Gail Hinich 1991: The Diguises of the Demon. The Development of the Yakṣa in Hinduism and Buddhism. Albany: State University of New York Press. 
 
-Schrader, F. Otto 1973 (2nd edition): Introduction to the Pāñcarātra and the Ahirbudhnya 54711112. Madras: The Adyar Library and Research Centre. Tagare, G. V. 1996: The Skanda Purāna. Translated and annotated. Part X. Delhi: Motilal Banarsidass. 
+Schrader, F. Otto 1973 (2nd edition): Introduction to the Pāñcarātra and the Ahirbudhnya 54711112. Madras: The Adyar Library and Research Centre. Tagare, G. V. 1996: The Skanda Purāṇa. Translated and annotated. Part X. Delhi: Motilal Banarsidass. 
 
 Tawney C. H. 1984 (reprint): The Ocean of Story (Kathāsaritsāgara), being C. H. Tawney’s translation of Somadeva’s Kathāsaritsāgara (or Ocean of Streams of Story). In ten volumes. Delhi: Motilal Banarsidass. 
 
@@ -868,7 +868,7 @@ Vyāsa, Kalu Rāma 1981: A Catalogue of Manuscripts in the Maharaja Mansingh Pus
 
 Vyāsa, Kalu Rāma and Kṣīrasagar D. B 1986: A Catalogue of Manuscripts in the Maharaja Mansingh Pustak Prakash Jodhpur (Sanskrit and Prakrit Manuscripts) part 2. Jodhpur: Maharaja Mansigh Pustak Prakash. 
 
-Vyāsa, Kedāranātha 1987: kāśīkhandokta paṁnicakrośātmaka jyotirlińga kāíīmāhātmya evarn \[illegible\] prācīn itihāsa. Vārāṇasī: Jyotiṣa Prakāśa Press. Walton, H. G. (editor) 1911: District Gazetteers of the United Provinces of Agra and Oudh XXXV. Allahabad. 
+Vyāsa, Kedāranātha 1987: kāśīkhandokta paṁnicakrośātmaka jyotirlińga kāíīmāhātmya evaṁ \[illegible\] prācīn itihāsa. Vārāṇasī: Jyotiṣa Prakāśa Press. Walton, H. G. (editor) 1911: District Gazetteers of the United Provinces of Agra and Oudh XXXV. Allahabad. 
 
 Warner, A.K.: Indian Kāvya Literature. In six volumes: vol. 1 1989 (revised edition), vol. 2 1990 (revised edition), vol. 3 1990 (revised edition), vol. 4 1983 (first edition), vol. 5 1988 (first edition), and vol. 6 1992 (first edition). Delhi: Motilal Banarsidass. 
 
@@ -1183,7 +1183,7 @@ kundagolaka, 13/227cd-229ab; 15/577-578, 170-173 \[illegible\] 3/137cd-140, 220-
 Kūṣmānda, deity whose name is given to a hell, 6/142cd-145ab; 8/28ab, 262cd- 263ab, 407cd-408ab, 428-434ab, 437cd-438ab 
 
 garhoda, a water jar, 8/113-114, 118 Gabhasti, demons, 28/96cd-98 Gabhastimat, region, 8/83-84 Gahana, 8/318-319 Gahaneśa, Gahaneśvara, 6/155-156; 36/2-7ab Gamatantra (-śāsana, -śastra), 1/150-151; 13/229cd-234ab; 15/278cd-283ab, 422-424ab, \[illegible\] 16/286-287; 29/141cd-142ab Gambhīrā, 33/3-5 Ganṇādhyakṣa, one of the eight Tejas, 8/235cd-237 gānapatya, voete, 15/506-508 Ganṇqdakī, river, 28/237cd-248a Gandhamādana, mountain, 8/58cd-60ab, 63cd-67, 69, 71 Gandharva, 8/43cd-56ab, 83-88, 122cd-139ab; Gandhavatī, city, 8/43cd-56ab Ganeśa, 1/6, 287-327ab; 15/183cd-190ab, 376cd-377; 16/7cd-10; 28/168-173, 397-399; 29/27cd-29ab, 130cd-132, 287cd-289ab; 30/18-19 ganesa, vow, 15/506-508 0228. river, 3/89, 139cd-142ab, 203-204; 15/183cd-190ab; 37/49-51, 52 garbhāvaraṇa (embryo's covering ), 16/78-80 Gargikā, a sacred place, 15/92-93ab Garuda, 8/32cd-35ab, 115-117, 139cd-142ab, 15/137cd-139ab; 36/2-7ab; 37/12cd-13a Gaur, 28/237cd-248ab Gautama, 15/497
-Gaya, a deity, 8/206cd-208ab, 442cd-443ab Gemini, sign of the zodiac, 28/121cd-127ab Gokarna, a sacred place, 29/59-63 Gokarnṇaka, divinities of the principle of earth, 8/443cd-444ab Gomedha, an island, 8/103cd-104 Gopāla, 33/7cd-9ab Gopati, 8/318-319 grāmadharma, 1/82-90 Guqdikānātha, Siddha, 29/33cd-34 Guhya, one of the eight Eight Pāśupta scriptures called Pramāṇas, 8/328-329ab 
+Gaya, a deity, 8/206cd-208ab, 442cd-443ab Gemini, sign of the zodiac, 28/121cd-127ab Gokarṇa, a sacred place, 29/59-63 Gokarṇaka, divinities of the principle of earth, 8/443cd-444ab Gomedha, an island, 8/103cd-104 Gopāla, 33/7cd-9ab Gopati, 8/318-319 grāmadharma, 1/82-90 Guqdikānātha, Siddha, 29/33cd-34 Guhya, one of the eight Eight Pāśupta scriptures called Pramāṇas, 8/328-329ab 
 
 Guhya, a Śaiva scripture, 31/60-61 
 

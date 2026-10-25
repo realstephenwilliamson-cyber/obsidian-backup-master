@@ -6,7 +6,7 @@ page_range: "239–282"
 ---
 [[Forgery and Counterforgery 09 - Chapter Eight - Later Forgeries Dealing with Eschatology|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 11 - Chapter Ten - Forgeries in Opposition to Paul and His Message|next →]]
 
-[p. 239]
+[p. 239] ^pg239
 
 ## Chapter Nine: Forgeries in Support of Paul and His Apostolic Mission
 
@@ -66,7 +66,7 @@ It is commonly argued that since Peter became a missionary to foreign lands afte
 
 In combination with all the other evidence indicated at the outset, there is really only one viable conclusion. The book of 1 Peter was not written by Peter, but by someone falsely claiming to be Peter. It is, in short, a forgery.[^31]
 
-[p. 248]
+[p. 248] ^pg248
 
 #### *Attempts to Explain Away the Forgery*
 
@@ -225,7 +225,7 @@ So too in the next passages in question, in chapters 20 and 21. Why is the narra
 
 I will be arguing in what follows that the best explanation for these abrupt beginnings and endings is that the first-person pronoun was used selectively to place the author in the company of Paul, thereby authenticating his account. As Byrskog expresses the matter: “By presenting a narrator who speaks in first-person plural, the author himself appears, albeit vaguely, as present in the arena of history. Clearly, from a narrative point of view, the author is included among the ‘we,’ and that is sufficient.… The ‘we’ are, within the narrative of Acts, historical witnesses to the details and vividness of Paul’s words and deeds.”[^64]
 
-[p. 267]
+[p. 267] ^pg267
 
 #### *Various Solutions and Their Problems*
 

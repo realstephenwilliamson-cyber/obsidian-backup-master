@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 108
 verses: 13
-page_range:
-  - 750
-  - 750
+page_range: "750"
 aliases:
   - "BCP Psalm 108"
   - "BCP 750"
@@ -32,7 +30,7 @@ I myself will waken the dawn. ^108-2
 **108:3** I will confess you among the peoples, O LORD; \*  
 I will sing praises to you among the nations. ^108-3
 
-[p. 750]
+[p. 750] ^pg750
 
 **108:4** For your loving-kindness is greater than the heavens, \*  
 and your faithfulness reaches to the clouds. ^108-4

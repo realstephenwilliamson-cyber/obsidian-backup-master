@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 43
 verses: 6
-page_range:
-  - 645
-  - 645
+page_range: "645"
 aliases:
   - "BCP Psalm 43"
   - "BCP 645"
@@ -38,7 +36,7 @@ and to your dwelling; ^43-3
 to the God of my joy and gladness; \*  
 and on the harp I will give thanks to you, O God my God. ^43-4
 
-[p. 645]
+[p. 645] ^pg645
 
 **43:5** Why are you so full of heaviness, O my soul? \*  
 and why are you so disquieted within me? ^43-5

@@ -17,8 +17,7 @@ language:
   - English
 pages: 382
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Padma - Vicissitudes of the Goddess (2013).pdf]]"
 aliases:

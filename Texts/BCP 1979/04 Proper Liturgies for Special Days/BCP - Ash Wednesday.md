@@ -5,9 +5,7 @@ section: "Proper Liturgies for Special Days"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/SpecialDays/ashwed.html"
-page_range:
-  - 264
-  - 269
+page_range: "264–269"
 aliases:
   - "BCP 264"
   - "BCP 265"
@@ -20,7 +18,7 @@ aliases:
 
 [[BCP 1979]] · *Proper Liturgies for Special Days* · pages 264–269
 
-[p. 264]
+[p. 264] ^pg264
 
 ## Ash Wednesday
 
@@ -50,7 +48,7 @@ Remember that you are dust, and to dust you shall return.
 
 *The following Psalm is then sung or said*
 
-[p. 266]
+[p. 266] ^pg266
 
 Psalm 51 Miserere mei, Deus
 
@@ -93,7 +91,7 @@ and take not your holy Spirit from me.
 **13** Give me the joy of your saving help again \*  
 and sustain me with your bountiful Spirit.
 
-[p. 267]
+[p. 267] ^pg267
 
 **14** I shall teach your ways to the wicked, \*  
 and sinners shall return to you.
@@ -123,7 +121,7 @@ We have not loved you with our whole heart, and mind, and strength. We have not 
 
 We have been deaf to your call to serve, as Christ served us. We have not been true to the mind of Christ. We have grieved your Holy Spirit. *Have mercy on us, Lord.*
 
-[p. 268]
+[p. 268] ^pg268
 
 We confess to you, Lord, all our past unfaithfulness: the pride, hypocrisy, and impatience of our lives, *We confess to you, Lord.*
 
@@ -145,7 +143,7 @@ Restore us, good Lord, and let your anger depart from us; *Favorably hear us, fo
 
 Accomplish in us the work of your salvation, *That we may show forth your glory in the world.*
 
-[p. 269]
+[p. 269] ^pg269
 
 By the cross and passion of your Son our Lord, *Bring us with all your saints to the joy of his resurrection.*
 

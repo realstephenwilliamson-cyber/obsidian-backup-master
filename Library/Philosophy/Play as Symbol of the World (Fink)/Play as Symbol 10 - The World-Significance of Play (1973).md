@@ -4,7 +4,7 @@ book: "[[Play as Symbol of the World (Fink)]]"
 order: 10
 page_range: "234–248"
 ---
-[p. 234]
+[p. 234] ^pg234
 
 ## The World-Significance of Play {1973}
 

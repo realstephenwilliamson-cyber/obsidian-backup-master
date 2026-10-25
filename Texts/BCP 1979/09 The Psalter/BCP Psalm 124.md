@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 124
 verses: 8
-page_range:
-  - 781
-  - 781
+page_range: "781"
 aliases:
   - "BCP Psalm 124"
   - "BCP 781"

@@ -20,8 +20,7 @@ language:
   - Sanskrit
 pages: 432
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Singh (tr.) - Paratrisika-vivarana, The Secret of Tantric Mysticism.pdf]]"
   - "[[Library/Trika/Paratrisika-vivarana - The Secret of Tantric Mysticism (Abhinavagupta)/Paratrisika-vivarana - The Secret of Tantric Mysticism (Abhinavagupta)]]"
@@ -38,7 +37,7 @@ Internet Archive scan with OCR, ISBN 978-81-208-0462-3 (a Motilal Banarsidass nu
 
 Catalogued on 4 Oct 2026 from the file itself (title pages and PDF metadata). The subject was assigned by Claude; change it if the item belongs elsewhere.
 
-**Text layer** (6 Oct 2026): the old OCR text was replaced by new OCR (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The previous file went with the trash when it was emptied on 6 Oct 2026. Cites the Tantrāloka 1 time (see [[Tantraloka - secondary literature]]).
+**Text layer** (6 Oct 2026; replaced on 15 Oct, below): the old OCR text was replaced by new OCR (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The previous file went with the trash when it was emptied on 6 Oct 2026. Cites the Tantrāloka 1 time (see [[Tantraloka - secondary literature]]).
 
 **Checked against the file** on 5 Oct 2026: cover, translator, Motilal Banarsidass and the 432-page OCR scan confirmed from the file, and the year 1988, 'Motilal Banarsidass, Delhi', editor Bettina Bäumer and the Sanskrit text section (119 pp.) added from the Internet Archive and HathiTrust records for this scan.
 

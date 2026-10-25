@@ -17,8 +17,7 @@ language:
   - English
 pages: 399
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[downloadfile.pdf]]"
   - "[[Library/Judaica/The Serpent Kills or the Serpent Gives Life (Sagerman)/The Serpent Kills or the Serpent Gives Life (Sagerman)]]"

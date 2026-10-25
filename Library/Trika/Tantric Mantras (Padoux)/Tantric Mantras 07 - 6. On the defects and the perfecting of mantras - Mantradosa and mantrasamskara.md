@@ -6,7 +6,7 @@ page_range: 89–94
 aliases:
   - Tantric Mantras 07 - 6. On the defects and the perfecting of mantras - Mantradoṣa and mantrasaṃskāra
 ---
-[p. 89]
+[p. 89] ^pg89
 
 # 6 On the defects and the perfecting of mantras[^1]
 

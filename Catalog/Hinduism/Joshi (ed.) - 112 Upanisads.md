@@ -20,8 +20,7 @@ language:
   - Sanskrit
 pages: 1265
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Joshi, Bimali, Trivedi (eds.) - 112 Upanisads (2007).pdf]]"
 aliases:

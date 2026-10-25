@@ -42,7 +42,7 @@ And that is the essence of the second part of the puja, which consists of offeri
 
 manifestation of the divine. B This is where the question of Tantra comes in. Tantra speaks of interaction with others. The question is, in relations between yourself and others, are you trying to keep your separateness and relate to them as separate entities—or are you trying to relate to them through merging, as you relate to yourself?
 
-Here again, Jesus has given a beautiful answer to the question. It is worth repeating: “Love thy neighbor as thyself.”<sup>308</sup> Not as somebody else—because if you think of 308  Mark 12:13 (KJV) your neighbor as somebody separate from yourself, then questions of desire, lust or 
+Here again, Jesus has given a beautiful answer to the question. It is worth repeating: “Love thy neighbor as thyself.”<sup>308</sup> Not as somebody else—because if you think of 308  [[Mark 12#^12-31|Mark 12:13]] [as printed; the verse is Mark 12:31] (KJV) your neighbor as somebody separate from yourself, then questions of desire, lust or 
 
 *[p. 256]* ^pg285
 

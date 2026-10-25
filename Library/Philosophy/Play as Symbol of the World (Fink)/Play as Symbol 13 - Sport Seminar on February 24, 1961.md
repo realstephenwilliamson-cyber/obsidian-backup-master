@@ -4,7 +4,7 @@ book: "[[Play as Symbol of the World (Fink)]]"
 order: 13
 page_range: "273–274"
 ---
-[p. 273]
+[p. 273] ^pg273
 
 ## Sport Seminar on February 24, 1961
 

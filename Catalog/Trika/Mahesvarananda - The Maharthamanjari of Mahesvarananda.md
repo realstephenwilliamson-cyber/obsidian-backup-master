@@ -20,8 +20,7 @@ language:
   - Sanskrit
 pages: 202
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[mahartha-manjari-mahesvaranandapdf-pdf-free.pdf]]"
   - "[[Library/Trika/The Maharthamanjari of Mahesvarananda (Mahesvarananda)/The Maharthamanjari of Mahesvarananda (Mahesvarananda)]]"
@@ -41,6 +40,6 @@ await dv.view("Templates/Views/open-pdf")
 
 English translation of the 14th-century Krama/Trika text with its Parimala commentary. Year not established.
 
-**Text layer** (6 Oct 2026): the old OCR text was replaced by new OCR (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The previous file went with the trash when it was emptied on 6 Oct 2026. Cites the Tantrāloka 1 time (see [[Tantraloka - secondary literature]]).
+**Text layer** (6 Oct 2026; replaced on 15 Oct, below): the old OCR text was replaced by new OCR (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The previous file went with the trash when it was emptied on 6 Oct 2026. Cites the Tantrāloka 1 time (see [[Tantraloka - secondary literature]]).
 
 **Text layer** (15 Oct 2026, decision D09 a/b): the OCR text layer was redone (OCRmyPDF --redo-ocr, sandwich renderer, English and Sanskrit) to remove the stray glyph the old layer put after the vowel sign ि; the page images are unchanged. Stray glyphs after ि: 2987 before, 9 now; Devanagari letters read into English lines: 66 before, 27 now.

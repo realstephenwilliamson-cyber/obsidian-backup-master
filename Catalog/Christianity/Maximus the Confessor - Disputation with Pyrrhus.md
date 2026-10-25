@@ -19,7 +19,7 @@ language:
 pages: 74
 text: searchable
 status: review
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Maximus the Confessor - Disputation with Pyrrhus (Farrell).pdf]]"
   - "[[Library/Christianity/Disputation with Pyrrhus (Farrell)/Disputation with Pyrrhus (Farrell)]]"

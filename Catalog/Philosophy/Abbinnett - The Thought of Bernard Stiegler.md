@@ -18,7 +18,7 @@ language:
 pages: 106
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Abbinnett - The Thought of Bernard Stiegler (2017).pdf]]"
   - "[[Library/Philosophy/The Thought of Bernard Stiegler (Abbinnett)/The Thought of Bernard Stiegler (Abbinnett)]]"

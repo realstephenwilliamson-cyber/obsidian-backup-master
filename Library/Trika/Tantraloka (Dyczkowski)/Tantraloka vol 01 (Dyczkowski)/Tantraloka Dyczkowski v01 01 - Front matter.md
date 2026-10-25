@@ -292,7 +292,7 @@ Svacchandatantra SvTu
 
 Svacchandatantroddyota SvāSūSam 
 
-Svāyambhuvasūtrasarnṁgraha SUNY 
+Svāyambhuvasūtrasaṁgraha SUNY 
 
 State University of New York Press SYM 
 

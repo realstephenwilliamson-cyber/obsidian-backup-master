@@ -17,8 +17,7 @@ language:
   - English
 pages: 283
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Zeiler (ed.) - Digital Hinduism (2020).pdf]]"
   - "[[Library/Hinduism/Digital Hinduism (Zeiler)/Digital Hinduism (Zeiler)]]"

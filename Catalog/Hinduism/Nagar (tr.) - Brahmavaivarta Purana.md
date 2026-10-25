@@ -19,8 +19,7 @@ language:
   - Sanskrit
 pages: 1713
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Brahma Vaivarta Purana (All Four Kandas) - English Translation.pdf]]"
 aliases: []

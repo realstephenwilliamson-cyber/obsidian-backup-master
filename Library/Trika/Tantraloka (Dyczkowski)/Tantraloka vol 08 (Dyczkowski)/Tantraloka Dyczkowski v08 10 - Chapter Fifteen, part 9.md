@@ -30,7 +30,7 @@ The Pledges according to the Gamatantra"
 ॥.. 41111 11111111 1 nirācārāḥ sarvabhakṣyā dharmādharmavivarjitāḥ | 556 Il svacchandagāḥ palāśinyo \[illegible\] devatā iva |
 veśyāḥ pūjyās tadgṛharhi ca prayāgo ‘tra yajet kramam || 557 ॥
 strīṣu tan nācaret kiñcid yena tābhyo jugupsate |
-ato na nagnās tāh paśyen na cāpi prakaṭastanīḥ ॥ 558 ॥
+ato na nagnās tāḥ paśyen na cāpi prakaṭastanīḥ ॥ 558 ॥
 vṛddhāyāḥ saristhitāyā vā na jugupseta mudrikām |
 vaikṛtyaṁ tatra saurūpyaṁ melakaṁ na prakāśayet ॥ 559 ॥ 
 
@@ -146,7 +146,7 @@ The teacher’s name should (always) be uttered with a preceding (honorific) ‘
 nityād viśeṣapūjāri ca kuryān naimittike vidhau |
 tathāpi madhye varṣasya tathāpi hi pavitrake ॥ 568 ॥ 
 
-He should perform the regular[^866] (daily rite) and the special rite of adoration \[illegible\] for (each) prescribed (special) occasion, so too also in the middle of the year, and indeed also[^867] (in the course of the rite of the offering of) the sacred thread. (568) (565cd-566ab) 
+He should perform the regular[^866] (daily rite) and the special rite of adoration (pūjā) for (each) prescribed (special) occasion, so too also in the middle of the year, and indeed also[^867] (in the course of the rite of the offering of) the sacred thread. (568) (565cd-566ab) 
 
 #### Viveka on 15.565–566
 
@@ -236,7 +236,7 @@ pramādāc ca kṛte sakhye goṣthyāṁ cakram tu pūjayet ॥ 575 ॥
 
 876\. 15/575cd is derived from JY 4/20/98cd (MS K 14la Kh 1219. MS G 173a), which reads: vedoktań vaiṣnavoktaṁ vā udakaṁ varjayet sadā I|
 
-877\. \[illegible\] TĀ 15/576abc (572abc) is JY 4/20/140abc (MS K: fl 142b, Kh: 123a G: 175b). The text continues: akulīnaiś ca saṁparkāt tatkulāt patanarn bhavet ॥ 140 ॥ ekapātre kulāmnāye \[illegible\] nānyat kadācana | yadicched ātmanaḥ śreyo \[k,kh: śreyeḥ\] siddhir vā vīṛravandite ॥ 141 ॥ Jīvitaṁ sucira vātha yoginyo melakaś ca vā | atītānāgataḥ yogar bhāvanā bhāvanāśanī | 142 ॥ taiḥ sārddhaṁ bhojanaṁ varjyari pānagoṣthī ca yatnataḥ | teṣu sabhāṣanaṁ varjyari saṁsparsaṁ kirn punaḥ priye I| 143 ॥ adīkṣitajanasparśāt snānam āgneyam ācaret | ‘By contact with those who do not belong to (the same) Kula, there is a fall from that Kula. In a Kula tradition that is exclusive (ekapātra), one should never do otherwise, if one wishes the best for oneself or accomplishment, O lady praised by (Kaula) heroes, (if one wishes) a long life or meetings with Yoginīs, Yoga that has passed or not yet come, and the contemplation (bhāvanā) that destroys phenomenal existence. One must strenuously avoid drinking together with them. Conversation with them must be avoided, what to say, O beloved, of touching! The touch of one who is not initiated requires that one must bath in fire.”
+877\. \[illegible\] TĀ 15/576abc (572abc) is JY 4/20/140abc (MS K: fl 142b, Kh: 123a G: 175b). The text continues: akulīnaiś ca saṁparkāt tatkulāt patanaṁ bhavet ॥ 140 ॥ ekapātre kulāmnāye \[illegible\] nānyat kadācana | yadicched ātmanaḥ śreyo \[k,kh: śreyeḥ\] siddhir vā vīṛravandite ॥ 141 ॥ Jīvitaṁ sucira vātha yoginyo melakaś ca vā | atītānāgataḥ yogar bhāvanā bhāvanāśanī | 142 ॥ taiḥ sārddhaṁ bhojanaṁ varjyari pānagoṣthī ca yatnataḥ | teṣu sabhāṣanaṁ varjyari saṁsparsaṁ kiṁ punaḥ priye I| 143 ॥ adīkṣitajanasparśāt snānam āgneyam ācaret | ‘By contact with those who do not belong to (the same) Kula, there is a fall from that Kula. In a Kula tradition that is exclusive (ekapātra), one should never do otherwise, if one wishes the best for oneself or accomplishment, O lady praised by (Kaula) heroes, (if one wishes) a long life or meetings with Yoginīs, Yoga that has passed or not yet come, and the contemplation (bhāvanā) that destroys phenomenal existence. One must strenuously avoid drinking together with them. Conversation with them must be avoided, what to say, O beloved, of touching! The touch of one who is not initiated requires that one must bath in fire.”
 
 
 *[p. 335]* ^pg353
@@ -335,7 +335,7 @@ One should keep the company (āsīta) of those who have true knowledge, and exer
 मन्रतनैर्न वादं च कुयीन्नो भक्षयेद्रिषम् |
 
 sāstrapūjājapadhyānavivekatadupakriyāḥ |
-akurvan niṣphalār naiva ceṣtṭeta trividhām kriyām || 582 Il mantratantrair na vādaṁ ca kuryān no bhakṣayed viṣam | 
+akurvan niṣphalār naiva ceṣtṭeta trividhām kriyām || 582 || mantratantrair na vādaṁ ca kuryān no bhakṣayed viṣam | 
 
 Observing the teacher’s command, he should abandon everything, and be one with Mantra (mantramaya) (by being fully concentrated on it). He should not dedicate himself fruitlessly to the three types of rites (obligatory, occasional and optional) without (worshipping) the scriptures, worshipping (the deities), repeating Mantra, meditation, discrimination, and (whatever) aids them. One should not kill (others)? with Mantras and magical rites (mantratantra), and not feed (others) poison. (581cd-583ab) (579-580) 
 
@@ -444,7 +444,7 @@ mukhyabuddhyā na saipaśyed vaiṣnavādigatān gurūn ॥ 590 ॥
 कौलदीकष कौलशाखरं तत्वज्ञानं प्रकाशितम् ।
 येनासौ गुररित्ुक्तो ह्यन्ये वै नामधारिणः ।। ५९२ ॥
 
-tathā ca śrīmadūrmyākhye guror uktarn viśeṣanam |
+tathā ca śrīmadūrmyākhye guror uktaṁ viśeṣanam |
 gurvājñā prāṇasaridehe nopekṣyā no vikalpyate ॥ 591 ॥
 kauladīkṣā kaulaśāstrari tattvajñānamṁi prakāśitam |
 yenāsau gurur ity ukto hy anye vai nāmadhārinaḥ || 592 ॥ 
@@ -460,10 +460,10 @@ The Pledges According to the Ānandaśāstra
 तिष्ठेदव्यक्तलिद्गश्च न टिद्गं धारयेत् क्वचित् न लि्खिभिः समं कैशचित्कुयीदाचारमेलनम् ॥ ५९४ ॥
 केवलं लिद्धिनः पाल्या न बीभत्स्या विरूपकाः ।
 
-śrīmadānandaśāstre ca tathaivoktarn viśeṣaṇam |
+śrīmadānandaśāstre ca tathaivoktaṁ viśeṣaṇam |
 yasmād dīkṣā mantraśāstraṁ tattvajñānari sa vai guruḥ || 593 ॥
 tiṣthed avyaktaliṁgaś ca na \[illegible\] dhārayet kvacit |
-na liṅgibhiḥ samarn kaiścit kuryād ācāramelanam || 594 ||
+na liṅgibhiḥ samaṁ kaiścit kuryād ācāramelanam || 594 ||
 kevalari liṅginaḥ pālyā na bībhatsyā virūpakāḥ | 
 
 The distinguishing characteristic (of a teacher) is also explained in the same way in the venerable Ānandaśāstra, (where we read that) a (true) teacher is one from whom (one obtains true) initiation, the Mantra scriptures, and knowledge of reality.” 
@@ -509,7 +509,7 @@ It is said in the venerable Rātrikula: ‘(The chance of achieving) liberation 
 
 Kularatnamālā न लिखेन्मन्रह्दयं श्रीमन्मालोदितं किल ।। ५९६ ॥
 तदङ्गादुद्धरेनमन््रं न तु ठेखे विठेखयेत् ।
-na likhen mantrahṛdayari śrīmanmāloditari kila ॥ 596 Il tadaṅgād uddharen mantram na tu lekhe vilekhayet | 
+na likhen mantrahṛdayari śrīmanmāloditari kila ॥ 596 ॥ tadaṅgād uddharen mantram na tu lekhe vilekhayet | 
 
 One should not write the (seed syllable) taught in the venerable Mālā (i.e., Kularatnamālā), which is the Heart of (all) Mantras.” (It is said there that) ‘the Mantra should be extracted from its body.” It should not be written in a manuscript (lekha).’ (596cd-597ab) (594) 
 
@@ -587,7 +587,7 @@ He (goes on to) amplifies this (statement).
 या काचित्कल्पना । संवित्तत्वस्याखण्डितात्मनः सङ्कोचकारिणी सर्वः स ग्रस्तां परित्यजेत् ॥ ६०३ ॥
 
 saṁvitsvabhāve no jātiprabhṛtiḥ kāpi kalpanā |
-rūpaṁ sā tv asvarūpeṇa tad \[illegible\] chādayaty alam ॥ 602 |I yā kācit kalpanā saṁvittattvasyākhanditātmanaḥ |
+rūpaṁ sā tv asvarūpeṇa tad \[illegible\] chādayaty alam ॥ 602 ॥ yā kācit kalpanā saṁvittattvasyākhanditātmanaḥ |
 saṁkocakāriṇī sarvaḥ sa grahas tām parityajet ॥ 603 ॥ 
 
 No notion (kalpanā) of caste and the like apply to the essential nature of consciousness. As it is not the true nature of (its) nature,” it is capable of obscuring that nature. Any (discursive, dualistic) notion of the (true) nature of consciousness, which (is one and) undivided, contracts it. All that is erroneous (graha), (and so any such notion) should be abandoned. (602-603) (599cd-601ab) 
@@ -663,7 +663,7 @@ Conclusion’?
 vidhim enar sukhar jñātvā vidhijālari parityajet ॥ 608 ॥
 samādhir niścayaṁṁ muktvā na cānyenopalabhyate |
 iti matvā vidhānajñaḥ sahńmohaṁ parivarjayet ॥ 609 ॥
-mantrasya hṛdayarn muktvā na cānyat paramai kvacit |
+mantrasya hṛdayaṁ muktvā na cānyat paramai kvacit |
 iti matvā vidhānajño mantrajālari parityajet ॥ 610 ॥ 
 
 Having understood this injunction with ease \[illegible\] one should abandon the net of injunctions (that merely bind and confuse). (Perfect) contemplative absorption (samādhi) cannot be attained in (any) other (way) except (by the complete) certainty (niścaya) (of realization). Once understood this, one who (truly) knows (the nature of) what is prescribed (vidhāna) (in this higher sense) should avoid (all) confusion (samoha). Apart from the heart of Mantra (SAUH), there is nothing else superior (to this) anywhere. Once understood this, one who (truly) knows (the nature of) what is prescribed should abandon the net of Mantra. (608cd-610) (606- 608ab) 
@@ -733,7 +733,7 @@ Once the teacher has told (the neophant) the rules in this way and has worshippe
 yadi putrakadīkṣāsya na kāryā samanantaram |
 tadābhiṣiñcet sāstreṇa śivakumbhena taṁ śiśum ॥ 614 I|
 ātmānari ca tato yasmāj jalamūrtir maheśvaraḥ |
-mantrayuṁn akhilāpyāyī kāryaṁ tad abhiṣecanam Il 615 ॥ 
+mantrayuṁn akhilāpyāyī kāryaṁ tad abhiṣecanam ॥ 615 ॥ 
 
 After that, if the disciple is not to be subsequently initiated (further into the status) of a Spiritual Son (putraka), (the teacher) should then sprinkle (him with water) taken from Śiva’s jar (consecrated) with the Weapon, and then (sprinkle) himself (with it). The reason why this aspersion (abhiṣecana) should be done is that the Lord in His sacred body of water (jalamūrti) and united with the Mantra, nourishes all things. (614- 615) (611cd-613) 
 
@@ -746,7 +746,7 @@ He concludes the teaching (artha) of (this) chapter with the first half (of a ve
 ### Dyczkowski's verse 614ab
 
 इति समयदीक्षणमिटं प्रकाशितं विस्तराच्च संक्षेपात् ।
-iti samayadīkṣaṇnam \[illegible\] prakāśitari vistarāc ca samikṣepāt | 
+iti samayadīkṣaṇnam idaṁ prakāśitari vistarāc ca samikṣepāt | 
 
 Such is the Initiation of the Rule (samayadīkṣā), that has been explained both at length and in brief. (616ab) (614ab) 
 
@@ -766,7 +766,7 @@ Here ends the fifteenth chapter, called ‘an exposition of the common initiatio
 
 Appendix A 
 
-The Deposition of the Mātṛkās - Mātrkānyāsa - according to the Mālinīvijayottara”” 
+The Deposition of the Mātṛkās - Mātṛkānyāsa - according to the Mālinīvijayottara”” 
 
 The Basic Common Procedure 
 
@@ -776,17 +776,17 @@ The Deposition onto the Hands - karanyāsa
 
 Touch the thumb with the index finger, saying: 
 
-aṁ karn khaṁ gaṁ gharn ñan \[illegible\] aṅguṣthābhyām namaḥ 
+aṁ kaṁ khaṁ gaṁ ghaṁ ñan \[illegible\] aṅguṣthābhyām namaḥ 
 
 Touch the index finger with the thumb, saying: 
 
 i 
 
-carn chaṁ jarn jhaṁ ñaṁ Tṛh tarjanībhyār svāhā 
+caṁ chaṁ jaṁ jhaṁ ñaṁ Tṛh tarjanībhyār svāhā 
 
 Touch the middle finger with thumb, saying: 
 
-uṁ tarn than darn dhan narn \[illegible\] madhyamābhyāṁ vaṣaṭt 
+uṁ tarn than darn dhan naṁ \[illegible\] madhyamābhyāṁ vaṣaṭt 
 
 Touch the ring finger with the thumb, saying: 
 
@@ -798,7 +798,7 @@ or paṁ phaṁ barn bhan maṁ \[illegible\] kaniṣthābhyāṁ vauṣaṭt
 
 Rub the backs of the hands along the palms: 
 
-aṁ yari raṁ laṁ vaṁ Śan \[illegible\] sarn larn \[illegible\] ah karatalapṛṣthābhyām astrāya phat 
+aṁ yari raṁ laṁ vaṁ Śan \[illegible\] saṁ laṁ \[illegible\] ah karatalapṛṣthābhyām astrāya phat 
 
 925?\. See TĀ 15/117cd-120
 
@@ -821,13 +821,13 @@ The Deposition on the Limbs - aṅganyāsa
 
 Touch the chest with the index finger, the middle finger and the ring finger of the right hand joined together, saying: 
 
-aṁ karn khan ghaṁ ñaṁ ām hṛdayāya namaḥ. 
+aṁ kaṁ khan ghaṁ ñaṁ ām hṛdayāya namaḥ. 
 
 Touch the head with the index finger and the middle finger of the right hand joined together, saying: 
 
-न Touch the tuft of hair on the head with thumb of the right hand, saying: uṁ taṁ than darn dhamh naṁ ūrn śikhāyai vaṣaṭ. 
+न Touch the tuft of hair on the head with thumb of the right hand, saying: uṁ taṁ than darn dhamh naṁ ūṁ śikhāyai vaṣaṭ. 
 
-Touch the shoulder joints with all the fingers joined together, saying: eṁ taṁ than dath dhaḥ narn aim kavacāya hūm. 
+Touch the shoulder joints with all the fingers joined together, saying: eṁ taṁ than dath dhaḥ naṁ aim kavacāya hūm. 
 
 Touch the three eyes with the forefinger, the middle finger and the ring finger joined together, saying: 
 
@@ -835,7 +835,7 @@ oṁ paṁ phaṁ barn bhan maṁ auṁ netratrayāya vauṣaṭ.
 
 Touch successively the palm and the back of the left hand with the right forefinger and the middle finger joined together; then clap the palm with these two fingers. 
 
-ar yar raṁ laṁ vaṁ śan ṣan harn larn 54081 ah karatalapṛṣthābhyām astrāya phat 
+ar yar raṁ laṁ vaṁ śan ṣan haṁ laṁ 54081 ah karatalapṛṣthābhyām astrāya phat 
 
 1111 1 (+ om tace tham dam dham new im hrásy bya namaḥ रव 11111111 = | सदि न वाः \[दा न" ~¬ a 
 
@@ -966,9 +966,9 @@ Mātṛkānyāsa
 
 2\. oṁ \[illegible\] anantāyai namaḥ 2. Mouth 
 
-3\. orn iù sūkṣmāyai namaḥ 3. Right eye 
+3\. oṁ iù sūkṣmāyai namaḥ 3. Right eye 
 
-4\. orn îr trimūrtyai namaḥ 4. Left eye 
+4\. oṁ îr trimūrtyai namaḥ 4. Left eye 
 
 5\. oṁ uh amarīśāyai namaḥ 5. Right ear 
 
@@ -980,19 +980,19 @@ Mātṛkānyāsa
 
 9\. oṁ liù sthānavyai namaḥ. 
 
-9\. Right cheek 10. oṁ Lih harāyai namaḥ 10. Left cheek 11. oṁ eṁ jhanthīśāyai namaḥ 11. Lower teeth 12. oṁ aih bhauktikāyai namaḥ 12. Upper teeth 13. oṁ oṁ sadyojātāyai namaḥ 13. Lower lip 14. oṁ auh anugrahāyai namaḥ 14. Upper lip 15. orn aṁ krūrāyai namaḥ 15. Topknot 16. \[illegible\] ah māhāsenāyai namaḥ 16. Tongue 17. orn karn krodhāyai namaḥ 17. Right shoulder 18. oṁ khaṁ candīśāyai namaḥ 18. Right arm 19. \[illegible\] gaṁ pracaùdāyai namaḥ 19. Right elbow 20. orn ghaṁ śivāyai namaḥ 20. Right wrist 21. Fingers of the right hand 21. orn ṁar ekarudrāyai namaḥ 22. oṁ cah kūrmāyai namaḥ 22. Left shoulder 23. orn chaṁ ekanetrāyai namaḥ 23. Left arm 24. oṁ jaù caturānanāyai namaḥ 24. Left elbow 25. orn jhaṁ ajitāyai namaḥ 25. Left wrist 26. oṁ ñam \[illegible\] namaḥ 26. Fingers of the left hand 27. oṁ tarn someśvarāyai namaḥ 27. Right buttock 
+9\. Right cheek 10. oṁ Lih harāyai namaḥ 10. Left cheek 11. oṁ eṁ jhanthīśāyai namaḥ 11. Lower teeth 12. oṁ aih bhauktikāyai namaḥ 12. Upper teeth 13. oṁ oṁ sadyojātāyai namaḥ 13. Lower lip 14. oṁ auh anugrahāyai namaḥ 14. Upper lip 15. oṁ aṁ krūrāyai namaḥ 15. Topknot 16. \[illegible\] ah māhāsenāyai namaḥ 16. Tongue 17. oṁ kaṁ krodhāyai namaḥ 17. Right shoulder 18. oṁ khaṁ candīśāyai namaḥ 18. Right arm 19. \[illegible\] gaṁ pracaùdāyai namaḥ 19. Right elbow 20. oṁ ghaṁ śivāyai namaḥ 20. Right wrist 21. Fingers of the right hand 21. oṁ ṁar ekarudrāyai namaḥ 22. oṁ caḥ kūrmāyai namaḥ 22. Left shoulder 23. oṁ chaṁ ekanetrāyai namaḥ 23. Left arm 24. oṁ jaù caturānanāyai namaḥ 24. Left elbow 25. oṁ jhaṁ ajitāyai namaḥ 25. Left wrist 26. oṁ ñam \[illegible\] namaḥ 26. Fingers of the left hand 27. oṁ tarn someśvarāyai namaḥ 27. Right buttock 
 
 *[p. 355]* ^pg373
 
 28\. or thain lāṅguliùyai namaḥ 29. ońn darn dārukāyai namaḥ 
 
-31\. \[illegible\] nah umākāntāyai namaḥ 32. oṁ tarn niṣādhinyi namaḥ 33. orn thain dindināyai namaḥ 34. où dan dhātriùyai namaḥ 35. on dhan mīnāyai namaḥ 36. 07 naṁ meṣāyai namaḥ 37. où paṁ lohitāyai namaḥ 38. orn phan Sikhivāhinyai namaḥ 39. où barn chagalandāyai namaḥ 40. oṁ bhath dvirandāyai namaḥ 41. où maṁ mahākālāyai namaḥ 42. oṁ yarn \[illegible\] namaḥ 43. orńù rah bhujaṅgamāyai namaḥ 44. oṁ larn pinākinyai namaḥ 45. oṁ vaṁ khadginyai namaḥ 46. oṁ Śaṁ bakīśāyai namaḥ 
+31\. \[illegible\] nah umākāntāyai namaḥ 32. oṁ tarn niṣādhinyi namaḥ 33. oṁ thain dindināyai namaḥ 34. où dan dhātriùyai namaḥ 35. on dhan mīnāyai namaḥ 36. 07 naṁ meṣāyai namaḥ 37. où paṁ lohitāyai namaḥ 38. oṁ phan Sikhivāhinyai namaḥ 39. où barn chagalandāyai namaḥ 40. oṁ bhath dvirandāyai namaḥ 41. où maṁ mahākālāyai namaḥ 42. oṁ yarn \[illegible\] namaḥ 43. orńù rah bhujaṅgamāyai namaḥ 44. oṁ laṁ pinākinyai namaḥ 45. oṁ vaṁ khadginyai namaḥ 46. oṁ Śaṁ bakīśāyai namaḥ 
 
 47\. où ṣaṁ Śvetāyai namaḥ 
 
-48\. orn sarn bhṛgavyai namaḥ 
+48\. oṁ saṁ bhṛgavyai namaḥ 
 
-49\. orn harn lakulīśāyai namaḥ 
+49\. oṁ haṁ lakulīśāyai namaḥ 
 
 50\. oń \[illegible\] saṁvartakāyai namaḥ 28. Right thigh 29. Right knee 30. Right shank 31. Toes of right foot 32. Left buttock 33. Left thigh 34. Left foot 35. Left toes 36. Left toenails 37. Right diaphragm 38. Left diaphragm 39. Spine 40. Stomach 41. Heart 42. Skin (Chest) 43. Blood (right shoulder) 44. Flesh (neck) 45. Sinews (left Shoulder) 46. Bones (From the chest to the right hand) 47. Fat (From the chest to the left hand) 48. Semen (From the chest to the left foot) 49. Breath (From the chest to the right foot) 50. Cavity of Brahmā 30. 0 dhamh ardhanārīśvarāyai namaḥ 
 
@@ -1048,7 +1048,7 @@ This mixture (of seeds) with the matrices has already been explained. Thus, else
 
 As this is so and all things are in every (single) thing, (we will now examine) in due order, (the nature of the first sixteen phonemes of the Mālinī alphabet, namely) N r R | 1. TH C DH Ī N U Ü B K KH G, which constitute the Śiva principle, with respect to that already expounded concerning supreme consciousness as it is presented here (in this work). (PTv p. 152) 
 
-(1) (The sense of) hearing (N), which is a matrix and consists of the state of (resonant) Sound \[illegible\] falls into the nourishing ground of the four seeds (2-5) (r R \] Ḷ) that nourish nectar and having (thereby) attained an intensified (and energized) state (brrihitatva). 
+(1) (The sense of) hearing (N), which is a matrix and consists of the state of (resonant) Sound (nāda), falls into the nourishing ground of the four seeds (2-5) (r R \] Ḷ) that nourish nectar and having (thereby) attained an intensified (and energized) state (brrihitatva). 
 
 (6) It immediately assumes the state of the organ of taste (TH) (rasanā), which is the essence of the flavours and an organ of sense. 
 
@@ -1091,7 +1091,7 @@ Then, having progressed by means of the seed of Īśvara (Ï) and taken the supp
 
 (27) JH, which is touch and time, is Nature (prakṛti). 
 
-(28) Ñ, which is sound and the individual soul, is the intellect \[illegible\] (29) J, which is form and Necessity, is the ego. 
+(28) Ñ, which is sound and the individual soul, is the intellect (dhī). (29) J, which is form and Necessity, is the ego. 
 
 (30) R, which is smell and Necessity, is mind (manas). 
 
@@ -1353,14 +1353,14 @@ Mālinīnyāsa
 
 7\. où sauḥ camh priyadarśanyai namaḥ 8. oń sauḥ dhar guhyaśaktyai namaḥ 
 
-14\. oṁ sauḥ karn ghoraghoṣāyai namaḥ 
+14\. oṁ sauḥ kaṁ ghoraghoṣāyai namaḥ 
 
 936?\. The letter SA is the jīva conjoined with visarga. After that it is said (comes) the vital sa jīvo visargayuk tatparaḥ kathitaḥ prāṇaḥ | MVT 3/39d-40a
 
 
 *[p. 364]* ^pg382
 
-15\. orn sauḥ khar Śivirāyai namaḥ 16. où sauḥ gaṁ māyādevyai namaḥ 17. oṁ sauḥ ghan vāgīśvaryai namaḥ 18. oṁ sauḥ “naṁ nārāyanyai namaḥ 19. oṁ sauḥ ih mohanyai namaḥ 20. oṁ sauḥ aṁ prajñāyai namaḥ 21. oṁ sauḥ vaṁ śikhivāhinyai namaḥ 22. or sauḥ bhar lāmāyai namaḥ 23. où sauḥ yaṁ vināyakyai namaḥ 24. on sauḥ darn pūrnimāyai namaḥ 25. oh sauḥ dhamh jhaṅkvryai namaḥ 26. où sauḥ than kundanāyai namaḥ 27. on sauḥ jha kāpālinyai namaḥ 28. oṁ sauḥ ñaṁ dīpanyai namaḥ 29. oṁ sauḥ jarn jayantyai namaḥ 30. oṁ sauḥ rah bhīṣṣanyai namaḥ 31. orn sauḥ fan vāyuvegāyai namaḥ 32. oń sauḥ paṁ pāvanyai namaḥ 33. orn sauḥ chaṁ lambikāyai namaḥ 34. oṁ sauḥ lahn sahhārikāyai namaḥ 35. orn sauḥ ām chagalyai namaḥ 36. \[illegible\] sauḥ saḥ pūtanāyai namaḥ 37. oṁ sauḥ ah moṭaryai namaḥ 38. oṁ sauḥ harn paramātmāyai namaḥ 39. oṁ sauḥ ṣan ambikāyai namaḥ 40. oṁ sauḥ kga icchaśaktyai namaḥ 41. oṁ sauḥ maṁ mahākālyai namaḥ 42. oṁ sauḥ \[illegible\] kusumāyudhāyai namaḥ 43. orn sauḥ ań śukrāyai namaḥ 44. oṁ sauḥ taṁ tārāyai namaḥ 45. orn sauḥ eṁ jñānāyai namaḥ 46. oṁ sauḥ aih kriyāyai namaḥ 47. 0 sauḥ om gāyatryai namaḥ 48. oṁ sauḥ auṁ sāvitryai namaḥ 49. oṁ sauḥ dah dahanyai namaḥ 50. oṁ sauḥ phaṁ phetkārikāyai namaḥ 15. Teeth: Lower left 16. Teeth: Upper right 17. Teeth: Upper left 18. Front teeth 19. Tongue 20. Speech 21. Throat 22. Right shoulder 23. Left shoulder 24. Right Arm 25. Left Arm 26. Two hands 27. Nails right hand 28. Nails left hand 29. Trident: Bottom 30. Trident: Upper 31. Skull 32. Heart 33. Right breast 34. Left breast 35. Milk 36. Jīva 37. Jīva 38. Breath 39. Belly 40. Navel 41. Buttocks 42. Genitals 43. Sexual fluid 44. Thighs 45. Right knee 46. Left knee 47. Right shank 48. Left shank 49. Right foot 50. Left foot 
+15\. oṁ sauḥ khar Śivirāyai namaḥ 16. où sauḥ gaṁ māyādevyai namaḥ 17. oṁ sauḥ ghan vāgīśvaryai namaḥ 18. oṁ sauḥ “naṁ nārāyanyai namaḥ 19. oṁ sauḥ iṁ mohanyai namaḥ 20. oṁ sauḥ aṁ prajñāyai namaḥ 21. oṁ sauḥ vaṁ śikhivāhinyai namaḥ 22. or sauḥ bhar lāmāyai namaḥ 23. où sauḥ yaṁ vināyakyai namaḥ 24. on sauḥ darn pūrnimāyai namaḥ 25. oh sauḥ dhamh jhaṅkvryai namaḥ 26. où sauḥ than kundanāyai namaḥ 27. on sauḥ jha kāpālinyai namaḥ 28. oṁ sauḥ ñaṁ dīpanyai namaḥ 29. oṁ sauḥ jaṁ jayantyai namaḥ 30. oṁ sauḥ rah bhīṣṣanyai namaḥ 31. oṁ sauḥ fan vāyuvegāyai namaḥ 32. oń sauḥ paṁ pāvanyai namaḥ 33. oṁ sauḥ chaṁ lambikāyai namaḥ 34. oṁ sauḥ lahn sahhārikāyai namaḥ 35. oṁ sauḥ ām chagalyai namaḥ 36. \[illegible\] sauḥ saḥ pūtanāyai namaḥ 37. oṁ sauḥ ah moṭaryai namaḥ 38. oṁ sauḥ haṁ paramātmāyai namaḥ 39. oṁ sauḥ ṣan ambikāyai namaḥ 40. oṁ sauḥ kga icchaśaktyai namaḥ 41. oṁ sauḥ maṁ mahākālyai namaḥ 42. oṁ sauḥ \[illegible\] kusumāyudhāyai namaḥ 43. oṁ sauḥ ań śukrāyai namaḥ 44. oṁ sauḥ taṁ tārāyai namaḥ 45. oṁ sauḥ eṁ jñānāyai namaḥ 46. oṁ sauḥ aih kriyāyai namaḥ 47. 0 sauḥ om gāyatryai namaḥ 48. oṁ sauḥ auṁ sāvitryai namaḥ 49. oṁ sauḥ dah dahanyai namaḥ 50. oṁ sauḥ phaṁ phetkārikāyai namaḥ 15. Teeth: Lower left 16. Teeth: Upper right 17. Teeth: Upper left 18. Front teeth 19. Tongue 20. Speech 21. Throat 22. Right shoulder 23. Left shoulder 24. Right Arm 25. Left Arm 26. Two hands 27. Nails right hand 28. Nails left hand 29. Trident: Bottom 30. Trident: Upper 31. Skull 32. Heart 33. Right breast 34. Left breast 35. Milk 36. Jīva 37. Jīva 38. Breath 39. Belly 40. Navel 41. Buttocks 42. Genitals 43. Sexual fluid 44. Thighs 45. Right knee 46. Left knee 47. Right shank 48. Left shank 49. Right foot 50. Left foot 
 
 *[p. 365]* ^pg383
 
@@ -1593,7 +1593,7 @@ Grāsinī
 
 Head 3\] Nivṛtti Head-Grāsinī Nivṛtti band \[>\] Nivṛtti 
 
-Head- | \[illegible\] | Pratiṣthā | Head-Nivrtti | Pratiṣthā band band |è Pratiṣthikā 
+Head- | \[illegible\] | Pratiṣthā | Head-Nivṛtti | Pratiṣthā band band |è Pratiṣthikā 
 
 Head- | । |
 Vidyā Head- | Pratiṣthi | Vidyāśak band band kā ti EE Vidyā 

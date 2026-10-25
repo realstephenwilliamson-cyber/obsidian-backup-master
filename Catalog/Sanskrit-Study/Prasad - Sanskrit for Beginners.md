@@ -17,8 +17,7 @@ language:
   - English
 pages: 456
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[guide.pdf]]"
   - "[[Library/Sanskrit/Sanskrit for Beginners (Prasad)/Sanskrit for Beginners (Prasad)]]"

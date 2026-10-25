@@ -55,9 +55,9 @@ End of commentary on Verse 1.
 Thus,
 
 "Homage to Sambhu who is the one cause of samsãra, who alone makes saṇpsāra cease, who is the very form of samsāãra and who is beyond it." (U. Sto. 1:8)
-[^67]: See footnote
+[^67]: See footnote 62.
 
-62.
+
 [^71]: In the preceding passage Jayaratha has taken exception to the interpretation of the main verse as symbolie of the Śrīcakra. . He believes that such an interpretation is far-fetched. Not only is the syllable "ga" meaninglessly explained by the other commentator, but the whole discussion ts arbitrary without there being any real correspondence between the planets, constellations ete. and the rīcakra. Jayaratha simply understands the verse to mean that the Goddess ts the: embodiment of all the things mentioned in Verse 1 including the "lords " (a, ka, ca, fa, ta, pa, ŝa, ya) of the eight celasses of letters who are also the planets.
 
 [^68]: Literally: "signified, or indicated"; Skt.: "vāeakā".
@@ -227,7 +227,7 @@ For this reason, the siddhis which are in the pingas are also
 
 *[p. 174]* ^pg170
 
-said (to be found) in yonis."[^105] <sup>105</sup>
+said (to be found) in yonis."[^105]
 
 The reasoning given for the above-mentioned ten divisions etc. and for the conjecture on the "yonitā" of the Goddess because of her essence as the three pingas is not coherent. This is all rubbish and whatever are these eminent people talking about?
 
@@ -275,7 +275,7 @@ A former teacher has also said:
 
 "With the departure of Speech (from the body, man) is seen to be as unconscious as a block of wood.
 
-She it is who is the consciousness of all beings involved in the round of rebirths and She exists (both} inwardly and outwardly."[^111] <sup>111</sup>\` (Va. Pa. 1:128)
+She it is who is the consciousness of all beings involved in the round of rebirths and She exists (both} inwardly and outwardly."[^111]\` (Va. Pa. 1:128)
 
 And,
 
@@ -412,7 +412,7 @@ By (the phrase) "the elder limb" is meant the head implying its three parts of c
 
 As the commentator says:
 
-“The eldest Timb is the crown-lock, forehead and spot between the eyes. The throat is at the base of the arms. The heart is the heart; what is behind it is said to be the navel. The hip is the genital area and, in the order of nyãsa,[^137] <sup>137</sup> the foot is that which is low down."[^138]
+“The eldest Timb is the crown-lock, forehead and spot between the eyes. The throat is at the base of the arms. The heart is the heart; what is behind it is said to be the navel. The hip is the genital area and, in the order of nyãsa,[^137] the foot is that which is low down."[^138]
 
 End of commentary on Verse 8.
 [^137]: "Nyāsa” is a Tantric ritual in which mantras are placed on vartous parts of the body.

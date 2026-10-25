@@ -4,7 +4,7 @@ book: "[[The Radha Tantra (Broo)]]"
 order: 3
 page_range: "42–43"
 ---
-[p. 42]
+[p. 42] ^pg42
 
 # 2 Conventions in the critical text and the translation
 

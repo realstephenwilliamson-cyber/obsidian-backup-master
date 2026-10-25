@@ -18,8 +18,7 @@ language:
   - English
 pages: 386
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Bettina Baumer - Mysticism in Shaivism and Christianity-DK Print World (1997).pdf]]"
   - "[[Library/Christianity/Mysticism in Shaivism and Christianity (Baumer)/Mysticism in Shaivism and Christianity (Baumer)]]"

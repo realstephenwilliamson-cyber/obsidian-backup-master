@@ -55,7 +55,7 @@ bound by the Karma (of previous lives), so long as the body persists.’ (232cd-
 
 #### Viveka on 13.232–233
 
-Surely (one may ask), there are three (kinds of) Karma that activate the body, namely, (those that determine) the type (of birth) \[illegible\] and lifespan and the one that gives worldly experience. So how is it that the (word) ‘Karma’ is singular? Moreover, how can that word (Karma) be appropriate, if one cannot perceive the entity to which the word refers and is to be reflected on? Taking these two doubts together, (Abhinava) says (by way of explanation): 
+Surely (one may ask), there are three (kinds of) Karma that activate the body, namely, (those that determine) the type (of birth) (jāti) and lifespan and the one that gives worldly experience. So how is it that the (word) ‘Karma’ is singular? Moreover, how can that word (Karma) be appropriate, if one cannot perceive the entity to which the word refers and is to be reflected on? Taking these two doubts together, (Abhinava) says (by way of explanation): 
 
 ### TĀ 13.233–234
 
@@ -69,7 +69,7 @@ The singular (of the word Karma) implies that (the three types of Karma relating
 
 #### Viveka on 13.233–234
 
-‘The singular’ is of the word Karma. Thus (the use of the word ‘indeed’) ‘is equivalent to ‘because’ and is correlative to ‘therefore”. It is correlative. A relationship of this sort is one between a logical cause (hetu) and the possessor (of that cause).[^523] It is such ‘indeed’. This is the meaning of the word ‘indeed’, and by (the use of) that word in that way, (the relationship between the embodied condition and Karma) is reflected upon. This is the meaning. Karma, accrued in a previous life, is of three kinds, because (it determines) the type (of birth) \[illegible\] and lifespan, and gives worldly experience. (These three kinds) are said to be fused together (to form a single unit). Thus, it is because of this that the body is presided over by Māyā. So (long as) the body persists, even realised souls are bound by it. (This must be so,) because they are seen to be as if bound, because (they) experience pleasure and pain. This is the meaning of the verse (quoted from) the venerable Gamatantra. Thus, he has explained (the meaning of the statement) that ‘he goes to Śiva (either immediately), or after (he has had) the worldly experience predetermined (for 
+‘The singular’ is of the word Karma. Thus (the use of the word ‘indeed’) ‘is equivalent to ‘because’ and is correlative to ‘therefore”. It is correlative. A relationship of this sort is one between a logical cause (hetu) and the possessor (of that cause).[^523] It is such ‘indeed’. This is the meaning of the word ‘indeed’, and by (the use of) that word in that way, (the relationship between the embodied condition and Karma) is reflected upon. This is the meaning. Karma, accrued in a previous life, is of three kinds, because (it determines) the type (of birth) (jāti) and lifespan, and gives worldly experience. (These three kinds) are said to be fused together (to form a single unit). Thus, it is because of this that the body is presided over by Māyā. So (long as) the body persists, even realised souls are bound by it. (This must be so,) because they are seen to be as if bound, because (they) experience pleasure and pain. This is the meaning of the verse (quoted from) the venerable Gamatantra. Thus, he has explained (the meaning of the statement) that ‘he goes to Śiva (either immediately), or after (he has had) the worldly experience predetermined (for 
 
 him)?“ 
 
@@ -122,7 +122,7 @@ This (initiation) need not to be done in all circumstances. Thus, he says:
 तज्जन्मशेषं विविधमतिवाह्य ततः स्फटरम् ।
 क्मीन्तरनिरोधेन शीघ्रमेवापवृज्यते । । २३८ ॥
 
-tatra tv \[illegible\] ‘sti niyama āsanne maranakṣane |
+tatra tv eṣo ‘sti niyama āsanne maranakṣane |
 14/11 kuryān nānyathārabdhṛkarma yasmān na śuddhyati ॥ 236 ॥
 ukta ca pūrvam evaitan mantrasāmarthyayogataḥ |
 prānṇair viyojito ‘py eṣa bhuṅkte Śeṣaphalarr yataḥ ॥ 237 ॥
@@ -312,7 +312,7 @@ The Mild Descents of the Power of Grace
 तीव्रमन्दे मध्यमन्दे मन्दमन्दे बुभुश्षुता ॥ २४५ ॥
 करमानमुख्यातिमात्रेण विधिनैत्यन्ततः शिवम् ।
 
-tīvramande madhyamande mandamande bubhukṣutā || 245 Il kramān mukhyātimātreṇa vidhinaityantataḥ śivam | 
+tīvramande madhyamande mandamande bubhukṣutā || 245 || kramān mukhyātimātreṇa vidhinaityantataḥ śivam | 
 
 (The disciple’s) desire for worldly benefits grows progressively more primary, according to whether (the descent of the power of grace is) intensely mild, moderately mild, or mildly mild. (However, he too) ultimately attains Śiva by virtue of the rite (of initiation). (245cd-246ab) 
 
@@ -398,8 +398,8 @@ If one who has been penetrated by (the power of) intuition (pratibhā) desires t
 इति ब्रूते यियासुत्वं वक्तव्यं नान्यथा ध्रवम् ॥
 रद्रशक्तिसमाविष्टो नीयते सद्रुरु प्रति ॥ २४९ ॥
 
-na sarvaḥ pratibhāviṣtaḥ śaktyā nīyeta sadgurum || 248 I|
-iti brūte yiyāsutvaṁ vaktavyarn nānyathā dhruvam |
+na sarvaḥ pratibhāviṣtaḥ śaktyā nīyeta sadgurum || 248 ||
+iti brūte yiyāsutvaṁ vaktavyaṁ nānyathā dhruvam |
 rudraśaktisamāviṣṭo nīyate sadguruṁ prati ॥ 249 || 
 
 (However,) not everybody who has been penetrated by (this) intuition (pratibhā) is led by (its) power to a true teacher. Thus it is said that it is necessary to say that he desires to go (to a teacher), certainly not otherwise (for it would have been sufficient to say,) ‘penetrated by Rudra’s 
@@ -527,9 +527,9 @@ At all Levels, Grace Depends Solely on Śiva’s Will
 तथाविधोऽपि भोगांशावच्छेदेनोपलक्षित : ।। २८५५ ॥।
 अपरः शक्तिपातोऽसो पर्यन्ते शिवताप्रदः ।
 
-\[illegible\] sāram iha jṁñeyaṁn paripūrnṇacidātmanaḥ ॥ 254 I|
+\[illegible\] sāram iha jṁñeyaṁn paripūrṇacidātmanaḥ ॥ 254 I|
 prakāśaḥ paramaḥ śaktipāto ‘vacchedavarjitaḥ |
-tathāvidho ‘pi bhogāmśāvacchedenopalakṣitaḥ ॥ 255 Il 
+tathāvidho ‘pi bhogāmśāvacchedenopalakṣitaḥ ॥ 255 ॥ 
 
 [^555]: MV 1/45a quoted above, 13/203a.
 [^556]: Abhinavagupta had said above in 13/201 that this statement refers to someone who has received intensely intense descent of grace, not just a moderately intense one, as is the view stated in 13/246cd-247ab.
@@ -555,7 +555,7 @@ Surely (one may ask), what causes a descent of the power (of grace) of this kind
 नास्ति व्यापार इत्येवं निरपेक्षः स सर्वतः ।
 
 ubhayatrāpi karmāder māyāntarvartino yataḥ ॥ 256 ॥
-nāsti vyāpāra ity evarn nirapekṣaḥ sa sarvataḥ | 
+nāsti vyāpāra ity evaṁ nirapekṣaḥ sa sarvataḥ | 
 
 In neither case (of these two types) is (their) operation (vyāpāra) that of Karma and the like, (that operate) within Māyā. Thus, (the descent of the power of grace) is independent in every way (of any factors apart 
 
@@ -803,9 +803,9 @@ Surely (one may ask), Viṣṇu, Brahmā and the other (gods) reside in the mids
 यथा स्वातच्यतो राजाप्यनुगृहणाति कञ्चन ॥ २७० ॥
 ईशशक्तिसमावेशात्तथा विषण्वादयोऽप्यलम् ।
 
-yathā svātantryato rājāpy anugṁnāti kañcana ॥ 270 |l Tśaśaktisamāveśāt tathā viṣnvādayo ‘py alam | 
+yathā svātantryato rājāpy anugṁnāti kañcana ॥ 270 ॥ Tśaśaktisamāveśāt tathā viṣnvādayo ‘py alam | 
 
-Just as a king bestows his favour on somebody because he has the freedom (to do so), similarly, \[illegible\] and the other (deities) are capable (of 
+Just as a king bestows his favour on somebody because he has the freedom (to do so), similarly, Viṣṇu and the other (deities) are capable (of 
 
 *[p. 292]* ^pg314
 
@@ -856,7 +856,7 @@ Surely (one may ask), what is his purpose? With this doubt in mind, he says:
 कलाश्रयस्याप्यत्यन्तं कर्मणो विनिवर्तनात् । soul[^571] ॥
 ज्ञानाकलः प्राक्तनस्तु कर्मी तस्याश्रयस्थितेः ।
 
-kalāśrayasyāpy atyantarn karmano vinivartanāt || 273 ||
+kalāśrayasyāpy atyantaṁ karmano vinivartanāt || 273 ||
 jñānākalaḥ prāktanas tu karmī tasyāśrayasthiteḥ | 
 
 Due to the cessation of Karma, which is based on (that principle of) the Force (of limited agency), he becomes a Consciousness Deconditioned 
@@ -878,7 +878,7 @@ Surely then, (one may ask,) in this way he is as bound as we are, so of what use
 स परं प्रकृते्बुध्ने सृष्टं नायाति जातुचित् ॥ २७४ ॥
 मायाधरे तु सृज्येतानन्तेशेन प्रचोदनात् ।
 
-sa parar prakṛter budhne sṛsti nāyāti jātucit ॥ 274 |I māyādhare tu sṛjyetānanteśena pracodanāt | 
+sa parar prakṛter budhne sṛsti nāyāti jātucit ॥ 274 ॥ māyādhare tu sṛjyetānanteśena pracodanāt | 
 
 (Even so,) he who has gone beyond Nature is no longer liable to be reborn below (within it), but is emitted at the command of Ananteśvara into the region below Māyā.[^573] (274cd-275ab) 
 
@@ -971,7 +971,7 @@ Thus, he says:
 षष्टयभ्यधिकं भ्रान्तं वैष्णवादयं निशान्तरे ॥ २७८ ॥।
 शिवज्ञानं केवलं च शिवतापत्तिदायकम् ।
 
-svacchandaśāstre tenoktarn vādinār tu Śatatrayam |
+svacchandaśāstre tenoktaṁ vādinār tu Śatatrayam |
 triṣaṣtyabhyadhikari bhrāntarni vaiṣnavādyari niśāntare ॥ 278 ॥
 sivajñānari kevalari ca śivatāpattidāyakam | 
 
@@ -993,7 +993,7 @@ He says that:
 
 शिवतापत्तिपर्यन्तः शक्तिपातश्च च्यते ।। २७९ ॥
 अन्यथा किं हि तत्स्याद्यच्छैव्या शक्त्यानधिष्ठितम् sivatāpattiparyantaḥ śaktipātaś ca carcyate ॥ 279 ॥
-anyathā kirn hi tat syād yac chaivyā śaktyānadhiṣṭhitam | 
+anyathā kiṁ hi tat syād yac chaivyā śaktyānadhiṣṭhitam | 
 
 The descent of the power (of grace) discussed (here is only the one that) ultimately culminates in the attainment of Śiva’s state. Otherwise, 
 
@@ -1001,7 +1001,7 @@ what is not presided over by Śiva’s power? (279cd-280ab)
 
 #### Viveka on 13.279–280
 
-578?\. 13/278cd-279ab is a condensed version of SvT 10/680cd-683. ity evaṁvādināṁ teṣāṁ vādānār tu śatatrayam || 680 ॥ triṣaṣṭtir adhikāś cānye vādināmṁ bhrāntacetasām | ajñānatimirāndhānām unmīlanakṛd uttamam || 681 || samsārapaṁkamagnānāṁ naur ivottāranaṁ param | mahāmohatamo 'ndhānāṁn tamonudam idarn param || 682 ॥ parameśamukhodbhūtaṁ yan mayā prāptam adbhūtam | jṁānāmṛtam idar divyarn nānābhuvanavistaram I| 683 ॥ ‘Thus, the views of those whose views are such, are three hundred. There are sixty-three more. These are those of philosophers whose minds are deluded. (This teaching) is the best eye-opener for those who are blind with the darkness of ignorance; it is like a boat for those who are stuck in the mud of transmigratory existence, it is their supreme salvation. This is the supreme remover of the darkness for those who are blind with the darkness of the great delusion. (It is) an astonishing wonder that has come from the mouth of the Supreme Lord, which I have received. (It is) this divine nectar of knowledge that extends for many worlds. O goddess, listen one-pointedly, (to this) astonishing (teaching) of (varied) wonderful form.’ (10/680cd-684ab) This passage is also translated above as part of a longer passage in note 8,523 to TĀv ad 8/191-193 (190cd-193ab).
+578?\. 13/278cd-279ab is a condensed version of SvT 10/680cd-683. ity evaṁvādināṁ teṣāṁ vādānār tu śatatrayam || 680 ॥ triṣaṣṭtir adhikāś cānye vādināmṁ bhrāntacetasām | ajñānatimirāndhānām unmīlanakṛd uttamam || 681 || samsārapaṁkamagnānāṁ naur ivottāranaṁ param | mahāmohatamo 'ndhānāṁn tamonudam idaṁ param || 682 ॥ parameśamukhodbhūtaṁ yan mayā prāptam adbhūtam | jṁānāmṛtam idar divyaṁ nānābhuvanavistaram I| 683 ॥ ‘Thus, the views of those whose views are such, are three hundred. There are sixty-three more. These are those of philosophers whose minds are deluded. (This teaching) is the best eye-opener for those who are blind with the darkness of ignorance; it is like a boat for those who are stuck in the mud of transmigratory existence, it is their supreme salvation. This is the supreme remover of the darkness for those who are blind with the darkness of the great delusion. (It is) an astonishing wonder that has come from the mouth of the Supreme Lord, which I have received. (It is) this divine nectar of knowledge that extends for many worlds. O goddess, listen one-pointedly, (to this) astonishing (teaching) of (varied) wonderful form.’ (10/680cd-684ab) This passage is also translated above as part of a longer passage in note 8,523 to TĀv ad 8/191-193 (190cd-193ab).
 
 579?\. In a general sense, everything is presided over by Śiva’s power. The descents of power Abhinavagupta is discussing are particular aspects of Śiva’s power that ultimately lead to Śiva’s state.
 
@@ -1082,7 +1082,7 @@ He concludes this (subject saying):
 ### TĀ 13.283
 
 Grace is Independent of all Worldly Causes इत्थं ्रशक्तिपातोऽयं निरपेक्ष इहोदितः ।। २८३ ॥
-ittharn śrīśaktipāto ‘yari nirapekṣa ihoditaḥ ॥ 283 ॥ 
+itthaṁ śrīśaktipāto ‘yari nirapekṣa ihoditaḥ ॥ 283 ॥ 
 
 Thus, this venerable descent of the power (of grace) is said here to be independent (of all worldly causes). (283cd) 
 
@@ -1110,7 +1110,7 @@ What is said (here)?
 अनयैव दिशा नेयं मतद्गकिरणादिकम् ।
 ग्रनथगौरवभीत्या तु तल्लिखित्वा न योजितम् | २८४ ॥
 
-anayaiva \[illegible\] neyarn mataṅgakiranādikam |
+anayaiva \[illegible\] neyaṁ mataṅgakiranādikam |
 granthagauravabhītyā tu tal likhitvā na yojitam ॥ 284 ॥ 
 
 The Mataṅga, Kirana and other (Saiddhāntika scriptures) should be understood in this way. A written (exposition) of their (view) has not been added for fear of (making this) book (even) more extensive.” (284) 
@@ -1140,9 +1140,9 @@ This is not only said just in our scriptures, but also in the Purāṇas and oth
 यया यान्ति परां सिद्धि तद्धावगतमानसा; ॥ २८५ ॥
 
 purāṇe ‘pi ca tasyaiva prasādād bhaktir iṣyate |
-yayā yānti \[illegible\] \[illegible\] siddhińn tadbhāvagatamānasāḥ ॥ 285 ॥ 
+yayā yānti parāṁ siddhińn tadbhāvagatamānasāḥ ॥ 285 ॥ 
 
-(Our teaching is) also (found) in a Purāṇa, (where it is said that) ‘the preferred view \[illegible\] is that devotion (arises) by His grace alone. Due to that (devotion,) those whose minds are immersed in the Lord’s nature attain the supreme accomplishment.’ (285) 
+(Our teaching is) also (found) in a Purāṇa, (where it is said that) ‘the preferred view (iṣyate) is that devotion (arises) by His grace alone. Due to that (devotion,) those whose minds are immersed in the Lord’s nature attain the supreme accomplishment.’ (285) 
 
 #### Viveka on 13.285
 
@@ -1193,7 +1193,7 @@ vaiṣṇavādau hi yā bhaktir nāsau kevalataḥ śivāt |
 
 *[p. 302]* ^pg324
 
-The devotion of the followers of Viṣnu and the like, who are devoid of (any) contact at all with the great accomplishment (mahāsiddhi), which is identity with Śiva (śivībhāva), does not come from Śiva, who is aloof (from all Karma and the like, to which those gods are subject). (287cd-288ab) 
+The devotion of the followers of Viṣṇu and the like, who are devoid of (any) contact at all with the great accomplishment (mahāsiddhi), which is identity with Śiva (śivībhāva), does not come from Śiva, who is aloof (from all Karma and the like, to which those gods are subject). (287cd-288ab) 
 
 #### Viveka on 13.287–288
 
@@ -1213,7 +1213,7 @@ Although the cause there (of their devotion) is indeed Śiva, it is not (Śiva H
 
 #### Viveka on 13.288–289
 
-In order to distinguish (Śiva’s) pure and aloof state from the devotion ‘there’, amongst the followers of \[illegible\] and the like, he says ‘rather’ etc. What is meant by (Śiva) ‘assuming a limited (form)’ is that he has taken on the stain of the contraction (of consciousness) as the limitation which is confinement in the form of a follower of Viṣṇu and the like. 
+In order to distinguish (Śiva’s) pure and aloof state from the devotion ‘there’, amongst the followers of Viṣṇu and the like, he says ‘rather’ etc. What is meant by (Śiva) ‘assuming a limited (form)’ is that he has taken on the stain of the contraction (of consciousness) as the limitation which is confinement in the form of a follower of Viṣṇu and the like. 
 
 Surely, (one may ask) of what (statement) is this the meaning? With this doubt in mind, he says: 
 
@@ -1228,7 +1228,7 @@ attain the supreme accomplishment.” (289cd)
 
 #### Viveka on 13.289
 
-[^590]: From the Śaiva point of view, \[illegible\] is like other gods, such Brahmā, who are deities, but are Lords of only their own world orders. Moreover, they are appointed to that post by their previous good Karma, and so differ fundamentally from Siva, Who is the one Lord of all the universe with all its worlds. Nor is He such because of His Karma, which He does not have, and never had.
+[^590]: From the Śaiva point of view, Viṣṇu is like other gods, such Brahmā, who are deities, but are Lords of only their own world orders. Moreover, they are appointed to that post by their previous good Karma, and so differ fundamentally from Siva, Who is the one Lord of all the universe with all its worlds. Nor is He such because of His Karma, which He does not have, and never had.
 [^591]: The complete line is quoted above in 13/285cd.
 
 *[p. 303]* ^pg325
@@ -1341,7 +1341,7 @@ Four Grades of Initiates According to the Intensity of Grace
 evaṁ vicitre ‘py etasmiñ chaktipāte sthite sati || 295 ॥
 tāratamyādibhir bhedaiḥ samayyādivicitratā |
 kaścid rudrāṁśatāmātrāpādanāt tatprasādataḥ ॥ 296 ॥
-sivatvarn kramaśo gacchet samayī yo nirūpyate |
+sivatvaṁ kramaśo gacchet samayī yo nirūpyate |
 kaścic chuddhādhvabandhaḥ san putrakaḥ śīghram akramāt || 297 ॥
 bhogavyavadhinā ko ‘pi sādhakaś ciraśīghrataḥ |
 kaścit saṁpūrṇakartavyaḥ kṛtyapañcakabhāgini ॥ 298 ॥
@@ -1355,7 +1355,7 @@ As the descent of the power (of grace) is various in this way, according to the 
 
 attains Śiva’s state by His grace. 
 
-[^596]: Read -rudrāmśatā- for -rudrāśatā-. A devotee of Rudra is called a ‘rudrāmśa’. So, one could also translate that ‘he attains the status of a devotee of Rudra’ instead of ‘a limb of Rudra’s nature’. Cf. below, 15/509 (512) and 15/525cd (521cd). brahmārśo vedabhaktas tu rudrāmśaṁ ca nibodha me || 3 ॥ rudrabhaktaḥ suśīlaś ca śivaśāstrarataḥ sadā | viṣnvaṁśo viṣnubhaktaś ca candrāmśaḥ priyadarśanaḥ ॥ 4 ॥ sarvadevarataḥ śānto yakṣāiśo dhanasaṁgrahī | lubdho garvitamṛṣtāśī vātāṁmśaś capalaḥ smṛtaḥ ॥ 5 ॥ sarpavisrambhagāmī syān nāgāmṁśo dīrghaśāyyatha | dīrgharoṣaḥ pūtivaktro gurukṣīraruciḥ sadā || 6 ॥ gāndharvo gāyano nityarn śivabhakto varānane | vidyādharāmśakaḥ prānṇī daityāṁśo dveṣanaḥ smṛtaḥ ॥ 7 I| kāmārśo rūpavārś caiva subhago ganikāpriyaḥ | rakṣoṁśaḥ krūranistrimśo devadveṣī dvijeṣu ca ॥ 8 ॥ piśācārśaś chalānveṣī vāsare bhīrukātaraḥ | agnyaṁśaḥ paruṣas tīvra uṣṇādaḥ piṁgalas tathā ॥ 9 ॥ savitrahśaś ca tejasvī pūrtadharmarataḥ sadā | iṣṭāni kurute nityarn dayāluḥ śivabhāvitaḥ ॥ 10 ॥ “(One who is) Brahmā’s limb is devoted to the Vedas. (Now) know from me (who is) Rudra’s limb. He is devoted to all the gods and tranquil. (One who is) a Yakṣa’s limb accumulates wealth; he is greedy, proud, and eats (polluted food others) have touched \[illegible\] A limb of the Wind is said to be fickle. (3cd-5) The limb of a Nāga moves with a leisurely pace of a snake (read -viśrambha-for —visrambha-) and lies (sleeping) for a long time. He remains angry for a long time. His mouth has a foul smell and always craves (to drink) the teacher's milk. (6) O fair faced one, the living being, (he who is a limb) of a Vidyādhara, (like a) Gandharva sings all the time and is devoted to Śiva. The limb of a demon is said to be (full of) hate. (6-7) A limb of Kāma is beautiful, fortunate and likes prostitutes. The limb of a Rakṣas is cruel and devoid of compassion. He hates the gods and Brahmins. (8) The limb of a Piśāca is (always) seeking to be deceitful, and (even) during the day is frightened and cowardly. A limb of Fire is rough (in his speech). He is intense (in his work) and brown in colour, he eats hot (and spicy food). (9) A limb of Savity is full of radiant energy, and is always devoted to the rule of meritorious work. He always does desirable things. He is compassionate and inspired (bhāvita) by Śiva. (SvT 8/3cd-10) pūtivaktro durāmodalālāsyaḥ | vidyādharāmśasya śivabhaktatvan troktavi-dhānena guṭikāñjanādisiddhirasikatvam | krūro dāruṇahṛdayaḥ \\ nistriṁśo nirghṛna-vyāpārah | paruṣo vācā | \[illegible\] karmaṇā | pūrtan vāpīkūpādikaraṇam | iṣtaṁn yajṁaḥ | spaṣtam anyat || 10 ॥ ‘His mouth has a foul smell’. (His) mouth smells badly and (slobbers with) spittle. One who is a limb of a Vidyādhara is a devotee of Śiva, and delights in the accomplishments of the (magic alchemical) pill and the collyrium (by which he can see everywhere), in accord with the procedure prescribed by the Śaiva scriptures. The heart of (a demon) is ‘cruel’, that is, pitiless. The behaviour of one who is ‘devoid of compassion’ is devoid of warm feelings towards others. His speech is ‘rough’. The action (of such a one is) ‘intense’. ‘Meritorious work’ includes such things as wells and tanks dug (for the common good). ‘Desirable things’ comprise the sacrifice. All else is clear.’ Those who are limbs of deities bestow upon the adept various fruits, according to their own degree of sovereignty. They allow him to attain the limited plane upon which they reside, no higher. However: bhairavāṁgasamālabdhāḥ sarve devā varānane ॥ 11 ॥ bhairavās tu smṛtāḥ sarve sarvasiddhiphalapradāḥ \\ ‘Those who have attained (the condition of) a limb of Bhairava are all gods, O fair faced one. They are all said to be Bhairavas, who bestow the fruits of all accomplishments.’ (1 1cd-12ab)
+[^596]: Read -rudrāmśatā- for -rudrāśatā-. A devotee of Rudra is called a ‘rudrāmśa’. So, one could also translate that ‘he attains the status of a devotee of Rudra’ instead of ‘a limb of Rudra’s nature’. Cf. below, 15/509 (512) and 15/525cd (521cd). brahmārśo vedabhaktas tu rudrāmśaṁ ca nibodha me || 3 ॥ rudrabhaktaḥ suśīlaś ca śivaśāstrarataḥ sadā | viṣnvaṁśo viṣnubhaktaś ca candrāmśaḥ priyadarśanaḥ ॥ 4 ॥ sarvadevarataḥ śānto yakṣāiśo dhanasaṁgrahī | lubdho garvitamṛṣtāśī vātāṁmśaś capalaḥ smṛtaḥ ॥ 5 ॥ sarpavisrambhagāmī syān nāgāmṁśo dīrghaśāyyatha | dīrgharoṣaḥ pūtivaktro gurukṣīraruciḥ sadā || 6 ॥ gāndharvo gāyano nityaṁ śivabhakto varānane | vidyādharāmśakaḥ prānṇī daityāṁśo dveṣanaḥ smṛtaḥ ॥ 7 I| kāmārśo rūpavārś caiva subhago ganikāpriyaḥ | rakṣoṁśaḥ krūranistrimśo devadveṣī dvijeṣu ca ॥ 8 ॥ piśācārśaś chalānveṣī vāsare bhīrukātaraḥ | agnyaṁśaḥ paruṣas tīvra uṣṇādaḥ piṁgalas tathā ॥ 9 ॥ savitrahśaś ca tejasvī pūrtadharmarataḥ sadā | iṣṭāni kurute nityaṁ dayāluḥ śivabhāvitaḥ ॥ 10 ॥ “(One who is) Brahmā’s limb is devoted to the Vedas. (Now) know from me (who is) Rudra’s limb. He is devoted to all the gods and tranquil. (One who is) a Yakṣa’s limb accumulates wealth; he is greedy, proud, and eats (polluted food others) have touched \[illegible\] A limb of the Wind is said to be fickle. (3cd-5) The limb of a Nāga moves with a leisurely pace of a snake (read -viśrambha-for —visrambha-) and lies (sleeping) for a long time. He remains angry for a long time. His mouth has a foul smell and always craves (to drink) the teacher's milk. (6) O fair faced one, the living being, (he who is a limb) of a Vidyādhara, (like a) Gandharva sings all the time and is devoted to Śiva. The limb of a demon is said to be (full of) hate. (6-7) A limb of Kāma is beautiful, fortunate and likes prostitutes. The limb of a Rakṣas is cruel and devoid of compassion. He hates the gods and Brahmins. (8) The limb of a Piśāca is (always) seeking to be deceitful, and (even) during the day is frightened and cowardly. A limb of Fire is rough (in his speech). He is intense (in his work) and brown in colour, he eats hot (and spicy food). (9) A limb of Savity is full of radiant energy, and is always devoted to the rule of meritorious work. He always does desirable things. He is compassionate and inspired (bhāvita) by Śiva. (SvT 8/3cd-10) pūtivaktro durāmodalālāsyaḥ | vidyādharāmśasya śivabhaktatvan troktavi-dhānena guṭikāñjanādisiddhirasikatvam | krūro dāruṇahṛdayaḥ \\ nistriṁśo nirghṛna-vyāpārah | paruṣo vācā | \[illegible\] karmaṇā | pūrtan vāpīkūpādikaraṇam | iṣtaṁn yajṁaḥ | spaṣtam anyat || 10 ॥ ‘His mouth has a foul smell’. (His) mouth smells badly and (slobbers with) spittle. One who is a limb of a Vidyādhara is a devotee of Śiva, and delights in the accomplishments of the (magic alchemical) pill and the collyrium (by which he can see everywhere), in accord with the procedure prescribed by the Śaiva scriptures. The heart of (a demon) is ‘cruel’, that is, pitiless. The behaviour of one who is ‘devoid of compassion’ is devoid of warm feelings towards others. His speech is ‘rough’. The action (of such a one is) ‘intense’. ‘Meritorious work’ includes such things as wells and tanks dug (for the common good). ‘Desirable things’ comprise the sacrifice. All else is clear.’ Those who are limbs of deities bestow upon the adept various fruits, according to their own degree of sovereignty. They allow him to attain the limited plane upon which they reside, no higher. However: bhairavāṁgasamālabdhāḥ sarve devā varānane ॥ 11 ॥ bhairavās tu smṛtāḥ sarve sarvasiddhiphalapradāḥ \\ ‘Those who have attained (the condition of) a limb of Bhairava are all gods, O fair faced one. They are all said to be Bhairavas, who bestow the fruits of all accomplishments.’ (1 1cd-12ab)
 
 *[p. 307]* ^pg329
 

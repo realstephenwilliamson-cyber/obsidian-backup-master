@@ -17,8 +17,7 @@ language:
   - English
 pages: 437
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Lloyd - Morality in the Philosophy of Thomas Hobbes (CUP 2009).pdf]]"
   - "[[Library/Philosophy/Morality in the Philosophy of Thomas Hobbes (Lloyd)/Morality in the Philosophy of Thomas Hobbes (Lloyd)]]"

@@ -17,8 +17,7 @@ language:
   - English
 pages: 12
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Prasena_Prasina_and_Prasanna_The_Evidenc.pdf]]"
   - "[[Library/Hinduism/Prasena, Prasina & Prasanna (Vasudeva)]]"

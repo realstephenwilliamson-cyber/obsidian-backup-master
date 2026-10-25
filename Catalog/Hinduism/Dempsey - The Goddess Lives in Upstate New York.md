@@ -17,8 +17,7 @@ language:
   - English
 pages: 276
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Dempsey - The Goddess Lives in Upstate New York (2006).pdf]]"
   - "[[Library/Hinduism/The Goddess Lives in Upstate New York (Dempsey)/The Goddess Lives in Upstate New York (Dempsey)]]"

@@ -18,8 +18,7 @@ language:
   - English
 pages: 99
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[0211_Bk.pdf]]"
   - "[[Library/Philosophy/The Natural History of Religion (Hume)/The Natural History of Religion (Hume)]]"

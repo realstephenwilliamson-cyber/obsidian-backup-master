@@ -18,7 +18,7 @@ language:
 pages: 384
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Larsen - Jyotisa Fundamentals (2012).pdf]]"
 aliases: []

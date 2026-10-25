@@ -17,8 +17,7 @@ language:
   - English
 pages: 404
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Rastogi - Introduction to the Tantraloka (1987).pdf]]"
   - "[[Library/Trika/Introduction to the Tantraloka (Rastogi)/Introduction to the Tantraloka (Rastogi)]]"

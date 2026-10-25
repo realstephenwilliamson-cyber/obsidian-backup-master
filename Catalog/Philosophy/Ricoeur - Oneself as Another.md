@@ -19,7 +19,7 @@ language:
 pages: 372
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Paul Ricoeur - Oneself as Another (1995).pdf]]"
   - "[[Library/Philosophy/Oneself as Another (Ricoeur)/Oneself as Another (Ricoeur)]]"

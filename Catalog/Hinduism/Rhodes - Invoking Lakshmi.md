@@ -17,8 +17,7 @@ language:
   - English
 pages: 294
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[Rhodes - Invoking Lakshmi (2010).pdf]]"
 aliases:

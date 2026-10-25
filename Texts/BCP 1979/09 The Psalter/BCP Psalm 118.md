@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 118
 verses: 29
-page_range:
-  - 761
-  - 763
+page_range: "761–763"
 aliases:
   - "BCP Psalm 118"
   - "BCP 761"
@@ -30,7 +28,7 @@ his mercy endures for ever. ^118-1
 **118:2** Let Israel now proclaim, \*  
 "His mercy endures for ever." ^118-2
 
-[p. 761]
+[p. 761] ^pg761
 
 **118:3** Let the house of Aaron now proclaim, \*  
 "His mercy endures for ever." ^118-3
@@ -72,7 +70,7 @@ and he has become my salvation. ^118-14
 **118:15** There is a sound of exultation and victory \*  
 in the tents of the righteous: ^118-15
 
-[p. 762]
+[p. 762] ^pg762
 
 **118:16** "The right hand of the LORD has triumphed! \*  
 the right hand of the LORD is exalted!  
@@ -112,7 +110,7 @@ we bless you from the house of the LORD. ^118-26
 **118:27** God is the LORD; he has shined upon us; \*  
 form a procession with branches up to the horns of the altar. ^118-27
 
-[p. 763]
+[p. 763] ^pg763
 
 **118:28** "You are my God, and I will thank you; \*  
 you are my God, and I will exalt you." ^118-28

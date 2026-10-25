@@ -200,15 +200,15 @@ The commentary to the NSA mentions "being in the kuta which is the essence of th
 However, the term also strongly conveys the notion of the experience of non-duality which in Kashmir Saiva terms is the realization of the Oneness of God, the universe and man. The KCT says that kulas are those "who have given up their egoism",[^17] i.e. those who have merged their individuality into the unity of Śiva and Sakti. It seems likely therefore that one of the fundamental connotations of kuta is realization - not just intellectual appreciation - of supreme non-duality. Since non-duality is the ground of the universe, all things become kula as soon as their divine nature is truly realized. This broad interpretation partly accounts for the multiple uses of the word in the texts. Examples of such usage from the above quotations would be: “Having driven out the kula demon, the adept should worship the kula venue" and "Because of being in the kula which is the essence of the Self" etcetera.
 
 12\. Ibid., p. 595.
-[^13-p56]: Ibid., p.
+[^13-p56]: Ibid., p. 584.
 
-584.
-[^14]: Ibid., p.
 
-597.
-[^15]: Ibid., p.
+[^14]: Ibid., p. 597.
 
-598.
+
+[^15]: Ibid., p. 598.
+
+
 
 [^16]: Cormentary to V:27-833.
 [^17]: KCT III:50.
@@ -798,7 +798,7 @@ I am madly fond of (creation) when I have covered myself with māyā and become 
 
 (In this way) the five elements[^17-p78] and the one hundred and one
 
-Lińgas,[^18] <sup>18</sup>
+Lińgas,[^18]
 
 20\. the gods Brahmā etc., the earth and the ethereal plane[^19] have arisen as manifestations of my own nature.
 
@@ -869,7 +869,7 @@ I have not spoken of it to Viṣṇu, nor to Brahmã, nor to Gaṇapati.
 
 protect it.
 
-For without this tantra, my Son:, even the godsž[^30] lack the
+For without this tantra, my Son:, even the gods[^30] lack the
 
 requisite qualifications (for this way of liberation).
 
@@ -890,11 +890,11 @@ requisite qualifications (for this way of liberation).
 
 85\.
 
-34\. first meditating on the kulažł[^35-p81] from the Mūlādhāraž[^36] up to the Brahmārandhra, should think on the gurus named Prahlādānanda Nātha, Sanakānanda,
+34\. first meditating on the kula[^35-p81] from the Mūlādhāra[^36] up to the Brahmārandhra, should think on the gurus named Prahlādānanda Nātha, Sanakānanda,
 
 35\. Kumārānandanātha and VaSiṣṭānandanāthaka, Krodhānanda and Sukhānanda, and thereafter on Jnānānanda.
 
-36\. Then having worshipped the supreme Bodhānanda, he should meditate on the kula?ł7 up above.[^38] The hearts (of the gurus) are full of the joy that arises from the ecstasy of the sublime unionž[^39] and their eyes are brimming with bliss.
+36\. Then having worshipped the supreme Bodhānanda, he should meditate on the kula?ł7 up above.[^38] The hearts (of the gurus) are full of the joy that arises from the ecstasy of the sublime union[^39] and their eyes are brimming with bliss.
 
 37\. Al\] their obscurations are broken and crushed due to the embrace of kula[^40] and with hearts full of compassion they are
 

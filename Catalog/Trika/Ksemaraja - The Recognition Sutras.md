@@ -20,8 +20,7 @@ language:
   - Sanskrit
 pages: 543
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Wallis - The Recognition Sutras (Pratyabhijna-hrdaya of Ksemaraja).pdf]]"
   - "[[Library/Trika/The Recognition Sutras (Ksemaraja)/The Recognition Sutras (Ksemaraja)]]"

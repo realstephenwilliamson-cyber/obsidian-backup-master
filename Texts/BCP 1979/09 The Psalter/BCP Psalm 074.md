@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 74
 verses: 22
-page_range:
-  - 690
-  - 691
+page_range: "690–691"
 aliases:
   - "BCP Psalm 74"
   - "BCP 690"
@@ -46,7 +44,7 @@ and razed it to the ground. ^74-6
 **74:7** They said to themselves, "Let us destroy them altogether." \*  
 They burned down all the meeting-places of God in the land. ^74-7
 
-[p. 690]
+[p. 690] ^pg690
 
 **74:8** There are no signs for us to see;  
 there is no prophet left; \*  
@@ -91,7 +89,7 @@ let the poor and needy praise your Name. ^74-20
 **74:21** Arise, O God, maintain your cause; \*  
 remember how fools revile you all day long. ^74-21
 
-[p. 691]
+[p. 691] ^pg691
 
 **74:22** Forget not the clamor of your adversaries, \*  
 the unending tumult of those who rise up against you. ^74-22

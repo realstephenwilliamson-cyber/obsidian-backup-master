@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 55
 verses: 26
-page_range:
-  - 661
-  - 662
+page_range: "661–662"
 aliases:
   - "BCP Psalm 55"
   - "BCP 661"
@@ -54,7 +52,7 @@ from the stormy wind and tempest." ^55-9
 confound their speech; \*  
 for I have seen violence and strife in the city. ^55-10
 
-[p. 661]
+[p. 661] ^pg661
 
 **55:11** Day and night the watchmen make their rounds upon her walls, \*  
 but trouble and misery are in the midst of her. ^55-11
@@ -93,7 +91,7 @@ they never change; they do not fear God. ^55-20
 **55:21** My companion stretched forth his hand against his comrade; \*  
 he has broken his covenant. ^55-21
 
-[p. 662]
+[p. 662] ^pg662
 
 **55:22** His speech is softer than butter, \*  
 but war is in his heart. ^55-22

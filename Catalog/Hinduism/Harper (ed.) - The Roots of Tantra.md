@@ -18,8 +18,7 @@ language:
   - English
 pages: 281
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Harper, Brown (eds.) - The Roots of Tantra (2002).pdf]]"
   - "[[Library/Hinduism/The Roots of Tantra (Harper)/The Roots of Tantra (Harper)]]"

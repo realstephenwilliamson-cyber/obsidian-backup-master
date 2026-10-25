@@ -4,7 +4,7 @@ book: "[[Zohar]]"
 order: 4
 page_range: xxvi–xxix
 ---
-[p. xxvi]
+[p. xxvi] ^pgxxvi
 
 #  Acknowledgments
 

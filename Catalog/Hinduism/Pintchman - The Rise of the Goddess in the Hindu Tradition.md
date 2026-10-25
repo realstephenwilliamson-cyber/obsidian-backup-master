@@ -17,8 +17,7 @@ language:
   - English
 pages: 176
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Pintchman - The Rise of the Goddess in the Hindu Tradition (1994).pdf]]"
 aliases:

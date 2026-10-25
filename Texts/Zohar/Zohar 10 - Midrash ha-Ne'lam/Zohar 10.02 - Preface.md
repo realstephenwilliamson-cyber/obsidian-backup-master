@@ -50,8 +50,8 @@ _______________
 
 [^4]: The site is www.sup.org/zohar. On the various online versions of the critical text, click on “Aramaic Overview.”
 
-[p. 1]
+[p. 1] ^pg1
 
 # MIDRASH HA-NE’LAM
 
-[p. 2]
+[p. 2] ^pg2

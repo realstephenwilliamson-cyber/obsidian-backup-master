@@ -17,8 +17,7 @@ language:
   - English
 pages: 468
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Body and Cosmology in Kashmir Saivism.pdf]]"
   - "[[Library/Trika/Body and Cosmology in Kashmir Saivism (Flood)/Body and Cosmology in Kashmir Saivism (Flood)]]"

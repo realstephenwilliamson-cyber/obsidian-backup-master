@@ -18,8 +18,7 @@ language:
   - English
 pages: 1
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Chapter_2_and_2a.pdf]]"
   - "[[CIS - Answers to Chapter 2 and 2A Exercises (Ruppel)]]"

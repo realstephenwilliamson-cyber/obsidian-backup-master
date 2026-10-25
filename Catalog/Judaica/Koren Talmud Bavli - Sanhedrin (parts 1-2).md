@@ -22,8 +22,7 @@ language:
   - Aramaic
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Judaica/Steinsaltz - Koren Talmud Bavli 29, Sanhedrin part 1 (2017).pdf]]"
   - "[[Library/Judaica/Steinsaltz - Koren Talmud Bavli 30, Sanhedrin part 2 (2017).pdf]]"

@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/penord1.html"
-page_range:
-  - 319
-  - 321
+page_range: "319–321"
 aliases:
   - "BCP 319"
   - "BCP 320"
@@ -17,7 +15,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 319–321
 
-[p. 319]
+[p. 319] ^pg319
 
 ## A Penitential Order: Rite One
 
@@ -51,7 +49,7 @@ Blessed be God: Father, Son, and Holy Spirit.
 
 Hear what our Lord Jesus saith: Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it: Thou shalt love thy neighbor as thyself. On these two commandments hang all the Law and the Prophets. *[[Matthew 22#^22-37|Matthew 22:37-40]]*
 
-[p. 320]
+[p. 320] ^pg320
 
 If we say that we have no sin, we deceive ourselves, and the truth is not in us; but if we confess our sins, God is faithful and just to forgive our sins, and cleanse us from all unrighteousness. *[[1 John 01#^1-8|1 John 1:8]],9*
 

@@ -4,7 +4,7 @@ book: "[[Play as Symbol of the World (Fink)]]"
 order: 20
 page_range: "323–325"
 ---
-[p. 323]
+[p. 323] ^pg323
 
 ## Secondary Literature on Fink in English
 

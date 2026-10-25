@@ -17,8 +17,7 @@ language:
   - English
 pages: 439
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Allen - The Sacred Hoop (2015).pdf]]"
   - "[[Library/Other/The Sacred Hoop (Allen)/The Sacred Hoop (Allen)]]"

@@ -20,8 +20,7 @@ language:
   - English
 pages: 331
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Spinoza - Theological-Political Treatise (CUP 2007).pdf]]"
   - "[[Library/Philosophy/Theological-Political Treatise (de Spinoza)/Theological-Political Treatise (de Spinoza)]]"

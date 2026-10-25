@@ -17,8 +17,7 @@ language:
   - English
 pages: 326
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Rastogi - The Krama Tantricism of Kashmir, Volume I (1979).pdf]]"
   - "[[Library/Trika/The Krama Tantricism of Kashmir, Volume I (Rastogi)/The Krama Tantricism of Kashmir, Volume I (Rastogi)]]"

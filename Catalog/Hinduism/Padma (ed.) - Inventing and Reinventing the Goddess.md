@@ -17,8 +17,7 @@ language:
   - English
 pages: 300
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Padma (ed.) - Inventing and Reinventing the Goddess.pdf]]"
 aliases:

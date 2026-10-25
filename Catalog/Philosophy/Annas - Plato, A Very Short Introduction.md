@@ -17,8 +17,7 @@ language:
   - English
 pages: 109
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Annas - Plato, A Very Short Introduction (2003).pdf]]"
   - "[[Library/Philosophy/Plato, A Very Short Introduction (Annas)/Plato, A Very Short Introduction (Annas)]]"

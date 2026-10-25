@@ -6,7 +6,7 @@ page_range: 54–80
 aliases:
   - Tantric Mantras 05 - 4. Nyāsa - The ritual placing of mantras
 ---
-[p. 54]
+[p. 54] ^pg54
 
 # 4 *Nyāsa*
 

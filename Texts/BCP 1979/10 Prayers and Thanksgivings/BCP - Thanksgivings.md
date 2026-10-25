@@ -5,9 +5,7 @@ section: "Prayers and Thanksgivings"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Misc/Thanksgivings.html"
-page_range:
-  - 836
-  - 841
+page_range: "836–841"
 aliases:
   - "BCP 836"
   - "BCP 837"
@@ -20,7 +18,7 @@ aliases:
 
 [[BCP 1979]] · *Prayers and Thanksgivings* · pages 836–841
 
-[p. 836]
+[p. 836] ^pg836
 
 ## Thanksgivings
 
@@ -58,7 +56,7 @@ Grant us the gift of your Spirit, that we may know Christ and make him known; an
 
 *For optional use on Thanksgiving Day, in place of the Prayers of the People at the Eucharist, or at any time after the Collects at Morning or Evening Prayer, or separately.*
 
-[p. 837]
+[p. 837] ^pg837
 
 Let us give thanks to God our Father for all his gifts so freely bestowed upon us. ^thanksgiving-2
 
@@ -82,7 +80,7 @@ Above all, we give you thanks for the great mercies and promises given to us in 
 
 *See also The General Thanksgiving on pages 58 and 101.*
 
-[p. 838]
+[p. 838] ^pg838
 
 ### Thanksgivings for the Church
 
@@ -102,7 +100,7 @@ We give thanks to you, O Lord our God, for all your servants and witnesses of ti
 
 Almighty God, giver of all good things: We thank you for the natural majesty and beauty of this land. They restore us, though we often destroy them. *Heal us.* ^thanksgiving-5
 
-[p. 839]
+[p. 839] ^pg839
 
 We thank you for the great resources of this nation. They make us rich, though we often exploit them. *Forgive us.*
 
@@ -118,7 +116,7 @@ Help us, O Lord, to finish the good work here begun. Strengthen our efforts to b
 
 O Judge of the nations, we remember before you with grateful hearts the men and women of our country who in the day of decision ventured much for the liberties we now enjoy. Grant that we may not rest until all the people of this land share the benefits of true freedom and gladly accept its disciplines. This we ask in the Name of Jesus Christ our Lord. *Amen.* ^thanksgiving-6
 
-[p. 840]
+[p. 840] ^pg840
 
 ### Thanksgiving for the Social Order
 
@@ -136,7 +134,7 @@ We give you thanks, most gracious God, for the beauty of earth and sky and sea; 
 
 Most gracious God, by whose knowledge the depths are broken up and the clouds drop down the dew: We yield thee hearty thanks and praise for the return of seed time and harvest, for the increase of the ground and the gathering in of its fruits, and for all other blessings of thy merciful providence bestowed upon this nation and people. And, we beseech thee, give us a just sense of these great mercies, such as may appear in our lives by a humble, holy, and obedient walking before thee all our days; through Jesus Christ our Lord, to whom, with thee and the Holy Ghost be all glory and honor, world without end. *Amen.* ^thanksgiving-9
 
-[p. 841]
+[p. 841] ^pg841
 
 ### Thanksgivings for Family and Personal Life
 

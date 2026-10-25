@@ -17,8 +17,7 @@ language:
   - English
 pages: 24
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Ratie - On the Practice of Autocommentary in Sanskrit Sources (2022).pdf]]"
   - "[[Library/Trika/On the Practice of Autocommentary in Sanskrit Sources (Ratie)]]"

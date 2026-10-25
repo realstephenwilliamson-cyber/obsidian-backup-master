@@ -20,8 +20,7 @@ language:
   - English
 pages: 584
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Goudriaan, Schoterman (eds.) - The Kubjikamatatantra (1988).pdf]]"
   - "[[Library/Trika/The Kubjikamatatantra (Goudriaan)/The Kubjikamatatantra (Goudriaan)]]"

@@ -5,9 +5,7 @@ section: "Prayers and Thanksgivings"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Misc/prayers_and_thanksgivings.html"
-page_range:
-  - 810
-  - 813
+page_range: "810–813"
 aliases:
   - "BCP 810"
   - "BCP 811"
@@ -18,7 +16,7 @@ aliases:
 
 [[BCP 1979]] · *Prayers and Thanksgivings* · pages 810–813
 
-[p. 810]
+[p. 810] ^pg810
 
 ## Prayers and Thanksgivings
 
@@ -76,7 +74,7 @@ aliases:
 
 **22.** For Sound Government
 
-[p. 811]
+[p. 811] ^pg811
 
 **23.** For Local Government
 
@@ -140,7 +138,7 @@ aliases:
 
 **49.** For the Aged
 
-[p. 812]
+[p. 812] ^pg812
 
 **50.** For a Birthday
 
@@ -202,7 +200,7 @@ Prayers for Friday, Saturday, Sunday, and for morning and evening are on pages 5
 
 **2.** A Litany of Thanksgiving
 
-[p. 813]
+[p. 813] ^pg813
 
 The General Thanksgivings is on pages 58 and 101.
 

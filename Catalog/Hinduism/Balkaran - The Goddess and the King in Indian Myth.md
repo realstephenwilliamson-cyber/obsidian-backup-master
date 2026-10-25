@@ -17,8 +17,7 @@ language:
   - English
 pages: 179
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Balkaran - The Goddess and the King in Indian Myth (2019).pdf]]"
   - "[[Library/Hinduism/The Goddess and the King in Indian Myth (Balkaran)/The Goddess and the King in Indian Myth (Balkaran)]]"

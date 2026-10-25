@@ -17,8 +17,7 @@ language:
   - English
 pages: 228
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Pandit - Specific Principles of Kashmir Saivism (1997).pdf]]"
   - "[[Library/Trika/Specific Principles of Kashmir Saivism (Pandit)/Specific Principles of Kashmir Saivism (Pandit)]]"

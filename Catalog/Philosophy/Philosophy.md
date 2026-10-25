@@ -26,7 +26,7 @@ views:
       - author
       - type
       - year
-      - physical_copy
+      - note.print
     sort:
       - property: file.name
         direction: ASC

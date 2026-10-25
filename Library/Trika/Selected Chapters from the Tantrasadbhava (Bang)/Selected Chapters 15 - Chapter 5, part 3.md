@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 Chapter 3. *Mantra*
 
-The code of syllables which is called *nādiphānta* (literally beginning with *na* and ending with *pha*) and cryptogram, *Mālinī-gahvara*, to extract letters are found in *Tantrasadbhāva* chapter 3. A type of the cryptogram called *gahvara* or *prastāra* taught in the *Ṣaṭsāhasrasaṃhitā* has been studied by Schoterman 1982. Somdev Vasudeva also illustrates this topic with an elaborate illustration of the alphabet-goddess which might have been created on the basis of a type of Northern Indian script around the 4th to 7th centuries<sup>36</sup> (Vasudeva 2007).
+The code of syllables which is called *nādiphānta* (literally beginning with *na* and ending with *pha*) and cryptogram, *Mālinī-gahvara*, to extract letters are found in *Tantrasadbhāva* chapter 3. A type of the cryptogram called *gahvara* or *prastāra* taught in the *Ṣaṭsāhasrasaṃhitā* has been studied by Schoterman 1982. Somdev Vasudeva also illustrates this topic with an elaborate illustration of the alphabet-goddess which might have been created on the basis of a type of Northern Indian script around the 4th to 7th centuries[^36] (Vasudeva 2007).
 
 Here the *nādiphāntakrama* section in *Tantrasadbhāva* 3.98-132b parallell with *Kubjikāmata* 4.75-112b is edited and translated. Although this dissertation has been planned the parts of the *Tantrasadbhāva* associated with *Kubjikā* literature, this section must be studied to decode decisive spells and to understand rituals taught in *Tantrasadbhāva* chapter 9. Although the painstaking work of the edition of the *Kubjikāmata* by T. Goudriaan and J.A. Schoterman (1988) is available, since there is more material in the Nepalese manuscript to be referenced, the critical edition of this part of the *Kubjikāmata* and its further study remains a desideratum. I consulted some of the old Nepalese manuscripts of the *Kubjikā* (sigla C and D used by Goudriaan and Schoterman, ngmpp B 25-31 and B 25-22) and reported their readings only if I considered it of important relation to the *Tantrasadbhāva*.
 
@@ -24,7 +24,7 @@ Here the *nādiphāntakrama* section in *Tantrasadbhāva* 3.98-132b parallell wi
 
 The word *mantra* in 3.97 is treated as feminine noun, e.g. feminine plural accusative *mantrāḥ* for masculine *mantrān*. These opening verses by Devī are not in the *Kubjikāmata*.
 
-<sup>36</sup>For further variants to the precise order of the *nādiphānta* in other Śaiva texts, see Vasudeva
+[^36]: For further variants to the precise order of the *nādiphānta* in other Śaiva texts, see Vasudeva
 
 *[p. 356]* ^pg368
 

@@ -17,8 +17,7 @@ language:
   - English
 pages: 977
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Satyananda Saraswati - A Systematic Course in the Ancient Tantric Techniques (1981).pdf]]"
 aliases:

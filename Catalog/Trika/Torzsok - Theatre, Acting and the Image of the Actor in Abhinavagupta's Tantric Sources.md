@@ -19,8 +19,7 @@ language:
   - English
 pages: 52
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Torzsok - Theatre, Acting and the Image of the Actor (2016).pdf]]"
   - "[[Library/Trika/Theatre, Acting and the Image of the Actor (Torzsok)/Theatre, Acting and the Image of the Actor (Torzsok)]]"

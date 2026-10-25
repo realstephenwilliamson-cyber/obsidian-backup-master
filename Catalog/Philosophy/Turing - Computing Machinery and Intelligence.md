@@ -17,8 +17,7 @@ language:
   - English
 pages: 22
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[turing.pdf]]"
   - "[[Library/Philosophy/Computing Machinery and Intelligence (Turing)]]"

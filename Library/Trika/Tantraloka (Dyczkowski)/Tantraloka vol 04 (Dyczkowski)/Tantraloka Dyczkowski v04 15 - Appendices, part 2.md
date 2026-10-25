@@ -134,7 +134,7 @@ The Sūryacandrasūkta prays to let us grow/thrive (pyāyana) like the new moon,
 
 The Great Lunar Conjunction 
 
-The waning Moon moves closer and closer to the Sun, changing tithi each angular movement of 12 degrees between them. In the waning phase, the Moon is seen as nourishing the gods by giving up a part of herself each \[illegible\] Each phase the Moon becomes darker, and hence the stars around her become brighter, as if they are eating her light. 
+The waning Moon moves closer and closer to the Sun, changing tithi each angular movement of 12 degrees between them. In the waning phase, the Moon is seen as nourishing the gods by giving up a part of herself each tithi. Each phase the Moon becomes darker, and hence the stars around her become brighter, as if they are eating her light. 
 
 The last żithi, the fifteenth, which is 12 degrees of angular distance before the Sun, moves towards the End of the Twelve. This fifteenth rithi is the goddess Amavāsyā who, exhausted and empty of moonlight, enters nondual union with the Sun. At this point the exhalation (prāṇa) stops and the inhalation (apāna) begins. The sandhyā between the cycles of waning and waxing is half a lunar day (tithi), which is about eleven to twelve hours.’ Two half rithis on either side make a junction (sandhyā) of one tithi.'! This is the transcendent (ūrdhvaga) sixteenth tithi. When all the tithis of the Moon have been consumed by the gods (the Sun and stars externally, and the senses internally), there is a remaining transcendental portion personified as a goddess. She is śeṣa: the remaining, the last, that which is spared or saved, the end, the result, the conclusion. And She is hidden at the end of the cycle of the waning Moon. All the other portions come and go, but the transcendental sixteenth portion is always there, hidden, offering nourishment to all things (viśva). She is called Amā, ‘together’, as she is in union. The fifteen tithi, Amāvāsyā, is where Amā (togetherness) resides (vāsya). The gods are said to drink the other fifteen rithi but the final portion known as Amā, is the secret remainder within the End of 
 
@@ -262,7 +262,7 @@ ready to merge with it. The dark moon is the time to worship Kālī, the dark mo
 
 The Full Moon is associated with Lakṣmī, the complete \[illegible\] that is. Sakti in all the abundance of her forms. The Full Moon is the opposition of the Sun and Moon; they stand apart in full view, like a husband and wife at a special event. Viṣṇu and Lakṣmī live in the world with complete devotion for each other. They represent the balance of manifest creation, the appreciation of life, and celebration of love. 
 
-In this way, Tantric Vaiṣṇavas see Śiva as relating to the Sun and its path, whereas Sakti is the New Moon. \[illegible\] is the Moon and his path, whereas 
+In this way, Tantric Vaiṣṇavas see Śiva as relating to the Sun and its path, whereas Sakti is the New Moon. Viṣṇu is the Moon and his path, whereas 
 
 Śakti is the full moon. 
 
@@ -425,11 +425,11 @@ The varying lengths of the fithis due to the moons elliptical orbit
 
 Kṣaya and Adhika Tithi 
 
-A normal tithi begins on one day and another \[illegible\] begins on the following day. When the Moon is moving fast and the rithi is completed in less than 24 hours, it can start after sunrise and finish before sunrise the next day. A tithi during which the Sun does not rise is expunged and is called a \[illegible\] tithi. The ancient lunar civil calendar, which named the days after the tithi at sunrise, would literally skip a day.[^624] When the Moon is moving slowly and the tithi is over 24 hours, it can start just before sunrise and finish after sunrise the next day. A tithi on which the Sun rises twice is said to increase (vṛddhi), and is sometimes called an extra (adhika) tithi. When the Full Moon falls near the perigee, and the tithi of the Full Moon falls on the same day as the 14" tithi, it is said to be ‘conjoined to the Full Moon’ (yuktapūrnimā). According to Indian tradition, a day where no zithi ends (i.e. a vṛddhatithi) or on which two tithis end (i.e. a kṣayatithi) is regarded as inauspicious. These tithis are most likely to occur during the perigee or apogee of the Moon, which is another indication that these points are not auspicious. 
+A normal tithi begins on one day and another tithi begins on the following day. When the Moon is moving fast and the rithi is completed in less than 24 hours, it can start after sunrise and finish before sunrise the next day. A tithi during which the Sun does not rise is expunged and is called a kṣaya tithi. The ancient lunar civil calendar, which named the days after the tithi at sunrise, would literally skip a day.[^624] When the Moon is moving slowly and the tithi is over 24 hours, it can start just before sunrise and finish after sunrise the next day. A tithi on which the Sun rises twice is said to increase (vṛddhi), and is sometimes called an extra (adhika) tithi. When the Full Moon falls near the perigee, and the tithi of the Full Moon falls on the same day as the 14" tithi, it is said to be ‘conjoined to the Full Moon’ (yuktapūrnimā). According to Indian tradition, a day where no zithi ends (i.e. a vṛddhatithi) or on which two tithis end (i.e. a kṣayatithi) is regarded as inauspicious. These tithis are most likely to occur during the perigee or apogee of the Moon, which is another indication that these points are not auspicious. 
 
 A tithi ends and another begins at the same moment on all parts of the earth’s surface, but sunrise time varies for each place. In this way, the tithi at sunrise will not be the same in all places and a vṛddha or kṣaya tithi will not be on the same day everywhere on the planet. The term for kṣayatithi used by Abhinavagupta in TĀ 6/109 is a ‘vanished rith? 
 
-(tithicheda). He calls a vanished rithi a debt (rna), and a vṛddhatithi is called a gift (dhana). He compares the fast-moving Moon of a kṣayatithi to coughing \[illegible\] and the slow-moving Moon of a vṛddhatithi to yawning (śvasana). Inhalation is symbolized by a night lasting 12 hours, whereas exhalation is a 12-hour day. Inhalation is waxing fortnight of 15 rithis and exhalation is the waning fortnight of 15 rithis. This is the smooth, regular rhythm of the Sun and Moon, Day and Night in the flow of the breath. Coughing and yawning break this rhythm up and so may not be considered auspicious, the former representing sickness and the latter fatigue. However, expelling the breath (recana) and breath retention (rodhana) may also be yaugika practices and so represent in this perspective also the unnatural states these \[illegible\] and vṛddha tithis create. 
+(tithicheda). He calls a vanished rithi a debt (rna), and a vṛddhatithi is called a gift (dhana). He compares the fast-moving Moon of a kṣayatithi to coughing \[illegible\] and the slow-moving Moon of a vṛddhatithi to yawning (śvasana). Inhalation is symbolized by a night lasting 12 hours, whereas exhalation is a 12-hour day. Inhalation is waxing fortnight of 15 rithis and exhalation is the waning fortnight of 15 rithis. This is the smooth, regular rhythm of the Sun and Moon, Day and Night in the flow of the breath. Coughing and yawning break this rhythm up and so may not be considered auspicious, the former representing sickness and the latter fatigue. However, expelling the breath (recana) and breath retention (rodhana) may also be yaugika practices and so represent in this perspective also the unnatural states these kṣaya and vṛddha tithis create. 
 
 Super Moons 
 
@@ -445,7 +445,7 @@ The year is measured into the cycle of the breath starting from the Winter Solst
 
 In the image below, the Sun rises at 30° Southeast on the winter solstice." At the equinox it rises directly at 90° East. On the summer solstice it rises at 60° northeast. Each day of the northerly course (Uttarāyanṇa), it rises more and more towards the north. After the summer solstice, the Sun begins to rise more towards the south each day which creates the southernly course dakṣiṇāyana)."\* 
 
-(daksināyana) 
+(dakṣiṇāyana) 
 
 “Movement of the Sun” 
 
@@ -559,7 +559,7 @@ There is a cycle of five Jovian years that makes a sixty-year cycle. This cycle 
 
 *[p. 520]* ^pg535
 
-exhalation. The measurement of 60 vighatikās that create one ghaṭikā of 24 minutes, is the same as the Jovian year cycle created from the great cycles. This unit therefore interconnects the smaller unit of seconds to the larger unit of years, creating a larger integration with the entire cycle. The synchronicity of the units of time underlies a frequency to the pulsation of time.'\*' The number of breaths (prānṇa) in a day (21,600) is the same as the number of days (tithi) in the 60 years cycle (360 x 60= 21.600). The ghaṭikā, tithi and year are not arbitrary units of time All three are related to the 60-year cycle of the movement of Jupiter and Saturn. 
+exhalation. The measurement of 60 vighaṭikās that create one ghaṭikā of 24 minutes, is the same as the Jovian year cycle created from the great cycles. This unit therefore interconnects the smaller unit of seconds to the larger unit of years, creating a larger integration with the entire cycle. The synchronicity of the units of time underlies a frequency to the pulsation of time.'\*' The number of breaths (prānṇa) in a day (21,600) is the same as the number of days (tithi) in the 60 years cycle (360 x 60= 21.600). The ghaṭikā, tithi and year are not arbitrary units of time All three are related to the 60-year cycle of the movement of Jupiter and Saturn. 
 
 Bṛhaspati’s Sańvatsara Cakra 
 
@@ -569,7 +569,7 @@ economic conditions."
 
 In India there are three main ways, in different places in the subcontinent, that Jovian years have been calculated." In northern India, they are named according to the Jovian year that ends at the beginning of the solar year. According to this calculation, it is possible to have a reduced (kṣaya) Jovian year. In Eastern India, they refer to the Jovian year that has been completed at the actual moment one is dealing with. In Southern India, it is merely a solar year with sixty names, with no relation to Jupiter. In this way, the word ‘samvatsara’ can also mean a year in a general sense, as it does in texts like the Śatapatabrahmana. It is often called a saṁvat in common usage. The Jovian year is also sometimes named for the sign of the zodiac which it is in, sometimes after the lunar month associated with that sign, and sometimes it is calculated according to the helical rising of Jupiter, that is, its reappearance after its conjunction with the Sun. There is the calculation that starts from when 
 
-634?\. Tn this introduction, the primary focus is the frequency of the prāṇa vāyu. In the final verses of Chapter Six, these same synchronicity of units of time are applied in different ways for each of the five vāyus: prāna, apāna, udāna, samāna, and vyāna. See TĀ 6/209.
+634?\. Tn this introduction, the primary focus is the frequency of the prāṇa vāyu. In the final verses of Chapter Six, these same synchronicity of units of time are applied in different ways for each of the five vāyus: prāṇa, apāna, udāna, samāna, and vyāna. See TĀ 6/209.
 
 635?\. The interpretations of saṁvatsaras are given in Brihat Sarrhita, Jātaka Pārijata, as well as Mānasāgari.
 
@@ -956,7 +956,7 @@ In a conscious Universe, creation and destruction are like the waking and sleepi
 
 Tantrāloka refers to the aeons of time of the highest principles (tattva). On the day of Īśvara, the Sound of the vital breath (nāda) emits the universe (6/158). This followed by the day of Sadāśiva, in which as the Point (bindu) it is 
 
-650?\. Visnu Purāṇa 1.5.59-60 and TĀ 6/142-146.
+650?\. Visṇu Purāṇa 1.5.59-60 and TĀ 6/142-146.
 
 651?\. catvāri śrìgā trayo asya pādā dve \[illegible\] sapta hastāso asya | tridhā baddho vṛṣabho roravīti maho devo martyām \[illegible\] viveśa ॥ Rgveda 4/58.3
 

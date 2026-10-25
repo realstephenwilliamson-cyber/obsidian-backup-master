@@ -6,7 +6,7 @@ page_range: 51–73
 aliases:
   - Goddess Traditions 06 - 3. Varieties of melaka in the Jayadrathayāmala - some reflections on the terms haṭha and p
 ---
-[p. 51]
+[p. 51] ^pg51
 
 # 3 Varieties of *melaka* in the *Jayadrathayāmala*
 

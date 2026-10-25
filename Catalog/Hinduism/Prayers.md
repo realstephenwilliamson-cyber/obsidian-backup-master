@@ -17,8 +17,7 @@ language:
   - English
 pages: 92
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[prayers.pdf]]"
 aliases: []

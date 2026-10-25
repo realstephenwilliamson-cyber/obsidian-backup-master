@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 42
 verses: 15
-page_range:
-  - 643
-  - 644
+page_range: "643–644"
 aliases:
   - "BCP Psalm 42"
   - "BCP 643"
@@ -57,7 +55,7 @@ all your rapids and floods have gone over me. ^42-9
 in the night season his song is with me,  
 a prayer to the God of my life. ^42-10
 
-[p. 644]
+[p. 644] ^pg644
 
 **42:11** I will say to the God of my strength,  
 "Why have you forgotten me? \*  

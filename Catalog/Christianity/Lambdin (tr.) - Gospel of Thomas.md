@@ -18,7 +18,7 @@ language:
 pages: 12
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Gospel of Thomas Lambdin.pdf]]"
   - "[[Library/Christianity/Gospel of Thomas (Lambdin)]]"

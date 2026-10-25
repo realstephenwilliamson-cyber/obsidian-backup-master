@@ -17,8 +17,7 @@ language:
   - English
 pages: 117
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Sanderson - The Saiva Religion among the Khmers I (2003).pdf]]"
   - "[[Library/Trika/The Saiva Religion among the Khmers (Sanderson)/The Saiva Religion among the Khmers (Sanderson)]]"

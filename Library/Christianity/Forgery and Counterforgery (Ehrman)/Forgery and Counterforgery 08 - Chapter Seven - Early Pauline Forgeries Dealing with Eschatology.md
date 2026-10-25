@@ -6,7 +6,7 @@ page_range: "155–190"
 ---
 [[Forgery and Counterforgery 07 - Chapter Six - Introduction to Forgery and Counterforgery in Early Christian Polemics|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 09 - Chapter Eight - Later Forgeries Dealing with Eschatology|next →]]
 
-[p. 155]
+[p. 155] ^pg155
 
 ## Chapter Seven: Early Pauline Forgeries Dealing with Eschatology
 
@@ -143,7 +143,7 @@ In order to make his handiwork more effective, the author employed several of th
 
 The letter to the Colossians is sometimes taken to be the earliest surviving Pauline pseudepigraphon, and thus the earliest Christian forgery of any kind.[^33] But there is obviously no way to say for certain: we do not know who wrote the letter, to whom, or where. As a result, it is virtually impossible to establish its relative chronology in relation, say, to 2 Thessalonians. It is also difficult—again, well nigh impossible—to identify with any level of certainty the adversaries who are being opposed, although I will argue below that they are probably to be taken as real, not imaginary. What is most clear is that the author of the book is using Paul’s authority to attack them. Moreover, in doing so, the author has been more or less compelled, given the nature of the false teaching, to embrace eschatological views that stand at odds with Paul’s. As we will see, eschatology is not a peripheral issue in the letter. It constitutes one of its central features.
 
-[p. 172]
+[p. 172] ^pg172
 
 #### *Views of Authorship*
 
@@ -197,7 +197,7 @@ Other differences from Paul may not be as striking but bear noting as contributi
 
 Given Paul’s ability to mix metaphor otherwise, possibly not too much weight should be placed on the fact that Christ here is described as the “head of the body” [p. 178] rather than the “body” itself (1:18), though the usage does give one pause.[^44] When one considers, however, how Paul imagines the life “of the body” the differences are even more striking. The Haustafel of 3:18–4:1 has long been thought of as non-Pauline, and for reasons related to the realized eschatology already noted. In particular, this domestication of Paul in his embrace of family ideals stands at odds with Paul’s firmly stated preference, for himself and others, for celibacy. Nowhere in Paul’s letters do we find such a celebration of standard Greco-Roman ethics; on the contrary, Paul insisted on the superiority of the ascetic life free from marriage (1 Corinthians 7). This, indeed, was the appropriate response to a world that was in the process of “passing away.” Here in Colossians, on the other hand, the world is not passing away (there is no imminent crisis); it is here for the long haul, and so are the Christians who make up Christ’s body in it.[^45] As a result, they need to adopt behavior appropriate for the long run. Relations to those living outside the community are especially important, not to inform them of the “impending crisis” but to maintain a proper upstanding relationship. In short, this is written by someone who knows the church has been here and will be here for the long run. There is no imminent expectation of the coming end.[^46] On the basis of all these considerations,[^47] it is clear that with Colossians we are not dealing with a letter of Paul, but a letter of someone wanting his readers to think he is Paul.[^48]
 
-[p. 179]
+[p. 179] ^pg179
 
 #### *The Function of the Forgery: The Question of the Opponents*
 
@@ -259,7 +259,7 @@ There are, in short, numerous imponderable difficulties in thinking the letter t
 
 How can a commentator like E. Best claim that this author was not trying to deceive his readers into thinking that he was actually Paul?[^70] The author repeatedly goes out of his way to claim he was Paul. But he was not Paul. He was a follower of Paul, urging a non-Pauline set of theological views, writing later. Critics at the time would have labeled the book a ![[forgery-counterforgery-00176.jpeg]] or a ![[forgery-counterforgery-00177.jpeg]]—creating an obvious irony, given the stress on the importance of “truth” found throughout the book (1:13; 4:15, 21; 5:9). Particularly piquant are 4:25 (“let everyone speak the truth with his neighbor”) and 6:14 (“gird your loins with truth”), given the circumstances of the writing. Other critics have more sophisticated suggestions to absolve the author of his (from an ancient perspective) moral dilemma, but they too often appear to involve special pleading.[^71]
 
-[p. 189]
+[p. 189] ^pg189
 
 #### *The Polemics of the Letter*
 

@@ -17,8 +17,7 @@ language:
   - English
 pages: 353
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Lee - Deceptive Majority (2021).pdf]]"
   - "[[Library/Hinduism/Deceptive Majority - Dalits, Hinduism, and Underground (Lee)/Deceptive Majority - Dalits, Hinduism, and Underground (Lee)]]"

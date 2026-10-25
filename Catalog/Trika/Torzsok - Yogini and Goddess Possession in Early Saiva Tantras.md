@@ -18,8 +18,7 @@ language:
   - English
 pages: 17
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Torzsok - Yogini and Goddess Possession in Early Saiva Tantras (2010).pdf]]"
   - "[[Library/Trika/Yogini and Goddess Possession in Early Saiva Tantras (Torzsok)]]"

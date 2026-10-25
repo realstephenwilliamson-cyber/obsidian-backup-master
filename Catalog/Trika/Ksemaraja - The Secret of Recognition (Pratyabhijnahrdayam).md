@@ -21,8 +21,7 @@ language:
   - English
 pages: 225
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[sen-secret-of-recognition-pratyabhijnahrdaya.pdf]]"
   - "[[Library/Trika/The Secret of Recognition (Pratyabhijnahrdayam) (Ksemaraja)/The Secret of Recognition (Pratyabhijnahrdayam) (Ksemaraja)]]"
@@ -40,7 +39,7 @@ await dv.view("Templates/Views/open-pdf")
 
 Sanskrit text edited by the Adyar Library staff under G. Srinivasa Murti; English translation by Leidecker from Baer's German; with a comparative note on the Pratyabhijñā and Śaiva Siddhānta by S. S. Suryanarayana Sastri. Title page: Adyar Library, 1938 (preface dated 15 July 1938).
 
-**Text layer** (5 Oct 2026): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
+**Text layer** (5 Oct 2026; replaced on 15 Oct, below): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
 
 **Checked against the scan** on 4 Oct 2026 (title page and opening pages); properties updated from it.
 

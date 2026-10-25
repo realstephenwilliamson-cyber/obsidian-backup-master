@@ -651,7 +651,7 @@ mentioned in the text, it means wild flowers. By "according to rule" is meant th
 
 *[p. 386]* ^pg382
 
-and giving of a name, with the limb vidyās[^33] (and) individual oblations; by consecrating with an aspersion of drops from the water vessel the two large and little ladles[^34] (with their Siva-Śakti nature) placed face down on the Darbha grass to one's left, and the materials for koma - the clarified butter etc.; by offering in full[^35] for the completion of the sacred rite (and) dismissing the mother of Fire;[^36] by worshipping the mantra cakražł[^37] in the fire of Desire (and) by visualising the entire sacrificial pit as the face of Fire.[^38] It means, not having violated the procedure prescribed in tantras of all kinds.[^39]
+and giving of a name, with the limb vidyās[^33] (and) individual oblations; by consecrating with an aspersion of drops from the water vessel the two large and little ladles[^34] (with their Siva-Śakti nature) placed face down on the Darbha grass to one's left, and the materials for koma - the clarified butter etc.; by offering in full[^35] for the completion of the sacred rite (and) dismissing the mother of Fire;[^36] by worshipping the mantra cakra[^37] in the fire of Desire (and) by visualising the entire sacrificial pit as the face of Fire.[^38] It means, not having violated the procedure prescribed in tantras of all kinds.[^39]
 
 (The Lord) discusses what occurs when (homa) is performed in this way:
 

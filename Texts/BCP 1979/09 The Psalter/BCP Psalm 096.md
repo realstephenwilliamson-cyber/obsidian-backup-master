@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 96
 verses: 13
-page_range:
-  - 726
-  - 726
+page_range: "726"
 aliases:
   - "BCP Psalm 96"
   - "BCP 726"
@@ -34,7 +32,7 @@ and his wonders among all peoples. ^96-3
 **96:4** For great is the LORD and greatly to be praised; \*  
 he is more to be feared than all gods. ^96-4
 
-[p. 726]
+[p. 726] ^pg726
 
 **96:5** As for all the gods of the nations, they are but idols; \*  
 but it is the LORD who made the heavens. ^96-5

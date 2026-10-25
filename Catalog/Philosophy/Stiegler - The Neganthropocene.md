@@ -19,8 +19,7 @@ language:
   - English
 pages: 349
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Stiegler_2018_The-Neganthropocene.pdf]]"
   - "[[Library/Philosophy/The Neganthropocene (Stiegler)/The Neganthropocene (Stiegler)]]"

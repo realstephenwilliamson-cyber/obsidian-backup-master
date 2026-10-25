@@ -4,7 +4,7 @@ book: "[[Bhagavad Gita (Lombardo, Davis)]]"
 order: 22
 page_range: "118–119"
 ---
-[p. 118]
+[p. 118] ^pg118
 
 SUGGESTIONS FOR FURTHER READING
 

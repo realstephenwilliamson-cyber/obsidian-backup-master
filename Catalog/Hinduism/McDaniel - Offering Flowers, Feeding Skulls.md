@@ -17,8 +17,7 @@ language:
   - English
 pages: 367
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[McDaniel_June_-_Offering Flowers,_Feeding_Skulls__Popular_Goddess_Worship_in_West_Bengal.pdf]]"
 aliases:

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 79
 verses: 13
-page_range:
-  - 700
-  - 702
+page_range: "700–702"
 aliases:
   - "BCP Psalm 79"
   - "BCP 702"
@@ -51,7 +49,7 @@ for we have been brought very low. ^79-8
 **79:9** Help us, O God our Savior, for the glory of your Name; \*  
 deliver us and forgive us our sins, for your Name's sake. ^79-9
 
-[p. 702]
+[p. 702] ^pg702
 
 **79:10** Why should the heathen say, "Where is their God?" \*  
 Let it be known among the heathen and in our sight  

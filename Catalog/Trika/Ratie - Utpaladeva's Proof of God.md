@@ -19,8 +19,7 @@ language:
   - English
 pages: 44
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Ratie - Utpaladeva's Proof of God, On the Purpose of the Isvarasiddhi.pdf]]"
   - "[[Library/Trika/Utpaladeva's Proof of God (Ratie)/Utpaladeva's Proof of God (Ratie)]]"

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 51
 verses: 20
-page_range:
-  - 657
-  - 657
+page_range: "657"
 aliases:
   - "BCP Psalm 51"
   - "BCP 657"
@@ -52,7 +50,7 @@ that the body you have broken may rejoice. ^51-9
 **51:10** Hide your face from my sins \*  
 and blot out all my iniquities. ^51-10
 
-[p. 657]
+[p. 657] ^pg657
 
 **51:11** Create in me a clean heart, O God, \*  
 and renew a right spirit within me. ^51-11

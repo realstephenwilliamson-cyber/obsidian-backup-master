@@ -17,8 +17,7 @@ language:
   - English
 pages: 448
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Sanskrit/Ruppel/A. M. Ruppel - The Cambridge Introduction to Sanskrit-Cambridge University Press (2017).pdf]]"
   - "[[The Cambridge Introduction to Sanskrit (Ruppel)]]"

@@ -40,14 +40,14 @@ abhicāre ca mantrāṇnām namaskārādijātayaḥ |
 
 1\) NAMAH, 2) SVĀHĀ, 3) VAUṢAṬṬ, 4) HUM, 5) VAṢAṬṬ, and 6) PHAT are the (six) classes \[illegible\] (of invocations). Of that nature, they are 
 
-103\. ĀM and ĪM are the syllables of the last two guardians of the quarters, that is, Prajāpati (i.e. Brahmā) (zenith) and Viṣnu (nadir), respectively.
+103\. ĀM and ĪM are the syllables of the last two guardians of the quarters, that is, Prajāpati (i.e. Brahmā) (zenith) and Viṣṇu (nadir), respectively.
 
-104\. MV 3/67. svarāv ādyatṛfīyau tu vācakau padmacakrayoḥ ॥ 67cd. Read as in the KSTS edition, this line literally says: ‘The first and third vowel (A, I) denote (their weapons), the lotus and the discus.’ The reading is the same according to Jayaratha. This line literally says: “The first and third vowel (A, 1) denote (their weapons), the lotus and the discus.’ Visnu is represented by ÎM and Brahmā by ĀM. If we accept this reading as it stands, that would mean that their respective weapons would be denoted by AM and IM, respectively. However, the weapons of all the other guardians are represented by their corresponding short vowels. Thus, for example, Indra is LĀM and his weapon is LAM. There seems to be no reason for this anomaly. Accordingly, we may reverse the order of the words in the text, which we can easily do without compromising the metre, to read cakrapadmayoḥ instead of padmacakrayoḥ. Or else assume that the stated order does not correspond and assign AM to the weapon of Prajāpati, who is ĀM, and IM to that of Viṣṇu, who is ĪM.
+104\. MV 3/67. svarāv ādyatṛfīyau tu vācakau padmacakrayoḥ ॥ 67cd. Read as in the KSTS edition, this line literally says: ‘The first and third vowel (A, I) denote (their weapons), the lotus and the discus.’ The reading is the same according to Jayaratha. This line literally says: “The first and third vowel (A, 1) denote (their weapons), the lotus and the discus.’ Viṣṇu is represented by ÎM and Brahmā by ĀM. If we accept this reading as it stands, that would mean that their respective weapons would be denoted by AM and IM, respectively. However, the weapons of all the other guardians are represented by their corresponding short vowels. Thus, for example, Indra is LĀM and his weapon is LAM. There seems to be no reason for this anomaly. Accordingly, we may reverse the order of the words in the text, which we can easily do without compromising the metre, to read cakrapadmayoḥ instead of padmacakrayoḥ. Or else assume that the stated order does not correspond and assign AM to the weapon of Prajāpati, who is ĀM, and IM to that of Viṣṇu, who is ĪM.
 
 
 *[p. 34]* ^pg52
 
-in the six (limbs), (respectively,) in due order, and the (six types of) rites (karman). The classes NAMAḤ etc. of Mantras (are used for) 1) the repetition of Mantra (japa - NAMAH), 2) the offering of oblation (homa —SVĀHĀ), 3) nourishment \[illegible\] ~ VAUṢAT),\* 4) expulsion (samuccāṭa ~ HUM), 5) pacification (śāntika ~ VAṢATṬ) and 6) black magic (abhicāra - 
+in the six (limbs), (respectively,) in due order, and the (six types of) rites (karman). The classes NAMAḤ etc. of Mantras (are used for) 1) the repetition of Mantra (japa - NAMAH), 2) the offering of oblation (homa —SVĀHĀ), 3) nourishment (apyāya ~ VAUṢAT),\* 4) expulsion (samuccāṭa ~ HUM), 5) pacification (śāntika ~ VAṢATṬ) and 6) black magic (abhicāra - 
 
 PHAT). (43cd-45ab) 
 
@@ -118,12 +118,12 @@ anena prānitāḥ sarve'"' dadate vāñchitan phalam ॥ 48 ॥
 
 *[p. 36]* ^pg54
 
-sadbhāvaḥ paramo hy eṣa mātRnārnṁ bhairavasya ca |
+sadbhāvaḥ paramo hy eṣa mātRnāṁ bhairavasya ca |
 tasmād enam japen mantrī ya icchet siddhim uttamām || 49 ॥
 rudraśaktisamāveśo nityam atra pratiṣthitaḥ |
 yasmād eṣā parā śaktir bhedenānyena kīrtitā ॥ 50 ॥
-yāvatyaḥ siddhayas tantre tāh sarvāḥ kurute tv iyam |
-aṅgavaktrāni cāpy asyāḥ prāgvat svaraniyogataḥ |l 51 ॥ 
+yāvatyaḥ siddhayas tantre tāḥ sarvāḥ kurute tv iyam |
+aṅgavaktrāni cāpy asyāḥ prāgvat svaraniyogataḥ ॥ 51 ॥ 
 
 \[illegible\] Living Being (S) within the capsule of (the two) Vital Breaths (H), shining like the Fire of Time (R), the Left Foot (of the goddess) (PH), intensely energized, its head adorned with the Point (M) and linked with the Right Knee \[illegible\] (HSHPHREM). Venerated by all the hosts of Mothers (mātr), this (Mantra) gives life to them \[illegible\] and they bestow the fruit (one) desires. This is the supreme essence of the Mothers (Mātṛsadbhāva) and of Bhairava. Therefore, it is this that he who recites Mantra, who aspires to the most excellent accomplishment (of liberation), should repeatedly recite. The penetration of Rudra’s power (rudraśaktisamāveśa) is always established here (in it), for it is said to be the Supreme Power (Parā), in another form.” As many as are the accomplishments (siddhi) 
 
@@ -133,7 +133,7 @@ aṅgavaktrāni cāpy asyāḥ prāgvat svaraniyogataḥ |l 51 ॥
 
 114\. For 30/48b sarvamātṛganārcitaḥ ‘venerated by all the host of Mothers’, MV 8/40b reads sarvamātṛgaṇānvitaḥ ‘accompanied by all the hosts of Mothers’.
 
-115\. tandard practice for a Tantric system to preface its mantras with the root seed-syllable of the main deity. The Mantras are thereby vitalized, ‘given life’, and so, alive, function effectively. This would be the meaning if we retain the reading in the printed edition, which is the masculine ‘sarve’. However, the MV reads the feminine sarvāḥ, which refers to the Mothers. This makes sense for a mantra called ‘the Essence of the Mothers’ - mātrsadbhāva. It is possible that Abhinava changed the gender to leave the understanding of ‘all’ as referring to all Mantras, and by a play on words, perceiving subjects \[illegible\] plays on the double meaning of the word mātr as ‘mother’ and ‘subject’. Concerning this play on words, see above, note to 3/68cd-70 (69-7 lab). The Essence of the Mothers is taught in the MV (8/39-42ab), and so it is a Trika mantra, but it happens to be similar to Krama Mantras. See above, note 3,228.
+115\. tandard practice for a Tantric system to preface its mantras with the root seed-syllable of the main deity. The Mantras are thereby vitalized, ‘given life’, and so, alive, function effectively. This would be the meaning if we retain the reading in the printed edition, which is the masculine ‘sarve’. However, the MV reads the feminine sarvāḥ, which refers to the Mothers. This makes sense for a mantra called ‘the Essence of the Mothers’ - mātrsadbhāva. It is possible that Abhinava changed the gender to leave the understanding of ‘all’ as referring to all Mantras, and by a play on words, perceiving subjects (mātṛ) plays on the double meaning of the word mātr as ‘mother’ and ‘subject’. Concerning this play on words, see above, note to 3/68cd-70 (69-7 lab). The Essence of the Mothers is taught in the MV (8/39-42ab), and so it is a Trika mantra, but it happens to be similar to Krama Mantras. See above, note 3,228.
 
 116\. MV 8/41b reads paripaṭhyate — ‘is taught (in the scriptures)” for bhairavasya ca ‘and of Bhairava’. This variant suggests that Abhinava did actually read sarvāḥ all (the Mothers), as noted in the previous note. Otherwise, if he read ‘all’ in general, there would have been no need to specify Bhairava also. The extraction of this mantra is a direct citation of the MV 8/39-40ab; clearly HSHPHREM is the form of Mātṛsadbhāva taught in the MV. Abhinava tacitly takes this to be the mono-syllabic Vidyā of Kālasaṁkarṣiṇī, although she is entirely absent in the MV. This is the form associated with Parā. See above, note 3,228 ad 3/68cd-70 (69-71ab). We can well suppose that this was a wonderful coincidence for Abhinava as a practitioner. It allowed him to worship the highest Goddess of both the most elevated schools together.
 
@@ -164,7 +164,7 @@ nābhikanṭhau marudrudrau visargaḥ satrisūlakaḥ || 52 ॥
 sarvayoginicakrāṇām adhipo ‘yam udāhṛtaḥ |
 asyāpy uccāraṇād eva saṁvittiḥ syāt paroditā ॥ 53 ॥ 
 
-118\. For 51b tāh sarvāḥ kurute tv iyam \*As many as are the accomplishments (siddhi) (promised) in the Tantra), this (Vidyā) generates them all.” MV 8/43b reads: sarvāḥ syur anayā kṛtāḥ ‘all of them are generated by this (Vidyā).” Note that here the word ‘tantra’ appears to be used in the manner it is in modern western parlance. We may circumvent that dubious usage by taking tantre ‘in the Tantra’ to mean ‘in this Tantra’, or translate as ‘in the Tantras’, taking the singular to be a collective noun.
+118\. For 51b tāḥ sarvāḥ kurute tv iyam \*As many as are the accomplishments (siddhi) (promised) in the Tantra), this (Vidyā) generates them all.” MV 8/43b reads: sarvāḥ syur anayā kṛtāḥ ‘all of them are generated by this (Vidyā).” Note that here the word ‘tantra’ appears to be used in the manner it is in modern western parlance. We may circumvent that dubious usage by taking tantre ‘in the Tantra’ to mean ‘in this Tantra’, or translate as ‘in the Tantras’, taking the singular to be a collective noun.
 
 119\. See above, 30/10-1 lab and 15-16ab. For 51cd aṅgavaktrāni cāpyasyāḥ prāgvatsvaraniyogataḥ ‘Her limbs and faces are formed by applying the vowels in the same way as (explained) previously’, that is, as explained with respect to other Mantras (see above, note 30,26). MV 8/43cd reads aṅgāni kalpayed asyāḥ pūrvavat svarabhedataḥ ‘Her limbs should be formed as before in conjunction with the vowels.”
 
@@ -213,7 +213,7 @@ arisen from the Supreme beyond the Supreme.’” (54-55ab)
 
 125\. is Parātītā - Beyond Parā.
 
-126\. section of the Devyāyāmala, as Abhinava seems to be implying? Sanderson (2007b: 279-280) has identified this passage as also being found in the Devīdvyardhaśatika and two other sources, namely, the Siddhakhanda of the Manthānabhairavatantra and the Jayadrathayāmalaprastāramantrasaigraha. A line omitted at the beginning has been added at Sanderson’s suggestion. My edition reads: varāṁgavihagaṁ sūraṁ\* puñjaṁ puruṣam eva ca || 86 || ? \[illegible\] sarvagataṁ \[k: sarvā-\] caiva dārunṇākrānta sundari | tṛtīyārghari (Sanderson -ādyaṁ) turaṁgaṁ ca dākinīmarmasaṁyutam || 87 ॥ pavanaṁ navame yuktarn \[kh: ?\] tejas tejahsamanvitam (Sanderson: tejagṛhe yutam) \[kh: \[illegible\] | lakṣmīveśmaṁ tu udadhir ekatra \[k: udadhi ekatra\] samayī \[k, kh: -yo\] japet (S: samayayojitam) 118811 somāt \[k, kh: somā\] saptamakoddhṛtya navavarṇā \[k: na \* varnāḥ, kh: -varnāh\] kuleśvari \\ \*Sanderson; Read krūrar for sūra Text in the edition of the TĀ: kālaṁ sarvagataṁ caiva dāraṇākrāntamastakam | tṛtīyādyari taraṁgaṁ ca dākinīmarmasaīhyutam || pavanari navame yuktarn tasmātsaptamameyutam | lakṣmībījaṁ tatoddhṛtya udadhīśasamanvitam || somāt saptamam uddhṛtya navavarnā kuleśvarī |
+126\. section of the Devyāyāmala, as Abhinava seems to be implying? Sanderson (2007b: 279-280) has identified this passage as also being found in the Devīdvyardhaśatika and two other sources, namely, the Siddhakhanda of the Manthānabhairavatantra and the Jayadrathayāmalaprastāramantrasaigraha. A line omitted at the beginning has been added at Sanderson’s suggestion. My edition reads: varāṁgavihagaṁ sūraṁ\* puñjaṁ puruṣam eva ca || 86 || ? \[illegible\] sarvagataṁ \[k: sarvā-\] caiva dārunṇākrānta sundari | tṛtīyārghari (Sanderson -ādyaṁ) turaṁgaṁ ca dākinīmarmasaṁyutam || 87 ॥ pavanaṁ navame yuktaṁ \[kh: ?\] tejas tejahsamanvitam (Sanderson: tejagṛhe yutam) \[kh: \[illegible\] | lakṣmīveśmaṁ tu udadhir ekatra \[k: udadhi ekatra\] samayī \[k, kh: -yo\] japet (S: samayayojitam) 118811 somāt \[k, kh: somā\] saptamakoddhṛtya navavarṇā \[k: na \* varnāḥ, kh: -varnāh\] kuleśvari \\ \*Sanderson; Read krūrar for sūra Text in the edition of the TĀ: kālaṁ sarvagataṁ caiva dāraṇākrāntamastakam | tṛtīyādyari taraṁgaṁ ca dākinīmarmasaīhyutam || pavanari navame yuktaṁ tasmātsaptamameyutam | lakṣmībījaṁ tatoddhṛtya udadhīśasamanvitam || somāt saptamam uddhṛtya navavarnā kuleśvarī |
 
 
 *[p. 40]* ^pg58
@@ -234,7 +234,7 @@ The Razor सुधाच्छेदकषण्ठाद्र्बीजं 
 एवं प्रत्ययमालोच्य ृत्युजिट् ध्यानमाश्रयेत् ।
 नैनां समुच्चरेदेवि य इच्छेदीर्घजीवितम् ॥ ५७ ॥
 
-sudhācchedakaṣanṭthādyair bījam chedakam asvaram II 55 Il adhyardhārṇā kālarātriḥ kṣurikā mālinīmate |
+sudhācchedakaṣanṭthādyair bījam chedakam asvaram || 55 || adhyardhārṇā kālarātriḥ kṣurikā mālinīmate |
 śatāvartanayā hy asyā jāyate mūrdhni vedanā ॥ 56 ॥
 evar pratyayam ālocya mṛtyujiddhyānam āśrayet |
 nainām samuccared devi ya icched dīrghajīvitam ॥ 57 ॥ 
@@ -258,9 +258,9 @@ itt” (55ed-57)
 
 #### Viveka on 30.55–57
 
-Sudhā (Wine) is S. Chedaka (the Divider) is K. The first of the neuter vowels is r. Chedaka (the Divider) without a vowel is the letter K without a vowel. In this way (we arrive at) SKrK. That is said (in the Mālinīvijayottara): 
+Sudhā (Wine) is S. Chedaka (the Divider) is K. The first of the neuter vowels is r. Chedaka (the Divider) without a vowel is the letter K without a vowel. In this way (we arrive at) SKṛK. That is said (in the Mālinīvijayottara): 
 
-‘Having conjoined the first (letter) of the Garland of the Head (r) with The Living Being (S), mounted on the first Twice Born (K), then place the Twice Born without the Living Being (K) in front (SKrK). This is said to be Kālarātri (the Dark Night), that severs the vital points. O goddess, he who wishes to live a long time should not utter it! By repeating it fifty times one gets a headache. Observing this sign (pratyaya) (of its efficacity, the practitioner) should take recourse to visualizing Mṛtyujit (Śiva, the Conqueror of Death) (to counter its effects). effects 
+‘Having conjoined the first (letter) of the Garland of the Head (r) with The Living Being (S), mounted on the first Twice Born (K), then place the Twice Born without the Living Being (K) in front (SKṛK). This is said to be Kālarātri (the Dark Night), that severs the vital points. O goddess, he who wishes to live a long time should not utter it! By repeating it fifty times one gets a headache. Observing this sign (pratyaya) (of its efficacity, the practitioner) should take recourse to visualizing Mṛtyujit (Śiva, the Conqueror of Death) (to counter its effects). effects 
 
 ### TĀ 30.58
 
@@ -327,9 +327,9 @@ kathitaṁ sarahasyaṁ tu sadyonirvāṇadaṁ param” |
 
 138\. Cf, TS 9/319-320ab: apādatalamūrdhānāntaṁ \[kh: -mūrddhā \* ntar; g: āpādutala-\] smared \[kh: smare\] devar tu vyāpakam | 319ab uccāro hy astrarājasya kartavyaḥ śaktisaṁyutaḥ \[g: sakti-\] 1319 I1 jvalatpāvakasaṁkāśo dhyāyamāno japet sadā |
 
-139\. TS 9/320cd: kuñcanaṁ aṅgulīnāṁ tu kartavyaṁ codanaṁ \[kh: -na\] tataḥ ॥ The following section (TS 9/321-325ab) is summarized in line 6lcd: jānur \[kh: jānu\] cākuñcayet \[kh: cṁkucayet\] paścād ürakau \[kh: -rukau\] tadanantarāt | kaṭiguhyaṁ tato kuñcya nābhisthagrahaṇaṁ \[k, g: -stharn-\] tataḥ ॥ 321 ॥ brahmasthar caiva viṣnusthar rudrasthar \[kh: -stha\] bindumadhyagam \[g: vidu-\] | nādasthari \[kh: -stha\] caiva \[g: ceva\] śaktisthaṁ \[g: sa-\] vyāpinīsthai ca sarvataḥ ॥ 322 ॥ viṣuvasthaṁ ca jñātavyaṁ visargastham anantaram | guruvaktragataṁ \[kh: -ta\] jñātvā mucyate mocayati \[k, kh, g: -yeti\] ca ॥ 323 ॥ evar tyāgagatir |g: -gatih\] jṁātvā śaktyādhārasya suvrate | saktiḥ \[all: śakti\] sūkṣmaparā \[kh: śū-\] jyotsnā \[kh: jyetstā\] paradharmaprabodhanī Il 324 ॥ tam jṁānaṁ paramaṁ devi pāramparyakramāgatam \[kh: pāraparya-\] | ‘Then one should bend the knee, and after that (contract) the thighs. Then, having contracted the genitals and the hips, then that which is located in the naval is laid hold of. Located in Brahmā, located in Viṣnu, located in Rudra, in the middle of the Point, and located in Sound, located in Śakti, located in the Pervasive One in all respects, one should know the one located in the Equinox and that located in emission, and after that, once known the one in the teacher's mouth, he is freed and liberates (others). Having known the process of abandonment in this way, (the yogi attains) the power of the Foundation of Power. O lady of good vows, (it is) subtle and supreme light, that awakens the supreme Dharma. O goddess, that is the supreme knowledge that has come down through the lineage (of teachers). TS 9/321-325ab
+139\. TS 9/320cd: kuñcanaṁ aṅgulīnāṁ tu kartavyaṁ codanaṁ \[kh: -na\] tataḥ ॥ The following section (TS 9/321-325ab) is summarized in line 6lcd: jānur \[kh: jānu\] cākuñcayet \[kh: cṁkucayet\] paścād ürakau \[kh: -rukau\] tadanantarāt | kaṭiguhyaṁ tato kuñcya nābhisthagrahaṇaṁ \[k, g: -sthaṁ-\] tataḥ ॥ 321 ॥ brahmasthar caiva viṣnusthar rudrasthar \[kh: -stha\] bindumadhyagam \[g: vidu-\] | nādasthari \[kh: -stha\] caiva \[g: ceva\] śaktisthaṁ \[g: sa-\] vyāpinīsthai ca sarvataḥ ॥ 322 ॥ viṣuvasthaṁ ca jñātavyaṁ visargastham anantaram | guruvaktragataṁ \[kh: -ta\] jñātvā mucyate mocayati \[k, kh, g: -yeti\] ca ॥ 323 ॥ evar tyāgagatir |g: -gatiḥ\] jṁātvā śaktyādhārasya suvrate | saktiḥ \[all: śakti\] sūkṣmaparā \[kh: śū-\] jyotsnā \[kh: jyetstā\] paradharmaprabodhanī Il 324 ॥ tam jṁānaṁ paramaṁ devi pāramparyakramāgatam \[kh: pāraparya-\] | ‘Then one should bend the knee, and after that (contract) the thighs. Then, having contracted the genitals and the hips, then that which is located in the naval is laid hold of. Located in Brahmā, located in Viṣṇu, located in Rudra, in the middle of the Point, and located in Sound, located in Śakti, located in the Pervasive One in all respects, one should know the one located in the Equinox and that located in emission, and after that, once known the one in the teacher's mouth, he is freed and liberates (others). Having known the process of abandonment in this way, (the yogi attains) the power of the Foundation of Power. O lady of good vows, (it is) subtle and supreme light, that awakens the supreme Dharma. O goddess, that is the supreme knowledge that has come down through the lineage (of teachers). TS 9/321-325ab
 
-140\. CF TS 9/325cd kathitarn sarahasyaṁ tu sadyonirvānadaṁ padam || Read with TS -nirvānadah for -nirvāṇakari.
+140\. CF TS 9/325cd kathitaṁ sarahasyaṁ tu sadyonirvānadaṁ padam || Read with TS -nirvānadah for -nirvāṇakari.
 
 141\. 6000 is derived from TS 9/319ab, 6lab is a direct citation of TS 9/320cd, 6164159 summary of TS 9/321-325ab and 62ab = TS 9/325cd.
 
@@ -356,7 +356,7 @@ The Brahmavidyā
 यया पठितयोत््रम्य जीवो याति निरञ्जनम् ।
 
 athocyate brahmavidyā sadyaḥ pratyayadāyinī || 62 ॥
-sivaḥ śrībhūtirājo’ yam asmabhyarn pratyapādayat |
+sivaḥ śrībhūtirājo’ yam asmabhyaṁ pratyapādayat |
 saryeṣām eva bhūtānāṁ marane samupasthite || 63 ॥
 yayā paṭhitayotkramya jīvo yāti nirañjanam | 
 
@@ -392,13 +392,13 @@ The Brahmavidyā Consisting of Parts (sakalā)
 
 yā 
 
-ino ‘pi sahpūrnṇakṛtyasyāpi śrutā satī | 64 I|
+ino ‘pi sahpūrṇakṛtyasyāpi śrutā satī | 64 I|
 prāṇādicchedajāṁm mṛtyuvyathāri sadyo vyapohati |
 yām ākarṇnya mahāmohavivaśo ‘pi kramād gataḥ ॥ 65 ॥
 prabodhar vaktṛsāmmukhyam abhyeti rabhasāt svayam |
-paramapadāt tvam ihāgāḥ sanātanas tvarm jahīhi dehāntam Il 66 ॥
+paramapadāt tvam ihāgāḥ sanātanas tvarm jahīhi dehāntam ॥ 66 ॥
 pādāmguṣṭhādi vibho nibandhanańi bandhanari hy ugram |
-āryāvākyam idan pūrvarnṁ bhuvanākhyaiḥ padair bhavet ॥ 67 ॥ 
+āryāvākyam idan pūrvaṁ bhuvanākhyaiḥ padair bhavet ॥ 67 ॥ 
 
 Heard from (the lips of) a man of knowledge or one who has completely fulfilled (all his) obligations immediately eliminates the suffering of death, brought about by the severance of the vital breath and the rest (of the body’s mental and sensorial functions). (64cd-65ab) 
 
@@ -431,7 +431,7 @@ the feet (up through the rest of the body) is indeed terrible bondage!” (66cd-
 
 ### TĀ 30.67
 
-This, the first declaration \[illegible\] set in Ārya metre, is made of (as many) words (pada) as are said to be the worlds.' (67cd) 
+This, the first declaration (vākya), set in Ārya metre, is made of (as many) words (pada) as are said to be the worlds.' (67cd) 
 
 ### TĀ 30.68
 
@@ -439,7 +439,7 @@ This, the first declaration \[illegible\] set in Ārya metre, is made of (as man
 जहिहि पुरमग्रयमध्यं हत्पदातत्वं समुत्तिष्ठ ॥ ६८ ॥
 एतावद्धिः पदैरेतदायीवाक्यं द्वितीयकम् ।
 
-gulphānte jānugatarni jatrustharn bandhanaṁ tathā medhre |
+gulphānte jānugatarni jatrusthaṁ bandhanaṁ tathā medhre |
 jahihi puram agryamadhyari hṛtpadmāt tvar samuttiṣtha ॥ 68 ॥
 etāvadbhiḥ padair etad āryāvākyari dvitīyakam | 
 
@@ -605,7 +605,7 @@ This declaration, set in Ārya metre, is said to be made of (fourteen words, as 
 अलं द्विरिति सृक्ं चेत्येवं श्रीमुकुरोत्तरे ।
 
 amguṣthamātram amalam āvaranaṁ jahi hi he mahāsūkṣma! |
-āryyāvākyam idan ṣadbhiḥ padair daśamam ucyate ॥ 82 |I alaṁ dvir iti sūkṣmaṁ cety evar Śrīmukuṭottare | 
+āryyāvākyam idan ṣadbhiḥ padair daśamam ucyate ॥ 82 ॥ alaṁ dvir iti sūkṣmaṁ cety evar Śrīmukuṭottare | 
 
 10\) “O greatly subtle one (mahāsūkma)! Abandon, this stainless (amala) covering which is just (the size) of a thumb!”“ (82ab) 
 
@@ -667,7 +667,7 @@ This declaration in half (a verse), set in Ārya metre, that follows after, is t
 
 ### TĀ 30.86
 
-syāt trayodaśam āryārdhari padaiḥ saptabhir īdṛśam || 86 I| 
+syāt trayodaśam āryārdhari padaiḥ saptabhir īdṛśam || 86 || 
 
 13\) “O myself! Abandon this body with six sheaths (kośa) made of the (three) qualities (guna) and gross elements!” (86ab) 
 
@@ -838,7 +838,7 @@ He illustrates (the Mantra’s) condition as that which withdraws all things.
 
 agnimaṇndalamadhyasthabhairavānalatāpitāḥ |
 vaśam āyānti śākinyaḥ sthānam etena ced dahet ॥ 96 ॥
-visarjayet tāh prathamam anyathā cchidrayanti tāh | 
+visarjayet tāḥ prathamam anyathā cchidrayanti tāḥ | 
 
 In the middle of a circle (mandala) of Fire, heated by Bhairava’s fire, the Śakinīs come under (one’s) control, if one burns the place (in which this takes place) by means of this (Mantra).'” One should, first of all, (release and) dismiss them (immediately), otherwise they make cracks (in the vital points of body). (96-97ab) 
 
@@ -848,7 +848,7 @@ In the middle of a circle (mandala) of Fire, heated by Bhairava’s fire, the Ś
 
 177\. that case, one has a union through force or through violence (haṭhataḥ). See above 28/371.
 
-178\. \[illegible\] 96-97ab is a condensed paraphrase of TS 16/329cd-334, which reads as follows: bhairavaṁ hṛdayaṁ devi jagatsaṁhārakārakam ॥ 329 1I \[g: ?\] tena yuktā sadā devyāḥ klidyante klinnayonayaḥ | dahyante \[g: ?\] patate sighrarn \[g: sīghraṁ\] prāṇam murcyanti bhūriṣaḥ I| 330 I vaśam āyanty asaṁidehāt \[g: vasa-; k, g: -yāntasaidehā\] taptā bhairavavahninā | dṛṣtvā \[k, g: dṛṣtā\] balāsamūhaṁ \[kh: J\] tu hṛdayena tu bhāvayet Il 331 ॥ vahnimandalamadhyasthaṁ \[k, g: -mandalat-\] bhairavānalatāpitam \[g: bhaira \* \* \* \* \* + | 116b g\] samūhaṁ \[k: -hām\] bhāvayed evaṁ \[k: -devarn\] niruddharn hṛdayena tu ॥ 332 ॥ \[g: ?\] yāvantyas tatra śākinya āgacchanti na saṁnśayaḥ | \[g: ?\] saṁbhāvayanti \[k, g: -yati\] taṁ vīram \[kh: vīryam\] akāryari tu tvayā kṛtam \\\\ 333 \\\\ \[g: ?\] visarjayet tato mantrī tatkṣaṇān naivat \[g. 1 dhārayet | anyathā cchidrayanty evar sādhakaṁ kupitātmanaḥ || 334 || ‘O goddess, Bhairava’s Heart destroys the universe. Yoked with that, the goddesses are always wet, and their genitals are wet (with arousal), they burn up (with passion). Quickly they fall (to the ground), and they release (their) breath repeatedly. Without a doubt, they come under (one’s) control, heated by Bhairava’s fire. Once seen the crowd of (these) powerful (witches.) contemplate them with the Heart (mantra). In the middle of a circle (mandala) of Fire, heated by Bhairava’s fire, contemplate the crowd (of Śākinīs,) blocked in thi: way by (the mantra of Bhairava’s) Heart. Without a doubt, however many they may be, the Śākinīs (all) gather there and suggest to the adept (vīra): “you have done what should not be done”. The one who recites the mantra should dismiss them at that very moment, and not maintain (their company) in this way. Otherwise, angered as they are, they make cracks in (the vital points in the body of) the adept. (TS 16/329cd-334)
+178\. \[illegible\] 96-97ab is a condensed paraphrase of TS 16/329cd-334, which reads as follows: bhairavaṁ hṛdayaṁ devi jagatsaṁhārakārakam ॥ 329 1I \[g: ?\] tena yuktā sadā devyāḥ klidyante klinnayonayaḥ | dahyante \[g: ?\] patate sighraṁ \[g: sīghraṁ\] prāṇam murcyanti bhūriṣaḥ I| 330 I vaśam āyanty asaṁidehāt \[g: vasa-; k, g: -yāntasaidehā\] taptā bhairavavahninā | dṛṣtvā \[k, g: dṛṣtā\] balāsamūhaṁ \[kh: J\] tu hṛdayena tu bhāvayet Il 331 ॥ vahnimandalamadhyasthaṁ \[k, g: -mandalat-\] bhairavānalatāpitam \[g: bhaira \* \* \* \* \* + | 116b g\] samūhaṁ \[k: -hām\] bhāvayed evaṁ \[k: -devaṁ\] niruddhaṁ hṛdayena tu ॥ 332 ॥ \[g: ?\] yāvantyas tatra śākinya āgacchanti na saṁnśayaḥ | \[g: ?\] saṁbhāvayanti \[k, g: -yati\] taṁ vīram \[kh: vīryam\] akāryari tu tvayā kṛtam \\\\ 333 \\\\ \[g: ?\] visarjayet tato mantrī tatkṣaṇān naivat \[g. 1 dhārayet | anyathā cchidrayanty evar sādhakaṁ kupitātmanaḥ || 334 || ‘O goddess, Bhairava’s Heart destroys the universe. Yoked with that, the goddesses are always wet, and their genitals are wet (with arousal), they burn up (with passion). Quickly they fall (to the ground), and they release (their) breath repeatedly. Without a doubt, they come under (one’s) control, heated by Bhairava’s fire. Once seen the crowd of (these) powerful (witches.) contemplate them with the Heart (mantra). In the middle of a circle (mandala) of Fire, heated by Bhairava’s fire, contemplate the crowd (of Śākinīs,) blocked in thi: way by (the mantra of Bhairava’s) Heart. Without a doubt, however many they may be, the Śākinīs (all) gather there and suggest to the adept (vīra): “you have done what should not be done”. The one who recites the mantra should dismiss them at that very moment, and not maintain (their company) in this way. Otherwise, angered as they are, they make cracks in (the vital points in the body of) the adept. (TS 16/329cd-334)
 
 
 *[p. 56]* ^pg74
@@ -862,7 +862,7 @@ In the middle of a circle (mandala) of Fire, heated by Bhairava’s fire, the Ś
 प्रत्येकमथवा द्वाभ्यां सर्वैव विधिरुत्तमः ॥ ९८ ॥
 
 (1777 (1 vler \[illegible\] ebhir varṇair dvādaśasvarabhūṣitaiḥ ॥ 97 ॥
-priyamelāpanaṁi nāma hṛdayarn sampuṭari japet |
+priyamelāpanaṁi nāma hṛdayaṁ sampuṭari japet |
 pratyekam athavā dvābhyām sarvair vā vidhir uttamaḥ ॥ 98 ॥ 
 
 (Bhairava’s) Heart (Mantra) that brings about pleasing union (priyamelāpana) 
@@ -889,7 +889,7 @@ I have (thus) revealed in due order (the mantras required for the) sacrifice of 
 
 179\. \[illegible\] The printed text of Jayaratha’s commentary here appears to be corrupt. I cannot understand it. See above, 28/371.
 
-180\. Read —yāgaḥ for -yogah. These mantras are taught in verses 9160 to 98.
+180\. Read —yāgaḥ for -yogaḥ. These mantras are taught in verses 9160 to 98.
 
 
 *[p. 57]* ^pg75
@@ -934,7 +934,7 @@ The Three \[illegible\]
 कुसुमैरानन्दैवी भावनया वापि केवलया ॥ १०४ ॥
 
 śrīnātha ārya bhagavann etat tritayaṁ hi kanda ādhāre |
-varuṇo macchando bhagadatta iti trayam idarn hṛdaye ॥ 102 ॥
+varuṇo macchando bhagadatta iti trayam idaṁ hṛdaye ॥ 102 ॥
 dharmādivargasamijñāś catvāraḥ kanthadeśagāḥ pūjyāḥ | 
 
 [^181]: \[illegible\] This Initiation of the Scales is taught in chapter 9 of the Tantrasadbhāva. Concerning this initiation, see above, chapter 20. Abhinava himself tells us that the passage here from 30/93 to 98 is drawn from the Tantrasadbhāva.
@@ -943,7 +943,7 @@ dharmādivargasamijñāś catvāraḥ kanthadeśagāḥ pūjyāḥ |
 *[p. 58]* ^pg76
 
 hrīmśrīmpūrvāḥ sarve sambodhajuṣaś ca pādaśabdāntāḥ ॥ 103 ॥
-mūrdhatale vidyātrayam uktarn bhāvy atha mano ‘bhiyogena |
+mūrdhatale vidyātrayam uktaṁ bhāvy atha mano ‘bhiyogena |
 kusumair ānandair vā bhāvanayā vāpi kevalayā ॥ 104 ॥ 
 
 11\) Śrīnātha, Ārya and Bhagavān ~ these three (teachers) are (worshipped) in the foundation within the bulb. 2) The three (teachers), Varuṇa, Macchanda and Bhagadatta (should be worshipped) in the heart. 3) The four named Dharma and the rest of the group should be worshipped as present in the throat. (The names of) all these (should be) preceded by (the Mantras) HRĪM and ŚRĪM, declined in the vocative and followed by the word pāda. 4) The three Vidyās taught before or those that will be (explained further ahead should be worshipped) on the surface of the head. Now, (they should all be worshipped) by applying the mind with flowers, joyous (drinks,) or just with the meditative imagination (bhāvanā) alone. (102-104) 
@@ -992,7 +992,7 @@ He (now) presents the three Vidyās.
 
 The First Vidyā प्रणवो माया विन्दरवणत्रयमादित : कुयीत् ।
 पदपञ्चकस्य संबोधनयुक्तस्याग्निदयितान्ते ॥ १०७ ॥
-pranavo māyā bindur varṇatrayam āditaḥ kuryāt |
+praṇavo māyā bindur varṇatrayam āditaḥ kuryāt |
 padapañcakasya saṁbodhanayuktasyāgnidayitānte \\\\ 107 ॥ 
 
 (To form the first Vidyā,) one should place the three syllables Praṇava (OM), Māyā (HRĪM) and the Point (HŪM) at the beginning of the five words with a vocative (case ending) and, at the end, the Beloved of the 
@@ -1019,7 +1019,7 @@ He presents the five words.
 खपञ्चाणी प्रह्मविद्येयं मोक्षदा शिवा ।
 
 siddhasādhani tatpūrvaṁi śabdabrahmasvarūpini |
-samastabandhaśabdena sahitarn ca nikṛntani || 108 ॥
+samastabandhaśabdena sahitaṁ ca nikṛntani || 108 ॥
 bodhani śivasadbhāvajananyāmantritaṁ ca tat |
 pañcāṣṭtarandhratryaṣtārnakramenṇa padapañcakam || 109 ॥
 khapañcārṇā parabrahmavidyeyarń mokṣadā śivā | 
@@ -1040,7 +1040,7 @@ word
 
 SAMASTABANDHA and NIKRNTANI. (Then comes) BODHANI invoked (in the vocative with) ŚIVASADBHĀVAJANANI. (These) five words consist of five, eight, nine, three, and eight syllables, respective\] 'his is the 
 
-(first) Vidyā, which is that of the supreme Brahman, consisting of fifty syllables that, benevolent \[illegible\] bestows liberation. (108-110ab) 
+(first) Vidyā, which is that of the supreme Brahman, consisting of fifty syllables that, benevolent (śivā), bestows liberation. (108-110ab) 
 
 #### Viveka on 30.108–110
 
@@ -1092,7 +1092,7 @@ The Second Vidyā
 तदनच्कतकारेण सहैकीभावतः पठेत् ।
 स्श्राब्धिवणी विद्येयं दीक्षाविद्येति कीर्तिता ॥ ११५ ॥
 
-anuttarecche ghāntaś ca satrayodaśasusvaraḥ || 110 II asya varṇatrayasyānte tv antahsthānām catuṣtayam |
+anuttarecche ghāntaś ca satrayodaśasusvaraḥ || 110 || asya varṇatrayasyānte tv antahsthānām catuṣtayam |
 vargādyaśvau tryasrabinduyuk pānto ‘rṇatrayād ataḥ ॥ 111 ॥
 mahāhāṭakaśabdādyamīśvarītyarṇasaptakam |
 āmantritaṁ kṣamasveti tryarnań pāpāntakārini ॥ 112 ॥
@@ -1101,7 +1101,7 @@ pāparm hana dhuna dvir dvir daśārṇaṁ padamīdṛśam | 113 ॥
 pañcamyantamṁ ṣadarṇaṁ syād rudraśaktivaśād iti |
 tata ekākṣaraṁ yat tad visargabrahma kīrtitam ॥ 114 ॥
 tadanackatakāreṇa sahaikībhāvataḥ pathet |
-randhrābdhivarṇā vidyeyarn dīkṣāvidyeti kīrtitā ॥ 115 ॥ 
+randhrābdhivarṇā vidyeyaṁ dīkṣāvidyeti kīrtitā ॥ 115 ॥ 
 
 (The second Vidyā begins with) Anuttara (A), the will (I), and the end of (the letter) GH (N) together with the beautiful thirteenth vowel (0). At the end of these three letters (following after are) the four semivowels (Y R L V), the first (letter) of the class (of vowels) (A), the Horse (N), the end of (the letter) P (PH), conjoined with the Triangle (E), and the Point (M). Then after (these) three letters come the seven syllables, consisting of the word MAHĀHĀTṬAKA, followed by ĪŚVARI in the vocative. (Then comes) KṢAMASVA, consisting of three syllables, and PĀPĀNTAKĀRIṆI, consisting of six. (This is followed) by the word beginning with PĀPA, and then 
 
@@ -1140,16 +1140,16 @@ māyārṇañ ca pare brahme caturvidye padatrayam |
 ṣtārṇam atha pañcārṇam yogadhāriṇisaijñitam ॥ 116 ॥ 
 
 ātmāntarātmaparamātmarūīpaṁ ca padatrayam |
-ekārāntaṁ bodhanastharn daśārnṇaṁ parikīrtitam | 117 ॥
+ekārāntaṁ bodhanasthaṁ daśārṇaṁ parikīrtitam | 117 ॥
 rudraśaktīti vedārṇar syād rudradayite ‘tha me |
-pāpam daha dahety eṣā dvādaśārnṇā catuṣpadī || 118 ॥
+pāpam daha dahety eṣā dvādaśārṇā catuṣpadī || 118 ॥
 saumye sadāśive yugmari \[illegible\] bindviṣusāvahā |
 sārdhavarṇacatuṣkaṁ tad ity eṣā samayāpahā || 119 ॥
 vidyā sārdhārṇakhaśarasamikhyā sā pārameśvarī | 
 
 (The third Vidyā begins with) the syllable of Māyā (HRĪM), which is followed by three words consisting of eight syllables (altogether), namely, PARE BRAHME CATURVIDYE, and one of five syllables, that is, YOGADHĀRINI. (This is followed by) three words - ĀTMAN, ANTARĀTMAN, PARAMĀTMAN - in the vocative and terminating with the letter E,” said to consist of ten syllables. (Then comes) RUDRAŚAKTI, which consists of the four syllables, (followed by another) four words consisting of twelve syllables (altogether), namely, RUDRADAYITE ME PĀPAM DAHA DAHA. (Then comes) the pair SAUMYE SADĀŚIVE, consisting of a group of six (syllables). (They are followed by) four syllables and a half, which are the Point (HŪM), the Arrow (PHAT) and SĀVAHĀ. 
 
-189\. Apart from the initial syllables and the final SAT, the other words of the Vidyā may be loosely translated as: \*O great body of the Hātaka hell, be lenient, destroyer of sins, confounder of sin, strike strike disperse disperse sin, by the will of Rudra’s power!” Sanderson proposes to emend the final SAT, which has no clear meaning, to SAH. However, this cannot be done with a simple emendation of the text of the Tantrāloka. Are we to make this emendation to the source that Abhinavagupta used?
+189\. Apart from the initial syllables and the final SAT, the other words of the Vidyā may be loosely translated as: \*O great body of the Hāṭaka hell, be lenient, destroyer of sins, confounder of sin, strike strike disperse disperse sin, by the will of Rudra’s power!” Sanderson proposes to emend the final SAT, which has no clear meaning, to SAH. However, this cannot be done with a simple emendation of the text of the Tantrāloka. Are we to make this emendation to the source that Abhinavagupta used?
 
 190\. \[illegible\] etc.
 

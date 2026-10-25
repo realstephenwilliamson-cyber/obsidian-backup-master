@@ -19,8 +19,7 @@ language:
   - English
 pages: 244
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The Satsahasra Samhita, chapters 1-5.pdf]]"
   - "[[Library/Trika/The Satsahasra Samhita (Schoterman)/The Satsahasra Samhita (Schoterman)]]"

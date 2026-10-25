@@ -90,7 +90,7 @@ On the contrary, The Apostle says ([[Romans 13#^13-2|Romans 13:2]]): "He that re
 
 I answer that, A man may be condemned to death in two ways. First justly, and then it is not lawful for the condemned to defend himself, because it is lawful for the judge to combat his resistance by force, so that on his part the fight is unjust, and consequently without any doubt he sins.
 
-Secondly a man is condemned unjustly: and such a sentence is like the violence of robbers, according to [[DRB Ezekiel 22#^22-21|Ezekiel 22:21]], "Her princes in the midst of her are like wolves ravening the prey to shed blood." Wherefore even as it is lawful to resist robbers, so is it lawful, in a like case, to resist wicked princes; except perhaps in order to avoid scandal, whence some grave disturbance might be feared to arise.
+Secondly a man is condemned unjustly: and such a sentence is like the violence of robbers, according to [[DRB Ezekiel 22#^22-27|Ezekiel 22:21]] [as printed; the verse is 22:27], "Her princes in the midst of her are like wolves ravening the prey to shed blood." Wherefore even as it is lawful to resist robbers, so is it lawful, in a like case, to resist wicked princes; except perhaps in order to avoid scandal, whence some grave disturbance might be feared to arise.
 
 Reply to Objection 1. Reason was given to man that he might ensue those things to which his nature inclines, not in all cases, but in accordance with the order of reason. Hence not all self-defense is lawful, but only such as is accomplished with due moderation.
 

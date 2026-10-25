@@ -17,8 +17,7 @@ language:
   - English
 pages: 25
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[uram.24.1.40.pdf]]"
   - "[[Library/Philosophy/Revisiting Paul Ricoeur on the Symbolism of Evil (Ely)]]"

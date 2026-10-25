@@ -5,9 +5,7 @@ section: "Proper Liturgies for Special Days"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/SpecialDays/EasterVigil.html"
-page_range:
-  - 285
-  - 295
+page_range: "285–295"
 aliases:
   - "BCP 285"
   - "BCP 286"
@@ -25,7 +23,7 @@ aliases:
 
 [[BCP 1979]] · *Proper Liturgies for Special Days* · pages 285–295
 
-[p. 285]
+[p. 285] ^pg285
 
 ## The Great Vigil of Easter
 
@@ -47,7 +45,7 @@ The light of Christ.
 
 **People** Thanks be to God.
 
-[p. 286]
+[p. 286] ^pg286
 
 *If candles have been distributed to members of the congregation, they are lighted from the Paschal Candle at this time. Other candles and lamps in the church, except for those at the Altar, may also be lighted.*
 
@@ -103,7 +101,7 @@ Holy Father, accept our evening sacrifice, the offering of this candle in your h
 
 *It is customary that the Paschal Candle burn at all services from Easter Day through the Day of Pentecost.*
 
-[p. 288]
+[p. 288] ^pg288
 
 ## The Liturgy of the Word
 
@@ -127,7 +125,7 @@ Psalm 46
 
 Let us pray. *(Silence)*
 
-[p. 289]
+[p. 289] ^pg289
 
 Almighty God, you have placed in the skies the sign of your covenant with all living things: Grant that we, who are saved through water and the Spirit, may worthily offer to you our sacrifice of thanksgiving; through Jesus Christ our Lord. *Amen.*
 
@@ -147,7 +145,7 @@ Let us pray. *(Silence)*
 
 O God, whose wonderful deeds of old shine forth even to our own day, you once delivered by the power of your mighty arm your chosen people from slavery under Pharaoh, to be a sign for us of the salvation of all nations by the water of Baptism: Grant that all the peoples of the earth may be numbered among the offspring of Abraham, and rejoice in the inheritance of Israel; through Jesus Christ our Lord. *Amen.*
 
-[p. 290]
+[p. 290] ^pg290
 
 **God's Presence in a renewed Israel** [[Isaiah 04#^4-2|Isaiah 4:2-6]]
 
@@ -189,7 +187,7 @@ Let us pray. *(Silence)*
 
 O God of unchangeable power and eternal light: Look favorably on your whole Church, that wonderful and sacred mystery; by the effectual working of your providence, carry out in tranquillity the plan of salvation; let the whole world see and know that things which were cast down are being raised up, and things which had grown old are being made new, and that all things are being brought to their perfection by him through whom all things were made, your Son Jesus Christ our Lord. *Amen.*
 
-[p. 292]
+[p. 292] ^pg292
 
 *A homily may be preached after any of the preceding Readings.*
 
@@ -212,7 +210,7 @@ Through the Paschal mystery, dear friends, we are buried with Christ by Baptism 
 **People** I believe in God, the Father almighty,  
 creator of heaven and earth.
 
-[p. 293]
+[p. 293] ^pg293
 
 **Celebrant** Do you believe in Jesus Christ, the Son of God?
 
@@ -249,7 +247,7 @@ and the life everlasting.
 
 **People** I will, with God's help.
 
-[p. 294]
+[p. 294] ^pg294
 
 **Celebrant** Will you strive for justice and peace among all people, and respect the dignity of every human being?
 
@@ -281,7 +279,7 @@ The Lord be with you.
 
 **Celebrant** Let us pray.
 
-[p. 295]
+[p. 295] ^pg295
 
 *The Celebrant says one of the following Collects*
 

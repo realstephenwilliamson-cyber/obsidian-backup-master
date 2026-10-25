@@ -19,8 +19,7 @@ language:
   - English
 pages: 56
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Bansat-Boudon - The World on Show, Tantraloka 1.332 (2016).pdf]]"
   - "[[Library/Trika/The World on Show, or Sensibility in Disguise (Bansat-Boudon)/The World on Show, or Sensibility in Disguise (Bansat-Boudon)]]"

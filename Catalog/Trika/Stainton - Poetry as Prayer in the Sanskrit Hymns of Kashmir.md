@@ -17,8 +17,7 @@ language:
   - English
 pages: 353
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Stainton - Poetry as Prayer in the Sanskrit Hymns of Kashmir (2019).pdf]]"
   - "[[Library/Trika/Poetry as Prayer in the Sanskrit Hymns of Kashmir (Stainton)/Poetry as Prayer in the Sanskrit Hymns of Kashmir (Stainton)]]"

@@ -5,9 +5,7 @@ section: "The Collects"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Collects/commonc.html"
-page_range:
-  - 246
-  - 250
+page_range: "246–250"
 aliases:
   - "BCP 247"
   - "BCP 248"
@@ -18,7 +16,7 @@ aliases:
 
 [[BCP 1979]] · *The Collects* · pages 246–250
 
-[p. 246]
+[p. 246] ^pg246
 
 ## The Common of Saints
 
@@ -50,7 +48,7 @@ Almighty and everlasting God, we thank you for your servant *N.*, whom you calle
 
 *or the following*
 
-[p. 248]
+[p. 248] ^pg248
 
 Almighty God, whose will it is to be glorified in your saints, and who raised up your servant *N.* to be a light in the world; Shine, we pray, in our hearts, that we also in our generation may show forth your praise, who called us out of darkness into your marvelous light; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. *Amen.* ^collect-of-a-missionary-2
 
@@ -86,7 +84,7 @@ O God, by whose grace your servant *N.*, kindled with the flame of your love, be
 
 *Preface of a Saint*
 
-[p. 250]
+[p. 250] ^pg250
 
 ### Of a Saint
 

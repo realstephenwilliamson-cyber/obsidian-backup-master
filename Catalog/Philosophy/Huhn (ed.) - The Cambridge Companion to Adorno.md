@@ -17,8 +17,7 @@ language:
   - English
 pages: 420
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/The Cambridge Companion to Adorno.pdf]]"
   - "[[Library/Philosophy/The Cambridge Companion to Adorno (Huhn)/The Cambridge Companion to Adorno (Huhn)]]"

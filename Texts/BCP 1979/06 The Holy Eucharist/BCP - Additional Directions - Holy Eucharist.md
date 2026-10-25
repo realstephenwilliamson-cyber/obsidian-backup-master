@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/adddirect.html"
-page_range:
-  - 406
-  - 409
+page_range: "406–409"
 aliases:
   - "BCP 406"
   - "BCP 407"
@@ -18,7 +16,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 406–409
 
-[p. 406]
+[p. 406] ^pg406
 
 ## Additional Directions
 

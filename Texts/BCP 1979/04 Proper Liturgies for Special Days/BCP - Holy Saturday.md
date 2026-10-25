@@ -5,9 +5,7 @@ section: "Proper Liturgies for Special Days"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/SpecialDays/saturday.html"
-page_range:
-  - 283
-  - 283
+page_range: "283"
 aliases:
   - "BCP 283"
 ---
@@ -15,7 +13,7 @@ aliases:
 
 [[BCP 1979]] · *Proper Liturgies for Special Days* · pages 283–283
 
-[p. 283]
+[p. 283] ^pg283
 
 ## Holy Saturday
 

@@ -22,7 +22,7 @@ and the quadruple unguent (catuhsama),” and 5)—ash, together with (all of) t
 
 The fuel, made of kuśa grass and the five products of the cow, should be placed before Śarva (i.e. Śiva). Then one should offer, mixed with the Nectar of the Left etc.,'” the three kinds of food offering, namely, blood, alcohol, and various drinks. Then he should offer oblation (to the fire) with the meat of a great bull (mahākṣma) and a ram, along with sesame seeds, or else sesame seeds together with clarified butter, or else with rice or wheat 
 
-means dhātrī, and so stated it twice. But this is unlikely. The word āmalaka is a common word, which in the great majority of cases means ‘myrobalan’ Also, instead of sahāmbunā — ‘with water’, read with MSs T and Th mahāmbunā ‘with the Great Water’. The citation states that one should offer vāri cāmalakair yuktań — ‘water along with myrobalans”. In making this emendation, I presume that Abhinava refers to this mixture as the ‘Great Water’. 19 See above, note 28,184. 1% Read kusedhmaṁ for kusedhma. 19 This is an alcoholic drink. See below, 29/10-13. \*Concerning Vāmāmṛta from the Kulasāra (folios 77b-78a): yā sā pūrvaṁ mayākhyātā parāmṛtavidhāyinī | tasmiṁ līnā mahābhāge kalā saptādaśī parar (> parā) I| ama nāma samākhyātā parāmṛtavidhāyinī | jagasyāpyāyanārghāya sosthitā (> saisthitā) sā ca mamdale ॥ le nyastā sa vācāpyāyanarthataḥ | pitRnām devasahighasya jaṁtucakrasya sundari II sthitāpyāyanahetvarthaṁ dravadravyeṣu saṁsthitā | ksīrābdhimadhyamathanā vyaktitvarn samupāgatā I| avasthā vārunṇī jñeyā suraiḥ pītā surā smṛtāḥ | 78a) āditatvasamudbhūtā madyā medye (> medhye) tu śobhane | madeti madirā jñeyā śaktisthādhārasaṁisthitāḥ (> -tā) ॥ vāmāmṛtavidhāyinya (> -yinyā) vāmāmyṛtam atocyate | sā parāpararūpasthā śaktir ādyā manonmanī || ānaridajananī punyā manasyonmanakārinī | somasthā somapānaṁ sā sarvapāpakṣayaṁkarī ॥ sarvayajñaphalar devi sarvatīrthābhiṣecanam | sparśamātrāmṛtā devyā (kala nārghanti ṣodaśī ॥ ‘She whom I mentioned previously bestows the supreme nectar. O greatly fortunate one, merged within that is the supreme lunar digit — the seventeenth. She is known by the name of Amā, and bestows the supreme nectar. She is established in the mandala to serve as the libation that nourishes the universe. She is deposited in the water of the light of the Moon in order to nourish Speech. O beautiful lady, she abides (thus) in order to nourish the manes and the assemblies of gods and men, and is established in the fluid sacrificial substances. Churned out of the middle of the Ocean of Milk, she has become manifest. (In her) abiding state, she should be known to be vārunī. Drunk by the gods (sura), she is called ‘surā’. Arisen from the first principle (āditattva), she is madyā, within that which, beautiful, is fit for oblation (medhya). (She is) intoxication (madā) (and so) is known as madirā. Established in Śakti, she is well established in the Foundation. She bestows the nectar of the left (vāmāmṛta), and so is called vāmāmṛta. Established in (both) the supreme (transcendental) and other (form) (parāpararūpa), she generates bliss and, meritorious, within the mind she turns it into Beyond Mind. Established in Soma, she is the drinking of Soma and destroys all sin. O goddess, the fruit of all the sacrifices, the sprinkling (of the water from) all the sacred bathing sites, is not worth a sixteenth part of just touching the nectar of the goddess.”
+means dhātrī, and so stated it twice. But this is unlikely. The word āmalaka is a common word, which in the great majority of cases means ‘myrobalan’ Also, instead of sahāmbunā — ‘with water’, read with MSs T and Th mahāmbunā ‘with the Great Water’. The citation states that one should offer vāri cāmalakair yuktań — ‘water along with myrobalans”. In making this emendation, I presume that Abhinava refers to this mixture as the ‘Great Water’. 19 See above, note 28,184. 1% Read kusedhmaṁ for kusedhma. 19 This is an alcoholic drink. See below, 29/10-13. \*Concerning Vāmāmṛta from the Kulasāra (folios 77b-78a): yā sā pūrvaṁ mayākhyātā parāmṛtavidhāyinī | tasmiṁ līnā mahābhāge kalā saptādaśī parar (> parā) I| ama nāma samākhyātā parāmṛtavidhāyinī | jagasyāpyāyanārghāya sosthitā (> saisthitā) sā ca mamdale ॥ le nyastā sa vācāpyāyanarthataḥ | pitRnām devasahighasya jaṁtucakrasya sundari II sthitāpyāyanahetvarthaṁ dravadravyeṣu saṁsthitā | ksīrābdhimadhyamathanā vyaktitvaṁ samupāgatā I| avasthā vārunṇī jñeyā suraiḥ pītā surā smṛtāḥ | 78a) āditatvasamudbhūtā madyā medye (> medhye) tu śobhane | madeti madirā jñeyā śaktisthādhārasaṁisthitāḥ (> -tā) ॥ vāmāmṛtavidhāyinya (> -yinyā) vāmāmyṛtam atocyate | sā parāpararūpasthā śaktir ādyā manonmanī || ānaridajananī punyā manasyonmanakārinī | somasthā somapānaṁ sā sarvapāpakṣayaṁkarī ॥ sarvayajñaphalar devi sarvatīrthābhiṣecanam | sparśamātrāmṛtā devyā (kala nārghanti ṣodaśī ॥ ‘She whom I mentioned previously bestows the supreme nectar. O greatly fortunate one, merged within that is the supreme lunar digit — the seventeenth. She is known by the name of Amā, and bestows the supreme nectar. She is established in the mandala to serve as the libation that nourishes the universe. She is deposited in the water of the light of the Moon in order to nourish Speech. O beautiful lady, she abides (thus) in order to nourish the manes and the assemblies of gods and men, and is established in the fluid sacrificial substances. Churned out of the middle of the Ocean of Milk, she has become manifest. (In her) abiding state, she should be known to be vārunī. Drunk by the gods (sura), she is called ‘surā’. Arisen from the first principle (āditattva), she is madyā, within that which, beautiful, is fit for oblation (medhya). (She is) intoxication (madā) (and so) is known as madirā. Established in Śakti, she is well established in the Foundation. She bestows the nectar of the left (vāmāmṛta), and so is called vāmāmṛta. Established in (both) the supreme (transcendental) and other (form) (parāpararūpa), she generates bliss and, meritorious, within the mind she turns it into Beyond Mind. Established in Soma, she is the drinking of Soma and destroys all sin. O goddess, the fruit of all the sacrifices, the sprinkling (of the water from) all the sacred bathing sites, is not worth a sixteenth part of just touching the nectar of the goddess.”
 
 *[p. 83]* ^pg100
 
@@ -187,7 +187,7 @@ Thus, because knowledge of the Self is the direct means to liberation etc, the m
 तदुपायः शाखमत् वक्ताप्यौपयिको गुरु : ।
 तद्विदोऽपि गुरुभ्रता संवादाज्ज्ञानदायकः ॥ १९३ ॥
 Jñānasya kasyacit prāptir bhogamokṣopakārinaḥ |
-yadā tanmukhyam evoktam naimittikadinarn budhaiḥ ॥ 192 |
+yadā tanmukhyam evoktam naimittikadinaṁ budhaiḥ ॥ 192 |
 tadupāyaḥ śāstram atra vaktāpy aupayiko guruḥ |
 tadvido ‘pi gurubhratā samvādāj jñānadāyakaḥ ॥ 193 ॥ 
 
@@ -259,7 +259,7 @@ Surely (one may ask), how can his identification with the body etc. cease in suc
 ### TĀ 28.198
 
 तत्रत्थं प्राग्यदा पश्येच्छक्त्युन्मीलितटुक्रर्यः ।
-tatrettharn prāg yadā paśyec chaktyunmīlitadṛkkriyaḥ | 
+tatretthaṁ prāg yadā paśyec chaktyunmīlitadṛkkriyaḥ | 
 
 (This detachment from the body takes place) there (in that case), if one whose (senses) of knowledge and action have been opened up by the power (of consciousness) sees in this way, right from the beginning (of each act of perception). (198ab) 
 
@@ -305,7 +305,7 @@ Surely (one may ask), his state of being Bhairava occurs again (spontaneously) b
 तत्रास्य प्रकटीभावे भुक्तिमुक्त्यात्मके भृशम् ॥ २०० ॥
 य उपायः समुचितो ज्ञानसन्तान एष सः ।
 
-tatrāsya prakaṭībhāve bhuktimuktyātmake bhṛśam ॥ 200 II ya upāyaḥ samucito jṁñānasantāna eṣa saḥ | 
+tatrāsya prakaṭībhāve bhuktimuktyātmake bhṛśam ॥ 200 ॥ ya upāyaḥ samucito jṁñānasantāna eṣa saḥ | 
 
 There (in that case), the (most) appropriate and intense (bhṛśam) means of rendering (the true nature of the Self) clearly apparent, which is both (the attainment of all) worldly benefits and liberation, is this lineage of (transmission of liberating) knowledge (jñānasantāna) (which is the continuum of cognitive consciousness).”? (200cd-201ab) 
 
@@ -337,7 +337,7 @@ Surely (one may ask), what happens to one who has in this way attained the goal?
 ध्वंसे लोकोत्तरं ज्ञानं सन्तानान्तरतां श्रयेत् ।
 
 evar cānādisaṁsārocitavijñānasantateḥ ॥ 202 I|
-dhvaṁse lokottararn jñānaṁ santānāntaratām śrayet | 
+dhvaṁse lokottaraṁ jñānaṁ santānāntaratām śrayet | 
 
 When the continuum of consciousness proper to the beginningless state of transmigratory existence is destroyed in this way, the (new manner of) knowing that transcends the worldly one (lokottaraṁ jñāna) assumes (the form of) another continuum (which is that of enlightened consciousness). (202cd-203ab) 
 
@@ -352,7 +352,7 @@ Although it is said that there is a cause of (ti continuum of (enlightened cogni
 असंसारोचितोदारतथाविज्ञानसन्ततेः ॥ २०३ ॥
 कारणं मुख्यमाद्यं तद्रुरुविज्ञानमात्मगम् ।
 
-asaṁsārocitodāratathāvijñānasantateḥ || 203 II kāraṇaṁi mukhyam ādyaṁ tad guruvijñānam ātmagam | 
+asaṁsārocitodāratathāvijñānasantateḥ || 203 || kāraṇaṁi mukhyam ādyaṁ tad guruvijñānam ātmagam | 
 
 The primary and first cause of such a venerable (udāra) continuum of (enlightened) noetic consciousness (vijñāna) proper (to a condition) which is not that of transmigratory existence, is the (enlightened) 
 
@@ -407,7 +407,7 @@ Nor does anybody disagree here (about this). Thus he says:
 योगिनः परदेहादिजीवतापादने निजम् ॥ २०६ ॥
 देहमत्यजतो नानाज्ञानोपादानता न किम्
 
-yoginaḥ paradehādijīvatāpādane nijam ॥ 206 II 
+yoginaḥ paradehādijīvatāpādane nijam ॥ 206 ॥ 
 
 When, for example, a yogi gives life to another body without abandoning his own body, do not (his) various perceptions serve as material causes (of the operation of the senses in the other body)? (206cd- 207ab) 
 
@@ -424,7 +424,7 @@ The ‘various perceptions’ are born of the senses of sight etc. He now conclu
 
 tena vijïānasantānaprādhānyād yaunasantateḥ ॥ 207 ॥
 anyo ‘yarn gurusantāno yah sivajñānaniṣthitaḥ |
-ittharn sthite trayaṁ mukhyaṁ kāranami sahakāri ca ॥ 208 ॥
+itthaṁ sthite trayaṁ mukhyaṁ kāranami sahakāri ca ॥ 208 ॥
 ekakāraṇakāryami ca vastv ity eṣa guror ganaḥ | 
 
 Thus, as the cognitive continuum is primary (and fundamental in this case), this lineage of teachers, which is grounded in the knowledge of Śiva, differs from? a lineage (based on common) parentage. This being so, three (factors are) primary (in this case), namely, the (basic) cause (which is the teacher), the attendant cause (that aids it) (sahākārin), (which is the teacher’s wife,) and the product of the one cause, (that is, the disciples). Such is the teacher’s entourage. (207cd-209ab) 
@@ -462,7 +462,7 @@ Moreover, if sometimes there is no attendant (cooperant) cause, there is no harm
 पुनः परम्परायोगाद्ररवरगोऽपि भण्यते ।
 मुख्य एष तु सन्तानः पूज्यो मान्यश्च सर्वदा ॥ २९१२ ॥
 
-antahsthodārasaṁvittiśkater bāhyāmi vināpi tām ॥ 210 Il sāmarthyari yogino yadvad vināpi sahakāriṇam |
+antahsthodārasaṁvittiśkater bāhyāmi vināpi tām ॥ 210 ॥ sāmarthyari yogino yadvad vināpi sahakāriṇam |
 ekajanyā bhrataraḥ syus tatsadṛg yas tu ko ‘pi saḥ ॥ 211 ॥
 punaḥ paramparāyogād guruvargo ‘pi bhanyate |
 mukhya eṣa tu santānaḥ pūjyo mānyaś ca sarvadā || 212
@@ -585,11 +585,11 @@ The sovereign power (TŚvaratā) to fashion the body in the womb belongs solely 
 
 #### Viveka on 28.219–220
 
-30 Prāṇana is the breath or life (jīvana), in all its undifferentiated potentiality, not yet differentiated into the distinct “breaths”, such as the prāṇa, apāna, etc. See above 6/11-15, and Gnoli 1956: 279 ff. > This aphorism is drawn from Kallata’s Tattvārthacintāmani. Abhinava himself quotes it in TĀ 6/12ab. It is also quoted in the TĀv ad 5/6, ad 5/44-48ab, ad 15/302-303ab, ad 17/83-85ab, and, along with two other sūtras, ad 28/338cd-340ab. See above, note in TĀv ad 3/138-141 (137cd- 14140), where it is quoted for the first time.
+30 Prāṇana is the breath or life (jīvana), in all its undifferentiated potentiality, not yet differentiated into the distinct “breaths”, such as the prāṇa, apāna, etc. See above 6/11-15, and Gnoli 1956: 279 ff. > This aphorism is drawn from Kallaṭa’s Tattvārthacintāmani. Abhinava himself quotes it in TĀ 6/12ab. It is also quoted in the TĀv ad 5/6, ad 5/44-48ab, ad 15/302-303ab, ad 17/83-85ab, and, along with two other sūtras, ad 28/338cd-340ab. See above, note in TĀv ad 3/138-141 (137cd- 14140), where it is quoted for the first time.
 
 *[p. 99]* ^pg116
 
-(The power to fashion the body) ‘belongs solely to that’ initial emergence of the life force (prānana). (The life force) is ‘uncontracted’ means that it has not assumed the (various) divisions into exhalation (prana) ) and inhalation (apāna) etc. It is because of this that those who discuss (such matters) say that it is the Supreme Lord who fashions the body, senses and world orders etc. 
+(The power to fashion the body) ‘belongs solely to that’ initial emergence of the life force (prāṇana). (The life force) is ‘uncontracted’ means that it has not assumed the (various) divisions into exhalation (prana) ) and inhalation (apāna) etc. It is because of this that those who discuss (such matters) say that it is the Supreme Lord who fashions the body, senses and world orders etc. 
 
 ### TĀ 28.220–221
 
@@ -602,7 +602,7 @@ The sovereign power (TŚvaratā) to fashion the body in the womb belongs solely 
 एवं क्रमेण संपष्टदेहप्राणवलो भृशम् ॥ २२३ ॥
 भोगान्कर्मकृतान्भुङ्क्ते योन्ययोनिजदेहगः ।
 
-sa vāyvātmā dṛdhe tasmin dehayantre cidātmanā ॥ 220 I|
+sa vāyvātmā dṛdhe tasmin dehayantre cidātmanā ॥ 220 ॥
 preryamāṇo vicarati bhastrāyantragavāyuvat |
 ataḥ prāg gādhasarisuptotthitavat sa prabudhyate ॥ 221 ॥
 kramād dehena sāka ca prāṇanā syād balīyasī |
@@ -625,11 +625,11 @@ There also, the vital force, along with the body, gradually becomes stronger, an
 
 ‘This’, that is, first emergence of the vital breath, (assumes) ‘the nature of the (vital) wind’. 
 
-The meaning is that it has assumed a delimited (conditioned nature) as the five (vital) winds, namely, exhalation (prāna), inhalation (apāna) and the rest. ‘Thus’, because this (vital) wind circulates in this way (in the body), ‘that’ body in the womb (awakens). That was said before: 
+The meaning is that it has assumed a delimited (conditioned nature) as the five (vital) winds, namely, exhalation (prāṇa), inhalation (apāna) and the rest. ‘Thus’, because this (vital) wind circulates in this way (in the body), ‘that’ body in the womb (awakens). That was said before: 
 
 ‘This, the activity of the vital breath, lays hold\* of the body in five ways, as the exhaled breath (prāṇa) and the rest. It is because of this that (the body) appears to be full of consciousness.” 
 
-‘There also’, (the breath and the body) having been strengthened, (the vital force) assumes the state of the organs of sense. The cause of this is because ‘the contact with consciousness (saṁvitsparśa) in the channels (nādī) of the voids (of the senses) becomes more intense’. The voids are the forms of the supports of the senses of sight and the rest. The ‘channels’ are the conduits (of the vital breath) (nādī). It is because ‘the contact with consciousness’ that takes its support (from them) ‘becomes more intense’, that is, the contact with consciousness, which is the life force (prānana), is in an increased, heightened state, (and so assumes the condition of the organs of sense). Here too the cause is ‘because of the strength of karmic necessity’, as is said with the same intended sense by others: ‘The five (vital) winds, that is, exhalation and the rest, are the function of the (inner mental organ, which is) the common, universal instrument (of perception) (sāmānyakarana).’ He who ‘experiences’ (worldly experience) is Śiva Himself who has assumed the contraction (of the consciousness of an individual soul). 
+‘There also’, (the breath and the body) having been strengthened, (the vital force) assumes the state of the organs of sense. The cause of this is because ‘the contact with consciousness (saṁvitsparśa) in the channels (nādī) of the voids (of the senses) becomes more intense’. The voids are the forms of the supports of the senses of sight and the rest. The ‘channels’ are the conduits (of the vital breath) (nādī). It is because ‘the contact with consciousness’ that takes its support (from them) ‘becomes more intense’, that is, the contact with consciousness, which is the life force (prāṇana), is in an increased, heightened state, (and so assumes the condition of the organs of sense). Here too the cause is ‘because of the strength of karmic necessity’, as is said with the same intended sense by others: ‘The five (vital) winds, that is, exhalation and the rest, are the function of the (inner mental organ, which is) the common, universal instrument (of perception) (sāmānyakarana).’ He who ‘experiences’ (worldly experience) is Śiva Himself who has assumed the contraction (of the consciousness of an individual soul). 
 
 And we have not stated just our own idea. Thus he says: 
 
@@ -643,11 +643,11 @@ And we have not stated just our own idea. Thus he says:
 इत्यादि श्रीगहरोक्तं तत एव पठेद्बहु ।
 
 (uktamn ca gahvarābhikhye Sastre sitamsumaulind || 224 ||
-yathā gṛharn viniṣpādya gṁī samadhitiṣthati |
+yathā gṛhaṁ viniṣpādya gṁī samadhitiṣthati |
 tathā dehī tanum kṛtvā kriyādigunavarjitaḥ ॥ 225 ॥
 kiñcitsphuraṇnamātraḥ prāg niṣkalaḥ so ‘pi śabdyate |
 sphuṭendriyāditattvas tu sakalātmeti bhanyate ॥ 226 ||
-ityādi śrīgahvaroktam tata eva pathed bahu | 
+ityādi śrīgahvaroktam tata eva paṭhed bahu | 
 
 2\* The expression is ātmasāt kurute. The sense is that the vital breath pervades the psychophysical organism, giving it life. >° Above, 6/14.
 
@@ -698,8 +698,8 @@ He explains how it falls apart.
 
 nādīcakreṣu saṁkocavikāsau viparītataḥ ॥ 228 ॥
 bhaṅgaḥ śoṣaḥ klidir vātaśleṣmāgnyapacayoccayaiḥ |
-ity evam ādi yat kiñcit prāksaṁisthāūnopamardakam || 229 I|
-dehayantre vighaṭanar tad evoktarn manīṣibhiḥ | 
+ity evam ādi yat kiñcit prāksaṁisthāūnopamardakam || 229 ||
+dehayantre vighaṭanar tad evoktaṁ manīṣibhiḥ | 
 
 The wise say that the ‘falling apart’ that takes place in the machine of the body is whatever disrupts (the body’s) prior (balanced) constitution. Examples are the reversal of the (healthy sequence of) contraction and expansion that takes place in the configurations of the conduits (of the breath) (nādīcakra), (so too) the deficiencies and excesses of the (balance in the body of its) air (vata), ), phlegm (śleṣma) and fire (agni), (which cause it to) break up, dry up, and become (excessively) wet.?” (228cd-230ab) 
 
@@ -720,7 +720,7 @@ The (soul’s liberating) separation from transmigratory existence does not take
 स देहः प्रतिबुध्येत प्रसुप्तोत्थितवत्तदा ॥ २३१ ॥
 तस्यापि भोगतद्धानिमृतयः प्राग्वदेव हि ।
 
-tasmin vighaṭite yantre sā saṁvit prānanātmatām ॥ 230 I|
+tasmin vighaṭite yantre sā saṁvit prānanātmatām ॥ 230 ॥
 gṁnāti yonije ‘nyatra vā dehe karmacitrite |
 sa dehaḥ pratibudhyeta prasuptotthitavat tadā || 231 ॥
 tasyāpi bhogataddhānimṛtayaḥ prāgvad eva hi | 
@@ -837,7 +837,7 @@ Share the World of the Deity (sālokya)”\*
 स्थावराद्यास्तिर्यगन्ताः पशवोऽस्मिन्दरये मृताः ॥ २४७ ॥
 स्वकर्मसंस्क्रियावेधात्तल्लोके चित्रताजुषः ।
 
-ye ‘pi tattvāvatīrnānām śaṁkarājñānuvartinām || 237 |l svayambhūmunidevarṣimanujādibhuvāṁ gṛhe |
+ye ‘pi tattvāvatīrnānām śaṁkarājñānuvartinām || 237 || svayambhūmunidevarṣimanujādibhuvāṁ gṛhe |
 mṛtās te tat purar prāpya pureśair dīkṣitāḥ kramāt ॥ 238 ॥
 martye ‘vatīrya vā no vā ivar yānty apunarbhavāḥ |
 tatra svayambhuvo dvedhā ke ‘py anugrahatatparāḥ ॥ 239 ॥
@@ -846,7 +846,7 @@ ye 'nugrahārtham ājñaptās teṣu yo miryate naraḥ ॥ 240 ॥
 so ‘nugrahaṁ sphuṭaṁ yāti vinā martyāvatārataḥ |
 yas tu svakāryaṁ kurvānṇas tatsthānari nāśatas tyajet ॥ 241 ॥
 yathā gaurī tapasyantī kaśmīreṣu guhāgatā |
-tatraiva vā yathā dhyānoddāre naraharir vibhuḥ || 242 I|
+tatraiva vā yathā dhyānoddāre naraharir vibhuḥ || 242 ||
 vitastāṁ nayato daityāms trāsayan dṛpta utthitaḥ |
 sāligrāme yathā viṣnuḥ śivo vā svopabhoginaḥ ॥ 243 ॥
 tapasyantau badarydm badarydm ca naranārāyanṇau tathā |
@@ -869,13 +869,13 @@ There (in that context, the Liṅgas that) are spontaneously born of themselves 
 
 ### TĀ 28.241–245
 
-The one that, as a partial incarnation (of a deity) (arma), ), is carrying out its own task, does do not move from its place. Such as, for example, Gaurī, who is engaged in practicing austerities in the caves of (the lands of) Kashmir, and so too there (in that same Kashmir) at Dhyānoqddāra,“ where Viṣnu (Vibhu), who in his incarnation as a lion (Narahari) rose up proudly, frightening (away) the demons who were leading (away) the (river) Vitastā. (Again, another example is) like Viṣṇu (who resides) in Sāligrāma," or Śiva (who rose up against the demons) who were eating his own (food) (svopabhoginaḥ), or Nara and Nārāyaṇa engaged in prācticing austerities at Badarī. These and other gods, who have in this way assumed partial incarnations (amsa) ) (to carry out) their own task, when propitiated bestow in a short time various fruits, in keeping with their own nature. (241cd-245ab) 
+The one that, as a partial incarnation (of a deity) (arma), ), is carrying out its own task, does do not move from its place. Such as, for example, Gaurī, who is engaged in practicing austerities in the caves of (the lands of) Kashmir, and so too there (in that same Kashmir) at Dhyānoqddāra,“ where Viṣṇu (Vibhu), who in his incarnation as a lion (Narahari) rose up proudly, frightening (away) the demons who were leading (away) the (river) Vitastā. (Again, another example is) like Viṣṇu (who resides) in Sāligrāma," or Śiva (who rose up against the demons) who were eating his own (food) (svopabhoginaḥ), or Nara and Nārāyaṇa engaged in prācticing austerities at Badarī. These and other gods, who have in this way assumed partial incarnations (amsa) ) (to carry out) their own task, when propitiated bestow in a short time various fruits, in keeping with their own nature. (241cd-245ab) 
 
 ### TĀ 28.245–248
 
 Those who die in the abodes (dhāman) of those deities who have assumed partial incarnations (ara) ) (there to carry out) their own tasks, after they have lived out (their own) experiences there in that way, descend into (other) mortal (bodies). Those who have descended (thus into the world 
 
-\[illegible\] While the passage from 227cd to 237ab is most probably Abhinava’s own elaboration, the passage from 237cd to 245ab is drawn from an unidentified source. What follows up to 250ab appears to be Abhin: servations. 24 The appellation ‘muni’ is here synonymous with ‘teacher’ (ācārya). Thus, below in 28/252, it says that 21.728 may be installed by a teacher (ācārya) as is said here of a muni. %5 By partial incarnation — arisa — is meant a ‘part’ or a ‘limb’ of a deity, that incarnates as a form of the deity who figures in a mythical event. The term is also used to denote a realised devotee of the deity of which he or she has become a part ~ aṁśa (see above, note 15,744). > This place is mentioned three times in Rājataraṁgini, at 8/1431, 1508, and 1510. The word uddāra in the second part of the name corresponds to the Kashmiri udar, which denotes the alluvial plateaus in the Valley. Stein admits that the exact location of this place is not known, but the references indicate that it was located in the eastern part of the Kashmir Valley (note to RT 8/1431). 251 This is a sacred place near the source of the Gandakī river. 232 A sacred place on the Gandhamādana mountain. The sages Nara and Nārāyaṇa, who were partial incarnations of Visnu, had their hermitage here.
+\[illegible\] While the passage from 227cd to 237ab is most probably Abhinava’s own elaboration, the passage from 237cd to 245ab is drawn from an unidentified source. What follows up to 250ab appears to be Abhin: servations. 24 The appellation ‘muni’ is here synonymous with ‘teacher’ (ācārya). Thus, below in 28/252, it says that 21.728 may be installed by a teacher (ācārya) as is said here of a muni. %5 By partial incarnation — arisa — is meant a ‘part’ or a ‘limb’ of a deity, that incarnates as a form of the deity who figures in a mythical event. The term is also used to denote a realised devotee of the deity of which he or she has become a part ~ aṁśa (see above, note 15,744). > This place is mentioned three times in Rājataraṁgini, at 8/1431, 1508, and 1510. The word uddāra in the second part of the name corresponds to the Kashmiri udar, which denotes the alluvial plateaus in the Valley. Stein admits that the exact location of this place is not known, but the references indicate that it was located in the eastern part of the Kashmir Valley (note to RT 8/1431). 251 This is a sacred place near the source of the Gandakī river. 232 A sacred place on the Gandhamādana mountain. The sages Nara and Nārāyaṇa, who were partial incarnations of Viṣṇu, had their hermitage here.
 
 *[p. 108]* ^pg125
 
@@ -939,7 +939,7 @@ Thus, there is scripture to this effect. Accordingly, he says:
 ### TĀ 28.250–251
 
 हंसकारण्डवाकौर्ण नानातरुकुलाकुले ॥ २५० ॥
-इत्येतदागमेपक्त hamsakārandavākīrne nānātarukulākule ॥ 250 II ity etad āgameṣūktam .......... 
+इत्येतदागमेपक्त hamsakārandavākīrne nānātarukulākule ॥ 250 ॥ ity etad āgameṣūktam .......... 
 
 *[p. 110]* ^pg127
 
@@ -968,7 +968,7 @@ Next I will state the measure of the sacred area (kṣetra) within each sacred p
 
 Surely (one may ask), because the nearby presence of spontaneously generated and other (types of Liṅga) is directly apparent, they possess the nature of sacred areas (kṣetra) and the like. Thus, the house of those who have died (in which they are worshipped) is also such. What is wrong (with that view)? But how could this be applicable to a Linga that human beings and the like have 
 
-255 The expression haṁsakārandavākīrnṇaiś is found in SvT 10/104a. 2% Verse 252 corresponds to Sarvajñānottara kriyāpāda 23/15cd-16ab (IFP T 334 p. 210 and IFP T 760 p.79). The verse is in the pratiṣthāprakaranam, which is a chapter concerning the installation rites of Liṅgas. It reads: liṅgād dhastasatari kṣetram ācāryasthāpitasya tu \[TĀ: -sthāpite sati) ॥ svāyaṁbhūte sahasra syād riṣthibhis tu sadarthakam TĀ: tu tad ardham rṣiyojite | 253-254ab is certainly drawn from another Saiddhāntika source, but I have not been able to identify it.
+255 The expression haṁsakārandavākīrṇaiś is found in SvT 10/104a. 2% Verse 252 corresponds to Sarvajñānottara kriyāpāda 23/15cd-16ab (IFP T 334 p. 210 and IFP T 760 p.79). The verse is in the pratiṣthāprakaranam, which is a chapter concerning the installation rites of Liṅgas. It reads: liṅgād dhastasatari kṣetram ācāryasthāpitasya tu \[TĀ: -sthāpite sati) ॥ svāyaṁbhūte sahasra syād riṣthibhis tu sadarthakam TĀ: tu tad ardham rṣiyojite | 253-254ab is certainly drawn from another Saiddhāntika source, but I have not been able to identify it.
 
 *[p. 111]* ^pg128
 
@@ -984,7 +984,7 @@ He now explains the condition devoid of the knowledge of reality.
 तदेवायतनत्वेन सं्रयेद्क्तिमक्तये ।
 
 aham anyaḥ parātmānyaḥ śivo ‘nya iti cen matiḥ | 254 Il na mocayen na muktaś ca sarvam ātmamayaṁ yataḥ |
-tasmāt tattvavidā yad yat sthāpitari liṅgam uttamam || 255 |I tadevāyatanatvena saṁśrayed bhuktimuktaye | 
+tasmāt tattvavidā yad yat sthāpitari liṅgam uttamam || 255 || tadevāyatanatvena saṁśrayed bhuktimuktaye | 
 
 He who thinks that “I am one, he is another (person), and Śiva is (yet) another” cannot liberate (others,) nor is (he himself) liberated, for everything is the Self. Therefore, whatever Liṅga is installed by one who knows reality is the best, and one should select that as a sacred place in order (to gain both) worldly benefits and liberation. (254cd-256ab) 
 
@@ -1002,7 +1002,7 @@ And such is also the (view of) scripture. Thus he says:
 
 (८८171 517/4001417161@) 
 
-2071 jṁātvā kālam upasthitam || 256 |I mokṣārthī na bhayam ! gacchet tyajed deham aśaṁkitaḥ |
+2071 jṁātvā kālam upasthitam || 256 || mokṣārthī na bhayam ! gacchet tyajed deham aśaṁkitaḥ |
 tīrthāyatanapunyeṣu kālaṁ vā vañcayet priye ॥ 257 ||
 ayoginām ayam panthā yogī yogena vañcayet |
 vañcane tv asamarthaḥ san kṣetram āyatanari vrajet || 258 ॥
@@ -1026,7 +1026,7 @@ One should not say only this here (in this context), unless one has also (said s
 
 अनेन च धरेषु त्त्ष्वभ्यासयोगत : ॥ २५९ ॥
 तावत्सद्धिजुषोऽप्युक्ता मुक्त्यै ्षेत्रोपयोगिता ।
-anena ca dharādyeṣu tattveṣv abhyāsayogataḥ || 259 II tāvat siddhijuṣo ‘py uktā muktyai kṣetropayogitā | 
+anena ca dharādyeṣu tattveṣv abhyāsayogataḥ || 259 || tāvat siddhijuṣo ‘py uktā muktyai kṣetropayogitā | 
 
 Moreover, it is said by that (scripture) that, by engaging in practice (centred) on the principles of Earth and the rest, (those who do so come to) possess only the accomplishments (siddhi) (corresponding to them), 
 
@@ -1088,7 +1088,7 @@ And the same is declared also elsewhere in the Svāyambhuva, beginning with ‘(
 
 (This happens) ‘as befits their own competence (svaucitya) for it’, not as befits the sacred place (kṣetraucitya). 
 
-202 Read -dīkṣitāh for -dīkṣitā. %3 28/262abc is a literal quotation of MV 12/40abc. In the parallel passage in MV 12/40-41, the reading is yatra tattve. Abhinava quotes the entire passage (MV 12/40-42) in 22/3-5ab, see there. Tt states: yogyatāvaśasahijātā \[k: vaśagā jāteti\] yasya yatraiva vāsanā | sa tatraiva niyoktatryo (> niyoktavyo) dīkṣākāle vicakṣanṇaiḥ ॥ 40 ॥ yo yatra yojitas tattve sa tasmān na nivartate | tatphalaṁ sarvam āsādya \$ Sivayukto ‘pavṛjyate ॥ 41 ॥ ayukto 7) 77717777) suddhāc chivatvam ā iti dagdhasaṁsārabandhanaḥ || 42 I| ‘(The disciple) should be conjoined by skilful (teachers) there at the time of initiation (to the reality level) where (his karmic) predisposition (vāsanā) (for it) has arisen by virtue of (his) competence (yogyatā) (for it). (40) Wherever (the disciple) is conjoined (by the teacher) into a (particular) reality level, he does not return back (from there). (Then,) having (thus) attained all the fruit (of his Karma), he is united with Śiva and departs (from transmigratory existence). (But) even if he is not (thus) united (to Siva), having received a higher purification from the lord of the world (in which he resides), se he is (finally) pure, the fetters of transmigratory existence are burnt away, and he ati Śiva’s state.” 12/41-42 The lines read here yogyatāvaśasarijātā yasya yatraiva vāsanā | sa tatraiva niyoktavyaḥ. MV 12/40abc is also quoted above in 15/3cd-4a, where it reads: yogyatāvaśato yatra vāsanā yasya tatra sah ॥ 3 Il yojyo ... Although less clear there, the meaning is the same. %t Read, as the context demands, cordhvasiddhibhāk for cordhvaśuddhibhāk. %5 These same two passages are also quoted above in 15/2cd-4. 28/263cd-264a is Svāyambhuvāgama (= Sūkṣmasvāyambhuva) 39/2abc. See above, note ad 1/6lcd-62 (62cd-63) and also 8/434ab. yo yatrābhilaṣed bhogān sa tatraiva niyojitaḥ ॥ 2 Il siddhibhāṁmantraśaktyeti śrīmatsvāyamnbhuve vibhuḥ | 15/2cd-3ab 2ab no variants 1 siddhibhāṁmantraśaktyeti in 15/2c = siddhibhāṁmantrasāmarthyāt 28/263cd- 264a. The meaning is the same.
+202 Read -dīkṣitāh for -dīkṣitā. %3 28/262abc is a literal quotation of MV 12/40abc. In the parallel passage in MV 12/40-41, the reading is yatra tattve. Abhinava quotes the entire passage (MV 12/40-42) in 22/3-5ab, see there. Tt states: yogyatāvaśasahijātā \[k: vaśagā jāteti\] yasya yatraiva vāsanā | sa tatraiva niyoktatryo (> niyoktavyo) dīkṣākāle vicakṣanṇaiḥ ॥ 40 ॥ yo yatra yojitas tattve sa tasmān na nivartate | tatphalaṁ sarvam āsādya \$ Sivayukto ‘pavṛjyate ॥ 41 ॥ ayukto 7) 77717777) suddhāc chivatvam ā iti dagdhasaṁsārabandhanaḥ || 42 I| ‘(The disciple) should be conjoined by skilful (teachers) there at the time of initiation (to the reality level) where (his karmic) predisposition (vāsanā) (for it) has arisen by virtue of (his) competence (yogyatā) (for it). (40) Wherever (the disciple) is conjoined (by the teacher) into a (particular) reality level, he does not return back (from there). (Then,) having (thus) attained all the fruit (of his Karma), he is united with Śiva and departs (from transmigratory existence). (But) even if he is not (thus) united (to Siva), having received a higher purification from the lord of the world (in which he resides), se he is (finally) pure, the fetters of transmigratory existence are burnt away, and he ati Śiva’s state.” 12/41-42 The lines read here yogyatāvaśasarijātā yasya yatraiva vāsanā | sa tatraiva niyoktavyaḥ. MV 12/40abc is also quoted above in 15/3cd-4a, where it reads: yogyatāvaśato yatra vāsanā yasya tatra saḥ ॥ 3 Il yojyo ... Although less clear there, the meaning is the same. %t Read, as the context demands, cordhvasiddhibhāk for cordhvaśuddhibhāk. %5 These same two passages are also quoted above in 15/2cd-4. 28/263cd-264a is Svāyambhuvāgama (= Sūkṣmasvāyambhuva) 39/2abc. See above, note ad 1/6lcd-62 (62cd-63) and also 8/434ab. yo yatrābhilaṣed bhogān sa tatraiva niyojitaḥ ॥ 2 Il siddhibhāṁmantraśaktyeti śrīmatsvāyamnbhuve vibhuḥ | 15/2cd-3ab 2ab no variants 1 siddhibhāṁmantraśaktyeti in 15/2c = siddhibhāṁmantrasāmarthyāt 28/263cd- 264a. The meaning is the same.
 
 *[p. 115]* ^pg132
 
@@ -1104,7 +1104,7 @@ the State of Conjunction (sāyujya)
 मृतास्ते तत्र तद्ुद्रसयुक्त्वं यान्ति कोविदाः ।
 
 ye tu tattattvavijñānamantracaryādivartinaḥ ॥ 264 I|
-mṛtās te tatra tadrudrasayuktvarn yānti kovidāḥ | 
+mṛtās te tatra tadrudrasayuktvaṁ yānti kovidāḥ | 
 
 Those skilful (learned ones who) abide in the knowledge of that (reality level), mantras, (disciplined) observance and the rest, enter into a state of union (sayuktva) with that (corresponding) Rudra when they die. (264cd-265ab) 
 
@@ -1139,7 +1139,7 @@ siddhāntādau purānṇeṣu tathā ca śrūyate bahu ॥ 266 ॥
 
 *[p. 116]* ^pg133
 
-tulye rudrāvatāratve citratvarn karmabhogayoḥ | 
+tulye rudrāvatāratve citratvaṁ karmabhogayoḥ | 
 
 And such is what is often heard in the Purāṇas and in the Siddhāntas etc., namely, (although they are all) equally incarnations (avatāra) of Rudra, (their) Karma and worldly experience is varied. (266cd- 267ab) 
 
@@ -1168,7 +1168,7 @@ Surely (one may ask), what does this have to do with the main point (we are disc
 तेन शक्तिसमूहाख्यात् तस्माद्रुदराद्यदंशतः ॥ २६८ ॥
 कृत्यं तदुचितं सिद्ध्येत् सोंऽशोऽवतरति स्फुटम् ।
 
-tena śaktisamūhākhyāt tasmād rudrād yad amSatah ॥ 268 II kṛtyami taducita siddhyet 50 "750 ‘vatarati sphuṭam | 
+tena śaktisamūhākhyāt tasmād rudrād yad amSatah ॥ 268 ॥ kṛtyami taducita siddhyet 50 "750 ‘vatarati sphuṭam | 
 
 S The meaning then would be: ‘the body of a (phenomenal) entity is inlaid (khacita) with many powers and so .. 2 See Dyczkowski 1987: 55-56.
 
@@ -1234,7 +1234,7 @@ Death in Sacred Places
 तत्परस्य तु सायुज्यमित्यक्तं परमेशिना ॥ २७३ ॥
 
 paśumātrasya sdlokyam sāmīpyaṁ dīkṣitasya tu |
-tatparasya tu sāyujyam ity uktarn parameśinā ॥ 273 ॥ 
+tatparasya tu sāyujyam ity uktaṁ parameśinā ॥ 273 ॥ 
 
 (Thus, in brief,) the Supreme Lord has said that one who is just a common fettered soul (who has not received initiation but has died in one of these places attains a state) of cohabitation in the same world (as the deity who governs it) (sālokya); one who has been initiated, proximity (to it) (sāmīpya), and one who is other than these, union (with it) (sāyujya). (273) 
 
@@ -1252,7 +1252,7 @@ He who has been initiated into increasing higher levels, such as the Siddhānta,
 दीक्षा ज्ञानं तथा तीर्थं तस्येत्यादि सविस्तरम् ॥ २७५ ॥
 
 yas tūrdhvaśāstragas tatra tyaktāsthaḥ saṁiśayena saḥ |
-vrajann āyatanar naiva phalarn kiñcit samaśnute ॥ 274 ॥
+vrajann āyatanar naiva phalaṁ kiñcit samaśnute ॥ 274 ॥
 uktaṁ tadviṣayaṁ caitad devadevena yad vṛthā |
 dīkṣā jñānar tathā tīrthaṁ tasyetyādi savistaram ॥ 275 ॥ 
 

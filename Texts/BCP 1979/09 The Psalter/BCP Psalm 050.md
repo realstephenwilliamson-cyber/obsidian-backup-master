@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 50
 verses: 24
-page_range:
-  - 654
-  - 656
+page_range: "654–656"
 aliases:
   - "BCP Psalm 50"
   - "BCP 654"
@@ -57,7 +55,7 @@ nor he-goats out of your pens; ^50-9
 **50:10** For all the beasts of the forest are mine, \*  
 the herds in their thousands upon the hills. ^50-10
 
-[p. 655]
+[p. 655] ^pg655
 
 **50:11** I know every bird in the sky, \*  
 and the creatures of the fields are in my sight. ^50-11
@@ -99,7 +97,7 @@ I have put my case in order before your eyes. ^50-22
 **50:23** Consider this well, you who forget God, \*  
 lest I rend you and there be none to deliver you. ^50-23
 
-[p. 656]
+[p. 656] ^pg656
 
 **50:24** Whoever offers me the sacrifice of thanksgiving honors me; \*  
 but to those who keep in my way will I show the salvation of God." ^50-24

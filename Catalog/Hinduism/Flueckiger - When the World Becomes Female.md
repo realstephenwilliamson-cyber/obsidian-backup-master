@@ -17,8 +17,7 @@ language:
   - English
 pages: 334
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Flueckiger - When the World Becomes Female (2013).pdf]]"
   - "[[Library/Hinduism/When the World Becomes Female (Flueckiger)/When the World Becomes Female (Flueckiger)]]"

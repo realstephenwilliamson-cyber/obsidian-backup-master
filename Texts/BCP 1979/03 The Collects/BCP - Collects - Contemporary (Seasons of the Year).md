@@ -5,9 +5,7 @@ section: "The Collects"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Collects/seasonsc.html"
-page_range:
-  - 211
-  - 236
+page_range: "211–236"
 aliases:
   - "BCP 211"
   - "BCP 212"
@@ -40,7 +38,7 @@ aliases:
 
 [[BCP 1979]] · *The Collects* · pages 211–236
 
-[p. 211]
+[p. 211] ^pg211
 
 ## Collects: Contemporary
 
@@ -56,7 +54,7 @@ Merciful God, who sent your messengers the prophets to preach repentance and pre
 
 *Preface of Advent*
 
-[p. 212]
+[p. 212] ^pg212
 
 ### Third Sunday of Advent
 
@@ -82,7 +80,7 @@ O God, you make us glad by the yearly festival of the birth of your only Son Jes
 
 O God, you have caused this holy night to shine with the brightness of the true Light: Grant that we, who have known the mystery of that Light on earth, may also enjoy him perfectly in heaven; where with you and the Holy Spirit he lives and reigns, one God, in glory everlasting. *Amen.* ^collect-the-nativity-of-our-lord-christmas-day-2
 
-[p. 213]
+[p. 213] ^pg213
 
 *or this*
 
@@ -108,7 +106,7 @@ Eternal Father, you gave to your incarnate Son the holy name of Jesus to be the 
 
 *Preface of the Incarnation*
 
-[p. 214]
+[p. 214] ^pg214
 
 ### Second Sunday after Christmas Day
 
@@ -132,7 +130,7 @@ Father in heaven, who at the baptism of Jesus in the River Jordan proclaimed him
 
 *Preface of the Epiphany*
 
-[p. 215]
+[p. 215] ^pg215
 
 ### Second Sunday after the Epiphany
 
@@ -152,7 +150,7 @@ Almighty and everlasting God, you govern all things both in heaven and on earth:
 
 *Preface of the Epiphany, or of the Lord's Day*
 
-[p. 216]
+[p. 216] ^pg216
 
 ### Fifth Sunday after the Epiphany
 
@@ -196,7 +194,7 @@ Almighty and everlasting God, you hate nothing you have made and forgive the sin
 
 *This Collect, with the corresponding Psalm and Lessons, also serves for the weekdays which follow, except as otherwise appointed.*
 
-[p. 218]
+[p. 218] ^pg218
 
 ### First Sunday in Lent
 
@@ -218,7 +216,7 @@ Almighty God, you know that we have no power in ourselves to help ourselves: Kee
 
 *Preface of Lent*
 
-[p. 219]
+[p. 219] ^pg219
 
 ### Fourth Sunday in Lent
 
@@ -240,7 +238,7 @@ Almighty and everliving God, in your tender love for the human race you sent you
 
 *Preface of Holy Week*
 
-[p. 220]
+[p. 220] ^pg220
 
 ### Monday in Holy Week
 
@@ -260,7 +258,7 @@ Lord God, whose blessed Son our Savior gave his body to be whipped and his face 
 
 *Preface of Holy Week*
 
-[p. 221]
+[p. 221] ^pg221
 
 ### Maundy Thursday
 
@@ -282,7 +280,7 @@ Almighty God, we pray you graciously to behold this your family, for whom our Lo
 
 O God, Creator of heaven and earth: Grant that, as the crucified body of your dear Son was laid in the tomb and rested on this holy Sabbath, so we may await with him the coming of the third day, and rise with him to newness of life; who now lives and reigns with you and the Holy Spirit, one God, for ever and ever. *Amen.* ^collect-holy-saturday
 
-[p. 222]
+[p. 222] ^pg222
 
 ### Easter Day
 
@@ -324,7 +322,7 @@ Almighty and everlasting God, who in the Paschal mystery established the new cov
 
 *Preface of Easter*
 
-[p. 224]
+[p. 224] ^pg224
 
 ### Friday in Easter Week
 
@@ -370,7 +368,7 @@ O God, you have prepared for those who love you such good things as surpass our 
 
 *Monday, Tuesday, and Wednesday of this week are the traditional Rogation Days.*
 
-[p. 226]
+[p. 226] ^pg226
 
 ### Ascension Day
 
@@ -390,7 +388,7 @@ O God, the King of glory, you have exalted your only Son Jesus Christ with great
 
 *Preface of the Ascension*
 
-[p. 227]
+[p. 227] ^pg227
 
 ### The Day of Pentecost: Whitsunday
 
@@ -408,7 +406,7 @@ O God, who on this day taught the hearts of your faithful people by sending to t
 
 *Wednesday, Friday, and Saturday of this week are the traditional summer Ember Days.*
 
-[p. 228]
+[p. 228] ^pg228
 
 ### First Sunday after Pentecost: Trinity Sunday
 
@@ -462,7 +460,7 @@ O God, from whom all good proceeds: Grant that by your inspiration we may think 
 
 *Preface of the Lord's Day*
 
-[p. 230]
+[p. 230] ^pg230
 
 ### Proper 6
 
@@ -520,7 +518,7 @@ O God, the protector of all who trust in you, without whom nothing is strong, no
 
 *Preface to the Lord's Day*
 
-[p. 232]
+[p. 232] ^pg232
 
 ### Proper 13
 
@@ -580,7 +578,7 @@ O God, because without you we are not able to please you, mercifully grant that 
 
 *The Wednesday, Friday, and Saturday after September 14 are the traditional autumnal Ember Days.*
 
-[p. 234]
+[p. 234] ^pg234
 
 ### Proper 20
 
@@ -638,7 +636,7 @@ Almighty and merciful God, it is only by your gift that your faithful people off
 
 *Preface of the Lord's Day*
 
-[p. 236]
+[p. 236] ^pg236
 
 ### Proper 27
 

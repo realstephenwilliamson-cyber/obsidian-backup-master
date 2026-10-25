@@ -20,7 +20,7 @@ language:
 pages: 283
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[H.N. Chakravarty, Boris Marjanovic - Tantrasara of Abhinavagupta-Rudra Press (2012).pdf]]"
   - "[[Library/Trika/Tantrasara of Abhinavagupta (Abhinavagupta)/Tantrasara of Abhinavagupta (Abhinavagupta)]]"

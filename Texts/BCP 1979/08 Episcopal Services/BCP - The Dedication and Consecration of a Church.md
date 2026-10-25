@@ -5,9 +5,7 @@ section: "Episcopal Services"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/EpiscopalServices/churchdedication.html"
-page_range:
-  - 567
-  - 574
+page_range: "567–574"
 aliases:
   - "BCP 567"
   - "BCP 568"
@@ -22,7 +20,7 @@ aliases:
 
 [[BCP 1979]] · *Episcopal Services* · pages 567–574
 
-[p. 567]
+[p. 567] ^pg567
 
 ## The Dedication and Consecration of a Church
 
@@ -40,7 +38,7 @@ Almighty God, we thank you for making us in your image, to share in the ordering
 
 *As the procession approaches the door of the church, singing and instrumental music are appropriate.*
 
-[p. 568]
+[p. 568] ^pg568
 
 *Standing at the door of the church, the Bishop says*
 
@@ -90,7 +88,7 @@ We dedicate this Font in the Name of the Father, and of the Son, and of the Holy
 
 *If there are persons to be baptized, water is now poured into the Font, and the service continues as directed on page 575.*
 
-[p. 570]
+[p. 570] ^pg570
 
 *If no Baptism is to take place [water may be poured into the Font, and] the Bishop says*
 
@@ -134,7 +132,7 @@ We dedicate this Pulpit in the Name of the Father, and of the Son, and of the Ho
 
 *Old Testament [[I Kings 08#^8-22|1 Kings 8:22-23]],27b-30, or [[II Samuel 06#^6-12|2 Samuel 6:12-15]],17-19 Psalm 84, or 48 Epistle [[Revelation 21#^21-2|Revelation 21:2-7]], or [[1 Corinthians 03#^3-1|1 Corinthians 3:1-11]],16-17 or [[1 Peter 02#^2-1|1 Peter 2:1-9]]*
 
-[p. 572]
+[p. 572] ^pg572
 
 *When an instrument of music is to be dedicated, after the Epistle the Bishop proceeds to an appropriate place, and says*
 
@@ -162,7 +160,7 @@ We dedicate this (*name of instrument*) in the Name of the Father, and of the So
 
 Almighty God, all times are your seasons, and all occasions invite your tender mercies: Accept our prayers and intercessions offered in this place today and in the days to come; through Jesus Christ, our Mediator and Advocate. *Amen.*
 
-[p. 573]
+[p. 573] ^pg573
 
 We give you thanks, O God, for the gifts of your people, and for the work of many hands, which have beautified this place and furnished it for the celebration of your holy mysteries. Accept and bless all we have done, and grant that in these earthly things we may behold the order and beauty of things heavenly; through Jesus Christ our Lord. *Amen.*
 
@@ -182,7 +180,7 @@ We praise you for sending your Holy Spirit to make us holy, and to unite us in y
 
 *The Bishop lays a hand upon the Table, and continues*
 
-[p. 574]
+[p. 574] ^pg574
 
 Lord God, hear us. Sanctify this Table dedicated to you. Let it be to us a sign of the heavenly Altar where your saints and angels praise you for ever. Accept here the continual recalling of the sacrifice of your Son. Grant that all who eat and drink at this holy Table may be fed and refreshed by his flesh and blood, be forgiven for their sins, united with one another, and strengthened for your service. *Blessed be your Name, Father, Son, and Holy Spirit; now and for endless ages. Amen.*
 

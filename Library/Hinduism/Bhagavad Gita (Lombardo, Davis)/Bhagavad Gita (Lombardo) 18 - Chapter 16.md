@@ -6,7 +6,7 @@ page_range: "87–90"
 aliases:
   - "Gita (Lombardo) 16"
 ---
-[p. 87]
+[p. 87] ^pg87
 
 ## Chapter Sixteen
 

@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 119
 verses: 176
-page_range:
-  - 764
-  - 778
+page_range: "764–778"
 aliases:
   - "BCP Psalm 119"
   - "BCP 764"
@@ -62,7 +60,7 @@ when I have learned your righteous judgments. ^119-7
 **119:8** I will keep your statutes; \*  
 do not utterly forsake me. ^119-8
 
-[p. 764]
+[p. 764] ^pg764
 
 **Beth** In quo corrigit?
 
@@ -104,7 +102,7 @@ do not hide your commandments from me. ^119-19
 **119:20** My soul is consumed at all times \*  
 with longing for your judgments. ^119-20
 
-[p. 765]
+[p. 765] ^pg765
 
 **119:21** You have rebuked the insolent; \*  
 cursed are they who stray from your commandments! ^119-21
@@ -144,7 +142,7 @@ O LORD, let me not be put to shame. ^119-31
 **119:32** I will run the way of your commandments, \*  
 for you have set my heart at liberty. ^119-32
 
-[p. 766]
+[p. 766] ^pg766
 
 **He** Legem pone
 
@@ -183,7 +181,7 @@ because I trust in your words. ^119-42
 **119:43** Do not take the word of truth out of my mouth, \*  
 for my hope is in your judgments. ^119-43
 
-[p. 767]
+[p. 767] ^pg767
 
 **119:44** I shall continue to keep your law; \*  
 I shall keep it for ever and ever. ^119-44
@@ -226,7 +224,7 @@ and dwell upon your law. ^119-55
 **119:56** This is how it has been with me, \*  
 because I have kept your commandments. ^119-56
 
-[p. 768]
+[p. 768] ^pg768
 
 **Heth** Portio mea, Domine
 
@@ -268,7 +266,7 @@ but now I keep your word. ^119-67
 **119:68** You are good and you bring forth good; \*  
 instruct me in your statutes. ^119-68
 
-[p. 769]
+[p. 769] ^pg769
 
 **119:69** The proud have smeared me with lies, \*  
 but I will keep your commandments with my whole heart. ^119-69
@@ -305,7 +303,7 @@ but I will meditate on your commandments. ^119-78
 **119:79** Let those who fear you turn to me, \*  
 and also those who know your decrees. ^119-79
 
-[p. 770]
+[p. 770] ^pg770
 
 **119:80** Let my heart be sound in your statutes, \*  
 that I may not be put to shame. ^119-80
@@ -344,7 +342,7 @@ it stands firm in the heavens. ^119-89
 **119:90** Your faithfulness remains from one generation to another; \*  
 you established the earth, and it abides. ^119-90
 
-[p. 771]
+[p. 771] ^pg771
 
 **119:91** By your decree these continue to this day, \*  
 for all things are your servants. ^119-91
@@ -387,7 +385,7 @@ because you yourself have taught me. ^119-102
 **119:103** How sweet are your words to my taste! \*  
 they are sweeter than honey to my mouth. ^119-103
 
-[p. 772]
+[p. 772] ^pg772
 
 **119:104** Through your commandments I gain understanding; \*  
 therefore I hate every lying way. ^119-104
@@ -423,7 +421,7 @@ for ever and to the end. ^119-112
 **119:113** I hate those who have a divided heart, \*  
 but your law do I love. ^119-113
 
-[p. 773]
+[p. 773] ^pg773
 
 **119:114** You are my refuge and shield; \*  
 my hope is in your word. ^119-114
@@ -466,7 +464,7 @@ that I may know your decrees. ^119-125
 **119:126** It is time for you to act, O LORD, \*  
 for they have broken your law. ^119-126
 
-[p. 774]
+[p. 774] ^pg774
 
 **119:127** Truly, I love your commandments \*  
 more than gold and precious stones. ^119-127
@@ -505,7 +503,7 @@ because people do not keep your law. ^119-136
 **119:137** You are righteous, O LORD, \*  
 and upright are your judgments. ^119-137
 
-[p. 775]
+[p. 775] ^pg775
 
 **119:138** You have issued your decrees \*  
 with justice and in perfect faithfulness. ^119-138
@@ -543,7 +541,7 @@ for in your word is my trust. ^119-147
 **119:148** My eyes are open in the night watches, \*  
 that I may meditate upon your promise. ^119-148
 
-[p. 776]
+[p. 776] ^pg776
 
 **119:149** Hear my voice, O LORD, according to your loving-kindness; \*  
 according to your judgments, give me life. ^119-149
@@ -583,7 +581,7 @@ O LORD, in your mercy, preserve me. ^119-159
 **119:160** The heart of your word is truth; \*  
 all your righteous judgments endure for evermore. ^119-160
 
-[p. 777]
+[p. 777] ^pg777
 
 **Shin** Principes persecuti sunt
 
@@ -625,7 +623,7 @@ when you teach me your statutes. ^119-171
 **119:172** My tongue shall sing of your promise, \*  
 for all your commandments are righteous. ^119-172
 
-[p. 778]
+[p. 778] ^pg778
 
 **119:173** Let your hand be ready to help me, \*  
 for I have chosen your commandments. ^119-173

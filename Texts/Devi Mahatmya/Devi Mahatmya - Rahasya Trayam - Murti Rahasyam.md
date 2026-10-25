@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-auxiliary
 title: Rahasya Trayam — Mūrti Rahasyam
+collection: "Devī Māhātmya"
 role: rahasya
 status: stub
 aliases:

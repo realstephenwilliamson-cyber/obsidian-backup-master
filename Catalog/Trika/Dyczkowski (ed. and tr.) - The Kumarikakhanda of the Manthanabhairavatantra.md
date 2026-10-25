@@ -20,8 +20,7 @@ language:
   - Sanskrit
 pages: 3655
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Dyczkowski (ed. and tr.) - The Kumarikakhanda of the Manthanabhairavatantra (2009).pdf]]"
 aliases: []

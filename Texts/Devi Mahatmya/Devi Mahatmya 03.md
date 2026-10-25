@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-chapter
 title: Devī Māhātmya 3
+work: "Devī Māhātmya"
 chapter: 3
 charitra: Madhyama Charitra (Middle Episode)
 markandeya_purana_chapter: 80
@@ -19,7 +20,7 @@ Chapter 3 of the Devī Māhātmya (*Durgā Saptaśatī*), corresponding to chapt
 
 ## Sanskrit text
 
-*(not yet entered — add the Devanāgarī/IAST verses here when available)*
+Not entered here: the Sanskrit (IAST) with an English translation is in [[Devi Mahatmya - Durga Saptashati 04 - Chapter 3 The Slaying of Mahisasura|the DeviMahatmya.com edition, chapter 3]].
 
 ## Notes
 

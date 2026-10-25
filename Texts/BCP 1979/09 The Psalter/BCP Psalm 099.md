@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 99
 verses: 9
-page_range:
-  - 729
-  - 729
+page_range: "729"
 aliases:
   - "BCP Psalm 99"
   - "BCP 729"
@@ -27,7 +25,7 @@ let the people tremble; \*
 he is enthroned upon the cherubim;  
 let the earth shake. ^99-1
 
-[p. 729]
+[p. 729] ^pg729
 
 **99:2** The LORD is great in Zion; \*  
 he is high above all peoples. ^99-2

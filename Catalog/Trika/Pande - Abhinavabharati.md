@@ -17,8 +17,7 @@ language:
   - English
 pages: 185
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Pande - Abhinavabharati (1997).pdf]]"
   - "[[Library/Trika/Abhinavabharati - Abhinavagupta's Commentary on Bharata's (Pande)/Abhinavabharati - Abhinavagupta's Commentary on Bharata's (Pande)]]"

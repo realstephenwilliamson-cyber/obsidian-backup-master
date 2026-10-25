@@ -17,8 +17,7 @@ language:
   - English
 pages: 120
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Singer - Marx, A Very Short Introduction (2000).pdf]]"
   - "[[Library/Philosophy/Marx, A Very Short Introduction (Singer)/Marx, A Very Short Introduction (Singer)]]"

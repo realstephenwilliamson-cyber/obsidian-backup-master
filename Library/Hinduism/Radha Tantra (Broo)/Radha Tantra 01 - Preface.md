@@ -4,7 +4,7 @@ book: "[[The Radha Tantra (Broo)]]"
 order: 1
 page_range: "vi–vii"
 ---
-[p. vi]
+[p. vi] ^pgvi
 
 # Preface
 

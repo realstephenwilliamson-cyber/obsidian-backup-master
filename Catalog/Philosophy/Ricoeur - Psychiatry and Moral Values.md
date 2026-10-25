@@ -19,7 +19,7 @@ language:
 pages: 15
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[PsychiatryMoralValues.pdf]]"
   - "[[Library/Philosophy/Psychiatry and Moral Values (Ricoeur)]]"

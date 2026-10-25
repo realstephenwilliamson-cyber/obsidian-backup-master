@@ -4,7 +4,7 @@ work: "[[Catalog/Judaica/Rubenstein - Elisha ben Abuya]]"
 book: "[[Library/Judaica/Elisha ben Abuya (Rubenstein)/Elisha ben Abuya (Rubenstein)|Elisha ben Abuya (Rubenstein)]]"
 order: 1
 source_pdf: "Library/Judaica/ElishaBenAbuya.pdf"
-pages: "139–177"
+page_range: "139–177"
 pdf_pages: "1–20"
 text_source: "fresh OCR with Tesseract 5 (eng) of the page images (the earlier OCR layer dropped words)"
 converted: 2026-10-22

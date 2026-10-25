@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/concernhe2.html"
-page_range:
-  - 354
-  - 354
+page_range: "354"
 aliases:
   - "BCP 354"
 ---
@@ -15,7 +13,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 354–354
 
-[p. 354]
+[p. 354] ^pg354
 
 ## Concerning the Celebration
 

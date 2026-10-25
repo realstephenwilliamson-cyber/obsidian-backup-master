@@ -19,8 +19,7 @@ language:
   - English
 pages: 376
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Simmons, Sen, Rodrigues (eds.) - Nine Nights of the Goddess (2018).pdf]]"
 aliases:

@@ -20,7 +20,7 @@ sins are called “sins.” A goat, for instance, was offered for sin, a ram, an
 
 6\. What meaneth this then thy senseless exultation, O thou that didst hold me captive, for that my Deliverer had mortal Flesh? See, if He had sin; if thou hast found anything of thine in Him, hold Him fast. “The Word was made Flesh.”<sup>4015</sup> The Word is the Creator, the Flesh His creature. What is there here of thine, O enemy? And the Word is God, and His Human<sup>4016</sup> Soul is His creature, and His Human Flesh His creature, and the Mortal Flesh of God is His creature. Seek for sin here. But what art thou seeking? The Truth saith, “The prince of this world shall come, and shall find nothing in Me.”<sup>4017</sup> He did not therefore not find Flesh, but nothing of his own, that is, no sin. Thou didst deceive the innocent, thou madest them guilty. Thou didst slay the Innocent; thou destroyedst Him from whom thou hadst nothing due, render back what thou didst hold fast. Why then didst thou exult for a short hour, because thou didst find in Christ mortal Flesh? It was thy trap: whereupon thou didst rejoice, thereby hast thou been taken. Wherein thou didst exult that thou hadst found something, therein thou sorrowest now that thou hast lost what thou didst possess. Therefore, brethren, let us who believe in Christ, continue in His word. For if we shall continue in His word, we are His disciples indeed. For not those twelve only, but all we who continue in His word are His disciples indeed. And “we shall know the Truth, and the Truth shall free us;” that is, Christ the Son of God who hath said, “I am the Truth,”<sup>4018</sup> shall make you free, that is, shall free you, not from barbarians, but from the devil; not from the captivity of the body, but from the iniquity of the soul. It is He Only who freeth in such wise. Let no one call himself free, lest he remain a slave. Our soul shall not remain in bondage, for that day by day our debts are forgiven.
 
-401\. 3 Lev. iv. 29, Sept. 4014 Matt. xxvi. 28. 4015 John i. 14. 4016 *Hominis*. 4017 John xiv. 30.
+4013 Lev. iv. 29, Sept. 4014 Matt. xxvi. 28. 4015 John i. 14. 4016 *Hominis*. 4017 John xiv. 30.
 
 
 *[p. 1059]* ^pg1085
@@ -37,9 +37,9 @@ Sermon LXXXV.
 
 3\. I ask Thee, O Lord Christ, resolve the difficulty, put an end to the contention. “All things,” saith He, “that the Father hath are Mine.” Are they then not the Father’s, if they are Thine? For He doth not say, “All things that the Father hath He hath given unto Me;” although, if He had said even this, He would have shown His equality. But the difficulty is that He said, “All things that the Father hath are Mine.” If you understand it aright, All things that the Father hath, are the Son’s; all things that the Son hath, are the Father’s. Hear
 
-401\. 9 John ix. 7.
+4019 John ix. 7.
 
-402\. 0 John ix. 4. 4021 John xvi. 15. 513 4023 John xvii. 10. 4024 *Litigare*. 4025 John v. 19. 4026 Ps. cix. 3, Sept. (cx. English version). Gen. i. 1.
+4020 John ix. 4. 4021 John xvi. 15. 513 4023 John xvii. 10. 4024 *Litigare*. 4025 John v. 19. 4026 Ps. cix. 3, Sept. (cx. English version). Gen. i. 1.
 
 
 *[p. 1060]* ^pg1086
@@ -60,9 +60,9 @@ God, and the Word was God.”<sup>4028</sup> So often do ye hear, “Was:” see
 
 6\. There is a something in the words of that man who was blind, which may cause perplexity, and peradventure make many who understand them not aright despair. For he said amongst the rest of his words, the same man whose eyes were opened, “We know that God heareth not sinners.”<sup>4031</sup> What shall we do, if God heareth not sinners? Dare we pray to God if He heareth not sinners? Give me one who may pray: lo, here is One to hear. Give me one who may pray, sift thoroughly the human race from the imperfect to the perfect. Mount up from the spring to the summer; for this we have just chanted. “Thou hast made summer and spring;”<sup>4032</sup> that is, “Those who are already spiritual, and those who are still carnal hast Thou made;” for so the Son Himself saith, “Thine Eyes have seen My imperfect being.”<sup>4033</sup>
 
-402\. 8 John i. 1. 4029 John xvii. 24.
+4028 John i. 1. 4029 John xvii. 24.
 
-403\. 0 John v. 21. 4031 John ix. 31. 4032 Ps. lxxiii. 17, Sept. (lxxiv. English version). Ps. cxxxviii. 16, Sept. (cxxxix. English version). 514 4034 Luke xviii. 13. 4035 Theoph. and Euthym. understand this not thus absolutely, but that God does not hear sinners so as to enable them to work miracles, the miracle being allowed; St. Hilary applies it to those who continue in sin, and whose prayer is not truly prayer, “prayer being not the profession of words, but of faith.” *In Ps*. lii. § 13. 4036 John ix. 35, 36. 4037 John ix. 37, 38. Lev. xvi.; Heb. vii. 27.
+4030 John v. 21. 4031 John ix. 31. 4032 Ps. lxxiii. 17, Sept. (lxxiv. English version). Ps. cxxxviii. 16, Sept. (cxxxix. English version). 514 4034 Luke xviii. 13. 4035 Theoph. and Euthym. understand this not thus absolutely, but that God does not hear sinners so as to enable them to work miracles, the miracle being allowed; St. Hilary applies it to those who continue in sin, and whose prayer is not truly prayer, “prayer being not the profession of words, but of faith.” *In Ps*. lii. § 13. 4036 John ix. 35, 36. 4037 John ix. 37, 38. Lev. xvi.; Heb. vii. 27.
 
 
 *[p. 1062]* ^pg1088
@@ -81,9 +81,9 @@ breast, with you I ask for pardon, with you I hope that God will be merciful. Bu
 
 8\. But what shall I say? Peradventure when they learnt the prayer, they were still weak. Some one, perhaps, will say this. When the Lord Jesus taught them that prayer, they were yet babes, weak, carnal; they were not yet spiritual, who have no sin. What then, Brethren? When they became spiritual, did they cease to pray? Then Christ ought to have said, “Pray in such wise now;” and to have given them, when spiritual, another prayer. It is one and the same. He who gave it is One and the Same; use it then in prayer in the Church. But we will take away all controversy, when you say the Holy Apostles were spiritual, up to the time of the Lord’s Passion they were carnal; this you must say. And indeed, the truth is, as He was hanging, they were in alarm, and the Apostles then despaired when the robber believed. Peter dared to follow, when the Lord was led to suffering, he dared to follow, who came to the house, and was wearied in the palace, and stood at the fire, and was cold; he stood at the fire, he was frozen with a chilling fear. Being questioned by the maid-servant, he denied Christ once; being questioned a second time, he denied Him; being questioned a third time, he denied Him.<sup>4042</sup> God be thanked, that the questioning ceased; if the questioning had not ceased, long would the denial have been repeated. So then after He rose again, then He confirmed them, then did they become spiritual. Had they at that time then no sin? The Apostles spiritual, wrote spiritual epistles, they sent them to the Churches; “they had no sin.” This you say. I do not believe you, I ask themselves. Tell us, O holy Apostles, after the Lord rose again, and confirmed you with the Holy Ghost sent from heaven; did ye cease to have sin? Tell us, I pray you. Let us hear, that sinners may not despair, that they may not leave off to pray to God, because they are not without sin. Tell us. One of them saith. And who? He whom the Lord loved the most, and who lay on the Lord’s Breast,<sup>4043</sup> and drank
 
-403\. 9 *Arietes*.
+4039 *Arietes*.
 
-404\. 0 Matt. vi. 9. 4041 Matt. vi. 12. 4042 Matt. xxvi. 69, etc.
+4040 Matt. vi. 9. 4041 Matt. vi. 12. 4042 Matt. xxvi. 69, etc.
 
 
 *[p. 1064]* ^pg1090
@@ -92,7 +92,7 @@ breast, with you I ask for pardon, with you I hope that God will be merciful. Bu
 
 in the mysteries of the kingdom of heaven which he was to pour forth again. Him I ask; “Have ye sin or not?” He maketh answer and saith, “If we shall say that we have no sin, we deceive ourselves, and the truth is not in us.”<sup>4044</sup> Now it is the same John who said, “In the beginning was the Word, and the Word was with God, and the Word was God.”<sup>4045</sup> See ye what heights he had passed, that he could reach to the Word! Such an one, and so great, who like an eagle soared above the clouds, who in the serene clearness of his mind saw, “In the beginning was the Word;” he hath said, “If we shall say that we have no sin, we deceive ourselves, and the truth is not in us. But if we shall confess our sins, He is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.” <sup>4046</sup> Therefore pray ye.
 
-404\. 4 1 John i. 8. 4045 John i. 1. 1 John i. 9.
+4044 1 John i. 8. 4045 John i. 1. 1 John i. 9.
 
 
 *[p. 1065]* ^pg1091
@@ -107,9 +107,9 @@ Sermon LXXXVI.
 
 2\. With the eyes of faith ye have seen this man blind, ye have seen him too of blind seeing; but ye have heard him erring. Wherein this blind man erred, I will tell you; first, in that he thought Christ a prophet, and knew not that He was the Son of God. And then we have heard an answer of his entirely false; for he said, “We know that God heareth not sinners.”<sup>4049</sup> If God heareth not sinners, what hope have we? If God heareth not sinners, why do we pray, and publish the record of our sin by the beating of the breast? Where again is that Publican, who went up with the Pharisee into the temple<sup>4050</sup> and while the Pharisee was boasting, parading<sup>4051</sup> his own merits, he standing afar off, and with his eyes fastened on the ground, and beating his breast, was confessing his sins? And this man, who confessed
 
-404\. 7 John ix. 2. 4048 John ix. 3. 4049 John ix. 31.
+4047 John ix. 2. 4048 John ix. 3. 4049 John ix. 31.
 
-405\. 0 Luke xviii. 10. *Ventilante*.
+4050 Luke xviii. 10. *Ventilante*.
 
 
 *[p. 1066]* ^pg1092
@@ -120,7 +120,7 @@ his sins, went down from the temple justified rather than the other Pharisee. As
 
 3\. But they who cast him out continued blind, forasmuch as they cavilled at the Lord, that it was the sabbath when He made clay of the spittle, and anointed the eyes of the blind man. For when the Lord cured with a word, the Jews openly cavilled. For He did no work on the sabbath day, when He spake, and it was done. It was a manifest cavil; they cavilled at Him merely commanding, they cavilled at Him speaking; as if they did not themselves speak all the sabbath day. I might say that they do not speak not only on the sabbath, but on no day, forasmuch as they have kept back from the praises of the True God. Nevertheless, as I have said, brethren, it was a manifest cavil. The Lord said to a certain man, “Stretch forth thine hand;”<sup>4056</sup> he was made whole, and they cavilled for that He healed on the sabbath day. What did He do? what work did He do? what burden did He bear? But in this instance, the spitting on the ground, the making clay, and anointing the man’s eyes, is doing some work. Let no one doubt it, it was doing a work. The Lord did break the sabbath; but was not therefore guilty. What is that I have said, “He brake the sabbath”? He, the Light had come, He was removing the shadows. For the sabbath was enjoined by the Lord God, enjoined by Christ Himself, who was with the Father, when that Law was given; it was enjoined by Him, but in shadow of what was to come. “Let no man therefore judge you in meat, or in drink, or in respect of an holy day, or of the new moon, or of the sabbath days, which are a shadow of things to come.”<sup>4057</sup> He had now come whose coming these things announced. Why do
 
-405\. 2 John ix. 35, 36. 4053 John ix. 37. 4054 John ix. 7. 4055 John iv. 34, v. 30, vi. 38. 4056 Matt. xii. 13. Col. ii. 16, 17.
+4052 John ix. 35, 36. 4053 John ix. 37. 4054 John ix. 7. 4055 John iv. 34, v. 30, vi. 38. 4056 Matt. xii. 13. Col. ii. 16, 17.
 
 
 *[p. 1067]* ^pg1093
@@ -133,9 +133,9 @@ will understand that by the sabbath Christ was prophesied. But ye, because ye ha
 
 4\. Exceeding alarm! “That they which see not may see:” Good. It is a Saviour’s office, a profession of healing power, “That they which see not may see.” But what, Lord, is that Thou hast added, “That they which see may be made blind”? If we understand, it is most true, most righteous. Yet what is, “They which see”? They are the Jews. Do they then see? According to their own words, they see; according to the truth, they do not see. What then is, “they see”? They think they see, they believe they see. For they believed they did see, when they maintained the Law against Christ. “We know;” therefore they see. What is “We know,” but we see? What is, “this Man is not of God, because He thus breaketh the sabbath day”? They see; they read what the Law said. For it was enjoined that whosoever should break the sabbath day, should be stoned.<sup>4062</sup> Therefore said they that He was not of God; but though seeing, they were blind to this, that for judgment He came into the world who is to be the Judge of quick and dead; why came He? “That they which see not may see:” that they who confess that they do not see, may be enlightened. “And that they which see may be made blind;” that is, that they who confess not their own blindness, may be the more hardened. And, in fact, “That they which see may be made blind,” has been fulfilled; the defenders of the Law, Doctors<sup>4063</sup> of the Law, the teachers of the Law, the understanders of the Law, crucified the Author of the Law. O blindness, this is that which “in part hath happened to Israel.”<sup>4064</sup> That Christ might be crucified, and the fulness of the Gentiles might come in,
 
-405\. 8 John ix. 24. 4059 John ix. 16.
+4058 John ix. 24. 4059 John ix. 16.
 
-406\. 0 *Prædicavit*. 4061 John ix. 39. 4062 Num. xv. 36. 4063 *Tractatores*. 517 4065 2 Kings iv. 29. 4066 Gal. iii. 21. 4067 Gal. iii. 22. 4068 Rom. vii. 7. 2 Cor. iii. 6.
+4060 *Prædicavit*. 4061 John ix. 39. 4062 Num. xv. 36. 4063 *Tractatores*. 517 4065 2 Kings iv. 29. 4066 Gal. iii. 21. 4067 Gal. iii. 22. 4068 Rom. vii. 7. 2 Cor. iii. 6.
 
 
 *[p. 1068]* ^pg1094
@@ -152,7 +152,7 @@ will understand that by the sabbath Christ was prophesied. But ye, because ye ha
 
 6\. Let then Gehazi, Elisha’s servant, receive the staff, as Moses the servant of God received the Law. Let him receive the staff, receive it, run, go before, anticipate him, lay the staff upon the face of the dead child. And so it was; he did receive it, he ran, he laid the staff upon the face of the dead child. But to what purpose? what serveth the staff? “If there had been a Law given which could give life,” the boy might have been raised to life by the staff; but seeing that “the Scripture hath concluded all under sin,” he still lies dead. But why hath it concluded all under sin? “That the promise by the faith of Jesus Christ might be given to them that believe.” Let then Elisha come, who sent the staff by the servant to prove that he was dead; let him come himself, come in his own person, himself enter into the woman’s house, go up to the child, find him dead, conform himself to the members of the dead child, himself not dead, but living. For this he did; he laid his face upon his face, his eyes upon his eyes, his hands upon his hands, his feet upon his feet, he straitened, he contracted himself, being great, he made himself little. He contracted himself; so to say, he lessened himself. “For being in the Form of God, He emptied Himself, taking the form of a servant.”<sup>4070</sup> What is He conformed Himself, alive to the dead? Do ye ask, what this is? Hear the Apostle; “God sent His Son.”<sup>4071</sup> What is, he conformed himself to the dead? Let him tell this, let him go on and declare it again; “In the likeness of flesh of sin.” This is to conform Himself Alive to the dead; to come to us in the likeness of flesh of sin, not in the flesh of sin. Man lay dead in a flesh of sin, the likeness of flesh of sin conformed Himself to him. For He died who had not wherefore to die. He died, Alone “Free among the dead;” forasmuch as the whole flesh of men was indeed a flesh of sin. And how should it rise again, had not He who had no sin, conforming Himself to the dead, come in the likeness of flesh of sin? O Lord Jesus, who hast suffered for us, not for Thyself, who hadst no guilt, and didst endure its punishment, that thou mightest dissolve at once the guilt and punishment.
 
-407\. 0 Phil. ii. 6.
+4070 Phil. ii. 6.
 
 
 *[p. 1070]* ^pg1096
@@ -179,7 +179,7 @@ no meat.” And how did He finish? Thus; “These shall go into everlasting burn
 
 4\. Therefore doth the Lord require this of Peter, “Peter, lovest thou Me?” As though, “What wilt thou give Me, what wilt thou do for Me, seeing that thou lovest Me?” What was Peter to do for his Lord risen again, and going into heaven, and sitting on the right hand of the Father? As if He had said, “This shalt thou give Me, this shalt thou do for Me, if thou lovest Me, feed My sheep; enter in by the Door, not go up by another way.” Ye heard when the Gospel was being read, “He that entereth in by Door, is the shepherd; but he that goeth up another way, is a thief and a robber; and he seeketh to disperse, and to scatter, and to spoil.”<sup>4076</sup> Who is he that entereth in by the Door? He that entereth in by Christ. Who is
 
-407\. 3 John x. 7, 11. 4074 John xxi. 15, etc. 4075 Luke xxii. 33. John x. 1, etc. 519 4077 Luke xviii. 10. 4078 Luke xviii. 11. 4079 Luke xviii. 13.
+4073 John x. 7, 11. 4074 John xxi. 15, etc. 4075 Luke xxii. 33. John x. 1, etc. 519 4077 Luke xviii. 10. 4078 Luke xviii. 11. 4079 Luke xviii. 13.
 
 
 *[p. 1072]* ^pg1098
@@ -190,7 +190,7 @@ he? He who imitateth the Passion of Christ, who acknowledgeth the Humility of Ch
 
 5\. But the Lord mentioned three characters,<sup>4081</sup> and our duty is to search them out in the Gospel, that of the shepherd, the hireling, and the thief. I suppose you took notice when the lesson was being read, that He marked out the shepherd, the hireling, and the thief. “The Shepherd,” said He, “layeth down His life for the sheep,”<sup>4082</sup> and entereth in by the door.<sup>4083</sup>
 
-408\. 0 Luke xviii. 14. 4081 *Personas*. 4082 John x. 11.
+4080 Luke xviii. 14. 4081 *Personas*. 4082 John x. 11.
 
 
 *[p. 1073]* ^pg1099
@@ -201,7 +201,7 @@ The thief and the robber, said He, go up by another way.<sup>4084</sup> “The h
 
 6\. You have the Lord saying of the Pharisees, “They sit in Moses’ seat.”<sup>4087</sup> The Lord did not mean them only; as if He would send those who should believe on Christ to the school of the Jews, that they might learn there wherein is the way to the kingdom of heaven. Did not the Lord come for this end, that He might establish a Church, and separate those Jews who had a good faith, and a good hope, and a good love, as wheat from the chaff, and might make them one wall of the circumcision, to which should be joined another wall from the uncircumcision of the Gentiles, of which two walls coming from different directions, Himself should be the Corner-Stone? Did not the same Lord therefore say of these two people who were to be one, “And other sheep I have, which are not of this fold”? Now He was speaking to the Jews; “Them also,” said He, “must I bring, that there may be one fold, and One Shepherd.”<sup>4088</sup> Therefore there were two ships<sup>4089</sup> out of which He had called His disciples. They figured these two people, when they let down their nets, and took up so great a draught<sup>4090</sup> and so large a number of fishes, that the nets were almost broken. “And they laded,” it is said, “both the ships.” The two ships figured the One Church, but made out of two peoples, joined together in Christ, though coming from different parts. Of this too the
 
-408\. 4 John x. 1. 4085 John x. 12, 13. 4086 Phil. i. 18, ii. 21. 4087 Matt. xxiii. 2. 4088 John x. 16. 4089 Luke v. 2. *Vim*.
+4084 John x. 1. 4085 John x. 12, 13. 4086 Phil. i. 18, ii. 21. 4087 Matt. xxiii. 2. 4088 John x. 16. 4089 Luke v. 2. *Vim*.
 
 
 *[p. 1074]* ^pg1100
@@ -212,7 +212,7 @@ two wives, who had one husband Jacob, Leah and Rachel, are a figure.<sup>4091</s
 
 7\. When wicked clerics hear this which is said against them, they would pervert it. For I have heard that some do wish to pervert this sentence. Would they not, if they might, efface it from the Gospel? But because they cannot efface it, they go about to pervert it. But the grace and mercy of the Lord is present, and allows them not to do so; for He hath hedged round all His declarations<sup>4096</sup> with His truth, and in such wise balanced them; that if any one would wish to cut off anything from them, or to introduce anything by a bad reading or interpretation, any right hearted man may join to the Scripture what has been cut off from the Scripture, and read what went above or below, and he will find the sense which
 
-409\. 1 Gen. xxix. 23, 28. 4092 Matt. xx. 30. 4093 Matt. xxvii. 51. 4094 2 Cor. iii. 16. 4095 Matt. xxiii. 2, 3. *Sententias*.
+4091 Gen. xxix. 23, 28. 4092 Matt. xx. 30. 4093 Matt. xxvii. 51. 4094 2 Cor. iii. 16. 4095 Matt. xxiii. 2, 3. *Sententias*.
 
 
 *[p. 1075]* ^pg1101
@@ -225,7 +225,7 @@ not follow this man’s conversation. Let me hear from him not his words, but Go
 
 8\. How then do they pervert this declaration when it is said to them in their wicked lives, “With good reason was it said by the Lord ,‘What they say, do; what they do, do not’”? “It was well said,” say they. “For it was said to you, that ye should do what we say; but that ye should not do what we do. For we offer sacrifice, you may not.” See the cunning craftiness of these men; what shall I call them? hirelings. For if they were shepherds, they would not say such things. Therefore the Lord, that He might shut their mouths, went on, and said, “They sit in Moses’ seat; what they say, do; but what they do, do not; for they say, and do not.”<sup>4097</sup> What is it then, Brethren? If He had spoken of offering sacrifice; would He have said, “For they say, and do not”? For they do offer<sup>4098</sup> sacrifice, they do offer unto God. What is it that they say, and do not? Hear what follows; “For they bind heavy burdens, and grievous to be borne, and lay them on men’s shoulders, and they themselves will not touch them with one of their fingers.”<sup>4099</sup> So openly did He rebuke, describe, and point them out. But those men when they thus wish to pervert the passage, show plainly that they seek nothing in the Church but their own advantage; and that they have not read the Gospel; for had they known but this very page, and read the whole, they would never have dared to say this.
 
-409\. 7 Matt. xxiii. 2, 3. 4098 *Faciunt*. 521
+4097 Matt. xxiii. 2, 3. 4098 *Faciunt*. 521
 
 
 *[p. 1076]* ^pg1102
@@ -236,7 +236,7 @@ not follow this man’s conversation. Let me hear from him not his words, but Go
 
 10\. And yet, Brethren, our God never can be poor. He is rich, He made all things, heaven and earth, the sea and Angels. In the heaven, whatsoever we see, whatsoever we see not, He made it. But notwithstanding, we ought not to love these riches, but Him who made them. For He hath promised thee nothing but Himself. Find anything more precious, and He will give thee this. Beauteous is the earth, the heaven, and the Angels; but more beauteous is He who made them. They then who preach God, as loving God; who preach God, for God’s sake, feed the sheep, and are no hirelings. This chastity did our Lord Jesus Christ require of the soul, when He said to Peter, “Peter, lovest thou Me”?<sup>4106</sup> What is “Lovest thou Me”? Art thou chaste? Is not thine heart adulterous? Dost thou seek not thine own things
 
-410\. 0 Matt. vii. 21. 4101 *Virtutes*. 4102 Matt. vii. 22. 4103 Matt. vii. 23. 4104 Phil. i. 16–18. 4105 *Proscribatur*.
+4100 Matt. vii. 21. 4101 *Virtutes*. 4102 Matt. vii. 22. 4103 Matt. vii. 23. 4104 Phil. i. 16–18. 4105 *Proscribatur*.
 
 
 *[p. 1077]* ^pg1103
@@ -249,9 +249,9 @@ in the Church, but Mine? If then thou be such an one, and lovest Me, “feed My 
 
 12\. But we will now speak of the hirelings. “The hireling when he seeth the wolf lying in wait for the sheep, fleeth.” This the Lord said. Why? “Because he careth not for the sheep.”<sup>4112</sup> So long then is the hireling of use, as he seeth not the wolf coming, as he seeth not the thief and the robber; but when he seeth them, he fleeth. And who is there of the hirelings, who fleeth not from the Church, when he seeth the wolf and the robber? And wolves and robbers abound. They are they who go up by another way. Who are these who
 
-410\. 7 Phil. i. 18. 4108 1 Cor. iv. 17. 4109 Phil. ii. 20, etc.
+4107 Phil. i. 18. 4108 1 Cor. iv. 17. 4109 Phil. ii. 20, etc.
 
-411\. 0 Matt. vi. 2. 4111 2 Tim. ii. 21. 522 4113 *Parte*. 4114 Luke xiv. 11. 4115 Matt. vii. 15. 4116 Matt. xxiii. 2. 4117 Matt. vii. 16, xii. 33.
+4110 Matt. vi. 2. 4111 2 Tim. ii. 21. 522 4113 *Parte*. 4114 Luke xiv. 11. 4115 Matt. vii. 15. 4116 Matt. xxiii. 2. 4117 Matt. vii. 16, xii. 33.
 
 
 *[p. 1078]* ^pg1104
@@ -272,7 +272,7 @@ and the grape hangs among the thorns; and he that sees it plucks the grape, yet 
 
 15\. I am now treating of my counsel with you, holy Brethren. In Christ’s Name ye are the people of God, ye are a Catholic people, ye are members of Christ; ye are not divided from unity. Ye are in communion with the members of the Apostles, ye are in communion with the memories of the Holy Martyrs, who are spread over the whole world, and ye belong to my cure, that I may render a good account of you. Now my whole account, what it is ye know. “Lord, Thou knowest that I have spoken, Thou knowest that I have not kept silence, Thou knowest in what spirit I have spoken, Thou knowest that I have wept before Thee,
 
-411\. 9 1 Cor. iv. 3, 4. *Vim*. 523
+4119 1 Cor. iv. 3, 4. *Vim*. 523
 
 
 *[p. 1080]* ^pg1106
@@ -281,7 +281,7 @@ and the grape hangs among the thorns; and he that sees it plucks the grape, yet 
 
 when I spake, and was not heard.” This I imagine is my whole account. For the Holy Spirit by the prophet Ezekiel hath given me sure hope. Ye know this passage concerning the watchman; “O son of man,” saith He, “I have set thee a watchman unto the house of Israel; if when I say unto the wicked, O wicked man, thou shalt die the death, thou dost not speak;” that is (for I speak to thee that thou mayest speak), “if thou dost not announce it, and the sword,” that is, what I have threatened on the sinner, “come, and take him away; that wicked man indeed shall die in his iniquity; but his blood will I require at the watchman’s hand.”<sup>4121</sup> Why? Because he did not speak. “But if the watchman see the sword coming, and blow the trumpet,” that he may fly, and he took not to himself, that is, amend not himself, that it find him not in the punishment which God threateneth, and “the sword shall come and take any one away; that wicked man indeed shall die in his iniquity; but thou,” saith He, “hast delivered thine own soul.” And in that place of the Gospel, what else saith He to the servant? when he said, “Lord, I knew Thee to be a” difficult<sup>4122</sup> or “hard Man, in that Thou reapest where Thou hast not sowed, and gatherest where Thou hast not strawed; and I was afraid, and went and hid Thy talent in the earth, lo, Thou hast that is Thine.” And He said, “‘Thou wicked and slothful servant,’ because thou knewest Me to be a difficult and hard Man, to reap where I have not sown, and to gather where I have not strawed, My very covetousness ought the more to teach thee, that I look for profit from My money. ‘Thou oughtest therefore to have given My money to the exchangers, and at My coming I should have required Mine own with usury.’”<sup>4123</sup> Did He say, “Thou oughtest to give, and require”? It is we then, Brethren, who give, He will come to require. Pray ye, that He may find us prepared.
 
-412\. 1 Ezek. xxxiii. 7, etc. 4122 *Molestum*. Matt. xxv. 24, etc.; Luke xix. 21, etc.
+4121 Ezek. xxxiii. 7, etc. 4122 *Molestum*. Matt. xxv. 24, etc.; Luke xix. 21, etc.
 
 
 *[p. 1081]* ^pg1107
@@ -296,7 +296,7 @@ Sermon LXXXVIII.
 
 2\. For even among the heretics, they who for their iniquities and errors have suffered any trouble, vaunt themselves in the name of martyrdom, that with this fair covering disguised<sup>4127</sup> they may plunder the more easily, for wolves they are. Now if ye would know in what rank they are to be held, hear that good shepherd, the Apostle Paul, that not all who even give up their bodies in suffering to the flames, are to be accounted to have shed their blood for the sheep, but rather against the sheep. “If,” saith he, “I speak with the tongues of men, and angels, but have not charity, I am become as sounding brass, or a tinkling cymbal. If I should know all mysteries, and have all prophecy, and all faith, so that I could remove mountains, but have not charity, I am nothing.”<sup>4128</sup> Now a great thing truly is this faith that removes mountains. They are indeed all great things; but if I have them without charity, saith he, not they, but I am nothing. But up to this point he hath not touched them, who glory in sufferings under the false name of martyrdom. Hear how he toucheth, yea rather pierceth them through and through. “If I should distribute,” saith he, “all my goods to the poor, and deliver my body to be burned.” Now here they are. But mark what follows; “but
 
-412\. 4 John x. 11. 4125 John x. 12, 13. 4126 Matt. vi. 2, 4. 4127 *Dealbati*. 1 Cor. xiii. 1, etc. 524 4129 Matt. vii. 22.
+4124 John x. 11. 4125 John x. 12, 13. 4126 Matt. vi. 2, 4. 4127 *Dealbati*. 1 Cor. xiii. 1, etc. 524 4129 Matt. vii. 22.
 
 
 *[p. 1082]* ^pg1108
@@ -309,7 +309,7 @@ have not charity, it profiteth me nothing.” Lo, they have come to suffering, c
 
 4\. Let us question the Lord with such little understanding as we have, and in most humble discourse hold converse with so great a Master. What sayest Thou, O Lord, Thou good Shepherd? For Thou art the good Shepherd, who art also the good Lamb; at once Pastor and Pasturage, at once Lamb and Lion. What sayest Thou? Let us give ear and aid us, that we may understand. “I,” saith He, “am the good Shepherd.” What is Peter? is he either not a shepherd, or a bad one? Let us see, if he be not a shepherd. “Lovest thou Me?”<sup>4131</sup> Thou saidst to Him Lord, “Lovest thou Me?” And he answered, “I do love Thee.” And Thou to him, “Feed My sheep.” Thou, Thou, Lord, by Thine Own questioning, by the strong assurance of Thine Own words, madest of the lover a shepherd. He is a shepherd then to whom Thou didst commit Thy sheep to be fed. Thou didst Thyself entrust them, he is a shepherd. Let us now see whether he be not a good one. This we find by the very question, and his answer. Thou didst ask, whether he loved Thee; he answered, “I do love Thee.” Thou sawest his heart, that he answered truth. Is he not then good, who loveth so great a Good? Whence that answer drawn from his inmost heart? Wherefore was this Peter, who had Thine eyes in his heart for witnesses, sad because Thou askedst him not once only, but a second and a third time, that by a threefold confession of love, he might efface the threefold sin of
 
-413\. 0 Referring it would seem to the conference held but a little while before this with the Donatist party at Carthage.
+4130 Referring it would seem to the conference held but a little while before this with the Donatist party at Carthage.
 
 
 *[p. 1083]* ^pg1109
@@ -322,7 +322,7 @@ denial; wherefore, I say, being sad that he was asked repeatedly by Him who knew
 
 6\. With good reason then to This Shepherd of shepherds, doth His Beloved, His Spouse, His Fair One, but by Him made fair, before by sin deformed, beautiful afterward through pardon and grace, speak in her love and ardour after Him, and say to Him, “Where feedest
 
-413\. 2 Matt. xii. 35. 4133 1 Cor. xii. 12. 4134 Matt. xii. 30. 525 4136 Cant. i. 7. 4137 Isa. liii. 2, Sept. 4138 Mark xv. 31. 4139 Matt. xxvi. 68.
+4132 Matt. xii. 35. 4133 1 Cor. xii. 12. 4134 Matt. xii. 30. 525 4136 Cant. i. 7. 4137 Isa. liii. 2, Sept. 4138 Mark xv. 31. 4139 Matt. xxvi. 68.
 
 
 *[p. 1084]* ^pg1110
@@ -331,7 +331,7 @@ denial; wherefore, I say, being sad that he was asked repeatedly by Him who knew
 
 Thou?”<sup>4136</sup> And observe how, by what transport this spiritual love is here animated. And far better are they by this transport delighted, who have tasted ought of the sweetness of this love. They hear this properly, who love Christ. For in them, and of them, doth the Church sing this in the Song of Songs; who love Christ, as it seemed without beauty, yet the Only Beautiful One. “For we saw Him,” it is said, “and He had neither beauty nor comeliness.”<sup>4137</sup> Such He appeared on the Cross, such when crowned with thorns did He exhibit Himself, disfigured, and without comeliness, as if He had lost His power, as if not the Son of God. Such seemed He to the blind. For it is in the person of the Jews that Isaiah said this, “We saw Him, and He had no beauty nor comeliness.” When it was said, “If He be the Son of God, let Him come down from the Cross. He saved others, Himself He cannot save.”<sup>4138</sup> And smiting Him on the head with a reed, they said, “Prophesy unto us, thou Christ, who smote Thee?”<sup>4139</sup> Because “He had neither beauty nor comeliness.” As such did ye Jews see Him. For “blindness hath happened in part to Israel, until the fulness of the Gentiles enter in,”<sup>4140</sup> until the other sheep come. Because then blindness hath happened, therefore did ye see the Comely One without comeliness. “For had ye known Him, ye would never have crucified the Lord of Glory.”<sup>4141</sup> But ye did it, because ye knew Him not. And yet He who as though without beauty bare with you, all Beauteous as He was, prayed for you; “Father,” saith He, “forgive them, for they know not what they do.”<sup>4142</sup> For if He were without comeliness, how is it that she loveth Him, who saith, “Tell me, O Thou whom my soul loveth”?<sup>4143</sup> How is it that she loveth Him? how is it that she burneth for Him? how is it that she feareth so much to stray from Him? How is it that she hath so great delight in Him, that her only punishment is to be without Him? What would there be for which He should be loved, if He were not beautiful? But how could she love Him so, if He appeared to her as He did to those blind men persecuting Him, and knowing not what they do? As what then did she love Him? As “comely in form above the sons of men. Comely in form above the sons of men, grace is poured abroad in Thy Lips.”<sup>4144</sup> So then from these Thy Lips, “Tell me, O Thou whom my soul loveth. Tell me,” says she, “O Thou whom,” not my flesh, but,
 
-414\. 0 Rom. xi. 25. 4141 1 Cor. ii. 8. 4142 Luke xxiii. 34. 4143 Cant. i. 7.
+4140 Rom. xi. 25. 4141 1 Cor. ii. 8. 4142 Luke xxiii. 34. 4143 Cant. i. 7.
 
 
 *[p. 1085]* ^pg1111
@@ -342,9 +342,9 @@ Thou?”<sup>4136</sup> And observe how, by what transport this spiritual love i
 
 7\. It seems obscure, obscure it is; for it is a mystery of the sacred marriage bed. For she says, “The King hath brought me into His chamber.”<sup>4146</sup> Of such a chamber is this a mystery. But ye who are not as profane kept off from this chamber, hear ye what ye are, and say with her, if with her ye love (and ye do love with her, if ye are in her); say all, and yet let one say, for unity saith; “Tell me, O Thou whom my soul loveth. For they had one soul to Godward, and one heart.<sup>4147</sup> Tell me where Thou feedest, where Thou liest down in the midday?” What does the midday<sup>4148</sup> signify? “Great heat, and great brightness.” So then, “make known to me who are Thy wise ones,” fervent in spirit, and brilliant in doctrine. “Make known to me Thy Right Hand, and men learned in heart, in wisdom.”<sup>4149</sup> To them may I cleave in Thy Body, to them be united, with them enjoy Thee. Tell me then, “tell me, where Thou feedest, where Thou liest down in the midday;” lest I fall upon them who say other things of Thee, entertain other sentiments of Thee; believe other things of Thee, preach other things of Thee; and have their own flocks, and are Thy companions; for that they live of Thy table, and handle the sacraments of Thy table. For companions are so called, because they eat together,<sup>4150</sup> messmates as it were. Such are reproved in the Psalm; “For if Mine enemy had spoken great things against Me, I would surely have hidden Myself from him; and if he that hated Me had spoken great things against Me, I would surely have hidden Myself from him; but thou a man of one mind with Me, My guide, and My familiar, who didst take sweet meats together with Me, in the house of God we walked with consent.”<sup>4151</sup> Why then now against the house of the Lord with dissent, but that “they have gone out from us, but they were not of us?”<sup>4152</sup> Therefore, “O Thou whom my soul loveth,” that I may not fall upon such, Thy companions, but companions such as Samson’s were, who kept not faith with their friend, but wished to corrupt his wife.<sup>4153</sup> Therefore, that I may not fall upon such as these, “that I may not light upon them,” that is, fall upon them, “as one that is veiled,” as one that is concealed, that is, and obscure, not as established upon the mountain. “Tell me”
 
-414\. 5 Cant. i. 7, Sept. 4146 Cant. i. 4. 4147 Acts iv. 32. 4148 It is not possible in English to preserve the same translation for the word *meridies*, which occurs throughout this passage in the two senses of the *noon* or *midday*, and the *South*. 4149 Ps. lxxxix. 12, Sept. (xc. English version).
+4145 Cant. i. 7, Sept. 4146 Cant. i. 4. 4147 Acts iv. 32. 4148 It is not possible in English to preserve the same translation for the word *meridies*, which occurs throughout this passage in the two senses of the *noon* or *midday*, and the *South*. 4149 Ps. lxxxix. 12, Sept. (xc. English version).
 
-415\. 0 *Sodales enim dicti sunt, quod simul edant, quasi simul edales*. 4151 Ps. liv. 13, etc., Sept. (lv. 12–14, English version). 4152 1 John ii. 19. Judg. xiv. 526 4154 John xxi. 17. 4155 Cant. viii. Sept. 4156 *Visceribus*. 4157 Ps. xlv. 13. 4158 2 Cor. xi. 2. 4159 2 Cor. xi. 3.
+4150 *Sodales enim dicti sunt, quod simul edant, quasi simul edales*. 4151 Ps. liv. 13, etc., Sept. (lv. 12–14, English version). 4152 1 John ii. 19. Judg. xiv. 526 4154 John xxi. 17. 4155 Cant. viii. Sept. 4156 *Visceribus*. 4157 Ps. xlv. 13. 4158 2 Cor. xi. 2. 4159 2 Cor. xi. 3.
 
 
 *[p. 1086]* ^pg1112
@@ -371,7 +371,7 @@ then, “O thou whom my soul loveth, where Thou feedest, where Thou liest down i
 
 exhort you, I beseech you by the sanctity of such nuptials, love this Church, be ye in this holy Church, be ye this Church; love the good Shepherd, the Spouse so fair, who deceiveth no one, who desireth no one to perish. Pray too for the scattered sheep; that they too may come, that they too may acknowledge Him, that they too may love Him; that there may be One Flock and One Shepherd. Let us turn to the Lord, etc.
 
-416\. 1 *Quem*. 4162 *Quam*. *Concisiones*.
+4161 *Quem*. 4162 *Quam*. *Concisiones*.
 
 
 *[p. 1089]* ^pg1115
@@ -386,7 +386,7 @@ Sermon LXXXIX.
 
 2\. Peradventure, ye but imperfectly understand what “of one Substance” is. Take we pains that ye may understand it; may God assist both me who speak, and you that hear; me, that I may speak such things as are true and fit for you; and you, that before and above all things ye may believe; and then that ye may understand as best ye can. What then is “of One Substance”? Let me make use of similitudes to you, that what is imperfectly understood may be made clear by example. As, suppose, God is gold. His Son is gold also. If similitudes ought not to be given for heavenly things from things earthly, how is it written, “Now the Rock was Christ”?<sup>4170</sup> So then, Whatsoever the Father is, This is the Son also; as I have said, for
 
-416\. 4 John x. 30. 4165 *Mereamini*. 4166 Isa. vii. 9, Sept. 4167 He seems to be addressing the Catechumens (Bened. note). 4168 Matt. vi. 9. 4169 Eph. i. 5. 1 Cor. x. 4. 528
+4164 John x. 30. 4165 *Mereamini*. 4166 Isa. vii. 9, Sept. 4167 He seems to be addressing the Catechumens (Bened. note). 4168 Matt. vi. 9. 4169 Eph. i. 5. 1 Cor. x. 4. 528
 
 
 *[p. 1090]* ^pg1116
@@ -397,7 +397,7 @@ example, “The Father is gold, the Son is gold.” For he who says, “The Son 
 
 3\. But the Arian heresy makes answer, and says. What says it to me? “Mark what thou hast said”? What have I said? “That the Son of a man may be compared to the Son of God.” Certainly he may be compared; but not as you suppose, in strictness of expression;<sup>4171</sup> but for a similitude. But tell me now what you would make of this. “Do you not see,” says he, “that the father who begets is greater<sup>4172</sup> in age, and the son who is begotten less? How then say ye? tell me; how then say ye, that the Father and the Son, God and Christ, are equal; when ye see that when a man begets a son, the son is less, and the father greater?” Thou wise one, in eternity thou art looking for times; where there are no times, thou art looking for differences of age! When the father is greater in age, and the son less, both are in time; the one groweth, for that the other groweth old. For by nature, the man, the father, did not beget one less, by nature, as I said, but by age. Wouldest thou know, how that by nature he did not beget one less? Wait, let him grow, and he will be equal to his father. For a little boy even by growing attains to his father’s full size. Whereas you assert that the Son of God is in such wise born less, as never to grow, and by growing even to attain to His Father’s size. Now then a man’s son born of a man, is born in a better condition than the Son of God. How? Because the former grows, and attains to his father’s size. But Christ, if it is as ye say, is in such wise born less, as that He must ever remain less, and no growth of years at least is to be looked for here. Thus then you say that there is a diversity in nature. But why say you so, but because you will not believe the Son to be of the Same Substance which the Father is? Finally, first acknowledge that He is of the Same Substance, and so call Him less. Consider the case of a man, he is a man. What is his substance? He is a man. What is he whom he begets? He is less, but he is a man. The age is unequal, the nature equal. Do you then say too, “What the Father is, That is the Son, but the Son is less”? Say so, make a step forward, say, “of the Same Substance, only less;” and you will get to His being equal. For it is not a little step you take, it is not a little approach you make to the truth, of acknowledging Him equal, if you shall acknowledge Him to be of the Same Substance, though less. “But He is not of the Same Substance,” this you say. So then in that you say this, here is gold and silver; what you say is as if a man were to beget a horse. For a man is of one substance, a
 
-417\. 1 *Ad proprietatem*. *Major*.
+4171 *Ad proprietatem*. *Major*.
 
 
 *[p. 1091]* ^pg1117
@@ -432,7 +432,7 @@ Sermon XC.
 
 2\. For hold this fast as a firm and settled truth, if ye would continue Catholics, that God the Father begat God the Son without time, and made Him of a Virgin in time. The first nativity exceedeth times; the second nativity enlighteneth times. Yet both nativities are marvellous; the one without a mother, the other without a father. When God begat the Son, He begat Him of Himself, not of a mother; when the Mother gave birth to her Son, she gave Him birth as a Virgin, not by man. He was born of the Father without a beginning; He was born of a mother, as to-day<sup>4177</sup> at an appointed beginning. Born of the Father He made us; born of a mother He re-made us. He was born of the Father, that we might be; He was born of a mother, that we might not be lost. But the Father begat Him equal to Himself, and All Whatsoever the Son is, He hath of the Father. But What God the Father is, He hath not of the Son. Accordingly we say that the Father is God, of none; the Son, God of God. Wherefore all that the Son doeth marvellously, all that He saith truly, He attributeth to Him of whom He is; yet can He not be ought else than He of whom He is. Adam was made a man; he had power to become something other than he was made. For he was made righteous, and he had power to become unrighteous. But the Only-Begotten Son of God, What He is, This cannot be changed; He cannot be changed into anything else, cannot be diminished, What He was He cannot but be, He cannot but be equal to the Father. But undoubtedly He who gave all things to the Son by His Birth, gave it to One not needing ought; without doubt this very equality too with the Father, the Father gave to the Son. How did the Father give It?
 
-417\. 4 John xii. 44. 4175 John xii. 46; John viii. 12. 4176 *Authorem*. 4177 The Bened. conjecture that the word “*hodie*” here and at the end was added in order to adapt this Sermon to be preached on Christmas Day. 530 4178 John xii. 49, 50. 4179 1 John v. 20.
+4174 John xii. 44. 4175 John xii. 46; John viii. 12. 4176 *Authorem*. 4177 The Bened. conjecture that the word “*hodie*” here and at the end was added in order to adapt this Sermon to be preached on Christmas Day. 530 4178 John xii. 49, 50. 4179 1 John v. 20.
 
 
 *[p. 1094]* ^pg1120
@@ -445,7 +445,7 @@ did He beget Him less, and add to Him to complete His Form, that He might make H
 
 4\. But some man coming across us, knowing not what he is saying, says, “For this reason was it said, “I and My Father are One;<sup>4180</sup> for that They have with One Another an agreement of will, not because the Nature of the Son is the Very Same as the Nature of the Father. For the Apostles too (now this is what he said,<sup>4181</sup> not I), for the Apostles too are one with the Father and the Son.” Horrible blasphemy! “And the Apostles,” says he, “are one with the Father and the Son, in that they obey the will of the Father and the Son.” Has he dared to say this? Let Paul then say, “I and God are one.” Let Peter say it, let every one of the Prophets say, “I and God are one.” They do not say it; God forbid they should. They know that they
 
-418\. 0 John x. 30. 4181 Maximinus in his Conference with St. Augustin, and St. Augustin in his Answer, B. ii. cont. Maxim. ch. 22.
+4180 John x. 30. 4181 Maximinus in his Conference with St. Augustin, and St. Augustin in his Answer, B. ii. cont. Maxim. ch. 22.
 
 
 *[p. 1095]* ^pg1121
@@ -458,7 +458,7 @@ are a different nature, a nature that needeth to be saved; they know that they a
 
 6\. Because then I was speaking of what I had brought forward, “And I knew,” saith He, “that His commandment is everlasting life.”<sup>4183</sup> Mark, Brethren, what I am saying; “I know that His commandment is everlasting life.” And we read in the same John concerning Christ, “He is The True God and Everlasting Life.”<sup>4184</sup> If the Father’s commandment is “everlasting Life,” and Christ the Son Himself is “everlasting Life;” the Son is Himself the Father’s Commandment. For how is not That the Father’s Commandment, which is the Father’s Word? Or if you take the commandment given to the Son by the Father in a carnal sense, as if the Father said to the Son, “I command Thee this, I wish Thee to do that;” in what words spake He to the Only Word? When He gave commandment to the Word, did He look for words? That the Father’s Commandment then is “Life everlasting,” and that the Son Himself is “Life everlasting,” believe ye and receive, believe and understand, for the
 
-418\. 2 *Addicitis*. 4183 John xii. 50. 1 John v. 20.
+4182 *Addicitis*. 4183 John xii. 50. 1 John v. 20.
 
 
 *[p. 1096]* ^pg1122
@@ -469,7 +469,7 @@ Prophet saith, “Unless ye believe ye shall not understand.”<sup>4185</sup> D
 
 531
 
-418\. 5 Isa. vii. 9, Sept. 4186 2 Cor. vi. 13, 14. *Limat*.
+4185 Isa. vii. 9, Sept. 4186 2 Cor. vi. 13, 14. *Limat*.
 
 
 *[p. 1097]* ^pg1123
@@ -482,9 +482,9 @@ Sermon XCI.
 
 2\. Now it occurred to him that it might be said to him, “Whence do these ungodly men detain the truth? Hath God spoken to any one of them? Have they received the Law as the people of the Israelites by Moses? Whence then do they detain the truth, though it be even in this unrighteousness?” Hear what follows, and he shows. “Because that which can be known of God,” he says, “is manifest in them; for God hath manifested it unto them.” <sup>4191</sup> Manifested it unto them to whom He hath not given the Law? Hear how He hath manifested it. “For the invisible things of Him are clearly seen, being understood by the things that are made.”<sup>4192</sup> Ask the world, the beauty of the heaven, the brilliancy and ordering of the stars, the sun, that sufficeth for the day, the moon, the solace of the night; ask the earth fruitful in herbs, and trees, full of animals, adorned with men; ask the sea, with how great and what kind of fishes filled; ask the air, with how great birds stocked;<sup>4193</sup> ask all things, and see if they do not as if it were by a language<sup>4194</sup> of their own make answer to thee, “God made
 
-418\. 8 John xiv. 6. 4189 *Rationes*.
+4188 John xiv. 6. 4189 *Rationes*.
 
-419\. 0 Rom. i. 18. 4191 Rom. i. 19. 4192 Rom. i. 20. 4193 *Viget*. *Sensu*. 532 4195 Rom. i. 21. 4196 Rom. i. 22. 4197 Rom. i. 23. 4198 *Totum*.
+4190 Rom. i. 18. 4191 Rom. i. 19. 4192 Rom. i. 20. 4193 *Viget*. *Sensu*. 532 4195 Rom. i. 21. 4196 Rom. i. 22. 4197 Rom. i. 23. 4198 *Totum*.
 
 
 *[p. 1098]* ^pg1124

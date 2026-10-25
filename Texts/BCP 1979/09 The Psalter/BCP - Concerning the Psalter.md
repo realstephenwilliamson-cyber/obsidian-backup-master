@@ -5,9 +5,7 @@ section: "The Psalter"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/concerning_the_psalter.html"
-page_range:
-  - 582
-  - 584
+page_range: "582–584"
 aliases:
   - "BCP 582"
   - "BCP 583"
@@ -17,7 +15,7 @@ aliases:
 
 [[BCP 1979]] · *The Psalter* · pages 582–584
 
-[p. 582]
+[p. 582] ^pg582
 
 ## Concerning the Psalter
 
@@ -31,7 +29,7 @@ The Psalter is a body of liturgical poetry. It is designed for vocal, congregati
 
 **Responsive recitation** is the method which has been most frequently used in Episcopal churches, the minister alternating with the congregation, verse by verse.
 
-[p. 583]
+[p. 583] ^pg583
 
 The version of the Psalms which follows is set out in lines of poetry. The lines correspond to Hebrew versification, which is not based on meter or rhyme, but on parallelism of clauses, a symmetry of form and sense. The parallelism can take the form of similarity (The waters have lifted up, O Lord I the waters have lifted up their voice; / the waters have lifted up their pounding waves. *[[BCP Psalm 093#^93-4|Psalm 93:4]]*), or of contrast (The Lord knows the ways of the righteous; / but the way of the wicked is doomed. *[[BCP Psalm 001#^1-6|Psalm 1:6]]*), or of logical expansion (Our eyes look to the Lord our God, / until he show us his mercy. *[[BCP Psalm 123#^123-3|Psalm 123:3]]*).
 
@@ -45,7 +43,7 @@ The Hebrew reverence and reticence with regard to the Name of God has been carri
 
 From time to time, the Hebrew text has *Adonai* and *YHWH* in conjunction. Then, the Hebrew custom is to substitute *Elohim* for *YHWH*, and our English tradition follows suit, rendering the combine title as "Lord GOD."
 
-[p. 584]
+[p. 584] ^pg584
 
 In two passages (*[[BCP Psalm 068#^68-4|Psalm 68:4]]* and*[[BCP Psalm 083#^83-18|Psalm 83:18]]*), the context requires that the Divine Name be spelled out, and it appears as *YAHWEH*. A similar construction occurs in the Canticle, "The Song of Moses."
 

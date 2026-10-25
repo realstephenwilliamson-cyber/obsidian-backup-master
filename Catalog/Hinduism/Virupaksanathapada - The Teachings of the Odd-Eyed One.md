@@ -19,8 +19,7 @@ language:
   - English
 pages: 209
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Lawrence - The Teachings of the Odd-Eyed One, Virupaksapancasika (SUNY).pdf]]"
   - "[[Library/Hinduism/The Teachings of the Odd-Eyed One (Virupaksanathapada)/The Teachings of the Odd-Eyed One (Virupaksanathapada)]]"

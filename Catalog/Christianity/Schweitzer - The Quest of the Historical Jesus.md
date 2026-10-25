@@ -18,8 +18,7 @@ language:
   - English
 pages: 715
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Albert Schweitzer - The Quest of the Historical Jesus.pdf]]"
   - "[[Library/Christianity/The Quest of the Historical Jesus (Schweitzer)/The Quest of the Historical Jesus (Schweitzer)]]"

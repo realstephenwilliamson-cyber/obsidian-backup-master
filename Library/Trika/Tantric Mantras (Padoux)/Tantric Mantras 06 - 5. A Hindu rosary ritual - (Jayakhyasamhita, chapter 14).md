@@ -6,7 +6,7 @@ page_range: 81–88
 aliases:
   - Tantric Mantras 06 - 5. A Hindu rosary ritual - (Jayākhyasaṃhitā, chapter 14)
 ---
-[p. 81]
+[p. 81] ^pg81
 
 # 5 A Hindu rosary ritual[^1]
 

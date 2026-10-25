@@ -17,8 +17,7 @@ language:
   - English
 pages: 29
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[From_Mat_to_Yogini_Continuity_and_Trans.pdf]]"
   - "[[Library/Hinduism/From Matr to Yogini (Hatley)]]"

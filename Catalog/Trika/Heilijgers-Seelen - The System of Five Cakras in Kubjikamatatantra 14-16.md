@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 330
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Heilijgers-Seelen - The System of Five Cakras in Kubjikamatatantra 14-16 (1994).pdf]]"
   - "[[Library/Trika/The System of Five Cakras in Kubjikamatatantra 14-16 (Heilijgers-Seelen)/The System of Five Cakras in Kubjikamatatantra 14-16 (Heilijgers-Seelen)]]"

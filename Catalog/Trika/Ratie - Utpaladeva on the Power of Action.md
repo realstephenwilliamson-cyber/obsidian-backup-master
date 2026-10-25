@@ -19,7 +19,7 @@ language:
 pages: 16
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Utpaladeva_on_the_Power_of_Action_A_Firs.pdf]]"
   - "[[Library/Trika/Utpaladeva on the Power of Action (Ratie)]]"

@@ -18,8 +18,7 @@ language:
   - English
 pages: 242
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Silburn - Kundalini, The Energy of the Depths (SUNY).pdf]]"
   - "[[Library/Trika/Kundalini - The Energy of the Depths A Comprehensive Study (Silburn)/Kundalini - The Energy of the Depths A Comprehensive Study (Silburn)]]"

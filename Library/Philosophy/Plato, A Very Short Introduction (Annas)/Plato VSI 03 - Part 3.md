@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Annas - Plato, A Very Short Introduction]]"
 book: "[[Library/Philosophy/Plato, A Very Short Introduction (Annas)/Plato, A Very Short Introduction (Annas)|Plato, A Very Short Introduction (Annas)]]"
 order: 3
 source_pdf: "Library/Philosophy/Annas - Plato, A Very Short Introduction (2003).pdf"
-pages: "76–104"
+page_range: "76–104"
 pdf_pages: "81–109"
 text_source: "fresh OCR with Tesseract 5 (eng) of the page images (the PDF had no text layer)"
 converted: 2026-10-15

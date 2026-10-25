@@ -19,7 +19,7 @@ language:
 pages: 177
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[What Makes Life Worth Living On Pharmacology (2013).pdf]]"
   - "[[Library/Philosophy/What Makes Life Worth Living (Stiegler)/What Makes Life Worth Living (Stiegler)]]"

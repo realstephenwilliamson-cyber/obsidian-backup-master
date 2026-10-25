@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 48
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Choudhary - The Glory of the Goddess.pdf]]"
 aliases:

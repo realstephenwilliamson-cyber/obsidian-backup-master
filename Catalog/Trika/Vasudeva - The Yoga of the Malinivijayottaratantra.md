@@ -19,8 +19,7 @@ language:
   - Sanskrit
 pages: 615
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The Yoga of the Malini Vijayottara Tantra - Somadeva Vausdeva.pdf]]"
   - "[[Library/Trika/The Yoga of the Malinivijayottaratantra (Vasudeva)/The Yoga of the Malinivijayottaratantra (Vasudeva)]]"

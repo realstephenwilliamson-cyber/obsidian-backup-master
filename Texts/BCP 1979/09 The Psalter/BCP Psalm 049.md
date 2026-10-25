@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 49
 verses: 20
-page_range:
-  - 653
-  - 653
+page_range: "653"
 aliases:
   - "BCP Psalm 49"
   - "BCP 653"
@@ -51,7 +49,7 @@ and never see the grave. ^49-8
 like the dull and stupid they perish \*  
 and leave their wealth to those who come after them. ^49-9
 
-[p. 653]
+[p. 653] ^pg653
 
 **49:10** Their graves shall be their homes for ever,  
 their dwelling places from generation to generation, \*  

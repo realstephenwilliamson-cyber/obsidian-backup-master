@@ -19,8 +19,7 @@ language:
   - Sanskrit
 pages: 120
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Vamakesvari-Matam English Translation of Jayaratha's Sanskrit Commentary - Sampath Sharma.pdf]]"
   - "[[Library/Trika/Sri Vamakesvari Matam (Jayaratha)/Sri Vamakesvari Matam (Jayaratha)]]"

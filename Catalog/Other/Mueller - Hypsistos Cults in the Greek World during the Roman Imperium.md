@@ -17,8 +17,7 @@ language:
   - English
 pages: 96
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Hypsistos Cults in the Greek World During the Imperium.pdf]]"
   - "[[Library/Other/Hypsistos Cults in the Greek World during the Roman Imperium (Mueller)/Hypsistos Cults in the Greek World during the Roman Imperium (Mueller)]]"

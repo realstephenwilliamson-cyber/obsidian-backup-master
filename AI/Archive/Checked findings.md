@@ -295,7 +295,7 @@ Also done in phase 1: the Bases list the 640 catalog notes, not all 10,162 files
 | G18 (= B19, E9) | About 945 'Name, c:v' citations in 66 Mei HaShiloach notes are unlinked; the Torah lines cover most Torah-book ones, leaving 370 Prophets/Writings citations without backlinks. | partly | safe | 3 |  |
 | G19 (= B17) | About 1,720 text notes (LXX, Tractates, Markandeya, Pritzker Zohar, Tanya, Mei HaShiloach) have no previous/next links. | holds | safe | 3 |  |
 | G20 (= C1) | Tractates 49-124 carry about 950 glued footnote numbers and pasted note blocks; Tractates 1-48 lost their footnotes; callout URLs are wrong. | holds | safe | 3 |  |
-| G21 | 85 verse-labelled OT references in 46 New Testament notes link only to the chapter or a #Chapter heading. | holds | safe | 3 |  |
+| G21 | 85 verse-labelled OT references in 46 New Testament notes link only to the chapter or a `#Chapter` heading. | holds | safe | 3 |  |
 | G22 | Rashi notes keep references to printed illustrations that are not in the vault | not checked (proposal) | decision | 3 |  |
 | G23 | Author names spelled several ways split the By author table | not checked (proposal) | decision | 3 |  |
 | G24 (= G43 (part)) | 29 of the 30 Devi Mahatmya notes are stubs with no Sanskrit text, yet the Guide lists the Devi Mahatmya among the 'Full reading texts'. | holds | decision | 7 | Incomplete Sets entry corrected (B6); the Sanskrit phase 7 |

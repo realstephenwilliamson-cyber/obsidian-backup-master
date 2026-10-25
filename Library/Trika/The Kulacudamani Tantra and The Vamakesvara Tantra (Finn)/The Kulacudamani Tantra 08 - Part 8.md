@@ -220,9 +220,9 @@ By "with the mudrā" is meant in the form of the yont which will be described la
 [^8-p290]: The sādhaka has placed himself in the middle of the cakra probably in a standing position alongside the drawn image of the sādhyā, or else, he has drawn his own image beside the other's.
 
 [^9]: The clarification given here in the commentary ts taken into account in the translation.
-[^10-p290]: See Chapter III Verses
+[^10-p290]: See Chapter III Verses 26-28.
 
-26-28.
+
 
 
 *[p. 291]* ^pg287
@@ -235,11 +235,11 @@ HER TO HIMSELF WITH HER SEX MOIST AND SWOLLEN[^11] FROM THE
 
 EXCITEMENT OF INCIPIENT SEXUAL PASSION - BE SHE A YAKSĪ,[^12-p291]
 
-A GANDHARVĪ, <sup>13</sup>A KINNARĪ,[^14-p291]'" A FEMALE DEMON, A DAUGHTER
+A GANDHARVĪ,[^13] A KINNARĪ,[^14-p291]'" A FEMALE DEMON, A DAUGHTER
 
 OF A SEER, A NĀGA GIRL, A DAUGHTER OF A GOD, AN AERIAL
 
-SPRITE, A VIDYĀDHARA MAIDEN,[^13] AN APSARAS,[^15] <sup>15</sup>A SAGE'S
+SPRITE, A VIDYĀDHARA MAIDEN,[^15] AN APSARAS,[^16-p291] A SAGE'S
 
 DAUGHTER, OR EVEN URVASĪ.[^17]
 
@@ -255,7 +255,8 @@ ON THE GREAT KĀMAKALĀ. <sup>19</sup>
 
 [^11]: Literally: "dangling"; Skt.: "Lambikam".
 [^13]: A celestial mustetan.
-[^15]: Female of a class of celestial beings that occeastonally descend to earth. 16\. A celestial nymph.
+[^15]: Female of a class of celestial beings that occeastonally descend to earth.
+[^16-p291]: A celestial nymph.
 [^17]: The beautiful celestial nymph who became the wife of Purūravas.
 [^18]: I.e., the previous females were of this world; these come from unseen worlds. 19, See Verses 165-67 with commentary which discuss the nature of the Kāmakaątā. It is probable that the sādhaka is meant to meditate on the graphie representation of Kāmakalā (face, breasts ete.), as well as on its mantra form HRIY (or sometimes TM). In each case he should realize the identification with his own body.
 
@@ -444,7 +445,7 @@ which are mostly omitted. iñ translatton.
 
 *[p. 296]* ^pg292
 
-"This" means the cakra. By “what is joined to the cakra" is meant the letters of the alphabet. By "wherever" is meant on the shoulderžł[^33] etc.. Inside the cakra are the name of the person who is the object of the ritual and his own name; the implication of the verse is that the vidyāž[^34] is to be inscribed once at the end.[^35]
+"This" means the cakra. By “what is joined to the cakra" is meant the letters of the alphabet. By "wherever" is meant on the shoulder[^33] etc.. Inside the cakra are the name of the person who is the object of the ritual and his own name; the implication of the verse is that the vidyā[^34] is to be inscribed once at the end.[^35]
 
 End of commentary on Verse 34.
 
@@ -496,7 +497,7 @@ BEARING THE FORM OF THE CAKRA AS IT DOES, IT DELUDES
 
 KINGS, HORSES, ROGUE ELEPHANTS, THIEVES, LIONS, SERPENTS, THE POWERFUL SEIZING (EFFECT) OF ANOTHER'S MANTRA, ENEMIES, INDRA'S THUNDERBOLT, WEAPONS, QĀKINĪS, SĀKINĪS,’®
 
-SPIRITS, GHOSTS AND DEMONS INTO UTTER CONFUSION.ž[^39]
+SPIRITS, GHOSTS AND DEMONS INTO UTTER CONFUSION.[^39]
 
 He also speaks about the yantra which convulses cities etc..
 

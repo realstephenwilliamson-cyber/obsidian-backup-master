@@ -1,10 +1,14 @@
 ---
+type: book-chapter
+work: "An Introduction to Tantric Philosophy: The Paramārthasāra of Abhinavagupta with the Commentary of Yogarāja"
+order: 5
+page_range: "141–213"
 aliases:
   - Paramarthasara 05 - Translation — Kārikās 21–50
 ---
 # Translation — Kārikās 21–50
 
-[p. 141]
+[p. 141] ^pg156
 
 KĀRIKĀ 20
 141
@@ -56,7 +60,7 @@ organs’. ĪPV III 1, 11 (vol. II: 241) defines them as ‘useful in acquiring
 cognition of sound, etc., within buddhi’ (buddhau śabdādyadhyavasāyarūpāyām upayogīni).
 601Here the five tanmātras are referred to; see kā. 21.
 
-[p. 142]
+[p. 142] ^pg157
 
 genitals are the organs of action. 602
 In respect of sound, etc., that is, in respect of the domain [wherein
@@ -105,7 +109,7 @@ since they are accompanied [by the ego] in [such statements as] “I hear”, it
 that they proceed from the ahaṅkāra. Since they are organs (karaṇa), they are necessar-
 ily “touched” by the agentive part [of the ahaṅkāra]’.
 
-[p. 143]
+[p. 143] ^pg158
 
 KĀRIKĀ 21
 143
@@ -159,7 +163,7 @@ the domains both of the buddhīndriyas and the karmendriyas, although the empha
 on the tanmātras, the domain proper to the buddhīndriyas.
 611parasparāpekṣitva — lit., ‘mutual expectancy’.
 
-[p. 144]
+[p. 144] ^pg159
 
 tive] witness, 612 the pentad of abstract entities derives, as do the organs
 [of cognition and action], from the [principle of] ego. 613
@@ -205,7 +209,7 @@ categorized by the adjunction one-by-one of sensible qualities, for it remains t
 each bhūta has one tanmātra as its primary quality (see Torella ĪPK: 196); see Appendix 13,
 p. 337.
 
-[p. 145]
+[p. 145] ^pg160
 
 KĀRIKĀ 23
 145
@@ -254,7 +258,7 @@ nomenon of clay is set aside, what remains truly is odor itself, and as, when on
 aware of any specific odor, what remains truly is the [absolute] ‘I’ (aham) itself, likewise
 […]’ (our translation).
 
-[p. 146]
+[p. 146] ^pg161
 
 envelop once again consciousness — [already] enveloped by the sheath
 of māyā, figuratively represented by the bran — in the manner of a body,
@@ -307,7 +311,7 @@ and Appendix 10, p. 330.
 626YR thus intends to place the Rudras and the ‘fettered souls’ on the same level of respon-
 sibility (or of deficiency).
 
-[p. 147]
+[p. 147] ^pg162
 
 KĀRIKĀ 24
 147
@@ -359,7 +363,7 @@ implied by the term ‘aṇu’, in the genitive: māyāsahitaṃ kañcukaṣ
 uktam (17b); see YR ad loc. In YR ad 87–88, the analogy of the flaw within the gold is again
 affected to the āṇavamala.
 
-[p. 148]
+[p. 148] ^pg163
 
 Such a cover pertains to [the soul/consciousness] in such a way that
 it leans back against it, 631 as does the bran with respect to the rice-grain
@@ -405,7 +409,7 @@ one another and from the Self]; kriyāśakti, once contracted in the form of o
 becomes extremely limited, assuming the form of kārmamala, which consists in doing good
 and evil’.
 
-[p. 149]
+[p. 149] ^pg164
 
 KĀRIKĀ 25
 149
@@ -458,7 +462,7 @@ See YR’s commentary on svaṃ svabhāvam ātmānam, rephrased as svaṃ ā
 641ātmākhātyandhakāra — cf. the definition of the āṇavamala as caitanyasya ... akhyāti, in
 YR ad 24.
 
-[p. 150]
+[p. 150] ^pg165
 
 although one — that is, although of a nondual nature — [only] in
 terms of the phenomenal display — a display that consists of multifari-
@@ -504,7 +508,7 @@ solidified’. Cf. ChU VI 1, 4: yathā saumya ekena mr̥tpiṇḍena sarvaṃ 
 vācārambhaṇaṃ vikāro nāmadheyaṃ mr̥ttikety eva satyam, ‘Just as, my dear, by one clod of
 clay all that is made of clay becomes known, the modification being only a name arising
 
-[p. 151]
+[p. 151] ^pg166
 
 KĀRIKĀ 26
 151
@@ -552,7 +556,7 @@ tained); and this reading was also adopted in the critical edition of the Mahāb
 20) and in Edgerton’s translation. For the reasons why we have retained the KSTS’s variant,
 see our ‘List of variants’ in ‘On the Sanskrit text’.
 
-[p. 152]
+[p. 152] ^pg167
 
 perceive,/ Unmanifold in the manifold,/ Know that that knowl-
 edge is of goodness. 654
@@ -601,7 +605,7 @@ ness’. Cf. also MāU 7 and 12, in which ‘the ineffable final fourth part o
 the soundless fourth part of oṃ [...] are described as avyavahāra, “not susceptible of being
 dealt with, in language or otherwise.” ’ (Hacker 1972: 120). According to ĀŚ II 17–19 and Ś
 
-[p. 153]
+[p. 153] ^pg168
 
 KĀRIKĀ 27
 153
@@ -659,7 +663,7 @@ taryāmiprāṇavirāḍdehajātipiṇḍāntāḥ/ vyavahāramātram et
 According to YR’s interpretation, the names given to the Self or Ultimate do not denote the
 different states through which it passes, but the different conceptions of the Ultimate that
 
-[p. 154]
+[p. 154] ^pg169
 
 By consciousness (vijñāna) 662 is meant ‘nothing but consciousness’
 (bodhamātra), in isolation (kevala), devoid of limiting attributes. 663 Al-
@@ -714,7 +718,7 @@ nothing else]” ’; 2) ultimately, the Vijñānavādins’ position is but
 under the guise of different words’ (tad ayaṃ śabdāntarapracchanno bāhyārthavādaprakāra
 eva); ĪPK I 5, 6–7 give the Trika position, which agrees with the Vijñānavāda in denying
 
-[p. 155]
+[p. 155] ^pg170
 
 KĀRIKĀ 27
 155
@@ -772,7 +776,7 @@ by Bhartr̥prapañca and Ādiśeṣa — the reference made here to the purus
 would corroborate such a hypothesis; on the identification of that Brahmavāda, see n. 41.
 669R̥S X 90, 2. Same text in ŚvU III 15, quoted in SpN II 6–7, which reveals what is really
 
-[p. 156]
+[p. 156] ^pg171
 
 and:
 There is not the least diversity here [in brahman], 670
@@ -828,7 +832,7 @@ discusses BĀU III 7), in which Śaṅkara holds that the antaryāmin is effe
 is distinguished, at least provisionally, from the jīva (this being wholly determined by māyā),
 whereas what one has called the antaryāmin represents the core of what is real in the heart
 
-[p. 157]
+[p. 157] ^pg172
 
 KĀRIKĀ 27
 157
@@ -886,7 +890,7 @@ brahman represents. Thus, it seems that YR expounds here the view (shared by Bha
 others) that words precede the things they name in the order of creation. Such speculations
 echo the śaṅkarite exegesis of ChU I 11, 4–5, whose conclusion is that ‘prāṇa is brahman’
 
-[p. 158]
+[p. 158] ^pg173
 
 them, brahman has no form other than Breath, brahman is Word [itself]
 (śabdabrahman) endowed with self-awareness (savimarśa). 676
@@ -943,7 +947,7 @@ ātman vaiśvānara, the equivalent, at the empirical level, of the divine an
 the vaiśvānara-ātman as a vedāntic notion, see PS 35 and YR ad loc., both texts expounding
 the MāU doctrine (developed by the ĀŚ and Śaṅkara’s ĀŚV) according to which the four states
 
-[p. 159]
+[p. 159] ^pg174
 
 KĀRIKĀ 27
 159
@@ -1002,7 +1006,7 @@ Naiyāyikas (cf. Biardeau 1964: 234–235). The notion is discussed in Śāb
 30–35 (cf. Biardeau 1964: 168ff.) For the discussion of piṇḍa — lit., ‘lump’, ‘compact mass’,
 or ‘corporeal frame’, therefore ‘individu concret’ (‘concrete individual’), as translated by
 
-[p. 160]
+[p. 160] ^pg175
 
 real, and that no universal that would be one and [at the same time]
 the substratum of numerous qualities 684 ever appears (prakāśate) [to the
@@ -1052,7 +1056,7 @@ ing [aspect of the saṃsāra]’.
 689Same phraseology in YR ad 1. The polemic auto-commentary of PH 8 gives a com-
 plete panorama, arranged in a hierarchy, of the different conceptions of the Self, in order
 
-[p. 161]
+[p. 161] ^pg176
 
 KĀRIKĀ 28
 161
@@ -1101,7 +1105,7 @@ erroneous to some degree, being only relatively true, it is now appropriate to e
 error is possible.
 693atādrūpya.
 
-[p. 162]
+[p. 162] ^pg177
 
 For instance, although it is a rope that in reality is seen, yet, due to the
 confusion (bhrama) caused by its long and coiled form, the witnesses (a-
@@ -1146,7 +1150,7 @@ an unreal object on the real one (see YR ad 30), yet, in ultimate terms, error i
 as the ignorance of one’s own plenitude, as imperfect knowledge, which the Lord’s freedom
 has made possible, by means of his māyāśakti.
 
-[p. 163]
+[p. 163] ^pg178
 
 KĀRIKĀ 29
 163
@@ -1191,7 +1195,7 @@ However, merit and demerit, etc., do not exist ultimately for the Self,
 terror]’.
 700vijr̥ṃbhita.
 
-[p. 164]
+[p. 164] ^pg179
 
 which is a uniform and unqualified mass of blissful consciousness (anava-
 cchinnacidānandaikaghana). 701
@@ -1235,7 +1239,7 @@ are the essential nature of (all) things; it is not darkness (aprakāśa) that
 of consciousness) becomes the object of illumination’, and his edition of the Saṃvitprakāśa,
 for variants.
 
-[p. 165]
+[p. 165] ^pg180
 
 KĀRIKĀ 30
 165
@@ -1290,7 +1294,7 @@ what is the same thing, beginningless dispositions, to be the cause of the illus
 nal world. As emphasized, here, in YR’s commentary, the Trika viewpoint reflects its main
 postulate: the absolute freedom of the Lord. It is this divine freedom that makes all entities
 
-[p. 166]
+[p. 166] ^pg181
 
 Thus, it is only ‘I’ (aham) — who am essentially consciousness (cit-
 svarūpa) — who appear [in fact] through the opposition of cognizer and
@@ -1338,7 +1342,7 @@ superimposed on the Self, is not alone bondage; [as well] that [limited] knowled
 is rooted in the ignorance whereby the Self is superimposed erroneously on the non-Self,
 viz., the body, etc., is also bondage’. At this point in his demonstration, Kṣemarāja quotes
 
-[p. 167]
+[p. 167] ^pg182
 
 KĀRIKĀ 31
 167
@@ -1389,7 +1393,7 @@ ŚSV ad loc. Cf. BSBh I 1 and ĀŚ I 13 and 15.
 719See PS 25 and n. 638.
 720A reference to the Buddhist śūnya?
 
-[p. 168]
+[p. 168] ^pg183
 
 sense]. 721
 Now, if it is objected that such an [experience, which is an] outrage to
@@ -1441,7 +1445,7 @@ nothing but reformulate our notion of idantā “thatness” ’) — and the 
 the same: ‘this world is lamentable’ (eṣa eva saṃsāraḥ śocanīyaḥ).
 727abhighātaḥ.
 
-[p. 169]
+[p. 169] ^pg184
 
 KĀRIKĀ 32
 169
@@ -1491,7 +1495,7 @@ description of the entire process better suits the silkworm. Although not sugges
 YR, the metaphoric meaning of jāla, ‘deception’, ‘illusion’, ‘magic’, could also be implicitly
 intended here (cf. ĀPS 30).
 
-[p. 170]
+[p. 170] ^pg185
 
 Once [the unity of] consciousness has been cast aside in failing to rec-
 ognize the Self, each and every cognizer envelops his Self, though [it is
@@ -1541,7 +1545,7 @@ proper to the buddhi, to be the Self, respectively, as the Yogācāras, and as
 and the Mīmāṃsakas. According to PHvr̥ 8 (quoted in Appendix 14, p. 338), which gives a
 more complete account of this position, they are Yogācāras, Naiyāyikas and Mīmāṃsakas,
 
-[p. 171]
+[p. 171] ^pg186
 
 KĀRIKĀ 32
 171
@@ -1596,7 +1600,7 @@ negation, in keeping with the formula ‘neti neti’. Thus it seems that YR wan
 the Advaitins to the śūnyavāda while distinguishing them from the Mādhyamikas, by taking
 recourse to a literal reading of ‘neti neti’, which seems to pluralize the notion of Void.
 
-[p. 172]
+[p. 172] ^pg187
 
 whose partisans maintain that, in the process of meditation (samādhāna),
 when it is realized that ‘here is another absence (śūnya) [that] is not my-
@@ -1649,7 +1653,7 @@ the conscious principle has been formulated as supreme], what has not been recog
 the freedom (svātantrya) of that conscious principle which, endowed with life, becomes the
 [efficient] cause of the construction of the universe’; see also Kṣemarāja’s discussion on the
 
-[p. 173]
+[p. 173] ^pg188
 
 KĀRIKĀ 33
 173
@@ -1695,7 +1699,7 @@ also said to be durnivāra; see also, at the end of the passage, the absolutive
 second hemistich of 33 is intended as a conclusion to both 32 and 33.
 753See PS 60, n. 1039.
 
-[p. 174]
+[p. 174] ^pg189
 
 off the conceit that takes the body, etc., to be the Self (dehādyabhimāna).
 Then he knows: ‘I am a uniform mass of blissful consciousness, [hence] I
@@ -1744,7 +1748,7 @@ rhetorical model here is perhaps the upaniṣadic ‘pūrṇam adaḥ pūrṇa
 udacyate/ pūrṇasya pūrṇam ādāya/ pūrnam evāvaśiṣyate (BĀU V 1, 1)’ or the ubiquitous Śaiva
 ‘nāprakāśaḥ prakāśate’.
 
-[p. 175]
+[p. 175] ^pg190
 
 KĀRIKĀ 34
 175
@@ -1788,7 +1792,7 @@ perfect/complete’.
 763ekākī na ramāmy aham — cf. BĀU I 4, 3: sa vai naiva reme, tasmād ekākī na ramate, sa
 dvitīyam aicchat.
 
-[p. 176]
+[p. 176] ^pg191
 
 abode. 764 Nevertheless, the Fourth abode does not appear as covered
 over by them. 765
@@ -1839,7 +1843,7 @@ meṇa adhikam adhikaṃ prasarad āśrayaṃ vyāpnoti tathā āsecyam/, �
 sesame oil, gradually spreading little by little, pervades its substratum”, so likewise should
 [the Fourth state] be sprinkled over [the three others]’.
 
-[p. 177]
+[p. 177] ^pg192
 
 KĀRIKĀ 35
 177
@@ -1886,7 +1890,7 @@ YR ad 1.
 770anusyūta — lit., ‘threaded through them’.
 771As to content, kārikās 34 and 35 correspond to ĀPS 31.
 
-[p. 178]
+[p. 178] ^pg193
 
 The waking state is this All (viśva), 772 i.e., the cosmic (vairāja) form
 of brahman. 773
@@ -1936,7 +1940,7 @@ thus qualified. Note that R ad ĀPS 6 quotes the last pada of R̥S X 81, 3. For
 evoking Virāj, see YR ad 27, and n. 678.
 779R̥S X 81, 3.
 
-[p. 179]
+[p. 179] ^pg194
 
 KĀRIKĀ 35
 179
@@ -1991,7 +1995,7 @@ gā na panthāno bhavanty atha rathān rathayogān pathaḥ sr̥jate na tatr
 bhavanty athānandān mudaḥ pramudaḥ sr̥jate na tatra veśāntāḥ puṣkariṇyaḥ sravantyo bhavanty
 atha veśāntān puṣkariṇīḥ sravantīḥ sr̥jate sa hi kartā, ‘In that state the person becomes self-
 
-[p. 180]
+[p. 180] ^pg195
 
 What is implied by all this 786 is that it is he, the Lord, the luminous
 god 787 endowed with his own essential nature [of consciousness], 788 who
@@ -2043,7 +2047,7 @@ and is made of all things’]. The verse seems to have been famous in the Śaiv
 Rāmakaṇṭha quotes it — although with two variants: sarvaśaktiḥ, ‘endowed with all powers’
 (for sarvamayaḥ) and prapadyate (for pravartate) — in his Vivr̥ti to SpK III 1–2 (p. 102), in
 
-[p. 181]
+[p. 181] ^pg196
 
 KĀRIKĀ 35
 181
@@ -2100,7 +2104,7 @@ see also BĀU IV 3, 21. It is the state of ‘massive cognition’, variously t
 jñānaghana, as here, in PS 35.
 793So generally Conze 1974; Bugault 1968 translates ‘la sapience’.
 
-[p. 182]
+[p. 182] ^pg197
 
 remains, who has become thus the seed of the universe. 794
 [Deep sleep] is the great Void (mahāśūnya), 795 where objects, etc., are
@@ -2150,7 +2154,7 @@ in a passage dealing with memory. YR quotes another verse, borrowed from the Kak
 tra, in his gloss to PS 51; also ĪPVV, vol. II: 13, 14 and 145; for other quotes, see Dyczkowski
 SpK: 29–30 and notes.
 
-[p. 183]
+[p. 183] ^pg198
 
 KĀRIKĀ 35
 183
@@ -2201,7 +2205,7 @@ both deep sleep and the Fourth state; according to others, to deep sleep alone.
 develops this definition.
 807For speculations on turīya (or its variant turya), see Malamoud 1989: 140ff. As he
 
-[p. 184]
+[p. 184] ^pg199
 
 Since no name suitable to the meaning [of that Fourth state] can be
 given, it has simply been called here the ‘Fourth’, thus designating it nu-
@@ -2251,7 +2255,7 @@ the supreme Śakti of the Lord, in the form of his power of absolute freedom (s
 that opts either for transcendence or for immanence.
 813akhyātimālinya — lit., ‘dirt of non-recognition’.
 
-[p. 185]
+[p. 185] ^pg200
 
 KĀRIKĀ 36
 185
@@ -2304,7 +2308,7 @@ statement in ĀPS 21.
 820Cf. YR ad 1, where sarvālaya of the kārikā is glossed by sarvaviśrāntisthāna.
 821aindrajālika.
 
-[p. 186]
+[p. 186] ^pg201
 
 others without deluding him], the modifications associated with māyā that
 proceed from him, consisting of non-Light, do not abrogate the Lord him-
@@ -2360,7 +2364,7 @@ of Utpala (or of another of his teachers). R. Torella (private correspondence), 
 an ‘Utpala-like’ character in the NV, may be mentioned as providing further support for this
 thesis.
 
-[p. 187]
+[p. 187] ^pg202
 
 KĀRIKĀ 37
 187
@@ -2412,7 +2416,7 @@ if one space within a jar is filled with dust, smoke, etc., not all [spaces in a
 so is the case with the individual souls regarding joy, etc. [i.e., similarly, if one individual
 soul is filled with joy, etc., not all souls are filled with joy, etc.]’. ĀŚ III 6 (quoted n. 833)
 
-[p. 188]
+[p. 188] ^pg203
 
 [The comparison may be formulated as follows:]
 Though one space within a [specific] jar is infused 830 with quantities
@@ -2463,7 +2467,7 @@ Sanskrit text’.
 835arthakriyākāritvāt — lit., ‘[and this is justified] by the use to which the jar is put’.
 836The affairs of men are conducted with particular ends in view, ends that are supplied by
 
-[p. 189]
+[p. 189] ^pg204
 
 KĀRIKĀ 37
 189
@@ -2515,7 +2519,7 @@ principles; and possibly to the Vaiśeṣika, where ātman designates the cate
 substance and aṇu the ‘atom’ or fundamental unit of “nature”.
 842Same terminology in YR ad 53.
 
-[p. 190]
+[p. 190] ^pg205
 
 supposing oneself the agent of actions, having diverse intentions, and par-
 taking of the differences expressed by the pairs of opposites — merit and
@@ -2560,7 +2564,7 @@ tion ‘sthāvarotpatti’ from a medical text (but do not offer a gloss) and t
 (III 10, 18ff.) avers that the seventh, among the nine “creations” of Brahmā, is that of ‘fixed’
 (taṣṭhuṣām) entities — plants and trees — suggesting the possibility that Brahmā himself
 
-[p. 191]
+[p. 191] ^pg206
 
 KĀRIKĀ 39
 191
@@ -2610,7 +2614,7 @@ place’; on mahāvyāpti, see JR’s gloss: paraṃ pārameśvaryam udiyā
 supreme Lordship may rise’. TĀV ad loc. comments (vol. III: 1032): iha khalu dvidhā bandha
 ātmany anātmābhimāno ’nātmany ātmābhimānaś ca, iti tad eva cāṇavaṃ malam ucyate, ‘Here,
 
-[p. 192]
+[p. 192] ^pg207
 
 [The Self,] having firstly, that is, in the beginning, set aside its ap-
 pearance in the form of the non-Self, that is, in such insentient things as
@@ -2657,7 +2661,7 @@ non-Self, in terms of the Self’.
 856bhedaprathā — lit., ‘display of difference’.
 857Cf. TĀV V 151: svātmaiva hi parameśvaraḥ śivaḥ.
 
-[p. 193]
+[p. 193] ^pg208
 
 KĀRIKĀ 40
 193
@@ -2710,7 +2714,7 @@ śāṃbhavaḥ/, ‘Therefore, the absorption proper to Śaṃbhu is non-dis
 independent of all bhāvanā, etc., in which one attains identity with Śiva’; see also Intr., p. 51.
 On bhāvanā, see Appendix 20, p. 345.
 
-[p. 194]
+[p. 194] ^pg209
 
 of restrictions limiting the recognition (parijñapti) of his own freedom, and
 who is thus disciplined in accord with most excellent yoga,
@@ -2761,7 +2765,7 @@ as such’.
 see TĀ I 214–215.
 864BhG II 52. The perfect yogin no longer requires the teachings of the Śruti, i.e., of the
 
-[p. 195]
+[p. 195] ^pg210
 
 KĀRIKĀ 41
 195
@@ -2818,7 +2822,7 @@ viṣr̥jyate hi tat […], ‘It is through ascending the triad of the śaktis
 world] is emitted (or projected: viṣr̥jyate = visarga: Ḥ) into the consciousness of Bhairava
 [where it rests]’. The process of reabsorption into pure consciousness is described here.
 
-[p. 196]
+[p. 196] ^pg211
 
 non-difference; 869 [— then,] by dissolving all difference as he realizes
 within himself (samāpatti) 870 the condition of Śaṃbhu, which is a mass of
@@ -2875,7 +2879,7 @@ light; — “[Bhairava] who never expands or contracts” [refers to] all-encom
 said to be [like] an ocean without waves; — “in expansion and contraction” [means] eter-
 nally composed of creative and destructive [forces]. — For this very reason, [his] “energy”
 
-[p. 197]
+[p. 197] ^pg212
 
 KĀRIKĀ 41
 197
@@ -2934,7 +2938,7 @@ Ḥ; see PTLvr̥ 21–24: tad etad vedyavedanavedakaviśrāntitrayam ayaṃ va
 trayam, ‘Such is the nature of the three phonemes [S-AU-Ḥ]. It is a triad for it consists of a
 threefold repose in the knowable, knowledge and the knower’.
 
-[p. 198]
+[p. 198] ^pg213
 
 further, the essential potency (vīrya) [of that revelation] is contained in
 the Great formula (mahāmantra), as may be confirmed in one’s own expe-
@@ -2984,7 +2988,7 @@ bhāvanabalāt: ‘Car cette trinité: terre, nature, illusion, qui accède à
 grâce à l’efficace de la réalisation mystique, à l’être pur’.
 881The same passage is quoted in PM 2, a Krama text, and attributed to the Devikākrama,
 
-[p. 199]
+[p. 199] ^pg214
 
 KĀRIKĀ 42
 199
@@ -3034,7 +3038,7 @@ dhacidātmatā//, ‘Just as gold fashioned into jewelery is, without undergoi
 wonderfully varied, so is Your form as all things [which You assume even as] You persist
 just as You are. Just as gold, losing its form, persists as a gold ingot (piṇḍa), in the same way
 
-[p. 200]
+[p. 200] ^pg215
 
 as pure Being, when difference is set aside. 885
 As, indeed, golden ornaments — girdles, etc. — are gold and nothing
@@ -3082,7 +3086,7 @@ Anuttara, the vibrating absolute in which the triad of nara (jagat), Śakti and
 merges.
 889See the avat. ad 41 and 46.
 
-[p. 201]
+[p. 201] ^pg216
 
 KĀRIKĀ 43
 201
@@ -3130,7 +3134,7 @@ finite soul is different from him. Here, PS 43 answers the objection with the ep
 898YR ad 10–11 glosses ‘free of dissolution and creation’ (layodayavihīna) with ‘eternal’
 (sanātana).
 
-[p. 202]
+[p. 202] ^pg217
 
 Of the real and unreal elements that are found in every object,
 the real element is the genus, whereas the unreal one is the
@@ -3182,7 +3186,7 @@ p. 84, as well as in SpP, p. 4 (as Dhātusamīkṣā) and pp. 16 and 21 (as
 S-AU-Ḥ, so that the first two constituents of S-AU-Ḥ are alluded to in kā. 43; on the Trident,
 see also n. 909 and PS 45 (n. 922).
 
-[p. 203]
+[p. 203] ^pg218
 
 KĀRIKĀ 43
 203
@@ -3237,7 +3241,7 @@ symbolically designated as such.
 technical sense, namely, as the name given to the four cerebral vowels — r̥ r̥̄ l̥ l̥̄ — (see TĀ III
 91–92a). The clue to interpreting this very passage of YR’s gloss is perhaps found in TĀ III
 
-[p. 204]
+[p. 204] ^pg219
 
 as] pure (śuddha), on account of its contiguity to the abode of Sādākhya
 [viz., Sadāśiva]. 906
@@ -3295,7 +3299,7 @@ manaḥ//. Thus this śloka cryptically spells out (S + AU + Ḥ) the mantra SA
 1992: 418; TĀ IV 186–189.
 909AU is the fourteenth phoneme (tithi) in the orders of both the alphabet and phonemic
 
-[p. 205]
+[p. 205] ^pg220
 
 KĀRIKĀ 43
 205
@@ -3349,7 +3353,7 @@ n. 63.
 912amr̥tībhāva and amr̥tīkaraṇa are two terms occuring in sādhanā: it is the transformation
 of him who is perishable into imperishable, eternal.
 
-[p. 206]
+[p. 206] ^pg221
 
 Kārikā 44
 Whatever does not repose in the supreme energy under the headings of
@@ -3399,7 +3403,7 @@ that aids in the identification of names of rites in consequence of substances o
 that have therein been mentioned — the idea being that neither of the latter need be men-
 tioned twice, and consequently any second mention of same (such as the word ‘agnihotra’
 
-[p. 207]
+[p. 207] ^pg222
 
 KĀRIKĀ 45
 207
@@ -3449,7 +3453,7 @@ of its identity with the supreme Cognizer thanks to the progressive ascent to th
 TĀV ad loc. explains: evaṃ yathoktayuktyā, eṣāṃ brahmāṇḍādīnāṃ satāṃ viśvarūpatayā pra-
 tibhāsamānānām eva, sadrūpatā parabodhena saha śaktitrayātmatāṃ visargaṃ ca samākṣpyaiva
 
-[p. 208]
+[p. 208] ^pg223
 
 Supreme Śiva ...
 ... of gods — deities, from Brahmā to Sadāśiva, but also, the sense-
@@ -3494,7 +3498,7 @@ the possession of multiple energies’.
 925Namely, by means of SAUḤ.
 926visargavr̥tti, as symbolized by the final visarga of SAUḤ.
 
-[p. 209]
+[p. 209] ^pg224
 
 KĀRIKĀ 46
 209
@@ -3541,7 +3545,7 @@ of the universe in consciousness.
 933Thus is confirmed that kā. 46 deals with the sr̥ṣṭikrama.
 934Cf. PS 14 and YR ad loc.
 
-[p. 210]
+[p. 210] ^pg225
 
 own Self, appears yet as different. 935 And there is nothing that is different
 from him.
@@ -3589,7 +3593,7 @@ thus [i.e., in this state of absorption], [the yogin] is the Lord of the Wheel (
 he has attained freedom. He is the Master of the Wheel of energies (śakticakrasvāmin), who
 is endowed with omniscience and other [divine attributes]’. Also ŚS I 21: śuddhavidyodayāc
 
-[p. 211]
+[p. 211] ^pg226
 
 KĀRIKĀS 47–50
 211
@@ -3641,7 +3645,7 @@ interpretation of PS 50, see Intr., pp. 6 and 9. Cf. BhG XV 15: vedāntakr̥d
 YR ad loc.
 948helākrama.
 
-[p. 212]
+[p. 212] ^pg227
 
 in the manner of a device consisting of jars forming a water-wheel [that
 descend into and emerge from a well].
@@ -3692,7 +3696,7 @@ impurity (see PS 24).
 nāyaka of the drama is its ‘hero’ who ‘guides’ the plot.
 954Cf. the Sarvamaṅgalāśāstra, quoted by YR ad PS 4 and Appendix 4, p. 322.
 
-[p. 213]
+[p. 213] ^pg228
 
 KĀRIKĀS 47–50
 213

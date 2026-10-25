@@ -5,9 +5,7 @@ section: "Front Matter"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/General/preface.html"
-page_range:
-  - 9
-  - 11
+page_range: "9–11"
 aliases:
   - "BCP 9"
   - "BCP 10"
@@ -17,7 +15,7 @@ aliases:
 
 [[BCP 1979]] · *Front Matter* · pages 9–11
 
-[p. 9]
+[p. 9] ^pg9
 
 ## Preface
 

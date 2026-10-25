@@ -146,7 +146,7 @@ The direct appearance by the power of words of a second figure \[together with l
 
 As even without a necklace they had a natural charm, necklace,
 
-in whom did this maiden's breasts not arouse wonder?[^A309-3]’
+in whom did this maiden's breasts not arouse wonder?[^A309-3]
 
 Here a transient state of mind (vyabhicãribhāva) of love, named “wonder,” and the directly expressed figure of speech virodha (contradiction) both appear |together with a pun}. So this is in the domain of śleṣa favoring the semblance of virodha.[^A309-4] It is not in the domain of that type of dṁvani which is like a reverberation.[^A309-5] However, it is in the domain of the type of dhvani where the suggestion appears without an interval, the suggestion being here suggested either by the pun or the virodha.[^A309-6]
 
@@ -172,7 +172,7 @@ As even without, etc.: Here the word “even” (api) directly de notes a contra
 
 *[p. 296]* ^pg311
 
-into a double meaning. Hārninau may mean “they must[^L310-2] captivate one's heart,” or it may mean “possessing a necklace (Aãra).”? And it is because of this \[presence of api) that the word vismaya (wonder) strengthens this very sense. For if the word api were not present, there would be no direct denotation of a double meaning, since the natural charm of the maiden's breasts could be taken as the cause of wonder.[^L310-4]‘ A state of mind named wonder: hbe uses this phrase to furnish
+into a double meaning. Hārninau may mean “they must[^L310-2] captivate one's heart,” or it may mean “possessing a necklace (Aãra).”? And it is because of this \[presence of api) that the word vismaya (wonder) strengthens this very sense. For if the word api were not present, there would be no direct denotation of a double meaning, since the natural charm of the maiden's breasts could be taken as the cause of wonder.[^L310-4] A state of mind named wonder: hbe uses this phrase to furnish
 
 an illustration. Just as wonder appears directly through the very word “wonder” \[and not as suggested by the description of an anubhāva or the like\], just so does the figure of contradiction appear directly through the word “even” (api) \[and is not a suggested figure\]. Now one might doubt that there is any suggestion at all in this stanza. To allay that doubt he says, however, etc. Or by the virodha: by the use of “or” he shows that this is a case of the figure fusion composed of an interlocked śleṣa and virodha, for the word "or" indicates that due to the presence of mutual aid? there is no basis for rejecting the one and accepting the other.
 
@@ -254,7 +254,7 @@ A Where the figure of speech, although implied, is then again directly expressed
 
 *[p. 300]* ^pg315
 
-of words. ln such cases we must speak of some directly denoted figure such as vakrokti or the like,[^A314-1]' as in this example:
+of words. ln such cases we must speak of some directly denoted figure such as vakrokti or the like,[^A314-1] as in this example:
 
 O Keśava, my eyes were blind
 

@@ -5,9 +5,7 @@ section: "Proper Liturgies for Special Days"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/SpecialDays/palmsunday.html"
-page_range:
-  - 270
-  - 273
+page_range: "270–273"
 aliases:
   - "BCP 270"
   - "BCP 271"
@@ -18,7 +16,7 @@ aliases:
 
 [[BCP 1979]] · *Proper Liturgies for Special Days* · pages 270–273
 
-[p. 270]
+[p. 270] ^pg270
 
 ## The Sunday of the Passion:
 
@@ -40,7 +38,7 @@ Assist us mercifully with your help, O Lord God of our salvation, that we may en
 
 *Here a Deacon or other person appointed reads one of the following*
 
-[p. 271]
+[p. 271] ^pg271
 
 *Year A* [[Matthew 21#^21-1|Matthew 21:1-11]] *Year B* [[Mark 11#^11-1|Mark 11:1-11]], or [[John 12#^12-12|John 12:12-16]] *Year C* [[Luke 19#^19-28|Luke 19:28-40]]
 
@@ -70,7 +68,7 @@ Blessed is he who comes in the name of the Lord. *Hosanna in the highest.*
 
 *At a suitable place, the procession may halt while the following or some other appropriate Collect is said*
 
-[p. 272]
+[p. 272] ^pg272
 
 Almighty God, whose most dear Son went not up to joy but first he suffered pain, and entered not into glory before he was crucified: Mercifully grant that we, walking in the way of the cross, may find it none other than the way of life and peace; through Jesus Christ our Lord. *Amen.*
 
@@ -94,7 +92,7 @@ The Passion of our Lord Jesus Christ according to\_\_\_\_\_\_\_\_\_
 
 *The customary responses before and after the Gospel are omitted.*
 
-[p. 273]
+[p. 273] ^pg273
 
 *Year A* [[Matthew 26#^26-14|Matthew 26:14]]––27:66, *or* 27:11-54 *Year B* [[Mark 14#^14-1|Mark 14:1]]––15:47, *or* 15:1-39 (40-47) *Year C* [[Luke 22#^22-14|Luke 22:14]]––23:56, *or* 23:1-49
 

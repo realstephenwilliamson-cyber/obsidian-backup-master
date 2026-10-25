@@ -19,7 +19,7 @@ language:
 pages: 158
 text: searchable
 status: reading
-physical_copy: true
+print: true
 files:
   - "[[For a New Critique of Political Economy (2010).pdf]]"
   - "[[Library/Philosophy/For a New Critique of Political Economy (Stiegler)/For a New Critique of Political Economy (Stiegler)]]"

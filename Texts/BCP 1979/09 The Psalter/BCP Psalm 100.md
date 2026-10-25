@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 100
 verses: 4
-page_range:
-  - 730
-  - 730
+page_range: "730"
 aliases:
   - "BCP Psalm 100"
   - "BCP 730"
@@ -30,7 +28,7 @@ and come before his presence with a song. ^100-1
 he himself has made us, and we are his;  
 we are his people and the sheep of his pasture. ^100-2
 
-[p. 730]
+[p. 730] ^pg730
 
 **100:3** Enter his gates with thanksgiving;  
 go into his courts with praise; \*  

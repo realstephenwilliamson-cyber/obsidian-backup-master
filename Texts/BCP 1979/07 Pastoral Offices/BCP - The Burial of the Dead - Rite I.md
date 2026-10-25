@@ -5,9 +5,7 @@ section: "Pastoral Offices"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/PastoralOffices/BurialI.html"
-page_range:
-  - 469
-  - 489
+page_range: "469–489"
 aliases:
   - "BCP 469"
   - "BCP 470"
@@ -35,7 +33,7 @@ aliases:
 
 [[BCP 1979]] · *Pastoral Offices* · pages 469–489
 
-[p. 469]
+[p. 469] ^pg469
 
 ## The Burial of the Dead: Rite One
 
@@ -57,7 +55,7 @@ The Lord be with you.
 
 Celebrant Let us pray.
 
-[p. 470]
+[p. 470] ^pg470
 
 ### At the Burial of an Adult
 
@@ -78,7 +76,7 @@ that wait for him) [[LXX Wisdom of Solomon 03#^3-1|Wisdom 3:1-5]],9 (The souls o
 
 *After the Old Testament Lesson, a suitable canticle or one of the following Psalms may be sung or said.*
 
-[p. 471]
+[p. 471] ^pg471
 
 **Psalm 42** Quemadmodum
 
@@ -98,7 +96,7 @@ and though the hills be carried into the midst of the sea; Though the waters the
 and though the mountains shake at the tempest of the same. There is a river, the streams whereof make glad the city of God, \*  
 the holy place of the tabernacle of the Most Highest.
 
-[p. 472]
+[p. 472] ^pg472
 
 God is in the midst of her, therefore shall she not be removed; \*  
 God shall help her, and that right early. Be still then, and know that I am God; \*  
@@ -118,7 +116,7 @@ but in the evening it is cut down, dried up, and withered. For we consume away i
 and are afraid at thy wrathful indignation. Thou hast set our misdeeds before thee, \*  
 and our secret sins in the light of thy countenance.
 
-[p. 473]
+[p. 473] ^pg473
 
 For when thou are angry all our days are gone; \*  
 we bring our years to an end, as it were a tale that is told. The days of our age are threescore years and ten; and though men be so strong that thy come to fourscore years, \*  
@@ -138,7 +136,7 @@ neither the moon by night. The LORD shall preserve thee from all evil; \*
 yea, it is even he that shall keep thy soul. The LORD shall preserve thy going out, and thy coming in, \*  
 from this time forth for evermore.
 
-[p. 474]
+[p. 474] ^pg474
 
 **Psalm 130** De profundis
 
@@ -160,7 +158,7 @@ thou understandest my thoughts long before. Thou art about my path, and about my
 and art acquainted with all my ways. For lo, there is not a word in my tongue, \*  
 but thou, O LORD, knowest it altogether.
 
-[p. 475]
+[p. 475] ^pg475
 
 Thou hast beset me behind and before, \*  
 and laid thine hand upon me. Such knowledge is too wonderful and excellent for me; \*  
@@ -178,7 +176,7 @@ the darkness and light to thee are both alike.
 
 *After the New Testament Lesson, a suitable canticle or hymn, or one of the following Psalms may be sung or said*
 
-[p. 476]
+[p. 476] ^pg476
 
 **Psalm 23** Dominus regit me
 
@@ -199,7 +197,7 @@ I shall not want. He maketh me to lie down in green pastures; \*
 he leadeth me beside the still waters. He restoreth my soul; \*  
 he leadeth me in the paths of righteousness for his Name's sake.
 
-[p. 477]
+[p. 477] ^pg477
 
 Yea, though I walk through the valley of the shadow of death, I will fear no evil; \*  
 for thou art with me;  
@@ -221,7 +219,7 @@ above mine enemies round about me. Therefore will I offer in his dwelling an obl
 I will sing and speak praises unto the LORD. Hearken unto my voice, O LORD, when I cry unto thee; \*  
 have mercy upon me, and hear me.
 
-[p. 478]
+[p. 478] ^pg478
 
 My heart hath talked of thee, Seek ye my face. \*  
 Thy face, LORD, will I seek. O hide not thou thy face from me, \*  
@@ -245,7 +243,7 @@ and give thanks with thine inheritance.
 My delight is in the LORD, \*  
 because he hath heard the voice of my prayer;
 
-[p. 479]
+[p. 479] ^pg479
 
 Because he hath inclined his ear unto me, \*  
 therefore will I call upon him as long as I live. The snares of death compassed me round about, \*  
@@ -266,7 +264,7 @@ The Holy Gospel of our Lord Jesus Christ according to John.
 
 **People** Glory be to thee, O Lord.
 
-[p. 480]
+[p. 480] ^pg480
 
 [[John 05#^5-24|John 5:24-27]] (He that believeth hath everlasting life) [[John 06#^6-37|John 6:37-40]] (All that the Father giveth me shall come to me) [[John 10#^10-11|John 10:11-16]] (I am the good shepherd) [[John 11#^11-21|John 11:21-27]] (I am the resurrection and the life) [[John 14#^14-1|John 14:1-6]] (In my Father's house are many mansions)
 
@@ -294,7 +292,7 @@ Almighty God, who hast knit together thine elect in one communion and fellowship
 
 Grant that all who have been baptized into Christ's death and resurrection may die to sin and rise to newness of life, and that through the grave and gate of death we may pass with him to our joyful resurrection. *Amen.*
 
-[p. 481]
+[p. 481] ^pg481
 
 Grant to us who are still in our pilgrimage, and who walk as yet by faith, that thy Holy Spirit may lead us in holiness and righteousness all our days. *Amen.*
 
@@ -314,7 +312,7 @@ Grant us, with all who have died in the hope of the resurrection, to have our co
 
 *When there is no Communion, the service continues with the Commendation, or with the Commital.*
 
-[p. 482]
+[p. 482] ^pg482
 
 ### At the Eucharist
 
@@ -360,7 +358,7 @@ The Lord will guide our feet into the way of peace, having taken away the sin of
 
 Christ will open the kingdom of heaven to all who believe in his Name, saying, Come, O blessed of my Father; inherit the kingdom prepared for you.
 
-[p. 484]
+[p. 484] ^pg484
 
 Into paradise may the angels lead thee; and at thy coming may the martyrs receive thee, and bring thee into the holy city Jerusalem.
 
@@ -382,7 +380,7 @@ Thou knowest, Lord, the secrets of our hearts; shut not thy merciful ears to our
 
 All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.
 
-[p. 485]
+[p. 485] ^pg485
 
 He that raised up Jesus from the dead will also give life to our mortal bodies, by his Spirit that dwelleth in us.
 
@@ -412,7 +410,7 @@ thy kingdom come,
 thy will be done,  
 on earth as it is in heaven. Give us this day our daily bread.
 
-[p. 486]
+[p. 486] ^pg486
 
 And forgive us our trespasses,  
 as we forgive those who trespass against us. And lead us not into temptation,  
@@ -445,7 +443,7 @@ O God, whose blessed Son was laid in a sepulcher in the garden: Bless, we pray, 
 
 Almighty and everliving God, we yield unto thee most high praise and hearty thanks for the wonderful grace and virtue declared in all thy saints, who have been the choice vessels of thy grace, and the lights of the world in their several generations; most humbly beseeching thee to give us grace so to follow the example of their steadfastness in thy faith, and obedience to thy holy commandments, that at the day of the general resurrection, we, with all those who are of the mystical body of thy Son, may be set on his right hand, and hear that his most joyful voice: "Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world." Grant this, O Father, for the sake of the same thy Son Jesus Christ, our only Mediator and Advocate. *Amen.*
 
-[p. 488]
+[p. 488] ^pg488
 
 Almighty God, with whom do live the spirits of those who depart hence in the Lord, and with whom the souls of the faithful, after they are delivered from the burden of the flesh, are in joy and felicity: We give thee hearty thanks for the good examples of all those thy servants, who, having finished their course in faith, do now rest from their labors. And we beseech thee that we, with all those who are departed in the true faith of thy holy Name, may have our perfect consummation and bliss, both in body and soul, in thy eternal and everlasting glory; through Jesus Christ our Lord. *Amen.*
 

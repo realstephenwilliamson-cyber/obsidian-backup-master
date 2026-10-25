@@ -19,8 +19,7 @@ language:
   - Sanskrit
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Vinasikhatantra_text.pdf]]"
   - "[[Library/Hinduism/The Vinasikhatantra (Goudriaan)/The Vinasikhatantra (Goudriaan)]]"

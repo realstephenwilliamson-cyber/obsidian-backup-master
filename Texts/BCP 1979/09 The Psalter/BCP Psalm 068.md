@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 68
 verses: 36
-page_range:
-  - 676
-  - 679
+page_range: "676–679"
 aliases:
   - "BCP Psalm 68"
   - "BCP 676"
@@ -57,7 +55,7 @@ you refreshed the land when it was weary. ^68-9
 **68:10** Your people found their home in it; \*  
 in your goodness, O God, you have made provision for the poor. ^68-10
 
-[p. 677]
+[p. 677] ^pg677
 
 **68:11** The Lord gave the word; \*  
 great was the company of women who bore the tidings: ^68-11
@@ -96,7 +94,7 @@ God is the LORD, by whom we escape death. ^68-20
 **68:21** God shall crush the heads of his enemies, \*  
 and the hairy scalp of those who go on still in their wickedness. ^68-21
 
-[p. 678]
+[p. 678] ^pg678
 
 **68:22** The Lord has said, "I will bring them back from Bashan; \*  
 I will bring them back from the depths of the sea; ^68-22
@@ -138,7 +136,7 @@ sing praises to the Lord. ^68-33
 **68:34** He rides in the heavens, the ancient heavens; \*  
 he sends forth his voice, his mighty voice. ^68-34
 
-[p. 679]
+[p. 679] ^pg679
 
 **68:35** Ascribe power to God; \*  
 his majesty is over Israel;  

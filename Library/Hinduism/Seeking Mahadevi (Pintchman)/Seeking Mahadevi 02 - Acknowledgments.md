@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Pintchman (ed.) - Seeking Mahadevi]]"
 book: "[[Library/Hinduism/Seeking Mahadevi (Pintchman)/Seeking Mahadevi (Pintchman)|Seeking Mahadevi (Pintchman)]]"
 order: 2
 source_pdf: "Library/Hinduism/Pintchman (ed.) - Seeking Mahadevi (2001).pdf"
-pages: "xi"
+page_range: "xi"
 pdf_pages: "12–13"
 text_source: "PDF text layer (born-digital), PyMuPDF; the font's own letter codes for the diacritics (Å for ā, ç for ī, æ for ṇ and so on) mapped to the right letters"
 converted: 2026-10-22

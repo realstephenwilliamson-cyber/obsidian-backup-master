@@ -5,9 +5,7 @@ section: "Episcopal Services"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/EpiscopalServices/additional_directions_churchdedication.html"
-page_range:
-  - 575
-  - 579
+page_range: "575–579"
 aliases:
   - "BCP 575"
   - "BCP 576"
@@ -19,7 +17,7 @@ aliases:
 
 [[BCP 1979]] · *Episcopal Services* · pages 575–579
 
-[p. 575]
+[p. 575] ^pg575
 
 ## Additional Directions
 
@@ -35,7 +33,7 @@ At the dedication of the font, children or other lay persons are to be assigned 
 
 If Baptism is to be administered, the following order is used: The Gospel from "At Baptism," page 928; then the service of Holy Baptism, beginning with the Presentation of the Candidates, and concluding with the reception of the newly baptized.
 
-[p. 576]
+[p. 576] ^pg576
 
 As the furnishings in the church are dedicated, they may be decorated by members of the congregation with flowers, candles, hangings, or other ornaments.
 
@@ -59,7 +57,7 @@ Instead of the Proper Preface suggested, that of the season may be used, or one 
 
 If the place of public worship is also to serve as a school or parish hall, or for some other suitable purpose, the service may be adapted to the circumstances.
 
-[p. 577]
+[p. 577] ^pg577
 
 If the church is also to be used for regular worship by other Christian bodies, it is appropriate that their representatives take part in the service, and that the service be adapted.
 
@@ -79,7 +77,7 @@ When buildings have been used for public worship for an extended period of time 
 
 \1. Proession 2. Signing of threshold 3. Litany of Thanksgiving for a Church, page 578 4. Te Deum
 
-[p. 578]
+[p. 578] ^pg578
 
 \5. Liturgy of the Word, with sermon or address 6. Renewal of Baptismal Vows 7. Intercessions, including commemoration of benefactors 8. The Peace 9. The Eucharist, beginning with the Offertory
 
@@ -91,7 +89,7 @@ Eternal God, the heaven of heavens cannot contain you, much less the walls of te
 
 For the Church universal, of which these visible buildings are the symbol, *We thank you, Lord.* For your presence whenever two or three have gathered together in your Name, *We thank you, Lord.* For this place where we may be still and know that you are God, *We thank you, Lord.* For making us your children by adoption and grace, and refreshing us day by day with the bread of life. *We thank you, Lord.* For the knowledge of your will and the grace to perform it, *We thank you, Lord.* For the fulfilling of our desires and petitions as you see best for us, *We thank you, Lord.*
 
-[p. 579]
+[p. 579] ^pg579
 
 For the pardon of our sins, which restores us to the company of your faithful people, *We thank you, Lord.* For the blessing of our vows and the crowning of our years with your goodness, *We thank you, Lord.* For the faith of those who have gone before us and for our encouragement by their perseverance, *We thank you, Lord.* For the fellowship of [*N.*, our patron, and of] all your Saints, *We thank you, Lord.*
 

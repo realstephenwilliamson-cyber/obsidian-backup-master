@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 73
 verses: 29
-page_range:
-  - 687
-  - 689
+page_range: "687–689"
 aliases:
   - "BCP Psalm 73"
   - "BCP 687"
@@ -57,7 +55,7 @@ and find in them no fault. ^73-10
 **73:11** They say, "How should God know? \*  
 is there knowledge in the Most High?" ^73-11
 
-[p. 688]
+[p. 688] ^pg688
 
 **73:12** So then, these are the wicked; \*  
 always at ease, they increase their wealth. ^73-12
@@ -101,7 +99,7 @@ and afterwards receive me with glory. ^73-24
 **73:25** Whom have I in heaven but you? \*  
 and having you I desire nothing upon earth. ^73-25
 
-[p. 689]
+[p. 689] ^pg689
 
 **73:26** Though my flesh and my heart should waste away, \*  
 God is the strength of my heart and my portion for ever. ^73-26

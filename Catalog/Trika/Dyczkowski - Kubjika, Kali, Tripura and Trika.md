@@ -17,8 +17,7 @@ language:
   - English
 pages: 73
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Dyczkowski - Kubjika, Kali, Tripura and Trika (Nepal Research Centre 22, 2000).pdf]]"
   - "[[Library/Trika/Kubjika, Kali, Tripura and Trika (Dyczkowski)/Kubjika, Kali, Tripura and Trika (Dyczkowski)]]"

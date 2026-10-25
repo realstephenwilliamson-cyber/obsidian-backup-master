@@ -16,8 +16,7 @@ language:
   - English
 pages: 2
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Elucidation on Para Vidya.pdf]]"
   - "[[Library/Trika/Elucidation on Para Vidya (text)]]"

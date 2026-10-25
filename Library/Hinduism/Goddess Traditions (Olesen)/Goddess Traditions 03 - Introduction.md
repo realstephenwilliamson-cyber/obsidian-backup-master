@@ -62,7 +62,7 @@ In the context of these textual and social traditions, Freeman presents an examp
 
 Ørslev Kloster, 2014
 
-[p. 14]
+[p. 14] ^pg14
 
 ## References
 

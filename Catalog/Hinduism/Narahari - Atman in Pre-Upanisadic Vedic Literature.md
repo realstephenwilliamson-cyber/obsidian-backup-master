@@ -17,8 +17,7 @@ language:
   - English
 pages: 324
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[sen-atman-in-pre-upanisadic-vedic-literature.pdf]]"
 aliases:

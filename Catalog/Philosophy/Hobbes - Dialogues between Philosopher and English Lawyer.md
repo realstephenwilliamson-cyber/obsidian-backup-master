@@ -18,8 +18,7 @@ language:
   - English
 pages: 124
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Hobbes, Thomas - Dialogues between Philosopher & English Lawyer.pdf]]"
   - "[[Library/Philosophy/A Dialogue Between a Philosopher and a Student of the Common (Hobbes)/A Dialogue Between a Philosopher and a Student of the Common (Hobbes)]]"

@@ -18,8 +18,7 @@ language:
   - English
 pages: 155
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Pingree - Jyotihsastra (1981).pdf]]"
 aliases:

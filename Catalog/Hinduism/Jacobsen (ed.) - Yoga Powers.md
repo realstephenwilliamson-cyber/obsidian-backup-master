@@ -17,8 +17,7 @@ language:
   - English
 pages: 533
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Yoga Powers.pdf]]"
   - "[[Library/Hinduism/Yoga Powers (Jacobsen)/Yoga Powers (Jacobsen)]]"

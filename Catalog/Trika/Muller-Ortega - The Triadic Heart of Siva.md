@@ -17,8 +17,7 @@ language:
   - English
 pages: 380
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[Library/Trika/Muller-Ortega - The Triadic Heart of Siva, Kaula Tantricism of Abhinavagupta (SUNY 1989).pdf]]"
   - "[[Library/Trika/The Triadic Heart of Siva (Muller-Ortega)/The Triadic Heart of Siva (Muller-Ortega)]]"

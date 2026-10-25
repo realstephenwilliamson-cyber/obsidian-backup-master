@@ -17,8 +17,7 @@ language:
   - English
 pages: 325
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[Kinsley - Tantric Visions of the Divine Feminine (1998).pdf]]"
   - "[[Library/Hinduism/Tantric Visions of the Divine Feminine (Kinsley)/Tantric Visions of the Divine Feminine (Kinsley)]]"

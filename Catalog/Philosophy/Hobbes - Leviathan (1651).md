@@ -17,8 +17,7 @@ language:
   - English
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Texts/Hobbes/Leviathan (1651)/Leviathan (1651)]]"
 aliases:
@@ -34,7 +33,7 @@ The complete *Leviathan* (Dedication, Introduction, 47 chapters, Review and Conc
 
 The library also has a book edition of parts 1–2: [[Hobbes - Leviathan (parts 1-2)]].
 
-Details from the source's own metadata, as the cloud build of October 2026 recorded them; not checked against a printed copy; `status: keep` since 14 Oct 2026, as a primary text kept as notes.
+Details from the source's own metadata, as the cloud build of October 2026 recorded them; not checked against a printed copy; accepted on 14 Oct 2026 as a primary text kept as notes.
 
 ## About
 

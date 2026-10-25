@@ -17,8 +17,7 @@ language:
   - English
 pages: 18
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Dyczkowski, Mark S. G. - Kubjika the Erotic Goddess.pdf]]"
   - "[[Library/Trika/Kubjika the Erotic Goddess (Dyczkowski)]]"

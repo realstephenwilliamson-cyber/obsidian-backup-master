@@ -17,8 +17,7 @@ language:
   - English
 pages: 18
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Erotic_Asceticism_The_Razor_s_Edge_Obse.pdf]]"
   - "[[Library/Hinduism/Erotic Asceticism (Hatley)]]"

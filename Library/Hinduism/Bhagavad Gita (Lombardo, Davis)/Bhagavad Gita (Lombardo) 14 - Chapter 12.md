@@ -6,7 +6,7 @@ page_range: "72–74"
 aliases:
   - "Gita (Lombardo) 12"
 ---
-[p. 72]
+[p. 72] ^pg72
 
 ## Chapter Twelve
 

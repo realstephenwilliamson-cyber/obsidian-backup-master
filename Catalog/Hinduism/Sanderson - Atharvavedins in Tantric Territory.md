@@ -17,8 +17,7 @@ language:
   - English
 pages: 127
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Sanderson - Atharvavedins in Tantric Territory (2007).pdf]]"
   - "[[Library/Hinduism/Atharvavedins in Tantric Territory (Sanderson)/Atharvavedins in Tantric Territory (Sanderson)]]"

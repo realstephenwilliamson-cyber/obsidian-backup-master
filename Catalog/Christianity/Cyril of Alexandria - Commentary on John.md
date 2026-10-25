@@ -19,8 +19,7 @@ language:
   - English
 pages: 1520
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Cyril of Alexandria - Commentary on John, vol. 1 (1874).pdf]]"
   - "[[Library/Christianity/Cyril of Alexandria - Commentary on John, vol. 2 (1885).pdf]]"

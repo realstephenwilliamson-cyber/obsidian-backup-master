@@ -49,8 +49,8 @@ status: active
 
 ## Active Drafting
 *Homilies, papers, or essays flowing from this hub.*
-- *Writing/Homilies/YYYY-MM-DD Sunday*
-- *Writing/Term Paper - Outline*
+- *Projects/Homilies/YYYY-MM-DD Sunday*
+- *Projects/Term Paper - Outline*
 
 ---
 

@@ -19,8 +19,7 @@ language:
   - Sanskrit
 pages: 700
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Olivelle (ed.) - The Early Upanisads (1998).pdf]]"
   - "[[Library/Hinduism/The Early Upanisads (Olivelle)/The Early Upanisads (Olivelle)]]"

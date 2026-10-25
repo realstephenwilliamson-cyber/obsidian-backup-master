@@ -19,8 +19,7 @@ language:
   - English
 pages: 209
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Bloch, Keppens, Hegde (eds.) - Rethinking Religion in India (2010).pdf]]"
   - "[[Library/Hinduism/Rethinking Religion in India (Bloch)/Rethinking Religion in India (Bloch)]]"

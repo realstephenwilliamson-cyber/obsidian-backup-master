@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 77
 verses: 20
-page_range:
-  - 693
-  - 694
+page_range: "693–694"
 aliases:
   - "BCP Psalm 77"
   - "BCP 693"
@@ -63,7 +61,7 @@ and ponder your mighty deeds. ^77-12
 **77:13** Your way, O God, is holy; \*  
 who is so great a god as our God? ^77-13
 
-[p. 694]
+[p. 694] ^pg694
 
 **77:14** You are the God who works wonders \*  
 and have declared your power among the peoples. ^77-14

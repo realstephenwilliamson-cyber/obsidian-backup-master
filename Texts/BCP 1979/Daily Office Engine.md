@@ -58,7 +58,7 @@ Where the Prayer Book leaves a choice, the view shows both options rather than d
 Every day from 1 October 2026 to 31 December 2029 resolves to an entry. The Easter computation matches the Prayer Book's own table for every year 1900–2089. Readings were compared with Mission St. Clare and My Daily Office for Sept–Oct 2026 and Dec 2025, the calendar with The Lectionary Page's 2026 and 2027 calendars, and the Advent text with Ken Collins' transcription; details are in the build report in the Claude project (vault-rescue notes, doc 04).
 
 > [!note] Known gaps
-> The lectionary notes contain a few OCR slips (`Heb, 1:1-12`, `Matt. 12-14-21`, `ACts 16:16-24`, `2 tim. 1:1-14`) which the view shows as written; correcting the notes corrects the view. Thanksgiving's date is a civil rule, not a Prayer Book one. Transfers follow the Prayer Book's "first open day" literally; a parish may keep a transferred feast on another open day of the week.
+> Thanksgiving's date is a civil rule, not a Prayer Book one. When two feasts compete for one open day (the Christmas feasts, when 26 or 27 December is a Sunday), the engine keeps them in the order of their occurrence (Stephen, 19 Oct 2026; see [[Holy Days (BCP 1979)]]); a parish may keep a transferred feast on another open day of the week. (The OCR slips this note once listed were corrected in the lectionary notes.)
 
 ## Credits
 

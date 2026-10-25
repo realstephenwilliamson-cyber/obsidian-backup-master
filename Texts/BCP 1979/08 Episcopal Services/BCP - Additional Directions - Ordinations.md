@@ -5,9 +5,7 @@ section: "Episcopal Services"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/EpiscopalServices/additional_directions_ordinations.html"
-page_range:
-  - 552
-  - 555
+page_range: "552–555"
 aliases:
   - "BCP 552"
   - "BCP 553"
@@ -18,7 +16,7 @@ aliases:
 
 [[BCP 1979]] · *Episcopal Services* · pages 552–555
 
-[p. 552]
+[p. 552] ^pg552
 
 ## Additional Directions
 
@@ -44,7 +42,7 @@ Let us pray.
 
 Everliving God, whose power is limitless, we place before you, with our praise and thanks, *these tokens* of your servant's ministry and dignity. Grant that *N.*, who has been called to leadership in your Church, and bears *these signs*, may faithfully serve you and share in the fullness of your life-giving Spirit; through the high priest and good shepherd of us all, Jesus Christ our Lord. *Amen.*
 
-[p. 553]
+[p. 553] ^pg553
 
 ### At the Ordination of a Bishop
 
@@ -70,7 +68,7 @@ If two or more are ordained together, each is to have *his* own presenters. The 
 
 During the Prayer of Consecration, the bishop and priests lay their hands upon the head of each ordinand. During the laying on of hands, the bishop alone says over each ordinand "Father, through Jesus Christ your
 
-[p. 554]
+[p. 554] ^pg554
 
 Son, give your Holy Spirit to *N.*; fill *him* with grace and power, and make *him* a priest in your Church." When they have laid their hands upon all the ordinands, the bishop continues "May the exalt you, O Lord, in the midst . . ."
 
@@ -90,7 +88,7 @@ A Bible is to be given to each new deacon, and the words "Receive this Bible . .
 
 After participating in the Peace, the deacons go to the Altar for the Offertory. If there are many deacons, some assist in the Offertory and others administer Holy Communion. One, appointed by the bishop, is to say the dismissal.
 
-[p. 555]
+[p. 555] ^pg555
 
 When desired, deacons may be appointed to carry the Sacrament and minister Holy Communion to those communicants who, because of sickness or other grave cause, could not be present at the ordination.
 

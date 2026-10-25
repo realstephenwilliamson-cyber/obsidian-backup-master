@@ -19,8 +19,7 @@ language:
   - English
 pages:
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[Library/Philosophy/Hobbes, Thomas - Leviathan Part 1.pdf]]"
   - "[[Library/Philosophy/Hobbes, Thomas - Leviathan Part 2.pdf]]"

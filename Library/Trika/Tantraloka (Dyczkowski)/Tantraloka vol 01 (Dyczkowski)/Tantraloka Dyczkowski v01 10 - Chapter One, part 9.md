@@ -42,8 +42,8 @@ observances). In doing that, he notes how the Vidyā - Knowledge, Kriyā ~ ritua
 असंविद्रूपतायोगाद्धर्मिणश्रानिरूपणात् || १५७ ॥।
 
 mokṣo hi nāma naivānyaḥ svarūpaprathanami hi saḥ |
-svarūpaṁ cātmanaḥ saṁvin nānyat tatra tu yāh punaḥ ॥ 156 ॥
-kriyādikāḥ śaktayas tāh savidrūpādhikā nahi |
+svarūpaṁ cātmanaḥ saṁvin nānyat tatra tu yāḥ punaḥ ॥ 156 ॥
+kriyādikāḥ śaktayas tāḥ savidrūpādhikā nahi |
 asaṁvidrūpatāyogād dharmiṇaś cānirīpanṇāt ॥ 157 ॥ 
 
 Liberation is nothing but the (full and complete) experience (prathana) of one’s own nature. १ And the nature of the Self is (pure) consciousness. Indeed, there is nothing else there. Moreover, nor are those (various) powers of action and the rest other than the conscious nature, because, indeed, it is unreasonable (to maintain that anything else can exist) there that is not consciousness, and (also) because (the scriptures) do not describe (any underlying ground of these powers) that possesses (them as its) attributes. (In other words, Śiva, Who is universal consciousness, is Himself all His powers). (156-157) 
@@ -235,7 +235,7 @@ Thus, he says:
 भेदोपभेदवैविध्याननिःसंख्यत्वमवान्तरात् ॥ १६४ ॥
 
 kriyopāye ‘bhyupāyānāṁ grāhyabāhyavibhedinām |
-bhedopabhedavaividhyān nihsaikhyatvam avāntarāt ॥ 164 II 
+bhedopabhedavaividhyān nihsaikhyatvam avāntarāt ॥ 164 ॥ 
 
 The means based on action are divided into those that are perceived objectively (but are not manifest externally, as is the case with inner yogic practice) and external (ones, such as ritual). These are innumerable because they have many kinds of subsidiary divisions and subdivisions. (164) 
 
@@ -477,7 +477,7 @@ tṛtīyārthe tasi vyākhyā vā vaiyadhikaranyataḥ |
 
 1022\. The question is this — the word gurunā (meaning ʻintense’) is in the instrumental case. The word prabodhataḥ (meaning ‘awakened insight’) is an ablative, so how can the former be considered to be an adjective of the latter?
 
-1023\. Classes of adverbs and adjectives are formed by the addition of indeclinable suffixes, especially to pronominal roots or stems. Functionally, there is no essential difference between such suffixes and case-endings, and so adverbs and adjectives of this sort may sometimes replace inflected nouns or adjectives. This one is formed by adding the suffix rasi. It is standard usage in Pānṇini’s grammar to add indicatory letters to suffixes and other constitutive elements of words, including roots themselves. These serve to indicate certain grammatical functions of the verbal elements to which they are attached, and so are elided when they are applied. Thus, tasi becomes tas. The final ‘s’ changes to visarga, i.e. h, to make —tah. This suffix has an ablative sense, and is most commonly part of an ablative construction. In this case, Abhinava says that it imparts the sense of the instrumental case. Thus, when the suffix tasi is added to the nominal stem ‘prabodha-’ ‘awakened insight’, it means ‘by awakened insight’, and agrees with ‘intense’ (gurunā), which is in the instrumental case and expresses a cause.
+1023\. Classes of adverbs and adjectives are formed by the addition of indeclinable suffixes, especially to pronominal roots or stems. Functionally, there is no essential difference between such suffixes and case-endings, and so adverbs and adjectives of this sort may sometimes replace inflected nouns or adjectives. This one is formed by adding the suffix rasi. It is standard usage in Pānṇini’s grammar to add indicatory letters to suffixes and other constitutive elements of words, including roots themselves. These serve to indicate certain grammatical functions of the verbal elements to which they are attached, and so are elided when they are applied. Thus, tasi becomes tas. The final ‘s’ changes to visarga, i.e. h, to make —taḥ. This suffix has an ablative sense, and is most commonly part of an ablative construction. In this case, Abhinava says that it imparts the sense of the instrumental case. Thus, when the suffix tasi is added to the nominal stem ‘prabodha-’ ‘awakened insight’, it means ‘by awakened insight’, and agrees with ‘intense’ (gurunā), which is in the instrumental case and expresses a cause.
 
 
 *[p. 347]* ^pg361
@@ -519,7 +519,7 @@ Here the meaning of a sentence is understood by first understanding the meaning 
 मातारमधरीकूर्वत् स्वां विभूतिं प्रदर्शयत् ॥ १७५ ॥
 आस्ते हदयतैर्मल्यातिशये तारतम्यतः ।
 
-tenāyam atra vākyārtho vijñeyarn pronmiṣat svayam | 174 ॥
+tenāyam atra vākyārtho vijñeyaṁ pronmiṣat svayam | 174 ॥
 vināpi niścayena drāk mātṛdarpanabimbitam \\"” 
 
 mātāram adharīkurvat svāṛ vibhūtiṁ pradarśayat ॥ 175 ॥
@@ -596,7 +596,7 @@ Surely (one may ask,) how can consciousness, which is self-luminous,” be an ob
 
 1039\. See below, 2/9 and notes.
 
-1040\. Read, as the MSs suggest, svar rūpaṁ for svarn svarūpam.
+1040\. Read, as the MSs suggest, svar rūpaṁ for svaṁ svarūpam.
 
 1041\. does not mean, of course, that Śiva does not exist, or that the way He is conceived to be, for example, as a householder ascetic living on Mount Kailāsa, is false. What is meant is that when we think of Deity, It becomes an object of our thought. Consciousness is experienced as Deity, not through ignorance - it is not a misconception — but because consciousness freely assumes that condition so that it can be known and its true nature realised. In this sense, Deity is not a ‘vastu’, an independent ‘existing thing’, which is one of the meanings of the word ‘vastu’, or ‘reality’, which is another. Outer objects of knowledge are real as they are in the sense that they really are objects of perception just as we see them to be. Deity is not really an object. It freely manifests as such through the notions it generates in those who worship and seek to attain it.
 
@@ -673,7 +673,7 @@ thought constructs,' and so, as (further) means are unnecessary (karanāyogāt) 
 त्युक्त एव सिद्धं हि विकल्येनानुगम्यते
 
 vikalpāpekṣayā mānam avikalpam iti bruvan ॥ 180 ॥
-pratyukta eva siddharn hi vikalpenānugamyate | 
+pratyukta eva siddhaṁ hi vikalpenānugamyate | 
 
 He who says that (although) valid knowledge (māna) is not a thought construct, (but) depends (nonetheless) on thought constructs (to validate it)" stands refuted indeed. (Only) that which has been 
 
@@ -932,7 +932,7 @@ Why has this group of three principles been taught separately? With this doubt i
 पुविद्याशक्तिसन्ं यत्त्सर्वव्यापक यतः ॥ Siva.’![^1079] ॥
 अव्यापकेभ्यस्तेनेदं भेदेन गणितं किल ।
 
-puṁvidyāśaktisaṁijñaṁ yat tat sarvavyāpakaṁ yataḥ ॥ 188 Il avyāpakebhyastenedaṁ bhedena ganitarn kila | 
+puṁvidyāśaktisaṁijñaṁ yat tat sarvavyāpakaṁ yataḥ ॥ 188 ॥ avyāpakebhyastenedaṁ bhedena ganitaṁ kila | 
 
 The three called the Person, Knowledge and Power pervade the entire (series of thirty-six metaphysical principles). Thus, they have been reckoned apart from the other (principles), which are not pervasive.” (188cd-189ab) 
 
@@ -941,7 +941,7 @@ The three called the Person, Knowledge and Power pervade the entire (series of t
 (These three principles differ from) the other (principles), ‘which are not pervasive’, (namely, those) that are pervaded (by these three). The pervasion of the Principle of the Self (aka the Person) (extends the principle of Earth) up to Māyā, that of the Principle of Knowledge (from Māyā) up Sadāśiva, and that of the Principle of Power (from that reality level) up to Siva to As is said: ‘(Their) pervasion (extends) progressively (from Earth up to) Māyā, (from that reality level up to) Sadāśiva, and (finally) right up to Śiva.’ pervasive.[^1078] 
 
 [^1078]: These three pervade the metaphysical principles, whereas the latter do not pervade each other, and so, differing from them in this way, they are reckoned separately from them, even though they are constituted by them.
-[^1079]: Read -prāntavyāptir ity anukramāt for -prāntavyāptrī nanu kramāt. Cf. tattvatrayarn pararn khyātam aparan cādhvamadhyagam | SvT 4/403ab commentary: paraḥ Śuddhātmonmanāparaśivarūpaṁi yat tattvatrayarn prakāśitam, yac तकृव्वका ॥ sthūlam adhvamadhyagam iti pañcamapaṭalabhāvitattvabhuvanādhvadīkṣāmadhye māyāsadāśivaśivāntavyāptyā ātmavidyāśivākhyaṁ tattvatrayan ‘(A group of) three principles is said to be supreme. The inferior one is in the midst of the Path.’ (SvT 4/403ab) The supreme has been revealed to be the triad of principles consisting of the Pure Self, the Transmental and Parasiva (Knowledge), whereas the inferior one is gross and is in the midst of the Path. This is the triad of principles called the Self (ātman), Knowledge (vidyā) and Śiva that pervade (the principles up to) Māyā, Sadāśiva and Śiva respectively in the midst of the initiation by means of the Path of the Worlds (bhuvanādhvadīkṣā) that will be (taught in) Chapter Five... tritattvaṁ yat paraṁ proktaṁ tena cāpūritā tanuḥ || 4-406 ॥ parādiśaktitrayamayena ātmakalpenetyarthaḥ Il 406 ॥ ‘The body is filled with that which is called the supreme triple principle.” (4/406cd) The meaning is that (the body is filled) with that which is conceived to be the Self, consisting of the three powers, Parā and the rest. etac ca tritattvahn yasmād adhvātītaḥ samanāntam atikramya sthitaṁ tasmāt param tattvam, yat tu māyāsadāśivaśivavyāptyā tad aparan yasmād adhvamadhyagam, ata evāpareṇātmāditattvatrayeṇa dharādeḥ śivāntasyāntahkṛtatvāt tad ārabdhā ---- aparā sā tanuḥ sthūlā ṣałtriṁśattattvakalpitā | iyan punaḥ ---- And that triple principle (extends) beyond the Path, it abides (in its place,) having traversed beyond the end of the Equal One, and so is the supreme principle. Whereas that which, pervading (the principles up to) Māyā, Sadāśiva and Śiva is the inferior one, and so is ‘in the midst of the Path’. Thus, the inferior one, consisting of the three principles of the Self and the rest, internalizes (within itself) (the principles) beginning with Earth up to Śiva. Having done that, that gross inferior body is fashioned from the thirty-six principles. Again, (concerning) this (it is said): tattvatrayaṁ paraḥ yac ca sarvatattvādhvavarjitam ॥ 4-407 ॥ tena cāpūritāśeṣaṁ sā tattvādhvaparā tanuḥ | samastādhvātikrāntamṁ yat śuddhātmāditattvatrayaṁi tenoktasatattvenā: aṁ kṛtvā āpūritā sarvātmatābhāsanena vyāptā yā prakrāntā nādaśaktyātmā tanuḥ sā tattvādhvanaḥ sakāśāt parā prakṛṣṭā ॥ 407 ॥ ‘Everything is filled with the supreme triad of principles, which is devoid of all the Path of the principles, and that is the supreme body of the Path of the principle.’ (SvT 4/407cd-408ab) The triad of principles (consisting of) the Pure Self etc. is beyond the entire Path, and so is said that, having fashioned everything along with (its fundamental) reality (tattva), the body is ‘filled’ (with everything), that is, pervaded by manifesting as everything, is the power of Sound (nādaśakti), which (issuing forth) from the Path of the Principles is ‘supreme’, that is, most excellent.”
+[^1079]: Read -prāntavyāptir ity anukramāt for -prāntavyāptrī nanu kramāt. Cf. tattvatrayaṁ paraṁ khyātam aparan cādhvamadhyagam | SvT 4/403ab commentary: paraḥ Śuddhātmonmanāparaśivarūpaṁi yat tattvatrayaṁ prakāśitam, yac तकृव्वका ॥ sthūlam adhvamadhyagam iti pañcamapaṭalabhāvitattvabhuvanādhvadīkṣāmadhye māyāsadāśivaśivāntavyāptyā ātmavidyāśivākhyaṁ tattvatrayan ‘(A group of) three principles is said to be supreme. The inferior one is in the midst of the Path.’ (SvT 4/403ab) The supreme has been revealed to be the triad of principles consisting of the Pure Self, the Transmental and Parasiva (Knowledge), whereas the inferior one is gross and is in the midst of the Path. This is the triad of principles called the Self (ātman), Knowledge (vidyā) and Śiva that pervade (the principles up to) Māyā, Sadāśiva and Śiva respectively in the midst of the initiation by means of the Path of the Worlds (bhuvanādhvadīkṣā) that will be (taught in) Chapter Five... tritattvaṁ yat paraṁ proktaṁ tena cāpūritā tanuḥ || 4-406 ॥ parādiśaktitrayamayena ātmakalpenetyarthaḥ Il 406 ॥ ‘The body is filled with that which is called the supreme triple principle.” (4/406cd) The meaning is that (the body is filled) with that which is conceived to be the Self, consisting of the three powers, Parā and the rest. etac ca tritattvahn yasmād adhvātītaḥ samanāntam atikramya sthitaṁ tasmāt param tattvam, yat tu māyāsadāśivaśivavyāptyā tad aparan yasmād adhvamadhyagam, ata evāpareṇātmāditattvatrayeṇa dharādeḥ śivāntasyāntahkṛtatvāt tad ārabdhā ---- aparā sā tanuḥ sthūlā ṣałtriṁśattattvakalpitā | iyan punaḥ ---- And that triple principle (extends) beyond the Path, it abides (in its place,) having traversed beyond the end of the Equal One, and so is the supreme principle. Whereas that which, pervading (the principles up to) Māyā, Sadāśiva and Śiva is the inferior one, and so is ‘in the midst of the Path’. Thus, the inferior one, consisting of the three principles of the Self and the rest, internalizes (within itself) (the principles) beginning with Earth up to Śiva. Having done that, that gross inferior body is fashioned from the thirty-six principles. Again, (concerning) this (it is said): tattvatrayaṁ paraḥ yac ca sarvatattvādhvavarjitam ॥ 4-407 ॥ tena cāpūritāśeṣaṁ sā tattvādhvaparā tanuḥ | samastādhvātikrāntamṁ yat śuddhātmāditattvatrayaṁi tenoktasatattvenā: aṁ kṛtvā āpūritā sarvātmatābhāsanena vyāptā yā prakrāntā nādaśaktyātmā tanuḥ sā tattvādhvanaḥ sakāśāt parā prakṛṣṭā ॥ 407 ॥ ‘Everything is filled with the supreme triad of principles, which is devoid of all the Path of the principles, and that is the supreme body of the Path of the principle.’ (SvT 4/407cd-408ab) The triad of principles (consisting of) the Pure Self etc. is beyond the entire Path, and so is said that, having fashioned everything along with (its fundamental) reality (tattva), the body is ‘filled’ (with everything), that is, pervaded by manifesting as everything, is the power of Sound (nādaśakti), which (issuing forth) from the Path of the Principles is ‘supreme’, that is, most excellent.”
 
 *[p. 368]* ^pg382
 
@@ -950,7 +950,7 @@ This (triad) is not only separate from the other (thirty-six) principles, rather
 ### TĀ 1.189
 
 अशुद्धिशुद्धयमानत्वशुद्धितस्तु मिथोऽपि तत् । १८९ ॥
-aśuddhiśuddhyamānatvaśuddhitastu mitho ‘pi tat |l 189 Il 
+aśuddhiśuddhyamānatvaśuddhitastu mitho ‘pi tat || 189 || 
 
 They are also mutually (related and yet distinguished) as (the Person, which is the principle that spans) the impure (principles), (Knowledge, those) in the process of being purified (and so are pure-cum-impure), and (Power, the one that) is pure. (189cd) 
 
@@ -965,7 +965,7 @@ The Person is ‘impure’ because (the principles up to Māyā he pervades and 
 Surely (one may ask,) agreed that this is so, but what is the reason for mentioning the gross elements separately? With this doubt in mind, he says: The Five Elements भूतान्यध्यक्षसिद्धानि कायहित्वनुमेयतः ।
 ततत्ववर्गीत्पृथग्भूतसमाख्यान्यत एव हि ।॥ १९० ॥
 bhūtāny adhyakṣasiddhāni kāryahetvanumeyataḥ |
-tattvavargāt pṛthag bhūtasamākhyāny ata eva hi |l 190 ॥ 
+tattvavargāt pṛthag bhūtasamākhyāny ata eva hi ॥ 190 ॥ 
 
 ### TĀ 1.190
 

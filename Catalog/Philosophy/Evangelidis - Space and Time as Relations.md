@@ -17,8 +17,7 @@ language:
   - English
 pages: 15
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[philosophies-03-00009.pdf]]"
   - "[[Library/Philosophy/Space and Time as Relations (Evangelidis)]]"

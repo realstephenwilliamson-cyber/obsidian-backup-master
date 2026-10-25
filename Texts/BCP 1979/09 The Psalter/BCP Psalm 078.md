@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 78
 verses: 72
-page_range:
-  - 695
-  - 700
+page_range: "695–700"
 aliases:
   - "BCP Psalm 78"
   - "BCP 695"
@@ -35,7 +33,7 @@ incline your ears to the words of my mouth. ^78-1
 **78:2** I will open my mouth in a parable; \*  
 I will declare the mysteries of ancient times. ^78-2
 
-[p. 695]
+[p. 695] ^pg695
 
 **78:3** That which we have heard and known,  
 and what our forefathers have told us, \*  
@@ -77,7 +75,7 @@ in the land of Egypt, in the field of Zoan. ^78-12
 **78:13** He split open the sea and let them pass through; \*  
 he made the waters stand up like walls. ^78-13
 
-[p. 696]
+[p. 696] ^pg696
 
 **78:14** He led them with a cloud by day, \*  
 and all the night through with a glow of fire. ^78-14
@@ -117,7 +115,7 @@ and gave them grain from heaven. ^78-24
 **78:25** So mortals ate the bread of angels; \*  
 he provided for them food enough. ^78-25
 
-[p. 697]
+[p. 697] ^pg697
 
 **78:26** He caused the east wind to blow in the heavens \*  
 and led out the south wind by his might. ^78-26
@@ -156,7 +154,7 @@ and lied to him with their tongues. ^78-36
 **78:37** Their heart was not steadfast toward him, \*  
 and they were not faithful to his covenant. ^78-37
 
-[p. 698]
+[p. 698] ^pg698
 
 **78:38** But he was so merciful that he forgave their sins  
 and did not destroy them; \*  
@@ -195,7 +193,7 @@ and their sycamores with frost. ^78-47
 **78:48** He delivered their cattle to hailstones \*  
 and their livestock to hot thunderbolts. ^78-48
 
-[p. 699]
+[p. 699] ^pg699
 
 **78:49** He poured out upon them his blazing anger: \*  
 fury, indignation, and distress,  
@@ -236,7 +234,7 @@ and utterly rejected Israel. ^78-59
 **78:60** He forsook the shrine at Shiloh, \*  
 the tabernacle where he had lived among his people. ^78-60
 
-[p. 700]
+[p. 700] ^pg700
 
 **78:61** He delivered the ark into captivity, \*  
 his glory into the adversary's hand. ^78-61

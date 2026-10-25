@@ -5,9 +5,7 @@ section: "Holy Baptism"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Baptism/holybaptism.html"
-page_range:
-  - 299
-  - 311
+page_range: "299–311"
 aliases:
   - "BCP 299"
   - "BCP 300"
@@ -27,7 +25,7 @@ aliases:
 
 [[BCP 1979]] · *Holy Baptism* · pages 299–311
 
-[p. 299]
+[p. 299] ^pg299
 
 ## Holy Baptism
 
@@ -67,7 +65,7 @@ There is one Body and one Spirit;
 
 **Celebrant** Let us pray.
 
-[p. 300]
+[p. 300] ^pg300
 
 ### The Collect of the Day
 
@@ -107,7 +105,7 @@ The Gospel of the Lord.
 
 **People** Praise to you, Lord Christ.
 
-[p. 301]
+[p. 301] ^pg301
 
 ### The Sermon
 
@@ -139,7 +137,7 @@ Do you desire to be baptized?
 
 I present *N.* to receive the Sacrament of Baptism.
 
-[p. 302]
+[p. 302] ^pg302
 
 *When all have been presented the Celebrant asks the parents and godparents*
 
@@ -179,7 +177,7 @@ I will, with God's help.
 
 **Answer** I do.
 
-[p. 303]
+[p. 303] ^pg303
 
 **Question** Do you promise to follow and obey him as your Lord?
 
@@ -219,7 +217,7 @@ The Celebrant then says these or similar words
 
 Let us join with *those* who *are* committing *themselves* to Christ and renew our own baptismal covenant.
 
-[p. 304]
+[p. 304] ^pg304
 
 ## The Baptismal Covenant
 
@@ -258,7 +256,7 @@ and the life everlasting.
 
 **People** I will, with God's help.
 
-[p. 305]
+[p. 305] ^pg305
 
 **Celebrant** Will you proclaim by word and example the Good News of God in Christ?
 
@@ -300,7 +298,7 @@ Let us now pray for *these persons* who *are* to receive the Sacrament of new bi
 
 **People** Lord, hear our prayer.
 
-[p. 306]
+[p. 306] ^pg306
 
 **Leader** Send *them* into the world in witness to your love.
 
@@ -350,7 +348,7 @@ Eternal Father, whose blessed Son was anointed by the Holy Spirit to be the Savi
 
 *N.*, I baptize you in the Name of the Father, and of the Son, and of the Holy Spirit. *Amen*.
 
-[p. 308]
+[p. 308] ^pg308
 
 *When this action has been completed for all candidates, the Bishop or Priest, at a place in full sight of the congregation, prays over them, saying*
 
@@ -378,7 +376,7 @@ We receive you into the household of God. Confess the faith of Christ crucified,
 
 **People** And also with you.
 
-[p. 309]
+[p. 309] ^pg309
 
 ### At Confirmation, Reception, or Reaffirmation
 
@@ -402,7 +400,7 @@ Strengthen, O Lord, your servant *N.* with your Holy Spirit; empower *him* for y
 
 Defend, O Lord, your servant *N.* with your heavenly grace, that *he* may continue yours forever, and daily increase in your Holy Spirit more and more, until *he* comes to your everlasting kingdom. *Amen.*
 
-[p. 310]
+[p. 310] ^pg310
 
 ### For Reception
 
@@ -428,7 +426,7 @@ Almighty and everliving God, let your fatherly hand ever be over *these* your *s
 
 *Except on Principal Feasts, the Proper Preface of Baptism may be used.*
 
-[p. 311]
+[p. 311] ^pg311
 
 ### Alternative Ending
 

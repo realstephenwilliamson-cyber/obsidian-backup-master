@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 38
 verses: 22
-page_range:
-  - 637
-  - 638
+page_range: "637–638"
 aliases:
   - "BCP Psalm 38"
   - "BCP 637"
@@ -29,7 +27,7 @@ do not punish me in your wrath. ^38-1
 **38:2** For your arrows have already pierced me, \*  
 and your hand presses hard upon me. ^38-2
 
-[p. 637]
+[p. 637] ^pg637
 
 **38:3** There is no health in my flesh,  
 because of your indignation; \*  
@@ -72,7 +70,7 @@ and from whose mouth comes no defense. ^38-14
 **38:15** For in you, O LORD, have I fixed my hope; \*  
 you will answer me, O Lord my God. ^38-15
 
-[p. 638]
+[p. 638] ^pg638
 
 **38:16** For I said, "Do not let them rejoice at my expense, \*  
 those who gloat over me when my foot slips." ^38-16

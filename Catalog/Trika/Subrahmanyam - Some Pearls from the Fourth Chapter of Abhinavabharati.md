@@ -17,8 +17,7 @@ language:
   - English
 pages: 20
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[PadmaSub.pdf]]"
   - "[[Library/Trika/Some Pearls from the Fourth Chapter of Abhinavabharati (Subrahmanyam)]]"

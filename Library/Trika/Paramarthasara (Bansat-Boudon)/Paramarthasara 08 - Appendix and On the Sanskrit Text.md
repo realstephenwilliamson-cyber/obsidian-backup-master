@@ -1,6 +1,12 @@
+---
+type: book-chapter
+work: "An Introduction to Tantric Philosophy: The Paramārthasāra of Abhinavagupta with the Commentary of Yogarāja"
+order: 8
+page_range: "332–355"
+---
 # Appendix and On the Sanskrit Text
 
-[p. 332]
+[p. 332] ^pg332
 
 Appendix
 1. Rudra (YR ad 1)
@@ -37,7 +43,7 @@ body [i.e., as his own Self], and not as different from him’. Therefore, the
 Lords are endowed with ‘sovereignty’ (aiśvarya); see ĪPvr̥ III 2, 3. As such,
 317
 
-[p. 318]
+[p. 318] ^pg333
 
 Lords (pati) rule over their subjects, who thus deserve to be called ‘cattle’
 (paśu, viz., ‘fettered souls’, according to the traditional etymology — TĀV
@@ -82,7 +88,7 @@ ca yaḥ/ yaś ca sarvamayo nityaṃ tasmai sarvātmane namaḥ//, ‘To that 
 nifarious one do I bow, in whom lies all, from whom all starts, who is all,
 who is everywhere, and who is eternally made of all’. As developed by
 
-[p. 319]
+[p. 319] ^pg334
 
 Rāmakaṇṭha, in the long avat. of his Sarvatobhadra ad BhG (pp. 1–14), that
 verse is the concluding śloka of the hymn — designated by Rāmakaṇṭha
@@ -128,7 +134,7 @@ the agent is independent of any material cause, etc.’. Cf. also ĪPK I 5,
 7: cidātmaiva hi devo ’ntaḥsthitam icchāvaśād bahiḥ/ yogīva nirupādānam
 arthajātaṃ prakāśayet//, ‘Indeed, the Lord, who is consciousness, mani-
 
-[p. 320]
+[p. 320] ^pg335
 
 fests externally the multitude of objects that reside within him, without
 having recourse to material causes, through his sole will, as does a yogin’;
@@ -174,7 +180,7 @@ of ABh ad VI 31, vol. I: 278, and at the cost of correcting the manuscript
 has proposed taking camat as the present participle of the root cam, ‘to
 sip’; camatkāra then would be the ‘action of one who tastes’. Such an
 
-[p. 321]
+[p. 321] ^pg336
 
 etymology appears doubtful: not only the -kāra here is much more likely
 the same -kāra we have in oṃkāra, etc., but the reading ca manaḥkaraṇaṃ
@@ -217,7 +223,7 @@ aspect of camatkāra (referred to as ‘mental activity’ or ‘consciousness 
 from obstacles’) with its physical effects (trembling, horripilation, etc.).
 On camatkāra, see also Torella ĪPK: 118–119, n. 23.
 
-[p. 322]
+[p. 322] ^pg337
 
 4. śaktayo ’sya jagat sarvam ... (YR ad 4)
 This verse is frequently mentioned in Kashmirian Śaiva literature, with
@@ -262,7 +268,7 @@ Varadarāja’s ŚSvā III 30), and rahasyaśāstra, ‘esoteric Scripture�
 ṇī// śivaḥ śaktas tathā bhāvān icchayā kartum īhate/ śaktiśaktimator bhedaḥ
 śaive jātu na varṇyate//, ‘Neither is Śiva devoid of energy, nor is energy
 
-[p. 323]
+[p. 323] ^pg338
 
 independent [of him].
 Empowered in this way, Śiva exerts himself to
@@ -309,7 +315,7 @@ place so as to enable the reversal of the process and the recognition and re-
 experience of one’s own fundamental plenitude. This reversal of process
 takes place through adhvaśuddhi, the ‘purification of the paths’. In kārikās
 
-[p. 324]
+[p. 324] ^pg339
 
 14–22, the PS enumerates in decreasing order Paramaśiva’s “manifesta-
 tions”, the thirty-six principles that the methodical analysis of perceptual
@@ -355,7 +361,7 @@ reabsorption within consciousness. Moreover, such delimitation, seen as
 bondage, is nothing else than the alteration, freely chosen by Śiva, of his
 own śakti, energy or power. Hence, his omnipotence, in play (we meet
 
-[p. 325]
+[p. 325] ^pg340
 
 here the notion of divine krīḍā) reducing itself so as a ‘this’ emerges as
 antagonist to the ‘I’, appears as the altered and constrictive form of the
@@ -402,7 +408,7 @@ deities also. Therefore, nobody would attain the Absolute ever, by medi-
 tating on each of them, even if one devoted innumerable births to it. Such
 a practice would be thus impractical’ (bhuvanānām ānantye tadadhīśānām
 
-[p. 326]
+[p. 326] ^pg341
 
 api ānantyam/ iti teṣāṃ pratyekam evam anusaṃdhāne janmasahasrair api na
 kaścit pāraṃ yāyāt/ ity etad aśakhyānuṣṭhānam). In a reply to such reserva-
@@ -448,7 +454,7 @@ dences are established between kalās and parts of the body (see Brunner
 SŚP, vol. III: fig. III, IV), as well as between tattvas and parts of the body,
 in the process of internal worship (see Padoux 1986: 178–180).
 
-[p. 327]
+[p. 327] ^pg342
 
 6. spanda (YR ad 4)
 On the notion of spanda, see AG’s definitions in ĪPV III 1, 3 (vol. II:
@@ -495,7 +501,7 @@ universe within himself. As observed by Silburn (Kālikāstotra: 37) this
 yogin does not possess the form of perfect consciousness, which, consist-
 ing of the free play of exteriority (idantā) within interiority (ahantā) and
 
-[p. 328]
+[p. 328] ^pg343
 
 vice versa, enjoys cosmic bliss (jagadānanda). Cosmic bliss, as defined
 by TĀ V 50–52a, implies a relation of the Self with the universe, in the
@@ -543,7 +549,7 @@ upper one there are five. Thus twelve Rudras have been described. The
 six [Rudras] are Gahana, Asādhya, Harihara, Daśeśvara, Trikala, Gopati.
 Ananta is in the middle. [The five Rudras are] Kṣema, Dvijeśa, Vidyeśa,
 
-[p. 329]
+[p. 329] ^pg344
 
 Viśva and Śiva. [Regarding those five] and those six [Rudras] remain-
 ing in their [respective] folds/cavities, the location is liable to change,
@@ -588,7 +594,7 @@ clearly develops: yā sā śaktir jagaddhātuḥ kathitā samavāyinī/ i
 sya sā devī sisr̥kṣoḥ pratipadyate// saikāpi saty anekatvaṃ yathā gacchati tac
 chr̥ṇu/ evam etad iti jñeyaṃ nānyatheti suniścitam// jñāpayantī jagaty atra
 
-[p. 330]
+[p. 330] ^pg345
 
 jñānaśaktir nigadyate/ evaṃ bhavatv idaṃ sarvam iti kāryonmukhī yadā// jā-
 tā tadaiva tad vastu kurvaty atra kriyocyate/ evam eṣā dvirūpāpi punar bhedair
@@ -633,7 +639,7 @@ varamantravijñānākalapralayākalasakalāntāṃ pramātr̥bhūmikām
 bhūmikāṃ ca gr̥hṇānaḥ, ‘By his power of absolute freedom, the glorious
 Great Lord assumes [on the subjective level] the cognitive roles of Śiva,
 
-[p. 331]
+[p. 331] ^pg346
 
 the Mantramaheśvaras, the Mantreśvaras, the Mantras, the Vijñānākalas,
 the Pralayākalas and the Sakalas [, whereas, on the objective level,] he as-
@@ -679,7 +685,7 @@ high level of consciousness where ‘this’, although appearing at the hori-
 zon of consciousness, remains immersed within the ‘I’. Nevertheless, the
 essential unity of consciousness has been somehow fragmented, as shown
 
-[p. 332]
+[p. 332] ^pg347
 
 by the plural applied to those Mantramaheśvaras. 3) Then come, a grade
 below, the 118 Mantreśvaras, the ‘Lords of Mantras’. Located at the level
@@ -725,7 +731,7 @@ The presence of agency, even though partial, is what distinguishes the
 Vidyeśvaras/Mantras from the next level of consciousness, namely the Vi-
 jñānākalas (or Vijñānakevalas) — defined (ĪPK III 2, 6–7) as pure con-
 
-[p. 333]
+[p. 333] ^pg348
 
 sciousness (śuddhabodha), in the sense that ‘they no longer contaminate
 self-representation with the projection of the impure tattvas from māyā to
@@ -771,7 +777,7 @@ tion’. Thus the doctrine distinguishes between two levels of Pralayākalas
 (ĪPK III 2, 8). Sanderson (1986: 191) defines the lower one, as ‘analo-
 gous to dreamless but blissful sleep (savedyapralayākalatā) and the other to
 
-[p. 334]
+[p. 334] ^pg349
 
 dreamless sleep completely void of sensation (apavedyapralayākalatā)’. In
 Utpaladeva’s fourfold division of the limited self (māyāpramātr̥), the lower
@@ -816,7 +822,7 @@ The Trika understands empirical diversity in terms of the dichotomy of
 enjoyer (bhoktr̥) and object of enjoyment (bhogya). In this context, puruṣa
 is the enjoyer whereas prakr̥ti represents the totality of such objects — an
 
-[p. 335]
+[p. 335] ^pg350
 
 argument similar to that of the Sāṃkhya concerning the puruṣa, who “con-
 templates” prakr̥ti as though she were a dancer, or an actress, performing
@@ -861,7 +867,7 @@ the primal cause; cf. also SK 3, which defines four types of entities by hav-
 ing recourse to the opposition ‘producer-product’ (prakr̥ti-vikr̥ti). Then,
 from ahaṅkāra, the ‘group of sixteen’ emerges, which includes manas, the
 
-[p. 336]
+[p. 336] ^pg351
 
 five buddhīndriyas, the five karmendriyas and the five tanmātras. A fur-
 ther analysis (SK 25) distinguishes the ‘group of eleven’ (manas and all
@@ -906,7 +912,7 @@ of phenomenal diversity. Thus, the entire process of the manifestation
 of the tattvas takes place according to the principle that the cause in its
 disturbed form is called the effect (see TS VIII, p. 90, in Appendix 13).
 
-[p. 337]
+[p. 337] ^pg352
 
 13. tanmātras (YR ad 22)
 Each tanmātra is considered to be the quintessential form of the cor-
@@ -954,7 +960,7 @@ gibility. Moreover earth is merely the aggregate of the qualities [i.e., of
 the tanmātras] and there is no substratum of qualities (guṇin) which would
 be different from [earth as aggregate of the qualities]’. For what matters
 
-[p. 338]
+[p. 338] ^pg353
 
 in soteriological systems as the Sāṃkhya and the Trika is not so much
 the question of creation as manifestation as the correlated questions of
@@ -999,7 +1005,7 @@ nyaprāyam/ ahaṃpratītipratyeyaḥ sukhaduḥkhādyupādhibhiḥ tiraskr�
 manvānā mīmāṃsakā api buddhāv eva niviṣṭāḥ/ jñānasaṃtāna eva tattvam iti
 saugatā buddhivr̥ttiṣv eva paryavasitāḥ/, ‘The Naiyāyikas, etc., admit a Self,
 
-[p. 339]
+[p. 339] ^pg354
 
 which, being the substratum of knowledge and other qualities, is for all
 intents and purposes (°prāya) identical with the category of buddhi, as far
@@ -1045,7 +1051,7 @@ rupted, to Vaiśeṣika and Vyākaraṇa doctrine, ‘great’ signifying ‘p
 lence’, vis-à-vis all the other ‘sāmānyas’ that are tinged with particularity
 — as ‘great’ in the English idiom “God is the one great cause”. On the
 
-[p. 340]
+[p. 340] ^pg355
 
 Vaiśeṣika notion of sattā, see further Frauwallner 1973, vol. II: 103–104;
 Lysenko 2007. It is difficult to recognize in YR’s idiosyncratic account
@@ -1090,7 +1096,7 @@ the term ātman] should be interpreted as follows. The cognitions such
 as “I am happy”, etc., exist elsewhere (anyatra) [i.e., ‘in another substra-
 tum’, viz.,] in the cognizer (pramātr̥) in the form of the puryaṣṭaka, which
 
-[p. 341]
+[p. 341] ^pg356
 
 is threaded through (anusyūta) the states of happiness, etc., that is, which
 is interwoven (otaprota) with them. [But] it does not signify for the [Mī-
@@ -1135,7 +1141,7 @@ sad ajāyateti, ‘In the beginning, my dear, this was Being alone, one only
 without a second. Some people say “In the beginning, this was non-being
 alone, one only; without a second. From that non-being, being was
 
-[p. 342]
+[p. 342] ^pg357
 
 produced.” ’ Similarly, the Śūnyavādins include the Mādhyamika Bud-
 dhists, as stated by PHvr̥ 8 (mādhyamikā apy evam eva), ŚSV I 1 and TĀ I
@@ -1180,7 +1186,7 @@ native propositions: idaṃ sat, …asat, …sadasat, …na sadasat, ‘X exists
 ‘…does not exist’, ‘…both exists and does not exist’, ‘…neither exists nor
 does not exist’, Śaivas take all this to be mere empty logic.
 
-[p. 343]
+[p. 343] ^pg358
 
 19. Kallaṭa (YR ad 42)
 As stated in the auto-commentary, PH 18 deals with mystical tech-
@@ -1226,7 +1232,7 @@ verse), Kallaṭa is the author of the SpK, whereas Kṣemarāja (ŚSV II 4–
 ascribes the authorship of the SpK to Vasugupta (on this question, see Dy-
 czkowski SpK: 21–24, and Sanderson 2007: 405–407, who concludes in
 
-[p. 344]
+[p. 344] ^pg359
 
 favor of Kallaṭa’s authorship). Nor is the hemistich found in Kallaṭa’s vr̥tti
 to the Spandakārikā — a brief gloss, which he himself calls Spandasarvasva
@@ -1272,7 +1278,7 @@ nature. Established within himself, eternally free as he is of [all] that he
 is not, perceiving the distinction between the seer and the seen, he, from
 whom every sickness has been expunged, pervades the plane of ordinary
 
-[p. 345]
+[p. 345] ^pg360
 
 existence.
 He delights in contemplation (samādhi) even when he rises
@@ -1318,7 +1324,7 @@ mination or revelation: sphuṭayed vastu yāpetaṃ manorathapadād api//,
 sire [that is, a reality that transcends anything one might imagine] ...’. As
 emphasized by TĀV IV 13–14, bhāvanā is nothing but the ‘ultimate term
 
-[p. 346]
+[p. 346] ^pg361
 
 [or limit]’ (parā kāṣṭhā) of reasoning (tarka, in TĀV IV 14, or sattarka, in
 IV 14), namely, the ‘ultimate term [or limit]’ of the certitude (niścaya, in
@@ -1360,7 +1366,7 @@ such, bhāvanā is characterized as instrumental in attaining the state of ji�
 vanmukti. Also Silburn 1981: 191; Chenet 1987, and 1998–1999, vol. II:
 545ff.
 
-[p. 362]
+[p. 362] ^pg362
 
 Sanskrit text
 On the Sanskrit text
@@ -1394,7 +1400,7 @@ translation, where they are often discussed in detail; therefore we have
 not kept the references of citations in the Sanskrit text.
 347
 
-[p. 348]
+[p. 348] ^pg363
 
 List of typographical errors corrected
 KSTS
@@ -1447,7 +1453,7 @@ p. 17, l. 12–13:
 ayam eva bhedo bhedahetur bhāvānāṃyat viruddhadharmādhyāsaḥkāra-
 ṇabhedo vā KSTS P3P4S: ayam eva bhedo bhedahetur vā bhāvānāṃyo
 
-[p. 349]
+[p. 349] ^pg364
 
 yaṃviruddhadharmādhyāsaḥkāraṇabhedo vā TĀV before XI 98: ayam
 eva ca bhedo bhedahetur vā bhāvānāṃviruddhadharmādhyāsaḥkāraṇa-
@@ -1491,7 +1497,7 @@ translation), we have kept the KSTS’s reading.
 gaganatayā tathāvaśiṣyate KSTS P1ac P2P3 S: gaganatayā tathā viśiṣyate
 P4: gaganatayā tathā tathā viśiṣyate WI: gaganatayā tathā tathāvaśiṣyate
 
-[p. 350]
+[p. 350] ^pg365
 
 P1pc: gaganatathāvaśiṣyate N
 We have accepted the reading of P4, for avaśiṣyate does not yield good
@@ -1535,7 +1541,7 @@ this author, see our note to the translation.)
 *p. 149, l. 11:
 caturviṃśatyuttara GaGha S P1P3P4: catvāriṃśaduttara KSTS KaKhaIWP2
 
-[p. 351]
+[p. 351] ^pg366
 
 The KSTS’s reading has been rejected for several reasons. First of all, we
 have found no other occurrence of 240 bhuvanas instead of the standard
@@ -1576,7 +1582,7 @@ GaGhaW P1P2P3P4NS
 We have accepted the reading of the majority of the manuscripts against
 the KSTS. Cf. p. 196. l. 6: paramapuruṣārthasādhanāyāṃ.
 
-[p. 352]
+[p. 352] ^pg367
 
 Description of the manuscripts consulted
 The KSTS edition seems to have relied on four manuscripts, none of which
@@ -1626,7 +1632,7 @@ tir yoganāmneyaṃpūrṇādvayamayī kr̥tā 2 saṃpūrṇeyaṃparamārthas�
 rasaṃgrahavivr̥ttiḥ[°vir̥tti ante correctionem] iti śivam //
 A photocopy of this manuscript has been used for collation.
 
-[p. 353]
+[p. 353] ^pg368
 
 3. P3 Bhandarkar Oriental Research Institute, Poona MS no. 166/1883–1884.
 Paper, Śāradā script, 14x25 cm. 80 fol., 16 lines to a side, complete.
@@ -1671,7 +1677,7 @@ tasyāntevāsinā mayā śrīvitastāpurīdhāmnā viraktena tapasvinā [7 akṣ
 are illegible]
 A photocopy of very bad quality, containing only the first and last folios
 
-[p. 354]
+[p. 354] ^pg369
 
 has been obtained of this MS, therefore it has been used only occasionally.
 6. W Bodleian Library, Oxford. MS Wilson 531e
@@ -1717,7 +1723,7 @@ danukrīḍāvidagdhā porameśvaraḥ//
 End: yato yo yatsvabhāvaḥsa tatsvabhāvaṃvaktuṃpragalbhata iti upa-
 deṣṭuḥsamāviṣṭamaheśvarasvabhāvo nena vākyenoktaḥsyād - iti śi-
 
-[p. 355]
+[p. 355] ^pg370
 
 vam //
 We are grateful to Prof. Raffaele Torella, who has kindly provided us with

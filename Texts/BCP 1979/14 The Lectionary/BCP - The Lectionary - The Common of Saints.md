@@ -5,9 +5,7 @@ section: "The Lectionary"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Lectionary/Common.html"
-page_range:
-  - 925
-  - 927
+page_range: "925–927"
 aliases:
   - "BCP 926"
   - "BCP 927"
@@ -16,11 +14,9 @@ aliases:
 
 [[BCP 1979]] · *The Lectionary* · pages 925–927
 
-[p. 925]
+[p. 925] ^pg925
 
 ## The Common of Saints
-
-****Psalm**** **Lessons**
 
 **Of a Martyr I** · [[BCP Psalm 126#^126-1|126]] *or* [[BCP Psalm 121#^121-1|121]] · 2 Esdras 2:42-48 [[1 Peter 03#^3-14|1 Peter 3:14-18]],22 [[Matthew 10#^10-16|Matthew 10:16-22]]
 
@@ -30,9 +26,7 @@ aliases:
 
 **Of a Missionary I** · [[BCP Psalm 096#^96-1|96]] *or* [[BCP Psalm 096#^96-1|96:1-7]] · [[Isaiah 52#^52-7|Isaiah 52:7-10]] [[Acts 01#^1-1|Acts 1:1-9]] [[Luke 10#^10-1|Luke 10:1-9]]
 
-[p. 926]
-
-****Psalm**** **Lessons**
+[p. 926] ^pg926
 
 **Of a Missionary II** · [[BCP Psalm 098#^98-1|98]] *or* [[BCP Psalm 098#^98-1|98:1-4]] · [[Isaiah 49#^49-1|Isaiah 49:1-6]] [[Acts 17#^17-22|Acts 17:22-31]] [[Matthew 28#^28-16|Matthew 28:16-20]]
 
@@ -52,8 +46,6 @@ aliases:
 
 **Of a Saint II** · [[BCP Psalm 034#^34-1|34]] *or* [[BCP Psalm 034#^34-15|34:15-22]] · [[LXX Wisdom of Solomon 03#^3-1|Wisdom 3:1-9]] [[Philippians 04#^4-4|Philippians 4:4-9]] [[Luke 06#^6-17|Luke 6:17-23]]
 
-[p. 927]
-
-****Psalm**** **Lessons**
+[p. 927] ^pg927
 
 **Of a Saint III** · [[BCP Psalm 001#^1-1|1]] · [[LXX Sirach 02#^2-7|Ecclesiasticus 2:7-11]] [[1 Corinthians 01#^1-26|1 Corinthians 1:26-31]] [[Matthew 25#^25-1|Matthew 25:1-13]]

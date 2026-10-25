@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/speccomm.html"
-page_range:
-  - 396
-  - 399
+page_range: "396–399"
 aliases:
   - "BCP 396"
   - "BCP 397"
@@ -18,7 +16,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 396–399
 
-[p. 396]
+[p. 396] ^pg396
 
 ## Communion under Special Circumstances
 
@@ -36,7 +34,7 @@ God so loved the world that he gave his only Son, that whoever believes in him s
 
 Jesus said, "I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst." *[[John 06#^6-35|John 6:35]]*
 
-[p. 397]
+[p. 397] ^pg397
 
 Jesus said, "I am the living bread which came down from heaven; if anyone eats of this bread, he will live for ever; and the bread which I shall give for the life of the world is my flesh. For my flesh is food indeed, and my blood is drink indeed. Whoever eats my flesh and drinks my blood abides in me, and I in him." *[[John 06#^6-51|John 6:51]], 55-56*
 
@@ -52,7 +50,7 @@ Almighty Father, whose dear Son, on the night before he suffered, instituted the
 
 Most merciful God, we confess that we have sinned against you in thought, word, and deed, by what we have done, and by what we have left undone. We have not loved you with our whole heart; we have not loved our neighbors as ourselves.
 
-[p. 398]
+[p. 398] ^pg398
 
 We are truly sorry and we humbly repent. For the sake of your Son Jesus Christ, have mercy on us and forgive us; that we may delight in your will, and walk in your ways, to the glory of your Name. Amen.
 
@@ -88,7 +86,7 @@ and deliver us from evil. For the kingdom, the power,
 and the glory are yours,  
 now and for ever. Amen.
 
-[p. 399]
+[p. 399] ^pg399
 
 *The Celebrant may say the following Invitation*
 

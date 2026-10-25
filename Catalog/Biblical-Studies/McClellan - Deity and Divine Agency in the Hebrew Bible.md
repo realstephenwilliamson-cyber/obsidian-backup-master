@@ -17,8 +17,7 @@ language:
   - English
 pages: 555
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[McClellan - Deity and Divine Agency in the Hebrew Bible (PhD 2020).pdf]]"
   - "[[Library/Biblical-Studies/Deity and Divine Agency in the Hebrew Bible (McClellan)/Deity and Divine Agency in the Hebrew Bible (McClellan)]]"

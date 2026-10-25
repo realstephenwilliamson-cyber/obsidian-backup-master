@@ -17,8 +17,7 @@ language:
   - English
 pages: 273
 text: searchable
-status: keep
-physical_copy: true
+print: true
 files:
   - "[[May - Limiting Leviathan (2013).pdf]]"
   - "[[Library/Philosophy/Limiting Leviathan (May)/Limiting Leviathan (May)]]"

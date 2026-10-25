@@ -197,7 +197,7 @@ Surely, (one may object that) the letters, not the perceiver, are aroused (and a
 संघटनं च क्रमिक सञ्जल्पात्मकमेव तत् ॥ ५८ ॥
 विकल्पस्य स्वकं रूपं भोगावेशमयं स्फुटम् ।
 अतः प्रमाणतारूपं पदमस्मद्रर्जगौ ॥ ५९ ॥
-saṁghaṭṭanar ca kramikarn sañjalpātmakam eva tat | 58 ॥
+saṁghaṭṭanar ca kramikaṁ sañjalpātmakam eva tat | 58 ॥
 vikalpasya svakaṁ rūpaṁ bhogāveśamayari sphutam |
 ataḥ pramāṇatārūpaṁ padam asmadgurur jagau || 59 || 
 
@@ -290,7 +290,7 @@ pramātmātra sthito ‘dhvāyaṁ varnātmā dṛśyatāri kila ॥ 62 I"
 ucchalatsaṁvidā mātraviśrāntyāsvādayoginaḥ |
 sarvābhidhānasāmarthyād aniyantritaśaktayaḥ || 63 ॥
 sṛstāḥ svātmasahotthe ‘rthe dharāparyantabhāgini' |
-Āāmṛśantaḥ svacidbhūmau tāvato ‘rthān abhedataḥ |l 64 ॥
+Āāmṛśantaḥ svacidbhūmau tāvato ‘rthān abhedataḥ ॥ 64 ॥
 varṇaughās te pramārūpār satyāṁ bibhrati saividam | 
 
 The streams (augha) of phonemes sustain (and nourish) consciousness in its state of (pure) cognitive consciousness (pramā). (The phonemes are) emitted (by the Lord and applied) to the entities (artha) which (progressively) emerge (out of indeterminate consciousness), along with their own nature, up to the Earth (Principle), as they reflect thus on (all) things as one on the plane of consciousness proper to them. (Thus,) they savour the repose of pure consciousness as it pours out of itself, and because they can express everything, their powers are unlimited (aniyantrita). (63-65ab) (63cd-65) 
@@ -360,7 +360,7 @@ If these linguistic conventions come to be well-established within 1515 uncreate
 
 137\. MVV 1/1024a reads asyām akṛtrimānanta-.
 
-138\. Read asyāṁ for \[illegible\]
+138\. Read asyāṁ for asyā.
 
 139\. Language is based on a capacity to apprehend and understand meaning. This capacity precedes language and yet is its very essence. It is what makes all our daily dealings possible. The power to convey meaning in words (is eternally associated with them) as is heat with fire. Facts (‘meanings’) are grasped by virtue of their association with the power of reflective awareness, which is something quite different from a universally accepted convention. In the following passage, Abhinava admonishes that the
 
@@ -442,7 +442,7 @@ The Numinous Aggregate of Letters as the
 
 Source of the Phenomenal Ones तेनानन्तो ह्यमायीयो यो वरण््राम ईदृश : ॥ ७१ ॥
 संविद्विमर्शसचिवः सदैव स हि जृम्भते |
-'\#tenānanto hy amāyīyo yo varnagrāma īdṛśaḥ ॥ 71 Il saṁvidvimarśasacivaḥ sadaiva sa hi jṛmbhate | 
+'\#tenānanto hy amāyīyo yo varnagrāma īdṛśaḥ ॥ 71 ॥ saṁvidvimarśasacivaḥ sadaiva sa hi jṛmbhate | 
 
 Therefore, (one must admit that this) endless, numinous (amāyīya) aggregate of letters, the companion of the reflective awareness of consciousness, which is such (as we have declared it to be), unfolds constantly." (71cd-72ab) (71) 
 
@@ -450,18 +450,18 @@ Therefore, (one must admit that this) endless, numinous (amāyīya) aggregate of
 
 It is ‘such’, that is, independent of (linguistic) convention. (It unfolds) ‘constantly’ when making use of created, phenomenal \[illegible\] phonemes." 
 
-142\. MVV 1/1027-1028 = TĀ 11/71cd-72ab (71-72). MVV: tenānantastvamāyīyo; MVV reads pravi-jrmbhate for sa hi jṛmbhate.
+142\. MVV 1/1027-1028 = TĀ 11/71cd-72ab (71-72). MVV: tenānantastvamāyīyo; MVV reads pravi-jṛmbhate for sa hi jṛmbhate.
 
 143\. convention cannot require another to explain it; otherwise this would lead to an infinite regress. The understanding of a sentence is ultimately based on consciousness, which is not just passive awareness but an active understanding of words, or what amounts to the same thing, thought. It is necessary to posit such a direct understanding of what a word means; otherwise, the phenomena of understanding language could never be explained. It is not enough to say that we came to understand the meaning of a word by explaining it in terms of others, for they themselves must be understood. Therefore, one must accept the existence of an aggregate (of undifferentiated letters), which independent of conventional meaning are of the nature of Śuddha Vidyā, consisting of the very essence of the self-reflective awareness of pure consciousness, that function as a locus of rest, such that the possibility of an infinite regress may be circumvented.
 
-144\. CF MVV 1/410cd-413: varṇavākyapadātmānaḥ śāstrārthālokagocarāḥ ॥ 410 ॥ samāśritya pravartante \[illegible\] tārṁs tantrāvatārakān | tena prathamato yāvan \[illegible\] vaikharīṁ darīm ॥ 411 ॥ māyīyavarnṇasaṁidṛbdhaḥ śāstrārtho nāyam āgataḥ | antaḥ sāravidhodhaikaparavāṅmayavarnakaḥ Il 412 || akṛtrimaparāveśamūlasaṁskārasaṁskṛtaḥ | sāstrārtho 'laukikānto ‘sti saptatriṁśe pare \[trimśapare iti pāthaḥ\] vibhau ॥ 413 ॥ ‘The spheres of the exegesis of the meaning of the scriptures are phonemes, sentences and syllables. On the basis of that, they impel each of those who bring Tantras down to earth. Thus, initially (they impel) the flow of Corporeal Speech (that belongs to the realm of) Māyā; to that extent \[illegible\] the purport of the scripture fashioned from Māyīya phonemes has come to be a guide. Inwardly, it is the one letter, which is Supreme Speech and the udder (of all Speech) pierced (vidha) (and pervaded) by the essence (of the scriptures). It has been purified by the root purification (saṁskāra), which is uncreated and supreme absorption (into consciousness) (parāveśa). The purport of the scriptures (and the reality — artha — they teach) is the culmination of the transcendent (alaukika) within the supreme, pervasive (vibhu) thirty-seventh principle (of universal, immanent consciousness).”
+144\. CF MVV 1/410cd-413: varṇavākyapadātmānaḥ śāstrārthālokagocarāḥ ॥ 410 ॥ samāśritya pravartante \[illegible\] tārṁs tantrāvatārakān | tena prathamato yāvan \[illegible\] vaikharīṁ darīm ॥ 411 ॥ māyīyavarṇasaṁidṛbdhaḥ śāstrārtho nāyam āgataḥ | antaḥ sāravidhodhaikaparavāṅmayavarnakaḥ Il 412 || akṛtrimaparāveśamūlasaṁskārasaṁskṛtaḥ | sāstrārtho 'laukikānto ‘sti saptatriṁśe pare \[trimśapare iti pāthaḥ\] vibhau ॥ 413 ॥ ‘The spheres of the exegesis of the meaning of the scriptures are phonemes, sentences and syllables. On the basis of that, they impel each of those who bring Tantras down to earth. Thus, initially (they impel) the flow of Corporeal Speech (that belongs to the realm of) Māyā; to that extent \[illegible\] the purport of the scripture fashioned from Māyīya phonemes has come to be a guide. Inwardly, it is the one letter, which is Supreme Speech and the udder (of all Speech) pierced (vidha) (and pervaded) by the essence (of the scriptures). It has been purified by the root purification (saṁskāra), which is uncreated and supreme absorption (into consciousness) (parāveśa). The purport of the scriptures (and the reality — artha — they teach) is the culmination of the transcendent (alaukika) within the supreme, pervasive (vibhu) thirty-seventh principle (of universal, immanent consciousness).”
 
 
 *[p. 66]* ^pg86
 
 This is the meaning. The sense is that whatever (state of) noetic consciousness (pramā) arises here (in daily life), it must be experienced (bhāvya) in association with the phonemic (consciousness) (varna) of the sort ‘this is such’ (idam ittham). 
 
-Surely, (one may object that) the phenomenal \[illegible\] phonemes that are prohibited in the (corresponding forms of) noetic consciousness manifest in association with them, so what is the purpose of the phenomenal and non-phenomenal phonemes (in relation to one another)? With this doubt in mind, he says: 
+Surely, (one may object that) the phenomenal (māyīya) phonemes that are prohibited in the (corresponding forms of) noetic consciousness manifest in association with them, so what is the purpose of the phenomenal and non-phenomenal phonemes (in relation to one another)? With this doubt in mind, he says: 
 
 ### TĀ 11.72–73
 
@@ -505,9 +505,9 @@ Varna as Noetic Consciousness \[illegible\] the Ground of Language
 
 tathā hi paravākyeṣu śruteṣv āvriyate 1 | 
 
-pramā yasya jado ‘sau no tatrārthe ‘bhyeti mātṛtām || 74 I| 
+pramā yasya jado ‘sau no tatrārthe ‘bhyeti mātṛtām || 74 || 
 
-Thus, though someone may hear others speaking, if (his) own noetic consciousness \[illegible\] is obscured, he cannot, dull (jada) as he is, relate as a cognizing subject to the meaning there (of what was said and hence understand it). (74) (73cd-74ab) 
+Thus, though someone may hear others speaking, if (his) own noetic consciousness (pramā) is obscured, he cannot, dull (jada) as he is, relate as a cognizing subject to the meaning there (of what was said and hence understand it). (74) (73cd-74ab) 
 
 #### Viveka on 11.73–74
 
@@ -559,7 +559,7 @@ The perceiver whose noetic consciousness (pramā) has been awakened by restraini
 
 151\. Read paravākyānāṁ for paravākyānā.
 
-152\. MVV 1/1030: yasya tu svapramā bodhe praviśed bhedagarbhagā | māyīyavarnapuñje sve sa pramātṛtvamṛcchati |l ‘He whose noetic consciousness \[illegible\] present in the womb of diversity (bheda), enters into consciousness, it bestows (upon him) the subjectivity of his own repertoire of phonemes (that constitute meaningful) sentences and so forth.”
+152\. MVV 1/1030: yasya tu svapramā bodhe praviśed bhedagarbhagā | māyīyavarnapuñje sve sa pramātṛtvamṛcchati |l ‘He whose noetic consciousness (pramā), present in the womb of diversity (bheda), enters into consciousness, it bestows (upon him) the subjectivity of his own repertoire of phonemes (that constitute meaningful) sentences and so forth.”
 
 153\. Instead of vipakṣodbhedanigrahāt, MSs K and Kh read: nimajjed bhedavigraha and Ch: nimajjadbodhavigrahaḥ ‘submerging the isolation of consciousness’.
 
@@ -596,7 +596,7 @@ saṁkete pūrvapūrvāṁśamajjane pratibhābhidaḥ || 78 ॥
 
 154\. MVV 1/1031d: prakalpyate.
 
-155\. Concerning the concepts camatkāra (‘aesthetic delight’ or ‘wonder’) and pratibhā (ʻintelligence’” or ‘creative intuition’), see J. Gonda 1963b p. 318-348 and Gnoli 1968, pp. XLVĪI-LĪ. The concept of camatkāra is absent in the nondualist Śaiva philosophy of Somānanda. Accordingly, \[illegible\] surmises that it was probably introduced into the context of philosophical discourse by his disciple, Utpaladeva (PTv p. 3-4 n 3).
+155\. Concerning the concepts camatkāra (‘aesthetic delight’ or ‘wonder’) and pratibhā (ʻintelligence’” or ‘creative intuition’), see J. Gonda 1963b p. 318-348 and Gnoli 1968, pp. XLVĪI-LĪ. The concept of camatkāra is absent in the nondualist Śaiva philosophy of Somānanda. Accordingly, Gnoli surmises that it was probably introduced into the context of philosophical discourse by his disciple, Utpaladeva (PTv p. 3-4 n 3).
 
 156\. Read camatkāra iti for camatkāreti.
 
@@ -642,7 +642,7 @@ Moreover, when one has ascended onto the supreme stream (of consciousness), one 
 विश्रान्तशिनमये किं किं न वेत्ति करुते न वा ॥ ८० ॥
 
 yāvad dhāmani saṁketanikārakalanojjhite |
-viśrāntaś cinmaye kirn kirn na vetti kurute na vā || 80 ॥ 
+viśrāntaś cinmaye kiṁ kiṁ na vetti kurute na vā || 80 ॥ 
 
 Indeed, what does one who thus rests within the abode which is pure consciousness and is free of the (conditioning) activity (kalanā) of all conventions, not know or do? (80) (79cd-80ab) 
 
@@ -658,7 +658,7 @@ The Power of the Phonemes
 सर्वजञत्वादिसिद्धौ वा का सिद्धियी न तन्मयी ॥ ८१ ॥
 
 ata eva hi vāksiddhau varnānāṁ samupāsyatā'” |
-sarvajñatvādisiddhau vā kā siddhir yā na tanmayī || 81 Il 
+sarvajñatvādisiddhau vā kā siddhir yā na tanmayī || 81 || 
 
 Thus, in order to gain the accomplishment of speech (vāksiddhi)," omniscience and the rest, (the scripture enjoins that) one should worship the phonemes; for what perfection is not one with them? (81) (80cd-81ab) 
 
@@ -711,7 +711,7 @@ shapes of letters (lipisarniniveśakalpā), give any accomplishment? He strength
 तदुक्तं वरदेन श्रीसिद्धयोगीश्वरीमते ।
 तेन गुप्तेन गुप्तास्ते शेषा वर्णीस्त्विति स्फुटम् ।॥ ८२ ॥
 
-tad uktarn varadena śrīsiddhayogīśvarīmate |
+tad uktaṁ varadena śrīsiddhayogīśvarīmate |
 tena guptena guptās te śeṣā varnās tv iti sphuṭam |I 82 | 
 
 (Śiva,) the Bestower of Boons, has clearly said that in the Siddhayogeśvarīmata, (where we read): ‘by keeping that (power inherent in the phonemes) hidden, (the Mantras) are kept hidden. (Apart from this power,) what remains are mere letters’. (82) (81cd-82ab) 
@@ -952,7 +952,7 @@ In response to this query, he says that ‘even so, one or other of them (may) i
 
 ‘In all the rites in which the mantras have not been (explicitly) stated, and in all kinds of initiatory rites, (the mantra) the wise man should apply in all respects for the purification (of all the principles) on the path up to and including Māyā, is that of Aparā. Similarly, with regard to the principles that range from Pure Knowledge to Siva ‘with parts’ (sakala i.e. Sadāśiva), (he should apply) Parāparā. Moreover, a skilful (learned adept) should not apply the group of eight (mantras) beginning with Pibanī etc. beyond Īśvara, and also not the six limbs beyond Siva ‘with parts’. 
 
-Whatever procedure is enjoined concerning Siva ‘without parts’ \[illegible\] (i.e. Sivatattva) should be performed with the mantra of \[illegible\] 
+Whatever procedure is enjoined concerning Siva ‘without parts’ \[illegible\] (i.e. Sivatattva) should be performed with the mantra of Parā.’ 
 
 Thus, it is said here that all (these) mantras serve as purifiers on the Path. Accordingly, he says: 
 
@@ -961,13 +961,13 @@ Thus, it is said here that all (these) mantras serve as purifiers on the Path. A
 अतः शोधकभावेन शास्र श्रपूर्वसंज्ञिते ॥ ८९ ॥
 परापरादिमन्राणामध्वन्युक्ता व्यवस्थितिः
 
-ataḥ śodhakabhāvena śāstre śrīpūrvasaṁjñite ॥ 89 II parāparādimantrāṇām adhvany uktā vyavasthitiḥ | 
+ataḥ śodhakabhāvena śāstre śrīpūrvasaṁjñite ॥ 89 ॥ parāparādimantrāṇām adhvany uktā vyavasthitiḥ | 
 
 Thus, it is said in the scripture called Śrīpārva that the Mantras of Parā, Aparā and the rest are present on the Path as purifiers. (88cd-89ab) (89) 
 
 #### Viveka on 11.89
 
-183\. MV 9/60. See below, 17/35cd-36. The Womb is Māyā as the goddess Vāgīśvarī. The Vidyā of Aparā is HRĪH HŪM PHAT. Parā is SAUH. 1 MV 9/71cd-74ab. 9/73ab is quoted again below in TĀv ad 16/97-98. The Vidyās of \[illegible\] Parāparā and Aparā are given below in 30/20-36ab, with reference to MV 4/19cd- 25 (also 3/41-50ab) (for Parāparā) and 4/24 (3/51) (for Aparā). The reference to Pibanī etc. is to the energies of the eight Bhairavas incorporated in the Vidyā of Parāparā, from which they are said to arise. The Vidyā is extracted in MV 3/41cd-50ab. It is: OM AGHORE HRIH PARAMAGHORE HUM GHORARŪPE HAH GHORAMUKHĪ
+183\. MV 9/60. See below, 17/35cd-36. The Womb is Māyā as the goddess Vāgīśvarī. The Vidyā of Aparā is HRĪH HŪM PHAT. Parā is SAUH. 1 MV 9/71cd-74ab. 9/73ab is quoted again below in TĀv ad 16/97-98. The Vidyās of Parā, Parāparā and Aparā are given below in 30/20-36ab, with reference to MV 4/19cd- 25 (also 3/41-50ab) (for Parāparā) and 4/24 (3/51) (for Aparā). The reference to Pibanī etc. is to the energies of the eight Bhairavas incorporated in the Vidyā of Parāparā, from which they are said to arise. The Vidyā is extracted in MV 3/41cd-50ab. It is: OM AGHORE HRIH PARAMAGHORE HUM GHORARŪPE HAH GHORAMUKHĪ
 
 184\. BHĪṢAṆE VAMA PIBA HE RURU RARA PHAṬ HUM HAH PHAT. The eight Bhairavas are: Aghora, Paramaghora, Ghorarūpa, Ghoramukha, Bhīma, Bhīṣaṇa, Vamana and Pibana (see MV 1/19cd-21ab). Cf. below, 17/115cd-117. Concerning the Eight Bhairavas, see note 1,802; 8,1029; 15,386, 391; 29,127; and 30,61. They are the partners of the eight goddesses, with those names in the feminine. The Mantras of these goddesses are the parts of Parāparā. For example, the Vidya of Pibanī, frequently appears amongst the Mantras Abhinava refers to, it is PIBA HE, RURU, RARA, PHAṬ, HUM, HAH, PHAT. See below, note to 30/24cd-25ab, for the full set.
 
@@ -1003,7 +1003,7 @@ And ending with:
 
 śsodhakatvaṁ ca mālinyā devīnār tritayasya ca || 90 ॥
 devatrayasya vaktrāṇnām aṁgānām aṣtakasya ca |
-kirn vātibahunā dvāravāstvādhāragurukrame || 91 ॥
+kiṁ vātibahunā dvāravāstvādhāragurukrame || 91 ॥
 lokapāstravidhau mantrān muktvā sarvar viíśodhakam | 
 
 The (deposition of the) Mālinī (letters on the body) and (the Mantras) of the three Goddesses (Parā etc.), those of the three Gods (that are their Bhairavas), those of (their) faces and limbs, and (those) of the 
@@ -1023,7 +1023,7 @@ Surely (one may ask), if as you say the Six Paths are the object of purification
 यच्चैतदध्वनः प्रोक्तं शोध्यत्वं शोद्धृता चया॥९२ ॥
 सा स्वातन््याच्छिवाभेदे युक्तेत्युक्तं च शासने ।
 
-yac caitad adhvanaḥ proktarn śodhyatvaṁ Śoddhṛtā ca yā ॥ 92 ||
+yac caitad adhvanaḥ proktaṁ śodhyatvaṁ Śoddhṛtā ca yā ॥ 92 ||
 sā svātantryāc chivābhede yuktety ukta ca śāsane | 
 
 The view that the Path is (both) that which purifies and that which is purified is logically justifiable, as is declared in the (Trika) teaching, (only if one admits that its purification is) the oneness of (all things) with 
@@ -1078,7 +1078,7 @@ Surely (one may ask), in the case of mirrors and the like, the reflected images 
 
 191\. \[illegible\] TĀ 11/92cd-117ab (93-117) is a direct citation with a few variants of MVV 1/1037-
 
-192\. TĀ 11/93cd-94ab (93) = MVV 1/1037 MVV reads: tatra sarvarn vibhāty etat for sarvam etad vibhāty eva.
+192\. TĀ 11/93cd-94ab (93) = MVV 1/1037 MVV reads: tatra sarvaṁ vibhāty etat for sarvam etad vibhāty eva.
 
 
 *[p. 84]* ^pg104
@@ -1177,7 +1177,7 @@ Heart (of Śiva’s universal consciousness). (97cd-98ab) (97)
 
 202\. TĀ 11/97cd-98ab (97) = MVV 1/1041. MVV reads lekhāś citrahṛdaścitaḥ for lekhācitrahṛdaścitaḥ.
 
-203\. The śālagrāma is a petrified ammonite, rounded off by the water it lies in. It is an object of particular veneration for the followers of Viṣnu, who see in it Viṣnu’s discus (cakra).
+203\. The śālagrāma is a petrified ammonite, rounded off by the water it lies in. It is an object of particular veneration for the followers of Viṣṇu, who see in it Viṣṇu’s discus (cakra).
 
 
 *[p. 87]* ^pg107
@@ -1195,7 +1195,7 @@ As the nature of consciousness is one, how is this condition possible? With this
 नगरार्णवशेलादयास्तदिच्छानुविधायिनः || ९८ ॥
 न स्वयं सदसन्तो नो कारणाकारणात्मकाः ।
 
-nagarārṇavaśailādyās tadicchānuvidhāyinaḥ ॥ 98 Il na svayarn sadasanto no kāraṇākāraṇātmakāḥ | 
+nagarārṇavaśailādyās tadicchānuvidhāyinaḥ ॥ 98 ॥ na svayaṁ sadasanto no kāraṇākāraṇātmakāḥ | 
 
 Cities, seas, mountains and the like (all) conform (to Lord Śiva’s) will (that created them). In themselves (svayam) they neither exist nor are they non-existent. (From the universal perspective,) they are not causes (in themselves, as everything is a product of consciousness,) nor are they not causes, (as they give rise to their specific effects). (98cd-99ab) (98) 
 
@@ -1261,7 +1261,7 @@ Surely (one may object) that in such cases (of causality) as the seed and the sp
 सर्वप्रमाणेर्नो सिद्धं स्वपते तरन्त यथा ।। १०१ ॥
 स्वसंविदः स्वसिद्धायास्तथा सर्वत्र बुद्ध्यताम् ।
 
-sarvapramānṇair no siddhaṁ svapne kartrantararn yathā || 101 ॥
+sarvapramānṇair no siddhaṁ svapne kartrantaraṁ yathā || 101 ॥
 svasavidaḥ svasiddhāyās tathā sarvatra[^208] buddhyatām | 
 
 No means of knowledge can prove the existence of another (sentient) agent in a dream apart from one’s own self-evident consciousness. In the same way, one should understand this to be everywhere the case (of all the other states of consciousness, that are) proved by themselves (svasiddha) (in the same way, as being the causes of the manifestation of phenomena within them). (101cd-102ab) (101) 
@@ -1417,7 +1417,7 @@ He says that:
 tasmāt pratītir evetthaṁ kartrī dhartrī ca sā” \[illegible\] | 107 ॥
 tato bhāvās tatra bhāvāḥ śaktir ādhārikā tataḥ” | 
 
-Thus, intuitive awareness \[illegible\] alone is in this way the sustaining and creative (energy). And that is (one with) Śiva. Existing things (bhāva) (come forth) from that and (subsist) there. Thus Śakti is the sustaining (ground) \[illegible\] (of all things). (107cd-108ab) (107) 
+Thus, intuitive awareness \[illegible\] alone is in this way the sustaining and creative (energy). And that is (one with) Śiva. Existing things (bhāva) (come forth) from that and (subsist) there. Thus Śakti is the sustaining (ground) (ādhārikā) (of all things). (107cd-108ab) (107) 
 
 #### Viveka on 11.107
 
@@ -1430,7 +1430,7 @@ Nor is this (view) at all novel. Thus, he says:
 ### TĀ 11.108
 
 साड्ूल्पिकं निराधारमपि नैव पतत्यधः ॥ १०८ ॥
-स्वाधारशक्तौ विश्रान्तं विश्वमित्थं विमृश्यताम् sāṁkalpikaṁ nirādhāram api naiva pataty adhaḥ ॥ 108 II svādhāraśaktau viśrāntaḥ” viśvam ittharn vimṛśyatām | 
+स्वाधारशक्तौ विश्रान्तं विश्वमित्थं विमृश्यताम् sāṁkalpikaṁ nirādhāram api naiva pataty adhaḥ ॥ 108 ॥ svādhāraśaktau viśrāntaḥ” viśvam itthaṁ vimṛśyatām | 
 
 Although an imaginary entity (sāṁkalpika) has no (physical) support (nirādhāra), it does not fall down, (because) it rests on a power which is its own foundation (ādhāra). Contemplate all things in this way. (108cd-109ab) (108) 
 
@@ -1552,7 +1552,7 @@ kriyākṣanṇe vā ‘py ekasmin?” bahvyaḥ sarisyur drutāḥ kriyāḥ |
 tena ye bhāvasakocari kṣaṇāntari pratipedire ॥ 114 ॥
 te nūnam enayā nāḍyā śūnyadṛṣṭyavalambinaḥ | 
 
-Therefore, according to us, ‘ʻa moment’ \[illegible\] does not exist. Many (extremely) rapid actions are possible in just one moment of activity. Those who maintain that a moment (kṣana) is the extreme, most contracted limit of (the existence of) an entity (bhāvasarikoca) are, in this way (enayā nādyā)[^229] certainly basing themselves on an empty view.[^230] (113cd-115ab) (113-114) 
+Therefore, according to us, ‘ʻa moment’ (kṣaṇa) does not exist. Many (extremely) rapid actions are possible in just one moment of activity. Those who maintain that a moment (kṣana) is the extreme, most contracted limit of (the existence of) an entity (bhāvasarikoca) are, in this way (enayā nādyā)[^229] certainly basing themselves on an empty view.[^230] (113cd-115ab) (113-114) 
 
 #### Viveka on 11.113–114
 

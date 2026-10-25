@@ -20,8 +20,7 @@ language:
   - Sanskrit
 pages: 290
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Singh and Maheshvarananda - Sri Tantraloka, vol. VI, chapters 16-20 (2015).pdf]]"
   - "[[Library/Trika/Abhinavagupta's Sri Tantraloka and Other Works, Volume VI (Abhinavagupta)/Abhinavagupta's Sri Tantraloka and Other Works, Volume VI (Abhinavagupta)]]"

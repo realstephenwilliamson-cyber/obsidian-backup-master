@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-auxiliary
 title: Devī Atharva Śīrṣam
+collection: "Devī Māhātmya"
 role: closing
 status: stub
 aliases:

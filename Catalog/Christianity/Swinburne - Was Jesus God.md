@@ -17,8 +17,7 @@ language:
   - English
 pages: 189
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Swinburne - Was Jesus God (OUP 2008).pdf]]"
   - "[[Library/Christianity/Was Jesus God (Swinburne)/Was Jesus God (Swinburne)]]"

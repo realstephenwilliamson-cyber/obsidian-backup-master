@@ -79,7 +79,7 @@ With this doubt in mind, he says:
 *[p. 416]* ^pg435
 
 asti cātiśayaḥ kaścit tāsām apy uttarottaram |
-yo vivekadhanair dhīraiḥ sphutīkṛtyāpi darśyate |l 196 ॥ 
+yo vivekadhanair dhīraiḥ sphutīkṛtyāpi darśyate ॥ 196 ॥ 
 
 The wise, who are rich in discrimination, have clearly explained that of those (three Goddesses), the previous with respect to what follows possesses a certain (superior) excellence. (196) 
 
@@ -162,7 +162,7 @@ As the divisions gradually decrease, so do the moments (tuṭi) decrease also.�
 
 ‘Just as the divisions decrease two by two in this way, so also the moments (ruṭis) clearly decrease successively two by two." 
 
-(This happens) because the moments are placed, two by two, into the polarity corresponding to (their) the Innate Nature. The decrease amounts to the loosening of the tenacious abiding (of consciousness) as a (lower level) perceiver, not the destruction of the Innate Nature. The number of moments (tuṭi) in the movement of the breath, which is thirty-six finger breadths (in length), remains thus \[illegible\] unaffected. Thus, (what is happening) here (in this case) is that by the dissolving away of the Conditioned and other perceivers affected by discursive thought (vikalpapramātr), the perceivers free of discursive thought emerge progressively (at ever) higher (levels), to the degree in which consciousness abounds (udreka). 
+(This happens) because the moments are placed, two by two, into the polarity corresponding to (their) the Innate Nature. The decrease amounts to the loosening of the tenacious abiding (of consciousness) as a (lower level) perceiver, not the destruction of the Innate Nature. The number of moments (tuṭi) in the movement of the breath, which is thirty-six finger breadths (in length), remains thus (tāvat) unaffected. Thus, (what is happening) here (in this case) is that by the dissolving away of the Conditioned and other perceivers affected by discursive thought (vikalpapramātr), the perceivers free of discursive thought emerge progressively (at ever) higher (levels), to the degree in which consciousness abounds (udreka). 
 
 He says that: 
 
@@ -253,7 +253,7 @@ attention to (their) relationship.”
 
 247\. TĀ 10/204ab = MVV 1/99lab MVV 1/991cd reads: iya sā bhanyate tatra yatheṣtaphalayogataḥ — ‘It is said there (with regards to that in the Vijñānabhairava) in relation to (whatever) fruit (yogis) desire’ for iyan sā tatra tatroktā sarvakāmadughā yataḥ |l
 
-248\. VB 106 (105) TĀ 10/204 is a paraphrase of VB 106 (105), quoted by Jayaratha in full. It is also cited in MM p. 154 and in ŚSūvi on sūtra 1/18. A variant of the first line is quoted in TĀv ad 4/212. In Śivopādhyāya’s version of this verse, we find the reading \[illegible\] ‘sti for viśeṣo ‘yaṁ, found here and in Ānandabhatta’s version. The latter reading is also found in the citation of this verse in the MM p. 154 and in the ŚSūvi on sūtra 1/18. A variant of the first line is quoted above in TĀv ad 4/212. The expression ‘grāhyagrāhaka’ may be taken to be a copulative compound ~ ‘the object and the subject’, or as an attributive one — ‘the subject (i.e. perceiver of) the object’. It is found commonly in both senses in the text of the TĀ and even more so in Jayaratha’s commentary. Indeed, the relationship between subject and object is a major object of attention here! Those who fail to attend to it carefully are lost in the world of objectivity, deprived of all but a trace of their essential subjectivity. Śivopādhyāya comments: “(The perception of subject and object) is ‘common’ and without difference for ‘all embodied beings’ ranging from Sadāśiva up to a louse, whereas Yogis ‘(pay careful) attention’, that is, do not forget the nature of the perceiver.”
+248\. VB 106 (105) TĀ 10/204 is a paraphrase of VB 106 (105), quoted by Jayaratha in full. It is also cited in MM p. 154 and in ŚSūvi on sūtra 1/18. A variant of the first line is quoted in TĀv ad 4/212. In Śivopādhyāya’s version of this verse, we find the reading viśeṣo ‘sti for viśeṣo ‘yaṁ, found here and in Ānandabhatta’s version. The latter reading is also found in the citation of this verse in the MM p. 154 and in the ŚSūvi on sūtra 1/18. A variant of the first line is quoted above in TĀv ad 4/212. The expression ‘grāhyagrāhaka’ may be taken to be a copulative compound ~ ‘the object and the subject’, or as an attributive one — ‘the subject (i.e. perceiver of) the object’. It is found commonly in both senses in the text of the TĀ and even more so in Jayaratha’s commentary. Indeed, the relationship between subject and object is a major object of attention here! Those who fail to attend to it carefully are lost in the world of objectivity, deprived of all but a trace of their essential subjectivity. Śivopādhyāya comments: “(The perception of subject and object) is ‘common’ and without difference for ‘all embodied beings’ ranging from Sadāśiva up to a louse, whereas Yogis ‘(pay careful) attention’, that is, do not forget the nature of the perceiver.”
 
 
 *[p. 421]* ^pg440
@@ -274,7 +274,7 @@ Just as the divisions decrease two by two in this way, so too the moments (tuṭ
 
 #### Viveka on 10.205
 
-The penultimate and the last two moments (kṣana) (after) the twelve moments (tuṭi) associated with the powerholders and (their) powers, belong to the polarity \[illegible\] of the Innate Nature. Thus, two moments remain that are 
+The penultimate and the last two moments (kṣana) (after) the twelve moments (tuṭi) associated with the powerholders and (their) powers, belong to the polarity (pakṣa) of the Innate Nature. Thus, two moments remain that are 
 
 within Siva.” Accordingly he says: 
 
@@ -335,7 +335,7 @@ lābhaḥ sarvajñakartṛtve tuṭeḥ pāto \[illegible\] 1141141 ॥ 208 ॥
 
 The 
 
-venerable Kallata has said the same (in the Tattvārthacintāmani): “one attains omniscience and omnipotence when the 
+venerable Kallaṭa has said the same (in the Tattvārthacintāmani): “one attains omniscience and omnipotence when the 
 
 251\. Read śaktirūpaiva for śivarūpaiva.
 
@@ -375,7 +375,7 @@ Surely (one may ask), how does the one who is attentive to the second moment att
 आद्यायां तु तुरौ सर्वं सर्वतः पूणमेकताम् ।
 गतं किंतत्र वेद्यं वा कार्य वा व्यपदेशभाक् ।॥ २०९ ॥
 
-ādyāyāṁ tu tuṭau sarvarn sarvataḥ pūrṇam ekatām |
+ādyāyāṁ tu tuṭau sarvaṁ sarvataḥ pūrṇam ekatām |
 gatar kir tatra vedyaṁ vā \[illegible\] vā vyapadeśabhāk ॥ 209 ॥ 
 
 In the first moment all has become one and complete (pārna) in all respects, so what object of awareness or action can be taught there? (209) 
@@ -455,7 +455,7 @@ would not arise (in the subsequent moments also)? With this doubt in mind, he sa
 अत एव यथा भेदबहुत्वं दूरता तथा ।
 संवित्तौ तुरिबाहल्यादकषाथीसंनिकर्षवत् || २१३ ॥
 
-ata eva yathā bhedabahutvarn dūratā tathā |
+ata eva yathā bhedabahutvaṁ dūratā tathā |
 saṁvittau tuṭibāhulyād akṣārthāsaminikarṣavat || 213
 ॥ 
 
@@ -546,7 +546,7 @@ Surely (one may ask), how is it that effort is applied only to what is distant, 
 तथा हि दृश्यतां लोको घटादेर्वेदने यथा । २१७ ॥
 प्रयत्नवानिवाभाति तथा किं सुखवेदने ।
 
-tathā hi dṛśyatāri loko ghaṭāder vedane yathā || 217 I|
+tathā hi dṛśyatāri loko ghaṭāder vedane yathā || 217 ||
 prayatnavān ivābhāti tathā kim sukhavedane | 
 
 So, as one can observe in everyday life, it seems as if one makes an effort to perceive (an outer object) such as a jar, but not so (an inner) pleasing sensation. (217cd-218ab) 
@@ -576,7 +576,7 @@ Interiority and Externality as the Expansion and Contraction of Consciousness
 āntaratvam \[illegible\] prāhuḥ saṁłvinnaikaṭyaśālitām ॥ 218 ॥
 \[illegible\] ca cidrūpatonmeṣamri bāhyatvaṁ tannimeṣatām | 
 
-(The master Utpaladeva) says that interiority (anantratvam) is a state of close proximity to consciousness. It is the expansion \[illegible\] of the conscious nature, whereas externality is (its) withdrawal \[illegible\] (218cd-219ab) 
+(The master Utpaladeva) says that interiority (anantratvam) is a state of close proximity to consciousness. It is the expansion (unmeṣa) of the conscious nature, whereas externality is (its) withdrawal \[illegible\] (218cd-219ab) 
 
 #### Viveka on 10.218–219
 
@@ -590,7 +590,7 @@ Although pleasure and the like are perceptible only to the inner (mental) organ,
 
 263\. Kṣemarāja uses the term sukhopāya, ‘Pleasing Means’, in his Pratyabhijñāhṛdaya (KSTS p. 2) to denote the immediate recognition of one’s identity as Śiva, that is, what Abhinava terms No Means (anupāya).
 
-264\. Abhinava refers to Utpaladeva in the standard honorific plural - prāhuh — ‘they say’. He is referring to ĪP 3/1/3ab: \[illegible\] is opening outwards \[illegible\] Sadāśiva is closing inwards \[illegible\] ' See above, 6/167cd-168ab (167) and note.
+264\. Abhinava refers to Utpaladeva in the standard honorific plural - prāhuḥ — ‘they say’. He is referring to ĪP 3/1/3ab: \[illegible\] is opening outwards (unmeṣa), Sadāśiva is closing inwards (nimeṣa).’ ' See above, 6/167cd-168ab (167) and note.
 
 265\. ĪP 1/8/8d. The whole verse states: ‘Even this (mental) representation (ullekha) within (the sphere of) discursive thought (vikalpa) is an external perception that is rate (pṛthak pratha) (from every other one and the perceiver). Interiority is a condition of oneness with the knowing subject (pramātraikyātmyam), exteriority is separation (bheda) from him.” Utpaladeva himself explains: ‘Although the representation of a jar and the like within (the sphere of) discursive thought is not in the purview of (the senses) such as sight, even so, it is external, because it is a (form of) manifestation that is separate (from the subject). Indeed, interiority is the reflective awareness ‘T’ (ahaṁvimarśa), (whereas) exteriority is (the reflective awareness) ‘this’. In this way, such things as jars possess both kinds of externality, namely, their condition as objects of cognition of the two instruments (of perception), namely, the external (senses) and the inner (mind). However, in the case of pleasure and the like, they are solely objects of the inner (mental) senses.”
 
@@ -606,7 +606,7 @@ Surely, if this is so, namely that Śiva’s interiority amounts to the fact tha
 Śiva only Apparently Distant 
 
 भविनां त्वन्तिकोऽप्येवं न भातीत्यतिदूरता ॥ २१९ ॥
-bhavināṁ tv antiko ‘py evarn na bhātīty atidūratā ॥ 219 ॥ 
+bhavināṁ tv antiko ‘py evaṁ na bhātīty atidūratā ॥ 219 ॥ 
 
 Even though (Śiva) is close to those subject to transmigration (bhavin) in this way, he does not manifest (as such, and so the idea arises that He is) very far away. (219cd) 
 
@@ -645,7 +645,7 @@ Consciousness is Everywhere Full, Emergent and Devoid of Succession
 बीजाल्लता त्वडुरात्न | बीजादिह तु सर्वतः || २२१ ॥।
 संवि्त्वं भासमानं परिपूर्ण हि सर्वतः ।
 
-0४ kramikeyarn bhavet saṁvit sūtas tatra kilāṁṁkuraḥ |
+0४ kramikeyaṁ bhavet saṁvit sūtas tatra kilāṁṁkuraḥ |
 bījāl latā tv amikurān no bījād iha tu sarvataḥ ॥ 221 ॥
 samvittattvan bhāsamānami paripūrṇaṁ hi sarvataḥ | 
 
@@ -662,7 +662,7 @@ Surely (one may object that), because the effect did not exist previously (when 
 ### TĀ 10.222
 
 सर्वस्य कारणं प्रोक्तं सव्रैवोदितं यतः ।। २२२ ॥
-sarvasya \[illegible\] proktari sarvatraivoditarn yataḥ || 222 ॥ 
+sarvasya \[illegible\] proktari sarvatraivoditaṁ yataḥ || 222 ॥ 
 
 (Consciousness) is said to be the cause of all things because it is (constantly) emerging (into phenomenal existence) (udita) everywhere. (222cd) 
 
@@ -677,7 +677,7 @@ Surely (one may object), let consciousness in the form of the subject be the cau
 तत एव घटेऽप्येषा प्राणवृत्तिर्यदि स्फुरेत् ।
 विश्राम्येच्चाशु तत्रैव शिवबीजे लयं व्रजेत् || २२३ ॥
 
-tata eva ghate ‘py \[illegible\] prāṇavṛttir yadi sphuret |
+tata eva ghate ‘py eṣā prāṇavṛttir yadi sphuret |
 viśrāmyec cāśu tatraiva śivabīje layar vrajet || 223 || 
 
 Thus, if this modality of the vital breath (linked to the phases of perception) (prāṇavṛtti) manifests within (the perception of) even just a jar, and immediately takes its rest there, it merges (there) into Śiva, the seed (of all things). (223) 
@@ -710,7 +710,7 @@ Mantreśas and the Other Perceivers are Instruments of Consciousness
 अन्यन्मन्राधिनाथादि कारणं तत्तु संनिधे : ।। २२४ ॥
 शिवाभेदाच्च किं चाथ द्रैते नैकस्यवेदनात् ।
 
-anyanmantrādhināthād?[^269] kāraṇari tat tu sarinidheḥ || 224 II 
+anyanmantrādhināthād?[^269] kāraṇari tat tu sarinidheḥ || 224 || 
 
 [^267]: One could also translate ‘as the completely full (and perfect) light and reflective awareness (of consciousness)’. But that would be missing the point. As all the content of experience is the shining of the light of consciousness, the perception of anything is ultimately an act of reflective awareness of that consciousness. This is so from the point of view of both consciousness and its content. It is a reflective awareness that points back, as it were, to consciousness as the awareness it has of itself. At the same time, any perception of anything is an act of reflective awareness, in the sense that it reflects on its nature, coming ultimately to know what it is as a manifestation of the light of consciousness and hence that light itself. This timeless activity of awareness is experienced by yogis in consonance with the flow of the breath. In that way, although the activity of consciousness is not divided up in time or space, the yogi experiences the sixteen aspects of a single undivided consciousness as so many moments in the movement of the breath, corresponding to moments in the act of perception.
 [^268]: Read with MS K uktā for uditā.
@@ -772,7 +772,7 @@ I have revealed this division (bheda) present in the vital breath under the cust
 
 #### Viveka on 10.226–227
 
-[^271]: Khecarīcakra is the cycle of perception experienced as the stream of awareness, flying like the wind through the unconfined expanse of eternal consciousness. The expanse or Sky of Consciousness is Bhairava, and the flow of awareness the goddess of consciousness (Saṁviddevī), here called Khecarī — the Skyfarer. She is experienced in the immediacy of the present when consciousness is freed of the notions (vikalpa) of ‘past’ and ‘future’. Abhinava explains this in chapter one of the Mālinīvijayavārttika, where he writes: ‘How can something be divided (from a place) where it does not rest? And how can the present be a limit with regard to these two, or they have a limit with regard to it (the present)? Would not everything become the limit of everything else in this manner (tadvad) (i.e. if this were accepted)? (140-141) For this reason, it is said (iti) that past and future are immersed in the consciousness that is called present. If one brings about a state of rest in this only, and if the whole circle of rays of conceptualization stand still for a moment without becoming manifest in this (present consciousness), then one has annihilated one’s individual existence and relishes (carvanāṁ labhate) only the vibrant experience (of the nectar) of one’s own immortality (i.e. the transcendence of time), (in which) flows an abundance (saridoha) of ambrosia that is the highest bliss. (142-144) For, to explain, when the moon is full of the mass of rays of the sun, and does not wish to emit them again, then it is for a moment established in a state of rest in the fullness of its own orb. It is (then) called ‘vessel for the gratification of the constituent deities inside (consciousness)’. (145-146) In this way, one rests in the light emitted by the moon of one’s own knowledge, (a light) which exists within the heart (i.e. consciousness), which is made manifest (añcita) by the mass of rays of the sun that illuminates the world and which is beautiful with the essence of the nectar of the vast consciousness inside. Since the flood of one’s own inner nectar is not released outside, it is revolving and surging up only inside, and acquires (-ātmakah jāyate) the knowledge of the ‘T’, which gratifies the circle of the deities inside oneself. As long as (it does this) (yāvat), the process of one’s sensory perception (svakaraṇnakramaḥ) is suspended. (147-150ab) While the mass of rays is restrained, (their) power (vibhava) (that causes manifestation) is absent, and consequently neither past nor future is divided from the present. (150cd-151ab) (But) how (can we speak of) the present as long as they (past and future) are not divided from it? For it is through the nature of past and future that the present becomes separate. (151cd-152ab) Therefore (tad), when a meditator (yogi) intent on devouring time comes to rest in this limit of consciousness for only a moment (tuṭiḥ), he at once becomes ‘one who moves in the void (of consi ss)”. (152cd-153ab) For it is taught that time, which is the appearance of the world, is (yah . . , sa) the vibration \[illegible\] of the rays of one’s own consciousness that is projecting (kalana) (the world). The absence of the world is (also) it (i.e. time); it is nothing else. Therefore, one who has restrained all the (six) orders (adhvan) by restraining the rays of his own (consciousness), who is completely immersed in the devouring of time, spontaneously (svayam) becomes ‘one who moves in the void (of consciousness)’. (153cd-155ab) This has been said by Siva (parameśa) in the Śrīdāmaratantra: ‘After immobilizing one’s circle of rays and tasting the supreme nectar, he should dwell in the bliss within the present that does not divide this from both past and future.” (155cd- 156ab) Even the so-called restraint (of the rays) does not exist in this (present) which is free from contraction. As this is absent, there is no vibration (of the raśmicakra) in it, and how could there be (subsequent) devouring and contentment? (157) But in the manner described (above), restraint, appearance, devouring etc. appear. And there is no other reality in the world than appearance in this way. (158) But enough of this long narration of the (secret) discourse about Khecarīcakra; or its use (ko yogaḥ) for the process of perception, which is hidden ever new (i.e. again and again)? (159)' (Hanneder’s translation (1998)) ity alarn khecarīcakragoṣthyālāpena bhūyasā | ko vābhinavagupte'smin yogaḥ samvedanakrame ॥159॥ This verse makes much more sense by simply emending ‘yogaḥ’ to yogyaḥ.
+[^271]: Khecarīcakra is the cycle of perception experienced as the stream of awareness, flying like the wind through the unconfined expanse of eternal consciousness. The expanse or Sky of Consciousness is Bhairava, and the flow of awareness the goddess of consciousness (Saṁviddevī), here called Khecarī — the Skyfarer. She is experienced in the immediacy of the present when consciousness is freed of the notions (vikalpa) of ‘past’ and ‘future’. Abhinava explains this in chapter one of the Mālinīvijayavārttika, where he writes: ‘How can something be divided (from a place) where it does not rest? And how can the present be a limit with regard to these two, or they have a limit with regard to it (the present)? Would not everything become the limit of everything else in this manner (tadvad) (i.e. if this were accepted)? (140-141) For this reason, it is said (iti) that past and future are immersed in the consciousness that is called present. If one brings about a state of rest in this only, and if the whole circle of rays of conceptualization stand still for a moment without becoming manifest in this (present consciousness), then one has annihilated one’s individual existence and relishes (carvanāṁ labhate) only the vibrant experience (of the nectar) of one’s own immortality (i.e. the transcendence of time), (in which) flows an abundance (saridoha) of ambrosia that is the highest bliss. (142-144) For, to explain, when the moon is full of the mass of rays of the sun, and does not wish to emit them again, then it is for a moment established in a state of rest in the fullness of its own orb. It is (then) called ‘vessel for the gratification of the constituent deities inside (consciousness)’. (145-146) In this way, one rests in the light emitted by the moon of one’s own knowledge, (a light) which exists within the heart (i.e. consciousness), which is made manifest (añcita) by the mass of rays of the sun that illuminates the world and which is beautiful with the essence of the nectar of the vast consciousness inside. Since the flood of one’s own inner nectar is not released outside, it is revolving and surging up only inside, and acquires (-ātmakah jāyate) the knowledge of the ‘T’, which gratifies the circle of the deities inside oneself. As long as (it does this) (yāvat), the process of one’s sensory perception (svakaraṇnakramaḥ) is suspended. (147-150ab) While the mass of rays is restrained, (their) power (vibhava) (that causes manifestation) is absent, and consequently neither past nor future is divided from the present. (150cd-151ab) (But) how (can we speak of) the present as long as they (past and future) are not divided from it? For it is through the nature of past and future that the present becomes separate. (151cd-152ab) Therefore (tad), when a meditator (yogi) intent on devouring time comes to rest in this limit of consciousness for only a moment (tuṭiḥ), he at once becomes ‘one who moves in the void (of consi ss)”. (152cd-153ab) For it is taught that time, which is the appearance of the world, is (yah . . , sa) the vibration \[illegible\] of the rays of one’s own consciousness that is projecting (kalana) (the world). The absence of the world is (also) it (i.e. time); it is nothing else. Therefore, one who has restrained all the (six) orders (adhvan) by restraining the rays of his own (consciousness), who is completely immersed in the devouring of time, spontaneously (svayam) becomes ‘one who moves in the void (of consciousness)’. (153cd-155ab) This has been said by Siva (parameśa) in the Śrīdāmaratantra: ‘After immobilizing one’s circle of rays and tasting the supreme nectar, he should dwell in the bliss within the present that does not divide this from both past and future.” (155cd- 156ab) Even the so-called restraint (of the rays) does not exist in this (present) which is free from contraction. As this is absent, there is no vibration (of the raśmicakra) in it, and how could there be (subsequent) devouring and contentment? (157) But in the manner described (above), restraint, appearance, devouring etc. appear. And there is no other reality in the world than appearance in this way. (158) But enough of this long narration of the (secret) discourse about Khecarīcakra; or its use (ko yogaḥ) for the process of perception, which is hidden ever new (i.e. again and again)? (159)' (Hanneder’s translation (1998)) ity alaṁ khecarīcakragoṣthyālāpena bhūyasā | ko vābhinavagupte'smin yogaḥ samvedanakrame ॥159॥ This verse makes much more sense by simply emending ‘yogaḥ’ to yogyaḥ.
 
 *[p. 437]* ^pg456
 
@@ -896,11 +896,11 @@ abhidhākaraṇībhūtāḥ śabdāḥ kin cābhidhā pramā ॥ 232 ॥
 pramātṛmeyatanmānapramārūpari catuṣtayam |
 vigvam etad adhiṣtheyaṁ yadā jāgrat tadā smṛtam || 233 ॥ 
 
-The waking state is said to obtain when 1) living beings (bhūta) such as Caitra and Maitra, 2) the (elemental) principles \[illegible\] from Earth onwards, 3) words, which are the instruments of denotation (abhidhā), and (the verbal) knowledge (pramā) (that is the result of) denotation (abhidhā), (as well as) 4) the tetrad consisting of subject, object, means of knowledge and knowledge itself, in short, all this universe (that manifests) is that which is sustained (by consciousness) (adhiṣtheya).?[^278] (232-233) 
+The waking state is said to obtain when 1) living beings (bhūta) such as Caitra and Maitra, 2) the (elemental) principles (tattva) from Earth onwards, 3) words, which are the instruments of denotation (abhidhā), and (the verbal) knowledge (pramā) (that is the result of) denotation (abhidhā), (as well as) 4) the tetrad consisting of subject, object, means of knowledge and knowledge itself, in short, all this universe (that manifests) is that which is sustained (by consciousness) (adhiṣtheya).?[^278] (232-233) 
 
 #### Viveka on 10.232–233
 
-[^278]: The MV (2/40a) (cf. below under 10/241-2) lists just three types of things which are ‘sustained’ (adhiṣtheya) in the waking state, that is, are its content objectively perceived by the perceiver who ‘sustains’ (addhiṣthātr), namely, living beings (bhūta), (elemental) principles \[illegible\] and words, which are the instruments of denotation (abhidhā). The first Abhinava explains to mean ‘living beings’ in the specific sense of other people. Just as in English one says “Tom, Dick and Harry’ to mean each and anybody, similarly in Sanskrit one says ‘Caitra and Maitra’. It is only in the waking state that we perceive others and interact with them. Again, Abhinava narrows down the metaphysical principles perceived in the waking state to those which concretely constitute objects. Other higher principles, starting from the sensations, senses and mind, are not perceived objectively in the waking state. Moreover, they are not specific to it. They are operational in the waking state, but they are also functioning in dream states and so are not specific to the former. Next, the MV refers to the act of denotation (abhidhā); that is, the naming of outer objects as this or that, which takes place when awake. Abhinava explains that outer spoken language — ‘words’ — is meant. here, and the verbal knowledge which results from it and is associated with it. There the inner speech of thought operates in the dream state, but it does not serve to denote outer objects, much less to communicate knowledge to others. Now Abhinava adds a fourth category of his own, not mentioned (but may be said to be implied) in the MVT. These are the four factors constituting perception, ranging from the subject to the resultant perception. We have observed in many contexts that this perspective is central to Abhinava’s exegesis. Moreover, as Somadeva (2004: 220 n. 74) observes: ‘This at first sight trivial matter becomes significant latter on. It will become clear at TĀ 10/262-263b that Abhinavagupta insists on counting four categories of knowable entities simply because this enables him to explain why the purely subjective and unitary deep sleep state can have four subdivisions.”
+[^278]: The MV (2/40a) (cf. below under 10/241-2) lists just three types of things which are ‘sustained’ (adhiṣtheya) in the waking state, that is, are its content objectively perceived by the perceiver who ‘sustains’ (addhiṣthātr), namely, living beings (bhūta), (elemental) principles (tattva), and words, which are the instruments of denotation (abhidhā). The first Abhinava explains to mean ‘living beings’ in the specific sense of other people. Just as in English one says “Tom, Dick and Harry’ to mean each and anybody, similarly in Sanskrit one says ‘Caitra and Maitra’. It is only in the waking state that we perceive others and interact with them. Again, Abhinava narrows down the metaphysical principles perceived in the waking state to those which concretely constitute objects. Other higher principles, starting from the sensations, senses and mind, are not perceived objectively in the waking state. Moreover, they are not specific to it. They are operational in the waking state, but they are also functioning in dream states and so are not specific to the former. Next, the MV refers to the act of denotation (abhidhā); that is, the naming of outer objects as this or that, which takes place when awake. Abhinava explains that outer spoken language — ‘words’ — is meant. here, and the verbal knowledge which results from it and is associated with it. There the inner speech of thought operates in the dream state, but it does not serve to denote outer objects, much less to communicate knowledge to others. Now Abhinava adds a fourth category of his own, not mentioned (but may be said to be implied) in the MVT. These are the four factors constituting perception, ranging from the subject to the resultant perception. We have observed in many contexts that this perspective is central to Abhinava’s exegesis. Moreover, as Somadeva (2004: 220 n. 74) observes: ‘This at first sight trivial matter becomes significant latter on. It will become clear at TĀ 10/262-263b that Abhinavagupta insists on counting four categories of knowable entities simply because this enables him to explain why the purely subjective and unitary deep sleep state can have four subdivisions.”
 
 *[p. 443]* ^pg462
 
@@ -924,7 +924,7 @@ That (imagined) colour blue that manifests in that way within one’s (own) awar
 
 #### Viveka on 10.234–235
 
-Whatever manifests, such as (an imagined colour) blue, within cognitive consciousness \[illegible\] which is the conscious intent (saṁkalpa) etc. 
+Whatever manifests, such as (an imagined colour) blue, within cognitive consciousness (jñāna), which is the conscious intent (saṁkalpa) etc. 
 
 279\. A certain subjective element exists in waking experience, in that the external object is apprehended in the mind of each individual, but even so, the object of the individual perceiver’s awareness is external and thus common to all. The existence of this objectivity, which is experienced as independent of the perceiver and his intentions or imagination, is the characterizing feature of the waking state. Indeed, the experience of objectivity in this way is the waking state itself.
 
@@ -993,7 +993,7 @@ Here (in the context of Kaula Yoga, the states of consciousness) do not only hav
 जाग्रज्जाग्रदवुद्ध तज्जाग्रतस्वस्तु बुद्धता ।। २३८ ॥
 इत्यादि तु्यीतीतं तु सर्वगत्वात्पृथक्कुत : ।
 
-jāgrajjāgrad abuddhaṁ taj jāgratsvapnas tu buddhatā ॥ 238 I|
+jāgrajjāgrad abuddhaṁ taj jāgratsvapnas tu buddhatā ॥ 238 ॥
 ityādi turyātītaṁ tu sarvagatvāt pṛthak kutaḥ | 
 
 The waking-waking (state) is (called) Unawakened (Abuddha). The waking-dreaming (state) is (called) Awakened (Buddha), and so \[illegible\] The 
@@ -1157,11 +1157,11 @@ What is the intention behind assigning this term (to the waking state) for those
 सर्वसत्तासमापूर्णं विश्वं पश्यद्यतो यतः ।
 ज्ञानी ततस्ततः संवित्त्वमस्य प्रकाशते ॥ २४५ ॥
 
-sarvasattāsamāpūrnṇar 1115 \[illegible\] paśyed yato yataḥ | 
+sarvasattāsamāpūrṇar 1115 \[illegible\] paśyed yato yataḥ | 
 
 \[illegible\] tatas tataḥ saṁvittattvam asya prakāśate ॥ 245 ॥ 
 
-The principle of consciousness manifests to the man of knowledge (jñānin) to the degree in which he perceives the universe to be completely filled with the Being \[illegible\] of all things. (245) 
+The principle of consciousness manifests to the man of knowledge (jñānin) to the degree in which he perceives the universe to be completely filled with the Being (sattā) of all things. (245) 
 
 #### Viveka on 10.245
 
@@ -1308,7 +1308,7 @@ Surely (one may ask), it has been stated that the distinction between waking and
 ### TĀ 10.251
 
 तदैव तस्य वेत्त्येव स्वयमेव ह्यवाह्यताम् । same).[^307] ॥
-tadaiva tasya vetty eva svayam eva hy abāhyatām ॥ 251 |I 
+tadaiva tasya vetty eva svayam eva hy abāhyatām ॥ 251 ॥ 
 
 (One who is in this state of consciousness) knows spontaneously for himself (svayam) just then that this (object) is not external. 
 

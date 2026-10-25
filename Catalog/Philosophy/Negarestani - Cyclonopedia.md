@@ -18,7 +18,7 @@ language:
 pages: 245
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Negarestani - Cyclonopedia, Complicity with Anonymous Materials (2008).pdf]]"
   - "[[Library/Philosophy/Cyclonopedia - Complicity with Anonymous Materials (Negarestani)/Cyclonopedia - Complicity with Anonymous Materials (Negarestani)]]"

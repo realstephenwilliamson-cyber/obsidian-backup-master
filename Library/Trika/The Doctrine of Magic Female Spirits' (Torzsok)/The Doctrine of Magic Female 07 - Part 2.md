@@ -730,7 +730,7 @@ Raudriī is unrecorded, but in the context must denote an offering. Prof. Sander
 
 Chapter 21 ~ The circle of Umā and Maheśvara[^1-p165] 
 
-Bhairava spoke 1 Now I will teach you in brief the circle of Umā and Maheśvara[^1-pdf263] o Daughter of the King of Mountains, with twelve Rudras and \[their\] Yoginis[^2-p165]. This is being taught now {kathyamāno 'dhunã® , listen. 
+Bhairava spoke 1 Now I will teach you in brief the circle of Umā and Maheśvara o Daughter of the King of Mountains, with twelve Rudras and \[their\] Yoginis[^2-p165]. This is being taught now {kathyamāno 'dhunã® , listen. 
 
 2 The Rudras who are on the spokes of the twelve spoke wheel and \[their\] Yoginis fulfil[^4-p165] every wish, o Great Goddess. 
 
@@ -772,9 +772,9 @@ The expression seems to be ungrammatical and somewhat colloquial. My translation
 
 
 
-[^1-p165]:
+[^1-p165]: This chapter has no title in the manuscripts.
 
-[^1-pdf263]: This chapter has no title in the manuscripts.
+
 
 [^10]: Tt should be Bhairava who churns nectar in the middle. Cf. textual notes.
 

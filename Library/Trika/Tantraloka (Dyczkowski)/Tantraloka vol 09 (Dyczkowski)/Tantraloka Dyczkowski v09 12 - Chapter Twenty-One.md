@@ -159,11 +159,11 @@ bhraṣṭasvasamayasyātha dīkṣāṁ prāptavato ‘py alam |
 
 575?\. These three verses are Sarvajñānottara 16/1-3. They are at the beginning of chapter 16 of the Kriyāpāda called mṛtakadīkṣāprakaranam — the Chapter conceming the Initiation of the Dead, where the rite is described with its mantras. The verses are on p. 86 of IFP T 334 and p. 64 of IFP T 760.
 
-576?\. \[illegible\] The reading na prāpto ‘pi parām dīkṣāḥ gurubhakto ‘pi yatnataḥ | is confirmed by both IFP transcripts 334 and 769. The grammar is obviously faulty. Corrected, it would read na prāptāpi parā dīkṣā gurubhaktena yatnataḥ. It appears, however, that the faulty Sanskrit is original.
+576?\. \[illegible\] The reading na prāpto ‘pi parām dīkṣāṁ gurubhakto ‘pi yatnataḥ | is confirmed by both IFP transcripts 334 and 769. The grammar is obviously faulty. Corrected, it would read na prāptāpi parā dīkṣā gurubhaktena yatnataḥ. It appears, however, that the faulty Sanskrit is original.
 
 577?\. T 334 and 760 read kālenāntasthito yasya — ‘he who is at the end of (his life) due to his (immanent) death’ for kālenāntarito yasmāt — ‘He is impeded by death (kāla), so how .....”
 
-578?\. Instead of kiiḥ vṛthā T 334 and 760, read kirn pradā (> pradaḥ) — ‘what does (his affliction) give’.
+578?\. Instead of kiiḥ vṛthā T 334 and 760, read kiṁ pradā (> pradaḥ) — ‘what does (his affliction) give’.
 
 579?\. T 334 and 760 read dhar moksasādhanam for yad mokṣasādhanam.
 
@@ -180,11 +180,11 @@ It is said that the initiation (that bestows) immediate exit (from the body) (sa
 
 Again: 
 
-‘The initiation for the dead (mṛtavatī \[illegible\] is for those who have died orphans, so too for those who have been killed in a riot and died in a bad way." 
+‘The initiation for the dead (mṛtavatī dīkṣā) is for those who have died orphans, so too for those who have been killed in a riot and died in a bad way." 
 
 582?\. The printed edition reads simply anyathā tu iyam iti vibhāgaḥ. It appears that some of the text here is missing. I take it to mean something like anyathā tu iyaṁ dīkṣā kāryeti vibhāgaḥ.
 
-583?\. Jayaratha quotes here, without attribution, the second and third lines of the Catuscatvārimśati-dīkṣāpatala in the Ghoraghoratarācakra of the JY. This is JY 3/20/258 (MS K: 159b, Kh: 127b G: 2019 Gh fl. 155b). The whole passage is interesting and worth quoting, as another manner initiation can be imparted to someone who has died, by the use of the Great Net (mahājāla). (JY ṣatka 3 chapter 20): 155b gh) athātaḥ sahipravakṣyāmi kramāyātari \[g: -tah\] sumadhyame | Śṛnūddhārābhidhānā Ík, kh: íśrnudvārā-\] yā dīkṣā paramaśobhanā I| 257 ॥ anāthaluptapindānāṁ \[g: adhunā-\] tathā dimvahateṣv api \[k: disahatenyapi(?)\] | kuvidhau ca \[k: va\] mṛtānār \[g: nāsti\] ca \[g: nāsti\] dīkṣā mṛtavafī bhavet || 258 ॥ pravakṣyāmi rahasyena yan nākhyātaṁ mayā kvacit | \[illegible\] \[illegible\] tarn-\] parameśānīr trailokyoddāmadāmarām \[k: -ddama-; g: -kyodāma\] íg: -lām\] “Now I will tell (you), O lady with a beautiful waist, what has come down through the tradition. Listen to the supremely beautiful initiation called ‘Rescue’ (uddhārā). This initiation for the dead (mṛtavatī) is (meant) for those who have lost (their bodies) as orphans, so too those who have been killed as new-born babies (dimba), and those who have died in bad circumstances (in general). I will tell (you) with (its) secret what I have not said anywhere (in the scriptures). Having worshipped the Supreme Goddess (parameśānī) who is the Unrestrained Dāmarā of the Three Worlds (trailokyoddāma-dāmarā). (257-259) yathāvibhavasaṁibhārair agnikarma \[k: rapikarma\] samācaret \[g: samārabhet\] | tatraiṣtakamayākāraṁ \[k: tatrāṭu(?)mayaṁkāraṁ ; kh, gh: tatrāḷṭakamayaṁ-; g: tatrādhamayā-\] dārbhyari \[kh: dārbhye; g: dārbha\] vā parikalpate \[g: -kalpyate\] ॥ 260 ॥ adhivāsya yathā samyak tatas tu vidhim ācaret \[kh: ārabhet\] | mahāyatanam ākramya viśvākhyaṁ padayogataḥ || 261 ॥ 160a) yatra \[kh: tatra\] saṅgrathitaṁ viśvaṁ yatra \[illegible\] carācaram | yatra kṣayam \[g: taṣam?\] idaṁ yāti prānādyaṁ sarvam eva hi ॥ 262 ॥ 128a kh) yato devi \[k: -ti\] punarbhūyaḥ \[kh: -bhūyo\] prakāśānandalakṣanam \[g: -nah\] | ciddhāma \[k g gh: cidvāma\] yat \[kh: yet\] parar sūkṣmaṁ kāraneṣv api kāraṇam || 263 ॥ tarn Śivan paramaṁ \[g: -ma\] devaṁ |g: +ca\] svaśaktiparimanditam | tadullāsavikāsena mahājālābhidhena ca ॥ 264 ॥ sarvādhvāvalokenaiva \[k, g, gh -dvālokenanaiva; kh: -dvālokanenaiva\] mṛtacaitanyam āharet | krodhād \[k, kh, gh: krodhor\] gale gṁītvaivaṁ \[g: -tvevaṁ\] prakṛtau viniveśayet I 265 ॥ One should perform a fire ritual with materials in accord with one’s means. An image (of the deceased) is fashioned from brick (aiṣtakamayākāra) or darbha (grass). Having (performed the preparatory) purificatory rites (adhivāsa), as is proper, he should then execute the procedure. (260-261ab) Having entered the Great Abode (of the sacrifice) called the Universe \[illegible\] by conjoining with the plane (of deity) where the universe is knotted together, and the moving and immobile (world) is merged, where all this, beginning with the vital breath, is destroyed, from which, O goddess, arising again, the abode of consciousness which, supremely subtle, is the (ultimate) cause amidst (all) causes, that is, supreme Śiva, adorned all around with his own energies. (261cd-264ab) By the unfolding of its outpouring called the Great Net, and by observing the entire Path (of the cosmic order), fetch the consciousness of the dead person. Having gripped him with rage by the throat in this way, place him within Prakṛti. (264cd-265) 201b g) pāśāṁkuśaprayogena yatra tatra sthitaṁ paśum | tadrūdhiviniyogena calate prakṛtis tataḥ | 266 ॥ tatra sangrathanam \[k: sagra-\] kārya gūdhavidyāpurahsaram | yac cinmayaṁ tad unmeṣaṁ yad unmeṣaṁ kriyā hi sā || 267 I| yā (> yah) kriyācāra evāsau caturdhā pariniṣṭhitaḥ \[g: pariveṣthitaḥ\] | Saktirūpena cākarṣaṁ grahanaṁ \[kh g: karṣanar\] jīvasañjñinā 1| 268 II pudgalena \[k, kh: saudvalena; g, gh: pauṁgalena\] samālokaṁ \[k, kh, gh: mupā-\] hamsākhyena viśodhanam | khecarīvṛttim ālarvya \[k, kh, g, gh: khecarīmhn- k gh: ālahcya\] mudrāṁ \[k, kh, g, gh: mudrā\] khecarasevanāt \[g: khecari-\] Il 269 ॥ prakuryān mṛtacaitanyaṁ \[k, g, gh: -nye\] gurur grahanam ādarāt \[kh: -nādarāt\] | Wherever the fettered soul may be, by applying the elephant goad of the fetters, and applying a state of stability (rūdhi) within that (Prakṛti), Prakṛti moves thereby. (The soul) should be tied up there (by applying) first of all the profound (hidden) Vidyā. (266-267ab) That which is consciousness is expansion (unmeṣa), and that which is expansion is action. That practice of action is established four-fold. (The soul is) dragged (towards himself) by Śakti, and grasped by (the individual soul) called ‘Jīva’. It is viewed equally by (the individual soul called) Pudgala, and by the one called Haṁsa, (it is) purified. Taking the support of Khecarī’s state (vṛtti), the teacher should make the Mudrā by attending on the Skyfarer, (and so) lay hold of the consciousness of the dead person with respect. (267cd-270ab)
+583?\. Jayaratha quotes here, without attribution, the second and third lines of the Catuscatvārimśati-dīkṣāpatala in the Ghoraghoratarācakra of the JY. This is JY 3/20/258 (MS K: 159b, Kh: 127b G: 2019 Gh fl. 155b). The whole passage is interesting and worth quoting, as another manner initiation can be imparted to someone who has died, by the use of the Great Net (mahājāla). (JY ṣatka 3 chapter 20): 155b gh) athātaḥ sahipravakṣyāmi kramāyātari \[g: -taḥ\] sumadhyame | Śṛnūddhārābhidhānā Ík, kh: íśrnudvārā-\] yā dīkṣā paramaśobhanā I| 257 ॥ anāthaluptapindānāṁ \[g: adhunā-\] tathā dimvahateṣv api \[k: disahatenyapi(?)\] | kuvidhau ca \[k: va\] mṛtānār \[g: nāsti\] ca \[g: nāsti\] dīkṣā mṛtavafī bhavet || 258 ॥ pravakṣyāmi rahasyena yan nākhyātaṁ mayā kvacit | \[illegible\] \[illegible\] tarn-\] parameśānīr trailokyoddāmadāmarām \[k: -ddama-; g: -kyodāma\] íg: -lām\] “Now I will tell (you), O lady with a beautiful waist, what has come down through the tradition. Listen to the supremely beautiful initiation called ‘Rescue’ (uddhārā). This initiation for the dead (mṛtavatī) is (meant) for those who have lost (their bodies) as orphans, so too those who have been killed as new-born babies (dimba), and those who have died in bad circumstances (in general). I will tell (you) with (its) secret what I have not said anywhere (in the scriptures). Having worshipped the Supreme Goddess (parameśānī) who is the Unrestrained Dāmarā of the Three Worlds (trailokyoddāma-dāmarā). (257-259) yathāvibhavasaṁibhārair agnikarma \[k: rapikarma\] samācaret \[g: samārabhet\] | tatraiṣtakamayākāraṁ \[k: tatrāṭu(?)mayaṁkāraṁ ; kh, gh: tatrāḷṭakamayaṁ-; g: tatrādhamayā-\] dārbhyari \[kh: dārbhye; g: dārbha\] vā parikalpate \[g: -kalpyate\] ॥ 260 ॥ adhivāsya yathā samyak tatas tu vidhim ācaret \[kh: ārabhet\] | mahāyatanam ākramya viśvākhyaṁ padayogataḥ || 261 ॥ 160a) yatra \[kh: tatra\] saṅgrathitaṁ viśvaṁ yatra \[illegible\] carācaram | yatra kṣayam \[g: taṣam?\] idaṁ yāti prānādyaṁ sarvam eva hi ॥ 262 ॥ 128a kh) yato devi \[k: -ti\] punarbhūyaḥ \[kh: -bhūyo\] prakāśānandalakṣanam \[g: -nah\] | ciddhāma \[k g gh: cidvāma\] yat \[kh: yet\] parar sūkṣmaṁ kāraneṣv api kāraṇam || 263 ॥ tarn Śivan paramaṁ \[g: -ma\] devaṁ |g: +ca\] svaśaktiparimanditam | tadullāsavikāsena mahājālābhidhena ca ॥ 264 ॥ sarvādhvāvalokenaiva \[k, g, gh -dvālokenanaiva; kh: -dvālokanenaiva\] mṛtacaitanyam āharet | krodhād \[k, kh, gh: krodhor\] gale gṁītvaivaṁ \[g: -tvevaṁ\] prakṛtau viniveśayet I 265 ॥ One should perform a fire ritual with materials in accord with one’s means. An image (of the deceased) is fashioned from brick (aiṣtakamayākāra) or darbha (grass). Having (performed the preparatory) purificatory rites (adhivāsa), as is proper, he should then execute the procedure. (260-261ab) Having entered the Great Abode (of the sacrifice) called the Universe (viśva) by conjoining with the plane (of deity) where the universe is knotted together, and the moving and immobile (world) is merged, where all this, beginning with the vital breath, is destroyed, from which, O goddess, arising again, the abode of consciousness which, supremely subtle, is the (ultimate) cause amidst (all) causes, that is, supreme Śiva, adorned all around with his own energies. (261cd-264ab) By the unfolding of its outpouring called the Great Net, and by observing the entire Path (of the cosmic order), fetch the consciousness of the dead person. Having gripped him with rage by the throat in this way, place him within Prakṛti. (264cd-265) 201b g) pāśāṁkuśaprayogena yatra tatra sthitaṁ paśum | tadrūdhiviniyogena calate prakṛtis tataḥ | 266 ॥ tatra sangrathanam \[k: sagra-\] kārya gūdhavidyāpurahsaram | yac cinmayaṁ tad unmeṣaṁ yad unmeṣaṁ kriyā hi sā || 267 I| yā (> yah) kriyācāra evāsau caturdhā pariniṣṭhitaḥ \[g: pariveṣthitaḥ\] | Saktirūpena cākarṣaṁ grahanaṁ \[kh g: karṣanar\] jīvasañjñinā 1| 268 II pudgalena \[k, kh: saudvalena; g, gh: pauṁgalena\] samālokaṁ \[k, kh, gh: mupā-\] hamsākhyena viśodhanam | khecarīvṛttim ālarvya \[k, kh, g, gh: khecarīmhn- k gh: ālahcya\] mudrāṁ \[k, kh, g, gh: mudrā\] khecarasevanāt \[g: khecari-\] Il 269 ॥ prakuryān mṛtacaitanyaṁ \[k, g, gh: -nye\] gurur grahaṇam ādarāt \[kh: -nādarāt\] | Wherever the fettered soul may be, by applying the elephant goad of the fetters, and applying a state of stability (rūdhi) within that (Prakṛti), Prakṛti moves thereby. (The soul) should be tied up there (by applying) first of all the profound (hidden) Vidyā. (266-267ab) That which is consciousness is expansion (unmeṣa), and that which is expansion is action. That practice of action is established four-fold. (The soul is) dragged (towards himself) by Śakti, and grasped by (the individual soul) called ‘Jīva’. It is viewed equally by (the individual soul called) Pudgala, and by the one called Haṁsa, (it is) purified. Taking the support of Khecarī’s state (vṛtti), the teacher should make the Mudrā by attending on the Skyfarer, (and so) lay hold of the consciousness of the dead person with respect. (267cd-270ab)
 
 
 *[p. 249]* ^pg269
@@ -207,7 +207,7 @@ svayari tadviṣayotpannakarunābalato ‘pi vā |
 vijñātatanmukhāyātaśaktipātāmśadharminaḥ ॥ 10 ॥
 gurur dīkṣām mṛtoddhārīr kurvīta śivadāyinīm | 
 
-156a gh) jananādikriyākarma kṛtvā tatsthasya \[g: -kasya\] sāṁipratam || 270 ॥ paścāt pragṛhya kālāgnicakraṁ \[k: vakraṁ\] nītaḥ \[k, kh g gh: nīīāḥ\] śanaiḥ śanaiḥ | Yojayen nādimārgena pare \[g: pāra\] dhāmny ānalodarāt \[kh: Śo ?darāt\] ॥ 271 ॥ nyāsakramena \[k kh: bhyāsa-\] subhage \[k kh g gh: śu-\] viśrāmyāyatane guruḥ | pūrṇāhutiprayogena juhed vahnau \[illegible\] vahniṁ\] tu \[illegible\] kṛtim ॥ 272 I| saṁyojya parame dhāmni \[k: parāme-\] citpare mṛtajīvitam | Having now performed the Karma (i.e. rites of passage) of the acts of birth and the rest (of (the soul) who is present in that, and then laying hold of the Wheel of the Fire of Time (Kālāgni), (the soul) is brought (into the simulacrum) slowly, slowly. (Then) from out of the fire, he should be conjoined into the supreme abode by the path of the channel (of the vital breath). O fair lady, the teacher brings (the soul) to rest in the Abode (of the sacrifice) by the process of deposition (of mantra). By applying a full oblation, he should offer that simulacrum into the fire, having conjoined the deceased living being into the supreme abode within supreme consciousness. (2T0cd-273ab) Śuddhaṁ śivasvarūpaṁ tad bhavaty \[k kh gh: bhavety-\] evaṁ na cādbhutam ॥ 273 ॥ rahasyam etad ākhyātaṁ tantre ‘smin pārameśvare Ík kh gh: -ra\] | dīkṣāvidhānam atulaṁ yāvat sahbhavati priye I 274 ॥ 160b) na caitad devi dātavyam abhaktānāmi kadācana | siracchedam idan muktvā nānyatra pravicāritam || 275 ॥ tvayā guptatararn \[illegible\] nākhyeyaṁ yasya kasyacit | etad vidhānam atula bhogamokṣaphalapradam ॥ 276 ॥ catvāriṁśatidīkṣākhyaṁi caturbhir adhikan mahat | 128b kh) ghoraghoratarācakre sarahasyam udāhṛtam ॥ 277 ॥ It is not astonishing that in this way that (the soul) becomes pure Śiva nature. O beloved, that is said to be a secret in this Tantra of the Supreme Lord, for this is an unparalleled manner of initiation. O goddess, it should never be given to those who are devoid of devotion. Apart from this Siraccheda, it is not taught elsewhere. (This), your most secret task, should not be told to anybody. This unparalleled procedure bestows worldly enjoyment (bhoga) and liberation. It is the great one called the forty-fourth initiation. It is taught, along with (its) secret, in the assembly (cakra) of Ghoraghoratarās.” (273cd-277)
+156a gh) jananādikriyākarma kṛtvā tatsthasya \[g: -kasya\] sāṁipratam || 270 ॥ paścāt pragṛhya kālāgnicakraṁ \[k: vakraṁ\] nītaḥ \[k, kh g gh: nīīāḥ\] śanaiḥ śanaiḥ | Yojayen nādimārgena pare \[g: pāra\] dhāmny ānalodarāt \[kh: Śo ?darāt\] ॥ 271 ॥ nyāsakramena \[k kh: bhyāsa-\] subhage \[k kh g gh: śu-\] viśrāmyāyatane guruḥ | pūrṇāhutiprayogena juhed vahnau \[illegible\] vahniṁ\] tu \[illegible\] kṛtim ॥ 272 I| saṁyojya parame dhāmni \[k: parāme-\] citpare mṛtajīvitam | Having now performed the Karma (i.e. rites of passage) of the acts of birth and the rest (of (the soul) who is present in that, and then laying hold of the Wheel of the Fire of Time (Kālāgni), (the soul) is brought (into the simulacrum) slowly, slowly. (Then) from out of the fire, he should be conjoined into the supreme abode by the path of the channel (of the vital breath). O fair lady, the teacher brings (the soul) to rest in the Abode (of the sacrifice) by the process of deposition (of mantra). By applying a full oblation, he should offer that simulacrum into the fire, having conjoined the deceased living being into the supreme abode within supreme consciousness. (2T0cd-273ab) Śuddhaṁ śivasvarūpaṁ tad bhavaty \[k kh gh: bhavety-\] evaṁ na cādbhutam ॥ 273 ॥ rahasyam etad ākhyātaṁ tantre ‘smin pārameśvare Ík kh gh: -ra\] | dīkṣāvidhānam atulaṁ yāvat sahbhavati priye I 274 ॥ 160b) na caitad devi dātavyam abhaktānāmi kadācana | siracchedam idan muktvā nānyatra pravicāritam || 275 ॥ tvayā guptataraṁ \[illegible\] nākhyeyaṁ yasya kasyacit | etad vidhānam atula bhogamokṣaphalapradam ॥ 276 ॥ catvāriṁśatidīkṣākhyaṁi caturbhir adhikan mahat | 128b kh) ghoraghoratarācakre sarahasyam udāhṛtam ॥ 277 ॥ It is not astonishing that in this way that (the soul) becomes pure Śiva nature. O beloved, that is said to be a secret in this Tantra of the Supreme Lord, for this is an unparalleled manner of initiation. O goddess, it should never be given to those who are devoid of devotion. Apart from this Siraccheda, it is not taught elsewhere. (This), your most secret task, should not be told to anybody. This unparalleled procedure bestows worldly enjoyment (bhoga) and liberation. It is the great one called the forty-fourth initiation. It is taught, along with (its) secret, in the assembly (cakra) of Ghoraghoratarās.” (273cd-277)
 
 *[p. 251]* ^pg271
 
@@ -283,7 +283,7 @@ bhūyo dine ca devārcā sākṣān nāsyopakāri tat ॥ 15 ॥
 
 ### TĀ 21.14–15
 
-The entire (ritual) procedure (vidhi) is (as) taught previously, but it should be in an abbreviated form, in which the worship of the teacher and so on is omitted. This is because it (is imparted by the teacher,) so that (the disciple may enjoy) worldly fruits (bhoga) in the outer world. The preliminary rite of purification (adhivāsa), the sacrificial pap (caru), the sacred field \[illegible\] the preparation of the bed and the mandala” are of no use here (in this procedure). (The purpose of the preliminary) purification (adhivāsa) of the disciple, (in which he is made to sleep and dream,) serves for the prognostication (of his) dreams (which is obviously not required for this initiation). The mandala serves to make the mantras gathered together (in the mandala) fit” to be satisfied (and propitiated) (which is not necessary here). The worship of the deity on the following day, is (also) of no direct use (for this procedure). (14-15) 
+The entire (ritual) procedure (vidhi) is (as) taught previously, but it should be in an abbreviated form, in which the worship of the teacher and so on is omitted. This is because it (is imparted by the teacher,) so that (the disciple may enjoy) worldly fruits (bhoga) in the outer world. The preliminary rite of purification (adhivāsa), the sacrificial pap (caru), the sacred field (kṣetra), the preparation of the bed and the mandala” are of no use here (in this procedure). (The purpose of the preliminary) purification (adhivāsa) of the disciple, (in which he is made to sleep and dream,) serves for the prognostication (of his) dreams (which is obviously not required for this initiation). The mandala serves to make the mantras gathered together (in the mandala) fit” to be satisfied (and propitiated) (which is not necessary here). The worship of the deity on the following day, is (also) of no direct use (for this procedure). (14-15) 
 
 #### Viveka on 21.14–15
 
@@ -343,7 +343,7 @@ tatpraviṣṭasya kasyāpi śiṣyānāṁ ca guros tathā |
 ekādaśaite kathitāḥ samnidhānāya hetavaḥ ॥ 17 ॥
 uttarottaram utkṛṣṭās tathā vyāmiśranāvaśāt | 
 
-The (contributing) causes that serve to make (the absent soul) present for the teacher, the disciples, or anyone who may have entered (and is present by chance),” are said to be eleven. They are: 1) the rite \[illegible\] 2) the offering (upakarana), 3) the (sacred) place, 4) the mandala, 5) an image (ākṛti) (of the deceased), 6) the mantra, 7) the visualization (dhyāna), 8) conjunction (yoga) (of the breaths), 9) devotion to the (Lord) alone, 10) 
+The (contributing) causes that serve to make (the absent soul) present for the teacher, the disciples, or anyone who may have entered (and is present by chance),” are said to be eleven. They are: 1) the rite (kriyā), 2) the offering (upakarana), 3) the (sacred) place, 4) the mandala, 5) an image (ākṛti) (of the deceased), 6) the mantra, 7) the visualization (dhyāna), 8) conjunction (yoga) (of the breaths), 9) devotion to the (Lord) alone, 10) 
 
 597?\. A stranger who by chance or out of curiosity has entered the sacred space where the rite is taking place should not be told to leave or asked questions. The rite should continue, presuming that the intruder becomes inwardly spiritually involved.
 
@@ -371,10 +371,10 @@ Requirements for the Rite
 आकृतिर्दीप्तरूपा या मन्रस्तद्रत्सुदीप्िकः ॥ २१९ ॥
 शिष्टं स्पष्टमतो नेह कथितं विस्तरात्ुनः
 
-kriyātibhūyasī puṣpādy uttamalakṣaṇnānvitam ॥ 18 Il ekaliṅgādi ca sthānaṁ yatrātmā saṁprasīdati |
+kriyātibhūyasī puṣpādy uttamalakṣaṇnānvitam ॥ 18 ॥ ekaliṅgādi ca sthānaṁ yatrātmā saṁprasīdati |
 mandala tritrisūlābjacakraṁ yan mantramandale ॥ 19 ॥
 anāhūte ‘pi dṛṣtaṁ sat samayitvaprasādhanam |
-yad uktam mālinītantre siddharn samayamandalam ॥ 20 ॥
+yad uktam mālinītantre siddhaṁ samayamandalam ॥ 20 ॥
 yena saṁdṛṣtamātreti siddhamātrapadadvayāt |
 ākṛtir dīptarūpā yā mantras tadvat sudīptikaḥ ॥ 21 ॥
 siṣtaṁ spaṣtam ato neha kathitaṁ vistarāt punaḥ | 
@@ -388,7 +388,7 @@ siṣtaṁ spaṣtam ato neha kathitaṁ vistarāt punaḥ |
 
 #### Viveka on 21.18–22
 
-‘(By) just (seeing)’, because it is separate from ritual worship \[illegible\] etc. 
+‘(By) just (seeing)’, because it is separate from ritual worship (pūjā) etc. 
 
 Having explained that by the way, he (goes on to) talk about the main topic. 
 
@@ -404,7 +404,7 @@ Placing the Absent Disciple in a Simulacrum
 kṛtvā mandalam abhyarcya tatra devar kuśair atha ॥ 22 ॥
 gomayenākṛtim kuryāc chiṣyavat tāṁ nidhāpayet |
 tatas tasyāṁ śodhyam ekam adhvānaṁ vyāptibhāvanāt || 23 ॥
-prakṛtyantarhi vinikṣipya punar enaṁ vidhirn caret |
+prakṛtyantarhi vinikṣipya punar enaṁ vidhiṁ caret |
 mahājālaprayogeṇa sarvasmād adhvamadhyataḥ ॥ 24 ॥ 
 
 Having made the mandala and worshiped the deity there, (the teacher) should fashion with (blades of) kuśa grass or cow dung an image that resembles the (deceased) disciple (he wishes to initiate). He should then place it (in front of himself).” Then, having projected one Path, which is to 
@@ -415,7 +415,7 @@ Having made the mandala and worshiped the deity there, (the teacher) should fash
 
 601?\. This verse is not found in the printed text of the MV.
 
-602?\. TSā p. 166 ‘and the mantra is (spontaneously) energetic by itself mantraḥ svayarn dīptaś ca.
+602?\. TSā p. 166 ‘and the mantra is (spontaneously) energetic by itself mantraḥ svayaṁ dīptaś ca.
 
 603?\. \[illegible\] Unlike the normal funerary rites \[illegible\] which are performed as a matter of course (see below, Chapter Twenty-four), these rites are meant to rescue those who have died impure deaths or in a state of impurity in such circumstances as listed above, which would not allow them access to them, or required extra reparation. Sanderson (2006: 32) observes that the Vedic smārta counterpart of this is ‘the Nārāyaṇabali or Sūryabali, which is performed for exactly the same classes of individuals a year after their death. Those rites are then performed over the next few days. They begin with a ritual of cremation (antyeṣṭiḥ) in which a crude doll (parnapuruṣa) takes the place of the non-existent corpse, and end with the sapindīkarana ritual in which the deceased (pretaḥ) is incorporated as an ancestor (pity). While in the smārta rite, it was simply the ritual processing (saṁskāraḥ) and disposal (pratipattiḥ) of the sacrificer's body and implements (āyudham), here it was part of the initiatory destruction of the bonds \[illegible\] which hold the omniscient and omnipotent soul in ignorance and impotence of the cycles of births and deaths (saṁsāraḥ).
 
@@ -430,7 +430,7 @@ be purified, up to (the level of) Nature by imagining how it pervades (all the o
 
 ‘(To accomplish the initiation to rescue the dead . . . he should worship the Supreme Lord as above,) but with the difference that he should fashion a silver image twelve finger (breadths, i.e. approx. 21 cm) in length, that must be similar (in appearance to the deceased). Or else, O goddess, it may be made from cow dung or (blades of) Kuśa grass.” (It should be) purified with a bath.” 
 
-604?\. Kṣemarāja glosses ‘silver’ as crushed rice, and states that reading ‘rājarā’ (meaning ‘silvery’) is incorrect (apapātha). rajasā śālicūrṇena | rājatety apapāṭhaḥ | sadṛśīti mṛtadehena ॥ Sanderson (2005: 265 n 87) notes other materials from which the image may be made as recorded in Bṁatkālottara. These include white carth mixed with the five products of a cow, or Palāśa (Butea frondosa) wood or Aśvattha (Ficus religiosa). The Vaiṣnava Jayākhyasaṁhitā adds birch wood as a third option.
+604?\. Kṣemarāja glosses ‘silver’ as crushed rice, and states that reading ‘rājarā’ (meaning ‘silvery’) is incorrect (apapātha). rajasā śālicūrṇena | rājatety apapāṭhaḥ | sadṛśīti mṛtadehena ॥ Sanderson (2005: 265 n 87) notes other materials from which the image may be made as recorded in Bṁatkālottara. These include white carth mixed with the five products of a cow, or Palāśa (Butea frondosa) wood or Aśvattha (Ficus religiosa). The Vaiṣṇava Jayākhyasaṁhitā adds birch wood as a third option.
 
 605?\. NT 18/1 16bcd-117ab. The full passage (NT 18/1 17cd-121), edited and translated by Sanderson (2005: 264-256) (the notes are mine), continues as follows with some modifications: “There (in that case) the purification (saṁskāra) (of the image) is just the initiation itself.\* (This is done by meditating on himself as Śiva) pervading (the universe) (vyāptyā)\*\* (and so) should bring back the soul (of the deceased from) wherever it may be (read yatrastha- for yavastha-)\*\*\* or (many) souls and place it (or them) within (the image). As he makes the Full Oblation (after completing the oblations that eliminate the possibility of reincarnation on any level of the universe) he should cast (the image) (into the fire of Supreme Siva while raising the soul through his own central energy-channel and then) uniting it with the level of Śiva.\*\*\*\* By this means it will attain union (with Śiva). He should (also) worship the deity (i.e. Siva, for the deceased) in the rites for the ancestors (śrāddha).\*\*\*\*\* Optionally he may do this worship during the cremation ceremony itself. (In the latter case), O goddess, the Guru should install an image of the frightening (Bhairava) form taught above attended by two Śaktis in the cremation ground where the body was burnt, employing the various offerings already mentioned and the aforesaid rites. Alternatively, O goddess, there may be four or eight (attendant Śaktis) \*\*\*\*\*\* contemplated with visualizations taught already.’
 
@@ -469,7 +469,7 @@ yāvad dhūümābhirāmapracitataraśikhā-
 
 608?\. He should conjoin him into the Śiva principle by the method of conjunction (yojanikāprakāra) taught in the venerable Svacchanda etc.
 
-609?\. Kṣemarāja: “There, the Saiddhāntika rites for the ancestors are well known to a large extent (tāvat). Whereas according to the secret procedure —once the teacher has meditated on the power which is food (annamayi), intensifies (all things) and is vitality, (the teacher) of fine intellect should think that that postulant \[illegible\] is penetrated by her. Then he should offer that aspect of his fettered state which is worldly experience (bhoga) into the enjoyer (of those experiences) with the sense of being of a single nature (ekātmabhāva). In this way, the disciple becomes Siva.” tatra saiddhāntikaśrāddhavidhistāvat prasiddhaḥ, rahasyavidhau tu "gurur annamayīi śaktiṁ \[illegible\] vīryarūpinīm | dhyātvā tayā samāviṣṭaṁ taṁ sādhyaṁ cintayet sudhīḥ || tato ‘sya pāśavāmśo yo bhogarūpas tam arpayet | bhoktary ekātmabhāvena śiṣya ittharn śivībhavet ||
+609?\. Kṣemarāja: “There, the Saiddhāntika rites for the ancestors are well known to a large extent (tāvat). Whereas according to the secret procedure —once the teacher has meditated on the power which is food (annamayi), intensifies (all things) and is vitality, (the teacher) of fine intellect should think that that postulant (sādhya) is penetrated by her. Then he should offer that aspect of his fettered state which is worldly experience (bhoga) into the enjoyer (of those experiences) with the sense of being of a single nature (ekātmabhāva). In this way, the disciple becomes Siva.” tatra saiddhāntikaśrāddhavidhistāvat prasiddhaḥ, rahasyavidhau tu "gurur annamayīi śaktiṁ \[illegible\] vīryarūpinīm | dhyātvā tayā samāviṣṭaṁ taṁ sādhyaṁ cintayet sudhīḥ || tato ‘sya pāśavāmśo yo bhogarūpas tam arpayet | bhoktary ekātmabhāvena śiṣya itthaṁ śivībhavet ||
 
 610?\. \[illegible\] The two Śaktis are Cāmundā and Yogeśvarī. The four are Siddhā, Raktā, Suṣkā and Utpalahastā, whereas the eight are these together with four companions \[illegible\] Kālī, Karālī, Mahākālī and Bhadrakālī. Their visualizations are given in NT 10/17-37ab.
 
@@ -484,7 +484,7 @@ jālanāmā prayogaḥ ॥ 25 ॥
 
 #### Viveka on 21.25
 
-This is the procedure (prayoga) here called ‘the Great Net’. The teacher, established in his own Self as Śiva’s subjectivity (ahaṁbhāva) by nature, ‘(first) rises from the Root’, that is, from the Place of Birth (janmasthāna). (Then,) having awakened the power of the vital breath (prāṇaśakti) as the root cause (of the Great Net), by blocking exhalation, inhalation and breath retention etc. repeatedly, again and again, (he ascends the Staff). The Staff is in the form of a path, because it is the means which is the clearly evident flow (of the breath), and the means (nimitta) due to which it ascends upwards and returns downwards. (It is said to be made of) an ‘infinite number of channels’, because there are thirty-five million (of them). ‘Come forth’ from (that power of the vital breath), they pervade all the body, and so are ‘very extensive’. Being present there as such, the vital breath is of that form. (The teacher) ‘lays hold of it’, that is, having brought (the vital breath) under his own control, with the vitality which is the strength of (his) power, by successively crossing over (the inner centres) beginning with the heart, it reaches the extremity of the cavity of the nose. Having done so, ‘casting forth’ (the breath), that is, causing it to spread out all around externally until, by (not caring to) take up (any) particular (thing), he manages to pervade the universe (as a whole). Thus, ‘having covered over’, that is, encompassed, the entire Path with the multitude of his rays, which are like dense (bahalabahala) smoke, because they are located in this way \[illegible\] in the midst of the Impure Path, he very quickly (catches) ‘the soul he has chosen and leads (it towards himself)’ like a fish (caught in a net). The meaning is that by making the vital breaths and senses (karana) etc. (of the soul) one (with his own), (the teacher) drags it along (towards himself). 
+This is the procedure (prayoga) here called ‘the Great Net’. The teacher, established in his own Self as Śiva’s subjectivity (ahaṁbhāva) by nature, ‘(first) rises from the Root’, that is, from the Place of Birth (janmasthāna). (Then,) having awakened the power of the vital breath (prāṇaśakti) as the root cause (of the Great Net), by blocking exhalation, inhalation and breath retention etc. repeatedly, again and again, (he ascends the Staff). The Staff is in the form of a path, because it is the means which is the clearly evident flow (of the breath), and the means (nimitta) due to which it ascends upwards and returns downwards. (It is said to be made of) an ‘infinite number of channels’, because there are thirty-five million (of them). ‘Come forth’ from (that power of the vital breath), they pervade all the body, and so are ‘very extensive’. Being present there as such, the vital breath is of that form. (The teacher) ‘lays hold of it’, that is, having brought (the vital breath) under his own control, with the vitality which is the strength of (his) power, by successively crossing over (the inner centres) beginning with the heart, it reaches the extremity of the cavity of the nose. Having done so, ‘casting forth’ (the breath), that is, causing it to spread out all around externally until, by (not caring to) take up (any) particular (thing), he manages to pervade the universe (as a whole). Thus, ‘having covered over’, that is, encompassed, the entire Path with the multitude of his rays, which are like dense (bahalabahala) smoke, because they are located in this way (tāvat) in the midst of the Impure Path, he very quickly (catches) ‘the soul he has chosen and leads (it towards himself)’ like a fish (caught in a net). The meaning is that by making the vital breaths and senses (karana) etc. (of the soul) one (with his own), (the teacher) drags it along (towards himself). 
 
 611?\. Kṣemarāja quotes this verse it in his commentary on NT 18/1 17a, acknowledging that it is by his teacher Abhinava: iti gurvādiṣṭasaṁpradāyayuktyā. This and the following verse are repeated in chapter 16 of Abhinava’s Tantrasāra. The Root (mūlādhāra, janmasthāna) is the wheel in the genital area. The Staff is the central current of the ascending breath. According to Jayaratha, the vitality to which Abhinava refers is that of consciousness, the energy of the supreme ‘T’. There are 35 million channels of the vital breath. The Void of the nostrils are the cavities of the nose. The smoke represents the capacity to pervade of the power of the senses (the flames) that then pervades the entire universe.
 
@@ -560,7 +560,7 @@ Surely (one may ask), how can the vital breath etc. of fettered souls and teache
 
 ciravighaṭite senāyugme 
 
-yathāmilate punarhayagajanararn svāṁ svāṁ jātiṁn 
+yathāmilate punarhayagajanaraṁ svāṁ svāṁ jātiṁn 
 
 rasād abhidhāvati |
 karaṇapavanair nādīcakrais 
@@ -585,7 +585,7 @@ Surely, one who has died attains that particular condition, such as heaven or he
 *[p. 264]* ^pg284
 
 mahājālasamākṛṣṭo jīvo vijñānaśālinā |
-svahpretatiryaùnirayāmis tadaivaiṣa vimuñcati |l 28 ॥ 
+svahpretatiryaùnirayāmis tadaivaiṣa vimuñcati ॥ 28 ॥ 
 
 The soul (caught and) drawn by the Great Net (cast) by (a teacher) who has the knowledge (of how to do it) is immediately freed from (the worlds of) heaven, ghosts, animals and hell (in which it resided). (28) 
 
@@ -599,7 +599,7 @@ He renders this (teaching) firm by presenting an example.
 योगीव साध्यहदयात्तदा तादात्म्यमुज्डति ॥ २९॥
 
 tajjñānamantrayogāptaḥ puruṣaś caiṣa kṛtrimam |
-yogīva sādhyahṛdayāt tadā tādātmyam ujjhati ॥ 29 Il 
+yogīva sādhyahṛdayāt tadā tādātmyam ujjhati ॥ 29 ॥ 
 
 This soul (puruṣa) who has been captured by the knowledge, mantras, and yoga of that (teacher) immediately abandons (the place in which he resides,) like a yogi who abandons the artificially crafted (kṛtrima) unity (with another person’s body by departing) from the heart of (his) victim (sādhya) with whom he was identified. (29) 
 
@@ -668,7 +668,7 @@ dārbhādidehaṁ vyāpnoti svādhiṣthityāpy acetayan ॥ 33 ॥
 
 Although this soul resides in (his own) body, by virtue of the power of the Net, he (occupies and) pervades the effigy (deha) made of kuśa grass 
 
-617?\. Insert kirn between iti and parokṣa-.
+617?\. Insert kiṁ between iti and parokṣa-.
 
 
 *[p. 266]* ^pg286
@@ -757,7 +757,7 @@ dārbhādidehe mantrāgnāv arpite pūrṇayā saha |
 muktapāśaḥ \[illegible\] yāti punar āvṛttivarjitaḥ ॥ 40 ॥
 sapratyayā tv iyan yatra spandate darbhajā tanuḥ |
 tatra prāṇamanomantrārpaṇayogāt tathā bhavet || 41 ॥
-sābhyāsasya tad apy uktarn balāśvāsi na tatkṛte | 
+sābhyāsasya tad apy uktaṁ balāśvāsi na tatkṛte | 
 
 Thus, the soul brought (here to the image) by the method of the Net (jālakrama) is like one who is in deep sleep, for (it has not) acquired (the necessary) assembly (of instruments to act and perceive,) such as a body endowed with a mind and the rest. (Thus,) it does not move, nor know, say 
 
@@ -796,7 +796,7 @@ tasyāṁ darbhākrtiprāọyakalpane jālayogataḥ ॥ 43 ॥
 
 620?\. “That is said (in)’ — tad uktam — may be a way of introducing a direct citation of the text from which Abhinava is drawing.
 
-621?\. Read tadākṛtir for tatprakṛtirn.
+621?\. Read tadākṛtir for tatprakṛtiṁ.
 
 622?\. Is this another reference drawn from the Haṁsaparameśvara?
 
@@ -804,7 +804,7 @@ tasyāṁ darbhākrtiprāọyakalpane jālayogataḥ ॥ 43 ॥
 *[p. 269]* ^pg289
 
 saṅkalpamātrenṇākarṣo jīvasya mṛtibhītitaḥ |
-Sistan prāgvat kuśādyutthākāraviploṣavarjitam Il 44 Il 
+Sistan prāgvat kuśādyutthākāraviploṣavarjitam || 44 || 
 
 The initiation of a living (aspirant) who is absent should also be performed, as much as possible, by the (same) means (hetu) said (to be operating) to rescue the dead. It is (an initiation) without seed. In that (version of the rite), the (capture and) dragging of the soul by means of the Net into the fashioned image that is like the one made of kusa grass (used for the rite of the dead) is done by means of the imagination alone (saṁkalpamātrena). The rest is as before, except that, for fear that (the disciple) may die, the image made of kuśa grass or the like is not burnt. (42cd-44) 
 
@@ -840,7 +840,7 @@ The Examination of the Strength and Weakness of the Group of Purifications (sa�
 तत्रोत्तरं स्याद्बावत्संस्काराय त्वधस्तनम् ॥ ४६ ॥
 
 parokṣa evātulyābhir dīkṣābhir yadi dīkṣitaḥ |
-tatrottaraṁ syād bālavat saskārāya tv adhastanam II 46 ॥ 
+tatrottaraṁ syād bālavat saskārāya tv adhastanam ॥ 46 ॥ 
 
 Of the (many) incomparable (atulya) initiations with which an absent person (may be) initiated, the strongest is the higher one. The lower one serves to purify (the initiand to prepare him for that). (46) 
 
@@ -920,13 +920,13 @@ He (now) presents a feature (viśesa) (of this rite) taught by another teacher.
 ब्रह्महत्यादिभिः पापैस्तत्स्गश्ोितकेः तदा तस्य न कर्तव्या दीक्षास्मत्नकृते विधौ ॥ ५३ ॥
 
 srīmān dharmaśivo ‘py āha pārokṣyāṁm karmapaddhatau |
-parokṣadīkṣanṇe samyak pūrnṇāhutividhau yadi ॥ 50 ॥
+parokṣadīkṣanṇe samyak pūrṇāhutividhau yadi ॥ 50 ॥
 agniś ciṭiciṭāśabdań sadhūmamri pratimuñcati |
 dhatte nīlīmbudacchāyāmn muhur jvalati śāmyati ॥ 51 |
 vistaro ghorarūpaś ca mahīṁn dhāvati cāpy adhaḥ |
 dhvāmṁkṣādyaśravyaśabdo vā tadā tarn lakṣayed guruḥ ॥ 52 ॥
 brahmahatyādibhiḥ pāpais tatsaṁgaiś copapātakaiḥ |
-tadā tasya na kartavyā dīkṣāsminn akṛte vidhau II 53 ॥ 
+tadā tasya na kartavyā dīkṣāsminn akṛte vidhau ॥ 53 ॥ 
 
 The venerable Dharmaśiva has also said in the Karmapaddhati,\* with regard to (this initiation) in absentia, that if during (this) initiation in 
 
@@ -960,7 +960,7 @@ The teacher should offer a thousand oblations (to the fire) of sesame seeds and 
 
 #### Viveka on 21.54–56
 
-628?\. This procedure, which serves to remove excess sinful impurities from the disciple, extends from verse 54 to 60. Abhinava tells us that it is drawn from the \[illegible\] (6lab). Unfortunately, it is not found in the extant version of the Dīkṣottara. Was it taken from Dharmaśiva’s paddhati?
+628?\. This procedure, which serves to remove excess sinful impurities from the disciple, extends from verse 54 to 60. Abhinava tells us that it is drawn from the Dīkṣottara (6lab). Unfortunately, it is not found in the extant version of the Dīkṣottara. Was it taken from Dharmaśiva’s paddhati?
 
 629?\. \[illegible\] Verses 50-56ab are translated by Sanderson (2006b: 136 n. 481; see also Sanderson 2007: 390 n. 527). He says: “The mantra, substituting the name of the initiand Śivasvāmin, would be \[OM\]
 
@@ -975,7 +975,7 @@ The teacher should offer a thousand oblations (to the fire) of sesame seeds and 
 
 प्रत्यक्षेऽपि स्थितस्याणोः पापिनो भगवन्मयीम् ॥ ५६ ॥
 शक्ति प्राप्तवतो ज्येष्ठामेवमेव विधिं चरेत् |
-pratyakṣe ‘pi sthitasyānoḥ pāpino bhagavanmayī || 56 II sakti prāptavato jyeṣthām evam eva vidhiṁ caret | 
+pratyakṣe ‘pi sthitasyānoḥ pāpino bhagavanmayī || 56 || sakti prāptavato jyeṣthām evam eva vidhiṁ caret | 
 
 This same procedure may be executed also for a sinful soul who is present (before the teacher), (provided that) he has received the (gracious and favourable) power (called) Jyeṣthā,” who is made of the Lord (Himself). (56cd-57ab) 
 
@@ -994,7 +994,7 @@ kṛtvā vidhim \[illegible\] cāpi \[illegible\] kuryād aśaṁkitaḥ ॥ 58 
 
 Or else, if the teacher (feels that he is) not properly (and fully inspired and) energized (dīpta), he may execute this procedure, and so too 
 
-631?\. Śiva’s power has two aspects, aroused and tranquil, embodied in two energies. One obscures the soul and the other liberates it. The first is called Vāmā, the second Jyeṣthā. Concerning Vāmā and Jyesthā, see TĀv ad 4/21cd-22ab note 4,76. In TĀv ad 13/207cd-208ab) (207), Jayaratha quotes the following lines: “Vāmā (is so called because she) emits (vamanāt) the world of transmigration. She is the cover (that obscures) one’s own nature.” Again: ‘Jyeṣthā who is great and full, desiring to gradually withdraw the reality consisting of the series of latent traces that accrue from all worldly experience, is the sole path to liberation.
+631?\. Śiva’s power has two aspects, aroused and tranquil, embodied in two energies. One obscures the soul and the other liberates it. The first is called Vāmā, the second Jyeṣthā. Concerning Vāmā and Jyeṣṭhā, see TĀv ad 4/21cd-22ab note 4,76. In TĀv ad 13/207cd-208ab) (207), Jayaratha quotes the following lines: “Vāmā (is so called because she) emits (vamanāt) the world of transmigration. She is the cover (that obscures) one’s own nature.” Again: ‘Jyeṣthā who is great and full, desiring to gradually withdraw the reality consisting of the series of latent traces that accrue from all worldly experience, is the sole path to liberation.
 
 
 *[p. 275]* ^pg295
@@ -1021,7 +1021,7 @@ sāthyaṁ tatra na kāryaṁ ca tat kṛtvādho vrajec chiśuḥ |
 na punaḥ kīrtayet tasya pāpaṁ kīrtayitā vrajet ॥ 60 ॥
 nirayaṁ varjayet tasmād iti dīkṣottare vidhiḥ | 
 
-(A teacher) who knows reality (tattvavid) may also, even if he is not present in every way, liberate fettered souls as (he) wishes. He is Śiva in person \[illegible\] and so he should always be venerated. The disciple must not be stingy” there (about this). If he is, he goes down (falling to lower realms). Again, (the teacher) should not divulge his (disciple’s) sin. One who divulges (the sin of others) goes to hell. Thus, he should seek to avoid (this). Such is the prescription (vidhi) (taught) in the Dīkṣottara.(59-61ab) 
+(A teacher) who knows reality (tattvavid) may also, even if he is not present in every way, liberate fettered souls as (he) wishes. He is Śiva in person (sākṣāt), and so he should always be venerated. The disciple must not be stingy” there (about this). If he is, he goes down (falling to lower realms). Again, (the teacher) should not divulge his (disciple’s) sin. One who divulges (the sin of others) goes to hell. Thus, he should seek to avoid (this). Such is the prescription (vidhi) (taught) in the Dīkṣottara.(59-61ab) 
 
 #### Viveka on 21.59–61
 
@@ -1029,7 +1029,7 @@ nirayaṁ varjayet tasmād iti dīkṣottare vidhiḥ |
 
 633?\. The sense of sāṭhyam here is vittasāthyam.
 
-634?\. 21/59 corresponds to Dīksṣottara 17/157cd-159, which reads: sarvathāsarvamāno'pi (>vartamāno ‘pi) tatvavin mocayet paśum 157 tatvavit sa \[illegible\] sākṣāt tasmāt taṁ pratipūjayet | mānuṣīth tanum āsādya śive \[illegible\] (> śivajñānaṁ) prayacchati ॥ 158 ॥ tasmāt tatvavidācāryaḥ śivavat pūjayet sadā | māyā tasya na kartavyā kṛtvā \[illegible\] vrajaty ayam (> alam) | 159 ॥ (4 teacher) who knows reality (tattvavid) may also, even if he is not present in every way, liberate the fettered soul. He who knows reality is Śiva in person \[illegible\] and so he should always be worshipped. (157cd-158ab) Having attained a human body, he bestows knowledge of Siva. Therefore, the teacher who knows reality should always be venerated like Śiva (Himself). One should not deceive him. Having deceived him, this (fettered soul) goes (to lower realms). (158cd-159).
+634?\. 21/59 corresponds to Dīksṣottara 17/157cd-159, which reads: sarvathāsarvamāno'pi (>vartamāno ‘pi) tatvavin mocayet paśum 157 tatvavit sa \[illegible\] sākṣāt tasmāt taṁ pratipūjayet | mānuṣīth tanum āsādya śive \[illegible\] (> śivajñānaṁ) prayacchati ॥ 158 ॥ tasmāt tatvavidācāryaḥ śivavat pūjayet sadā | māyā tasya na kartavyā kṛtvā \[illegible\] vrajaty ayam (> alam) | 159 ॥ (4 teacher) who knows reality (tattvavid) may also, even if he is not present in every way, liberate the fettered soul. He who knows reality is Śiva in person (sākṣāt), and so he should always be worshipped. (157cd-158ab) Having attained a human body, he bestows knowledge of Siva. Therefore, the teacher who knows reality should always be venerated like Śiva (Himself). One should not deceive him. Having deceived him, this (fettered soul) goes (to lower realms). (158cd-159).
 
 
 *[p. 276]* ^pg296

@@ -17,8 +17,7 @@ language:
   - English
 pages: 28
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Torzsok - Tolerance and Its Limits in Twelfth-Century Kashmir (2015).pdf]]"
   - "[[Library/Trika/Tolerance and Its Limits in Twelfth-Century Kashmir (Torzsok)]]"

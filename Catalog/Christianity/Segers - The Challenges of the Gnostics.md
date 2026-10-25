@@ -17,8 +17,7 @@ language:
   - English
 pages: 13
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/The Challenges of the Gnostics.pdf]]"
   - "[[Library/Christianity/The Challenges of the Gnostics (Segers)]]"

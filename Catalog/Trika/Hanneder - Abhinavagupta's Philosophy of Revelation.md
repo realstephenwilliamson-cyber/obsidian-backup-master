@@ -18,8 +18,7 @@ language:
   - English
 pages: 305
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Abhinavagupta's Philosophy of Revelation Malini Shloka Vartika I , 1-399 - Jurgen Hanneder.pdf]]"
   - "[[Library/Trika/Abhinavagupta's Philosophy of Revelation (Hanneder)/Abhinavagupta's Philosophy of Revelation (Hanneder)]]"

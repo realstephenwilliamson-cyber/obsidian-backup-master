@@ -5,9 +5,7 @@ section: "An Outline of the Faith"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Misc/catechism.html"
-page_range:
-  - 845
-  - 862
+page_range: "845–862"
 aliases:
   - "BCP 845"
   - "BCP 846"
@@ -32,7 +30,7 @@ aliases:
 
 [[BCP 1979]] · *An Outline of the Faith* · pages 845–862
 
-[p. 845]
+[p. 845] ^pg845
 
 **An Outline of the Faith commonly called the Catechism**
 
@@ -62,7 +60,7 @@ Q, · What help is there for us?
 
 **A.** God first helped us by revealing himself and his will, through nature and history, through many seers and saints, and especially the prophets of Israel.
 
-[p. 846]
+[p. 846] ^pg846
 
 ### God the Father
 
@@ -98,7 +96,7 @@ Q, · What help is there for us?
 
 **Q.** What did God promise them? ^q-13
 
-[p. 847]
+[p. 847] ^pg847
 
 **A.** God promised that they would be his people to bring all the nations of the world to him.
 
@@ -138,7 +136,7 @@ III · To show God respect in thought, word, and deed;
 
 IV · And to set aside regular times for worship, prayer, and the study of God's ways.
 
-[p. 848]
+[p. 848] ^pg848
 
 **Q.** What is our duty to our neighbors? ^q-20
 
@@ -170,7 +168,7 @@ IX · To speak the truth, and not to mislead others by our silence;
 
 **A.** Sin is the seeking of our own will instead of the will of God, thus distorting our relationship with God, with other people, and with all creation.
 
-[p. 849]
+[p. 849] ^pg849
 
 **Q.** How does sin have power over us? ^q-24
 
@@ -206,7 +204,7 @@ IX · To speak the truth, and not to mislead others by our silence;
 
 **A.** We mean that by God's own act, his divine Son received our human nature from the Virgin Mary, his mother.
 
-[p. 850]
+[p. 850] ^pg850
 
 **Q.** Why did he take our human nature? ^q-32
 
@@ -238,7 +236,7 @@ IX · To speak the truth, and not to mislead others by our silence;
 
 **A.** The New Covenant is the new relationship with God given by Jesus Christ, the Messiah, to the apostles; and, through them, to all who believe in him.
 
-[p. 851]
+[p. 851] ^pg851
 
 **Q.** What did the Messiah promise in the New Covenant? ^q-39
 
@@ -276,7 +274,7 @@ IX · To speak the truth, and not to mislead others by our silence;
 
 **A.** This Church uses two creeds: The Apostles' Creed and the Nicene Creed.
 
-[p. 852]
+[p. 852] ^pg852
 
 **Q.** What is the Apostles' Creed? ^q-47
 
@@ -312,7 +310,7 @@ IX · To speak the truth, and not to mislead others by our silence;
 
 **A.** We recognize the presence of the Holy Spirit when we confess Jesus Christ as Lord and are brought into love and harmony with God, with ourselves, with our neighbors, and with all creation.
 
-[p. 853]
+[p. 853] ^pg853
 
 **Q.** How do we recognize the truths taught by the Holy Spirit? ^q-55
 
@@ -374,7 +372,7 @@ IX · To speak the truth, and not to mislead others by our silence;
 
 **A.** The Church is apostolic, because it continues in the teaching and fellowship of the apostles and is sent to carry out Christ's mission to all people.
 
-[p. 855]
+[p. 855] ^pg855
 
 **Q.** What is the mission of the Church? ^q-69
 
@@ -402,7 +400,7 @@ IX · To speak the truth, and not to mislead others by our silence;
 
 **A.** The ministry of a bishop is to represent Christ and his Church, particularly as apostle, chief priest, and pastor of a diocese; to guard the faith, unity, and discipline of the whole Church; to proclaim the Word of God; to act in Christ's name for the reconciliation of the world and the building up of the Church; and to ordain others to continue Christ's ministry.
 
-[p. 856]
+[p. 856] ^pg856
 
 **Q.** What is the ministry of a priest or presbyter? ^q-75
 
@@ -434,7 +432,7 @@ IX · To speak the truth, and not to mislead others by our silence;
 
 **A.** The principal kinds of prayer are adoration, praise, thanksgiving, penitence, oblation, intercession, and petition.
 
-[p. 857]
+[p. 857] ^pg857
 
 **Q.** What is adoration? ^q-82
 
@@ -470,7 +468,7 @@ IX · To speak the truth, and not to mislead others by our silence;
 
 **A.** The sacraments are outward and visible signs of inward and spiritual grace, given by Christ as sure and certain means by which we receive that grace.
 
-[p. 858]
+[p. 858] ^pg858
 
 **Q.** What is grace? ^q-90
 
@@ -504,7 +502,7 @@ IX · To speak the truth, and not to mislead others by our silence;
 
 **Q.** How are the promises for infants made and carried out? ^q-97
 
-[p. 859]
+[p. 859] ^pg859
 
 **A.** Promises are made for them by their parents and sponsors, who guarantee that the infants will be brought up within the Church, to know Christ and be able to follow him.
 
@@ -586,7 +584,7 @@ IX · To speak the truth, and not to mislead others by our silence;
 
 **A.** The Christian hope is to live with confidence in newness and fullness of life, and to await the coming of Christ in glory, and the completion of God's purpose for the world.
 
-[p. 862]
+[p. 862] ^pg862
 
 **Q.** What do we mean by the coming of Christ in glory? ^q-116
 

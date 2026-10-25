@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 10
 verses: 19
-page_range:
-  - 595
-  - 596
+page_range: "595–596"
 aliases:
   - "BCP Psalm 10"
   - "BCP 595"
@@ -35,7 +33,7 @@ the covetous curse and revile the LORD. ^10-3
 **10:4** The wicked are so proud that they care not for God; \*  
 their only thought is, "God does not matter." ^10-4
 
-[p. 595]
+[p. 595] ^pg595
 
 **10:5** Their ways are devious at all times;  
 your judgments are far above out of their sight; \*  
@@ -77,7 +75,7 @@ for you are the helper of orphans. ^10-15
 **10:16** Break the power of the wicked and evil; \*  
 search out their wickedness until you find none. ^10-16
 
-[p. 596]
+[p. 596] ^pg596
 
 **10:17** The LORD is King for ever and ever; \*  
 the ungodly shall perish from his land. ^10-17

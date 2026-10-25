@@ -18,8 +18,7 @@ language:
   - English
 pages: 168
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Devi Mahatmyam English Transliteration.pdf]]"
 aliases:

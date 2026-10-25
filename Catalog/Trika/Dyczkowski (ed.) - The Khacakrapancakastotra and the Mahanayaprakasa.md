@@ -19,8 +19,7 @@ language:
   - English
 pages: 85
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Khacakrapancakastotra and The Mahanayaprakasa-Muktabodha (2007).pdf]]"
   - "[[Library/Trika/The Khacakrapancakastotra and the Mahanayaprakasa (Dyczkowski)/The Khacakrapancakastotra and the Mahanayaprakasa (Dyczkowski)]]"

@@ -17,8 +17,7 @@ language:
   - English
 pages: 152
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Butler - Postmodernism, A Very Short Introduction (2002).pdf]]"
   - "[[Library/Philosophy/Postmodernism, A Very Short Introduction (Butler)/Postmodernism, A Very Short Introduction (Butler)]]"

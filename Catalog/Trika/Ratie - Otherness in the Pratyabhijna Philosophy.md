@@ -17,8 +17,7 @@ language:
   - English
 pages: 58
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Ratie - Otherness in the Pratyabhijna Philosophy (JIP 2007).pdf]]"
   - "[[Library/Trika/Otherness in the Pratyabhijna Philosophy (Ratie)/Otherness in the Pratyabhijna Philosophy (Ratie)]]"

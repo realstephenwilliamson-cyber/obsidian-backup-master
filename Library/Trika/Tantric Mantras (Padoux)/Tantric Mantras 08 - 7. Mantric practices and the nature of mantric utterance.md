@@ -4,7 +4,7 @@ book: "[[Tantric Mantras (Padoux)]]"
 order: 8
 page_range: "95–102"
 ---
-[p. 95]
+[p. 95] ^pg95
 
 # 7 Mantric practices and the nature of mantric utterance[^1]
 

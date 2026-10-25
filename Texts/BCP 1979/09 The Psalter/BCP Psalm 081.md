@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 81
 verses: 16
-page_range:
-  - 704
-  - 705
+page_range: "704–705"
 aliases:
   - "BCP Psalm 81"
   - "BCP 704"
@@ -62,7 +60,7 @@ and Israel would not obey me. ^81-11
 **81:12** So I gave them over to the stubbornness of their hearts, \*  
 to follow their own devices. ^81-12
 
-[p. 705]
+[p. 705] ^pg705
 
 **81:13** Oh, that my people would listen to me! \*  
 that Israel would walk in my ways! ^81-13

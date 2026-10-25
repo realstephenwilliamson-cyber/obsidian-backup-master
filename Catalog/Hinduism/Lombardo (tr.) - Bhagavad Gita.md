@@ -17,8 +17,7 @@ language:
   - English
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Hinduism/Bhagavad Gita (Lombardo, Davis)/Bhagavad Gita (Lombardo, Davis)]]"
 aliases:

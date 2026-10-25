@@ -20,8 +20,7 @@ language:
   - English
 pages: 287
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Danielou - While the Gods Play (1987).pdf]]"
 aliases:

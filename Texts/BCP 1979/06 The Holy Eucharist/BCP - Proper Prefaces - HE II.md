@@ -5,9 +5,7 @@ section: "The Holy Eucharist"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/HE/pphe2.html"
-page_range:
-  - 377
-  - 382
+page_range: "377–382"
 aliases:
   - "BCP 378"
   - "BCP 379"
@@ -19,7 +17,7 @@ aliases:
 
 [[BCP 1979]] · *The Holy Eucharist* · pages 377–382
 
-[p. 377]
+[p. 377] ^pg377
 
 ## Proper Prefaces
 
@@ -39,7 +37,7 @@ Through Jesus Christ our Lord; who on the first day of the week overcame death a
 
 *or the following*
 
-[p. 378]
+[p. 378] ^pg378
 
 ### 3. Of God the Holy Spirit
 
@@ -61,7 +59,7 @@ Because you gave Jesus Christ, your only Son, to be born for us; who, by the mig
 
 Because in the mystery of the Word made flesh, you have caused a new light to shine in our hearts, to give the knowledge of your glory in the face of your Son Jesus Christ our Lord.
 
-[p. 379]
+[p. 379] ^pg379
 
 ### Lent
 
@@ -83,7 +81,7 @@ But chiefly are we bound to praise you for the glorious resurrection of your Son
 
 Through your dearly beloved Son Jesus Christ our Lord. After his glorious resurrection he openly appeared to his disciples, and in their sight ascended into heaven, to prepare a place for us; that where he is, there we might also be, and reign with him in glory.
 
-[p. 380]
+[p. 380] ^pg380
 
 ### Pentecost
 
@@ -107,7 +105,7 @@ For the wonderful grace and virtue declared in all your saints, who have been th
 
 Because in the obedience of your saints you have given us an example of righteousness, and in their eternal joy a glorious pledge of the hope of our calling.
 
-[p. 381]
+[p. 381] ^pg381
 
 *or this*
 
@@ -129,7 +127,7 @@ Because in Jesus Christ our Lord you have received us as your sons and daughters
 
 Because in the love of wife and husband, you have given us an image of the heavenly Jerusalem, adorned as a bride for her bridegroom, your Son Jesus Christ our Lord; who loves her and gave himself for her, that he might make the whole creation new.
 
-[p. 382]
+[p. 382] ^pg382
 
 ### Commemoration of the Dead
 

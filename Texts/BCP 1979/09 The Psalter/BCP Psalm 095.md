@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 95
 verses: 11
-page_range:
-  - 725
-  - 725
+page_range: "725"
 aliases:
   - "BCP Psalm 95"
   - "BCP 725"
@@ -37,7 +35,7 @@ and the heights of the hills are his also. ^95-4
 **95:5** The sea is his, for he made it, \*  
 and his hands have molded the dry land. ^95-5
 
-[p. 725]
+[p. 725] ^pg725
 
 **95:6** Come, let us bow down, and bend the knee, \*  
 and kneel before the LORD our Maker. ^95-6

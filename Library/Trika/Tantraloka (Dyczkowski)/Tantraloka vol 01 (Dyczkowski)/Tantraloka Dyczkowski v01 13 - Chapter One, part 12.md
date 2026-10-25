@@ -23,7 +23,7 @@ We are not (just) voicing a view we have imagined ourselves. Thus, he says:
 यथोक्तं रत्नमालायां सर्वः परकलात्मकः ।। Power.[^1258] ॥
 महानवान्तरो दिव्यो मिश्रोऽन्योऽन्यस्तु पञ्चमः ।
 
-yathoktańi ratnamālāyāri sarvaḥ parakalātmakaḥ || 275 Il mahān avāntaro divyo miśro ‘nyo ‘nyas tu pañcamaḥ | 
+yathoktańi ratnamālāyāri sarvaḥ parakalātmakaḥ || 275 || mahān avāntaro divyo miśro ‘nyo ‘nyas tu pañcamaḥ | 
 
 As is said in the Ratnamālā, (the relationships termed) ‘Great’ (mahat), ‘Intermediate’ (avāntara), ‘Divine’ (divya), ‘Mixed’, which is another, and the ‘Other’ (than divine), which is the fifth, are all the Supreme Power.” (275cd-276ab) (274) 
 
@@ -104,7 +104,7 @@ The ‘supreme state’ is ‘the realisation (prathā) of complete oneness (pū
 
 ‘O Supreme Goddess, all (forms of) relationship (between the master and disciple) are the Supreme Power, (whether) ‘Great’, ‘Intermediate’, ‘Divine’, ‘Mixed’ and the Non-divine (i.e. Human), that comes after that.” 
 
-1267\. Abhinava quotes the following reference from the Svacchandatantra in his commentary on the Parātrīśikā. The same verse is quoted below in TĀv ad 35/26-27 note 35,24, where the commentary on this and following verses is translated. guruśiṣyapade sthitvā svayarn devaḥ sadāśivaḥ ॥ pūrvottarapadair vākyais tantram ādhārabhedataḥ | ‘Having established himself on the plane of teacher and disciple, the god Sadāśiva (created) the Tantra by means of statements made of questions and answers, based on the distinction between (their) ground (as the Lord and recipient of the teaching). (SvT 8/31cd-32ab) ‘In this way, the power of grace is perpetually present, and never sets within every perceiver. It is this supreme relationship which is the sole life of the essence of the Trika scriptures. This is because here within the Absolute (Anuttara), according to the aforementioned teaching, all the other relationships - Great, Intermediate, Divine, Non-divine and the rest, are one with the Supreme One. That is said in the Trikahṛdaya (where we read): ‘the Supreme Lord, Who is always intent on emitting into His own power, is grace by nature and, free of constraint, the creator and destroyer (of all things). Such is the ever emergent (immanent and active) state (in terms of) this process. As the Supreme Lord, Who is consciousness, is the ultimate reality which is such (at the supreme level of Speech), the inner reality which shines 1 him) as undivided is contemplated on the plane of the Speech of Vision as the (initial) intention to differentiate the phrases, words and phonemes (that manifest on the following levels of Speech). (Then,) on the plane of the Middle Speech, it is (in the process of being) divided up, until it finally (comes) to possess (the form of) Corporeal Speech, as the composition (racanā) of sentences made of up of separate (bhinna) phenomenal (māyïya) phonemes and words . . . \[of the statements of the scriptures\] that concern (and are based on) reality (vastupūrvaka). That is itself the invisible face of Bhairava, which is the reflective awareness of emission (visarga). It is the arousal (kṣobha) which is the attainment of the union of Śiva and His Power in the form of the letters A (which stands for anuttara, the Absolute) and Ā (which stands for काकवत, bliss) (respectively), the essence of which is the Absolute (corresponding to Śiva) and (pure) ‘T’ consciousness (corresponding to His power). This is the seed of the unfolding flow (prasara) of the Trika scriptures, the Stable Plane (dhruvapada), the Root (reality), and the vital principle of all living beings. \^ \^ ~ The nature of reality (itself) (vastu) is question and its answer, ever emergent (and active) (satatodita), which is initially (one and) undivided. Thus, such is here the (essential intended) sense (tātparya). One's own Self, which is by nature all things and is perceived by itself, contemplates itself by means of question and answer, which are not separate from its own nature, as the subjectivity (ahantā) consisting of the one who questions and the one who answers, thereby (inspiring itself with) wonder. (The words of each particular scripture thus arise progressively in consonance with the emergence of the desire that) ‘I wish (to experience) this kind of diverse (and beautiful) wonder (vicitracamatkāra) and then, knowing in that way, I am such (as exemplified by three sections of the Parātrīśikā) beginning with ‘the goddess (asking), “how is the Absolute?” Then in the middle: ‘Bhairava said: “listen O goddess” up to (the words) “this is the Rudra couple (in union)” (at the end). Or else (the same process can be understood to take place with respect to) all the scriptures that originate from the five currents until they arrive progressively to the (level of the) business of daily life. This is said to be the supreme relationship (between the one who utters the teachings and the one who receives them).’ PTv pp. 12-16. Abhinava adds in the same PTv (p. 64-65): ‘Consciousness, the Goddess Parā, flows forth (spontaneously) by its very nature. Parā is said to be the power of the will and (undivided from) Bhairava does not divide Him. Her form is the power of knowledge etc. which are the attributes (of Her) flow, and it sustains the body of the (Speech of) Vision and the rest (of the levels of Speech), the nature of which are Parāparā and Aparā. Such is that act of reflection (parāmarśana) on the nature of the form of (Her) flow which is the question the Goddess, who poses questions of that nature, asks. The act of reflection on the nature of that flow is said to be supreme, its nature indicative (rūpaka) of (both) that question and the answer. Moreover, commencing from the inner state of the other consciousness (that replies), the body of Bhairava which has internalized the entire flow, again serves as the means of withdrawing the bliss of the dense (uninterrupted) supreme consciousness, and unfolds perpetually in the form of the one who replies. These two, the flow and withdrawal, are undifferentiated by time, and so this reality, which is their one nature, is (both) question and answer. That is itself the supreme relationship (parasaṁbandha) endowed with the state of the Absolute (anuttaratā). In the past the teachers have described this as the wealth of the essence of Trika (ṣadardha).”
+1267\. Abhinava quotes the following reference from the Svacchandatantra in his commentary on the Parātrīśikā. The same verse is quoted below in TĀv ad 35/26-27 note 35,24, where the commentary on this and following verses is translated. guruśiṣyapade sthitvā svayaṁ devaḥ sadāśivaḥ ॥ pūrvottarapadair vākyais tantram ādhārabhedataḥ | ‘Having established himself on the plane of teacher and disciple, the god Sadāśiva (created) the Tantra by means of statements made of questions and answers, based on the distinction between (their) ground (as the Lord and recipient of the teaching). (SvT 8/31cd-32ab) ‘In this way, the power of grace is perpetually present, and never sets within every perceiver. It is this supreme relationship which is the sole life of the essence of the Trika scriptures. This is because here within the Absolute (Anuttara), according to the aforementioned teaching, all the other relationships - Great, Intermediate, Divine, Non-divine and the rest, are one with the Supreme One. That is said in the Trikahṛdaya (where we read): ‘the Supreme Lord, Who is always intent on emitting into His own power, is grace by nature and, free of constraint, the creator and destroyer (of all things). Such is the ever emergent (immanent and active) state (in terms of) this process. As the Supreme Lord, Who is consciousness, is the ultimate reality which is such (at the supreme level of Speech), the inner reality which shines 1 him) as undivided is contemplated on the plane of the Speech of Vision as the (initial) intention to differentiate the phrases, words and phonemes (that manifest on the following levels of Speech). (Then,) on the plane of the Middle Speech, it is (in the process of being) divided up, until it finally (comes) to possess (the form of) Corporeal Speech, as the composition (racanā) of sentences made of up of separate (bhinna) phenomenal (māyïya) phonemes and words . . . \[of the statements of the scriptures\] that concern (and are based on) reality (vastupūrvaka). That is itself the invisible face of Bhairava, which is the reflective awareness of emission (visarga). It is the arousal (kṣobha) which is the attainment of the union of Śiva and His Power in the form of the letters A (which stands for anuttara, the Absolute) and Ā (which stands for काकवत, bliss) (respectively), the essence of which is the Absolute (corresponding to Śiva) and (pure) ‘T’ consciousness (corresponding to His power). This is the seed of the unfolding flow (prasara) of the Trika scriptures, the Stable Plane (dhruvapada), the Root (reality), and the vital principle of all living beings. \^ \^ ~ The nature of reality (itself) (vastu) is question and its answer, ever emergent (and active) (satatodita), which is initially (one and) undivided. Thus, such is here the (essential intended) sense (tātparya). One's own Self, which is by nature all things and is perceived by itself, contemplates itself by means of question and answer, which are not separate from its own nature, as the subjectivity (ahantā) consisting of the one who questions and the one who answers, thereby (inspiring itself with) wonder. (The words of each particular scripture thus arise progressively in consonance with the emergence of the desire that) ‘I wish (to experience) this kind of diverse (and beautiful) wonder (vicitracamatkāra) and then, knowing in that way, I am such (as exemplified by three sections of the Parātrīśikā) beginning with ‘the goddess (asking), “how is the Absolute?” Then in the middle: ‘Bhairava said: “listen O goddess” up to (the words) “this is the Rudra couple (in union)” (at the end). Or else (the same process can be understood to take place with respect to) all the scriptures that originate from the five currents until they arrive progressively to the (level of the) business of daily life. This is said to be the supreme relationship (between the one who utters the teachings and the one who receives them).’ PTv pp. 12-16. Abhinava adds in the same PTv (p. 64-65): ‘Consciousness, the Goddess Parā, flows forth (spontaneously) by its very nature. Parā is said to be the power of the will and (undivided from) Bhairava does not divide Him. Her form is the power of knowledge etc. which are the attributes (of Her) flow, and it sustains the body of the (Speech of) Vision and the rest (of the levels of Speech), the nature of which are Parāparā and Aparā. Such is that act of reflection (parāmarśana) on the nature of the form of (Her) flow which is the question the Goddess, who poses questions of that nature, asks. The act of reflection on the nature of that flow is said to be supreme, its nature indicative (rūpaka) of (both) that question and the answer. Moreover, commencing from the inner state of the other consciousness (that replies), the body of Bhairava which has internalized the entire flow, again serves as the means of withdrawing the bliss of the dense (uninterrupted) supreme consciousness, and unfolds perpetually in the form of the one who replies. These two, the flow and withdrawal, are undifferentiated by time, and so this reality, which is their one nature, is (both) question and answer. That is itself the supreme relationship (parasaṁbandha) endowed with the state of the Absolute (anuttaratā). In the past the teachers have described this as the wealth of the essence of Trika (ṣadardha).”
 
 
 *[p. 457]* ^pg471
@@ -374,7 +374,7 @@ What is the purpose of writing such (an extensive) book? With this doubt in mind
 iti saptādhikām साकी (कवक yah sadā budhaḥ |
 āhnikānām samabhyasyet sa sākṣād bhairavo bhavet ॥ 286 ॥
 saptatriṁśatsu sampūrṇabodho yad bhairavo bhavet |
-kir citram aṇavo ‘py asya dṛśā bhairavatām iyuḥ ॥ 287 I| 
+kir citram aṇavo ‘py asya dṛśā bhairavatām iyuḥ ॥ 287 ॥ 
 
 Thus, the wise man who constantly (and assiduously) practices these thirty-seven chapters becomes Bhairava Himself in person (directly visible) (sākṣāt)." He whose awakened understanding of the thirty-seven (chapters) is perfectly complete (and His perfectly full consciousness (pervades) within the thirty-seven (principles)) is Bhairava, what wonder is it if by his (mere) glance, individual souls (also) attain Bhairava’s state? (286-287) (284cd-286ab) 
 
@@ -621,7 +621,7 @@ purifiers etc., g) the various types of initiation, h) the supreme deposition, i
 अध्वभेदस्तथेत्येवं कथितं पौत्रिके विधौ ।
 
 17\) sūtraklṛptis tattvaśuddhiḥ pāśadāho ‘tha yojanam || 311 ॥
-adhvabhedas tathety evan kathitarn pautrike vidhau | 
+adhvabhedas tathety evan kathitaṁ pautrike vidhau | 
 
 17\) 
 
@@ -634,11 +634,11 @@ The procedure pertaining to the apprentice (putraka) is explained in this way: a
 कालावेक्षा कृपाण्यादिन्यासश्चारः शरीरगः ।। ३१३ ॥
 ्रह्मविद्याविधिशैवमुक्तं सद्यःसमुत््रमे ।
 
-18\) jananādivihīnatvarnṁ mantrabhedo ‘tha susphuṭaḥ || 312 Il iti sahkṣiptadīkṣākhye syād aṣtādaśa āhnike |
+18\) jananādivihīnatvaṁ mantrabhedo ‘tha susphuṭaḥ || 312 || iti sahkṣiptadīkṣākhye syād aṣtādaśa āhnike |
 19) kālāvekṣā kṛpā 1) 
 
 cāraḥ śarīragaḥ ॥ 313 ॥
-brahmavidyāvidhiś caivam uktarn sadyahsamutkrame | 
+brahmavidyāvidhiś caivam uktaṁ sadyahsamutkrame | 
 
 18\) 
 
@@ -693,7 +693,7 @@ tadvibhāgaḥ sādhakatvam abhiṣekavidhau tv iyat |
 24) adhikāry atha saṁskāras tatprayojanam ity adaḥ ॥ 318
 ॥ 
 
-taturvihśe ‘ntyayāgākhye vaktavyarn paricarcyate | 
+taturvihśe ‘ntyayāgākhye vaktavyaṁ paricarcyate | 
 
 23\) 
 
@@ -882,7 +882,7 @@ Concluding this (topic), he introduces another one.
 इत्युदेशविधिः प्रोक्तः सुखसंग्रहहेतवे ।
 अथास्य लक्षणावेक्षे निरूप्यते यथाक्रमम् ।। ३३०॥
 ity uddeśavidhiḥ proktaḥ sukhasahigrahahetave |
-athāsya lakṣaṇāvekṣe nirūpyete yathākramam ॥ 330 II 
+athāsya lakṣaṇāvekṣe nirūpyete yathākramam ॥ 330 ॥ 
 
 1314\. See below, 9/50cd-53ab. This is Śuddha Vidyā, the first of the series of five pure principles in which nonduality prevails.
 
@@ -976,15 +976,15 @@ Surely (one may ask,) it was said that the unfolding experience (prathana) of th
 mithyājñānar timiram asamān dṛṣtṭidoṣān prasūte 
 
 tatsadbhāvād vimalamapi tad bhāti mālinyadhāma |
-yat tu prekṣyaṁ dṛśi parigatarn taimirīṁn doṣamudrāmn 
+yat tu prekṣyaṁ dṛśi parigataṁ taimirīṁn doṣamudrāmn 
 
-dūra runddhet prabhavatu katharn tatra mālinyaśaṁkā ॥ 332 II 
+dūra runddhet prabhavatu kathaṁ tatra mālinyaśaṁkā ॥ 332 ॥ 
 
 False knowledge is a darkness that gives birth to (countless) unique defects of vision. It is due to its existence (sadbhāva) that (consciousness), although (perfectly) pure, appears to be the abode of impurity. What one should perceive, (once placed) around the eye (like collyrium), should block (and remove) to a great distance the disease of (that) darkness which seals (the eyes) (doṣamudrā). How (then) could doubt (that there is any) impurity there prevail (again)? (332) (331) 
 
 #### Viveka on 1.331
 
-‘Darkness’ is the Individual Impurity (āṇavamala) which is ‘false knowledge’, that is, the perception of duality (bhedaprathā), which is incomplete (apūrṇa) knowledge (vedana). ‘Vision’ is full (and complete) (pūrṇa) consciousness. It generates ‘(countless) unique defects’, such as the mistaken identification (of the Self with the body,) which is not the Self. Thus, because false knowledge exists, although that consciousness (काव) is ‘pure’ and also full, it ‘appears to be the abode of impurity’, that is, it manifests itself as incomplete (apūrna) by its own freedom. Thus, (it operates in this way) in the commerce of daily existence, as such is the extent of reality (manifest in the state of bondage). But on the contrary, what one should perceive as the goal, that is, (what) one must certainly know, is (that) full (and all-embracing) consciousness’? which is one with the supreme subject. (It is said): 
+‘Darkness’ is the Individual Impurity (āṇavamala) which is ‘false knowledge’, that is, the perception of duality (bhedaprathā), which is incomplete (apūrṇa) knowledge (vedana). ‘Vision’ is full (and complete) (pūrṇa) consciousness. It generates ‘(countless) unique defects’, such as the mistaken identification (of the Self with the body,) which is not the Self. Thus, because false knowledge exists, although that consciousness (काव) is ‘pure’ and also full, it ‘appears to be the abode of impurity’, that is, it manifests itself as incomplete (apūrṇa) by its own freedom. Thus, (it operates in this way) in the commerce of daily existence, as such is the extent of reality (manifest in the state of bondage). But on the contrary, what one should perceive as the goal, that is, (what) one must certainly know, is (that) full (and all-embracing) consciousness’? which is one with the supreme subject. (It is said): 
 
 ‘I am not the vital breath, nor the body. I am not the mind, nor am I the intellect, ego or intelligence (dhī). I am that aspect which is the knower (jñārśa) who is here (amongst them).” 
 
@@ -1024,7 +1024,7 @@ bhāvavrāta haṭhājjanasya hṛdayānyākramya yannartayan
 bhaṁgībhirvividhābhirātmahṛdayaṁ pracchādya saṁkrīdase |
 yastvāmāha jadari jadaḥ sahṛdayaimanyatvaduhśikṣito 
 
-manye ‘muṣya jadātmatā stutiadarn tvatsāmyasambhāvanāt || 333 ॥ 
+manye ‘muṣya jadātmatā stutiadaṁ tvatsāmyasambhāvanāt || 333 ॥ 
 
 1328\. Here it appears that Jayaratha is departing from Abhinavagupta, who says, as I have translated, that the object of perception is transcended. If that is so, it is hard to understand how it can serve to cleanse perception, as Jayaratha maintains. Perhaps the point is that as the act of transcending the object in the moment of perception propels awareness into a state of pure consciousness, the object serves as a springboard and hence cleanses the vision of the fettered soul, which is focused on the object, not on the pure consciousness which transcends it. More directly, Jayaratha seems to mean that the true object of perception as ‘that which is to be seen’ (prekṣya) is Śiva Himself. The ‘emptiness’ of the first moment in the act of perception is the plenitude of Śiva consciousness, which cleanses the vision of obscuring thought constructs that arise in the second moment. Anyway, the practice is to perceive without elaboration. We just look at things without going into what they are specifically. In this way, it is possible to experience the underlying fundamental consciousness, which is not objective, and so is not subject to the limitations of objectivity. In the Buddhist Yoga of Naropa, this practice is likened to how a child looks with wonder at the paintings on the wall of a monastery with no idea of what they represent.
 

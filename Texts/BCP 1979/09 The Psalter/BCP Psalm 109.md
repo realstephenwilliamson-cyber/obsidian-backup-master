@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 109
 verses: 30
-page_range:
-  - 751
-  - 753
+page_range: "751–753"
 aliases:
   - "BCP Psalm 109"
   - "BCP 751"
@@ -28,7 +26,7 @@ Hebrew text and JPS translation: [[Psalms 109]]
 for the mouth of the wicked,  
 the mouth of the deceitful, is opened against me. ^109-1
 
-[p. 751]
+[p. 751] ^pg751
 
 **109:2** They speak to me with a lying tongue; \*  
 they encompass me with hateful words  
@@ -70,7 +68,7 @@ and his mother's sin not be blotted out; ^109-13
 **109:14** Let their sin be always before the LORD; \*  
 but let him root out their names from the earth; ^109-14
 
-[p. 752]
+[p. 752] ^pg752
 
 **109:15** Because he did not remember to show mercy, \*  
 but persecuted the poor and needy  
@@ -110,7 +108,7 @@ they see and shake their heads. ^109-24
 **109:25** Help me, O LORD my God; \*  
 save me for your mercy's sake. ^109-25
 
-[p. 753]
+[p. 753] ^pg753
 
 **109:26** Let them know that this is your hand, \*  
 that you, O LORD, have done it. ^109-26

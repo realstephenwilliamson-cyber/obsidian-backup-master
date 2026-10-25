@@ -18,7 +18,7 @@ language:
 pages: 34
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Torella_A_Vais_n_ava_Parama_dvaita_in_10.pdf]]"
   - "[[Library/Trika/A Vaisnava Paramadvaita in 10th-Century Kashmir (Torella)]]"

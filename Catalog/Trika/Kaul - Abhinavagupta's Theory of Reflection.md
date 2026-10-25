@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 324
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Kaul_PhD_S2016.pdf]]"
   - "[[Library/Trika/Abhinavagupta's Theory of Reflection (Kaul)/Abhinavagupta's Theory of Reflection (Kaul)]]"

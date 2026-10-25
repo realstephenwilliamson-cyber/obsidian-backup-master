@@ -4,7 +4,7 @@ book: "[[Play as Symbol of the World (Fink)]]"
 order: 9
 page_range: "229–233"
 ---
-[p. 229]
+[p. 229] ^pg229
 
 ## Play and Philosophy {1966}
 

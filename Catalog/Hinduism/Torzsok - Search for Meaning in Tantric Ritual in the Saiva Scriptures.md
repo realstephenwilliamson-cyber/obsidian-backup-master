@@ -17,8 +17,7 @@ language:
   - English
 pages: 31
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Search_for_Meaning_in_Tantric_Ritual_in.pdf]]"
   - "[[Library/Hinduism/Search for Meaning in Tantric Ritual in the Saiva Scriptures (Torzsok)]]"

@@ -18,8 +18,7 @@ language:
   - English
 pages: 349
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/(Automatic Society 1) The Future of Work (2017).pdf]]"
   - "[[Library/Philosophy/Automatic Society, Volume 1 (Stiegler)/Automatic Society, Volume 1 (Stiegler)]]"

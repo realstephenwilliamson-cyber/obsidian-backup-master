@@ -17,8 +17,7 @@ language:
   - English
 pages: 436
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Watson - The Self's Awareness of Itself, Bhatta Ramakantha against the Buddhist No-Self.pdf]]"
   - "[[Library/Trika/The Self's Awareness of Itself (Watson)/The Self's Awareness of Itself (Watson)]]"

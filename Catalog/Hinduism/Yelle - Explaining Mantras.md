@@ -17,8 +17,7 @@ language:
   - English
 pages: 190
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Yelle - Explaining Mantras (2003).pdf]]"
   - "[[Library/Hinduism/Explaining Mantras - Ritual, Rhetoric, and the Dream (Yelle)/Explaining Mantras - Ritual, Rhetoric, and the Dream (Yelle)]]"

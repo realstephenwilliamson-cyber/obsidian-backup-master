@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 54
 verses: 7
-page_range:
-  - 660
-  - 660
+page_range: "660"
 aliases:
   - "BCP Psalm 54"
   - "BCP 660"
@@ -38,7 +36,7 @@ it is the Lord who sustains my life. ^54-4
 **54:5** Render evil to those who spy on me; \*  
 in your faithfulness, destroy them. ^54-5
 
-[p. 660]
+[p. 660] ^pg660
 
 **54:6** I will offer you a freewill sacrifice \*  
 and praise your Name, O LORD, for it is good. ^54-6

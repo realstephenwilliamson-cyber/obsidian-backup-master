@@ -6,7 +6,7 @@ page_range: "53–57"
 aliases:
   - "Gita (Lombardo) 9"
 ---
-[p. 53]
+[p. 53] ^pg53
 
 ## Chapter Nine
 

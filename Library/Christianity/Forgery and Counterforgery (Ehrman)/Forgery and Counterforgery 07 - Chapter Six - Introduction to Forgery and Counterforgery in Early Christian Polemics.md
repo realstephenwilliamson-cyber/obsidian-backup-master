@@ -6,13 +6,13 @@ page_range: "147–154"
 ---
 [[Forgery and Counterforgery 06 - Chapter Five - Forgery in Antiquity - Motives, Techniques, Intentions, Justifications, and Criteria|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 08 - Chapter Seven - Early Pauline Forgeries Dealing with Eschatology|next →]]
 
-[p. 147]
+[p. 147] ^pg147
 
 ## Part II: Forgery in Early Christian Polemics
 
-[p. 148]
+[p. 148] ^pg148
 
-[p. 149]
+[p. 149] ^pg149
 
 ## Chapter Six: Introduction to Forgery and Counterforgery in Early Christian Polemics
 
@@ -48,4 +48,4 @@ As should be clear from this overview, my concern in the study is less with esta
 
 It is my view that in every instance of forgery that I discuss, the intention of the forger was to deceive his readers into thinking he was someone other than who he was; his motivation was not only to receive a simple hearing of his views (although certainly that) but also to authorize his views through the authority provided by the status of his falsely assumed authorial name. His goal was to advance his own polemical agenda.
 
-[p. 154]
+[p. 154] ^pg154

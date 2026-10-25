@@ -3,7 +3,7 @@ type: text
 work: "Chrysostom - Homilies on the Gospel of John"
 author: John Chrysostom
 homily: 71
-scripture: "John 13:1–18"
+scripture: "John 13:12–18"
 series: "Nicene and Post-Nicene Fathers, First Series"
 volume: 14
 editor: Philip Schaff

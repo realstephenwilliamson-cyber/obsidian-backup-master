@@ -15,8 +15,7 @@ type: text
 language: []
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Texts/Zohar/Sefaria/Zohar (Soncino)]]"
 aliases: []

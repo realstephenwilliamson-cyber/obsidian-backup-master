@@ -17,8 +17,7 @@ language:
   - English
 pages: 161
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Coogan - The Old Testament, A Very Short Introduction (2008).pdf]]"
   - "[[Library/Biblical-Studies/The Old Testament, A Very Short Introduction (Coogan)/The Old Testament, A Very Short Introduction (Coogan)]]"

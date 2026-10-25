@@ -17,8 +17,7 @@ language:
   - French
 pages: 22
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Padoux - Contributions a l'etude du mantrasastra I (1978).pdf]]"
   - "[[Library/Trika/Contributions a l'etude du mantrasastra, I (Padoux)]]"

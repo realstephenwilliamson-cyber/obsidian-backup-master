@@ -240,7 +240,7 @@ Projection of the Sacred Seats onto One’s Own Body and That of the Consort in 
 
 The 
 
-Sacrifice of Nine (navayāga) Low Caste Women with Kālasaṁkarṣinī in the Centre, verses 66-81, pages 259-277 The Repetition of Mantra, verses 82-95, pages 277-284 
+Sacrifice of Nine (navayāga) Low Caste Women with Kālasaṁkarṣiṇī in the Centre, verses 66-81, pages 259-277 The Repetition of Mantra, verses 82-95, pages 277-284 
 
 Locations for the Repetition of Mantra According to the Yogasamcāra, verses 82-9140, pages 277-283 
 
@@ -424,11 +424,11 @@ Monier-Williams Munq
 
 Mundaka Upaniṣad MT 
 
-Mṛgendratantra MrTvK 
+Mṛgendratantra MṛTvK 
 
-Mṛgendratantravṛtti Kriyāpāda MrKri 
+Mṛgendratantravṛtti Kriyāpāda MṛKri 
 
-Mṛgendratantra Kriyāpāda MrV 
+Mṛgendratantra Kriyāpāda MṛV 
 
 Mṛgendratantra Vidyāpāda NGMPP 
 
@@ -438,7 +438,7 @@ Nityāṣodaśikārnava NB
 
 Nyāyabindu NBT 
 
-Nyāyabindutīkā NT 
+Nyāyabinduṭīkā NT 
 
 Netratantra NTu 
 
@@ -466,7 +466,7 @@ Paramārthasāra PV
 
 Pramāṇavārtika PVi 
 
-Pramānṇaviniścaya PrHr 
+Pramānṇaviniścaya PrHṛ 
 
 Pratyabhijñāhṛdaya RSO 
 
@@ -498,7 +498,7 @@ Spandakārikā SpNi
 
 Spandanirṇaya SpPra 
 
-Spandapradīpikā SpSarn 
+Spandapradīpikā SpSaṁ 
 
 P andasadoha ŚDr 
 

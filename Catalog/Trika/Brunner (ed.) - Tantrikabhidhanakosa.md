@@ -23,8 +23,7 @@ language:
   - Sanskrit
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Brunner, Oberhammer, Padoux - Tantrikabhidhanakosa I (2000).pdf]]"
   - "[[Library/Trika/Brunner, Oberhammer, Padoux - Tantrikabhidhanakosa II (2004).pdf]]"

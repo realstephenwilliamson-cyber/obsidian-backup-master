@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 102
 verses: 28
-page_range:
-  - 731
-  - 733
+page_range: "731–733"
 aliases:
   - "BCP Psalm 102"
   - "BCP 731"
@@ -60,7 +58,7 @@ and I wither like the grass. ^102-11
 **102:12** But you, O LORD, endure for ever, \*  
 and your Name from age to age. ^102-12
 
-[p. 732]
+[p. 732] ^pg732
 
 **102:13** You will arise and have compassion on Zion,  
 for it is time to have mercy upon her; \*  
@@ -103,7 +101,7 @@ your years endure throughout all generations. ^102-24
 **102:25** In the beginning, O LORD, you laid the foundations of the earth, \*  
 and the heavens are the work of your hands; ^102-25
 
-[p. 733]
+[p. 733] ^pg733
 
 **102:26** They shall perish, but you will endure;  
 they all shall wear out like a garment; \*  

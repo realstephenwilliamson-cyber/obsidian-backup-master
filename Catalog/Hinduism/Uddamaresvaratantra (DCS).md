@@ -16,8 +16,7 @@ language:
   - Sanskrit
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Texts/DCS/Uddamaresvaratantra/Uddamaresvaratantra]]"
 aliases: []
@@ -33,4 +32,4 @@ The Sanskrit text in roman transliteration from the Digital Corpus of Sanskrit (
 
 The text appears to be the DCS's segmented reading text, with the vowel sandhi between words undone, rather than an edition's wording (seen in samples, not checked against print).
 
-Details from the source's own metadata, as the cloud build of October 2026 recorded them; not checked against a printed copy; `status: keep` since 14 Oct 2026, as a primary text kept as notes.
+Details from the source's own metadata, as the cloud build of October 2026 recorded them; not checked against a printed copy; accepted on 14 Oct 2026 as a primary text kept as notes.

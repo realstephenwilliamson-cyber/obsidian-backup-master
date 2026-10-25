@@ -17,8 +17,7 @@ language:
   - English
 pages: 30
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Prayer_Booklet.pdf]]"
 aliases: []

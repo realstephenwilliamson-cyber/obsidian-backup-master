@@ -18,7 +18,7 @@ language:
 pages: 466
 text: print
 status: reading
-physical_copy: true
+print: true
 files: []
 aliases: []
 ---

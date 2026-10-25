@@ -17,8 +17,7 @@ language:
   - English
 pages: 210
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Sen Sharma - The Philosophy of Sadhana (SUNY 1990).pdf]]"
   - "[[Library/Trika/The Philosophy of Sadhana (SenSharma)/The Philosophy of Sadhana (SenSharma)]]"

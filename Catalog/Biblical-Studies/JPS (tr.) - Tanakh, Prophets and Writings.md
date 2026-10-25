@@ -18,8 +18,7 @@ language:
   - "English"
 pages:
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Texts/Bible/Tanakh/Tanakh]]"
 aliases: []

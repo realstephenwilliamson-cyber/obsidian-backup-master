@@ -5,9 +5,7 @@ section: "The Daily Office"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/DailyOffice/direct.html"
-page_range:
-  - 141
-  - 143
+page_range: "141–143"
 aliases:
   - "BCP 141"
   - "BCP 142"
@@ -17,7 +15,7 @@ aliases:
 
 [[BCP 1979]] · *The Daily Office* · pages 141–143
 
-[p. 141]
+[p. 141] ^pg141
 
 ## Additional Directions
 
@@ -51,7 +49,7 @@ world without end. Amen.
 
 Metrical versions of the Invitatory Psalms, and of the Canticles after the Readings, may be used.
 
-[p. 142]
+[p. 142] ^pg142
 
 In special circumstances, in place of a Canticle, a hymn may be sung.
 

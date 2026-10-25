@@ -6,7 +6,7 @@ page_range: "49–52"
 aliases:
   - "Gita (Lombardo) 8"
 ---
-[p. 49]
+[p. 49] ^pg49
 
 ## Chapter Eight
 

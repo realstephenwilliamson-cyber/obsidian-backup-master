@@ -18,8 +18,7 @@ language:
   - Sanskrit
 pages: 402
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[1887_35808-Full Text.pdf]]"
 aliases:

@@ -17,8 +17,7 @@ language:
   - English
 pages: 18
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[The_12_Kalis.pdf]]"
   - "[[Library/Trika/The Twelve Kalis and Utpaladeva's Appraisal of the Sensory (Wenta)]]"

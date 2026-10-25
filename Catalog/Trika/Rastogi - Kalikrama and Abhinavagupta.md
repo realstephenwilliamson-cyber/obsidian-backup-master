@@ -17,8 +17,7 @@ language:
   - English
 pages: 12
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Rastogi - Kalikrama and Abhinavagupta, The Epistemological Ethos of a Tantric Tradition.pdf]]"
   - "[[Library/Trika/Kalikrama and Abhinavagupta (Rastogi)]]"

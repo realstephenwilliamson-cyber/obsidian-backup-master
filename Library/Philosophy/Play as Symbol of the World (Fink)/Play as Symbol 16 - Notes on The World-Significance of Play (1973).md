@@ -4,7 +4,7 @@ book: "[[Play as Symbol of the World (Fink)]]"
 order: 16
 page_range: "283–292"
 ---
-[p. 283]
+[p. 283] ^pg283
 
 ## Notes on “The World-Significance of Play” {1973}
 
@@ -360,7 +360,7 @@ Play of the world?
 
 The essential world-significance of play does not lie in its possible character of being a *model* for a universal understanding of the world (as, for instance, in Heraclitus’s παῖς παίζων—or in Nietzsche’s hymnal encomium of chance, happenstance, and the divine game of dice), it lies in the position of *cosmic openness* that the playing human being *is*.[^22]
 
-[p. 292]
+[p. 292] ^pg292
 
 ### {Text 15}
 

@@ -20,8 +20,7 @@ language:
   - English
 pages: 221
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Book-3-Durga-Puja.pdf]]"
 aliases:

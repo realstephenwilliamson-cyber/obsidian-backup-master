@@ -4,7 +4,7 @@ title: "Jewish Mysticism"
 author: ["Kalman P. Bland"]
 work: "[[Catalog/Judaica/Bland - Jewish Mysticism]]"
 source_pdf: "Library/Judaica/Jewish Mysticism Guidebook.pdf"
-pages: "2–22"
+page_range: "2–22"
 pdf_pages: "1–14"
 text_source: "the PDF's earlier OCR text layer (a scan), PyMuPDF"
 converted: 2026-10-22

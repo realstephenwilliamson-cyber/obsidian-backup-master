@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Olivelle (ed.) - The Early Upanisads]]"
 book: "[[Library/Hinduism/The Early Upanisads (Olivelle)/The Early Upanisads (Olivelle)|The Early Upanisads (Olivelle)]]"
 order: 13
 source_pdf: "Library/Hinduism/Olivelle (ed.) - The Early Upanisads (1998).pdf"
-pages: "315–323"
+page_range: "315–323"
 pdf_pages: "338–346"
 text_source: "fresh OCR with Tesseract 5 of the page images: Latin, and Latin+san on the pages of Devanagari text (the earlier OCR layer had lost the diacritics and the Devanagari)"
 converted: 2026-10-22

@@ -17,8 +17,7 @@ language:
   - English
 pages: 399
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[G. J. Cuming (auth.) - A History of Anglican Liturgy-Palgrave Macmillan UK (1982).pdf]]"
   - "[[Library/Christianity/A History of Anglican Liturgy (Cuming)/A History of Anglican Liturgy (Cuming)]]"

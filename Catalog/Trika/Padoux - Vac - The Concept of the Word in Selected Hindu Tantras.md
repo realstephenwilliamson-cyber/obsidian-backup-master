@@ -18,8 +18,7 @@ language:
   - English
 pages: 464
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Padoux - Vac, The Concept of the Word in Selected Hindu Tantras (SUNY 1990).pdf]]"
   - "[[Library/Trika/Vac (Padoux)/Vac (Padoux)]]"

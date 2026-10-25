@@ -18,7 +18,7 @@ language:
 pages: 13
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Grant - Post-Modernism, Lyotard and Baudrillard (1999).pdf]]"
   - "[[Library/Philosophy/Post-Modernism (Grant)]]"

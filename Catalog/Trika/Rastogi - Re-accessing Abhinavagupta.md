@@ -17,8 +17,7 @@ language:
   - English
 pages: 15
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[AbhinavaguptaReaccessing.pdf]]"
   - "[[Library/Trika/Re-accessing Abhinavagupta (Rastogi)]]"

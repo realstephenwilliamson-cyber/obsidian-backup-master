@@ -18,8 +18,7 @@ language:
   - English
 pages: 304
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Elior - The Paradoxical Ascent to God (1993).pdf]]"
   - "[[Library/Judaica/The Paradoxical Ascent to God (Elior)/The Paradoxical Ascent to God (Elior)]]"

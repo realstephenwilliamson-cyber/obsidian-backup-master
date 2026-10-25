@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 113
 verses: 8
-page_range:
-  - 756
-  - 756
+page_range: "756"
 aliases:
   - "BCP Psalm 113"
   - "BCP 756"

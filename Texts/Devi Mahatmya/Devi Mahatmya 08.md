@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-chapter
 title: Devī Māhātmya 8
+work: "Devī Māhātmya"
 chapter: 8
 charitra: Uttara Charitra (Final Episode)
 markandeya_purana_chapter: 85
@@ -19,7 +20,7 @@ Chapter 8 of the Devī Māhātmya (*Durgā Saptaśatī*), corresponding to chapt
 
 ## Sanskrit text
 
-*(not yet entered — add the Devanāgarī/IAST verses here when available)*
+Not entered here: the Sanskrit (IAST) with an English translation is in [[Devi Mahatmya - Durga Saptashati 09 - Chapter 8 The Slaying of Raktabija|the DeviMahatmya.com edition, chapter 8]].
 
 ## Notes
 

@@ -18,8 +18,7 @@ language:
   - English
 pages: 221
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Wessel Reijers, Mark Coeckelbergh - Narrative And Technology Ethics-Palgrave Macmillan (2020).pdf]]"
   - "[[Library/Philosophy/Narrative and Technology Ethics (Reijers)/Narrative and Technology Ethics (Reijers)]]"

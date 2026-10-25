@@ -56,7 +56,7 @@ But having come there, while He slackens somewhat in His miracles; so as not to 
 
 He is moreover continually frequenting the synagogues, lest if He were always abiding in the wilderness, they should the more accuse Him as making a schism, and fighting against their polity. Being amazed therefore, and in perplexity, they said, “Whence hath this man this wisdom, and these powers?”<sup>1896</sup>either calling the miracles powers, or even the wisdom itself. “Is not this the carpenter’s son?”<sup>1897</sup> The greater then the marvel, and the more abundant the ground of amaze. “Is not His mother called Mary, and His brethren James,
 
-189\. 2 Matt. xiii. 54. 1893 Matt. xiii. 58. 1894 Matt. xi. 23. 1895 Amos. vii. 14, 15. 1896 Matt. xiii. 54. \[R.V., margin, “Greek, powers.”\]
+1892 Matt. xiii. 54. 1893 Matt. xiii. 58. 1894 Matt. xi. 23. 1895 Amos. vii. 14, 15. 1896 Matt. xiii. 54. \[R.V., margin, “Greek, powers.”\]
 
 
 *[p. 527]* ^pg535
@@ -75,9 +75,9 @@ And consider thou the power of His words, herein at least, that possessed as the
 
 But mark thou, I pray thee, the Master’s gentleness, how He reviles them not, but with great mildness saith, “A prophet is not without honor, save in his own country.” And neither here did He stop, but added, “And in his own house.” To me it appears, that with covert reference to His very own brethren, He made this addition.
 
-189\. 8 \[R.V., “Joseph,” following a reading better supported than that of the recorded text, which agrees with that in the Homily.—R.\] 1899 Matt. xiii. 55, 56.
+1898 \[R.V., “Joseph,” following a reading better supported than that of the recorded text, which agrees with that in the Homily.—R.\] 1899 Matt. xiii. 55, 56.
 
-190\. 0 Matt. xiii. 57, 58. \[Chrysostom omits “there.”\] Mark vi. 5. \[σημεα, “signs;” but even in Mark this expression does not occur in this connection.—R.\] 1901
+1900 Matt. xiii. 57, 58. \[Chrysostom omits “there.”\] Mark vi. 5. \[σημεα, “signs;” but even in Mark this expression does not occur in this connection.—R.\] 1901
 
 
 *[p. 528]* ^pg536
@@ -98,7 +98,7 @@ But Luke affirms that the multitudes said, “This is Elias, or Jeremias, or one
 
 But it is probable that before this, in answer to them that said He was John (for many had said this too), he had denied it, and said, “I slew him,” priding himself and glorying in it. For this both Mark and Luke report that he said, “John I beheaded.”<sup>1908</sup> But when the rumor prevailed, then he too saith the same as the people.
 
-190\. 3 Luke iv. 25–27. 1904 Matt. xiv. 1. \[R.V., “the report concerning Jesus.”\] 1905 *“Perspicuum est prædictionem Christi reges mundi audire novissimos.”* St. Jerome, *in Jonam*. c. iii. 1906 Matt. xiii. 2. 1907 Luke ix. 8. Comp. Matt. xvi. 14. Mark vi. 16; Luke ix. 9. προηγουμνω . 1909
+1903 Luke iv. 25–27. 1904 Matt. xiv. 1. \[R.V., “the report concerning Jesus.”\] 1905 *“Perspicuum est prædictionem Christi reges mundi audire novissimos.”* St. Jerome, *in Jonam*. c. iii. 1906 Matt. xiii. 2. 1907 Luke ix. 8. Comp. Matt. xvi. 14. Mark vi. 16; Luke ix. 9. προηγουμνω . 1909
 
 
 *[p. 529]* ^pg537
@@ -119,7 +119,7 @@ And the means too of the victory were worthy of the deeds done. For, “The daug
 
 Her reproach is twofold; first, that she danced, then that she pleased him, and so pleased him, as to obtain even murder for her reward.
 
-191\. 0 Mark vi. 20. 1911 Matt. xiii. 3–5. 1912 \[R.V., “come;” rec. text as in Homily.\] 1913 \[R.V., “in the midst;” so Homily, see below.—R.\] 1914 Matt. xiii. 6. 1915 \[“Swore” is substituted for “promised;” peculiar to Chrysostom, but probably borrowed from Mark vi. 23.—R.\] 1916 \[R.V., “being put forward by.”\] 292 1918 Matt. xiii. 9. \[R.V., “was grieved.”\] Deut. xxv. 5.
+1910 Mark vi. 20. 1911 Matt. xiii. 3–5. 1912 \[R.V., “come;” rec. text as in Homily.\] 1913 \[R.V., “in the midst;” so Homily, see below.—R.\] 1914 Matt. xiii. 6. 1915 \[“Swore” is substituted for “promised;” peculiar to Chrysostom, but probably borrowed from Mark vi. 23.—R.\] 1916 \[R.V., “being put forward by.”\] 292 1918 Matt. xiii. 9. \[R.V., “was grieved.”\] Deut. xxv. 5.
 
 
 *[p. 530]* ^pg538
@@ -156,7 +156,7 @@ For though the daughter of Herodias be not present, yet the devil, who then danc
 
 But if ye are able to keep clear of drunkenness, yet are ye partakers of another most grievous sin; such revels being also full of much rapine. For look not, I pray thee, on the meats that are set before them, nor on the cakes; but consider whence they are gathered, and thou wilt see that it is of vexation, and covetousness, and violence, and rapine.
 
-192\. 0 Mark vi. 23. \[δι ρχησιν ατ παραχωρσαιἀλλογενο, which seems to be opposed to αθιγενο, “of genuine origin.” 1921 1 Cor. vi. 15. 293 Amos vi. 6, LXX. \[τν διυλισμνον ονον.\] 1923 1924 That is, to respect the obligation incurred by having been a person’s guest.
+1920 Mark vi. 23. \[δι ρχησιν ατ παραχωρσαιἀλλογενο, which seems to be opposed to αθιγενο, “of genuine origin.” 1921 1 Cor. vi. 15. 293 Amos vi. 6, LXX. \[τν διυλισμνον ονον.\] 1923 1924 That is, to respect the obligation incurred by having been a person’s guest.
 
 
 *[p. 532]* ^pg540
@@ -183,7 +183,7 @@ And this I say, not forbidding them to be fed, but not for such a purpose. Nay, 
 
 10\. Let the companions of thy meals then be men that are poor and free, not perjured persons, nor stage-players. And if thou must needs ask of them a requital for their food, enjoin them, should they see anything done that is amiss, to rebuke, to admonish, to help thee in thy care over thine household, in the government of thy servants. Hast thou children? Let these be joint fathers to them, let them divide thy charge with thee, let them yield thee such profits as God loveth. Engage them in a spiritual traffic. And if thou see one needing protection, bid them succor, command them to minister. By these do thou track the strangers out, by these clothe the naked, by these send to the prison, put an end to the distresses of others.
 
-192\. 6 Comp. Homily XXXVII. 8. Of such parasites Juvenal says, (Sat. v. 170.) Omnia ferre Si potes, et debes. Pulsandum *vertice raso* Præbebis quandoque caput, nec dura timebis Flagra pati, his epulis et tali dignus amico. See Mr. Field’s note.
+1926 Comp. Homily XXXVII. 8. Of such parasites Juvenal says, (Sat. v. 170.) Omnia ferre Si potes, et debes. Pulsandum *vertice raso* Præbebis quandoque caput, nec dura timebis Flagra pati, his epulis et tali dignus amico. See Mr. Field’s note.
 
 
 *[p. 534]* ^pg542
@@ -234,9 +234,9 @@ And why did none of the multitude come near and speak for them? They reverenced 
 
 For if even after the miracle they forgot what had been done, and after the baskets, supposed Him to be speaking of loaves, when He gave the name of “leaven” to the doctrine
 
-192\. 9 \[R.V., “from the cities;” the word “all” is not found in the text of Matthew, but in Mark vi. 33.—R.\]
+1929 \[R.V., “from the cities;” the word “all” is not found in the text of Matthew, but in Mark vi. 33.—R.\]
 
-193\. 0 \[“withdrawing;” so the R.V. properly renders ἀναχωρενοκονομα, that is, of His incarnation and manhood. 1931 Matt. xiv. 14. \[τ μ πρτερο πιπηδν το θαμασιν, λλ καλομενο.\] 1932
+1930 \[“withdrawing;” so the R.V. properly renders ἀναχωρενοκονομα, that is, of His incarnation and manhood. 1931 Matt. xiv. 14. \[τ μ πρτερο πιπηδν το θαμασιν, λλ καλομενο.\] 1932
 
 
 *[p. 537]* ^pg545
@@ -257,9 +257,9 @@ But John saith also, that they were “barley loaves,”<sup>1938</sup>not menti
 
 2\. “He took therefore the five loaves, and the two fishes, and commanded the multitude,” it is said, “to sit down upon the grass, and looking up to Heaven, He blessed, and brake, and gave to His disciples, and the disciples to the multitude.<sup>1940</sup> And they did all eat and were filled, and they took up of the fragments that remained twelve baskets full. And they that had eaten were about five thousand men, beside women and children.”<sup>1941</sup>
 
-193\. 4 Matt. xvi. 6. 1935 Matt. xiv. 16. 1936 Matt. xiv. 17. 1937 Matt. vi. 52. \[Slightly altered.\] 1938 John vi. 9. 1939 See 2 Kings iv. 42; v. 19–21. \[In verse 19 τονυν is inserted; the order of the clauses changed, and το ρτου omitted.—R.\]
+1934 Matt. xvi. 6. 1935 Matt. xiv. 16. 1936 Matt. xiv. 17. 1937 Matt. vi. 52. \[Slightly altered.\] 1938 John vi. 9. 1939 See 2 Kings iv. 42; v. 19–21. \[In verse 19 τονυν is inserted; the order of the clauses changed, and το ρτου omitted.—R.\]
 
-194\. 0 1941 Verses 20, 21 are verbally exact. The R.V. renders more accurately the last clause of ver. 20, “that which remained over of the broken pieces, twelve baskets full.”—R.\] Gen. l. 11, 20. \[LXX., ἐρπετ ψυχν ζωσν.\] 1942
+1940 1941 Verses 20, 21 are verbally exact. The R.V. renders more accurately the last clause of ver. 20, “that which remained over of the broken pieces, twelve baskets full.”—R.\] Gen. l. 11, 20. \[LXX., ἐρπετ ψυχν ζωσν.\] 1942
 
 
 *[p. 538]* ^pg546
@@ -292,7 +292,7 @@ Wherefore also He suffers the multitudes first to have a sense of hunger, and wa
 
 Therefore also, from them He receives the loaves, that the testimonies of what was doing might be many, and that they might have memorials of the miracle. For if even after these occurrences they forgot,<sup>1948</sup>what would not have been their case, had He omitted those provisions?
 
-194\. 4 In these and other places of this Homily there may be perhaps a tacit reference to the Holy Eucharist, and to the aptitude of the miracle of the loaves as a preparation of the apostles for it. 1945 In these and other places of this Homily there may be perhaps a tacit reference to the Holy Eucharist, and to the aptitude of the miracle of the loaves as a preparation of the apostles for it. 1946 In these and other places of this Homily there may be perhaps a tacit reference to the Holy Eucharist, and to the aptitude of the miracle of the loaves as a preparation of the apostles for it. 1947 In these and other places of this Homily there may be perhaps a tacit reference to the Holy Eucharist, and to the aptitude of the miracle of the loaves as a preparation of the apostles for it.
+1944 In these and other places of this Homily there may be perhaps a tacit reference to the Holy Eucharist, and to the aptitude of the miracle of the loaves as a preparation of the apostles for it. 1945 In these and other places of this Homily there may be perhaps a tacit reference to the Holy Eucharist, and to the aptitude of the miracle of the loaves as a preparation of the apostles for it. 1946 In these and other places of this Homily there may be perhaps a tacit reference to the Holy Eucharist, and to the aptitude of the miracle of the loaves as a preparation of the apostles for it. 1947 In these and other places of this Homily there may be perhaps a tacit reference to the Holy Eucharist, and to the aptitude of the miracle of the loaves as a preparation of the apostles for it.
 
 
 *[p. 540]* ^pg548
@@ -315,9 +315,9 @@ And, having wrought the miracle, “straightway He constrained His disciples to 
 
 For even if He had seemed, when in sight, to be presenting an illusion, and not to have wrought a truth; yet surely not in His absence also. For this cause then, submitting His proceedings to an exact test, He commanded those that had got the memorials, and the proof of the miracles, to depart from Him.
 
-194\. 9 1 Kings xvii. 16.
+1949 1 Kings xvii. 16.
 
-195\. 0 John vi. 15. ἐπγαζον. 1951 Matt. xiv. 22. \[R.V., “till he should send,” etc.\] 297 1953 \[R.V., “ye saw signs.”\] 1954 John vi. 26. That is, “things for use.”
+1950 John vi. 15. ἐπγαζον. 1951 Matt. xiv. 22. \[R.V., “till he should send,” etc.\] 297 1953 \[R.V., “ye saw signs.”\] 1954 John vi. 26. That is, “things for use.”
 
 
 *[p. 541]* ^pg549
@@ -350,7 +350,7 @@ So that herein likewise great is its difference from all others. For most of the
 
 But not these only, but not even painting, or embroidery, would I for one allow to be an art, for they do but throw men into useless expense. But the arts ought to be concerned with things necessary and important to our life, to supply and work them up. For to this end God gave us skill at all, that we might invent methods, whereby to furnish out our life. But that there should be figures<sup>1958</sup>either on walls, or on garments, wherein is it useful, I pray thee? For this same cause the sandal-makers too, and the weavers, should have great retrenchments made in their art. For most things in it they have carried into vulgar ostentation,<sup>1959</sup>having corrupted its necessary use, and mixed with an honest art an evil craft; which has been the case with the art of building also. But even as to this, so long as it builds houses and not theatres, and labors upon things necessary, and not superfluous, I give the name of an art; so the business of weaving too, as long as it makes clothes, and coverlids, but does not imitate the spiders, and overwhelm men with much absurdity, and unspeakable effeminacy, so long I call it an art.
 
-195\. 6 Luke vi. 36. φιλοτιμα. 1957 ζωδων. See Herod. i. 70, and Schweighæuser’s note, as quoted here by Mr. Field. 1958 τ βναυσον.
+1956 Luke vi. 36. φιλοτιμα. 1957 ζωδων. See Herod. i. 70, and Schweighæuser’s note, as quoted here by Mr. Field. 1958 τ βναυσον.
 
 
 *[p. 543]* ^pg551
@@ -437,7 +437,7 @@ Accordingly, neither did He present Himself to them at once. For, “in the four
 
 Yea, and He constantly doth so; when He is on the point of removing our terrors, He brings upon us other worse things, and more alarming: which we see took place then also. For together with the storm, the sight too troubled them, no less than the storm. Therefore neither did He remove the darkness, nor straightway make Himself manifest, training them,
 
-196\. 2 \[R.V., “distressed by the waves.”\] 1963 Matt. xiv. 25. 1964 Matt. xiv. 26. \[R.V., “It is an apparition,” but Chrysostom has the indirect form, “saying that it is an apparition.” The Greek term is φντασμα, not πνεμα.—R.\]
+1962 \[R.V., “distressed by the waves.”\] 1963 Matt. xiv. 25. 1964 Matt. xiv. 26. \[R.V., “It is an apparition,” but Chrysostom has the indirect form, “saying that it is an apparition.” The Greek term is φντασμα, not πνεμα.—R.\]
 
 
 *[p. 548]* ^pg556
@@ -456,7 +456,7 @@ This he did also after the resurrection; he endured not to come with the others,
 
 “And he said, Come. And when Peter was come down out of the ship, he walked on the water, and came<sup>1968</sup>to Jesus. But when he saw the wind boisterous,<sup>1969</sup>he was afraid; and
 
-196\. 5 Matt. xiv. 27. 1966 Matt. xiv. 28. 1967 John xxi. 7. \[So R.V. margin. The rec. text has ἐλθεν.—R.\] 1968 1969 \[R.V. text, with a few of the oldest authorities, omits “boisterous,” ἰσΧυρν, which Chrysostom accepts.—R.\]
+1965 Matt. xiv. 27. 1966 Matt. xiv. 28. 1967 John xxi. 7. \[So R.V. margin. The rec. text has ἐλθεν.—R.\] 1968 1969 \[R.V. text, with a few of the oldest authorities, omits “boisterous,” ἰσΧυρν, which Chrysostom accepts.—R.\]
 
 
 *[p. 549]* ^pg557
@@ -477,7 +477,7 @@ And this also showed the difference between the Master and the disciple, and all
 
 But afterwards they were not like this. On every occasion, for example, they give up the first honors to Peter, and put him forward in their addresses to the people, although of a rougher vein than any of them.<sup>1972</sup>
 
-197\. 0 Matt. xiv. 29–31. 1971 John vi. 21. \[R.V., “They were willing to receive him into the boat: and straightway the boat was at the land whither they were going.”\] Compare Acts iv. 13.
+1970 Matt. xiv. 29–31. 1971 John vi. 21. \[R.V., “They were willing to receive him into the boat: and straightway the boat was at the land whither they were going.”\] Compare Acts iv. 13.
 
 
 *[p. 550]* ^pg558
@@ -496,7 +496,7 @@ What then? Did He rebuke them on their so speaking? Nay, quite the contrary, He 
 
 For neither did they approach Him as before, dragging Him into their houses, and seeking a touch of His hand, and directions from Him in words; but in a far higher strain, and with more of self-denial, and with a more abundant faith did they try to win themselves a cure; for she that had the issue of blood taught them all to be severe in seeking wisdom.
 
-197\. 3 Matt. xiv. 32. 1974 Matt. viii. 27. 1975 Matt. xiv. 33. 1976 Matt. xiv. 34–36. \[In verse 34, R.V., following a different reading, as: “to the land, unto Gennesaret.” In verse 36, Chrysostom omits “only,” and reads ἐσθησαν for διεσθησαν .—R.\]
+1973 Matt. xiv. 32. 1974 Matt. viii. 27. 1975 Matt. xiv. 33. 1976 Matt. xiv. 34–36. \[In verse 34, R.V., following a different reading, as: “to the land, unto Gennesaret.” In verse 36, Chrysostom omits “only,” and reads ἐσθησαν for διεσθησαν .—R.\]
 
 
 *[p. 551]* ^pg559
@@ -533,7 +533,7 @@ Wouldest thou do honor to Christ’s body? Neglect Him not when naked; do not wh
 
 Let us learn therefore to be strict in life, and to honor Christ as He Himself desires. For to Him who is honored that honor is most pleasing, which it is His own will to have, not that which we account best. Since Peter too thought to honor Him by forbidding Him to wash his feet, but his doing so was not an honor, but the contrary.
 
-197\. 8 Rom. viii. 32. 1979 Comp. Eph. v. 18. 304
+1978 Rom. viii. 32. 1979 Comp. Eph. v. 18. 304
 
 
 *[p. 553]* ^pg561
@@ -552,7 +552,7 @@ And whereas these thy stores will be subject to alienations both by unbelieving 
 
 Why then doth He Himself say, “The poor always ye have with you, but me ye have not always?”<sup>1982</sup> Why, for this reason most of all should we give alms, that we have Him not
 
-198\. 1 St. Jerome (ad Eustoch. Ep. 108 sec. 30) says, “Let others boast of their money, and coin cast into the treasury of God, *Funalibusque aureis dona pendentia*, ‘and of their gifts hanging upon golden sconces,’ or perhaps brackets for lamps, on which the Anathemata, or votive offerings, were suspended.” See Bingh. 8, 8, 1. Matt. xxvi. 11; John xii. 8.
+1981 St. Jerome (ad Eustoch. Ep. 108 sec. 30) says, “Let others boast of their money, and coin cast into the treasury of God, *Funalibusque aureis dona pendentia*, ‘and of their gifts hanging upon golden sconces,’ or perhaps brackets for lamps, on which the Anathemata, or votive offerings, were suspended.” See Bingh. 8, 8, 1. Matt. xxvi. 11; John xii. 8.
 
 
 *[p. 554]* ^pg562
@@ -563,7 +563,7 @@ Let us not then bring forward these things now, which were uttered because of so
 
 All which things let us consider, and sow liberally, that we may reap in more ample abundance, and attain unto the good things to come, by the grace and love towards man of our Lord Jesus Christ, to whom be glory forever. Amen.
 
-198\. 3 Matt. xxvi. 10. 1984 Matt. xxviii. 20. 1985 Luke xi. 41. 1986 Hosea vi. 6; Matt. ix. 18. 305 1988 \[In the Oxford edition verses 3–6 are printed here in full from the A.V. But in the Greek text of the Homily only the first part of ver. 1 appears. As the larger part of the other verses is given below, and as several questions of text and interpretation arise, the passage has been printed here to correspond with the Greek.—R.\] 1989 \[R.V., “from Jerusalem Pharisees and Scribes.” But Chrysostom’s text is as above, agreeing with the received. The omission of the article affects the sense, as indicated in the R.V.—R.\] Deut. iv. 2.
+1983 Matt. xxvi. 10. 1984 Matt. xxviii. 20. 1985 Luke xi. 41. 1986 Hosea vi. 6; Matt. ix. 18. 305 1988 \[In the Oxford edition verses 3–6 are printed here in full from the A.V. But in the Greek text of the Homily only the first part of ver. 1 appears. As the larger part of the other verses is given below, and as several questions of text and interpretation arise, the passage has been printed here to correspond with the Greek.—R.\] 1989 \[R.V., “from Jerusalem Pharisees and Scribes.” But Chrysostom’s text is as above, agreeing with the received. The omission of the article affects the sense, as indicated in the R.V.—R.\] Deut. iv. 2.
 
 
 *[p. 555]* ^pg563
@@ -642,7 +642,7 @@ But see when. When He had cleansed the leper, when He had repealed the Sabbath, 
 
 For indeed all the religion of the Jews is comprised in this; if thou take this away, thou hast even taken away all. For hereby He signifies, that circumcision too must be abrogated. But of Himself He doth not prominently introduce this (forasmuch as that was older than the other commandments, and had higher estimation), but He enacts it by His disciples. For so great a thing was it, that even the disciples after so long a time being minded to do it away, first practise it, and so put it down.<sup>2000</sup>
 
-199\. 8 Mark vii. 11. 1999 Matt. xv. 8, 9. See Is. xxix. 13. \[R.V., “teaching *as their* doctrines the precepts of men.”\]
+1998 Mark vii. 11. 1999 Matt. xv. 8, 9. See Is. xxix. 13. \[R.V., “teaching *as their* doctrines the precepts of men.”\]
 
 
 *[p. 559]* ^pg567
@@ -661,7 +661,7 @@ Why, so strong was the feeling of scruple about the meats, that even after the r
 
 Wherefore you see He Himself also at the beginning spake not openly concerning meats, but, “The things that go into the mouth;” and again, when He had seemed afterwards to
 
-200\. 1 Matt. xv. 11. 2002 Matt. xv. 11.
+2001 Matt. xv. 11. 2002 Matt. xv. 11.
 
 
 *[p. 560]* ^pg568
@@ -678,7 +678,7 @@ What then saith Christ? “Every plant which my heavenly Father hath not planted
 
 This, they that are diseased with the Manichæan pest affirm to be spoken of the law; but their months are stopped by what had been said before. For if He was speaking of the law, how doth He further back defend it, and fight for it, saying, “Why do ye transgress the
 
-200\. 4 Matt. xv. 20. 2005 Matt. xv. 12. 2006 Matt. xv. 13. 2007 Matt. xvii. 27. 2008 Matt. xv. 14. \[So rec. text. The R.V. follows a briefer reading, but properly substitutes “a pit” for “the ditch.”—R.\]
+2004 Matt. xv. 20. 2005 Matt. xv. 12. 2006 Matt. xv. 13. 2007 Matt. xvii. 27. 2008 Matt. xv. 14. \[So rec. text. The R.V. follows a briefer reading, but properly substitutes “a pit” for “the ditch.”—R.\]
 
 
 *[p. 561]* ^pg569
@@ -699,7 +699,7 @@ What then saith Christ? With a sharp rebuke He answers, “Are ye also yet witho
 
 But these things He said, and reproved them, in order to cast out their prejudice; He stopped not however at this, but adds other things also, saying, “That whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught; but those things which proceed out of the mouth come forth from the heart, and they defile the man. For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, blasphemies, falsewitnessings: and these are the things that defile the man: but to eat with unwashen hands defileth not the man.”<sup>2012</sup>
 
-201\. 0 Matt. xv. 16. 2011 Matt. xv. 15. 309 2013 Lev. xi. 24, 25. \[τκτεται; the Oxford edition has “bad,” which is probably a misprint for “bred.”—R.\] 2014 2015 Mark vii. 19. Origen in his commentary on this passage of St. Matthew, refers also to St. Mark, where he reads as St. Chrysostom here, καθαρζων instead of καθαρζον. The word “cleansing” or “purging” is therefore referred to our Lord, and our Saviour’s words will stand as a parenthesis. See Field *in loc*. \[The translator doubtless means that this view makes our Lord’s own words a parenthetical explanation of the evangelist. So the R.V. gives the clause. That καθαρζων is the correct reading is quite certain, but German commentators refer it to ἀφδρνα, accepting a change of construction. The evangelist Mark rarely inserts explanations. The citation from Origen will be found in Tischendorf, VIII., note on Mark vii. 19. Despite the authority of Origen and Chrysostom, the rendering of the R.V. is of doubtful propriety.—R.\]
+2010 Matt. xv. 16. 2011 Matt. xv. 15. 309 2013 Lev. xi. 24, 25. \[τκτεται; the Oxford edition has “bad,” which is probably a misprint for “bred.”—R.\] 2014 2015 Mark vii. 19. Origen in his commentary on this passage of St. Matthew, refers also to St. Mark, where he reads as St. Chrysostom here, καθαρζων instead of καθαρζον. The word “cleansing” or “purging” is therefore referred to our Lord, and our Saviour’s words will stand as a parenthesis. See Field *in loc*. \[The translator doubtless means that this view makes our Lord’s own words a parenthetical explanation of the evangelist. So the R.V. gives the clause. That καθαρζων is the correct reading is quite certain, but German commentators refer it to ἀφδρνα, accepting a change of construction. The evangelist Mark rarely inserts explanations. The citation from Origen will be found in Tischendorf, VIII., note on Mark vii. 19. Despite the authority of Origen and Chrysostom, the rendering of the R.V. is of doubtful propriety.—R.\]
 
 
 *[p. 562]* ^pg570
@@ -724,4 +724,4 @@ What then? should not we pray? saith one. We should indeed, but not while defile
 
 I bid thee then watch thy tongue more than the apple of thine eye. The tongue is a royal steed. If then thou put a bridle on it, and teach it to pace orderly, the King will rest and take His seat thereon; but if thou suffer it to rush about unbridled and leap wantonly, it becomes a beast for the devil and bad spirits to ride on. And while thou, fresh from the company of thine own wife, darest not pray, although this is no blame at all; dost thou lift up thine hands, fresh from reviling and insult, which brings after it no less than hell, before thou hast well cleansed thyself? And how dost thou not shudder? tell me. Hast thou not heard Paul, saying, “Marriage is honorable, and the bed undefiled?”<sup>2020</sup> But if on rising from the undefiled bed, thou darest not draw nigh in prayer, how dost thou coming from the bed of the devil call on that awful and terrible name? For it is truly the devil’s bed, to wallow in insults and reviling. And like some wicked adulterer, wrath dallies with us in great delight, casting into us deadly seed, and making us give birth to diabolical enmity, and doing all things in a way opposite to marriage. For whereas marriage causes the two to become one flesh, wrath severs into many parts them that were united, and cleaves and cuts in pieces the very soul.
 
-201\. 7 Is. i. 15. 2018 Prov. xviii. 21. 2019 Matt. xii. 37. Heb. xiii. 4. 310
+2017 Is. i. 15. 2018 Prov. xviii. 21. 2019 Matt. xii. 37. Heb. xiii. 4. 310

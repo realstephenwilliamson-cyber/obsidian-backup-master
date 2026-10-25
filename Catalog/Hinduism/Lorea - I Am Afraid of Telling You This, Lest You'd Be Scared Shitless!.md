@@ -17,8 +17,7 @@ language:
   - English
 pages: 24
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[I_Am_Afraid_of_Telling_You_This_Lest_Yo.pdf]]"
 aliases:

@@ -18,8 +18,7 @@ language:
   - English
 pages: 353
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Lahiri Mahasay - The Chandi and other Scriptures.pdf]]"
 aliases:

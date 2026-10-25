@@ -84,7 +84,7 @@ Objection 2. Further, it is written ([[DRB Sirach 15#^15-14|Sirach 15:14]]) that
 
 Objection 3. Further, human nature is more self-sufficing than irrational creatures. But irrational creatures have no Divine law besides the natural inclination impressed on them. Much less, therefore, should the rational creature have a Divine law in addition to the natural law.
 
-On the contrary, David prayed God to set His law before him, saying (Psalm 18:33): "Set before me for a law the way of Thy justifications, O Lord."
+On the contrary, David prayed God to set His law before him, saying ([[DRB Psalms 118#^118-33|Psalm 18:33]] [as printed; the verse is Ps 118:33 in the Douay-Rheims]): "Set before me for a law the way of Thy justifications, O Lord."
 
 I answer that, Besides the natural and the human law it was necessary for the directing of human conduct to have a Divine law. And this for four reasons. First, because it is by law that man is directed how to perform his proper acts in view of his last end. And indeed if man were ordained to no other end than that which is proportionate to his natural faculty, there would be no need for man to have any further direction of the part of his reason, besides the natural law and human law which is derived from it. But since man is ordained to an end of eternal happiness which is inproportionate to man's natural faculty, as stated above (I-II:5:5), therefore it was necessary that, besides the natural and the human law, man should be directed to his end by a law given by God.
 

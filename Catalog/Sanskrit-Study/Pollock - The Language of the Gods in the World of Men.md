@@ -17,8 +17,7 @@ language:
   - English
 pages: 705
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Sanskrit/33 The Language of the Gods in The World of Men.pdf]]"
   - "[[Library/Sanskrit/The Language of the Gods in the World of Men (Pollock)/The Language of the Gods in the World of Men (Pollock)]]"

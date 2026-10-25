@@ -1,6 +1,7 @@
 ---
 type: devi-mahatmya-chapter
 title: Devī Māhātmya 7
+work: "Devī Māhātmya"
 chapter: 7
 charitra: Uttara Charitra (Final Episode)
 markandeya_purana_chapter: 84
@@ -19,7 +20,7 @@ Chapter 7 of the Devī Māhātmya (*Durgā Saptaśatī*), corresponding to chapt
 
 ## Sanskrit text
 
-*(not yet entered — add the Devanāgarī/IAST verses here when available)*
+Not entered here: the Sanskrit (IAST) with an English translation is in [[Devi Mahatmya - Durga Saptashati 08 - Chapter 7 The Slaying of Canda and Munda|the DeviMahatmya.com edition, chapter 7]].
 
 ## Notes
 

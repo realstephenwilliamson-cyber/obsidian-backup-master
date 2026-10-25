@@ -22,11 +22,11 @@ As sufficient in themselves: He means that on the other hand there is no harm if
 
 Anticipating an objection that “Vāsudeva” refers to a son of Va-sudeva and not to God the highest, the supreme self, Mahādeva, he says: (What is intended} under such designations as “Vāsu-deva,” etc. In such passages as:
 
-At the end of many births, tbe man of knowledge will come to me, knowing that Vāsudeva is universal,[^L711-6]’
+At the end of many births, tbe man of knowledge will come to me, knowing that Vāsudeva is universal,[^L711-6]
 
 the meaning is clear: that the entity designated by the name “Vāsu-deva” is this \[highest Brahman} i its form of the whole.
 
-Has been determined: The sūtra 4.1.114 rṣy-andhaka-vrgni-kuru-bhyaś ca (Pāp. 4.1.114) is prescribed, because these words, while they are eternal, were later assigned by chance.[^L711-7]”
+Has been determined: The sūtra 4.1.114 rṣy-andhaka-vrgni-kuru-bhyaś ca (Pāp. 4.1.114) is prescribed, because these words, while they are eternal, were later assigned by chance.[^L711-7]
 
 As a work of doctrine: Insofar as one seeks in it the aims of man without being concerned with aesthetic taste, this designation is appropriate;[^L711-8] but the designation of rasa applies to it as it is furnished with the means of aesthetic pleasure. Such is our author’s intent, which he has stated at length in his Tattvāloka.[^L711-9] Since it is not the main subject here, we do not discuss it.
 
@@ -52,15 +52,15 @@ The first Kārikā of the Fourth Book contained the words, “by this road of dh
 
 This is well done. O champion of those who tremble in fear:
 
-that you give not a moment of rest to the money that seeks you for refuge.[^L711-14]"
+that you give not a moment of rest to the money that seeks you for refuge.[^L711-14]
 
 Here a fact, namely the generosity \[of the addressee\], being suggested by his constantly giving away his money, embellishes and gives freshness to the literal sense, although the sense is close to that of an older poet:
 
-\- Coins, whose bodies are weary of running from band to band of the generous, regain their health as it were when they sleep in the house of a miser.[^L711-15]’
+\- Coins, whose bodies are weary of running from band to band of the generous, regain their health as it were when they sleep in the house of a miser.[^L711-15]
 
 Freshness may be achieved by embellishiag the literal sense with a suggested figure of speech, as in this verse of mine:
 
-Your bair was once well fitted for love's increase, when it was black as a cluster of bees in springtime. How can it now, when it bas turned as grey as ashes on the graveyard, not bring dispassion?[^L711-16]’
+Your bair was once well fitted for love's increase, when it was black as a cluster of bees in springtime. How can it now, when it bas turned as grey as ashes on the graveyard, not bring dispassion?[^L711-16]
 
 Here the suggested figwres of ākṣepa and vibhāvanā’” which embellish the literal sense give a fresh color, although the stanza is built on an old idea. For there is an old verse wbich runs as follows:
 
@@ -190,13 +190,13 @@ Taken by itself: the intention is, that it is endless in itself without any touc
 
 Our autbor speciĥes what is meant by “etcetera” in the Kārikāō: Difference in individuality; that is, in the particular nature of the thing, as color and touch \[which may be individually differentiated although occurring\] in the same degree of intensity in one substance at one and the same time.[^L721-2]
 
-\[Abhinava translates the Prakrit stanza, “Tbe winning gestures,” etc., into Sanskrit, tben continues:\]) The use of tbe two particles ca suggests extreme wonder.[^L721-3]’ In any way: Being considered with the greatest care, no trace of repetition is observable. Of loved women: One like Krishna who is lucky in love, even in enjoying bis many beloveds in his good fortune of sexual enjoyment, does not notice any repetitiousness at that time. As has been said:
+\[Abhinava translates the Prakrit stanza, “Tbe winning gestures,” etc., into Sanskrit, tben continues:\]) The use of tbe two particles ca suggests extreme wonder.[^L721-3] In any way: Being considered with the greatest care, no trace of repetition is observable. Of loved women: One like Krishna who is lucky in love, even in enjoying bis many beloveds in his good fortune of sexual enjoyment, does not notice any repetitiousness at that time. As has been said:
 
 To be at each moment ever new is the very nature of loveliness.
 
 (Māgha, Sisupālavadha 4.17)
 
-Loved women: Wbat is more, althougb these graceful gestures (vibhrama)[^L721-4]’ of beloved women have been exercised since the beginning of time, tbey appear ever new.. They are not a ritual taught by some one, like the laying of a Vedic fire, by which they might become repetitive from imitation of the teacher. Rather, they spring into appearance solely from the natural budding of the surging intoxication of love, and so are ever new. In just the same way, the matter ol poetry flows fortb
+Loved women: Wbat is more, althougb these graceful gestures (vibhrama)[^L721-4] of beloved women have been exercised since the beginning of time, tbey appear ever new.. They are not a ritual taught by some one, like the laying of a Vedic fire, by which they might become repetitive from imitation of the teacher. Rather, they spring into appearance solely from the natural budding of the surging intoxication of love, and so are ever new. In just the same way, the matter ol poetry flows fortb
 
 *[p. 707]* ^pg722
 
@@ -436,7 +436,7 @@ L Our author explains the word “person” by “sensitive reader." Rapture: a 
 
 *[p. 722]* ^pg737
 
-K Let his words fow forth with balanced[^K737-1]’ variety of matter and ambrosial rasa. Poets should not despair of a blameless subject matter of tbeir own.
+K Let his words fow forth with balanced[^K737-1] variety of matter and ambrosial rasa. Poets should not despair of a blameless subject matter of tbeir own.
 
 [^K737-1]: nimita: a rare word. Kāsikā 3.3.87 takes it as meaning “balanced,” and BP takes it here in that sense, which is appropriate to the context.
 
@@ -482,7 +482,7 @@ ished.
 
 [^A738-3]: “Rājānaka” was a title, originally given in Kashmir and Trigarta-Kāùògra for service to the king. It was beld by many Kashmiri authors and continues in the family name Rāzdān frequent among Kashmiri brahmins even now. Sce Stein's note on Rājotaroñgini 6.117.
 
-L |In this garden has been\] thus \[shown\]: that is, has been revealed by the exposition of the Kārikās and the Vrtti thereon. \[As it bears a wealth of qualities, etc.:\] that is to say, as poetry, which bas a wealth of qualities and figures of speech which are appropriate to a dwelling place of unblemished rasa. Also |in tbe literal sense) a garden bears a wealth of beauty by the rendering perfect (alañkāra) of such qualities as delicacy, color and fragrance, a perfection due to its being a recipient of timely (akliṣta) moisture (rasa) occasioned by irrigation, etc. From which: tbat is, from the garden that bears the name of poetry. Whatever matter they may wish: what is meant are instruction, fame, delight. As we have stated this previously in some detail (cf. 1.1e L), we limit our explanation here to tbe \[immediate) sense of the stanza. The deserving:[^L739-1]' those who can enjoy these desired fruits of poetry without painful instruction. The home of pure delight: the dhāman, that is, the one center, of unbroken (akhila) delight, that is, delight uninterrupted by any touch of pain. The author has in mind that it is dificult to find anythiag on earth that is both whollly delightful and wholly beneficial. A garden of the gods: Nandana. “The deserving” \[in another sense\] refers to those who have performed such ceremonies as the Jyotiṣtoma by which they attain their reward |in beaven). Vibudhāh |in addition to meaning the gods\] means the enlightened, those who know the essence of poetry. Has been shown: being existent, it has been revealed, for if something is not revealed to us, how can it be enjoyed? The wishing tree: The
+L |In this garden has been\] thus \[shown\]: that is, has been revealed by the exposition of the Kārikās and the Vrtti thereon. \[As it bears a wealth of qualities, etc.:\] that is to say, as poetry, which bas a wealth of qualities and figures of speech which are appropriate to a dwelling place of unblemished rasa. Also |in tbe literal sense) a garden bears a wealth of beauty by the rendering perfect (alañkāra) of such qualities as delicacy, color and fragrance, a perfection due to its being a recipient of timely (akliṣta) moisture (rasa) occasioned by irrigation, etc. From which: tbat is, from the garden that bears the name of poetry. Whatever matter they may wish: what is meant are instruction, fame, delight. As we have stated this previously in some detail (cf. 1.1e L), we limit our explanation here to tbe \[immediate) sense of the stanza. The deserving:[^L739-1] those who can enjoy these desired fruits of poetry without painful instruction. The home of pure delight: the dhāman, that is, the one center, of unbroken (akhila) delight, that is, delight uninterrupted by any touch of pain. The author has in mind that it is dificult to find anythiag on earth that is both whollly delightful and wholly beneficial. A garden of the gods: Nandana. “The deserving” \[in another sense\] refers to those who have performed such ceremonies as the Jyotiṣtoma by which they attain their reward |in beaven). Vibudhāh |in addition to meaning the gods\] means the enlightened, those who know the essence of poetry. Has been shown: being existent, it has been revealed, for if something is not revealed to us, how can it be enjoyed? The wishing tree: The
 
 *[p. 725]* ^pg740
 
@@ -492,7 +492,7 @@ compound kalpatarüpamānamahimā is a bahuvrihi compound containing a second ba
 
 In this world a person usually takes up a matter only if he believes in a possibility \[of success\], a belief brought about by the reputation in the world (of his informant or teacher). Now this confidence in such a possibility arises from his hearing the name \[of his informant) and his consequent memory of the qualities for which the informant was well known: hbis conduct, his knowledge of poetry, etc. For example, suppose a man understands the following. “This book was written by Bhartrhari. This metrical composition is the work of a man of whom there was this \[well-known\] nobility of character and of whom there is seen to be such a proficiency in this science \[of grammar\]? Accordingly, it deserves respect.” Such a man will be seen to take up \[the study of that book\]. Now people must be brought to take up \[the study of a book) if the purpose which it proposes is to be achieved. So the authors of books mention their names as part of an effort to bring their audience, whom they would help, to take up the book. It is with this intention that our author gives his name, Ānandavardhana. The word “far-famed” conveys just this: that while the hearing of his name may turh some readers away, that may be ascribed to the working of their jealousy and is a matter of no account. For on hearing that the purpose of a book is salvation, if some man of passion should turn away from it, what of it? We certainly cannot say that the purpose of the book has been rendered void. So it stands proved that a famous name is part of winning over those who are seeking \[the goal which an author has to ofer\].
 
-I praise the Fourth Power, which enabl the clarified variety of things to flow forth into the external world, the power which shows us tbe objects of perception.[^L739-4]“
+I praise the Fourth Power, which enabl the clarified variety of things to flow forth into the external world, the power which shows us tbe objects of perception.[^L739-4]
 
 *[p. 726]* ^pg741
 
@@ -504,7 +504,7 @@ This poet does not ask it of the good —does he ask it of the moon?—to give d
 
 But if your heart is filled with Śiva, the auspiciousness of Śiva will be everywhere and nowhere wil) there be malignancy; so may yowr state be filled with Śiva and auspicious.
 
-Herewith the Fourth Chapter of the Kāvyālokalocana composed by the great Śaiva master, Abhinavagupta.[^L739-7]”
+Herewith the Fourth Chapter of the Kāvyālokalocana composed by the great Śaiva master, Abhinavagupta.[^L739-7]
 
 This book is finished.
 

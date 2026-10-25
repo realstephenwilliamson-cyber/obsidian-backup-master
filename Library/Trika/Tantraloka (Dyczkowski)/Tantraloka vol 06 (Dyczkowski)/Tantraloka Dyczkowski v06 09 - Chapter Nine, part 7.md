@@ -18,7 +18,7 @@ converted: 2026-10-07
 
 तस्मात् कर्मन्दरियाण्याहस्त्वग्वट्व्याप्तृणि मुख्यतः ॥ २६० ॥
 तत्स्थाने वृत्तिमन्तीति मतद गुरवो मम ।
-tasmāt karmendriyānṇy āhus tvagvad vyāptRnṇi mukhyataḥ ॥ 260 Il tatsthāne vṛttimantīti mataṁge guravo mama | 
+tasmāt karmendriyānṇy āhus tvagvad vyāptRnṇi mukhyataḥ ॥ 260 ॥ tatsthāne vṛttimantīti mataṁge guravo mama | 
 
 Therefore, my teachers of the Mataṅgatantra (such as Aniruddha) say that the organs of action, like the skin, pervade (all the body), but function primarily in their (own particular) place. (260cd-261ab) 
 
@@ -55,7 +55,7 @@ Surely (one may ask), what is the benefit (phala) of saying this here, for that 
 नन्वेतत् खेटपालदर्निराकारि न कर्मणाम् । २६२ ॥
 यत्साधनम् तदक्षं स्यात् किन्तु कस्यापि कर्मणः ।
 
-nanv etat kheṭapālādyair nirākāri na karmanām ॥ 262 ||
+nanv etat kheṭapālādyair nirākāri na karmaṇām ॥ 262 ||
 yat sādhanam tad akṣaṁ syāt kintu kasyāpi karmanṇaḥ | 
 
 (Our reply is that,) surely Kheṭapāla and others have refuted (this objection by saying that) not every means of executing an action needs to be an organ of action. Rather, it is so (only) in the case of certain (specific) actions (such as walking or grasping). (262cd-263ab) 
@@ -117,7 +117,7 @@ He says that:
 इह कमीनुसन्धानभेदादेक विभिद्यते || २६५ ॥।
 तत्रानुसंधिः पञ्चात्मा पञ्च कर्मेन्धियाण्यतः ।
 
-iha karmānusandhānabhedād ekar vibhidyate ॥ 265 II tatrānusaṁṁdhiḥ pañcātmā pañca karmendriyāny ataḥ | 
+iha karmānusandhānabhedād ekar vibhidyate ॥ 265 ॥ tatrānusaṁṁdhiḥ pañcātmā pañca karmendriyāny ataḥ | 
 
 Here (according to this teaching), action is one, (but) it is divided (and diversified) by the difference in the intention (to act) (anusaṁdhāna). There (in that case, this) intention (is basically) of five kinds, and so the organs of action are five. (265cd-266ab) 
 
@@ -151,7 +151,7 @@ Here (according to us), every person’s intention is divided into four kinds, (
 
 Although all (forms of) action entail union (with one thing and) separation (from another), this is especially so in the case of motion. (Thus,) moving with the single intention (of achieving a (certain)) result, such as reaching a village, involves first abandoning one particular place and then taking up another. Thus, the field of operation (viṣaya) of the organ of locomotion (called ‘the feet’) is the one action that consists of (both) abandoning (one place) and taking up (another). Thus it is said (that in this case, the intention is) ‘to do both’. Again, (another intention is) ‘to rest within one’s own nature’. It is said here (in this case), that it is solely the experience of bliss, otherwise termed the ‘rest’ (that comes with complete satisfaction) (nivṛti). There in some way the disturbance (which is the anxiety that) ‘this should be abandoned and that adopted’ comes to rest, even if it is preceded (by acts of) renunciation and acceptance. 
 
-‘(Inner action) is based on the vital breath’. The basis (adhisthāna) of speech is the vital breath alone. Having thus assumed that as (its) basis, (the organ of speech) becomes the most excellent means to (engage) in the action which is speech (vacanakriyā). Although action is of four kinds, namely, abandonment and the rest, it can (only be the action) of what has come into existence. (Only) an entity (of which the existence) has been established (siddha) is abandoned, grasped or experienced as the abode of rest, whereas the action which is speech is engaged in generating words. This is the difference (between it) and the previous (forms of action). Thus, the word ‘indeed’ (serves to indicate) that it is different (from the others). 
+‘(Inner action) is based on the vital breath’. The basis (adhiṣṭhāna) of speech is the vital breath alone. Having thus assumed that as (its) basis, (the organ of speech) becomes the most excellent means to (engage) in the action which is speech (vacanakriyā). Although action is of four kinds, namely, abandonment and the rest, it can (only be the action) of what has come into existence. (Only) an entity (of which the existence) has been established (siddha) is abandoned, grasped or experienced as the abode of rest, whereas the action which is speech is engaged in generating words. This is the difference (between it) and the previous (forms of action). Thus, the word ‘indeed’ (serves to indicate) that it is different (from the others). 
 
 Surely (one may object that) the vital breath alone generates a word, which consists of various (combinations of) letters, by the conjunction and separation of the various instruments (of articulation in their respective) location. So what could be (the purpose) of an organ of speech? As they say: 
 
@@ -168,7 +168,7 @@ Surely (one may ask), it is said that the function of the cognitive organs of se
 ### TĀ 9.268
 
 उक्ताः समासतश्ेषां चित्राः कार्येषु वृत्तय: ।। २६८ ॥
-uktāḥ samāsataś caiṣām citrāḥ kāryeṣu vṛttayaḥ ॥ 268 I| 
+uktāḥ samāsataś caiṣām citrāḥ kāryeṣu vṛttayaḥ ॥ 268 ॥ 
 
 (These,) stated in brief, are the various functions of these (organs of action, engaged in their corresponding) tasks. (268cd) 
 
@@ -183,7 +183,7 @@ He says that:
 तदेतटूव्यतिरिक्तं हि न कर्म क्वापि दृश्यते ।
 तत्कस्यार्थे प्रकल्प्येयमिद्धियाणामनिष्ठितिः । २६९ ॥
 
-tad etadvyatiriktarn hi na karma kvāpi dṛśyate |
+tad etadvyatiriktaṁ hi na karma kvāpi dṛśyate |
 tat kasyārthe prakalpyeyam indriyāṇām aniṣthitiḥ ॥ 269 ॥ 
 
 No action is observed anywhere apart from this. What purpose (does it serve) to imagine there is an indefinite number of sense organs? (269) 
@@ -257,7 +257,7 @@ The primarily fāmasika ego obscures the subjective aspect (bhoktraṁśa). It i
 
 5%Sound, touch, form, taste, and smell as the fifth ~ (these are) the subtle elements, (variously) specified by the qualities (of Nature)’ and conjoined to the plane (pada) of the subtle elements.” (Their) state is that of 
 
-5 These two verses are found in the Mṛgendratantra as vidyāpāda verses 12/5-6. Jayaratha does not tell us where he is drawing these verses from, but there can be little room to doubt that he is quoting from the MṛT. He has quoted MṛT vidyāpāda 12/3 ad 9/234 and M;T vidyāpāda 12/4 ad 9/253. Those two verses along with the ones here present the complete account found in the MṛT of how the three forms of the ego, sāttvika etc. develop to form the principles (tattva) below it. These two verses are not found in the printed edition of the MV. However, Somadeva (2004: 11 note 32.1-3) has identified them as the first two of three additional verses that come after verse 1/32 of the printed edition of the MV that are found in two manuscripts. One is MS C 4106 (V) Banaras Hindu University library, Varanasi and the other is MS no. 488. Collection of 1875-76 in Deccan College, Poone. Although we do find verses from the MV in references that cannot be traced in the printed edition, these two are probably not.  Read with MS V and P gunavisiṣṭās for gunṇā visi; iS. 5? Nārāyaṇakaṇtha comments on this verse in MṛT vi ;āpāda 12/5: śabdasparśarūparasagandhā aviśiṣtaguṇā anabhiv) ktaviśeṣatvena tāvanmātrapade bhūtaprakṛtitvarūpe yojitās tanmātrāśabdena 9 | tāvatyaś ca mātrās tanmātrā iti striliṅgo ‘yam iha tanmātrāśabdaḥ | guṇāviśiṣtatvaṁ caitāsām ittham- yathā pṛthivyāṁ khaṭakhaṭādirūpaḥ śabdaḥ, sparśaś ca śītoṣṇaḥ, rūpam api anekavidharn śuklādi, ṣad-vidhaś ca raso gandhaś ca surabhyasurabhirūpo ‘sti \\ naiva tatkāraṇabhūta-prthivītanmātrāvasthitā \[illegible\] upalabhyante, api tu aviśiṣtaguṇnapañcakamātraṁ pṛthivītanmātram eva manyate | ‘Sound, touch, form, taste, and smell, without specific qualities, should be known by the word \[illegible\] As no specific qualities are manifest, they are on the plane (pada) of just essential basic existence (tāvanmātra), linked to their material nature, which is that of the (five) elements (bhūtaprakṛti). The word ‘tanmātrā’ is feminine here (and literally means) ‘just these alone’ (in the sense of a purely generic ‘sound’ or ‘touch’ etc. unspecified as a particular one). The absence of specifying qualities in their case (corresponds to a nondescript) sound such as a ‘khaṭa khaṭa’ in (the case of) Earth; touch that is warm and cold, form also that is of many kinds, such as white and the like, taste is of six kinds (sweet (madhura), sour (amla), salty (lavana), pungent \[illegible\] bitter (tikta) and astringent (kaṣāya)), smell that can be fragrant or not. Particulars are not perceived in this way to be present in the subtle element of Earth,
+5 These two verses are found in the Mṛgendratantra as vidyāpāda verses 12/5-6. Jayaratha does not tell us where he is drawing these verses from, but there can be little room to doubt that he is quoting from the MṛT. He has quoted MṛT vidyāpāda 12/3 ad 9/234 and M;T vidyāpāda 12/4 ad 9/253. Those two verses along with the ones here present the complete account found in the MṛT of how the three forms of the ego, sāttvika etc. develop to form the principles (tattva) below it. These two verses are not found in the printed edition of the MV. However, Somadeva (2004: 11 note 32.1-3) has identified them as the first two of three additional verses that come after verse 1/32 of the printed edition of the MV that are found in two manuscripts. One is MS C 4106 (V) Banaras Hindu University library, Varanasi and the other is MS no. 488. Collection of 1875-76 in Deccan College, Poone. Although we do find verses from the MV in references that cannot be traced in the printed edition, these two are probably not.  Read with MS V and P gunavisiṣṭās for gunṇā visi; iS. 5? Nārāyaṇakaṇtha comments on this verse in MṛT vi ;āpāda 12/5: śabdasparśarūparasagandhā aviśiṣtaguṇā anabhiv) ktaviśeṣatvena tāvanmātrapade bhūtaprakṛtitvarūpe yojitās tanmātrāśabdena 9 | tāvatyaś ca mātrās tanmātrā iti striliṅgo ‘yam iha tanmātrāśabdaḥ | guṇāviśiṣtatvaṁ caitāsām ittham- yathā pṛthivyāṁ khaṭakhaṭādirūpaḥ śabdaḥ, sparśaś ca śītoṣṇaḥ, rūpam api anekavidhaṁ śuklādi, ṣad-vidhaś ca raso gandhaś ca surabhyasurabhirūpo ‘sti \\ naiva tatkāraṇabhūta-prthivītanmātrāvasthitā \[illegible\] upalabhyante, api tu aviśiṣtaguṇnapañcakamātraṁ pṛthivītanmātram eva manyate | ‘Sound, touch, form, taste, and smell, without specific qualities, should be known by the word \[illegible\] As no specific qualities are manifest, they are on the plane (pada) of just essential basic existence (tāvanmātra), linked to their material nature, which is that of the (five) elements (bhūtaprakṛti). The word ‘tanmātrā’ is feminine here (and literally means) ‘just these alone’ (in the sense of a purely generic ‘sound’ or ‘touch’ etc. unspecified as a particular one). The absence of specifying qualities in their case (corresponds to a nondescript) sound such as a ‘khaṭa khaṭa’ in (the case of) Earth; touch that is warm and cold, form also that is of many kinds, such as white and the like, taste is of six kinds (sweet (madhura), sour (amla), salty (lavana), pungent \[illegible\] bitter (tikta) and astringent (kaṣāya)), smell that can be fragrant or not. Particulars are not perceived in this way to be present in the subtle element of Earth,
 
 *[p. 253]* ^pg272
 
@@ -274,7 +274,7 @@ From Sāttvika and Rājasika Ego
 मनोवुद्धयक्षकमीक्षवर्गस्तन्मात्रवर्गकः ।। २७२ ॥
 इत्यत्र राजसाहंकृद्योगः संश्ठेषको द्रये ।
 
-which is its cause, rather the subtle element of Earth is considered to be just the group of the five (subtle elements as yet) unspecified \[illegible\] (by specific particulars).’ \$? \[illegible\] vidyāpāda 12/6. Nārāyaṇakaṇṭha comments on the first line of this verse saying: prakāśakṛt sāttviko buddhīndriyamanolakṣaṇo yo vargaḥ, yaś ca karmakṛt rājasatvād vyāpārapravṛttaḥ karmendriyavargaḥ, tābhyāṁ vargābhyāṁ vailakṣanyari vaisādṛśyaṁ yasmād etāsāṁ tanmātrāṇām atas tamobhavā etāḥ || ‘The group consisting of the cognitive organs of sense and the mind (manas) is formed from light and is sāttvika. The senses of action are rājasa, and so are formed from action (karman) and are engaged in activity (vyāpāra). As they are different from these two groups, these subtle elements are tāmasika. prakāśyatvācca bhūtādir ahaṁkāreṣu tāmasaḥ ॥ 6 ॥ \^ . . because (they are) objects of illumination (prakāśya) (that require illumination), the ego here (in this case), (which is that of the reality levels) beginning with the gross elements, 15 đāmasa.’ (6cd) eṣu cāhaṁkāraskandheṣu madhyād yo ‘ya bhūtādir ahaṁkāraskandhaḥ, sa yasmāt prakāśyaḥ tatkāryasya tanmātrātmano manobuddhibhyāṁn buddhindriyaiś ca yogibhir upalabhyatvāt, tato ‘yarn tāmaso vijñeyaḥ | The aspect of the ego, amongst the aspects of the ego, which is that (of the lower reality levels) beginning with the gross elements, should be known to be tāmasa, because it is the object of illumination of its product, that is, the subtle elements, because they are perceived by the mind and the intellect and by the cognitive organs of sense linked to them (as their objects)” \[illegible\] Read manobuddhikarmendriyavargaḥ for manobuddhīndriyavargaḥ. 5 SārnKā 25; partly also quoted above ad 9/235.
+which is its cause, rather the subtle element of Earth is considered to be just the group of the five (subtle elements as yet) unspecified \[illegible\] (by specific particulars).’ \$? \[illegible\] vidyāpāda 12/6. Nārāyaṇakaṇṭha comments on the first line of this verse saying: prakāśakṛt sāttviko buddhīndriyamanolakṣaṇo yo vargaḥ, yaś ca karmakṛt rājasatvād vyāpārapravṛttaḥ karmendriyavargaḥ, tābhyāṁ vargābhyāṁ vailakṣanyari vaisādṛśyaṁ yasmād etāsāṁ tanmātrāṇām atas tamobhavā etāḥ || ‘The group consisting of the cognitive organs of sense and the mind (manas) is formed from light and is sāttvika. The senses of action are rājasa, and so are formed from action (karman) and are engaged in activity (vyāpāra). As they are different from these two groups, these subtle elements are tāmasika. prakāśyatvācca bhūtādir ahaṁkāreṣu tāmasaḥ ॥ 6 ॥ \^ . . because (they are) objects of illumination (prakāśya) (that require illumination), the ego here (in this case), (which is that of the reality levels) beginning with the gross elements, 15 đāmasa.’ (6cd) eṣu cāhaṁkāraskandheṣu madhyād yo ‘ya bhūtādir ahaṁkāraskandhaḥ, sa yasmāt prakāśyaḥ tatkāryasya tanmātrātmano manobuddhibhyāṁn buddhindriyaiś ca yogibhir upalabhyatvāt, tato ‘yarn tāmaso vijñeyaḥ | The aspect of the ego, amongst the aspects of the ego, which is that (of the lower reality levels) beginning with the gross elements, should be known to be tāmasa, because it is the object of illumination of its product, that is, the subtle elements, because they are perceived by the mind and the intellect and by the cognitive organs of sense linked to them (as their objects)” \[illegible\] Read manobuddhikarmendriyavargaḥ for manobuddhīndriyavargaḥ. 5 SāṁKā 25; partly also quoted above ad 9/235.
 
 *[p. 254]* ^pg273
 
@@ -411,7 +411,7 @@ In this way, the power of the senses that functions externally is (applied to) p
 
 ‘The senses that function externally’ are the senses of sight and the rest, in their external state. This is the meaning. The capacity (of the senses applied) to the act of (immediate) apprehension (ālocana) alone, which is the manifestation of their functions free of determinate perception (avikalpa) (that serve to register the existence of their object), is said to be ‘the power (of the senses applied just to) perception when (their outer) operant mode manifests.’ Adopting the variant reading ‘entity’ (in place of ‘operant mode’), the meaning is that (what manifests is) that which is perceived (by the senses).\*” 
 
-5S Read tāttvikaṁ kāryakāranabhāvari for tāttvikaḥ kāryakāraṇabhāvo. 5% Abhinava is referring to MV 1/31; cf. SārnKā 25, quoted above at note 9,462. 57 The compound vṛttibhāsane, meaning ‘when the (outer) operant mode manifests’, may be understood to qualify ālocane — ‘perception’, in which case one would translate ‘the perception which is the manifestation of (the senses’ outer) operant modes.’ The
+5S Read tāttvikaṁ kāryakāranabhāvari for tāttvikaḥ kāryakāraṇabhāvo. 5% Abhinava is referring to MV 1/31; cf. SāṁKā 25, quoted above at note 9,462. 57 The compound vṛttibhāsane, meaning ‘when the (outer) operant mode manifests’, may be understood to qualify ālocane — ‘perception’, in which case one would translate ‘the perception which is the manifestation of (the senses’ outer) operant modes.’ The
 
 *[p. 259]* ^pg278
 
@@ -424,7 +424,7 @@ Surely (one may ask), what is the authority here (for this analysis of the activ
 उक्तं च गुरुणा कुर्यीन्मनोऽनुव्यवसायि सत् ॥ २७८ ॥
 तदुद्रयालम्बना मातृव्यापारात्मक्रिया इति ।
 
-uktarn ca gurunā kuryān mano ‘nuvyavasāyi sat || 278 ||
+uktaṁ ca gurunā kuryān mano ‘nuvyavasāyi sat || 278 ||
 taddvayālambanā mātrvyāpārātmakriyā iti | 
 
 And the teacher (Utpaladeva) has said that the mind, reacting (to what it receives through the external senses), determines (what it is, generating thereby the thought processes (kalpana) associated with action and the like), that are based on the two of them (unity and diversity), and consists of the activity of the subject. (278cd-279ab) 
@@ -567,7 +567,7 @@ nabhaḥ śabdo ‘vakāśātmā vācyādhyāsasaho yataḥ |
 tad etatsparśatanmātrayogāt prakṣobhamāgatam ॥ 284 I|
 vāyutāmeti tenātra śabdasparśobhayātmatā | 
 
-When the subtle element of sound is disturbed, it becomes the Space element, which sustains the diverse forms of sound.“ This is because sound is space, which is (the space) that makes room (avakāśa) for the superimposition (adhyāsa)\*“ within it of the entities denoted by words (vācya). When that is disturbed by conjunction with the subtle element of touch, it becomes the Air element \[illegible\] which is therefore both sound and touch. (283cd-285ab) 
+When the subtle element of sound is disturbed, it becomes the Space element, which sustains the diverse forms of sound.“ This is because sound is space, which is (the space) that makes room (avakāśa) for the superimposition (adhyāsa)\*“ within it of the entities denoted by words (vācya). When that is disturbed by conjunction with the subtle element of touch, it becomes the Air element (vāyu), which is therefore both sound and touch. (283cd-285ab) 
 
 #### Viveka on 9.283–285
 
@@ -603,7 +603,7 @@ Others say that sound is solely the quality of Space. That is also correct, beca
 तेजस्तत्त्वं ्रिभिर्धमैः प्राहः पूर्ववदेव तत् ।
 तैखिभिः सरसैरापः सग्धर्भूरिति क्रमः ॥ २८८ ॥
 
-śabdasparśau tu rūpeṇa \[illegible\] prakṣobham āgatau || 287 |I tejastattvaṁ tribhir dharmaiḥ prāhuḥ pūrvavad eva tat |
+śabdasparśau tu rūpeṇa \[illegible\] prakṣobham āgatau || 287 || tejastattvaṁ tribhir dharmaiḥ prāhuḥ pūrvavad eva tat |
 tais tribhiḥ sarasair āpaḥ sagandhair bhūr iti kramaḥ || 288 ॥ 
 
 5 This looks like a Vaiśeṣika- or Nyāyasūtra. It is certainly the view of the Vaiśeṣikas, shared by Naiyāyikas. %8 See below, 9/297cd-299ab. + This also looks like a Vaiśeṣika- or Nyāyasūtra, or at any rate, is drawn from the same source as the previous reference.
@@ -826,7 +826,7 @@ They are ‘of many kinds’. There (in that case), 1) smell is of two kinds, fr
 
 *[p. 273]* ^pg292
 
-tatra gandhaḥ surabhyasurabhirūpaḥ kṣitāveva | rasaḥ kṣmājalayoḥ | tatra kṣitau kaṭvamlalavaṇamadhurakaṣāyatiktarāpaḥ | jale tu madhura eva | rūpaṁ ca kṣmājalāgniṣu | tatra kṣitau śuklaraktapītakṛṣṇādyanekavidham | jale tu śuklam eva | agnau bhāsvadrūpam | teṣu savāyuṣu sparśaḥ sthitaḥ | sa ca mahyāṁ vāyau ca pratyekam \[illegible\] ‘nuṣṇaḥ | kah punar mahīvāyusparśayoḥ parasparańi bhedo “ta āha pākajāpākajau pṛthag iti | mahyāṁ sparśaḥ pākajaḥ, vāyau tv apākaja ity ayam evānayor bhedaḥ | asya copalakṣanatvād rūpādayo ‘pi mahīguṇāḥ pākajā eva | jale punaḥ svābhāvikaḥ sparśaḥ śīta eva | agnāv uṣṇa eva | śabdaś ca bhūmyādiṣu caturṣu tais taiḥ pārthivādibhir dravyaiḥ parasparam āhatya jātaḥ | nabhasi tu pratiśruk sabdātmakaḥ | ‘There, smell, which is fragrant or otherwise, is in Earth alone. Taste is in (both) Earth and Water. There, in Earth, (taste) is bitter, sour, sweet, astringent and pungent. (The taste) in Water it is only sweet. Form is (present) in Earth, Water and Fire. There in Earth it is of many kinds, including white, red, yellow, and black etc. Within Water it is only white. Within Fire (form) is radiantly luminous. Touch is present in (all of) them, including Wind. That is (present) within Earth, the Wind, and in each one, it is hot (or) cold. What then is the difference between the touch present in Earth and Wind? He says, (in the first case) it is a derived product (pākaja); (in the latter) not, separately. Touch in Earth is a derived product, in Air it is the difference between them. This is because they are perceived (upalakṣaṇa) to belong to it, that form and the rest are qualities of Earth and are derived products. Again, within Water, touch is inherently natural and cool, (whereas) in Fire it is hot. Sound is present in the four, Earth and the rest, and is born by the mutual sticking together with each of the substances, namely, Earth and the rest. The nature of Sound within Space is an echo. nanu vaiseṣikādibhir āśrayād anyatro(trānu)palabdher ākāśaikagunaḥ śabda iṣyate, tad ayuktam, pratyakṣāgamabādhitatvena hetoḥ kālātyayāpadiṣtatvāt | yataḥ śabdāśraya eva bheryādau śabdaḥ śrūyate | \[illegible\] pṛthivyāṁ tāvat kaṭakaṭādikaḥ śabdo dṛśyate, jale chalacchalādiḥ, agnau dhamadhamādiḥ, śakaśakādir vāyau, nabhasi ca pratiśabdātmaka iti | etac cākāśaikaguṇatvan śabdasya vistarenāsmābhir mṛgendra-vrttidīpikāyār pratikṣiptam | uktaṁ ca śrīmanmṛgendre Surely (one may ask), according to the Vaiśeṣikas and others, as no other substratum is perceived, sound is the solely the quality of Space. That is an unsound (view), because the reason for this is contradicted by (both) direct perception and the scriptures, and because with the passing of time it fades away. As that is so, sound is heard within kettledrums and the like, that are the substratum of sound. Moreover, one perceives a degree of sound such as ‘kaṭa kaṭa’ in Earth, ‘chala chala’ in Water, ‘dhama dhama’ in Fire, ‘śaka śaka’ in Air, and an echo in Space.’ In the Mṛgendravṛttidīpikā, 1 have refuted at length (the view that) the sole quality of Space is sound. And it is said in the venerable Mṛgendra: pañcasu śabdo ‘yarn sparśo bhūtacatuṣtaye | aśītoṣṇno mahīvāyvoḥ \[illegible\] vāritejasoḥ \\\\ bhasvad agnau jale 1 kṣitau śuklādy anekadhā | rūpaṁ triṣu raso ‘mbhassu madhuraḥ ṣadvidhaḥ kṣitau || gandhaḥ kṣitāv asurabhiḥ surabhiś ca mato budhaiḥ | iti Il 9-11 ॥
+tatra gandhaḥ surabhyasurabhirūpaḥ kṣitāveva | rasaḥ kṣmājalayoḥ | tatra kṣitau kaṭvamlalavaṇamadhurakaṣāyatiktarāpaḥ | jale tu madhura eva | rūpaṁ ca kṣmājalāgniṣu | tatra kṣitau śuklaraktapītakṛṣṇādyanekavidham | jale tu śuklam eva | agnau bhāsvadrūpam | teṣu savāyuṣu sparśaḥ sthitaḥ | sa ca mahyāṁ vāyau ca pratyekam \[illegible\] ‘nuṣṇaḥ | kaḥ punar mahīvāyusparśayoḥ parasparańi bhedo “ta āha pākajāpākajau pṛthag iti | mahyāṁ sparśaḥ pākajaḥ, vāyau tv apākaja ity ayam evānayor bhedaḥ | asya copalakṣanatvād rūpādayo ‘pi mahīguṇāḥ pākajā eva | jale punaḥ svābhāvikaḥ sparśaḥ śīta eva | agnāv uṣṇa eva | śabdaś ca bhūmyādiṣu caturṣu tais taiḥ pārthivādibhir dravyaiḥ parasparam āhatya jātaḥ | nabhasi tu pratiśruk sabdātmakaḥ | ‘There, smell, which is fragrant or otherwise, is in Earth alone. Taste is in (both) Earth and Water. There, in Earth, (taste) is bitter, sour, sweet, astringent and pungent. (The taste) in Water it is only sweet. Form is (present) in Earth, Water and Fire. There in Earth it is of many kinds, including white, red, yellow, and black etc. Within Water it is only white. Within Fire (form) is radiantly luminous. Touch is present in (all of) them, including Wind. That is (present) within Earth, the Wind, and in each one, it is hot (or) cold. What then is the difference between the touch present in Earth and Wind? He says, (in the first case) it is a derived product (pākaja); (in the latter) not, separately. Touch in Earth is a derived product, in Air it is the difference between them. This is because they are perceived (upalakṣaṇa) to belong to it, that form and the rest are qualities of Earth and are derived products. Again, within Water, touch is inherently natural and cool, (whereas) in Fire it is hot. Sound is present in the four, Earth and the rest, and is born by the mutual sticking together with each of the substances, namely, Earth and the rest. The nature of Sound within Space is an echo. nanu vaiseṣikādibhir āśrayād anyatro(trānu)palabdher ākāśaikagunaḥ śabda iṣyate, tad ayuktam, pratyakṣāgamabādhitatvena hetoḥ kālātyayāpadiṣtatvāt | yataḥ śabdāśraya eva bheryādau śabdaḥ śrūyate | \[illegible\] pṛthivyāṁ tāvat kaṭakaṭādikaḥ śabdo dṛśyate, jale chalacchalādiḥ, agnau dhamadhamādiḥ, śakaśakādir vāyau, nabhasi ca pratiśabdātmaka iti | etac cākāśaikaguṇatvan śabdasya vistarenāsmābhir mṛgendra-vrttidīpikāyār pratikṣiptam | uktaṁ ca śrīmanmṛgendre Surely (one may ask), according to the Vaiśeṣikas and others, as no other substratum is perceived, sound is the solely the quality of Space. That is an unsound (view), because the reason for this is contradicted by (both) direct perception and the scriptures, and because with the passing of time it fades away. As that is so, sound is heard within kettledrums and the like, that are the substratum of sound. Moreover, one perceives a degree of sound such as ‘kaṭa kaṭa’ in Earth, ‘chala chala’ in Water, ‘dhama dhama’ in Fire, ‘śaka śaka’ in Air, and an echo in Space.’ In the Mṛgendravṛttidīpikā, 1 have refuted at length (the view that) the sole quality of Space is sound. And it is said in the venerable Mṛgendra: pañcasu śabdo ‘yarn sparśo bhūtacatuṣtaye | aśītoṣṇno mahīvāyvoḥ \[illegible\] vāritejasoḥ \\\\ bhasvad agnau jale 1 kṣitau śuklādy anekadhā | rūpaṁ triṣu raso ‘mbhassu madhuraḥ ṣadvidhaḥ kṣitau || gandhaḥ kṣitāv asurabhiḥ surabhiś ca mato budhaiḥ | iti Il 9-11 ॥
 
 *[p. 274]* ^pg293
 
@@ -843,7 +843,7 @@ Sound and its Echo
 यत्तु न स्पर्शवद्धर्म : शब्द इत्यादि भण्यते । २९७ ॥।
 काणादैस्तत्स्वप्रतीतिविरुदधं केन गृह्यताम् ।
 
-yat tu na sparśavad dharmaḥ śabda ityādi bhanyate ॥ 297 I|
+yat tu na sparśavad dharmaḥ śabda ityādi bhanyate ॥ 297 ॥
 kāṇādais tatsvapratītiviruddhari kena gṁyatām | 
 
 The followers of Kanāda say that sound, unlike touch, is a quality (only of space). Who could accept (such a view, that) runs contrary to one’s own experience? (297cd-298ab) 
@@ -857,7 +857,7 @@ He gives a reason for that.
 ### TĀ 9.298
 
 पटहे ध्वनिरित्येव भात्यबाधितमेव यत् ।। २९८ ॥
-paṭahe dhvanir ity eva bhāty abādhitam eva yat ॥ 298 II 
+paṭahe dhvanir ity eva bhāty abādhitam eva yat ॥ 298 ॥ 
 
 What appears, without being contradicted (by experience), is that the sound is in the drum (not in the ear).\*\* (298cd) 
 
@@ -915,7 +915,7 @@ In order to refute that view, he continues:
 तस्य मन्देऽपि मुरजध्वनावाकर्णके सति ॥ ३०१ ॥
 अमुत्र श्रुतिरेषेति दूरे संवेदनं कथम् ।
 
-yas tv āha śrotram ākāśaṁi \[illegible\] || 300 I|
+yas tv āha śrotram ākāśaṁi \[illegible\] || 300 ||
 śabdajaḥ śabda āgatya śabdabuddhiṁn prasūyate |
 tasya mande ‘pi murajadhvanāv ākarnake sati || 301 ॥
 amutra śrutir eṣeti dūre saṁvedanar katham | 

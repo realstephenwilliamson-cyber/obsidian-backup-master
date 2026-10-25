@@ -1,7 +1,7 @@
 ---
 type: list
 created: 2026-10-13
-updated: 2026-10-14
+updated: 2026-10-24
 source: "October 2026 plan, phase 7 (A2, A3 and the late items): references the reference linker left for a person to decide"
 ---
 # Bible references to decide later
@@ -10,189 +10,42 @@ Scripture references in the library and the texts that are still plain text beca
 
 Line numbers count from the top of the note, starting at 0, so add 1 to find the line in the editor.
 
-**19 Oct 2026:** nothing here waits for a decision. Of the 33 rows in sections 1–2, 12 were linked and 7 marked "left unlinked" on 15 Oct 2026 (decision D06, applied with D04 and D07); the other 14 stay unlinked by the same decision (their "leave unlinked" recommendation was accepted as it stands). Section 3 lists the references to verses that do not exist; they stay plain.
+**24 Oct 2026 (condensed; corrections prompt S10):** nothing here waits for a decision. Sections 1–2 now list only the references that are still plain text: 7 left unlinked on 15 Oct 2026 (decision D06) and 10 whose row gives the reason to leave them. The 16 linked rows were taken out: 12 linked on 15 Oct (decisions D04, D06, D07), the JANT Mark 10 "89.15" found linked on 19 Oct, and on 24 Oct the three misprints the rows themselves identified (*Gifts from the Goddess* "Mark 12:13", the JANT essay on prayer "Num 16.37–41", the JANT glossary "Exod 20.26"), linked to the verse meant with "[as printed; the verse is …]" (audit decision 15). Section 3 keeps every reference to a verse that does not exist; the eight whose intended verse is certain were linked the same way on 24 Oct and are marked. The per-book counts of 13 Oct are gone; line numbers were re-read on 24 Oct 2026. The list's history is in the AI log (13–15 Oct and 24 Oct 2026).
 
-**14 Oct 2026 (phase 8):** every reference in sections 1–2 was decided by agents from its line, the candidate verses' text and the book's numbering (project doc 21). The decisions applied are links now; the rows left here carry the recommendation and its reason in a new last column: low-confidence decisions and references to leave unlinked. The per-book counts in the tables below are from 13 Oct.
-
-## 1. In the converted books (23)
+## 1. In the converted books (13)
 
 Three references the rules covered were also left, because the same text occurs more often in the line than there were references to link: "Psalm 2" in *The Orthodox Corruption of Scripture* 05 (line 917) and "Psalm 82" twice in *The Use of the Old Testament in the New Testament* (McClellan, line 330).
 
-| Book | n |
-|---|---|
-| You Will Be Like the Gods (McClellan) | 52 |
-| Selected Writings (Berthold) | 39 |
-| Playing with Leviathan (van Bekkum) | 22 |
-| The Christian Tradition 3 - The Growth of Medieval Theology (Pelikan) | 22 |
-| Questions and Doubts (Maximus the Confessor) | 10 |
-| Theological-Political Treatise (de Spinoza) | 8 |
-| Religion and Time (Balslev) | 5 |
-| Samarasya (Das) | 3 |
-| Abhinavagupta - The Kula Ritual as Elaborated in Chapter 29 (Dupuche) | 3 |
-| Ben - Sonship and Jewish Mysticism (Idel) | 3 |
-| Responses to Thalassios (Constas) | 3 |
-| Jesus Our Priest (O'Collins) | 3 |
-| Ascetic Life and Four Centuries on Charity (Sherwood) | 3 |
-| Vac (Padoux) | 2 |
-| The Touch of Sakti (Furlinger) | 2 |
-| The Brahmayamalatantra or Picumata, Volume I, Chapters 1-2 (Hatley) | 2 |
-| Leviathan After 350 Years (Sorell) | 2 |
-| Philosophies of Religion (Knepper) | 2 |
-| The Mystical Experience in Abraham Abulafia (Idel) | 2 |
-| The Christian Tradition 2 - The Spirit of Eastern Christendom (Pelikan) | 2 |
-| Incarnation in Hinduism and Christianity (Bassuk) | 2 |
-| Jesus and Israels Traditions (Bryan) | 2 |
-| Divine Images (McClellan) | 2 |
-| Deity and Divine Agency in the Hebrew Bible (McClellan) | 2 |
-| The Triadic Heart of Siva (Muller-Ortega) | 1 |
-| The Metaphysics and Tantric Esotericism of Krama, Part 1 (Rastogi) | 1 |
-| Tantrikabhidhanakosa I (Brunner) | 1 |
-| Tantrasara of Abhinavagupta (Abhinavagupta) | 1 |
-| Specific Principles of Kashmir Saivism (Pandit) | 1 |
-| Mandala and Agamic Identity in the Trika of Kashmir (Sanderson).md | 1 |
-| The Prophetic Faith (Buber) | 1 |
-| Ricoeur's Hermeneutics of Religion (Gregor) | 1 |
-| A Handbook of Ancient Religions (Hinnells) | 1 |
-| Gifts from the Goddess (Saraswati) | 1 |
-| The Orthodox Corruption of Scripture (Ehrman) | 1 |
-| Newman and the Alexandrian Fathers (King) | 1 |
-| Mysticism in Shaivism and Christianity (Baumer) | 1 |
-| Hugh of Saint Victor (Rorem) | 1 |
-| Ambigua I (Constas) | 1 |
-| Legal Revision and Religious Renewal in Ancient Israel (Levinson) | 1 |
-| Behold the Man (Conway) | 1 |
-| Ancient Israel in Sinai (Hoffmeier) | 1 |
-
-### You Will Be Like the Gods (McClellan) (52)
-
 | Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
 |---|---|---|---|---|---|
-| [[Library/Biblical-Studies/You Will Be Like the Gods (McClellan)/You Will Be Like the Gods 03 - Final Draft, part 2\|You Will Be Like the Gods 03 - Final Draft, part 2]] | 60 | Ps 18:14–15 | the book mixes Hebrew and English numbering | ), while the power of YHWH was manifested in violent storms and his control of the rains (Gen 7:4; Exod 9:18; Judg 5:4; Ps 18:14–15).   H (low): The line's Ps 47 refs are English, but this author cites Ps 18 in Hebrew numbering elsewhere (18:3, 31, 33, 48 in n. 93; 18:8-16), and Heb 18:14-15 (thunder, hail, lightning) fits 'violent storms' better than Eng 18:14-15 (arrows, sea-bed exposed); a guess. **15 Oct 2026: linked (decisions D04/D06/D07).** |
 | [[Library/Biblical-Studies/You Will Be Like the Gods (McClellan)/You Will Be Like the Gods 05 - Final Draft, part 4\|You Will Be Like the Gods 05 - Final Draft, part 4]] | 286 | 13:18 | the book mixes Hebrew and English numbering | [^60]: Deut 6:14; 13:18; Judg 2:12; Ps 96:5; 1 Chr 16:26; 2 Chr 25:15.  leave unlinked: Footnote lists 'gods of the peoples' passages (Deut 6:14; Judg 2:12; Ps 96:5); neither Hebrew 13:18 (herem) nor 13:19 (obeying commandments) has that phrase - probably a misprint for 13:8 Heb / 13:7 Eng, which is not a candidate. |
-
-### Selected Writings (Berthold) (39)
-
-| Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
-|---|---|---|---|---|---|
-| [[Library/Christianity/Selected Writings (Berthold)/Selected Writings 06 - The Four Hundred Chapters on Love\|Selected Writings 06 - The Four Hundred Chapters on Love]] | 1069 | Ps 16:17 | Church Father translation: LXX book names or numbering possible | 76\. Ps 16:17 and 31:7.  leave unlinked: Ps 16:17 exists in no numbering (Heb/LXX/Vulg Ps 16 and Eng Ps 16 all end before v. 17); misprint that cannot be resolved. **15 Oct 2026: linked (decisions D04/D06/D07).** |
-
-### Playing with Leviathan (van Bekkum) (22)
-
-| Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
-|---|---|---|---|---|---|
 | [[Library/Judaica/Playing with Leviathan (van Bekkum)/Playing with Leviathan 08 - Part 4 New Testament and Early Christianity\|Playing with Leviathan 08 - Part 4 New Testament and Early Christianity]] | 743 | 41:3–4 | the book mixes Hebrew and English numbering | ant. In the book of Job Leviathan, as a sea monster, constitutes a pendant to Behemoth, an earth monster (e.g. Job 3:8; 41:3–4). Within the context of the book   H (low): Neither reading (Heb 41:3-4 or English 41:3-4 = Heb 40:27-28) names the sea or decides anything; a guess following this Dutch volume's predominant Hebrew numbering. **15 Oct 2026: left unlinked, no candidate verse settles it (decision D06).** |
-
-### The Christian Tradition 3 - The Growth of Medieval Theology (Pelikan) (22)
-
-| Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
-|---|---|---|---|---|---|
 | [[Library/Christianity/The Christian Tradition 3 - The Growth of Medieval Theology (Pelikan)/Christian Tradition 3 06 - Part 6\|Christian Tradition 3 06 - Part 6]] | 176 | Ecclus.24:10 | marked as Septuagint or Vulgate numbering | Ecclus.24:10(Vulg.)  L (low): On Pelikan's English-numbering convention 24:10 is the Greek/NRSV verse ('in the holy tabernacle I ministered... established in Zion', Vulg 24:14b–15), which the LXX note has; but Vulgate Sir 24 is versified differently (Vulg 24:10 = Greek 24:6), so this is a guess. **15 Oct 2026: left unlinked, no candidate verse settles it (decision D06).** |
-| [[Library/Christianity/The Christian Tradition 3 - The Growth of Medieval Theology (Pelikan)/Christian Tradition 3 06 - Part 6\|Christian Tradition 3 06 - Part 6]] | 441 | Ecclus.31:9 | marked as Septuagint or Vulgate numbering | Ecclus.31:9(Vulg. )  leave unlinked: Vulgate Ecclus 31:9 'Quis est hic et laudabimus eum' = NRSVue 31:9, but the vault's LXX Sirach follows the displaced Greek chapter order, so its 31:9 is a different verse (Latin 34:9, the traveller); the right block would be LXX Sirach 34:9, which is not a candidate, and there is no DRB Sirach. **15 Oct 2026: linked (decisions D04/D06/D07).** |
 | [[Library/Christianity/The Christian Tradition 3 - The Growth of Medieval Theology (Pelikan)/Christian Tradition 3 06 - Part 6\|Christian Tradition 3 06 - Part 6]] | 491 | Job 41:22 | marked as Septuagint or Vulgate numbering | Job 41:22 (Vulg.)  E (low): On Pelikan's English numbering Job 41:22 = Heb 41:14 (Vulg 41:13 'in collo eius morabitur fortitudo, et faciem eius praecedit egestas', wording that differs from the English); Hebrew 41:22 and Vulgate 41:22 (the boiling sea) are less likely but not excluded. **15 Oct 2026: left unlinked, no candidate verse settles it (decision D06).** |
-
-### Questions and Doubts (Maximus the Confessor) (10)
-
-| Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
-|---|---|---|---|---|---|
-| [[Maximus Questions and Doubts 08 - Notes\|Maximus Questions and Doubts 08 - NOTES]] | 1738 | Ps 75: 1 | Church Father translation: LXX book names or numbering possible | 446\. Ps 75: 1 1 .   leave unlinked: The OCR 'Ps 75: 1 1 .' is 'Ps 75:11' (LXX 75:11, 'the remnant of thought shall keep festival to you', a known Maximus text), not 75:1; no candidate targets verse 11. **15 Oct 2026: linked (decisions D04/D06/D07).** |
-| [[Maximus Questions and Doubts 08 - Notes\|Maximus Questions and Doubts 08 - NOTES]] | 1782 | Ps 2: 1 | Church Father translation: LXX book names or numbering possible | 466\. Ps 2: 1 1 .   leave unlinked: Same OCR split as item 139: 'Ps 2: 1 1 .' is 'Ps 2:11' ('rejoice in him with trembling'), not 2:1; no candidate targets verse 11. **15 Oct 2026: linked (decisions D04/D06/D07).** |
 | [[Maximus Questions and Doubts 08 - Notes\|Maximus Questions and Doubts 08 - NOTES]] | 2042 | Jonah 2:1 | the book mixes Hebrew and English numbering | 589\. See Jonah 2:1 .   E (low): Bare 'See Jonah 2:1'; the note otherwise uses English numbering (= Heb 2:2, Jonah's prayer), but if the allusion is to the three days in the fish the printed 2:1 would be the Hebrew/LXX verse, so this is a guess. **15 Oct 2026: left unlinked, no candidate verse settles it (decision D06).** |
-
-### Religion and Time (Balslev) (5)
-
-| Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
-|---|---|---|---|---|---|
 | [[Library/Other/Religion and Time (Balslev)/Religion and Time 05 - Time in Judaism\|Religion and Time 05 - Time in Judaism]] | 317 | Isaiah 9: 1 | the book mixes Hebrew and English numbering | ents which reveal God's power over history, and thus also his ability to chastise Israel through the agency of enemies. Isaiah 9: 1 7-l l emphasizes this in con  leave unlinked: OCR-garbled reference: '9: 1 7-l l' is Isa 9:7-11 (Hebrew numbering; Aram and the Philistines devour Israel in Heb 9:11 = Eng 9:12), not 9:1, so the parsed verse must not be linked; correct the text to 9:7-11 first. |
-
-### Ascetic Life and Four Centuries on Charity (Sherwood) (3)
-
-| Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
-|---|---|---|---|---|---|
 | [[Library/Christianity/Ascetic Life and Four Centuries on Charity (Sherwood)/Ascetic Life and Four Centuries on Charity 13 - Notes on The Ascetic Life\|Ascetic Life and Four Centuries on Charity 13 - Notes on The Ascetic Life]] | 133 | Ps. 53.0 | Church Father translation: LXX book names or numbering possible | 51 Ps. 53.0.  leave unlinked: 'Ps. 53.0' is an OCR corruption - verse 0 exists in no numbering and the title (E's 53:1) is not a citable verse; the intended digit cannot be recovered. |
-| [[Library/Christianity/Ascetic Life and Four Centuries on Charity (Sherwood)/Ascetic Life and Four Centuries on Charity 13 - Notes on The Ascetic Life\|Ascetic Life and Four Centuries on Charity 13 - Notes on The Ascetic Life]] | 151 | 2 Kings 16.10 | Church Father translation: LXX book names or numbering possible | 80 2 Kings 16.10.  leave unlinked: Sherwood uses Vulgate/LXX book names: '2 Kings 16.10' is 2 Samuel 16:10 (David letting Shimei curse), an ascetic exemplum; every candidate points to 2 Kings 16:10 (Ahaz's altar), which is irrelevant, and no candidate targets 2 Samuel. **15 Oct 2026: linked (decisions D04/D06/D07).** |
-
-### Ben - Sonship and Jewish Mysticism (Idel) (3)
-
-| Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
-|---|---|---|---|---|---|
-| [[Library/Judaica/Ben - Sonship and Jewish Mysticism (Idel)/Ben - Sonship and Jewish 05 - Chapter 3\|Ben - Sonship and Jewish 05 - Chapter 3]] | 881 | Ps. 00.3 | Psalm near a Latin or Greek Father, Vulgate or LXX: numbering unsure | g is also described as another form of son: *bekhor-* firstborn. See Ps. 89.27-28, and Mettinger, ibid., pp. 262-4; and Ps. 00.3; Mettinger, ibid., pp. 264-5; a  leave unlinked: 'Ps. 00.3' is an OCR garble (Mettinger pp. 264-5 on the king as firstborn points to Ps 110:3), and no candidate exists at the printed number. |
-| [[Library/Judaica/Ben - Sonship and Jewish Mysticism (Idel)/Ben - Sonship and Jewish 07 - Chapter 5\|Ben - Sonship and Jewish 07 - Chapter 5]] | 1056 | Avot 6.2 | Avot 5:20 on and chapter 6 are numbered differently in editions | *169 'Avot 6.2.*   Avot 5:20 on and chapter 6 are numbered differently in editions **15 Oct 2026: linked (decisions D04/D06/D07).** |
-
-### Responses to Thalassios (Constas) (3)
-
-| Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
-|---|---|---|---|---|---|
+| [[Library/Judaica/Ben - Sonship and Jewish Mysticism (Idel)/Ben - Sonship and Jewish 05 - Chapter 3\|Ben - Sonship and Jewish 05 - Chapter 3]] | 884 | Ps. 00.3 | Psalm near a Latin or Greek Father, Vulgate or LXX: numbering unsure | g is also described as another form of son: *bekhor-* firstborn. See Ps. 89.27-28, and Mettinger, ibid., pp. 262-4; and Ps. 00.3; Mettinger, ibid., pp. 264-5; a  leave unlinked: 'Ps. 00.3' is an OCR garble (Mettinger pp. 264-5 on the king as firstborn points to Ps 110:3), and no candidate exists at the printed number. |
 | [[Library/Christianity/Responses to Thalassios (Constas)/Responses to Thalassios 60 - Question 53\|Responses to Thalassios 60 - Question 53]] | 97 | 22 | Church Father translation: LXX book names or numbering possible | [^24]: Ps 48.12, 22. See above, Intro., 1.2.13; and Qu. 1.2.  leave unlinked: Ps 48 has at most 21 verses in Hebrew (49), LXX and Vulgate numbering; verse 22 exists nowhere (probably a misprint for the LXX 48:21 refrain), so it cannot be linked. |
-
-### Deity and Divine Agency in the Hebrew Bible (McClellan) (2)
-
-| Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
-|---|---|---|---|---|---|
 | [[Library/Biblical-Studies/Deity and Divine Agency in the Hebrew Bible (McClellan)/Deity and Divine Agency 11 - CHAPTER 4\|Deity and Divine Agency 11 - CHAPTER 4]] | 708 | Psalms 51 | Psalm near a Latin or Greek Father, Vulgate or LXX: numbering unsure | A. Gonzalez, “Le Psaume LXXXII,” *VT* 13.3 \[1963\]: 299; Marvin Tate, “‘Arise, O God, Judge the Earth!’ (82:1–8),” in *Psalms 51–100, Volume 2, Word Biblical C  leave unlinked: 'Psalms 51-100' is the title of Tate's Word Biblical Commentary volume, not a verse reference. |
-
-### Divine Images (McClellan) (2)
-
-| Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
-|---|---|---|---|---|---|
 | [[Library/Biblical-Studies/Divine Images (McClellan)/Divine Images 08 - 1. What Is a Deity\|Divine Images 08 - 1. What Is a Deity]] | 244 | Tobit 4:17 | a second numbering is given beside it |  apocryphal book of Tobit tells the reader, “Place your bread on the grave of the righteous, but give none to sinners” (Tobit 4:17 \[NRSV\]).  leave unlinked: Marked '[NRSV]'; the only linkable candidate, LXX Tobit 4:17, is missing from the vault's note (the GII text lacks 4:7-18), and the NRSVue note is evidence only. |
-
-### Incarnation in Hinduism and Christianity (Bassuk) (2)
-
-| Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
-|---|---|---|---|---|---|
-| [[Library/Christianity/Incarnation in Hinduism and Christianity (Bassuk)/Incarnation in Hinduism 06 - Part Two, part 2\|Incarnation in Hinduism 06 - Part Two, part 2]] | 276 | Ps. 60:3 | the book mixes Hebrew and English numbering | gical language it is said that Yahweh has "begotten" him, or that he was born of the dawn-goddess on the holy mountain (Ps. 60:3).' 43 According to Psalms 2:7 a  leave unlinked: Mowinckel's 'born of the dawn-goddess on the holy mountain' is Ps 110:3; neither Heb 60:3, Eng 60:3 nor LXX 60:3 has any dawn or holy-mountain content, so '60:3' is a misprint. |
-
-### Jesus and Israels Traditions (Bryan) (2)
-
-| Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
-|---|---|---|---|---|---|
+| [[Library/Christianity/Incarnation in Hinduism and Christianity (Bassuk)/Incarnation in Hinduism 06 - Part Two, part 2\|Incarnation in Hinduism 06 - Part Two, part 2]] | 279 | Ps. 60:3 | the book mixes Hebrew and English numbering | gical language it is said that Yahweh has "begotten" him, or that he was born of the dawn-goddess on the holy mountain (Ps. 60:3).' 43 According to Psalms 2:7 a  leave unlinked: Mowinckel's 'born of the dawn-goddess on the holy mountain' is Ps 110:3; neither Heb 60:3, Eng 60:3 nor LXX 60:3 has any dawn or holy-mountain content, so '60:3' is a misprint. |
 | [[Library/Biblical-Studies/Jesus and Israels Traditions (Bryan)/Bryan Jesus and Israel 11 - BIBLIOGRAPHY\|Bryan Jesus and Israel 11 - BIBLIOGRAPHY]] | 362 | Isaiah 9.9–10 | the book mixes Hebrew and English numbering | Washington, DC: Catholic Biblical Association of America, 1987. Evans, Craig A. *To See and Not Perceive: Isaiah 9.9–10 in Early Jewish and Christian Interpreta  leave unlinked: Evans's book is 'To See and Not Perceive: Isaiah 6.9-10 in Early Jewish and Christian Interpretation'; '9.9-10' is a misprint for 6:9-10 and no candidate is the intended text. |
 
-### Leviathan After 350 Years (Sorell) (2)
-
-| Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
-|---|---|---|---|---|---|
-| [[Library/Philosophy/Leviathan After 350 Years (Sorell)/Leviathan After 350 Years 09 - Part Three Biblical and Political Authority, part 1\|Leviathan After 350 Years 09 - Part Three Biblical and Political Authority, part 1]] | 534 | Ps. 89:1–38 | English numbering assumed but not shown in this book | typically understood as a conditional covenant in contrast with the covenants of Abraham (Gen. 15) and David (2 Sam. 7; Ps. 89:1–38), which are understood as un  E (low): English-language philosophy volume citing Harper's Bible Dictionary, so English numbering is the prior; but the range 1–38 fits the covenant section exactly only in Hebrew numbering (Eng 89:38 begins the lament), so this is a guess. **15 Oct 2026: linked (decisions D04/D06/D07).** |
-
-### The Mystical Experience in Abraham Abulafia (Idel) (2)
-
-| Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
-|---|---|---|---|---|---|
-| [[Library/Judaica/The Mystical Experience in Abraham Abulafia (Idel)/The Mystical Experience 08 - 4. Erotic Images for the Ecstatic Experience\|The Mystical Experience 08 - 4. Erotic Images for the Ecstatic Experience]] | 220 | Avot 5:23 | Avot 5:20 on and chapter 6 are numbered differently in editions | the parallel to physical birth, forty years as against forty days; there is likewise an association here with saying in Avot 5:23, "one who is forty years old-f  Avot 5:20 on and chapter 6 are numbered differently in editions **15 Oct 2026: linked (decisions D04/D06/D07).** |
-
-### Gifts from the Goddess (Saraswati) (1)
-
-| Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
-|---|---|---|---|---|---|
-| [[Gifts from the Goddess 81 - Section\|Section]] | 46 | Mark 12:13 | a second numbering is given beside it |  It is worth repeating: “Love thy neighbor as thyself.”<sup>308</sup> Not as somebody else—because if you think of 308  Mark 12:13 (KJV) your neighbor as somebo  leave unlinked: 'Love thy neighbor as thyself' is Mark 12:31; 'Mark 12:13' (Pharisees and Herodians) is a misprint. |
-
-## 2. In the texts added on 12–13 Oct (10)
+## 2. In the texts added on 12–13 Oct (4)
 
 Left by the linker run of 13 Oct over Hobbes, the *Summa*, Chrysostom and Origen on John, and the JANT, after the late-night pass.
 
-| Text | n |
-|---|---|
-| Bible/Jewish Annotated New Testament | 179 |
-| Aquinas/Aquinas - Summa Theologica | 1 |
-
-### Bible/Jewish Annotated New Testament (179)
-
 | Note | Line | Reference | Why | Context | Recommendation (14 Oct 2026) |
 |---|---|---|---|---|---|
-| [[Texts/Bible/Jewish Annotated New Testament/Annotations/02 Mark/JANT Mark 10\|JANT Mark 10]] | 41 | Ps 85.12 | the book mixes Hebrew and English numbering | **[[NRSVue Mark 10#^10-21\|21]]:** Many biblical passages mandate giving *to the poor* (Deut 24.13–22; Am 2.6; Ps 85.12; 89.15; Prov 10.2; 19.17; Tob 4.5–7; Sir   H (low): Neither NRSV 85:12 (land yields increase) nor NRSV 89:15 (festal shout) concerns giving, while Heb 85:12 and 89:15 both contain 'tzedek' (charity), fitting the list's tzedakah texts (Deut 24.13; Prov 10.2); but this annotator otherwise prints English numbers. **15 Oct 2026: linked (decisions D04/D06/D07).** |
-| [[Texts/Bible/Jewish Annotated New Testament/Annotations/02 Mark/JANT Mark 10\|JANT Mark 10]] | 41 | 89.15 | the book mixes Hebrew and English numbering | **[[NRSVue Mark 10#^10-21\|21]]:** Many biblical passages mandate giving *to the poor* (Deut 24.13–22; Am 2.6; Ps 85.12; 89.15; Prov 10.2; 19.17; Tob 4.5–7; Sir   H (low): Heb 89:15 'Righteousness (tzedek) and justice are the base of Your throne' fits the tzedakah list, NRSV 89:15 (= Heb 89:16, festal shout) does not; same uncertainty as the paired Ps 85.12. |
-| [[Texts/Bible/Jewish Annotated New Testament/Annotations/06 Romans/JANT Romans 08\|JANT Romans 08]] | 52 | Ps 7.11 | the book mixes Hebrew and English numbering | **[[NRSVue Romans 08#^8-26\|26–27]]:** See Ps 7.11; 139.1. *Spirit intercedes*, articulates the needs of *the saints* better than   E (low): Neither Heb 7:11 ('shield... upright') nor English 7:11 ('righteous judge') clearly matches 'searches the heart' (that is English 7:9 / Heb 7:10); a guess following the Romans annotator's predominantly English numbering. **15 Oct 2026: left unlinked, no candidate verse settles it (decision D06).** |
-| [[Texts/Bible/Jewish Annotated New Testament/Annotations/07 1 Corinthians/JANT 1 Corinthians 01\|JANT 1 Corinthians 01]] | 88 | 1 Kings 2.10 | LXX reference with no LXX note for it | **[[NRSVue 1 Corinthians 01#^1-31\|31]]:** Jer 9.23 (see also LXX 1 Kings 2.10). ^1-31  leave unlinked: 'LXX 1 Kings 2.10' is 1 Kingdoms = 1 Samuel 2:10, the Greek expansion of Hannah's song that parallels Jer 9:23; every candidate is 1 Kings 2:10 (David's burial), the wrong book, and no LXX Samuel note is offered. **15 Oct 2026: linked (decisions D04/D06/D07).** |
-| [[Texts/Bible/Jewish Annotated New Testament/Annotations/16 2 Timothy/JANT 2 Timothy 02\|JANT 2 Timothy 02]] | 42 | Ps 88.3 | the book mixes Hebrew and English numbering | **[[NRSVue 2 Timothy 02#^2-10\|10]]:** *Elect*, Gk “chosen,” see Isa 65.9,15; Ps 88.3; 104.6; 1 Chr 16.13; Rom 9.11; 11.5,7,28 (referring to Israel, here in Roma  leave unlinked: Cited for 'chosen' alongside LXX-numbered Ps 104.6 (= Heb 105:6), so '88.3' means LXX Ps 88 = Heb 89 but with the English verse number: the intended verse is Heb 89:4 / LXX 88:4 'covenant with My chosen one', and no candidate at the printed number (Heb 88:3, Heb 88:4, LXX 88:3) contains it. **15 Oct 2026: linked (decisions D04/D06/D07).** |
-| [[Texts/Bible/Jewish Annotated New Testament/Annotations/19 Hebrews/JANT Hebrews 05\|JANT Hebrews 05]] | 33 | 2 Kings 12.9 | the book mixes Hebrew and English numbering | iest,” Heb *Kohen gadol*, Gk *archiereus*, does not appear in Exodus or Leviticus, but it becomes common later (Num 35; 2 Kings 12.9; Jdt 4.14; 2 Macc 3.32). Al  E (low): Neither candidate contains 'high priest' (it is Heb 12:11 = NRSV 12:10); the English reading lands one verse early at the start of the chest episode, the Hebrew reading two verses early, so the English-based reference is the likelier imprecision. **15 Oct 2026: left unlinked, no candidate verse settles it (decision D06).** |
-| [[Texts/Bible/Jewish Annotated New Testament/Annotations/19 Hebrews/JANT Hebrews 07\|JANT Hebrews 07]] | 20 | Ps 52.7 | the book mixes Hebrew and English numbering | k.” *Most High God*, often simply “Most High” (Gk “hypsistos,” Heb “el elyon”), an epithet for Israel’s God (Deut 32.8; Ps 52.7). ^7-1-2  leave unlinked: Neither Heb 52:7 ('God will tear you down') nor NRSV 52:7 (= Heb 52:9, the man who trusted in riches) mentions the Most High; probably a misprint (perhaps Ps 57.2). |
-| [[Texts/Bible/Jewish Annotated New Testament/Essays/JANT Essay - Prayer\|JANT Essay - Prayer]] | 50 | Num 16.37–41 | the book mixes Hebrew and English numbering | s with a discussion regarding the twice-daily obligation to recite the biblical *Shema* passages (Deut 6.4–9; 11.13–21; Num 16.37–41). Flavius Josephus  leave unlinked: The third Shema paragraph is Num 15:37-41 (tzitzit); 'Num 16.37-41' is a misprint, H is missing and the English conversion (Heb 17:2, Eleazar's fire pans) is not the Shema. |
-| [[Texts/Bible/Jewish Annotated New Testament/Introductions/JANT James - Introduction\|JANT James - Introduction]] | 21 | Ps 24.9 | Psalm near a Latin or Greek Father, Vulgate or LXX: numbering unsure | 18; Ex 20.13–14 \|\| Jas 2.8–11) and patriarchal narratives (e.g., Gen 15.6 \|\| Jas 2.23) as well as with the poetic (esp. Ps 24.9) and wisdom tradition (Prov 3.34  H (low): Ps 24 has no title shift so the number is the same in both systems, but 24:9 'lift up your heads, O gates' has no evident link to James (possibly a misprint for 24.4, cf. Jas 4:8). **15 Oct 2026: left unlinked, no candidate verse settles it (decision D06).** |
-| [[Texts/Bible/Jewish Annotated New Testament/Tables and glossary/JANT Glossary\|JANT Glossary]] | 70 | Exod 20.26 | the book mixes Hebrew and English numbering | oil as a sign of being dedicated to God, including kings (1 Kings 1.39), priests (Lev 8.30), and liturgical structures (Exod 20.26). Bodies (Ruth 3.3; Dan 10.3;  leave unlinked: Anointing of liturgical structures is Exod 30:26 (Tent and Ark); Exod 20:26 in every numbering is the altar steps, so '20.26' is a misprint (the same glossary line also prints the impossible 'Lk 26.53'). |
+| [[Texts/Bible/Jewish Annotated New Testament/Annotations/06 Romans/JANT Romans 08\|JANT Romans 08]] | 50 | Ps 7.11 | the book mixes Hebrew and English numbering | **[[NRSVue Romans 08#^8-26\|26–27]]:** See Ps 7.11; 139.1. *Spirit intercedes*, articulates the needs of *the saints* better than   E (low): Neither Heb 7:11 ('shield... upright') nor English 7:11 ('righteous judge') clearly matches 'searches the heart' (that is English 7:9 / Heb 7:10); a guess following the Romans annotator's predominantly English numbering. **15 Oct 2026: left unlinked, no candidate verse settles it (decision D06).** |
+| [[Texts/Bible/Jewish Annotated New Testament/Annotations/19 Hebrews/JANT Hebrews 05\|JANT Hebrews 05]] | 31 | 2 Kings 12.9 | the book mixes Hebrew and English numbering | iest,” Heb *Kohen gadol*, Gk *archiereus*, does not appear in Exodus or Leviticus, but it becomes common later (Num 35; 2 Kings 12.9; Jdt 4.14; 2 Macc 3.32). Al  E (low): Neither candidate contains 'high priest' (it is Heb 12:11 = NRSV 12:10); the English reading lands one verse early at the start of the chest episode, the Hebrew reading two verses early, so the English-based reference is the likelier imprecision. **15 Oct 2026: left unlinked, no candidate verse settles it (decision D06).** |
+| [[Texts/Bible/Jewish Annotated New Testament/Annotations/19 Hebrews/JANT Hebrews 07\|JANT Hebrews 07]] | 18 | Ps 52.7 | the book mixes Hebrew and English numbering | k.” *Most High God*, often simply “Most High” (Gk “hypsistos,” Heb “el elyon”), an epithet for Israel’s God (Deut 32.8; Ps 52.7). ^7-1-2  leave unlinked: Neither Heb 52:7 ('God will tear you down') nor NRSV 52:7 (= Heb 52:9, the man who trusted in riches) mentions the Most High; probably a misprint (perhaps Ps 57.2). |
+| [[Texts/Bible/Jewish Annotated New Testament/Introductions/JANT James - Introduction\|JANT James - Introduction]] | 19 | Ps 24.9 | Psalm near a Latin or Greek Father, Vulgate or LXX: numbering unsure | 18; Ex 20.13–14 \|\| Jas 2.8–11) and patriarchal narratives (e.g., Gen 15.6 \|\| Jas 2.23) as well as with the poetic (esp. Ps 24.9) and wisdom tradition (Prov 3.34  H (low): Ps 24 has no title shift so the number is the same in both systems, but 24:9 'lift up your heads, O gates' has no evident link to James (possibly a misprint for 24.4, cf. Jas 4:8). **15 Oct 2026: left unlinked, no candidate verse settles it (decision D06).** |
 
 ## 3. References to verses that don't exist
 
-These stay unlinked: the book has a misprint or an OCR error, or the reference is to a text the vault doesn't hold. Converted books (160, by cause):
+These stay unlinked, except the eight in the second table whose intended verse is certain (marked; linked to that verse on 24 Oct 2026, audit decision 15): the book has a misprint or an OCR error, or the reference is to a text the vault doesn't hold. Converted books (160, by cause):
 
 | Cause | n | Books (references) |
 |---|---|---|
@@ -207,8 +60,8 @@ Texts added on 12–13 Oct (96):
 
 | Note | Reference | Looked for | Context |
 |---|---|---|---|
-| [[Texts/Hobbes/Leviathan (1651)/Leviathan 1651 38 - Of the Signification in Scripture of Eternall Life\|Leviathan 1651 38 - Of the Signification in Scripture of Eternall Life]] | Mark 9.44 | MRK 9:44 | Isa.66.24. and Mark 9.44, 46, 48; sometimes, by Fire, as in the  |
-| [[Texts/Hobbes/Leviathan (1651)/Leviathan 1651 38 - Of the Signification in Scripture of Eternall Life\|Leviathan 1651 38 - Of the Signification in Scripture of Eternall Life]] | 46 | MRK 9:46 | Isa.66.24. and Mark 9.44, 46, 48; sometimes, by Fire, as in the plac |
+| [[Texts/Hobbes/Leviathan (1651)/Leviathan 1651 38 - Of the Signification in Scripture of Eternall Life\|Leviathan 1651 38 - Of the Signification in Scripture of Eternall Life]] | Mark 9.44 | MRK 9:44 | Isa.66.24. and Mark 9.44, 46, 48; sometimes, by Fire, as in the **Linked 24 Oct 2026 to the verse meant (decision 15).** |
+| [[Texts/Hobbes/Leviathan (1651)/Leviathan 1651 38 - Of the Signification in Scripture of Eternall Life\|Leviathan 1651 38 - Of the Signification in Scripture of Eternall Life]] | 46 | MRK 9:46 | Isa.66.24. and Mark 9.44, 46, 48; sometimes, by Fire, as in the plac **Linked 24 Oct 2026 to the verse meant (decision 15).** |
 | [[Texts/Hobbes/Leviathan (1651)/Leviathan 1651 36 - Of the Word of God\|Leviathan 1651 36 - Of the Word of God]] | Psalm 36.31 | PSA 36:31 | mans heart; as Psalm 36.31. Jerem. 31.33. Deut.30.11, 14. and many |
 | [[Texts/Hobbes/Leviathan (1651)/Leviathan 1651 34 - Of the Signification of Spirit\|Leviathan 1651 34 - Of the Signification of Spirit]] | Ezek. 2.30 | EZK 2:30 | wheels," is equivalent to, "the wheels were alive." And (Ezek. 2.30.) |
 | [[Texts/Fathers/Origen - Commentary on John/Origen on John Book 06\|Origen on John Book 06]] | 43 | LUK 10:43 | tion? And what more fitting home for Mary, who chose the good part, Luke 10:41, 43 which was not taken away from her, and  |
@@ -276,9 +129,9 @@ Texts added on 12–13 Oct (96):
 | [[Texts/Bible/Jewish Annotated New Testament/Annotations/01 Matthew/JANT Matthew 05\|JANT Matthew 05]] | 23.35 | SIR 23:35 (LXX) | Jewish sources show a deep disdain for this offense (e.g., Job 31.1,9; Sir 9.8; 23.35; 41.21; *b. Ber*. 16a; *Lev. Rab*. 23.1 |
 | [[Texts/Bible/Jewish Annotated New Testament/Annotations/01 Matthew/JANT Matthew 04\|JANT Matthew 04]] | Heb 51.12 | HEB 51:12 | Ps 73.1), another ref- erence to the land; the expression also echoes Ps 51.10 (Heb 51.12; \[LXX 50.12\]). |
 | [[Texts/Aquinas/Aquinas - Summa Theologica/Tertia Pars/Aquinas Summa III Q089\|Aquinas Summa III Q089]] | Haggai 1:26 | HAG 1:26 (Douay-Rheims) | Objection 3. Further, Jerome in commenting on Haggai 1:26: "You have sowed much," says: "If at an |
-| [[Texts/Aquinas/Aquinas - Summa Theologica/Tertia Pars/Aquinas Summa III Q084\|Aquinas Summa III Q084]] | Psalm 1:14 | PSA 1:14 (Douay-Rheims) | oly Ghost Whom he had lost, wherefore it is said in the person of the penitent (Psalm 1:14): "Restore unto me the joy of Thy salva |
-| [[Texts/Aquinas/Aquinas - Summa Theologica/Tertia Pars/Aquinas Summa III Q082\|Aquinas Summa III Q082]] | Psalm 1:19 | PSA 1:19 (Douay-Rheims) |  a spiritual priesthood for offering spiritual sacrifices, of which it is said (Psalm 1:19): "A sacrifice to God is an afflicted s |
-| [[Texts/Aquinas/Aquinas - Summa Theologica/Tertia Pars/Aquinas Summa III Q073\|Aquinas Summa III Q073]] | John 5:4 | JHN 5:4 | by reason of the power of the Holy Ghost, which power is in the water. Hence on John 5:4, "An angel of the Lord at certain times |
+| [[Texts/Aquinas/Aquinas - Summa Theologica/Tertia Pars/Aquinas Summa III Q084\|Aquinas Summa III Q084]] | Psalm 1:14 | PSA 1:14 (Douay-Rheims) | oly Ghost Whom he had lost, wherefore it is said in the person of the penitent (Psalm 1:14): "Restore unto me the joy of Thy salva **Linked 24 Oct 2026 to the verse meant (decision 15).** |
+| [[Texts/Aquinas/Aquinas - Summa Theologica/Tertia Pars/Aquinas Summa III Q082\|Aquinas Summa III Q082]] | Psalm 1:19 | PSA 1:19 (Douay-Rheims) |  a spiritual priesthood for offering spiritual sacrifices, of which it is said (Psalm 1:19): "A sacrifice to God is an afflicted s **Linked 24 Oct 2026 to the verse meant (decision 15).** |
+| [[Texts/Aquinas/Aquinas - Summa Theologica/Tertia Pars/Aquinas Summa III Q073\|Aquinas Summa III Q073]] | John 5:4 | JHN 5:4 | by reason of the power of the Holy Ghost, which power is in the water. Hence on John 5:4, "An angel of the Lord at certain times **Linked 24 Oct 2026 to the verse meant (decision 15).** |
 | [[Texts/Aquinas/Aquinas - Summa Theologica/Tertia Pars/Aquinas Summa III Q054\|Aquinas Summa III Q054]] | Job 14:56 | JOB 14:56 (Douay-Rheims) | ught back to subtlety whatever could be handled in Him" [St. Gregory, Moral. in Job 14:56]. Now Gregory condemns this in the same |
 | [[Texts/Aquinas/Aquinas - Summa Theologica/Tertia Pars/Aquinas Summa III Q054\|Aquinas Summa III Q054]] | Job 14:56 | JOB 14:56 (Douay-Rheims) | ither for the guilt of flesh and blood, as Gregory says [St. Gregory, Moral. in Job 14:56, or else for the corruption of flesh an |
 | [[Texts/Aquinas/Aquinas - Summa Theologica/Tertia Pars/Aquinas Summa III Q046\|Aquinas Summa III Q046]] | Hebrews 13:27 | HEB 13:27 | e burnt outside the camp, as commanded in Leviticus 16:27. Hence it is written (Hebrews 13:27): "For the bodies of those beasts, whos |
@@ -298,8 +151,8 @@ Texts added on 12–13 Oct (96):
 | [[Texts/Aquinas/Aquinas - Summa Theologica/Secunda Secundae/Aquinas Summa II-II Q029\|Aquinas Summa II-II Q029]] | 1 Corinthians 16:33 | 1CO 16:33 | me thing is opposed to concord and peace, viz. dissension; hence it is written (1 Corinthians 16:33): "God is not the God of dissension but |
 | [[Texts/Aquinas/Aquinas - Summa Theologica/Prima Secundae/Aquinas Summa I-II Q105\|Aquinas Summa I-II Q105]] | Psalm 147:20 | PSA 147:20 (Douay-Rheims) | On the contrary, It is recalled as a special blessing (Psalm 147:20) that "He hath not done in like manner  |
 | [[Texts/Aquinas/Aquinas - Summa Theologica/Prima Secundae/Aquinas Summa I-II Q100\|Aquinas Summa I-II Q100]] | Deuteronomy 26:20 | DEU 26:20 (Douay-Rheims) |  done bravely, and in like manner as to the other virtues. But it is commanded (Deuteronomy 26:20) that "thou shalt follow justly after t |
-| [[Texts/Aquinas/Aquinas - Summa Theologica/Prima Secundae/Aquinas Summa I-II Q091\|Aquinas Summa I-II Q091]] | Psalm 18:33 | PSA 18:33 (Douay-Rheims) | On the contrary, David prayed God to set His law before him, saying (Psalm 18:33): "Set before me for a law the way of T |
-| [[Texts/Aquinas/Aquinas - Summa Theologica/Prima Secundae/Aquinas Summa I-II Q082\|Aquinas Summa I-II Q082]] | Psalm 1:7 | PSA 1:7 (Douay-Rheims) |  It would seem that there are many original sins in one man. For it is written (Psalm 1:7): "Behold I was conceived in iniquities |
+| [[Texts/Aquinas/Aquinas - Summa Theologica/Prima Secundae/Aquinas Summa I-II Q091\|Aquinas Summa I-II Q091]] | Psalm 18:33 | PSA 18:33 (Douay-Rheims) | On the contrary, David prayed God to set His law before him, saying (Psalm 18:33): "Set before me for a law the way of T **Linked 24 Oct 2026 to the verse meant (decision 15).** |
+| [[Texts/Aquinas/Aquinas - Summa Theologica/Prima Secundae/Aquinas Summa I-II Q082\|Aquinas Summa I-II Q082]] | Psalm 1:7 | PSA 1:7 (Douay-Rheims) |  It would seem that there are many original sins in one man. For it is written (Psalm 1:7): "Behold I was conceived in iniquities **Linked 24 Oct 2026 to the verse meant (decision 15).** |
 | [[Texts/Aquinas/Aquinas - Summa Theologica/Prima Secundae/Aquinas Summa I-II Q066\|Aquinas Summa I-II Q066]] | Job 26:26 | JOB 26:26 (Douay-Rheims) | ne (De Trin. xii, 14): because Divine things are incomprehensible, according to Job 26:26: "Behold God is great, exceeding our kn |
 | [[Texts/Aquinas/Aquinas - Summa Theologica/Part I/Aquinas Summa I Q024\|Aquinas Summa I Q024]] | Psalm 69:29 | PSA 69:29 (Douay-Rheims) | On the contrary, It is said in a gloss upon Psalm 69:29, "Let them be blotted out of the book o |
-| [[Texts/Aquinas/Aquinas - Summa Theologica/Part I/Aquinas Summa I Q019\|Aquinas Summa I Q019]] | Psalm 13:11 | PSA 13:11 (Douay-Rheims) | On the contrary, It is said (Psalm 13:11): "God hath done all things, whatsoever |
+| [[Texts/Aquinas/Aquinas - Summa Theologica/Part I/Aquinas Summa I Q019\|Aquinas Summa I Q019]] | Psalm 13:11 | PSA 13:11 (Douay-Rheims) | On the contrary, It is said (Psalm 13:11): "God hath done all things, whatsoever **Linked 24 Oct 2026 to the verse meant (decision 15).** |

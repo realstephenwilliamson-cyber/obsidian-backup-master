@@ -17,8 +17,7 @@ language:
   - English
 pages: 231
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Philosophy/Norbert_Wiener_Cybernetics.pdf]]"
   - "[[Library/Philosophy/Cybernetics - Or Control and Communication in the Animal (Wiener)/Cybernetics - Or Control and Communication in the Animal (Wiener)]]"

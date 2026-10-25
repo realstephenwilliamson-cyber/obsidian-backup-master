@@ -17,8 +17,7 @@ language:
   - English
 pages: 349
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Shankarananda - The Yoga of Kashmir Shaivism (2006).pdf]]"
   - "[[Library/Trika/The Yoga of Kashmir Shaivism (Shankarananda)/The Yoga of Kashmir Shaivism (Shankarananda)]]"

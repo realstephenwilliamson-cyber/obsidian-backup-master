@@ -5,9 +5,7 @@ section: "Episcopal Services"
 translation: "The Book of Common Prayer (1979), The Episcopal Church"
 license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/EpiscopalServices/litany_for_ordinations.html"
-page_range:
-  - 548
-  - 551
+page_range: "548–551"
 aliases:
   - "BCP 548"
   - "BCP 549"
@@ -18,7 +16,7 @@ aliases:
 
 [[BCP 1979]] · *Episcopal Services* · pages 548–551
 
-[p. 548]
+[p. 548] ^pg548
 
 ## The Litany for Ordinations
 
@@ -40,7 +38,7 @@ For all members of your Church in their vocation and ministry, that they may ser
 
 For *N.*, our Presiding Bishop, and for all bishops, priests, and deacons, that they may be filled with your love, may hunger for truth, and may thirst after righteousness, we pray to you, O Lord. *Lord, hear our prayer.*
 
-[p. 549]
+[p. 549] ^pg549
 
 For *N.*, chosen bishop (priest, deacon) in your Church, we pray to you, O Lord. *Lord, hear our prayer.*
 
@@ -58,7 +56,7 @@ For those who do not yet believe, and for those who have lost their faith, that 
 
 For the peace of the world, that a spirit of respect and forbearance may grow among nations and peoples, we pray to you, O Lord. *Lord, hear our prayer.*
 
-[p. 550]
+[p. 550] ^pg550
 
 For those in positions of public trust [especially \_\_\_\_\_\_\_\_\_\_\_\_\_], that they may serve justice and promote the dignity and freedom of every person, we pray to you, O Lord. *Lord, hear our prayer.*
 
@@ -72,7 +70,7 @@ For all who have died in the communion of your Church, and those whose faith is 
 
 Rejoicing in the fellowship of [the ever-blessed Virgin Mary, (*blessed N.*) and] all the saints, let us commend ourselves, and one another, and all our life to Christ our God. *To you, O Lord our God.*
 
-[p. 551]
+[p. 551] ^pg551
 
 Lord, have mercy. *Christ, have mercy.* Lord, have mercy.
 

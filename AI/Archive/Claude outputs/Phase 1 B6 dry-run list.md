@@ -155,7 +155,7 @@ Items marked **yours** touch your own notes (Writing, concepts, hubs) or are a m
 
 - **Now:** John 1: '`[p. 8](<…Catena Aurea on John (Aquinas).pdf#page=8>)`'; John 18: '`[p. 556](<…#page=556>)`'.
 - **After:** John 1: '`[p. 7](<…#page=7>)`'; John 18: '`[p. 549](<…#page=549>)`'.
-- **Source:** C1 checker ran pdftotext on the staged PDF (658 pp.): chapter openings 7, 85, … 526, 549, 573, 598, 618. I re-ran pdftotext on the same staged file: p. 7 'COMMENTARY ON THE GOSPEL ACCORDING TO ST. JOHN. CHAP. I.'; p. 8 running head '2 … CHAP. I.'; p. 549 'CHAP. XVIII. 1. When Jesus had spoken these words'; p. 556 running head '550 … CHAP. XVIII.', on Caiaphas. The map's labels are PDF page numbers (same as #page), so labels change too.
+- **Source:** C1 checker ran pdftotext on the staged PDF (658 pp.): chapter openings 7, 85, … 526, 549, 573, 598, 618. I re-ran pdftotext on the same staged file: p. 7 'COMMENTARY ON THE GOSPEL ACCORDING TO ST. JOHN. CHAP. I.'; p. 8 running head '2 … CHAP. I.'; p. 549 'CHAP. XVIII. 1. When Jesus had spoken these words'; p. 556 running head '550 … CHAP. XVIII.', on Caiaphas. The map's labels are PDF page numbers (same as `#page`), so labels change too.
 
 ## Philosophy catalog
 

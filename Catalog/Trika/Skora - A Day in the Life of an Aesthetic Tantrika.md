@@ -17,8 +17,7 @@ language:
   - English
 pages: 18
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[religions-09-00081.pdf]]"
   - "[[Library/Trika/A Day in the Life of an Aesthetic Tantrika (Skora)]]"

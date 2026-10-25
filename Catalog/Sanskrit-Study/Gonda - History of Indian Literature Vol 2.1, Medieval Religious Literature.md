@@ -18,7 +18,7 @@ language:
 pages: 336
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Gonda - Medieval Religious Literature in Sanskrit (2020).pdf]]"
   - "[[Library/Sanskrit/Medieval Religious Literature in Sanskrit (Gonda)/Medieval Religious Literature in Sanskrit (Gonda)]]"

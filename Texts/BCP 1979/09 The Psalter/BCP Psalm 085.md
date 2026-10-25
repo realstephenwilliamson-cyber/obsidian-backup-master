@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 85
 verses: 13
-page_range:
-  - 709
-  - 709
+page_range: "709"
 aliases:
   - "BCP Psalm 85"
   - "BCP 709"
@@ -31,7 +29,7 @@ and blotted out all their sins. ^85-2
 **85:3** You have withdrawn all your fury \*  
 and turned yourself from your wrathful indignation. ^85-3
 
-[p. 709]
+[p. 709] ^pg709
 
 **85:4** Restore us then, O God our Savior; \*  
 let your anger depart from us. ^85-4

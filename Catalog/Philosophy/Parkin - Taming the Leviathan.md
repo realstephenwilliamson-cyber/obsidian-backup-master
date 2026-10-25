@@ -17,8 +17,7 @@ language:
   - English
 pages: 470
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Parkin - Taming the Leviathan (2007).pdf]]"
   - "[[Library/Philosophy/Taming the Leviathan (Parkin)/Taming the Leviathan (Parkin)]]"

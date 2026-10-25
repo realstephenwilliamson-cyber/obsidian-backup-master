@@ -4,7 +4,7 @@ book: "[[The Essential Kabbalah (Matt)]]"
 order: 14
 page_range: "219–221"
 ---
-[p. 219]
+[p. 219] ^pg219
 
 # Suggested Reading
 

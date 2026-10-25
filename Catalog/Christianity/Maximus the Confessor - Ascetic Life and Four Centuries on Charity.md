@@ -18,8 +18,7 @@ language:
   - English
 pages: 284
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Maximus the Confessor - Ascetic Life and Four Centuries on Charity (Sherwood 1955).pdf]]"
   - "[[Library/Christianity/Ascetic Life and Four Centuries on Charity (Sherwood)/Ascetic Life and Four Centuries on Charity (Sherwood)]]"

@@ -20,8 +20,7 @@ language:
   - English
 pages: 456
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Judaica/Hellner-Eshed - Seekers of the Face (2021).pdf]]"
   - "[[Library/Judaica/Seekers of the Face (Hellner-Eshed)/Seekers of the Face (Hellner-Eshed)]]"

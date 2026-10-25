@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Pintchman (ed.) - Woman and Goddess in Hinduism]]"
 book: "[[Library/Hinduism/Woman and Goddess in Hinduism (Pintchman)/Woman and Goddess in Hinduism (Pintchman)|Woman and Goddess in Hinduism (Pintchman)]]"
 order: 6
 source_pdf: "Library/Hinduism/Pintchman, Sherma (eds.) - Woman and Goddess in Hinduism (2011).pdf"
-pages: "77–96"
+page_range: "77–96"
 pdf_pages: "88–107"
 text_source: "PDF text layer (born-digital), PyMuPDF; about 80 italic transliterated words, set in a font without a Unicode map, read by OCR (Tesseract 5, Latin)"
 converted: 2026-10-22

@@ -3,11 +3,11 @@ cssclasses:
   - manuscript
 type: sample
 stage: drafting
-occasion: "Easter 5A"
+occasion: "Easter-5A"
 date: "2026-05-10"
 sunday: "Easter-5A"
 parashah: "Emor"
-physical_copy: false
+print: false
 tags:
   - homily
   - liturgy

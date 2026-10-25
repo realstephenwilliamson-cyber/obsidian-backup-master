@@ -6,7 +6,7 @@ page_range: "455–480"
 ---
 [[Forgery and Counterforgery 14 - Chapter Thirteen - Forgeries Involving Debates over the Flesh|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 16 - Chapter Fifteen - Apologetic Forgeries|next →]]
 
-[p. 455]
+[p. 455] ^pg455
 
 ## Chapter Fourteen: Forgeries Arising from Later Theological Controversies
 
@@ -118,7 +118,7 @@ And so, the solution to the dilemma of the Pseudo-Ignatian forgeries (including 
 
 Several subsidiary points need to be made before proceeding to a more detailed analysis. First, the author is clearly engaged, consciously, in the act of forgery, as is made clear both by all of his attempts at verisimilitude, some of which we will examine shortly, and by the fact that he altered in highly significant ways the authentic letters of Ignatius, in effect putting his own words on the pen of an author living more than a century and a half earlier. Moreover, the forger is not only concerned with theology and with conveying his particular Christological views under the authority of Ignatius. As is true of most authors, he has multiple interests.[^57] These other interests include emphasizing the preeminence of the bishop, the ability of young men to serve as bishops, the importance of the church structure, the social relations of Christians, the relationship of church and state, and a large range of ethical issues, including opposition to rigorous asceticism.
 
-[p. 469]
+[p. 469] ^pg469
 
 #### *Important Features of the Forgeries and Interpolations*
 

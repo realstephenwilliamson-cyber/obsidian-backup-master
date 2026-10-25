@@ -20,8 +20,7 @@ language:
   - English
 pages: 986
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Christianity/Chrysostom - Homilies on Matthew (NPNF1 10, 1888).pdf]]"
   - "[[Library/Christianity/Homilies on Matthew (Chrysostom)/Homilies on Matthew (Chrysostom)]]"

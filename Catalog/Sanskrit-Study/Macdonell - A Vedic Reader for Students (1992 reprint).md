@@ -19,7 +19,7 @@ language:
 pages: 300
 text: searchable
 status: reading
-physical_copy: false
+print: false
 files:
   - "[[Macdonell - A Vedic Reader for Students (1992 reprint).pdf]]"
   - "[[Library/Sanskrit/A Vedic Reader for Students (Macdonell)/A Vedic Reader for Students (Macdonell)]]"

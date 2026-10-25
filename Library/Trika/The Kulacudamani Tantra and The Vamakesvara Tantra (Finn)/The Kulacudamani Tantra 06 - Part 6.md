@@ -40,7 +40,7 @@ According to what has been said, the cakra is effulgent because, in essence, the
 
 *[p. 207]* ^pg203
 
-all in splendour (because of her supreme nature of massed consciousness and bliss) pervades the warp and weft of this whole universe which is essentially a mere exhalation[^215] <sup>215</sup>of her independent will. The Tripurã, (who irradiates the eternally fecund triple cities - characterised by creation, maintenance and destruction - which produce the abundance of varied phenomena, projected by Herself, from her own consciousness, onto her own backdrop as both different and non-different from Her in the way of the "mirror and town" analogy), is called by the name Mahātripurasundarī because her being is pure consciousness - ineffable and supreme.
+all in splendour (because of her supreme nature of massed consciousness and bliss) pervades the warp and weft of this whole universe which is essentially a mere exhalation[^215] of her independent will. The Tripurã, (who irradiates the eternally fecund triple cities - characterised by creation, maintenance and destruction - which produce the abundance of varied phenomena, projected by Herself, from her own consciousness, onto her own backdrop as both different and non-different from Her in the way of the "mirror and town" analogy), is called by the name Mahātripurasundarī because her being is pure consciousness - ineffable and supreme.
 
 "Because of her nature as supporter and supported...."
 
@@ -240,7 +240,7 @@ IT IS RESPONSIBLE[^247] FOR ALL THE (COSMIC) PRINCIPLES,[^248]
 
 OH GODDESS:,
 
-AND IS THE ABODE OF THE AJNAS.[^249] <sup>249</sup>
+AND IS THE ABODE OF THE AJNAS.[^249]
 
 IT IS INVOLVED IN ALL SUCCESS AND IS THE SUPREME GLORIFIER OF ALL.
 
@@ -254,7 +254,7 @@ IT RELIEVES ALL SUFFERING AND BANISHES ALL SORROWS.
 
 OH GODDESS! IT IS INTOXICATING AND CONTAINS THE QUEEN OF
 
-YOGISṢS.[^250] <sup>250</sup>
+YOGISṢS.[^250]
 
 IT INCLUDES, OH BELOVED GODDESS:, ALL THE SEATS OF
 
@@ -349,7 +349,7 @@ WITH FOUR PORTALS.
 
 In the "sixteen spoked one", the word "spoke" is a synonym for
 
-petal.[^260] <sup>26</sup>
+petal.[^260]
 
 As has been said:
 
@@ -875,7 +875,7 @@ The first bija of the yoni class[^315] is joined to the bija relating to Purapda
 
 Oh Great Goddess: The Kæmarãja grants perfection in matters of desire.
 
-Oh Queen of the Gods! When the lord of the nightž[^318] is extracted,
+Oh Queen of the Gods! When the lord of the night[^318] is extracted,
 
 316\. "Puraṇdara" is an epithet of Indra, hence the letter "I". 8317.
 [^317]: I.e., the letter "i".
@@ -898,7 +898,7 @@ The letter between 'aṇm' and 'g'; the one between 'v' and 'r' (plus the letter
 
 The one between 'v' and 'h'; the one placed below 'ā' provided with the one which is between 'aṇ' and 'k'. , This is the first vidyā made up of three syllables and called
 
-KaraSuddhikarī."[^320] <sup>320</sup>
+KaraSuddhikarī."[^320]
 
 The one between "o" and "j" is "ai". The one above "jh" is "am". Hence AIM. The one between "am" and "g" is "k" (in terms of upward pointing triangles); the one between "v" and "r" is "I" and the one between "ā" and "g" is "ī". Hence KLĪM. The one between "v" and "h" is "s"; the one below "ā" is "au" and the one between "aṇ" and "k" is "ah". Hence
 

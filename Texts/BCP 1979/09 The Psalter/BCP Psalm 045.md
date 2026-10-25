@@ -7,9 +7,7 @@ license: "Public domain (the 1979 Book of Common Prayer is not under copyright)"
 source: "https://github.com/bcponline/BCP-Source/blob/26b1a4f4f74a/Psalter/the_psalter.html"
 psalm: 45
 verses: 18
-page_range:
-  - 648
-  - 648
+page_range: "648"
 aliases:
   - "BCP Psalm 45"
   - "BCP 648"
@@ -42,7 +40,7 @@ your arrows are very sharp, O mighty warrior. ^45-5
 **45:6** The peoples are falling at your feet, \*  
 and the king's enemies are losing heart. ^45-6
 
-[p. 648]
+[p. 648] ^pg648
 
 **45:7** Your throne, O God, endures for ever and ever, \*  
 a scepter of righteousness is the scepter of your kingdom;  

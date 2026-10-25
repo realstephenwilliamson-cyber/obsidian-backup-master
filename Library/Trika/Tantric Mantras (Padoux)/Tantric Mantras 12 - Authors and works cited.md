@@ -4,7 +4,7 @@ book: "[[Tantric Mantras (Padoux)]]"
 order: 12
 page_range: "165–178"
 ---
-[p. 165]
+[p. 165] ^pg165
 
 # Authors and works cited
 

@@ -19,8 +19,7 @@ language:
   - English
 pages: 33
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Ratie - Some Hitherto Unknown Fragments of Utpaladeva's Vivrti (I).pdf]]"
   - "[[Library/Trika/Some Hitherto Unknown Fragments of Utpaladeva's Vivrti (I) (Ratie)]]"

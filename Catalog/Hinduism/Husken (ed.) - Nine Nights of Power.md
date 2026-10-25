@@ -19,8 +19,7 @@ language:
   - English
 pages: 309
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Husken, Narayanan, Zotter (eds.) - Nine Nights of Power (SUNY 2021).pdf]]"
   - "[[Library/Hinduism/Nine Nights of Power (Husken)/Nine Nights of Power (Husken)]]"

@@ -17,8 +17,7 @@ language:
   - English
 pages: 20
 text: searchable
-status: keep
-physical_copy: false
+print: false
 files:
   - "[[Library/Trika/Dyczkowski (tr.) - The Vatulanathasutra with the Commentary of Anantasaktipada.pdf]]"
   - "[[Library/Trika/The Vatulanathasutra with the Commentary of Anantasaktipada (Dyczkowski)]]"

@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Bourgeois Hinduism, or the Faith 08 - 4. Bourgeois Ved& 257;nta for the Bhadralok|← previous]] · [[Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)|contents]] · [[Bourgeois Hinduism, or the Faith 10 - 6. The Text of Sabhyadiger vaktrt& 257; and the Problem of|next →]]
+[[Bourgeois Hinduism, or the Faith 08 - 4. Bourgeois Vedanta for the Bhadralok|← previous]] · [[Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)|contents]] · [[Bourgeois Hinduism, or the Faith 10 - 6. The Text of Sabhyadiger vaktrta and the Problem of Authorship|next →]]
 
 *[p. 85]* ^pg100
 

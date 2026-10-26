@@ -4,21 +4,21 @@ work: "[[Catalog/Biblical-Studies/Coogan - The Old Testament, A Very Short Intro
 book: "[[Library/Biblical-Studies/The Old Testament, A Very Short Introduction (Coogan)/The Old Testament, A Very Short Introduction (Coogan)|The Old Testament, A Very Short Introduction (Coogan)]]"
 order: 1
 source_pdf: "Library/Biblical-Studies/Coogan - The Old Testament, A Very Short Introduction (2008).pdf"
-page_range: "1–5"
-pdf_pages: "1–5"
+page_range: "x"
+pdf_pages: "1–13"
 text_source: "PDF text layer, PyMuPDF"
-converted: 2026-10-15
+converted: 2026-10-26
 ---
 
-[[The Old Testament, A Very Short Introduction (Coogan)|contents]] · [[Old Testament VSI 02 - The Old, part 1|next →]]
+[[The Old Testament, A Very Short Introduction (Coogan)|contents]] · [[Old Testament VSI 02 - Chapter 1. What is the Old Testament|next →]]
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 The Old Testament: A Very Short Introduction
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 VERY SHORT INTRODUCTIONS are for anyone wanting a stimulating and accessible way in to a new subject. They are written by experts, and have been published in more than 25 languages worldwide.
 
@@ -76,7 +76,7 @@ EIGHTEENTH-CENTURY
 
 BRITAIN Paul Langford THE ELEMENTS Philip Ball EMOTION Dylan Evans EMPIRE Stephen Howe ENGELS Terrell Carver Very Short Introductions available now:
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
 ETHICS Simon Blackburn
 
@@ -148,7 +148,7 @@ QUANTUM THEORY
 
 John Polkinghorne
 
-*[p. 5]* ^pg5
+*[PDF 5]* ^pg5
 
 RACISM Ali Rattansi THE RENAISSANCE Jerry Brotton
 
@@ -237,3 +237,128 @@ The Vietnam War Mark Atwood Lawrence
 For more information visit our websites
 
 www.oup.com/uk/vsi www.oup.com/us
+
+*[PDF 6]* ^pg6
+
+Michael Coogan
+
+The Old
+
+Testament A Very Short Introduction
+
+*[PDF 7]* ^pg7
+
+Oxford University Press, Inc., publishes works that further
+
+Oxford University’s objective of excellence in research, scholarship, and education.
+
+Oxford New York
+
+Auckland
+
+Cape Town Dar es Salaam Hong Kong Karachi
+
+Kuala Lumpur Madrid Melbourne Mexico City Nairobi
+
+New Delhi Shanghai Taipei Toronto
+
+With offices in
+
+Argentina
+
+Austria Brazil Chile Czech Republic France Greece Guatemala
+
+Hungary Italy Japan Poland Portugal Singapore South Korea
+
+Switzerland Thailand Turkey Ukraine Vietnam
+
+Copyright © 2008 by Michael Coogan
+
+Published by Oxford University Press, Inc.
+
+198 Madison Avenue, New York, NY 10016
+
+www.oup.com
+
+Oxford is a registered trademark of Oxford University Press
+
+All rights reserved. No part of this publication may be reproduced,
+
+stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise,
+
+without the prior permission of Oxford University Press.
+
+Library of Congress Cataloging-in-Publication Data Coogan, Michael David.
+
+The Old Testament: a very short introduction / Michael Coogan.
+
+p. cm. — (Very short introductions)
+
+Includes bibliographical references and index.
+
+ISBN 978–0–19–530505–0 (pbk.)
+
+1\. Bible. O. T.—Introductions.
+
+I. Title.
+
+BS1140.3.C66 2008 221.6’1—dc22 2007041097
+
+The author and publisher gratefully acknowledge permission to quote from the New Revised Standard Version of the Bible, copyright © 1989 by the Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. Used by permission. All rights reserved.
+
+Printed in the United States of America on acid-free paper
+
+*[PDF 8]* ^pg8
+
+For Dan, Elizabeth, and Matt
+
+*[PDF 9]* ^pg9
+
+### Acknowledgments
+
+Thanks are happily given to many who have helped with this book, including the anonymous reviewers for Oxford University Press; Donald Kraus, Executive Editor for Bibles at Oxford University Press; my supportive and insightful editor, Nancy Toff; and my constant readers, Elizabeth Hill, and my wife, Pamela Hill.
+
+*[PDF 10]* ^pg10
+
+### Contents
+
+List of Illustrations xi
+
+1 What is the Old Testament? 1 2 Interpretive strategies 12 3 The Old Testament and history 22 4 The Old Testament and myth 33 5 The Exodus from Egypt: a deep probe 43 6 ‘‘Keep my commandments’’: biblical law 53 7 ‘‘Festivals of the Lord’’: ritual in ancient Israel 64 8 Prophets and prophecies 74 9 Hezekiah and Sennacherib: another deep probe 91 10 Poetry and dissent 100 11 ‘‘Let us now praise famous men’’—and women 111 12 The enduring significance of the Old Testament 121
+
+*[p. x]* ^pg11
+
+Chronology 125 Appendix: The Canons of the Hebrew Bible/Old Testament 127 References 130 Further Reading 132 Index 135
+
+*[PDF 12]* ^pg12
+
+### List of Illustrations
+
+1 A column of the book of Isaiah
+
+from one of the Dead Sea Scrolls. Snark/Art Resource, NY. 9 2 Amulet with the Priestly
+
+Blessing. Zev Radovan/
+Jerusalem. 17 3 Aerial view of Megiddo. Zev
+
+Radovan/Jerusalem. 30 4 Marduk standing on the sea
+
+dragon. F. H. Weissbach, Babylonische Miscellen (Wissenchaftliche Veröffentlichungen der Deutschen Orient-Gesellschaft, 4; Leipzig: J. C. Hinrichs, 1903), p. 16. 36 5 Map of northern Egypt and
+
+the Sinai Peninsula. 49 6 The upper part of the stela
+
+containing the Code of Hammurapi. (Code of Hammurapi 195, translation adapted from Martha Roth, Law Collection from Mesopotamia and Asia Minor, 2nd ed. \[Atlanta:
+
+Scholars Press, 1997\], 76.) Erich Lessing/Art Resource, NY. 54
+
+7 An eighth-century bce figurine of a woman playing a drum. Semitic Musem, Harvard University. 68
+
+8 Map of the ancient Near
+
+East. 76
+
+9 Map of Jerusalem in the late eighth century bce. 95
+
+*[PDF 13]* ^pg13
+
+*This page intentionally left blank*

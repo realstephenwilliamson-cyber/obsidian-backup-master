@@ -21,12 +21,12 @@ Converted from the PDF on 8 Oct 2026 (the scan's OCR text layer (ABBYY FineReade
 
 ## Contents
 
-- [[The Text of the New Testament 01 - Front matter|Front matter (Cover)]] (pp. Cover)
+- [[The Text of the New Testament 01 - Cover|Cover]] (pp. Cover)
 - [[The Text of the New Testament 02 - Front Matter|Front Matter]] (pp. i–xviii)
 - [[The Text of the New Testament 03 - Part One The Materials for the Textual Criticism of the New|Part One: The Materials for the Textual Criticism of the New Testament]] (pp. 1–2)
 - [[The Text of the New Testament 04 - Chapter 1. The Making of Ancient Books|Chapter 1. The Making of Ancient Books]] (pp. 3–51)
-- [[The Text of the New Testament 05 - Chapter 2. Important Witnesses to the Text of the New Testament|Chapter 2. Important Witnesses to the Text of the New Testament, part 1]] (pp. 52–93)
-- [[The Text of the New Testament 06 - Chapter 2. Important Witnesses to the Text of the New Testament|Chapter 2. Important Witnesses to the Text of the New Testament, part 2]] (pp. 94–134)
+- [[The Text of the New Testament 05 - Chapter 2. Important Witnesses to the Text of the New Testament (section I)|Chapter 2. Important Witnesses to the Text of the New Testament (section I)]] (pp. 52–93)
+- [[The Text of the New Testament 06 - Chapter 2. Important Witnesses to the Text of the New Testament (sections II-III)|Chapter 2. Important Witnesses to the Text of the New Testament (sections II–III)]] (pp. 94–134)
 - [[The Text of the New Testament 07 - Part Two The History of New Testament Textual Criticism as|Part Two: The History of New Testament Textual Criticism as Reflected in Printed Editions of the Greek Testament]] (pp. 135–136)
 - [[The Text of the New Testament 08 - Chapter 3. The Precritical Period The Origin and Dominance of|Chapter 3. The Precritical Period: The Origin and Dominance of the Textus Receptus]] (pp. 137–164)
 - [[The Text of the New Testament 09 - Chapter 4. The Modern Critical Period from Griesbach to the|Chapter 4. The Modern Critical Period: from Griesbach to the Present]] (pp. 165–194)

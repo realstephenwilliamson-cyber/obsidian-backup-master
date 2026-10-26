@@ -230,6 +230,6 @@ Whitehead, Evelyn 10 *Why I Am Not A Christian* (Russell)
 
 Z Zermelo, Ernst 121
 
-*[p. 163]* ^pg163
+*[PDF 163]* ^pg163
 
-*[p. 164]* ^pg164
+*[PDF 164]* ^pg164

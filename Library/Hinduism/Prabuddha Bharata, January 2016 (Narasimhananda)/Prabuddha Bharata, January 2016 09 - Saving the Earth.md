@@ -10,7 +10,7 @@ text_source: the scan's OCR text layer (OCRmyPDF with Tesseract 5), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Prabuddha Bharata, January 2016 08 - Section|← previous]] · [[Prabuddha Bharata, January 2016 (Narasimhananda)|contents]] · [[Prabuddha Bharata, January 2016 10 - Section|next →]]
+[[Prabuddha Bharata, January 2016 08 - Sri Sarada Devi and Her Divine Play (end), Reviews, Manana, Reports and Advertisements|← previous]] · [[Prabuddha Bharata, January 2016 (Narasimhananda)|contents]] · [[Prabuddha Bharata, January 2016 10 - Advertisements|next →]]
 
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's OCR layer (OCRmyPDF with Tesseract 5), not a born-digital text: words can be misread, and some passages may be marked illegible. For exact readings, check the PDF (the *Open the PDF* button on the catalog note).

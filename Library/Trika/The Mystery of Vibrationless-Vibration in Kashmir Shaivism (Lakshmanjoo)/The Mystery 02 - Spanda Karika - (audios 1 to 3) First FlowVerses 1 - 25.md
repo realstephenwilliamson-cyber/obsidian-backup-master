@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Mystery 01 - Front matter|← previous]] · [[The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|contents]] · [[The Mystery 03 - Second FlowVerses 1 - 7|next →]]
 
-*[p. 15]* ^pg15
+*[PDF 15]* ^pg15
 
 ## Spanda Kārikā – (audios 1 to 3)
 
@@ -46,7 +46,7 @@ Which Śaṁkara?
 
 And He is the *śakti cakra vibhava prabhavaṁ*, He is the master of all the gathering of all the cycle of His energies, all the cycle of His numberless energies (*śakticakra* is, the wheel of energies). The glory of the wheel of energies, He is holding, He is handling.
 
-*[p. 16]* ^pg16
+*[PDF 16]* ^pg16
 
 *yatra sthitaṁidaṁ sarvaṁ kāryaṁ yasmācca nirgatam / tasyānāvṛtarūpatvānna nirodho’sti kutracit* //*2*//
 
@@ -76,7 +76,7 @@ SWAMIJI: The third chapter, yes.
 
 *jāgradādivibhede’pi tadabhinne prasarpati / nivartate nijānnaiva svabhāvādupalabdhṛtaḥ*
 
-*[p. 17]* ^pg17
+*[PDF 17]* ^pg17
 
 *Tat*, that *spanda tattva*, that element of *spanda*, that element of stable movement, . . .
 
@@ -108,7 +108,7 @@ When the state of wakefulness is over, \[when\] the state of dreaming is over, \
 
 “I am joyful” (*ahaṁ sukhī*, I am joyful), “*ahaṁ duḥkhī*” (I am filled with torture, I am filled with crises, I am sad), “*raktaśca*” (I am attached to such and such person), *ityādi saṁvitaḥ*, these kinds of
 
-*[p. 18]* ^pg18
+*[PDF 18]* ^pg18
 
 perceptions rise in a human being \[always\], they go on rising and ending–these perceptions.
 
@@ -158,7 +158,7 @@ Where *na duḥkhaṁ*, where there is no pain, that is motionless movement; *na
 
 \[The objector:\] Then it is a rock! Then your *spanda* is just like a rock, dead, a dead being!
 
-*[p. 19]* ^pg19
+*[PDF 19]* ^pg19
 
 \[Vasugupta\] says, it is not dead also (*na cāsti mūḍha bhāva api*, it is not dead also). *Tadasti*, that is, in reality, *spanda*, the essence of *spanda*.
 
@@ -188,7 +188,7 @@ SWAMIJI: It has got so much life in it, but otherwise it is lifeless. In itself,
 
 *Svayaṁ sahāntreṇa cakreṇa*, *pravṛtti sthiti saṁhṛtīḥ labhate*, and, by itself, without the aid of, without the support of, any other agency, this cycle of the organs does everything independently–he
 
-*[p. 20]* ^pg20
+*[PDF 20]* ^pg20
 
 sees, he touches, he smells, he hears, he has sex, he does everything, good and bad. *Sahāntareṇa cakreṇa*, along with the *antaḥkaraṇa*, along with the internal organs (the internal organs are the mind, intellect, and ego; the mind, intellect, and ego are also adjusted in this *karaṇavarga*), this whole cycle of *karaṇavarga* becomes filled with life.
 
@@ -218,7 +218,7 @@ He hears without the ears; *apāṇyapāda*, He has no hands, He has no feet; *j
 
 \[Now\] this is a question: You have already said that, *tatastattvat cetanatāmivāsādyendriyāṇi svayaṁ pravṛtyādi labhanta iti*<sup>19</sup>, that *spanda tattva* is that power which infuses Its power in dead, lifeless, organs, \[and they\] function just as if they are filled with life–the organs of the senses. How can it be possible? How can lifeless organs become life-full by the mere touch of that *spanda*? *Yāvatā*, and this too is also life-full: *ayameva grāhaka icchayā dātrādīnīva karaṇāni prerayati*<sup>20</sup>, this individual \[soul\] infuses, inserts, power in the organs, just like \[when\] you have to cut grass, you want something to cut it, but the cutter is the individual himself. The instrument does not cut it, the
 
-*[p. 21]* ^pg21
+*[PDF 21]* ^pg21
 
 cutter cuts it. So these are just like \[that cutting\] instrument–these organs. These are just instruments. How can these instruments work without the \[involvement\] of the cutter, the individual?
 
@@ -248,7 +248,7 @@ ERNIE: The organs of perception.
 
 SWAMIJI: The organs of perception. How can we know? Why don’t we know that?
 
-*[p. 22]* ^pg22
+*[PDF 22]* ^pg22
 
 *nijāśuddhyāsamarthasya kartavyeṣvabhilāṣiṇaḥ / yadā kṣobhaḥ pralīyeta tadā syātparamaṁ padam* //*9*//
 
@@ -272,7 +272,7 @@ Here, in the *Vijñāna Bhairava Tantra* also, \[Kṣhemarāja\] has quoted:
 
 Another *śloka*, the tenth:
 
-*[p. 23]* ^pg23
+*[PDF 23]* ^pg23
 
 *tadāsyākṛtrimo dharmo jñatvakartṛtvalakṣaṇaḥ / yatastadepsitaṁ sarvaṁ jānāti ca karoti ca*
 
@@ -292,7 +292,7 @@ When, at that stage, when *adhiṣṭhātṛ bhāvena svabhāvam*, that *svabhā
 
 By *adhiṣṭhātṛ bhāva* means, not by *adhiṣṭheya bh*āva<sup>34</sup>. These are two states of perception: One state is *adhiṣṭheya bhāva*, perception in the boundary, in the cycle, of *adhiṣṭheya bhāva*, and another perception is in the cycle of *adhiṣṭhātṛ bhāva*. When you perceive this pencil, “This is a pencil”, this is the perceiving of this pencil in *adhiṣṭheya bhāva*, in the objective cycle. When you perceive, “This
 
-*[p. 24]* ^pg24
+*[PDF 24]* ^pg24
 
 is my Self”, this is perceiving this object in the subjective cycle, on the subjective cycle, and that is the real perception, that is the real perception of that object. That is *adhiṣṭhātṛ bhāvena*. You should perceive this whole world as your own Self. You should not perceive in this-ness, you should perceive everything in I-ness, full consciousness. That is *adhiṣṭhātṛ bhāvena*.
 
@@ -344,7 +344,7 @@ ERNIE: And taste has its own *spanda*?
 
 SWAMIJI: But it will be divine. That God consciousness will be inserted there, at that moment,
 
-*[p. 25]* ^pg25
+*[PDF 25]* ^pg25
 
 after realization. After realization, everything will be \[divine\].
 
@@ -376,7 +376,7 @@ ERNIE: The void.
 
 SWAMIJI: The void. That is the theory of Vedānta, Akṣapāda, and Buddhism. Nothingness, to get
 
-*[p. 26]* ^pg26
+*[PDF 26]* ^pg26
 
 entry in nothingness, is the reality of God consciousness.
 
@@ -422,7 +422,7 @@ DENISE: Naturally.
 
 SWAMIJI: . . . naturally. *Atastat kṛtrimam*, so this \[supposed\] state of God consciousness is
 
-*[p. 27]* ^pg27
+*[PDF 27]* ^pg27
 
 *kṛtrimam* (artificial), it is just adjusted, it is just poetry, *sauṣupta padavat*, \[it is\] just like *suṣupti*.
 
@@ -452,7 +452,7 @@ JOHN: The doer, the real doer.
 
 SWAMIJI: The real doer. *Kāryatā kṣayiṇī tatra kartṛtvaṁ punarakṣyaṁ*, *kartṛtva* (doership) is \[always\] there. The done, whatever is done by that doership, let it be vanished, let it vanish, let it go to hell, but the doership is still existing. *Kāryonmukhaḥ* . . . what happens to this cycle \[of *kāryatā*\] then? \[Vasugupta\] says:
 
-*[p. 28]* ^pg28
+*[PDF 28]* ^pg28
 
 *kāryonmukhaḥ prayatno yaḥ kevalaṁ so’tra lupyate tasmiṁllupte vilupto’smītyabuddhaḥ pratipadyate* //*15*// \[not recited in full\]
 
@@ -478,7 +478,7 @@ SWAMIJI: . . . introverted God consciousness.
 
 *Tasyopalabdhiḥ satataṁ tripad vyabhicāriṇī*, there are three states \[of the limited individual\]:
 
-*[p. 29]* ^pg29
+*[PDF 29]* ^pg29
 
 wakefulness, dreaming, and the dreamless state. There are three states, and in these three states also, that elevated soul who has realized that which was to be realized, . . .\*
 
@@ -512,7 +512,7 @@ SWAMIJI: He does practice just as we do, without knowing anything (laughter). Bu
 
 \[*suprabuddhasya*\] *triṣu padeṣu yādṛśī upalabdhistāṁ vibhāgena dar*śayati<sup>54</sup>
 
-*[p. 30]* ^pg30
+*[PDF 30]* ^pg30
 
 There are three classes of *yogi*s. One class is of the \[*apr*\]*abuddha yogi*, and the next is the *prabuddha* \[*yogi*\], and the third is the *suprabuddha yogi*.
 
@@ -548,7 +548,7 @@ Audio 1 - 55:36
 
 Now he explains in this next *śloka* that this elevated *yogi* does not get bondage, does not get bound, entangled, by these three states (*jāgrat*, *svapna*, and *suṣupti*).
 
-*[p. 31]* ^pg31
+*[PDF 31]* ^pg31
 
 *guṇādispandaniṣyandāḥ sāmānyaspandasaṁśrayāt / labdhātmalābhāḥ satataṁ syurjñasyāparipanthinaḥ* //*19*//
 
@@ -572,7 +572,7 @@ But that elevated soul takes hold of that *sāmānya spanda*, not *viśeṣa spa
 
 *Yoga* in inaction, that is *jñāna yoga*<sup>63</sup>. When you don’t act, you remain in *samādhi*, meditating, all-round meditating, that is inactive *yoga*. In that inactive *yoga*, there is the possibility of coming down from that state, but in active *yoga* . . .
 
-*[p. 32]* ^pg32
+*[PDF 32]* ^pg32
 
 when you rise along with thieves, who will steal your property? You are with thieves, you are rising along with your thieves, who would \[otherwise\] snatch all your good property from you–if you deal with, along with, thieves also. What are “thieves”? The temptations of the world, temptations of the world. There are so many temptations in the world. Those snatch away the treasure of God consciousness from you. You lose that treasure of God consciousness by those thieves. But you make friendship with the thieves. When you remain in the action of the world, \[then\] you are on friendly terms with the thieves also. What can they snatch from you? They will never snatch from you.
 
@@ -610,7 +610,7 @@ And this is the way \[that\] *jñasya āparipanthinaḥ*, for an elevated soul, 
 
 Do you understand, sir?
 
-*[p. 33]* ^pg33
+*[PDF 33]* ^pg33
 
 JOACHIM: Yes.
 
@@ -648,7 +648,7 @@ ERNIE: This watching of the breath?
 
 SWAMIJI: Not watching of the breath, \[but\] . . .
 
-*[p. 34]* ^pg34
+*[PDF 34]* ^pg34
 
 JOHN: Catching hold of the *sāmānya* \[*spanda*\].
 
@@ -702,7 +702,7 @@ This is what happens. *Atikruddhaḥ*, this is the state of *atikruddhaḥ bhāv
 
 DENISE: You mean, just sit and meditate at that time?
 
-*[p. 35]* ^pg35
+*[PDF 35]* ^pg35
 
 SWAMIJI: Just meditate on “Why I am so angry” (*ati kruddhaḥ*).
 
@@ -760,7 +760,7 @@ ERNIE: So, if you are not afraid and you are just running, it’s also possible?
 
 SWAMIJI: Yes, by running, you run and just see which is the force that makes you so much run. One of my sisters was absolutely crippled. She is still living–Tekker Ded<sup>69</sup>, that \[lady\] with the
 
-*[p. 36]* ^pg36
+*[PDF 36]* ^pg36
 
 *pheren*<sup>70</sup>.
 
@@ -814,7 +814,7 @@ JOACHIM: That is *jugupsa*, to feel disgusted.
 
 SWAMIJI:
 
-*[p. 37]* ^pg37
+*[PDF 37]* ^pg37
 
 *yāmavasthāṁ samālambya yadayaṁ mama vakṣyati / tadavaśyaṁ kariṣye’hamiti saṁkalpya tiṣṭhati* //*23*//<sup>72</sup> \[repeated\]
 
@@ -832,7 +832,7 @@ Then, his breath stops altogether. At once his breath stops and it rushes in *su
 
 At that moment also, there is another problem, there is another problem there. Where? When your breath has stopped, it has rushed in *suṣumnā nāḍī*, and from *mūlādharā* it has risen to the state of *sahaśrārdha cakra*. At that very moment also, if you are not fully attentive in that God consciousness, \[then\] you are kicked down on the path of *suṣupti*. You will become just . . .
 
-*[p. 38]* ^pg38
+*[PDF 38]* ^pg38
 
 JOHN: Asleep.
 
@@ -888,7 +888,7 @@ SWAMIJI: That is the mistake. It comes afterwards.
 
 JOHN: But you don’t have any choice on this, though.
 
-*[p. 39]* ^pg39
+*[PDF 39]* ^pg39
 
 SWAMIJI: Huh?
 
@@ -956,7 +956,7 @@ SWAMIJI: It needs God’s grace, it needs your own effort, it needs the grace of
 
 33 That state which superintends or governs, i.e., subjectivity.
 
-*[p. 40]* ^pg40
+*[PDF 40]* ^pg40
 
 34 That state which is superintended or governed, i.e., objectivity.
 
@@ -996,7 +996,7 @@ SWAMIJI: It needs God’s grace, it needs your own effort, it needs the grace of
 
 55 Lit., an accomplished (*siddha*) *yogi*. “He is a *jñāni*. He is called a *siddha yogi*. He can initiate people. The *siddha yogi* will give \[the initiate\] *bhoga*, *mok ṣa*, and *vijñāna*. *Bhoga* means, worldly success, success in the world. *Mok ṣa* means, liberation, final liberation. And \[*vijñāna* means\], knowledge of Shaivism. All these three are worth to have.” *Tantrāloka* (LJA archives), 13.332-338. 56 Viz., *jñeya śakti* (objective energy).
 
-*[p. 41]* ^pg41
+*[PDF 41]* ^pg41
 
 57 Energy of the will.
 

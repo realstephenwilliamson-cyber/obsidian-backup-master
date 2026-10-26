@@ -4,7 +4,7 @@ work: "[[Catalog/Biblical-Studies/Lim - The Dead Sea Scrolls, A Very Short Intro
 book: "[[Library/Biblical-Studies/The Dead Sea Scrolls, A Very Short Introduction (Lim)/The Dead Sea Scrolls, A Very Short Introduction (Lim)|The Dead Sea Scrolls, A Very Short Introduction (Lim)]]"
 order: 17
 source_pdf: "Library/Biblical-Studies/Lim - The Dead Sea Scrolls, A Very Short Introduction (2005).pdf"
-page_range: "135–v"
+page_range: "135–138"
 pdf_pages: "146–153"
 text_source: "fresh OCR with Tesseract 5 (eng) of the page images (the PDF had no text layer)"
 converted: 2026-10-15
@@ -164,7 +164,7 @@ Netanyahu, Benjamin 9
 
 New Testament scrolls?
 
-*[p. 148]* ^pg148
+*[p. 137]* ^pg148
 
 O Old Testament see Hebrew
 
@@ -238,7 +238,7 @@ urban sectarians 92-6
 
 xapul
 
-*[p. v]* ^pg149
+*[p. 138]* ^pg149
 
 Dead Sea Scrolls
 
@@ -248,7 +248,7 @@ W War Rule 92 Wise, Michael 4 women 31
 
 Y Yahweh Yireh 51-2 Yom Kippur 5
 
-*[p. 150]* ^pg150
+*[PDF 150]* ^pg150
 
 Expand your collection of
 
@@ -416,7 +416,7 @@ Quantum Theory
 
 Spinoza
 
-*[p. 151]* ^pg151
+*[PDF 151]* ^pg151
 
 72, 73.
 
@@ -582,7 +582,7 @@ Tragedy
 
 Sikhism The History of Time
 
-*[p. 152]* ^pg152
+*[PDF 152]* ^pg152
 
 ARCHAEOLOGY
 
@@ -606,7 +606,7 @@ Simon Denison, editor of British Archaeology
 
 www.oup.co.uk/vsi/archaeology
 
-*[p. 153]* ^pg153
+*[PDF 153]* ^pg153
 
 Visit the
 

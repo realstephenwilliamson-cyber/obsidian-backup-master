@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Stiegler and Technics 07 - 3 Of a Mythical Philosophical Anthropology The Transcendental and the|← previous]] · [[Stiegler and Technics (Howells)|contents]] · [[Stiegler and Technics 09 - Section II Aesthetics - The Industrialisation of the Symbolic|next →]]
+[[Stiegler and Technics 07 - 3 Of a Mythical Philosophical Anthropology|← previous]] · [[Stiegler and Technics (Howells)|contents]] · [[Stiegler and Technics 09 - Section II Aesthetics - The Industrialisation of the Symbolic|next →]]
 
 *[p. 69]* ^pg82
 

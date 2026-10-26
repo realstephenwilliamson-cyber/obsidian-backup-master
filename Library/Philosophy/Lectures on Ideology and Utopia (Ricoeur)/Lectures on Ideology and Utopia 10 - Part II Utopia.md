@@ -10,7 +10,7 @@ text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture, ClearScan),
 converted: 2026-10-07
 ---
 
-[[Lectures on Ideology and Utopia 09 - Part I Ideology, part 6|← previous]] · [[Lectures on Ideology and Utopia (Ricoeur)|contents]] · [[Lectures on Ideology and Utopia 11 - Notes|next →]]
+[[Lectures on Ideology and Utopia 09 - 13. Habermas 1 (end), Lectures 14-15, Habermas 2 - Geertz|← previous]] · [[Lectures on Ideology and Utopia (Ricoeur)|contents]] · [[Lectures on Ideology and Utopia 11 - Notes|next →]]
 
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's OCR layer (Adobe Acrobat Paper Capture, ClearScan), not a born-digital text: words can be misread, and some passages may be marked illegible. For exact readings, check the PDF (the *Open the PDF* button on the catalog note).

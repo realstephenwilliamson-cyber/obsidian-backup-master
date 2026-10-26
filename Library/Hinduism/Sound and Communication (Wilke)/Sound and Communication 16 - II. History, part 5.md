@@ -186,7 +186,7 @@ ee \$o
 
 “m̐” 
 
-(rańga, candrabindu) rises from the heart and sounds like a cymbal (made of brass). It is a gentle tone, which stretches over two morae ...”“ Images and metaphors are also popular in descriptions of recitation styles. In general, the reciter of a Vedic text must have the same vocal qualities as a good singer. The important points include not only instructions concerning the correct pronunciation, but also about the qualities of the singing. Everything should be sung as loudly as possible, but sweetly and tenderly, smoothly and passionately (Nāradiīya- Śiksā 1.3.1). It is of course slightly different from our Western under- 
+(raṅga, candrabindu) rises from the heart and sounds like a cymbal (made of brass). It is a gentle tone, which stretches over two morae ...”“ Images and metaphors are also popular in descriptions of recitation styles. In general, the reciter of a Vedic text must have the same vocal qualities as a good singer. The important points include not only instructions concerning the correct pronunciation, but also about the qualities of the singing. Everything should be sung as loudly as possible, but sweetly and tenderly, smoothly and passionately (Nāradiīya- Śiksā 1.3.1). It is of course slightly different from our Western under- 
 
 63 
 

@@ -917,13 +917,14 @@ CONCOCTED.[^169]
 
 And,
 
-50\. ONE IS LOOKED UPON AS TRINETRA17 BY THE HORDES OF SPIRITS
+50\. ONE IS LOOKED UPON AS TRINETRA[^170] BY THE HORDES OF SPIRITS
 
 GHOSTS, DEMONS (AND THE GROUP OF ENTITIES) THAT ASSUME
 
-[^167]: 167, Śakti is divine energy. By repeating the Śakti blja (SAUH) the sādhaka should meditate upon the ceaseless ebb and flow of divine energy as taking place within himself parallel to the ebb and flow on the macrocosmie scale of the Universe; visualizing her descent from the place of dissolution in the Sahasrãra as the sequence of creation and the return from the state of manifestation in the heart to a state of pure potency as the sequence of destruction. The sādhaka should repeatedly reflect on this eternal cycle.
+[^167]: Śakti is divine energy. By repeating the Śakti bīja (SAUḤ) the sādhaka should meditate upon the ceaseless ebb and flow of divine energy as taking place within himself parallel to the ebb and flow on the macrocosmie scale of the Universe; visualizing her descent from the place of dissolution in the Sahasrãra as the sequence of creation and the return from the state of manifestation in the heart to a state of pure potency as the sequence of destruction. The sādhaka should repeatedly reflect on this eternal cycle.
 [^168]: Epithet of Garuda through his mother Vinatā.
-[^169]: "Sthira" is taken as "natural" in the sense that it tis a "permanent" feature. The verse seems to say that one can destroy all poisons whether they are artificial or not. A distinction ts satd to exist between sthāvara and jañûgama poisons that are derived from moving and stationary sources. 170, The "three eyed one" is Śiva.
+[^169]: "Sthira" is taken as "natural" in the sense that it is a "permanent" feature. The verse seems to say that one can destroy all poisons whether they are artificial or not. A distinction is said to exist between sthāvara and jaṅgama poisons that are derived from moving and stationary sources.
+[^170]: The "three eyed one" is Śiva.
 
 *[p. 358]* ^pg354
 

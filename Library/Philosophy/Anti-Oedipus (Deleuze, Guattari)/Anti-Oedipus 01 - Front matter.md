@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Deleuze, Guattari - Anti-Oedipus]]"
 book: "[[Library/Philosophy/Anti-Oedipus (Deleuze, Guattari)/Anti-Oedipus (Deleuze, Guattari)|Anti-Oedipus (Deleuze, Guattari)]]"
 order: 1
 source_pdf: "Library/Philosophy/Deleuze, Guattari - Anti-Oedipus (1983).pdf"
-page_range: "1–3"
+page_range: ""
 pdf_pages: "1–3"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
@@ -12,9 +12,9 @@ converted: 2026-10-15
 
 [[Anti-Oedipus (Deleuze, Guattari)|contents]] · [[Anti-Oedipus 02 - CONTENTS|next →]]
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 CAPITALISM AND SCHIZOPHRENIA
 
@@ -60,7 +60,7 @@ Humanities Press Inc. and Athlone Press: From *Rethinking Anthropology* by E. R.
 
 Pantheon Books, a Division of Random House, Inc.: From *Madness and Civilization* by Michel Foucault, translated by Richard Howard. Copyright © 1965 by Random House, Inc.
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 Presses Universitaires de France: From*L Affect* by Andre Green.
 

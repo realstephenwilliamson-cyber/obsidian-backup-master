@@ -156,4 +156,4 @@ Wilson, Daniel 103 Z
 
 Wright, J. Stafford 70–71 Zwingli, Huldrych 24
 
-*[p. 169]* ^pg169
+*[PDF 169]* ^pg169

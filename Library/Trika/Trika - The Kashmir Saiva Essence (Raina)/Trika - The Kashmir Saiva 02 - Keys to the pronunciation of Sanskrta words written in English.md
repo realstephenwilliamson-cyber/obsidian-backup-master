@@ -4,7 +4,7 @@ work: "[[Raina - Trika - The Kashmir Saiva Essence]]"
 book: "[[Library/Trika/Trika - The Kashmir Saiva Essence (Raina)/Trika - The Kashmir Saiva Essence (Raina)|Trika - The Kashmir Saiva Essence (Raina)]]"
 order: 2
 source_pdf: Library/Trika/Tej Raina - Trika, the Kashmir Saiva Essence-Aravali Books International (April, 2013).pdf
-page_range: d
+page_range: ""
 pdf_pages: 10–15
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08
@@ -243,7 +243,7 @@ and
 
 pronounced generally as gya’ (and alsoas gny orjny ), it has been indicated here simply as ġ, word gyāna ( \[illegible\] ) is therefore written as ġāna. 
 
-*[p. d]* ^pg14
+*[PDF 14]* ^pg14
 
 (In addition to the consonants used for transcribing Saňskṛta and Hindi there is yet another vergā that follows ć-vergā (and is uttered by touching the back of the upper frontal teeth with the tip of tongue during the oral delivery of its varnās. These sounds are peculiar to Kashmiri, Marāthi etc. languages and are denoted by putting a dot under € - vergā varnās with which these have a resemblance. These are not indicated here.) 
 

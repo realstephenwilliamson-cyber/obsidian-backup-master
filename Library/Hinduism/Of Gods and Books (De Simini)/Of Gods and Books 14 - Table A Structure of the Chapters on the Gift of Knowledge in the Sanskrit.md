@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Of Gods and Books 13 - 4 The Throne of Knowledge Aspects of the Cult of the Book in the Saiva and|← previous]] · [[Of Gods and Books (De Simini)|contents]] · [[Of Gods and Books 15 - Index of Authors|next →]]
+[[Of Gods and Books 13 - Appendix 1, The 'Chapter on the Gift of Knowledge' (end) and Appendix 2, Tables of Textual Parallels|← previous]] · [[Of Gods and Books (De Simini)|contents]] · [[Of Gods and Books 15 - Index of Authors|next →]]
 
 *[p. 435]* ^pg448
 

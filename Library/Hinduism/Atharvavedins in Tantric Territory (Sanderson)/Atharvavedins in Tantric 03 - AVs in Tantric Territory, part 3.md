@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Atharvavedins in Tantric 02 - AVs in Tantric Territory, part 2|← previous]] · [[Atharvavedins in Tantric Territory (Sanderson)|contents]] · [[Atharvavedins in Tantric 04 - AV-Halle_Final_Index|next →]]
+[[Atharvavedins in Tantric 02 - AVs in Tantric Territory, part 2|← previous]] · [[Atharvavedins in Tantric Territory (Sanderson)|contents]] · [[Atharvavedins in Tantric 04 - Index|next →]]
 
 *[p. 273]* ^pg79
 

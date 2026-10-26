@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Behold the Man 11 - The Matthean Jesus|← previous]] · [[Behold the Man (Conway)|contents]] · [[Behold the Man 13 - ''He Must Increase''|next →]]
+[[Behold the Man 11 - The Matthean Jesus|← previous]] · [[Behold the Man (Conway)|contents]] · [[Behold the Man 13 - 'He Must Increase', The Divine Masculinity of the Johannine Jesus|next →]]
 
 *[p. 127]* ^pg140
 

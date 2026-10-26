@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[States of Shock 05 - Part I Pharmacology of Stupidity Introduction to the Poststructuralist Epoch|← previous]] · [[States of Shock (Stiegler)|contents]] · [[States of Shock 07 - Notes|next →]]
+[[States of Shock 05 - Chapters 5-6, Reading and Re-Reading Hegel After Poststructuralism - Re-Reading the Grundrisse|← previous]] · [[States of Shock (Stiegler)|contents]] · [[States of Shock 07 - Notes|next →]]
 
 *[p. 149]* ^pg157
 

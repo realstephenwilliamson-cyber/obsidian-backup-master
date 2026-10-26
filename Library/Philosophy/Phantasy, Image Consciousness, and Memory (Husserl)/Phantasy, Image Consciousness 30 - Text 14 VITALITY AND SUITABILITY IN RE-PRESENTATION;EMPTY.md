@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Phantasy, Image Consciousness 29 - Text 13 PERCEPTUAL SERIES, MEMORIAL MODIFICATION,PHANTASY|← previous]] · [[Phantasy, Image Consciousness, and Memory (Husserl)|contents]] · [[Phantasy, Image Consciousness 31 - APPENDICES|next →]]
+[[Phantasy, Image Consciousness 29 - Text 13 PERCEPTUAL SERIES, MEMORIAL MODIFICATION,PHANTASY|← previous]] · [[Phantasy, Image Consciousness, and Memory (Husserl)|contents]] · [[Phantasy, Image Consciousness 31 - Text 14, Appendices XXXI-XXXV|next →]]
 
 *[PDF 402]* ^pg402
 

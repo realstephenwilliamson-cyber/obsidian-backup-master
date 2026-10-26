@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Legal Revision and Religious 08 - 4 The Reworking of the Principle of Transgenerational Punishment|← previous]] · [[Legal Revision and Religious Renewal in Ancient Israel (Levinson)|contents]] · [[Legal Revision and Religious 10 - 6 The Phenomenon of Rewriting within the Hebrew Bible A|next →]]
+[[Legal Revision and Religious 08 - 4 The Reworking of the Principle of Transgenerational Punishment|← previous]] · [[Legal Revision and Religious Renewal in Ancient Israel (Levinson)|contents]] · [[Legal Revision and Religious 10 - 6 The Phenomenon of Rewriting within the Hebrew Bible|next →]]
 
 *[p. 89]* ^pg117
 

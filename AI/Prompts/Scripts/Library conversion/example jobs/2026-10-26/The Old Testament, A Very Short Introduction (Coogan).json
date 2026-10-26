@@ -1,0 +1,134 @@
+{
+ "route": "pymupdf",
+ "out": "/home/claude/s5/resplit/work",
+ "date": "2026-10-26",
+ "ctype": "book",
+ "single": false,
+ "max_chapter": 10000,
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Biblical-Studies/Coogan - The Old Testament, A Very Short Introduction (2008).pdf",
+ "pdf_vault": "Library/Biblical-Studies/Coogan - The Old Testament, A Very Short Introduction (2008).pdf",
+ "catalog": "Catalog/Biblical-Studies/Coogan - The Old Testament, A Very Short Introduction",
+ "title": "The Old Testament: A Very Short Introduction",
+ "authors": [
+  "Michael D. Coogan"
+ ],
+ "byline": "Michael D. Coogan. Oxford University Press, 2008.",
+ "folder": "Library/Biblical-Studies/The Old Testament, A Very Short Introduction (Coogan)",
+ "index_name": "The Old Testament, A Very Short Introduction (Coogan)",
+ "prefix": "Old Testament VSI",
+ "text_source": "PDF text layer, PyMuPDF",
+ "toc": [
+  [
+   2,
+   "Acknowledgments",
+   9
+  ],
+  [
+   2,
+   "Contents",
+   10
+  ],
+  [
+   2,
+   "List of Illustrations",
+   12
+  ],
+  [
+   1,
+   "Chapter 1. What is the Old Testament?",
+   14
+  ],
+  [
+   1,
+   "Chapter 2. Interpretive strategies",
+   25
+  ],
+  [
+   1,
+   "Chapter 3. The Old Testament and history",
+   35
+  ],
+  [
+   1,
+   "Chapter 4. The Old Testament and myth",
+   46
+  ],
+  [
+   1,
+   "Chapter 5. The Exodus from Egypt: a deep probe",
+   56
+  ],
+  [
+   1,
+   "Chapter 6. “Keep my commandments”: biblical law",
+   66
+  ],
+  [
+   1,
+   "Chapter 7. “Festivals of the Lord”: ritual in ancient Israel",
+   77
+  ],
+  [
+   1,
+   "Chapter 8. Prophets and prophecies",
+   87
+  ],
+  [
+   1,
+   "Chapter 9. Hezekiah and Sennacherib: another deep probe",
+   104
+  ],
+  [
+   1,
+   "Chapter 10. Poetry and dissent",
+   113
+  ],
+  [
+   1,
+   "Chapter 11. “Let us now praise famous men”—and women",
+   124
+  ],
+  [
+   1,
+   "Chapter 12. The enduring significance of the Old Testament",
+   134
+  ],
+  [
+   1,
+   "Chronology",
+   138
+  ],
+  [
+   1,
+   "Appendix: The Canons of the Hebrew Bible/Old Testament",
+   140
+  ],
+  [
+   1,
+   "References",
+   143
+  ],
+  [
+   1,
+   "Further Reading",
+   145
+  ],
+  [
+   1,
+   "Index",
+   148
+  ],
+  [
+   1,
+   "OUP advertisements",
+   154
+  ]
+ ],
+ "skip_unmatched_sub": true,
+ "_drop_titles": [
+  "OUP advertisements"
+ ],
+ "pnum_override": {
+  "153": "140"
+ }
+}

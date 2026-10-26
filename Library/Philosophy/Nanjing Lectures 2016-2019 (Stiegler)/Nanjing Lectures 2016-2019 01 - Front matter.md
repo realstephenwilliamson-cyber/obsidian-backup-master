@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Nanjing Lectures 2016-2019 (Stiegler)|contents]] · [[Nanjing Lectures 2016-2019 02 - 6x9_blank-page_pdfx1-complient|next →]]
+[[Nanjing Lectures 2016-2019 (Stiegler)|contents]] · [[Nanjing Lectures 2016-2019 02 - Blank page|next →]]
 
 *[PDF 1]* ^pg1
 

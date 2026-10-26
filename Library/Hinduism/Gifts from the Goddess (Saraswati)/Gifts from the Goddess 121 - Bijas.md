@@ -4,13 +4,13 @@ work: "[[Saraswati - Gifts from the Goddess]]"
 book: "[[Library/Hinduism/Gifts from the Goddess (Saraswati)/Gifts from the Goddess (Saraswati)|Gifts from the Goddess (Saraswati)]]"
 order: 121
 source_pdf: Library/Hinduism/Bowden - Gifts from the Goddess, Selected Works of Sri Amritananda Natha Saraswati.pdf
-page_range: 353–364
-pdf_pages: 382–393
+page_range: 353–365
+pdf_pages: 382–394
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Gifts from the Goddess 120 - Section|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 122 - Section|next →]]
+[[Gifts from the Goddess 118 - Lalita Kramam Invoking the Devi|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 123 - Navavarana Puja Circumambulating the Sri Chakra|next →]]
 
 *[p. 353]* ^pg382
 
@@ -747,3 +747,9 @@ The yoga side of the equation is where control of the seed is practiced. Through
 In the *Śrī Kramam*, we learn to take our energy up to the Sahasrāra Chakra, up into a cosmic state. In the *Lalitā Kramam*, we move back into the duality of puja and ritual. But in reality, both *bhōga* and yoga are there all the time—they are opposite ends of a single continuum. You go through all this trouble to get up to the Sahasrāra Chakra, only to find that the *bhōga* is still going on.
 
 The switches for energy in the body, such as the chakras, are located all over the body—but they are all controlled by the brain, and they can all be short-circuited there. Moreover, the entire brain is a physical manifestation of the Sahasrāra Chakra, so you are always residing in the thousand-petaled lotus, whether you are
+
+*[p. 365]* ^pg394
+
+down in the Mūlādhāra or up at the top of the head. So that’s that: *bhōga* and yoga are united. They are never separated.
+
+And that’s why, in the Tantra shastra, there is no rejection of your family life. It consists of functioning effectively in the samsara while also learning to transcend it. You are *supposed* to enjoy yourself; there is nothing wrong with enjoyment—but at the same time you must learn to be a witness to yourself, to be a little detached. (Like Dr. Sastry No. 1 watching Dr. Sastry No. 2 doing puja to Dr. Sastry No. 3!) A

@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Inventing God's Law 16 - Notes, part 4|← previous]] · [[Inventing God's Law (Wright)|contents]] · [[Inventing God's Law 18 - Author Index|next →]]
+[[Inventing God's Law 16 - Notes, Chapter 11 (end) and Chapters 12-13|← previous]] · [[Inventing God's Law (Wright)|contents]] · [[Inventing God's Law 18 - Author Index|next →]]
 
 *[p. 511]* ^pg526
 

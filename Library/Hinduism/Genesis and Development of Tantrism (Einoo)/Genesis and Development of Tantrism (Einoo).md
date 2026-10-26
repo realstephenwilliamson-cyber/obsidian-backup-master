@@ -16,12 +16,12 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Genesis and Development 01 - Pages from Genesis_and_Dev...ment_for_OP|Pages from Genesis\_and\_Dev…ment\_for\_OP]] (pp. 5–7)
-- [[Genesis and Development 02 - Pages from Genesis_and_Dev...ment_for_OP-2|Pages from Genesis\_and\_Dev…ment\_for\_OP-2]] (pp. 41–55)
-- [[Genesis and Development 03 - , part 1|匀漀洀愀, part 1]] (pp. 56–97)
-- [[Genesis and Development 04 - , part 2|匀漀洀愀, part 2]] (pp. 98–139)
-- [[Genesis and Development 05 - , part 3|匀漀洀愀, part 3]] (pp. 140–181)
-- [[Genesis and Development 06 - , part 4|匀漀洀愀, part 4]] (pp. 182–223)
-- [[Genesis and Development 07 - , part 5|匀漀洀愀, part 5]] (pp. 224–265)
-- [[Genesis and Development 08 - , part 6|匀漀洀愀, part 6]] (pp. 266–307)
-- [[Genesis and Development 09 - , part 7|匀漀洀愀, part 7]] (pp. 308–349)
+- [[Genesis and Development 01 - Front matter|Front matter]] (pp. 5–7)
+- [[Genesis and Development 02 - Sanderson, The Saiva Age - The Etiolation and Subsumption of the Cult of the Sun-God|Sanderson, The Śaiva Age – The Etiolation and Subsumption of the Cult of the Sun-God]] (pp. 41–55)
+- [[Genesis and Development 03 - The Dominance of Saivism (continued), The Decline of Vaisnavism - Royal Patronage of Buddhism|The Dominance of Śaivism (continued), The Decline of Vaiṣṇavism – Royal Patronage of Buddhism]] (pp. 56–97)
+- [[Genesis and Development 04 - Royal Patronage of Buddhism (end), The Development of Tantric Buddhism - The Sarvatathagatattvasamgraha|Royal Patronage of Buddhism (end), The Development of Tantric Buddhism – The Sarvatathāgatattvasaṃgraha]] (pp. 98–139)
+- [[Genesis and Development 05 - The Sarvatathagatattvasamgraha (end), The Guhyasamaja - The Yoginitantras|The Sarvatathāgatattvasaṃgraha (end), The Guhyasamāja – The Yoginītantras]] (pp. 140–181)
+- [[Genesis and Development 06 - The Yoginitantras and the Full Appropriation of Vidyapitha Saivism (continued)|The Yoginītantras and the Full Appropriation of Vidyāpīṭha Śaivism (continued)]] (pp. 182–223)
+- [[Genesis and Development 07 - The Yoginitantras (end), The Jains' Adaptation of the Saiva Mantrasastra - The Causes of the Dominance of Saivism|The Yoginītantras (end), The Jains’ Adaptation of the Śaiva Mantraśāstra – The Causes of the Dominance of Śaivism]] (pp. 224–265)
+- [[Genesis and Development 08 - The Causes of the Dominance of Saivism (end), Abbreviations and References|The Causes of the Dominance of Śaivism (end), Abbreviations and References]] (pp. 266–307)
+- [[Genesis and Development 09 - References (end) and Conventions in the Footnotes|References (end) and Conventions in the Footnotes]] (pp. 308–349)

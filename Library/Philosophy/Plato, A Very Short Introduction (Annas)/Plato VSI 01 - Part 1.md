@@ -14,7 +14,7 @@ converted: 2026-10-15
 
 The text is a fresh OCR of the page images (Tesseract, English); check quotations against the PDF.
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 Julia Annas
 
@@ -24,7 +24,7 @@ A Very Short Introduction
 
 OXFORD UNIVERSITY PRESS
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 OXFORD
 
@@ -104,7 +104,7 @@ manuscript 80
 
 Austrian National Library, Vienna. Photograph AKG London
 
-*[p. 5]* ^pg5
+*[p. x]* ^pg5
 
 Plato and Aristotle, from Raphael's School of Athens 88 Stanza della Segnatura, Vatican Saint Justin Martyr, from
 
@@ -112,7 +112,7 @@ Raphael's Dispute of the
 
 Sacrament 89 Stanza della Segnatura, Vatican. Photograph AKG London, Pirozzi
 
-*[p. 6]* ^pg6
+*[p. 1]* ^pg6
 
 Arguing with Plato
 
@@ -122,13 +122,13 @@ Imagine that you are on a jury, listening to Smith describe how he was set upon 
 
 Do you know that Smith was attacked? This might at first seem like an odd thing to worry about. What better evidence could you have? But you might reflect that this is, after all, a courtroom, and that Smith is making a case which his alleged attacker will then try to counter. Can you be sure that you are convinced because Smith is telling the truth, or might it be the way the case is being presented that is persuading you? If it is the latter, then you might be worried; for then you might have been convinced even if Smith had not been telling the truth. Besides, even if he is telling the truth, is his evidence conclusive as to his being attacked? For all you Know, he might have been part of a set-up, and it's not as though you had been there and seen it for yourself. And so it can seem quite natural to conclude that you don't actually know that Smith was attacked, though you have a belief about it which is true, and no actual reason to doubt its truth.
 
-*[p. 7]* ^pg7
+*[p. 2]* ^pg7
 
 The Theaetetus
 
 The Theaetetus is one of Plato's most appealing dialogues, but also one of his most puzzling. In it, Socrates says that he is a midwife like his mother: he draws ideas out of people, before testing them to see whether they hold up to reasoned examination. Refusing to put forward his own ideas about what knowledge is (though displaying sophisticated awareness of the work of other philosophers), he shows faults in all of the accounts of knowledge suggested by young Theaetetus. Pursuing the thought that if you Know something, you can't be wrong, Theaetetus suggests that knowing might be perceiving; then having a true belief; then, having a true belief and being able to defend or ‘give an account of’ it. All these suggestions fail, and the dialogue leaves us better off only in awareness of our own inability to sustain an account of knowing. Socrates’ insistence on arguing only against the positions of others, not for any position of his own, made the dialogue a key one for the Platonic tradition which took Plato's inheritance to be one of seeking truth by questioning those who claim to have it (as Socrates often does in the dialogues) rather than by making his own philosophical claims. Others, noting that in other dialogues we find positive, ambitious claims about the nature of knowledge, thought of the Theaetetus as clearing away only accounts of knowledge that Plato took to be mistaken. Socrates here, the midwife of others’ ideas who has no ‘children’ of his own, seems very different from the Socrates of other dialogues such as the Republic, who puts forward positive ideas quite confidently. Readers have to come to their own conclusions about this (some ancient and modern solutions are discussed in Chapter 3).
 
-*[p. 8]* ^pg8
+*[p. 3]* ^pg8
 
 In his dialogue Theaetetus Plato raises this issue. What can knowledge be,
 
@@ -158,7 +158,7 @@ SOCRATES: These men, at any rate, persuade by means of their
 
 expertise, and they don't teach people, but get them to have
 
-*[p. 9]* ^pg9
+*[p. 4]* ^pg9
 
 whatever beliefs they wish. Or do you think that there are any teachers so clever as to teach the truth about what happened adequately, in the short time allowed, to people who weren't there when others were robbed of their property or violently attacked?
 
@@ -184,14 +184,14 @@ What is required for knowledge?
 
 One reason put forward by Plato for the claim that the jury lack knowledge is that they have been persuaded, by someone whose main aim it is to get them to believe what he wants them to believe. In this case he has persuaded them of the truth, but we may think that he would have been able to persuade them even if his story hadn't been true. At first this worry may seem far-fetched: if you have acquired a true belief in a certain
 
-*[p. 10]* ^pg10
+*[p. 5]* ^pg10
 
 way, why worry that you might have been persuaded of something false in that same way? How can what didn't happen cast doubt on what did? But, in fact, this worry about the power of persuasion is serious, because it casts doubt on the route by which the belief is acquired. If it is a route by which | can acquire false beliefs as readily as true ones, then it cannot guarantee me only true beliefs. And this does raise a doubt in most people's minds that a belief that |
 have acquired by that route could amount to knowledge.
 
 Another reason put forward in the passage is that the sort of fact the jury have been persuaded of, namely that Smith was attacked, is not the sort of fact that you could have knowledge of anyway unless you had been there and seen it for yourself. However convinced we are that Smith is telling the truth, all we are getting is a version that is second-hand, and conveyed by an entirely different kind of route from Smith's own. He experienced and saw the robbery; we are only being told about it. However vivid the telling, it's still just a telling; only somebody who was there and saw it can have knowledge of it. Again, this may at first seem far-fetched. If we limit knowledge to what we can actually experience first-hand for ourselves, then there won't be much that we can know; nothing that we read or hear second-hand will count. Yet there is a powerful thought being appealed to here, one that can be expressed by saying that nobody else can know things for you or on your behalf. Knowledge requires that you acquire the relevant belief for yourself. What it is to acquire a belief for yourself will differ depending on the kind of belief it is, but with the belief that Smith was robbed the only way you can acquire it for yourself with no intermediary is, it seems, to be there yourself and actually see it.
 
-*[p. 11]* ^pg11
+*[p. 6]* ^pg11
 
 A problem for us
 
@@ -205,7 +205,7 @@ The problem now is that the second objection seems to conflict with the first. T
 
 conveyable.
 
-*[p. 12]* ^pg12
+*[p. 7]* ^pg12
 
 1\. Bust of Plato.
 

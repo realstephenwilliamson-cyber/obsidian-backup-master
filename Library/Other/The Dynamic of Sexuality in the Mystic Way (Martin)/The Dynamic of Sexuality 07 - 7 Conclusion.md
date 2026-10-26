@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[The Dynamic of Sexuality 06 - 6 The Two Mysticisms Compared and Contrasted|← previous]] · [[The Dynamic of Sexuality in the Mystic Way (Martin)|contents]] · [[The Dynamic of Sexuality 08 - Adapted from Brooks, Secret of the Three Cities, Appendix. Here, he|next →]]
+[[The Dynamic of Sexuality 06 - 6 The Two Mysticisms Compared and Contrasted|← previous]] · [[The Dynamic of Sexuality in the Mystic Way (Martin)|contents]] · [[The Dynamic of Sexuality 08 - Appendix A Location of Cakras in the Human Body Matrix|next →]]
 
 *[p. 91]* ^pg99
 

@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[What Makes Life Worth Living (Stiegler)|contents]] · [[What Makes Life Worth Living 02 - Section|next →]]
+[[What Makes Life Worth Living (Stiegler)|contents]] · [[What Makes Life Worth Living 02 - Front matter, Introduction and Chapters 1-3, Apocalypse Without God - Pharmacology of Nuclear Fire|next →]]
 
 *[p. c1]* ^pg1
 

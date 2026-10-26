@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Aesthetics, Digital Studies 10 - Part 3 The NeganthropoceneIntroduction Noel Fitzpatrick|← previous]] · [[Aesthetics, Digital Studies and Bernard Stiegler (Fitzpatrick)|contents]] · [[Aesthetics, Digital Studies 12 - Notes on Contributors|next →]]
+[[Aesthetics, Digital Studies 10 - Part 3 The Neganthropocene (Introduction and Chapters 7-8)|← previous]] · [[Aesthetics, Digital Studies and Bernard Stiegler (Fitzpatrick)|contents]] · [[Aesthetics, Digital Studies 12 - Notes on Contributors|next →]]
 
 *[p. 163]* ^pg192
 

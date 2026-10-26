@@ -10,6 +10,6 @@ text_source: PDF text layer (born-digital), PyMuPDF; footnotes re-converted 15 O
 converted: 2026-10-07
 ---
 
-[[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 02 - Part 1|next →]]
+[[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 02 - Front matter, A Note on Alexis Sanderson and Indology, Bibliography and Introduction|next →]]
 
 *[PDF 1]* ^pg1

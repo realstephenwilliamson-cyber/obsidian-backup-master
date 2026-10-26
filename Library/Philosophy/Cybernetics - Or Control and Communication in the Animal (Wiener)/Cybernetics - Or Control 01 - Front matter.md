@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Cybernetics - Or Control and Communication in the Animal (Wiener)|contents]] · [[Cybernetics - Or Control 02 - CYBERNETICS, part 1|next →]]
+[[Cybernetics - Or Control and Communication in the Animal (Wiener)|contents]] · [[Cybernetics - Or Control 02 - Front matter, Preface to the Second Edition, Contents and Introduction|next →]]
 
 *[PDF 1]* ^pg1
 

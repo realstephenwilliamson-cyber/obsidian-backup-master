@@ -2751,8 +2751,8 @@ At 37.52 the Mūla keeps KSTS's *siṃtāṃśu* (Stephen's choice). Readings wh
 | 26.7–8 | 331 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=328\|328]] |
 | 26.9–11 | 332 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=329\|329]] |
 | 26.12–15 | 333* | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=330\|330]] |
-| 26.16–17 ? | 334 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=331\|331]] |
-| 26.18–20 ? | 335 (missing from scan) | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=332\|332]] |
+| 26.16 | 334 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=331\|331]] |
+| 26.17–20 ? | 335 (missing from scan) | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=332\|332]] |
 | 26.21–22 | 336 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=332\|332]] |
 | 26.23–25 | 337 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=333\|333]] |
 | 26.26–29 | 338 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=334\|334]] |
@@ -2791,8 +2791,8 @@ At 37.52 the Mūla keeps KSTS's *siṃtāṃśu* (Stephen's choice). Readings wh
 | 27.29–31 | 368 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=364\|364]] |
 | 27.32–34 | 369* | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=365\|365]] |
 | 27.35–38 | 370* | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=366\|366]] |
-| 27.39–40 ? | 371 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=367\|367]] |
-| 27.41 ? | 373 (missing from scan) | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=369\|369]] |
+| 27.39 | 371 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=367\|367]] |
+| 27.40–41 ? | 373 (missing from scan) | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=369\|369]] |
 | 27.42–44 | 374 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=369\|369]] |
 | 27.45–47 | 375* | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=370\|370]] |
 | 27.48–49 | 376 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=371\|371]] |

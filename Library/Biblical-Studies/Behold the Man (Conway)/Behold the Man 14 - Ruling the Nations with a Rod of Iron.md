@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Behold the Man 13 - ''He Must Increase''|← previous]] · [[Behold the Man (Conway)|contents]] · [[Behold the Man 15 - Conclusion|next →]]
+[[Behold the Man 13 - 'He Must Increase', The Divine Masculinity of the Johannine Jesus|← previous]] · [[Behold the Man (Conway)|contents]] · [[Behold the Man 15 - Conclusion|next →]]
 
 *[p. 159]* ^pg172
 

@@ -27,7 +27,7 @@ samyagjñānasvabhāvā hi vidyā sākṣādvimocikā || ^iast
 > [!source] Dyczkowski, vol. VIII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 08 (Dyczkowski)/Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#^pg23|p. 5]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 08.pdf#page=23>))
 >
-> ‘This, the teacher’s procedure (vidhāna), is said to be an easy means (sukhopāya) (taught by the Lord to liberation) for those who, because they are incapable, have no resolve (to strive for) knowledge.’ (Thus, with these words uttered by the Lord, initiation) is said to be an expedient means to liberation in the venerable (Āgama) called Matañga. (with 15.8–9ab)
+> ‘This, the teacher’s procedure (vidhāna), is said to be an easy means (sukhopāya) (taught by the Lord to liberation) for those who, because they are incapable, have no resolve (to strive for) knowledge.’ (Thus, with these words uttered by the Lord, initiation) is said to be an expedient means to liberation in the venerable (Āgama) called Mataṅga. (with 15.8–9ab)
 >
 > Knowledge, which is sound insight (into the true nature of reality), indeed liberates directly. (with 15.9cd)
 

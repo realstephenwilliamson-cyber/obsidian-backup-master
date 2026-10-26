@@ -17,11 +17,11 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 
 ## Contents
 
-- [[Automatic Society, Volume 1 01 - 000|000]] (pp. 1–9)
-- [[Automatic Society, Volume 1 02 - 001, part 1|001, part 1]] (pp. 8–51)
-- [[Automatic Society, Volume 1 03 - 001, part 2|001, part 2]] (pp. 52–101)
-- [[Automatic Society, Volume 1 04 - 002, part 1|002, part 1]] (pp. 102–51)
-- [[Automatic Society, Volume 1 05 - 002, part 2|002, part 2]] (pp. 5–1)
-- [[Automatic Society, Volume 1 06 - 003, part 1|003, part 1]] (pp. 2–51)
-- [[Automatic Society, Volume 1 07 - 003, part 2|003, part 2]] (pp. 52–301)
-- [[Automatic Society, Volume 1 08 - 004|004]] (pp. 302–339)
+- [[Automatic Society, Volume 1 01 - Front matter and Introduction|Front matter and Introduction]] (pp. 1)
+- [[Automatic Society, Volume 1 02 - Introduction (end), Chapters 1-2, The Industry of Traces - States of Shock, States of Fact, States of Law|Introduction (end), Chapters 1–2, The Industry of Traces – States of Shock, States of Fact, States of Law]] (pp. 2–51)
+- [[Automatic Society, Volume 1 03 - Chapter 2 (end), Chapters 3-4, The Destruction of the Faculty of Dreaming - Overtaken|Chapter 2 (end), Chapters 3–4, The Destruction of the Faculty of Dreaming – Overtaken]] (pp. 52–101)
+- [[Automatic Society, Volume 1 04 - 4. Overtaken (end) and 5. Within the Electronic Leviathan in Fact and in Law|4. Overtaken (end) and 5. Within the Electronic Leviathan in Fact and in Law]] (pp. 102–151)
+- [[Automatic Society, Volume 1 05 - Chapter 5 (end), Chapters 6-7, On Available Time for the Coming Generation - Energies and Potentials|Chapter 5 (end), Chapters 6–7, On Available Time for the Coming Generation – Energies and Potentials]] (pp. 152–201)
+- [[Automatic Society, Volume 1 06 - Chapter 7 (end), Chapter 8, Conclusion and Notes, Above and Beyond the Market|Chapter 7 (end), Chapter 8, Conclusion and Notes, Above and Beyond the Market]] (pp. 202–251)
+- [[Automatic Society, Volume 1 07 - Notes (continued)|Notes (continued)]] (pp. 252–301)
+- [[Automatic Society, Volume 1 08 - Notes (end) and Index|Notes (end) and Index]] (pp. 302–341)

@@ -16,11 +16,11 @@ Converted from the PDF on 15 Oct 2026 (PDF text layer, PyMuPDF). Each PDF page s
 
 ## Contents
 
-- [[Anglicanism VSI 01 - Front matter|Front matter]] (pp. 1–5)
-- [[Anglicanism VSI 02 - ANGLICANISM|ANGLICANISM]] (pp. 6–7)
-- [[Anglicanism VSI 03 - Contents|Contents]] (pp. 8)
-- [[Anglicanism VSI 04 - Acknowledgements|Acknowledgements]] (pp. 9)
-- [[Anglicanism VSI 05 - List of illustrations|List of illustrations]] (pp. 10–11)
+- [[Anglicanism VSI 01 - Front matter|Front matter]] (PDF 1–5)
+- [[Anglicanism VSI 02 - ANGLICANISM|ANGLICANISM]] (PDF 6–7)
+- [[Anglicanism VSI 03 - Contents|Contents]] (PDF 8)
+- [[Anglicanism VSI 04 - Acknowledgements|Acknowledgements]] (PDF 9)
+- [[Anglicanism VSI 05 - List of illustrations|List of illustrations]] (PDF 10–11)
 - [[Anglicanism VSI 06 - The problems of Anglicanism|The problems of Anglicanism]] (pp. 1–12)
 - [[Anglicanism VSI 07 - Establishing the church|Establishing the church]] (pp. 13–37)
 - [[Anglicanism VSI 08 - Competing visions for the Church of England|Competing visions for the Church of England]] (pp. 38–56)

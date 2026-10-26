@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Bourgeois Hinduism, or the Faith 14 - Appendix 2. List of Texts Cited in Sabhyadiger vaktrt& 257;|← previous]] · [[Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)|contents]] · [[Bourgeois Hinduism, or the Faith 16 - Notes|next →]]
+[[Bourgeois Hinduism, or the Faith 14 - Appendix 2. List of Texts Cited in Sabhyadiger vaktrta|← previous]] · [[Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)|contents]] · [[Bourgeois Hinduism, or the Faith 16 - Notes|next →]]
 
 *[p. 181]* ^pg196
 

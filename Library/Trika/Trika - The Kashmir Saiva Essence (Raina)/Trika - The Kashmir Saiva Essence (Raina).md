@@ -20,9 +20,9 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 
 ## Contents
 
-- [[Trika - The Kashmir Saiva 01 - Front matter|Front matter]] (pp. 1–9)
-- [[Trika - The Kashmir Saiva 02 - Keys to the pronunciation of Sanskrta words written in English|Keys to the pronunciation of Saṅskṛta words written in English]] (pp. d)
-- [[Trika - The Kashmir Saiva 03 - Abbreviations (used in the book)|Abbreviations (used in the book)]] (pp. 16–19)
+- [[Trika - The Kashmir Saiva 01 - Front matter|Front matter]] (PDF 1–9)
+- [[Trika - The Kashmir Saiva 02 - Keys to the pronunciation of Sanskrta words written in English|Keys to the pronunciation of Saṅskṛta words written in English]] (PDF 10–15)
+- [[Trika - The Kashmir Saiva 03 - Abbreviations (used in the book)|Abbreviations (used in the book)]] (PDF 16–19)
 
 ### Trika — the perspective
 

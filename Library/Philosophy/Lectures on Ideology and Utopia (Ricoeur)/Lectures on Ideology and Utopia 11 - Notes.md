@@ -10,7 +10,7 @@ text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture, ClearScan),
 converted: 2026-10-07
 ---
 
-[[Lectures on Ideology and Utopia 10 - Part II Utopia|← previous]] · [[Lectures on Ideology and Utopia (Ricoeur)|contents]] · [[Lectures on Ideology and Utopia 12 - Bib!iography|next →]]
+[[Lectures on Ideology and Utopia 10 - Part II Utopia|← previous]] · [[Lectures on Ideology and Utopia (Ricoeur)|contents]] · [[Lectures on Ideology and Utopia 12 - Bibliography|next →]]
 
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's OCR layer (Adobe Acrobat Paper Capture, ClearScan), not a born-digital text: words can be misread, and some passages may be marked illegible. For exact readings, check the PDF (the *Open the PDF* button on the catalog note).

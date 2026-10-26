@@ -261,7 +261,7 @@ The reflective awareness Śakti and her possessor have of one another, when pene
 
 *[p. 336]* ^pg353
 
-(upabhoga), play (erotic games with one another), laugh (together) and the like, the vitality of Mantra (is experienced through the eight phases of Sound, namely,) 1) an inarticulate (avyakta) (whisper), 2) the resonance (dhvani) (of a bell), 3) the rumble (rāva) (of storm clouds), 4) crackling (sphoṭa), 5) a voice (śruti), 6) sound (nāda), and 7) the end of sound (nādānta)ů, and 8) (all of which) are forms of the uninterrupted and unstruck (resonance of pure consciousness) (andhata), ), (which is the eighth). (154cd-156ab) 
+(upabhoga), play (erotic games with one another), laugh (together) and the like, the vitality of Mantra (is experienced through the eight phases of Sound, namely,) 1) an inarticulate (avyakta) (whisper), 2) the resonance (dhvani) (of a bell), 3) the rumble (rāva) (of storm clouds), 4) crackling (sphoṭa), 5) a voice (śruti), 6) sound (nāda), and 7) the end of sound (nādānta)ů, and 8) (all of which) are forms of the uninterrupted and unstruck (resonance of pure consciousness) (anāhata), (which is the eighth). (154cd-156ab) 
 
 #### Viveka on 29.154–156
 

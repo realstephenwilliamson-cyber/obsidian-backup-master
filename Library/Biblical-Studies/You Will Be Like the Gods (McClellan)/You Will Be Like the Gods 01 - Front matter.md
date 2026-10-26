@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[You Will Be Like the Gods (McClellan)|contents]] · [[You Will Be Like the Gods 02 - Final Draft, part 1|next →]]
+[[You Will Be Like the Gods (McClellan)|contents]] · [[You Will Be Like the Gods 02 - Front matter and Chapters 1-2, Introduction - Cognitive Origins of Deity Concepts|next →]]
 
 *[PDF 1]* ^pg1
 

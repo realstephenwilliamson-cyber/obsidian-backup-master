@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Of Gods and Books 01 - Front matter|← previous]] · [[Of Gods and Books (De Simini)|contents]] · [[Of Gods and Books 03 - 1 Manuscripts, Ritual, and the State in Indian Sources, part 1|next →]]
+[[Of Gods and Books 01 - Front matter|← previous]] · [[Of Gods and Books (De Simini)|contents]] · [[Of Gods and Books 03 - 1 Manuscripts, Ritual, and the State in Indian Sources (sections 1.1-1.2)|next →]]
 
 *[PDF 8]* ^pg8
 

@@ -16,7 +16,7 @@ Converted from the PDF on 15 Oct 2026 (PDF text layer, PyMuPDF). Each PDF page s
 
 ## Contents
 
-- [[Russell VSI 01 - Front matter|Front matter]] (pp. 1–5)
+- [[Russell VSI 01 - Front matter|Front matter]] (PDF 1–5)
 - [[Russell VSI 02 - RUSSELL|RUSSELL]] (pp. 3)
 - [[Russell VSI 03 - Contents|Contents]] (pp. 4)
 - [[Russell VSI 04 - Preface|Preface]] (pp. 5–6)

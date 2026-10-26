@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[A Source Book in Chinese Philosophy (Chan)|contents]] · [[A Source Book in Chinese 02 - This Page Intentionally Left Blank|next →]]
+[[A Source Book in Chinese Philosophy (Chan)|contents]] · [[A Source Book in Chinese 02 - Foreword, Preface, Acknowledgments, Chronology of Dynasties and Chronology of Philosophers|next →]]
 
 *[PDF 1]* ^pg1
 

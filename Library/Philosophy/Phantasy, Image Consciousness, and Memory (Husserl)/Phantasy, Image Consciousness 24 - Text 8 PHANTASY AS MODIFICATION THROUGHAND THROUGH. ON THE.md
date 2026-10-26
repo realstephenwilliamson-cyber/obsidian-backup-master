@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Phantasy, Image Consciousness 23 - APPENDICES|← previous]] · [[Phantasy, Image Consciousness, and Memory (Husserl)|contents]] · [[Phantasy, Image Consciousness 25 - Text 9 IMMANENT AND INTERNAL PHANTASY(IN THE DOUBLE SENSE)|next →]]
+[[Phantasy, Image Consciousness 23 - Text 7, Appendices XXIX-XXX|← previous]] · [[Phantasy, Image Consciousness, and Memory (Husserl)|contents]] · [[Phantasy, Image Consciousness 25 - Text 9 IMMANENT AND INTERNAL PHANTASY(IN THE DOUBLE SENSE)|next →]]
 
 *[PDF 367]* ^pg367
 

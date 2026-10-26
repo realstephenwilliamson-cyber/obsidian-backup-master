@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Shadows of the Prophet 19 - Appendix BNaqshbandi Silsilah The Golden Chain|← previous]] · [[Shadows of the Prophet (Farrer)|contents]] · [[Shadows of the Prophet 21 - References|next →]]
+[[Shadows of the Prophet 19 - Appendix B Naqshbandi Silsilah, The Golden Chain|← previous]] · [[Shadows of the Prophet (Farrer)|contents]] · [[Shadows of the Prophet 21 - References|next →]]
 
 *[p. 275]* ^pg280
 

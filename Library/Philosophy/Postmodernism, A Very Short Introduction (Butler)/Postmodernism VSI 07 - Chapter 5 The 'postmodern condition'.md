@@ -10,7 +10,7 @@ text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
 ---
 
-[[Postmodernism VSI 06 - Chapter 4 The culture ofpostmodernism|← previous]] · [[Postmodernism, A Very Short Introduction (Butler)|contents]] · [[Postmodernism VSI 08 - References|next →]]
+[[Postmodernism VSI 06 - Chapter 4 The culture of postmodernism|← previous]] · [[Postmodernism, A Very Short Introduction (Butler)|contents]] · [[Postmodernism VSI 08 - References|next →]]
 
 *[p. 110]* ^pg121
 

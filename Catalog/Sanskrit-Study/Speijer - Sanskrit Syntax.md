@@ -38,3 +38,6 @@ With an introduction by H. Kern. First published Leiden (Brill), 1886; this is t
 **Checked against the scan** on 4 Oct 2026 (title page and opening pages); properties updated from it. Verso: "First Edition: Leiden, 1886 / Reprint: Delhi, 1973, 1980, 1988, 1993, 1998" (by arrangement with E. J. Brill).
 
 **Text layer** (5 Oct 2026): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
+
+
+**Text layer, note** (26 Oct 2026, decision 7): the pages where the layer puts Devanagari into English lines do print Devanagari (seen on the page images), so an English-only layer would lose it; a redo of this PDF (the junk glyph after ि) is listed with the other fpdf2 PDFs for a later week.

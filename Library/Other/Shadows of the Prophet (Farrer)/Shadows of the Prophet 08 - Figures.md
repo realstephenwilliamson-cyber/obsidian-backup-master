@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Shadows of the Prophet 07 - Maps, Tables and Genealogies|← previous]] · [[Shadows of the Prophet (Farrer)|contents]] · [[Shadows of the Prophet 09 - Dramatis Person|next →]]
+[[Shadows of the Prophet 07 - Maps, Tables and Genealogies|← previous]] · [[Shadows of the Prophet (Farrer)|contents]] · [[Shadows of the Prophet 09 - Dramatis Personae|next →]]
 
 *[p. xvii]* ^pg14
 

@@ -5,7 +5,7 @@ author:
   - Benno A. Zuiddam
 work: "[[Zuiddam - Early Church Fathers on Creation, Death and Eschatology]]"
 source_pdf: Library/Christianity/j28_1_77-83.pdf
-page_range: 78–82
+page_range: 77–83
 pdf_pages: 1–7
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -16,7 +16,7 @@ Benno A. Zuiddam, 2014.
 
 Converted from the PDF on 7 Oct 2026. Each PDF page starts with `*[p. N]*`, the printed page number (or the PDF page where none is printed), ending in the block id `^pgK` for PDF page K. The PDF stays on the computer: open it from [[Zuiddam - Early Church Fathers on Creation, Death and Eschatology|the catalog note]].
 
-*[PDF 1]* ^pg1
+*[p. 77]* ^pg1
 
 Early Church Fathers on creation, 
 
@@ -187,7 +187,7 @@ biologos-new-york.html, accessed 3 October 2013.
 
 10\. Owen, J., Evolution Less Accepted in U.S. than Other Western Countries, Study Finds, *National Geographic News*, 10 August 2006, news.nationalgeographic.
 
-*[PDF 7]* ^pg7
+*[p. 83]* ^pg7
 
 com/news/2006/08/060810-evolution.html, accessed 3 October 2013.
 

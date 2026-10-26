@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Stiegler and Technics 05 - 1 Adapt and Smile or Die! Stiegler Among the Darwinists|← previous]] · [[Stiegler and Technics (Howells)|contents]] · [[Stiegler and Technics 07 - 3 Of a Mythical Philosophical Anthropology The Transcendental and the|next →]]
+[[Stiegler and Technics 05 - 1 Adapt and Smile or Die! Stiegler Among the Darwinists|← previous]] · [[Stiegler and Technics (Howells)|contents]] · [[Stiegler and Technics 07 - 3 Of a Mythical Philosophical Anthropology|next →]]
 
 *[p. 34]* ^pg47
 

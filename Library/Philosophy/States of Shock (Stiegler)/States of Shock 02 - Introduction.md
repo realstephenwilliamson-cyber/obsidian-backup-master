@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[States of Shock 01 - Front matter|← previous]] · [[States of Shock (Stiegler)|contents]] · [[States of Shock 03 - Part I Pharmacology of Stupidity Introduction to the Poststructuralist Epoch|next →]]
+[[States of Shock 01 - Front matter|← previous]] · [[States of Shock (Stiegler)|contents]] · [[States of Shock 03 - Part I and Chapters 1-2, Unreason - Doing and Saying Stupid Things in the Twentieth Century|next →]]
 
 *[p. 1]* ^pg9
 

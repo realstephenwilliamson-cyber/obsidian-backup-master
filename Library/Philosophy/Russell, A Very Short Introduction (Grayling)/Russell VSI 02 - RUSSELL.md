@@ -12,7 +12,7 @@ converted: 2026-10-15
 
 [[Russell VSI 01 - Front matter|← previous]] · [[Russell, A Very Short Introduction (Grayling)|contents]] · [[Russell VSI 03 - Contents|next →]]
 
-*[p. 6]* ^pg6
+*[PDF 6]* ^pg6
 
 A. C. Grayling
 

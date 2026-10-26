@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Stiegler and Technics 10 - 5 Technics, or the Fading Away of Aesthetics The Sensible and the|← previous]] · [[Stiegler and Technics (Howells)|contents]] · [[Stiegler and Technics 12 - 7 The Artist and the Amateur, from Misery to Invention|next →]]
+[[Stiegler and Technics 10 - 5 Technics, or the Fading Away of Aesthetics, The Sensible and the Question of Kant|← previous]] · [[Stiegler and Technics (Howells)|contents]] · [[Stiegler and Technics 12 - 7 The Artist and the Amateur, from Misery to Invention|next →]]
 
 *[p. 102]* ^pg115
 

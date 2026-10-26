@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Mystery 09 - Kshemaraja's concluding verses|← previous]] · [[The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|contents]] · [[The Mystery 11 - Appendix|next →]]
 
-*[p. 181]* ^pg181
+*[PDF 181]* ^pg181
 
 ## Additional Questions
 
@@ -84,7 +84,7 @@ JOHN: Kula *śāstra*.
 
 ERNIE: But all of those come from the Tantras.
 
-*[p. 182]* ^pg182
+*[PDF 182]* ^pg182
 
 SWAMIJI: Tantras, yes. And those masters have . . .
 
@@ -164,7 +164,7 @@ SWAMIJI: No. Vasagupta is of Spanda.
 
 ERNIE: Spanda.
 
-*[p. 183]* ^pg183
+*[PDF 183]* ^pg183
 
 GANJOO: Kula is?
 

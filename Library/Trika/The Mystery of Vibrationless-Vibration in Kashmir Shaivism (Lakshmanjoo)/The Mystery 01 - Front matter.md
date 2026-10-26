@@ -12,9 +12,9 @@ converted: 2026-10-07
 
 [[The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|contents]] · [[The Mystery 02 - Spanda Karika - (audios 1 to 3) First FlowVerses 1 - 25|next →]]
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 ## Title Page
 
@@ -36,7 +36,7 @@ John Hughes*,* Editor
 
 Lakshmanjoo Academy
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 ## Copyright Page
 
@@ -62,7 +62,7 @@ ISBN 978-0-9966365-5-1 (hardcover)
 
 ISBN 978-0-9966365-6-8 (ebook)
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
 ## Dedication
 
@@ -70,7 +70,7 @@ ISBN 978-0-9966365-6-8 (ebook)
 
 *Glory be to Thee!*
 
-*[p. 5]* ^pg5
+*[PDF 5]* ^pg5
 
 ## Table of Contents
 
@@ -102,7 +102,7 @@ Appendix
 
 Bibliography Index Published works Instructions to download audio
 
-*[p. 6]* ^pg6
+*[PDF 6]* ^pg6
 
 ## Guide to Pronunciation
 
@@ -196,7 +196,7 @@ as
 
 s in *s*aint, *s*un
 
-*[p. 7]* ^pg7
+*[PDF 7]* ^pg7
 
 ## Preface
 
@@ -218,7 +218,7 @@ John Hughes Lakshmanjoo Academy Los Angeles, 2016
 
 [^1]: For the most part Swami Lakshmanjoo has translated only Vasugupta’s original *kārikā* verses, yet in places he also quotes Kṣhemarāja’s *nirṇaya*.
 
-*[p. 8]* ^pg8
+*[PDF 8]* ^pg8
 
 ## Introduction
 
@@ -240,7 +240,7 @@ It may be borne in mind in this connection that the stanza is not found in the r
 
 Kṣhemarāja upholds the view that they were written by Vasugupta himself. What lends weight to his assumption is the presence of the following stanza in his recension of the Spanda Kārikās<sup>4</sup>:-
 
-*[p. 9]* ^pg9
+*[PDF 9]* ^pg9
 
 *labdhvāpyalabhyametajjñānadhanaṁ hṛdguhantakṛtanihiteḥvasuguptavacchivāya hi bhavati sadā sarvalokasya //4.2* <sup>5</sup>
 
@@ -262,7 +262,7 @@ This gloss on the Spanda system is calculated to explain the right interconnecti
 
 \[Kṣhemarāja’s concluding ślokas:\] Although the counting is not possible of the commentaries on this Shastra and although the intelligent people are mostly indifferent by nature, yet those few critics are sure to know that special merit of my commentary, who, being, as it were, the swans of intelligence, are keen enough to detect the essence.
 
-*[p. 10]* ^pg10
+*[PDF 10]* ^pg10
 
 My teacher \[Abhinavagupta\] did not like to be bracketed with the common herd of other numerous commentators, and hence, did not comment on the Spanda Śāstra.
 
@@ -290,15 +290,15 @@ HAPPINESS TO ALL!
 
 [^8]: Shri Utpaladeva was the author and founder of the Pratyabhijñā System, a philosophy unique to Kashmir Shaivism. His immediate disciple was Lakṣmanagupta who was Abhinavagupta’s teacher in the Pratyabhijñā. Kṣhemarāja was Abhinavagutpa’s chief disciple.
 
-*[p. 11]* ^pg11
+*[PDF 11]* ^pg11
 
 ## Acknowledgements
 
 First of all I would like to thank our team of associate editors comprised of Viresh Hughes, George Barselaar, Denise Hughes and Stephen Benson. They took the raw unedited audio transcript and, at Swamiji’s direction, transformed it into a polished document ready for publication. Being closely attuned to Swamiji’s vision they were able to lightly edit the manuscript without tarnishing the flow of the narrative. Recognizing that these revelations were meant to be used as an aid to gaining understanding of the philosophy and practice of Kashmir Shaivism they added exhaustive footnotes and appendices to aid the student in this quest. To Michael Van Winkle, our audio engineer, who enhanced the original audio. To Claudia Dose, our creative director, who typed the Devanāgarī and was responsible for creating the overall design. To Shanna Hughes, who managed this project, so it would be completed in a timely manner.
 
-*[p. 12]* ^pg12
+*[PDF 12]* ^pg12
 
-*[p. 13]* ^pg13
+*[PDF 13]* ^pg13
 
 ## Author
 
@@ -316,4 +316,4 @@ Throughout his life, Swamiji taught his disciples and devotees the ways of devot
 
 On the 27th of September, 1991, Swami Lakshmanjoo left his physical body and attained *mahasamādhi*, the great liberation.
 
-*[p. 14]* ^pg14
+*[PDF 14]* ^pg14

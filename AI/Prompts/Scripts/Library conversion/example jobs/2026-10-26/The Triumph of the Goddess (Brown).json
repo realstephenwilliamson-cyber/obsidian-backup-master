@@ -1,0 +1,354 @@
+{
+ "route": "pymupdf",
+ "out": "/home/claude/s5/resplit/work",
+ "date": "2026-10-26",
+ "ctype": "book",
+ "single": false,
+ "max_chapter": 10000,
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Hinduism/Brown - The Triumph of the Goddess, the Devi-Bhagavata Purana (SUNY 1990).pdf",
+ "pdf_vault": "Library/Hinduism/Brown - The Triumph of the Goddess, the Devi-Bhagavata Purana (SUNY 1990).pdf",
+ "catalog": "Brown - The Triumph of the Goddess",
+ "title": "The Triumph of the Goddess: The Canonical Models and Theological Visions of the Devi-Bhagavata Purana",
+ "authors": [
+  "C. Mackenzie Brown"
+ ],
+ "byline": "C. Mackenzie Brown. State University of New York Press, Albany, 1990.",
+ "folder": "Library/Hinduism/The Triumph of the Goddess (Brown)",
+ "index_name": "The Triumph of the Goddess (Brown)",
+ "prefix": "The Triumph of the Goddess",
+ "text_source": "PDF text layer (born-digital), PyMuPDF",
+ "toc": [
+  [
+   2,
+   "Contents",
+   7
+  ],
+  [
+   1,
+   "Preface",
+   9
+  ],
+  [
+   1,
+   "Acknowledgments",
+   15
+  ],
+  [
+   1,
+   "Introduction: The Vindication of the Goddess in the Puranic Tradition",
+   16
+  ],
+  [
+   2,
+   "Traditionalism and Originality in the Puranas",
+   18
+  ],
+  [
+   2,
+   "The Goddess and the \"Great Puranic\" Tradition",
+   21
+  ],
+  [
+   2,
+   "The Goddess Tradition and the Devi-Bhagavata",
+   22
+  ],
+  [
+   2,
+   "Structure of this Study",
+   27
+  ],
+  [
+   1,
+   "Chapter 1. The Origin and Transmission of the Two Bhagavata Puranas: A Canonical and Theological Dilemma",
+   31
+  ],
+  [
+   2,
+   "The Problem of Canonicity",
+   32
+  ],
+  [
+   2,
+   "The Divine or Precreation History of the Two Bhagavatas",
+   38
+  ],
+  [
+   1,
+   "Chapter 2. Horsing Around with Visnu: A Case of Capital Murder",
+   48
+  ],
+  [
+   2,
+   "Visnu-Hayayiras in the Bhagavata Purana",
+   49
+  ],
+  [
+   2,
+   "Visnu-Hayagriva in the Devi-Bhagavata",
+   54
+  ],
+  [
+   2,
+   "The Frame Story of the Hayagriva Myth: Imitation and Mockery in the Avataras of Visnu",
+   62
+  ],
+  [
+   1,
+   "Chapter 3. Who Slew Vrtrasura? Deception, Redemption, and Grace in the Two Bhagavatas",
+   67
+  ],
+  [
+   2,
+   "The Slaying of Vrtra in the Mahabharata",
+   68
+  ],
+  [
+   2,
+   "The Slaying of Vrtra in the Bhagavata Purana",
+   72
+  ],
+  [
+   2,
+   "The Slaying of Vrtra in the Devi-Bhagavata Purana",
+   77
+  ],
+  [
+   2,
+   "Delusion, Responsibility, and Grace in the Two Bhagavatas",
+   85
+  ],
+  [
+   1,
+   "Chapter 4. The Three Great Adventures of the Devi: Heroic Eroticism and Maternal Compassion",
+   93
+  ],
+  [
+   2,
+   "The Seduction of Madhu and Kaitabha: Heroic and Lustful Pride in the Devi-Mahatmya and the Devi-Bhagavata",
+   95
+  ],
+  [
+   2,
+   "The Destruction of Mahisasura: All is Fair in Love and War, but is it Love, or War?",
+   106
+  ],
+  [
+   2,
+   "The Courting of Sumbha and Nisumbha: Conflicting Moods of Passion, War, and Peace",
+   125
+  ],
+  [
+   2,
+   "The Ambivalent Goddess: Theories of Pacification, Bifurcation, and Androgynization",
+   134
+  ],
+  [
+   1,
+   "Chapter 5. The Great Manifestations of the Devi: Maha-Kali, Maha-Laksmi, Maha-Sarasvati",
+   144
+  ],
+  [
+   2,
+   "From Avataric Descents to Cosmic Manifestations: The Three Primordial Saktis of the Devi",
+   145
+  ],
+  [
+   2,
+   "From Cosmic Manifestations to Devatas: Vedicization and Tantricization of the Devi-Mahatmya",
+   156
+  ],
+  [
+   1,
+   "Chapter 6. Of Merchants and Kings: Worship and Its Fruits in the Frame Stories of the Devi-Bhagavata and Markandeya Puranas",
+   167
+  ],
+  [
+   2,
+   "Of Manus and Men in the Markandeya Purana",
+   169
+  ],
+  [
+   2,
+   "The History of Devi-Aradhana in the Manvantaras According to the Devi-Bhagavata",
+   171
+  ],
+  [
+   2,
+   "Frustration and Hope in the Kali Yuga: The Devi-Bhagavata's Interpretation of History",
+   175
+  ],
+  [
+   2,
+   "The Kings Rama, Sudarsana, and Satrughna and the Regeneration of the Devi-Cult in Ayodhya",
+   179
+  ],
+  [
+   2,
+   "The Case of the Vanishing Merchant: Integration of the Fruits of Aradhana",
+   184
+  ],
+  [
+   1,
+   "Chapter 7. The Devi Gita and the Bhagavad Gita: Self-Revelations of the Supreme Reality",
+   190
+  ],
+  [
+   2,
+   "From Mahatmya to Gita: Mediated Revelation and Direct Insight",
+   191
+  ],
+  [
+   2,
+   "The Setting of the Devi Gita: The Birth of Gauri (Parvati)",
+   194
+  ],
+  [
+   2,
+   "The Darsanas of the Devi Gita",
+   197
+  ],
+  [
+   2,
+   "The Upadesa of the Devi Gita",
+   205
+  ],
+  [
+   1,
+   "Chapter 8. Gita-Reflections in the Mystic Isles: Narada's Journey to the White Island and the Trimurti's Journey to the Jeweled Island",
+   212
+  ],
+  [
+   2,
+   "Narada's Journey to the White Island in the Mahabharata",
+   213
+  ],
+  [
+   2,
+   "Narada's Journey to the White Island in the Devi-Bhagavata",
+   215
+  ],
+  [
+   2,
+   "The Trimurti's Journey to the Jeweled Island",
+   217
+  ],
+  [
+   1,
+   "Conclusion: The Triumph of the Goddess",
+   224
+  ],
+  [
+   1,
+   "Appendix: Three Theories on the Text-History of the Devi-Bhagavata Purana",
+   230
+  ],
+  [
+   1,
+   "Abbreviations",
+   237
+  ],
+  [
+   1,
+   "Glossary",
+   238
+  ],
+  [
+   1,
+   "Notes",
+   243
+  ],
+  [
+   2,
+   "Preface",
+   243
+  ],
+  [
+   2,
+   "Introduction: The Vindication of the Goddess in the Puranic Tradition",
+   243
+  ],
+  [
+   2,
+   "Chapter 1. The Origin and Transmission of the Two Bhagavata Puranas: A Canonical and Theological Dilemma",
+   246
+  ],
+  [
+   2,
+   "Chapter 2. Horsing Around with Visnu: A Case of Capital Murder",
+   251
+  ],
+  [
+   2,
+   "Chapter 3. Who Slew Vrtrasura? Deception, Redemption, and Grace in the Two Bhagavatas",
+   260
+  ],
+  [
+   2,
+   "Chapter 4. The Three Great Adventures of the Devi: Heroic Eroticism and Maternal Compassion",
+   268
+  ],
+  [
+   2,
+   "Chapter 5. The Great Manifestations of the Devi: Maha-Kali, Maha-Laksmi, Maha-Sarasvati",
+   276
+  ],
+  [
+   2,
+   "Chapter 6. Of Merchants and Kings: Worship and Its Fruits in the Frame Stories of the Devi-Bhagavata and Markandeya Puranas",
+   285
+  ],
+  [
+   2,
+   "Chapter 7. The Devi Gita and the Bhagavad Gila: Self-Revelations of the Supreme Reality",
+   293
+  ],
+  [
+   2,
+   "Chapter 8. Gita-Reflections in the Mystic Isles: Narada's Journey to the White Island and the Trimurti's Journey to the Jeweled Island",
+   298
+  ],
+  [
+   2,
+   "Conclusion: The Triumph of the Goddess",
+   301
+  ],
+  [
+   2,
+   "Appendix: Three Theories on the Text-History of the Devi-Bhagavata Purana",
+   304
+  ],
+  [
+   1,
+   "Bibliography",
+   305
+  ],
+  [
+   2,
+   "A. Primary Texts with Translations",
+   305
+  ],
+  [
+   2,
+   "B. Secondary Works",
+   311
+  ],
+  [
+   1,
+   "Index",
+   320
+  ]
+ ],
+ "skip_unmatched_sub": true,
+ "contents_heads": {
+  "Chapter 1. The Origin and Transmission of the Two Bhagavata Puranas: A Canonical and Theological Dilemma": "Part I The Two Bhagavatas: Contending Revelations and Visions of the Divine",
+  "Chapter 4. The Three Great Adventures of the Devi: Heroic Eroticism and Maternal Compassion": "Part II The Two Devi-Mahatmyas: Revisions Within the Tradition",
+  "Chapter 7. The Devi Gita and the Bhagavad Gita: Self-Revelations of the Supreme Reality": "Part III The Two Gitas: The Harmonization of Traditions and the Transcendence of Gender"
+ },
+ "_start_override": {
+  "Chapter 1. The Origin and Transmission of the Two Bhagavata Puranas: A Canonical and Theological Dilemma": 30,
+  "Chapter 4. The Three Great Adventures of the Devi: Heroic Eroticism and Maternal Compassion": 92,
+  "Chapter 7. The Devi Gita and the Bhagavad Gita: Self-Revelations of the Supreme Reality": 189
+ },
+ "_blank_labels_re": "^COVER"
+}

@@ -1,0 +1,114 @@
+{
+ "route": "pymupdf",
+ "out": "/home/claude/s5/resplit/work",
+ "date": "2026-10-26",
+ "ctype": "book",
+ "single": false,
+ "max_chapter": 10000,
+ "pdf": "/home/claude/s8/out/hume.final.pdf",
+ "pdf_vault": "Library/Philosophy/0211_Bk.pdf",
+ "catalog": "Hume - The Natural History of Religion",
+ "title": "The Natural History of Religion",
+ "authors": [
+  "David Hume"
+ ],
+ "byline": "David Hume.",
+ "folder": "Library/Philosophy/The Natural History of Religion (Hume)",
+ "index_name": "The Natural History of Religion (Hume)",
+ "prefix": "The Natural History of Religion",
+ "text_source": "fresh OCR of the page images (Tesseract, English model, 26 Oct 2026), PyMuPDF",
+ "toc": [
+  [
+   2,
+   "Contents",
+   3
+  ],
+  [
+   1,
+   "Editor's Introduction",
+   5
+  ],
+  [
+   1,
+   "Introduction",
+   25
+  ],
+  [
+   1,
+   "Section I. That Polytheism was the Primary Religion of Men",
+   26
+  ],
+  [
+   1,
+   "Section II. Origin of Polytheism",
+   31
+  ],
+  [
+   1,
+   "Section III. The same Subject considered",
+   34
+  ],
+  [
+   1,
+   "Section IV. Deities not considered as Creators or Formers of the World",
+   39
+  ],
+  [
+   1,
+   "Section V. Various forms of Polytheism: Allegory, Hero-Worship",
+   47
+  ],
+  [
+   1,
+   "Section VI. Origin of Theism from Polytheism",
+   51
+  ],
+  [
+   1,
+   "Section VII. Confirmation of this Doctrine",
+   57
+  ],
+  [
+   1,
+   "Section VIII. Flux and Reflux of Polytheism and Theism",
+   59
+  ],
+  [
+   1,
+   "Section IX. Comparison of these Religions with regard to Persecution and Toleration",
+   62
+  ],
+  [
+   1,
+   "Section X. With Regard to Courage or Abasement",
+   66
+  ],
+  [
+   1,
+   "Section XI. With Regard to Reason or Absurdity",
+   68
+  ],
+  [
+   1,
+   "Section XII. With Regard to Doubt or Conviction",
+   70
+  ],
+  [
+   1,
+   "Section XIII. Impious Conceptions of the Divine Nature in Popular Religions of Both Kinds",
+   85
+  ],
+  [
+   1,
+   "Section XIV. Bad Influence of Popular Religions on Morality",
+   91
+  ],
+  [
+   1,
+   "Section XV. General Corollary",
+   96
+  ]
+ ],
+ "skip_unmatched_sub": true,
+ "callout": "> [!note] Text from a fresh OCR of the scan\n> This text is a fresh OCR of the page images (Tesseract, English model, 26 Oct 2026), not a born-digital text: words can be misread. For exact readings, check the PDF (the *Open the PDF* button on the catalog note)."
+}

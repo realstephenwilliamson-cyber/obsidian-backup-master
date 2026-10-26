@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Aesthetics, Digital Studies 06 - Digital Studies and Aesthetics Neganthropology|← previous]] · [[Aesthetics, Digital Studies and Bernard Stiegler (Fitzpatrick)|contents]] · [[Aesthetics, Digital Studies 08 - Part 1 Tertiary RetentionIntroduction Cormac Deane, Neill O'Dwyer|next →]]
+[[Aesthetics, Digital Studies 06 - Digital Studies and Aesthetics Neganthropology|← previous]] · [[Aesthetics, Digital Studies and Bernard Stiegler (Fitzpatrick)|contents]] · [[Aesthetics, Digital Studies 08 - Part 1 Tertiary Retention (Introduction and Chapters 1-3)|next →]]
 
 *[p. 1]* ^pg30
 

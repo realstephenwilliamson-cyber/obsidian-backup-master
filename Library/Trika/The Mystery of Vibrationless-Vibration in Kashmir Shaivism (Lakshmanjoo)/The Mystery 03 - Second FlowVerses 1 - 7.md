@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Mystery 02 - Spanda Karika - (audios 1 to 3) First FlowVerses 1 - 25|← previous]] · [[The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|contents]] · [[The Mystery 04 - Third FlowVerses 1 - 19|next →]]
 
-*[p. 42]* ^pg42
+*[PDF 42]* ^pg42
 
 ## Second FlowVerses 1 – 7
 
@@ -50,7 +50,7 @@ ANDY: How does a *mantra* acquire that *spanda*?
 
 SWAMIJI: *Mantra*? No. *Mantra*s actually reside in that \[*sāmānya*\] *spanda*, but you must know that, that it is in \[*sāmānya*\] *spanda*.
 
-*[p. 43]* ^pg43
+*[PDF 43]* ^pg43
 
 JOHN: So it’s the *mantra-*user that has . . .
 
@@ -90,7 +90,7 @@ And those *mantra*s, pure and impure (all *mantra*s), *tatraiva saṁpralīyante
 
 *Tenaite śiva dharmiṇaḥ*, so, in brief words, all *mantra*s have aspects of God consciousness. \[When\] they possess aspects of God consciousness and nothing else, then they work. Otherwise, \[if the\] aspects of God consciousness are not present in those *mantra*s, that *mantra* is useless.
 
-*[p. 44]* ^pg44
+*[PDF 44]* ^pg44
 
 *yasmātsarvamayo jīvaḥ sarvabhāvasamudbhavāt / tatsaṁvedanarūpeṇa tādātmyapratipattitaḥ* //*3*// *tasmācchabdārthacintāsu na sāvasthā na yā śivaḥ / bhoktaiva bhogyabhāvena sadā sarvatra saṁsthitaḥ* //*4*//
 
@@ -118,7 +118,7 @@ SWAMIJI: No, It has not gone anywhere. It is there.
 
 JOHN: It doesn’t depend on your knowing or not knowing.
 
-*[p. 45]* ^pg45
+*[PDF 45]* ^pg45
 
 SWAMIJI: And this kind of treatment will act only at the time of the realization of God consciousness in *samādhi*. When you enter in *samādhi*, then you feel that, “It was already there. I had nothing to achieve.” When you realize the state of God consciousness in *samādhi*, at that time, this memory comes in your mind, in the background of your mind: “It was already with me. It is not new.”
 
@@ -142,7 +142,7 @@ When a *yogi* with this determination sits for meditation, that, “I will not l
 
 . . . when the *sādhaka-yogi* sits for meditation and becomes one with God consciousness, that means, the rise of God consciousness has taken place in his thought (*ayamevaudayas-tasya*
 
-*[p. 46]* ^pg46
+*[PDF 46]* ^pg46
 
 *dhyeyasya*).
 

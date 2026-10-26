@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Mystery 07 - Spanda Sandoha - (audios 4 to 10), part 2|← previous]] · [[The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|contents]] · [[The Mystery 09 - Kshemaraja's concluding verses|next →]]
 
-*[p. 141]* ^pg141
+*[PDF 141]* ^pg141
 
 SWAMIJI: . . . just the vomiting of God consciousness outside. This \[universe\] is the vomiting of that supreme monistic state. And *abhedasāramāpādayanti*, and sometimes you just return to your own abode of God consciousness, the monistic state of thought. That too is handled by these energies. Sometimes outside, sometimes inside. When you are placed outside, you are involved by two energies, twofold energies. What are those? *Bhedābheda* and \[*bheda*\].
 
@@ -56,7 +56,7 @@ SWAMIJI: The void state is the void of duality. Void of duality.
 
 JOACHIM: *Khecarī* is the subject, isn’t it? Somehow the subject . . .
 
-*[p. 142]* ^pg142
+*[PDF 142]* ^pg142
 
 SWAMIJI: Subjective consciousness.
 
@@ -110,7 +110,7 @@ ERNIE: They lose that.
 
 SWAMIJI: It is because it was derived from flowers, outside flowers. But that God consciousness \[is\] already existing inside, so it is always pure.
 
-*[p. 143]* ^pg143
+*[PDF 143]* ^pg143
 
 *akālakali tatvātabhedasarvakartṛtvasarvajñatvapūrṇatvavyāpakatvasvarūponmīlanaparamārthāḥ /*
 
@@ -140,7 +140,7 @@ Now, the action of *gocarī* energies will be explained.
 
 *. . . tadupalakṣitāsu saṁjalpabhūmīṣu buddhyahaṁkāramanobhūmiṣu caranti*
 
-*[p. 144]* ^pg144
+*[PDF 144]* ^pg144
 
 So, by that speech, you must understand that *buddhi*, *ahaṁkāra*, and *manas*<sup>338</sup>, he resides in these three states of mind by the handling of the *gocharī* energies.
 
@@ -190,7 +190,7 @@ SWAMIJI: The four corners also. So, these are *dikcarī*s. And in these *dikcar�
 
 *anugṛhitānāṁ advayaprathanasārāḥ*
 
-*[p. 145]* ^pg145
+*[PDF 145]* ^pg145
 
 Whatever you find, e.g., the bathroom, the bathroom is also divine. In here, divine. Everything is divine. Everything is divinely fixed for you if you are blessed by *śaktipāta*.
 
@@ -214,7 +214,7 @@ SWAMIJI: Yes.
 
 Audio 9 - 26:41 *ityevaṁ vāmeśvarīśaktyā prasāritāni āntarāṇi aparaparāparaparaprathāhetutvāt aghoraghora ghorataranāma-niruktāni catvāri khecarī-gocarī-bhūcarīdikcarī-cakrāṇi tathāvidha viravrātasahitāni tāni /* *Prasāritāni āntarāṇi*, the internal wheels, the four internal wheels (*khecarī*, *gocarī*, *dikcarī*, and *bhūcarī*), which has come out from the Vāmeśvarī energy, and this is the root of the *aparā* energy, *parāparā* energy, and *parā* energy*. Aparā* energy is that of the dualistic state, *parāparā* energy, that is
 
-*[p. 146]* ^pg146
+*[PDF 146]* ^pg146
 
 the dualistic and monistic state, and *parā* energy is that of . . .
 
@@ -264,7 +264,7 @@ SWAMIJI: They push them down. And, at the same time, *rūdrāṇūnyāḥ samāl
 
 ERNIE: Their senses.
 
-*[p. 147]* ^pg147
+*[PDF 147]* ^pg147
 
 SWAMIJI: . . . senses, sensual pleasures. This functioning is done by the *ghoratarī śakti*s, which are *aparā* energies.
 
@@ -302,7 +302,7 @@ DENISE: Whether you like it or not.
 
 SWAMIJI: If you don’t like or if you like, you are dragged there. *Parā*, those are supreme energies, and these are called, these are nominated by those elevated beings \[as\] *aghorā*. And these are the immediate energies of Lord Śiva.
 
-*[p. 148]* ^pg148
+*[PDF 148]* ^pg148
 
 *bāhyāni punaretadvāmeśvaryadhiṣṭhitānyeva khecarībhūcarī-gocarī-dikcarī-cakrāṇi /*
 
@@ -342,7 +342,7 @@ ERNIE: Energies and masters.
 
 SWAMIJI: . . . energies and masters. And they work, they work in this world, in the activity of the world. Sometimes, whatever you do, if they touch you, you will become divine; at that moment you will become divine in that action. Whatever action you do, it becomes divine, if they indulge in your action. If they don’t indulge, then it is just like ordinary activity.
 
-*[p. 149]* ^pg149
+*[PDF 149]* ^pg149
 
 DENISE: What makes them indulge? Why should they indulge?
 
@@ -394,7 +394,7 @@ JOACHIM: In book seventeen of the *Tantrāloka*.
 
 SWAMIJI: Yes, yes. When in \[his\] first life he was slaughtered and \[then\] he became in the next
 
-*[p. 150]* ^pg150
+*[PDF 150]* ^pg150
 
 \[life\] again another sheep and he was slaughtered \[again\]–this is the second *janma*<sup>359</sup>*.* So, . . .
 
@@ -448,7 +448,7 @@ SWAMIJI: . . . orange-red. *Tattat pītādi bhūmijātaḥ*, *kuṁkuṁ* and *n
 
 JOHN: Why is that? Because it is white?
 
-*[p. 151]* ^pg151
+*[PDF 151]* ^pg151
 
 SWAMIJI: No. White is the chief . . .
 
@@ -506,7 +506,7 @@ ERNIE: Energy.
 
 SWAMIJI: Yes, yes, that fades. There is no hope then. There is no hope. If you meditate at the time when you are running in the twenties, or even the thirties, if you meditate for one hour wholeheartedly, you will get some . . .
 
-*[p. 152]* ^pg152
+*[PDF 152]* ^pg152
 
 ERNIE: Progress.
 
@@ -576,7 +576,7 @@ ERNIE: For these energies to support the individual.
 
 SWAMIJI: But topmost duffers do not get \[anything\] in this \[advanced\] age. They have to enter in
 
-*[p. 153]* ^pg153
+*[PDF 153]* ^pg153
 
 the next life and they’ll get. Topmost duffers, you know? (Swamiji demonstrates)
 
@@ -636,7 +636,7 @@ SWAMIJI: Offspring, offshoot. Offshoot it will produce. And it won’t produce o
 
 *Nāpi kṣiṇa*–these are the words of Abhinavagupta–*nāpi apūrṇa*, *nāpi kṣiṇa*, this \[*vīrya*\] must be *pūrṇa*, it must be full. It must not be *kṣiṇa*, exhausted. It must not be *apūrṇa* (not come in fullness). *Śaiśava vārdhakeva–*how?–in *śaiśava*, in youth from 12 to 20 years, from the 12th year to the 20th
 
-*[p. 154]* ^pg154
+*[PDF 154]* ^pg154
 
 year, the *vīrya* of that boy is *apūrṇa.*
 
@@ -698,7 +698,7 @@ ERNIE: We have no control.
 
 DEVOTEE: Not to be a slave to it.
 
-*[p. 155]* ^pg155
+*[PDF 155]* ^pg155
 
 SWAMIJI: Yes. And, by God, I bet . . .
 
@@ -744,7 +744,7 @@ SWAMIJI: Different elements, that mass of those different elements of the organs
 
 . . . the glory of that, the glory of both–the glory of that *rāga-dveṣa* (attachment-detachment), losing temper, etc., and all of those organs, the multitude of organs (this is *śakti cakra*)–and the glory of *śakti cakra* is *tat-tat-upaṇiṣat-siddhaḥ prabhāva viśeṣa*, the strength, the force that it produces. When you perceive some enemy, when you see an enemy, you get upset–at once you get upset. You can’t control your temper. You lose your temper altogether. That happens. It has got such strength. That is *devatāgaṇa* (*devatāgaṇa* means, the organs, the classes of organs). That is *vibhavaḥ*, that is
 
-*[p. 156]* ^pg156
+*[PDF 156]* ^pg156
 
 the glory of this \[*śakti cakra*\]–the force.
 
@@ -782,7 +782,7 @@ SWAMIJI: For those, they are tossed, they are kicked, on the path of *saṁsāra
 
 *ityantam*<sup>378</sup> */ tathā seyaṁ kriyātmikā śaktiḥ śivasya . . . . . . . . . . . . . /*<sup>379</sup>
 
-*[p. 157]* ^pg157
+*[PDF 157]* ^pg157
 
 This energy of action of Śiva kicks down Śiva on the path of ignorance only when Śiva does not understand what is happening to Him. As soon as He understands what is happening to Him\[self\], then He is elevated, then He is no more kicked.
 
@@ -828,7 +828,7 @@ GANJOO: To the right or the left.
 
 SWAMIJI: Not “right”. To divert your attention. When you divert your attention towards that point that, “There is nothing, this is all divine”, you will become divine. When you divert your attention
 
-*[p. 158]* ^pg158
+*[PDF 158]* ^pg158
 
 \[towards the thought that\], “No, this is not divine, I am sinking and sinking day by day”, you sink. Finished.
 
@@ -878,7 +878,7 @@ DENISE: *Sssssssh.*
 
 SWAMIJI: *Ssssssssh*, and \[the water\] will vanish altogether. It won’t remain, it won’t exist at all.
 
-*[p. 159]* ^pg159
+*[PDF 159]* ^pg159
 
 You will find there is no water at all, it is gone. Just as it falls on it, it vanishes.
 
@@ -916,7 +916,7 @@ Just one ray of that will work, one ray of that fragrance.
 
 *ayatanena svabhāvāvaṣṭambhamātrasiddhabindunādādiprakāśamayī kṣobhakatvena utthitā yasya jñānijanasya*,
 
-*[p. 160]* ^pg160
+*[PDF 160]* ^pg160
 
 . . . but those who are elevated (*jñānijana* means, the one who is elevated), for an elevated *sādhaka* it is *svabhāva*, it becomes nature for them to get absorbed in that state of God consciousness by these energies.
 
@@ -956,7 +956,7 @@ SWAMIJI: This is the state that . . .
 
 JOHN: Is this *prāṇāyāma*? This, in meditation, you said that you go first in *turya*<sup>385</sup>, you enter that point, then you have those, that whirling here, and then you feel that you are losing your self . . .
 
-*[p. 161]* ^pg161
+*[PDF 161]* ^pg161
 
 SWAMIJI: No, no, no, that is . . .
 
@@ -1020,7 +1020,7 @@ SWAMIJI: Lord Śiva, that I, we, talked about that ‘Bloody Fellow’.
 
 So, we have explained this *śloka bhāga*, only one portion of the *śloka*, that is, “*yasyonmeṣanimeṣa*”. This is the commentary on “*yasyonmeṣanimeṣa*”, the first *śloka* of the *Spanda* \[*Kārikā*\].
 
-*[p. 162]* ^pg162
+*[PDF 162]* ^pg162
 
 JOHN: The first *śloka*.
 
@@ -1076,7 +1076,7 @@ ERNIE: Renounced.
 
 SWAMIJI: . . . the state of . . .
 
-*[p. 163]* ^pg163
+*[PDF 163]* ^pg163
 
 ERNIE: The world.
 
@@ -1128,7 +1128,7 @@ And we have also explained in the *Spanda* \[*Kārikā*\]:
 
 *na tvevaṁ smaryamāṇatvaṁ tattattvaṁ pratipadyate* //<sup>393</sup>
 
-*[p. 164]* ^pg164
+*[PDF 164]* ^pg164
 
 This reality of *spanda* cannot be perceived in the cycle of memory. It cannot be perceived in the cycle of memory.<sup>394</sup>
 
@@ -1208,7 +1208,7 @@ JOACHIM: But the church, for example, forbade the mystics.
 
 SWAMIJI: Then keep him on the shelf.
 
-*[p. 165]* ^pg165
+*[PDF 165]* ^pg165
 
 DENISE: Keep him on the shelf (laughter).
 
@@ -1258,7 +1258,7 @@ JOACHIM: And not isolated only in *turya* as marked by the Vedānta.
 
 SWAMIJI: Yes. That is what he says here.
 
-*[p. 166]* ^pg166
+*[PDF 166]* ^pg166
 
 *nāpi aprakaṭita akula svarūpa kula prakriyā śāstravat*, *viśvamayameva pūrṇaṁ rūpaṁ* \[*ityevaṁ svabhāvam*\] */*
 
@@ -1304,7 +1304,7 @@ Audio 10 - 34:43
 
 . . . you must attain the perception of *śaṁkara svabhāva*, the nature of Śiva, and you should remain there, you should establish your mind there.
 
-*[p. 167]* ^pg167
+*[PDF 167]* ^pg167
 
 *natu atra manāgapi avajñā* \[*atra*\] *vidheyā /*
 
@@ -1356,7 +1356,7 @@ The Śiva *sūtra* also says this. Not this Śiva *Sūtra* which we have read.<s
 
 ‘*sakṛdvibhāto’yamātmā pūrṇo’sya . . .*’
 
-*[p. 168]* ^pg168
+*[PDF 168]* ^pg168
 
 This nature of your Self is always perceived, is always present, in fullness.
 
@@ -1415,7 +1415,7 @@ SWAMIJI: . . . clear *sūtra*, clear *śloka*, the first *śloka*, and this will
 133\. “The Trika System is comprised of four sub-systems: the Pratyabhijñā system, the Kula system, the Krama system, and the Spanda
 
 
-*[p. 169]* ^pg169
+*[PDF 169]* ^pg169
 
 system. These four systems, which form the one thought of the Trika system, all accept, and are based on, the same scriptures.” Ibid., 134 For attaining these two powers (the powers of creative energy \[*mantra vīrya*\] and the powers of establishment in that creative energy \[*mudrā vīrya*\]), for attainment of these two powers– *gururupāyaḥ*–the master is the means. It can be attained through the master only, no one else. *Shiva Sutras–The Supreme Awakening*, 1.6.
 
@@ -1484,7 +1484,7 @@ Independence; *Pratyabhijñāvāda*, the Doctrine of Spontaneous Recognition; an
 
 169 “That essence of *svātantrya* is *anavacchinna*, beyond limitation, all-round beyond limitation. There is no such limit found in that
 
-*[p. 170]* ^pg170
+*[PDF 170]* ^pg170
 
 state. *Vicchinna camatkāra maya viśrāntyā*, and this limited state of being is also found there. \[Lord Śiva\] is unlimited, but the limited cycle of God consciousness is also found There. So It is both limited and unlimited. That being who is limited only, he is not true. That being who is unlimited only, he is not true. Why? Because he is limited. The being who is unlimited is not true because he is unlimited only \[and\] not limited. That fullness of God consciousness is found \[in one\] who is limited and at the same time unlimited also. That is the fullness of God consciousness, the fullness of God consciousness where nothing is excluded. Whatever is excluded, it is also one with That. That is the fullness of God consciousness.” *Parātrīśik ā Vivaraṇa* (LJA archives).
 
@@ -1550,7 +1550,7 @@ state. *Vicchinna camatkāra maya viśrāntyā*, and this limited state of being
 
 This must be your understanding. The creative energy which is attributed to Lord Śiva is not that energy of Lord Śiva that creates the universe outside of His Consciousness as we create outside of our consciousness. His creation is not insentient (*jaḍa*) as our creations
 
-*[p. 171]* ^pg171
+*[PDF 171]* ^pg171
 
 are. This universe, which is created in His Consciousness, is dependent on that Consciousness. It is always dependent on that Consciousness. It cannot move outside of that Consciousness. It exists only when it is residing in His Consciousness. This is the way the creation of His universe takes place. *Self Realization in Kashmir Shaivism*, *Parāprāveśikā* (Entrance into the Supreme Reality) of Kṣhemarāja, 3.57.
 
@@ -1622,7 +1622,7 @@ are. This universe, which is created in His Consciousness, is dependent on that 
 
 237 The fivefold acts of Lord Śiva are creation (*sṛṣṭi*), protection (*sthiti*), destruction (*saṁhāra*), concealing (*pidhāna* or *tirodhāna*), and revealing (*anugraha*)*.*
 
-*[p. 172]* ^pg172
+*[PDF 172]* ^pg172
 
 238 The six pathways (*adhvans*) of the world are the three objective paths (circles, elements, and worlds) and the three subjective paths (letters, words, and sentences). For a complete explanation of the *adhvans*, see *Kashmir Shaivism–The Secret Supreme*, The Sixfold Path of the Universe, *Ṣaḍadhvan*, 2.11.
 
@@ -1702,7 +1702,7 @@ are. This universe, which is created in His Consciousness, is dependent on that 
 
 276 The first line of the first verse of the *Spanda Kārikā*: “By whose *unmeṣa* and by whose *nimeṣa* (*unmeṣa* is “opening your eyes”
 
-*[p. 173]* ^pg173
+*[PDF 173]* ^pg173
 
 and *nimeṣa* is “closing your eyes”), you find the destruction and creation of this whole universe.”
 
@@ -1766,7 +1766,7 @@ and *nimeṣa* is “closing your eyes”), you find the destruction and creatio
 
 308 As Swamiji explains in the *Spanda Kārikā* (3.13), “God consciousness has produced the biggest cycle of Its energies. That is
 
-*[p. 174]* ^pg174
+*[PDF 174]* ^pg174
 
 *śabdarāśi*. *Śabdarāśi* is the cycle of sounds, the cycle of words, the cycle of sentences. It has got great power.”
 
@@ -1856,7 +1856,7 @@ and *nimeṣa* is “closing your eyes”), you find the destruction and creatio
 
 352 Produced of a *yoginī*, a *yogic* child.
 
-*[p. 175]* ^pg175
+*[PDF 175]* ^pg175
 
 353 *Tantrāloka*, 29.43-44a. Swamiji did not translate this last line: “*Prabodhita tad icchāke tajjaṁ kaulaṁ prakāśate*, because the inherent desire in that couple is enlightenment, the knowledge of Kaula shines in that offspring.” \[*Editors’s note*\] 354 “*Gocarī* is the cycle of energies that reside in the organs of cognition.” *Parātrīśik ā Vivaraṇa* (LJA archive).
 
@@ -1932,7 +1932,7 @@ and *nimeṣa* is “closing your eyes”), you find the destruction and creatio
 
 392 This quote from the *Sarvamaṅgalā śāstra* does not appear in the text of *Spanda*. See: *Śiva Sutras* 3.8, and *Tantrāloka* 5.40.
 
-*[p. 176]* ^pg176
+*[PDF 176]* ^pg176
 
 393 *Spanda Kārikā* 1.13, page 19.
 

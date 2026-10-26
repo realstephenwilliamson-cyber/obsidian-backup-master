@@ -10,7 +10,7 @@ text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
 ---
 
-[[Postmodernism VSI 02 - List of illustrations|← previous]] · [[Postmodernism, A Very Short Introduction (Butler)|contents]] · [[Postmodernism VSI 04 - Chapter 2 New ways of seeingthe world|next →]]
+[[Postmodernism VSI 02 - List of illustrations|← previous]] · [[Postmodernism, A Very Short Introduction (Butler)|contents]] · [[Postmodernism VSI 04 - Chapter 2 New ways of seeing the world|next →]]
 
 *[p. 1]* ^pg12
 

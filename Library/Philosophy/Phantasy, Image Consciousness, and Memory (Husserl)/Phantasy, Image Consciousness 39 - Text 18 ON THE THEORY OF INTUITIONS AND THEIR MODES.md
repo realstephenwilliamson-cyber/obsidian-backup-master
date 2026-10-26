@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Phantasy, Image Consciousness 38 - APPENDICES|← previous]] · [[Phantasy, Image Consciousness, and Memory (Husserl)|contents]] · [[Phantasy, Image Consciousness 40 - APPENDICES|next →]]
+[[Phantasy, Image Consciousness 38 - Text 17, Appendices LII-LV|← previous]] · [[Phantasy, Image Consciousness, and Memory (Husserl)|contents]] · [[Phantasy, Image Consciousness 40 - Text 18, Appendices LVI-LX|next →]]
 
 *[p. 599]* ^pg627
 

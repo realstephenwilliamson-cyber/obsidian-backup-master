@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF; 1 
 
 ## Contents
 
-- [[Sri Vamakesvari Matam 01 - sri vamakesvari matam|“śrī vāmakeśvarī matam”]] (pp. 1–4)
+- [[Sri Vamakesvari Matam 01 - Front matter|Front matter]] (pp. 1–4)
 - [[Sri Vamakesvari Matam 02 - Preface|Preface]] (pp. 5–52)
-- [[Sri Vamakesvari Matam 03 - sri vamakesvari matam|“śrī vāmakeśvarī matam””]] (pp. 53–78)
+- [[Sri Vamakesvari Matam 03 - Jayaratha's Vivarana Commentary, First Patala|Jayaratha’s Vivarana Commentary: First Patala]] (pp. 53–78)
 - [[Sri Vamakesvari Matam 04 - Second Patala|Second Patala]] (pp. 79–120)

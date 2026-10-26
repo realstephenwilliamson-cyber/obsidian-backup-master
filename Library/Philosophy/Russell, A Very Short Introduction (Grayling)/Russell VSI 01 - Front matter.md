@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Grayling - Russell, A Very Short Introduction]]"
 book: "[[Library/Philosophy/Russell, A Very Short Introduction (Grayling)/Russell, A Very Short Introduction (Grayling)|Russell, A Very Short Introduction (Grayling)]]"
 order: 1
 source_pdf: "Library/Philosophy/Grayling - Russell, A Very Short Introduction (2002).pdf"
-page_range: "1–5"
+page_range: ""
 pdf_pages: "1–5"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
@@ -12,13 +12,13 @@ converted: 2026-10-15
 
 [[Russell, A Very Short Introduction (Grayling)|contents]] · [[Russell VSI 02 - RUSSELL|next →]]
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 Russell: A Very Short Introduction
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 Very Short Introductions are for anyone wanting a stimulating and accessible way in to a new subject. They are written by experts, and have been published in more than 25 languages worldwide.
 
@@ -178,7 +178,7 @@ Stillman Drake Gandhi
 
 Bhikhu Parekh Very Short Introductions available now:
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
 GLOBALIZATION 
 
@@ -378,7 +378,7 @@ WORLD MUSIC
 
 Philip Bohlman
 
-*[p. 5]* ^pg5
+*[PDF 5]* ^pg5
 
 Available soon:
 

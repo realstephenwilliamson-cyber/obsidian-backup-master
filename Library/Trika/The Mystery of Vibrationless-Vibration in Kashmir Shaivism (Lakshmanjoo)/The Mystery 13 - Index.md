@@ -12,13 +12,13 @@ converted: 2026-10-07
 
 [[The Mystery 12 - Bibliography|← previous]] · [[The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|contents]] · [[The Mystery 14 - Published works|next →]]
 
-*[p. 203]* ^pg203
+*[PDF 203]* ^pg203
 
 ## Index
 
 ābhāsa 110–111, 116, 158, 160, 164, 173 abhāsavāda 112 abhāva 20–21, 168, 170, 249 abheda 102, 118, 156, 211 abhedāṁśa 167 abhimāna 217 abhiyoga 21 ability 281 absence 282 absent 279 absolute 10, 158, 255, 278, 287 achieve 34, 42, 49, 53, 86, 112–113, 200, 214–215, 226, 243, 273, 279 action 15, 25, 30–35, 37, 46, 160, 205–206, 216, 224, 239, 272–273, 277, 279, 281–282, 294–295 activity 30–31, 33, 49, 58, 74, 119, 122, 161–162, 167–168, 216, 222, 224, 279, 291 adhara 203 adhvans 156 advaita 153 agādha 85 āgama 184, 268 aghora 219, 231 agitated 13, 263 agni 182 ahaṁ 5, 45, 128–131, 133, 192–193, 277, 297 ahaṁkāra 216–217 aiśvarya 174, 293 akrama 135 akula 247, 253 alertness 90, 178 amṛta 51 anākhyā 101 anāmayā 278 ānanda 89, 92, 179–180, 213, 215, 261, 272, 283, 286–288 āṇavamala 56, 281–282 āṇavopāya 70, 289 aṇḍa 181 anger 36, 38–43, 122, 124 antaḥkaraṇa 9 antaḥstha 296 antar 25, 90, 191 anubhava 185 anugraha 95, 159, 161, 167– 168, 173–174, 197, 289 anuttara 174, 244, 247 apāna 287–288
 
-*[p. 204]* ^pg204
+*[PDF 204]* ^pg204
 
 apānana 287–288 aparā 66, 219–221, 278 appear 273 aprabuddha 27 aprakāśa 160, 257 apūrṇa 233 argue 271 āsana 275 aspirant 277, 283–284 aśuddhi 13 ātma 119, 126 attachment 5–6, 52, 62–63, 186, 216, 222, 235–236, 291, 295 automatic 289 avidyā 281 avikalpa 96–97 aware 276–278, 289 awareness 13, 34, 41–42, 45, 55–56, 58–59, 62, 70, 174, 190, 194–195, 199–200, 202, 256, 276– 278, 287–289
 
@@ -28,13 +28,13 @@ bheda 117–118, 155–156, 200, 210–211 bhokta 52 bhūcarī 204–206, 209, 2
 
 brahma 285 brahmānanda 284, 286, 288 –289 brahmāṇḍa 41
 
-*[p. 205]* ^pg205
+*[PDF 205]* ^pg205
 
 brahmarandhra 285 break 279 breath 18–19, 34–36, 41, 62, 283–285, 287–288 breathe 18, 53–54, 56, 62, 208, 283, 285 breathing 18–19, 35, 40, 54, 62, 283–285, 287–288 breathless 19 breaths 41, 56, 62, 72 bubhukṣitaḥ 62 buddhi 81, 216–217 caitanya 94–95, 293 cakra 2, 41, 92–94, 177–178, 188–193, 195–200, 202, 204, 208–209, 227, 229, 235–236, 242–243, 246, 265, 285
 
 cakreśvaraḥ 83 camatkāra 273 candra 261 catch 281 cause 2, 13, 69, 118, 294 center 27, 32, 34, 39, 72, 130, 157, 284, 289 central 41, 130, 164, 284 cetanā 14 ceti 14 channel 285 chapter 271, 274 choice 282 choking 283 church 251 cidānanda 213, 285–286, 288 –289 cidānandaghanaḥ 179 cidātma 131 cidghanam 257 cidrūpa 130, 297 cinema 13, 17 cinmayaḥ 28 circle 205, 223 cit 118, 174, 213, 219, 272, 285, 293 citi 261 cittasya 149–150, 195 climax 223 cognition 46 cognitive 28–29, 206, 280, 288 comatose 276 commentary 87, 149, 151, 280 commit 210, 227 complete 63, 89, 280, 285, 292–293 completely 39, 147, 159, 213, 277, 279–280, 288
 
-*[p. 206]* ^pg206
+*[PDF 206]* ^pg206
 
 composed 77, 267 con 15, 20, 136, 179, 245, 289, 293 conceal 33, 103–104, 115, 161, 297–298 concealing 33, 106, 166, 289, 297–298 concentrate 75, 283 concentration 279, 289 conclusion 282 condition 278 connected 280 conscious 12, 22, 27, 33, 71–72, 74, 101, 111–112, 115, 130, 133, 146, 148, 155, 172–173, 179, 184, 195, 199, 230–231, 237, 240, 242, 248–249, 271–272, 277–278, 281, 289, 292–295, 297
 
@@ -50,7 +50,7 @@ destruction 76, 87, 93–94, 102–103, 106–107, 117, 130, 134, 138, 140–141
 
 detachment 216, 235–236 deva 175 devī 137 devotion 10–11, 43, 189, 283 –285 dhāraṇā 275, 296 dharma 14–15
 
-*[p. 207]* ^pg207
+*[PDF 207]* ^pg207
 
 dhātu 236 dhyāna 275 die 283 difference 29, 38, 60, 98, 111, 139, 143, 206, 252, 274, 277, 279–280, 289, 293 differentiated 94, 117–118, 123, 134, 155–156, 167, 172–173, 238, 280, 287, 289 dikcarī 204–206, 209, 211–212, 217–220, 223, 227 dīkṣa 197 diptiḥ 195, 244 diśā 247 disciple 134, 276, 290 dissolved 288 divine 4, 13, 17–18, 29, 68–69, 72–75, 84, 190, 192, 196, 217–218, 224–225, 227–228, 231, 240, 244–245, 262, 285, 294, 297
 
@@ -60,13 +60,13 @@ energy 19, 28–29, 80, 107–110, 115–117, 124, 131, 138–139, 184–185, 20
 
 enjoy 82, 213, 273, 275 enters 283, 287 entry 288 erotic 39 essence 7, 109, 116, 176, 178, 239, 255, 260, 262–263, 271, 273, 293 establish 255, 287 established 288 establishment 278, 285
 
-*[p. 208]* ^pg208
+*[PDF 208]* ^pg208
 
 eternal 105–107 eternity 281 ether 212, 223, 292 eunuchs 230 everything 280, 283–285, 288–288 existence 3, 72, 138–139, 180, 185, 194, 211, 249, 252, 256, 271, 275, 278–279, 282, 295 experience 23, 42, 89, 98, 100–101, 123, 128, 185, 245, 274, 276, 279, 282–286, 294 external 273 extreme 36, 40, 241 eye 18, 291 eyes 285, 287 face 284 fear 37–39, 74, 80, 82, 122, 124, 288 feel 281 female 206 field 276 fire 283, 292 fivefold 155, 159, 161–162, 164, 166, 168, 171, 174, 178, 298 flower 285 focus 11, 13, 74, 82 force 9, 13–14, 25, 38, 41, 54, 60, 116, 236–237, 239, 261, 271, 285–285 forgetfulness 206 form 10, 12, 17, 25, 68, 80–81, 120–123, 141–144, 146, 148–149, 151–154, 163, 191, 244, 279, 282, 285, 291, 297
 
 formation 274, 285 formless 282 forms 10, 68–69, 283, 286–287 free 138, 272, 282, 29 freedom 137, 272–273 friend 281 fullness 130, 138, 151, 158, 171–172, 228, 233, 257, 273, 278–279, 281 fully 288 fun 273 function 11–12, 14, 19, 25, 36, 46, 50, 276, 278, 282 furious 283 gandha 11, 17, 30, 81, 188, 193, 201, 218, 221 gap 27, 35, 52, 68, 123–124, 129–130, 246, 282–283, 290, 292 garbha 224 germ 279 ghee 70 ghora 219, 222, 231 ghoratarī 220–221, 231 giddiness 283 girl 63, 222, 224
 
-*[p. 209]* ^pg209
+*[PDF 209]* ^pg209
 
 giver 271 glory 2, 57, 88, 174, 178, 186, 188, 190, 195, 197, 201–202, 207–208, 236, 242–243, 273–274, 282,
 
@@ -76,7 +76,7 @@ govern 59 grace 9, 12, 27, 42–43, 94–95, 159, 197–198, 213, 216, 220, 226,
 
 guṇa 292 guṇādi 32, 237 guṇādispanda 30 guru 90, 92, 135 hand 117, 146, 214, 250, 279, 284, 291 happiness 221, 287 head 37, 108 hear 8, 46, 245, 284, 287 heart 87, 116, 175, 226, 239, 247, 271, 293 heavy 276 hell 24, 158–159 herbs 149 hero 24, 89–90, 175 hetu 105 hideous 283, 286 house 24, 131–133, 185, 200, 206, 216, 281, 283, 294 hṛdaya 178, 293 hṛdayaṁ 271, 293 hṛdi 52–53, 87, 208 human 6, 128, 208, 225–226, 229, 241–242, 293 icchā 28, 32, 272, 275, 296 idaṁ 2–3, 128–130, 161, 241, 277 ignorance 25, 124, 175, 239, 255, 263, 281–282 ignore 283 illumined 278 illusion 32, 96, 119, 124, 272, 282, 290–291 imagination 72–73, 279 immanent 144 impression 159, 167, 173, 281 impressions 287 impure 13, 44, 47, 156, 217, 282
 
-*[p. 210]* ^pg210
+*[PDF 210]* ^pg210
 
 impurity 13, 150, 274, 281–282 incomplete 273, 281 independence 10, 271, 273, 293 individual 11–12, 14, 18, 26, 47, 49, 64–65, 80, 82, 85, 147, 161–164, 168, 215, 231, 274, 276–277, 279, 281, 295–296
 
@@ -84,7 +84,7 @@ individuality 283–284 indriya 189, 193 inferior 278 ingress 286 initiate 197 i
 
 internally 283 intoxicating 283 introverted 14–15, 25, 90, 189–190, 254 īśvara 128–131, 133, 277 īśvarī 211 jaḍa 298 jagadānanda 285–286, 288–289 jagat 49, 74, 106, 141, 144 jāgrat 2, 4–5, 27, 29, 34 jala 182 janma 226 jīva 187, 277 jīvan 50, 203, 226 jñāna 28–28, 31–32 jñānendriyas 291 jñāni 243 jñātā 80, 202, 204 journey 17, 169, 196 joy 36, 39–41, 273, 28 , 285, 287–288, 298 kalā 215–216, 295–296 kāla 163, 215, 295–296 kālāgnirūdra 182 kañcuka 295 kāraṇa 2, 106 karaṇeśvarī 189–192
 
-*[p. 211]* ^pg211
+*[PDF 211]* ^pg211
 
 karma 31–32, 221–222, 281–282 kārmamala 56, 281–282 kartṛtā 160–161 Kashmir 37, 147, 271, 274–275, 277, 279, 282–283, 286, 289–290, 292–293, 296–298 kaumārī 199 khecarī 192, 204, 209, 211–214, 219–220, 223–224 kingdom 278 know 280 knower 98–99 knowing 285 knowledge 15, 25, 28–30, 32, 86, 99, 168, 206–207, 259–260, 262–263, 268, 272, 274–275, 277, 279, 281–282, 288, 291
 
@@ -92,7 +92,7 @@ known 30, 49, 98–99, 101–102, 111–112, 122, 185, 278, 281, 283–285, 296 
 
 light 67–68, 92, 95, 109, 116, 185, 190, 195–196, 228, 244, 288, 292–293, 297 limited 283 logic 105 lolībhūtā 158 love 63, 283 madhyanāḍī 284 mahābhūtas 292 mahāmudrā 89 mahānanda 284, 286, 288–289 mahāvīrya 233 mahāvyāpti 288 maheśvara 92, 184, 277 Maheśvara 277 māheśvarī 199 mala 56, 282 malā 274, 282 mālinī 116, 271 man 42, 59, 63, 106, 115, 274, 277, 281, 294 manas 217, 256
 
-*[p. 212]* ^pg212
+*[PDF 212]* ^pg212
 
 manifest 80, 291–292 manifestation 278 mantra 44–45, 47, 192–195, 277, 283–285 mantreśvara 277 master 2, 6, 21–22, 27, 43, 57, 85, 90–92, 135, 158, 197–198, 262–263, 275–276, 278, 282–283, 288
 
@@ -104,7 +104,7 @@ mine 281, 294 mirror 3, 296–297 mithuna 223 moha 175 moment 14, 18, 21, 37, 40
 
 moments 284 monistic 105, 153, 211, 213, 219, 239, 247 mood 283 moon 262–263, 292 mountains 287 move 283, 285 movement 4, 7, 11, 30–31, 66, 106, 116, 118, 203, 237, 265, 271, 293 moves 280 mūḍha 7 mudrā 91, 192–193, 285–286 mukta 203, 226 mūlādhāra 284–285 mūrcchā 276 nābhiḥ 87 nāda 68, 244–246 name 278–279, 293 nātha 283, 288 nature 289 nectar 288 negation 248–249, 252, 276, 288
 
-*[p. 213]* ^pg213
+*[PDF 213]* ^pg213
 
 neti 248 nijānanda 283, 286 nimeṣa 2, 93, 103–112, 114–120, 122, 128–130, 134, 140–144, 146–148, 152–159, 179–180, 183, 187, 189
 
@@ -112,7 +112,7 @@ nimīlanā 286 nirañjanāḥ 44, 46, 194 nirodha 4 nirvāṇa 51 nirvikalpa 97,
 
 objective 7, 10, 16, 28–29, 48, 73, 99, 101, 136, 186, 190–191, 193, 205, 213, 276, 280, 285–288 observe 284 observer 276–277 oṁ 79, 194–195 once 283–286 oneness 110, 115, 125–126, 130, 143, 173 onwards 284 open 285 order 273 organ 9, 12–13, 30, 291 organic 12–14, 287 outside 277, 279, 283, 285, 288, 293 pāda 20, 30 pain 6–7, 13, 281–282 palate 284, 287 pāṇi 30 parā 116, 121–122, 158, 219, 221–222, 227, 278, 281, paramānanda 175 parāmarśa 116, 133 paramārtha 110–111, 160, 236 parameśvara 120, 180, 183 parameśvarī 293 parānanda 283, 286–287, 289 parāparā 219, 221–222, 278 Parātrīśikā 272–273, 282, 293–294 parimita 96 pāśa 261 paśu 76, 80, 175, 226
 
-*[p. 214]* ^pg214
+*[PDF 214]* ^pg214
 
 path 41–42, 76, 80, 196, 209 –210, 238–240, 261, 263, 269, 276 pathway 17, 76, 196, 204, 240 pāyu 30 peacefully 288 penetrate 278 penetrates 285 perceiver 101, 169–173, 276, 286 perception 6–7, 12, 16, 21, 25, 122–123, 128, 145, 167–169, 171, 184, 187, 235, 255, 276, 280, 282, 296
 
@@ -120,7 +120,7 @@ perceptions 287 pervading 284 pervasion 64–65, 135, 288 philosophy 271, 292 ph
 
 prabuddha 26–28, 42, 223 practical 283 practice 27, 57, 73–74, 279, 283–284 prādhānya 141, 143–144 prakāśa 92, 94–95, 116, 124, 130, 135, 160, 163, 184–185, 219, 242, 244, 292–293, 297 prakāśaḥ 292–293 prakṛti 59–60, 181, 292 pralaya 144, 148 pralayākala 276 pramāṇa 280 pramātṛ 96, 161, 215, 276–277, 280, 286–287 prameya 29, 276, 280 pramiti 98–99, 213, 280–281 prāṇa 19, 175, 215, 288 prāṇana 287–288 prāṇāyāma 245 prasara 157, 272 prathama 169 pratyāhāra 275 prayatna 24, 243 predominance 278 present 285 process 286, 288 produced 288
 
-*[p. 215]* ^pg215
+*[PDF 215]* ^pg215
 
 protection 289 protector 292 pṛthvī 117, 144, 181–182 pṛthvyaṇḍa 181 pūjās 231 pure 44–45, 47, 116, 133, 135, 150, 156, 173, 192, 214, 217, 226, 228, 257, 272, 274, 280, 292– 293, 295
 
@@ -128,7 +128,7 @@ purity 282 pūrṇa 89, 233 pūrṇāhanta 126 pūrṇānanda 89 puruṣa 12, 18
 
 realization 17–18, 49, 273 rebirths 17 reciting 45, 283 recognition 53, 267 rectum 284 reflection 3, 249, 296–297 religion 250–251 remember 42, 147, 261 reside 274, 281, 289 resides 280, 287 residing 280 respect 286 rest 289 revealing 106, 161, 174, 289, 298 right 284, 287 rise 287 rises 285 rising 285, 287–288 root 145, 219, 282 round 31, 63, 159–160, 174, 262, 273, 284 rūpa 8, 11, 17, 30, 68, 76, 81, 188, 193, 201, 218, 221, 245 rūpātītā 278 śabda 8, 11, 17, 76, 81, 188, 193, 201, 218, 220
 
-*[p. 216]* ^pg216
+*[PDF 216]* ^pg216
 
 Sadāśiva 277 sadāśiva 87, 117, 128–131, 133, 144, 277 sādhaka 10, 50, 58, 136, 195 –196, 198, 200, 243 sādhana 192, 226 sādhus 162 sakala 276, 286 sakalā 276 śakti 2, 19, 28–28, 32, 75, 80, 88–89, 92–94, 107, 109, 116, 122–123, 131, 139, 151–152, 188, 190, 192–193, 195–198, 200, 202, 204, 207–209, 212, 217, 219, 221, 229, 235–236, 242–243, 265, 272, 274–275, 278, 280, 293, 296
 
@@ -136,7 +136,7 @@ Sadāśiva 277 sadāśiva 87, 117, 128–131, 133, 144, 277 sādhaka 10, 50, 58,
 
 samāna 288 sāmānya 30–31, 35–39, 45–46, 48, 64, 66–67, 237–238 samāveśa 180 śāmbhavopāya 289 Saṁdoha 271 saṁhāra 87, 117, 159, 161, 170 saṁkalpa 40 śaṁkara 94, 109, 111, 255 saṁsāra 33, 82, 136, 211, 238, 240 saṁskāra 173 saṁvedana 47 saṁvit 134 saṁyojana 186 Sandoha 87, 146, 264–266, 271 saṅkalpa 217 śāntarūpā 44, 46 saṅtoṣa 243 sāra 293 sāram 116, 271 śarīra 2 sarva 10, 25, 101, 122, 186 sarvabhāva 47, 187 sarvajña 45–46 sarvakartṛtva 214 śāstra 30, 109, 132, 155, 175 –176, 184, 186, 188, 190, 196, 208, 224, 239, 247, 255, 259, 266, 271 satatoditam 279 sauḥ 192 second 276 secret 73, 135, 229–230, 271, 274, 277, 279, 282, 289
 
-*[p. 217]* ^pg217
+*[PDF 217]* ^pg217
 
 seed 279 self 1, 8, 12, 14, 71, 73, 183, 185, 239, 245, 274–275, 277–278, 293 semen 232–233 sensation 8, 46, 280, 283 sense 22, 30, 57, 260, 275, 282, 294 sex 8–9, 13, 17, 223, 225, 229 –235, 238 sexual 30, 122, 287–288 Shaivaite 278, 292 Shaivism 21, 23, 33, 106–110, 112, 115, 151, 153, 250–251, 266–268, 271, 274–275, 277, 279, 282–283, 286, 289–290, 292–293, 296–298
 
@@ -144,7 +144,7 @@ Shaivite 21–22, 63, 278, 292 Shiva 271, 275, 296 siddha 28, 185 siddhi 192, 20
 
 sparśa 8, 11, 17, 30, 76, 81, 188, 193, 201, 218, 221 specks 294 speech 30, 150, 216, 291 sphurati 255, 261 sphurattā 116, 271, 293 spiritual 80, 168, 170–173, 261, 263, 276 squeeze 83, 287, 290 sṛṣṭi 87, 161, 190, 233, 289 sthana 272 sthāna 284 sthiti 9, 136, 157–158, 161, 164, 172–173, 188 sthūla 2, 281 straightforwardness 209 strength 41–42, 45–46, 55, 62, 64, 69–70, 78–79, 116, 230, 232–234, 236, 271, 274, 279, 289, 293 stumaḥ 2, 92–95, 101–102, 246
 
-*[p. 218]* ^pg218
+*[PDF 218]* ^pg218
 
 subjective 7, 16, 39, 48, 99–101, 136, 205, 276, 278–280, 286–287 subtle 283, 287 succession 115, 135, 190, 278 śuddhavidyā 277 sūkṣma 2, 121, 281 Sun 292 śūnya 20–21, 199, 215 śūnyatā 287 support 289 suprabuddha 26–29 supreme 13–14, 36, 41, 45, 47, 51, 74, 76, 85, 88–90, 92, 94–95, 101–102, 107, 112, 116, 122, 124– 126, 130, 136, 138–140, 158, 174–175, 190, 192, 196, 211, 213, 219–220, 223, 232, 244, 247, 261, 271, 274, 277–280, 282, 287–289, 292–293
 
@@ -152,7 +152,7 @@ suṣumnā 41 suṣupti 4–5, 22, 27, 29, 41 Sūtra 271 svabhāva 16, 111, 120,
 
 thoughts 283 throat 284 tide 271 time 283, 286 tirodhāna 123, 160–161, 166, 173, 289 tolerate 103–104, 112, 286 top 285 torture 6, 75, 95, 201, 208, 240, 282
 
-*[p. 219]* ^pg219
+*[PDF 219]* ^pg219
 
 touch 8, 11–12, 17, 33, 46, 81, 142, 188, 217, 220, 223–224, 227, 229, 260, 278, 280, 291 transcendent 277, 289 transcendental 285 tree 274 trick 184, 189, 240 Trika 116, 239, 247, 259, 268 –269, 271, 278 truth 34, 50, 209, 259–260, 277, 292 turya 26–27, 34, 68, 96–97, 177, 215, 246, 253, 271, 275, 278–279, 283–287, 289 turyātīta 278–279 turyātītā 278–279 tuṭi 127 tuṭipāta 127 udāna 288 udānana 287–288 udaya 144, 178 udyoga 116, 271 unaware 42, 278 unawareness 276 unconscious 41–42 understand 280 understanding 280, 292 undifferentiated 118, 120, 140, 155–156, 237, 278, 280, 294 unification 277 universal 19, 31, 45, 47, 49, 59, 64, 138, 144–145, 147, 153–154, 161–163, 205, 209, 211, 213, 253, 274–275, 277–279, 282, 284–285, 288, 293, 295, 297
 
@@ -160,10 +160,10 @@ universality 284 universe 285, 287–288 unknown 281 unlimited 82, 207, 273, 279
 
 unmīlanā 286 upastha 30 upāya 289 ūrmiḥ 271 USF 271–272, 293–294 vācā 149–150 vacuum 205–206, 209 vācya 226 vaiṣṇavī 199 vāk 30, 216, 293 vaktra 90 vāmā 210–212 vaman 213 vāmeśvarī 212
 
-*[p. 220]* ^pg220
+*[PDF 220]* ^pg220
 
 varga 2–3, 75, 189 vartmani 238 vedana 187 vedha 100 vega 285 veil 124–125 vein 41, 284 verse 274 vibhava 2, 75, 92–94, 188, 196, 198, 207, 235, 246 vibhūtispande 208 vibrating 116–117 vicitra 190 vidha 154, 161, 174, 192, 220 vidyā 215, 295–296 vighna 77 vigor 77, 271 vigraha 175 vikalapa 294 vikalpa 66, 96–97, 235, 294 vilaya 165–168, 173 vimarśa 92, 122, 140, 244, 292–293 vimūḍha 189 vinā 79 vīra 89, 175, 182 vīrabhairava 175 vīrya 232–233 visarga 293 visargaḥ 293 viṣaya 188 viśeṣa 30–31, 35, 236–237 vision 274 viśva 253 viśvamaya 253 viśvottīrṇa 253 Vivaraṇa 272, 293–294 vivekaḥ 148 void 20–21, 212–213, 276 voidness 21, 205, 276, 287 vomited 210–211 vṛtti 287–288 vyāna 288 vyānana 287–288 vyutthāna 180 wakefulness 4–5, 26–29, 34, 52–56, 58–60, 96, 101, 123, 125, 162, 176–177, 208, 215, 253, 271,
 
-*[p. 221]* ^pg221
+*[PDF 221]* ^pg221
 
 waking 28, 181–182, 253, 286 watch 34, 51, 66, 202–203 watchful 200–204 way 277, 289 wheel 2, 94, 136, 174, 177–178, 185, 188, 199, 204, 209, 235, 242 white 145, 227–228 wife 281 wonder 16, 41, 169 wonderstruck 16–17, 136 word 17, 85, 90, 94, 107, 141 –142, 151–153, 213, 235, 259 –260, 268, 271, 276–277, 293 world 285–288 worldly 48, 80, 121, 168, 203, 216, 221–223, 240, 276, 278–279 yama 275 yoga 31–32, 149–150, 192, 243, 275–276, 279, 287 yogi 284, 288 yogī 284, 288 yoginī 207, 223–224 yukti 184

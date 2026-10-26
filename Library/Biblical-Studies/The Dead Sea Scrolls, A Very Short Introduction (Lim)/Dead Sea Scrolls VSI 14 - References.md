@@ -10,7 +10,7 @@ text_source: "fresh OCR with Tesseract 5 (eng) of the page images (the PDF had n
 converted: 2026-10-15
 ---
 
-[[Dead Sea Scrolls VSI 13 - Chapter 11 The greatest manuscriptdiscovery|← previous]] · [[The Dead Sea Scrolls, A Very Short Introduction (Lim)|contents]] · [[Dead Sea Scrolls VSI 15 - Further reading|next →]]
+[[Dead Sea Scrolls VSI 13 - Chapter 11 The greatest manuscript discovery|← previous]] · [[The Dead Sea Scrolls, A Very Short Introduction (Lim)|contents]] · [[Dead Sea Scrolls VSI 15 - Further reading|next →]]
 
 The text is a fresh OCR of the page images (Tesseract, English); check quotations against the PDF.
 

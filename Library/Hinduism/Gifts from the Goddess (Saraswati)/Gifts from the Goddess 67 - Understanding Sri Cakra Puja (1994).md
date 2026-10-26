@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Gifts from the Goddess 66 - Section|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 68 - Section|next →]]
+[[Gifts from the Goddess 62 - Intelligent Triangles|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 68 - Prologue|next →]]
 
 *[p. 207]* ^pg236
 

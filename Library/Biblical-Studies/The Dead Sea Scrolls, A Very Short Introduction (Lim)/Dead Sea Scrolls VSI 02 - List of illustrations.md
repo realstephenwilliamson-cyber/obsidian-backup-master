@@ -4,17 +4,17 @@ work: "[[Catalog/Biblical-Studies/Lim - The Dead Sea Scrolls, A Very Short Intro
 book: "[[Library/Biblical-Studies/The Dead Sea Scrolls, A Very Short Introduction (Lim)/The Dead Sea Scrolls, A Very Short Introduction (Lim)|The Dead Sea Scrolls, A Very Short Introduction (Lim)]]"
 order: 2
 source_pdf: "Library/Biblical-Studies/Lim - The Dead Sea Scrolls, A Very Short Introduction (2005).pdf"
-page_range: "10–11"
+page_range: ""
 pdf_pages: "10–11"
 text_source: "fresh OCR with Tesseract 5 (eng) of the page images (the PDF had no text layer)"
 converted: 2026-10-15
 ---
 
-[[Dead Sea Scrolls VSI 01 - Front matter|← previous]] · [[The Dead Sea Scrolls, A Very Short Introduction (Lim)|contents]] · [[Dead Sea Scrolls VSI 03 - Chapter 1 The Dead Sea Scrolls ascultural icon|next →]]
+[[Dead Sea Scrolls VSI 01 - Front matter|← previous]] · [[The Dead Sea Scrolls, A Very Short Introduction (Lim)|contents]] · [[Dead Sea Scrolls VSI 03 - Chapter 1 The Dead Sea Scrolls as cultural icon|next →]]
 
 The text is a fresh OCR of the page images (Tesseract, English); check quotations against the PDF.
 
-*[p. 10]* ^pg10
+*[PDF 10]* ^pg10
 
 Headline from the Times, 6 June 1996 2 NI Syndication
 
@@ -76,7 +76,7 @@ battle <sup>53</sup>
 
 The Metropolitan Museum of Art, gift of J. Pierpont Morgan,
 
-*[p. 11]* ^pg11
+*[PDF 11]* ^pg11
 
 13 Reconstruction of the 15 Fragment with Greek
 

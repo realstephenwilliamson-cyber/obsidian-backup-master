@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Butler - Postmodernism, A Very Short Introduction]]"
 book: "[[Library/Philosophy/Postmodernism, A Very Short Introduction (Butler)/Postmodernism, A Very Short Introduction (Butler)|Postmodernism, A Very Short Introduction (Butler)]]"
 order: 1
 source_pdf: "Library/Philosophy/Butler - Postmodernism, A Very Short Introduction (2002).pdf"
-page_range: "1–8"
+page_range: ""
 pdf_pages: "1–8"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
@@ -12,9 +12,9 @@ converted: 2026-10-15
 
 [[Postmodernism, A Very Short Introduction (Butler)|contents]] · [[Postmodernism VSI 02 - List of illustrations|next →]]
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 Postmodernism: A Very Short Introduction
 
@@ -26,7 +26,7 @@ Patricia Waugh, University of Durham
 
 Hans Bertens, Utrecht University
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 Very Short Introductions are for anyone wanting a stimulating and accessible way in to a new subject. They are written by experts, and have been published in 25 languages worldwide.
 
@@ -182,7 +182,7 @@ Quentin Skinner MARX
 
 Peter Singer The series began in 1995, and now represents a wide variety of topics in history, philosophy, religion, science, and the humanities. Over the next few years it will grow to a library of around 200 volumes – a Very Short Introduction to everything from ancient Egypt and Indian philosophy to
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
 MATHEMATICS 
 
@@ -392,7 +392,7 @@ ECONOMICS
 
 Partha Dasgupta
 
-*[p. 5]* ^pg5
+*[PDF 5]* ^pg5
 
 EGYPTIAN MYTHOLOGY
 
@@ -540,7 +540,7 @@ Martin Conway
 
 For more information visit our web site www.oup.co.uk/vsi
 
-*[p. 6]* ^pg6
+*[PDF 6]* ^pg6
 
 Christopher Butler
 
@@ -550,7 +550,7 @@ MODERNISM
 
 A Very Short Introduction
 
-*[p. 7]* ^pg7
+*[PDF 7]* ^pg7
 
 Great Clarendon Street, Oxford ox 2 6 dp
 
@@ -594,7 +594,7 @@ ISBN 0–19–280239–9 1 3 5 7 9 10 8 6 4 2
 
 Typeset by RefineCatch Ltd, Bungay, Suffolk Printed in Spain by Book Print S. L., Barcelona
 
-*[p. 8]* ^pg8
+*[PDF 8]* ^pg8
 
 Contents
 

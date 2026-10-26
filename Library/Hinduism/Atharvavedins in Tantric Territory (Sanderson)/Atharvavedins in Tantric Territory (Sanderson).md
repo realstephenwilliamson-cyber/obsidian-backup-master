@@ -20,4 +20,4 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[Atharvavedins in Tantric 01 - AVs in Tantric Territory, part 1|AVs in Tantric Territory, part 1]] (pp. 196–233)
 - [[Atharvavedins in Tantric 02 - AVs in Tantric Territory, part 2|AVs in Tantric Territory, part 2]] (pp. 234–272)
 - [[Atharvavedins in Tantric 03 - AVs in Tantric Territory, part 3|AVs in Tantric Territory, part 3]] (pp. 273–311)
-- [[Atharvavedins in Tantric 04 - AV-Halle_Final_Index|AV-Halle\_Final\_Index]] (pp. 388–396)
+- [[Atharvavedins in Tantric 04 - Index|Index]] (pp. 388–396)

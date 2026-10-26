@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[What Makes Life Worth Living 04 - Part IV|← previous]] · [[What Makes Life Worth Living (Stiegler)|contents]]
+[[What Makes Life Worth Living 04 - Part IV, Chapters 6-7 and Notes and References, The Time of the Question - Disposable Children|← previous]] · [[What Makes Life Worth Living (Stiegler)|contents]]
 
 *[p. 152]* ^pg160
 

@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Phantasy, Image Consciousness 21 - Text 6 MEMORY AND PHANTASY. MODIFICATION OF BELIEF|← previous]] · [[Phantasy, Image Consciousness, and Memory (Husserl)|contents]] · [[Phantasy, Image Consciousness 23 - APPENDICES|next →]]
+[[Phantasy, Image Consciousness 21 - Text 6 MEMORY AND PHANTASY. MODIFICATION OF BELIEF|← previous]] · [[Phantasy, Image Consciousness, and Memory (Husserl)|contents]] · [[Phantasy, Image Consciousness 23 - Text 7, Appendices XXIX-XXX|next →]]
 
 *[p. 305]* ^pg351
 

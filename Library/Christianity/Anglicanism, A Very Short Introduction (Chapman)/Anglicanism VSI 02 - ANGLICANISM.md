@@ -4,7 +4,7 @@ work: "[[Catalog/Christianity/Chapman - Anglicanism, A Very Short Introduction]]
 book: "[[Library/Christianity/Anglicanism, A Very Short Introduction (Chapman)/Anglicanism, A Very Short Introduction (Chapman)|Anglicanism, A Very Short Introduction (Chapman)]]"
 order: 2
 source_pdf: "Library/Christianity/Chapman - Anglicanism, A Very Short Introduction (2006).pdf"
-page_range: "6–7"
+page_range: ""
 pdf_pages: "6–7"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
@@ -12,7 +12,7 @@ converted: 2026-10-15
 
 [[Anglicanism VSI 01 - Front matter|← previous]] · [[Anglicanism, A Very Short Introduction (Chapman)|contents]] · [[Anglicanism VSI 03 - Contents|next →]]
 
-*[p. 6]* ^pg6
+*[PDF 6]* ^pg6
 
 Mark Chapman
 
@@ -20,7 +20,7 @@ Mark Chapman
 
 A Very Short Introduction
 
-*[p. 7]* ^pg7
+*[PDF 7]* ^pg7
 
 Great Clarendon Street, Oxford ox 2 6 dp
 

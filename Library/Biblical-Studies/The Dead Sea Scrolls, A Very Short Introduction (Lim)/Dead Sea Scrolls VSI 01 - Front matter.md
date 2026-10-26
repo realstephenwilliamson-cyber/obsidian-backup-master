@@ -4,7 +4,7 @@ work: "[[Catalog/Biblical-Studies/Lim - The Dead Sea Scrolls, A Very Short Intro
 book: "[[Library/Biblical-Studies/The Dead Sea Scrolls, A Very Short Introduction (Lim)/The Dead Sea Scrolls, A Very Short Introduction (Lim)|The Dead Sea Scrolls, A Very Short Introduction (Lim)]]"
 order: 1
 source_pdf: "Library/Biblical-Studies/Lim - The Dead Sea Scrolls, A Very Short Introduction (2005).pdf"
-page_range: "1–9"
+page_range: ""
 pdf_pages: "1–9"
 text_source: "fresh OCR with Tesseract 5 (eng) of the page images (the PDF had no text layer)"
 converted: 2026-10-15
@@ -14,17 +14,17 @@ converted: 2026-10-15
 
 The text is a fresh OCR of the page images (Tesseract, English); check quotations against the PDF.
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 Timothy Lim
 
 THE DEAD SEA SCROLLS A Very Short Introduction
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 The Dead Sea Scrolls: A Very Short Introduction
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 conceptual art and cosmology.
 
@@ -116,7 +116,7 @@ THE ELEMENTS Philip Ball
 
 EMOTION \_ Dylan Evans
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
 EMPIRE Stephen Howe ENGELS Terrell Carver ETHICS Simon Blackburn
 
@@ -210,7 +210,7 @@ PRESOCRATIC PHILOSOPHY
 
 Catherine Osborne PSYCHOLOGY Gillian Butler and Freda McManus
 
-*[p. 5]* ^pg5
+*[PDF 5]* ^pg5
 
 QUANTUM THEORY
 
@@ -332,7 +332,7 @@ For more information visit our web site
 
 www.oup.co.uk/general/vsi/
 
-*[p. 6]* ^pg6
+*[PDF 6]* ^pg6
 
 Timothy H. Lim
 
@@ -344,7 +344,7 @@ A Very Short Introduction
 
 UNIVERSITY PRESS
 
-*[p. 7]* ^pg7
+*[PDF 7]* ^pg7
 
 OXFORD
 
@@ -394,11 +394,11 @@ Printed in Great Britain by
 
 TJ International Ltd., Padstow, Cornwall
 
-*[p. 8]* ^pg8
+*[PDF 8]* ^pg8
 
 For my dear children Jonathan and Alison
 
-*[p. 9]* ^pg9
+*[PDF 9]* ^pg9
 
 Contents
 

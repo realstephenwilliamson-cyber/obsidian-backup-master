@@ -10,7 +10,7 @@ text_source: the scan's OCR text layer (Internet Archive), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Figuring the Sacred (Ricoeur)|contents]] · [[Figuring the Sacred 02 - FIGURING THE SACRED, part 1|next →]]
+[[Figuring the Sacred (Ricoeur)|contents]] · [[Figuring the Sacred 02 - Front matter, Preface and Introduction|next →]]
 
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's OCR layer (Internet Archive), not a born-digital text: words can be misread, and some passages may be marked illegible. For exact readings, check the PDF (the *Open the PDF* button on the catalog note).

@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Butler - Postmodernism, A Very Short Introduction]]"
 book: "[[Library/Philosophy/Postmodernism, A Very Short Introduction (Butler)/Postmodernism, A Very Short Introduction (Butler)|Postmodernism, A Very Short Introduction (Butler)]]"
 order: 2
 source_pdf: "Library/Philosophy/Butler - Postmodernism, A Very Short Introduction (2002).pdf"
-page_range: "9–11"
+page_range: ""
 pdf_pages: "9–11"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
@@ -12,7 +12,7 @@ converted: 2026-10-15
 
 [[Postmodernism VSI 01 - Front matter|← previous]] · [[Postmodernism, A Very Short Introduction (Butler)|contents]] · [[Postmodernism VSI 03 - Chapter 1 The rise of postmodernism|next →]]
 
-*[p. 9]* ^pg9
+*[PDF 9]* ^pg9
 
 ## List of illustrations
 
@@ -72,7 +72,7 @@ Australian National Gallery, Canberra
 
 *Picture for Women* (1979) by Jeff Wall 86 © Jeff Wall. Musée national d’art moderne, Paris. Photo © RMN
 
-*[p. 10]* ^pg10
+*[PDF 10]* ^pg10
 
 Sainsbury Wing, National Gallery, London (1991) by Venturi, Scott Brown and Associates 90 © Martin Charles
 
@@ -121,4 +121,4 @@ Corbis
 
 The publisher and the author apologize for any errors or omissions in the above list. If contacted they will be pleased to rectify these at
 
-*[p. 11]* ^pg11
+*[PDF 11]* ^pg11

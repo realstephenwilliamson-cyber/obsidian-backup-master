@@ -23,12 +23,9 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[Aesthetics, Digital Studies 05 - Acknowledgements|Acknowledgements]] (pp. xiii–xiv)
 - [[Aesthetics, Digital Studies 06 - Digital Studies and Aesthetics Neganthropology|Digital Studies and Aesthetics: Neganthropology]] (pp. xv–xxviii)
 - [[Aesthetics, Digital Studies 07 - Introduction 'Prolegomenon to a Digital Studies Manifesto' Gerald|Introduction: ‘Prolegomenon to a Digital Studies Manifesto’ Gerald Moore]] (pp. 1–14)
-- [[Aesthetics, Digital Studies 08 - Part 1 Tertiary RetentionIntroduction Cormac Deane, Neill O'Dwyer|Part 1 Tertiary Retention
-Introduction Cormac Deane, Néill O’Dwyer and Michael O’Hara]] (pp. 15–72)
-- [[Aesthetics, Digital Studies 09 - Part 2 On PharmacologyIntroduction Aidan Delaney and Jeanette Doyle|Part 2 On Pharmacology
-Introduction Aidan Delaney and Jeanette Doyle]] (pp. 73–122)
-- [[Aesthetics, Digital Studies 10 - Part 3 The NeganthropoceneIntroduction Noel Fitzpatrick|Part 3 The Neganthropocene
-Introduction Noel Fitzpatrick]] (pp. 123–162)
+- [[Aesthetics, Digital Studies 08 - Part 1 Tertiary Retention (Introduction and Chapters 1-3)|Part 1 Tertiary Retention (Introduction and Chapters 1–3)]] (pp. 15–72)
+- [[Aesthetics, Digital Studies 09 - Part 2 On Pharmacology (Introduction and Chapters 4-6)|Part 2 On Pharmacology (Introduction and Chapters 4–6)]] (pp. 73–122)
+- [[Aesthetics, Digital Studies 10 - Part 3 The Neganthropocene (Introduction and Chapters 7-8)|Part 3 The Neganthropocene (Introduction and Chapters 7–8)]] (pp. 123–162)
 - [[Aesthetics, Digital Studies 11 - 'Je suis philosophe' A Personal Note to Bernard Stiegler|‘Je suis philosophe’: A Personal Note to Bernard Stiegler]] (pp. 163–166)
 - [[Aesthetics, Digital Studies 12 - Notes on Contributors|Notes on Contributors]] (pp. 167–168)
 - [[Aesthetics, Digital Studies 13 - Bibliography|Bibliography]] (pp. 169–185)

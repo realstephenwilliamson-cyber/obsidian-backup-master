@@ -1434,7 +1434,7 @@ def convert(job):
         used = set()
         for i in range(a, b + 1):
             pm = page_md[i]
-            body_lines.append(f'*[p. {pnum[i]}]* ^pg{i + 1}')
+            body_lines.append(f'*[PDF {i + 1}]* ^pg{i + 1}' if psrc[i] == 'pdf' else f'*[p. {pnum[i]}]* ^pg{i + 1}')   # 26 Oct 2026 (decision 19, L-02): no printed or inferred number -> [PDF K]
             body_lines.append('')
             labelmap = {}
             for n in pm['notes']:
@@ -1459,7 +1459,7 @@ def convert(job):
             if pm['notes']: body_lines.append('')
         nb_ = [k for k in range(a, b + 1) if psrc[k] != 'pdf']   # the range from printed numbers: an unnumbered title page at either end is not counted
         a2, b2 = (nb_[0], nb_[-1]) if nb_ else (a, b)
-        pr = f"{pnum[a2].split('–')[0]}–{pnum[b2].split('–')[-1]}" if a2 != b2 else f'{pnum[a2]}'
+        pr = (f"{pnum[a2].split('–')[0]}–{pnum[b2].split('–')[-1]}" if a2 != b2 else f'{pnum[a2]}') if nb_ else ''   # 26 Oct 2026: a chapter with no printed number gets no printed range (D-03)
         fm = ['---', 'type: book-chapter', f'work: "[[{job["catalog"]}]]"', f'book: "[[{job["folder"]}/{job["index_name"]}|{job["index_name"]}]]"',
               f'order: {ci + 1}', f'source_pdf: "{job["pdf_vault"]}"', f'page_range: "{_yq(pr)}"', f'pdf_pages: "{a + 1}–{b + 1}"',
               f'text_source: "{job["text_source"]}"', f'converted: {today}', '---', '']
@@ -1468,7 +1468,7 @@ def convert(job):
                    f'work: "[[{job["catalog"]}]]"', f'source_pdf: "{job["pdf_vault"]}"', f'page_range: "{_yq(pr)}"', f'pdf_pages: "1–{N}"',
                    f'text_source: "{job["text_source"]}"', f'converted: {today}', '---',
                    f'# {job["title"]}', '', job.get('byline', ''), '',
-                   f'Converted from the PDF on {datetime.date.fromisoformat(today).strftime("%-d %b %Y")}. Each PDF page starts with `*[p. N]*`, the printed page number (or the PDF page where none is printed), ending in the block id `^pgK` for PDF page K. The PDF stays on the computer: open it from [[{job["catalog"]}|the catalog note]].', ''] + ([job['callout'], ''] if job.get('callout') else [])
+                   f'Converted from the PDF on {datetime.date.fromisoformat(today).strftime("%-d %b %Y")}. Each PDF page starts with `*[p. N]*`, the printed page number (or `*[PDF K]*` where no number is printed or can be inferred from the pages around it), ending in the block id `^pgK` for PDF page K. The PDF stays on the computer: open it from [[{job["catalog"]}|the catalog note]].', ''] + ([job['callout'], ''] if job.get('callout') else [])
             spath = os.path.join(job['out'], os.path.dirname(job['folder']), job['index_name'] + '.md')
             open(spath, 'w', encoding='utf-8').write('\n'.join(fm1 + body_lines).rstrip() + '\n')
             written.append((os.path.dirname(job['folder']) + '/' + job['index_name'] + '.md', spath))
@@ -1489,14 +1489,14 @@ def convert(job):
       idx = ['---', 'type: book', f'title: "{job["title"]}"', f'author: {json.dumps(job["authors"], ensure_ascii=False)}', f'work: "[[{job["catalog"]}]]"',
            f'source_pdf: "{job["pdf_vault"]}"', f'pages: {N}', f'text_source: "{job["text_source"]}"', f'converted: {today}', '---',
            f'# {job["title"]}', '', job.get('byline', ''), '',
-           f'Converted from the PDF on {datetime.date.fromisoformat(today).strftime("%-d %b %Y")} ({job["text_source"]}). Each PDF page starts with a line `*[p. N]*` giving the printed page number (or the PDF page where none is printed) and ending in the block id `^pgK`, K being the PDF page, so a link to PDF page K can be written `[[Chapter note#^pgK]]`. The PDF stays on the computer: open it from [[{job["catalog"]}|the catalog note]].', ''] + ([job['callout'], ''] if job.get('callout') else []) + [
+           f'Converted from the PDF on {datetime.date.fromisoformat(today).strftime("%-d %b %Y")} ({job["text_source"]}). Each PDF page starts with a line `*[p. N]*` giving the printed page number (or `*[PDF K]*` where no number is printed or can be inferred from the pages around it) and ending in the block id `^pgK`, K being the PDF page, so a link to PDF page K can be written `[[Chapter note#^pgK]]`. The PDF stays on the computer: open it from [[{job["catalog"]}|the catalog note]].', ''] + ([job['callout'], ''] if job.get('callout') else []) + [
            '## Contents', '']
     if idx is not None:
         gh = job.get('contents_heads', {})   # {chapter title: heading printed above it in the book's Contents (a Part)}
         for ch in chapters:
             kt = re.sub(r', part 1$', '', ch['title'])   # a long chapter split in parts keeps its heading before part 1
             if ch['title'] in gh or kt in gh: idx += ['', f'### {gh.get(ch["title"], gh.get(kt))}', '']
-            idx.append(f'- [[{ch["name"]}|{md_escape(ch["title"])}]] (pp. {ch["pages"]})')
+            idx.append(f'- [[{ch["name"]}|{md_escape(ch["title"])}]] ({("pp. " + ch["pages"]) if ch["pages"] else ("PDF " + str(ch["start"] + 1) + "–" + str(ch["end"] + 1))})')   # 26 Oct 2026: PDF pages where nothing is printed
         open(os.path.join(outdir, job['index_name'] + '.md'), 'w', encoding='utf-8').write('\n'.join(idx).rstrip() + '\n')
         written.append((job['folder'] + '/' + job['index_name'] + '.md', os.path.join(outdir, job['index_name'] + '.md')))
     rep = dict(fn_pages=fn_pages, fill_ocr_pages=stats_fill[0], latin_fixed_lines=stats_latin[0], pdf=job['pdf_vault'], folder=job['folder'], pages=N, notes=len(chapters) + 1, body_size=body, stats=dict(stats),

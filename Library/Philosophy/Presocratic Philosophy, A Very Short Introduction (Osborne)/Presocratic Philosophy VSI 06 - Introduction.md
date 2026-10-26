@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Osborne - Presocratic Philosophy, A Very Short Intro
 book: "[[Library/Philosophy/Presocratic Philosophy, A Very Short Introduction (Osborne)/Presocratic Philosophy, A Very Short Introduction (Osborne)|Presocratic Philosophy, A Very Short Introduction (Osborne)]]"
 order: 6
 source_pdf: "Library/Philosophy/Osborne - Presocratic Philosophy, A Very Short Introduction (2004).pdf"
-page_range: "16–19"
+page_range: ""
 pdf_pages: "16–19"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
@@ -12,7 +12,7 @@ converted: 2026-10-15
 
 [[Presocratic Philosophy VSI 05 - A note on the pronunciation|← previous]] · [[Presocratic Philosophy, A Very Short Introduction (Osborne)|contents]] · [[Presocratic Philosophy VSI 07 - Chapter 1 Lost words, forgotten worlds|next →]]
 
-*[p. 16]* ^pg16
+*[PDF 16]* ^pg16
 
 ## Introduction
 
@@ -22,7 +22,7 @@ It was about that time, as memorable poetic discourse began to give way to writt
 
 We call them Presocratic philosophers. ‘Philosophers’ because they seek after wisdom, or because we can detect some resemblance to the project we think of as philosophy, or both; ‘Presocratic’ because they precede Socrates in one or both of two senses. First, they were older than Socrates. Many were born well before 469 bc and all but a few had passed their prime before the end of the 5th century. But second, and
 
-*[p. 17]* ^pg17
+*[PDF 17]* ^pg17
 
 more importantly, they are considered to have preceded Socrates in philosophical terms. Often, when thinking about Socrates (or about Plato’s depiction of Socrates), we need to remember that he is reacting to the Presocratics, but the reverse is never true.
 
@@ -32,7 +32,7 @@ As we shall see, they start by asking what there is and what causes it to be as 
 
 When we look at the world around us, we seem to see it as made up of a lot of separate things. There are trees and stones, houses and squirrels; there are words and flavours, water and grandeur; there are kind actions and major emergencies; births, deaths, and stereotypes. All these things seem to be real and observable; all of them (and many others, too) are different kinds of things. When we divide reality up into chunks like that, we might wonder how many bits there are, and whether we could ever count them. Are there only *so many* separate things in the world, just this many and no more? Or if there are no definite natural divisions, perhaps it is really all one? Could it be all one with no divisions whatever? The consequences in that case would seem to be rather strange, as Parmenides and Zeno deftly show.
 
-*[p. 18]* ^pg18
+*[PDF 18]* ^pg18
 
 These puzzles were sketched out by the Presocratic philosophers whose work we shall be sampling in this book. The puzzles have never gone away. They grew out of a primitive interest in cosmology, but they have led directly into metaphysics, theory of knowledge, philosophy of language, logic, and many other branches of philosophy as we know it now.
 
@@ -44,7 +44,7 @@ This book is not a history and it does not attempt to arrange its thinkers chron
 
 Chapter 1 introduces you to the way we work with evidence, and discusses the effect of a recent discovery of new fragments on papyrus. This brings us into contact with a fascinating but slightly neglected figure called Empedocles. Chapter 2 outlines and challenges the usual historical account of the whole of Presocratic philosophy and examines the contribution of the pivotal figure, Parmenides. In Chapter 3 we shall engage with the mind-boggling paradoxes provided by Zeno, in his attempt to undermine our confidence in common sense, while
 
-*[p. 19]* ^pg19
+*[PDF 19]* ^pg19
 
 Chapter 4 develops the theme of appearance versus reality which was prompted by Zeno (and before him, Parmenides). Xenophanes, Melissus, Anaxagoras, and Democritus all figure in this section.
 

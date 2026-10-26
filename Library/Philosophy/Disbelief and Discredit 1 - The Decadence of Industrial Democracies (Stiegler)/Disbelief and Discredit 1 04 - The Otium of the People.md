@@ -10,7 +10,7 @@ text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Disbelief and Discredit 1 03 - ! II|← previous]] · [[Disbelief and Discredit 1 - The Decadence of Industrial Democracies (Stiegler)|contents]] · [[Disbelief and Discredit 1 05 - Wanting to Believe|next →]]
+[[Disbelief and Discredit 1 03 - 2. Belief and Politics, In the Capitalist Age (continued)|← previous]] · [[Disbelief and Discredit 1 - The Decadence of Industrial Democracies (Stiegler)|contents]] · [[Disbelief and Discredit 1 05 - Wanting to Believe|next →]]
 
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's OCR layer (Adobe Acrobat Paper Capture), not a born-digital text: words can be misread, and some passages may be marked illegible. For exact readings, check the PDF (the *Open the PDF* button on the catalog note).

@@ -935,7 +935,7 @@ yadi labhyeta tadāsmin
 
 viśeṣatamapūjanari racayet | 
 
-(Finally,) if a day obtains on which the aspects (ama), ), that is, constellation, planet, lunar day and the (auspicious period of) time, are (all) conducive, and (so) is beautiful in all its parts, one should then celebrate on that (day) the rite of worship which is most special. (57cd-58ab) 
+(Finally,) if a day obtains on which the aspects (aṁśa), that is, constellation, planet, lunar day and the (auspicious period of) time, are (all) conducive, and (so) is beautiful in all its parts, one should then celebrate on that (day) the rite of worship which is most special. (57cd-58ab) 
 
 #### Viveka on 28.57–58
 

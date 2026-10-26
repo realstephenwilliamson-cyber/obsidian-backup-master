@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Gifts from the Goddess 12 - Section|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 14 - My Love for You Knows No Limits|next →]]
+[[Gifts from the Goddess 10 - On Gurus and Disciples|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 14 - My Love for You Knows No Limits|next →]]
 
 *[p. 41]* ^pg70
 

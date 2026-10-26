@@ -1930,7 +1930,7 @@ see QD 34 and *QD* 194.
 
 535\. [[LXX Daniel (Greek) 03#^3-46|Dan 3:46]]. 
 
-536\. The word A(vo: may also mean vestments; see [[Torah 25 - Tzav#^6-3|Lev 6:3]], 1 6:4. 537. The blessed children are Shadrach, Mesach, and Abednego; see [[LXX Daniel (Greek) 03#^3-51|Dan. 3:51]]. 
+536\. The word Λίνα may also mean vestments; see [[Torah 25 - Tzav#^6-3|Lev 6:3]], 16:4. 537. The blessed children are Shadrach, Mesach, and Abednego; see [[LXX Daniel (Greek) 03#^3-51|Dan. 3:51]]. 
 
 538\. [[LXX Daniel (Greek) 03#^3-91|Dan 3:91-92]]. 
 

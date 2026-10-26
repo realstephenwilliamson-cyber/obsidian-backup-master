@@ -16,7 +16,8 @@ Runner jobs (`(async () => { … })()`, read-only; copy into `.work/queue/` to r
 | `m2-14-tags.js` | 14 | tags from the cache and `getTags()`; what relies on a tag |
 | `m2-15-workprop.js` | 15 | Library/Texts notes without `work`/`book`/`source`/`collection` |
 | `render-j.js` | — | opens notes and Bases in reading mode and records Dataview/console errors and button labels (note: opening a `.base` makes Obsidian re-save it) |
-| `render-holydays-testdates.js` | — | renders the date header and the Daily Office for test dates in temporary notes (made and trashed) — add `// APPLY` as the first line to run |
+| `render-holydays-testdates.js` | — | renders the date header and the Daily Office for test dates in temporary notes (made and trashed) — add `// APPLY` as the first line to run; since 26 Oct 2026 it draws 0 characters in the tab even with Obsidian in front, so use v2 |
+| `render-holydays-testdates-v2.js` | — | the same 13 dates and two views, rendered through Dataview's `executeJs` into a container on the page instead of a tab (26 Oct 2026, job pf190: all 13 drew, no errors); read-only, needs Obsidian in front |
 | `cards-after.js` | — | the 108 card notes: count, numbers, card lines, links |
 | `tags-dollar-check.js` | — | `$` in the frontmatter of the tags record's notes (J2-11) |
 

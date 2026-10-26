@@ -10,7 +10,7 @@ text_source: the scan's OCR text layer (ABBYY FineReader 9), PyMuPDF
 converted: 2026-10-08
 ---
 
-[[The Text of the New Testament 01 - Front matter|← previous]] · [[The Text of the New Testament (Metzger, Ehrman)|contents]] · [[The Text of the New Testament 03 - Part One The Materials for the Textual Criticism of the New|next →]]
+[[The Text of the New Testament 01 - Cover|← previous]] · [[The Text of the New Testament (Metzger, Ehrman)|contents]] · [[The Text of the New Testament 03 - Part One The Materials for the Textual Criticism of the New|next →]]
 
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's OCR layer (ABBYY FineReader). The English is reliable; Greek words may be misread or lack accents. For exact Greek, check the PDF (the *Open the PDF* button on the catalog note).

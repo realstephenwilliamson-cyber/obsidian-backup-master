@@ -241,7 +241,7 @@ written by me.)
 
 Richard Kraut (ed.), Cambridge Companion to Plato is a useful introduction to various aspects of Plato and has good bibliographies, both on individual dialogues and on Platonic topics. Christopher Rowe's Plato is a good medium-length survey. Christopher Gill, Greek Thought is excellent background to Plato's ethical and social thought. Gail Fine, On /deas is a thorough examination of the arguments for Forms and Aristotle's criticisms of them.
 
-*[p. cc]* ^pg103
+*[p. 98]* ^pg103
 
 A
 

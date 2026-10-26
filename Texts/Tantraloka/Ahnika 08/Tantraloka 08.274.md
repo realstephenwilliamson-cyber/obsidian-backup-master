@@ -33,7 +33,7 @@ yāvantaḥ kṣetrajñāḥ sahajāgantukamalopadigdhacitaḥ || ^iast
 >
 > The Forest (gahana), the Abode of the Soul (puruṣanidhāna), Nature (prakṛti), the Root (mūla), Fundamental Nature (pradhāna), the Unmanifest and the Cause of the Qualities - all these are synonyms for (this principle) generated from Māyā. (with 8.273cd–274ab)
 >
-> Those individual souls (kṣetrajña) whose consciousness is stained with impurity, whether innate or adventitious, and all the Rudras, reside here. (Here) they enjoy the experiences that arise from that (Principle), with their senses either in an unconscious state (mūḍha), fully active (vivṛtta), or absorbed (vilīna) (in consciousness). The senses of some of them are ‘transcendental’ (and so completely free) (vikaraṇnaka). (with 8.274cd–275)
+> Those individual souls (kṣetrajña) whose consciousness is stained with impurity, whether innate or adventitious, and all the Rudras, reside here. (Here) they enjoy the experiences that arise from that (Principle), with their senses either in an unconscious state (mūḍha), fully active (vivṛtta), or absorbed (vilīna) (in consciousness). The senses of some of them are ‘transcendental’ (and so completely free) (vikaraṇaka). (with 8.274cd–275)
 
 ## Viveka
 

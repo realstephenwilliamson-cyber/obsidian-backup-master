@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Mystery 05 - Vasugupta's ConclusionVerses 1 - 2|← previous]] · [[The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|contents]] · [[The Mystery 07 - Spanda Sandoha - (audios 4 to 10), part 2|next →]]
 
-*[p. 69]* ^pg69
+*[PDF 69]* ^pg69
 
 ## Spanda Sandoha – (audios 4 to 10)
 
@@ -46,7 +46,7 @@ What? This nectar.
 
 And that nectar, *sarvasyānta-sphuradapi*, although that nectar is residing in each and every being in this world, everybody has got that, has possessed that nectar, but at the same time, *mahāmudryā*
 
-*[p. 70]* ^pg70
+*[PDF 70]* ^pg70
 
 *mudritaṁ yat*, it is concealed with the great stamp of *svātantrya śakti*.<sup>129</sup> It is not exposed. You have that nectar, but you can’t see it, you can’t feel the glory and glamour of that nectar within you. It is within you, that nectar, but it is stamped and locked . . .
 
@@ -98,7 +98,7 @@ ERNIE: In the internal way.
 
 SWAMIJI: Internal way.
 
-*[p. 71]* ^pg71
+*[PDF 71]* ^pg71
 
 The third \[*śloka*\]:
 
@@ -135,7 +135,7 @@ Audio 4 - 10:47
 
 Supreme *prakāśa* means “light” and *vimarśa* means “the feeling of supreme nectar”. Where there is
 
-*[p. 72]* ^pg72
+*[PDF 72]* ^pg72
 
 *prakāśa* and *ānanda* (light and nectar), that is Maheśvara *svarūpa*, that is the reality of Maheśvara.
 
@@ -183,7 +183,7 @@ SWAMIJI: When He opens His eyes, it means He opens His nature. When He opens His
 
 *Taṁ stumaḥ*, I bow to that Lord Śaṁkara who is *śakti cakra vibhava prabhavaṁ*, who is the
 
-*[p. 73]* ^pg73
+*[PDF 73]* ^pg73
 
 creator and producer of the wheel of His numberless energies, who is the creator of the wheel of His numberless energies.
 
@@ -229,7 +229,7 @@ SWAMIJI: I bow to that Śaṁkara who is residing in each and every being.
 
 What is “prostration”? “I prostrate before that Śaṁkara.” What is “prostration”? Prostration is not just \[to\] say, “*Jai Guru Dev*!” “*Jai Guru Deva*” won’t do only!
 
-*[p. 74]* ^pg74
+*[PDF 74]* ^pg74
 
 *samastadehaprāṇādi-parimitapramātṛpadam adhaspadīkṛtya*
 
@@ -273,7 +273,7 @@ ERNIE: It is.
 
 SWAMIJI: It is, it is above.
 
-*[p. 75]* ^pg75
+*[PDF 75]* ^pg75
 
 ERNIE: And you experience that.
 
@@ -349,7 +349,7 @@ SWAMIJI: No (affirmative).
 
 JOHN: That makes it an object, doesn’t it?
 
-*[p. 76]* ^pg76
+*[PDF 76]* ^pg76
 
 JOHN: So, he knows this state more than he knows anything in his life. When he has this state, this will be a more firm knowledge than any other knowledge he ever had.
 
@@ -413,7 +413,7 @@ JOHN: So, “knowing” means here?
 
 SWAMIJI: “Knowing” means, This cannot be an object, This can never remain in the cycle of
 
-*[p. 77]* ^pg77
+*[PDF 77]* ^pg77
 
 objectivity. You can’t know It.
 
@@ -457,7 +457,7 @@ Now for “this”. “*Atra*”, from “*atra*”, this is the conclusion of v
 
 SWAMIJI: . . . various schools, teachers.
 
-*[p. 78]* ^pg78
+*[PDF 78]* ^pg78
 
 *atra eke svarūpa prakāśana tadgopanābhyāṁ yatkartṛkābhyāṁ unmeṣanimeṣābhyāṁ jagato viśvasya pralayodayau vināśasargau iti vyākhyātavantaḥ tadeke na sehire*
 
@@ -499,7 +499,7 @@ JOHN: This is the second . . .
 
 SWAMIJI: That is *kādācitkau*.
 
-*[p. 79]* ^pg79
+*[PDF 79]* ^pg79
 
 *Kādācit-kajagat-nāśodaya-hetu kathaṁ nitye bhagavati syātām*, but That is eternal, God consciousness is eternal. There is no question of *kādācitaka bhāva*. If He is *unmeṣa*, if He is \[ever\] opening His eyes, He must remain always like that. He is eternal, He has not breaks of His nature.
 
@@ -547,7 +547,7 @@ SWAMIJI: The reality of Shaivism will be explained later on. It is just building
 
 By *unmeṣa* and *nimeṣa* . . . really, *unmeṣa* and *nimeṣa* does not mean the opening and the closing of His eyes. The real meaning of *unmeṣa* and *nimeṣa* he will explain it later on from his viewpoint of
 
-*[p. 80]* ^pg80
+*[PDF 80]* ^pg80
 
 Shaivism.
 
@@ -605,7 +605,7 @@ SWAMIJI: These are all, yes, adjustments of Shaivism.
 
 ERNIE: These.
 
-*[p. 81]* ^pg81
+*[PDF 81]* ^pg81
 
 SWAMIJI: These, yes.
 
@@ -649,7 +649,7 @@ ERNIE: Not possible.
 
 SWAMIJI: . . . this is not real, this is not possible. It cannot be! How will darkness come out from light? How can mortality come out from an immortal being? Otherwise, you have to accept that mortality also exists There. If mortality and immortality exist There, that way it is not possible
 
-*[p. 82]* ^pg82
+*[PDF 82]* ^pg82
 
 because It is only one being. There \[can’t\] be two there existing in God consciousness. So, *kādācitkau vināśodayau bhavetām*, so if there is only one energy existing, one energy is accepted, . .
 
@@ -677,7 +677,7 @@ SWAMIJI: The milk of a bird. As long as the milk of a bird comes in our mind, it
 
 *atha sthite sarvadikke śivatattve’dhunocyate/ tasmiñjñāte’thavājñāte śivatvamanivāritam* //<sup>158</sup>
 
-*[p. 83]* ^pg83
+*[PDF 83]* ^pg83
 
 If you say that Śiva *tattva*<sup>159</sup> is known, \[that\] here Śiva *tattva* is known \[and\] here Śiva *tattva* is not known \[or\] here Śiva *tattva* is present \[and\] here Śiva *tattva* is not present, what then? Śiva *tattva* is present in Its presence, Śiva *tattva* is present in Its absence also. Because He has given rise to the absence of Śiva *tattva*, and that is Śiva *tattva*. When you say, “no”, that is “yes”. When you say, “yes”, that is also “yes”. If you know Śiva *tattva*, well and good, you know. If you don’t know, well and good, you know still. It does not mean that in not-knowing, in the state of not-knowing, It is not known. It is known there also. That is *abhāsavāda*. If you take that *abhāsavāda* in view and explain these two words of *unmeṣa* and *nimeṣa*, then it is well and good.
 
@@ -721,7 +721,7 @@ SWAMIJI: *Kālo’pi abhāsanasāro*, *na tu tad vyatiriktaḥ*. And if you say,
 
 ERNIE: Like the milk of a bird.
 
-*[p. 84]* ^pg84
+*[PDF 84]* ^pg84
 
 SWAMIJI: *Na tu tadvyatiriktaḥ*, it is not separated from God consciousness. *Kathamasau varākaḥ ābhāsayitari bhagavati bhedaśaṁkāspadam*, how can it differentiate the state of God consciousness?
 
@@ -763,7 +763,7 @@ JOHN: And then the final one, which wasn’t a theory, was he is saying that we 
 
 SWAMIJI: But there is also some adjustment to be done in that fourth understanding. That
 
-*[p. 85]* ^pg85
+*[PDF 85]* ^pg85
 
 adjustment he will do now.
 
@@ -805,7 +805,7 @@ Audio 5 - 03:20
 
 When, right from *sadāśiva* to *pṛthvī* (earth), all of these elements, all of these cycles of
 
-*[p. 86]* ^pg86
+*[PDF 86]* ^pg86
 
 elements<sup>167</sup>, *prāksṛṣṭasya*, are created, although it is created, when, after its creation, it is to be destroyed, *saṁhārāpekṣayā*, when it is destroyed, *nimeṣabhūḥ*, that is the dissolution of this cycle of the elementary world–it dissolves–but at the same time, that dissolution, *saiva srakṣyamāṇabhedāpekṣayā unmeṣadaśā*, that is the rise of Śiva. When it dissolves, . . .
 
@@ -847,7 +847,7 @@ In the daily routine of life also, you’ll see that *spanda* works both ways. I
 
 SWAMIJI: . . . both factors. *Nīla-didṛkṣya-ātma-prāg-bhūmirūpā*, when you want to see something blue, you want to see \[some\] blue object, some object which is blue, blue colored–
 
-*[p. 87]* ^pg87
+*[PDF 87]* ^pg87
 
 *nīladṛkṣātmaprāg bhūmirūpā*; *nīladidṛkṣyā*, just to see a bluish object<sup>170</sup>–when you want to see a bluish object, that is the rise of a bluish object, that is the *unmeṣa* of a blue object. *Sphurita-nīla-pūrva-pīta-āvabhāsana-viśrānti-ātmakanimeṣarūpā sarvasya svasaṁvitsiddhā*, and that very state is the *nimeṣa* of what you had seen before, e.g., that *pīta*, that yellow, that yellowish object. First you had seen a yellowish object, now you want to see . . .
 
@@ -893,7 +893,7 @@ SWAMIJI: That will be seen further, later on.
 
 ERNIE: Was It there when the yellow object was there? You said that when you see the blue, then
 
-*[p. 88]* ^pg88
+*[PDF 88]* ^pg88
 
 that third is also, that God consciousness is also, destroyed.
 
@@ -945,7 +945,7 @@ Audio 5 - 14:06
 
 *Yatsvarūpa ābhijñānāya sphuṭayiṣyati,* this *svar*ūpa<sup>173</sup> \[of God consciousness\] is clarified in this *śloka* of the *Spanda Kārikā*:
 
-*[p. 89]* ^pg89
+*[PDF 89]* ^pg89
 
 *atikruddhaḥ . . . . . . . . . . . . . . . . . . . . . . . . . . . /*<sup>174</sup>
 
@@ -999,7 +999,7 @@ SWAMIJI: Everything.
 
 . . . so, *karālambhanaṁ dadhatyeva*; *karālambhanaṁ*, that energy shakes hands with that person
 
-*[p. 90]* ^pg90
+*[PDF 90]* ^pg90
 
 who is blessed with *śaktipāta*.
 
@@ -1049,7 +1049,7 @@ GANJOO: (Inaudible)
 
 SWAMIJI: Oneness. That is *sāmarasya*. So in that *sāmarasya* state \[of God consciousness\], the
 
-*[p. 91]* ^pg91
+*[PDF 91]* ^pg91
 
 whole cycle of one hundred and eighteen worlds exists.
 
@@ -1103,7 +1103,7 @@ Audio 5 - 21:42
 
 And *nīlamātrāpekṣayā*, *nīlamātrā*, \[the blue object\], which you have to see now in the next moment, taking that in view, taking that seeing in your view, *ahantācchādita idantā sūtraṇarūpā*, that *n*īlatā<sup>188</sup> is subsided, *nīlatā* is dissolved in that state, \[in\] that previous state of a *tuṭi*, and that \[*tuṭi*\] is *sadāśiva*-*īśvara daśā*, that is *ahaṁ-idaṁ* and *idaṁ-ahaṁ*.<sup>189</sup> You will find the rise of *ahaṁ-idaṁ*
 
-*[p. 92]* ^pg92
+*[PDF 92]* ^pg92
 
 or *idaṁ-ahaṁ*. It is the rise of *sadāśiva* or the rise of *īśvara* in the first moment. The next moment you will feel . . .
 
@@ -1155,7 +1155,7 @@ When you go \[inside\] from this outside cycle (*nīla*–when you find *nīla*,
 
 . . . and when *ahaṁ-idaṁ* is rising, the rise of *ahaṁ*-*idaṁ* is the dissolution of *ahaṁ*, \[and\] the rise of *idaṁ-ahaṁ* is the dissolution of *ahaṁ*. When *ahaṁ*, the supreme *ahaṁ*, only *ahaṁ*, the embodiment of *ahaṁ*, rises, that is the destruction of *sadāśiva* and *īśvara*–*sadāśiva* and *īśvara* exist
 
-*[p. 93]* ^pg93
+*[PDF 93]* ^pg93
 
 no more. So \[the instruction\] is, you have to go deep in the inner cycle also and find the *unmeṣa* and *nimeṣa* working ahead also in . . .
 
@@ -1197,7 +1197,7 @@ Just like a *yogi*, the acting of a *yogi* is just like the acting of Śiva. Śi
 
 \[If\] you have to construct this house, you want an outside gathering of substances, e.g., you want stones, you want cement, you want workers. But this is not the case with Lord Śiva. \[When\] Lord
 
-*[p. 94]* ^pg94
+*[PDF 94]* ^pg94
 
 Śiva creates this universe, He pushes this universe of one hundred and eighteen worlds outside His consciousness without the gathering of these . . .
 
@@ -1249,7 +1249,7 @@ Pure I-consciousness is attributed to Śiva, and I-consciousness in this-conscio
 
 \*. . . so these three elements, *paraspara vyāptyā*, they are one with each other, they are not separate from each other– these three elements. *Avasthite*, although they exist in three ways, *ekarūpe*
 
-*[p. 95]* ^pg95
+*[PDF 95]* ^pg95
 
 *eva*, they are one.
 
@@ -1291,7 +1291,7 @@ When a *s*ādhaka<sup>207</sup> wants to learn what the collectiveness of the th
 
 And another *sūtra* is:
 
-*[p. 96]* ^pg96
+*[PDF 96]* ^pg96
 
 *tamadhiṣṭhātṛbhāvena svabhāvamavalokayan / smayamāna ivāste yastasyeyaṁ kusṛtiḥ kutaḥ* //*SpK 1.11*//
 
@@ -1321,7 +1321,7 @@ Audio 6 - 07:33
 
 *lelihānā sadā devī sadā pūrṇā ca bhāsate / ūrmireṣā vibodhābdheḥ śaktiricchātmikā prabhoḥ* //<sup>212</sup>
 
-*[p. 97]* ^pg97
+*[PDF 97]* ^pg97
 
 “O Pārvatī,”–this is *Tantra*; Śiva addresses \[His\] better half, Pārvatī–“*lelihānā sadā devī*, this God consciousness is always in the state of tasting.”
 
@@ -1381,7 +1381,7 @@ JOHN: First.
 
 SWAMIJI: First is the existence of *svātantrya śakti*, then is the existence of Śiva, then His Śakti. But the *svātantrya śakti* is the chief point from which these both sprout–Śiva and Śakti.
 
-*[p. 98]* ^pg98
+*[PDF 98]* ^pg98
 
 ERNIE: But this is just like I-ness and this-ness. There is no difference really. It’s only for . . . SWAMIJI: No, there is no difference. It is only one element.
 
@@ -1439,7 +1439,7 @@ JOHN: Whatever state there was before is destroyed for causing that other . . .
 
 SWAMIJI:
 
-*[p. 99]* ^pg99
+*[PDF 99]* ^pg99
 
 *tataśca unmeṣau ca nimeṣau ca iti vigṛhya unmeṣasya nimeṣamayasya, nimeṣasya ca unmeṣamayasya, prādhānya -itaratāvibhaktasya dharaṇyādi-sadāśivāntaṁ jagat prati pralayodayahetutvaṁ vyākhyātavyam /*
 
@@ -1487,7 +1487,7 @@ SWAMIJI: Yes.
 
 JOHN: Carry the philosophical meaning.
 
-*[p. 100]* ^pg100
+*[PDF 100]* ^pg100
 
 SWAMIJI: Those both, these both (*unmeṣau ca nimeṣau ca*). So, in \[saying\] “*unmeṣa*”, you must say “*unmeṣau*”, in the dual form; “*nimeṣa*” you must say in the dual form: “*nimeṣau ca*”. So, *unmeṣasya nimeṣamayasya*, it means, whenever there is *unmeṣa*, there is *nimeṣa* there; whenever there is *nimeṣa* (dissolution), there is *unmeṣa* there. Both are existing there.
 
@@ -1537,7 +1537,7 @@ Audio 6 - 18:47
 
 So, *pralayau ca*, “*yasyonmeṣanimeṣābhyām jagataḥ pralayaudayau*”, by whose *unmeṣa* and *nimeṣa*, the universe finds its rise and dissolution (*pralaya* and *udaya*, destruction and \[rise\]), it is
 
-*[p. 101]* ^pg101
+*[PDF 101]* ^pg101
 
 being created and destroyed.
 
@@ -1589,7 +1589,7 @@ ERNIE: If I talk with you with John . . .
 
 SWAMIJI: I am existing in your brain. So, I am existing there in your internal consciousness.
 
-*[p. 102]* ^pg102
+*[PDF 102]* ^pg102
 
 Whenever you see me here, you come and see me here, where is that \[internal\] Swamiji then? It is in the outside consciousness of yours. That is *bahirūpa*. So, when *bahirūpa*, when you find me outside, the internal \[form\] is dissolved. When the external \[form\] is dissolved, the internal \[form\] gets rise. This is what he says.
 
@@ -1653,7 +1653,7 @@ ERNIE: God, I wish I could remember all of it.
 
 SWAMIJI: *Nīlādeḥ yo bahirūpatāyāḥ udayaḥ*, so, when blue objects, blue or yellow objects,
 
-*[p. 103]* ^pg103
+*[PDF 103]* ^pg103
 
 exist in the external state, *yo bahirūpatāyāḥ udayaḥ sa eva ahantārūpatāyāḥ pralayaḥ*, that means \[that the object\] is destroyed in your internal consciousness.
 
@@ -1691,7 +1691,7 @@ Audio 6 - 28:03
 
 This is the *bh*āṣya<sup>224</sup> of Patañjali, in grammar also, while explaining the theory of *dvanda samāsa.* *Dvanda samāsa* \[is used\] when you have to explain two \[nouns\].<sup>225</sup> When you have to explain Rāma and Kṛṣṇa \[together\], e.g., “Rāma and Kṛṣṇa are going”, \[then\] *rāmaśca kṛṣṇaśca* \[becomes\] *rāmakṛṣṇau*, \[and you say\], “*Rāmakṛṣṇau gacchataḥ*”. This is how we explain “Rāma and Kṛṣṇa are going”: *Rāmakṛṣṇau gacchataḥ*. You put it in the dual form.
 
-*[p. 104]* ^pg104
+*[PDF 104]* ^pg104
 
 JOHN: Dual form.
 

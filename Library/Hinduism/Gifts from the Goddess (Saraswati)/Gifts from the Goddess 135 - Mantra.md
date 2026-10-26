@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Gifts from the Goddess 134 - Section|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 136 - Mantra|next →]]
+[[Gifts from the Goddess 133 - World|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 136 - Mantra|next →]]
 
 *[p. 393]* ^pg422
 

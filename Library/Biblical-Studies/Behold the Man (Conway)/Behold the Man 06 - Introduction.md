@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Behold the Man 05 - Behold the Man|← previous]] · [[Behold the Man (Conway)|contents]] · [[Behold the Man 07 - How to Be a Man in the Greco-Roman World|next →]]
+[[Behold the Man 05 - Half-title|← previous]] · [[Behold the Man (Conway)|contents]] · [[Behold the Man 07 - How to Be a Man in the Greco-Roman World|next →]]
 
 *[PDF 16]* ^pg16
 

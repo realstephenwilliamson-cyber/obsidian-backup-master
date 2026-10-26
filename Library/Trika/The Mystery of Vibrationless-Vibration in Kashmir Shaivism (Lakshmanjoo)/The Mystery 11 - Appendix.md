@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Mystery 10 - Additional Questions|← previous]] · [[The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|contents]] · [[The Mystery 12 - Bibliography|next →]]
 
-*[p. 184]* ^pg184
+*[PDF 184]* ^pg184
 
 ## Appendix
 
@@ -44,7 +44,7 @@ Swami Lakshmanjoo, *Special Verses on Practice* (LJA archive).
 
 “The definition of *svātantrya* is “freedom in action and freedom in knowledge”; when you know with your freedom, when you act with your freedom. When you know and you don’t succeed in that
 
-*[p. 185]* ^pg185
+*[PDF 185]* ^pg185
 
 knowledge, there is not *svātantrya*. When there is not *svātantrya*, it is not really knowledge. When there is not *svātantrya*, it is not really action. The action of individuals is just like that. Individuals know, they know something– you can’t say that they don’t know anything–they know something, but that knowledge has not *svātantrya*. And they act also, they do something, but that doing also has not *svātantrya*. So, without *svātantrya*, doing and knowing has no value. When there is *svātantrya*, it is fully valued.
 
@@ -64,7 +64,7 @@ This kind of action cannot be accomplished by any power in this universe other t
 
 *Svātantrya śakti* is pure universal energy. Impure universal energy is *māyā*. It is only the formation that changes through a difference of vision. When you experience *svātantrya śakti* in a crooked way,
 
-*[p. 186]* ^pg186
+*[PDF 186]* ^pg186
 
 it becomes *māyā śakti* for you. And when you realize that same *māyā śakti* in Reality, then that *māyā śakti* becomes *svātantrya śakti* for you. Therefore, *svātantrya śakti* and *māyā śakti* are actually only one and the three impurities (*mala*s), which are to be explained here, reside in *māyā śakti*, not in *svātantrya śakti*.”
 
@@ -90,7 +90,7 @@ The state of *samādhi* is the last limb (*aṅga*) of the eight limbs of *yoga*
 
 When you are about to enter in *samādhi*, then you have to do according to the directions which come \[from\] above in *samādhi*. You have to go ahead according to the directions of *samādhi*, not according to the directions of *śāstra*s or according to the directions of the master. The master’s job is over there when \[the disciple\] is going inside. So, \[the disciple takes this oath\] that, “*Tad avasyaṁ kariṣye’ham*, that I will definitely do what informs me \[from\] within at that time of going in; *tadavasyaṁ kariṣye’ham*, I will do that definitely.” *Iti saṁkalpya tiṣṭhate*, so he has to remain there with this oath that, “Whatever is felt within me, whatever order is felt within me, from myself, that I
 
-*[p. 187]* ^pg187
+*[PDF 187]* ^pg187
 
 have to obey.” It is the direction he gets from his master. Up to that point, he has to tread according to the directions of the master. Afterwards, the master’s job is over.” *Special Verses on Practice*, 44 (LJA archives).
 
@@ -110,7 +110,7 @@ The next state is the state of *sadāśiva*. The observer of this state is calle
 
 The seventh and last state is the state of Śiva and the observer of this state is no other than Śiva Himself. In the other six, the state is one thing and the observer is something else. In this final state, the state is Śiva and the observer is also Śiva. There is nothing outside Śiva. The *mantra* in this state is “*ahaṁ*”, universal-I. This-ness is gone, melted in His I-ness. This state is completely filled with
 
-*[p. 188]* ^pg188
+*[PDF 188]* ^pg188
 
 consciousness, bliss, will, knowledge, and action.”
 
@@ -132,7 +132,7 @@ There are only two names actually attributed to this state of *turyātīta*, one
 
 *Kashmir Shaivism–The Secret Supreme*, 11.72-84.
 
-*[p. 189]* ^pg189
+*[PDF 189]* ^pg189
 
 *“Pūrṇatūnmukhyī daśā*, \[*turya*\] is situated towards the fullness of God consciousness, it is not the fullness of God consciousness. It is situated *towards* the fullness of God consciousness.” *Tantrāloka* 10.271-278 (LJA archive).
 
@@ -162,7 +162,7 @@ There is a difference between *pramātṛ bhāva* and *pramiti bhāva*. *Pramāt
 
 *Tantrāloka* 6.180 (LJA archive).
 
-*[p. 190]* ^pg190
+*[PDF 190]* ^pg190
 
 7\. *Malas*
 
@@ -194,7 +194,7 @@ If you realize that it is *svarūpa svātantrya māṭraṁ*, \[that\] it is you
 
 8\. Seven States of *Ānanda* (*turya*)
 
-*[p. 191]* ^pg191
+*[PDF 191]* ^pg191
 
 The following paraphrase is from *Kashmir Shaivism–The Secret Supreme*, 16.107:
 
@@ -212,7 +212,7 @@ When you stop your breathing, then what happens next is, the gate of the central
 
 After *mahānanda*, no effort is required by the aspirant. From this point on, everything is automatic. There is however one thing that the aspirant should observe and be cautious about, and that is that he should not think that “everything is now automatic.” The more he thinks that everything will be
 
-*[p. 192]* ^pg192
+*[PDF 192]* ^pg192
 
 automatic, the more surely he will remain at the state of *mahānanda*. This is why masters never tell what will take place after *mahānanda*.
 
@@ -232,7 +232,7 @@ In respect of the above experiences, Swamiji once wrote the following poem.
 
 There is a point twixt sleep and waking Where thou shalt be alert without shaking.
 
-*[p. 193]* ^pg193
+*[PDF 193]* ^pg193
 
 Enter into the new world where forms so hideous pass; They are passing—endure, do not be taken by the dross.
 
@@ -262,7 +262,7 @@ That *yogi* is absolutely filled with the state of joy, with the state of bliss,
 
 Then that fourth state of *udānana vṛtti* takes place, where the *yogi* finds that this ball is melted in that sound of bliss. *Shssssssssssssssssssssssssssssssssssss*, this very long sound is produced there
 
-*[p. 194]* ^pg194
+*[PDF 194]* ^pg194
 
 and this ball is melted inside. Finished. There is no breath; this breathing process is finished. This is the state of *mahānanda.* And that sound that is not only the *shssssssssssssssssss* sound, sexual joy appears there with that sound. When you are fully established there, and have settled your awareness fully there, then, in that supreme *tejas*, the supreme light, he gets dissolved, he gets melted. He melts for good.
 
@@ -288,7 +288,7 @@ It is important to realize that though there are different *upāya*s, all lead y
 
 10\. Yoga Vasiṣṭha
 
-*[p. 195]* ^pg195
+*[PDF 195]* ^pg195
 
 “Vasiṣṭha *ṛṣi* was explaining the state of God Consciousness to Rāma, his disciple. At one place he has explained to him: *Hastaṁ hastena saṁpīḍya*, just squeeze your hands, *dantairdantāṁśca pīḍayan*, just squeeze your teeth, *aṅgānyaṅgairsamākramya*, and squeeze all your organs. *Jayedādau svakaṁ manaḥ*, conquer your mind first, this is the only thing you have to do in this world, in this life. You have to conquer your mind. Don’t \[allow\] your mind going astray here and there. So this is the most essential thing one has to do: just to conquer your mind. Don’t let it go astray here and there. Because \[the mind\] goes astray without any purpose. There is no purpose. For instance, \[the mind\] thinks, “This is a tape recorder”. This is untimely thinking. “This is a tape recorder”, what will come out of it? \[You are\] only becoming astray. “This is a chair”, what to me? Why this thought came at all? It is no use to think these things. You should think only \[of that\] which you need. For instance, you have to prepare your meals. \[Just\] think that. Don’t think that, “This is a \[microphone\]”, “This is a table”, “This is a tablecloth”–it is not needed. So you should not \[let\] your mind go astray like this. This is what Vasiṣṭḥa explained to Rāma in that *śloka*.
 
@@ -312,7 +312,7 @@ Antaḥkaraṇas – Three Internal Organs
 
 Buddhiḥ = intellect Ahaṁkāra = ego connected with objectivity Manas = mind
 
-*[p. 196]* ^pg196
+*[PDF 196]* ^pg196
 
 Pañca jñānendriyas – Five Organs of Cognition
 
@@ -340,7 +340,7 @@ For a complete explanation of the thirty-six *tattva*s, see *Kashmir Shaivism–
 
 12\. *Prakāśa* and *Vimarśa*
 
-*[p. 197]* ^pg197
+*[PDF 197]* ^pg197
 
 “In the world of Shaivite philosophy, Lord Śiva is seen as being filled with light. But more than this, Lord Śiva is the embodiment of light and this light is different than the light of the sun, of the moon, or of fire. It is light (*prakāśa*) with Consciousness (*vimarśa*), and this light with Consciousness is the nature of that Supreme Consciousness, Lord Śiva.
 
@@ -366,7 +366,7 @@ This universe, which is created in His Consciousness, is dependent on that Consc
 
 *Parātrīśikā Vivaraṇa* (LJA archives).
 
-*[p. 198]* ^pg198
+*[PDF 198]* ^pg198
 
 As long as the kingdom of God consciousness is there, there is no place for the kingdom of the mind. The junk of thoughts don’t come in God consciousness. They have no right to come, they have no room to come.
 
@@ -404,7 +404,7 @@ Ibid., 6.41.
 
 Ibid., 9.41.
 
-*[p. 199]* ^pg199
+*[PDF 199]* ^pg199
 
 “These \[*kañcuka*s\] are pertaining to the individual being. It is why \[the grammarian\] Pāṇini has also accepted these, the representatives of these \[*kañcuka*s as the letters\] *ya*, *ra*, *la*, *va*; these letters as *antaḥstha.* And all these \[subtle\] energies are found, not outside the individual being, but inside the individual being, inside the thought of the individual being, inside the perception of the individual being. So they are named, nominated, by the grammarian \[Pāṇini\], as “*antaḥ-stha*”. *Antaḥstha* means, that which is residing inside of the individual being*.* We say that it is not *antaḥstha*, it is *dhāraṇā* \[lit., the bearing or support\] because it gives *life* to the individual being. The individual being is created, the individual being is glorified, by these five elements (“five” means, the five coverings); the glory of his own place, not the glory of Śiva; glorified with his own . . . that limited sphere.”
 
@@ -428,7 +428,7 @@ Ibid., 4.29-30.
 
 “In fact, there is one God and no one else. You have to accept that there is only one God, not individuals, nothing– only one God. This \[universe\] is the kingdom of God in the body of God. This is only the kingdom of God. And that God is *svatantrya* (independent), *cidrūpa* (filled with
 
-*[p. 200]* ^pg200
+*[PDF 200]* ^pg200
 
 consciousness), *svabhāvata prakāśa ātmā* (by nature He is all-light). He has become many by the playful act of His concealing way, *svātma*, concealing His own nature, whenever He likes to conceal His own nature. And that is a blissful act–that too is a blissful act. And when He conceals His nature, He becomes many. When He reveals His nature, He becomes one. *Svayaṁ*, by His own nature, by His own divine will, *kalpita ākāra vikalpātmaka*, \[He\] creates an artificial way of thoughts, many thoughts, e.g., ‘This is a stove’, ‘This is specks’, ‘This is good, this is bad’, ‘This is a brick’, ‘This is Denise’, ‘This is a book’, or all of these things, *vikalpātmaka*, by His own playful act of *vikalpa*s, thoughts, many thoughts. Otherwise, in God you will see only one thought. That thought is *ahaṁ*, universal-I. That thought is the real nature of God. And by that real nature of God, \[He\] creates various thoughts, variety of thoughts, by His own free will. *Karmabhiḥ*, and He creates variety of actions. Otherwise, there is only one act: creation, protection, destruction, concealing and revealing. This is only one act–the fivefold act. The fivefold act is His own nature, but He wants to conceal It. For instance, anybody who is overjoyed, he wants to jump, he wants to kill himself, he wants to slaughter himself because of the reaction of being overjoyed. In the same way, God is overjoyed by that blissful state of His own nature. And by that, the reaction is that He wants to conceal His nature of that blissful joy, then He becomes many. This is the reality of God.”
 

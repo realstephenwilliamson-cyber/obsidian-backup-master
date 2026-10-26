@@ -36,6 +36,6 @@ As for the deluge of meanings given to the term in contemporary culture, only a 
 
 Cambridge, Massachusetts, May 2005
 
-*[p. 11]* ^pg11
+*[PDF 11]* ^pg11
 
 1\. A Latin translation of *Shaaey Ora* (“The Gates of Light”), one of the most influential presentations of the kabbalistic world-view, written by Joseph Gikatilla in the thirteenth century.

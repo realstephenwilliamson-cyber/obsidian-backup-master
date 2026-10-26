@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Mystery 03 - Second FlowVerses 1 - 7|← previous]] · [[The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|contents]] · [[The Mystery 05 - Vasugupta's ConclusionVerses 1 - 2|next →]]
 
-*[p. 47]* ^pg47
+*[PDF 47]* ^pg47
 
 ## Third FlowVerses 1 – 19
 
@@ -60,7 +60,7 @@ SWAMIJI: Fame and showing *yogic* powers, flying and everything, whatever it is.
 
 . . . *jāgrato’rthān hṛdi sthitān*, those objects that he wants to achieve in wakefulness, with this determination that he will achieve them in wakefulness, he goes on meditating on God, Lord Śiva, and
 
-*[p. 48]* ^pg48
+*[PDF 48]* ^pg48
 
 at that time of *samādhi*, when he achieves the reality of God consciousness–he enters in that state of *samādhi*–and afterwards, when he comes out from *samādhi*, as the thought for attainment of power was there in the beginning, but not in the course of meditation, . . .\*
 
@@ -96,7 +96,7 @@ SWAMIJI: He knows that. He knows in the dreaming state that he is dreaming. \[He
 
 JOHN: So he has awareness in the dreaming state.
 
-*[p. 49]* ^pg49
+*[PDF 49]* ^pg49
 
 SWAMIJI: He has awareness in the dreaming state. Awareness must be. It is a must. It is the first .
 
@@ -142,7 +142,7 @@ GANJOO: “This is mine, this is yours.”
 
 DENISE: “I am pretty”, “I am ugly”.
 
-*[p. 50]* ^pg50
+*[PDF 50]* ^pg50
 
 DENISE: A small child never thinks these kind of things.
 
@@ -184,7 +184,7 @@ JOHN: Takes his mind away from his . . .
 
 SWAMIJI: That nature<sup>95</sup> does not allow him to go in the dreaming state with consciousness. Nature does not allow him to go in wakefulness with awareness. That, he, snatches the state of awareness from him. When you are meditating, not with that zeal, not with that continuity–when you don’t meditate in wakefulness in that continuity which you ought to have done–then *svatantrā syāt*,
 
-*[p. 51]* ^pg51
+*[PDF 51]* ^pg51
 
 then the kingdom of nature will rule on you. So, there is no hope of getting \[*svapna*\] *svātantrya*, the power of that, “I will dream like this, I will dream this, I will. . . .” That won’t come true.
 
@@ -220,7 +220,7 @@ SWAMIJI: No, in wakefulness. In wakefulness, you don’t perceive properly what 
 
 SWAMIJI: *Yathā hyartho asphuṭo dṛṣṭaḥ*, it is not vividly seen; any object which is not vividly seen. *Sāvadhāne*, when you put all the force of your attention towards it, then you come to see it \[and
 
-*[p. 52]* ^pg52
+*[PDF 52]* ^pg52
 
 realize\] that, “Oh, this is this thing”. *Sāvadhāne’pi cetasi bhūyaḥ sphuṭataro bhāti*, it is your own power of will that you make it vividly perceived. This is the example.
 
@@ -250,7 +250,7 @@ SWAMIJI: Yes, here. That is called Sarveśvara, Sarveśvara mountain.<sup>97</su
 
 . . . for instance, a *yogi* is there, a *yogi* wants to go there, and he is weak, he is feeble, there is some physical trouble in his body, he can’t walk, *durbalo’pi*, because he is very weak– he can’t walk, so there is no hope for him to ascend that peak– *durbalo’pi*, although he is so weak, *tadākramya*, if he holds that power of God consciousness, if he just breathes in and out as we already explained–how you should breath in and out after getting out from *samādhi*; breathe in and out, in and out, in and out, for several \[breaths\]–*tadā kārye pravartate*, \[then\] he gets that strength that he can climb the hill.
 
-*[p. 53]* ^pg53
+*[PDF 53]* ^pg53
 
 *Ācchādayedbubhukṣāṁ ca*, \[or if\] he has too much appetite and there is nothing to give him, if he has poverty and he can’t afford food and he has an appetite (*ācchādya-bubhukṣām ca*), \[he should\] just go in meditation. If he is a *yogi*, he will go in meditation, enter in *samādhi*, and come out from *samādhi*, breathe ten times in and out, in and out with great awareness, \[then\] he will be full; he will feel that he is full, he has no appetite.
 
@@ -304,7 +304,7 @@ ANDY: If a *yogi* is above bodily attachment, will he not be in a position of hu
 
 SWAMIJI: No, for him, Lord Śiva will \[provide\] his dish! There is no worry for him. If he has not attachment for his body, Lord Śiva will serve him all-round. He will look after him. Just a pretty girl will look after him, lipsticks and everything (laughter). He is the prettiest man in this world. Who?
 
-*[p. 54]* ^pg54
+*[PDF 54]* ^pg54
 
 DENISE: Lord Śiva.
 
@@ -326,7 +326,7 @@ For instance, if you want to move your finger, you can move your finger without 
 
 *Anenādhiṣṭhite dehe yathā sarvajñatādayaḥ* (this is an example for individuality), as in the individual body, you feel the pervasion \[of consciousness\] throughout the whole body without any other additional effort (e.g., you can move your eyes just by will, or you can move your nose)–the pervasion of God consciousness is fully existing in the body–in the same way, if you pervade this God consciousness everywhere in the universe, you can move the whole universe. You can take this mountain and dash it down by will. You can \[do this\] just as you do in your body.
 
-*[p. 55]* ^pg55
+*[PDF 55]* ^pg55
 
 *glānirviluṇṭhikā dehe tasyāścājñānataḥ sṛtiḥ / tadunmeṣaviluptaṁ cetkutaḥ sā syādahetukā*
 
@@ -350,7 +350,7 @@ SWAMIJI: No, another thing. Another thing will take place, that is \[*sāmānya*
 
 ERNIE: Concentrate.
 
-*[p. 56]* ^pg56
+*[PDF 56]* ^pg56
 
 SWAMIJI: Concentrate on that one point!
 
@@ -386,7 +386,7 @@ SWAMIJI: . . . divine light, divine sound, divine form, and divine taste. These 
 
 JOHN: So this is *śā*ktopāya<sup>106</sup> here, entering in the gap between two thoughts? This second one, your thought ends . . .
 
-*[p. 57]* ^pg57
+*[PDF 57]* ^pg57
 
 SWAMIJI: No, the first one is *śāktopāya*. The first one is *śāktopāya*, and if that *śāktopāya* is not adopted with full effort, full attentiveness, then you slip in that inferior state of God consciousness. There, it has nothing to do with *śāktopāya*. It is just when your effort is lessened, when your effort of *śāktopāya* like this is lessened–it is less, it is not so strong, it is not so filled with will power–then you slip in the cycle of God consciousness, which is inferior. And yet that inferior God consciousness will give rise to divine things, divine sounds, divine forms, divine tastes. And there is an apprehension of being stuck in that world.
 
@@ -446,7 +446,7 @@ SWAMIJI: I think you should fully nourish your system with *ghee*, with butter, 
 
 DENISE: That helps?
 
-*[p. 58]* ^pg58
+*[PDF 58]* ^pg58
 
 SWAMIJI: It may help. It means, strength of mind. You need strength of mind, thought power. ERNIE: Which comes from meditation.
 
@@ -482,7 +482,7 @@ ERNIE: Yes, but doesn’t that have to be . . . I mean, it can’t be a fantasy,
 
 JOHN: This is imagination? I mean, infusing all your thoughts with God consciousness. First you have to imagine that, “This is God consciousness”, “This is God consciousness”, in the beginning. It’s not a . . .
 
-*[p. 59]* ^pg59
+*[PDF 59]* ^pg59
 
 SWAMIJI: Yes, yes. God consciousness is, just remain attentive between two breaths, in the center of two breaths. If you don’t move your consciousness from the center of two breaths in any case, no worry. That works.<sup>109</sup>
 
@@ -522,7 +522,7 @@ SWAMIJI: Yes, imagination! Imagination works! Imagination is transformed into re
 
 *Prabuddhaḥ sarvadā tiṣṭhet*, always remain attentive, alert! *Jñānenālokya gocaram*, feel everything as one with divine consciousness. *Ekatrāropayet sarvam*, just focus each and every activity of your world towards God consciousness. *Tato ’nyena na*, so there is no worry afterwards \[because\] you are one with God consciousness, you are living in God consciousness.
 
-*[p. 60]* ^pg60
+*[PDF 60]* ^pg60
 
 \[Kṣhemarāja\] gives a reference of the *Utpalastotr*āvalī<sup>111</sup> here:
 
@@ -544,7 +544,7 @@ SWAMIJI: It is without meaning. That is the power of *śabdarāśi*. *Śabdarā�
 
 *Śakti vargasya bhogyatām*, one who has become the object of these *śabdarāśi* (an object is \[like a\] football, when you become a football of these *śabdarāśi*), they will kick you from one side to another side, and you will be nowhere existing. You will be sometimes blissful, sometimes happy, sometimes sad, sometimes tortured, sometimes crying, sometimes screaming–all this will happen. *Kalā vilupta vibhava*, and by these energies<sup>113</sup>, your glamour of God consciousness will be destroyed altogether. When it is destroyed, you are just like a *paśu*, just like a beast then, and you have to undergo this, the repeated cycle of repeated births and deaths. So you should not do that.
 
-*[p. 61]* ^pg61
+*[PDF 61]* ^pg61
 
 *parāmṛtarasāpāyastasya yaḥ pratyayodbhavaḥ / tenāsvatantratāmeti sa ca tanmātragocaraḥ*
 
@@ -566,7 +566,7 @@ GANJOO: Exist.
 
 SWAMIJI: No, take place. Work, they work (*vighnāyuto sahasraṁ tu*), *parotsāha*, with great . . . ERNIE: Vigor.
 
-*[p. 62]* ^pg62
+*[PDF 62]* ^pg62
 
 SWAMIJI: . . . with great vigor, they work like this. *Praharati*, and they attack, *aniśam*, day and night. *Jantoḥ*, they work on that person, *sat vastvabhimukhasya*, who wants to do something good. He who wants to do something good, they don’t, they won’t, let him to do that good.
 
@@ -602,7 +602,7 @@ SWAMIJI: Disturbing you, they will disturb you in your own way. For instance, yo
 
 ERNIE: So, you could do, “*oṁ namaḥ śivāya*, *oṁ namaḥ śivāya* . . . gosh, I am a good boy for
 
-*[p. 63]* ^pg63
+*[PDF 63]* ^pg63
 
 doing this.”
 
@@ -644,7 +644,7 @@ ERNIE: That’s even more strong.
 
 SWAMIJI: More strong, yes.
 
-*[p. 64]* ^pg64
+*[PDF 64]* ^pg64
 
 *tanmātrodayarūpeṇa mano’haṁ buddhivartinā / puryaṣṭakena saṁrūddhastadutthaṁ pratyayodbhavam* //*17 bhuṅkte paravaśo bhogaṁ tadbhāvātsaṁsaredataḥ /* *saṁsṛtipralayasyāsya kāraṇaṁ saṁpracakṣmahe* //*18*//
 
@@ -665,7 +665,7 @@ JOHN: The five *tanmātra*s and the three inner organs.<sup>121</sup> SWAMIJI: F
 *yadā tvekatra saṁrūḍhastadā tasya layodayau /* *niyacchanbhoktṛtāmeti tataścakreśvaro bhavet* //*19*//
 Just be attentive to one-pointedness, that is all (*yada ekatra saṁrūḍha*). *Tadā tasya pralayodayau*
 
-*[p. 65]* ^pg65
+*[PDF 65]* ^pg65
 
 *niyacchan*, *bas*, see that it is not destroyed–don’t give rise to it, don’t let it fall.
 
@@ -724,7 +724,7 @@ SWAMIJI: One point. This is the first . . . this is the first . . . this is the 
 98\. “This is the real *samādhi* when you get entry in *jagadānanda*.” *Tantrāloka* (LJA archives), 5.62 commentary. See Appendix 3 for an explanation of *samādhi*, and Appendix 8 for an explanation of the Seven States of *ānanda* (bliss).
 
 
-*[p. 66]* ^pg66
+*[PDF 66]* ^pg66
 
 99 *ananyaścinta yanto māṁ ye janāḥ paryupāsate, teṣāṁ nityabhiyuktānāṁ yogak ṣemaṁ vahāmyaham*, *Bhagavad Gītā*, 9.23. 100 “*Svaśaktipracayo’sya viśvam*, for him, this universe is the embodiment of his collective energies.” *Śiva Sūtras*–*The Supreme Awakening*, 3.30, 3.37.
 
@@ -775,6 +775,6 @@ SWAMIJI: One point. This is the first . . . this is the first . . . this is the 
 124 *hastaṁ hastena saṁpīḍya dantairdantāṁśca pīḍayan / aṅgānyaṅgairsamākramya jayedādau svakaṁ manaḥ /*/
 Yogavāsiṣṭhasāra. “Ball your fists, clench your teeth, and tense all the muscles of your body, but conquer your mind. This is the advice of Vasiṣṭha to Rāma. He tells him that he must first conquer his mind.” *Self Realization in Kashmir Shaivism*, 2.44. See Appendix 10 for
 
-*[p. 67]* ^pg67
+*[PDF 67]* ^pg67
 
 Swamiji’s complete exposition of this verse from the *Yoga Vasiṣṭha*.

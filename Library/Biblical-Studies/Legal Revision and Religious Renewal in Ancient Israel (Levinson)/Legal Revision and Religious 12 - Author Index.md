@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Legal Revision and Religious 11 - 6 The Phenomenon of Rewriting within the Hebrew Bible A|← previous]] · [[Legal Revision and Religious Renewal in Ancient Israel (Levinson)|contents]] · [[Legal Revision and Religious 13 - Subject Index|next →]]
+[[Legal Revision and Religious 11 - 6 The Phenomenon of Rewriting within the Hebrew Bible (continued)|← previous]] · [[Legal Revision and Religious Renewal in Ancient Israel (Levinson)|contents]] · [[Legal Revision and Religious 13 - Subject Index|next →]]
 
 *[p. 183]* ^pg211
 

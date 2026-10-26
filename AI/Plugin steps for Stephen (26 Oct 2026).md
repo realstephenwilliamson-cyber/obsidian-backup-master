@@ -89,16 +89,6 @@ Notes:
 
 A saved layout also records the ribbon's hidden items (`left-ribbon.hiddenItems` in each layout). Save it with the ribbon as you want it. Vertical Tabs' group names are kept per device and may not come back with a layout (Guide).
 
-**Steps (laptop):**
-
-1. Close the tabs you do not want, or load *Sanskrit* as a starting point.
-2. Open the three notes of the left group as tabs.
-3. Right-click the last tab → *Split right*; open the scratchpad there.
-4. Split it down and open the three reference notes as tabs.
-5. In the right sidebar, close the Smart Connections, Smart Environment status and Callout Studio occurrences panes; keep Calendar, File properties, Outline and Backlinks.
-6. Check that no Spaced Repetition tab is open (a layout saved with one comes back as a blank tab).
-7. Save: the ribbon's *Manage workspace layouts* button, or Ctrl+P → *Workspaces: Save layout*, name **Study session**.
-
 The Note Toolbar's *Layout* item can then run *Workspaces: Load workspace layout* (it opens the picker: two clicks).
 
 ## 3. Omnisearch, unsupported files (D9)

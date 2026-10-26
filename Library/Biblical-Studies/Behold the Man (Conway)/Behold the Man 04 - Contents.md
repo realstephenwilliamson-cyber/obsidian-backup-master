@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Behold the Man 03 - Preface|← previous]] · [[Behold the Man (Conway)|contents]] · [[Behold the Man 05 - Behold the Man|next →]]
+[[Behold the Man 03 - Preface|← previous]] · [[Behold the Man (Conway)|contents]] · [[Behold the Man 05 - Half-title|next →]]
 
 *[PDF 12]* ^pg12
 

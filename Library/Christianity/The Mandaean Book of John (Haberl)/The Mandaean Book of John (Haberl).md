@@ -16,11 +16,11 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Mandaean Book of John 01 - 978311048651_Haberl_open_i-xi|978311048651\_Häberl\_open\_i-xi]] (pp. i–1)
-- [[The Mandaean Book of John 02 - 02_text, part 1|02\_text, part 1]] (pp. 2–38)
-- [[The Mandaean Book of John 03 - 02_text, part 2|02\_text, part 2]] (pp. 39–75)
-- [[The Mandaean Book of John 04 - 02_text, part 3|02\_text, part 3]] (pp. 76–112)
-- [[The Mandaean Book of John 05 - 02_text, part 4|02\_text, part 4]] (pp. 113–149)
-- [[The Mandaean Book of John 06 - 02_text, part 5|02\_text, part 5]] (pp. 150–186)
-- [[The Mandaean Book of John 07 - 02_text, part 6|02\_text, part 6]] (pp. 187–221)
-- [[The Mandaean Book of John 08 - 03_index|03\_index]] (pp. 222–224)
+- [[The Mandaean Book of John 01 - Front matter|Front matter]] (pp. i–1)
+- [[The Mandaean Book of John 02 - Chapters 1-13, Truth's Questions - The Creation|Chapters 1–13, Truth’s Questions – The Creation]] (pp. 2–38)
+- [[The Mandaean Book of John 03 - Chapter 13 (end), Chapters 14-27, Truth's Shem - John-Johannes|Chapter 13 (end), Chapters 14–27, Truth’s Shem – John-Johannes]] (pp. 39–75)
+- [[The Mandaean Book of John 04 - Chapter 27 (end), Chapters 28-35, John-Johannes - Meryey|Chapter 27 (end), Chapters 28–35, John-Johannes – Meryey]] (pp. 76–112)
+- [[The Mandaean Book of John 05 - Chapter 35 (end), Chapters 36-52, The Soul Fisher - The Planets|Chapter 35 (end), Chapters 36–52, The Soul Fisher – The Planets]] (pp. 113–149)
+- [[The Mandaean Book of John 06 - Chapter 52 (end), Chapters 53-62, The Planets - The Creation|Chapter 52 (end), Chapters 53–62, The Planets – The Creation]] (pp. 150–186)
+- [[The Mandaean Book of John 07 - Chapter 62 (end), Chapters 63-76, The Aftermath - Excellent Ennosh in Jerusalem|Chapter 62 (end), Chapters 63–76, The Aftermath – Excellent Ennosh in Jerusalem]] (pp. 187–221)
+- [[The Mandaean Book of John 08 - Index|Index]] (pp. 222–224)

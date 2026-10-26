@@ -18,7 +18,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 ## Contents
 
 - [[What Makes Life Worth Living 01 - Front matter|Front matter]] (pp. c1–c2)
-- [[What Makes Life Worth Living 02 - Section|Section]] (pp. c3–58)
-- [[What Makes Life Worth Living 03 - The Thing, Kenosis and the|The Thing, Kenosis and the]] (pp. 59–98)
-- [[What Makes Life Worth Living 04 - Part IV|Part IV]] (pp. 99–151)
+- [[What Makes Life Worth Living 02 - Front matter, Introduction and Chapters 1-3, Apocalypse Without God - Pharmacology of Nuclear Fire|Front matter, Introduction and Chapters 1–3, Apocalypse Without God – Pharmacology of Nuclear Fire]] (pp. c3–58)
+- [[What Makes Life Worth Living 03 - Chapters 4-5, The Thing, Kenosis and the Power to Infinitize - Economizing Means Taking Care|Chapters 4–5, The Thing, Kenosis and the Power to Infinitize – Economizing Means Taking Care]] (pp. 59–98)
+- [[What Makes Life Worth Living 04 - Part IV, Chapters 6-7 and Notes and References, The Time of the Question - Disposable Children|Part IV, Chapters 6–7 and Notes and References, The Time of the Question – Disposable Children]] (pp. 99–151)
 - [[What Makes Life Worth Living 05 - Index|Index]] (pp. 152–169)

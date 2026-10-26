@@ -24,6 +24,42 @@ The bulk of the rest of the book gives instructions for the ritual practices and
 
 [^1]: See the Canons of Athanasius and Eusebius. For further information on the Didache, see Ehrman, *Lost Christianities*, 48–49.
 
+*[p. 212]* ^pg221
+
+The book concludes with a kind of “apocalyptic discourse,” an exhortation to be prepared for the imminent end of the world, to be brought by “the Lord coming on the clouds of the sky” (16:7). 
+
+The Didache’s anonymous author appears to be familiar with earlier Christian traditions such as those embodied in Matthew’s Gospel, but he does not evidence any familiarity with the rigid form of church hierarchy that had developed later in the second century (even though he speaks of bishops and deacons). For these reasons, scholars tend to date the book around 100 or 120 ce. It is probable, though, that the author compiled his account from several sources written at earlier times. 
+
+The teaching of the Lord through the twelve apostles to the Gentiles.[^a] 1 There are two paths, one of life and one of death, and the difference between the two paths is great. 
+
+2 This then is the path of life. First, love the God who made you, and second, your neighbor as yourself.[^2] And whatever you do not want to happen to you, do not do to another.[^3] 
+
+3 This is the teaching relating to these matters: Bless those who curse you, pray for your enemies, and fast for those who persecute you. For why is it so great to love those who love you? Do the Gentiles[^b] not do this as well? But you should love those who hate you[^4]—then you will have no enemy. 
+
+4 Abstain from fleshly passions.[^5] If anyone slaps your right cheek, turn the other to him as well[^6]—and you will be perfect.[^7] If anyone compels you to go one mile, go with him two. If anyone takes your cloak, give him your shirt as well. 
+
+If anyone seizes what is yours, do not ask for it back,[^8] for you will not be able to get it. 
+
+5 Give to everyone who asks, and do not ask for anything back.[^9] For the Father wants everyone to be given something from the gracious gifts he himself provides. How fortunate is the one who gives according to the commandment, for he is without fault. Woe to the one who receives. For if anyone receives because he is in need, he is without fault. But the one who receives without a need will have to testify why he received what he did, and for what purpose. And he will be thrown in prison and interrogated about what he did; and he will not get out until he pays back every last cent.[^10] 6 For it has also been said concerning 
+
+this: “Let your gift to charity sweat in your hands until you know to whom to give it.”[^11] 2 And now the second commandment of the teaching. 
+
+2 Do not murder, do not commit adultery,[^12] do not engage in pederasty, do not 
+
+[^a]: Or: *nations*
+[^b]: Or: *nations*
+[^2]: [[Matthew 22#^22-37|Matt 22:37–39]]; [[Mark 12#^12-30|Mark 12:30–31]]; [[Luke 10#^10-27|Luke 10:27]]; [[Torah 45 - Vaetchanan#^6-5|Deut 6: 5]]; [[Torah 30 - Kedoshim#^19-18|Lev 19:18]].
+[^3]: Cf. [[Matthew 07#^7-12|Matt 7:12]]; [[Luke 06#^6-31|Luke 6:31]].
+[^4]: Cf. [[Matthew 05#^5-44|Matt 5:44]], [[Matthew 05#^5-46|46–47]]; [[Luke 06#^6-28|Luke 6:28]], [[Luke 06#^6-32|32–33]], [[Luke 06#^6-35|35]].
+[^5]: [[1 Peter 02#^2-11|1 Pet 2:11]].
+[^6]: [[Matthew 05#^5-39|Matt 5:39]].
+[^7]: [[Matthew 05#^5-48|Matt 5:48]].
+[^8]: Matt 4:41, 40; [[Luke 06#^6-29|Luke 6:29– 30]].
+[^9]: [[Luke 06#^6-30|Luke 6:30]].
+[^10]: Cf. [[Matthew 05#^5-26|Matt 5:26]]; [[Luke 12#^12-59|Luke 12:59]].
+[^11]: Source unknown.
+[^12]: The following passage elaborates [[Torah 17 - Yitro#^20-13|Exod 20:13–17]]; cf. [[Matthew 19#^19-18|Matt 19:18]]; [[Matthew 05#^5-33|5:33]].
+
 *[p. 213]* ^pg216
 
 engage in sexual immorality. Do not steal, do not practice magic, do not use enchanted potions, do not abort a fetus or kill a child that is born. 
@@ -248,42 +284,6 @@ the Lord: “In every place and time, bring me a pure sacrifice. For I am a grea
 [^31]: Cf. [[Matthew 24#^24-31|Matt 24:31]]; [[1 Corinthians 15#^15-52|1 Cor 15:52]]; [[1 Thessalonians 04#^4-16|1 Thess 4:16]].
 [^32]: [[Zechariah 14#^14-5|Zech 14:5]]; [[1 Thessalonians 03#^3-13|1 Thess 3:13]].
 [^33]: Cf. [[Matthew 24#^24-30|Matt 24:30]].
-
-*[PDF 221]* ^pg221
-
-The book concludes with a kind of “apocalyptic discourse,” an exhortation to be prepared for the imminent end of the world, to be brought by “the Lord coming on the clouds of the sky” (16:7). 
-
-The Didache’s anonymous author appears to be familiar with earlier Christian traditions such as those embodied in Matthew’s Gospel, but he does not evidence any familiarity with the rigid form of church hierarchy that had developed later in the second century (even though he speaks of bishops and deacons). For these reasons, scholars tend to date the book around 100 or 120 ce. It is probable, though, that the author compiled his account from several sources written at earlier times. 
-
-The teaching of the Lord through the twelve apostles to the Gentiles.[^a] 1 There are two paths, one of life and one of death, and the difference between the two paths is great. 
-
-2 This then is the path of life. First, love the God who made you, and second, your neighbor as yourself.[^2] And whatever you do not want to happen to you, do not do to another.[^3] 
-
-3 This is the teaching relating to these matters: Bless those who curse you, pray for your enemies, and fast for those who persecute you. For why is it so great to love those who love you? Do the Gentiles[^b] not do this as well? But you should love those who hate you[^4]—then you will have no enemy. 
-
-4 Abstain from fleshly passions.[^5] If anyone slaps your right cheek, turn the other to him as well[^6]—and you will be perfect.[^7] If anyone compels you to go one mile, go with him two. If anyone takes your cloak, give him your shirt as well. 
-
-If anyone seizes what is yours, do not ask for it back,[^8] for you will not be able to get it. 
-
-5 Give to everyone who asks, and do not ask for anything back.[^9] For the Father wants everyone to be given something from the gracious gifts he himself provides. How fortunate is the one who gives according to the commandment, for he is without fault. Woe to the one who receives. For if anyone receives because he is in need, he is without fault. But the one who receives without a need will have to testify why he received what he did, and for what purpose. And he will be thrown in prison and interrogated about what he did; and he will not get out until he pays back every last cent.[^10] 6 For it has also been said concerning 
-
-this: “Let your gift to charity sweat in your hands until you know to whom to give it.”[^11] 2 And now the second commandment of the teaching. 
-
-2 Do not murder, do not commit adultery,[^12] do not engage in pederasty, do not 
-
-[^a]: Or: *nations*
-[^b]: Or: *nations*
-[^2]: [[Matthew 22#^22-37|Matt 22:37–39]]; [[Mark 12#^12-30|Mark 12:30–31]]; [[Luke 10#^10-27|Luke 10:27]]; [[Torah 45 - Vaetchanan#^6-5|Deut 6: 5]]; [[Torah 30 - Kedoshim#^19-18|Lev 19:18]].
-[^3]: Cf. [[Matthew 07#^7-12|Matt 7:12]]; [[Luke 06#^6-31|Luke 6:31]].
-[^4]: Cf. [[Matthew 05#^5-44|Matt 5:44]], [[Matthew 05#^5-46|46–47]]; [[Luke 06#^6-28|Luke 6:28]], [[Luke 06#^6-32|32–33]], [[Luke 06#^6-35|35]].
-[^5]: [[1 Peter 02#^2-11|1 Pet 2:11]].
-[^6]: [[Matthew 05#^5-39|Matt 5:39]].
-[^7]: [[Matthew 05#^5-48|Matt 5:48]].
-[^8]: Matt 4:41, 40; [[Luke 06#^6-29|Luke 6:29– 30]].
-[^9]: [[Luke 06#^6-30|Luke 6:30]].
-[^10]: Cf. [[Matthew 05#^5-26|Matt 5:26]]; [[Luke 12#^12-59|Luke 12:59]].
-[^11]: Source unknown.
-[^12]: The following passage elaborates [[Torah 17 - Yitro#^20-13|Exod 20:13–17]]; cf. [[Matthew 19#^19-18|Matt 19:18]]; [[Matthew 05#^5-33|5:33]].
 
 *[PDF 222]* ^pg222
 

@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF; 1 pages read by OCR (Tesser
 converted: 2026-10-07
 ---
 
-[[Sri Vamakesvari Matam 03 - sri vamakesvari matam|← previous]] · [[Sri Vamakesvari Matam (Jayaratha)|contents]]
+[[Sri Vamakesvari Matam 03 - Jayaratha's Vivarana Commentary, First Patala|← previous]] · [[Sri Vamakesvari Matam (Jayaratha)|contents]]
 
 *[p. 79]* ^pg79
 

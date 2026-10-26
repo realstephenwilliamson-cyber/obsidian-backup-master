@@ -72,7 +72,7 @@ primary sense refer to abstract properties[^L58-10] °—and by their shape, whi
 
 \$.
 
-[^L58-5]: The point is this. Usually the karana (instrument) and the kartr (agent) are kept distinct and given different case endings. Nakha is usually a karano, the means of accomplishing something. and not a kartr. Now a kartr is the chief of all the kārakas; all other kārakas are dependent (svatantrah kart). Therefore by presenting the nakhas themselves as the agent, that is, by placing nakṁāh in tbe nominative instead of the instrumental case, the extraordinary power of these claws is suggested. This is an instance of vastudhṁvani.
+[^L58-5]: The point is this. Usually the karaṇa (instrument) and the kartṛ (agent) are kept distinct and given different case endings. Nakha is usually a karaṇa, the means of accomplishing something, and not a kartṛ. Now a kartṛ is the chief of all the kārakas; all other kārakas are dependent (svatantraḥ kartā). Therefore by presenting the nakhas themselves as the agent, that is, by placing nakhāḥ in the nominative instead of the instrumental case, the extraordinary power of these claws is suggested. This is an instance of vastudhvani.
 
 [^L58-6]: Dhvanitaś co refers to a second vastudhvani.
 

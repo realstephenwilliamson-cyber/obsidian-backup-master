@@ -10,7 +10,7 @@ text_source: "fresh OCR with Tesseract 5 (eng) of the page images (the PDF had n
 converted: 2026-10-15
 ---
 
-[[Dead Sea Scrolls VSI 06 - Chapter 4 New light on theHebrew Bible|← previous]] · [[The Dead Sea Scrolls, A Very Short Introduction (Lim)|contents]] · [[Dead Sea Scrolls VSI 08 - Chapter 6 Literary compositions fromthe Qumran library|next →]]
+[[Dead Sea Scrolls VSI 06 - Chapter 4 New light on the Hebrew Bible|← previous]] · [[The Dead Sea Scrolls, A Very Short Introduction (Lim)|contents]] · [[Dead Sea Scrolls VSI 08 - Chapter 6 Literary compositions from the Qumran library|next →]]
 
 The text is a fresh OCR of the page images (Tesseract, English); check quotations against the PDF.
 

@@ -10,7 +10,7 @@ text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07
 ---
 
-[[Mandalas and Yantras 13 - The Sricakra according to the First Chapter of the Yoginihrdaya. Andre|← previous]] · [[Mandalas and Yantras in the Hindu Traditions (Buhnemann)|contents]] · [[Mandalas and Yantras 15 - Bibliography and Abbreviations27 1|next →]]
+[[Mandalas and Yantras 13 - The Sricakra according to the First Chapter of the Yoginihrdaya. Andre|← previous]] · [[Mandalas and Yantras in the Hindu Traditions (Buhnemann)|contents]] · [[Mandalas and Yantras 15 - Bibliography and Abbreviations|next →]]
 
 *[p. 251]* ^pg269
 

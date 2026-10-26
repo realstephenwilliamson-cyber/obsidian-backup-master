@@ -331,7 +331,7 @@ rūpāvaraṇasamijñaṁ tattattve ‘sminn aiśvare viduḥ | 356 ॥
 vāmā jyeṣthā ca raudrīti bhuvanatrayaśobhitam |
 sūkṣmāvaraṇam ākhyātam īśíatattve gurūttamaiḥ ॥ 357 ॥ 
 
-"There are four worlds in this, the principle of Īśvara. (The wise) know that they are called the Enclosure of Form (rāūpāvaraṇa),” and consist of virtue (dharma), knowledge (jñāna), detachment (vairagya)’” ) and mastery (aiśvarya). According to the most excellent teachers, within the principle of Īśa (above them) is what is called the ‘Subtle Enclosure’ (sūkṣmāvarana), which is adorned with the three worlds of Vāmā, Jyeṣthā and Raudrī.”\* (356-357) (355ed-357ab) 
+"There are four worlds in this, the principle of Īśvara. (The wise) know that they are called the Enclosure of Form (rūpāvaraṇa),” and consist of virtue (dharma), knowledge (jñāna), detachment (vairāgya)’” ) and mastery (aiśvarya). According to the most excellent teachers, within the principle of Īśa (above them) is what is called the ‘Subtle Enclosure’ (sūkṣmāvaraṇa), which is adorned with the three worlds of Vāmā, Jyeṣṭhā and Raudrī.”\* (356-357) (355cd-357ab) 
 
 #### Viveka on 8.355–357
 
@@ -390,7 +390,7 @@ aiśāt sādāśivaṁ jñānakriyāyugalamanditam |
 
 vidyāvṛtis tato bhāvābhāvaśaktidvayojjvalā \\ saktyāvṛtiḥ pramāṇākhyā tataḥ śāstre nirūpitā ॥ 359 ॥ 
 
-"T Above (the principle of) Īśvara is that of Sadāśiva, to which (the wise) say, belongs the ‘Pure Enclosure’, adorned with the pair knowledge and action. It is said that beyond the Pure Enclosure is the Enclosure of Knowledge, effulgent with the two powers of being and nonbeing. Then (above that), the scripture describes the Enclosure of Power (which is also called the Enclosure of) the Pramānṇas. (358-359) (357cd-359ab) 
+"T Above (the principle of) Īśvara is that of Sadāśiva, to which (the wise) say, belongs the ‘Pure Enclosure’, adorned with the pair knowledge and action. It is said that beyond the Pure Enclosure is the Enclosure of Knowledge, effulgent with the two powers of being and nonbeing. Then (above that), the scripture describes the Enclosure of Power (which is also called the Enclosure of) the Pramāṇas. (358-359) (357cd-359ab) 
 
 #### Viveka on 8.357–359
 

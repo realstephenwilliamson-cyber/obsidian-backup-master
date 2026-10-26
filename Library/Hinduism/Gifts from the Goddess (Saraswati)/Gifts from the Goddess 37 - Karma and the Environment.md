@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Gifts from the Goddess 36 - Section|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 38 - Karma and Free Will|next →]]
+[[Gifts from the Goddess 35 - An Infinity of Infinities|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 38 - Karma and Free Will|next →]]
 
 *[p. 124]* ^pg153
 

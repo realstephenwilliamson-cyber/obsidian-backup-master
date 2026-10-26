@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Mystery 06 - Spanda Sandoha - (audios 4 to 10), part 1|← previous]] · [[The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|contents]] · [[The Mystery 08 - Spanda Sandoha - (audios 4 to 10), part 3|next →]]
 
-*[p. 105]* ^pg105
+*[PDF 105]* ^pg105
 
 then you must feel it \[like\] *dhavau ca khadirau ca.*
 
@@ -54,7 +54,7 @@ Not only this!
 
 *“Unmeṣau*” will do! “*Unmeṣau*”, put only one word in the dual form \[and\] it will collect both–“*unmeṣau*”. *Śaktiśivau*; “*śaktiśivau*” means, Śakti and Śiva*. Śivau*; “*śivau*” also means, Śiva and Śakti. This is the ruling and regulation of grammar also in both ways. So, in this second way, you must produce, you must explain, this *unmeṣa-nimeṣa*. Not *unmeṣa* separately and *nimeṣa* separately, \[but rather\] *unmeṣa* in *nimeṣa*, *nimeṣa* in *unmeṣa*. For instance, you say, “*unmeṣau*”. What do you
 
-*[p. 106]* ^pg106
+*[PDF 106]* ^pg106
 
 understand from “*unmeṣau*”?
 
@@ -98,7 +98,7 @@ ERNIE: They see only creation. It is only being created.
 
 SWAMIJI: Yes. \[They say:\] when \[an object\] is only being created, it is \[only\] created, and it is not attached, it is not adjusted, to its dissolution. They think like that. But it is not the real . . .
 
-*[p. 107]* ^pg107
+*[PDF 107]* ^pg107
 
 JOHN: So they think that when you create something, . . .
 
@@ -136,7 +136,7 @@ Audio 7 - 02:59
 
 *Dvividha-bheda-nimeṣeṇa*, when this two-way differentiatedness is locked, takes the state of *nimeṣa*, the two differentiated states, . . .
 
-*[p. 108]* ^pg108
+*[PDF 108]* ^pg108
 
 What are the differentiated states? The creation of differentiatedness and the expansion of differentiatedness.
 
@@ -198,7 +198,7 @@ SWAMIJI: And pushes it up, yes.
 
 JOHN: So where does this *sthiti* exist in the swing? In the middle of the swing or in the . . . ? SWAMIJI: In the middle of the swing.
 
-*[p. 109]* ^pg109
+*[PDF 109]* ^pg109
 
 JOACHIM: It’s stable.
 
@@ -246,7 +246,7 @@ Audio 7 - 08:29
 
 DENISE: If there is an apprehension that you may go to hell. Do you mean it like that?
 
-*[p. 110]* ^pg110
+*[PDF 110]* ^pg110
 
 SWAMIJI: No.
 
@@ -288,7 +288,7 @@ SWAMIJI: No, *kart*ṛtā<sup>247</sup> is attributed to Śiva, *k*āryatā<sup>
 
 JOACHIM: Lord Śiva’s *kartṛtā* is not due \[to the fact\] that He is *śaktimān*, that He has the *śakti*s that He (inaudible) . . .
 
-*[p. 111]* ^pg111
+*[PDF 111]* ^pg111
 
 SWAMIJI: Yes, He is indulging in *kāryatā. Kāryatā* is *śaktitā*, *kartṛtā* is *śivatā. Kartṛtā* remains always the same.
 
@@ -332,7 +332,7 @@ ERNIE: So, that is the same point that stabilizes . . .
 
 *evaṁ bhūtasya hi bhagavato nīlaprakāśādikāle nīlābhāse deśa-kālasaṁbhinne sraṣṭṭatā*,
 
-*[p. 112]* ^pg112
+*[PDF 112]* ^pg112
 
 *deśakālākārāntarasaṁbhinna śaṁkāyāṁ saṁhāraḥ*, *prāksṛṣṭe nīlādyābhāsasāmānye sthitihetutā, tatraiva abhedāṁśasarge vilayahetutā ityādi pītābhāsādāvapi yojyam /*
 
@@ -380,7 +380,7 @@ SWAMIJI: No. That is what he says:
 
 *Prāksṛṣṭe nīlādi ābhāsa sāmānye sthiti-hetutā. Prāksṛṣṭe*, \[that\] which is already created before, .
 
-*[p. 113]* ^pg113
+*[PDF 113]* ^pg113
 
 Before what? Before this other object. When this other object is created, you destroy this \[previous object\]. When this \[other object\] is perceived, you create \[it\]. When another object is perceived, you destroy this \[previous object\] and you create this \[other object\]–you create this. This is the creation of this \[other object\], and that creation of this \[other object\] is the destruction for this previous object. And what is *sthiti*?
 
@@ -435,7 +435,7 @@ ERNIE: No, the one that you are watching?
 
 SWAMIJI: No, when you have moved to another object, at that time, this is the destruction of this \[previous object\]. When you move to another object and, for some time, \[after\] some time, the curiosity is finished of going here and there.
 
-*[p. 114]* ^pg114
+*[PDF 114]* ^pg114
 
 \*. . . when curiosity is finished, it is concealing, concealing this object. It is *vilaya*.<sup>254</sup> This is the fourth act of Lord Śiva. Creation, preservation, and destruction, and concealing.
 
@@ -489,7 +489,7 @@ SWAMIJI: All objects also. When you go to other objects, these four-fold activit
 
 *tathā prathamābhāsitanīlatadgrāhakabhāvāpekṣayā saṁhartṛtvam*, *avabhāsamānapītatadgrāhakabhāvāpekṣayā sraṣṭṭatvam*, *vicchinnatābhāsādyapekṣayā sthitihetutā*, *antaḥ saṁskārarūpātāpāditābhāsāpekṣayā vilayakāritvam*,
 
-*[p. 115]* ^pg115
+*[PDF 115]* ^pg115
 
 *śuddhasaṁvidaikyāpannapravilāpitasmṛtyādibījabhāvābhāsāpekṣayā anugrahītṛtvam . . .*
 
@@ -531,7 +531,7 @@ JOHN: Yes, the first state.
 
 SWAMIJI: When you first see this \[object\], before that, what do you see? Before that, what do you see? Go inside and inside and inside and see what you see first. First you see nothing. First you see just only a flash of *spanda*, and that *spanda* is of that object and the object holder (*grāhaka*)*.* *Grāhaka* is the perceiver. The perceiver and the perceived are gone.
 
-*[p. 116]* ^pg116
+*[PDF 116]* ^pg116
 
 JOHN: Are “gone” means?
 
@@ -593,7 +593,7 @@ GANJOO: The slate was clear.
 
 SWAMIJI: This is *saṁhartṛtvam*, this is the act of destruction \[by\] God consciousness. The act of
 
-*[p. 117]* ^pg117
+*[PDF 117]* ^pg117
 
 destruction \[by\] God consciousness is \[operating\] there.
 
@@ -649,7 +649,7 @@ And now you have to move upwards. Now you have to move upwards from the spiritua
 
 *Śuddha saṁvidaikyāpanna pravilāpita smṛtyādi bīja bhāva ābhāsa āpekṣayā anugrahītṛtvam.*
 
-*[p. 118]* ^pg118
+*[PDF 118]* ^pg118
 
 *Śuddha* (pure), when pure God consciousness remains in the end, pure God consciousness, and no \[differentiated\] impression of this pencil . . .
 
@@ -697,7 +697,7 @@ SWAMIJI: . . . by Itself, *keṣāṁcideva*, in this state of God consciousness
 
 *yaduktaṁ bhargaśikhāyām*
 
-*[p. 119]* ^pg119
+*[PDF 119]* ^pg119
 
 It is quoted in the *Bhargaśikhā śāstra*:
 
@@ -729,7 +729,7 @@ SWAMIJI: . . . instructions, the way of instructions, will be clarified in these
 
 *‘jāgradādi vibhede’pi*<sup>267</sup> *. . .’ –in this śloka.*
 
-*[p. 120]* ^pg120
+*[PDF 120]* ^pg120
 
 In wakefulness, in dreaming, and in the dreamless state, \[although\] that God consciousness has created these three states, but this God consciousness does not get subsided in these three states.
 
@@ -749,7 +749,7 @@ In wakefulness, in dreaming, and in the dreamless state, \[although\] that God c
 
 Audio 7 - 43:16 *yadā tvekatra saṁrūḍhastadā tasya layodbhavau / niyacchanbhoktṛtāmeti tataścakreśvaro bhavet* //<sup>273</sup> When a *yogi* is bent upon \[developing\] one-pointedness of God consciousness, then *tasya layodayau niyacchan*, he creates and destroys all the three states in his own nature. He creates wakefulness, he destroys wakefulness; he creates the dreaming state, he destroys the dreaming state; he creates the dreamless state, he destroys the dreamless state. Where? In his own state of *turya.*<sup>274</sup> *Bhoktṛtameti*, he becomes the enjoyer then. He really enjoys wakefulness, dreaming, and the
 
-*[p. 121]* ^pg121
+*[PDF 121]* ^pg121
 
 dreamless state. *Tataḥ cakreśvaro*, he becomes the king of *cakra*, the whole wheel of energies.
 
@@ -787,7 +787,7 @@ Audio 7 - 44:55 / Audio 8 - 00:00 SWAMIJI: There is another way to explain this 
 
 So, *jagataḥ*, the world (“world” means *śarīrarūpasya*, your own body), your own body rises when the state of God consciousness subsides. This subsiding state of God consciousness is the rising
 
-*[p. 122]* ^pg122
+*[PDF 122]* ^pg122
 
 state of your body.
 
@@ -821,7 +821,7 @@ Audio 8 - 05:13 JOACHIM: Is this referring to Brahma’s worlds or to Brahma as 
 
 SWAMIJI: Huh?
 
-*[p. 123]* ^pg123
+*[PDF 123]* ^pg123
 
 JOACHIM: Is this referring to Brahma as tutelary deity of *pṛthvyaṇḍa*?
 
@@ -883,7 +883,7 @@ JOHN: With the territory in which he lives.
 
 SWAMIJI: The territory of Brahma, yes. In the same way, why should we not admit in the same
 
-*[p. 124]* ^pg124
+*[PDF 124]* ^pg124
 
 way that *parameśvara āpekṣayāpi viśvasya vyatiriktasyaiva pralayodau iti tāvat uktam*? Parameśvara, in consideration of Parameśvara, in consideration with Parameśvara, the other worlds are separated from Parameśvara, and they get rise and dissolution at the time of *unmeṣa* and *nimeṣa* of Parameśvara.<sup>283</sup> Why not admit that?
 
@@ -929,7 +929,7 @@ It is said also in the *Maṅgala tantra*, the *Maṅgala śāstra*, that this w
 
 *ityāgamasthityā yāvat kiṁcit ābhāsate*, *tat sarvaṁ prakāśamayameva aprakāśasya*
 
-*[p. 125]* ^pg125
+*[PDF 125]* ^pg125
 
 *prakāśanānupapatteḥ iti yuktivaśena svapna-saṁkalpādau svapna saṁkalpādau* \[not recited in full\]
 
@@ -969,7 +969,7 @@ SWAMIJI: Detachment.
 
 That is the glory of God. He detaches and He separates. He separates and He adjusts \[objective phenomena\] with His own nature. And . . .
 
-*[p. 126]* ^pg126
+*[PDF 126]* ^pg126
 
 *tasya prabhavaḥ prabhavati* \[*asmāt*\]
 
@@ -1011,7 +1011,7 @@ Because *tādātmyāt*, whatever you perceive, it is one with you. If you percei
 
 *yadvā śakti cakrasya . . .*
 
-*[p. 127]* ^pg127
+*[PDF 127]* ^pg127
 
 *Śakti cakra*–this is the second explanation–*śakti cakra*, the wheel of energies of God, what is the wheel of energies?
 
@@ -1033,7 +1033,7 @@ SWAMIJI: . . . just dead, without any life, but that God consciousness gives lif
 
 *labhate tatprayatnena parīkṣyaṁ tattvamādarāt /*<sup>292</sup>
 
-*[p. 128]* ^pg128
+*[PDF 128]* ^pg128
 
 That *spanda* should be sought with great effort and with great devotion.
 
@@ -1057,7 +1057,7 @@ Audio 8 - 19:51 *prabhavaṁ kramārthāvabhāsanakāritva kṛtam akramamahāpr
 
 *yadvakṣyati* It will be explained in *Spanda* in this *śāstra*:
 
-*[p. 129]* ^pg129
+*[PDF 129]* ^pg129
 
 *sahāntareṇa cakreṇa pravṛttisthitisaṁhṛtīḥ* // *labhate . . . . . . . . . . . . . . . . . . . . . . . . . . . . .*
 
@@ -1093,7 +1093,7 @@ DENISE: Which postures?
 
 SWAMIJI: Body postures for *yoga*, for meditation. And there is another posture (*mudrā*) that is
 
-*[p. 130]* ^pg130
+*[PDF 130]* ^pg130
 
 the supreme *mudrā*, that is *khecarī mudrā*. *Khecarī mudrā*, that is beyond the cycle of the body. That is another . . . that is a divine *mudrā*.<sup>296</sup>
 
@@ -1143,7 +1143,7 @@ SWAMIJI: . . . with that God consciousness, after five minutes time you will get
 
 JOHN: So, it means all of these *mudrā*s and *mantra*s have to be held with . . .
 
-*[p. 131]* ^pg131
+*[PDF 131]* ^pg131
 
 JOHN: . . . with awareness.
 
@@ -1181,7 +1181,7 @@ JOACHIM: It blows somehow. *Vāti* means “blows”, huh?
 
 SWAMIJI: Yes, blows, blows on that journey. And *gacchati*, when you travel on that path, the pathway of God consciousness, then you *adhitiṣṭhati*, then you are established and you get the smell, perfume, of that God consciousness (*gandhayati*), *vināśayati svātmani viśrāmayati*, and the whole
 
-*[p. 132]* ^pg132
+*[PDF 132]* ^pg132
 
 outside world is destroyed, and *svatmani viśrāmayati*, you are established in your own nature. That is *prabha-vaṁ.*
 
@@ -1221,7 +1221,7 @@ SWAMIJI: Over you, yes. You will feel that \[your\] master is like this. You wil
 
 ERNIE: His presence.
 
-*[p. 133]* ^pg133
+*[PDF 133]* ^pg133
 
 SWAMIJI: His presence, his presence is always there. If you don’t meditate, you won’t find any sign of \[your\] master in your dreaming state. This is a fact.
 
@@ -1255,7 +1255,7 @@ Audio 8 - 35:40 *svabhāvaśūnyapaśupramātuḥ advayarūpordhvabhūmyanāroha
 
 ERNIE: Which? What?
 
-*[p. 134]* ^pg134
+*[PDF 134]* ^pg134
 
 SWAMIJI: *Brahmī*, *ityādi*, all gods and goddesses, they work in this field of the world, as they \[are\] carrying you–I can’t pronounce English–carrying you away from God consciousness.
 
@@ -1305,7 +1305,7 @@ And glory of that is:
 
 *Tat-kāryakāritvaṁ*, *bas*, \[you are\] always filled with torture, always filled with grief, always filled with \[thoughts of\] what to do, what to take, what to eat, what to make, how to prepare, what should I do with Ganesha and Mohammed Sultan<sup>307</sup>, and all of those \[concerns\]–these.
 
-*[p. 135]* ^pg135
+*[PDF 135]* ^pg135
 
 JOACHIM: Electricity bills.
 
@@ -1349,7 +1349,7 @@ ERNIE: And “watchful” is? What does “watchful” mean?
 
 SWAMIJI: What \[your mind\] is doing–just watching. But, this mind is going, this mind is going. When you remain watching \[it\], it won’t go, it won’t go at all! *Bas*, it will stay \[at a\] standstill, *bas.* \[Your mind\] only will watch \[for\] your unwatchful state. At the point of \[your\] unwatchful state, it will begin to move. Whenever you watch \[it\], at the time, at the span of that time \[of your\] watchful state, it won’t move.
 
-*[p. 136]* ^pg136
+*[PDF 136]* ^pg136
 
 ERNIE: So you watch your thoughts?
 
@@ -1405,7 +1405,7 @@ He will explain this in this very *Spanda* \[*Kārikā*\]:
 
 ‘ *. . . . . . . . . . . svamārgasthā jñātā siddhyupapādikā* //’ <sup>314</sup>
 
-*[p. 137]* ^pg137
+*[PDF 137]* ^pg137
 
 When you step on the real pathway, the real pathway of the watchful state, *jñātā*, and you remain always elevated, *siddhi upapādikā*, these *śakti cakra*s, the wheel of energies of Lord Śiva, give you push to that God consciousness, instantaneously.
 
@@ -1449,7 +1449,7 @@ SWAMIJI: Energies, energies.
 
 *tadupalakṣito vīravrātaśca*
 
-*[p. 138]* ^pg138
+*[PDF 138]* ^pg138
 
 It is not only *yoginī*s. There \[are\] male energies also.
 
@@ -1507,7 +1507,7 @@ And it is the attainment of the powers \[of\] *kṣudrā* and *akṣudra. Kṣud
 
 JOHN: Those are the same powers?
 
-*[p. 139]* ^pg139
+*[PDF 139]* ^pg139
 
 SWAMIJI: These powers are handled by these energies. This is the glory of these energies. JOHN: That they bring you down and they also . . .
 
@@ -1549,7 +1549,7 @@ This is internal, the internal wheel of energies, which is handled by Vāmeśvar
 
 *bāhyāni ca vyākhyāyante /* External energies will be explained now.
 
-*[p. 140]* ^pg140
+*[PDF 140]* ^pg140
 
 *yatra vā manti viśvaṁ bhedābhedamayaṁ bhedasāraṁ ca*, *gṛṇanti ucchairgiranti ca bhedasāraṁ*, *bhedābhedamayaṁ ca abhedasāram āpādayanti iti saṁsāravāmācārāḥ vāmāḥ śaktāyaḥ*, *. . .*
 

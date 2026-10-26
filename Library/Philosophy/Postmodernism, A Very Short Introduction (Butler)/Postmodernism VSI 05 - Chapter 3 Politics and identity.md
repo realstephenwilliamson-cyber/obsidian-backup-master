@@ -10,7 +10,7 @@ text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
 ---
 
-[[Postmodernism VSI 04 - Chapter 2 New ways of seeingthe world|← previous]] · [[Postmodernism, A Very Short Introduction (Butler)|contents]] · [[Postmodernism VSI 06 - Chapter 4 The culture ofpostmodernism|next →]]
+[[Postmodernism VSI 04 - Chapter 2 New ways of seeing the world|← previous]] · [[Postmodernism, A Very Short Introduction (Butler)|contents]] · [[Postmodernism VSI 06 - Chapter 4 The culture of postmodernism|next →]]
 
 *[p. 44]* ^pg55
 

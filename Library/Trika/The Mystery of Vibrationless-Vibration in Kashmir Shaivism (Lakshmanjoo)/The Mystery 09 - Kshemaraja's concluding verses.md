@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Mystery 08 - Spanda Sandoha - (audios 4 to 10), part 3|← previous]] · [[The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|contents]] · [[The Mystery 10 - Additional Questions|next →]]
 
-*[p. 177]* ^pg177
+*[PDF 177]* ^pg177
 
 ## Kṣhemarāja’s concluding verses
 
@@ -58,7 +58,7 @@ JOHN: Ocean of knowledge.
 
 SWAMIJI: . . . ocean of knowledge, and sometime *majjanaunmajjanābhiḥ*, they dive deep in that sometimes. At some stages, they dive deep in its truth, but then they come out again and float \[on the surface\] again. So, they get some touch of that God consciousness when diving deep, and they come out again and float on the surface of that ocean.
 
-*[p. 178]* ^pg178
+*[PDF 178]* ^pg178
 
 ERNIE: Is that also the “words understanding” . . . ?
 
@@ -108,7 +108,7 @@ SWAMIJI: No, Abhinavagupta. Abhinavagupta was his immediate master.
 
 JOHN: He says here, “The lips of my master”.
 
-*[p. 179]* ^pg179
+*[PDF 179]* ^pg179
 
 SWAMIJI: *Idaṁ samyak prabhor-abhinavāt śrutvā*, this theory of *spanda* I have learnt and I have understood from the lips of my master who was, whose name was, Abhinavagupta.
 
@@ -168,7 +168,7 @@ ERNIE: Friendly.
 
 SWAMIJI: No. *Helā* \[means\] *“*playfully”, without any effort. It was no problem for him to remove that dirt from their minds. It was just a play for him.
 
-*[p. 180]* ^pg180
+*[PDF 180]* ^pg180
 
 *kṣemeṇārthijanārthitena vivṛtaṁ śrīspandasūtraṁ manāk* //*3*// \[not recited\]
 

@@ -4,7 +4,7 @@ work: "[[Lakshmanjoo - The Mystery of Vibrationless-Vibration in Kashmir Shaivis
 book: "[[Library/Trika/The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)/The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)]]"
 order: 5
 source_pdf: Library/Trika/Lakshmanjoo, Hughes - The Mystery of Vibrationless-Vibration in Kashmir Shaivism (2016).pdf
-page_range: "68"
+page_range: ""
 pdf_pages: 68–68
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Mystery 04 - Third FlowVerses 1 - 19|← previous]] · [[The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|contents]] · [[The Mystery 06 - Spanda Sandoha - (audios 4 to 10), part 1|next →]]
 
-*[p. 68]* ^pg68
+*[PDF 68]* ^pg68
 
 ## Vasugupta’s ConclusionVerses 1 – 2
 

@@ -12,7 +12,7 @@ converted: 2026-10-15
 
 [[Kabbalah, A Very Short Introduction (Dan)|contents]] · [[Kabbalah VSI 02 - Preface|next →]]
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 ## Kabbalah: A Very Short Introduction
 
@@ -20,11 +20,11 @@ converted: 2026-10-15
 
 OXFORD UNIVERSITY PRESS
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 ## Kabbalah
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 ## Kabbalah
 
@@ -34,7 +34,7 @@ JOSEPH DAN
 
 2006
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
 Oxford University Press, Inc., publishes works that further Oxford University’s objective of excellence in research, scholarship, and education.
 

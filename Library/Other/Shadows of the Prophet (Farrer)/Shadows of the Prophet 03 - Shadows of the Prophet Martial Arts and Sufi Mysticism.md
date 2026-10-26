@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Shadows of the Prophet 02 - Muslims in Global Societies SeriesVolume 2|← previous]] · [[Shadows of the Prophet (Farrer)|contents]] · [[Shadows of the Prophet 04 - Preface|next →]]
+[[Shadows of the Prophet 02 - Muslims in Global Societies Series, Volume 2|← previous]] · [[Shadows of the Prophet (Farrer)|contents]] · [[Shadows of the Prophet 04 - Preface|next →]]
 
 *[PDF 3]* ^pg3
 

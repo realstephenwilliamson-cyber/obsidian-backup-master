@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Mystery 11 - Appendix|← previous]] · [[The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|contents]] · [[The Mystery 13 - Index|next →]]
 
-*[p. 201]* ^pg201
+*[PDF 201]* ^pg201
 
 ## Bibliography
 
@@ -72,7 +72,7 @@ Additional sources – Books
 
 *I śvarapratyabhijñā Kārikā* (*Siddhitrayī*) by Utpaladeva, with commentary (*vivṛti*) by Utpaladeva, Edited by Pandit Madhusudan Kaul Shastri, *KSTS*, Vol. XXXIV, Srinagar, Kashmir, 1921.
 
-*[p. 202]* ^pg202
+*[PDF 202]* ^pg202
 
 *Iśvarapratyabhijñā Vivṛti Vimarśinī* of Abhinavagupta, Edited by Pandit Madhusudan Kaul Shastri, *KSTS*, Vol. LX, Srinagar, Kashmir, 1938.
 

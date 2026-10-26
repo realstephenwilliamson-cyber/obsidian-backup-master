@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Gifts from the Goddess 50 - Section|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 52 - The Essence of Sri Vidya|next →]]
+[[Gifts from the Goddess 48 - The Meaning of Siddhis|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 52 - The Essence of Sri Vidya|next →]]
 
 *[p. 171]* ^pg200
 

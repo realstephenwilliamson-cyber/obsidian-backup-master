@@ -4,13 +4,13 @@ work: "[[Saraswati - Gifts from the Goddess]]"
 book: "[[Library/Hinduism/Gifts from the Goddess (Saraswati)/Gifts from the Goddess (Saraswati)|Gifts from the Goddess (Saraswati)]]"
 order: 62
 source_pdf: Library/Hinduism/Bowden - Gifts from the Goddess, Selected Works of Sri Amritananda Natha Saraswati.pdf
-page_range: 197–199
-pdf_pages: 226–228
+page_range: 197–206
+pdf_pages: 226–235
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Gifts from the Goddess 61 - Section|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 63 - Section|next →]]
+[[Gifts from the Goddess 61 - The Kalavahana Puja|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 67 - Understanding Sri Cakra Puja (1994)|next →]]
 
 *[p. 197]* ^pg226
 
@@ -95,3 +95,186 @@ What then is the *turīyātīta* state? It comes from the knowledge that samadhi
 the distinction between the observer and the observed, which you have taken such pains to cultivate, is artificial; that there *is* no barrier, no separation, no distinction between them. One who has arrived at this realization is a *jīvanmukta*.<sup>227</sup> 227  One who has attained liberation while still living and B embodied.
 
 But before this happens as an experience, you must get beyond all polarity, and all polarizing opposites—especially the ones between good and evil, pleasure and pain, life and death. Both life and death are transitory, because each is a negation
+
+*[p. 200]* ^pg229
+
+of the other. Both derive from indestructible immortality. Mortality means simply “subject to an end or a beginning.” And the nature of mortality has two aspects—one permanent, the other impermanent. 
+
+The permanent aspect of mortality is exactly what the name says: it’s permanent. The impermanent aspect, however, is also permanent: its nature is change, which possesses the opposite characteristics of permanence and impermanence. Immortality in its permanent, timeless, spaceless aspect is Purusha; immortality in its temporal, time-varying, space-fitting, materializing aspects is Prakriti.<sup>228</sup> It is 228  Here the philosophical principles of purusha and prakriti are 
+
+in their union that realization lies. In the union of the observer and the observed, used to refer to Shiva and Shakti, 
+
+the act of observation alone remains: the *tripuṭī*—or triad of observer, observed and respectively.
+
+observation—vanishes. And that is samadhi, by whatever name you may choose to call it. Involvement disturbs it not; detachment aids it not. This realization is the genuine state of liberation.
+
+All that you must do to liberate yourself is to know that you are already liberated. 
+
+In this knowledge dwell! Is it so difficult to be who you are? It is easier than lifting an eyelid. Who is limiting you? Yourself. If you want to be limitless, just will it. Not willing is the obstacle. The rest just follows—it just flows. 
+
+B
+
+What causes misery? Your acceptance of limitations. The chains that bind you appear so real that you have forgotten there is no material stuff in them; they are all just thoughts.
+
+When you eat, you are not eating—only the *thought* of eating is a reality. The same applies to everything. Do you weep for a dead thought? Of course not—and yet it is easier to get lost in identification with thoughts than in identification with the body. And if you don’t weep for dead thoughts, then why weep for a dead body? The body is one step further away from you than your thoughts are. And, I would add, if you are weeping for your own dead body, the very fact that you are weeping means you are not dead. So what is it that has died? Have you ever died even once, even though you’ve tried it a million times? You have not. You cannot die, because you are immortal.
+
+*[p. 201]* ^pg230
+
+Once you get past this fear of death and love of life, you are free. But for this freedom, there is a price. In order to buy this freedom, you must die three times:
+
+The first death is the death of the idea that you are the body. To test this 
+
+1.	
+
+hypothesis, you have to experience physical death—which can happen in meditation. In *jaḍa* samadhi,<sup>229</sup> your heart stops, your breathing stops, rigor 229  *Jaḍa* means inert.
+
+mortis sets in. This is called Brahma *granthi bhēdana*.<sup>230</sup> When this happens, 230  Piercing the Brahma *granthi*, a spiritual energy blockage the experience is like a bomb placed within you exploding; there is a thunor “knot” located between the derbolt, a flash of lightning; you black out. And while you are blacked out, Mūlādhāra and Svādhiṣṭhāna Chakras and created by basic rigor mortis sets in. But you are not dead, you do come back—suddenly, as earthly concerns—including suddenly as you left.
+
+worry about food and shelter, health issues and general lack of The second death is the death of the idea that you are the mind. This hap-
+
+2.	
+
+grounding.
+
+pens in Vishnu *granthi bhēdana*,<sup>231</sup> during the blackout. Here you go beyond illusions of separateness caused by the mind.
+
+231  Piercing the Vishnu *granthi*, a spiritual energy blockage or “knot” 
+
+The third death is that of the assumption that death is the end of life. This 
+
+3.	
+
+that covers the area between the is simply not true. Death is the *beginning* of life, just as life is the beginning Maṇipūra, Anāhata and Viśuddha Chakras and can manifest as of death. When you are dead, you are approaching life; when you are living, anger, hatred, jealousy and so on.
+
+you are approaching death. Neither state is immortal. In this third death, you come back to life! Because, my friend, it is divine nectar that is drowning you, and no one can die from drinking this nectar. 
+
+So what I have described so far is what happens when Kundalini suddenly and violently pierces the three chakras known as Svādhiṣṭhāna, Anāhata and Ājñā. The key to opening the chakras is given in *nāmās* 99–106 of the *Lalitā Sahasranāma*:
+
+(99) *mūlādhāraikanilayā* 
+
+(100) *brahmagranthivibhēdinī* 
+
+(101) *maṇipūrantarūditā* 
+
+(102) *viṣṇugranthivibhēdinī*
+
+(103) *ājñācakrāntarālasthā* 
+
+(104) *rudragranthivibhēdinī* 
+
+(105) *sahasrārāmbujārūḍhā* 
+
+(106) *sudhāsārābhivaraṣiṇi* 
+
+What this means is that you have to be centered in the Mūlādhāra Chakra ’til the Brahma *granthi* is untied, in the Maṇipūra Chakra ’til the Vishnu *granthi* is untied,
+
+*[p. 202]* ^pg231
+
+then in the Ājñā Chakra ’til the Rudra *granthi*<sup>232</sup> is untied, and finally in the Sahasrāra 232  Piercing the Rudra *granthi*, a “knot” located between the Ājñā 
+
+Chakra ’til nectar flows down to the vitals. 
+
+and Sahasrāra Chakras, which blocks the transformation of ego-B centric self-identity into universal 
+
+consciousness.
+
+The way to do the *upāsanā* is as follows. Sundarī *upāsanā* is always done with a Shakti. *Parakīya*<sup>233</sup> is better, but your spouse will do equally well if they are agreeable to it. 
+
+233  Sexual union with a man 
+
+or woman who is not the 
+
+So the husband invites Shiva into himself, and Shakti into his partner. He offers practitioner’s husband or wife. 
+
+the *pañcopacār*ā*s*[^234] to Shakti. Then both of you remove your clothes. The male offers “*Parakīyā-rasa* means love without marriage. … That \[which\] is most 
+
+worship to his partner’s yoni with *pañcāmṛta abhiṣekam*.[^235] Then the female offers abominable in this material world 
+
+worship to the male’s erect lingam as Shiva with the *pañcāmṛta*. Then you apply \[can be the\] most first-class thing in the spiritual world \[if\] we can 
+
+perfumes liberally to one another and enter into sexual union.
+
+understand that whatever we 
+
+ Then the following mantra of Tripura-Bhairavī is to be recited—each *bīja* alter-are experiencing in this material world, in its pure form, is existing 
+
+nately by husband and wife, all the time keeping the awareness in the Mūlādhāra in the Supreme Absolute.” 
+
+Chakra, as follows:
+
+—A. C. Bhaktivedanta Swami 
+
+The Mūlādhāra Chakra is located between the base of the penis and the anus in a man; it is the ejaculatory muscle, called the *dēvadatta*. In a woman, the Mūlādhāra is found deep within the vagina, in the cervical center. 
+
+When saying *hsraim*, the woman compresses the lingam at the base. With *hsrklīm*, she presses on the middle region and with *hsrsauḥ* the pressure is on the glans. There is to be no physical movement, and the attitude is one of *śṛṅgāra*—love and affection, but no lust. The *ānanda* of union is continuously offered to Śrī Devi as *tarpaṇam*.[^236] It is better to avoid ejaculation, but no harm is done if it happens. 
+
+The letter *h* is for Shiva, *sa* is for Shakti, and *ra* is the fire of their union. The *bīja aim* is knowledge, Saraswati; *klīm* is love, Lakshmi; *sauḥ* is the bliss of orgasmic joy, Parvati. Tripura-Bhairavī is the sexual union with the three divine aspects of power—knowledge, love and bliss. The Shakti milks the penis by her actions within 
+
+Prabhupada (1896–1977).
+
+[^234]: The five offerings. Guruji notes that they are *puṣpam* (flowers), *dhūpam* (incense), *dīpam* (light), *naivēdyam* (food), *nīrājanam* (the waving of a lamp).
+[^235]: Bathing with the five nectars, which, Guruji notes, are milk, honey, curd (yogurt), fruit juice and warm water.
+[^236]: The bliss of sexual union is presented to the Goddess as a holy offering.
+
+*[p. 203]* ^pg232
+
+the vulva. Apart from this, there are no other actions, and even this action is to be stopped when ejaculation is imminent. Only the mantra flows with joy; uninterrupted awareness oozing into the union. 
+
+This is a safe way of performing the sadhana, not subject to the violence of Brahma *granthi bhēdana*; in this way, the violence of the experience gets moderated and controlled.
+
+You will know when Brahma *granthi bhēdana* has occurred. It manifests as a men- 237  The *āpas tattva* is the water element, said to be present in tal orgasm without any physical ejaculation taking place. The solidity, the rock-like the body and in all matter. The hardness of the erection flows away. You start oozing away your entire body and term also carries obvious sexual connotations here. assume a liquid state (*āpas tattva*).<sup>237</sup> You have moved from the Mūlādhāra to the Svādhiṣṭhāna Chakra. Varuṇa with his crocodile is the symbol here.<sup>238</sup> 238  In the Puranas, Varuṇa is the god of oceans and waters, whose After mental orgasm is achieved by both partners, their awareness shifts to the vehicle is a *makara*, an amphib-Anāhata Chakra, seat of affection, of art and artistry, of song and dance, of emotions. 
+
+ious creature often portrayed in artistic renderings as a crocodile. The sex organs are decoupled, one partner embraces the other, playing upon the He is sometimes associated with breasts. Here the mantra is:
+
+the Svādhiṣṭhāna Chakra, which governs the element of water in the body.
+
+The procedure continues as before, but with the awareness shifted to the *dahara*.<sup>239</sup> The *dahara* is located two inches to your right from the center on the line 239  Heart cavity. joining the two nipples. This is where the awareness must be when performing this *japa*.<sup>240</sup> 240  Mantra repetition.
+
+*[p. 204]* ^pg233
+
+The visualization is that of Vishnu and Lakshmi in a loving embrace; the man is Vishnu and the woman is Lakshmi. Hlādinī Shakti—the power of enjoyment—envelops you.
+
+The experience of Vishnu *granthi bhēdana* occurs as a space-like tranquility in both partners, with feelings of all-pervasiveness, of containing all space within you. After clearing the mind-lake, recite this mantra at the Ājñā Center:
+
+aim ka ē ī la hrīm
+
+241  The Goddess taking the form of Shiva’s consciousness. *Nāmā* 
+
+Then silence of mind occurs, and *citkal*ā<sup>241</sup> manifests. You will see Lalitā as a festi- *728* of the *Lalitā Sahasranāma.* 
+
+val of lights in your mind’s eye. Finally, with the awareness located in the Sahasrāra, the *Saubhāgya Vidyā*<sup>242</sup> is recited in the second round of coitus:
+
+242  A form of the Sri Vidya 
+
+(*Pañcadaśī*) mantra.
+
+aim ka ē ī la hrīm
+
+klīm ha sa ka ha la hrīm
+
+sauḥ sa ka la hrīm 
+
+The sex organs are recoupled, all inhibitions are withdrawn, and the couple races ahead to a climax at three levels: (1) physical sex, with lust no longer a bar; (2) mental merger of awareness between two souls, with no observer-observed relationship; and (3) the merger of *citkalā*. The act culminates with a glorious orgasm at all three levels, and then—the union of jiva with Paramātmāṇ with *manōlaya*[^243] happening in a state of utter relaxation. And with *manōlaya* comes control of the breath. B
+
+To my knowledge, there is no safer and better way to transcend than this. Sundarī[^244] gives you both *bhōga* and moksha<sup>24</sup><sup>5</sup>—not by running away from the senses but by using them as instruments of transcendence. All in one, you can unite sexually, mentally and perceptually—through bliss, love and knowledge—with the divine. And why not? Don’t be limited by sex alone—go beyond. 
+
+I hope I have conveyed to you, to the extent of my ability, the best approach to sadhana and the reasons for it. This is equivalent to *dīkṣā*, so please go ahead without 
+
+[^243]: Merger of consciousness.
+[^244]: Tripurasundarī; that is, Lalitā.
+245\. Material enjoyment and spiritual liberation.
+
+
+*[p. 205]* ^pg234
+
+any hesitation. May you enjoy your liberation, and may you spread the happiness and cheer to all those around you. May Shakti throw her arms around you.
+
+246  A salutation to Shakti and Shiva.
+
+*Śrī Sudh*ā *Divya Guruḥ*<sup>246</sup>
+
+A
+
+*[p. 206]* ^pg235
+
+B Guruji’s preliminary sketch illustrating “The Fifth *Āvaraṇa*: The Chakra That Bestows All Wealth” for *Understanding Śrī Cakra Pūjā*. (Sri Vidya Trust)

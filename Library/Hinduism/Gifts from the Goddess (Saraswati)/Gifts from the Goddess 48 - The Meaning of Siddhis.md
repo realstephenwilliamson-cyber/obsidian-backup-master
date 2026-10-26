@@ -4,13 +4,13 @@ work: "[[Saraswati - Gifts from the Goddess]]"
 book: "[[Library/Hinduism/Gifts from the Goddess (Saraswati)/Gifts from the Goddess (Saraswati)|Gifts from the Goddess (Saraswati)]]"
 order: 48
 source_pdf: Library/Hinduism/Bowden - Gifts from the Goddess, Selected Works of Sri Amritananda Natha Saraswati.pdf
-page_range: 162–164
-pdf_pages: 191–193
+page_range: 162–170
+pdf_pages: 191–199
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Gifts from the Goddess 47 - Section|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 49 - Section|next →]]
+[[Gifts from the Goddess 46 - Kundalini Healing|← previous]] · [[Gifts from the Goddess (Saraswati)|contents]] · [[Gifts from the Goddess 51 - On Sri Vidya|next →]]
 
 *[p. 162]* ^pg191
 
@@ -61,3 +61,86 @@ There is one simple *prāṇāyāma* that is very important and useful, especial
 Why? Because this little technique—simply inhaling deeply, then producing the sound of *ōm* with the outgoing breath—creates vibrations within your body that change the mental patterns of the brain. The brain has two hemispheres, and they are always generating energy that flows in particular directions. If you breathe deeply and produce the sound of *ōm* in a certain way, then the movement of this energy changes. And that affects everything else happening in your body, from your thoughts right up to the secretions of your glands. If some secretions are deficient, they will be increased. If they are in excess, they are decreased. Everything becomes balanced.
 
 What happens on the emotional level is that any agitation, fatigue, fear or insecurity is calmed, and your thoughts become clear. Old, long-forgotten memories become fresh again—and I don’t mean memories of death, violence or unpleasant things, but things that you will enjoy remembering. Of course, you don’t want to be
+
+*[p. 165]* ^pg194
+
+on tantra
+
+reminded of your work obligations, or of somebody who has died, or of times when you have been insulted, hurt or harmed. No, that’s something different. I’m talking about pure memories returning to you, keen and sharp. This is another of those small but important *siddhīs*—not one of the great, miraculous phenomena that we always hear about.
+
+B
+
+Of course, many people insist upon practicing Tantra and yoga with the sole aim of achieving the great *siddhīs*. But even with such simple techniques as *bhrāmarī prāṇāyāma*, the big *siddhīs* will also come. When we begin to engage in sadhana—177  Recitation of mantras, concentration techniques, ever-
+
+mantra *japa*, concentration, dhyana or *prāṇāyāma*<sup>17</sup><sup>7</sup>—we awaken the many categodeepening levels of meditation 
+
+ries of power that reside within us. For we are powerhouses—we are full of energies, and breathing exercises.
+
+which are awakened and begin to function when we practice sadhana.<sup>178</sup> 178  The discussion that follows concerns the mystical anatomy of These energies are conducted through the *nāḍīs*, the system of psychic nerve the human subtle body as taught 
+
+channels that run throughout our bodies. The rishis and munis tell us that the body by the yogic sciences. These matters are discussed elsewhere 
+
+contains 72,000 *nāḍīs*. There are ten main ones and among these, three are most in this volume and many other 
+
+important. The great poet Kabir even sang about them. They correspond to the sym-books and resources exist on the topic.
+
+pathetic, parasympathetic and central nervous systems of modern physiology, but in Tantra they are called the *iḍā*, *piṅgalā* and *suṣumṇā*. In Vedic mythology they are known as Ganga, Yamuna and Saraswati.<sup>179</sup> 179  Three great rivers of ancient India.
+
+These nerve channels do not flow in a perfectly straight path or have any direct connections to the brain. Their junctions are in various places along the spinal cord. 
+
+In Tantra, these junctions are called chakras. There are thousands of chakras in many 180  The gunas, in Hinduism’s Samkhya philosophical system, 
+
+locations throughout the body, but only seven are widely known—the Mūlādhāra, are three dynamic “qualities” said 
+
+Svādhiṣṭhāna, Maṇipūra, Anāhata, Viśuddhi, Ājñā and Sahasrāra. Residing within to comprise all things and beings in the world. They are sattva 
+
+them are the hidden faculties of the human body.
+
+(bright, constructive, divine ten-We can categorize these hidden faculties in terms of the three qualities, or gunas: 
+
+dencies), tamas (dark, destructive, chaotic tendencies) and rajas tamas, rajas and sattva.<sup>180</sup> When you awaken the Mūlādhāra and Svādhiṣṭhāna (passion, activity, or motion either Chakras, tamasic qualities such as hatred and jealousy are activated. These are toward or away from sattva or rajas). The respective proportions lower faculties. Rising to the higher chakras, rajasic qualities of love and compassion of the gunas in any given being awaken. The still-higher faculties of sattva guna begin to unfold when you awaken or thing defines their nature or character. the Ājñā Chakra, which is located in the brain, in the region of the pineal gland,
+
+*[p. 166]* ^pg195
+
+behind the eyebrow center at the top of the spinal cord. Along with these higher faculties comes knowledge of the *siddhīs.*
+
+*Bhrāmarī prāṇāyāma* affects all of the chakras to some extent, but its major impact is upon the Ājñā Chakra. Therefore, when you awaken Ājñā Chakra by the practice of this *prāṇāyāma*, many *siddhīs* arise. You may be able to experience a person who is a thousand miles away as if they were in the same room speaking to you. That person can be saying something there, and you can hear it here. This is a great *siddhi*. B There is no power comparable to the power of the mind. Our ancestors, the rishis and munis, tell us in the scriptures that this power of powers can summon the entire universe. It can create *thousands* of universes. What else is there to say? This power of powers can usher you into the state of *śūnya*, emptiness. It can enable you to duplicate yourself into many identical bodies—as in the *rās-līlā* or play of Krishna, by which the great god created thousands of images of himself for all his *gōpīs*.<sup>177</sup> If you can hone your thoughts until they are keen and sharp, they will be more powerful than a thousand suns. But to increase your power of thought, you must do mantra *japa*. During mantra *japa* you don’t focus on your thoughts—you just watch the mantra continuously. If you fix your attention on your thoughts, the mantra will get left behind. So you must concentrate on the mantra and not worry about the thoughts. If you indulge your thoughts, they will gain momentum and become extremely powerful—but if you keep repeating the mantra, the thoughts lose their speed and cannot fly you away from the conscious plane. In this way, you gradually become more conscious, and your thoughts more focused.
+
+And once your thoughts become more positive, accurate and sensitive, that’s when you can order your mind to think in a certain manner and it will, indeed, think in that way. You can tell your mind to move an object without touching it, and it will move it. 
+
+By the way, you may have heard this referred to as *telekinesis* by Russian and American scientists, but it is in fact also a part of Indian culture that has existed for thousands of years. In Tantra, we call it *indrajāl*. But when it comes from abroad, with a complicated scientific name, it somehow sounds more respectable. *Indrajāl* 
+
+181\. The milkmaids who fall in love with Krishna in legends surrounding his manifestation as a divine cowherd.
+
+
+*[p. 167]* ^pg196
+
+on tantra
+
+is on display everywhere in our Indian markets and bazaars, where *circus-wālās* and *jādū-wālās* (magicians) perform even greater feats than those of the Western adepts, even apparently cutting off someone’s head and then rejoining it as an amusement thrill.
+
+But if you go to other countries and announce, “I can do *indrajāl*!” no one will pay you the slightest attention. Even in India, if you approach intellectual people and scientists and tell them you can perform *indrajāl*, they’ll just tell you to get lost. But if you say you know *telekinesis*—well, then everyone will gather ’round. Why? Because today’s mentality is like that.
+
+Recently I heard that there are people in Europe and America who can bend spoons just by concentrating their thought-power. But really, that’s not such a big thing. Compare it to the power by which a person’s head can be severed and then rejoined—and the person is still alive! And how do people swallow swords without injuring themselves? Their throat remains intact after the sword goes down. Does it really go down? How does it not harm their throat or intestines? Perhaps it isn’t a sword at all? And in that case, what is the power that can make everybody see a sword being swallowed?
+
+B Our perceptions can be altered. We can’t always be certain that what we’re seeing is true. Suppose I have a red flower. It may remain red, but I can make everybody see it as blue even though it has not changed color. In Tantric terminology, this ability is called *najarband.*
+
+Acupuncture has also been performed in India throughout history. We can read about it in the scriptures. Acupuncture went from India to China, and now they are sending it back to teach us. But if you went into one of our villages and they offered to give you acupuncture, you’d be afraid and wouldn’t want it. Just as here in India, only one or two decades ago, people were afraid to learn the arts of yoga and Tantra.
+
+Tantra is such a magnificent science, but most people have not properly understood it—they have only heard the criticisms and exaggerations. They haven’t bothered to imbibe the vast knowledge that Tantra comprises—of life, death, consciousness; of *ātmā* and Paramātman, the self and the Supreme Self. But it’s high 
+
+*[p. 168]* ^pg197
+
+time that we began to appreciate and understand the greatness of our own culture, our own science, our own traditions.
+
+Even if we don’t want to accept it, it is nevertheless our own country that has preserved all this great knowledge. We may not have preserved the knowledge of how to kill or hurt others (which is being revived so plentifully in the world today), but we have certainly preserved the knowledge of how to know ourselves—of how to experience tranquility and realize God. For the people of India, this has been the very goal of life—to awaken the spirituality that lies within us all.
+
+In no other country do people think like this.
+
+A
+
+*[p. 169]* ^pg198
+
+*[p. 170]* ^pg199
+
+B Guruji’s preliminary sketch illustrating “The Fourth *Āvaraṇa*: 14 Worlds” for *Understanding Śrī Cakra Pūjā*. (Sri Vidya Trust)

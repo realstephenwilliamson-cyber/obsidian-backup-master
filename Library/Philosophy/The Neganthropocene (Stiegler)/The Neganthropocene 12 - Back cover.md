@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[The Neganthropocene 11 - Part 9|← previous]] · [[The Neganthropocene (Stiegler)|contents]]
+[[The Neganthropocene 11 - Notes (end), References and List of Sources|← previous]] · [[The Neganthropocene (Stiegler)|contents]]
 
 *[PDF 349]* ^pg349
 

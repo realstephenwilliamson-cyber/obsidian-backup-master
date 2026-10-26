@@ -16,12 +16,12 @@ Converted from the PDF on 15 Oct 2026 (PDF text layer, PyMuPDF). Each PDF page s
 
 ## Contents
 
-- [[Postmodernism VSI 01 - Front matter|Front matter]] (pp. 1–8)
-- [[Postmodernism VSI 02 - List of illustrations|List of illustrations]] (pp. 9–11)
+- [[Postmodernism VSI 01 - Front matter|Front matter]] (PDF 1–8)
+- [[Postmodernism VSI 02 - List of illustrations|List of illustrations]] (PDF 9–11)
 - [[Postmodernism VSI 03 - Chapter 1 The rise of postmodernism|Chapter 1 The rise of postmodernism]] (pp. 1–12)
-- [[Postmodernism VSI 04 - Chapter 2 New ways of seeingthe world|Chapter 2 New ways of seeingthe world]] (pp. 13–43)
+- [[Postmodernism VSI 04 - Chapter 2 New ways of seeing the world|Chapter 2 New ways of seeing the world]] (pp. 13–43)
 - [[Postmodernism VSI 05 - Chapter 3 Politics and identity|Chapter 3 Politics and identity]] (pp. 44–61)
-- [[Postmodernism VSI 06 - Chapter 4 The culture ofpostmodernism|Chapter 4 The culture ofpostmodernism]] (pp. 62–109)
+- [[Postmodernism VSI 06 - Chapter 4 The culture of postmodernism|Chapter 4 The culture of postmodernism]] (pp. 62–109)
 - [[Postmodernism VSI 07 - Chapter 5 The 'postmodern condition'|Chapter 5 The ‘postmodern condition’]] (pp. 110–128)
 - [[Postmodernism VSI 08 - References|References]] (pp. 129–132)
 - [[Postmodernism VSI 09 - Further reading|Further reading]] (pp. 133–134)

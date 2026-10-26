@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Bourgeois Hinduism, or the Faith 03 - Note on Transliteration and Primary Sources|← previous]] · [[Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)|contents]] · [[Bourgeois Hinduism, or the Faith 05 - 1. Ved& 257;nta According to Rammohan Roy|next →]]
+[[Bourgeois Hinduism, or the Faith 03 - Note on Transliteration and Primary Sources|← previous]] · [[Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)|contents]] · [[Bourgeois Hinduism, or the Faith 05 - 1. Vedanta According to Rammohan Roy|next →]]
 
 *[PDF 18]* ^pg18
 

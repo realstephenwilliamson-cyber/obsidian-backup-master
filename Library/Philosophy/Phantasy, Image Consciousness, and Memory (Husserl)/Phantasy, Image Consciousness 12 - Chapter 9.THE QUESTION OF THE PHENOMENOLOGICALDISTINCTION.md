@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Phantasy, Image Consciousness 11 - Chapter 8.RESULTS; AND PREVIEW OF THEANALYSES OF TIME|← previous]] · [[Phantasy, Image Consciousness, and Memory (Husserl)|contents]] · [[Phantasy, Image Consciousness 13 - APPENDICES, part 1|next →]]
+[[Phantasy, Image Consciousness 11 - Chapter 8.RESULTS; AND PREVIEW OF THEANALYSES OF TIME|← previous]] · [[Phantasy, Image Consciousness, and Memory (Husserl)|contents]] · [[Phantasy, Image Consciousness 13 - Text 1, Appendices I-V|next →]]
 
 *[p. 99]* ^pg161
 

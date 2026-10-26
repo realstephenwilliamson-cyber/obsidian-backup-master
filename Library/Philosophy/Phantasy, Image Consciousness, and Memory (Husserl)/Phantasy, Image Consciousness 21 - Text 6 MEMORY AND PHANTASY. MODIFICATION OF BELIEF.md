@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Phantasy, Image Consciousness 20 - APPENDICES|← previous]] · [[Phantasy, Image Consciousness, and Memory (Husserl)|contents]] · [[Phantasy, Image Consciousness 22 - Text 7 PERCEPTION, MEMORY, PHANTASY, AND INTENTIONSDIRECTED|next →]]
+[[Phantasy, Image Consciousness 20 - Text 5, Appendices XXIV-XXVIII|← previous]] · [[Phantasy, Image Consciousness, and Memory (Husserl)|contents]] · [[Phantasy, Image Consciousness 22 - Text 7 PERCEPTION, MEMORY, PHANTASY, AND INTENTIONSDIRECTED|next →]]
 
 *[PDF 343]* ^pg343
 

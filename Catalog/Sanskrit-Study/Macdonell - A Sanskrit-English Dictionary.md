@@ -38,3 +38,6 @@ The full scanned dictionary (PDF), kept alongside the tabular data already built
 **Checked against the file** on 7 Oct 2026: this note now describes the file, Arthur A. Macdonell's A Sanskrit-English Dictionary, not Monier-Williams's: the author, year and publisher follow its title page (PDF p. 11, text layer: London, Longmans, Green, and Co., 1893) and the page count (404) the PDF, and the note was renamed from Monier-Williams - A Sanskrit-English Dictionary; the Monier-Williams data linked above is the other dictionary.
 
 **Text layer** (6 Oct 2026): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The scan without text went with the trash when it was emptied on 6 Oct 2026.
+
+
+**Text layer, note** (26 Oct 2026, decision 7): the pages where the layer puts Devanagari into English lines do print Devanagari (seen on the page images), so an English-only layer would lose it; a redo of this PDF (the junk glyph after ि) is listed with the other fpdf2 PDFs for a later week.

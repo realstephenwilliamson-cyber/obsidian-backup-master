@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Inventing God's Law 03 - Abbreviations and Special Terminology|← previous]] · [[Inventing God's Law (Wright)|contents]] · [[Inventing God's Law 05 - Part I Primary Evidence for Dependence Sequential Correspondences and|next →]]
+[[Inventing God's Law 03 - Abbreviations and Special Terminology|← previous]] · [[Inventing God's Law (Wright)|contents]] · [[Inventing God's Law 05 - Part I and Chapters 2-3, The Casuistic Laws - The Apodictic Laws|next →]]
 
 *[p. 3]* ^pg18
 

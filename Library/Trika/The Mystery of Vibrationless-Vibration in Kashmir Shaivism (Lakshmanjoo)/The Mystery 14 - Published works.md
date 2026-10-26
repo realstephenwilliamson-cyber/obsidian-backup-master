@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Mystery 13 - Index|← previous]] · [[The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|contents]] · [[The Mystery 15 - Instructions to download audio|next →]]
 
-*[p. 222]* ^pg222
+*[PDF 222]* ^pg222
 
 ## Published works
 
@@ -30,7 +30,7 @@ The Mystery of Vibrationless-Vibration
 
 in Kashmir Shaivism, Vasugupta’s Spanda Kārikā & Kṣemarāja’s Spanda Sandoha
 
-*[p. 223]* ^pg223
+*[PDF 223]* ^pg223
 
 The teachings of Swami Lakshmanjoo are a response to the urgent need of our time: the transformation of consciousness and the evolution of a more enlightened humanity.
 

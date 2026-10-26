@@ -10,7 +10,7 @@ text_source: "fresh OCR with Tesseract 5 (eng) of the page images (the PDF had n
 converted: 2026-10-15
 ---
 
-[[Dead Sea Scrolls VSI 09 - Chapter 7 The Qumran-Essenecommunity in context|← previous]] · [[The Dead Sea Scrolls, A Very Short Introduction (Lim)|contents]] · [[Dead Sea Scrolls VSI 11 - Chapter 9 The religious beliefs of theQumran community|next →]]
+[[Dead Sea Scrolls VSI 09 - Chapter 7 The Qumran-Essene community in context|← previous]] · [[The Dead Sea Scrolls, A Very Short Introduction (Lim)|contents]] · [[Dead Sea Scrolls VSI 11 - Chapter 9 The religious beliefs of the Qumran community|next →]]
 
 The text is a fresh OCR of the page images (Tesseract, English); check quotations against the PDF.
 

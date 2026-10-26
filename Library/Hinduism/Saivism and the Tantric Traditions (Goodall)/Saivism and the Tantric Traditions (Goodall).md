@@ -17,8 +17,8 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 ## Contents
 
 - [[Saivism and the Tantric 01 - Section|Section]] (pp. 1)
-- [[Saivism and the Tantric 02 - Part 1|Part 1]] (pp. viii–6)
-- [[Saivism and the Tantric 03 - Chapters 1-2|Chapters 1-2]] (pp. 7–46)
+- [[Saivism and the Tantric 02 - Front matter, A Note on Alexis Sanderson and Indology, Bibliography and Introduction|Front matter, A Note on Alexis Sanderson and Indology, Bibliography and Introduction]] (pp. viii–6)
+- [[Saivism and the Tantric 03 - Introduction (end), Part 1 and Chapters 1-2, From Mantramarga Back to Atimarga - Why Are the Skull-Bearers Called Soma|Introduction (end), Part 1 and Chapters 1–2, From Mantramārga Back to Atimārga – Why Are the Skull-Bearers Called Soma?]] (pp. 7–46)
 - [[Saivism and the Tantric 04 - Chapter 3 Dressing for Power|Chapter 3 Dressing for Power]] (pp. 47–86)
 - [[Saivism and the Tantric 05 - Chapters 4-5|Chapters 4-5]] (pp. 87–126)
 - [[Saivism and the Tantric 06 - Chapter 6 Alchemical Metaphors for Spiritual Transformation|Chapter 6 Alchemical Metaphors for Spiritual Transformation]] (pp. 127–166)

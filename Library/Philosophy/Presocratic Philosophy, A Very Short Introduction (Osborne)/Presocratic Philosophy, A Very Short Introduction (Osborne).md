@@ -16,12 +16,12 @@ Converted from the PDF on 15 Oct 2026 (PDF text layer, PyMuPDF). Each PDF page s
 
 ## Contents
 
-- [[Presocratic Philosophy VSI 01 - Front matter|Front matter]] (pp. 1–8)
-- [[Presocratic Philosophy VSI 02 - List of illustrations|List of illustrations]] (pp. 9–11)
-- [[Presocratic Philosophy VSI 03 - Map|Map]] (pp. 12)
-- [[Presocratic Philosophy VSI 04 - Time line|Time line]] (pp. 13–14)
-- [[Presocratic Philosophy VSI 05 - A note on the pronunciation|A note on the pronunciation]] (pp. 15)
-- [[Presocratic Philosophy VSI 06 - Introduction|Introduction]] (pp. 16–19)
+- [[Presocratic Philosophy VSI 01 - Front matter|Front matter]] (PDF 1–8)
+- [[Presocratic Philosophy VSI 02 - List of illustrations|List of illustrations]] (PDF 9–11)
+- [[Presocratic Philosophy VSI 03 - Map|Map]] (PDF 12)
+- [[Presocratic Philosophy VSI 04 - Time line|Time line]] (PDF 13–14)
+- [[Presocratic Philosophy VSI 05 - A note on the pronunciation|A note on the pronunciation]] (PDF 15)
+- [[Presocratic Philosophy VSI 06 - Introduction|Introduction]] (PDF 16–19)
 - [[Presocratic Philosophy VSI 07 - Chapter 1 Lost words, forgotten worlds|Chapter 1 Lost words, forgotten worlds]] (pp. 1–28)
 - [[Presocratic Philosophy VSI 08 - Chapter 2 Puzzles about first principles|Chapter 2 Puzzles about first principles]] (pp. 29–50)
 - [[Presocratic Philosophy VSI 09 - Chapter 3 Zeno's tortoise|Chapter 3 Zeno’s tortoise]] (pp. 51–60)

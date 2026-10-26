@@ -4,7 +4,7 @@ work: "[[Lakshmanjoo - The Mystery of Vibrationless-Vibration in Kashmir Shaivis
 book: "[[Library/Trika/The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)/The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)]]"
 order: 15
 source_pdf: Library/Trika/Lakshmanjoo, Hughes - The Mystery of Vibrationless-Vibration in Kashmir Shaivism (2016).pdf
-page_range: "224"
+page_range: ""
 pdf_pages: 224–224
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Mystery 14 - Published works|← previous]] · [[The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|contents]]
 
-*[p. 224]* ^pg224
+*[PDF 224]* ^pg224
 
 ## Instructions to download audio
 

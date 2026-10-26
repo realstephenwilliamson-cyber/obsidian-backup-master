@@ -4,7 +4,7 @@ work: "[[Catalog/Christianity/Chapman - Anglicanism, A Very Short Introduction]]
 book: "[[Library/Christianity/Anglicanism, A Very Short Introduction (Chapman)/Anglicanism, A Very Short Introduction (Chapman)|Anglicanism, A Very Short Introduction (Chapman)]]"
 order: 3
 source_pdf: "Library/Christianity/Chapman - Anglicanism, A Very Short Introduction (2006).pdf"
-page_range: "8"
+page_range: ""
 pdf_pages: "8–8"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
@@ -12,7 +12,7 @@ converted: 2026-10-15
 
 [[Anglicanism VSI 02 - ANGLICANISM|← previous]] · [[Anglicanism, A Very Short Introduction (Chapman)|contents]] · [[Anglicanism VSI 04 - Acknowledgements|next →]]
 
-*[p. 8]* ^pg8
+*[PDF 8]* ^pg8
 
 ## Contents
 

@@ -10,7 +10,7 @@ text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07
 ---
 
-[[Mandalas and Yantras 15 - Bibliography and Abbreviations27 1|← previous]] · [[Mandalas and Yantras in the Hindu Traditions (Buhnemann)|contents]]
+[[Mandalas and Yantras 15 - Bibliography and Abbreviations|← previous]] · [[Mandalas and Yantras in the Hindu Traditions (Buhnemann)|contents]]
 
 *[p. 291]* ^pg325
 

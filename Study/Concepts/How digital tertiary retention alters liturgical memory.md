@@ -41,7 +41,7 @@ Part II of the Second Domestication outline: the feed "does not hold still long 
 ## Cross-References
 > [!links]
 > - Up: [[Hub - Technics, memory and the Leviathan]]
-> - Calendars as retention: Stiegler, *Technics and Time 3*, [[Technics and Time 3 05 - Stiegler - Technics and Time 3, part 4#^pg135|'I and We', pp. 120–121]] · [[BCP - The Calendar of the Church Year]] · [[Tantraloka study plan]]
+> - Calendars as retention: Stiegler, *Technics and Time 3*, [[Technics and Time 3 05 - Section 3. I and We (end) and Section 4. The Malaise of Our Educational Institutions#^pg135|'I and We', pp. 120–121]] · [[BCP - The Calendar of the Church Year]] · [[Tantraloka study plan]]
 > - Intersects with: [[Tertiary Retention]], [[The Pharmakon of Digital Memory]], [[Mnemotechnics vs Mnemo-technologies]], [[Cybernetic Anamnesis (concept)]], [[The Second Axial Hinge - Recursive Retention]], [[The Three Duties - Lectio, Disputatio, Praedicatio]], [[The Orphaned Word in the Phaedrus]]
 > - Sources: [[Leviathan fragments 2018-2024|Leviathan fragments 2018-2024]] · [[Second Domestication outline 2026-07-07|The Second Domestication]] · [[xscript fragments (AI)|xscript fragments (AI)]] · [[BCP - Holy Eucharist - Rite II#Eucharistic Prayer A|BCP 1979, Holy Eucharist Rite II, Eucharistic Prayer A]] · [[Reading Religious Ritual 12 - Chapter 5 Liturgical Meaning Prefiguration, Configuration#^pg118|Gschwandtner, Reading Religious Ritual with Ricoeur, pp. 97–100]] and [[Reading Religious Ritual 14 - Chapter 7 Liturgical Imagination Memory, Creativity, Tradition|ch. 7]]
 

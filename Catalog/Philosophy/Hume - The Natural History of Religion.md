@@ -37,6 +37,8 @@ await dv.view("Templates/Views/open-pdf")
 
 The Online Library of Liberty’s scan (file 0211) of the edition with an introduction by John M. Robertson. The scan has no imprint page, so year and publisher are not confirmed.
 
+**Text layer** (26 Oct 2026, audit D-11): the scan's own layer (Acrobat Capture, 2003: words out of order on some pages, a line lost on PDF 52) was removed and every page read again (Tesseract, English model); the page images are unchanged. 99 pages; words in the layer 27,423 → 28,929; words found in an English word list 92.6 % → 96.3 %; a second reader found 94 errors in the old layer and none in the new one on 511 words. One footnote verse, "Impia gens, alium nescit habere Deum" (PDF 75), is not in the new layer (the old one had it only as junk). The previous file is in `.work/backup-corrections-2026-10-26/s8-layers/`.
+
 ## About
 
 David Hume's essay on the causes, effects and history of religious belief, first published in 1757 as the opening piece of his *Four Dissertations*. It traces religious belief to hope, fear and ignorance.

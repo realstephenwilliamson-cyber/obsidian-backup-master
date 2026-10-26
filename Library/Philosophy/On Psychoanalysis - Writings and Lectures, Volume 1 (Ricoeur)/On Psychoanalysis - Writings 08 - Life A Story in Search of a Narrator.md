@@ -10,7 +10,7 @@ text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[On Psychoanalysis - Writings 07 - the Work of Art|← previous]] · [[On Psychoanalysis - Writings and Lectures, Volume 1 (Ricoeur)|contents]] · [[On Psychoanalysis - Writings 09 - Origin of Texts|next →]]
+[[On Psychoanalysis - Writings 07 - Psychoanalysis and the Work of Art|← previous]] · [[On Psychoanalysis - Writings and Lectures, Volume 1 (Ricoeur)|contents]] · [[On Psychoanalysis - Writings 09 - Origin of Texts|next →]]
 
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's OCR layer (Adobe Acrobat Paper Capture), not a born-digital text: words can be misread, and some passages may be marked illegible. For exact readings, check the PDF (the *Open the PDF* button on the catalog note).

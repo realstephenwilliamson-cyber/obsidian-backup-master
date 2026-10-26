@@ -70,6 +70,6 @@ Cartoon from the *Evening Standard* relating to Russell’s brief imprisonment 1
 
 Portrait of Russell 137 © Bettmann/Corbis
 
-*[p. 15]* ^pg15
+*[PDF 15]* ^pg15
 
 *This page intentionally left blank*

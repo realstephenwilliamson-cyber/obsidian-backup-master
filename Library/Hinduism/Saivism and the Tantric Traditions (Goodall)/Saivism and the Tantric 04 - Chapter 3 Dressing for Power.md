@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF; footnotes re-converted 15 O
 converted: 2026-10-07
 ---
 
-[[Saivism and the Tantric 03 - Chapters 1-2|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 05 - Chapters 4-5|next →]]
+[[Saivism and the Tantric 03 - Introduction (end), Part 1 and Chapters 1-2, From Mantramarga Back to Atimarga - Why Are the Skull-Bearers Called Soma|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 05 - Chapters 4-5|next →]]
 
 *[p. 47]* ^pg82
 

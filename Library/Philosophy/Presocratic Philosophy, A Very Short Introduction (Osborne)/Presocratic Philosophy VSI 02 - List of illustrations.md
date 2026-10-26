@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Osborne - Presocratic Philosophy, A Very Short Intro
 book: "[[Library/Philosophy/Presocratic Philosophy, A Very Short Introduction (Osborne)/Presocratic Philosophy, A Very Short Introduction (Osborne)|Presocratic Philosophy, A Very Short Introduction (Osborne)]]"
 order: 2
 source_pdf: "Library/Philosophy/Osborne - Presocratic Philosophy, A Very Short Introduction (2004).pdf"
-page_range: "9–11"
+page_range: ""
 pdf_pages: "9–11"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
@@ -12,7 +12,7 @@ converted: 2026-10-15
 
 [[Presocratic Philosophy VSI 01 - Front matter|← previous]] · [[Presocratic Philosophy, A Very Short Introduction (Osborne)|contents]] · [[Presocratic Philosophy VSI 03 - Map|next →]]
 
-*[p. 9]* ^pg9
+*[PDF 9]* ^pg9
 
 ## List of illustrations
 
@@ -63,7 +63,7 @@ Hervé Lewandowski
 
 Miletus 30 Alan Greaves, University of Liverpool
 
-*[p. 10]* ^pg10
+*[PDF 10]* ^pg10
 
 Detail of *The School of Athens* (1509–11) by Raphael 33 Vatican Museums. © Alinari Archives/Corbis
 
@@ -135,7 +135,7 @@ Political rhetoric or democracy 115 © Jean Michel \[www.isle-sursorgue-antiques
 
 Photo © RMN/P. Bernard
 
-*[p. 11]* ^pg11
+*[PDF 11]* ^pg11
 
 Athletes exercising, on 28 *The Rape of Helen* (date Attic red-figure kylix, unknown) by Johann
 

@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Stiegler and Technics 08 - 4 Technics and Cerebrality|← previous]] · [[Stiegler and Technics (Howells)|contents]] · [[Stiegler and Technics 10 - 5 Technics, or the Fading Away of Aesthetics The Sensible and the|next →]]
+[[Stiegler and Technics 08 - 4 Technics and Cerebrality|← previous]] · [[Stiegler and Technics (Howells)|contents]] · [[Stiegler and Technics 10 - 5 Technics, or the Fading Away of Aesthetics, The Sensible and the Question of Kant|next →]]
 
 *[p. 85]* ^pg98
 

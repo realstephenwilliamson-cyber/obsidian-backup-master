@@ -4,7 +4,7 @@ work: "[[Catalog/Christianity/Chapman - Anglicanism, A Very Short Introduction]]
 book: "[[Library/Christianity/Anglicanism, A Very Short Introduction (Chapman)/Anglicanism, A Very Short Introduction (Chapman)|Anglicanism, A Very Short Introduction (Chapman)]]"
 order: 1
 source_pdf: "Library/Christianity/Chapman - Anglicanism, A Very Short Introduction (2006).pdf"
-page_range: "1–5"
+page_range: ""
 pdf_pages: "1–5"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
@@ -12,13 +12,13 @@ converted: 2026-10-15
 
 [[Anglicanism, A Very Short Introduction (Chapman)|contents]] · [[Anglicanism VSI 02 - ANGLICANISM|next →]]
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 Anglicanism: A Very Short Introduction
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 Very Short Introductions are for anyone wanting a stimulating and accessible way in to a new subject. They are written by experts, and have been published in more than 25 languages worldwide.
 
@@ -180,7 +180,7 @@ EGYPTIAN MYTH
 
  Geraldine Pinch Very Short Introductions available now:
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
 EIGHTEENTH-CENTURY
 
@@ -390,7 +390,7 @@ POLITICAL PHILOSOPHY
 
 David Miller
 
-*[p. 5]* ^pg5
+*[PDF 5]* ^pg5
 
 POSTCOLONIALISM
 

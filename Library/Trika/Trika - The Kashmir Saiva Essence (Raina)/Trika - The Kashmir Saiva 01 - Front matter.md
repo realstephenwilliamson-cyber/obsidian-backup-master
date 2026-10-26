@@ -4,7 +4,7 @@ work: "[[Raina - Trika - The Kashmir Saiva Essence]]"
 book: "[[Library/Trika/Trika - The Kashmir Saiva Essence (Raina)/Trika - The Kashmir Saiva Essence (Raina)|Trika - The Kashmir Saiva Essence (Raina)]]"
 order: 1
 source_pdf: Library/Trika/Tej Raina - Trika, the Kashmir Saiva Essence-Aravali Books International (April, 2013).pdf
-page_range: 1–9
+page_range: ""
 pdf_pages: 1–9
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08

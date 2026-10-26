@@ -10,7 +10,7 @@ text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07
 ---
 
-[[Mandalas and Yantras 04 - List of Illustrations|← previous]] · [[Mandalas and Yantras in the Hindu Traditions (Buhnemann)|contents]] · [[Mandalas and Yantras 06 - Mandala, Yantra and Cakra Sme Obersvations|next →]]
+[[Mandalas and Yantras 04 - List of Illustrations|← previous]] · [[Mandalas and Yantras in the Hindu Traditions (Buhnemann)|contents]] · [[Mandalas and Yantras 06 - Mandala, Yantra and Cakra, Some Observations|next →]]
 
 *[p. 1]* ^pg19
 

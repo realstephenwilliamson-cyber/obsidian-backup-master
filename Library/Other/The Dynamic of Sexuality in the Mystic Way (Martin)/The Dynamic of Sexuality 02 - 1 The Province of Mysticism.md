@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[The Dynamic of Sexuality 01 - Paul C. Martin UNIVERSITY OF SOUTH AUSTRALIA|← previous]] · [[The Dynamic of Sexuality in the Mystic Way (Martin)|contents]] · [[The Dynamic of Sexuality 03 - 2 The Way of Mysticism|next →]]
+[[The Dynamic of Sexuality 01 - Front matter|← previous]] · [[The Dynamic of Sexuality in the Mystic Way (Martin)|contents]] · [[The Dynamic of Sexuality 03 - 2 The Way of Mysticism|next →]]
 
 *[p. 1]* ^pg9
 

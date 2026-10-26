@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Bourgeois Hinduism, or the Faith 06 - 2. Debendranath Tagore and the Tattvabodhin& 299; Sabh& 257;|← previous]] · [[Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)|contents]] · [[Bourgeois Hinduism, or the Faith 08 - 4. Bourgeois Ved& 257;nta for the Bhadralok|next →]]
+[[Bourgeois Hinduism, or the Faith 06 - 2. Debendranath Tagore and the Tattvabodhini Sabha|← previous]] · [[Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)|contents]] · [[Bourgeois Hinduism, or the Faith 08 - 4. Bourgeois Vedanta for the Bhadralok|next →]]
 
 *[p. 49]* ^pg64
 

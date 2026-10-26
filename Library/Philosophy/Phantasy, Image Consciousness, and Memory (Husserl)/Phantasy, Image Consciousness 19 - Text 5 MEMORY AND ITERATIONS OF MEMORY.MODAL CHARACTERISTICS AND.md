@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[Phantasy, Image Consciousness 18 - Text 4 BELIEF AS IMPRESSION. INTERPRETATION OF THEOPPOSITIONS|← previous]] · [[Phantasy, Image Consciousness, and Memory (Husserl)|contents]] · [[Phantasy, Image Consciousness 20 - APPENDICES|next →]]
+[[Phantasy, Image Consciousness 18 - Text 4 BELIEF AS IMPRESSION. INTERPRETATION OF THEOPPOSITIONS|← previous]] · [[Phantasy, Image Consciousness, and Memory (Husserl)|contents]] · [[Phantasy, Image Consciousness 20 - Text 5, Appendices XXIV-XXVIII|next →]]
 
 *[p. 277]* ^pg327
 

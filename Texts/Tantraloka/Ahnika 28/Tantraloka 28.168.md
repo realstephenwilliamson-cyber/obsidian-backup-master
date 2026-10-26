@@ -27,7 +27,7 @@ tato vidhiṃ pūjayitvā pavitrāṇi samāharet || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#^pg97|p. 80]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=97>))
 >
-> The teacher should (now) go to sleep, and rising early in the morning, perform the daily rites (āhnika). Then, having completed the prescribed rite of worship (to Gaṇeśa etc.), he should collect together the (five) purifiers (pavitra), that is, 1) a stick for the teeth, 2) clay and a dhātrī (fruit), 3) clay with myrobalan (āmalaka), 4) along with water and the quadruple unguent (catuḥsama), and 5)—ash, together with (all of) them. These five purifiers should be (mentally) applied successively to the five faces (of Sadāśiva), in the east, south, west, zenith, and north, and placed in the sacred area of the Lord (i.e. the northeast). (with 28.168–170)
+> The teacher should (now) go to sleep, and rising early in the morning, perform the daily rites (ahnika). Then, having completed the prescribed rite of worship (to Gaṇeśa etc.), he should collect together the (five) purifiers (pavitra), that is, 1) a stick for the teeth, 2) clay and a dhātrī (fruit), 3) clay with myrobalan (āmalaka), 4) along with water and the quadruple unguent (catuḥsama), and 5)—ash, together with (all of) them. These five purifiers should be (mentally) applied successively to the five faces (of Sadāśiva), in the east, south, west, zenith, and north, and placed in the sacred area of the Lord (i.e. the northeast). (with 28.168–170)
 
 ## Viveka
 

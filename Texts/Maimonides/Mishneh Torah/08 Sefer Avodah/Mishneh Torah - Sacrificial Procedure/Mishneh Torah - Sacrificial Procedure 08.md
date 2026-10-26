@@ -138,7 +138,7 @@ Similarly, when a metal utensil in which [sin-offerings] were cooked was taken o
 [^2]: If, however, it spewed forth from the animal at the time of slaughter, spluttered from the blood sprinkled to the altar, or spilled to the floor and was collected from there, these laws do not apply (Halachah 6).
 [^3]: Similarly, once the blood was sprinkled this stringency does not apply (Halachah 7).
 [^4]: See Halachah 10.
-[^5]: This is the meaning of the term *beged* (Rashi, [[Zevachim 93#93b|*Zevachim* 93b]]).
+[^5]: This is the meaning of the term *beged* (Rashi, *Zevachim* [[Zevachim 93#93b|93b]]).
 [^6]: See Halachah 5.
 [^7]: Our translation is taken from the Rambam's Commentary to the Mishnah (*Keilim* 27:1).
 [^8]: See Halachah 4.
@@ -146,11 +146,11 @@ Similarly, when a metal utensil in which [sin-offerings] were cooked was taken o
 [^10]: Although *melikah* is equivalent to ritual slaughter in certain contexts, since the verse specifies "slaughter," it is excluded in this instance (Radbaz).
 [^11]: I.e., in all these instances, the ritual slaughter and the sprinkling were performed in an appropriate manner and thus the meat could have been consumed in an acceptable manner.
 [^12]: See *Hilchot Pesulei HaMukdashim* 15:1 which mentions several ways in which ritual slaughter can be disqualified.
-[^13]: And not the entire garment ([[Zevachim 93#93b|*Zevachim* 93b]]).
+[^13]: And not the entire garment (*Zevachim* [[Zevachim 93#93b|93b]]).
 [^14]: I.e., this requirement applies not only to garments, but also other objects made from these materials.
-[^15]: See *Hilchot Keilim* 1:3-4; 10:1. [[Zevachim 93#93b|*Zevachim* 93b]] states that only an article that is susceptible to ritual impurity must be washed.
+[^15]: See *Hilchot Keilim* 1:3-4; 10:1. *Zevachim* [[Zevachim 93#93b|93b]] states that only an article that is susceptible to ritual impurity must be washed.
 [^16]: For it is not considered as a *k'li*, a useful article, in its present state.
-[^17]: Since it has already been sprinkled on the altar, these laws no longer apply to it ([[Zevachim 92#92b|*Zevachim* 92b]]).
+[^17]: Since it has already been sprinkled on the altar, these laws no longer apply to it (*Zevachim* [[Zevachim 92#92b|92b]]).
 [^18]: Without first being received in a sacred utensil. In such an instance, it is not fit to be sprinkled on the altar (*Hilchot Pesulei HaMukdashim* 1:25). If, however, it was first received in a sacred utensil and then spilled, it is fit to be sprinkled on the altar. Hence, if it spewed onto a garment, the garment must be washed.
 [^19]: The same Hebrew root *haza'ah* is used both for the sprinkling of the blood on the altar and the spewing of the blood on a garment, leading to the inference stated by the Rambam.
 [^20]: Our translation is based on the gloss of the Radbaz.
@@ -158,19 +158,19 @@ Similarly, when a metal utensil in which [sin-offerings] were cooked was taken o
 [^22]: Because pouring out the remainder of the blood is not an essential element of the sacrifice.
 [^23]: I.e., once the priest has completed the sprinkling of their blood that is required as explained in Chapter 5, Halachot 12-18, the remaining blood does not require that it be washed.
 [^24]: As evident from Chapter 5, Halachah 8.
-[^25]: [[Zevachim 92#92b|*Zevachim* 92b]] compares this to the situation described in Halachah 6 when blood was spilled onto the floor and then sputtered onto a garment.
-[^26]: For it is considered as if the blood became impure beforehand and thus would have been unacceptable for sprinkling. [[Zevachim 93#93a|*Zevachim* 93a]] associates this situation with the question whether water set aside to be used for the sprinkling of the ashes of the red heifer that became impure can be purified or not. Based on that discussion, Rav Yosef Corcus suggests that there is a printing error in the text of the *Mishneh Torah* and the ruling is that the garment must be washed. This conclusion is supported by the Rambam's ruling in *Hilchot Pesulei HaMukdashim* 1:36 which states that blood from consecrated animals can never contract ritual impurity.
-[^27]: I.e., blood from an animal that was not consecrated. As evident from the following clause, seemingly, the same law would apply with regard to blood from a burnt offering. Indeed, [[Zevachim 98#98a|*Zevachim* 98a]]-b states this explicitly.
+[^25]: *Zevachim* [[Zevachim 92#92b|92b]] compares this to the situation described in Halachah 6 when blood was spilled onto the floor and then sputtered onto a garment.
+[^26]: For it is considered as if the blood became impure beforehand and thus would have been unacceptable for sprinkling. *Zevachim* [[Zevachim 93#93a|93a]] associates this situation with the question whether water set aside to be used for the sprinkling of the ashes of the red heifer that became impure can be purified or not. Based on that discussion, Rav Yosef Corcus suggests that there is a printing error in the text of the *Mishneh Torah* and the ruling is that the garment must be washed. This conclusion is supported by the Rambam's ruling in *Hilchot Pesulei HaMukdashim* 1:36 which states that blood from consecrated animals can never contract ritual impurity.
+[^27]: I.e., blood from an animal that was not consecrated. As evident from the following clause, seemingly, the same law would apply with regard to blood from a burnt offering. Indeed, *Zevachim* [[Zevachim 98#98a|98a]]-b states this explicitly.
 [^28]: For the blood from the sin-offering is absorbed into it and is not washed away by the other blood.
 [^29]: For it had already absorbed the other blood.
 [^30]: The saliva of a person who has not eaten, beans that have been chewed, urine that has become sour, marsh mallow, natron, glasswort, and soapwort. [The names of these detergents were taken from Rav Kappach's translation of the Arabic terms used in the Rambam's Commentary to the Mishnah (*Niddah* 9:6).]
 [^31]: If the stain is removed when these seven detergents are applied to it, we conclude that it was blood. If it is not removed, we assume that it is paint or another type of dye.
 [^32]: For it is not respectful to bring such a substance into a place where the Divine Presence is overtly revealed.  
-    The commentaries have noted that [[Zevachim 95#95a|*Zevachim* 95a]] (the source for this halachah) mentions that urine was brought into the Temple, except that it was first mixed with the saliva so that it was not taken in as an independent entity.
+    The commentaries have noted that *Zevachim* [[Zevachim 95#95a|95a]] (the source for this halachah) mentions that urine was brought into the Temple, except that it was first mixed with the saliva so that it was not taken in as an independent entity.
 [^33]: As opposed to those which are burnt.
 [^34]: The rationale is that the flavor of the meat of the sin-offering can never be totally purged from an earthenware vessel.
 [^35]: In his Commentary to the Mishnah (*Zevachim* 11:8), the Rambam defines this term as meaning "thoroughly washing a utensil until everything attached to it is removed."
-[^36]: There the Rambam interprets this as meaning "pouring water over the utensil without scraping the filth off by hand." The Radbaz elaborates on the difference between the Rambam's approach (who appears to require only the thorough cleaning of the vessels) and that of Rashi who interprets [[Zevachim 95#95b|*Zevachim* 95b]] as requiring that these utensils must be purged in the same manner as one purges non-kosher food from a vessel into which it was absorbed.  
+[^36]: There the Rambam interprets this as meaning "pouring water over the utensil without scraping the filth off by hand." The Radbaz elaborates on the difference between the Rambam's approach (who appears to require only the thorough cleaning of the vessels) and that of Rashi who interprets *Zevachim* [[Zevachim 95#95b|95b]] as requiring that these utensils must be purged in the same manner as one purges non-kosher food from a vessel into which it was absorbed.  
     According to this conception of the Rambam's approach, the problem is not that the fat absorbed in the utensil becomes *notar*, "sacrificial food that remained overnight," and must be destroyed. Instead, the question involves merely the thorough cleaning of the utensil. This interpretation is borne out by the continuation of the Rambam's statements in his Commentary to the Mishnah where he speaks about the issue of *notar* with regard to the food attached to the utensil, but does not mention the food absorbed within it.
 [^37]: As does the preceding verse which mentions washing the blood from a garment.
 [^38]: Since the stew including the meat of the sin-offering was boiling while it was poured into the vessel, it is considered as if it was cooked there.
@@ -188,7 +188,7 @@ Similarly, when a metal utensil in which [sin-offerings] were cooked was taken o
 [^47]: Similar laws apply with regard to sacrifices cooked in a metal oven, except that the question involves the requirement to be thoroughly washed and rinsed.
 [^48]: As required by Halachah 11.
 [^49]: For the Torah mentions the necessity of washing out or destroying the utensil after sacrificial meat was cooked in it. It does not state that for the requirement to apply, the flavor of the meat must be absorbed in the utensil.
-[^50]: I.e., the above question is discussed by [[Zevachim 95#95b|*Zevachim* 95b]] and is left unresolved by our Sages.
+[^50]: I.e., the above question is discussed by *Zevachim* [[Zevachim 95#95b|95b]] and is left unresolved by our Sages.
 [^51]: I.e., sacrificial meat was either cooked in it or poured in it while warm [the Rambam's Commentary to the Mishnah (*Zevachim* 11:8)].
 [^52]: Our translation is based on the glosses of the Ra'avad and the *Kessef Mishneh*.
 [^53]: In his Commentary to the Mishnah (*loc. cit.*), the Rambam quotes *Zevachim, loc. cit.*, explaining that this concept is derived as follows. [[Torah 25 - Tzav#^6-21|Leviticus 6:21-22]] states: "All of the priestly males shall partake of it" and directly afterwards states: "and it shall be washed thoroughly and rinsed in water," implying that the two activities should be performed in direct sequence.
@@ -199,11 +199,11 @@ Similarly, when a metal utensil in which [sin-offerings] were cooked was taken o
 [^58]: The Radbaz and the *Kessef Mishneh* explain that since the Torah does not make any specifications with regard to such utensils (as it does with regard to earthenware and metal utensils), there is no obligation with regard to them. He does not mention wood utensils, because wood utensils do not resemble earthenware and metal.
 [^59]: See Chapter 10, Halachah 12, which states that at the outset, a sin-offering should not be eaten together with other sacrifices.
 [^60]: I.e., it can only be eaten in the Temple Courtyard by males of the priestly family on the day the sacrifice was offered and on the following night.
-[^61]: [[Zevachim 97#97a|*Zevachim* 97a]], *et al*, derives this concept from the fact that the term the prooftext uses for "its meat," *bibisarah*, literally means "in its meat." Implied is the flavor must be absorbed into the meat of the other food.
-[^62]: [[Zevachim 98#98b|*Zevachim* 98b]] interprets this verse as teaching that there is a fundamental commonality to all the sacrificial offerings.
+[^61]: *Zevachim* [[Zevachim 97#97a|97a]], *et al*, derives this concept from the fact that the term the prooftext uses for "its meat," *bibisarah*, literally means "in its meat." Implied is the flavor must be absorbed into the meat of the other food.
+[^62]: *Zevachim* [[Zevachim 98#98b|98b]] interprets this verse as teaching that there is a fundamental commonality to all the sacrificial offerings.
 [^63]: A soft, spongy wafer [see the Rambam's Commentary to the Mishnah (*Challah* 1:4)].
 [^64]: And only that portion becomes sanctified.
-[^65]: Unless there is a priest who can distinguish whether the taste was imparted or not, we assume that if the food in the more lenient category is 60 times the amount of the food in the more severe category, the taste of the more severe type of food has not been imparted. Otherwise, we must be stringent ([[Zevachim 97#97a|*Zevachim* 97a]]).
+[^65]: Unless there is a priest who can distinguish whether the taste was imparted or not, we assume that if the food in the more lenient category is 60 times the amount of the food in the more severe category, the taste of the more severe type of food has not been imparted. Otherwise, we must be stringent (*Zevachim* [[Zevachim 97#97a|97a]]).
 [^66]: Similarly, if an earthenware vessel was used to cook meat from a sin-offering, according to the Rambam, it must be broken. According to Rashi and others, this applies whenever sacrificial offerings are cooked in an earthenware utensil (Radbaz).
 [^67]: I.e., when meat from sacrifices of the most severe degree of sanctity is cooked together with a larger quantity of meat from sacrifices of lesser sanctity, the utensils need not be purged at the time the commandment to partake of the sacrifices of the most severe degree of sanctity is concluded, because that meat is considered insignificant, due to the majority of the other meat. Nevertheless, when the time to partake of the sacrifices of the lesser degree of holiness is concluded, the utensils must be thoroughly washed and rinsed (*ibid.*). When sacrificial meat is cooked together with ordinary meat, even if its taste is not recognizable, we require that the utensils be thoroughly washed and rinsed, because of the stringencies involving sacrificial food (Radbaz).
 [^68]: And thus it would not be permitted to return it to the Temple Courtyard in its present state [the Rambam's Commentary to the Mishnah (*Zevachim* 11:6)].
@@ -217,8 +217,8 @@ Similarly, when a metal utensil in which [sin-offerings] were cooked was taken o
 [^76]: A portion of cloth less than three fingerbreadths wide is not considered as a garment. Hence, the laws of ritual impurity do not apply to it. Although in this instance, the cloak is intact and hence, is larger than this measure, since there is no alternative, this provision is allowed.
 [^77]: To purify it.
 [^78]: The Radbaz maintains that this law applies to the meat of a sin-offering, but not the meat of other offerings.
-[^79]: [[Zevachim 94#94b|*Zevachim* 94b]] explains that this concept is derived from the laws governing the washing of a garment mentioned in Halachah 19.
-[^80]: [[Zevachim 95#95a|*Zevachim* 95a]] explains that "a utensil" must be able to contain liquids and if has a hole, it is no longer fit for such a purpose. Thus once the utensil has been broken, it is ritually pure. (This represents the Scriptural Law. With regard to Rabbinic Law, see *Hilchot Keilim* 19:2.)
+[^79]: *Zevachim* [[Zevachim 94#94b|94b]] explains that this concept is derived from the laws governing the washing of a garment mentioned in Halachah 19.
+[^80]: *Zevachim* [[Zevachim 95#95a|95a]] explains that "a utensil" must be able to contain liquids and if has a hole, it is no longer fit for such a purpose. Thus once the utensil has been broken, it is ritually pure. (This represents the Scriptural Law. With regard to Rabbinic Law, see *Hilchot Keilim* 19:2.)
 [^81]: And if it is broken to a greater extent, it is not considered as a utensil at all and therefore should not be brought into the Temple Courtyard.  
     Why was a utensil broken to the extent that a root could project through it allowed to be brought into the Temple Courtyard? Since our Sages considered it a utensil in certain contexts, they allowed it to be considered a utensil so that the obligation to break utensils in the Temple Courtyard could be fulfilled.
 [^82]: With a large hole (see *Hilchot Keilim* 11:1-2).

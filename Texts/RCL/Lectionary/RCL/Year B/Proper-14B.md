@@ -11,6 +11,7 @@ second_reading: "Ephesians 4:25-5:2"
 gospel: "John 6:35, 41-51"
 first_reading_complementary: "1 Kings 19:4-8"
 psalm_complementary: "Psalm 34:1-8"
+psalm_bcp_complementary: "Psalm 34:1-8"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-14]]"
 cssclasses:

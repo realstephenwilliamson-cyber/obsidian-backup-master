@@ -32,7 +32,7 @@ tattvamidametadātmakametasmātproddhṛto mayā śiṣyaḥ || ^iast
 >
 > Although the fluctuation of consciousness is wantonly playful (cāñcala) because of its wonderful variety (vaicitrya), by progressively focusing (and conjoining it) (sandhāna) within each particular entity (purified and empowered in the course of initiation), the firm (conviction) (rūdhi) (that arises thereby concerning its true nature) is necessarily that it is identical with iva. (with 16.196cd–197ab)
 >
-> When (the teacher’s) consciousness (operates) progressively (kramasaṁvitti) in such a way (that ascending through the Tattvas, he reflects that): “this Tattva is of that nature and I have extracted (my) disciple from it”, even a dullard (māḍha) becomes Śiva. (with 16.197cd–198ab)
+> When (the teacher’s) consciousness (operates) progressively (kramasaṁvitti) in such a way (that ascending through the Tattvas, he reflects that): “this Tattva is of that nature and I have extracted (my) disciple from it”, even a dullard (mūḍha) becomes Śiva. (with 16.197cd–198ab)
 
 ## Viveka
 

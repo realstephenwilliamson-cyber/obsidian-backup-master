@@ -32,7 +32,7 @@ Isa. v. 18, 20.
 
 1988
 
-Matt. xxi. 13.
+[[Matthew 21#^21-13|Matt. xxi. 13]].
 
 1989
 
@@ -200,7 +200,7 @@ Isa. iii. 16.
 
 2017
 
-Various passages strung together; comp. Rom. iii. 10, and foll. verses.
+Various passages strung together; comp. [[Romans 03#^3-10|Rom. iii. 10]], and foll. verses.
 
 2018
 
@@ -290,7 +290,7 @@ King, i.e., to Christ. For Christ is King, and Priest, and God, and Lord, and an
 
 And Trypho said, “I believe, however, that many of those who say that they confess Jesus, and are called Christians, eat meats offered to idols, and declare that they are by no means injured in consequence.” And I replied, “The fact that there are such men confessing themselves to be Christians, and admitting the crucified Jesus to be both Lord and Christ, yet not teaching His doctrines, but those of the spirits of error, causes us who are disciples of the true and pure doctrine of Jesus Christ, to be more faithful and stedfast in the hope announced by Him. For what things He predicted would take place in His name, these we do see being actually accomplished in our sight. For he said, ‘Many shall come in My name, clothed outwardly in sheep’s clothing, but inwardly they are ravening wolves.’ ”<sup>2035</sup> And, ‘There shall be schisms and heresies.’<sup>2036</sup> And, ‘Beware of false prophets, who shall come to you clothed outwardly in sheep’s clothing, but inwardly they are ravening wolves.’<sup>2037</sup> And, ‘Many false Christs and false apostles shall arise, and shall deceive many of the faithful.’<sup>2038</sup> There are, therefore, and there were many, my friends, who, coming forward in the name of Jesus, taught both to speak and act impious and blasphemous things; and these are called by us after the name of the men from whom each doctrine and opinion had its origin. (For some in one way, others in another, teach to blaspheme the Maker of all things, and Christ, who was foretold by Him as coming, and the God of Abraham, and of Isaac, and of Jacob, with whom we have nothing in common, since we know them to be atheists, impious, unrighteous, and sinful, and confessors of Jesus in name only, instead of worshippers of Him. Yet they style themselves Christians, just as certain among the Gentiles inscribe the name of God upon the works of their own hands, and partake in nefarious and impious rites.) Some are called Marcians, and some Valentinians, and some Basilidians, and some Saturnilians, and others by other names; each called after the originator of the individual opinion, just as each one of those who consider themselves philosophers, as I said before, thinks he must bear the name of the philosophy which he follows, from the name of the father of the particular doctrine. So that, in consequence of these events, we know that Jesus foreknew what would happen after Him, as well as in consequence of many other events which He foretold would befall those who believed on and confessed Him, the Christ. For all that we suffer, even when killed by friends, He foretold would take place; so that it is manifest no word or act of His can be found fault with. Wherefore we pray for you and for all other men who hate us; in order that you, having repented along with us, may not blaspheme Him who, by His works, by the mighty deeds even now wrought through His name, by the words He taught, by the prophecies announced concerning Him, is the blameless, and in all things irreproachable, Christ
 
-Matt. vii. 15. 2035 1 Cor. xi. 19. 2036 Matt. vii. 15. 2037
+[[Matthew 07#^7-15|Matt. vii. 15]]. 2035 [[1 Corinthians 11#^11-19|1 Cor. xi. 19]]. 2036 [[Matthew 07#^7-15|Matt. vii. 15]]. 2037
 
 *[PDF 377]* ^pg377
 
@@ -587,7 +587,7 @@ Then he replied, “Why then have you said, ‘In my opinion, such an one will b
 
 “There are such people, Trypho,” I answered; “and these do not venture to have any intercourse with or to extend hospitality to such persons; but I do not agree with them. But if some, through weak-mindedness, wish to observe such institutions as were given by Moses, from which they expect some virtue, but which we believe were appointed by reason of the hardness of the people’s hearts, along with their hope in this Christ, and \[wish to perform\] the eternal and natural acts of righteousness and piety, yet choose to live with the Christians and the faithful, as I said before, not inducing them either to be circumcised like themselves, or to keep the Sabbath, or to observe any other such ceremonies, then I hold that we ought to join ourselves to such, and associate with them in all things as kinsmen and brethren. But if, Trypho,” I continued, “some of your race, who say they believe in this Christ, compel those Gentiles who believe in this Christ to live in all respects according to the law given by Moses, or choose not to associate so intimately with them, I in like manner do not approve of them. But I believe that even those, who have been persuaded by them to observe the legal dispensation along with their confession of God in Christ, shall probably be saved. And I hold, further, that such as have confessed and known this man to be Christ, yet who have gone back from some cause to the legal dispensation, and have denied that this man is Christ, and have repented not before death, shall by no means be saved. Further, I hold that those of the seed of Abraham who live according to the law, and do not believe in this Christ before death, shall likewise not be saved, and especially those who have anathematized and do anathematize this very Christ in the synagogues, and everything by which they might obtain salvation and escape the vengeance of fire.<sup>2092</sup> For the goodness and the loving-kindness of God, and His boundless riches, hold righteous and sinless the man who, as Ezekiel<sup>2093</sup> tells, repents of sins; and reckons sinful, unrighteous, and impious the man who fails away from piety and righteousness to unrighteousness and ungodliness. Wherefore also our Lord Jesus Christ said, ‘In whatsoever things I shall take you, in these I shall judge you.’ ”<sup>2094</sup>
 
-219 “Or, Are there not some,” etc. 2091 The text seems to be corrupt. Otto reads: “Do anathematize those who put their trust in this very Christ so as to obtain 2092 salvation,” etc. Ezek. xxxiii. 11–20. 2093 \[Comp. St. John xii. 47, 48.\] Grabius thinks this taken from the \[apocryphal\] Gospel according to the Hebrews. It is not 2094 in the New or Old Testament. \[Query. Is it not, rather, one of the traditional sayings preserved among early Christians?\]
+219 “Or, Are there not some,” etc. 2091 The text seems to be corrupt. Otto reads: “Do anathematize those who put their trust in this very Christ so as to obtain 2092 salvation,” etc. Ezek. xxxiii. 11–20. 2093 \[Comp. St. [[John 12#^12-47|John xii. 47]], [[John 12#^12-48|48]].\] Grabius thinks this taken from the \[apocryphal\] Gospel according to the Hebrews. It is not 2094 in the New or Old Testament. \[Query. Is it not, rather, one of the traditional sayings preserved among early Christians?\]
 
 *[p. 349]* ^pg389
 
@@ -637,7 +637,7 @@ And Trypho said, “This statement also seems to me paradoxical; namely, that th
 
 To this I replied, “Do you not think that the same thing happened in the case of Joshua the son of Nave (Nun), who succeeded to the command of the people after Moses, when Moses was
 
-220 Mal. iv. 5. 2100 Matt. iii. 11, 12. 2101 Literally, “cousin.” 2102
+220 Mal. iv. 5. 2100 [[Matthew 03#^3-11|Matt. iii. 11]], [[Matthew 03#^3-12|12]]. 2101 Literally, “cousin.” 2102
 
 *[p. 351]* ^pg391
 
@@ -689,7 +689,7 @@ the violent take it by force. And if you can<sup>2110</sup> receive it, he is El
 
 2110
 
-Matt. xi. 12–15.
+[[Matthew 11#^11-12|Matt. xi. 12–15]].
 
 2111
 
@@ -731,7 +731,7 @@ Literally, “inquired into.”
 
 2118
 
-Deut. iv. 19, an apparent \[i.e., evident\] misinterpretation of the passage. \[But see St. John x. 33–36.\] 2119
+Deut. iv. 19, an apparent \[i.e., evident\] misinterpretation of the passage. \[But see St. [[John 10#^10-33|John x. 33–36]].\] 2119
 
 Or, “misusing.”
 

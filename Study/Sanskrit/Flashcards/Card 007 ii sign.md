@@ -20,17 +20,13 @@ nyasa: "left eye (*dṛk*), as ī"
 ## Front
 
 - **Glyph:** ◌ी
-- **Variation:** —
 - **Example:** नील
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘n<u>ee</u>d’
-- **Class (as printed):** 2 (palatal) · long, soft · simple vowel
-- **Note (no printed label):** Abbreviation - used only after a consonant
-- **Grid:** the vowel signs ा ि ी ु ू / े ै ो ौ; in bold: ी
-- **Example:** nīla (blue)
+> [!note]- Back
+> - **Pronunciation:** As in ‘n<u>ee</u>d’
+> - **Class:** palatal · long, soft · simple vowel
+> - ा ि <u>ी</u> ु ू / े ै ो ौ
+> - **Example:** nīla (blue)
 
 ## Register
 

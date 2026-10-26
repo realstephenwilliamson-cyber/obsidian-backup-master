@@ -31,7 +31,7 @@ mūḍhavivṛttavilīnaiḥ karaṇaiḥ kecittu vikaraṇakāḥ || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 05 (Dyczkowski)/Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#^pg297|p. 279]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 05.pdf#page=297>))
 > Dyczkowski numbers this verse 8.275cd–276ab.
 >
-> Those individual souls (kṣetrajña) whose consciousness is stained with impurity, whether innate or adventitious, and all the Rudras, reside here. (Here) they enjoy the experiences that arise from that (Principle), with their senses either in an unconscious state (mūḍha), fully active (vivrtta), or absorbed (vilīna) (in consciousness). The senses of some of them are ‘transcendental’ (and so completely free) (vikaraṇnaka). (with 8.274cd–275)
+> Those individual souls (kṣetrajña) whose consciousness is stained with impurity, whether innate or adventitious, and all the Rudras, reside here. (Here) they enjoy the experiences that arise from that (Principle), with their senses either in an unconscious state (mūḍha), fully active (vivṛtta), or absorbed (vilīna) (in consciousness). The senses of some of them are ‘transcendental’ (and so completely free) (vikaraṇnaka). (with 8.274cd–275)
 
 ## Viveka
 

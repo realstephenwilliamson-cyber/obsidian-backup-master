@@ -20,17 +20,13 @@ nyasa: "upper teeth (*rada*)"
 ## Front
 
 - **Glyph:** ऐ
-- **Variation:** —
 - **Example:** ऐर
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘<u>aye</u> mate!’
-- **Class (as printed):** 1,2 · long, soft · complex vowel
-- **Note (no printed label):** Full form - used only to begin a word. Vṛddhi (strongest form) of i/ī (from a+a+i)
-- **Grid:** the vowels अ आ इ ई उ ऊ / ए ऐ ओ औ / ऋ ॠ ऌ; in bold: ऐ
-- **Example:** aira (heap)
+> [!note]- Back
+> - **Pronunciation:** As in ‘<u>aye</u> mate!’
+> - **Class:** long, soft · complex vowel · Vṛddhi (strongest form) of i/ī (from a+a+i)
+> - अ आ इ ई उ ऊ / ए <u>ऐ</u> ओ औ / ऋ ॠ ऌ
+> - **Example:** aira (heap)
 
 ## Register
 

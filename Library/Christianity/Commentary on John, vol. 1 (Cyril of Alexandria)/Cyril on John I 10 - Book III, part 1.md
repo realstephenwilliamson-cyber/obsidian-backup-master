@@ -109,7 +109,7 @@ The works which the Father hath given
 
 with the Properties of the Father, as being of Him, hath Cuar.1. Equal Power and Operation with Him? bi Yet He says He hath received the Works from Him,
 
-either by reason of the garb of human nature and servant’s form speaking more lowlily that was needful, and this economically, or extolling by the title of gift the good Pleasure and Approval of the Father, in regard to all His wondrous Miracles. Jor thus does He affirm that He was also sent, in that He emptied Himself, as it is written, of Phil. ii.7 His unalloyed® God-befitting Dignity by reason of His ὃ ἀκράτω-Love for us. For He humbled Himself, and we shall find mn. 8. the lowliness of this His humbling Himself in no other ways than in those whereby He sometimes speaks as Man. To this agreeth that which is said by the Psalmist of Him in human wise for our sakes, I was set a King by Him Ps. ii. upon Sion His Holy Mountain declaring the Law of the Lord. UXX, For He That is King for ever with the Father, Co-enthroned and Co-seated, as God with God who begat Him, says that He has been ordained! King and Lord,saying | κεχειροthat what as God He had, He received when He was 777% made Man to whom reigning is not inherent by nature, but both the title and see of lordship are \_wholly from without.
+either by reason of the garb of human nature and servant’s form speaking more lowlily that was needful, and this economically, or extolling by the title of gift the good Pleasure and Approval of the Father, in regard to all His wondrous Miracles. Jor thus does He affirm that He was also sent, in that He emptied Himself, as it is written, of [[Philippians 02#^2-7|Phil. ii.7]] His unalloyed® God-befitting Dignity by reason of His ὃ ἀκράτω-Love for us. For He humbled Himself, and we shall find mn. 8. the lowliness of this His humbling Himself in no other ways than in those whereby He sometimes speaks as Man. To this agreeth that which is said by the Psalmist of Him in human wise for our sakes, I was set a King by Him Ps. ii. upon Sion His Holy Mountain declaring the Law of the Lord. UXX, For He That is King for ever with the Father, Co-enthroned and Co-seated, as God with God who begat Him, says that He has been ordained! King and Lord,saying | κεχειροthat what as God He had, He received when He was 777% made Man to whom reigning is not inherent by nature, but both the title and see of lordship are \_wholly from without.
 
 *[p. 294]* ^pg358
 
@@ -157,7 +157,7 @@ Ib. 17.
 
 v.37, 38.
 
-S. Luke xvi. 29.
+S. [[Luke 16#^16-29|Luke xvi. 29]].
 
 Rom.
 
@@ -165,7 +165,7 @@ Vili. 35.
 
 3 κατανεανιεύσονknowledge of the things which they seek to learn. For Moses will be understood to be put for the Law, according as is said by a certain one, They have Moses and the Prophets. But the standing by under the mount, when God had now descended and was on it, signifies the readiness of disposition and resolve of those who are called to serve Him, not refusing in any way to apply themselves even to things above their power and superior to their nature, while God is with them. Such in all respects are they who are partakers of the Saviour. Wherefore they practising manliness above men say, Who shall separate us from the Love of Christ ? shall tribulation or distress or persecution or famine or nakedness or peril or sword? for all dreadful things are tolerable to the godly for love of Christ, and though tribulation should rise up as a mountain, they will rise superior® against all danger, and will not withdraw their mind from love to God. Bunt God is said to come down, not upon auy low ground, but somewhere on high and on a mountain is He seen, that you may think some such thing as this with yourself, that although the Divine Nature condescending to our understandings, brings Itself to our conception, yet is It exceeding far above us, both in words and thoughts. For the height and intensity of the doctrines respecting It, are signified by the mountain, which he tells us was wholly darkened with smoke. For keen indeed and not very clear to us are words respecting the Godhead, wounding like smoke the eyes of the understanding. Therefore the most wise Paul testified that we see through a glass and darkly : the Psalmist again says that He, that is, God, made darkness His secret place, under the name of darkness hinting the Incomprehensibleness around Him, whereof the smoke about the fire on the mount may well be taken as a type. But the Godhead Itself descended in the form of fire, at that particular time, fittingly and of necessity for the nature of the thing. For it behoved, it behoved that He Who called Israel unto bondage and understanding through the law that should be pnt forth, should appear as an Enlightener and an Avenger.
 
-ται 1 Cor. xiii. 12. Ps, xviii. 11.
+ται [[1 Corinthians 13#^13-12|1 Cor. xiii. 12]]. Ps, xviii. 11.
 
 *[p. 299]* ^pg363
 
@@ -237,7 +237,7 @@ the future shall send, is the reading of Sinaiticus.
 
 *[p. 304]* ^pg368
 
-Book 3. He says that they, fast held by vain glory, thereby lose the GV. 10 ps i nest prize, meaning faith in Him: whereof Paul too speak-Gal.i.10. cth clearly to us: for if (says he) I were yet pleasing men, 1 should not be Christ’s servant. It usually then as of necessity befalls those who hunt for honours from men, to fail of the glory that cometh from above and from the only God, as saith the Saviour. He says only, opposing God to the gods of the Gentiles, and not excluding Himself from the honour Suprapp.of the Only. For as we have often said already, the Full- 53, 265 = x. ness of the Holy and Consubstantial Trinity mounteth up? 2 ἀναβαί- ἮΝ to One Nature and glory of Godhead.
+Book 3. He says that they, fast held by vain glory, thereby lose the GV. 10 ps i nest prize, meaning faith in Him: whereof Paul too speak-[[Galatians 01#^1-10|Gal.i.10]]. cth clearly to us: for if (says he) I were yet pleasing men, 1 should not be Christ’s servant. It usually then as of necessity befalls those who hunt for honours from men, to fail of the glory that cometh from above and from the only God, as saith the Saviour. He says only, opposing God to the gods of the Gentiles, and not excluding Himself from the honour Suprapp.of the Only. For as we have often said already, the Full- 53, 265 = x. ness of the Holy and Consubstantial Trinity mounteth up? 2 ἀναβαί- ἮΝ to One Nature and glory of Godhead.
 
 45 Do not think that 1 will accuse you to the Father; there is that accuseth you, Moses, in whom yn have hoped.
 
@@ -524,7 +524,7 @@ overleap our understanding.
 
 He both thinks and reasons akin to Philip, and is convicted
 
-5\. Luke xviii. 27,
+5\. [[Luke 18#^18-27|Luke xviii. 27]],
 
 
 *[p. 323]* ^pg387
@@ -623,7 +623,7 @@ Isa. Iviii.
 
 7\.
 
-S. Luke vi. 38,
+S. [[Luke 06#^6-38|Luke vi. 38]],
 
 Deut. xv.
 

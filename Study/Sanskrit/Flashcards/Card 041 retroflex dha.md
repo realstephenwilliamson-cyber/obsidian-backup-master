@@ -20,16 +20,13 @@ nyasa: "right toes (*aṅguli*)"
 ## Front
 
 - **Glyph:** ढ
-- **Variation:** —
 - **Example:** मूढ
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** [ As in ‘sh<u>d h</u>um’ ]
-- **Class (as printed):** 3 (cerebral) · soft · aspirated
-- **Grid:** the five rows of stops; in bold: ढ
-- **Example:** mūḍha (deluded)
+> [!note]- Back
+> - **Pronunciation:** [ As in ‘sh<u>d h</u>um’ ]
+> - **Class:** cerebral · soft · aspirated
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड <u>ढ</u> ण / त थ द ध न / प फ ब भ म
+> - **Example:** mūḍha (deluded)
 
 ## Register
 

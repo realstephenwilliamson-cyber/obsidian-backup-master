@@ -33,7 +33,7 @@ uktaṃ ca gurubhiḥ śrīmadrauravādisvavṛttiṣu || ^iast
 >
 > Dividing that (year) by twelve, one gets the measure of a (divine) month. Then, dividing that by thirty, one gets a (divine) day and a night. Dividing that by 21,600, we get the measure of a (divine) breath. The various cycles of sixty years and the rest arise there also. 133-134 (with 6.132cd–134ab)
 >
-> Moreover, the venerable teacher (Sadyojyotiṣ) has said in his commentaries on the venerable Raurava and other (āgamas): ‘One day and night of the gods is a year of men, and one year of the gods is three hundred and sixty human years. (with 6.134cd–135)
+> Moreover, the venerable teacher (Sadyojyotiṣ) has said in his commentaries on the venerable Raurava and other (āgamas): ‘One day and night of the gods is a year of men, and one year of the gods is three hundred and sixty human years.’ (with 6.134cd–135)
 
 ## Viveka
 

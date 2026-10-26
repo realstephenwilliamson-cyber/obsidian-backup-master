@@ -20,16 +20,13 @@ nyasa: "left arm (*bāhu*)"
 ## Front
 
 - **Glyph:** छ
-- **Variation:** a variant form, drawn only as a numbered stroke diagram (not copied here)
 - **Example:** छन्द
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘mu<u>ch h</u>oney’
-- **Class (as printed):** 2 (palatal) · hard · aspirated
-- **Grid:** the five rows of stops; in bold: छ
-- **Example:** chanda (pleasing)
+> [!note]- Back
+> - **Pronunciation:** As in ‘mu<u>ch h</u>oney’
+> - **Class:** palatal · hard · aspirated
+> - क ख ग घ ङ / च <u>छ</u> ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म
+> - **Example:** chanda (pleasing)
 
 ## Register
 

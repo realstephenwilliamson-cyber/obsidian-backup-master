@@ -562,7 +562,7 @@ the Palestinian Syriac cannot be cited in support of the Western text here, desp
 
 130\. The “‘certainty” in this case is provided by the confluence of a relatively early Greek witness with a number of Old Latin manuscripts. See further the excursus on Western non-interpolations (pp. 223—27).
 
-131\. In addition to the standard commentaries, which generally reproduce the conventional grounds of rejection (if any at all), see the following important studies: J. Jeremias, Eucharistic Words, 145-52; K. Aland, “Die Bedeutung des P””; Snod-grass, ““Western Non-Interpolations”; George E. Rice, “Western Non-Interpolations: A Defense of the Apostolate”; F. P. G. Curtis, “Luke xxiv.12 and John xx.3—10”; P. Benoirt, ““Marie-Madeleine et les disciples au tombeau selon Joh 20,1—18’; John Muddiman, “A Note on Reading Luke xxiv.12”; Franz Neirynck, ‘““The Uncorrected Historical Present in Lk. xxiv.12”; id., “Lk. xxiv.12.”
+131\. In addition to the standard commentaries, which generally reproduce the conventional grounds of rejection (if any at all), see the following important studies: J. Jeremias, Eucharistic Words, 145-52; K. Aland, “Die Bedeutung des P””; Snod-grass, ““Western Non-Interpolations”; George E. Rice, “Western Non-Interpolations: A Defense of the Apostolate”; F. P. G. Curtis, “[[Luke 24#^24-12|Luke xxiv.12]] and [[John 20#^20-3|John xx.3—10]]”; P. Benoirt, ““Marie-Madeleine et les disciples au tombeau selon Joh 20,1—18’; John Muddiman, “A Note on Reading Luke xxiv.12”; Franz Neirynck, ‘““The Uncorrected Historical Present in [[Luke 24#^24-12|Lk. xxiv.12]]”; id., “[[Luke 24#^24-12|Lk. xxiv.12]].”
 
 132\. Marcion, 247" (German edition).
 
@@ -580,7 +580,7 @@ the Palestinian Syriac cannot be cited in support of the Western text here, desp
 
 373\. It is worth noting that many of the supporters of the verse have not even tried to explain the Western ‘“‘omission.”” Compare Jeremias, Eucharistic Words, 149-51; K. Aland “Die Bedeutung des PS” 168.
 
-139\. As, for example, Muddiman claims was done by a “logic-chopping” Western scribe, in an article that serves the modifier well (“A Note on Reading Luke xxiv. 12”).
+139\. As, for example, Muddiman claims was done by a “logic-chopping” Western scribe, in an article that serves the modifier well (“A Note on Reading [[Luke 24#^24-12|Luke xxiv. 12]]”).
 
 140\. On the infeasibility of the contrived category of “harmonizing omissions,” see note 192.
 

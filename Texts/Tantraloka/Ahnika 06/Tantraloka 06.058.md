@@ -32,7 +32,7 @@ uktaṃ ca śrīyogacāre mokṣaḥ sarvaprakāśanāt || ^iast
 >
 > Without knowing the true nature of emanation and the rest, one is not liberated, nor can one liberate others. (with 6.58ab)
 >
-> And it is said in the venerable the Yogacāra: ‘liberation is (attained) by the revelation of all (these) things. (with 6.58cd)
+> And it is said in the venerable the Yogacāra: ‘liberation is (attained) by the revelation of all (these) things.’ (with 6.58cd)
 
 ## Viveka
 

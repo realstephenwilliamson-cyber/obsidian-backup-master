@@ -58,7 +58,7 @@ Text: [[NRSVue Ephesians 01|NRSVue]] · [[Ephesians 01|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Ephesians 01#^1-20|20]]:** *This power . . . when he raised him from the dead*, like the second blessing of the rabbinic prayer, the Amidah, associating God’s power with resurrection; see *m. Ber*. 5.2. *Seated him at his right hand*, see [[Psalms 110#^110-1|Ps 110.1]]. ^1-20-2
 
-**[[NRSVue Ephesians 01#^1-21|21]]:** *This age . . . age to come*, see [[Matthew 12#^12-32|Mt 12.32]] and especially [[Mark 10#^10-30|Mk 10.30]] (“the age to come eternal life”); the rabbinic Heb equivalent is “ʿolam ha-zeh” and “ʿolam ha-baʾ,” “this world” and “the world to come,” that is, the redeemed world following resurrection; see, e.g., [[Bava Batra 75#75b|*b. B. Bat*. 75b]]. ^1-21
+**[[NRSVue Ephesians 01#^1-21|21]]:** *This age . . . age to come*, see [[Matthew 12#^12-32|Mt 12.32]] and especially [[Mark 10#^10-30|Mk 10.30]] (“the age to come eternal life”); the rabbinic Heb equivalent is “ʿolam ha-zeh” and “ʿolam ha-baʾ,” “this world” and “the world to come,” that is, the redeemed world following resurrection; see, e.g., *b. B. Bat*. [[Bava Batra 75#75b|75b]]. ^1-21
 
 **[[NRSVue Ephesians 01#^1-22|22–23]]:** *Over all things for the church, which is his body*, see 4.15**–**16 and [[1 Corinthians 12#^12-12|1 Cor 12.12]]**–**27. ^1-22
 

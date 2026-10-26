@@ -48,9 +48,9 @@ The dating of the biblical books varies according to the considered opinion of s
 
 The Dead Sea Scrolls
 
-important. According to biblical tradition, Ezra was a priest and scribe who was devoted to the study of the law (Ezra 7.6, 10); he received a document from the Persian king Artaxerxes IIT Mennon (404-359 BCE) allowing him to return to the province of Yehud or Judah with the exiles and the Temple gold and silver; he was commissioned to teach the law of the Israelite God (Ezra 7.12-26); he read the law of Moses and his aids helped the people read ‘clearly’ by giving the sense (Neh 8). There are legendary elements in this depiction of Ezra, but broadly speaking it does indicate a renewal of the study of the law in the Persian period. Revisionists would date the biblical texts later to the Hellenistic period, but the majority of scholars still consider the Persian period as the time when most of the scriptures, in one form or another, were composed and edited.
+important. According to biblical tradition, Ezra was a priest and scribe who was devoted to the study of the law ([[Ezra 07#^7-6|Ezra 7.6]], [[Ezra 07#^7-10|10]]); he received a document from the Persian king Artaxerxes IIT Mennon (404-359 BCE) allowing him to return to the province of Yehud or Judah with the exiles and the Temple gold and silver; he was commissioned to teach the law of the Israelite God ([[Ezra 07#^7-12|Ezra 7.12-26]]); he read the law of Moses and his aids helped the people read ‘clearly’ by giving the sense (Neh 8). There are legendary elements in this depiction of Ezra, but broadly speaking it does indicate a renewal of the study of the law in the Persian period. Revisionists would date the biblical texts later to the Hellenistic period, but the majority of scholars still consider the Persian period as the time when most of the scriptures, in one form or another, were composed and edited.
 
-In the Persian period the Hebrew language was now becoming increasingly unfamiliar and Jews, whose vernacular had become Aramaic, needed translations to help them understand the Mosaic Law written in the holy tongue. Aramaic is a northwest semitic language originally spoken by the Aramaeans; it became the official language of the Persian Empire. The Hollywood blockbuster, The Passion of the Christ, portrayed Jesus speaking in a form of Aramaic (and Latin!). The Hebrew Bible reflects this linguistic transition with passages written in Aramaic (Jeremiah 10.11, Ezra 4.8-6.18, 7.12-26 and Daniel 2.4b-7.28) as well as in Hebrew.
+In the Persian period the Hebrew language was now becoming increasingly unfamiliar and Jews, whose vernacular had become Aramaic, needed translations to help them understand the Mosaic Law written in the holy tongue. Aramaic is a northwest semitic language originally spoken by the Aramaeans; it became the official language of the Persian Empire. The Hollywood blockbuster, The Passion of the Christ, portrayed Jesus speaking in a form of Aramaic (and Latin!). The Hebrew Bible reflects this linguistic transition with passages written in Aramaic ([[Jeremiah 10#^10-11|Jeremiah 10.11]], [[Ezra 04#^4-8|Ezra 4.8-6.18]], 7.12-26 and [[Daniel 02#^2-4|Daniel 2.4b-7.28]]) as well as in Hebrew.
 
 One other important linguistic development is the further shift of the Jewish vernacular to Greek. In the Hellenistic period, Greek culture and language came to dominate the Near East and Alexandrian Jews translated into Greek the five books of Moses as well as the remaining prophecies and writings. A tale recounts how Ptolemy II (285-246 BCE) requested a copy of the Jewish Torah to be translated from Hebrew to Greek and to be deposited in his great library in Alexandria. Seventy-two elders were dispatched from Jerusalem and they accomplished their task in seventy two days. Even though this account from the Letter to Aristeas is far-fetched and there is variation in Jewish sources on precisely how many
 
@@ -64,7 +64,7 @@ The Septuagint has its own textual history; it was not translated altogether at 
 
 Antiquity of the biblical texts
 
-Before the discovery of the Qumran scrolls, scholars had to be satisfied with studying Hebrew biblical manuscripts that date to the mediaeval period. The Nash Papyrus, dating to the first and second century BCE, was the only extant exception, although it was not a biblical text as such but a liturgical anthology of quotations from Exodus 20 and Deuteronomy 5. The Masoretic Text, as the mediaeval text was called, is the textus receptus or received text. English translations available today are based on the Masoretic Text and most modern ones are translated from the Leningrad Codex of the St. Petersburg Library in Russia (dating to ca. 1000)
+Before the discovery of the Qumran scrolls, scholars had to be satisfied with studying Hebrew biblical manuscripts that date to the mediaeval period. The Nash Papyrus, dating to the first and second century BCE, was the only extant exception, although it was not a biblical text as such but a liturgical anthology of quotations from [[Torah 17 - Yitro#^20-1|Exodus 20]] and [[Torah 45 - Vaetchanan#^5-1|Deuteronomy 5]]. The Masoretic Text, as the mediaeval text was called, is the textus receptus or received text. English translations available today are based on the Masoretic Text and most modern ones are translated from the Leningrad Codex of the St. Petersburg Library in Russia (dating to ca. 1000)
 
 (Figure 9).
 
@@ -102,7 +102,7 @@ In ancient times, ‘manuscripts’, as the word suggests, were written and copi
 
 target language.
 
-Before the discovery of the scrolls, there were three previously known text-types of the Hebrew Bible: the Masoretic Text, the Samaritan Pentateuch and the Septuagint. The second of these refers to the Torah of the Samaritan community who consider themselves descendants of the ancient Northern Kingdom of Israel. The origins of the Samaritan community is a question of much debate; some sources hold that they were foreigners (2 Kgs 17.2434), the indigenous people of Samaria (Ezra 4.4) or a sect that broke away from Judaism in the Hellenistic period (Josephus Jewish Antiquities 11.340-345). The Samaritans regard the real sanctuary of God to be situated on Mount Gerizim and not in Jerusalem. They still reside today on that holy mountain in Israel and practise their own traditions. Their version of the Torah is characterized by expansionist and ideological readings. Strictly speaking the Samaritan Pentateuch refers only to the first five books, but the text-type is applied to the rest of the Hebrew Bible
+Before the discovery of the scrolls, there were three previously known text-types of the Hebrew Bible: the Masoretic Text, the Samaritan Pentateuch and the Septuagint. The second of these refers to the Torah of the Samaritan community who consider themselves descendants of the ancient Northern Kingdom of Israel. The origins of the Samaritan community is a question of much debate; some sources hold that they were foreigners (2 Kgs 17.2434), the indigenous people of Samaria ([[Ezra 04#^4-4|Ezra 4.4]]) or a sect that broke away from Judaism in the Hellenistic period (Josephus Jewish Antiquities 11.340-345). The Samaritans regard the real sanctuary of God to be situated on Mount Gerizim and not in Jerusalem. They still reside today on that holy mountain in Israel and practise their own traditions. Their version of the Torah is characterized by expansionist and ideological readings. Strictly speaking the Samaritan Pentateuch refers only to the first five books, but the text-type is applied to the rest of the Hebrew Bible
 
 by analogy.
 
@@ -130,11 +130,11 @@ Some variant readings
 
 Let us take a brief look at four examples of how the Qumran biblical texts contribute to variant readings in specific passages from the Hebrew Bible.
 
-10\. A copy of Samuel that preserves the missing paragraph of 1 Samuel 10-11
+10\. A copy of Samuel that preserves the missing paragraph of [[I Samuel 10#^10-1|1 Samuel 10]]-11
 
 The Nahash Episode of 4QSamuel\*
 
-This is the best known of the variants that have appeared in the Qumran scrolls. At the beginning of 1 Samuel 11, there is an account of Nahash the Ammonite besieging the Israelite town of Jabesh-gilead. In the books of Samuel, scholars have identified two literary strands, an early source that considered the establishment of the kingship as divinely ordained and a late source that was anti-monarchy. The Revised Standard Version of the end of chapter 10 and the beginning of chapter 11 read as follows:
+This is the best known of the variants that have appeared in the Qumran scrolls. At the beginning of [[I Samuel 11#^11-1|1 Samuel 11]], there is an account of Nahash the Ammonite besieging the Israelite town of Jabesh-gilead. In the books of Samuel, scholars have identified two literary strands, an early source that considered the establishment of the kingship as divinely ordained and a late source that was anti-monarchy. The Revised Standard Version of the end of chapter 10 and the beginning of chapter 11 read as follows:
 
 °7 But some worthless fellows said, “How can this man \[ie Saul\] save us?” And they despised him, and brought him no present. But he held his peace. 11:1 Then Nahash the Ammonite went up and besieged Jabesh gilead; and all the men of Jabesh said to Nahash, “Make a treaty with us, and we will serve you.” ? But Nahash the
 
@@ -160,17 +160,17 @@ The Dead Sea Scrolls
 
 entered Jabesh-gilead. “\*\* 11:1 About a month later, Nahash the Ammonite went up and besieged Jabesh-gilead ....
 
-It explains that Nahash was the king of the Ammonites; whenever a foreign king is introduced for the first time in the books of Samuel and Kings, his full title is given (e.g., Agag the king of the Amalekites in 1 Sam 15.8 or Ben Hadad king of Aram in 2 Kgs 6.24). It provides the reason for Nahash’s otherwise unprovoked attack on the inhabitants of Jabesh-gilead, namely that they were harbouring 7,000 fugitives from the tribes of Gad and Reuben. Nahash stipulated the condition of the treaty with the same horrific form of mutilation that he meted out against his arch-enemies. Gouging out eyes and dismemberment, repugnant to our sensibilities, were standard punishments on rebels, enemies and violators of treaties in the Ancient Near East.
+It explains that Nahash was the king of the Ammonites; whenever a foreign king is introduced for the first time in the books of Samuel and Kings, his full title is given (e.g., Agag the king of the Amalekites in [[I Samuel 15#^15-8|1 Sam 15.8]] or Ben Hadad king of Aram in [[II Kings 06#^6-24|2 Kgs 6.24]]). It provides the reason for Nahash’s otherwise unprovoked attack on the inhabitants of Jabesh-gilead, namely that they were harbouring 7,000 fugitives from the tribes of Gad and Reuben. Nahash stipulated the condition of the treaty with the same horrific form of mutilation that he meted out against his arch-enemies. Gouging out eyes and dismemberment, repugnant to our sensibilities, were standard punishments on rebels, enemies and violators of treaties in the Ancient Near East.
 
 It is likely that these lines dropped out of the Masoretic Text by the scribal error of the eye skipping from one paragraph break to another, both reading ‘Nahash’. In the account of Nahash and Jabesh-gilead in Jewish Antiquities 6.68, it is evident that Josephus had a text that contained this missing paragraph. Some scholars are so convinced that this originally belonged to the biblical text that they have reinserted the paragraph into the English translation of 1 Samuel. The letters ‘NRS’ in superscript just before verse 11.1 indicate that I have cut and pasted this in from the New Revised Standard Version of the Bible published in 1990.
 
-11\. A fragment of 4QGen-Exod’ of Genesis 22 naming Mount Moriah as ‘Elohim Yireh’
+11\. A fragment of 4QGen-Exod’ of [[Torah 04 - Vayera#^22-1|Genesis 22]] naming Mount Moriah as ‘Elohim Yireh’
 
 *[p. 51]* ^pg62
 
-Mount Moriah in Genesis 22.14 The above example is considered unusual or exceptional in including a whole missing paragraph. However, even the variant of a single word can be highly significant, depending upon what it is. Consider the name of the mountain on which Isaac was nearly sacrificed which according to the Masoretic Text is named ‘Yahweh (or pronounced Adonai) Yireh’, often translated as ‘the Lord will provide or see to it’.
+Mount Moriah in [[Torah 04 - Vayera#^22-14|Genesis 22.14]] The above example is considered unusual or exceptional in including a whole missing paragraph. However, even the variant of a single word can be highly significant, depending upon what it is. Consider the name of the mountain on which Isaac was nearly sacrificed which according to the Masoretic Text is named ‘Yahweh (or pronounced Adonai) Yireh’, often translated as ‘the Lord will provide or see to it’.
 
-The Aqedah or binding of Isaac, as it is called, is one of the most moving accounts of human drama in the Hebrew Bible. Abraham’s wife, Sarah, had been childless until God opened her womb, made her conceive and give birth to Isaac (Genesis 21). At the beginning of chapter 22 and for reasons unknown God tested Abraham and commanded him to take his only beloved son Isaac to the land of Moriah and to offer him there as a holocaust or whole burnt offering. The theological problem posed by such a command for moderns was articulated by Immanuel Kant:
+The Aqedah or binding of Isaac, as it is called, is one of the most moving accounts of human drama in the Hebrew Bible. Abraham’s wife, Sarah, had been childless until God opened her womb, made her conceive and give birth to Isaac ([[Torah 04 - Vayera#^21-1|Genesis 21]]). At the beginning of chapter 22 and for reasons unknown God tested Abraham and commanded him to take his only beloved son Isaac to the land of Moriah and to offer him there as a holocaust or whole burnt offering. The theological problem posed by such a command for moderns was articulated by Immanuel Kant:
 
 There are certain cases in which man can be convinced that it cannot be God whose voice he thinks he hears; when the voice commands him to do what is opposed to the moral law... The myth of the sacrifice of Abraham can serve as an example: Abraham, at God’s command, was going to slaughter his own son - the poor child in his ignorance even carried the wood. Abraham should have said to this supposed divine voice: that I am not to kill my beloved son is quite certain; that you who appear to me as God, I am not certain, nor can I ever be, even if the voice thunders from the sky’ (in ‘The Disputes between the Philosophical and Theological
 
@@ -184,7 +184,7 @@ In the Genesis narrative, Abraham bound Isaac, thus the name ‘aqedal’ or bin
 
 The Dead Sea Scrolls
 
-determination in Abraham’s eyes. In the biblical story Abraham was commended for his faithfulness as a ‘fearer of God (elohimy (v. 12) and a ram was sacrificed in his son’s stead. The climax of this episode is the naming of the place by Abraham as ‘Yahweh Yireh’ with an explanatory gloss that to this day ‘on the mountain of Yahweh he may be seen’ (or RSV ‘it shall be provided’). 2 Chronicles 3 interpreted the place to be the Temple site stating that Solomon had built the house of God on Mount Moriah where the Lord appeared to David his father (v. 1). The tradition remains today with Mount Moriah being identified with the Temple esplanade and the very rock on which Isaac was to be sacrificed housed under the Dome of the Rock. It was also on this rock, according to Muslim tradition, that Muhammad ascended to heaven on his nightly
+determination in Abraham’s eyes. In the biblical story Abraham was commended for his faithfulness as a ‘fearer of God (elohimy (v. 12) and a ram was sacrificed in his son’s stead. The climax of this episode is the naming of the place by Abraham as ‘Yahweh Yireh’ with an explanatory gloss that to this day ‘on the mountain of Yahweh he may be seen’ (or RSV ‘it shall be provided’). [[II Chronicles 03#^3-1|2 Chronicles 3]] interpreted the place to be the Temple site stating that Solomon had built the house of God on Mount Moriah where the Lord appeared to David his father (v. 1). The tradition remains today with Mount Moriah being identified with the Temple esplanade and the very rock on which Isaac was to be sacrificed housed under the Dome of the Rock. It was also on this rock, according to Muslim tradition, that Muhammad ascended to heaven on his nightly
 
 journeys (Quran, sura 17).
 
@@ -192,13 +192,13 @@ In 4QGen-Exod\* (4Q1), the name of the place is given as ‘Elohim Yireh’ or �
 
 Goliath’s height
 
-According to 1 Samuel 17, the Philistines had a champion who caused great fear in King Saul and the people of Israel. The Masoretic Text reported that he was a giant of six cubits and a span or ca. 3 metres (or 9 foot 9 inches) (v. 4). The main witnesses of the Septuagint and 4QSam’ , however, provide measurements of a man who though he was tall, was not of gigantic proportions at four cubits and a span or ca. 2m (or 6 foot 9 inches) (figure 21). Many professional basketball players would be taller than Goliath!
+According to [[I Samuel 17#^17-1|1 Samuel 17]], the Philistines had a champion who caused great fear in King Saul and the people of Israel. The Masoretic Text reported that he was a giant of six cubits and a span or ca. 3 metres (or 9 foot 9 inches) (v. 4). The main witnesses of the Septuagint and 4QSam’ , however, provide measurements of a man who though he was tall, was not of gigantic proportions at four cubits and a span or ca. 2m (or 6 foot 9 inches) (figure 21). Many professional basketball players would be taller than Goliath!
 
 *[p. 53]* ^pg64
 
 12\. David and Goliath in battle
 
-‘Those who wait upon the Lord’ (Isaiah 40.31)
+‘Those who wait upon the Lord’ ([[Isaiah 40#^40-31|Isaiah 40.31]])
 
 One of the well loved verses in Isaiah is the assurance that the author of ‘Second Isaiah’ gives to the Israelite exiles of a renewal of their strength. The passage was celebrated in the re-creation of the life of Eric Liddell, the Scottish missionary, in the academy award winning film Chariots of Fire. Liddell, the rugby and sprinting star, who refused to compromise his Christian principles by running on the Sabbath in the 1924 Olympic Games, read out in church this passage from Isaiah prior to his race. The translation is best known in the Authorized Version or King James Version
 
@@ -224,11 +224,11 @@ two examples.
 
 1QpHab
 
-IQpHab is a sectarian biblical commentary characterized by a verse-by-verse explication of the first two chapters of the prophecy of Habakkuk. The commentary follows the general pattern of biblical quotation, introductory formula and comment. In column UH, lines 9-15, the pesherist or sectarian commentator interpreted Habakkuk 2.16 in the following way.
+IQpHab is a sectarian biblical commentary characterized by a verse-by-verse explication of the first two chapters of the prophecy of Habakkuk. The commentary follows the general pattern of biblical quotation, introductory formula and comment. In column UH, lines 9-15, the pesherist or sectarian commentator interpreted [[Habakkuk 2#^2-16|Habakkuk 2.16]] in the following way.
 
-You have filled yourself with ignominy more than with glory. Drink also, and stagger! The cup of the Lord’s right hand shall come round to you and shame shall come on your glory (Habakkuk 2.16). Interpreted (pishro = pesher + suffix), this concerns the Priest whose ignominy was greater than his glory. For he did not circumcise the foreskin of his heart, and he walked in the ways of drunkenness that he might quench his thirst. But the cup of the wrath of God shall confuse him, multiplying his ... and the pain of ....
+You have filled yourself with ignominy more than with glory. Drink also, and stagger! The cup of the Lord’s right hand shall come round to you and shame shall come on your glory ([[Habakkuk 2#^2-16|Habakkuk 2.16]]). Interpreted (pishro = pesher + suffix), this concerns the Priest whose ignominy was greater than his glory. For he did not circumcise the foreskin of his heart, and he walked in the ways of drunkenness that he might quench his thirst. But the cup of the wrath of God shall confuse him, multiplying his ... and the pain of ....
 
-The biblical quotation of Habakkuk 2.16 in this section of 1QpHab varies from the same verse found in the Masoretic Text; the difference lies in the second verb. The following is a more literal translation of the phrases than the one given above:
+The biblical quotation of [[Habakkuk 2#^2-16|Habakkuk 2.16]] in this section of 1QpHab varies from the same verse found in the Masoretic Text; the difference lies in the second verb. The following is a more literal translation of the phrases than the one given above:
 
 *[p. 55]* ^pg66
 
@@ -238,21 +238,21 @@ and
 
 Masoretic Text Drink also you and be uncircumcised
 
-There are two readings, one about inebriation and tottering while the other is an odd linking of drinking with the preservation of one’s foreskin. In the original Hebrew texts there is a lexical play on the verbs used. When we read the biblical quotation and sectarian comment together it is clear that while he cited one version of Habakkuk 2.16 (also reflected in the Septuagint), the pesherist also did know the other Masoretic Text reading: he condemned the ‘wicked priest’ for not having circumcised ‘the foreskin of his heart’.
+There are two readings, one about inebriation and tottering while the other is an odd linking of drinking with the preservation of one’s foreskin. In the original Hebrew texts there is a lexical play on the verbs used. When we read the biblical quotation and sectarian comment together it is clear that while he cited one version of [[Habakkuk 2#^2-16|Habakkuk 2.16]] (also reflected in the Septuagint), the pesherist also did know the other Masoretic Text reading: he condemned the ‘wicked priest’ for not having circumcised ‘the foreskin of his heart’.
 
-1 Peter I Peter in the New Testament is a letter of encouragement written to Gentile Christians in the second half of the first century CE. It quotes several passages from the Old Testament to support its message, one of which is Isaiah 40.6-8 which is cited in Peter 1.24-25:
+1 Peter I Peter in the New Testament is a letter of encouragement written to Gentile Christians in the second half of the first century CE. It quotes several passages from the Old Testament to support its message, one of which is [[Isaiah 40#^40-6|Isaiah 40.6-8]] which is cited in Peter 1.24-25:
 
 319414 MeiqgaH ay} UO 3461\] Mon
 
 All flesh is as grass, and all its glory as the flower of the field, the grass withers and the flower falls off, but the word of the Lord remains for ever.
 
-1 Peter quoted Isa 40.6-8 from the shorter, Septuagint text. The Masoretic Text is longer with an additional verse 7 that reads: ‘grass withers, a flower fades, because the spirit of the Lord breathes upon . The difference between the two
+1 Peter quoted [[Isaiah 40#^40-6|Isa 40.6-8]] from the shorter, Septuagint text. The Masoretic Text is longer with an additional verse 7 that reads: ‘grass withers, a flower fades, because the spirit of the Lord breathes upon . The difference between the two
 
 can be explained by the scribal error of parablepsis, the eye skipping 999
 
 it. Surely “grass” is “the people
 
-from the beginning of v. 7 to the subsequent v. 9 (both starting with ‘grass withers’). In the Great Isaiah Scroll from Cave 1, the first scribe copied the shorter version of Isa 40.6-8; a second scribe
+from the beginning of v. 7 to the subsequent v. 9 (both starting with ‘grass withers’). In the Great Isaiah Scroll from Cave 1, the first scribe copied the shorter version of [[Isaiah 40#^40-6|Isa 40.6-8]]; a second scribe
 
 *[p. 56]* ^pg67
 

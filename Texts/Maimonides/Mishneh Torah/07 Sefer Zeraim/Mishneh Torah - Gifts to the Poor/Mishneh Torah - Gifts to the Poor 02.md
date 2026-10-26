@@ -107,7 +107,7 @@ Why wasn't only one time a day established [for the poor to take]? Because there
 [^16]: See Chapter 3, Halachah 23, which mentions laws that are relevant to this situation.
 [^17]: He does not have to leave *pe'ah* for the amount that he harvested previously. The rationale is that since he harvested it indiscriminately, his act is not considered as significant. It is as if he picked some grapes haphazardly. As the Rambam continues to state, *pe'ah* is not required for such a harvest. Hence, when he harvests the grapes for the vat, he must leave *pe'ah* only for the grapes he is harvesting at that time.
 [^18]: As explained above, a person is obligated to leave *pe'ah* only when he "harvests" his field. If he just gathers his food in a haphazard sporadic manner, he is not considered to have harvested and hence, is not liable to leave *pe'ah*.
-[^19]: Here, also, the same rationale applies. Since the produce did not ripen completely, reaping it is not considered as a "harvest" ([[Menachot 71#71b|*Menachot* 71b]]).
+[^19]: Here, also, the same rationale applies. Since the produce did not ripen completely, reaping it is not considered as a "harvest" (*Menachot* [[Menachot 71#71b|71b]]).
 [^20]: Or any of the other "presents to the poor" [the Rambam's Commentary to the Mishnah (*Pe'ah* 4:7)].
 [^21]: For at the time he harvested it, it was his private property.
 [^22]: Because at the time he harvested it, he was not obligated to observe these mitzvot.
@@ -123,7 +123,7 @@ Why wasn't only one time a day established [for the poor to take]? Because there
 [^31]: The *Tosefta* (*Pe'ah*, ch. 1) states that this measure was instituted for the sake of the poor, so that their time would not be wasted waiting in limbo until the owner of the field designated a portion of the field as *pe'ah*. Instead, they could judge when he would complete his harvest and come at that time alone.
 [^32]: He need not, however, leave *pe'ah* for the entire field. The *pe'ah* that he separated originally is effective in discharging the obligation for the crops harvested before it was separated.
 [^33]: On one side of his field. Our translation is based on the gloss of the Radbaz.
-[^34]: Although the owner did not explicitly say "And also this," we interpret that as his intent. Since this question is left unresolved by [[Nedarim 6#6b|*Nedarim* 6b]], the Rambam rules stringently (*Kessef Mishneh*).
+[^34]: Although the owner did not explicitly say "And also this," we interpret that as his intent. Since this question is left unresolved by *Nedarim* [[Nedarim 6#6b|6b]], the Rambam rules stringently (*Kessef Mishneh*).
 [^35]: For they are acting on the owner's behalf.
 [^36]: If, however, a poor person sees the owner separating *pe'ah*, he may take it, for he can assume that the owner consciously separated it.
 [^37]: In contrast to the following halachah, here the Rambam is speaking about orchards with low trees which are not dangerous for the poor to climb.

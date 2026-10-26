@@ -16,7 +16,7 @@ Text: [[NRSVue Matthew 15|NRSVue]] · [[Matthew 15|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 15#^15-1|Text]], p. 39* · ([[Mark 07#^7-1|Mk 7.1–23]]). ^15-1
 
-**[[NRSVue Matthew 15#^15-2|2]]:** *Do not wash*, see [[Torah 21 - Ki Tisa#^30-17|Ex 30.17–21]], concerning priests; rabbinic legislation extends several Temple purity practices to the household (see *m. Yad*. 1.1–2.4; [[Berakhot 53#53b|*b. Ber*. 53b]]; [[Gittin 15#15b|*b. Git*. 15b]]; [[Pesachim 115#115a|*b. Pesah*. 115a]]-b; [[Sukkah 26#26b|*b. Sukk.* 26b]]; 27a). ^15-2
+**[[NRSVue Matthew 15#^15-2|2]]:** *Do not wash*, see [[Torah 21 - Ki Tisa#^30-17|Ex 30.17–21]], concerning priests; rabbinic legislation extends several Temple purity practices to the household (see *m. Yad*. 1.1–2.4; *b. Ber*. [[Berakhot 53#53b|53b]]; *b. Git*. [[Gittin 15#15b|15b]]; *b. Pesah*. [[Pesachim 115#115a|115a]]-b; *b. Sukk.* [[Sukkah 26#26b|26b]]; 27a). ^15-2
 
 **[[NRSVue Matthew 15#^15-4|4]]:** *Honor your father and your mother*, [[Torah 17 - Yitro#^20-12|Ex 20.12]]; [[Torah 45 - Vaetchanan#^5-16|Deut 5.16]]. *Whoever speaks evil*, [[Torah 18 - Mishpatim#^21-17|Ex 21.17]]; [[Torah 30 - Kedoshim#^20-9|Lev 20.9]]. ^15-4
 

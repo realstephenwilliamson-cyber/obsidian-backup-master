@@ -94,12 +94,12 @@ They all are the aspect of the manifestation of the will of the Supreme One, ble
 [^18]: *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-210b|II:210b]].
 [^19]: [[Torah 18 - Mishpatim#^24-18|Exodus 24:18]]; see *Zohar* [[Zohar 6.06 - Parashat Pequdei#^z2-229a|II:229a]] and [[Zohar 1.08 - Parashat Noah#^z1-66a|I:66a]].
 [^20]: The preceding discourse dealing with the garments of the soul.
-[^21]: See [[Chagigah 12#12a|*Chagigah* 12a]]; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-45b|I:45b]] and [[Zohar 5.05 - Parashat Terumah#^z2-148b|II:148b]], (above, Epistle 27, and notes 33 and 34 ad loc.).
+[^21]: See *Chagigah* [[Chagigah 12#12a|12a]]; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-45b|I:45b]] and [[Zohar 5.05 - Parashat Terumah#^z2-148b|II:148b]], (above, Epistle 27, and notes 33 and 34 ad loc.).
 [^22]: *Zohar* [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-123b|I:123b]]; [[Zohar 8.09 - Idra Rabba#^z3-128b|III:128b]] and [[Zohar 9.15 - Idra Zuta#^z3-288a|288a]].
 [^23]: [[Torah 05 - Chayei Sara#^23-15|Genesis 23:15]].—כסף (silver) is etymologically related to לכסוף (to long; to desire).
 [^24]: Brackets appear in the text.
 [^25]: The above may be summarized as follows: In the soul there is a faculty of delight. This faculty is most deep-seated and innate to the soul, beyond any apprehension. The propensity to like or dislike, that something will appeal to a person or not, is a natural disposition and innate part of the soul. In fact, it is the most basic faculty of the soul. Based on it is man’s will. By nature man wills that which is agreeable to him; what he likes; that which realizes his capacity for delight. Will itself expresses itself on two levels. Most often it is subject to reason. Man wills what reason dictates to him as being most agreeable. First he reasons what would be in his best interest and best agrees with his natural disposition for delight. Then he focuses his will on this rational goal. This is the “lower” or “inferior” will (so called because it is dependent on, thus lower than, reason). The second type of will is not subject to reason. It does not express itself after a rational calculation but transcends it. It is supra-rational and may even act against the dictates of reason (stubbornness would be an example; see above, Epistle 22, note 60). This second type of will, the “superior” or “supreme” will, is the very basic or natural disposition of willing; the “will of will,” or the “will to will,” as it were. (Cf. also *Siddur Im Dach*, pp. 161a ff.)
-[^26]: [[Berakhot 31#31b|*Berachot* 31b]].
+[^26]: *Berachot* [[Berakhot 31#31b|31b]].
 [^27]: *Mechilta* and *Tanchuma* on [[Torah 17 - Yitro#^19-18|Exodus 19:18]].
 [^28]: See above, beg. of Epistle 15, and notes, ad loc.
 [^29]: *Zohar* [[Zohar 2.158a|II:158a]]; Cf. above, Epistle 5.
@@ -110,8 +110,8 @@ They all are the aspect of the manifestation of the will of the Supreme One, ble
 [^34]: See *Masechet Atzilut*, near the end; R. Shem Tov ibn Shem Tov, *Sefer Haemunot* 4:7; R. Moses Cordovero, *Pardes Rimonim* 8:3; and *Shiur Komah*, ch. 93, s.v. *Keter* and *Ratzon*; *Likkutei Amarim*, Part I, ch. 53.
 [^35]: See *Etz Chaim* 23:1, 2; ibid. 25:5; above, Epistle 17 (note 27, ad loc.).
 [^36]: Thus 620 precepts corresponding to the 620 pillars of light.
-[^37]: [[Sanhedrin 65#65a|*Sanhedrin* 65a]].
-[^38]: See [[Eruvin 22#22a|*Eruvin* 22a]].
+[^37]: *Sanhedrin* [[Sanhedrin 65#65a|65a]].
+[^38]: See *Eruvin* [[Eruvin 22#22a|22a]].
 [^39]: Or to evil.
 [^40]: See *Etz Chaim* 26:1; *Likkutei Amarim*, Part I, ch. 37.
 [^41]: [[I Samuel 25#^25-29|I Samuel 25:29]]; see *Likkutei Torah*, Shelach 51d.
@@ -121,15 +121,15 @@ They all are the aspect of the manifestation of the will of the Supreme One, ble
 [^45]: [[Torah 47 - Re'eh#^13-1|Deuteronomy 13:1]]; Maimonides, *Hilchot Yesodei HaTorah* 9:1.
 [^46]: [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-210b|II:210b]].
 [^47]: See above, Epistle 12, note 17.
-[^48]: [[Sanhedrin 65#65a|*Sanhedrin* 65a]]; [[Berakhot 20#20b|*Berachot* 20b]].
-[^49]: *Hilchot Talmud Torah* 2:12; see [[Eruvin 54#54a|*Eruvin* 54a]].
+[^48]: *Sanhedrin* [[Sanhedrin 65#65a|65a]]; *Berachot* [[Berakhot 20#20b|20b]].
+[^49]: *Hilchot Talmud Torah* 2:12; see *Eruvin* [[Eruvin 54#54a|54a]].
 [^50]: See above, Epistle 25, note 61.
 [^51]: [[Torah 45 - Vaetchanan#^6-8|Deuteronomy 6:8]].
 [^52]: [[Torah 17 - Yitro#^20-10|Exodus 20:10]]; [[Torah 45 - Vaetchanan#^5-14|Deuteronomy 5:14]].
 [^53]: See Mishnah, *Shabbat* 7:2.
 [^54]: [[Proverbs 01#^1-8|Proverbs 1:8]].
 [^55]: See *Zohar* II:276b. See also ibid. [[Zohar 6.06 - Parashat Pequdei#^z2-238b|238b]], and cf. ibid. [[Zohar 4.07 - Parashat Yitro#^z2-85a|85a]]. (This verse is explicitly interpreted thus, in *Midrash Mishlei* 1:8.)
-[^56]: See *Zohar* III:93a; cf. [[Niddah 31#31a|*Niddah* 31a]].
+[^56]: See *Zohar* III:93a; cf. *Niddah* [[Niddah 31#31a|31a]].
 [^57]: See ref. cited above, note 55, and *Yalkut Shimoni* on Proverbs (ad loc.; sect. 929).
 [^58]: See ref. cited above, note 30.
 [^59]: See above, Epistle 15, note 9.

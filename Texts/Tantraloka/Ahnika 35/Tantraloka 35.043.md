@@ -27,7 +27,7 @@ tatra tatra ca śāstreṣu nyarūpyata maheśinā || ^iast
 > [!source] Dyczkowski, vol. XI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)/Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#^pg235|p. 217]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 11.pdf#page=235>))
 >
-> ‘In actual fact, only the effort directed at the main part (which is most important) is fruitful, and so it is necessary that someone, impelled by Śiva, should exert himself in this (system). (with 35.42cd–43ab)
+> ‘In actual fact, only the effort directed at the main part (which is most important) is fruitful’, and so it is necessary that someone, impelled by Śiva, should exert himself in this (system). (with 35.42cd–43ab)
 >
 > Maheśvara himself has clearly said in many places in the scriptures that it is difficult to find (even) one individual who is qualified to this (high) degree (for this tradition). (with 35.43cd–44ab)
 

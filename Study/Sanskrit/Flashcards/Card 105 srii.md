@@ -20,18 +20,11 @@ nyasa: "śa: bone (*asthi*) · ra: blood (*rakta*) · ī: left eye (*dṛk*)"
 ## Front
 
 - **Glyph:** श्री
-- **Variation:** —
-- **Example:** —
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** —
-- **Gloss:** noun: ‘prosperity’
-- **Class (as printed):** —
-- **Note (no printed label):** This is used as an auspicious symbol as well as an honorific term of address.
-- **Grid:** a row of vowel signs (◌ा ◌ि ◌ी ◌ु ◌ू) above the seven rows (the stops, then य र ल व, then श ष स ह); in bold: ◌ी, र, श
-- **Example:** —
+> [!note]- Back
+> - **Gloss:** noun: ‘prosperity’
+> - **Note:** This is used as an auspicious symbol as well as an honorific term of address.
+> - ा ि <u>ी</u> ु ू / क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / य <u>र</u> ल व / <u>श</u> ष स ह
 
 ## Register
 

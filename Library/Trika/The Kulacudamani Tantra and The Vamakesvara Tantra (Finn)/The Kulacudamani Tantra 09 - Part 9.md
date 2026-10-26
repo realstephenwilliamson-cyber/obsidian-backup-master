@@ -20,7 +20,7 @@ As they say:
 
 What is there to be known or done and what designations are therein?
 
-Hence, wisemen gather the primordial kalā[^28] of the flash of distinctions into an image[^29] of the Goddess in order to achieve the knowledge of all things."3° (Tan. 10:210)
+Hence, wisemen gather the primordial kalā[^28] of the flash of distinctions into an image[^29] of the Goddess in order to achieve the knowledge of all things."[^30] (Tan. 10:210)
 
 End of commentary on Verse 7.
 
@@ -34,7 +34,8 @@ For "meditation" is one's whole being undividedly intent on a specific subject o
 
 [^27]: "Tugt" can refer to one of the sixteen factors of time in Kashmir Saivism. Here it is to be understood in the sense of the initial moment of time.
 [^28]: See the. "Introd. to the Philo. of the Texts" for some of the many connotations of kalā.
-[^29]: There is a play on the word "pratibhā" because it can mean both "image", and the "extrovert light of consetousness" tn the Pratyabhijñā school of Kashmir Ŝaivism of which Abhinava-gupta (author of the Tantrāloka) ís an exponent. (Ibid., p. 708) 30\. The first tuṭi is said to be all fullness and without distinetions referring to Prakāśa. From then onwards begins the manifestation of distinctions which can be construed as the Goddess or YVimarśa.
+[^29]: There is a play on the word "pratibhā" because it can mean both "image", and the "extrovert light of consetousness" tn the Pratyabhijñā school of Kashmir Ŝaivism of which Abhinava-gupta (author of the Tantrāloka) ís an exponent. (Ibid., p. 708)
+[^30]: The first tuṭi is said to be all fullness and without distinetions referring to Prakāśa. From then onwards begins the manifestation of distinctions which can be construed as the Goddess or YVimarśa.
 
 *[p. 326]* ^pg322
 
@@ -70,12 +71,13 @@ TRIANGLE,[^36] OH SUPREME LADY:
 
 *[p. 327]* ^pg323
 
-As a result of entering on the supreme inner path, She is "in a subtle form", i.e. unknowable due to her being of one essence with the supreme pramātp.[^37] And because of her intimate association in this, She is first. Since She (ever) remains in her own essence, She is the supreme Sakti who is also the whole causal universe actualised in her self. (She is the supreme Śakti) who as a result of the greatness of her autonomous will desires to display outwardly. Due to the tendency to propagate all things, assuming the coiled-up form,[^38] (as) Vāmā She reaches the sprouting stage vomiting forth[^39] the entire swallowed-up universe. Thereafter desiring to arise She is the peak. Jyeṣṭhā attains the state of rod-like clear straight lines which are all the paths that exist upto the doomsday conflagration.[^40]“ By duly closing the boundary, Raudrī - who is the one desirous of annihalating the world - produces the pyramidal triangular form whose essence is the joyful conmingling of the three saktis Icchãā etc..\*1 It means that She is manifesting the foremost letter[^42] which breathes life into all the letters (and) which is the three states of creation, preservation and destruction depicted on the screen of her self.
+As a result of entering on the supreme inner path, She is "in a subtle form", i.e. unknowable due to her being of one essence with the supreme pramātp.[^37] And because of her intimate association in this, She is first. Since She (ever) remains in her own essence, She is the supreme Sakti who is also the whole causal universe actualised in her self. (She is the supreme Śakti) who as a result of the greatness of her autonomous will desires to display outwardly. Due to the tendency to propagate all things, assuming the coiled-up form,[^38] (as) Vāmā She reaches the sprouting stage vomiting forth[^39] the entire swallowed-up universe. Thereafter desiring to arise She is the peak. Jyeṣṭhā attains the state of rod-like clear straight lines which are all the paths that exist upto the doomsday conflagration.[^40]“ By duly closing the boundary, Raudrī - who is the one desirous of annihalating the world - produces the pyramidal triangular form whose essence is the joyful conmingling of the three saktis Icchãā etc..[^41] It means that She is manifesting the foremost letter[^42] which breathes life into all the letters (and) which is the three states of creation, preservation and destruction depicted on the screen of her self.
 [^37]: I.e., Siva.
 
 [^38]: I.e., in the form of Kundalint.
 [^39]: The etymology of the name "Vāmā" is traditionally derived from the root -yvam =- to vomit or spit out.
-[^40]: "Doomsday conflagration" refers to Kālāgni - the nether- most sphere of existence. The peak and left-hand side of the triangle represent Vāõnā; Jyeṣthā is the straight line at the top and Raudrt eloses the triangle on the right-hand side. V esbhkă J ya r 41\. Vāmā is particularly associated with the Śakti Iechā; Jyegthā is with Jñāna and Raudrt with Kriyā.
+[^40]: "Doomsday conflagration" refers to Kālāgni - the nether- most sphere of existence. The peak and left-hand side of the triangle represent Vāõnā; Jyeṣthā is the straight line at the top and Raudrt eloses the triangle on the right-hand side. V esbhkă J ya r
+[^41]: Vāmā is particularly associated with the Śakti Iechā; Jyegthā is with Jñāna and Raudrt with Kriyā.
 [^42]: Presumably the letter "e!" representing an upside down triangle. In former times, this letter was written in Sanskrit more Like a triangle that it is at present. From the unton of Ŝiva and Śakti (Śiva = "a", Śakti = "i"), the world arises as the triangle "e",
 
 *[p. 328]* ^pg324
@@ -169,12 +171,14 @@ THIS EXCURSION,
 
 SHE ONCE MORE TAKES DELIGHT IN SOLITARY STATE.
 
-And so again from the akula state which has the nature of the supreme void,[^59] She "at her pleasure", i.e. through her own volition and without regard to any other, shines forth in the phase of creation; entering into the "wide world" with its kula characteristics. As a result of "this" creative "excursion" She is also participating in the satisfactions that arise in experiencing the kula plane. By the same token,[^61] it is out of her own pleasure that on leaving (behind) the kula plane (by the upward course that is essentially destruction), She is absorbed in "solitary state" into the akula51 void5? where, taking on a transcendant form, She "delights".
+And so again from the akula state which has the nature of the supreme void,[^59] She "at her pleasure", i.e. through her own volition and without regard to any other, shines forth in the phase of creation; entering into the "wide world" with its kula characteristics. As a result of "this" creative "excursion" She is also participating in the satisfactions that arise in experiencing the kula plane. By the same token,[^60] it is out of her own pleasure that on leaving (behind) the kula plane (by the upward course that is essentially destruction), She is absorbed in "solitary state" into the akula[^61] void[^62] where, taking on a transcendant form, She "delights".
 
 [^57]: There ts probably a Buddhist connotation in the reference to "dharmas" here.
 [^58]: This tis a reference to Kuṇdalint yoga which is an esoterie practice involving the reunion of the Śakti pole of the subtle body with the supreme Śiva pole.
-[^59]: Sanskrit = "ākāśa". Literally: "open space, ether, vacuity". There is a gradation of akāśas. Parākāśa is the supreme one also known as cidākāsa. At inferior levels there also exist eittākāsa and bhūütākāsa. 60, Sanskrit: "punah".
-[^61]: The text reads "alaku" which is corrected to akula. 62\. "Gagana" Literally means "atmosphere, sky, firmament".
+[^59]: Sanskrit = "ākāśa". Literally: "open space, ether, vacuity". There is a gradation of akāśas. Parākāśa is the supreme one also known as cidākāsa. At inferior levels there also exist eittākāsa and bhūütākāsa.
+[^60]: Sanskrit: "punah".
+[^61]: The text reads "alaku" which is corrected to akula.
+[^62]: "Gagana" Literally means "atmosphere, sky, firmament".
 
 *[p. 332]* ^pg328
 
@@ -749,7 +753,7 @@ The letter before "kẹ" is "h"; the letter before "1" is "r";
 
 According to the verse, by the mere placing of her name upon it,
 
-(the sādhya) is standing there.1\*1
+(the sādhya) is standing there.[^141]
 
 "Oh Goddess and Sinless One! Manmatha arises through the joint form of those that dwell in the third position from 'm', 'y' and 'a''s own base."[^142]
 
@@ -762,7 +766,8 @@ And when {(they)1\#\* are enfolded, i.e. covered in a cavity or womb by the thir
 143\. There are five bhūtas. Joining together the one that precedes anusvāra in the fifth place (i.e. "e") with "a" making "ai"; and the one that follows "p" in the fifth place (i.e., "e") with "a" making another "ai". 144\. I.e., the mantras HRIY and KLIM are enfolded.
 
 [^139]: The Sanskrit "anu" can come to mean "name" in the sense that it ts a very shortened form of the person. It may also mean that the sādhya's name serves as the bindu for the mantra HRIM.
-[^140]: The first desire in the verse ts "abiding on desire". It "heads" the verse hence the use of the word siras. This desire is HRĪY and one should place the sādhya's name upon tit. 141\. "Kūmas tham".
+[^140]: The first desire in the verse ts "abiding on desire". It "heads" the verse hence the use of the word siras. This desire is HRĪY and one should place the sādhya's name upon tit.
+[^141]: "Kūmas tham".
 [^142]: Third position (down) from anusvāra is "k"; from "y" ts "1" and from "ā" is "Ù".
 
 *[p. 352]* ^pg348
@@ -847,13 +852,14 @@ In this way one gets the five desires. On this subject it has been . said that:
 
 Kāmamantra with the goad!53 and its five kinds of syllables throws the whole world into confusion."[^160]
 
-There is so much idiosyncrasy on this subject. As explained by Śrīkalyāṇavarman, one should put BLŪM in the six angles with the idea that the outer Añkusa bṛja is inside the vowel of the fourth desire.[^161] And on the outside of that are eight KROMs in the eight compass directions: AII such information as this etc. (suitable as instruction on incidental matters here and there) has been garnered from great great grandfather (and) originates in hearsay;[^162] being appropriated (seized even) from fellow gotra members, forcefully, by deception, somehow or other (and) as a last resort by theft etc..163
+There is so much idiosyncrasy on this subject. As explained by Śrīkalyāṇavarman, one should put BLŪM in the six angles with the idea that the outer Añkusa bṛja is inside the vowel of the fourth desire.[^161] And on the outside of that are eight KROMs in the eight compass directions: AII such information as this etc. (suitable as instruction on incidental matters here and there) has been garnered from great great grandfather (and) originates in hearsay;[^162] being appropriated (seized even) from fellow gotra members, forcefully, by deception, somehow or other (and) as a last resort by theft etc..[^163]
 
 159\. - The "goad" is the bija mantra KROY.
 
 [^160]: According to the yantra interpretation, the Kāmamantra as given in the main verses 45 and 46 reads thus: "That abiding on HRĪṂ abiding in the middle of KLĪṂ enfolded in the womb of AI¥Y one should lead to the goal certainly with STRIM. One should cast VLAM into the desires. Making it lovely with HRIM the one who is abiding in desire may throw the universe into turmoil." The reading is not strictly sabdakrama. The meaning of the first pada of the 46th verse is inverted as the commentary makes clear. The fourth desire is VLAM which is also led to the goal by the fifth desire STRIM.
 [^161]: Jayaratha does not agree that inside of the vowel "u" of BLŪM one should put the bija KROM as follows: Cs feror
-[^162]: Literally: "it has artsen from one's entourage"; Skr.: "parikarajāãtam". 163\. T.e., the information ts not only lacking the proper authority, but it has been acquired by unlawful means - a double condemattion.
+[^162]: Literally: "it has artsen from one's entourage"; Skr.: "parikarajāãtam".
+[^163]: T.e., the information ts not only lacking the proper authority, but it has been acquired by unlawful means - a double condemattion.
 
 *[p. 356]* ^pg352
 
@@ -907,7 +913,7 @@ A DESTROYER OF NARCOTICS AND POISONS IN WHOSE APPEARANCE
 
 THERE IS DOUBT AS TO WHETHER THEY ARE NATURAL OR
 
-CONCOCTED. 169
+CONCOCTED.[^169]
 
 And,
 
@@ -916,7 +922,8 @@ And,
 GHOSTS, DEMONS (AND THE GROUP OF ENTITIES) THAT ASSUME
 
 [^167]: 167, Śakti is divine energy. By repeating the Śakti blja (SAUH) the sādhaka should meditate upon the ceaseless ebb and flow of divine energy as taking place within himself parallel to the ebb and flow on the macrocosmie scale of the Universe; visualizing her descent from the place of dissolution in the Sahasrãra as the sequence of creation and the return from the state of manifestation in the heart to a state of pure potency as the sequence of destruction. The sādhaka should repeatedly reflect on this eternal cycle.
-[^168]: Epithet of Garuda through his mother Vinatā. 169\. "Sthira" is taken as "natural" in the sense that it tis a "permanent" feature. The verse seems to say that one can destroy all poisons whether they are artificial or not. A distinction ts satd to exist between sthāvara and jañûgama poisons that are derived from moving and stationary sources. 170, The "three eyed one" is Śiva.
+[^168]: Epithet of Garuda through his mother Vinatā.
+[^169]: "Sthira" is taken as "natural" in the sense that it tis a "permanent" feature. The verse seems to say that one can destroy all poisons whether they are artificial or not. A distinction ts satd to exist between sthāvara and jañûgama poisons that are derived from moving and stationary sources. 170, The "three eyed one" is Śiva.
 
 *[p. 358]* ^pg354
 
@@ -997,14 +1004,15 @@ PASSES INTO HIS BODY.
 
 A SON TO ALL THE YoGINTS OF EVERY EXISTING KIND.
 
-Having thus explained the greatness of the vidyā on its own, (the Lord) speaks (of it) as a result of being in conjunction also:[^183]
+Having thus explained the greatness of the vidyā on its own, (the Lord) speaks (of it) as a result of being in conjunction also:[^182]
 
 56\. SUPREME LADY! AND WHEN HE DOES (ITS) PŪJA TO COMPLETION,
 
-THEN HIS KHECARĪS BESTOW THE MOST EXCELLENT OF SIDDEIS »\*°7
+THEN HIS KHECARĪS BESTOW THE MOST EXCELLENT OF SIDDEIS[^183]
 
 [^180]: As these verses occasion no comment from Jayaratha, the sovereign power that is referred to is most likely the eight siddhis. "
-[^181]: Or else, it may mean "the unlimited power of the host of mothers ' However, the reference to Mahātripurasundart in the previous tine suggests that it is the cakra itself. 182\. I.e., not just on tts own, but together with pūjā.
+[^181]: Or else, it may mean "the unlimited power of the host of mothers ' However, the reference to Mahātripurasundart in the previous tine suggests that it is the cakra itself.
+[^182]: I.e., not just on tts own, but together with pūjā.
 [^183]: "a 183. Presumably the siddhi of liberation sometimes called nkhecaratýai
 
 *[p. 361]* ^pg357
@@ -1029,9 +1037,10 @@ POSTITION IN THE MIDDLE WITHIN THE ANWAÑGA OF THE
 
 WOMAN, THE SĀDHAKA BECOMES LIKE ANAÑGA, OH MY BELOVED!
 
-"Of the first one" means of the Vāgbhava. By "in the connecting position" is meant (in the connecting) place. It means that its place is in the middle where the Kāmarāja belongs. The vídyā is such that the Vāgbhava and Kãmarāja (bījas) are reversed. "On the outside" of it are the eight bljas named Vaśinī etc. and the "kalās" or the sixteen vowels called by the names of Kāmākargiṇī etc.. It means that when meditating upon the cakra (which is only to the above extent)[^184] in the anañṁga,185 i.e. in the yonżý (indicated by the use
+"Of the first one" means of the Vāgbhava. By "in the connecting position" is meant (in the connecting) place. It means that its place is in the middle where the Kāmarāja belongs. The vídyā is such that the Vāgbhava and Kãmarāja (bījas) are reversed. "On the outside" of it are the eight bljas named Vaśinī etc. and the "kalās" or the sixteen vowels called by the names of Kāmākargiṇī etc.. It means that when meditating upon the cakra (which is only to the above extent)[^184] in the anañṁga,[^185] i.e. in the yonżý (indicated by the use
 
-[^184]: The vidyā has the Vāgbhava and Kāmarāja bījas reversed: "HKHLERIM KEILHRIM HSKLHRIM". Surrounding the vidyā are RBLUM, KLHRĪM, NVLIĪM, YLUM, JMRĪĄ, HSLVYŪ%, JHMRYUM and KṢMRIM. (See Chapter I Verses 64 ff.) And beyond that are the sixteen vowels which are called Kāmākargint ete. (See Chapter I verses 138 ff.) For purposes of meditation the cakra need only be dram to the extent of the eight-spoked cakra. (The disposition may possibly be counter-clockwise. ) Š a \> kd vnnt N \> a’ UA 185\. An epithet of the god of love and destre. ३.९ ken शः इ ५ & ८८८ ट Si भन E
+[^184]: The vidyā has the Vāgbhava and Kāmarāja bījas reversed: "HKHLERIM KEILHRIM HSKLHRIM". Surrounding the vidyā are RBLUM, KLHRĪM, NVLIĪM, YLUM, JMRĪĄ, HSLVYŪ%, JHMRYUM and KṢMRIM. (See Chapter I Verses 64 ff.) And beyond that are the sixteen vowels which are called Kāmākargint ete. (See Chapter I verses 138 ff.) For purposes of meditation the cakra need only be dram to the extent of the eight-spoked cakra. (The disposition may possibly be counter-clockwise. ) Š a \> kd vnnt N \> a’ UA ३.९ ken शः इ ५ & ८८८ ट Si भन E
+[^185]: An epithet of the god of love and destre.
 
 *[p. 362]* ^pg358
 
@@ -1070,7 +1079,7 @@ THE VIDYĀDHARAS WITH HIS BODY TRANSFORMED INTO TRIPURĀ.
 
 *[p. 363]* ^pg359
 
-"Having become Madana" was mentioned (in the last verse). Because they are on par, "with his body transformed into Tripurā" is said (in this verse).[^190] By "similarly" it is suggested that the method of worship discussed for the mādana weapons is extended (to the sākta ones). (To the question) "What word in the text gives this meaning?", (the answer is) "It is obvious because they share the same class of weapons".191 So why the hesitation? Let's drop the subject.
+"Having become Madana" was mentioned (in the last verse). Because they are on par, "with his body transformed into Tripurā" is said (in this verse).[^190] By "similarly" it is suggested that the method of worship discussed for the mādana weapons is extended (to the sākta ones). (To the question) "What word in the text gives this meaning?", (the answer is) "It is obvious because they share the same class of weapons".[^191] So why the hesitation? Let's drop the subject.
 
 End of commentary on Verse 61.
 
@@ -1092,7 +1101,8 @@ and, "Established here in the great cakra...." (1:59)
 
 as (there is not} in the beginning (verses quoted above), anything
 
-[^190]: In other words, Jayaratha ts saying that there ts a baste identity between Madana and Tripurā. Having mentioned Madana in the last verse with respect to the subjugation of women, the female role of Tripurā is appropriate in the subjugation of masculine betngs. 191\. The iconography of Tripurā includes arrows, bows, goad ete. as does that of Madana.
+[^190]: In other words, Jayaratha ts saying that there ts a baste identity between Madana and Tripurā. Having mentioned Madana in the last verse with respect to the subjugation of women, the female role of Tripurā is appropriate in the subjugation of masculine betngs.
+[^191]: The iconography of Tripurā includes arrows, bows, goad ete. as does that of Madana.
 [^192]: Although they are not really well defined, Bhāskararāya says there are three basie "prastāras": Bhūmi, Katlāsa and Meru. "When the SrTeakra is identified with the etght deities Vaśinī ete., tt is the Bhūprastāra; when it is with the mātrkā letters ít is the Kailãsa; and the Meru when it is with the sixteen nityā deities." (Lalitā-sahasranāman, p.297.) Verse 62 adds a fourth unidentified prastāra which has nothing to do with the Meru prastāra as Jayaratha is anxious to point out. The meaning of the verse is still obscure.
 
 *[p. 364]* ^pg360
@@ -1115,6 +1125,7 @@ The one at the end of 'n' joined by the one at the beginning of 'h' is the very 
 
 Here is the meaning: the one which is "between'jh' and 'ñ' is "d"; the one "between 'ū' and 'dh'" is "r"; the one "behind" is "ā" and the one "in the middle between 'ū' and 'qh'" is "p", hence DRĀM. "That very entity" is the blja DRĀM only with this difference of "indolence", i.e., the letter "Į", hence DRĪM. The one "between 'dh' and 's'" is "k"; the one "between 'ṣṣ' and 'h\*t"'is "1"; "at the end of 'y'" is "i", hence KLIM. The one "between 'ch' and 'j'" is "v"; the one at the end of peace is "u" and the one "between 'ṣ' and 'h'" is "1", hence VLUM. The one "at the end of 'n'" is "s"; the one "at the beginning of 'h'" is
 
-"h", hence SAṆ.19\*
+"h", hence SAṆ.[^194]
 
-[^193]: In the first chapter of this text the cakra is referred to with and without the adjective "great" without there being'any significance attached. The same applies to "vajraprastāra" and mahāvajraprastăra. 194\. The letter grid tin footnote 320 of Chapter 1 ts of no use for these extractions.
+[^193]: In the first chapter of this text the cakra is referred to with and without the adjective "great" without there being'any significance attached. The same applies to "vajraprastāra" and mahāvajraprastăra.
+[^194]: The letter grid tin footnote 320 of Chapter 1 ts of no use for these extractions.

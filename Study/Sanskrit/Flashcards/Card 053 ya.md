@@ -20,16 +20,13 @@ nyasa: "skin (*tvak*)"
 ## Front
 
 - **Glyph:** य
-- **Variation:** —
 - **Example:** यति
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘emplo<u>y</u>able’
-- **Class (as printed):** 2 (palatal) · soft · semivowel derived from i + a.
-- **Grid:** two rows, य र ल व and श ष स ह; in bold: य
-- **Example:** yati (ascetic)
+> [!note]- Back
+> - **Pronunciation:** As in ‘emplo<u>y</u>able’
+> - **Class:** palatal · soft · semivowel derived from i + a.
+> - <u>य</u> र ल व / श ष स ह
+> - **Example:** yati (ascetic)
 
 ## Register
 

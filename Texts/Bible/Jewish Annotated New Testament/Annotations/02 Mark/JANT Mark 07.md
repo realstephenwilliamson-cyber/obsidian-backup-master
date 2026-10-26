@@ -38,7 +38,7 @@ Text: [[NRSVue Mark 07|NRSVue]] · [[Mark 07|BSB and SBLGNT]] · Introduction: [
 
 ### 7.31–37: Healing a deaf man
 
-*[[NRSVue Mark 07#^7-31|Text]], p. 85* · ([[Matthew 15#^15-29|Mt 15.29–31]]). Some rabbinic sources consider a deaf person, “ḥeresh,” similar to being a minor (Heb “qatan”) or mentally ill (“shoteh”); such people are not considered responsible for observing the law ([[Yevamot 99#99b|*b. Yebam.* 99b]]). ^7-31
+*[[NRSVue Mark 07#^7-31|Text]], p. 85* · ([[Matthew 15#^15-29|Mt 15.29–31]]). Some rabbinic sources consider a deaf person, “ḥeresh,” similar to being a minor (Heb “qatan”) or mentally ill (“shoteh”); such people are not considered responsible for observing the law (*b. Yebam.* [[Yevamot 99#99b|99b]]). ^7-31
 
 **[[NRSVue Mark 07#^7-33|33–34]]:** *Spat . . . touched . . . sighed*, Jesus’ healings were usually by word alone, but here and at 8.23 physical manipulations are also involved. *Ephphatha*, see 5.41n. ^7-33
 

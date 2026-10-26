@@ -20,17 +20,11 @@ nyasa: "śa: bone (*asthi*) · va: sinews (*sūtra*) · aḥ: tongue (*jihvā*)"
 ## Front
 
 - **Glyph:** श्वः
-- **Variation:** श्‍वः (half-śa + va + visarga)
-- **Example:** —
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** —
-- **Gloss:** noun: ‘tomorrow’
-- **Class (as printed):** —
-- **Grid:** a row above the seven rows (the stops, then य र ल व, then श ष स ह): ◌ृ ◌ॄ (small, over क and ख), अ, अः; in bold: अः, व, श
-- **Example:** —
+> [!note]- Back
+> - **Variation:** श्‍वः (half-śa + va + visarga)
+> - **Gloss:** noun: ‘tomorrow’
+> - ृ ॄ अ <u>अः</u> / क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / य र ल <u>व</u> / <u>श</u> ष स ह
 
 ## Register
 

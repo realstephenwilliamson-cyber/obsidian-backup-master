@@ -153,7 +153,7 @@ S. Matt.
 
 v. 8.
 
-Gal.ii.20.
+[[Galatians 02#^2-20|Gal.ii.20]].
 
 Ps. 1i,10-
 
@@ -333,7 +333,7 @@ What was it, someone may say, that induced the inspired Evangelist to make menti
 
 hotter and more precipitate fit of wrath than was meet, and Christ thereupon rebuking him? This narrative may, perhaps, seem superfluous; but it is not so. For he has here given us a pattern expressly for our learning ; for we shall know, from what took place here, to what lengths our zeal in piety towards Christ may proceed without reproach, and what we may choose to do in conflicts such as this, without stumbling on something displeasing to God. For this typical instance forbids us to draw a sword, or lift up stones, against any man, or to strike our adversaries with a stick, when, through our piety towards Christ, we are in conflict with them: for our weapons are not of the flesh, as Paul saith; but we ought rather to treat even our murderers with kindness when occasion precludes our escape. For it is far better for other men to be corrected for their sins against us by Him That judgeth righteously, than that we ourselves should make excuses for our blood-guiltiness, making piety our plea. Besides, we may call it most irrational to honour by the death of our persecutors Him Who, to set men free from death, Himself cheerfully suffered death. And herein we must surely follow Christ Himself; for if He had been called to die perforce and of necessity, as unable by His own power to repel the assault of His foes, who were invincible through the number of the servants of the Jews, there might perhaps have been nothing unreasonable in those who chose to love Him succouring Him with all their might, and showing the utmost courage in order to rescue Him from the peril, into which He had been brought by the impiety of His foes, against His Will. But since, being truly God, He was able to destroy His adversaries, root and branch, and at the very outset of the conflict, so to say, had given them such a token of His might, as by a single word, and that spoken in courtesy, to lay them low on the earth, for they all fell backward ; how could it be right for us, in unbridled and inordinate wrath, to wilfully and recklessly proceed to lengths that He did not, though He c. xviii. 10.
 
-2Cor.x.4,
+[[2 Corinthians 10#^10-4|2Cor.x.4]],
 
 Supra ver. 6,
 
@@ -343,7 +343,7 @@ Supra ver. 6,
 
 10\.
 
-S. Luke ix. 54.
+S. [[Luke 09#^9-54|Luke ix. 54]].
 
 S. Matt.
 

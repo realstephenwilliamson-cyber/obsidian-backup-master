@@ -20,16 +20,13 @@ nyasa: "śa: bone (*asthi*) · ca: left shoulder (*skandha*)"
 ## Front
 
 - **Glyph:** श्च
-- **Variation:** श्‍च (half-śa + ca)
 - **Example:** पश्च
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘paśca’ (behind)
-- **Class (as printed):** —
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: च, श
-- **Example:** paśca (behind)
+> [!note]- Back
+> - **Pronunciation:** As in ‘paśca’ (behind)
+> - **Variation:** श्‍च (half-śa + ca)
+> - क ख ग घ ङ / <u>च</u> छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / य र ल व / <u>श</u> ष स ह
+> - **Example:** paśca (behind)
 
 ## Register
 

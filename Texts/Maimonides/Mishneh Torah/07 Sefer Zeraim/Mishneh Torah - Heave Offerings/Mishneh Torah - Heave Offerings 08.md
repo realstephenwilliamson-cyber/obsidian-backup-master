@@ -110,7 +110,7 @@ Similar concepts apply when an Israelite who is intellectually or emotionally un
 [^2]: Without being married to the priest or after being widowed from him.
 [^3]: I.e., as soon as the baby is born, the mother is entitled to eat by virtue of her child. Until it is born, however, the restrictions apply.
 [^4]: Without being married to the priest or after being widowed from him.
-[^5]: Rashi ([[Yevamot 67#67b|*Yevamot* 67b]]) explains that a pregnant woman is excluded, because she does not resemble a maiden.
+[^5]: Rashi (*Yevamot* [[Yevamot 67#67b|67b]]) explains that a pregnant woman is excluded, because she does not resemble a maiden.
 [^6]: Without being married to the priest or after being widowed from him.
 [^7]: To purify herself from the impurity she contracted because of the relations in which she engaged (see [[Torah 28 - Metzora#^15-18|Leviticus 15:18]] . Note, however, Chapter 7, Halachah 7, and notes, from which it is apparent that there are times when a woman will have to wait longer.
 [^8]: For even if she became pregnant, the pregnancy is not significant as the Rambam continues to explain. Hence, after 40 days passed, she should refrain from partaking of *terumah* until it is clear that she is not pregnant.

@@ -11,6 +11,7 @@ second_reading: "Philippians 1:21-30"
 gospel: "Matthew 20:1-16"
 first_reading_complementary: "Jonah 3:10-4:11"
 psalm_complementary: "Psalm 145:1-8"
+psalm_bcp_complementary: "Psalm 145:1-8"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-20]]"
 cssclasses:

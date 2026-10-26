@@ -22,7 +22,7 @@ For much as after a violent burst of rain, there is a clear open sky; so likewis
 
 If thou also weep thus, thou art become a follower of thy Lord. Yea, for He also wept, both over Lazarus, and over the city; and touching Judas He was greatly troubled. And this indeed one may often see Him do, but nowhere laugh, nay, nor smile but a little; no one at least of the evangelists hath mentioned this. Therefore also with regard to Paul, that he wept, that he did so three years night and day,<sup>284</sup>both he hath said of himself, and others say this of him; but that he laughed, neither hath he said himself anywhere, neither hath so much as one other of the saints, either concerning him, or any other like him; but this is said of Sarah only,<sup>285</sup>when she is blamed, and of the son of Noe, when for a freeman he became a slave.<sup>286</sup>
 
-281 \[In Homily LXXX. the woman who was “a sinner” is identified with the woman who anointed our Lord at Bethany. The confusion of the persons is wide-spread, and the name of Mary Magdalene has been unwarrantably connected with one or both occasions.—R.\] \[The mss. read κα, for which some editors substitute εν. The better supported reading must be rendered 282 “with both lines and colorings.”—R.\] 1 Sam. i. 13. \[The LXX., followed in the text, reads και “and her voice,” etc.—R.\] 283 284 Acts xx. 31; comp. v. 37. 285 Gen. xviii. 12–15. Gen. ix. 25.
+281 \[In Homily LXXX. the woman who was “a sinner” is identified with the woman who anointed our Lord at Bethany. The confusion of the persons is wide-spread, and the name of Mary Magdalene has been unwarrantably connected with one or both occasions.—R.\] \[The mss. read κα, for which some editors substitute εν. The better supported reading must be rendered 282 “with both lines and colorings.”—R.\] 1 Sam. i. 13. \[The LXX., followed in the text, reads και “and her voice,” etc.—R.\] 283 284 [[Acts 20#^20-31|Acts xx. 31]]; comp. v. 37. 285 Gen. xviii. 12–15. Gen. ix. 25.
 
 *[p. 85]* ^pg93
 
@@ -30,7 +30,7 @@ If thou also weep thus, thou art become a follower of thy Lord. Yea, for He also
 
 The things then being so great, for which thou art to give account, dost thou sit laughing and talking wittily, and giving thyself up to luxury? “Why,” one may say, “if I did not so, but mourned, what would be the profit?” Very great indeed; even so great, as it is not possible so much as to set it forth by word. For while, before the temporal tribunals, be thy weeping ever so abundant, thou canst not escape punishment after the sentence; here, on the contrary, shouldest thou only sigh, thou hast annulled the sentence, and hast obtained pardon. Therefore it is that Christ discourses to us much of mourning, and blesses them that mourn, and pronounces them that laugh wretched. For this is not the theatre for laughter, neither did we come together for this intent, that we may give way to immoderate mirth, but that we may groan, and by this groaning inherit a kingdom. But thou, when standing by a king, dost not endure so much as merely to smile; having then the Lord of the angels dwelling in thee, dost thou not stand with trembling, and all due self-restraint, but rather laughest, oftentimes when He is displeased? And dost thou not consider that thou provokest Him in this way more than by thy sins? For God is not wont to turn Himself away so much from them that sin, as from those that are not awestruck after their sin.
 
-40 ἐκκπτων. 287 288 Matt. x. 33. 289 1 Cor. iv. 4. 290 Rom. x. 2. 291 2 Cor. xii. 3. (It is interesting to note that this citation has three readings, followed in the received text, but rejected by recent critics on the authority of the most ancient mss. In one reading the order is that of the ancient mss. against the received text. Still the text of these Homilies may have been edited to conform to the later Syrian N.T. text.—R.\]
+40 ἐκκπτων. 287 288 [[Matthew 10#^10-33|Matt. x. 33]]. 289 [[1 Corinthians 04#^4-4|1 Cor. iv. 4]]. 290 [[Romans 10#^10-2|Rom. x. 2]]. 291 [[2 Corinthians 12#^12-3|2 Cor. xii. 3]]. (It is interesting to note that this citation has three readings, followed in the received text, but rejected by recent critics on the authority of the most ancient mss. In one reading the order is that of the ancient mss. against the received text. Still the text of these Homilies may have been edited to conform to the later Syrian N.T. text.—R.\]
 
 *[p. 86]* ^pg94
 
@@ -40,7 +40,7 @@ Ask not then of God these things, which thou receivest of the devil. For it is G
 
 10\. It becometh not us then to be continually laughing, and to be dissolute, and luxurious, but it belongs to those upon the stage, the harlot women, the men that are trimmed for this intent, parasites, and flatterers; not them that are called unto heaven, not them that are enrolled into the city above, not them that bear spiritual arms, but them that are enlisted on the devil’s side. For it is he, yea, it is he, that even made the thing an art, that he might weaken Christ’s soldiers, and soften the nerves of their zeal. For this cause he also built theatres in the cities, and having trained those buffoons, by their pernicious influence he causes that kind of pestilence to light upon the whole city, persuading men to follow those things which Paul bade us flee, “foolish talking and jesting.”<sup>295</sup> And what is yet more grievous than these things is the subject of the laughter. For when they that act those absurd things utter any word of blasphemy or filthiness, then many among the more thoughtless laugh and are pleased, applauding in them what they ought to stone them for; and drawing down on their own heads by this amusement the furnace of fire. For they who praise the utterers of such words, it is these above all who induce men so to speak: wherefore they
 
-292 1 Cor. x. 7; Exod. xxxii. 6. 293 Ezek. xvi. 49. 294 Eph. vi. 12. Eph. v. 4.
+292 [[1 Corinthians 10#^10-7|1 Cor. x. 7]]; Exod. xxxii. 6. 293 Ezek. xvi. 49. 294 [[Ephesians 06#^6-12|Eph. vi. 12]]. [[Ephesians 05#^5-4|Eph. v. 4]].
 
 *[p. 87]* ^pg95
 
@@ -60,7 +60,7 @@ How then will thy wife thenceforward look upon thee, when thou art returned from
 
 Now if ye grieve at hearing these things, I thank you much, for “who is he that maketh me glad, but he which is made sorry by me?”<sup>299</sup> Do not then ever cease to grieve and be vexed for them, for the sorrow that comes of such things will be to you a beginning of a change for the better. For this cause I also have made my language the stronger, that by cutting deeper I might free you from the venom of them that intoxicate you; that I might bring you back to a pure health of soul; which God grant we may all enjoy by all means, and attain unto the rewards laid up for these good deeds; by the grace and love towards man of our Lord Jesus Christ, to whom be glory and dominion forever and ever. Amen.
 
-\[῾Η᾽ παρακο, “the disobedience,” recorded in Genesis.—R.\] 296 297 Phil. iii. 19. 298 \[It is a long step from the troubled mind of Jerusalem to the denunciation of libidinous play-acting. But the protest has not lost its force, since the modern theatre, and too often the modern novel, is open to the same severe criticism. See Homily VII. 7, 8, for another instance of the same method of application.—R.\] 2 Cor. ii. 2.
+\[῾Η᾽ παρακο, “the disobedience,” recorded in Genesis.—R.\] 296 297 [[Philippians 03#^3-19|Phil. iii. 19]]. 298 \[It is a long step from the troubled mind of Jerusalem to the denunciation of libidinous play-acting. But the protest has not lost its force, since the modern theatre, and too often the modern novel, is open to the same severe criticism. See Homily VII. 7, 8, for another instance of the same method of application.—R.\] [[2 Corinthians 02#^2-2|2 Cor. ii. 2]].
 
 *[p. 89]* ^pg97
 
@@ -106,7 +106,7 @@ And together with what hath been said, all the time also since these things is s
 
 43 304 Micah v. 2.
 
-[^305]: St. Jerome, de Nom. Hebr. t. 3, 77, ed. Venet. 1767. *“Zorobabel, ‘princeps vel magister Babylonis’, sive ‘aliena translatio,’ vel ‘ortus in Babylone.’”* 306 *i.e*. He made Bethlehem so far greater than Jerusalem: because “not the least” seems here equivalent to “the greatest.” 307 Matt. i. 21. 308 \[The R.V. renders more accurately: “Which shall be shepherd of my people Israel.”—R.\] 309 Matt. xxi. 16; Ps. viii. 2. 310 Ps. cx. 1; Acts ii. 34. 311 Isa. xi. 10; Rom. xv. 12. \[The latter passage also follows the LXX. The word “trust” should be changed to “hope,” as in R.V., Rom. xv. 12.—R.\]
+[^305]: St. Jerome, de Nom. Hebr. t. 3, 77, ed. Venet. 1767. *“Zorobabel, ‘princeps vel magister Babylonis’, sive ‘aliena translatio,’ vel ‘ortus in Babylone.’”* 306 *i.e*. He made Bethlehem so far greater than Jerusalem: because “not the least” seems here equivalent to “the greatest.” 307 [[Matthew 01#^1-21|Matt. i. 21]]. 308 \[The R.V. renders more accurately: “Which shall be shepherd of my people Israel.”—R.\] 309 [[Matthew 21#^21-16|Matt. xxi. 16]]; Ps. viii. 2. 310 Ps. cx. 1; [[Acts 02#^2-34|Acts ii. 34]]. 311 Isa. xi. 10; [[Romans 15#^15-12|Rom. xv. 12]]. \[The latter passage also follows the LXX. The word “trust” should be changed to “hope,” as in R.V., [[Romans 15#^15-12|Rom. xv. 12]].—R.\]
 
 *[p. 91]* ^pg99
 
@@ -128,9 +128,9 @@ And this too came of the utmost folly, to think that the wise men would make mor
 
 Nevertheless, many as were the reasons to withhold him, he made the attempt; and having “privily called the wise men, he inquired of them.”[^316] Because he thought that Jews would be concerned in favor of the Child, and he never could expect that they would fall away unto such madness as to be willing to give up to His enemies their Protector and Saviour, and Him who was come for the deliverance of their nation. On account of this he both calls them privily, and seeks the time not of the Child, but of the star: thereby marking out the object of his chase so as to include far more than it.<sup>317</sup> For the star, I think, must
 
-44 \[R.V. “learned of them carefully” (ἠκρβωσεν παρ ατν). “Diligently” is from the Vulgate.—R.\] 313 314 Matt. ii. 7. ἀνοα. \[Rendered “folly,” “extreme folly,” etc., below.—R.\] 315
+44 \[R.V. “learned of them carefully” (ἠκρβωσεν παρ ατν). “Diligently” is from the Vulgate.—R.\] 313 314 [[Matthew 02#^2-7|Matt. ii. 7]]. ἀνοα. \[Rendered “folly,” “extreme folly,” etc., below.—R.\] 315
 
-[^316]: \[ἐπυνθνετο παρ ατν, a paraphrase of the New Testament passage, a trace of which appears in the A.V.—R.\] ἐκ πολλ τ περιουσα τιθε τ θραμα. Comp. Viger. de Idiotism. Græc. ix. 3, 3. \[“Marking his prey out of great 317 superfluity,” is the more literal rendering. The sense seems to be, “including more than was necessary that he might certainly include his prey.”—R.\] 318 \[“Search out carefully,” R.V. The Greek text of the New Testament is accurately cited.—R.\] 319 Matt. ii. 8. 320 Matt. ii. 9. 321 Some mss. read “the Jews.” \[δμο. The translation is somewhat obscure, throughout the entire sentence.—R.\]
+[^316]: \[ἐπυνθνετο παρ ατν, a paraphrase of the New Testament passage, a trace of which appears in the A.V.—R.\] ἐκ πολλ τ περιουσα τιθε τ θραμα. Comp. Viger. de Idiotism. Græc. ix. 3, 3. \[“Marking his prey out of great 317 superfluity,” is the more literal rendering. The sense seems to be, “including more than was necessary that he might certainly include his prey.”—R.\] 318 \[“Search out carefully,” R.V. The Greek text of the New Testament is accurately cited.—R.\] 319 [[Matthew 02#^2-8|Matt. ii. 8]]. 320 [[Matthew 02#^2-9|Matt. ii. 9]]. 321 Some mss. read “the Jews.” \[δμο. The translation is somewhat obscure, throughout the entire sentence.—R.\]
 
 *[p. 93]* ^pg101
 
@@ -170,7 +170,7 @@ Because Marcion denied Christ’s human nature, Paul His Divinity. See Epiph. H�
 
 Do thou therefore likewise leave the Jewish people, the troubled city, the blood-thirsty tyrant, the pomp of the world, and hasten to Bethlehem, where is the<sup>326</sup>house of the spiritual Bread.<sup>327</sup> For though thou be a shepherd, and come hither, thou wilt behold the young Child in an inn: though thou be a king, and approach not here, thy purple robe will profit thee nothing; though thou be one of the wise men, this will be no hindrance to thee; only
 
-324 \[That is “preceded;” comp. 1 Thess. iv. 15 (R.V.) where the same Greek word occurs, which is rendered “prevent” in the A.V.—R.\] 325 Acts xiii. 46. 326 Acts xiii. 46. Bethlehem signifies, in Hebrew, “the house of bread.”
+324 \[That is “preceded;” comp. [[1 Thessalonians 04#^4-15|1 Thess. iv. 15]] (R.V.) where the same Greek word occurs, which is rendered “prevent” in the A.V.—R.\] 325 [[Acts 13#^13-46|Acts xiii. 46]]. 326 [[Acts 13#^13-46|Acts xiii. 46]]. Bethlehem signifies, in Hebrew, “the house of bread.”
 
 *[p. 96]* ^pg104
 
@@ -184,7 +184,7 @@ For which of you, for Christ’s sake, hath made so long a pilgrimage, you that 
 
 7\. What thunderbolts do not these things deserve? For tell me, if any one were to lead<sup>331</sup>thee into a palace, and show thee the king on his throne, wouldest thou indeed choose to see the theatre instead of those things? And yet even in the palace there is nothing to gain; but here a spiritual well of fire gushes up out of this table. And thou leavest this, and runnest
 
-328 1 Cor. xi. 27. 329 Or, “Spiritual Table.” Savile. 330 See Hom. vi. 10. \[εαγαγεν πηγγελλτο, “were promising to introduce.”—R.\]
+328 [[1 Corinthians 11#^11-27|1 Cor. xi. 27]]. 329 Or, “Spiritual Table.” Savile. 330 See Hom. vi. 10. \[εαγαγεν πηγγελλτο, “were promising to introduce.”—R.\]
 
 *[p. 97]* ^pg105
 
@@ -196,7 +196,7 @@ However, not merely to find fault, come let us devise a mode of correction too. 
 
 But if thou art ashamed to have a woman for thy teacher, fly from sin, and thou wilt quickly be able to mount up on the throne which God hath given thee. Since so long as thou
 
-47 This expression, Τ για το γοι, “Holy Things for Holy Persons,” is used in the liturgies of St. Clement, St. 332 James, St. Mark, St. Chrysostom, the Ethiopian liturgy, and that of Severus. ἡδον εριπον. 333 1 Cor. xiv. 34, 35.
+47 This expression, Τ για το γοι, “Holy Things for Holy Persons,” is used in the liturgies of St. Clement, St. 332 James, St. Mark, St. Chrysostom, the Ethiopian liturgy, and that of Severus. ἡδον εριπον. 333 [[1 Corinthians 14#^14-34|1 Cor. xiv. 34]], [[1 Corinthians 14#^14-35|35]].
 
 *[p. 98]* ^pg106
 
@@ -206,7 +206,7 @@ If now thou art ashamed, and dost blush at the comparison, mount up to thine own
 
 8\. “Well,” saith one, “and what dost thou require us to do? to occupy the mountains, and become monks?” Why it is this which makes me sigh, that ye think them alone to be properly concerned with decency and chastity; and yet assuredly Christ made His laws common to all. Thus, when He saith, “if any one look on a woman to lust after her,” He speaks not to the solitary, but to him also that hath a wife; since in fact that mount was at that time filled with all kinds of persons of that description. Form then in thy mind an image of that amphitheatre, and hate thou this, which is the devil’s. Neither do thou condemn the severity of my speech. For I neither “forbid to marry,”<sup>338</sup>nor hinder thy taking pleasure; but I would have this be done in chastity, not with shame, and reproach, and imputations without end. I do not make it a law that you are to occupy the mountains and the deserts, but to be good and considerate and chaste, dwelling in the midst of the city. For in fact all our laws are common to the monks also, except marriage; yea rather, even with respect to this, Paul commands us to put ourselves altogether on a level with them; saying, “For the
 
-335 Prov. vi. 6. 336 Matt. v. 28. 337 Acts xi. 26. \[More literally. “the name of the Christians,” indicating more directly the reference to the passage in Acts.—R.\] 1 Tim. iv. 2.
+335 Prov. vi. 6. 336 [[Matthew 05#^5-28|Matt. v. 28]]. 337 [[Acts 11#^11-26|Acts xi. 26]]. \[More literally. “the name of the Christians,” indicating more directly the reference to the passage in Acts.—R.\] [[1 Timothy 04#^4-2|1 Tim. iv. 2]].
 
 *[p. 99]* ^pg107
 
@@ -216,7 +216,7 @@ fashion of this world passeth away:” that “they that have wives be as though
 
 Now then for a season, in order not to be too burdensome, I will here bring my discourse to an end. But if ye continue in the same courses, I will make the knife sharper, and the cut deeper; and I will not cease, till I have scattered the theatre of the devil, and so purified the assembly of the Church. For in this way we shall both be delivered from the present disgrace, and shall reap the fruit of the life to come, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might for ever and ever. Amen.
 
-339 1 Cor. vii. 31, 29. 340 1 Cor. vii. 4. 1 Cor. vii. 3. In our copies of the Greek Testament, and in the mss. of St. Chrysostom, here it is, ενοιαν, 341 not τιμν. But Mr. Field writes τιμν, 1. from internal evidence; 2, from comparison of St. Chrysostom’s own Commentary on this place of St. Paul; and accounts for it by supposing that he quoted from memory, as often, and confused the verse with 1 Peter iii. 7. \[The text in 1 Cor. vii. 3, according to most of the best Greek and Latin mss., is τν φειλν (R.V., “her duo”). The text and argument of Chrysostom indicate careless citation. The translator’s note was written before New Testament textual criticism had received any attention from more modern English divines.—R.\]
+339 [[1 Corinthians 07#^7-31|1 Cor. vii. 31]], 29. 340 [[1 Corinthians 07#^7-4|1 Cor. vii. 4]]. [[1 Corinthians 07#^7-3|1 Cor. vii. 3]]. In our copies of the Greek Testament, and in the mss. of St. Chrysostom, here it is, ενοιαν, 341 not τιμν. But Mr. Field writes τιμν, 1. from internal evidence; 2, from comparison of St. Chrysostom’s own Commentary on this place of St. Paul; and accounts for it by supposing that he quoted from memory, as often, and confused the verse with [[1 Peter 03#^3-7|1 Peter iii. 7]]. \[The text in [[1 Corinthians 07#^7-3|1 Cor. vii. 3]], according to most of the best Greek and Latin mss., is τν φειλν (R.V., “her duo”). The text and argument of Chrysostom indicate careless citation. The translator’s note was written before New Testament textual criticism had received any attention from more modern English divines.—R.\]
 
 *[p. 100]* ^pg108
 
@@ -236,7 +236,7 @@ But what was it that induced them to worship? For neither was the Virgin conspic
 
 See from this also their faith, how they were not offended, but are docile, and considerate; neither are they troubled, nor reason with themselves, saying, “And yet, if this Child be great, and hath any might, what need of flight, and of a clandestine retreat? and wherefore
 
-49 342 \[The entire verse is given in Field’s Greek text; the Homily covers verses 11–15.—R.\] ὠδνα λυσεν. Comp. Acts. ii. 24. 343 φιλοσοφαν . 344
+49 342 \[The entire verse is given in Field’s Greek text; the Homily covers verses 11–15.—R.\] ὠδνα λυσεν. Comp. [[Acts 02#^2-24|Acts. ii. 24]]. 343 φιλοσοφαν . 344
 
 *[p. 101]* ^pg109
 
@@ -250,7 +250,7 @@ For if, while these things are taking place, and many circumstances are being or
 
 As to the wise men, He sends them off quickly, at once both commissioning them as teachers to the land of the Persians, and at the same time intercepting the madness of the king, that he might learn that he was attempting things impossible, and might quench his wrath, and desist from this his vain labor. For not alone openly to subdue His enemies, but also to deceive them with ease, is worthy of His power. Thus, for example, He deceived the Egyptians also in the case of the Jews, and having power to transfer their wealth openly into the hands of the Hebrews, He bids them do this secretly and with craft; and this surely, not less than the other miracles, made Him an object of terror to His enemies. At least, they of Ascalon, and all the rest, when they had taken the ark, and being smitten, did after that devise their countrymen not to fight, nor to set themselves against Him, with the other miracles brought this also forward, saying, “Wherefore harden ye your hearts, as Egypt and Pharaoh hardened? when He had mocked them, did He not after that send forth His people, and they departed?”<sup>348</sup> Now this they said, as accounting this *fresh* one not inferior to those other signs that had been done openly, towards the demonstration of His power, and of His greatness. And the like ensued on this occasion too; a thing sufficient to astonish the tyrant. For consider what it was natural for Herod to feel, and how his very breath would be stopped,
 
-346 Matt. ii. 13. \[τ σαρκς.\] 347 1 Sam. vi. 6, LXX.
+346 [[Matthew 02#^2-13|Matt. ii. 13]]. \[τ σαρκς.\] 347 1 Sam. vi. 6, LXX.
 
 *[p. 102]* ^pg110
 
@@ -304,7 +304,7 @@ Amos ix. 7. “The Philistines from Caphtor, and the Syrians from Kir,” Heb. \
 
 \[σοφν κα μγων. The translator has rendered μγοι sometimes by “wise men,” and sometimes by τ μν 358 κενων, *i.e*., those things taught by the heathen philosophers of Egypt.—R.\]
 
-Acts xx. 34; 1 Thess. ii. 9.
+[[Acts 20#^20-34|Acts xx. 34]]; [[1 Thessalonians 02#^2-9|1 Thess. ii. 9]].
 
 *[p. 106]* ^pg114
 
@@ -364,7 +364,7 @@ Now this same reckoning we are to make in regard of our own sufferings. For as t
 
 3\. “But what kind of sin had these children,” it may be said, “that they should do it away? for touching those who are of full age, and have been guilty of many negligences, one might with show of reason speak thus: but they who so underwent premature death, what sort of sins did they by their sufferings put away?” Didst thou not hear me say, that though there were no sins, there is a recompense of rewards hereafter for them that suffer ill here? Wherein then were the young children hurt in being slain for such a cause, and borne away speedily into that waveless harbor? “Because,” sayest thou, “they would in many instances have achieved, had they lived, many and great deeds of goodness.” Why, for this cause He lays up for them beforehand no small reward, the ending their lives for such a cause. Besides, if the children were to have been any great persons, He would not have suffered them to be snatched away beforehand. For if they that eventually will live in continual wickedness are
 
-54 368 1 Cor. v. 5. \[Μλιστα μν οδν τ μσον.\] 369 370 2 Sam. xvi. 11, 12. \[The citation varies from the LXX., and the latter from the Hebrew: comp. R.V. *in loco*, where the LXX. is represented in the marginal note.—R.\]
+54 368 [[1 Corinthians 05#^5-5|1 Cor. v. 5]]. \[Μλιστα μν οδν τ μσον.\] 369 370 2 Sam. xvi. 11, 12. \[The citation varies from the LXX., and the latter from the Hebrew: comp. R.V. *in loco*, where the LXX. is represented in the marginal note.—R.\]
 
 *[p. 111]* ^pg119
 
@@ -378,7 +378,7 @@ And if thou art yet faint-hearted, and not equal to controlling thyself in these
 
 Thus having filled the hearer with horror by relating these things: the slaughter so violent and unjust, so extremely cruel and lawless; he comforts him again, by saying, Not from God’s wanting power to prevent it did all this take place, nor from any ignorance of His, but when He both knew it, and foretold it,<sup>375</sup>and that loudly by His prophet. Be not troubled then, neither despond, looking unto His unspeakable providence, which one may most clearly see, alike by what He works, and by what He permits. And this He intimated in another place also, when discoursing to His disciples. I mean where, having forewarned them of the judgment seats, and executions, and of the wars of the world, and of the battle that knows no truce, to uphold their spirit and to comfort them He saith, “Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father which is in Heaven.”<sup>376</sup> These things He said, signifying that nothing is done without His knowledge, but while He knows all, yet not in all doth He act. “Be not then troubled,” He saith, “neither be disturbed.” For if He know what ye suffer, and hath power to hinder it, it is quite clear that it is in His providence and care for you that He doth not hinder it. And this we
 
-372 See Josephus, A.J. xvii. 6, 5. 373 Jer. xxxi. 15. 374 Matt. ii. 17, 18. \[προανακηρττοντο, “proclaiming beforehand,” a technical term of ecclesiastical Greek.—R.\] 375
+372 See Josephus, A.J. xvii. 6, 5. 373 Jer. xxxi. 15. 374 [[Matthew 02#^2-17|Matt. ii. 17]], [[Matthew 02#^2-18|18]]. \[προανακηρττοντο, “proclaiming beforehand,” a technical term of ecclesiastical Greek.—R.\] 375
 
 *[p. 112]* ^pg120
 
@@ -396,7 +396,7 @@ He no more saith “fly,” but “go.” Seest thou again after the temptation 
 
 But how did Archelaus reign over Judæa, when Pontius Pilate was governor? Herod’s death had recently taken place, and the kingdom had not yet been divided into many parts; but as he had only just ended his life, the son for a while kept possession of the kingdom
 
-377 Gen. xxxv. 19, LXX. and xlviii. 7. 378 \[“He calls the young children who were massacred hers,” *i.e*., Rachel’s.—R.\] 379 Matt. ii. 19, 20. σφαγιασθντα. \[“Massacred,” a bold figure of speech.—R.\]
+377 Gen. xxxv. 19, LXX. and xlviii. 7. 378 \[“He calls the young children who were massacred hers,” *i.e*., Rachel’s.—R.\] 379 [[Matthew 02#^2-19|Matt. ii. 19]], [[Matthew 02#^2-20|20]]. σφαγιασθντα. \[“Massacred,” a bold figure of speech.—R.\]
 
 *[p. 113]* ^pg121
 
@@ -408,7 +408,7 @@ Joseph therefore comes to Nazareth, partly to avoid the danger, partly also deli
 
 6\. We see here the cause why the angel also, putting them at ease for the future, restores them to their home. And not even this simply, but he adds to it a prophecy, “That it might be fulfilled,” saith he, “which was spoken by the prophets, He shall be called a Nazarene.”<sup>383</sup> And what manner of prophet said this? Be not curious, nor overbusy. For many of the prophetic writings have been lost; and this one may see from the history of the Chronicles.<sup>384</sup> For being negligent, and continually falling into ungodliness, some they suffered to perish, others they themselves burnt up<sup>385</sup>and cut to pieces. The latter fact Jeremiah relates;<sup>386</sup>the
 
-381 Luke ii. 39. 382 \[Of this there is no hint in the narrative; it is a harmonistic conjecture, with little to recommend it.—R.\] 383 Matt. ii. 23. 384 See 2 Chron. ix. 29, where it is said that certain of the acts of Solomon were *written in the book of Nathan the prophet, and in the prophecy of Ahijah the Shilonite; and in the visions of Iddo the Seer against Jeroboam the son of Nebat*. See also *ibid*. xii. 15, and xiii. 22. \[The explanation given above is as bold as it is ingenious.—R.\] \[The Oxford edition reads “brought up;” evidently a misprint for “burnt up” (κατκαιον ).—R.\] 385 Jer. xxxvi. 23.
+381 [[Luke 02#^2-39|Luke ii. 39]]. 382 \[Of this there is no hint in the narrative; it is a harmonistic conjecture, with little to recommend it.—R.\] 383 [[Matthew 02#^2-23|Matt. ii. 23]]. 384 See 2 Chron. ix. 29, where it is said that certain of the acts of Solomon were *written in the book of Nathan the prophet, and in the prophecy of Ahijah the Shilonite; and in the visions of Iddo the Seer against Jeroboam the son of Nebat*. See also *ibid*. xii. 15, and xiii. 22. \[The explanation given above is as bold as it is ingenious.—R.\] \[The Oxford edition reads “brought up;” evidently a misprint for “burnt up” (κατκαιον ).—R.\] 385 Jer. xxxvi. 23.
 
 *[p. 114]* ^pg122
 
@@ -420,9 +420,9 @@ former, he who composed the fourth book of Kings, saying, that after<sup>387</su
 
 “But yet Paul,” one may say, “allows them, saying on this wise, ‘As touching the election, they are beloved for the fathers’ sake.’”[^392] But tell me, when, and of what things was he discoursing, and to whom? Why, to those of Gentile origin, who were puffing themselves up on their faith, and exalting themselves against the Jews, and so breaking them off the more: to quell the swelling pride of the one, and to win over the others, and thoroughly excite them to the same emulation. For when he is speaking of those noble and great men, hear
 
-387 2 Kings xxii. 8, etc. 388 See Acts iii. 22, iii. 6, iv. 10, vi. 14, etc. 389 John i. 46. 390 John vii. 52. \[R.V. text: “Search, and see that out of Galilee ariseth no prophet.”—R.\] 391
+387 2 Kings xxii. 8, etc. 388 See [[Acts 03#^3-22|Acts iii. 22]], [[Acts 03#^3-6|iii. 6]], [[Acts 04#^4-10|iv. 10]], [[Acts 06#^6-14|vi. 14]], etc. 389 [[John 01#^1-46|John i. 46]]. 390 [[John 07#^7-52|John vii. 52]]. \[R.V. text: “Search, and see that out of Galilee ariseth no prophet.”—R.\] 391
 
-[^392]: Rom. xi. 28. \[The Oxford edition reads: “for the Fathers sake;” a misprint, conveying an incorrect sense.—R.\] 57 393 Heb. xi. 14, 15. 394 Heb. xi. 13. \[R.V., more correctly: “having seen them and greeted them from afar.”—R.\] 395 Matt. iii. 9. 396 Rom. ix. 6–8. \[ἀκρβειαν, “strictness.”—R.\] 397 \[προστασαν, “advancement.”—R.\] 398 σκαο. 399 \[τ παλαι, without a substantive, the technical term in ecclesiastical Greek for the Old Testament.—R.\] 400
+[^392]: [[Romans 11#^11-28|Rom. xi. 28]]. \[The Oxford edition reads: “for the Fathers sake;” a misprint, conveying an incorrect sense.—R.\] 57 393 [[Hebrews 11#^11-14|Heb. xi. 14]], [[Hebrews 11#^11-15|15]]. 394 [[Hebrews 11#^11-13|Heb. xi. 13]]. \[R.V., more correctly: “having seen them and greeted them from afar.”—R.\] 395 [[Matthew 03#^3-9|Matt. iii. 9]]. 396 [[Romans 09#^9-6|Rom. ix. 6–8]]. \[ἀκρβειαν, “strictness.”—R.\] 397 \[προστασαν, “advancement.”—R.\] 398 σκαο. 399 \[τ παλαι, without a substantive, the technical term in ecclesiastical Greek for the Old Testament.—R.\] 400
 
 *[p. 115]* ^pg123
 
@@ -438,7 +438,7 @@ many of these children Paul hath affirmed to be nothing profited by their father
 
 For tell me, if any king among those upon earth had said, It is impossible for him that is rich to be distinguished at court, or to enjoy any honor; would ye not have thrown away every one his riches with contempt? So then, if they cast us out from such honor as is in the palaces below, they shall be worthy of all contempt: but, when the King of Heaven is day by day crying aloud and saying, “It is hard with them, to set foot on that sacred threshold;” shall we not give up all, and withdraw from our possessions, that with boldness we may enter into the kingdom? And of what consideration are we worthy, who are at great pains to encompass ourselves with the things that obstruct our way thither; and to hide them not only in chests, but even in the earth, when we might entrust them to the guard of the very Heavens? Since now surely thou art doing the same, as if any husbandman, having gotten wheat wherewith to sow a rich land, was to leave the land alone, and bury all the wheat in a pit, so as neither to enjoy it himself, nor for the wheat to come to ought, but decay and waste. But what is their common plea, when we accuse them of these things? It gives no little comfort, say they, to know that all is laid up for us in safety at home. Nay, rather not to know of its being laid up is a comfort. For even if thou art not afraid of famine, yet other more grievous things, on account of this store, must needs be a terror to thee: deaths, wars, plots laid against thee. And if a famine should ever befall us, the people again, constrained by the belly, takes weapon in hand against thy house. Or rather, in so doing, thou art first of all bringing famine into our cities, and next thou art forming for thine own house this
 
-402 Gal. v. 2. 403 Luke xvi. 24. 404 The words in italics are omitted in several mss. \[In four mss and two versions the clause is wanting; see note at close of this Homily.—R.\]
+402 [[Galatians 05#^5-2|Gal. v. 2]]. 403 [[Luke 16#^16-24|Luke xvi. 24]]. 404 The words in italics are omitted in several mss. \[In four mss and two versions the clause is wanting; see note at close of this Homily.—R.\]
 
 *[p. 117]* ^pg125
 
@@ -480,7 +480,7 @@ To prove that this was to Him the last good work of those enjoined by the law, h
 
 2\. Now that on this account Christ came to His baptism, is from this evident. But wherefore was this baptism devised for Him? For that not of himself did the son of
 
-408 Matt. xxiv. 3. 409 Matt. xxiv. 23.
+408 [[Matthew 24#^24-3|Matt. xxiv. 3]]. 409 [[Matthew 24#^24-23|Matt. xxiv. 23]].
 
 *[p. 120]* ^pg128
 
@@ -492,7 +492,7 @@ What means then, “for the remission of sins?”
 
 The Jews were senseless, and had never any feeling of their own sins, but while they were justly accountable for the worst evils, they were justifying themselves in every respect; and this more than anything caused their destruction, and led them away from the faith. This, for example, Paul himself was laying to their charge, when he said, that “they being ignorant of God’s righteousness, and going about<sup>418</sup>to establish their own, had not submitted themselves unto the righteousness of God.”<sup>419</sup> And again: “What shall we say then? That the Gentiles, which followed not after righteousness, have attained<sup>420</sup>to righteousness; but
 
-411 Luke iii. 2. 412 John i. 33. 413 John i. 31. 414 Luke iii. 3. 415 Col. ii. 12; Rom. vi. 4. 416 1 Cor. vi. 11. 417 Acts xix. 4. \[ζητοντε, “seeking,” R.V.\] 418 419 Rom. x. 3. κατλαβε \[R.V., “attained.”\]
+411 [[Luke 03#^3-2|Luke iii. 2]]. 412 [[John 01#^1-33|John i. 33]]. 413 [[John 01#^1-31|John i. 31]]. 414 [[Luke 03#^3-3|Luke iii. 3]]. 415 [[Colossians 02#^2-12|Col. ii. 12]]; [[Romans 06#^6-4|Rom. vi. 4]]. 416 [[1 Corinthians 06#^6-11|1 Cor. vi. 11]]. 417 [[Acts 19#^19-4|Acts xix. 4]]. \[ζητοντε, “seeking,” R.V.\] 418 419 [[Romans 10#^10-3|Rom. x. 3]]. κατλαβε \[R.V., “attained.”\]
 
 *[p. 121]* ^pg129
 
@@ -510,13 +510,13 @@ Therefore he humbles them also when they are come, and persuades them to have no
 
 ἔφθασε \[R.V., “did not arrive.”\] 421 422
 
-Rom. ix. 30–32. \[See R.V. The text of Chrysostom follows one of the readings accepted by the Revisers, omitting νμου at the close of the citation; but it inserts δικαιοσνη (with Rec.) a second time in verse 31.—R.\] 423
+[[Romans 09#^9-30|Rom. ix. 30–32]]. \[See R.V. The text of Chrysostom follows one of the readings accepted by the Revisers, omitting νμου at the close of the citation; but it inserts δικαιοσνη (with Rec.) a second time in verse 31.—R.\] 423
 
-Matt. iii. 8.
+[[Matthew 03#^3-8|Matt. iii. 8]].
 
 424
 
-Acts xix. 4.
+[[Acts 19#^19-4|Acts xix. 4]].
 
 ἡ το πργματο πθεσι.
 
@@ -548,4 +548,4 @@ But Luke expresses somewhat further: not repeating the exordium, and so passing 
 
 4\. “And the same John had his raiment of camel’s hair, and a leathern girdle about his loins.”<sup>435</sup>
 
-430 Luke iii. 5, 6. 431 Matt. xxi. 31. 432 Isa. xi. 6. τ νμαλον το θου. 433 434 Isa. xi. 10; see also Rom. xv. 12. \[“Hope” instead of “trust;” see foot-note on Hom. vii. 2, p. 45.—R.\]
+430 [[Luke 03#^3-5|Luke iii. 5]], [[Luke 03#^3-6|6]]. 431 [[Matthew 21#^21-31|Matt. xxi. 31]]. 432 Isa. xi. 6. τ νμαλον το θου. 433 434 Isa. xi. 10; see also [[Romans 15#^15-12|Rom. xv. 12]]. \[“Hope” instead of “trust;” see foot-note on Hom. vii. 2, p. 45.—R.\]

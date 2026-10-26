@@ -92,7 +92,7 @@ SORT file.name ASC
 TABLE WITHOUT ID L.question AS "Question", L.section AS "Where"
 FROM "Journal" or "Notes" or "Projects" or "Study"
 FLATTEN file.lists AS L
-WHERE L.question AND !any(map(L.children, (c) => c.answer))
+WHERE L.question AND !L.task AND !startswith(file.path, "Projects/_Originals/") AND !any(map(L.children, (c) => c.answer))
 SORT file.mtime DESC
 LIMIT 40
 ```

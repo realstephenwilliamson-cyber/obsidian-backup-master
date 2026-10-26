@@ -20,16 +20,13 @@ nyasa: "left hip (*kaṭi*)"
 ## Front
 
 - **Glyph:** त
-- **Variation:** —
 - **Example:** तनु
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘pas<u>t</u>a’
-- **Class (as printed):** 4 (dental) · hard · unaspirated
-- **Grid:** the five rows of stops; in bold: त
-- **Example:** tanu (body)
+> [!note]- Back
+> - **Pronunciation:** As in ‘pas<u>t</u>a’
+> - **Class:** dental · hard · unaspirated
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / <u>त</u> थ द ध न / प फ ब भ म
+> - **Example:** tanu (body)
 
 ## Register
 

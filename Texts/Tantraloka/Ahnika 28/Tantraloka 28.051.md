@@ -27,7 +27,7 @@ velāyogaṃ kañcana tithibhagrahayogato hyanyam || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#^pg46|p. 29]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=46>))
 >
-> Thus, the main (factor) here is the lunar day - (07 – and that is specified by the conjunction of a planet and a constellation. Here, (in this case,) the moment in time (velā) (irrespective of these conjunctions) is not the primary (consideration). This (view according to us) is sound (and correct). In the venerable scripture, the Trikabhairavakula, the Lord has not taught any particular time during the parvan days (to worship) other than thaťf based on the conjunction of lunar days, constellations and planets. (with 28.50–51)
+> Thus, the main (factor) here is the lunar day – tithi – and that is specified by the conjunction of a planet and a constellation. Here, (in this case,) the moment in time (velā) (irrespective of these conjunctions) is not the primary (consideration). This (view according to us) is sound (and correct). In the venerable scripture, the Trikabhairavakula, the Lord has not taught any particular time during the parvan days (to worship) other than that based on the conjunction of lunar days, constellations and planets. (with 28.50–51)
 
 ## Viveka
 

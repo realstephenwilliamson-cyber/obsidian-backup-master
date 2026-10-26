@@ -29,7 +29,7 @@ evaṃ sṛṣṭyādikartavyasvasvātantryopadeśanam || ^iast
 >
 > The Supreme Lord has said something similar, the true sense of which cannot be grasped by all, in the Mālinītantra (with the words): ‘Or else, considering all worldly experience (bhoga) to be ugly (and defective) (virūpaka) . . .’ and what follows. (with 14.41–42ab)
 >
-> “It is said in the venerable Niśicāra: ‘those whose minds are free of thought (vikalpa) see that everything is pervaded by Bhairava’s radiant energy (tejas). He whose mind is yoked to thought (vikalpayukta) goes to Śiva (only) after the body drops, by the application (yoga) of outer initiation etc., by means of the conceptions that are the pledges (samaya) and right conduct (caryā) (to which the initiate adheres). But one who is free of thought is, without a doubt, free in this very life - today itself!” (with 14.42cd–45)
+> It is said in the venerable Niśicāra: ‘those whose minds are free of thought (vikalpa) see that everything is pervaded by Bhairava’s radiant energy (tejas). He whose mind is yoked to thought (vikalpayukta) goes to Śiva (only) after the body drops, by the application (yoga) of outer initiation etc., by means of the conceptions that are the pledges (samaya) and right conduct (caryā) (to which the initiate adheres). But one who is free of thought is, without a doubt, free in this very life - today itself!’ (with 14.42cd–45)
 
 ## Viveka
 

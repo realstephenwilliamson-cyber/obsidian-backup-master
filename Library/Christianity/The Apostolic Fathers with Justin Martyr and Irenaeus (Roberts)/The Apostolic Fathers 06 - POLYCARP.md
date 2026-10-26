@@ -50,7 +50,7 @@ Polycarp, and the presbyters<sup>338</sup> with him, to the Church of God sojour
 
 I have greatly rejoiced with you in our Lord Jesus Christ, because ye have followed the example<sup>339</sup> of true love \[as displayed by God\], and have accompanied, as became you, those who were bound in chains, the fitting ornaments of saints, and which are indeed the diadems of the true elect of God and our Lord; and because the strong root of your faith, spoken of in days<sup>340</sup> long gone by, endureth
 
-33 337 The title of this Epistle in most of the mss. is, “The Epistle of St. Polycarp, Bishop of Smyrna, and holy martyr, to the Philippians.” Or, “Polycarp, and those who with him are presbyters.” 338 Literally, “ye have received the patterns of true love.” 339 Phil. i. 5.
+33 337 The title of this Epistle in most of the mss. is, “The Epistle of St. Polycarp, Bishop of Smyrna, and holy martyr, to the Philippians.” Or, “Polycarp, and those who with him are presbyters.” 338 Literally, “ye have received the patterns of true love.” 339 [[Philippians 01#^1-5|Phil. i. 5]].
 
 *[PDF 97]* ^pg97
 
@@ -60,7 +60,7 @@ even until now, and bringeth forth fruit to our Lord Jesus Christ, who for our s
 
 “Wherefore, girding up your loins,”<sup>344</sup> “serve the Lord in fear”<sup>345</sup> and truth, as those who have forsaken the vain, empty talk and error of the multitude, and “believed in Him who raised up our Lord Jesus Christ from the dead, and gave Him glory,”<sup>346</sup> and a throne at His right hand. To Him all things<sup>347</sup> in heaven and on earth are subject. Him every spirit serves. He comes as the Judge of the living and the dead.<sup>348</sup> His blood will God require of those who do not believe in Him.<sup>349</sup> But He who raised Him up from the dead will raise<sup>350</sup> up us also, if we do His will, and walk in His commandments, and love what He loved, keeping ourselves from all unrighteousness, covetousness, love of money, evil speaking, false witness; “not rendering evil for evil, or railing for railing,”<sup>351</sup> or blow for blow, or cursing for cursing, but being mindful of what the Lord said in His teaching: “Judge not, that ye be not judged;<sup>352</sup> forgive, and it shall be forgiven unto you;<sup>353</sup> be merciful, that ye may obtain mercy;<sup>354</sup> with what measure ye mete, it shall be measured to you again;”<sup>355</sup> and once
 
-Acts ii. 24. Literally, “having loosed the pains of Hades.” 341 1 Pet. i. 8. 342 Eph. ii. 8, 9. 343 Comp. 1 Pet. i. 13; Eph. vi. 14. 344 Ps. ii. 11. 345 1 Pet. i. 21. 346 Comp. 1 Pet. iii. 22; Phil. ii. 10. 347 Comp. Acts xvii. 31. 348 Or, “who do not obey him.” 349 Comp 1 Cor. vi. 14; 2 Cor. iv. 14; Rom. viii. 11. 350 1 Pet. iii. 9. 351 Matt. vii. 1. 352 Matt. vi. 12, 14; Luke vi. 37. 353 Luke vi. 36. 354 Matt. vii. 2; Luke vi. 38.
+[[Acts 02#^2-24|Acts ii. 24]]. Literally, “having loosed the pains of Hades.” 341 [[1 Peter 01#^1-8|1 Pet. i. 8]]. 342 [[Ephesians 02#^2-8|Eph. ii. 8]], [[Ephesians 02#^2-9|9]]. 343 Comp. [[1 Peter 01#^1-13|1 Pet. i. 13]]; [[Ephesians 06#^6-14|Eph. vi. 14]]. 344 Ps. ii. 11. 345 [[1 Peter 01#^1-21|1 Pet. i. 21]]. 346 Comp. [[1 Peter 03#^3-22|1 Pet. iii. 22]]; [[Philippians 02#^2-10|Phil. ii. 10]]. 347 Comp. [[Acts 17#^17-31|Acts xvii. 31]]. 348 Or, “who do not obey him.” 349 Comp [[1 Corinthians 06#^6-14|1 Cor. vi. 14]]; [[2 Corinthians 04#^4-14|2 Cor. iv. 14]]; [[Romans 08#^8-11|Rom. viii. 11]]. 350 [[1 Peter 03#^3-9|1 Pet. iii. 9]]. 351 [[Matthew 07#^7-1|Matt. vii. 1]]. 352 [[Matthew 06#^6-12|Matt. vi. 12]], [[Matthew 06#^6-14|14]]; [[Luke 06#^6-37|Luke vi. 37]]. 353 [[Luke 06#^6-36|Luke vi. 36]]. 354 [[Matthew 07#^7-2|Matt. vii. 2]]; [[Luke 06#^6-38|Luke vi. 38]].
 
 *[PDF 98]* ^pg98
 
@@ -76,11 +76,11 @@ These things, brethren, I write to you concerning righteousness, not because I t
 
 “But the love of money is the root of all evils.”<sup>360</sup> Knowing, therefore, that “as we brought nothing into the world, so we can carry nothing out,”<sup>361</sup> let us arm ourselves with the armour of righteousness;<sup>362</sup> and let us teach, first of all, ourselves to walk in the commandments of the Lord. Next, \[teach\] your wives \[to walk\] in the faith given to them, and in love and purity tenderly loving their own husbands in all truth, and loving all \[others\] equally in all chastity; and to train up their children in the knowledge and fear of God. Teach the widows to be discreet as respects the faith of the Lord, praying continually<sup>363</sup> for all, being far from all slandering, evil-speaking,
 
-Matt. v. 3, 10; Luke vi. 20.
+[[Matthew 05#^5-3|Matt. v. 3]], [[Matthew 05#^5-10|10]]; [[Luke 06#^6-20|Luke vi. 20]].
 
 356
 
-Comp. 2 Pet. iii. 15.
+Comp. [[2 Peter 03#^3-15|2 Pet. iii. 15]].
 
 357
 
@@ -88,23 +88,23 @@ The form is *plural*, but one Epistle is probably meant. \[So, even in English, 
 
 letter, as we say “by these presents.” But even we might speak of St. Paul as having written his Epistles *to us*; so the Epistles to Thessalonica and Corinth might more naturally still be referred to here\].
 
-Comp. Gal. iv. 26.
+Comp. [[Galatians 04#^4-26|Gal. iv. 26]].
 
 359
 
-1 Tim. vi. 10.
+[[1 Timothy 06#^6-10|1 Tim. vi. 10]].
 
 360
 
-1 Tim. vi. 7.
+[[1 Timothy 06#^6-7|1 Tim. vi. 7]].
 
 361
 
-Comp. Eph. vi. 11.
+Comp. [[Ephesians 06#^6-11|Eph. vi. 11]].
 
 362
 
-Comp. 1 Thess. v. 17.
+Comp. [[1 Thessalonians 05#^5-17|1 Thess. v. 17]].
 
 *[PDF 99]* ^pg99
 
@@ -116,7 +116,7 @@ Knowing, then, that “God is not mocked,”<sup>365</sup> we ought to walk wort
 
 #### Chapter VI.—The duties of presbyters and others.
 
-Some here read, “altars.” 364 Gal. vi. 7. 365 Some read, “God in Christ.” 366 Comp. 1 Tim. iii. 8. 367 Comp. Matt. xx. 28. 368 Πολιτευσώμεθα, referring to the whole conduct; comp. Phil. i. 27. 369 2 Tim. ii. 12. 370 Some read, ἀνακύπτεσθαι, “to emerge from.” \[So Chevallier, but not Wake nor Jacobson. See the note of latter, *ad loc*.\] 371 1 Pet. ii. 11. 372 1 Cor. vi. 9, 10.
+Some here read, “altars.” 364 [[Galatians 06#^6-7|Gal. vi. 7]]. 365 Some read, “God in Christ.” 366 Comp. [[1 Timothy 03#^3-8|1 Tim. iii. 8]]. 367 Comp. [[Matthew 20#^20-28|Matt. xx. 28]]. 368 Πολιτευσώμεθα, referring to the whole conduct; comp. [[Philippians 01#^1-27|Phil. i. 27]]. 369 [[2 Timothy 02#^2-12|2 Tim. ii. 12]]. 370 Some read, ἀνακύπτεσθαι, “to emerge from.” \[So Chevallier, but not Wake nor Jacobson. See the note of latter, *ad loc*.\] 371 [[1 Peter 02#^2-11|1 Pet. ii. 11]]. 372 [[1 Corinthians 06#^6-9|1 Cor. vi. 9]], [[1 Corinthians 06#^6-10|10]].
 
 *[PDF 100]* ^pg100
 
@@ -126,7 +126,7 @@ And let the presbyters be compassionate and merciful to all, bringing back those
 
 “For whosoever does not confess that Jesus Christ has come in the flesh, is antichrist;”<sup>377</sup> and whosoever does not confess the testimony of the cross,<sup>378</sup> is of the devil; and whosoever perverts the oracles of the Lord to his own lusts, and says that there is neither a resurrection nor a judgment, he is the first-born of Satan.<sup>379</sup> Wherefore, forsaking the vanity of many, and their false doctrines, let us return to the word which has been handed down to us from<sup>380</sup> the beginning; “watching unto prayer,”<sup>381</sup> and persevering in fasting; beseeching in our supplications the all-seeing God “not to lead us into temptation,”<sup>382</sup> as the Lord has said: “The spirit truly is willing, but the flesh is weak.”<sup>383</sup>
 
-35 Rom. xii. 17; 2 Cor. viii. 31. 374 Matt. vi. 12–14. 375 Rom. xiv. 10–12; 2 Cor. v. 10. 376 1 John iv. 3. 377 Literally, “the martyrdom of the cross,” which some render, “His suffering on the cross.” 378 \[The original, perhaps, of Eusebius (*Hist.* iv. cap. 14). It became a common-place expression in the Church.\] 379 Comp. Jude 3. 380 1 Pet. iv. 7. 381 Matt. vi. 13; Matt. xxvi. 41. 382 Matt. xxvi. 41; Mark xiv. 38.
+35 [[Romans 12#^12-17|Rom. xii. 17]]; 2 Cor. viii. 31. 374 [[Matthew 06#^6-12|Matt. vi. 12–14]]. 375 [[Romans 14#^14-10|Rom. xiv. 10–12]]; [[2 Corinthians 05#^5-10|2 Cor. v. 10]]. 376 [[1 John 04#^4-3|1 John iv. 3]]. 377 Literally, “the martyrdom of the cross,” which some render, “His suffering on the cross.” 378 \[The original, perhaps, of Eusebius (*Hist.* iv. cap. 14). It became a common-place expression in the Church.\] 379 Comp. Jude 3. 380 [[1 Peter 04#^4-7|1 Pet. iv. 7]]. 381 [[Matthew 06#^6-13|Matt. vi. 13]]; [[Matthew 26#^26-41|Matt. xxvi. 41]]. 382 [[Matthew 26#^26-41|Matt. xxvi. 41]]; [[Mark 14#^14-38|Mark xiv. 38]].
 
 *[PDF 101]* ^pg101
 
@@ -144,7 +144,7 @@ Chapter X.—Exhortation to the practice of virtue.<sup>391</sup>
 
 Stand fast, therefore, in these things, and follow the example of the Lord, being firm and unchangeable in the faith, loving the brotherhood,<sup>392</sup> and being attached to one another, joined together in the truth, exhibiting the meekness of the Lord in your intercourse with one another, and despising no one. When you can do good, defer it not, because “alms delivers from death.”<sup>393</sup> Be
 
-1\. Pet. ii. 24. 384 1 Pet. ii. 22. 385 Comp. 1 John iv. 9. 386 Comp. Acts v. 41; 1 Pet. iv. 16. 387 Some read, “we glorify Him.” 388 Comp. 1 Pet. ii. 21. 389 Comp. Phil. ii. 16; Gal. ii. 2. 390 391 This and the two following chapters are preserved only in a Latin version. \[See Jacobson, *ad loc*.\] Comp. 1 Pet. ii. 17. 392 Tobit iv. 10, Tobit xii. 9. Comp. 1 Pet. v. 5. 394 1 Pet. ii. 12. 395 Isa. lii. 5. 396 Some think that *incontinence* on the part of the Valens and his wife is referred to. \[For many reasons I am glad the 397 translators have preferred the reading πλεονεξίας. The next word, *chaste*, sufficiently rebukes the example of Valens. For once I venture not to coincide with Jacobson’s comment.\] 1 Thess. v. 22. 398 Some think that *incontinence* on the part of the Valens and his wife is referred to. \[For many reasons I am glad the 399 translators have preferred the reading πλεονεξίας. The next word, *chaste*, sufficiently rebukes the example of Valens. For once I venture not to coincide with Jacobson’s comment.\] 1 Cor. vi. 2. 400 Some read, “named;” comp. Phil. i. 5. 401
+1\. Pet. ii. 24. 384 [[1 Peter 02#^2-22|1 Pet. ii. 22]]. 385 Comp. [[1 John 04#^4-9|1 John iv. 9]]. 386 Comp. [[Acts 05#^5-41|Acts v. 41]]; [[1 Peter 04#^4-16|1 Pet. iv. 16]]. 387 Some read, “we glorify Him.” 388 Comp. [[1 Peter 02#^2-21|1 Pet. ii. 21]]. 389 Comp. [[Philippians 02#^2-16|Phil. ii. 16]]; [[Galatians 02#^2-2|Gal. ii. 2]]. 390 391 This and the two following chapters are preserved only in a Latin version. \[See Jacobson, *ad loc*.\] Comp. [[1 Peter 02#^2-17|1 Pet. ii. 17]]. 392 Tobit iv. 10, Tobit xii. 9. Comp. [[1 Peter 05#^5-5|1 Pet. v. 5]]. 394 [[1 Peter 02#^2-12|1 Pet. ii. 12]]. 395 Isa. lii. 5. 396 Some think that *incontinence* on the part of the Valens and his wife is referred to. \[For many reasons I am glad the 397 translators have preferred the reading πλεονεξίας. The next word, *chaste*, sufficiently rebukes the example of Valens. For once I venture not to coincide with Jacobson’s comment.\] [[1 Thessalonians 05#^5-22|1 Thess. v. 22]]. 398 Some think that *incontinence* on the part of the Valens and his wife is referred to. \[For many reasons I am glad the 399 translators have preferred the reading πλεονεξίας. The next word, *chaste*, sufficiently rebukes the example of Valens. For once I venture not to coincide with Jacobson’s comment.\] [[1 Corinthians 06#^6-2|1 Cor. vi. 2]]. 400 Some read, “named;” comp. [[Philippians 01#^1-5|Phil. i. 5]]. 401
 
 
 *[PDF 102]* ^pg102
@@ -155,7 +155,7 @@ all of you subject one to another<sup>394</sup> “having your conduct blameless
 
 I am greatly grieved for Valens, who was once a presbyter among you, because he so little understands the place that was given him \[in the Church\]. I exhort you, therefore, that ye abstain from covetousness,<sup>397</sup> and that ye be chaste and truthful. “Abstain from every form of evil.”<sup>398</sup> For if a man cannot govern himself in such matters, how shall he enjoin them on others? If a man does not keep himself from covetousness,<sup>399</sup> he shall be defiled by idolatry, and shall be judged as one of the heathen. But who of us are ignorant of the judgment of the Lord? “Do we not know that the saints shall judge the world?”<sup>400</sup> as Paul teaches. But I have neither seen nor heard of any such thing among you, in the midst of whom the blessed Paul laboured, and who are commended<sup>401</sup> in the beginning of his Epistle. For he boasts of you in all those Churches which alone then knew the Lord; but we \[of Smyrna\] had not yet known Him. I am deeply grieved, therefore, brethren, for him (Valens) and his wife; to whom may the Lord grant true repentance! And be ye then moderate in regard to this matter, and “do not count such as enemies,”<sup>402</sup> but call them back as suffering and straying members, that ye may save your whole body. For by so acting ye shall edify yourselves.<sup>403</sup>
 
-2\. Thess. iii. 15. 402 Comp. 1 Cor. xii. 26.
+2\. Thess. iii. 15. 402 Comp. [[1 Corinthians 12#^12-26|1 Cor. xii. 26]].
 
 
 *[PDF 103]* ^pg103
@@ -178,7 +178,7 @@ Ps. iv. 5.
 
 405
 
-Eph. iv. 26.
+[[Ephesians 04#^4-26|Eph. iv. 26]].
 
 406
 
@@ -186,15 +186,15 @@ Some read, “believes.”
 
 407
 
-Gal. i. 1.
+[[Galatians 01#^1-1|Gal. i. 1]].
 
 408
 
-Comp. 1 Tim. ii. 2.
+Comp. [[1 Timothy 02#^2-2|1 Tim. ii. 2]].
 
 409
 
-Matt. v. 44.
+[[Matthew 05#^5-44|Matt. v. 44]].
 
 410
 
@@ -272,7 +272,7 @@ All the martyrdoms, then, were blessed and noble which took place according to t
 
 #### Chapter III.—The constancy of Germanicus. The death of Polycarp is demanded.
 
-Literally, “who are more pious.” 422 The account now returns to the illustration of the statement made in the first sentence. 423 1 Cor. ii. 9.
+Literally, “who are more pious.” 422 The account now returns to the illustration of the statement made in the first sentence. 423 [[1 Corinthians 02#^2-9|1 Cor. ii. 9]].
 
 *[PDF 107]* ^pg107
 
@@ -302,7 +302,7 @@ Literally, “the nobleness of the God-loving and God-fearing race of Christians
 
 427
 
-Comp. Matt. x. 23.
+Comp. [[Matthew 10#^10-23|Matt. x. 23]].
 
 *[PDF 108]* ^pg108
 
@@ -326,7 +326,7 @@ That is, on Friday.
 
 431
 
-Comp. Matt. xxvi. 55.
+Comp. [[Matthew 26#^26-55|Matt. xxvi. 55]].
 
 432
 
@@ -338,7 +338,7 @@ Some read “the Lord”
 
 434
 
-Comp. Matt. vi. 10; Acts xxi. 14.
+Comp. [[Matthew 06#^6-10|Matt. vi. 10]]; [[Acts 21#^21-14|Acts xxi. 14]].
 
 435
 
@@ -406,7 +406,7 @@ Or, “an account of Christianity.”
 
 446
 
-Comp. Rom. xiii. 1–7; Tit. iii. 1.
+Comp. [[Romans 13#^13-1|Rom. xiii. 1–7]]; [[Titus 03#^3-1|Tit. iii. 1]].
 
 447
 
@@ -464,7 +464,7 @@ When he had pronounced this *amen*, and so finished his prayer, those who were a
 
 At length, when those wicked men perceived that his body could not be consumed by the fire, they commanded an executioner to go near and pierce him through with a dagger. And on his doing this, there came forth a dove,<sup>462</sup> and a great quantity of blood, so that the fire was extinguished; and all the people wondered that there should be such a difference between the unbelievers and the elect, of whom this most admirable Polycarp was one, having in our own times been an apostolic
 
-Comp. Matt. xx. 22, Matt. xxvi. 39; Mark x. 38.
+Comp. [[Matthew 20#^20-22|Matt. xx. 22]], [[Matthew 26#^26-39|Matt. xxvi. 39]]; [[Mark 10#^10-38|Mark x. 38]].
 
 456
 
@@ -514,7 +514,7 @@ The Greek, literally translated, is, “and to have fellowship with his holy fle
 
 464
 
-This clause is omitted by Eusebius: it was probably interpolated by some transcriber, who had in his mind 1 Pet. iii. 18.
+This clause is omitted by Eusebius: it was probably interpolated by some transcriber, who had in his mind [[1 Peter 03#^3-18|1 Pet. iii. 18]].
 
 465
 

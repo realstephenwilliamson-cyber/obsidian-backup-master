@@ -27,7 +27,7 @@ tathā hi dṛśyatāṃ loko ghaṭādervedane yathā || ^iast
 > [!source] Dyczkowski, vol. VI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)/Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#^pg448|p. 429]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 06.pdf#page=448>))
 >
-> Thus, those who possess the wealth of a (true spiritual) lineage consider that meditation (bhāvanā), a means (to realisation) (karana) or the like have no place in Śiva. (with 10.216cd–217ab)
+> Thus, those who possess the wealth of a (true spiritual) lineage consider that meditation (bhāvanā), a means (to realisation) (karaṇa) or the like have no place in Śiva. (with 10.216cd–217ab)
 >
 > So, as one can observe in everyday life, it seems as if one makes an effort to perceive (an outer object) such as a jar, but not so (an inner) pleasing sensation. (with 10.217cd–218ab)
 

@@ -69,7 +69,7 @@ Likewise, when the king, for his part, embraces one with his arm, even though it
 [^19]: [[Psalms 018#^18-3|Psalms 18:3]].
 [^20]: [[Psalms 005#^5-13|Psalms 5:13]].
 [^21]: *Avot* 4:17.
-[^22]: [[Berakhot 16#16b|*Berachot* 16b]].
+[^22]: *Berachot* [[Berakhot 16#16b|16b]].
 [^23]: I.e., the “glow” of the *Shechinah*, not the *Shechinah* itself. Note the author’s interpretation of זיו in this context as a remote gleam, a mere reflection.
 [^24]: [[Song of Songs 8#^8-3|Song of Songs 8:3]].
 [^25]: Deuteronomy 35:2.

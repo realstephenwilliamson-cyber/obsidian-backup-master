@@ -20,7 +20,7 @@ Text: [[NRSVue Matthew 23|NRSVue]] · [[Matthew 23|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 23#^23-4|4]]:** *Heavy burdens*, Jesus accuses Pharisees of im- posing harsh teachings (contrast 11.28–29). Jews traditionally looked upon Torah as a blessing, not a burden. ^23-4
 
-**[[NRSVue Matthew 23#^23-5|5]]:** *Phylacteries* (Gk “phylaktēria,” “safeguard”; Heb “tefillin,” from “tefillah,” “prayer”), leather boxes containing scriptural passages ([[Torah 15 - Bo#^13-1|Ex 13.1–16]]; [[Torah 45 - Vaetchanan#^6-4|Deut 6.4–9]]; [[Torah 46 - Eikev#^11-13|11.13–21]]), which are worn on the forehead and arm during prayer ([[Torah 15 - Bo#^13-9|Ex 13.9]],[[Torah 15 - Bo#^13-16|16]]; [[Torah 45 - Vaetchanan#^6-8|Deut 6.8]]; [[Torah 46 - Eikev#^11-15|11.15]]; [[Berakhot 6#6a|*b. Ber*. 6a]]; [[Menachot 34#34b|*b. Men*. 34b]]; 35b; 37a). *Fringes*, see 9.20n. ^23-5
+**[[NRSVue Matthew 23#^23-5|5]]:** *Phylacteries* (Gk “phylaktēria,” “safeguard”; Heb “tefillin,” from “tefillah,” “prayer”), leather boxes containing scriptural passages ([[Torah 15 - Bo#^13-1|Ex 13.1–16]]; [[Torah 45 - Vaetchanan#^6-4|Deut 6.4–9]]; [[Torah 46 - Eikev#^11-13|11.13–21]]), which are worn on the forehead and arm during prayer ([[Torah 15 - Bo#^13-9|Ex 13.9]],[[Torah 15 - Bo#^13-16|16]]; [[Torah 45 - Vaetchanan#^6-8|Deut 6.8]]; [[Torah 46 - Eikev#^11-15|11.15]]; *b. Ber*. [[Berakhot 6#6a|6a]]; *b. Men*. [[Menachot 34#34b|34b]]; 35b; 37a). *Fringes*, see 9.20n. ^23-5
 
 **[[NRSVue Matthew 23#^23-7|7]]:** *Rabbi*, Heb “my great one,” meaning “teacher” or “master,” a negative term in Matthew’s Gospel (e.g., 26.49; contrast [[John 20#^20-16|Jn 20.16]]). See “Rabbi,” p. 188. ^23-7
 
@@ -42,7 +42,7 @@ Text: [[NRSVue Matthew 23|NRSVue]] · [[Matthew 23|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 23#^23-24|24]]:** *Strain out a gnat*, see [[Torah 26 - Shmini#^11-44|Lev 11.44–45]]; cf. 19.24. ^23-24
 
-**[[NRSVue Matthew 23#^23-25|25–26]]:** *Clean the outside*, [[Luke 11#^11-33|Lk 11.33–34]]. Jesus charges the Pharisees with having impure hearts (6.22; 15.16–20), outwardly appearing pious (23.2; cf. [[Berakhot 28#28a|*b. Ber*. 28a]]; see esp. [[Yoma 72#72b|*b. Yoma* 72b]], “Any scholar whose inside is not as his outside is no 14, *Woe to you, scribes and Pharisees, hypocrites! For you devour widows’ houses and for the sake of appearance you make long prayers; therefore you will receive the greater condemnation* d Gk *Gehenna* e Other ancient authorities add *and of the plate* scholar”). ^23-25
+**[[NRSVue Matthew 23#^23-25|25–26]]:** *Clean the outside*, [[Luke 11#^11-33|Lk 11.33–34]]. Jesus charges the Pharisees with having impure hearts (6.22; 15.16–20), outwardly appearing pious (23.2; cf. *b. Ber*. [[Berakhot 28#28a|28a]]; see esp. *b. Yoma* [[Yoma 72#72b|72b]], “Any scholar whose inside is not as his outside is no 14, *Woe to you, scribes and Pharisees, hypocrites! For you devour widows’ houses and for the sake of appearance you make long prayers; therefore you will receive the greater condemnation* d Gk *Gehenna* e Other ancient authorities add *and of the plate* scholar”). ^23-25
 
 **[[NRSVue Matthew 23#^23-27|27]]:** *Whitewashed tombs*, marked so that people could avoid corpse impurity; see [[Torah 39 - Chukat#^19-11|Num 19.11–22]]; [[Luke 11#^11-44|Lk 11.44]]. ^23-27
 
@@ -50,7 +50,7 @@ Text: [[NRSVue Matthew 23|NRSVue]] · [[Matthew 23|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 23#^23-34|34]]:** [[Luke 11#^11-49|Lk 11.49–51]]. *Prophets, sages, and scribes,* respected people of the Tanakh and their successors. *You will kill*, see 16.24n.; 20.19n. *Flog in your synagogues*, see 5.10–11n. ^23-34
 
-**[[NRSVue Matthew 23#^23-35|35]]:** *Blood of righteous Abel*, [[Torah 01 - Bereshit#^4-8|Gen 4.8]]. Jewish sources cite his righteousness (Josephus, *Ant*. 1.53; *L. A. B.* 16.2; *T. Abr.* 13a). *Zechariah son of Barachiah*, [[Zechariah 01#^1-1|Zech 1.1]] is conflated with [[II Chronicles 24#^24-20|2 Chr 24.20–22]]. Jewish sources link shedding of blood to judgment (*Sib. Or*. 3.12; *T. Zeb*. 3.2; [[Shabbat 33#33a|*b. Shabb*. 33a]]; [[Yoma 9#9b|*b. Yoma* 9b]]). ^23-35
+**[[NRSVue Matthew 23#^23-35|35]]:** *Blood of righteous Abel*, [[Torah 01 - Bereshit#^4-8|Gen 4.8]]. Jewish sources cite his righteousness (Josephus, *Ant*. 1.53; *L. A. B.* 16.2; *T. Abr.* 13a). *Zechariah son of Barachiah*, [[Zechariah 01#^1-1|Zech 1.1]] is conflated with [[II Chronicles 24#^24-20|2 Chr 24.20–22]]. Jewish sources link shedding of blood to judgment (*Sib. Or*. 3.12; *T. Zeb*. 3.2; *b. Shabb*. [[Shabbat 33#33a|33a]]; *b. Yoma* [[Yoma 9#9b|9b]]). ^23-35
 
 **[[NRSVue Matthew 23#^23-36|36]]:** *Upon this generation*, Matthew condemns those who rejected Jesus (11.16; 12.41–42,45; 17.17; 24.24). ^23-36
 

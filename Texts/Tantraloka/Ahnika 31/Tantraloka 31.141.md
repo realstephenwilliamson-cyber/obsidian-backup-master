@@ -27,7 +27,7 @@ svastikā ca purī ramyā caturdikṣu sthitāvubhau || ^iast
 > [!source] Dyczkowski, vol. XI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)/Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#^pg141|p. 123]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 11.pdf#page=141>))
 >
-> ‘Having omitted seven threads (nādikā) (i.e. squares, starting from that of Brahmā) and (then) after the eye (that is two more), (one should delete) (the number of the four) Vedas (squares) and (three squares) (that are the number of the sacred) fires, successively. (Then) from the eye (which is the ninth square),' that is in the beginning, conjoined with (three sacred) fires, together with (five squares as are the) arrows; the pair (that is, the second square), together with two and three squares, (should be deleted) in due order. (with 31.140–141ab)
+> ‘Having omitted seven threads (nādikā) (i.e. squares, starting from that of Brahmā) and (then) after the eye (that is two more), (one should delete) (the number of the four) Vedas (squares) and (three squares) (that are the number of the sacred) fires, successively. (Then) from the eye (which is the ninth square), that is in the beginning, conjoined with (three sacred) fires, together with (five squares as are the) arrows; the pair (that is, the second square), together with two and three squares, (should be deleted) in due order.’ (with 31.140–141ab)
 >
 > (Mount) Sumeru is characterized by the doors. Both the beautiful fortress of the svastikā (and Sumeru) are located in (each of) the four directions.’ (with 31.141bcd)
 

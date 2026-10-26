@@ -22,9 +22,9 @@ converted: 2026-10-07
 
 \[a.d. 30–100.\] Clement was probably a Gentile and a Roman. He seems to have been at Philippi with St. Paul (a.d. 57) when that first-born of the Western churches was passing through great trials of faith. There, with holy women and others, he ministered to the apostle and to the saints. As this city was a Roman colony, we need not inquire how a Roman happened to be there. He was possibly in some public service, and it is not improbable that he had visited Corinth in those days. From the apostle, and his companion, St. Luke, he had no doubt learned the use of the Septuagint, in which his knowledge of the Greek tongue soon rendered him an adept. His copy of that version, however, does not always agree with the Received Text, as the reader will perceive.
 
-A co-presbyter with Linus and Cletus, he succeeded them in the government of the Roman Church. I have reluctantly adopted the opinion that his Epistle was written near the close of his life, and not just after the persecution of Nero. It is not improbable that Linus and Cletus both perished in that fiery trial, and that Clement’s immediate succession to their work and place occasions the chronological difficulties of the period. After the death of the apostles, for the Roman imprisonment and martyrdom of St. Peter seem historical, Clement was the natural representative of St. Paul, and even of his companion, the “apostle of the circumcision;” and naturally he wrote the Epistle in the name of the local church, when brethren looked to them for advice. St. John, no doubt, was still surviving at Patmos or in Ephesus; but the Philippians, whose intercourse with Rome is attested by the visit of Epaphroditus, looked naturally to the surviving friends of their great founder; nor was the aged apostle in the East equally accessible. All roads pointed towards the Imperial City, and started from its *Milliarium Aureum*. But, though Clement doubtless wrote the letter, he conceals his own name, and puts forth the brethren, who seem to have met in council, and sent a brotherly delegation (Chap. lix.). The entire absence of the spirit of Diotrephes ([[3 John 01#^1-9|3 John 9]]), and the close accordance of the Epistle, in humility and meekness, with that of St. Peter (1 Pet. v. 1–5), are noteworthy features. The whole will be found animated with the loving and faithful spirit of St. Paul’s dear Philippians, among whom the writer had learned the Gospel.
+A co-presbyter with Linus and Cletus, he succeeded them in the government of the Roman Church. I have reluctantly adopted the opinion that his Epistle was written near the close of his life, and not just after the persecution of Nero. It is not improbable that Linus and Cletus both perished in that fiery trial, and that Clement’s immediate succession to their work and place occasions the chronological difficulties of the period. After the death of the apostles, for the Roman imprisonment and martyrdom of St. Peter seem historical, Clement was the natural representative of St. Paul, and even of his companion, the “apostle of the circumcision;” and naturally he wrote the Epistle in the name of the local church, when brethren looked to them for advice. St. John, no doubt, was still surviving at Patmos or in Ephesus; but the Philippians, whose intercourse with Rome is attested by the visit of Epaphroditus, looked naturally to the surviving friends of their great founder; nor was the aged apostle in the East equally accessible. All roads pointed towards the Imperial City, and started from its *Milliarium Aureum*. But, though Clement doubtless wrote the letter, he conceals his own name, and puts forth the brethren, who seem to have met in council, and sent a brotherly delegation (Chap. lix.). The entire absence of the spirit of Diotrephes ([[3 John 01#^1-9|3 John 9]]), and the close accordance of the Epistle, in humility and meekness, with that of St. Peter ([[1 Peter 05#^5-1|1 Pet. v. 1–5]]), are noteworthy features. The whole will be found animated with the loving and faithful spirit of St. Paul’s dear Philippians, among whom the writer had learned the Gospel.
 
-Clement fell asleep, probably soon after he despatched his letter. It is the legacy of one who reflects the apostolic age in all the beauty and evangelical truth which were the first-fruits of the Spirit’s presence with the Church. He shares with others the aureole of glory attributed by St. Paul (Phil. iv. 3), “His name is in the Book of Life.”
+Clement fell asleep, probably soon after he despatched his letter. It is the legacy of one who reflects the apostolic age in all the beauty and evangelical truth which were the first-fruits of the Spirit’s presence with the Church. He shares with others the aureole of glory attributed by St. Paul ([[Philippians 04#^4-3|Phil. iv. 3]]), “His name is in the Book of Life.”
 
 The plan of this publication does not permit the restoration, in this volume, of the recently discovered portions of his work. It is the purpose of the editor to present this, however, with other
 
@@ -38,7 +38,7 @@ The following is the Introductory Notice of the original editors and translators
 
 The first Epistle, bearing the name of Clement, has been preserved to us in a single manuscript only. Though very frequently referred to by ancient Christian writers, it remained unknown to the scholars of Western Europe until happily discovered in the Alexandrian manuscript. This ms. of the Sacred Scriptures (known and generally referred to as Codex A) was presented in 1628 by Cyril, Patriarch of Constantinople, to Charles I., and is now preserved in the British Museum. Subjoined to the books of the New Testament contained in it, there are two writings described as the Epistles of one Clement. Of these, that now before us is the first. It is tolerably perfect, but there are many slight *lacunæ*, or gaps, in the ms., and one whole leaf is supposed to have been lost towards the close. These *lacunæ*, however, so numerous in some chapters, do not generally extend beyond a word or syllable, and can for the most part be easily supplied.
 
-Who the Clement was to whom these writings are ascribed, cannot with absolute certainty be determined. The general opinion is, that he is the same as the person of that name referred to by St. Paul (Phil. iv. 3). The writings themselves contain no statement as to their author. The first, and by far the longer of them, simply purports to have been written in the name of the Church at Rome to the Church at Corinth. But in the catalogue of contents prefixed to the ms. they are both plainly attributed to one Clement; and the judgment of most scholars is, that, in regard to the first Epistle at least, this statement is correct, and that it is to be regarded as an authentic production of the friend and fellow-worker of St. Paul. This belief may be traced to an early period in the history of the Church. It is found in the writings of Eusebius (*Hist. Eccl.*, iii. 15), of Origen (*Comm. in Joan.*, i. 29), and others. The internal evidence also tends to support this opinion. The doctrine, style, and manner of thought are all in accordance with it; so that, although, as has been said, positive certainty cannot be reached on the subject, we may with great probability conclude that we have in this Epistle a composition of that Clement who is known to us from Scripture as having been an associate of the great apostle.
+Who the Clement was to whom these writings are ascribed, cannot with absolute certainty be determined. The general opinion is, that he is the same as the person of that name referred to by St. Paul ([[Philippians 04#^4-3|Phil. iv. 3]]). The writings themselves contain no statement as to their author. The first, and by far the longer of them, simply purports to have been written in the name of the Church at Rome to the Church at Corinth. But in the catalogue of contents prefixed to the ms. they are both plainly attributed to one Clement; and the judgment of most scholars is, that, in regard to the first Epistle at least, this statement is correct, and that it is to be regarded as an authentic production of the friend and fellow-worker of St. Paul. This belief may be traced to an early period in the history of the Church. It is found in the writings of Eusebius (*Hist. Eccl.*, iii. 15), of Origen (*Comm. in Joan.*, i. 29), and others. The internal evidence also tends to support this opinion. The doctrine, style, and manner of thought are all in accordance with it; so that, although, as has been said, positive certainty cannot be reached on the subject, we may with great probability conclude that we have in this Epistle a composition of that Clement who is known to us from Scripture as having been an associate of the great apostle.
 
 The date of this Epistle has been the subject of considerable controversy. It is clear from the writing itself that it was composed soon after some persecution (chap. i.) which the Roman Church had endured; and the only question is, whether we are to fix upon the persecution under Nero or Domitian. If the former, the date will be about the year 68; if the latter, we must place it towards the close of the first century or the beginning of the second. We possess no external aid to the settlement of this question. The lists of early Roman bishops are in hopeless confusion, some making Clement the immediate successor of St. Peter, others placing Linus, and others still Linus and Anacletus, between him and the apostle. The internal evidence, again, leaves the matter doubtful, though it has been strongly pressed on both sides. The probability seems, on the whole, to be in favour of the Domitian period, so that the Epistle may be dated about a.d. 97.
 
@@ -70,7 +70,7 @@ to the elect of God, which a few rash and self-confident persons have kindled to
 
 Moreover, ye were all distinguished by humility, and were in no respect puffed up with pride, but yielded obedience rather than extorted it,<sup>6</sup> and were more willing to give than to receive.<sup>7</sup> Content with the provision which God had made for you, and carefully attending to His words, ye were inwardly filled<sup>8</sup> with His doctrine, and His sufferings were before your eyes. Thus a profound and abundant peace was given to you all, and ye had an insatiable desire for doing good, while a full outpouring of the Holy Spirit was upon you all. Full of holy designs, ye did, with true earnestness of mind and a godly confidence, stretch forth your hands to God Almighty, beseeching Him to be merciful unto you, if ye had been guilty of any involuntary transgression. Day and night ye were anxious for the whole brotherhood,<sup>9</sup> that the number of God’s elect might be saved with mercy and a good conscience.<sup>10</sup> Ye were sincere and uncorrupted, and forgetful of injuries between one another. Every kind of faction and schism was abominable in your sight. Ye mourned over the transgressions of your neighbours: their deficiencies you deemed your own. Ye never grudged any act of kindness,
 
-Literally, “is greatly blasphemed.” 4 Literally, “did not prove your all-virtuous and firm faith.” 5 Eph. v. 21; 1 Pet. v. 5. 6 Acts xx. 35. 7 Literally, “ye embraced it in your bowels.” \[Concerning the complaints of Photius (ninth century) against Clement, see 8 Bull’s *Defensio Fidei Nicænæ, Works*, vol. v. p. 132.\] 1 Pet. ii. 17. 9 So, in the ms., but many have suspected that the text is here corrupt. Perhaps the best emendation is that which substitutes 10 συναισθήσεως, “compassion,” for συνειδήσεως, “conscience.”
+Literally, “is greatly blasphemed.” 4 Literally, “did not prove your all-virtuous and firm faith.” 5 [[Ephesians 05#^5-21|Eph. v. 21]]; [[1 Peter 05#^5-5|1 Pet. v. 5]]. 6 [[Acts 20#^20-35|Acts xx. 35]]. 7 Literally, “ye embraced it in your bowels.” \[Concerning the complaints of Photius (ninth century) against Clement, see 8 Bull’s *Defensio Fidei Nicænæ, Works*, vol. v. p. 132.\] [[1 Peter 02#^2-17|1 Pet. ii. 17]]. 9 So, in the ms., but many have suspected that the text is here corrupt. Perhaps the best emendation is that which substitutes 10 συναισθήσεως, “compassion,” for συνειδήσεως, “conscience.”
 
 *[p. 9]* ^pg49
 
@@ -86,7 +86,7 @@ become blind in His faith,<sup>15</sup> neither walks in the ordinances of His a
 
 For thus it is written: “And it came to pass after certain days, that Cain brought of the fruits of the earth a sacrifice unto God; and Abel also brought of the firstlings of his sheep, and of the fat thereof. And God had respect to Abel and to his offerings, but Cain and his sacrifices He did not regard. And Cain was deeply grieved, and his countenance fell. And God said to Cain, Why art thou grieved, and why is thy countenance fallen? If thou offerest rightly, but dost not divide rightly, hast thou not sinned? Be at peace: thine offering returns to thyself, and thou shalt again possess it. And Cain said to Abel his brother, Let us go into the field. And it came to pass, while they were in
 
-Tit. iii. 1.
+[[Titus 03#^3-1|Tit. iii. 1]].
 
 11
 
@@ -106,7 +106,7 @@ It seems necessary to refer αὐτοῦ to *God*, in opposition to the translat
 
 15
 
-Literally, “Christ;” comp. 2 Cor. i. 21, Eph. iv. 20.
+Literally, “Christ;” comp. [[2 Corinthians 01#^1-21|2 Cor. i. 21]], [[Ephesians 04#^4-20|Eph. iv. 20]].
 
 16
 
@@ -150,7 +150,7 @@ Some insert “Father.”
 
 35
 
-Gen. vii.; 1 Pet. iii. 20; 2 Pet. ii. 5.
+Gen. vii.; [[1 Peter 03#^3-20|1 Pet. iii. 20]]; [[2 Peter 02#^2-5|2 Pet. ii. 5]].
 
 36
 
@@ -180,7 +180,7 @@ Wherefore, let us yield obedience to His excellent and glorious will; and implor
 
 Abraham, styled “the friend,”<sup>45</sup> was found faithful, inasmuch as he rendered obedience to the words of God. He, in the exercise of obedience, went out from his own country, and from his kindred, and from his father’s house, in order that, by forsaking a small territory, and a weak family, and an insignificant house, he might inherit the promises of God. For God said to him, “Get thee out from thy country, and from thy kindred, and from thy father’s house, into the land which I shall show thee. And I will make thee a great nation, and will bless thee, and make thy name great, and thou shall be blessed. And I will bless them that bless thee, and curse them that curse thee; and in thee shall all the families of the earth be blessed.”<sup>46</sup> And again, on his departing from Lot, God said to him. “Lift up thine eyes, and look from the place where thou now art, northward, and southward, and eastward, and westward; for all the land which thou seest, to thee will I give it, and to thy seed for ever. And I will make thy seed as the dust of the earth, \[so that\] if a man can number the dust of the earth, then shall thy seed also be numbered.”<sup>47</sup> And again \[the Scripture\] saith, “God brought forth Abram, and spake unto him, Look up now to heaven, and count the stars if thou be able to number them; so shall thy seed be. And Abram believed God, and it was counted to him for righteousness.”<sup>48</sup> On account of his faith and hospitality, a son was given him in his old age; and in the exercise of obedience, he offered him as a sacrifice to God on one of the mountains which He showed him.<sup>49</sup>
 
-8 Some read ματαιολογίαν, “vain talk.” 43 Gen. v. 24; Heb. xi. 5. Literally, “and his death was not found.” 44 Isa. xli. 8; 2 Chron. xx. 7; Judith viii. 19; Jas. ii. 23. 45 Gen. xii. 1–3. 46 Gen. xiii. 14–16. 47 Gen. xv. 5, 6; Rom. iv. 3. 48 Gen. xxi. 22; Heb. xi. 17.
+8 Some read ματαιολογίαν, “vain talk.” 43 Gen. v. 24; [[Hebrews 11#^11-5|Heb. xi. 5]]. Literally, “and his death was not found.” 44 Isa. xli. 8; 2 Chron. xx. 7; Judith viii. 19; [[James 02#^2-23|Jas. ii. 23]]. 45 Gen. xii. 1–3. 46 Gen. xiii. 14–16. 47 Gen. xv. 5, 6; [[Romans 04#^4-3|Rom. iv. 3]]. 48 Gen. xxi. 22; [[Hebrews 11#^11-17|Heb. xi. 17]].
 
 *[p. 14]* ^pg54
 
@@ -192,7 +192,7 @@ On account of his hospitality and godliness, Lot was saved out of Sodom when all
 
 On account of her faith and hospitality, Rahab the harlot was saved. For when spies were sent by Joshua, the son of Nun, to Jericho, the king of the country ascertained that they were come to spy out their land, and sent men to seize them, in order that, when taken, they might be put to death. But the hospitable Rahab receiving them, concealed them on the roof of her house under some stalks of flax. And when the men sent by the king arrived and said “There came men unto thee who are to spy out our land; bring them forth, for so the king commands,” she answered them, “The two men whom ye seek came unto me, but quickly departed again and are gone,” thus not discovering the spies to them. Then she said to the men, “I know assuredly that the Lord your God hath given you this city, for the fear and dread of you have fallen on its inhabitants. When therefore ye shall have taken it, keep ye me and the house of my father in safety.” And they said to her, “It shall be as thou hast spoken to us. As soon, therefore, as thou knowest that we are at hand, thou shall gather all thy family under thy roof, and they shall be preserved, but all that are found outside of thy dwelling shall perish.”<sup>53</sup> Moreover, they gave her a sign to this effect, that she should hang forth from her house a scarlet thread. And thus they made it manifest that redemption should flow through the blood of the Lord to all them that believe and hope in God.<sup>54</sup> Ye see, beloved, that there was not only faith, but prophecy, in this woman.
 
-Gen. xix.; comp. 2 Pet. ii. 6–9.
+Gen. xix.; comp. [[2 Peter 02#^2-6|2 Pet. ii. 6–9]].
 
 50
 
@@ -204,7 +204,7 @@ Literally, “become a judgment and sign.”
 
 52
 
-Josh. ii.; Heb. xi. 31.
+Josh. ii.; [[Hebrews 11#^11-31|Heb. xi. 31]].
 
 53
 
@@ -222,11 +222,11 @@ Let us therefore, brethren, be of humble mind, laying aside all haughtiness, and
 
 It is right and holy therefore, men and brethren, rather to obey God than to follow those who, through pride and sedition, have become the leaders of a detestable emulation. For we shall incur no slight injury, but rather great danger, if we rashly yield ourselves to the inclinations of men who aim at exciting strife and tumults, so as to draw us away from what is good. Let us be kind one to another after the pattern of the tender mercy and benignity of our Creator. For it is written, “The kind-hearted shall inhabit the land, and the guiltless shall be left upon it, but transgressors shall be destroyed from off the face of it.”<sup>58</sup> And again \[the Scripture\] saith, “I saw the ungodly highly exalted, and lifted up like the cedars of Lebanon: I passed by, and, behold, he was not; and I diligently sought his place, and could not find it. Preserve innocence, and look on equity: for there shall be a remnant to the peaceful man.”<sup>59</sup>
 
-Jer. ix. 23, 24; 1 Cor. i. 31; 2 Cor. x. 17.
+Jer. ix. 23, 24; [[1 Corinthians 01#^1-31|1 Cor. i. 31]]; [[2 Corinthians 10#^10-17|2 Cor. x. 17]].
 
 55
 
-Comp. Matt. vi. 12–15, Matt. vii. 2; Luke vi. 36–38.
+Comp. [[Matthew 06#^6-12|Matt. vi. 12–15]], [[Matthew 07#^7-2|Matt. vii. 2]]; [[Luke 06#^6-36|Luke vi. 36–38]].
 
 56
 
@@ -254,7 +254,7 @@ Let us cleave, therefore, to those who cultivate peace with godliness, and not t
 
 For Christ is of those who are humble-minded, and not of those who exalt themselves over His flock. Our Lord Jesus Christ, the Sceptre of the majesty of God, did not come in the pomp of pride or arrogance, although He might have done so, but in a lowly condition, as the Holy Spirit had declared regarding Him. For He says, “Lord, who hath believed our report, and to whom is the arm of the Lord revealed? We have declared \[our message\] in His presence: He is, as it were, a child, and like a root in thirsty ground; He has no form nor glory, yea, we saw Him, and He had no form nor comeliness; but His form was without eminence, yea, deficient in comparison with the \[ordinary\] form of men. He is a man exposed to stripes and suffering, and acquainted with the endurance of grief: for His countenance was turned away; He was despised, and not esteemed. He bears our iniquities, and is in sorrow for our sakes; yet we supposed that \[on His own account\] He was exposed to labour, and stripes, and affliction. But He was wounded for our transgressions, and bruised for our iniquities. The chastisement of our peace was upon Him, and by His stripes we were healed. All we, like sheep, have gone astray; \[every\] man has wandered in his own way; and the Lord has delivered Him up for our sins, while He in the midst of His sufferings openeth not His mouth. He was brought as a sheep to the slaughter, and as a lamb before her shearer is dumb, so He openeth
 
-Isa. xxix. 13; Matt. xv. 8; Mark vii. 6.
+Isa. xxix. 13; [[Matthew 15#^15-8|Matt. xv. 8]]; [[Mark 07#^7-6|Mark vii. 6]].
 
 60
 
@@ -304,7 +304,7 @@ Ps. xxii. 6–8.
 
 71
 
-Heb. xi. 37.
+[[Hebrews 11#^11-37|Heb. xi. 37]].
 
 72
 
@@ -326,7 +326,7 @@ Job xiv. 4, 5. \[Septuagint.\]
 
 75
 
-Num. xii. 7; Heb. iii. 2.
+Num. xii. 7; [[Hebrews 03#^3-2|Heb. iii. 2]].
 
 76
 
@@ -378,7 +378,7 @@ Ps. li. 1–17.
 
 Literally, “Becoming partakers of many great and glorious deeds, let us return to the aim of peace delivered to us from 86
 
-the beginning.” Comp. Heb. xii. 1.
+the beginning.” Comp. [[Hebrews 12#^12-1|Heb. xii. 1]].
 
 Or, “collections.”
 
@@ -404,7 +404,7 @@ Prov. xx. 27.
 
 90
 
-Comp. Heb. xiii. 17; 1 Thess. v. 12, 13.
+Comp. [[Hebrews 13#^13-17|Heb. xiii. 17]]; [[1 Thessalonians 05#^5-12|1 Thess. v. 12]], [[1 Thessalonians 05#^5-13|13]].
 
 91
 
@@ -416,7 +416,7 @@ Some read, “by their silence.”
 
 93
 
-Comp. 1 Tim. v. 21.
+Comp. [[1 Timothy 05#^5-21|1 Tim. v. 21]].
 
 94
 
@@ -448,7 +448,7 @@ Some regard these words as taken from an apocryphal book, others as derived from
 
 4\.
 
-Hab. ii. 3; Heb. x. 37.
+Hab. ii. 3; [[Hebrews 10#^10-37|Heb. x. 37]].
 
 100
 
@@ -470,11 +470,11 @@ Let us consider that wonderful sign \[of the resurrection\] which takes place in
 
 Do we then deem it any great and wonderful thing for the Maker of all things to raise up again those that have piously served Him in the assurance of a good faith, when even by a bird He shows
 
-Comp. 1 Cor. xv. 20; Col. i. 18.
+Comp. [[1 Corinthians 15#^15-20|1 Cor. xv. 20]]; [[Colossians 01#^1-18|Col. i. 18]].
 
 102
 
-Comp. Luke viii. 5.
+Comp. [[Luke 08#^8-5|Luke viii. 5]].
 
 103
 
@@ -510,7 +510,7 @@ Job xix. 25, 26.
 
 108
 
-Comp. Tit. i. 2; Heb. vi. 18.
+Comp. [[Titus 01#^1-2|Tit. i. 2]]; [[Hebrews 06#^6-18|Heb. vi. 18]].
 
 109
 
@@ -522,7 +522,7 @@ Wisdom xii. 12, Wisdom xi. 22.
 
 111
 
-Comp. Matt. xxiv. 35.
+Comp. [[Matthew 24#^24-35|Matt. xxiv. 35]].
 
 112
 
@@ -572,7 +572,7 @@ Some translate, “youthful lusts.”
 
 121
 
-Prov. iii. 34; Jas. iv. 6; 1 Pet. v. 5.
+Prov. iii. 34; [[James 04#^4-6|Jas. iv. 6]]; [[1 Peter 05#^5-5|1 Pet. v. 5]].
 
 *[PDF 65]* ^pg65
 
@@ -596,7 +596,7 @@ Literally, “unroll.”
 
 125
 
-Comp. Jas. ii. 21.
+Comp. [[James 02#^2-21|Jas. ii. 21]].
 
 126
 
@@ -618,7 +618,7 @@ MS. αὐτῶν, referring to the gifts: we have followed the emendation αὐ�
 
 to *God*, and not *Jacob*.
 
-Comp. Rom. ix. 5.
+Comp. [[Romans 09#^9-5|Rom. ix. 5]].
 
 132
 
@@ -644,7 +644,7 @@ The good servant<sup>139</sup> receives the bread of his labour with confidence;
 
 How blessed and wonderful, beloved, are the gifts of God! Life in immortality, splendour in righteousness, truth in perfect confidence,<sup>145</sup> faith in assurance, self-control in holiness! And all these fall under the cognizance of our understandings \[now\]; what then shall those things be which are prepared for such as wait for Him? The Creator and Father of all worlds,<sup>146</sup> the Most Holy, alone knows their amount and their beauty. Let us therefore earnestly strive to be found in the number of those that wait for Him, in order that we may share in His promised gifts. But how, beloved, shall this be done? If our understanding be fixed by faith towards God; if we earnestly seek the things which are pleasing and acceptable to Him; if we do the things which are in harmony with His blameless will; and if we follow the way of truth, casting away from us all unrighteousness and iniquity, along with all covetousness, strife, evil practices, deceit, whispering, and evil-speaking, all hatred of God, pride and haughtiness, vainglory and ambition.<sup>147</sup> For they that do such things
 
-Or, “labourer.” 139 Isa. xl. 10, Isa. lxii. 11; Rev. xxii. 12. 140 The text here seems to be corrupt. Some translate, “He warns us with all His heart to this end, that,” etc. 141 Dan. vii. 10. 142 Isa. vi. 3. 143 1 Cor. ii. 9. 144 Some translate, “in liberty.” 145 Or, “of the ages.” 146 The reading is doubtful: some have ἀφιλοξενίαν, “want of a hospitable spirit.” \[So Jacobson.\]
+Or, “labourer.” 139 Isa. xl. 10, Isa. lxii. 11; [[Revelation 22#^22-12|Rev. xxii. 12]]. 140 The text here seems to be corrupt. Some translate, “He warns us with all His heart to this end, that,” etc. 141 Dan. vii. 10. 142 Isa. vi. 3. 143 [[1 Corinthians 02#^2-9|1 Cor. ii. 9]]. 144 Some translate, “in liberty.” 145 Or, “of the ages.” 146 The reading is doubtful: some have ἀφιλοξενίαν, “want of a hospitable spirit.” \[So Jacobson.\]
 
 *[PDF 68]* ^pg68
 
@@ -654,7 +654,7 @@ are hateful to God; and not only they that do them, but also those that take ple
 
 This is the way, beloved, in which we find our Saviour,<sup>153</sup> even Jesus Christ, the High Priest of all our offerings, the defender and helper of our infirmity. By Him we look up to the heights of heaven. By Him we behold, as in a glass, His immaculate and most excellent visage. By Him are the eyes of our hearts opened. By Him our foolish and darkened understanding blossoms<sup>154</sup> up anew towards His marvellous light. By Him the Lord has willed that we should taste of immortal knowledge,<sup>155</sup> “who, being the brightness of His majesty, is by so much greater than the angels, as He hath by inheritance obtained a more excellent name than they.”<sup>156</sup> For it is thus written, “Who maketh His angels spirits, and His ministers a flame of fire.”<sup>157</sup> But concerning His Son<sup>158</sup> the Lord spoke thus: “Thou art my Son, to-day have I begotten Thee. Ask of Me, and I will give Thee the heathen for Thine inheritance, and the uttermost parts of the earth for Thy possession.”<sup>159</sup> And again
 
-15 Rom. i. 32. 148 Literally, “didst run with.” 149 Literally, “didst weave.” 150 Or, “layest a snare for.” 151 Ps. l. 16–23. The reader will observe how the Septuagint followed by Clement differs from the Hebrew. 152 Literally, “that which saves us.” 153 Or, “rejoices to behold.” 154 Or, “knowledge of immortality.” 155 Heb. i. 3, 4. 156 Ps. civ. 4; Heb. i. 7. 157 Some render, “to the Son.” 158 Ps. ii. 7, 8; Heb. i. 5.
+15 [[Romans 01#^1-32|Rom. i. 32]]. 148 Literally, “didst run with.” 149 Literally, “didst weave.” 150 Or, “layest a snare for.” 151 Ps. l. 16–23. The reader will observe how the Septuagint followed by Clement differs from the Hebrew. 152 Literally, “that which saves us.” 153 Or, “rejoices to behold.” 154 Or, “knowledge of immortality.” 155 [[Hebrews 01#^1-3|Heb. i. 3]], [[Hebrews 01#^1-4|4]]. 156 Ps. civ. 4; [[Hebrews 01#^1-7|Heb. i. 7]]. 157 Some render, “to the Son.” 158 Ps. ii. 7, 8; [[Hebrews 01#^1-5|Heb. i. 5]].
 
 *[PDF 69]* ^pg69
 
@@ -668,7 +668,7 @@ Let us then, men and brethren, with all energy act the part of soldiers, in acco
 
 Let our whole body, then, be preserved in, Christ Jesus; and let every one be subject to his neighbour, according to the special gift<sup>166</sup> bestowed upon him. Let the strong not despise the weak, and let the weak show respect unto the strong. Let the rich man provide for the wants of the poor; and let the poor man bless God, because He hath given him one by whom his need may be supplied. Let the wise man display his wisdom, not by \[mere\] words, but through good deeds. Let the humble not bear testimony to himself, but leave witness to be borne to him by another.<sup>167</sup> Let him that is pure in the flesh not grow proud<sup>168</sup> of it, and boast, knowing that it was another who bestowed on
 
-Ps. cx. 1; Heb. i. 13. 160 Some read, “who oppose their own will to that of God.” 161 Literally, “in these there is use.” 162 1 Cor. xii. 12, etc. 163 Literally, “all breathe together.” 164 Literally, “use one subjection.” 165 Literally, “according as he has been placed in his charism.” 166 Comp. Prov. xxvii. 2. 167 The ms. is here slightly torn, and we are left to conjecture.
+Ps. cx. 1; [[Hebrews 01#^1-13|Heb. i. 13]]. 160 Some read, “who oppose their own will to that of God.” 161 Literally, “in these there is use.” 162 [[1 Corinthians 12#^12-12|1 Cor. xii. 12]], etc. 163 Literally, “all breathe together.” 164 Literally, “use one subjection.” 165 Literally, “according as he has been placed in his charism.” 166 Comp. Prov. xxvii. 2. 167 The ms. is here slightly torn, and we are left to conjecture.
 
 *[PDF 70]* ^pg70
 
@@ -682,7 +682,7 @@ Foolish and inconsiderate men, who have neither wisdom<sup>170</sup> nor instruc
 
 These things therefore being manifest to us, and since we look into the depths of the divine knowledge, it behoves us to do all things in \[their proper\] order, which the Lord has commanded us to perform at stated times.<sup>175</sup> He has enjoined offerings \[to be presented\] and service to be
 
-16 Comp. Ps. cxxxix. 15. 169 Literally, “and silly and uninstructed.” 170 Literally, “a breath.” 171 Or, “has perceived.” 172 Some render, “they perished at the gates.” 173 Job iv. 16–18, Job xv. 15, Job iv. 19–21, Job v. 1–5. 174 Some join κατά καιροὺς τεταγμένους, “at stated times.” to the next sentence. \[1 Cor. xvi. 1, 2.\]
+16 Comp. Ps. cxxxix. 15. 169 Literally, “and silly and uninstructed.” 170 Literally, “a breath.” 171 Or, “has perceived.” 172 Some render, “they perished at the gates.” 173 Job iv. 16–18, Job xv. 15, Job iv. 19–21, Job v. 1–5. 174 Some join κατά καιροὺς τεταγμένους, “at stated times.” to the next sentence. \[[[1 Corinthians 16#^16-1|1 Cor. xvi. 1]], [[1 Corinthians 16#^16-2|2]].\]
 
 *[PDF 71]* ^pg71
 
@@ -696,7 +696,7 @@ Let every one of you, brethren, give thanks to God in his own order, living in a
 
 The apostles have preached the Gospel to us from<sup>178</sup> the Lord Jesus Christ; Jesus Christ \[has done so\] from<sup>179</sup> God. Christ therefore was sent forth by God, and the apostles by Christ. Both these appointments,<sup>180</sup> then, were made in an orderly way, according to the will of God. Having therefore received their orders, and being fully assured by the resurrection of our Lord Jesus Christ, and established<sup>181</sup> in the word of God, with full assurance of the Holy Ghost, they went forth proclaiming that the kingdom of God was at hand. And thus preaching through countries and cities, they appointed
 
-Literally, “to His will.” \[Comp. Rom. xv. 15, 16, Greek.\] 176
+Literally, “to His will.” \[Comp. [[Romans 15#^15-15|Rom. xv. 15]], [[Romans 15#^15-16|16]], Greek.\] 176
 
 Or, “consider.” \[This chapter has been cited to prove the earlier date for this Epistle. But the reference to Jerusalem may 177
 
@@ -724,7 +724,7 @@ the first-fruits \[of their labours\], having first proved them by the Spirit,<s
 
 And what wonder is it if those in Christ who were entrusted with such a duty by God, appointed those \[ministers\] before mentioned, when the blessed Moses also, “a faithful servant in all his house,”<sup>186</sup> noted down in the sacred books all the injunctions which were given him, and when the other prophets also followed him, bearing witness with one consent to the ordinances which he had appointed? For, when rivalry arose concerning the priesthood, and the tribes were contending among themselves as to which of them should be adorned with that glorious title, he commanded the twelve princes of the tribes to bring him their rods, each one being inscribed with the name<sup>187</sup> of the tribe. And he took them and bound them \[together\], and sealed them with the rings of the princes of the tribes, and laid them up in the tabernacle of witness on the table of God. And having shut the doors of the tabernacle, he sealed the keys, as he had done the rods, and said to them, Men and brethren, the tribe whose rod shall blossom has God chosen to fulfil the office of the priesthood, and to minister unto Him. And when the morning was come, he assembled all Israel, six hundred thousand men, and showed the seals to the princes of the tribes, and opened the tabernacle of witness, and brought forth the rods. And the rod of Aaron was found not only to have blossomed, but to bear fruit upon it.<sup>188</sup> What think ye, beloved? Did not Moses know beforehand that this would happen? Undoubtedly he knew; but he acted thus, that there might be no sedition in Israel, and that the name of the true and only God might be glorified; to whom be glory for ever and ever. Amen.
 
-17 Or, “having tested them in spirit.” 182 Or, “overseers.” 183 Or, “servants.” 184 Isa. lx. 17, Sept.; but the text is here altered by Clement. The LXX. have “I will give thy rulers in peace, and thy overseers 185 in righteousness.” Num. xii. 7; Heb. iii. 5. 186 Literally, “every tribe being written according to its name.” 187 See Num. xvii.
+17 Or, “having tested them in spirit.” 182 Or, “overseers.” 183 Or, “servants.” 184 Isa. lx. 17, Sept.; but the text is here altered by Clement. The LXX. have “I will give thy rulers in peace, and thy overseers 185 in righteousness.” Num. xii. 7; [[Hebrews 03#^3-5|Heb. iii. 5]]. 186 Literally, “every tribe being written according to its name.” 187 See Num. xvii.
 
 *[PDF 73]* ^pg73
 
@@ -810,11 +810,11 @@ Ps. xviii. 25, 26.
 
 205
 
-Or, “war.” Comp. Jas. iv. 1.
+Or, “war.” Comp. [[James 04#^4-1|Jas. iv. 1]].
 
 206
 
-Comp. Eph. iv. 4–6.
+Comp. [[Ephesians 04#^4-4|Eph. iv. 4–6]].
 
 *[PDF 75]* ^pg75
 
@@ -826,7 +826,7 @@ your sedition continueth.
 
 Take up the epistle of the blessed Apostle Paul. What did he write to you at the time when the Gospel first began to be preached?<sup>212</sup> Truly, under the inspiration<sup>213</sup> of the Spirit, he wrote to you concerning himself, and Cephas, and Apollos,<sup>214</sup> because even then parties<sup>215</sup> had been formed among you. But that inclination for one above another entailed less guilt upon you, inasmuch as your partialities were then shown towards apostles, already of high reputation, and towards a man whom they had approved. But now reflect who those are that have perverted you, and lessened the renown of your far-famed brotherly love. It is disgraceful, beloved, yea, highly disgraceful, and unworthy of your Christian profession,<sup>216</sup> that such a thing should be heard of as that the most stedfast and ancient Church of the Corinthians should, on account of one or two persons, engage in sedition against its presbyters. And this rumour has reached not only us, but those also who are unconnected<sup>217</sup> with us; so that, through your infatuation, the name of the Lord is blasphemed, while danger is also brought upon yourselves.
 
-Rom. xii. 5.
+[[Romans 12#^12-5|Rom. xii. 5]].
 
 208
 
@@ -838,11 +838,11 @@ This clause is wanting in the text.
 
 210
 
-Comp. Matt. xviii. 6, Matt. xxvi. 24; Mark ix. 42; Luke xvii. 2.
+Comp. [[Matthew 18#^18-6|Matt. xviii. 6]], [[Matthew 26#^26-24|Matt. xxvi. 24]]; [[Mark 09#^9-42|Mark ix. 42]]; [[Luke 17#^17-2|Luke xvii. 2]].
 
 211
 
-Literally, “in the beginning of the Gospel.” \[Comp. Phil. iv. 15.\]
+Literally, “in the beginning of the Gospel.” \[Comp. [[Philippians 04#^4-15|Phil. iv. 15]].\]
 
 212
 
@@ -850,7 +850,7 @@ Or, “spiritually.”
 
 213
 
-1 Cor. iii. 13, etc.
+[[1 Corinthians 03#^3-13|1 Cor. iii. 13]], etc.
 
 214
 
@@ -888,11 +888,11 @@ Ps. cxviii. 19, 20.
 
 220
 
-Jas. v. 20; 1 Pet. iv. 8.
+[[James 05#^5-20|Jas. v. 20]]; [[1 Peter 04#^4-8|1 Pet. iv. 8]].
 
 221
 
-Comp. 1 Cor. xiii. 4, etc.
+Comp. [[1 Corinthians 13#^13-4|1 Cor. xiii. 4]], etc.
 
 222
 
@@ -992,7 +992,7 @@ Who then among you is noble-minded? who compassionate? who full of love? Let him
 
 To bring forward some examples from among the heathen: Many kings and princes, in times of pestilence, when they had been instructed by an oracle, have given themselves up to death, in order that by their own blood they might deliver their fellow-citizens \[from destruction\]. Many have gone forth from their own cities, that so sedition might be brought to an end within them. We know many among ourselves who have given themselves up to bonds, in order that they might ransom others. Many, too, have surrendered themselves to slavery, that with the price<sup>244</sup> which they received for themselves, they might provide food for others. Many women also, being strengthened by the grace of God, have performed numerous manly exploits. The blessed Judith, when her city was besieged, asked of the elders permission to go forth into the camp of the strangers; and, exposing herself to danger, she went out for the love which she bare to her country and people then besieged; and the Lord delivered Holofernes into the hands of a woman.<sup>245</sup> Esther also, being perfect in faith, exposed herself to no less danger, in order to deliver the twelve tribes of Israel from impending destruction. For with fasting and humiliation she entreated the everlasting God, who seeth all things; and He, perceiving the humility of her spirit, delivered the people for whose sake she had encountered peril.<sup>246</sup>.
 
-20 Literally, “the multitude.” \[Clement here puts words into the mouth of the Corinthian presbyters. It has been strangely 241 quoted to strengthen a conjecture that he had humbly preferred Linus and Cletus when first called to preside.\] Or, “receive.” 242 Ps. xxiv. 1; 1 Cor. x. 26, 28. 243 Literally, “and having received their prices, fed others.” \[Comp. Rom. xvi. 3, 4, and Phil. ii. 30.\] 244 Judith viii. 30. 245 Esth. vii., viii.
+20 Literally, “the multitude.” \[Clement here puts words into the mouth of the Corinthian presbyters. It has been strangely 241 quoted to strengthen a conjecture that he had humbly preferred Linus and Cletus when first called to preside.\] Or, “receive.” 242 Ps. xxiv. 1; [[1 Corinthians 10#^10-26|1 Cor. x. 26]], [[1 Corinthians 10#^10-28|28]]. 243 Literally, “and having received their prices, fed others.” \[Comp. [[Romans 16#^16-3|Rom. xvi. 3]], [[Romans 16#^16-4|4]], and [[Philippians 02#^2-30|Phil. ii. 30]].\] 244 Judith viii. 30. 245 Esth. vii., viii.
 
 *[PDF 80]* ^pg80
 
@@ -1012,7 +1012,7 @@ Ps. cxviii. 18.
 
 249
 
-Prov. iii. 12; Heb. xii. 6.
+Prov. iii. 12; [[Hebrews 12#^12-6|Heb. xii. 6]].
 
 250
 
@@ -1040,7 +1040,7 @@ May God, who seeth all things, and who is the Ruler of all spirits and the Lord 
 
 #### Chapter LIX.—The Corinthians are exhorted speedily to send back word that peace has been restored. The benediction.
 
-21 Literally, “to be found small and esteemed.” 255 Literally, “His hope.” \[It has been conjectured that ἔλπιδος should be ἔπαύλιδος, and the reading, “out of the fold of his 256 people.” See Chevallier.\] Prov. i. 23–31. \[Often cited by this name in primitive writers.\] 257 Junius (Pat. Young), who examined the ms. before it was bound into its present form, stated that a whole leaf was here 258 lost. The next letters that occur are ιπον, which have been supposed to indicate εἶπον or ἔλιπον. Doubtless some passages quoted by the ancients from the Epistle of Clement, and not now found in it, occurred in the portion which has thus been lost. Comp. Tit. ii. 14.
+21 Literally, “to be found small and esteemed.” 255 Literally, “His hope.” \[It has been conjectured that ἔλπιδος should be ἔπαύλιδος, and the reading, “out of the fold of his 256 people.” See Chevallier.\] Prov. i. 23–31. \[Often cited by this name in primitive writers.\] 257 Junius (Pat. Young), who examined the ms. before it was bound into its present form, stated that a whole leaf was here 258 lost. The next letters that occur are ιπον, which have been supposed to indicate εἶπον or ἔλιπον. Doubtless some passages quoted by the ancients from the Epistle of Clement, and not now found in it, occurred in the portion which has thus been lost. Comp. [[Titus 02#^2-14|Tit. ii. 14]].
 
 *[PDF 82]* ^pg82
 
@@ -1056,4 +1056,4 @@ Literally, “From the ages to the ages of ages.”
 
 \[Note St. Clement’s frequent doxologies.\] \[N.B.—The language of Clement concerning the Western progress of St. Paul 262
 
-(cap. v.) is our earliest postscript to his Scripture biography. It is sufficient to refer the reader to the great works of Conybeare and Howson, and of Mr. Lewin, on the *Life and Epistles of St. Paul*. See more especially the valuable note of Lewin (vol. ii. p. 294) which takes notice of the opinion of some learned men, that the great Apostle of the Gentiles preached the Gospel in Britain. The whole subject of St. Paul’s relations with British Christians is treated by Williams, in his *Antiquities of the Cymry*, with learning and in an attractive manner. But the reader will find more ready to his hand, perhaps, the interesting note of Mr. Lewin, on Claudia and Pudens (2 Tim. iv. 21), in his *Life and Epistles of St. Paul*, vol. ii. p. 392. See also Paley’s *Horæ Paulinæ*, p. 40. London, 1820.\]
+(cap. v.) is our earliest postscript to his Scripture biography. It is sufficient to refer the reader to the great works of Conybeare and Howson, and of Mr. Lewin, on the *Life and Epistles of St. Paul*. See more especially the valuable note of Lewin (vol. ii. p. 294) which takes notice of the opinion of some learned men, that the great Apostle of the Gentiles preached the Gospel in Britain. The whole subject of St. Paul’s relations with British Christians is treated by Williams, in his *Antiquities of the Cymry*, with learning and in an attractive manner. But the reader will find more ready to his hand, perhaps, the interesting note of Mr. Lewin, on Claudia and Pudens ([[2 Timothy 04#^4-21|2 Tim. iv. 21]]), in his *Life and Epistles of St. Paul*, vol. ii. p. 392. See also Paley’s *Horæ Paulinæ*, p. 40. London, 1820.\]

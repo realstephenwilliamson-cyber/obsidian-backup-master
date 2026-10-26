@@ -37,7 +37,7 @@ c. vii. 11.
 
 Is, lix, ὅ.
 
-S. James iii. 17.
+S. [[James 03#^3-17|James iii. 17]].
 
 Is. lv. 6,
 
@@ -315,7 +315,7 @@ of promise, at length, accustoming them of necessity to purify themselves before
 
 *[p. 491]* ^pg555
 
-rested the seventh day: wherefore the Lorn blessed the seventh Οπλν. 6. day and hallowed it. a What then (will a man say) did the ordinance of the Sabbath purport? Or why, after the threatening against transgressions was a second and similar Law straightway introduced? ΤῸ this we say, that it was right not only to threaten trangressors that they should undergo dreadful sufferings, nor by fear alone to stablish Israel unto piety (for the service of fear is of a more slavish sort) but to shew of what they will be partakers aud to what end they will come, who are firmly fixed in love to Him. He defines therefore, and gives them as in type the promise of the future good things. or the law hath a shadow of the good things to Heb.x.1. come, as it is written, and its form is shewn to be an exercise preparatory 2 to the truth. For He commands them <sup>2</sup>προγύto rest on the last day of the weck, that is, the sabbath, es and to cease from all work, and give it over, and to practise rest thereon, signifying thereby the rest and enjoyment that should be to the saints at the completion of ages, when they having ended their life in the world, and having cleansed away the sweat of their good works, they who are in Christ shall live the life without toil and free from all weariness, according to that which is spoken concerning them by the mouth of the prophet: for they shall eee forget their former tribulation, and it shall not come into their heart, but everlasting joy shall be upon their head, for Ib. xxxv. upon their head praise, and joy shall take hold on them, sorrow and grief and sighing are fled away. They too imitating the Creator who ceased and all but rested from the toils of creation, will cease from their labours in this life, attaining unto the delight® to be given by Christ at the \* τρυφὴν end of ages. And to this end I think that the appointed rest on the sabbath tends.
+rested the seventh day: wherefore the Lorn blessed the seventh Οπλν. 6. day and hallowed it. a What then (will a man say) did the ordinance of the Sabbath purport? Or why, after the threatening against transgressions was a second and similar Law straightway introduced? ΤῸ this we say, that it was right not only to threaten trangressors that they should undergo dreadful sufferings, nor by fear alone to stablish Israel unto piety (for the service of fear is of a more slavish sort) but to shew of what they will be partakers aud to what end they will come, who are firmly fixed in love to Him. He defines therefore, and gives them as in type the promise of the future good things. or the law hath a shadow of the good things to [[Hebrews 10#^10-1|Heb.x.1]]. come, as it is written, and its form is shewn to be an exercise preparatory 2 to the truth. For He commands them <sup>2</sup>προγύto rest on the last day of the weck, that is, the sabbath, es and to cease from all work, and give it over, and to practise rest thereon, signifying thereby the rest and enjoyment that should be to the saints at the completion of ages, when they having ended their life in the world, and having cleansed away the sweat of their good works, they who are in Christ shall live the life without toil and free from all weariness, according to that which is spoken concerning them by the mouth of the prophet: for they shall eee forget their former tribulation, and it shall not come into their heart, but everlasting joy shall be upon their head, for Ib. xxxv. upon their head praise, and joy shall take hold on them, sorrow and grief and sighing are fled away. They too imitating the Creator who ceased and all but rested from the toils of creation, will cease from their labours in this life, attaining unto the delight® to be given by Christ at the \* τρυφὴν end of ages. And to this end I think that the appointed rest on the sabbath tends.
 
 But note how the Law-giver says negatively, Thou shalt not worship any other gods, but on giving the kindred commandment about the sabbath which follows it, He says, Remember, and why? Because the time for not worshipping other gods was now gone by (for therefore He
 
@@ -579,7 +579,7 @@ day signifies freedom and rest from all wickedness, and cessation from sin, and 
 
 9 ὠδίνειν
 
-S. Matth. xii. 5.
+S. [[Matthew 12#^12-5|Matth. xii. 5]].
 
 1 λίαν ἐπείγεσθαι
 

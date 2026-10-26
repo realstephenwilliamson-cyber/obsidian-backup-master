@@ -11,6 +11,7 @@ second_reading: "James 5:13-20"
 gospel: "Mark 9:38-50"
 first_reading_complementary: "Numbers 11:4-6, 10-16, 24-29"
 psalm_complementary: "Psalm 19:7-14"
+psalm_bcp_complementary: "Psalm 19:7-14"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-21]]"
 cssclasses:

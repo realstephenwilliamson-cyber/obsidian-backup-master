@@ -20,18 +20,13 @@ nyasa: "left nostril (*nāsā*), as ṝ"
 ## Front
 
 - **Glyph:** ◌ॄ
-- **Variation:** —
 - **Example:** पितॄन्
-- **Alpha (as printed on the front):** ७ (the back prints 17)
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** [ trill ṛ for 2 beats ]
-- **Class (as printed):** 3 (cerebral) · long, soft · simple vowel
-- **Note (no printed label):** Abbreviation - used only after a consonant
-- **Grid:** the vowel signs ा ि ी ु ू / े ै ो ौ / ृ ॄ ॢ; in bold: ॄ
-- **Example:** pitṝn (fathers)
+> [!note]- Back
+> - **Pronunciation:** [ trill ṛ for 2 beats ]
+> - **Class:** cerebral · long, soft · simple vowel
+> - ा ि ी ु ू / े ै ो ौ / ृ <u>ॄ</u> ॢ
+> - **Example:** pitṝn (fathers)
 
 ## Register
 

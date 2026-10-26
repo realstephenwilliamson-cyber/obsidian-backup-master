@@ -29,7 +29,7 @@ atha dīkṣāṃ bruve mūḍhajanāśvāsapradāyinīm || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 11 - Chapter Twenty#^pg251|p. 231]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=251>))
 >
-> Now I will talk about the initiation that inspires faith in the ignorant.’
+> Now I will talk about the initiation that inspires faith in the ignorant.
 
 ## Viveka
 

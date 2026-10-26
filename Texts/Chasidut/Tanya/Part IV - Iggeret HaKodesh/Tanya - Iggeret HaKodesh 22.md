@@ -69,28 +69,28 @@ May the good L–rd, who blesses His people with peace,[^81] set among you peace
 [^3]: Par. [[Isaiah 01#^1-18|Isaiah 1:18]].
 [^4]: Par. [[Torah 53 - Ha'Azinu#^32-7|Deuteronomy 32:7]].
 [^5]: See H. V.
-[^6]: Par. [[Daniel 04#^4-6|Daniel 4:6]]; see [[Chullin 59#59a|*Chullin* 59a]].
-[^7]: [[Berakhot 58#58b|*Berachot* 58b]].
+[^6]: Par. [[Daniel 04#^4-6|Daniel 4:6]]; see *Chullin* [[Chullin 59#59a|59a]].
+[^7]: *Berachot* [[Berakhot 58#58b|58b]].
 [^8]: See I Samuel, ch. 9.
-[^9]: Cf. [[Bava Metzia 59#59b|*Bava Metzia* 59b]]; [[Temurah 16#16a|*Temurah* 16a]]; Maimonides, *Hilchot Yesodei HaTorah* 9:1 and Intro. to his Commentary on the Mishnah.
+[^9]: Cf. *Bava Metzia* [[Bava Metzia 59#59b|59b]]; *Temurah* [[Temurah 16#16a|16a]]; Maimonides, *Hilchot Yesodei HaTorah* 9:1 and Intro. to his Commentary on the Mishnah.
 [^10]: [[Ecclesiastes 09#^9-11|Ecclesiastes 9:11]].
-[^11]: [[Berakhot 33#33b|*Berachot* 33b]].
-[^12]: [[Pesachim 54#54b|*Pesachim* 54b]].
+[^11]: *Berachot* [[Berakhot 33#33b|33b]].
+[^12]: *Pesachim* [[Pesachim 54#54b|54b]].
 [^13]: I.e., “how he will profit” and “when the Kingdom of David will return” (see the commentary of *Maharsha*, ad loc.).
 [^14]: [[Isaiah 03#^3-3|Isaiah 3:3]].
 [^15]: *Avot* 6:1.
 [^16]: The scholar of Torah, who studies *lishmah*, “for its own sake,” as a command of G–d, without any ulterior motives. See *Likkutei Amarim*, Part I, end of ch. 5. Above, Epistle 12.
-[^17]: *Midrash Tehillim* 7:3; [[Sanhedrin 26#26b|*Sanhedrin* 26b]]; *Zohar Chadash* [[Zohar 10.03 - Parashat Be-Reshit#^zh-5d|5d]].
-[^18]: [[Chagigah 14#14a|*Chagigah* 14a]].
+[^17]: *Midrash Tehillim* 7:3; *Sanhedrin* [[Sanhedrin 26#26b|26b]]; *Zohar Chadash* [[Zohar 10.03 - Parashat Be-Reshit#^zh-5d|5d]].
+[^18]: *Chagigah* [[Chagigah 14#14a|14a]].
 [^19]: Emended according to H. V.
 [^20]: Counsel.
 [^21]: Mystery.
-[^22]: [[Sanhedrin 87#87a|*Sanhedrin* 87a]].
+[^22]: *Sanhedrin* [[Sanhedrin 87#87a|87a]].
 [^23]: Par. [[Daniel 11#^11-2|Daniel 11:2]].
-[^24]: *Bereishit Rabbah* 55:8; cf. [[Sanhedrin 105#105b|*Sanhedrin* 105b]].
+[^24]: *Bereishit Rabbah* 55:8; cf. *Sanhedrin* [[Sanhedrin 105#105b|105b]].
 [^25]: Par. [[Song of Songs 8#^8-6|Song of Songs 8:6]]. Cf. above, Epistle 1, note 29.
 [^26]: Cf. above, end of Epistle 17. The author does not accuse his followers of seeking physical comfort for its own sake. He views them with compassion and judges their motives to be noble. However, he admonishes them to find a profound lesson in their hardship.
-[^27]: See [[Eruvin 41#41b|*Eruvin* 41b]]; cf. *Zohar Chadash* [[Zohar 12.11 - Zohar al ha-Parashot#^zh-49a|49a]].
+[^27]: See *Eruvin* [[Eruvin 41#41b|41b]]; cf. *Zohar Chadash* [[Zohar 12.11 - Zohar al ha-Parashot#^zh-49a|49a]].
 [^28]: [[Proverbs 03#^3-12|Proverbs 3:12]].
 [^29]: Par. [[Joshua 07#^7-8|Joshua 7:8]].
 [^30]: Par. [[Psalms 011#^11-7|Psalms 11:7]].
@@ -104,7 +104,7 @@ May the good L–rd, who blesses His people with peace,[^81] set among you peace
 [^38]: *Achorayim* (hindersides; as opposed to *panim*, the face, or frontside) denotes the most extraneous aspect, as far removed from *pnimiyut* as possible. Correlative it expresses a lack of willingness. To give in a mode of *achorayim* implies a contemptuous and strictly formal gift; see *Likkutei Amarim*, Part I, ch. 22.
 [^39]: The chastisements of G–d.
 [^40]: Par. [[Joshua 07#^7-8|Joshua 7:8]]. Cf. [[Jeremiah 02#^2-27|Jeremiah 2:27]]; etc.
-[^41]: [[Berakhot 5#5a|*Berachot* 5a]].
+[^41]: *Berachot* [[Berakhot 5#5a|5a]].
 [^42]: See ibid. and *Zohar* [[Zohar 7.08 - Parashat Aharei Mot#^z3-57b|III:57b]].
 [^43]: [[Isaiah 04#^4-4|Isaiah 4:4]].
 [^44]: [[Proverbs 27#^27-19|Proverbs 27:19]]; see above, Epistle 1, note 26.
@@ -117,12 +117,12 @@ May the good L–rd, who blesses His people with peace,[^81] set among you peace
 [^51]: The following is obviously not a continuation of the preceding (cf. above, note 1), but was placed here by the compilers of *Iggeret Hakodesh* as an addendum to 22—“after the first editions had been published (see list of editions)”—as the Lubavitcher Rebbe notes in *Shiurim B’Sefer HaTanya*. The connection, however, is not immediately apparent. Perhaps it lies in the opening passage of the complete version of part (a) (referenced above in note 1), in which Rabbi Schneur Zalman laments that questions on material affairs occupy too much of his time—for this theme also figures in the epistle before us.
 [^52]: Par. [[Psalms 088#^88-18|Psalms 88:18]] and [[Isaiah 62#^62-6|Isaiah 62:6]].
 [^53]: Text corrected according to L. H.
-[^54]: [[Keritot 8#8a|*Keritot* 8a]].
-[^55]: See [[Judges 05#^5-9|Judges 5:9]] and commentaries, ad loc.; [[Taanit 2#2a|*Taanit* 2a]]; *Sifrei*, Deuteronomy, sect. 41.
+[^54]: *Keritot* [[Keritot 8#8a|8a]].
+[^55]: See [[Judges 05#^5-9|Judges 5:9]] and commentaries, ad loc.; *Taanit* [[Taanit 2#2a|2a]]; *Sifrei*, Deuteronomy, sect. 41.
 [^56]: See Nachmanides, end of his comment, on [[Torah 15 - Bo#^13-16|Exodus 13:16]]; cf. *Sefer Chassidim*, sect. 820. *Shulchan Aruch*, *Orach Chaim* 101 and comment., ad loc.
-[^57]: See [[Berakhot 32#32b|*Berachot* 32b]], *Rashi* ad loc. (s.v. *Tzrichin*).
+[^57]: See *Berachot* [[Berakhot 32#32b|32b]], *Rashi* ad loc. (s.v. *Tzrichin*).
 [^58]: [[Psalms 145#^145-19|Psalms 145:19]].
-[^59]: Cf. [[Yoma 24#24a|*Yoma* 24a]].
+[^59]: Cf. *Yoma* [[Yoma 24#24a|24a]].
 [^60]: [[Torah 21 - Ki Tisa#^34-9|Exodus 34:9]]—Stiff-neckedness denotes simple will, will as it is in itself, transcending the faculties of reason; see below, Epistle 29, note 25. Cf. *Likkutei Torah*, *Balak* 67d and 71b.
 [^61]: Jerusalem Talmud, *Makkot* 2:6 (see comment. *Pnei Moshe*, ad loc.); *Pesikta d’R. Kahana* (ed. Buber), 25.—Wisdom demands that sins go paired with appropriate judgment. The possibility of *teshuvah* or simple pardon (thereby avoiding judgment), thus, transcends wisdom, and is due solely to Divine grace.
 [^62]: *Nedarim* 320.
@@ -132,7 +132,7 @@ May the good L–rd, who blesses His people with peace,[^81] set among you peace
 [^66]: *Avot* 4:10.
 [^67]: I.e., any one.
 [^68]: Whereas all of Israel together form a single stature every one complements the other, thereby improving and perfecting him; cf. *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-234a|I:234a]] (also, ibid., [[Zohar 3.03 - Parashat Va-Yishlah#^z1-167b|167b]]); *Kuzari* 3:19; *Tomer Devorah* 1:4.—Cf. also *Avot* 4:1; *Zohar* III:85b.
-[^69]: [[Judges 20#^20-11|Judges 20:11]]; cf. [[Chagigah 26#26a|*Chagigah* 26a]].
+[^69]: [[Judges 20#^20-11|Judges 20:11]]; cf. *Chagigah* [[Chagigah 26#26a|26a]].
 [^70]: Cf. *Mechilta d’R. Shimon bar Yochai* (ed. Epstein-Melamed), on [[Torah 17 - Yitro#^19-6|Exodus 19:6]] (Jerusalem, 1955, p. 139): “as one body, and one soul.”
 [^71]: Ibid. (also, *Mechilta d’R. Yishmael*, ad loc.); *Vayikra Rabbah* 4:6.—See also below, Epistle 31.
 [^72]: [[Proverbs 04#^4-23|Proverbs 4:23]]—On the theme of the innate unity of Israel see also: Jerusalem Talmud, *Nedarim* 4:4 and comment., ad loc.; Arizal, *Likkutei Torah*, on [[Torah 30 - Kedoshim#^19-18|Leviticus 19:18]]; *Likkutei Torah*, *Nitzavim* 44a; *Igrot Kodesh* by the Lubavitcher Rebbe, vol. 2, p. 113 ff.
@@ -141,7 +141,7 @@ May the good L–rd, who blesses His people with peace,[^81] set among you peace
 [^75]: One part (see *Rashi* on [[Torah 12 - Vayechi#^48-22|Genesis 48:22]]), or: one shoulder (see *Targum Yonatan*, ad loc., and *Likkutei Torah*, *Derushim L’Sukkot* 80d), the meaning for both being: with one consent.
 [^76]: [[Zechariah 08#^8-17|Zechariah 8:17]].
 [^77]: Par. [[Psalms 068#^68-3|Psalms 68:3]].
-[^78]: Jerusalem Talmud, *Peah* 1:1; *Midrash Tehillim* 12:2. Also: [[Arakhin 15#15b|*Arachin* 15b]] and Maimonides, *Hilchot Deot* 7:3.
+[^78]: Jerusalem Talmud, *Peah* 1:1; *Midrash Tehillim* 12:2. Also: *Arachin* [[Arakhin 15#15b|15b]] and Maimonides, *Hilchot Deot* 7:3.
 [^79]: So much the worse when in thought.
 [^80]: Cf. *Likkutei Amarim*, Part I, ch. 16; *Torah Or*, *Yitro* 71a; *Likkutei Torah*, *Shelach* 51d ff., *et passim*.
 [^81]: Par. Liturgy, *Amidah* (par. [[Psalms 029#^29-11|Psalms 29:11]]).

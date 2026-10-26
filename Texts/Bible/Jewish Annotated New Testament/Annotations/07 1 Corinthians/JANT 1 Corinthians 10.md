@@ -34,11 +34,11 @@ Text: [[NRSVue 1 Corinthians 10|NRSVue]] · [[1 Corinthians 10|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 10#^10-9|9]]:** *Christ*, in some manuscripts “the Lord,” paraphrasing [[Torah 45 - Vaetchanan#^6-16|Deut 6.16]] (see [[Torah 16 - Beshalach#^17-7|Ex 17.7]]; [[Matthew 04#^4-7|Mt 4.7]]). *Test* (Gk “ekpeirazō”), the limits of Christ’s forgiveness; the same word names the place where the Israelites demanded Moses extract water from the rock (LXX [[LXX Exodus 17#^17-7|Ex 17.7]]; see also LXX [[Psalms 077#^77-19|Ps 77.18]],[[LXX Psalms 77#^77-41|41]],[[LXX Psalms 77#^77-56|56]]; Heb “masah”). *Serpents*, [[Torah 39 - Chukat#^21-6|Num 21.6–7]], where Israel is punished for “speaking against the Lord.” ^10-9
 
-**[[NRSVue 1 Corinthians 10#^10-10|10]]:** *Destroyer*, see 5.5n., likely an angel who slew some Israelites for complaining ([[Torah 36 - Beha'alotcha#^11-1|Num 11.1]] and 16.32,35; see also [[Torah 15 - Bo#^12-23|Ex 12.23]]; [[II Samuel 24#^24-16|2 Sam 24.16]]; [[LXX Wisdom of Solomon 18#^18-25|Wis 18.25]]; *T. Abr.* A 8.12; 16.1–16; *3 Bar.* 4.8; 9.7; *Deut. Rab.* 11.10; *Midr. Tanh.* on [[Torah 09 - Vayeshev#^39-1|Gen 39.1]]; [[Avodah Zarah 20#20b|*b. Avod. Zar.* 20b]]). ^10-10
+**[[NRSVue 1 Corinthians 10#^10-10|10]]:** *Destroyer*, see 5.5n., likely an angel who slew some Israelites for complaining ([[Torah 36 - Beha'alotcha#^11-1|Num 11.1]] and 16.32,35; see also [[Torah 15 - Bo#^12-23|Ex 12.23]]; [[II Samuel 24#^24-16|2 Sam 24.16]]; [[LXX Wisdom of Solomon 18#^18-25|Wis 18.25]]; *T. Abr.* A 8.12; 16.1–16; *3 Bar.* 4.8; 9.7; *Deut. Rab.* 11.10; *Midr. Tanh.* on [[Torah 09 - Vayeshev#^39-1|Gen 39.1]]; *b. Avod. Zar.* [[Avodah Zarah 20#20b|20b]]). ^10-10
 
 **[[NRSVue 1 Corinthians 10#^10-12|12]]:** *Standing*, the posture of the righteous and redeemed. *Fall\[*ing*\]*, the position of the condemned ([[Torah 16 - Beshalach#^14-13|Ex 14.13]]; [[Torah 21 - Ki Tisa#^32-28|32.28]]). ^10-12
 
-**[[NRSVue 1 Corinthians 10#^10-13|13]]:** *Faithful*, see 1.9n. *Beyond your strength*, the motif of testing appears in biblical and rabbinic literature regarding the suffering of the righteous (Gen 22; [[Proverbs 03#^3-12|Prov 3.12]],[[Proverbs 03#^3-19|19]]; *Gen. Rab.* 40.3; [[Berakhot 5#5a|*b. Ber.* 5a]]-b \[Heb “yisurin shel ʾahavah,” “chastisements of love”\]). *Way out*, believers survive *testing* by remaining faithful to God (see [[Zechariah 13#^13-9|Zech 13.9]]). ^10-13
+**[[NRSVue 1 Corinthians 10#^10-13|13]]:** *Faithful*, see 1.9n. *Beyond your strength*, the motif of testing appears in biblical and rabbinic literature regarding the suffering of the righteous (Gen 22; [[Proverbs 03#^3-12|Prov 3.12]],[[Proverbs 03#^3-19|19]]; *Gen. Rab.* 40.3; *b. Ber.* [[Berakhot 5#5a|5a]]-b \[Heb “yisurin shel ʾahavah,” “chastisements of love”\]). *Way out*, believers survive *testing* by remaining faithful to God (see [[Zechariah 13#^13-9|Zech 13.9]]). ^10-13
 
 ### 10.14–22: Idolatry versus fidelity
 
@@ -48,11 +48,11 @@ Text: [[NRSVue 1 Corinthians 10|NRSVue]] · [[1 Corinthians 10|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 10#^10-16|16]]:** *Cup*, wine shared in the Lord’s Supper (see Introduction), representing Christ’s *blood*. *Sharing* (Gk “koinonia”), lit., “fellowship, communion”; see 1.9n. *Bread*, representing *the body of Christ*. See “Baptism and Eucharist,” p. 674. ^10-16
 
-**[[NRSVue 1 Corinthians 10#^10-17|17]]:** *One*, uniting believers with each other and with Christ. Blessing wine and bread was fundamental to Jewish festival meals (see *m. Ber.* 6.1), as reflected in the blessing recited over the cup at the end of a meal, “birkat ha-mazon”, “benediction on nourishment” (Philo, *Cont.* 10 \[79–80\]; Josephus, *J.W*. 2.131; *Jub.* 22.6–9; *m. Ber.* 7.1–5; 8.8; *t. Ber.* 5.7; *y. Ber.* 7.2–3;[[Berakhot 51#51a|*b. Ber*. 51a]]–52a). *Body*, see 12.12–26. ^10-17
+**[[NRSVue 1 Corinthians 10#^10-17|17]]:** *One*, uniting believers with each other and with Christ. Blessing wine and bread was fundamental to Jewish festival meals (see *m. Ber.* 6.1), as reflected in the blessing recited over the cup at the end of a meal, “birkat ha-mazon”, “benediction on nourishment” (Philo, *Cont.* 10 \[79–80\]; Josephus, *J.W*. 2.131; *Jub.* 22.6–9; *m. Ber.* 7.1–5; 8.8; *t. Ber.* 5.7; *y. Ber.* 7.2–3;*b. Ber*. [[Berakhot 51#51a|51a]]–52a). *Body*, see 12.12–26. ^10-17
 
 **[[NRSVue 1 Corinthians 10#^10-18|18]]:** *People of Israel*, lit., “Israel according to the flesh.” *Eat the sacrifices*, communal events like the Passover created fellowship, making Israelites *partners in the altar* (see 1.9n.; [[Torah 25 - Tzav#^7-5|Lev 7.5–8]]; [[Torah 48 - Shoftim#^18-1|Deut 18.1–5]]). ^10-18
 
-**[[NRSVue 1 Corinthians 10#^10-20|20]]:** *Pagans*, not in the Greek. *They sacrifice . . . to God*, see LXX [[LXX Deuteronomy 32#^32-17|Deut 32.17]]. *Demons* (Gk “daimones”), pagan deities, a general, neutral term for spirits or divine powers that later was reserved for malevolent ones. Jewish folk-belief in such powers lasted beyond the Middle Ages ([[Berakhot 6#6a|*b. Ber.* 6a]]; [[Pesachim 109#109b|*b. Pesah.* 109b]]–112a; [[Sukkah 28#28a|*b. Sukk.* 28a]]; *Gen. Rab.* 20; *Eccl. Rab.* 2.6; *Pirqe R. El.* 34; Nachmanides on [[Torah 33 - Bechukotai#^27-7|Lev. 27.7]]; *Zohar* 3.229b; *Shulchan Arukh*, *Orech Chaim*, 4.2; 90.6; 181.2; *Yoreh Deʾah*, 116.5; 179.16,19 ). ^10-20
+**[[NRSVue 1 Corinthians 10#^10-20|20]]:** *Pagans*, not in the Greek. *They sacrifice . . . to God*, see LXX [[LXX Deuteronomy 32#^32-17|Deut 32.17]]. *Demons* (Gk “daimones”), pagan deities, a general, neutral term for spirits or divine powers that later was reserved for malevolent ones. Jewish folk-belief in such powers lasted beyond the Middle Ages (*b. Ber.* [[Berakhot 6#6a|6a]]; *b. Pesah.* [[Pesachim 109#109b|109b]]–112a; *b. Sukk.* [[Sukkah 28#28a|28a]]; *Gen. Rab.* 20; *Eccl. Rab.* 2.6; *Pirqe R. El.* 34; Nachmanides on [[Torah 33 - Bechukotai#^27-7|Lev. 27.7]]; *Zohar* 3.229b; *Shulchan Arukh*, *Orech Chaim*, 4.2; 90.6; 181.2; *Yoreh Deʾah*, 116.5; 179.16,19 ). ^10-20
 
 **[[NRSVue 1 Corinthians 10#^10-21|21]]:** *Lord*, Christ. ^10-21
 
@@ -60,7 +60,7 @@ Text: [[NRSVue 1 Corinthians 10|NRSVue]] · [[1 Corinthians 10|BSB and SBLGNT]] 
 
 ### 10.23–11.1: More dietary concerns
 
-*[[NRSVue 1 Corinthians 10#^10-23|Text]], p. 339* · Paul advocates a position similar to some rabbinic authorities, who consider meat slaughtered by idolatrous apostates permissible ([[Chullin 4#4b|*b. Hul.* 4b]]), or presume that an object found in public is ritually pure ([[Chullin 9#9b|*b. Hul.* 9b]]). ^10-23
+*[[NRSVue 1 Corinthians 10#^10-23|Text]], p. 339* · Paul advocates a position similar to some rabbinic authorities, who consider meat slaughtered by idolatrous apostates permissible (*b. Hul.* [[Chullin 4#4b|4b]]), or presume that an object found in public is ritually pure (*b. Hul.* [[Chullin 9#9b|9b]]). ^10-23
 
 **[[NRSVue 1 Corinthians 10#^10-23|23]]:** See 6.12n. ^10-23-2
 

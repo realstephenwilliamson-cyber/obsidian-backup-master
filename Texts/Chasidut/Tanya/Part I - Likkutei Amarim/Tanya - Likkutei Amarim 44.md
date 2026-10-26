@@ -68,7 +68,7 @@ Besides, this is the whole man and his *raison d’etre*, that one may know the 
 [^10]: *Tikkun* 69, pp. 112a; 114a. Cf. *Iggeret Hakodesh*, end sect. 27.
 [^11]: Cf. *Zohar* [[Zohar 3.216b|III:216b]]; 273a.
 [^12]: Cf. [[Torah 51 - Nitzavim#^30-11|Deuteronomy 30:11]], 14.
-[^13]: [[Kiddushin 40#40a|*Kiddushin* 40a]].
+[^13]: *Kiddushin* [[Kiddushin 40#40a|40a]].
 [^14]: Ch. 39; cf. also ch. 16.
 [^15]: Ch. 31.
 [^16]: End ch. 41, and ch. 31.

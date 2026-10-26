@@ -17,7 +17,7 @@ converted: 2026-10-22
 
 *[p. 499]* ^pg525
 
-eunuehs for the kingdom of heaven's suke, Let not Cnar. 7. the ewnuch say, Behold, I am ὦ dry tree. For thus saith τ Es the Lord wnto the eunuchs that keep My convmandments, ts, 1νὶ, and choose the thinys that please Me, Even unto them >: willl give in Mine house and within My walls a place and aname better thun of sons ond daughters : Iwill give them an everlasting name. And no man ought to imagine, I think, if he be wise, that the honour with which God will requite them will be paid out in bare names and titles to those who, with noble and virtuous aspirations, have wrestled with worldly pleasure, and have mortified their members which are wpon the earth, and regarded Col. iii. 5. only those things which are not displeasing to the Divine law; rather He uses the word name instead of glory, for they who reign with Christ will be enviable and worthy all admiration.
+eunuehs for the kingdom of heaven's suke, Let not Cnar. 7. the ewnuch say, Behold, I am ὦ dry tree. For thus saith τ Es the Lord wnto the eunuchs that keep My convmandments, ts, 1νὶ, and choose the thinys that please Me, Even unto them >: willl give in Mine house and within My walls a place and aname better thun of sons ond daughters : Iwill give them an everlasting name. And no man ought to imagine, I think, if he be wise, that the honour with which God will requite them will be paid out in bare names and titles to those who, with noble and virtuous aspirations, have wrestled with worldly pleasure, and have mortified their members which are wpon the earth, and regarded [[Colossians 03#^3-5|Col. iii. 5]]. only those things which are not displeasing to the Divine law; rather He uses the word name instead of glory, for they who reign with Christ will be enviable and worthy all admiration.
 
 The Saviour therefore plainly declares that He has manifested the Name of God the Father; that is, He has established His glory throughout the whole world. And how? Clearly by the manifestation of Himself, through His exceeding great works. For the Father is gloritied in the Son, as in an Image and Type of His own form, for in the lineaments of that which is modelled, the beauty of the model is always elearly seen. The Only-begotten, then, has manifested Himself, being in His Essence Wisdom and Life, Arehitect and Creator of the universe, superior to death and corruption, holy, blameless, compassionate, sacred, pure. Hereby all men know that He That begat Him is even as He is; for He cannot be different in Nature from His Offspring. He showed Himself, therefore, as in an Image and Type of His own form, in the glory of the Son. Such was indeed the language concerning Him among the men of old time, but now has He manifested Himself to our very sight, and that which we see with our eyes is more convincing than any words.
 
@@ -107,9 +107,9 @@ Hiinself in the last times above the types and figures of the Law, at once our H
 
 But perhaps someone, wishing to controvert what we have said, will exclaim, “Is not what the disciple says quite contrary to the Saviour’s words?” For our Lord Jesus Christ expressly in these words repudiates the necessity of praying to God for the whole world, while the wise John affirmed quite the contrary. For he maintains that the Saviour will be the Advocate and propitiation, not merely for our sins, but also for the sins of the whole world. It is not hard to find the solution to this difficulty, or to say how the disciple may be seen to be in accord with his Master’s saying. For the blessed John, as he was a Jew and of the Jews, that some might not perhaps think that our Lord was merely an Advocate for the Israelites, and not in any sense for the rest of the nations scattered over the whole world, though destined to distinguish themselves by faith on Him and to be shortly called to knowledge of salvation through Christ, is perforce impelled to declare that our Lord will not only be the propitiation for the race of Israel, but also for the whole world; that is, those of every nation and kindred, who shall be ealled through faith to righteousness and sanctification. Our Lord CuHap. 8. ©. xvii. 9- 11,
 
-2Cor.i.2.
+[[2 Corinthians 01#^1-2|2Cor.i.2]].
 
-18\. John ii. 2.
+18\. [[John 02#^2-2|John ii. 2]].
 
 *[p. 508]* ^pg534
 
@@ -174,7 +174,7 @@ And how is it that, when we say this, we do not affirm that the Nature of the Wo
 
 God's Name is inherently Christ's Naive. 518
 
-for when, He says, He bringeth in the Firstboru into Car. 9. the world, He saith, And let all the angels of God a worship Him, as well as also the Holy Seraphim, who Heb. i. 6. stood around and fulfilled the office of servants when He appeared unto the prophet sitting on αι high and Is. vi. 1. lofty throne. Then, so far as His being begotten and proceeding from God the Father is concerned, His Humanity ig not proper to the Son; but it is proper to Him in so far as He is Incarnate Man, and remaineth ever what He was and is, and will be such for evermore, and debaseth Himself to what He was not of old for our sakes.
+for when, He says, He bringeth in the Firstboru into Car. 9. the world, He saith, And let all the angels of God a worship Him, as well as also the Holy Seraphim, who [[Hebrews 01#^1-6|Heb. i. 6]]. stood around and fulfilled the office of servants when He appeared unto the prophet sitting on αι high and Is. vi. 1. lofty throne. Then, so far as His being begotten and proceeding from God the Father is concerned, His Humanity ig not proper to the Son; but it is proper to Him in so far as He is Incarnate Man, and remaineth ever what He was and is, and will be such for evermore, and debaseth Himself to what He was not of old for our sakes.
 
 He saith, then: Holy Futher, keep then in Thy Name which Thow hast given Me; that they may be one, even aus We are. He desires His disciples to be kept by the power and might of the Ineffable Divine Nature, well and suitably attributing the power of saving whoinsoever He will, yea, and with ease, to the true and living God; and thereby, again, He glorifies no other nature than His own, as in the Person of the Father, from Whom He proceeded as God. Therefore He saith, Father, keep them in Thy Name which Thow hast given Me ; that is, the Name of God. He says again, that the Name of God was not given unto Him as though He had not been God by Nature, and were now called from without to the dignity of Godhead. For then would He be created, and possess a spurious and elective glory and an adulterate nature, which it were impious for us to imagine. For thereby He would be mulcted of His inherent character of Sonship. But since, as the inspired writings prophesy, the Word became flesh, Supra that is, man, He says that He received Divine attributes \* = by gift ; for clearly the title and actuality of Divine glory could not naturally attach to man. But consider, and attentively reflect, how He showed Himself the living and inherent Power of God the Father, whereby He doeth all things. For when, addressing His Father, He says, Keep them, He did not indeed suffice for
 
@@ -184,13 +184,13 @@ Vou. IL. Ll
 
 Cxvii.d 1.
 
-Phil. ii. 9.
+[[Philippians 02#^2-9|Phil. ii. 9]].
 
 Acts iv.
 
 92\.
 
-Eph.iv.4.
+[[Ephesians 04#^4-4|Eph.iv.4]].
 
 them alone, but suitably brought in Himself as working for their preservation and being for that purpose also the power and instrument of His Father; for He says: Keep them in Thy Name which Thow hast given Me. Note how guarded the saying is. For allotting and attributing as suitable only to the Nature of God providential care over us, He deelares at once that to Himself has been given the glory of Godhead, because of the form of manhood, saying that what was His by natural right was given to Him ; that is, the Vane which is above every name. Therefore also we say that this Name belongs to the Son by nature, as proeeeding from the Father; but, so far as He is Man, those things are His by gift which He reecives as Man, using herein the form of speech applicable to ourselves; for man is not God by nature, but Christ is God by nature, even though He be coneeived of as Human because He was
 
@@ -268,7 +268,7 @@ My joy fulfilled in themselves.
 
 Keep in mind once more what we were just now saying, and you will easily understand the drift of the passage. For He on all occasions preserved the juxtaposition of the two aspects of His character, at the same time displaying the Divine majesty for which He was pre-eminent, and not discarding the proper limitations of the Human Nature which He assumed at His Incarnation. For there would be something absurd in the supposition that He wished to disown what He had willingly taken upon Himself. For being Himself in lack of nothing, but the all-perfect Son of a perfect Father, He emptied Himself of His glory, not to do Himself any service, but rather to convey to us the blessing which would result from His humiliation. Showing Himself, then, to them as at the same time both God and Man, He, as it were, induces His disciples to reflect that absent, as well as present, He would work the things which made for their salvation in God; and that, as He had them in His keeping while He was yet with them on the earth in the form of Man, so also would He keep them while absent from them as God, through the excellency of His Substance. For that which is Divine is not bounded by space, and is not far from anything that exists, but fills and pervades the universe, and though present in all things is contained of none. When, addressing His own Father, He says: Holy Futher, keep them, He at once refers, by right of its existence, to the universal working of the power of the Father; and at the same time shows that He standeth not apart from His Nature, but, being in it and proceeding from it, is indivisibly united with it, though He be conceived of as independently existing. CHAP, 9. ce. xvii.13,
 
-Phil. ii. 7.
+[[Philippians 02#^2-7|Phil. ii. 7]].
 
 Supra ver. 11,
 
@@ -367,7 +367,7 @@ VOL. II. Mm
 
 Supra i Gh
 
-S. Luke xxii. 31, he would not have attacked them with temptation, nor have armed himself against his own children, for he would have in them the likeness of his own inherent wickedness. But since they, following after Me, laugh to scorn the deceitfulness of this world, and are out of the world, and, moreover, in their conduct show most clearly the impress of My incomparable holiness, and on that account have Satan, who is ever murmuring against the Saints, for their bitter foe, ever lying in wait for them ; therefore of necessity I desire them to be in Thy safe keeping. And to be in Thy safe keeping is not to be far from Thy truth, that is, from Me. For I am by Nature Thy truth, O Father, the Essential, True, and
+S. [[Luke 22#^22-31|Luke xxii. 31]], he would not have attacked them with temptation, nor have armed himself against his own children, for he would have in them the likeness of his own inherent wickedness. But since they, following after Me, laugh to scorn the deceitfulness of this world, and are out of the world, and, moreover, in their conduct show most clearly the impress of My incomparable holiness, and on that account have Satan, who is ever murmuring against the Saints, for their bitter foe, ever lying in wait for them ; therefore of necessity I desire them to be in Thy safe keeping. And to be in Thy safe keeping is not to be far from Thy truth, that is, from Me. For I am by Nature Thy truth, O Father, the Essential, True, and
 
 Living Word.
 
@@ -383,9 +383,9 @@ The blessed Peter, moreover, when he confessed that the Lord was in truth the So
 
 We must also remark that He very appropriately here calls the Father holy, almost, as it were, reminding Him that, as He is holy, He takes pleasure in those that are holy. And all men are holy, whosoever are seen to he Mm 2 CuHap. 9. c.xvii.16, ie
 
-S. Matt. xvi. 17.
+S. [[Matthew 16#^16-17|Matt. xvi. 17]].
 
-1 Tim. i. 19, 20.
+[[1 Timothy 01#^1-19|1 Tim. i. 19]], [[1 Timothy 01#^1-20|20]].
 
 *[p. 532]* ^pg558
 
@@ -401,13 +401,13 @@ from Himself; and that the sanctification through the Spirit is not alien to His
 
 18 As Thou didst send Me into the world, even so sent I them Cuar. 10. 19 into the world. And for their sakes 7 sanctify Myself, that ables 18, they themselves also may be sanctified in truth.
 
-After giving the Father here especially the name of Holy, and praying that the disciples might be kept in the truth, that is, in His Spirit (for the Spirit is the truth, ue John as John says, as He is also the Spirit of truth, that is, of { Sups Ν the Only-begotten Himself), He declares that He sent xvi. 13. them into the world after the fashion of His own mission ; for Jesus is the Apostle and High Priest of owr confession, Heb.iii.1. as Paul says, in the appropriate character of His Manhood, and by the way of His humiliation. He says, then, that the disciples, after having been once for all thereto prepared, stand wholly in need of sanctification by the Holy Father, Who implanteth in them the Holy Spirit through the Son. For in truth the disciples of the Saviour would never have become so illustrious as to be the torchbearers of the whole world, nor would they have withstood the brunt of the temptations of their enemies, nor the terrible assaults of the devil, had they not had their minds fortified by communion with the Spirit; and had they not been continually thereby enabled to accomplish a bidding unheard of before and passing mere human power; and had they not been ever led by the light of the Spirit, without effort, to a perfect knowledge of the inspired writings and the holy
+After giving the Father here especially the name of Holy, and praying that the disciples might be kept in the truth, that is, in His Spirit (for the Spirit is the truth, ue John as John says, as He is also the Spirit of truth, that is, of { Sups Ν the Only-begotten Himself), He declares that He sent xvi. 13. them into the world after the fashion of His own mission ; for Jesus is the Apostle and High Priest of owr confession, [[Hebrews 03#^3-1|Heb.iii.1]]. as Paul says, in the appropriate character of His Manhood, and by the way of His humiliation. He says, then, that the disciples, after having been once for all thereto prepared, stand wholly in need of sanctification by the Holy Father, Who implanteth in them the Holy Spirit through the Son. For in truth the disciples of the Saviour would never have become so illustrious as to be the torchbearers of the whole world, nor would they have withstood the brunt of the temptations of their enemies, nor the terrible assaults of the devil, had they not had their minds fortified by communion with the Spirit; and had they not been continually thereby enabled to accomplish a bidding unheard of before and passing mere human power; and had they not been ever led by the light of the Spirit, without effort, to a perfect knowledge of the inspired writings and the holy
 
 *[p. 534]* ^pg560
 
 ¢.xvil.18, 19.
 
-Acts i. 4.
+[[Acts 01#^1-4|Acts i. 4]].
 
 Ibid.
 
@@ -437,7 +437,7 @@ Book 11. of Paul: Por whom He foreknew, He also fore-orduined ao” to be confor
 
 ing of worship in the Spirit.
 
-And if we may sum up in brief the whole matter, Christ called down upon us the ancient gift of humanity, that is, sanctification through the Spirit and communion with the Divine Nature, His disciples being the first ἃ Tim. ii. to receive it; for the saying is true, that the husbandman es that laboureth must be the first to partake of the fruits. Col.i.18, But that He might herein also indeed have the preeminence (for it was meet that He, being, as it were, one of many brethren, and still Man even as we are men, should, through being in our likeness, be seen to be and in fact be the Beginning, and the Gate, and the Way, of every good thing for us), He is impelled to add what follows, namely, the words: For their sakes
+And if we may sum up in brief the whole matter, Christ called down upon us the ancient gift of humanity, that is, sanctification through the Spirit and communion with the Divine Nature, His disciples being the first ἃ Tim. ii. to receive it; for the saying is true, that the husbandman es that laboureth must be the first to partake of the fruits. [[Colossians 01#^1-18|Col.i.18]], But that He might herein also indeed have the preeminence (for it was meet that He, being, as it were, one of many brethren, and still Man even as we are men, should, through being in our likeness, be seen to be and in fact be the Beginning, and the Gate, and the Way, of every good thing for us), He is impelled to add what follows, namely, the words: For their sakes
 
 1 sanctify Myself.
 
@@ -453,7 +453,7 @@ Since, then, this is what sanctification is, so far as the custom of offering an
 
 e.xvii.18, 19.
 
-Gal. iv. 6.
+[[Galatians 04#^4-6|Gal. iv. 6]].
 
 Rom. iv.
 
@@ -497,7 +497,7 @@ ii. 9.
 
 Supra i. 32.
 
-5\. Luke i. 35.
+5\. [[Luke 01#^1-35|Luke i. 35]].
 
 Ps. χ\]ν. 7.
 
@@ -523,7 +523,7 @@ c.xvii,20, 21.
 
 Supra lii, 13.
 
-Col. i. 18.
+[[Colossians 01#^1-18|Col. i. 18]].
 
 CHAPTER ΧΙ.
 

@@ -80,7 +80,7 @@ When is such a sacrifice brought because of a doubt? When there is an unresolved
 [^5]: As stated in *Hilchot Issurei Mizbeiach* 3:2, young doves are acceptable as offerings only when they are still underdeveloped, before they begin to sprout yellow feathers and turtle-doves are acceptable only after they pass this stage of development.
 [^6]: I.e., not merely blinded, but having lost the eye.
 [^7]: And thus was disqualified as a sacrifice, as other doves which have lost a limb or organ (*Hilchot Issurei Mizbeiach* 3:1.
-[^8]: Our translation is based on Rashi, [[Zevachim 68#68b|*Zevachim* 68b]]. In his Commentary to the Mishnah (*Zevachim* 7:5), the Rambam defines the term as meaning disqualification due to the intent of the priest, a factor which disqualifies him from performing service, or because of the place the offering was slaughtered.
+[^8]: Our translation is based on Rashi, *Zevachim* [[Zevachim 68#68b|68b]]. In his Commentary to the Mishnah (*Zevachim* 7:5), the Rambam defines the term as meaning disqualification due to the intent of the priest, a factor which disqualifies him from performing service, or because of the place the offering was slaughtered.
 [^9]: A dove which is *tereifah* is not acceptable as a sacrifice (*Hilchot Issurei Mizbeiach* 3:1).
 [^10]: *Melikah* may only performed with the priest's hands.
 [^11]: See *Hilchot Sha'ar Avot HaTuma'ah* 3:12.
@@ -106,7 +106,7 @@ When is such a sacrifice brought because of a doubt? When there is an unresolved
 [^28]: As stated in *ibid.*:12, when sacrificial meat becomes impure, it is forbidden to partake of it.
 [^29]: As explained in Chapter 18, Halachot 9-10, when sacrificial meat is left beyond the time when it should be eaten, it is called *notar* and it is forbidden to partake of it.
 [^30]: As stated in *Hilchot Sha'ar Avot HaTuma'ah* 3:1, a person and his garments do not become impure from eating a *nevelah* of a kosher fowl until he swallows it. While it is in his mouth, he and his garments are pure.
-[^31]: Our translation is based on Rashi, [[Zevachim 68#68b|*Zevachim* 68b]]. In his Commentary to the Mishnah (*Zevachim* 7:5), the Rambam defines the term as meaning disqualification due to the intent of the priest, a factor which disqualifies him from performing service, or because of the place the offering was slaughtered.
+[^31]: Our translation is based on Rashi, *Zevachim* [[Zevachim 68#68b|68b]]. In his Commentary to the Mishnah (*Zevachim* 7:5), the Rambam defines the term as meaning disqualification due to the intent of the priest, a factor which disqualifies him from performing service, or because of the place the offering was slaughtered.
 [^32]: The sacrifices may not be eaten, for if the women were not obligated to bring them, the doves are considered as ordinary animals slaughtered in the Temple Courtyard which are forbidden to be eaten (see *Hilchot Mechusrei Kapparah* 1:6-7).  
     *Hilchot Shegagot* 11:2 explains that the women the Rambam mentions are allowed to bring the sacrifices because of a doubt even though it is forbidden to offer a sin-offering if one is not liable, because their purification process is not completed until the sacrifice is offered. Hence they are granted this leniency to allow them to become ritually pure.
 [^33]: See Chapter 2, Halachah 20; Chapter 19, Halachah 10.
@@ -116,4 +116,4 @@ When is such a sacrifice brought because of a doubt? When there is an unresolved
 [^37]: As would an ordinary sin-offering.
 [^38]: As it would have been originally.
 [^39]: So that no one will benefit from it. None of the remaining rites should be performed, since there is no need to bring the offering.  
-    [[Keritot 26#26b|*Keritot* 26b]] explains that this is a Rabbinic safeguard. According to Scriptural Law, it is permitted to benefit from the dove, as long as its blood was not presented on the altar.
+    *Keritot* [[Keritot 26#26b|26b]] explains that this is a Rabbinic safeguard. According to Scriptural Law, it is permitted to benefit from the dove, as long as its blood was not presented on the altar.

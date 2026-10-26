@@ -249,7 +249,7 @@ He also discusses (it) from the point of view of meditation and repetition of th
 
 15\. (THE SĀDHAKA) CAN UPSET ALL YOUNG WOMEN BY MEDITATING
 
-ON THE GREAT KĀMAKALĀ. <sup>19</sup>
+ON THE GREAT KĀMAKALĀ.[^19-p291]
 [^12-p291]: A semi-divine being. The males are frequently the attendants of Kubera.
 [^14-p291]: Half-human, half-animal beings often in the service of Kubera.
 
@@ -258,7 +258,8 @@ ON THE GREAT KĀMAKALĀ. <sup>19</sup>
 [^15]: Female of a class of celestial beings that occeastonally descend to earth.
 [^16-p291]: A celestial nymph.
 [^17]: The beautiful celestial nymph who became the wife of Purūravas.
-[^18]: I.e., the previous females were of this world; these come from unseen worlds. 19, See Verses 165-67 with commentary which discuss the nature of the Kāmakaątā. It is probable that the sādhaka is meant to meditate on the graphie representation of Kāmakalā (face, breasts ete.), as well as on its mantra form HRIY (or sometimes TM). In each case he should realize the identification with his own body.
+[^18]: I.e., the previous females were of this world; these come from unseen worlds.
+[^19-p291]: See Verses 165-67 with commentary which discuss the nature of the Kāmakaątā. It is probable that the sādhaka is meant to meditate on the graphie representation of Kāmakalā (face, breasts ete.), as well as on its mantra form HRIY (or sometimes TM). In each case he should realize the identification with his own body.
 
 *[p. 292]* ^pg288
 
@@ -1006,12 +1007,13 @@ MIDDLE FINGER ON TOP OF THE RING FINGERS,
 
 6\. THIS IS THE FIRST MUDRA THAT PERTURBS EVERYTHING.[^6]
 
-It means that the little and ring fingers should be in swastika form. The "thumbs" are meant to be in a straight position.”
+It means that the little and ring fingers should be in swastika form. The "thumbs" are meant to be in a straight position.[^7-p309]
 
 [^3]: I.e., turned "upwards".
 [^4]: This posttion has the hands placed side by side.
 [^5]: 5, The swastika postition has the fingers interlocked.
-[^6]: I.e., the Sarvasañṁkgobkakārinṇī mudrā. 7\. Right Little finger interlocks with left ring finger and left Little finger with right ring finger. The middle fingers go on top of the ring fingers. (In the process the ring fingers are obliged to bed, See following Verses 6 and 7.) The index fingers project like staves. The thumbs are straight, but press upon the little fingers.
+[^6]: I.e., the Sarvasañṁkgobkakārinṇī mudrā.
+[^7-p309]: Right Little finger interlocks with left ring finger and left Little finger with right ring finger. The middle fingers go on top of the ring fingers. (In the process the ring fingers are obliged to bed, See following Verses 6 and 7.) The index fingers project like staves. The thumbs are straight, but press upon the little fingers.
 
 *[p. 310]* ^pg306
 
@@ -1080,7 +1082,7 @@ TURNED DOWN INTO THE SHAPE OF A GOAD,
 
 14\. IN THIS (SAME) ORDER ONE SHOULD ALSO DISPOSE THE INDEX FINGERS,
 
-THIS IS THE VIDYĀ'7 CALLED THE GREAT GOAD[^17-p311] WHICH
+THIS IS THE VIDYĀ[^17-p311] CALLED THE GREAT GOAD[^18-p311] WHICH
 
 FULFILLS ALL PURPOSES AND DESIRES.
 
@@ -1089,11 +1091,12 @@ FULFILLS ALL PURPOSES AND DESIRES.
 [^14]: A sexual allusion.
 [^15-p311]: The participle "putting" is ineluded in the directions for all the fingers.
 [^16]: The middle fingers contact the thumbnails in the palms or centre of the hands.
-[^17-p311]: I.e., mudrā. 18\. I.e., the Mahāñkusa mudrā.
+[^17-p311]: I.e., mudrā.
+[^18-p311]: I.e., the Mahāñkusa mudrā.
 
 *[p. 312]* ^pg308
 
-By "down" is meant downward facing, for prior to that it was upward facing due to being straight out. Hence it is said to be in the form of a goad. By "in this (same) order" is meant essentially in the form of a downward facing goad. Thus all the six fingers have a goad shape.19
+By "down" is meant downward facing, for prior to that it was upward facing due to being straight out. Hence it is said to be in the form of a goad. By "in this (same) order" is meant essentially in the form of a downward facing goad. Thus all the six fingers have a goad shape.[^19-p312]
 
 End of commentary on Verse 14.
 
@@ -1105,7 +1108,7 @@ HANDS TURNED ROUND, l
 
 16\. IN THIS WAY JOINING THE LITTLE AND RING FINGERS AND ABOVE
 
-THEM ALL2° THE MIDDLE FINGERS PRESSED UPON BY THE INDEX
+THEM ALL[^20-p312] THE MIDDLE FINGERS PRESSED UPON BY THE INDEX
 
 FINGERS, OH GODDESS,
 
@@ -1119,7 +1122,9 @@ NAMED LIBERATION.[^21-p312]
 
 End of commentary on Verse 17.
 
-[^21-p312]: I.e., the index, ring and little fingers of each hand curve inwards. The middle fingers rest on the thumbnails as in the previous mudrā. 20\. I.e., these pairs of fingers project above all the others. 21\. I.e., the Khechar? mudrā.
+[^19-p312]: I.e., the index, ring and little fingers of each hand curve inwards. The middle fingers rest on the thumbnails as in the previous mudrā.
+[^20-p312]: I.e., these pairs of fingers project above all the others.
+[^21-p312]: I.e., the Khechar? mudrā.
 [^22-p312]: In normal use, the back of the hand faces outwards. In this mudrāã it is the palm of the hand which faces outwards.
 [^23-p312]: I.e., Crossed.
 

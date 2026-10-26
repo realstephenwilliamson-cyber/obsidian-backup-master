@@ -32,7 +32,7 @@ Text: [[NRSVue Matthew 17|NRSVue]] · [[Matthew 17|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 17#^17-10|10]]:** *Scribes*, see 7.28–29n.; 13.52n. *Elijah must come first*, as forerunner, here specifically of the Messiah rather than in the Tanakh as forerunner of the messianic age ([[Malachi 3#^3-22|Mal 4.4–6]] \[HB 3.22–24\]; see 11.4–5n.). ^17-10
 
-**[[NRSVue Matthew 17#^17-12|12–13]]:** *Elijah has already come*, referencing John the Baptist (3.3; [[Luke 01#^1-17|Lk 1.17]]; see also [[John 01#^1-21|Jn 1.21]]). Rabbinic literature varies regarding Elijah’s precise messianic role and duties. See 11.14–15n. In *m. Ed.* 8.7, Elijah, comes to make peace in the world ([[Malachi 3#^3-23|Mal 4.5–6]] \[HB 3.23–24\]); in [[Sanhedrin 98#98a|*b. Sanh.* 98a]], Elijah refers to his earthly return; and [[Eruvin 43#43b|*b. Eruv*. 43b]] states that Elijah will not return on certain festival eves (see *Ex. Rab*. 18.12). ^17-12
+**[[NRSVue Matthew 17#^17-12|12–13]]:** *Elijah has already come*, referencing John the Baptist (3.3; [[Luke 01#^1-17|Lk 1.17]]; see also [[John 01#^1-21|Jn 1.21]]). Rabbinic literature varies regarding Elijah’s precise messianic role and duties. See 11.14–15n. In *m. Ed.* 8.7, Elijah, comes to make peace in the world ([[Malachi 3#^3-23|Mal 4.5–6]] \[HB 3.23–24\]); in *b. Sanh.* [[Sanhedrin 98#98a|98a]], Elijah refers to his earthly return; and *b. Eruv*. [[Eruvin 43#43b|43b]] states that Elijah will not return on certain festival eves (see *Ex. Rab*. 18.12). ^17-12
 
 ### 7.14–21: Jesus heals a “moonstruck” boy
 
@@ -54,7 +54,7 @@ Text: [[NRSVue Matthew 17|NRSVue]] · [[Matthew 17|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 17#^17-24|Text]], p. 43* · See 22.15–22. ^17-24
 
-**[[NRSVue Matthew 17#^17-24|24]]:** *Capernaum*, see 4.13n. *Temple tax*, Jewish males annually paid the half-shekel tax for the Jerusalem Temple ([[Torah 21 - Ki Tisa#^30-11|Ex 30.11–16]]; [[Nehemiah 10#^10-33|Neh 10.33]]). Some Jewish sources state that all males over age 20 (i.e., non-minors) paid the tax (*m. Seqal.* 1.1–3); others indicate it was not compulsory (*m. Seqal*. 1.4; [[Menachot 65#65a|*b. Men.* 65a]]; 4Q159, frag. 1, col. 2, lines 6–7, suggests that the tax only had to be paid once during a lifetime). *Does your teacher not pay*, Jesus’ teachings may have aroused *kind does not come out except by prayer and fasting* e Other ancient authorities read *living* f Gk *didrachma* g Gk *he* h Gk *stater* ; the stater was worth two didrachmas suspicion (12.6). The question would also be pertinent to Jews within Matthew’s community. ^17-24-2
+**[[NRSVue Matthew 17#^17-24|24]]:** *Capernaum*, see 4.13n. *Temple tax*, Jewish males annually paid the half-shekel tax for the Jerusalem Temple ([[Torah 21 - Ki Tisa#^30-11|Ex 30.11–16]]; [[Nehemiah 10#^10-33|Neh 10.33]]). Some Jewish sources state that all males over age 20 (i.e., non-minors) paid the tax (*m. Seqal.* 1.1–3); others indicate it was not compulsory (*m. Seqal*. 1.4; *b. Men.* [[Menachot 65#65a|65a]]; 4Q159, frag. 1, col. 2, lines 6–7, suggests that the tax only had to be paid once during a lifetime). *Does your teacher not pay*, Jesus’ teachings may have aroused *kind does not come out except by prayer and fasting* e Other ancient authorities read *living* f Gk *didrachma* g Gk *he* h Gk *stater* ; the stater was worth two didrachmas suspicion (12.6). The question would also be pertinent to Jews within Matthew’s community. ^17-24-2
 
 **[[NRSVue Matthew 17#^17-26|26]]:** *Children are free*, Jesus and his followers are technically exempt. ^17-26
 

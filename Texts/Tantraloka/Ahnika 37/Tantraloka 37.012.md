@@ -29,7 +29,7 @@ yathā khageśvarībhāvaniḥśaṅkatvādviṣaṃ vrajet || ^iast
 >
 > That which is said in the Veda to be the cause of a fall (into sin), in this doctrine of the left (vāmaśāsana), serves to lead rapidly to accomplishment. This is so because all (the Vedic teaching) of the ṛṣis (ārṣa) is in the very belly of Māyā. (with 37.11cd–12ab)
 >
-> Just as (snake) venom departs (from the body) by (the firm conviction), free of doubt, of being Garuda, in the same way the (fettered) karmic state’ is destroyed (by the firm conviction), free of doubt, that one possesses Bhairava’s nature. (with 37.12cd–13ab)
+> Just as (snake) venom departs (from the body) by (the firm conviction), free of doubt, of being Garuda, in the same way the (fettered) karmic state is destroyed (by the firm conviction), free of doubt, that one possesses Bhairava’s nature. (with 37.12cd–13ab)
 
 ## Viveka
 

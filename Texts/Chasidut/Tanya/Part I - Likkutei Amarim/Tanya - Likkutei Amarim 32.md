@@ -36,12 +36,12 @@ Even with regard to those who are close to him, and whom he has rebuked, yet the
 
 [^1]: [[Torah 30 - Kedoshim#^19-18|Leviticus 19:18]].
 [^2]: *Avot* 5:16.
-[^3]: [[Shabbat 31#31a|*Shabbat* 31a]].
+[^3]: *Shabbat* [[Shabbat 31#31a|31a]].
 [^4]: Ch. 41.
 [^5]: *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-135a|II:135a]].
 [^6]: *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-216b|I:216b]].
 [^7]: Liturgy, *Amidah*.
-[^8]: [[Shevuot 30#30a|*Shevuot* 30a]].
+[^8]: *Shevuot* [[Shevuot 30#30a|30a]].
 [^9]: [[Torah 30 - Kedoshim#^19-17|Leviticus 19:17]].
 [^10]: A play on the word עמיתך: עם-אתך. See *Kitzurim V’Hearot*, p. 36.
 [^11]: By Rabbi Eliezer Azkari (16th century).

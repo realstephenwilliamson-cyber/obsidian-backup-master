@@ -48,7 +48,7 @@ chapter: 67
 [^6]: *Psalms* 15: 4.
 [^7]: Rather than obligate yourself through a promise.
 [^8]: A prayer for the remembrance of the dead recited on the Three Festivals and Yom Kippur.
-[^9]: [[Nedarim 7#7b|*Nedarim* 7b]]-8a.
+[^9]: *Nedarim* [[Nedarim 7#7b|7b]]-8a.
 [^10]: *Psalms* 119: 10b.
 [^11]: The nazirite vow requires the shaving off of all his hair at the end of the *nazir* period.
 [^12]: *Ethics of the Fathers* Chapt. 3, *Mishnah* 17.

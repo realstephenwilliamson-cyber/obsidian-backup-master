@@ -1981,7 +1981,7 @@ This index includes sources that are quoted (rather than merely cited or alluded
 
 ##### *Otsar ha-Kavod*
 
-- on [[Berakhot 9#9b|*Berakhot* 9b]], p. 5b 240
+- on *Berakhot* [[Berakhot 9#9b|9b]], p. 5b 240
 ##### *Sha’ar ha-Razim*
 
 - 75 404, 535–36
@@ -2020,12 +2020,12 @@ This index includes sources that are quoted (rather than merely cited or alluded
 
 - on *TZ* 1:15 345
 - on *TZ* 2:81 76–77
-- on *[[Zohar 11.07 - Matnitin#^zh-2a|ZḤ* 2a]] 569
-- on *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-62a|ZḤ* 62a]] 351
-- on *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-63a|ZḤ* 63a]] 368 [p. 779]
+- on *ZḤ* [[Zohar 11.07 - Matnitin#^zh-2a|2a]] 569
+- on *ZḤ* [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-62a|62a]] 351
+- on *ZḤ* [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-63a|63a]] 368 [p. 779]
 - on *ZḤ* 73C 515
-- on *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-73d|ZḤ* 73d]] 519
-- on *[[Zohar 11.07 - Matnitin#^zh-105a|ZḤ* 105a]] 572
+- on *ZḤ* [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-73d|73d]] 519
+- on *ZḤ* [[Zohar 11.07 - Matnitin#^zh-105a|105a]] 572
 ##### *Pardes Rimmonim*
 
 - 4:7 206
@@ -2058,7 +2058,7 @@ This index includes sources that are quoted (rather than merely cited or alluded
 - 2:5, p. 22 524
 ##### *Peirush Talmidei Rabbeinu Yonah*
 
-- [[Berakhot 33#33a|*Berakhot* 33a]] (Alfasi) 233
+- *Berakhot* [[Berakhot 33#33a|33a]] (Alfasi) 233
 ##### *Sha’arei Teshuvah*
 
 - 3:131 57
@@ -2209,10 +2209,10 @@ This index includes sources that are quoted (rather than merely cited or alluded
 - on Numbers 15:39 272
 - on Numbers 25:3 681
 - on Jeremiah 7:32 629
-- on BT [[Avodah Zarah 7#7b|*Avodah Zarah* 7b]] 277
-- on BT [[Avodah Zarah 27#27b|*Avodah Zarah* 27b]] 306
-- on BT [[Ketubot 10#10b|*Ketubbot* 10b]] 323–24
-- on BT [[Sanhedrin 21#21b|*Sanhedrin* 21b]] 682
+- on BT *Avodah Zarah* [[Avodah Zarah 7#7b|7b]] 277
+- on BT *Avodah Zarah* [[Avodah Zarah 27#27b|27b]] 306
+- on BT *Ketubbot* [[Ketubot 10#10b|10b]] 323–24
+- on BT *Sanhedrin* [[Sanhedrin 21#21b|21b]] 682
 #### Recanati, Menaḥem ben Benjamin
 
 - — 357
@@ -2234,7 +2234,7 @@ This index includes sources that are quoted (rather than merely cited or alluded
 - 69 (110a) 261
 #### *Tosafot*
 
-- on [[Berakhot 3#3a|*Berakhot* 3a]] 459, 656
+- on *Berakhot* [[Berakhot 3#3a|3a]] 459, 656
 #### Vital, Ḥayyim, *Sha’ar ha-Mitsvot*
 
 - 26b 604–5 [p. 781]

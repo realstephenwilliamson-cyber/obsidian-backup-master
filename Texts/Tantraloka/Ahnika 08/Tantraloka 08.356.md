@@ -31,7 +31,7 @@ vāmā jyeṣṭhā ca raudrīti bhuvanatrayaśobhitam || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 05 (Dyczkowski)/Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#^pg363|p. 345]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 05.pdf#page=363>))
 > Dyczkowski numbers this verse 8.356cd–357ab.
 >
-> There are four worlds in this, the principle of Īśvara. (The wise) know that they are called the Enclosure of Form (rāūpāvaraṇa), and consist of virtue (dharma), knowledge (jñāna), detachment (vairāgya)’) and mastery (aiśvarya). According to the most excellent teachers, within the principle of Īśa (above them) is what is called the ‘Subtle Enclosure’ (sūkṣmāvarana), which is adorned with the three worlds of Vāmā, Jyeṣthā and Raudrī. (with 8.355cd–357ab)
+> There are four worlds in this, the principle of Īśvara. (The wise) know that they are called the Enclosure of Form (rūpāvaraṇa), and consist of virtue (dharma), knowledge (jñāna), detachment (vairāgya) and mastery (aiśvarya). According to the most excellent teachers, within the principle of Īśa (above them) is what is called the ‘Subtle Enclosure’ (sūkṣmāvarana), which is adorned with the three worlds of Vāmā, Jyeṣthā and Raudrī. (with 8.355cd–357ab)
 
 ## Viveka
 

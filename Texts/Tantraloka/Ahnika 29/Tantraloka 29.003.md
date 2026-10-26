@@ -27,7 +27,7 @@ na tadvarṣasahasraiḥ syānmantraughairvividhairiti || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#^pg219|p. 202]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=219>))
 >
-> (It is said there that): ‘that which comes about for one who has been appointed to the lineage (and practice) of the Siddhas (siddhakrama)’ in just one month cannot (come about for others) with torrents of Mantras of many kinds in thousands of years.’
+> (It is said there that): ‘that which comes about for one who has been appointed to the lineage (and practice) of the Siddhas (siddhakrama) in just one month cannot (come about for others) with torrents of Mantras of many kinds in thousands of years.’
 
 ## Viveka
 

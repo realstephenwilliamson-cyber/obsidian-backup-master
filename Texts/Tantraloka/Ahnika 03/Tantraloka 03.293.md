@@ -31,7 +31,7 @@ etanmayatvaṃ paramaṃ prāpyaṃ nirvarṇyate śivam || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 02 (Dyczkowski)/Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#^pg426|p. 410]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 02.pdf#page=426>))
 > Dyczkowski numbers this verse 3.293cd–294ab.
 >
-> (AIl forms of) worship, even those in the future, (ultimately develop and) become well established (and fulfilled) (ziṣthitata) here (in the profound) realization that: “the supreme goal, which is such, is Śiva.
+> (AIl forms of) worship, even those in the future, (ultimately develop and) become well established (and fulfilled) (ziṣthitata) here (in the profound) realization that: “the supreme goal, which is such, is Śiva.”
 
 ## Viveka
 

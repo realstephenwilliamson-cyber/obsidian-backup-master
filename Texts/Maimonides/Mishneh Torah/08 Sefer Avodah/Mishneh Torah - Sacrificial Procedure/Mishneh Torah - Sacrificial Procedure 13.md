@@ -124,15 +124,15 @@ If he gathered the flour only with his fingertips[^60] or from the side [of the 
 [^3]: Because half was sacrificed in the morning and half in the afternoon.
 [^4]: See Halachah 4.
 [^5]: See Chapter 2, Halachot 4, 7.
-[^6]: [[Menachot 51#51a|*Menachot* 51a]] explains that since the *chavitin* is cooked on a flat frying pan, it is obvious that oil should be added to it like the other meal offerings cooked on such a frying pan (see Halachah 7). Hence by saying that the *chavitin* is prepared in oil, the verse implies that additional oil is added. The need for three *lugin* is then derived from a textual association of the terms used.
+[^6]: *Menachot* [[Menachot 51#51a|51a]] explains that since the *chavitin* is cooked on a flat frying pan, it is obvious that oil should be added to it like the other meal offerings cooked on such a frying pan (see Halachah 7). Hence by saying that the *chavitin* is prepared in oil, the verse implies that additional oil is added. The need for three *lugin* is then derived from a textual association of the terms used.
 [^7]: In his Commentary to the Mishnah (*Challah* 1:6) the Rambam defines the term *cholait*, the verb translated as "scalded" here as: "pouring boiling water over the flour."
-[^8]: [[Menachot 15#15a|*Menachot* 15a]] derives this point from a comparison to the showbread which also comprised twelve loaves.
+[^8]: *Menachot* [[Menachot 15#15a|15a]] derives this point from a comparison to the showbread which also comprised twelve loaves.
 [^9]: I.e., when the quantity of three *lugim* is divided in twelve (an equal portion for each loaf), we arrive at the figure of a *revi'it* (a fourth of a *log*). There was a measure of this size in the Temple. Hence the oil would be poured into this measure for each loaf to provide it with the desired amount of oil.
 [^10]: Thus there were three phases in the cooking process of these loaves. First, the flour was scalded as mentioned in the previous halachah. Then the loaf was made and then baked. Afterwards [see also the Rambam's Commentary to the Mishnah (*Menachot* 9:3)], the oil was boiled and the loaf fried in it. See also Chapter 9, Halachah 19, which describes all these different stages of the cooking process. The same term, *murbechet*, is use to describe both that offering and the *chavitin* offering.
 [^11]: I.e., he should only bake it slightly (*Kessef Mishneh*). This interpretation is also borne out by Chapter 9, Halachah 19.
 [^12]: Afterwards, it is fried to complete the cooking process (*Kessef Mishneh*).
 [^13]: The Ra'avad differs with the Rambam and maintains that the cakes should not be divided. Thus instead of offering twelve half-cakes as the Rambam maintains, he maintains that six full cakes should be offered in the morning and six in the afternoon.
-[^14]: I.e., although half should be offered in the morning and half in the afternoon, an exact division is not required. The division is made by hand and not with a utensil. The *Kessef Mishneh* supports the Rambam's position, noting that the concept of dividing the cakes by hand and not with a utensil is stated in [[Menachot 87#87b|*Menachot* 87b]].
+[^14]: I.e., although half should be offered in the morning and half in the afternoon, an exact division is not required. The division is made by hand and not with a utensil. The *Kessef Mishneh* supports the Rambam's position, noting that the concept of dividing the cakes by hand and not with a utensil is stated in *Menachot* [[Menachot 87#87b|87b]].
 [^15]: I.e., in the late afternoon.
 [^16]: Further details concerning the bringing of this offering are mentioned in *Hilchot Temidim UMusafim* 3:18-22.
 [^17]: Both an ordinary priest and a High Priest bring a meal-offering prepared in the same way to mark their initiation into office (Chapter 12, Halachah 4).
@@ -146,13 +146,13 @@ If he gathered the flour only with his fingertips[^60] or from the side [of the 
 [^25]: A handful of frankincense for every offering regardless of its size (Chapter 12, Halachah 7).
 [^26]: Care was taken so that they do not leaven (*Kessef Mishneh*).
 [^27]: As required by [[Torah 24 - Vayikra#^2-6|Leviticus 2:6]].
-[^28]: [[Menachot 63#63b|*Menachot* 63b]] notes that [[Torah 25 - Tzav#^7-9|Leviticus 7:9]] states of such an offering being cooked "in a deep frying-pan," while the others are described as being cooked "on a flat frying-pan." Implied is that the deep frying-pan had an edge large enough to contain liquids.
+[^28]: *Menachot* [[Menachot 63#63b|63b]] notes that [[Torah 25 - Tzav#^7-9|Leviticus 7:9]] states of such an offering being cooked "in a deep frying-pan," while the others are described as being cooked "on a flat frying-pan." Implied is that the deep frying-pan had an edge large enough to contain liquids.
 [^29]: And thin like the dough of pancakes [the Rambam's Commentary to the Mishnah (*Menachot* 5:8)].
 [^30]: Oil is not, however, placed in the container before the flour is (*Menachot* 6:3).
 [^31]: I.e., only "mixed with oil." No other oil is used in preparing them.
 [^32]: The Radbaz supports this supposition, explaining that if the wafers were smeared before they were baked, they would not absorb the oil.
 [^33]: I.e., those fried in a deep frying pan and a flat frying-pan or the two types baked in an oven. Excluded is only the flour offering which is presented without being baked or cooked.
-[^34]: [[Menachot 76#76a|*Menachot* 76a]] derives this from a comparison to the thanksgiving offering. See Chapter 9, Halachot 17-18.
+[^34]: *Menachot* [[Menachot 76#76a|76a]] derives this from a comparison to the thanksgiving offering. See Chapter 9, Halachot 17-18.
 [^35]: For even a thanksgiving offering is acceptable if its loaves are less than the required number (*ibid.*:22).
 [^36]: These four types of meal-offerings. Again, a flour offering is excluded.
 [^37]: *Menachot, loc. cit.*, explains the rationale, stating that [[Torah 24 - Vayikra#^2-6|Leviticus 2:6]] mentions "breaking them (i.e., into two) into pieces" (i.e., that the two are divided again).
@@ -170,20 +170,20 @@ If he gathered the flour only with his fingertips[^60] or from the side [of the 
 [^49]: See Halachot 6-10.
 [^50]: I.e., up until this point, the services could have been performed by a non-priest. From this stage onward, they must be performed by a priest. See Chapter 12, Halachah 23.
 [^51]: I.e., he touches the altar's corner with the utensil. He does not have to have the flour itself touch the corner (*Kessef Mishneh*).
-[^52]: So that it will not be mixed with the flour taken in the handful ([[Sotah 14#14b|*Sotah* 14b]]).
+[^52]: So that it will not be mixed with the flour taken in the handful (*Sotah* [[Sotah 14#14b|14b]]).
 [^53]: Although the handful of flour was consecrated together with the other flour, it should be consecrated again now that it has become a separate entity. *Sotah, loc. cit.*, draws a comparison to the blood from a sacrificial animal which is consecrated together with the entire animal at the time of its slaughter and is consecrated again when collected in a sacred utensil.
 [^54]: Although placing the handful of flour in two utensils is unacceptable, it does not disqualify it.
 [^55]: As required by *Hilchot Issurei Mizbeiach* 5:23.
 [^56]: I.e., he should empty the flour from the sacred vessel over the pyre.
 [^57]: We have mentioned flour, because taking a full handful - but only a handful, not more and not less - of flour can be easily pictured. In truth, however, an exact handful must also be taken from those meal offerings that were already baked and that is much harder to picture.
-[^58]: On the basis of [[Menachot 11#11a|*Menachot* 11a]] and [[Yoma 47#47b|*Yoma* 47b]], many commentaries maintain that the handful is taken only with the priest's three middle fingers. The pinky and the thumb are not included. Therefore it is considered as one of the difficult services in the Temple. In his Commentary to the Mishnah (*Menachot* 1:2; see also *Yoma* 1:5), however, the Rambam rejects this understanding and maintains that all of the priest's fingers should be used in taking the handful.
+[^58]: On the basis of *Menachot* [[Menachot 11#11a|11a]] and *Yoma* [[Yoma 47#47b|47b]], many commentaries maintain that the handful is taken only with the priest's three middle fingers. The pinky and the thumb are not included. Therefore it is considered as one of the difficult services in the Temple. In his Commentary to the Mishnah (*Menachot* 1:2; see also *Yoma* 1:5), however, the Rambam rejects this understanding and maintains that all of the priest's fingers should be used in taking the handful.
 [^59]: The Ra'avad (in his gloss to the *Sifra*) states that he should cup his hand and then insert his fingers into the flour until his palm is covered. He then closes his fingers over his palm.
 [^60]: I.e., closing his fingers over themselves and not over the palm of his hand and thus collected only a small amount of flour (Rav Yosef Corcus).
 [^61]: Instead of from the middle (Radbaz). There are also other interpretations to these concepts.
-[^62]: [[Menachot 11#11a|*Menachot* 11a]] and [[Yoma 47#47b|*Yoma* 47b]] question whether these two ways to take a handful are acceptable and does not reach a conclusion. Therefore the Rambam rules that as an initial preference, one should not take a handful in this manner, but if one does so, it is acceptable after the fact.
+[^62]: *Menachot* [[Menachot 11#11a|11a]] and *Yoma* [[Yoma 47#47b|47b]] question whether these two ways to take a handful are acceptable and does not reach a conclusion. Therefore the Rambam rules that as an initial preference, one should not take a handful in this manner, but if one does so, it is acceptable after the fact.
 [^63]: And thus the handful was overflowing.
 [^64]: In modern measure, approximately 28 cc according to *Shiurei Torah*.
-[^65]: For [[Torah 24 - Vayikra#^2-2|Leviticus 2:2]] states that "a full handful" must be offered. Thus if one cannot bring a portion of the handful, it is disqualified and should not be brought at all ([[Menachot 27#27a|*Menachot* 27a]]).
+[^65]: For [[Torah 24 - Vayikra#^2-2|Leviticus 2:2]] states that "a full handful" must be offered. Thus if one cannot bring a portion of the handful, it is disqualified and should not be brought at all (*Menachot* [[Menachot 27#27a|27a]]).
 [^66]: I.e., the offering should not be brought unless both are included.
 [^67]: Both are necessary because [[Torah 24 - Vayikra#^2-2|Leviticus 2:2]] mentions the "full handful of flour" and "all of its frankincense." This emphasis is repeated in [[Torah 25 - Tzav#^6-8|Leviticus 6:8]], indicating that it is an absolute requirement.
 [^68]: I.e., if one does not bring the entire amount, one should not bring the offering at all.

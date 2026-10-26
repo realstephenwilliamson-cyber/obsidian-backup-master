@@ -27,7 +27,7 @@ GOSPEL ACCORDING TO JOHN.
 
 ## Book IX
 
-8\. John xii. 49. Por 1 spake not from Myself; but the Father
+8\. [[John 12#^12-49|John xii. 49]]. Por 1 spake not from Myself; but the Father
 
 Which sent Me, He hath given Me @ commandment, what \[ 50 should say, and what \[ should speak. And I know that His
 
@@ -92,7 +92,7 @@ Heb. ii.
 
 16\.
 
-Phil. ii. 6.
+[[Philippians 02#^2-6|Phil. ii. 6]].
 
 to most men somewhat obscure and not very capable of exact explanation, nor indeed to possess (as any one might suppose) any 'sinple signification. For what can be the reason why the inspired Evangelist at this point notifies to us particularly, and (so to speak) as a necessary sequence of things, that: Before the feast of the passover, knowing that His hour was come that He should depart out of this world unto the Father, Christ acted as He did? And again, what is the meaning of: Having loved His own that were in the world, He loved them unto the end 9 Allowing therefore that the uncertainty involved in this passage is by no means slight, I suppose it to imply something of this sort, namely, that the Saviour, before endumng His suffering for our salvation, although aware (says the Evangelist) that the time of His translation to heaven was now close even at the doors, gave a proof of the absolute perfection of His love for His own that were in this world. And if there is any necessity for conceiving a wider meaning for the passage, I will only repeat once more what I was saying just now. ΤῸ Christ our Saviour peculiarly belong as His own possessions all things made by Him, all intellectual and reasonable creatures, the powers above, and thrones, and principalities, and all things akin to these, in so far as regards the fact of their having been made \[by Him\]; and again, to Him pecuharly belong also the rational beings on earth, inasmuch as He is Lord of all, even though some refuse to adore Him as Creator. He loved therefore His own that were in the world. or not of angels doth He take hold, according to the voice of Paul; nor was it for the sake of the angelic nature, that, being in the form of God the Father, He counted it not a prize to be on an equality with God: but rather for the sake of us who are in the world, He the Lord of all has emptied Himself and assumed the form of a servant, called thereto by His love for us. Having therefore loved His owi which were in this world, He loved them unto the end, although indeed before the feast, even before the passover, He knew that His hour was come that
 
@@ -216,7 +216,7 @@ things that I have done for you, although you have received as your lot the comm
 
 If therefore ye understand these things, He saith—that is, “if ye can clearly perceive the meaning of what I am saying,’ —blessed are ye if ye do them. For it is not the knowledge of virtue, but rather the practice of it, that may well be pronounced worthy of both love and zeal. And I think that perchance it may be even better never at all to have learned, than after so learning to hamper one’s mind with the bonds of indolence, and refuse to carry out in action what one knows to be the best and right course ; according to the saying of the Saviour: He that knew not his lord’s will, and did ἐξ not, shall be beaten with few stripes; but he that knew it, and did it not, shall be beaten with many stripes. For in the case of a man who has sinned in total ignorance, it would not be at all unseemly for him, if perchance he were being visited with correction for his carelessness, to ask for a partial forgiveness: but in the case of one who knew what he was doing, that knowledge would become grievously weighty towards his condemnation. For though nothing was wanting to enable him, yet he disdained to do what was right and seemly. Knowledge therefore must lead to action: for then, clothed with perfect confidence in our citizenship in Christ, we shall receive in due season our most plenteous reward. As an instance of this, the Saviour said that whosoever did and taught \[His commandments\] should be called great in the kingdom of heaven: and that very justly, for what is wanting to such a man to make his goodness perfect? And whensoever a man can show that he can take to himself full credit for good deeds, then surely he will be able to glory in 17,
 
-Cf. S. Luke xii. 47,48.
+Cf. S. [[Luke 12#^12-47|Luke xii. 47]],[[Luke 12#^12-48|48]].
 
 *[p. 186]* ^pg212
 
@@ -263,7 +263,7 @@ In like manner Christ chose Judas and associated him with the holy disciples, sm
 
 6\. xiii. 19,
 
-Gal.ii.17.
+[[Galatians 02#^2-17|Gal.ii.17]].
 
 1900 Fulfilment of prophecy no excuse for sin.
 

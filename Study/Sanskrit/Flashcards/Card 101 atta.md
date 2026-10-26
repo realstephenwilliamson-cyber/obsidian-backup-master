@@ -20,17 +20,10 @@ nyasa: "a: forehead (*lalāṭa*) · ṭa: right hip (*kaṭi*)"
 ## Front
 
 - **Glyph:** अट्ट
-- **Variation:** —
-- **Example:** —
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** —
-- **Gloss:** adj: ‘high’ or ‘loud’
-- **Class (as printed):** —
-- **Grid:** अ alone above the five rows of stops; in bold: अ, ट
-- **Example:** —
+> [!note]- Back
+> - **Gloss:** adj: ‘high’ or ‘loud’
+> - <u>अ</u> / क ख ग घ ङ / च छ ज झ ञ / <u>ट</u> ठ ड ढ ण / त थ द ध न / प फ ब भ म
 
 ## Register
 

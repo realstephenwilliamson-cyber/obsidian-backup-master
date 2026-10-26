@@ -158,7 +158,7 @@ page_range: 717–724
 
 ***Rav Metivta*** “Head of the Academy”; the account of a visionary journey by Rabbi Shim’on and the Companions to the Garden of Eden, where they hear mysteries concerning the “world that is coming” from one of the heads of the heavenly academy. *Zohar* [[Zohar 9.03 - Parashat Shelah Lekha#^z3-161b|3:161b–174a]].
 
-***Raza de-Razin*** “The Secret of Secrets”; a section of the *Zohar* dealing with physiognomy, metoposcopy, and chiromancy (*Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-70a|2:70a–75a]] [printed alongside the main text], *Zohar Ḥadash* 35b–37c). A second version is incorporated into the main body of the *Zohar* (2:70a–78a).
+***Raza de-Razin*** “The Secret of Secrets”; a section of the *Zohar* dealing with physiognomy, metoposcopy, and chiromancy (*Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-70a|2:70a–75a]] [printed alongside the main text], *Zohar Ḥadash* [[Zohar 12.07 - Raza de-Razin#^zh-35b|35b–37c]]). A second version is incorporated into the main body of the *Zohar* (2:70a–78a).
 
 **Rosh Hashanah** The Jewish New Year, celebrated on the first two days of the Hebrew month Tishrei.
 
@@ -186,7 +186,7 @@ page_range: 717–724
 
 ***Shir ha-Shirim*** The book of Song of Songs.
 
-***Sifra di-Tsni’uta*** “The Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah, consisting of five short chapters and composed in obscure sentences. Its subject is the mysterious dynamics of divine being. *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-176b|2:176b–179a]].
+***Sifra di-Tsni’uta*** “The Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah, consisting of five short chapters and composed in obscure sentences. Its subject is the mysterious dynamics of divine being. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b|2:176b–179a]].
 
 ***Sitrei Otiyyot*** “Secrets of the Letters”; a discourse by Rabbi Shim’on focusing on the letters of the divine name *YHVH* and how they symbolize the process of emanation. *Zohar Ḥadash* 1b–7b.
 

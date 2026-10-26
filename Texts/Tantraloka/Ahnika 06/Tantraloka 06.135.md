@@ -31,7 +31,7 @@ devānāṃ yadahorātraṃ mānuṣāṇāṃ sa hāyanaḥ |
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 04 (Dyczkowski)/Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#^pg375|p. 360]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 04.pdf#page=375>))
 > Dyczkowski numbers this verse 6.135cd–136ab.
 >
-> Moreover, the venerable teacher (Sadyojyotiṣ) has said in his commentaries on the venerable Raurava and other (āgamas): ‘One day and night of the gods is a year of men, and one year of the gods is three hundred and sixty human years. (with 6.134cd–135)
+> Moreover, the venerable teacher (Sadyojyotiṣ) has said in his commentaries on the venerable Raurava and other (āgamas): ‘One day and night of the gods is a year of men, and one year of the gods is three hundred and sixty human years.’ (with 6.134cd–135)
 
 ## Viveka
 

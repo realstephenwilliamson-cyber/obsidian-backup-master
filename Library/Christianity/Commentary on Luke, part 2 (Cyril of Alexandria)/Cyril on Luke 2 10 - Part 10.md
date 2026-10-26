@@ -94,7 +94,7 @@ The women having been taught the mystery by the voice of angels, run to tell the
 
 the adorable mystery of the resurrection. The female sex therefore gained both acquittal from their reproach and the reversal of their curse. For He Who of old had said unto them, “In pains shalt thou bear children,” gave them deliver- Gen. iii.16. ance from their misfortune, by having met them in the garden, as another Evangelist mentions, and said, Hail. To the holy Mat.xxviii. apostles however the account of the resurrection seemed abso- \* lutely but an idle tale, and falsehood ; for even they did not know the inspired Scripture, and so they were incredulous, and mocked at the news and rejected it.
 
-How did the disciples in John’s Gospel, having heard Mary, and having run to the sepulchre, believe? For to this also the Scripture bears witness in their behalf, saying, “ When John xx.8. « therefore they entered, the other disciple who came first. to “the sepulchre both saw and believed.” But in Luke it is said, “ And they returned from the sepulchre, and told all “these things unto the eleven and to all the rest,—it was “ Mary Magdalene, and Joanna, and Mary the wifeh of James, « and the rest with them, who told these things to the apostles, « \_and they disbelieved them '.”
+How did the disciples in John’s Gospel, having heard Mary, and having run to the sepulchre, believe? For to this also the Scripture bears witness in their behalf, saying, “ When [[John 20#^20-8|John xx.8]]. « therefore they entered, the other disciple who came first. to “the sepulchre both saw and believed.” But in Luke it is said, “ And they returned from the sepulchre, and told all “these things unto the eleven and to all the rest,—it was “ Mary Magdalene, and Joanna, and Mary the wifeh of James, « and the rest with them, who told these things to the apostles, « \_and they disbelieved them '.”
 
 Behold two of them went that same day to a village. Ver. 13.
 
@@ -102,7 +102,7 @@ As\* two of the disciples walk to a village called Emmaus, they conversed with o
 
 h Or possibly the mother; but if so, she is described in three different ways, 1°. Mapia 7 ‘IaxdSou; 2°, Mapla # "Iwojros, and 3°. Mapia i "laxdBou tod pexpod Kat "Iwojros pimp, in the course of nine verses of S. Mark’s Gospel. That our Lord’s
 
-brethren weremarried, Cf.1 Cor. ix. 5.
+brethren weremarried, Cf.[[1 Corinthians 09#^9-5|1 Cor. ix. 5]].
 
 1 The statement of this discrepancy is to be referred rather to the Catenist than to S. Cyril, as the latter would most probably have given some explanation of it, had he noticed at all a difference which exists in words only, S. Luke’s disbelief being one merely of surprise and astonishment at the startling news brought by the women. It is found only in the small Catena D. k The whole of the remainder is contained in Cramer’s Catena, but with the constant omission of sentences, and given as a string of detached extracts without the author's name. The present passage is also given in the Aurea Catena, but referred simply to “ Grecus,”’ i. e. some Greek commentator.
 

@@ -56,7 +56,7 @@ In this passage, a reading consistent with the kabbalistic commonplace of a disc
 
 In answering this we may be able to come to a further understanding of how it was that Jacob and Esau’s covenants were paired in the earlier passage concerning the covenant of the tongue, where the *sefira Tif F oret* served as nexus for both.<sup>114</sup> The current passage offers much the same paradigm in this regard. Jacob’s twofold nature finds its expression in *Tif \[illegible\]* and so, apparently, does that of Esau. That 
 
-<sup>113</sup> BT. [[Shabbat 119#119b|*Shabbat* 119b]].
+<sup>113</sup> BT. *Shabbat* [[Shabbat 119#119b|119b]].
 
 <sup>114</sup> See above, pp. 266–269.
 
@@ -250,7 +250,7 @@ In view of the statement that such a man is both “first and last,” one theme
 
 162\. *Mafteah \[illegible\]* MS Vatican-BA ebr. 291, fols. 37a–b; printed edition, p. 47.
 
-[^163]: See BT. [[Chagigah 12#12b|*Hagigah* 12b]], [[Yoma 38#38b|*Yoma* 38b]]; *Bahir*, § 102; *Battei Midrashot* 2:3, 4.
+[^163]: See BT. *Hagigah* [[Chagigah 12#12b|12b]], *Yoma* [[Yoma 38#38b|38b]]; *Bahir*, § 102; *Battei Midrashot* 2:3, 4.
 [^164]: In the theosophic kabbalistic tradition, as well as elsewhere in the work of Abulafia and his disciples, the letter *alef* is discussed in terms of its tripartite nature. Wolfson, *Language, Eros, Being*, p. 544 n. 450.
 
 *[p. 308]* ^pg323

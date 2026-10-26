@@ -20,9 +20,9 @@ pray for the remission of their sins, what ought the lambs to do, of whom it is 
 
 7\. And God has brought us into a covenant, and agreement, and a firm bond<sup>2056</sup> with Him, in that we say, “as we also forgive our debtors.” He who would say it effectually, “Forgive us our debts,” must say truly, “as we also forgive our debtors.”<sup>2057</sup> If this which is last he either say not, or say deceitfully, the other which is first he says in vain. We say to you then especially who are approaching to Holy Baptism, from your hearts forgive everything. And ye faithful, who taking advantage of this occasion are listening to this prayer, and our exposition of it, do ye wholly and from your hearts forgive whatsoever ye have against any. Forgive it there where God seeth. For sometimes a man remitteth with the mouth, and in the heart retaineth; he remitteth with the mouth for men’s sake, and retaineth in the heart, as not fearing the eyes of God. But do ye remit entirely. Whatever ye have retained up to these holy days,<sup>2058</sup> in these holy days at least remit. “The sun ought not to go down upon your wrath,”<sup>2059</sup> yet many suns have passed. Let then your wrath at length pass away also, now that we are celebrating the days of the great Sun, of that Sun of which Scripture saith, “Unto you shall the Sun of righteousness arise with healing in His wings.”<sup>2060</sup> What is, “in His wings”? In His protection. Whence it is said in the Psalms, “Keep me under the shadow of Thy wings.”<sup>2061</sup> But as to others who in the day of judgment shall repent, but all too late, and who shall mourn, yet unavailingly, it hath been foretold by Wisdom what they shall then say as they repent and groan for anguish of spirit, “What hath pride profited us, or what good hath riches with our vaunting brought us? All these things are passed away like a shadow.” And, “Therefore have we erred from the way of truth, and the light of righteousness hath not shined unto us, and the Sun of righteousness rose not upon us.”<sup>2062</sup> That Sun riseth upon the righteous only; but this sun which we see, God “maketh,” daily “to rise upon the good and evil.”<sup>2063</sup> The righteous attain to the seeing of
 
-2055 Ps. xxviii. 1, Sept. (xxix. English version). 2056 *Chirographum*. 2057 Matt. vi. 12. 2058 The Feast of Easter, the great season for baptizing. See Bingham, xi. 6, 7. 2059 Eph. iv. 26.
+2055 Ps. xxviii. 1, Sept. (xxix. English version). 2056 *Chirographum*. 2057 [[Matthew 06#^6-12|Matt. vi. 12]]. 2058 The Feast of Easter, the great season for baptizing. See Bingham, xi. 6, 7. 2059 [[Ephesians 04#^4-26|Eph. iv. 26]].
 
-2060 Mal. iv. 2. 2061 Ps. xvii. 8. 2062 Wisd. v. 8, 9, 6. 287 2064 Ps. vi. 8, Sept. (vi. 7, English version). 2065 Ps. iv. 5, Sept. (iv. 4, English version). 2066 Ps. vi. 8, Sept. (vi. 7, English version). 2067 *Vetustatem*. 2068 Matt. vii. 3. 1 John iii. 15.
+2060 Mal. iv. 2. 2061 Ps. xvii. 8. 2062 Wisd. v. 8, 9, 6. 287 2064 Ps. vi. 8, Sept. (vi. 7, English version). 2065 Ps. iv. 5, Sept. (iv. 4, English version). 2066 Ps. vi. 8, Sept. (vi. 7, English version). 2067 *Vetustatem*. 2068 [[Matthew 07#^7-3|Matt. vii. 3]]. [[1 John 03#^3-15|1 John iii. 15]].
 
 
 *[p. 608]* ^pg634
@@ -43,7 +43,7 @@ whom thou hatest. Reform then, and amend thyself. If scorpions or adders were in
 
 10\. May sins then be forgiven; the past forgiven, and the future cease. But without them here below thou canst not live; be they either lesser sins, or small, or trivial. Yet let not even these small and trivial sins be despised. With little drops is the river filled. Let not even the
 
-2070 Matt. vi. 13. 2071 Jas. i. 13, etc. *Concubuisti*.
+2070 [[Matthew 06#^6-13|Matt. vi. 13]]. 2071 [[James 01#^1-13|Jas. i. 13]], etc. *Concubuisti*.
 
 
 *[p. 610]* ^pg636
@@ -56,7 +56,7 @@ lesser sins be despised. Through narrow chinks in the ship the water oozes in,<s
 
 12\. Therefore the three first petitions, “Hallowed be Thy Name, Thy kingdom come, Thy will be done as in heaven, so in earth,” are for eternity. But the four following relate to this life, “Give us this day our daily bread.” Shall we ask day by day for daily bread, when we shall have come to that fulness of blessing? “Forgive us our debts.” Shall we say this in that kingdom, when we shall have no debts? “Lead us not into temptation.” Shall we be able to say this then, when there will be no temptation? “Deliver us from evil.” Shall we say this, when there shall be nothing from which to be delivered? Therefore these four are necessary, because of our daily life, but the three first in reference to the life eternal. But all things let us ask, with a view of attaining to that life, and let us pray here, that we be not separated from it. Every day must this prayer be said by you, when you are baptized. For the Lord’s
 
-2073 *Insudat aqua*. 2074 *Ambulant*. 2075 Isa. lviii. 7, Sept. 2076 Luke vi. 37, 38. 2077 Eph. v. 16. 2078 Ps. xxxiv. 12.
+2073 *Insudat aqua*. 2074 *Ambulant*. 2075 Isa. lviii. 7, Sept. 2076 [[Luke 06#^6-37|Luke vi. 37]], [[Luke 06#^6-38|38]]. 2077 [[Ephesians 05#^5-16|Eph. v. 16]]. 2078 Ps. xxxiv. 12.
 
 
 *[p. 611]* ^pg637
@@ -67,7 +67,7 @@ Prayer is said daily in the Church before the Altar of God, and the faithful hea
 
 13\. Therefore on the Saturday<sup>2080</sup> when by the grace of God you will keep the Vigil, you will have to repeat not the Prayer, but the Creed. For if you do not know the Creed now, you will not hear that every day in the Church, and among the people. But when you have learnt it, that you may not forget it, say it every day when you rise; when you are preparing for sleep, rehearse your Creed, to the Lord rehearse it, remind yourselves of it, and be not weary of repeating it. For repetition is useful, lest forgetfulness steal over you. Do not say, “I said it yesterday, I have said it today, I say it every day, I know it perfectly well.” Call thy faith to mind, look into thyself, let thy Creed be as it were a mirror to thee. Therein see thyself, whether thou dost believe all which thou professest to believe, and so rejoice day by day in thy faith. Let it be thy wealth, let it be in a sort the daily clothing of thy soul. Dost thou not always dress thyself when thou risest? So by the daily repetition of thy Creed dress thy soul, lest haply forgetfulness make it bare, and thou remain naked, and that take place which the Apostle saith, (may it be far from thee!) “If so be that being unclothed,<sup>2081</sup> we shall not be found naked.”<sup>2082</sup> For we shall be clothed by our faith: and this faith is at once a garment and a breastplate; a garment against shame, a breastplate against adversity. But when we shall have arrived at that place where we shall reign, no need will there be to say the Creed. We shall see God; God Himself will be our vision; the vision of God will be the reward of our present faith.
 
-2080 Easter Eve. See Bingham, xxi. 1, 32. 2081 The reading of D. F. G., some mss. ap. Chrys. and Ambr. Ar.Pol. Vet. Lat. Tert. Paulin, Macar, ap. Mill. Auct. quæstt. V. T. St. Augustin’s present text has elsewhere “*induti*” (see Sabat.); but the text of the Fathers is often involuntarily conformed to the Vulgate. 2 Cor. v. 3. 289 2083 Rom. x. 14. 2084 *Sententiarum*. 2085 Ps. xviii. 5, Sept. (xix. 4, English version). 2086 Matt. vi. 9. 2087 Matt. vi. 9.
+2080 Easter Eve. See Bingham, xxi. 1, 32. 2081 The reading of D. F. G., some mss. ap. Chrys. and Ambr. Ar.Pol. Vet. Lat. Tert. Paulin, Macar, ap. Mill. Auct. quæstt. V. T. St. Augustin’s present text has elsewhere “*induti*” (see Sabat.); but the text of the Fathers is often involuntarily conformed to the Vulgate. [[2 Corinthians 05#^5-3|2 Cor. v. 3]]. 289 2083 [[Romans 10#^10-14|Rom. x. 14]]. 2084 *Sententiarum*. 2085 Ps. xviii. 5, Sept. (xix. 4, English version). 2086 [[Matthew 06#^6-9|Matt. vi. 9]]. 2087 [[Matthew 06#^6-9|Matt. vi. 9]].
 
 
 *[p. 612]* ^pg638
@@ -96,9 +96,9 @@ may also come to us; that God may count us also in the number of His saints, to 
 
 6\. “Give us this day our daily bread,”<sup>2090</sup> comes next in the Prayer. Whether we ask here of the Father support<sup>2091</sup> necessary for the body, by “bread” signifying whatever is needful for us; or whether we understand that daily Bread, which ye are soon to receive from the Altar; well it is that we pray that He would give it us. For what is it we pray for, but that we may commit no evil, for which we should be separated from that holy Bread. And the word of God which is preached daily is daily bread. For because it is not bread for the body, it is not on that account not bread for the soul. But when this life shall have passed away, we shall neither seek that bread which hunger seeks; nor shall we have to receive the Sacrament of the Altar, because we shall be there with Christ, whose Body we do now receive; nor will those words which we are now speaking, need to be said to you, nor the sacred volume to be read, when we shall see Him who is Himself the Word of God, by whom all things were made, by whom the Angels are fed, by whom the Angels are enlightened, by whom the Angels become wise; not requiring words of circuitous discourse; but drinking in the Only Word, filled with whom they burst forth<sup>2092</sup> and never fail in praise. For, “Blessed,” saith the Psalm, “are they who dwell in Thy house; they will be always praising Thee.”<sup>2093</sup> 7. Therefore in this present life, do we ask what comes next, “Forgive us our debts, as we also forgive our debtors.”<sup>2094</sup> In Baptism, all debts, that is, all sins, are entirely forgiven us. But because no one can live without sin here below, and if without any great crime which entails separation from the Altar, yet altogether without sins can no one live on this earth, and we can only receive the one Baptism once for all; in this Prayer we hear how we may day by day be washed, that our sins may day by day be forgiven us; but only if we do what
 
-2089 Matt. vi. 10.
+2089 [[Matthew 06#^6-10|Matt. vi. 10]].
 
-2090 Matt. vi. 11. 2091 *Exhibitionem*. 2092 *Ructuant*. 2093 Ps. lxxxiv. 4.
+2090 [[Matthew 06#^6-11|Matt. vi. 11]]. 2091 *Exhibitionem*. 2092 *Ructuant*. 2093 Ps. lxxxiv. 4.
 
 
 *[p. 614]* ^pg640
@@ -115,7 +115,7 @@ follows, “As we also forgive our debtors.” Accordingly, my Brethren, I advis
 
 Sermon X.
 
-\[LX. Ben.\] *On the words of the Gospel, Matt. vi. 19, “Lay not up for yourselves treasures upon earth,”* *etc. An exhortation to alms-deeds.*
+\[LX. Ben.\] *On the words of the Gospel, [[Matthew 06#^6-19|Matt. vi. 19]], “Lay not up for yourselves treasures upon earth,”* *etc. An exhortation to alms-deeds.*
 
 290 1. Every man who is in any trouble, and his own resources fail him, looks out for some prudent person from whom he may take counsel, and so know what to do. Let us suppose then the whole world to be as it were one single man. He seeks to escape evil, yet is slow in doing good; and as in this way tribulations thicken, and his own resources fail, whom can he find more prudent to receive counsel from than Christ? By all means, at least, let him find a better, and do what he will. But if he cannot find a better, let him come to Him whom he may find everywhere: let him consult, and take advice from Him, keep the good commandment, escape the great evil. For present temporal ills of which men are so sore afraid, under which they murmur exceedingly, and by their murmuring offend Him who is correcting them, so that they find not His saving Help;<sup>2096</sup> present ills I say without a doubt are but passing; either they pass through us, or we pass through them; either they pass away whilst we live, or they are left behind us when we die. Now that is not in the matter of tribulation great, which in duration is short. Whosoever thou art that art thinking of to-morrow, thou dost not recall the remembrance of yesterday. When the day after to-morrow comes, this to-morrow also will be yesterday. But now if men are so disquieted with anxiety to escape temporal tribulations which pass, or rather fly over, what thought ought they to take that they may escape those which abide and endure without end?
 
@@ -128,7 +128,7 @@ Sermon X.
 
 *[p. 616]* ^pg642
 
-*On the words of the Gospel, Matt. vi. 19, ‘Lay not up for yourselves treasures…*
+*On the words of the Gospel, [[Matthew 06#^6-19|Matt. vi. 19]], ‘Lay not up for yourselves treasures…*
 
 in the image of truth, and will be disquieted in the counsel of vanity. Finally, see his disquiet, see it, and as it were in a glass, be displeased with thyself. “Though,” he says, “man walk in the image of God,” and therefore be something great, “yet will he be disquieted in vain;” and as though we might ask, How I pray thee, how is man disquieted in vain? “He heapeth up treasure,” saith he, “and knoweth not for whom he doth gather it.” See then, this man, that is the whole human race represented as one man, who is without resource in his own case, and hath lost counsel and wandered out of the way of a sound mind; “Heapeth up treasure, and knoweth not for whom he doth gather it.” What is more mad, what more unhappy? But surely he is doing it for himself? Not so. Why not for himself? Because he must die, because the life of man is short, because the treasure lasts, but he who gathereth it, quickly passeth away. As pitying therefore the man who “walketh in the image of God,” who confesseth things that are true, yet followeth after vain things, he saith, “He will be disquieted in vain.” I grieve for him; “he heapeth up treasure, and knoweth not for whom he doth gather it.” Doth he gather it for himself? No. Because the man dies whilst the treasure endures. For whom then? If thou hast any good counsel, give it to me. But counsel hast thou none to give me, and so thou hast none for thyself. Wherefore if we are both without it, let us both seek it, let us both receive it, and both consider the matter together. He is disquieted, he heapeth up treasure, he thinks, and toils, and is kept awake by anxiety. All day long art thou harassed by labour, all night agitated by fear. That thy coffer may be filled with money, thy soul is in a fever of anxiety.
 
@@ -136,18 +136,18 @@ in the image of truth, and will be disquieted in the counsel of vanity. Finally,
 
 *[p. 617]* ^pg643
 
-*On the words of the Gospel, Matt. vi. 19, ‘Lay not up for yourselves treasures…*
+*On the words of the Gospel, [[Matthew 06#^6-19|Matt. vi. 19]], ‘Lay not up for yourselves treasures…*
 
 myself,” thou sayest. Dost thou dare say so, who must so soon die? “For my children.” Dost thou dare say this of them who must so soon die? It is a great duty of natural affection<sup>2104</sup> (it will be said) for a father to lay up for his sons; rather it is a great vanity, one who must soon die is laying up for those who must soon die also. If it is for thyself, why dost thou gather, seeing thou leavest all when thou diest. This is the case also with thy children; they will succeed thee, but not to abide long. I say nothing about what sort of children they may be, whether haply debauchery may not waste what covetousness hath amassed. So another by dissoluteness <sup>2105</sup> squanders what thou by much toil hast gathered together. But I pass over this. It may be they will be good children, they will not be dissolute, they will keep what thou hast left, will increase what thou hast kept, and will not dissipate what thou hast heaped together. Then will thy children be equally vain with thyself, if they do so, if in this they imitate thee their father. I would say to them what I said just now to thee. I would say to thy son, to him for whom thou art saving I would say, “Thou art heaping up treasure, and knowest not for whom thou dost gather it.” For as thou knewest not, so neither doth he know. If the vanity hath continued in him, hath the truth lost its power with respect to him?
 
 4\. I forbear to urge, that it may be even during thy life thou art but laying up for thieves. In one night may they come and find all ready the gathering of so many days and nights. It may be thou art laying up for a robber, or a highwayman. I will say no more on this, lest I call to mind and re-open the wound of past sufferings. How many things which an empty vanity hath heaped together, hath the cruelty of an enemy found ready to its hand. It is not my place to wish for this: but it is the concern of all to fear it. May God avert it! May His own scourges be sufficient. May He to whom we pray, spare us! But if He ask thee for whom are we laying by, what shall we answer? How then, O man, whosoever thou art, that are heaping up treasure in vain, how wilt thou answer me, as I handle this matter with thee, and with thee seek counsel in a common cause? For thou didst speak and make answer, “I am laying up for myself, for my children, for my posterity.” I have said already how many grounds of fear there are, even as to those children themselves. But I pass over the consideration, that thy children may so live as to be a curse<sup>2106</sup> to thee, and as thine enemy would wish them; grant that they live as the father himself would have them. Yet how many have fallen into those mischances, I have declared, and reminded you of already. Thou didst shudder at them, though thou didst not amend thyself. For what hast thou to answer but this, “Perhaps it may not be so”? Well, I said so too; perhaps I say thou art but laying up for the thief, or robber, or highwayman. I did not say certainly, but perhaps. Where there is a perhaps, there is a perhaps-not; so then thou knowest not what will be, and therefore thou
 
-2104 *Pietas*. 2105 *Fluendo*. *Pœnaliter*. 292 2107 1 Cor. i. 23, 24. 2108 *Argumenta*. 2109 *Ore torto*.
+2104 *Pietas*. 2105 *Fluendo*. *Pœnaliter*. 292 2107 [[1 Corinthians 01#^1-23|1 Cor. i. 23]], [[1 Corinthians 01#^1-24|24]]. 2108 *Argumenta*. 2109 *Ore torto*.
 
 
 *[p. 618]* ^pg644
 
-*On the words of the Gospel, Matt. vi. 19, ‘Lay not up for yourselves treasures…*
+*On the words of the Gospel, [[Matthew 06#^6-19|Matt. vi. 19]], ‘Lay not up for yourselves treasures…*
 
 “art disquieted in vain.” Thou seest now how truly spake the Truth, how vainly vanity is disquieted. Thou hast heard and at length learnt wisdom, because when thou sayest, “Perhaps it is for my children,” but dost not dare to say, “I am sure that it is for my children,” thou dost not in fact know for whom thou art gathering riches. So then, as I see, and have said already, thou art thyself without resource; thou findest nothing wherewith to answer me, nor can I to answer thee.
 
@@ -157,18 +157,18 @@ myself,” thou sayest. Dost thou dare say so, who must so soon die? “For my c
 
 *[p. 619]* ^pg645
 
-*On the words of the Gospel, Matt. vi. 19, ‘Lay not up for yourselves treasures…*
+*On the words of the Gospel, [[Matthew 06#^6-19|Matt. vi. 19]], ‘Lay not up for yourselves treasures…*
 
 have said, our cup of toil, was it said, “Earth thou art, and to earth shalt thou return.”<sup>2111</sup> With good reason is the treasure in earth, because the heart is there. Where then is that, “we lift them up unto the Lord?” Sorrow for your case, ye who have understood me; and if ye sorrow truly, amend yourselves. How long will ye be applauding and not doing? What ye have heard is true, nothing truer. Let that then which is true be done. One God we praise, yet we change not, that we may not in this very praise be disquieted in vain.
 
 7\. Therefore, “Lay not up for yourselves treasures on earth;” whether ye have found by experience how what is laid up in the earth is lost, or whether ye have not so experienced it, yet do ye too fear lest ye should do so. Let experience reform him whom words will not reform. One cannot rise up now, one cannot go out, but all together with one voice are crying, “Woe to us, the world is falling.”<sup>2112</sup> If it be falling, why dost thou not remove? If an architect were to tell thee, that thy house would soon fall, wouldest thou not remove before thou didst indulge in thy vain lamentations? The Builder of the world telleth thee the world will soon fall, and wilt thou not believe it? Hear the voice of Him who foretelleth it, hear the counsel of Him who giveth thee warning. The voice of prediction is, “Heaven and earth shall pass away.”<sup>2113</sup> The voice of warning is, “Lay not up for yourselves treasure on earth.”<sup>2114</sup> If then thou dost believe God in His prediction; if thou despise not His warning, let what He says be done. He who has given thee such counsel doth not deceive thee. Thou shalt not lose what thou hast given away, but shalt follow what thou hast only sent before thee. Therefore my counsel is, “Give to the poor, and thou shalt have treasure in heaven.”<sup>2115</sup> Thou shalt not remain without treasure; but what thou hast on earth with anxiety, thou shalt possess in heaven free from care. Transport thy goods then. I am giving thee counsel for keeping, not for losing. “Thou shalt have,” saith He, “treasure in heaven, and come, follow Me,” that I may bring thee to thy treasure. This is not a wasting, but a saving. Why do men keep silence? Let them hear, and having at last by experience found what to fear, let them do that which will give them no cause of fear, let them transport their goods to heaven. Thou puttest wheat in the low ground;<sup>2116</sup> and thy friend comes, who knows the nature of the corn and the land, and instructs thy unskilfulness, and says to thee, “What hast thou done?” Thou hast put the corn in the flat soil, in the lower land; the soil is moist; it will all rot, and thou wilt lose thy labour. Thou answerest, What then must I do? Remove it, he says, into
 
-2111 Gen. iii. 19, Sept. 2112 From this and the preceding sections it would appear as if this Sermon was written at a time of some great public trouble, probably when the barbarians were ravaging Africa. 2113 Matt. xxiv. 35. 2114 Matt. vi. 19. 2115 Matt. xix. 21. *In terra*.
+2111 Gen. iii. 19, Sept. 2112 From this and the preceding sections it would appear as if this Sermon was written at a time of some great public trouble, probably when the barbarians were ravaging Africa. 2113 [[Matthew 24#^24-35|Matt. xxiv. 35]]. 2114 [[Matthew 06#^6-19|Matt. vi. 19]]. 2115 [[Matthew 19#^19-21|Matt. xix. 21]]. *In terra*.
 
 
 *[p. 620]* ^pg646
 
-*On the words of the Gospel, Matt. vi. 19, ‘Lay not up for yourselves treasures…*
+*On the words of the Gospel, [[Matthew 06#^6-19|Matt. vi. 19]], ‘Lay not up for yourselves treasures…*
 
 the higher ground. Dost thou then give ear to a friend who gives thee counsel about thy corn, and despisest thou God who gives thee counsel about thine heart? Thou fearest to put thy corn in the low earth, and wilt thou lose thy heart in the earth? Behold the Lord thy God when He giveth thee counsel touching thine heart, saith, “Where thy treasure is, there will thy heart be also.”<sup>2117</sup> Lift up, saith He, thine heart to heaven, that it rot not in the earth. It is His counsel, who wisheth to preserve thy heart, not to destroy it.
 
@@ -176,12 +176,12 @@ the higher ground. Dost thou then give ear to a friend who gives thee counsel ab
 
 9\. For this have I at divers times called to your remembrance, Beloved, and I confess to you it astonishes me much in the Scriptures of God, and I ought repeatedly to call your attention to it. I pray you to think of what our Lord Jesus Christ Himself saith, that at the end of the world, when He shall come to judgment, He will gather together all nations before Him, and will divide men into two parts; that He will place some at His right hand, and others on His left; and will say to those on the right hand, “Come, ye blessed of My Father, receive the kingdom prepared for you from the foundation of the world.” But to those on
 
-2117 Matt. vi. 21. 2118 *Vide* Sermon 18. 4, and Sermon 38. 9. 2119 *Laturarii*. Matt. xxv. 34, etc.
+2117 [[Matthew 06#^6-21|Matt. vi. 21]]. 2118 *Vide* Sermon 18. 4, and Sermon 38. 9. 2119 *Laturarii*. [[Matthew 25#^25-34|Matt. xxv. 34]], etc.
 
 
 *[p. 621]* ^pg647
 
-*On the words of the Gospel, Matt. vi. 19, ‘Lay not up for yourselves treasures…*
+*On the words of the Gospel, [[Matthew 06#^6-19|Matt. vi. 19]], ‘Lay not up for yourselves treasures…*
 
 the left, “Depart ye into everlasting fire, prepared for the devil and his angels.” Search out the reasons either for so great a reward, or so great a punishment. “Receive the kingdom,” and “Go into everlasting fire.” Why shall the first receive the kingdom? “For I was an hungred, and ye gave Me meat.” Why shall the other depart into everlasting fire? “For I was hungry, and ye gave Me no meat.” What meaneth this, I ask? I see touching those who are to receive the kingdom, that they gave as good and faithful Christians, not despising the words of the Lord, and with sure trust hoping for the promises they did accordingly; because had they not done so, this very barrenness would not surely have accorded with their good life. For it may be they were chaste, no cheats, nor drunkards, and kept themselves from evil works. Yet if they had not added good works, they would have remained barren. For they would have kept, “Depart from evil,” but they would not have kept, “and do good.”<sup>2121</sup> Notwithstanding, even to them He doth not say, “Come, receive the kingdom,” for ye have lived in chastity; ye have defrauded no man, ye have not oppressed any poor man, ye have invaded no one’s landmark, ye have deceived no one by oath. He said not this, but, “Receive the kingdom, because I was an hungred, and ye gave Me meat.” How excellent is this above all, when the Lord made no mention of the rest, but named this only! And again to the others, “Depart ye into everlasting fire, prepared for the devil and his angels. How many things could He urge against the ungodly, were they to ask, “Why are we going into everlasting fire!” Why? Do ye ask, ye adulterers, menslayers, cheats, sacrilegious blasphemers, unbelievers. Yet none of these did He name, but, “Because I was hungry, and ye gave Me no meat.”
 
@@ -192,7 +192,7 @@ the left, “Depart ye into everlasting fire, prepared for the devil and his ang
 
 *[p. 622]* ^pg648
 
-*On the words of the Gospel, Matt. vi. 19, ‘Lay not up for yourselves treasures…*
+*On the words of the Gospel, [[Matthew 06#^6-19|Matt. vi. 19]], ‘Lay not up for yourselves treasures…*
 
 angels.” They too, guilty as they are, old in their sins, late in their fear for them, in what respect, when they turn their sins over in their mind, could they dare to say that they are undeservedly condemned, that this sentence is pronounced against them undeservedly by so righteous a Judge? In considering their consciences, and all the wounds of their souls, in what respect could they dare to say, We are unjustly condemned. Of whom it was said before in Wisdom, “Their own iniquities shall convince them to their face.”<sup>2125</sup> Without doubt they will see that they are justly condemned for their sins and wickednesses; yet it will be as though He said to them, “It is not in consequence of this that ye think, but ‘because I was hungry, and ye gave Me no meat.’” For if turning away from all these your deeds, and turning to Me, ye had redeemed all those crimes and sins by alms, those alms would now deliver you, and absolve you from the guilt of so great offences; for, “Blessed are the merciful, 294
 
@@ -200,16 +200,16 @@ for to them shall be shown mercy.”<sup>2126</sup> But now go away into everlas
 
 11\. O that I may have induced you, my brethren, to give away your earthly bread, and to knock for the heavenly! The Lord is that Bread. He saith, “I am the Bread of life.”<sup>2128</sup> But how shall He give to thee, who givest not to him that is in need? One is in need before thee, and thou art in need before Another, and since thou art in need before Another, and another is in need before thee, that other is in need before him who is in need himself. For He before whom thou art in need, needeth nothing. Do then to others as thou wouldest have done to thee. For it is not in this case as with those friends who are wont to upbraid in a way one another with their kindnesses; as, “I did this for thee,” and the other answers, “and I this for thee,” that He wishes us to do Him some good office, because He has first done such an office for us. He is in want of nothing, and therefore is He the very Lord. I said unto the Lord, “Thou art my God, for Thou needest not my goods.”<sup>2129</sup> Notwithstanding though He be the Lord, and the Very Lord, and needeth not our goods, yet that we might do something even for Him, hath He vouchsafed to be hungry in His poor. “I was hungry,” saith He, “and ye gave Me meat. Lord, when saw we Thee hungry? Forasmuch as ye did it to one of the least of Mine, ye did it to Me.”<sup>2130</sup> To be brief then, let men hear, and consider as they ought, how great a merit it is to have fed Christ when He hungereth, and how great a crime it is to have despised Christ when He hungereth.
 
-2125 Wisd. iv. 20. 2126 Matt. v. 7. 2127 Jas. ii. 13. 2128 John vi. 35. 2129 Ps. xv. 2, Sept. (xvi. 2, English version). Matt. xxv. 35, etc.
+2125 Wisd. iv. 20. 2126 [[Matthew 05#^5-7|Matt. v. 7]]. 2127 [[James 02#^2-13|Jas. ii. 13]]. 2128 [[John 06#^6-35|John vi. 35]]. 2129 Ps. xv. 2, Sept. (xvi. 2, English version). [[Matthew 25#^25-35|Matt. xxv. 35]], etc.
 
 
 *[p. 623]* ^pg649
 
-*On the words of the Gospel, Matt. vi. 19, ‘Lay not up for yourselves treasures…*
+*On the words of the Gospel, [[Matthew 06#^6-19|Matt. vi. 19]], ‘Lay not up for yourselves treasures…*
 
 12\. Repentance for sins changes men, it is true, for the better; but it does not appear as if even it would profit ought, if it should be barren of works of mercy. This the Truth testifieth by the mouth of John, who said to them that came to him, “O generation of vipers, who hath warned you to flee from the wrath to come? Bring forth therefore fruits worthy of repentance; And say not we have Abraham to our father; for I say unto you, that God is able of these stones to raise up children unto Abraham. For now is the axe laid unto the root of the trees. Every tree therefore that bringeth not forth good fruit shall be cut down, and cast into the fire.”<sup>2131</sup> Touching this fruit he said above, “Bring forth fruits worthy of repentance.” Whoso then bringeth not forth these fruits, hath no cause to think that he shall attain<sup>2132</sup> pardon for his sins by a barren repentance. Now what these fruits are, he showeth afterwards himself. For after these his words the multitude asked him, saying, “What shall we do then?” That is, what are these fruits, which thou exhortest us with such alarming force to bring forth? “But he answering said unto them, he that hath two coats, let him give to him that hath none; and he that hath meat, let him do likewise.” My brethren, what is more plain, what more certain, or express than this? What other meaning then can that have which he said above, “Every tree that bringeth not forth good fruit, shall be cut down, and cast into the fire;” but that same which they on the left shall hear, “Go ye into everlasting fire, for I was hungry, and ye gave Me no meat.” So then it is but a small matter to depart from sins, if thou shalt neglect to cure what is past, as it is written, “Son, thou hast sinned, do so no more.” And that he might not think to be secure by this only, he saith, “And for thy former sins pray that they may be forgiven thee.”<sup>2133</sup> But what will it profit thee to pray for forgiveness, if thou shalt not make thyself meet to be heard, by not bringing forth fruits meet for repentance, that thou shouldest be cut down as a barren tree, and be cast into the fire? If then ye will be heard when ye pray for pardon of your sins, “Forgive, and it shall be forgiven you; Give, and it shall be given you.”<sup>2134</sup>
 
-2131 Luke iii. 7, etc. 2132 *Mereri*. 2133 Ecclus. xxi. 1.
+2131 [[Luke 03#^3-7|Luke iii. 7]], etc. 2132 *Mereri*. 2133 Ecclus. xxi. 1.
 
 
 *[p. 624]* ^pg650
@@ -218,20 +218,20 @@ for to them shall be shown mercy.”<sup>2126</sup> But now go away into everlas
 
 Sermon XI.
 
-\[LXI. Ben.\] *On the words of the Gospel, Matt. vii. 7, “Ask, and it shall be given you;” etc. An exhortation to alms-deeds.*
+\[LXI. Ben.\] *On the words of the Gospel, [[Matthew 07#^7-7|Matt. vii. 7]], “Ask, and it shall be given you;” etc. An exhortation to alms-deeds.*
 
 1\. In the lesson of the Holy Gospel the Lord hath exhorted us to prayer. “Ask,” saith He, “and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you. For every one that asketh receiveth, and he that seeketh findeth, and to him that knocketh it shall be opened. Or what man is there of you, whom if his son ask bread, will he give him a stone? Or if he ask a fish, will he give him a serpent? <sup>2135</sup> Or if he ask an egg, will he offer him a scorpion?<sup>2136</sup> If ye then,” saith He, “though ye be evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask Him?<sup>2137</sup> Though ye be evil,” He saith, “ye know how to give good gifts unto your children.” A marvellous thing, Brethren! we are evil: yet have we a good Father. What is more evident? We have heard our proper name: “Though ye be evil, ye know how to give good gifts unto your children.” And now see what kind of Father He showeth them, whom he called evil. “How much more shall your Father?” Father of whom? 295 undoubtedly of the evil. And what kind of Father? “None is good but God only.”<sup>2138</sup>
 
 2\. For this cause have we who are evil a good Father, that we may not always continue evil. No evil man can make another man good. If no evil man can make another good, how can an evil man make himself good? He only can make of an evil man a good man, who is good eternally. “Heal me, and I shall be healed; save me, and I shall be saved.”<sup>2139</sup> Why then do those vain ones<sup>2140</sup> say to me in words vain as themselves, “Thou canst save thyself if thou wilt”? “Heal me, O Lord, and I shall be healed.” We were created good by The Good; for “God made man upright,”<sup>2141</sup> but by our own free will, we became evil. We had power from being good to become evil, and we shall have power from being evil to become good. But it is He who is ever Good, who maketh the good out of the evil; for man by his own will had no power to heal himself. Thou dost not look out for a physician to wound thyself; but when thou hast wounded thyself, thou lookest out for one to cure thee. Good things then after the time present, temporal good things, such as are concerned with the body and flesh, we do know how to give to our children, even though we are evil. For even these are good
 
-2135 Matt. vii. 7–10. 2136 Luke xi. 12. 2137 Matt. vii. 11. 2138 Luke xviii. 19. 2139 Jer. xvii. 14.
+2135 [[Matthew 07#^7-7|Matt. vii. 7–10]]. 2136 [[Luke 11#^11-12|Luke xi. 12]]. 2137 [[Matthew 07#^7-11|Matt. vii. 11]]. 2138 [[Luke 18#^18-19|Luke xviii. 19]]. 2139 Jer. xvii. 14.
 
 2140 Pelagians. Eccles. vii. 29.
 
 
 *[p. 625]* ^pg651
 
-*On the words of the Gospel, Matt. vii. 7, ‘Ask, and it shall be given you;’…*
+*On the words of the Gospel, [[Matthew 07#^7-7|Matt. vii. 7]], ‘Ask, and it shall be given you;’…*
 
 things, who would doubt it? A fish, an egg, bread, fruit, wheat, the light we see, the air we breathe, all these are good; the very riches by which men are lifted up, and which make them loth to acknowledge other men to be their equals; by which, I say, men are lifted up rather in love of their dazzling clothing, than with any thought of their common nature, even these riches, I repeat, are good; but all these goods which I have now mentioned may be possessed by good and bad alike; and though they be good themselves, yet cannot they make their owners good.
 
@@ -244,7 +244,7 @@ things, who would doubt it? A fish, an egg, bread, fruit, wheat, the light we se
 
 *[p. 626]* ^pg652
 
-*On the words of the Gospel, Matt. vii. 7, ‘Ask, and it shall be given you;’…*
+*On the words of the Gospel, [[Matthew 07#^7-7|Matt. vii. 7]], ‘Ask, and it shall be given you;’…*
 
 God’s beggar, who just now out of the Gospel urged thee to ask, and seek, and knock. He knew His beggar, and lo the Householder, the mighty rich One, rich, to wit, in riches spiritual and eternal, exhorteth thee and saith, “Ask, seek, knock; he that asketh receiveth, he that seeketh findeth, to him that knocketh it shall be opened.”<sup>2144</sup> He exhorteth thee to ask, and will he refuse thee what thou askest?
 
@@ -254,12 +254,12 @@ God’s beggar, who just now out of the Gospel urged thee to ask, and seek, and 
 
 7\. If then God hath made us His beggars by admonishing, and exhorting, and commanding us to ask, and seek, and knock, let us for our part pay regard to those who ask from us. We ask, and from whom do we ask? Who are we that ask? What do we ask? From whom,
 
-2144 Matt. vii. 8. 2145 Luke xviii. 2. 2146 *Beneficio*. 2147 Luke xi. 5, etc. 2148 *Commendat*.
+2144 [[Matthew 07#^7-8|Matt. vii. 8]]. 2145 [[Luke 18#^18-2|Luke xviii. 2]]. 2146 *Beneficio*. 2147 [[Luke 11#^11-5|Luke xi. 5]], etc. 2148 *Commendat*.
 
 
 *[p. 627]* ^pg653
 
-*On the words of the Gospel, Matt. vii. 7, ‘Ask, and it shall be given you;’…*
+*On the words of the Gospel, [[Matthew 07#^7-7|Matt. vii. 7]], ‘Ask, and it shall be given you;’…*
 
 or who are we, or what is it that we ask? We ask of the Good God; and we that ask are evil men; but we ask for righteousness, whereby we may be good. We ask then for that which we may have for ever, wherewith when we shall be filled, we shall want no more. But in order that we may be filled, let us hunger and thirst; hungering and thirsting, let us ask, and seek, and knock. “For blessed are they who hunger and thirst after righteousness.”<sup>2150</sup> Wherefore are they blessed? They do hunger and thirst, and are they blessed? Is want ever a blessing? They are not blessed in that they hunger and thirst, but in that they will be filled. There will there be blessedness, in the fulness, not in the hunger. But hunger must go before the fulness, that no loathing attach to the bread.
 
@@ -267,12 +267,12 @@ or who are we, or what is it that we ask? We ask of the Good God; and we that as
 
 9\. See then, recall, O rich man, to mind thy first beginnings; see whether thou broughtest anything into the world. Now thou hast come indeed, and hast found so great abundance. But tell me, I pray thee, what didst thou bring hither? Tell me, or if thou art ashamed to say, hear the Apostle. “We brought nothing into this world.”<sup>2151</sup> He saith, “We brought nothing into this world.” But perhaps because thou broughtest in nothing, but yet hast found much here, thou wilt take away something hence? This too, peradventure through love of riches, thou art afraid to confess. Hear this also, and let the Apostle who will not flatter, tell thee. “We brought nothing into this world,” to wit when we were born; “neither can we carry anything out,” to wit when we shall depart out of the world. Thou broughtest in nothing, and thou shalt carry nothing away. Why then dost thou puff up thyself against the poor man? When infants first are born, let only the parents, servants, dependants, and the crowds of obsequious attendants, get out of the way; and then let the wealthy children
 
-2150 Matt. v. 6. 1 Tim. vi. 7.
+2150 [[Matthew 05#^5-6|Matt. v. 6]]. [[1 Timothy 06#^6-7|1 Tim. vi. 7]].
 
 
 *[p. 628]* ^pg654
 
-*On the words of the Gospel, Matt. vii. 7, ‘Ask, and it shall be given you;’…*
+*On the words of the Gospel, [[Matthew 07#^7-7|Matt. vii. 7]], ‘Ask, and it shall be given you;’…*
 
 with their cries be recognised. Let the rich woman and the poor give birth together; let them take no notice of their children, let them go away for a little while; then let them return, and recognise them if they can. See then, O rich man, “thou broughtest nothing into this world; neither canst thou carry anything out.” What I have said of them at their birth, I may say of them in death. If it be not so, when by any chance old sepulchres are broken up, let the 297
 
@@ -282,12 +282,12 @@ bones of the rich be recognised if they can. Therefore, thou rich man, give ear 
 
 11\. “Charge therefore the rich of this world that they be not proud in their conceits.” He hath shut out the abuse,<sup>2156</sup> let him teach now the proper use. “That they be not proud in their conceits.” But whence cometh the defence against pride? From that which follows: “Nor trust in the uncertainty of riches.” They who trust not in the uncertainty of riches, are not proud in their conceits. If they be not proud in their conceits, let them fear. If they fear, they are not proud in their conceits. How many are they who were rich yesterday, and are
 
-2152 1 Tim. vi. 8–10. 2153 *Video facultates non interrogo voluptates*. 2154 1 Tim. vi. 17. 2155 Sermon 35 (85, Bened.) 3. *Vitium*. 298 2157 1 Tim. vi. 18, Vulgate. 2158 1 Tim. vi. 19. 2159 *Veram*, Vulgate. Eccles. i. 2, 3, Sept.
+2152 [[1 Timothy 06#^6-8|1 Tim. vi. 8–10]]. 2153 *Video facultates non interrogo voluptates*. 2154 [[1 Timothy 06#^6-17|1 Tim. vi. 17]]. 2155 Sermon 35 (85, Bened.) 3. *Vitium*. 298 2157 [[1 Timothy 06#^6-18|1 Tim. vi. 18]], Vulgate. 2158 [[1 Timothy 06#^6-19|1 Tim. vi. 19]]. 2159 *Veram*, Vulgate. Eccles. i. 2, 3, Sept.
 
 
 *[p. 629]* ^pg655
 
-*On the words of the Gospel, Matt. vii. 7, ‘Ask, and it shall be given you;’…*
+*On the words of the Gospel, [[Matthew 07#^7-7|Matt. vii. 7]], ‘Ask, and it shall be given you;’…*
 
 poor to-day? How many go to sleep rich, and through robbers coming and taking all away, wake up poor? Therefore “charge them not to trust in the uncertainty of riches, but in the Living God, who giveth us richly all things to enjoy,” things temporal, and things eternal. But things eternal more for enjoyment, the things temporal for use. Things temporal as for travellers, things eternal as for inhabitants. Things temporal, whereby we may do good; things eternal, whereby we may be made good. Therefore let the rich do this, “Let them not be proud in their conceits, nor trust in the uncertainty of riches, but in the Living God, who giveth us all things richly to enjoy.” Let them do this. But what can they do with what they have? Hear what. “Let them be rich in good works, let them easily distribute.”<sup>2157</sup> For they have wherewithal. Why then do they not do it? Poverty is a hard estate. But they may give easily, for they have the means. “Let them communicate,” that is, let them acknowledge their fellow-mortals as their equals. “Let them communicate, let them lay up for themselves a good foundation against the time to come.”<sup>2158</sup> For, saith he, when I say, “Let them distribute easily, let them communicate,” I have no wish to spoil, or strip them, or leave them empty. It is a painful lesson I teach; I show them a place to put their goods, “let them lay up in store for themselves.” For I have no wish that they should remain in poverty. “Let them lay up for themselves in store.” I do not bid them lose their goods, but I show them whither to remove them. “Let them lay up in store for themselves a good foundation against the time to come, that they may hold on the true<sup>2159</sup> life.” The present then is a false life; let them lay hold on the true life. “For it is vanity of vanities, and all is vanity. What so great abundance hath man in all his labour, wherewith he laboureth under the sun?”<sup>2160</sup> Therefore the true life must be laid hold upon, our riches must be removed to the place of the true life, that we may find there what we give here. He maketh this exchange of our goods who also changeth ourselves.
 
@@ -295,13 +295,13 @@ poor to-day? How many go to sleep rich, and through robbers coming and taking al
 
 *[p. 630]* ^pg656
 
-*On the words of the Gospel, Matt. vii. 7, ‘Ask, and it shall be given you;’…*
+*On the words of the Gospel, [[Matthew 07#^7-7|Matt. vii. 7]], ‘Ask, and it shall be given you;’…*
 
 looking-glasses within us, should we not be put to shame for all the costly meat whereby thou hast been filled? The poor man hungers, and so does the rich; the poor man seeks to be filled, so does the rich. The poor man is filled with inexpensive, the rich with costly meats. Both are filled alike, the object<sup>2161</sup> whither both wish to attain is one and the same, only the one reaches it by a short, the other by a circuitous way. But thou wilt say, I relish better my costly food. True, and it is hard for thee to be satisfied, dainty as thou art. Thou knowest not the relish of that which hunger seasons.<sup>2162</sup> Not that I have said this to force the rich to feed on the meat and drink of the poor. Let the rich use what their infirmity has accustomed them to; but let them be sorry, that they are not able to do otherwise. For it would be better for them if they could. If then the poor man be not puffed up for his poverty, why shouldest thou for thine infirmity? Use then choice, and costly meats, because thou art so accustomed, because thou canst not do otherwise, because if thou dost change thy custom, thou art made ill. I grant thee this, make use of superfluities, but give to the poor necessaries; make use of costly meats, but give to the poor inexpensive food. He is looking to receive from thee, and thou art looking to receive from God; he is looking to the hand which was made as he was, and thou art looking to the hand that made thee, and made not thee only, but the poor man with thee. He set you both one and the same journey, this present life: you have found yourselves companions in it, you are walking one way: he is carrying nothing, thou art loaded excessively: he is carrying nothing with him, thou art carrying with thee more than thou dost need. Thou art loaded: give him of that thou hast; so shalt thou at once feed him, and lessen thine own burden.
 
 13\. Give then to the poor; I beg, I advise, I charge, I command you. Give to the poor whatever ye will. For I will not conceal from you, Beloved, why it is that I have deemed it necessary to deliver this discourse to you. As I am going to and from the Church, the poor importune me, and beg me to speak to you, that they may receive something of you. They have urged me to speak to you; and when they see that they receive nothing from you, they suppose that all my labour among you is in vain. Something also they expect from me. I give them all I can; but have I the means sufficient to supply all their necessities? Forasmuch then as I have not means sufficient to supply all their necessity, I am at least their ambassador to you. You have heard and applauded; God be thanked. You have received the seed, you have returned an answer. But these your commendations weigh me down rather, and expose me to danger. I bear them, and tremble whilst I bear them. Nevertheless, my brethren, these your commendations are but the tree’s leaves; it is the fruit I am in quest of.
 
-2161 *Possessio*. *Accendit*. 299 2163 Matt. viii. 8. 2164 Luke vii. 36. 2165 Luke ix. 58. 2166 Luke ix. 57. 2167 Matt. viii. 20.
+2161 *Possessio*. *Accendit*. 299 2163 [[Matthew 08#^8-8|Matt. viii. 8]]. 2164 [[Luke 07#^7-36|Luke vii. 36]]. 2165 [[Luke 09#^9-58|Luke ix. 58]]. 2166 [[Luke 09#^9-57|Luke ix. 57]]. 2167 [[Matthew 08#^8-20|Matt. viii. 20]].
 
 
 *[p. 631]* ^pg657
@@ -310,7 +310,7 @@ looking-glasses within us, should we not be put to shame for all the costly meat
 
 Sermon XII.
 
-\[LXII. Ben.\] *On the words of the Gospel, Matt. viii. 8, “I am not worthy that thou shouldest come under my roof,” etc., and of the words of the apostle, 1 Cor. viii. 10, “For if a man see thee who hast knowledge sitting at meat in an idol’s temple,” etc.*
+\[LXII. Ben.\] *On the words of the Gospel, [[Matthew 08#^8-8|Matt. viii. 8]], “I am not worthy that thou shouldest come under my roof,” etc., and of the words of the apostle, [[1 Corinthians 08#^8-10|1 Cor. viii. 10]], “For if a man see thee who hast knowledge sitting at meat in an idol’s temple,” etc.*
 
 1\. We have heard, as the Gospel was being read, the praise of our faith as manifested in humility. For when the Lord Jesus promised that He would go to the Centurion’s house to heal His servant, He answered, “I am not worthy that Thou shouldest come under my roof: but speak the word only, and he shall be healed.”<sup>2163</sup> By calling himself unworthy, he showed himself worthy for Christ to come not into his house, but into his heart. Nor would he have said this with so great faith and humility, had he not borne Him in his heart, of whose coming into his house he was afraid. For it were no great happiness for the Lord Jesus to enter into his house, and yet not to be in his heart. For this Master of humility both by word and example, sat down even in the house of a certain proud Pharisee, by name Simon;<sup>2164</sup> and though He sat down in his house, there was no place in this heart, “where the Son of Man could lay His Head.”<sup>2165</sup>
 
@@ -318,7 +318,7 @@ Sermon XII.
 
 *[p. 632]* ^pg658
 
-*On the words of the Gospel, Matt. viii. 8, ‘I am not worthy that thou shouldest…*
+*On the words of the Gospel, [[Matthew 08#^8-8|Matt. viii. 8]], ‘I am not worthy that thou shouldest…*
 
 lievers bury a dead body, the dead bury the dead. The body of the one hath lost its soul, the soul of the others hath lost God. For as the soul is the life of the body; so is God the life of the soul. As the body expires when it loses the soul, so doth the soul expire when it loses God. The loss of God is the death of the soul: the loss of the soul the death of the body. The death of the body is necessary; the death of the soul voluntary.
 
@@ -326,14 +326,14 @@ lievers bury a dead body, the dead bury the dead. The body of the one hath lost 
 
 4\. But whence did he get such confidence? “I also,” saith he, “am a man set under authority, having soldiers under me: and I say to this man, Go, and he goeth; and to another, Come, and he cometh: and to my servant, Do this, and he doeth it.”<sup>2172</sup> I am an authority to certain who are placed under me, being myself placed under a certain authority above me. If then I a man under authority have the power of commanding, what power must Thou have, whom all powers serve? Now this man was of the Gentiles, for he was a centurion. At that time the Jewish nation had soldiers of the Roman empire among them. There he was engaged in a military life, according to the extent of a centurion’s authority, both under authority himself, and having authority over others; as a subject obedient, ruling others who were under him. But the Lord (and mark this especially, Beloved, as need there is you should), though He was among the Jewish people only, even now announced beforehand that the Church should be in the whole world, for the establishment of which He would send Apostles; Himself not seen, yet believed on by the Gentiles: by the Jews seen, and put to death. For as the Lord did not in body enter into this man’s house, and still, though in body absent, yet present in majesty, healed his faith, and his house; so the same Lord also was in body among the Jewish people only: among the other nations He was neither born of a Virgin, nor
 
-2169 Luke xix. 6.
+2169 [[Luke 19#^19-6|Luke xix. 6]].
 
-2170 Matt. viii. 8. 2171 Matt. viii. 10. 300 2173 Ps. xvii. 44, 45, Sept. (xviii. 43, 44, English version). 2174 Luke viii. 45. 2175 Col. i. 24. 2176 1 Cor. xii. 27.
+2170 [[Matthew 08#^8-8|Matt. viii. 8]]. 2171 [[Matthew 08#^8-10|Matt. viii. 10]]. 300 2173 Ps. xvii. 44, 45, Sept. (xviii. 43, 44, English version). 2174 [[Luke 08#^8-45|Luke viii. 45]]. 2175 [[Colossians 01#^1-24|Col. i. 24]]. 2176 [[1 Corinthians 12#^12-27|1 Cor. xii. 27]].
 
 
 *[p. 633]* ^pg659
 
-*On the words of the Gospel, Matt. viii. 8, ‘I am not worthy that thou shouldest…*
+*On the words of the Gospel, [[Matthew 08#^8-8|Matt. viii. 8]], ‘I am not worthy that thou shouldest…*
 
 suffered, nor walked, nor endured His human sufferings, nor wrought His divine miracles. None of all this took place in the rest of the nations, and yet was that fulfilled which was spoken of Him, “A people whom I have not known, hath served Me.” And how if it did not know Him? “Hath obeyed Me by the hearing of the ear.”<sup>2173</sup> The Jewish nation knew, and crucified Him; the whole world besides heard and believed.
 
@@ -343,7 +343,7 @@ suffered, nor walked, nor endured His human sufferings, nor wrought His divine m
 
 *[p. 634]* ^pg660
 
-*On the words of the Gospel, Matt. viii. 8, ‘I am not worthy that thou shouldest…*
+*On the words of the Gospel, [[Matthew 08#^8-8|Matt. viii. 8]], ‘I am not worthy that thou shouldest…*
 
 He saith, shall go into outer darkness, there shall be wailing and gnashing of teeth.” And so we see the Jews reprobate, and Christians called from the East and West, to the heavenly banquet, to sit down with Abraham, and Isaac, and Jacob, where the bread is righteousness, and the <sup>2178</sup> cup wisdom.
 
@@ -351,12 +351,12 @@ He saith, shall go into outer darkness, there shall be wailing and gnashing of t
 
 2178 *Potus*. 2179 *Præsentato*.
 
-2180 1 Cor. xv. 9. 2181 *Salute*. 2182 1 Cor. iv. 11. 2183 1 Cor. viii. 10, 11. 1 Cor. viii. 12.
+2180 [[1 Corinthians 15#^15-9|1 Cor. xv. 9]]. 2181 *Salute*. 2182 [[1 Corinthians 04#^4-11|1 Cor. iv. 11]]. 2183 [[1 Corinthians 08#^8-10|1 Cor. viii. 10]], [[1 Corinthians 08#^8-11|11]]. [[1 Corinthians 08#^8-12|1 Cor. viii. 12]].
 
 
 *[p. 635]* ^pg661
 
-*On the words of the Gospel, Matt. viii. 8, ‘I am not worthy that thou shouldest…*
+*On the words of the Gospel, [[Matthew 08#^8-8|Matt. viii. 8]], ‘I am not worthy that thou shouldest…*
 
 do not touch? And when they have been at meat in the idol’s temple, let them come and fill the Church; not to receive saving health, but to make a pressure there.
 
@@ -369,20 +369,20 @@ do not touch? And when they have been at meat in the idol’s temple, let them c
 
 *[p. 636]* ^pg662
 
-*On the words of the Gospel, Matt. viii. 8, ‘I am not worthy that thou shouldest…*
+*On the words of the Gospel, [[Matthew 08#^8-8|Matt. viii. 8]], ‘I am not worthy that thou shouldest…*
 
 and sin against Christ, let them only consider what they are doing. We wish the rest of the Heathen to be gathered in; and ye are stones in their way: they have a wish to come; they stumble, and so return. For they say in their hearts, Why should we leave the gods whom the very Christians worship as we do? God forbid, thou wilt say, that I should worship the gods of the Gentiles. I know, I understand, I believe thee. But what account art thou making of the consciences of the weak which thou art wounding? What account art thou making of their price, if thou disregard the purchase? Consider for how great a price was the purchase made. “Through thy knowledge,” saith the Apostle, “shall the weak brother perish;” that knowledge which thou professest to have, in that thou knowest that an idol is nothing, and that in thy mind thou art thinking only of God, and so sittest down in the idol’s temple. In this knowledge the weak brother perisheth. And lest thou shouldest pay no regard to the weak brother, he added, “for whom Christ died.” If thou wouldest disregard him, yet consider his Price, and weigh the whole world in the balance with the Blood of Christ. And lest thou shouldest still think that thou art sinning against a weak brother, and so esteem it after that he had heard that he was “Peter,” a trivial fault, and of small account, he saith, “Ye sin against Christ.” For men are in the habit of saying, I sin against man; am I sinning against God?” Deny then that Christ is God. Dost thou dare deny that Christ is God? Hast thou learned this other doctrine, when thou didst sit at meat in the idol’s temple? The school of Christ doth not admit that doctrine. I ask; Where learnedst thou that Christ is not God? The Pagans are wont to say so. Seest thou what bad associations<sup>2188</sup> do? Seest thou, “that evil communications corrupt good manners?”<sup>2189</sup> There thou canst not speak of the Gospel, and thou dost hear others talking of idols. There thou losest the truth that Christ is God; and what thou dost drink in there, thou vomitest out in the Church. It may be thou art bold enough to speak here; bold enough to mutter among the crowds; “Was not then Christ a man? Was He not crucified?” This hast thou learned of the Pagans. Thou hast lost thy soul’s health, thou hast not touched the border. On this point then touch again the border, and receive health. As I taught thee to touch it in this that is written, “Whoso seeth a brother sit at meat in the idol’s temple;”<sup>2190</sup> touch it also concerning the Divinity of Christ. The same border said of the Jews, “Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever.”<sup>2191</sup> Behold, against Whom, even the Very God, thou dost sin, when thou sittest down with false gods.
 
 10\. It is no god, you will say; because it is the tutelary genius of Carthage. As though if it were Mars or Mercury, it would be a god. But consider in what light it is esteemed by
 
-2188 *Mensæ*. 2189 1 Cor. xv. 33.
+2188 *Mensæ*. 2189 [[1 Corinthians 15#^15-33|1 Cor. xv. 33]].
 
-2190 1 Cor. viii. 10.
+2190 [[1 Corinthians 08#^8-10|1 Cor. viii. 10]].
 
 
 *[p. 637]* ^pg663
 
-*On the words of the Gospel, Matt. viii. 8, ‘I am not worthy that thou shouldest…*
+*On the words of the Gospel, [[Matthew 08#^8-8|Matt. viii. 8]], ‘I am not worthy that thou shouldest…*
 
 them; not what it is in itself. For I know also as well as thou, that it is but a stone. If this “genius” be any ornament, let the citizens of Carthage live well; and they themselves will be this “genius” of Carthage. But if the “genius” be a devil, ye have heard in that same Scripture, “The things which the Gentiles sacrifice, they sacrifice to devils, and not to God; and I would not that ye should have fellowship with devils.”<sup>2192</sup> We know well that it is no God; would that they knew it too! but because of those weak ones who do not know it, their conscience ought not to be wounded. It is this that the Apostle warns us of. For that they regard that statue as something divine, and take it for a god, the altar is witness. What does the altar there, if it be not accounted a god? Let no one tell me; it is no deity, it is no God. I have said already, “Would that they only knew this, as we all do.” But how they regard it, for what they take it, and what they do about it, that altar is witness. It is convincing against the in- 302
 
@@ -392,12 +392,12 @@ tentions of all who worship there, grant that it may not be convincing also agai
 
 12\. If he who is over thee be a good man, he is thy nourisher; if a bad man, he is thy tempter. Receive the nourishment in the one case with gladness, and in the temptation show thyself approved. Be thou gold. Regard this world as the furnace of the goldsmith; in one narrow place are there things, gold, chaff, fire. To the two former the fire is applied, the chaff is burned, and the gold purified. A man has yielded to threats, and been led away to the idol’s temple: Alas! I bewail the chaff; I see the ashes. Another has not yet yielded to threats nor terrors; has been brought before the judge, and stood firm in his confession, and has not bent down to the idol image: what does the flame with him? Does it not purify the gold? Stand, fast then, Brethren, in the Lord; greater in power, is He who hath called you. Be not afraid of the threats of the ungodly. Bear with your enemies; in them ye have those
 
-2192 1 Cor. x. 20. 2193 1 Cor. v. 12. *Blandiendum*.
+2192 [[1 Corinthians 10#^10-20|1 Cor. x. 20]]. 2193 [[1 Corinthians 05#^5-12|1 Cor. v. 12]]. *Blandiendum*.
 
 
 *[p. 638]* ^pg664
 
-*On the words of the Gospel, Matt. viii. 8, ‘I am not worthy that thou shouldest…*
+*On the words of the Gospel, [[Matthew 08#^8-8|Matt. viii. 8]], ‘I am not worthy that thou shouldest…*
 
 for whom ye may pray; let them by no means terrify you. This is saving health, draw out in this feast here from this source; here drink that wherewith ye may be satisfied, and not in those other feasts, that only whereby ye may be maddened. Stand fast in the Lord. Ye are silver, ye shall be gold. This similitude is not our own, it is out of Holy Scripture. Ye have read and heard, “As gold in the furnace hath He tried them, and received them as a burnt-offering.”<sup>2195</sup> See what ye shall be among the treasures of God. Be ye rich as touching God, not as if to make Him rich, but as to become rich from Him. Let Him replenish you; admit nought else into your heart.
 
@@ -405,23 +405,23 @@ for whom ye may pray; let them by no means terrify you. This is saving health, d
 
 14\. But one of these powers is plotting, and contriving evil designs against thee. Well: he is but sharpening the razor wherewith to shave the hair, but not to cut the head. Ye have but just now heard this that I have said in the Psalm, “Thou hast worked deceit like a sharp razor.”<sup>2199</sup> Why did He compare the deceit of a wicked man in power to a razor? Because it does not reach, save to our superfluous parts. As hairs on our body seem as it were superfluous, and are shaven off without any loss of the flesh; so whatsoever an angry man in power can take from thee, count only among thy superfluities. He takes away thy poverty; can he take away thy wealth? Thy poverty is thy wealth in thy heart. Thy superfluous things
 
-2195 Wisd. iii. 6. 2196 Rom. xiii. 1, 2. 2197 Curator. 2198 Eph. vi. 16. Ps. li. 4, Sept. (lii. 2, English version).
+2195 Wisd. iii. 6. 2196 [[Romans 13#^13-1|Rom. xiii. 1]], [[Romans 13#^13-2|2]]. 2197 Curator. 2198 [[Ephesians 06#^6-16|Eph. vi. 16]]. Ps. li. 4, Sept. (lii. 2, English version).
 
 
 *[p. 639]* ^pg665
 
-*On the words of the Gospel, Matt. viii. 8, ‘I am not worthy that thou shouldest…*
+*On the words of the Gospel, [[Matthew 08#^8-8|Matt. viii. 8]], ‘I am not worthy that thou shouldest…*
 
 only hath he power to take away, these only hath he power to injure, even though he had license given him so far as to hurt the body. Yea even this life itself to those whose thoughts are of another life, this present life, I say, may be reckoned among the things superfluous. For so the Martyrs have despised it. They did not lose life, but they gained Life.
 
 15\. Be sure, Brethren, that enemies have no power against the faithful, except so far as it profiteth them to be tempted and proved. Of this be sure, Brethren, let no one say ought 303 against it. Cast all your care upon the Lord, throw yourselves wholly and entirely upon Him. He will not withdraw Himself that ye should fall. He who created us, hath given us security touching our very hairs. “Verily I say unto you, even the hairs of your head are all numbered.” 2200 Our hairs are numbered by God; how much more is our conduct known to Him to whom our hairs are thus known? See then, how that God doth not disregard our least things. For if He disregarded them, He would not create them. For He verily both created our hairs, and still taketh count of them. But thou wilt say, though they are preserved at present, perhaps they will perish. On this point also hear His word, “Verily I say unto you, there shall not an hair of your head perish.” <sup>2201</sup> Why art thou afraid of man, O man, whose place is in the Bosom of God? Fall not out of His Bosom; whatsoever thou shall suffer there, will avail to thy salvation, not to thy destruction. Martyrs have endured the tearing of their limbs, and shall Christians fear the injuries of Christian times? He who would do thee an injury now, can only do it in fear. He does not say openly, come to the idol-feast; he does not say openly, come to my altars, and banquet there. And if he should say so, and thou wast to refuse, let him make a complaint of it, let him bring it as an accusation and charge against thee: “He would not come to my altars, he would not come to my temple, where I worship.” Let him say this. He does not dare; but in his guile he contrives another attack. Make ready thy hair; he is sharpening the razor; he is about to take off thy superfluous things, to shave what thou must soon leave behind thee. Let him take off what shall endure, if he can. This powerful enemy, what has he taken away? what great thing has he taken away? That which a thief or housebreaker could take: in his utmost rage, he can but take what a robber can. Even if he should have license given him to the slaying of the very body, what does he take away, but what the robber can take? I did him too much honour, when I said, “a robber.” For be the robber who and what he may, he is a man. He takes from thee what a fever, or an adder, or a poisonous mushroom can take. Here lies the whole power of the rage of men, to do what a mushroom can! Men eat a poisonous mushroom, and they die. Lo! in what frail estate is the life of man; which sooner or later thou must abandon; do not struggle then in such wise for it, as that thou shouldest be abandoned thyself.
 
-2200 Matt. x. 30. 304 2202 By the Donatists called Agonistici (St. Augustin, *In Ps*. 133. 6), and by the Catholics Circilliones, or Circumcelliones, that is, *Vagrants*. *Circumcelliones dicti sunt, quia circum cellas vagantur, solent enim ire hac illac nusquam habentes pedes* (*In Ps*. 132. 3). They were of a very licentious and abandoned character, and in their fanaticism they would often commit suicide, to which the text may suppose to refer (*Lib. de Hæres*. c. 69; *Brev. Coll. cum Donat*. viii. \[14\]). They exercised extreme cruelty against the Catholics (*Cont. Cresc. Don*. lib. 3, xliii. \[47\], xlvi. \[50\]). Their form of salutation was *Deo laudes* (*Cont. lit. Petil*. lib. 2, lxv. \[146\]), which St. Augustin (*In Ps*. 133, 6) says was more feared than the roaring of a lion. For the time of their origin see *Opt*. lib. 3. 2203 A place where St. Cyprian’s body was buried outside the walls of Carthage. Macrius in his *Hierolexicon* (ad verb) thinks it ought to be written *Mapalia*, i.e. *domus rurales*. Deut. vii. 1 and xii. 3.
+2200 [[Matthew 10#^10-30|Matt. x. 30]]. 304 2202 By the Donatists called Agonistici (St. Augustin, *In Ps*. 133. 6), and by the Catholics Circilliones, or Circumcelliones, that is, *Vagrants*. *Circumcelliones dicti sunt, quia circum cellas vagantur, solent enim ire hac illac nusquam habentes pedes* (*In Ps*. 132. 3). They were of a very licentious and abandoned character, and in their fanaticism they would often commit suicide, to which the text may suppose to refer (*Lib. de Hæres*. c. 69; *Brev. Coll. cum Donat*. viii. \[14\]). They exercised extreme cruelty against the Catholics (*Cont. Cresc. Don*. lib. 3, xliii. \[47\], xlvi. \[50\]). Their form of salutation was *Deo laudes* (*Cont. lit. Petil*. lib. 2, lxv. \[146\]), which St. Augustin (*In Ps*. 133, 6) says was more feared than the roaring of a lion. For the time of their origin see *Opt*. lib. 3. 2203 A place where St. Cyprian’s body was buried outside the walls of Carthage. Macrius in his *Hierolexicon* (ad verb) thinks it ought to be written *Mapalia*, i.e. *domus rurales*. Deut. vii. 1 and xii. 3.
 
 
 *[p. 640]* ^pg666
 
-*On the words of the Gospel, Matt. viii. 8, ‘I am not worthy that thou shouldest…*
+*On the words of the Gospel, [[Matthew 08#^8-8|Matt. viii. 8]], ‘I am not worthy that thou shouldest…*
 
 16\. Christ is our Life; think then of Christ. He came to suffer, but also to be glorified; to be despised, but to be exalted also; to die; but also to rise again. If the labour alarm thee, see its reward. Why dost thou wish to arrive by softness at that to which nothing but hard labour can lead? Now thou art afraid, lest thou shouldest lose thy money; because thou earnest thy money with great labour. If thou didst not attain to thy money, which thou must some time or other lose, at all events when thou diest, without labour, wouldest thou desire without labour to attain to the Life eternal? Let that be of higher value in thine eyes, to which after all thy labours thou shalt in such sort attain as never more to lose it. If this money, to which thou hast attained after all thy labours on such condition as that thou must some time lose it, be of high value with thee; how much more ought we to long after those things which are everlasting!
 
@@ -429,7 +429,7 @@ only hath he power to take away, these only hath he power to injure, even though
 
 *[p. 641]* ^pg667
 
-*On the words of the Gospel, Matt. viii. 8, ‘I am not worthy that thou shouldest…*
+*On the words of the Gospel, [[Matthew 08#^8-8|Matt. viii. 8]], ‘I am not worthy that thou shouldest…*
 
 there, and their heart anywhere else. The whole ought to be within. If that which man seeth is within, why is that which God seeth without?
 
@@ -440,7 +440,7 @@ there, and their heart anywhere else. The whole ought to be within. If that whic
 
 *[p. 642]* ^pg668
 
-*On the words of the Gospel, Matt. viii. 8, ‘I am not worthy that thou shouldest…*
+*On the words of the Gospel, [[Matthew 08#^8-8|Matt. viii. 8]], ‘I am not worthy that thou shouldest…*
 
 It is but a little matter with them that we do not take them away from their estates, that we do not break them down: they would have them kept up even in our own places. We preach against idols, we take them away from the hearts of men; we are persecutors of idols; we openly profess it. Are we then to be the preservers of them? I do not touch them when I have not the power; I do not touch them when the lord of the property complains of it; but when he wishes it to be done, and gives thanks for it, I should incur guilt if I did it not.
 
@@ -450,24 +450,24 @@ It is but a little matter with them that we do not take them away from their est
 
 Sermon XIII.
 
-\[LXIII. Ben.\] *On the words of the Gospel, Matt. viii. 23, “And when he was entered into a boat,” etc.* 1. By the Lord’s blessing, I will address you upon the lesson of the Holy Gospel which has just been read, and take occasion thereby to exhort you, that against the tempest and waves of this world, faith sleep not in your hearts. “For the Lord Christ had not indeed death nor sleep in His power, and peradventure sleep overcame the Almighty One as He was sailing against His will?” If ye believe this, He is asleep in you; but if Christ be awake in you, your faith is awake. The Apostle saith, “that Christ may dwell in your hearts by faith.”<sup>2207</sup> This sleep then of Christ is a sign of a high mystery.<sup>2208</sup> The sailors are the souls passing over the world in wood. That ship also was a figure of the Church. And all, individually indeed are temples of God, and his own heart is the vessel in which each sails; nor can he suffer shipwreck, if his thoughts are only good.
+\[LXIII. Ben.\] *On the words of the Gospel, [[Matthew 08#^8-23|Matt. viii. 23]], “And when he was entered into a boat,” etc.* 1. By the Lord’s blessing, I will address you upon the lesson of the Holy Gospel which has just been read, and take occasion thereby to exhort you, that against the tempest and waves of this world, faith sleep not in your hearts. “For the Lord Christ had not indeed death nor sleep in His power, and peradventure sleep overcame the Almighty One as He was sailing against His will?” If ye believe this, He is asleep in you; but if Christ be awake in you, your faith is awake. The Apostle saith, “that Christ may dwell in your hearts by faith.”<sup>2207</sup> This sleep then of Christ is a sign of a high mystery.<sup>2208</sup> The sailors are the souls passing over the world in wood. That ship also was a figure of the Church. And all, individually indeed are temples of God, and his own heart is the vessel in which each sails; nor can he suffer shipwreck, if his thoughts are only good.
 
 2\. Thou hast heard an insult, it is the wind; thou art angry, it is a wave. When therefore the wind blows, and the wave swells, the ship is endangered, the heart is in jeopardy, the heart is tossed to and fro. When thou hast heard an insult, thou longest to be avenged; and, lo, avenged thou hast been, and so rejoicing in another’s harm thou hast suffered shipwreck. And why is this? Because Christ is asleep in thee. What does this mean, Christ is asleep in thee? Thou hast forgotten Christ. Rouse Him up then, call Christ to mind, let Christ awake in thee, give heed to Him. What didst thou wish? To be avenged. Hast thou forgotten, that when He was being crucified, He said, “Father, forgive them, for they know not what they do?”<sup>2209</sup> He who was asleep in thy heart did not wish to be avenged. Awake Him up then, call Him to remembrance. The remembrance of Him is His word; the remembrance of Him is His command. And then wilt thou say if Christ, awake in thee, What manner of man am I, who wish to be avenged! Who am I, who deal out threatenings against another man? I may die perhaps before I am avenged. And when at my last breath, inflamed with rage, and thirsting for vengeance, I shall depart out of this body, He will not receive me, who did not wish to be avenged; He will not receive me, who said, “Give, and it shall be given unto you; forgive, and it shall be forgiven you.”<sup>2210</sup> Therefore will I refrain myself from my wrath, and return to the repose of my heart. Christ hath commanded the sea, tranquillity is restored.
 
 3\. Now what I have said as to anger, hold fast as a rule in all your temptations. A temptation has sprung up; it is the wind; thou art disturbed; it is a wave. Awake up Christ then, let Him speak with thee. “Who is this, since the winds and the sea obey Him?”<sup>2211</sup>
 
-305 2207 Eph. iii. 17. 2208 *Sacramenti*. 2209 Luke xxiii. 34.
+305 2207 [[Ephesians 03#^3-17|Eph. iii. 17]]. 2208 *Sacramenti*. 2209 [[Luke 23#^23-34|Luke xxiii. 34]].
 
-2210 Luke vi. 37, 38.
+2210 [[Luke 06#^6-37|Luke vi. 37]], [[Luke 06#^6-38|38]].
 
 
 *[p. 644]* ^pg670
 
-*On the words of the Gospel, Matt. viii. 23, ‘And when he was entered into…*
+*On the words of the Gospel, [[Matthew 08#^8-23|Matt. viii. 23]], ‘And when he was entered into…*
 
 Who is this, whom the sea obeyeth? “The sea is His, and He made it.”<sup>2212</sup> “All things were made by Him.”<sup>2213</sup> Imitate the winds then, and the sea rather; obey the Creator. At Christ’s command the sea giveth ear; and art thou deaf? The sea heareth, and the wind ceaseth: and dost thou still blow on? What! I say, I do, I devise; what is all this, but to be blowing on, and to be unwilling to stop in obedience to the word of Christ? Let not the wave master you in this troubled state of your heart. Yet since we are but men, if the wind should drive us on, and stir up the affections of our souls, let us not despair; let us awake Christ, that we may sail on a tranquil sea, and so come to our country. “Let us<sup>2214</sup> turn to the Lord,” etc.
 
-2212 Ps. xcv. 5. 2213 John i. 3. For the the full form, see end of Sermon xvii. (lxvii. Bened.).
+2212 Ps. xcv. 5. 2213 [[John 01#^1-3|John i. 3]]. For the the full form, see end of Sermon xvii. (lxvii. Bened.).
 
 
 *[p. 645]* ^pg671
@@ -476,7 +476,7 @@ Who is this, whom the sea obeyeth? “The sea is His, and He made it.”<sup>221
 
 Sermon XIV.
 
-\[LXIV. Ben.\] *On the words of the Gospel, Matt. x. 16, “Behold, I send you forth as sheep in the midst of wolves,” etc. Delivered on a Festival of Martyrs.*
+\[LXIV. Ben.\] *On the words of the Gospel, [[Matthew 10#^10-16|Matt. x. 16]], “Behold, I send you forth as sheep in the midst of wolves,” etc. Delivered on a Festival of Martyrs.*
 
 1\. When the Holy Gospel was read, Brethren, ye heard how our Lord Jesus Christ strengthened His Martyrs by His teaching, saying, “Behold, I send you forth as lambs in the midst of wolves.”<sup>2215</sup> Now consider, my Brethren, what he does. If but one wolf come among many sheep, be they ever so many thousands, they will all be put to confusion by one wolf in the midst of them: and though all may not be torn, yet all are frightened. What manner of design is this then, what manner of counsel, what manner of power, not to let in a wolf amongst the sheep, but to send the sheep against the wolves! “I send you,” saith He, “as sheep in the midst of wolves;” not to the neighbourhood of wolves, but “in the midst of wolves.” There was then at that time a herd of wolves, and but few sheep. For when the many wolves killed the few sheep, the wolves were changed and became sheep.
 
@@ -484,12 +484,12 @@ Sermon XIV.
 
 3\. Wherefore, Beloved, I must explain to you, though I have often spoken already on this subject, what it is to be “simple as doves, and wise as serpents.” Now if the simplicity of doves be enjoined us, what hath the wisdom of the serpent to do in the simplicity of the dove? This in the dove I love, that she has no gall; this I fear in the serpent, that he has poison. But now do not fear the serpent altogether; something he has for thee to hate, and something for thee to imitate. For when the serpent is weighed down with age, and he feels the burden of his many years, he contracts and forces himself into a hole, and lays aside his old coat<sup>2218</sup> of skin, that he may spring forth into new life. Imitate him in this, thou Christian, who dost hear Christ saying, “Enter ye in at the strait gate.”<sup>2219</sup> And the Apostle Paul saith to thee, “Put ye off the old man with his deeds, and put ye on the new man.”<sup>2220</sup> Thou hast then something to imitate in the serpent. Die not for the “old man,” but for the truth.
 
-2215 Matt. x. 16. 2216 Matt. x. 16. 2217 *Securus*. 2218 *Tunicam*. 2219 Matt. vii. 13. Col. iii. 9; Eph. iv. 22–24.
+2215 [[Matthew 10#^10-16|Matt. x. 16]]. 2216 [[Matthew 10#^10-16|Matt. x. 16]]. 2217 *Securus*. 2218 *Tunicam*. 2219 [[Matthew 07#^7-13|Matt. vii. 13]]. [[Colossians 03#^3-9|Col. iii. 9]]; [[Ephesians 04#^4-22|Eph. iv. 22–24]].
 
 
 *[p. 646]* ^pg672
 
-*On the words of the Gospel, Matt. x. 16, ‘Behold, I send you forth as sheep…*
+*On the words of the Gospel, [[Matthew 10#^10-16|Matt. x. 16]], ‘Behold, I send you forth as sheep…*
 
 Whoso dies for any temporal good dies “for the old man.” But when thou hast stripped thyself of all “that old man,” thou hast imitated the wisdom of the serpent. Imitate him in this again; “keep thy head safe.” And what does this mean, keep thy head safe? Keep Christ with thee. Have not some of you, it may be, observed, on occasions when you have wished to kill an adder, how to save his head, he will expose his whole body to the strokes of his 306
 
@@ -497,7 +497,7 @@ assailant? He would not that that part of him should be struck, where he knows t
 
 4\. Now what need is there to commend to you in many words the simplicity of the dove? For the serpent’s poison had need to be guarded against: there, there was a danger in imitation; there, there was something to be feared; but the dove may you imitate securely. Mark how the doves rejoice in society; everywhere do they fly and feed together; they do not love to be alone, they delight in communion, they preserve affection; their cooings are the plaintive cries <sup>2223</sup> of love, with kissings they beget their young. Yea even when doves, as we have often noticed, dispute about their holes, it is as it were but a peaceful strife. Do they separate, because of their contentions? Nay, still do they fly and feed together, and their very strife is peaceful. See this strife of doves, in what the Apostle saith, “If any man obey not our word by this epistle, mark that man, and have no company with him.” Behold the strife; but observe now how it is the strife of doves, not of wolves. He subjoined immediately, “Yet count him not as an enemy, but admonish him as a brother.”<sup>2224</sup> The dove loves even when she is in strife; and the wolf even when he caresses, hates. Therefore having the simplicity of doves, and the wisdom of serpents, celebrate the solemnities of the Martyrs in sobriety of mind,<sup>2225</sup> not<sup>2226</sup> in bodily excess, sing lauds to God. For He who is the Martyrs’ God, is our Lord God also, He it is who will crown us. If we shall have wrestled well, we shall be crowned by Him, who hath crowned already those whom we desire to imitate.
 
-2221 John xiv. 6. 2222 1 Cor. xi. 3. 2223 *Gemitibus amoris murmurant*. 2224 2 Thess. iii. 14, 15. 2225 See, as to the excesses which prevailed at the festivals of the Martyrs, a letter of St. Augustin to Aurelius Bishop of Carthage and Primate of Africa (Ep. 22, al. 64), urging him to use his authority to suppress them. St Ambrose had prohibited these feasts in the Church of Milan (Augustin, *Conf*. lib. 6. 2 \[Am. edition i. 90, note\]). Aurelius succeeded in getting a canon (xxx.) made in the third Council of Carthage (A.D. 397), obliging the clergy to abstain from all such feasts in the Church, and as far as in them lay to restrain the people from the same practice (*Conc. Labbe*, t. 2, p. 1171; Bingham, B. xx. vii. § 10). *Ebrietate ventris*. 307 2227 Matt. x. 28. Prov. xiv. 26, Sept.
+2221 [[John 14#^14-6|John xiv. 6]]. 2222 [[1 Corinthians 11#^11-3|1 Cor. xi. 3]]. 2223 *Gemitibus amoris murmurant*. 2224 [[2 Thessalonians 03#^3-14|2 Thess. iii. 14]], [[2 Thessalonians 03#^3-15|15]]. 2225 See, as to the excesses which prevailed at the festivals of the Martyrs, a letter of St. Augustin to Aurelius Bishop of Carthage and Primate of Africa (Ep. 22, al. 64), urging him to use his authority to suppress them. St Ambrose had prohibited these feasts in the Church of Milan (Augustin, *Conf*. lib. 6. 2 \[Am. edition i. 90, note\]). Aurelius succeeded in getting a canon (xxx.) made in the third Council of Carthage (A.D. 397), obliging the clergy to abstain from all such feasts in the Church, and as far as in them lay to restrain the people from the same practice (*Conc. Labbe*, t. 2, p. 1171; Bingham, B. xx. vii. § 10). *Ebrietate ventris*. 307 2227 [[Matthew 10#^10-28|Matt. x. 28]]. Prov. xiv. 26, Sept.
 
 
 *[p. 647]* ^pg673
@@ -506,7 +506,7 @@ assailant? He would not that that part of him should be struck, where he knows t
 
 Sermon XV.
 
-\[LXV. Ben.\] *On the words of the Gospel, Matt. x. 28, “Be not afraid of them that kill the body.” Delivered on a Festival of Martyrs.*
+\[LXV. Ben.\] *On the words of the Gospel, [[Matthew 10#^10-28|Matt. x. 28]], “Be not afraid of them that kill the body.” Delivered on a Festival of Martyrs.*
 
 1\. The Divine oracles which have just been read teach us in fearing not to fear, and in not fearing to fear. Ye observed when the Holy Gospel was being read, that our Lord God before He died for us, would have us to be firm; and this by admonishing us “not” to fear, and withal to fear. For he said, “Fear not them which kill the body, but are not able to kill the soul.” See where He advised us not to fear. See now where He advised us to fear. “But,” saith he, “fear Him who hath power to destroy both body and soul in hell.”<sup>2227</sup> Let us fear therefore, that we may not fear. Fear seems to be allied to cowardice: seems to be the character of the weak, not the strong. But see what saith the Scripture, “The fear of the Lord is the hope of strength.”<sup>2228</sup> Let us then fear, that we may not fear; that is, let us fear prudently, that we may not fear vainly. The holy Martyrs on the occasion of whose solemnity this lesson was read out of the Gospel, in fearing, feared not; because in fearing God, they did not regard men.
 

@@ -20,16 +20,13 @@ nyasa: "left side (*pārśva*)"
 ## Front
 
 - **Glyph:** फ
-- **Variation:** —
 - **Example:** फल
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘scoo<u>p h</u>oney’
-- **Class (as printed):** 5 (labial) · hard · aspirated
-- **Grid:** the five rows of stops; in bold: फ
-- **Example:** phala (fruit)
+> [!note]- Back
+> - **Pronunciation:** As in ‘scoo<u>p h</u>oney’
+> - **Class:** labial · hard · aspirated
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प <u>फ</u> ब भ म
+> - **Example:** phala (fruit)
 
 ## Register
 

@@ -27,7 +27,7 @@ ajñatvānupadeṣṭṛtvasaṃdaṣṭe'dharaśāsane || ^iast
 > [!source] Dyczkowski, vol. XI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)/Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#^pg250|p. 232]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 11.pdf#page=250>))
 >
-> Just as (snake) venom departs (from the body) by (the firm conviction), free of doubt, of being Garuda, in the same way the (fettered) karmic state’ is destroyed (by the firm conviction), free of doubt, that one possesses Bhairava’s nature. (with 37.12cd–13ab)
+> Just as (snake) venom departs (from the body) by (the firm conviction), free of doubt, of being Garuda, in the same way the (fettered) karmic state is destroyed (by the firm conviction), free of doubt, that one possesses Bhairava’s nature. (with 37.12cd–13ab)
 >
 > (The teachings) of inferior systems are afflicted by ignorance and the lack of (sound) teachings. It is necessary therefore to choose the doctrine preached by Śiva, which is the (exact) opposite of this. (with 37.13cd–14ab)
 

@@ -1127,7 +1127,7 @@ Egg: L"YGNSM BPSH PR "NH. The great Prince of Torah<sup>a</sup> who was with Mos
 
 b Following Swartz’s § 576 <sup>a</sup>Cf. the rite involving a silver bowl in *Merkavah Rabba* § 663.
 
-(*Scholastic Magic*, 111” n. 12) understanding of *"byryn qntys*, based on terms in [[Shabbat 104#104b|*b. Shab*. 104b]]. <sup>c</sup>Emending *"srdr* to *"sdr* with Schäfer, *Übersetzung*, 3:297 n. 1 to § 576.
+(*Scholastic Magic*, 111” n. 12) understanding of *"byryn qntys*, based on terms in *b. Shab*. [[Shabbat 104#104b|104b]]. <sup>c</sup>Emending *"srdr* to *"sdr* with Schäfer, *Übersetzung*, 3:297 n. 1 to § 576.
 
 <sup>d</sup>Emending *"šṙsw* to *"ysr"* with Schäfer (*Übersetzung*, 3:298 n. 2 to § 576) and Swartz (*Scholastic Magic*, 112 n. 15).
 

@@ -18,7 +18,7 @@ The text is a fresh OCR of the 1859 print (Tesseract, English); check quotations
 
 THE GOSPEL OF S7?. LUKE. 74
 
-befals, it troubles sometimes even a well-established inind, and exposes it to the blame of littleness of faith; and such also is the effect of any other trouble too great to bear upon those who are tried by it. For this reason there once drew near certain unto Christ, and said: “Increase our faith.” For the man Luke xvii. who is still exposed to blame for littleness of faith falls short ° of him who is perfect in faith. For just as gold is tried in the fire, so also is faith by temptations. But the mind of man is weak, and altogether in need of strength and help from above, in order that it may be well with him, and that he may be able to maintain a steadfast course, and be strong, manfully to endure whatsoever befal. And this our Saviour taught us, saying ; “Without Me ye can do nothing.” And the wise Paul also John xv. confesses the same, where he writes; “I am able to do all Phil. iv.13.
+befals, it troubles sometimes even a well-established inind, and exposes it to the blame of littleness of faith; and such also is the effect of any other trouble too great to bear upon those who are tried by it. For this reason there once drew near certain unto Christ, and said: “Increase our faith.” For the man Luke xvii. who is still exposed to blame for littleness of faith falls short ° of him who is perfect in faith. For just as gold is tried in the fire, so also is faith by temptations. But the mind of man is weak, and altogether in need of strength and help from above, in order that it may be well with him, and that he may be able to maintain a steadfast course, and be strong, manfully to endure whatsoever befal. And this our Saviour taught us, saying ; “Without Me ye can do nothing.” And the wise Paul also John xv. confesses the same, where he writes; “I am able to do all [[Philippians 04#^4-13|Phil. iv.13]].
 
 “ things through Christ, That strengtheneth me.”
 
@@ -26,7 +26,7 @@ The Saviour, therefore, wrought miracles, changing by His all-prevailing nod the
 
 *[p. 178]* ^pg202
 
-John x. 33.
+[[John 10#^10-33|John x. 33]].
 
 Who is This? but rather as wondering at the immensity of His power, and at the lofty and incomparable greatness of His sovereignty. For the wretched Jews, either as being entirely ignorant of the mystery of Christ, or as not deigning Him, in their great wickedaess, any regard, rebuked Him, and threw stones at Him, when He called God His Father. For they ventured even to say, “ Why dost Thou, being a man, make “ Thyself God?” For they did not comprehend in their mind the depth of the mystery. God was in visible form like unto us: the Lord of all bore the likeness of a slave: He Who is high exalted was in lowliness: and He who surpasses all intellectual comprehension, and transcends every created being, was in the measure of us men. And as the disciples knew this, they wonder at the glory of the Godhead ; and as they view It present in Christ, and yet see that He was like unto us, and visible in the flesh, they say, “ Who is This?” instead of, How great He is! and of what nature! and with how great power, and authority, and majesty, He commands even the waters and
 
@@ -120,7 +120,7 @@ fore prefer rendering la.ca, as
 
 *[p. 184]* ^pg208
 
-Mat. x. 29.
+[[Matthew 10#^10-29|Mat. x. 29]].
 
 The herd then of impure spirits asked for a herd—worthy of and like itself—of swine! And Christ purposely gave them leave, though He well knew what they would do. And I can imagine some one saying, Why did He grant their request? To which we answer, That He gave them the power, in order that this, like all His other conduct, might be a means of benefit to us, and inspire us with the hope of safety. But perhaps thou wilt say, How, and in what manner? Listen therefore. They ask for power over swine: plainly as something which they do not possess. For what possible doubt can there be, that they would not have asked it, if it had been in their power to take it without hindrance? But those who have no power over things thus trifling and valueless, how can they injure any one of those whom Christ has sealed, and who place their hope on Him? Comfort therefore thy heart: for perhaps thou wast terrified at hearing that a crowd of wicked spirits dwelt in one man, and made him wander among the graves of the dead in shame and nakedness, and bereft of mind and understanding. Inasmuch as thou too art a man exposed to temptations, thou fearedst a misery thus bitter and unendurable, should Satan attack thee. Rouse therefore thy heart to confidence : do not suppose that any such thing can happen while Christ surrounds us with protection and love. It is certain that they possess no power even over swine. So great is the providence which the Almighty Governor of our affairs deigns to bestow on human things. For He even said to the holy apostles, “Are ‘not two sparrows sold for a farthing? and not one of them “falleth to the ground without your Father. And even the ‘hairs of your head are all numbered. Fear not therefore, ye “ are of more value than many sparrows.” For if He bestow Klis protection upon things thus trifling and valueless, how will He not deem us worthy of all regard, for whose sake He Who by nature is God, even became man, and endured the contumelies of the Jews? Away therefore with fear: for God aids, and encireles with the armour of His good pleasure those whose wish it is to live for Him, and who seek to perform those things that are pleasing in His sight. :
 
@@ -152,7 +152,7 @@ Seis: I know that power has gone jorth from Me. And when the pov; S. woman saw t
 
 bépca - My daughter, thy faith hath saved thee: go in peace. yarep Us.
 
-Those who are skilful in elucidating the mystery of the dispensation of the Only-begotten in the flesh, and whose minds are illuminated with divine light, the Spirit eommanded, Ps, xevi. 3. saying, “Declare His praise among the Gentiles, and His ‘miracles among all nations.” Did He then command them to declare the praise of our uuiyersal Saviour Christ among the multitudes of the Gentiles, to the inhabitants, that is, of the whole world, for no other reason than that He might be admired, or was it not that He might also be believed on by all men? \[ verily affirm that it was both in order that He might be admired, and also that we might believe that the Word of Johni.ty. God the Father is very God, even though, as John says, He was made flesh. For He also somewhere declares unto the John x. 37. Jews, “If I do not the works of My Father, believe Me not:
+Those who are skilful in elucidating the mystery of the dispensation of the Only-begotten in the flesh, and whose minds are illuminated with divine light, the Spirit eommanded, Ps, xevi. 3. saying, “Declare His praise among the Gentiles, and His ‘miracles among all nations.” Did He then command them to declare the praise of our uuiyersal Saviour Christ among the multitudes of the Gentiles, to the inhabitants, that is, of the whole world, for no other reason than that He might be admired, or was it not that He might also be believed on by all men? \[ verily affirm that it was both in order that He might be admired, and also that we might believe that the Word of Johni.ty. God the Father is very God, even though, as John says, He was made flesh. For He also somewhere declares unto the [[John 10#^10-37|John x. 37]]. Jews, “If I do not the works of My Father, believe Me not:
 
 *[p. 187]* ^pg211
 
@@ -160,7 +160,7 @@ Those who are skilful in elucidating the mystery of the dispensation of the Only
 
 Let us then once again behold Him benefiting multitudes by the miracles He wrought for their good. For there was a ruler and teacher of the synagogue of the Jews, called Jairus ; and him the Gospel narrative here announces to us. For he fell down before the feet of Christ our common Saviour, to ask for the unloosing of death, and the annulling of corruption. For his daughter was, so to speak, at the very gates of the graye. Come then, and let us ask Jairus to tell us in what light he regards Him to Whom he offers his request. For if thou drawest near regarding Him as a mere man, and like unto one of us; as one, that is, Who possesses no power superior to ourselves, thou missest thy mark, and hast wandered from the right road, in asking of a man that which requires the power of God. The supreme nature alone is able to give life to the dead. It alone\*has immortality : and from It every thing that is called into being borrows its life and motion. Ask therefore of men the things that belong unto men, and of God the things that belong unto God.
 
-Moreover thou worshippest Him as the Almighty God: and doest so, as certainly knowing and testifying that He is able to give thee the accomplishment of thy requests. What argument therefore is sufficient for thy defence, that once thou stonedst Christ the Saviour of all; and with the rest didst persecute Him, and most foolishly and impiously say, “ For a good John x. 33. “ work we stone Thee not, but for blasphemy: because that “ Thou being a man, makest Thyself God.”
+Moreover thou worshippest Him as the Almighty God: and doest so, as certainly knowing and testifying that He is able to give thee the accomplishment of thy requests. What argument therefore is sufficient for thy defence, that once thou stonedst Christ the Saviour of all; and with the rest didst persecute Him, and most foolishly and impiously say, “ For a good [[John 10#^10-33|John x. 33]]. “ work we stone Thee not, but for blasphemy: because that “ Thou being a man, makest Thyself God.”
 
 And not only must we wonder at this, but at the following as well. For Lazarus indeed arose from the dead at the summons of Christ, Who made him come forth from the very grave, when he had been there four days, and corruption had already begun. And those indeed who were spectators of the miracle were astonished at the majesty of the deed. But the rulers of the synagogue of the Jews made the very miracle food for envy, and an act thus great and excellent was stored up in their memory as a seed whence sprung the guilt of murder. For when they had assembled, they took counsel one with another, certainly for no lawful deed, but for one rather that brought upon them their final doom. For they said, “ What Bba2 Jobn xi.
 
@@ -226,7 +226,7 @@ And this too was for the benefit of Jairus, though it was indeed a hard lesson. 
 
 *[p. 193]* ^pg217
 
-sabbaths, nor ought besides of these temporary and typical matters, can save the dwellers upon earth ; faith only in Christ can do so, by means of which even the blessed Abraham was justified, and called the friend of God, and counted worthy of especial honours. And the blessing of God has been given also to those, who according to the terms of the promise were to be his sons: even unto us. “For they are not all Israel, Rom. ix.6. “ who are of Israel, neither because they are the seed of Abra- ‘ham, are they all sons: but the children of the promise are “accounted as the seed.” To us then this grace belongs: for we have been adopted as Abraham’s sons, “ being justified not ‘so much by the works of the law, as by faith in Christ ;” by Gal. ii. 16, Whom, and with Whom, to God the Father be praise and dominion with the Holy Ghost, for ever and ever, Ameny.
+sabbaths, nor ought besides of these temporary and typical matters, can save the dwellers upon earth ; faith only in Christ can do so, by means of which even the blessed Abraham was justified, and called the friend of God, and counted worthy of especial honours. And the blessing of God has been given also to those, who according to the terms of the promise were to be his sons: even unto us. “For they are not all Israel, [[Romans 09#^9-6|Rom. ix.6]]. “ who are of Israel, neither because they are the seed of Abra- ‘ham, are they all sons: but the children of the promise are “accounted as the seed.” To us then this grace belongs: for we have been adopted as Abraham’s sons, “ being justified not ‘so much by the works of the law, as by faith in Christ ;” by [[Galatians 02#^2-16|Gal. ii. 16]], Whom, and with Whom, to God the Father be praise and dominion with the Holy Ghost, for ever and ever, Ameny.
 
 y Mai adds from H. f. 30. an pendix however to vol. xiv. of the allegorical interpretation of the two Bibliotheca vet. Patrum Gallandii, miracles given there under the p.95, it is found in Origen’s Com-names both of Origen and Cyril, mentaries, and to him therefore it and in Corderius under those of should be assigned.
 
@@ -252,9 +252,9 @@ om, é«Ba-Awy tw mdvras Kal BT.
 
 Is. xxv. I,
 
-John xi. 25.
+[[John 11#^11-25|John xi. 25]].
 
-John v. 24.
+[[John 05#^5-24|John v. 24]].
 
 SERMON XLVI.
 
@@ -278,7 +278,7 @@ Rou. vi. 8.
 
 Ps. xl. 6.
 
-Heb. xi. 6.
+[[Hebrews 11#^11-6|Heb. xi. 6]].
 
 sickness, there was nothing done by Christ very extraordinary. To have, therefore, the acknowledgment of many that the damsel was dead, He said, that she was rather sleeping. And let no man affirm that Christ spake untruly. For to Him, as being Life by nature, there is nothing dead. And this is the reason why we, having a firm hope of the resurreetion of the dead, eall them “those that sleep.” For in Christ they will arise: and, as the blessed Paul says, “ They live to Him,” in that they are about tc live.
 
@@ -292,15 +292,15 @@ which is well pleasing.
 
 *[p. 197]* ^pg221
 
-It is necessary, therefore, for us to explain in what sense we say that the law was given beeause of faith. The blessed Abraham then was justified by obedience and faith. For it is written: “ That Abraham believed God; and he was ealled Jain. ii. 23. “ the friend of God, and faith was counted to him for right- “ eousness.”’” And God promised him both that he should be the father of many nations, and that all nations should be blessed in him; that is to say, by the imitation of his faith. One ean see, therefore, that the grace that is by faith is prior to the ceremonial enjoined by the law, in that Abraham attained unto it while still uncireumeised. And afterwards, in process of time, the law entered by the hand of Moses. Did it then thrust away the justification that is by faith,—that I mean which God promised to those who follow the steps of the faith of our father Abraham, which he had while still uneircumeised? But how can this be true? The blessed Paul, therefore, writes: “This I say then, that the covenant, whieh Gal. iii. 17. “ was confirmed of old by God, the law, which was four hun- “ dred and thirty years afterwards, does not disannul, so as to “make the promise given to the fathers of no effect.” And again: “Is the law then against the promises of God? It Gal. iti. 21. “may not be.” And the same divine Paul further teaches us the reasons for which the law at length entered by the ministration of angels, and the manner in which it confirms the faith in Christ, by having been brought in before the time of the incarnation of the Only-begotten, saying at one time, that “the law entered that sin might abound :” and at another Rom. v. 20. again, “‘ that the Scripture hath included all things under sin:” Gal. iii. 22. and again, “ The law, therefore, was added, because of trans- Gal. iii. 19.
+It is necessary, therefore, for us to explain in what sense we say that the law was given beeause of faith. The blessed Abraham then was justified by obedience and faith. For it is written: “ That Abraham believed God; and he was ealled Jain. ii. 23. “ the friend of God, and faith was counted to him for right- “ eousness.”’” And God promised him both that he should be the father of many nations, and that all nations should be blessed in him; that is to say, by the imitation of his faith. One ean see, therefore, that the grace that is by faith is prior to the ceremonial enjoined by the law, in that Abraham attained unto it while still uncireumeised. And afterwards, in process of time, the law entered by the hand of Moses. Did it then thrust away the justification that is by faith,—that I mean which God promised to those who follow the steps of the faith of our father Abraham, which he had while still uneircumeised? But how can this be true? The blessed Paul, therefore, writes: “This I say then, that the covenant, whieh [[Galatians 03#^3-17|Gal. iii. 17]]. “ was confirmed of old by God, the law, which was four hun- “ dred and thirty years afterwards, does not disannul, so as to “make the promise given to the fathers of no effect.” And again: “Is the law then against the promises of God? It Gal. iti. 21. “may not be.” And the same divine Paul further teaches us the reasons for which the law at length entered by the ministration of angels, and the manner in which it confirms the faith in Christ, by having been brought in before the time of the incarnation of the Only-begotten, saying at one time, that “the law entered that sin might abound :” and at another [[Romans 05#^5-20|Rom. v. 20]]. again, “‘ that the Scripture hath included all things under sin:” [[Galatians 03#^3-22|Gal. iii. 22]]. and again, “ The law, therefore, was added, because of trans- [[Galatians 03#^3-19|Gal. iii. 19]].
 
 “« gressions.”
 
-Do you wish to learn how the Scripture included all things under sin? If so, I will explain it to the best of my ability. The heathen, then, as those who were without God, and destitute of hope, were in this world as men imprisoned in the pitfalls of baseness, and entangled without hope of escape in the cords of sin. On the other hand, the Israelites possessed indeed the law as a schoolmaster: but no man could be justified by its means. For there is no profit to them that are in their sins in an offering by blood. And to this Paul again bears witness, saving; “ For the blood of bulls, and of goats, cannot Heb. x. 4.
+Do you wish to learn how the Scripture included all things under sin? If so, I will explain it to the best of my ability. The heathen, then, as those who were without God, and destitute of hope, were in this world as men imprisoned in the pitfalls of baseness, and entangled without hope of escape in the cords of sin. On the other hand, the Israelites possessed indeed the law as a schoolmaster: but no man could be justified by its means. For there is no profit to them that are in their sins in an offering by blood. And to this Paul again bears witness, saving; “ For the blood of bulls, and of goats, cannot [[Hebrews 10#^10-4|Heb. x. 4]].
 
 *[p. 198]* ^pg222
 
-2 Cor. iii. 7.
+[[2 Corinthians 03#^3-7|2 Cor. iii. 7]].
 
 Gal. ili, 24.
 
@@ -308,7 +308,7 @@ Gal. ili, 24.
 
 Faith, then, in every way, is the cause of life, as that which slays sin, the mother and nurse of death. Excellently, therefore, said Christ to the ruler of the synagogue of the Jews, when his daughter was dead; “Fear not: only believe, and \* she shall live.”? For, as I said, Christ makes those live who approach Him by faith, in that He is life; ‘‘ for in Him we “live and moye, and are:” and He will raise the dead “ sud- “ denly, in the twinkling of an eye, at the last trump,” as it is written. And having this hope in Him, we shall both attain to the city that is above, and reign as kings with Him; by Whom and with Whom, to God the Father be praise and dominion, with the Holy Ghost, for ever and ever, Amen.
 
-Acts xvii. 28. 1 Cor. xv. 52.
+[[Acts 17#^17-28|Acts xvii. 28]]. [[1 Corinthians 15#^15-52|1 Cor. xv. 52]].
 
 *[p. 199]* ^pg223
 
@@ -332,7 +332,7 @@ The grace then bestowed upon the holy Apostles is worthy of all adiniration ; bu
 
 a little below, it occurs in the same sense as one occupied with or engaged in any religious duty, ‘“ the ministers of the divine preaching.”
 
-See also Rom. xv. 16. And at the end of the sentence “ teachers” in the Greek is puoraywyoi, properly “initiators in the mysteries,” and so applied in the Church originally to such as liad the office of initiating the catechumens; but in process of time it came simply to mean “ to teach :” so Cyril, Glaph. i. in Ex. p. 252. even adds puorypiov, to complete the sense; mapa ris e€ COvayv éexedyotas dekerar Xpisrov 4 tay “lovdaiwy cuvaywyn pvotaywyoupevn Oo en’ aut@ puatnprov.
+See also [[Romans 15#^15-16|Rom. xv. 16]]. And at the end of the sentence “ teachers” in the Greek is puoraywyoi, properly “initiators in the mysteries,” and so applied in the Church originally to such as liad the office of initiating the catechumens; but in process of time it came simply to mean “ to teach :” so Cyril, Glaph. i. in Ex. p. 252. even adds puorypiov, to complete the sense; mapa ris e€ COvayv éexedyotas dekerar Xpisrov 4 tay “lovdaiwy cuvaywyn pvotaywyoupevn Oo en’ aut@ puatnprov.
 
 *[p. 201]* ^pg225
 
@@ -346,7 +346,7 @@ wrought deeds worthy of God, even though He became, as I said, like unto us, and
 
 And that what I say is true, I will endeavour to make quite
 
-certain. For the Saviour, as I said, was rebuking the unclean spirits: but the Pharisees, opening their mouth to deride His glory, had the effrontery to say, “ This man easteth not out Mat. xii.24, “ devils, but by Beelzebub, prince of the devils.””? But the Saviour rebuked them for so speaking, as men prone to mockery, and ill-disposed, and utterly without understanding, thus saying; “If I by Beelzebub cast out devils, by whom do your “sons cast them out? Therefore shall they be your judges.” For the blessed disciples, who were sons of the Jews by their descent according to the flesh, were the terror of Satan and his angels: for they broke their power in the Name of Jesus Christ of Nazareth. And our Lord further said: “ But if I by ‘the Spirit of God cast out devils, then the kingdom of God is ‘come upon you.” For He, as the Only-begotten Son of the Father, and the Word, both was and is omnipotent, and there is nothing that is not easy to Him: but inasmuch as He rebuked evil spirits while He was man, human nature was triumphant in Him, and crowned with godlike glory; for it was capable of rebuking even the evil spirits with power. by Christ’s casting out devils, therefore, the kingdom of God came unto us: for one may affirm that it is the perfection of godlike majesty to be able to beat down Satan in spite of his resistance.
+certain. For the Saviour, as I said, was rebuking the unclean spirits: but the Pharisees, opening their mouth to deride His glory, had the effrontery to say, “ This man easteth not out [[Matthew 12#^12-24|Mat. xii.24]], “ devils, but by Beelzebub, prince of the devils.””? But the Saviour rebuked them for so speaking, as men prone to mockery, and ill-disposed, and utterly without understanding, thus saying; “If I by Beelzebub cast out devils, by whom do your “sons cast them out? Therefore shall they be your judges.” For the blessed disciples, who were sons of the Jews by their descent according to the flesh, were the terror of Satan and his angels: for they broke their power in the Name of Jesus Christ of Nazareth. And our Lord further said: “ But if I by ‘the Spirit of God cast out devils, then the kingdom of God is ‘come upon you.” For He, as the Only-begotten Son of the Father, and the Word, both was and is omnipotent, and there is nothing that is not easy to Him: but inasmuch as He rebuked evil spirits while He was man, human nature was triumphant in Him, and crowned with godlike glory; for it was capable of rebuking even the evil spirits with power. by Christ’s casting out devils, therefore, the kingdom of God came unto us: for one may affirm that it is the perfection of godlike majesty to be able to beat down Satan in spite of his resistance.
 
 pd
 
@@ -376,7 +376,7 @@ Luke xvi.
 
 13\.
 
-Mat. vi. 21.
+[[Matthew 06#^6-21|Mat. vi. 21]].
 
 Luke xii.
 
@@ -414,7 +414,7 @@ Ps. cxxxix.
 
 2\.
 
-Mat. xii. 30.
+[[Matthew 12#^12-30|Mat. xii. 30]].
 
 And next, we must see what this signifies. And it is this:
 
@@ -456,7 +456,7 @@ Ee
 
 *[p. 210]* ^pg234
 
-2Cor. ix. 6.
+[[2 Corinthians 09#^9-6|2Cor. ix. 6]].
 
 Ps. Ixxviii.
 
@@ -488,7 +488,7 @@ Is, xxx. 25.
 
 Joel iii. 18.
 
-John vi. 33.
+[[John 06#^6-33|John vi. 33]].
 
 Qe COMMENTARY UPON
 

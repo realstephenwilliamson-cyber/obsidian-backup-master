@@ -30,7 +30,7 @@ ko bhedo vastuto vahnerdagdhṛpaktṛtvayoriva || ^iast
 > [!source] Dyczkowski, vol. I
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)/Tantraloka Dyczkowski v01 07 - Chapter One, part 6#^pg221|p. 207]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf#page=221>))
 >
-> Just as there is (no difference between) the fire’s (capacity) to burn and cook (and the fire itself always remains one and the same), similarly, what difference is there in actual fact between the forms (vapuṣṣ) of God conceived in various circumstances (fatra tatra) by the (many) perceivers?“"
+> Just as there is (no difference between) the fire’s (capacity) to burn and cook (and the fire itself always remains one and the same), similarly, what difference is there in actual fact between the forms (vapuṣṣ) of God conceived in various circumstances (fatra tatra) by the (many) perceivers?
 
 ## Viveka
 

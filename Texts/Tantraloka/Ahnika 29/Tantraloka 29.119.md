@@ -27,7 +27,7 @@ anavacchinnaṃ dhāma praviśedvaisargikaṃ subhagaḥ |
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#^pg327|p. 310]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=327>))
 >
-> The fortunate one should enter into the unconditioned Abode of Emission by carefully attending (parikathayā) to the coming into being (bhāva) and falling away (vilaya) of the state of tranquillity and emergence (which, for want of better words, are said to be) ‘like this’ and “like that’. (with 29.118cd–119ab)
+> The fortunate one should enter into the unconditioned Abode of Emission by carefully attending (parikathayā) to the coming into being (bhāva) and falling away (vilaya) of the state of tranquillity and emergence (which, for want of better words, are said to be) ‘like this’ and ‘like that’. (with 29.118cd–119ab)
 >
 > Now, the two, tranquil and emergent, arise simultaneously within power and its possessor. (with 29.119cd)
 

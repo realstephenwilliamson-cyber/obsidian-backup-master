@@ -74,7 +74,7 @@ the pattern of Christ. For At the mouth of two or three witnesses shall every wo
 
 It is out of love that the disciple proceeds to make this inquiry, but he clearly does not quite understand our Saviour’s language. For our Lord Jesus Christ promised to His Saints a kind of special knowledge and not like that vouchsafed to others. For the characters of Divine
 
-Ps. Ixxxiv 9. 2 Cor. xiii. 3. 1 Cor, ii. 10 Ibid. 16.
+Ps. Ixxxiv 9. [[2 Corinthians 13#^13-3|2 Cor. xiii. 3]]. 1 Cor, ii. 10 Ibid. 16.
 
 *[p. 327]* ^pg353
 
@@ -112,7 +112,7 @@ Rom. viii.
 
 11\.
 
-Gal. iv. 6.
+[[Galatians 04#^4-6|Gal. iv. 6]].
 
 3380 Lhe Spirit is of the Futher and the Son.
 
@@ -200,7 +200,7 @@ For either after this manner we shall receive the saying, I mean the following�
 
 *[p. 337]* ^pg363
 
-by disobedience to insult the commandment c. xiv.25, given to them, sin against the nature of the Most τὰ Highest. Now it was possible in two ways to confirm the minds of His hearers: for either the wish to honour God would incline them at all events to obedience, or the fear of coming into conflict with Him would also have this effect. For the calculation of what is useful and expedient runs through both methods. And when He says, “It is not My word,” He does not at all put out of our sight the peculiar character which He bears as the Word and God. And, while He still wears His homely shape, and appears and truly is in the guise of manhood, and is really like as we are when He is saying this, He is not willing that His word should be thought merely human, but really Divine and regal ; of necessity merging His character in that of the Father, in order that He might not by sundering Himself admit the conception of two Sons, as the Son is one and the same both before and after His Incarnation. For Christ is one, and not two, as some say: for the Word proceeding from the Supra Father, being God, became flesh according to the saying ! δ of John not by conversion into flesh, but by enshrining His divinity in flesh from the womb of the holy virgin. In order then that we may not think His word is merely human, or divest the Gospel teaching of its Divine character, but may be convinced that it comes from the God Who is over all, appropriately and with great reason, inasmuch as He was then appearing to them in the form of man, He attributes His words to His Divine Nature, as in the character of God the Father, from Whom and in Whom He is by nature as His effulgence and His word and the Express Image of His Person. Heb. i. 3. 25 These things have I spoken unto you, while yet abiding with 26 you. But the Comforter, even the Holy Spirit, Whom the
+by disobedience to insult the commandment c. xiv.25, given to them, sin against the nature of the Most τὰ Highest. Now it was possible in two ways to confirm the minds of His hearers: for either the wish to honour God would incline them at all events to obedience, or the fear of coming into conflict with Him would also have this effect. For the calculation of what is useful and expedient runs through both methods. And when He says, “It is not My word,” He does not at all put out of our sight the peculiar character which He bears as the Word and God. And, while He still wears His homely shape, and appears and truly is in the guise of manhood, and is really like as we are when He is saying this, He is not willing that His word should be thought merely human, but really Divine and regal ; of necessity merging His character in that of the Father, in order that He might not by sundering Himself admit the conception of two Sons, as the Son is one and the same both before and after His Incarnation. For Christ is one, and not two, as some say: for the Word proceeding from the Supra Father, being God, became flesh according to the saying ! δ of John not by conversion into flesh, but by enshrining His divinity in flesh from the womb of the holy virgin. In order then that we may not think His word is merely human, or divest the Gospel teaching of its Divine character, but may be convinced that it comes from the God Who is over all, appropriately and with great reason, inasmuch as He was then appearing to them in the form of man, He attributes His words to His Divine Nature, as in the character of God the Father, from Whom and in Whom He is by nature as His effulgence and His word and the Express Image of His Person. [[Hebrews 01#^1-3|Heb. i. 3]]. 25 These things have I spoken unto you, while yet abiding with 26 you. But the Comforter, even the Holy Spirit, Whom the
 
 Father will send unto you in My Name, He shall teach you all things, and bring to your remembrance all that I said.
 
@@ -315,7 +315,7 @@ right hand, the Psalmist says this. And no one with any sense will say that the 
 
 We have done well to introduce these explanations now, which have an intimate connexion with the present subject. Now taking up again and unfolding from the beginning the whole purpose of our disquisition, I proceed to say that continual converse with our Saviour Christ is sweet and acceptable and pleasant to us, although for our sake He has emptied Himself of His glory, as has been written, and taken the form of a servant and the dishonour of man’s nature. For what is man’s nature as compared with God! Nor was the Incarnation to the advantage of the Son, but to ascend to His Father profited Him more, and to recover His own glory and power and Divine honour in the sight of all, and no longer obscured. For He sat on the right hand by the will of His Father. For He loves Him as His own Offspring and the fruit of His Substance, and therefore He says, If ye loved Me, ye would huve rejoiced because I go wnto the Futher: for the Father is greater. thun I. Surely it was a proof of His Father's love towards Him that He did not sorrow over His seeming abandonment and the compulsory absence that He had taken on Himself, but rather took into consideration that He went to the glory befitting Him, and His due, and to His ancient honour, that is the Godhead manifest. Nay more, the Psalmist, though he speaks mysteries by the Cape, 1. σ. xiv. 28.
 
-Phil. ii. 7.
+[[Philippians 02#^2-7|Phil. ii. 7]].
 
 *[p. 348]* ^pg374
 
@@ -371,7 +371,7 @@ C. xiv. 28.
 
 16,
 
-Gal. i. 1.
+[[Galatians 01#^1-1|Gal. i. 1]].
 
 Phil. iii.
 
@@ -433,7 +433,7 @@ by us and by the holy angels.
 
 A prophecy of the future is manifestly a sure pledge of what the future has in store for us. Christ confirms therefore the heart of His disciples, and seems to inspire in them a firm conviction that He is really ascending to God the Father in the heavens, to reign with Him and share His throne as God, and as God really begotten of Him. For do not, He says, set My departure, which is according to the flesh and an object of sight (for I will be with you as God for ever), on a level with that of the holy prophets. For they, as they passed from the earth and paid the debt of nature, were brought low, and died according to the law of human creatures. But I, Who am the true God, am not measured by the same standard as My creatures awaiting the time of the resurrection. For I live for ever, and I am the True Life. And I will send the Comforter, and I will grant you My peace also, and will not lic; but to the intent that, when you receive the promise and are illumined by the grace of ©. xiv. 29.
 
-Heb. xii. 15.
+[[Hebrews 12#^12-15|Heb. xii. 15]].
 
 Supra ver. 19, Ibid, 26, Bio
 
@@ -519,9 +519,9 @@ xv. 1 Iam the true Vine, and My Father is the Husbandman.
 
 He wishes to show us that it behoves us to love, to hold fast to our love towards Him, and how great a gain we shall have from our union with Him, when He says that He is the Vine, by way of illustration; and that those who are united and fixed and rooted in a manner in Him, and who are already partakers in His nature through their participation in the Holy Spirit are branches ; for it is His Holy Spirit Which has united us with the Saviour Christ, since connexion with the Vine produces a choice of those things which belong to It, and our connexion with It holds us fast. From a firm resolve in goodness we proceed onward by faith, and we become His people, obtaining from Him the dignity of Sonship. For according to the holy Paul, He that is joined unto the Lord is one Spirit. As then in other places He has been called the foundation and coping-stone by the voice of the prophets, for upon Him we are built up, ourselves being the stones, living and CHAP. 2. c. xv. 1.
 
-Acts xvii. 29.
+[[Acts 17#^17-29|Acts xvii. 29]].
 
-1 Cor. vi. 17.
+[[1 Corinthians 06#^6-17|1 Cor. vi. 17]].
 
 158\. Pet. ii. 5.
 

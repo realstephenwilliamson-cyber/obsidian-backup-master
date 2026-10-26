@@ -29,7 +29,7 @@ nanu prātibhato muktau dīkṣayā kiṃ śivādhvare || ^iast
 >
 > The principle of the intellect (buddhitattva) has three qualities, best, inferior and middling (corresponding to sattva, tamas, and rajas). It is also associated with (the yogic powers) to make oneself small at will (anima) and the rest; (in this aspect,) it is a fetter (that binds the soul), and it is (just) an insentient sense organ. (with 13.192cd–193ab)
 >
-> (The goddess asks): “Surely, if one is liberated by means of (this) intuitive (knowledge), what use is initiation into Śiva’s path (adhvara)? (with 13.193cd)
+> (The goddess asks): “Surely, if one is liberated by means of (this) intuitive (knowledge), what use is initiation into Śiva’s path (adhvara)?” (with 13.193cd)
 
 ## Viveka
 

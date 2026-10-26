@@ -20,16 +20,12 @@ nyasa: "da: left foot (*pāda*), twice"
 ## Front
 
 - **Glyph:** द्द
-- **Variation:** —
 - **Example:** उद्दम
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘uddama’ (subduing)
-- **Class (as printed):** —
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: द
-- **Example:** uddama (subduing)
+> [!note]- Back
+> - **Pronunciation:** As in ‘uddama’ (subduing)
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ <u>द</u> ध न / प फ ब भ म / य र ल व / श ष स ह
+> - **Example:** uddama (subduing)
 
 ## Register
 

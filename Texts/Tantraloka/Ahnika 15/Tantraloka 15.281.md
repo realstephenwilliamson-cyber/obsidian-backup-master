@@ -27,7 +27,7 @@ tatphalaṃ koṭiguṇitamanāmātarpaṇātpriye || ^iast
 > [!source] Dyczkowski, vol. VIII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 08 (Dyczkowski)/Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#^pg185|p. 167]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 08.pdf#page=185>))
 >
-> 0 beloved (goddess), the fruit of offering lustration (tarpaṇa) with the ring finger (and thumb of the left hand) is ten million times the spiritual merit of (pilgrimage) to any sacred bathing place (tīrtha) or fruit of any sacrifice.’
+> ‘O beloved (goddess), the fruit of offering lustration (tarpaṇa) with the ring finger (and thumb of the left hand) is ten million times the spiritual merit of (pilgrimage) to any sacred bathing place (tīrtha) or fruit of any sacrifice.’
 
 ## Viveka
 

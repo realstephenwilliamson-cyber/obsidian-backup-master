@@ -11,6 +11,7 @@ second_reading: "Romans 7:15-25a"
 gospel: "Matthew 11:16-19, 25-30"
 first_reading_complementary: "Zechariah 9:9-12"
 psalm_complementary: "Psalm 145:8-14"
+psalm_bcp_complementary: "Psalm 145:8-15"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-9]]"
 cssclasses:

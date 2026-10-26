@@ -11,6 +11,7 @@ second_reading: "Romans 1:16-17; 3:22b-28, (29-31)"
 gospel: "Matthew 7:21-29"
 first_reading_complementary: "Deuteronomy 11:18-21, 26-28"
 psalm_complementary: "Psalm 31:1-5, 19-24"
+psalm_bcp_complementary: "Psalm 31:1-5, 19-24"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-4]]"
 cssclasses:

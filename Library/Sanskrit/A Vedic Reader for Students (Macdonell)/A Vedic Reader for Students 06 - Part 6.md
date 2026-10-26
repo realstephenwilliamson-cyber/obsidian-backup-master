@@ -108,7 +108,7 @@ bhir,
 
 Go forth, go forth by those
 
-ancient paths on which our fathers yátrā nah pūū́rve pitárah pa- of old have passed away. Thou reyúh. shalt see both kings rejoicing in the ubhā rājānā svadháyā mád- offering to the dead, Yama and
+ancient paths on which our fathers yátrā nah pū́rve pitárah pa- of old have passed away. Thou reyúh. shalt see both kings rejoicing in the ubhā rājānā svadháyā mád- offering to the dead, Yama and
 
 antā, Varuna the god.
 
@@ -610,7 +610,7 @@ qau देवैः। सऽरथ॑म्। द्घांनाः।
 
 sádbhih. . Agni.
 
-sa-rátham : this word, primarily a Bv., kaving the same car, is then often used as a cognate acc. (p. 300, 4) with yā = go (on a journey) with the same car (here with dhā in place of yā); then adverbially (p. 301, 5b). dádhānās: pr. pt. À. of dhā put (cp. p. 460, f. n. 3); the pf. pt. A. would be dadhānās (159). sahásram: agreeing with pitfbhis: more usual would be sahásreṇa pitfbhis: cp. 194 B 1b (p. 291); párais : the primary meaning of this word is farther (opposed to nearer ávara, less often úpara, ántara), more remote, then also higher ; there is no opposition here to pūrvais (opposed to which are ávara and úpara), which in any case would be in the reverse order, pūū́rvaih paráih; the meaning is the remote, the early Fathers; cp. vi. 21, 6, párāṇi pratnā remote, ancient deeds opposed to ávarāsas later men.
+sa-rátham : this word, primarily a Bv., kaving the same car, is then often used as a cognate acc. (p. 300, 4) with yā = go (on a journey) with the same car (here with dhā in place of yā); then adverbially (p. 301, 5b). dádhānās: pr. pt. À. of dhā put (cp. p. 460, f. n. 3); the pf. pt. A. would be dadhānās (159). sahásram: agreeing with pitfbhis: more usual would be sahásreṇa pitfbhis: cp. 194 B 1b (p. 291); párais : the primary meaning of this word is farther (opposed to nearer ávara, less often úpara, ántara), more remote, then also higher ; there is no opposition here to pūrvais (opposed to which are ávara and úpara), which in any case would be in the reverse order, pū́rvaih paráih; the meaning is the remote, the early Fathers; cp. vi. 21, 6, párāṇi pratnā remote, ancient deeds opposed to ávarāsas later men.
 
 afara: पितर् एह ea
 
@@ -1108,7 +1108,7 @@ agast । पुरषः ।
 
 sahasrākgṣáh, sahásrapāt.
 
-sá bhūū́mim viśváto vrtvā́, áty atiṣṭhad daśāňṇgulám,
+sá bhū́mim viśváto vrtvā́, áty atiṣṭhad daśāňṇgulám,
 
 o 2 Thousand-headed was Purusa,
 

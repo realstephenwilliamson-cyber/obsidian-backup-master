@@ -103,7 +103,7 @@ If a consecrated animal had one of these blemishes, it is neither sacrificed not
 [^3]: See *Hilchot Bi'at HaMikdash*, ch. 7.
 [^4]: See the gloss of the Radbaz who explains that it appears that the Rambam's intent is not that if these conditions are found in men, they do not disqualify a priest. Instead, the intent is that it is extremely uncommon to find such a condition in a human. Hence they are "not appropriate." Nevertheless, if a priest does have such a condition, it is considered as a blemish and he is disqualified.
 [^5]: If, however, both are small or both are large, this is not considered a blemish. Note the contrast to the blemishes for humans mentioned in *Hilchot Bi'at HaMikdash* 8:6 (*Kessef Mishneh*).
-[^6]: If, however, it does not have a hair, it is not considered as a blemish ([[Bekhorot 40#40b|*Bechorot* 40b]]).
+[^6]: If, however, it does not have a hair, it is not considered as a blemish (*Bechorot* [[Bekhorot 40#40b|40b]]).
 [^7]: Compare to *Hilchot Bi'at HaMikdash* 7:6.
 [^8]: Our translation is taken from the Rambam's Commentary to the Mishnah (*Bechorot* 6:4). There he also suggests an alternate meaning, the animal's teeth.
 [^9]: If, however, their substance was merely reduced, this is not considered as a disqualifying blemish. See Halachah 8 and notes.
@@ -111,13 +111,13 @@ If a consecrated animal had one of these blemishes, it is neither sacrificed not
 [^11]: Compare to Halachah 8.
 [^12]: Similarly, if a male was born without horns, their absence is not considered as a blemish (*Ma'aseh Rokeach*).
 [^13]: I.e., the portion of the female organ that projects outside the body [the Rambam's Commentary to the Mishnah (*Bechorot* 6:5)].
-[^14]: Rashi ([[Bekhorot 39#39b|*Bechorot* 39b]]) explains that the tail of an animal is made up of several vertebrae. If it is severed in the midst of a vertebra, it is considered as a blemish. If, however, if is severed at the joint between one vertebra and another, it is not considered as a blemish.
+[^14]: Rashi (*Bechorot* [[Bekhorot 39#39b|39b]]) explains that the tail of an animal is made up of several vertebrae. If it is severed in the midst of a vertebra, it is considered as a blemish. If, however, if is severed at the joint between one vertebra and another, it is not considered as a blemish.
 [^15]: The commentaries refer to *Hilchot Bi'at HaMikdash* 7:11 which states: "Whenever there is a groove made in any bone that is apparent, it is considered a blemish. It is included in the category *charutz* mentioned in the Torah." The tail is considered such a limb; the ribs are not.
 [^16]: See the parallel to *Hilchot Shechitah* 8:11.
 [^17]: [[Torah 31 - Emor#^22-23|Leviticus 22:23]].
 [^18]: The 23 mentioned here and the 50 mentioned in *Hilchot Bi'at HaMikdash*, ch. 7.
 [^19]: These blemishes are mentioned in *Hilchot Bi'at HaMikdash* 7:12-13.
-[^20]: Rashi ([[Bekhorot 41#41b|*Bechorot* 41b]]) states: "Because these are not absolute blemishes."
+[^20]: Rashi (*Bechorot* [[Bekhorot 41#41b|41b]]) states: "Because these are not absolute blemishes."
 [^21]: Which would disqualify it in its own right.
 [^22]: Because as of yet, it is not permanently disqualified as a sacrifice.
 [^23]: Because in its present state, it is not fit for sacrifice.
@@ -154,7 +154,7 @@ If a consecrated animal had one of these blemishes, it is neither sacrificed not
 [^53]: Eating these grasses is a natural cure for this malady. See the Rambam's Commentary to the Mishnah (*Bechorot* 6:3).
 [^54]: Needless to say, eating more increases the therapeutic value.
 [^55]: I.e., the two month and a half periods.
-[^56]: All of these aspects of the animal's treatment are discussed by our Sages ([[Bekhorot 39#39a|*Bechorot* 39a]]). If the treatment was not administered correctly, it is possible that the blemish is not permanent and could be healed through proper treatment.
+[^56]: All of these aspects of the animal's treatment are discussed by our Sages (*Bechorot* [[Bekhorot 39#39a|39a]]). If the treatment was not administered correctly, it is possible that the blemish is not permanent and could be healed through proper treatment.
 [^57]: For even if the blemish is merely temporary, it is, nevertheless, unfit to be sacrificed.
 [^58]: For until it is established that the blemish is permanent, the animal cannot be redeemed.
 [^59]: But not at the appropriate time of year.

@@ -500,7 +500,7 @@ of Him? yea and the righteous Symeon too, prophesying the mystery of Christ, say
 
 » Bub” (says he) ,, God the Father will in nothing wrong »» the nature of the angels, if He do not please to honour it »,inthe same degree asthe Son. For variety in the creation, ,, or the apportioning glory in befitting degree to each, in no »» Wise argues that God is unjust, since how then should wz », be less than the angels, albeit we confess that God is » Righteous? What then we are in respect of the angels, ,, that are the angels too in respect of the Son; for they » yield as to one better than they, the being in greater .» honour than themselves be.”
 
-But, most excellent sir, shall we reply, shaming the unlearned heretic, if even though we be remote from the glory of the angels, since we come short of the piety too that is inherent in them and though there be much variety in the creation and diversity, and superiority in honour or inferiority according to the will of Him Who made them, yet is the being created common to all, and in this there is nought at all that surpasseth or cometh short of other. For that an angel should excel a man in honour and glory is nought Crap. 4. 6. viii. 23, S. Luke ii. 34.
+But, most excellent sir, shall we reply, shaming the unlearned heretic, if even though we be remote from the glory of the angels, since we come short of the piety too that is inherent in them and though there be much variety in the creation and diversity, and superiority in honour or inferiority according to the will of Him Who made them, yet is the being created common to all, and in this there is nought at all that surpasseth or cometh short of other. For that an angel should excel a man in honour and glory is nought Crap. 4. 6. viii. 23, S. [[Luke 02#^2-34|Luke ii. 34]].
 
 *[p. 590]* ^pg654
 
@@ -516,7 +516,7 @@ Ib. xiv.
 
 14,
 
-S. Luke x. 18.
+S. [[Luke 10#^10-18|Luke x. 18]].
 
 wonderful, or an archangel too an angel; but the power of mounting up to the glory of Him Who made all things, we shall find to accrue to no one of creatures: for not any of the things that have been made will be God, nor will the bond be equal in honour with the Lord, co-sitting with Him and co-reigning. What measure then of honour will there be to the Son? being according to you originate and of the spiritual world, will He have God-befitting Dignity ? how will that which is connatural with the creation mount up to the same glory as He Who is by Nature God, albeit God saith, My Glory will I not give to another? what (tell me) put the devil forth of the heavenly halls? was it the thirsting for honour which beseemed the originate nature, yet better and greater than the measure which accrued to him, and was it in this that the nature of his crimes lay ? or was it that he dared to say, I will be like the Most High ? For the creature pictured to itself that it could mount up to the Nature of its Maker and be co-throned with God Who has the power over all. Wherefore he hath also fallen as lightning, as it is written, from heaven. But THOU springing heedlessly upon things so insecure, accountst it nothing that the Son being according to you of some world, and consequently parcel of the creation, should be called by way of honour by God the Father to sit with Him, though Hs-sence in no wise bestow upon Him this nor call Him to Dignity befitting and due to it. For He receives, if it be as YE in your babbling say, things above the creature in the way of favour. Away with such blasphemy, man, for we will not be thus minded, may God avert it! For we believe that angels and archangels and those in yet higher place than they, are diversely honoured by the Authority and Counsel of the All-wise God, Who allots to each of the things that are a just Decree: but as to the Son by Nature, we will not imagine that He is so, for no glory by way of favour and imported hath He, but since He is of the Hssence of God the Father, Very God of God by Nature and Very, He is co-throned and co-seated with Him, having all things under His Feet as God, and of the Father with the Fa-
 
@@ -644,7 +644,7 @@ The Spirit-clad is astonishment-stricken at the senselessness of the Jews, and w
 
 © γένους, the people of Israel, con- a little before, ver. 17: so in Rom. xv.
 
-trasted with ἐθνῶν, the Gentiles, like τῷ 10, Rejoice ye Gentiles with His people. λαῷ is with ἔθνεσι in Acts xxvi. 23, and
+trasted with ἐθνῶν, the Gentiles, like τῷ 10, Rejoice ye Gentiles with His people. λαῷ is with ἔθνεσι in [[Acts 26#^26-23|Acts xxvi. 23]], and
 
 *[p. 600]* ^pg664
 
@@ -698,4 +698,4 @@ Christ spent long time dwelling with the Jews, and speaking in every synagogue, 
 
 1\. ἀθεεὶ
 
-2\. τῶν ἀπεύκτων Rom. ii. 4, 5. 1S. Cyril transposes the words Cover phet Hosea (x. 8.1 us and Fall on us again in the last Book ® Cf. Jer. xi. 15, Isa. v. 1, and of Ben-of this commentary and also onthe Pro- jamin, Deut. xxxiii. 12.
+2\. τῶν ἀπεύκτων [[Romans 02#^2-4|Rom. ii. 4]], [[Romans 02#^2-5|5]]. 1S. Cyril transposes the words Cover phet Hosea (x. 8.1 us and Fall on us again in the last Book ® Cf. Jer. xi. 15, Isa. v. 1, and of Ben-of this commentary and also onthe Pro- jamin, Deut. xxxiii. 12.

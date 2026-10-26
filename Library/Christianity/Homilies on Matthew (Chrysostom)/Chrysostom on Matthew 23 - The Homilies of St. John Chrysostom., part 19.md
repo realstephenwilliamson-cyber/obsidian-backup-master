@@ -28,7 +28,7 @@ But they, neither by the multitude, nor by what had been said, were brought to a
 
 3\. For nothing so urges men headlong and drives them down precipices, nothing so makes them fail of the things to come, as their being riveted to these decaying things. Nothing so surely makes them enjoy both the one and the other, as their esteeming the things to come above all. For, “Seek ye,” saith Christ, “the kingdom of God, and all these things shall be added unto you.”<sup>2582</sup> And indeed, even if this were not joined, not even in that case ought we to aim at them. But now in obtaining the others, we may obtain these
 
-2580 \[John vii. 25, 26.\] Gr. οκονομα, *i.e*., the verity of the Incarnation. 2581 Matt. vi. 33. \[“first” is omitted; inserted by the Oxford translator against the Greek text.—R.\]
+2580 \[[[John 07#^7-25|John vii. 25]], [[John 07#^7-26|26]].\] Gr. οκονομα, *i.e*., the verity of the Incarnation. 2581 [[Matthew 06#^6-33|Matt. vi. 33]]. \[“first” is omitted; inserted by the Oxford translator against the Greek text.—R.\]
 
 
 *[p. 725]* ^pg733
@@ -63,7 +63,7 @@ After this, when they have risen up and finished those holy and continual prayer
 
 4\. Where now are they who give themselves to devilish choirs, and harlot’s songs, and sit in theatres? For I am indeed ashamed to make mention of them; nevertheless, because of your infirmity it is needful to do even this. For Paul too saith, “Like as ye have yielded your members servants to uncleanness, even so now yield your members servants to righteousness unto holiness.”<sup>2585</sup>
 
-2583 “For all Thy goodness and loving kindness *to us, and to all men.*” Thanksgiving Prayer. See the Morning Thanksgiving; Const. Apost. viii. 38, and The Eucharistic Prayer, ib. c. 12. 2584 \[Luke ii. 14, as in the received text. But “among men” is the only possible rendering, whichever reading he accepted.—R.\] Rom. vi. 19. \[R.V., “sanctification.”\] 401 2586 \[“by the tongues of those;” there being a contrast in the Greek, which is obscured in the English rendering.—R.\]
+2583 “For all Thy goodness and loving kindness *to us, and to all men.*” Thanksgiving Prayer. See the Morning Thanksgiving; Const. Apost. viii. 38, and The Eucharistic Prayer, ib. c. 12. 2584 \[[[Luke 02#^2-14|Luke ii. 14]], as in the received text. But “among men” is the only possible rendering, whichever reading he accepted.—R.\] [[Romans 06#^6-19|Rom. vi. 19]]. \[R.V., “sanctification.”\] 401 2586 \[“by the tongues of those;” there being a contrast in the Greek, which is obscured in the English rendering.—R.\]
 
 
 *[p. 727]* ^pg735
@@ -108,7 +108,7 @@ Be not thoughtful then about thine interests, but leave them to God. For if thou
 
 2588 Ps. cxl. 3 and v. 9. 2589 1 Kings xix. 20.
 
-2590 Matt. viii. 21–22. 2591 Ecclus. v. 7.
+2590 [[Matthew 08#^8-21|Matt. viii. 21–22]]. 2591 Ecclus. v. 7.
 
 
 *[p. 730]* ^pg738
@@ -158,7 +158,7 @@ For since on seeing the Son, they were wroth and slew Him, He bids them again by
 
 2596 2 Cor. xi. 2. 2597 Eph. v. 32. ἀπαρλλακτον . 2598 2599 John iii. 30.
 
-2600 Matt. xi. 28. \[“Refresh” is the rendering of the Greek term answering to “give rest” in the English versions.—R.\] 2601 John vii. 37. 2602 Gal. ii. 8. \[R.V., “wrought for” twice; the Greek verb is the same in both clauses.—R.\] πση πανδαισα.
+2600 [[Matthew 11#^11-28|Matt. xi. 28]]. \[“Refresh” is the rendering of the Greek term answering to “give rest” in the English versions.—R.\] 2601 [[John 07#^7-37|John vii. 37]]. 2602 [[Galatians 02#^2-8|Gal. ii. 8]]. \[R.V., “wrought for” twice; the Greek verb is the same in both clauses.—R.\] πση πανδαισα.
 
 
 *[p. 733]* ^pg741
@@ -185,7 +185,7 @@ Seest thou the truth of the event, and its quickness? For while John was yet liv
 
 See then care utterable. He had planted a vineyard; He had done all things, and finished; when His servants had been put to death, He sent other servants; when those had been slain, He sent the son; and when He was put to death, He bids them to the marriage. They would not come. After this He sends other servants, and they slew these also.
 
-1 Thess. ii. 15. \[R.V., “and drove out us.”\]
+[[1 Thessalonians 02#^2-15|1 Thess. ii. 15]]. \[R.V., “and drove out us.”\]
 
 *[p. 734]* ^pg742
 
@@ -201,7 +201,7 @@ He knew this indeed even before, but that He might leave them no pretext of a sh
 
 Since then they were not worthy, go ye, saith He, into the highways, and as many as ye shall find, bid; both the common sort, and the outcasts. For because He had said in every
 
-2605 Matt. xxviii. 19. 2606 Matt. x. 6. 2607 Acts i. 8. 2608 Gal. ii. 8. \[Comp. note 7, p. 421.\] Acts xiii. 46. \[Slightly abridged.\]
+2605 [[Matthew 28#^28-19|Matt. xxviii. 19]]. 2606 [[Matthew 10#^10-6|Matt. x. 6]]. 2607 [[Acts 01#^1-8|Acts i. 8]]. 2608 [[Galatians 02#^2-8|Gal. ii. 8]]. \[Comp. note 7, p. 421.\] [[Acts 13#^13-46|Acts xiii. 46]]. \[Slightly abridged.\]
 
 
 *[p. 735]* ^pg743
@@ -224,7 +224,7 @@ Hear ye, as many as having partaken of the mysteries, and having been present at
 
 From the highway. Being what? Lame and halt in soul, which is a much more grievous thing than the mutilation of the body. Reverence the love of Him, who called you, and let no one continue to have filthy garments, but let each of you busy himself about the clothing of your soul.
 
-2610 Or, “repeatedly.” 2611 Rom. xv. 9.
+2610 Or, “repeatedly.” 2611 [[Romans 15#^15-9|Rom. xv. 9]].
 
 
 *[p. 736]* ^pg744
@@ -327,7 +327,7 @@ And in either way indeed they expected to lay hold of Him; but they desired rath
 
 But the result was altogether opposite; for in a larger body of spectators they afforded the demonstration of their folly.
 
-2617 Matt. xxii. 16, 17. 2618 Acts v. 36, 37.
+2617 [[Matthew 22#^22-16|Matt. xxii. 16]], [[Matthew 22#^22-17|17]]. 2618 [[Acts 05#^5-36|Acts v. 36]], [[Acts 05#^5-37|37]].
 
 
 *[p. 742]* ^pg750
@@ -346,7 +346,7 @@ What then saith He? “Why tempt ye me, ye hypocrites?” Seest thou how He talk
 
 And these things He did, repulsing their wickedness, so that they might not suffer hurt in attempting the same things again. And yet their words were full of much respect, for they both called Him Master, and bore witness to His truth, and that He was no respecter of persons; but being God, He was deceived by none of these things. Wherefore they also ought
 
-2620 John vii. 12; viii. 48; ix. 16. 2621 Matt. xxi. 23. Mark xii. 15.
+2620 [[John 07#^7-12|John vii. 12]]; [[John 08#^8-48|viii. 48]]; [[John 09#^9-16|ix. 16]]. 2621 [[Matthew 21#^21-23|Matt. xxi. 23]]. [[Mark 12#^12-15|Mark xii. 15]].
 
 
 *[p. 743]* ^pg751
@@ -365,7 +365,7 @@ What then? did they believe? By no means, but they “left Him, and went their w
 
 O folly! When the others had been put to silence, these made the attack, when they ought to have been the more backward. But such is the nature of rashness, shameless, and importunate, and attempting things impossible. Therefore the evangelist also, amazed at their folly, signified this very thing, by saying, “On that day came to Him.”<sup>2625</sup> On that day. On what day? In which He had convicted their craftiness, and put them to shame. But who
 
-2623 Matt. xxii. 20, 21. \[Abridged.\] 2624 Rom. xiii. 7. 2625 Matt. xxii. 22, 23. \[The article may not form part of the citation. It does not occur in the New Testament passage.—R.\]
+2623 [[Matthew 22#^22-20|Matt. xxii. 20]], [[Matthew 22#^22-21|21]]. \[Abridged.\] 2624 [[Romans 13#^13-7|Rom. xiii. 7]]. 2625 [[Matthew 22#^22-22|Matt. xxii. 22]], [[Matthew 22#^22-23|23]]. \[The article may not form part of the citation. It does not occur in the New Testament passage.—R.\]
 
 
 *[p. 744]* ^pg752
@@ -384,7 +384,7 @@ And wherefore did they not feign two or three, but seven? In order the more abun
 
 What then saith Christ? He replies unto both, as taking His stand not against the words, but the purpose, and on every occasion revealing the secrets of their hearts; and at one time exposing them, at another time leaving the refutation of them that question Him to their
 
-2626 Acts xxiii. 8. 2627 Acts xxiii. 6, and xxvi. 5. 2628 \[R.V., “seed.”\] 2629 Matt. xxii. 24–28. \[With the trifling variations the Greek of these verses agrees with the received text.—R.\] 411
+2626 [[Acts 23#^23-8|Acts xxiii. 8]]. 2627 [[Acts 23#^23-6|Acts xxiii. 6]], and [[Acts 26#^26-5|xxvi. 5]]. 2628 \[R.V., “seed.”\] 2629 [[Matthew 22#^22-24|Matt. xxii. 24–28]]. \[With the trifling variations the Greek of these verses agrees with the received text.—R.\] 411
 
 
 *[p. 745]* ^pg753
@@ -401,7 +401,7 @@ And by these words He declared how great a thing the resurrection is; and that m
 
 And again by Moses doth He stop their mouths, since they too had brought forward Moses; and He saith, “But as touching the resurrection of the dead, have ye not read, I am the God of Abraham, and the God of Isaac, and the God of Jacob? He is not the God of the dead, but of the living.”<sup>2634</sup> Not of them that are not His meaning is, and that are utterly
 
-2630 Matt. xxii. 29. 2631 Matt. xxii. 30. \[The second verb is peculiar, but conveys the same sense as the received text.—R.\] 2632 Luke xx. 36. 2633 1 Cor. vii. 31. 2634 Matt. xxii. 31, 32. \[In the last clause the text differs from the received, ὁ θε being omitted (so Tischendorf). The R.V. follows a slightly different reading: “God is not the God,” etc.—R.\]
+2630 [[Matthew 22#^22-29|Matt. xxii. 29]]. 2631 [[Matthew 22#^22-30|Matt. xxii. 30]]. \[The second verb is peculiar, but conveys the same sense as the received text.—R.\] 2632 [[Luke 20#^20-36|Luke xx. 36]]. 2633 [[1 Corinthians 07#^7-31|1 Cor. vii. 31]]. 2634 [[Matthew 22#^22-31|Matt. xxii. 31]], [[Matthew 22#^22-32|32]]. \[In the last clause the text differs from the received, ὁ θε being omitted (so Tischendorf). The R.V. follows a slightly different reading: “God is not the God,” etc.—R.\]
 
 
 *[p. 746]* ^pg754
@@ -420,7 +420,7 @@ And if thou art able to observe, come and stretch forth thy hand to me, and let 
 
 Seest thou a multitude of dead lying there, slain by the sword of the Spirit? Therefore in that place is no drunkenness nor gluttony. And their table proves it, and the trophy that is set thereon. For drunkenness and gluttony lie dead, put to the rout by the drinking of water, though this be multiform, and a many-headed monster. For like as in the fabled Scylla and Hydra, so in drunkenness may one see many heads, on one side fornication growing up, on another wrath; on one hand sloth, on another lawless lusts; but all these things are taken away. And yet all those other armies, though they get the better in ten thousand wars,
 
-2635 Rom. xiv. 9. 2636 Matt. viii. 22. 2637 Matt. xxii. 33. Gal. v. 24.
+2635 [[Romans 14#^14-9|Rom. xiv. 9]]. 2636 [[Matthew 08#^8-22|Matt. viii. 22]]. 2637 [[Matthew 22#^22-33|Matt. xxii. 33]]. [[Galatians 05#^5-24|Gal. v. 24]].
 
 
 *[p. 747]* ^pg755
@@ -483,7 +483,7 @@ But His commandments, and the sum of them, are, “Thou shalt love the Lord thy 
 
 ἐπαγωνζονται το προτροι.
 
-2641 2642 \[R.V., following a different reading, “great and first.”\] 2643 \[The text varies from the received slightly, as well as from the reading accepted in the R.V.—R.\] 2644 Matt. xxii. 37–39. 2645 John iii. 20. 2646 Ps. liii. 1. 2647 1 Tim. vi. 10. 2648 John xiv. 15. \[The paraphrase given above confirms the rendering of the R.V., “If ye love me, ye will keep my commandments.”—R.\]
+2641 2642 \[R.V., following a different reading, “great and first.”\] 2643 \[The text varies from the received slightly, as well as from the reading accepted in the R.V.—R.\] 2644 [[Matthew 22#^22-37|Matt. xxii. 37–39]]. 2645 [[John 03#^3-20|John iii. 20]]. 2646 Ps. liii. 1. 2647 [[1 Timothy 06#^6-10|1 Tim. vi. 10]]. 2648 [[John 14#^14-15|John xiv. 15]]. \[The paraphrase given above confirms the rendering of the R.V., “If ye love me, ye will keep my commandments.”—R.\]
 
 
 *[p. 751]* ^pg759
@@ -504,7 +504,7 @@ Not excepting Himself from being God; away with the thought; but since it was no
 
 And besides, the saying, “There is one God, and there is none other but He,” both in the Old Testament and everywhere, is spoken not to the rejection of the Son, but to make the distinction from idols. So that when praising this man also, who had thus spoken, He praises him in this mind.
 
-2650 Matt. xxii. 40. 2651 1 Cor. xiii. 4. Mark xii. 34.
+2650 [[Matthew 22#^22-40|Matt. xxii. 40]]. 2651 [[1 Corinthians 13#^13-4|1 Cor. xiii. 4]]. [[Mark 12#^12-34|Mark xii. 34]].
 
 
 *[p. 752]* ^pg760
@@ -523,7 +523,7 @@ And not even at this doth He stop, but in order to move them to fear, He adds wh
 
 And that they may not say, that it was in flattery he so called Him, and that this was a human judgment, see what He saith, “How then doth David in spirit call Him Lord?” See how submissively He introduces the sentence and judgment concerning Himself. First, He had said, “What think ye? Whose Son is He?” so by a question to bring them to an answer. Then since they said, “the Son of David,” He said not, “And yet David saith these things,”
 
-2653 Matt. xxii. 42. \[R.V., “the Christ.”\] 2654 It may be in this view that it is said of St. Paul, immediately on his conversion, that “he preached Christ in the synagogues, that He is the Son of God.” Acts ix. 20. 2655 Matt. xxii. 43. \[The form is that of the received text. R.V., following strongly preponderant authority, “underneath thy feet.”—R.\]
+2653 [[Matthew 22#^22-42|Matt. xxii. 42]]. \[R.V., “the Christ.”\] 2654 It may be in this view that it is said of St. Paul, immediately on his conversion, that “he preached Christ in the synagogues, that He is the Son of God.” [[Acts 09#^9-20|Acts ix. 20]]. 2655 [[Matthew 22#^22-43|Matt. xxii. 43]]. \[The form is that of the received text. R.V., following strongly preponderant authority, “underneath thy feet.”—R.\]
 
 
 *[p. 753]* ^pg761
@@ -540,7 +540,7 @@ But mark thou also, I pray thee, how seasonable it is. For when He had said, “
 
 For they were silent from thenceforth, not willingly, but from their having nothing to say; and they received so deadly a blow, as no longer to dare to attempt the same things any more. For, “no one,” it is said, “durst from that day forth ask Him any more questions.”<sup>2660</sup>
 
-2656 Acts ii. 29. 2657 Matt. xxii. 44. 2658 Matt. xxii. 45. 2659 For being unwilling to admit what belonged to His Humanity; Matt. xvi. 22, 23. 416
+2656 [[Acts 02#^2-29|Acts ii. 29]]. 2657 [[Matthew 22#^22-44|Matt. xxii. 44]]. 2658 [[Matthew 22#^22-45|Matt. xxii. 45]]. 2659 For being unwilling to admit what belonged to His Humanity; [[Matthew 16#^16-22|Matt. xvi. 22]], [[Matthew 16#^16-23|23]]. 416
 
 
 *[p. 754]* ^pg762
@@ -559,7 +559,7 @@ To me at least it seems well; for exceedingly do I love this thing, and am paine
 
 Come now, then, let us take our aim against these; and let there be an almsgiving made in abundance for display to the multitude. Surely then, first vainglory leads her out of her Father’s chamber. And whereas her Father requires not to appear so much as to the left hand,<sup>2663</sup>she displays her to the slaves, and to the vulgar, that have not even known her.
 
-2661 See the parallel place, Mark xii. 37, where it is added, “The common people heard Him gladly.” \[R.V., margin, “or, the great multitude,” etc.\] πλεκτνα. 2662
+2661 See the parallel place, [[Mark 12#^12-37|Mark xii. 37]], where it is added, “The common people heard Him gladly.” \[R.V., margin, “or, the great multitude,” etc.\] πλεκτνα. 2662
 
 
 *[p. 755]* ^pg763
@@ -640,7 +640,7 @@ And together with these He mentions also another charge against them, that they 
 
 “For they bind heavy burdens, and grievous to be borne, and lay them on men’s shoulders, but they will not move them with their finger.”<sup>2668</sup> He mentions here a twofold
 
-Matt. xxiii. 4. \[“For,” as in rec. text.\]
+[[Matthew 23#^23-4|Matt. xxiii. 4]]. \[“For,” as in rec. text.\]
 
 *[p. 760]* ^pg768
 
@@ -658,9 +658,9 @@ Then, having blamed them for vainglory, He shows that it is not even about great
 
 And what are these phylacteries, and these borders? Since they were continually forgetting God’s benefits, He commanded His marvellous works to be inscribed on little tablets, and that these should be suspended from their hands (wherefore also He said, “They shall be immoveable in thine eyes”),<sup>2671</sup>which they called phylacteries; as many of our women now
 
-2669 Matt. xxiii. 5.
+2669 [[Matthew 23#^23-5|Matt. xxiii. 5]].
 
-2670 Matt. xxiii. 5. Deut. vi. 8; so LXX. A.V. “as frontlets between.” 420 2672 Numb. xv. 38, 39. \[The passage is freely given from the LXX.\] 2673 \[R.V., “the chief place.”\] 2674 \[With the oldest New Testament mss. the word “Rabbi” is not repeated.—R.\] 2675 This passage has afforded grounds for a conjecture as to the date of the Homily, but the language is too general to prove anything; see Montfaucon’s Preface.
+2670 [[Matthew 23#^23-5|Matt. xxiii. 5]]. Deut. vi. 8; so LXX. A.V. “as frontlets between.” 420 2672 Numb. xv. 38, 39. \[The passage is freely given from the LXX.\] 2673 \[R.V., “the chief place.”\] 2674 \[With the oldest New Testament mss. the word “Rabbi” is not repeated.—R.\] 2675 This passage has afforded grounds for a conjecture as to the date of the Homily, but the language is too general to prove anything; see Montfaucon’s Preface.
 
 
 *[p. 761]* ^pg769
@@ -693,9 +693,9 @@ Having warned them therefore against this grievous pest, and amended them, He in
 
 For nothing is equal to the practice of modesty, wherefore He is continually reminding them of this virtue, both when He brought the children into the midst, and now. And, when
 
-2676 Matt. xxiii. 8. 2677 1 Cor. iii. 5. 2678 Matt. xxiii. 9. Matt. xxiii. 10. \[The word καθηγητς is rendered “Master” in our English versions, but “guide” is more 2679 literal; “the Christ” (R.V.), is preferable, especially in view of the context here.—R.\]
+2676 [[Matthew 23#^23-8|Matt. xxiii. 8]]. 2677 [[1 Corinthians 03#^3-5|1 Cor. iii. 5]]. 2678 [[Matthew 23#^23-9|Matt. xxiii. 9]]. [[Matthew 23#^23-10|Matt. xxiii. 10]]. \[The word καθηγητς is rendered “Master” in our English versions, but “guide” is more 2679 literal; “the Christ” (R.V.), is preferable, especially in view of the context here.—R.\]
 
-2680 Matt. xxii. 42. \[R.V., “the Christ.”\] Matt. xxiii. 11, 12. \[R.V., “humbled,” and “humble.” The A.V. here uses both “abase” and “humble.”—R.\]
+2680 [[Matthew 22#^22-42|Matt. xxii. 42]]. \[R.V., “the Christ.”\] [[Matthew 23#^23-11|Matt. xxiii. 11]], [[Matthew 23#^23-12|12]]. \[R.V., “humbled,” and “humble.” The A.V. here uses both “abase” and “humble.”—R.\]
 
 
 *[p. 763]* ^pg771

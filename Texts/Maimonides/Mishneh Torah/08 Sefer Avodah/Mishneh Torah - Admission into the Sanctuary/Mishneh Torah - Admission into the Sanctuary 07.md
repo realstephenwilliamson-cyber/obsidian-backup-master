@@ -122,7 +122,7 @@ A *treifah*[^31] is acceptable among humans, but is disqualified among animals.[
 **13.** c) One who is foul-smelling. A priest who has a foul-smelling odor because of sweat may wash and rub perfume on his flesh and serve. If he has a foul odor emanating from his mouth, he may put pepper, ginger, or the like in his mouth and serve. If, however, he serves while his body is foul-smelling due to sweat or he had bad breath, he desecrates his service like one who has any of the other blemishes. ^7-13
 
 [^1]: I.e., its substance has been diminished.
-[^2]: I.e., if one would run his nail over the lobe of this person's ear, like one runs his nail over a ritual slaughterer's knife, the progress of his nail would be held back by the blemish. See Rashi, [[Bekhorot 37#37b|*Bechorot* 37b]].
+[^2]: I.e., if one would run his nail over the lobe of this person's ear, like one runs his nail over a ritual slaughterer's knife, the progress of his nail would be held back by the blemish. See Rashi, *Bechorot* [[Bekhorot 37#37b|37b]].
 [^3]: A small bean about the size of a lentil (*ibid.*).
 [^4]: I.e., it appears as if he has two ears, one inside the other.
 [^5]: Although the Rambam's version of the source for this ruling, *Bechorot* 6:9 differs from the standard printed text of the Mishnah, the interpretation of both versions is the same.
@@ -136,7 +136,7 @@ A *treifah*[^31] is acceptable among humans, but is disqualified among animals.[
 [^13]: Due to a retinal infection (*ibid.*:2).
 [^14]: If, however, the cartilage between the nostrils is perforated and it is not visible externally, it is not considered as a blemish [the Rambam's Commentary to the Mishnah (*Bechorot* 6:4)].
 [^15]: Because the swelling comes from an external factor.
-[^16]: Our translation is taken from Rashi's commentary ([[Bekhorot 40#40a|*Bechorot* 40a]]).
+[^16]: Our translation is taken from Rashi's commentary (*Bechorot* [[Bekhorot 40#40a|40a]]).
 [^17]: This is the meaning of the term *miruach eshef* in [[Torah 31 - Emor#^21-20|Leviticus 21:20]].
 [^18]: This refers to the inner sacs within the larger scrotum.
 [^19]: More details regarding the individuals in the latter two categories are found in *Hilchot Ishut* 2:25-26; *Hilchot Nizirut* 2:11; *et al*. See also *Hilchot Issurei Mizbeiach* 3:3.
@@ -148,7 +148,7 @@ A *treifah*[^31] is acceptable among humans, but is disqualified among animals.[
 [^25]: [[Torah 31 - Emor#^22-22|Leviticus 22:22]].
 [^26]: A moist skin eruption reminiscent of the boils visited upon the Egyptians in the Ten Plagues. Its external layer is moist, but its internal layer is dry and it is also very distasteful in appearance.
 [^27]: [[Torah 31 - Emor#^21-20|Leviticus 21:20]].
-[^28]: E.g., an arm or a leg ([[Bekhorot 40#40b|*Bechorot* 40b]]).
+[^28]: E.g., an arm or a leg (*Bechorot* [[Bekhorot 40#40b|40b]]).
 [^29]: [[Torah 31 - Emor#^22-22|Leviticus 22:22]].
 [^30]: The laws pertaining to animals with these three blemishes are slightly different than those pertaining to animals with other blemishes. See *Hilchot Issurei Mizbeiach* 2:6.
 [^31]: A man or an animal that has a physical infirmity that will cause him to die within twelve months. See Chapter 6, Halachah 7.

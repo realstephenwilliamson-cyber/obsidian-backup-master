@@ -62,7 +62,7 @@ Community 34:
 
 The Leningrad Codex 44 Department of Manuscripts, National Library of Russia
 
-Copy of Samuel, preserving 1 Samuel 10-11 48 Israel Antiquities Authority
+Copy of Samuel, preserving [[I Samuel 10#^10-1|1 Samuel 10]]-11 48 Israel Antiquities Authority
 
 Fragment of
 

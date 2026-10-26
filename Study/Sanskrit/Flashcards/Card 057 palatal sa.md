@@ -20,16 +20,13 @@ nyasa: "bone (*asthi*)"
 ## Front
 
 - **Glyph:** श
-- **Variation:** a variant form, drawn only as a numbered stroke diagram (not copied here)
 - **Example:** शक्ति
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** [ As in ‘<u>sh</u>ut’ ]
-- **Class (as printed):** 2 (palatal) · hard · sibilant
-- **Grid:** two rows, य र ल व and श ष स ह; in bold: श
-- **Example:** śakti (power)
+> [!note]- Back
+> - **Pronunciation:** [ As in ‘<u>sh</u>ut’ ]
+> - **Class:** palatal · hard · sibilant
+> - य र ल व / <u>श</u> ष स ह
+> - **Example:** śakti (power)
 
 ## Register
 

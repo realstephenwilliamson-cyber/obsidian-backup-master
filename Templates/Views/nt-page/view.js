@@ -22,7 +22,7 @@ const opt = Object.assign({}, typeof input === "undefined" || !input ? {} : inpu
 const MC = app.metadataCache, V = app.vault;
 const NT_DIR = "Texts/Bible/New Testament/", NRSV_DIR = "Texts/Bible/NRSVue/", DRB_DIR = "Texts/Bible/Douay-Rheims/";
 const JANT_DIR = "Texts/Bible/Jewish Annotated New Testament/Annotations/", LEX_DIR = "Library/Lexicons/Greek NT/";
-const TABLE = "Texts/Crosswalks/Synoptic parallels.md", READER = "Texts/Bible/Synoptic reader.md";
+const TABLE = "Texts/Crosswalks/Synoptic parallels.md", READER = MC.getFirstLinkpathDest("Synoptic View", "")?.path || "Synoptic View.md"; // found by name (26 Oct 2026), so the note can move
 const GLOSS_DIRS = ["Journal/", "Study/", "Projects/", "Notes/"];
 const DEFAULT = "Matthew 5:1", MAXV = 30;
 
@@ -368,9 +368,9 @@ const draw = async (want, tr, greek, notices) => {
     if (!rows.length) pb.createDiv({ cls: "nt-empty", text: "No row of the Synoptic parallels table holds these verses." });
     for (const r of rows) {
       md(pb, `**${r.title}** (row ${r.id})${r.others.length ? "<br>" + r.others.map(x => x[1]).join("<br>") : ""}`, "nt-item");
-      const b = pb.createEl("button", { cls: "nt-small", text: "Side by side", attr: { type: "button", "aria-label": `Open row ${r.id} in the Synoptic reader` } });
+      const b = pb.createEl("button", { cls: "nt-small", text: "Side by side", attr: { type: "button", "aria-label": `Open row ${r.id} in the Synoptic View` } });
       b.addEventListener("click", async () => {
-        try { const rf = V.getAbstractFileByPath(READER); if (!rf) throw new Error("the Synoptic reader note is not in the vault");
+        try { const rf = V.getAbstractFileByPath(READER); if (!rf) throw new Error("the Synoptic View note is not in the vault");
           await app.fileManager.processFrontMatter(rf, fm => { fm.pericope = String(r.id); }); await app.workspace.openLinkText(rf.path, here ? here.path : "", false); } catch (e) { fail(e, pb); }
       });
     }

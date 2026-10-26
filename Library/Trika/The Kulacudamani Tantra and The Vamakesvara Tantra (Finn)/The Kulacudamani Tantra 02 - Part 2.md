@@ -330,17 +330,19 @@ pramāty relate to the function of authority or true prameya knowledge (pramā�
 
 measures out, ordains, or truly knows, just as
 
-prameya is that which is ordained, measured out or known. By extension, the concepts assume the philosophical connotations of Subject and Object ~- in the sense of a conscious ordaining self (pramātr) in relation to the not-self (prameya) which in various ways it manipulates. Subjects are "knowers" or "experiencers" who "have the power of devouring (i.e. assimilating objects of experience to consciousness)”.36 The idea of consciousness integrated into an experiencing Subject extends from the impure upto the purest levels of creation.
+prameya is that which is ordained, measured out or known. By extension, the concepts assume the philosophical connotations of Subject and Object ~- in the sense of a conscious ordaining self (pramātr) in relation to the not-self (prameya) which in various ways it manipulates. Subjects are "knowers" or "experiencers" who "have the power of devouring (i.e. assimilating objects of experience to consciousness)”.[^36-p63] The idea of consciousness integrated into an experiencing Subject extends from the impure upto the purest levels of creation.
 
 At the material level the lowest category of "experiencers"
 
 \- or "knowers" (such as man, dog, cat) are constituted beings
 
-' (sakala), i.e. they are made up of kaltās. Less bound by the finite world and less grossly material are the Pralayākalas who are rid of karma mālā but are still subject to aṇava and māyīya māłlās. 0n the scale above the Pralayĝkala subjects, there is such an attenuation of the kałā element that one is effectively in the spiritual sphere. Herein the experiencing subjects ascent in godlike purity from Vijnānākala, Mantra, Mantregvara and Mantramaheśvaražł7 to end in the
+' (sakala), i.e. they are made up of kaltās. Less bound by the finite world and less grossly material are the Pralayākalas who are rid of karma mālā but are still subject to aṇava and māyīya māłlās. 0n the scale above the Pralayĝkala subjects, there is such an attenuation of the kałā element that one is effectively in the spiritual sphere. Herein the experiencing subjects ascent in godlike purity from Vijnānākala, Mantra, Mantregvara and Mantramaheśvaražł[^37] to end in the
 
 36\.
 
-[^35]: "Yogaśikhopanigṣad", The Yoga Upanigṣads, ed. G.S. Murti, trsl. T.R. Srinivasa Ayyangar (The Adyar Library, 1952), p. 8362. Kṣemarāja, Pratyabhijñāhydayam, p. 88. 87\. The actual classification of pramātrs may differ in a few respects from one authority to another, but the following ts a common one: Sakala and Pralayākala as defined above; Vijnānākala = Expertencer possesses knowledge, but ts devoid of agency; Mantra = Experiencer of the universe in close relation to the "I"; Mantreśvara = Expertencer of the universe as only an aspect of the Self; Mantramaheśvara = T-ness” predominates with only faint knowledge of the universe and Ŝiva Pramātā = Supreme Experiencer.
+[^35]: "Yogaśikhopanigṣad", The Yoga Upanigṣads, ed. G.S. Murti, trsl. T.R. Srinivasa Ayyangar (The Adyar Library, 1952), p. 362.
+[^36-p63]: Kṣemarāja, Pratyabhijñāhydayam, p. 88.
+[^37]: The actual classification of pramātrs may differ in a few respects from one authority to another, but the following ts a common one: Sakala and Pralayākala as defined above; Vijnānākala = Expertencer possesses knowledge, but ts devoid of agency; Mantra = Experiencer of the universe in close relation to the "I"; Mantreśvara = Expertencer of the universe as only an aspect of the Self; Mantramaheśvara = T-ness” predominates with only faint knowledge of the universe and Ŝiva Pramātā = Supreme Experiencer.
 
 *[p. 64]* ^pg60
 

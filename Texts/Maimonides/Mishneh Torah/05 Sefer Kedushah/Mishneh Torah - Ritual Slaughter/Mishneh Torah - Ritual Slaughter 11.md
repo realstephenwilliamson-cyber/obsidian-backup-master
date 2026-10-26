@@ -64,8 +64,8 @@ Similarly, when the rose is attached to its pocket or a strand extends from it t
 [^2]: Without informing him of the doubt involved.  
     The Rama quotes the *Sha'arei Dura* who writes that if a condition that renders an animal *trefe* is obvious, we permit its sale to a gentile. For a Jew who seeks to purchase it will immediately become aware of the difficulty.  
     The Rama also mentions the ruling of the *Terumat HaDeshen* that if there is merely a question of whether an animal is *trefe*, it may be sold to a gentile. The *Siftei Cohen* 57:51 accepts this leniency only with regard to an animal regarding which there is a question whether or not it was attacked, but not with regard to other conditions.
-[^3]: [[Chullin 11#11b|*Chullin* 11b]] explains that this is based on the principle that we follow the majority. Since most animals are healthy we assume that this is an animal's condition unless there is reason to suspect otherwise. Note, however, Halachah 7.
-[^4]: Based on [[Chullin 51#51a|*Chullin* 51a]], the *Kessef Mishneh* goes further and states that even if the animal possesses a condition that is somewhat problematic, if we can find a commonplace explanation for it that will not render an animal *trefe* and the factor that will render it *trefe* is uncommon, we do not require an examination.
+[^3]: *Chullin* [[Chullin 11#11b|11b]] explains that this is based on the principle that we follow the majority. Since most animals are healthy we assume that this is an animal's condition unless there is reason to suspect otherwise. Note, however, Halachah 7.
+[^4]: Based on *Chullin* [[Chullin 51#51a|51a]], the *Kessef Mishneh* goes further and states that even if the animal possesses a condition that is somewhat problematic, if we can find a commonplace explanation for it that will not render an animal *trefe* and the factor that will render it *trefe* is uncommon, we do not require an examination.
 [^5]: See Chapter 10, Halachah 4.
 [^6]: See Chapter 9, Halachah 17.
 [^7]: See Chapter 10, Halachah 7.

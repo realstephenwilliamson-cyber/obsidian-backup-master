@@ -193,7 +193,7 @@ VOL. I. σ
 
 cap. i. 1.
 
-Phil. ii.6,
+[[Philippians 02#^2-6|Phil. ii.6]],
 
 Infra x.
 
@@ -217,7 +217,7 @@ Another. At the fashioning of man the voice of God is introduced saying, Let Us 
 
 the Holy Trinity is contracted into a One in number, Cuar. 11. and they impiously take away from the Father and the “\*” = Son Their separate Existence: who is he who says, and to whom, Let us make man in Our Inage? For He ought forsooth to say, if it be as they in their silly nonsense say, Let us make man in my image, after my likeness. But now the writer of the Book, not saying this mdeed, but allotting the creation to the plural number and adding Our image, well-nigh with clear and mighty voice proclaims the enumeration of the Holy Trinity to be above One.
 
-Another. If the Son is the Brightness of the Father, as Heb. i.3. Light of Light, how is He not other than Him, as of distinct Being? For that which is the embrightened, is so in very deed from other, that namely which brightens it, and not itself from itself.
+Another. If the Son is the Brightness of the Father, as [[Hebrews 01#^1-3|Heb. i.3]]. Light of Light, how is He not other than Him, as of distinct Being? For that which is the embrightened, is so in very deed from other, that namely which brightens it, and not itself from itself.
 
 Another. The Son shewing Himself of the Essence of God the Father says again, I came forth from the Father and Be xvi. am come; again I go to the Father. How then will He not © ᾿ be Other than the Father in Person and number, when all reason persuades us to conceive of that which proceeds from ought as other than that from whence it proceeded? Not true therefore is the contrary argument.
 
@@ -485,7 +485,7 @@ Refutation in order of the misconceit of Eunomius.
 
 Slow to learn is the silly heretic. For how into a malicious soul will wisdom at all enter 2 or what, tell me, can be more malicious than such men, who, as it is written, turn away their ears from the truth and run more easily unto the fables of their own cogitations, that justly too they may hear, uttering things not of the Divine Scriptures, Woe to them that prophesy of their own heart and not out of the mouth of the Lord? For who speaking out of the mouth of the Lord calleth Jesus Anathema ? which thing mdeed some do in unbridled haughtiness against the doctrines of piety, and as one of the holy Prophets said, perverting all equity. For they say that the natural and conceived word in God the Father is one, him that is called Son and Word again another: and they bring in support of their own, asthey deem, opinion, but more truly, their unbridled impiety, our Lord Jesus Christ in His discourses with the Jews saying, 1 know the Father and keep His word: and moreover that which was said to Him by the Father, From the womb before the Day-star begat I Thee. Then they say belching forth the venom of their own father, If the speaker is other than he whom he addresses, and the Father addresses the Son by word, the imnate word
 
-Wisdomi. 4. 2 Tim. iv. 4. Jer. xxiii. 16. 1 Cor. xii. 3. Micah iii.
+Wisdomi. 4. [[2 Timothy 04#^4-4|2 Tim. iv. 4]]. Jer. xxiii. 16. [[1 Corinthians 12#^12-3|1 Cor. xii. 3]]. Micah iii.
 
 9\. , Infra viii. 55. Ps. cx. ὃ. LXX.
 
@@ -547,7 +547,7 @@ For He abideth wholly in Himself, that is Father, even (μῶν. though He Who i
 
 Another in equal guise with the objection, by the method of reductio ad absurdum.
 
-The Son, as having no difference from His Father, but being His most exact Likeness and the express Image of His Heb. i. 3. Person, is found saying to His disciples, He that hath seen Me Infra xiv. hath seen the Father. But if He being thus, is Consubstantial with the Father, and things consubstantial admit of utter confusion with one another, there will be nothing it seems to hinder the Son from being conceived of as Father, in that He is Consubstantial with the Father, and capable of passing over into this, nought hindering it, if consubstantiality suffice unto this kind of change or transposition. Let the Son then be conceived of as Father, and let Him say, as now being so, to the real Father, From the womb before the Day-star begat Wee 3. I Thee; and let Him assume to Himself every word in short that belongs to the Father. When this at length has taken place, every thing is now thrown into confusion, and That Which ever so existeth, | mean the Holy and Consubstantial Trinity will be reduced to Unity, if That which rightly and separately belongs to Each vanishes on account of the Con-substantiality, and the sameness of nature overthrows the distinction of Persons. But this is absurd. Hence the Father will not be the Word, because Consubstantial with the Word, but will abide unchanged, being What He is, even though He have Co-nature or Consubstantiality with His Own Word. And their objection has been proved to be nought.
+The Son, as having no difference from His Father, but being His most exact Likeness and the express Image of His [[Hebrews 01#^1-3|Heb. i. 3]]. Person, is found saying to His disciples, He that hath seen Me Infra xiv. hath seen the Father. But if He being thus, is Consubstantial with the Father, and things consubstantial admit of utter confusion with one another, there will be nothing it seems to hinder the Son from being conceived of as Father, in that He is Consubstantial with the Father, and capable of passing over into this, nought hindering it, if consubstantiality suffice unto this kind of change or transposition. Let the Son then be conceived of as Father, and let Him say, as now being so, to the real Father, From the womb before the Day-star begat Wee 3. I Thee; and let Him assume to Himself every word in short that belongs to the Father. When this at length has taken place, every thing is now thrown into confusion, and That Which ever so existeth, | mean the Holy and Consubstantial Trinity will be reduced to Unity, if That which rightly and separately belongs to Each vanishes on account of the Con-substantiality, and the sameness of nature overthrows the distinction of Persons. But this is absurd. Hence the Father will not be the Word, because Consubstantial with the Word, but will abide unchanged, being What He is, even though He have Co-nature or Consubstantiality with His Own Word. And their objection has been proved to be nought.
 
 Another. If every word be the word of some one, pouring it forth from the tongue, that is, or belching it forth and bringing it up from the heart; and the Father be Word, because He is Consubstantial with the Word : He will be His own word, or rather no one’s, or will even have no existence at all (for how will there be word, when he whose word it is, is not?). But this is absurd: for never will the Divine and Untaint Nature be receptive of non-being, nor will the Father
 
@@ -597,7 +597,7 @@ CAP. i. 2.
 
 “
 
-Heb. i. 3.
+[[Hebrews 01#^1-3|Heb. i. 3]].
 
 that it exists of itself conceived of as in separate being, they will surely confess that there are two sons: but if they say that it has no existence, then, since nothing any longer comes between and severs the Son, how will He be third from the Father and not rather next Him, as Son with Father?
 

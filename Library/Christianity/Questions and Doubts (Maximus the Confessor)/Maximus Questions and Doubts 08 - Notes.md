@@ -106,7 +106,7 @@ Thessalonica, Greece.
 
 3 1 . Nichols, *Byzantine Gospel,* 15. See also, lhor Sevcenko, "The Definition of Philosophy in the *Life of Saint Constantine, " For Roman Jakobson* (The Hague: Mouton, 1956), 449-5 7. 
 
-32\. Mr\\n µT)V m"ipav exe1v Tll5 rrpo5 Mye1v 6uvaµew5 TE KOi Tp1 [illegible][illegible]5 '161wTEI ouvnBpaµµsvo, *(Myst.,* 660B6-8). Andrew Louth does not take this statement seriously; see *Maximus the Confessor,* Early Church Fathers (London: Routledge, 1996), 4n4. 
+32\. Μήτε μὴν πεῖραν ἔχειν τῆς πρὸς λέγειν δυνάμεώς τε καὶ τριβῆς ἰδιωτέϊ συντεθραμμένος, *(Myst.,* 660B6-8). Andrew Louth does not take this statement seriously; see *Maximus the Confessor,* Early Church Fathers (London: Routledge, 1996), 4n4. 
 
 33\. For more on this position, see *asekretis, ODB,* 1 , 204. 
 
@@ -122,7 +122,7 @@ N OT E S TO PAG E *5*
 
 37\. Maximus's extant letters (epistles) number forty-five. See the following letters for references to John the Cubicularius: *Ep.* 2 (PG 9 1 .3920-408B), *Ep.* 3 (PG 9 1 .408C-4 12C), *Ep.* 4 (PG 9 1 .4 1 3A-420C), *Ep.* 10 (PG 9 1 .449A-453A), *Ep.* 12 (PG 9 1 .460A-509B), *Ep.* 27 (PG 9 1 .61 7B-620C), *Ep.* 44 (PG 9 1 .641D-648C), and *Ep.* 45 (PG 9 1 .648D-649C). 
 
-38\. PG 91 .393A, 408C, 41 3A, 420B. It is unclear whether Maximus and John saw each other face to face after Maximus entered the monastery. There is mention of a meeting in the first few lines of Letter 2 (PG 9 1 .393A), Kat i\\ OTJ µev µa0wv rrap 'eµauTOu rrapwv . . . , which Larchet seems to interpret as a recent meeting. See *Maxime le Confesseur: Lettres,* trans. Emmanuel Ponsoye, intro. Jean-Claude Larchet (Paris: Cerf, 1998), 36. However, the phrase could also refer to their time together at court. 
+38\. PG 91 .393A, 408C, 41 3A, 420B. It is unclear whether Maximus and John saw each other face to face after Maximus entered the monastery. There is mention of a meeting in the first few lines of Letter 2 (PG 9 1 .393A), καὶ ἤδη μὲν μαθὼν παρ’ ἐμαυτοῦ παρὼν . . . , which Larchet seems to interpret as a recent meeting. See *Maxime le Confesseur: Lettres,* trans. Emmanuel Ponsoye, intro. Jean-Claude Larchet (Paris: Cerf, 1998), 36. However, the phrase could also refer to their time together at court. 
 
 39\. Letters 2, 3, and 4. See Polycarp Sherwood, *An Annotated Date-List of the Works of Maximus the Confessor,* SA, fasc. 30 (Rome: Herder, 1 952), 25. 
 
@@ -166,7 +166,7 @@ Arsenius. Allen, "Blue-Print," 18n49.
 
 53\. Sherwood, *Date-List,* 25. Larchet disagrees; see page 42 in his introduction in *Lettres.* 
 
-54\. *In vitam ac certamen,* PG 90. 1 68A. Anastasius, who had been the secretary to Heraclius's second wife, Martina, became Maximus's disciple in 618. Cyzikos (Kus1K05) became the metropolis of the province of the Hellespont under the reign of Diocletian (284-305), who established there the headquarters of a legion and an imperial mint. Though half the city was destroyed by an earthquake in 539, it would remain a strategic base for any military activity, whether by the Byzantines, the Arabs, the Turks, or the Latins. Cyzikos was the episcopal seat of the region of the Hellespont and therefore would have been surrounded by many monasteries. See *Kyzikos,* *ODB,* 2, 1 164-5. 
+54\. *In vitam ac certamen,* PG 90. 1 68A. Anastasius, who had been the secretary to Heraclius's second wife, Martina, became Maximus's disciple in 618. Cyzikos (Κύζικος) became the metropolis of the province of the Hellespont under the reign of Diocletian (284-305), who established there the headquarters of a legion and an imperial mint. Though half the city was destroyed by an earthquake in 539, it would remain a strategic base for any military activity, whether by the Byzantines, the Arabs, the Turks, or the Latins. Cyzikos was the episcopal seat of the region of the Hellespont and therefore would have been surrounded by many monasteries. See *Kyzikos,* *ODB,* 2, 1 164-5. 
 
 55\. Robert Devreesse, " La fin inedite d'une lettre de saint Maxime: Un bapteme force de juifs et de samaritains a Carthage en 632, " *Revue des sciences religieuses* l 7 ( 19 3 7), 31. 
 
@@ -324,7 +324,7 @@ xxi.
 
 *[p. 176]* ^pg186
 
-(1932): 210-36, 341-69, 516-37; and *RB* 42 ( 1 933): 1 4-30, 2 1 1-29, 328-52. See also Blowers, *Exegesis,* chap. 1 . For Maximus, in particular, see Bardy, " La litterature patristique," *RB 42,* 332-39. Also called zetematic literature with titles referring to /;TJT[illegible]µarn , Mae15, muoE15, epw[illegible]oE15, cm0Kp10E15, this literary form had apologetic, public, and educative properties. See Sze-kar Wan, "Philo's *Quaestiones et solutiones in Genesim:* A Synoptic Approach, " SBL 1 993 Seminar Papers, 36-3 7. For a criticism of what constitutes zetematic literature, see Hermann Dorries, "Erotapokriseia, " (B. christlich), *Reallexikon fur Antike und Christentum,* vol. 6, cols. 347-70. 
+(1932): 210-36, 341-69, 516-37; and *RB* 42 ( 1 933): 1 4-30, 2 1 1-29, 328-52. See also Blowers, *Exegesis,* chap. 1 . For Maximus, in particular, see Bardy, " La litterature patristique," *RB 42,* 332-39. Also called zetematic literature with titles referring to ζητήματα, λύσεις, πεύσεις, ἐρωτήσεις, ἀποκρίσεις, this literary form had apologetic, public, and educative properties. See Sze-kar Wan, "Philo's *Quaestiones et solutiones in Genesim:* A Synoptic Approach, " SBL 1 993 Seminar Papers, 36-3 7. For a criticism of what constitutes zetematic literature, see Hermann Dorries, "Erotapokriseia, " (B. christlich), *Reallexikon fur Antike und Christentum,* vol. 6, cols. 347-70. 
 
 127\. *Ep.* 13, PG 91.533A. 
 
@@ -378,17 +378,17 @@ Maximus and Didymus.
 
 indicates the Christian content of the allegory" (85n3 1). 
 
-1 50. The *QT* (CCSG 7 and 22), *Amb.Io.* (in Greek, PG 91.1061-1417; in Latin, CCSG 22), and the *Opuscula* (PG 9 1 .9-285). The word 80,,iµa appears three times in the *QD* (QD 2 1 : To a(m!;oucnov 8eAIJµa; *QD* 83: the entire question addresses cS1 mpopwv 0EAl\]µchwv 0eou <sup>n</sup>; and *QD* l 45, where the author speaks of the importance of not having one's own will.) There is never a direct reference made in the *QD* to either one or two wills in Christ. 
+1 50. The *QT* (CCSG 7 and 22), *Amb.Io.* (in Greek, PG 91.1061-1417; in Latin, CCSG 22), and the *Opuscula* (PG 9 1 .9-285). The word θέλημα appears three times in the *QD* (QD 2 1 : τὸ αὐτεξούσιον θέλημα; *QD* 83: the entire question addresses διαφόρων θελημάτων θεου <sup>n</sup>; and *QD* l 45, where the author speaks of the importance of not having one's own will.) There is never a direct reference made in the *QD* to either one or two wills in Christ. 
 
 1 5 1 . Ceresa-Gastaldo lists forty manuscripts from which he compiles the critical edition of the CC, and van Deun lists sixty-two for the *LA.* Declerck lists thirteen manuscripts for the *QD.* 
 
 152\. *CC* and *LA,* both of which Sherwood dates to before 626 *(Date* *List,* 26), were written at approximately the same time as the *QD.* These works were thought to have been composed while Maximus was either at Chrysopolis or Cyzikos. This time of literary activity would only be surpassed by Maximus's work at Carthage, where he arrived sometime before 632 (Sherwood, *The Ascetic Life,* 10). 
 
-1 5 3 . Jose H. Declerck, "La tradition des 'Quaestiones et dubia' de S. Maxime le Confesseur" in *Maximus Confessor: Actes du Symposium sur Maxime le Confesseur, Fribourg, 2-5 septembre 1 980,* Felix Heinzer and Christoph von Schonborn, eds. Paradosis 27. (Fribourg: Editions Universitaires, 1 982), 85-96; Utto Riedinger, " Die 'Quaestiones et Dubia' (Erotapokriseis) des Maximos Homologetes im Codex Vaticanus graecus 1 703 (s. 10), " in *Byzantinischneugrieschische fahrbucher* 19 (1966), 260-76; Giannelli, "Una 'editio maior,'" 100-1 1 1 (this article has been reproduced in Carlo Giannelli, *Scripta minora (Studi bizantini e neoellenici* 10 (1963) , 21 5-24, and all references are to this last publication); Jean-Claude Larchet, "Introduction,'' *Maxime le Confesseur: Questiones et difficultes.* (Paris: Cerf, 1999), 7-26; 'lyvchios M. !a1&lt;CXATJS' E'1oaywyr) " ' f\\llA[illegible]ff\\llOI O Of\\llOA OrHTHI, &lt;l>1AOKCXAICX *TWV* Nl\]TTTll&lt;WV l&lt;CXI AoKl\]TIKWV[illegible] A, TTavay1wTl\]S K. Xpr\\OTOU, 0eooaAOVI KI\]. TlaTEpl KCXI EKcS0&lt;m s <sup>11</sup>rp1Jyop1os O TTa>.aµas " , 1 992, 7-8; Bardy, "La litterature patristique, " 3 3 7-
+1 5 3 . Jose H. Declerck, "La tradition des 'Quaestiones et dubia' de S. Maxime le Confesseur" in *Maximus Confessor: Actes du Symposium sur Maxime le Confesseur, Fribourg, 2-5 septembre 1 980,* Felix Heinzer and Christoph von Schonborn, eds. Paradosis 27. (Fribourg: Editions Universitaires, 1 982), 85-96; Utto Riedinger, " Die 'Quaestiones et Dubia' (Erotapokriseis) des Maximos Homologetes im Codex Vaticanus graecus 1 703 (s. 10), " in *Byzantinischneugrieschische fahrbucher* 19 (1966), 260-76; Giannelli, "Una 'editio maior,'" 100-1 1 1 (this article has been reproduced in Carlo Giannelli, *Scripta minora (Studi bizantini e neoellenici* 10 (1963) , 21 5-24, and all references are to this last publication); Jean-Claude Larchet, "Introduction,'' *Maxime le Confesseur: Questiones et difficultes.* (Paris: Cerf, 1999), 7-26; Ἰγνάτιος Μ. Σακαλής, Εἰσαγωγὴ”, ΜΑΞΙΜΟΣ Ο ΟΜΟΛΟΓΗΤΗΣ, Φιλοκαλία τῶν Νηπτικῶν καὶ Ἀσκητικῶν[illegible] Α, Παναγιώτης Κ. Χρήστου, Θεσσαλονικη· Πατερικαὶ Ἐκδόσεις “Γρηγόριος Ὁ Παλαμὰς”, 1 992, 7-8; Bardy, "La litterature patristique, " 3 3 7-
 
 *[p. 178]* ^pg188
 
-39; see also, Blowers, *Exegesis,* 53-56. Translations of the *QD* are in French in *Questiones et difficultes,* trans. Emmanuel Ponsoye (Paris: Cerf, 1 999), 29- 1 8 7, and in Greek, in IaKaAl)5 , MA::J/\\102 0 0/\\10J\\ OrHTH2, 10-347; there are translations of specific questions of the *QD* in Blowers, *Exegesis,* 54, 55, 231n36, 236n75; Larchet, *La divinisation,* 105n79, 122n150, 1 75n313, 209-1 0, 279, 387; Alain Riou, *Le monde et l'eglise selon Maxime le Confesseur,* ThH 22 (Paris: Beauchesne, 1973), 2 1 1 ; and Juan Miguel Garrigues, *Maxime le Confesseur: La charite, avenir divin de l 'homme,* ThH 38 (Paris: Beauchesne, 1976), 1 1 1, 130n13, 144n20, 160-61, 190. 
+39; see also, Blowers, *Exegesis,* 53-56. Translations of the *QD* are in French in *Questiones et difficultes,* trans. Emmanuel Ponsoye (Paris: Cerf, 1 999), 29- 1 8 7, and in Greek, in Σακαλής, ΜΑΞΙΜΟΣ Ο ΟΜΟΛΟΓΗΤΗΣ, 10-347; there are translations of specific questions of the *QD* in Blowers, *Exegesis,* 54, 55, 231n36, 236n75; Larchet, *La divinisation,* 105n79, 122n150, 1 75n313, 209-1 0, 279, 387; Alain Riou, *Le monde et l'eglise selon Maxime le Confesseur,* ThH 22 (Paris: Beauchesne, 1973), 2 1 1 ; and Juan Miguel Garrigues, *Maxime le Confesseur: La charite, avenir divin de l 'homme,* ThH 38 (Paris: Beauchesne, 1976), 1 1 1, 130n13, 144n20, 160-61, 190. 
 
 1 54. Sherwood, *The Earlier Ambigua,* vii. 
 
@@ -428,7 +428,7 @@ and Peter van Deun, eds. OLA 69 (1994), 25 7-72.
 
 166\. *QD* 49, 56, 80, 1 1 7, 164, and 1 65. 
 
-167\. There are 122 references to the soul, ljiux[illegible], in the *QD.* 168. *QD* 1 1 6, 121, 1 73, and 1 75. For a discussion of the */ogoi* in Maximus, see Irenee-Henri Dalmais, "La theorie des 'logoi' des creatures chez saint Maxime le Confesseur, " *Revue des sciences philosophiques et theologiques* 36 ( 1952), 244-49; and Eric Perl, *Methexis: Creation, Incarnation, Deification in Saint Maximus Confessor* (PhD diss., Yale, 1991), 147-59, 166-79. 
+167\. There are 122 references to the soul, ψυχή, in the *QD.* 168. *QD* 1 1 6, 121, 1 73, and 1 75. For a discussion of the */ogoi* in Maximus, see Irenee-Henri Dalmais, "La theorie des 'logoi' des creatures chez saint Maxime le Confesseur, " *Revue des sciences philosophiques et theologiques* 36 ( 1952), 244-49; and Eric Perl, *Methexis: Creation, Incarnation, Deification in Saint Maximus Confessor* (PhD diss., Yale, 1991), 147-59, 166-79. 
 
 169\. Found in the *QT,* Thunberg, *Microcosm,* 144n31 l. 
 
@@ -446,13 +446,11 @@ and Peter van Deun, eds. OLA 69 (1994), 25 7-72.
 
 174\. Larchet lists sixty-seven questions that provide an allegorical exegesis. See "Introduction, " *Questiones et difficultes,* 12-13. 
 
-175\. T porro5 and its various forms appear forty-seven times, while a 
+175\. Τρόπος and its various forms appear forty-seven times, while ἀναγωγὴ and its forms appear twenty times. 
 
-vcxywy[illegible] and its forms appear twenty times. 
+176\. Θεωρία appears fifty times, πράξις appears ninety-seven times, 
 
-176\. 0ewpicx appears fifty times, rrpcx; 1 5 appears ninety-seven times, 
-
-and apET[illegible] appears over one hundred times. 
+and ἀρετὴ appears over one hundred times. 
 
 177\. PG 91.1352C. 
 
@@ -596,7 +594,7 @@ c.; *Strasburg.gr. 1 2,* 13<sup>t</sup><sup>h</sup>c.), but also minor contribut
 
 241\. Origen used many of these tools; see Henri Crouzel, *Origen,* trans. A. S. Worrall (Edinburgh: T&T Clark, 1989), 65-66. For more on the distinction between allegory and typology in Origen, see Peter W. Martens, "Revisiting the Allegory/Typology Distinction: The Case of Origen" *JECS* 1 6, 3 (2008), 283-3 1 7. Paul's use of allegory ([[Galatians 04#^4-22|Gal 4:22-26]], for example) and typology ([[1 Corinthians 10#^10-1|1 Cor 10:1-5]]) is well known, (Froehlich, *Biblical Interpretation,* 8-10), and though certain stories may have been enhanced by the evangelists, there are traces of allegory in Jesus's parables ([[Matthew 13#^13-3|Matt 13:3-9]]; 18-23; 24-30; 3 7-43). Blowers mentions specific forms such as typology, allegory, tropology, etymology, arithmology, and extrapolations from Biblical terms or language under the title of anagogy in his work on the *QT* in *Exegesis,* 1 96-228. For more on the role of arithmology in early Christian writings, see Joel Kalvesmaki's doctoral dissertation, *Formation of the Early Christian Theology of A rithmetic: Number Symbolism in the late second and early third centuries,* (PhD diss., The Catholic University of America, 2006). 
 
-242\. The word 01fooKaA1a *(didaskalia,* "teaching") occurs thirty-five times in the QD; 01ocxowA05 *(didaskalos,* "teacher") appears ten times; and various forms of 01ocx0Keu *(didasko,* "I teach") appear eleven times. 
+242\. The word διδασκαλία *(didaskalia,* "teaching") occurs thirty-five times in the QD; διδάσκαλος *(didaskalos,* "teacher") appears ten times; and various forms of διδάσκω *(didasko,* "I teach") appear eleven times. 
 
 243\. For background on the significance of numbers in Hellenistic thought, see a writing attributed to Iamblicos, *The Theology of Arithmatic: On the Mystical, Mathema tical and Cosmological Symbolism of the First Ten Numbers,* trans. Robin Waterfield (Grand Rapids, Mich.: Phanes, 1988). Many thanks to Joel Kalvesmaki for bringing this book to my attention. For background on the significance of numbers in the OT and NT, see "numbers" in Paul Achtemeier, *Harper's Bible Dictionary* (San Francisco: Harper & Row, 1985) 71 1-12. 
 
@@ -660,7 +658,7 @@ interpretation.
 
 270\. *QD* II, 18. 
 
-2 7 1 . Lampe, in *A Patristic Greek Lexicon,* states that Ncx[illegible]1 pcx105 can be translated as Nazarite or ascetic; see page 896. See also, Basil of Caesarea, *Epistle* 44. 1 (PG 32.361 C) and Gregory Nazianzus, *Oratione* 42.26 (PG 36.489C). 
+2 7 1 . Lampe, in *A Patristic Greek Lexicon,* states that Ναζιραῖος can be translated as Nazarite or ascetic; see page 896. See also, Basil of Caesarea, *Epistle* 44. 1 (PG 32.361 C) and Gregory Nazianzus, *Oratione* 42.26 (PG 36.489C). 
 
 272\. QD 68. 
 
@@ -676,21 +674,21 @@ Row, 1988), 187.
 
 *Harper's Bible Dictionary,* 555. 
 
-277\. Anger, 8uµos, is mentioned twenty times in the *QD.* 
+277\. Anger, θυμός, is mentioned twenty times in the *QD.* 
 
-278\. Maximus also uses the phrase "natural contemplation, " cpuo1 Kf1 
+278\. Maximus also uses the phrase "natural contemplation, " φυσικὴ 
 
-8eeupicx. 
+θεωρία. 
 
-279\. There are 214 instances of the word 0e6s *(theos),* 177 instances of Kup 1os- *(kyrios),* 196 instances of Xoyos- *(logos),* 102 instances of mx805 *(pathos),* 82 instances of voµos- *(nomos),* 79 instances of voiis- *(nous),* and 63 instances 
+279\. There are 214 instances of the word Θεός *(theos),* 177 instances of κύριος *(kyrios),* 196 instances of λόγος *(logos),* 102 instances of πάθος *(pathos),* 82 instances of νόμος *(nomos),* 79 instances of νοῦς *(nous),* and 63 instances 
 
-of rrveuµcx *(pneuma) .* 
+of πνεῦμα *(pneuma) .* 
 
 280\. Thirteen times: *QD* 1 7, 29, 30, 80, 87, 130, 142, 1 45, 1 62, 185, 
 
 187, 190, and I, 68. 
 
-28 1 . This question provides two of the three times the word arr6cpcxo1 s *(apophasis)* is mentioned in the QD. The other incidence is in *QD* 73. 
+28 1 . This question provides two of the three times the word ἀπόφασις *(apophasis)* is mentioned in the QD. The other incidence is in *QD* 73. 
 
 282\. Thunberg lists several more precise formulations o f *praxis,* including practical philosophy, virtue, or ethical philosophy; see *Microcosm,* 335. 
 
@@ -726,7 +724,7 @@ he also states that Maximus's style is one where the author is purposely trying 
 
 NOTES TO PAG E 38 
 
-27 (Fribourg: Editions Universitaires, 1980), 13-25; Alain Riou, *Le monde et l 'eglise,* 54-63 and 88-92; Thunberg, *Man and the Cosmos: The Vision of St.* *Maximus the Confessor* (Crestwood, N.Y. : St. Vladimir's Seminary Press, 1984), 132-40; John Meyendorff, *Byzantine Theology: Historical Trends and Doctrinal Themes,* rev. 2nd ed., 1 3 1-34; Joost van Rossum, "The Myo1 of Creation and the Divine 'energies' in Maximus the Confessor and Gregory Palamas, 11 StPatr 27, Elizabeth Livingston, ed. (Louvain: Peeters, 1993), 2 1 3-1 7; and Perl, *Methexis,* 147-59 and 1 66-79. 
+27 (Fribourg: Editions Universitaires, 1980), 13-25; Alain Riou, *Le monde et l 'eglise,* 54-63 and 88-92; Thunberg, *Man and the Cosmos: The Vision of St.* *Maximus the Confessor* (Crestwood, N.Y. : St. Vladimir's Seminary Press, 1984), 132-40; John Meyendorff, *Byzantine Theology: Historical Trends and Doctrinal Themes,* rev. 2nd ed., 1 3 1-34; Joost van Rossum, "The λόγοι of Creation and the Divine 'energies' in Maximus the Confessor and Gregory Palamas, 11 StPatr 27, Elizabeth Livingston, ed. (Louvain: Peeters, 1993), 2 1 3-1 7; and Perl, *Methexis,* 147-59 and 1 66-79. 
 
 294\. *Amb.Io.* 41, PG 91.1312B. 
 
@@ -764,13 +762,13 @@ Spirit (CC II.26, Ceresa-Gastaldo, 102).
 
 305 . *LA* 19, PG 90.9250. 
 
-306\. See o:rrci8E1a, LS, 1 74. For a history of the word *apatheia,* see John Bamberger, " Introduction, " *Evagrius Ponticus: The Praktikos* & *Chapters on Prayer* (Kalamazoo, Mich . : Cistercian Publications, 1 98 1 ), n233. 
+306\. See ἀπάθεια, LS, 1 74. For a history of the word *apatheia,* see John Bamberger, " Introduction, " *Evagrius Ponticus: The Praktikos* & *Chapters on Prayer* (Kalamazoo, Mich . : Cistercian Publications, 1 98 1 ), n233. 
 
-307\. See 0ewms-, Lampe, 649. For a study on the use of the word *theosis* in Maximus, see Stephen James Juli, *The Doctrine of Theosis in the Theology of Saint Maximus the Confessor* (STL thesis , The Catholic University of America, 
+307\. See θέωσις, Lampe, 649. For a study on the use of the word *theosis* in Maximus, see Stephen James Juli, *The Doctrine of Theosis in the Theology of Saint Maximus the Confessor* (STL thesis , The Catholic University of America, 
 
 1 990), chap. 3. 
 
-308.' ETUµo11oyew means to "investigate a word and find its origin" (Lampe, 554), and ho1 µ011oy1a means " readiness of speech" (Lampe, 554). For more on orthographic variants in the papyri of the Roman and Byzantine periods, see Francis T. Gignac, *A Grammar of the Greek Papyri of the Roman and Byzantine Periods,* vol. 1 (Milan: Instituto editoriale cisalpino--La gorliardica, 1976), 5 7-60. For the specific variations between *oi* and *u,* see 
+308. Ἐτυμολογέω means to "investigate a word and find its origin" (Lampe, 554), and ἐτοιμολογία means " readiness of speech" (Lampe, 554). For more on orthographic variants in the papyri of the Roman and Byzantine periods, see Francis T. Gignac, *A Grammar of the Greek Papyri of the Roman and Byzantine Periods,* vol. 1 (Milan: Instituto editoriale cisalpino--La gorliardica, 1976), 5 7-60. For the specific variations between *oi* and *u,* see 
 
 the same, 197-99. 
 
@@ -820,7 +818,7 @@ N OTES TO PAG E S 43-48
 
 15\. [[John 20#^20-22|John 20:22]]. 
 
-16\. &lt;l>uotKTJS 8ewpio:s. For more on natural contemplation, see *Amb.Io.* 10 (PG 9 1 . 1 133A-1 127C), and Evagrius, *Keph. gnost.* 1 .27 (PO 28, 29) . 
+16\. Φυσικῆς θεωρίας. For more on natural contemplation, see *Amb.Io.* 10 (PG 9 1 . 1 133A-1 127C), and Evagrius, *Keph. gnost.* 1 .27 (PO 28, 29) . 
 
 1 7. See *QD* 34, 35. 
 
@@ -874,7 +872,7 @@ regarding any thought of attaining perfect detachment.
 
 *[p. 190]* ^pg200
 
-40\. [illegible]ouµo:virnSos- . 
+40\. Σουμανίτιδος. 
 
 41\. Kgdms 4:32-35. 
 
@@ -886,7 +884,7 @@ regarding any thought of attaining perfect detachment.
 
 45\. [[Luke 03#^3-23|Luke 3:23-38]]. 
 
-46\. The rrp60ems- *(prothesis),* a rite of preparation before the Eucharist, see prothesis, in William Jardine Grisbrooke, *The New Westminster Dictionary of Liturgy and Worship,* J. G. Davies, ed. (Philadelphia: Westminster, 1986), 449-50. 
+46\. The πρόθεσις *(prothesis),* a rite of preparation before the Eucharist, see prothesis, in William Jardine Grisbrooke, *The New Westminster Dictionary of Liturgy and Worship,* J. G. Davies, ed. (Philadelphia: Westminster, 1986), 449-50. 
 
 47\. [[Luke 01#^1-26|Luke 1 :26-38]]. 
 
@@ -918,7 +916,7 @@ regarding any thought of attaining perfect detachment.
 
 3.8, and 3.9 (GCS 1, 30.9, 33.30, and 34.7). 
 
-61\. To OE[illegible]IOV O:UT[illegible]5 Kepo:5. One translation of the phrase is "chief strength" (1 Mace 9:1) from Bagster's translation *\[The Septuagint Version of the Old Testament and Apocrypha* (London: Samuel Bagster and Sons, 1879)\] . The horn is also a symbol of power and can even be translated as arm of the cross of Christ; see Lampe, 747. This term is found in 1 Mace 9 : 1 and, as a military term, refers to the right wing of the army; see Cassius Dio, *Hist. Rom.* 75.6.3; Josephus, *Ant. Jud.* 19.9 1 ; and Herodotus, *Hist.* 6.111. 
+61\. Τὸ δεξιόν αὐτῆς κέρας. One translation of the phrase is "chief strength" (1 Mace 9:1) from Bagster's translation *\[The Septuagint Version of the Old Testament and Apocrypha* (London: Samuel Bagster and Sons, 1879)\] . The horn is also a symbol of power and can even be translated as arm of the cross of Christ; see Lampe, 747. This term is found in 1 Mace 9 : 1 and, as a military term, refers to the right wing of the army; see Cassius Dio, *Hist. Rom.* 75.6.3; Josephus, *Ant. Jud.* 19.9 1 ; and Herodotus, *Hist.* 6.111. 
 
 62\. Matt 1 7:24-27. 
 
@@ -964,11 +962,11 @@ is red, air is yellow, water is blue, and earth is green.
 
 80\. Origen also speaks of the multicolored coat in term of the virtues; see *Sel. Gen.* (PG 12. 128CD). 
 
-8 1 . Or sacrosanct; see rrpoo8ETos-, Lampe, 1 1 7 1 . 
+8 1 . Or sacrosanct; see πρόσθετος, Lampe, 1 1 7 1 . 
 
 82\. [[Ephesians 05#^5-20|Eph 5 :20]]. 
 
-83\. [[LXX Psalms 39#^39-7|Ps 39:7]]; in some mss. fhicx is inserted instead of owµcx; see *Septuaginta: Id est Vetus Testamentum graece iuxta LXX interpreted edidit Alfred Rahlfs,* vol. II, Alfred Rahlfs, ed. (Stuttgart: Deutsche Bibelgesellshaft, 1 9 79), 
+83\. [[LXX Psalms 39#^39-7|Ps 39:7]]; in some mss. Ὠτία is inserted instead of σῶμα; see *Septuaginta: Id est Vetus Testamentum graece iuxta LXX interpreted edidit Alfred Rahlfs,* vol. II, Alfred Rahlfs, ed. (Stuttgart: Deutsche Bibelgesellshaft, 1 9 79), 
 
 41; see [[Hebrews 10#^10-5|Heb 10:5]]. 
 
@@ -998,7 +996,7 @@ on page 122.
 
 95\. [[Torah 43 - Masei#^35-25|Num 35:25]] and 28. 
 
-96\. The phrase, nAe1cxv o: m:x8s1cxv, is found in *QD* 10, *QD* 154, *QD* 1 70, *QT* 55.476 (CCSG 7, 509), CC IV.54 (Ceresa-Gastaldo, 2 1 6), *Myst.* 24 (PG 9 1 . 708C), *LA* 44 (CCSG 40, 1 19), and in Philo, *Leg. alleg.* 3.131-132 (Loeb, 389-90) . 
+96\. The phrase, τελείαν ἀπάθειαν, is found in *QD* 10, *QD* 154, *QD* 1 70, *QT* 55.476 (CCSG 7, 509), CC IV.54 (Ceresa-Gastaldo, 2 1 6), *Myst.* 24 (PG 9 1 . 708C), *LA* 44 (CCSG 40, 1 19), and in Philo, *Leg. alleg.* 3.131-132 (Loeb, 389-90) . 
 
 97\. Cor 5:16. 
 
@@ -1008,7 +1006,7 @@ on page 122.
 
 100\. [[Torah 08 - Vayishlach#^35-4|Gen 35:4]]. 
 
-101\. The term TTTepvt oT[illegible]S- (vanquisher) to describe Jacob is found in Philo several places but as one who vaquishes the passions, see *Leg. a/leg.* 2.89 
+101\. The term πτερνιστής (vanquisher) to describe Jacob is found in Philo several places but as one who vaquishes the passions, see *Leg. a/leg.* 2.89 
 
 *[p. 192]* ^pg202
 
@@ -1088,7 +1086,7 @@ on page 122.
 
 1 36. Lev 1 1 ; [[Torah 47 - Re'eh#^14-3|Deut 14:3-20]]. 
 
-1 37. <1>>.eyµcx in the *QD,* but [illegible]oe>.uyµa in the LXX (perhaps the result of 
+1 37. Φλέγμα in the *QD,* but βδέλυγμα in the LXX (perhaps the result of 
 
 phonological problems). See Lev 1 1 : 10. 
 
@@ -1096,9 +1094,9 @@ phonological problems). See Lev 1 1 : 10.
 
 139\. Sus 1 :42. 
 
-1 40. For the difference in Maximus between TTpoa1pw15, [illegible]OUATJOI S' and 
+1 40. For the difference in Maximus between προαίρεσις, βούλησις and 
 
-8e>.TJ01s-, see PG 9 1 . 1 3A. 
+θέλησις, see PG 9 1 . 1 3A. 
 
 1 4 1 . [[Romans 08#^8-2|Rom 8:2]]. 
 
@@ -1126,7 +1124,7 @@ ISO. [[Torah 04 - Vayera#^19-26|Gen 19:26]].
 
 151\. [[Torah 04 - Vayera#^19-32|Gen 19:32-36]]. 
 
-1 52. On the importance of consent, auyKaTa6e01v, see *QD* 10, *QD* 39, *QD* 46, QD 77, *QD* 78, *QD* 193, *QD* I, 31, *QD* I, 33, and CC I.83 (Ceresa-Gastaldo, 82). 
+1 52. On the importance of consent, συγκατάθεσιν, see *QD* 10, *QD* 39, *QD* 46, QD 77, *QD* 78, *QD* 193, *QD* I, 31, *QD* I, 33, and CC I.83 (Ceresa-Gastaldo, 82). 
 
 153\. See also, *QT* 6 1 .29 (CCSG 22, 85), and Aristotle, *Nich. Eth.* 10.4-5.1 1 74a-1 1 76a. 
 
@@ -1160,7 +1158,7 @@ ISO. [[Torah 04 - Vayera#^19-26|Gen 19:26]].
 
 1 68. Also found in Didymus the Blind, *Frag. Ps.* 465.45. 
 
-1 69. KcxKou, from *Vat.gr. 435;* see Declerck, apparatus, line 25, p. 38. 1 70. [[John 21#^21-9|John 21:9]]. 
+1 69. Κακοῦ, from *Vat.gr. 435;* see Declerck, apparatus, line 25, p. 38. 1 70. [[John 21#^21-9|John 21:9]]. 
 
 171\. [[Luke 19#^19-1|Luke 19:1-10]]. 
 
@@ -1178,7 +1176,7 @@ ISO. [[Torah 04 - Vayera#^19-26|Gen 19:26]].
 
 1 78. "Strong drink" is wine that has been fermented with sugar. See 
 
-OIKEpCX, LS, 729. 
+σίκερα, LS, 729. 
 
 *[p. 194]* ^pg204
 
@@ -1226,7 +1224,7 @@ OIKEpCX, LS, 729.
 
 200\. [[Ephesians 06#^6-17|Eph 6: 17]]. 
 
-201 . See Nazianzus, *Or. XXXIX, In s. /um.* 15 (PG 36.352D). The *QD* text reads *h* O t a tpouoa TO xeipov CX TTO TOU KpE1TTOV05 . 
+201 . See Nazianzus, *Or. XXXIX, In s. /um.* 15 (PG 36.352D). The *QD* text reads ἡ διαιροῦσα τὸ χεῖρον ἀπὸ τοῦ κρείττονος. 
 
 202\. See *QT* 10 (CCSG 7, 85). 
 
@@ -1292,9 +1290,9 @@ OIKEpCX, LS, 729.
 
 of Songs (GNO 6, 201 . 1 4) . 
 
-236\. [[Romans 08#^8-7|Rom 8:7]]; the *QD* text says OIOTI TO &lt;j)povriµa TR5 oapK05 'Ex8pa e'i 5 
+236\. [[Romans 08#^8-7|Rom 8:7]]; the *QD* text says διότι τὸ φρόνημα τῆς σαρκὸς ἔχθρα εἰς 
 
-8eov. Maximus includes sections from [[Romans 08#^8-2|Rom 8:2]]. 
+θεόν. Maximus includes sections from [[Romans 08#^8-2|Rom 8:2]]. 
 
 237\. [[Ephesians 02#^2-15|Eph 2:15]]. 
 
@@ -1308,7 +1306,7 @@ of Songs (GNO 6, 201 . 1 4) .
 
 242\. [[Philippians 02#^2-7|Phil 2:7]]. 
 
-243\. 0µ4>aAo5 , also understood as the god who is seated at the navel of the earth, i.e., the Oracle of Delphi; see Plato, *Rep.* IV.427c. 
+243\. Ὀμφαλός, also understood as the god who is seated at the navel of the earth, i.e., the Oracle of Delphi; see Plato, *Rep.* IV.427c. 
 
 244\. That is, in Origen *(Sel. Ps.* \[PG 12. 16360\]), Hesychius *(Com. brevis* 123.4. 1), Olympiodorus *(Com. Job* \[PG 93.194A\]), and Cyril of Alexandria *(Com. Is.* \[PG 70. 704B\]). 
 
@@ -1524,7 +1522,7 @@ passages in *Amb.Io.* 10 (PG 91.1120BC).
 
 341\. [[LXX Psalms 03#^3-7|Ps 3:7]]. 
 
-342\. The verb eKµox>.evw, translated here as "disturb, " also means "to force open with a crowbar,'' LSJ, 5 1 4. 
+342\. The verb ἐκμοχλεύω, translated here as "disturb, " also means "to force open with a crowbar,'' LSJ, 5 1 4. 
 
 343\. [[LXX Psalms 80#^80-3|Ps 80:3]]. 
 
@@ -1714,7 +1712,7 @@ NOT E S TO PAG ES 1 02-1 1
 
 435\. Hos 1 1 :8. 
 
-436\. [[LXX Psalms 104#^104-25|Ps 104:25]]. The biblical passage reads KcxpcSicxv cxuTwv, "their heart." 437. Maximus, *Amb.Io.* 7 (PG 91.1081A). 
+436\. [[LXX Psalms 104#^104-25|Ps 104:25]]. The biblical passage reads καρδίαν αὐτῶν, "their heart." 437. Maximus, *Amb.Io.* 7 (PG 91.1081A). 
 
 438\. Ibid. (PG 91. 1081B). 
 
@@ -2204,7 +2202,7 @@ some context. Noah lived over six hundred years.
 
 668\. See Declerck's critical edition, line 4 of the apparatus, page 1 56. I 
 
-have chosen to translate Torrov over Tporrov. 
+have chosen to translate τόπον over τρόπον. 
 
 669\. [[Job 40#^40-16|Job 40: 16]]. 
 

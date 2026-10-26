@@ -18,7 +18,7 @@ converted: 2026-10-07
 
 The Gate of Heaven 
 
-Rabbi Elazar said: What does Isaiah mean when he says, "And many peoples will go and say: 'Come let us go up to the Mountain of God, to the House of the God of Jacob'"? Why the God of Jacob and not the God of Abraham and Isaac? The answer is: Not like Abraham, who saw it as a Mountain ("as it is said this day, On the *mountain* God is seen" – [[Torah 04 - Vayera#^22-14|Genesis 22:14]]). And not like Isaac, for whom it was a Field ("And Isaac went out to pray in the *field*" – [[Torah 05 - Chayei Sara#^24-63|Genesis 24:63]]). But like Jacob, who called it a House: "And he called the name of that place the *House* of God" ([[Torah 07 - Vayetzei#^28-19|Genesis 28:19]]) ([[Pesachim 88#88a|*Pesachim* 88a]]). 
+Rabbi Elazar said: What does Isaiah mean when he says, "And many peoples will go and say: 'Come let us go up to the Mountain of God, to the House of the God of Jacob'"? Why the God of Jacob and not the God of Abraham and Isaac? The answer is: Not like Abraham, who saw it as a Mountain ("as it is said this day, On the *mountain* God is seen" – [[Torah 04 - Vayera#^22-14|Genesis 22:14]]). And not like Isaac, for whom it was a Field ("And Isaac went out to pray in the *field*" – [[Torah 05 - Chayei Sara#^24-63|Genesis 24:63]]). But like Jacob, who called it a House: "And he called the name of that place the *House* of God" ([[Torah 07 - Vayetzei#^28-19|Genesis 28:19]]) (*Pesachim* [[Pesachim 88#88a|88a]]). 
 
 The story of the quest for the Temple begins with the patriarch Abraham, who changed the entire course of human history by finding God and teaching the world about Him. 
 
@@ -54,7 +54,7 @@ Years after his dream of the ladder, when Jacob went with his children into exil
 
 "And God said to Moses: Tell the Children of Israel to take for Me an offering… and let them make Me a Sanctuary and I will dwell in their midst. According to all that I show you, the design of the dwelling-place and the design of all its utensils, so shall you make it" ([[Torah 19 - Terumah#^25-1|Exodus 25:1ff]]). 
 
-The Bible gives a detailed account of the design of the Sanctuary and its vessels (Exodus chapters 25-31). The chief craftsman was Bezalel son of Uri of the tribe of Judah. The Midrash relates that when Moses saw Bezalel's ready grasp of the design, he said: "You must have been in the shadow of God (*Betzel El*, a play on Bezalel) when He showed me the design, and that's how you knew" ([[Berakhot 55#55a|*Berachot* 55a]]). For "the design of the Sanctuary corresponds to the underlying scheme of creation" (*Tikuney Zohar*, Introduction p.12). The Rabbis taught: "Bezalel knew how to combine the letters with which heaven and earth were created" (*ibid.*). That is, he understood the different ways in which the supreme lights contained in the Letters of Creation combine to bring this world into being and sustain all its creatures. Correspondingly, he understood how to construct the physical Sanctuary in such a way that these lights would shine forth to all the creatures in the world in order to provide them with sustenance and blessing. 
+The Bible gives a detailed account of the design of the Sanctuary and its vessels (Exodus chapters 25-31). The chief craftsman was Bezalel son of Uri of the tribe of Judah. The Midrash relates that when Moses saw Bezalel's ready grasp of the design, he said: "You must have been in the shadow of God (*Betzel El*, a play on Bezalel) when He showed me the design, and that's how you knew" (*Berachot* [[Berakhot 55#55a|55a]]). For "the design of the Sanctuary corresponds to the underlying scheme of creation" (*Tikuney Zohar*, Introduction p.12). The Rabbis taught: "Bezalel knew how to combine the letters with which heaven and earth were created" (*ibid.*). That is, he understood the different ways in which the supreme lights contained in the Letters of Creation combine to bring this world into being and sustain all its creatures. Correspondingly, he understood how to construct the physical Sanctuary in such a way that these lights would shine forth to all the creatures in the world in order to provide them with sustenance and blessing. 
 
 After the Israelites entered the Land of Israel they set up the Sanctuary in Gilgal and then built a more permanent structure in Shilo and subsequently in Nov and Givon. The secrets of the design of 
 
@@ -90,7 +90,7 @@ Twenty years prior to this vision of the Heavenly Temple, as Ezekiel stood in ex
 
 *[p. 12]* ^pg12
 
-"Everything that Ezekiel saw, Isaiah also saw. But Ezekiel was like a villager who saw the King, while Isaiah was like a big city dweller who saw the King" ([[Chagigah 13#13b|*Chagigah* 13b]]). This rabbinic comment offers insight into why Ezekiel's visions, such as those of the Chariot and Heavenly Temple, are described in such graphic detail, in contrast to Isaiah's. Several generations prior to Ezekiel, Isaiah attained even higher levels of prophecy, having been in the Land of Israel when the First Temple stood in all its glory. Isaiah too saw the Chariot and the Heavenly Temple, as in his first vision, which opens with the words: "I saw God sitting upon a throne, high and lofty, and His train filled the Temple" ([[Isaiah 06#^6-1|Isaiah 6:1]]). 
+"Everything that Ezekiel saw, Isaiah also saw. But Ezekiel was like a villager who saw the King, while Isaiah was like a big city dweller who saw the King" (*Chagigah* [[Chagigah 13#13b|13b]]). This rabbinic comment offers insight into why Ezekiel's visions, such as those of the Chariot and Heavenly Temple, are described in such graphic detail, in contrast to Isaiah's. Several generations prior to Ezekiel, Isaiah attained even higher levels of prophecy, having been in the Land of Israel when the First Temple stood in all its glory. Isaiah too saw the Chariot and the Heavenly Temple, as in his first vision, which opens with the words: "I saw God sitting upon a throne, high and lofty, and His train filled the Temple" ([[Isaiah 06#^6-1|Isaiah 6:1]]). 
 
 Isaiah, Ezekiel and all the prophets saw one and the same God. They saw the same Throne of Glory and Heavenly Temple. But Isaiah lived in times which were better and more conducive to exalted spiritual vision. In this sense Isaiah was like a city dweller, who is less easily excited by the glory and bright lights. In Isaiah's time it was not so necessary to reveal all the details of the vision. 
 
@@ -112,7 +112,7 @@ The "soul" of the Torah revealed at Sinai was the prophetic vision of the inner 
 
 *[p. 14]* ^pg14
 
-system as a holographic model of those inner workings and the principle focus of devotion and prayer. At the peak of Jewish life in Israel, prophecy (which was integrally bound up with the Temple in Jerusalem) could almost be said to have been the national occupation: the Talmud states that *millions* of people practiced prophecy in biblical times ([[Megillah 14#14a|*Megillah* 14a]]). 
+system as a holographic model of those inner workings and the principle focus of devotion and prayer. At the peak of Jewish life in Israel, prophecy (which was integrally bound up with the Temple in Jerusalem) could almost be said to have been the national occupation: the Talmud states that *millions* of people practiced prophecy in biblical times (*Megillah* [[Megillah 14#14a|14a]]). 
 
 But with the moral degeneration that started to set in, the pursuit of prophecy began to be abused by "false prophets" and practitioners of foreign cults. The voice of true prophecy was increasingly forced to become that of reproof, while faithful practitioners of Abraham's methods of prayer-power had to conceal much of their knowledge from the wider public. 
 
@@ -220,7 +220,7 @@ The Heavenly Temple
 
 "My purpose in this work is to discuss the subject of the Heavenly Temple mentioned by our sages, to explain its form and structure in all their various details, and to show how the earthly Temple is in direct alignment with it in its structure and all its dimensions." 
 
-The Heavenly Temple is mentioned in a number of places in rabbinic literature. In the Talmud we find: "Rabbi Yochanan said: The Holy One blessed-be-He declared: 'I will not enter the heavenly Jerusalem until I enter the earthly Jerusalem.' Is there then a heavenly Jerusalem? Yes, as it is written ([[Psalms 122#^122-3|Psalms 122:3]]): 'Jerusalem will be built like the city that is joined to it together'" ([[Taanit 5#5a|*Taanit* 5a]]). 
+The Heavenly Temple is mentioned in a number of places in rabbinic literature. In the Talmud we find: "Rabbi Yochanan said: The Holy One blessed-be-He declared: 'I will not enter the heavenly Jerusalem until I enter the earthly Jerusalem.' Is there then a heavenly Jerusalem? Yes, as it is written ([[Psalms 122#^122-3|Psalms 122:3]]): 'Jerusalem will be built like the city that is joined to it together'" (*Taanit* [[Taanit 5#5a|5a]]). 
 
 The *Zohar* states: "The earthly Sanctuary depends upon the Upper Sanctuary, and that Upper Sanctuary depends in turn upon another Upper Sanctuary, which is the most exalted of all. All of them are included in one another, and this is the meaning of the verse ([[Torah 19 - Terumah#^26-6|Exodus 26:6]]): 'And the Sanctuary was *one*'" (*Zohar Pekudey* II, 235a). 
 
@@ -262,7 +262,7 @@ In *Mishkney Elyon Ramchal* provides vital keys to understanding both the physic
 
 *Rambam* had written: "Even though the building destined to be built in the future is written about in Ezekiel, it is not explained nor is it clear" (*Hilchot Beit Habechirah* 1:4). Even the mishnaic sages were perplexed by difficulties in Ezekiel's prophecies, including certain apparent contradictions to the *Halachah*. In the words of the Talmud: 
 
-"Rav Yehudah said in the name of Rav: Hananiah ben Hizkiah is most certainly remembered for good, for if it were not for him, the Book of Ezekiel would have been removed from the canon because his words seem to contradict the Torah. What did Hananiah do? They brought him up three hundred barrels of oil \[for light and food\] and he sat in an attic and reconciled all the difficulties" ([[Shabbat 13#13b|*Shabbat* 13b]] and see [[Menachot 45#45a|*Menachot* 45a]]). 
+"Rav Yehudah said in the name of Rav: Hananiah ben Hizkiah is most certainly remembered for good, for if it were not for him, the Book of Ezekiel would have been removed from the canon because his words seem to contradict the Torah. What did Hananiah do? They brought him up three hundred barrels of oil \[for light and food\] and he sat in an attic and reconciled all the difficulties" (*Shabbat* [[Shabbat 13#13b|13b]] and see *Menachot* [[Menachot 45#45a|45a]]). 
 
 Notwithstanding the labors of Hananiah ben Hizkiah, Ezekiel's prophecies remained a closed book for all but the most outstanding of scholars. The account of Ezekiel's vision of the Third Temple contains many passages whose meaning is extremely hard to determine even with the help of the classical commentators. Trying to build a picture 
 
@@ -284,7 +284,7 @@ Man?
 
 Does the Third Temple come down ready made and complete from Heaven, or do actual people have to build it? 
 
-According to *Rashi*, "The future Temple for which we are waiting will be revealed and come down from heaven fully built and complete, as it is written ([[Torah 16 - Beshalach#^15-17|Exodus 15:17]]): 'The Sanctuary, God, that *Your* hands established'" (*Rashi* on *Succah* 41a and see *Tosafot* there; see also *Rashi* on [[Rosh Hashanah 30#30a|*Rosh Hashanah* 30a]] and *Tosafot* on *Shavuot* 15b). 
+According to *Rashi*, "The future Temple for which we are waiting will be revealed and come down from heaven fully built and complete, as it is written ([[Torah 16 - Beshalach#^15-17|Exodus 15:17]]): 'The Sanctuary, God, that *Your* hands established'" (*Rashi* on *Succah* 41a and see *Tosafot* there; see also *Rashi* on *Rosh Hashanah* [[Rosh Hashanah 30#30a|30a]] and *Tosafot* on *Shavuot* 15b). 
 
 On the other hand, *Rambam* states that the main identifying sign of the Mashiach will be that he will physically build the Third Temple in its proper place (*Hilchot Melachim* 11:4). 
 

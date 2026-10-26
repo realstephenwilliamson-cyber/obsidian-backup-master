@@ -30,7 +30,7 @@ bhāvasyāhaṃmayasvātmatādātmyāveśyamānatā || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 08 - Chapter Seventeen#^pg166|p. 146]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=166>))
 >
-> Moreover, the invocation is the vocative (saṁbodha) (of the deity invoked in the Mantra). It is (an awakening – saṁbodha — of the deity, which is) the process of penetration into a state of oneness within one’s own (true) nature, consisting of (the self-reflective awareness of the unconditioned subjectivity of) ‘P (am) (ahahmaya), of the state of being (bhāva) situated within one’s own (true) nature (svasvabhāvasthiti).
+> Moreover, the invocation is the vocative (saṁbodha) (of the deity invoked in the Mantra). It is (an awakening – saṁbodha — of the deity, which is) the process of penetration into a state of oneness within one’s own (true) nature, consisting of (the self-reflective awareness of the unconditioned subjectivity of) ‘I’ (am) (ahahmaya), of the state of being (bhāva) situated within one’s own (true) nature (svasvabhāvasthiti).
 
 ## Viveka
 

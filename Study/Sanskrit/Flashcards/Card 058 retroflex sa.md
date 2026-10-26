@@ -20,16 +20,13 @@ nyasa: "fat (*vasā*)"
 ## Front
 
 - **Glyph:** ष
-- **Variation:** —
 - **Example:** घोष
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘<u>sh</u>napps’
-- **Class (as printed):** 3 (cerebral) · hard · sibilant
-- **Grid:** two rows, य र ल व and श ष स ह; in bold: ष
-- **Example:** ghoṣa (soft sound)
+> [!note]- Back
+> - **Pronunciation:** As in ‘<u>sh</u>napps’
+> - **Class:** cerebral · hard · sibilant
+> - य र ल व / श <u>ष</u> स ह
+> - **Example:** ghoṣa (soft sound)
 
 ## Register
 

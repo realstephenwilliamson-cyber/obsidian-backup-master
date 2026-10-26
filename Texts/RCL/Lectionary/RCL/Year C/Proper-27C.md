@@ -11,6 +11,7 @@ second_reading: "2 Thessalonians 2:1-5, 13-17"
 gospel: "Luke 20:27-38"
 first_reading_complementary: "Job 19:23-27a"
 psalm_complementary: "Psalm 17:1-9"
+psalm_bcp_complementary: "Psalm 17:1-9"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-27]]"
 cssclasses:

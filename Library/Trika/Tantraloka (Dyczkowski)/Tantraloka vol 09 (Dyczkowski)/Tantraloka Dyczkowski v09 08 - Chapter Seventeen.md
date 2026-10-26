@@ -1791,7 +1791,9 @@ This is the seventeenth chapter of the venerable Tantrāloka, called the Exposit
 
 456?\. Every time the rite of initiation is performed.
 
-457?\. Read viśista- for vikṣipta-. To call the initiation taught in this chapter vikṣipta (‘scattered, distracted’) makes no sense. Unless we understand that the initiation taught here is ‘scattered’, because the teacher can conjoin the disciple to this or that reality level unsystematically. But that is not the case. One wonders whether to emend vikṣipta- to sarikṣipta-, meaning ‘brief’. This possibility is precluded because this is the name given to the following chapter. The rite taught there is indeed brief. Moreover, the title is confirmed by the concluding statement there which declares that saṁkṣipto vidhir ukto ‘yaṁ ‘this, the brief procedure has been taught’ (18/11). One could perhaps emend, as Gnoli’s translation suggests, to visiṣṭa- ‘special’ or ‘particular’. The sense would be that this is a special initiation based on ‘particulars’, i.e. the reality levels etc., through which the postulant is made to pass.
+457?\. Read viśista- for vikṣipta-. To call the initiation taught in this chapter vikṣipta (‘scattered, distracted’) makes no sense. Unless we understand that the initiation taught here is ‘scattered’, because the teacher can conjoin the disciple to this or that reality level unsystematically. But that
 
 
 *[p. 192]* ^pg212
+
+is not the case. One wonders whether to emend vikṣipta- to sarikṣipta-, meaning ‘brief’. This possibility is precluded because this is the name given to the following chapter. The rite taught there is indeed brief. Moreover, the title is confirmed by the concluding statement there which declares that saṁkṣipto vidhir ukto ‘yaṁ ‘this, the brief procedure has been taught’ (18/11). One could perhaps emend, as Gnoli’s translation suggests, to visiṣṭa- ‘special’ or ‘particular’. The sense would be that this is a special initiation based on ‘particulars’, i.e. the reality levels etc., through which the postulant is made to pass.

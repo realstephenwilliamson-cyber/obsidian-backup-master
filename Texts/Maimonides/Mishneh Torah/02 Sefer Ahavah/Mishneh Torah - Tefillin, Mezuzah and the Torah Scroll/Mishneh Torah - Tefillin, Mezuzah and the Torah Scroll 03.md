@@ -142,7 +142,7 @@ At all times, a person should be careful that the external surface of the straps
     Note *Shulchan Aruch HaRav* 32:59 and the *Mishnah Berurah* 32:181, which state that since the squareness of *tefillin* is a halachah transmitted to Moses on Mount Sinai, the *tefillin* must remain square at all times. If over the course of time, their shape changes, they may no longer be used.
 [^4]: See Halachah 10.
 [^5]: of the square on the top and the base of the *tefillin*
-[^6]: The commentaries cite [[Sukkah 8#8a|*Sukkah* 8a]], which states that the diagonal of a square is approximately 1.4 times the length of one of its sides.
+[^6]: The commentaries cite *Sukkah* [[Sukkah 8#8a|8a]], which states that the diagonal of a square is approximately 1.4 times the length of one of its sides.
 [^7]: Each one being 90 degrees. See Halachot 2 and 4.
 [^8]: See Halachah 2.
 [^9]: See Halachah 8.
@@ -150,7 +150,7 @@ At all times, a person should be careful that the external surface of the straps
 [^11]: See Halachot 9-10.
 [^12]: See Halachot 3-4.
 [^13]: See Halachot 14.
-[^14]: See Halachah 13. Note [[Shabbat 62#62a|*Shabbat* 62a]], which states that the knot of the arm *tefillin*, which is shaped like a *yud*, is also a halachah transmitted to Moses on Mount Sinai.
+[^14]: See Halachah 13. Note *Shabbat* [[Shabbat 62#62a|62a]], which states that the knot of the arm *tefillin*, which is shaped like a *yud*, is also a halachah transmitted to Moses on Mount Sinai.
 [^15]: This appears to be the Rambam's preference. It is not, however, an absolute requirement.
 [^16]: Thus, the top of the *tefillin* must be a perfect square, but its side surfaces need not be square. This ruling is quoted by the *Shulchan Aruch* and the Ramah (*Orach Chayim* 32:39).  
     The *Bi'ur Halachah* emphasizes that it is not the top surface of the *tefillin* alone which must be square. At every point along its height, its circumference must be a perfect square. Thus, even if the top surface itself remains square, should the *tefillin* be crooked or noticeably indented at the sides, they are unacceptable.
@@ -182,7 +182,7 @@ At all times, a person should be careful that the external surface of the straps
 [^39]: As mentioned in the previous halachah, the parchment should be placed upright in the compartment.
 [^40]: See Halachah 10.
 [^41]: The *ma'aboret* of the arm *tefillin* is governed by the same principles as explained above with regard to the head *tefillin*.
-[^42]: The order of the passages chosen by the Rambam - when read by a person facing the person wearing the *tefillin* - reflects their order in the Torah ([[Menachot 34#34b|*Menachot* 34b]]). Hence, *V'hayah im shamo'a* is referred to as the final passage.
+[^42]: The order of the passages chosen by the Rambam - when read by a person facing the person wearing the *tefillin* - reflects their order in the Torah (*Menachot* [[Menachot 34#34b|34b]]). Hence, *V'hayah im shamo'a* is referred to as the final passage.
 [^43]: Rashi also prescribes this order for the passages of the *tefillin*, and this is the order that is accepted as halachah (*Shulchan Aruch, Orach Chayim* 34:1). Many other Torah authorities (among them Rav Hai Gaon and Rabbenu Tam) suggest a different order, placing the two passages that begin *V'hayah*, *V'hayah ki y'viacha* and *V'hayah im shamo'a* in the center, *Shema* on the right side of the person wearing the *tefillin*, and *Kadesh Li* on his left side.
 [^44]: The diagram accompanying this halachah is based on a diagram drawn by the Rambam himself and included in all texts of the *Mishneh Torah*.  
     Thus, the Rambam (and similarly, Rabbenu Tam and those who follow his opinion) considered that the order of the passages be calculated from the perspective of a person standing opposite the person wearing the *tefillin*. In contrast, there are other opinions (*Shimusha Rabbah* and the Ra'avad) who maintain that the order of the passages should be calculated from the perspective of the person wearing the *tefillin*. (This produces two further perspectives regarding the order of the *tefillin*. The *Shimusha Rabbah* follows the same order as the Rambam except that *V'hoyoh im Shamoa*, is placed in the first compartment on the left side of the person putting on the *tefillin*, not on the right side. Similarly, the Ra'avad shares Rabbenu Tam's view, but reverses the sides.)
@@ -195,7 +195,7 @@ At all times, a person should be careful that the external surface of the straps
 [^50]: The diagram accompanying this halachah is based on a diagram drawn by the Rambam himself and included in all texts of the *Mishneh Torah*.
 [^51]: Although the Ramah (*Orach Chayim* 32:47) accepts the Rambam's decision, he states that it is customary to glue the parchments together. He emphasizes that it is desirable to use glue that does not contain any non-kosher ingredients.
 [^52]: both of the head and the arm *tefillin* - are rolled closed - to be inserted into their compartments.
-[^53]: as a mezuzah must be rolled from אחדtowards שמע([[Menachot 31#31b|*Menachot* 31b]]).
+[^53]: as a mezuzah must be rolled from אחדtowards שמע(*Menachot* [[Menachot 31#31b|31b]]).
 [^54]: The *Bi'ur Halachah* (32) states that although rolling the passages is preferable, if the parchments were placed in the *tefillin* without being rolled closed they are acceptable.
 [^55]: The present custom is to use a piece of parchment (*Shulchan Aruch, Orach Chayim* 32:44). Although the Rambam considers this requirement to be a halachah transmitted to Moses on Mount Sinai, the Ashkenazic authorities do not agree. Accordingly, they maintain that, after the fact, if the passages are not wrapped in this parchment, the *tefillin* may still be used (*Shulchan Aruch HaRav* 32:68; *Mishnah Berurah* 32:205).  
     The difference between the Rambam and the Ashkenazic authorities depends on their interpretation of a passage from the Jerusalem Talmud (*Megilah*, Chapter 1). This difference in interpretation is also reflected in the laws regarding correcting a torn Torah scroll. See Chapter 9, Halachah 15.
@@ -241,28 +241,28 @@ At all times, a person should be careful that the external surface of the straps
 [^89]: The extension of the *tefillin*'s base described in Halachah 4.
 [^90]: The *Pri Megadim* writes that this knot must be tied with the specific intent that it be used for the mitzvah.
 [^91]: The Rambam's intent is that though the knot is square, the straps extending from either side each appearFJ 46as the legs of a *dalet*. Note the *Beit Yosef* (*Orach Chayim* 32), which states that it is preferable to tie a knot which is shaped like a *dalet* itself. (Unlike the Rambam's knot, which is square, this knot is a right angle.) Sephardic and Chassidic custom is to follow the *Beit Yosef*. Ashkenazim and Yemenites follow the Rambam's view.
-[^92]: [[Chullin 9#9a|*Chulin* 9a]] mentions this as one of the basic points of knowledge which every Torah scholar should possess.
-[^93]: The *Eshkol* associates this statement with the interpretation ([[Menachot 35#35b|*Menachot* 35b]]) of [[Torah 21 - Ki Tisa#^33-23|Exodus 33:23]]: "And you shall see My rear," that God showed Moses the knot of His head *tefillin*. Since it is impossible to describe that knot, God actually showed it to Moses.
+[^92]: *Chulin* [[Chullin 9#9a|9a]] mentions this as one of the basic points of knowledge which every Torah scholar should possess.
+[^93]: The *Eshkol* associates this statement with the interpretation (*Menachot* [[Menachot 35#35b|35b]]) of [[Torah 21 - Ki Tisa#^33-23|Exodus 33:23]]: "And you shall see My rear," that God showed Moses the knot of His head *tefillin*. Since it is impossible to describe that knot, God actually showed it to Moses.
 [^94]: The *Tur* (*Orach Chayim* 32) writes that - together with the *shin* embossed on the head *tefillin* and the *dalet* mentioned above - this *yud* completes God's name ידש.  
-    Significantly, in Halachah 1, the Rambam does not mention the *yud* as a "halachah transmitted to Moses on Mount Sinai." Our text of [[Shabbat 62#62a|*Shabbat* 62a]] confers that status on all three of these letters. *Tosafot* (*Shabbat*, *loc. cit.*) suggests emending the text of that passage and conferring that status on the *shin* alone.The Rambam appears to take an intermediate position.
+    Significantly, in Halachah 1, the Rambam does not mention the *yud* as a "halachah transmitted to Moses on Mount Sinai." Our text of *Shabbat* [[Shabbat 62#62a|62a]] confers that status on all three of these letters. *Tosafot* (*Shabbat*, *loc. cit.*) suggests emending the text of that passage and conferring that status on the *shin* alone.The Rambam appears to take an intermediate position.
 [^95]: have a loop to
 [^96]: The *Shulchan Aruch* (*Orach Chayim* 33:4) states that it is preferable that the straps be dyed black by a Jew with the intent that they be used for the mitzvah of *tefillin*. According to the Ramah, this is an absolute requirement.
 [^97]: The straps must remain black at all times. Frequently, after the *tefillin* have been worn for an extended period, the dye on the straps begins to fade (in particular, near the knots). Since the color of the straps is "a halachah transmitted to Moses on Mount Sinai," the *tefillin* are unacceptable if that color has faded. Accordingly, from time to time, it is desirable to check the straps and, if necessary, dye them again (*Mishnah Berurah* 33:19).
 [^98]: or any other color (*Shulchan Aruch, Orach Chayim* 33:3).
-[^99]: People might think that he is infested with skin ulcers and it is the blood oozing from them which makes the straps red (Rashi, [[Menachot 35#35a|*Menachot* 35a]]).
+[^99]: People might think that he is infested with skin ulcers and it is the blood oozing from them which makes the straps red (Rashi, *Menachot* [[Menachot 35#35a|35a]]).
 [^100]: before it is dyed; alternatively, the color of the underside of the compartment (*Kin'at Eliyahu*).
 [^101]: i.e., it should be the natural color of the leather.
 [^102]: The *Shulchan Aruch* (*Orach Chayim* 32:40) uses the expression, "It is a mitzvah that they be black." The *Nodah B'Yehudah* (*Orach Chayim* 1) cites the Jerusalem Talmud (*Megillah* 1:9), which states that it is a halachah transmitted to Moses on Mount Sinai that the compartments be black. The Rambam, however, does not consider dyeing the compartments an obligation of this nature.
 [^103]: i.e., both sides. This practice was never widely accepted (*Beit Yosef, Orach Chayim* 33).
 [^104]: i.e., the compartments
-[^105]: [[Shabbat 108#108a|*Shabbat* 108a]] derives this concept through the exegesis of [[Torah 15 - Bo#^13-9|Exodus 13:9]], "So that the Torah of God will be in your mouths."
+[^105]: *Shabbat* [[Shabbat 108#108a|108a]] derives this concept through the exegesis of [[Torah 15 - Bo#^13-9|Exodus 13:9]], "So that the Torah of God will be in your mouths."
 [^106]: since it is not permitted to be eaten, it may not be used for *tefillin*
 [^107]: The Rambam appears to be stating that the compartments themselves may not be made from leather from a non-kosher species or from gold. The *Shulchan Aruch* (*Orach Chayim* 32:48), adds that this prohibition forbids attaching these substances to kosher *tefillin*.
 [^108]: If it was not processed with this intent, it is unacceptable (*Shulchan Aruch HaRav* 33:3; *Mishnah Berurah* 33:17).
 [^109]: i.e., the compartments
 [^110]: Accordingly, if processed, it is not necessary that it be processed with the intent that it be used for a mitzvah.  
     The Rambam's view is not accepted by most authorities. Rabbenu Asher states that the leather must be processed and that the processing must be carried out with the intent that the leather be used for the mitzvah. The *Shulchan Aruch* (*Orach Chayim* 32:37) accepts Rabbenu Asher's view, but writes that if no other *tefillin* are available, it is possible to rely on the Rambam's opinion.
-[^111]: [[Shabbat 79#79a|*Shabbat* 79a]] describes this as leather which was not processed with flour and salt and, therefore, likened to matzah, which is simple, without any flavoring.
+[^111]: *Shabbat* [[Shabbat 79#79a|79a]] describes this as leather which was not processed with flour and salt and, therefore, likened to matzah, which is simple, without any flavoring.
 [^112]: In one of his responsa, the Rambam writes that such leather is used because it is easier to shape. Others state that such leather becomes firmer.
 [^113]: for which a gentile is disqualified, as explained in Chapter 1, Halachah 13.
 [^114]: Halachah 2. Since embossing that *shin* is equivalent to writing, it must be done by a Jew with the proper intent.
@@ -270,20 +270,20 @@ At all times, a person should be careful that the external surface of the straps
 [^116]: for example, an apostate, a woman, a minor, or a Canaanite slave (Chapter 1, Halachah 13).
 [^117]: for the reason to be explained immediately
 [^118]: by making four compartments, separating the passages, and placing each one in its respective compartment. Similarly, a *shin* must be embossed on either side of the *tefillin*.
-[^119]: Rashi ([[Menachot 34#34b|*Menachot* 34b]]) explains that the head *tefillin* are considered to be on a higher level because they have the first two letters of the name שדי (the embossed *shin* and the *dalet* of the knot). In contrast, the arm *tefillah* has only one letter, the *yud* of the knot.
+[^119]: Rashi (*Menachot* [[Menachot 34#34b|34b]]) explains that the head *tefillin* are considered to be on a higher level because they have the first two letters of the name שדי (the embossed *shin* and the *dalet* of the knot). In contrast, the arm *tefillah* has only one letter, the *yud* of the knot.
 [^120]: This principle is applied in many other contexts in Torah law. For example, *Hilchot* tefillah 11:14 states that a house of study may not be transformed into a synagogue, because a house of study is on a higher level of holiness.
 [^121]: Within its discussion of these laws, the *Shulchan Aruch* (*Orach Chayim* 42:3) also mentions the prohibition against using articles associated with *tefillin* - e.g., a carrying bag - for mundane purposes.
 [^122]: The commentaries explain that this halachah communicates a fundamental principle of Torah law, הזמנה, designating an article to be used for a sacred purpose, alone is not sufficient for this holiness to be imparted to them. They must first be used for the purpose for which they were intended.  
     [Homiletically, this teaches us how important it is to express in deed all the resolves which we have made.]
 [^123]: The fact that inside, they are still divided into four compartments is not significant.
 [^124]: which sew the upper portion of the *tefillin*'s base to the lower portion, as described in Halachot 9 and 10
-[^125]: [[Menachot 35#35a|*Menachot* 35a]] mentions these laws with regard to "*tefillin* being torn." The Rambam explains that this refers to the stitches, as stated in this halachah. Rabbenu Asher, however, interprets this passage as referring to the leather separating one of the compartments of the head *tefillin* from the other. The *Shulchan Aruch* (*Orach Chayim* 33:1-2) quotes both opinions as halachah.
+[^125]: *Menachot* [[Menachot 35#35a|35a]] mentions these laws with regard to "*tefillin* being torn." The Rambam explains that this refers to the stitches, as stated in this halachah. Rabbenu Asher, however, interprets this passage as referring to the leather separating one of the compartments of the head *tefillin* from the other. The *Shulchan Aruch* (*Orach Chayim* 33:1-2) quotes both opinions as halachah.
 [^126]: Our translation of טבלה as "base" follows the interpretation of most authorities. Note, however, the *Bi'ur Halachah* (33), which stresses the emphasis the Rambam placed on the stitches being sewn in a square shape. (See Halachot 1 and 10.) If some of the stitches are torn, he explains, then the shape of these stitches may no longer be square, and that is the difficulty to which the Rambam is referring. Thus, he interprets טבלה is referring to "the square shape of the stitches."
 [^127]: Note that Rashi (*Menachot*, *loc. cit.*) and others interpret the passage as ruling more leniently with regard to "old" *tefillin* than "new" *tefillin*. Accordingly, *Shulchan Aruch HaRav* 33:2 and the *Mishnah Berurah* 33:15 state that, at the outset, one should follow the stringencies implied by both opinions, and replace the stitches whether the *tefillin* are new or old. If that is impossible and it is impossible for the person to obtain other *tefillin*, he may wear those with torn stitches whether they are new or old.
-[^128]: [[Menachot 35#35b|*Menachot* 35b]] derives this concept from the word וקשרתם, “And you shall tie them." As mentioned, this word can be divided in half – תם וקשר - which means "and you shall tie perfectly."
-[^129]: Since it was used for a mitzvah, it may not be discarded casually ([[Megillah 26#26b|*Megillah* 26b]]).
+[^128]: *Menachot* [[Menachot 35#35b|35b]] derives this concept from the word וקשרתם, “And you shall tie them." As mentioned, this word can be divided in half – תם וקשר - which means "and you shall tie perfectly."
+[^129]: Since it was used for a mitzvah, it may not be discarded casually (*Megillah* [[Megillah 26#26b|26b]]).
 [^130]: The *Shulchan Aruch* (*Orach Chayim* 33:5) mentions an opinion which allows one to sew (but not tie) the two portions of the torn strap together. It concludes that it is preferable to follow the Rambam's view, but if there is no alternative, the more lenient opinion may be followed.
 [^131]: i.e., if a strap tears, one may not continue using one of the pieces
 [^132]: or exceeds - the minimum requirements - mentioned in Halachah 12.
-[^133]: [[Menachot 35#35b|*Menachot* 35b]] states, "Their attractive side should face outward." [[Moed Katan 25#25a|*Mo'ed Katan* 25a]] relates that Rav Huna fasted for forty days to atone for the fact that his *tefillin* strap once became overturned.
+[^133]: *Menachot* [[Menachot 35#35b|35b]] states, "Their attractive side should face outward." *Mo'ed Katan* [[Moed Katan 25#25a|25a]] relates that Rav Huna fasted for forty days to atone for the fact that his *tefillin* strap once became overturned.
 [^134]: *Shulchan Aruch HaRav* 27:19 and the *Mishnah Berurah* 27:38 place greater emphasis on the portion of the strap which is tied around one's head and arm. If these portions of the strap become overturned, one should seek atonement by fasting or by donating to charity. Nevertheless, care should also be taken that the remainder of the straps do not turn over.

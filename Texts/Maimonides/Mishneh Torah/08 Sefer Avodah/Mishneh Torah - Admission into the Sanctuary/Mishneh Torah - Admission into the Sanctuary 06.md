@@ -98,9 +98,9 @@ c) blemishes that do not disqualify a priest, but because of the impression that
 [^16]: The commentaries note that there appears to be a contradiction between this statement and the Torah's explicit statements. The Torah mentions exceptionally long eye-brows and crushed testicles as blemishes. These blemishes apply to a human and not to an animal. Nevertheless, it appears that they are also included by the statement (*ibid.*:23): "He shall not desecrate My sacred offerings."
 [^17]: Even blemishes that are ordinarily covered by a person's clothes are considered as apparent.
 [^18]: A person who will not live more than 12 months.
-[^19]: This applies even when there was no transgression in the priest remaining uncircumcised, e.g., an instance when two of his brothers died because of circumcision (Rashi, [[Sanhedrin 83#83a|*Sanhedrin* 83a]]).
+[^19]: This applies even when there was no transgression in the priest remaining uncircumcised, e.g., an instance when two of his brothers died because of circumcision (Rashi, *Sanhedrin* [[Sanhedrin 83#83a|83a]]).
 [^20]: This term also has the connotation of an idolater.
-[^21]: Rashi (*ibid.* 84a) states that since the warning is dependent on a verse from the Prophets and not from the Torah itself, the person is not liable for lashes. The Rambam's view is based on [[Zevachim 18#18b|*Zevachim* 18b]] which maintains that the prohibition was taught by the Oral Tradition. Ezekiel merely provided a support. The Rambam, however, mentions the verse from Ezekiel because of the connection to the non-priest so that there will be a link to an explicit prohibition from the Torah.
+[^21]: Rashi (*ibid.* 84a) states that since the warning is dependent on a verse from the Prophets and not from the Torah itself, the person is not liable for lashes. The Rambam's view is based on *Zevachim* [[Zevachim 18#18b|18b]] which maintains that the prohibition was taught by the Oral Tradition. Ezekiel merely provided a support. The Rambam, however, mentions the verse from Ezekiel because of the connection to the non-priest so that there will be a link to an explicit prohibition from the Torah.
 [^22]: See Chapter 9, Halachah 1.
 [^23]: As a non-priest is (*ibid.*).
 [^24]: E.g., he married a divorcee or another woman forbidden to the priesthood. See *Hilchot Issurei Bi'ah*, chs. 17-19 where these prohibitions are detailed.
@@ -109,7 +109,7 @@ c) blemishes that do not disqualify a priest, but because of the impression that
 [^27]: Which is forbidden to a priest, as stated in *Hilchot Evel*, ch. 1.
 [^28]: For this prohibition is merely a Rabbinic safeguard.
 [^29]: A *challal* is a priest conceived in relations forbidden to a priest or the son of a *challal*. None of the mitzvot of the priesthood apply to him.
-[^30]: *Challal*, "desecrated," and *chayl*, "legion," share two of the same root letters. Hence the above concept can be derived ([[Kiddushin 66#66b|*Kiddushin* 66b]]).
+[^30]: *Challal*, "desecrated," and *chayl*, "legion," share two of the same root letters. Hence the above concept can be derived (*Kiddushin* [[Kiddushin 66#66b|66b]]).
 [^31]: The presence of the *Sanhedrin* in this chamber is discussed in *Hilchot Beit HaBechirah* 5:17 and *Hilchot Sanhedrin* 14:11-12.
 [^32]: See *Hilchot Issurei Bi'ah* 20:2.
 [^33]: Located in the Women's Courtyard; see *Hilchot Beit HaBechirah* 5:8.

@@ -110,7 +110,7 @@ page_range: 543–548
 
 ***Raḥamim***   “Compassion”; the sixth *sefirah*, harmonizing the polar opposites *Ḥesed* and *Din*; also called *Tif’eret*.
 
-***Raza de-Razin***   “The Secret of Secrets”; a separate section dealing with physiognomy, metoposcopy, and chiromancy (*Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-70a|2:70a]]–75a, *Zohar Ḥadash* 35b–37c). A second version is incorporated into the main body of the *Zohar* (2:70a–78a).
+***Raza de-Razin***   “The Secret of Secrets”; a separate section dealing with physiognomy, metoposcopy, and chiromancy (*Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-70a|2:70a]]–75a, *Zohar Ḥadash* [[Zohar 12.07 - Raza de-Razin#^zh-35b|35b–37c]]). A second version is incorporated into the main body of the *Zohar* (2:70a–78a).
 
 **Rosh Hashanah**   The Jewish New Year, celebrated on the first two days of the Hebrew month Tishrei.
 
@@ -134,7 +134,7 @@ page_range: 543–548
 
 ***Shir ha-Shirim***   The book of Song of Songs.
 
-***Sifra di-Tsni’uta***   “Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah in short, obscure sentences, divided into five chapters. Its subject is the mysteries of divine being. *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-176b|2:176b]]–179a.
+***Sifra di-Tsni’uta***   “Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah in short, obscure sentences, divided into five chapters. Its subject is the mysteries of divine being. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b|2:176b]]–179a.
 
 ***Sitrei Otiyyot***   “Secrets of the Letters”; a discourse by Rabbi Shim’on focusing on the letters of the divine name *YHVH* and how they symbolize the process of emanation. *Zohar Ḥadash* 1b–7b.
 

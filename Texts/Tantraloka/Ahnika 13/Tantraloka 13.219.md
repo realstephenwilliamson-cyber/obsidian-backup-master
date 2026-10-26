@@ -27,7 +27,7 @@ yaḥ punaḥ sarvatattvāni vettyetāni yathārthataḥ || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#^pg283|p. 261]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=283>))
 >
-> Due to the strength of a mildly intense (descent of the) power (of grace), a desire arises in him, by union with the influence of Śiva’s will, to go to a true teacher.’ He is described here in this scripture (the Mālinīvijayottara). As the Lord has said (there).... (with 13.218–219ab)
+> Due to the strength of a mildly intense (descent of the) power (of grace), a desire arises in him, by union with the influence of Śiva’s will, to go to a true teacher. He is described here in this scripture (the Mālinīvijayottara). As the Lord has said (there).... (with 13.218–219ab)
 >
 > ‘Whereas, he who knows all these reality levels (tattva) (each) as they truly are is a (true) teacher who, said to be equal to me, reveals the vitality of Mantras. People who are touched by (such a) one, recollected (by him), and are seen (by him) with a loving mind, are freed from (their) sins, even (all) those committed during seven lifetimes. Again, those living beings who, impelled by Śiva, have been initiated by him, having attained the fruits they desire, go to the plane devoid of disease (and death).’ (with 13.219cd–222ab)
 

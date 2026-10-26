@@ -30,7 +30,7 @@ sa svātmani svatantratvādvibhāgamavabhāsayet || ^iast
 > [!source] Dyczkowski, vol. II
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 02 (Dyczkowski)/Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#^pg377|p. 361]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 02.pdf#page=377>))
 >
-> The reflective awareness of this (couple) is perfectly full ‘P (consciousness) which, by virtue of its freedom, makes division (vibhāga) manifest within its own nature.
+> The reflective awareness of this (couple) is perfectly full ‘I’ (consciousness) which, by virtue of its freedom, makes division (vibhāga) manifest within its own nature.
 
 ## Viveka
 

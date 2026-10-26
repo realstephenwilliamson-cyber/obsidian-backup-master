@@ -24,7 +24,7 @@ Ezek. xxviii. 25, 26.
 
 4749
 
-Matt. iii. 9.
+[[Matthew 03#^3-9|Matt. iii. 9]].
 
 4750
 
@@ -40,11 +40,11 @@ Isa. lviii. 14.
 
 4753
 
-Luke xii. 37, 38.
+[[Luke 12#^12-37|Luke xii. 37]], [[Luke 12#^12-38|38]].
 
 4754
 
-Rev. xx. 6.
+[[Revelation 20#^20-6|Rev. xx. 6]].
 
 *[p. 949]* ^pg989
 
@@ -74,7 +74,7 @@ See. iv. 8, 3.
 
 4760
 
-Matt. xii. 5.
+[[Matthew 12#^12-5|Matt. xii. 5]].
 
 4761
 
@@ -120,13 +120,13 @@ find in the flesh, awaiting Him from heaven, and who have suffered tribulation, 
 
 2\. Now all these things being such as they are, cannot be understood in reference to super-celestial matters; “for God,” it is said, “will show to the whole earth that is under heaven thy glory.” But in the times of the kingdom, the earth has been called again by Christ \[to its pristine condition\], and Jerusalem rebuilt after the pattern of the Jerusalem above, of which the prophet Isaiah says, “Behold, I have depicted thy walls upon my hands, and thou art always in my sight.”<sup>4771</sup> And the apostle, too, writing to the Galatians, says in like manner, “But the Jerusalem which is above is free, which is the mother of us all.”<sup>4772</sup> He does not say this with any thought of an erratic Æon, or of any other power which departed from the Pleroma, or of Prunicus, but of the Jerusalem which has been delineated on \[God’s\] hands. And in the Apocalypse John saw this new \[Jerusalem\] descending upon the new earth.<sup>4773</sup> For after the times of the kingdom, he says, “I saw a great white throne, and Him who sat upon it, from whose face the earth fled away, and the heavens; and there
 
-566 The long quotation following is not found in Jeremiah, but in the apocryphal book of Baruch iv. 36, etc., and the whole 4770 of Baruch v. Isa. xlix. 16. 4771 Gal. iv. 26. 4772 Rev. xxi. 2.
+566 The long quotation following is not found in Jeremiah, but in the apocryphal book of Baruch iv. 36, etc., and the whole 4770 of Baruch v. Isa. xlix. 16. 4771 [[Galatians 04#^4-26|Gal. iv. 26]]. 4772 [[Revelation 21#^21-2|Rev. xxi. 2]].
 
 *[p. 952]* ^pg992
 
 was no more place for them.”<sup>4774</sup> And he sets forth, too, the things connected with the general resurrection and the judgment, mentioning “the dead, great and small.” “The sea,” he says, “gave up the dead which it had in it, and death and hell delivered up the dead that they contained; and the books were opened. Moreover,” he says, “the book of life was opened, and the dead were judged out of those things that were written in the books, according to their works; and death and hell were sent into the lake of fire, the second death.”<sup>4775</sup> Now this is what is called Gehenna, which the Lord styled eternal fire.<sup>4776</sup> “And if any one,” it is said, “was not found written in the book of life, he was sent into the lake of fire.”<sup>4777</sup> And after this, he says, “I saw a new heaven and a new earth, for the first heaven and earth have passed away; also there was no more sea. And I saw the holy city, new Jerusalem, coming down from heaven, as a bride adorned for her husband.” “And I heard,” it is said, “a great voice from the throne, saying, Behold, the tabernacle of God is with men, and He will dwell with them; and they shall be His people, and God Himself shall be with them as their God. And He will wipe away every tear from their eyes; and death shall be no more, neither sorrow, nor crying, neither shall there be any more pain, because the former things have passed away.”<sup>4778</sup> Isaiah also declares the very same: “For there shall be a new heaven and a new earth; and there shall be no remembrance of the former, neither shall the heart think about them, but they shall find in it joy and exultation.”<sup>4779</sup> Now this is what has been said by the apostle: “For the fashion of this world passeth away.”<sup>4780</sup> To the same purpose did the Lord also declare, “Heaven and earth shall pass away.”<sup>4781</sup> When these things, therefore, pass away above the earth, John, the Lord’s disciple, says that the new Jerusalem above shall \[then\] descend, as a bride adorned for her husband; and that this is the tabernacle of God, in which God will dwell with men. Of this Jerusalem the former one is an image—that Jerusalem of the former earth in which the righteous are disciplined beforehand for incorruption and prepared for salvation. And of this tabernacle Moses received the pattern in the mount;<sup>4782</sup> and nothing is capable of being allegorized, but all things are stedfast, and true, and substantial, having been made by God for righteous men’s enjoyment. For as it is God truly who raises up man, so also does man truly rise from the dead, and not allegorically, as I have shown repeatedly. And as he rises actually, so also shall he be actually disciplined beforehand for incorruption, and shall go forwards and flourish in the times of the kingdom, in order that he may
 
-Rev. xx. 11. 4774 Rev. xx. 12–14. 4775 Matt. xxv. 41. 4776 Rev. xx. 15. 4777 Rev. xxi. 1–4. 4778 Isa. lxv. 17, 18. 4779 1 Cor. vii. 31. 4780 Matt. xxvi. 35. 4781 Ex. xxv. 40.
+[[Revelation 20#^20-11|Rev. xx. 11]]. 4774 [[Revelation 20#^20-12|Rev. xx. 12–14]]. 4775 [[Matthew 25#^25-41|Matt. xxv. 41]]. 4776 [[Revelation 20#^20-15|Rev. xx. 15]]. 4777 [[Revelation 21#^21-1|Rev. xxi. 1–4]]. 4778 Isa. lxv. 17, 18. 4779 [[1 Corinthians 07#^7-31|1 Cor. vii. 31]]. 4780 [[Matthew 26#^26-35|Matt. xxvi. 35]]. 4781 Ex. xxv. 40.
 
 *[p. 953]* ^pg993
 
@@ -138,7 +138,7 @@ be capable of receiving the glory of the Father. Then, when all things are made 
 
 2\. \[They say, moreover\], that there is this distinction between the habitation of those who produce an hundred-fold, and that of those who produce sixty-fold, and that of those who produce thirty-fold: for the first will be taken up into the heavens, the second will dwell in paradise, the last will inhabit the city; and that was on this account the Lord declared, “In My Father’s house are many mansions.”<sup>4788</sup> For all things belong to God, who supplies all with a suitable dwelling-place; even as His Word says, that a share is allotted to all by the Father, according as each person is or
 
-567 Rev. xxi. 5, 6. 4783 1 Cor. vii. 31. 4784 Lib. iv. 5, 6. 4785 Isa. lxvi. 22. 4786 Thus in a Greek fragment; in the Old Latin, *Deus*. 4787
+567 [[Revelation 21#^21-5|Rev. xxi. 5]], [[Revelation 21#^21-6|6]]. 4783 [[1 Corinthians 07#^7-31|1 Cor. vii. 31]]. 4784 Lib. iv. 5, 6. 4785 Isa. lxvi. 22. 4786 Thus in a Greek fragment; in the Old Latin, *Deus*. 4787
 
 *[p. 954]* ^pg994
 
@@ -146,7 +146,7 @@ shall be worthy. And this is the couch on which the guests shall recline, having
 
 3\. John, therefore, did distinctly foresee the first “resurrection of the just,”<sup>4792</sup> and the inheritance in the kingdom of the earth; and what the prophets have prophesied concerning it harmonize \[with his vision\]. For the Lord also taught these things, when He promised that He would have the mixed cup new with His disciples in the kingdom. The apostle, too, has confessed that the creation shall be free from the bondage of corruption, \[so as to pass\] into the liberty of the sons of God.<sup>4793</sup> And in all these things, and by them all, the same God the Father is manifested, who fashioned man, and gave promise of the inheritance of the earth to the fathers, who brought it (the creature) forth \[from bondage\] at the resurrection of the just, and fulfils the promises for the kingdom of His Son; subsequently bestowing in a paternal manner those things which neither the eye has seen, nor the ear has heard, nor has \[thought concerning them\] arisen within the heart of man,<sup>4794</sup> For there is the one Son, who accomplished His Father’s will; and one human race also in which the mysteries of God are wrought, “which the angels desire to look into;”<sup>4795</sup> and they are not able to search out the wisdom of God, by means of which His handiwork, confirmed and incorporated with His Son, is brought to perfection; that His offspring, the First-begotten Word, should descend to the creature (*facturam*), that is, to what had been moulded (*plasma*), and that it should be contained by Him; and, on the other hand, the creature should contain the Word, and ascend to Him, passing beyond the angels, and be made after the image and likeness of God.<sup>4796</sup>
 
-Matt. xxii. 10. 4789 1 Cor. xv. 25, 26. 4790 1 Cor. xv. 27, 28. 4791 Luke xiv. 14. 4792 Rom. viii. 21. 4793 1 Cor. ii. 9; Isa. lxiv. 4. 4794 1 Pet. i. 12. 4795 Grabe and others suppose that some part of the work has been lost, so that the above was not its original conclusion.
+[[Matthew 22#^22-10|Matt. xxii. 10]]. 4789 [[1 Corinthians 15#^15-25|1 Cor. xv. 25]], [[1 Corinthians 15#^15-26|26]]. 4790 [[1 Corinthians 15#^15-27|1 Cor. xv. 27]], [[1 Corinthians 15#^15-28|28]]. 4791 [[Luke 14#^14-14|Luke xiv. 14]]. 4792 [[Romans 08#^8-21|Rom. viii. 21]]. 4793 [[1 Corinthians 02#^2-9|1 Cor. ii. 9]]; Isa. lxiv. 4. 4794 [[1 Peter 01#^1-12|1 Pet. i. 12]]. 4795 Grabe and others suppose that some part of the work has been lost, so that the above was not its original conclusion.
 
 *[p. 955]* ^pg995
 
@@ -174,7 +174,7 @@ This interesting extract we also owe to Eusebius, who (*ut sup.*) took it from t
 
 former friend of Irenæus had lapsed to Valentinianism. Florinus had previously held that God was the author of evil, which sentiment Irenæus opposed in a treatise, now lost, called περὶ μοναρχίας.
 
-Comp. p. 32, this volume, and Phil. iv. 22.
+Comp. p. 32, this volume, and [[Philippians 04#^4-22|Phil. iv. 22]].
 
 *[p. 956]* ^pg996
 
@@ -328,7 +328,7 @@ contrary, she was the stronger, since she appears to have been the helper of the
 
 XV.
 
-Matt. xv. 17.
+[[Matthew 15#^15-17|Matt. xv. 17]].
 
 4818
 
@@ -454,7 +454,7 @@ Num. xxii. 22, 23.
 
 4834
 
-From one of the mss. Stieren would insert ἐν τῷ ἰδίῳ σώματι, in His own body; see 1 Pet. ii. 24.
+From one of the mss. Stieren would insert ἐν τῷ ἰδίῳ σώματι, in His own body; see [[1 Peter 02#^2-24|1 Pet. ii. 24]].
 
 4835
 
@@ -505,7 +505,7 @@ XXX.<sup>4846</sup>
 
 Observe<sup>4848</sup> that, by means of the grain of mustard seed in the parable, the heavenly doctrine is denoted which is sown like seed in the world, as in a field, \[seed\] which has an inherent force, fiery and powerful. For the Judge of the whole world is thus proclaimed, who, having been hidden in the heart of the earth in a tomb for three days, and having become a great tree, has stretched forth His branches to the ends of the earth. Sprouting out from Him, the twelve apostles, having become fair and fruitful boughs, were made a shelter for the nations as for the fowls of heaven, under which boughs, all having taken refuge, as birds flocking to a nest, have been made partakers of that wholesome and celestial food which is derived from them.
 
-Matt. xxvii. 52.
+[[Matthew 27#^27-52|Matt. xxvii. 52]].
 
 4844
 
@@ -515,7 +515,7 @@ Edited by P. Possin, in a *Catena Patrum* on St. Matthew. See book iii. chap. xi
 
 From the same *Catena*. Compare book v. chap. xvii. 4.
 
-Matt. iii. 10.
+[[Matthew 03#^3-10|Matt. iii. 10]].
 
 4847
 
@@ -537,7 +537,7 @@ Inasmuch<sup>4853</sup> as certain men, impelled by what considerations I know n
 
 484\. 9 Massuet’s Fragment xxxii. is here passed over; it is found in book iii. chap. xviii. 7. See Josephus’ *Antiquities*, book ii. chap. x., where we read that this king’s daughter was called Tharbis. Immediately
 
-485\. 0 upon the surrender of this city (Saba, afterwards called Meroë) Moses married her, and returned to Egypt. Whiston, in the notes to his translation of Josephus, says, “Nor, perhaps, did St. Stephen refer to anything else when he said of Moses, before he was sent by God to the Israelites, that he was not only learned in all the wisdom of the Egyptians, but was also mighty in words and in deeds” (Acts vii. 22). Num. xii. 1, etc. 4851 Num. xii. 14. 4852 Harvey considers this fragment to be a part of the work of Irenæus referred to by Photius under the title *De Universo*, or 4853 *de Substantiâ Mundi*. It is to be found in Codex 3011 of the Bodleian Library, Oxford.
+485\. 0 upon the surrender of this city (Saba, afterwards called Meroë) Moses married her, and returned to Egypt. Whiston, in the notes to his translation of Josephus, says, “Nor, perhaps, did St. Stephen refer to anything else when he said of Moses, before he was sent by God to the Israelites, that he was not only learned in all the wisdom of the Egyptians, but was also mighty in words and in deeds” ([[Acts 07#^7-22|Acts vii. 22]]). Num. xii. 1, etc. 4851 Num. xii. 14. 4852 Harvey considers this fragment to be a part of the work of Irenæus referred to by Photius under the title *De Universo*, or 4853 *de Substantiâ Mundi*. It is to be found in Codex 3011 of the Bodleian Library, Oxford.
 
 
 *[p. 968]* ^pg1008
@@ -564,7 +564,7 @@ ms. *Catena* on the book of Kings in the Coislin Collection.
 
 4855
 
-John iii. 5.
+[[John 03#^3-5|John iii. 5]].
 
 4856
 
@@ -578,9 +578,9 @@ True<sup>4858</sup> knowledge, then, consists in the understanding of Christ, wh
 
 Those who have become acquainted with the secondary (i.e., under Christ) constitutions of the apostles,<sup>4868</sup> are aware that the Lord instituted a new oblation in the new covenant, according to \[the
 
-This extract and the next three were discovered in the year 1715 by \[Christopher Matthew\] Pfaff, a learned Lutheran, in 4858 the Royal Library at Turin. The mss. from which they were taken were neither catalogued nor classified, and have now disappeared from the collection. It is impossible to say with any degree of probability from what treatises of our author these four fragments have been culled. For a full account of their history, see Stieren’s edition of Irenæus, vol. ii. p. 381. \[But, in all candor, let Pfaff himself be heard. His little work is full of learning, and I have long possessed it as a treasure to which I often recur. Pfaff’s *Irenæi Fragmenta* was published at The Hague, 1715.\] 1 Cor. ii. 14. 4859 1 Pet. ii. 3.
+This extract and the next three were discovered in the year 1715 by \[Christopher Matthew\] Pfaff, a learned Lutheran, in 4858 the Royal Library at Turin. The mss. from which they were taken were neither catalogued nor classified, and have now disappeared from the collection. It is impossible to say with any degree of probability from what treatises of our author these four fragments have been culled. For a full account of their history, see Stieren’s edition of Irenæus, vol. ii. p. 381. \[But, in all candor, let Pfaff himself be heard. His little work is full of learning, and I have long possessed it as a treasure to which I often recur. Pfaff’s *Irenæi Fragmenta* was published at The Hague, 1715.\] [[1 Corinthians 02#^2-14|1 Cor. ii. 14]]. 4859 [[1 Peter 02#^2-3|1 Pet. ii. 3]].
 
-486\. 0 1 Tim. vi. 4, 5. 4861 Col. ii. 18. 4862 Rom. x. 8; Deut. xxx. 14. 4863 Phil. iii. 10. 4864 Harvey’s conjectural emendation, ἐπιπλοκὴ for ἐπιλογὴ, has been adopted here. 4865 Jude 3. 4866 1 Tim. i. 4. 4867 ταῖς δευτέραις τῶν ἀποστόλων διατάξεσι. Harvey thinks that these words imply, “the formal constitution, which the 4868 apostles, acting under the impulse of the Spirit, though still in a secondary capacity, gave to the Church.”
+486\. 0 [[1 Timothy 06#^6-4|1 Tim. vi. 4]], [[1 Timothy 06#^6-5|5]]. 4861 [[Colossians 02#^2-18|Col. ii. 18]]. 4862 [[Romans 10#^10-8|Rom. x. 8]]; Deut. xxx. 14. 4863 [[Philippians 03#^3-10|Phil. iii. 10]]. 4864 Harvey’s conjectural emendation, ἐπιπλοκὴ for ἐπιλογὴ, has been adopted here. 4865 Jude 3. 4866 [[1 Timothy 01#^1-4|1 Tim. i. 4]]. 4867 ταῖς δευτέραις τῶν ἀποστόλων διατάξεσι. Harvey thinks that these words imply, “the formal constitution, which the 4868 apostles, acting under the impulse of the Spirit, though still in a secondary capacity, gave to the Church.”
 
 
 *[p. 970]* ^pg1010
@@ -597,23 +597,23 @@ Mal. i. 11.
 
 4869
 
-Rev. v. 8. The same view of the eucharistic oblation, etc., is found in book iv. chap. xvii.: as also in Justin Martyr; see 4870
+[[Revelation 05#^5-8|Rev. v. 8]]. The same view of the eucharistic oblation, etc., is found in book iv. chap. xvii.: as also in Justin Martyr; see 4870
 
 *Trypho*, cap. xli. *supra* in this volume.
 
-Rom. xii. 1.
+[[Romans 12#^12-1|Rom. xii. 1]].
 
 4871
 
-Heb. xiii. 15.
+[[Hebrews 13#^13-15|Heb. xiii. 15]].
 
 4872
 
-Col. ii. 14.
+[[Colossians 02#^2-14|Col. ii. 14]].
 
 4873
 
-John iv. 24.
+[[John 04#^4-24|John iv. 24]].
 
 4874
 
@@ -625,7 +625,7 @@ Taken apparently from the *Epistle to Blastus, de Schismate*. Compare a similar 
 
 4876
 
-Col. ii. 16.
+[[Colossians 02#^2-16|Col. ii. 16]].
 
 *[p. 971]* ^pg1011
 
@@ -651,7 +651,7 @@ Isa. i. 14.
 
 487\. 8 “From the same collection at Turin. The passage seems to be of cognate matter with the treatise *De Resurrec*. Pfaff referred 4879 it either to the διαλέξεις διάφοροι or to the ἐπίδειξις ἀποστολικοῦ κηρύγματος.” —Harvey. This and the four following fragments are taken from mss. in the Vatican Library at Rome. They are apparently quoted
 
-488\. 0 from the homiletical expositions of the historical books already referred to. Judg. xv. 15. 4881 Judg. xiv. 6–19. 4882 1 Cor. iii. 16, 17. 4883 These words were evidently written during a season of persecution in Gaul; but what that persecution was, it is useless 4884 to conjecture. Judg. xv. 11. 4885 That is, when he fled to the rock Etam, he typified the true believer taking refuge in the spiritual Rock, Christ. 4886 Most probably from a homily upon the third and fourth chapters of Ezekiel. It is found repeated in Stieren’s and Migne’s 4887 edition as Fragment xlviii. extracted from a *Catena* on the Book of Judges. We give this brief fragment as it appears in the editions of Stieren, Migne, and Harvey, who speculate as to its origin. 4888 They seem to have overlooked the fact that it is the Greek original of the old Latin, *non facile est ab errore apprehensam resipiscere animam*,—a sentence found towards the end of book iii. chap. ii. With the exception of the initial text, this fragment is almost identical with No. xxv. 4889 Num. xxxi. 8.
+488\. 0 from the homiletical expositions of the historical books already referred to. Judg. xv. 15. 4881 Judg. xiv. 6–19. 4882 [[1 Corinthians 03#^3-16|1 Cor. iii. 16]], [[1 Corinthians 03#^3-17|17]]. 4883 These words were evidently written during a season of persecution in Gaul; but what that persecution was, it is useless 4884 to conjecture. Judg. xv. 11. 4885 That is, when he fled to the rock Etam, he typified the true believer taking refuge in the spiritual Rock, Christ. 4886 Most probably from a homily upon the third and fourth chapters of Ezekiel. It is found repeated in Stieren’s and Migne’s 4887 edition as Fragment xlviii. extracted from a *Catena* on the Book of Judges. We give this brief fragment as it appears in the editions of Stieren, Migne, and Harvey, who speculate as to its origin. 4888 They seem to have overlooked the fact that it is the Greek original of the old Latin, *non facile est ab errore apprehensam resipiscere animam*,—a sentence found towards the end of book iii. chap. ii. With the exception of the initial text, this fragment is almost identical with No. xxv. 4889 Num. xxxi. 8.
 
 
 *[p. 972]* ^pg1012
@@ -676,7 +676,7 @@ XLV.
 
 “And<sup>4889</sup> Balaam the son of Beor they slew with the sword.”<sup>4890</sup> For, speaking no longer by the Spirit of God, but setting up another law of fornication contrary to the law of God,<sup>4891</sup> this man shall
 
-489\. 0 Rev. ii. 14. 576 From the *Catena* on St. Paul’s Epistles to the Corinthians, edited by Dr. Cramer, and reprinted by Stieren. 4892 2 Cor. iv. 4. 4893 Extracted from a ms. of Greek theology in the Palatine Library at Vienna. The succeeding fragment in the editions of 4894 Harvey, Migne, and Stieren, is omitted, as it is merely a transcript of book iii. ch. x. 4. John v. 35. 4895 This fragment commences a series derived from the Nitrian Collection of Syriac mss. in the British Museum. 4896 The Syriac text is here corrupt and obscure. 4897 See. No. viii., which is the same as the remainder of this fragment.
+489\. 0 [[Revelation 02#^2-14|Rev. ii. 14]]. 576 From the *Catena* on St. Paul’s Epistles to the Corinthians, edited by Dr. Cramer, and reprinted by Stieren. 4892 [[2 Corinthians 04#^4-4|2 Cor. iv. 4]]. 4893 Extracted from a ms. of Greek theology in the Palatine Library at Vienna. The succeeding fragment in the editions of 4894 Harvey, Migne, and Stieren, is omitted, as it is merely a transcript of book iii. ch. x. 4. [[John 05#^5-35|John v. 35]]. 4895 This fragment commences a series derived from the Nitrian Collection of Syriac mss. in the British Museum. 4896 The Syriac text is here corrupt and obscure. 4897 See. No. viii., which is the same as the remainder of this fragment.
 
 
 *[p. 973]* ^pg1013
@@ -737,7 +737,7 @@ The<sup>4902</sup> sacred books acknowledge with regard to Christ, that as He is
 
 577 This extract had already been printed by M. Pitra in his *Spicilegium Solesmense*, p. 6.
 
-490\. 2 1 Cor. x. 4. 4903 John iv. 14. 4904 John viii. 58. 4905 John xx. 22. 4906 John viii. 59. 4907 John xx. 26. 4908 2 Cor. xiii. 4. 4909 Eph. iv. 9, 10. This extract from the Syriac is a shorter form of the next fragment, which seems to be interpolated in some places. The
+490\. 2 1 Cor. x. 4. 4903 [[John 04#^4-14|John iv. 14]]. 4904 [[John 08#^8-58|John viii. 58]]. 4905 [[John 20#^20-22|John xx. 22]]. 4906 [[John 08#^8-59|John viii. 59]]. 4907 [[John 20#^20-26|John xx. 26]]. 4908 [[2 Corinthians 13#^13-4|2 Cor. xiii. 4]]. 4909 [[Ephesians 04#^4-9|Eph. iv. 9]], [[Ephesians 04#^4-10|10]]. This extract from the Syriac is a shorter form of the next fragment, which seems to be interpolated in some places. The
 
 
 *[p. 976]* ^pg1016
@@ -752,7 +752,7 @@ LIV.
 
 The<sup>4912</sup> law and the prophets and evangelists have declared that Christ was born of a virgin, and suffered on the cross; was raised also from the dead, and taken up to heaven; that He was glorified, and reigns for ever. He is Himself termed the Perfect Intellect, the Word of God. He is the First-begotten,<sup>4913</sup> after a transcendent manner, the Creator of man; All in all; Patriarch among the patriarchs; Law in the law; the Priest among priests; among kings Prime Leader; the Prophet among the prophets; the Angel among angels; the Man among men; Son in the Father; God in God; King to all eternity. He was sold with Joseph, and He guided Abraham; was bound along with Isaac, and wandered with Jacob; with Moses He was Leader, and, respecting the people, Legislator. He preached in the prophets; was incarnate of a virgin; born in Bethlehem; received by John, and baptized in Jordan; was tempted in the desert, and proved to be the Lord. He gathered the apostles together, and preached the kingdom of heaven; gave light to the blind, and raised the dead; was seen in the temple, but was not held by the people as worthy of credit; was arrested by the priests, conducted before Herod, and condemned in the presence of Pilate; He manifested Himself in the body, was suspended upon a beam of wood, and raised from the dead; shown to the apostles, and, having been carried up to heaven, sitteth on the right hand of the Father, and has been glorified by
 
-491\. 1 latter is from an Armenian ms. in the Mechitarist Library at Venice. This fragment is thus introduced in the Armenian copy: “From St. Irenæus, bishop, follower of the apostles, on the Lord’s 4912 resurrection.” The Armenian text is confused here; we have adopted the conjectural emendation of Quatremere. 578 From an Armenian ms. in the Library of the Mechitarist Convent at Vienna, edited by M. Pitra, who considers this fragment 4914 as of very doubtful authority. It commences with this heading: “From the second series of Homilies of Saint Irenæus, follower of the Apostles; a Homily upon the Sons of Zebedee.” Matt. xx. 20. 4915 That is, the wine which flows from the grapes before they are trodden out.
+491\. 1 latter is from an Armenian ms. in the Mechitarist Library at Venice. This fragment is thus introduced in the Armenian copy: “From St. Irenæus, bishop, follower of the apostles, on the Lord’s 4912 resurrection.” The Armenian text is confused here; we have adopted the conjectural emendation of Quatremere. 578 From an Armenian ms. in the Library of the Mechitarist Convent at Vienna, edited by M. Pitra, who considers this fragment 4914 as of very doubtful authority. It commences with this heading: “From the second series of Homilies of Saint Irenæus, follower of the Apostles; a Homily upon the Sons of Zebedee.” [[Matthew 20#^20-20|Matt. xx. 20]]. 4915 That is, the wine which flows from the grapes before they are trodden out.
 
 
 *[p. 977]* ^pg1017

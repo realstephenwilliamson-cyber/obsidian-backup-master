@@ -32,7 +32,7 @@ gṛhītamiti suspaṣṭā niścayasya yataḥ prathā || ^iast
 >
 > He who says that (although) valid knowledge (māna) is not a thought construct, (but) depends (nonetheless) on thought constructs (to validate it) stands refuted indeed. (Only) that which has been (previously) correctly determined (siddha) can be (subsequently) understood by means of thought. (with 1.180cd–181ab)
 >
-> Insofar as the experience (prathā) of the ascertainment (niścaya) ‘(this) has been perceived’ is clearly evident, one knows (pratipadyate) that “I perceive by the power of oneness with thought-free consciousness (avikalpa). (with 1.181cd–182ab)
+> Insofar as the experience (prathā) of the ascertainment (niścaya) ‘(this) has been perceived’ is clearly evident, one knows (pratipadyate) that “I perceive” by the power of oneness with thought-free consciousness (avikalpa). (with 1.181cd–182ab)
 
 ## Viveka
 

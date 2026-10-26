@@ -180,14 +180,14 @@ If the portion set aside [as a replacement] becomes impure, it and the first por
 [^6]: Any place within the Temple Courtyard is acceptable (*Hilchot Ma'aseh HaKorbanot* 12:12).
 [^7]: And the meal-offering is acceptable. The *Kessef Mishneh* states that this is referring to an instance where he placed the handful of meal into a utensil and from the utensil it spilled to the floor. If, however, it falls to the floor from his hand, it is disqualified. As support, he cites a similar ruling with regard to the blood of a sacrifice (Chapter 1, Halachah 26).
 [^8]: See *Hilchot Ma'aseh HaKorbanot* 12:12 with regard to bringing the meal-offering to the altar.
-[^9]: [[Menachot 26#26a|*Menachot* 26a]] elaborates on the necessity of using a sacred utensil for each of these stages of service.
-[^10]: Although it need not be mixed with oil by a priest, it must be mixed in the Temple Courtyard ([[Menachot 9#9b|*Menachot* 9b]]).
+[^9]: *Menachot* [[Menachot 26#26a|26a]] elaborates on the necessity of using a sacred utensil for each of these stages of service.
+[^10]: Although it need not be mixed with oil by a priest, it must be mixed in the Temple Courtyard (*Menachot* [[Menachot 9#9b|9b]]).
 [^11]: As required for certain meal-offerings; see [[Torah 24 - Vayikra#^2-6|Leviticus 2:6]].
 [^12]: See *Hilchot Temidim UMusafim* 7:12 which describes the waving process which is necessary for certain meal-offerings.
 [^13]: See *Hilchot Ma'aseh HaKorbanot* 12:23.
 [^14]: One *log* for every *isaron* (*Hilchot Ma'aseh HaKorbanot* 12:7).
 [^15]: A handful per offering (*ibid.*).
-[^16]: There is no Biblical phrase using the exact wording employed by the Rambam. [[Menachot 11#11b|*Menachot* 11b]] derives the concept stated by the Rambam from [[Torah 25 - Tzav#^6-8|Leviticus 6:8]]. [[Torah 24 - Vayikra#^2-2|Leviticus 2:2]] uses a phrase very close to that cited by the Rambam.
+[^16]: There is no Biblical phrase using the exact wording employed by the Rambam. *Menachot* [[Menachot 11#11b|11b]] derives the concept stated by the Rambam from [[Torah 25 - Tzav#^6-8|Leviticus 6:8]]. [[Torah 24 - Vayikra#^2-2|Leviticus 2:2]] uses a phrase very close to that cited by the Rambam.
 [^17]: The use of a plural term indicates that one particle is not sufficient.
 [^18]: Double the usual measure.
 [^19]: Concerning which [[Torah 24 - Vayikra#^5-11|Leviticus 5:11]] states: "You shall not place upon it oil, nor shall you place upon it frankincense." See also *Hilchot Ma'aseh HaKorbanot* 12:7.
@@ -202,7 +202,7 @@ If the portion set aside [as a replacement] becomes impure, it and the first por
 [^28]: For here also anything less is not considered significant.
 [^29]: [[Torah 25 - Tzav#^7-10|Leviticus 7:10]] speaks of a meal-offering "mixed with oil or that is dry."
 [^30]: The remainder of the offering, however, need not be salted.
-[^31]: Although [[Menachot 18#18a|*Menachot* 18a]] states: "If salt was not placed on it, it is acceptable," it is explained (*ibid.* 20a): "If a priest did not salt it, but a non-priest did."
+[^31]: Although *Menachot* [[Menachot 18#18a|18a]] states: "If salt was not placed on it, it is acceptable," it is explained (*ibid.* 20a): "If a priest did not salt it, but a non-priest did."
 [^32]: *Hilchot Issurei Mizbeiach* 5:12. As stated there, this is a severity that applies to the meal-offerings and not to other sacrifices.
 [^33]: I.e., it must contain at least an *isaron*, as stated in *Hilchot Ma'aseh HaKorbanot* 12:5.
 [^34]: Hence it must be complete at that time.
@@ -214,18 +214,18 @@ If the portion set aside [as a replacement] becomes impure, it and the first por
 [^40]: On the afternoon of the Sabbath, before the showbreads are replaced by new breads, the bowls of frankincense are removed and the frankincense offered on the altar.
 [^41]: The Rambam is speaking after the fact. As an initial preference, once the handful of meal becomes impure, it should not be offered.
 [^42]: See Chapter 1, Halachot 34-35; *Hilchot Bi'at HaMikdash* 4:7; *Hilchot Me'ilah* 3:9, *et al*.
-[^43]: [[Menachot 26#26a|*Menachot* 26a]] derives this from a comparison to the laws regarding offering the blood on the altar when the meat of a sacrifice became impure or otherwise disqualified.
+[^43]: *Menachot* [[Menachot 26#26a|26a]] derives this from a comparison to the laws regarding offering the blood on the altar when the meat of a sacrifice became impure or otherwise disqualified.
 [^44]: Which causes the meal-offering to be disqualified.
 [^45]: And the person who brought it is considered to have fulfilled his obligation.
-[^46]: [[Menachot 9#9b|*Menachot* 9b]] derives this concept from [[Torah 24 - Vayikra#^2-3|Leviticus 2:3]]: "The remainder of the meal-offering shall be for Aaron and his sons." Implied is that the priests should receive the remainder of the offering and not the remainder of the remnants.
-[^47]: For the handful must be taken from an *isaron* of flour and since there is a division in the container, it is considered as if the *isaron* was brought in two containers which is unacceptable ([[Menachot 24#24a|*Menachot* 24a]]).
+[^46]: *Menachot* [[Menachot 9#9b|9b]] derives this concept from [[Torah 24 - Vayikra#^2-3|Leviticus 2:3]]: "The remainder of the meal-offering shall be for Aaron and his sons." Implied is that the priests should receive the remainder of the offering and not the remainder of the remnants.
+[^47]: For the handful must be taken from an *isaron* of flour and since there is a division in the container, it is considered as if the *isaron* was brought in two containers which is unacceptable (*Menachot* [[Menachot 24#24a|24a]]).
 [^48]: Since the flour is mixed together below, it is considered to be a single entity.
 [^49]: Since the question was not resolved, one should not attempt to bring the sacrifice in this manner.
 [^50]: The commentaries have not found an explicit source for this ruling. The *Kessef Mishneh* states that it is derived from the Halachah 20 above.
 [^51]: 15 handbreadths, for there are six showbreads in each arrangement and each one is two and one half handbreadths high.
 [^52]: I.e., if it remains overnight, is taken out of the Temple Courtyard, or the like. Beforehand, it could not be disqualified for those reasons. From the Rambam's wording, one can infer that placing the handful of meal on the table does not disqualify the handful entirely and if it is gathered and placed in a sacred vessel, it may be placed on the altar's pyre (*Kessef Mishneh*).
-[^53]: [[Menachot 11#11a|*Menachot* 11a]] questions whether these situations are acceptable and leaves the matter unresolved.
-[^54]: The rationale for the ruling is that their presence in a common container causes the different elements of an offering to be considered as one, even if they are not touching ([[Chagigah 20#20b|*Chagigah* 20b]]; *Hilchot Sha'ar Avot HaTuma'ah* 12:7). Hence, since these two portions were originally part of the same offering and they are now in the same container, the first part is also disqualified.
+[^53]: *Menachot* [[Menachot 11#11a|11a]] questions whether these situations are acceptable and leaves the matter unresolved.
+[^54]: The rationale for the ruling is that their presence in a common container causes the different elements of an offering to be considered as one, even if they are not touching (*Chagigah* [[Chagigah 20#20b|20b]]; *Hilchot Sha'ar Avot HaTuma'ah* 12:7). Hence, since these two portions were originally part of the same offering and they are now in the same container, the first part is also disqualified.
 [^55]: Since these two portions were never planned to be offered together, they do not share a halachic connection.
 [^56]: For the portion set aside as a replacement and the original portion were intended to serve as a single offering.
 [^57]: For as mentioned, it and the replacement have no intrinsic connection.
@@ -241,4 +241,4 @@ If the portion set aside [as a replacement] becomes impure, it and the first por
 [^67]: I.e., one might desire to offer the entire mixture so that he will have fulfilled his obligation to offer the handful. This, however, is undesirable for one will have offered a meal-offering without separating the handful from it.
 [^68]: Our translation reflects the version in the standard published texts of the *Mishneh Torah* even though many commentaries have questioned it and have suggested that the text should read: "or [the handful] became mixed with the remaining portion of another meal-offering." This version appears preferable, for seemingly, even if two offerings become mixed together, if their handfuls have already been separated, why shouldn't the handfuls be offered? Halachah 29 apparently leads to such a conclusion. Nevertheless, we did not correct the text in this fashion, for the authoritative manuscripts and early printings employ the same version as the standard printed text. Moreover, the Rambam's text of the Mishnah (*Menachot* 3:3) also contains such statements.
 [^69]: In the first instance, this refers to the mixture of the handful and the remainder. In the second instance, according to the standard version of the *Mishneh Torah*, it refers to the handful for the remainder that became intermingled with another remainder.
-[^70]: Generally, when a forbidden substance becomes mixed together with a permitted substance of the same type, the forbidden entity becomes *betal* - it is considered nullified because it is a tiny proportion of the mixture. Nevertheless, in this instance, [[Menachot 23#23b|*Menachot* 23b]] quotes a textual association to prove that the handful does not become *betal* to the remainder of the offering.
+[^70]: Generally, when a forbidden substance becomes mixed together with a permitted substance of the same type, the forbidden entity becomes *betal* - it is considered nullified because it is a tiny proportion of the mixture. Nevertheless, in this instance, *Menachot* [[Menachot 23#23b|23b]] quotes a textual association to prove that the handful does not become *betal* to the remainder of the offering.

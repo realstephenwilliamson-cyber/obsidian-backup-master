@@ -20,17 +20,13 @@ nyasa: "right ear (*karṇa*)"
 ## Front
 
 - **Glyph:** उ
-- **Variation:** —
 - **Example:** उत्तर
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘fl<u>u</u>te’
-- **Class (as printed):** 5 (labial) · short, soft · simple vowel
-- **Note (no printed label):** Full form - used only to begin a word.
-- **Grid:** the vowels अ आ इ ई उ ऊ / ए ऐ ओ औ; in bold: उ
-- **Example:** uttara (north)
+> [!note]- Back
+> - **Pronunciation:** As in ‘fl<u>u</u>te’
+> - **Class:** labial · short, soft · simple vowel
+> - अ आ इ ई <u>उ</u> ऊ / ए ऐ ओ औ
+> - **Example:** uttara (north)
 
 ## Register
 

@@ -11,6 +11,7 @@ second_reading: "Ephesians 4:1-16"
 gospel: "John 6:24-35"
 first_reading_complementary: "Exodus 16:2-4, 9-15"
 psalm_complementary: "Psalm 78:23-29"
+psalm_bcp_complementary: "Psalm 78:23-29"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-13]]"
 cssclasses:

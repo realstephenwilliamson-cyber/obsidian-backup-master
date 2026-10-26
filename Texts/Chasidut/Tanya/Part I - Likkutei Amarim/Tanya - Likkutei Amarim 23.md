@@ -55,12 +55,12 @@ This is the meaning of the verse, “And G–d commanded us [to do] all these st
 [^5]: Ch. 21.
 [^6]: [[Psalms 104#^104-24|Psalms 104:24]].
 [^7]: Further discussion on the immanent and transcending aspects of the Divine emanation will be found in chs. 41, 46, 48, and 51.
-[^8]: Cf. [[Megillah 3#3a|*Megillah* 3a]].
+[^8]: Cf. *Megillah* [[Megillah 3#3a|3a]].
 [^9]: …where there is no such obscurity as in the physical world.
 [^10]: Seemingly indicating that prayer has priority over study.
-[^11]: [[Shabbat 11#11a|*Shabbat* 11a]]; Maimonides, *Hilchot Tefillah* 6:8; Rabbi Schneur Zalman, *Shulchan Aruch*, *Orach Chaim* 106:4.
+[^11]: *Shabbat* [[Shabbat 11#11a|11a]]; Maimonides, *Hilchot Tefillah* 6:8; Rabbi Schneur Zalman, *Shulchan Aruch*, *Orach Chaim* 106:4.
 [^12]: [[Torah 45 - Vaetchanan#^6-24|Deuteronomy 6:24]]. In the quotation the word לעשות (“to do”) is missing.
 [^13]: *Avot* 3:17.
-[^14]: [[Shabbat 31#31b|*Shabbat* 31b]]; [[Yoma 72#72b|*Yoma* 72b]]—see Rashi there.
+[^14]: *Shabbat* [[Shabbat 31#31b|31b]]; *Yoma* [[Yoma 72#72b|72b]]—see Rashi there.
 [^15]: Hebrew text should read תחתונות instead of תחתונים.
 [^16]: Ch. 41.

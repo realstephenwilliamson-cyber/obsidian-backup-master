@@ -11,6 +11,7 @@ second_reading: "James 3:1-12"
 gospel: "Mark 8:27-38"
 first_reading_complementary: "Isaiah 50:4-9a"
 psalm_complementary: "Psalm 116:1-9"
+psalm_bcp_complementary: "Psalm 116:1-8"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-19]]"
 cssclasses:

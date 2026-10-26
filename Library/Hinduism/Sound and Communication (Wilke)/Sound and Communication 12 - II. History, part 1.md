@@ -401,7 +401,7 @@ ca
 
 me ता - tig ca me kra - \[प ca me 
 
-Owing to the monotonous repetition of the two syllables “(\$)ca-me” throughout the whole recitation, the performance of this special litany becomes almost hypnotic. This effect is compounded by the fact that the reciters often shout the syllable “me” (/mmň:/), making the e-vowel especially hard. The timbre becomes almost as shrill as the sound of a trumpet. Each of these “trumpet blasts” is introduced by a short, boisterous
+Owing to the monotonous repetition of the two syllables “(\$)ca-me” throughout the whole recitation, the performance of this special litany becomes almost hypnotic. This effect is compounded by the fact that the reciters often shout the syllable “me” (/mm̐:/), making the e-vowel especially hard. The timbre becomes almost as shrill as the sound of a trumpet. Each of these “trumpet blasts” is introduced by a short, boisterous
 
 *[p. 342]* ^pg366
 
@@ -784,7 +784,7 @@ If we follow on from de Saussure’s Anagrammes“ and analyze the very first hy
 agním ile puróhitam yajñásya devám rtvíjam /
 hótāram ratnadhāítamam //1//
 agníh púrvebhir fṣibhir ídiyo nútanair utá /
-sá devárň éhá vakṣati //2//
+sá devā́m̐ éhá vakṣati //2//
 agnínā rayím aśnavat póṣam evá divé-dive /
 yaśásam vīrávattamam //3//
 ágne yám yajñám adhvarám viśvátah paribhűúr ási /

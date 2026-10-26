@@ -29,7 +29,7 @@ bhāvanākaraṇādīnāṃ śive niravakāśatām || ^iast
 >
 > Therefore, no effort is required to penetrate into Him. The application of effort (yatnayoga) is in proportion to the distance (between us and Him). (with 10.215cd–216ab)
 >
-> Thus, those who possess the wealth of a (true spiritual) lineage consider that meditation (bhāvanā), a means (to realisation) (karana) or the like have no place in Śiva. (with 10.216cd–217ab)
+> Thus, those who possess the wealth of a (true spiritual) lineage consider that meditation (bhāvanā), a means (to realisation) (karaṇa) or the like have no place in Śiva. (with 10.216cd–217ab)
 
 ## Viveka
 

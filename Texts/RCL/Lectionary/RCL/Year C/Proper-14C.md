@@ -11,6 +11,7 @@ second_reading: "Hebrews 11:1-3, 8-16"
 gospel: "Luke 12:32-40"
 first_reading_complementary: "Genesis 15:1-6"
 psalm_complementary: "Psalm 33:12-22"
+psalm_bcp_complementary: "Psalm 33:12-22"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-14]]"
 cssclasses:

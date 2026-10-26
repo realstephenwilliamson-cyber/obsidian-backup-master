@@ -205,7 +205,7 @@ metrically lengthened final vowel (p. 440, 4; cp. 179, 1).
 यदिं। वा। दधे। यदिं।वा।न।
 यः| अस्व । अधिंऽअरकषः । परमे । वि \$ ओं मन् ।
 सः। अङ्ग । वेद् । यदि । वा। न। वेदं॥
-q7 iyám vísrṣtir yáta ābabhūū́va;
+q7 iyám vísrṣtir yáta ābabhū́va;
 
 yádi vā dadhé yádi vā ná:
 
@@ -3163,7 +3163,7 @@ pis adorn, VI. pimsá: pf. pipiŝúr, vii.
 
 pi-tá, pp. drunk, viii. 48, 4. 5. 10. 12.
 
-piyūū́ṣa, m. n. milk, ii. 85, 5 \[pī swell\].
+piyū́ṣa, m. n. milk, ii. 85, 5 \[pī swell\].
 
 putrá, m. son, i. 160, 3; v. 11, 6; vii.
 
@@ -3679,7 +3679,7 @@ man-iṣā́, f. thought, vii. 71,6 ; wisdom, X.
 
 Mán-u, m. an ancient sage, ii. 83, 13.
 
-mano-jūū́, a. swift as thought, i. 85, 4
+mano-jū́, a. swift as thought, i. 85, 4
 
 \[mánas mind + jù to speed}.
 

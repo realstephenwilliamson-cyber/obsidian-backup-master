@@ -252,7 +252,7 @@ In fact, there are several historically reasonable causes for the uncertainty of
 
 [[Ezekiel 37#^37-1|Ezekiel 37]] and Daniel 12 reflect quite different ways in which the concept of resurrection was tied to Israel’s restoration. But there is no necessary conceptual conflict between the two ideas. Indeed it may be that
 
-[^59]: In subsequent tradition Ezek. 37 became a key text in discussions of actual resurrection, though not without regard to national restoration. See [[Sanhedrin 92#92b|*b. Sanh.* 92b]]; *Pirqe R. El.* 33.
+[^59]: In subsequent tradition Ezek. 37 became a key text in discussions of actual resurrection, though not without regard to national restoration. See *b. Sanh.* [[Sanhedrin 92#92b|92b]]; *Pirqe R. El.* 33.
 [^60]: This discussion of [[Daniel 12#^12-1|Dan. 12.1–3]] largely follows G. W. E. Nickelsburg, Jr, *Resurrection,* *Immortality, and Eternal Life in Intertestamental Judaism* (HTS; Cambridge, MA: Harvard University Press, 1972), pp. 11–27.
 
 *[p. 105]* ^pg123

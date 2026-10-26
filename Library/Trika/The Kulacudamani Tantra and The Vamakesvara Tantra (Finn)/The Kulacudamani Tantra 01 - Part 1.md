@@ -180,16 +180,17 @@ PART I HISTORICAL PERSPECTIVE
 
 In seeking to place the Kulacūdāmaṇi and the "Nityāçṣoga5Sikarṇava" of the VāmakeSvarīmatam in their historical context, there are two lines of development to be borne in mind. One relates to the evolution of the Hindu scriptures in general and the other to the evolution of Mother Goddess worship.
 
-The earliest scriptures of India, and some of the earliest in the world are the Vedas. This corpus of sacred literature which was composed over a long period (+ 1500 BC - + 600 BC) includes not only the four Vedic Saṇmhitās,! but also the Vedāñgas,? the Brāhmaṇas,[^3] the Āraṇyakas and the Upaniṣads.[^4] As norms for religious life the Vedas were gradually superseded in many - but not all respects - by newer forms that found expression in a variety of works composed from +600 BC to + AD 800. This post-Vedic literature comprises texts such as the Śrauta, Grhya and Dharma Sūtras and 5āstras,’ the Epics[^6] and the Purāṇas.[^7] These unrevealed texts are often classified as "smọti" as opposed to that revealed body of Vedic texts known as "Sruti". The religion promoted in these smọtý texts is often closer to the Hinduism that we know today than the religion of the Vedas, but further modifications to "Hinduism" were yet to come and are reflected in texts
+The earliest scriptures of India, and some of the earliest in the world are the Vedas. This corpus of sacred literature which was composed over a long period (+ 1500 BC - + 600 BC) includes not only the four Vedic Saṇmhitās,[^1] but also the Vedāñgas,[^2] the Brāhmaṇas,[^3] the Āraṇyakas and the Upaniṣads.[^4] As norms for religious life the Vedas were gradually superseded in many - but not all respects - by newer forms that found expression in a variety of works composed from +600 BC to + AD 800. This post-Vedic literature comprises texts such as the Śrauta, Grhya and Dharma Sūtras and 5āstras,[^5] the Epics[^6] and the Purāṇas.[^7] These unrevealed texts are often classified as "smọti" as opposed to that revealed body of Vedic texts known as "Sruti". The religion promoted in these smọtý texts is often closer to the Hinduism that we know today than the religion of the Vedas, but further modifications to "Hinduism" were yet to come and are reflected in texts
 
-2\. The Rgveda, the Samaveda, the Yajurveda and the Atharvaveda.
+[^1]: The Rgveda, the Samaveda, the Yajurveda and the Atharvaveda.
 
-5\. Both the Araṇyakas and the Upaniṣads are appendices to the Brāhmaṇas and are of a speculative nature.
+[^4]: Both the Araṇyakas and the Upaniṣads are appendices to the Brāhmaṇas and are of a speculative nature.
 
-[^3]: Subjects affiliated to the study of the Vedie texts.
-[^4]: Explanatory appendices to the Samhitās.
-[^6]: Srauta sūtras deal with the exposition of the seriptures. Gghya sütras are concerned with domestice religious rites, and Dharma sutras and Sāstras instruct in all aspects of the law.
-[^7]: I.e., the Rūāmāīyana and the Mahāăbhārata. 7\. There are eighteen principal Purāṇas which generally deal in legends and traditional history.
+[^2]: Subjects affiliated to the study of the Vedie texts.
+[^3]: Explanatory appendices to the Samhitās.
+[^5]: Srauta sūtras deal with the exposition of the seriptures. Gghya sütras are concerned with domestice religious rites, and Dharma sutras and Sāstras instruct in all aspects of the law.
+[^6]: I.e., the Rūāmāīyana and the Mahāăbhārata.
+[^7]: There are eighteen principal Purāṇas which generally deal in legends and traditional history.
 
 *[p. 12]* ^pg8
 

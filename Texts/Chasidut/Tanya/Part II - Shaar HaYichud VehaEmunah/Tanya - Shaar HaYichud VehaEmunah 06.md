@@ -45,7 +45,7 @@ Yet these are His restraining powers, to hide and conceal, through the attribute
 [^7]: Cf. *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-19b|II:19b]].
 [^8]: The attributes correspond to the specific Names of G–d, namely—*Havaya* corresponds to kindness and mercy, *Elokim* to might, *Ad-nay* to sovereignty, etc. Cf. *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-10b|III:10b]], [[Zohar 7.03 - Parashat Va-Yiqra#^z3-11a|11a]].
 [^9]: Deuteronomy, ibid. Thus, the unity of G–d does not mean only that there are no other gods, but that there is nothing apart from Him, i.e., there is no existence whatsoever apart from His existence; the whole Creation is nullified within Him as the rays of the sun within the orb of the sun. This is the meaning of y*ichudah ilaah* (higher level Unity), which will be further explained in ch. 7, below.
-[^10]: [[Kiddushin 6#6a|*Kiddushin* 6a]]. In English: “Does a verse in the Torah require additional or secondary substantiation from the customs of the Land of Judah?”
+[^10]: *Kiddushin* [[Kiddushin 6#6a|6a]]. In English: “Does a verse in the Torah require additional or secondary substantiation from the customs of the Land of Judah?”
 [^11]: [[Psalms 146#^146-3|Psalms 146:3]].
 [^12]: Brackets are the author’s.
 [^13]: Deuteronomy, ibid.

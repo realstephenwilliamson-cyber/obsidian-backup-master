@@ -127,10 +127,10 @@ And so this tragic chapter in Israel's long history closes. The Zealots stood in
 
 1 *Ibid.* 411-19: TOO"o\\hov apa Tfjs TOOV O"c.:liJCrrc.:lV aa6eve!as 1'1 TfjS TOAIJT\]S laxvs hreKpaTet *(ibid.* 419). Commenting on the evidence of the Zealot readiness for martyrdom, Hengel observes : ' Man wird abschlie13end annehmen diirfen, da13 die Zeloten eine ausgepriigte Miirtyrer-tradition besa13en, die zugleich Ausdruck der festen Disziplin innerhalb der Sekte war ... Denn durch die eschatologische Deutung erhielt das Martyrium auch bei den Zeloten seinen positiven Sinn: es war der rascheste und sicherste Weg, der Freuden des messianischen Reiches teilhaftig zu werden' *(Die Zeloten,* pp. 276--7, see also pp. 382-3). WhatJosephus calls the 'madness of the Sicarii' also caused ·trouble in Cyrene *(War,* VII; 437 ff.). Possibly the half-shekel of the second year of the revolt found at Cyrene in 1956 may be a relic of this: cf. J. F. Healy in *J.S.S.* 11 (1957), 377-9; 
 
-2 E.g. Phinehas (Num. xxv. 7-8), and Mattathias (I Mace. ii. 23-6). 3 Josephus makes Agrippa 11 attest to the invincibility of Rome (cf. *War,* 11. 
+2 E.g. Phinehas ([[Torah 40 - Balak#^25-7|Num. xxv. 7-8]]), and Mattathias (I Mace. ii. 23-6). 3 Josephus makes Agrippa 11 attest to the invincibility of Rome (cf. *War,* 11. 
 
 357-89), and he explicitly states that Ananus considers. Rome's power irresistible (aiJaxa yap ij6et Ta 'PooiJaioov, *War,* IV. 320). 
 
-4 Mark viii. 34; cf. Matt. x. 38. Cf. Hengel, *Die Zeloten,* p. 266: 'liegt doch die Vermutung nahe, da13 Jesus hier eine zelotische Forme! aus dem allgemeinen Sprachgebrauch iibernommen hat.' 
+4 [[Mark 08#^8-34|Mark viii. 34]]; cf. [[Matthew 10#^10-38|Matt. x. 38]]. Cf. Hengel, *Die Zeloten,* p. 266: 'liegt doch die Vermutung nahe, da13 Jesus hier eine zelotische Forme! aus dem allgemeinen Sprachgebrauch iibernommen hat.' 
 
 IO

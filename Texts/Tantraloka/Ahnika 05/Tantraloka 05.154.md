@@ -33,7 +33,7 @@ nīle pīte sukhe duḥkhe saṃvidrūpamakhaṇḍitam || ^iast
 >
 > Therefore, (the yogi) whose mind is tranquil and is established in that kind of (conscious) nature, develops into (the higher form of) consciousness, which is unobscured and free of limitations. (with 5.153cd–154ab)
 >
-> The Master has said: ‘the conscious nature is undivided (and complete in everything), whether it is (objective, such as) blue or yellow, or (subjective, such as) pleasure or pain. Therefore, there is a wonderful variety in the means to realisation (and not in the pure consciousness, which is the ultimate goal). (with 5.154cd–155ab)
+> The Master has said: ‘the conscious nature is undivided (and complete in everything), whether it is (objective, such as) blue or yellow, or (subjective, such as) pleasure or pain.’ Therefore, there is a wonderful variety in the means to realisation (and not in the pure consciousness, which is the ultimate goal). (with 5.154cd–155ab)
 
 ## Viveka
 

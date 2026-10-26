@@ -30,7 +30,7 @@ vyāptiṃ sarvādhvasāmānyāṃ kintu yāge na vistaraḥ || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 09 - Chapter Eighteen#^pg216|p. 196]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=216>))
 >
-> And (so) it is said in the venerable Brahmayāmala that ‘(the teacher) should imagine (and contemplate) (bhāvayet), the universal pervasion common to all the paths in the brief (rite of initiation) (saṁkṣipta) also, however, in the (full) sacrificial rite (the projection of the paths) is extensive (in all its details).
+> And (so) it is said in the venerable Brahmayāmala that ‘(the teacher) should imagine (and contemplate) (bhāvayet), the universal pervasion common to all the paths in the brief (rite of initiation) (saṁkṣipta) also, however, in the (full) sacrificial rite (the projection of the paths) is extensive (in all its details).’
 
 ## Viveka
 

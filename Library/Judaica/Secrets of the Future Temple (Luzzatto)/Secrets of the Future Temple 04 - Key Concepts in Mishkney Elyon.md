@@ -100,7 +100,7 @@ An obvious implication of these teachings is that the growth of actual trees and
 
 wheat and oil offerings, the wine libations, the *Omer* barley offering and that of the First Fruits. 
 
-This indicates that material prosperity throughout the world actually depends on the Temple. This explains why the sages of the Torah taught that since the destruction of the Temple the quality of all kinds of produce has declined ([[Taanit 23#23a|*Taanit* 23a]] etc.), while the prophets foresaw that with its rebuilding, the world will enter a new era of prosperity and peace. 
+This indicates that material prosperity throughout the world actually depends on the Temple. This explains why the sages of the Torah taught that since the destruction of the Temple the quality of all kinds of produce has declined (*Taanit* [[Taanit 23#23a|23a]] etc.), while the prophets foresaw that with its rebuilding, the world will enter a new era of prosperity and peace. 
 
 Sources of *Shefa*: *Sefirot* and *Partzufim* 
 
@@ -330,7 +330,7 @@ The key to this rectified state of creation is *Seder*, Order. The Temple buildi
 
 *Ramchal* concludes his explanation of the Temple buildings and services with a discussion of the various levels of the Temple Mount and the steps that connect them. This links in with the discussion of *Shefa*, for it is on these "steps" that the various orders of creation "go up" to actually receive their share. 
 
-As the angels in the Heavenly Temple "ascend" to receive their *Shefa*, they chant, "Holy, Holy, Holy is the God of Hosts" ([[Isaiah 06#^6-3|Isaiah 6:3]]) and "Blessed be the glory of God from His place" ([[Ezekiel 03#^3-12|Ezekiel 3:12]]). These verses are recited daily at high points in the Jewish prayer services. *Ramchal*'s explanation of the "ascent of the angels" provides important keys to deeper understanding of the prayer services and how they channel *Shefa* to all the worlds. For the set daily prayers correspond to the Temple services ([[Berakhot 26#26b|*Berachot* 26b]]) and the *"*order" or 
+As the angels in the Heavenly Temple "ascend" to receive their *Shefa*, they chant, "Holy, Holy, Holy is the God of Hosts" ([[Isaiah 06#^6-3|Isaiah 6:3]]) and "Blessed be the glory of God from His place" ([[Ezekiel 03#^3-12|Ezekiel 3:12]]). These verses are recited daily at high points in the Jewish prayer services. *Ramchal*'s explanation of the "ascent of the angels" provides important keys to deeper understanding of the prayer services and how they channel *Shefa* to all the worlds. For the set daily prayers correspond to the Temple services (*Berachot* [[Berakhot 26#26b|26b]]) and the *"*order" or 
 
 *[p. 40]* ^pg40
 
@@ -468,7 +468,7 @@ Rest of the Temple Mount
 
 "There is a river whose streams bring joy to the city of God, the holy place of the *dwellings of the Supreme* (*Mishkney Elyon*)" ([[Psalms 046#^46-5|Psalms 46:5]]). 
 
-"Rabbi Yochanan said: The Holy One blessed-be-He declared: 'I will not enter the heavenly Jerusalem until I enter the earthly Jerusalem.' Is there then a heavenly Jerusalem? Yes, as it is written ([[Psalms 122#^122-3|Psalms 122:3]]): 'Jerusalem will be built like the city that is joined to it together'" ([[Taanit 5#5a|*Taanit* 5a]]). 
+"Rabbi Yochanan said: The Holy One blessed-be-He declared: 'I will not enter the heavenly Jerusalem until I enter the earthly Jerusalem.' Is there then a heavenly Jerusalem? Yes, as it is written ([[Psalms 122#^122-3|Psalms 122:3]]): 'Jerusalem will be built like the city that is joined to it together'" (*Taanit* [[Taanit 5#5a|5a]]). 
 
 Introduction 
 
@@ -544,7 +544,7 @@ This flaw is only possible in the lower realms and cannot reach the upper plane.
 
 On the other hand, pairing and union (*Zivug)* occurs when the lights draw close to each other. When they join together in this way, who can express the great beauty of their holiness and the power of their radiance? Like a raging fire they flash passionately to each other and become tightly bound together in great unity. The resulting power and delight bring joy to all the lights, one after the other, right up to the perfect, unified source, the Infinite One \[*Eyn Sof*\] blessed-be-He. And because of this great joy, a flow of abundant blessings comes forth from Him and descends to every level. 
 
-This pairing and union \[*Zivug*\] is absent in the lower realms. For this reason the sages said: "The Holy One blessed-be-He, said: I will not enter the heavenly Jerusalem until I enter the earthly Jerusalem" ([[Taanit 5#5a|*Taanit* 5a]]). For until the earthly Jerusalem is firmly established as the praise of all the earth, the King will not fully enter the heavenly Jerusalem. But as the repair of the lights brings them to greater and greater perfection, their power will spread with great force and the Holy Temple will be built in the lower world. But in the absence of this state of repair as a result of sin, the earthly House is destroyed. 
+This pairing and union \[*Zivug*\] is absent in the lower realms. For this reason the sages said: "The Holy One blessed-be-He, said: I will not enter the heavenly Jerusalem until I enter the earthly Jerusalem" (*Taanit* [[Taanit 5#5a|5a]]). For until the earthly Jerusalem is firmly established as the praise of all the earth, the King will not fully enter the heavenly Jerusalem. But as the repair of the lights brings them to greater and greater perfection, their power will spread with great force and the Holy Temple will be built in the lower world. But in the absence of this state of repair as a result of sin, the earthly House is destroyed. 
 
 *[p. 55]* ^pg55
 
@@ -596,7 +596,7 @@ Why did scripture use an expression that bears two meanings? The reason is that 
 
 will reign everywhere, and sadness and sighing will be banished. Of those days it is said: "On that day *YHVH* will be one and His Name one". 
 
-If I were to expand on this matter, it would lead into very extensive discussions that would take me way beyond the bounds of my subject. It is humanly impossible to grasp every single detail to the very end. Accordingly I will not stray far from the path. I will simply set before you a number of introductory explanations. Examine them carefully and you will gain an understanding of hidden secrets that are sealed up and reserved for the remnants whom God calls, secrets that serve as the garb of the Ancient One (cf. [[Isaiah 23#^23-18|Isaiah 23:18]] as explained in [[Pesachim 118#118a|*Pesachim* 118a]]). 
+If I were to expand on this matter, it would lead into very extensive discussions that would take me way beyond the bounds of my subject. It is humanly impossible to grasp every single detail to the very end. Accordingly I will not stray far from the path. I will simply set before you a number of introductory explanations. Examine them carefully and you will gain an understanding of hidden secrets that are sealed up and reserved for the remnants whom God calls, secrets that serve as the garb of the Ancient One (cf. [[Isaiah 23#^23-18|Isaiah 23:18]] as explained in *Pesachim* [[Pesachim 118#118a|118a]]). 
 
 The First Temple: *Chochmah* 
 

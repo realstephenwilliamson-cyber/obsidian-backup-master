@@ -20,17 +20,14 @@ nyasa: "ja: left hand (*kara*) · i: right eye (*dṛk*)"
 ## Front
 
 - **Glyph:** जि
-- **Variation:** —
 - **Example:** जित
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** As in ‘jita’ (conquered)
-- **Class (as printed):** short syllable
-- **root:** ‘to conquer’
-- **Grid:** a row of vowel signs (◌ा ◌ि ◌ी ◌ु ◌ू) above the five rows of stops + य र ल व; in bold: ◌ि, ज
-- **Example:** jita (conquered)
+> [!note]- Back
+> - **Pronunciation:** As in ‘jita’ (conquered)
+> - **root:** ‘to conquer’
+> - **Class:** short syllable
+> - ा <u>ि</u> ी ु ू / क ख ग घ ङ / च छ <u>ज</u> झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / य र ल व
+> - **Example:** jita (conquered)
 
 ## Register
 

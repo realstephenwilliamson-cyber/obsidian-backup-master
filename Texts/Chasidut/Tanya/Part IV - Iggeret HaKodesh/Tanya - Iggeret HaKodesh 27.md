@@ -62,7 +62,7 @@ But this radiation is in great latency and concealment, just like the sun radiat
 [^1]: Emended according to L. H. (Text states: “what he wrote to the inhabitants of the Holy Land,” etc., but that is an obvious printing mistake; see below, note 41). Subsequent note: The Lubavitcher Rebbe later commented that this letter was written to two addressees: one “to the inhabitants of the Holy Land,” and one “to the Chasidic community” in general. See L. H. (below, p. 785), and, in English, *Lessons in Tanya*, vol 5, pp. 525-526 (Kehot, 2017).
 [^2]: I.e., doubly and helpfully.—Par. [[Job 11#^11-6|Job 11:6]].
 [^3]: Par. [[II Kings 04#^4-9|II Kings 4:9]].
-[^4]: See [[Berakhot 28#28b|*Berachot* 28b]].
+[^4]: See *Berachot* [[Berakhot 28#28b|28b]].
 [^5]: Known as R. Mendel of Vitebsk (or Horodoky), of the leading disciples of R. Dov Ber, the Maggid of Mezeritch. After the Maggid’s demise, R. Shneur Zalman accepted his former colleague as his master. In 1777 R. Mendel ascended to the Holy Land, ultimately settling in Tiberias where he founded and led the Chasidic community. There he passed away, and was buried, on the 1st day of Iyar 5548 (1788). His teachings, letters, etc., were published under the titles *Pri Haaretz*; *Likkutei Amarim*; *Pri Ha’etz*.
 [^6]: V. L. (see below, note 41) has instead of etc.*—*“who stand on Torah, and worship, and the ‘service of *tzedakah*, quietness and surety forever….’” (Par. *Avot* 1:2; [[Isaiah 32#^32-17|Isaiah 32:17]]—cf. above, Epistle 12.)
 [^7]: [[Isaiah 38#^38-16|Isaiah 38:16]].
@@ -87,12 +87,12 @@ But this radiation is in great latency and concealment, just like the sun radiat
 [^26]: Par. [[Psalms 064#^64-7|Psalms 64:7]].
 [^27]: [[Proverbs 27#^27-19|Proverbs 27:19]]; see above, Epistle 1, note 26.
 [^28]: *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-162b|II:162b]].
-[^29]: Par. [[Isaiah 29#^29-23|Isaiah 29:23]].*—*Disciples are regarded as their master’s “children” and the “work of his hands”; see [[Sanhedrin 19#19b|*Sanhedrin* 19b]] and 99b.
+[^29]: Par. [[Isaiah 29#^29-23|Isaiah 29:23]].*—*Disciples are regarded as their master’s “children” and the “work of his hands”; see *Sanhedrin* [[Sanhedrin 19#19b|19b]] and 99b.
 [^30]: Par. [[Isaiah 02#^2-3|Isaiah 2:3]] (also: [[Micah 4#^4-2|Micah 4:2]]). Cf. *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-215a|II:215a]] and [[Zohar 8.03 - Parashat Qedoshim#^z3-87b|III:87b]] ff.
-[^31]: [[Zohar 7.08 - Parashat Aharei Mot#^z3-71b|III:71b]]; cf. [[Chullin 7#7b|*Chullin* 7b]].
-[^32]: [[Torah 45 - Vaetchanan#^7-11|Deuteronomy 7:11]]; see [[Eruvin 22#22a|*Eruvin* 22a]].
+[^31]: [[Zohar 7.08 - Parashat Aharei Mot#^z3-71b|III:71b]]; cf. *Chullin* [[Chullin 7#7b|7b]].
+[^32]: [[Torah 45 - Vaetchanan#^7-11|Deuteronomy 7:11]]; see *Eruvin* [[Eruvin 22#22a|22a]].
 [^33]: [[Psalms 097#^97-11|Psalms 97:11]].
-[^34]: The Garden of Eden (see [[Torah 06 - Toldot#^27-27|Genesis 27:27]] and *Rashi*, ad loc.; below, note 62).*—*See [[Chagigah 12#12a|*Chagigah* 12a]] and below, Epistle 29, note 21.
+[^34]: The Garden of Eden (see [[Torah 06 - Toldot#^27-27|Genesis 27:27]] and *Rashi*, ad loc.; below, note 62).*—*See *Chagigah* [[Chagigah 12#12a|12a]] and below, Epistle 29, note 21.
 [^35]: Par. [[Proverbs 08#^8-26|Proverbs 8:26]].
 [^36]: Par. [[Isaiah 35#^35-8|Isaiah 35:8]].
 [^37]: Religious matters.
@@ -108,7 +108,7 @@ But this radiation is in great latency and concealment, just like the sun radiat
 [^47]: [[Proverbs 21#^21-21|Proverbs 21:21]].
 [^48]: The *tzaddik*.
 [^49]: *Chesed* is synonymous with love; cf. above, Epistle 13, note 27.
-[^50]: *Rashi* on [[Torah 50 - Ki Tavo#^29-6|Deuteronomy 29:6]]; [[Avodah Zarah 5#5b|*Avodah Zarah* 5b]]; cf. *Tosafot*, [[Sotah 22#22b|*Sotah* 22b]] (s.v. *Vaed*). I.e., only a radiation and a mere ray are apprehended.
+[^50]: *Rashi* on [[Torah 50 - Ki Tavo#^29-6|Deuteronomy 29:6]]; *Avodah Zarah* [[Avodah Zarah 5#5b|5b]]; cf. *Tosafot*, *Sotah* [[Sotah 22#22b|22b]] (s.v. *Vaed*). I.e., only a radiation and a mere ray are apprehended.
 [^51]: See *Zohar* [[Zohar 1.081a|I:81a]]; [[Zohar 5.05 - Parashat Terumah#^z2-142a|II:142a]].
 [^52]: *Bereishit Rabbah* 65:22; *Tanchuma* (ed. Buber), *Toldot* 10, and 22. *Zohar* [[Zohar 8.03 - Parashat Qedoshim#^z3-84a|III:84a]].
 [^53]: Brackets appear in the text.
@@ -119,7 +119,7 @@ But this radiation is in great latency and concealment, just like the sun radiat
 [^58]: I.e., the mode of *ahavah rabbah* (magnanimous love). See above, Epistle 18, and notes 8-9, ad loc.
 [^59]: Par. [[Amos 4#^4-12|Amos 4:12]].
 [^60]: The faith, awe, and love of the *tzaddik*.
-[^61]: [[Megillah 6#6b|*Megillah* 6b]].
+[^61]: *Megillah* [[Megillah 6#6b|6b]].
 [^62]: The Garden of Eden; *Zohar* [[Zohar 8.03 - Parashat Qedoshim#^z3-84a|III:84a]]. Cf. *Rashi* on [[Torah 06 - Toldot#^27-27|Genesis 27:27]]; see also *Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-142b|I:142b]]. More on this term see *Aspaklarya Hameirah* on *Zohar* [[Zohar 8.09 - Idra Rabba#^z3-142b|III:142b]], par. 23.
 [^63]: Feminine waters; see above, Epistle 4, note 46; Intro., note 199.
 [^64]: *Tikkunei Zohar* 69 (112a); *Zohar* III:273a. See H. V., ad loc., and the ref. cited there.

@@ -27,7 +27,7 @@ sacintako vā gatacintako vā jñānī vimokṣaṃ labhate'pi cānte || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#^pg150|p. 133]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=150>))
 >
-> ‘(Wherever the liberated man dies, be it) in the middle of a street, amongst dung and urine, in the house of an outcaste, in hell, in a cemetery, the man of knowledge, whether he thinks or is free of thought, attains liberation, at the end (of his life) 9150.
+> ‘(Wherever the liberated man dies, be it) in the middle of a street, amongst dung and urine, in the house of an outcaste, in hell, in a cemetery, the man of knowledge, whether he thinks or is free of thought, attains liberation, at the end (of his life) also.’
 
 ## Viveka
 

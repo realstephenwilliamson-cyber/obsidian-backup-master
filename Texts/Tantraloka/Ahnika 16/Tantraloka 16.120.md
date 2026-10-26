@@ -30,7 +30,7 @@ uttarādikramāddvyekabhedo vidyādike traye || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#^pg76|p. 56]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=76>))
 >
-> That has been taught by Śambhu,' the Supreme Lord, in the Mālinīvijayottara, (where he says that) ‘in the three, beginning with (limited) knowledge, the worlds, starting from the upper one, take up respectively, two and one fingers (space each, thus making nine altogether).
+> That has been taught by Śambhu, the Supreme Lord, in the Mālinīvijayottara, (where he says that) ‘in the three, beginning with (limited) knowledge, the worlds, starting from the upper one, take up respectively, two and one fingers (space each, thus making nine altogether).’
 
 ## Viveka
 

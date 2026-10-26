@@ -31,7 +31,7 @@ otaḥ proto vyāptaḥ kalitaḥ pūrṇaḥ parikṣiptaḥ || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 05 (Dyczkowski)/Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#^pg331|p. 313]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 05.pdf#page=331>))
 > Dyczkowski numbers this verse 8.316cd–317ab.
 >
-> Therefore, the other (currents of creation) should also be known to be similar in their arrangement to the one current that has been described, which starts with the hells and ends with (Ananta), who is the guardian of the door. Unmanifest Nature and the finite power (Kala)) (of the individual soul are permutations) of Māyā (guhā). Brought about by (the same) Nature and finite power, its own permutation is threaded through, woven, pervaded, measured out and cast forth, full (of Māyā, its cause). (with 8.315–316)
+> Therefore, the other (currents of creation) should also be known to be similar in their arrangement to the one current that has been described, which starts with the hells and ends with (Ananta), who is the guardian of the door. Unmanifest Nature and the finite power (kalā) (of the individual soul are permutations) of Māyā (guhā). Brought about by (the same) Nature and finite power, its own permutation is threaded through, woven, pervaded, measured out and cast forth, full (of Māyā, its cause). (with 8.315–316)
 
 ## Viveka
 

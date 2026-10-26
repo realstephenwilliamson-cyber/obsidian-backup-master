@@ -51,7 +51,7 @@ LXX.
 
 Jer. ii. 27.
 
-Rom.i.25,
+[[Romans 01#^1-25|Rom.i.25]],
 
 CHAPTER V.
 
@@ -115,11 +115,11 @@ CAP. 1. 3.
 
 1Cor. 1.9.
 
-2 Cor.i.1:
+[[2 Corinthians 01#^1-1|2 Cor.i.1]]:
 
-Eph. i. 1.
+[[Ephesians 01#^1-1|Eph. i. 1]].
 
-Gal. iv.7.
+[[Galatians 04#^4-7|Gal. iv.7]].
 
 Prov.xxv.
 
@@ -344,7 +344,7 @@ John the blessed Baptist then is called an angel by the mouth of the Lord, not a
 
 cAP.i.6, 7.
 
-Gal. i. 1.
+[[Galatians 01#^1-1|Gal. i. 1]].
 
 Ib. 12.
 
@@ -577,7 +577,7 @@ Another. Jesus then said unto them, Yet a little while is Infra xii. the light w
 
 Another. John saith, He that saith he is in the light and hateth his brother is in darkness even until now. Of choice then is the light in us, and of will rather than of essence accrues it to things originate, if he that hateth his brother is in darkness. But the Only-Begotten is Light by Nature, for He hath not the dignity as the fruit of choice. Hence neither is He connatural to things originate Who is so far above them. 80.
 
-18\. John ii. 9.
+18\. [[John 02#^2-9|John ii. 9]].
 
 Another akin to this. He that loveth his brother abideth ΤΌ. ii. 10. in the light. Love imparteth to things originate what they have not, Light that is, but the Only-Begotten is Light: Other therefore is He than they in whom through love He is. G 2
 
@@ -591,7 +591,7 @@ Which lighteth every man that cometh into the world.
 
 Sure is the Divine, for he not only thinks that he ought to declare that the Only-Begotten is indeed the Very Light, but he adds forthwith to the things that he has said the demonstration thereof, all but crying aloud with most earnest voice, I say that He is the Very Light which liyhteth every man that cometh into the world.
 
-Do then, (may one say who would fain receive the Divine doctrines not without search,) the angels not lighten Acts x. 3. the mind of men? Cornelius, tell me, from whom did he learn that he must by Baptism be saved by God ? Judg.xiti/ And Manoah the father of Sampson, was he not by an angel’s voice fore-instructed of things to come? The Prophet Zech.i.9. Zechariah likewise does he not clearly tell us, And the angel that talked with me said unto me I will shew thee what these be? And again going through the same words, does a he not clearly shew that angels used to reveal the knowνοῦν αὐτῷ ledge of hidden things spiritually to him!? And behold, says 1b.i.3,4. he, the wugel that talked with we went forth and another angel went out to meet him and said unto him Run, speak to this youny man saying, Jerusalen shall be (vhabited as towns without walls for the multitude of men and cattle therein. What, tell me, does not the most wise Daniel too, falling in with marvellous visions, gain through the voice of angels the revelation of the things beheld by him? For hear him saying Dan. vii, And it caine to pass when I, I Daniel had seen the vision and 15, 16. sought for the meaning, then behold there stood before me as the
+Do then, (may one say who would fain receive the Divine doctrines not without search,) the angels not lighten [[Acts 10#^10-3|Acts x. 3]]. the mind of men? Cornelius, tell me, from whom did he learn that he must by Baptism be saved by God ? Judg.xiti/ And Manoah the father of Sampson, was he not by an angel’s voice fore-instructed of things to come? The Prophet Zech.i.9. Zechariah likewise does he not clearly tell us, And the angel that talked with me said unto me I will shew thee what these be? And again going through the same words, does a he not clearly shew that angels used to reveal the knowνοῦν αὐτῷ ledge of hidden things spiritually to him!? And behold, says 1b.i.3,4. he, the wugel that talked with we went forth and another angel went out to meet him and said unto him Run, speak to this youny man saying, Jerusalen shall be (vhabited as towns without walls for the multitude of men and cattle therein. What, tell me, does not the most wise Daniel too, falling in with marvellous visions, gain through the voice of angels the revelation of the things beheld by him? For hear him saying Dan. vii, And it caine to pass when I, I Daniel had seen the vision and 15, 16. sought for the meaning, then behold there stood before me as the
 
 *[p. 85]* ^pg149
 

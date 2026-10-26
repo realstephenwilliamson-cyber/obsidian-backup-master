@@ -1,6 +1,6 @@
 ---
 type: prompt
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 # Audit corrections (Oct 2026)
 
@@ -55,6 +55,7 @@ updated: 2026-10-25
 >   - 24 Oct (night), in S3: edits-C.json 1–16 (C-05 with the line decision 17 asks for, C-06 with the New Advent note, C-11), the rest of C-11 (the Polyphonic template's two comments, the Hub template), C-09, C-10 with decision 16a, C-12, C-16 (46 lines in six lectionary notes, not 28 in three) and decision 18; in S7, decision 10 (Stephen confirmed it; Whitney's 15 notes and catalog note trashed) and decision 30's last diff (approved); in S5(h), L-03 (one empty `.pdf.md` was left, and Haksar's PDF, which had gone to `.trash` in its place on 21 Oct, was restored);
 >   - 24 Oct (late night): S7 and S10 as their batches below now say, and decision 15 with S10.
 >   - 25 Oct: S1's house-rules changes (approved and applied: the narrow plugin-setting exception, the 15 s wait); in S2 the 37 "Tos" cases were decided (all approved, the decisions note records it); in S3 E-06's Matot row (`^parashat-mattot` in Zohar 12.11) and J2-07 (Fürlinger); S6 (see its batch); S7's decision 28 for the eight library books and the Zohar notes (675 ids); S8's decision 6 (Radhakrishnan, English-only layer, page images unchanged); later that day in S3: D-19, D-20, E-17, J1-21, and C-01 with fn 526 (1,456 joins in Augustine NPNF1 6, Chrysostom on Matthew and Gregory of Nyssa NPNF2 5); E-15 is moot after S10.
+>   - 26 Oct (the week's first session; AI log): S1's Guide edits (11 that still held); S2 whole (7,826 link edits in 104 notes; what was left is in the log); in S3, E-01/E-02 (9,672 Roman-chapter links) and T24b (78 Proper notes); S4 whole (486 changes, decision 12's 4,440 labels, A-10 with a fresh OCR of the right-hand pages, A-13, J3-22); S6's Finn leftovers (note 170 still has no definition); in S8, decision 7 (all eleven volumes: `Latin+san`, not `eng+san`, which strips the IAST; the new layer is the 5 Oct reading without the junk, so it is no second witness for the `[illegible]` gaps) and decision 9 (the Greek of *Questions and Doubts*); in decision 8, Graham's PDF stays as it is (Stephen); S11's D1, D2 and D4 (D3, D7, D9 and D10 are Stephen's steps in [[Plugin steps for Stephen (26 Oct 2026)]]; D5 left, his choice). Also the Talmud link labels (15,539) and the five views renamed *… View*. Left: S5; decision 8's other seven and Hume; the D3 button lines; the Holy Days render test before 1 Nov (Obsidian in front). The project doc *Next session (26 Oct 2026) - prompt* lists the leftovers.
 
 ````text
 Carry out the corrections of the complete vault audit of 19 Oct 2026 on my Obsidian vault (C:\Vaults\Obsidian Vault), batch by batch, as decided in AI/Audit decisions (19 Oct 2026, second round).md and as AI/Prompts/Audit corrections (Oct 2026).md (rewritten 23 Oct 2026) states them. I'm opting in to multi-agent work: you are the lead; agents prepare and check, only you write to the vault, and only through the runner (dry run first, backup, apply, check) or, for new files, the device bridge after a dry listing.

@@ -20,17 +20,13 @@ nyasa: "right eye (*dṛk*)"
 ## Front
 
 - **Glyph:** इ
-- **Variation:** —
 - **Example:** इह, इन्दु
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘l<u>i</u>ter’ or ‘p<u>i</u>n’
-- **Class (as printed):** 2 (palatal) · short, soft · simple vowel
-- **Note (no printed label):** Full form - used only to begin a word.
-- **Grid:** the vowels अ आ इ ई उ ऊ / ए ऐ ओ औ; in bold: इ
-- **Example:** iha (here) · indu (moon)
+> [!note]- Back
+> - **Pronunciation:** As in ‘l<u>i</u>ter’ or ‘p<u>i</u>n’
+> - **Class:** palatal · short, soft · simple vowel
+> - अ आ <u>इ</u> ई उ ऊ / ए ऐ ओ औ
+> - **Example:** iha (here) · indu (moon)
 
 ## Register
 

@@ -20,16 +20,13 @@ nyasa: "da: left foot (*pāda*) · ya: skin (*tvak*)"
 ## Front
 
 - **Glyph:** द्य
-- **Variation:** द्य (another form: da and ya side by side)
 - **Example:** वैद्य
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘vaidya’ (doctor)
-- **Class (as printed):** —
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: द, य
-- **Example:** vaidya (doctor)
+> [!note]- Back
+> - **Pronunciation:** As in ‘vaidya’ (doctor)
+> - **Variation:** द्य (another form: da and ya side by side)
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ <u>द</u> ध न / प फ ब भ म / <u>य</u> र ल व / श ष स ह
+> - **Example:** vaidya (doctor)
 
 ## Register
 

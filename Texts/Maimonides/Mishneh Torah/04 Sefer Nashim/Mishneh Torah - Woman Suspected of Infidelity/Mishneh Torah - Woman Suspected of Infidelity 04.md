@@ -156,18 +156,18 @@ Whenever a person is not careful regarding [the conduct of] his wife, his sons a
 [^5]: The commentaries note that there is no verse in the Torah that uses the wording cited by the Rambam. There are, however, several from which it could be implied that only one *sotah* should be compelled to drink at one time.
 [^6]: Her original refusal to drink the waters is interpreted as an admission of guilt that cannot be retracted.
 [^7]: For every scroll must be written for the sake of the woman who drinks its waters, as stated in Chapter 3, Halachah 8. See also Halachah 11 of this chapter.
-[^8]: The "ash heap" was a place in the Temple Courtyard, east of the altar, where sacrifices that became disqualified were burned. Rashi ([[Sotah 20#20a|*Sotah* 20a]]) states that this offering also had to be burned.
-[^9]: She is not compelled to drink them. At the outset, their purpose was to determine whether or not she was innocent. Through her admission, that determination was made (Rashi, [[Sotah 20#20a|*Sotah* 20a]]).
+[^8]: The "ash heap" was a place in the Temple Courtyard, east of the altar, where sacrifices that became disqualified were burned. Rashi (*Sotah* [[Sotah 20#20a|20a]]) states that this offering also had to be burned.
+[^9]: She is not compelled to drink them. At the outset, their purpose was to determine whether or not she was innocent. Through her admission, that determination was made (Rashi, *Sotah* [[Sotah 20#20a|20a]]).
 [^10]: Although God's name was blotted out in it, this does not endow it with holiness.
 [^11]: As must all sacrifices.
 [^12]: Significantly, in his Commentary on the Mishnah (*Sotah* 2:4), the Rambam quotes a different proof-text as the source for this concept.
 [^13]: I.e., in that order.
-[^14]: The *Kessef Mishneh* quotes Rashi ([[Sotah 17#17b|*Sotah* 17b]]) as stating that this means without having the lines of the scroll ruled (*sirtut*) before it is written.
+[^14]: The *Kessef Mishneh* quotes Rashi (*Sotah* [[Sotah 17#17b|17b]]) as stating that this means without having the lines of the scroll ruled (*sirtut*) before it is written.
 [^15]: For a more detailed definition of the term the Rambam uses, see *Hilchot Tefillin* 1:6.
 [^16]: I.e., a person other than a priest.
 [^17]: In his Commentary on the Mishnah, *Gittin* 2:3, the Rambam mentions Arabic terms for these words. Rav Kapach explains the meaning as follows: *Kumos* and *kankantum* are two similar substances, yellow and green powders, which when mixed with gallnut juice produce a black substance. Others translate *kumos* as gum or resin and *kankantum* as vitriol or atramentum sutorum.
 [^18]: See *Hilchot Tefillin* 1:4, which describes how ink was made.
-[^19]: [[Sotah 18#18a|*Sotah* 18a]] states that the decision in this instance resolves around the question of *bererah* - i.e., the idea that retroactively it can be considered that an activity was performed originally with an intent that becomes clarified only afterwards.  
+[^19]: *Sotah* [[Sotah 18#18a|18a]] states that the decision in this instance resolves around the question of *bererah* - i.e., the idea that retroactively it can be considered that an activity was performed originally with an intent that becomes clarified only afterwards.  
     There is an unresolved debate among the Sages if the principle of *bererah* is accepted with regard to questions of Scriptural law, and therefore, the more stringent approach is taken. In this instance, this implies that God's name should not be blotted out a second time.  
     Note the *Minchat Chinuch*, who asks how this questionable drinking of the water is considered sufficient to release a woman from the prohibition she incurred after violating her husband's warning and entering into privacy with the man in question.  
     Note also that Halachah 2 states that two *sotot* should not be forced to drink at the same time.
@@ -177,10 +177,10 @@ Whenever a person is not careful regarding [the conduct of] his wife, his sons a
 [^23]: *Sotah* (*ibid.*) also leaves this as an unresolved question. Since there is no binding decision that it is acceptable, the Rambam rules as above, that one may not blot out God's name in such a situation.
 [^24]: Since it came from the basin - and was measured in a sacred vessel - it must be used on the day on which it was taken. See *Hilchot Pesulei HaMukdashin*, ch. 3.
 [^25]: Mentioned in Chapter 3, Halachah 10.
-[^26]: Although in some halachic contexts (see *Hilchot Shechitah* 14:13) ash is considered to be dust, in this instance, the phrase "from the dust that is on the earth of the Tabernacle" implies a similarity between dust and earth ([[Sotah 16#16a|*Sotah* 16a]]).
-[^27]: Our translation follows [[Sotah 16#16b|*Sotah* 16b]]. The Meiri states that this refers to rotten wood.
-[^28]: I.e., that it existed there previously ([[Sotah 15#15b|*Sotah* 15b]]).
-[^29]: Although this deviates from the order stated in Chapter 3, Halachah 15, [[Sotah 19#19a|*Sotah* 19a]] states that this order is also acceptable, after the fact.
+[^26]: Although in some halachic contexts (see *Hilchot Shechitah* 14:13) ash is considered to be dust, in this instance, the phrase "from the dust that is on the earth of the Tabernacle" implies a similarity between dust and earth (*Sotah* [[Sotah 16#16a|16a]]).
+[^27]: Our translation follows *Sotah* [[Sotah 16#16b|16b]]. The Meiri states that this refers to rotten wood.
+[^28]: I.e., that it existed there previously (*Sotah* [[Sotah 15#15b|15b]]).
+[^29]: Although this deviates from the order stated in Chapter 3, Halachah 15, *Sotah* [[Sotah 19#19a|19a]] states that this order is also acceptable, after the fact.
 [^30]: See *Hilchot Issurei Mizbe'ach* 6:5. In such an instance, although the meal has been designated for use as a sacrifice, since it has not been placed in a sacred vessel, its actual substance has not become consecrated.
 [^31]: With the money received from redeeming the first one.
 [^32]: Since it was placed in a sacred vessel, it became consecrated. Consequently, once it became impure it must be burned, as stated in *Hilchot Pesulei Hamukdashim* 19:1.
@@ -191,12 +191,12 @@ Whenever a person is not careful regarding [the conduct of] his wife, his sons a
 [^37]: Many authorities maintain that a printer's error has crept into the text and the text should read "the remainder is eaten." Nevertheless, the majority favor the version stated above.
 [^38]: As stated in [[Torah 25 - Tzav#^6-15|Leviticus 6:15]], a meal offering brought by a priest should not be eaten, but instead burned on the altar.
 [^39]: The meal offerings brought by priests are offered on the altar entirely, without a fistful of meal being separated. For a meal offering brought by a non-priest to be acceptable, by contrast, the fistful of meal must be separated and burned as a distinct entity. See *Hilchot Ma'aseh HaKorbanot* 12:12.
-[^40]: The term used by the Rambam (and his source, [[Sotah 6#6b|*Sotah* 6b]]) refers to *hazamah*, when the testimony of the witnesses is disqualified because others testify that they and the witnesses were together in another place at the time the witnesses say the act took place. Seemingly, the same law would apply if the witnesses' testimony was disqualified on other grounds.
+[^40]: The term used by the Rambam (and his source, *Sotah* [[Sotah 6#6b|6b]]) refers to *hazamah*, when the testimony of the witnesses is disqualified because others testify that they and the witnesses were together in another place at the time the witnesses say the act took place. Seemingly, the same law would apply if the witnesses' testimony was disqualified on other grounds.
 [^41]: It need not be redeemed. The rationale is that it was consecrated based on a false premise - that the woman had entered into privacy with the man in question. Whenever an entity is consecrated on a false premise, the consecration is not binding.
-[^42]: The commentaries have questioned why the Rambam quotes the derivation of this concept from the *Midrash* (*Sifre Zuta*), instead of citing the Talmud ([[Keritot 9#9b|*Keritot* 9b]]), which cites a different proof-text.
+[^42]: The commentaries have questioned why the Rambam quotes the derivation of this concept from the *Midrash* (*Sifre Zuta*), instead of citing the Talmud (*Keritot* [[Keritot 9#9b|9b]]), which cites a different proof-text.
 [^43]: *Gilgul Sh'vuah* implies that when taking an oath on one claim, a person may be required to include a variety of related claims in that oath. See *Hilchot To'en V'Nit'an* 1:12.
 [^44]: For even if she did engage in relations with another man at that time, she would not be forbidden to her *yavam* (*Hilchot Yibbum* 2:20).
-[^45]: [[Sotah 3#3a|*Sotah* 3a]] records a difference of opinion regarding this matter between Rabbi Akiva and Rabbi Yishmael. Rabbi Akiva states, as the Rambam rules here, that a man is obligated to issue a warning, while Rabbi Yishmael maintains that the matter is optional. Other commentaries note that the first mishnah in the tractate of *Sotah* appears to indicate that it is forbidden for a husband to issue a warning. (This concept is derived as follows: The mishnah begins: "When a man issued a warning...." From this wording, our Sages infer that the mishnah is speaking after the fact. At the outset, a warning should not be given.)  
+[^45]: *Sotah* [[Sotah 3#3a|3a]] records a difference of opinion regarding this matter between Rabbi Akiva and Rabbi Yishmael. Rabbi Akiva states, as the Rambam rules here, that a man is obligated to issue a warning, while Rabbi Yishmael maintains that the matter is optional. Other commentaries note that the first mishnah in the tractate of *Sotah* appears to indicate that it is forbidden for a husband to issue a warning. (This concept is derived as follows: The mishnah begins: "When a man issued a warning...." From this wording, our Sages infer that the mishnah is speaking after the fact. At the outset, a warning should not be given.)  
     Significantly, Rabbi Akiva was noted for his love of his fellow man, as he stated: "'Love your fellow man as yourself,'... this is a great general principle within the Torah." This implies - and so is evident from the continuation of the Rambam's words - that the warning is not an instrument of strife, but rather is intended to prompt love and closeness.
 [^46]: For this is likely to cause shame and embarrassment and prevent healthy communication between husband and wife. If, however, a warning that was delivered gently and in private is not effective, then the husband should warn his wife in the presence of witnesses.
 [^47]: I.e., giving them gentle warnings, as mentioned in the first clause of this halachah.

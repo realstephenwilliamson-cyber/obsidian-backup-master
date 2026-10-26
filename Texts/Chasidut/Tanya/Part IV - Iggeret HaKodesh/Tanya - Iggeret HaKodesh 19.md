@@ -95,7 +95,7 @@ And this is the rank of the *achorayim* and externality of the *n.h.y.* of the *
 [^26]: *Chachmei HaEmet* in the Hebrew—lit., the “sages of the truth” (i.e., of Kabbalah).
 [^27]: Text reads here too: Who is hidden, but omitted acc. to L. H.
 [^28]: The Sages of the Talmud.
-[^29]: [[Bava Batra 12#12a|*Bava Batra* 12a]].
+[^29]: *Bava Batra* [[Bava Batra 12#12a|12a]].
 [^30]: See Arizal, *Likkutei Hashass*, ad loc.; see also *Maamarei Admur Hazaken Haketzarim*, pp. 84 and 355.
 [^31]: Cf. also Arizal, *Shulchan Aruch*, s.v. *Keriah Bechochmat Hakabbalah*, par. 6.
 [^32]: See *Etz Chaim* 8:2 and below, Epistle 20.
@@ -103,12 +103,12 @@ And this is the rank of the *achorayim* and externality of the *n.h.y.* of the *
 [^34]: Thus itself beyond it.
 [^35]: *Zohar* [[Zohar 5.04 - Sava de-Mishpatim#^z2-121a|II:121a]]; [[Zohar 4.07 - Parashat Yitro#^z2-85a|85a]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-81a|III:81a]].
 [^36]: The Torah as revealed to man only originates in supreme *chochmah*, but is not *chochmah* in itself.
-[^37]: Cf. [[Sanhedrin 21#21b|*Sanhedrin* 21b]], *Beit Habechirah* and *Maharsha* commentaries, ad loc. (see also the latter’s comment. on *Pesachim* 119); *Moreh Nevuchim* 3:26.
-[^38]: See ref. cited above, note 37, and see [[Berakhot 33#33b|*Berachot* 33b]] and *Rashi*, ad loc. (s.v. *Middotav*), and Jerusalem Talmud, *Berachot* 5:3.
+[^37]: Cf. *Sanhedrin* [[Sanhedrin 21#21b|21b]], *Beit Habechirah* and *Maharsha* commentaries, ad loc. (see also the latter’s comment. on *Pesachim* 119); *Moreh Nevuchim* 3:26.
+[^38]: See ref. cited above, note 37, and see *Berachot* [[Berakhot 33#33b|33b]] and *Rashi*, ad loc. (s.v. *Middotav*), and Jerusalem Talmud, *Berachot* 5:3.
 [^39]: *Torah-Neviim-Ketuvim* (the Bible).
 [^40]: Cf. *Zohar* [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-149b|III:149b]]; [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-152a|152a]]; *Moreh Nevuchim* 3:50.
 [^41]: The textual reading of Scripture (*kri*) sometimes differs from the textual writ (*ktiv*).
-[^42]: Cf. [[Pesachim 50#50a|*Pesachim* 50a]] and *Rashi*, ad loc.; *Zohar* [[Zohar 3.230a|III:230a]].
+[^42]: Cf. *Pesachim* [[Pesachim 50#50a|50a]] and *Rashi*, ad loc.; *Zohar* [[Zohar 3.230a|III:230a]].
 [^43]: Some letters in Scripture are written larger than others. Cf. *Encyclopedia Talmudit*, vol. 1. s.v. *Otiyot*, p. 190 ff.
 [^44]: Cf. *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-132a|II:132a]] and [[Zohar 3.002a|III:2a]]. See also *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-3b|I:3b]] and ref. cited in *Derech Emet*, ad loc.
 [^45]: Maimonides, *Hilchot Yesodei HaTorah* 2:10; *Moreh Nevuchim* 3:20. See *Likkutei Amarim*, Part I, ch. 2.
@@ -121,8 +121,8 @@ And this is the rank of the *achorayim* and externality of the *n.h.y.* of the *
 [^52]: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-11b|I:11b]]. The *panim* of *chochmah* thus is completely absorbed in the Emanator.
 [^53]: Cf. *Etz Chaim*, *Shaar Hakelalim*, end of ch. 1; ibid., 32:8 and 37:1.
 [^54]: The aspects of *Asiyah—*Action, or making.
-[^55]: [[Torah 45 - Vaetchanan#^7-11|Deuteronomy 7:11]]; see [[Eruvin 22#22a|*Eruvin* 22a]].
-[^56]: [[Kiddushin 40#40b|*Kiddushin* 40b]].
+[^55]: [[Torah 45 - Vaetchanan#^7-11|Deuteronomy 7:11]]; see *Eruvin* [[Eruvin 22#22a|22a]].
+[^56]: *Kiddushin* [[Kiddushin 40#40b|40b]].
 [^57]: Jerusalem Talmud, *Berachot* 1:2; ibid., *Shabbat* 1:2; *Vayikra Rabbah* 35:6; cf. below, Epistle 20.
 [^58]: See above, Epistle 7, note 37.
 [^59]: This part, to the end, does not seem to be part of the preceding, though the content is somewhat related.

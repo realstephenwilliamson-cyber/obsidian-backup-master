@@ -95,8 +95,8 @@ Similarly, if the final day of the festival falls on Friday, all of the watches 
 
 **14.** The High Priest always receives from each watch, half of the loaves that they receive, as [implied by [[Torah 31 - Emor#^24-9|Leviticus 24:9]]]: "And it shall be for Aaron and his sons," i.e., half for Aaron and half for his sons. A High Priest never receives a portion of a loaf, because that is not respectful. ^4-14
 
-[^1]: This refers to the offering of the communal offerings. The priests to offer individual sacrifices were not chosen on the basis of a lottery (Rashi, [[Yoma 26#26b|*Yoma* 26b]]). See also the gloss of the *Mishneh LiMelech* to Halachah 9 which discusses this issue.  
-    [[Yoma 22#22a|*Yoma* 22a]] explains that the lotteries were initiated, because originally the priests would race to carry out the Temple functions. Once as the priests were running up the ramp, one pushed another and he fell and broke his leg. When the Sages realized that danger could result, they instituted these lotteries.
+[^1]: This refers to the offering of the communal offerings. The priests to offer individual sacrifices were not chosen on the basis of a lottery (Rashi, *Yoma* [[Yoma 26#26b|26b]]). See also the gloss of the *Mishneh LiMelech* to Halachah 9 which discusses this issue.  
+    *Yoma* [[Yoma 22#22a|22a]] explains that the lotteries were initiated, because originally the priests would race to carry out the Temple functions. Once as the priests were running up the ramp, one pushed another and he fell and broke his leg. When the Sages realized that danger could result, they instituted these lotteries.
 [^2]: See *Hilchot K'lei HaMikdash*, ch. 4, which explains that the priests were divided into 24 watches. Each watch would serve in the Temple for one week at a time. Each of those watches were divided into seven clans which would carry out the services for that particular day.
 [^3]: A large chamber on the northern side of the Temple Courtyard. See *Hilchot Beit HaBechirah* 5:17. This chamber was chosen because a portion of it is outside the Temple Courtyard and it was in that portion the priests would stand. The rationale is that, as will be explained, the hat of one of the priests would be removed and it is inappropriate to stand bareheaded in the Temple Courtyard even briefly.
 [^4]: The first glowing of the sun's rays, well before sunrise. At this time, the dust was removed from the altar, as stated in Chapter 2, Halachah 11. See also Chapter 6, Halachah 1.
@@ -109,18 +109,18 @@ Similarly, if the final day of the festival falls on Friday, all of the watches 
 [^11]: And thus he could manipulate the counting to favor himself [the Rambam's Commentary to the Mishnah (*loc. cit.*). Here also, the Rambam's interpretation differs from that of other authorities.
 [^12]: Proceeding to the right along the semicircle.
 [^13]: Counting each finger a second time.
-[^14]: Even for a mitzvah ([[Yoma 22#22b|*Yoma* 22b]]).
+[^14]: Even for a mitzvah (*Yoma* [[Yoma 22#22b|22b]]).
 [^15]: This refers to Saul's census of the army before entering into battle against Amalek. Conversely, we find that when David took a census and actually counted people, a severe plague resulted.
 [^16]: With regard to the afternoon, see Halachah 8.
 [^17]: As described in Chapter 2, Halachah 12.
-[^18]: The Radbaz elaborates in questioning the Rambam's ruling, for it appears to run contrary to the statements of [[Yoma 25#25b|*Yoma* 25b]]-26a. Indeed, he maintains that there is a printing error in the text and that this phrase should be included in the following halachah. Others, however, explain that it appears that there is support for the Rambam's position based on the Mishnayot of *Tamid* 5:5, 6:2.
-[^19]: As [[Yoma 26#26b|*Yoma* 26b]] relates, on Sabbaths and festivals even more priests are selected in this lottery. As indicated by Chapter 6, Halachah 1, according to the Rambam, the first two lotteries were conducted in direct proximity to each other.
+[^18]: The Radbaz elaborates in questioning the Rambam's ruling, for it appears to run contrary to the statements of *Yoma* [[Yoma 25#25b|25b]]-26a. Indeed, he maintains that there is a printing error in the text and that this phrase should be included in the following halachah. Others, however, explain that it appears that there is support for the Rambam's position based on the Mishnayot of *Tamid* 5:5, 6:2.
+[^19]: As *Yoma* [[Yoma 26#26b|26b]] relates, on Sabbaths and festivals even more priests are selected in this lottery. As indicated by Chapter 6, Halachah 1, according to the Rambam, the first two lotteries were conducted in direct proximity to each other.
 [^20]: In Halachah 3.
 [^21]: On his right.
 [^22]: See *Hilchot Ma'aseh HaKorbanot*, ch. 6, for details concerning how the offering was divided into portions and brought to the altar.
 [^23]: See Chapter 3, Halachah 18; *Hilchot Ma'aseh HaKorbanot* 13:4, 6:16.
 [^24]: The laws that apply had they all brought an incense offering once are mentioned in the following halachah.
-[^25]: Bringing the incense offering was a medium to drawn down Divine blessings for prosperity. Hence the opportunity is given to priests who had never brought that offering previously ([[Yoma 26#26a|*Yoma* 26a]]).
+[^25]: Bringing the incense offering was a medium to drawn down Divine blessings for prosperity. Hence the opportunity is given to priests who had never brought that offering previously (*Yoma* [[Yoma 26#26a|26a]]).
 [^26]: I.e., in contrast to the previous lottery where those who had brought the incense offering previously did not participate (*ibid.*).
 [^27]: I.e., one priest would bring up all the limbs (*Tosafot, Yoma* 26a).
 [^28]: The *Kessef Mishneh* notes that although the wood for the altar was brought by two priests in the afternoon as opposed to the one in the morning, there was no need for a second lottery. Instead, the priest who was selected in the morning would bring one of his friends to assist him in the afternoon.
@@ -133,7 +133,7 @@ Similarly, if the final day of the festival falls on Friday, all of the watches 
 [^35]: See Chapter 6, Halachah 11.
 [^36]: They are the fourteenth and fifteenth priests in the second lottery (*Kessef Mishneh* in the name of the Ritbah). The Radbaz maintains that these priests came from the watch that entered the Temple service that week.
 [^37]: This is the portion of the Temple Courtyard where the communal sacrifices are slaughtered. Dividing the bread there distinguishes them as the watch that will perform the service in the Temple that week [the Rambam's Commentary to the Mishnah (*Sukkah* 5:6)].
-[^38]: This would show that they have completed their service ([[Sukkah 56#56b|*Sukkah* 56b]]).
+[^38]: This would show that they have completed their service (*Sukkah* [[Sukkah 56#56b|56b]]).
 [^39]: I.e., the first and last days of Pesach and Sukkot and the holiday of Shavuot.
 [^40]: I.e., during *Chol HaMoed*.
 [^41]: This refers to the division of the bread itself, but not to the division of the tasks involved in offering it. Those are performed only by the priests of the watch who serve in the Temple that week (*Hilchot K'lei HaMikdash* 4:6).

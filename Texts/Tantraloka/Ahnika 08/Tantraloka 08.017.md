@@ -30,7 +30,7 @@ yadyapyamuṣya nāthasya saṃvittyanatirekiṇaḥ || ^iast
 > [!source] Dyczkowski, vol. V
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 05 (Dyczkowski)/Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#^pg85|p. 67]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 05.pdf#page=85>))
 >
-> It is also said in the venerable Devyāyāmala’ that meditating on the Path of six kinds, beautiful with the thirty-six principles, one immediately (sadyas) becomes Śiva. (with 8.16cd–17ab)
+> It is also said in the venerable Devyāyāmala that meditating on the Path of six kinds, beautiful with the thirty-six principles, one immediately (sadyas) becomes Śiva. (with 8.16cd–17ab)
 >
 > This Lord (nātha) is perfectly full (pĒrṇa) and is not separate from consciousness, and (so his) condition is not really (divided into an) upper, initial state, a middle or an end. Even so, he is imagined to have a middle and the rest in order to explain it (in the scriptures He Himself has created), in accord with the nature (svasvabhāva) of those who are to understand the teachings (pratipattr). (with 8.17cd–19ab)
 

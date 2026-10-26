@@ -16,7 +16,7 @@ The text is a fresh OCR of the 1859 print (Tesseract, English); check quotations
 
 *[p. 521]* ^pg161
 
-the Baptist has stood forth in the midst saying, “ Prepare ye Luke iii. 4. “ the way of the Lord :” and has shewn, that lo! He is already near, and as it were within the doors, even the true Lamb of God, Who beareth the sin of the world. Whosoever therefore is a hearer and lover of the sacred message taketh it by force : by which is meant, that he uses all his earnestness and all his strength in his desire to enter within the hope. For, as He saith in another place, “ The kingdom of heaven is taken by violence Mat. xi. 12. “and the violent seize upon it.”
+the Baptist has stood forth in the midst saying, “ Prepare ye [[Luke 03#^3-4|Luke iii. 4]]. “ the way of the Lord :” and has shewn, that lo! He is already near, and as it were within the doors, even the true Lamb of God, Who beareth the sin of the world. Whosoever therefore is a hearer and lover of the sacred message taketh it by force : by which is meant, that he uses all his earnestness and all his strength in his desire to enter within the hope. For, as He saith in another place, “ The kingdom of heaven is taken by violence [[Matthew 11#^11-12|Mat. xi. 12]]. “and the violent seize upon it.”
 
 “ And it is easier, He says, for heaven and earth to pass “ away, before the day that God commandeth this to be, than “for one point of the law to fall.” Now sometimes by the word /aw He signifies collectively the whole divinely inspired Scripture, the writings, that is, of Moses and the prophets. What then did it foretell, which must also necessarily reach its accomplishment ? It foretold, that by reason of their excessive unbelief and immorality, Israel would fall from being of God's family, even though he be the eldest son: and that Jerusalem would be thrust away from His indulgence and His love. For so He spake concerning it by the voice of Jere-miahy, ‘Behold! I will hedge up her way with stakes, and Hos. ii.6. “ block up her ways, and she shall not find her path.” For the way of those who fear God is straight, nor is there any steep part therein, but all is level and well beaten. But the path of the mother of the Jews is hedged up with stakes, in that the way of piety has been rendered impassable for them.
 
@@ -36,7 +36,7 @@ Is. xlii. 16.
 
 Jobnxii.yo.
 
-Rom. xi.25.
+[[Romans 11#^11-25|Rom. xi.25]].
 
 eousness arises and shines in the mind and heart of those who believe: but the mind of those who treat with contumely a grace so splendid and worthy of our possessing, is blackened in darkness, and intellectual gloom. And thus much then concerning those things which the company of the holy prophets before announced respecting Israel.
 
@@ -164,7 +164,7 @@ And such we believe you to be; and your earnest desire after instruction is a pl
 “immortality.” Tor there is given unto them a measure of |
 consolation commensurate with their labours: or even perhaps one which surpasses and exceeds their toils: for Christ has somewhere said, that “ good measure, pressed down, and heaped “up, and running over shall they give into your bosom.” For like as ships that sail upon the sea stand the shock of savage waves, and struggle with the violence of mighty winds, but afterwards arriving at tranquil havens fit for their rest, cease there from tossing ; so in like manner I think that the souls of men, when they emerge from the turbulence of earthly things, enter the mansions that are above, as into a haven of salvation. ;
 
-“ Lazarus then, He says, was carried by the holy angels “unto Abraham’s bosom: but the rich man died and was “buried.” For to that rich man who had shewn himself harsh and unmerciful the separation from the body was death. For he was going from pleasure to torment: from glory to shame: from light to darkness. Such were the things that the rich man must suffer, who had been voluptuous, aiid close-handed, and unready for mercy. And to torment him the more now that he dwells in Hades, he beheld, it says, Lazarus in the bosom of Abraham: and made supplication that he might be sent to drop a little water upon his tongue: for he was tormented, it says, as in a fierce flame. And what reply does the patriarch Abraham make? “ Son, thou receivedst thy good “ things in thy life: and Lazarus his evil things.” Thou wast enamoured, He says, of these temporal things ; thou wast clad in fine linen and purple 4; “thou wast boastful and haughty ; all thy time was spent in luxury ; thou offeredst up thy wealth to thy appetite and to flatterers ; but thou never once calledst to mind the sick and sorrowful: thou hadst no compassion on Lazarus when thou sawest him thrown down at thy portals. Thou beheldest the man suffering incurable misery, and a prey to intolerable griefs: for two maladies at once possessed him, Luke vi.38.
+“ Lazarus then, He says, was carried by the holy angels “unto Abraham’s bosom: but the rich man died and was “buried.” For to that rich man who had shewn himself harsh and unmerciful the separation from the body was death. For he was going from pleasure to torment: from glory to shame: from light to darkness. Such were the things that the rich man must suffer, who had been voluptuous, aiid close-handed, and unready for mercy. And to torment him the more now that he dwells in Hades, he beheld, it says, Lazarus in the bosom of Abraham: and made supplication that he might be sent to drop a little water upon his tongue: for he was tormented, it says, as in a fierce flame. And what reply does the patriarch Abraham make? “ Son, thou receivedst thy good “ things in thy life: and Lazarus his evil things.” Thou wast enamoured, He says, of these temporal things ; thou wast clad in fine linen and purple 4; “thou wast boastful and haughty ; all thy time was spent in luxury ; thou offeredst up thy wealth to thy appetite and to flatterers ; but thou never once calledst to mind the sick and sorrowful: thou hadst no compassion on Lazarus when thou sawest him thrown down at thy portals. Thou beheldest the man suffering incurable misery, and a prey to intolerable griefs: for two maladies at once possessed him, [[Luke 06#^6-38|Luke vi.38]].
 
 XCI, beginning with the words, “Withdraw your attention from “ these temporal things.” Cf. p. 421. 4 The rest of the translation is
 
@@ -184,13 +184,13 @@ But to this perhaps some one will object, that there are many kinds of well livi
 
 *[p. 532]* ^pg172
 
-Luke vi. 36.
+[[Luke 06#^6-36|Luke vi. 36]].
 
 Jamesi.27.
 
 Heb. xiii.
 
-Rom. xiii.3.
+[[Romans 13#^13-3|Rom. xiii.3]].
 
 well doing: for it works in our souls a certain divine likeness which moulds us, so to speak, after God’s image. For Christ also has said, “ Be ye merciful, as your Father also in heaven “ig merciful.” He who is quick to shew mercy, and compassionate and kind, is ranked with the true worshippers; for it is written, that “a pure and unpolluted sacrifice to God the “ Father is this, to visit orphans and widows in their poverty, “and that a man keep himself unspotted from the world.” And the wise Paul also has somewhere written, ‘‘ But alms and “ communication forget not: for with such sacrifices God is “content.” For He loveth not the incense of the legal worship, but requireth rather the pleasantness of the sweet spiritual savour. But the sweet spiritual savour unto God is to shew pity unto men, and to maintain love towards them. This also Paul adviseth us, saying, ‘Owe no man anything, but “ that ye love one another :’’ and the daughter of love is pity
 
@@ -216,7 +216,7 @@ Jamesiii.2.
 
 Ver. 4.
 
-Gal. vi. 2.
+[[Galatians 06#^6-2|Gal. vi. 2]].
 
 Mat. xviii.
 
@@ -236,15 +236,15 @@ That which necessarily gives joy to the soul of the saints is not the possession
 
 e It is to he noticed, that the Sept. use evapecréw as the equivalent of Joann, in Gen. v. 22, and elsewhere. Hence St. Paul’s assertion, that “ Enoch had this \* testimony, that he pleased God,”
 
-and also the means of arriving at the full force of the word, namely, ‘to please God by our conduct.’ In Heb. xi. 6, Evay is understood before evapeorjoa, and the correct translation is; “ but without faith “Enoch could not have pleased \* God by his conduct;” or, to retain the word used in the O. T., “could © not have walked with Him.”’
+and also the means of arriving at the full force of the word, namely, ‘to please God by our conduct.’ In [[Hebrews 11#^11-6|Heb. xi. 6]], Evay is understood before evapeorjoa, and the correct translation is; “ but without faith “Enoch could not have pleased \* God by his conduct;” or, to retain the word used in the O. T., “could © not have walked with Him.”’
 
 Ver. 5.
 
-Heb. xi. 6.
+[[Hebrews 11#^11-6|Heb. xi. 6]].
 
 Markix.23.
 
-1 Cor. xii. 8.
+[[1 Corinthians 12#^12-8|1 Cor. xii. 8]].
 
 *[p. 536]* ^pg176
 
@@ -254,7 +254,7 @@ Mat. xiv.
 
 Bo
 
-John vi. 19.
+[[John 06#^6-19|John vi. 19]].
 
 granted it unto them after the fulfilment of the dispensation, by the descent upon them of the Holy Ghost: for before the resurrection their faith was so feeble,f that they were liable even to the charge of littleness of faith.
 
@@ -270,7 +270,7 @@ translates segnis, | imagine that the Cyril: or that a negative has been Yeading
 
 of their faith from Christ, the Saviour of us all. He commanded them “not to depart from Jerusalem, but to wait for the Fa- Actsi. 4. “ ther’s promise,” until they should be clothed with power from on high. But when the power from on high had descended upon them in the shape of fiery tongues, even the grace which is through the Holy Ghost, then indeed they became bold and manly and fervent in the Spirit, so as even to despise death, and to count as nothing the dangers with which they were threatened from unbelievers; yea, and then too they became able to work miracles.
 
-But that to be confirmed in the faith is a great and special grace, the Lord shews by saying, “ If ye have faith as a grain Ver. 6. “¢ of mustard seed, hot, that is, and fervent, ye might have said ‘to the sycamine tree, Be thou uprooted in the sea, and it “ would have obeyed you.” Tor he who confides in Christ trusts not to his own strength, but rather assigns to Him the power of performing all things. From Him then confessedly comes the accomplishment of all good things in men’s souls : but they nevertheless must prepare themselves to receive this great grace. For if the power of faith remove that which is fixed and rooted in the ground, one may say absolutely that there is nothing so immovable as that faith cannot shake it, if its removal be required. The earth accordingly was shaken Acts iv. 31. when the apostles were praying, as the Acts of the Apostles record: and so, on the other hand, faith stays those things which are in motion, as the rapid course of a running river, Jos. iii. 16. and the ceaseless way of the lights which move in heaven. Jos. x. 13. This, however, we must carefully notice, that God does not excite an empty astonishment or vain wondering, but that such things are far from the divine Substance, Which is free from pride and boasting, and altogether true, for the sole good and safety of mankind. And this I say, that no one may expect from sacred faith and the divine power useless changes, for instance, of the elements, or the removal of mountains and plants ; nor give way to impiety, as though the word were not true, if these things come not so to pass: nor again count faith weak, if it cannot accomplish such things. Let the thing be but uscful for some real benefit, and the power will not be
+But that to be confirmed in the faith is a great and special grace, the Lord shews by saying, “ If ye have faith as a grain Ver. 6. “¢ of mustard seed, hot, that is, and fervent, ye might have said ‘to the sycamine tree, Be thou uprooted in the sea, and it “ would have obeyed you.” Tor he who confides in Christ trusts not to his own strength, but rather assigns to Him the power of performing all things. From Him then confessedly comes the accomplishment of all good things in men’s souls : but they nevertheless must prepare themselves to receive this great grace. For if the power of faith remove that which is fixed and rooted in the ground, one may say absolutely that there is nothing so immovable as that faith cannot shake it, if its removal be required. The earth accordingly was shaken [[Acts 04#^4-31|Acts iv. 31]]. when the apostles were praying, as the Acts of the Apostles record: and so, on the other hand, faith stays those things which are in motion, as the rapid course of a running river, Jos. iii. 16. and the ceaseless way of the lights which move in heaven. Jos. x. 13. This, however, we must carefully notice, that God does not excite an empty astonishment or vain wondering, but that such things are far from the divine Substance, Which is free from pride and boasting, and altogether true, for the sole good and safety of mankind. And this I say, that no one may expect from sacred faith and the divine power useless changes, for instance, of the elements, or the removal of mountains and plants ; nor give way to impiety, as though the word were not true, if these things come not so to pass: nor again count faith weak, if it cannot accomplish such things. Let the thing be but uscful for some real benefit, and the power will not be
 
 wanting.
 
@@ -308,7 +308,7 @@ No one e pitied them when ltt this malady : but He Who
 
 Ver. 14.
 
-Luke v. 13.
+[[Luke 05#^5-13|Luke v. 13]].
 
 had appeared on earth tor this very reason, aud had become man that He might shew pity unto all, He was moved with compassion for them, and had mercy upon them.
 
@@ -318,7 +318,7 @@ And why did He not rather say, “I will, be ye cleansed ;” as he did in the c
 
 Lev. xiy.2.
 
-Luke v. 12.
+[[Luke 05#^5-12|Luke v. 12]].
 
 gave directions to this effect to those who were delivered from leprosy: for it commanded them to shew themselves to- the priests, and to offer a sacrifice for their cleansing. He commanded them therefore to go, as being already healed, and, that they might, so to speak, bear witness to the priests, as the rulers of the Jews, and ever envious of His glory, that wonderfully, and beyond their hope, they had been delivered from their misfortune by Christ’s willing that’ they should be healed. He did not heal them first, but sent them to the priests, because the priests knew the marks of leprosy, and of its being healed. He sent them to the priests, and with them He sent also the healing. What however was the law of leprosy, and what the rules for its purification, and what the meaning of each of the particulars commanded by the law, we have more fully described at the commencement of our Saviour’s miracles as recorded by Luke, and referring thither such as are anxious - for learning, let us now proceed to what follows. The nine
 
@@ -338,7 +338,7 @@ AGALN is the Pharisee fighting against God, nor feels that he is kicking against
 
 *[p. 542]* ^pg182
 
-John iii.18.
+[[John 03#^3-18|John iii.18]].
 
 heavy and inevitable guilt. ‘For he, it says, that believeth “ not the Son, is condemned already, because he hath not be- “lieved in the Name of the Son of God.” For the divine Moses shewed before by type and shadow that the Word is the world’s way and door of- salvation, in that though He is God, He appeared in human form, and endured the death of the flesh for the sake of the whole earth. And the declarations also of the holy prophets agree with what was said by Moses. For they foretold that He would come in due time in form like unto us. And this also came to pass: for He was manifested to those upon earth, having assumed the form of a slave; but even so He retained His natural lordship, and power, and glory such as befitteth God, as is proved by the splendour of the works He wrought. But thou didst not believe in Him: thou didst not accept justification by His means, in that thou wast obdurate and proud. And after this thou askest, “ When the kingdom of God shall come?”
 
@@ -361,9 +361,9 @@ But that He will descend from heaven in the latter times of the world, not obscu
 
 *[p. 544]* ^pg184
 
-Phil. ii. 7.
+[[Philippians 02#^2-7|Phil. ii. 7]].
 
-Acts i. 6.
+[[Acts 01#^1-6|Acts i. 6]].
 
 Matt. xx.
 
@@ -371,7 +371,7 @@ ar.
 
 Ps. xcvi.13.
 
-2 Cor. v.10.
+[[2 Corinthians 05#^5-10|2 Cor. v.10]].
 
 fulfil the dispensation for our sakes, and for this reason He emptied Himself, and made Himself poor, and no longer shewed Himself in the glory of the Godhead: for the season itself, and the necessity of the dispensation, summoned Him to this humiliation. But after the resurrection from the dead, having ascended to heaven, and sat down with God the Father, He shall descend again, not with His glory withdrawn, nor in the meanness of human nature, but in the majesty of the Father, with the companies of the angels guarding Him, and standing before Him as God and Lord of all. He shall come therefore as the lightning, and not secretly.
 
@@ -389,7 +389,7 @@ If therefore, O Pharisee, thou desirest to be accounted worthy of the kingdom of
 
 Ay ES
 
-Mat. xxv. 33.
+[[Matthew 25#^25-33|Mat. xxv. 33]].
 
 *[p. 546]* ^pg186
 
@@ -427,11 +427,11 @@ On that day therefore, He says, and at that time, both those who are accustomed 
 
 *[p. 548]* ^pg188
 
-Gal. v. 24.
+[[Galatians 05#^5-24|Gal. v. 24]].
 
 Col. ‘iii. 5.
 
-Gal. vi. 8.
+[[Galatians 06#^6-8|Gal. vi. 8]].
 
 Mas. xxv.
 
@@ -461,7 +461,7 @@ Amos vy.
 
 1S.
 
-John ix. 4.
+[[John 09#^9-4|John ix. 4]].
 
 ‘©in the clouds to meet the Lord in the air; and so shall we “ ever be with the Lord.”
 
@@ -494,7 +494,7 @@ For it is, I affirm, the duty of those who set apart their lives for His service
 
 *[p. 552]* ^pg192
 
-2Cor. i. 2.
+[[2 Corinthians 01#^1-2|2Cor. i. 2]].
 
 ry
 
@@ -506,7 +506,7 @@ John xvi.
 
 Ro
 
-James i. 6.
+[[James 01#^1-6|James i. 6]].
 
 father. Is not this then a privilege worthy of being valued by us most highly? For suppose that some one of those possessed of great earthly power were easy of access to us, and were to permit us to converse with him with full license, should we not consider it as a reason for extraordinary rejoicing? -What possible doubt can there be of this? Whien therefore God permits us each one to offer our addresses unto Him for whatever we wish, and has set before those who fear Him an honour so truly great and worthy of their gaining, let all slothfulness cease that would lead men to an injurious silence therein; and rather let us draw near with praises, and rejoicing that we have been commanded to converse with the Lord and God of all, having Christ as our Mediator, Who with God the Father grants us the accomplishment of our supplications. For the blessed Paul somewhere writes, “Grace be unto you, and “ peace, from God our Fatlier, and from our Lord Jesus \*\* Christ.” And He somewhere Himself said to the holy apostles, ‘Hitherto ye have asked nothing in My Name: ask, and “it shall be given unto you.” For He is our Mediator, our Propitiation, our Comforter, and the Bestower of every request. It is our duty therefore to “ pray without ceasing.” according to the words of the blessed Paul, as well knowing, and being thoroughly assured, that He Whom we supplicate is able to accomplish all things. “ For let a man, it says, ask in faith, “in nothing divided : for he who is divided is like a wave of “ the sea, troubled and blown about by the wind. For let not, “it says, that man think that he will receive anything of the “ Lord.” For he that is divided is really guilty of mockery : for if thou dost not believe that He will incline unto thee, and gladden thee, and fulfil thy request, do not draw near to Him at all, lest thou be found an accuser of the Almighty, in that thou foolishly art divided. We must avoid therefore so base a
 
@@ -616,7 +616,7 @@ at.
 
 Ts. lviii. 3.
 
-Luke vi.37.
+[[Luke 06#^6-37|Luke vi.37]].
 
 James iv, 12.
 

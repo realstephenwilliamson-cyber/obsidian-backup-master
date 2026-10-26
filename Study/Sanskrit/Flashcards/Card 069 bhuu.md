@@ -20,18 +20,14 @@ nyasa: "bha: belly (*jaṭhara*) · ū: left ear (*karṇa*)"
 ## Front
 
 - **Glyph:** भू
-- **Variation:** —
 - **Example:** भूत
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** —
-- **Line under the name (no printed label):** Is a root
-- **Class (as printed):** long syllable
-- **root:** ‘to be/become’ · ‘to exist’
-- **Grid:** a row of vowel signs (◌ा ◌ि ◌ी ◌ु ◌ू) above the five rows of stops + य र ल व; in bold: ◌ू, भ
-- **Example:** bhūta (being)
+> [!note]- Back
+> - **Line under the name:** Is a root
+> - **root:** ‘to be/become’ · ‘to exist’
+> - **Class:** long syllable
+> - ा ि ी ु <u>ू</u> / क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब <u>भ</u> म / य र ल व
+> - **Example:** bhūta (being)
 
 ## Register
 

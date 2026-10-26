@@ -90,7 +90,7 @@ When does the above apply? With regard to the shaving [required when a nazirite 
 
 [^1]: See Chapter 8, Halachah 1. As mentioned there, he also brings the appropriate sacrifices.
 [^2]: For unless he specifies otherwise, a nazirite vow must be upheld for 30 days.
-[^3]: This leniency is granted based on the principle that a portion of a day is considered as the entire day. Hence it is considered as if he observed his vow for 30 days (see [[Nazir 5#5b|*Nazir* 5b]] and notes).
+[^3]: This leniency is granted based on the principle that a portion of a day is considered as the entire day. Hence it is considered as if he observed his vow for 30 days (see *Nazir* [[Nazir 5#5b|5b]] and notes).
 [^4]: Since he explicitly mentioned 30 days, we assume that he meant thirty complete days.
 [^5]: For the thirty-first day is considered as the first day of the second vow.
 [^6]: In this instance, the thirtieth day is considered as the first day of the second vow.
@@ -115,11 +115,11 @@ When does the above apply? With regard to the shaving [required when a nazirite 
 [^24]: For that day might be the day of his death in which instance retroactively the vow he took would take effect. See the notes to the following halachah.
 [^25]: I.e., the *Mashiach*.
 [^26]: For perhaps the *Mashiach* will come that day. As we say in the popular restatement of the Rambam's Thirteen Principles of Faith, "I await his coming every day."
-[^27]: The Rambam's ruling is based on [[Eruvin 43#43b|*Eruvin* 43b]]. The *Kessef Mishneh* interprets the Rambam's understanding of that passage as follows: There is a question whether the prohibition against going beyond one's Sabbath boundaries (see *Hilchot Shabbat*, ch. 27) applies ten handbreadths above the ground or not. Thus there is a question whether *Mashiach* - who obviously will observe the Sabbath laws - can come on the Sabbath for that will require him descending from heaven and thus going beyond his Sabbath boundaries.  
+[^27]: The Rambam's ruling is based on *Eruvin* [[Eruvin 43#43b|43b]]. The *Kessef Mishneh* interprets the Rambam's understanding of that passage as follows: There is a question whether the prohibition against going beyond one's Sabbath boundaries (see *Hilchot Shabbat*, ch. 27) applies ten handbreadths above the ground or not. Thus there is a question whether *Mashiach* - who obviously will observe the Sabbath laws - can come on the Sabbath for that will require him descending from heaven and thus going beyond his Sabbath boundaries.  
     (*Kin'at Eliyahu* questions the entire issue, noting that according to the Rambam, *Mashiach* will be a flesh and blood human being who will "wage the wars of G‑d... build the Temple" (see *Hilchot Melachim* 11:1). No where does the Rambam make mention of him descending from heaven.
 [^28]: Seemingly, every day, there is a question whether the *Mashiach* will come and hence, we should rule leniently every day. The Radbaz explains that since we are certain that it is possible for *Mashiach* to come that day, he must observe the nazirite restrictions. For if *Mashiach* would actually come that day, retroactively the vow he took would take effect.
 [^29]: As evident from Chapter 8, Halachah 5, more precisely, it is the nazirite's offering of his sacrifices and not his shaving which completes his nazirite vow.
-[^30]: [[Nazir 15#15a|*Nazir* 15a]] derives this concept from the exegesis of [[Torah 35 - Nasso#^6-6|Numbers 6:6]].
+[^30]: *Nazir* [[Nazir 15#15a|15a]] derives this concept from the exegesis of [[Torah 35 - Nasso#^6-6|Numbers 6:6]].
 [^31]: The laws mentioned here apply only to drinking wine. Shaving or becoming impure nullify his nazirite vow and require him to begin counting again anew. See Chapter 6, Halachot 1-3.
 [^32]: When these days are completed, according to Scriptural law, he is no longer obligated to observe his nazirite vow even though he did not observe it for the full amount of time that he vowed.
 [^33]: This is the punishment given for breaking a Rabbinic decree.

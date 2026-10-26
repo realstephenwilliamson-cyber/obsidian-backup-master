@@ -123,7 +123,7 @@ When a person made a dough that is less than the prescribed measure, baked it, a
 [^17]: Together with the thanksgiving offering, 40 loaves (10 each of four types) were offered.
 [^18]: Together with the ram, a nazirite offered 30 loaves (10 each of three types). See *Hilchot Ma'aseh HaKorbanot* 9:12-24 for a description of these loaves.
 [^19]: To bring as part of his offering, rather than to sell to someone else.
-[^20]: And *challah* need only be separated from a person's private property, not from consecrated property ([[Menachot 67#67a|*Menachot* 67a]]).
+[^20]: And *challah* need only be separated from a person's private property, not from consecrated property (*Menachot* [[Menachot 67#67a|67a]]).
 [^21]: This applies even if the dough is not large enough that each of the partners will receive a portion the size of an olive (Radbaz). Even though they intend to separate the bread after it is baked, as long as they do not intend to separate the dough, they are obligated to separate *challah* (*Siftei Cohen* 326:1).
 [^22]: We are speaking about a situation where a person bakes bread in order to give it to many people. He does not, however, declare the bread ownerless. Were he to do so, there would be no obligation to separate *challah*, as stated in Chapter 8, Halachah 6.
 [^23]: I.e., even though he should have separated the *terumah* before the dough was made, after the fact, his separation is effective
@@ -132,7 +132,7 @@ When a person made a dough that is less than the prescribed measure, baked it, a
 [^26]: For the mitzvah applies only to dough prepared for human consumption.
 [^27]: A dough made without bran being separated from the flour which is thus usually not intended for human consumption [the Rambam's Commentary to the Mishnah (*Challah* 1:8)].
 [^28]: Since the shepherds also intend to partake of it, it is considered as intended for human consumption and *challah* must be separated from the entire dough, even from the portion intended for the dogs.
-[^29]: [[Menachot 67#67a|*Menachot* 67a]] derives this from the fact that [[Torah 37 - Sh'lach#^15-20|Numbers 15:20]], the prooftext for the obligation of *challah*, speaks of "the first of your dough," i.e., the dough of a Jew and not of a gentile.
+[^29]: *Menachot* [[Menachot 67#67a|67a]] derives this from the fact that [[Torah 37 - Sh'lach#^15-20|Numbers 15:20]], the prooftext for the obligation of *challah*, speaks of "the first of your dough," i.e., the dough of a Jew and not of a gentile.
 [^30]: The Radbaz maintains that the Jew may separate *challah* from the entire dough, even from the gentile's portion.
 [^31]: Because there is no holiness associated with it.
 [^32]: I.e., the Jew thought that if he gave the dough to a gentile to prepare, it would be exempt and the gentile desired to separate *challah* from it. The Radbaz states that although generally we do not suspect that a prohibition is being violated, there is room to do so in this instance, because otherwise, why would the gentile think of separating *challah*.
@@ -151,7 +151,7 @@ When a person made a dough that is less than the prescribed measure, baked it, a
 [^44]: A mixture of whey and bread crumbs used as a dip.
 [^45]: This shape indicates that he may change his mind and serve the cakes as bread.
 [^46]: This indicates that he is not intending to serve the strips as bread, but will indeed crumble them and use them for *kutach*.
-[^47]: Our Sages derived this measure as follows: [[Torah 37 - Sh'lach#^15-19|Numbers 15:19]] states: "You shall separate the first of your dough as *challah*." As [[Torah 16 - Beshalach#^16-16|Exodus 16:16]] relates the amount of manna allotted to each individual in the desert was an *omer*. Hence we use that as the size of the required measure of dough ([[Eruvin 83#83b|*Eruvin* 83b]]).
+[^47]: Our Sages derived this measure as follows: [[Torah 37 - Sh'lach#^15-19|Numbers 15:19]] states: "You shall separate the first of your dough as *challah*." As [[Torah 16 - Beshalach#^16-16|Exodus 16:16]] relates the amount of manna allotted to each individual in the desert was an *omer*. Hence we use that as the size of the required measure of dough (*Eruvin* [[Eruvin 83#83b|83b]]).
 [^48]: A *revi'it* is approximately 86cc according to *Shiurei Torah* and approximately 150 cc according to *Chazon Ish*. Thus a *log* is 344 or 600 cc, a *kab* 1376 or 2400 cc, and the measure of the dough from which *challah* must be separated is 2500 (because the above figures are approximations) or 4320 cc.
 [^49]: *Shiurei Torah* writes that a blessing should be recited when separating *challah* from a dough made from 3 pounds and 10 ¾ ounces of flour and one should be stringent and separate *challah* from a dough made from 2 pounds and 10.1 ounces of flour.
 [^50]: I.e., less than the measure described in the previous halachah.
@@ -162,12 +162,12 @@ When a person made a dough that is less than the prescribed measure, baked it, a
 [^55]: Even though at the time the dough was made, there was not a sufficient quantity to require the separation of *challah*.
 [^56]: The fact that they are joined is sufficient for them to be considered as a singled entity.
 [^57]: In contrast to the basket mentioned in the previous halachah.
-[^58]: [[Pesachim 48#48b|*Pesachim* 48b]] mentions an unresolved difference of opinion concerning this question among the Sages.
+[^58]: *Pesachim* [[Pesachim 48#48b|48b]] mentions an unresolved difference of opinion concerning this question among the Sages.
 [^59]: Like the *challah* separated in the present era, as stated Chapter 5, Halachah 5.
 [^60]: For we follow the principle: When there is a doubt regarding a Rabbinic obligation, we rule leniently (Radbaz, *Kessef Mishneh*).  
     The *Shulchan Aruch* (*Yoreh De'ah* 325:1) writes that if one places the bread on a board and then covers it with a cloth, there is an authority who requires the separation of *challah*. The *Siftei Cohen* 325:5 questions why the *Shulchan Aruch* uses the expression "there is an authority...," in as much as this principle is universally accepted.
 [^61]: I.e., the flour together with the bran, even though the flour alone is not of sufficient quantity to require *challah* to be separated.
-[^62]: For a poor person will eat bread made from coarse flour containing bran ([[Shabbat 76#76b|*Shabbat* 76b]]).
+[^62]: For a poor person will eat bread made from coarse flour containing bran (*Shabbat* [[Shabbat 76#76b|76b]]).
 [^63]: The Jerusalem Talmud (*Challah* 2:6) explains that this is derived from [[Torah 37 - Sh'lach#^15-21|Numbers 15:21]] that speaks of "your dough," i.e., the way dough is ordinarily made.
 [^64]: According to the Rambam, this halachah pertains to a baker and not to ordinary individuals. The laws pertaining to them are mentioned in the following halachah.
 [^65]: To sell to others to use the yeast to leaven other doughs without this dough being baked.

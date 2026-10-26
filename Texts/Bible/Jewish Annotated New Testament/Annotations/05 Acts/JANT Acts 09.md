@@ -26,7 +26,7 @@ Text: [[NRSVue Acts 09|NRSVue]] · [[Acts 09|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 09#^9-8|8]]:** Connection between physical and spiritual sight ([[Luke 24#^24-16|Lk 24.16]],[[Luke 24#^24-31|31]]). ^9-8
 
-**[[NRSVue Acts 09#^9-9|9]]:** *Neither ate nor drank*, fasting in this case may be understood as an act of intense spiritual engagement ([[Luke 04#^4-2|Lk 4.2]]; [[LXX Judith 08#^8-6|Jdt 8.6]]) or of supplication or penance ([[Ezra 10#^10-6|Ezra 10.6]]; [[LXX Tobit 12#^12-8|Tob 12.8]]; [[LXX Sirach 34#^34-26|Sir 34.26]]; *Pss. Sol.* 3.8; *Jos. Asen.* 10.1; [[Berakhot 17#17a|*b. Ber.* 17a]]). ^9-9
+**[[NRSVue Acts 09#^9-9|9]]:** *Neither ate nor drank*, fasting in this case may be understood as an act of intense spiritual engagement ([[Luke 04#^4-2|Lk 4.2]]; [[LXX Judith 08#^8-6|Jdt 8.6]]) or of supplication or penance ([[Ezra 10#^10-6|Ezra 10.6]]; [[LXX Tobit 12#^12-8|Tob 12.8]]; [[LXX Sirach 34#^34-26|Sir 34.26]]; *Pss. Sol.* 3.8; *Jos. Asen.* 10.1; *b. Ber.* [[Berakhot 17#17a|17a]]). ^9-9
 
 **[[NRSVue Acts 09#^9-10|10]]:** *Disciple,* Acts does not report how Christianity spread to this Syrian city. *Vision*, divine instruction often takes place in visions (10.3,17,19; 16.9). *Here I am*, conventional response to God ([[Torah 04 - Vayera#^22-1|Gen 22.1]]; [[Torah 07 - Vayetzei#^31-11|31.11]]; [[Torah 11 - Vayigash#^46-2|46.2]]; [[Torah 13 - Shemot#^3-4|Ex 3.4]]). ^9-10
 
@@ -78,6 +78,6 @@ Text: [[NRSVue Acts 09|NRSVue]] · [[Acts 09|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 09#^9-41|41]]:** *Saints,* see v 13. ^9-41
 
-**[[NRSVue Acts 09#^9-43|43]]:** *Tanner*, tanners had dubious reputa-tions largely because of the smell produced by the tanning process ([[Pesachim 65#65a|*b. Pesah.* 65a]]; [[Ketubot 77#77a|*b. Ketub.* 77a]]; [[Kiddushin 82#82b|*b. Qidd.* 82b]]). ^9-43
+**[[NRSVue Acts 09#^9-43|43]]:** *Tanner*, tanners had dubious reputa-tions largely because of the smell produced by the tanning process (*b. Pesah.* [[Pesachim 65#65a|65a]]; *b. Ketub.* [[Ketubot 77#77a|77a]]; *b. Qidd.* [[Kiddushin 82#82b|82b]]). ^9-43
 
 [[JANT Acts 08|← Acts 8]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Acts 10|Acts 10 →]]

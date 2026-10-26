@@ -20,7 +20,7 @@ Text: [[NRSVue Hebrews 05|NRSVue]] · [[Hebrews 05|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Hebrews 05#^5-2|2]]:** *Weakness,* the Mishnah prescribes actions to guard against the high priest’s falling asleep before the time of sacrifice on Yom Kippur (*m. Yoma* 1.4,7). ^5-2
 
-**[[NRSVue Hebrews 05#^5-3|3]]:** *For his own sins . . . people*, see [[Torah 29 - Achrei Mot#^16-6|Lev 16.6–17]] on Yom Kippur sacrifices. After the Temple was destroyed, some rabbis believed prayer, repentance, and alms-giving achieve atonement (see, e.g., [[Sukkah 49#49b|*b. Sukk.* 49b]]; *Avot de R. Natan* 4.5). According to the Mishnah, the daily prayers substitute for the Temple sacrifice (see *b. Ber.* 1.1; see also [[Hebrews 13#^13-15|Heb 13.15]]–16n.). *Called by God*, Hebrews does not address claims that some priests were corrupt. ^5-3
+**[[NRSVue Hebrews 05#^5-3|3]]:** *For his own sins . . . people*, see [[Torah 29 - Achrei Mot#^16-6|Lev 16.6–17]] on Yom Kippur sacrifices. After the Temple was destroyed, some rabbis believed prayer, repentance, and alms-giving achieve atonement (see, e.g., *b. Sukk.* [[Sukkah 49#49b|49b]]; *Avot de R. Natan* 4.5). According to the Mishnah, the daily prayers substitute for the Temple sacrifice (see *b. Ber.* 1.1; see also [[Hebrews 13#^13-15|Heb 13.15]]–16n.). *Called by God*, Hebrews does not address claims that some priests were corrupt. ^5-3
 
 **[[NRSVue Hebrews 05#^5-4|4]]:** *Aaron*, [[Torah 20 - Tetzaveh#^29-1|Ex 29.1–30.10]]. ^5-4
 

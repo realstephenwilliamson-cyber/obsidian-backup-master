@@ -142,7 +142,7 @@ For such is the nature of locusts, leaping on high and again falling. In the sam
 
 Gregory, Moral., xxxi, 25: Or, by the kind itself of his food he pointed out the Lord, of whom he was the forerunner; for in that our Lord took to Himself the sweetness of the barren Gentiles, he ate wild honey. In that He in His own person partly converted the Jews, He received locusts for His food, which suddenly leaping up, at once fall to the ground. For the Jews leaped up when they promised to fulfil the precepts of the Lord; but they fell to the ground when, by their evil works, they affirmed that they had not heard them. They made therefore a leap upwards in words, and fell down by their actions.
 
-Bede: The dress and food of John may also express of what kind was his inward walk. For he used a dress more austere than was usual, because he did not encourage the life of sinners by flattery, but chid them by the vigour of his rough rebuke; he had a girdle of skin round his loins, for he was one, “who crucified his flesh with the affections and lusts.” \[Gal 5:24\] He used to eat locusts and wild honey, because his preaching had some sweetness for the multitude, whilst the people debated whether he was the Christ himself or not; but this soon came to an end, when his hearers understood that he was not the Christ, but the forerunner and prophet of Christ. For in honey there is sweetness, in locusts swiftness of flight.
+Bede: The dress and food of John may also express of what kind was his inward walk. For he used a dress more austere than was usual, because he did not encourage the life of sinners by flattery, but chid them by the vigour of his rough rebuke; he had a girdle of skin round his loins, for he was one, “who crucified his flesh with the affections and lusts.” \[[[Galatians 05#^5-24|Gal 5:24]]\] He used to eat locusts and wild honey, because his preaching had some sweetness for the multitude, whilst the people debated whether he was the Christ himself or not; but this soon came to an end, when his hearers understood that he was not the Christ, but the forerunner and prophet of Christ. For in honey there is sweetness, in locusts swiftness of flight.
 
 *[p. 9]* ^pg13
 
@@ -150,7 +150,7 @@ Whence there follows, “And he preached, saying, there cometh one mightier than
 
 Gloss.: He said this to do away with the opinion of the crowd, who thought that he was 13 the Christ; but he announces that Christ is “mightier than he,” he was to remit sins, which he himself could not do.
 
-Pseudo-Jerome: Who again is mightier than the grace, by which sins are washed away, which John signifies? He who seven times and seventy times seven remits sins \[Matt 18:22\]. Grace indeed comes first, but remits sins once only by baptism, but mercy reaches to the wretched from Adam up to Christ through seventy-seven generations, and up to one hundred and forty-four thousand.
+Pseudo-Jerome: Who again is mightier than the grace, by which sins are washed away, which John signifies? He who seven times and seventy times seven remits sins \[[[Matthew 18#^18-22|Matt 18:22]]\]. Grace indeed comes first, but remits sins once only by baptism, but mercy reaches to the wretched from Adam up to Christ through seventy-seven generations, and up to one hundred and forty-four thousand.
 
 Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: But lest he should be thought to say this by way of comparing himself to Christ, he subjoins, “Of whom I am not worthy, &c.”
 
@@ -206,7 +206,7 @@ Pseudo-Jerome: But this is the anointing of Christ according to the flesh, namel
 
 Pseudo-Jerome: Again, the Holy Ghost came down in the shape of a dove, because in the Canticles it is sung of the Church: “My bride, my love, my beloved, my dove.”
 
-“Bride” in the Patriarchs, “love” in the Prophets, “near of kin” in Joseph and Mary, “beloved” in John the Baptist, “dove” in Christ and His Apostles: to whom it is said, “Be ye wise as serpents, and harmless as doves.” \[Matt. 10:16\]
+“Bride” in the Patriarchs, “love” in the Prophets, “near of kin” in Joseph and Mary, “beloved” in John the Baptist, “dove” in Christ and His Apostles: to whom it is said, “Be ye wise as serpents, and harmless as doves.” \[[[Matthew 10#^10-16|Matt. 10:16]]\]
 
 Bede: Now the Dove sat on the head of Jesus, lest any one should think that the voice of the Father was addressed to John and not to Christ. And well did he add, “abiding on Him;” for this is peculiar to Christ, that the Holy Ghost once filling Him should never leave Him.
 
@@ -224,7 +224,7 @@ Bede: The same voice has taught us, that we also, by the water of cleansing, and
 
 Pseudo-Jerome: Morally also it may be interpreted; we also, drawn aside from the fleeting world by the smell and purity of flowers, run with the young maidens after the bridegroom, and are washed in the sacrament of baptism, from the two fountains of the love of God, and of our neighbour, by the grace of remission, and mounting up by hope gaze upon heavenly mysteries with the eyes of a clean heart.
 
-Then we receive in a contrite and lowly spirit, with simplicity of heart, the Holy Spirit, who comes down to the meek, and abides in us, by the never-failing charity. And the voice of the Lord from heaven is directed to us the beloved of God; “Blessed are the peacemakers, for they shall be called the sons of God;” \[Matt. 5:9\] and then the Father, with the Son and the Holy Spirit, is well-pleased with us, when we are made one spirit with God.
+Then we receive in a contrite and lowly spirit, with simplicity of heart, the Holy Spirit, who comes down to the meek, and abides in us, by the never-failing charity. And the voice of the Lord from heaven is directed to us the beloved of God; “Blessed are the peacemakers, for they shall be called the sons of God;” \[[[Matthew 05#^5-9|Matt. 5:9]]\] and then the Father, with the Son and the Holy Spirit, is well-pleased with us, when we are made one spirit with God.
 
 12\. And immediately the spirit driveth Him into the wilderness.
 
@@ -246,7 +246,7 @@ Chrys., in Matt., Hom., xiii: But the Spirit drove Him into the wilderness, beca
 
 Bede: But He retires into the desert that He may teach us that, leaving the allurements of the world, and the company of the wicked, we should in all things obey the Divine commands.
 
-He is left alone and tempted by the devil, that He might teach us, “that all that will live godly in Christ Jesus shall suffer persecution;” \[2 Tim 3:12\] whence it follows, “And He was in the wilderness forty days and forty nights, and was tempted of Satan.”
+He is left alone and tempted by the devil, that He might teach us, “that all that will live godly in Christ Jesus shall suffer persecution;” \[[[2 Timothy 03#^3-12|2 Tim 3:12]]\] whence it follows, “And He was in the wilderness forty days and forty nights, and was tempted of Satan.”
 
 But He was tempted forty days and forty nights that He might shew us that as long as we live here and serve God, whether prosperity smile upon us, which is meant by the day, or adversity smite us, which agrees with the figure of night, at all times our adversary is at hand, who ceases not to trouble our way by temptations.
 
@@ -258,7 +258,7 @@ There follows, “and He was with the wild beasts.”
 
 Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: But He says this to shew of what nature was 19 the wilderness, for it was impassable by man and full of wild beasts.
 
-It goes on; “and angels ministered unto Him.” For after temptation, and a victory against the devil, He worked the salvation of man. And thus the Apostle says, “Angels are sent to minister for them who shall be heirs of salvation.” \[Heb 1:14\]
+It goes on; “and angels ministered unto Him.” For after temptation, and a victory against the devil, He worked the salvation of man. And thus the Apostle says, “Angels are sent to minister for them who shall be heirs of salvation.” \[[[Hebrews 01#^1-14|Heb 1:14]]\]
 
 We must also observe, that to those who conquer in temptation angels stand near and minister.
 
@@ -284,7 +284,7 @@ Bede: John being put in prison, fitly does the Lord begin to preach: wherefore t
 
 Pseudo-Jerome: When the shadow ceases, the truth comes on; first, John in prison, the Law in Judaea; then, Jesus in Galilee, Paul among the Gentiles preaching the Gospel of the 20 kingdom. For to an earthly kingdom succeeds poverty, to the poverty of Christians is given an everlasting kingdom; but earthly honour is like the foam of water, or smoke, or sleep.
 
-Bede: Let no one, however, suppose that the putting of John in prison took place immediately after the forty days’ temptation and the fast of the Lord; for whosoever reads the Gospel of John will find, that the Lord taught many things before the putting of John in prison, and also did many miracles; for you have in his Gospel, “This beginning of miracles did Jesus;” \[John 2:11\] and afterwards, “for John was not yet cast into prison.” \[John 3:24\]
+Bede: Let no one, however, suppose that the putting of John in prison took place immediately after the forty days’ temptation and the fast of the Lord; for whosoever reads the Gospel of John will find, that the Lord taught many things before the putting of John in prison, and also did many miracles; for you have in his Gospel, “This beginning of miracles did Jesus;” \[[[John 02#^2-11|John 2:11]]\] and afterwards, “for John was not yet cast into prison.” \[[[John 03#^3-24|John 3:24]]\]
 
 Now it is said that when John read the books of Matthew, Mark, and Luke, he approved indeed the text of the history, and affirmed that they had spoken truth, but said that they had composed the history of only one year after John was cast into prison, in which year also he suffered. Passing over then the year of which the transactions had been published by the three others, he related the events of the former period, before John was cast into prison.
 
@@ -300,7 +300,7 @@ Origen, in Matt., tom. x, 14: But the kingdom of God is essentially the same as 
 
 For by the kingdom of God is to be understood that in which God reigns; and this in truth is in the region of the living, where, seeing God face to face, they will abide in the good things now promised to them; whether by this region one chooses to understand Love, or some other confirmation \[ed. note: By ‘confirmation,’ seems to be meant the perfecting of spiritual natures; see Thomas Aq., Summa Theologica, part 1, Q62, Art 1. It answers to (greek word) as used by St. Basil; de Sp. S 16\] of those who put on the likeness of things above, which are signified by the heavens. \[ed. note: “Coeli” is commonly interpreted of the Angels, by the Fathers.\] 21 For it is clear \[ed. note: see Chrys., in Matt., Hom. 19 in c. 6,9\] enough that the kingdom of God is confined neither by place nor by time.
 
-Theophylact: Or else, the Lord means that the time of the Law is complete; as if He said, Up to this time the Law was at work; from this time the kingdom of God will work, that is, a conversation according to the Gospel, which is with reason likened to the kingdom of heaven. For when you see a man clothed in flesh living according to the Gospel, do you not say that he has the kingdom of heaven, which “is not meat and drink, but righteousness and peace and joy in the Holy Ghost?” \[Rom 14:17\]
+Theophylact: Or else, the Lord means that the time of the Law is complete; as if He said, Up to this time the Law was at work; from this time the kingdom of God will work, that is, a conversation according to the Gospel, which is with reason likened to the kingdom of heaven. For when you see a man clothed in flesh living according to the Gospel, do you not say that he has the kingdom of heaven, which “is not meat and drink, but righteousness and peace and joy in the Holy Ghost?” \[[[Romans 14#^14-17|Rom 14:17]]\]
 
 The next word is, “Repent.”
 
@@ -374,7 +374,7 @@ For this end the Law commanded them to give themselves up to rest on the sabbath
 
 He taught them also in power, transforming men to good, and He threatened punishment to those who did not believe on Him.
 
-Bede: The Scribes themselves taught the people what was written in Moses and the Prophets; but Jesus as the God and Lord of Moses, himself, by the freedom of His own will, either added those things which appeared wanting in the Law, or altered things as He preached to the people; as we read in Matthew, “It was said to them of old time, but I say unto you.” \[Matt. 5:27\]
+Bede: The Scribes themselves taught the people what was written in Moses and the Prophets; but Jesus as the God and Lord of Moses, himself, by the freedom of His own will, either added those things which appeared wanting in the Law, or altered things as He preached to the people; as we read in Matthew, “It was said to them of old time, but I say unto you.” \[[[Matthew 05#^5-27|Matt. 5:27]]\]
 
 23\. And there was in their synagogue a man with an unclean spirit; and he cried out, 24. Saying, “Let us alone; what have we to do with Thee, Thou Jesus of Nazareth? art Thou come to destroy us? I know Thee who Thou art, the Holy One of God.”
 
@@ -408,7 +408,7 @@ Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: As if he said, Methinks that Thou art
 
 Augustine: For He was known to them in that degree in which He wished to be known; and He wished as much as was fitting. He was not known to them as to the holy Angels, who enjoy Him by partaking of His eternity according as He is the Word of God; but as He was to be made known in terror, to those beings from whose tyrannical power He was about to free the predestinate.
 
-He was known therefore to the devils, not in that He is eternal Life, \[see 1 John 5:20, John 17:3\] but by some temporal effects of His Power, which might be more clear to the angelic senses of even bad spirits than to the weakness of men.
+He was known therefore to the devils, not in that He is eternal Life, \[see [[1 John 05#^5-20|1 John 5:20]], [[John 17#^17-3|John 17:3]]\] but by some temporal effects of His Power, which might be more clear to the angelic senses of even bad spirits than to the weakness of men.
 
 Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Further, the Truth did not wish to have the witness of unclean spirits.
 
@@ -426,7 +426,7 @@ Bede: But it may appear to be a discrepancy, that he should have gone out of him
 
 *[p. 20]* ^pg24
 
-But Luke himself says, “When He had cast him into the midst, he came out of him, without hurting him.” \[Luke 4:35\] Wherefore it is inferred that Mark meant by vexing or tearing him, what Luke expresses , in the words, “When He had cast him into the midst;” so that what he goes on to say, “And did not hurt him,” may be understood to mean that the tossing of his limbs and vexing did not weaken him, as devils are wont to come out even with the 27
+But Luke himself says, “When He had cast him into the midst, he came out of him, without hurting him.” \[[[Luke 04#^4-35|Luke 4:35]]\] Wherefore it is inferred that Mark meant by vexing or tearing him, what Luke expresses , in the words, “When He had cast him into the midst;” so that what he goes on to say, “And did not hurt him,” may be understood to mean that the tossing of his limbs and vexing did not weaken him, as devils are wont to come out even with the 27
 
 cutting off and tearing away of limbs. But seeing the power of the miracle, they wonder at the newness of our Lord’s doctrine, and are roused to search into what they had heard by what they had seen.
 
@@ -436,9 +436,9 @@ For miracles were done that they might more firmly believe the Gospel of the kin
 
 It goes on, “And immediately His fame spread abroad, &c.”
 
-Gloss.: For those things which men wonder at they soon divulge, for “out of the abundance of the heart the mouth speaketh.” \[Matt. 12:34\]
+Gloss.: For those things which men wonder at they soon divulge, for “out of the abundance of the heart the mouth speaketh.” \[[[Matthew 12#^12-34|Matt. 12:34]]\]
 
-Pseudo-Jerome: Moreover, Capernaum is mystically interpreted the town of consolation, and the sabbath as rest. The man with an evil spirit is healed by rest and consolation, that the place and time may agree with his healing. This man with an unclean spirit is the human race, in which uncleanness reigned from Adam to Moses; \[Rom 5:14\] for “they sinned without law,” and “perished without law.” \[Rom 2:12\] and he, knowing the Holy One of God, is ordered to hold his peace, for they “knowing God did not glorify him as God,” \[Rom 1:21\] but “rather served the creature than the Creator.” \[Rom 1:25\]
+Pseudo-Jerome: Moreover, Capernaum is mystically interpreted the town of consolation, and the sabbath as rest. The man with an evil spirit is healed by rest and consolation, that the place and time may agree with his healing. This man with an unclean spirit is the human race, in which uncleanness reigned from Adam to Moses; \[[[Romans 05#^5-14|Rom 5:14]]\] for “they sinned without law,” and “perished without law.” \[[[Romans 02#^2-12|Rom 2:12]]\] and he, knowing the Holy One of God, is ordered to hold his peace, for they “knowing God did not glorify him as God,” \[[[Romans 01#^1-21|Rom 1:21]]\] but “rather served the creature than the Creator.” \[[[Romans 01#^1-25|Rom 1:25]]\]
 
 The spirit tearing the man came out of him. When salvation is near, temptation is at hand also. Pharaoh, when about to let \[ed. note: Al. ‘dismissus ab Israel’\] Israel go, pursues Israel; the devil, when despised, rises up to create scandals.
 
@@ -460,7 +460,7 @@ Pseudo-Chrys., Vict. Ant. e Cat. in Marc., 1, 32: But the disciples, knowing tha
 
 Wherefore there follows, “who immediately tell Him of her.”
 
-Bede: But in the Gospel of Luke it is written that “they besought Him for her.” \[Luke 4:38\] For the Saviour sometimes after being asked, sometimes of His own accord, heals the sick, shewing that He always assents to the prayers of the faithful, when they pray also against bad passions, and sometimes gives them to understand things which they do not understand at all, or else, when they pray unto Him dutifully, forgives their want of understanding; as the Psalmist begs of God, “Cleanse me, O Lord, from my secret faults.” \[Ps 19:12\]
+Bede: But in the Gospel of Luke it is written that “they besought Him for her.” \[[[Luke 04#^4-38|Luke 4:38]]\] For the Saviour sometimes after being asked, sometimes of His own accord, heals the sick, shewing that He always assents to the prayers of the faithful, when they pray also against bad passions, and sometimes gives them to understand things which they do not understand at all, or else, when they pray unto Him dutifully, forgives their want of understanding; as the Psalmist begs of God, “Cleanse me, O Lord, from my secret faults.” \[Ps 19:12\]
 
 Wherefore He heals her at their request; for there follows, “And He came and took her by the hand, and lifted her up.”
 
@@ -504,9 +504,9 @@ Bede: For, Him whom the devil had known as a man, wearied by His forty days’ f
 
 Theophylact: Furthermore, the reason that He forbade the devils to speak, was to teach us not to believe them, even if they say true. For if once they find persons to believe them, they mingle truth with falsehood.
 
-Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: And Luke does not contradict this, when he says, that “devils came out of many, crying out and saying, Thou art Christ the Son of God:” \[Luke 4:41\] for he subjoins, “And He rebuking them, suffered them not to speak;” for Mark, who passes over many things for the sake of brevity, speaks about what happened subsequently to the abovementioned words.
+Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: And Luke does not contradict this, when he says, that “devils came out of many, crying out and saying, Thou art Christ the Son of God:” \[[[Luke 04#^4-41|Luke 4:41]]\] for he subjoins, “And He rebuking them, suffered them not to speak;” for Mark, who passes over many things for the sake of brevity, speaks about what happened subsequently to the abovementioned words.
 
-Bede: Again, in a mystical sense, the setting of the sun signifies the passion of Him, who said, “As long as I am in the world, I am the light of the world.” \[John 9:5\] And when the sun was going down, more demoniacs and sick persons were healed than before: because He who living in the flesh for a time taught a few Jews, has transmitted the gifts of faith and health to all the Gentiles throughout the world.
+Bede: Again, in a mystical sense, the setting of the sun signifies the passion of Him, who said, “As long as I am in the world, I am the light of the world.” \[[[John 09#^9-5|John 9:5]]\] And when the sun was going down, more demoniacs and sick persons were healed than before: because He who living in the flesh for a time taught a few Jews, has transmitted the gifts of faith and health to all the Gentiles throughout the world.
 
 *[p. 23]* ^pg27
 
@@ -526,11 +526,11 @@ It goes on, “and there prayed.”
 
 Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Not that He required prayer; for it was He who Himself received the prayers of men; but He did this by way of an economy, and became to us the model of good work.
 
-Theophylact: For He shews to us that we ought to attribute to God whatever we do well, and to say to Him, “Every good gift cometh down from above,” \[James 1:17\] from Thee.
+Theophylact: For He shews to us that we ought to attribute to God whatever we do well, and to say to Him, “Every good gift cometh down from above,” \[[[James 01#^1-17|James 1:17]]\] from Thee.
 
 It continues: “And Simon followed Him, and they that were with Him.”
 
-Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Luke however says that crowds came to Christ, and spoke what Mark here relates that the Apostles said, adding, “And when they came to Him, they said to Him, All seek thee.” \[Luke 4:42\] But they do not contradict each other; for Christ received after the Apostles the multitude, breathlessly anxious to embrace His feet. He received them willingly, but chose to dismiss them, that the rest also might be partakers of His doctrine, as He was not to remain long in the world.
+Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Luke however says that crowds came to Christ, and spoke what Mark here relates that the Apostles said, adding, “And when they came to Him, they said to Him, All seek thee.” \[[[Luke 04#^4-42|Luke 4:42]]\] But they do not contradict each other; for Christ received after the Apostles the multitude, breathlessly anxious to embrace His feet. He received them willingly, but chose to dismiss them, that the rest also might be partakers of His doctrine, as He was not to remain long in the world.
 
 And therefore there follows: “And He said, Let us go into the neighbouring villages and towns, that there also I may preach.”
 
@@ -538,7 +538,7 @@ Theophylact: For He passes on to them as being more in need, since it was not ri
 
 It goes on: “For therefore am I come.”
 
-Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: In which word, He manifests the mystery of His “emptying himself,” \[see Phil. 2:7-8\] that is, of His incarnation, and the sovereignty of His divine nature, in that He here asserts, that He came willingly into the world.
+Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: In which word, He manifests the mystery of His “emptying himself,” \[see [[Philippians 02#^2-7|Phil. 2:7-8]]\] that is, of His incarnation, and the sovereignty of His divine nature, in that He here asserts, that He came willingly into the world.
 
 *[p. 24]* ^pg28
 
@@ -570,9 +570,9 @@ Whence it goes on: “And there came a leper to him, beseeching Him.”
 
 *[p. 25]* ^pg29
 
-Augustine, de Con. Evan., ii, 19: Mark puts together circumstances, from which one may infer that he is the same as that one whom Matthew relates to have been cleansed, when the Lord came down from the mount, after the sermon. \[Matt 8:2\]
+Augustine, de Con. Evan., ii, 19: Mark puts together circumstances, from which one may infer that he is the same as that one whom Matthew relates to have been cleansed, when the Lord came down from the mount, after the sermon. \[[[Matthew 08#^8-2|Matt 8:2]]\]
 
-Bede, in Marc., i, 9: And because the Lord said that He came “not to destroy the Law but to fulfill,” \[Matt. 5:17\] he who was excluded by the Law, inferring that he was cleansed by the power of the Lord, shewed that grace, which could wash away the stain of the leper, was not from the Law, but over the Law. And truly, as in the Lord authoritative power, so in him the constancy of faith is shewn.
+Bede, in Marc., i, 9: And because the Lord said that He came “not to destroy the Law but to fulfill,” \[[[Matthew 05#^5-17|Matt. 5:17]]\] he who was excluded by the Law, inferring that he was cleansed by the power of the Lord, shewed that grace, which could wash away the stain of the leper, was not from the Law, but over the Law. And truly, as in the Lord authoritative power, so in him the constancy of faith is shewn.
 
 For there follows: “Lord, if Thou wilt, Thou canst make me clean.”
 
@@ -632,9 +632,9 @@ Pseudo-Jerome: Mystically, our leprosy is the sin of the first man, which began 
 
 Bede: But when the hand of the Saviour, that is, the Incarnate Word of God, is stretched 36 out, and touches human nature, it is cleansed from the various parts of the old error.
 
-Pseudo-Jerome: This leprosy is cleansed on offering an oblation to the true Priest after the order of Melchisedec; for He tells us, “Give alms of such things as ye have, and, behold, all things are clean unto you.” \[Luke 11:41\]
+Pseudo-Jerome: This leprosy is cleansed on offering an oblation to the true Priest after the order of Melchisedec; for He tells us, “Give alms of such things as ye have, and, behold, all things are clean unto you.” \[[[Luke 11#^11-41|Luke 11:41]]\]
 
-But in that Jesus could not openly enter into the city, it is meant to be conveyed that Jesus is not manifested to those who are enslaved to the love of praise in the broad highway, and to their own wills, but to those who with Peter go into the desert, which the Lord chose for prayer, and for refreshing His people; that is, those who quit the pleasures of the world, and all that they possess, that they may say, “The Lord is my portion.” But the glory of the Lord is manifested to those, who meet together on all sides, that is, through smooth ways and steep, whom nothing can “separate from the love of Christ.” \[Rom 8:35\]
+But in that Jesus could not openly enter into the city, it is meant to be conveyed that Jesus is not manifested to those who are enslaved to the love of praise in the broad highway, and to their own wills, but to those who with Peter go into the desert, which the Lord chose for prayer, and for refreshing His people; that is, those who quit the pleasures of the world, and all that they possess, that they may say, “The Lord is my portion.” But the glory of the Lord is manifested to those, who meet together on all sides, that is, through smooth ways and steep, whom nothing can “separate from the love of Christ.” \[[[Romans 08#^8-35|Rom 8:35]]\]
 
 Bede, in Marc., i, 10: Even after working a miracle in that city, the Lord retires into the desert, to shew that He loves best a quiet life, and one far removed from the cares of the world, and that it is on account of this desire, He applied Himself to the healing of the body.
 
@@ -982,4 +982,4 @@ Bede: And anticipating the calumny of the Jews, which they had prepared for Him,
 
 Wherefore there follows: “And He saith unto them, Is it lawful to do good on the sabbath-day, or to do evil?”
 
-And this He asks, because they thought that on the sabbath they were to rest even from good works, whilst the law commands to abstain from bad, saying, “Ye shall do no servile work therein;” \[Lev 23:7\] that is, sin: for “Whosoever committeth sin is the servant of sin.” \[John 8:34\]
+And this He asks, because they thought that on the sabbath they were to rest even from good works, whilst the law commands to abstain from bad, saying, “Ye shall do no servile work therein;” \[Lev 23:7\] that is, sin: for “Whosoever committeth sin is the servant of sin.” \[[[John 08#^8-34|John 8:34]]\]

@@ -27,7 +27,7 @@ vastu vadedvākyajño vastvantarato viviktatāṃ vidadhat || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#^pg200|p. 183]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=200>))
 >
-> (The teacher) who knows (the meaning of) the statements (in the scripture) should tell (his disciple) the subject matter (vastu)) (it deals with), and establish (its) distinctive difference from other subjects (vastu), by applying sound hermeneutical methods (nyāya). These include, amongst others, (defining the matter’s) overall coherence (tantra), returning repeatedly (to the point from various perspectives) (āvartana), refutation (of logical inconsistencies) (bādha), relevant related discussion (prasanga) and reasoning (applied to exploring potential optional explanations) (tarka), and the like.
+> (The teacher) who knows (the meaning of) the statements (in the scripture) should tell (his disciple) the subject matter (vastu)) (it deals with), and establish (its) distinctive difference from other subjects (vastu), by applying sound hermeneutical methods (nyāya). These include, amongst others, (defining the matter’s) overall coherence (tantra), returning repeatedly (to the point from various perspectives) (āvartana), refutation (of logical inconsistencies) (bādha), relevant related discussion (prasaṅga) and reasoning (applied to exploring potential optional explanations) (tarka), and the like.
 
 ## Viveka
 

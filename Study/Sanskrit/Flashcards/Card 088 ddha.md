@@ -20,16 +20,12 @@ nyasa: "da: left foot (*pāda*) · dha: left toes (*aṅguli*)"
 ## Front
 
 - **Glyph:** द्ध
-- **Variation:** —
 - **Example:** बुद्ध
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘buddha’ (awakened)
-- **Class (as printed):** —
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: द, ध
-- **Example:** buddha (awakened)
+> [!note]- Back
+> - **Pronunciation:** As in ‘buddha’ (awakened)
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ <u>द</u> <u>ध</u> न / प फ ब भ म / य र ल व / श ष स ह
+> - **Example:** buddha (awakened)
 
 ## Register
 

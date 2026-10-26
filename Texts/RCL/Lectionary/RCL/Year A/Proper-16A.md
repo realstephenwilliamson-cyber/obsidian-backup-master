@@ -11,6 +11,7 @@ second_reading: "Romans 12:1-8"
 gospel: "Matthew 16:13-20"
 first_reading_complementary: "Isaiah 51:1-6"
 psalm_complementary: "Psalm 138"
+psalm_bcp_complementary: "Psalm 138"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-16]]"
 cssclasses:

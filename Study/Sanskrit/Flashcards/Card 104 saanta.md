@@ -20,17 +20,10 @@ nyasa: "śa: bone (*asthi*) · ā: mouth (*vaktra*) · na: left toenails (*nakha
 ## Front
 
 - **Glyph:** शान्त
-- **Variation:** —
-- **Example:** —
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** —
-- **Gloss:** participle: ‘calmed’
-- **Class (as printed):** —
-- **Grid:** a row of vowel signs (◌ा ◌ि ◌ी ◌ु ◌ू) above the seven rows (the stops, then य र ल व, then श ष स ह); in bold: ◌ा, त, न, श
-- **Example:** —
+> [!note]- Back
+> - **Gloss:** participle: ‘calmed’
+> - <u>ा</u> ि ी ु ू / क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / <u>त</u> थ द ध <u>न</u> / प फ ब भ म / य र ल व / <u>श</u> ष स ह
 
 ## Register
 

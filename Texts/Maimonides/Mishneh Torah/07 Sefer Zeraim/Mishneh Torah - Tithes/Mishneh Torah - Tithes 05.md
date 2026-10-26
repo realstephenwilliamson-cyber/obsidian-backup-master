@@ -180,7 +180,7 @@ If a worker[^52] stipulated that he could eat a *litra*[^53] of olives, he may e
 [^83]: Where the olives are kept until they become soft and fit to be squeezed for their oil (ibid. 4:3).
 [^84]: See *Hilchot Terumah* 5:14,15 which give examples of instances where a person made an improper separation of *terumah* and hence, was required to separate *terumah* a second time.
 [^85]: Chapter 3, Halachah 3, states that separating *terumah* creates an obligation to tithe the remaining produce. In this halachah, the Rambam emphasizes that even if the separation of *terumah* was defective and *terumah* had to be separated a second time, the obligation to tithe has still taken effect (Radbaz).
-[^86]: As stated in Chapter 3, Halachah 3, the onset of the Sabbath establishes an obligation to tithe. Nevertheless, this applies only when the tasks associated with the preparation of the produce was completed beforehand ([[Beitzah 35#35a|*Beitzah* 35a]]).
+[^86]: As stated in Chapter 3, Halachah 3, the onset of the Sabbath establishes an obligation to tithe. Nevertheless, this applies only when the tasks associated with the preparation of the produce was completed beforehand (*Beitzah* [[Beitzah 35#35a|35a]]).
 [^87]: The rationale is that since the work associated with them has been completed, it is possible to partake of them on the Sabbath. Now eating any food on the Sabbath is significant for it is a dimension of the mitzvah of *oneg Shabbat*, taking pleasure in the Sabbath. Hence, the obligation to tithe is established (*Siftei Cohen* 331:127).
 [^88]: Even a snack.
 [^89]: For the onset of the Sabbath establishes an obligation to tithe as above.  

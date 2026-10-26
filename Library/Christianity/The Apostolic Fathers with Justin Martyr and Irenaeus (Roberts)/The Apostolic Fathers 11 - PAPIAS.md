@@ -160,11 +160,11 @@ The new Jerusalem on earth.
 
 1749
 
-John xiv. 2.
+[[John 14#^14-2|John xiv. 2]].
 
 1750
 
-Commentators suppose that the reference here is to Matt. xx. 23.
+Commentators suppose that the reference here is to [[Matthew 20#^20-23|Matt. xx. 23]].
 
 1751
 
@@ -178,7 +178,7 @@ VI.<sup>1755</sup>
 
 \[Papias, who is now mentioned by us, affirms that he received the sayings of the apostles from those who accompanied them, and he moreover asserts that he heard in person Aristion and the presbyter John.<sup>1756</sup> Accordingly he mentions them frequently by name, and in his writings gives their traditions. Our notice of these circumstances may not be without its use. It may also be worth while to add to the statements of Papias already given, other passages of his in which he relates some miraculous deeds, stating that he acquired the knowledge of them from tradition. The residence of the Apostle Philip with his daughters in Hierapolis has been mentioned above. We must now point out how Papias, who lived at the same time, relates that he had received a wonderful narrative from the daughters of Philip. For he relates that a dead man was raised to life in his day.<sup>1757</sup> He also mentions another miracle relating to Justus, surnamed Barsabas, how he swallowed a deadly poison, and received no harm, on account of the grace of the Lord. The same person, moreover, has set down other things as coming to him from unwritten tradition, amongst these some strange parables and instructions of the Saviour, and some other things of a more fabulous nature.<sup>1758</sup> Amongst these he says that there will be a millennium after the resurrection from the dead, when the personal reign of Christ will be established on this earth. He moreover hands down, in his own writing, other narratives given by the previously mentioned Aristion of the Lord’s sayings, and the traditions of
 
-1\. Cor. xv. 25, 26. 1753 1 Cor. xv. 27, 28. 1754 1755 From Eusebius, *Hist. Eccl.*, iii. 39. \[A certain presbyter, of whom see *Apost. Constitutions*, vii. 46, where he is said to have been ordained by St. John, the 1756 Evangelist.\] “In his day” may mean “in the days of Papias,” or “in the days of Philip.” As the narrative came from the daughters of 1757 Philip, it is more likely that Philip’s days are meant. \[Again, note the reduplicated hearsay. Not even Irenæus, much less Eusebius, should be accepted, otherwise than as 1758 retailing vague reports.\]
+1\. Cor. xv. 25, 26. 1753 [[1 Corinthians 15#^15-27|1 Cor. xv. 27]], [[1 Corinthians 15#^15-28|28]]. 1754 1755 From Eusebius, *Hist. Eccl.*, iii. 39. \[A certain presbyter, of whom see *Apost. Constitutions*, vii. 46, where he is said to have been ordained by St. John, the 1756 Evangelist.\] “In his day” may mean “in the days of Papias,” or “in the days of Philip.” As the narrative came from the daughters of 1757 Philip, it is more likely that Philip’s days are meant. \[Again, note the reduplicated hearsay. Not even Irenæus, much less Eusebius, should be accepted, otherwise than as 1758 retailing vague reports.\]
 
 
 *[p. 242]* ^pg282
@@ -199,7 +199,7 @@ VIII.<sup>1762</sup>
 
 With regard to the inspiration of the book (Revelation), we deem it superfluous to add another word; for the blessed Gregory Theologus and Cyril, and even men of still older date, Papias, Irenæus, Methodius, and Hippolytus, bore entirely satisfactory testimony to it.
 
-Rufinus supposes this story to be the same as that now found in the *textus receptus* of Gospel of John viii. 1–11,—the 1759
+Rufinus supposes this story to be the same as that now found in the *textus receptus* of Gospel of [[John 08#^8-1|John viii. 1–11]],—the 1759
 
 woman taken in adultery.
 

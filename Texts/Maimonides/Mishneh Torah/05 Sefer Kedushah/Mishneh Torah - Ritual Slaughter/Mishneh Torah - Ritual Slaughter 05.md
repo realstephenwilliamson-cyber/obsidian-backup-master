@@ -105,5 +105,5 @@ Similarly, if a fowl entered a woods or reeds and came out with its head or neck
 [^30]: And that is why they are clamoring.
 [^31]: The Rama 57:9 states that this applies when we do not see that he attacked others. If, however, we see that he attacked others, we do not assume that his rage subsided.
 [^32]: The *Shulchan Aruch* (*Yoreh De'ah* 57:11) states that this applies only when we see that he did not attack any animals. If, however, we saw an attack, the fact that he and the victims were silent is not significant.
-[^33]: For there is a multiple doubt involved. Perhaps the predator entered and perhaps it did not. Even if it entered, perhaps it wounded the animal and perhaps it did not (see [[Chullin 53#53b|*Chullin* 53b]]).
+[^33]: For there is a multiple doubt involved. Perhaps the predator entered and perhaps it did not. Even if it entered, perhaps it wounded the animal and perhaps it did not (see *Chullin* [[Chullin 53#53b|53b]]).
 [^34]: I.e., it scratched itself and caused itself a wound. We must, however, check to see that the gullet was not perforated (Radbaz). The Rama (*Yoreh De'ah* 57:13) states in the present age we do not rely on our inspection and therefore forbid any fowl that comes to us with a neck that is bleeding.

@@ -200,12 +200,12 @@ When a person sets aside seven etrogim, [one for each] of the seven days [of the
 [^2]: The *Tzafenat Paneach* questions whether or not the tree from which the lulav is taken must actually produce dates.
 [^3]: Thus, if the leaves spread out and were later bound together by human activity, it is not acceptable (Ramah, *Shulchan Aruch, Orach Chayim* 645:2).
 [^4]: Periodically, the date palm sprouts forth new branches. Initially they are closed, and as time passes they spread out to a fanlike shape. The Torah requires that they be used for the lulav while they are still in their initial state.  
-    This obligation is derived from the fact that the Torah spells the word כפת, without a ו, implying that the date branch should appear to be a single entity ([[Sukkah 32#32a|*Sukkah* 32a]]).  
+    This obligation is derived from the fact that the Torah spells the word כפת, without a ו, implying that the date branch should appear to be a single entity (*Sukkah* [[Sukkah 32#32a|32a]]).  
     There is a homiletic aspect to using the lulav while its leaves are closed. *Vayikra Rabbah* 30:12 emphasizes how the mitzvah of lulav and etrog expresses the unity and oneness which pervade the Jewish people. Not only is this unity expressed by the combination of the four species into a single mitzvah, it is reflected in each of the species themselves. Thus, the lulav is used while its leaves are together as one, before they separate into distinct entities.
 [^5]: Here, too, our Sages have emphasized the homiletic lesson to be derived from this shape. Rosh Hashanah and Yom Kippur are days of judgement. The lulav can be considered as the Jews' scepter of victory, acknowledging that they have prevailed (*Medrash Tanchumah, Emor*).
 [^6]: This is called a lulav.
 [^7]: Leviticus, ibid.
-[^8]: [[Sukkah 35#35a|*Sukkah* 35a]] explains that this term is used to refer to the etrog because of a unique quality possessed by this fruit. The taste of the tree itself resembles the taste of the fruit. Alternatively, the word הדר can be interpreted to mean "which dwells," and thus refer to the etrog, which can grow on the tree for an entire year.
+[^8]: *Sukkah* [[Sukkah 35#35a|35a]] explains that this term is used to refer to the etrog because of a unique quality possessed by this fruit. The taste of the tree itself resembles the taste of the fruit. Alternatively, the word הדר can be interpreted to mean "which dwells," and thus refer to the etrog, which can grow on the tree for an entire year.
 [^9]: Leviticus, ibid.
 [^10]: thus, covering the branch
 [^11]: on the same level.  
@@ -214,13 +214,13 @@ When a person sets aside seven etrogim, [one for each] of the seven days [of the
 [^13]: since its leaves do not grow in the normal pattern.
 [^14]: Leviticus, ibid.
 [^15]: That species is defined as follows:
-[^16]: i.e., it comes to a point, rather than being rounded ([[Sukkah 33#33b|*Sukkah* 33b]]).  
+[^16]: i.e., it comes to a point, rather than being rounded (*Sukkah* [[Sukkah 33#33b|33b]]).  
     This characteristic is also quoted as an explanation of the name "willows of the brook" (Rabbenu Asher).
 [^17]: rather than jagged (*Sukkah* ibid.).
 [^18]: However, the use of that name is not meant to be exclusive...
 [^19]: for the fulfillment of this mitzvah.
 [^20]: i.e., its edge is very jagged, with large protrusions
-[^21]: but white ([[Sukkah 34#34a|*Sukkah* 34a]]).
+[^21]: but white (*Sukkah* [[Sukkah 34#34a|34a]]).
 [^22]: for it is not considered to be merely a different type of willow, but rather another species entirely.
 [^23]: is also extended
 [^24]: The *Mishnah Berurah* 647:6 mentions that willows are frequently picked by young children who are not learned and may mistake a non-kosher species for a kosher one. Hence, the purchaser should carefully examine the willows before purchasing them.
@@ -233,23 +233,23 @@ When a person sets aside seven etrogim, [one for each] of the seven days [of the
 [^28]: of the species...
 [^29]: and only then is the mitzvah performed. Nevertheless, as explained in Halachah 6, the species need not be bound together; it is sufficient to take them one after the other.  
     This statement is taken from the Mishnah, *Menachot* 3:6, which includes the four species of the lulav in a long list of mitzvot in which all the particular elements that make up the mitzvah are required for its performance to be acceptable.
-[^30]: Since the lulav is the tallest of all the species, the entire mitzvah is referred to by this name ([[Sukkah 37#37b|*Sukkah* 37b]]).
+[^30]: Since the lulav is the tallest of all the species, the entire mitzvah is referred to by this name (*Sukkah* [[Sukkah 37#37b|37b]]).
 [^31]: doing so violates the commandment בל תגרע ([[Torah 47 - Re'eh#^13-1|Deuteronomy 13:1]] , which forbids diminishing the Torah's commandments.
 [^32]: doing so violates the commandment תוסיף בל ([[Torah 47 - Re'eh#^13-1|Deuteronomy 13:1]] , which forbids adding to the Torah's commandments.
 [^33]: e.g., a *tzaftzefah* for the willow, or a lemon for the etrog
 [^34]: Rather, the mitzvah cannot be fulfilled at all. Nevertheless, the *Shulchan Aruch* (*Orach Chayim* 651:12) recommends taking the species that are available, as a remembrance of the mitzvah. However, in such circumstances, a blessing should not be recited.
-[^35]: [[Sukkah 11#11b|*Sukkah* 11b]] explains that binding the three species together is considered more attractive than taking them each individually. Thus, taking the species in this manner conforms to the general directive requiring us to perform the mitzvot in the most esthetically appealing manner possible.  
-    [[Sukkah 34#34b|*Sukkah* 34b]] mentions an exegetic teaching that explains why the etrog is not bound together with the other species.
+[^35]: *Sukkah* [[Sukkah 11#11b|11b]] explains that binding the three species together is considered more attractive than taking them each individually. Thus, taking the species in this manner conforms to the general directive requiring us to perform the mitzvot in the most esthetically appealing manner possible.  
+    *Sukkah* [[Sukkah 34#34b|34b]] mentions an exegetic teaching that explains why the etrog is not bound together with the other species.
 [^36]: for the blessings should always be recited before the performance of the mitzvot.
 [^37]: Our translation follows the commentary of the *Kessef Mishneh*, who notes that in *Hilchot Berachot* 11:15, the Rambam states that if one recites the blessing before taking the lulav in his hand, he should conclude the blessing *...v'tzivanu litol lulav*. The blessing should be concluded *...v'tzivanu al netilat lulav* only if one has already taken the lulav in his hands.
 [^38]: As mentioned in the previous halachah and commentary, since the lulav is the tallest of all the species, its name is used to refer to the entire mitzvah.
-[^39]: Since three of the four species are bound together, they are held in the hand which the Torah considers of greater prominence ([[Sukkah 37#37b|*Sukkah* 37b]]).
-[^40]: [[Sukkah 45#45b|*Sukkah* 45b]] derives this concept from [[Torah 19 - Terumah#^26-15|Exodus 26:15]], which states: "upright beams of acacia wood." Implied is that all mitzvot fulfilled with agricultural products must be performed while they are in an upright position. (See also Halachah 9.)
+[^39]: Since three of the four species are bound together, they are held in the hand which the Torah considers of greater prominence (*Sukkah* [[Sukkah 37#37b|37b]]).
+[^40]: *Sukkah* [[Sukkah 45#45b|45b]] derives this concept from [[Torah 19 - Terumah#^26-15|Exodus 26:15]], which states: "upright beams of acacia wood." Implied is that all mitzvot fulfilled with agricultural products must be performed while they are in an upright position. (See also Halachah 9.)
 [^41]: Even though the etrog hangs from the tree with the *pitam* downwards, its "upright" position is when the *pitam* faces upward (*Shulchan Aruch HaRav* 651:12).
-[^42]: [[Sukkah 11#11b|*Sukkah* 11b]] states that it is a mitzvah to bind the three species together, but one may fulfill the mitzvah even when one has not done so.  
+[^42]: *Sukkah* [[Sukkah 11#11b|11b]] states that it is a mitzvah to bind the three species together, but one may fulfill the mitzvah even when one has not done so.  
     This law is accepted as halachah (*Shulchan Aruch, Orach Chayim* 651:12). The preference of the Rabbis for binding the species together is so great that if one has not bound them together before the beginning of the festival, the *Shulchan Aruch* (*Orach Chayim* 651:1) recommends binding them together with a loop on the holiday rather than taking each one individually.
 [^43]: as explained in the previous halachah.
-[^44]: [[Sukkah 34#34b|*Sukkah* 34b]] derives this concept from the fact that [[Torah 31 - Emor#^23-40|Leviticus 23:40]] writes כפת without a ו, implying a single entity, as mentioned in the commentary on Halachah 1.
+[^44]: *Sukkah* [[Sukkah 34#34b|34b]] derives this concept from the fact that [[Torah 31 - Emor#^23-40|Leviticus 23:40]] writes כפת without a ו, implying a single entity, as mentioned in the commentary on Halachah 1.
 [^45]: because the above verse mentions "a fruit (singular) from the beautiful tree" (*Sukkah*, ibid.).
 [^46]: because the above verse states "willows of the brook," using the plural, and thus two are required (ibid.)
 [^47]: The above verse uses three words ענף עץ עבות, each word implying the addition of another branch (Rashi, *Sukkah*, ibid.).
@@ -257,31 +257,31 @@ When a person sets aside seven etrogim, [one for each] of the seven days [of the
 [^49]: The latter statement can be understood to be an explanation of the former. In contrast to the other species, the myrtle is considered an adornment of the mitzvah. Since the extra myrtle branches are viewed as adornments, they are not considered to be an intervening substance separating the person from the mitzvah. (See the commentary on Halachah 11.) Nor is including them considered to be adding to the mitzvah (and thus, a violation of בל תוסיף). (See also Rabbenu Nissim and the Rashba, Vol. I, Responsum 535.)  
     There are some authorities who allow additional myrtle branches to be included even though they do not meet the requirement of having all three leaves on the same level. However, others do not accept this leniency (*Shulchan Aruch, Orach Chayim* 651:15).
 [^50]: because they are not considered to be "adornments."
-[^51]: The Ra'avad objects to this statement, arguing that the adding to the numbers of the other species does not nullify the performance of the mitzvah. Rav Avraham, the Rambam's son, writes that, based on [[Sanhedrin 88#88b|*Sanhedrin* 88b]], the Rambam amended his own manuscript copy of the *Mishneh Torah* to state "it does not nullify it" (*Birkat Avraham* 31).
+[^51]: The Ra'avad objects to this statement, arguing that the adding to the numbers of the other species does not nullify the performance of the mitzvah. Rav Avraham, the Rambam's son, writes that, based on *Sanhedrin* [[Sanhedrin 88#88b|88b]], the Rambam amended his own manuscript copy of the *Mishneh Torah* to state "it does not nullify it" (*Birkat Avraham* 31).
 [^52]: The *Mishnah Berurah* 650:8 states that if the species are smaller than the minimum limits established, they may not be used throughout the festival. Though certain leniencies are granted after the first day, they do not apply regarding this matter.
 [^53]: The Mishnah (*Sukkah* 3:1) describes the length of the lulav as "three handbreadths [and more], so that it can be shaken," implying that, like the other species, it should be three handbreadths in length. However, since all three handbreadths of the lulav must be shaken (see the following two halachot) an additional handbreadth was required for the person to hold the lulav in his hand (Rambam, Commentary on the Mishnah).  
-    [Rashi and most other commentaries based on [[Sukkah 32#32b|*Sukkah* 32b]] consider the handbreadth of the lulav that extends beyond the myrtle and the willow as the addition included "so that it can be shaken." From the latter clauses of this halachah, it appears that the Rambam may have also adopted this interpretation.]  
+    [Rashi and most other commentaries based on *Sukkah* [[Sukkah 32#32b|32b]] consider the handbreadth of the lulav that extends beyond the myrtle and the willow as the addition included "so that it can be shaken." From the latter clauses of this halachah, it appears that the Rambam may have also adopted this interpretation.]  
     A handbreadth is 8 centimeters according to *Shiurei Torah*, and 9.6 centimeters according to the *Chazon Ish*. In his commentary on the above Mishnah, the Rambam emphasizes that the measure refers to three full handbreadths, each four fingerbreadths in length. This is necessary to negate the opinion of certain authorities (see the Ra'avad), who state that here the intent is three "small" handbreadths, so that the total length is only 10 fingerbreadths.  
     The *Shulchan Aruch* (*Orach Chayim* 650:1) accepts the Ra'avad's opinion. Nevertheless, the Ramah suggests following the Rambam's view if possible.
-[^54]: [[Menachot 42#42a|*Menachot* 42a]] states that a lulav has a minimum length, but no maximum length.
+[^54]: *Menachot* [[Menachot 42#42a|42a]] states that a lulav has a minimum length, but no maximum length.
 [^55]: i.e., what is measured is its center stem from its base until the portion which separates into two twin leaves that cling to each other.
 [^56]: i.e., its full length.
 [^57]: The latter principle is derived from the laws of the lulav.
-[^58]: [[Sukkah 33#33a|*Sukkah* 33a]] states:If most of [the myrtle's] leaves dried out, but three fresh leaves remain, it is kosher.  
+[^58]: *Sukkah* [[Sukkah 33#33a|33a]] states:If most of [the myrtle's] leaves dried out, but three fresh leaves remain, it is kosher.  
     Rav Chisda said: "Provided they are at the top of each branch."The Rambam maintains that the same principles can also be applied to the willow.  
-    [Note the commentary on Halachah 8:5, which mentions certain relevant principles. Indeed, in general, this clause appears to be more closely related to the principles mentioned in the following chapter, where the Rambam mentions the characteristics that disqualify the various species, rather than in this chapter, where he relates the fundamental requirements of each one. Based on [[Sukkah 34#34a|*Sukkah* 34a]], which relates that myrtles which are not dry (a factor still common in many Diaspora communities today) are very difficult to find, we can interpret this as an almost parenthetical expression teaching that freshness is not among the fundamental requirements for a myrtle.]
+    [Note the commentary on Halachah 8:5, which mentions certain relevant principles. Indeed, in general, this clause appears to be more closely related to the principles mentioned in the following chapter, where the Rambam mentions the characteristics that disqualify the various species, rather than in this chapter, where he relates the fundamental requirements of each one. Based on *Sukkah* [[Sukkah 34#34a|34a]], which relates that myrtles which are not dry (a factor still common in many Diaspora communities today) are very difficult to find, we can interpret this as an almost parenthetical expression teaching that freshness is not among the fundamental requirements for a myrtle.]
 [^59]: The Rambam maintains that regardless of the length of the myrtles and the willows, the *shidrah* of the lulav must extend beyond them an additional handbreadth, so that it can be shaken. The *Shulchan Aruch* (ibid.:2) does not require adherence to the Rambam's view. Nevertheless, it is accepted without question by *Shulchan Aruch HaRav* 650:2.
 [^60]: 57.6 cubic centimeters according to *Shiurei Torah*; in this context, 100 cubic centimeters according to the *Chazon Ish*.
-[^61]: [[Sukkah 36#36b|*Sukkah* 36b]] relates that Rabbi Akiva came to synagogue with an etrog so large he had to sling it over his shoulder. (This is not out of the question, because, as mentioned above, an etrog is capable of remaining on its tree for an entire year and can attain quite a large size.)
+[^61]: *Sukkah* [[Sukkah 36#36b|36b]] relates that Rabbi Akiva came to synagogue with an etrog so large he had to sling it over his shoulder. (This is not out of the question, because, as mentioned above, an etrog is capable of remaining on its tree for an entire year and can attain quite a large size.)
 [^62]: whether he lifts them up together - as described in Halachah 6.
 [^63]: lifting up each of the four species individually. However, a person must have all four species before him when he fulfills the mitzvah.
 [^64]: Although, in Halachah 6, the Rambam suggested holding the lulav together with the myrtle and willows together in his right hand and the etrog in his left, this is the most desirable way of fulfilling the mitzvah. However, even if a person does not lift up the species in this manner...
-[^65]: Rabbenu Chanan'el does not accept this decision. He interprets [[Sukkah 42#42a|*Sukkah* 42a]], "If he lifted it up in an opposite manner, he did not fulfill his obligation," as referring to such a circumstance. Nevertheless, the Rambam (and similarly, most halachic authorities, including the Ramah, *Shulchan Aruch, Orach Chayim* 651:3) interpret that statement as referring to lifting them up opposite to their natural pattern of growth.
+[^65]: Rabbenu Chanan'el does not accept this decision. He interprets *Sukkah* [[Sukkah 42#42a|42a]], "If he lifted it up in an opposite manner, he did not fulfill his obligation," as referring to such a circumstance. Nevertheless, the Rambam (and similarly, most halachic authorities, including the Ramah, *Shulchan Aruch, Orach Chayim* 651:3) interpret that statement as referring to lifting them up opposite to their natural pattern of growth.
 [^66]: See Halachah 6 and the commentary on it.
 [^67]: For this reason, it is customary in many communities to hold the etrog upside down before reciting the blessing, and then to turn it right side up after the blessing has been recited.
 [^68]: holding the etrog together with the lulav (*Shulchan Aruch, Orach Chayim* 651:11).  
     In the *Beit Yosef*, Rav Yosef Karo quotes the following story from the Recanti. The latter dreamed that he saw a particular pious individual writing God's name with a space separating the last ה from the first three letters. He could not comprehend the dream at all until the next day, when he saw that individual holding his etrog separate from his lulav (*Mishnah Berurah* 651:21).
-[^69]: The Ari suggests that one should face the east and pass the lulav back and forth in the following order; first to the south; then to the north, then east, up, down, and to the west (*Mishnah Berurah* 651:20). [[Sukkah 37#37b|*Sukkah* 37b]] relates that shaking the lulav in all directions prevents unfavorable winds.  
+[^69]: The Ari suggests that one should face the east and pass the lulav back and forth in the following order; first to the south; then to the north, then east, up, down, and to the west (*Mishnah Berurah* 651:20). *Sukkah* [[Sukkah 37#37b|37b]] relates that shaking the lulav in all directions prevents unfavorable winds.  
     When shaking the lulav downward, one should not turn it upside down, for this is opposite its natural pattern of growth. (See Ramah, *Shulchan Aruch, Orach Chayim* 651:9.)
 [^70]: once in each direction
 [^71]: while the lulav is extended outward in that particular direction.
@@ -295,35 +295,35 @@ When a person sets aside seven etrogim, [one for each] of the seven days [of the
     The rejoicing of the trees - the shaking of the lulav - is thus associated with the verse "*Hodu*..." and the verse "*Ana Ado-nai hoshi'ah na*."
 [^78]: It is customary to repeat this verse when reciting the *Hallel*. The *Shulchan Aruch* (*Orach Chayim* 651:8) relates that the lulav is passed back and forth both times the verse is recited.
 [^79]: However, one should not delay the performance of the mitzvah unnecessarily. Indeed, the *Shulchan Aruch* (*Orach Chayim* 652:2) forbids eating before fulfilling the mitzvah.
-[^80]: [[Megillah 20#20b|*Megillah* 20b]] derives this concept from [[Torah 31 - Emor#^23-40|Leviticus 23:40]]: "On the first *day* take...." We may infer: "the lulav is to be taken by day, and not by night."
+[^80]: *Megillah* [[Megillah 20#20b|20b]] derives this concept from [[Torah 31 - Emor#^23-40|Leviticus 23:40]]: "On the first *day* take...." We may infer: "the lulav is to be taken by day, and not by night."
 [^81]: The Mishnah (*Sukkah* 3:8) relates that the inhabitants of Jerusalem would wrap their lulavim together with golden cords.
 [^82]: Though we are commanded to take the lulav, that does not necessarily imply actually holding the lulav in one's hands, because...
 [^83]: i.e., holding another substance in which the lulav is contained is still considered to be holding the lulav...
 [^84]: between one's hands and the lulav. The substance used to bind the lulav is not considered to be an independent entity, but rather an extension of the lulav. This principle is also mentioned in the commentary on Halachah 7 of this chapter and Halachot 5:17-18. The Ramah (*Shulchan Aruch, Orach Chayim* 651:8) states that it is customary to remove rings or other intervening substances that cover even small portions of one's hands before taking the lulav.
-[^85]: [[Sukkah 42#42a|*Sukkah* 42a]] explains that this is unbecoming to the mitzvah.
+[^85]: *Sukkah* [[Sukkah 42#42a|42a]] explains that this is unbecoming to the mitzvah.
 [^86]: The *Mishnah Berurah* 651:31 states that this applies even if the container in which one placed the species is made of silver or gold.
 [^87]: i.e., a substance which does not contribute to the lulav's attractiveness
 [^88]: between the various species. Taking the lulav in this manner is not acceptable. The Ramah (*Shulchan Aruch, Orach Chayim* 651:1) notes that the myrtle branches are frequently bound together with a cord. This must be removed before using them to fulfill the mitzvah.
 [^89]: i.e., if the myrtle leaves fall off and collect between the lulav and the myrtle branches,
 [^90]: This principle applies in many different contexts. (See also *Hilchot P'sulei Hamukdashin* 1:21 and *Hilchot Ma'aseh Hakorbanot* 19:5.)
 [^91]: i.e., using substances other than the three species used in the lulav
-[^92]: the substance used to bind it is not considered to be significant. Therefore, using a different substance is not considered as adding a new entity to the mitzvah. However, if the binding were required, as one opinion ([[Sukkah 6#6b|*Sukkah* 6b]]) maintains, it would be forbidden to use a different substance.
+[^92]: the substance used to bind it is not considered to be significant. Therefore, using a different substance is not considered as adding a new entity to the mitzvah. However, if the binding were required, as one opinion (*Sukkah* [[Sukkah 6#6b|6b]]) maintains, it would be forbidden to use a different substance.
 [^93]: i.e., even outside Jerusalem
 [^94]: i.e., whether or not the Temple is standing
 [^95]: applies only on the first day of the festival, as \[[[Torah 31 - Emor#^23-40|Leviticus 23:40]]] states: "And on the first day, you shall take..." - See Halachah 16. See also the Rambam's Commentary on the Mishnah (*Sukkah* 4:2).
 [^96]: In his Commentary on the Mishnah (*Sukkah* 3:10), the Rambam states that the term מקדש refers to Jerusalem in its totality, not only the Temple Mount. Thus, the Jerusalem Talmud (*Sukkah* 3:11) states:"And you shall rejoice before God, your Lord, seven days" - in Jerusalem.(See also the commentary on Halachah 2:8.)
 [^97]: neither in Jerusalem (where taking the lulav is a mitzvah according to the Torah) nor outside the holy city (where taking the lulav is a Rabbinic decree, as stated in Halachah 15).
-[^98]: instituted by the Rabbis ([[Sukkah 43#43a|*Sukkah* 43a]])
+[^98]: instituted by the Rabbis (*Sukkah* [[Sukkah 43#43a|43a]])
 [^99]: See Halachah 2:6.
 [^100]: Taking the lulav on the first day was obviously a matter of great importance. Hence, the Sages did not feel that the fear that perhaps a person might carry the lulav in the public domain was sufficient reason to nullify the mitzvah. In contrast, on the subsequent days the mitzvah is not considered to be so severe a matter. Hence, the mitzvah could be nullified in Jerusalem as well.  
     The Rabbis question why the Sages differentiated between the lulav and the shofar, and (as explained in Halachah 2:6), nullified the mitzvah of hearing the shofar when Rosh Hashanah fell on the Sabbath. As explained in our commentary on that halachah, in Rabbenu Nissim's commentary on the tractate of *Sukkah*, he states that this decree was instituted only because in most Jewish communities, the people were not aware of the date the court had established for Rosh Hashanah. (Note the details of the explanation there.)
 [^101]: Thus, while the Temple was standing, the lulav would not be taken outside Jerusalem during the subsequent days of the festival.
-[^102]: [[Sukkah 41#41a|*Sukkah* 41a]] explains the source for the establishment of remembrances for the Temple practices:\[[[Jeremiah 30#^30-17|Jeremiah 30:17]]] states: "'I will restore health to you. I will heal you of your wounds," says God. 'Because they called you an outcast. Zion, for whom no one cares.'  
+[^102]: *Sukkah* [[Sukkah 41#41a|41a]] explains the source for the establishment of remembrances for the Temple practices:\[[[Jeremiah 30#^30-17|Jeremiah 30:17]]] states: "'I will restore health to you. I will heal you of your wounds," says God. 'Because they called you an outcast. Zion, for whom no one cares.'  
     The verse states "for whom no one cares," implying that a show of our care is required.On this basis, Rabbi Yochanan ben Zakkai established a number of practices in remembrance of the Temple practices.
 [^103]: but only once a day (Ramah, *Shulchan Aruch, Orach Chayim* 651:5).
 [^104]: As mentioned in the commentary on Halachah 6, the Rambam explains in *Hilchot Berachot* 11:15 that it is preferable to conclude the blessing, *litol lulav*. The *Kessef Mishneh* maintains that the Rambam's present statement is only a reference to his previous one, and not a reversal of his opinion. Nevertheless, the *Shulchan Aruch* (*Orach Chayim* 651:5) and all later authorities recommend reciting *al netilat lulav*.
 [^105]: In *Hilchot Berachot* 11:3, the Rambam writes that a blessing should be recited before the performance of a Rabbinic commandment. It is appropriate to say *v'tzivanu* (and He commanded us) because the commandment to follow the Sages includes the observance of all their enactments.
-[^106]: The *Tosefta, Rosh Hashanah* 2:7, states this concept explicitly. It is also obvious from [[Beitzah 5#5b|*Beitzah* 5b]], which explains that "when in the near future, the Temple will be rebuilt," difficulties may arise from following Rabbi Yochanan ben Zakkai's decree.
+[^106]: The *Tosefta, Rosh Hashanah* 2:7, states this concept explicitly. It is also obvious from *Beitzah* [[Beitzah 5#5b|5b]], which explains that "when in the near future, the Temple will be rebuilt," difficulties may arise from following Rabbi Yochanan ben Zakkai's decree.
 [^107]: and the day when a new month began was established through the testimony of witnesses who saw the new moon.
 [^108]: i.e., the city of Jerusalem
 [^109]: as stated above in Halachah 13.
@@ -347,7 +347,7 @@ When a person sets aside seven etrogim, [one for each] of the seven days [of the
 [^122]: See Chapter 5 of *Hilchot Kiddush Hachodesh*.
 [^123]: or in Jerusalem
 [^124]: when the obligation to do so is from the Torah itself.
-[^125]: As mentioned regarding the celebration of the second day of a festival ([[Beitzah 4#4b|*Beitzah* 4b]]; *Hilchot Kiddush Hachodesh* 5:5), according to Torah law this practice should not be followed. Nevertheless, as a mark of respect for established custom, the practice is continued.
+[^125]: As mentioned regarding the celebration of the second day of a festival (*Beitzah* [[Beitzah 4#4b|4b]]; *Hilchot Kiddush Hachodesh* 5:5), according to Torah law this practice should not be followed. Nevertheless, as a mark of respect for established custom, the practice is continued.
 [^126]: in Halachah 13,
 [^127]: i.e., the lulav, like the shofar and the sukkah, is a positive commandment whose observance is restricted to a specific time. Accordingly, women and slaves are under no obligation. (See Halachot 2:1 and 6:1.)
 [^128]: according to the instructions of our Sages (Rabbenu Manoach). (See Halachot 9 and 10.)
@@ -356,10 +356,10 @@ When a person sets aside seven etrogim, [one for each] of the seven days [of the
 [^131]: i.e., a commandment that has the status of Torah law even though there is no explicit commandment to that effect in the Torah.
 [^132]: in addition to the willow of the lulav - There is another totally different mitzvah performed with the willow.
 [^133]: as described in the following halachot.  
-    Rashi and *Tosafot*, ([[Sukkah 43#43b|*Sukkah* 43b]]) explain that the mitzvah of the willow branch was only performed by the priests for only they were allowed to approach the Temple altar where the branches were arranged. However, from halachah 22, it appears that the Rambam does not share this opinion.  
-    [[Sukkah 44#44a|*Sukkah* 44a]], b also mentions that outside the Temple there was a custom of established in the time of the prophets requiring the taking of the willow by all Jews. (See also *Hilchot Berachot* 11:16.)
-[^134]: even if after using for the lulav, he detaches it and takes it by itself ([[Sukkah 44#44b|*Sukkah* 44b]], *Shulchan Aruch, Orach Chayim* 664:6).
-[^135]: from Motza, a small town slightly west of Jerusalem ([[Sukkah 45#45a|*Sukkah* 45a]]).
+    Rashi and *Tosafot*, (*Sukkah* [[Sukkah 43#43b|43b]]) explain that the mitzvah of the willow branch was only performed by the priests for only they were allowed to approach the Temple altar where the branches were arranged. However, from halachah 22, it appears that the Rambam does not share this opinion.  
+    *Sukkah* [[Sukkah 44#44a|44a]], b also mentions that outside the Temple there was a custom of established in the time of the prophets requiring the taking of the willow by all Jews. (See also *Hilchot Berachot* 11:16.)
+[^134]: even if after using for the lulav, he detaches it and takes it by itself (*Sukkah* [[Sukkah 44#44b|44b]], *Shulchan Aruch, Orach Chayim* 664:6).
+[^135]: from Motza, a small town slightly west of Jerusalem (*Sukkah* [[Sukkah 45#45a|45a]]).
 [^136]: From this fact, Rashi and *Tosafot* conclude that the willows were taken by priests only because Israelites were not allowed to approach the Temple altar.
 [^137]: These willow branches were eleven cubits high and were placed on the base of the altar.  
     Afterwards, they would be taken by the people, as stated in the following halachah. Rabbenu Manoach maintains that the priests would take the willow branches and give them to the people because Israelites were not allowed to approach the altar, as above. However, he notes that Rav Yitzchak ibn Giat's description of the mitzvah could be interpreted to mean that the Israelites themselves were permitted to approach the altar on this occasion.
@@ -367,8 +367,8 @@ When a person sets aside seven etrogim, [one for each] of the seven days [of the
 [^139]: on the Sabbath, since the mitzvah of lulav was negated on such an occasion (Halachah 13). Indeed, in his Commentary on the Mishnah (*Sukkah* 4:3), the Rambam writes that the reason the mitzvah of taking the willow on the Sabbath was negated was so that people would not extend the leniency and take the lulav as well.
 [^140]: The seventh day of Sukkot falls on the Sabbath only when Rosh Hashanah is celebrated on Sunday. Since the Sages attempted to prevent the latter occurrence (*Hilchot Kiddush Hachodesh* 7:7) - indeed, it is impossible according to today's fixed calendar - it was rare that the seventh day of Sukkot would fall on the Sabbath.
 [^141]: and the willows were taken as during the week. Though the mitzvah of lulav would not be performed on such an occasion, an exception was made regarding the willows, in order...
-[^142]: Since the willows were placed near the altar by the priests, and the performance of the mitzvah was under the supervision of the court, there was no need to worry about people carrying willows in the public domain ([[Sukkah 43#43b|*Sukkah* 43b]]).  
-    In a related context, [[Sukkah 43#43b|*Sukkah* 43b]] relates that the followers of Boethus, who did not respect the Oral Law, once tried to prevent the people from following the mitzvah of the willow branches on the Sabbath. Indeed, precisely because the source for the mitzvah is the oral tradition alone, the Sages made a point of allowing it to be observed on the Sabbath at least under such circumstances (Rabbenu Manoach).  
+[^142]: Since the willows were placed near the altar by the priests, and the performance of the mitzvah was under the supervision of the court, there was no need to worry about people carrying willows in the public domain (*Sukkah* [[Sukkah 43#43b|43b]]).  
+    In a related context, *Sukkah* [[Sukkah 43#43b|43b]] relates that the followers of Boethus, who did not respect the Oral Law, once tried to prevent the people from following the mitzvah of the willow branches on the Sabbath. Indeed, precisely because the source for the mitzvah is the oral tradition alone, the Sages made a point of allowing it to be observed on the Sabbath at least under such circumstances (Rabbenu Manoach).  
     The actual performance of the mitzvah on the Sabbath is described in the following halachah.
 [^143]: Some commentaries explain that the golden vessels were used as an expression of respect for the mitzvah. However, the *Ma'aseh Rokeach* explains that, in comparison to containers made of other metals, golden ones are more beneficial in preserving the willows' freshness.
 [^144]: Note the commentary on the previous halachah.
@@ -384,7 +384,7 @@ When a person sets aside seven etrogim, [one for each] of the seven days [of the
     However, in *Hilchot Berachot* 11:15, he writes:Every practice which is a custom - even if it a custom of the prophets (e.g., taking the willow on the seventh day of the festival)... - [does not require] the recitation of a blessing.It is possible to reconcile the two statements as follows: A blessing was never recited upon taking the willow in the Temple (though it could have been), because of the custom of the prophets mentioned in his Commentary on the Mishnah. There was never any reason to recite a blessing over taking the willow outside the Temple because it was only a custom.
 [^154]: in the Temple
 [^155]: There is a question if this practice was carried out only by the priests, or by Israelites as well. (See the commentary on Halachah 21.)
-[^156]: [[Sukkah 43#43b|*Sukkah* 43b]] mentions an opinion that states that the people would walk around the altar carrying the willow branch, but concludes as the Rambam does. (See also *Shulchan Aruch, Orach Chayim* 664:4.)
+[^156]: *Sukkah* [[Sukkah 43#43b|43b]] mentions an opinion that states that the people would walk around the altar carrying the willow branch, but concludes as the Rambam does. (See also *Shulchan Aruch, Orach Chayim* 664:4.)
 [^157]: Many manuscripts of the *Mishneh Torah* state "Please, God, save us" twice, repeating that verse as is our custom in the recitation of *Hallel*.
 [^158]: The *Yalkut Shimoni* notes that this recalls the miracle of the conquest of Jericho.
 [^159]: From *Hilchot Tefillah* 11:3, it appears that in addition to the main ark of the synagogue, there was a small movable ark that was positioned in the center of the synagogue. The present custom is to hold the Torah scrolls on the reader's platform in the center of the synagogue. This is also mentioned in the *Yalkut Shimoni*: "The *chazan* stands as an angel of God, holding the Torah scroll in his arm."

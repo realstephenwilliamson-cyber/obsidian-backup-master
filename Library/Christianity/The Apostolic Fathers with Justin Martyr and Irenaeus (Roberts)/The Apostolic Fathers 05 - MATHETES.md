@@ -20,7 +20,7 @@ converted: 2026-10-07
 
 23
 
-\[a.d. 130.\] The anonymous author of this Epistle gives himself the title (Mathetes) “a *disciple*<sup>263</sup> of the Apostles,” and I venture to adopt it as his name. It is about all we know of him, and it serves a useful end. I place his letter here, as a sequel to the Clementine Epistle, for several reasons, which I think scholars will approve: (1) It is full of the Pauline spirit, and exhales the same pure and primitive fragrance which is characteristic of Clement. (2) No theory as to its date very much conflicts with that which I adopt, and it is sustained by good authorities. (3) But, as a specimen of the persuasives against Gentilism which early Christians employed in their intercourse with friends who adhered to heathenism, it admirably illustrates the temper prescribed by St. Paul (2 Tim. ii. 24), and not less the peculiar social relations of converts to the Gospel with the more amiable and candid of their personal friends at this early period.
+\[a.d. 130.\] The anonymous author of this Epistle gives himself the title (Mathetes) “a *disciple*<sup>263</sup> of the Apostles,” and I venture to adopt it as his name. It is about all we know of him, and it serves a useful end. I place his letter here, as a sequel to the Clementine Epistle, for several reasons, which I think scholars will approve: (1) It is full of the Pauline spirit, and exhales the same pure and primitive fragrance which is characteristic of Clement. (2) No theory as to its date very much conflicts with that which I adopt, and it is sustained by good authorities. (3) But, as a specimen of the persuasives against Gentilism which early Christians employed in their intercourse with friends who adhered to heathenism, it admirably illustrates the temper prescribed by St. Paul ([[2 Timothy 02#^2-24|2 Tim. ii. 24]]), and not less the peculiar social relations of converts to the Gospel with the more amiable and candid of their personal friends at this early period.
 
 Mathetes was possibly a catechumen of St. Paul or of one of the apostle’s associates. I assume that his correspondent was the tutor of M. Aurelius. Placed just here, it fills a *lacuna* in the series, and takes the place of the pseudo (second) Epistle of Clement, which is now relegated to its proper place with the works falsely ascribed to St. Clement.
 
@@ -124,7 +124,7 @@ Literally, “lessening.”
 
 276
 
-Comp. Gal. iv. 10.
+Comp. [[Galatians 04#^4-10|Gal. iv. 10]].
 
 277
 
@@ -160,31 +160,31 @@ Otto omits “bed,” which is an emendation, and gives the second “common” 
 
 283
 
-Comp. 2 Cor. x. 3.
+Comp. [[2 Corinthians 10#^10-3|2 Cor. x. 3]].
 
 284
 
-Comp. Phil. iii. 20.
+Comp. [[Philippians 03#^3-20|Phil. iii. 20]].
 
 285
 
-Comp. 2 Cor. vi. 9.
+Comp. [[2 Corinthians 06#^6-9|2 Cor. vi. 9]].
 
 286
 
-Comp. 2 Cor. vi. 10.
+Comp. [[2 Corinthians 06#^6-10|2 Cor. vi. 10]].
 
 287
 
-Comp. 2 Cor. iv. 12.
+Comp. [[2 Corinthians 04#^4-12|2 Cor. iv. 12]].
 
 288
 
-John xvii. 11, 14, 16.
+[[John 17#^17-11|John xvii. 11]], [[John 17#^17-14|14]], [[John 17#^17-16|16]].
 
 289
 
-Comp. 1 Pet. ii. 11.
+Comp. [[1 Peter 02#^2-11|1 Pet. ii. 11]].
 
 *[PDF 89]* ^pg89
 
@@ -254,7 +254,7 @@ Or, “known Him.”
 
 303
 
-Comp. Matt. xix. 17.
+Comp. [[Matthew 19#^19-17|Matt. xix. 17]].
 
 304
 
@@ -280,7 +280,7 @@ Literally, “economically.”
 
 308
 
-Otto refers for a like contrast between these two times to Rom. iii. 21–26, Rom. v. 20 and Gal. iv. 4. \[Comp. Acts xvii. 309
+Otto refers for a like contrast between these two times to [[Romans 03#^3-21|Rom. iii. 21–26]], [[Romans 05#^5-20|Rom. v. 20]] and [[Galatians 04#^4-4|Gal. iv. 4]]. \[Comp. Acts xvii. 309
 
 30.\]
 
@@ -314,7 +314,7 @@ That is, before Christ appeared.
 
 315
 
-Comp. Matt. vi. 25, etc. \[Mathetes, in a single sentence, expounds a most practical text with comprehensive views.\] 316
+Comp. [[Matthew 06#^6-25|Matt. vi. 25]], etc. \[Mathetes, in a single sentence, expounds a most practical text with comprehensive views.\] 316
 
 Thus Otto supplies the *lacuna*; others conjecture somewhat different supplements.
 
@@ -344,7 +344,7 @@ It has been proposed to connect this with the preceding sentence, and read, “h
 
 for what purpose He sent the Word.”
 
-\[Comp. 1 Tim. iii. 16.\] 322
+\[Comp. [[1 Timothy 03#^3-16|1 Tim. iii. 16]].\] 322
 
 Or, “esteemed.”
 
@@ -374,7 +374,7 @@ Or, “deprived of it.”
 
 328
 
-Literally, “knowledge without the truth of a command exercised to life.” See 1 Cor. viii. 1.
+Literally, “knowledge without the truth of a command exercised to life.” See [[1 Corinthians 08#^8-1|1 Cor. viii. 1]].
 
 329
 
@@ -394,11 +394,11 @@ The meaning seems to be, that if the tree of true knowledge and life be planted 
 
 blemishes and sins.
 
-\[This looks like a reference to the Apocalypse, Rev. v. 9., Rev. xix. 7., Rev. xx. 5.\]
+\[This looks like a reference to the Apocalypse, [[Revelation 05#^5-9|Rev. v. 9]]., [[Revelation 19#^19-7|Rev. xix. 7]]., [[Revelation 20#^20-5|Rev. xx. 5]].\]
 
 334
 
-Here Bishop Wordsworth would read κλῆροι, cites 1 Pet. v. 3, and refers to Suicer (Lexicon) in voce κλῆρος.\]
+Here Bishop Wordsworth would read κλῆροι, cites [[1 Peter 05#^5-3|1 Pet. v. 3]], and refers to Suicer (Lexicon) in voce κλῆρος.\]
 
 335
 

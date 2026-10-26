@@ -98,7 +98,7 @@ mencement of this homily is, how-
 
 Ps. xliv. 22.
 
-Heb. xii. 2.
+[[Hebrews 12#^12-2|Heb. xii. 2]].
 
 Jobn xxi.
 
@@ -118,9 +118,9 @@ He would have those, therefore, who were to be the teachers of all beneath the s
 
 afflicted for our sins.” Those, therefore, who would follow Him, and earnestly desire to be like Him, and are set over His intelligent flocks, must undergo similar labours. For numerous savage beasts encircle them, violent, and implacable, and that slay cruelly, and hurry souls to the pit of destruction. For the more learned and skilful of the heathen possess great eloquence, and adorn their false doctrine with beautiful language: and thus they pervert some simple-minded men, making them often wish to share their malady, and depart from the God Who is over all, to worship others in His stead which are no gods. These heaped upon the holy Apostles unendurable persecutions, and exposed them again and again to dangers. For the blessed Paul commemorates the things <sup>2</sup>Tim. iii. he had been seen to suffer at Iconium and Lystra, and at '™ Ephesus and Damascus. For at one time he says, ‘‘ In Da- <sup>2</sup>Cor. xi. “ mascus the chief captain of Aretas the king watched the city \*\* \*\* of the Damascenes wishing to seize me, and from awindow they
 
-Jet me down from the wall in a basket, and Iwas delivered from “his hands.” And again at another time, “ Alexander the smith <sup>2</sup>Tim. iv. “ caused me much evil.” What then is the testimony of this "\* mighty Evangelist, this courageous and valiant champion, who everywhere despised the utmost dangers? “For to me,” he Phil. i. 21. says, “that Ilive is Christ ; and that I die is gain.” And again, \* Tam crucified with Christ; but henceforth I no more live, Gal. ii. 20. “but Christ liveth in me: and that which I live here in the “flesh, L live by faith in the Son of God, Who loved me, and “ yielded up Himself for my sake.”
+Jet me down from the wall in a basket, and Iwas delivered from “his hands.” And again at another time, “ Alexander the smith <sup>2</sup>Tim. iv. “ caused me much evil.” What then is the testimony of this "\* mighty Evangelist, this courageous and valiant champion, who everywhere despised the utmost dangers? “For to me,” he [[Philippians 01#^1-21|Phil. i. 21]]. says, “that Ilive is Christ ; and that I die is gain.” And again, \* Tam crucified with Christ; but henceforth I no more live, [[Galatians 02#^2-20|Gal. ii. 20]]. “but Christ liveth in me: and that which I live here in the “flesh, L live by faith in the Son of God, Who loved me, and “ yielded up Himself for my sake.”
 
-But the violence of the Jews broke forth frequently against the other apostles also: they persecuted them; they summoned them before their synagogues; they scourged them wickedly, commanding them to keep silence, and desist from their sacred preachings: for they said, “ Did we not strictly Acts v. 28. “command you not to speak to any man in this Name?—even the “ Name of Christ, the Saviour of us all;—and behold! ye have “ filled Jerusalem with your doctrine.” But after the disciples had borne their violent accusation for the firm love they had to Christ, they went out “ rejoicing that they were counted “worthy to suffer shame for the Name.” But had they been timid, and abject, and frightened at words, and overpowered by the terrors of death, how would they have been proved? or how have offered as fruits to God those who were called by their
+But the violence of the Jews broke forth frequently against the other apostles also: they persecuted them; they summoned them before their synagogues; they scourged them wickedly, commanding them to keep silence, and desist from their sacred preachings: for they said, “ Did we not strictly [[Acts 05#^5-28|Acts v. 28]]. “command you not to speak to any man in this Name?—even the “ Name of Christ, the Saviour of us all;—and behold! ye have “ filled Jerusalem with your doctrine.” But after the disciples had borne their violent accusation for the firm love they had to Christ, they went out “ rejoicing that they were counted “worthy to suffer shame for the Name.” But had they been timid, and abject, and frightened at words, and overpowered by the terrors of death, how would they have been proved? or how have offered as fruits to God those who were called by their
 
 *[p. 224]* ^pg248
 
@@ -130,7 +130,7 @@ i.
 
 Prov. x. 2.
 
-1Cor.vii.31.
+[[1 Corinthians 07#^7-31|1Cor.vii.31]].
 
 Wisd. v. 9.
 
@@ -160,7 +160,7 @@ But, next, He also begets in them fear as well, in that he says that He shall de
 
 ¢ In this argument S. Cyril takes the being ashamed in a good sense, as ‘‘feeling reverence at.”” Similarly it is understood by the Vulgate :
 
-Qui enim erubuerit Me, et Meos sermones, hunc Filius hominis erubescet. This Wiclif renders, ‘““Whoso “‘schameth Me and My wordis, “\* mannes Sone shall schame him,”’ &c. And the sense in which he uses shame we may see in his version of Luke xviii. 2: ‘There was “a juge in a citee, that drede not “ God, neither schamede of men.”
+Qui enim erubuerit Me, et Meos sermones, hunc Filius hominis erubescet. This Wiclif renders, ‘““Whoso “‘schameth Me and My wordis, “\* mannes Sone shall schame him,”’ &c. And the sense in which he uses shame we may see in his version of [[Luke 18#^18-2|Luke xviii. 2]]: ‘There was “a juge in a citee, that drede not “ God, neither schamede of men.”
 
 SS
 
@@ -222,13 +222,13 @@ SERMON LIL.
 
 But it came to pass, the day after, as they came down from ©. ix. 37the mountain, a great crowd met Him. And, behold, a + man cried out from the crowd, saying, Teacher, I beseech Thee to regard my Son, for he is my only one. And lo, @ enipredov spirit taketh him, and he suddenly ecrieth out, and it con- ia , . émlBrewat vulseth and teareth him, aud he foameth; and having GST. bruised him searcely departeth from him. And I besought Shean Thy disciples to cast him out, and they could not. And BGTs. Jesus answered, and said: O faithless and perverse generation, how long shall I be with you, and suffer you? Bring thy son hither. And when he was yet coming, the devil threw him down. and convulsed him. But Jesus rebuked the unclean spirit, and healed the child, and gave him to his father. And all wondered at the majesty of God.
 
-ALL Scripture is inspired of God and profitable : but especially above all besides this is the ease with the holy Gospels. For He Who in old time spake the law to the Israelites by the ministry of angels, has in person spoken unto us, when having taken our likeness, He appeared upon earth, and went about among men. For most wise Paul writes: “ That while in old Heb. ir. “ time God spake to the fathers by the prophets in manifold “ parts, and manifold manners, He hath in these latter days “ spoken unto us by the Son.” And by one of His holy prophets, He somewhere Himself saith, “ I Who speak am near as Is. lii. 6. “the brightness upon the mountains, as the feet of him that « proclaimeth tidings of peace; as one that proclaimeth good “things.” For lo! He frees us from the tyranny of the enemy, that we may in purity follow Him; and that having brought to nought “ the world rulers of this darkness,” even Eph. vi.12. wicked spirits, He may present us unharmed unto God the Father.
+ALL Scripture is inspired of God and profitable : but especially above all besides this is the ease with the holy Gospels. For He Who in old time spake the law to the Israelites by the ministry of angels, has in person spoken unto us, when having taken our likeness, He appeared upon earth, and went about among men. For most wise Paul writes: “ That while in old Heb. ir. “ time God spake to the fathers by the prophets in manifold “ parts, and manifold manners, He hath in these latter days “ spoken unto us by the Son.” And by one of His holy prophets, He somewhere Himself saith, “ I Who speak am near as Is. lii. 6. “the brightness upon the mountains, as the feet of him that « proclaimeth tidings of peace; as one that proclaimeth good “things.” For lo! He frees us from the tyranny of the enemy, that we may in purity follow Him; and that having brought to nought “ the world rulers of this darkness,” even [[Ephesians 06#^6-12|Eph. vi.12]]. wicked spirits, He may present us unharmed unto God the Father.
 
 For that it is by Him that we have gained deliverance from the power of unclean spirits, this lesson proves. For we heard read that a man ran towards Him from among the multitude, and related the intolerable malady of his son. For he said
 
 *[p. 232]* ^pg256
 
-James i. 6.
+[[James 01#^1-6|James i. 6]].
 
 that he was cruelly torn by an evil spirit, and suffered violent convulsions. But the manner of his approach was not free from fault: for he made loud outcries against the company of the holy apostles, saying that they could not rebuke Satan: whereas it would have been more fitting, had he honoured Jesus when asking His aid, and imploring grace. For He grants us our request when we honour and confide in Him, as being the Almighty, Whose power nothing can withstand. For He verily is the Lord of powers?, and nothing can offer resistance to His will. Yea rather, everything whatsoever that is capable of possessing power obtains entirely from Him the possibility of being what it is. For just as He sheds His light upon those who are capable of being illuminated, as being Himself the true light ; and just as in like manner He is the bestower of wisdom upon those who are capable thereof, as being Himself Wisdom, and perfect understanding: so, inasmuch as He is Power, He bestows power on those capable of receiving it. When then by our disbelief we despise His glory, and wickedly seorn His supreme majesty, we can receive nothing from Him: for “we must ask in faith, nothing wavering,” as His disciple said.
 
@@ -252,7 +252,7 @@ Mill from the Syriac Christians of Malabar, I have found two lists of ecclesiast
 
 “every people and race among mankind :” and afterwards they add an aecount of what they would ask. The father therefore of the demoniac was rude and uncourtcous: for he did not simply ask the healing of the child, and in so doing crown the healer with praises, but, on the contrary, spake contemptuously of the disciples, and found fault with the grace given them. ‘For \[ brought him, he says, to Thy ‘disciples, and they could not cast it ont.” And yet it was owing to thy own want of faith that the grace availed not. Dost thou not perceive that thou wast thyself’ the cause that the child was not delivered from his severe illness?
 
-For that we must have faith when we draw near to Christ, and whosoever have obtained trom Him the grace of healing, He teaches us Himself, by everywhere requiring faith of those who approach Ilim, desiring to be eounted worthy of any of His gifts. For, for instance, Lazarus died at Bethany, and Christ promised to raise him. When then one of his sisters doubted of this, and had no expectation that the miracle would take place, Christ said, “I am the resurrection and the life. John xi.25. “He that believeth in Me, even though he die, shall live.” And we find elsewhere a similar occurrence. For Jairus, a ruler of the synagogue of the Jews, when his only daughter was now breathing her last, being caught, so to speak, in the meshes of death, besought Jesus to deliver the damsel from what had happened : and Christ accordingly promised so to do upon arriving at the house of the supplicant. But as He was on His way, a man met Him from the relatives of the ruler of the synagogue, saying, “Thy daughter is dead: trouble not Luke vii. “the Teacher.” And what was Christ’s reply? “ Fear not: +9 “ only believe, and she shall live.”
+For that we must have faith when we draw near to Christ, and whosoever have obtained trom Him the grace of healing, He teaches us Himself, by everywhere requiring faith of those who approach Ilim, desiring to be eounted worthy of any of His gifts. For, for instance, Lazarus died at Bethany, and Christ promised to raise him. When then one of his sisters doubted of this, and had no expectation that the miracle would take place, Christ said, “I am the resurrection and the life. [[John 11#^11-25|John xi.25]]. “He that believeth in Me, even though he die, shall live.” And we find elsewhere a similar occurrence. For Jairus, a ruler of the synagogue of the Jews, when his only daughter was now breathing her last, being caught, so to speak, in the meshes of death, besought Jesus to deliver the damsel from what had happened : and Christ accordingly promised so to do upon arriving at the house of the supplicant. But as He was on His way, a man met Him from the relatives of the ruler of the synagogue, saying, “Thy daughter is dead: trouble not Luke vii. “the Teacher.” And what was Christ’s reply? “ Fear not: +9 “ only believe, and she shall live.”
 
 It was the duty therefore of the father of the lad rather to lay the blame upon his own unbelicf, than upon the holy apostles. For this reason Christ justly called out, “ O faithless “ and perverse generation: how long shall I be with you, and “ suffer you?” He justly therefore calls both the man himself, and those like him in mind a faithless generation. For it is a wretched malady, and whosoever is seized by it is, as He shews, perverse, and utterly without knowledge to walk uprightly. And therefore the sacred Seriptures say of such persons, “that their ways are crooked, and their paths per- Prov.iirs. Hh
 
@@ -262,7 +262,7 @@ Ps. ci. 4.
 
 \- Mat. ili. 3.
 
-Acts iii. 16,
+[[Acts 03#^3-16|Acts iii. 16]],
 
 Actg ix. 34.
 
@@ -298,7 +298,7 @@ add. 6 "In-gous BGs.
 
 16\.
 
-John vi. 43.
+[[John 06#^6-43|John vi. 43]].
 
 Mat. xvi.
 
@@ -320,13 +320,13 @@ T In the text S.Cyrilhas the right possibly through inadvertence, as reading ‘
 
 THE GOSPEL OF ST. LUKE. Oy
 
-and necessary for our consideration. Hel!had then led up into the mountain Peter, and James, and John, and beeu transfigured before them, and His countenance shone as the sun: and He shewed them the glory, with which in due time He will arise upon the world. For He will come, not in humiliation such as ours; nor in the meanness of man’s estate, but in the majesty and splendour of the Godhead, and in transcendent glory. And again, when He came down from the mountain, He delivered a man from a wicked and violent spirit. Yet was He certainly about to bear for our sakes His saving passion ; and endure the wickedness of the Jews; and, as the minister of His mysteries says, “by the grace of God to taste death for every man.” Heb. ii. 9. But when this came to pass, there is nothing unlikely im supposing that the disciples would be troubled; and in their secret thoughts perhaps even say, How is One so glorious ; Who raised the dead by His godlike power; Who rebuked the seas and the winds; Who by a word crushed Satan ; how is He now seized as a prisoner, and caught in the snares of these murderers? Were we then mistaken in thinking that He is God? Have we fallen from the true opinion regarding Him ? For that those who knew not the mystery, that our Lord Jesus Christ would endure the cross and death, would find therein an occasion of stumbling, is easy to perceive, even from what the blessed Peter said to Him. For though he had not as yet been witness of His passion, but only had heard beforehand that it would befal Him, he interrupted Him, saying, © That be far Mat. xvi. “ fpom Thee, Lord: this shall not be unto Thee.” Po
+and necessary for our consideration. Hel!had then led up into the mountain Peter, and James, and John, and beeu transfigured before them, and His countenance shone as the sun: and He shewed them the glory, with which in due time He will arise upon the world. For He will come, not in humiliation such as ours; nor in the meanness of man’s estate, but in the majesty and splendour of the Godhead, and in transcendent glory. And again, when He came down from the mountain, He delivered a man from a wicked and violent spirit. Yet was He certainly about to bear for our sakes His saving passion ; and endure the wickedness of the Jews; and, as the minister of His mysteries says, “by the grace of God to taste death for every man.” [[Hebrews 02#^2-9|Heb. ii. 9]]. But when this came to pass, there is nothing unlikely im supposing that the disciples would be troubled; and in their secret thoughts perhaps even say, How is One so glorious ; Who raised the dead by His godlike power; Who rebuked the seas and the winds; Who by a word crushed Satan ; how is He now seized as a prisoner, and caught in the snares of these murderers? Were we then mistaken in thinking that He is God? Have we fallen from the true opinion regarding Him ? For that those who knew not the mystery, that our Lord Jesus Christ would endure the cross and death, would find therein an occasion of stumbling, is easy to perceive, even from what the blessed Peter said to Him. For though he had not as yet been witness of His passion, but only had heard beforehand that it would befal Him, he interrupted Him, saying, © That be far Mat. xvi. “ fpom Thee, Lord: this shall not be unto Thee.” Po
 
 In order, therefore, that they might know what certainly would happen, He bade them, so to speak, store up the mystery in their mind. “For lay ye it,” He says, “ to your hearts.” In which words, the “ye” distinguishes them from all others. For Ile wished indeed that they should themselves know what would happen, but not that they should communicate it to others. Yor it was not right for the unlearned to be taught simply Ifis future passion, but far better, to convince them at the same time of His haying risen divinely from the grave, and abolished death, and so avoid the danger of their being offended. When therefore the time comes, He says, that I must suffer, ask uot, How it is that One so glorious, Who per-
 
 *[p. 238]* ^pg262
 
-John x. 18.
+[[John 10#^10-18|John x. 18]].
 
 formed all these sigus, has fallen like one of us unawares into the hands of His enemies: but, on the contrary, be assured, when reflecting upon the dispensation, that Iam not led by human compulsion, but go willingly thereunto. For what is there to hinder one Who knows beforehand and clearly proclaims what is to happen, to refuse to suffer, if He so will? But I submit to suffer, in order that \[ may redeem all beneath the heavens. For this He plainly teaches us elsewhere, saying, “ No man taketh My life from Me, but I lay it down of My “ own will. I have power to lay it down: and I have power \* to take it again.”
 
@@ -372,7 +372,7 @@ ey
 
 aCoriiiits.
 
-John v. 39.
+[[John 05#^5-39|John v. 39]].
 
 it was sacrificed: while the other and therefore had the name that which was ealled “lord,”
 
@@ -464,7 +464,7 @@ tS. Cyril apparently must have used in the original some such word as Spovtnots,
 
 t Pet. il. 2.
 
-Mat. xi. 29.
+[[Matthew 11#^11-29|Mat. xi. 29]].
 
 *[p. 246]* ^pg270
 
@@ -472,7 +472,7 @@ Luke xiv.
 
 tI.
 
-Mat. v. 3.
+[[Matthew 05#^5-3|Mat. v. 3]].
 
 plain by saying: “ For he that is least among you all, the same “is chief.” And how is he the chief, who is regarded as the least ? Is the comparison in point of virtue? But how can this be? The foremost place is not assigned to him who is chief in virtne above him who is otherwise. In what way, then, is he chief who is least? Probably, then, He calls him least whom lowly things please, and who, from modesty, does not think highly of himself. Such a one pleases Christ : for it is written, “that every one that exalteth himself shall be abased: and he “ that humbleth himself shall be exalted.” And Christ Himself somewhere says, “‘ Blessed are the poor in spirit: for their’s “is the kingdom of heaven.” The ornament, therefore, of a soul that is sanctified is a poor and humble mind: but the wish to think highly of oneself, and to be at strife with the brethren for the sake of honour and dignity, and foolishly to quarrel with them, is in like manner a disgrace. Such conduct separates friends. and makes even those perhaps great enemies whose dispositions are similar. It overpowers the law of nature, and subverts that innate affection which we owe our brethren. It divides lovers, and sometimes makes even those enemies of oné another, who are united by being born from one womb. It fights against and resists the blessings of peace.
 
@@ -512,7 +512,7 @@ And this I say from admiration of the skilfulness here also displayed in the les
 
 of these wonders, but that the grace which was in him wrought the miracle by the power of Christ? How therefore dost thou forbid him who in Christ wins the victory?‘ Yes,” he saith; “ for he followeth not with us.” Oh blind speech! For what if he be not numbered among the holy Apostles, who is crowned with Christ’s grace, yet is he equally with you adorned with apostolic powers. There are many diversities of Christ’s gifts, as the blessed Paul teacheth, saying; “that to one is given <sup>1</sup>Cor.xii.s. “the word of wisdom, but to another the word of knowledge: “ and to another faith ; and to another gifts of healings.”
 
-What therefore is the meaning of his “ not walking with us,” or what is the force of the expression? Look then; for I will tell you as well as I can. The Saviour gave the holy Apo- Mat. x. 1, stles authority over unclean spirits, to cast them out, and to heal all disease and all sickness among the people. And so they did; nor was the grace given them ineffectual. For they returned with joy, saying; “ Lord, even the devils are subject Luke x. 1. “to us in Thy name.” They imagined, therefore, that leave was given not to any one else but to themselves alone to be invested with the authority which He had granted them. For this reason they draw near, and want to learn, whether others also might exercise it, even though they had not been appointed to the apostleship, nor even to the office of teacher.
+What therefore is the meaning of his “ not walking with us,” or what is the force of the expression? Look then; for I will tell you as well as I can. The Saviour gave the holy Apo- [[Matthew 10#^10-1|Mat. x. 1]], stles authority over unclean spirits, to cast them out, and to heal all disease and all sickness among the people. And so they did; nor was the grace given them ineffectual. For they returned with joy, saying; “ Lord, even the devils are subject [[Luke 10#^10-1|Luke x. 1]]. “to us in Thy name.” They imagined, therefore, that leave was given not to any one else but to themselves alone to be invested with the authority which He had granted them. For this reason they draw near, and want to learn, whether others also might exercise it, even though they had not been appointed to the apostleship, nor even to the office of teacher.
 
 We find something like this also in the ancient sacred Serip-tures. For God once said to the hierophant Moses: ‘“ Choose Num.xi.16. “ thee seventy men of the elders of Israel, and I will take of “ the Spirit that is upon thee, and give it,” He says, “ to them.” And when those who were chosen had assembled at the former tabernacle, two men only excepted, who had remained in the camp, and the spirit of prophecy descended upon them, not only those who were assembled in the holy tabernacle prophesied, but those also who had remained in the camp. But “ Jeshua, it says, who stood before Moses, said, Eldad and “ Midad, lo! they prophesy in the camp. My lord Moses “ forbid them. And Moses said unto Jeshua, Enviest thou me? “ Would that all the Lord’s people were prophets, the Lord “ putting His Spirit upon them.” But it was Christ Who at that time made the hierophant Moses thus speak by the Holy Ghost: and here also in person \[He saith to the holy Apostles ; “ Forbid not him who is crushiug Satan,” that is, in His name, Kk
 
@@ -522,9 +522,9 @@ Jer. xxiii.
 
 21\.
 
-Mat. vii. 15.
+[[Matthew 07#^7-15|Mat. vii. 15]].
 
-Mat. vii. 20.
+[[Matthew 07#^7-20|Mat. vii. 20]].
 
 “for he is not against you,\* He says; for he who is not “against you is on your part.” For on the part of us who love Christ, are all who wish to act to His glory, and are crowned by His grace. And this is a law to the churches continuing even to this day. For we honour only those who lift up holy hands, and purely and without fault or blame, in Christ’s name, rebuke unclean spirits. and deliver multitudes from various diseases: for we know that it is Christ Who worketh in them.
 
@@ -590,9 +590,9 @@ See here, I pray, how great is the difference between us and God: for the distan
 
 *[p. 256]* ^pg280
 
-Mat. x. 24.
+[[Matthew 10#^10-24|Mat. x. 24]].
 
-1 Pet. ii. 23.
+[[1 Peter 02#^2-23|1 Pet. ii. 23]].
 
 Job, xxxiv.
 

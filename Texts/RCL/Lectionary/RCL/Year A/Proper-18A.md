@@ -11,6 +11,7 @@ second_reading: "Romans 13:8-14"
 gospel: "Matthew 18:15-20"
 first_reading_complementary: "Ezekiel 33:7-11"
 psalm_complementary: "Psalm 119:33-40"
+psalm_bcp_complementary: "Psalm 119:33-40"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-18]]"
 cssclasses:

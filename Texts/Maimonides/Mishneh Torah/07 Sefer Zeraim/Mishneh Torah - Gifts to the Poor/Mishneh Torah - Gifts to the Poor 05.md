@@ -110,7 +110,7 @@ When does the above apply? When he did not begin [harvesting its fruit].[^68] If
 [^3]: This addition is made on the basis of the gloss of the *Kessef Mishneh*. The Radbaz offers an alternate explanation.
 [^4]: I.e., the owner forgot it before the workers did.
 [^5]: But if one was conscious of it at the outset, it is not *shichichah* even if it was forgotten afterwards. The rationale is that the owner retains possession of it, because it was located in his field with his knowledge. Hence, to release it from his possession, he would have to consciously absolve himself from ownership. Forgetting it is not sufficient.
-[^6]: [[Bava Metzia 11#11a|*Bava Metzia* 11a]] derives this from the exegesis of the verse cited above. The *Kessef Mishneh* explains that since the owner is not near his field, his field cannot acquire it on his behalf.
+[^6]: *Bava Metzia* [[Bava Metzia 11#11a|11a]] derives this from the exegesis of the verse cited above. The *Kessef Mishneh* explains that since the owner is not near his field, his field cannot acquire it on his behalf.
 [^7]: I.e., they blocked him from seeing it and in that way caused him to forget it.
 [^8]: If, however, he also forgets the straw, it is *shichichah*.
 [^9]: Even though he did not remove it from the field, since he picked it up with the intent of taking it to the city, he acquires it.
@@ -178,5 +178,5 @@ When does the above apply? When he did not begin [harvesting its fruit].[^68] If
     The Ra'avad protests, stating that the importance of olive trees was mentioned by Rabbi Yossi and the other Sages did not accept his opinion. The *Kessef Mishneh* explains that the Rambam is not following Rabbi Yossi's view, but merely borrowing his rationale to deal with another issue.
 [^67]: Or from the ladder on which he ascends.
 [^68]: According to this explanation, all of the above clauses have to be reinterpreted to mean that he was harvesting fruit on the surrounding vines or trees. The *Kessef Mishneh* mentions a view that maintains that there is a printing error and the text should read: "When does the above apply? When he began [harvesting its fruit]. If, however, he did not begin harvesting its fruit...." According to that version, the Rambam's words can be understood with more ease.
-[^69]: I.e., these obligations apply only with regard to a field that one owns and not one that he acquires after the crops have already grown. Nevertheless, an exception is made in this instance, for as the Rambam explains, there is no reason to free his owner of responsibility. The commentaries note that the Rambam cites a different prooftext than Rashi ([[Niddah 51#51a|*Niddah* 51a]]) and other traditional sources.
+[^69]: I.e., these obligations apply only with regard to a field that one owns and not one that he acquires after the crops have already grown. Nevertheless, an exception is made in this instance, for as the Rambam explains, there is no reason to free his owner of responsibility. The commentaries note that the Rambam cites a different prooftext than Rashi (*Niddah* [[Niddah 51#51a|51a]]) and other traditional sources.
 [^70]: See *Hilchot Terumot* 2:9, 11-12.

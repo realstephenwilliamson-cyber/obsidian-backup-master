@@ -137,16 +137,16 @@ If he received [blood from a sacrifice] with his right hand and his left hand is
 [^10]: See Halachah 5.
 [^11]: The *Kessef Mishneh* explains that this requirement is derived from the obligation to sanctify one's hands and feet if one diverts attention, for it is likely that while sleeping, one did divert his attention.
 [^12]: See Halachah 5 with regard to defecation.
-[^13]: There is an unresolved question concerning this point in [[Zevachim 20#20b|*Zevachim* 20b]]. Hence, the Rambam rules leniently (*Kessef Mishneh*).
+[^13]: There is an unresolved question concerning this point in *Zevachim* [[Zevachim 20#20b|20b]]. Hence, the Rambam rules leniently (*Kessef Mishneh*).
 [^14]: In the other three instances mentioned above, if he serves without sanctifying his hands and feet, his service is invalid (*Kessef Mishneh*).
 [^15]: There is a difference of opinion among the commentaries if a ritually pure person who enters the Temple Courtyard without intending to perform service is obligated to immerse himself or not.
 [^16]: See the conclusion of Halachah 6.
 [^17]: Even if he actually remained outside for a short time.
-[^18]: There is an unresolved question concerning this point in [[Zevachim 20#20b|*Zevachim* 20b]]. Hence, the Rambam rules leniently (*Kessef Mishneh*).
+[^18]: There is an unresolved question concerning this point in *Zevachim* [[Zevachim 20#20b|20b]]. Hence, the Rambam rules leniently (*Kessef Mishneh*).
 [^19]: This refers, not to ritual impurity prescribed by Scriptural Law, but instead, to certain states of ritual impurity ordained by our Sages that affect the hands alone. See *Hilchot Sha'ar Avot HaTumah*, ch. 8.
 [^20]: See *Hilchot Sha'ar Avot HaTumah* 9:9.
 [^21]: See *Hilchot Avodat Yom HaKippurim* 2:2 for a description of these changes of clothing, immersions, and sanctifications.
-[^22]: He does, however, violate a positive commandment, because he does not perform the Yom Kippur service as prescribed ([[Yoma 30#30b|*Yoma* 30b]]).
+[^22]: He does, however, violate a positive commandment, because he does not perform the Yom Kippur service as prescribed (*Yoma* [[Yoma 30#30b|30b]]).
 [^23]: They are obligations of the High Priest (Aaron), but not an ordinary priest (his sons).
 [^24]: I.e., he was continually involved in the Temple service.
 [^25]: At daybreak.
@@ -154,13 +154,13 @@ If he received [blood from a sacrifice] with his right hand and his left hand is
 [^27]: Halachically, depending on the different opinions, dawn is between 72 minutes and two hours before sunrise. Sunrise is the time when the priest should sanctify his hands. Nevertheless, in this instance, he has no alternative, since he is sanctifying them for that day's service and that service is performed before dawn.
 [^28]: See the description of this utensil in the conclusion of ch. 4 of *Hilchot Beit HaBechirah*.
 [^29]: I.e., one that is not consecrated.
-[^30]: The sanctification must be performed within the Temple Courtyard, for that is where the basin is located. Even though the sanctification need not be performed with water from the basin, it must be performed in the area where it is located ([[Zevachim 22#22a|*Zevachim* 22a]]).
+[^30]: The sanctification must be performed within the Temple Courtyard, for that is where the basin is located. Even though the sanctification need not be performed with water from the basin, it must be performed in the area where it is located (*Zevachim* [[Zevachim 22#22a|22a]]).
 [^31]: There were several *mikvaot* on the Temple Mount.
 [^32]: 86 cc. according to *Shiurei Torah*; 150 cc. according to *Chazon Ish*. The Ra'avad states - and the *Kessef Mishneh* explains that this is also the Rambam's intent - that if one uses a small utensil, he must take the water originally from the basin.
 [^33]: As stated in *Hilchot Mikvaot* 7:1, if the appearance of water has changed, e.g., one poured wine or juice into it and changed its color, it is not acceptable for immersion.
 [^34]: Since a cow will drink it, it is considered as water and not as earth. Compare to *ibid.* 7:3, 8:9. 11:2.
 [^35]: A *mikveh* must be 40 *se'ah* in volume.
-[^36]: [[Zevachim 21#21b|*Zevachim* 21b]] cites [[Torah 23 - Pekudei#^40-32|Exodus 40:32]] which states "And Moses, Aaron, and his sons will wash from it." "His sons" is plural indicating at least two, thus reaching a total of four. The Rambam, here and in his Commentary to the Mishnah (*Zevachim* 2) substitutes Pinchas for Moses. The *Kessef Mishneh* questions that explanation on two counts: Firstly, at the time, the basin was first used, Aaron's older sons, Nadav and Avihu, were still alive. Moreover, the priesthood had not been granted to Pinchas as of yet. Rav Yosef Corcus tries to support the Rambam's understanding, explaining that according to certain views, Moses did not serve as a priest when Aaron did, only in the seven days of preparation.
+[^36]: *Zevachim* [[Zevachim 21#21b|21b]] cites [[Torah 23 - Pekudei#^40-32|Exodus 40:32]] which states "And Moses, Aaron, and his sons will wash from it." "His sons" is plural indicating at least two, thus reaching a total of four. The Rambam, here and in his Commentary to the Mishnah (*Zevachim* 2) substitutes Pinchas for Moses. The *Kessef Mishneh* questions that explanation on two counts: Firstly, at the time, the basin was first used, Aaron's older sons, Nadav and Avihu, were still alive. Moreover, the priesthood had not been granted to Pinchas as of yet. Rav Yosef Corcus tries to support the Rambam's understanding, explaining that according to certain views, Moses did not serve as a priest when Aaron did, only in the seven days of preparation.
 [^37]: *Hilchot Beit HaBechirah* 3:18.
 [^38]: In his Commentary to the Mishnah (*Tamid* 1:4), the Rambam explains that each night the basin would be submerged in a *muchani*, a large container which held a reservoir of water. This container was not a sacred utensil and hence the water it contained was not disqualified overnight. See *Hilchot Beit HaBechirah, loc. cit.*, for a description of this container.
 [^39]: See [[I Kings 07#^7-23|I Kings 7:23-26]]. This was a circular copper tank, ten cubits in diameter and five cubits deep.
@@ -173,7 +173,7 @@ If he received [blood from a sacrifice] with his right hand and his left hand is
 [^45]: As explained in *Hilchot Mikvaot*, ch. 2, no significant substance may intervene between the flesh of the person immersing and the waters of the *mikveh*. That chapter details those substances that are considered as significant and hence, as intervening, and those which are not.
 [^46]: In the Rambam's Commentary to the Mishnah (*Zevachim, loc. cit.*), he offers another rationale: that one is not allowed to sit in the Temple.
 [^47]: And lashes are given only when a negative commandment is violated.
-[^48]: [[Zevachim 24#24a|*Zevachim* 24a]] relates that since both the Temple utensils and the ground of the Temple Courtyard have been sanctified, an equation is established between them. Just as there can be no intervening substance between a priest's hand and a sacred utensil, so too, there may be no intervening substance between his feet and the Temple Courtyard.
+[^48]: *Zevachim* [[Zevachim 24#24a|24a]] relates that since both the Temple utensils and the ground of the Temple Courtyard have been sanctified, an equation is established between them. Just as there can be no intervening substance between a priest's hand and a sacred utensil, so too, there may be no intervening substance between his feet and the Temple Courtyard.
 [^49]: I.e., the stones of the Temple or the Temple Courtyard.
 [^50]: This is derived from [[Torah 24 - Vayikra#^4-5|Leviticus 4:5]]: "And the priest shall take." Implied is that the taking must be performed by the priest's body without any intermediary (*Zevachim, loc. cit.*).
 [^51]: Indeed, in his Commentary to the Mishnah (*loc. cit.*), the Rambam writes that "Whenever the word "hand" is mentioned [with regard to the Temple service], the intent is the right hand."  
@@ -181,6 +181,6 @@ If he received [blood from a sacrifice] with his right hand and his left hand is
 [^52]: For there is no explicit prohibition that he violates. Instead, it is an extension of a positive commandment (*Kessef Mishneh*).
 [^53]: For then, the support provided by the second foot is not of consequence.
 [^54]: For then it is significant.
-[^55]: This is a general principle, applying in other situations as well (see [[Shabbat 93#93b|*Shabbat* 93b]]).
+[^55]: This is a general principle, applying in other situations as well (see *Shabbat* [[Shabbat 93#93b|93b]]).
 [^56]: As long as it is not fixed in the ground, the stone can be considered as a separate entity and therefore, it could be considered as an intervening substance between the priest and the earth.
-[^57]: There is an unresolved question concerning this issue in [[Zevachim 24#24a|*Zevachim* 24a]]. Hence, the Rambam does not rule stringently. See also the commentaries to *Hilchot Beit HaBechirah* 1:10.
+[^57]: There is an unresolved question concerning this issue in *Zevachim* [[Zevachim 24#24a|24a]]. Hence, the Rambam does not rule stringently. See also the commentaries to *Hilchot Beit HaBechirah* 1:10.

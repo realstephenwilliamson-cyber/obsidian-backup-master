@@ -4,7 +4,7 @@ updated: 2026-10-23
 ---
 # Page views - test harness
 
-How the four page views (`Templates/Views/talmud-page`, `torah-page`, `nt-page`, `tantraloka-page`; the notes [[Talmud page]], [[Torah page]], [[New Testament page]], [[Tantraloka page]]) were tested outside Obsidian, 22–23 Oct 2026, so that a later AI can change them without guessing. The scripts are in `AI/Prompts/Scripts/Page views/`.
+How the four page views (`Templates/Views/talmud-page`, `torah-page`, `nt-page`, `tantraloka-page`; the notes [[Talmud View]], [[Torah View]], [[New Testament View]], [[Tantraloka View]]) were tested outside Obsidian, 22–23 Oct 2026, so that a later AI can change them without guessing. The scripts are in `AI/Prompts/Scripts/Page views/`.
 
 They run in the cloud workspace with Node and `jsdom` and `js-yaml` (`npm install jsdom js-yaml`), against a copy of the vault's notes staged under `/mnt/user-data/uploads/Obsidian Vault/` (stage the notes a test needs: the page's text notes, the notes that link them, the index notes, the calendars).
 

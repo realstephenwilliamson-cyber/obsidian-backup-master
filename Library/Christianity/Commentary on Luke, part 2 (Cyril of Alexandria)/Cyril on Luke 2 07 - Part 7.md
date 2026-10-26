@@ -36,9 +36,9 @@ branch was an ordinary symbol of 4H
 
 Ps. civ. 24.
 
-John iv. 6.
+[[John 04#^4-6|John iv. 6]].
 
-Mat. xxi. 2.
+[[Matthew 21#^21-2|Mat. xxi. 2]].
 
 saying ; “ How great are thy works, O Lord: in wisdom hast “ Thou made them.” For there is nothing whatsoever of the works wrought by Him but is in wisdom; for He guideth all useful things each in its proper manner, and assigns to his acts that season which suiteth them. As long then as it was fitting that He should traverse the country of the Jews, endeavouring to win by lessons and admonitions superior to the law many unto the grace that is by faith, He ceased not so to do: but inasmuch as the time was now at length calling Him to that Passion which was for the salvation of the whole world, to free the inhabitants of the earth from the tyranny of the enemy, and abolish death, and destroy the sin of the world, He goeth up unto Jerusalem, pointing out first to the Israelites by a plain fact, that a new people from among the heathen shall be subject unto Him, while themselves are rejected as the murderers of the Lord.
 
@@ -50,7 +50,7 @@ The God of all then created man upon the earth with a mind capable of wisdom, an
 
 treme irrationality.
 
-But the colt, which as yet had not been broken in, represents the new people, called from among the heathen. For it also was by nature destitute of reason, having wandered into error. But Christ became its wisdom, “for in Him Col. ii. 3. “are all the treasures of wisdom, and the secret things of “ knowledge ©.”
+But the colt, which as yet had not been broken in, represents the new people, called from among the heathen. For it also was by nature destitute of reason, having wandered into error. But Christ became its wisdom, “for in Him [[Colossians 02#^2-3|Col. ii. 3]]. “are all the treasures of wisdom, and the secret things of “ knowledge ©.”
 
 The colt therefore is brought, two disciples having been sent by Christ for this purpose. And what does this signify ? It means that Christ calls the heathen, by causing the light of truth to shine upon them: and there minister unto him for this purpose two orders of His subjects, the prophets, namely, and the apostles. For the heathen are won unto the faith by means of the preachings of the apostles; and they always add unto their words proofs derived from the law and the prophets. For one of them even said to those who have been called by faith unto the acknowledgment of the glory of Christ,
 
@@ -60,7 +60,7 @@ e In the Greek it is ris yrooews the Syriac always renders it as if it dmréxpvp
 
 *[p. 604]* ^pg244
 
-2 Pet. i. 19.
+[[2 Peter 01#^1-19|2 Pet. i. 19]].
 
 \*¢ And we have the more sure prophetic word, unto which ye \* do well to look, as unto a torch that shineth in a dark place, until the day dawn, and the light-star arise in your hearts.”
 
@@ -110,11 +110,11 @@ thee, and keep thee in on every side; and shall dash thee GTs. ~ to the ground, 
 
 time of thy visitation.
 
-THE blessed prophet Jeremiah loudly condemned the ignorance, at once, and pride of the Jews, rebuking them in these words; “ How say ye that we are wise, and the word of the Jer. viii. 3. “ Lord is with us? In vain is the lying cord of the scribes. “ The wise men are ashamed: they trembled, and were taken: “‘ what wisdom have they, in that they have rejected the Word “of the Lord!” For being neither wise, nor acquainted with the sacred Scriptures, though the scribes and Pharisees falsely assumed to themselves the reputation of being learned in the law, they rejected the Word of God. For when the Only Begotten had become man, they did not receive Him, nor yield their neck obediently to the summons which He addressed to them by the Gospel. Because therefore by their wicked conduct they rejected the Word of God, they were themselves rejected, being condemned by God’s just decree.- For He said, by the voice of Jeremiah, “ Call them rejected Jer. vi. 30. “ silver: because the Lord hath rejected them.” And again, “ Shave thy head, and cast it away, and take lamentation Jer. vii. 29. “upon thy lips, because the Lord hath rejected and thrust “away the generation that hath done these things.” And what these things are, the God of all hath Himself declared to us, saying, “ Hear, O earth: behold! I am bringing upon Jer. vi. 19. “this people evils; the fruit of their turning away; because “they regarded not My word, and have rejected My law.” For neither did they keep the commandment that was given unto them by Moses, “teaching for doctrines the command- Mat. xv. 9.
+THE blessed prophet Jeremiah loudly condemned the ignorance, at once, and pride of the Jews, rebuking them in these words; “ How say ye that we are wise, and the word of the Jer. viii. 3. “ Lord is with us? In vain is the lying cord of the scribes. “ The wise men are ashamed: they trembled, and were taken: “‘ what wisdom have they, in that they have rejected the Word “of the Lord!” For being neither wise, nor acquainted with the sacred Scriptures, though the scribes and Pharisees falsely assumed to themselves the reputation of being learned in the law, they rejected the Word of God. For when the Only Begotten had become man, they did not receive Him, nor yield their neck obediently to the summons which He addressed to them by the Gospel. Because therefore by their wicked conduct they rejected the Word of God, they were themselves rejected, being condemned by God’s just decree.- For He said, by the voice of Jeremiah, “ Call them rejected Jer. vi. 30. “ silver: because the Lord hath rejected them.” And again, “ Shave thy head, and cast it away, and take lamentation Jer. vii. 29. “upon thy lips, because the Lord hath rejected and thrust “away the generation that hath done these things.” And what these things are, the God of all hath Himself declared to us, saying, “ Hear, O earth: behold! I am bringing upon Jer. vi. 19. “this people evils; the fruit of their turning away; because “they regarded not My word, and have rejected My law.” For neither did they keep the commandment that was given unto them by Moses, “teaching for doctrines the command- [[Matthew 15#^15-9|Mat. xv. 9]].
 
 *[p. 608]* ^pg248
 
-1 Tim. ii. 4.
+[[1 Timothy 02#^2-4|1 Tim. ii. 4]].
 
 Wisd. ii.23.
 
@@ -122,7 +122,7 @@ Is. xxvii. 5.
 
 (Sept.)
 
-Rom. v. 1.
+[[Romans 05#^5-1|Rom. v. 1]].
 
 ‘ments of men:” and further, they also rejected the Word of God the Father, having refused to honour by faith Christ, when He called them thereunto. The fruits therefore of their turning away were plainly the calamities which happened unto them: for they suffered all misery, as the retribution due for murdering the Lord.
 
@@ -132,9 +132,9 @@ We say therefore that He wept also over Jerusalem for a similar reason: for He d
 
 *[p. 609]* ^pg249
 
-“Would that thou hadst known, even thou, the things of thy “ peace :” the things, that is, useful and necessary for thee to make thy peace with God. And these were faith, obedience, the abandonment of types, the discontinuance of the legal service, and the choice in preference of that which is in spirit and in truth, even that which is by Christ, of a sweet savour, and admirable, and precious before God. “ For God, He says, John iv. 24. “is a Spirit: and they that worship Him must worship Him ‘in spirit and in truth.”
+“Would that thou hadst known, even thou, the things of thy “ peace :” the things, that is, useful and necessary for thee to make thy peace with God. And these were faith, obedience, the abandonment of types, the discontinuance of the legal service, and the choice in preference of that which is in spirit and in truth, even that which is by Christ, of a sweet savour, and admirable, and precious before God. “ For God, He says, [[John 04#^4-24|John iv. 24]]. “is a Spirit: and they that worship Him must worship Him ‘in spirit and in truth.”
 
-“ But they are hid, He says, from thy eyes.” For they were not worthy to know, or rather to understand, the Scriptures inspired of God, and which speak of the mystery of Christ. For Paul said, “Seeing then that we have so great a <sup>2</sup>Cor. iii, “ hope, we use great freedom of speech: and not as Moses, who ‘\* “ put a veil over his face, that the children of Israel might not “behold the glory of his countenance, which was being done “away. But their minds were blinded; for even to this day ‘“« the same veil remaineth upon the reading of the old cove- “nant: for when Moses is read, the veil is laid upon their “hearts, and is not taken off, because it is done away in “ Christ.” But in what way is the veil done away in Christ? It is because He, as being the reality, makes the shadow cease: for that it is His mystery which is represented by the shadow of the law, He assures us, saying unto the Jews, “ Had ye believed Moses, ye would have believed also Me : John v. 46. “for he wrote of Me.” For it was because they had not carefully examined the types of the law, that they did not sce the truth. “ For callousnesse in part hath happened unto Rom.xi.25. “ Tsrael,’’ as Paul, who was really learned in the law, tells us. But callousness is the certain cause of ignorance and darkness: for so Christ once spake; “It is not any thing that goeth into Mat.xv.r1. “the mouth which defileth the man.’ And even then the Pharisees again reproached Him, for so speaking, with the breaking of the law, and overthrowing of the commandment
+“ But they are hid, He says, from thy eyes.” For they were not worthy to know, or rather to understand, the Scriptures inspired of God, and which speak of the mystery of Christ. For Paul said, “Seeing then that we have so great a <sup>2</sup>Cor. iii, “ hope, we use great freedom of speech: and not as Moses, who ‘\* “ put a veil over his face, that the children of Israel might not “behold the glory of his countenance, which was being done “away. But their minds were blinded; for even to this day ‘“« the same veil remaineth upon the reading of the old cove- “nant: for when Moses is read, the veil is laid upon their “hearts, and is not taken off, because it is done away in “ Christ.” But in what way is the veil done away in Christ? It is because He, as being the reality, makes the shadow cease: for that it is His mystery which is represented by the shadow of the law, He assures us, saying unto the Jews, “ Had ye believed Moses, ye would have believed also Me : [[John 05#^5-46|John v. 46]]. “for he wrote of Me.” For it was because they had not carefully examined the types of the law, that they did not sce the truth. “ For callousnesse in part hath happened unto [[Romans 11#^11-25|Rom.xi.25]]. “ Tsrael,’’ as Paul, who was really learned in the law, tells us. But callousness is the certain cause of ignorance and darkness: for so Christ once spake; “It is not any thing that goeth into Mat.xv.r1. “the mouth which defileth the man.’ And even then the Pharisees again reproached Him, for so speaking, with the breaking of the law, and overthrowing of the commandment
 
 & The Greek mdpwors properly for a dry skin upon the eye. I have signifies “callousness,” and thence therefore always translated it by the blindness caused by cataract,a blindness, except in this place, callous mass growing over the eye: » where evidently S. Cyril uses it in and |Zo;.c\\ hasin Syriac asimi- the general sense of “hardness,” lar meaning, |;o\\ being the name “‘ obduracy.”
 
@@ -186,11 +186,11 @@ SERMON CXXNII.
 
 And having entered into the temple, He beg yan to cast out ©. xix. 43them that sold therein, saying unto them, It is written that eh aa My house is a house of prayer: but ye have made it a den ond be ging of thieves. And he taught daily in the temple: but the ayopdcoychief priests and scribes and rulers of the people sought to 7" Oe Is destroy Him; and found not what they might do unto om. 3n Gs. Him, for all the people were hanging upon Him to hear lal Him. And it came to pass on one of the days, as He aid. airs taught the people in the temple, and preached, the chief Srosew abe priests and scribes, with the elders, rose up against Him, Tov S. add. éxetvaw and said unto Him, Tell us by what authority Thou doest Gs. these things? or who it is that gave Thee this authority? °™¢ yor. But He answered and said unto them, \[ also will ask you one word, and tell Me: the baptism of John, was it from om.évaBT. heaven, or of men? And they considered with themselves, saying, That if we shall say, From heaven; He will say, Why therefore did ye not believe him? But if we say, Of om. oi BT. men; all the people will stone us: for they are persuaded that John is a prophet. And they answered, that they knew not whence it was. And Jesus said unto them, Net-ther tell I you by what authority I do these things.
 
-IT is written, that “there is a light always for the right- Prov.siiig. “ eous; but the light of the wicked shall be put out.” For to those who have embraced the righteousness that is in Christ, God the Father imparts the inextinguishable light of the true knowledge of the true vision of God: for He revealeth unto them the Son; as the Saviour Himself also in a certain place said unto the Jews, “‘ Murmur not one with another: no man John vi. 43. “can come unto Me, except the Father Who sent Me draw “him.” But He draws, of course, by light and knowledge, and the cords of love. But those who are not so aipoedl in will, but wickedly reject Christ's commandments, from their mind even that light, which they had by the commandment of Moses, vanishes away, and is extinguished, while the darkness of ignorance usurps its place.
+IT is written, that “there is a light always for the right- Prov.siiig. “ eous; but the light of the wicked shall be put out.” For to those who have embraced the righteousness that is in Christ, God the Father imparts the inextinguishable light of the true knowledge of the true vision of God: for He revealeth unto them the Son; as the Saviour Himself also in a certain place said unto the Jews, “‘ Murmur not one with another: no man [[John 06#^6-43|John vi. 43]]. “can come unto Me, except the Father Who sent Me draw “him.” But He draws, of course, by light and knowledge, and the cords of love. But those who are not so aipoedl in will, but wickedly reject Christ's commandments, from their mind even that light, which they had by the commandment of Moses, vanishes away, and is extinguished, while the darkness of ignorance usurps its place.
 
 *[p. 614]* ^pg254
 
-John ii. 15.
+[[John 02#^2-15|John ii. 15]].
 
 And that this is true, and the real state of the case, the blindness of the Jews proves to us. For they were dark, and unable to see the glory of the Word, Who became man for our sakes, although He revealed Himself to them by the working of many miracles, and a godlike authority, an instance of which we have in what happened in the temple. For there was in it a multitude of merchants, and others also, guilty of the charge of the base love of lucre, moneychangers, I mean, or keepers of exchange tables ; sellers of oxen, moreover, and dealers in sheep, and sellers of turtle doves and pigeons; all which things were used for the sacrifices according to the legal ritual. But the time had now come for the shadow to draw to an end, and for the truth, so to speak, to shine forth; even the lovely beauty of Christian conduct, and the glories of the blameless life, and the sweet rational savour of the worship in spirit and in truth.
 
@@ -202,7 +202,7 @@ k In Mai this passage from A. “and doves, as John has mention-and B., which ha
 
 *[p. 615]* ^pg255
 
-all, and Lord, manifests unto them His glory for their benefit, in order that they may believe in Him. For as one Who possessed authority over the temple, He both took care of it, and also called God His Father. For as that other holy Evangelist wrote, He said to the dealers, “ Make not My John ii. 16. \*\* Father’s house a house of merchandize.” And again, “ It Markxi.17. “is written, that My house shall be called a house of prayer: “ but ye have made it a den of thieves.” It was their duty therefore, I say their duty, rather to worship Him, as One who with God the Father was Lord of the temple. But this in their great folly they did not do: but rather being savagely eager for hatred, they both set up against Him the sharp sting of wickedness, and hastened unto murder, the neighbour and brother of envy. For “they sought, it says, to destroy “ Him, but could not: for all the people were hanging upon “ Him to hear Him.” And does not this then make the punishment of the scribes and pharisees, and all the rulers of the Jewish ranks, more heavy? that the whole people, consisting of unlearned persons, hung upon the sacred doctrines, and drank in the saving word as the rain, and were ready to bring forth also the fruits of faith, and place their neck under His commandments: but they whose office it was to urge on their people to this very thing, savagely rebelled, and wickedly sought the opportunity for murder, and with unbridled violence ran upon the rocks, not accepting the faith, and wick-
+all, and Lord, manifests unto them His glory for their benefit, in order that they may believe in Him. For as one Who possessed authority over the temple, He both took care of it, and also called God His Father. For as that other holy Evangelist wrote, He said to the dealers, “ Make not My [[John 02#^2-16|John ii. 16]]. \*\* Father’s house a house of merchandize.” And again, “ It Markxi.17. “is written, that My house shall be called a house of prayer: “ but ye have made it a den of thieves.” It was their duty therefore, I say their duty, rather to worship Him, as One who with God the Father was Lord of the temple. But this in their great folly they did not do: but rather being savagely eager for hatred, they both set up against Him the sharp sting of wickedness, and hastened unto murder, the neighbour and brother of envy. For “they sought, it says, to destroy “ Him, but could not: for all the people were hanging upon “ Him to hear Him.” And does not this then make the punishment of the scribes and pharisees, and all the rulers of the Jewish ranks, more heavy? that the whole people, consisting of unlearned persons, hung upon the sacred doctrines, and drank in the saving word as the rain, and were ready to bring forth also the fruits of faith, and place their neck under His commandments: but they whose office it was to urge on their people to this very thing, savagely rebelled, and wickedly sought the opportunity for murder, and with unbridled violence ran upon the rocks, not accepting the faith, and wick-
 
 edly hindering others also.
 
@@ -214,7 +214,7 @@ And how is not what I have said true? For the Saviour Himself reproached them, s
 
 Ps. cx. 4.
 
-Heb. vii.7.
+[[Hebrews 07#^7-7|Heb. vii.7]].
 
 Heb. viii.t.
 
@@ -222,7 +222,7 @@ Ps. xxxvi.
 
 8\.
 
-John iv.24.
+[[John 04#^4-24|John iv.24]].
 
 Amos v.21.
 
@@ -294,7 +294,7 @@ the prophets.
 
 Why therefore dost thou murmur, O Pharisee, at seeing the divinely inspired Scripture fulfilled, and those things which had been spoken of old by the holy prophets attaining also their fulfilment ? ;
 
-When then they asked, “ By what authority doest Thou “ these things?” the Saviour replied, “I also will ask you one « word, and tell Me: the baptism of John, was it from heaven “or of men? And they, it says, considered with themselves, “ saying, that if we shall say, From heaven, He will say, Why “ therefore did ye not believe hiin? but if we say, Of men, all “ the people will stone us: for they are persuaded that John “jis a prophet. And they answered, that they knew not “ whence it was. And Jesus said unto them, Neither tell “T you by what authority 1 do these things.” Observe the great malice of the Pharisees: they flee from the truth; they refuse the light; they feel no horror at conunitting sin. For God the Father sent the blessed Baptist as the forerunner of Christ, crying out and saying, “ Prepare ye the way of the Ie. xl. 3. “ Lord: and make straight the pathways of our God.” Of him too the wise evangelist John wrote; “ There was a man John i. 6. “« sent from God, whose name was John. He came for a testi- “ mony to bear witness of the light: he was not the light, but “ to bear witness of the light ;” even of Christ. And he bore witness by saying, that “‘ He That sent me to baptize in water, John i. 33. “ He said unto me, that upon Whom thou seest the Spirit de- « geond from heaven, and abide upon Him, He it is That bap- ~ « tizeth with the Holy Ghost. And I saw and bore witness, “ that This is the Son of God.” The blessed Baptist therefore, as being so great and admirable, is one worthy of our acceptance to move us unto faith, and to be a witness concerning Christ. But because it was the custom of the Jews lightly to slander the saints, and to call them false speakers, and to say that they had not been sent of God, but falsely assumed a knowledge of prophecy of their own mind, Christ asked them, what opinion they entertained of the Baptist? was he one who camo from above, from God; did they honour him, that is, as one who had heen sent to baptize in accordance with the will of God? or according to their custom, did they, from human considerations and wishes, deny that he came for this purpose? And they were afraid indeed to speak the truth, lest they
+When then they asked, “ By what authority doest Thou “ these things?” the Saviour replied, “I also will ask you one « word, and tell Me: the baptism of John, was it from heaven “or of men? And they, it says, considered with themselves, “ saying, that if we shall say, From heaven, He will say, Why “ therefore did ye not believe hiin? but if we say, Of men, all “ the people will stone us: for they are persuaded that John “jis a prophet. And they answered, that they knew not “ whence it was. And Jesus said unto them, Neither tell “T you by what authority 1 do these things.” Observe the great malice of the Pharisees: they flee from the truth; they refuse the light; they feel no horror at conunitting sin. For God the Father sent the blessed Baptist as the forerunner of Christ, crying out and saying, “ Prepare ye the way of the Ie. xl. 3. “ Lord: and make straight the pathways of our God.” Of him too the wise evangelist John wrote; “ There was a man [[John 01#^1-6|John i. 6]]. “« sent from God, whose name was John. He came for a testi- “ mony to bear witness of the light: he was not the light, but “ to bear witness of the light ;” even of Christ. And he bore witness by saying, that “‘ He That sent me to baptize in water, [[John 01#^1-33|John i. 33]]. “ He said unto me, that upon Whom thou seest the Spirit de- « geond from heaven, and abide upon Him, He it is That bap- ~ « tizeth with the Holy Ghost. And I saw and bore witness, “ that This is the Son of God.” The blessed Baptist therefore, as being so great and admirable, is one worthy of our acceptance to move us unto faith, and to be a witness concerning Christ. But because it was the custom of the Jews lightly to slander the saints, and to call them false speakers, and to say that they had not been sent of God, but falsely assumed a knowledge of prophecy of their own mind, Christ asked them, what opinion they entertained of the Baptist? was he one who camo from above, from God; did they honour him, that is, as one who had heen sent to baptize in accordance with the will of God? or according to their custom, did they, from human considerations and wishes, deny that he came for this purpose? And they were afraid indeed to speak the truth, lest they
 
 *[p. 622]* ^pg262
 
@@ -312,7 +312,7 @@ C. xx.g-18. And He began to speak unto the people this parable: A man add. ms s.
 
 planted a vineyard, and let it out to husbandmen, and went on a journey for a long time. And at the season he sent a servant unto the husbandmen, that they might give him of the fruit of the vineyard : but the husbandmen beat him, and sent him away empty. And again he sent to them add. abrois another servant, but they beat him also, and shamefully S. entreated him, and sent him away empty. And again he sent a third: and they wounded him also, and cast him out. Ani the lord of the vineyard said, What shall I do? Iwill send my beloved son: perhaps they will reverence re iBdvres him. But when the husbandmen saw him, they reasoned xpbs aarrtamong themselves, saying, This is the heir: come, let us eps oe kill him, that the inheritance may be ours. And they cast robs GSs. him out of the vineyard, and killed him. What therefore oy Hide shall the lord of the vineyard do unto them? He shall BT. come and destroy those husbandmen, and shell give the vineyard unto others. And when they heard it, they saicl, oi 8 axou-Heaven forbid. But He looked upon them, and said, What alias ts this then that 1s written, That the stone which the build- sr Méoy S. ers rejected has become the head of the corner ? Every one : that falleth upon this stone shall be broken: but upon 5 xlrruy S. whomsoever it shall fall, it will winnow him.
 
-CHRIST has somewhere said, ‘‘ The kingdom of heaven is Mat. xiii. « like unto a treasure hid in a field.” And there is nothing \*\* more certain than that those who love lucre, and seek for treasures, most certainly do not find them ready for them, nor placed above ground, but hidden rather and buried out of sight; and only by digging laboriously do they find them, and that with difficulty. Come therefore, and let us seek after the knowledge of the lessons of the Gospel as for some treasure ; let us search deep into the thoughts therein contained : for so shall we find what we seek by Christ revealing this also unto us: “for in Him are all the treasures of wisdom, and the Col. ii. 3.
+CHRIST has somewhere said, ‘‘ The kingdom of heaven is Mat. xiii. « like unto a treasure hid in a field.” And there is nothing \*\* more certain than that those who love lucre, and seek for treasures, most certainly do not find them ready for them, nor placed above ground, but hidden rather and buried out of sight; and only by digging laboriously do they find them, and that with difficulty. Come therefore, and let us seek after the knowledge of the lessons of the Gospel as for some treasure ; let us search deep into the thoughts therein contained : for so shall we find what we seek by Christ revealing this also unto us: “for in Him are all the treasures of wisdom, and the [[Colossians 02#^2-3|Col. ii. 3]].
 
 *[p. 624]* ^pg264
 
@@ -356,7 +356,7 @@ n That is, a dominion which be- \_ peatedly it will be noticed how con-longs to 
 
 *[p. 628]* ^pg268
 
-Eph. ii. 13.
+[[Ephesians 02#^2-13|Eph. ii. 13]].
 
 Pg. exviii.
 
@@ -541,7 +541,7 @@ John xvii.
 
 3\.
 
-Rom. x. 4.
+[[Romans 10#^10-4|Rom. x. 4]].
 
 SERMON CXXNXVII.
 

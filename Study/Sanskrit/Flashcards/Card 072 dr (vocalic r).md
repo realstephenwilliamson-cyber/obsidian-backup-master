@@ -20,17 +20,14 @@ nyasa: "da: left foot (*pāda*) · ṛ: right nostril (*nāsā*)"
 ## Front
 
 - **Glyph:** दृ
-- **Variation:** —
 - **Example:** दृट
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** As in ‘dṛṭa’ (respected)
-- **Class (as printed):** short syllable
-- **root:** ‘to respect/honor’
-- **Grid:** a row of vowel signs (◌ृ ◌ॄ) above the five rows of stops + य र ल व; in bold: ◌ृ, द
-- **Example:** dṛṭa (respected)
+> [!note]- Back
+> - **Pronunciation:** As in ‘dṛṭa’ (respected)
+> - **root:** ‘to respect/honor’
+> - **Class:** short syllable
+> - <u>ृ</u> ॄ / क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ <u>द</u> ध न / प फ ब भ म / य र ल व
+> - **Example:** dṛṭa (respected)
 
 ## Register
 

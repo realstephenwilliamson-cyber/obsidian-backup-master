@@ -82,7 +82,7 @@ The entire mixture was ground very thin. A fourth of a *kab*[^7] of the salt of 
 
 [^1]: As the Radbaz states, the Rambam does not consider the preparation of the incense offering as a separate mitzvah. Indeed, in his Sefer HaMitzvos, General Principle 10, he explains that preparing the incense offering should not be considered as a separate mitzvah, for until it is actually offered it is an incomplete act. The mitzvah of bringing the incense offering is mentioned in *Hilchot Temidim UMusafim* 3:1.
 [^2]: The Rambam defines the terms mentioned here in Halachah 4.
-[^3]: I.e., through the principles of Biblical exegesis, our Sages ([[Keritot 8#8b|*Keritot* 8b]]) derived that the incense offering contained this number of spices.
+[^3]: I.e., through the principles of Biblical exegesis, our Sages (*Keritot* [[Keritot 8#8b|8b]]) derived that the incense offering contained this number of spices.
 [^4]: Although a measure of volume was mentioned for Salt of Sodom (see the following halachah), a measure of weight was not.
 [^5]: Amber is the fossilized resin from ancient forests. The resin becomes buried and fossilized through a natural polymerization of the original organic compounds. Heating amber will soften it and eventually it will burn, producing a pleasant fragrance. Others identify *kipat hayardein* with roses. Living Torah refers to it as cycla men, an attractive flower that grows in the Mediterranean region.
 [^6]: A *dinar* is 76.8 grams (81.6 grams according to a more stringent view) in modern measure.
@@ -103,15 +103,15 @@ The entire mixture was ground very thin. A fourth of a *kab*[^7] of the salt of 
 [^21]: Jordanian amber.
 [^22]: This cleanses it thoroughly and improves its appearance.
 [^23]: Alternatively, wine from Cyprus.
-[^24]: For the chanting improves the spices ([[Keritot 6#6b|*Keritot* 6b]]).
-[^25]: [[Keritot 6#6b|*Keritot* 6b]] derives this concept from the description of the anointment oil in [[Torah 21 - Ki Tisa#^30-32|Exodus 30:32]]: "It is holy; it shall be holy for you." The repetition of the term "holy" implies that all of the activity to prepare it must be performed with entities that are consecrated. An equation is established between that oil and the incense offering.
+[^24]: For the chanting improves the spices (*Keritot* [[Keritot 6#6b|6b]]).
+[^25]: *Keritot* [[Keritot 6#6b|6b]] derives this concept from the description of the anointment oil in [[Torah 21 - Ki Tisa#^30-32|Exodus 30:32]]: "It is holy; it shall be holy for you." The repetition of the term "holy" implies that all of the activity to prepare it must be performed with entities that are consecrated. An equation is established between that oil and the incense offering.
 [^26]: To grind it again, lest it have solidified.
 [^27]: Although this would greatly improve its fragrance, there is an explicit Biblical prohibition ([[Torah 24 - Vayikra#^2-11|Leviticus 2:11]]; *Hilchot Issurei Mizbeiach* 5:2) against burning any such incense.
 [^28]: *Sefer HaMitzvot* (negative commandment 85) and *Sefer HaChinuch* (mitzvah 110) consider the prohibition against preparing incense for its fragrance as one of the Torah's 613 commandments.
 [^29]: This is speaking about a person who smells the fragrance of the communal incense offering. A person who smells the incense of a private individual who copied the formula of the incense offering is not liable.  
     See *Hilchot Meilah* 1:2 for the details of one's liability. See also *ibid.* 5:16 which states that this applies only when the column of smoke from the incense is rising. Once it has already risen, the prohibition no longer applies.
 [^30]: But not to the community as a whole.  
-    The Radbaz quotes Rashi ([[Keritot 6#6a|*Keritot* 6a]]) which states that one is liable for death at the hand of heaven for bringing such an incense offering. (The death of Aaron's sons, Nadav and Avihu, are cited as proof for this thesis.)
+    The Radbaz quotes Rashi (*Keritot* [[Keritot 6#6a|6a]]) which states that one is liable for death at the hand of heaven for bringing such an incense offering. (The death of Aaron's sons, Nadav and Avihu, are cited as proof for this thesis.)
 [^31]: The blood of certain sacrifices is, however, sprinkled on it, as stated in *Hilchot Ma'aseh HaKorbanot* 5:13; *Hilchot Avodat Yom HaKippurim* 4:2.
 [^32]: *Sefer HaMitzvot* (negative commandment 82) and *Sefer HaChinuch* (mitzvah 104) consider the prohibition against making such offerings on this altar as one of the Torah's 613 commandments.
 [^33]: *Sefer HaMitzvot* (positive commandment 34) and *Sefer HaChinuch* (mitzvah 379) consider this mitzvah as one of the Torah's 613 commandments.  

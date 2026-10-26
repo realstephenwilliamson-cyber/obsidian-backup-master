@@ -108,7 +108,7 @@ Why does he have the right to retract before it was acquired? Because this is an
 [^6]: He must state his retraction verbally. It is not sufficient for him to have this intent in his heart [*Shulchan Aruch* (*Yoreh De'ah* 210:3)].
 [^7]: See *Hilchot Sh'vuot* 2:17-18. As mentioned there, the term "immediately thereafter" has a specific halachic definition: the time it takes a student to tell his teacher: *Shalom Elecha Rabbi*. Since he retracts in this short time, it is considered as if the vow was never made.
 [^8]: For [[Torah 42 - Matot#^30-3|Numbers 30:3]] associates the two together (*Kessef Mishneh*). See *Shulchan Aruch* (*Yoreh De'ah* 239:1).
-[^9]: For by taking the vow, he is indicating that he no longer desires to uphold the stipulation (see [[Nedarim 23#23b|*Nedarim* 23b]]).
+[^9]: For by taking the vow, he is indicating that he no longer desires to uphold the stipulation (see *Nedarim* [[Nedarim 23#23b|23b]]).
 [^10]: *Kiryat Sefer* explains this ruling as follows: Although [[Torah 42 - Matot#^30-3|Numbers 30:3]] states: "He shall not desecrate his word," that applies only to a vow that has taken effect. In this instance, since he forgot his stipulation, it is as if he took the vow in error and it never took effect.
 [^11]: Our translation and bracketed additions are made on the basis of the gloss of the Radbaz.
 [^12]: Otherwise, according to that view, the vow takes effect and the fact that he remembers the stipulation afterwards is not significant. The *Shulchan Aruch* (*Yoreh De'ah* 211:2) mentions the Rambam's view, but also that of the other authority and states that we should give weight to that authority's view. The Ra'avad also differs with the Rambam and offers another interpretation, stating that the nullification is only effective when he willingly accepts the stipulation immediately after remembering it.  
@@ -120,7 +120,7 @@ Why does he have the right to retract before it was acquired? Because this is an
 [^17]: For oaths have a more severe dimension, since God's name must be invoked. (See *Hilchot Sh'vuot* 12:2.) The Jerusalem Talmud (*Nedarim* 3:1) would appear to support this approach.
 [^18]: The Radbaz maintains that the Rambam follows this view as evidenced by the fact that he does not include this in the list of matters in which oaths differ from vows (Chapter 3, Halachah 1). The text for the nullification of vows rite recited on the day preceding Rosh HaShanah and the *Kol Nidrei* prayer mention oaths as well as vows.  
     The *Shulchan Aruch* (*Yoreh De'ah* 211:4) adds that the nullification of vows in this manner is possible only when one takes a vow on his own initiative, but not when he agrees to a vow proposed by a colleague, for the colleague does not have that person's original stipulation in mind. Thus by agreeing to his colleague's statement, he implies that he is not concerned with his original stipulation.
-[^19]: I.e., he does not know with regard to which prohibition he associated his vow (Rashi, [[Nedarim 18#18b|*Nedarim* 18b]]).
+[^19]: I.e., he does not know with regard to which prohibition he associated his vow (Rashi, *Nedarim* [[Nedarim 18#18b|18b]]).
 [^20]: We say that he associated the vow with an object that causes entities to be forbidden (*ibid.*). The rationale is that if this was not his intent, he should have remained silent (Radbaz). See also Chapter 9, Halachah 4.
 [^21]: For it was necessary to salt all the sacrifices ([[Torah 24 - Vayikra#^2-13|Leviticus 2:13]] .
 [^22]: For when one equates produce with a sacrifice the vow is binding (Chapter 1, Halachot 7, 9).
@@ -129,11 +129,11 @@ Why does he have the right to retract before it was acquired? Because this is an
 [^25]: For in such an instance, the articles dedicated to the upkeep of the Temple become consecrated and forbidden for ordinary use until they are redeemed.
 [^26]: Hence an entity that is made equivalent to them is likewise not forbidden.
 [^27]: Chapter 1, Halachah 13.
-[^28]: For the tithe taken from grain is not forbidden to be eaten by ordinary people. Moreover, even according to the opinion of Rabbi Meir who rules that ordinary people may not partake of these tithes, they are not forbidden due to a vow. Instead, it was forbidden to partake of the grain before they were separated and once, they were separated, they remain forbidden (Ritba, [[Nedarim 18#18b|*Nedarim* 18b]]).
+[^28]: For the tithe taken from grain is not forbidden to be eaten by ordinary people. Moreover, even according to the opinion of Rabbi Meir who rules that ordinary people may not partake of these tithes, they are not forbidden due to a vow. Instead, it was forbidden to partake of the grain before they were separated and once, they were separated, they remain forbidden (Ritba, *Nedarim* [[Nedarim 18#18b|18b]]).
 [^29]: *Terumat halishkah* in Hebrew. See *Hilchot Shekalim*, ch. 2, which describes how these funds were collected and used.
 [^30]: See Chapter 1, Halachah 11.
 [^31]: That we explore the person's intention.
-[^32]: [[Nedarim 18#18b|*Nedarim* 18b]] explains that in the Galilee, it was not common for priests to live. Hence, when a person uses the term *cherem* there, his intent is a dedication offering for the upkeep of the Temple.
+[^32]: *Nedarim* [[Nedarim 18#18b|18b]] explains that in the Galilee, it was not common for priests to live. Hence, when a person uses the term *cherem* there, his intent is a dedication offering for the upkeep of the Temple.
 [^33]: For we assume that his intent was a dedication offering to the Temple, even if he says that his intent was an offering to the priests.
 [^34]: See Chapter 9, Halachah 1.
 [^35]: I.e., a situation where the basis for the vow is a permitted entity and hence, the vow does not take effect.
@@ -149,7 +149,7 @@ Why does he have the right to retract before it was acquired? Because this is an
 [^45]: This implies that he does not have the potential to retract merely by making a statement (Radbaz, *Ketzot HaChoshen* 273:1). According to Rabbinic decree, the laws are more stringent with regard to landed property, but this is law in all other instances.  
     *Ketzot HaChoshen* discusses whether declaring an object ownerless is merely a retraction of one's own ownership over or does it involve transferring ownership to the person who will ultimately acquire it.  
     The Jerusalem Talmud (*Pe'ah* 6:1) explains that the declaration of property as ownerless is derived from the laws of the Sabbatical Year. In the Sabbatical year, this is done by Divine decree and here, by contrast, man declares the property ownerless.
-[^46]: Both the rich and the poor ([[Nedarim 7#7a|*Nedarim* 7a]]). See the following halachah.
+[^46]: Both the rich and the poor (*Nedarim* [[Nedarim 7#7a|7a]]). See the following halachah.
 [^47]: Through a formal act of acquisition (*kinyan*) as stated in *Hilchot Zechiyah UMatanah* 2:1. See Halachah 19.
 [^48]: I.e., it is not like consecrated property for him (Radbaz).  
     See *Hilchot Matanot Aniyim* 5:27 which states that in this way, a person frees himself from the obligation to tithe the crops of his field.
@@ -159,7 +159,7 @@ Why does he have the right to retract before it was acquired? Because this is an
 [^52]: Through a formal *kinyan*, e.g., locking a door or erecting a fence.
 [^53]: Rabbenu Asher and the Rama (*Choshen Mishpat* 273:7) states that even when one declares property ownerless without anyone else being present, the declaration is binding according to Scriptural Law.
 [^54]: See *Hilchot Terumah* 2:11; *Hilchot Matanot Aniyim* 5:27. Tithes are only required to be given from crops that one grew as one's own, not those acquired from ownerless property.
-[^55]: [[Nedarim 7#7b|*Nedarim* 7b]] raises the question, but does not resolve it. Hence, if the original owner desires to retain possession, we do not expropriate it from him (*Sefer Meirat Einayim* 273:12).
+[^55]: *Nedarim* [[Nedarim 7#7b|7b]] raises the question, but does not resolve it. Hence, if the original owner desires to retain possession, we do not expropriate it from him (*Sefer Meirat Einayim* 273:12).
 [^56]: If, however, another person acquires, it becomes that person's property. The original owner may not retract his declaration (*Kessef Mishneh*).
 [^57]: According to Scriptural Law and even according to Rabbinic Law with regard to other property, when one declares his property ownerless, the declaration takes effect from the first day and he is forbidden to retract, as stated in Halachah 14. Nevertheless, if he does retract, the retraction is binding.
 [^58]: Our Sages, however, ordained this ruling as a safeguard against people declaring their fields ownerless and then retaking possession of them and in this way, freeing themselves from the responsibility of separating the tithes (Radbaz, *Sefer Meirat Einayim* 273:13).

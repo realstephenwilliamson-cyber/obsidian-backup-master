@@ -20,18 +20,12 @@ nyasa: "none (a sign, not a letter)"
 ## Front
 
 - **Glyph:** ऽ
-- **Variation:** —
 - **Example:** सोऽहम्
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Sign above the name (no printed label):** ' (a large straight apostrophe)
-- **Pronunciation:** —
-- **Class (as printed):** —
-- **Note (no printed label):** Replaces an elided ‘a’ which began the following word. Two in a row replace an elided ‘ā’.
-- **Grid:** —
-- **Example:** so'ham (I am That)
+> [!note]- Back
+> - **Sign above the name:** ' (a large straight apostrophe)
+> - **Note:** Replaces an elided ‘a’ which began the following word. Two in a row replace an elided ‘ā’.
+> - **Example:** so'ham (I am That)
 
 ## Register
 

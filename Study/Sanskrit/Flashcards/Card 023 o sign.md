@@ -20,18 +20,13 @@ nyasa: "lower lip (*oṣṭha*), as o"
 ## Front
 
 - **Glyph:** ◌ो
-- **Variation:** —
 - **Example:** लोक
-- **Card / Alpha (front):** (not legible in full) — the scan cuts the numerals off at the right edge; the printed values in the line above are from the back
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘y<u>o</u>ke’
-- **Class (as printed):** 1,5 · long, soft · complex vowel
-- **Note (no printed label):** Abbreviation - used only after consonant · Guṇa (stronger form) of u/ū (from a+u).
-- **Grid:** the vowel signs ा ि ी ु ू / े ै ो ौ / ृ ॄ ॢ; in bold: ो
-- **Example:** loka (world)
+> [!note]- Back
+> - **Pronunciation:** As in ‘y<u>o</u>ke’
+> - **Class:** long, soft · complex vowel · Guṇa (stronger form) of u/ū (from a+u).
+> - ा ि ी ु ू / े ै <u>ो</u> ौ / ृ ॄ ॢ
+> - **Example:** loka (world)
 
 ## Register
 

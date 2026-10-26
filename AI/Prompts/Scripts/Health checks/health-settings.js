@@ -89,7 +89,7 @@
   // single notes flagged
   const one = async p => { const f = app.vault.getAbstractFileByPath(p); return f ? (await app.vault.cachedRead(f)).slice(0, 1500) : null; };
   R.notes = {};
-  for (const p of ['Journal/2026/2026-10-04.md', 'Journal/2026/2026-10-11.md', 'Catalog/Philosophy/Plato - Timaeus.md', 'Catalog/Philosophy/Hobbes - Leviathan (1651).md', 'Catalog/Biblical-Studies/NRSV Updated Edition (2021).md', 'Catalog/Trika/Rastogi - Metaphysics and Tantric Esotericism of Krama.md', 'Catalog/Sanskrit-Study/108 Sanskrit Flash Cards.md', 'Texts/Bible/Synoptic reader.md', 'Study/Concepts/Concepts.md', 'Texts/Chasidut/Chasidut.md']) R.notes[p] = await one(p);
+  for (const p of ['Journal/2026/2026-10-04.md', 'Journal/2026/2026-10-11.md', 'Catalog/Philosophy/Plato - Timaeus.md', 'Catalog/Philosophy/Hobbes - Leviathan (1651).md', 'Catalog/Biblical-Studies/NRSV Updated Edition (2021).md', 'Catalog/Trika/Rastogi - Metaphysics and Tantric Esotericism of Krama.md', 'Catalog/Sanskrit-Study/108 Sanskrit Flash Cards.md', 'Synoptic View.md', 'Study/Concepts/Concepts.md', 'Texts/Chasidut/Chasidut.md']) R.notes[p] = await one(p);
   R.goudriaanFolder = (app.vault.getAbstractFileByPath('Library/Trika/Ritual and Speculation in Early Tantrism (Goudriaan)') || { children: [] }).children.map(c => c.name);
   R.excalidraw = (app.vault.getAbstractFileByPath('Excalidraw') || { children: [] }).children.map(c => c.name);
   R.journal = (app.vault.getAbstractFileByPath('Journal') || { children: [] }).children.map(c => c.path);

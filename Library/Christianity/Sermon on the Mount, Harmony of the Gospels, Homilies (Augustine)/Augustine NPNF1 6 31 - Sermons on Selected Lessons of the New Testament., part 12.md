@@ -14,13 +14,13 @@ converted: 2026-10-15
 
 *[p. 976]* ^pg1002
 
-*On the words of the Gospel, John i. 10, ‘The world was made through him,’…*
+*On the words of the Gospel, [[John 01#^1-10|John i. 10]], ‘The world was made through him,’…*
 
 born of God, what were they? whereby were they first born? Of blood; of the joint blood of the male and female, of the carnal union of male and female, from this were they born. From whence now? They are born of God. The first birth of the male and female; the second birth of God and the Church.
 
 5\. Lo, they are born of God; whereby is it brought to pass that they should be born of God, who were first born of men? Whereby is it brought to pass, whereby? “And the Word was made Flesh, that It might dwell among us.”<sup>3635</sup> Wondrous exchange; He made Flesh, they spirit. What is this? What condescension is here, my brethren! Lift up your minds to the hope and comprehension of better things. Give not yourselves up to worldly desires. “Ye have been bought with a Price;”<sup>3636</sup> for your sakes the Word was made Flesh; for your sakes He who was the Son of God, was made the Son of man: that ye who were the sons of men, might be made sons of God. What was He, what was He made? What were ye, what were ye made? He was the Son of God. What was He made? The Son of man. Ye were the sons of men. What were ye made? The sons of God. He shared with us our evil things, to give us His good things. But even in that He was made the Son of man, He is different much from us. We are the sons of men by the lust of the flesh; He the Son of man by the faith of a virgin. The mother of any other man whatever conceives by a carnal union; and every one is born of human parents, his father and his mother. But Christ was born of the Holy Ghost, and the Virgin Mary. He came to us, but from Himself departed not far; yea from Himself as God He departed never; but added what He was to our nature. For He came to that which He was not, He did not lose what He was. He was made the Son of man; but did not cease to be the Son of God. Hereby the Mediator, in the middle. What is, “in the middle”? Neither up above, nor down below. How neither up above, nor down below? Not above, since He is Flesh; not below, since He is not a sinner. But yet in so far as He is God, above always. For He did not so come to us, as to leave the Father. From us He went, and did not leave us; to us will He come again, and will not leave Him.
 
-3635 John i. 14. 1 Cor. vi. 20.
+3635 [[John 01#^1-14|John i. 14]]. [[1 Corinthians 06#^6-20|1 Cor. vi. 20]].
 
 
 *[p. 977]* ^pg1003
@@ -29,20 +29,20 @@ born of God, what were they? whereby were they first born? Of blood; of the join
 
 Sermon LXXII.
 
-\[CXXII. Ben.\] *On the words of the Gospel, John i. 48,“When thou wast under the fig tree, I saw thee,”* *etc.*
+\[CXXII. Ben.\] *On the words of the Gospel, [[John 01#^1-48|John i. 48]],“When thou wast under the fig tree, I saw thee,”* *etc.*
 
 1\. What we have heard said by the Lord Jesus Christ to Nathanael, if we understand it aright, does not concern him only. For our Lord Jesus saw the whole human race under the fig-tree. For in this place it is understood that by the fig-tree He signified sin. Not that it always signifies this, but as I have said in this place, in that fitness of significancy, in which ye know that the first man, when he sinned, covered himself with fig leaves. For with these leaves they covered their nakedness when they blushed for their sin;<sup>3637</sup> and what God had made them for members, they made for themselves occasions of shame. For they had no need to blush for the work of God; but the cause of sin preceded shame. If iniquity had not gone before, nakedness would never have been put to the blush. For “they were naked, and were not ashamed.”<sup>3638</sup> For they had committed nothing to be ashamed for. But why have I said all this? That we may understand that by the fig-tree sin is signified. What then is, “when thou wast under the fig-tree, I saw thee”?<sup>3639</sup> When thou wast under sin, I saw thee. And Nathanael looking back upon what had occurred, remembered that he had been under a fig-tree, where Christ was not. He was not there, that is, by His Bodily Presence; but by His knowledge in the Spirit where is He not? And because he knew that he was under the fig-tree alone, where the Lord Christ was not; when He said to him, “When thou wast under the fig-tree, I saw thee;” he both acknowledged the Divinity in Him, and cried out, “Thou art the King of Israel.”<sup>3640</sup>
 
 2\. The Lord said, “Because I said unto thee, I saw thee when thou wast under the fig-tree, marvellest thou? thou shalt see greater things than these.”<sup>3641</sup> What are these greater things? And He said, “Ye shall see heaven open, and the Angels of God ascending and descending upon the Son of Man.”<sup>3642</sup> Let us call to mind the old story written in the sacred Book. I mean in Genesis.<sup>3643</sup> When Jacob slept at a certain place, he put a stone at his head; and in his sleep he saw a ladder reaching from earth even unto heaven; and the Lord was resting upon it; and Angels were ascending and descending by it. This did Jacob see. A man’s dream would not have been recorded, had not some great mystery been figured in it, had
 
-3637 Gen. iii. 7. 3638 Gen. ii. 25. 3639 John i. 48.
+3637 Gen. iii. 7. 3638 Gen. ii. 25. 3639 [[John 01#^1-48|John i. 48]].
 
-3640 John i. 49. 3641 John i. 50. 3642 John i. 51. Gen. xxviii. 11.
+3640 [[John 01#^1-49|John i. 49]]. 3641 [[John 01#^1-50|John i. 50]]. 3642 [[John 01#^1-51|John i. 51]]. Gen. xxviii. 11.
 
 
 *[p. 978]* ^pg1004
 
-*On the words of the Gospel, John i. 48,’When thou wast under the fig tree,…*
+*On the words of the Gospel, [[John 01#^1-48|John i. 48]],’When thou wast under the fig tree,…*
 
 not some great prophecy been to be understood in that vision. Accordingly, Jacob himself, because he understood what he had seen, placed a stone there, and anointed it with oil. Now ye recognise the anointing; recognise The Anointed also. For He is “the Stone which the builders rejected; He was made the Head of the corner.”<sup>3644</sup> He is the Stone of which Himself 471
 
@@ -50,25 +50,25 @@ said, “Whosoever shall stumble against This Stone shall be shaken; but on whom
 
 3\. Ye that are well instructed in the school of Christ, know that this Jacob is Israel too. They are two names; for they are one man. His first name Jacob, which is by interpretation supplanter, he received when he was born. For when those twins were born, his brother Esau was born first; and the hand of the younger was found on the elder’s foot.<sup>3649</sup> He held his brother’s foot who preceded him in his birth, and himself came after. And because of this occurrence, because he held his brother’s heel,<sup>3650</sup> he was called Jacob, that is, Supplanter. And afterwards, when he was returning from Mesopotamia, the Angel wrestled with him in the way.<sup>3651</sup> What comparison can there be between an Angel’s and a man’s strength? Therefore it is a mystery, a sacrament, a prophecy, a figure; let us therefore understand it. For consider the manner of the struggle too. While he wrestleth, Jacob prevailed against the Angel. Some high meaning is here. And when the man had prevailed against the Angel, he kept hold of Him; yes, the man kept hold of Him whom he had conquered. And said to Him, “I will not let Thee go, except Thou bless me.” <sup>3652</sup> When the conqueror was blessed
 
-3644 Ps. cxviii. 22. 3645 Matt. xxi. 44. 3646 John ix. 16. 3647 Matt. xxvii. 40. 3648 *Significavit*. 3649 Gen. xxv. 25, 26.
+3644 Ps. cxviii. 22. 3645 [[Matthew 21#^21-44|Matt. xxi. 44]]. 3646 [[John 09#^9-16|John ix. 16]]. 3647 [[Matthew 27#^27-40|Matt. xxvii. 40]]. 3648 *Significavit*. 3649 Gen. xxv. 25, 26.
 
 3650 *Plantam*. 3651 Gen. xxxii. 24. Gen. xxxii. 26.
 
 
 *[p. 979]* ^pg1005
 
-*On the words of the Gospel, John i. 48,’When thou wast under the fig tree,…*
+*On the words of the Gospel, [[John 01#^1-48|John i. 48]],’When thou wast under the fig tree,…*
 
 by the Conquered, Christ was figured. So then that Angel, who is understood to be the Lord Jesus, saith to Jacob, “Thou shalt not be any more called Jacob, but Israel shall thy name be,”<sup>3653</sup> which is by interpretation, “Seeing God.” After this He touched the sinew of his thigh, the broad part, that is, of the thigh, and it dried up; and Jacob became lame. Such was He who was conquered. So great power had this Conquered One, as to touch the thigh, and make lame. It was then with His Own will that He was conquered. For He “had power to lay down” His strength, “and He had power to take It up.”<sup>3654</sup> He is not angry at being conquered, for He is not angry at being crucified. For He even blessed him, saying, “Thou shalt not be called Jacob, but Israel.” Then the “supplanter” was made “the seer of God.” And He touched, as I have said, his thigh, and made him lame. Observe in Jacob the people of the Jews, those thousands who followed and went before the Lord’s beast, who in concert with the Apostles worshipped the Lord, and cried out, “Hosanna to the Son of David, Blessed is He that cometh in the Name of the Lord.”<sup>3655</sup> Behold Jacob blessed. He has continued lame until now in them who are at this day Jews. For the broad part of the thigh signifies the multitude of increase. Of whom the Psalm, when it prophesied that the Nations should believe, speaketh, saying, “A people whom I have not known, hath served Me; by the hearing of the ear it hath obeyed Me.”<sup>3656</sup> I was not there, and I was heard; here I was, and I was killed. “A people whom I have not known, hath served Me; by the hearing of the ear it hath obeyed Me.” Therefore, “faith cometh by hearing, and hearing by the word of Christ.”<sup>3657</sup> And it goes on, “The strange children have lied unto Me;” concerning the Jews. “The strange children have lied unto Me, the strange children have faded away and have halted from their paths.” I have pointed out Jacob to you, Jacob blessed and Jacob lame.
 
 4\. But as arising out of this occasion, this must not be passed over, which may haply of itself perplex some of you; with what design is it, that when this Jacob’s grandfather Abraham’s name was changed (for he too was first called Abram, and God changed his name, and said, “Thou shall not be called Abram, but Abraham”<sup>3658</sup>); from that time he was not called Abram. Search in the Scriptures, and you will see that before he received another name, he was called only Abram; after he received it, he was called only Abraham. But this Jacob, when he received another name, heard the same words, “Thou shalt not be called Jacob, but Israel shalt thou be called.”<sup>3659</sup> Search the Scriptures, and see how that he was
 
-3653 Gen. xxxv. 10. 3654 John x. 18. 3655 Matt. xxi. 9. 3656 Ps. xvii. 43, 44, Sept. (xviii. 43, 44, English version). 3657 Rom. x. 17. 3658 Gen. xvii. 5. Gen. xxxii. 28, xxxv. 10.
+3653 Gen. xxxv. 10. 3654 [[John 10#^10-18|John x. 18]]. 3655 [[Matthew 21#^21-9|Matt. xxi. 9]]. 3656 Ps. xvii. 43, 44, Sept. (xviii. 43, 44, English version). 3657 [[Romans 10#^10-17|Rom. x. 17]]. 3658 Gen. xvii. 5. Gen. xxxii. 28, xxxv. 10.
 
 
 *[p. 980]* ^pg1006
 
-*On the words of the Gospel, John i. 48,’When thou wast under the fig tree,…*
+*On the words of the Gospel, [[John 01#^1-48|John i. 48]],’When thou wast under the fig tree,…*
 
 always called both, both Jacob and Israel. Abram after he had received another name, was called only Abraham. Jacob after he had received another name, was called both Jacob and Israel. The name of Abraham was to be developed in this world; for here he was made the father of many nations, whence he received his name. But the name of Israel relates to an- 472
 
@@ -76,18 +76,18 @@ other world, where we shall see God. Therefore the people of God, the Christian 
 
 5\. The time will come, the end of the world will come, and all Israel shall believe; not they who now are, but their children who shall then be. For these present walking in their own ways, will go to their own place, will pass on to everlasting damnation. But when they shall have been made all one people, that shall come to pass which we sing, “I shall be satisfied when Thy glory shall be manifested.”<sup>3660</sup> When the promise which is made to us, that we “see face to face,” shall come. “Now we see through a glass darkly,” and “in part;”<sup>3661</sup> but when both people, now purified, now raised again, now crowned, now changed into an immortal form, and into everlasting incorruption, shall see God face to face, and Jacob shall be no more, but there shall be Israel only; then shall the Lord see him in the person of this holy Nathanael, and shall say, “Behold an Israelite indeed, in whom is no guile.”<sup>3662</sup> When thou dost hear, “Behold an Israelite indeed;” let Israel come into thy mind; when Israel shall come into thy mind, let his dream come into thy mind, in which he saw a ladder from earth even to heaven, the Lord standing upon it, the Angels of God ascending and descending. This dream did Jacob see. But after this he was called Israel; that is, some little time after as he came from Mesopotamia, and on his journey. If then Jacob saw the ladder, and he is also called Israel; and this Nathanael is an “Israelite indeed in whom is no guile;” therefore when he wondered because the Lord. said to him, “I saw thee under the fig-tree;”<sup>3663</sup> did He say to him, “Thou shalt see greater things than these.”<sup>3664</sup> And so He announced to him Jacob’s dream. To whom did He announce it? To him whom He called “an Israelite, in whom was
 
-3660 Ps. xvi. 15, Sept. (xvii. 15, English version). 3661 1 Cor. xiii. 12. 3662 John i. 47. 3663 John i. 48.
+3660 Ps. xvi. 15, Sept. (xvii. 15, English version). 3661 [[1 Corinthians 13#^13-12|1 Cor. xiii. 12]]. 3662 [[John 01#^1-47|John i. 47]]. 3663 [[John 01#^1-48|John i. 48]].
 
 
 *[p. 981]* ^pg1007
 
-*On the words of the Gospel, John i. 48,’When thou wast under the fig tree,…*
+*On the words of the Gospel, [[John 01#^1-48|John i. 48]],’When thou wast under the fig tree,…*
 
 no guile.” As if He had said, “His dream, by whose name I have called thee, shall be manifested in thee; make no haste to wonder, “thou shalt see greater things than these. Ye shall see heaven open, and the Angels of God ascending and descending unto the Son of Man.”<sup>3665</sup> See what Jacob saw; see why Jacob anointed the stone with oil; see why Jacob prophetically signified and prefigured the Anointed One. For that action was a prophecy.
 
 6\. Now I know what you are waiting for; I understand what you would hear from me. This too will I briefly declare, as the Lord enableth me; “ascending and descending unto the Son of Man.” How—if they descend to Him, He is here; if they ascend to Him, He is above. But if they ascend to Him, and descend toHim, He is at once above and here. It cannot any way possibly be, that they should ascend to Him, and descend to Him, unless He be both there whither they ascend, and here whither they descend—How do we prove that He is both there, and that He is here? Let Paul, who was first Saul, answer us. He found it by experience, when he was first a persecutor, and afterwards became a preacher; first Jacob, afterwards Israel; who was himself too “of the stock of Israel, of the tribe of Benjamin.”<sup>3666</sup> In him let us see Christ above, Christ below. First, the very Voice of the Lord from heaven shows this; “Saul, Saul, why persecutest thou me?”<sup>3667</sup> What! had Paul ascended into heaven? Had Paul so much as cast a stone into heaven? He was persecuting the Christians, binding them, haling them to be put to death, searching them out in every place where they lay hid, when they were found on no consideration sparing them. To whom the Lord Christ saith, “Saul, Saul.” Whence crieth He? From heaven. Therefore He is above. “Why persecutest thou Me?” Therefore He is below. Thus have I explained all, though briefly, yet as well as I could to you, Beloved. I have ministered to you according to my duty, and now for your duty, do ye think upon the poor. Let us turn to the Lord, etc.
 
-3665 John i. 51. 3666 Phil. iii. 5.
+3665 [[John 01#^1-51|John i. 51]]. 3666 [[Philippians 03#^3-5|Phil. iii. 5]].
 
 
 *[p. 982]* ^pg1008
@@ -96,18 +96,18 @@ no guile.” As if He had said, “His dream, by whose name I have called thee, 
 
 Sermon LXXIII.
 
-\[CXXIII. Ben.\] *On the words of the Gospel, John ii. 2, “and Jesus also was bidden, and his disciples, to the marriage.”*
+\[CXXIII. Ben.\] *On the words of the Gospel, [[John 02#^2-2|John ii. 2]], “and Jesus also was bidden, and his disciples, to the marriage.”*
 
 1\. Ye know, Brethren, for ye have learnt it as believing in Christ, and continually too do we by our ministry impress it upon you, that the humility of Christ is the medicine of man’s swollen pride. For man would not have perished, had he not been swollen up through pride. For “pride,” as saith the Scripture, “is the beginning of all sin.”<sup>3668</sup> Against the beginning of sin, the beginning of righteousness was necessary. If then pride be the beginning of all sin, whereby should the swelling of pride be cured, had not God vouchsafed to humble 473 Himself? Let man blush to be proud, seeing that God hath humbled Himself. For when man is told to humble himself, he disdains it; and when men are injured, it is pride that makes them wish to be avenged. Forasmuch as they disdain to humble themselves, they wish to be avenged; as if another’s punishment could be any profit to any man. One who has been hurt and suffered wrong wishes to be avenged; he seeks his own remedy from another’s punishment, and gains a great torment. The Lord Christ therefore vouchsafed to humble Himself in all things, showing us the way; if we but think meet to walk thereby.
 
 2\. Among His other acts, lo, the Virgin’s Son comes to the marriage; who being with the Father instituted marriage. As the first woman, by whom came sin, was made of a man without a woman; so the Man by whom sin was done away, was made of a woman without a man. By the first we fell, by the other we rise. And what did He at this marriage? Of water He made wine. What greater sign of power? He who had power to do such things, vouchsafed to be in need. He who made of water wine could also have of stones made bread. The power was the same; but then the devil tempted Him, therefore Christ did it not. For ye know that when the Lord Christ was tempted, the devil suggested this to Him. For He was an hungred, since this too He vouchsafed to be, since this too made part of His Humiliation. The Bread was hungry, as the Way fainted, as saving Health was wounded, as the Life died. When then He was an hungred as ye know, the tempter said to Him, “If Thou be the Son of God, command that these stones be made bread.”<sup>3669</sup> And He made answer to the tempter, teaching thee to answer the tempter. For to this end does the general fight, that the soldiers may learn. What answer did He make? “Man doth not live by bread alone, but by every word of God.”<sup>3670</sup> And He did not make bread of the stones, who of course could as easily have done it, as He made of water wine. For it is an exercise of the same power to make bread of stone; but He did it not, that He might despise the tempter’s will. For no otherwise is the
 
-3668 Ecclus. x. 13. 3669 Matt. iv. 3.
+3668 Ecclus. x. 13. 3669 [[Matthew 04#^4-3|Matt. iv. 3]].
 
 
 *[p. 983]* ^pg1009
 
-*On the words of the Gospel, John ii. 2, ‘and Jesus also was bidden, and…*
+*On the words of the Gospel, [[John 02#^2-2|John ii. 2]], ‘and Jesus also was bidden, and…*
 
 tempter overcome, but by being despised. And when He had overcome the devil’s temptation, “Angels came and ministered to Him.”<sup>3671</sup> He then who had so great power, why did He not do the one, and do the other? Read, yea, recollect what thou hast just heard, when He did this, when, that is, He made of the water wine; what did the Evangelist add? “And His disciples believed on Him.”<sup>3672</sup> Would the devil on the other occasion have believed on Him?
 
@@ -115,12 +115,12 @@ tempter overcome, but by being despised. And when He had overcome the devil’s 
 
 4\. He would not say, “ascending unto the Son of Man,” unless He were above; He would not say, “descending unto the Son of Man,” unless He were also below. He is at once above, and below; above in Himself, below in His; above with the Father, below in us. Whence also was that Voice to Saul, “Saul, Saul, why persecutest thou Me?”<sup>3674</sup> He would not say, “Saul, Saul,” unless that He was above. But Saul was not persecuting Him above. He then who was above would not have said, “Why persecutest thou me?” unless He were below also. Fear Christ above; recognise Him below. Have Christ above bestowing His bounty, recognise Him here in need. Here He is poor, there He is rich. That Christ is poor here, He tells us Himself for me, “I was an hungred, I was thirsty, I was naked, I was a stranger, I was in
 
-3671 Matt. iv. 11. 3672 John ii. 11. 3673 John i. 50, 51.
+3671 [[Matthew 04#^4-11|Matt. iv. 11]]. 3672 [[John 02#^2-11|John ii. 11]]. 3673 [[John 01#^1-50|John i. 50]], [[John 01#^1-51|51]].
 
 
 *[p. 984]* ^pg1010
 
-*On the words of the Gospel, John ii. 2, ‘and Jesus also was bidden, and…*
+*On the words of the Gospel, [[John 02#^2-2|John ii. 2]], ‘and Jesus also was bidden, and…*
 
 prison.” <sup>3675</sup> And to some He said, “Ye have ministered unto Me,” and to some He said, “Ye have not ministered unto Me.” Lo, we have proved Christ poor; that Christ is Rich, who knows not? And even here it was a property of these riches to turn the water into wine. If he who has wine is rich, how rich is He who maketh wine? So then Christ is rich and poor; 474
 
@@ -128,7 +128,7 @@ as God, rich; as Man, poor. Yea rich too now as Very Man He hath ascended into h
 
 5\. What art thou? Rich, or poor? Many tell me, I am poor; and they tell the truth. I recognise some poor having something, and some having want. But some have much gold and silver. O that they would acknowledge themselves poor! Poor they will acknowledge themselves, if they acknowledge the poor about them. For how is it? How much soever thou hast, thou rich man whosoever thou art, thou art God’s beggar. The hour of prayer comes, and there I prove thee. Thou makest thy petition. How art thou not poor, who makest thy petition? I say more, Thou makest petition for bread. Wilt thou not have to say, “Give us our daily bread”?<sup>3676</sup> Thou, who askest for daily bread, art thou poor, or rich? And yet Christ saith to thee, “Give Me of that which I have given thee. For what didst thou bring here, when thou camest hither? All things that I created, thyself created hast found here; nothing didst thou bring, nothing shalt thou take away. Why wilt thou not give Me of Mine Own? For thou art full, and the poor man is empty. Look at your first origin; naked were ye both born. Thou too then wast born naked. Great store hast thou found here; didst thou bring ought with thee? I ask for Mine Own; give, and I will repay. Thou hast found Me a bountiful giver, make Me at once thy debtor. It is not enough to say, ‘Thou hast found Me a bountiful giver, make Me at once thy debtor;’ let Me regard thee as lending upon interest. Thou givest me but little, I will repay more. Thou givest me earthly things, I will repay heavenly. Thou givest me temporal things, I will restore eternal. I will restore thee to thyself, when I shall have restored thee unto Me.”
 
-3675 Matt. xxv. 35, etc.
+3675 [[Matthew 25#^25-35|Matt. xxv. 35]], etc.
 
 
 *[p. 985]* ^pg1011
@@ -137,20 +137,20 @@ as God, rich; as Man, poor. Yea rich too now as Very Man He hath ascended into h
 
 Sermon LXXIV.
 
-\[CXXIV. Ben.\] *On the words of the Gospel, John v. 2, “Now there is in Jerusalem by the Sheep Gate a pool,” etc.*
+\[CXXIV. Ben.\] *On the words of the Gospel, [[John 05#^5-2|John v. 2]], “Now there is in Jerusalem by the Sheep Gate a pool,” etc.*
 
 1\. The lesson of the Gospel has just sounded in our ears, and made us intent to know what is the meaning of what has been read. This, I suppose, is looked for from me, this I promise, by the Lord’s assistance, to explain as well as I can. For without doubt it is not without a meaning, that those miracles were done, and something they figured out to us bearing on eternal saving<sup>3677</sup> health. For the health of the body which was restored to this man, of how long duration was it? “For what is your life?” saith Holy Scripture; “it is a vapour that appeareth for a little time, and then vanisheth away.”<sup>3678</sup> Therefore in that health was restored to this man’s body for a time, some enduringness was restored to a vapour. So then this is not to be valued much; “Vain is the health of man.”<sup>3679</sup> And, brethren, recollect that Prophetical and Evangelical testimony, for it is read in the Gospel; “All flesh is grass, and all the glory of flesh as the flower of grass; the grass withereth, the flower falleth away, the Word of the Lord endureth for ever.”<sup>3680</sup> The Word of the Lord communicateth glory even to the grass, and no transitory glory; for even to flesh He giveth immortality.
 
 2\. But first passeth away the tribulation of this life, out of which He giveth us help, to whom we have said, “Give us help from tribulation.”<sup>3681</sup> And all this life is indeed a tribulation to the understanding. For there are two tormentors of the soul, torturing it not at once, but alternating their tortures. These two tormentors’ names are, Fear and Sorrow. When it is well with thee, thou art in fear; when it is ill, thou art in sorrow. This world’s prosperity, whom doth it not deceive, its adversity not break? In this grass, and in the days of grass, the surer way must be kept to, the Word of God. For when it had been said, “All flesh is grass, and all the glory of flesh as the flower of grass, the grass withereth, the flower falleth away;” as though we should ask, “What hope has grass? what stability the flower of grass?” it is said, “but the Word of the Lord endureth for ever.” And whence, you will say, is that Word to me? “The Word was made Flesh, and dwelt among us.”<sup>3682</sup> For the Word of the Lord saith to thee, “Do not reject My promise, for I have not rejected thy grass.” This then that the Word of the Lord hath granted to us, that we might hold to Him, that we might not pass away with the flower of grass; this, I say, that He hath granted to us, that the Word should
 
-3677 Throughout this chapter there is the double meaning in the original of *salus* for “health” and “salvation.” 3678 Jas. iv. 14. 3679 Ps. lx. 11.
+3677 Throughout this chapter there is the double meaning in the original of *salus* for “health” and “salvation.” 3678 [[James 04#^4-14|Jas. iv. 14]]. 3679 Ps. lx. 11.
 
-3680 Isa. xl. 6, 7; Jas. i. 10; 1 Pet. i. 24, 25. 3681 Ps. lx. 11.
+3680 Isa. xl. 6, 7; [[James 01#^1-10|Jas. i. 10]]; [[1 Peter 01#^1-24|1 Pet. i. 24]], [[1 Peter 01#^1-25|25]]. 3681 Ps. lx. 11.
 
 
 *[p. 986]* ^pg1012
 
-*On the words of the Gospel, John v. 2, ‘Now there is in Jerusalem by the…*
+*On the words of the Gospel, [[John 05#^5-2|John v. 2]], ‘Now there is in Jerusalem by the…*
 
 be made Flesh, taking Flesh, not changed into flesh, abiding, and assuming, abiding what He was, assuming what He was not; this, I say, that He hath granted to us, that pool also signifies.<sup>3683</sup>
 
@@ -163,7 +163,7 @@ be made Flesh, taking Flesh, not changed into flesh, abiding, and assuming, abid
 
 *[p. 987]* ^pg1013
 
-*On the words of the Gospel, John v. 2, ‘Now there is in Jerusalem by the…*
+*On the words of the Gospel, [[John 05#^5-2|John v. 2]], ‘Now there is in Jerusalem by the…*
 
 uncertain. From the earliest infancy even to decrepit old age, it is but a short span. If Adam had died to-day, what would it have profited him, that he had lived so long? What “long time” is there in that in which there is an end? No one recalleth yesterday; to-day is pressed on by to-morrow, that it may pass away. In this little span let us live well, that we may go whence we may not pass away. And now even as we are talking, we are indeed passing away. Our words run on, and the hours fly by; so does our age, so our actions, so our honours, so our misery, so our happiness here below. All passeth away, but let us not be alarmed; “The Word of God endureth for ever.” Let us turn to the Lord, etc.
 
@@ -173,50 +173,50 @@ uncertain. From the earliest infancy even to decrepit old age, it is but a short
 
 Sermon LXXV.
 
-\[CXXV. Ben.\] *Again in John v. 2, etc., on the five porches, where lay a great multitude of impotent folk,* *and of the pool of Siloa.*
+\[CXXV. Ben.\] *Again in [[John 05#^5-2|John v. 2]], etc., on the five porches, where lay a great multitude of impotent folk,* *and of the pool of Siloa.*
 
 1\. Subjects strange neither to your ears nor hearts are now repeated: yet do they revive the affections of the hearer, and by repetition in some sort renew us: nor is it wearisome to hear what is well known already, for the words of the Lord are always sweet. The exposition of the sacred Scriptures is as the sacred Scriptures themselves: though they be well known, yet are they read to impress the remembrance of them. And so the exposition of them, though it be well known, is nevertheless to be repeated, that they who have forgotten it may be reminded, or they who chanced not to hear it may hear; and that with those who do retain what they are used to hear, it may by the repetition be brought to pass that they shall not be able to forget it. For I remember that I have already spoken to you, Beloved, on this lesson of the Gospel. Yet to repeat the same explanation to you is not wearisome, even as it was not wearisome to repeat the same Lesson to you. The Apostle Paul saith in a certain Epistle, “To write the same things to you, to me indeed is not wearisome, but for you it is necessary.”<sup>3685</sup> So too with myself to say the same things to you, to me is not wearisome, but for you it is safe.
 
 2\. The five porches in which the infirm folk lay signify the Law, which was first given to the Jews and to the people of Israel by Moses the servant of God. For this Moses the minister of the Law wrote five books. In relation therefore to the number of the books which he wrote, the five porches figured the Law. But because the Law was not given to heal the infirm, but to discover and to manifest them; for so saith the Apostle, “For if there had been a law given which could have given life, verily righteousness should have been by the Law; But the Scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe;”<sup>3686</sup> therefore in those porches the sick folk lay, but were not cured. For what saith he? “If there had been a law given which could have given life.” Therefore those porches which figured the Law could not cure the sick. Some one will say to me, “Why then was it given?” The Apostle Paul hath himself explained: “Scripture,” saith he, “hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.” For these folk who were sick, thought themselves to be whole. They received the Law, which they were not able to fulfil; they learnt in what disease they were, and they implored the Physician’s aid; they wished to be cured because they came to know they were in distress, which they would not have known if they had not been unable to fulfil the Law which had been given. For man thought himself innocent, and from this
 
-476 3685 Phil. iii. 1, Vulgate. Gal. iii. 21, 22.
+476 3685 [[Philippians 03#^3-1|Phil. iii. 1]], Vulgate. [[Galatians 03#^3-21|Gal. iii. 21]], [[Galatians 03#^3-22|22]].
 
 *[p. 989]* ^pg1015
 
-*Again in John v. 2, etc., on the five porches, where lay a great multitude…*
+*Again in [[John 05#^5-2|John v. 2]], etc., on the five porches, where lay a great multitude…*
 
 very pride of false innocence became more mad. To tame this pride then and to lay it bare, the Law was given; not to deliver the sick, but to convince the proud. Attend then, Beloved; to this end was the Law given, to discover diseases, not to take them away. And so then those sick folk who might have been sick in their own houses with greater privacy, if those five porches had not existed, were in those porches set forth to the eyes of all men, but were not by the porches cured. The Law therefore was useful to discover sins, because that man being made more abundantly guilty by the transgression of the Law, might, having tamed his pride, implore the help of Him That pitieth. Attend to the Apostle; “The Law entered that sin might abound; but where sin abounded, grace hath much more abounded.”<sup>3687</sup> What is, “The Law entered that sin might abound”? As in another place he saith, “For where there is no law, there is no transgression.”<sup>3688</sup> Man may be called a sinner before the Law, a transgressor he cannot. But when he hath sinned, after that he hath received the Law, he is found not only a sinner, but a transgressor. Forasmuch then as to sin is added transgression, therefore “hath sin abounded.” And when sin abounds, human pride learns at length to submit itself, and to confess to God, and to say “I am weak.” To say to those words of the Psalm which none but the humbled soul saith, “I said, Lord, be merciful unto me; heal my soul, for I have sinned against thee.”<sup>3689</sup> Let the weak soul then say this that is at least convinced by transgression, and not cured, but manifested by the Law. Hear too Paul himself showing thee, both that the Law is good, and yet that nothing but the grace of Christ delivereth from sin. For the Law can prohibit and command; apply the medicine, that that which doth not allow a man to fulfil the Law, may be cured, it cannot, but grace only doeth that. For the Apostle saith, “For I delight in the Law of God after the inner man.”<sup>3690</sup> That is, I see now that what the Law blames is evil, and what the Law commands is good. “For I delight in the Law of God after the inner man. I see another law in my members resisting the law of my mind, and bringing me into captivity in the law of sin.” This derived from the punishment of sin, from the propagation of death, from the condemnation of Adam, “resists the law of the mind, and brings it into captivity in the law of sin which is in the members.” He was convinced; he received the Law, that he might be convinced: see now what profit it was to him that he was convinced. Hear the following words, “Wretched man that I am, who shall deliver me from the body of this death? The grace of God through Jesus Christ our Lord.”<sup>3691</sup>
 
-3687 Rom. v. 20. 3688 Rom. iv. 15. 3689 Ps. xli. 4.
+3687 [[Romans 05#^5-20|Rom. v. 20]]. 3688 [[Romans 04#^4-15|Rom. iv. 15]]. 3689 Ps. xli. 4.
 
-3690 Rom. vii. 22. Rom. vii. 24, 25, Vulgate.
+3690 [[Romans 07#^7-22|Rom. vii. 22]]. [[Romans 07#^7-24|Rom. vii. 24]], [[Romans 07#^7-25|25]], Vulgate.
 
 
 *[p. 990]* ^pg1016
 
-*Again in John v. 2, etc., on the five porches, where lay a great multitude…*
+*Again in [[John 05#^5-2|John v. 2]], etc., on the five porches, where lay a great multitude…*
 
 3\. Give heed then. Those five porches were significative of the Law, bearing the sick, not healing them; discovering, not curing them. But who did cure the sick? He that descended into the pool. And when did the sick man descend into the pool? When the Angel gave the sign by the moving of the water. For thus was that pool sanctified, for that the Angel came down and moved the water. Men saw the water; and from the motion of the troubled water they understood the presence of the Angel. If any one then went down, he was cured. Why then was not that sick man cured? Let us consider his own words; “I have no man,” he says, “when the water is moved, to put me into the pool, but while I am coming, another steppeth down.”<sup>3692</sup> Couldest not thou then step down afterwards, if another step down before thee? Here it is shown us, that only one was cured at the moving of the water. Whosoever stepped down first, he alone was cured: but whoever stepped down afterwards, at that moving of the water was not cured, but waited till it was moved again. What then does this mystery<sup>3693</sup> mean? For it is not without a meaning. Attend, Beloved. Waters are put in the Apocalypse for a figure of peoples. For when in the Apocalypse John saw many waters, he asked what it meant, and it was told him that they were peoples.<sup>3694</sup> The water then of the pool signified the people of the Jews. For as that people was held in by the five books of Moses in the Law, so that water too was enclosed by five porches. When was the water troubled? When the people of the Jews was troubled. And when was the people of the Jews troubled, but when 477 the Lord Jesus Christ came? The Lord’s Passion was the troubling of the water. For the Jews were troubled when the Lord suffered. See, what was just now read had relation to this troubling. “The Jews wished to kill Him, not only because He did these things on the sabbaths, but because He called Himself the Son of God, making Himself equal with God.”<sup>3695</sup> For Christ called Himself the Son after one manner, in another was it said to men, “I said, Ye are Gods, and ye are all children of the Most High.”<sup>3696</sup> For if He had made Himself the Son of God in such sort as any man whatever may be called the son of God (for by the grace of God men are called sons of God); the Jews would not have been enraged. But because they understand Him to call Himself the Son of God in another way, according to that, “In the beginning was the Word, and the Word was with God, and the Word was God;”<sup>3697</sup> and according to what the Apostle saith, “Who being in the form of God, thought it not robbery to be equal with God;”<sup>3698</sup> they saw a man, and they were enraged, because He
 
-3692 John v. 7. 3693 *Sacramentum*. 3694 Rev. xvii. 15. 3695 John v. 18. 3696 Ps. lxxxii. 6. 3697 John i. 1. Phil. ii. 6.
+3692 [[John 05#^5-7|John v. 7]]. 3693 *Sacramentum*. 3694 [[Revelation 17#^17-15|Rev. xvii. 15]]. 3695 [[John 05#^5-18|John v. 18]]. 3696 Ps. lxxxii. 6. 3697 [[John 01#^1-1|John i. 1]]. [[Philippians 02#^2-6|Phil. ii. 6]].
 
 
 *[p. 991]* ^pg1017
 
-*Again in John v. 2, etc., on the five porches, where lay a great multitude…*
+*Again in [[John 05#^5-2|John v. 2]], etc., on the five porches, where lay a great multitude…*
 
 made Himself equal with God. But He well knew that He was equal, but wherein they saw not. For that which they saw they wished to crucify; by That which they saw not, they were judged. What did the Jews see? What the Apostles also saw, when Philip said, “Show us the Father, and it sufficeth us.”<sup>3699</sup> But what did the Jews not see? What not even the Apostles saw, when the Lord answered, “Have I been so long time with you, and yet have ye not known Me? He that seeth Me, seeth the Father also.”<sup>3700</sup> Because then the Jews were not able to see This in Him, they held Him for a proud and ungodly man, making Himself equal with God. Here was a troubling, the water was troubled, the Angel had come. For the Lord is called also the “Angel of the Great Counsel,”<sup>3701</sup> in that He is the messenger of the Father’s will. For Angel in Greek is in Latin “messenger”. So you have the Lord saying that He announces to us the kingdom of Heaven. He then had come, the “Angel of the Great Counsel,” but the Lord of all the Angels. “Angel” on this account, because He took Flesh; the “Lord of Angels,” in that by “Him all things were made, and without Him was nothing made.”<sup>3702</sup> For if all things, Angels too. And therefore Himself was not made, because by Him all things were made. Now what was made, was not made without the operation of the Word. But the flesh which became the mother of Christ, could not have been born, if it had not been created by the Word, which was afterwards born of it.
 
 4\. The Jews then were troubled. What is this? “Why doeth He these things on the sabbath days?” And especially at those words of the Lord, “My Father worketh hitherto, and I work.”<sup>3703</sup> Their carnal understanding of this, that God rested on the seventh day from all His works,<sup>3704</sup> “troubled them.” For this is written in Genesis, and most excellently written it is, and on the best reasons. But they thinking that God as it were rested from fatigue on the seventh day after all, and that He therefore blessed it, because on it He was refreshed from His weariness, did not in their foolishness understand, that He who made all things by the Word, could not be wearied. Let them read, and tell me how could God be wearied, who said, “Let it be made, and it was made.” To-day if a man could so do, as God did, how would he be wearied? He said, “Let there be light, and the light was made.” Again, “Let there be a firmament, and it was made:”<sup>3705</sup> if indeed He said, and it was not done, He was wearied. In another place briefly, “He spake, and they were made; He commanded, and they were created.”<sup>3706</sup> He then who worketh thus, how doth He labour? But if He labour not,
 
-3699 John xiv. 8.
+3699 [[John 14#^14-8|John xiv. 8]].
 
-3700 John xiv. 9. 3701 Isa. ix. 6, Sept. 3702 John i. 3. 3703 John v. 17. 3704 Gen. ii. 2. 3705 Gen. i. 3, 6, 7. Ps. xxxii. 9, Sept. (xxxiii. 9, English version).
+3700 [[John 14#^14-9|John xiv. 9]]. 3701 Isa. ix. 6, Sept. 3702 [[John 01#^1-3|John i. 3]]. 3703 [[John 05#^5-17|John v. 17]]. 3704 Gen. ii. 2. 3705 Gen. i. 3, 6, 7. Ps. xxxii. 9, Sept. (xxxiii. 9, English version).
 
 
 *[p. 992]* ^pg1018
 
-*Again in John v. 2, etc., on the five porches, where lay a great multitude…*
+*Again in [[John 05#^5-2|John v. 2]], etc., on the five porches, where lay a great multitude…*
 
 how doth He rest? But in that sabbath, in which it is said that God rested from all His works, in the Rest of God our rest was signified; because the sabbath of this world shall be, when the six ages shall have passed away. The six days as it were of the world are passing away. One day hath passed away, from Adam unto Noe; another from the deluge unto Abraham; the third from Abraham unto David; the fourth from David unto the carrying away into Babylon; the fifth from the carrying away into Babylon unto the advent of our Lord Jesus Christ. Now the sixth day is in passing. We are in the sixth age, in the sixth day. Let us then be reformed after the image of God, because that on the sixth day man was made after the image of God.<sup>3707</sup> What formation did then, let reformation do in us, and what creation did there, let creating-anew do in us. After this day in which we now are, after this age, the rest which is promised to the saints and prefigured in those days, shall come. Because in very truth too, after all things which He made in the world, He hath made nothing new in creation afterwards. The creatures themselves shall be transformed and changed. For since the creatures were fashioned, nothing more has been added. But nevertheless, if He who made did not rule the world, what is made would fall to ruin: He cannot but administer that which He hath made. Because then nothing hath been added to the creation, He is said to 478
 
@@ -229,18 +229,18 @@ have rested from all His works; but because He doth not cease to govern what He 
 
 *[p. 993]* ^pg1019
 
-*Again in John v. 2, etc., on the five porches, where lay a great multitude…*
+*Again in [[John 05#^5-2|John v. 2]], etc., on the five porches, where lay a great multitude…*
 
 care where He may order thee who cannot err, He knoweth where to place thee. For so we see it happen by the common laws of the world. Some man, for instance, has chosen to be a house-breaker: the law of the judge knows that he has acted contrary to the law: the law of the judge knows where to place him; and orders him most properly. He indeed has lived evilly; but not evilly has the law ordered him. From a house-breaker he will be sentenced to the mines; from the labour of such how great works are constructed? That condemned man’s punishment is the city’s ornament. So then God knoweth where to place thee. Do not think that thou art disturbing the counsel of God, if thou art minded to be disorderly. Doth not He who knew how to create, know how to order thee? Good were it for thee to strive for this, to be set in a good place. What was said of Judas by the Apostle? “He went unto his own place.”<sup>3710</sup> By the operation of course of Divine Providence, because by an evil will he chose to be evil, but God did not by ordering evil make it. But because that evil man himself chose to be a sinner, he did what he would, and suffered what he would not. In that he did what he would, his sin is discovered; in that he suffered what he would not, the order of God is praised.
 
 6\. Wherefore have I said all this? That ye, brethren, may understand what was most excellently said by the Lord Jesus Christ, “My Father worketh even hitherto.” In that He doth not abandon the creature which He made. And He said, “As He worketh, so do I also work.” In this He at once signified that He was equal with God. “My Father,” saith He, “worketh hitherto, and I work.” Their carnal sense touching the rest<sup>3711</sup> was troubled. For they thought that the Lord being wearied rested, that He should work no more. They hear, “My Father worketh even hitherto:” they are troubled. “And I work:”<sup>3712</sup> He hath made Himself equal with God: they are troubled. But be not alarmed. The water is troubled, now the sick man is to be cured. What meaneth this? Therefore are they troubled, that the Lord may suffer. The Lord doth suffer, the precious Blood is shed, the sinner is redeemed, grace is given to the sinner, to him that saith, “Wretched man that I am, who shall deliver me from the body of this death? The grace of God, through Jesus Christ our Lord.” <sup>3713</sup> But how is he cured? If he step down. For that pool was so made, that men should go down, and not come up to it. For there might be pools of such a kind, so constructed, that men must go up to them. But why was this made in such a way that men must go down to it? Because the Lord’s Passion searches for the humble. Let the humble go down, let him not be proud, if he wishes to be cured. But why was it but “one”? Because the Church is only One throughout the world, unity is saved. When then one is made whole, unity is signified. By
 
-3710 Acts i. 25. 3711 *Sabbato*. 3712 John v. 17. Rom. vii. 24, 25, Vulg.
+3710 [[Acts 01#^1-25|Acts i. 25]]. 3711 *Sabbato*. 3712 [[John 05#^5-17|John v. 17]]. [[Romans 07#^7-24|Rom. vii. 24]], [[Romans 07#^7-25|25]], Vulg.
 
 
 *[p. 994]* ^pg1020
 
-*Again in John v. 2, etc., on the five porches, where lay a great multitude…*
+*Again in [[John 05#^5-2|John v. 2]], etc., on the five porches, where lay a great multitude…*
 
 one understand unity. Depart not then from unity, if thou wouldest not be without a part in this saving<sup>3714</sup> cure.
 
@@ -248,54 +248,54 @@ one understand unity. Depart not then from unity, if thou wouldest not be withou
 
 8\. Thou wilt say and make answer to me, “Yea, God knows that I possess innocently what I have.” Temptation proves thee. There is a troubling of thy possessions, and thou dost blaspheme. It is but lately we were in such a case. There is a troubling of thy possessions, and thou art not found what thou wast, and dost show that there is one thing in thy mouth to-day, and another in thy mouth yesterday. And I would that thou wouldest only defend thine own even with vehemence;<sup>3718</sup> and not try to usurp with audacity another’s; and what
 
-3714 *Salute*. 3715 Serm. i. (li. Ben.) 32 (xxii.). 3716 Vulgate. 3717 1 Cor. vii. 29–32. *Clamore*.
+3714 *Salute*. 3715 Serm. i. (li. Ben.) 32 (xxii.). 3716 Vulgate. 3717 [[1 Corinthians 07#^7-29|1 Cor. vii. 29–32]]. *Clamore*.
 
 
 *[p. 995]* ^pg1021
 
-*Again in John v. 2, etc., on the five porches, where lay a great multitude…*
+*Again in [[John 05#^5-2|John v. 2]], etc., on the five porches, where lay a great multitude…*
 
 is worse, to escape reprehension, maintain that what is another’s is thine own. But why need I say more? This I advise, this I say, Brethren, and as a brother advise; God bids, and I admonish because I am admonished. He alarmeth me, who doth not allow me to keep silence. He exacteth of me what He hath given. For He hath given it to be laid out, not to be kept up. And if I should keep it and hide it, He saith to me, “Thou wicked and slothful servant, wherefore gavest thou not My money to the exchangers, that at My coming I might require it with usury?”<sup>3719</sup> And what will it profit me that I have lost nothing of that which I received? That is not enough for my Lord, He is covetous; but God’s covetousness is our salvation. He is covetous, He looketh for His own money, He gathereth in His Own image. “Thou shouldest have given,” saith He, “the money to the exchangers, that at My coming I might require it with usury.” And if by any chance forgetfulness should make me fail of admonishing you, the temptations and tribulations at least which we are suffering, would be an admonition to you. Ye have heard at least the word of God. Blessed be the Lord and His glory. For ye are here gathered together, and are hanging on the word of God’s minister. Turn not your attention to our flesh, by which the word is given out to you; for hungry men regard not the meanness of the dish, but the preciousness of the food. God is proving you. Ye are gathered together, ye praise the word of God; temptation will prove in what manner ye hear it: ye will have the active business of life whereby your true character will be shown. For so he who to-day is shouting with railings, was yesterday a ready listener. Therefore I forewarn; therefore I tell you, therefore I do not withhold it, my Brethren, that the time of questioning will come. For the Lord maketh question of the righteous and of the ungodly. This you know ye have sung, this have we sung together; “The Lord maketh question of the righteous and the ungodly.” And what follows? “But he that loveth iniquity, hateth his own soul.”<sup>3720</sup> And in another place, “Into the thoughts of the ungodly there shall be questioning made.”<sup>3721</sup> God doth not make question of thee there, where I question thee. I question thy tongue, God questioneth thy thoughts. For He knoweth how thou dost hear, and He knoweth how to require, Who ordereth me to give. He hath wished me to be a dispenser, the requiring He hath reserved to Himself. To admonish, to teach, to rebuke, is ours; but to save, and to crown, or to condemn, and to cast into hell, is not ours; “But the Judge shall deliver to the officer, and the officer to the prison. Verily I say unto thee, thou shalt not go out thence, till thou payest the last farthing.”<sup>3722</sup>
 
-3719 Luke xix. 22, 23.
+3719 [[Luke 19#^19-22|Luke xix. 22]], [[Luke 19#^19-23|23]].
 
 3720 Ps. x. 5, Sept. (xi. 5, English version). 3721 Wisd. i. 9.
 
 
 *[p. 996]* ^pg1022
 
-*Again in John v. 2, etc., on the five porches, where lay a great multitude…*
+*Again in [[John 05#^5-2|John v. 2]], etc., on the five porches, where lay a great multitude…*
 
 9\. Let us then return to our subject. The perfection of righteousness is shown by the number forty. What is it to fulfil the number forty? To restrain one’s self from the love of this world. Restraint from temporal things, that they be not loved to our destruction, is, as it were, fasting from this world. Therefore the Lord fasted forty days, and Moses, and Elias. He then who gave His servants the power to fast forty days, could He not fast eighty or a 480 hundred? Why then did He not will to fast more than He had given His servants to do, but because in this number forty is the mystery of fasting, the restraint from this world? What is this to say? What the Apostle says; “The world is crucified to me, and I to the world.”<sup>3723</sup> He then fulfils the number forty. And what doth the Lord show? That because Moses did this, this Elias, this Christ, that this both the Law, and the Prophets, and the Gospel, teach; that thou mayest not think that there is one thing in the Law, another in the Prophets, another in the Gospel. All Scripture teacheth thee nothing else, but restraint from the love of the world, that thy love may speed on to God. As a figure that the Law teaches this, Moses fasted forty days. As a figure that the Prophets teach it, Elias fasted forty days. As a figure that the Gospel teaches it, the Lord fasted forty days. And therefore in the mount too these three appeared, the Lord in the middle, Moses and Elias at the sides. Wherefore? Because the Gospel itself receives testimony from the Law and the Prophets.<sup>3724</sup> But why in the number forty is the perfection of righteousness? In the Psalter it is said, “O God, I will sing a new song unto Thee, upon a psaltery of ten strings will I sing praises unto Thee.”<sup>3725</sup> Which signifies the ten precepts of the Law, which the Lord came not to destroy, but to fulfil. And the Law itself throughout the whole world, it is evident, hath four quarters, the East, and West, South, and North, as the Scripture saith. And hence the vessel which bare all the emblematic animals, which was exhibited to Peter, when he was told, “Kill and eat,”<sup>3726</sup> that it might be shown that the Gentiles should believe and enter into the body of the Church, just as what we eat entereth into our body, and which was let down from heaven by four corners (these are the four quarters of the world), showed that the whole world should believe. Therefore in the number forty is restraint from the world. This is the fulfilling of the Law: now the fulfilling of the Law is charity. And therefore before the Pasch we fast forty days. For this time before the Pasch is the sign of this our toilsome life, wherein, in toils, and cares, and continence, we fulfil the Law. But afterwards we celebrate the Pasch, that is, the days of the Lord’s resurrection signifying our own resurrection. Therefore fifty days are celebrated; because the reward of the denarius is added to the forty, and it becomes fifty. Why is the reward a denarius? Have ye not read, how that they who were hired into the vineyard,
 
-3723 Gal. vi. 14. 3724 Rom. iii. 21. 3725 Ps. cxliv. 9. 481 3727 Matt. xx. 2. 3728 Rom. xiii. 10. 3729 Gal. v. 14.
+3723 [[Galatians 06#^6-14|Gal. vi. 14]]. 3724 [[Romans 03#^3-21|Rom. iii. 21]]. 3725 Ps. cxliv. 9. 481 3727 [[Matthew 20#^20-2|Matt. xx. 2]]. 3728 [[Romans 13#^13-10|Rom. xiii. 10]]. 3729 [[Galatians 05#^5-14|Gal. v. 14]].
 
 
 *[p. 997]* ^pg1023
 
-*Again in John v. 2, etc., on the five porches, where lay a great multitude…*
+*Again in [[John 05#^5-2|John v. 2]], etc., on the five porches, where lay a great multitude…*
 
 whether at the first, or sixth, or the last hour, could only receive the denarius?<sup>3727</sup> When to our righteousness shall be added its reward, we shall be in the number fifty. Yea, and then shall we have none other occupation, save to praise God. And therefore throughout those days we say, “Hallelujah.” For Halleluiah is the praise of God. In this frail estate of mortality, in this fortieth number here, as though before the resurrection, let us groan in prayers, that we may sing praises then. Now is the time of longing, then will be the time of embracing and enjoying. Let us not faint in the time of forty, that we may joy in the time of fifty.
 
 10\. Now who is he that fulfilleth the Law, but he that hath charity? Ask the Apostle, “Charity is the fulfilling of the Law.<sup>3728</sup> For all the Law is fulfilled in one word, in that which is written, Thou shalt love thy neighbour as thyself.”<sup>3729</sup> But the commandment of charity is twofold; “Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the great commandment. The other is like it; Thou shalt love thy neighbour as thyself.” They are the words of the Lord in the Gospel: “On these two commandments hang all the Law and the Prophets.”<sup>3730</sup> Without this twofold love the Law cannot be fulfilled. As long as the Law is not fulfilled, there is infirmity. Therefore he had two short, who was infirm thirty and eight years. What means, “had two short”? He did not fulfil these two commandments. What doth it profit that the rest is fulfilled, if those are not fulfilled? Hast thou thirty-eight? If thou have not those two, the rest will profit thee nothing. Thou hast two short, without which the rest avail not, if thou have not the two commandments which conduct unto salvation. “If I speak with the tongues of men and angels, and have not charity, I am become as sounding brass, or a tinkling cymbal. And if I know all mysteries, and all knowledge, and if I have all faith, so that I could remove mountains, and have not charity, I am nothing. And if I distribute all my substance, and if I give my body to be burned, and have not charity, it profiteth me nothing.”<sup>3731</sup> They are the Apostle’s words. All those things therefore which he mentioned are as it were the thirty-eight years; but because charity was not there, there was infirmity. From that infirmity who then shall make whole, but He who came to give charity? “A new commandment I give unto you, that ye love one another.”<sup>3732</sup> And because He came to give charity, and charity fulfilleth the Law, with good reason said He, “I came not to destroy the Law, but to fulfil.”<sup>3733</sup> He cured
 
-3730 Matt. xxii. 37–40. 3731 1 Cor. xiii. 1–3. 3732 John xiii. 34.
+3730 [[Matthew 22#^22-37|Matt. xxii. 37–40]]. 3731 [[1 Corinthians 13#^13-1|1 Cor. xiii. 1–3]]. 3732 [[John 13#^13-34|John xiii. 34]].
 
 
 *[p. 998]* ^pg1024
 
-*Again in John v. 2, etc., on the five porches, where lay a great multitude…*
+*Again in [[John 05#^5-2|John v. 2]], etc., on the five porches, where lay a great multitude…*
 
 the sick man, and told him to carry his couch, and go unto his house.<sup>3734</sup> And so too He said to the sick of the palsy whom He cured.<sup>3735</sup> What is it to carry our couch? The pleasure of our flesh. Where we lie in infirmity, is as it were our bed. But they who are cured master<sup>3736</sup> and carry it, are not by this flesh mastered. So then, thou whole one, master the frailness of thy flesh, that in the sign of the forty days’ fast from this world, thou mayest fulfill the number forty, for that He hath made that sick man whole, “Who came not to destroy the Law, but to fulfil.”
 
 11\. Having heard this, direct your heart to Godward. Do not deceive yourselves. Ask yourselves then when it is well with you in the world ; then ask yourselves, whether ye love the world, or whether ye love it not; learn to let it go before ye are let go yourselves. What is to let it go? Not heartily to love it. Whilst there is yet something with thee which thou must one day lose, and either in life or death let it go, it cannot be with thee always; whilst I say it is yet with thee, loosen thy love; be prepared for the will of God, hang upon God. Hold thee fast to Him, whom thou canst not lose against thy will, that if it chance thee to lose these temporal things, thou mayest say, “The Lord gave, the Lord hath taken away, as it hath pleased the Lord, so is it done, blessed be the Name of the Lord.”<sup>3737</sup> But if it chance, and God so wills it, that the things thou hast be with thee even to the last: for thy detachment from this life thou receivest the denarius, the fifty, and the perfection of blessedness cometh to pass in thee, when thou shalt sing Hallelujah. Having these things which I have now brought forward in your memory, may they avail to overthrowing your love of the world. Evil is its friendship, deceitful, it makes a man the enemy of God. Soon, in one single temptation, a man offendeth God, and becometh His enemy. Nay not then becometh His enemy; but is then discovered to have been His enemy. For when he was loving and praising Him, he was an enemy; but he neither knew it himself, nor did others. Temptation came, the pulse is touched, and the fever discovered. So then brethren, the love of the world, and the friendship of the world, make men the enemies of God. And it does not make good what it promises, it is a liar, and deceiveth. Therefore men never cease hoping in this world, and who attains to all he hopes for? But whereunto soever he attains, what he has attained to is forthwith disesteemed by him. Other things begin to be desired, other fond things are hoped for; and when they come, whatsoever it is that comes to thee, is disesteemed. Hold thee fast then to God, for He can never be of light esteem, for nothing is more beautiful than He. For for this cause are these things disesteemed, because they cannot stand, because they are not what He is. For nought, O soul, sufficeth thee, save He who created thee. Whatsoever else
 
-3734 John v. 8, 9. 3735 Mark ii. 9. 3736 *Continent*. Job i. 21, Sept.
+3734 [[John 05#^5-8|John v. 8]], [[John 05#^5-9|9]]. 3735 [[Mark 02#^2-9|Mark ii. 9]]. 3736 *Continent*. Job i. 21, Sept.
 
 
 *[p. 999]* ^pg1025
 
-*Again in John v. 2, etc., on the five porches, where lay a great multitude…*
+*Again in [[John 05#^5-2|John v. 2]], etc., on the five porches, where lay a great multitude…*
 
 thou apprehendest is wretched; for He Alone can suffice thee who made thee after His Own likeness. Thus it was expressly said, “Lord, show us the Father, and it sufficeth us.”<sup>3738</sup> There only can there be security; and where security can be, there in a certain sort will be insatiable satiety. For thou wilt neither be so satiated, as to wish to depart; nor will anything be wanting, as though thou couldest suffer want.
 
@@ -305,7 +305,7 @@ thou apprehendest is wretched; for He Alone can suffice thee who made thee after
 
 Sermon LXXVI.
 
-\[CXXVI. Ben.\] *On the words of the Gospel, John v. 19, “The Son can do nothing of Himself, but what He seeth the Father doing.”*
+\[CXXVI. Ben.\] *On the words of the Gospel, [[John 05#^5-19|John v. 19]], “The Son can do nothing of Himself, but what He seeth the Father doing.”*
 
 1\. The mysteries and secrets of the kingdom of God first seek for believing men, that they may make them understanding. For faith is understanding’s step; and understanding faith’s attainment.<sup>3739</sup> This the Prophet expressly says to all who prematurely and in undue order look for understanding, and neglect faith. For he says, “Unless ye believe, ye shall not understand.”<sup>3740</sup> Faith itself then also hath a certain light of its own in the Scriptures, in Prophecy, in the Gospel, in the Lessons of the Apostles. For all these things which are read to us in this present time, are lights in a dark place, that we may be nourished up unto the day. The Apostle Peter says, “We have a more sure word of prophecy, whereunto ye do well that ye take heed, as unto a light in a dark place, until the day dawn, and the day-star arise in your hearts.” <sup>3741</sup>
 
@@ -315,25 +315,25 @@ Sermon LXXVI.
 
 482 3739 *Meritum*.
 
-3740 Isa. vii. 9, Sept. 3741 2 Pet. i. 19. *Substantia*; ὑπόστασις. 3742 3743 *Sperantium*, as St Augustin uniformly reads, Tract. 79 and 95, in *Joh. de pecc. mer.* ii. 31. St, Ambrose and St. Jerome have the pass. Heb. xi. i.
+3740 Isa. vii. 9, Sept. 3741 [[2 Peter 01#^1-19|2 Pet. i. 19]]. *Substantia*; ὑπόστασις. 3742 3743 *Sperantium*, as St Augustin uniformly reads, Tract. 79 and 95, in *Joh. de pecc. mer.* ii. 31. St, Ambrose and St. Jerome have the pass. Heb. xi. i.
 
 
 *[p. 1001]* ^pg1027
 
-*On the words of the Gospel, John v. 19, ‘The Son can do nothing of Himself,…*
+*On the words of the Gospel, [[John 05#^5-19|John v. 19]], ‘The Son can do nothing of Himself,…*
 
 thee are on any other subject, and the inhabitant within is turned away, the things which are before thine eyes thou seest not. For to no purpose are the windows open, when he who looks through them is away. It is not then the eyes that see, but some one sees by the eyes; awake him, arouse him. For this hath not been denied thee; God hath made thee a rational animal, set thee over the cattle, formed thee after His Own image. Oughtest thou to use them as the cattle do; only to see what to add to thy belly, not to thy soul? Stir up, I say, the eye of reason, use thine eyes as a man should, consider the heaven and earth, the ornaments of the heaven, the fruitfulness of the earth, the flight of the birds, the swimming of the fish, the virtue<sup>3745</sup> of the seeds, the order of the seasons; consider the works, and seek for the Author; take a view of what thou seest, and seek Him whom thou seest not. Believe on Him whom thou seest not, because of these things which thou seest. And lest thou think that it is with mine own words that I have exhorted thee; hear the Apostle saying, “For the invisible things of God from the creation of the world are clearly seen by those things which are made.”<sup>3746</sup>
 
 4\. These things thou disregardedst, nor didst look upon them as a man, but as an irrational animal. The Prophet cried out to thee, and cried in vain. “Be ye not like to horse and mule, which have no understanding.”<sup>3747</sup> These things I say thou didst see, and disregard. God’s daily miracles were disesteemed, not for their easiness, but their constant repetition. For what is more difficult to understand than a man’s birth, that one who was in existence should by dying depart into darkness,<sup>3748</sup> and that one who was not, by being born should come forth to light?<sup>3749</sup> What so marvellous, what so difficult to comprehend? But with God easy to be done. Marvel at these things, awake; at His unusual works, thou canst wonder, are they greater than those which thou art accustomed to see? Men wondered that our Lord God Jesus Christ filled so many thousands with five loaves;<sup>3750</sup> and they do not wonder that through a few grains the whole earth is filled with crops. When the water was made wine,<sup>3751</sup> men saw it, and were amazed; what else takes place with the rain along the root of the vine? He did the one, He does the other; the one that thou mayest be fed, the other that thou mayest wonder. But both are wonderful, for both are the works of God. Man sees unusual things, and wonders; whence is the man himself who wonders? where was he? whence came he forth? whence the fashion of his body? whence the distinction of his limbs? whence that
 
-3745 *Vim*. 3746 Rom. i. 20. 3747 Ps. xxxii. 9. 3748 *Secreta*. 3749 *Publica*.
+3745 *Vim*. 3746 [[Romans 01#^1-20|Rom. i. 20]]. 3747 Ps. xxxii. 9. 3748 *Secreta*. 3749 *Publica*.
 
-3750 Matt. xiv. 21. 483 3752 *Artificem*. 3753 Ecclus. vi. 37. 3754 Ps. xvi. 7, Sept. (xvii. 7, English version). 3755 John i. 1. 3756 The punctuation of the reprint of the Ben. has been followed, “*Jamne vides jam, inquam, vides? carnem interrogo, sed carnem ostendo.*” The Ben. pointed, “*vides carnem,*” but noted *Locus mendosus*. The meaning may be, “It is of His Birth in the Flesh that I enquire, but I point out the mode of that Birth, *i.e.* of a Virgin.”
+3750 [[Matthew 14#^14-21|Matt. xiv. 21]]. 483 3752 *Artificem*. 3753 Ecclus. vi. 37. 3754 Ps. xvi. 7, Sept. (xvii. 7, English version). 3755 [[John 01#^1-1|John i. 1]]. 3756 The punctuation of the reprint of the Ben. has been followed, “*Jamne vides jam, inquam, vides? carnem interrogo, sed carnem ostendo.*” The Ben. pointed, “*vides carnem,*” but noted *Locus mendosus*. The meaning may be, “It is of His Birth in the Flesh that I enquire, but I point out the mode of that Birth, *i.e.* of a Virgin.”
 
 
 *[p. 1002]* ^pg1028
 
-*On the words of the Gospel, John v. 19, ‘The Son can do nothing of Himself,…*
+*On the words of the Gospel, [[John 05#^5-19|John v. 19]], ‘The Son can do nothing of Himself,…*
 
 beautiful form? from what beginnings? what contemptible beginnings? And he wonders at other things, when he the wonderer is himself a great wonder. Whence then are these things which thou seest but from Him whom thou seest not? But as I had begun to say, because these things were disesteemed by thee, He came Himself to do unusual things, that in these usual ones too thou mightest acknowledge thy Creator.<sup>3752</sup> He came to Whom it is said, “Renew signs.”<sup>3753</sup> To Whom it is said, “Show forth Thy marvellous mercies.”<sup>3754</sup> For dispensing them He ever was; He dispensed them, and no one marvelled. Therefore came He a Little one to the little, He came a Physician to the sick, who was able to come when He would, to return when He would, to do whatsoever He would, to judge as He would. And this, His will, is very righteousness; yea what He willeth, I say, is very righteousness. For that is not unrighteous which He willeth, nor can that be right which He willeth not. He came to raise the dead, men marvelling that He restored a man to the light who was in light already, He who day by day bringeth forth to the light those who were not.
 
@@ -341,7 +341,7 @@ beautiful form? from what beginnings? what contemptible beginnings? And he wonde
 
 *[p. 1003]* ^pg1029
 
-*On the words of the Gospel, John v. 19, ‘The Son can do nothing of Himself,…*
+*On the words of the Gospel, [[John 05#^5-19|John v. 19]], ‘The Son can do nothing of Himself,…*
 
 as to That Flesh; something thou seest, and something thou seest not. Lo, in this very Birth, there are at once two things, one which thou mayest see, and another thou mayest not see; but so that by this which thou seest, thou mayest believe that which thou seest not. Thou hadst begun to despise, because thou seest Him who was born; believe what thou dost not see, that He was born of a virgin. “How trifling a person,” says one, “is he who was born!” But how great is He who was of a virgin born! And He who was born of a virgin brought thee a temporal miracle; He was not born of a father, of any man, I mean, His father, yet was He born of the flesh. But let it not seem impossible to thee, that He was born by His mother only, Who made man before father and mother.
 
@@ -349,12 +349,12 @@ as to That Flesh; something thou seest, and something thou seest not. Lo, in thi
 
 7\. And He spake to men, and said what ye have now heard, “The Son can do nothing of Himself, but what He seeth the Father do.”<sup>3759</sup> Is there now any one, think we, that understandeth this? Is there any one, think we, in whom the eye-salve of the flesh hath now its effect to the discerning in any fashion the brightness of the Divinity? He hath spoken, let us speak too; He, because the Word; we, because of the Word. And why speak we, howsoever we do it, of the Word? Because we were made by the Word after the likeness of the Word. As far then as we are capable of, as far as we can be partakers of that ineffableness, let us also speak, and let us not be contradicted. For our faith hath gone before, so that we may say, “I believed, therefore have I spoken.”<sup>3760</sup> I speak then that which I believe; whether or no I also see, or howsoever I see; He seeth rather; ye cannot see it. But when I
 
-3757 Ps. xix. 5. 3758 John i. 1. 3759 John v. 19. 484
+3757 Ps. xix. 5. 3758 [[John 01#^1-1|John i. 1]]. 3759 [[John 05#^5-19|John v. 19]]. 484
 
 
 *[p. 1004]* ^pg1030
 
-*On the words of the Gospel, John v. 19, ‘The Son can do nothing of Himself,…*
+*On the words of the Gospel, [[John 05#^5-19|John v. 19]], ‘The Son can do nothing of Himself,…*
 
 shall have spoken, whether he who sees what I speak of, believe that I see too what I have spoken of, or whether he believe it not, what is that to me? Let him only really<sup>3761</sup> see, and let him believe what he will of me.
 
@@ -367,18 +367,18 @@ shall have spoken, whether he who sees what I speak of, believe that I see too w
 
 *[p. 1005]* ^pg1031
 
-*On the words of the Gospel, John v. 19, ‘The Son can do nothing of Himself,…*
+*On the words of the Gospel, [[John 05#^5-19|John v. 19]], ‘The Son can do nothing of Himself,…*
 
 Nevertheless, in order to understand those things which are higher, let us not decline these lower and mean things. First, let us set something before our eyes in this way; let us suppose there are two workmen, father and son. The father has made a chest, which the son could not make, unless he saw the father making it: he keeps his mind on the chest which the father has made, and makes another chest like it, not the same. I put off for a while the words which follow, and now I ask the Arian; “Dost thou understand it in the sense of this supposition? Hath the Father done something, which when the Son saw Him do, He too hath done something like it? For do the words by which thou art perplexed seem to have this meaning?” Now He doth not say, “The Son can do nothing of Himself, but what He heareth the Father enjoin.” But He saith, “The Son can do nothing of Himself, but what He seeth the Father do.” See, if thou understand it thus; the Father hath done something, and the Son attendeth that He may see what He Himself too hath to do; and that, some other thing like that which the Father had done. This which the Father hath done, by whom hath He done it? If not by the Son, if not by the Word, thou hast incurred the charge of blasphemy against the Gospel. “For all things were made by Him.” <sup>3765</sup> So then what the Father had done, He had done by the Word; if by the Word He had done it, He had done it by the Son. Who then is that other who attends, that He may do some other thing which he seeth the Father do? Ye have not been wont to say that the Father hath two sons: there is One, One Only-Begotten of Him. But through His mercy, Alone as regards His Divinity and not Alone as regards the inheritance. The Father hath made coheirs with His Only Son; not begotten them like Him of His Own Substance, but adopted them by Him out of His Own family. For “we have been called,” as Holy Scripture testifieth, “into the adoption of sons.”<sup>3766</sup>
 
 10\. What then sayest thou? It is the Only Son Himself That speaketh; the Only-Begotten Son speaketh in the Gospel: the Word Himself hath given us the words, we have heard Himself saying, “The Son can do nothing of Himself, but what He seeth the Father do.” Now then the Father doeth that the Son may see what to do; and nevertheless the Father doeth nothing but by the Son. Assuredly thou art confused, thou heretic, assuredly thou art confused; but thy confusion is as from taking hellebore, that thou mayest be cured. Even now thou canst not find thine own self, thou dost even thyself condemn thine own judgment and thy carnal view, I think. Put behind thee the eyes of the flesh, raise up what eyes thou hast in thine heart, behold things divine. They are men’s words it is true thou hearest, and by a man, by the Evangelist, by the Gospel thou hearest men’s words, as a man; but it is of the Word of God thou hearest, that thou mayest hear what is human, come to know what is Divine. The Master hath given trouble, that He might instruct; hath sown a difficulty,<sup>3767</sup>
 
-3765 John i. 3. 3766 Eph. i. 5. *Quæstionem*.
+3765 [[John 01#^1-3|John i. 3]]. 3766 [[Ephesians 01#^1-5|Eph. i. 5]]. *Quæstionem*.
 
 
 *[p. 1006]* ^pg1032
 
-*On the words of the Gospel, John v. 19, ‘The Son can do nothing of Himself,…*
+*On the words of the Gospel, [[John 05#^5-19|John v. 19]], ‘The Son can do nothing of Himself,…*
 
 that He might excite an earnest attention. “The Son can do nothing of Himself, but what He seeth the Father do.” It might follow<sup>3768</sup> that He should say, “For what things soever the Father doeth, the like doeth the Son.” This He doth not say; but, “What things soever the Father doeth, the same doeth the Son likewise.” The Father doeth not some things, the Son other things; because all things that the Father doeth, He doeth by the Son. The Son raised Lazarus; did not the Father raise him?<sup>3769</sup> The Son gave sight to the blind man; did not the Father give him sight?<sup>3770</sup> The Father by the Son in the Holy Ghost. It is the Trinity; but the Operation of the Trinity is One, the Majesty One, the Eternity One, the Coeternity One, and the Works the Same. The Father doth not create some men, the Son others, the Holy Ghost others; the Father and the Son and the Holy Ghost create one and the same man; and the Father and the Son and the Holy Ghost, One God, createth him.
 
@@ -388,12 +388,12 @@ that He might excite an earnest attention. “The Son can do nothing of Himself,
 
 3768 *Consequens*. 3769 John xi.
 
-3770 John ix. 3771 Gen. i. 26. 3772 Gen. i. 27. 3773 *Intentio*. 3774 *Merito*. 3775 John i. 1.
+3770 John ix. 3771 Gen. i. 26. 3772 Gen. i. 27. 3773 *Intentio*. 3774 *Merito*. 3775 [[John 01#^1-1|John i. 1]].
 
 
 *[p. 1007]* ^pg1033
 
-*On the words of the Gospel, John v. 19, ‘The Son can do nothing of Himself,…*
+*On the words of the Gospel, [[John 05#^5-19|John v. 19]], ‘The Son can do nothing of Himself,…*
 
 Father doeth, the same doeth the Son;’ I recognise an equality, hereby I understand, and comprehend as far as I am able, ‘I and My Father are One.’<sup>3777</sup> What meaneth it, that Thou canst do nothing, but what Thou seest the Father do? What meaneth this?”
 
@@ -401,20 +401,20 @@ Father doeth, the same doeth the Son;’ I recognise an equality, hereby I under
 
 14\. Christ thou seest Man and God; He doth manifest to thee the Man, God He reserveth for thee. Now see how He reserveth God for thee, who doth manifest Himself to thee as Man. “Whoso loveth Me,” saith He, “keepeth My commandments; whoso loveth Me shall be loved of My Father, and I will love him.”<sup>3780</sup> And as if it were asked, “What wilt Thou give to him whom Thou lovest?” “And I will manifest Myself,” saith He, “to him.” What meaneth this, Brethren? He whom they saw already, promised that He would manifest Himself to them. To whom? Those by whom He was seen, or those also by whom He was not seen? Thus speaking to a certain Apostle, who asked to see the Father, that it might suffice him, and said, “Show us the Father, and it sufficeth us” <sup>3781</sup>—Then He standing before this servant’s eyes, in the form of a servant, reserving for his eyes when<sup>3782</sup> deified<sup>3783</sup> the
 
-3777 John x. 30. 3778 Phil. ii. 6. 3779 Matt. v. 8.
+3777 [[John 10#^10-30|John x. 30]]. 3778 [[Philippians 02#^2-6|Phil. ii. 6]]. 3779 [[Matthew 05#^5-8|Matt. v. 8]].
 
-3780 John xiv. 21. 3781 John xiv. 8. 3782 *Deificati*. 3783 *Vid*. St. Athanasius, *Treatise against Arians*, Oxford edit. Nicene Def. ch. iii. 12, § 14 and Disc. 1, ch. xi. § 39, p. 336, and note *c*. *Vide* St. Augustin, *Ps*. 49, § 2.
+3780 [[John 14#^14-21|John xiv. 21]]. 3781 [[John 14#^14-8|John xiv. 8]]. 3782 *Deificati*. 3783 *Vid*. St. Athanasius, *Treatise against Arians*, Oxford edit. Nicene Def. ch. iii. 12, § 14 and Disc. 1, ch. xi. § 39, p. 336, and note *c*. *Vide* St. Augustin, *Ps*. 49, § 2.
 
 
 *[p. 1008]* ^pg1034
 
-*On the words of the Gospel, John v. 19, ‘The Son can do nothing of Himself,…*
+*On the words of the Gospel, [[John 05#^5-19|John v. 19]], ‘The Son can do nothing of Himself,…*
 
 Form of God, saith to him, “Have I been so long time with you, and have ye not known Me? He that seeth Me, seeth the Father also.” Thou askest to see the Father; see Me, thou seest Me, and dost not see Me. Thou seest what for thee I have assumed, thou dost not see What I have reserved for thee. Give ear to My commandments, purify thine eyes. “For whoso loveth Me, keepeth My commandments, and I will love him.” To him as keeping My commandments, and by My commandments made whole will I manifest Myself.
 
 15\. If then, Brethren, we are not able to see what the “Seeing” of the Word is, whither are we going? what Vision it may be with too great haste are we requiring? why are we 486 wishing to have shown us what we are not able to see? These things accordingly are spoken of which we desire to see, not as what we are able already to comprehend. For if thou seest the “Seeing” of the Word, peradventure in that thou seest the “Seeing” of the Word, thou wilt see the Word Himself; that the Word may not be one thing, the “Seeing” of the Word another, lest there be Therein anything joined, and coupled, and double, and compacted. For It is something Simple, of a Simplicity ineffable. Not as with a man, the man is one thing, the man’s seeing another. For sometimes a man’s seeing is extinguished, and the man remains. This it is of which I said that I was about to say something which all would not be able to understand; the Lord even grant that some may have understood. My Brethren, to this end doth He exhort us, that we may see, that the “Seeing” of the Word is beyond our powers; for they are small; be they nourished, perfected. Whereby? By the commandments. What commandments? “He that loveth Me, keepeth My commandments.”<sup>3784</sup> What commandments? For already do we wish to increase, to be strengthened, perfected, that we may see the “Seeing” of the Word. Tell us, Lord, now what commandments? “A new commandment I give unto you, that ye love one another.”<sup>3785</sup> This charity then, Brethren, let us draw from the plentifulness of the Fountain, let us receive it; be nourished by it. Receive thou<sup>3786</sup> that whereby thou mayest be able to receive. Let charity give thee birth, let charity nourish thee; charity bring thee to perfection, charity strengthen thee; that thou mayest see this “Seeing” of the Word, that the Word is not one thing and His “Seeing” another, but that the “Seeing” of the Word is the Very Word Himself; and so perhaps thou wilt soon understand that that which is said, “The Son can do nothing of Himself, but what He seeth the Father do,” is as if He had said, “The Son would not be, if He had not been born of the Father.” Let this suffice, Brethren; I know that I have said that which perhaps, if meditated upon, may develop itself to many, which oftentimes when expressed in words may chance to be obscured.<sup>3787</sup>
 
-3784 John xiv. 21. 3785 John xiii. 34. 3786 *Cape per quod sis capax*. See Tract. 18 and 20 in *Joh*. 487 3788 1 Cor. ii. 9. 3789 *Jacentem*.
+3784 [[John 14#^14-21|John xiv. 21]]. 3785 [[John 13#^13-34|John xiii. 34]]. 3786 *Cape per quod sis capax*. See Tract. 18 and 20 in *Joh*. 487 3788 [[1 Corinthians 02#^2-9|1 Cor. ii. 9]]. 3789 *Jacentem*.
 
 
 *[p. 1009]* ^pg1035
@@ -423,14 +423,14 @@ Form of God, saith to him, “Have I been so long time with you, and have ye not
 
 Sermon LXXVII.
 
-\[CXXVII. Ben.\] *On the words of the Gospel, John v. 25,“Verily, verily, I say unto you, the hour cometh,* *and now is, when the dead shall hear the voice of the son of God; and they that hear shall live,”etc.; and on the words of the apostle, “things which eye saw not,” etc., 1 Cor. ii. 9* 1. Our hope, Brethren, is not of this present time, nor of this world, nor in that happiness whereby men are blinded that forget God. This ought we above all things to know, and in a Christian heart hold fast, that we were not made Christians for the good things of the present time, but for something else which God at once promiseth, and man doth not yet comprehend. For of this good it is said, “That eye hath not seen, nor ear heard, neither hath it entered into the heart of man, what things God hath prepared for them that love Him.”<sup>3788</sup> Because then this good, so great, so excellent, so ineffable, fell not in with man’s understanding, it required God’s promise. For what hath been promised him, man blind of heart doth not now comprehend; nor can it be shown to him at present, what he will one day be to whom the promise is given. For so an infant child, if he could understand the words of one speaking, when himself could neither speak, nor walk, nor do anything, but feeble as we see he is, unable to stand, <sup>3789</sup> requiring the assistance of others, were able only to understand him who should speak to him and tell him, “Lo, as thou seest me walking, working, speaking, after a few years thou shall be as I am;” as he considered himself and the other, though he would see what was promised; yet considering his own feebleness, would not believe, and yet he would see what was promised. But with us infants, as it were, lying in this flesh and feebleness, that which is promised is at once great and is not seen; and so faith is aroused whereby we believe that we do not see that we may attain<sup>3790</sup> to see what we believe. Whosoever derideth this faith, so as to think that he is not to believe in that he doth not see; when that shall come which he believed not, is put to shame: being confounded is separated, being separated, is condemned. But whoso shall have believed, is put aside at the right hand, and shall stand with great confidence and joy among those to whom it shall be said, “Come, blessed of My Father, receive the kingdom which hath been prepared for you from the beginning of the world.”<sup>3791</sup> But the Lord made an end when He spake these words, thus, “These shall go into everlasting burning, but the righteous into life eternal.”<sup>3792</sup> This is the life eternal which is promised us.
+\[CXXVII. Ben.\] *On the words of the Gospel, [[John 05#^5-25|John v. 25]],“Verily, verily, I say unto you, the hour cometh,* *and now is, when the dead shall hear the voice of the son of God; and they that hear shall live,”etc.; and on the words of the apostle, “things which eye saw not,” etc., [[1 Corinthians 02#^2-9|1 Cor. ii. 9]]* 1. Our hope, Brethren, is not of this present time, nor of this world, nor in that happiness whereby men are blinded that forget God. This ought we above all things to know, and in a Christian heart hold fast, that we were not made Christians for the good things of the present time, but for something else which God at once promiseth, and man doth not yet comprehend. For of this good it is said, “That eye hath not seen, nor ear heard, neither hath it entered into the heart of man, what things God hath prepared for them that love Him.”<sup>3788</sup> Because then this good, so great, so excellent, so ineffable, fell not in with man’s understanding, it required God’s promise. For what hath been promised him, man blind of heart doth not now comprehend; nor can it be shown to him at present, what he will one day be to whom the promise is given. For so an infant child, if he could understand the words of one speaking, when himself could neither speak, nor walk, nor do anything, but feeble as we see he is, unable to stand, <sup>3789</sup> requiring the assistance of others, were able only to understand him who should speak to him and tell him, “Lo, as thou seest me walking, working, speaking, after a few years thou shall be as I am;” as he considered himself and the other, though he would see what was promised; yet considering his own feebleness, would not believe, and yet he would see what was promised. But with us infants, as it were, lying in this flesh and feebleness, that which is promised is at once great and is not seen; and so faith is aroused whereby we believe that we do not see that we may attain<sup>3790</sup> to see what we believe. Whosoever derideth this faith, so as to think that he is not to believe in that he doth not see; when that shall come which he believed not, is put to shame: being confounded is separated, being separated, is condemned. But whoso shall have believed, is put aside at the right hand, and shall stand with great confidence and joy among those to whom it shall be said, “Come, blessed of My Father, receive the kingdom which hath been prepared for you from the beginning of the world.”<sup>3791</sup> But the Lord made an end when He spake these words, thus, “These shall go into everlasting burning, but the righteous into life eternal.”<sup>3792</sup> This is the life eternal which is promised us.
 
-3790 *Mereamur*. 3791 Matt. xxv. 34.
+3790 *Mereamur*. 3791 [[Matthew 25#^25-34|Matt. xxv. 34]].
 
 
 *[p. 1010]* ^pg1036
 
-*On the words of the Gospel, John v. 25,’Verily, verily, I say unto you,…*
+*On the words of the Gospel, [[John 05#^5-25|John v. 25]],’Verily, verily, I say unto you,…*
 
 2\. Because men love to live on this earth, life is promised them; and because they exceedingly fear to die, eternal life is promised them. What dost thou love? To live. This shalt thou have. What dost thou fear? To die. Thou shalt not suffer it. This seemed to be enough for human infirmity, that it should be said, “Thou shalt have eternal life.” This the mind of man can comprehend, by its present condition it can in some sort comprehend what is to be. But by the imperfection of its present condition how far can it comprehend it? Because he lives, and does not wish to die; he loves eternal life, he wishes to live always, never to die. But they who shall be tormented in punishments, have even a wish to die, and cannot. It is no great thing then to live long, or to live for ever; but to live blessedly is a great thing. Let us love eternal life, and hereby may we know how greatly we ought to labour for eternal life, when we see men who love the present life, which lasts but for a time and must be brought to an end, labour so for it, that when the fear of death comes, they will do whatever they can, not to put away, but to put off death. How does a man labour, when death threatens, by flight, by concealment, by giving all he has, and redeeming himself, by toil, by endurance of torments and uneasinesses, by calling in physicians, and whatever else a man can do? See, how that after exhausting all his labour and his means, he is but able to contrive to live a little longer; to live always, he is not able. If then men strive with so great labour, with so great efforts, so great a cost, such earnestness, such watchfulness, such carefulness, that they may live a little longer; how should they strive that they may live for ever? And if they are called wise, who by all means strive to put off death, and live a few days, that they lose not a few days: how foolish are they who so live as to lose the day eternal!
 
@@ -438,7 +438,7 @@ Sermon LXXVII.
 
 *[p. 1011]* ^pg1037
 
-*On the words of the Gospel, John v. 25,’Verily, verily, I say unto you,…*
+*On the words of the Gospel, [[John 05#^5-25|John v. 25]],’Verily, verily, I say unto you,…*
 
 thing, thou wouldest get ready gold, or silver, or money, or any increase of cattle, or fruits, which might be produced in thy possessions, to buy this I know not what great and excellent thing, whereby to live in this earth happily. Buy this too, if thou wilt. Do not look for what thou hast, but for what thou art. The price of this thing is thyself. Its price is what thou art thyself. Give thine own self, and thou shalt have it. Why art thou troubled? why disquieted? What? Art thou going to seek for thine own self, or to buy thyself? Lo, give thine own self as thou art, such as thou art to that thing, and thou shalt have it. But you will say, “I am wicked, and perhaps it will not accept me.” By giving thyself to it, thou wilt be good. The giving thyself to this faith and promise, this is to be good. And when thou shalt be good, thou wilt be the price of this thing; and shalt have, not only what I have mentioned, health, safety, life, and life without end; thou shalt not only have this, I will take away other things yet. There shall there be no weariness, and sleeping; there shall there be no hunger, and thirst; there shall there be no growing, and growing old; because there shall be no birth either where the numbers remain entire. The number that is there is entire; nor is there any need for it to be increased, seeing there is no chance of diminution there. Lo, how many things have I taken away, and I have not yet said what shall be there. Lo, already there is life, and safety; no scourge, no hunger, no thirst, no failing, none of these; and yet I have not said, “what eye hath not seen, nor ear heard, nor hath ascended into the heart of man.” For if I have said it, it is false that is written, “Eye hath not seen, nor ear heard, neither hath it ascended into the heart of man.” For whence should it ascend into my heart, that I should say “that which hath not ascended into the heart of man”? It is believed, and not seen; not only not seen, but not even expressed. How then is it believed, if it is not expressed? Who believes what he doth not hear? But if he hear it that he may believe, it is expressed; if expressed, it is thought of; if thought of and expressed, then it entereth into the ears of men. 488
 
@@ -448,7 +448,7 @@ And because it would not be expressed if it were not thought of, it hath ascende
 
 *[p. 1012]* ^pg1038
 
-*On the words of the Gospel, John v. 25,’Verily, verily, I say unto you,…*
+*On the words of the Gospel, [[John 05#^5-25|John v. 25]],’Verily, verily, I say unto you,…*
 
 begotten, it occurs to him; “Therefore there was a time, when he who was begotten was not.” What say we then? Not so; there was no time before the Son, for that “all things were made by Him.”<sup>3794</sup> If all things were made by Him, times also were made by Him; how could times be before the Son, by whom times were made? Take away then all times, the Son was with the Father always. If the Son were with the Father always, and yet the Son, He was begotten always; if begotten always, He who was begotten was always with Him That begat Him.
 
@@ -456,12 +456,12 @@ begotten, it occurs to him; “Therefore there was a time, when he who was begot
 
 6\. Lo, unto the comprehending of what are we being nourished up; lo, unto the embracing and the feeding on what are we being nourished up; yet so as that that which is fed on is not diminished, and he that feedeth is supported. For now food supports us by eating it; but the food which is eaten, is diminished; but when we shall begin to feed on Righteousness, to feed on Wisdom, to feed on that Food Immortal, we are at once supported, and That Food is not diminished. For if the eye knows how to feed on light, and yet doth not diminish the light; for the light will be no less because it is seen by more; it feeds the eyes of more, and yet is as great as it was before: both they are fed, and it is not diminished; if God hath granted this to the light which He hath made for the eyes of the flesh, what is He Himself, the Light for the eyes of the heart? If then any choice<sup>3797</sup> food were praised to thee, on which thou wast to dine, thou wouldest prepare the stomach; God is praised to thee, prepare the heart.
 
-3794 John i. 3. 3795 2 Cor. v. 6, 7. 3796 1 John iii. 2. *Magnus*.
+3794 [[John 01#^1-3|John i. 3]]. 3795 [[2 Corinthians 05#^5-6|2 Cor. v. 6]], [[2 Corinthians 05#^5-7|7]]. 3796 [[1 John 03#^3-2|1 John iii. 2]]. *Magnus*.
 
 
 *[p. 1013]* ^pg1039
 
-*On the words of the Gospel, John v. 25,’Verily, verily, I say unto you,…*
+*On the words of the Gospel, [[John 05#^5-25|John v. 25]],’Verily, verily, I say unto you,…*
 
 7\. Behold what thy Lord saith to thee: “The hour shall come,” saith He, “and now is.” “The hour shall come,” yea, that very hour, “now is, when”—what? “when the dead shall hear the Voice of the Son of God, and they that shall hear shall live.” They then that shall not hear, shall not live. What is, “They that shall hear”? They that shall obey. What is, “They that shall hear”? They that shall believe and obey, they shall live. So then before they believed and obeyed, they lay dead; they walked, and were dead. What availed it to them, that they walked, being dead? And yet if any among them were to die a bodily death, they would run, get ready the grave, wrap him up, carry him out, bury him, the dead, the dead; of whom it is said, “Let the dead bury their dead.”<sup>3798</sup> Such dead as these are in such wise raised by the Word of God, as to live in faith. They who were dead in unbelief, are aroused by the Word. Of this hour said the Lord, “The hour shall come, and now is.” For with His Own Word did He raise them that were dead in unbelief; of whom the Apostle says, “Arise thou that sleepest, and rise up from the dead, and Christ shall give thee light.”<sup>3799</sup> This is the resurrection of hearts, this is the resurrection of the inner man, this is the resurrection of the soul.
 
@@ -469,23 +469,23 @@ begotten, it occurs to him; “Therefore there was a time, when he who was begot
 
 9\. When He had said, “Verily I say unto you, The hour shall come, and now is, when the dead,” that is, the unbelievers, “shall hear the Voice of the Son of God,” that is, the Gospel, “and they that shall hear,” that is, that shall obey, “shall live,” that is, shall be justified, and shall be unbelievers no longer; when, I say, He had said this, forasmuch as He saw that we had need to be instructed as to the resurrection of the flesh also, and were not to be left thus, He went on and said, “For as the Father hath life in Himself, so hath He given to the Son to have life in Himself.” This refers to the resurrection of souls, to the quickening of
 
-3798 Matt. viii. 22. 3799 Eph. v. 14. 2 Thess. iii. 2.
+3798 [[Matthew 08#^8-22|Matt. viii. 22]]. 3799 [[Ephesians 05#^5-14|Eph. v. 14]]. [[2 Thessalonians 03#^3-2|2 Thess. iii. 2]].
 
 
 *[p. 1014]* ^pg1040
 
-*On the words of the Gospel, John v. 25,’Verily, verily, I say unto you,…*
+*On the words of the Gospel, [[John 05#^5-25|John v. 25]],’Verily, verily, I say unto you,…*
 
 souls. Then He added, “And hath given Him power to execute judgment also, because He is the Son of Man.” This Son of God, is Son of Man. For if the Son of God had continued the Son of God, and had not been made the Son of Man, He would not have delivered the sons of men. He who had made man, was Himself made that which He made, that what He made might not perish. But He was in such wise made the Son of Man, as to continue the Son of God. For He was made Man by assuming that which He was not, not by losing That which He was; continuing God, He was made Man. He took thee, He was not consumed in thee. As such then came He to us, the Son of God, and Son of Man, the Maker and the Made, the Creator and the Created; the Creator of His mother, Created of His mother; such came He to us. In respect of His being the Son of God, He saith, “The hour shall come, and now is, when the dead shall hear the Voice of the Son of God.” He did not say, “Of the Son of Man;” for He was impressing the truth, wherein He is equal to the Father. “And they that shall hear shall live. For as the Father hath life in Himself, so hath He given to the Son to have life in Himself;” not by participation, but in our God. But He, the Father, hath life in Himself; and He begat such a Son as should have life in Himself; not be made a partaker of life, but Himself be Life, of which life we should be partakers; that is, should have life in Himself, and Himself be Life. But that He should be made the Son of Man, He took from us. Son of God in Himself; that He should be the Son of Man, He took from us. Son of God of That which is His Own, Son of Man of ours. That which is the less, took He from us; That which is the more, gave He to us. For thus He died in that He is the Son of Man, not in that He is the Son of God. Yet the Son of God died; but He died in respect to the flesh, not in respect to “the Word which was made flesh, and dwelt among us.”<sup>3801</sup> So then in that He died, He died of that which was ours; in that we live, we live of That which is His. He could not die of That which was His own, nor could we live of that which is our own. As God then, as the Only-Begotten, as equal with Him who begat Him, did the Lord Jesus impress this upon us, that if we hear, we shall live.
 
 10\. But, saith He, “He hath given Him power to execute judgment also, because He is the Son of Man.” So then that Form is to come to judgment. The Form of Man is to come to judgment; therefore He said, “He hath given Him power to execute judgment also, because He is the Son of Man.” The Judge here shall be the Son of Man; here shall That Form judge which was judged. Hear and understand: the Prophet had said this already, “They shall look on Him whom they pierced.” <sup>3802</sup> That Very Form shall they see which they smote with a spear. He shall sit as Judge, Who stood at the judge’s seat. He shall condemn the real criminals, Who was made a criminal falsely. He shall come Himself, That Form shall come. This
 
-3801 John i. 14. Zech. xii. 10; John xix. 37.
+3801 [[John 01#^1-14|John i. 14]]. Zech. xii. 10; [[John 19#^19-37|John xix. 37]].
 
 
 *[p. 1015]* ^pg1041
 
-*On the words of the Gospel, John v. 25,’Verily, verily, I say unto you,…*
+*On the words of the Gospel, [[John 05#^5-25|John v. 25]],’Verily, verily, I say unto you,…*
 
 you find in the Gospel too; when before the eyes of His disciples He was going into heaven, they stood and looked on, and the Angelic voice spake, “Ye men of Galilee, why stand ye,” etc. “This Jesus shall come in like manner as ye see Him going into heaven.”<sup>3803</sup> What is, “shall come in like manner”? Shall come in this Very Form. For “He hath given Him power 490
 
@@ -495,12 +495,12 @@ to execute judgment, because He is the Son of Man.” Now see on what principle 
 
 12\. Shall then the wicked man see God too? of whom Isaiah saith, “Let the ungodly be taken away, that he see not the Glory of God.”<sup>3806</sup> Both the ungodly and the godly then shall see that Form; and when the sentence, “Let the ungodly be taken away that he see not the Glory of God,” shall have been pronounced; it remains that as to the godly and the good, that be fulfilled which the Lord Himself promised, when He was here in the flesh, and seen not by the good only, but by the evil also. He spake amongst the good and evil, and was seen of all, as God, hidden, as Man, manifested; as God ruling men, as Man appearing among men: He spake, I say, among them, and said, “Whoso loveth Me, keepeth My commandments; and he that loveth Me, shall be loved of My Father, and I will love him.”<sup>3807</sup> And as if it were said to Him, And what wilt Thou give him? And “I will,” He saith, “manifest Myself
 
-3803 Acts i. 11. 3804 Matt. v. 8. 3805 1 Cor. ii. 9. 3806 Isa. xxvi. 10, Sept. 491 3808 1 John iii. 2. 3809 John xvii. 3.
+3803 [[Acts 01#^1-11|Acts i. 11]]. 3804 [[Matthew 05#^5-8|Matt. v. 8]]. 3805 [[1 Corinthians 02#^2-9|1 Cor. ii. 9]]. 3806 Isa. xxvi. 10, Sept. 491 3808 [[1 John 03#^3-2|1 John iii. 2]]. 3809 [[John 17#^17-3|John xvii. 3]].
 
 
 *[p. 1016]* ^pg1042
 
-*On the words of the Gospel, John v. 25,’Verily, verily, I say unto you,…*
+*On the words of the Gospel, [[John 05#^5-25|John v. 25]],’Verily, verily, I say unto you,…*
 
 to him.” When did He say this? When He was seen by men. When did He say this? When He was seen even by them, by whom He was not loved. How then was He to manifest Himself to them that loved Him, save in Such a Form, as they who loved Him then saw not? Therefore, seeing that the Form of God was being reserved, the Form of man manifested; by the Form of man, speaking to men, conspicuous and visible, He manifested Himself to all, both good and bad, He reserved Himself for them that loved Him.
 
@@ -508,4 +508,4 @@ to him.” When did He say this? When He was seen by men. When did He say this? 
 
 14\. Speaking then of the future resurrection of the body, and not leaving us thus, He saith, “He hath given Him power to execute judgment also, because He is the Son of Man. Marvel not at this, for the hour shall come.” He did not add in this place, “and now is;” because this hour shall be hereafter, because this hour shall be at the end of the world, because this shall be the last hour, shall be at the last trump. “Marvel not at this,” because I have said, “He hath given Him power to execute judgment also, because He is the Son of Man. Marvel not.” For this reason have I said this, because it behoves Him as Man to be judged by men. And what men shall He judge? Those whom He finds alive? Not only those, but what? “The hour shall come, when they that are in the graves.”<sup>3811</sup> How did He express those that are dead in the flesh? “They who are in the graves,” whose corpses lie buried, whose ashes are covered up, whose bones are dispersed, whose flesh is flesh no more, and yet is entire to God. “The hour shall come, when all that are in the graves shall hear His Voice, and shall
 
-3810 Matt. xxv. 34.
+3810 [[Matthew 25#^25-34|Matt. xxv. 34]].

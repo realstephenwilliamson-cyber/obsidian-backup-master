@@ -27,7 +27,7 @@ ahamapyata evādhaḥśāstradṛṣṭikutūhalāt || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#^pg359|p. 337]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=359>))
 >
-> The venerable teacher Kallaṭa has said: ‘I, who have had (many) teachers from Tapana to Moṭaka, and have been the disciple of all, am not poor in the teachings. (with 13.344–345ab)
+> The venerable teacher Kallaṭa has said: ‘I, who have had (many) teachers from Tapana to Moṭaka, and have been the disciple of all, am not poor in the teachings.’ (with 13.344–345ab)
 >
 > Thus, I myself also, (for this very reason,) out of curiosity (to know) the view of inferior scriptures, have attended on teachers (of all sorts), including logicians, Vedikas, Buddhists, Jainas and Vaiṣṇavas. (with 13.345cd–346ab)
 

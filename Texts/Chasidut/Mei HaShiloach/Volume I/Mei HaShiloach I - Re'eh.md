@@ -51,7 +51,7 @@ The language of warning is doubled here, saying “be careful,” and then “le
 ## Teaching 5
 
 *“Only in the place that God shall choose .…”* ([[Torah 47 - Re'eh#^12-14|Devarim, 12:14]])  
-From this we learn the way of prayer, how to pray to God, as it is written in the Gemara ([[Berakhot 28#28b|*Berachot*, 28b]]), “direct your heart to the house of the Holy of Holies.” When you want to pray, see to it that from the outset that the matter that you want to pray for is God’s will. This is the meaning of “direct your heart to the house of the Holy of Holies.” We understand this by saying that if you then have the desire to pray and your lips are filled with its bounty (i.e, the prayer comes naturally), you can then know that it is God’s will, and you will understand that the entire matter is from God. This is explained in the Mei HaShiloach in *Parshat Va’etchanan*. In this way King David said ([[I Chronicles 17#^17-25|Divrei haYamim 1, 17:25]]), “You have uncovered the ear of Your servant [to hear Your command] … therefore Your servant has found it possible to pray.”
+From this we learn the way of prayer, how to pray to God, as it is written in the Gemara (*Berachot*, [[Berakhot 28#28b|28b]]), “direct your heart to the house of the Holy of Holies.” When you want to pray, see to it that from the outset that the matter that you want to pray for is God’s will. This is the meaning of “direct your heart to the house of the Holy of Holies.” We understand this by saying that if you then have the desire to pray and your lips are filled with its bounty (i.e, the prayer comes naturally), you can then know that it is God’s will, and you will understand that the entire matter is from God. This is explained in the Mei HaShiloach in *Parshat Va’etchanan*. In this way King David said ([[I Chronicles 17#^17-25|Divrei haYamim 1, 17:25]]), “You have uncovered the ear of Your servant [to hear Your command] … therefore Your servant has found it possible to pray.”
 
 **Torah:** [[Torah 45 - Vaetchanan#^3-23|Deuteronomy 3:23–7:11]], [[Torah 47 - Re'eh#^12-5|Deuteronomy 12:5]], [[Torah 47 - Re'eh#^12-14|Deuteronomy 12:14]]
 
@@ -86,6 +86,6 @@ By eating before God, the fear of God will come to man’s heart. A man’s mind
 ## Teaching 10
 
 *“And you shall rejoice before Hashem your God, you and sons and daughters and servants, and the Levi who is within your gates, and the stranger, and the orphan, and the widow who are among you, in the place that Hashem your God chooses to cause his name to dwell there.”* ([[Torah 47 - Re'eh#^16-11|Devarim, 16:11]])  
-With all the other festivals it is written, “within your gates,” (*Devarim* [[Torah 47 - Re'eh#^16-5|16:5]], 14) and here, with Shevuot, the verse adds the words “who are among you.” This is because with Shevuot and the giving of the Torah, it is said ([[Nedarim 81#81a|*Nedarim*, 81a]]), “be careful regarding the poor, for from them shall go forth the Torah.”
+With all the other festivals it is written, “within your gates,” (*Devarim* [[Torah 47 - Re'eh#^16-5|16:5]], 14) and here, with Shevuot, the verse adds the words “who are among you.” This is because with Shevuot and the giving of the Torah, it is said (*Nedarim*, [[Nedarim 81#81a|81a]]), “be careful regarding the poor, for from them shall go forth the Torah.”
 
 **Torah:** [[Torah 47 - Re'eh#^16-11|Deuteronomy 16:11]]

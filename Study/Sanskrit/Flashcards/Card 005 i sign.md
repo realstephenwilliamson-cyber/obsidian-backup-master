@@ -20,17 +20,13 @@ nyasa: "right eye (*dṛk*), as i"
 ## Front
 
 - **Glyph:** ◌ि
-- **Variation:** —
 - **Example:** मुक्ति, चित्त
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘l<u>i</u>ter’ or ‘p<u>i</u>n’
-- **Class (as printed):** 2 (palatal) · short, soft · simple vowel
-- **Note (no printed label):** Abbreviation - used only after a consonant
-- **Grid:** the vowel signs ा ि ी ु ू / े ै ो ौ; in bold: ि
-- **Example:** mukti (freedom) · citta (consciousness)
+> [!note]- Back
+> - **Pronunciation:** As in ‘l<u>i</u>ter’ or ‘p<u>i</u>n’
+> - **Class:** palatal · short, soft · simple vowel
+> - ा <u>ि</u> ी ु ू / े ै ो ौ
+> - **Example:** mukti (freedom) · citta (consciousness)
 
 ## Register
 

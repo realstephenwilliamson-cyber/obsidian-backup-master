@@ -16,11 +16,11 @@ The text is a fresh OCR of the 1859 print (Tesseract, English); check quotations
 
 *[p. 97]* ^pg121
 
-according to the words He spake, ‘Ye are the light of the Mat. v. 14. “world.” And of this appointment of the holy Apostles, the blessed David also makes mention, addressing himself, as it were, to Christ: “ Thou shalt make them rulers over all the Ps. xiv. 16. “ earth; they shall make mention of Thy name in every successive generation.” For verily, while they were in the body, they made mention of the glory of Christ, telling His mystery both in eities and villages: and now that they have been called to the mansions that are above, none the less do they still even thus converse with us about Him, by the most wise history which they have written concerning Him. And those, indeed, who were appointed priests according to the law of Moses, even Aaron and his company, were made beautiful to the senses by vestments suitable to their priestly dignity ; but the divine disciples, being adorned with spiritual gifts, had entrusted to them the ministry of the Gospel oracles. For it was said unto them, “ Heal the sick: cast out demons: eleanse Mat. x. 8. “lepers: raise the dead.” And being thus invested with Christ’s power, they have filled the whole world with astonishment. But mark the extreme moderation of the Evangelist: for he does not simply say that the holy Apostles were appointed, but rather, by introducing the record of these chief ones each by name, takes eare that no one should venture to enrol himself in the company of those that were chosen. For as Paul saith, «No man taketh this honour upon himself, but he that is Heb. v. 4. “ ealled by God.’ And though the holy Apostles were ealled by name to this great and splendid dignity, yet from time to time some men have gone to such a pitch of madness and audacity, as even to name themselves Apostles of Christ, and to usurp an honour not granted unto them. Of these the divine disciples have made mention; for they say, ‘Such are false <sup>2</sup>Cor.xi.13. “ apostles, deceitful workers, transforming themselves into angels “ of righteousness. And no wonder: for Satan even transforms “ himself into an angel of light. It is no great thing, there- “ fore, if his ministers also trausform themselves into angels of “ righteousness.” But we neither acknowledge nor will receive any one, exeept those only so named in the Evangelie writings, and him who was appointed after them, the most wise Paul: to whom also the Saviour Himself bore witness, saying, that ty)
+according to the words He spake, ‘Ye are the light of the [[Matthew 05#^5-14|Mat. v. 14]]. “world.” And of this appointment of the holy Apostles, the blessed David also makes mention, addressing himself, as it were, to Christ: “ Thou shalt make them rulers over all the Ps. xiv. 16. “ earth; they shall make mention of Thy name in every successive generation.” For verily, while they were in the body, they made mention of the glory of Christ, telling His mystery both in eities and villages: and now that they have been called to the mansions that are above, none the less do they still even thus converse with us about Him, by the most wise history which they have written concerning Him. And those, indeed, who were appointed priests according to the law of Moses, even Aaron and his company, were made beautiful to the senses by vestments suitable to their priestly dignity ; but the divine disciples, being adorned with spiritual gifts, had entrusted to them the ministry of the Gospel oracles. For it was said unto them, “ Heal the sick: cast out demons: eleanse Mat. x. 8. “lepers: raise the dead.” And being thus invested with Christ’s power, they have filled the whole world with astonishment. But mark the extreme moderation of the Evangelist: for he does not simply say that the holy Apostles were appointed, but rather, by introducing the record of these chief ones each by name, takes eare that no one should venture to enrol himself in the company of those that were chosen. For as Paul saith, «No man taketh this honour upon himself, but he that is [[Hebrews 05#^5-4|Heb. v. 4]]. “ ealled by God.’ And though the holy Apostles were ealled by name to this great and splendid dignity, yet from time to time some men have gone to such a pitch of madness and audacity, as even to name themselves Apostles of Christ, and to usurp an honour not granted unto them. Of these the divine disciples have made mention; for they say, ‘Such are false <sup>2</sup>Cor.xi.13. “ apostles, deceitful workers, transforming themselves into angels “ of righteousness. And no wonder: for Satan even transforms “ himself into an angel of light. It is no great thing, there- “ fore, if his ministers also trausform themselves into angels of “ righteousness.” But we neither acknowledge nor will receive any one, exeept those only so named in the Evangelie writings, and him who was appointed after them, the most wise Paul: to whom also the Saviour Himself bore witness, saying, that ty)
 
 *[p. 98]* ^pg122
 
-Acts ix. 15.
+[[Acts 09#^9-15|Acts ix. 15]].
 
 Lev.xxiv.5.
 
@@ -34,9 +34,9 @@ Conf. upon ver 3.
 
 of sermons.
 
-m \[pn the original dpros both means “ bread,” and a “ loaf:” but this identity of the terms cannot be preserved in the translation. n Similarly on Mat. v. 13. the Catenist quotes from S. Cyril, Gas Kadet thy ppdynow.
+m \[pn the original dpros both means “ bread,” and a “ loaf:” but this identity of the terms cannot be preserved in the translation. n Similarly on [[Matthew 05#^5-13|Mat. v. 13]]. the Catenist quotes from S. Cyril, Gas Kadet thy ppdynow.
 
-Mat. v. 14. 2 Cor. ii.13. Ps. lxviii. OGc Phil. ii. 16. 1 Mai’s difficulty from finding that this passage is quoted in two codices as from a homily of S. Cyril, and also that occasionally direct addresses are made as to persons pregent, is cleared up by the Syriac, which shews that the whole commentary was delivered in a course
+[[Matthew 05#^5-14|Mat. v. 14]]. [[2 Corinthians 02#^2-13|2 Cor. ii.13]]. Ps. lxviii. OGc [[Philippians 02#^2-16|Phil. ii. 16]]. 1 Mai’s difficulty from finding that this passage is quoted in two codices as from a homily of S. Cyril, and also that occasionally direct addresses are made as to persons pregent, is cleared up by the Syriac, which shews that the whole commentary was delivered in a course
 
 *[p. 99]* ^pg123
 
@@ -58,7 +58,7 @@ But observe, I pray, the manner of the election. For the From Mai. most wise Eva
 
 *[p. 100]* ^pg124
 
-Luke v. 17.
+[[Luke 05#^5-17|Luke v. 17]].
 
 Conf. p.81.
 
@@ -114,7 +114,7 @@ Ver. 20.
 
 From the Syriac.
 
-Mat. v. 3.
+[[Matthew 05#^5-3|Mat. v. 3]].
 
 From Mai.
 
@@ -122,7 +122,7 @@ Ts. Ixvi. 2.
 
 Ps. li. 17.
 
-Mat. xi. 29.
+[[Matthew 11#^11-29|Mat. xi. 29]].
 
 From the Syriac.
 
@@ -140,9 +140,9 @@ Such a one is worthy of admiration, and the friend of God ; yea, He even said by
 
 *[p. 103]* ^pg127
 
-And so the most wise Paul manifestly guides us into the best doctrines, where he says, “ Let your disposition be free from Heb. xiii. 5. “the love of money, being contented with what it has: and to this he has added, that “having nourishment and the means of : Tim. vi. 8. “ shelter, we will be therewith content.” For it was necessary, absolutely necessary, for those whose business it would be to proclaim the saving message of the Gospel to have a mind careless about wealth, and ‘occupied solely with the desire of better things. The argument, however, does not affect all whose means are abundant, but those only whose desire is set upon riches: and who are these? All to whom our Saviour's words apply: “Store not up for yourselves treasures upon the Mat. vi. 19. “ earth.”
+And so the most wise Paul manifestly guides us into the best doctrines, where he says, “ Let your disposition be free from [[Hebrews 13#^13-5|Heb. xiii. 5]]. “the love of money, being contented with what it has: and to this he has added, that “having nourishment and the means of : Tim. vi. 8. “ shelter, we will be therewith content.” For it was necessary, absolutely necessary, for those whose business it would be to proclaim the saving message of the Gospel to have a mind careless about wealth, and ‘occupied solely with the desire of better things. The argument, however, does not affect all whose means are abundant, but those only whose desire is set upon riches: and who are these? All to whom our Saviour's words apply: “Store not up for yourselves treasures upon the [[Matthew 06#^6-19|Mat. vi. 19]]. “ earth.”
 
-Blessed are ye that hunger now ; for ye shall be filled. — Ver. 21. In Matthew, however, again He says; “Blessed are they Mat. v. 6. “ that hunger and thirst after righteousness: for they shall be “filled :” but here He simply says, that ‘those that hunger “shall be filled.” We say, therefore, that it is a great and noble thing to hunger and thirst after righteousness: that 1s, habitually to take part in earnest endeavours after piety :—for such is the meaning of righteousness :—as if it were our meat and drink. And inasmuch as we ought to give to this passage also a meaning, in accordance with the foregoing explanations, we say again as follows: The Saviour pronounced those blessed who love a voluntary poverty, to enable them honourably, and without distraction, to practise the apostolic course of life. For it is in plain keeping with the having neither gold nor silver in their purses, nor two coats, to endure also very great hardness in their way of life, and scarcely obtain food for their need. But this is a burdensome thing for those who are suffering poverty and persecutions, and therefore He That knoweth hearts, very suitably does not permit us to be dispirited because of the results of poverty: for He says, that those who hunger now for their piety’s sake towards Him shall be filled : that is, they shall enjoy the intellectual and spiritual blessings that are in store.
+Blessed are ye that hunger now ; for ye shall be filled. — Ver. 21. In Matthew, however, again He says; “Blessed are they [[Matthew 05#^5-6|Mat. v. 6]]. “ that hunger and thirst after righteousness: for they shall be “filled :” but here He simply says, that ‘those that hunger “shall be filled.” We say, therefore, that it is a great and noble thing to hunger and thirst after righteousness: that 1s, habitually to take part in earnest endeavours after piety :—for such is the meaning of righteousness :—as if it were our meat and drink. And inasmuch as we ought to give to this passage also a meaning, in accordance with the foregoing explanations, we say again as follows: The Saviour pronounced those blessed who love a voluntary poverty, to enable them honourably, and without distraction, to practise the apostolic course of life. For it is in plain keeping with the having neither gold nor silver in their purses, nor two coats, to endure also very great hardness in their way of life, and scarcely obtain food for their need. But this is a burdensome thing for those who are suffering poverty and persecutions, and therefore He That knoweth hearts, very suitably does not permit us to be dispirited because of the results of poverty: for He says, that those who hunger now for their piety’s sake towards Him shall be filled : that is, they shall enjoy the intellectual and spiritual blessings that are in store.
 
 ¥ e¥ayodov literally signifies, “being unoccupied with other “having abundant leisure for as “things.”
 
@@ -192,9 +192,9 @@ C.vi 24...
 
 From the Syriac. ¢ MS.14,351.
 
-Mat. iv. 4.
+[[Matthew 04#^4-4|Mat. iv. 4]].
 
-Heb. i. 1.
+[[Hebrews 01#^1-1|Heb. i. 1]].
 
 1Thes.iv.9.
 
@@ -258,7 +258,7 @@ Woe unto you rich ; For ye have received your consolation. This too we must disc
 
 y\*‘ Or bountifully,’ én’ etdAoyiats.
 
-In this and similar passages evdoyia (Syr. j4a;&lt;a,) is used as the equie.g. Theophylact on Rom. xv. 29. “TI know that I shall come in the “fulness of the blessing of the
+In this and similar passages evdoyia (Syr. j4a;&lt;a,) is used as the equie.g. Theophylact on [[Romans 15#^15-29|Rom. xv. 29]]. “TI know that I shall come in the “fulness of the blessing of the
 
 valent of the Hebrew 7272, literally, ‘a blessing,’ but implying a present ; cf. for instance Gen. xxxiii.
 
@@ -266,7 +266,7 @@ valent of the Hebrew 7272, literally, ‘a blessing,’ but implying a present ;
 
 25\. 7972 te? signifies anima munifica, ‘a liberal man.’ It is important to bear in mind this meaning of evAvyia, as the fathers often make an unexpected use of it, “ gospel of Christ,” explains blessing by almsgiving; Atvvaca evdoyiav THy eXennootwny vonoat: so that the sense, he says is, I shall find you perfect in almsgiving and mutual love. In the Western Church benedictio frequently means bounty, as may be seen in Du Cange, who explains it thus: “ Benedictio- ‘nes, eulogiz, munera: maxime ea “ xenia quie a sacerdotibus et clericis mitti solebant, ab iis benedic- “ tione sua sanctificata.”’
 
-2 Cor. ix. 6.
+[[2 Corinthians 09#^9-6|2 Cor. ix. 6]].
 
 From Mai.
 
@@ -296,14 +296,14 @@ The blessed Paul speaks the truth where he says, that ‘if ‘any one be in Chr
 
 The exhortation of our Lord therefore was necessary for the
 
-cai. Luke xxiii. 34-Acts vii.60. 1 Cor. iv.
+cai. [[Luke 23#^23-34|Luke xxiii. 34]]-[[Acts 07#^7-60|Acts vii.60]]. 1 Cor. iv.
 
 *[p. 111]* ^pg135
 
 holy apostles, and most useful for us also, to oblige us to live rightly and admirably : for it is full of all philosophy?. But our mistaken preconceived ideas, and the fierce tyranny of our passions, render it a thing dificult for our minds to accomplish : and therefore knowing that the natural? man docs not admit |
-of these things, regarding as folly and mere impossibilities the oracles of the Spirit, He separates such fiom those able to hear, and says, “ I speak unto you that hear and are prepared Ver. 27. “ yeadily to perform My words.” For the gloriousness of spiritual fortitude is displayed in temptations and labours. Imitate therefore in these things Christ, “ Who when He was 1 Pet.ii. 23. yeviled, reviled not again, suffering He threatened not, but “committed Himself to Him that judgeth righteously.” But perhaps thou wilt object, saying within thyself, ‘Christ was ‘God, but I a frail man, having but a feeble mind, and one ‘unable to resist the attack of covetousness and pain.’ Thou speakest rightly: for the mind of man easily slides into wrong doing. Nevertheless, I say, The Lord has not left thee destitute of His compassion and love: thou hast Him by thee, yea within thee, by the Holy Ghost: for we are His abode, and He lodgeth in the souls of them that love Him. He gives thee strength to bear nobly whatever befals, and to resist manfully the attacks of temptations. ‘Be not overcome therefore by Rom. xii. “ theb evil, but overcome the evil in the good.” Bic
+of these things, regarding as folly and mere impossibilities the oracles of the Spirit, He separates such fiom those able to hear, and says, “ I speak unto you that hear and are prepared Ver. 27. “ yeadily to perform My words.” For the gloriousness of spiritual fortitude is displayed in temptations and labours. Imitate therefore in these things Christ, “ Who when He was [[1 Peter 02#^2-23|1 Pet.ii. 23]]. yeviled, reviled not again, suffering He threatened not, but “committed Himself to Him that judgeth righteously.” But perhaps thou wilt object, saying within thyself, ‘Christ was ‘God, but I a frail man, having but a feeble mind, and one ‘unable to resist the attack of covetousness and pain.’ Thou speakest rightly: for the mind of man easily slides into wrong doing. Nevertheless, I say, The Lord has not left thee destitute of His compassion and love: thou hast Him by thee, yea within thee, by the Holy Ghost: for we are His abode, and He lodgeth in the souls of them that love Him. He gives thee strength to bear nobly whatever befals, and to resist manfully the attacks of temptations. ‘Be not overcome therefore by Rom. xii. “ theb evil, but overcome the evil in the good.” Bic
 
-To him that striketh thee on the cheek, offer also the other. Ver. 29. That Christ is the end of the law and the prophets, is declared Rom. x. 4. by the most wise Paul: for the law served as a schoolmaster to guide men unto His mystery. ‘ But now that faith has come, Gal. iii. 25. “ as the blessed Paul has again himself said, we are no longer “under a guide: for no longer are we children in mind, but, Beaywyby, “on the contrary, have grown up to the perfect man, to the maida 0 a « measure of the mature age of the fulness of Christ.” We do 7” , =) Eph. iv. 13.
+To him that striketh thee on the cheek, offer also the other. Ver. 29. That Christ is the end of the law and the prophets, is declared [[Romans 10#^10-4|Rom. x. 4]]. by the most wise Paul: for the law served as a schoolmaster to guide men unto His mystery. ‘ But now that faith has come, [[Galatians 03#^3-25|Gal. iii. 25]]. “ as the blessed Paul has again himself said, we are no longer “under a guide: for no longer are we children in mind, but, Beaywyby, “on the contrary, have grown up to the perfect man, to the maida 0 a « measure of the mature age of the fulness of Christ.” We do 7” , =) [[Ephesians 04#^4-13|Eph. iv. 13]].
 
 2 On the meaning of philosophy, consult the note on ver. 22.
 
@@ -315,7 +315,7 @@ Cf. note on iv. 38.
 
 *[p. 112]* ^pg136
 
-Mat. v. 20.
+[[Matthew 05#^5-20|Mat. v. 20]].
 
 Ex, xx. 15.
 
@@ -423,7 +423,7 @@ The commandment, therefore, is indispensable for every one
 
 James ili.t.
 
-Mat. v. 19.
+[[Matthew 05#^5-19|Mat. v. 19]].
 
 Mat.vii.rs.
 
@@ -447,11 +447,11 @@ therefore, if his ministers also transform themsclyes into an- \* gels of righte
 
 This is also made clear by another declaration of our Lord: “for the good man, He says, as out of a good treasure, “ poureth forth from the heartf good things:” but he who is differently disposed, and whose mind is the prey of fraud and wickedness, necessarily brings forth what is concealed deep within. For the things that are in the mind and heart boil over, and are vomited forth by the outflowing stream of speech. The virtuons man, therefore, speaks such things as become his
 
-e A few lines follow in Mai not recognized by the Syriac, but probably taken from the Commentary on Matth. vii. 18, as they give an explanation of the different bearing of the interpretation of the two passages.
+e A few lines follow in Mai not recognized by the Syriac, but probably taken from the Commentary on [[Matthew 07#^7-18|Matth. vii. 18]], as they give an explanation of the different bearing of the interpretation of the two passages.
 
 f Lest I should be thought to have separated this word wilfully from its usual dependance upon “treasure,” I may here observe, once for all, that the punctuation of the Syriac is exact to the last degree of minuteness: and in this and all similar places I have scrupulously adhered to it.
 
-2 Cor. xi.13.
+[[2 Corinthians 11#^11-13|2 Cor. xi.13]].
 
 *[p. 120]* ^pg144
 
@@ -479,9 +479,9 @@ things which I say?” For if He possess no real authority, nor glory of lordshi
 
 Sia Td Kae A@s oikodopetobat avthy BST. TeOenedtwro yap em Thy métpav Gs.
 
-Eph. iv. 5.
+[[Ephesians 04#^4-5|Eph. iv. 5]].
 
-1 Cor.viii.5.
+[[1 Corinthians 08#^8-5|1 Cor.viii.5]].
 
 *[p. 122]* ^pg146
 
@@ -501,7 +501,7 @@ It is dangerous, therefore, and merits final eondemnation, to be unwilling to su
 
 h Domestic service in old time by
 
-freemen was all but unknown, and therefore “servant” is equivalent to “slave.” Hence the full force of Luke xvi. 13., xvii. 9., &c.; and such expressions as “ sold under “sin.” (Rom. vii. 14.) Of their treatment, S. Chrysostom (Hom. ty.
+freemen was all but unknown, and therefore “servant” is equivalent to “slave.” Hence the full force of [[Luke 16#^16-13|Luke xvi. 13]]., xvii. 9., &c.; and such expressions as “ sold under “sin.” ([[Romans 07#^7-14|Rom. vii. 14]].) Of their treatment, S. Chrysostom (Hom. ty.
 
 in Titum) complains that masters generally neglected their morals, and thought only of their service; and that therefore “it was a dith- “cult thing for a slave to be a good ‘¢man:” for being left without education, and not adinitted into the society of freemen, there was nothing to counteract the debasing associations of his degraded position. That Christianity gradually, though very slowly, led to the amehoration of their state, we may see by the acknowledgment in the text that the slave was by nature his master’s brother; and by S. Chrysostom’s appeals in their behalf, as, for instance, ‘If Paul was not ‘ashamed to call a slave his son, “and his own bowels, and brother ‘and beloved, why should we be ‘ashamed? And what say I? © Panl’s Lord was not ashamed to “call our slaves His brothers, and “are we ashamed thereat?’ (Hom. ii. in Phil.)
 
@@ -537,7 +537,7 @@ Jobn viii.
 
 34+
 
-Gal. v. 17.
+[[Galatians 05#^5-17|Gal. v. 17]].
 
 Rom. vii.
 
@@ -553,7 +553,7 @@ But yes! says some one, obedience unto Christ’s service is a most excellent th
 
 Is He ever seen to command ought that is impossible, and that cannot be done? Does He demand of us anything that exceeds the limits of our nature? And who would venture to say this? For certainly He adapts to our minds whatever is commanded. When, therefore, thou tellest me of the difficulty of obedience, I tell thee also: Do those things that are great and excellent come of themselves? or do those who seck to win them suecced without toil? or, on the contrary, are they attained to by earnestness and labours? Who are the men that in the conflicts of the palestra are accustomed to win the crown? Is it those who haye entirely devoted themselves to skill in the art of wrestling, and have gone through bitter toils? for “ they endure al\] 1Cor.ix.25. « things,” according to the expression of St. Panl: or, on the contrary, is it the indolent and luxurious, and those entirely unacquainted with what is suitable for athletes? Who of those that till the ground have their threshing-floor full of sheaves Is it such as neglect ploughing, and will not undertake the seyere toil of the mattock: or, on the contrary, is it the diligent and industrious, and such as apply themselves to the labours necessary for ensuring a prolific crop? The answer is known, even if no one speak it; that it is with those who are willing to labour, and not with those whose wont it is to be at ease, that a life of happiness is to be found, and nothing wanting for a tranquil existence. The Psalmist also bears witness, in a passage where he makes mention of the tillers of the ground as an exemplification of something else, “ They went out, and that Ps.cxxvi6. « with tears, carrying their seed: but they shall surely come « with joy bringing their sheaves.” Joy therefore is the fruit of labour.
 
-Moreover, the Lord Himself somewhere quickens us for the love of exertion in every praiseworthy pursuit, by saying, “Enter at the strait gate: because narrow is the gate, and Mat.vii.13. « strait the way that leadeth unto life; but broad and wide “is that which leadeth down those that run thereon unto de- “ struction.” Observe therefore that the end of that strait path leadeth unto life, while the easy descent of the broad way sends men to the flame and never-ending torments.
+Moreover, the Lord Himself somewhere quickens us for the love of exertion in every praiseworthy pursuit, by saying, “Enter at the strait gate: because narrow is the gate, and [[Matthew 07#^7-13|Mat.vii.13]]. « strait the way that leadeth unto life; but broad and wide “is that which leadeth down those that run thereon unto de- “ struction.” Observe therefore that the end of that strait path leadeth unto life, while the easy descent of the broad way sends men to the flame and never-ending torments.
 
 If therefore we call Christ, the Saviour of us all, Lord, let
 
@@ -603,7 +603,7 @@ add, aadevoovraGTs. om. BS.
 
 *[p. 128]* ^pg152
 
-Heb. i. 3.
+[[Hebrews 01#^1-3|Heb. i. 3]].
 
 things superior to the service enacted in the law, and pointing out to them a path new and untrodden by them of old time of the conversation that becometh saints: and at another, he very beautifully displays to us the manifestation of a godlike power, in order that in every way it may be known that the Only-begotten Word of the Father is very God even though He beeame flesh, that is, man,—‘“ and produces every thing by the “ word of his power :’—as is proved unto us by the examination of what is written concerning Him.
 
@@ -619,9 +619,9 @@ things of Jesus ;” and so he sends unto Him, asking of Elim manifestly as of G
 
 Upon their arrival they offer their request, saying, “ that he “is worthy that Thon shouldest grant this unto lim.” 0 marvellous act! They who slandered Christ’s glory, request lim to work a miracle! Those who refused to believe in Him, ask Him to display before men who had not yet believed such acts as lead on to faith! Tell me in what character dost thou approach with thy request? Dost thou know and believe that He is able to perform things that are the prerogative of God? Art thou fully convinced that it belongs solely to the supreme Substance, Who is above all, to be able to make alive, and to deliver men from the snares of death ? If so, how then didst thou say when thou sawest Jesus working miracles, «This man casteth not out devils but by Beelzebub, Prince of “the devils?” And when that man who had been blind from his mother’s womb was wonderfully healed, and gained an unwonted light, thou advisedst him, saying, “Give God the glory, « we know that this man is a sinner.” Dost thou then ask this sinner, as thou calledst Him, to perform an act of Deity? Is not this madness, and sheer stupidity? Are not those who hitherto had not believed far better than those who had been taught by the law and the prophets?
 
-Wouldst thou see the fact that such is the case and such only? Observe what follows; The Saviour had now set out upon His way to restore the sick man: but the centurion sent unto Him, saying, “ Lord, trouble not Thyself; but speak Mat. xii. 24.
+Wouldst thou see the fact that such is the case and such only? Observe what follows; The Saviour had now set out upon His way to restore the sick man: but the centurion sent unto Him, saying, “ Lord, trouble not Thyself; but speak [[Matthew 12#^12-24|Mat. xii. 24]].
 
-John ix. 24.
+[[John 09#^9-24|John ix. 24]].
 
 *[p. 130]* ^pg154
 
@@ -727,9 +727,9 @@ om, gr: B.
 
 om. ral quater BGTs.
 
-Phil. ii. 10.
+[[Philippians 02#^2-10|Phil. ii. 10]].
 
-Rom. v. 14.
+[[Romans 05#^5-14|Rom. v. 14]].
 
 SERMON XXXVII.
 

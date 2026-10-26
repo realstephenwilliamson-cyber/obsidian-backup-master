@@ -36,7 +36,7 @@ Or, “the Scriptures of the Lord;” but the words “dominicis scripturis” p
 
 and are to be rendered as above.
 
-2 Cor. xii. 2, 3, 4.
+[[2 Corinthians 12#^12-2|2 Cor. xii. 2]], [[2 Corinthians 12#^12-3|3]], [[2 Corinthians 12#^12-4|4]].
 
 *[p. 670]* ^pg710
 
@@ -63,7 +63,7 @@ That is, as Massuet notes, all things derive not only their *existence*, but the
 
 read *causa* instead of *substantia*, but the change seems needless.
 
-Heb. i. 3.
+[[Hebrews 01#^1-3|Heb. i. 3]].
 
 *[p. 672]* ^pg712
 
@@ -91,7 +91,7 @@ The reference probably is to opinions and theories of the heathen.
 
 3262
 
-Comp. 2 Tim. ii. 17, 18. \[On the sub-apostolic age and this subject of miracles, Newman, in spite of his sophistical 3263
+Comp. [[2 Timothy 02#^2-17|2 Tim. ii. 17]], [[2 Timothy 02#^2-18|18]]. \[On the sub-apostolic age and this subject of miracles, Newman, in spite of his sophistical 3263
 
 argumentation, may well be consulted for his references, etc. *Translation of the Abbé Fleury*, p. xi. Oxford, 1842.\]
 
@@ -107,11 +107,11 @@ those who are cured very frequently do not possess the things which they require
 
 1\. Moreover, this impious opinion of theirs with respect to actions—namely, that it is incumbent on them to have experience of all kinds of deeds, even the most abominable—is refuted by the teaching of the Lord, with whom not only is the adulterer rejected, but also the man who desires to commit adultery;<sup>3266</sup> and not only is the actual murderer held guilty of having killed another to his own damnation, but the man also who is angry with his brother without a cause: who commanded \[His disciples\] not only not to hate men, but also to love their enemies; and enjoined them not only not to swear falsely, but not even to swear at all; and not only not to speak evil of their neighbours, but not even to style any one “Raca” and “fool;” \[declaring\] that otherwise they were in danger of hell-fire; and not only not to strike, but even, when themselves struck, to present the other cheek \[to those that maltreated them\]; and not only not to refuse to give up the property of others, but even if their own were taken away, not to demand it back again from those that took it; and not only not to injure their neighbours, nor to do them any evil, but also, when themselves wickedly dealt with, to be long-suffering, and to show kindness towards those \[that injured them\], and to pray for them, that by means of repentance they might be saved—so that we should in no respect imitate the arrogance, lust, and pride of others. Since, therefore, He whom these men boast of as their Master, and of whom they affirm that He had a soul greatly better and more highly toned than others, did indeed, with much earnestness, command certain things to be done as being good and excellent, and certain things to be abstained from not only in their actual perpetration, but even in the thoughts which lead to their performance, as being wicked, pernicious, and abominable, —how then can they escape being put to confusion, when they affirm that such a Master was more highly toned \[in spirit\] and better than others, and yet manifestly give instruction of a kind utterly opposed
 
-Rev. xii. 14.
+[[Revelation 12#^12-14|Rev. xii. 14]].
 
 3265
 
-Matt. v. 21, etc.
+[[Matthew 05#^5-21|Matt. v. 21]], etc.
 
 *[p. 675]* ^pg715
 
@@ -121,11 +121,11 @@ to His teaching? And, again, if there were really no such thing as good and evil
 
 3\. Again, while they assert that they possess souls from the same sphere as Jesus, and that they are like to Him, sometimes even maintaining that they are superior; while \[they affirm that they
 
-Matt. xiii. 43.
+[[Matthew 13#^13-43|Matt. xiii. 43]].
 
 3267
 
-Matt. xxv. 41; Mark ix. 44.
+[[Matthew 25#^25-41|Matt. xxv. 41]]; Mark ix. 44.
 
 3268
 
@@ -163,7 +163,7 @@ Harvey here notes: “The reader will not fail to remark this highly interesting
 
 upon the infant Church were not wholly extinct in the days of Irenæus. Possibly the venerable Father is speaking from his own personal recollection of some who had been raised from the dead, and had continued for a time living witnesses of the efficacy of Christian faith.” \[See cap. xxxi., *supra*.\]
 
-Comp. Acts viii. 9, 18.
+Comp. [[Acts 08#^8-9|Acts viii. 9]], [[Acts 08#^8-18|18]].
 
 *[p. 677]* ^pg717
 
@@ -175,7 +175,7 @@ of such miraculous interpositions\]. For as she has received freely<sup>3277</su
 
 1\. We may subvert their doctrine as to transmigration from body to body by this fact, that souls remember nothing whatever of the events which took place in their previous states of existence. For if they were sent forth with this object, that they should have experience of every kind of action, they must of necessity retain a remembrance of those things which have been previously accomplished, that they might fill up those in which they were still deficient, and not by always hovering, without intermission, round the same pursuits, spend their labour wretchedly in vain (for the mere union of a body \[with a soul\] could not altogether extinguish the memory and contemplation of those things which had formerly been experienced<sup>3281</sup>), and especially as they came \[into the world\] for this very purpose. For as, when the body is asleep and at rest, whatever things the soul sees by herself, and does in a vision, recollecting many of these, she also communicates them to the body; and as it happens that, when one awakes, perhaps after a long time, he relates what he saw in a dream, so also would he undoubtedly remember those things which he did before he came into this particular body. For if that which is seen only for a very brief space of time, or has been
 
-410 Matt. x. 8. 3277 Grabe contends that these words imply that no invocations of angels, good or bad, were practised in the primitive Church. 3278 Massuet, on the other hand, maintains that the words of Irenæus are plainly to be restricted to evil spirits, and have no bearing on the general question of angelic invocation. We follow the common reading, “perfecit;” but one ms. has “perficit,” *works*, which suits the context better. 3279 We insert “et,” in accordance with Grabe’s suggestion. 3280 Harvey thinks that this parenthesis has fallen out of its proper place, and would insert it immediately after the opening 3281 period of the chapter.
+410 [[Matthew 10#^10-8|Matt. x. 8]]. 3277 Grabe contends that these words imply that no invocations of angels, good or bad, were practised in the primitive Church. 3278 Massuet, on the other hand, maintains that the words of Irenæus are plainly to be restricted to evil spirits, and have no bearing on the general question of angelic invocation. We follow the common reading, “perfecit;” but one ms. has “perficit,” *works*, which suits the context better. 3279 We insert “et,” in accordance with Grabe’s suggestion. 3280 Harvey thinks that this parenthesis has fallen out of its proper place, and would insert it immediately after the opening 3281 period of the chapter.
 
 *[p. 678]* ^pg718
 
@@ -213,7 +213,7 @@ Grabe refers to Tertullian, *De Anima*, ch. vii., as making a similar statement.
 
 Irenæus here expresses an opinion like that of Tertullian in the passage referred to, and thinks that the special form (*character*) mentioned is to be understood as simply denoting individual *spiritual* properties. But his remarks are not satisfactory.
 
-Luke xvi. 19, etc.
+[[Luke 16#^16-19|Luke xvi. 19]], etc.
 
 3288
 
@@ -245,7 +245,7 @@ As Massuet observes, this statement is to be understood in harmony with the repe
 
 will exist in misery for ever. It refers not annihilation, but to deprivation of happiness.
 
-Luke xvi. 11, quoted loosely from memory. Grabe, however, thinks they are cited from the apocryphal Gospel according 3294
+[[Luke 16#^16-11|Luke xvi. 11]], quoted loosely from memory. Grabe, however, thinks they are cited from the apocryphal Gospel according 3294
 
 to the Egyptians.
 
@@ -345,7 +345,7 @@ despises the Father also, and stands self-condemned, resisting and opposing his 
 
 1\. When, however, they are confuted from the Scriptures, they turn round and accuse these same Scriptures, as if they were not correct, nor of authority, and \[assert\] that they are ambiguous, and that the truth cannot be extracted from them by those who are ignorant of tradition. For \[they allege\] that the truth was not delivered by means of written documents, but *vivâ voce:* wherefore also Paul declared, “But we speak wisdom among those that are perfect, but not the wisdom of this world.”<sup>3311</sup> And this wisdom each one of them alleges to be the fiction of his own inventing, forsooth; so that, according to their idea, the truth properly resides at one time in Valentinus, at another in Marcion, at another in Cerinthus, then afterwards in Basilides, or has even been indifferently in any other opponent,<sup>3312</sup> who could speak nothing pertaining to salvation. For every one of these
 
-See 1 Tim. iii. 15, where these terms are used in reference to the Church.
+See [[1 Timothy 03#^3-15|1 Tim. iii. 15]], where these terms are used in reference to the Church.
 
 3309
 
@@ -353,7 +353,7 @@ On this and similar statements in the Fathers, the reader may consult Dr. Robert
 
 they are fully criticised, and the Greek original of St. Matthew’s Gospel maintained.
 
-1 Cor. ii. 6.
+[[1 Corinthians 02#^2-6|1 Cor. ii. 6]].
 
 3311
 
@@ -401,7 +401,7 @@ So the Greek. The Latin reads: “which he also handed down to the Church.”
 
 3315
 
-Tit. iii. 10.
+[[Titus 03#^3-10|Tit. iii. 10]].
 
 3316
 
@@ -419,7 +419,7 @@ For how stands the case? Suppose there arise a dispute relative to some importan
 
 3\. For, prior to Valentinus, those who follow Valentinus had no existence; nor did those from Marcion exist before Marcion; nor, in short, had any of those malignant-minded people, whom I have above enumerated, any being previous to the initiators and inventors of their perversity. For Valentinus came to Rome in the time of Hyginus, flourished under Pius, and remained until Anicetus.
 
-Rev. xxii. 17.
+[[Revelation 22#^22-17|Rev. xxii. 17]].
 
 3318
 
@@ -429,7 +429,7 @@ Latin, “modica quæstione.”
 
 \[The uneducated barbarians must receive the Gospel on testimony. Irenæus puts *apostolic* traditions, genuine and uncorrupt, 3320
 
-in this relation to the primary authority of the written word. 2 Thess. ii. 15, 2 Thess. iii. 6.\]
+in this relation to the primary authority of the written word. [[2 Thessalonians 02#^2-15|2 Thess. ii. 15]], [[2 Thessalonians 03#^3-6|2 Thess. iii. 6]].\]
 
 Literally, “without letters;” equivalent to, “without paper and ink,” a few lines previously.
 
@@ -441,7 +441,7 @@ Cerdon, too, Marcion’s predecessor, himself arrived in the time of Hyginus, wh
 
 1\. Since, therefore, the tradition from the apostles does thus exist in the Church, and is permanent among us, let us revert to the Scriptural proof furnished by those apostles who did also write the Gospel, in which they recorded the doctrine regarding God, pointing out that our Lord Jesus Christ is the truth,<sup>3324</sup> and that no lie is in Him. As also David says, prophesying His birth from a virgin, and the resurrection from the dead, “Truth has sprung out of the earth.”<sup>3325</sup> The apostles, likewise, being disciples of the truth, are above all falsehood; for a lie has no fellowship with the truth, just as darkness has none with light, but the presence of the one shuts out that of the other. Our Lord, therefore, being the truth, did not speak lies; and whom He knew to have taken origin from a defect, He never would have acknowledged as God, even the God of all, the Supreme King, too, and His own Father, an imperfect being as a perfect one, an animal one as a spiritual, Him who was without the Pleroma as Him who was within it. Neither did His disciples make mention of any other God, or term any other Lord, except Him, who was truly the God and Lord of all, as these most vain sophists affirm that the apostles did with hypocrisy frame their doctrine according to the capacity of their hearers, and gave answers after the opinions of their questioners,—fabling blind things for the blind, according to their blindness; for the dull according to their dulness; for those in error according to their error. And to those who imagined that the Demiurge alone was God, they preached
 
-418 The old Latin translation says the *eighth bishop*; but there is no discrepancy. Eusebius, who has preserved the Greek of 3322 this passage, probably counted the apostles as the *first step* in the episcopal succession. As Irenæus tells us in the preceding chapter, Linus is to be counted as the first bishop. It is thought that this does not mean excommunication properly so called, but a species of *self-excommunication*, i.e., 3323 anticipating the sentence of the Church, by quitting it altogether. See Valesius’s note in his edition of Eusebius. John xiv. 6. 3324
+418 The old Latin translation says the *eighth bishop*; but there is no discrepancy. Eusebius, who has preserved the Greek of 3322 this passage, probably counted the apostles as the *first step* in the episcopal succession. As Irenæus tells us in the preceding chapter, Linus is to be counted as the first bishop. It is thought that this does not mean excommunication properly so called, but a species of *self-excommunication*, i.e., 3323 anticipating the sentence of the Church, by quitting it altogether. See Valesius’s note in his edition of Eusebius. [[John 14#^14-6|John xiv. 6]]. 3324
 
 *[p. 691]* ^pg731
 
@@ -451,11 +451,11 @@ him; but to those who are capable of comprehending the unnameable Father, they d
 
 3\. This is also made clear from the words of the Lord, who did truly reveal the Son of God to those of the circumcision— Him who had been foretold as Christ by the prophets; that is, He set Himself forth, who had restored liberty to men, and bestowed on them the inheritance of incorruption. And again, the apostles taught the Gentiles that they should leave vain stocks and stones, which they imagined to be gods, and worship the true God, who had created and made all the human family, and, by means of His creation, did nourish, increase, strengthen, and preserve them in being; and that they might look for His Son Jesus Christ, who redeemed us from apostasy with His own blood, so that we should also be a sanctified people,—who shall also descend from heaven in His Father’s power, and pass judgment upon all, and who shall freely give the good things of God to those who shall have kept His commandments. He, appearing in these last times, the chief cornerstone, has gathered into one, and united those that were far off and those that were near;<sup>3327</sup>
 
-Luke v. 31, 32.
+[[Luke 05#^5-31|Luke v. 31]], [[Luke 05#^5-32|32]].
 
 3326
 
-Eph. ii. 17.
+[[Ephesians 02#^2-17|Eph. ii. 17]].
 
 *[p. 692]* ^pg732
 
@@ -479,7 +479,7 @@ Ps. lxxxii. 6.
 
 3336
 
-Rom. viii. 15.
+[[Romans 08#^8-15|Rom. viii. 15]].
 
 3337
 
@@ -541,15 +541,15 @@ The Latin version has, “that answereth to-day” (*hodie*), —an evident erro
 
 3350
 
-Gal. iv. 8, 9.
+[[Galatians 04#^4-8|Gal. iv. 8]], [[Galatians 04#^4-9|9]].
 
 3351
 
-2 Thess. ii. 4.
+[[2 Thessalonians 02#^2-4|2 Thess. ii. 4]].
 
 3352
 
-1 Cor. viii. 4, etc.
+[[1 Corinthians 08#^8-4|1 Cor. viii. 4]], etc.
 
 *[p. 695]* ^pg735
 
@@ -561,7 +561,7 @@ when it is said, “Thou shalt not make to thyself any image for God, of whatsoe
 
 2\. From many other instances also, we may discover that the apostle frequently uses a transposed order in his sentences, due to the rapidity of his discourses, and the impetus of the Spirit which is in him. An example occurs in the \[Epistle\] to the Galatians, where he expresses himself as follows:
 
-Deut. v. 8. 3354 Deut. iv. 19. 3355 Ex. vii. 1. 3356 Heb. iii. 5; Num. xii. 7. 3357 2 Cor. iv. 4.
+Deut. v. 8. 3354 Deut. iv. 19. 3355 Ex. vii. 1. 3356 [[Hebrews 03#^3-5|Heb. iii. 5]]; Num. xii. 7. 3357 [[2 Corinthians 04#^4-4|2 Cor. iv. 4]].
 
 *[p. 696]* ^pg736
 
@@ -577,7 +577,7 @@ This is according to the reading of the old Italic version, for it is not so rea
 
 Greek New Testament.
 
-Gal. iii. 19.
+[[Galatians 03#^3-19|Gal. iii. 19]].
 
 3360
 
@@ -589,7 +589,7 @@ This world is not found in the second quotation of this passage immediately foll
 
 3362
 
-2 Thess. ii. 8.
+[[2 Thessalonians 02#^2-8|2 Thess. ii. 8]].
 
 3363
 
@@ -601,11 +601,11 @@ This world is not found in the second quotation of this passage immediately foll
 
 3\. For that all things, whether Angels, or Archangels, or Thrones, or Dominions, were both established and created by Him who is God over all, through His Word, John has thus pointed out. For when he had spoken of the Word of God as having been in the Father, he added, “All things were made by Him, and without Him was not anything made.”<sup>3370</sup> David also, when he had
 
-Matt. vi. 24.
+[[Matthew 06#^6-24|Matt. vi. 24]].
 
 3365
 
-John viii. 34.
+[[John 08#^8-34|John viii. 34]].
 
 3366
 
@@ -613,7 +613,7 @@ A word of which many explanations have been proposed, but none are quite satisfa
 
 the reading to be corrupt, through the ignorance and carelessness of the copyist. \[Irenæus undoubtedly relied for Hebrew criticisms on some incompetent retailer of rabbinical refinements.\]
 
-Matt. xii. 29.
+[[Matthew 12#^12-29|Matt. xii. 29]].
 
 3368
 
@@ -649,7 +649,7 @@ with all manner of evil, preaching that repentance which should call them back f
 
 2\. Then again Matthew, when speaking of the angel, says, “The angel of the Lord appeared to Joseph in sleep.”<sup>3377</sup> Of what Lord he does himself interpret: “That it may be fulfilled which was spoken of the Lord by the prophet, Out of Egypt have I called my son.”<sup>3378</sup> “Behold, a virgin shall conceive, and shall bring forth a son, and they shall call his name Emmanuel; which is, being interpreted, God with us.”<sup>3379</sup> David likewise speaks of Him who, from the virgin, is Emmanuel: “Turn not away the face of Thine anointed. The Lord hath sworn a truth to David, and will not turn from him. Of the fruit of thy body will I set upon thy seat.”<sup>3380</sup> And again: “In Judea is God known; His place has been made in peace, and His dwelling in Zion.”<sup>3381</sup> Therefore there is one and the same God, who was proclaimed by the prophets and announced by the Gospel; and His Son, who was of the fruit of David’s body, that is, of the virgin of \[the house of\] David, and Emmanuel; whose star also Balaam thus prophesied: “There shall come a star out of Jacob, and a leader shall rise in Israel.”<sup>3382</sup> But Matthew says that the Magi, coming from the east, exclaimed “For we have
 
-423 Matt. iii. 7. 3375 Matt. iii. 3. 3376 Matt. i. 20. 3377 Matt. ii. 15. 3378 Matt. i. 23. 3379 Ps. cxxxii. 11. 3380 Ps. lxxvi. 1. 3381 Num. xxiv. 17.
+423 [[Matthew 03#^3-7|Matt. iii. 7]]. 3375 [[Matthew 03#^3-3|Matt. iii. 3]]. 3376 [[Matthew 01#^1-20|Matt. i. 20]]. 3377 [[Matthew 02#^2-15|Matt. ii. 15]]. 3378 [[Matthew 01#^1-23|Matt. i. 23]]. 3379 Ps. cxxxii. 11. 3380 Ps. lxxvi. 1. 3381 Num. xxiv. 17.
 
 *[p. 700]* ^pg740
 
@@ -657,11 +657,11 @@ seen His star in the east, and are come to worship Him;”<sup>3383</sup> and th
 
 3\. And then, \[speaking of His\] baptism, Matthew says, “The heavens were opened, and He saw the Spirit of God, as a dove, coming upon Him: and lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.”<sup>3387</sup> For Christ did not at that time descend upon Jesus, neither was Christ one and Jesus another: but the Word of God—who is the Saviour of all, and the ruler of heaven and earth, who is Jesus, as I have already pointed out, who did also take upon Him flesh, and was anointed by the Spirit from the Father—was made Jesus Christ, as Esaias also says, “There shall come forth a rod from the root of Jesse, and a flower shall rise from his root; and the Spirit of God shall rest upon Him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and piety, and the spirit of the fear of God, shall fill Him. He shall not judge according to glory,<sup>3388</sup> nor reprove after the manner of speech; but He shall dispense judgment to the humble man, and reprove the haughty ones of the earth.”<sup>3389</sup> And again Esaias, pointing out beforehand His unction, and the reason why he was anointed, does himself say, “The Spirit of God is upon Me, because He hath anointed Me: He hath sent Me to preach the Gospel to the lowly, to heal the broken up in heart, to proclaim liberty to the captives, and sight to the blind; to announce the acceptable year of the Lord, and the day of vengeance; to comfort all that mourn.”<sup>3390</sup> For inasmuch as the Word of God was man from the root of Jesse, and son of Abraham, in this respect did the Spirit of God rest upon Him, and anoint Him to preach the Gospel to the lowly. But inasmuch as He was God, He did not judge according to glory, nor reprove after the manner of speech. For “He needed not that any should testify to Him of man,<sup>3391</sup> for He Himself knew what
 
-Matt. ii. 2.
+[[Matthew 02#^2-2|Matt. ii. 2]].
 
 3383
 
-Luke i. 33.
+[[Luke 01#^1-33|Luke i. 33]].
 
 3384
 
@@ -671,7 +671,7 @@ Ps. lxxvi. 1.
 
 Isa. lxv. 1. \[A beautiful idea for poets and orators, but not to be pressed dogmatically.\] 3386
 
-Matt. iii. 16.
+[[Matthew 03#^3-16|Matt. iii. 16]].
 
 3387
 
@@ -697,7 +697,7 @@ was in man.”<sup>3392</sup> For He called all men that mourn; and granting for
 
 1\. Luke also, the follower and disciple of the apostles, referring to Zacharias and Elisabeth, from whom, according to promise, John was born, says: “And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless.”<sup>3394</sup> And again, speaking of Zacharias: “And it came to pass, that while he executed the priest’s office before God in the order of his course, according to the custom of the priest’s office, his lot was to burn incense;”<sup>3395</sup> and he came to sacrifice, “entering into the temple of the Lord.”<sup>3396</sup> Whose angel Gabriel, also, who stands prominently in the presence of the Lord, simply, absolutely, and decidedly confessed in his own person as God and Lord, Him who had chosen Jerusalem, and had instituted the sacerdotal office. For he knew of none other above Him; since, if he had been in possession of the knowledge of any other more perfect God and Lord besides Him, he surely would never—as I have already shown —have confessed Him, whom he knew to be the fruit of a defect, as absolutely and altogether God and Lord. And then, speaking of John, he thus says: “For he shall be great in the sight of the Lord, and many of the children of Israel shall he turn to the Lord their God. And he shall go before Him in the spirit and power of Elias, to make ready a people prepared for the Lord.”<sup>3397</sup> For whom, then, did he prepare the people, and in the sight of what Lord was he made great? Truly of Him who said that John had something even “more than a prophet,”<sup>3398</sup> and that “among those born of women none is greater than John the Baptist;” who did also make the people ready for the Lord’s advent, warning his fellow-servants, and preaching to them repentance, that they might receive remission from the Lord when He should be present, having been converted to Him, from whom they had been alienated because of sins and transgressions. As also David says,
 
-424 John ii. 25. 3392 Prov. v. 22. 3393 Luke i. 6. 3394 Literally, “that he should place the incense.” The next clause is most likely an interpolation for the sake of explanation. 3395 Luke i. 8, etc. 3396 Luke i. 15, etc. 3397
+424 [[John 02#^2-25|John ii. 25]]. 3392 Prov. v. 22. 3393 [[Luke 01#^1-6|Luke i. 6]]. 3394 Literally, “that he should place the incense.” The next clause is most likely an interpolation for the sake of explanation. 3395 [[Luke 01#^1-8|Luke i. 8]], etc. 3396 [[Luke 01#^1-15|Luke i. 15]], etc. 3397
 
 *[p. 702]* ^pg742
 
@@ -709,19 +709,19 @@ Ps. lviii. 3.
 
 3399
 
-Luke i. 26, etc.
+[[Luke 01#^1-26|Luke i. 26]], etc.
 
 3400
 
-Luke i. 32, 33.
+[[Luke 01#^1-32|Luke i. 32]], [[Luke 01#^1-33|33]].
 
 3401
 
-Luke i. 46, 47.
+[[Luke 01#^1-46|Luke i. 46]], [[Luke 01#^1-47|47]].
 
 3402
 
-Luke i. 78.
+[[Luke 01#^1-78|Luke i. 78]].
 
 3403
 
@@ -735,7 +735,7 @@ His holy covenant, the oath which He swore to our father Abraham, that He would 
 
 3\. And the angel of the Lord, he says, appeared to the shepherds, proclaiming joy to them: “For<sup>3415</sup> there is born in the house of David, a Saviour, which is Christ the Lord. Then \[appeared\] a multitude of the heavenly host, praising God, and saying, Glory in the highest to God, and on earth peace, to men of good will.”<sup>3416</sup> The falsely-called Gnostics say that these angels came from
 
-425 Luke i. 68, etc. 3406 Luke i. 76. 3407 Harvey observes that the Syriac, agreeing with the Latin here, expresses priority in point of time; but our translation, 3408 without reason, makes it the precedence of honour, viz., *was preferred before me*. The Greek is, πρῶτός μου. John i. 29, John i. 15, 16. 3409 Gen. xlix. 18. 3410 Isa. xii. 2. 3411 Ps. xcviii. 2. 3412 Lam. iv. 20, after LXX. 3413 John i. 14. 3414 Luke ii. 11, etc. 3415 Thus found also in the Vulgate. Harvey supposes that the original of Irenæus read according to our *textus receptus*, and 3416 that the Vulgate rendering was adopted in this passage by the transcribers of the Latin version of our author. \[No doubt a just remark.\] There can be no doubt, however, that the reading εὐδοκίας is supported by many and weighty ancient authorities. \[But
+425 [[Luke 01#^1-68|Luke i. 68]], etc. 3406 [[Luke 01#^1-76|Luke i. 76]]. 3407 Harvey observes that the Syriac, agreeing with the Latin here, expresses priority in point of time; but our translation, 3408 without reason, makes it the precedence of honour, viz., *was preferred before me*. The Greek is, πρῶτός μου. [[John 01#^1-29|John i. 29]], [[John 01#^1-15|John i. 15]], [[John 01#^1-16|16]]. 3409 Gen. xlix. 18. 3410 Isa. xii. 2. 3411 Ps. xcviii. 2. 3412 Lam. iv. 20, after LXX. 3413 [[John 01#^1-14|John i. 14]]. 3414 [[Luke 02#^2-11|Luke ii. 11]], etc. 3415 Thus found also in the Vulgate. Harvey supposes that the original of Irenæus read according to our *textus receptus*, and 3416 that the Vulgate rendering was adopted in this passage by the transcribers of the Latin version of our author. \[No doubt a just remark.\] There can be no doubt, however, that the reading εὐδοκίας is supported by many and weighty ancient authorities. \[But
 
 *[p. 704]* ^pg744
 
@@ -763,15 +763,15 @@ that they should offer a sacrifice, as it is said in the law of the Lord, a pair
 
 Jesus Christ, who had also made promise to Him, that He would send His messenger before His face, who was John, crying in the wilderness, in “the spirit and power of Elias,”<sup>3425</sup> “Prepare ye the way of the Lord, make straight paths before our God.” For the prophets did not announce one and another God, but one and the same; under various aspects, however, and many titles. For varied and rich in attribute is the Father, as I have already shown in the book preceding<sup>3426</sup> this; and I shall show \[the same truth\] from the prophets themselves in the further course of this work. Also, towards the conclusion of his Gospel, Mark says: “So then, after the Lord Jesus had spoken to them, He was received up into heaven, and sitteth on the right hand of God;”<sup>3427</sup> confirming what had been spoken by the prophet: “The Lord said to my Lord, Sit Thou on My right hand, until I make Thy
 
-Luke ii. 22.
+[[Luke 02#^2-22|Luke ii. 22]].
 
 3420
 
-Luke ii. 29, etc.
+[[Luke 02#^2-29|Luke ii. 29]], etc.
 
 3421
 
-Luke ii. 38.
+[[Luke 02#^2-38|Luke ii. 38]].
 
 3422
 
@@ -779,11 +779,11 @@ The text seems to be corrupt in the old Latin translation. The rendering here fo
 
 the original Greek of the passage.
 
-The Greek of this passage in St. Mark i. 2 reads, τὰς τρίβους αὐτοῦ, i.e., *His paths*, which varies from the Hebrew original, 3424
+The Greek of this passage in St. [[Mark 01#^1-2|Mark i. 2]] reads, τὰς τρίβους αὐτοῦ, i.e., *His paths*, which varies from the Hebrew original, 3424
 
 to which the text of Irenæus seems to revert, unless indeed his copy of the Gospels contained the reading of the Codex Bezæ. \[See book iii. cap. xii. 3, 14, below; also, xiv. 2 and xxiii. 3. On this Codex, see Burgon, *Revision Revised*, p. 12, etc., and references.\]
 
-Luke i. 17.
+[[Luke 01#^1-17|Luke i. 17]].
 
 3425
 
@@ -791,7 +791,7 @@ See ii. 35, 3.
 
 3426
 
-Mark xvi. 19.
+[[Mark 16#^16-19|Mark xvi. 19]].
 
 *[p. 706]* ^pg746
 
@@ -809,7 +809,7 @@ Irenæus frequently quotes this text, and always uses the punctuation here adopt
 
 Fathers follow his example.
 
-John i. 1, etc.
+[[John 01#^1-1|John i. 1]], etc.
 
 3430
 
@@ -825,14 +825,14 @@ He had declared the unknown Father, He did again ascend into the Pleroma. Some, 
 
 4\. And that we may not have to ask, Of what God was the Word made flesh? he does himself previously teach us, saying, “There was a man sent from God, whose name was John. The same came as a witness, that he might bear witness of that Light. He was not that Light, but \[came\] that he might testify of the Light.”<sup>3435</sup> By what God, then, was John, the forerunner, who testifies of the Light, sent \[into the world\]? Truly it was by Him, of whom Gabriel is the angel, who also announced
 
-John i. 10, 11.
+[[John 01#^1-10|John i. 10]], [[John 01#^1-11|11]].
 
 3432
 
-John i. 14.
+[[John 01#^1-14|John i. 14]].
 
 3433
 
-John i. 14.
+[[John 01#^1-14|John i. 14]].
 
 3434

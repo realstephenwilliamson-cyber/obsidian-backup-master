@@ -20,17 +20,14 @@ nyasa: "tongue (*jihvā*)"
 ## Front
 
 - **Glyph:** अः
-- **Variation:** a drawn sign of two arcs, one above the other (◡ over ◠); not transcribed as a character
 - **Example:** योगः
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** out-breath
-- **Class (as printed):** 1 (guttural) · hard aspiration
-- **Note (no printed label):** usually an ending. (a) represents any vowel. The variation followed by p,ph is pronounced pph/ff.
-- **Grid:** अं अः; in bold: अः
-- **Example:** yogaḥ (union)
+> [!note]- Back
+> - **Pronunciation:** out-breath
+> - **Variation:** a drawn sign of two arcs, one above the other (◡ over ◠); not transcribed as a character
+> - **Class:** guttural · hard aspiration · usually an ending. (a) represents any vowel. The variation followed by p,ph is pronounced pph/ff.
+> - अं <u>अः</u>
+> - **Example:** yogaḥ (union)
 
 ## Register
 

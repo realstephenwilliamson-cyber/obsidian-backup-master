@@ -29,7 +29,7 @@ tāro māyā vedakalo mātṛtāro navātmakaḥ || ^iast
 >
 > This is the Brahmavidyā, consisting of parts (sakalā) made of fifteen clear declarations. We will (now) talk of this (same Brahmavidyā) without parts (niṣkalā), (fashioned) with five syllables, with which each declaration is conjoined at the beginning and at the end. (with 30.89–90ab)
 >
-> The Saviour (OM), Māyā (HRĪM), the Quadruple Energy (HUM), the Saviour of the Mothers (PHREM) and Navātmā (RĦHRKṢMLVYŪM) - these are the five syllables (which are applied) in accord with the (extent of their) stated pervasion. (with 30.90cd–91ab)
+> The Saviour (OṀ), Māyā (HRĪṀ), the Quadruple Energy (HŪṀ), the Saviour of the Mothers (PHREṀ) and Navātmā (RHRKṢMLVYŪṀ) – these are the five syllables (which are applied) in accord with the (extent of their) stated pervasion. (with 30.90cd–91ab)
 
 ## Viveka
 

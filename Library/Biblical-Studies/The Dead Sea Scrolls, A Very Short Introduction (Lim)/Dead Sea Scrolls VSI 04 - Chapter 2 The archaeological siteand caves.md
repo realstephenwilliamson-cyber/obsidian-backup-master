@@ -34,7 +34,7 @@ those who champion an independent discipline of Palestinian
 
 archaeology.
 
-For Khirbet Qumran, de Vaux explained that the impetus for its excavation in the early 1950s was the discovery of pottery which was identical with that found in Cave 1. Scholars had known about Qumran for over a hundred years and the earliest explorers (Louis-Félicien Caignart de Saulcy and Henry B. Tristram) were looking for the remains of the city of Gomorrah, well-known for having been destroyed by brimstone and fire because of its wickedness and debauchery (Genesis 19). When they were unable to find evidence for the existence of the biblical city, the interest in the site was lost. Charles Clermont-Ganneau, who excavated one of the graves of the Qumran cemetery in 1874, observed that ‘the ruins are insignificant in themselves’. Phrased differently, had it not been
+For Khirbet Qumran, de Vaux explained that the impetus for its excavation in the early 1950s was the discovery of pottery which was identical with that found in Cave 1. Scholars had known about Qumran for over a hundred years and the earliest explorers (Louis-Félicien Caignart de Saulcy and Henry B. Tristram) were looking for the remains of the city of Gomorrah, well-known for having been destroyed by brimstone and fire because of its wickedness and debauchery ([[Torah 04 - Vayera#^19-1|Genesis 19]]). When they were unable to find evidence for the existence of the biblical city, the interest in the site was lost. Charles Clermont-Ganneau, who excavated one of the graves of the Qumran cemetery in 1874, observed that ‘the ruins are insignificant in themselves’. Phrased differently, had it not been
 
 *[p. 22]* ^pg33
 
@@ -64,7 +64,7 @@ The earliest phase of human settlement at Khirbet Qumran is dated to the 8th and
 
 SdAe) puke ays je21Hojoaeysie ayy
 
-De Vaux suggested that the settlement can be identified with one of the six cities mentioned in Joshua 15:61-2, the ‘city of salt’ (‘ir-hammelah). Other scholars preferred to identify the site with another city, Secacah, which is mentioned in the same passage of Joshua and also in the Copper Scroll of Cave 3. The Israelite phase probably came to a violent end, as evidenced by the layer of ash, when the Kingdom of Judah fell in 586 BCE, but there is little corroboration for this dating.
+De Vaux suggested that the settlement can be identified with one of the six cities mentioned in [[Joshua 15#^15-61|Joshua 15:61-2]], the ‘city of salt’ (‘ir-hammelah). Other scholars preferred to identify the site with another city, Secacah, which is mentioned in the same passage of Joshua and also in the Copper Scroll of Cave 3. The Israelite phase probably came to a violent end, as evidenced by the layer of ash, when the Kingdom of Judah fell in 586 BCE, but there is little corroboration for this dating.
 
 Communal Phase
 

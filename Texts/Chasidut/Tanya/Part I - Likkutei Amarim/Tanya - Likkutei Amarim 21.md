@@ -38,7 +38,7 @@ Yet, in regard to the Holy One, blessed is He, no concealment or veil hides or o
 
 Therefore, in His Presence, all else is of no account whatsoever.
 
-[^1]: [[Berakhot 40#40a|*Berachot* 40a]].
+[^1]: *Berachot* [[Berakhot 40#40a|40a]].
 [^2]: *Tikkunei Zohar* 57.
 [^3]: [[Isaiah 55#^55-8|Isaiah 55:8]].
 [^4]: Ibid., v. 9.

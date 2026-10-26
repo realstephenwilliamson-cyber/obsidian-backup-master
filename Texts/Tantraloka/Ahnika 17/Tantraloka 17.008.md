@@ -32,7 +32,7 @@ tatra svamantrayogena dharāmāvāhayetpurā || ^iast
 >
 > Then one should purify the principles one after the other (kramāt) in the fire, within which libation has been offered to (all) the mantras, and (consisting of) the Void of Consciousness alone, is (their) universal (generic) nature. (with 17.7cd–8ab)
 >
-> There he should first of all invoke the Earth (principle) by applying its Mantra, and having made offerings with flowers and the like, he should offer libations with clarified butter and sesame seeds etc. After that, having invoked and worshipped with her own mantra the power of Māyā, that pervades that principle (of Earth), and the one who is the deity that presides over the principle Māyā (adhidevatā), he should offer libations to her.’ (with 17.8cd–10ab)
+> There he should first of all invoke the Earth (principle) by applying its Mantra, and having made offerings with flowers and the like, he should offer libations with clarified butter and sesame seeds etc. After that, having invoked and worshipped with her own mantra the power of Māyā, that pervades that principle (of Earth), and the one who is the deity that presides over the principle Māyā (adhidevatā), he should offer libations to her. (with 17.8cd–10ab)
 
 ## Viveka
 

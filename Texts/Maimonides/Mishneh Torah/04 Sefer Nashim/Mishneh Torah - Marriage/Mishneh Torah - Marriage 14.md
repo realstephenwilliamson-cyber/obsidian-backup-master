@@ -144,10 +144,10 @@ If a man is in another city when his wife dies, the court should expropriate his
 
 [^1]: The very word *onah* - and its translation as "conjugal rights" - conveys a fundamental conception with regard to the Torah's conception of marital intimacy. Marital intimacy is not for the husband's sake, but rather for his wife's. *Onah* also means "respond." A man should be responding to his wife's desires and satisfying her wishes for closeness.
 [^2]: See *Hilchot Shabbat* 30:14, where the Rambam states that marital relations are one of the expressions of *oneg Shabbat*, "Sabbath delight." (See also *Hilchot De'ot* 4:19, 5:4.)
-[^3]: [[Ketubot 62#62b|*Ketubot* 62b]] states that even if the other profession is more profitable, the prerogative is granted to the woman, for a woman values intimacy with her husband more than financial advancement.
-[^4]: [[Yevamot 65#65a|*Yevamot* 65a]] states that if it is the local custom for a man to have only one wife, a man may not deviate from that custom. In the Ashkenazic community, as ordained by the ban of Rabbenu Gershom, it is forbidden for a man to marry more than one wife. (See *Shulchan Aruch* (*Even HaEzer* 1:9-10).)
+[^3]: *Ketubot* [[Ketubot 62#62b|62b]] states that even if the other profession is more profitable, the prerogative is granted to the woman, for a woman values intimacy with her husband more than financial advancement.
+[^4]: *Yevamot* [[Yevamot 65#65a|65a]] states that if it is the local custom for a man to have only one wife, a man may not deviate from that custom. In the Ashkenazic community, as ordained by the ban of Rabbenu Gershom, it is forbidden for a man to marry more than one wife. (See *Shulchan Aruch* (*Even HaEzer* 1:9-10).)
 [^5]: The commentaries draw support for this law from the Biblical narrative ([[Torah 07 - Vayetzei#^31-33|Genesis 31:33]] , which mentions that Jacob had separate tents for Leah, Rachel, Bilhah and Zilpah. (See also Chapter 13, Halachah 14.)
-[^6]: [[Yevamot 65#65a|*Yevamot* 65a]].
+[^6]: *Yevamot* [[Yevamot 65#65a|65a]].
 [^7]: From this, it appears that the custom of engaging in sexual relations once a week was not the practice of Torah scholars alone.
 [^8]: To fill up pitchers of water and dump them down the drain (*Ketubot* 7:3; *Even HaEzer* 76:12).
 [^9]: In this time, it is hoped that he will change his mind and retract his vow.
@@ -191,9 +191,9 @@ If a man is in another city when his wife dies, the court should expropriate his
 [^42]: E.g., the vows mentioned in Chapter 13, Halachah 8ff.
 [^43]: The obligation for a husband to redeem his wife stems from her *ketubah*, which states: "If you are taken captive, I will redeem you and take you back as my wife." Since he is already obligated to divorce her, he is not bound by this clause.
 [^44]: The rationale for this ruling is that the obligation to redeem one's wife involves returning her to her status as a wife, and this is forbidden in this instance. Nevertheless, although this is the rationale, the same ruling applies with regard to a High Priest who married a widow, or an ordinary priest who married a divorcee.  
-    In these instances, the obligation of the woman's *ketubah* - that she be redeemed and returned to her native land - could be fulfilled without transgressing a prohibition of the Torah. Nevertheless, since relations with her were forbidden previously, her husband is not obligated to redeem her ([[Ketubot 52#52a|*Ketubot* 52a]]).
+    In these instances, the obligation of the woman's *ketubah* - that she be redeemed and returned to her native land - could be fulfilled without transgressing a prohibition of the Torah. Nevertheless, since relations with her were forbidden previously, her husband is not obligated to redeem her (*Ketubot* [[Ketubot 52#52a|52a]]).
 [^45]: With regard to a woman forbidden to her husband by virtue of a Torah prohibition, by contrast, the prohibition existed before she was taken captive.
 [^46]: Flutes have a mournful tone that arouses tears (Rambam's Commentary on the Mishnah, *Shabbat* 23:4).
 [^47]: This principle applies to many aspects of the financial relationship of the marriage bond - e.g., the woman's subsistence, her garments and her lodging. It is curious that this instance is the first time the Rambam mentions it explicitly.
 [^48]: Although the Rambam makes a distinction between this instance and a similar situation mentioned in Chapter 12, Halachah 19, the Rashba and others do not. The *Shulchan Aruch* (*Even HaEzer* 89:2) quotes the Rambam's view, but the *Beit Shmuel* 89:2 states that because of the other views, the husband's property may not be expropriated against his will.
-[^49]: Although usually announcements are made for 30 days prior to the sale of property by the court, an exception is made in this instance, so that the woman's burial will not be delayed ([[Ketubot 100#100b|*Ketubot* 100b]]).
+[^49]: Although usually announcements are made for 30 days prior to the sale of property by the court, an exception is made in this instance, so that the woman's burial will not be delayed (*Ketubot* [[Ketubot 100#100b|100b]]).

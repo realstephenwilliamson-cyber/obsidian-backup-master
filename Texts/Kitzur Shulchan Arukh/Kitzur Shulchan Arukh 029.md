@@ -65,16 +65,16 @@ chapter: 29
 [^3]: [[Psalms 037#^37-16|Psalms 37:16]].
 [^4]: Mishnah Avos 4:4.
 [^5]: A person should be imbued with the spirit of humility, but outward demonstrations of humility are frowned upon. *Chazal* state in *Berachos* 34b, that a commoner should not bow at the end of each berachah of the *Shemoneh esrei*, to show his humility. By contrast, the king should do so. Rashi explains, that the greater the stature of a person, the more humility he must show. A show of humility by an ordinary person is, in a perverse way, a display of pride. (*She’arim Metzuyanim Behalachah*)
-[^6]: [[Eruvin 86#86a|*Eruvin* 86a]].
+[^6]: *Eruvin* [[Eruvin 86#86a|86a]].
 [^7]: *Berachos* 29b.
 [^8]: *Rambam, Hilchos Dei’os* 2.
 [^9]: [[Ecclesiastes 11#^11-10|Ecclesiastes 11:10]].
 [^10]: [[Proverbs 16#^16-4|Proverbs 16:4]].
-[^11]: [[Yoma 23#23a|*Yoma* 23a]].
+[^11]: *Yoma* [[Yoma 23#23a|23a]].
 [^12]: [[Judges 05#^5-31|Judges 5:31]].
 [^13]: A person who voluntarily undertakes to observe a day of fasting would do better if he volunteered instead to abstain from talking for a day, for this form of “fasting” is not detrimental to his health. (*Mishnah Berurah 571:2*)
 [^14]: Mishnah *Avos* 1:17.
-[^15]: [[Arakhin 15#15b|*Arachin* 15b]].
+[^15]: *Arachin* [[Arakhin 15#15b|15b]].
 [^16]: By engaging in Torah study. (*Rashi*)
 [^17]: By engaging in idle talk and gossip.
 [^18]: The Gemara, *Berachos* 31a states, “A person is forbidden to fill his mouth with laughter.” This applies to raucous hilarity. (*She’arim Metzuyanim Behalachah*)
@@ -90,7 +90,7 @@ chapter: 29
 [^28]: Mishnah Avos 5:3.
 [^29]: This paragraph refers to the case where an individual is being mocked for his performance of a certain mitzvah. However, if the mockery is intended as a flagrant demonstration against Torah Judaism as a whole, as an attempt to influence others to abandon God’s way by holding an observant Jew up to ridicule, then these efforts must be thwarted by whatever means possible, no matter how harsh or drastic they may be. (*Biur Halachah* 1:1)
 [^30]: *Lechem hapanim*, literally “bread of the face” (see [[Torah 31 - Emor#^24-5|Lev. 24:5]],8). It was so called because the sides were bent up. The loaves had the shape of a box with the ends removed. Twelve loaves were placed on the Table in the Sanctuary. They were arranged on a frame in the two stacks of six loaves each. Each Shabbos the loaves were replaced by fresh ones, and the old ones, which miraculously retained their freshness, were divided among the *kohanim*.
-[^31]: [[Yoma 39#39a|*Yoma* 39a]].
+[^31]: *Yoma* [[Yoma 39#39a|39a]].
 [^32]: [[Proverbs 13#^13-20|Proverbs 13:20]].
 [^33]: [[Psalms 001#^1-1|Psalm 1:1]].
 [^34]: “Fortunate is the man who has not walked in the counsel of the wicked, nor stood in the way of sinners, nor sat in the seat of the scornful.”
@@ -109,9 +109,9 @@ chapter: 29
 [^47]: [[Torah 30 - Kedoshim#^19-17|Leviticus 19:17]].
 [^48]: If he commits the sin publicly, you should reproach him on the spot in order to prevent any further desecration of God’s Name. (*Mishnah Berurah* 608:10).
 [^49]: If the sinner is your friend you should chide him even if you know that he will pay no attention to your words. (*Magein Avraham* 156:2)
-[^50]: [[Yevamot 65#65b|*Yevamos* 65b]].
+[^50]: *Yevamos* [[Yevamot 65#65b|65b]].
 [^51]: [[Proverbs 09#^9-8|Proverbs 9:8]].
-[^52]: [[Bava Metzia 58#58b|*Bava Metzia* 58b]].
+[^52]: *Bava Metzia* [[Bava Metzia 58#58b|58b]].
 [^53]: Ibid, 59a.
 [^54]: [[Torah 09 - Vayeshev#^38-25|Genesis 38:25]]. This refers to the incident of Tamar and Yehudah.
 [^55]: [[Torah 30 - Kedoshim#^19-17|Leviticus 19:17]].

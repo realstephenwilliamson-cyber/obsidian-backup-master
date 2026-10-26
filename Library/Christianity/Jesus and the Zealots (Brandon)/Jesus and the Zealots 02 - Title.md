@@ -48,7 +48,7 @@ The University Press ,
 
 Think not that I came to bring peace on the earth: I came not to bring peace, but a sword. 
 
-(Matt. x. 34) 
+([[Matthew 10#^10-34|Matt. x. 34]]) 
 
 Printed in Great Britain 
 

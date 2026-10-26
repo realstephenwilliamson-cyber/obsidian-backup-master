@@ -129,14 +129,14 @@ If it is discovered that [a condemned ox] is not liable to be stoned after it wa
 
 [^1]: *Sefer HaMitzvot* (negative commandment 180) and *Sefer HaChinuch* (mitzvah 472) include this among the 613 mitzvot of the Torah.
 [^2]: See Halachah 10.
-[^3]: From [[Chullin 100#100b|*Chullin* 100b]], it would appear that the rationale for this ruling is the general principle: "One prohibition does not fall upon another prohibition." Since the meat is already prohibited because it is from a non-kosher species, the prohibition of *nevela* does not apply to it. The Rambam's wording, however, is slightly different and may be alluding to a slightly different rationale.
+[^3]: From *Chullin* [[Chullin 100#100b|100b]], it would appear that the rationale for this ruling is the general principle: "One prohibition does not fall upon another prohibition." Since the meat is already prohibited because it is from a non-kosher species, the prohibition of *nevela* does not apply to it. The Rambam's wording, however, is slightly different and may be alluding to a slightly different rationale.
 [^4]: Which was not correctly slaughtered.
 [^5]: This reflects a general concept with regard to the laws of kashrut. As stated in Chapter 2, Law 21, whenever "one eats an entire forbidden creature by itself, one is liable for lashes according to Scriptural Law even if it is smaller than a mustard seed."  
     The commentaries (*Maggid Mishneh*, Rav Moshe HaCohen) question why the Rambam states that the person is liable for eating a *nevelah*. Seemingly, the prohibition he transgresses is eating a limb from a living animal (see Chapter 5). The *Meiri* explains the Rambam's position, stating that an entire creature cannot be considered as "a limb."
 [^6]: For the conception of being liable for an entire creature even though it is not the size of an olive, applies only when that creature is inherently forbidden (*Meiri*). While alive, the bird is considered as an entire forbidden entity, like a non-kosher species. After its death, that distinction does not apply.
-[^7]: For we include the bones and the sinews as well ([[Chullin 102#102b|*Chullin* 102b]]).
+[^7]: For we include the bones and the sinews as well (*Chullin* [[Chullin 102#102b|102b]]).
 [^8]: The same laws apply if the fetus is born alive, but it is obvious that the birth is not viable. Even if the animal is slaughtered in the appropriate manner, we are forbidden to partake of it.
-[^9]: I.e., even if the animal is slaughtered properly, it is forbidden because it is possible that the birth is not viable. Although our Sages ([[Chullin 136#136a|*Chulin* 136a]]) spoke of the eighth day of an animal's life, their intent was the beginning of the eighth day (*Maggid Mishneh*).
+[^9]: I.e., even if the animal is slaughtered properly, it is forbidden because it is possible that the birth is not viable. Although our Sages (*Chulin* [[Chullin 136#136a|136a]]) spoke of the eighth day of an animal's life, their intent was the beginning of the eighth day (*Maggid Mishneh*).
 [^10]: Since it is not a definite matter, lashes are not administered (*ibid.*).
 [^11]: In contrast, an animal may not be offered as a sacrifice until the eighth day of its life ([[Torah 18 - Mishpatim#^22-29|Exodus 22:29]]; *Turei Zahav* 15:3).
 [^12]: I.e., he is not considered to have partaken of a *nevelah*.
@@ -149,26 +149,26 @@ If it is discovered that [a condemned ox] is not liable to be stoned after it wa
 [^19]: This is a general principle employed by our Sages with regard to the interpretation of the Torah's language. When it mentions a specific situation, it is not confining itself to the limited setting mentioned in the verse, but applies to other circumstances as well. Why is that situation mentioned? Because it is common.
 [^20]: For only that is in the direct scope of the verse.
 [^21]: Longer than twelve months (*Hilchot Shechitah* 11:1).
-[^22]: [[Chullin 42#42a|*Chulin* 42a]].
+[^22]: *Chulin* [[Chullin 42#42a|42a]].
 [^23]: From Chapter Five to Chapter Eleven. A concise list is found in Chapter 10, Halachah 9.
 [^24]: For as mentioned above, the prohibition against partaking of a *trefe* applies only with regard to kosher animals.
 [^25]: See Chapter Five, Halachot 2-3, where the Rambam distinguishes between this prohibition and the prohibition against partaking of a limb from a living animal. Note, however, *Hilchot Melachim* 9:10-11 where the Rambam includes eating the meat from an animal and eating a limb from an animal as a single prohibition for a gentile.
 [^26]: I.e., just as we forbid the meat of an animal that was mortally wounded, we should forbid a portion of meat that was cut off with a knife.
 [^27]: I.e., the meat was cut off from its natural place. See also Chapter 5, Halachah 9.
-[^28]: With this explanation, the Rambam is clarifying the distinction [[Chullin 37#37a|*Chulin* 37a]] makes between an animal which is *misukenet* (dangerously ill) and *trefe*. The *trefe* condition is a result of wound, while in the case of a *misukenet*, all of its limbs and organs are sound. Nevertheless, as stated in *Hilchot Trefot* 5:2, there are other physical conditions which render an animal *trefe* even if it has not been attacked by an animal. These conditions were communicated as halachot to Moses at Sinai.
-[^29]: The *Maggid Mishneh* (based on [[Chullin 37#37b|*Chullin* 37b]]) interprets this as a gesture of pious conduct. Note, however, *Siftei Cohen* 17:8.
+[^28]: With this explanation, the Rambam is clarifying the distinction *Chulin* [[Chullin 37#37a|37a]] makes between an animal which is *misukenet* (dangerously ill) and *trefe*. The *trefe* condition is a result of wound, while in the case of a *misukenet*, all of its limbs and organs are sound. Nevertheless, as stated in *Hilchot Trefot* 5:2, there are other physical conditions which render an animal *trefe* even if it has not been attacked by an animal. These conditions were communicated as halachot to Moses at Sinai.
+[^29]: The *Maggid Mishneh* (based on *Chullin* [[Chullin 37#37b|37b]]) interprets this as a gesture of pious conduct. Note, however, *Siftei Cohen* 17:8.
 [^30]: Such a convulsive movement is a sign that it was alive at the time that it was slaughtered, as the Rambam continues to explain in the following halachah.
 [^31]: The *Maggid Mishneh* quotes opinions that maintain that this leniency was granted only to alleviate the financial loss a Jewish owner of an animal would suffer. Therefore, meat from an animal belonging to a gentile which is in such a condition should not be eaten. The *Shulchan Aruch* (*Yoreh De'ah* 116:7) quotes this ruling.
 [^32]: It must be able to stand up on its own when called or hit with a switch. If it is stood up by hand, it is still considered dangerously ill even if it is able to remain standing [Rama (*Yoreh De'ah* 17:1); *Siftei Cohen* 17:1].
-[^33]: I.e., we assume that it died before the slaughter was completed (see [[Chullin 38#38a|*Chulin* 38a]]).
+[^33]: I.e., we assume that it died before the slaughter was completed (see *Chulin* [[Chullin 38#38a|38a]]).
 [^34]: The *Maggid Mishneh* and the *Siftei Cohen* 17:4 quote opinions that rule that if a small domesticated animal's foreleg was extended and it bent it, that is sufficient to render it acceptable.
-[^35]: Note the *Siftei Cohen* 17:5 which quotes different versions of [[Chullin 38#38b|*Chullin* 38b]] that state that a fowl must move its wing. Winking its eyes is not sufficient.
+[^35]: Note the *Siftei Cohen* 17:5 which quotes different versions of *Chullin* [[Chullin 38#38b|38b]] that state that a fowl must move its wing. Winking its eyes is not sufficient.
 [^36]: The *Maggid Mishneh* (and the *Turei Zahav* 17:4 and the *Siftei Cohen* 17:6) quote opinions that maintain that swishing its tail is also sufficient for an animal to be considered as having made a convulsive movement.
 [^37]: I.e., because he cannot see. Needless to say, if the room is illuminated, this law does not apply.
 [^38]: I.e., we follow the principle that when a doubt concerning a Scriptural prohibition is involved, we rule stringently.
 [^39]: As stated in *Hilchot Nazirut* 5:3, although there are separate prohibitions against eating raisins, grape peels, grape seeds, and partaking of wine, if one combined all these substances together, one is liable.
 [^40]: In which instance, the prohibition is Scriptural in origin, but lashes are not given (Chapter 3, Halachah 6).  
-    The Rambam's statements in this and the following halachah touch on an issue of general significance. Rabbi Meir ([[Avodah Zarah 66#66a|*Avodah Zarah* 66a]]) maintains that forbidden substances of different types can be combined together to make a person liable for lashes. The Sages differ and maintain that they cannot be combined, but instead are judged individually. If there is enough of the one substance to make one liable, he is liable. If not, he is exempt.  
+    The Rambam's statements in this and the following halachah touch on an issue of general significance. Rabbi Meir (*Avodah Zarah* [[Avodah Zarah 66#66a|66a]]) maintains that forbidden substances of different types can be combined together to make a person liable for lashes. The Sages differ and maintain that they cannot be combined, but instead are judged individually. If there is enough of the one substance to make one liable, he is liable. If not, he is exempt.  
     The principle stated in Halachot 18-19 is a correlory to these concepts. Since the forbidden substances are not combined with each other, but are instead considered as discrete entities, they help nullify each other, as explained there.
 [^41]: For this is included in the prohibition against a *trefe*, as stated in Halachah 10.
 [^42]: Although each one of these species is mentioned separately in the Torah, they are all included in the same prohibition.

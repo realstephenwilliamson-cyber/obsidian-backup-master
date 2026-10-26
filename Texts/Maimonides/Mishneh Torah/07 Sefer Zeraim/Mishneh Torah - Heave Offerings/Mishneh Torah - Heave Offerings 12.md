@@ -200,6 +200,6 @@ In all the above instances, [*terumah*] may be sent to their homes and allocated
 [^76]: A person with both masculine and feminine sexual organs.
 [^77]: They are forbidden to partake of *terumah*, but they could be taking for their wives, children, or servants.
 [^78]: And thus become forbidden to partake of *terumah*.
-[^79]: For these are not places frequented by multitudes of people. [[Yevamot 99#99b|*Yevamot* 99b]] mentions these two rationales as separate views. The Rambam, however, does not see them as mutually exclusive and combines them both.
+[^79]: For these are not places frequented by multitudes of people. *Yevamot* [[Yevamot 99#99b|99b]] mentions these two rationales as separate views. The Rambam, however, does not see them as mutually exclusive and combines them both.
 [^80]: Rashi (*Yevamot, loc. cit.*) interprets this as meaning a woman whom the priest is forbidden to marry.
 [^81]: The *Kessef Mishneh* notes that *Yevamot, loc. cit.*, does not place an uncircumcised person in this category if his failure to circumcise himself comes as a result of forces beyond his control, e.g., his brothers died because of circumcision. He suggests that perhaps the Rambam had a different version of that passage.

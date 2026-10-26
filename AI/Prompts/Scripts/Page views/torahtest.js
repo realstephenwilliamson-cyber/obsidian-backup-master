@@ -1,9 +1,9 @@
 const fs = require("fs");
 const obs = require("./obs.js");
 const ref = process.argv[2] ?? "", span = process.argv[3] ?? "";
-const extra = { "Texts/Bible/Torah/Torah page.md": `---\nref: "${ref}"\nspan: ${span || '""'}\ncssclasses:\n  - wide\n---\n`,
+const extra = { "Torah View.md": `---\nref: "${ref}"\nspan: ${span || '""'}\ncssclasses:\n  - wide\n---\n`,
   "Journal/2026/2026-10-22.md": "# x\n- question:: why does [[Torah 01 - Bereshit#^1-2|Gen 1:2]] put the spirit over the water?\n- [ ] question:: [[Torah 01 - Bereshit]] task\n- claim:: [[Isaiah 53#^53-4|Isa 53:4]] is read as the servant.\n" };
-const o = obs(extra, { current: "Texts/Bible/Torah/Torah page.md", today: process.argv[4] || "2026-10-22" });
+const o = obs(extra, { current: "Torah View.md", today: process.argv[4] || "2026-10-22" });
 const code = fs.readFileSync("/home/claude/view/torah-page/view.js", "utf8");
 const t0 = Date.now();
 o.run(code).then(() => {

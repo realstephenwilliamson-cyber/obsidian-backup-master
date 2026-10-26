@@ -20,18 +20,11 @@ nyasa: "ha: breath (*prāṇa*) · e: lower teeth (*rada*)"
 ## Front
 
 - **Glyph:** हे
-- **Variation:** —
-- **Example:** —
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** —
-- **Line under the name (no printed label):** Is a word
-- **Class (as printed):** long syllable
-- **Note (no printed label):** vocative particle like ‘hey!’
-- **Grid:** a row of vowel signs (◌े ◌ै ◌ो ◌ौ) above the five rows of stops + य र ल व + श ष स ह; in bold: ◌े, ह
-- **Example:** —
+> [!note]- Back
+> - **Line under the name:** Is a word
+> - **Class:** long syllable · vocative particle like ‘hey!’
+> - <u>े</u> ै ो ौ / क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / य र ल व / श ष स <u>ह</u>
 
 ## Register
 

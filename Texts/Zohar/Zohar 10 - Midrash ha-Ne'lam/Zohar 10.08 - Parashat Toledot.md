@@ -199,11 +199,11 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
     On the impermanence of the body of dust, see *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-16b|16b]] (*MhN*). On receiving souls in the land of Israel, see *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-69a|1:69a]], [[Zohar 10.06 - Parashat Va-Yera#^z1-113b|113b]] (*MhN*), [[Zohar 10.06 - Parashat Va-Yera#^z1-114a|114a–b]] (*MhN*), [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-128b|128b]] (*MhN*), [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-131a|131a]]. On [[Song of Songs 7#^7-14|Song of Songs 7:14]], see *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-156b|1:156b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-242b|242b–243a]]; *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-22a|22a]] (*MhN*). On [[Isaiah 52#^52-2|Isaiah 52:2]], see *Zohar* [[Zohar 4.03 - Parashat Shemot#^z2-7a|2:7a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-6b|3:6b]].
 
-[^2]: **הדודים (*ha-dodim*), the companions—body and soul…** In the post-resurrection world, there is no longer any animosity or tension between the earthly body and the heavenly soul. Instead, total harmony reigns. Cf. the parable of the body and soul in BT [[Sanhedrin 91#91a|*Sanhedrin* 91a]].
+[^2]: **הדודים (*ha-dodim*), the companions—body and soul…** In the post-resurrection world, there is no longer any animosity or tension between the earthly body and the heavenly soul. Instead, total harmony reigns. Cf. the parable of the body and soul in BT *Sanhedrin* [[Sanhedrin 91#91a|91a]].
 
-[^3]: **Just as mandrakes engender love in the world…** On mandrakes and love/sexual arousal/fertility, see [[Torah 07 - Vayetzei#^30-14|Genesis 30:14–17]]; Naḥmanides, ad loc., verse 14. See also *Bereshit Rabbah* 72:5; JT *Shabbat* 6:2, 8b; BT [[Sanhedrin 99#99b|*Sanhedrin* 99b]].
+[^3]: **Just as mandrakes engender love in the world…** On mandrakes and love/sexual arousal/fertility, see [[Torah 07 - Vayetzei#^30-14|Genesis 30:14–17]]; Naḥmanides, ad loc., verse 14. See also *Bereshit Rabbah* 72:5; JT *Shabbat* 6:2, 8b; BT *Sanhedrin* [[Sanhedrin 99#99b|99b]].
 
-    On mandrakes and their fragrance signifying the righteous and their deeds, see BT [[Eruvin 21#21b|*Eruvin* 21b]]; *Shir ha-Shirim Rabbah* on 7:14; *Shir ha-Shirim Zuta* on 7:14.
+    On mandrakes and their fragrance signifying the righteous and their deeds, see BT *Eruvin* [[Eruvin 21#21b|21b]]; *Shir ha-Shirim Rabbah* on 7:14; *Shir ha-Shirim Zuta* on 7:14.
 
 [^4]: **A heavenly voice…** The celestial voice addresses the body: your soul has been treasured away in the upper worlds.
 
@@ -211,23 +211,23 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
     See *Targum Onqelos* and *Targum Yerushalmi* on the verse from Numbers, where נתן (*natan*), “give,” is rendered as שבק (*shevaq*), “leave, allow.” Hence: *the mandrakes give forth fragrance*—the angels allow the soul. Cf. *Matoq mi-Devash*.
 
-    On the three companies of angels, see BT [[Ketubot 104#104a|*Ketubbot* 104a]]; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-98a|1:98a]] (*MhN*). See also *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-18b|18b]] (*MhN*).
+    On the three companies of angels, see BT *Ketubbot* [[Ketubot 104#104a|104a]]; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-98a|1:98a]] (*MhN*). See also *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-18b|18b]] (*MhN*).
 
 [^6]: **How then shall we establish…** Previously, *delicacies* signified the souls poised to descend. If, however, *fragrance* indicates the soul, what then is implied by *delicacies*?
 
-[^7]: **Dumah delivers the tally-note…** Dumah, the prince of the dead, has a list of the righteous bodies worthy of resurrection. See *Zohar* [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-121a|1:121a]] (*Tos*), [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-123a|123a–124b]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-127b|127b]] (both *MhN*).
+[^7]: **Dumah delivers the tally-note…** Dumah, the prince of the dead, has a list of the righteous bodies worthy of resurrection. See *Zohar* [[Zohar 11.08 - Tosefta#^z1-121a|1:121a]] (*Tos*), [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-123a|123a–124b]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-127b|127b]] (both *MhN*).
 
 [^8]: ***YHVH will rejoice in His works*…** On [[Psalms 104#^104-31|Psalms 104:31]], see *Vayiqra Rabbah* 20:2; *Tanḥuma, Aḥarei Mot* 2; *Tanḥuma* (Buber), *Aḥarei Mot* 3; *Midrash Tehillim* 75:2; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-102b|1:102b]] (*MhN*), [[Zohar 10.06 - Parashat Va-Yera#^z1-114a|114a]] (*MhN*), [[Zohar 10.06 - Parashat Va-Yera#^z1-115a|115a]] (*MhN*), [[Zohar 10.06 - Parashat Va-Yera#^z1-116a|116a]] (*MhN*), [[Zohar 2.03 - Parashat Va-Yera#^z1-119a|119a]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-182a|182a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-57b|2:57b]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-259a|259a]] (*Heikh*); [[Zohar 7.03 - Parashat Va-Yiqra#^z3-16a|3:16a]].
 
-    On the connection between joy and the indwelling of the *Shekhinah*, see BT [[Shabbat 30#30b|*Shabbat* 30b]].
+    On the connection between joy and the indwelling of the *Shekhinah*, see BT *Shabbat* [[Shabbat 30#30b|30b]].
 
-[^9]: **righteous are destined to… revive the dead** See BT [[Pesachim 68#68a|*Pesaḥim* 68a]]; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-114b|1:114b]] (*MhN*).
+[^9]: **righteous are destined to… revive the dead** See BT *Pesaḥim* [[Pesachim 68#68a|68a]]; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-114b|1:114b]] (*MhN*).
 
 [^10]: ***There is nothing new under the sun*…** Apparently, Rabbi Yose is wondering: if the righteous do not have the power to resurrect the dead in this world, how will they have such power in the post-resurrection world?
 
-    See BT [[Shabbat 30#30b|*Shabbat* 30b]]: “Rabban Gamaliel sat and expounded, ‘Woman is destined to give birth every day, as is said: *she conceives and bears simultaneously* ([[Jeremiah 31#^31-8|Jeremiah 31:8]]).’ A certain disciple scoffed at him, saying, ‘*There is nothing new under the sun*!’ He replied, ‘Come, and I will show you its equal in this world.’ He went forth and showed him a hen. Once again Rabban Gamaliel sat and expounded, ‘Trees are destined to yield fruit every day, as is said: *it shall bring forth boughs and bear fruit* ([[Ezekiel 17#^17-23|Ezekiel 17:23]]). Just as the boughs [grow] every day, so shall there be fruit every day.’ A certain disciple scoffed at him, saying, ‘But it is written: *There is nothing new under the sun*!’ He replied, ‘Come, and I will show you its equal in this world.’ He went forth and showed him the caper bush. Once again Rabban Gamaliel sat and expounded, ‘The land of Israel is destined to bring forth cakes and fine woolen robes, as is said: *There shall be abundant grain in the land* ([[Psalms 072#^72-16|Psalms 72:16]]).’ A certain disciple scoffed at him, saying, ‘*There is nothing new under the sun!*’ He replied, ‘Come, and I will show you their equal in this world.’ He went forth and showed him morels and truffles; and for fine woolen robes [he showed him] the bark of a young palm-shoot.”
+    See BT *Shabbat* [[Shabbat 30#30b|30b]]: “Rabban Gamaliel sat and expounded, ‘Woman is destined to give birth every day, as is said: *she conceives and bears simultaneously* ([[Jeremiah 31#^31-8|Jeremiah 31:8]]).’ A certain disciple scoffed at him, saying, ‘*There is nothing new under the sun*!’ He replied, ‘Come, and I will show you its equal in this world.’ He went forth and showed him a hen. Once again Rabban Gamaliel sat and expounded, ‘Trees are destined to yield fruit every day, as is said: *it shall bring forth boughs and bear fruit* ([[Ezekiel 17#^17-23|Ezekiel 17:23]]). Just as the boughs [grow] every day, so shall there be fruit every day.’ A certain disciple scoffed at him, saying, ‘But it is written: *There is nothing new under the sun*!’ He replied, ‘Come, and I will show you its equal in this world.’ He went forth and showed him the caper bush. Once again Rabban Gamaliel sat and expounded, ‘The land of Israel is destined to bring forth cakes and fine woolen robes, as is said: *There shall be abundant grain in the land* ([[Psalms 072#^72-16|Psalms 72:16]]).’ A certain disciple scoffed at him, saying, ‘*There is nothing new under the sun!*’ He replied, ‘Come, and I will show you their equal in this world.’ He went forth and showed him morels and truffles; and for fine woolen robes [he showed him] the bark of a young palm-shoot.”
 
-[^11]: **As long as the wicked are in the world…** Apparently Rabbi Yehudah intends that the righteous do indeed possess the power of resurrection in this world, but that the proliferation of the wicked hinders this power (cf. BT [[Sanhedrin 65#65b|*Sanhedrin* 65b]]). In the future, when the wicked are removed and the existence of the world is fully actualized, the righteous will be able to utilize their full capacities. Hence, by reviving the dead the righteous will not contravene the principle *there is nothing new under the sun*. On the verse from Zechariah, see BT [[Pesachim 68#68a|*Pesaḥim* 68a]]; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-114b|1:114b]] (*MhN*).
+[^11]: **As long as the wicked are in the world…** Apparently Rabbi Yehudah intends that the righteous do indeed possess the power of resurrection in this world, but that the proliferation of the wicked hinders this power (cf. BT *Sanhedrin* [[Sanhedrin 65#65b|65b]]). In the future, when the wicked are removed and the existence of the world is fully actualized, the righteous will be able to utilize their full capacities. Hence, by reviving the dead the righteous will not contravene the principle *there is nothing new under the sun*. On the verse from Zechariah, see BT *Pesaḥim* [[Pesachim 68#68a|68a]]; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-114b|1:114b]] (*MhN*).
 
     See also *Tanḥuma, Nitsavim* 4: “You [the righteous] are the existence of this world and the world to come.”
 
@@ -235,17 +235,17 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
     On the verse from Isaiah, see BT *Ta’anit* 31a: “Ulla Bira’ah said in the name of Rabbi El’azar, ‘The blessed Holy One will one day hold a dance for the righteous and He will sit in their midst in the Garden of Eden and everyone will point with their finger, as is said: *In that day they shall say: Look, this is our God; we waited for Him and He saved us! This is YHVH, for whom we have waited; let us rejoice and exult in His salvation*.’” See *Tanḥuma* (Buber), *Tsav* 16, *Bemidbar* 20; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-115a|1:115a]] (*MhN*).
 
-    On the attainment of perfect knowledge, see *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-113b|1:113b]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-126a|126a]], [[Zohar 10.08 - Parashat Toledot#^z1-140a|140a]] (all *MhN*); *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-15d|15d]] (*MhN*). On delighting in the *Shekhinah*, see BT [[Berakhot 17#17a|*Berakhot* 17a]]: “A pearl in the mouth of Rav: In the world to come, there is no eating or drinking or procreation or business or jealousy or hatred or competition; rather, the righteous sit with their crowns on their heads, delighting in the splendor of *Shekhinah*, as is said: *They beheld God and they ate and drank* ([[Torah 18 - Mishpatim#^24-11|Exodus 24:11]]).”
+    On the attainment of perfect knowledge, see *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-113b|1:113b]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-126a|126a]], [[Zohar 10.08 - Parashat Toledot#^z1-140a|140a]] (all *MhN*); *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-15d|15d]] (*MhN*). On delighting in the *Shekhinah*, see BT *Berakhot* [[Berakhot 17#17a|17a]]: “A pearl in the mouth of Rav: In the world to come, there is no eating or drinking or procreation or business or jealousy or hatred or competition; rather, the righteous sit with their crowns on their heads, delighting in the splendor of *Shekhinah*, as is said: *They beheld God and they ate and drank* ([[Torah 18 - Mishpatim#^24-11|Exodus 24:11]]).”
 
     The *Zohar*’s account here of intellectual apprehension and perfection is reminiscent of Maimonides (see *Mishneh Torah, Hilkhot Teshuvah*, 8:2; idem, *Pereq Ḥeleq*), though with one important difference. For Maimonides, such apprehension is the patrimony of the soul alone; for the *Zohar* it is for the reunited soul and body after the resurrection.
 
     As throughout *MhN*, Abraham signifies the soul.
 
-[^13]: **a banquet for the righteous in the time to come…** See BT [[Bava Batra 75#75a|*Bava Batra* 75a]]: “Rabbah said in the name of Rabbi Yoḥanan, ‘In the future the blessed Holy One will one day make a banquet for the righteous from the flesh of Leviathan… ’”
+[^13]: **a banquet for the righteous in the time to come…** See BT *Bava Batra* [[Bava Batra 75#75a|75a]]: “Rabbah said in the name of Rabbi Yoḥanan, ‘In the future the blessed Holy One will one day make a banquet for the righteous from the flesh of Leviathan… ’”
 
-    See also BT [[Bava Batra 74#74b|*Bava Batra* 74b]] in the name of Rav: “Everything that the blessed Holy One created in His world, He created male and female. Even *Leviathan the elusive snake* and *Leviathan the writhing snake* ([[Isaiah 27#^27-1|Isaiah 27:1]]) He created male and female; and if they mated with another, they would destroy the entire world. What did the blessed Holy One do? He castrated the male and killed the female, salting her for the righteous in the world to come.”
+    See also BT *Bava Batra* [[Bava Batra 74#74b|74b]] in the name of Rav: “Everything that the blessed Holy One created in His world, He created male and female. Even *Leviathan the elusive snake* and *Leviathan the writhing snake* ([[Isaiah 27#^27-1|Isaiah 27:1]]) He created male and female; and if they mated with another, they would destroy the entire world. What did the blessed Holy One do? He castrated the male and killed the female, salting her for the righteous in the world to come.”
 
-    See also *Vayiqra Rabbah* 13:3; *Tanḥuma*, *Nitsavim*, 4; *Pesiqta de-Rav Kahana*, Supplement 2:4; *Pirqei de-Rabbi Eli’ezer* 10; cf. M *Avot* 3:16; BT [[Pesachim 119#119b|*Pesaḥim* 119b]]. See Ginzberg, *Legends* 5:43–6.
+    See also *Vayiqra Rabbah* 13:3; *Tanḥuma*, *Nitsavim*, 4; *Pesiqta de-Rav Kahana*, Supplement 2:4; *Pirqei de-Rabbi Eli’ezer* 10; cf. M *Avot* 3:16; BT *Pesaḥim* [[Pesachim 119#119b|119b]]. See Ginzberg, *Legends* 5:43–6.
 
 [^14]: **Until I went before those holy angels…** Only when Rabbi Ḥiyya learns with the Masters of Mishnah does he understand the true significance of the banquet of the righteous. His heart is at ease, as the banquet no longer entails simplistic or fantastic beliefs.
 
@@ -253,9 +253,9 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
     The context in Exodus 24 (9–11) reads: *Moses and Aaron, Nadab and Abihu, and seventy of the elders of Israel ascended. They saw the God of Israel, and beneath His feet was like a fashioning of sapphire pavement and like the essence of heaven for purity. Yet against the nobles of the Children of Israel He did not send forth His hand—they beheld God, and they ate and drank*.
 
-    In numerous rabbinic texts, the verse *They beheld God and they ate and drank* (the plain meaning of which implies a covenant meal) is interpreted as signifying nourishment by, or delight in, the *Shekhinah*. See BT [[Berakhot 17#17a|*Berakhot* 17a]] (quoted above, note 12); *Avot de-Rabbi Natan* A, 1. See also *Vayiqra Rabbah* 20:10: “Rabbi Hosha’yah said, ‘Did they take provisions up with them to Sinai, that it is written *They beheld God* [*and they ate and drank*]? Rather this teaches that they feasted their eyes on *Shekhinah*, like a person looking at his friend while eating and drinking.’ Rabbi Yoḥanan said, ‘Actual eating, as is said: *In the light of the king’s face is life* ([[Proverbs 16#^16-15|Proverbs 16:15]]).’” See also *Pesiqta de-Rav Kahana* 26:9; *Bemidbar Rabbah* 2:25; *Tanḥuma, Aḥarei Mot* 6; *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-104a|1:104a]]; [[Zohar 5.04 - Sava de-Mishpatim#^z2-126a|2:126a]]. See also *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-22c|22c]] (*MhN*).
+    In numerous rabbinic texts, the verse *They beheld God and they ate and drank* (the plain meaning of which implies a covenant meal) is interpreted as signifying nourishment by, or delight in, the *Shekhinah*. See BT *Berakhot* [[Berakhot 17#17a|17a]] (quoted above, note 12); *Avot de-Rabbi Natan* A, 1. See also *Vayiqra Rabbah* 20:10: “Rabbi Hosha’yah said, ‘Did they take provisions up with them to Sinai, that it is written *They beheld God* [*and they ate and drank*]? Rather this teaches that they feasted their eyes on *Shekhinah*, like a person looking at his friend while eating and drinking.’ Rabbi Yoḥanan said, ‘Actual eating, as is said: *In the light of the king’s face is life* ([[Proverbs 16#^16-15|Proverbs 16:15]]).’” See also *Pesiqta de-Rav Kahana* 26:9; *Bemidbar Rabbah* 2:25; *Tanḥuma, Aḥarei Mot* 6; *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-104a|1:104a]]; [[Zohar 5.04 - Sava de-Mishpatim#^z2-126a|2:126a]]. See also *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-22c|22c]] (*MhN*).
 
-    Rabbi El’azar’s distinction—between delighting in and being nourished by the *Shekhinah* as two different levels of celestial bliss—derives from the fact that in some rabbinic texts we find the expression “delight in the *Shekhinah*” (for example, BT [[Berakhot 17#17a|*Berakhot* 17a]]), while in others “nourished by the *Skekhinah*” (for example, *Avot de-Rabbi Natan* A, 1). On this distinction, see *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-21a|21a]] (*MhN*). See also *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-18b|18b]] (*MhN*).
+    Rabbi El’azar’s distinction—between delighting in and being nourished by the *Shekhinah* as two different levels of celestial bliss—derives from the fact that in some rabbinic texts we find the expression “delight in the *Shekhinah*” (for example, BT *Berakhot* [[Berakhot 17#17a|17a]]), while in others “nourished by the *Skekhinah*” (for example, *Avot de-Rabbi Natan* A, 1). On this distinction, see *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-21a|21a]] (*MhN*). See also *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-18b|18b]] (*MhN*).
 
     On Moses’ having been nourished by the *Shekhinah*, see *Shemot Rabbah* 47:5: “*He was there with YHVH forty days and forty nights* ([[Torah 21 - Ki Tisa#^34-28|Exodus 34:28]]). Is it possible for a person to go forty days without food or drink? Rabbi Tanḥuma said in the name of Rabbi El’azar son of Rabbi Avin in the name of Rabbi Meir, ‘The proverb runs: When you go into a city, follow its customs. When Moses ascended on high, where there is no eating or drinking, he emulated them….’ *He ate no bread* (ibid.)—eating only the bread of the Torah; *and drank no water* (ibid.)—drinking only of the water of the Torah.… Whence did he derive his nourishment? He was nourished by the splendor of *Shekhinah*.” See also *Shemot Rabbah* 3:1, 47:7; *Vayiqra Rabbah* 20:10; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-10a|10a]], [[Zohar 10.03 - Parashat Be-Reshit#^zh-15b|15b]] (both *MhN*).
 
@@ -269,15 +269,15 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
 [^17]: **This and that will be…** Namely, in the post-resurrection world the righteous will attain both perfect knowledge and experience great joy.
 
-[^18]: **The wine preserved in its grapes…** See BT [[Berakhot 34#34b|*Berakhot* 34b]]: “What is implied by the verse *No eye has seen*, [*O God, but You, what You will do for one who awaits you*] ([[Isaiah 64#^64-3|Isaiah 64:3]])? Rabbi Yehoshu’a son of Levi said, ‘The wine preserved in its grapes since the six days of creation.’”
+[^18]: **The wine preserved in its grapes…** See BT *Berakhot* [[Berakhot 34#34b|34b]]: “What is implied by the verse *No eye has seen*, [*O God, but You, what You will do for one who awaits you*] ([[Isaiah 64#^64-3|Isaiah 64:3]])? Rabbi Yehoshu’a son of Levi said, ‘The wine preserved in its grapes since the six days of creation.’”
 
-    See *Zohar* [[Zohar 3.04 - Parashat Va-Yeshev#^z1-192a|1:192a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-238b|238b]]; [[Zohar 5.05 - Parashat Terumah#^z2-147a|2:147a]], [[Zohar 5.05 - Parashat Terumah#^z2-169b|169b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-4a|3:4a]], [[Zohar 7.03 - Parashat Va-Yiqra#^z3-12b|12b]], [[Zohar 7.05 - Parashat Shemini#^z3-39b|39b–40a]], [[Zohar 8.04 - Parashat Emor#^z3-93b|93b]]; *ZḤ* [[Zohar 10.09 - Parashat Va-Yetse#^zh-28b|28b]] (*MhN*), 64c (*ShS*).
+    See *Zohar* [[Zohar 3.04 - Parashat Va-Yeshev#^z1-192a|1:192a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-238b|238b]]; [[Zohar 5.05 - Parashat Terumah#^z2-147a|2:147a]], [[Zohar 5.05 - Parashat Terumah#^z2-169b|169b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-4a|3:4a]], [[Zohar 7.03 - Parashat Va-Yiqra#^z3-12b|12b]], [[Zohar 7.05 - Parashat Shemini#^z3-39b|39b–40a]], [[Zohar 8.04 - Parashat Emor#^z3-93b|93b]]; *ZḤ* [[Zohar 10.09 - Parashat Va-Yetse#^zh-28b|28b]] (*MhN*), [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-64c|64c]] (*ShS*).
 
-    On the connection between wine and secrets, see BT [[Eruvin 65#65a|*Eruvin* 65a]] in the name of Rabbi Ḥiyya: “יין (*Yayin*), wine, has the numerical value of seventy; and סוד (*sod*), secret, has the numerical value of seventy: when wine goes in, secrets come out.” On the revelation of secrets in the Messianic era, see *Zohar* [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-152a|3:152a]].
+    On the connection between wine and secrets, see BT *Eruvin* [[Eruvin 65#65a|65a]] in the name of Rabbi Ḥiyya: “יין (*Yayin*), wine, has the numerical value of seventy; and סוד (*sod*), secret, has the numerical value of seventy: when wine goes in, secrets come out.” On the revelation of secrets in the Messianic era, see *Zohar* [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-152a|3:152a]].
 
 [^19]: **If so, what is the leviathan and what is the bull…** The allegorical interpretation of the banquet is not convincing. Scripture explicitly mentions Leviathan and Behemoth—which Rabbi Yehudah here equates with a bull.
 
-    The verse in Job describes the domain of the mythical beast Behemoth, who according to BT [[Bava Batra 74#74b|*Bava Batra* 74b]] is also on the eschatological menu.
+    The verse in Job describes the domain of the mythical beast Behemoth, who according to BT *Bava Batra* [[Bava Batra 74#74b|74b]] is also on the eschatological menu.
 
     See *Vayiqra Rabbah* 22:10; *Pesiqta de-Rav Kahana* 6:1; *Tanḥuma, Pinḥas* 12; *Pirqei de-Rabbi Eli’ezer* 11.
 
@@ -331,7 +331,7 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
     According to Rabbi Yehoshu’a son of Ḥananya in the Midrash, God will resurrect humans from the vertebra at the base of the spinal column, which does not decompose in the grave. See *Bereshit Rabbah* 28:3; *Vayiqra Rabbah* 18:1; *Qohelet Rabbah* on 12:5; *Pirqei de-Rabbi Eli’ezer* 34; *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-69a|1:69a]], [[Zohar 10.06 - Parashat Va-Yera#^z1-113a|113a]] (*MhN*), [[Zohar 10.06 - Parashat Va-Yera#^z1-116a|116a]] (*MhN*), [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-126a|126a]] (*MhN*); [[Zohar 4.04 - Parashat Va-Era#^z2-28b|2:28b]]; [[Zohar 9.11 - Parashat Pinehas#^z3-222a|3:222a]], [[Zohar 9.12 - Parashat Va-Ethannan#^z3-270b|270b]]; Moses de León, *Sefer ha-Rimmon*, 271; idem, *Sefer ha-Mishqal*, 87.
 
-    On the “coastal towns,” see BT [[Rosh Hashanah 26#26a|*Rosh ha-Shanah* 26a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-6d|6d]] (*MhN*); Scholem, “Parashah Ḥadashah,” 429 (Addendum 1 in this volume).
+    On the “coastal towns,” see BT *Rosh ha-Shanah* [[Rosh Hashanah 26#26a|26a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-6d|6d]] (*MhN*); Scholem, “Parashah Ḥadashah,” 429 (Addendum 1 in this volume).
 
 [^32]: **does not suffer the taste of human food…** The secret of the spinal bone’s endurance is that it does not partake of human food. This constitutes its deception as well, as it deceives the other bones of the body who do partake and therefore wither away. Hence: *Rebekah* (the resurrected body) will be generated from *the daughter of Bethuel* (the spinal bone) *the Aramean* (reading Aramean as *rammai*, “deceiver”).
 
@@ -343,15 +343,15 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
     See *Vayiqra Rabbah* 23:1: “*Like a lily among thorns, so is my beloved among maidens* ([[Song of Songs 2#^2-2|Song of Songs 2:2]]). Rabbi Yitsḥak interpreted this verse as applying to Rebekah. ‘*Isaac was forty years old when he took Rebekah as his wife, daughter of Bethuel the Aramean from Paddan Aram, sister of Laban the Aramean*. Why does Scripture state *sister of Laban* הארמי (*ha-arammi*), the Aramean? Hasn’t it already been stated *daughter of Bethuel the Aramean*? And why does Scripture state: *daughter of Bethuel the Aramean*? Isn’t it stated *sister of Laban the Aramean*? The reason is that the blessed Holy One said, “Her father was רמאי (*rammai*), a deceiver, and her brother was a deceiver, and the people of her place were deceivers; yet this righteous woman emerged from among them. Among them she was like a lily among thorns.”’” See *Bereshit Rabbah* 63:4; *Shir ha-Shirim Rabbah* on 2:2.
 
-    On *padna* as pair, see BT [[Bava Kamma 96#96b|*Bava Qamma* 96b]] and Rashi, ad loc.; see also Rashi on [[Torah 06 - Toldot#^25-20|Genesis 25:20]].
+    On *padna* as pair, see BT *Bava Qamma* [[Bava Kamma 96#96b|96b]] and Rashi, ad loc.; see also Rashi on [[Torah 06 - Toldot#^25-20|Genesis 25:20]].
 
     Even though the resurrected body is described as the sister of the evil impulse, in the post-resurrection world the evil impulse will have a different hue. Laban, meaning “white,” signifies the cleansed evil impulse. The base quality of the evil impulse will be eliminated, though its purer and refined aspect will remain. Lot, meaning “cursed,” becomes Laban (“white”).
 
-    On the abolition of the evil impulse, see BT [[Sukkah 52#52a|*Sukkah* 52a]]; *Shemot Rabbah* 41:7; *Tanḥuma* (Buber), *Bereshit* 40, *Qedoshim* 15; Naḥmanides on [[Torah 51 - Nitzavim#^30-6|Deuteronomy 30:6]]; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-109a|1:109a]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-128b|128b]] (both *MhN*). Cf. *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-124a|1:124a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-127a|127a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-131a|131a]].
+    On the abolition of the evil impulse, see BT *Sukkah* [[Sukkah 52#52a|52a]]; *Shemot Rabbah* 41:7; *Tanḥuma* (Buber), *Bereshit* 40, *Qedoshim* 15; Naḥmanides on [[Torah 51 - Nitzavim#^30-6|Deuteronomy 30:6]]; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-109a|1:109a]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-128b|128b]] (both *MhN*). Cf. *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-124a|1:124a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-127a|127a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-131a|131a]].
 
     See also [[Isaiah 25#^25-7|Isaiah 25:7]]: *He will destroy on this mount* הלוט‎ פני (*pnei ha-lot*), *the shroud*, הלוט (*ha-lot*), *that is drawn, over the faces of all the peoples, and the covering that is spread over all the nations*.
 
-    On Lot as the evil impulse, see *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-78a|1:78a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-79a|79a]] (both *ST*); [[Zohar 10.06 - Parashat Va-Yera#^z1-109a|109a–110b]] (*MhN*); *ZḤ* [[Zohar 10.05 - Parashat Lekh Lekha#^zh-24b|24b]], [[Zohar 10.05 - Parashat Lekh Lekha#^zh-24d|24d]] (both *MhN*). On the evil impulse as “repulsive,” see BT [[Sukkah 52#52b|*Sukkah* 52b]].
+    On Lot as the evil impulse, see *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-78a|1:78a]], [[Zohar 11.09 - Sitrei Torah#^z1-79a|79a]] (both *ST*); [[Zohar 10.06 - Parashat Va-Yera#^z1-109a|109a–110b]] (*MhN*); *ZḤ* [[Zohar 10.05 - Parashat Lekh Lekha#^zh-24b|24b]], [[Zohar 10.05 - Parashat Lekh Lekha#^zh-24d|24d]] (both *MhN*). On the evil impulse as “repulsive,” see BT *Sukkah* [[Sukkah 52#52b|52b]].
 
     It is possible that Rabbi Shim’on is still the speaker.
 
@@ -365,11 +365,11 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
 [^38]: **when the evil impulse is aroused, there is procreation** Isaac had to pray that his wife conceive, as in the absence of a fully primed evil impulse there is no procreation.
 
-    According to Rabbi Aḥa, in the post-resurrection world there is still procreation. Cf. BT [[Berakhot 17#17a|*Berakhot* 17a]]: “A pearl in the mouth of Rav: ‘In the world to come there is no eating or drinking or procreation or business or jealousy or hatred or competition; rather, the righteous sit with their crowns on their heads, basking in the radiance of *Shekhinah*.’” See also *Midrash Tehillim* 146:4; Maimonides, *Mishneh Torah, Hilkhot Teshuvah* 8:2.
+    According to Rabbi Aḥa, in the post-resurrection world there is still procreation. Cf. BT *Berakhot* [[Berakhot 17#17a|17a]]: “A pearl in the mouth of Rav: ‘In the world to come there is no eating or drinking or procreation or business or jealousy or hatred or competition; rather, the righteous sit with their crowns on their heads, basking in the radiance of *Shekhinah*.’” See also *Midrash Tehillim* 146:4; Maimonides, *Mishneh Torah, Hilkhot Teshuvah* 8:2.
 
     On the relationship between the evil impulse and sexual arousal and procreation, see *Bereshit Rabbah* 9:7: “Rabbi Naḥman said in the name of Rabbi Shemu’el, ‘*Behold, it was very good*—this is the good impulse; *And behold, it was very good* ([[Torah 01 - Bereshit#^1-31|Genesis 1:31]])—this is the evil impulse. Is the evil impulse very good? How astonishing! Yet were it not for the evil impulse, no man would ever build a house, marry a woman, or engender children.’”
 
-    According to BT [[Yoma 69#69b|*Yoma* 69b]], in the days of Ezra and Nehemiah, the leaders of the Israelites prayed that the evil impulse be eliminated. The impulse to commit idolatry was handed over to them, and they cast it into a lead pot with a lead cover, rendering it powerless. They prayed further, and the sexual impulse was also handed over to them, but a prophet warned, “‘Realize that if you kill him, the world will be destroyed [because the desire to procreate will vanish].’ They imprisoned him for three days, and looked within the whole land of Israel for a fresh egg and could not find it. They said, ‘What should we do? If we kill him, the world will be destroyed.’… They blinded him and let him go. This helped, inasmuch as he no longer entices a person to commit incest.”
+    According to BT *Yoma* [[Yoma 69#69b|69b]], in the days of Ezra and Nehemiah, the leaders of the Israelites prayed that the evil impulse be eliminated. The impulse to commit idolatry was handed over to them, and they cast it into a lead pot with a lead cover, rendering it powerless. They prayed further, and the sexual impulse was also handed over to them, but a prophet warned, “‘Realize that if you kill him, the world will be destroyed [because the desire to procreate will vanish].’ They imprisoned him for three days, and looked within the whole land of Israel for a fresh egg and could not find it. They said, ‘What should we do? If we kill him, the world will be destroyed.’… They blinded him and let him go. This helped, inasmuch as he no longer entices a person to commit incest.”
 
     See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-49a|1:49a]], [[Zohar 1.08 - Parashat Noah#^z1-61a|61a]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-128b|128b]] (*MhN*); [[Zohar 9.09 - Yanuqa#^z3-189a|3:189a]].
 
@@ -379,19 +379,19 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
 [^40]: **solely for that coupling…** According to Rabbi Aḥa, it is indeed God who will arouse the evil impulse, but only for the sublime purpose of procreation. Procreation notwithstanding, the evil impulse will be impotent.
 
-    On the verse from Ezekiel, see BT [[Sukkah 52#52a|*Sukkah* 52a]]; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-109a|1:109a]] (*MhN*); [[Zohar 9.12 - Parashat Va-Ethannan#^z3-267b|3:267b]].
+    On the verse from Ezekiel, see BT *Sukkah* [[Sukkah 52#52a|52a]]; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-109a|1:109a]] (*MhN*); [[Zohar 9.12 - Parashat Va-Ethannan#^z3-267b|3:267b]].
 
 [^41]: **from Cappadocia to Lydda…** This improbable journey from eastern Asia Minor to a city in Palestine recurs frequently in the *Zohar* and usually (though not here) includes an encounter with some surprising character. See 1:69b, 132a, 160a, 197b, 223a; 2:31a, 38b, 80b, 86a; 3:35a, 75b, 221b; *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-22a|22a]] (*MhN*).
 
-    The itinerary seems to be intentionally fantastic, though perhaps the author(s) imagined that Cappadocia was a Galilean village near Sepphoris, based on the phrase “Cappadocians of Sepphoris” in JT *Shevi’it* 9:5, 39a. According to a dream interpretation in *Bereshit Rabbah* 68:12, Cappadocia is not far at all from Palestine. Cappadocia figures prominently in M *Ketubbot* 13:11 and BT [[Ketubot 110#110b|*Ketubbot* 110b]], while Cappadocia and Lydda are linked in *Tosefta Yevamot* 4:5 and BT [[Yevamot 25#25b|*Yevamot* 25b]].
+    The itinerary seems to be intentionally fantastic, though perhaps the author(s) imagined that Cappadocia was a Galilean village near Sepphoris, based on the phrase “Cappadocians of Sepphoris” in JT *Shevi’it* 9:5, 39a. According to a dream interpretation in *Bereshit Rabbah* 68:12, Cappadocia is not far at all from Palestine. Cappadocia figures prominently in M *Ketubbot* 13:11 and BT *Ketubbot* [[Ketubot 110#110b|110b]], while Cappadocia and Lydda are linked in *Tosefta Yevamot* 4:5 and BT *Yevamot* [[Yevamot 25#25b|25b]].
 
     See Scholem, “She’elot be-Viqqoret ha-Zohar,” 40–46 (and the appended note by S. Klein), 56; idem, *Major Trends*, 169; idem, *Kabbalah*, 222; Tishby, *Wisdom of the Zohar* 1:63–64.
 
 [^42]: **joy of learning…** Not only is the evil impulse the source of sexual desire, but also intellectual desire.
 
-    See BT [[Sukkah 52#52a|*Sukkah* 52a]]: “*The hidden one I will remove from among you* ([[Joel 2#^2-20|Joel 2:20]]). This is the evil impulse, which is hidden and poised in a person’s heart.… *For it has performed mightily* (ibid.). Abbaye said, ‘Among the Torah scholars more than anyone!’”
+    See BT *Sukkah* [[Sukkah 52#52a|52a]]: “*The hidden one I will remove from among you* ([[Joel 2#^2-20|Joel 2:20]]). This is the evil impulse, which is hidden and poised in a person’s heart.… *For it has performed mightily* (ibid.). Abbaye said, ‘Among the Torah scholars more than anyone!’”
 
-    See also BT [[Bava Batra 21#21a|*Bava Batra* 21a]], 22a: “The jealousy of scribes increases wisdom.”
+    See also BT *Bava Batra* [[Bava Batra 21#21a|21a]], 22a: “The jealousy of scribes increases wisdom.”
 
 [^43]: **This is the heart…** The *holy mount* in the verse from Isaiah signifies the human heart. Numerous rabbinic texts describe the heart as the abode of the evil impulse. See previous note. See also for example, M *Berakhot* 9:5: “*You shall love YHVH your God with all your heart, with all your soul, and with all your might* ([[Torah 45 - Vaetchanan#^6-5|Deuteronomy 6:5]]). *With all* לבבך (*levavekha*), *your heart* [spelled with a double *vet*]—with both your impulses: the good impulse and the evil impulse.”
 
@@ -401,7 +401,7 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
     The description of the three organs as “rulers” apparently alludes to the fact that the initial letters of מוחא (*moḥa*), “brain,” לבא (*libba*), “heart,” and כבדא (*kavda*), “liver,” spell מלך (*melekh*), “king.” See Simeon ben Tsemaḥ Duran, *Magen Avot* 5:19: “The experts in medicine agree that there are three major organs in the human being, namely והכבד‎ והלב‎ המוח (*ha-moaḥ ve-halev ve-ha-kaved*), the brain, the heart, and the liver; their sign: מלך (*melekh*), king.”
 
-    On the three organs, see *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-153a|2:153a]]; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-80a|ZḤ* 80a]] (*MhN*, *Rut*); Moses de León, *Sefer ha-Rimmon*, 127. See also *Zohar* [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-129b|1:129b]] (*MhN*). On the brain as “king over all the limbs,” see BT [[Shabbat 61#61a|*Shabbat* 61a]]. On Galen’s theory, see Siegel, *Galen’s System of Physiology and Medicine*, 51, 87–91, 104–6, 113–15, 183–90; Jacquart and Thomasset, *Sexuality and Medicine in the Middle Ages*, 48–50.
+    On the three organs, see *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-153a|2:153a]]; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-80a|80a]] (*MhN*, *Rut*); Moses de León, *Sefer ha-Rimmon*, 127. See also *Zohar* [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-129b|1:129b]] (*MhN*). On the brain as “king over all the limbs,” see BT *Shabbat* [[Shabbat 61#61a|61a]]. On Galen’s theory, see Siegel, *Galen’s System of Physiology and Medicine*, 51, 87–91, 104–6, 113–15, 183–90; Jacquart and Thomasset, *Sexuality and Medicine in the Middle Ages*, 48–50.
 
     On the Masters of Mishnah, see above, note 14.
 
@@ -417,7 +417,7 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
 [^50]: **two גאים (*ge’im*), proud ones…** As rulers of the body, the liver and heart are the “proud ones.” In fact the verse itself reads: *two* גיים (*ge’im*), an anomalous spelling for גוים (*goyim*), “nations.” See *Minḥat Shai*, ad loc.
 
-    See *Bereshit Rabbah* 63:7; BT [[Avodah Zarah 11#11a|*Avodah Zarah* 11a]]; *Leqaḥ Tov* on [[Torah 06 - Toldot#^25-23|Genesis 25:23]].
+    See *Bereshit Rabbah* 63:7; BT *Avodah Zarah* [[Avodah Zarah 11#11a|11a]]; *Leqaḥ Tov* on [[Torah 06 - Toldot#^25-23|Genesis 25:23]].
 
     It is possible that Rabbi Yehudah is the speaker.
 
@@ -433,7 +433,7 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
 [^54]: **What is the point of this section?…** Why, in discussing the post-resurrection body, does the Torah bother to mention the workings of the liver and heart? Even following the resurrection, people will still eat and drink, and the body will continue to function normally.
 
-    See Maimonides, *Mishneh Torah, Hilkhot Melakhim* 12:1: “Do not presume that in the Messianic Age any facet of the world’s nature will change or that there will be innovation in the work of creation. Rather the world will pursue its natural course.” See also, idem, *Hilkhot Teshuvah* 9:2. See also BT [[Avodah Zarah 54#54b|*Avodah Zarah* 54b]] for the origin of the expression “the world pursues its natural course.”
+    See Maimonides, *Mishneh Torah, Hilkhot Melakhim* 12:1: “Do not presume that in the Messianic Age any facet of the world’s nature will change or that there will be innovation in the work of creation. Rather the world will pursue its natural course.” See also, idem, *Hilkhot Teshuvah* 9:2. See also BT *Avodah Zarah* [[Avodah Zarah 54#54b|54b]] for the origin of the expression “the world pursues its natural course.”
 
 [^55]: **the liver… hunts provisions… the heart is contemplative…** *Esau* “the hunter” signifies the liver, desirous for food, whereas *Jacob* “the scholar” signifies the heart. Even the post-eschatological body is marked by a kind of duality.
 
@@ -449,23 +449,23 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
     “Offering of desire” renders דתאיבא‎ קונמיתא (*qonmita de-ta’iva*). *Qonmita* is obscure but may derive from קונם (*qonam*), “sacrifice, offering, vow.” See *Nitsotsei Orot*; *Matoq mi-Devash*. Whatever the precise sense, once aroused the heart demands the prime for itself.
 
-    On servants not eating until the masters eat, see BT [[Ketubot 61#61a|*Ketubbot* 61a]].
+    On servants not eating until the masters eat, see BT *Ketubbot* [[Ketubot 61#61a|61a]].
 
 [^57]: **Just as lentils are round like a wheel…** The round shape of the lentil recalls the ever-revolving celestial sphere, which in turn alludes to the idea that the natural order of the world will not change. See above, note 54.
 
-    See *Bereshit Rabbah* 63:14: “Just as a lentil is shaped like a wheel, so the world is like a wheel.” See also BT [[Bava Batra 16#16b|*Bava Batra* 16b]].
+    See *Bereshit Rabbah* 63:14: “Just as a lentil is shaped like a wheel, so the world is like a wheel.” See also BT *Bava Batra* [[Bava Batra 16#16b|16b]].
 
-    Medieval cosmology imagined the heavens as containing a series of concentric spheres in which are suspended the heavenly bodies. On the continuous revolution of the celestial sphere (presumably the outermost sphere in which all the other spheres are located), see Maimonides, *Mishneh Torah, Hilkhot Yesodei ha-Torah* 1:5; 3:1. See also BT [[Shabbat 151#151b|*Shabbat* 151b]].
+    Medieval cosmology imagined the heavens as containing a series of concentric spheres in which are suspended the heavenly bodies. On the continuous revolution of the celestial sphere (presumably the outermost sphere in which all the other spheres are located), see Maimonides, *Mishneh Torah, Hilkhot Yesodei ha-Torah* 1:5; 3:1. See also BT *Shabbat* [[Shabbat 151#151b|151b]].
 
-    On eating and drinking after the resurrection, cf. BT [[Berakhot 17#17a|*Berakhot* 17a]]: “A pearl in the mouth of Rav: In the world to come, there is no eating or drinking….”
+    On eating and drinking after the resurrection, cf. BT *Berakhot* [[Berakhot 17#17a|17a]]: “A pearl in the mouth of Rav: In the world to come, there is no eating or drinking….”
 
 [^58]: ***From four ruḥot come, O ruaḥ*…** The verse from Ezekiel continues: *and breathe into these slain, that they may live*. The context is Ezekiel’s vision of the dry bones. The word *ruaḥ* means “breath, wind, spirit, direction.” See *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-175b|1:175b–176a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-235a|235a]]; [[Zohar 4.03 - Parashat Shemot#^z2-13a|2:13a]]–b; [[Zohar 8.09 - Idra Rabba#^z3-130b|3:130b]] (*IR*).
 
-    According to rabbinic tradition, the dust of Adam’s body was gathered from the four directions of the world. See *Targum Yerushalmi*, [[Torah 01 - Bereshit#^2-7|Genesis 2:7]]; *Tanḥuma, Pequdei* 3; *Pirqei de-Rabbi Eli’ezer* 11; BT [[Sanhedrin 38#38a|*Sanhedrin* 38a]]–b. Here, the four directions may also symbolize the four elements (fire, air, water, and earth). In the main body of the *Zohar*, the four winds symbolize the sefirotic quartet of *Ḥesed, Gevurah, Tif’eret*, and *Shekhinah*, which are symbolized respectively by south, north, east, and west.
+    According to rabbinic tradition, the dust of Adam’s body was gathered from the four directions of the world. See *Targum Yerushalmi*, [[Torah 01 - Bereshit#^2-7|Genesis 2:7]]; *Tanḥuma, Pequdei* 3; *Pirqei de-Rabbi Eli’ezer* 11; BT *Sanhedrin* [[Sanhedrin 38#38a|38a]]–b. Here, the four directions may also symbolize the four elements (fire, air, water, and earth). In the main body of the *Zohar*, the four winds symbolize the sefirotic quartet of *Ḥesed, Gevurah, Tif’eret*, and *Shekhinah*, which are symbolized respectively by south, north, east, and west.
 
-    On the four winds of the world, see BT [[Gittin 31#31b|*Gittin* 31b]]; [[Bava Batra 25#25a|*Bava Batra* 25a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-13a|13a]] (*MhN*).
+    On the four winds of the world, see BT *Gittin* [[Gittin 31#31b|31b]]; *Bava Batra* [[Bava Batra 25#25a|25a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-13a|13a]] (*MhN*).
 
-    The *Zohar* here follows Maimonides’ adoption of Shemu’el’s understanding of the Messianic Age (see BT [[Berakhot 34#34b|*Berakhot* 34b]]; [[Shabbat 63#63a|*Shabbat* 63a]], 151b; [[Pesachim 68#68a|*Pesaḥim* 68a]]; [[Sanhedrin 91#91b|*Sanhedrin* 91b]], 99a): “there is no difference between this world and the days of the Messiah, aside from the subjugation to the kingdoms alone.” See Maimonides, *Mishneh Torah, Hilkhot Melakhim* 12:2; idem, *Pereq Ḥeleq*.
+    The *Zohar* here follows Maimonides’ adoption of Shemu’el’s understanding of the Messianic Age (see BT *Berakhot* [[Berakhot 34#34b|34b]]; *Shabbat* [[Shabbat 63#63a|63a]], 151b; *Pesaḥim* [[Pesachim 68#68a|68a]]; *Sanhedrin* [[Sanhedrin 91#91b|91b]], 99a): “there is no difference between this world and the days of the Messiah, aside from the subjugation to the kingdoms alone.” See Maimonides, *Mishneh Torah, Hilkhot Melakhim* 12:2; idem, *Pereq Ḥeleq*.
 
     “Purification” apparently signifies the state of the post-resurrection body, purified of all dross. See *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-116a|1:116a]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-126a|126a]] (both *MhN*).
 
@@ -475,23 +475,23 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
     Cf. Maimonides, *Pereq Ḥeleq*, on the Messianic era: “All human life will be longer, for when worries and troubles are removed, men live longer.”
 
-    See also [[Isaiah 65#^65-20|Isaiah 65:20]]: *No more shall there be an infant or graybeard who does not live out his days. He who dies at a hundred years shall be reckoned a youth; and he who fails to reach a hundred shall be reckoned accursed*. See also BT [[Pesachim 68#68a|*Pesaḥim* 68a]].
+    See also [[Isaiah 65#^65-20|Isaiah 65:20]]: *No more shall there be an infant or graybeard who does not live out his days. He who dies at a hundred years shall be reckoned a youth; and he who fails to reach a hundred shall be reckoned accursed*. See also BT *Pesaḥim* [[Pesachim 68#68a|68a]].
 
-[^60]: ***YHVH rebuilds Jerusalem; He gathers the banished of Israel*…** See BT [[Berakhot 49#49a|*Berakhot* 49a]]; JT *Ma’aser Sheni* 5:2, 56a; *Tanḥuma, Noaḥ* 11; *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-134a|1:134a]].
+[^60]: ***YHVH rebuilds Jerusalem; He gathers the banished of Israel*…** See BT *Berakhot* [[Berakhot 49#49a|49a]]; JT *Ma’aser Sheni* 5:2, 56a; *Tanḥuma, Noaḥ* 11; *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-134a|1:134a]].
 
     Presumably, Rav Naḥman is the speaker.
 
 [^61]: **precedes… by forty years…** The verse from Genesis continues: *when he took Rebekah as his wife*. It signifies the union of soul and body post-resurrection. See *Zohar* [[Zohar 10.08 - Parashat Toledot#^z1-136b|1:136b–137a]] (*MhN*), pages 410–11.
 
-    See also BT [[Sanhedrin 99#99a|*Sanhedrin* 99a]] in the name of Rabbi Eli’ezer: “The days of the Messiah will last forty years, as is said: *For forty years I will be angry with the generation* ([[Psalms 095#^95-10|Psalms 95:10]]).”
+    See also BT *Sanhedrin* [[Sanhedrin 99#99a|99a]] in the name of Rabbi Eli’ezer: “The days of the Messiah will last forty years, as is said: *For forty years I will be angry with the generation* ([[Psalms 095#^95-10|Psalms 95:10]]).”
 
     The full verse from Daniel reads: *At that time, the great prince, Michael, will appear. It will be a time of trouble, the like of which has never been seen since the nation came into being. At that time, your people will be rescued, all who are found inscribed in the book*.
 
-    On the wars of the messianic age, see BT [[Sanhedrin 97#97a|*Sanhedrin* 97a]]; Maimonides, *Mishneh Torah, Hilkhot Melakhim* 12:2; *Zohar* [[Zohar 4.03 - Parashat Shemot#^z2-7b|2:7b]].
+    On the wars of the messianic age, see BT *Sanhedrin* [[Sanhedrin 97#97a|97a]]; Maimonides, *Mishneh Torah, Hilkhot Melakhim* 12:2; *Zohar* [[Zohar 4.03 - Parashat Shemot#^z2-7b|2:7b]].
 
 [^62]: ***I will refine them*…** According to Rabbi Yehudah and Rabbi Yitsḥak, the troubles of the messianic age serve to test and purify the people. See *Zohar* [[Zohar 4.03 - Parashat Shemot#^z2-7b|2:7b]].
 
-[^63]: ***I have no delight in them*…** Cf. BT [[Shabbat 151#151b|*Shabbat* 151b]].
+[^63]: ***I have no delight in them*…** Cf. BT *Shabbat* [[Shabbat 151#151b|151b]].
 
 [^64]: **similarly here** The full verse from Joshua reads: *For the Israelites had traveled in the wilderness for forty years, until the entire nation—the men of military age who had left Egypt—had perished; because they had not heeded the voice of YHVH, and YHVH had sworn never to let them see the land that YHVH had sworn to their fathers to assign to us, a land flowing with milk and honey*.
 
@@ -501,7 +501,7 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
     On the verse from Zechariah, see *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-116b|1:116b]] (*MhN*).
 
-[^66]: **lamp of the world…** דעלמא‎ בוצינא (*Botsina de-alma*). An honorary epithet for Rabbi El’azar. Compare *Avot de-Rabbi Natan*, A 25, where Rabban Yoḥanan son of Zakkai is called העולם‎ נר (*ner ha-olam*), “light of the world.” See also JT *Shabbat* 2:6, 5b; Liebes, *Peraqim*, 143, 156. See also [[II Samuel 21#^21-17|2 Samuel 21:17]]; *Bereshit Rabbah* 85:4; BT [[Ketubot 17#17a|*Ketubbot* 17a]], where Rabbi Abbahu is called “Lamp of Light.” In the main body of the *Zohar*, Rabbi Shim’on son of Yoḥai is referred to as *botsina qaddisha*, “holy lamp.” On the “darkened” countenance, see *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-6a|3:6a]].
+[^66]: **lamp of the world…** דעלמא‎ בוצינא (*Botsina de-alma*). An honorary epithet for Rabbi El’azar. Compare *Avot de-Rabbi Natan*, A 25, where Rabban Yoḥanan son of Zakkai is called העולם‎ נר (*ner ha-olam*), “light of the world.” See also JT *Shabbat* 2:6, 5b; Liebes, *Peraqim*, 143, 156. See also [[II Samuel 21#^21-17|2 Samuel 21:17]]; *Bereshit Rabbah* 85:4; BT *Ketubbot* [[Ketubot 17#17a|17a]], where Rabbi Abbahu is called “Lamp of Light.” In the main body of the *Zohar*, Rabbi Shim’on son of Yoḥai is referred to as *botsina qaddisha*, “holy lamp.” On the “darkened” countenance, see *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-6a|3:6a]].
 
     Some of the manuscripts and printed editions omit this statement by Rabbi Yehoshu’a, proceeding immediately to the next paragraph as though it were spoken by Rabbi Yehoshu’a. I have followed O2, which seems to preserve the best reading here.
 
@@ -509,7 +509,7 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
     Rabbi El’azar derives this date based on the numerical value of the word חת (*Ḥet*) equaling 408, buttressed by the numerical value of the word הזאת (*ha-zot*), “this,” equaling 5,408 (if one counts the ה as 5,000—as is sometimes done—rather than the usual 5). According to *Zohar* [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-123a|1:123a]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-124a|124a]] (both *MhN*), *benei Ḥet*, “the Hittites,” designates the bodies of the righteous dead. The passage here is in Aramaic and appears to be interpreting the earlier passages, which are in Hebrew.
 
-    On the significance of the sixth millennium, see BT [[Sanhedrin 97#97a|*Sanhedrin* 97a]]: “Rav Kattina said, ‘The world will exist for six thousand years—and for one thousand lie desolate.’” See *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-116b|1:116b–117a]], [[Zohar 2.03 - Parashat Va-Yera#^z1-119a|119a]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-127b|127b–128a]] (*MhN*), [[Zohar 3.04 - Parashat Va-Yeshev#^z1-181b|181b–182a]]; [[Zohar 4.03 - Parashat Shemot#^z2-9b|2:9b–10a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-16d|16d]] (*MhN*), [[Zohar 12.11 - Zohar al ha-Parashot#^zh-56b|56b–c]].
+    On the significance of the sixth millennium, see BT *Sanhedrin* [[Sanhedrin 97#97a|97a]]: “Rav Kattina said, ‘The world will exist for six thousand years—and for one thousand lie desolate.’” See *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-116b|1:116b–117a]], [[Zohar 2.03 - Parashat Va-Yera#^z1-119a|119a]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-127b|127b–128a]] (*MhN*), [[Zohar 3.04 - Parashat Va-Yeshev#^z1-181b|181b–182a]]; [[Zohar 4.03 - Parashat Shemot#^z2-9b|2:9b–10a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-16d|16d]] (*MhN*), [[Zohar 12.11 - Zohar al ha-Parashot#^zh-56b|56b–c]].
 
     On the Messianic significance of the year 1648 C.E., see *Zohar* [[Zohar 4.03 - Parashat Shemot#^z2-10a|2:10a]]; Scholem, *Sabbatai Sevi*, 88–93; Silver, *Messianic Speculation*, 92, 151–92 passim.
 
@@ -517,9 +517,9 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
     On the epithet “Masters of Mishnah,” see above, note 14.
 
-[^68]: **Let this not trouble you…** See BT [[Rosh Hashanah 16#16b|*Rosh ha-Shanah* 16b]]–17a in the name of the House of Shammai: “There are three groups at the Day of Judgment: one of the completely righteous, one of the completely wicked, and one of the intermediate. The completely righteous are written and sealed immediately for life; the completely wicked are written and sealed immediately for Hell…; the intermediate go down to Hell and squeal [on account of their punishment] and rise.”
+[^68]: **Let this not trouble you…** See BT *Rosh ha-Shanah* [[Rosh Hashanah 16#16b|16b]]–17a in the name of the House of Shammai: “There are three groups at the Day of Judgment: one of the completely righteous, one of the completely wicked, and one of the intermediate. The completely righteous are written and sealed immediately for life; the completely wicked are written and sealed immediately for Hell…; the intermediate go down to Hell and squeal [on account of their punishment] and rise.”
 
-    On the dead of the land of Israel rising first, see *Bereshit Rabbah* 74:1; JT *Kil’ayim* 9:4, 32c; BT [[Ketubot 111#111a|*Ketubbot* 111a]]; *Tanḥuma, Vayḥi* 3; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-113a|1:113a]] (*MhN*), [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-131a|131a]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-181b|181b]]; [[Zohar 5.05 - Parashat Terumah#^z2-151b|2:151b]]; Moses de León, *Sefer ha-Mishqal*, 89–90.
+    On the dead of the land of Israel rising first, see *Bereshit Rabbah* 74:1; JT *Kil’ayim* 9:4, 32c; BT *Ketubbot* [[Ketubot 111#111a|111a]]; *Tanḥuma, Vayḥi* 3; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-113a|1:113a]] (*MhN*), [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-131a|131a]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-181b|181b]]; [[Zohar 5.05 - Parashat Terumah#^z2-151b|2:151b]]; Moses de León, *Sefer ha-Mishqal*, 89–90.
 
 [^69]: **Who will merit this duration?!…** Rabbi El’azar is speaking. This tone of despair reappears in *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-219b|1:219b]]; [[Zohar 4.03 - Parashat Shemot#^z2-9a|2:9a]], [[Zohar 6.04 - Parashat Ki Tissa#^z2-188b|188b]]; [[Zohar 8.05 - Parashat Be-Har#^z3-112a|3:112a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-16d|16d]] (*MhN*).
 
@@ -527,17 +527,17 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
     Both אור (*or*), “light,” and רז (*raz*), “mystery,” have the numerical value of 207. The verse from Genesis (*Let there be light*) is now read as “Let there be a mystery,” i.e., may the messianic end remain concealed. See *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-8d|8d]] (*MhN*).
 
-    See also *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-8a|8a]] (*MhN*): “Those who calculate messianic ends are fools!” See also BT [[Sanhedrin 97#97b|*Sanhedrin* 97b]]; Maimonides, *Mishneh Torah, Hilkhot Melakhim* 12:2; *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-118a|1:118a]].
+    See also *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-8a|8a]] (*MhN*): “Those who calculate messianic ends are fools!” See also BT *Sanhedrin* [[Sanhedrin 97#97b|97b]]; Maimonides, *Mishneh Torah, Hilkhot Melakhim* 12:2; *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-118a|1:118a]].
 
 [^71]: **Through *teshuvah*, all is brought forward** Though an end-time has been set, the redemption and the resurrection can be brought forward by repentance. Perhaps Rabbi El’azar also intends that because *teshuvah* has the power to advance the end, the mystery of the end remains.
 
-    On *teshuvah* and redemption, see JT *Ta’anit* 1:1, 63d; BT [[Sanhedrin 97#97b|*Sanhedrin* 97b]]; *Pirqei de-Rabbi Eli’ezer* 43; *Tanḥuma, Beḥuqqotai* 3; *Zohar* [[Zohar 6.04 - Parashat Ki Tissa#^z2-188b|2:188b–189a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-8a|8a]], [[Zohar 10.04 - Parashat Noah#^zh-23c|23c–d]] (both *MhN*).
+    On *teshuvah* and redemption, see JT *Ta’anit* 1:1, 63d; BT *Sanhedrin* [[Sanhedrin 97#97b|97b]]; *Pirqei de-Rabbi Eli’ezer* 43; *Tanḥuma, Beḥuqqotai* 3; *Zohar* [[Zohar 6.04 - Parashat Ki Tissa#^z2-188b|2:188b–189a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-8a|8a]], [[Zohar 10.04 - Parashat Noah#^zh-23c|23c–d]] (both *MhN*).
 
 [^72]: **Had you not said so…** If the end-time is predetermined, what is the sense of awaiting salvation every day? See *Zohar* [[Zohar 6.04 - Parashat Ki Tissa#^z2-189a|2:189a]] for a similar problematic.
 
     The full verse from Isaiah reads: *He will be the faithfulness of your times—stronghold of salvation, wisdom, and knowledge; the awe of YHVH is his treasure*.
 
-    See BT [[Shabbat 31#31a|*Shabbat* 31a]], citing this verse: “Rava said, ‘When a human is led in for judgment, he is asked: “Were you honest in your business dealings? Did you set aside time for Torah? Did you generate new life? Did you await salvation? Did you engage in the dialectics of wisdom? Did you understand one thing from another?”’” See also *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-4a|1:4a]].
+    See BT *Shabbat* [[Shabbat 31#31a|31a]], citing this verse: “Rava said, ‘When a human is led in for judgment, he is asked: “Were you honest in your business dealings? Did you set aside time for Torah? Did you generate new life? Did you await salvation? Did you engage in the dialectics of wisdom? Did you understand one thing from another?”’” See also *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-4a|1:4a]].
 
 [^73]: **What is Rabbi El’azar’s view?…** From where does he derive the idea that *teshuvah* brings the redemption and resurrection forward? The verse from Daniel implies that only some will rise (*many of those*, not all), understood as implying that the righteous who repented are the first to be revived; hence repentance brings forward.
 
@@ -555,4 +555,4 @@ Rabbi Abbahu opened, “ *While the king was on his couch, my nard yielded its f
 
 [^78]: ***While the king was on his couch*…** The text of this homily is fragmentary and breaks off mid-sentence. The sense of the verse from the Song of Songs and the opening verse from Genesis is thus not apparent.
 
-    On the apprehension of the righteous in the time to come, see above, note 12. On the righteous exceeding the ministering angels, see BT [[Sanhedrin 92#92b|*Sanhedrin* 92b]]–93a: “Rabbi Yoḥanan said, ‘The righteous are greater than the ministering angels, as is said: *He answered and said, “But I see four men walking about unbound and unharmed in the fire; and the fourth looks like a divine being”* ([[Daniel 03#^3-25|Daniel 3:25]]) [i.e., the people are mentioned before the angel].’” See also *Zohar* [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-127b|1:127b]]; *ZḤ* [[Zohar 10.05 - Parashat Lekh Lekha#^zh-26b|26b]] (both *MhN*). Cf. JT *Shabbat* 6:9, 8d; *Tanḥuma, Balaq* 14; *Tanḥuma* (Buber), *Balaq* 23; *Tanḥuma, Vayishlaḥ* 2. On [[Isaiah 11#^11-9|Isaiah 11:9]], see *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-113b|1:113b]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-125b|125b]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-130a|130a]] (all three *MhN*); [[Zohar 4.07 - Parashat Yitro#^z2-68a|2:68a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-23a|3:23a]].
+    On the apprehension of the righteous in the time to come, see above, note 12. On the righteous exceeding the ministering angels, see BT *Sanhedrin* [[Sanhedrin 92#92b|92b]]–93a: “Rabbi Yoḥanan said, ‘The righteous are greater than the ministering angels, as is said: *He answered and said, “But I see four men walking about unbound and unharmed in the fire; and the fourth looks like a divine being”* ([[Daniel 03#^3-25|Daniel 3:25]]) [i.e., the people are mentioned before the angel].’” See also *Zohar* [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-127b|1:127b]]; *ZḤ* [[Zohar 10.05 - Parashat Lekh Lekha#^zh-26b|26b]] (both *MhN*). Cf. JT *Shabbat* 6:9, 8d; *Tanḥuma, Balaq* 14; *Tanḥuma* (Buber), *Balaq* 23; *Tanḥuma, Vayishlaḥ* 2. On [[Isaiah 11#^11-9|Isaiah 11:9]], see *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-113b|1:113b]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-125b|125b]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-130a|130a]] (all three *MhN*); [[Zohar 4.07 - Parashat Yitro#^z2-68a|2:68a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-23a|3:23a]].

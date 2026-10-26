@@ -75,7 +75,7 @@ If the poor person became wealthy, he may no longer separate [the tithe for the 
 [^2]: I.e., he is giving one fiftieth which is the ordinary measure separated as *terumah* (*ibid.* 3:2).
 [^3]: For the second tithe is given as a tenth of the new total once the first tithe has been separated.
 [^4]: See Chapter 9, Halachah 10.
-[^5]: There is a difference of opinion among the Sages of the Talmud if this principle, referred to as *bereirah* should be applied or not (see [[Beitzah 37#37b|*Beitzah* 37b]]). Because the matter is not resolved, with regard to questions of Scriptural Law, we are stringent, but with regard to matters of Rabbinic Law, we rule leniently.
+[^5]: There is a difference of opinion among the Sages of the Talmud if this principle, referred to as *bereirah* should be applied or not (see *Beitzah* [[Beitzah 37#37b|37b]]). Because the matter is not resolved, with regard to questions of Scriptural Law, we are stringent, but with regard to matters of Rabbinic Law, we rule leniently.
 [^6]: And there is no way one can drink from the top without drinking from the bottom or drink from the bottom without drinking from the top.
 [^7]: This does not represent a contradiction to the previous halachah. In that instance, the person had not separated the *terumah* and the tithes. He had merely stated that he would. In this instance, he has made a separation even though he did not physically remove it.
 [^8]: For the produce will not become intermingled.
@@ -94,10 +94,10 @@ If the poor person became wealthy, he may no longer separate [the tithe for the 
 [^19]: In which instance, they - and therefore, the lender - would not be entitled to the crops separated for these purposes.
 [^20]: There is obviously a printing error in the standard published text of the *Mishneh Torah*.
 [^21]: In this way, the produce separated formally becomes the property of the debtor. Even though ultimately the lender will be receiving the produce, he must make the separations so that the main batch of produce will not be *tevel*.
-[^22]: He must, however, make these separations. He need not give them to another person, because since these individuals are accustomed to receiving this produce, it is considered as if he already received them (Rashi, [[Gittin 30#30a|*Gittin* 30a]]).
+[^22]: He must, however, make these separations. He need not give them to another person, because since these individuals are accustomed to receiving this produce, it is considered as if he already received them (Rashi, *Gittin* [[Gittin 30#30a|30a]]).
 [^23]: I.e., whenever produce is sold, there is a buyer's bid and a seller's bid. The buyer's bid is always lower than the seller's. The lender may price the produce according to the buyer's bid.
 [^24]: Despite the fact that he is receiving an advantage - considering the produce's worth at a lower price - for having made the loan.
-[^25]: Although the Sabbatical year remits debts (*Hilchot Shemitah*, ch. 9), it remits only those debts for which a person must demand payment. In this instance, it is as if the payment has already been arranged (Meiri, [[Gittin 30#30a|*Gittin* 30a]]).
+[^25]: Although the Sabbatical year remits debts (*Hilchot Shemitah*, ch. 9), it remits only those debts for which a person must demand payment. In this instance, it is as if the payment has already been arranged (Meiri, *Gittin* [[Gittin 30#30a|30a]]).
 [^26]: Our Sages ordained this measure for the sake of the recipients (*Gittin, loc. cit.*).
 [^27]: Rashi (*Gittin, loc. cit.*) explains that we are speaking about a situation where the lender stipulated that he would receive payment for the loan from the *terumah* or tithes from a particular year. That year was a year of drought and his harvest appeared lost entirely. He made a public statement of despair, acknowledging that he no longer expected to be able to collect the debt, because his fields would not grow enough crops. If, despite this condition, his fields produced crops, he is not entitled to keep the *terumah* and/or tithes for himself. The rationale is that he has already given up hope of their recovery.
 [^28]: I.e., the arrangement to pay the debt is not automatically transferred to the heirs of the estate. They must agree to it.
@@ -107,7 +107,7 @@ If the poor person became wealthy, he may no longer separate [the tithe for the 
 [^32]: For a wealthy person cannot be a recipient of the tithes for the poor.
 [^33]: For it is as if the lender specified that he would accept this method as payment for the debt. If that method is no longer viable, he must suffer the loss.
 [^34]: A measure of volume.
-[^35]: I.e., and thus, he has not formally acquired it as his own. Nevertheless, he can rely on the assumption that a Jew will not act unfaithfully and will keep his word ([[Bava Metzia 49#49a|*Bava Metzia* 49a]]).
+[^35]: I.e., and thus, he has not formally acquired it as his own. Nevertheless, he can rely on the assumption that a Jew will not act unfaithfully and will keep his word (*Bava Metzia* [[Bava Metzia 49#49a|49a]]).
 [^36]: The fact that by changing his mind and failing to keep his word, the Israelite caused a spiritual difficulty for the first Levite - for he caused him to violate a transgression by partaking of tithes for which *terumat ma'aser* was not separated - does not create a financial liability.
 [^37]: As the tithes.
 [^38]: As the tithe for the poor. As the Rambam writes in his Commentary to the Mishnah (*Terumot* 4:2), he does not have to separate a full *se'ah* as the tithes for the poor, for once the first tithe has been separated, all that is necessary is to separate a tenth from the new total and this will be slightly less than a *se'ah*.

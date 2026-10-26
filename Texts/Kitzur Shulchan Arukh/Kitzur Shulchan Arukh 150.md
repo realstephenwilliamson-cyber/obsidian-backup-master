@@ -53,8 +53,8 @@ chapter: 150
 **17.** Semen is the vitality of man's body and the light of his eyes, and when issued in excess, the body weakens and life is shortened. Anyone who overindulges in marital relations, ages prematurely, his strength ebbs, his eyes dim, his breath becomes foul; the hair on his head, his eyebrows, and his eye lashes fall out. The hair of his beard and armpits, the hair on his legs, increase, his teeth fall out and many other aches besides these befall him. Great physicians said one out of a thousand dies from other diseases, the rest of the thousand (999) die from sexual indulgence. Therefore, man should avoid such indulgence. ^150-17
 
 [^1]: *Amos* 4:13.
-[^2]: Maseches [[Chagigah 5#5b|*Hagigah* 5b]].
-[^3]: Maseches [[Nedarim 20#20b|*Nedarim* 20b]].
+[^2]: Maseches *Hagigah* [[Chagigah 5#5b|5b]].
+[^3]: Maseches *Nedarim* [[Nedarim 20#20b|20b]].
 [^4]: *Deuteronomy* 22:15.
 [^5]: *Maseches Shabbos* 150a. the word דָבָר indicates actual speech.
 [^6]: See glossary. The partition must also be secured at the bottom to the extent it would not blow to and fro in a usual outdoor wind. (*Magein Avraham, Mishnah Berurah* 240:40). If the partition completely covers the source of the light, it does not have to be ten *tefachim* high, but our case refers to where the candle or bulb is visible above the partition. The partition merely creates a separate domain and thus marital relations are permitted, providing the light is dimmed with a garment. (*Magein Avraham, Mishnah Berurah* 325:10). However, if the light source is in another room, everyone permits it if the light is dimmed with a garment. See *Sh’ar Hatziyun* 240:24–26.

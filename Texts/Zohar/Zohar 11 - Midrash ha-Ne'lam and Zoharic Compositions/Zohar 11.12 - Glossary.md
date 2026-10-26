@@ -82,7 +82,7 @@ page_range: 717–724
 
 ***he*** The fifth letter of the Hebrew alphabet; it occupies both the second and fourth positions in the tetragrammaton, where it represents the two typically feminine *sefirot, Binah* and *Shekhinah*.
 
-***Heikhalot*** “Palaces, Halls”; the extended descriptions of the heavenly and demonic halls in *Zohar* 1:38a–45b; 2:244b–268b (see Volume 12).
+***Heikhalot*** “Palaces, Halls”; the extended descriptions of the heavenly and demonic halls in *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-38a|1:38a–45b]]; 2:244b–268b (see Volume 12).
 
 ***Ḥesed*** “Loving-kindness, love, grace”; the fourth *sefirah*; the right arm of the divine body, balancing *Din*; also called *Gedullah*.
 
@@ -168,7 +168,7 @@ page_range: 717–724
 
 ***raz*** Alternatively, *raza*; pl. *razim*. “Mystery, secret.”
 
-***Raza de-Razin*** “The Secret of Secrets”; a section of the *Zohar* dealing with physiognomy, metoposcopy, and chiromancy (*Zohar* 2:70a–75a [printed alongside the main text], *Zohar Ḥadash* 35b–37c). A second version is incorporated into the main body of the *Zohar* (2:70a–78a). [p. 721]
+***Raza de-Razin*** “The Secret of Secrets”; a section of the *Zohar* dealing with physiognomy, metoposcopy, and chiromancy (*Zohar* 2:70a–75a [printed alongside the main text], *Zohar Ḥadash* [[Zohar 12.07 - Raza de-Razin#^zh-35b|35b–37c]]). A second version is incorporated into the main body of the *Zohar* (2:70a–78a). [p. 721]
 
 **Rosh Hashanah** The Jewish New Year, celebrated on the first two days of the Hebrew month Tishrei.
 
@@ -180,7 +180,7 @@ page_range: 717–724
 
 **Sava** “The Elder; old man.”
 
-***Sava de-Mishpatim*** “Old Man of [Torah portion] *Mishpatim*”; an account of the Companions’ encounter with a donkey-driver who turns out to be a master of wisdom. *Zohar* 2:94b–114a.
+***Sava de-Mishpatim*** “Old Man of [Torah portion] *Mishpatim*”; an account of the Companions’ encounter with a donkey-driver who turns out to be a master of wisdom. *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-94b|2:94b–114a]].
 
 ***Sefer ha-Zohar*** “The Book of Radiance.”
 
@@ -198,7 +198,7 @@ page_range: 717–724
 
 ***Shir ha-Shirim*** The book of Song of Songs.
 
-***Sifra di-Tsni’uta*** “The Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah, consisting of five short chapters and composed in obscure sentences. Its subject is the mysterious dynamics of divine being. *Zohar* 2:176b–179a.
+***Sifra di-Tsni’uta*** “The Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah, consisting of five short chapters and composed in obscure sentences. Its subject is the mysterious dynamics of divine being. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b|2:176b–179a]].
 
 ***Sitra Aḥra*** “The other side”; the demonic realm, or the shadow of the divine, led by Samael and Lilith.
 

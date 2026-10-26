@@ -11,6 +11,7 @@ second_reading: "Philippians 3:4b-14"
 gospel: "Matthew 21:33-46"
 first_reading_complementary: "Isaiah 5:1-7"
 psalm_complementary: "Psalm 80:7-15"
+psalm_bcp_complementary: "Psalm 80:7-14"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-22]]"
 cssclasses:

@@ -20,16 +20,13 @@ nyasa: "ña: left fingernails (*nakha*) · ca: left shoulder (*skandha*)"
 ## Front
 
 - **Glyph:** ञ्च
-- **Variation:** ञ्‍च (half-ña + ca)
 - **Example:** पञ्च
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** As in ‘pañca’ (five)
-- **Class (as printed):** —
-- **Grid:** the five rows of stops + य र ल व + श ष स ह; in bold: च, ञ
-- **Example:** pañca (five)
+> [!note]- Back
+> - **Pronunciation:** As in ‘pañca’ (five)
+> - **Variation:** ञ्‍च (half-ña + ca)
+> - क ख ग घ ङ / <u>च</u> छ ज झ <u>ञ</u> / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / य र ल व / श ष स ह
+> - **Example:** pañca (five)
 
 ## Register
 

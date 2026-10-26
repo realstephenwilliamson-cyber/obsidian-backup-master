@@ -29,7 +29,7 @@ navabhiḥ koṣṭhakairyuktaṃ tato'yaṃ vidhirucyate || ^iast
 >
 > First (one must draw) within a square field (another one which is smaller) by twelve (finger-breadths on each side). It is three times one handspan (on each side) and (fashioned) so that it is divided into nine parts (for each handspan), and the trident is (drawn) there in this way in the middle (of it). (with 31.155bcd–156ab)
 >
-> The middle part should be divided in two,“' and have nine (squares). Then this is what the procedure is said to be. Having omitted three squares (below) the middle, a thread (should be placed) in the middle of the two squares, and made to turn downwards (to thus produce a line) with the form of a digit of the moon. (with 31.156cd–157)
+> The middle part should be divided in two, and have nine (squares). Then this is what the procedure is said to be. Having omitted three squares (below) the middle, a thread (should be placed) in the middle of the two squares, and made to turn downwards (to thus produce a line) with the form of a digit of the moon. (with 31.156cd–157)
 
 ## Viveka
 

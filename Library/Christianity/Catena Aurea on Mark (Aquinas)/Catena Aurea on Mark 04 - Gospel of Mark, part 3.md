@@ -62,7 +62,7 @@ They bear witness that His brothers and sisters were with Him, who nevertheless 
 
 It goes on: “And Jesus said unto them, A prophet is not without honour, but in his own country.”
 
-Even Moses bears witness that the Lord is called a Prophet in the Scripture, for predicting His future Incarnation to the sons of Israel, he says, “A Prophet shall the Lord raise up unto you of your brethren.” \[Acts 7:37\] But not only He Himself, Who is Lord of prophets, but also Elias, Jeremiah, and the remaining lesser prophets, were worse received in their own country than in strange cities, for it is almost natural for men to envy their fellow-townsmen; for they do not consider the present works of the man, but they remember the weakness of Him infancy.
+Even Moses bears witness that the Lord is called a Prophet in the Scripture, for predicting His future Incarnation to the sons of Israel, he says, “A Prophet shall the Lord raise up unto you of your brethren.” \[[[Acts 07#^7-37|Acts 7:37]]\] But not only He Himself, Who is Lord of prophets, but also Elias, Jeremiah, and the remaining lesser prophets, were worse received in their own country than in strange cities, for it is almost natural for men to envy their fellow-townsmen; for they do not consider the present works of the man, but they remember the weakness of Him infancy.
 
 Pseudo-Jerome: Oftentimes also the origin of a man brings him contempt, as it is written, “Who is the son of Jesse?” \[1 Sam 25:10\] for the Lord “hath respect unto the lowly; as to the 107 proud, He beholdeth them afar off.”
 
@@ -120,7 +120,7 @@ Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: The Lord also gives them this command
 
 Theophylact: Instructing them also by this means not to be fond of receiving gifts, in order too that those, who saw them proclaim poverty, might be reconciled to it, when they saw that the Apostles themselves possessed nothing.
 
-Augustine, de Con. Evan., 2, 30: Or else; according to Matthew, the Lord immediately subjoined, “The workman is worthy of his meat,” \[Matt 10:19\] which sufficiently proves why He forbade their carrying or possessing such things; not because they were not necessary, but because He sent them in such a way as to shew, that they were due to them from the faithful, to whom they preached the Gospel.
+Augustine, de Con. Evan., 2, 30: Or else; according to Matthew, the Lord immediately subjoined, “The workman is worthy of his meat,” \[[[Matthew 10#^10-19|Matt 10:19]]\] which sufficiently proves why He forbade their carrying or possessing such things; not because they were not necessary, but because He sent them in such a way as to shew, that they were due to them from the faithful, to whom they preached the Gospel.
 
 From this it is evident that the Lord did not mean by this precept that the Evangelists ought to live only on the gifts of those to whom they preach the Gospel, else the Apostle transgressed this precept when he procured his livelihood by the labour of his own hands, but He meant that He had given them a power, in virtue of which, they might be assured these things were due to them.
 
@@ -138,7 +138,7 @@ In like manner Mark, by saying that they are to be shod with sandals or soles, w
 
 Bede: Again, by the two tunics He seems to me to mean two sets of clothes; not that in places like Scythia, covered with the ice and snow, a man should be content with only one garment, but by coat, I think a suit of clothing is implied, that being clad with one, we should not keep another through anxiety as to what may happen.
 
-Pseudo-Chrys.: Or else, Matthew and Luke neither allow shoes nor staff, which is meant to point out the highest perfection. But Mark bids them take a staff and be shod with sandals, which is spoken by permission. \[see 1 Cor 7:6\] 111 Bede: Again, allegorically; under the figure of a scrip is pointed out the burdens of this world, by bread is meant temporal delights, by money in the purse, the hiding of wisdom; because he who receives the office of a doctor, should neither be weighed down by the burden of worldly affairs, nor be made soft by carnal desires, nor hide the talent of the word committed to him under the case of an inactive body.
+Pseudo-Chrys.: Or else, Matthew and Luke neither allow shoes nor staff, which is meant to point out the highest perfection. But Mark bids them take a staff and be shod with sandals, which is spoken by permission. \[see [[1 Corinthians 07#^7-6|1 Cor 7:6]]\] 111 Bede: Again, allegorically; under the figure of a scrip is pointed out the burdens of this world, by bread is meant temporal delights, by money in the purse, the hiding of wisdom; because he who receives the office of a doctor, should neither be weighed down by the burden of worldly affairs, nor be made soft by carnal desires, nor hide the talent of the word committed to him under the case of an inactive body.
 
 It goes on, “And He said unto them, In what place soever ye enter into an house, there abide till ye depart from that place.”
 
@@ -190,9 +190,9 @@ There follows: “But when Herod heard thereof, he said, It is John, whom I behe
 
 Theophylact: Or else, Herod, knowing that he without a cause had slain John, who was a just man, thought that he had risen from the dead, and had received through his resurrection the power of working miracles.
 
-Augustine, de Con. Even., ii, 43: But in these words Luke bears witness to Mark, to this point at least, that others and not Herod said that John had risen; but Luke had represented Herod as hesitating and has put down his words as if he said, “John have I beheaded, but who is this of whom I hear such things?” \[Luke 9:7\]
+Augustine, de Con. Even., ii, 43: But in these words Luke bears witness to Mark, to this point at least, that others and not Herod said that John had risen; but Luke had represented Herod as hesitating and has put down his words as if he said, “John have I beheaded, but who is this of whom I hear such things?” \[[[Luke 09#^9-7|Luke 9:7]]\]
 
-We must, however, suppose that after this hesitation he had confirmed in his own mind what others had said, for he says to his children, as Matthew relates, “This is John the Baptist, he has risen from the dead.” \[Matt 14:2\] Or else these words are to be spoken, so as to indicate that he is still hesitating, particularly as Mark who had said above that others had declared that John had risen from the dead, afterwards however is not silent as to Herod’s plainly saying, “It is John, whom I beheaded: he is risen from the dead.” Which words also may be spoken in two ways, either they may be understood as those of a man affirming or doubting.
+We must, however, suppose that after this hesitation he had confirmed in his own mind what others had said, for he says to his children, as Matthew relates, “This is John the Baptist, he has risen from the dead.” \[[[Matthew 14#^14-2|Matt 14:2]]\] Or else these words are to be spoken, so as to indicate that he is still hesitating, particularly as Mark who had said above that others had declared that John had risen from the dead, afterwards however is not silent as to Herod’s plainly saying, “It is John, whom I beheaded: he is risen from the dead.” Which words also may be spoken in two ways, either they may be understood as those of a man affirming or doubting.
 
 17\. For Herod himself had sent forth and laid hold upon John, and bound him in prison for Herodias’ sake, his brother Philip’s wife: for he had married her.
 
@@ -234,7 +234,7 @@ It goes on: “For Herod feared John, knowing that he was a just man, and a holy
 
 Theophylact: But see how great is the fury of lust, for though Herod had such an awe and fear of John, he forgets it all, that he may minister to his fornication.
 
-Remig.: For his lustful will drove him to lay hands on a man whom he knew to be just and holy. And by this, we may see how a less fault became the cause to him of a greater; as it is said, “He which is filthy, let him be filthy still.” \[Rev 22:11\]
+Remig.: For his lustful will drove him to lay hands on a man whom he knew to be just and holy. And by this, we may see how a less fault became the cause to him of a greater; as it is said, “He which is filthy, let him be filthy still.” \[[[Revelation 22#^22-11|Rev 22:11]]\]
 
 *[p. 90]* ^pg94
 
@@ -448,7 +448,7 @@ Wherefore it is said, “And straightway He constrained His disciples to get int
 
 Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: He dismisses indeed the people with His blessing and with some cures. But He constrained His disciples, because they could not without pain separate themselves from Him, and that, not only on account of the very great affection which they had for Him, but also because they were at a loss how He would join them.
 
-Bede, in Marc., 2, 27: But it is with reason that we wonder how Mark says, that after the miracle of the loaves the disciples crossed the sea of Bethsaida, when Luke relates that the miracle was done in the parts of Bethsaida \[Luke 9:10\], unless we understand that Luke 126 means by the desert which is Bethsaida not the country immediately around the town, but the desert places belonging to it. But when Mark says that they should “go before unto Bethsaida,” the town itself is meant.
+Bede, in Marc., 2, 27: But it is with reason that we wonder how Mark says, that after the miracle of the loaves the disciples crossed the sea of Bethsaida, when Luke relates that the miracle was done in the parts of Bethsaida \[[[Luke 09#^9-10|Luke 9:10]]\], unless we understand that Luke 126 means by the desert which is Bethsaida not the country immediately around the town, but the desert places belonging to it. But when Mark says that they should “go before unto Bethsaida,” the town itself is meant.
 
 It goes on: “And when He had sent them away, He departed into a mountain to pray.” Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: This we must understand of Christ, in that He is man; He does it also to teach us to be constant in prayer.
 
@@ -458,7 +458,7 @@ Theophylact: But when He had dismissed the crowd, He goes up to pray, for prayer
 
 Bede, in Marc., 2, 28: Not every man, however, who prays goes up into a mountain, but he alone prays well, who seeks God in prayer. But he who prays for riches or worldly labour, or for the death of his enemy, sends up from the lowest depths his vile prayers to God.
 
-John says, “When Jesus therefore perceived that they would come and take Him by force and make Him a king, He departed against into a mountain Himself, alone.” \[John 6:15\]
+John says, “When Jesus therefore perceived that they would come and take Him by force and make Him a king, He departed against into a mountain Himself, alone.” \[[[John 06#^6-15|John 6:15]]\]
 
 It goes on: “And when even was come, the ship was in the midst of the sea, and He alone on the land.”
 
@@ -524,7 +524,7 @@ For the miracle which had been wrought on the woman with an issue of blood, had 
 
 It goes on: “And as many as touched Him were made whole.”
 
-Again, in a mystical sense, do thou understand by the hem of His garment the slightest of His commandments, for whosoever shall transgress it “shall be called the least in the kingdom of heaven,” \[Matt. 5:19\] or else His assumption of our flesh, by which we have come to the Word of God, and afterwards, shall have the enjoyment of His majesty.
+Again, in a mystical sense, do thou understand by the hem of His garment the slightest of His commandments, for whosoever shall transgress it “shall be called the least in the kingdom of heaven,” \[[[Matthew 05#^5-19|Matt. 5:19]]\] or else His assumption of our flesh, by which we have come to the Word of God, and afterwards, shall have the enjoyment of His majesty.
 
 Pseudo-Jerome: Furthermore that which is said, “And as many as touched Him were made whole,” shall be fulfilled, when grief and mourning shall fly away.
 
@@ -592,7 +592,7 @@ Wherefore it continues, “For laying aside the commandments of God, ye hold to 
 
 Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Moreover, to convict them of neglecting the reverence due to God, for the sake of the tradition of the elders, which was opposed to the Holy Scriptures, He subjoins, “For Moses said, Honour thy father and thy mother; and, Whoso curseth father or mother, let him die the death.”
 
-Bede: The sense of the word honour in Scripture is not so much the saluting and paying court to men, as alms-giving, and bestowing gifts; “honour,” says the Apostle, “widows who are widows indeed.” \[1 Tim 5:3\]
+Bede: The sense of the word honour in Scripture is not so much the saluting and paying court to men, as alms-giving, and bestowing gifts; “honour,” says the Apostle, “widows who are widows indeed.” \[[[1 Timothy 05#^5-3|1 Tim 5:3]]\]
 
 Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Notwithstanding the existence of such a divine law, and the threats against such as break it, ye lightly transgress the commandment of God, observing the traditions of the Elders.
 
@@ -728,7 +728,7 @@ Pseudo-Aug.: Lastly, the Canaanitish woman came in to Him, on hearing of Him; if
 
 Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Now by this the Lord wished to shew His disciples that He opened the door of faith even to the Gentiles, wherefore also the nation of the woman is described when it is added, “The woman was a Gentile, a Syrophenician by nation,” that is, from Syria and Phaenice.
 
-It goes on: “and she besought Him that He would cast forth the devil out of her daughter.” Augustine, de Con. Evan., 2, 49: It appears however that some question about a discrepancy may be raised, because it is said that the Lord was in the house when the woman came, asking about her daughter. When, however, Matthew says that His disciples had suggested to Him, “Send her away, for she crieth after us,” \[Matt 15:23\] He appears to imply nothing less than that the woman uttered supplicating cries after the Lord, as He walked. How then do we infer that she was in the house, except by gathering it from Mark, who says that she 140 came in to Jesus, after having before said that He was in the house? But Matthew in that he says, “He answered her not a word,” gave us to understand that He went out, during that silence, from the house; thus too the other events are connected together, so that they now in no way disagree.
+It goes on: “and she besought Him that He would cast forth the devil out of her daughter.” Augustine, de Con. Evan., 2, 49: It appears however that some question about a discrepancy may be raised, because it is said that the Lord was in the house when the woman came, asking about her daughter. When, however, Matthew says that His disciples had suggested to Him, “Send her away, for she crieth after us,” \[[[Matthew 15#^15-23|Matt 15:23]]\] He appears to imply nothing less than that the woman uttered supplicating cries after the Lord, as He walked. How then do we infer that she was in the house, except by gathering it from Mark, who says that she 140 came in to Jesus, after having before said that He was in the house? But Matthew in that he says, “He answered her not a word,” gave us to understand that He went out, during that silence, from the house; thus too the other events are connected together, so that they now in no way disagree.
 
 It continues: “But He said unto her, Let the children be first filled.”
 
@@ -834,7 +834,7 @@ Further, the human race throughout its many members is reckoned as one man, eate
 
 Bede: Or he is deaf and dumb, who neither has ears to hear the words of God, nor opens 145 his mouth to speak them, and such must be presented to the Lord for healing, by men who have already learned to hear and speak the divine oracles.
 
-Pseudo-Jerome: Further, he who obtains healing is always drawn aside from turbulent thoughts, disorderly actions, and incoherent speeches. And the fingers which are put into the ears are the words and the gifts of the Holy Ghost, of whom it is said, “This is the finger of God.” \[Ex 8:19; Luke 11:20\]
+Pseudo-Jerome: Further, he who obtains healing is always drawn aside from turbulent thoughts, disorderly actions, and incoherent speeches. And the fingers which are put into the ears are the words and the gifts of the Holy Ghost, of whom it is said, “This is the finger of God.” \[Ex 8:19; [[Luke 11#^11-20|Luke 11:20]]\]
 
 The spittle is heavenly wisdom, which loosens the sealed lips of the human race, so that it can say, I believe in God, the Father Almighty, and the rest of the Creed. “And looking up to heaven, he groaned,” that is, He taught us to groan, and to raise up the treasures of our hearts to the heavens; because by the groaning of hearty compunction, the silly joy of the flesh is purged away. But the ears are opened to hymns, and songs, and psalms; and He
 
@@ -868,7 +868,7 @@ Wherefore it is said, “In those days, the multitude being very great, and havi
 
 Wherefore it goes on: “And if I send them away fasting to their own houses, they will faint by the way: for divers of them came from far.”
 
-Bede, in Marc., 2, 32: Why they who came from afar hold out for three days, Matthew says more fully: “And He went up into a mountain, and sat down there, and great multitudes came unto Him, having with them many sick persons, and cast them down at Jesus’ feet, and He healed them.” \[Matt. 15:29-30\]
+Bede, in Marc., 2, 32: Why they who came from afar hold out for three days, Matthew says more fully: “And He went up into a mountain, and sat down there, and great multitudes came unto Him, having with them many sick persons, and cast them down at Jesus’ feet, and He healed them.” \[[[Matthew 15#^15-29|Matt. 15:29-30]]\]
 
 Theophylact: The disciples did not yet understand, nor did they believe in His virtue, notwithstanding former miracles; wherefore it continues, “And His disciples said unto Him, From whence can a man satisfy these men with bread here in the wilderness?”
 

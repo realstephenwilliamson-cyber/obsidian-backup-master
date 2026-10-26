@@ -29,7 +29,7 @@ lokādhyātmātimārgādikarmayogavidhānataḥ || ^iast
 >
 > Thus, I myself also, (for this very reason,) out of curiosity (to know) the view of inferior scriptures, have attended on teachers (of all sorts), including logicians, Vedikas, Buddhists, Jainas and Vaiṣṇavas. (with 13.345cd–346ab)
 >
-> One should note (that there is a hierarchy also amongst the teachers of other traditions), according to the progressively increasing extent and excellence of (their) awakening (and right knowledge) (sambodha), which is determined by the (types of) rites (karman) and Yoga (they) prescribe, whether they are those of the common worldly traditions (loka), those concerning the Self (adhyātma) (that is, the Vedānta etc.), or the Atimārga (of Pāśupata Śaivas), and so on. (with 13.346cd–347ab)
+> One should note (that there is a hierarchy also amongst the teachers of other traditions), according to the progressively increasing extent and excellence of (their) awakening (and right knowledge) (saṁbodha), which is determined by the (types of) rites (karman) and Yoga (they) prescribe, whether they are those of the common worldly traditions (loka), those concerning the Self (adhyātma) (that is, the Vedānta etc.), or the Atimārga (of Pāśupata Śaivas), and so on. (with 13.346cd–347ab)
 
 ## Viveka
 

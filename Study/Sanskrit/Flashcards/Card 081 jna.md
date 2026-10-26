@@ -20,18 +20,14 @@ nyasa: "ja: left hand (*kara*) · ña: left fingernails (*nakha*)"
 ## Front
 
 - **Glyph:** ज्ञ
-- **Variation:** a variant form, drawn only as a numbered stroke diagram (not copied here)
 - **Example:** यज्ञ
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘yajña’ (sacrifice)
-- **Class (as printed):** —
-- **suffix:** ‘knower’
-- **Note (no printed label):** Some consider this a distinct letter of the alphabet.
-- **Grid:** the five rows of stops + य र ल व + श ष स ह; in bold: ज, ञ
-- **Example:** yajña (sacrifice)
+> [!note]- Back
+> - **Pronunciation:** As in ‘yajña’ (sacrifice)
+> - **suffix:** ‘knower’
+> - **Note:** Some consider this a distinct letter of the alphabet.
+> - क ख ग घ ङ / च छ <u>ज</u> झ <u>ञ</u> / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / य र ल व / श ष स ह
+> - **Example:** yajña (sacrifice)
 
 ## Register
 

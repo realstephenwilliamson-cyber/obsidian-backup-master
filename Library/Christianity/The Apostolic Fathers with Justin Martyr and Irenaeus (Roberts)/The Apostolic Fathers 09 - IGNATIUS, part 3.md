@@ -34,7 +34,7 @@ Chapter XIV.<sup>1155</sup>
 
 The work is not of promise,<sup>1156</sup> unless a man be found in the power of faith, even to the end.
 
-102 1153 Chaps. iv. v. vi. vii. of the Greek are totally omitted in the Syriac. Thus Cureton renders the words, referring in confirmation to the Peshito version of Phil. i. 4, but the meaning is doubtful. 1154 1155 Chaps. xi. xii. xiii. of the Greek are totally wanting in the Syriac, and only these few words of chaps. xiv. and xv. are represented. The meaning seems to be that mere profession, without continuous practice, is nothing.
+102 1153 Chaps. iv. v. vi. vii. of the Greek are totally omitted in the Syriac. Thus Cureton renders the words, referring in confirmation to the Peshito version of [[Philippians 01#^1-4|Phil. i. 4]], but the meaning is doubtful. 1154 1155 Chaps. xi. xii. xiii. of the Greek are totally wanting in the Syriac, and only these few words of chaps. xiv. and xv. are represented. The meaning seems to be that mere profession, without continuous practice, is nothing.
 
 *[p. 165]* ^pg205
 
@@ -56,7 +56,7 @@ There was concealed from the ruler of this world the virginity of Mary and the b
 
 The Third Epistle of the Same St. Ignatius<sup>1160</sup>
 
-103 1157 Chaps. xvi. and xvii. of the Greek are totally wanting in the Syriac. Literally, “the mysteries of the shout.” The meaning is here confused and obscure. See the Greek. 1158 Chaps. xx. and xxi. of the Greek are altogether wanting in the Syriac. \[N.B.—See spurious Epistle to Philippians, cap. 4, 1159 *infra*. This concealment from Satan of the mystery of the incarnation is the explanation, according to the Fathers, of his tempting the Messiah, and prompting His crucifixion. Also, Christ the more profoundly humbled himself, “*ne subtilis ille diaboli oculus magnum hoc pietatis deprehenderet sacramentum*” (St. Bernard, opp. ii. 1944). Bernard also uses this opinion very strikingly (opp. ii. 1953) in one of his sermons, supposing that Satan discovered the secret too late for his own purpose, and then prompted the outcry, *Come down from the cross*, to defeat the triumph of the second Adam. (Comp. St. Mark i. 24 and St. Luke iv. 34, where, after the first defeat of the tempter, this demon suspects the second Adam, and tries to extort the secret).\] Another inscription is, “The Third Epistle.”
+103 1157 Chaps. xvi. and xvii. of the Greek are totally wanting in the Syriac. Literally, “the mysteries of the shout.” The meaning is here confused and obscure. See the Greek. 1158 Chaps. xx. and xxi. of the Greek are altogether wanting in the Syriac. \[N.B.—See spurious Epistle to Philippians, cap. 4, 1159 *infra*. This concealment from Satan of the mystery of the incarnation is the explanation, according to the Fathers, of his tempting the Messiah, and prompting His crucifixion. Also, Christ the more profoundly humbled himself, “*ne subtilis ille diaboli oculus magnum hoc pietatis deprehenderet sacramentum*” (St. Bernard, opp. ii. 1944). Bernard also uses this opinion very strikingly (opp. ii. 1953) in one of his sermons, supposing that Satan discovered the secret too late for his own purpose, and then prompted the outcry, *Come down from the cross*, to defeat the triumph of the second Adam. (Comp. St. [[Mark 01#^1-24|Mark i. 24]] and St. [[Luke 04#^4-34|Luke iv. 34]], where, after the first defeat of the tempter, this demon suspects the second Adam, and tries to extort the secret).\] Another inscription is, “The Third Epistle.”
 
 *[p. 166]* ^pg206
 
@@ -180,7 +180,7 @@ From Syria even unto Rome I fight with beasts: not that I am devoured by brute b
 
 I have learned that certain of the ministers of Satan have wished to disturb you, some of them asserting that Jesus was born \[only<sup>1181</sup>\] in appearance, was crucified in appearance, and died in appearance; others that He is not the Son the Creator, and others that He is Himself God over all.<sup>1182</sup> Others, again, hold that He is a mere man, and others that this flesh is not to rise again, so that our proper course is to live and partake of a life of pleasure, for that this is the chief good to beings who are in a little while to perish. A swarm of such evils has burst in upon us.<sup>1183</sup> But ye have not “given place by subjection to them, no, not for one hour.”<sup>1184</sup> For ye are the fellow-citizens as well as the disciples of Paul, who “fully preached the Gospel from Jerusalem, and round about unto Illyricum,”<sup>1185</sup> and bare about “the marks of Christ” in his flesh.<sup>1186</sup>
 
-Acts xx. 24. 1177 1 Cor. xvi. 13. 1178 Hab. ii. 4; Gal. iii. 11. 1179 Ps. lxviii. 7 (after the LXX). 1180 Some omit this. 1181 That is, as appears afterwards from chap. v., so as to have no personality distinct from the Father. 1182 The translation is here somewhat doubtful. 1183 Gal. ii. 5. 1184 Rom. xv. 19. 1185 Gal. vi. 17.
+[[Acts 20#^20-24|Acts xx. 24]]. 1177 [[1 Corinthians 16#^16-13|1 Cor. xvi. 13]]. 1178 Hab. ii. 4; [[Galatians 03#^3-11|Gal. iii. 11]]. 1179 Ps. lxviii. 7 (after the LXX). 1180 Some omit this. 1181 That is, as appears afterwards from chap. v., so as to have no personality distinct from the Father. 1182 The translation is here somewhat doubtful. 1183 [[Galatians 02#^2-5|Gal. ii. 5]]. 1184 [[Romans 15#^15-19|Rom. xv. 19]]. 1185 [[Galatians 06#^6-17|Gal. vi. 17]].
 
 *[p. 172]* ^pg212
 
@@ -196,7 +196,7 @@ And \[know ye, moreover\], that He who was born of a woman was the Son of God, a
 
 And that He Himself is not God over all, and the Father, but His Son, He \[shows when He\] says, “I ascend unto my Father and your Father, and to my God and your God.”<sup>1194</sup> And again,
 
-108 Gal. vi. 14. 1187 Acts xxvi. 23 (somewhat inaccurately rendered in English version). 1188 Rom. vi. 10. 1189 Col. i. 15. 1190 1 Cor. viii. 6. 1191 1 Tim. ii. 5. 1192 Col. i. 16, 17. 1193
+108 [[Galatians 06#^6-14|Gal. vi. 14]]. 1187 [[Acts 26#^26-23|Acts xxvi. 23]] (somewhat inaccurately rendered in English version). 1188 [[Romans 06#^6-10|Rom. vi. 10]]. 1189 [[Colossians 01#^1-15|Col. i. 15]]. 1190 [[1 Corinthians 08#^8-6|1 Cor. viii. 6]]. 1191 [[1 Timothy 02#^2-5|1 Tim. ii. 5]]. 1192 [[Colossians 01#^1-16|Col. i. 16]], [[Colossians 01#^1-17|17]]. 1193
 
 *[p. 173]* ^pg213
 
@@ -208,7 +208,7 @@ Nor is He a mere man, by whom and in whom all things were made; for “all thing
 
 #### Chapter VII.—Continuation.
 
-1\. Cor. xv. 28. 1195 John i. 3. 1196 Prov. viii. 27, 30. 1197 Ps. cx. 1. 1198 John viii. 58. 1199 John xvii. 5. 1200 John vi. 38. 1201 John i. 9, 10, 11. 1202 John i. 1. 1203 Some insert here John i. 3. 1204 Prov. viii. 22, 23, 25. John v. 25, 28. 1206 1 Cor. xv. 53. 1207 1 Cor. vi. 9. 1208 1 Cor. xv. 13, 14, 17, 18, 19, 32. 1209 Literally, “coming also to the appetite of those things after eating.” The text is doubtful. 1210
+1\. Cor. xv. 28. 1195 [[John 01#^1-3|John i. 3]]. 1196 Prov. viii. 27, 30. 1197 Ps. cx. 1. 1198 [[John 08#^8-58|John viii. 58]]. 1199 [[John 17#^17-5|John xvii. 5]]. 1200 [[John 06#^6-38|John vi. 38]]. 1201 [[John 01#^1-9|John i. 9]], [[John 01#^1-10|10]], [[John 01#^1-11|11]]. 1202 [[John 01#^1-1|John i. 1]]. 1203 Some insert here [[John 01#^1-3|John i. 3]]. 1204 Prov. viii. 22, 23, 25. [[John 05#^5-25|John v. 25]], [[John 05#^5-28|28]]. 1206 [[1 Corinthians 15#^15-53|1 Cor. xv. 53]]. 1207 [[1 Corinthians 06#^6-9|1 Cor. vi. 9]]. 1208 [[1 Corinthians 15#^15-13|1 Cor. xv. 13]], [[1 Corinthians 15#^15-14|14]], [[1 Corinthians 15#^15-17|17]], [[1 Corinthians 15#^15-18|18]], [[1 Corinthians 15#^15-19|19]], [[1 Corinthians 15#^15-32|32]]. 1209 Literally, “coming also to the appetite of those things after eating.” The text is doubtful. 1210
 
 
 *[p. 174]* ^pg214
@@ -241,7 +241,7 @@ The Epistle of Ignatius to the Antiochians
 
 The Lord has rendered my bonds light and easy since I learnt that you are in peace, that you live in all harmony both of the flesh and spirit. “I therefore, the prisoner of the Lord,<sup>1216</sup> beseech you, that ye walk worthy of the vocation wherewith ye are called,”<sup>1217</sup> guarding against those heresies
 
-110 Eph. vi. 4. 1212 Literally, “of the Philippians.” 1213 1 Pet. v. 14. 1214 Comp. Acts xi. 26. 1215 Literally, “in the Lord.” 1216 Eph. iv. 1.
+110 [[Ephesians 06#^6-4|Eph. vi. 4]]. 1212 Literally, “of the Philippians.” 1213 [[1 Peter 05#^5-14|1 Pet. v. 14]]. 1214 Comp. [[Acts 11#^11-26|Acts xi. 26]]. 1215 Literally, “in the Lord.” 1216 [[Ephesians 04#^4-1|Eph. iv. 1]].
 
 *[p. 176]* ^pg216
 
@@ -255,7 +255,7 @@ For Moses, the faithful servant of God, when he said, “The Lord thy God is one
 
 The prophets also, when they speak as in the person of God, \[saying,\] “I am God, the first \[of beings\], and I am also the last,<sup>1224</sup> and besides Me there is no God,”<sup>1225</sup> concerning the Father of the universe, do also speak of our Lord Jesus Christ. “A Son,” they say, has been given to us, on whose shoulder the government is from above; and His name is called the Angel of great counsel, Wonderful, Counsellor, the strong and mighty God.”<sup>1226</sup> And concerning His incarnation, “Behold, a virgin shall be with Child, and shall bring forth a Son; and they shall call his name Immanuel.”<sup>1227</sup>
 
-Deut. vi. 4; Mark xii. 29.
+Deut. vi. 4; [[Mark 12#^12-29|Mark xii. 29]].
 
 1218
 
@@ -275,7 +275,7 @@ Gen. v. 1, Gen. ix. 6.
 
 1222
 
-Deut. xviii. 15; Acts iii. 22, Acts vii. 37.
+Deut. xviii. 15; [[Acts 03#^3-22|Acts iii. 22]], [[Acts 07#^7-37|Acts vii. 37]].
 
 1223
 
@@ -291,7 +291,7 @@ Isa. ix. 6.
 
 1226
 
-Isa. vii. 14; Matt. i. 23.
+Isa. vii. 14; [[Matthew 01#^1-23|Matt. i. 23]].
 
 *[p. 177]* ^pg217
 
@@ -311,35 +311,35 @@ Isa. liii. 7; Jer. xi. 19.
 
 1228
 
-John xvii. 3.
+[[John 17#^17-3|John xvii. 3]].
 
 1229
 
-John i. 1.
+[[John 01#^1-1|John i. 1]].
 
 1230
 
-John i. 14.
+[[John 01#^1-14|John i. 14]].
 
 1231
 
-Matt. i. 1.
+[[Matthew 01#^1-1|Matt. i. 1]].
 
 1232
 
-1 Cor. viii. 4, 6; Gal. iii. 20.
+[[1 Corinthians 08#^8-4|1 Cor. viii. 4]], [[1 Corinthians 08#^8-6|6]]; [[Galatians 03#^3-20|Gal. iii. 20]].
 
 1233
 
-Eph. iv. 5, 6; 1 Tim. ii. 5.
+[[Ephesians 04#^4-5|Eph. iv. 5]], [[Ephesians 04#^4-6|6]]; [[1 Timothy 02#^2-5|1 Tim. ii. 5]].
 
 1234
 
-1 Tim. ii. 5.
+[[1 Timothy 02#^2-5|1 Tim. ii. 5]].
 
 1235
 
-Comp. John vi. 70. Some read, “the son of the devil.”
+Comp. [[John 06#^6-70|John vi. 70]]. Some read, “the son of the devil.”
 
 1236
 
@@ -347,7 +347,7 @@ Or, “that cannot be known.”
 
 1237
 
-Comp. 1 John ii. 22, 1 John iv. 3; [[2 John 01#^1-7|2 John 7]].
+Comp. [[1 John 02#^2-22|1 John ii. 22]], [[1 John 04#^4-3|1 John iv. 3]]; [[2 John 01#^1-7|2 John 7]].
 
 *[p. 178]* ^pg218
 
@@ -363,7 +363,7 @@ Ye have been the disciples of Paul and Peter; do not lose what was committed to 
 
 #### Chapter VIII.—Exhortations to the presbyters and others.
 
-Jer. xvii. 5. 1239 Phil. iii. 18, 19. 1240 The text is here doubtful. 1241 Literally, “fox-like thoes,” lynxes being perhaps intended. 1242 Some think that this is the same person as the Euodias referred to by St. Paul, Phil. iv. 2; but, as appears from the Greek 1243 (ver. 3, αἵτινες), the two persons there mentioned were *women*. 1 Cor. xvi. 22. 1244 Comp. 1 Cor. iv. 16. 1245 Comp. Col. iv. 18.
+Jer. xvii. 5. 1239 [[Philippians 03#^3-18|Phil. iii. 18]], [[Philippians 03#^3-19|19]]. 1240 The text is here doubtful. 1241 Literally, “fox-like thoes,” lynxes being perhaps intended. 1242 Some think that this is the same person as the Euodias referred to by St. Paul, [[Philippians 04#^4-2|Phil. iv. 2]]; but, as appears from the Greek 1243 (ver. 3, αἵτινες), the two persons there mentioned were *women*. [[1 Corinthians 16#^16-22|1 Cor. xvi. 22]]. 1244 Comp. [[1 Corinthians 04#^4-16|1 Cor. iv. 16]]. 1245 Comp. [[Colossians 04#^4-18|Col. iv. 18]].
 
 *[p. 179]* ^pg219
 
@@ -381,7 +381,7 @@ Ye masters, do not treat your servants with haughtiness, but imitate patient Job
 
 1\. Pet. v. 2. 1247
 
-2\. Tim. iv. 6. 1248 Phil. iii. 8. 1249 Comp. 1 Pet. iii. 6. 1250 Eph. vi. 1, 3. 1251 Literally, “If I did despise.” 1252 Or, “judgment.” 1253 Job xxxi. 13, 14.
+2\. Tim. iv. 6. 1248 [[Philippians 03#^3-8|Phil. iii. 8]]. 1249 Comp. [[1 Peter 03#^3-6|1 Pet. iii. 6]]. 1250 [[Ephesians 06#^6-1|Eph. vi. 1]], [[Ephesians 06#^6-3|3]]. 1251 Literally, “If I did despise.” 1252 Or, “judgment.” 1253 Job xxxi. 13, 14.
 
 
 *[p. 180]* ^pg220
@@ -400,15 +400,15 @@ I salute the holy presbytery. I salute the sacred deacons, and that person most 
 
 I salute Cassian and his partner in life, and their very dear children. Polycarp, that most worthy bishop, who is also deeply interested in you, salutes you; and to him I have commended you in the Lord. The whole Church of the Smyrnæans, indeed, is mindful of you in their prayers in the Lord. Onesimus, the pastor of the Ephesians, salutes you. Damas,<sup>1262</sup> the bishop of Magnesia, salutes you. Polybius, bishop of the Trallians, salutes you. Philo and Agathopus, the deacons, my companions, salute you, “Salute one another with a holy kiss.”<sup>1263</sup>
 
-Comp. 2 Thess. iii. 10.
+Comp. [[2 Thessalonians 03#^3-10|2 Thess. iii. 10]].
 
 1255
 
-Eph. v. 3.
+[[Ephesians 05#^5-3|Eph. v. 3]].
 
 1256
 
-1 Tim. v. 6, 11.
+[[1 Timothy 05#^5-6|1 Tim. v. 6]], [[1 Timothy 05#^5-11|11]].
 
 1257
 
@@ -432,7 +432,7 @@ Or, as some read, “Demas.”
 
 1262
 
-2 Cor. xiii. 12.
+[[2 Corinthians 13#^13-12|2 Cor. xiii. 12]].
 
 *[p. 181]* ^pg221
 
@@ -458,11 +458,11 @@ Literally, “before ages.”
 
 1264
 
-Gal. i. 4.
+[[Galatians 01#^1-4|Gal. i. 4]].
 
 1265
 
-Gal. vi. 2.
+[[Galatians 06#^6-2|Gal. vi. 2]].
 
 1266
 
@@ -494,7 +494,7 @@ Every one that teaches anything beyond what is commanded, though he be \[deemed\
 
 “Honour widows that are widows indeed.”<sup>1278</sup> Be the friend of orphans; for God is “the Father of the fatherless, and the Judge of the widows.”<sup>1279</sup> Do nothing without the bishops; for they are priests, and thou a servant of the priests. They baptize, offer sacrifice,<sup>1280</sup> ordain, and lay on hands;
 
-Eccl. ii. 25 (after LXX.); Zech. ix. 17. 1272 Comp. 1 Tim. iv. 13. 1273 Literally, “athlete.” 1274 2 Tim. ii. 4. 1275 Comp. Matt. vii. 15. 1276 1 Cor. xiii. 2. 1277 1 Tim. v. 3. 1278 Ps. lxviii. 5. 1279 The term ἱερουργέω, which we have translated as above, is one whose signification is disputed. It occurs once in the New 1280 Testament (Rom. xv. 16) where it is translated in our English version simply “ministering.” Etymologically, it means “to act as a priest,” and we have in our translation followed Hesychius (Cent. iv.), who explains it as meaning “to offer sacrifice.” \[The
+Eccl. ii. 25 (after LXX.); Zech. ix. 17. 1272 Comp. [[1 Timothy 04#^4-13|1 Tim. iv. 13]]. 1273 Literally, “athlete.” 1274 [[2 Timothy 02#^2-4|2 Tim. ii. 4]]. 1275 Comp. [[Matthew 07#^7-15|Matt. vii. 15]]. 1276 [[1 Corinthians 13#^13-2|1 Cor. xiii. 2]]. 1277 [[1 Timothy 05#^5-3|1 Tim. v. 3]]. 1278 Ps. lxviii. 5. 1279 The term ἱερουργέω, which we have translated as above, is one whose signification is disputed. It occurs once in the New 1280 Testament ([[Romans 15#^15-16|Rom. xv. 16]]) where it is translated in our English version simply “ministering.” Etymologically, it means “to act as a priest,” and we have in our translation followed Hesychius (Cent. iv.), who explains it as meaning “to offer sacrifice.” \[The
 
 *[PDF 223]* ^pg223
 
@@ -508,21 +508,21 @@ Be not ashamed of servants, for we possess the same nature in common with them. 
 
 Flee from haughtiness, “for the Lord resisteth the proud.”<sup>1284</sup> Abhor falsehood, for says \[the Scripture\], “Thou shalt destroy all them that speak lies.”<sup>1285</sup> Guard against envy, for its author is the devil, and his successor Cain, who envied his brother, and out of envy committed murder. Exhort my sisters to love God, and be content with their own husbands only. In like manner, exhort my brethren also to be content with their own wives. Watch over the virgins, as the precious treasures
 
-whole passage in the Epistle to the Romans, where this word occurs may be compared (original Greek) with Mal. i. 11, Heb. v. 1, etc.\]
+whole passage in the Epistle to the Romans, where this word occurs may be compared (original Greek) with Mal. i. 11, [[Hebrews 05#^5-1|Heb. v. 1]], etc.\]
 
 Specifically, assemblies for the celebration of the Lord’s Supper.
 
 1281
 
-1 Tim. iv. 12.
+[[1 Timothy 04#^4-12|1 Tim. iv. 12]].
 
 1282
 
-1 Cor. xi. 11.
+[[1 Corinthians 11#^11-11|1 Cor. xi. 11]].
 
 1283
 
-Jas. iv. 6; 1 Pet. v. 5.
+[[James 04#^4-6|Jas. iv. 6]]; [[1 Peter 05#^5-5|1 Pet. v. 5]].
 
 1284
 
@@ -540,7 +540,7 @@ Keep God in remembrance, and thou shalt never sin. Be not double-minded<sup>1290
 
 #### Chapter VIII.—Salutations.
 
-Prov. xiv. 29. 1286 Prov. xv. 27 (after LXX.: Prov. xvi. 6 in English version) 1287 1 Cor. i. 31; 2 Cor. x. 17. 1288 Sirach xix. 4. 1289 Comp. Jas. i. 6, 8. 1290 Comp. Epistle to the Antiochians, chap. xii.
+Prov. xiv. 29. 1286 Prov. xv. 27 (after LXX.: Prov. xvi. 6 in English version) 1287 [[1 Corinthians 01#^1-31|1 Cor. i. 31]]; [[2 Corinthians 10#^10-17|2 Cor. x. 17]]. 1288 Sirach xix. 4. 1289 Comp. [[James 01#^1-6|Jas. i. 6]], [[James 01#^1-8|8]]. 1290 Comp. Epistle to the Antiochians, chap. xii.
 
 *[PDF 225]* ^pg225
 
@@ -558,7 +558,7 @@ The Epistle of Ignatius to the Philippians
 
 *Ignatius, who is also called Theophorus, to the Church of God which is at Philippi, which has obtained mercy in faith, and patience, and love unfeigned: Mercy and peace from God the Father,* *and the Lord Jesus Christ, “who is the Saviour of all men, specially of them that believe.”*<sup>1296</sup>
 
-116 Comp. Deut. xxxi. 7, 23. 1292 Num. xxvii. 17. 1293 2 Tim. i. 18. 1294 Col. iv. 15. 1295 1 Tim. iv. 10.
+116 Comp. Deut. xxxi. 7, 23. 1292 Num. xxvii. 17. 1293 [[2 Timothy 01#^1-18|2 Tim. i. 18]]. 1294 [[Colossians 04#^4-15|Col. iv. 15]]. 1295 [[1 Timothy 04#^4-10|1 Tim. iv. 10]].
 
 *[PDF 226]* ^pg226
 
@@ -570,7 +570,7 @@ Being mindful of your love and of your zeal in Christ, which ye have manifested 
 
 There is then one God and Father, and not two or three; One who is; and there is no other besides Him, the only true \[God\]. For “the Lord thy God,” saith \[the Scripture\], “is one Lord.”<sup>1305</sup> And again, “Hath not one God created us? Have we not all one Father?<sup>1306</sup> And there is also one Son, God the Word. For “the only-begotten Son,” saith \[the Scripture\], “who is in the bosom of the Father.”<sup>1307</sup> And again, “One Lord Jesus Christ.”<sup>1308</sup> And in another place, “What is His name, or what His Son’s name, that we may know?”<sup>1309</sup> And there is also one Paraclete.<sup>1310</sup> For “there is also,”
 
-Literally, “to your brother-loving spiritual love according to God.” 1297 Literally, “course in Christ.” 1298 1 Cor. i. 10; Phil. ii. 2, Phil. iii. 16. 1299 1 Cor. viii. 6. 1300 1 Cor. viii. 6. 1301 1 Cor. xii. 11. 1302 Literally, “which is given unto the death of the Lord.” 1303 Eph. iv. 5. 1304 Deut. vi. 4; Mark xii. 29. 1305 Mal. ii. 10. 1306 John i. 18. 1307 1 Cor. viii. 6. 1308 Prov. xxx. 4. 1309 i.e., “Advocate” or “Comforter;” comp. John xiv. 16.
+Literally, “to your brother-loving spiritual love according to God.” 1297 Literally, “course in Christ.” 1298 [[1 Corinthians 01#^1-10|1 Cor. i. 10]]; [[Philippians 02#^2-2|Phil. ii. 2]], [[Philippians 03#^3-16|Phil. iii. 16]]. 1299 [[1 Corinthians 08#^8-6|1 Cor. viii. 6]]. 1300 [[1 Corinthians 08#^8-6|1 Cor. viii. 6]]. 1301 [[1 Corinthians 12#^12-11|1 Cor. xii. 11]]. 1302 Literally, “which is given unto the death of the Lord.” 1303 [[Ephesians 04#^4-5|Eph. iv. 5]]. 1304 Deut. vi. 4; [[Mark 12#^12-29|Mark xii. 29]]. 1305 Mal. ii. 10. 1306 [[John 01#^1-18|John i. 18]]. 1307 [[1 Corinthians 08#^8-6|1 Cor. viii. 6]]. 1308 Prov. xxx. 4. 1309 i.e., “Advocate” or “Comforter;” comp. [[John 14#^14-16|John xiv. 16]].
 
 *[PDF 227]* ^pg227
 
@@ -582,7 +582,7 @@ For there is but One that became incarnate, and that neither the Father nor the 
 
 #### Chapter IV.—The malignity and folly of Satan.
 
-117 Eph. iv. 4. 1311 1 Cor. xii. 13. 1312 Eph. iv. 4. 1313 1 Cor. xii. 11. 1314 Comp. Athanasian Creed. 1315 Matt. xxviii. 19. 1316 John i. 14. 1317 Prov. ix. 1. 1318
+117 [[Ephesians 04#^4-4|Eph. iv. 4]]. 1311 [[1 Corinthians 12#^12-13|1 Cor. xii. 13]]. 1312 [[Ephesians 04#^4-4|Eph. iv. 4]]. 1313 [[1 Corinthians 12#^12-11|1 Cor. xii. 11]]. 1314 Comp. Athanasian Creed. 1315 [[Matthew 28#^28-19|Matt. xxviii. 19]]. 1316 [[John 01#^1-14|John i. 14]]. 1317 Prov. ix. 1. 1318
 
 *[PDF 228]* ^pg228
 
@@ -592,7 +592,7 @@ And indeed, before the cross was erected, he (Satan) was eager that it should be
 
 For if the Lord were a mere man, possessed of a soul and body only, why dost thou mutilate and explain away His being born with the common nature of humanity? Why dost thou call the passion a mere appearance, as if it were any strange thing happening to a \[mere\] man? And why dost thou reckon the death of a mortal to be simply an imaginary death? But if, \[on the other hand,\] He is both God and man, then why dost thou call it unlawful to style Him “the Lord of glory,”<sup>1326</sup> who is by nature unchangeable? Why dost thou say that it is unlawful to declare of the Lawgiver
 
-Eph. ii. 2. 1320 \[This is the idea worked out by St. Bernard. See my note *(supra)* suffixed to the Syriac Epistle to Ephesians.\] 1321 The various Gnostic sects are here referred to, who held that matter was essentially evil, and therefore denied the reality 1322 of our Lord’s incarnation. The ms. has μαγείας, “of magic;” we have followed the emendation proposed by Faber. 1323 Literally, “heretical in respect to phantasy.” 1324 Literally, is “various,” or “manifold.” 1325 1 Cor. ii. 8.
+[[Ephesians 02#^2-2|Eph. ii. 2]]. 1320 \[This is the idea worked out by St. Bernard. See my note *(supra)* suffixed to the Syriac Epistle to Ephesians.\] 1321 The various Gnostic sects are here referred to, who held that matter was essentially evil, and therefore denied the reality 1322 of our Lord’s incarnation. The ms. has μαγείας, “of magic;” we have followed the emendation proposed by Faber. 1323 Literally, “heretical in respect to phantasy.” 1324 Literally, is “various,” or “manifold.” 1325 [[1 Corinthians 02#^2-8|1 Cor. ii. 8]].
 
 *[PDF 229]* ^pg229
 
@@ -606,7 +606,7 @@ And how can He be but God, who raises up the dead, sends away the lame sound of 
 
 And how, again, does Christ not at all appear to thee to be of the Virgin, but to be God over all,<sup>1330</sup> and the Almighty? Say, then, who sent Him? Who was Lord over Him? And whose will did He obey? And what laws did He fulfil, since He was subject neither to the will nor power of any one? And while you deny that Christ was born,<sup>1331</sup> you affirm that the unbegotten was begotten, and that He who had no beginning was nailed to the cross, by whose permission I am unable to say. But thy changeable tactics do not escape me, nor am I ignorant that thou art wont to walk with slanting and uncertain<sup>1332</sup> steps. And thou art ignorant who really was born, thou who pretendest to know everything.
 
-118 John i. 14. 1327 Matt. iv. 23, Matt. ix. 35. 1328 Reference seems to be made to obscene heathen practices. 1329 i.e., so as to have no separate personality from the Father. Comp. Epistle to the Tarsians, chap. ii. 1330 Literally, “and taking away Christ from being born.” 1331 Literally, “double.”
+118 [[John 01#^1-14|John i. 14]]. 1327 [[Matthew 04#^4-23|Matt. iv. 23]], [[Matthew 09#^9-35|Matt. ix. 35]]. 1328 Reference seems to be made to obscene heathen practices. 1329 i.e., so as to have no separate personality from the Father. Comp. Epistle to the Tarsians, chap. ii. 1330 Literally, “and taking away Christ from being born.” 1331 Literally, “double.”
 
 *[PDF 230]* ^pg230
 
@@ -642,7 +642,7 @@ Darest thou, then, who didst fall “as lightning”<sup>1341</sup> from the ver
 
 #### Chapter XI.—Continuation: audacity of Satan.
 
-119 Matt. iv. 3. 1337 Or, “the belly.” 1338 1 Cor. ii. 8. 1339 Some insert, “corruptible.” 1340 Luke x. 18. 1341 Matt. iv. 6. 1342 Comp. Rom. iv. 17. 1343 Matt. iv. 6. 1344
+119 [[Matthew 04#^4-3|Matt. iv. 3]]. 1337 Or, “the belly.” 1338 [[1 Corinthians 02#^2-8|1 Cor. ii. 8]]. 1339 Some insert, “corruptible.” 1340 [[Luke 10#^10-18|Luke x. 18]]. 1341 [[Matthew 04#^4-6|Matt. iv. 6]]. 1342 Comp. [[Romans 04#^4-17|Rom. iv. 17]]. 1343 [[Matthew 04#^4-6|Matt. iv. 6]]. 1344
 
 *[p. 1352]* ^pg232
 
@@ -656,11 +656,11 @@ Deut. vi. 16.
 
 1346
 
-Luke iv. 6.
+[[Luke 04#^4-6|Luke iv. 6]].
 
 1347
 
-Matt. iv. 9.
+[[Matthew 04#^4-9|Matt. iv. 9]].
 
 1348
 
@@ -672,11 +672,11 @@ Or, “that always needs whipping.”
 
 1350
 
-Matt. iv. 10.
+[[Matthew 04#^4-10|Matt. iv. 10]].
 
 1351
 
-Matt. iv. 10; Deut. vi. 13.
+[[Matthew 04#^4-10|Matt. iv. 10]]; Deut. vi. 13.
 
 *[p. 1353]* ^pg233
 
@@ -694,7 +694,7 @@ Let your prayers be extended to the Church of Antioch, whence also I as a prison
 
 Philo and Agathopus the deacons salute you. I salute the company of virgins, and the order of widows; of whom may I have joy! I salute the people of the Lord, from the least unto the greatest. I have sent you this letter through Euphanius the reader, a man honoured of God, and very faithful, happening to meet with him at Rhegium, just as he was going on board ship. Remember my bonds<sup>1353</sup> that I may be made perfect in Christ. Fare ye well in the flesh, the soul, and the spirit, while ye
 
-Comp. Col. iv. 18.
+Comp. [[Colossians 04#^4-18|Col. iv. 18]].
 
 *[PDF 234]* ^pg234
 
@@ -798,7 +798,7 @@ Literally, “by the many wills of the adversaries.”
 
 1377
 
-Rom. viii. 18.
+[[Romans 08#^8-18|Rom. viii. 18]].
 
 1378
 
@@ -896,11 +896,11 @@ The learned dissertation of Pearson, on the difficulties of reconciling the supp
 
 The following is the Introductory Notice of the translators:—The following account of the martyrdom of Ignatius professes, in several passages, to have been written by those who accompanied him on his voyage to Rome, and were present on the occasion of his death (chaps. v. vi. vii.). And if the genuineness of this narrative, as well as of the Ignatian Epistles, be admitted, there can be little doubt that the persons in question were Philo and Agathopus, with Crocus perhaps, all of whom are mentioned by Ignatius (*Epist. to Smyr.*, chap. x.; *to Philad.*, chap. xi.; *to Rom.*, chap. x.) as having attended him on that journey to Rome which resulted in his martyrdom. But doubts have been started, by Daillé and others, as to the date and authorship of this account. Some of these rest upon internal considerations, but the weightiest objection is found in the fact that no reference to this narrative is to be traced during the first six
 
-1 Cor. xvi. 13.
+[[1 Corinthians 16#^16-13|1 Cor. xvi. 13]].
 
 1393
 
-Luke i. 47.
+[[Luke 01#^1-47|Luke i. 47]].
 
 1394
 
@@ -908,7 +908,7 @@ He published an edition of Ignatius, Oxford, 1709.
 
 *[PDF 242]* ^pg242
 
-centuries of our era.<sup>1396</sup> This is certainly a very suspicious circumstance, and may well give rise to some hesitation in ascribing the authorship to the immediate companions and friends of Ignatius. On the other hand, however, this account of the death of Ignatius is in perfect harmony with the particulars recounted by Eusebius and Chrysostom regarding him. Its comparative simplicity, too, is greatly in its favour. It makes no reference to the legends which by and by connected themselves with the name of Ignatius. As is well known, he came in course of time to be identified with the child whom Christ (Matt. xviii. 2) set before His disciples as a pattern of humility. It was said that the Saviour took him up in His arms, and that hence Ignatius derived his name of *Theophorus*;<sup>1397</sup> that is, according to the explanation which this legend gives of the word, *one carried by God*. But in chap. ii. of the following narrative we find the term explained to mean, “one who has Christ in 128
+centuries of our era.<sup>1396</sup> This is certainly a very suspicious circumstance, and may well give rise to some hesitation in ascribing the authorship to the immediate companions and friends of Ignatius. On the other hand, however, this account of the death of Ignatius is in perfect harmony with the particulars recounted by Eusebius and Chrysostom regarding him. Its comparative simplicity, too, is greatly in its favour. It makes no reference to the legends which by and by connected themselves with the name of Ignatius. As is well known, he came in course of time to be identified with the child whom Christ ([[Matthew 18#^18-2|Matt. xviii. 2]]) set before His disciples as a pattern of humility. It was said that the Saviour took him up in His arms, and that hence Ignatius derived his name of *Theophorus*;<sup>1397</sup> that is, according to the explanation which this legend gives of the word, *one carried by God*. But in chap. ii. of the following narrative we find the term explained to mean, “one who has Christ in 128
 
 his breast;” and this simple explanation, with the entire silence preserved as to the marvels afterwards connected with the name of Ignatius, is certainly a strong argument in favour of the early date and probable genuineness of the account. Some critics, such as Usher and Grabe, have reckoned the latter part of the narrative spurious, while accepting the former; but there appears to be a unity about it which requires us either to accept it *in toto*, or to reject it altogether.<sup>1398</sup>
 
@@ -976,7 +976,7 @@ The Latin version reads, “Him who bore my sin, with its inventor, upon the cro
 
 1410
 
-2 Cor. vi. 16.
+[[2 Corinthians 06#^6-16|2 Cor. vi. 16]].
 
 1411
 
@@ -1018,7 +1018,7 @@ Literally, “a portion of.”
 
 The Latin version has, “that he was to.” \[But compare the martyr’s Epistle to the Romans (cap. 5); “yet am I not thereby 1418
 
-justified,” —a double reference to St. Paul’s doctrine, 1 Cor. iv. 4 and 1 Cor. xiii. 3. See also his quotation (*Sept.*, Prov. xviii. 17). Epistle to Magnesians, cap 12.\]
+justified,” —a double reference to St. Paul’s doctrine, [[1 Corinthians 04#^4-4|1 Cor. iv. 4]] and [[1 Corinthians 13#^13-3|1 Cor. xiii. 3]]. See also his quotation (*Sept.*, Prov. xviii. 17). Epistle to Magnesians, cap 12.\]
 
 The punctuation and construction are here doubtful.
 
@@ -1032,7 +1032,7 @@ Or, “corrected.”
 
 1421
 
-Comp. Acts xxviii. 13, 14.
+Comp. [[Acts 28#^28-13|Acts xxviii. 13]], [[Acts 28#^28-14|14]].
 
 *[PDF 246]* ^pg246
 

@@ -27,7 +27,7 @@ prakarṣagamanāccaiṣa līno yannādharaṃ vrajet || ^iast
 > [!source] Dyczkowski, vol. VIII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 08 (Dyczkowski)/Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#^pg201|p. 183]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 08.pdf#page=201>))
 >
-> (He is) ‘great’ because he pervades all the principles. (He is) a ghost’ because of (his enlightened) wakefulness, and because he moves to a most excellent (place). He is merged (lna) (in this state and rests within it), for he (never) descends to lower (levels).
+> (He is) ‘great’ because he pervades all the principles. (He is) a ‘ghost’ because of (his enlightened) wakefulness, and because he moves to a most excellent (place). He is merged (līna) (in this state and rests within it), for he (never) descends to lower (levels).
 
 ## Viveka
 

@@ -27,7 +27,7 @@ jaḍaṃ malaṃ tadajñānaṃ saṃsārāṅkurakāraṇam || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#^pg174|p. 154]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=174>))
 >
-> &(The dualist Śaiva Siddhāntin opponent nonetheless declares that,) Impurity (mala) is therefore one, a real entity (vastu) and eternal; it is always associated with all (fettered) souls. It is insentient, and is the ignorance which is the cause of the sprout of the world of transmigration.
+> (The dualist Śaiva Siddhāntin opponent nonetheless declares that,) Impurity (mala) is therefore one, a real entity (vastu) and eternal; it is always associated with all (fettered) souls. It is insentient, and is the ignorance which is the cause of the sprout of the world of transmigration.
 
 ## Viveka
 

@@ -10,6 +10,7 @@ second_reading: "Colossians 1:11-20"
 gospel: "Luke 23:33-43"
 first_reading_complementary: "Jeremiah 23:1-6"
 psalm_complementary: "Psalm 46"
+psalm_bcp_complementary: "Psalm 46"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-29]]"
 cssclasses:

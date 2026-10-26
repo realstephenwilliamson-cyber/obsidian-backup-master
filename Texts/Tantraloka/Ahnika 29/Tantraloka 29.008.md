@@ -27,7 +27,7 @@ kiñcidatropayujyeta kṛtaṃ vā khaṇḍanāya no || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#^pg223|p. 206]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=223>))
 >
-> (Ritual) ablution, the Mandala, the sacrificial hearth and so on, as well as the six-fold deposition (nyāsa) etc. - none of them is of any use here (at all). (However,) if (any of that is) done, it does not serve to invalidate (the rite) (khandana).
+> (Ritual) ablution, the Mandala, the sacrificial hearth and so on, as well as the six-fold deposition (nyāsa) etc. - none of them is of any use here (at all). (However,) if (any of that is) done, it does not serve to invalidate (the rite) (khaṇḍana).
 
 ## Viveka
 

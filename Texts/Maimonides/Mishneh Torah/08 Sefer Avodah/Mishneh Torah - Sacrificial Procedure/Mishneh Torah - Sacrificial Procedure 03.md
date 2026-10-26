@@ -144,7 +144,7 @@ If he is bringing a peace-offering, he should perform *semichah* with all of his
 
 [^1]: See Halachah 9.
 [^2]: See Chapter 1, Halachah 6, with regard to the distinction between these types of offerings.
-[^3]: I.e., an entity of seemingly little value. One might think that bringing such an offering in partnership is not becoming to the altar. Even so, if one's intent is desirable, the offering is accepted (Radbaz, based on [[Menachot 110#110a|*Menachot* 110a]]).
+[^3]: I.e., an entity of seemingly little value. One might think that bringing such an offering in partnership is not becoming to the altar. Even so, if one's intent is desirable, the offering is accepted (Radbaz, based on *Menachot* [[Menachot 110#110a|110a]]).
 [^4]: In this chapter, the Rambam outlines the types of individuals who may bring a sacrifice and the rite of *semichah* because that is an obligation on the person bringing the sacrifice.
 [^5]: The Jerusalem Talmud (*Avodah Zarah* 2:1) notes that the prooftext states that it is forbidden to accept an offering from a gentile from a blemished animal. One can infer that if the animal is unblemished, the offering may be accepted.  
     The verse uses the term *lechem*, "food." That term is understood as referring only to a burnt-offering, as [[Torah 41 - Pinchas#^28-2|Numbers 28:2]] states: "My food for my fires."And the burnt-offering is the only type of offering, consumed entirely by the fire of the altar (Radbaz).
@@ -152,12 +152,12 @@ If he is bringing a peace-offering, he should perform *semichah* with all of his
 [^7]: As mentioned in Halachah 4, burnt offerings are not accepted from a Jew who worships false deities. Nevertheless, such restrictions are not placed upon gentiles.
 [^8]: To offer them as peace-offerings. They are, however, brought as burnt-offerings, as stated in the following halachah.
 [^9]: For the concept of atonement applies only with regard to the Jews' relationship with God.
-[^10]: Rashi ([[Menachot 73#73b|*Menachot* 73b]]) interprets this as meaning that the gentile desires that his sacrifices be offered entirely to God and not have mortals partake of them.
+[^10]: Rashi (*Menachot* [[Menachot 73#73b|73b]]) interprets this as meaning that the gentile desires that his sacrifices be offered entirely to God and not have mortals partake of them.
 [^11]: The Radbaz notes that peace-offerings are not intended to bring atonement and explains that this is referring to an instance where a Jew vowed to bring a peace offering and the gentile offered to bring it for him. One might think that since the gentile is bringing them they would be offered as burnt-offerings. Hence it is necessary to explain that they are peace offerings.
 [^12]: See the conclusion of *Hilchot Shabbat* where the Rambam explains that the public desecration of the Sabbath is equivalent to idol worship, because they are both cornerstones of the Jewish faith. "Public" refers to a matter known about by ten people.  
     The Radbaz adds that we do not accept the sacrifices of a Jew who has abandoned Judaism and accepted a faith like Islam which does not involve idol worship. Such a person is included in the category (*Hilchot Teshuvah* 3:9) of an apostate with regard to the entire Torah.
-[^13]: [[Chullin 5#5a|*Chulin* 5a]]-b.
-[^14]: I.e., he had two cuts of meat before him of equal quality, one kosher and one non-kosher and he ate the non-kosher one solely for the intent of angering God ([[Gittin 47#47a|*Gittin* 47a]]).
+[^13]: *Chulin* [[Chullin 5#5a|5a]]-b.
+[^14]: I.e., he had two cuts of meat before him of equal quality, one kosher and one non-kosher and he ate the non-kosher one solely for the intent of angering God (*Gittin* [[Gittin 47#47a|47a]]).
 [^15]: Similarly, in *Hilchot Edut* 10:3, a distinction is not made with regard to the motivations for the transgression. There are other instances - see *Hilchot Teshuvah, loc. cit.*, *Hilchot Matanot Aniyim* 8;14, *Hilchot Gezeilah ViAveidah* 11:2, and *Hilchot Rotzeach* 4:10 - where the Rambam does make such a distinction.
 [^16]: Since he frequently violates this transgression, we assume that he is not sincere in his desire for atonement for it, because a request for atonement must be accompanied by sincere regret. Sacrifices brought for other transgressions are, however, accepted from him. See *Hilchot Shegagot* 3:7.
 [^17]: A meal offering and a wine libation.
@@ -165,9 +165,9 @@ If he is bringing a peace-offering, he should perform *semichah* with all of his
 [^19]: I.e., the Temple treasury.
 [^20]: Implying that the sacrifices themselves require that the accompanying offerings be brought.
 [^21]: Leaning on the animal with all one's strength, as the Rambam proceeds to explain in the concluding halachot of the chapter.
-[^22]: The prooftext for the obligation to perform *semichah* speaks of "the children of Israel," and uses the male form. [[Menachot 93#93b|*Menachot* 93b]] understands this to exclude gentiles and [[Chagigah 16#16b|*Chagigah* 16b]] understands it as excluding women. See also Halachah 8.
+[^22]: The prooftext for the obligation to perform *semichah* speaks of "the children of Israel," and uses the male form. *Menachot* [[Menachot 93#93b|93b]] understands this to exclude gentiles and *Chagigah* [[Chagigah 16#16b|16b]] understands it as excluding women. See also Halachah 8.
 [^23]: This also includes offerings brought in partnership. The exclusion is only of communal offerings. See Halachah 10.
-[^24]: *Sifra* to the verse; [[Menachot 92#92b|*Menachot* 92b]].
+[^24]: *Sifra* to the verse; *Menachot* [[Menachot 92#92b|92b]].
 [^25]: The *Sifra* derives this concept from the exegesis of [[Torah 24 - Vayikra#^1-4|Leviticus 1:4]]: "And he will lean his hand on the head of the burnt-offering." "The" implies that there are some burnt-offerings to which this does not apply.
 [^26]: *Hilchot Shekalim* 2:3; 3:14.
 [^27]: Money that was found between the chest of the freewill offerings and the chest of the *shekalim* that was closer to the chest of the freewill offerings.
@@ -182,14 +182,14 @@ If he is bringing a peace-offering, he should perform *semichah* with all of his
 [^36]: During the Yom Kippur services. The High Priest performs *semichah* on it.
 [^37]: In both these instances, there is an explicit verse ([[Torah 29 - Achrei Mot#^16-21|Leviticus 16:21]]; 4:15) requiring *semichah* for the sacrifice.
 [^38]: I.e., were it not for that tradition, we might have derived the need for *semichah* for communal offerings from these two instances using Biblical exegesis [the Rambam's Commentary to the Mishnah (*Menachot* 9:7)].
-[^39]: [[Zevachim 32#32b|*Zevachim* 32b]] explains that just as the slaughter of the animal must be performed "before God," in the Temple Courtyard, so too, *semichah* must be performed "before God," in that same place.
+[^39]: *Zevachim* [[Zevachim 32#32b|32b]] explains that just as the slaughter of the animal must be performed "before God," in the Temple Courtyard, so too, *semichah* must be performed "before God," in that same place.
 [^40]: This is indeed what is done when the atonement process of the people bringing the sacrifice has not been completed and they are not allowed to enter the Temple Courtyard until the sacrifice is offered.
 [^41]: As required by Halachah 13.
 [^42]: After the fact.
-[^43]: [[Menachot 93#93b|*Menachot* 93b]] derives this concept from the subsequent law: that slaughter must be performed directly after *semichah*. It thus follows that one must slaughter the animal in the same place where *semichah* was performed, for otherwise, this is not considered as directly afterwards.
+[^43]: *Menachot* [[Menachot 93#93b|93b]] derives this concept from the subsequent law: that slaughter must be performed directly after *semichah*. It thus follows that one must slaughter the animal in the same place where *semichah* was performed, for otherwise, this is not considered as directly afterwards.
 [^44]: *Tosafot Yesheinim, Yoma* 5a, explains that the intent is that although the person is not obligated to bring another sacrifice, in G‑d's eyes, his atonement is lacking.
 [^45]: This is derived from [[Torah 29 - Achrei Mot#^16-21|Leviticus 16:21]] which states such a requirement with regard to the goat sent to Azazel.
-[^46]: Its cheeks (Rashi, [[Menachot 93#93b|*Menachot* 93b]]).
+[^46]: Its cheeks (Rashi, *Menachot* [[Menachot 93#93b|93b]]).
 [^47]: The sacrifices of the most sacred order must be slaughtered in this portion of the Temple Courtyard, as stated in Chapter 5, Halachot 2-3. See also *Hilchot Beit HaBechirah* 5:16.
 [^48]: See *Hilchot Teshuvah* 2:5 which states that a person seeking to repent must mention the particular sins that he violated.
 [^49]: This is necessary, for without *teshuvah*, a sacrifice will not bring the person atonement (*Hilchot Shegagot* 3:10).

@@ -11,6 +11,7 @@ second_reading: "Colossians 3:1-11"
 gospel: "Luke 12:13-21"
 first_reading_complementary: "Ecclesiastes 1:2, 12-14; 2:18-23"
 psalm_complementary: "Psalm 49:1-12"
+psalm_bcp_complementary: "Psalm 49:1-11"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-13]]"
 cssclasses:

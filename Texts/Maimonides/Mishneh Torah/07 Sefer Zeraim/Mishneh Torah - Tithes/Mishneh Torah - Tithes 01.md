@@ -97,7 +97,7 @@ What is implied? A person had 100 *se'ah*. He set aside five *se'ah* as the tith
 [^4]: I.e., unlike *terumah* where these restrictions apply.
 [^5]: Which must be eaten in Jerusalem in a state of ritual purity.
 [^6]: Until *terumat ma'aser* has been separated from it, however, we may not partake of it (Radbaz).
-[^7]: And we fear that she was raped by her captors. With regard to *terumah*, by contrast, once the daughter of a priest engages in forbidden relations, she is forbidden to partake of it (*Hilchot Terumah* 6:7). Our Sages did not decree that a Levite's daughter who engages in forbidden relationships should not be allowed to partake of *terumah*, for it is uncommon for a woman to engage in forbidden relationships ([[Yevamot 91#91a|*Yevamot* 91a]]).
+[^7]: And we fear that she was raped by her captors. With regard to *terumah*, by contrast, once the daughter of a priest engages in forbidden relations, she is forbidden to partake of it (*Hilchot Terumah* 6:7). Our Sages did not decree that a Levite's daughter who engages in forbidden relationships should not be allowed to partake of *terumah*, for it is uncommon for a woman to engage in forbidden relationships (*Yevamot* [[Yevamot 91#91a|91a]]).
 [^8]: If, however, she did not marry, she is not forbidden, even if she was consecrated by another man.
 [^9]: I.e., this is a Rabbinic decree, enacted to maintain the moral level of the Jewish people.
 [^10]: I.e., since the priests and the Levites are allowed to keep the tithes, one might ask: Why is it necessary for them to separate it at the outset? The Rambam answers that the separation is necessary, because until *terumat ma'aser* is separated from the tithes, it is forbidden to partake of them.
@@ -129,7 +129,7 @@ What is implied? A person had 100 *se'ah*. He set aside five *se'ah* as the tith
 [^35]: The Ra'avad differs with the Rambam and maintains that according to Scriptural Law, the only trees from which we are required to separate the tithes are grapes and olives. As explained in the notes to *Hilchot Terumah* 2:1, this is a difference of opinion involving many authorities.
 [^36]: Based on *Hilchot Ma'aser Sheni* 1:3, it appears that here the Rambam is speaking of carobs that grow in Tzalmona or other species that are usually not eaten. The carobs that grow commonly and are eaten by many must be tithes according to Scriptural Law.  
     Those that grow in Tzalmona and the like are also eaten by some people. Hence the Rabbis ordained that they be tithed. Species of produce that are not usually consumed by people are exempt, as stated in the following clause.
-[^37]: When such almonds are small, they are not bitter. Nevertheless, they are still unfit to be eaten because they have not fully matured (see Rashi, [[Chullin 25#25b|*Chullin* 25b]]).
+[^37]: When such almonds are small, they are not bitter. Nevertheless, they are still unfit to be eaten because they have not fully matured (see Rashi, *Chullin* [[Chullin 25#25b|25b]]).
 [^38]: Even though some may partake of them, the majority do not. Indeed, the minority is so insignificant that we do not require a separation of *terumah* even according to Rabbinic Law.
 [^39]: It is produce of the field from which we must tithe (the Jerusalem Talmud, *Orlah* 1:2).
 [^40]: If, however, the fruit is picked one by one, a person is not obligated to tithe it.  

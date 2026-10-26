@@ -104,19 +104,19 @@ When does the above apply? When they are all brought at the same time. When, how
 [^3]: See [[Torah 41 - Pinchas#^29-1|Numbers 29:1-5]].
 [^4]: See Chapter 7, Halachah 1.
 [^5]: I.e., Rosh HaShanah.
-[^6]: [[Zevachim 89#89a|*Zevachim* 89a]] derives this from the fact that [[Torah 41 - Pinchas#^28-23|Numbers 28:23]] refers to the "the morning offering that is the continuous offering." The latter phrase teaches that it is given precedence because it is a continuous offering, brought every day.
+[^6]: *Zevachim* [[Zevachim 89#89a|89a]] derives this from the fact that [[Torah 41 - Pinchas#^28-23|Numbers 28:23]] refers to the "the morning offering that is the continuous offering." The latter phrase teaches that it is given precedence because it is a continuous offering, brought every day.
 [^7]: For example, as stated in Halachah 5, since it brings about atonement, the blood of a sin-offering is considered as on a higher level of holiness than the blood of a burnt-offering. Hence, it is given precedence.
-[^8]: [[Zevachim 90#90b|*Zevachim* 90b]] debates which of the two should be given precedence without resolving the matter. Hence, it is left to an individual's choice (*Kessef Mishneh*).
+[^8]: *Zevachim* [[Zevachim 90#90b|90b]] debates which of the two should be given precedence without resolving the matter. Hence, it is left to an individual's choice (*Kessef Mishneh*).
 [^9]: Lest its blood coagulate before the other animal was offered.
 [^10]: One from a sacrifice offered more frequently and one from a sacrifice offered less frequently or one on a higher level of holiness and one on a lower level.
 [^11]: More precisely, whenever the animal from the more frequent or holier offering was slaughtered before the blood of the other was sprinkled on the altar (see Radbaz).
 [^12]: I.e., this and the following instance exemplify the principle that an offering that is holier than another receives precedence over it.
-[^13]: While a burnt-offering, by contrast, is considered merely as a present to God ([[Zevachim 7#7b|*Zevachim* 7b]]).
+[^13]: While a burnt-offering, by contrast, is considered merely as a present to God (*Zevachim* [[Zevachim 7#7b|7b]]).
 [^14]: And hence is considered as holier.
 [^15]: As mentioned in the notes to the following halachah, this is speaking about a situation where both animals were already slaughtered.
 [^16]: Since each has a positive quality, neither is considered as holier than the other.
 [^17]: In this situation, neither possesses a distinctive positive quality in and of itself. Instead, the blood of the burnt-offering is secondary to its limbs and the fats and organs of the sin-offering are secondary to its blood.
-[^18]: [[Zevachim 89#89b|*Zevachim* 89b]] states that the blood of a guilt-offering is not on the same level of holiness as that of a sin-offering. According to the Rambam's version, there is an unresolved question which is holier, its blood or that of a burnt-offering (Radbaz).
+[^18]: *Zevachim* [[Zevachim 89#89b|89b]] states that the blood of a guilt-offering is not on the same level of holiness as that of a sin-offering. According to the Rambam's version, there is an unresolved question which is holier, its blood or that of a burnt-offering (Radbaz).
 [^19]: Rav Yosef Corcus understands this as referring to the slaughter of the sin-offering. The Radbaz and the *Kessef Mishneh* ask: Since we know that a sin-offering receives precedence, why was it necessary to state previously that the blood of a sin-offering is given precedence? They explain that the previous halachah is speaking about a situation when both animals were already slaughtered and the question is which blood should be given precedence.
 [^20]: See Chapter 10, Halachot 3-4, where these offerings are described.
 [^21]: See *Hilchot Shegagot* 12:1, where these offerings are described.
@@ -152,7 +152,7 @@ When does the above apply? When they are all brought at the same time. When, how
 [^50]: This also applies to animal offerings brought by males (Radbaz).
 [^51]: Brought as a sin-offering, as evident from the concluding clause of the halachah.
 [^52]: I.e., the *sotah* offering, for this is the only individual meal-offering brought from barley. Wheat is a more important grain and hence, its offerings are given precedence.
-[^53]: For each have a positive quality lacking in the other. The free-will offering is brought together with frankincense and oil, but the *sotah* offering comes to clarify whether a transgression was performed ([[Menachot 90#90a|*Menachot* 90a]]).
+[^53]: For each have a positive quality lacking in the other. The free-will offering is brought together with frankincense and oil, but the *sotah* offering comes to clarify whether a transgression was performed (*Menachot* [[Menachot 90#90a|90a]]).
 [^54]: For the meal-offering is called a "sacrifice" and the wine libation is not (Radbaz). Alternatively, a handful of meal is sprinkled on the altar's pyre, while the wine is merely poured down the *shittin*; holes on the base of the altar.
 [^55]: For the wine libations are poured out separately, while oil is always offered with other sacrifices (Radbaz). Alternatively, the majority of the oil is eaten by the priests, while the wine libations are poured on the altar in their entirety.
 [^56]: Because the minimum quantity of oil is larger than the minimum quantity of frankincense (*Or Sameach*).

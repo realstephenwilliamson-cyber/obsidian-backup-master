@@ -546,7 +546,7 @@ maṇdūkānām vagnúr átrā sám
 
 eti.
 
-divyá pah: the rains. enam: collective = the frogs; ep. the sing. mandūū́kah in 4c used collectively. ayan: ipf. of i (p. 130). sarasi: loc. of sarasi according to the primary i dec. (cp. p. 87). A driedup lake is doubtless meant. gávām: 102, 2; p. 458, c. 1. átrā
+divyá pah: the rains. enam: collective = the frogs; ep. the sing. mandū́kah in 4c used collectively. ayan: ipf. of i (p. 130). sarasi: loc. of sarasi according to the primary i dec. (cp. p. 87). A driedup lake is doubtless meant. gávām: 102, 2; p. 458, c. 1. átrā
 
 (metrically lengthened): here as corr. to yád (cp. p. 214).
 
@@ -962,7 +962,7 @@ téna sū́ryam arocayan.
 
 Singing, some thought of a great - chant : by it they caused the sun to shine.
 
-árcantas : singing is characteristic of the Aùgirases ; e. g. i. 62, 2, sā́ma yénā .. árcanta Áùńgiraso ga ávindan the chani by which the AÁùgirases, singing, found the cows; the Maruts are described in x. 78, 5 as viśvárūpā Áńgiraso ná sā́mabhih manifold with chants like the Aùgirases. The Angirases again are those yá pténa sūū́ryam āroh-ayan diví who by their rite caused the sun to mount to heaven (x. 62, 3). Sāyaṇa and some other interpreters think that the Atris are meant. But nothing is ever said of the singing or the chants of the Atris. Again, though in one hymn (v. 40) it is said in the last stanza that the Atris found the sun: yám vái sūryam Svàrbhānus támasā ävidhyad, Átrayas tám ánv avindan the Atris found the sun which Svarbhanu had assailed with darkness (9), this is only a repetition of what is attributed to Atri in the sing.: gūḷhám súryam támasā .. bráhmaṇā avindad Átrih Atri by prayer found the sun hidden by darkness (6)and Átrih súryasya diví cákṣur ädhāt A tris placed the eye of the sun in heaven (8); and in the AV. and the ŠB., it is Atri (not the Atris) who performed a similar act. Thus even this deed is not characteristic of tho Atris (plural), but at most of Atri (singular). The Añgirases must therefore undoubtedly be meant here. éke: the pl. is here used to express an indefinite group beside ékas and dvā́ in the rest of the hymn (cp. 105) manvata: 8. pl. ipf. A. (without augment) of man think arocayan : ipf. cs. of ruc shine.
+árcantas : singing is characteristic of the Aùgirases ; e. g. i. 62, 2, sā́ma yénā .. árcanta Áùńgiraso ga ávindan the chani by which the AÁùgirases, singing, found the cows; the Maruts are described in x. 78, 5 as viśvárūpā Áńgiraso ná sā́mabhih manifold with chants like the Aùgirases. The Angirases again are those yá pténa sū́ryam āroh-ayan diví who by their rite caused the sun to mount to heaven (x. 62, 3). Sāyaṇa and some other interpreters think that the Atris are meant. But nothing is ever said of the singing or the chants of the Atris. Again, though in one hymn (v. 40) it is said in the last stanza that the Atris found the sun: yám vái sūryam Svàrbhānus támasā ävidhyad, Átrayas tám ánv avindan the Atris found the sun which Svarbhanu had assailed with darkness (9), this is only a repetition of what is attributed to Atri in the sing.: gūḷhám súryam támasā .. bráhmaṇā avindad Átrih Atri by prayer found the sun hidden by darkness (6)and Átrih súryasya diví cákṣur ädhāt A tris placed the eye of the sun in heaven (8); and in the AV. and the ŠB., it is Atri (not the Atris) who performed a similar act. Thus even this deed is not characteristic of tho Atris (plural), but at most of Atri (singular). The Añgirases must therefore undoubtedly be meant here. éke: the pl. is here used to express an indefinite group beside ékas and dvā́ in the rest of the hymn (cp. 105) manvata: 8. pl. ipf. A. (without augment) of man think arocayan : ipf. cs. of ruc shine.
 
 SÓMA
 
@@ -1070,7 +1070,7 @@ fag धूर्तिरमृत म्यस्य ॥
 किम्। नूनम्। अस्मान्। छ णवत्। अरा तिः।
 किम् । ऊँ इतिं । धूतिः । अमृत । मत्यैस्य ॥
 
-8 ápāäma sómam ; amṛṛ́tā aąabhūma; We have drunk Soma ; we have áganma jyótir; ávidāäma devā́n. become immortal ; we have gone to kim nūnám asmā́n kppavad á- {he light; we have found the gods.
+8 ápāäma sómam ; amṛ́tā aąabhūma; We have drunk Soma ; we have áganma jyótir; ávidāäma devā́n. become immortal ; we have gone to kim nūnám asmā́n kppavad á- {he light; we have found the gods.
 
 rātih ? What can hostility now do to us, kím u dhūrtír, ampta, márti- and what the malice of mortal man,
 

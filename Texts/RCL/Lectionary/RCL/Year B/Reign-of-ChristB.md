@@ -11,6 +11,7 @@ second_reading: "Revelation 1:4b-8"
 gospel: "John 18:33-37"
 first_reading_complementary: "Daniel 7:9-10, 13-14"
 psalm_complementary: "Psalm 93"
+psalm_bcp_complementary: "Psalm 93"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-29]]"
 cssclasses:

@@ -27,7 +27,7 @@ vyāpāravyāhṛtairjñeyā tānyapi dvividhāni ca || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#^pg138|p. 121]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=138>))
 >
-> (Their inner) fall from a firm maintenance of (their) conviction (āsthābandha) in (this) knowledge, sacred places, and initiation etc., can be known by (their) actions (vyāpāra) and words (vyahrta).’). (with 28.281abc)
+> (Their inner) fall from a firm maintenance of (their) conviction (āsthābandha) in (this) knowledge, sacred places, and initiation etc., can be known by (their) actions (vyāpāra) and words (vyahrta). (with 28.281abc)
 >
 > And those also are of two kinds. (For the spiritually advanced,) those (falls) that would certainly not occur when in good health? (may) arise due to defects (in the balance of the body’s) constitutive elements when sick. (However,) they are just the bare experience (which is a consequence) of that (fall, with no further Karmic consequences). (with 28.281d–282)
 

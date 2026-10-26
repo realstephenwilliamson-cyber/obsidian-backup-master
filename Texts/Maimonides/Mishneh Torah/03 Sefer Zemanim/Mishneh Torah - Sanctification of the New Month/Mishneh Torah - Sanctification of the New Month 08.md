@@ -64,7 +64,7 @@ Whenever Rosh HaShanah is celebrated on the Sabbath or on a Monday, [the months 
 [The following rules apply when] Rosh HaShanah falls on a Thursday. If the year is an ordinary year, it is impossible for its months to be lacking.[^14] If it is a leap year, it is impossible for its months to proceed in order.[^15] ^8-10
 
 [^1]: Chapter 6, Halachah 3.
-[^2]: [[Megillah 5#5a|*Megillah* 5a]].
+[^2]: *Megillah* [[Megillah 5#5a|5a]].
 [^3]: This supports the Rambam's contention that it is the first Adar that is the extra month of the year. (See the notes on Chapter 4, Halachah 1.)
 [^4]: For all the months of the year from Marcheshvan onward proceed in sequence, one full and one lacking.
 [^5]: The Rambam gives examples in Halachah 9 to illustrate this situation and those that follow. When there are two days between the days on which Rosh HaShanah is celebrated in successive years, the year is 50 weeks and three days - i.e., 353 days - long.

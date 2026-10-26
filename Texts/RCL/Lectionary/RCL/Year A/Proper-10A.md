@@ -11,6 +11,7 @@ second_reading: "Romans 8:1-11"
 gospel: "Matthew 13:1-9, 18-23"
 first_reading_complementary: "Isaiah 55:10-13"
 psalm_complementary: "Psalm 65:(1-8), 9-13"
+psalm_bcp_complementary: "Psalm 65:(1-8), 9-14"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-10]]"
 cssclasses:

@@ -20,17 +20,13 @@ nyasa: "blood (*rakta*)"
 ## Front
 
 - **Glyph:** र
-- **Variation:** —
 - **Example:** रवि
-- **Alpha (as printed on the front):** ८६ (the back prints 83)
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** [ As in ‘ab<u>r</u>a cadabra’ ]
-- **Class (as printed):** 3 (cerebral) · soft · semivowel derived from ṛ + a. · Has abbreviated form in a compound consonant
-- **Grid:** two rows, य र ल व and श ष स ह; in bold: र
-- **Example:** ravi (sun)
+> [!note]- Back
+> - **Pronunciation:** [ As in ‘ab<u>r</u>a cadabra’ ]
+> - **Class:** cerebral · soft · semivowel derived from ṛ + a. · Has abbreviated form in a compound consonant
+> - य <u>र</u> ल व / श ष स ह
+> - **Example:** ravi (sun)
 
 ## Register
 

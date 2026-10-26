@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 ## List of Illustrations
 
-Frontispiece: 'Whose is this image and superscription? And they said unto him, Caesar's' (Mark xii. 16). *Plates* I-XII *are between pages* 144 and 145. 
+Frontispiece: 'Whose is this image and superscription? And they said unto him, Caesar's' ([[Mark 12#^12-16|Mark xii. 16]]). *Plates* I-XII *are between pages* 144 and 145. 
 
 I Roman coins offensive to Jewish religious scruples. 11 Inscription of Pontius Pilate, Praefectus of Judaea. Ill Coins of the Revolt (A.D. 66-70). 
 

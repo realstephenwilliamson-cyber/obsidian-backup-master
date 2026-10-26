@@ -24,7 +24,7 @@ converted: 2026-10-07
 
 The Maccabæan spirit of the Jews never burned more furiously than after the destruction of Jerusalem, and while it was kindling the conflagration that broke out under Barchochebas, and blazed so terribly in the insurrection against Hadrian.<sup>1442</sup> It is not credible that the Jewish Christians at Alexandria and elsewhere were able to emancipate themselves from their national spirit; and accordingly the old Judaizing, which St. Paul had anathematized and confuted, would assert itself again. If such was the occasion of this Epistle, as I venture to suppose, a higher character must be ascribed to it than could otherwise be claimed. This accounts, also, for the degree of favour with which it was accepted by the primitive faithful.
 
-It is interesting as a specimen of their conflicts with a persistent Judaism which St. Paul had defeated and anathematized, but which was ever cropping out among believers originally of the Hebrews.<sup>1443</sup> Their own habits of allegorizing, and their Oriental tastes, must be borne in mind, if we are readily disgusted with our author’s fancies and refinements. St. Paul himself pays a practical tribute to their modes of thought, in his Epistle to the Galatians iv. 24. This is the *ad hominem* form of rhetoric, familiar to all speakers, which laid even the apostle open to the slander of enemies (2
+It is interesting as a specimen of their conflicts with a persistent Judaism which St. Paul had defeated and anathematized, but which was ever cropping out among believers originally of the Hebrews.<sup>1443</sup> Their own habits of allegorizing, and their Oriental tastes, must be borne in mind, if we are readily disgusted with our author’s fancies and refinements. St. Paul himself pays a practical tribute to their modes of thought, in his Epistle to the [[Galatians 04#^4-24|Galatians iv. 24]]. This is the *ad hominem* form of rhetoric, familiar to all speakers, which laid even the apostle open to the slander of enemies (2
 
 Discourse (p. 148) to his *Genuine Epistles of the Apostolical Fathers*. Philadelphia, 1846.
 
@@ -58,7 +58,7 @@ Cor. xii. 16),—that he was “crafty,” and caught men with guile. It is inte
 
 It is to be observed that this writer sometimes speaks as a Gentile, a fact which some have found 134
 
-it difficult to account for, on the supposition that he was a Hebrew, if not a Levite as well. But so, also, St. Paul sometimes speaks as a Roman, and sometimes as a Jew; and, owing to the mixed character of the early Church, he writes to the Romans iv. 1 as if they were all Israelites, and again to the same Church (Rom. xi. 13) as if they were all Gentiles. So this writer sometimes identifies himself with Jewish thought as a son of Abraham, and again speaks from the Christian position as if he were a Gentile, thus identifying himself with the catholicity of the Church.
+it difficult to account for, on the supposition that he was a Hebrew, if not a Levite as well. But so, also, St. Paul sometimes speaks as a Roman, and sometimes as a Jew; and, owing to the mixed character of the early Church, he writes to the [[Romans 04#^4-1|Romans iv. 1]] as if they were all Israelites, and again to the same Church ([[Romans 11#^11-13|Rom. xi. 13]]) as if they were all Gentiles. So this writer sometimes identifies himself with Jewish thought as a son of Abraham, and again speaks from the Christian position as if he were a Gentile, thus identifying himself with the catholicity of the Church.
 
 But the subject thus opened is vast; and “the Epistle of Barnabas,” so called, still awaits a critical editor, who at the same time shall be a competent expositor. Nobody can answer these requisitions, who is unable, for this purpose, to be a Christian of the days of Trajan.
 
@@ -94,7 +94,7 @@ Seeing that the divine fruits<sup>1446</sup> of righteousness abound among you, 
 
 Literally, “the judgments of God being great and rich towards you;” but, as Hefele remarks, δικαίωμα seems here to have 1446
 
-the meaning of *righteousness*, as in Rom. v. 18.
+the meaning of *righteousness*, as in [[Romans 05#^5-18|Rom. v. 18]].
 
 This appears to be the meaning of the Greek, and is confirmed by the ancient Latin version. Hilgenfeld, however, following 1447
 
@@ -248,7 +248,7 @@ world without respect of persons. Each will receive as he has done: if he is rig
 
 For to this end the Lord endured to deliver up His flesh to corruption, that we might be sanctified through the remission of sins, which is effected by His blood of sprinkling. For it is written concerning Him, partly with reference to Israel, and partly to us; and \[the Scripture\] saith thus: “He was wounded for our transgressions, and bruised for our iniquities: with His stripes we are healed. He was brought as a sheep to the slaughter, and as a lamb which is dumb before its shearer.”<sup>1481</sup> Therefore we ought to be deeply grateful to the Lord, because He has both made known to us things that are past, and hath given us wisdom concerning things present, and hath not left us without understanding in regard to things which are to come. Now, the Scripture saith, “Not unjustly are nets spread out for birds.”<sup>1482</sup> This means that the man perishes justly, who, having a knowledge of the way of righteousness, rushes off into the way of darkness. And further, my brethren: if the Lord endured to suffer for our soul, He being Lord of all the world, to whom God said at the foundation of the world, “Let us make man after our image, and after our likeness,”<sup>1483</sup> understand how it was that He endured to suffer at the hand of men. The prophets, having obtained grace from Him, prophesied concerning Him. And He (since it behoved Him to appear in flesh), that He might abolish death, and reveal the resurrection from the dead, endured \[what and as He did\], in order that He might fulfil the promise made unto the fathers, and by preparing a new people for Himself, might show, while He dwelt on earth, that He, when He has raised mankind, will also judge them. Moreover, teaching Israel, and doing so great miracles and signs, He preached \[the truth\] to him, and greatly loved him. But when He chose His own apostles who were to preach His Gospel, \[He did so from among those\] who were sinners above all sin, that He might show He came “not to call
 
-An exact quotation from Matt. xx. 16or Matt. xxii. 14. It is worthy of notice that this is the first example in the writings 1480
+An exact quotation from Matt. xx. 16or [[Matthew 22#^22-14|Matt. xxii. 14]]. It is worthy of notice that this is the first example in the writings 1480
 
 of the Fathers of a citation from any book of the New Testament, preceded by the authoritative formula, “it is written.”
 
@@ -270,7 +270,7 @@ purpose, then, He endured. For God saith, “The stroke of his flesh is from the
 
 When, therefore, He has fulfilled the commandment, what saith He? “Who is he that will contend with Me? let him oppose Me: or who is he that will enter into judgment with Me? let him draw near to the servant of the Lord.”<sup>1493</sup> “Woe unto you, for ye shall all wax old, like a garment, and the moth shall eat you up.”<sup>1494</sup> And again the prophet says, “Since<sup>1495</sup> as a mighty stone He is laid for crushing, behold I cast down for the foundations of Zion a stone, precious, elect, a corner-stone, honourable.” Next, what says He? “And he who shall trust<sup>1496</sup> in it shall live for ever.” Is our hope, then, upon a stone? Far from it. But \[the language is used\] inasmuch as He laid his flesh \[as a
 
-Matt. ix. 13; Mark ii. 17; Luke v. 32.
+[[Matthew 09#^9-13|Matt. ix. 13]]; [[Mark 02#^2-17|Mark ii. 17]]; [[Luke 05#^5-32|Luke v. 32]].
 
 1484
 
@@ -336,7 +336,7 @@ Ps. cxviii. 24.
 
 1499
 
-Comp. 1 Cor. iv. 13. The meaning is, “My love to you is so great, that I am ready to be or to do all things for you.” 1500
+Comp. [[1 Corinthians 04#^4-13|1 Cor. iv. 13]]. The meaning is, “My love to you is so great, that I am ready to be or to do all things for you.” 1500
 
 Ps. xxii. 17, Ps. cxviii. 12.
 
@@ -398,7 +398,7 @@ Cod. Sin. has “I make.”
 
 1514
 
-Not in Scripture, but comp. Matt. xx. 16, and 2 Cor. v. 17.
+Not in Scripture, but comp. [[Matthew 20#^20-16|Matt. xx. 16]], and [[2 Corinthians 05#^5-17|2 Cor. v. 17]].
 
 1515
 
@@ -410,11 +410,11 @@ Ezek. xi. 19, Ezek. xxxvi. 26.
 
 1517
 
-Cod. Sin. inserts “Himself;” comp. John i. 14.
+Cod. Sin. inserts “Himself;” comp. [[John 01#^1-14|John i. 14]].
 
 1518
 
-Comp. Eph. ii. 21.
+Comp. [[Ephesians 02#^2-21|Eph. ii. 21]].
 
 1519
 
@@ -430,7 +430,7 @@ Cod. Sin. omits “in the midst.”
 
 1522
 
-Ps. xxii. 23; Heb. ii. 12.
+Ps. xxii. 23; [[Hebrews 02#^2-12|Heb. ii. 12]].
 
 1523
 
@@ -512,7 +512,7 @@ Cod. Sin. reads, “for as he who … so, says he,” etc.
 
 1539
 
-Comp. Acts xiv. 22.
+Comp. [[Acts 14#^14-22|Acts xiv. 22]].
 
 1540
 
@@ -802,7 +802,7 @@ In like manner He points to the cross of Christ in another prophet, who saith,<s
 
 of the serpent, \[the Lord\] brought it to pass that every \[kind of\] serpents bit them, and they died,<sup>1615</sup> that He might convince them, that on account of their transgression they were given over to the straits of death. Moreover Moses, when he commanded, “Ye shall not have any graven or molten \[image\] for your God,”<sup>1616</sup> did so that he might reveal a type of Jesus. Moses then makes a brazen serpent, and places it upon a beam,<sup>1617</sup> and by proclamation assembles the people. When, therefore, they were come together, they besought Moses that he would offer sacrifice<sup>1618</sup> in their behalf, and pray for their recovery. And Moses spake unto them, saying, “When any one of you is bitten, let him come to the serpent placed on the pole; and let him hope and believe, that even though dead, it is able to give him life, and immediately he shall be restored.”<sup>1619</sup> And they did so. Thou hast in this also \[an indication of\] the glory of Jesus; for in Him and to Him are all things.<sup>1620</sup> What, again, says Moses to Jesus (Joshua) the son of Nave, when he gave him<sup>1621</sup> this name, as being a prophet, with this view only, that all the people might hear that the Father would reveal all things concerning His Son Jesus to the son<sup>1622</sup> of Nave? This name then being given him when he sent him to spy out the land, he said, “Take a book into thy hands, and write what the Lord declares, that the Son of God will in the last days cut off from the roots all the house of Amalek.”<sup>1623</sup> Behold again: Jesus who was manifested, both by type and in the flesh,<sup>1624</sup> is not the Son of man, but the Son of God. Since, therefore, they were to say that Christ was the son<sup>1625</sup> of David, fearing and understanding the error of the wicked, he saith, “The Lord said unto my Lord, Sit at My right hand, until I make Thine enemies Thy footstool.”<sup>1626</sup> And again, thus saith Isaiah, “The Lord said to Christ,<sup>1627</sup> my Lord, whose right hand I have holden,<sup>1628</sup> that the nations should yield obedience before Him; and I will break in pieces the strength of kings.”<sup>1629</sup> Behold how David calleth Him Lord and the Son of God.
 
-Comp. Num. xxi. 6–9; John iii. 14–18.
+Comp. Num. xxi. 6–9; [[John 03#^3-14|John iii. 14–18]].
 
 1615
 
@@ -820,7 +820,7 @@ Num. xxi. 9.
 
 1619
 
-Comp. Col. i. 16.
+Comp. [[Colossians 01#^1-16|Col. i. 16]].
 
 1620
 
@@ -836,7 +836,7 @@ Ex. xvii. 14.
 
 1623
 
-Comp. 1 Tim. iii. 16.
+Comp. [[1 Timothy 03#^3-16|1 Tim. iii. 16]].
 
 1624
 
@@ -844,7 +844,7 @@ That is, merely human: a reference is supposed to the Ebionites.
 
 1625
 
-Ps. cx. 1; Matt. xxii. 43–45.
+Ps. cx. 1; [[Matthew 22#^22-43|Matt. xxii. 43–45]].
 
 1626
 
@@ -862,7 +862,7 @@ Cod. Sin. has, “he has taken hold.”
 
 But let us see if this people<sup>1630</sup> is the heir, or the former, and if the covenant belongs to us or to them. Hear ye now what the Scripture saith concerning the people. Isaac prayed for Rebecca his wife, because she was barren; and she conceived.<sup>1631</sup> Furthermore also, Rebecca went forth to inquire of the Lord; and the Lord said to her, “Two nations are in thy womb, and two peoples in thy belly; and the one people shall surpass the other, and the elder shall serve the younger.”<sup>1632</sup> You ought to understand who was Isaac, who Rebecca, and concerning what persons He declared that this people should be greater than that. And in another prophecy Jacob speaks more clearly to his son Joseph, saying, “Behold, the Lord hath not deprived me of thy presence; bring thy sons to me, that I may bless them.”<sup>1633</sup> And he brought Manasseh and Ephraim, desiring that Manasseh<sup>1634</sup> should be blessed, because he was the elder. With this view Joseph led him to the right hand of his father Jacob. But Jacob saw in spirit the type of the people to arise afterwards. And what says \[the Scripture\]? And Jacob changed the direction of his hands, and laid his right hand upon the head of Ephraim, the second and younger, and blessed him. And Joseph said to Jacob, “Transfer thy right hand to the head of Manasseh,<sup>1635</sup> for he is my first-born son.”<sup>1636</sup> And Jacob said, “I know it, my son, I know it; but the elder shall serve the younger: yet he also shall be blessed.”<sup>1637</sup> Ye see on whom he laid<sup>1638</sup> \[his hands\], that this people should be first, and heir of the covenant. If then, still further, the same thing was intimated through Abraham, we reach the perfection of our knowledge. What, then, says He to Abraham? “Because thou hast believed,<sup>1639</sup> it is imputed to thee for righteousness: behold, I have made thee the father of those nations who believe in the Lord while in \[a state of\] uncircumcision.”<sup>1640</sup>
 
-146 That is, “Christians.” 1630 Gen. xxv. 21. 1631 Gen. xxv. 23. 1632 Gen. xlviii. 11, 9. 1633 Cod. Sin. reads each time “Ephraim,” by a manifest mistake, instead of Manasseh. 1634 Cod. Sin. reads each time “Ephraim,” by a manifest mistake, instead of Manasseh. 1635 Gen. xlviii. 18. 1636 Gen. xlviii. 19. 1637 Or, “of whom he willed.” 1638 Cod. Sin. has, “when alone believing,” and is followed by Hilgenfeld to this effect: “What, then, says He to Abraham, 1639 when, alone believing, he was placed in righteousness? Behold,” etc. Gen. xv. 6, Gen. xvii. 5; comp. Rom. iv. 3.
+146 That is, “Christians.” 1630 Gen. xxv. 21. 1631 Gen. xxv. 23. 1632 Gen. xlviii. 11, 9. 1633 Cod. Sin. reads each time “Ephraim,” by a manifest mistake, instead of Manasseh. 1634 Cod. Sin. reads each time “Ephraim,” by a manifest mistake, instead of Manasseh. 1635 Gen. xlviii. 18. 1636 Gen. xlviii. 19. 1637 Or, “of whom he willed.” 1638 Cod. Sin. has, “when alone believing,” and is followed by Hilgenfeld to this effect: “What, then, says He to Abraham, 1639 when, alone believing, he was placed in righteousness? Behold,” etc. Gen. xv. 6, Gen. xvii. 5; comp. [[Romans 04#^4-3|Rom. iv. 3]].
 
 *[p. 229]* ^pg269
 
@@ -890,7 +890,7 @@ Cod. Sin. reads, “for themselves.”
 
 1645
 
-Comp. Heb. iii. 5.
+Comp. [[Hebrews 03#^3-5|Heb. iii. 5]].
 
 1646
 
@@ -920,7 +920,7 @@ redeemeth thee.”<sup>1652</sup> And again, the prophet saith, “The Spirit of
 
 Further,<sup>1654</sup> also, it is written concerning the Sabbath in the Decalogue which \[the Lord\] spoke, face to face, to Moses on Mount Sinai, “And sanctify ye the Sabbath of the Lord with clean hands and a pure heart.”<sup>1655</sup> And He says in another place, “If my sons keep the Sabbath, then will I cause my mercy to rest upon them.”<sup>1656</sup> The Sabbath is mentioned at the beginning of the creation \[thus\]: “And God made in six days the works of His hands, and made an end on the seventh day, and rested on it, and sanctified it.”<sup>1657</sup> Attend, my children, to the meaning of this expression, “He finished in six days.” This implieth that the Lord will finish all things in six thousand years, for a day is<sup>1658</sup> with Him a thousand years. And He Himself testifieth,<sup>1659</sup> saying, “Behold, to-day<sup>1660</sup> will be as a thousand years.”<sup>1661</sup> Therefore, my children, in six days, that is, in six thousand years, all things will be finished. “And He rested on the seventh day.” This meaneth: when His Son, coming \[again\], shall destroy the time of the wicked man,<sup>1662</sup> and judge the ungodly, and change the-sun, and the moon,<sup>1663</sup> and the stars, then shall He truly rest on the seventh day. Moreover, He says, “Thou shalt sanctify it with pure hands and a pure heart.” If, therefore, any one can now sanctify the day which
 
-147 Isa. xlix. 6. The text of Cod. Sin., and of the other mss., is here in great confusion: we have followed that given by Hefele. 1652 Isa. lxi. 1, 2. 1653 Cod. Sin. reads “because,” but this is corrected to “moreover.” 1654 Ex. xx. 8; Deut. v. 12. 1655 Jer. xvii. 24, 25. 1656 Gen. ii. 2. The Hebrew text is here followed, the Septuagint reading “sixth” instead of “seventh.” 1657 Cod. Sin. reads “signifies.” 1658 Cod. Sin. adds, “to me.” 1659 Cod. Sin. reads, “The day of the Lord shall be as a thousand years.” 1660 Ps. xc. 4; 2 Pet. iii. 8. 1661 Cod. Sin. seems properly to omit “of the wicked man.” 1662 Cod. Sin. places *stars* before *moon*.
+147 Isa. xlix. 6. The text of Cod. Sin., and of the other mss., is here in great confusion: we have followed that given by Hefele. 1652 Isa. lxi. 1, 2. 1653 Cod. Sin. reads “because,” but this is corrected to “moreover.” 1654 Ex. xx. 8; Deut. v. 12. 1655 Jer. xvii. 24, 25. 1656 Gen. ii. 2. The Hebrew text is here followed, the Septuagint reading “sixth” instead of “seventh.” 1657 Cod. Sin. reads “signifies.” 1658 Cod. Sin. adds, “to me.” 1659 Cod. Sin. reads, “The day of the Lord shall be as a thousand years.” 1660 Ps. xc. 4; [[2 Peter 03#^3-8|2 Pet. iii. 8]]. 1661 Cod. Sin. seems properly to omit “of the wicked man.” 1662 Cod. Sin. places *stars* before *moon*.
 
 *[p. 231]* ^pg271
 
@@ -1030,7 +1030,7 @@ Cod. Sin., “about things present or future.” Hilgenfeld’s text of this pas
 
 according to my desire, I have omitted none of the things that pertain to salvation. For if I should write to you about things present or future,” etc. Hefele gives the text as above, and understands the meaning to be, “points bearing on the *present* argument.”
 
-Comp. 2 Cor. xii. 7.
+Comp. [[2 Corinthians 12#^12-7|2 Cor. xii. 7]].
 
 1685
 
@@ -1060,7 +1060,7 @@ Isa. lxvi. 2. All the preceding clauses are given in Cod. Sin. in distinct lines
 
 shalt not be mindful of evil against thy brother. Thou shalt not be of doubtful mind<sup>1692</sup> as to whether a thing shall be or not. Thou shalt not take the name<sup>1693</sup> of the Lord in vain. Thou shalt love thy neighbour more than thine own soul.<sup>1694</sup> Thou shalt not slay the child by procuring abortion; nor, again, shalt thou destroy it after it is born. Thou shalt not withdraw thy hand from thy son, or from thy daughter, but from their infancy thou shalt teach them the fear of the Lord.<sup>1695</sup> Thou shalt not covet what is thy neighbour’s, nor shalt thou be avaricious. Thou shalt not be joined in soul with the haughty, but thou shalt be reckoned with the righteous and lowly. Receive thou as good things the trials<sup>1696</sup> which come upon thee.<sup>1697</sup> Thou shalt not be of double mind or of double tongue,<sup>1698</sup> for a double tongue is a snare of death. Thou shalt be subject<sup>1699</sup> to the Lord, and to \[other\] masters as the image of God, with modesty and fear. Thou shalt not issue orders with bitterness to thy maidservant or thy man-servant, who trust in the same \[God<sup>1700</sup>\], lest thou shouldst not<sup>1701</sup> reverence that God who is above both; for He came to call men not according to their outward appearance,<sup>1702</sup> but according as the Spirit had prepared them.<sup>1703</sup> Thou shalt communicate in all things with thy neighbour; thou shalt not call<sup>1704</sup> things thine own; for if ye are partakers in common of things which are incorruptible,<sup>1705</sup> how much more \[should you be\] of those things which are corruptible!<sup>1706</sup> Thou shalt not be hasty with thy tongue, for the mouth is a snare of death. As far as possible, thou shalt be pure in thy soul. Do not be ready to stretch forth thy hands to take, whilst thou contractest them to give. Thou shalt love, as the apple of thine eye, every one that speaketh to thee the word of the Lord. Thou shalt remember the day of judgment, night and day. Thou shalt seek out every day the faces of the saints,<sup>1707</sup> either by word examining them, and going to exhort them, and meditating
 
-Comp. Jas. i. 8.
+Comp. [[James 01#^1-8|Jas. i. 8]].
 
 1692
 
@@ -1098,11 +1098,11 @@ Cod. Sin. has, “they should not.”
 
 1701
 
-Comp. Eph. vi. 9.
+Comp. [[Ephesians 06#^6-9|Eph. vi. 9]].
 
 1702
 
-Comp. Rom. viii. 29, 30.
+Comp. [[Romans 08#^8-29|Rom. viii. 29]], [[Romans 08#^8-30|30]].
 
 1703
 
@@ -1132,7 +1132,7 @@ The text is here confused in all the editions; we have followed that of Dressel.
 
 reads, “Thou shalt seek out every day the faces of the saints, either labouring by word and going to exhort them, and meditating to save a soul by the word, or by thy hands thou shalt labour for the redemption of thy sins”—almost identical with that given above.
 
-Cod. Sin. omits this quotation from Matt. v. 42 or Luke vi. 30, but it is added by a corrector.
+Cod. Sin. omits this quotation from [[Matthew 05#^5-42|Matt. v. 42]] or [[Luke 06#^6-30|Luke vi. 30]], but it is added by a corrector.
 
 1709
 

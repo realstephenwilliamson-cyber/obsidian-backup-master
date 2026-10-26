@@ -42,16 +42,16 @@ Thus is the entire Torah eternal in general and in detail. Even the individual l
 
 [^1]: [[Torah 25 - Tzav#^7-18|Leviticus 7:18]].
 [^2]: See, Addendum, Glossary to *Likkutei Amarim*, Part I, *Kelipot*.
-[^3]: [[Torah 33 - Bechukotai#^27-32|Leviticus 27:32]]; [[Bekhorot 59#59a|*Bechorot* 59a]].
+[^3]: [[Torah 33 - Bechukotai#^27-32|Leviticus 27:32]]; *Bechorot* [[Bekhorot 59#59a|59a]].
 [^4]: Note 2; *Iggeret Hateshuvah*, ch. 6, note 3.
 [^5]: “To separate,” a demarcation between the sacred and the profane.
 [^6]: “…was revealed to Moses on Sinai.” Jerusalem Talmud, *Peah* 2:4.
-[^7]: See [[Bava Batra 23#23a|*Bava Batra* 23a]].
+[^7]: See *Bava Batra* [[Bava Batra 23#23a|23a]].
 [^8]: 70a.
 [^9]: See Essay 6, note 10.
 [^10]: “Father” is *chochmah*, wisdom. “Daughter” is *malchut* of *Atzilut*.
 [^11]: The *kelipot*.
-[^12]: [[Nedarim 81#81a|*Nedarim* 81a]]. This was in answer to the prophet’s query ([[Jeremiah 09#^9-11|Jeremiah 9:11]]), “Why was the land destroyed?” The meaning here is that the people of those times failed to elicit the Light of the *En Sof* into their Torah study (the Hebrew word ברך, meaning “bless,” also signifies “draw down” (see Mishnah, *Kilayim* 7:1)). Evil cannot be separated from good by the Torah on its own; the Torah must be studied in the proper manner.
+[^12]: *Nedarim* [[Nedarim 81#81a|81a]]. This was in answer to the prophet’s query ([[Jeremiah 09#^9-11|Jeremiah 9:11]]), “Why was the land destroyed?” The meaning here is that the people of those times failed to elicit the Light of the *En Sof* into their Torah study (the Hebrew word ברך, meaning “bless,” also signifies “draw down” (see Mishnah, *Kilayim* 7:1)). Evil cannot be separated from good by the Torah on its own; the Torah must be studied in the proper manner.
 [^13]: See *Iggeret Hakodesh*, Epistle 21, quoting *Zohar*; *Sefer Hamaamarim 5708*, p. 206, note 11.
 [^14]: See Essay 1.
 [^15]: See Essay 3, note 8.

@@ -102,8 +102,8 @@ After these words and this truth,[^120] the above passage from the *Raaya Mehemn
 [^8]: [[Zechariah 13#^13-2|Zechariah 13:2]].
 [^9]: Will they be sustained.
 [^10]: See *Zohar* [[Zohar 3.029a|III: 29a]]-b.
-[^11]: Cf. [[Avodah Zarah 3#3a|*Avodah Zarah* 3a]].—(Weekday; lit., a day of the profane, as opposed to holy.)
-[^12]: See [[Berakhot 34#34b|*Berachot* 34b]].—Thus merely a physical, and not a spiritual, redemption.
+[^11]: Cf. *Avodah Zarah* [[Avodah Zarah 3#3a|3a]].—(Weekday; lit., a day of the profane, as opposed to holy.)
+[^12]: See *Berachot* [[Berakhot 34#34b|34b]].—Thus merely a physical, and not a spiritual, redemption.
 [^13]: On this quotation from the *Zohar*, and on the subject-matter which follows, see at length: R. Moses Cordovero, *Or Ne’erav*, esp. pts. 4 and 5; R. Chaim Vital’s Introduction to *Shaar Hahakdamot* (published in all recent editions as Introduction to *Etz Chaim*, and reproduced in *Kuntres Etz HaChaim*, by R. Shalom Dov Ber of Lubavitch (N.Y. 1956), p. 61 ff.); R. Dov Ber of Lubavitch’s Introduction to *Biurei Hazohar*; *Kuntres Etz HaChaim*, op. cit. above, ch. 13 ff. (pp. 41 ff.), and R. Shalom Dov Ber encyclical, ibid. (pp. 82 ff.). See also *Likkutei Torah*, *Vayikra* 3d ff.
 [^14]: Lit.: those lacking knowledge.
 [^15]: Proscription and permission.
@@ -112,14 +112,14 @@ After these words and this truth,[^120] the above passage from the *Raaya Mehemn
 [^18]: The *Zohar*.
 [^19]: I.e., not only the *Zohar*, but etc.
 [^20]: Par. [[Micah 6#^6-8|Micah 6:8]].
-[^21]: [[Chagigah 11#11b|*Chagigah* 11b]] and 13a. [[Pesachim 119#119a|*Pesachim* 119a]]; cf. [[Kiddushin 71#71a|*Kiddushin* 71a]].
+[^21]: *Chagigah* [[Chagigah 11#11b|11b]] and 13a. *Pesachim* [[Pesachim 119#119a|119a]]; cf. *Kiddushin* [[Kiddushin 71#71a|71a]].
 [^22]: See above, Epistle 5, note 103.
 [^23]: See Introduction to *Etz Chaim* (cit. above, note 13); *Shaar Hagilgulim*, end of *hakd*. 16; see also ibid., *hakd*. 17; Intro. to *Shaar Hamitzvot*; Arizal, *Shulchan Aruch*, s.v. *Keriah Bechochmat Hakabbalah*, par. 3; *Hilchot Talmud Torah* (of the author) 1:4 and 2:10.
 [^24]: *Zohar* [[Zohar 9.03 - Parashat Shelah Lekha#^z3-159a|III:159a]]. See also ibid., [[Zohar 5.05 - Parashat Terumah#^z2-149a|II:149a]], and [[Zohar 7.08 - Parashat Aharei Mot#^z3-79a|III:79a]]; *Tikkunei Zohar*, Introduction 1a.
-[^25]: [[Shabbat 11#11a|*Shabbat* 11a]]. Cf. *Nitzutzei Orot* (by R. Chaim David Azulai) on *Zohar* [[Zohar 6.04 - Parashat Ki Tissa#^z2-188a|II:188a]] and *Hilchot Talmud Torah* 4:5.
+[^25]: *Shabbat* [[Shabbat 11#11a|11a]]. Cf. *Nitzutzei Orot* (by R. Chaim David Azulai) on *Zohar* [[Zohar 6.04 - Parashat Ki Tissa#^z2-188a|II:188a]] and *Hilchot Talmud Torah* 4:5.
 [^26]: Cf. *Zohar* III:238b.
-[^27]: The fourth of the six orders of the Mishnah, dealing with torts.—[[Berakhot 20#20a|*Berachot* 20a]].
-[^28]: [[Rosh Hashanah 35#35a|*Rosh Hashanah* 35a]].
+[^27]: The fourth of the six orders of the Mishnah, dealing with torts.—*Berachot* [[Berakhot 20#20a|20a]].
+[^28]: *Rosh Hashanah* [[Rosh Hashanah 35#35a|35a]].
 [^29]: End of sect. 2; also ibid., *Shabbat* 1:2.
 [^30]: See H. V., ad loc.
 [^31]: Brackets appear in the text.
@@ -130,23 +130,23 @@ After these words and this truth,[^120] the above passage from the *Raaya Mehemn
 [^36]: *Shaar Hamitzvot*, *Va’etchanan* sect. 1.
 [^37]: See *Zohar* [[Zohar 1.027b|I:27b]]-28a; [[Zohar 3.029b|III:29b]]; *Tikkunei Zohar*, Introduction 14a-b. See Intro. to *Etz Chaim*.
 [^38]: See above, note 7. See also *Tikkunei Zohar*, Additions 9 (147a); ibid., 10 (147b), *et passim*, and cf. *Zohar* [[Zohar 7.04 - Parashat Tsav#^z3-27b|III:27b]] (*Raaya Mehemna*).
-[^39]: [[Shabbat 33#33b|*Shabbat* 33b]].
+[^39]: *Shabbat* [[Shabbat 33#33b|33b]].
 [^40]: Brackets appear in the text.
-[^41]: See [[Chagigah 14#14a|*Chagigah* 14a]]; cf. *Teshuvot Hageonim*—*Shaarei Teshuvah*, sect. 20 and 187; *Machzor Vitry*, ed. Hurwitz, vol. 2, p. 484; *Yalkut Reuveni*, *Berachah* (s.v. *Mimot Moshe*).
+[^41]: See *Chagigah* [[Chagigah 14#14a|14a]]; cf. *Teshuvot Hageonim*—*Shaarei Teshuvah*, sect. 20 and 187; *Machzor Vitry*, ed. Hurwitz, vol. 2, p. 484; *Yalkut Reuveni*, *Berachah* (s.v. *Mimot Moshe*).
 [^42]: R. Judah the Prince, editor of the Mishnah.
-[^43]: [[Berakhot 8#8a|*Berachot* 8a]].
+[^43]: *Berachot* [[Berakhot 8#8a|8a]].
 [^44]: Pressing, i.e., making the cut by pressing upon the knife.
 [^45]: Passing, i.e., passing the knife under cover by making the incision from behind the pipes outwardly, rather than in the reverse manner.
 [^46]: Pausing, i.e., pausing or interrupting the act of slaughter.
-[^47]: These are three of the five procedural invalidations of *Shechitah* against which the slaughterer must guard (the other two being *hagramah*, cutting in a slanting direction, and *ikkur*—the severing of the pipes by a tearing action); [[Chullin 9#9a|*Chullin* 9a]] and 27a.
-[^48]: Which also renders the slaughtering unfit ([[Chullin 17#17b|*Chullin* 17b]]; etc).
+[^47]: These are three of the five procedural invalidations of *Shechitah* against which the slaughterer must guard (the other two being *hagramah*, cutting in a slanting direction, and *ikkur*—the severing of the pipes by a tearing action); *Chullin* [[Chullin 9#9a|9a]] and 27a.
+[^48]: Which also renders the slaughtering unfit (*Chullin* [[Chullin 17#17b|17b]]; etc).
 [^49]: [[Isaiah 65#^65-20|Isaiah 65:20]].
 [^50]: [[Jeremiah 31#^31-7|Jeremiah 31:7]]. I.e., both of these will be restored to the Holy Land at the redemption.
-[^51]: Cf. [[Shabbat 30#30b|*Shabbat* 30b]]. (See *Likkutei Sichot*, vol. 12, pg. 178).
+[^51]: Cf. *Shabbat* [[Shabbat 30#30b|30b]]. (See *Likkutei Sichot*, vol. 12, pg. 178).
 [^52]: The reverse of the proposition that the laws will no longer be relevant.
-[^53]: [[Sanhedrin 51#51b|*Sanhedrin* 51b]].
+[^53]: *Sanhedrin* [[Sanhedrin 51#51b|51b]].
 [^54]: See *Eduyot* 8:7 and commentaries, ad loc.
-[^55]: [[Menachot 45#45a|*Menachot* 45a]].
+[^55]: *Menachot* [[Menachot 45#45a|45a]].
 [^56]: Emended according to *Kitzurim V’Hearot*, p. 40, and L. H.
 [^57]: The pairs of the leading scholars (set *Avot*, ch. 1).
 [^58]: The potential *kelipah*.
@@ -157,9 +157,9 @@ After these words and this truth,[^120] the above passage from the *Raaya Mehemn
 [^63]: See *Likkutei Amarim*, Part I, chs. 7 and 8; above, Epistle 25, note 39.
 [^64]: *Etz Chaim* 50:6; ibid., 40:8 (*et passim*); the Lurianic works dealing with devotions (*Shaar Hakavanot*; *Pri Etz Chaim*; etc.), s.v. the Eve of Shabbat; cf. *Pardes Rimonim* 16:4, 5. See also *Iggeret Hateshuvah*, end of ch. 10.
 [^65]: *Shulchan Aruch*, *Orach Chaim* 250:2; ed. of the author 242:12.
-[^66]: When consuming much meat and wine during the week (for no sacred purpose). See [[Sanhedrin 70#70a|*Sanhedrin* 70a]] ff; [[Proverbs 23#^23-10|Proverbs 23:10]] and *Metzudot David* ad loc.
+[^66]: When consuming much meat and wine during the week (for no sacred purpose). See *Sanhedrin* [[Sanhedrin 70#70a|70a]] ff; [[Proverbs 23#^23-10|Proverbs 23:10]] and *Metzudot David* ad loc.
 [^67]: See *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-218a|II:218a]] and *Mikdash Melech*, ad loc.; *Likkutei Amarim*, Part I, ch. 7 f.
-[^68]: [[Yoma 82#82a|*Yoma* 82a]]; see *Shulchan Aruch*, *Orach Chaim*, sect. 617 and 618.
+[^68]: *Yoma* [[Yoma 82#82a|82a]]; see *Shulchan Aruch*, *Orach Chaim*, sect. 617 and 618.
 [^69]: Our text reads: “(fully) permissible”—though this bracketed word does not appear in some of the earlier editions and should probably be omitted; see *Igrot Kodesh* by the Lubavitcher Rebbe, vol. 1, pp. 238-239 in the notes; *Likkutei Sichot*, vol. 3, p. 985, note 16.
 [^70]: Introduction [[Tikkunei Zohar 017a|17a]].
 [^71]: *Tikkunei Zohar*, Introduction 3b; see above, beg. of Epistle 20.
@@ -196,20 +196,20 @@ After these words and this truth,[^120] the above passage from the *Raaya Mehemn
 [^102]: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-4b|I:4b]]; *Hilchot Talmud Torah* 1:4 (see also ibid. 2:2).
 [^103]: Brackets appear in the text.
 [^104]: See above, Epistle 25, note 25.
-[^105]: [[Shabbat 138#138b|*Shabbat* 138b]].
-[^106]: [[Berakhot 8#8a|*Berachot* 8a]]; cf. *Zohar* III:281a.
+[^105]: *Shabbat* [[Shabbat 138#138b|138b]].
+[^106]: *Berachot* [[Berakhot 8#8a|8a]]; cf. *Zohar* III:281a.
 [^107]: V. L.: from the *kelipot*.
 [^108]: Unifications.
 [^109]: The inner or esoteric part of the Torah.
 [^110]: See above, latter part of Epistle 20, and the notes, ad loc.
 [^111]: Brackets appear in the text.
-[^112]: [[Niddah 61#61b|*Niddah* 61b]].
+[^112]: *Niddah* [[Niddah 61#61b|61b]].
 [^113]: V. L.: with Torah.
 [^114]: These words, which appear in the text in brackets, do not appear in some MSS.
 [^115]: [[Isaiah 65#^65-20|Isaiah 65:20]].
-[^116]: See *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-114b|I:114b]] (*Medrash Hane’elam*); cf. [[Pesachim 68#68a|*Pesachim* 68a]].
+[^116]: See *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-114b|I:114b]] (*Medrash Hane’elam*); cf. *Pesachim* [[Pesachim 68#68a|68a]].
 [^117]: No iniquity shall befall the righteous; [[Proverbs 12#^12-21|Proverbs 12:21]]. See *Zohar* III:276a. Cf. Nachmanides on [[Torah 51 - Nitzavim#^30-6|Deuteronomy 30:6]].
-[^118]: See [[Yoma 28#28b|*Yoma* 28b]]; [[Kiddushin 82#82a|*Kiddushin* 82a]] (cf. *Zohar* [[Zohar 12.06 - Piqqudin#^z1-264b|I:264b]]): Abraham observed the whole Torah, etc. This statement appears rather difficult because many of the commandments are related directly to later events (e.g., the *tefillin* need contain excerpts from the Torah, dealing with the Exodus; etc.), how that could Abraham have observed the whole Torah? But this is explained to mean that he observed it with respect to the *pnimiyut* of Torah, i.e., the esoteric part composed of the deeper and sublime reasons of Torah and the commandments (as they are in their root, prior to becoming vested in directives that require specific physical objects and actions).—See *Torah Or*, *Lech Lecha* 11d; *Maamarei Admur Hazaken Haketzarim*, p. 326; cf. also *Likkutei Torah*, *Shemini* 18c.
-[^119]: The period of the Second Temple was not one of Messianic redemption. The return from the Babylonian exile, and the rebuilding of the Temple, did not constitute a restoration of pre-exilic conditions (cf. [[Yoma 9#9a|*Yoma* 9a]] f. and 21b; [[Sotah 48#48b|*Sotah* 48b]], etc.). On the contrary, there was an increasing spiritual decline which, thus, required to be countered by means of Torah and worship; see *Likkutei Torah*, *Behaalotecha* 32d. And cf. ibid. *Derushim L’Rosh Hashanah* 57c.
+[^118]: See *Yoma* [[Yoma 28#28b|28b]]; *Kiddushin* [[Kiddushin 82#82a|82a]] (cf. *Zohar* [[Zohar 12.06 - Piqqudin#^z1-264b|I:264b]]): Abraham observed the whole Torah, etc. This statement appears rather difficult because many of the commandments are related directly to later events (e.g., the *tefillin* need contain excerpts from the Torah, dealing with the Exodus; etc.), how that could Abraham have observed the whole Torah? But this is explained to mean that he observed it with respect to the *pnimiyut* of Torah, i.e., the esoteric part composed of the deeper and sublime reasons of Torah and the commandments (as they are in their root, prior to becoming vested in directives that require specific physical objects and actions).—See *Torah Or*, *Lech Lecha* 11d; *Maamarei Admur Hazaken Haketzarim*, p. 326; cf. also *Likkutei Torah*, *Shemini* 18c.
+[^119]: The period of the Second Temple was not one of Messianic redemption. The return from the Babylonian exile, and the rebuilding of the Temple, did not constitute a restoration of pre-exilic conditions (cf. *Yoma* [[Yoma 9#9a|9a]] f. and 21b; *Sotah* [[Sotah 48#48b|48b]], etc.). On the contrary, there was an increasing spiritual decline which, thus, required to be countered by means of Torah and worship; see *Likkutei Torah*, *Behaalotecha* 32d. And cf. ibid. *Derushim L’Rosh Hashanah* 57c.
 [^120]: H. V.—Par. [[II Chronicles 32#^32-1|II Chronicles 32:1]].
 [^121]: See *Etz Chaim* 49.

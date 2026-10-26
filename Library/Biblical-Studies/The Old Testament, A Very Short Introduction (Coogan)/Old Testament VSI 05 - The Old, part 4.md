@@ -24,7 +24,7 @@ and with the first fruits of all your produce;
 
 then your barns will be filled with plenty,
 
-and your vats will be bursting with new wine. (Prov. 3:9–10)
+and your vats will be bursting with new wine. ([[Proverbs 03#^3-9|Prov. 3:9–10]])
 
 The reward for humility and fear of Yahweh
 
@@ -42,7 +42,7 @@ conventional wisdom, the innocent sometimes perish despite their innocence, and 
 
 Afterlife in the Old Testament Because the Old Testament’s constituent parts were written over the course of many centuries, it is risky to generalize about the biblical view of almost anything, since on many issues there was development in thinking and also disagreement. This is especially true when we try to determine what the ancient Israelites believed about life after death.
 
-The practice of consulting the dead, necromancy, confirms that there was some notion of survival beyond the grave. Although prohibited, it was widely practiced, and in at least one case was successful, when at King Saul’s request a woman who was a medium summoned the dead prophet Samuel from the underworld. But unlike the ancient Egyptians, who were obsessed with life after death, as their elaborate tombs demonstrate, the ancient Israelites give us scant information about it. All the dead lived in a place called Sheol, a dark and dank place, more like the Greek Hades than the blessed west of the Egyptians. There was no contact with God in Sheol, and ordinary life apparently had ended. Ecclesiastes describes it this way: ‘‘The dead know nothing . . . There is no work or thought or knowledge or wisdom in Sheol’’ (Eccles. 9:5, 10). Only relatively late in the biblical period, partly in an effort to resolve the problem of inconsistent divine justice in this life, did Jews begin to develop a more elaborate set of beliefs about the afterlife as a place of reward for the just and punishment for the wicked. This would eventually become the familiar heaven and hell, which Christians and Muslims adopted.
+The practice of consulting the dead, necromancy, confirms that there was some notion of survival beyond the grave. Although prohibited, it was widely practiced, and in at least one case was successful, when at King Saul’s request a woman who was a medium summoned the dead prophet Samuel from the underworld. But unlike the ancient Egyptians, who were obsessed with life after death, as their elaborate tombs demonstrate, the ancient Israelites give us scant information about it. All the dead lived in a place called Sheol, a dark and dank place, more like the Greek Hades than the blessed west of the Egyptians. There was no contact with God in Sheol, and ordinary life apparently had ended. Ecclesiastes describes it this way: ‘‘The dead know nothing . . . There is no work or thought or knowledge or wisdom in Sheol’’ ([[Ecclesiastes 09#^9-5|Eccles. 9:5]], [[Ecclesiastes 09#^9-10|10]]). Only relatively late in the biblical period, partly in an effort to resolve the problem of inconsistent divine justice in this life, did Jews begin to develop a more elaborate set of beliefs about the afterlife as a place of reward for the just and punishment for the wicked. This would eventually become the familiar heaven and hell, which Christians and Muslims adopted.
 
 *[p. 106]* ^pg119
 
@@ -54,7 +54,7 @@ A fuller examination of the problem of theodicy than that of Ecclesiastes is the
 
 The framework of the book is prose, and it reads like a reworked ancient folktale. In the prologue, chapters 1 and 2, we are introduced to Job as a perfect man, who ‘‘feared God and turned away from evil’’ (1:1). His piety had been rewarded by great wealth and a large family—seven sons and three daughters. One day, at a meeting of the divine council, Yahweh engaged in a debate with a mysterious figure called the satan over whether Job’s piety was authentic—was he a God-fearer because it was to his advantage? What if he were stripped of his wealth? Job, the quintessentially innocent, has become the stakes in a cosmic wager.
 
-With divine approval, the satan apparently causes a series of disasters, in which Job’s many herds of animals were captured or killed, and finally, most horribly, his ten children were killed as well. Job’s response, later to be characterized as ‘‘the patience of Job’’ (James 5:11), shows that his piety is authentic: ‘‘Yahweh has given; Yahweh has taken away. Blessed be the name of Yahweh’’ (Job 1:21). At the next meeting of the council, Yahweh confronts the satan again: Job ‘‘still persists in his integrity, although you incited me against him without cause’’ (Job 2:3). The satan retorts that the true test will be Job’s own person, and, again with divine approval, he afflicts Job with a skin disease. Job sits among the ashes, scratching himself with a broken piece of pottery, but does not ‘‘sin with his lips’’ (2:10).
+With divine approval, the satan apparently causes a series of disasters, in which Job’s many herds of animals were captured or killed, and finally, most horribly, his ten children were killed as well. Job’s response, later to be characterized as ‘‘the patience of Job’’ ([[James 05#^5-11|James 5:11]]), shows that his piety is authentic: ‘‘Yahweh has given; Yahweh has taken away. Blessed be the name of Yahweh’’ ([[Job 01#^1-21|Job 1:21]]). At the next meeting of the council, Yahweh confronts the satan again: Job ‘‘still persists in his integrity, although you incited me against him without cause’’ ([[Job 02#^2-3|Job 2:3]]). The satan retorts that the true test will be Job’s own person, and, again with divine approval, he afflicts Job with a skin disease. Job sits among the ashes, scratching himself with a broken piece of pottery, but does not ‘‘sin with his lips’’ (2:10).
 
 *[p. 107]* ^pg120
 
@@ -78,7 +78,7 @@ and feet to the lame.
 
 I was a father to the needy,
 
-and I championed the cause of those I knew not. (Job 29:13–16)
+and I championed the cause of those I knew not. ([[Job 29#^29-13|Job 29:13–16]])
 
 Finally, using another legal metaphor, Job issues God a subpoena: ‘‘Here is my signature—let the Almighty answer me!’’ (31:35).
 
@@ -100,7 +100,7 @@ or who laid its cornerstone
 
 when the morning stars sang together
 
-and all the sons of God shouted for joy? (Job 38:4–7)
+and all the sons of God shouted for joy? ([[Job 38#^38-4|Job 38:4–7]])
 
 For three chapters (Job 38–41), the divine architect rants on. He describes his power—how he set limits for the proud waves of the sea and made the primeval monster Leviathan his pet—and catalogues the wonders of the natural order. These divine speeches contain some of the most magnificent poetry in the Bible, yet they completely ignore Job’s complaint.
 
@@ -128,13 +128,13 @@ but now my eyes have seen you.
 
 Therefore I will be quiet,
 
-comforted that I am dust. (Job 42:1–6)<sup>2</sup>
+comforted that I am dust. ([[Job 42#^42-1|Job 42:1–6]])<sup>2</sup>
 
 *[p. 109]* ^pg122
 
 What do these final words of Job mean? That having seen God, his consciousness had been raised, and he knows that there are limits to human wisdom? If so, Job is apparently satisfied. But are we? Some modern readers have interpreted Job’s words to mean that Job realizes that his situation is hopeless and is saying anything, anything, to get this blustering tyrant to shut up; an alternative, even freer translation of the last verse is ‘‘I shudder with sorrow for mortal clay.’’<sup>3</sup>
 
-In the prose epilogue (Job 42:7–17) we are returned to the ancient folktale. Yahweh rebukes Job’s friends, for they have not spoken the truth as Job did. Then Yahweh restores Job’s fortunes, doubling the property that had been lost. Is this an implicit admission of divine culpability? In biblical law such punitive damages are prescribed in cases of theft (Exod. 22:4–9). Finally, Job has more children, again seven sons and three daughters, to replace those who had been killed, and like the patriarchs of old, he dies at a ripe old age. It is, one might think, a happy ending. But again, we may pose a question—what of the dead children, who lost their lives to prove Yahweh’s point?
+In the prose epilogue ([[Job 42#^42-7|Job 42:7–17]]) we are returned to the ancient folktale. Yahweh rebukes Job’s friends, for they have not spoken the truth as Job did. Then Yahweh restores Job’s fortunes, doubling the property that had been lost. Is this an implicit admission of divine culpability? In biblical law such punitive damages are prescribed in cases of theft (Exod. 22:4–9). Finally, Job has more children, again seven sons and three daughters, to replace those who had been killed, and like the patriarchs of old, he dies at a ripe old age. It is, one might think, a happy ending. But again, we may pose a question—what of the dead children, who lost their lives to prove Yahweh’s point?
 
 Illustrating the universality of wisdom literature, it is significant that Job himself is not an Israelite—he lives in Uz, somewhere in Edom outside the Promised Land. Although the anonymous author of the book is an Israelite—the book itself is permeated by quotations from and allusions to other biblical texts—in the dialogues Job and his friends do not call God ‘‘Yahweh’’—only the narrator does. Moreover, the book is remarkable for its lack of explicit reference to the main events and personalities of the Bible: there is no mention of Abraham, Moses, or David, nor of Sinai or Jerusalem. The deity who reveals himself to Job is not the lord of history but a god of nature. These silences suggest one possible interpretation of this challenging book: history, whether of an individual or of a people, is opaque: it does not reveal the actions of a just God who rewards goodness and punishes wickedness.
 
@@ -154,7 +154,7 @@ The quotation in the chapter title is the opening phrase of a lengthy poetic sum
 
 Abraham
 
-Abraham, says Ben Sira, was ‘‘the great father of a multitude of nations’’ (Sir. 44:19, quoting Gen. 17:4), with whom God made a covenant to multiply his descendants and to give them an inheritance—the Promised Land. Abraham is the principal character in Genesis 12–25, along with his wives Sarah and Hagar, his sons Ishmael and Isaac, and his nephew Lot. His story begins abruptly, as with no apparent motivation Yahweh summons him to
+Abraham, says Ben Sira, was ‘‘the great father of a multitude of nations’’ ([[LXX Sirach 44#^44-19|Sir. 44:19]], quoting [[Torah 03 - Lech Lecha#^17-4|Gen. 17:4]]), with whom God made a covenant to multiply his descendants and to give them an inheritance—the Promised Land. Abraham is the principal character in [[Torah 03 - Lech Lecha#^12-1|Genesis 12]]–25, along with his wives Sarah and Hagar, his sons Ishmael and Isaac, and his nephew Lot. His story begins abruptly, as with no apparent motivation Yahweh summons him to
 
 *[p. 112]* ^pg125
 
@@ -162,7 +162,7 @@ leave his homeland and to move to a new land, the land of Canaan. There God repe
 
 There is a mythical dimension to the narratives about Abraham. He often speaks directly with Yahweh, and on one occasion Yahweh even visits him for a meal. But was there ever an Abraham? Or is he just a legendary ancestor, like Romulus, the supposed founder of Rome? We cannot say. Not surprisingly, there are no contemporaneous nonbiblical sources corroborating either the individuals or the events described in Genesis. Because Genesis depicts Abraham, Isaac, and Jacob as semi-nomadic pastoralists wandering with their flocks on the fringes of the larger urban centers of their days, they were at most extras on the larger stage of their times. They would not have invited enough attention to require mention in official records, of which we have only a few from the land of Canaan during most of the second millennium bce. Moreover, the biblical narrative is complex and multilayered, originating many centuries after any time that Abraham could plausibly have lived. A few clues hint that beneath the sources used by the biblical writers there is some historical memory, but they are subtle clues at best.
 
-We should probably be content to take Abraham as an idealized ancestor: Abraham ‘‘believed in Yahweh, and Yahweh considered him righteous’’ (Gen. 15:6). He always complied with divine commands—emigration, circumcision, even the sacrifice of his son Isaac. As the nineteenth-century Danish philosopher Søren Kierkegaard aptly called him, Abraham was a ‘‘knight of faith.’’ On occasion he could challenge Yahweh to act justly, not to let the innocent in Sodom perish while he punished the guilty—the very issue raised in the book of Job. In this too he is something of a model, anticipating Moses, Job, Jeremiah, and other biblical characters who argued with God.
+We should probably be content to take Abraham as an idealized ancestor: Abraham ‘‘believed in Yahweh, and Yahweh considered him righteous’’ ([[Torah 03 - Lech Lecha#^15-6|Gen. 15:6]]). He always complied with divine commands—emigration, circumcision, even the sacrifice of his son Isaac. As the nineteenth-century Danish philosopher Søren Kierkegaard aptly called him, Abraham was a ‘‘knight of faith.’’ On occasion he could challenge Yahweh to act justly, not to let the innocent in Sodom perish while he punished the guilty—the very issue raised in the book of Job. In this too he is something of a model, anticipating Moses, Job, Jeremiah, and other biblical characters who argued with God.
 
 The narrative about Abraham also serves as a kind of overture to the books of the Bible that follow. He is the ancestor of a nation
 
@@ -178,7 +178,7 @@ Jesus of Nazareth was a Jew, and his genealogies link him directly with Abraham.
 
 Abraham’s oldest son was Ishmael, and from him other peoples were descended, including those we now call Arabs, one of whom was the prophet Muhammad, the human founder of Islam. Thus, like Christianity, Islam has a genealogical link with Abraham, and for Muslims, too, Abraham is a model, especially in his surrender to God (for that is what ‘‘Islam’’ means).
 
-Abraham’s importance for all three religions is also clear in their scriptures. He is mentioned more than five dozen times each in the Old Testament after the narrative of his death in Genesis 25, in the New Testament, and in the Qur’an.
+Abraham’s importance for all three religions is also clear in their scriptures. He is mentioned more than five dozen times each in the Old Testament after the narrative of his death in [[Torah 05 - Chayei Sara#^25-1|Genesis 25]], in the New Testament, and in the Qur’an.
 
 *[p. 114]* ^pg127
 
@@ -194,13 +194,13 @@ Deborah is one of these named women, whom we may take as representative of them 
 
 Israel as elsewhere in the ancient Near East designates leaders who exercised not only judicial but also military and political functions. Eleven of the twelve judges in the book are men; the exception is Deborah, who is also identified as a prophet.
 
-There are two overlapping accounts of her activity, a prose narrative in Judges 4, and a very old poem in Judges 5, the ‘‘Song of Deborah.’’ According to Judges 4, as she sat in judgment under a palm tree Deborah sent for Barak and instructed him to muster troops from the tribes of Naphtali and Zebulun and to join her in an attack on the Canaanites, who were oppressing the Israelites. In this shared leadership, Deborah takes the initiative and also decides on the strategy to defeat the Canaanites. In the aftermath of the battle, the fleeing general of the Canaanites was killed by another woman, Jael.
+There are two overlapping accounts of her activity, a prose narrative in [[Judges 04#^4-1|Judges 4]], and a very old poem in [[Judges 05#^5-1|Judges 5]], the ‘‘Song of Deborah.’’ According to [[Judges 04#^4-1|Judges 4]], as she sat in judgment under a palm tree Deborah sent for Barak and instructed him to muster troops from the tribes of Naphtali and Zebulun and to join her in an attack on the Canaanites, who were oppressing the Israelites. In this shared leadership, Deborah takes the initiative and also decides on the strategy to defeat the Canaanites. In the aftermath of the battle, the fleeing general of the Canaanites was killed by another woman, Jael.
 
 Following the prose narrative is a poem celebrating the victory, according to its heading sung by Deborah and Barak. This poem, one of the oldest in the Bible, describes how Yahweh fought alongside his people; like the prose text that precedes it and is probably derived from it, the poem mentions Deborah and Barak together as military leaders in the victory.
 
 Because of her active military role, Deborah differs from women such as Rahab, Jael, and Delilah, who aided their allies but not as warriors. In later Jewish and Christian sources Deborah becomes the prototype of the warrior woman: both Judith in the book of the Apocrypha named for her and Joan of Arc are modeled on Deborah.
 
-We know little more of Deborah. She is called ‘‘the wife of Lappidoth’’ (Judg. 4:4) and so apparently was married, although the phrase thus translated can also mean ‘‘woman of torches’’ and could refer to her incendiary character; perhaps not coincidentally, Barak’s name means ‘‘lightning.’’ She was ‘‘a mother in Israel’’ (Judg. 5:7), but what that means is unclear: Was she the leader of
+We know little more of Deborah. She is called ‘‘the wife of Lappidoth’’ ([[Judges 04#^4-4|Judg. 4:4]]) and so apparently was married, although the phrase thus translated can also mean ‘‘woman of torches’’ and could refer to her incendiary character; perhaps not coincidentally, Barak’s name means ‘‘lightning.’’ She was ‘‘a mother in Israel’’ ([[Judges 05#^5-7|Judg. 5:7]]), but what that means is unclear: Was she the leader of
 
 *[p. 116]* ^pg129
 
@@ -212,21 +212,21 @@ David
 
 David, the second king of Israel and the founder of a dynasty that lasted more than four centuries, pervades biblical tradition, with more space devoted to him and to compositions attributed to him than to any other human character in the Hebrew Bible except for Moses. As is also true of Moses, we have no independent confirmation that David ever existed, but all except the most skeptical scholars think that the broad outlines of his life as presented in the Bible are historically accurate.
 
-The primary narrative of David’s rise from shepherd to king of Israel and of his long reign is 1 Samuel 16–1 Kings 2. Like other extended narratives in the Bible, it is very much a composite. Drawing on a variety of sources, the biblical historians construct a picture of a complex character—as the subtitle of a recent book about David aptly puts it, he was ‘‘messiah, murderer, traitor, king.’’<sup>1</sup>
+The primary narrative of David’s rise from shepherd to king of Israel and of his long reign is 1 Samuel 16–[[I Kings 02#^2-1|1 Kings 2]]. Like other extended narratives in the Bible, it is very much a composite. Drawing on a variety of sources, the biblical historians construct a picture of a complex character—as the subtitle of a recent book about David aptly puts it, he was ‘‘messiah, murderer, traitor, king.’’<sup>1</sup>
 
 *[p. 117]* ^pg130
 
 His capsule biography is as follows. Born in Bethlehem as the youngest of seven brothers, he was unlikely to get any substantial inheritance, and so he joined the newly formed army of Israel’s first king, Saul. In it he excelled as a warrior, and he married Saul’s daughter Michal. Eventually, however, he and Saul had a falling out, and David and men personally loyal to him became mercenaries for Israel’s enemies, the Philistines. Near the end of the eleventh century bce, when Saul died in battle against the Philistines, David became king, first of the southern tribe of Judah and then of the northern tribes, uniting the kingdom under himself in his newly designated capital, Jerusalem. He reportedly ruled for some forty years, perhaps a formulaic round number, but in any case a long reign. During it he was able to dominate the larger region, in part because of the relative weakness of the great powers of Egypt and Mesopotamia. After some murderous rivalry among his sons, he named one of them, Solomon, as his successor before he died.
 
-In the primary narrative about David we are given a multidimensional portrait of a gifted, even charismatic leader. David was a brilliant military strategist, as legends about his early prowess as well as his victories as king show. He was a consummate politician, rapidly achieving prominence in Saul’s court, and able to persuade both northern and southern Israelites to accept him as king even though he had fought for the Philistines. He was also a talented poet and musician. Several poems attributed to David are included in 2 Samuel, and one that is almost certainly authentic is his lament for Saul and Saul’s son Jonathan, David’s close friend (2 Sam. 1:17–27). Because of David’s reputation as composer and lyricist, authorship of many other biblical poems, including half of the Psalms, was attributed to this ‘‘sweet singer of Israel’’ (2 Sam. 23:1).
+In the primary narrative about David we are given a multidimensional portrait of a gifted, even charismatic leader. David was a brilliant military strategist, as legends about his early prowess as well as his victories as king show. He was a consummate politician, rapidly achieving prominence in Saul’s court, and able to persuade both northern and southern Israelites to accept him as king even though he had fought for the Philistines. He was also a talented poet and musician. Several poems attributed to David are included in 2 Samuel, and one that is almost certainly authentic is his lament for Saul and Saul’s son Jonathan, David’s close friend ([[II Samuel 01#^1-17|2 Sam. 1:17–27]]). Because of David’s reputation as composer and lyricist, authorship of many other biblical poems, including half of the Psalms, was attributed to this ‘‘sweet singer of Israel’’ ([[II Samuel 23#^23-1|2 Sam. 23:1]]).
 
 This sketch is based on various types of evidence, much of it propaganda. But not all. There was another side to David, which the biblical historians also present in detail. The opening words of
 
 *[p. 118]* ^pg131
 
-Jerusalem, the holy city According to 2 Samuel 5, toward the beginning of his reign David moved his capital from Hebron, the traditional site of the burial of Abraham and his family, to the non-Israelite city of Jerusalem, which became known as the city of David. Then, to provide divine legitimation for his rule, he brought the ark of the covenant to Jerusalem, so that the city of David also became the city of God.
+Jerusalem, the holy city According to [[II Samuel 05#^5-1|2 Samuel 5]], toward the beginning of his reign David moved his capital from Hebron, the traditional site of the burial of Abraham and his family, to the non-Israelite city of Jerusalem, which became known as the city of David. Then, to provide divine legitimation for his rule, he brought the ark of the covenant to Jerusalem, so that the city of David also became the city of God.
 
-David’s son Solomon built the First Temple there, so Jerusalem became the religious center of ancient Israel and thus the geographical focus of Judaism. The prayer ‘‘Next year in Jerusalem’’ near the conclusion of the Passover seder illustrates this centrality, as does the late biblical identification of the site of the Temple as the mountain where Abraham was to sacrifice Isaac (2 Chron. 3:1).
+David’s son Solomon built the First Temple there, so Jerusalem became the religious center of ancient Israel and thus the geographical focus of Judaism. The prayer ‘‘Next year in Jerusalem’’ near the conclusion of the Passover seder illustrates this centrality, as does the late biblical identification of the site of the Temple as the mountain where Abraham was to sacrifice Isaac ([[II Chronicles 03#^3-1|2 Chron. 3:1]]).
 
 As an observant Jew, Jesus went to Jerusalem to celebrate the Passover, and there, the Gospels tell us, he was arrested, executed, buried, and, according to Christian belief, raised from the dead. Because these events took place in Jerusalem, it became the holy city for Christians.
 
@@ -236,9 +236,9 @@ Jerusalem’s continuing importance as holy city for Jews, Christians, and Musli
 
 *[p. 119]* ^pg132
 
-the account of his affair with Bathsheba are: ‘‘Now it was the springtime, the time when kings go forth to war, but David stayed in Jerusalem’’ (2 Sam. 11:1). David’s army, along with the ark of the covenant, was across the Jordan in Ammon, attacking its capital Rabbah. True kings, the narrator implies, are with their troops—but not David. And because he stayed in Jerusalem, he glimpsed Bathsheba bathing, slept with her, and then recalled her husband Uriah from the battlefield so that the pregnancy that had resulted would be attributed to him. When Uriah refused the comforts of home, David sent him back with sealed instructions that he be stationed in a vulnerable part of the battlefield and left undefended. So David, the warrior, the king, the poet, was also an adulterer and a murderer by proxy, and he is rebuked by the prophet Nathan for his actions. The biblical writers tell us all this and much more, depicting David as a deeply flawed hero.
+the account of his affair with Bathsheba are: ‘‘Now it was the springtime, the time when kings go forth to war, but David stayed in Jerusalem’’ ([[II Samuel 11#^11-1|2 Sam. 11:1]]). David’s army, along with the ark of the covenant, was across the Jordan in Ammon, attacking its capital Rabbah. True kings, the narrator implies, are with their troops—but not David. And because he stayed in Jerusalem, he glimpsed Bathsheba bathing, slept with her, and then recalled her husband Uriah from the battlefield so that the pregnancy that had resulted would be attributed to him. When Uriah refused the comforts of home, David sent him back with sealed instructions that he be stationed in a vulnerable part of the battlefield and left undefended. So David, the warrior, the king, the poet, was also an adulterer and a murderer by proxy, and he is rebuked by the prophet Nathan for his actions. The biblical writers tell us all this and much more, depicting David as a deeply flawed hero.
 
-Despite the very mixed view we get of David from the primary narrative, subsequent literature glossed over the reprehensible aspects of his life. For the authors of the book of Kings he became the model king, the touchstone against whom all subsequent rulers of his dynasty were assessed, usually negatively. When the authors of the books of Chronicles, writing in the fifth or fourth century bce, retold the story of David, although they used the books of Samuel as their principal source, they omitted any negative aspects, such as the Bathsheba affair and his son Absalom’s revolt. Finally, because his reign was remembered as a time of peace and prosperity, and therefore one of special divine blessing, later generations would model a hoped-for future leader on this ‘‘anointed of the god of Jacob’’ (2 Sam. 23:1).
+Despite the very mixed view we get of David from the primary narrative, subsequent literature glossed over the reprehensible aspects of his life. For the authors of the book of Kings he became the model king, the touchstone against whom all subsequent rulers of his dynasty were assessed, usually negatively. When the authors of the books of Chronicles, writing in the fifth or fourth century bce, retold the story of David, although they used the books of Samuel as their principal source, they omitted any negative aspects, such as the Bathsheba affair and his son Absalom’s revolt. Finally, because his reign was remembered as a time of peace and prosperity, and therefore one of special divine blessing, later generations would model a hoped-for future leader on this ‘‘anointed of the god of Jacob’’ ([[II Samuel 23#^23-1|2 Sam. 23:1]]).
 
 An anonymous early Christian writer wrote a catalogue of Israelite heroes similar to that of Ben Sira and concluded with a summary of the ‘‘cloud of witnesses’’ too numerous to mention:
 
@@ -246,7 +246,7 @@ And what more should I say? For time would fail me to tell of Gideon, Barak, Sam
 
 *[p. 120]* ^pg133
 
-prophets—who through faith conquered kingdoms, administered justice, obtained promises, shut the mouths of lions, quenched raging fire, escaped the edge of the sword, won strength out of weakness, became mighty in war, put foreign armies to flight. (Heb. 11:32–34)
+prophets—who through faith conquered kingdoms, administered justice, obtained promises, shut the mouths of lions, quenched raging fire, escaped the edge of the sword, won strength out of weakness, became mighty in war, put foreign armies to flight. ([[Hebrews 11#^11-32|Heb. 11:32–34]])
 
 For this author, as for Ben Sira, these individuals are heroic models, and believers have continued to view them as such. Many are also engaging literary characters, whose narratives have fascinated readers and inspired writers, artists, and composers regardless of their own beliefs.
 
@@ -274,13 +274,13 @@ I the Lord your God am a jealous God, punishing sons for the iniquity of fathers
 
 *[p. 123]* ^pg136
 
-generation of those who love me and keep my commandments. (Exod. 20:5–6)
+generation of those who love me and keep my commandments. ([[Torah 17 - Yitro#^20-5|Exod. 20:5–6]])
 
 Yet this understanding of divinely imposed collective punishment is elsewhere explicitly contradicted, as by the prophet Ezekiel:
 
-The person who sins shall die. A son shall not suffer for the iniquity of a father, nor a father suffer for the iniquity of a son; the righteousness of the righteous shall be his own, and the wickedness of the wicked shall be his own. (Ezek. 18:20)
+The person who sins shall die. A son shall not suffer for the iniquity of a father, nor a father suffer for the iniquity of a son; the righteousness of the righteous shall be his own, and the wickedness of the wicked shall be his own. ([[Ezekiel 18#^18-20|Ezek. 18:20]])
 
-For the prophet, divine justice should correspond to a principle of the Israelite legal system, according to which ‘‘fathers shall not be put to death for their sons, nor shall sons be put to death for their parents; only for his own crime may a man be put to death’’ (Deut. 24:16). In Ezekiel, then, we have a development in thinking, even an outright rejection of an earlier view enshrined in the Decalogue and attributed to God himself.
+For the prophet, divine justice should correspond to a principle of the Israelite legal system, according to which ‘‘fathers shall not be put to death for their sons, nor shall sons be put to death for their parents; only for his own crime may a man be put to death’’ ([[Torah 49 - Ki Teitzei#^24-16|Deut. 24:16]]). In Ezekiel, then, we have a development in thinking, even an outright rejection of an earlier view enshrined in the Decalogue and attributed to God himself.
 
 As this example shows, the multiplicity of voices in the Old Testament requires that readers engage in interpretation, since the different voices are not always in harmony. Moreover, because of this often dissonant polyphony, any argument based solely on what the Bible says, as though it speaks with only one voice, is fundamentally flawed. As Shakespeare observed, even ‘‘the Devil can cite Scripture for his purpose’’ (Merchant of Venice I.iii), and politicians, pundits, and popes who use it as a collection of proof texts to be selected almost at random, disregarding original meaning and context, do so by ignoring the book as a whole. Moreover, no community of faith today would accept every biblical command as binding, so the view of the Bible as an absolute and timeless authority is challenged both within the Bible itself and in subsequent religious history.
 
@@ -312,11 +312,11 @@ Exodus—
 
 Moses Deuteronomy Late second Emergence of Israel in Joshua; Judges millennium the land of Canaan Late eleventh–late Establishment of the 1–2 Samuel; 1
 
-tenth centuries monarchy: Samuel, Kings 1–11 Saul, David, Solomon Late tenth–mid– Divided monarchies of 1 Kings 12–
+tenth centuries monarchy: Samuel, Kings 1–11 Saul, David, Solomon Late tenth–mid– Divided monarchies of [[I Kings 12#^12-1|1 Kings 12]]–
 
-eighth centuries Israel and Judah 2 Kings 14 Mid-ninth–mid-Assyrian control of 2 Kings 15–23; seventh centuries Near East Amos; Hosea 722 Assyrians defeat 2 Kings 17; Isaiah Northern Kingdom of 1–12; Micah Israel and destroy Samaria, its capital
+eighth centuries Israel and Judah [[II Kings 14#^14-1|2 Kings 14]] Mid-ninth–mid-Assyrian control of [[II Kings 15#^15-1|2 Kings 15]]–23; seventh centuries Near East Amos; Hosea 722 Assyrians defeat [[II Kings 17#^17-1|2 Kings 17]]; Isaiah Northern Kingdom of 1–12; Micah Israel and destroy Samaria, its capital
 
-701 Assyrians attack 2 Kings 18–20 Southern Kingdom of (¼Isaiah 36– Judah and lay siege to 37); Isaiah Jerusalem, its capital, 1:7–9; 10:5–11 but do not destroy it (Continued)
+701 Assyrians attack [[II Kings 18#^18-1|2 Kings 18]]–20 Southern Kingdom of (¼[[Isaiah 36#^36-1|Isaiah 36]]– Judah and lay siege to 37); Isaiah Jerusalem, its capital, 1:7–9; 10:5–11 but do not destroy it (Continued)
 
 *[p. 126]* ^pg139
 
@@ -324,11 +324,11 @@ eighth centuries Israel and Judah 2 Kings 14 Mid-ninth–mid-Assyrian control of
 
 Date\* Events and persons Biblical books\*\*
 
-622 Reform of King Josiah 2 Kings 22–23 of Judah Late seventh– Babylonian control of
+622 Reform of King Josiah [[II Kings 22#^22-1|2 Kings 22]]–23 of Judah Late seventh– Babylonian control of
 
 mid-sixth centuries Near East
 
-597 First siege of Jerusalem 2 Kings 24:10–17 by the Babylonian king Nebuchadrezzar 2 Kings 25;
+597 First siege of Jerusalem [[II Kings 24#^24-10|2 Kings 24:10–17]] by the Babylonian king Nebuchadrezzar [[II Kings 25#^25-1|2 Kings 25]];
 
 586 Destruction of Jeremiah; Jerusalem by Ezekiel Nebuchadrezzar and Babylonian exile Mid-sixth–late Persian control of Near Ezra–Nehemiah fourth centuries East
 
@@ -495,7 +495,7 @@ Tobit 1 Maccabees
 
 Judith 2 Maccabees
 
-Esther 1 Maccabees 2 Maccabees 3 Maccabees
+Esther 1 Maccabees [[LXX 2 Maccabees 03#^3-1|2 Maccabees 3]] Maccabees
 
 Job
 

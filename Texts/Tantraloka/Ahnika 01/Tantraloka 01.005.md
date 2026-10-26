@@ -35,7 +35,7 @@ anuttaraṃ me prathayatsvarūpam || ^iast
 > [!source] Dyczkowski, vol. I
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)/Tantraloka Dyczkowski v01 03 - Chapter One, part 2#^pg59|p. 45]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf#page=59>))
 >
-> May that same triad of Goddesses – who are the glorious power of the All-pervading Lord (vibhu) as 1) the power which is (His) freedom, 2) the intent to emit the succession (krama) (of manifestation), and 3) the succession (krama) itself – inwardly reveal my own (unsurpassable) Anuttara’ nature (svabhāva).
+> May that same triad of Goddesses – who are the glorious power of the All-pervading Lord (vibhu) as 1) the power which is (His) freedom, 2) the intent to emit the succession (krama) (of manifestation), and 3) the succession (krama) itself – inwardly reveal my own (unsurpassable) Anuttara nature (svabhāva).
 
 ## Viveka
 

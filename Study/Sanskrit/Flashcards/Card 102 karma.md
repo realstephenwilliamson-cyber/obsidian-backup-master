@@ -20,17 +20,10 @@ nyasa: "ka: right shoulder (*skandha*) · ra: blood (*rakta*) · ma: heart (*h�
 ## Front
 
 - **Glyph:** कर्म
-- **Variation:** —
-- **Example:** —
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** —
-- **Gloss:** noun: ‘action’
-- **Class (as printed):** —
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: क, म, र
-- **Example:** —
+> [!note]- Back
+> - **Gloss:** noun: ‘action’
+> - <u>क</u> ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ <u>म</u> / य <u>र</u> ल व / श ष स ह
 
 ## Register
 

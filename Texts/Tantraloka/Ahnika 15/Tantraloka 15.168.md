@@ -29,7 +29,7 @@ tenācidrūpadehādiprādhānyavinimajjakam || ^iast
 >
 > Whatever causes (one’s own) immersed consciousness to emerge is suitable (as a substance to be offered) for worship, because the bliss (experienced in this way) is the emergence of consciousness. (with 15.167cd–168ab)
 >
-> Thus, whatever captivates the heart (hrdayahārin), suppressing the predominance of (the mistaken identification with) the body etc. which is not consciousness, and (so) generates bliss, is a suitable (offering for) worship (pūjā). (with 15.168cd–169ab)
+> Thus, whatever captivates the heart (hṛdayahārin), suppressing the predominance of (the mistaken identification with) the body etc. which is not consciousness, and (so) generates bliss, is a suitable (offering for) worship (pūjā). (with 15.168cd–169ab)
 
 ## Viveka
 

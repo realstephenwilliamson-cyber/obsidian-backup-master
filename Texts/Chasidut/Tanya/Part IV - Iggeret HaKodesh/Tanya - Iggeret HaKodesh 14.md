@@ -58,7 +58,7 @@ However, its manifestation—from this concealment—depends on the action of th
 [^14]: See *Pardes Rimonim* 12:1; also 3:5.—Cf. Addendum, *Mystical Concepts in Chassidism*, s.v. *Chochmah*.
 [^15]: See Maimonides, *Hilchot Yesodei HaTorah* 2:10; *Likkutei Amarim*, Part I, beg. of ch. 2.
 [^16]: V. L. in B. Y.: the quality and increase of.
-[^17]: [[Rosh Hashanah 8#8a|*Rosh Hashanah* 8a]]-b.
+[^17]: *Rosh Hashanah* [[Rosh Hashanah 8#8a|8a]]-b.
 [^18]: V. L. in B. Y.: and from His *chochmah*.
 [^19]: [[Psalms 036#^36-10|Psalms 36:10]].
 [^20]: Brackets appear in the text.
@@ -67,10 +67,10 @@ However, its manifestation—from this concealment—depends on the action of th
 [^23]: See Arizal, *Shulchan Aruch*, beg. of *Kavanat HaTefillah*; *Likkutei Torah*, *Beshalach* 2d; *Bamidbar* 5d.
 [^24]: V. L. in B. Y.: more sublime ones, etc.
 [^25]: V. L. in B. Y.: as regards the world of the six thousand years as a whole.
-[^26]: Of the world’s existence ([[Sanhedrin 97#97a|*Sanhedrin* 97a]]).
+[^26]: Of the world’s existence (*Sanhedrin* [[Sanhedrin 97#97a|97a]]).
 [^27]: See *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-218a|II:218a]]; *Etz Chaim* 8:1.
-[^28]: [[Torah 37 - Sh'lach#^15-24|Numbers 15:24]]; *Shir Hashirim Rabbah* I, 15:2. See also [[Torah 24 - Vayikra#^4-13|Leviticus 4:13]], [[Horayot 5#5a|*Horiyot* 5a]], and *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-20a|III:20a]]. Cf. also *Sifrei*, Deuteronomy 41 and [[Taanit 24#24a|*Taanit* 24a]].
-[^29]: [[Bava Batra 158#158b|*Bava Batra* 158b]]; see *Zohar* III:245b.—I.e., it radiates *chochmah*, emanating to it from the “Eyes” of G–d.
+[^28]: [[Torah 37 - Sh'lach#^15-24|Numbers 15:24]]; *Shir Hashirim Rabbah* I, 15:2. See also [[Torah 24 - Vayikra#^4-13|Leviticus 4:13]], *Horiyot* [[Horayot 5#5a|5a]], and *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-20a|III:20a]]. Cf. also *Sifrei*, Deuteronomy 41 and *Taanit* [[Taanit 24#24a|24a]].
+[^29]: *Bava Batra* [[Bava Batra 158#158b|158b]]; see *Zohar* III:245b.—I.e., it radiates *chochmah*, emanating to it from the “Eyes” of G–d.
 [^30]: Signified by the *alef* (cf. *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-54a|II:54a]]; [[Zohar 5.04 - Sava de-Mishpatim#^z2-123a|123a]]).
 [^31]: By which the *alef*, the new sublime light, is elicited; see *Siddur Im Dach*, *Shaar Hateki’ot*, p. 244b ff.
-[^32]: From the *eretz hachayim* the light effuses to all the other worlds. On the terrestrial plane it effuses from the *eretz hachayim* (the Holy Land) to all the other countries (see *Sifrei*, Deuteronomy 40, and Nachmanides on [[Torah 46 - Eikev#^11-22|Deuteronomy 11:22]]; cf. [[Taanit 10#10a|*Taanit* 10a]], and see also *Zohar* I:255b; [[Zohar 4.04 - Parashat Va-Era#^z2-22b|II:22b]] and [[Zohar 5.05 - Parashat Terumah#^z2-152b|152b]]; [[Zohar 9.10 - Commentary on Balaq, continued#^z3-209a|III:209a]]-b; *Zohar Chadash* 87d. See also *Shaarei Orah* (Gikatilla), ch. 5).
+[^32]: From the *eretz hachayim* the light effuses to all the other worlds. On the terrestrial plane it effuses from the *eretz hachayim* (the Holy Land) to all the other countries (see *Sifrei*, Deuteronomy 40, and Nachmanides on [[Torah 46 - Eikev#^11-22|Deuteronomy 11:22]]; cf. *Taanit* [[Taanit 10#10a|10a]], and see also *Zohar* I:255b; [[Zohar 4.04 - Parashat Va-Era#^z2-22b|II:22b]] and [[Zohar 5.05 - Parashat Terumah#^z2-152b|152b]]; [[Zohar 9.10 - Commentary on Balaq, continued#^z3-209a|III:209a]]-b; *Zohar Chadash* 87d. See also *Shaarei Orah* (Gikatilla), ch. 5).

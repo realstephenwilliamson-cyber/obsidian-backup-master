@@ -11,6 +11,7 @@ second_reading: "Romans 10:5-15"
 gospel: "Matthew 14:22-33"
 first_reading_complementary: "1 Kings 19:9-18"
 psalm_complementary: "Psalm 85:8-13"
+psalm_bcp_complementary: "Psalm 85:8-13"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-14]]"
 cssclasses:

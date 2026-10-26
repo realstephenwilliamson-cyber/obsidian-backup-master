@@ -50,6 +50,6 @@ However, if he wages no war at all, the said love in itself can in no way be cre
 [^4]: Ch. 12.
 [^5]: [[Psalms 069#^69-37|Psalms 69:37]].
 [^6]: Chs. 18, 19, and 44.
-[^7]: [[Chagigah 9#9b|*Chagigah* 9b]].
+[^7]: *Chagigah* [[Chagigah 9#9b|9b]].
 [^8]: Persian miles.
 [^9]: In this case—without changing his nature, only keeping it in check.

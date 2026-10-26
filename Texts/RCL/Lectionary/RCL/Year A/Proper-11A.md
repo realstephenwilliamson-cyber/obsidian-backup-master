@@ -11,6 +11,7 @@ second_reading: "Romans 8:12-25"
 gospel: "Matthew 13:24-30, 36-43"
 first_reading_complementary: "Wisdom of Solomon 12:13, 16-19 or Isaiah 44:6-8"
 psalm_complementary: "Psalm 86:11-17"
+psalm_bcp_complementary: "Psalm 86:11-17"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-11]]"
 cssclasses:

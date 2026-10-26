@@ -158,7 +158,7 @@ Similarly, [with regard to] knives, the blade and the handle should be boiled in
 [^14]: the cracking open of the kernels is a sign that the wheat has expanded because of leavening.
 [^15]: made with water
 [^16]: The *Maggid Mishneh* explains that oil is considered מי פירות and, hence, will cause the dough to become leavened. (See also *Nodah BiYhudah*, Vol. II, Responsum 57.)
-[^17]: [[Pesachim 39#39b|*Pesachim* 39b]] states that once matzah has been baked, it can be cooked again without the fear of leavening. Similarly, it can be ground into meal, and then used as flour without the fear of becoming chametz. (See also *Shulchan Aruch, Orach Chayim* 463:3.)  
+[^17]: *Pesachim* [[Pesachim 39#39b|39b]] states that once matzah has been baked, it can be cooked again without the fear of leavening. Similarly, it can be ground into meal, and then used as flour without the fear of becoming chametz. (See also *Shulchan Aruch, Orach Chayim* 463:3.)  
     This law is the basis of the widely practiced leniency of cooking and baking with matzah meal. Nevertheless, certain Ashkenazic communities refrain from using matzah meal because of the custom of שרויה*, gebruks*. Rav Shneur Zalman of Liadi (Responsum VI; see also *Sha'arei Teshuvah, Orach Chayim* 460:10) writes that it is possible that some of the dough was not baked thoroughly and some flour remaining in it could become chametz when cooked again.
 [^18]: Once flour has become roasted, it will not become leavened. However, we must differentiate between roasted flour and flour made from roasted wheat; the latter flour may not be used on Pesach. (See Halachah 5.) The *Pri Chadash* even questions the leniency of using roasted flour.
 [^19]: behold, it is permitted because it -- the flour
@@ -176,13 +176,13 @@ Similarly, [with regard to] knives, the blade and the handle should be boiled in
 [^29]: This statement is slightly problematic, for Halachah 4 mentioned that we may cook with roasted flour.
 [^30]: Rabbenu Manoach explains that the kernels of grain were placed in hot water, stirred vigorously, and then crushed to remove the husks.
 [^31]: The cracking open of the kernels would be the clearest sign that the grain had become leavened. However, even if the leavening process has reached the point
-[^32]: Our translation of ביב follows Rav Yitzchak Alfasi and Rabbenu Chanan'el. See also Halachah 22. However, Rashi ([[Pesachim 40#40a|*Pesachim* 40a]]) provides a different and more lenient interpretation.
+[^32]: Our translation of ביב follows Rav Yitzchak Alfasi and Rabbenu Chanan'el. See also Halachah 22. However, Rashi (*Pesachim* [[Pesachim 40#40a|40a]]) provides a different and more lenient interpretation.
 [^33]: This is a very stringent measure. Once barley kernels are exposed to water, they will burst open shortly after being exposed to heat of this nature.
 [^34]: Wheat kernels are firmer than barley kernels.
 [^35]: Once the grain has come in contact with water and it is left untended for the time it takes a person to walk a *mil*, it will become leavened. (See *Shulchan Aruch, Orach Chayim* 467:2.)
 [^36]: The commentaries note that in *Hilchot Ma'aseh HaKorbanot* 12:20, the Rambam states that the grain used for the meal offerings was not stirred in water, lest it become leavened. Among the resolutions offered to this difficulty is that chametz is a severe prohibition, and greater care would be taken.
-[^37]: [[Gittin 57#57a|*Gittin* 57a]] explains why the term ארץ צבי is used as a reference for *Eretz Yisrael*.
-[^38]: Rabbenu Manoach mentions that this custom was several hundred years old in his time (approx. 1200 CE). [[Pesachim 40#40a|*Pesachim* 40a]] mentions that even in Talmudic times, a בעל נפש (a person precise in the observance of the commandments) would not use wheat that had been stirred. The *Shulchan Aruch* (*Orach Chayim* 453:5) states that stirring wheat is "prohibited."
+[^37]: *Gittin* [[Gittin 57#57a|57a]] explains why the term ארץ צבי is used as a reference for *Eretz Yisrael*.
+[^38]: Rabbenu Manoach mentions that this custom was several hundred years old in his time (approx. 1200 CE). *Pesachim* [[Pesachim 40#40a|40a]] mentions that even in Talmudic times, a בעל נפש (a person precise in the observance of the commandments) would not use wheat that had been stirred. The *Shulchan Aruch* (*Orach Chayim* 453:5) states that stirring wheat is "prohibited."
 [^39]: i.e., the fear is not that the wheat will become leavened while the bran is being removed, but rather, that after it has been removed, it will be left to become leavened.
 [^40]: Some authorities recommend more severe laws for wheat than for barley, but the Rambam equates the two.
 [^41]: One kernel of grain can create difficulties, for even the slightest amount of chametz that is mixed together with other foods causes them to be forbidden (Halachah 5 above).
@@ -195,13 +195,13 @@ Similarly, [with regard to] knives, the blade and the handle should be boiled in
 [^48]: Some ancient manuscripts of the *Mishneh Torah* include these two lines in the previous halachah, but all published texts follow this division.
 [^49]: Furthermore, as evident from Halachah 6:5, this verse also implies that the flour and the matzot made from it must be watched with the specific intent that they be used for the mitzvah of eating matzah on Pesach.  
     The above is the source for the practice of eating *shemurah matzah*, matzah made from grain which has been watched to ensure that it did not become chametz and prepared with the intent that it be used for the mitzvah of eating matzah. The use of such matzah during the Seder is an absolute requirement (*Shulchan Aruch, Orach Chayim* 460), and it is advisable to use it throughout the holiday.
-[^50]: [[Pesachim 40#40a|*Pesachim* 40a]] relates that Ravvah would tell the harvesters cutting wheat for Pesach: "Have the intent that this grain be used for the mitzvah of matzah."
+[^50]: *Pesachim* [[Pesachim 40#40a|40a]] relates that Ravvah would tell the harvesters cutting wheat for Pesach: "Have the intent that this grain be used for the mitzvah of matzah."
 [^51]: The chronicles of Jewish community life in both Eastern Europe and North Africa relate how the harvest of the wheat used for matzah was always begun at noontime, long after the morning dew had risen.
 [^52]: Based on the above passage from *Pesachim*, Rav Yitzchak Alfasi and the Rambam require that the grain be watched from the time of harvesting onward. Nevertheless, Rabbenu Asher follows a more lenient policy and does not require the wheat to be watched until it is ground. [Rabbenu Nissim explains that even Rav Yitzchak Alfasi only recommended watching the matzah from harvesting as a pious measure, and not as an absolute rule.]  
     The *Shulchan Aruch* (*Orach Chayim* 453:4) explains that it is preferable to use grain that has been watched from harvesting; as a minimum requirement, one must use grain that has been watched from the time it has been ground into flour. If there is no other alternative, one may buy flour in the marketplace and begin watching from the time the dough is kneaded.  
     The *Mishnah Berurah* clarifies the latter point explaining that where grain is washed or submerged in water before grinding it into flour, such grain may not be used for matzah. (This practice is still common in many communities.) In practice, most *shemurah matzah* made at present is watched from the time the grain was harvested.
 [^53]: However, before the grain is cut, no precautions are ordinarily necessary. Nevertheless, the *Shulchan Aruch* (*Orach Chayim* 467:5) mentions that if the wheat kernels have dried out and no longer need nurture from the land, they can become chametz.
-[^54]: [[Pesachim 40#40b|*Pesachim* 40b]] mentions a ship which sank carrying a cargo of wheat. After the ship was recovered, Ravvah allowed the wheat to be sold. From that example, we can derive concepts governing all instances where grain
+[^54]: *Pesachim* [[Pesachim 40#40b|40b]] mentions a ship which sank carrying a cargo of wheat. After the ship was recovered, Ravvah allowed the wheat to be sold. From that example, we can derive concepts governing all instances where grain
 [^55]: Rabbenu Manoach emphasizes that this halachah applies to wheat kernels that have not split open. Had they split open, a Jewish purchaser would immediately notice the fact and there would be no need to inform him.
 [^56]: Halachah 7 mentioned that one could stir wheat in water to remove the husks without it becoming chametz. Since the wheat was constantly being agitated, it would not become leavened. In contrast, this halachah contains a more stringent ruling, for the grain was left at rest (*Tzafnat Paneach*).
 [^57]: preferably
@@ -210,27 +210,27 @@ Similarly, [with regard to] knives, the blade and the handle should be boiled in
 [^60]: If he does not inform him, it would be forbidden to sell the chametz to him, lest he keep possession of it on Pesach, and thus violate the commandment against owning chametz.
 [^61]: Most texts of *Pesachim* (ibid.) read: "He should sell small amounts to Jews." Apparently, the Rambam's text of the Talmud did not contain that phrase. If a Jew knows that the grain has become leavened, he will surely take the necessary precautions so that it will not remain in his possession on Pesach.
 [^62]: The later authorities (see *Mishnah Berurah* 467:3) question what to do if large amounts of grain come into contact with water on Erev Pesach, when it is not possible for the gentile to consume the entire amount before Pesach. They advise that it be sold to a gentile who will surely sell it back to the Jew after the holiday.
-[^63]: Most texts of [[Pesachim 39#39b|*Pesachim* 39b]], the source for this law, read "flour" instead of "grain." Similarly, when quoting this law, the *Shulchan Aruch* (*Orach Chayim* 466:6) also states "flour."
+[^63]: Most texts of *Pesachim* [[Pesachim 39#39b|39b]], the source for this law, read "flour" instead of "grain." Similarly, when quoting this law, the *Shulchan Aruch* (*Orach Chayim* 466:6) also states "flour."
 [^64]: The dripping of the water agitates the grain and prevents it from becoming chametz.
 [^65]: However, the grain must be made into flour and baked immediately after being taken from under the leak. Otherwise, it will become leavened (*Shulchan Aruch*).
 [^66]: or the grain is moved
 [^67]: the time it takes a person to walk a *mil*, as explained in Halachah 13
-[^68]: [[Pesachim 48#48b|*Pesachim* 48b]] relates that dough will not become chametz as long as it is being kneaded. However, a large dough is hard to manage. Hence, our Sages restricted a dough's size to insure that women kneading it will be able to continually agitate the entire dough.  
+[^68]: *Pesachim* [[Pesachim 48#48b|48b]] relates that dough will not become chametz as long as it is being kneaded. However, a large dough is hard to manage. Hence, our Sages restricted a dough's size to insure that women kneading it will be able to continually agitate the entire dough.  
     The *Rokeach* mentioned that in his age, baking conditions had changed from Talmudic times. More people were involved in the process and the ovens were larger and baked matzot more quickly. Therefore, leniency was taken as regards the restriction of the size of the dough. However, the Shulchan Aruch HaRav and the *Mishnah Berurah* both recommend adhering to the former practice.
 [^69]: and a fifth eggs, as stated in the following halachah; approximately 73 fluid ounces, 9.125 cups, or 131.8 cubic inches in contemporary measure.
-[^70]: Rashi ([[Pesachim 42#42a|*Pesachim* 42a]]) relates that the position of the sun in the spring causes the temperature of well and spring water to rise. Hence, matzah may be kneaded
+[^70]: Rashi (*Pesachim* [[Pesachim 42#42a|42a]]) relates that the position of the sun in the spring causes the temperature of well and spring water to rise. Hence, matzah may be kneaded
 [^71]: been drawn [preferably, either slightly before or directly after sunset on the day before the matzot are to be baked (*Shulchan Aruch, Orach Chayim* 455:1)], and
 [^72]: types of water whose use the Sages forbade;
 [^73]: There is no debate about the prohibition against using hot water. However, with regard to the prohibition against using water drawn that day, the *Shulchan Aruch* (455:3) quotes the Rambam's opinion, but states that in a difficult situation, one may use matzah that was inadvertently kneaded with water that was not drawn on the previous day. The Ramah and the Ashkenazic authorities are more lenient and allow the use of such matzah in all situations.
 [^74]: lest the sun's heat speed up the leavening process.
-[^75]: [[Yoma 28#28b|*Yoma* 28b]] states: "a cloudy day is all sun; the heat of a cloudy day is more severe than that of a sunny day."  
+[^75]: *Yoma* [[Yoma 28#28b|28b]] states: "a cloudy day is all sun; the heat of a cloudy day is more severe than that of a sunny day."  
     The Ramah (*Orach Chayim* 459:1) mentions that it is customary not to knead near a window. The *Shulchan Aruch* states that the kneading area of a bakery should be distant from the baking area, so that the heat of the oven should not affect the dough.
 [^76]: The *Shulchan Aruch* adds "even for a moment."
 [^77]: the dough should not be left unattended. In his commentary on the Mishnah (*Pesachim* 3:4), the Rambam explains that preferably the preparation and baking of the matzah should be a speedy and uninterrupted process. See also the following halachah.
 [^78]: The Sages feared that her hands would become hot from the oven, and thus speed up the leavening process when she kneads the dough. Hence, they required that
 [^79]: the same water should not be used for both activities.
 [^80]: Before the matzot are placed in the oven, the woman baking them would dip her hands in cold water and smooth and shape the loaves.
-[^81]: from the heat of the oven. It must be noted that Rashi ([[Pesachim 42#42a|*Pesachim* 42a]]) maintains that the activity of kneading the dough itself heats up the hands. Thus, he requires that a woman dip her hands in water between doughs to cool off her hands, even when she is not baking. The *Shulchan Aruch* (459:3) follows Rashi's interpretation.
+[^81]: from the heat of the oven. It must be noted that Rashi (*Pesachim* [[Pesachim 42#42a|42a]]) maintains that the activity of kneading the dough itself heats up the hands. Thus, he requires that a woman dip her hands in water between doughs to cool off her hands, even when she is not baking. The *Shulchan Aruch* (459:3) follows Rashi's interpretation.
 [^82]: unless one can actually feel that the temperature of the dough has risen (*Magen Avraham* 559:15).
 [^83]: In these instances, the Sages did not feel that the leavening process would necessarily be speeded up if their instructions were not followed. Hence, בדיעבד (after the fact), they did not prohibit the use of matzot baked in this manner.
 [^84]: Rabbenu Manoach notes that the numerical equivalent of Challah (חלה) is also 43.
@@ -255,7 +255,7 @@ Similarly, [with regard to] knives, the blade and the handle should be boiled in
 [^99]: a clear sign the dough has become leavened, as stated in the previous halachah.
 [^100]: Nevertheless, since they both waited the same amount of time, we assume that a similar leavening process took place in both doughs. Hence,
 [^101]: behold, they are -- considered
-[^102]: [[Pesachim 37#37a|*Pesachim* 37a]] allows thin loaves to be made with designs. Commenting on this statement, the Ramah (Orach Chayim 460:4) suggests never making thick matzot for Pesach.
+[^102]: *Pesachim* [[Pesachim 37#37a|37a]] allows thin loaves to be made with designs. Commenting on this statement, the Ramah (Orach Chayim 460:4) suggests never making thick matzot for Pesach.
 [^103]: Rav Yitzchak ibn Giat writes that it was customary to make designs of fish, doves, and other animals.
 [^104]: However, there is no prohibition against making holes in their dough as is the common practice. On the contrary, this helps the matzah bake faster (*Shulchan Aruch*).
 [^105]: *Pesachim* (ibid.) records that Rabban Gamliel's household used such matzot, and hence was forced to make this differentiation.
@@ -263,9 +263,9 @@ Similarly, [with regard to] knives, the blade and the handle should be boiled in
     The *Mishnah Berurah* (*Orach Chayim* 460:14) forbids all designs, whether made by private people or professional bakers, whether on thick or thin loaves.
 [^107]: which will not require time.
 [^108]: Our Sages often instituted decrees uniformly, even though the reason for the decree did not apply in certain instances, lest people misinterpret the leniency and take total license.
-[^109]: The Mishnah ([[Pesachim 40#40b|*Pesachim* 40b]]) uses the expression "water used by a baker." In his commentary on the Mishnah, the Rambam defines that term as above.
+[^109]: The Mishnah (*Pesachim* [[Pesachim 40#40b|40b]]) uses the expression "water used by a baker." In his commentary on the Mishnah, the Rambam defines that term as above.
 [^110]: when shaping the dough or cooling off one's hands, as mentioned in Halachah 12.
-[^111]: See [[Pesachim 42#42a|*Pesachim* 42a]]. The Ramah (*Orach Chayim* 459:4) also gives instructions about cleaning the utensils used in preparing the matzah to ensure that no dough is allowed to remain stuck to them, and thus become chametz.
+[^111]: See *Pesachim* [[Pesachim 42#42a|42a]]. The Ramah (*Orach Chayim* 459:4) also gives instructions about cleaning the utensils used in preparing the matzah to ensure that no dough is allowed to remain stuck to them, and thus become chametz.
 [^112]: This halachah applies when matzah is prepared and baked after the prohibition against chametz has gone into effect (*Shulchan Aruch*). However, some later authorities (*Bach, Taz*) forbid such water to collect even beforehand.
 [^113]: The *Mishnah Berurah* 454:2 notes that there is a difference of opinion among halachic authorities if מורסן refers to the hard shell of the wheat kernels that falls off when the wheat is ground, or the soft shell, which is separated by sifting.
 [^114]: without supervision, in contrast to the following halachah.
@@ -279,7 +279,7 @@ Similarly, [with regard to] knives, the blade and the handle should be boiled in
 [^121]: for, like dough (see Halachah 13), as long as it is agitated
 [^122]: as in Halachah 16. This halachah also applies only after chametz has become forbidden. Even the authorities who follow a more stringent view than the Rambam allow leniency before the prohibitions against possessing chametz take effect.
 [^123]: The application of moist bran to skin renews the skin's natural moisture. Bran contains high quantities of Vitamin E and other natural cosmetics.
-[^124]: even though her skin is moist with sweat, without fear of it becoming chametz (Rashi, [[Pesachim 39#39b|*Pesachim* 39b]]). The *Shulchan Aruch* (*Orach Chayim* 465:2) forbids the practice entirely.
+[^124]: even though her skin is moist with sweat, without fear of it becoming chametz (Rashi, *Pesachim* [[Pesachim 39#39b|39b]]). The *Shulchan Aruch* (*Orach Chayim* 465:2) forbids the practice entirely.
 [^125]: for the spittle can cause the wheat to become leavened.
 [^126]: as a poultice
 [^127]: Rabbenu Manoach notes that the Rambam writes (*Hilchot Yesodai HaTorah* 5:8) that, when there is danger to life or limb, it is permissible to use all substances as remedies, even if it is forbidden to benefit from them. That halachah specifically states that a sick person may be given chametz to eat as a remedy.  
@@ -327,7 +327,7 @@ Similarly, [with regard to] knives, the blade and the handle should be boiled in
 [^160]: This process is referred to as הגעלה (purging) and is also used to prepare utensils that had been used for non-kosher food for kosher use. Thus, a similar description of this process is found in *Hilchot Ma'achalot Asurot* 17:4.  
     The basic principle governing the kashering of utensils is כבולעו כך פולטו - "In the same manner as a [forbidden substance] is absorbed [by a utensil], so, too, is it released." Thus, since these utensils were used in hot water, the process of boiling is employed to cause them to release any chametz they might have absorbed.
 [^161]: This phrase is taken from the *halachot* of Rav Yitzchak Alfasi. However, it is omitted in some of the Yemenite manuscripts of the *Mishneh Torah*. In practice, there is also debate about this issue. In his responsum, the Rashbah explains Rav Yitzchak Alfasi's view, stating that a person should leave the utensil submerged until he feels that all the absorbed chametz has been released. However, the *Tur* (*Yoreh De'ah* 121) and the *Pri Chadash* do not require waiting any substantial amount of time. Their view is accepted by the later authorities. (See *Shulchan Aruch HaRav, Orach Chayim* 452:4.)
-[^162]: in order to cleanse them of any forbidden matter that might remain on their surface (Rabbenu Manoach). The source for this requirement is the description ([[Zevachim 97#97a|*Zevachim* 97a]]) of the way the priests would purge the Temple pots used to cook the sin offerings after the previous day's service. Though some authorities do not require this stage, the *Shulchan Aruch HaRav* (452:5) states that it is customary to follow this practice.
+[^162]: in order to cleanse them of any forbidden matter that might remain on their surface (Rabbenu Manoach). The source for this requirement is the description (*Zevachim* [[Zevachim 97#97a|97a]]) of the way the priests would purge the Temple pots used to cook the sin offerings after the previous day's service. Though some authorities do not require this stage, the *Shulchan Aruch HaRav* (452:5) states that it is customary to follow this practice.
 [^163]: *Hilchot Ma'achalot Asurot* 17:7 states: "A person who acquires a knife from a gentile must burn it out in fire." A similar decision is rendered by the *Shulchan Aruch* (*Yoreh De'ah* 121:7). Nevertheless, the authorities suggest that chametz may be purged from knives by boiling. However, they do not permit this leniency in the following instances:  
     a) when the knives are rusty;  
     b) when they have serrated edges;  
@@ -340,14 +340,14 @@ Similarly, [with regard to] knives, the blade and the handle should be boiled in
 [^168]: See the explanation of the similar phrase in the previous halachah.
 [^169]: as explained in the previous halachah.
 [^170]: In contrast to utensils made of other substances, the process of הגעלה cannot remove the forbidden matter absorbed in the walls of an earthenware vessel. Instead of all the absorbed matter being purged at once, it is released a small amount at a time, and there will always be a certain quantity of the previous substance contained in its walls.  
-    [[Pesachim 30#30b|*Pesachim* 30b]] explains that this concept is derived from the Torah itself. [[Torah 25 - Tzav#^6-21|Leviticus 6:21]] states that any pot in which meat from a sin offering has been cooked must be broken. A sin offering can only be eaten for one day. Once that time has passed, the taste of the meat absorbed in the pot is considered as נותר (sacrificial meat which has been kept past its required time), and thus forbidden. Hence, the pot itself must be destroyed.
+    *Pesachim* [[Pesachim 30#30b|30b]] explains that this concept is derived from the Torah itself. [[Torah 25 - Tzav#^6-21|Leviticus 6:21]] states that any pot in which meat from a sin offering has been cooked must be broken. A sin offering can only be eaten for one day. Once that time has passed, the taste of the meat absorbed in the pot is considered as נותר (sacrificial meat which has been kept past its required time), and thus forbidden. Hence, the pot itself must be destroyed.
 [^171]: 
 [^172]: or as a כלי שני
 [^173]: whether they were glazed and coated with lead so that they became like glass -- i.e., china. Based on these principles, the authorities have stated that china can never be kashered. However, they have suggested certain leniencies when the china is very expensive.
 [^174]: As mentioned in Halachah 22, the Sages also forbade the use of ןוביל (exposing the utensil to fire), to remove chametz absorbed in most earthenware vessels, lest a person hesitate to expose them to the required heat out of fear that they would break. Thus, there is no way to prepare these utensils for Pesach use. Therefore,
 [^175]: There would be no halachic difficulty against using these dishes on Pesach for cold foods. Nevertheless, our Sages forbade their use entirely, lest a person err and use them for hot substances as well.
 [^176]: Though the taste of chametz is absorbed in the walls of these utensils, keeping them does not cause a person to violate the prohibition against possessing chametz on Pesach. Nevertheless, at present, when it is customary to sell chametz to gentiles, the Rabbis in charge of the sale usually sell this chametz as well.
-[^177]: This line was added to negate the opinion of Rav ([[Pesachim 30#30a|*Pesachim* 30a]]), who maintains that each Pesach, a person was required to destroy any earthenware vessels he possessed which were used for chametz while hot.
+[^177]: This line was added to negate the opinion of Rav (*Pesachim* [[Pesachim 30#30a|30a]]), who maintains that each Pesach, a person was required to destroy any earthenware vessels he possessed which were used for chametz while hot.
 [^178]: and hence must be kashered by boiling water inside of it, as explained in Halachah 23.
 [^179]: Thus, were he to boil water in the utensil itself, its entire top edge would not be exposed to the boiling water.
 [^180]: the utensil

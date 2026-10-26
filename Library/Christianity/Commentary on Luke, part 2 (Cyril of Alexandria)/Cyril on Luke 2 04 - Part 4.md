@@ -20,7 +20,7 @@ especially is fitting and due to them? Are we to pay no regard to those who are 
 
 For what good is there in such prodigal abundance beyond
 
-what necessity requires? For as Christ Himself somewhere said, “ Few things are needful, or one,” for the necessary ap- Luke x. 42. peasing of the wants of the body. That we may escape therefore the danger of losing the reward of our outlay, by expending our wealth in such pursuits as will bear good fruit, He has commanded us to invite the poor, and the maimed, and the blind, and those who are suffering under other bodily maladies; that - by our liberality in so doing, we may attain to the hope that
+what necessity requires? For as Christ Himself somewhere said, “ Few things are needful, or one,” for the necessary ap- [[Luke 10#^10-42|Luke x. 42]]. peasing of the wants of the body. That we may escape therefore the danger of losing the reward of our outlay, by expending our wealth in such pursuits as will bear good fruit, He has commanded us to invite the poor, and the maimed, and the blind, and those who are suffering under other bodily maladies; that - by our liberality in so doing, we may attain to the hope that
 
 cometh from above from God.
 
@@ -73,7 +73,7 @@ AGAIN, the purport of the lessons laid before us obliges me to say, that the fru
 
 ' unrewarded is the toil of the saints, as they strenuously labour to lead that life which is truly worthy of admiration both with God and men. For the wise Paul writes, “For God is not “ unrighteous to forget your labour and your love, which ye “ have shewed unto His Name.” And again in another place he uses similar words, “ For the lightness, he says, of our present “ affliction worketh for us abundantly and in a higher degree “ an eternal greatness of glory, when we look not at the things “ which are seen, but at those which are not seen; for the ae “ which are seen are those of time, but the thi ngs which are not ‘seen are for eternity.” For the things of time are those of
 
-BS. SovAov av-Tov S. Heb. vi.ro. 2 Cor. iv. 17.
+BS. SovAov av-Tov S. Heb. vi.ro. [[2 Corinthians 04#^4-17|2 Cor. iv. 17]].
 
 *[p. 485]* ^pg125
 
@@ -179,9 +179,9 @@ would have us to be. ‘For whosoever cometh unto Me, He “ says, and hateth no
 
 & The continuation of this passage in Mai does not belong to the commentary. It is little more than a string of texts to prove the duty of loving our relatives, and our own life also, that we may use it to Christ’s honour, and one or two expressions in it incline me to the Opinion that it belongs to the Ca-tenist himself. Part of it is given in Cramer anonymously, but the passage against suicide occurs again in the Aurea Catena, and is there ascribed to Cyril.
 
-3R2 Mat. v. 44.
+3R2 [[Matthew 05#^5-44|Mat. v. 44]].
 
-“For he Mat. x. 37.
+“For he [[Matthew 10#^10-37|Mat. x. 37]].
 
 *[p. 492]* ^pg132
 
@@ -195,7 +195,7 @@ blessings laid up in hope. Many too the fear of death has terrified, and when th
 
 And next He uses two examples, to encourage unto an invincible fortitude those who are His friends, and to establish in an unwavering zeal those whose desire it is to attain to honours by patience and endurance. “ For if, saith He, any one “ wish to build a tower, he reckoneth first if he have means “ sufficient to finish it, lest when he has laid the foundation, “and is not able to finish it, men laugh at him.” For those whose choice it is to lead a glorious and blameless life ought to store up beforehand in their mind a zeal sufficient thereunto, and to remember him who says, “ My son, if thou draw Ecelus.iir. “ near to serve the Lord, prepare thyself for every temptation: “ make thy heart straight, and endure.’ But those who have no such zeal, how will they be able to reach the mark that is set before them ?
 
-“ Or what king, He saith, wishing to make war with another “ king, doth not consider with himself, whether with his ten “ thousand he can prevail over one who is more mighty than “ himself??? And what does this mean? ‘ Our wrestle is not Eph. vi.12. “ against blood and flesh, but against governments; against “empires ; against the worldholders of this darkness; against “ wicked spirits in the heavenly regions.” We have too a crowd, as it were, of other enemies, the carnal mind, the law that rages in our members, passions of many kinds, the lust of pleasure, the lust of the flesh, the lust of wealth, and others: with these we must wrestle; this is our savage troop of enemies. How therefore shall we conquer? By believing that “in God we shall do valiantly, as Scripture saith, and He Ps. Ix. rz.
+“ Or what king, He saith, wishing to make war with another “ king, doth not consider with himself, whether with his ten “ thousand he can prevail over one who is more mighty than “ himself??? And what does this mean? ‘ Our wrestle is not [[Ephesians 06#^6-12|Eph. vi.12]]. “ against blood and flesh, but against governments; against “empires ; against the worldholders of this darkness; against “ wicked spirits in the heavenly regions.” We have too a crowd, as it were, of other enemies, the carnal mind, the law that rages in our members, passions of many kinds, the lust of pleasure, the lust of the flesh, the lust of wealth, and others: with these we must wrestle; this is our savage troop of enemies. How therefore shall we conquer? By believing that “in God we shall do valiantly, as Scripture saith, and He Ps. Ix. rz.
 
 shall bring to naught those that oppress us.” In this confidence one of the holy prophets said, ‘ Behold the Lord helpeth Ts. 1. 9.
 
@@ -223,7 +223,7 @@ The two parables then that follow close upon one another depict to us an image o
 
 *[p. 496]* ^pg136
 
-John iii.17.
+[[John 03#^3-17|John iii.17]].
 
 Ps. xlvii. 7.
 
@@ -266,9 +266,9 @@ a coin; and possibly the Syriac As the denarius and drachma were, tmeant nothing
 
 *[p. 499]* ^pg139
 
-That we then who had fallen, and, so to speak, been lost, have been found by Christ, and transformed by holiness and righteousness into His image, how can any one doubt, when the blessed Paul has thus written, “ But we all, with open face zCoriii.:s. “ beholding as in a mirror the glory of the Lord, are changed “into the same image, from glory to glory, as of the Lord the “ Spirit.’ And he sends to the Galatians also in these words, “ My children, of whom I am again in travail, until Christ is Gal. iv. 19. “ formed in you.”
+That we then who had fallen, and, so to speak, been lost, have been found by Christ, and transformed by holiness and righteousness into His image, how can any one doubt, when the blessed Paul has thus written, “ But we all, with open face zCoriii.:s. “ beholding as in a mirror the glory of the Lord, are changed “into the same image, from glory to glory, as of the Lord the “ Spirit.’ And he sends to the Galatians also in these words, “ My children, of whom I am again in travail, until Christ is [[Galatians 04#^4-19|Gal. iv. 19]]. “ formed in you.”
 
-A search then was made for that which had fallen, for which purpose the woman lighted a lamp. For we were found, as I said, by the wisdom of God the Father, Which is the Son, when the divine and intellectual light shone upon us, and the sun arose, and “ the day star ascended, and the day dawned,” 2 Pet. i-r9. according to the Scripture. For God also has somewhere said by one of the holy prophets of Christ the Saviour of us all, “ My righteousness quickly approacheth, and My mercy to be Is. Ixii. 1. “revealed, and My salvation shall burn as a lamp.” And ale saith of Himself, at one time, “I am the light of the world: ee viii. and again at another, “I am come a light into this world: he} John xii.46. a that followeth Me shall not walk in darkness, but shall “ possess the light of life.” By the light therefore that which was lost is saved, and there was joy thereby to the powers above. For they rejoice even in one sinner that repenteth, as He hath taught us Who knoweth all things. If they then keep festival over one who is saved, in unison altogether with the divine purpose, and laud with never-ceasing praises the Saviour’s gentleness, with how great joy must they be filled, when all beneath the heaven is saved, and called by faith in Christ to the acknowledgment of the truth, having put off the pollutions of sin, and loosed its neck from the bonds of death, and escaped from blame, even the blame of its wandering and fall! For all these things we gain in Christ: by Whom, and with Whom, to God the Father be praise and dominion with the Holy Ghost, for ever and ever, Amen.
+A search then was made for that which had fallen, for which purpose the woman lighted a lamp. For we were found, as I said, by the wisdom of God the Father, Which is the Son, when the divine and intellectual light shone upon us, and the sun arose, and “ the day star ascended, and the day dawned,” 2 Pet. i-r9. according to the Scripture. For God also has somewhere said by one of the holy prophets of Christ the Saviour of us all, “ My righteousness quickly approacheth, and My mercy to be Is. Ixii. 1. “revealed, and My salvation shall burn as a lamp.” And ale saith of Himself, at one time, “I am the light of the world: ee viii. and again at another, “I am come a light into this world: he} [[John 12#^12-46|John xii.46]]. a that followeth Me shall not walk in darkness, but shall “ possess the light of life.” By the light therefore that which was lost is saved, and there was joy thereby to the powers above. For they rejoice even in one sinner that repenteth, as He hath taught us Who knoweth all things. If they then keep festival over one who is saved, in unison altogether with the divine purpose, and laud with never-ceasing praises the Saviour’s gentleness, with how great joy must they be filled, when all beneath the heaven is saved, and called by faith in Christ to the acknowledgment of the truth, having put off the pollutions of sin, and loosed its neck from the bonds of death, and escaped from blame, even the blame of its wandering and fall! For all these things we gain in Christ: by Whom, and with Whom, to God the Father be praise and dominion with the Holy Ghost, for ever and ever, Amen.
 
 *[p. 500]* ^pg140
 
@@ -292,9 +292,9 @@ nified the holy angels, and we the dwellers upon earth: and that the elder one, 
 
 Prov. ix. 9.
 
-Luke xv. 7.
+[[Luke 15#^15-7|Luke xv. 7]].
 
-Luke ii. 10.
+[[Luke 02#^2-10|Luke ii. 10]].
 
 Jer. ii. 5.
 
@@ -370,7 +370,7 @@ John viii.
 
 12\.
 
-John xii.46.
+[[John 12#^12-46|John xii.46]].
 
 man, who had a steward, and they accused him of scattering his goods. And he called him, and said unto him, What is this that I hear of thee? Give up the account of thy stewardship: for thou canst be no longer steward. And the steward said within himself, What shall I do, for my lord taketh away from me the stewardship? I cannot . dig: and to beg Iam ashamed. Iam resolved what to do, that when Tam removed from the stewardship, they may receive me into their houses. So he called each one of his lord’s debtors, and said unto the first; How much owest thou unto my lord? And he said, A hundred baths of oil. And he said unto him, Take thy writing, and sit down, and write fifty quickly. And afterwards he spake to the second, And how muck owest thou? &lt;And he said, A hundred cors? of wheat. And he said unto him, Take thy writing, and write eighty. And the lord praised the unjust steward, because he had done wisely: for the children of this world are wise in their generation more than the children of light. And I say unto you, Make for yourselves friends of the unrighteous mammon: that when it has failed4 they may receive you into eternal tabernacles.
 
@@ -434,11 +434,11 @@ the eye of the mind on what will be hereafter; if we remember
 
 *[p. 510]* ^pg150
 
-2Cor. v. 10.
+[[2 Corinthians 05#^5-10|2Cor. v. 10]].
 
-Mat. x. 40.
+[[Matthew 10#^10-40|Mat. x. 40]].
 
-Mat. x. 42.
+[[Matthew 10#^10-42|Mat. x. 42]].
 
 the sacred Scripture, which says plainly, ‘that we shall all be “‘ manifested before the judgment seat of Christ, that each one “ may receive retribution for the things done by means of the “ body, according to that he hath done, whether good or bad;” if we fear the cruel and unappeasable flame; to remember God, Who requires us to shew mercy upon the brethren, to suffer with those that are sick, to open our hand wide to those that are in need, and to honour the saints, of whom Christ says, “ He that receiveth you receiveth Me: and he that receiveth “ Me, receiveth Him That sent Me.” For that mercy towards the brethren is not without profit and benefit, the Saviour Himself teaches us, saying; ‘“ Whosoever shall give only: a “cup of cold \[water\] to drink in the name of a disciple, shall “ not lose his reward.” For the Saviour of all is bounteous in giving: by Whom and with Whom to God the Father be praise and dominion, with the Holy Ghost, for ever and ever, Amen.
 
@@ -460,7 +460,7 @@ t The Syriac, like the Semitic says in bis 2nd Ep. ad Cor. 8. Aéyet languages g
 
 *[p. 512]* ^pg152
 
-said will become very evident. Christ then was teaching the rich to feel especial delight in shewing kindness to the poor, and in opening their hand to whoever are in need, so laying up treasures in heaven, and taking forethought for the riches that are in store. For He said, “Make for yourselves friends of “ the unrighteous mammon: that when it has failed, they may “receive you into eternal tabernacles.” But as being God by nature, He well knew the slothfulness of the human mind in every earnest and good work. It escaped not His knowledge, that men, in their greediness after wealth, giving up their mind to the love of lucre, and being tyrannized over by this passion, become hard-hearted and unsympathizing with affliction, and shew no kindness whatsoever to the poor, even though they have heaped up much wealth in their stores. That those therefore who are thus minded, have no share in God’s spiritual gifts, He shews by most evident examples, and says, “He that is faithful in little, is faithful also in ‘much: and he that is unjust in little, is unjust also ‘in “ much.” O Lord, explain unto us the meaning: open Thou the eye of our heart. Listen therefore while He explains clearly and exactly what He said. ‘If therefore ye have not “ been faithful in the unrighteous mammon, who will give you “the true?” The little therefore is the unrighteous mammon: that is, worldly wealth, gathered often by extortion and covetousness. But those who know how to live virtuously, and thirst after the hope that is in store, and withdraw their mind from earthly things, and think rather of those things that are above, utterly disregard earthly wealth; for it offers nothing but pleasures, and voluptuousness, and base carnal lusts, and splendour that profiteth not, but is transitory and vain. And 1Jobnii.16. so one of the holy apostles teaches us, saying, “ That all that is ‘in the world is the lust of the flesh, and the lust of the eyes, “ and the pride of the world.” But such things as these are absolutely nothing to those who lead a sober and virtuous life : for they are trifling, and temporary, and full of impurity, and .provocative of the fire and judgment, and scarcely reaching to the end of the.life of the body, even if they do not, when any danger suddenly befalls those that possess them, unexpectedly de- ‘part away. Christ’s disciple therefore rebukes the rich, saying, James v. 1. “ Come now, yo rich men, weep, and lament over the miscries
+said will become very evident. Christ then was teaching the rich to feel especial delight in shewing kindness to the poor, and in opening their hand to whoever are in need, so laying up treasures in heaven, and taking forethought for the riches that are in store. For He said, “Make for yourselves friends of “ the unrighteous mammon: that when it has failed, they may “receive you into eternal tabernacles.” But as being God by nature, He well knew the slothfulness of the human mind in every earnest and good work. It escaped not His knowledge, that men, in their greediness after wealth, giving up their mind to the love of lucre, and being tyrannized over by this passion, become hard-hearted and unsympathizing with affliction, and shew no kindness whatsoever to the poor, even though they have heaped up much wealth in their stores. That those therefore who are thus minded, have no share in God’s spiritual gifts, He shews by most evident examples, and says, “He that is faithful in little, is faithful also in ‘much: and he that is unjust in little, is unjust also ‘in “ much.” O Lord, explain unto us the meaning: open Thou the eye of our heart. Listen therefore while He explains clearly and exactly what He said. ‘If therefore ye have not “ been faithful in the unrighteous mammon, who will give you “the true?” The little therefore is the unrighteous mammon: that is, worldly wealth, gathered often by extortion and covetousness. But those who know how to live virtuously, and thirst after the hope that is in store, and withdraw their mind from earthly things, and think rather of those things that are above, utterly disregard earthly wealth; for it offers nothing but pleasures, and voluptuousness, and base carnal lusts, and splendour that profiteth not, but is transitory and vain. And 1Jobnii.16. so one of the holy apostles teaches us, saying, “ That all that is ‘in the world is the lust of the flesh, and the lust of the eyes, “ and the pride of the world.” But such things as these are absolutely nothing to those who lead a sober and virtuous life : for they are trifling, and temporary, and full of impurity, and .provocative of the fire and judgment, and scarcely reaching to the end of the.life of the body, even if they do not, when any danger suddenly befalls those that possess them, unexpectedly de- ‘part away. Christ’s disciple therefore rebukes the rich, saying, [[James 05#^5-1|James v. 1]]. “ Come now, yo rich men, weep, and lament over the miscries
 
 *[p. 513]* ^pg153
 
@@ -472,11 +472,11 @@ But .in what way men may become faithful, the Saviour Himself next taught us: an
 
 *[p. 514]* ^pg154
 
-1 Tim. vi. 7.
+[[1 Timothy 06#^6-7|1 Tim. vi. 7]].
 
 Job i, 21.
 
-Eph. ii. 10.
+[[Ephesians 02#^2-10|Eph. ii. 10]].
 
 not conforming ourselves to the will of God, and bestow the best portion of ourselves upon our pleasures and our boasts, how can we receive from Him that which is true? And what is this? The abundant bestowal of those divine gifts which adorn man’s soul, and form in it a godlike beauty. This is the spiritual wealth, not that fattens the flesh, which is held by death, but rather that saves the soul, and makes it worthy of emulation, and honourable before God, and that wins for it true praises.
 
@@ -532,7 +532,7 @@ Mat. xxiii.
 
 PRs
 
-Gal. iv. 26.
+[[Galatians 04#^4-26|Gal. iv. 26]].
 
 Prov. v. 22.
 
@@ -550,7 +550,7 @@ do good, are irritated the more, and grow angry, however
 
 gently treated by the art: so also those passions to which the souls of men are liable, are sometimes obdurate, and refuse to listen to admonition, and will not hear a single word that summons them to depart from evil, and directs them into a better course. And as horses that are hard-mouthed and unmanageable, and excessively spirited will not obey the reins; so also the mind of man when under the influence of passion, and thoroughly inclined to turn aside unto evil, is disobedient and intractable, and rejects with hatred the being healed.
 
-When therefore the Saviour of all had expended upon them many words, but saw that they would not change from their crafty purposes and passions, but preferred rather to abide in their innate folly, He betakes Himself at leugth to sterner reproofs, the very occasion calling them thereto. He shews therefore that they are hypocrites, and liers in wait among the altars\*, and eager after the glory due to righteous and good men, without being such in reality: not being in earnest in meriting the approval of God, but hunting on the contrary eagerly after the honours which come from men. He said therefore, “Ye are “they which justify yourselves before men ; but God knoweth “ your hearts: for that which is high among men, is an abomi- “ nation before God.” This He is found also in another place saying unto them; ‘ How can ye believe, who receive honour John v. 44. ‘ one of another, and seek not the honour that cometh from “ the one God.” For the God of all crowns with praises unto righteousness those who are truly good: but those who love not virtue, but are hypocrites, steal perchance by their own votes solely the reputation of being honourable. But no one, O worthy sirs, some perchance may say, crowns himself; and the man is justly ridiculed, who devises praises for himself: for it is written, “ Let thy neighbour praise thee, and not thy Prov.xxvii. “ own mouth: a stranger, and not thy own lips.” But though \* hypocrites may be able possibly to remain undetected, and seize the honours which men bestow, “ yet God, He says,
+When therefore the Saviour of all had expended upon them many words, but saw that they would not change from their crafty purposes and passions, but preferred rather to abide in their innate folly, He betakes Himself at leugth to sterner reproofs, the very occasion calling them thereto. He shews therefore that they are hypocrites, and liers in wait among the altars\*, and eager after the glory due to righteous and good men, without being such in reality: not being in earnest in meriting the approval of God, but hunting on the contrary eagerly after the honours which come from men. He said therefore, “Ye are “they which justify yourselves before men ; but God knoweth “ your hearts: for that which is high among men, is an abomi- “ nation before God.” This He is found also in another place saying unto them; ‘ How can ye believe, who receive honour [[John 05#^5-44|John v. 44]]. ‘ one of another, and seek not the honour that cometh from “ the one God.” For the God of all crowns with praises unto righteousness those who are truly good: but those who love not virtue, but are hypocrites, steal perchance by their own votes solely the reputation of being honourable. But no one, O worthy sirs, some perchance may say, crowns himself; and the man is justly ridiculed, who devises praises for himself: for it is written, “ Let thy neighbour praise thee, and not thy Prov.xxvii. “ own mouth: a stranger, and not thy own lips.” But though \* hypocrites may be able possibly to remain undetected, and seize the honours which men bestow, “ yet God, He says,
 
 x In the Greek Bwpoddxous: i.e. “ gulosos victimarum appetitores,”’ persons capable of committing any Just above he translates oxépparea meanness for gain; the Syriac trans- by cogitationes, but its employment lation has at least the merit of being in many other places justifies the literal, which Mai’s wants, though sense given it in the Syriac of equally curious; for he renders it ‘tricks,’ ‘artifices.’
 

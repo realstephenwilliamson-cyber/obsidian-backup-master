@@ -27,7 +27,7 @@ buddhiṃ paśyati sā vidyā buddhidarpaṇacāriṇaḥ || ^iast
 > [!source] Dyczkowski, vol. VI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)/Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#^pg181|p. 164]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 06.pdf#page=181>))
 >
-> (vit) is generated (within it) from that (Force (of limited agency)). (with 9.191cd–192ab)
+> It is not possible for a (soul) devoid of consciousness (ajña) to possess the capacity to act, (even if its capacity to do so is) qualified (in this way) as limited (agency). Thus, a limited form of cognitive consciousness (vit) is generated (within it) from that (Force (of limited agency)). (with 9.191cd–192ab)
 >
 > That (limited) cognitive consciousness (vidyā) observes the intellect, and therein distinctly discerns (vivinakti) the perceptions (pratyaya) of pleasure and those of delusion etc., according to their own nature, present within the mirror of the intellect, along with (the series) of causes (i.e. the gross elements and senses), (their) effects and interconnected network of actions (karman). (with 9.192cd–193)
 

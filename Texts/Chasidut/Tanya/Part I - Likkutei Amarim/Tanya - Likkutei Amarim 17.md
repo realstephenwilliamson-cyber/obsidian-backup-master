@@ -39,14 +39,14 @@ But when his heart breaks within him, and the spirit of uncleanliness and of the
 [^1]: [[Torah 51 - Nitzavim#^30-14|Deuteronomy 30:14]].
 [^2]: Maimonides, *Hilchot Yesodei HaTorah*, ch. 9; *Hilchot Teshuvah* 3:8; Commentary on the Mishnah, *Sanhedrin*, ch. 10.
 [^3]: Hence it could not refer to the time of Moses only, but must hold good for our time as well.
-[^4]: [[Berakhot 33#33b|*Berachot* 33b]]; [[Megillah 25#25a|*Megillah* 25a]].
+[^4]: *Berachot* [[Berakhot 33#33b|33b]]; *Megillah* [[Megillah 25#25a|25a]].
 [^5]: *Bereishit Rabbah* 34:11; 67:7.
 [^6]: [[Torah 45 - Vaetchanan#^7-11|Deuteronomy 7:11]].
-[^7]: [[Eruvin 22#22a|*Eruvin* 22a]].
+[^7]: *Eruvin* [[Eruvin 22#22a|22a]].
 [^8]: See above, note 5.
-[^9]: [[Berakhot 18#18b|*Berachot* 18b]].
+[^9]: *Berachot* [[Berakhot 18#18b|18b]].
 [^10]: [[Psalms 051#^51-18|Psalms 51:18]].
 [^11]: Rabbi Moses Zacuto (1625-1697).
 [^12]: Referring to the second letter *hey* of the Name of *Havaya*. *Teshuvah* (spelled תשוב-ה) implies the return of the *hey*. Cf. *Iggeret Hateshuvah*, chs. 4, 7, 8.
-[^13]: [[Megillah 29#29a|*Megillah* 29a]].
+[^13]: *Megillah* [[Megillah 29#29a|29a]].
 [^14]: Edom is here understood allegorically as the embodiment of evil.

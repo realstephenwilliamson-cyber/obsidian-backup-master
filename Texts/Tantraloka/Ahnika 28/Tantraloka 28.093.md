@@ -29,7 +29,7 @@ pātrābhāve punarbhadraṃ vellitāśuktimeva ca || ^iast
 >
 > Then (once that has been done), the most excellent adept (sādhaka) should spread there before them many kinds of (fine) snacks, along with meat and fish etc., until they are satisfied. (with 28.92cd–93ab)
 >
-> Again, if there is no sacrificial vessel, the wise man should (display the ritual gestures – mudrā called the) ‘Auspicious One’ and ‘Entwined Oyster Shell’ (vellitāśukti), formed into a vessel (that serves as a substitute). This is the sequence (krama) (taught) in the Siddhāmata.’ (with 28.93cd–94ab)
+> Again, if there is no sacrificial vessel, the wise man should (display the ritual gestures – mudrā called the) ‘Auspicious One’ and ‘Entwined Oyster Shell’ (vellitāśukti), formed into a vessel (that serves as a substitute). This is the sequence (krama) (taught) in the Siddhāmata. (with 28.93cd–94ab)
 
 ## Viveka
 

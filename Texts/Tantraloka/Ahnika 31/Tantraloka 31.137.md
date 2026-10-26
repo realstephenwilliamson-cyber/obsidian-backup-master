@@ -27,7 +27,7 @@ lopayeccaiva marmāṇi antarnāḍivivarjitān || ^iast
 > [!source] Dyczkowski, vol. XI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)/Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#^pg139|p. 121]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 11.pdf#page=139>))
 >
-> ‘O fair lady, (the teacher) should (now) delete progressively in the four directions, from the outside to the inside, intersections (marman) (i.e. squares, numbering the nine) cavities (of the body), (the seven) Brahmin (sages), (the five) arrows (of the God of Love), and (the three sacred) fires, beginning from the middle, and delete in (the sides of) the doors squares (numbering the three sacred) fires, (five) gross elements, (seven) sages, and (nine) voids (of the body), from outside to inside, within the fortresses."? (with 31.136–137abc)
+> ‘O fair lady, (the teacher) should (now) delete progressively in the four directions, from the outside to the inside, intersections (marman) (i.e. squares, numbering the nine) cavities (of the body), (the seven) Brahmin (sages), (the five) arrows (of the God of Love), and (the three sacred) fires, beginning from the middle, and delete in (the sides of) the doors squares (numbering the three sacred) fires, (five) gross elements, (seven) sages, and (nine) voids (of the body), from outside to inside, within the fortresses.’ (with 31.136–137abc)
 >
 > ‘(Then beginning from) the inside, (he should remove), in the corners of the walls (prākāra) of the doors, with the exception of the inner threads (nādivivarjitān), (squares numbering the two) eyes, (three sacred) fires, (five) arrows, and (the six) seasons.’ (with 31.137d–138ab)
 

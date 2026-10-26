@@ -20,17 +20,13 @@ nyasa: "left ear (*karṇa*), as ū"
 ## Front
 
 - **Glyph:** ◌ू
-- **Variation:** —
 - **Example:** मूल
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘m<u>oo</u>d’
-- **Class (as printed):** 5 (labial) · long, soft · simple vowel
-- **Note (no printed label):** Abbreviation - used only after a consonant
-- **Grid:** the vowel signs ा ि ी ु ू / े ै ो ौ; in bold: ू
-- **Example:** mūla (root)
+> [!note]- Back
+> - **Pronunciation:** As in ‘m<u>oo</u>d’
+> - **Class:** labial · long, soft · simple vowel
+> - ा ि ी ु <u>ू</u> / े ै ो ौ
+> - **Example:** mūla (root)
 
 ## Register
 

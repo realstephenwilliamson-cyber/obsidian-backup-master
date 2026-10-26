@@ -207,19 +207,19 @@ This is the general principle: Any factor that does not disqualify a burnt offer
 [^7]: I.e., the money is used to buy animals that are offered as burnt-offerings at a time when the altar is free [the Rambam's Commentary to the Mishnah (*Shekalim* 4:4)].
 [^8]: *Hilchot Ma'aseh HaKorbanot* 1:15. Since they are male, there are no offspring.
 [^9]: *Hilchot Temurah* 1:1.
-[^10]: In his Commentary to the Mishnah (*Temurah* 2:2), the Rambam cites [[Bava Batra 115#115b|*Bava Batra* 115b]] which states that an entire tribe will not die and states that how much more so does this apply to the entire Jewish people.
+[^10]: In his Commentary to the Mishnah (*Temurah* 2:2), the Rambam cites *Bava Batra* [[Bava Batra 115#115b|115b]] which states that an entire tribe will not die and states that how much more so does this apply to the entire Jewish people.
 [^11]: Sacrificed by the High Priest as atonement for his household and for the entire priestly family. *Hilchot Avodat Yom HaKippurim* 1:1; 4:1
 [^12]: The pair of the goat sent to Azazel. This goat is offered as a sin-offering, for the entire Jewish people (*ibid.*).
 [^13]: The wording used by the Rambam literally means "the proceeds should fall to a freewill offering." In his Commentary to the Mishnah (*Temurah* 3:3, Rav Kapach's edition), the Rambam explains the meaning of that phrase. There were thirteen chests shaped like *shofarot* in the Temple. Six of them were for money to be used for freewill offerings (see *Hilchot Shekalim* 2:2). The money from such a sale would be deposited in one of these chests.
 [^14]: See *Hilchot Shegagot* 12:1.
 [^15]: For as stated in the following halachah, it is preferable that the animals originally set aside as sin-offerings be offered for that purpose instead of their replacements.
-[^16]: Since he took one without questioning what should be done with the second, it is obvious that he consciously rejected the second one and is not concerned with its future. Hence it should be consigned to death (Rashi, [[Temurah 23#23a|*Temurah* 23a]]).  
+[^16]: Since he took one without questioning what should be done with the second, it is obvious that he consciously rejected the second one and is not concerned with its future. Hence it should be consigned to death (Rashi, *Temurah* [[Temurah 23#23a|23a]]).  
     This ruling reflects a reversal in the Rambam's thinking. Originally [i.e., in the first version of his Commentary to the Mishnah (*Temurah* 4:3)], he accepted the opinion of Rav Abba who made his statements in the name of Rav. According to that view, if he sacrificed the animal that was set aside originally, the second animal that was set aside need not be consigned to death. He later changed his mind (see Rav Kapach's version of the Commentary to the Mishnah; see also the gloss of *Tosafot Yom Tov* to *Temurah, loc. cit.*) and amended his text to read as above.
 [^17]: And thus shows that he is concerned about the fate of the other animal. Accordingly, it is not consigned to death.
 [^18]: See Chapter 5, Halachah 9.
 [^19]: And the proceeds used for freewill offerings as above.
 [^20]: The act that brings about atonement.
-[^21]: This follows the opinion of Rabbi Eliezar ben Shimon ([[Temurah 24#24a|*Temurah* 24a]]) who maintains that once the owner receives atonement, it becomes forbidden to benefit from the second animal even if the second animal was already slaughtered. The *Kessef Mishneh* states that it is unlikely the Rambam accepted this view when it is opposed by the majority of the Sages. Hence he suggests amending the text to read: "If, [after it was redeemed,] the blemished one was slaughtered before the blood of the unblemished one was cast [upon the altar], it is permitted. [If it was slaughtered] after [the blood of the first] was cast upon the altar, it is forbidden to benefit from [the blemished one]."
+[^21]: This follows the opinion of Rabbi Eliezar ben Shimon (*Temurah* [[Temurah 24#24a|24a]]) who maintains that once the owner receives atonement, it becomes forbidden to benefit from the second animal even if the second animal was already slaughtered. The *Kessef Mishneh* states that it is unlikely the Rambam accepted this view when it is opposed by the majority of the Sages. Hence he suggests amending the text to read: "If, [after it was redeemed,] the blemished one was slaughtered before the blood of the unblemished one was cast [upon the altar], it is permitted. [If it was slaughtered] after [the blood of the first] was cast upon the altar, it is forbidden to benefit from [the blemished one]."
 [^22]: See Chapter 5, Halachah 3.
 [^23]: Since the third animal does not have a direct connection with the first, the fact that the owner received atonement through the sacrifice of the first does not cause the third to be consigned to death.
 [^24]: For the same reason as stated in the previous note.
@@ -232,10 +232,10 @@ This is the general principle: Any factor that does not disqualify a burnt offer
 [^31]: According to the Rambam (see his Commentary to the Mishnah (*Temurah* 4:1-2), the determining factor is whether the animal was discovered before atonement is achieved or not. Only when it is lost at the time of atonement is it consigned to death.
 [^32]: In which instance, there is room to say that it should not be consigned to death, because perhaps it was already disqualified as a sacrifice at the time the other animal was offered. Even in such a situation, however, it is consigned to death.
 [^33]: As mentioned in Halachah 1, the laws applying to the consignment of an animal designated as a sin-offering to death are part of the Oral Tradition conveyed to Moses at Sinai. And all that was mentioned in that tradition was an animal that was lost.
-[^34]: [[Temurah 22#22b|*Temurah* 22b]] explains that this is the meaning of *ikar* in this instance.
+[^34]: *Temurah* [[Temurah 22#22b|22b]] explains that this is the meaning of *ikar* in this instance.
 [^35]: Because at the time it was lost, it was not fit to be sacrificed, since sacrifices are not offered at night.
 [^36]: As long as one - the owner or the shepherd - knows of the animal's existence, it cannot truly be considered as lost.
-[^37]: [[Temurah 22#22b|*Temurah* 22b]] leaves this question unresolved. Significantly, in his Commentary to the Mishnah (*Temurah* 4:1), the Rambam writes that as long as one person knows of the animal's existence, it is not consigned to death.
+[^37]: *Temurah* [[Temurah 22#22b|22b]] leaves this question unresolved. Significantly, in his Commentary to the Mishnah (*Temurah* 4:1), the Rambam writes that as long as one person knows of the animal's existence, it is not consigned to death.
 [^38]: As stated in Halachah 1.
 [^39]: *Hilchot Ma'aseh HaKorbanot* 3:5. A sin-offering for a man, by contrast, should not be brought unless he is present to perform *semichah* upon it. Although, after the fact, the sacrifice is acceptable if *semichah* is not performed, as an initial preference, one should not offer it unless that rite could be performed.
 [^40]: The situations under which a person is required to bring such a sacrifice are described in *Hilchot Ma'aseh HaKorbanot* 1:6.
@@ -254,12 +254,12 @@ This is the general principle: Any factor that does not disqualify a burnt offer
 [^53]: Instead of a bull as required.
 [^54]: So that they would be sacrificed for the stated purpose.
 [^55]: In which instance, they would have to be sold and the proceeds used to purchase a sacrifice.
-[^56]: The rationale is that, as stated in *Hilchot Temurah* 1:21, when an error was made in consecrating an animal as a sin-offering, it is not consecrated at all. The Ra'avad objects to this ruling based on [[Temurah 19#19b|*Temurah* 19b]]-20a, but states that there is a way to resolve the Rambam's perspective. The *Kessef Mishneh* recognizes the difficulty in the Rambam's ruling and also offers a possible resolution.
+[^56]: The rationale is that, as stated in *Hilchot Temurah* 1:21, when an error was made in consecrating an animal as a sin-offering, it is not consecrated at all. The Ra'avad objects to this ruling based on *Temurah* [[Temurah 19#19b|19b]]-20a, but states that there is a way to resolve the Rambam's perspective. The *Kessef Mishneh* recognizes the difficulty in the Rambam's ruling and also offers a possible resolution.
 [^57]: Which must be brought when he is in doubt of whether he inadvertently committed a sin that would make him liable for a sin-offering,
 [^58]: In which instance he would not have to bring a sacrifice at all.
 [^59]: In which instance, he would have to bring a sin-offering instead.
 [^60]: I.e., since it was consecrated, it should be used for the purchase of a sacrifice. It cannot, however, be sacrificed as a guilt-offering, because the person is not obligated to bring such a sacrifice.
-[^61]: I.e., since it was consecrated conditionally - i.e., because he might have sinned - when he discovers that he did not, there is room to say that the consecration is not binding. Indeed, [[Keritot 23#23b|*Keritot* 23b]] mentions an opinion to that effect. The Rambam does not, however, accept this view for the reasons stated.
+[^61]: I.e., since it was consecrated conditionally - i.e., because he might have sinned - when he discovers that he did not, there is room to say that the consecration is not binding. Indeed, *Keritot* [[Keritot 23#23b|23b]] mentions an opinion to that effect. The Rambam does not, however, accept this view for the reasons stated.
 [^62]: I.e., he had no suspicions that he sinned, but witnesses told him that he performed an action that could have involved a transgression, e.g., he ate a piece of meat that could possible have contained an olive-sized portion of forbidden fat.
 [^63]: *Hazamah* refers to a situation in which other witnesses disqualify the witnesses who testified previously by stating that it was impossible for their testimony to be true, for the witnesses were together with them in a different place at the time the transgression mentioned in their testimony was performed (*Hilchot Edut* 18:2).  
     Here, also, there is room to say that the person consecrated the animal in error. Nevertheless, the rationale given previously applies in this instance as well.
@@ -290,7 +290,7 @@ This is the general principle: Any factor that does not disqualify a burnt offer
 [^88]: I.e., he was purifying himself from *tzara'at* or atoning for becoming impure while a nazirite.
 [^89]: As is obligated for the other types of guilt-offerings.
 [^90]: E.g., a nazirite must wait seven days after becoming impure to offer his sacrifice and a person who was purified from *tzara'at* must wait eight days. If these individuals sought to offer these sacrifices before this time came, they are unaceeptable.
-[^91]: We have translated the term used by the Rambam according to its halachic intent. The literal meaning is that it should be left long enough to decompose until it loses the appearance of meat. Our Sages (see [[Pesachim 34#34b|*Pesachim* 34b]], *et al*; Rashi, [[Menachot 46#46b|*Menachot* 46b]]) understood that as being a twenty-four hour period.
+[^91]: We have translated the term used by the Rambam according to its halachic intent. The literal meaning is that it should be left long enough to decompose until it loses the appearance of meat. Our Sages (see *Pesachim* [[Pesachim 34#34b|34b]], *et al*; Rashi, *Menachot* [[Menachot 46#46b|46b]]) understood that as being a twenty-four hour period.
 [^92]: Chapter 15, Halachah 1. A sin-offering, by contrast, is unacceptable if slaughtered with the intent that it was another sacrifice.
 [^93]: When he completes his nazirite vow, as stated in [[Torah 35 - Nasso#^6-14|Numbers 6:14]]; *Hilchot Nizirut* 8:1.
 [^94]: The obligation for a woman to bring a burnt-offering after childbirth is mentioned in [[Torah 27 - Tazria#^12-6|Leviticus 12:6]]; *Hilchot Mechusrei Kapparah* 1:3..

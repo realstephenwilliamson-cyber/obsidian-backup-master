@@ -20,17 +20,14 @@ nyasa: "ga: right hand (*kara*) · ṛ: right nostril (*nāsā*)"
 ## Front
 
 - **Glyph:** गृ
-- **Variation:** —
 - **Example:** गृह
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** As in ‘gṛha’ (home)
-- **Class (as printed):** short syllable
-- **root:** ‘to grasp/hold’
-- **Grid:** a row of vowel signs (◌ृ ◌ॄ) above the five rows of stops + य र ल व + श ष स ह; in bold: ◌ृ, ग
-- **Example:** gṛha (home)
+> [!note]- Back
+> - **Pronunciation:** As in ‘gṛha’ (home)
+> - **root:** ‘to grasp/hold’
+> - **Class:** short syllable
+> - <u>ृ</u> ॄ / क ख <u>ग</u> घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / य र ल व / श ष स ह
+> - **Example:** gṛha (home)
 
 ## Register
 

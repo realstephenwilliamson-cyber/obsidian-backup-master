@@ -27,7 +27,7 @@ sudhācchedakaṣaṇṭhādyairbījaṃ chedakamasvaram || ^iast
 > [!source] Dyczkowski, vol. XI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)/Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#^pg56|p. 38]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 11.pdf#page=56>))
 >
-> MAHĀCAṆDṬAYOGEŚV followed by R, as the eighth syllable. according to the venerable Dāmara Mahāyāga, this is the nine-syllabled (Vidyā) which most secret, (is called) ‘the essence’ and Kālakarṣiṇī, arisen from the Supreme beyond the Supreme.’ (with 30.54–55ab)
+> MAHĀCAṆDṬAYOGEŚV followed by R, as the eighth syllable. according to the venerable Dāmara Mahāyāga, this is the nine-syllabled (Vidyā) which most secret, (is called) ‘the essence’ and Kālakarṣiṇī, arisen from the Supreme beyond the Supreme. (with 30.54–55ab)
 >
 > !Wine (S), the Divider (K), the first of the neuter vowels (r), the Divider (K) without a vowel = this is (the Vidyā) of one and a half syllables (called) Kālarātri (the Dark Night) and Kṣurikā (the Razor), (taught) in Mālinīmata. By repeating it one hundred times one gets a headache. Observing this sign (pratyaya) (of its efficacity, the practitioner) should take recourse to visualizing Mrtyujit (Śiva, the Conqueror of Death) (to counter its effects). O goddess, he who wishes to live a long time should not utter itt (with 30.55cd–57)
 

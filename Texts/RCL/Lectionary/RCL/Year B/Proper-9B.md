@@ -11,6 +11,7 @@ second_reading: "2 Corinthians 12:2-10"
 gospel: "Mark 6:1-13"
 first_reading_complementary: "Ezekiel 2:1-5"
 psalm_complementary: "Psalm 123"
+psalm_bcp_complementary: "Psalm 123"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-9]]"
 cssclasses:

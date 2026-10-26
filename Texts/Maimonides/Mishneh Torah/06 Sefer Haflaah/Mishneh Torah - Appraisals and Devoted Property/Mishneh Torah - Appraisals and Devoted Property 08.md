@@ -98,16 +98,16 @@ If one designated landed property as a dedication offering for the priests in th
 [^2]: There is a certain lack of clarity in the Rambam's words. For the donation of the half-*shekel* that was announced and collected in the month of Adar was for the sake of the communal offerings (*Hilchot Shekalim* 4:10).
 [^3]: See Chapter 3, Halachah 14.
 [^4]: A second opinion is always valuable lest one person err and a third is necessary, lest the two differ. None of the three is required to be a priest (Radbaz).
-[^5]: [[Megillah 23#23b|*Megilah* 23b]] derives this from the fact that Leviticus, ch. 27, mentions the word "priest" ten times when speaking of all of these types of evaluations.
+[^5]: *Megilah* [[Megillah 23#23b|23b]] derives this from the fact that Leviticus, ch. 27, mentions the word "priest" ten times when speaking of all of these types of evaluations.
 [^6]: It is not, however, necessary that all ten be priests (*Megilah, loc. cit.*).
 [^7]: In such an instance, the person - or his limb's - worth is evaluated like a servant being sold in the marketplace. Based on [[Torah 32 - Behar#^25-46|Leviticus 25:46]], an equation is established between landed property and servants. Hence, the same evaluation process is used (*Megilah, loc. cit.*).
 [^8]: Note the contrast to Chapter 3, Halachot 19-20.
-[^9]: I.e., although he merely pledged the fifty, we follow the principle ([[Kiddushin 28#28b|*Kiddushin* 28b]], *et al*): "A pledge to the Temple treasury is like transferring the article to an ordinary person." Nevertheless, he is only required to pay ten, since the Temple treasury can collect the forty from the other person.
-[^10]: I.e., since they retracted at the same time, the loss suffered by the Temple treasury is divided equally between them. The Ra'avad and Rashi ([[Arakhin 27#27b|*Arachin* 27b]]) offer a different interpretation of how the sum is divided between the two. The Radbaz and the *Kessef Mishneh*, however, justify the Rambam's view.
+[^9]: I.e., although he merely pledged the fifty, we follow the principle (*Kiddushin* [[Kiddushin 28#28b|28b]], *et al*): "A pledge to the Temple treasury is like transferring the article to an ordinary person." Nevertheless, he is only required to pay ten, since the Temple treasury can collect the forty from the other person.
+[^10]: I.e., since they retracted at the same time, the loss suffered by the Temple treasury is divided equally between them. The Ra'avad and Rashi (*Arachin* [[Arakhin 27#27b|27b]]) offer a different interpretation of how the sum is divided between the two. The Radbaz and the *Kessef Mishneh*, however, justify the Rambam's view.
 [^11]: And thus if the original owner and another person pledge the same amount, the Temple treasury will receive more if the original owner is allowed to redeem it.
 [^12]: They are given the opportunity to redeem it, because the Temple treasury will benefit more from their redemption than that of the other person.
 [^13]: A copper coin of minimal value.  
-    The Ra'avad and Rashi ([[Arakhin 27#27b|*Arachin* 27b]]) maintain that even if the original owners do not raise the bid, they are liable for 26 *selaim* for they are liable for the *sela* added by the other bidder. The Radbaz and the *Kessef Mishneh* justify the Rambam's approach.
+    The Ra'avad and Rashi (*Arachin* [[Arakhin 27#27b|27b]]) maintain that even if the original owners do not raise the bid, they are liable for 26 *selaim* for they are liable for the *sela* added by the other bidder. The Radbaz and the *Kessef Mishneh* justify the Rambam's approach.
 [^14]: Since this is the article's worth, it is appropriate that the fifth be calculated accordingly.
 [^15]: I.e., a fourth of 25 *selaim* is six *selaim* and a *dinar*. This is the additional fifth that the original owner is required to pay.
 [^16]: More precisely, anything above 25, so that his increase benefits the Temple treasury.
@@ -128,11 +128,11 @@ If one designated landed property as a dedication offering for the priests in th
 [^31]: As listed at the beginning of this set of halachot.
 [^32]: See The Guide to the Perplexed, Vol. III, ch. 39, which states that the purpose for these mitzvot is to cultivate the trait of generosity. Also by consecrating his property, one uses his wealth for a holy purpose rather than his own indulgence.
 [^33]: Compare to the conclusion of *Hilchot Nedarim*.
-[^34]: [[Arakhin 28#28a|*Arachin* 28a]].
+[^34]: *Arachin* [[Arakhin 28#28a|28a]].
 [^35]: The Rambam is very critical of those who can support themselves on their own, but instead, make wrong choices in the name of piety and thus, require others to support them. See for example, *Hilchot Matanot Aniyim* 10:18 which states:  
     Even a dignified sage who becomes poor should work in a profession, even a degrading profession, rather than seek public assistance. It is better to skin the hides of dead animals rather than tell people: "I am a sage, support me."
-[^36]: [[Sotah 20#20a|*Sotah* 20a]].
-[^37]: [[Ketubot 50#50a|*Ketubot* 50a]] derives this concept from Jacob's vow to tithe ([[Torah 07 - Vayetzei#^28-22|Genesis 28:22]] . There the verb which conveys the promise to tithe is repeated, allowing for the concept of giving two tithes. See also *Hilchot Matanot Aniyim* 7:5.  
+[^36]: *Sotah* [[Sotah 20#20a|20a]].
+[^37]: *Ketubot* [[Ketubot 50#50a|50a]] derives this concept from Jacob's vow to tithe ([[Torah 07 - Vayetzei#^28-22|Genesis 28:22]] . There the verb which conveys the promise to tithe is repeated, allowing for the concept of giving two tithes. See also *Hilchot Matanot Aniyim* 7:5.  
     *Yayin Malchut* notes that in his Commentary to the Mishnah (*Pe'ah* 1:1), the Rambam writes that as an act of piety, a person may give more than a fifth. Nevertheless, there is not necessarily a contradiction between the two. In his Commentary to the Mishnah, the Rambam is speaking about giving to a needy who asks for alms. In response to that acute need, one may give more that a fifth. Here the Rambam is speaking about giving to charity when there is no acute need. Hence the limit should be adhered to.  
     In *Iggeret HaTeshuvah*, Rav Shneur Zalman of Liadi states that one may give more than a fifth of his resources to charity to atone for his sins, for just as one is not concerned with the amount one gives when it comes to healing a physical wound or blemish, so too, one should not be worried about cost when healing a spiritual blemish.
 [^38]: See *Hilchot De'ot* 5:10.

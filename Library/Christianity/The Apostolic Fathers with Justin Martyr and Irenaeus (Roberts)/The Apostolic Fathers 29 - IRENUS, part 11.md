@@ -26,15 +26,15 @@ This is in accordance with the Syriac, which omits the clause, εἴπερ ἄρ
 
 4559
 
-1 Cor. xv. 13, etc.
+[[1 Corinthians 15#^15-13|1 Cor. xv. 13]], etc.
 
 4560
 
-1 Cor. xv. 53.
+[[1 Corinthians 15#^15-53|1 Cor. xv. 53]].
 
 4561
 
-2 Cor. iv. 11.
+[[2 Corinthians 04#^4-11|2 Cor. iv. 11]].
 
 4562
 
@@ -46,7 +46,7 @@ beasts;”<sup>4564</sup> and again, “Whosoever will shed man’s blood,<sup>4
 
 3\. If, then, any one allege that in this respect the flesh of the Lord was different from ours, because it indeed did not commit sin, neither was deceit found in His soul, while we, on the other hand, are sinners, he says what is the fact. But if he pretends that the, Lord possessed another substance of flesh, the sayings respecting reconciliation will not agree with that man. For that thing is reconciled which had formerly been in enmity. Now, if the Lord had taken flesh from another substance, He would not, by so doing, have reconciled that one to God which had become inimical
 
-542 Gen. ix. 5, 6, LXX. 4564 One of the mss. reads here: Sanguis pro sanguine ejus effundetur. 4565 Matt. xxiii. 35, etc.; Luke xi. 50. 4566 Col. i. 21, etc.
+542 Gen. ix. 5, 6, LXX. 4564 One of the mss. reads here: Sanguis pro sanguine ejus effundetur. 4565 [[Matthew 23#^23-35|Matt. xxiii. 35]], etc.; [[Luke 11#^11-50|Luke xi. 50]]. 4566 [[Colossians 01#^1-21|Col. i. 21]], etc.
 
 *[p. 910]* ^pg950
 
@@ -56,19 +56,19 @@ through transgression. But now, by means of communion with Himself, the Lord has
 
 #### Chapter XV.—Proofs of the resurrection from Isaiah and Ezekiel; the same God who created us will also raise us up.
 
-Eph. i. 7.
+[[Ephesians 01#^1-7|Eph. i. 7]].
 
 4568
 
-Eph. ii. 13.
+[[Ephesians 02#^2-13|Eph. ii. 13]].
 
 4569
 
-Eph. ii. 15.
+[[Ephesians 02#^2-15|Eph. ii. 15]].
 
 4570
 
-Rom. vi. 12, 13, etc.
+[[Romans 06#^6-12|Rom. vi. 12]], [[Romans 06#^6-13|13]], etc.
 
 4571
 
@@ -76,7 +76,7 @@ Rom. vi. 12, 13, etc.
 
 meaning to cause any article to be restored to the vendor.
 
-Col. ii. 19.
+[[Colossians 02#^2-19|Col. ii. 19]].
 
 4573
 
@@ -98,11 +98,11 @@ the breath of life; and that men might not rise to such a pitch of madness as to
 
 3\. Now, that the Word of God forms us in the womb, He says to Jeremiah, “Before I formed thee in the womb, I knew thee; and before thou wentest forth from the belly, I sanctified thee, and appointed thee a prophet among the nations.”<sup>4583</sup> And Paul, too, says in like manner, “But when it pleased God, who separated me from my mother’s womb, that I might declare Him among the nations.”<sup>4584</sup> As, therefore, we are by the Word formed in the womb, this very same Word formed the visual power in him who had been blind from his birth; showing openly who it is that fashions us in secret, since the Word Himself had been made manifest to men: and declaring the original formation of Adam, and the manner in which he was created, and by what hand he was fashioned, indicating the whole from a part. For the Lord who formed the visual powers is He who made the whole man, carrying out the will of the Father. And inasmuch as man, with respect to that formation which, was after Adam, having fallen into transgression, needed the laver of regeneration, \[the Lord\] said to him \[upon whom He had conferred sight\], after He had smeared his eyes with the
 
-John v. 14.
+[[John 05#^5-14|John v. 14]].
 
 4580
 
-John ix. 3.
+[[John 09#^9-3|John ix. 3]].
 
 4581
 
@@ -114,7 +114,7 @@ Jer. i. 5.
 
 4583
 
-Gal. i. 15.
+[[Galatians 01#^1-15|Gal. i. 15]].
 
 *[p. 913]* ^pg953
 
@@ -128,7 +128,7 @@ last times the very same Word of God came to call man, reminding him of his doin
 
 1\. And since Adam was moulded from this earth to which we belong, the Scripture tells us that God said to him, “In the sweat of thy face shall thou eat thy bread, until thou turnest again to the dust from whence thou wert taken.”<sup>4588</sup> If then, after death, our bodies return to any other substance, it follows that from it also they have their substance. But if it be into this very \[earth\], it is manifest that it was also from it that man’s frame was created; as also the Lord clearly showed, when from this very substance He formed eyes for the man \[to whom He gave sight\]. And thus was the hand of God plainly shown forth, by which Adam was fashioned, and we too have been formed; and since there is one and the same Father, whose voice from the beginning even to the end is present with His handiwork, and the substance from which we were formed is plainly declared through the Gospel, we should therefore not seek after another Father besides Him, nor \[look for\] another
 
-John ix. 7.
+[[John 09#^9-7|John ix. 7]].
 
 4585
 
@@ -152,7 +152,7 @@ substance from which we have been formed, besides what was mentioned beforehand,
 
 1\. Now this being is the Creator (*Demiurgus*), who is, in respect of His love, the Father; but in respect of His power, He is Lord; and in respect of His wisdom, our Maker and Fashioner; by transgressing whose commandment we became His enemies. And therefore in the last times the Lord has restored us into friendship through His incarnation, having become “the Mediator between God and men;”<sup>4590</sup> propitiating indeed for us the Father against whom we had sinned, and cancelling
 
-Phil. ii. 8. 4589 1 Tim. ii. 5.
+[[Philippians 02#^2-8|Phil. ii. 8]]. 4589 [[1 Timothy 02#^2-5|1 Tim. ii. 5]].
 
 *[p. 915]* ^pg955
 
@@ -162,7 +162,7 @@ Word say to man, “Thy sins are forgiven thee;”<sup>4593</sup> He, the same a
 
 2\. And therefore, when He had healed the man sick of the palsy, \[the evangelist\] says “The people upon seeing it glorified God, who gave such power unto men.”<sup>4596</sup> What God, then, did the bystanders glorify? Was it indeed that unknown Father invented by the heretics? And how could they glorify him who was altogether unknown to them? It is evident, therefore, that the Israelites glorified Him who has been proclaimed as God by the law and the prophets, who is also the Father of our Lord; and therefore He taught men, by the evidence of their senses through those signs which He accomplished, to give glory to God. If, however, He Himself had come from another Father, and men glorified a different Father when they beheld His miracles, He \[in that case\] rendered them ungrateful to that Father who had sent the gift of healing. But as the only-begotten Son had come for man’s salvation from Him who is God, He did both stir up the incredulous by the miracles which He was in the habit of working, to give glory to the Father; and to the Pharisees, who did not admit the advent of His Son, and who consequently did not believe in the remission \[of sins\] which was conferred by Him, He said, “That ye may know that the Son of man hath power to forgive sins.”<sup>4597</sup> And when He had said this, He commanded the paralytic man to take up the pallet upon which he was lying, and go into his house. By this work of His He confounded the unbelievers,
 
-Matt. vi. 12.
+[[Matthew 06#^6-12|Matt. vi. 12]].
 
 4591
 
@@ -170,19 +170,19 @@ Gen. iii. 8.
 
 4592
 
-Matt. ix. 2; Luke v. 20.
+[[Matthew 09#^9-2|Matt. ix. 2]]; [[Luke 05#^5-20|Luke v. 20]].
 
 4593
 
-Matt. ix. 2; Luke v. 20.
+[[Matthew 09#^9-2|Matt. ix. 2]]; [[Luke 05#^5-20|Luke v. 20]].
 
 4594
 
-Luke i. 78.
+[[Luke 01#^1-78|Luke i. 78]].
 
 4595
 
-Matt. ix. 8.
+[[Matthew 09#^9-8|Matt. ix. 8]].
 
 4596
 
@@ -194,7 +194,7 @@ and showed that He is Himself the voice of God, by which man received commandmen
 
 4\. This fact has been strikingly set forth by many others, and especially through means of Elisha the prophet. For when his fellow-prophets were hewing wood for the construction of a tabernacle, and when the iron \[head\], shaken loose from the axe, had fallen into the Jordan and could not be found by them, upon Elisha’s coming to the place, and learning what had happened, he threw some wood into the water. Then, when he had done this, the iron part of the axe floated up, and they took up from the surface of the water what they had previously lost.<sup>4600</sup> By this action the prophet pointed out that the sure word of God, which we had negligently lost by means of a tree, and were not in the way of finding again, we should receive anew by the dispensation of a tree, \[viz., the cross of Christ\]. For that the word of God is likened to an axe, John the Baptist declares \[when he says\] in reference to it, “But now also is the axe laid to the root of the trees.”<sup>4601</sup> Jeremiah also says to the same purport: “The word of God cleaveth the rock as an axe.”<sup>4602</sup> This word, then, what was hidden from us, did the dispensation of the tree make manifest, as I have already remarked. For as we lost it by means of a tree, by means of a tree again was it made manifest to all, showing the height, the length, the breadth, the depth in itself; and, as a certain man among our predecessors observed, “Through the extension of the hands of a divine person,<sup>4603</sup> gathering together the two peoples to
 
-Ps. xxxii. 1, 2. 4598 Col. ii. 14. 4599 2 Kings vi. 6. 4600 Matt. iii. 10. 4601 Jer. xxiii. 29. 4602 The Greek is preserved here, and reads, διὰ τῆς θείας ἐκτάσεως τῶν χειρῶν— literally, “through the divine extension of 4603 hands.” The old Latin merely reads, “per extensionem manuum.”
+Ps. xxxii. 1, 2. 4598 [[Colossians 02#^2-14|Col. ii. 14]]. 4599 2 Kings vi. 6. 4600 [[Matthew 03#^3-10|Matt. iii. 10]]. 4601 Jer. xxiii. 29. 4602 The Greek is preserved here, and reads, διὰ τῆς θείας ἐκτάσεως τῶν χειρῶν— literally, “through the divine extension of 4603 hands.” The old Latin merely reads, “per extensionem manuum.”
 
 *[PDF 957]* ^pg957
 
@@ -208,7 +208,7 @@ one God.” For these were two hands, because there were two peoples scattered t
 
 2\. For the Father bears the creation and His own Word simultaneously, and the Word borne by the Father grants the Spirit to all as the Father wills.<sup>4605</sup> To some He gives after the manner of creation what is made;<sup>4606</sup> but to others \[He gives\] after the manner of adoption, that is, what is from
 
-John xiv. 11.
+[[John 14#^14-11|John xiv. 11]].
 
 4604
 
@@ -224,7 +224,7 @@ God, namely generation. And thus one God the Father is declared, who is above al
 
 3\. For the Creator of the world is truly the Word of God: and this is our Lord, who in the last times was made man, existing in this world, and who in an invisible manner contains all things created, and is inherent in the entire creation, since the Word of God governs and arranges all things; and therefore He came to His own in a visible<sup>4612</sup> manner, and was made flesh, and hung upon the tree, that He might sum up all things in Himself. “And His own peculiar people did not receive Him,” as Moses declared this very thing among the people: “And thy life shall be hanging before thine eyes, and thou wilt not believe thy life.”<sup>4613</sup> Those therefore who did not receive Him did not receive life. “But to as many as received Him, to them gave He power to become the sons of God.”<sup>4614</sup> For it is He who has power from the Father over all things, since He is the Word of God, and very man, communicating with invisible beings after the manner of the intellect, and
 
-547 John vii. 39. 4607 Eph. iv. 6. 4608 John i. 1, etc. 4609 John i. 10, etc. 4610 John i. 14. 4611 The text reads “invisiblilter,” which seems clearly an error. 4612 Deut. xxviii. 66. 4613
+547 [[John 07#^7-39|John vii. 39]]. 4607 [[Ephesians 04#^4-6|Eph. iv. 6]]. 4608 [[John 01#^1-1|John i. 1]], etc. 4609 [[John 01#^1-10|John i. 10]], etc. 4610 [[John 01#^1-14|John i. 14]]. 4611 The text reads “invisiblilter,” which seems clearly an error. 4612 Deut. xxviii. 66. 4613
 
 *[PDF 959]* ^pg959
 
@@ -268,7 +268,7 @@ Father—that it sprang forth (*floruisse*) of itself, and from itself was born.
 
 1\. He has therefore, in His work of recapitulation, summed up all things, both waging war against our enemy, and crushing him who had at the beginning led us away captives in Adam, and
 
-That is, the private Christian as contrasted with the sophist of the schools. 4622 2 Tim. iii. 7. 4623 Gen. ii. 16. 4624 Rom. xii. 3. 4625 Eph. i. 10.
+That is, the private Christian as contrasted with the sophist of the schools. 4622 [[2 Timothy 03#^3-7|2 Tim. iii. 7]]. 4623 Gen. ii. 16. 4624 [[Romans 12#^12-3|Rom. xii. 3]]. 4625 [[Ephesians 01#^1-10|Eph. i. 10]].
 
 *[PDF 962]* ^pg962
 
@@ -286,15 +286,15 @@ Gen. iii. 15.
 
 4628
 
-Gal. iii. 19.
+[[Galatians 03#^3-19|Gal. iii. 19]].
 
 4629
 
-Gal. iv. 4.
+[[Galatians 04#^4-4|Gal. iv. 4]].
 
 4630
 
-Matt. iv. 3.
+[[Matthew 04#^4-3|Matt. iv. 3]].
 
 4631
 
@@ -320,7 +320,7 @@ This sentence is one of great obscurity.
 
 4636
 
-Luke iv. 6, 7.
+[[Luke 04#^4-6|Luke iv. 6]], [[Luke 04#^4-7|7]].
 
 4637
 
@@ -336,7 +336,7 @@ all should worship, and serve Him alone? It is, beyond all manner of doubt, that
 
 1\. Thus then does the Lord plainly show that it was the true Lord and the one God who had been set forth by the law; for Him whom the law proclaimed as God, the same did Christ point out as the Father, whom also it behoves the disciples of Christ alone to serve. By means of the statements of the law, He put our adversary to utter confusion; and the law directs us to praise God the Creator (*Demiurgum*), and to serve Him alone. Since this is the case, we must not seek for another Father besides Him, or above Him, since there is one God who justifies the circumcision by faith, and the
 
-Matt. xii. 29 and Mark iii. 27.
+[[Matthew 12#^12-29|Matt. xii. 29]] and [[Mark 03#^3-27|Mark iii. 27]].
 
 *[PDF 965]* ^pg965
 
@@ -344,7 +344,7 @@ uncircumcision through faith.<sup>4640</sup> For if there were any other perfect
 
 2\. He taught by His commandment that we who have been set free should, when hungry, take that food which is given by God; and that, when placed in the exalted position of every grace \[that can be received\], we should not, either by trusting to works of righteousness, or when adorned with super-eminent \[gifts of\] ministration, by any means be lifted up with pride, nor should we tempt God, but should feel humility in all things, and have ready to hand \[this saying\], “Thou shall not tempt the Lord thy God.”<sup>4643</sup> As also the apostle taught, saying, “Minding not high things, but consenting to things of low estate;”<sup>4644</sup> that we should neither be ensnared with riches, nor mundane glory, nor present fancy, but should know that we must “worship the Lord thy God, and serve Him alone,” and give no heed to him who falsely promised things not his own, when he said, “All these will I give thee, if, falling down, thou wilt worship me.” For he himself confesses that to adore him, and to do his will, is to fall from the glory of God. And in what thing either pleasant or good can that man who has fallen participate? Or what else can such a person hope for or expect, except death? For death is next neighbour to him who has fallen. Hence also it follows that he will not give what he has promised. For how can he make grants to him who has fallen? Moreover, since God rules over men and him too, and without the will of our Father in heaven not even a sparrow falls to the ground,<sup>4645</sup> it follows that his declaration, “All these things are delivered unto me, and to whomsoever I will I give them,” proceeds from him when puffed up with pride. For the creation is not subjected to his power, since indeed he is himself but one among created things. Nor shall
 
-551 Rom. iii. 30. 4640 Deut. vi. 4, 5, 13. 4641 Matt. iv. 7. 4642 Deut. vi. 16. 4643 Rom. xii. 16. 4644
+551 [[Romans 03#^3-30|Rom. iii. 30]]. 4640 Deut. vi. 4, 5, 13. 4641 [[Matthew 04#^4-7|Matt. iv. 7]]. 4642 Deut. vi. 16. 4643 [[Romans 12#^12-16|Rom. xii. 16]]. 4644
 
 *[PDF 966]* ^pg966
 
@@ -354,11 +354,11 @@ he give away the rule over men to men; but both all other things, and all human 
 
 1\. He had indeed been already accustomed to lie against God, for the purpose of leading men astray. For at the beginning, when God had given to man a variety of things for food, while He commanded him not to eat of one tree only, as the Scripture tells us that God said to Adam: “From every tree which is in the garden thou shalt eat food; but from the tree of knowledge of good and evil, from this ye shall not eat: for in the day that ye shall eat of it, ye shall die by death;”<sup>4648</sup> he then, lying against the Lord, tempted man, as the Scripture says that the serpent said to the woman: “Has God indeed said this, Ye shall not eat from every tree of the garden?”<sup>4649</sup> And when she had exposed the falsehood, and simply related the command, as He had said, “From every tree of the garden we shall eat; but of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die:”<sup>4650</sup> when he had \[thus\] learned from the woman the command of God, having brought his cunning into play, he finally deceived her by a falsehood, saying, “Ye shall not die by death; for God knew that in the day ye shall eat of it your eyes shall be opened, and ye shall be as gods, knowing good and evil.”<sup>4651</sup> In the first place, then, in the garden of God he disputed about God, as if God was not there, for he was ignorant of the greatness of God; and then, in the next place, after he had learned from the woman that God had said that they should die if they tasted the aforesaid tree, opening his mouth, he uttered the third falsehood, “Ye shall not die by death.” But that God was true, and the serpent a liar, was proved by the result, death having passed upon them who had eaten. For along with the fruit they did also fall under the power of death, because they did eat in disobedience; and disobedience to God entails death. Wherefore, as they became forfeit to death, from that \[moment\] they were handed over to it.
 
-John viii. 44.
+[[John 08#^8-44|John viii. 44]].
 
 4646
 
-Luke iv. 6.
+[[Luke 04#^4-6|Luke iv. 6]].
 
 4647
 
@@ -382,7 +382,7 @@ Gen. iii. 2, 3.
 
 1\. As therefore the devil lied at the beginning, so did he also in the end, when he said, “All these are delivered unto me, and to whomsoever I will I give them.”<sup>4654</sup> For it is not he who has appointed the kingdoms of this world, but God; for “the heart of the king is in the hand of God.”<sup>4655</sup> And the Word also says by Solomon, “By me kings do reign, and princes administer justice. By
 
-552 2 Pet. iii. 8. 4652 John viii. 44. 4653 Matt. iv. 9; Luke iv. 6. 4654 Prov. xxi. 1.
+552 [[2 Peter 03#^3-8|2 Pet. iii. 8]]. 4652 [[John 08#^8-44|John viii. 44]]. 4653 [[Matthew 04#^4-9|Matt. iv. 9]]; [[Luke 04#^4-6|Luke iv. 6]]. 4654 Prov. xxi. 1.
 
 *[p. 928]* ^pg968
 
@@ -396,19 +396,19 @@ Prov. viii. 15.
 
 4656
 
-Rom. xiii. 1.
+[[Romans 13#^13-1|Rom. xiii. 1]].
 
 4657
 
-Rom. xiii. 4.
+[[Romans 13#^13-4|Rom. xiii. 4]].
 
 4658
 
-Rom. xiii. 6.
+[[Romans 13#^13-6|Rom. xiii. 6]].
 
 4659
 
-Matt. xvii. 27.
+[[Matthew 17#^17-27|Matt. xvii. 27]].
 
 4660
 
@@ -428,7 +428,7 @@ benefit of their subjects, and for the preservation of justice; but others, for 
 
 1\. And not only by the particulars already mentioned, but also by means of the events which shall occur in the time of Antichrist is it shown that he, being an apostate and a robber, is anxious to be adored as God; and that, although a mere slave, he wishes himself to be proclaimed as a king. For he (Antichrist) being endued with all the power of the devil, shall come, not as a righteous king, nor as a legitimate king, \[i.e., one\] in subjection to God, but an impious, unjust, and lawless one; as an apostate, iniquitous and murderous; as a robber, concentrating in himself \[all\] satanic apostasy, and setting aside idols to persuade \[men\] that he himself is God, raising up himself as the only idol, having in himself the multifarious errors of the other idols. This he does, in order that they who do \[now\] worship the devil by means of many abominations, may serve himself by this one idol, of whom the apostle thus speaks in the second Epistle to the Thessalonians: “Unless there
 
-Eph. ii. 2.
+[[Ephesians 02#^2-2|Eph. ii. 2]].
 
 4662
 
@@ -440,7 +440,7 @@ shall come a failing away first, and the man of sin shall be revealed, the son o
 
 3\. Daniel too, looking forward to the end of the last kingdom, i.e., the ten last kings, amongst whom the kingdom of those men shall be partitioned, and upon whom the son of perdition shall come, declares that ten horns shall spring from the beast, and that another little horn shall arise in the midst of them, and that three of the former shall be rooted up before his face. He says: “And, behold, eyes were in this horn as the eyes of a man, and a mouth speaking great things, and his look was more stout than his fellows. I was looking, and this horn made war against the saints, and prevailed against them, until the Ancient of days came and gave judgment to the saints of the most high God, and the time came, and the saints obtained the kingdom.”<sup>4665</sup> Then, further on, in the interpretation of the vision, there was said to him: “The fourth beast shall be the fourth kingdom upon earth, which shall excel all other kingdoms, and devour the whole earth, and tread it down, and cut it in pieces. And its ten horns are ten kings which shall arise; and after them shall arise another, who shall surpass in evil deeds all that were before him, and shall overthrow three kings; and he shall speak words against the most high God, and wear out the saints of the most high God, and shall purpose to change times and laws; and \[everything\] shall be given into his hand until a time of times and a half time,”<sup>4666</sup> that is, for three years and six months, during which time, when he comes, he shall reign over the earth. Of whom also the Apostle Paul again, speaking in the second \[Epistle\] to the Thessalonians, and at the same time proclaiming the cause of his advent,
 
-554 Matt. xxiv. 15, 21. 4664 Dan. vii. 8, etc. 4665 Dan. vii. 23, etc.
+554 [[Matthew 24#^24-15|Matt. xxiv. 15]], [[Matthew 24#^24-21|21]]. 4664 Dan. vii. 8, etc. 4665 Dan. vii. 23, etc.
 
 *[p. 931]* ^pg971
 
@@ -450,7 +450,7 @@ thus says: “And then shall the wicked one be revealed, whom the Lord Jesus sha
 
 5\. From all these passages are revealed to us, not merely the particulars of the apostasy, and \[the doings\] of him who concentrates in himself every satanic error, but also, that there is one and
 
-2\. Thess. ii. 8. 4667 John v. 43. 4668 Luke xviii. 2, etc. 4669 This may refer to Antiochus Epiphanes, Antichrist’s prototype, who offered swine upon the altar in the temple at Jerusalem. 4670 The LXX. version has, ἐδόθη ἐπὶ τὴν θυσίαν ἁμαρτία, i.e., sin has been given against (or, *upon*) the sacrifice. Dan. viii. 12. 4671 Dan. viii. 23, etc. 4672 Dan. ix. 27. 555 Matt. xxiv. 15. 4674 The mss. have “præmisit,” but Harvey suggests “promisit,” which we have adopted. 4675 Rev. xvii. 12, etc. 4676
+2\. Thess. ii. 8. 4667 [[John 05#^5-43|John v. 43]]. 4668 [[Luke 18#^18-2|Luke xviii. 2]], etc. 4669 This may refer to Antiochus Epiphanes, Antichrist’s prototype, who offered swine upon the altar in the temple at Jerusalem. 4670 The LXX. version has, ἐδόθη ἐπὶ τὴν θυσίαν ἁμαρτία, i.e., sin has been given against (or, *upon*) the sacrifice. Dan. viii. 12. 4671 Dan. viii. 23, etc. 4672 Dan. ix. 27. 555 [[Matthew 24#^24-15|Matt. xxiv. 15]]. 4674 The mss. have “præmisit,” but Harvey suggests “promisit,” which we have adopted. 4675 [[Revelation 17#^17-12|Rev. xvii. 12]], etc. 4676
 
 
 *[p. 932]* ^pg972
@@ -497,19 +497,19 @@ in parables and allegories; but that after the Lord’s appearance, when he had 
 
 1\. If the Father, then, does not exercise judgment, \[it follows\] that judgment does not belong to Him, or that He consents to all those actions which take place; and if He does not judge, all persons will be equal, and accounted in the same condition. The advent of Christ will therefore be without an object, yea, absurd, inasmuch as \[in that case\] He exercises no judicial power. For “He came to divide a man against his father, and the daughter against the mother, and the daughter-in-law against the mother-in-law;”<sup>4683</sup> and when two are in one bed, to take the one, and to leave the other; and of two women grinding at the mill, to take one and leave the other:<sup>4684</sup> \[also\] at the time of the end, to order the reapers to collect first the tares together, and bind them in bundles, and burn them with unquenchable fire, but to gather up the wheat into the barn;<sup>4685</sup> and to call the lambs into the kingdom prepared for them, but to send the goats into everlasting fire, which has been prepared by His Father for the devil and his angels.<sup>4686</sup> And why is this? Has the Word come for the ruin and for the resurrection of many? For the ruin, certainly, of those who do not believe Him, to whom also He has threatened a greater damnation in the judgment-day than that of Sodom and Gomorrah;<sup>4687</sup> but for the resurrection of believers, and those who do the will of His Father in heaven. If then the advent of the Son comes indeed alike to all, but is for the purpose of judging, and separating the believing from the unbelieving, since, as those who believe do His will agreeably to their own
 
-Matt. x. 25.
+[[Matthew 10#^10-25|Matt. x. 25]].
 
 4683
 
-Luke xvii. 34.
+[[Luke 17#^17-34|Luke xvii. 34]].
 
 4684
 
-Matt. xiii. 30.
+[[Matthew 13#^13-30|Matt. xiii. 30]].
 
 4685
 
-Matt. xxv. 33, etc.
+[[Matthew 25#^25-33|Matt. xxv. 33]], etc.
 
 4686
 
@@ -523,7 +523,7 @@ choice, and as, \[also\] agreeably to their own choice, the disobedient do not c
 
 1\. Inasmuch, then, as in this world (αἰῶνι) some persons betake themselves to the light, and by faith unite themselves with God, but others shun the light, and separate themselves from God, the Word of God comes preparing a fit habitation for both. For those indeed who are in the light, that they may derive enjoyment from it, and from the good things contained in it; but for those in darkness, that they may partake in its calamities. And on this account He says, that those upon the
 
-Matt. v. 45.
+[[Matthew 05#^5-45|Matt. v. 45]].
 
 4688
 
@@ -535,19 +535,19 @@ right hand are called into the kingdom of heaven, but that those on the left He 
 
 For when he (Antichrist) is come, and of his own accord concentrates in his own person the apostasy, and accomplishes whatever he shall do according to his own will and choice, sitting also in the temple of God, so that his dupes may adore him as the Christ; wherefore also shall he deservedly “be cast into the lake of fire:”<sup>4691</sup> \[this will happen according to divine appointment\], God by His prescience foreseeing all this, and at the proper time sending such a man, “that they may believe a lie, that they all may be judged who did not believe the truth, but consented to unrighteousness;” whose coming John has thus described in the Apocalypse: “And the beast which I had seen was like unto a leopard, and his feet as of a bear, and his mouth as the mouth of a lion; and the dragon conferred his own power upon him, and his throne, and great might. And one of his heads was as it were slain unto death; and his deadly wound was healed, and all the world wondered after the beast. And they worshipped the dragon because he gave power to the beast; and they worshipped the beast, saying, Who is like unto this beast, and who is able to make war with him? And there was given unto him a mouth speaking great things, and blasphemy and power was given to him during forty and two months. And he opened his mouth for blasphemy against God, to blaspheme His name and His tabernacle, and those who dwell in heaven. And power was given him over every tribe, and people, and tongue, and nation. And all who dwell upon the earth worshipped him, \[every one\] whose name was not written in the book of the Lamb slain from the foundation of the world. If any one have ears, let him hear. If any one shall lead into captivity, he shall go into captivity. If any shall slay with the sword, he must be slain with the sword. Here is the endurance and the faith of the saints.”<sup>4692</sup> After this he likewise describes his armour-bearer, whom he also terms a false prophet: “He spake as a dragon, and exercised all the power of the first beast in his sight, and caused the earth, and those that dwell therein, to adore the first beast, whose deadly wound was healed. And he shall perform great wonders, so that he can even cause fire to descend from heaven upon the earth in the sight of men, and he shall lead the inhabitants of the earth astray.”<sup>4693</sup> Let no one imagine that he performs these wonders by divine power, but by the working of magic. And we must not be surprised if, since the demons and apostate spirits are at his service, he through their means performs wonders, by which he leads the inhabitants of the earth astray. John says further: “And he shall order an image of the beast to be made, and he shall give breath to the image, so that the image shall speak; and he shall cause those to be slain who will not adore it.” He says also:
 
-2 Thess. ii. 10–12.
+[[2 Thessalonians 02#^2-10|2 Thess. ii. 10–12]].
 
 4690
 
-Rev. xix. 20.
+[[Revelation 19#^19-20|Rev. xix. 20]].
 
 4691
 
-Rev. xiii. 2, etc.
+[[Revelation 13#^13-2|Rev. xiii. 2]], etc.
 
 4692
 
-Rev. xiii. 11, etc.
+[[Revelation 13#^13-11|Rev. xiii. 11]], etc.
 
 *[p. 937]* ^pg977
 
@@ -561,7 +561,7 @@ Rev. xiii. 11, etc.
 
 1\. In the previous books I have set forth the causes for which God permitted these things to be made, and have pointed out that all such have been created for the benefit of that human nature which is saved, ripening for immortality that which is \[possessed\] of its own free will and its own power, and preparing and rendering it more adapted for eternal subjection to God. And therefore the creation is suited to \[the wants of\] man; for man was not made for its sake, but creation for the
 
-558 Rev. xiii. 14, etc. 4694 Gen. ii. 2. 4695 2 Pet. iii. 8. 4696 This is quoted from the Epistle of Ignatius to the Romans, ch. iv. It is found in the two Greek recensions of his works, 4697 and also in the Syriac. See pp. 75 and 103 of this volume. The Latin translation is here followed: the Greek of Ignatius would give “the wheat of God,” and omits “of God” towards the end, as quoted by Eusebius.
+558 [[Revelation 13#^13-14|Rev. xiii. 14]], etc. 4694 Gen. ii. 2. 4695 [[2 Peter 03#^3-8|2 Pet. iii. 8]]. 4696 This is quoted from the Epistle of Ignatius to the Romans, ch. iv. It is found in the two Greek recensions of his works, 4697 and also in the Syriac. See pp. 75 and 103 of this volume. The Latin translation is here followed: the Greek of Ignatius would give “the wheat of God,” and omits “of God” towards the end, as quoted by Eusebius.
 
 *[p. 938]* ^pg978
 
@@ -591,7 +591,7 @@ That is, Ξ into ΕΙ, according to Harvey, who considers the whole of this clau
 
 occur in the Greek here preserved by Eusebius (*Hist. Eccl.*, v. 8).
 
-Rev. xxii. 19.
+[[Revelation 22#^22-19|Rev. xxii. 19]].
 
 *[p. 940]* ^pg980
 
@@ -599,7 +599,7 @@ that he who shall come claiming the kingdom for himself, and shall terrify those
 
 3\. It is therefore more certain, and less hazardous, to await the fulfilment of the prophecy, than to be making surmises, and casting about for any names that may present themselves, inasmuch as many names can be found possessing the number mentioned; and the same question will, after all, remain unsolved. For if there are many names found possessing this number, it will be asked which among them shall the coming man bear. It is not through a want of names containing the number of that name that I say this, but on account of the fear of God, and zeal for the truth: for the name *Evanthas* (ΕΥΑΝΘΑΣ) contains the required number, but I make no allegation regarding it. Then also *Lateinos* (ΛΑΤΕΙΝΟΣ) has the number six hundred and sixty-six; and it is a very probable \[solution\], this being the name of the last kingdom \[of the four seen by Daniel\]. For the Latins are they who at present bear rule:<sup>4706</sup> I will not, however, make any boast over this \[coincidence\]. *Teitan* too, (ΤΕΙΤΑΝ, the first syllable being written with the two Greek vowels ε and ι, among all the names which are found among us, is rather worthy of credit. For it has in itself the predicted number, and is composed of six letters, each syllable containing three letters; and \[the word itself\] is ancient, and removed from ordinary use; for among our kings we find none bearing this name Titan, nor have any of the idols which are worshipped in public among the Greeks and barbarians this appellation. Among many persons, too, this name is accounted divine, so that even the sun is termed “Titan” by those who do now possess \[the rule\]. This word, too, contains a certain outward appearance of vengeance, and of one inflicting merited punishment because he (Antichrist) pretends that he vindicates the oppressed.<sup>4707</sup> And besides this, it is an ancient name, one worthy of credit, of royal dignity, and still further, a name belonging to a tyrant. Inasmuch, then, as this name “Titan” has so much to recommend it, there is a strong degree of probability, that from among the many
 
-1\. Thess. v. 3. 4703 Jer. viii. 16. 4704 Rev. vii. 5–7. \[The Danites (though not all) corrupted the Hebrew church and the Levitical priesthood, by image-worship, 4705 (Judg. xviii.), and forfeited the blessings of the old covenant.\] \[A very pregnant passage, as has often been noted. But let us imitate the pious reticence with which this section concludes.\] 4706 Massuet here quotes Cicero and Ovid in proof of the sun being termed *Titan*. The Titans waged war against the gods, to 4707 avenge themselves upon Saturn.
+1\. Thess. v. 3. 4703 Jer. viii. 16. 4704 [[Revelation 07#^7-5|Rev. vii. 5–7]]. \[The Danites (though not all) corrupted the Hebrew church and the Levitical priesthood, by image-worship, 4705 (Judg. xviii.), and forfeited the blessings of the old covenant.\] \[A very pregnant passage, as has often been noted. But let us imitate the pious reticence with which this section concludes.\] 4706 Massuet here quotes Cicero and Ovid in proof of the sun being termed *Titan*. The Titans waged war against the gods, to 4707 avenge themselves upon Saturn.
 
 
 *[p. 941]* ^pg981
@@ -614,7 +614,7 @@ being aware who he is: the name, however, is suppressed, because it is not worth
 
 1\. Since, again, some who are reckoned among the orthodox go beyond the pre-arranged plan for the exaltation of the just, and are ignorant of the methods by which they are disciplined beforehand for incorruption, they thus entertain heretical opinions. For the heretics, despising the handiwork of God, and not admitting the salvation of their flesh, while they also treat the promise of God contemptuously, and pass beyond God altogether in the sentiments they form, affirm that immediately upon their death they shall pass above the heavens and the Demiurge, and go to the Mother (Achamoth) or to that Father whom they have feigned. Those persons, therefore, who disallow a resurrection affecting the whole man (*universam reprobant resurrectionem*), and as far as in them lies remove it from the midst \[of the Christian scheme\], how can they be wondered at, if again they know nothing as to the plan of the resurrection? For they do not choose to understand, that if these things are as they say, the Lord Himself, in whom they profess to believe, did not rise again upon the third day; but immediately upon His expiring on the cross, undoubtedly departed on high, leaving His body to the earth. But the case was, that for three days He dwelt in the place
 
-Rev. xvii. 8.
+[[Revelation 17#^17-8|Rev. xvii. 8]].
 
 4708
 
@@ -624,7 +624,7 @@ where the dead were, as the prophet says concerning Him: “And the Lord remembe
 
 2\. If, then, the Lord observed the law of the dead, that He might become the first-begotten from the dead, and tarried until the third day “in the lower parts of the earth;”<sup>4715</sup> then afterwards rising in the flesh, so that He even showed the print of the nails to His disciples,<sup>4716</sup> He thus ascended to the Father;—\[if all these things occurred, I say\], how must these men not be put to confusion, who allege that “the lower parts” refer to this world of ours, but that their inner man, leaving the body here, ascends into the super-celestial place? For as the Lord “went away in the midst of the shadow of death,”<sup>4717</sup> where the souls of the dead were, yet afterwards arose in the body, and after the resurrection was taken up \[into heaven\], it is manifest that the souls of His disciples also, upon whose account the Lord underwent these things, shall go away into the invisible place allotted to them by God, and there remain until the resurrection, awaiting that event; then receiving their bodies, and rising in their entirety, that is bodily, just as the Lord arose, they shall come thus into the presence of God. “For no disciple is above the Master, but every one that is perfect shall be as his Master.”<sup>4718</sup> As our Master, therefore, did not at once depart, taking flight \[to heaven\], but awaited the time of His resurrection prescribed by the Father, which had been also shown forth through Jonas, and rising again after three days was taken up \[to heaven\]; so ought we also to await the time of our resurrection prescribed by God and foretold by the prophets, and so, rising, be taken up, as many as the Lord shall account worthy of this \[privilege\].<sup>4719</sup>
 
-561 See the note, book iii. xx. 4. 4710 Matt. xi. 40. 4711 Eph. iv. 9. 4712 Ps. lxxxvi. 23. 4713 John xx. 17. 4714 Eph. iv. 9. 4715 John xx. 20, 27. 4716 Ps. xxiii. 4. 4717 Luke vi. 40. 4718 The five following chapters were omitted in the earlier editions, but added by Feuardentius. Most mss., too, did not contain 4719 them. It is probable that the scribes of the middle ages rejected them on account of their inculcating millenarian notions, which
+561 See the note, book iii. xx. 4. 4710 Matt. xi. 40. 4711 [[Ephesians 04#^4-9|Eph. iv. 9]]. 4712 Ps. lxxxvi. 23. 4713 [[John 20#^20-17|John xx. 17]]. 4714 [[Ephesians 04#^4-9|Eph. iv. 9]]. 4715 [[John 20#^20-20|John xx. 20]], [[John 20#^20-27|27]]. 4716 Ps. xxiii. 4. 4717 [[Luke 06#^6-40|Luke vi. 40]]. 4718 The five following chapters were omitted in the earlier editions, but added by Feuardentius. Most mss., too, did not contain 4719 them. It is probable that the scribes of the middle ages rejected them on account of their inculcating millenarian notions, which
 
 *[p. 943]* ^pg983
 
@@ -640,7 +640,7 @@ Or, “gradually to comprehend God.”
 
 4720
 
-Rom. viii. 19, etc.
+[[Romans 08#^8-19|Rom. viii. 19]], etc.
 
 4721
 
@@ -652,7 +652,7 @@ Gen. xiii. 17.
 
 4723
 
-Acts vii. 5; Heb. xi. 13.
+[[Acts 07#^7-5|Acts vii. 5]]; [[Hebrews 11#^11-13|Heb. xi. 13]].
 
 *[p. 944]* ^pg984
 
@@ -662,7 +662,7 @@ the Hittite.<sup>4725</sup> Thus did he await patiently the promise of God, and 
 
 1\. For this reason, when about to undergo His sufferings, that He might declare to Abraham and those with him the glad tidings of the inheritance being thrown open, \[Christ\], after He had
 
-562 Gen. xxiii. 11. 4725 Gen. xv. 13. 4726 Luke iii. 8. 4727 Gal. iv. 28. 4728 Gal. iii. 16. 4729 Gal. iii. 6, etc. 4730
+562 Gen. xxiii. 11. 4725 Gen. xv. 13. 4726 [[Luke 03#^3-8|Luke iii. 8]]. 4727 [[Galatians 04#^4-28|Gal. iv. 28]]. 4728 [[Galatians 03#^3-16|Gal. iii. 16]]. 4729 [[Galatians 03#^3-6|Gal. iii. 6]], etc. 4730
 
 *[p. 945]* ^pg985
 
@@ -672,7 +672,7 @@ given thanks while holding the cup, and had drunk of it, and given it to the dis
 
 3\. The blessing of Isaac with which he blessed his younger son Jacob has the same meaning, when he says, “Behold, the smell of my son is as the smell of a full field which the Lord has blessed.”<sup>4736</sup> But “the field is the world.”<sup>4737</sup> And therefore he added, “God give to thee of the dew of heaven, and of the fatness of the earth, plenty of corn and wine. And let the nations serve thee, and kings bow down to thee; and be thou lord over thy brother, and thy father’s sons shall bow down to thee: cursed shall be he who shall curse thee, and blessed shall be he who shall bless thee.”<sup>4738</sup> If any one, then, does not accept these things as referring to the appointed kingdom, he
 
-Matt. xxvi. 27.
+[[Matthew 26#^26-27|Matt. xxvi. 27]].
 
 4732
 
@@ -680,11 +680,11 @@ Ps. civ. 30.
 
 4733
 
-Luke xiv. 12, 13.
+[[Luke 14#^14-12|Luke xiv. 12]], [[Luke 14#^14-13|13]].
 
 4734
 
-Matt. xix. 29; Luke xviii. 29, 30.
+[[Matthew 19#^19-29|Matt. xix. 29]]; [[Luke 18#^18-29|Luke xviii. 29]], [[Luke 18#^18-30|30]].
 
 4735
 
@@ -692,7 +692,7 @@ Gen. xxvii. 27, etc.
 
 4736
 
-Matt. xiii. 38.
+[[Matthew 13#^13-38|Matt. xiii. 38]].
 
 4737
 

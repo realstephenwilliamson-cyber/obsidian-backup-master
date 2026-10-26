@@ -120,7 +120,7 @@ One should not use uncoined silver for the redemption [of the second tithe]. Ins
     See the conclusion of Chapter 5 and the beginning of Chapter 6 which mentions some exceptions to this general principle.
 [^15]: See also Halachah 7 which states that redemption may be made in a pressing situation.
 [^16]: I.e., if the produce was purchased intentionally with money of the second tithe. See Chapter 7, Halachot 1, 15.
-[^17]: I.e., our Sages rescinded the transfer of the holiness to the animal for the reason stated ([[Sukkah 40#40b|*Sukkah* 40b]]).
+[^17]: I.e., our Sages rescinded the transfer of the holiness to the animal for the reason stated (*Sukkah* [[Sukkah 40#40b|40b]]).
 [^18]: See Chapter 7, Halachah 16.
 [^19]: E.g., the situation described in Chapter 6, Halachah 2. This example is also discussed by the Rambam's Commentary to the Mishnah (*Ma'aser Sheni* 2:6).
 [^20]: I.e., one should not leave the brass coins in a state of holiness (*ibid.*). Among the reasons silver coins are preferred is that they are more prestigious and they do not corrode.
@@ -134,7 +134,7 @@ One should not use uncoined silver for the redemption [of the second tithe]. Ins
 [^28]: I.e., it has an imprint and was once issued by a government as currency, but is no longer accepted by the present ruling authorities.
 [^29]: The Rambam mentions this interpretation of the verse in his Commentary to the Mishnah (*loc. cit.*). The commentaries have not cited a common prior Rabbinic source. See, however, *Midrash HaGadol* and *Midrash Tana'im*.
 [^30]: But which is no longer being minted at present.
-[^31]: E.g., his pouch fell into the sea, in which instance, his coins are no longer accessible to him ([[Bava Kamma 98#98a|*Bava Kama* 98a]]).
+[^31]: E.g., his pouch fell into the sea, in which instance, his coins are no longer accessible to him (*Bava Kama* [[Bava Kamma 98#98a|98a]]).
 [^32]: The word "*yadecha*," translated as "your hand," can also be interpreted as "your domain." That is the intent here, because the money need not actually be in one's hand. As long as they are in one's domain, and they are accessible, it is acceptable, as evident from this and the subsequent halachot.
 [^33]: The cost of recovering the coins must, however, be deducted before one uses the money to redeem produce [the Jerualem Talmud (*Ma'aser Sheni* 1:2)].
 [^34]: And he is certain that he will rob him.
@@ -153,7 +153,7 @@ One should not use uncoined silver for the redemption [of the second tithe]. Ins
 [^45]: I.e., the storekeeper obviously sells the produce for a higher price than the price at which he purchases it.
 [^46]: In his Commentary to the Mishnah (*Ma'aser Sheni* 4:2), the Rambam explains that a moneychanger will take 25 *me'ah* for a *sela*, but will only give 24. If the produce is worth a *sela*, the person redeeming it need not pay more than 24.
 [^47]: 100 large silver pieces.
-[^48]: [[Bava Metzia 57#57a|*Bava Metzia* 57a]] makes such a statement with regard to consecrated property (see *Hilchot Arachin* 7:8). The Rambam draws the parallel since the laws governing consecrated property are more stringent than those governing the second tithe.
+[^48]: *Bava Metzia* [[Bava Metzia 57#57a|57a]] makes such a statement with regard to consecrated property (see *Hilchot Arachin* 7:8). The Rambam draws the parallel since the laws governing consecrated property are more stringent than those governing the second tithe.
 [^49]: In previous eras, the minting of coins was less precise and it was possible that a coin would weigh slightly less than the standard weight for it. Alternatively, wear and tear could have reduced its weight.
 [^50]: This is also a leniency, for in ordinary business dealings one would have to reimburse the other party for the difference in value (*Hilchot Mechirah* 10:12).
 [^51]: I.e., its worth is more than a sixth less than the value of a *sela*.
@@ -164,7 +164,7 @@ One should not use uncoined silver for the redemption [of the second tithe]. Ins
 [^56]: Which is still valuable, but is not as valuable as ordinary wine and hence, must be assessed, for once the produce has started to spoil, its value is not a cut-and-dry matter [the Rambam's Commentary to the Mishnah Talmud (*Ma'aser Sheni* 4:2)].
 [^57]: For they will be able to assess the true value of the produce.
 [^58]: Two gentiles or two owners, however, are not acceptable [Jerusalem Talmud (*Ma'aser Sheni* 4:2)].
-[^59]: [[Sanhedrin 14#14b|*Sanhedrin* 14b]] relates that Rav Papa's wife helped evaluate his produce.
+[^59]: *Sanhedrin* [[Sanhedrin 14#14b|14b]] relates that Rav Papa's wife helped evaluate his produce.
 [^60]: Because the owner must add a fifth.
 [^61]: The Rambam's ruling is based on his version of the *Tosefta, Ma'aser Sheni* 3:3. The Ra'avad maintains that the proper version of that source is: "We compel him to make the first bid. If he desires to retract he may. This is the stringency of consecrated property over the second tithes." The *Kessef Mishneh* notes that this is indeed the version of the *Tosefta* commonly followed. There is an added difficulty with the Rambam's ruling, because in all instances of consecrated property, he requires the owner to make the first bid. See *Hilchot Arachin*, ch. 5, in contrast to the statements of Radbaz here.
 [^62]: By contrast, money to which the holiness of the second tithe has been transferred may of course be transported.

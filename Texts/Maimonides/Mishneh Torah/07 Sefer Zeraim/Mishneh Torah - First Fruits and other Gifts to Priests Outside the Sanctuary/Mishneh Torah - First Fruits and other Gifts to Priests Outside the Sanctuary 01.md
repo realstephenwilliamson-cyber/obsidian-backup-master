@@ -79,7 +79,7 @@ According to this reckoning, all of the portions given the priests from sacrific
 
 [^1]: The Rambam specifies and categorizes them in this chapter.
 [^2]: [[Torah 38 - Korach#^18-19|Numbers 18:19]] speaks of 'an eternal covenant of salt.' It is called a covenant of salt, because just as salt never spoils, so too, this covenant will endure forever (Rashi).
-[^3]: The *Kessef Mishneh* notes that [[Menachot 18#18b|*Menachot* 18b]], the Rambam's apparent source, states: 'Any priest that does not acknowledge the priestly service does not receive a portion of the priesthood.' The *Kessef Mishneh* questions why the Rambam changes the wording of his source.
+[^3]: The *Kessef Mishneh* notes that *Menachot* [[Menachot 18#18b|18b]], the Rambam's apparent source, states: 'Any priest that does not acknowledge the priestly service does not receive a portion of the priesthood.' The *Kessef Mishneh* questions why the Rambam changes the wording of his source.
 [^4]: E.g., like *terumah* or the first fruits which are referred to as 'holy.'
 [^5]: These presents also include elements of the sacrificial offerings. The Rambam speaks about the mitzvah to partake of these sacred foods in *Hilchot Ma'aseh HaKorbanot* 10:1-2. And see *Hilchot Terumah* 15:22 which describes partaking of *terumah*.
 [^6]: See Halachah 4. The division of the presents into these categories is not found in a prior Rabbinic source, but instead, was made by the Rambam himself (*Kessef Mishneh*).

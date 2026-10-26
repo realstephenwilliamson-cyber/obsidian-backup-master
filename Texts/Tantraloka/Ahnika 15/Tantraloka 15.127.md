@@ -27,7 +27,7 @@ yonibījārṇasāṅkaryaṃ bahudhā yadyapi sthitam || ^iast
 > [!source] Dyczkowski, vol. VIII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 08 (Dyczkowski)/Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#^pg103|p. 85]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 08.pdf#page=103>))
 >
-> The emissive state’ (of consciousness arises) due to the mutual arousal of the seeds (which are the vowels) and the matrices (which are the consonants). What accomplishment does (its arising) not produce, and what is it that is incomplete, that it does not fulfil? (with 15.126cd–127ab)
+> The emissive state (of consciousness arises) due to the mutual arousal of the seeds (which are the vowels) and the matrices (which are the consonants). What accomplishment does (its arising) not produce, and what is it that is incomplete, that it does not fulfil? (with 15.126cd–127ab)
 >
 > Although there are many kinds of (alphabets mentioned in the scriptures) in which the seeds and matrices are mixed, even so, this one which begins with N and ends with PH is considered to be the main one. (with 15.127cd–128ab)
 

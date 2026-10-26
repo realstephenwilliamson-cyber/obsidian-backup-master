@@ -77,7 +77,7 @@ Phil. ii.
 
 8, 9.
 
-1Cor. ii.8.
+[[1 Corinthians 02#^2-8|1Cor. ii.8]].
 
 glory and the fulness of His fame were summed up in the faets of His suffering for the life of the world and opening by His own resurrection the gate through which all may rise. For if we examine as well as we may the real character of the mystery of His work, we shall see that He died, not merely for Himself, nor even especially for His own sake; but that it was on behalf of humanity that He suffered and carried out both the suffering in itself and the resurrection that followed. For in that He died according to the flesh, He offered up His own life as an equivalent for the life of all; and by rendering perfect satisfaction for all, He fulfilled in Himself to the uttermost the force of that ancient curse. And in that He has risen again from the dead to a life imperishable and unceasing, in Himself He raises the whole of nature. For having died once for all, thenceforward, as it is written, He dieth no more; death no more hath dominion over Him. For the death that He died, He died wnto sin once: but the life thut He liveth, He liveth unto God. This also will for Christ’s sake be true even in our own ease. For we shall rise, no more subject to death, but endowed with endless life ; even though there will be hereafter a great diversity of lot among those that rise—I mean as regards their glory and the reeompence which each shall receive as due to his works. Christ therefore, after becoming obedient to God the Father even wnto deuth, yea, the death of the cross, according to the saying of Paul, was onee again highly exalted, receiving the name which is above every name. For He Who was believed to be a mere man was glorified very much beyond that, by being acknowledged as in very truth really God and the Son of God; not being promoted to a new dignity in possessing the Divine nature, but rather returning with His flesh to the full enjoyment of that very glory which was equally His before He took flesh. For this reason then we shall reckon that He was now glorified, although there never was a time when He was not Lord of glory.
 
@@ -121,7 +121,7 @@ Not altogether without pain to His own disciples will the departure be, He says;
 
 αἱ xiii. 33.
 
-Phil.i.23.
+[[Philippians 01#^1-23|Phil.i.23]].
 
 5 ἄνοδος
 
@@ -202,7 +202,7 @@ In very truth, my good sir, we will admit that you acted most rightly in adding 
 
 Cf.
 
-S. Mark xii. 30.
+S. [[Mark 12#^12-30|Mark xii. 30]].
 
 Yom. xiii, 9, 10.
 
@@ -320,7 +320,7 @@ And let no one here again imagine that Peter’s denial and failure were caused 
 
 But seeing that all that happened to the men of former times has been written for the admonition of those who live after them, let us now say somewhat necessary to our edification, drawing our conclusions from this passage. Ido not think that we ought to make any rash vows before God, or to promise to perform what may sometimes be beyond our power, as though we could control human events. And I say this in regard to the charges to which we render ourselves liable in case of failure: especially I consider that hasty statements, such as “I will do this,” or, “I will do that,’ as the case may be, are not far removed from arrogance. For in all cases where one may have deliberately determined to undertake any matter, wishing to carry it out successfully, one’s duty is always to use those words of the very wise disciple: If the Lord will, and we live. For while I maintain that a zeal for good works must be inherent in the souls of the godly, as well as eager willingness to carry these virtuous resolves with all our might into effect, yet our duty is to
 
-1\. Cor, x. 11. S. James iv. 15.
+1\. Cor, x. 11. S. [[James 04#^4-15|James iv. 15]].
 
 
 *[p. 231]* ^pg257
@@ -337,9 +337,9 @@ By saying that Peter's courage will fail him so utterly that he will deny his Ma
 
 Cc. xiv. 1.
 
-S. Luke xxiv. 49.
+S. [[Luke 24#^24-49|Luke xxiv. 49]].
 
-Phil.iv.7.
+[[Philippians 04#^4-7|Phil.iv.7]].
 
 282 Christ infuses due confidence.
 
@@ -361,7 +361,7 @@ was a coward, and while the disciples were smarting with ο. xiv. 1. the anxieti
 
 Creed gives us not three Gods, but one God. Still, I maintain that we must preserve accurately the definitions of our faith, not content with saying “We believe in God,” but fully explaining our confession, and attaching to each Person the same measure of glory. For in our minds there should be no difference as to the intensity of our faith: our faith in the Father is not to be greater than our faith in the Son, or even than our faith in the Holy Ghost. But one and the same is the extent and the manner of our confession, uttered in regard to each of the three Persons with the same measure of faith; in such a way that herein again the Holy Trinity may appear in Unity of nature, so that the glory that encircles It may be seen in unchallenged perfection, and our souls may display our faith in the Father and in the Son, even in His Incarnation, and in the Holy Ghost. And I believe no man, if he were wise, would make any distinction between the Word of God and the Temple formed from the virgin, at least as regards the question of sonship; for there is One Lord, Jesus Christ, accord- Ὁ ing to the saying of Paul. But let him who would sever into two sons Him Who is One and One alone, know surely that he is denying the faith. The inspired Paul, for instance, in working out very excellently and accurately the doctrine on this point, would have us confess our belief not simply in Christ as the Only-begotten, but also in Him as made like unto us, that is, made man, and as having both died and risen again from the dead. For what does he say? Zhe word is nigh thee, inthy mouth, and in thy heart ; that is, the word of faith, which we preach: that if thow shalt say with thy mouth, Jesus is Lord, and shult believe in thy heart that God ruised Him from the deud, thow shult be saved: for with the heurt man believeth wnto righteousness ; and with the mouth confession is made unto salvation. Now if we believe on the Son as having risen again, who was He that died so that He might rise again? But it is evident that He is reckoned to have died according to the flesh.
 
-1\. Cor. viii. 6. Rom. x. 8-10.
+1\. Cor. viii. 6. [[Romans 10#^10-8|Rom. x. 8-10]].
 
 
 *[p. 235]* ^pg261
@@ -404,7 +404,7 @@ love Him. And it seems likely that in speaking of the many mansions He wishes al
 
 *[p. 237]* ^pg263
 
-before the presence of God the Father that Christ has c. xiv.2,3. ascended up on high: for He ever was and is and will be continually in the Father, in the sight of Him Who begat Him, for He it is in Whom the Father ever takes Cf. Prov. delight: but now He Who of old was the Word with no ‘## 3° part or lot in human nature, has ascended in human form that He may appear in heaven in a strange and unwonted manner. And this He has done on our account and for our sakes, in order that He, though fownd as a Phil. ii.s. man, may still in His absolute power as Son, while yet in human form, obey the command: Sit Thow on My Ps. cx. 1. right hand, and so may transfer the glory of adoption through Himself to all the race. For in that He has appeared in human form He is still one of us as He sits at the nght hand of God the Father, even though He is far above all creation; and He is also Consubstantial with His Father, in that He has come forth from Him as truly God of God and Light of Light. He has presented Himself therefore as Man to the Father on our behalf, that so He may restore us, who had been removed from the Father’s presence by the ancient transgression, again as it were to behold the Father's face. He sits there in His position as Son, that so also we through Him may be called sons and children of God. For this reason also Paul, who insists that he has Christ speaking 2 Cor. by his voice, teaches us to regard the events that hap-\*""\* pened in the life of Christ alone as common to the whole race ; saying that God raised us wp with Him, and made Eph.ii. 6. us to sit with Him in the heavenly places, in Christ. For to Christ, as by nature Son, it belongs as a special prerogative to sit at the Father's side, and the glory of this dignity we can ascribe rightly and truly to Him, and Him alone. But the fact that Christ Who sits there is in all points like unto us, in that He has appeared as Man, while we believe Him to be God of God, seems to confer on us also the privilege of this dignity. For even if we shall not sit at the side of the Father Himself,—for how could the servant ever ascend to equal honour
+before the presence of God the Father that Christ has c. xiv.2,3. ascended up on high: for He ever was and is and will be continually in the Father, in the sight of Him Who begat Him, for He it is in Whom the Father ever takes Cf. Prov. delight: but now He Who of old was the Word with no ‘## 3° part or lot in human nature, has ascended in human form that He may appear in heaven in a strange and unwonted manner. And this He has done on our account and for our sakes, in order that He, though fownd as a Phil. ii.s. man, may still in His absolute power as Son, while yet in human form, obey the command: Sit Thow on My Ps. cx. 1. right hand, and so may transfer the glory of adoption through Himself to all the race. For in that He has appeared in human form He is still one of us as He sits at the nght hand of God the Father, even though He is far above all creation; and He is also Consubstantial with His Father, in that He has come forth from Him as truly God of God and Light of Light. He has presented Himself therefore as Man to the Father on our behalf, that so He may restore us, who had been removed from the Father’s presence by the ancient transgression, again as it were to behold the Father's face. He sits there in His position as Son, that so also we through Him may be called sons and children of God. For this reason also Paul, who insists that he has Christ speaking 2 Cor. by his voice, teaches us to regard the events that hap-\*""\* pened in the life of Christ alone as common to the whole race ; saying that God raised us wp with Him, and made [[Ephesians 02#^2-6|Eph.ii. 6]]. us to sit with Him in the heavenly places, in Christ. For to Christ, as by nature Son, it belongs as a special prerogative to sit at the Father's side, and the glory of this dignity we can ascribe rightly and truly to Him, and Him alone. But the fact that Christ Who sits there is in all points like unto us, in that He has appeared as Man, while we believe Him to be God of God, seems to confer on us also the privilege of this dignity. For even if we shall not sit at the side of the Father Himself,—for how could the servant ever ascend to equal honour
 
 *[p. 238]* ^pg264
 

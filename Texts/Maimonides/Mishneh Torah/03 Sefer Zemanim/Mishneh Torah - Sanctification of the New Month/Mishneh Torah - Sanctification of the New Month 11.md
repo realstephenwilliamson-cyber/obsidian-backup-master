@@ -76,7 +76,7 @@ This location is situated approximately 32 degrees north of the equator,[^24] [a
 [^1]: E.g., Chapter 1, Halachah 6; Chapter 2, Halachah 4; Chapter 6, Halachah 1.
 [^2]: This concept, the calculation of the place and position of the new moon, and the determination of when it will be visible, is the subject of this and the following eight chapters. In the present chapter, the Rambam outlines the general principles and ground rules governing his calculations.
 [^3]: See Chapter 17, Halachah 24, where the Rambam states that in this text he refers to the works of Greek scientists, because the books written by the Sages of Israel on the subject were not available to him. In the following halachah, however, he mentions having accepted traditions from the Rabbis.
-[^4]: The poetic wording is borrowed, out of context, from [[Bava Kamma 91#91a|*Bava Kama* 91a]].
+[^4]: The poetic wording is borrowed, out of context, from *Bava Kama* [[Bava Kamma 91#91a|91a]].
 [^5]: The latter phrase is borrowed, also out of context, from [[Torah 22 - Vayakhel#^36-2|Exodus 36:2]].
 [^6]: I.e., to receive this knowledge, one had to have received *semichah* as described in *Hilchot Sanhedrin*, Chapter 4. Nevertheless, not all the Sages who received *semichah* were privileged to this knowledge.
 [^7]: This term is used, because from man's perspective, the earth appears flat and the heavens appear as a sphere that revolves around him, only half of which is visible at any given time.

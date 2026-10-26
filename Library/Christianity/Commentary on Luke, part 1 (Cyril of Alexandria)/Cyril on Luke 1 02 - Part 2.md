@@ -26,7 +26,7 @@ pleased God the Father to form into one new whole all things in Him, and to bind
 
 taken chiefly from the Commentary on Isaiah. Conf. Vol. If. 134. 200.
 
-(Ed. Aub.) And, lastly, an extract from B., to the effect that probably it was an archangel who brought the message, accompanied by. his usual attendants. The first passage is remarkable, both as speaking of a daily communion, and for its application of the word fepouvpyetra: to the “ mystical bread of life.’ The Fathers generally use this word in the same manner as St. Paul, Rom. xv. 16., for the discharge of any religious duty, and in this sense it will be found to occur more than once in the course of the Commentary. Other examples may be seen in Suicer’s Thesaurus under fepoupyéo, aud the only instance he gives of its application to the Lord’s supper is from Zonaras, a writer of the twelfth century. It occurs, however, in Philostorgii Hist. Eccl. ix. 4., and is there referred by Valesius to the Lord’s supper, but this interpretation is far from certain. For the historian is speaking of the heretic Eunomius, who, he says, retired to a sinall estute situated on the seashore near Chalcedon, ovde iepoup-Eph. ii. ry.
+(Ed. Aub.) And, lastly, an extract from B., to the effect that probably it was an archangel who brought the message, accompanied by. his usual attendants. The first passage is remarkable, both as speaking of a daily communion, and for its application of the word fepouvpyetra: to the “ mystical bread of life.’ The Fathers generally use this word in the same manner as St. Paul, [[Romans 15#^15-16|Rom. xv. 16]]., for the discharge of any religious duty, and in this sense it will be found to occur more than once in the course of the Commentary. Other examples may be seen in Suicer’s Thesaurus under fepoupyéo, aud the only instance he gives of its application to the Lord’s supper is from Zonaras, a writer of the twelfth century. It occurs, however, in Philostorgii Hist. Eccl. ix. 4., and is there referred by Valesius to the Lord’s supper, but this interpretation is far from certain. For the historian is speaking of the heretic Eunomius, who, he says, retired to a sinall estute situated on the seashore near Chalcedon, ovde iepoup-Eph. ii. ry.
 
 Vor it Eph. 1. ro.
 
@@ -60,7 +60,7 @@ T xopnynoet mad nyiv évvotas ayaOis. From this it appears that these homilies w
 
 *[p. 19]* ^pg43
 
-own decrees. And the reason of this the most wise Paul teaches us, saying, “ When we were babes we were enslaved Gal. iv. 3. “ ynder the elements of the world; but when the fulness of “the time came, God sent forth His Son, bornt of a woman, “ born under the law, to redeem them that were under the “Jaw.” Christ therefore ransomed from the curse of the law those who being subject to it, had been unable to keep its enactments. And in what way did He ransom them? By fulfilling it. And to put it in another way: in order that He might expiate the guilt of Adam’s transgression, He showed Himself obedient and submissive in every respect to God the Father in our stead: for it is written, “That as through the Rom. v.19. « disobedience of the One man, the many were made sinners, « sq also through the obedience of the One, the many shall be “made just.” He yielded therefore His neck to the law in company with us, because the plan of salvation so required: for it became Him to fulfil all righteousness. YFor having assumed the form of a slave, as being now enrolled by reason of His human nature among those subject to the yoke, He once even paid the half shekel to the collectors of the tribute, although by nature free, and as the Son not liable to pay the tax.
+own decrees. And the reason of this the most wise Paul teaches us, saying, “ When we were babes we were enslaved [[Galatians 04#^4-3|Gal. iv. 3]]. “ ynder the elements of the world; but when the fulness of “the time came, God sent forth His Son, bornt of a woman, “ born under the law, to redeem them that were under the “Jaw.” Christ therefore ransomed from the curse of the law those who being subject to it, had been unable to keep its enactments. And in what way did He ransom them? By fulfilling it. And to put it in another way: in order that He might expiate the guilt of Adam’s transgression, He showed Himself obedient and submissive in every respect to God the Father in our stead: for it is written, “That as through the [[Romans 05#^5-19|Rom. v.19]]. « disobedience of the One man, the many were made sinners, « sq also through the obedience of the One, the many shall be “made just.” He yielded therefore His neck to the law in company with us, because the plan of salvation so required: for it became Him to fulfil all righteousness. YFor having assumed the form of a slave, as being now enrolled by reason of His human nature among those subject to the yoke, He once even paid the half shekel to the collectors of the tribute, although by nature free, and as the Son not liable to pay the tax.
 
 t Mai has the received reading yevopevov. I have not noticed the many verbal discrepancies between him and Aubert, as the Catenists naturally had to make many slight alterations in forming their extracts into a connected discourse. The v. 1, yevvdpevor, though received by some of the Fathers, is unsupported by MS. authority.
 
@@ -106,15 +106,15 @@ the season of holy baptism, when also Christ makes us partakers of the Holy Ghos
 
 On the eighth day, therefore, Christ is circumcised, and receives, as I said, His Name: for then, even then, were we saved by Himy and through Him, “in Whom, it saith, ye were ol, ii. 11. “¢ cirenmeised with a circumcision not made with hands in the From Mai. “ putting off of the fleshly body, with Christ’s circumcision, “having been buried together with Him in baptism, wherein “also ye were raised with Him.’ His death, therefore, was for our sakes. as were also His resurrection and His circumcision. For He died, that we who have died together with Tim in His dying unto sin, may no longer live unto sin: for which reason it is said, “If we have died together with Him, we shall 2Tim.iias. “ also live together with Him”’ And He is said to have died unto sin, not because He had sinned, “ for Ile did no sin, nei- ; peti. 22, “ ther was guile found in His mouth,” but because of our sin. Like as therefore we died together with Ilim when He died, so shall we also rise together with Him.
 
-Again, when the Son was present among us, though by nature God and the Lord of all, He does not on that account despise our measure, but along with us is subject to the same law, although as God He was Himself the legislator. Like the Jews, He is circumcised when eight days old, to prove His descent from their stock, that they may not deny Him. For Christ was expected of the seed of David, and offered them the proof of His relationship. But if even when He was circumcised they said, “As for This man, we know not whence He is;” there John ix. 29.
+Again, when the Son was present among us, though by nature God and the Lord of all, He does not on that account despise our measure, but along with us is subject to the same law, although as God He was Himself the legislator. Like the Jews, He is circumcised when eight days old, to prove His descent from their stock, that they may not deny Him. For Christ was expected of the seed of David, and offered them the proof of His relationship. But if even when He was circumcised they said, “As for This man, we know not whence He is;” there [[John 09#^9-29|John ix. 29]].
 
 y The next two orthree paragraphs Aubert’s MS. in reducing two Ser-are not found in Aubert, but as they mons into one, made large omisare in Mai's same MS. K, which sions to avoid the too great length, contains most of the foregoing, and \[ have received them into the text. as it is possible that the Copyist of
 
 *[p. 22]* ^pg46
 
-Rom. ii. 29.
+[[Romans 02#^2-29|Rom. ii. 29]].
 
-From Aub, Rom. xi.33.
+From Aub, [[Romans 11#^11-33|Rom. xi.33]].
 
 3B COMMENTARY UPON
 
@@ -124,7 +124,7 @@ But after His circumcision, the rite was done away by the introduction of that w
 
 After His circumcision, she next waits for the time of her purification : and when the days were fulfilled, and the fortieth was the full time, God the Word, Who sitteth by the Father's side, is carricd up to Jerusalem, and brought into the Father’s presence in human nature like unto us, and by the shadow of the law is numbered among the firstborn. For even before the Incarnation the firstborn were holy, and consecrated to God, being sacrificed to Him according to the law. 40! how great and wonderful is the plan of salvation! ‘“O the depth of the “riches both of the wisdom and knowledge of God!” He Who is in the bosom of the Father, the Son Who shares His throne, and is coeternal with Him: by Whom all things are divinely brought into existence, submitted nevertheless to the measure of human nature, and even offered a sacrifice to His own Father, although adored by all, and glorified with
 
-z Mai’s next extract is from the a Aubert begins again here. The 15th book of the De dor. Spir. passage is also in the Anrea Catena, J. 553, and is omitted. upon Luke ii. 24.
+z Mai’s next extract is from the a Aubert begins again here. The 15th book of the De dor. Spir. passage is also in the Anrea Catena, J. 553, and is omitted. upon [[Luke 02#^2-24|Luke ii. 24]].
 
 *[p. 23]* ^pg47
 
@@ -176,13 +176,13 @@ Christ4 therefore was carried into the temple, being yet a little child at the b
 
 “\*... and offered what is appointed “in the law, a pair of turtles and “two young pigeons, the type of “temperance and gentleness, as “ well as also of each kind of life, “marriage, namely, and celibacy, “ of both of which He is the Law- “giver. For you may say that the “active and more spiritual, who “have taken upon themselves the \*\* single life, are the pigeons: but “‘ that those who occupy themselves “with a family and other domestic “cares are the turtle doves.” As in the unworthy interpretation of the butter, referred to in the note at the end of the 2nd Sermon, it is impossible to say which MS. contains this interpolation, as the letters put by Mai at the commencement of each extract merely mean that those MSS. severally contain more or less of what follows. Immediately afterwards he has another passage, the false philosophy and bad Greek of which confirm its rejection by the two trustworthy MSS. It is to the effect, that Sy-meon was to be set free from the leaping-ground of life: for life is a ransom and prison, (Avrpa kal 6noparnpiov.) Upon the offering of the turtle doves, the reader may compare S. Cyril’s explanation in the De Ador. Spir. Ed. Aub. I. 531. which agrees with the present Commentary.
 
-E Rom. i. 25. apxarkakw.
+E [[Romans 01#^1-25|Rom. i. 25]]. apxarkakw.
 
 Zech. x. 8.
 
 *[p. 26]* ^pg50
 
-Eph. ii. 13.
+[[Ephesians 02#^2-13|Eph. ii. 13]].
 
 Zech. x. 12.
 
@@ -192,7 +192,7 @@ Is.
 
 Jer, xvi.19.
 
-Rom. ix. 5.
+[[Romans 09#^9-5|Rom. ix. 5]].
 
 Also in the Syriac.
 
@@ -216,7 +216,7 @@ THE GOSPEL OF ST. LUKE. Q7
 
 Immanuel is set by God the Father for the foundations of Sion, “being a stone elect, chief of the corner, and honourable.” : Pet. ii. 6. Those then that trusted in Him were not ashamed : but those who were unbelieving and ignorant, and unable to perceive the mystery regarding Him, fell, and were broken in pieces. For God the Father again has somewhere said, “ Be- Is. xxviii. “hold I lay in Sion a stone of stumbling and a rock of offence, (oo xx. “and He that believeth on It shall not be ashamed; but on 18. “ whomsoever It shall fall, It will winnow him.” But the prophet bade the Israelites be secure, saying, “ Sanctify the Lord Is. viii. 13. « Himself, and He shall be thy fear: and if thou trust upon « Him, He shall be thy sanctification, nor shall ye strike “ against Him as on a stone of stumbling, and a rock of of- “ fence.” Because however Israel did not sanctify the Emmanuel Who is Lord and God, nor was willing to trust in Him, having stumbled as upon a stone because of unbelief, it was broken in pieces and fell. But many rose again, those, namely, who embraced faith in Him. For they changede from a legal to a spiritual service: from having in them a slavish spirit, they were enriched with That Spirit Which maketh free, even the Holy Ghost: they were made partakers of the divine nature: <sup>2</sup>Pet. i. 4. they were counted worthy of the adoption of sons: and live in hope of gaining the city that is above, even the citizenship, to wit, the kingdom of heaven.
 
-And by the sign that is spoken against, he means the precious Also in the Cross, for as the most wise Paul writes, “ to the Jews it is a stum- Hone « blingblock, and foolishness to the heathen.” And again, ‘ To <sup>1</sup>Cor. i. 23. “them that are perishing it is foolishness: but to us who are 1Cor. i. 18. “ being saved, it is the power of God unto salvation.” The sign therefore is spoken against, if to those that perish it seem to be folly ; while to those who acknowledge its power it is salvation and life.
+And by the sign that is spoken against, he means the precious Also in the Cross, for as the most wise Paul writes, “ to the Jews it is a stum- Hone « blingblock, and foolishness to the heathen.” And again, ‘ To <sup>1</sup>Cor. i. 23. “them that are perishing it is foolishness: but to us who are [[1 Corinthians 01#^1-18|1Cor. i. 18]]. “ being saved, it is the power of God unto salvation.” The sign therefore is spoken against, if to those that perish it seem to be folly ; while to those who acknowledge its power it is salvation and life.
 
 And Symeon further said to the holy Virgin, “ Yea, a « sword shall go through thy own soul also,” meaning by the sword the pain which she suffered for Christ, in seeing Him
 
@@ -290,7 +290,7 @@ Cyril.
 
 m Mai's next extract upon v. 52.
 
-may serve as an instance of the manner in which the Catenists joined with the utmost neatness passages from various works. It commences with S. Cyril's Commentary on John i. 14, Op. iv. 96:
+may serve as an instance of the manner in which the Catenists joined with the utmost neatness passages from various works. It commences with S. Cyril's Commentary on [[John 01#^1-14|John i. 14]], Op. iv. 96:
 
 after which there follow a few lines, which may possibly be from the Commentary on Luke: and finally, we have the 28th assertion of the Thesaurus, Op. v. pt. i. 253. The doctrine of these extracts is nearly identical, all affirming that our Lord’s increase in wisdom and stature and grace. cannot be said of Him considered as the Word, but either must be understood of the increase of admiration on the part of all who beheld Him, and daily witnessed a fuller manifestation of His glory: or, as the two latter extracts teach, it refers to the human nature. As I have not been able to find the second extract in S. Cyril’s collected works, I give it entire: “ And observe, that that “ which increases in any thing is ‘ different from that in which it is “ said to increase. If therefore He \*‘is said to increase in wisdom, it “was not the wisdom that in- “creased, but the human nature “ that increased in it. For as the “ Godhead day by day unveiled and \* manifested Itself in Him, He ever “ became an object of greater admi- “ration to those that saw Him.” V. 4y-
 
@@ -432,7 +432,7 @@ Ps. civ. 15,
 
 Johniii. 28.
 
-John i. 19.
+[[John 01#^1-19|John i. 19]].
 
 Is. lxii. 1.
 
@@ -452,7 +452,7 @@ serted in a parenthesis a curious observation, namely, that by the opaipornp is 
 
 *[p. 40]* ^pg64
 
-John i. 30.
+[[John 01#^1-30|John i. 30]].
 
 John viii.
 
@@ -516,9 +516,9 @@ UPON THE MANIFESTATION OF OUR LoRD.
 
 And it came to pass, that when all the people were baptized, ©. iii. 21-Jesus also was baptized: and as He was praying, the hea- a3e7 vens were opened, and the Holy Ghost descended upon Him in bodily form like a dove. And there was a voice from heaven, saying, Thou art my beloved Son: in Thee Iam well pleased. And Jesus Himself was beginning to be about thirty years old.
 
-AGAIN come, that fixing our mind intently upon the Evangelic Scriptures, we may behold the beauty of the truth. Come let us direct the penetrating and accurate cyes of the mind unto the mystery of Christ; let us view with wonder the admirable skill of the divine economy: for so shall we see His glory. And thus to act is for our life: as He Himself assures us, when speaking unto God the Father in heaven, “ These things are Johnxvii.3. “ life eternal: to know Thee Who alone art true; and Jesus “ Christ, Whom Thou hast sent.” How therefore was He sent? and what was the manner of His coming unto us? For being by uature God That filleth all, how, as the blessed John the Evangelist said, “ was He in the world,” Himself being Lord ? John i. 10. And how was He sent by the Father, when as God He is the Creator and Sustainer of all things? for all things were established by Hum.
+AGAIN come, that fixing our mind intently upon the Evangelic Scriptures, we may behold the beauty of the truth. Come let us direct the penetrating and accurate cyes of the mind unto the mystery of Christ; let us view with wonder the admirable skill of the divine economy: for so shall we see His glory. And thus to act is for our life: as He Himself assures us, when speaking unto God the Father in heaven, “ These things are Johnxvii.3. “ life eternal: to know Thee Who alone art true; and Jesus “ Christ, Whom Thou hast sent.” How therefore was He sent? and what was the manner of His coming unto us? For being by uature God That filleth all, how, as the blessed John the Evangelist said, “ was He in the world,” Himself being Lord ? [[John 01#^1-10|John i. 10]]. And how was He sent by the Father, when as God He is the Creator and Sustainer of all things? for all things were established by Hum.
 
-The wise John the Evangelist then teaches us, saying, « And the Word was made flesh.” But perchance some one John i. 14. will say, ‘What then? Having ceased to be the Word, did
+The wise John the Evangelist then teaches us, saying, « And the Word was made flesh.” But perchance some one [[John 01#^1-14|John i. 14]]. will say, ‘What then? Having ceased to be the Word, did
 
 y It is to be observed, that S. omission here of vv. 18-20.: 6 pa-Cyril often omits several verses in xdptos KupiAdos Tov ‘Hpadou év ti his Commentary. In one of Mai’s épynveta odk émepvnody: and pro-MSS. some one has written the fol- ceeds to give a reason for it.
 
@@ -544,9 +544,9 @@ Ie. ri. 3. 1 Pet. il. Heb.vii. i nN rov Xporov Sinvexy.. “Therefore is
 
 THE GOSPEL OF ST. LUKE. 4S
 
-Indivisible therefore is divided by you into two sons: and beeause He was baptized when thirty years old, He was made holy, as you say, by being baptized. Was He therefore not holy until He arrived at His thirtieth year? Who will assent to you, when thus you corrupt the right and blameless faith? For “ there is one Lord Jesus Christ,” as it is written. But this we :Cor.viii.6. affirm: that He was not separate4 from Him, and by Himself when baptized and made partaker of the Holy Ghost: for we know, beth that He is God, and without stain, and Holy of the Iloly: for we eonfess that “of His fulness have all we re- Johni. 16. ecived.” For the Holy Spirit indeed proceedeth from God the Father, but belongeth also to the Son. It is even often ealled the Spirit of Christ, though proceeding from God the Father. And to this Paul will testify, saying, at one time, “ They that Rom.viii.s. ‘‘are in the flesh cannot please God: but ye are not in the “flesh, but in the spirit, if so be the Spirit of God dwelleth ‘in you. But if any one have not the Spirit of Christ, he is “none of His.” And again, ‘ But beeause ye are sons, God Gal. iv. 6. ‘hath sent the Spirit of His Son into your hearts, crying, “Father, our Father.” The Holy Spirit therefore proeeedeth indeed as I said from God the Father, but His Only-begotten Word, as being both by nature and verily Son, and resplendent with the Father’s dignities, ministereth It to the creation, and bestowetl It on those that are worthy. Yea verily Ie said,
+Indivisible therefore is divided by you into two sons: and beeause He was baptized when thirty years old, He was made holy, as you say, by being baptized. Was He therefore not holy until He arrived at His thirtieth year? Who will assent to you, when thus you corrupt the right and blameless faith? For “ there is one Lord Jesus Christ,” as it is written. But this we :Cor.viii.6. affirm: that He was not separate4 from Him, and by Himself when baptized and made partaker of the Holy Ghost: for we know, beth that He is God, and without stain, and Holy of the Iloly: for we eonfess that “of His fulness have all we re- Johni. 16. ecived.” For the Holy Spirit indeed proceedeth from God the Father, but belongeth also to the Son. It is even often ealled the Spirit of Christ, though proceeding from God the Father. And to this Paul will testify, saying, at one time, “ They that Rom.viii.s. ‘‘are in the flesh cannot please God: but ye are not in the “flesh, but in the spirit, if so be the Spirit of God dwelleth ‘in you. But if any one have not the Spirit of Christ, he is “none of His.” And again, ‘ But beeause ye are sons, God [[Galatians 04#^4-6|Gal. iv. 6]]. ‘hath sent the Spirit of His Son into your hearts, crying, “Father, our Father.” The Holy Spirit therefore proeeedeth indeed as I said from God the Father, but His Only-begotten Word, as being both by nature and verily Son, and resplendent with the Father’s dignities, ministereth It to the creation, and bestowetl It on those that are worthy. Yea verily Ie said,
 
-All things that the Father hath are mine.” Pon xvi. But let us retort upon those who pervert the right belief this ~ question; ‘How can Ie Who reecived the Spirit, if He be, ‘according to your phrase, a man, and the Son separately and ‘by Himself, baptize with the Holy Ghost, and Himself give ‘the Holy Spirit to them who are baptized?’ For to be able to impart the Spirit to men suiteth not any one whatsoever of things created, but, together with God’s other attributes, is the distinct property of Almighty God alone. But He Who gave It was man: for the wise John said, “After me cometh a Man, Who John i. 30. ‘was before me... He shall baptize you with the Holy Ghost ‘and with fire.” As therefore it is unbefitting God the Word,
+All things that the Father hath are mine.” Pon xvi. But let us retort upon those who pervert the right belief this ~ question; ‘How can Ie Who reecived the Spirit, if He be, ‘according to your phrase, a man, and the Son separately and ‘by Himself, baptize with the Holy Ghost, and Himself give ‘the Holy Spirit to them who are baptized?’ For to be able to impart the Spirit to men suiteth not any one whatsoever of things created, but, together with God’s other attributes, is the distinct property of Almighty God alone. But He Who gave It was man: for the wise John said, “After me cometh a Man, Who [[John 01#^1-30|John i. 30]]. ‘was before me... He shall baptize you with the Holy Ghost ‘and with fire.” As therefore it is unbefitting God the Word,
 
 @ This refers to the doctrine of in His human nature, and distin-Nestorius, that He Who was bap- guished from God the Word.
 
@@ -554,7 +554,7 @@ tized was the man Christ, regarded
 
 *[p. 46]* ^pg70
 
-Phil. ii. 6.
+[[Philippians 02#^2-6|Phil. ii. 6]].
 
 regarded as God the Word, to draw near unto holy baptism, and be made partaker of the Spirit, so in like manner it is altogether incredible, or rather impossible to believe that the ability to baptize men with the Holy Ghost, is the act of a inere man with nothing in Him superior to ourselves.
 
@@ -634,7 +634,7 @@ Joel ii. 28.
 
 Gen. vi. 3.
 
-Heb. ii. 12.
+[[Hebrews 02#^2-12|Heb. ii. 12]].
 
 about himself: for he boastfully exulted over the infirmity of the inhabitants of the earth, saying, “1 will hold the world in “ my hand as a nest, and as eggs that are left I will take it up: “and no one shall escape from me or speak against me.” And in very truth there was no one of those upon earth who could rise up against his power; but the Son rose up against him, and contended with him, having been made like unto us. And therefore, as I said, human nature, as victorious in Him, wins the crown. And this in old time the Son Himself proclaimed, where by one of the holy prophets He thus addresses Satan ; “ Behold, Iam against thee, O corrupting mountain, that cor- “ ruptest the whole earth.”
 
@@ -672,7 +672,7 @@ f The Syriac agrees with Cr.’s ray elxaiov mepromacpay, «.T.X.
 
 MS. in reading dropoirévtes yap
 
-12. Gal. v. 24.
+12. [[Galatians 05#^5-24|Gal. v. 24]].
 
 *[p. 53]* ^pg77
 
@@ -716,9 +716,9 @@ k T. Aquinas here inserts: “But “the creature instead of the Crea- “ how i
 
 Ver. 9.
 
-Mat.xii.39.
+[[Matthew 12#^12-39|Mat.xii.39]].
 
-Luke x. 19.
+[[Luke 10#^10-19|Luke x. 19]].
 
 Tf Thou be the Son of Goi, cast Thyself down hence.
 

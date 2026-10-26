@@ -29,7 +29,7 @@ nirudhya raśmicakraṃ svabhogamokṣāvubhāvapi || ^iast
 >
 > The gods Brahmā and the rest (of the six causal forces), longing for liberation, are here (in the centre) in order to (achieve) release. (with 29.276ab)
 >
-> If, once having restrained the wheel of the rays of his own (inner and outer senses), he consumes both worldly enjoyment and liberation, his initiation is proclaimed to be (that of the goddess) Śarvī.““ (with 29.276cd–277ab)
+> If, once having restrained the wheel of the rays of his own (inner and outer senses), he consumes both worldly enjoyment and liberation, his initiation is proclaimed to be (that of the goddess) Śarvī. (with 29.276cd–277ab)
 
 ## Viveka
 

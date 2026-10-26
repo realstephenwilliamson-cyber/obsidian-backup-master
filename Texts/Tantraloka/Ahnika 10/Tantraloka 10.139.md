@@ -29,7 +29,7 @@ uktaṃ ca bodhayāmāsa sa sisṛkṣurjagatprabhuḥ || ^iast
 >
 > (This) descent (avatāra) (into the world) is divided (into two kinds. He may be born) either as a yogi, or as a man of knowledge (vijñānin). (with 10.139ab)
 >
-> Thus, it is said in the Śrīpūrvaśāsana (i.e. Mālinīvijayottara) that: ‘Desiring to emit the universe, the Lord awakened the eight (souls who are) Isolated in Consciousness. (with 10.139cd–140ab)
+> Thus, it is said in the Śrīpūrvaśāsana (i.e. Mālinīvijayottara) that: ‘Desiring to emit the universe, the Lord awakened the eight (souls who are) Isolated in Consciousness.’ (with 10.139cd–140ab)
 
 ## Viveka
 

@@ -160,7 +160,7 @@ Crossan, John Dominic. The Cross that Spoke: The Origins of the Passion Narrativ
 
 San Francisco: Harper & Row, 1988.
 
-Crouzel, Henri. Origen, tr. A. S. Worrall. San Francisco: Harper & Row, 1989. Curtis, F. P. G. “Luke xxiv.12 and John xx.3—10,” JTS n.s. 22 (1971) 512-15. Danielou, Jean. The Theology of Jewish Christianity, tr. John A. Baker. London:
+Crouzel, Henri. Origen, tr. A. S. Worrall. San Francisco: Harper & Row, 1989. Curtis, F. P. G. “[[Luke 24#^24-12|Luke xxiv.12]] and [[John 20#^20-3|John xx.3—10]],” JTS n.s. 22 (1971) 512-15. Danielou, Jean. The Theology of Jewish Christianity, tr. John A. Baker. London:
 
 Darnton, Longman, and Todd, 1964.
 
@@ -538,11 +538,11 @@ Michaelis, Wilhelm. Das Neue Testament verdeutscht und erlaufert. Leipzig, 1935.
 
 Moody, Dale. “God’s Only Son: The Translation of [[John 03#^3-16|John 3:16]] in the Revised Standard Version,” JBL 72 (1953) 213-16.
 
-Muddiman, John. “A Note on Reading Luke xxiv.12,” ETL 48 (1972) 542~48. Musurillo, H., ed. The Acts of the Christian Martyrs. Oxford: Clarendon, 1972. Nautin, Pierre. Origéne: sa vie et son oeuvre. Paris: Beauchesne, 1977.
+Muddiman, John. “A Note on Reading [[Luke 24#^24-12|Luke xxiv.12]],” ETL 48 (1972) 542~48. Musurillo, H., ed. The Acts of the Christian Martyrs. Oxford: Clarendon, 1972. Nautin, Pierre. Origéne: sa vie et son oeuvre. Paris: Beauchesne, 1977.
 
 Neirynck, Franz. “Lc xxiv 12: Les témoins du texte occidental,” in Miscellanea neotestamentica: Studia ad Novum Testamentum, ed. T. Baarda et al. NovTSup 47~—48; Leiden: Brill, 1978; 1. 45-60.
 
-. “The Uncorrected Historical Present in Lk. xxiv.12,” ETL 48 (1972) 548- 53.
+. “The Uncorrected Historical Present in [[Luke 24#^24-12|Lk. xxiv.12]],” ETL 48 (1972) 548- 53.
 
 Neufeld, Vernon. The Earliest Christian Confessions. Leiden: E. J. Brill, 1963. Neuschafer, Bernard. Origenes als Philologe. Schweizerische Beitrage zur Altertum-swissenschaft; Basel: Friedrich Reinhardt, 1987.
 

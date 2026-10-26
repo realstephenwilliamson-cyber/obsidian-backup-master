@@ -70,7 +70,7 @@ Text: [[NRSVue Luke 17|NRSVue]] · [[Luke 17|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 17#^17-25|25]]:** *Endure much suffering*, see 9.22. ^17-25
 
-**[[NRSVue Luke 17#^17-26|26–27]]:** *Noah*, see Gen 6–7. Rabbinic Judaism insists that Noah continually warned the people of the flood, from the time he planted the cedar trees for the wood with which to build the ark (see e.g., [[Sanhedrin 108#108a|*b. Sanh*. 108a]]/b; *Pirqe R. El.* 22; *Gen. Rab*. 30.7; *Lev. Rab*. 27.5). ^17-26
+**[[NRSVue Luke 17#^17-26|26–27]]:** *Noah*, see Gen 6–7. Rabbinic Judaism insists that Noah continually warned the people of the flood, from the time he planted the cedar trees for the wood with which to build the ark (see e.g., *b. Sanh*. [[Sanhedrin 108#108a|108a]]/b; *Pirqe R. El.* 22; *Gen. Rab*. 30.7; *Lev. Rab*. 27.5). ^17-26
 
 **[[NRSVue Luke 17#^17-28|28–29]]:** *Lot*, see [[Torah 04 - Vayera#^18-16|Gen 18.16–19.28]]. ^17-28
 

@@ -39,7 +39,7 @@ rection of His Body, that, when the time even seemed to call Him to change His B
 
 *[p. 669]* ^pg695
 
-. For while Christ is present among men it follows Cuap.1. that the tranquillity of their minds is assured unto them. δ᾽ \*\* 30. Paul also declared that this boon is granted to those who believe on Him, when he says: The peace of Christ, Phil.iv.7. which passeth all wnderstanding, shall guard your hearts and your thoughts; meaning by the peace of Christ which passeth all understanding nothing else than His Spirit, of Which if any man partake he shall be filled with everything that is good.
+. For while Christ is present among men it follows Cuap.1. that the tranquillity of their minds is assured unto them. δ᾽ \*\* 30. Paul also declared that this boon is granted to those who believe on Him, when he says: The peace of Christ, [[Philippians 04#^4-7|Phil.iv.7]]. which passeth all wnderstanding, shall guard your hearts and your thoughts; meaning by the peace of Christ which passeth all understanding nothing else than His Spirit, of Which if any man partake he shall be filled with everything that is good.
 
 20 The disciples, therefore, were glad when they saw the Lord.
 
@@ -49,7 +49,7 @@ Hereby, also, the blessed Evangelist testifies to the truth of our Saviour’s W
 
 ec. xx. 21.
 
-Rom. i.7.
+[[Romans 01#^1-7|Rom. i.7]].
 
 2 Cor. v.
 
@@ -59,7 +59,7 @@ Ts. xxvii, 5, 6.
 
 2 Kings
 
-Heb. v. 4.
+[[Hebrews 05#^5-4|Heb. v. 4]].
 
 Ps. xxv.
 
@@ -91,7 +91,7 @@ After dignifying the holy Apostles with the glorious
 
 Ο. xx, 22 23.
 
-8\. Luke xxiv. 49.
+8\. [[Luke 24#^24-49|Luke xxiv. 49]].
 
 1 Kings . distinction of the apostleship, and appointing them > ministers and priests of the Divine Altar, as I have just said, He at once sanctifies them by vouchsafing His Spirit unto them, through the outward sign of His Breath, that we might be firmly convinced that the Holy Spirit is not alien to the Son, but Consubstantial with Him, and through Him proceeding from the Father; He shows that the gift of the Spirit necessarily attends those who are ordained by Him to be Apostles of God. And why? Because they could have done nothing pleasing unto God, and could not have triumphed over the snares of sin, if they had not been clothed with power from on high, and been transformed into something other than they were before. Therefore, also, it was said to one of old time: The Spirit of the Lord will come upon thee, and thou shult be turned
 
@@ -225,7 +225,7 @@ Christ appeared once more unto His disciples miraculously by His Divine power. F
 
 Supra ver. 19.
 
-S. Luke xxii. 19, Cf.
+S. [[Luke 22#^22-19|Luke xxii. 19]], Cf.
 
 S. Matt.
 
@@ -276,7 +276,7 @@ Supra ver, 25.
 
 Ibid.
 
-S. Luke xxiv. 36- 43.
+S. [[Luke 24#^24-36|Luke xxiv. 36- 43]].
 
 have sufticed to prove that He had indeed risen from the dead, and to seeure His recognition?” What do we reply? The inspired disciples were not free from doubt, although they had seen the Lord. For they thought that He was not in very truth the same as He Who of old had lived and dwelt among them, and had hung upon the Cross, but rather that He was a Spirit, cunningly fashioned like unto our Saviour’s Image, and simulating the features of the form which they knew. For they fell into this delusion not without some apparent excuse, as He miraculously entered when the doors were closed; in spite of the fact that a body of coarse earthy mould requires a hole through which it can pass, and necessitates the aperture of the door to correspond in width with the size of the body. For this cause our Lord Jesus Christ, greatly to our profit, laid bare His Side to Thomas, and exposed the wounds on His Person, through his agency giving adequate proof to all. For though of Thomas alone is recorded the saying: Except I shall put my hands and see the prints. of the nails, and put my hand into His Side, I will not believe, yet was the charge of lack of faith common to them all; and we shall find that the minds of the other disciples were not free from perplexity, though they said unto the holy Thomas: We have seen the Lord. And that what we say does not err from the truth we may easily perceive by what the Divine Luke tells us: As they spake these things, He stood in the midst of them, that is, of course, Christ, and saith unto them, Peace be unto you. But they were terrified and affrighted, and supposed that they beheld ὦ spirit. And He suid unto them, Why are ye troubled? and wherefore do reasonings arise in your hearts? See My Hands and My Feet, that it is I Myself: handle Me, and see; for a spirit hath not flesh and bones, as ye behold Me having. And when He had said this, He showed them His Hands and lis Feet. And while they still disbelieved for joy, and wondered, He said unto them, Have ye here anything to
 
@@ -286,7 +286,7 @@ eat? And they gave Him a piece of ὦ broiled fish, and of an honeycomb. And He 
 
 VOL, 11. yy c, xx. 28.
 
-1Cor. xv. 42,
+[[1 Corinthians 15#^15-42|1Cor. xv. 42]],
 
 S. Luke
 
@@ -420,7 +420,7 @@ And I think (for I say that we ought to search out
 
 ©.xxi, 15- 17.
 
-S. Luke vi. 13.
+S. [[Luke 06#^6-13|Luke vi. 13]].
 
 the hidden meaning that is here implied) that these words were not written without a purpose, but the saying is pregnant with meaning, and the sense of the passage contains something more than meets the eye. May not someone reasonably ask, Why is it that Christ only asks Simon, though the other disciples were present? And what is the meaning of the words, Feed My lambs, and the like? We reply, that the inspired Peter had indeed already been elected, together with the other disciples, to be an Apostle of God (for our Lord Jesus Christ Himself named them Apostles, according to the Scripture), but, when the events connected with the plot of the Jews against Him came to pass, his fall came betwixt; for the inspired Peter was seized with uncontrollable fear, and thrice denied the Lord. Christ succours His erring disciple, and elicits by divers questions his thrice-repeated confession, counterbalancing, as it were, his error thereby, and making his recovery as signal as his fall. For a transgression which was verbal, and only in mere words supplied ground of accusation against him, could surely be wiped out in the same fashion as it was committed. He requires him to say whether he loved Him more than the rest. For in truth, as he had enjoyed a greater measure of forgiveness, and received from a more bountiful Hand the remission of his transgression, surely he would be likely to feel greater love than the rest, and requite his Benefactor with the extremity of affection. For although all the holy disciples alike betook themselves to flight, the inhumanity of the Jews inspiring them with a terror that they could not overcome, and the ferocity of the soldiers threatening them with cruel death when they came to take Jesus, still Peter’s transgression by his thrice-repeated denial was special and peculiar to him.
 

@@ -18,7 +18,7 @@ Text: [[NRSVue Matthew 21|NRSVue]] · [[Matthew 21|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 21#^21-1|1]]:** *Bethphage*, the location cannot be identified. *Mount of Olives*, east of Jerusalem, was linked to messianic and eschatological ideas ([[Ezekiel 11#^11-23|Ezek 11.23]]; [[Zechariah 14#^14-4|Zech 14.4]]). ^21-1-2
 
-**[[NRSVue Matthew 21#^21-2|2]]:** *Donkey . . . and a colt*, [[Zechariah 09#^9-9|Zech 9.9]], followed by [[Sanhedrin 98#98a|*b. Sanh*. 98a]], that the Messiah will come “riding upon an ass.” ^21-2
+**[[NRSVue Matthew 21#^21-2|2]]:** *Donkey . . . and a colt*, [[Zechariah 09#^9-9|Zech 9.9]], followed by *b. Sanh*. [[Sanhedrin 98#98a|98a]], that the Messiah will come “riding upon an ass.” ^21-2
 
 **[[NRSVue Matthew 21#^21-4|4–5]]:** *The prophet*, Matthew combines [[Isaiah 62#^62-11|Isa 62.11]] and [[Zechariah 09#^9-9|Zech 9.9]]. ^21-4
 
@@ -26,7 +26,7 @@ Text: [[NRSVue Matthew 21|NRSVue]] · [[Matthew 21|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 21#^21-8|8]]:** *Cut branches*, see [[Torah 31 - Emor#^23-39|Lev 23.39–40]]; [[II Kings 09#^9-13|2 Kings 9.13]]; [[LXX 2 Maccabees 10#^10-5|2 Macc 10.5–8]]; only [[John 12#^12-13|Jn 12.13]] mentions palms. ^21-8
 
-**[[NRSVue Matthew 21#^21-9|9]]:** *Hosanna*, Heb “save now” ([[Psalms 118#^118-26|Ps 118.26]]). A form of this term (“Help!”) is earlier used in connection with King David ([[II Samuel 14#^14-4|2 Sam 14.4]]). *Son of David*, see 9.27n. *Blessed is the one who comes,* from the “hallel” (“praise”) psalms (Ps 115–18) recited during Passover according to rabbinic tradition (*t. Sukk*. 3.2; [[Arakhin 10#10a|*b. Arak*. 10a]]). ^21-9
+**[[NRSVue Matthew 21#^21-9|9]]:** *Hosanna*, Heb “save now” ([[Psalms 118#^118-26|Ps 118.26]]). A form of this term (“Help!”) is earlier used in connection with King David ([[II Samuel 14#^14-4|2 Sam 14.4]]). *Son of David*, see 9.27n. *Blessed is the one who comes,* from the “hallel” (“praise”) psalms (Ps 115–18) recited during Passover according to rabbinic tradition (*t. Sukk*. 3.2; *b. Arak*. [[Arakhin 10#10a|10a]]). ^21-9
 
 **[[NRSVue Matthew 21#^21-10|10]]:** *Whole city was in turmoil*, see 2.3. ^21-10
 
@@ -88,6 +88,6 @@ Text: [[NRSVue Matthew 21|NRSVue]] · [[Matthew 21|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 21#^21-43|43]]:** *People that produces the fruits*, followers of Jesus. ^21-43
 
-**[[NRSVue Matthew 21#^21-46|46]]:** *Prophet*, see 21.11. Later rabbinic sources claimed that prophecy had ceased centuries earlier (e.g., [[Bava Batra 12#12a|*b. B. Bat*. 12a]] cites the destruction of the Temple; *Avot de R. Natan* B47: prophecy ceased due to harsh treatment by the people; *Pesiq. Rab*. 35: the lack of exiles returning to Israel caused prophecy to end). Josephus and others suggest a widespread belief that prophecy continued through the late Second Temple period. ^21-46
+**[[NRSVue Matthew 21#^21-46|46]]:** *Prophet*, see 21.11. Later rabbinic sources claimed that prophecy had ceased centuries earlier (e.g., *b. B. Bat*. [[Bava Batra 12#12a|12a]] cites the destruction of the Temple; *Avot de R. Natan* B47: prophecy ceased due to harsh treatment by the people; *Pesiq. Rab*. 35: the lack of exiles returning to Israel caused prophecy to end). Josephus and others suggest a widespread belief that prophecy continued through the late Second Temple period. ^21-46
 
 [[JANT Matthew 20|← Matthew 20]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Matthew 22|Matthew 22 →]]

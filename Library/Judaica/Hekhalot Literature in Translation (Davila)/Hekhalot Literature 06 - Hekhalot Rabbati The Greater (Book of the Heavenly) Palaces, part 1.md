@@ -610,7 +610,7 @@ Go and destroy<sup>m</sup> *every good piece*,<sup>n</sup> *thigh*<sup>o</sup> *
 
 j “and gave” O M40 D \] + “permission” N; + “to him,” M22 V B F; + “to him permission,” L <sup>k</sup>“Samma"el” O M40 D \] “wicked Samma"el” N V (B “another reading:”) L; + “the evil prince” M22 B; “to him, to wicked Samma"el” F. Samma"el functions here as the evil tutelary angel of Rome. The name means something like “blind god.” Samma"el appears as a satanic figure in *Ascen. Isa*. 1:8, 11; 2:1; 5:15 and as the Gnostic Demiurge in the Nag Hammadi Gnostic texts (e.g., *Apoc. John* II 1, 11.17–18; *Hyp. Arch*. II 87 3). He also appears as an evil angel elsewhere l “the prince of Rome”—erased in D B m “and
 
-in Jewish tradition, e.g., [[Sotah 10#10b|*b. Sotah* 10b]].
+in Jewish tradition, e.g., *b. Sotah* [[Sotah 10#10b|10b]].
 
 destroy” O M22 V B F L \] “and you shall destroy” N; “choose this” M40; “and be chosen” D <sup>n</sup>“*piece*” N M40 D V B F L (Ezek 24:4) \] “rest” (corrupt) O; “shoulder” M22 <sup>o</sup>“*thigh*” N p “to complete” N O M22 D V B F L \]
 

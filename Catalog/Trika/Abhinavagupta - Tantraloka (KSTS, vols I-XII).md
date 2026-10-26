@@ -72,7 +72,7 @@ The Sanskrit edition of the *Tantrāloka* that the vault's verse notes follow. I
 - Vols. I–VI have an OCR layer made with an English model, which is gibberish.
 - Vols. VIII and X have no text at all.
 
-All twelve were read with Tesseract's Sanskrit model in phase 2 of the October 2026 plan, but that text is not in the PDFs.
+All twelve were read with Tesseract's Sanskrit model in phase 2 of the October 2026 plan, but that text is not in the PDFs. **Decided** (Stephen, 25 Oct 2026): no OCR; the volumes stay scans, since the Sanskrit is in the verse notes.
 
 **See also:**
 - [[KSTS volumes]]: details of each volume.

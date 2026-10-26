@@ -27,7 +27,7 @@ citropāyopadeśo'pi na virodhāvaho bhavet || ^iast
 > [!source] Dyczkowski, vol. XI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)/Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#^pg222|p. 204]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 11.pdf#page=222>))
 >
-> It is due to the variety?" of its objects that it bestows various fruits. Thus, although the teaching within that is one of various means, it does not give rise (āvaha) to contradictions.
+> It is due to the variety?" of its objects that it bestows various fruits. Thus, although the teaching within that is one of various means, it does not give rise (avaha) to contradictions.
 
 ## Viveka
 

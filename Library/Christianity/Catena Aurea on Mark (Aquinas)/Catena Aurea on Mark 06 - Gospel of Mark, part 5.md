@@ -180,7 +180,7 @@ How then did He say, “To sit on My right hand or on My left is not mine to giv
 
 throne and seat, which is on the right hand of the Father, but sought one thing alone, that is, to possess the chief place, and to be set over others. And since they had heard it said of the Apostles, that they were to sit on twelve thrones, they begged for a place higher than all the rest, not knowing what was said. To the second question we must say, that such a gift does not transcend the power of the Son of God, but what is said by Matthew, “it is prepared 212
 
-by My Father,” \[Matt. 20:23\] is the same as if it were said, “by Me,” wherefore also Mark did not say here, by My Father.
+by My Father,” \[[[Matthew 20#^20-23|Matt. 20:23]]\] is the same as if it were said, “by Me,” wherefore also Mark did not say here, by My Father.
 
 What therefore Christ says here is this, Ye shall die, He says, for Me, but this is not enough to enable you to obtain the highest place, for if another person comes possessing besides martyrdom all other virtues, he will possess much more than you; for the chief place is prepared for those, who by works are enabled to become the first. Thus then the Lord instructed them not to trouble themselves vainly and absurdly for high places; at the same time He would not have them made sad.
 
@@ -246,7 +246,7 @@ Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: The blind man calls the Lord, the Son
 
 There follows: “And many charged him that he should hold his peace.”
 
-Origen, in Matt. tom. xvi, 13 \[ed. note: these preceding words of Origen are necessary to make up the sense: “Next observe, that on the blind man’s crying out, Thou Son of David, have mercy upon me, it was they who went before that charged him that he should hold his peace.” see Luke 18:39\]: As if he said, Those who were foremost in believing rebuked him when he cried, “Thou Son of David,” that he might hold his peace, and cease to call Him by a contemptible name, when he ought to say, Son of God, have pity upon me. He however did not cease; wherefore it goes on: “But he cried the more a great deal, Thou Son of David, have mercy upon me;” and the Lord heard his cry; wherefore there follows: “And Jesus stood still, and commanded him to be called.”
+Origen, in Matt. tom. xvi, 13 \[ed. note: these preceding words of Origen are necessary to make up the sense: “Next observe, that on the blind man’s crying out, Thou Son of David, have mercy upon me, it was they who went before that charged him that he should hold his peace.” see [[Luke 18#^18-39|Luke 18:39]]\]: As if he said, Those who were foremost in believing rebuked him when he cried, “Thou Son of David,” that he might hold his peace, and cease to call Him by a contemptible name, when he ought to say, Son of God, have pity upon me. He however did not cease; wherefore it goes on: “But he cried the more a great deal, Thou Son of David, have mercy upon me;” and the Lord heard his cry; wherefore there follows: “And Jesus stood still, and commanded him to be called.”
 
 But observe, that the blind man, of whom Luke speaks, is inferior to this one; for neither did Jesus call him, nor order him to be called, but He commanded him to be brought to Him, as though unable to come by himself; but this blind man by the command of our Lord is called to Him.
 
@@ -276,7 +276,7 @@ Theophylact: The mind of the blind man is grateful, for when he was made whole, 
 
 Bede: In a mystical sense, however, Jericho, which means the moon, points out the waning of our fleeting race. The Lord restored sight to the blind man, when drawing near to Jericho, because coming in the flesh and drawing near to His Passion, He brought many to the faith; for it was not in the first years of His Incarnation, but in the few years before He suffered, that He shewed the mystery of the Word to the world.
 
-Pseudo-Jerome: But the blindness in part, brought upon the Jews \[Rom 11:25\], will in the end be enlightened when He sends unto them the Prophet Elias.
+Pseudo-Jerome: But the blindness in part, brought upon the Jews \[[[Romans 11#^11-25|Rom 11:25]]\], will in the end be enlightened when He sends unto them the Prophet Elias.
 
 Bede: Now in that on approaching Jericho, He restored sight to one man, and on quitting it to two, He intimated, that before His Passion He preached only to one nation, the Jews, but after His Resurrection and Ascension, through His Apostles He opened the mysteries both of His Divinity and His Humanity to Jews and Gentiles. Mark indeed, in writing that one received his sight, refers to the saving of the Gentiles, that the figure might agree with the salvation of those, whom he instructed in the faith; but Matthew, who wrote his Gospel 217 to the faithful among the Jews, because it was also to reach the knowledge of the Gentiles, fitly says that two received their sight, that He might teach us that the grace of faith belonged to each people.
 
@@ -362,11 +362,11 @@ Pseudo-Chrys., Cat. in Marc. Oxon.: Wherefore also the prophets so often call Ch
 
 Bede: Now we read in the Gospel of John that He fled into a mountain, lest they should 222 make Him their king. Now, however, when He comes to Jerusalem to suffer, He does not shun those who call Him king, that He might openly teach them that He was King over an empire not temporal and earthly, but everlasting in the heavens, and that the path to this kingdom was through contempt of death.
 
-Observe, also, the agreement of the multitude with the saying of Gabriel, “The Lord God will give him the throne of his father David;” \[Luke 1:32\] that is, that He Himself may call by word and deed to a heavenly kingdom the nation to which David once furnished the government of a temporal rule.
+Observe, also, the agreement of the multitude with the saying of Gabriel, “The Lord God will give him the throne of his father David;” \[[[Luke 01#^1-32|Luke 1:32]]\] that is, that He Himself may call by word and deed to a heavenly kingdom the nation to which David once furnished the government of a temporal rule.
 
 Pseudo-Chrys., Cat. in Marc. Oxon.: And further, they give glory to God, when they add, “Hosanna in the highest,” that is, praise and glory be to the God of all, Who is in the highest.
 
-Pseudo-Jerome: Or Hosanna, that is, save “in the highest” as well as in the lowest, that is, that the just be built on the ruin of Angels, and also that both those on the earth and those under the earth should be saved. In a mystical sense, also, the Lord approaches Jerusalem, which is ‘the vision of peace,’ in which happiness remains fixed and unmoved, being, as the Apostle says, the mother of all believers. \[Gal 4:26\]
+Pseudo-Jerome: Or Hosanna, that is, save “in the highest” as well as in the lowest, that is, that the just be built on the ruin of Angels, and also that both those on the earth and those under the earth should be saved. In a mystical sense, also, the Lord approaches Jerusalem, which is ‘the vision of peace,’ in which happiness remains fixed and unmoved, being, as the Apostle says, the mother of all believers. \[[[Galatians 04#^4-26|Gal 4:26]]\]
 
 Bede: Bethany again means the house of obedience, because by teaching many before His Passion, he made for Himself a house of obedience; and it is said to be placed on the mount of Olives, because He cherishes His Church with the unction of spiritual gifts, and with the light of piety and knowledge. But He sent His disciples to a hold \[ed. note: castellum\], which was over against them, that is, He appointed doctors to penetrate into the ignorant parts of the whole world, into, as it were, the walls of the hold placed against them.
 
@@ -398,7 +398,7 @@ Bede: Or else, the master of error, who resisted the teachers, when they came to
 
 Pseudo-Jerome: Or else, they put upon it their garments, that is, they bring to them the first robe of immortality by the Sacrament of Baptism. “And Jesus sat upon it,” that is, began to reign in them, so that sin should not reign in their wanton flesh, but righteousness, and peace, and joy in the Holy Ghost.
 
-Again, “many spread their garments in the way,” under the feet of the foal of the ass. What are feet, but those who carry, and the least esteemed, whom the Apostle has set to judge? \[1 Cor 6:4\] And these too, though they are not the back on which the Lord sat, yet are instructed by John with the soldiers.
+Again, “many spread their garments in the way,” under the feet of the foal of the ass. What are feet, but those who carry, and the least esteemed, whom the Apostle has set to judge? \[[[1 Corinthians 06#^6-4|1 Cor 6:4]]\] And these too, though they are not the back on which the Lord sat, yet are instructed by John with the soldiers.
 
 Bede: Or else, many strew their garments in the way, because the holy martyrs put off from themselves the garment of their own flesh, and prepare a way for the more simple servants of God with their own blood. Many also strew their garments in the way, because they tame their bodies with abstinence, that they may prepare a way for God to the mount, or may give good examples to those who follow them.
 
@@ -494,7 +494,7 @@ Augustine, de Con. Evan, ii, 67: John, however, relates this in a very different
 
 Theophylact: Which also turns to the greater condemnation of the Jews, because though the Lord did this so many times, nevertheless they did not correct their conduct.
 
-Augustine, de Con. Evan, ii, 68: In this again, Mark does not keep the same order as Matthew; because however Matthew connects the facts together by this sentence, “And He left them, and went out of the city into Bethany,” \[Matt 21:17\] returning from whence in the morning, according to his relation, Christ cursed the tree, therefore it is supposed with greater probability that he rather has kept to the order of time, as to the ejection from the temple of the buyers and sellers. Mark therefore passed over what was done the first day when He entered into the temple, and on remembering it inserted it, when he had said that He found nothing on the fig tree but leaves, which was done on the second day, as both testify.
+Augustine, de Con. Evan, ii, 68: In this again, Mark does not keep the same order as Matthew; because however Matthew connects the facts together by this sentence, “And He left them, and went out of the city into Bethany,” \[[[Matthew 21#^21-17|Matt 21:17]]\] returning from whence in the morning, according to his relation, Christ cursed the tree, therefore it is supposed with greater probability that he rather has kept to the order of time, as to the ejection from the temple of the buyers and sellers. Mark therefore passed over what was done the first day when He entered into the temple, and on remembering it inserted it, when he had said that He found nothing on the fig tree but leaves, which was done on the second day, as both testify.
 
 Gloss: But the Evangelist shews what effect the correction of the Lord had on the ministers of the temple, when he adds: “and the Scribes and Chief Priests heard it, and sought how they might destroy him;” according to that saying of Amos: “They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.” \[Amos 5:10\] From this wicked design, however, they were kept back for a time solely by fear.
 
@@ -544,7 +544,7 @@ Bede: The Gentiles, who have attacked the Church, are in the habit of objecting 
 
 Chrys.: Or else, as He did not dry up the fig tree for its own sake, but for a sign that Jerusalem should come to destruction, in order to shew His power, in the same way we must also understand the promise concerning the mountain, though a removal of this sort is not impossible with God.
 
-Pseudo-Jerome: Christ then who is the mountain, which grew from the stone, cut out without hands, is taken up and cast into the sea, when the Apostles with justice say, Let us turn ourselves to other nations, \[Acts 13:46\] since ye judged yourselves unworthy of hearing the word of God.
+Pseudo-Jerome: Christ then who is the mountain, which grew from the stone, cut out without hands, is taken up and cast into the sea, when the Apostles with justice say, Let us turn ourselves to other nations, \[[[Acts 13#^13-46|Acts 13:46]]\] since ye judged yourselves unworthy of hearing the word of God.
 
 Bede: Or else, because the devil is often on account of his pride called by the name of a mountain, this mountain, at the command of those who are strong in the faith, is taken up from the earth and cast into the sea, whenever, at the preaching of the word of God by the holy doctors, the unclean spirit is expelled from the hearts of those who are fore-ordained to life, and is allowed to exert the tyranny of his power over the troubled and embittered souls of the faithless. At which time, he rages the more fiercely, the more he grieves at being turned away from hurting the faithful.
 
@@ -660,7 +660,7 @@ This other servant means David and the other Psalmists, but they wounded Him in 
 
 It goes on: “And he sent another; and him they killed, and many others; beating some, 238 and killing some.”
 
-By the third servant and his companions, understand the band of the prophets. But which of the prophets did they not persecute? In these three kinds of servants, as the Lord Himself elsewhere pronounces, may be included in a figure all the doctors under the law, when He says, “that all things must be fulfilled which were written in the Law of Moses, and in the Prophets, and in the Psalms, concerning Me.” \[Luke 24:44\]
+By the third servant and his companions, understand the band of the prophets. But which of the prophets did they not persecute? In these three kinds of servants, as the Lord Himself elsewhere pronounces, may be included in a figure all the doctors under the law, when He says, “that all things must be fulfilled which were written in the Law of Moses, and in the Prophets, and in the Psalms, concerning Me.” \[[[Luke 24#^24-44|Luke 24:44]]\]
 
 Theophylact: Or else, by the first servant, understand the prophets who lived about the time of Elias, for Zedekiah the false prophet beat Micaiah \[2 Chron. 18:23\]; and by the second servant whom they wounded in the head, that is, evil entreated, we may understand the prophets who lived about the time of Hosea and Isaiah; but by the third servant understand the prophets who flourished about the time of Daniel and Ezekiel.
 
@@ -680,13 +680,13 @@ Bede: The Lord proves most clearly that the chiefs of the Jews did not crucify t
 
 But these evil husbandmen strove to seize upon it by slaying Him, when the Jews crucifying Him tried to extinguish the faith which is by Him, and rather to bring forward their own righteousness which is by the Law, and to thrust it on the nations, and to imbue them with it.
 
-There follows: “And they took him, and killed him, and cast him out of the vineyard.” Theophylact: That is, without Jerusalem, for the Lord was crucified out of the city. Pseudo-Jerome: Or else, they case Him out of the vineyard, that is, out of the people, saying “Thou art a Samaritan, and hast a devil.” \[John 8:48\]
+There follows: “And they took him, and killed him, and cast him out of the vineyard.” Theophylact: That is, without Jerusalem, for the Lord was crucified out of the city. Pseudo-Jerome: Or else, they case Him out of the vineyard, that is, out of the people, saying “Thou art a Samaritan, and hast a devil.” \[[[John 08#^8-48|John 8:48]]\]
 
 Bede: Or, as far as in them lay, they cast Him out of their own borders, and gave Him 239 up to the Gentiles that they might receive Him.
 
 There follows: “What then will the Lord of the vineyard do? he will come and destroy those husbandmen, and give the vineyard unto others.”
 
-Augustine, de Con Evan, ii, 70: Matthew indeed subjoins that they answered and said, “He will miserably destroy those wicked men,” \[Matt 21:41\] which Mark here says was not their answer, but that the Lord after putting the question, as it were answered Himself. But we may easily understand either that their answer was subjoined without the insertion of, “they answered,” or “they said,” which at the same time was implied; or else, that their answer, being the truth, was attributed to the Lord, since He also Himself gave this answer concerning them, being the Truth.
+Augustine, de Con Evan, ii, 70: Matthew indeed subjoins that they answered and said, “He will miserably destroy those wicked men,” \[[[Matthew 21#^21-41|Matt 21:41]]\] which Mark here says was not their answer, but that the Lord after putting the question, as it were answered Himself. But we may easily understand either that their answer was subjoined without the insertion of, “they answered,” or “they said,” which at the same time was implied; or else, that their answer, being the truth, was attributed to the Lord, since He also Himself gave this answer concerning them, being the Truth.
 
 Theophylact: The Lord of the vineyard then is the Father of the Son who was slain, and the Son Himself is He who was slain, who will destroy those husbandmen, by giving them up to the Romans, and who will give the people to other husbandmen, that is, to the Apostles.
 
@@ -944,7 +944,7 @@ Wherefore it is said, “And Jesus sat over against the treasury, and beheld how
 
 In the Greek language, “phylassein”, means to keep, and “gaza” is a Persian word for treasure; wherefore the word “gazophylacium” which is here used means a place where riches are kept, which name also was applied to the chest in which the offerings of the people were collected, for the necessary uses of the temple, and to the porch in which they were kept.
 
-You have a notice of the porch in the Gospel, “These words spake Jesus in the treasury as He taught in the temple:” \[John 8:20\] and of the chest in the book of Kings, “But Jehoiada the priest took a chest.” \[2 Kings 12:9\]
+You have a notice of the porch in the Gospel, “These words spake Jesus in the treasury as He taught in the temple:” \[[[John 08#^8-20|John 8:20]]\] and of the chest in the book of Kings, “But Jehoiada the priest took a chest.” \[2 Kings 12:9\]
 
 Theophylact: Now there was a praiseworthy custom amongst the Jews, that those who were able and willing should put something into the treasury, for the maintenance of the priests, the poor, and the widows.
 

@@ -59,7 +59,7 @@ chapter: 68
 [^15]: *Deut*. 6: 7, 11: 9.
 [^16]: “Speak them (the words of Torah)… when you journey …”
 [^17]: It is preferable that on a trip, even to a nearby destination, you should take your *tallis* and *tefillin* along (*Mishnah Berurah* 110).
-[^18]: [[Pesachim 2#2a|*Pesachim* 2a]].
+[^18]: *Pesachim* [[Pesachim 2#2a|2a]].
 [^19]: *Gen*. 1: 4.
 [^20]: I.e., the continuing deterioration of our level of observance.
 [^21]: The morning prayer.

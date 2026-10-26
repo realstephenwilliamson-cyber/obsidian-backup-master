@@ -20,18 +20,14 @@ nyasa: "ha: breath (*prāṇa*) · ṛ: right nostril (*nāsā*)"
 ## Front
 
 - **Glyph:** हृ
-- **Variation:** —
 - **Example:** हृदय
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** As in ‘hṛdaya’ (heart)
-- **Class (as printed):** short syllable
-- **root:** ‘to take away/carry/remove’
-- **Note (no printed label):** This is the only time ṛ is not placed below the letter.
-- **Grid:** a row of vowel signs (◌ृ ◌ॄ) above the five rows of stops + य र ल व + श ष स ह; in bold: ◌ृ, ह
-- **Example:** hṛdaya (heart)
+> [!note]- Back
+> - **Pronunciation:** As in ‘hṛdaya’ (heart)
+> - **root:** ‘to take away/carry/remove’
+> - **Class:** short syllable · This is the only time ṛ is not placed below the letter.
+> - <u>ृ</u> ॄ / क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / य र ल व / श ष स <u>ह</u>
+> - **Example:** hṛdaya (heart)
 
 ## Register
 

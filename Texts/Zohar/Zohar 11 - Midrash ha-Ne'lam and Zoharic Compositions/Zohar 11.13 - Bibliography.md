@@ -112,7 +112,7 @@ Cole, Peter. *The Poetry of Kabbalah: Mystical Verse from the Jewish Tradition*.
 
 Englander, Lawrence A., trans. and ed., with Herbert W. Basser. *The Mystical Study of Ruth: Midrash ha-Ne’lam of the Zohar to the Book of Ruth*. Atlanta: Scholars Press, 1993.
 
-Giller, Pinchas. *Reading the Zohar: The Sacred Text of the Kabbalah*, 159–73. New York: Oxford University Press, 2001. (Translation of *Sifra di-Tsni’uta* and *Zohar* 2:122b–123b.)
+Giller, Pinchas. *Reading the Zohar: The Sacred Text of the Kabbalah*, 159–73. New York: Oxford University Press, 2001. (Translation of *Sifra di-Tsni’uta* and *Zohar* [[Zohar 5.04 - Sava de-Mishpatim#^z2-122b|2:122b–123b]].)
 
 Lachower, Fischel, and Isaiah Tishby, Hebrew trans. and eds. *The Wisdom of the Zohar: An Anthology of Texts*. Translated by David Goldstein. Vols. 1 and 2. London: Littman Library of Jewish Civilization, 1989.
 
@@ -126,7 +126,7 @@ Rosenberg, Roy A. *The Anatomy of God: The Book of Concealment, The Greater Holy
 
 Rosenfeld, Samuel. *Mishpaḥat Soferim*. Vilna: Romm, 1883.
 
-Sassoon, George, trans., and Rodney Dale, ed. *The Kabbalah Decoded: A New Translation of the Ancient of Days’ Texts of the Zohar*. London: Duckworth, 1978. (Translation of *Idra Rabba, Idra Zuta, Sifra di-Tsni’uta*, and *Zohar* 2:122b–123b.)
+Sassoon, George, trans., and Rodney Dale, ed. *The Kabbalah Decoded: A New Translation of the Ancient of Days’ Texts of the Zohar*. London: Duckworth, 1978. (Translation of *Idra Rabba, Idra Zuta, Sifra di-Tsni’uta*, and *Zohar* [[Zohar 5.04 - Sava de-Mishpatim#^z2-122b|2:122b–123b]].)
 
 Scholem, Gershom G., ed., with the special assistance of Sherry Abel. *Zohar: The Book of Splendor—Basic Readings from the Kabbalah*. New York: Schocken, 1949. Reprint, 1971. (An anthology.)
 

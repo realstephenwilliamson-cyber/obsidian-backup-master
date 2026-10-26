@@ -76,7 +76,7 @@ he was then assistant at Klein-Ingersheim near Ludwigsburg — he did not use "r
 
 That is Hegelian logic. 
 
-After being for a short time Deputy-professor at Maulbronn, he took his doctor's degree with a dissertation on the •••••••••••••••••••• (restoration of all things. Acts iii. 21). This work is lost. From his letters it appears that he treated the subject chiefly from the religious-historical point of view. \[3\] 
+After being for a short time Deputy-professor at Maulbronn, he took his doctor's degree with a dissertation on the •••••••••••••••••••• (restoration of all things. [[Acts 03#^3-21|Acts iii. 21]]). This work is lost. From his letters it appears that he treated the subject chiefly from the religious-historical point of view. \[3\] 
 
 When Binder took his doctorate with a philosophical thesis on the immortality of the soul, Strauss, in 1832, wrote to him expressing the opin- 
 
@@ -426,9 +426,9 @@ But no sooner had Strauss opened up the way than he closed it again, by refusing
 
 88 
 
-and graphic style makes on Strauss an impression of artificiality. He refuses to believe this Evangelist when he says that on the first day at Capernaum "the whole town" (Mark i. 33) came together before Peter's door, and that, on other occasions (Mark iii. 20, vi. 31), the press was so great that Jesus and His disciples had no leisure so much as to eat. "All very improbable traits," he remarks, "the absence of which in Matthew is entirely to his advantage for what else are they than legendary exaggerations?" In this criticism he is at one with Schleiermacher, who in his essay on Luke \[1\] speaks of the unreal vividness of Mark "which often gives his Gospel an almost apocryphal aspect." 
+and graphic style makes on Strauss an impression of artificiality. He refuses to believe this Evangelist when he says that on the first day at Capernaum "the whole town" ([[Mark 01#^1-33|Mark i. 33]]) came together before Peter's door, and that, on other occasions ([[Mark 03#^3-20|Mark iii. 20]], [[Mark 06#^6-31|vi. 31]]), the press was so great that Jesus and His disciples had no leisure so much as to eat. "All very improbable traits," he remarks, "the absence of which in Matthew is entirely to his advantage for what else are they than legendary exaggerations?" In this criticism he is at one with Schleiermacher, who in his essay on Luke \[1\] speaks of the unreal vividness of Mark "which often gives his Gospel an almost apocryphal aspect." 
 
-This prejudice against Mark has a twofold cause. In the first place, this Gospel with its graphic details had rendered great service to the rationalistic explanation of miracle. Its description of the cure of the blind man at Bethsaida (Mark viii. 22-26)—whose eyes Jesus first 
+This prejudice against Mark has a twofold cause. In the first place, this Gospel with its graphic details had rendered great service to the rationalistic explanation of miracle. Its description of the cure of the blind man at Bethsaida ([[Mark 08#^8-22|Mark viii. 22-26]])—whose eyes Jesus first 
 
 *[p. 158]* ^pg159
 

@@ -144,7 +144,7 @@ What is implied? If one of an animal's or fowl's digestive organs, its gall-blad
 [^16]: And as indicated by Chapter 3, Halachah 21, the sealing of a perforation by a scab is not significant in these contexts.
 [^17]: The Ra'avad and other *Rishonim* take issue with the Rambam, maintaining that this ruling applies only with regard to the arteries leading to the liver, but not with regard to those within the liver itself. The Rivosh (Responsum 189) supports the challenge to the Rambam by citing the ruling (Chapter 8, Halachah 21) that if the liver is removed entirely except for a small portion, the animal is not *trefe*.  
     In his *Kessef Mishneh*, Rav Yosef Caro explains the Rambam's position as follows: Even when the liver is removed, its blood vessels must remain intact. A parallel to that concept exists with regard to the lungs (see Chapter 7, Halachah 9). Nevertheless, in his *Shulchan Aruch*, he follows the position of the other *Rishonim* and does not mention a perforation in the liver as a factor that disqualifies an animal.
-[^18]: Here also the Ra'avad and other *Rishonim* take issue with the Rambam, maintaining that his understanding of [[Chullin 45#45b|*Chullin* 45b]], the source for this halachah, is in error. The *Tur* and the *Shulchan Aruch* (*Yoreh De'ah* 41:6) follow their understanding.
+[^18]: Here also the Ra'avad and other *Rishonim* take issue with the Rambam, maintaining that his understanding of *Chullin* [[Chullin 45#45b|45b]], the source for this halachah, is in error. The *Tur* and the *Shulchan Aruch* (*Yoreh De'ah* 41:6) follow their understanding.
 [^19]: I.e., regardless of the direction it entered.
 [^20]: I.e., blood from the stomach; for food does not enter the liver.
 [^21]: Since this blood vessel is large, it cannot be taken for granted that the needle perforated the blood vessel.
@@ -160,7 +160,7 @@ What is implied? If one of an animal's or fowl's digestive organs, its gall-blad
 [^30]: From the following clause, it appears that according to the Rambam, this refers to a needle lodged in the outer side of the gut. See the following note.
 [^31]: There are other authorities (their perspective is reflected in the objections of the Ra'avad) who maintain that even in this instance, an examination is required. Moreover, they explain that we are speaking about a needle lodged in the inner side of the gut. If a needle is lodged in the outer side of the gut, according to this view, the animal is *trefe*.  
     According to the Rambam, as mentioned above, we are speaking about a needle that comes from the outside. As the Rambam states in Chapter 11, Halachah 4, in such an instance, all of the inner organs of the body must be checked (*Kessef Mishneh*). Thus this halachah is speaking only with regard to the gut. Since the perforation does not breach the digestive system, the animal is not considered *trefe*.  
-    Both perspectives are based on a comparison of two Talmudic passages ([[Chullin 50#50b|*Chullin* 50b]] and 51a) that are difficult to reconcile. The *Shulchan Aruch* (*Yoreh De'ah* 48:8,10) follows the perspective of the other authorities. The Rama cites the Rambam's perspective with regard to a hole made on the inside that does not pass from one side to the other and states we may rely on it in a situation where a severe financial loss is involved.
+    Both perspectives are based on a comparison of two Talmudic passages (*Chullin* [[Chullin 50#50b|50b]] and 51a) that are difficult to reconcile. The *Shulchan Aruch* (*Yoreh De'ah* 48:8,10) follows the perspective of the other authorities. The Rama cites the Rambam's perspective with regard to a hole made on the inside that does not pass from one side to the other and states we may rely on it in a situation where a severe financial loss is involved.
 [^32]: The Ra'avad and the other authorities state that the drop of blood must be found on the outer side of the gut.
 [^33]: Since the animal was slaughtered, its blood was not flowing and it is unlikely that there will be sufficient pressure to force it outside the gut.
 [^34]: A yellow-brown, bitter, offensive-smelling resinous material used for medicinal purposes in the ancient Middle East.
@@ -168,7 +168,7 @@ What is implied? If one of an animal's or fowl's digestive organs, its gall-blad
 [^36]: The Ra'avad states that the inspection of the intestines is difficult. That position is reflected in the ruling of the *Tur* and the *Shulchan Aruch* (*Yoreh De'ah* 51:4) who rules that in such a situation, because of its questionable status, the animal is considered as *trefe*.
 [^37]: When the digestive system is under pressure, the vicious fluids will not seal effectively. The *Siftei Cohen* 46:1 states that the same ruling applies even if a scab has developed over the wound.
 [^38]: I.e., after the animal was slaughtered.
-[^39]: [[Chullin 9#9a|*Chullin* 9a]] explains that, unless there is a known factor that certainly indicates otherwise, we assume that an animal that has been slaughtered is acceptable. In this instance, the perforation would lead us to rule stringently. Nevertheless, since the fact that it was snatched by a predator can serve as an explanation, we rely on the original assumption. Accordingly, for this ruling to apply, we must know that the animal was slaughtered properly [Rama (*Yoreh De'ah* 25:3)].
+[^39]: *Chullin* [[Chullin 9#9a|9a]] explains that, unless there is a known factor that certainly indicates otherwise, we assume that an animal that has been slaughtered is acceptable. In this instance, the perforation would lead us to rule stringently. Nevertheless, since the fact that it was snatched by a predator can serve as an explanation, we rely on the original assumption. Accordingly, for this ruling to apply, we must know that the animal was slaughtered properly [Rama (*Yoreh De'ah* 25:3)].
 [^40]: As indicated by the Rambam's explanation, in this instance, we do not know how it was perforated.
 [^41]: In which instance, the animal would be considered as *trefe*.
 [^42]: The Rama (*Yoreh De'ah* 50:1) rules that in the present generation, we are not knowledgeable regarding the making of such a comparison and hence, forbid the animal because of the doubt.
@@ -176,19 +176,19 @@ What is implied? If one of an animal's or fowl's digestive organs, its gall-blad
 [^44]: As might happen if a person was trying to reinsert them into the animal's belly.
 [^45]: The *Shulchan Aruch* (*Yoreh De'ah* 46:2) rules that if an animal's digestive organs are discovered to have turned upside down, the animal is *trefe*, even if the organs did not fall out of its belly.
 [^46]: Even though the fat upon it is kosher, it does not seal it [*Shulchan Aruch* (*Yoreh De'ah* 46:1); see also Halachah 10].
-[^47]: For the thighs will support it ([[Chullin 50#50a|*Chullin* 50a]]).
+[^47]: For the thighs will support it (*Chullin* [[Chullin 50#50a|50a]]).
 [^48]: The Rambam (based on Rabbeinu Yitzchak Alfasi) considers this the meaning of the term "in order to grasp it" used by *Chullin, loc. cit.* Although there are more lenient views, the *Shulchan Aruch* (*Yoreh De'ah* 46:5) follows the Rambam's ruling.  
     According to *Shiurei Torah* , a fingerbreadth is 2 cm, according to *Chazon Ish* 2.48 cm.
 [^49]: For other animals, the minimum measure is calculated proportionately (*Shulchan Aruch, loc. cit.*).
 [^50]: Unlike a domesticated animal that has four stomachs, a kosher fowl has two.
 [^51]: I.e., though the laws above were stated with regard to a domesticated animal, they apply equally to a beast and to a fowl if they possess the same organs.
-[^52]: Hence just as the perforation of the gullet disqualifies a fowl; so, too, the perforation of this portion of the crop (see [[Chullin 58#58b|*Chullin* 58b]]).
+[^52]: Hence just as the perforation of the gullet disqualifies a fowl; so, too, the perforation of this portion of the crop (see *Chullin* [[Chullin 58#58b|58b]]).
 [^53]: Compare this entire halachah to Chapter 3, Halachah 20, concerning the gullet, noting the similarities and differences.
 [^54]: This is less than half the thickness of the spleen (Rashba as quoted by the *Kessef Mishneh*).
 [^55]: This applies with regard to an animal and a beast. More lenient rules apply with regard to a fowl and the perforation of its spleen never causes it to be considered as *trefe*, as stated in Chapter 10, Halachah 10.
 [^56]: Since the perforation of an organ impairs its functioning to the point that the animal is *trefe*, the implication is that the organ must function excellently for the body to be maintained. Hence, we can certainly assume that an animal will be considered *trefe* when the organ does not exist at all.
 [^57]: The commentaries explain that since the organ is duplicated, neither one of the two organs will be able to function satisfactorily. Thus it is as the animal is lacking that organ entirely.
 [^58]: The Radbaz states that if we do not see a gall-bladder, we have the liver tasted. If its taste is bitter, we assume that the gall-bladder was absorbed by the liver. See *Shulchan Aruch* (*Yoreh De'ah* 52:3).
-[^59]: Thus this phenomenon does not render a fowl *trefe*, only an animal ([[Chullin 58#58b|*Chullin* 58b]]).
+[^59]: Thus this phenomenon does not render a fowl *trefe*, only an animal (*Chullin* [[Chullin 58#58b|58b]]).
 [^60]: The *Siftei Cohen* 47:1 rules that this applies only when the extra organ branches off from the stomach. If it branches off from the intestines, it is acceptable.
 [^61]: If, however, each of the organs branches off from a different place in the animal's digestive system, the animal is *trefe* even if the organs merge at their end (*Maggid Mishneh*).

@@ -29,7 +29,7 @@ tadākramya balaṃ mantrā ayamevodayaḥ sphuṭaḥ || ^iast
 >
 > It is said in the venerable Sāraśāstra that it is the person who is free of thought that is successful, whereas those (whose minds are full of) thoughts suffer (kliśyante), even if (all) has been done in accord with the procedure (kalpokta). (with 15.112cd–113ab)
 >
-> All this has been clearly described in the Spandakārikā, in the verses that begin with the words: ‘seizing that strength (bala), mantras.,,' and ‘This indeed is the arising of that (object of meditation)...’ (with 15.113cd–114ab)
+> All this has been clearly described in the Spandakārikā, in the verses that begin with the words: ‘seizing that strength (bala), mantras...’ and ‘This indeed is the arising of that (object of meditation)...’ (with 15.113cd–114ab)
 
 ## Viveka
 

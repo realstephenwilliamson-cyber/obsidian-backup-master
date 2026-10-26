@@ -20,17 +20,13 @@ nyasa: "left eye (*dṛk*)"
 ## Front
 
 - **Glyph:** ई
-- **Variation:** —
 - **Example:** ईश
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘n<u>ee</u>d’
-- **Class (as printed):** 2 (palatal) · long, soft · simple vowel
-- **Note (no printed label):** Full form - used only to begin a word.
-- **Grid:** the vowels अ आ ई ई उ ऊ / ए ऐ ओ औ (printed so: ई twice, no इ); in bold: the second ई
-- **Example:** īśa (lord)
+> [!note]- Back
+> - **Pronunciation:** As in ‘n<u>ee</u>d’
+> - **Class:** palatal · long, soft · simple vowel
+> - अ आ ई ई उ ऊ / ए ऐ ओ औ (printed so: ई twice, no इ)
+> - **Example:** īśa (lord)
 
 ## Register
 

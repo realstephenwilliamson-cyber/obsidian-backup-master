@@ -154,34 +154,34 @@ If he departed via the shorter path, but walked some, then stood, tarried some, 
 [^24]: For he is still impure, as stated in Chapter 4, Halachah 4.
 [^25]: This term refers to a *zav,*, a *zavah*, a woman who gave birth or miscarried, or a convert, who even after immersing themselves in the *mikveh*, must bring a sacrifice before their purification process is complete. See *Hilchot Mechusrei Kapparah* 1:1.
 [^26]: The *Sifri* brings proof that one who has not yet completed the purification process is in a different category than a person who has immersed himself from the fact that the former is permitted to partake of *terumah*, while the latter is not.
-[^27]: [[Zevachim 32#32b|*Zevachim* 32b]] relates that this restriction was imposed by Yehoshefat, King of Judah.
+[^27]: *Zevachim* [[Zevachim 32#32b|32b]] relates that this restriction was imposed by Yehoshefat, King of Judah.
 [^28]: The first eleven cubits of the Temple Courtyard (see *Hilchot Beit HaBechirah* 5:11). This area begins "the camp of the *Shechinah*" into which all of those who are impure may not enter according to Scriptural Law.
 [^29]: And from this example, we extrapolate with regard to others in that category.
 [^30]: Even though she had already immersed herself. Hence, she and others in the same category may not enter an area which is reserved for those who are ritually pure. This is a Scriptural restriction.
 [^31]: *Sefer HaMitzvot* (negative commandment 78) and *Sefer HaChinuch* (mitzvah 565) include this commandment among the 613 mitzvot of the Torah. Its violation is punishable by lashes.
 [^32]: Which, as mentioned above, parallels the camp of the Levites.  
-    The *Kessef Mishneh* notes that the Rambam's interpretation of the verse reverses the order found in [[Pesachim 68#68a|*Pesachim* 68a]] and the *Sifri*. He suggests that perhaps the Rambam had a different version of that text.
+    The *Kessef Mishneh* notes that the Rambam's interpretation of the verse reverses the order found in *Pesachim* [[Pesachim 68#68a|68a]] and the *Sifri*. He suggests that perhaps the Rambam had a different version of that text.
 [^33]: Significantly, in *Hilchot Sanhedrin* 19:4 where the Rambam lists those who are punished by lashes, he does not mention this instance.
 [^34]: See *Hilchot Megilah* 1:4 and *Hilchot Shemitah VeYovel* 12:15 which explain that this term applies only to a city surrounded by a wall at the time when Joshua conquered the land. Even if the wall of such a city is destroyed, the city is still placed in that category. Moreover, if a city was not walled at the time of Joshua's conquest, even if it was walled afterwards, it is not placed in this category.
-[^35]: See *Hilchot Beit HaBechirah* 7:13; *Hilchot Tuma'at Tzara'at* 10:7. Based on *Tosafot* ([[Berakhot 5#5b|*Berachot* 5b]]), Rabbi Akiva Eiger states that these restrictions apply only during the era when the Jubilee year was observed.
+[^35]: See *Hilchot Beit HaBechirah* 7:13; *Hilchot Tuma'at Tzara'at* 10:7. Based on *Tosafot* (*Berachot* [[Berakhot 5#5b|5b]]), Rabbi Akiva Eiger states that these restrictions apply only during the era when the Jubilee year was observed.
 [^36]: I.e., he violated two negative commandments: he entered Jerusalem and he entered the Temple Mount. Therefore he is liable for two sets of lashes. Significantly, in his Commentary to the Mishnah (*Keilim* 1:8, based on the *Tosefta* to *Keilim*), the Rambam states these concepts slightly differently.  
     The *Kessef Mishneh* adds that if the person afflicted with *tzara'at* enters the Temple Courtyard, he is liable for an addition set of lashes.
 [^37]: As mentioned in Halachot 5-6, this constitutes the violation of a Rabbinical commandment. The *Kessef Mishneh* adds that if the person enters the Temple Courtyard, he is liable for 120 lashes.
 [^38]: And thus violates a positive commandment, as indicated by Halachah 1.
 [^39]: For he does not violate a Scriptural prohibition.  
-    The Ra'avad differs with the Rambam and maintains that since the person is impure, his entry into the Temple Courtyard violates a Scriptural prohibition and is punishable by *karet*. The *Kessef Mishneh* cites a passage from [[Zevachim 17#17b|*Zevachim* 17b]] which appears to support the Ra'avad's objection. To resolve the Rambam's ruling, the *Kessef Mishneh*, however, quotes *Hilchot Pesulei HaMukdashim* 18:14, where the Rambam distinguishes between an impure person who has immersed and one who has not done so as of yet. He also quotes other opinions in support of the distinction the Rambam makes.
+    The Ra'avad differs with the Rambam and maintains that since the person is impure, his entry into the Temple Courtyard violates a Scriptural prohibition and is punishable by *karet*. The *Kessef Mishneh* cites a passage from *Zevachim* [[Zevachim 17#17b|17b]] which appears to support the Ra'avad's objection. To resolve the Rambam's ruling, the *Kessef Mishneh*, however, quotes *Hilchot Pesulei HaMukdashim* 18:14, where the Rambam distinguishes between an impure person who has immersed and one who has not done so as of yet. He also quotes other opinions in support of the distinction the Rambam makes.
 [^40]: A punishment instituted by the Rabbis for the violation of their decrees or positive commandments.
 [^41]: *Sefer HaMitzvot* (negative commandment 77) and *Sefer HaChinuch* (mitzvah 363) include this commandment among the 613 mitzvot of the Torah.
 [^42]: I.e., the area encompassed by the Temple Courtyard.
 [^43]: I.e., the act is forbidden, but one is not liable for lashes or a sin-offering for its violation.
 [^44]: Implying that entry into the Temple area is what is forbidden.
-[^45]: Literally, the soul's being cut off. This involves premature death in this world (before the age of 50, [[Moed Katan 28#28a|*Mo'ed Kattan* 28a]]) and the soul not meriting a portion in the world to come (*Hilchot Teshuvah* 8:1).
+[^45]: Literally, the soul's being cut off. This involves premature death in this world (before the age of 50, *Mo'ed Kattan* [[Moed Katan 28#28a|28a]]) and the soul not meriting a portion in the world to come (*Hilchot Teshuvah* 8:1).
 [^46]: *Har HaMoriah* explains that the Rambam quotes this verse rather than [[Torah 39 - Chukat#^19-13|Numbers 19:13-20]] which is more explicit, because the latter passage speaks only about one who became impure due to contact with a human corpse and the prohibition applies even when one became impure for other reasons.
 [^47]: See *Hilchot Shegagot* 1:3 and ch. 10, which explains that there are certain transgressions for which the atonement offering required varies according to the transgressor's financial capacity.
 [^48]: See *Hilchot Beit HaBechirah* 6:10-14 which describes the manner in which additions are made to the Temple Courtyard.
 [^49]: See *Hilchot Nizirut* 7:1-6 which describes this subject in detail. As stated in *Hilchot Tumat Meit* 3:3: "All ritual impurity resulting from a corpse for which a nazirite is not required to shave does not stem from Scriptural Law." Implied is that since a nazirite is forbidden to cut his hair according to Scriptural Law, when he contracts ritual impurity stemming from a human corpse that is only Rabbinic in origin, he should not cut his hair, because then the Rabbinic safeguard would lead to the violation of Scriptural Law. Note also the commentary to *Hilchot Nizirut* which explains that the Rambam is referring to ritual impurity that is not explicitly mentioned in the Torah, but could be considered of Scriptural origin, because it was derived through the laws of Biblical exegesis.
 [^50]: A person or an object that touches a human corpse becomes a source of impurity that can cause other people or objects to become ritually impure (see *Hilchot Tuma'at Meit* 5:4-5).  
-    The Ra'avad states however that a nazirite is not obligated to shave his head if he touched a utensil or a person that became impure due to contact with a corpse. Hence, he concludes, one should not be liable for entering the Temple after having contracted impurity in this manner. The *Kessef Mishneh* maintains that the simple meaning of the passage in [[Nazir 54#54a|*Nazir* 54a]] appears to support the Ra'avad's understanding. Nevertheless, he cites a passage from the Jerusalem Talmud (*Nazir* 7:4) which could be interpreted as supporting the Rambam's ruling.
+    The Ra'avad states however that a nazirite is not obligated to shave his head if he touched a utensil or a person that became impure due to contact with a corpse. Hence, he concludes, one should not be liable for entering the Temple after having contracted impurity in this manner. The *Kessef Mishneh* maintains that the simple meaning of the passage in *Nazir* [[Nazir 54#54a|54a]] appears to support the Ra'avad's understanding. Nevertheless, he cites a passage from the Jerusalem Talmud (*Nazir* 7:4) which could be interpreted as supporting the Rambam's ruling.
 [^51]: There are entities that are considered sources of impurity according to Rabbinic Law. They do not make a person impure to the extent that he is liable for entering the Temple.
 [^52]: See *Sefer Taharah*.
 [^53]: I.e., in a *mikveh*.
@@ -204,16 +204,16 @@ If he departed via the shorter path, but walked some, then stood, tarried some, 
 [^70]: I.e., on foot through the gate. The *Mishneh LiMelech* emphasizes that if he remains in the Temple for the amount of time for which he is liable (see Halachah 22), he is liable for *karet* even if he entered through the rooftops.
 [^71]: For this also is not the usual way of entry.
 [^72]: I.e., in the Temple Courtyard.
-[^73]: An object for which one has no purpose is *muktzeh* and there is a Rabbinic prohibition against transporting it on the Sabbath. Nevertheless, Rabbinic prohibitions of this nature are not applied in the Temple (Rashi, [[Eruvin 104#104b|*Eruvin* 104b]]).
+[^73]: An object for which one has no purpose is *muktzeh* and there is a Rabbinic prohibition against transporting it on the Sabbath. Nevertheless, Rabbinic prohibitions of this nature are not applied in the Temple (Rashi, *Eruvin* [[Eruvin 104#104b|104b]]).
 [^74]: I.e., in the chambers that are considered as being separate entities from the Temple Courtyard.
 [^75]: So that it will not be touched.
 [^76]: See *Hilchot Keilim* 1:10. See also *Hilchot Temidim UMusafim* 3:6.
 [^77]: I.e., if a priest would carry it out in his garment, he would be causing his garment to become impure. Hence, it was desirable to use a flat wooden utensil even if it takes time to find such a utensil (*Eruvin, loc. cit.*).
 [^78]: As stated in Halachah 12.
-[^79]: There is an unresolved question concerning whether such a person is liable in [[Shevuot 17#17a|*Sh'vuot* 17a]]. Hence, the Rambam rules leniently (*Kessef Mishneh*).
+[^79]: There is an unresolved question concerning whether such a person is liable in *Sh'vuot* [[Shevuot 17#17a|17a]]. Hence, the Rambam rules leniently (*Kessef Mishneh*).
 [^80]: If he departs in this manner, he is not liable for *karet*.
 [^81]: An adjustable guilt offering.
-[^82]: The Rambam is citing [[Shevuot 16#16b|*Sh'vuot* 16b]] which quotes the description of the people's bowing in [[II Chronicles 07#^7-3|II Chronicles 7:3]].
+[^82]: The Rambam is citing *Sh'vuot* [[Shevuot 16#16b|16b]] which quotes the description of the people's bowing in [[II Chronicles 07#^7-3|II Chronicles 7:3]].
 [^83]: I.e., taking very short steps. As long as he does not stop for the amount of time mentioned in the previous halachah, he is not liable.
-[^84]: See [[Shevuot 17#17a|*Sh'vuot* 17a]]. Hence we rule leniently.
+[^84]: See *Sh'vuot* [[Shevuot 17#17a|17a]]. Hence we rule leniently.
 [^85]: See *Hilchot Sanhedrin* 16:3, 18:5, and notes for a definition of this punishment and the situations where it is applied.

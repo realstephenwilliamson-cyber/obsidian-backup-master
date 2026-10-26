@@ -44,10 +44,10 @@ On Shabbat and the Festivals, however, all the businessmen, too, have the time a
 
 And it should be made known that, G–d willing, it is my intention to send spies secretly to all congregations,[^57] to find out and to inform about anyone who is able, and about anyone who has the time to prolong and meditate on prayer but is slothful. He shall be punished by estrangement, to be pushed away with both hands when he comes hither to hear the “words of the living G–d.”[^58] And from the negative you can infer the positive.[^59] But with those that shall obey it will be well, and the blessing of goodness shall come unto them—“there is no Good but Torah…”[^4]
 
-[^1]: This letter was written in reply to the “*good tiding*…referring to the completion of the whole Talmud,” etc.; the author, therefore, responds firstly with a benediction, in accordance with the Talmudic precept ([[Berakhot 59#59b|*Berachot* 59b]]) that one is to laud G–d for glad tidings. Cf. *Shulchan Aruch*, *Orach Chaim* 221:1; *Seder Birchot Hanehenin*, by the author, ch. 12.
+[^1]: This letter was written in reply to the “*good tiding*…referring to the completion of the whole Talmud,” etc.; the author, therefore, responds firstly with a benediction, in accordance with the Talmudic precept (*Berachot* [[Berakhot 59#59b|59b]]) that one is to laud G–d for glad tidings. Cf. *Shulchan Aruch*, *Orach Chaim* 221:1; *Seder Birchot Hanehenin*, by the author, ch. 12.
 [^2]: Par. [[Psalms 106#^106-1|Psalms 106:1]]; etc.
 [^3]: Par. [[Isaiah 55#^55-3|Isaiah 55:3]].
-[^4]: *Avot* 4:3; [[Berakhot 5#5a|*Berachot* 5a]].
+[^4]: *Avot* 4:3; *Berachot* [[Berakhot 5#5a|5a]].
 [^5]: Par. [[Psalms 019#^19-8|Psalms 19:8]].
 [^6]: In Hebrew אנשי שלומים (שלומינו), this is a term used to denote particular groups in general, and especially in frequent use among Chasidim, when referring to their own group(s). The term is of Biblical origin, cf. [[Jeremiah 38#^38-22|Jeremiah 38:22]]; [[Obadiah 1#^1-7|Obadiah 1:7]]; cf. also [[Torah 08 - Vayishlach#^34-21|Genesis 34:21]]. The study of the complete Talmud, to which this letter refers, was not an incidental occasion. R. Schneur Zalman demanded of his followers that this should be done annually, in every city and, where so applicable, by every congregation; see *Kuntres Acharon*, Essay 9.
 [^7]: Par. [[Amos 2#^2-16|Amos 2:16]], though relating it to *Avot d’R. Nattan* 23:1: “The mighty are none others than the mighty in Torah.”
@@ -59,14 +59,14 @@ And it should be made known that, G–d willing, it is my intention to send spie
 [^13]: *Zohar* III:225a.—With respect to the terms “permeates” and “encompasses all worlds” (referring to the immanence and transcendence of G–d), see *Likkutei Amarim*, Part I, chs. 41, 48, and 51; Part II, ch. 7. Cf. below, Epistle 3, note 12.
 [^14]: *Tikkunei Zohar* 57 (91b); 70 (122b).
 [^15]: See below, note 17.
-[^16]: Cf. [[Makkot 24#24a|*Makkot* 24a]]: “Habakkuk came and based (all commandments) on one belief”; see *Likkutei Amarim*, Part I, ch. 33. Thus faith is the foundation of all.
+[^16]: Cf. *Makkot* [[Makkot 24#24a|24a]]: “Habakkuk came and based (all commandments) on one belief”; see *Likkutei Amarim*, Part I, ch. 33. Thus faith is the foundation of all.
 [^17]: “World,” “year,” and “soul” are crucial concepts in *Sefer Yetzirah* (see there 3:3 ff.; *et passim*). Generally speaking they represent the concepts of *space* (world), *time* (year), and *life*, or vital force (soul). See *Likkutei Torah*, *Chukat* 64d; *Haazinu* 74d; *Shir Hashirim* 7b.—Above the author mentioned only “year” and “soul,” because “world” was already described in the “above, below, and all four directions.”
 [^18]: [[Psalms 148#^148-14|Psalms 148:14]]. This passage, literally, may be translated: “the people that is *His relative*!” See *Midrash Tehillim* 4:3, 4; also *Likkutei Torah*, *Re’eh* 19d.
 [^19]: I.e., “able to cleave to Him”; see [[Torah 46 - Eikev#^11-22|Deuteronomy 11:22]], 30:20; [[Joshua 22#^22-5|Joshua 22:5]] (cf. [[Torah 45 - Vaetchanan#^4-4|Deuteronomy 4:4]], 10:20, 13:5; [[Job 23#^23-8|Job 23:8]]; [[Jeremiah 13#^13-11|Jeremiah 13:11]]).
 [^20]: *Avot* 4:17. See *Likkutei Amarim*, Part I, ch. 4.
-[^21]: The Divine Indwelling. See [[Berakhot 17#17a|*Berachot* 17a]] and Maimonides, *Hilchot Teshuvah*, ch. 8.
+[^21]: The Divine Indwelling. See *Berachot* [[Berakhot 17#17a|17a]] and Maimonides, *Hilchot Teshuvah*, ch. 8.
 [^22]: [[Torah 29 - Achrei Mot#^16-16|Leviticus 16:16]]—Paradoxically, the *Shechinah* itself dwells in this material world, while the (spiritual) World to Come is a mere “reflection,” or a “gleam,” of the *Shechinah*. Thus only in this world can one cleave to the *Shechinah* itself through “repentance and good deeds.” In the World to Come, one can attain no more than the “reflection” of the *Shechinah*. Cf. below, Epistle 8, note 23.
-[^23]: [[Menachot 29#29b|*Menachot* 29b]]; see below, Epistle 5.
+[^23]: *Menachot* [[Menachot 29#29b|29b]]; see below, Epistle 5.
 [^24]: [[Psalms 148#^148-13|Psalms 148:13]], 14; cf. *Midrash Tehillim* 4:3, 4 and *Likkutei Torah*, *Re’eh* 19d.
 [^25]: Text of benedictions uttered before the performance of many precepts. These words emphasize a special relationship between G–d and Israel; see *Likkutei Amarim*, Part I, ch. 46; *Likkutei Torah*, *Derushim LiShemini Atzeret* 83c; cf. *Sefer Habahir* 57 (184).
 [^26]: [[Proverbs 27#^27-19|Proverbs 27:19]]: “As waters (reflect) face to face, so is the heart of man to man.” In other words, there is an equal reflection and response. See *Yalkut Shimoni*, ad loc. (vol. 2, toward end of 961), and *Likkutei Amarim*, Part I, ch. 46 and 49.
@@ -74,7 +74,7 @@ And it should be made known that, G–d willing, it is my intention to send spie
 [^28]: Par. [[Lamentations 2#^2-18|Lamentations 2:18]].
 [^29]: Par. [[Song of Songs 8#^8-6|Song of Songs 8:6]]; cf. *Likkutei Torah*, *Chukat* 66b and references cited there; below, Epistle 29.
 [^30]: See [[Ezekiel 01#^1-14|Ezekiel 1:14]]. “Advance” and “retreat” are two levels in the worship of G–d which—in their natural sequence—follow one upon the other, in this order. *Ratzo*, lit., running, signifies a fierce love and passion for G–d: “running” (advancing) toward G–d, in order to cleave unto Him. *Shov*, lit., returning, which follows upon and is a still higher level than *ratzo*, signifies the occupation with Torah and *mitzvot*, thus bringing the “advance” to its proper conclusion. By the “retreat” the Divine abundance is elicited and drawn earthward, in, and through the fulfillment of the Torah and the commandments. While advance signifies “love,” retreat includes “awe.” (Cf. *Torah Or*, *Bereishit* 1d-2a; 25b.) In *Likkutei Torah*, *Re’eh* 19d, the author applies these two levels to [[Torah 47 - Re'eh#^13-5|Deuteronomy 13:5]]: “You should go after the L–rd your G–d”—*ratzo*; “Him you shall fear. His commandments you shall keep,” etc.—*shov*.
-[^31]: See [[Sotah 47#47a|*Sotah* 47a]].—An aspect of *gevurah*; withdrawal (cf. Addendum, *Mystical Concepts in Chassidism*).
+[^31]: See *Sotah* [[Sotah 47#47a|47a]].—An aspect of *gevurah*; withdrawal (cf. Addendum, *Mystical Concepts in Chassidism*).
 [^32]: [[Torah 17 - Yitro#^20-15|Exodus 20:15]].
 [^33]: “Love” and “awe”; advance and retreat.
 [^34]: I.e., the counterpart of the physical body in the soul; the harmony between love and awe. (See Addendum, ibid.)
@@ -102,4 +102,4 @@ And it should be made known that, G–d willing, it is my intention to send spie
 [^56]: See Rabbi Schneur Zalman, *Shulchan Aruch*, *Orach Chaim* 290:5.
 [^57]: Lit., *minyanim*—i.e., groups of ten or more men (the legally required quorum) gathered for the purpose of prayer, etc. In colloquial use, the term denotes not only the numbered groups but, where these gather regularly in a fixed place, to the congregation in general.
 [^58]: A locution for the teachings of Chasidism.
-[^59]: A Talmudic proposition; cf. [[Nedarim 11#11a|*Nedarim* 11a]].
+[^59]: A Talmudic proposition; cf. *Nedarim* [[Nedarim 11#11a|11a]].

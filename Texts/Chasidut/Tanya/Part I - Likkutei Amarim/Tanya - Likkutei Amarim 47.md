@@ -39,6 +39,6 @@ This is the interpretation of “And You, L–rd our G–d, have given us, in lo
 [^9]: Liturgy, *Amidah* for Festivals.
 [^10]: Liturgy, end of *Amidah*. The emphasis is on “You gave us…our G–d.”
 [^11]: I.e., bestows an extra measure of spirituality. *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-162b|II:162b]].
-[^12]: Cf. [[Berakhot 13#13a|*Berachot* 13a]]; Rabbi Schneur Zalman, *Shulchan Aruch*, *Orach Chaim* 58:1.
-[^13]: [[Berakhot 21#21a|*Berachot* 21a]]; *Shulchan Aruch*, ibid., 67:1-2.
+[^12]: Cf. *Berachot* [[Berakhot 13#13a|13a]]; Rabbi Schneur Zalman, *Shulchan Aruch*, *Orach Chaim* 58:1.
+[^13]: *Berachot* [[Berakhot 21#21a|21a]]; *Shulchan Aruch*, ibid., 67:1-2.
 [^14]: [[Torah 37 - Sh'lach#^15-41|Numbers 15:41]].

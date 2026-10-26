@@ -104,7 +104,7 @@ When does the above apply? With regard to a small field that is 50 cubits by two
 [^8]: The latter measure is slightly more than ten and one fifth cubits by ten and one fifth cubits (*Hilchot Kilayim* 3:9 and notes).
 [^9]: Since the entire field is larger, the area which creates the separation must also be larger.
 [^10]: The Radbaz questions why leniency is granted with regard to separation when another crop is sown and explains that it is uncommon to sow a small amount of a second crop in between two larger portions of one crop. Hence, one can assume that it was done so only for the sake of making a distinction.
-[^11]: If, however, one does not plow the consumed portion, it is not considered as a separation ([[Menachot 71#71b|*Menachot* 71b]]).
+[^11]: If, however, one does not plow the consumed portion, it is not considered as a separation (*Menachot* [[Menachot 71#71b|71b]]).
 [^12]: This follws the second interpretation given by the Rambam in his Commentary to the Mishnah (*Pe'ah* 2:2).
 [^13]: Since the rock divides the field, it is considered as two separate entities. Hence, he must leave *pe'ah* for each portion of the field individually. The commentaries question why this instance is different than the terraces that are less than ten handbreadths higher than each other mentioned in the first clause, for there too, he must lift the plow and move it to the side while plowing. The *Kessef Mishneh* explains that the terraces are different because they can be sown and hence they appear as a single field, while the rock cannot be sown.
 [^14]: The term the Rambam uses literally means "the mold used to make bricks." That term is employed because the squares resemble such a mold [the Rambam's Commentary to the Mishnah (*Pe'ah* 3:1).
@@ -136,7 +136,7 @@ When does the above apply? With regard to a small field that is 50 cubits by two
 [^39]: As above, since they ripened at the same time, they could be considered a single field. The *Kessef Mishneh* states that this is preferable, because as mentioned previously, *pe'ah* should be left from standing grain for the portions harvested previously.
 [^40]: Since this portion ripened before the second portion was harvested, it and the second portion could be considered as part of a single field and one measure of *pe'ah* would be sufficient for them both.
 [^41]: For each portion of the field is considered as a separate entity.
-[^42]: [[Chullin 138#138a|*Chulin* 138a]] derives this from the exegesis of [[Torah 31 - Emor#^23-22|Leviticus 23:22]]: "When you reap the harvest of your land" which implies that the obligation to leave *pe'ah* begins when on starts reaping.
+[^42]: *Chulin* [[Chullin 138#138a|138a]] derives this from the exegesis of [[Torah 31 - Emor#^23-22|Leviticus 23:22]]: "When you reap the harvest of your land" which implies that the obligation to leave *pe'ah* begins when on starts reaping.
 [^43]: Based on the Rambam's Commentary to the Mishnah (*Pe'ah* 2:3), it appears that if trees are separated by a fence that is ten handbreadths high, they are considered as in separate fields unless their branches are intermingled above. If their branches are intermingled above, they are considered as one field, regardless of the height of the fence.
 [^44]: Since they are not partners, the portion of each one is considered individually.
 [^45]: I.e., in contrast to other trees that are separated by fences, different laws apply with regard to carobs (Rav Yosef Corcus). The Ra'avad offers a different interpretation of this law.  

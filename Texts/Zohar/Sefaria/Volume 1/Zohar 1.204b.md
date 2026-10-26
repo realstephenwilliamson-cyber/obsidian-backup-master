@@ -45,4 +45,4 @@ Pritzker translation (Matt): [[Zohar 3.05 - Parashat Mi-Qets#^z1-204b|Parashat M
 
 **Miketz 15:261** When the man came up to them, they greeted him, but he did not respond. R. Hiya remarked: ‘We see now that he lacks one of the things with which he should have been provided: he has not prepared himself for making presents, under which head is included the greeting of peace.’ R. Jose replied: ‘It may be that he is absorbed in prayer or is repeating his studies so as not to forget them.’ ^miketz-15-261
 
-[^1]: i.e. Elisha the son of Abuya, who through speculations in Greek philosophy was led into heresy, and for this was called by his colleagues Aher (the other one). T. B. [[Chagigah 15#15a|*Hagigah*, 15a]] and 15b.
+[^1]: i.e. Elisha the son of Abuya, who through speculations in Greek philosophy was led into heresy, and for this was called by his colleagues Aher (the other one). T. B. *Hagigah*, [[Chagigah 15#15a|15a]] and 15b.

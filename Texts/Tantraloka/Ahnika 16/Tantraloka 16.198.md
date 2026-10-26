@@ -30,7 +30,7 @@ kramikatathāvidhaśivatānugrahasubhagaṃ ca daiśikaṃ paśyan || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#^pg105|p. 85]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=105>))
 >
-> When (the teacher’s) consciousness (operates) progressively (kramasaṁvitti) in such a way (that ascending through the Tattvas, he reflects that): “this Tattva is of that nature and I have extracted (my) disciple from it”, even a dullard (māḍha) becomes Śiva. (with 16.197cd–198ab)
+> When (the teacher’s) consciousness (operates) progressively (kramasaṁvitti) in such a way (that ascending through the Tattvas, he reflects that): “this Tattva is of that nature and I have extracted (my) disciple from it”, even a dullard (mūḍha) becomes Śiva. (with 16.197cd–198ab)
 >
 > The disciple also, seeing that the teacher possesses (the capacity to bestow) the grace of such progressively (developing) Śivahood, attains Śiva’s state by (his) perception of oneness (with his teacher) and the strength of (his) devotion. (with 16.198cd–199ab)
 

@@ -42,7 +42,7 @@ All the more so before he began to feel in his heart a craving and desire for th
 [^3]: Ibid., v. 3.
 [^4]: The first (“I am”) is the positive, and the second (“You shall not”) is the prohibitive aspect, both ruling out idolatry; the first implicitly, the second—explicitly.
 [^5]: Cf. *Shnei Luchot HaBrit*, beg. *Parashat Yitro*. *Zohar* II:276a.
-[^6]: [[Makkot 24#24a|*Makkot* 24a]]. The other eight Commandments were relayed by Moses.
+[^6]: *Makkot* [[Makkot 24#24a|24a]]. The other eight Commandments were relayed by Moses.
 [^7]: The discussion of this subject is carried over into the following chapter; cf. also ch. 33.
 [^8]: Liturgy of New Year’s Day and Day of Atonement.
 [^9]: Liturgy, daily Morning Service.

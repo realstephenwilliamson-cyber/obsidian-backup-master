@@ -29,5 +29,5 @@ chapter: 63
 **5.** You should not invite anyone for a meal, when you know that he will not accept. You should not offer someone a gift, when you are sure that he will not accept it. And so it is in all similar cases, where a person says one thing but in his heart he does not mean it, as when he pretends to show respect to someone, but this does not reflect his true feelings, [such conduct] is forbidden. Your mouth and your heart should always be in perfect agreement. ^63-5
 
 [^1]: *Leviticus* 25: 17.
-[^2]: *Berachos* 32b and [[Bava Metzia 59#59a|*Bava Metzia* 59a]].
+[^2]: *Berachos* 32b and *Bava Metzia* [[Bava Metzia 59#59a|59a]].
 [^3]: *Job* 4: 6–7.

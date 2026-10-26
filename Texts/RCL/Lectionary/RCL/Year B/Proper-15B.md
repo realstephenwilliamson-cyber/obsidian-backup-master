@@ -11,6 +11,7 @@ second_reading: "Ephesians 5:15-20"
 gospel: "John 6:51-58"
 first_reading_complementary: "Proverbs 9:1-6"
 psalm_complementary: "Psalm 34:9-14"
+psalm_bcp_complementary: "Psalm 34:9-14"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-15]]"
 cssclasses:

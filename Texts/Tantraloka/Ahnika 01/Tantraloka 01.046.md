@@ -16,10 +16,10 @@ aliases:
 
 ## Mūla
 
-ज्ञानाज्ञानागतं चैतद् द्वित्वं स्वायम्भुवे रुरौ ।
+ज्ञानाज्ञानगतं चैतद् द्वित्वं स्वायम्भुवे रुरौ ।
 मतङ्गादौ कृतं श्रीमत्खेटपालादिदैशिकैः ॥ ^mula
 
-jñānājñānāgataṃ caitad dvitvaṃ svāyambhuve rurau |
+jñānājñānagataṃ caitad dvitvaṃ svāyambhuve rurau |
 mataṅgādau kṛtaṃ śrīmatkheṭapālādidaiśikaiḥ || ^iast
 
 > [!lexicon] Word analysis
@@ -30,7 +30,7 @@ mataṅgādau kṛtaṃ śrīmatkheṭapālādidaiśikaiḥ || ^iast
 > [!source] Dyczkowski, vol. I
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)/Tantraloka Dyczkowski v01 05 - Chapter One, part 4#^pg177|p. 163]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf#page=177>))
 >
-> These two (aspects of) knowledge and ignorance have been distinguished (from one another) by (Saiddhāntika) teachers, beginning with the venerable Kheṭapāla, in (their commentaries) on the Ruru, Svāyambhuva, and Mataṁga amongst others.
+> These two (aspects of) knowledge and ignorance have been distinguished (from one another) by (Saiddhāntika) teachers, beginning with the venerable Kheṭapāla, in (their commentaries) on the Ruru, Svāyambhuva, and Mataṅga amongst others.
 
 ## Viveka
 
@@ -41,7 +41,7 @@ mataṅgādau kṛtaṃ śrīmatkheṭapālādidaiśikaiḥ || ^iast
 
 *Lead-in:* न चैतदस्मदुपज्ञमेव -- इत्याह --
 
-> ज्ञानाज्ञानागतं चैतद् द्वित्वं स्वायम्भुवे रुरौ ।
+> ज्ञानाज्ञानगतं चैतद् द्वित्वं स्वायम्भुवे रुरौ ।
 > मतङ्गादौ कृतं श्रीमत्खेटपालादिदैशिकैः ॥
 
 तदुक्तम् -- श्रीस्वायम्भुवे --

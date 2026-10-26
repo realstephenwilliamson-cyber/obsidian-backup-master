@@ -45,7 +45,7 @@ Also, of this yearning and of this love concealed in us we pray to G–d to aid 
 [^1]: [[Song of Songs 7#^7-7|Song of Songs 7:7]].
 [^2]: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12a|I:12a]]. See also above, Epistle 6 (notes 24 ff.) and end of Epistle 15.
 [^3]: Par. [[Psalms 034#^34-9|Psalms 34:9]].
-[^4]: [[Berakhot 17#17a|*Berachot* 17a]]; Maimonides, *Hilchot Teshuvah*, ch. 8.
+[^4]: *Berachot* [[Berakhot 17#17a|17a]]; Maimonides, *Hilchot Teshuvah*, ch. 8.
 [^5]: [[Psalms 097#^97-12|Psalms 97:12]].
 [^6]: The righteous [in the sense of saints] (see *Likkutei Amarim*, Part I, for the meaning of this term, esp. chs. 1, 10, 14, 35).
 [^7]: It is the love attained by the *tzaddikim* only.—See *Chovot Halevovot*, *Shaar Ahavat Hashem*, ch. 4; *Likkutei Amarim*, Author’s Introduction to Part II.
@@ -58,15 +58,15 @@ Also, of this yearning and of this love concealed in us we pray to G–d to aid 
 [^14]: Brackets appear in the text.
 [^15]: Awe and bashfulness before the Majesty of G–d (as contrasted with the lower level of the dread of the punishment of G–d; see ref. cited above, note 2); cf. *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-11b|I:11b]]; Maimonides, *Hilchot Yesodei HaTorah* 11:2 and 4:12; *Ikkarim* 3:32.
 [^16]: See *Chovot Halevovot*, *Shaar Ahavat Hashem*, Intro., ch. 3, and end of ch. 4.
-[^17]: The way of a man [i.e., love; according to [[Psalms 098#^98-3|Psalms 98:3]]: זכר חסדו—reading זכר (male) for זכר (remembered)] to search for a woman [i.e., fear, awe; according to [[Proverbs 31#^31-30|Proverbs 31:30]]: אשה יראת ה’; cf. *Zohar* [[Zohar 3.027a|III:27a]]].—[[Kiddushin 2#2b|*Kiddushin* 2b]]; see next note.—Love, thus, comes where awe is to be found already. Cf. *Zohar* III:145a-b.
+[^17]: The way of a man [i.e., love; according to [[Psalms 098#^98-3|Psalms 98:3]]: זכר חסדו—reading זכר (male) for זכר (remembered)] to search for a woman [i.e., fear, awe; according to [[Proverbs 31#^31-30|Proverbs 31:30]]: אשה יראת ה’; cf. *Zohar* [[Zohar 3.027a|III:27a]]].—*Kiddushin* [[Kiddushin 2#2b|2b]]; see next note.—Love, thus, comes where awe is to be found already. Cf. *Zohar* III:145a-b.
 [^18]: *Likkutei Amarim*, Part I, ch. 43. See also *Likkutei Torah*, *Va’etchanan* 7d; *Siddur Im Dach* 188a.
 [^19]: The inferior type: *ahavah zuta*.
 [^20]: [[I Samuel 25#^25-29|I Samuel 25:29]]. See *Likkutei Torah*, *Shelach* 51d (and references, ad loc.); below, Epistle 29.
 [^21]: Par. [[Psalms 073#^73-28|Psalms 73:28]] and [[Isaiah 58#^58-2|Isaiah 58:2]].
 [^22]: Forces of evil. The *chitzonim*, brought about by sin, separate man from G–d; see [[Isaiah 59#^59-2|Isaiah 59:2]]; *Zohar* II:116b and *Tikkunei Zohar* 69 (108b). Cf. *Sefer Habahir* 58 (196).
-[^23]: Referring to “the wicked are full of remorse” (*Shevet Mussar*, ch. 25; cf. [[Nedarim 9#9b|*Nedarim* 9b]]); see *Likkutei Amarim*, Part I, ch. 11.
+[^23]: Referring to “the wicked are full of remorse” (*Shevet Mussar*, ch. 25; cf. *Nedarim* [[Nedarim 9#9b|9b]]); see *Likkutei Amarim*, Part I, ch. 11.
 [^24]: The realm of evil (cf. below, Epistle 25, note 39).
-[^25]: See [[Sotah 3#3a|*Sotah* 3a]].
+[^25]: See *Sotah* [[Sotah 3#3a|3a]].
 [^26]: Seat of thought.
 [^27]: Seat of speech.
 [^28]: Seat of action.

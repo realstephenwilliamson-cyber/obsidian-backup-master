@@ -20,17 +20,10 @@ nyasa: "pa: right side (*pārśva*) · ra: blood (*rakta*) · i: right eye (*d�
 ## Front
 
 - **Glyph:** प्रिय
-- **Variation:** —
-- **Example:** —
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** —
-- **Gloss:** adj: ‘dear’ or ‘beloved’
-- **Class (as printed):** —
-- **Grid:** a row of vowel signs (◌ा ◌ि ◌ी ◌ु ◌ू) above the seven rows (the stops, then य र ल व, then श ष स ह); in bold: ◌ि, प, य, र
-- **Example:** —
+> [!note]- Back
+> - **Gloss:** adj: ‘dear’ or ‘beloved’
+> - ा <u>ि</u> ी ु ू / क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / <u>प</u> फ ब भ म / <u>य</u> <u>र</u> ल व / श ष स ह
 
 ## Register
 

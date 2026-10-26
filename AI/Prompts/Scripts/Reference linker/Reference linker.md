@@ -1,6 +1,6 @@
 ---
 type: prompt
-updated: 2026-10-13
+updated: 2026-10-26
 phase: 7
 ---
 # Reference linker
@@ -37,3 +37,8 @@ The script that linked 21,149 scripture, Zohar, Tantrāloka and Avot references 
 - **`OVERRIDE` and `EXCLUDE`** in `wrapper2.js` are decisions about particular books from the 13 Oct review. Check them before running over new material.
 - **Phase 7 (13 Oct 2026):** the JANT uses both numberings, so it is left "mixed" (moved references undecided); a checker found 3 of 20 such references were already in Hebrew numbering. Plato was left out (its one "reference" was OCR for "ii"). The undecided references from both phases are listed in [[Bible references to decide later]]. The B3 leftovers were settled by 20 per-book rules (job `s77f-a3-apply`, data `.work/plan/p7/a3-items.json`), linking a reference only where its text occurs in the line as often as there are items for it.
 - A second run over notes it has already linked finds a few more candidates, because some rules read the neighbouring text and the numbering evidence changes once references are links. Review those by hand rather than applying them blind.
+- **Roman-numeral chapters (26 Oct 2026, audit E-01/E-02).**
+  - `b3core.js` has a last pass for references with Roman chapter numbers (`Matt. xx. 23`, `John iii.31`, `2Cor.vi.1`), with ranges, `f.`/`ff.` and continuations (`; xv. 3`, `, xvi. 3`). The numeral must be well formed and between 1 and 150.
+  - Some abbreviations are accepted only in this pass and only with their period: `Is.`, `Isai.`, `Wisd.`, `Numb.`, `Mat.`, `Matth.`, `Ephes.`, `Apoc.` and others. `Jos.`, `Ez.`, `Jud.` and `Marc.` are left out as ambiguous.
+  - `wrapper3.js` has the option `window.B3ROMANONLY`, which links only the Roman references, and two more `EXCLUDE` entries; an excluded reference holds back its whole list.
+  - Used for pf135 (9,672 links in 250 library notes; a check of 50 found 49 right). The 13 Oct versions are in `.work/backup-corrections-2026-10-26/scripts/`.

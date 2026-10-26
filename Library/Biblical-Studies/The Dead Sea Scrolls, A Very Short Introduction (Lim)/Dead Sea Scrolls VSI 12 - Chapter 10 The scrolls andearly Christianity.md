@@ -32,7 +32,7 @@ Thiering’s book is primarily based upon an oblique use of the Qumran scrolls; 
 
 New Testament scrolls?
 
-In 1992, Carsten Peter Thiede published a study of two tiny fragments and claimed that they were New Testament texts. Cave 7 is unusual in having preserved only Greek texts and Thiede has revived the view, first suggested by Jose O’Callaghan in the 1970s, that two of these fragments, 7Q5 and 7Q4, could be identified as Mark 6.52-53 and 1 Timothy 3.16-4.3 respectively. The larger of these two fragments, 7Q5, preserves no more than 20 partial or
+In 1992, Carsten Peter Thiede published a study of two tiny fragments and claimed that they were New Testament texts. Cave 7 is unusual in having preserved only Greek texts and Thiede has revived the view, first suggested by Jose O’Callaghan in the 1970s, that two of these fragments, 7Q5 and 7Q4, could be identified as [[Mark 06#^6-52|Mark 6.52-53]] and [[1 Timothy 03#^3-16|1 Timothy 3.16-4.3]] respectively. The larger of these two fragments, 7Q5, preserves no more than 20 partial or
 
 Ayuensiys Ajea pue sjjos9s ay
 
@@ -52,7 +52,7 @@ phrase meaning ‘to the land (or shore)’ to complement the verb ‘anchored�
 
 *[p. 109]* ^pg120
 
-is between 20 and 23 letters even when the right and left margins are not preserved in any of the five lines. Thiede followed O’Callaghan in calculating the number of letters by comparing 7Q5 to 7Q1 (= Exodus 28.4-7) and 7Q2 (= Letter of Jeremiah 6.43-44:) which have line-lengths of between 16 and 23 letters. This is a highly dubious procedure. Just because the three fragments were found in the same cave does not in any way justify the assumption that they had similar column widths. Various texts have different column widths, even those that were copied on the same scroll. Other scholars have identified the same fragments as the Greek texts of 1 Enoch. Prudence should guide one to be cautious in reading so much significance out of so little evidence.
+is between 20 and 23 letters even when the right and left margins are not preserved in any of the five lines. Thiede followed O’Callaghan in calculating the number of letters by comparing 7Q5 to 7Q1 (= [[Torah 20 - Tetzaveh#^28-4|Exodus 28.4-7]]) and 7Q2 (= Letter of Jeremiah 6.43-44:) which have line-lengths of between 16 and 23 letters. This is a highly dubious procedure. Just because the three fragments were found in the same cave does not in any way justify the assumption that they had similar column widths. Various texts have different column widths, even those that were copied on the same scroll. Other scholars have identified the same fragments as the Greek texts of 1 Enoch. Prudence should guide one to be cautious in reading so much significance out of so little evidence.
 
 The ‘slain messiah’ text
 
@@ -96,7 +96,7 @@ In the above fragment of 4Q285, the verb for ‘to put to death’, with the con
 
 AyueNnsiys Ajea pue sjjos9s ayy
 
-Grammatically, both readings are possible. The main reason that the one is more probable than the other is that in all other passages in the scrolls where the Prince of the Congregation is mentioned he is depicted as the triumphant messianic figure. In fact in 4QpIsa’\*, a pesher to Isaiah, and 1QSb, the rule of blessings, the Prince of the Congregation is depicted as the triumphant figure that fulfils the very same biblical prophecy of Isaiah 10-11.
+Grammatically, both readings are possible. The main reason that the one is more probable than the other is that in all other passages in the scrolls where the Prince of the Congregation is mentioned he is depicted as the triumphant messianic figure. In fact in 4QpIsa’\*, a pesher to Isaiah, and 1QSb, the rule of blessings, the Prince of the Congregation is depicted as the triumphant figure that fulfils the very same biblical prophecy of [[Isaiah 10#^10-1|Isaiah 10]]-11.
 
 Common sectarian matrix
 
@@ -106,7 +106,7 @@ These are two failed attempts to establish a direct link between the scrolls and
 
 The Dead Sea Scrolls
 
-church and the Pauline congregations as distinct groups that shared a common sectarian matrix. There were other groups beside. This sectarian matrix includes separation from the majority, organization into groups, religious ideas, and the choice of favourite biblical proof-texts that legitimize a sect’s existence. The groups drew inspiration from the Hebrew Bible or Old Testament; in doing so, they shared this common heritage with other Jews in the late Second Temple period. But they were also sectarians - remember that the disciples of Jesus were originally considered as followers of ‘the Way’ - and as such they held to a similar, yet distinct, set of beliefs. They focused on certain scriptural passages, like Isaiah 40, Jeremiah 31 and Habakkuk 2.4, but they drew different lessons from them.
+church and the Pauline congregations as distinct groups that shared a common sectarian matrix. There were other groups beside. This sectarian matrix includes separation from the majority, organization into groups, religious ideas, and the choice of favourite biblical proof-texts that legitimize a sect’s existence. The groups drew inspiration from the Hebrew Bible or Old Testament; in doing so, they shared this common heritage with other Jews in the late Second Temple period. But they were also sectarians - remember that the disciples of Jesus were originally considered as followers of ‘the Way’ - and as such they held to a similar, yet distinct, set of beliefs. They focused on certain scriptural passages, like [[Isaiah 40#^40-1|Isaiah 40]], [[Jeremiah 31#^31-1|Jeremiah 31]] and [[Habakkuk 2#^2-4|Habakkuk 2.4]], but they drew different lessons from them.
 
 The Jerusalem church
 
@@ -136,9 +136,9 @@ The Dead Sea Scrolls
 
 Aristobulus I, who was an Essene and he used to teach his disciples in the Court of the Temple. It is likely that Essenes and/or urban sectarians lived there, but not the monastic type of Qumranian.
 
-Pixner and Rainer Riesner have contended that the New Testament has actually mentioned these Jerusalem Essenes in Acts 2.5-6, ‘Now there were dwelling in Jerusalem Jews, devout men from every nation under heaven. And at this sound the multitude came together ... .. Moreover, in Acts 6.7, Luke, the author of this two part work, even reported that ‘a great many of the priests were obedient to the faith.’ For Pixner and Riesner, the terms ‘devout’, ‘multitude’ and ‘priests’ in these verses were references to the Jerusalem Essenes.
+Pixner and Rainer Riesner have contended that the New Testament has actually mentioned these Jerusalem Essenes in [[Acts 02#^2-5|Acts 2.5-6]], ‘Now there were dwelling in Jerusalem Jews, devout men from every nation under heaven. And at this sound the multitude came together ... .. Moreover, in [[Acts 06#^6-7|Acts 6.7]], Luke, the author of this two part work, even reported that ‘a great many of the priests were obedient to the faith.’ For Pixner and Riesner, the terms ‘devout’, ‘multitude’ and ‘priests’ in these verses were references to the Jerusalem Essenes.
 
-Richard Bauckham, however, has offered a thorough critique of Pixner and Riesner’s views. He argued that none of the textual evidence from Acts adduced to support a group of Jerusalem Essenes reflects Qumran terminology: the Greek word hosios (holy) not ewlabes (devout) translates the Hebrew hasid (piety, holy); the Greek word plethos (multitude) is not used in the same sense as the Qumran community’s self-designation of ha-rabbim, the Hebrew for ‘the many’. Moreover, the priests mentioned in Acts 6.7 could be any number of other priests and not necessarily Essenes.
+Richard Bauckham, however, has offered a thorough critique of Pixner and Riesner’s views. He argued that none of the textual evidence from Acts adduced to support a group of Jerusalem Essenes reflects Qumran terminology: the Greek word hosios (holy) not ewlabes (devout) translates the Hebrew hasid (piety, holy); the Greek word plethos (multitude) is not used in the same sense as the Qumran community’s self-designation of ha-rabbim, the Hebrew for ‘the many’. Moreover, the priests mentioned in [[Acts 06#^6-7|Acts 6.7]] could be any number of other priests and not necessarily Essenes.
 
 As for the self-designations of the Jerusalem Church, Bauckham examined the terminology of ‘the way’, ‘the holy ones/the saints’, ‘the church of God’ and two terms purportedly to be equivalent to the yahad. On the first two, he concluded that there was no evidence of borrowing; the Qumran and Christian communities derived the terminology from common biblical sources, especially of Isaiah and Daniel 7. The Qumran scrolls’ use of gahal (assembly) or edah (congregation) was more reflexive and did not have the sense that the Jeruslaem church invested into ‘the church of God’. And finally, there is no equivalent to the Qumran yahad in the terminology of the Jerusalem church.
 
@@ -150,13 +150,13 @@ Bauckham’s views converge well with my own view on the relationship between th
 
 understandings.
 
-Take, for instance, the central concept of the new covenant previously discussed. Both the Qumran scrolls and Pauline letters drew on the same passage of Jeremiah 31.31-34: but infused it with meanings that cannot be easily reconciled. You will remember that the ‘new covenant’ signifies a renewing of the old covenant in the sectarian scrolls. By contrast, Paul’s ‘new covenant’ is a new dispensation or stage in the unfolding of the divine will and is associated with the death and resurrection of Jesus (‘this cup is the new covenant in my blood’, 1 Cor 11.25). It involves a new ethical and moral conduct, the following of ‘the law of Christ’, and a re-
+Take, for instance, the central concept of the new covenant previously discussed. Both the Qumran scrolls and Pauline letters drew on the same passage of [[Jeremiah 31#^31-31|Jeremiah 31.31-34]]: but infused it with meanings that cannot be easily reconciled. You will remember that the ‘new covenant’ signifies a renewing of the old covenant in the sectarian scrolls. By contrast, Paul’s ‘new covenant’ is a new dispensation or stage in the unfolding of the divine will and is associated with the death and resurrection of Jesus (‘this cup is the new covenant in my blood’, [[1 Corinthians 11#^11-25|1 Cor 11.25]]). It involves a new ethical and moral conduct, the following of ‘the law of Christ’, and a re-
 
 interpretation of Jewish scriptures (2 Cor 3).
 
 Ayuensiys Ajea pue sjjos9s ay
 
-When we place these two interpretations of Jeremiah 31 within the context of ancient Judaism, it becomes plain that the new covenant is sectarian in the sense that only members of sects focused on this concept. The whole of rabbinic literature ignores this concept; the only possible exception is berit milah or the covenant of circumcision, but its link to Jeremiah is tenuous at best. The model of a sectarian matrix explains why even though we find the same, key biblical passages quoted in the documents of different communities the lessons drawn from them are not the same.
+When we place these two interpretations of [[Jeremiah 31#^31-1|Jeremiah 31]] within the context of ancient Judaism, it becomes plain that the new covenant is sectarian in the sense that only members of sects focused on this concept. The whole of rabbinic literature ignores this concept; the only possible exception is berit milah or the covenant of circumcision, but its link to Jeremiah is tenuous at best. The model of a sectarian matrix explains why even though we find the same, key biblical passages quoted in the documents of different communities the lessons drawn from them are not the same.
 
 It is likely that Essenes, if not also urban sectarians, came into contact with Christians in first century Jerusalem. The Essene Gate was probably near a quarter or locality of Essenes living on what is known today as Mt. Zion. But there is no conclusive evidence to prove that Jerusalem Essenes were mentioned in the New
 

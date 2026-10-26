@@ -29,7 +29,7 @@ uktaṃ ca parameśena na vidhirnārcanakramaḥ || ^iast
 >
 > For the adept (sādhaka) (who desires worldly benefits) also, the Mantra that grants his accomplishment (siddhi) becomes one with the universe (he contemplates in this way), and (every) obstacle (to its realisation) ceasing (thereby), it quickly bestows its own accomplishment. (with 15.155cd–156ab)
 >
-> The Supreme Lord has said in the Mata and elsewhere: ‘There is no ritual procedure (vidhi) or liturgy (arcanakrama) (that attains the goal); the desired accomplishment (is achieved) solely by recollecting (mantra). (with 15.156cd–157ab)
+> The Supreme Lord has said in the Mata and elsewhere: ‘There is no ritual procedure (vidhi) or liturgy (arcanakrama) (that attains the goal); the desired accomplishment (is achieved) solely by recollecting (mantra).’ (with 15.156cd–157ab)
 
 ## Viveka
 

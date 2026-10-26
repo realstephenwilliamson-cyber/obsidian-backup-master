@@ -65,10 +65,10 @@ Similarly, if she says, "I thought he was a priest, and instead he is a Levite,"
 [^5]: A compendium of halachic exegesis of the Book of Leviticus, composed by Rav, a student of Rabbi Yehudah HaNasi, who compiled the Mishnah. Rav was the leader of the first generation of Amoraim in Babylonia.
 [^6]: A compendium of the halachic exegesis of the Books of Numbers and Deuteronomy, composed by Rav.
 [^7]: A collection of teachings intended to "explain the Mishnah and expound upon concepts that would require much effort to be derived from the Mishnah." Rabbi Chiyya was one of Rabbi Yehudah HaNasi's primary disciples.
-[^8]: Students of Rabbi Akiva, renowned for their scholarship in their youth. Their promising futures were effaced after they entered a mystical experience together with their master. (See [[Chagigah 14#14b|*Chaggigah* 14b]].)
+[^8]: Students of Rabbi Akiva, renowned for their scholarship in their youth. Their promising futures were effaced after they entered a mystical experience together with their master. (See *Chaggigah* [[Chagigah 14#14b|14b]].)
 [^9]: The commander of King Saul's armies.
 [^10]: Yoav ben Tz'ruyah, the commander of King David's armies.
-[^11]: Who was renowned for his wealth. Each year he would give 12,000 calves as the tithes of his herd ([[Shabbat 54#54b|*Shabbat* 54b]]). Another version of the text also mentions Elazar ben Chersom whose wealth is described in [[Yoma 35#35b|*Yoma* 35b]].
+[^11]: Who was renowned for his wealth. Each year he would give 12,000 calves as the tithes of his herd (*Shabbat* [[Shabbat 54#54b|54b]]). Another version of the text also mentions Elazar ben Chersom whose wealth is described in *Yoma* [[Yoma 35#35b|35b]].
 [^12]: The doubt exists only because we cannot be aware of what is happening within the person's heart or mind. If we could be sure that he had repented within his heart, he is considered a righteous man, regardless of his previous conduct. This demonstrates the power of *teshuvah*, how one thought of repentance can transform one's spiritual level from one extreme to the other.
 [^13]: In general, a person is not punished for a sin unless he commits a deed. The worship of false gods is different. (See *Hilchot Avodat Kochavim* 2:6, which states: "Whoever accepts a false god as true, even when he does not actually worship it, disgraces and blasphemes [God's] glorious and awesome name." See also *Hilchot Avodat Kochavim* 2:1,3.)
 [^14]: Since he did not explicitly state the matter as a stipulation, his misconception does not cause the *kiddushin* to be nullified.

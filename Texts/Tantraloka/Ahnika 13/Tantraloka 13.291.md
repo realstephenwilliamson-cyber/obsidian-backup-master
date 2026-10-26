@@ -27,7 +27,7 @@ karhicitprāptaśabdābhyāmanapekṣitvamūcivān || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#^pg325|p. 303]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=325>))
 >
-> Our grand-teacher, the venerable Utpaladeva (has written): ‘O Lord, the time a descent of the power (of grace) takes place is an occasion to assess (whether the person to whom it is directed is fit to receive it, but) you never do so. So what is happening with me today that you are taking so long to reveal yourself? With the words ‘never’ and ‘occasion’ he (has implicitly) said that the all-pervasive Lord is independent, difficult to attain, and impartial with respect to the dispensation of the descent of the power (of His grace). (with 13.290–292ab)
+> Our grand-teacher, the venerable Utpaladeva (has written): ‘O Lord, the time a descent of the power (of grace) takes place is an occasion to assess (whether the person to whom it is directed is fit to receive it, but) you never do so. So what is happening with me today that you are taking so long to reveal yourself?’ With the words ‘never’ and ‘occasion’ he (has implicitly) said that the all-pervasive Lord is independent, difficult to attain, and impartial with respect to the dispensation of the descent of the power (of His grace). (with 13.290–292ab)
 
 ## Viveka
 

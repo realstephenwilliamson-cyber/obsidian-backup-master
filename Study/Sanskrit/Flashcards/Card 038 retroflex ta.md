@@ -20,16 +20,13 @@ nyasa: "right hip (*kaṭi*)"
 ## Front
 
 - **Glyph:** ट
-- **Variation:** —
 - **Example:** स्फोट
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** [ As in ‘borsch<u>t</u> again’ ]
-- **Class (as printed):** 3 (cerebral) · hard · unaspirated
-- **Grid:** the five rows of stops; in bold: ट
-- **Example:** sphoṭa (idea flash)
+> [!note]- Back
+> - **Pronunciation:** [ As in ‘borsch<u>t</u> again’ ]
+> - **Class:** cerebral · hard · unaspirated
+> - क ख ग घ ङ / च छ ज झ ञ / <u>ट</u> ठ ड ढ ण / त थ द ध न / प फ ब भ म
+> - **Example:** sphoṭa (idea flash)
 
 ## Register
 

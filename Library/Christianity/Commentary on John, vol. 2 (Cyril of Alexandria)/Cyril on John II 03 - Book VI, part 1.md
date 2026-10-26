@@ -31,7 +31,7 @@ CHAPTER I.
 
 That not from sins of the soul prior to birth do bodily sufferings befal any, nor yet does God bring the sins of their fathers upon any, punishing those who have nothing sinned, but brings righteous doom upon all.
 
-b §. John ix. 2 And His disciples asked Him, saying, Rabbi, who did sin, this man, or his parents, that he should be born
+b §. [[John 09#^9-2|John ix. 2]] And His disciples asked Him, saying, Rabbi, who did sin, this man, or his parents, that he should be born
 
 3 blind? Jesus answered, Neither did this man sin nor his parents: but that the works of God should be made manifest in him.
 

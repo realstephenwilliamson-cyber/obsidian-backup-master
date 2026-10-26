@@ -31,7 +31,7 @@ madhyato vyāpinī tasyāṃ vyāpīśo vyāpinīdharaḥ |
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 05 (Dyczkowski)/Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#^pg385|p. 367]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 05.pdf#page=385>))
 > Dyczkowski numbers this verse 8.397cd–398ab.
 >
-> Penetrating (beyond) her, (one reaches) the power Kundalinī in her raised state (rdhvakundalī). Similar (in form) to a sleeping serpent, she is said to be the sustaining ground of all things (viśvādhāra). Within her (live) the powers, Sūkṣmā (Subtle), Susūkṣmā (Very Subtle), Amrtā (Immortal) and Amitā (Unlimited) and, in the centre, Vyapini'’ (the Pervasive One). Within her is Vyāpīśa, her Lord. (with 8.395d–397ab)
+> Penetrating (beyond) her, (one reaches) the power Kundalinī in her raised state (rdhvakundalī). Similar (in form) to a sleeping serpent, she is said to be the sustaining ground of all things (viśvādhāra). Within her (live) the powers, Sūkṣmā (Subtle), Susūkṣmā (Very Subtle), Amrtā (Immortal) and Amitā (Unlimited) and, in the centre, Vyapini (the Pervasive One). Within her is Vyāpīśa, her Lord. (with 8.395d–397ab)
 >
 > This is (the world of Anāśrita, which is) the Principle of Power. This cosmic unfolding (prapañca), that extends up to the Earth Principle, belongs to it. Then (beyond it) is the Śiva Principle. There, located in the four directions, are Vyāpin (the Pervasive), Vyomātmaka (the Void), Ananta (Endless) and Anātha (Lordless), along with their powers. (The world of) Anāśrita (Unemerged) is in the centre. There the God of the gods, Anāśrita, resides united with his power, brilliant like a thousand million suns. (with 8.397cd–399)
 

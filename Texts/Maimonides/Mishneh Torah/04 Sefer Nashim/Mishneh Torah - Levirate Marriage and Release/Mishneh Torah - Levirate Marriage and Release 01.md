@@ -191,7 +191,7 @@ If [the *yavam*] has relations with her after she gives birth, the children that
 
 [^1]: *Sefer HaMitzvot* (Positive Commandment 216) and *Sefer HaChinuch* (Mitzvah 598) include this mitzvah as one of the 613 mitzvot of the Torah.  
     In his *Guide for the Perplexed*, the Rambam explains that marriage of this nature was a custom carried out before the giving of the Torah (as reflected by [[Torah 09 - Vayeshev#^38-8|Genesis 38:8]] , and the Torah allowed this rite to be perpetuated. *Sefer HaChinuch* explains that the closeness shared with the deceased by both his widow and his brother enjoins them to come together and produce a child who will perpetuate the deceased's memory and virtue. As *Sefer HaChinuch* mentions, there are also profound mystic concepts associated with this mitzvah.
-[^2]: Implied is an exclusion. One should not perform this rite with the widow of one's maternal brother ([[Yevamot 17#17b|*Yevamot* 17b]]; Halachah 7 below).
+[^2]: Implied is an exclusion. One should not perform this rite with the widow of one's maternal brother (*Yevamot* [[Yevamot 17#17b|17b]]; Halachah 7 below).
 [^3]: See *Hilchot Ishut* 22:10-14.
 [^4]: According to the Rambam's conception, the woman cannot be compelled to marry her brother-in-law against her will. See Chapter 2, Halachah 10 and notes.
 [^5]: *Sefer HaMitzvot* (Positive Commandment 217) and *Sefer HaChinuch* (Mitzvah 599) include this mitzvah as one of the 613 mitzvot of the Torah.
@@ -220,16 +220,16 @@ If [the *yavam*] has relations with her after she gives birth, the children that
 [^20]: See *Hilchot Aveilut* 2:1.
 [^21]: See *Hilchot Edut* 13:1.
 [^22]: See *Hilchot Nachalot* 1:6.
-[^23]: [[Yevamot 17#17b|*Yevamot* 17b]] derives this concept from [[Torah 10 - Miketz#^42-13|Genesis 42:13]]: "We are twelve brothers, the son of one father."
+[^23]: *Yevamot* [[Yevamot 17#17b|17b]] derives this concept from [[Torah 10 - Miketz#^42-13|Genesis 42:13]]: "We are twelve brothers, the son of one father."
 [^24]: And therefore, one is not obligated to perform the rite of *yibbum* if his brother dies childless.
 [^25]: This ruling applies with regard to the laws of *yibbum*. With regard to the laws of forbidden relationships, by contrast, in *Hilchot Issurei Bi'ah* the Rambam rules that if one twin has relations with the other's wife, he is liable for transgressing the prohibition against relations with his brother's wife.
 [^26]: As reflected in Halachah 12, there is a prohibition involved.
-[^27]: Our Sages forbade a priest from marrying a woman who performed the rite of *chalitzah* (*Hilchot Ishut* 1:7). Since it makes no difference to the brother with which widow he performs the rite of *chalitzah*, our Sages counsel that it be performed in a manner that does not damage a woman's future possibilities. See [[Yevamot 44#44a|*Yevamot* 44a]].  
+[^27]: Our Sages forbade a priest from marrying a woman who performed the rite of *chalitzah* (*Hilchot Ishut* 1:7). Since it makes no difference to the brother with which widow he performs the rite of *chalitzah*, our Sages counsel that it be performed in a manner that does not damage a woman's future possibilities. See *Yevamot* [[Yevamot 44#44a|44a]].  
     A court should enforce the application of this law (*Beit Shmuel* 161:2).
 [^28]: I.e., if he is capable of meeting the responsibilities a husband has - providing for his wife's livelihood, her clothing and her conjugal rights.
 [^29]: A person who transgresses a positive commandment is not liable to receive the forty lashes given when a negative commandment of the Torah is violated. Hence, the Rambam clarifies that although a prohibition is involved, it is a prohibition stemming from a positive commandment, and not one stemming from a negative commandment.
-[^30]: The Ramban (Nachmonides, *Hasagot L'Sefer HaMitzvot, Hosafot* Negative Commandment 14) differs and maintains that the violation of a Scriptural prohibition is involved. The difference between their opinions stems from their interpretation of [[Yevamot 10#10b|*Yevamot* 10b]].  
-    That passage interprets [[Torah 49 - Ki Teitzei#^25-9|Deuteronomy 25:9]]: "... who did not build his brother's house," as implying a prohibition. "Once he did not build it, he no longer has the right to build it." The Ramban follows the authorities who maintain that this is a Scriptural prohibition, while the Rambam (based on [[Yevamot 40#40b|*Yevamot* 40b]]) maintains that the prohibition is Rabbinic in origin, and the reference to the verse is merely an *asmachta*, a support.
+[^30]: The Ramban (Nachmonides, *Hasagot L'Sefer HaMitzvot, Hosafot* Negative Commandment 14) differs and maintains that the violation of a Scriptural prohibition is involved. The difference between their opinions stems from their interpretation of *Yevamot* [[Yevamot 10#10b|10b]].  
+    That passage interprets [[Torah 49 - Ki Teitzei#^25-9|Deuteronomy 25:9]]: "... who did not build his brother's house," as implying a prohibition. "Once he did not build it, he no longer has the right to build it." The Ramban follows the authorities who maintain that this is a Scriptural prohibition, while the Rambam (based on *Yevamot* [[Yevamot 40#40b|40b]]) maintains that the prohibition is Rabbinic in origin, and the reference to the verse is merely an *asmachta*, a support.
 [^31]: Literally, "prohibitions of a second degree," relatives with whom relations are permitted by Scriptural law, but forbidden by Rabbinic decree. See *Hilchot Ishut* 1:6.
 [^32]: This refers to seven women who are included in the category of *arayot* and with whom sexual relations are forbidden, as mentioned in Leviticus, Chapter 18, and *Hilchot Issurei Bi'ah* 2:7,9. They include her mother, both her maternal and paternal grandmothers, her daughter, the daughter of her son, the daughter of her daughter and her sister.
 [^33]: I.e., even a brother who was not born during the lifetime of the widow's husband.
@@ -237,14 +237,14 @@ If [the *yavam*] has relations with her after she gives birth, the children that
 [^35]: He is, however, permitted to marry the woman's sister, just as he is allowed to marry his wife's sister after her death.
 [^36]: Although the woman herself is forbidden, as stated in the previous halachah, her relatives are permitted.
 [^37]: See Chapter 7, Halachah 8.
-[^38]: I.e., we do not say that he has already fulfilled the mitzvah of *yibbum*, and now the woman's status reverts to the prohibition under which she was previously forbidden. See [[Yevamot 39#39a|*Yevamot* 39a]].
+[^38]: I.e., we do not say that he has already fulfilled the mitzvah of *yibbum*, and now the woman's status reverts to the prohibition under which she was previously forbidden. See *Yevamot* [[Yevamot 39#39a|39a]].
 [^39]: Chapter 11, Halachah 3.
 [^40]: I.e., none of the other brothers should marry her instead. See Chapter 5, Halachot 18-19.
 [^41]: Two pubic hairs, as stated in *Hilchot Ishut* 2:10.
 [^42]: [[Torah 49 - Ki Teitzei#^25-7|Deuteronomy 25:7]] states: "If the man does not desire...."
 [^43]: Rather, these sexual relations are considered to be equivalent to a *ma'amar*, the status of which is discussed in Chapter 2, Halachah 1.
 [^44]: See Chapter 5, Halachah 21, where this situation is described in detail.
-[^45]: [[Yevamot 119#119a|*Yevamot* 119a]] explains that there is a certain dimension of leniency implied by this ruling. Since the woman is below the age of majority, it is possible that as she grows older she will manifest signs of being an *aylonit*, a woman who lacks female sexual characteristics (*Hilchot Ishut* 2:3,6). If that were to be the case, then the mitzvah of *yibbum* would not apply to such a woman, as stated in Chapter 6, Halachah 8, and relations with her would still be forbidden. Nevertheless, since the overwhelming probability is that a woman will not be an *aylonit*, our Sages did not impose any restrictions.
+[^45]: *Yevamot* [[Yevamot 119#119a|119a]] explains that there is a certain dimension of leniency implied by this ruling. Since the woman is below the age of majority, it is possible that as she grows older she will manifest signs of being an *aylonit*, a woman who lacks female sexual characteristics (*Hilchot Ishut* 2:3,6). If that were to be the case, then the mitzvah of *yibbum* would not apply to such a woman, as stated in Chapter 6, Halachah 8, and relations with her would still be forbidden. Nevertheless, since the overwhelming probability is that a woman will not be an *aylonit*, our Sages did not impose any restrictions.
 [^46]: Rav David Arameah interprets this to be referring to engaging in relations with her previous husband before her death. Although with regard to her husband, we assume that she has manifested signs of physical maturity, as stated in *Hilchot Gerushin* 11:5, with regard to the laws of *yibbum* and *chalitzah* an inspection is required. Note an alternative explanation offered by the *Or Sameach*.
 [^47]: See Chapter 6, Halachah 6.
 [^48]: See *Hilchot Gerushin* 11:18, which prohibits a widow or a divorcee from remarrying within 90 days of her husband's death or their divorce, to preclude the possibility of questions arising concerning who is the father of her child.

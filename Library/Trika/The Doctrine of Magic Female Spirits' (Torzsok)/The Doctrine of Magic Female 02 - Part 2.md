@@ -616,7 +616,7 @@ tadgrahah = mantragrahah (2.12) \[illegible\] mantavīryagrahah the seizing of t
 
 kimkurvāṇavidheyatā = vaśitvam (2.Tb) subjugation \*syecchāyurvid = knowing to live acording to one's wish (cf. svecchāmgītyuh) 15.5e 
 
-*[PDF 70]* ^pg70
+*[p. lxiii]* ^pg70
 
 modita = scented (=ãmodita) 19.130 raudrî (raudryã) = ? 19.22d (a material offered in fire) 
 
@@ -639,7 +639,7 @@ The most common feature of the style of the SYM is the use of stock-phrases and 
 
 maheśvari 18.28d, 31.11b, 21.8b, 21.84 varānane 2.3d, 2.21d, 2.38d, 3.1b, 3.13b, 4.5b, 6.32d, 7.19d, 8.38b, 8.44b, 15.5d, 16.14b, 16.31b, 18.9b, 29.25d mahādevi 1.14a, 6.37a, 11.22, 16.413, 15.512, 21.26, 21.13a devi 1.10a, 1.1 la, 2. 40c, 3.26a, 3.47d, 4.7a, 6.39a, 6.54c, 7.3 la, 8.42, 8.40e, 8.4 1c, 12.2a, 12.112, 16.20a, 16.306, 16.31c, 16.37c, 16.49c, 18.136, 21.36, 21.236, 21.31b, 21.39a, 21.48c, 22.3a, 29.10a, 29.126, 31.7a, 31.76, 31.112, 32.16, 32.46 mahākāli 21.168 mahāvīre21.22a priye 2.118, 2.19c, 2.23b, 3.170, 7.31d, 11.30, 15.2b, 18.26b, 19.19d, 29.6d, 31.9d varārohe 5.8a, 7.419, 22.406, 16.108 yaśasvini 8.28d, 21.280, 29.70, 31.109, 32.20, 32.59 suvrate 1.114, 8.350, 16.146 (last may be corrupt for sāmpratam as in 18.20) bhāmini 2.39d 
 
-*[PDF 71]* ^pg71
+*[p. lxiv]* ^pg71
 
 deveśi 12.12c, 16.116, 22.16a, 29.206, 3 1.6a, 31.92 
 
@@ -657,7 +657,7 @@ mahādeva2.15a, 11.la, 16.76, 22.19, 29.3a
 
 anagha 12.1b yoginīgaṇanāyaka 16.10 yoginīnātha 16.80 Iśvara 31.1b śaśáṁkāṁṁkitaśekhara 31.3b jaṭādhara 21.50 hara 21.64 pināki 29.50 
 
-*[PDF 72]* ^pg72
+*[p. lxv]* ^pg72
 
 These fillers are less numerous for the simple reason that the Goddess speaks less in the dialogue. It seems that these vocatives are slightly more functional in some cases. Cf. chapter 16, where Bhairava is repeatedly calłed the Leader of Yoginis, which is appropriate in the context, for the chapter describes the Alphabet Bhairava (Sabdarāśibhairava), who is surrounded by eight Yoginīs representing different sections of the Sanskrit alphabet. In chapter 31, where Bhairava teaches sixteen mantra syllables called Kalās with reference to the sixteen digits of the Moon, he is called 'He Who Has the (Mark of the) Moon on His Head’. 
 
@@ -673,7 +673,7 @@ These stock-adjectives usually qualify either the mantra / deity, or the ritual 
 
 sarvasaṇmsiddhikāraṇam 16.62 sarvasiddhyarthakāraṇam 13.7d, 16.1 16.11b sarvasiddhikaram divyam 13.9c 
 
-*[p. xvi]* ^pg73
+*[p. lxvi]* ^pg73
 
 sarvasiddhiphalodayam sarvakāmārthasādhikāh 13.18d sarvakāmaphalapradāh 13.214 sarvakāmadāh 21.24 sarvakāmapradam 21.186 sarvārthadāyikā 16.52c asesaąphaladāyikām 16.450 cintitārthapradāyikā 16.9b vāñchitārthaprasādhikā 16.9d siddhido 21.35a 
 
@@ -700,7 +700,7 @@ It is repeatedly asserted with set phrases that one should not doubt the efficac
 
 the ritual. These expressions may also act as fillers: 
 
-*[PDF 74]* ^pg74
+*[p. lxvii]* ^pg74
 
 natra samśayah í na saṇmśayah / asaṇmśayah / suniścayah / satyam satyam vadāmy aham / 
 
@@ -736,7 +736,7 @@ The only metre used in the SYM is the Anuṣtubh / Sloka. There is only one shor
 
 All the unmetrical even pādas are the result of syncopation. 
 
-*[PDF 75]* ^pg75
+*[p. lxviii]* ^pg75
 
 21.33b 29.25b padmam ca likhyate grhe \*29,44d cakram ca likhyate grhe ({likhate D : likhane N} \*22,9d loke prajābhilāṣiṇah \*22.12b loke prajābhilāṣiṇah \*22,36d pibanti cāmrtam tatah 
 
@@ -764,7 +764,7 @@ Two of these (8.20c and 10.116) meet the less restrictive requirements set out i
 
 25 The much shorter text of the SYM has considerably more examples for this Vipulā than the Kubjikāmata. 
 
-*[PDF 76]* ^pg76
+*[p. lxix]* ^pg76
 
 (1896:50ff), i.e. the caesura falls after the fourth syllable. One pāda still falls short, but it consists of a list of names, which may be considered among the attenuating circumstances. 
 
@@ -802,7 +802,7 @@ The only hypermetrical even 0508 is 21.270.
 
 Hypometrism does not occur. 
 
-*[PDF 77]* ^pg77
+*[p. lxx]* ^pg77
 
 IV. Editorial Policies 
 
@@ -826,7 +826,7 @@ muktakeśaih N : muktaih keśaih D (22.266)
 
 [^1]: This is argued in Hanneder (1996:45)
 
-*[PDF 78]* ^pg78
+*[p. lxxi]* ^pg78
 
 (2) Parallels and the reconstruction of the SYM with the help of the testimonia 
 
@@ -846,7 +846,7 @@ argued that since our mss of the SYM ase very corrupt, we do not necessarily nee
 
 2 One of the numerous examples where the SYM is hopelessly corrupt is the following (2.274). The mss of the SYM reads bālāmrdviṣabhairavah. This could be cruxed as it is, since the text yields no meaning and seems to be hopelessly corrupt. However, the Tantrasadbhâva has the following parallel: bālā mrdvrṣabhair iva. The process of corruption is clear: °vr° first probably had the orthographic variant °vri?, then the stroke of the -r- was omitted. The transformation of °bhair iva to bhairavah in our text seems a most ordinary attempt to make one part of the compound meaningful and simpler. Although in this case the reconstruction can easily be done with the help of the parallel, not all cases are as simple as this one. 
 
-*[PDF 79]* ^pg79
+*[p. lxxii]* ^pg79
 
 been motivated by the desire to give the reader a text which is as readable as possible, without pretending that it has been perfectly reconstructed. 
 
@@ -983,7 +983,7 @@ There are two additional points to mention in the context of conjectural emendat
 
 9 Housman 1961: 145. This view of the process as circular is very much opposed to that expressed by Dearing implicitly (Methods... 1962:4ff, and Principles...1962:137), who defines the whole editing process linearly. 
 
-*[PDF 85]* ^pg85
+*[p. lxxviii]* ^pg85
 
 back to the manuscripts, we have better supported rules and thus can improve upon our edition, 
 
@@ -997,7 +997,7 @@ text.[^10]
 
 
 
-*[PDF 86]* ^pg86
+*[p. lxxix]* ^pg86
 
 V. The manuscripts of the Siddhayogeśvarīimata 
 
@@ -1019,7 +1019,7 @@ as he also observes. The chapter is entitled 'Karikāpaṭala’.
 
 IShastri 1915. VoLII. pp. 246, 248 2Although written in the same hand, it has different ligatures such as -mbha- insread of -mbha-, and uses the avagraha sign of a vertical wavy line, never used in the text of the SYM. (The latter feature may point to an original written in characters similar to those of the Prāyaścittasamuccaya, Cambridge ms. Add. 2833} 
 
-*[PDF 87]* ^pg87
+*[p. lxxx]* ^pg87
 
 VI. Conventions in the Apparatus 
 
@@ -1033,7 +1033,7 @@ In some cases I have made very tentative emendations or conjectures, which 1 hav
 
 I have not included the colophons in the text, for they rarely contain any reference to the contents of the chapters. Where they occur, they are mentioned in the notes to the translation. The chapter titles in the translation sometimes make use of the colophons, but most of them are my own titles and are simply based on the contents. 
 
-*[PDF 88]* ^pg88
+*[p. lxxxi]* ^pg88
 
 VII. Orthographic conventions 
 
@@ -1063,7 +1063,7 @@ Avagrahas, which are never marked by the scribes, are supplied according to curr
 
 The punctuation of the manuscripts, i.e. the dandas and double dandas, have not been followed or reported, since they are neither consistent nor helpful in determining the end of verses. In determining the end of ślokas and thus the numbering of verses, I have 
 
-*[PDF 89]* ^pg89
+*[p. lxxxii]* ^pg89
 
 \[पी tried to keep standard four-pāda ślokas. However, there were cases in which this policy had to be abandoned for the sake of better reading and for the consistency of sense within the ślokas. In these cases I occasionally chose to have 51025 of six pādas. Nevertheless, I have kept four pāda ślokas in cases where the meaningful units shift only in one or in a couple of verses and then they come back to follow the original pattern. 
 
@@ -1111,7 +1111,7 @@ Unattributed citation.
 
 unattrib. cit. 
 
-*[PDF 90]* ^pg90
+*[p. lxxxiii]* ^pg90
 
 In the critical apparatus at the bottom: 
 

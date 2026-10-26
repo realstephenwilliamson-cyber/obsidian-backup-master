@@ -102,30 +102,30 @@ All of the Levites are warned [not to participate in] the service of the altar,[
 [^5]: See [[I Chronicles 09#^9-17|I Chronicles 9:17-26]] which lists the Levites who served this function. The guards would serve as watchmen and not perform any physical work. The gatekeepers performed physical activities, opening the gates, closing them, and locking them.
 [^6]: *Arachin*, loc. cit., associates the wine libations with song, stating: "Song is recited only over wine." See *Hilchot Temidim UMusafim* 6:5.
 [^7]: I.e., the daily offerings and the special offerings brought on Sabbaths, Rashei Chadashim, and holidays.
-[^8]: As a prooftext for this concept, [[Arakhin 11#11b|*Arachin* 11b]] cites [[Torah 36 - Beha'alotcha#^10-10|Numbers 10:10]]: "And you shall sound the trumpets over your burnt offerings and over peace offerings." The plural term implies offerings that are brought for the entire Jewish people.
+[^8]: As a prooftext for this concept, *Arachin* [[Arakhin 11#11b|11b]] cites [[Torah 36 - Beha'alotcha#^10-10|Numbers 10:10]]: "And you shall sound the trumpets over your burnt offerings and over peace offerings." The plural term implies offerings that are brought for the entire Jewish people.
 [^9]: See *Hilchot Shekalim* 4:9 for a description of these sacrifices.
 [^10]: With this phrase, Rambam is referring to both wine libations brought by individuals and those brought by the community but were not brought on the same day as the sacrifice with which they were associated. See *Hilchot Temidim UMusafim* 6:8.
 [^11]: I.e., a close relative died that day (*Hilchot Bi'at HaMikdash* 2:9).
 [^12]: In contrast to a priest who may not offer a sacrifice while in such a state (*Ibid.*:6).
-[^13]: [[Arakhin 13#13b|*Arachin* 13b]] explains that there were at least twelve musical instruments playing each day. And there was one singer corresponding to every one of these instruments.
+[^13]: *Arachin* [[Arakhin 13#13b|13b]] explains that there were at least twelve musical instruments playing each day. And there was one singer corresponding to every one of these instruments.
 [^14]: The platform of three steps that divided between the Courtyard of the Israelites and the Courtyard of the Priests (*Hilchot Beit HaBechirah* 6:3).
 [^15]: Indeed, the fact that a person had served on the *duchan* is a sign of his lineage.
 [^16]: In his Commentary to the Mishnah (*Arachin* 2:3), the Rambam describes these instruments at length.
 [^17]: Indeed, [[II Chronicles 05#^5-12|II Chronicles 5:12]] speaks of 120 trumpeters.
 [^18]: The preceding verse speaks of sounding the trumpets as an outcry of distress. This mitzvah is described in *Hilchot Ta'aniot*, ch. 1. In his *Sefer HaMitzvot* (positive commandment 59), the Rambam writes that the two soundings of the shofar are considered as a single mitzvah.
 [^19]: [[Torah 36 - Beha'alotcha#^10-2|Numbers 10:2]] speaks of beating out the silver and forming trumpets in that manner.
-[^20]: Our translation follows the Rambam's Commentary to the Mishnah (*Arachin* 2:3). Rashi, [[Arakhin 10#10a|*Arachin* 10a]], offers a different interpretation, explaining that all melodies were concluded by a long note from a lone flute.
+[^20]: Our translation follows the Rambam's Commentary to the Mishnah (*Arachin* 2:3). Rashi, *Arachin* [[Arakhin 10#10a|10a]], offers a different interpretation, explaining that all melodies were concluded by a long note from a lone flute.
 [^21]: I.e., on these days, the Levites would sing the Hallel and be accompanied by the flutes alone. On the other days of the year, they would be accompanied by the other instruments (*ibid.*).
 [^22]: On the 14th of Nissan.
 [^23]: I.e., on *Pesach Sheni*, on the 14th of Iyar. Those who did not bring a sacrifice on the first Pesach had the opportunity to compensate by bringing the sacrifice a month later (*Hilchot Korban Pesach,*, ch. 5).
-[^24]: This also applies with regard to the sounding of the other musical instruments. A flute is mentioned, because a flute was also sounded in association with the water libation (see *Hilchot Lulav* 8:13) and the sounding of the flute at that time did not supersede the Sabbath prohibitions (Rashi, [[Sukkah 50#50b|*Sukkah* 50b]]).
+[^24]: This also applies with regard to the sounding of the other musical instruments. A flute is mentioned, because a flute was also sounded in association with the water libation (see *Hilchot Lulav* 8:13) and the sounding of the flute at that time did not supersede the Sabbath prohibitions (Rashi, *Sukkah* [[Sukkah 50#50b|50b]]).
 [^25]: For it is forbidden to sound musical instruments on the Sabbath.
 [^26]: As evident from Chapter 5, Halachah 15, the attainment of manhood mentioned here apparently refers to reaching the age of Bar Mitzvah. Hence the commentaries question the Rambam's statements, for they apparently contradict his statement made previously, that a Levite must be 30 to begin his service. The Radbaz and Rav Yosef Corcus explain that the obligation to be 30 applied only when the Sanctuary was being transported. (Just as the disqualification at age 50 applied only in the era when the Sanctuary was transported [see the following halachah], so too, it is reasonable to postulate that the obligation to be 30 applied only then.) In other eras, all that was necessary was that the Levite study the necessary laws for five years.
 [^27]: See *Sefer HaMitzvot,*, General Principle 3, which mentions this issue.
 [^28]: As a priest is (see *Hilchot Bi'at HaMikdash*, ch. 6).
-[^29]: [[Chullin 24#24a|*Chullin* 24a]] states that the Levites on the *duchan* must sing in a manner that their voices sound like one voice. If the voice of a particular Levite becomes spoiled and he is no longer capable of singing in this manner, he is unfit to perform this service.
+[^29]: *Chullin* [[Chullin 24#24a|24a]] states that the Levites on the *duchan* must sing in a manner that their voices sound like one voice. If the voice of a particular Levite becomes spoiled and he is no longer capable of singing in this manner, he is unfit to perform this service.
 [^30]: Indeed, even in the era when the Sanctuary was transported, an elderly person was disqualified only from carrying it. He could serve as a watchman or a singer even then (*Har HaMoriah*).
-[^31]: [[Taanit 27#27a|*Ta'anit* 27a]] derives this concept from [[I Chronicles 09#^9-22|I Chronicles 9:22]].
+[^31]: *Ta'anit* [[Taanit 27#27a|27a]] derives this concept from [[I Chronicles 09#^9-22|I Chronicles 9:22]].
 [^32]: The designation of the clans and thus the determination of who would be serving in the Temple on a particular day was the responsibility of the head of the watch (*Kessef Mishneh*).
 [^33]: This is part of the prohibition mentioned in the following halachah.
 [^34]: This is derived from the law mentioned in *Hilchot Mitamei Mishkav UMoshav* 11:11 that when the table for the Showbread was displayed to the people, they were warned not to touch it lest it become impure. One can infer that there is no difficulty in touching it per se, only in making it impure (*Har HaMoriah*).  

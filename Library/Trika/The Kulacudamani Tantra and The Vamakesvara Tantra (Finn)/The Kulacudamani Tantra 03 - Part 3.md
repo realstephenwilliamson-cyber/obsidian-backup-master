@@ -295,14 +295,15 @@ BrahmāṇÎ etcetera.[^108]
 
 29\. First offering them a seat and welcoming them with a mantra, (he should present) blessed water for drinking, water for the feet, plain water and an offering of milk and honey.[^109]
 
-30\. He should bathe and dress11° the hair with scents and flowers and after censing the hair, he should offer silken garments
+30\. He should bathe and dress[^110] the hair with scents and flowers and after censing the hair, he should offer silken garments
 
 (to the aktis).
 
 [^106]: Certain prectous or semi-precious gems are found in the different mountain regions.
 [^107]: 10?, The purified water is turned into nectar by a particular mudrā.
 [^108]: A traditional list of the Mothers is: Brahmānl, Maheśvart, Kaumãrl, Vaiṣṇavī, Vārāhī, Indrānī, Cāmunṇdā and Raudrī. Each verse of the hym that follows in Verses 35 to 43 is addressed to one of these Mother goddesses, with the exception of Raudrt who is replaced by Mahālakgmt.
-[^109]: 109, "Madhuparka” is a respectful offering usually consisting of honey and milk, but also may be of curds, honey and elarifted butter. . 110\. The Sanskrit reads "keśasamskāra”, or in literal terms, "the adornment of the hair".
+[^109]: 109, "Madhuparka” is a respectful offering usually consisting of honey and milk, but also may be of curds, honey and elarifted butter.
+[^110]: The Sanskrit reads "keśasamskāra”, or in literal terms, "the adornment of the hair".
 
 *[p. 96]* ^pg92
 

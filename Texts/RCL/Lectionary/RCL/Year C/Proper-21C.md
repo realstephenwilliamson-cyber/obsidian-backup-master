@@ -11,6 +11,7 @@ second_reading: "1 Timothy 6:6-19"
 gospel: "Luke 16:19-31"
 first_reading_complementary: "Amos 6:1a, 4-7"
 psalm_complementary: "Psalm 146"
+psalm_bcp_complementary: "Psalm 146"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-21]]"
 cssclasses:

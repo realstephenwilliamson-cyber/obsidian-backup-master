@@ -27,7 +27,7 @@ nityaṃ niyatarūpatvātsarvasmin śāsanāśrite || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#^pg23|p. 6]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=23>))
 >
-> (According to this definition, the veneration of) the junctions (of the day) (sandhya) and the like, worship at propitious times (parvan), and (the offering of) the sacred thread, are always regular rites (nitya), because they are fixed for all followers of a (particular) scripture (śāsana).’
+> (According to this definition, the veneration of) the junctions (of the day) (sandhya) and the like, worship at propitious times (parvan), and (the offering of) the sacred thread, are always regular rites (nitya), because they are fixed for all followers of a (particular) scripture (śāsana).
 
 ## Viveka
 

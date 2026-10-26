@@ -30,7 +30,7 @@ uktaṃ svacchandatantre taddīkṣito'pi na mokṣabhāk || ^iast
 >
 > One who, although he has money, is consumed by greed and the like, perceiving that external (matters) are the most important, consciousness takes second place, and so he does not receive a descent of the power (of grace). (with 15.420cd–421ab)
 >
-> It is said in the Svacchandatantra that ‘even though he is initiated, he is not liberated. (with 15.421cd)
+> It is said in the Svacchandatantra that ‘even though he is initiated, he is not liberated.’ (with 15.421cd)
 >
 > Surely (one may ask), what fruit (does a miser) get from the rites performed in the course of (his) initiation? (with 15.421ef)
 

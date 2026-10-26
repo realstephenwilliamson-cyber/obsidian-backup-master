@@ -113,17 +113,17 @@ When it is removed outside the city, it is deposited in a place where the wind w
 [^1]: *Sefer HaMitzvot* (positive commandment 29) and *Sefer HaChinuch* (mitzvah 132) count this as one of the Torah's 613 mitzvot.  
     The Radbaz explains that this mitzvah has four components: a) to have a fire continuously burning on the altar; b) to bring ordinary fire with each sacrifice; c) to arrange the array of wood on the altar; and d) to offer two logs with the continuous offering. Although these different actions are each associated with a separate verse, since they all share one objective: to have fire burn on the altar, they are considered as one mitzvah.
 [^2]: There was a special pyre kept burning on the altar for this purpose, as stated in Halachah 4.
-[^3]: As [[Torah 26 - Shmini#^9-24|Leviticus 9:24]] states: "And fire emerged from before God and it... consumed the burnt-offering." This fire remained on the altar throughout the entire existence of the Sanctuary. [[Yoma 21#21b|*Yoma* 21b]] relates that in the First and Second Temples, fire also descended from heaven and burned on the altar.
+[^3]: As [[Torah 26 - Shmini#^9-24|Leviticus 9:24]] states: "And fire emerged from before God and it... consumed the burnt-offering." This fire remained on the altar throughout the entire existence of the Sanctuary. *Yoma* [[Yoma 21#21b|21b]] relates that in the First and Second Temples, fire also descended from heaven and burned on the altar.
 [^4]: See Chapter 4, Halachah 5, which states that the priest who would remove the ashes from the altar would prepare the arrangement of wood and he would bring the logs together with the daily offering.
-[^5]: [[Yoma 26#26b|*Yoma* 26b]] derives this concept from a different prooftext. It is questionable why the Rambam deviates from that source, since by doing so, he is forced to derive two different concepts from the same verse.
+[^5]: *Yoma* [[Yoma 26#26b|26b]] derives this concept from a different prooftext. It is questionable why the Rambam deviates from that source, since by doing so, he is forced to derive two different concepts from the same verse.
 [^6]: *Hilchot Issurei Mizbeiach* 7:3 states that the logs used for the offering were "a cubit long and a cubit wide. Their thickness was like that of the leveling rod for an overflowing *se'ah*."
-[^7]: See *Sifra* to the above verse; [[Yoma 26#26b|*Yoma* 26b]].
+[^7]: See *Sifra* to the above verse; *Yoma* [[Yoma 26#26b|26b]].
 [^8]: The Radbaz maintains that the priest who would bring the logs in the morning (see note 4) would also bring a log in the afternoon and he would invite a friend to join him and bring the other log.
 [^9]: For the term used in that prooftext is singular.
 [^10]: See *Hilchot Avodat Yom Kippurim* 4:5.
 [^11]: See Chapter 3, Halachah 5.
 [^12]: As stated in Halachah 1.
-[^13]: [[Yoma 45#45a|*Yoma* 45a]].
+[^13]: *Yoma* [[Yoma 45#45a|45a]].
 [^14]: I.e., when the altar was arranged in the morning, these limbs and fats were placed there until the large arrangement could be prepared and kindled.
 [^15]: *Sefer HaMitzvot* (negative commandment 81) and *Sefer HaChinuch* (mitzvah 133) count this prohibition as one of the Torah's 613 mitzvot.
 [^16]: We have cited this reference because it is the one the Rambam refers to in *Sefer HaMitzvot, loc. cit.* Others cite [[Torah 25 - Tzav#^6-5|Leviticus 6:5]]. And in his commentary on the Torah, Rashi states that there are two negative commandments involved.
@@ -135,11 +135,11 @@ When it is removed outside the city, it is deposited in a place where the wind w
 [^22]: See Halachah 13. From the Rambam's statements here and in his Commentary to the Mishnah (*op. cit.*:2), it would appear that the top surface of the altar was flat and the name *tapuach* (literally, "bulging") was given because of the ash-pile made there. The Ra'avad differs and maintains that there was a bulge in the center of the surface of the altar itself. See also the Meiri in his commentary to *Tamid* who maintains that the term refers to a concave curve on the altar's surface. The Radbaz and the *Kessef Mishneh* support the Rambam's interpretation.
 [^23]: See *Hilchot Issurei Mizbeiach* 7:3.
 [^24]: I.e., the corner closest to both the Temple Building and the ramp.
-[^25]: For in this way, he will be fulfilling the directive of [[Torah 29 - Achrei Mot#^16-12|Leviticus 16:12]]: "And he shall take... flaming coals from the altar, before God." [[Yoma 45#45b|*Yoma* 45b]] explains that this refers to the outer altar which has a portion that is "before God," opposite the Holy of Holies. The second arrangement of fire was arrayed exactly in this position. Although the above verse speaks about the incense offering of Yom Kippur, our Sages also applied the concept to the incense offering brought each day.
+[^25]: For in this way, he will be fulfilling the directive of [[Torah 29 - Achrei Mot#^16-12|Leviticus 16:12]]: "And he shall take... flaming coals from the altar, before God." *Yoma* [[Yoma 45#45b|45b]] explains that this refers to the outer altar which has a portion that is "before God," opposite the Holy of Holies. The second arrangement of fire was arrayed exactly in this position. Although the above verse speaks about the incense offering of Yom Kippur, our Sages also applied the concept to the incense offering brought each day.
 [^26]: A *se'ah* is slightly more than 8 liter in contemporary measure according to *Shiurei Torah*. Other commentaries consider it larger.
 [^27]: See Chapter 4, Halachah 11; Chapter 6, Halachah 11.
 [^28]: *Har HaMoriah* states that this can be inferred from the fact that our Sages did not mention any specific place for this arrangement.
-[^29]: I.e., its description as "the fire *of the altar*. The Radbaz notes that [[Yoma 45#45b|*Yoma* 45b]] derives this concept from a different verse and explains that this is a characteristic practice of the Rambam in the *Mishneh Torah*: to interpret the Torah's verses according to their simple meaning even though different interpretations are offered in prior Rabbinic sources.
+[^29]: I.e., its description as "the fire *of the altar*. The Radbaz notes that *Yoma* [[Yoma 45#45b|45b]] derives this concept from a different verse and explains that this is a characteristic practice of the Rambam in the *Mishneh Torah*: to interpret the Torah's verses according to their simple meaning even though different interpretations are offered in prior Rabbinic sources.
 [^30]: *Sefer HaMitzvot* (positive commandment 30) and *Sefer HaChinuch* (mitzvah 131) count this as one of the Torah's 613 mitzvot.
 [^31]: It may not be performed by an Israelite (see *Hilchot Bi'at HaMikdash* 9:8).
 [^32]: All four priestly garments, even though only two are mentioned explicitly in the Torah in this context [the Rambam's Commentary to the Mishnah (*Tamid* 5:3)].
@@ -151,7 +151,7 @@ When it is removed outside the city, it is deposited in a place where the wind w
 [^38]: Since there are many sacrifices offered during the festivals, all of the activity in the Temple is begun earlier so that there will be ample opportunity.
 [^39]: On Yom Kippur, all of the elements of the Temple service were performed by the High Priest. Lest he become tired, the different elements of the Temple service were spaced out as far as possible. Hence, this activity was performed earlier in the night.
 [^40]: See Chapter 4, Halachot 1-5, for a description of the process in which this priest was chosen.
-[^41]: From *Hilchot Bi'at HaMikdash* 5:4 and [[Tamid 26#26a|*Tamid* 26a]], it appears that the intent is that a person who enters the lottery for the right to remove the ashes would immerse beforehand. See *Hilchot Bi'at HaMikdash* 5:9.
+[^41]: From *Hilchot Bi'at HaMikdash* 5:4 and *Tamid* [[Tamid 26#26a|26a]], it appears that the intent is that a person who enters the lottery for the right to remove the ashes would immerse beforehand. See *Hilchot Bi'at HaMikdash* 5:9.
 [^42]: Chapter 4, Halachah 1, states that the priests would come to the lottery wearing their priestly garments. Thus the one who was chosen would remove his ordinary priestly garments and put on the garments for the removal of the ashes.
 [^43]: As the Rambam writes in his Commentary to the Mishnah (*Tamid* 1:4), a priest should not approach the altar for any aspect of the Temple service, without first sanctifying himself, as implied by [[Torah 21 - Ki Tisa#^30-20|Exodus 30:20]]. See *Hilchot Bi'at HaMikdash* 5:1.
 [^44]: This warning was administered by the head of the clan that would serve in the Temple that day (*Tifferet Yisrael, Tamid* 1:4).

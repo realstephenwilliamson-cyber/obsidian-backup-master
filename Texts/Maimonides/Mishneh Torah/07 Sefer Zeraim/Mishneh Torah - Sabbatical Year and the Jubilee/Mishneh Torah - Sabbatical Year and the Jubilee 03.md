@@ -70,7 +70,7 @@ This is forbidden at all times, because of the impression that might be created,
 [^5]: I.e., 50 cubits by 50 cubits.
 [^6]: I.e., we estimate whether a fig tree with dimensions similar to this tree would produce 60 *maneh* of figs.
 [^7]: A *maneh* is one pound in contemporary measure (*Shiurei Torah*, p. 118). Rav Kehati (*Sh'vi'it* 1:2) considers it to be 400 grams, a slightly smaller measure.
-[^8]: Our Sages determined this to be four cubits. The rationale is that if they are grouped closer together the cattle will uproot them when trying to pass. See [[Bava Batra 83#83a|*Bava Batra* 83a]].
+[^8]: Our Sages determined this to be four cubits. The rationale is that if they are grouped closer together the cattle will uproot them when trying to pass. See *Bava Batra* [[Bava Batra 83#83a|83a]].
 [^9]: Although the one tree produced the amount required of the entire orchard, since the other trees are not fit to produce any produce at all, they are not considered significant.
 [^10]: The Rambam interprets this as referring to a situation where all the trees together are fit to produce 60 *maneh,* although some individual trees are not fit to produce a significant amount. The Ra'avad offers a different interpretation of *Sh'vi'it* 1:3, the Rambam's source. Rabbenu Shimshon also interprets the mishnah in that manner and the Radbaz and the *Kessef Mishneh* agree that, at first glance, their interpretation fits the wording of the mishnah more easily than the Rambam's.
 [^11]: For even if they are not fit to produce fruit, such a large amount of trees is significant.

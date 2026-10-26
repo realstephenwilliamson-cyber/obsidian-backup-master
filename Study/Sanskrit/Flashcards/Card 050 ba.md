@@ -20,16 +20,13 @@ nyasa: "back (*pṛṣṭha*)"
 ## Front
 
 - **Glyph:** ब
-- **Variation:** —
 - **Example:** बल
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘scu<u>b</u>a’
-- **Class (as printed):** 5 (labial) · soft · unaspirated
-- **Grid:** the five rows of stops; in bold: ब
-- **Example:** bala (strength)
+> [!note]- Back
+> - **Pronunciation:** As in ‘scu<u>b</u>a’
+> - **Class:** labial · soft · unaspirated
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ <u>ब</u> भ म
+> - **Example:** bala (strength)
 
 ## Register
 

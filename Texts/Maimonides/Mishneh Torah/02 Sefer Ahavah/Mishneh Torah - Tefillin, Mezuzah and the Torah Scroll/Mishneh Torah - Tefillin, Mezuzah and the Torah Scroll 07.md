@@ -137,12 +137,12 @@ A scroll that includes the Torah, the Prophets, and the Holy Scriptures does not
 [^2]: With this expression, the Rambam excludes women and minors. The *Sefer HaChinuch* (*loc. cit.*) explains that although this mitzvah is not associated with a specific time, since women are not obligated to study Torah, they are also not required to fulfill this mitzvah. Note the *Sha'agat Arieh* (Responsum 35), who objects and obligates women in this mitzvah.
 [^3]: Although this command was addressed to Moses, the fact that the plural form of the word "write" is used indicates that the command was addressed to the entire people.
 [^4]: the song *Ha'azinu*
-[^5]: The above is a quote from [[Sanhedrin 21#21b|*Sanhedrin* 21b]]. The Talmud, however, does not explain how this verse serves as a commandment to write a Torah scroll. The following interpretation is the Rambam's.
+[^5]: The above is a quote from *Sanhedrin* [[Sanhedrin 21#21b|21b]]. The Talmud, however, does not explain how this verse serves as a commandment to write a Torah scroll. The following interpretation is the Rambam's.
 [^6]: See Halachah 14.
 [^7]: The *Sefer HaChinuch* (*loc. cit.*) explains that this was intended so that there would be many Torah scrolls available to allow everyone the opportunity to study. Alternatively, a person will be far more motivated to study in a new scroll which he produced himself.
 [^8]: Taking the effort to write the scroll oneself indicates that, had the person lived at the time the Torah was given, he also would have joined the Jews in traveling to Mount Sinai to receive it (*Nimukei Yosef, Menachot*).
 [^9]: a scroll according to all the particular halachic requirements
-[^10]: i.e., he should hire a scribe or purchase a Torah scroll. [[Menachot 30#30a|*Menachot* 30a]] states: "A person who purchases a Torah scroll in the public market is like someone who grabs a mitzvah in the marketplace." Rashi maintains that purchasing a Torah scroll fulfills a mitzvah, but the mitzvah is not as complete as if one had written the scroll oneself. The Ramah, however, states (*Yoreh De'ah* 270:1) that if a person merely purchases a Torah scroll without checking it, he does not fulfill the mitzvah at all.  
+[^10]: i.e., he should hire a scribe or purchase a Torah scroll. *Menachot* [[Menachot 30#30a|30a]] states: "A person who purchases a Torah scroll in the public market is like someone who grabs a mitzvah in the marketplace." Rashi maintains that purchasing a Torah scroll fulfills a mitzvah, but the mitzvah is not as complete as if one had written the scroll oneself. The Ramah, however, states (*Yoreh De'ah* 270:1) that if a person merely purchases a Torah scroll without checking it, he does not fulfill the mitzvah at all.  
     Note the statements of the *Tevuot Shor*, which explain that if another person can perform a mitzvah in a more complete manner than one is able to do oneself, it is preferable to commission him to do so as one's agent. In this instance, since most people cannot write a Torah scroll as attractive and halachically accurate as a professional scribe, it is preferable to hire the latter to write one's scroll.
 [^11]: Unless the scroll is checked, it cannot be used (See Halachah 12). Checking also involves effort.  
     In his *Hilchot Sefer Torah*, Rabbenu Asher explains that, at present, this mitzvah is also fulfilled by writing *chumashim*, texts of the Talmud, and other books of Torah law. This concept is also quoted by the *Shulchan Aruch* (*Yoreh De'ah* 270:2).  
@@ -156,24 +156,24 @@ A scroll that includes the Torah, the Prophets, and the Holy Scriptures does not
 [^16]: The Rambam's source is the Jerusalem Talmud (*Sanhedrin* 2:6). A Torah scroll must be checked for accuracy against an existing scroll. There was a scroll kept in the Temple Courtyard for this purpose.
 [^17]: The intent is not that it should be hidden away, but that - in contrast to the scroll he writes as king - it need not accompany him at all times. Rather, like a Torah scroll kept by a common person, it should be kept in a storage closet.
 [^18]: or had written for him - while he was a king, should be with him at all times. - except in the circumstances mentioned in the following halachah.
-[^19]: [[Sanhedrin 21#21b|*Sanhedrin* 21b]] states that the king should "wear the scroll on his arm like an amulet, as it is written, 'I have set God before me at all times. Since He is at my right hand, I will not be budged' ([[Psalms 016#^16-8|Psalms 16:8]] ."
+[^19]: *Sanhedrin* [[Sanhedrin 21#21b|21b]] states that the king should "wear the scroll on his arm like an amulet, as it is written, 'I have set God before me at all times. Since He is at my right hand, I will not be budged' ([[Psalms 016#^16-8|Psalms 16:8]] ."
 [^20]: but not with him, lest it become soiled by food.
 [^21]: He alone. This scroll is reserved for the king's personal use. None of his subjects may study from it (*Tosefta, Sanhedrin* 4:4).
 [^22]: thus fulfilling the mitzvah incumbent upon every Jew
 [^23]: fulfilling the mitzvah incumbent upon him as king. [[Torah 48 - Shoftim#^17-18|Deuteronomy 17:18]] explicitly states that the scroll associated with his royal position should be his "second Torah scroll."
 [^24]: The *Or Sameach* suggests amending the text based on the *Sifre*, which requires the king to have his Torah scroll with him at night (except when sleeping). As support for this change, the *Tzafnat Pane'ach* quotes *Hilchot Melachim* 3:5:  
     He should be involved in Torah study and the needs of Israel by day and by night, as it is said: "It should accompany him and he should read it all the days of his life."
-[^25]: even during the day. [[Torah 48 - Shoftim#^17-19|Deuteronomy 17:19]] states, "It should accompany him and he should read it." [[Sanhedrin 21#21b|*Sanhedrin* 21b]] concludes: Where he can read it, it should accompany him; excluding places like those mentioned above, where it is not permitted to recite words of Torah. (See *Hilchot Melachim* 3:1.)
+[^25]: even during the day. [[Torah 48 - Shoftim#^17-19|Deuteronomy 17:19]] states, "It should accompany him and he should read it." *Sanhedrin* [[Sanhedrin 21#21b|21b]] concludes: Where he can read it, it should accompany him; excluding places like those mentioned above, where it is not permitted to recite words of Torah. (See *Hilchot Melachim* 3:1.)
 [^26]: See Chapter 1, Halachah 12.
 [^27]: See Chapter 1, Halachah 7, for a definition of these terms.
 [^28]: because the portions appear as two different scrolls.
 [^29]: As mentioned in Chapter 1, Halachah 8, it is preferable to write a scroll on *g'vil*. Nevertheless, as explained in the commentary, at present, it is customary to write on *k'laf*.
-[^30]: [[Shabbat 133#133b|*Shabbat* 133b]] interprets [[Torah 16 - Beshalach#^15-2|Exodus 15:2]]: "This is my God and I will glorify Him," to mean "perform mitzvot before Him in a beautiful manner... make a beautiful Torah scroll... with beautiful ink, a beautiful pen, and a skilled scribe."
+[^30]: *Shabbat* [[Shabbat 133#133b|133b]] interprets [[Torah 16 - Beshalach#^15-2|Exodus 15:2]]: "This is my God and I will glorify Him," to mean "perform mitzvot before Him in a beautiful manner... make a beautiful Torah scroll... with beautiful ink, a beautiful pen, and a skilled scribe."
 [^31]: a *yud*
 [^32]: On one hand, the words (and similarly, the letters mentioned below) should not be too close to each other lest one be unable to differentiate between them. Conversely, leaving too large a gap between them is not attractive.
 [^33]: See the conclusion of Chapter 8.
 [^34]: Leaving this space between the lines makes the text easier to read.
-[^35]: The length of each line should be thirty letters, so that one can write the word למשפחושיכם, the longest word in the Torah. The Rambam and similarly, [[Menachot 30#30a|*Menachot* 30a]], write this world in a full form, containing a *vav*, and thus containing ten letters. Nevertheless, according to our tradition, the word never appears with a *vav* in the Torah and thus contains only nine letters.
+[^35]: The length of each line should be thirty letters, so that one can write the word למשפחושיכם, the longest word in the Torah. The Rambam and similarly, *Menachot* [[Menachot 30#30a|30a]], write this world in a full form, containing a *vav*, and thus containing ten letters. Nevertheless, according to our tradition, the word never appears with a *vav* in the Torah and thus contains only nine letters.
 [^36]: The *Hagahot Maimoniot* states that this is approximately a handbreadth.
 [^37]: The *Siftei Cohen* (272:3) states, however, that this figure is not a hard and fast rule, and everything depends on the penmanship of the particular scribe. (See also *Tosafot, Menachot* 30a.)
 [^38]: The Rambam's phraseology differs slightly from his source, *Menachot*, *loc. cit.*, which states: "One should not write [a scroll] with many columns [i.e., with short columns], lest it appear like a letter."
@@ -193,7 +193,7 @@ A scroll that includes the Torah, the Prophets, and the Holy Scriptures does not
 [^51]: Note the commentary at the conclusion of the previous halachah.
 [^52]: Note the *Pitchei Teshuvah* (273:1), which states that one should not conclude any of the first four books of the Torah on the final line of a column.
 [^53]: The Ramah (*Yoreh De'ah* 272:4) states that one may also write the words with taller letters which take up several lines each.
-[^54]: This differs from Rashi's interpretation of [[Menachot 30#30a|*Menachot* 30a]], which maintains that one should write the lines in pyramid form.
+[^54]: This differs from Rashi's interpretation of *Menachot* [[Menachot 30#30a|30a]], which maintains that one should write the lines in pyramid form.
 [^55]: These are the final words of the Torah. Concluding in the middle of the line is a clear indication that these are the Torah's final words (*Turei Zahav* 272:6).
 [^56]: According to tradition, each letter appears once in the *Tanach* in a form smaller than all the other letters, and once in a form larger than all the other letters.
 [^57]: At times, shapes resembling asterisks are place above letters in the Torah. Each time letters are written in such a manner, several exegetical interpretations are offered explaining the deviation from the norm.  
@@ -202,7 +202,7 @@ A scroll that includes the Torah, the Prophets, and the Holy Scriptures does not
 [^59]: Rarely are these factors mentioned in the Talmud or the early codes. Rather, traditions regarding these letters were handed down from scribe to scribe.
 [^60]: i.e., on which letter to place a crown(s)
 [^61]: The number of crowns is not uniform
-[^62]: [[Menachot 29#29b|*Menachot* 29b]] states that when Moses ascended to heaven, he found God attaching crowns to the letters of the Torah. When he questioned God concerning their purpose, God told him that, in the future, there would be a man (Rabbi Akiva) who would derive mountains upon mountains of laws from each particular crown.  
+[^62]: *Menachot* [[Menachot 29#29b|29b]] states that when Moses ascended to heaven, he found God attaching crowns to the letters of the Torah. When he questioned God concerning their purpose, God told him that, in the future, there would be a man (Rabbi Akiva) who would derive mountains upon mountains of laws from each particular crown.  
     There is a serious difference of opinion between the Rambam and Rabbenu Asher regarding the crowns. Rabbenu Asher maintains that crowns should be placed on the letters שעטנ"ז ג"ץ. The Rambam maintains that the letters on which the crowns are placed is a matter of tradition extending back to Moses. In practice, today, it is customary to place crowns on the letters שעטנ"ז ג"ץ at all times, and to place crowns on certain other letters depending on tradition.
 [^63]: tiny
 [^64]: There is a difference of opinion in this regard between the Rambam and Rabbenu Asher, who maintains that a Torah scroll lacking crowns is disqualified. As explained in the commentary on Chapter 2, Halachah 9, the *Shulchan Aruch* advises adding all the necessary crowns before using the scroll.
@@ -216,7 +216,7 @@ A scroll that includes the Torah, the Prophets, and the Holy Scriptures does not
 [^72]: As mentioned in the commentary on Chapter 2, Halachah 3, there are times when the Hebrew vowels *cholam* and *shuruk* are written with a letter *vav*, and times when that letter is omitted. Similarly, there are times when the vowel *chirik* is written with a *yud*, and times when that letter is omitted.  
     The expression *malei*, rendered as "full form," refers to the form that includes the extra letter. *Chaseir*, rendered as "short form," refers to the form that lacks the extra letter.
 [^73]: Although in its present condition, the scroll cannot be used for a public Torah reading, as explained in the following two halachot, the scroll is not necessarily totally disqualified. In certain circumstances, it can be corrected and then used.
-[^74]: [The same ruling applies if, in circumstances where one word is written in the Torah scroll and a different word is read] There are several instances when, although one word is written in the Torah scroll, a different word is recited when the Torah is read publicly. Both the written text of the Torah and the traditional way in which it is read have their source in the revelation at Sinai ([[Nedarim 37#37b|*Nedarim* 37b]]).
+[^74]: [The same ruling applies if, in circumstances where one word is written in the Torah scroll and a different word is read] There are several instances when, although one word is written in the Torah scroll, a different word is recited when the Torah is read publicly. Both the written text of the Torah and the traditional way in which it is read have their source in the revelation at Sinai (*Nedarim* [[Nedarim 37#37b|37b]]).
 [^75]: In these instances, both the words share approximately the same meaning; however, the term that is read in public is slightly less harsh than the term actually written in the Torah.
 [^76]: See the *Shulchan Aruch* (*Yoreh De'ah* 275:6).
 [^77]: See Chapter 8, Halachot 1 and 2.
@@ -225,41 +225,41 @@ A scroll that includes the Torah, the Prophets, and the Holy Scriptures does not
 [^80]: See the conclusion of Chapter 8.
 [^81]: See the *Shulchan Aruch* (*Yoreh De'ah* 275:1-5).
 [^82]: In Talmudic times, even children would learn from scrolls. These scrolls, however, could not be used for the communal Torah readings; they have the same level of holiness as sacred texts that are printed today. Compare to Halachah 14.
-[^83]: The Ramah (*Yoreh De'ah* 279:1) quotes the ruling of the *Hagahot Maimoniot*, who applies this principle to the other books of the *Tanach* and, also, to other sacred texts, such as the Talmud. (See also Rashi, [[Ketubot 19#19b|*Ketubot* 19b]].)
+[^83]: The Ramah (*Yoreh De'ah* 279:1) quotes the ruling of the *Hagahot Maimoniot*, who applies this principle to the other books of the *Tanach* and, also, to other sacred texts, such as the Talmud. (See also Rashi, *Ketubot* [[Ketubot 19#19b|19b]].)
 [^84]: lest the error it contains cause a person to err regarding a law or Torah concept.
-[^85]: As apparent from [[Bava Metzia 118#118a|*Bava Metzia* 118a]], this is a period that our Sages generally granted to correct various problems.
+[^85]: As apparent from *Bava Metzia* [[Bava Metzia 118#118a|118a]], this is a period that our Sages generally granted to correct various problems.
 [^86]: as mentioned in the following halachah
 [^87]: as mentioned in Chapter 10, Halachah 3.
 [^88]: or fewer
-[^89]: For a scroll with more corrections than this will not be attractive ([[Menachot 29#29b|*Menachot* 29b]]).
+[^89]: For a scroll with more corrections than this will not be attractive (*Menachot* [[Menachot 29#29b|29b]]).
 [^90]: The *Kessef Mishneh* interprets this to mean that the majority of the letters of the scroll are written properly, even if there are three or more errors in most of the columns. This interpretation is quoted as halachah by the *Siftei Cohen* 279:4. The *Ziv Mishneh* differs, and interprets this as meaning that the majority of the columns of the scroll are written properly.
 [^91]: or more
 [^92]: *Tosafot, Menachot*, *loc. cit.*, emphasizes that this leniency is granted only when the column was written correctly at the outset. If this column also had been corrected, it may not serve as the basis for the correction of the entire scroll.
 [^93]: If so many words are written between the lines, the scroll will not be attractive and it is therefore disqualified.
 [^94]: The Ramah (*Yoreh De'ah* 279:4) suggests rewriting the other words on the line with a slightly elongated script, so that an empty space will not be left.
-[^95]: See [[Ketubot 103#103b|*Ketubot* 103b]], which relates how Rabbi Chiyya wrote five Torah scrolls and gave each one to a different child to learn from, in order to preserve Torah study among the Jewish people.
+[^95]: See *Ketubot* [[Ketubot 103#103b|103b]], which relates how Rabbi Chiyya wrote five Torah scrolls and gave each one to a different child to learn from, in order to preserve Torah study among the Jewish people.
 [^96]: As mentioned in *Hilchot Tefillah* 12:23, these scrolls may not be used for the communal Torah readings, nor must they be awarded the same degree of respect as a kosher Torah scroll.
 [^97]: In one of his responsa, the Rambam explains that this prohibition also applies to embroidering or engraving passages from the Torah.
 [^98]: See Halachah 1 and commentary which use this law as the basis for the derivation of the mitzvah to write a Torah scroll.
 [^99]: containing verses from the Torah
 [^100]: Surely, writing passages from the Torah for other purposes is forbidden. In the above-mentioned response, the Rambam criticizes people who write passages from the Torah as amulets or for other similar purposes.
-[^101]: [[Ketubot 103#103b|*Ketubot* 103b]] relates that Rabbi Chiya wrote five scrolls, each containing one of the books of the Torah and gave them to five different children to study.  
-    Rabbenu Yitzchak Alfasi (in his notes on [[Gittin 60#60a|*Gittin* 60a]]) differs, and allows passages from the Torah to be written for instruction. Even though this is forbidden by the letter of Torah law, the Rabbis allowed such scrolls to be written to enable people who could not afford to have an entire book of the Torah written for them to teach their children.  
+[^101]: *Ketubot* [[Ketubot 103#103b|103b]] relates that Rabbi Chiya wrote five scrolls, each containing one of the books of the Torah and gave them to five different children to study.  
+    Rabbenu Yitzchak Alfasi (in his notes on *Gittin* [[Gittin 60#60a|60a]]) differs, and allows passages from the Torah to be written for instruction. Even though this is forbidden by the letter of Torah law, the Rabbis allowed such scrolls to be written to enable people who could not afford to have an entire book of the Torah written for them to teach their children.  
     The *Shulchan Aruch* (*Yoreh De'ah* 283:2) quotes the Rambam's decision, while the *Siftei Cohen* (283:3) accepts Rabbenu Yitzchak Alfasi's position.
 [^102]: Our translation is based on the responsum mentioned above. The Rambam's intent is that each line contains only three words and that no line is positioned directly below (or in any other organized pattern), so that the passage will not appear as a single entity.  
-    The source for this law is [[Gittin 60#60a|*Gittin* 60a]], which relates that Queen Heleni had a golden tablet made on which was inscribed the passage for a *sotah*, so that the priests would not have to copy it from a Torah scroll on every occasion. Because of the prohibition against writing passages from a Torah scroll separately, this tablet was written in the above manner. (Note a somewhat different description of this tablet in the Rambam's Commentary on the Mishnah, *Sotah* 2:4.)
+    The source for this law is *Gittin* [[Gittin 60#60a|60a]], which relates that Queen Heleni had a golden tablet made on which was inscribed the passage for a *sotah*, so that the priests would not have to copy it from a Torah scroll on every occasion. Because of the prohibition against writing passages from a Torah scroll separately, this tablet was written in the above manner. (Note a somewhat different description of this tablet in the Rambam's Commentary on the Mishnah, *Sotah* 2:4.)
 [^103]: See, however, the following halachah, which describes the status of such a scroll.
 [^104]: as stated above, Halachah 7
-[^105]: Our text of [[Bava Batra 13#13b|*Bava Batra*, 13b]], which serves as the source for this halachah, appears to indicate that four lines should be left between each book of the Prophets as well. Note, however, *Soferim* 2:4, which, like the Rambam, mentions leaving only three lines. The *Shulchan Aruch* (*Yoreh De'ah* 283:1) quotes the Rambam's decision.
+[^105]: Our text of *Bava Batra*, [[Bava Batra 13#13b|13b]], which serves as the source for this halachah, appears to indicate that four lines should be left between each book of the Prophets as well. Note, however, *Soferim* 2:4, which, like the Rambam, mentions leaving only three lines. The *Shulchan Aruch* (*Yoreh De'ah* 283:1) quotes the Rambam's decision.
 [^106]: Although they are considered in their entirety as a single book of the Bible, this distinction between the works of each prophet should be made.
 [^107]: Although some of the minor prophets - e.g., Hoshea and Amos (see the Rambam's introduction to the *Mishneh Torah*) - chronologically preceded Isaiah, because of the size of their books they were included as a unit (*Bava Batra*, *loc. cit.*).
 [^108]: Based on *Bava Batra*, *loc. cit.*, the *Kessef Mishneh* maintains that there is an error in the published version of the text and that it should read as follows:  
     One should also leave three lines between each book of the twelve [minor] prophets. [Alternatively, within the works of the prophets,] one may complete [a book] at the end [of a column] and start [the following one] at the beginning [of the following column], so that should one desire to cut, he may do so.  
     Rav David Arameah sees no reason to amend the text, and explains that the space is left between the books, "so that should one desire to cut, he may do so."
 [^109]: The division of Samuel and Kings into two books was first introduced by the Vulgate, the Church's translation of the Bible into Latin.
-[^110]: Although chronologically, Isaiah preceded Jeremiah and Ezekiel, because of thematic connection, [[Bava Batra 14#14b|*Bava Batra* 14b]] favors the order quoted by the Rambam:  
+[^110]: Although chronologically, Isaiah preceded Jeremiah and Ezekiel, because of thematic connection, *Bava Batra* [[Bava Batra 14#14b|14b]] favors the order quoted by the Rambam:  
     The Book of Kings ends with a description of the destruction of the First Temple. This is also the theme of the majority of Jeremiah's prophecies. The Book of Ezekiel begins with the theme of destruction and exile, but concludes with visions of Mashiach's coming. Afterward, it is followed by the Book of Isaiah, which focuses primarily on the Messianic redemption.
 [^111]: These three books are arranged in chronological order, according to the opinion that maintains that Job lived in the time of King Solomon.
 [^112]: Rashi, *Bava Batra*, *loc. cit.*, explains that King Solomon wrote these three books in this order, completing the Song of Songs in his old age.
-[^113]: These texts are also in chronological order. According to the Talmud, the books of Ezra and Nechemiah are a single text. (See also [[Sanhedrin 93#93b|*Sanhedrin* 93b]].)
-[^114]: which was written by Ezra in Babylon ([[Bava Batra 15#15a|*Bava Batra* 15a]]).
+[^113]: These texts are also in chronological order. According to the Talmud, the books of Ezra and Nechemiah are a single text. (See also *Sanhedrin* [[Sanhedrin 93#93b|93b]].)
+[^114]: which was written by Ezra in Babylon (*Bava Batra* [[Bava Batra 15#15a|15a]]).

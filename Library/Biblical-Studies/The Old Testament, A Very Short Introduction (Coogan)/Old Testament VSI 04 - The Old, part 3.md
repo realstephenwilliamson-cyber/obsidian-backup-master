@@ -16,9 +16,9 @@ converted: 2026-10-15
 
 of a newly born lamb. These two festivals came from separate socioeconomic contexts, those of farmers and herders, but were joined at a relatively early stage.
 
-A second festival was the festival of weeks (Hebrew Shavuot), coinciding with the harvest of winter wheat, occurring seven weeks (fifty days) after Passover. This holy day was also called ‘‘festival of harvest’’ (Exod. 23:16) or ‘‘first fruits’’ (Num. 28:26), and is later known as Pentecost, from the Greek word for ‘‘fifty.’’
+A second festival was the festival of weeks (Hebrew Shavuot), coinciding with the harvest of winter wheat, occurring seven weeks (fifty days) after Passover. This holy day was also called ‘‘festival of harvest’’ ([[Torah 18 - Mishpatim#^23-16|Exod. 23:16]]) or ‘‘first fruits’’ ([[Torah 41 - Pinchas#^28-26|Num. 28:26]]), and is later known as Pentecost, from the Greek word for ‘‘fifty.’’
 
-Completing the cycle of agricultural festivals was the ‘‘festival of ingathering’’ (Exod. 23:16), which took place at the time of the harvest of grapes, olives, and other fruits in the early fall, in the seventh month. It is also known as the festival of booths (or tabernacles; Hebrew Sukkot), probably because the harvesters, whether members of the household or hired laborers, spent the night in the fields in temporary structures. The Bible also mentions in passing a ‘‘day of atonement’’ (Lev. 23:27–28; 25:9), also observed in the seventh month, apparently a ritual of cleansing to prepare the sanctuary, the priests, and the community as a whole for the fall harvest festival; as Yom Kippur this holy day becomes much more important in subsequent Jewish tradition.
+Completing the cycle of agricultural festivals was the ‘‘festival of ingathering’’ ([[Torah 18 - Mishpatim#^23-16|Exod. 23:16]]), which took place at the time of the harvest of grapes, olives, and other fruits in the early fall, in the seventh month. It is also known as the festival of booths (or tabernacles; Hebrew Sukkot), probably because the harvesters, whether members of the household or hired laborers, spent the night in the fields in temporary structures. The Bible also mentions in passing a ‘‘day of atonement’’ ([[Torah 31 - Emor#^23-27|Lev. 23:27–28]]; [[Torah 32 - Behar#^25-9|25:9]]), also observed in the seventh month, apparently a ritual of cleansing to prepare the sanctuary, the priests, and the community as a whole for the fall harvest festival; as Yom Kippur this holy day becomes much more important in subsequent Jewish tradition.
 
 With this background in mind, let us imagine that we are at a local shrine, where males, if not families, from miles around have gathered to celebrate a successful harvest. As the worshippers approach the shrine, they sing hymns, punctuated by the bleating of sheep and goats that will be sacrificed. They present them to a priest wearing colorful vestments. He burns an incense offering, whose aromatic smoke fills the air and also masks the stench of the animal slaughter that follows. Throughout the ceremony, more hymns are sung, accompanied by all sorts of musical instruments. The mood is joyful, and as the ritual takes place there are sights and sounds and smells that make for a lively, even chaotic scene.
 
@@ -33,35 +33,35 @@ The ritual calendar included other observances, each of which has its own histor
 
 Passover
 
-The important festival of the Passover, which commemorates the Exodus from Egypt, provides an example of the complicated history of ancient Israelite rituals. In postbiblical Jewish tradition the Passover is celebrated in the home, and that is how it is described in Exodus 12:3–8. But other texts indicate that in some periods the Passover, like the festivals of weeks (Shavuot) and booths (Sukkot), was celebrated at a central location, either a regional shrine or the national temple in Jerusalem. Jerusalem is where pilgrims from all over Israel reportedly came to celebrate the Passover during the reigns of Hezekiah in the late eighth century bce and Josiah in the late seventh, as well as in the first century ce according to the Gospels of the New Testament and other sources.
+The important festival of the Passover, which commemorates the Exodus from Egypt, provides an example of the complicated history of ancient Israelite rituals. In postbiblical Jewish tradition the Passover is celebrated in the home, and that is how it is described in [[Torah 15 - Bo#^12-3|Exodus 12:3–8]]. But other texts indicate that in some periods the Passover, like the festivals of weeks (Shavuot) and booths (Sukkot), was celebrated at a central location, either a regional shrine or the national temple in Jerusalem. Jerusalem is where pilgrims from all over Israel reportedly came to celebrate the Passover during the reigns of Hezekiah in the late eighth century bce and Josiah in the late seventh, as well as in the first century ce according to the Gospels of the New Testament and other sources.
 
-Passover is celebrated for a week in the spring, beginning on the fourteenth day of the first month (Exod. 12:18; Lev. 23:5). A fall new year, in which the first month occurs in the fall, is also attested, which eventually became the Jewish holy day of Rosh Hashanah (literally, ‘‘the beginning of the year’’). The new year thus seems to have been celebrated in the spring in some periods and in the fall in others.
+Passover is celebrated for a week in the spring, beginning on the fourteenth day of the first month ([[Torah 15 - Bo#^12-18|Exod. 12:18]]; [[Torah 31 - Emor#^23-5|Lev. 23:5]]). A fall new year, in which the first month occurs in the fall, is also attested, which eventually became the Jewish holy day of Rosh Hashanah (literally, ‘‘the beginning of the year’’). The new year thus seems to have been celebrated in the spring in some periods and in the fall in others.
 
-The terminology for the spring holy day is revealing. In two very early ritual calendars it is called the ‘‘festival of unleavened bread’’ (Exod. 23:15; 34:18), and in both of these it is listed along with the
+The terminology for the spring holy day is revealing. In two very early ritual calendars it is called the ‘‘festival of unleavened bread’’ ([[Torah 18 - Mishpatim#^23-15|Exod. 23:15]]; [[Torah 21 - Ki Tisa#^34-18|34:18]]), and in both of these it is listed along with the
 
 *[p. 70]* ^pg83
 
-two other pilgrimage festivals. Like them, the festival of unleavened bread is connected with the agricultural cycle, in this case with the early spring barley harvest. This festival was therefore a farmers’ ritual, who would bring to their local shrine a portion of their crop as an offering. In slightly later texts, it is combined with the holy day called the Passover (Hebrew pesah), as in Leviticus 23:5–6: ‘‘In the first month, on the fourteenth day of the month, at twilight, there shall be a passover offering to the Lord, and on the fifteenth day of the same month is the festival of unleavened bread to the Lord; seven days you shall eat unleavened bread.’’ The originally separate holy day of Passover featured the slaughter of a young lamb and presumably was a sheep-herders’ ritual.
+two other pilgrimage festivals. Like them, the festival of unleavened bread is connected with the agricultural cycle, in this case with the early spring barley harvest. This festival was therefore a farmers’ ritual, who would bring to their local shrine a portion of their crop as an offering. In slightly later texts, it is combined with the holy day called the Passover (Hebrew pesah), as in [[Torah 31 - Emor#^23-5|Leviticus 23:5–6]]: ‘‘In the first month, on the fourteenth day of the month, at twilight, there shall be a passover offering to the Lord, and on the fifteenth day of the same month is the festival of unleavened bread to the Lord; seven days you shall eat unleavened bread.’’ The originally separate holy day of Passover featured the slaughter of a young lamb and presumably was a sheep-herders’ ritual.
 
 The core meaning of the word pesah is probably ‘‘protection.’’ The slaughter of the lamb in the spring was a sacrifice to secure divine protection for flocks and their owners. There is another possible meaning, however, conveniently rendered in English as Passover: because the Israelites smeared the blood of lambs on their door frames, Yahweh passed over their houses when he crossed (that is, passed over) the land of Egypt.
 
-The second meaning points to how the combined festivals of unleavened bread and Passover became associated with the narrative of the Exodus. Different biblical sources do not, however, connect the festivals with the Exodus in the same ways. While the earliest ritual calendars refer only to the date—‘‘You shall keep the festival of unleavened bread. Seven days you shall eat unleavened bread, as I commanded you, at the time appointed in the month of Abib; for in the month of Abib you came out from Egypt’’ (Exod. 34:18), another text links more than just the chronology—it is unleavened bread that is eaten because the Israelites left Egypt so quickly that they had no time to let their bread rise (Exod. 12:39). The bread, originally unleavened to keep it pure rather than contaminated with old yeast in the form of starter dough, is called ‘‘the bread of affliction—because you came out of the land of Egypt in great haste’’ (Deut. 16:3). Likewise, the sacrifice of the lamb as a
+The second meaning points to how the combined festivals of unleavened bread and Passover became associated with the narrative of the Exodus. Different biblical sources do not, however, connect the festivals with the Exodus in the same ways. While the earliest ritual calendars refer only to the date—‘‘You shall keep the festival of unleavened bread. Seven days you shall eat unleavened bread, as I commanded you, at the time appointed in the month of Abib; for in the month of Abib you came out from Egypt’’ ([[Torah 21 - Ki Tisa#^34-18|Exod. 34:18]]), another text links more than just the chronology—it is unleavened bread that is eaten because the Israelites left Egypt so quickly that they had no time to let their bread rise ([[Torah 15 - Bo#^12-39|Exod. 12:39]]). The bread, originally unleavened to keep it pure rather than contaminated with old yeast in the form of starter dough, is called ‘‘the bread of affliction—because you came out of the land of Egypt in great haste’’ ([[Torah 47 - Re'eh#^16-3|Deut. 16:3]]). Likewise, the sacrifice of the lamb as a
 
 *[p. 71]* ^pg84
 
-substitution for the firstborn, as in the story of the sacrifice of Isaac (Gen. 22) and in the Ritual Decalogue (Exod. 34:18–19), is connected with the killing of the firstborn of the Egyptians.
+substitution for the firstborn, as in the story of the sacrifice of Isaac (Gen. 22) and in the Ritual Decalogue ([[Torah 21 - Ki Tisa#^34-18|Exod. 34:18–19]]), is connected with the killing of the firstborn of the Egyptians.
 
 Thus the festivals of unleavened bread and Passover were originally independent rituals that were joined at a fairly early stage, and both were linked with the narrative of the Exodus. This process of linkage continued in Jewish tradition as the Passover service developed over the ages. For example, the typical modern Passover Seder or meal includes haroset, a blend of fruits, nuts, and spices that represents the mortar the Israelite slaves used when laying bricks, and karpas, green herbs dipped in salt water that recalls their bitter service.
 
-The same linking of originally seasonal festivals with the Exodus occurs with the other two pilgrimage festivals, those of weeks (Shavuot) and booths (Sukkot). In early biblical texts they are simply agricultural: ‘‘You shall observe the festival of weeks, the first fruits of wheat harvest, and the festival of ingathering at the turn of the year’’ (Exod. 34:22). In postbiblical Jewish tradition the festival of weeks becomes a commemoration of the giving of the law on Mount Sinai; and even before the end of the biblical period the fall harvest festival of ingathering, also called booths, recalls the temporary structures that the Israelites lived in during the forty years of wandering in the wilderness after the Exodus (Lev. 23:42).
+The same linking of originally seasonal festivals with the Exodus occurs with the other two pilgrimage festivals, those of weeks (Shavuot) and booths (Sukkot). In early biblical texts they are simply agricultural: ‘‘You shall observe the festival of weeks, the first fruits of wheat harvest, and the festival of ingathering at the turn of the year’’ ([[Torah 21 - Ki Tisa#^34-22|Exod. 34:22]]). In postbiblical Jewish tradition the festival of weeks becomes a commemoration of the giving of the law on Mount Sinai; and even before the end of the biblical period the fall harvest festival of ingathering, also called booths, recalls the temporary structures that the Israelites lived in during the forty years of wandering in the wilderness after the Exodus ([[Torah 31 - Emor#^23-42|Lev. 23:42]]).
 
-According to Exodus 12:43–49, the Passover observance was limited to circumcised members of the Israelite community. Foreigners and slaves who wished to participate had to have been circumcised. This seems at odds with the understanding of Passover as a family ritual but is consistent with the later development of the Passover as a national pilgrimage festival in which only males participated. To this minimal requirement, the book of Numbers adds another, that of ritual purity, a concept that pervades biblical laws.
+According to [[Torah 15 - Bo#^12-43|Exodus 12:43–49]], the Passover observance was limited to circumcised members of the Israelite community. Foreigners and slaves who wished to participate had to have been circumcised. This seems at odds with the understanding of Passover as a family ritual but is consistent with the later development of the Passover as a national pilgrimage festival in which only males participated. To this minimal requirement, the book of Numbers adds another, that of ritual purity, a concept that pervades biblical laws.
 
 *[p. 72]* ^pg85
 
 Pure and impure
 
-According to Numbers 9:10–13, those who are unable to celebrate the Passover at the appointed time should do so a month later. Two reasons for such a delay are given: the person is on a journey, or he has touched a corpse. Contact with corpses caused ritual impurity, so much so that a high priest was not permitted to touch the dead, even those in his own family. Much of the legislation found in the books of Leviticus and Numbers has to do with the categories of purity and impurity, often misleadingly translated as ‘‘cleanness’’ and ‘‘uncleanness.’’ These categories constitute two distinct conditions pertaining to persons and also to animals, houses, clothing, and food: purity was a prerequisite for participation or use in ritual, and impurity barred them.
+According to [[Torah 36 - Beha'alotcha#^9-10|Numbers 9:10–13]], those who are unable to celebrate the Passover at the appointed time should do so a month later. Two reasons for such a delay are given: the person is on a journey, or he has touched a corpse. Contact with corpses caused ritual impurity, so much so that a high priest was not permitted to touch the dead, even those in his own family. Much of the legislation found in the books of Leviticus and Numbers has to do with the categories of purity and impurity, often misleadingly translated as ‘‘cleanness’’ and ‘‘uncleanness.’’ These categories constitute two distinct conditions pertaining to persons and also to animals, houses, clothing, and food: purity was a prerequisite for participation or use in ritual, and impurity barred them.
 
 The origins of the distinction are unclear. Some forms of impurity may reflect an awareness of contagion: a skin disease or an unnatural bodily emission made a person impure, and he or she had to be quarantined until a priest had certified that the person was no longer impure and had made the required offering. Others may have to do with primal taboos, especially concerning sex and death. Seminal emission, menstruation, and childbirth all made a person impure, as did touching a dead person or animal. Other explanations are also possible and not necessarily mutually exclusive.
 
@@ -85,7 +85,7 @@ Many individuals are identified in the Bible as prophets, and some fifteen books
 
 This meaning is illustrated by a metaphorical use of the term prophet:
 
-Yahweh said to Moses, ‘‘See, I have made you like God to Pharaoh, and your brother Aaron shall be your prophet. You shall speak all that I command you, and your brother Aaron shall tell Pharaoh to let the Israelites go out of his land. (Exod. 7:1–2)
+Yahweh said to Moses, ‘‘See, I have made you like God to Pharaoh, and your brother Aaron shall be your prophet. You shall speak all that I command you, and your brother Aaron shall tell Pharaoh to let the Israelites go out of his land. ([[Torah 14 - Vaera#^7-1|Exod. 7:1–2]])
 
 In this analogy, Moses is like God, Aaron is his spokesperson or prophet, and Pharaoh is the audience: the prophet, then, is the
 
@@ -101,7 +101,7 @@ The book of Ezekiel describes the Babylonian king Nebuchadrezzar as he prepared 
 
 The king of Babylon stands at the parting of the way, at the fork in the two roads, to use divination; he shakes the arrows, he consults the teraphim, he inspects the liver. Into his right hand comes the lot for Jerusalem. (Ezek. 21:21–22)
 
-Using several methods, Nebuchadrezzar seems to be seeking divine guidance about his military strategy, just as kings of Israel are reported to have consulted God through prophets and other means about the advisability of going into battle. From ancient Mesopotamia come many thousands of clay models of animal livers inscribed with directions for interpreting them. These omen texts, as they are called, explain the phrase ‘‘inspecting the liver.’’ Other types of divination attributed to Nebuchadrezzar are found in the Bible. For example, the prophet Elisha uses arrows to predict a series of royal victories (2 Kings 13:14–19). There are frequent
+Using several methods, Nebuchadrezzar seems to be seeking divine guidance about his military strategy, just as kings of Israel are reported to have consulted God through prophets and other means about the advisability of going into battle. From ancient Mesopotamia come many thousands of clay models of animal livers inscribed with directions for interpreting them. These omen texts, as they are called, explain the phrase ‘‘inspecting the liver.’’ Other types of divination attributed to Nebuchadrezzar are found in the Bible. For example, the prophet Elisha uses arrows to predict a series of royal victories ([[II Kings 13#^13-14|2 Kings 13:14–19]]). There are frequent
 
 *[p. 76]* ^pg89
 
@@ -112,11 +112,11 @@ Using several methods, Nebuchadrezzar seems to be seeking divine guidance about 
 
 *[p. 78]* ^pg91
 
-references to the casting of lots, an ancient equivalent of drawing straws or tossing a coin, and to related techniques that made use of the somewhat mysterious objects called the ephod and the teraphim. All forms of divination had a religious dimension, in which Yahweh answered individuals ‘‘by dreams, by Urim \[dice-like devices associated with the ephod\], and by prophets’’ (1 Sam. 28:6), and casting lots put an end to disputes (Prov. 18:18).
+references to the casting of lots, an ancient equivalent of drawing straws or tossing a coin, and to related techniques that made use of the somewhat mysterious objects called the ephod and the teraphim. All forms of divination had a religious dimension, in which Yahweh answered individuals ‘‘by dreams, by Urim \[dice-like devices associated with the ephod\], and by prophets’’ ([[I Samuel 28#^28-6|1 Sam. 28:6]]), and casting lots put an end to disputes ([[Proverbs 18#^18-18|Prov. 18:18]]).
 
 Because the meaning of such experiences and phenomena is often not transparent, in most ancient and many modern societies there have always been men and women recognized by their contemporaries as having special, even divinely given, insight. There is a broad spectrum of activity here, from palm readers, fortune tellers, and psychics to inspired proclaimers of divine messages, or prophets.
 
-Prophets in particular are attested throughout the ancient Near East in a large number of texts from different periods. These texts, from Mari on the northern Euphrates River in the early second millennium bce, from Assyria in the first half of the first millennium bce, and from a scattering of sites in the Levant in both millennia, indicate that the phenomenon of prophecy was widespread. The biblical writers recognized the presence among their neighbors of such individuals, for example Balaam, the northern Mesopotamian seer hired by the king of Moab to curse the Israelites (Num. 22–24), and the prophets of the Canaanite god Baal and his wife the goddess Asherah (1 Kings 18:19). Thus, although prophecy might at first be thought of as an exclusively biblical phenomenon, a revelation from the one true God to specially chosen individuals, even in the Bible that is not the case.
+Prophets in particular are attested throughout the ancient Near East in a large number of texts from different periods. These texts, from Mari on the northern Euphrates River in the early second millennium bce, from Assyria in the first half of the first millennium bce, and from a scattering of sites in the Levant in both millennia, indicate that the phenomenon of prophecy was widespread. The biblical writers recognized the presence among their neighbors of such individuals, for example Balaam, the northern Mesopotamian seer hired by the king of Moab to curse the Israelites (Num. 22–24), and the prophets of the Canaanite god Baal and his wife the goddess Asherah ([[I Kings 18#^18-19|1 Kings 18:19]]). Thus, although prophecy might at first be thought of as an exclusively biblical phenomenon, a revelation from the one true God to specially chosen individuals, even in the Bible that is not the case.
 
 The fullest picture we get of such individuals, however, is from the Bible, partly because prophets and prophecy were so important for the biblical writers, and presumably for their audiences and ancient Israelite society in general. In the Old Testament, several
 
@@ -126,7 +126,7 @@ An ancient Mesopotamian prophet This is an excerpt from a letter from Nur-Sin, a
 
 A prophet of \[the storm god\] Adad, lord of Aleppo, came with Abu-halim and spoke to him as follows: ‘‘Am I not Adad, lord of Aleppo, who raised you in my lap and restored you to your ancestral throne? I do not demand anything from you. When a wronged man or woman cries out to you, be there and judge their case. This only I have demanded from you. If you do what I have written to you and heed my word, I will give you the land from the rising of the sun to its setting, your land greatly increased.’’ This is what the prophet of Adad, lord of Aleppo, said in the presence of Abu-halim. My lord should know this.<sup>1</sup>
 
-This oracle guaranteeing divine support for the ruler resembles that attributed to the prophet Nathan, when he proclaimed Yahweh’s promise to King David that his descendants would rule forever (2 Sam. 7:4–17).
+This oracle guaranteeing divine support for the ruler resembles that attributed to the prophet Nathan, when he proclaimed Yahweh’s promise to King David that his descendants would rule forever ([[II Samuel 07#^7-4|2 Sam. 7:4–17]]).
 
 dozen men and women are named as prophets, and many more are unnamed. As elsewhere in the ancient world, they functioned in a variety of ways. A ‘‘seer’’ or a ‘‘man of God’’ could help find something that had been lost, and alongside prophets the Bible also mentions soothsayers, diviners, augurs, those who cast spells, and those who consult ghosts or spirits. Although many of these activities were banned, some by the religious reform of the Judean king Josiah in the late seventh century bce, the frequent references to them indicate that they were widespread in ancient Israel.
 
@@ -134,7 +134,7 @@ Such individuals, like saints, shamans, and mystics in many religions, were some
 
 *[p. 80]* ^pg93
 
-because of their unconventional behavior. In both biblical and nonbiblical sources there are examples of prophets entering ecstatic states prior to delivering their message. When the newly anointed King Saul ‘‘prophesied,’’ he became ‘‘another man’’ (1 Sam. 10:6). Sometimes that ecstatic state was reached by means of music (1 Sam. 10:5; 2 Kings 3:15), and it could involve nakedness (1 Sam. 19:24) or self-mutilation (1 Kings 18:28; Zech. 13:6). Other abnormal behavior is reported, for example, of the prophet Ezekiel, including speechlessness and lying on one side for a long time.
+because of their unconventional behavior. In both biblical and nonbiblical sources there are examples of prophets entering ecstatic states prior to delivering their message. When the newly anointed King Saul ‘‘prophesied,’’ he became ‘‘another man’’ ([[I Samuel 10#^10-6|1 Sam. 10:6]]). Sometimes that ecstatic state was reached by means of music ([[I Samuel 10#^10-5|1 Sam. 10:5]]; [[II Kings 03#^3-15|2 Kings 3:15]]), and it could involve nakedness ([[I Samuel 19#^19-24|1 Sam. 19:24]]) or self-mutilation ([[I Kings 18#^18-28|1 Kings 18:28]]; [[Zechariah 13#^13-6|Zech. 13:6]]). Other abnormal behavior is reported, for example, of the prophet Ezekiel, including speechlessness and lying on one side for a long time.
 
 As is also true of such persons in other cultures, in the Bible there are legends about prophets’ miraculous abilities. This is especially true of the prophets Elijah and Elisha, who are reported to have multiplied food, healed the sick, raised the dead, rendered poison harmless, and even made a lost iron axe head float to the surface after it had sunk in the Jordan River. They could also draw on divine power—calling fire from heaven, or bears from the woods to maul rude boys. Their power continued even after their deaths—Elisha’s bones, for example, restored a corpse to life. Similar miraculous activity is also reported of later prophets, such as Isaiah, who was able to make a shadow cast by the sun reverse direction, and who was also a healer.
 
@@ -144,15 +144,15 @@ Not all prophets were on the periphery of society. Among the biblical prophets f
 
 because their authority was viewed as divinely given, they often criticized kings in the name of God.
 
-Some prophets were professionals, trained by a period of apprenticeship under a master prophet. He was their ‘‘father’’ (see 2 Kings 2:12; 13:14), and they were the ‘‘sons of the prophet’’ (2 Kings 4:38). Others apparently were amateurs, like the prophet Amos, who asserted:
+Some prophets were professionals, trained by a period of apprenticeship under a master prophet. He was their ‘‘father’’ (see [[II Kings 02#^2-12|2 Kings 2:12]]; [[II Kings 13#^13-14|13:14]]), and they were the ‘‘sons of the prophet’’ ([[II Kings 04#^4-38|2 Kings 4:38]]). Others apparently were amateurs, like the prophet Amos, who asserted:
 
-I am not a prophet, nor a son of a prophet; but I am a herder, and a dresser of sycamore trees, and Yahweh took me from following the flock, and Yahweh said to me, ‘‘Go, prophesy to my people Israel.’’ (Amos 7:14–15)
+I am not a prophet, nor a son of a prophet; but I am a herder, and a dresser of sycamore trees, and Yahweh took me from following the flock, and Yahweh said to me, ‘‘Go, prophesy to my people Israel.’’ ([[Amos 7#^7-14|Amos 7:14–15]])
 
 Here Amos claims that despite his lack of professional training he is a true prophet, because he received a call.
 
 Modes of revelation
 
-The prophets believed, as did their contemporaries, that they received direct and special communication from the divine. Speech and vision are the most frequent metaphors used to describe such communication—the prophets were both hearers and seers. The non-Israelite seer Balaam, for example, describes himself as ‘‘one who hears the words of God, who sees the vision of the Almighty’’ (Num. 24:4). Likewise, the opening of the book of the prophet Amos mentions ‘‘the words of Amos . . . which he saw’’ (Amos 1:1). A standard formula for revelation to prophets is that ‘‘the word of the Lord came to’’ them; then the prophet speaks, not in his or her own name, but in the name of Yahweh: ‘‘Thus says the Lord.’’ In scholarly jargon, the message that the prophet delivered is called an oracle, a term derived from classical antiquity.
+The prophets believed, as did their contemporaries, that they received direct and special communication from the divine. Speech and vision are the most frequent metaphors used to describe such communication—the prophets were both hearers and seers. The non-Israelite seer Balaam, for example, describes himself as ‘‘one who hears the words of God, who sees the vision of the Almighty’’ ([[Torah 40 - Balak#^24-4|Num. 24:4]]). Likewise, the opening of the book of the prophet Amos mentions ‘‘the words of Amos . . . which he saw’’ ([[Amos 1#^1-1|Amos 1:1]]). A standard formula for revelation to prophets is that ‘‘the word of the Lord came to’’ them; then the prophet speaks, not in his or her own name, but in the name of Yahweh: ‘‘Thus says the Lord.’’ In scholarly jargon, the message that the prophet delivered is called an oracle, a term derived from classical antiquity.
 
 But how exactly did the prophets receive their messages? One form of revelation was dreams, and there is a widely attested process called incubation, in which an individual would spend the night in
 
@@ -174,11 +174,11 @@ Then I heard the voice of the Lord saying, ‘‘Whom shall I send, and who will
 
 ‘Keep listening, but do not comprehend;
 
-keep looking, but do not understand.’ ’’ (Isa. 6:1–3, 8–9)
+keep looking, but do not understand.’ ’’ ([[Isaiah 06#^6-1|Isa. 6:1–3]], [[Isaiah 06#^6-8|8–9]])
 
 *[p. 83]* ^pg96
 
-over which in ancient Israelite religion Yahweh presided. For example, the prophet Micaiah reports: ‘‘I saw Yahweh sitting on his throne, with all the host of heaven standing beside him to his right and to his left’’ (1 Kings 22:19). Likewise, Jeremiah claims that only he, and not the false prophets, had stood in the divine council (Jer. 23:22).
+over which in ancient Israelite religion Yahweh presided. For example, the prophet Micaiah reports: ‘‘I saw Yahweh sitting on his throne, with all the host of heaven standing beside him to his right and to his left’’ ([[I Kings 22#^22-19|1 Kings 22:19]]). Likewise, Jeremiah claims that only he, and not the false prophets, had stood in the divine council ([[Jeremiah 23#^23-22|Jer. 23:22]]).
 
 Classical prophecy
 
@@ -200,13 +200,13 @@ Amos was active in the mid-eighth century bce, a period of relative autonomy and
 
 troubles on their northern and southern borders, and so the states of the western Levant had a brief respite. But the Assyrian advance would shortly resume. In his oracles, Amos anticipated this resurgence of Assyrian aggression and its consequences.
 
-The policy of the Assyrians toward a conquered territory was well known. They generally removed the ruling family from power, frequently destroyed the capital and other major cities, and deported many of the elite to other areas of their empire, replacing them with colonists transplanted from other regions into what became an Assyrian province ruled by a governor appointed by the Assyrian king. This is precisely what Amos announced. In the case of Damascus, for example, the capital would be destroyed, along with other royal strongholds, the ruling family removed, and the people sent into exile (Amos 1:4–5). Similar actions are announced for other neighbors of the Israelites, and for both Israel and Judah, whose aristocracy in the capitals of Samaria and Jerusalem would be exiled (Amos 6:1, 7; 7:11).
+The policy of the Assyrians toward a conquered territory was well known. They generally removed the ruling family from power, frequently destroyed the capital and other major cities, and deported many of the elite to other areas of their empire, replacing them with colonists transplanted from other regions into what became an Assyrian province ruled by a governor appointed by the Assyrian king. This is precisely what Amos announced. In the case of Damascus, for example, the capital would be destroyed, along with other royal strongholds, the ruling family removed, and the people sent into exile ([[Amos 1#^1-4|Amos 1:4–5]]). Similar actions are announced for other neighbors of the Israelites, and for both Israel and Judah, whose aristocracy in the capitals of Samaria and Jerusalem would be exiled ([[Amos 6#^6-1|Amos 6:1]], [[Amos 6#^6-7|7]]; [[Amos 7#^7-11|7:11]]).
 
 That was what happened. The Assyrians captured and destroyed Damascus in 732 bce and Samaria in 722, and both became Assyrian provinces. Judah had become an Assyrian vassal in 734, and so the Assyrians left Judah alone for a time, but when it too proved rebellious, the Assyrian army laid siege to Jerusalem in 701. So, in a sense, Amos had predicted what would occur. But it would not have taken a special divine revelation to anticipate the actions of the Assyrians, and later of their successors the Babylonians. What is noteworthy about Amos 1–2 and similar texts is not their apparently predictive quality. Rather, it is the interpretation, the spin as it were, that they give to the anticipated Assyrian advance. From a modern historical perspective, the Assyrian conquests were the inevitable result of the vast superiority of a military superpower to relatively small states that stood in its way. But for Amos and the prophets who followed him, including Hosea, Isaiah, Micah, and Jeremiah, such an explanation was insufficient. Amos repeatedly asserts that Yahweh himself was responsible:
 
 *[p. 86]* ^pg99
 
-I will take you into exile beyond Damascus. (Amos 5:27)
+I will take you into exile beyond Damascus. ([[Amos 5#^5-27|Amos 5:27]])
 
 I will deliver up the city and all that is in it. (6:8)
 
@@ -218,7 +218,7 @@ Amos, like the biblical prophets in general, insisted on the divine control of h
 
 Messengers of the covenant
 
-Underlying the immediate involvement of the prophets in the particulars of their own times, then, there is a consistent message. What had happened, what was happening, and what would happen were all the doing of Yahweh. He was ‘‘the lord of all the earth’’ (Ps. 97:5), and thus responsible for events throughout the entire world, not just within Israel’s borders. But his primary focus was Israel, his chosen people.
+Underlying the immediate involvement of the prophets in the particulars of their own times, then, there is a consistent message. What had happened, what was happening, and what would happen were all the doing of Yahweh. He was ‘‘the lord of all the earth’’ ([[Psalms 097#^97-5|Ps. 97:5]]), and thus responsible for events throughout the entire world, not just within Israel’s borders. But his primary focus was Israel, his chosen people.
 
 The Israelites had made a covenant with God at Mount Sinai, but they had broken that agreement. The primary text of the covenant is the Ten Commandments, whose obligations fall into two categories: exclusive worship of Yahweh alone, in the manner he prescribed, and concern for their fellow Israelites. Keeping these obligations brought divine blessing, and failure to do so brought divine punishment. The reward was continued prosperity in the land that Yahweh had given them, and the punishment could take many forms—drought, famine, and especially enemy attack, defeat, and even exile.
 
@@ -246,7 +246,7 @@ and all who live in it languish;
 
 together with the wild animals
 
-and the birds of the air, even the fish of the sea are perishing. (Hosea 4:1–3)
+and the birds of the air, even the fish of the sea are perishing. ([[Hosea 04#^4-1|Hosea 4:1–3]])
 
 In this passage, the eighth-century prophet Hosea alludes to the Ten Commandments, as does Jeremiah in the late seventh century, urging the Israelites to return to their founding principles:
 
@@ -254,7 +254,7 @@ For if you truly amend your ways and your doings, if you truly act justly one wi
 
 *[p. 88]* ^pg101
 
-But you are trusting in lies. Will you steal, murder, commit adultery, swear falsely, make offerings to Baal, and go after other gods that you have not known, and then come and stand before me in this house, which is called by my name, and say, ‘‘We are safe!’’—only to go on doing all these abominations? (Jer. 7:5–11)
+But you are trusting in lies. Will you steal, murder, commit adultery, swear falsely, make offerings to Baal, and go after other gods that you have not known, and then come and stand before me in this house, which is called by my name, and say, ‘‘We are safe!’’—only to go on doing all these abominations? ([[Jeremiah 07#^7-5|Jer. 7:5–11]])
 
 Jeremiah insists that despite the extravagant claim of monarchs of the dynasty founded by David that God would forever protect them and the Temple in their capital Jerusalem, there was a prior commitment—the Sinai Covenant. This was the framework for the prophets’ interpretation of the past, the present, and the immediate future. They proclaimed their message in specific historical contexts, to their contemporaries—sometimes individuals, especially kings; sometimes groups within the community; sometimes, at least rhetorically, foreign nations; and most frequently the people of Israel as a whole.
 
@@ -266,7 +266,7 @@ In the aftermath of the destruction of Jerusalem in 586 bce and the exile to Bab
 
 *[p. 89]* ^pg102
 
-Jeremiah, Ezekiel, and Isaiah 40—66, chapters, which although part of the book of Isaiah were written not in his time, the late eighth century, but two centuries later. And, as the prophetic books continued to be revised, expressions of future hope were added to others as well.
+Jeremiah, Ezekiel, and [[Isaiah 40#^40-1|Isaiah 40]]—66, chapters, which although part of the book of Isaiah were written not in his time, the late eighth century, but two centuries later. And, as the prophetic books continued to be revised, expressions of future hope were added to others as well.
 
 But these divinely promised hopes were not immediately fulfilled, and so they were projected into a distant future, an ‘‘end time’’ in
 
@@ -300,11 +300,11 @@ and they shall make gardens and eat their fruit.
 
 I will plant them upon their land,
 
-and they shall never again be plucked up out of the land that I have given them, says the Lord your God. (Amos 9:11–15)
+and they shall never again be plucked up out of the land that I have given them, says the Lord your God. ([[Amos 9#^9-11|Amos 9:11–15]])
 
 *[p. 90]* ^pg103
 
-which Yahweh and his heavenly armies would definitively defeat the forces of evil, both primeval and historical. This led to the development of what is known as apocalyptic literature, occurring in the Bible in an early stage in Ezekiel 40–48 and Zechariah 9–14 and more fully in Daniel 7–12, and, in the New Testament, in the book of Revelation.
+which Yahweh and his heavenly armies would definitively defeat the forces of evil, both primeval and historical. This led to the development of what is known as apocalyptic literature, occurring in the Bible in an early stage in [[Ezekiel 40#^40-1|Ezekiel 40]]–48 and [[Zechariah 09#^9-1|Zechariah 9]]–14 and more fully in Daniel 7–12, and, in the New Testament, in the book of Revelation.
 
 The early Christians believed that end time to have arrived in the person of Jesus of Nazareth, and so they interpreted the Old Testament prophets as predictors of his eventual coming, and eventually placed the prophetic books immediately before the New Testament in their arrangement of the canon. That interpretation, however, overlooks the immersion of the prophets in their own times. It may surprise Christian readers to learn that in the Hebrew Bible the title Messiah (an English form of a Hebrew word meaning ‘‘anointed’’) is never used of a future leader, only of previous and present ones.
 
@@ -332,7 +332,7 @@ He, Hezekiah, was overwhelmed by the awesome splendor of my lordship, and he sen
 
 A biblical account of Sennacherib’s attack Biblical historians record essentially the same events as Sennacherib’s account, confirming the substance of Sennacherib’s claims in a brief summary:
 
-In the fourteenth year of King Hezekiah, King Sennacherib of Assyria came up against all the fortified cities of Judah and captured them. King Hezekiah of Judah sent to the king of Assyria at Lachish, saying, ‘‘I have done wrong; withdraw from me; whatever you impose on me I will bear.’’ The king of Assyria demanded of King Hezekiah of Judah three hundred talents of silver and thirty talents of gold. Hezekiah gave him all the silver that was found in the house of the Lord and in the treasuries of the king’s house. At that time Hezekiah stripped the gold from the doors of the temple of the Lord, and from the doorposts that King Hezekiah of Judah had overlaid and gave it to the king of Assyria. (2 Kings 18:13–16)
+In the fourteenth year of King Hezekiah, King Sennacherib of Assyria came up against all the fortified cities of Judah and captured them. King Hezekiah of Judah sent to the king of Assyria at Lachish, saying, ‘‘I have done wrong; withdraw from me; whatever you impose on me I will bear.’’ The king of Assyria demanded of King Hezekiah of Judah three hundred talents of silver and thirty talents of gold. Hezekiah gave him all the silver that was found in the house of the Lord and in the treasuries of the king’s house. At that time Hezekiah stripped the gold from the doors of the temple of the Lord, and from the doorposts that King Hezekiah of Judah had overlaid and gave it to the king of Assyria. ([[II Kings 18#^18-13|2 Kings 18:13–16]])
 
 Judean king Hezekiah allied with other regional monarchs, including the Egyptian pharaoh, and rebelled against Assyrian imperial rule. The response of Sennacherib, who had come to power in 705, was swift and harsh. In an extensive campaign in 701 bce he led his army down the Mediterranean coast, replacing rebellious rulers with more compliant ones and enforcing the payment of tribute. This time Judah did not escape. Its major cities were captured and destroyed, and its capital Jerusalem besieged until Hezekiah surrendered and paid an enormous tribute.
 
@@ -350,13 +350,13 @@ In preparation for the anticipated siege of Jerusalem, Hezekiah refortified the 
 
 Another archaeological datum is a tunnel more than 1,700 feet long that goes under the city of David, the original nucleus of Jerusalem. The tunnel itself has been known to scholars since the early nineteenth century and has been convincingly identified with a construction project sponsored by the Judean king Hezekiah in the late eighth century bce:
 
-\[Hezekiah\] made the pool and the conduit and brought water into the city (2 Kings 20:20);
+\[Hezekiah\] made the pool and the conduit and brought water into the city ([[II Kings 20#^20-20|2 Kings 20:20]]);
 
 *[p. 95]* ^pg108
 
 9\. Jerusalem in the late eighth century BCE.
 
-Hezekiah closed the upper outlet of the waters of Gihon and directed them down to the west side of the city of David (2 Chron. 32:30).
+Hezekiah closed the upper outlet of the waters of Gihon and directed them down to the west side of the city of David ([[II Chronicles 32#^32-30|2 Chron. 32:30]]).
 
 The tunnel was an aqueduct: it brought the water from the city’s main spring, known appropriately as Gihon (‘‘gusher’’), which was outside the fortifications on the east side, to a newly
 
@@ -382,11 +382,11 @@ Against a godless nation I send him,
 
 and against the people with whom I am angry I command him, to take spoil and seize plunder,
 
-and to tread them down like mud in the streets. (Isa. 10:5–6)
+and to tread them down like mud in the streets. ([[Isaiah 10#^10-5|Isa. 10:5–6]])
 
-In the prophet’s interpretation, the Assyrians were instruments of punishment in Yahweh’s hands, because his people had failed to trust in him, but had sought ‘‘refuge in the protection of Pharaoh, . . . shelter in the shadow of Egypt’’ (Isa. 30:2), that is, they had relied on foreign alliances rather than on Yahweh. Moreover, they had broken their fundamental contract with God, the Sinai Covenant, and so their religious observances were futile until they learned to ‘‘seek justice, rescue the oppressed, defend the orphan, plead for the widow’’ (1:17).
+In the prophet’s interpretation, the Assyrians were instruments of punishment in Yahweh’s hands, because his people had failed to trust in him, but had sought ‘‘refuge in the protection of Pharaoh, . . . shelter in the shadow of Egypt’’ ([[Isaiah 30#^30-2|Isa. 30:2]]), that is, they had relied on foreign alliances rather than on Yahweh. Moreover, they had broken their fundamental contract with God, the Sinai Covenant, and so their religious observances were futile until they learned to ‘‘seek justice, rescue the oppressed, defend the orphan, plead for the widow’’ (1:17).
 
-Because the Israelites were rebellious sons (Isa. 1:2, 5), they would be punished. Like a flood coming from the Euphrates River in northern Mesopotamia, their homeland, the Assyrians would inundate Judah (Isa. 8:7–8) with horrific results:
+Because the Israelites were rebellious sons ([[Isaiah 01#^1-2|Isa. 1:2]], [[Isaiah 01#^1-5|5]]), they would be punished. Like a flood coming from the Euphrates River in northern Mesopotamia, their homeland, the Assyrians would inundate Judah ([[Isaiah 08#^8-7|Isa. 8:7–8]]) with horrific results:
 
 Your country lies desolate,
 
@@ -402,15 +402,15 @@ like a booth in a vineyard,
 
 like a shelter in a cucumber field,
 
-like a besieged city. (Isa. 1:7–8)
+like a besieged city. ([[Isaiah 01#^1-7|Isa. 1:7–8]])
 
 *[p. 98]* ^pg111
 
 This is a vivid description of Sennacherib’s campaign against Judah and his siege of Jerusalem, reduced to a ramshackle hut in a flattened landscape.
 
-But the story did not end there, for Jerusalem was not captured or destroyed. The matter-of-fact summary in 2 Kings 18:13–16 is followed in 2 Kings 18:17–19:17 by a much lengthier and more ideological account of extended negotiations between Hezekiah and Sennacherib, during which the prophet Isaiah assures Hezekiah that Yahweh will protect Jerusalem for his own sake, and for the sake of his servant David, whose successor Hezekiah is. The account concludes with a verse with a mythical tone:
+But the story did not end there, for Jerusalem was not captured or destroyed. The matter-of-fact summary in [[II Kings 18#^18-13|2 Kings 18:13–16]] is followed in [[II Kings 18#^18-17|2 Kings 18:17–19:17]] by a much lengthier and more ideological account of extended negotiations between Hezekiah and Sennacherib, during which the prophet Isaiah assures Hezekiah that Yahweh will protect Jerusalem for his own sake, and for the sake of his servant David, whose successor Hezekiah is. The account concludes with a verse with a mythical tone:
 
-That very night the angel of Yahweh set out and struck down one hundred eighty-five thousand in the camp of the Assyrians; when morning dawned, they were all dead bodies. Then King Sennacherib of Assyria left, went home, and lived at Nineveh. (2 Kings 19:35)
+That very night the angel of Yahweh set out and struck down one hundred eighty-five thousand in the camp of the Assyrians; when morning dawned, they were all dead bodies. Then King Sennacherib of Assyria left, went home, and lived at Nineveh. ([[II Kings 19#^19-35|2 Kings 19:35]])
 
 The Assyrian withdrawal is here interpreted not as the result of Hezekiah’s surrender but as direct divine intervention, rewarding Hezekiah’s faithfulness and demonstrating Yahweh’s guarantee to protect Jerusalem, whose Temple was his home and which was the capital of the dynasty that he himself had chosen.
 
@@ -432,7 +432,7 @@ The most easily recognizable feature of biblical poetry is known as parallelism,
 
 Know well the condition of your flocks,
 
-and give attention to your herds. (Prov. 27:23)
+and give attention to your herds. ([[Proverbs 27#^27-23|Prov. 27:23]])
 
 It may also be contrasting:
 
@@ -440,13 +440,13 @@ A soft answer turns away wrath,
 
 *[p. 101]* ^pg114
 
-but a harsh tongue stirs up anger. (Prov. 15:1)
+but a harsh tongue stirs up anger. ([[Proverbs 15#^15-1|Prov. 15:1]])
 
 Finally, it may also be progressive:
 
 As a door turns on its hinges,
 
-so does a lazy man in bed. (Prov. 26:14)
+so does a lazy man in bed. ([[Proverbs 26#^26-14|Prov. 26:14]])
 
 Parallel examples of parallelism As a poetic device parallelism was widely used. In an ancient Canaanite myth, the storm god Baal is told how he will defeat his adversary, Prince Sea:
 
@@ -470,7 +470,7 @@ behold, your enemies will perish; all evildoers will be scattered. (Ps. 92:9)
 
 Your kingdom is an eternal kingdom,
 
-your rule is forever and ever. (Ps. 145:13)
+your rule is forever and ever. ([[Psalms 145#^145-13|Ps. 145:13]])
 
 Further examples are found in many of the poetic passages quoted throughout this book.
 
@@ -490,11 +490,11 @@ One of the most widely attested genres is the proverb: a pithy saying, often in 
 
 *[p. 103]* ^pg116
 
-The international character of wisdom literature is illustrated by the connection between ‘‘the words of the wise’’ in Proverbs 22:17—24:22 and ‘‘The Instruction of Amenemope,’’ a late second-millennium bce Egyptian text. Both are divided into thirty units; among their many parallels are:
+The international character of wisdom literature is illustrated by the connection between ‘‘the words of the wise’’ in [[Proverbs 22#^22-17|Proverbs 22:17—24:22]] and ‘‘The Instruction of Amenemope,’’ a late second-millennium bce Egyptian text. Both are divided into thirty units; among their many parallels are:
 
 Do not make friends with one given to anger,
 
-and do not visit a man who is hotheaded. (Prov. 22:24)
+and do not visit a man who is hotheaded. ([[Proverbs 22#^22-24|Prov. 22:24]])
 
 Do not befriend the heated man,
 
@@ -502,7 +502,7 @@ nor approach him for conversation. (Amenemope XI.13–14)
 
 Do not move the ancient boundary
 
-that your fathers made. (Prov. 22:29)
+that your fathers made. ([[Proverbs 22#^22-29|Prov. 22:29]])
 
 Do not move the markers on the borders of fields
 
@@ -510,12 +510,12 @@ nor shift the position of the measuring cords. (Amenemope VII.12–13)
 
 Do you see a man who is skillful in his work?
 
-He will be established in the presence of kings. (Prov. 22:29)
+He will be established in the presence of kings. ([[Proverbs 22#^22-29|Prov. 22:29]])
 
 The scribe who is skilled in his office,
 
 he is found worthy to be a courtier. (Amenemope XXVII.16–17)<sup>1</sup>
 
-clustered in one book, the book of Proverbs. These proverbs most likely began as folk wisdom that scribes collected, expanded, and in some cases at least cast into poetic form. These scribes were often under royal patronage, as editorial notes in the book of Proverbs indicate; for example, ‘‘These also are proverbs of Solomon which the men of Hezekiah, king of Judah, collected’’ (Prov. 25:1). That heading, like a half dozen others found in the book, also illustrates the nature of the book of Proverbs as an anthology of several originally independent collections.
+clustered in one book, the book of Proverbs. These proverbs most likely began as folk wisdom that scribes collected, expanded, and in some cases at least cast into poetic form. These scribes were often under royal patronage, as editorial notes in the book of Proverbs indicate; for example, ‘‘These also are proverbs of Solomon which the men of Hezekiah, king of Judah, collected’’ ([[Proverbs 25#^25-1|Prov. 25:1]]). That heading, like a half dozen others found in the book, also illustrates the nature of the book of Proverbs as an anthology of several originally independent collections.
 
 Reflecting this setting in royal courts, some proverbs are a kind of guide to etiquette and advancement, dealing with such issues as table manners in the presence of the king and proper and improper

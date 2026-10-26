@@ -24,7 +24,7 @@ Text: [[NRSVue James 04|NRSVue]] · [[James 04|BSB and SBLGNT]] · Introduction:
 
 **[[NRSVue James 04#^4-5|5]]:** *Scripture says*, an unknown text. *God yearns jealously*, *Zohar* 2 (Ex, *Terumah* 162b) claims God’s gift of the soul enables one to accomplish such love. ^4-5
 
-**[[NRSVue James 04#^4-6|6]]:** *Grace to the humble*, [[LXX Proverbs 03#^3-34|Prov 3.34]]\[LXX\] “To the scorners he is scornful but to the humble he shows grace.” Also note traditional Hebrew prayer requesting grace, and lovingkindness and mercy: “Sim shalom *. . .* ḥen, vaḥesed veraḥamim*”* (see reference to this prayer in [[Berakhot 18#18a|*b. Ber.* 18a]]). ^4-6
+**[[NRSVue James 04#^4-6|6]]:** *Grace to the humble*, [[LXX Proverbs 03#^3-34|Prov 3.34]]\[LXX\] “To the scorners he is scornful but to the humble he shows grace.” Also note traditional Hebrew prayer requesting grace, and lovingkindness and mercy: “Sim shalom *. . .* ḥen, vaḥesed veraḥamim*”* (see reference to this prayer in *b. Ber.* [[Berakhot 18#18a|18a]]). ^4-6
 
 **[[NRSVue James 04#^4-7|7]]:** *Submit . . . he will draw near*, *m. Avot* 2.4 says “Make your will God’s will that he may make his will your will. *Resist the devil*, *B. Ber*. 5a counsels Torah study to stifle temptation and guard against the evil urge. ^4-7
 
@@ -42,9 +42,9 @@ Text: [[NRSVue James 04|NRSVue]] · [[James 04|BSB and SBLGNT]] · Introduction:
 
 **[[NRSVue James 04#^4-13|13–15]]:** An extended paraphrase of [[Proverbs 27#^27-1|Prov 27.1]]. ^4-13
 
-**[[NRSVue James 04#^4-14|14]]:** *What tomorrow will bring*, building on this image, the sages counsel against imagining the future ([[Berakhot 9#9b|*b. Ber*. 9b]]). See also [[Ecclesiastes 10#^10-14|Eccl 10.14]]. *What is your life*, [[Yoma 87#87b|*b. Yoma* 87b]] asks, “What is our life?” The next sentence gives the implied answer. *A mist . . . vanishes*, see [[Psalms 103#^103-15|Ps 103.15]] (HB v 16); [[Job 07#^7-9|Job 7.9]]; [[Ecclesiastes 12#^12-7|Eccl 12.7]]. ^4-14
+**[[NRSVue James 04#^4-14|14]]:** *What tomorrow will bring*, building on this image, the sages counsel against imagining the future (*b. Ber*. [[Berakhot 9#9b|9b]]). See also [[Ecclesiastes 10#^10-14|Eccl 10.14]]. *What is your life*, *b. Yoma* [[Yoma 87#87b|87b]] asks, “What is our life?” The next sentence gives the implied answer. *A mist . . . vanishes*, see [[Psalms 103#^103-15|Ps 103.15]] (HB v 16); [[Job 07#^7-9|Job 7.9]]; [[Ecclesiastes 12#^12-7|Eccl 12.7]]. ^4-14
 
-**[[NRSVue James 04#^4-15|15]]:** *If the Lord wishes*, while “God willing” is rare in Talmudic literature ([[Bava Batra 55#55a|*b. B. Bat*. 55a]] has “with the help of heaven”), it becomes frequent in the spoken word of Jews (“im yertz\[eh\] ha-Shem,” “If God \[lit., ‘the Name’\] wills it”). ^4-15
+**[[NRSVue James 04#^4-15|15]]:** *If the Lord wishes*, while “God willing” is rare in Talmudic literature (*b. B. Bat*. [[Bava Batra 55#55a|55a]] has “with the help of heaven”), it becomes frequent in the spoken word of Jews (“im yertz\[eh\] ha-Shem,” “If God \[lit., ‘the Name’\] wills it”). ^4-15
 
 **[[NRSVue James 04#^4-16|16]]:** *Boast*, ancient Jewish aphorisms warn against boasting, e.g., “Boast not of tomorrow; for you do not know what may transpire on the day” ([[Proverbs 27#^27-1|Prov 27.1]]). Paul, [[1 Corinthians 01#^1-31|1 Cor 1.31]], cites [[Jeremiah 09#^9-22|Jer 9.23–24]] that one cannot boast except about the Lord. ^4-16
 

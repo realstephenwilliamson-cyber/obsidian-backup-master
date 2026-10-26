@@ -30,7 +30,7 @@ Text: [[NRSVue Ephesians 03|NRSVue]] · [[Ephesians 03|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Ephesians 03#^3-13|13]]:** *My sufferings*, Paul, like Jesus, is a suffering servant (v 7) whose suffering is redemptive; see [[Isaiah 53#^53-5|Isa 53.5]] and [[Colossians 01#^1-24|Col 1.24]]. ^3-13-2
 
-**[[NRSVue Ephesians 03#^3-14|14]]:** *Bow my knees*, traditional Jewish position for prayer; see [[I Kings 08#^8-54|1 Kings 8.54]]. The worshipper bows, bending the knees, when beginning the first blessing (“berakhah,” from “berekh,” “knee”) of the standard rabbinic prayer, the Amidah; see [[Berakhot 12#12a|*b. Ber*. 12a]]. ^3-14
+**[[NRSVue Ephesians 03#^3-14|14]]:** *Bow my knees*, traditional Jewish position for prayer; see [[I Kings 08#^8-54|1 Kings 8.54]]. The worshipper bows, bending the knees, when beginning the first blessing (“berakhah,” from “berekh,” “knee”) of the standard rabbinic prayer, the Amidah; see *b. Ber*. [[Berakhot 12#12a|12a]]. ^3-14
 
 **[[NRSVue Ephesians 03#^3-16|16]]:** *In your inner being*, lit., “toward the inner man” (Gk “anthrōpon”). The prayer may be that the saints be strengthened in their path toward their realization of the model of the ideal man, or even toward Jesus. ^3-16
 

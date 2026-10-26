@@ -143,16 +143,16 @@ If the High Priest died in the morning before offering [the *chavitin*] and anot
 [^5]: Note the contrast to the daily offering (Chapter 1, Halachah 12).
 [^6]: A *dinar* is approximately 4 grams in modern measure.
 [^7]: For the altar itself need not be there for the offering to be acceptable. Note the parallel in *Hilchot Ma'aseh HaKorbonot* 19:15.
-[^8]: From the exegesis of [[Torah 25 - Tzav#^6-3|Leviticus 6:3]], [[Yoma 45#45b|*Yoma* 45b]] derives that the limbs of a sacrifice that fly off the altar should be returned to it, but not the grains of incense. The grain should be entombed (Radbaz).
+[^8]: From the exegesis of [[Torah 25 - Tzav#^6-3|Leviticus 6:3]], *Yoma* [[Yoma 45#45b|45b]] derives that the limbs of a sacrifice that fly off the altar should be returned to it, but not the grains of incense. The grain should be entombed (Radbaz).
 [^9]: The *Kessef Mishneh* states that this phrase is making a distinction between the incense offering brought each day and that brought on Yom Kippur. Since the latter offering is brought into the Holy of Holies, it is necessary to depart only from the Temple Building. One may remain in the area between the Entrance Hall and the altar. See *Hilchot Avodat Yom Kippurim* 4:2.
 [^10]: This refers to the bull brought by a High Priest as a sin-offering, the bull brought as atonement for a law forgotten by the High Court, and the goats that are brought to atone for idolatry (see *Hilchot Ma'aseh HaKorbanot* 5:13).
-[^11]: This translates the Talmudic term *binyan av*. Note the Radbaz who explains that although [[Yoma 44#44a|*Yoma* 44a]] appears to derive this concept through the exegetical method referred to as a *gezeirah sheveh* (a textual association), the intent is really a *binyan av*.
+[^11]: This translates the Talmudic term *binyan av*. Note the Radbaz who explains that although *Yoma* [[Yoma 44#44a|44a]] appears to derive this concept through the exegetical method referred to as a *gezeirah sheveh* (a textual association), the intent is really a *binyan av*.
 [^12]: I.e., who was chosen in the lottery, as described in Chapter 4, Halachah 6.
 [^13]: The term is used in several contexts in the Talmudic literature to refer to a metal container. In his gloss to *Tamid* 3:6, Rav Ovadiah of Bartenura states that it has the same root as the word *tene* used by [[Torah 50 - Ki Tavo#^26-2|Deuteronomy 26:2]] to refer to the container used to carry the first fruits.
 [^14]: As a sign of wealth and prosperity. See *Hilchot Beit HaBechirah* 1:19.
 [^15]: A *kab* is 1376 cc according to *Shiurei Torah* and 2400 cc according to *Chazon Ish*.
 [^16]: They were already burnt out and there was no danger of him being burnt.
-[^17]: [[Yoma 21#21a|*Yoma* 21a]] states this was done so because of the miracle that occurred. To explain: Our Sages relate the ashes from the *Menorah* and from the Golden Altar would be miraculously swallowed up in their place each day. In order not to require God to perform this miracle twice each day, the ashes from the Golden Altar would be put aside until those from the *Menorah* were collected. See Halachah 12.
+[^17]: *Yoma* [[Yoma 21#21a|21a]] states this was done so because of the miracle that occurred. To explain: Our Sages relate the ashes from the *Menorah* and from the Golden Altar would be miraculously swallowed up in their place each day. In order not to require God to perform this miracle twice each day, the ashes from the Golden Altar would be put aside until those from the *Menorah* were collected. See Halachah 12.
 [^18]: See Chapter 4, Halachah 7; Chapter 6, Halachah 4.
 [^19]: In his translation of the Torah, Onkelos translates the word *kaf*, generally translated as "spoon," as *bezech*. Both the *kaf* and the *bezech* were utensils resembling ladles, i.e., they had a receptacle and a long arm leading to it.
 [^20]: The one who merited to remove the ashes from the altar, as stated in Chapter 4, Halachah 5.
@@ -160,7 +160,7 @@ If the High Priest died in the morning before offering [the *chavitin*] and anot
 [^22]: In his Commentary to the Mishnah (*Tamid* 5:5), the Rambam writes that this fire-pan would hold four *kabbim*.
 [^23]: The Rambam's statements are based on his text of the Mishnah (*Tamid* 5:5). Apparently, the Ra'avad had a slightly different version.
 [^24]: See Chapter 2, Halachot 4 and 8.
-[^25]: This fire-pan would hold three *kabbim* [the Rambam's Commentary to the Mishnah (*loc. cit.*)]. [[Yoma 45#45a|*Yoma* 45a]] explains that gathering the coals would damage the fire-pan slightly and over time, it would have to be replaced. Hence rather than damage a golden one, the Sages took the financial needs of the Jewish people into consideration and did not require that a golden one be used each day.
+[^25]: This fire-pan would hold three *kabbim* [the Rambam's Commentary to the Mishnah (*loc. cit.*)]. *Yoma* [[Yoma 45#45a|45a]] explains that gathering the coals would damage the fire-pan slightly and over time, it would have to be replaced. Hence rather than damage a golden one, the Sages took the financial needs of the Jewish people into consideration and did not require that a golden one be used each day.
 [^26]: Since the golden fire-pan was smaller than the silver one, it was natural that this would occur (*ibid.*).
 [^27]: As stated in *Hilchot Beit HaBechirah* 2:11, there was a channel for outflow that ran through the Temple Courtyard. The priest would sweep the coals there [the Rambam's Commentary to the Mishnah (*loc. cit.*)]. The Radbaz questions why the priest would be allowed to intentionally extinguish the coals. Perhaps his question can be answered on the basis of *Hilchot Tuma'at Ochalin* 8:9 which states that these coals no longer have any holiness.
 [^28]: In his Commentary to the Mishnah (*loc. cit.*), the Rambam explains that in his Targum ([[Torah 19 - Terumah#^27-3|Exodus 27:3]] , Onkelos uses the term *pisachter* for the Hebrew *sir*, meaning "pot."
@@ -172,7 +172,7 @@ If the High Priest died in the morning before offering [the *chavitin*] and anot
 [^34]: I.e., thus four priests would enter: a) one to clean the altar; b) one to place the coal on it; c) one to pour incense into the hands of the priest who would offer it; and d) one to offer the incense on the coals (Radbaz).
 [^35]: As mentioned in Chapter 4, Halachah 7, the incense offering would be given to a priest who never offered it previously. Hence he would not be experienced and required these warnings (Radbaz).
 [^36]: I.e., the person offering the incense stands to the east of the altar. He should begin pouring the incense on the western side of the altar. Otherwise, he will have to lean over the altar while the incense is burning and he could be burned in this manner.
-[^37]: Rashi ([[Yoma 28#28a|*Yoma* 28a]]) maintains that this term refers to the *segen*, the High Priest's assistant. *Tosafot* maintains that it refers to the priest who apportions the Temple service by lottery. From *Hilchot K'lei HaMikdash* 4:16, it is obvious that the Rambam accepts Rashi's view.
+[^37]: Rashi (*Yoma* [[Yoma 28#28a|28a]]) maintains that this term refers to the *segen*, the High Priest's assistant. *Tosafot* maintains that it refers to the priest who apportions the Temple service by lottery. From *Hilchot K'lei HaMikdash* 4:16, it is obvious that the Rambam accepts Rashi's view.
 [^38]: I.e., as expression of deference.
 [^39]: As stated in Halachah 3.
 [^40]: See Halachah 12 which describes what this service entails.
@@ -190,7 +190,7 @@ If the High Priest died in the morning before offering [the *chavitin*] and anot
     [[Torah 20 - Tetzaveh#^30-8|Exodus 30:8]] uses a different term for kindling the lamps at night (as the Rashba states in support of his approach). Perhaps *hatavah* can refer only to the rekindling of the lamps in the morning as indicated by the Rambam's Commentary to the Mishnah cited above. See the gloss of the *Lechem Mishneh*.
 [^51]: I.e., add oil so that it will burn until nightfall.
 [^52]: As mentioned in *Hilchot Beit HaBechirah* 3:8, the Rambam maintains that the *Menorah* was positioned from north to south. Accordingly, this refers to the center lamp that was positioned opposite the Holy of Holies. Others differ, maintaining that the *Menorah* is positioned from east to west and the term "western lamp" refers to the second lamp from the east which is "western" in relation to the more eastern one.
-[^53]: [[Yoma 45#45b|*Yoma* 45b]] derives this concept from [[Torah 25 - Tzav#^6-6|Leviticus 6:6]] which reads "A continuous fire shall burn on the altar." Using the rules of Biblical exegesis, our Sages explain that the verse can be interpreted. Whenever a continuous fire will burn - and the *Menorah* is also referred to as a continuous fire - it shall be kindled from the altar.  
+[^53]: *Yoma* [[Yoma 45#45b|45b]] derives this concept from [[Torah 25 - Tzav#^6-6|Leviticus 6:6]] which reads "A continuous fire shall burn on the altar." Using the rules of Biblical exegesis, our Sages explain that the verse can be interpreted. Whenever a continuous fire will burn - and the *Menorah* is also referred to as a continuous fire - it shall be kindled from the altar.  
     The Ra'avad differs with this ruling and maintains that when possible, even the western lamp should be kindled from the other lamps of the *Menorah*. Only when there is no alternative, it should be kindled from the altar. The Radbaz and the *Kessef Mishneh*, however, give support for the Rambam's view.
 [^54]: Indeed, as stated in the following halachah, it is desirable to do so rather than use another candle.
 [^55]: With tweezers. This was possible, because the wicks were long.
@@ -198,7 +198,7 @@ If the High Priest died in the morning before offering [the *chavitin*] and anot
 [^57]: See *Hilchot Beit HaBechirah* 3:6-7.
 [^58]: Even if one would light the ordinary lamp from the lamp of the *Menorah*, it would be unacceptable, because it is not respectful to light an ordinary lamp from the lamp of the *Menorah* (*Kessef Mishneh*, based on *Maggid Mishneh, Hilchot Chanukah* 3:9).
 [^59]: See *Hilchot Shabbat* 5:5. The substances mentioned there are unacceptable, because they do not allow for a steadily burning flame. Instead, the flames they produce sputter.
-[^60]: They may, however, be used for other purposes, e.g., as wicks for the lanterns used to illuminate the Temple Courtyard during the *Simchat Beit HaShoevah* celebrations ([[Shabbat 21#21b|*Shabbos* 21b]]).
+[^60]: They may, however, be used for other purposes, e.g., as wicks for the lanterns used to illuminate the Temple Courtyard during the *Simchat Beit HaShoevah* celebrations (*Shabbos* [[Shabbat 21#21b|21b]]).
 [^61]: This excludes substances which will prevent the fire from ascending smoothly on its own.
 [^62]: The limbs of the sacrifices would be brought up to the altar and the incense offering was brought, as stated in Chapter 6, Halachot 3-4.
 [^63]: By extending the duration of time in which this service is performed, it will be noticed by all those present [the Rambam's Commentary to the Mishnah (*Tamid* 3:9)].
@@ -218,7 +218,7 @@ If the High Priest died in the morning before offering [the *chavitin*] and anot
 [^76]: See *Hilchot Ma'aseh HaKorbanot, op. cit.*
 [^77]: But instead, must be performed on Friday.
 [^78]: Although Halachah 18 stated that the offering of the *chavitin* supersedes the restrictions of ritual impurity, that refers to an instance when the majority of the Jewish community, the majority of the priests, or the majority of the Temple utensils are impure. In this instance, only the High Priest is impure and that difficulty can be remedied by temporarily appointing another in his place (Radbaz).
-[^79]: These latter two instances are not mentioned in [[Menachot 50#50b|*Menachot* 50b]], the source for the Rambam's ruling. Nevertheless, the concept follows logically, because in these states, the High Priest cannot serve (Radbaz).
+[^79]: These latter two instances are not mentioned in *Menachot* [[Menachot 50#50b|50b]], the source for the Rambam's ruling. Nevertheless, the concept follows logically, because in these states, the High Priest cannot serve (Radbaz).
 [^80]: In the latter two instances, if and when the first High Priest regains ritual purity or is healed from his blemish, he is restored to his position (*ibid.*).
 [^81]: I.e., half the measure required to make the flat-cakes for the entire day, the measure required for the afternoon offering.
 [^82]: From his own property.
@@ -226,7 +226,7 @@ If the High Priest died in the morning before offering [the *chavitin*] and anot
 [^84]: This term is interpreted to mean that they should be left until they become disqualified because they remained overnight. They cannot, however, be destroyed immediately, because since the disqualifying factor is not integral to the sacrificial food itself, destroying them would be an act of disrespect.
 [^85]: I.e., the High Priest must bring a complete *isaron* and half is offered and half is destroyed.
 [^86]: To the east of the altar, as stated in the notes to *Hilchot Ma'aseh HaKorbanot* 7:3.
-[^87]: [[Menachot 51#51b|*Menachot* 51b]] derives this concept from [[Torah 25 - Tzav#^6-15|Leviticus 6:15]]: "The priest... from his sons should offer it," i.e., his heirs should offer it, the entire offering, bringing it in his place.
+[^87]: *Menachot* [[Menachot 51#51b|51b]] derives this concept from [[Torah 25 - Tzav#^6-15|Leviticus 6:15]]: "The priest... from his sons should offer it," i.e., his heirs should offer it, the entire offering, bringing it in his place.
 [^88]: *Menachot, op. cit.*, derives this concept from the fact that the prooftext states "It shall be offered on the pyre in its entirety."
 [^89]: For there is a verse requiring the doubling of the flour and no such verse with regard to the oil and the frankincense (*Menachot, op. cit.*).
 [^90]: See *Hilchot Ma'aseh HaKorbanot* 13:2,4.

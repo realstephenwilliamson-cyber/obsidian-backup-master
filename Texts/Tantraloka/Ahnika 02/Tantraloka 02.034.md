@@ -31,7 +31,7 @@ anuttarapathe rūḍhāste'bhyupāyāniyantritāḥ || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 02 (Dyczkowski)/Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#^pg59|p. 43]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 02.pdf#page=59>))
 > Dyczkowski numbers this verse 2.33cd–34ab.
 >
-> Thus (ifi), those who are sanctified by the supreme reality which is consciousness firmly affirmed (rāḍha) (within them) and are firmly affirmed on the path of the Absolute (Anuttara) are not constrained by (any) means (to realization and have nothing more to do).
+> Thus (iti), those who are sanctified by the supreme reality which is consciousness firmly affirmed (rūḍha) (within them) and are firmly affirmed on the path of the Absolute (Anuttara) are not constrained by (any) means (to realization and have nothing more to do).
 
 ## Viveka
 

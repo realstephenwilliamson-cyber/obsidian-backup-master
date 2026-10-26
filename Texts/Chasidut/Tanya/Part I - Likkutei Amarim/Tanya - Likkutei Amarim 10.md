@@ -41,8 +41,8 @@ A further explanation of the title “superior men” is that their service in t
 [^3]: צדיק וטוב לו—i.e., “possessing (only) good.”
 [^4]: Ch. 9.
 [^5]: [[Psalms 139#^139-22|Psalms 139:22]], 23.
-[^6]: In *halachah*, in cases of a mixture of a nonkosher element into kosher articles of human consumption (solids or liquids), the nonkosher element is deemed nonexistent if its proportion is less than 1/60th, 1/100th, etc., as the case may be. Cf., e.g., [[Chullin 97#97b|*Chullin* 97b]] ff.
-[^7]: [[Sukkah 45#45b|*Sukkah* 45b]]; [[Sanhedrin 97#97b|*Sanhedrin* 97b]].
+[^6]: In *halachah*, in cases of a mixture of a nonkosher element into kosher articles of human consumption (solids or liquids), the nonkosher element is deemed nonexistent if its proportion is less than 1/60th, 1/100th, etc., as the case may be. Cf., e.g., *Chullin* [[Chullin 97#97b|97b]] ff.
+[^7]: *Sukkah* [[Sukkah 45#45b|45b]]; *Sanhedrin* [[Sanhedrin 97#97b|97b]].
 [^8]: Ibid.
 [^9]: Literally, “men of ascent”—בני עליה.
 [^10]: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-4a|I:4a]].

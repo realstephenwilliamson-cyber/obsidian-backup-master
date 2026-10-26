@@ -42,9 +42,9 @@ Text: [[NRSVue Luke 09|NRSVue]] · [[Luke 09|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 09#^9-14|14]]:** *Five thousand men*, [[Matthew 14#^14-21|Mt 14.21]] adds that the five thousand did not include the women and children. ^9-14
 
-**[[NRSVue Luke 09#^9-16|16]]:** *Blessed*, rabbinic sources recount a traditional Jewish blessing before eating ([[Berakhot 48#48b|*b. Ber.* 48b]]; *Num. Rab*. 20.21); the blessing over bread (“birkat ha-motsi”) is based on [[Psalms 104#^104-14|Ps 104.14]]. The scene anticipates 22.17–20. ^9-16
+**[[NRSVue Luke 09#^9-16|16]]:** *Blessed*, rabbinic sources recount a traditional Jewish blessing before eating (*b. Ber.* [[Berakhot 48#48b|48b]]; *Num. Rab*. 20.21); the blessing over bread (“birkat ha-motsi”) is based on [[Psalms 104#^104-14|Ps 104.14]]. The scene anticipates 22.17–20. ^9-16
 
-**[[NRSVue Luke 09#^9-17|17]]:** *Twelve baskets*, perhaps suggesting Israel’s twelve tribes. Luke recounts a supernatural event, comparable to the giving of manna (Ex 16; [[II Kings 04#^4-43|2 Kings 4.43–44]]; cf. [[John 06#^6-31|Jn 6.31]]; [[Yoma 75#75a|*b. Yoma* 75a]] on the sufficiency of manna), and not simply a sharing of food by the crowd. ^9-17
+**[[NRSVue Luke 09#^9-17|17]]:** *Twelve baskets*, perhaps suggesting Israel’s twelve tribes. Luke recounts a supernatural event, comparable to the giving of manna (Ex 16; [[II Kings 04#^4-43|2 Kings 4.43–44]]; cf. [[John 06#^6-31|Jn 6.31]]; *b. Yoma* [[Yoma 75#75a|75a]] on the sufficiency of manna), and not simply a sharing of food by the crowd. ^9-17
 
 ### 9.18–20: Peter’s confession
 
@@ -144,7 +144,7 @@ Text: [[NRSVue Luke 09|NRSVue]] · [[Luke 09|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 09#^9-58|58]]:** *Son of Man*, see 5.24n. ^9-58
 
-**[[NRSVue Luke 09#^9-59|59]]:** *Bury my father*, necessary filial piety ([[LXX Tobit 04#^4-3|Tob 4.3]]; [[LXX Tobit 06#^6-15|6.15]]; [[Berakhot 18#18a|*b. Ber*. 18a]]); v 60 suggests the father was not yet dead. ^9-59
+**[[NRSVue Luke 09#^9-59|59]]:** *Bury my father*, necessary filial piety ([[LXX Tobit 04#^4-3|Tob 4.3]]; [[LXX Tobit 06#^6-15|6.15]]; *b. Ber*. [[Berakhot 18#18a|18a]]); v 60 suggests the father was not yet dead. ^9-59
 
 **[[NRSVue Luke 09#^9-61|61]]:** *Let me first say farewell*, see [[I Kings 19#^19-20|1 Kings 19.20]]. Separation from the natal family is a hallmark of Jesus’ teaching (4.11; 9.61; 14.26). ^9-61
 

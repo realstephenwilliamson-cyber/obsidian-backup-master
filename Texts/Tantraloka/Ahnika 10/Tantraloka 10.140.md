@@ -27,7 +27,7 @@ ataḥ prabhotsyamānatve yānayorbodhayogyatā || ^iast
 > [!source] Dyczkowski, vol. VI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)/Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#^pg401|p. 382]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 06.pdf#page=401>))
 >
-> Thus, it is said in the Śrīpūrvaśāsana (i.e. Mālinīvijayottara) that: ‘Desiring to emit the universe, the Lord awakened the eight (souls who are) Isolated in Consciousness. (with 10.139cd–140ab)
+> Thus, it is said in the Śrīpūrvaśāsana (i.e. Mālinīvijayottara) that: ‘Desiring to emit the universe, the Lord awakened the eight (souls who are) Isolated in Consciousness.’ (with 10.139cd–140ab)
 >
 > (What is meant) here by perceptibility is a condition that is favourable to perception. Thus, the power (bala) of the competence these two (perceivers) possess to be awake (and conscious) (bodhayogyatā), which is (implicit) in their future awakening, makes it possible for (the Earth and the other principles) to be perceptible to them. (with 10.140cd–141ab)
 

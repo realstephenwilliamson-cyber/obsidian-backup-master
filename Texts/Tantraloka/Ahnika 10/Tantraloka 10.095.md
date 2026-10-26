@@ -27,7 +27,7 @@ avedyameva kālāgnivapurmeroḥ parā diśaḥ || ^iast
 > [!source] Dyczkowski, vol. VI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)/Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#^pg375|p. 356]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 06.pdf#page=375>))
 >
-> (An opponent may object that,) surely, there (in that case), perceptibility (can exist) in itself (svayam) (without being conscious of it), and so too in relation to Maitra’ and others. (with 10.94cd–95a)
+> (An opponent may object that,) surely, there (in that case), perceptibility (can exist) in itself (svayam) (without being conscious of it), and so too in relation to Maitra and others. (with 10.94cd–95a)
 >
 > (Our reply to this objection is that) this is true — it exists, (but) it does not manifest. (with 10.95b)
 >

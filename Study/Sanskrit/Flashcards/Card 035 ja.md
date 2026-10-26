@@ -20,16 +20,13 @@ nyasa: "left hand (*kara*)"
 ## Front
 
 - **Glyph:** ज
-- **Variation:** —
 - **Example:** जन
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘<u>J</u>apan’
-- **Class (as printed):** 2 (palatal) · soft · unaspirated
-- **Grid:** the five rows of stops; in bold: ज
-- **Example:** jana (person)
+> [!note]- Back
+> - **Pronunciation:** As in ‘<u>J</u>apan’
+> - **Class:** palatal · soft · unaspirated
+> - क ख ग घ ङ / च छ <u>ज</u> झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म
+> - **Example:** jana (person)
 
 ## Register
 

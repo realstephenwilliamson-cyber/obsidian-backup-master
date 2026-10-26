@@ -17,7 +17,7 @@ The map was rebuilt on 6 Oct 2026 in phase 2 of the October 2026 plan. It replac
 - Every page of the twelve volumes was read with Tesseract's Sanskrit model.
 - Each verse's text was matched, in order, against the pages with fuzzy matching.
 - The printed page numbers come from the running heads.
-- Checking agents then read about 900 verses on the mapped page: the 175 structural repairs, the 686 verses of the reading check and 100 random verses. They found the page right in all but two cases, both now corrected (5.66 and 8.241).
+- Checking agents then read about 900 verses on the mapped page: the 175 structural repairs (174 Mūla blocks repaired, and 33.33, whose text was kept with a note line: phase 2 record, .work/plan/phase-2-state.json), the 686 verses of the reading check and 100 random verses. They found the page right in all but two cases, both now corrected (5.66 and 8.241).
 
 **Reading the tables:**
 - The PDF link opens the volume at the page.
@@ -43,7 +43,7 @@ The map was rebuilt on 6 Oct 2026 in phase 2 of the October 2026 plan. It replac
 | XII | 58 | 1938 | 30–37 | [[Abhinavagupta - Tantraloka KSTS vol 12 (1938).pdf]] | `ksu.qi3346.tantralokavolxii0000pand` | 282 | Continues āhnika 29's page numbers (āhnika 30 starts at p. 173) |
 
 **Pages missing from the scans:**
-- Vol. X lacks one printed page at each of these places: between pp. 67 and 71, and pp. 107, 145, 221, 259, 297, 335/336 and 372/373. The page before āhnika 19 (p. 182) is a blank.
+- Vol. X lacks one printed page at each of these places: pp. 69, 107, 145, 221, 259, 297, 335 and 373. The page before āhnika 19 (p. 182) is a blank.
   - On p. 259 the root text of 22.44 and the first half of 22.45 are lost; the map points both to the next page.
   - The verse notes themselves are complete, because they come from the e-text.
   - Another Digital Library of India scan of vol. X, `in.ernet.dli.2015.326661`, may fill these pages; it has not been checked.
@@ -115,7 +115,7 @@ The 52 misprints, with what KSTS prints and the form the Mūla gives:
 | [[Tantraloka 03.012\|3.12]] | पृच्छयते *pṛcchayate* | पृच्छ्यते *pṛcchyate* | II, p. 13 ([[Abhinavagupta - Tantraloka KSTS vol 02 (1921).pdf#page=25\|PDF 25]]) |
 | [[Tantraloka 05.107\|5.107]] | निन्द्रा *nindrā* | निद्रा *nidrā* | III, p. 417 ([[Abhinavagupta - Tantraloka KSTS vol 03 (1921).pdf#page=459\|PDF 459]]) |
 
-At 37.52 the Mūla keeps KSTS's *siṃtāṃśu* (Stephen's choice). Readings where the print is a real word but the commentary may favour another reading follow the print: 1.49, 5.75, 8.51, 8.87, 8.129, 8.181, 10.159, 13.231 and 13.232.
+At 37.52 the Mūla keeps KSTS's *siṃtāṃśu* (Stephen's choice). Readings where the print is a real word but the commentary may favour another reading follow the print: 1.49, 5.75, 8.51, 8.87, 8.129, 8.181, 10.159, 13.205, 13.231, 13.232 and 15.95.
 
 ## Verses by āhnika
 
@@ -2453,8 +2453,9 @@ At 37.52 the Mūla keeps KSTS's *siṃtāṃśu* (Stephen's choice). Readings wh
 | 16.160–163 | 65 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=69\|69]] |
 | 16.164–165 | 66 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=70\|70]] |
 | 16.166–170 | 67 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=71\|71]] |
-| 16.171–174 | 68* | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=72\|72]] |
-| 16.175–179 ? | 69* | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=73\|73]] |
+| 16.171–174 | 68 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=72\|72]] |
+| 16.175 ? | 69 (missing from scan) | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=73\|73]] |
+| 16.176–179 | 70 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=73\|73]] |
 | 16.180–184 | 71 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=74\|74]] |
 | 16.185–186 | 72 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=75\|75]] |
 | 16.187–190 | 73 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=76\|76]] |
@@ -2751,7 +2752,8 @@ At 37.52 the Mūla keeps KSTS's *siṃtāṃśu* (Stephen's choice). Readings wh
 | 26.9–11 | 332 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=329\|329]] |
 | 26.12–15 | 333* | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=330\|330]] |
 | 26.16–17 ? | 334 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=331\|331]] |
-| 26.18–22 ? | 335* | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=332\|332]] |
+| 26.18–20 ? | 335 (missing from scan) | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=332\|332]] |
+| 26.21–22 | 336 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=332\|332]] |
 | 26.23–25 | 337 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=333\|333]] |
 | 26.26–29 | 338 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=334\|334]] |
 | 26.30–31 | 339 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=335\|335]] |
@@ -2790,7 +2792,7 @@ At 37.52 the Mūla keeps KSTS's *siṃtāṃśu* (Stephen's choice). Readings wh
 | 27.32–34 | 369* | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=365\|365]] |
 | 27.35–38 | 370* | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=366\|366]] |
 | 27.39–40 ? | 371 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=367\|367]] |
-| 27.41 ? | 373* | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=368\|368]] |
+| 27.41 ? | 373 (missing from scan) | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=369\|369]] |
 | 27.42–44 | 374 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=369\|369]] |
 | 27.45–47 | 375* | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=370\|370]] |
 | 27.48–49 | 376 | [[Abhinavagupta - Tantraloka KSTS vol 10 (1933).pdf#page=371\|371]] |

@@ -30,7 +30,7 @@ uktaṃ ca pūrṇāṃ ca kṛśāṃ dhyātvā dvādaśagocare || ^iast
 >
 > (Possessing as his) light that of the Moon and Sun, pure (by the practice of this) forceful (katha yoga,) he sees a dream that is true and is capable of clearly reflecting on future (events), both auspicious and otherwise. (with 15.479cd–480ab)
 >
-> It is said that, ‘having meditated on (the energy of the vital breath, first) full and (then) thin, in the region of the twelve (finger space), once having entered into the heart (in the centre), meditating, the one who sleeps attains freedom. (with 15.480cd–481ab)
+> It is said that, ‘having meditated on (the energy of the vital breath, first) full and (then) thin, in the region of the twelve (finger space), once having entered into the heart (in the centre), meditating, the one who sleeps attains freedom.’ (with 15.480cd–481ab)
 
 ## Viveka
 

@@ -86,7 +86,7 @@ The climax of this spiritual history of man alludes to two important, related co
 
 AyuNuW0s UeAUWING ay} Jo syatjaq snoiBya4 ay.
 
-people: covenants were established with Noah after the Flood (Gen 9.1-17); with Abraham as the father of many nations (Gen 15; 17.1-4); with Israel as the people of God (Exod 19-24); with Phinehas (Num 25); with Levi (Mal 2.4-5); and with the davidic kingship (2 Sam 7; Ps 78.67-72). This covenantal relationship can be unconditional and everlasting or it can require the obedience of divine commandments with punishment for
+people: covenants were established with Noah after the Flood ([[Torah 02 - Noach#^9-1|Gen 9.1-17]]); with Abraham as the father of many nations (Gen 15; 17.1-4); with Israel as the people of God (Exod 19-24); with Phinehas (Num 25); with Levi ([[Malachi 2#^2-4|Mal 2.4-5]]); and with the davidic kingship (2 Sam 7; [[Psalms 078#^78-67|Ps 78.67-72]]). This covenantal relationship can be unconditional and everlasting or it can require the obedience of divine commandments with punishment for
 
 transgressions.
 
@@ -96,13 +96,13 @@ In the course of history, however, Israel often strayed and prophets were raised
 
 The Dead Sea Scrolls
 
-or true Israel. Remnant theology postulates a nucleus of Israel who remains faithful to Yahweh. In the biblical text ‘remnant’ means a vestige of survivors after destruction, typified by Noah and his family (Gen 7.23). Theologizing this notion, the prophetic writings invested ‘the remnant’ with the added belief of a hope of for the
+or true Israel. Remnant theology postulates a nucleus of Israel who remains faithful to Yahweh. In the biblical text ‘remnant’ means a vestige of survivors after destruction, typified by Noah and his family ([[Torah 02 - Noach#^7-23|Gen 7.23]]). Theologizing this notion, the prophetic writings invested ‘the remnant’ with the added belief of a hope of for the
 
-future (Isa 10.20-21).
+future ([[Isaiah 10#^10-20|Isa 10.20-21]]).
 
 The New Covenant
 
-Jeremiah 31.31-34 should be singled out as a biblical passage of fundamental importance for the Qumran community, for in it is expressed the view that Yahweh has established a ‘new covenant with the house of Israel and the house of Judah’ (v. 31). The innovation of this covenant is to be found in the belief that the law will be placed within men, written upon their hearts. By declaring this new dispensation, the passage remarkably advocates a setting aside of the teaching of the torah (v. 34). It is no wonder that the antinomian tendencies of the Pauline letters take up this point.
+[[Jeremiah 31#^31-31|Jeremiah 31.31-34]] should be singled out as a biblical passage of fundamental importance for the Qumran community, for in it is expressed the view that Yahweh has established a ‘new covenant with the house of Israel and the house of Judah’ (v. 31). The innovation of this covenant is to be found in the belief that the law will be placed within men, written upon their hearts. By declaring this new dispensation, the passage remarkably advocates a setting aside of the teaching of the torah (v. 34). It is no wonder that the antinomian tendencies of the Pauline letters take up this point.
 
 The Qumran scrolls mention the ‘new covenant’ several times; explicitly referring to Jeremiah as the source in CD 8.20-21 (cf. Ms B 19.33-35). However, the ‘new covenant’ (berit hadasha) here should be understood as ‘the renewed covenant’. Shemaryahu Talmon insightfully observed that the covenant mentioned was the ancient, ancestral one. Consider the opening words of the Damascus Document:
 

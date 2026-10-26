@@ -32,7 +32,7 @@ kṣudhādyanubhavo naiva vikalpo nahi mānasaḥ || ^iast
 >
 > That (view) also (expressed in its own way) in the venerable Kiraṇaśāstra in the (course of a series) of questions and answers (that begins with the following objection): ‘The experience (anubhāva) (of hunger and thirst etc.) is mental, and (as such) is also a thought construct (vikalpa). (Thus,) the mind (cannot apply itself) to Śiva. (But) without having first known Śiva, how is initiation (that serves to conjoin the soul to Him possible)?’ The answer here (to this question) is as follows. (with 1.74–75ab)
 >
-> ‘Indeed, no! The experience of hunger and the like is mental, but certainly not a thought construct (and so Śiva, like hunger, can indeed be experienced inwardly). (with 1.75cd)
+> ‘Indeed, no! The experience of hunger and the like is mental, but certainly not a thought construct (and so Śiva, like hunger, can indeed be experienced inwardly).’ (with 1.75cd)
 
 ## Viveka
 

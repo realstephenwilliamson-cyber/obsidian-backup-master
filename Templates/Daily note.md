@@ -1,4 +1,4 @@
-<%* /* Guard (13 Oct 2026, D8): a note named after its own folder is that folder's folder note, so it gets a short folder-note body (a list of the folder's notes) instead of this template. */ if (tp.file.title === tp.file.folder(false)) { tR += "---\ntype: index\n---\n# " + tp.file.title + "\n\n```dataview\nLIST FROM \"" + tp.file.folder(true) + "\" WHERE file.path != this.file.path SORT file.name ASC\n```\n"; } else { -%>
+<%* /* Guard (13 Oct 2026, D8): a note named after its own folder is that folder's folder note, so it gets a short folder-note body (a list of the folder's notes) instead of this template. */ if (tp.file.title === tp.file.folder(false)) { tR += "---\ntype: index\n---\n# " + tp.file.title + "\n\n```dataview\nLIST FROM \"" + tp.file.folder(true) + "\" WHERE file.path != this.file.path SORT file.name ASC\n```\n"; } else if (!/^\d{4}-\d{2}-\d{2}$/.test(tp.file.title)) { /* D1 (26 Oct 2026): a title that is not a date (YYYY-MM-DD) gets no daily body: no type: daily, date or habit properties, so the note stays out of Habits.base and the daily lists. */ tR += "# " + tp.file.title + "\n\n*Not a daily note: only a note named by its date (YYYY-MM-DD) gets the daily template. A note without a date belongs in Notes/.*\n"; } else { -%>
 <%*
 // ================================================================================================================
 // DAILY NOTE TEMPLATE — read me (for Stephen; 21 Oct 2026)
@@ -24,25 +24,33 @@
 // Times are "HH:mm" in quotes (24-hour clock). Keep every comma, quote and bracket as in the lines you copy.
 //
 // 1. The time blocks a new note starts with, by weekday. To add one, copy a line and change its days, times and title;
-//    to drop one, delete its line. Blocks must not overlap (the template puts a BREAK in each gap and END after the last).
-//    Don't begin a title with "Break" or "End": those are Day Planner OG's keywords.
+//    to drop one, delete its line. Blocks must not overlap (the template puts a BREAK in each gap, then DAY_END below).
+//    Don't begin a title with "Break" or with the DAY_END label ("Bed"): those are Day Planner OG's keywords.
 const TIME_BLOCKS = [
-  { days: [4],                   start: "06:30", end: "07:00", title: "Morning Prayer" },
-  { days: [0],                   start: "09:00", end: "12:00", title: "Church" },
-  { days: [2, 4],                start: "10:00", end: "11:00", title: "Exercise" },
-  { days: [5],                   start: "14:00", end: "15:00", title: "Phone calls" },   // time to confirm (Stephen)
-  { days: [0, 1, 2, 3, 4, 5, 6], start: "19:00", end: "19:45", title: "Reading" },
+  { days: [0, 1, 2, 3, 4, 5, 6], start: "07:30", end: "08:30", title: "AM Rituals" },
+  { days: [1],                   start: "09:00", end: "13:30", title: "PMCS" },
+  { days: [0],                   start: "09:00", end: "13:00", title: "Church" },
+  { days: [0, 1, 2, 3, 4, 5, 6], start: "13:30", end: "14:00", title: "Lunch" },
+  { days: [1, 2, 3, 4, 5],       start: "14:00", end: "15:30", title: "Gym" },
+  { days: [1, 2, 3, 4],          start: "15:30", end: "19:00", title: "Study & Chores" },
+  { days: [0, 1, 2, 3, 4, 5, 6], start: "19:00", end: "20:00", title: "Dinner" },
 ];
+//    The end of the day: Day Planner OG's end task, every night. "24:00" is midnight at the END of the day (the plugin
+//    reads "00:00" as the start of the morning). The label must match Settings → Day Planner OG → End task label on
+//    every device (BED since 25 Oct 2026).
+const DAY_END = { time: "24:00", label: "BED" };
 // 2. Two blocks whose days come from elsewhere: the pūjā block on Pūrṇimā and Amāvāsyā (read from the panchang table)
 //    and the CIS session on weekdays (its length from the CIS study plan note). Only the times are set here.
-const PUJA_BLOCK = { start: "12:00", end: "12:45", title: "Pūjā" };   // length to confirm (Stephen)
-const CIS_START = "15:00";
+//    null = left out of the planner (Stephen, 25 Oct 2026); their habit toggles still appear. To bring one back, give its
+//    times instead of null, e.g. PUJA_BLOCK = { start: "08:30", end: "09:00", title: "Pūjā" } or CIS_START = "15:30".
+const PUJA_BLOCK = null;
+const CIS_START = null;
 // 3. Habits: the weekdays each toggle appears on, in the order they appear in the note. Not listed here because their
 //    days come from elsewhere: office, letter and reading_min (every day), tantraloka (days with a portion), cis (weekdays
 //    from the CIS plan's start date). puja keeps the words "moon days": it appears on Pūrṇimā and Amāvāsyā, read from the
 //    panchang table. To add a habit, add an entry such as `piano: [1, 3, 5],` and give it a label in HABIT_LABELS; to
 //    track it in Journal/Habits.base, add its column there too (the Base lists its columns by name).
-const HABIT_DAYS = { exercise: [2, 4], calls: [5], puja: "moon days", church: [0] };
+const HABIT_DAYS = { exercise: [1, 2, 3, 4, 5], calls: [5], puja: "moon days", church: [0] };
 // 4. The labels shown in the note's Habits line, and the reading target shown beside the minutes field.
 const READING_TARGET = 45;
 const HABIT_LABELS = { office: "Office", tantraloka: "Tantrāloka", letter: "Letter", reading_min: `Reading (minutes; target ${READING_TARGET})`,
@@ -65,6 +73,8 @@ const HABIT_LABELS = { office: "Office", tantraloka: "Tantrāloka", letter: "Let
 //     tasks dated that day, so Home's "Due today or overdue" list and the phone page show them (Stephen's wish of 21 Oct 2026).
 // Everything else is as before: the verses (Mūla), the Phoneme of the day, the Daily Office, Reflection, Words, Earlier on
 // these verses and This week, and the properties verses_read, parashah, sunday, feasts.
+// Changed 25 Oct 2026 (Stephen): the new weekly schedule in TIME_BLOCKS; the day ends with a BREAK after the last block and
+//   DAY_END (BED at 24:00) in place of END; the pūjā and CIS blocks left out of the planner; the exercise toggle Mon–Fri (Gym).
 const date = tp.file.title;
 const isDate = /^\d{4}-\d{2}-\d{2}$/.test(date);
 const dir = "Texts/Tantraloka/Study plan/";
@@ -120,8 +130,8 @@ for (const [k, days] of Object.entries(HABIT_DAYS)) if (days === "moon days" ? p
 const hm = (t, add) => moment(`${day.format("YYYY-MM-DD")} ${t}`, "YYYY-MM-DD HH:mm").add(add || 0, "minutes").format("HH:mm");
 // The time blocks for this day: the weekday's from TIME_BLOCKS, then the pūjā block on a moon day and the CIS session on a CIS day
 const blocks = TIME_BLOCKS.filter(b => b.days.includes(wd)).map(b => [b.start, b.end, b.title]);
-if (puja) blocks.push([PUJA_BLOCK.start, PUJA_BLOCK.end, PUJA_BLOCK.title]);
-if (cisOn) blocks.push([CIS_START, hm(CIS_START, cisMin), "CIS session"]);
+if (puja && PUJA_BLOCK) blocks.push([PUJA_BLOCK.start, PUJA_BLOCK.end, PUJA_BLOCK.title]);
+if (cisOn && CIS_START) blocks.push([CIS_START, hm(CIS_START, cisMin), "CIS session"]);
 // ---- chores (21 Oct 2026): Journal/Chores.md, one line per chore "- Name — days"; days: daily | weekdays | weekend | Sun, Mon, Tue, Wed, Thu, Fri, Sat (first three letters, any case) ----
 const chores = [];
 try {
@@ -178,10 +188,11 @@ out += habits.map(([k]) => `${HABIT_LABELS[k] || k} ` + (k === "reading_min" ? "
 out += "<small>The toggles are Meta Bind fields bound to this note's properties; the File properties pane (on the phone: ⋮ → File properties) shows the same values.</small>\n\n";
 // Chores (21 Oct 2026): the weekday's lines from Journal/Chores.md as tasks dated this day (the Tasks plugin's form), so Home lists them
 if (chores.length) out += "## Chores\n\n" + chores.map(c => `- [ ] ${c} 📅 ${day.format("YYYY-MM-DD")}`).join("\n") + "\n\n";
-// Day Planner OG (Daily mode) reads "## Day Planner": start times only, a block ends where the next begins, BREAK marks a gap, END closes the day
+// Day Planner OG (Daily mode) reads "## Day Planner": start times only, a block ends where the next begins, BREAK marks a gap, DAY_END's label (BED) closes the day at 24:00
 blocks.sort((x, y) => x[0].localeCompare(y[0]));
 const planner = [];
-blocks.forEach(([a, b, t], i) => { planner.push(`- [ ] ${a} ${t}`); const nx = blocks[i + 1]; if (!nx) planner.push(`- [ ] ${b} END`); else if (nx[0] !== b) planner.push(`- [ ] ${b} BREAK`); });
+blocks.forEach(([a, b, t], i) => { planner.push(`- [ ] ${a} ${t}`); const next = blocks[i + 1] ? blocks[i + 1][0] : DAY_END.time; if (next !== b) planner.push(`- [ ] ${b} BREAK`); });
+if (blocks.length) planner.push(`- [ ] ${DAY_END.time} ${DAY_END.label}`);
 out += "## Day Planner\n\n" + planner.join("\n") + "\n\n";
 if (verses.length) {
   out += "## Mūla\n\n";

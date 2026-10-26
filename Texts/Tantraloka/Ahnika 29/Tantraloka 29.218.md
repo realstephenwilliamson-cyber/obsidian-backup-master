@@ -27,7 +27,7 @@ athavā sarvaśāstrāṇyapyudgrāhayati tatkṣaṇāt || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#^pg386|p. 369]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=386>))
 >
-> °“Q goddess conjoined (by the teacher) to (each) principle (one after another,) he sees (his own) Self (there within them,) until the supreme principle has been attained. Then he does not see (any more). By (this) gradual union (kramayoga), he sees the entire Path.’ (with 29.217–218ab)
+> ‘O goddess conjoined (by the teacher) to (each) principle (one after another,) he sees (his own) Self (there within them,) until the supreme principle has been attained. Then he does not see (any more). By (this) gradual union (kramayoga), he sees the entire Path.’ (with 29.217–218ab)
 >
 > MOr else, at that very moment, he (begins) to quote all the scriptures. (with 29.218cd)
 

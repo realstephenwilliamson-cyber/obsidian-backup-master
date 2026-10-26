@@ -27,7 +27,7 @@ taṃ tamevaiti kaunteya sadā tadbhāvabhāvitaḥ || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#^pg156|p. 139]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=156>))
 >
-> ‘O son of Kunti, or else also, he attains whatever state (bhāva) he recollects at the end, as he abandons the body, constantly steeped in that state (tadbhāvabhāvita). Therefore, think of me at all times and fight! (with 28.325–326ab)
+> ‘O son of Kunti, or else also, he attains whatever state (bhāva) he recollects at the end, as he abandons the body, constantly steeped in that state (tadbhāvabhāvita). Therefore, think of me at all times and fight!’ (with 28.325–326ab)
 
 ## Viveka
 

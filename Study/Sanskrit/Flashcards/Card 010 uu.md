@@ -20,17 +20,13 @@ nyasa: "left ear (*karṇa*)"
 ## Front
 
 - **Glyph:** ऊ
-- **Variation:** —
 - **Example:** ऊर्मि
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘m<u>oo</u>d’
-- **Class (as printed):** 5 (labial) · long, soft · simple vowel
-- **Note (no printed label):** Full form - used only to begin a word
-- **Grid:** the vowels अ आ इ ई उ ऊ / ए ऐ ओ औ; in bold: ऊ
-- **Example:** ūrmi (wave)
+> [!note]- Back
+> - **Pronunciation:** As in ‘m<u>oo</u>d’
+> - **Class:** labial · long, soft · simple vowel
+> - अ आ इ ई उ <u>ऊ</u> / ए ऐ ओ औ
+> - **Example:** ūrmi (wave)
 
 ## Register
 

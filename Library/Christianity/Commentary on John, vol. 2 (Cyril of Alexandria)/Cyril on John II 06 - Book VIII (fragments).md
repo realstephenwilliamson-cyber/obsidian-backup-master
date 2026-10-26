@@ -431,7 +431,7 @@ ON THE GOSPEL OF JOHN.
 
 For it is by Jesus Christ that those who believe have glory and indwelling with God, and the Divine Paul contends on our side, writing thus, that it was God Who was in Ohvist reconciling the world unto Himself. For let none of those who are accustomed after a foolish manner to hear the Scripture which is inspired by God, corrupt what is read, when it asserts that God was in Christ; or think that \[Paul\] says “one clothed with the Spirit,” for the expression is not very correct. For Christ is indeed by Nature God, and not a man ‘clothed with God” as one of the prophets.
 
-s. Ixxv. 2 Cor. v. 19. \* The proper position in the Book of this fragment, and the three that follow, is uncertain,
+s. Ixxv. [[2 Corinthians 05#^5-19|2 Cor. v. 19]]. \* The proper position in the Book of this fragment, and the three that follow, is uncertain,
 
 *[p. 165]* ^pg191
 

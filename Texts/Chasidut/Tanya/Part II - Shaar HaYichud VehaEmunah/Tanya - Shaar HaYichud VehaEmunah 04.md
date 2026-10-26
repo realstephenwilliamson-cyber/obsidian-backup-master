@@ -38,7 +38,7 @@ And it is not within the scope of the intellect of any creature to comprehend th
 
 [^1]: [[Psalms 084#^84-12|Psalms 84:12]].
 [^2]: I.e., the Messianic Era.
-[^3]: [[Nedarim 8#8b|*Nedarim* 8b]].
+[^3]: *Nedarim* [[Nedarim 8#8b|8b]].
 [^4]: Acronym for Rabbi Shlomo Yitzchaki, the most famous biblical and Talmudic commentator.
 [^5]: [[Job 01#^1-5|Job 1:5]].
 [^6]: Ch. 2.

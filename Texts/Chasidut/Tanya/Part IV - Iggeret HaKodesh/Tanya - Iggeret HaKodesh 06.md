@@ -54,7 +54,7 @@ And this is the meaning of the idiom of “sowing” related to charity: to make
 [^4]: *Zohar* [[Zohar 8.09 - Idra Rabba#^z3-131b|III:131b]].
 [^5]: See above, Epistle 2, note 26.
 [^6]: Jacob is the “middle bar that bolts from end to end” ([[Torah 19 - Terumah#^26-28|Exodus 26:28]]) that is the bolt mediating between *chesed* and *gevurah*, thus *rachamim* or *tiferet*; *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-175b|II:175b]]-176a; also *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-51b|II:51b]]; *et passim*. See Addendum, *Mystical Concepts in Chassidism*, and below, Epistle 15.
-[^7]: [[Menachot 29#29b|*Menachot* 29b]]. See above, Epistle 5.
+[^7]: *Menachot* [[Menachot 29#29b|29b]]. See above, Epistle 5.
 [^8]: Ibid.—The radiation from the *hey* is different than that of the *yud* (more contracted, concealed, etc.). Thus there is a difference between the “upper” world (the World to Come) and the “nether” world (this world). Likewise with the effects of all the other emanations.
 [^9]: The letters of G–d’s fiats (by which everything was created), each of which designates a specific emanation.—See above, Epistle 5 (and note 54, ad loc.).
 [^10]: Brackets appear in the text.
@@ -69,14 +69,14 @@ And this is the meaning of the idiom of “sowing” related to charity: to make
 [^19]: Ibid. (in the same passage).
 [^20]: See *Likkutei Amarim*, Part II, ch. 7.
 [^21]: See *Tikkunei Zohar*, Introduction 10b; 58 (92b); *Etz Chaim* 49:4. Cf. *Pirkei d’R. Eliezer*, ch. 20, and *Midrash Tehillim*, 92:6.
-[^22]: Cf. [[Sukkah 52#52b|*Sukkah* 52b]].
+[^22]: Cf. *Sukkah* [[Sukkah 52#52b|52b]].
 [^23]: See above, note 18.
 [^24]: I.e., two general types of awe: *yirah tataah*, and *yirah ilaah* (or: *yirat haromemut*), and two general types of love: *ahavah zutta*, and *ahavah rabbah* (or: *ahavah betaanugim)*. See *Likkutei Amarim*, Part I, ch. 40 ff., esp. ch. 43; below, Epistle 15 (and notes 88 ff., ad loc.); and Epistle 18. See also Author’s Introduction to *Likkutei Amarim*, Part I, Part II; and *Hilchot Talmud Torah* 4:6.
 [^25]: The second sorts of awe and love.
 [^26]: *Likkutei Amarim*, Part I, ch. 14; see below, Epistle 18.
 [^27]: [[Torah 38 - Korach#^18-7|Numbers 18:7]].
 [^28]: I.e., the lower levels of awe and love are the sort of service that is earned through man’s efforts. The higher levels are the type of service that is granted as a gift from above.
-[^29]: [[Shabbat 55#55a|*Shabbat* 55a]]; see also *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-2b|I:2b]].
+[^29]: *Shabbat* [[Shabbat 55#55a|55a]]; see also *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-2b|I:2b]].
 [^30]: Cf. [[Jeremiah 10#^10-10|Jeremiah 10:10]] and Jerusalem Talmud, *Sanhedrin* 1:1.
 [^31]: See Maimonides, *Hilchot Yesodei HaTorah* 1:3, 4.—G–d is *emet le’amito*, absolute truth. All other truth is but relative.
 [^32]: See above, note 6.

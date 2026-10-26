@@ -29,7 +29,7 @@ nanu tatra svayaṃvedyabhāvo mantrādyapekṣayā || ^iast
 >
 > (When one says) “I know the jar”, what one is saying is that the jar manifests according to its own nature, uncoloured by (its objective) perceptibility. (Otherwise, one would say: “I see that this jar is visible to me or to someone else”). (with 10.93cd–94ab)
 >
-> (An opponent may object that,) surely, there (in that case), perceptibility (can exist) in itself (svayam) (without being conscious of it), and so too in relation to Maitra’ and others. (with 10.94cd–95a)
+> (An opponent may object that,) surely, there (in that case), perceptibility (can exist) in itself (svayam) (without being conscious of it), and so too in relation to Maitra and others. (with 10.94cd–95a)
 
 ## Viveka
 

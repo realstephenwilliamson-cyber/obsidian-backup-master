@@ -134,7 +134,7 @@ Ye have never envied any one; ye have taught others. Now I desire that those thi
 
 Ye have never envied any one; ye have taught others. Now I desire that those things may be confirmed \[by your conduct\], which in your instructions ye enjoin \[on others\]. Only request in my behalf both inward and outward strength, that I may not only speak, but \[truly\] will, so that I may not merely be called a Christian, but really found to be one. For if I be truly found \[a Christian\], I may also be called one, and be then deemed faithful, when I shall no longer appear to the world. Nothing visible is eternal. “For the things which are seen are temporal, but the things which are not seen are eternal.”<sup>842</sup> The Christian is not the result<sup>843</sup> of persuasion, but of power.<sup>844</sup> When he is
 
-75 Literally, “have to be inscribed to.” 834 Literally, “to be found and sent for.” 835 The text is here in great confusion. 836 Literally, “beautiful.” Some read, “it is good,” etc. 837 Some read, “good.” 838 2 Cor. iv. 18. This quotation is not found in the old Latin version of the shorter recension. 839 Or, “in.” 840 Literally, “work.” 841 2 Cor. iv. 18. This quotation is not found in the old Latin version of the shorter recension. 842 Literally, “work.” 843 The meaning is here doubtful.
+75 Literally, “have to be inscribed to.” 834 Literally, “to be found and sent for.” 835 The text is here in great confusion. 836 Literally, “beautiful.” Some read, “it is good,” etc. 837 Some read, “good.” 838 [[2 Corinthians 04#^4-18|2 Cor. iv. 18]]. This quotation is not found in the old Latin version of the shorter recension. 839 Or, “in.” 840 Literally, “work.” 841 [[2 Corinthians 04#^4-18|2 Cor. iv. 18]]. This quotation is not found in the old Latin version of the shorter recension. 842 Literally, “work.” 843 The meaning is here doubtful.
 
 *[p. 124]* ^pg164
 
@@ -146,7 +146,7 @@ I write to the Churches, and impress on them all, that I shall willingly die for
 
 I write to all the Churches, and impress on them all, that I shall willingly die for God, unless ye hinder me. I beseech of you not to show an unseasonable good-will towards me. Suffer me to become food for the wild beasts, through whose instrumentality it will be granted me to attain to God. I am the wheat of God, and am ground by the teeth of the wild beasts, that I may be found the pure bread of God. Rather entice the wild beasts, that they may become my tomb, and may leave nothing of my body; so that when I have fallen asleep \[in death\], I may not be found troublesome to any one. Then shall I be a true disciple of Jesus Christ, when the world shall not see so much as my body. Entreat the Lord for me, that by these instruments<sup>848</sup> I may be found a sacrifice to God. I do not, as Peter and Paul, issue commandments unto you. They were apostles of Jesus Christ, but I am the very least \[of believers\]: they were free,<sup>849</sup> as the servants of God; while I am, even until now, a servant. But when I suffer, I shall be the freed-man of Jesus Christ, and shall rise again emancipated in Him. And now, being in bonds for Him, I learn not to desire anything worldly or vain.
 
-John xv. 19.
+[[John 15#^15-19|John xv. 19]].
 
 845
 
@@ -174,7 +174,7 @@ dislocations of bones; let cutting off of members; let shatterings of the whole 
 
 From Syria even unto Rome I fight with beasts,<sup>856</sup> both by land and sea, both by night and day, being bound to ten leopards, I mean a band of soldiers, who, even when they receive benefits,<sup>857</sup> show themselves all the worse. But I am the more instructed by their injuries \[to act as a disciple of Christ\]; “yet am I not thereby justified.”<sup>858</sup> May I enjoy the wild beasts that are prepared for me; and I pray that they may be found eager to rush upon me, which also I will entice to devour me speedily, and not deal with me as with some, whom, out of fear, they have not touched. But if they be unwilling to assail me, I will compel them to do so. Pardon me \[in this\] I know what is for my benefit. Now I begin to be a disciple, and have<sup>859</sup> no desire after anything visible or invisible, that I may attain to Jesus Christ. Let fire and the cross; let the crowds of wild beasts; let breakings, tearings, and separations of bones; let cutting off of members; let bruising to pieces of the whole body; and let the very torment of the devil come upon me: only let me attain to Jesus Christ.
 
-Comp. 1 Cor. xv. 32, where the word is also used figuratively.
+Comp. [[1 Corinthians 15#^15-32|1 Cor. xv. 32]], where the word is also used figuratively.
 
 850
 
@@ -182,7 +182,7 @@ Probably the soldiers received gifts from the Christians, to treat Ignatius with
 
 851
 
-1 Cor. iv. 4.
+[[1 Corinthians 04#^4-4|1 Cor. iv. 4]].
 
 852
 
@@ -198,7 +198,7 @@ Literally, “evil.”
 
 855
 
-Comp. 1 Cor. xv. 32, where the word is also used figuratively.
+Comp. [[1 Corinthians 15#^15-32|1 Cor. xv. 32]], where the word is also used figuratively.
 
 856
 
@@ -206,7 +206,7 @@ Probably the soldiers received gifts from the Christians, to treat Ignatius with
 
 857
 
-1 Cor. iv. 4.
+[[1 Corinthians 04#^4-4|1 Cor. iv. 4]].
 
 858
 
@@ -234,7 +234,7 @@ Literally, “into.”
 
 861
 
-Matt. xvi. 26. Some omit this quotation.
+[[Matthew 16#^16-26|Matt. xvi. 26]]. Some omit this quotation.
 
 862
 
@@ -274,13 +274,13 @@ Literally, “desiring material.”
 
 The text and meaning are here doubtful. We have followed Hefele, who understands by the water *the Holy Spirit*, and 868
 
-refers to John vii. 38.
+refers to [[John 07#^7-38|John vii. 38]].
 
 Some understand by *love* in this passage, *Christ Himself*; others regard it as referring to *the natural desires of the heart*.
 
 869
 
-Comp. John iv. 14.
+Comp. [[John 04#^4-14|John iv. 14]].
 
 870
 
@@ -298,7 +298,7 @@ Remember in your prayers the Church which is in Syria, which, instead of me, has
 
 #### Chapter X.—Conclusion.
 
-78 Gal. ii. 20. 872 Ps. cxvi. 12. 873 Comp. 1 Cor. xv. 8, 9. 874 Some refer this to the jurisdiction of Ignatius. 875 i.e., the outward road he had to travel. 876 Or, “have sent me forward;” comp. Tit. iii. 13.
+78 [[Galatians 02#^2-20|Gal. ii. 20]]. 872 Ps. cxvi. 12. 873 Comp. [[1 Corinthians 15#^15-8|1 Cor. xv. 8]], [[1 Corinthians 15#^15-9|9]]. 874 Some refer this to the jurisdiction of Ignatius. 875 i.e., the outward road he had to travel. 876 Or, “have sent me forward;” comp. [[Titus 03#^3-13|Tit. iii. 13]].
 
 *[p. 129]* ^pg169
 
@@ -330,7 +330,7 @@ Having beheld your bishop, I know that he was not selected to undertake the mini
 
 Wherefore, as children of light and truth, flee from division and wicked doctrines; but where the shepherd is, there do ye as sheep follow. For there are many wolves that appear worthy of credit,
 
-80 Comp. Matt. vii. 25. 883 The bishop previously referred to. 884 Comp. Gal. i. 1. 885 Literally, “all.” 886 Comp. Gal. i. 1. 887
+80 Comp. [[Matthew 07#^7-25|Matt. vii. 25]]. 883 The bishop previously referred to. 884 Comp. [[Galatians 01#^1-1|Gal. i. 1]]. 885 Literally, “all.” 886 Comp. [[Galatians 01#^1-1|Gal. i. 1]]. 887
 
 *[p. 131]* ^pg171
 
@@ -344,7 +344,7 @@ Keep yourselves from those evil plants which Jesus Christ does not tend, because
 
 Keep yourselves, then, from those evil plants which Jesus Christ does not tend, but that wild beast, the destroyer of men, because they are not the planting of the Father, but the seed of the wicked one. Not that I have found any division among you do I write these things; but I arm you beforehand, as the children of God. For as many as are of Christ are also with the bishop; but as many as fall away from him, and embrace communion with the accursed, these shall be cut off along with them. For they are not Christ’s husbandry, but the seed of the enemy, from whom may you ever be delivered by the prayers of the shepherd, that most faithful and gentle shepherd who presides over you. I therefore exhort you in the Lord to receive with all tenderness those that repent and return to the unity of the Church, that through your kindness and forbearance they may recover<sup>894</sup> themselves out of the snare of the devil, and becoming worthy of Jesus Christ, may obtain eternal salvation in the kingdom of Christ. Brethren, be not deceived. If any man follows him that separates from the truth, he shall not inherit the kingdom of God; and if any man does not stand aloof from the preacher of falsehood, he shall be condemned to hell. For it is obligatory neither to separate
 
-Comp. 2 Tim. iii. 6. 889 Jer. xxiii. 15. 890 Comp. Matt. vii. 15. 891 Comp. 2 Tim. iii. 6. 892 i.e., heretical. 893 2 Tim. ii. 26.
+Comp. [[2 Timothy 03#^3-6|2 Tim. iii. 6]]. 889 Jer. xxiii. 15. 890 Comp. [[Matthew 07#^7-15|Matt. vii. 15]]. 891 Comp. [[2 Timothy 03#^3-6|2 Tim. iii. 6]]. 892 i.e., heretical. 893 [[2 Timothy 02#^2-26|2 Tim. ii. 26]].
 
 *[p. 132]* ^pg172
 
@@ -356,13 +356,13 @@ Take ye heed, then, to have but one Eucharist. For there is one flesh of our Lor
 
 I have confidence of you in the Lord, that ye will be of no other mind. Wherefore I write boldly to your love, which is worthy of God, and exhort you to have but one faith, and one \[kind of\] preaching, and one Eucharist. For there is one flesh of the Lord Jesus Christ; and His blood which was shed for us is one; one loaf also is broken to all \[the communicants\], and one cup is distributed among them all: there is but one altar for the whole Church, and one bishop, with the presbytery and deacons, my fellow-servants. Since, also, there is but one unbegotten Being, God, even the
 
-81 i.e., heretical. 895 Comp. Cant. ii. 15. 896 Comp. 1 Cor. v. 11. 897 Deut. xiii. 6, 18. 898 Ps. cxix. 21. 899 1 Thess. iv. 5. 900 1 Tim. ii. 4. 901 Matt. v. 45. 902 Matt. v. 48. 903 Literally, “into.”
+81 i.e., heretical. 895 Comp. Cant. ii. 15. 896 Comp. [[1 Corinthians 05#^5-11|1 Cor. v. 11]]. 897 Deut. xiii. 6, 18. 898 Ps. cxix. 21. 899 [[1 Thessalonians 04#^4-5|1 Thess. iv. 5]]. 900 [[1 Timothy 02#^2-4|1 Tim. ii. 4]]. 901 [[Matthew 05#^5-45|Matt. v. 45]]. 902 [[Matthew 05#^5-48|Matt. v. 48]]. 903 Literally, “into.”
 
 *[p. 133]* ^pg173
 
 Father; and one only-begotten Son, God, the Word and man; and one Comforter, the Spirit of truth; and also one preaching, and one faith, and one baptism;<sup>905</sup> and one Church which the holy apostles established from one end of the earth to the other by the blood of Christ, and by their own sweat and toil; it behoves you also, therefore, as “a peculiar people, and a holy nation,”<sup>906</sup> to perform all things with harmony in Christ. Wives, be ye subject to your husbands in the fear of God;<sup>907</sup> and ye virgins, to Christ in purity, not counting marriage an abomination, but desiring that which is better, not for the reproach of wedlock, but for the sake of meditating on the law. Children, obey your parents, and have an affection for them, as workers together with God for your birth \[into the world\]. Servants, be subject to your masters in God, that ye may be the freed-men of Christ.<sup>908</sup> Husbands, love your wives, as fellow-servants of God, as your own body, as the partners of your life, and your co-adjutors in the procreation of children. Virgins, have Christ alone before your eyes, and His Father in your prayers, being enlightened by the Spirit. May I have pleasure in your purity, as that of Elijah, or as of Joshua the son of Nun, as of Melchizedek, or as of Elisha, as of Jeremiah, or as of John the Baptist, as of the beloved disciple, as of Timothy, as of Titus, as of Evodius, as of Clement, who departed this life in \[perfect\] chastity,<sup>909</sup> Not, however, that I blame the other blessed \[saints\] because they entered into the married state, of which I have just spoken.<sup>910</sup> For I pray that, being found worthy of God, I may be found at their feet in the kingdom, as at the feet of Abraham, and Isaac, and Jacob; as of Joseph, and Isaiah, and the rest of the prophets; as of Peter, and Paul, and the rest of the apostles, that were married men. For they entered into these marriages not for the sake of appetite, but out of regard for the propagation of mankind. Fathers, “bring up your children in the nurture and admonition of the Lord;”<sup>911</sup> and teach them the holy Scriptures, and also trades, that they may not indulge in idleness. Now \[the Scripture\] says, “A righteous father educates \[his children\] well; his heart shall rejoice in a wise son.”<sup>912</sup> Masters, be gentle towards your servants, as holy Job has taught you;<sup>913</sup> for there is one nature, and one family of mankind. For “in Christ there is neither bond nor free.”<sup>914</sup> Let governors be obedient to Cæsar; soldiers to those that command them; deacons to the presbyters, as to high-priests; the presbyters, and deacons, and the rest of the clergy, together with all the people, and the soldiers, and the governors, and Cæsar \[himself\], to
 
-Eph. iv. 5. 905 Tit. ii. 14; 1 Pet. ii. 9 906 Eph. v. 22. 907 1 Cor. vii. 22. 908 There was a prevalent opinion among the ancient Christian writers, that all these holy men lived a life of \[chaste\] celibacy. 909 Or, “it is not because, etc., that I have mentioned these.” 910 Eph. vi. 4. 911 Prov. xxiii. 24. 912 Job xxxi. 13, 15. 913 Gal. iii. 28.
+[[Ephesians 04#^4-5|Eph. iv. 5]]. 905 [[Titus 02#^2-14|Tit. ii. 14]]; [[1 Peter 02#^2-9|1 Pet. ii. 9]] 906 [[Ephesians 05#^5-22|Eph. v. 22]]. 907 [[1 Corinthians 07#^7-22|1 Cor. vii. 22]]. 908 There was a prevalent opinion among the ancient Christian writers, that all these holy men lived a life of \[chaste\] celibacy. 909 Or, “it is not because, etc., that I have mentioned these.” 910 [[Ephesians 06#^6-4|Eph. vi. 4]]. 911 Prov. xxiii. 24. 912 Job xxxi. 13, 15. 913 [[Galatians 03#^3-28|Gal. iii. 28]].
 
 *[p. 134]* ^pg174
 
@@ -380,7 +380,7 @@ My brethren, I am greatly enlarged in loving you; and rejoicing exceedingly \[ov
 
 915
 
-Phil. ii. 25.
+[[Philippians 02#^2-25|Phil. ii. 25]].
 
 916
 
@@ -450,7 +450,7 @@ Comp. John viii 44.
 
 930
 
-Comp. the reading sanctioned by the ancient authorities, John i. 18.
+Comp. the reading sanctioned by the ancient authorities, [[John 01#^1-18|John i. 18]].
 
 *[p. 136]* ^pg176
 
@@ -472,7 +472,7 @@ Literally, “the end of happiness.”
 
 934
 
-Comp. Eph. ii. 2.
+Comp. [[Ephesians 02#^2-2|Eph. ii. 2]].
 
 935
 
@@ -484,7 +484,7 @@ Some render, “come together into the same place.”
 
 937
 
-Phil. ii. 2.
+[[Philippians 02#^2-2|Phil. ii. 2]].
 
 938
 
@@ -512,7 +512,7 @@ Literally, “your flesh.”
 
 942
 
-Comp. 1 Cor. iii. 16, 1 Cor. vi. 19.
+Comp. [[1 Corinthians 03#^3-16|1 Cor. iii. 16]], [[1 Corinthians 06#^6-19|1 Cor. vi. 19]].
 
 943
 
@@ -552,7 +552,7 @@ Comp. Isa. lviii. 6.
 
 950
 
-Phil. ii. 3.
+[[Philippians 02#^2-3|Phil. ii. 3]].
 
 951
 
@@ -560,7 +560,7 @@ Or, “the archives of the Spirit are not exposed to all.”
 
 952
 
-Acts xxvi. 14.
+[[Acts 26#^26-14|Acts xxvi. 14]].
 
 953
 
@@ -572,7 +572,7 @@ Literally, “proclaimed as to him.”
 
 955
 
-The meaning is doubtful. Comp. 2 Tim. i. 10.
+The meaning is doubtful. Comp. [[2 Timothy 01#^1-10|2 Tim. i. 10]].
 
 956
 
@@ -590,11 +590,11 @@ Since, according to your prayers, and the compassion which ye feel in Christ Jes
 
 Since, according to your prayers, and the compassion which ye feel in Christ Jesus, it is reported to me that the Church which is at Antioch in Syria possesses peace, it will become you, as a Church of God, to elect a bishop to act as the ambassador of God \[for you\] to \[the brethren\] there, that it may be granted them to meet together, and to glorify the name of God. Blessed is he in Christ Jesus, who shall be deemed worthy of such a ministry; and if ye be zealous \[in this matter\], ye shall receive glory in Christ. And if ye are willing, it is not altogether beyond your power to do this, for the sake
 
-John xiv. 6.
+[[John 14#^14-6|John xiv. 6]].
 
 958
 
-1 Cor. x. 4.
+[[1 Corinthians 10#^10-4|1 Cor. x. 4]].
 
 959
 
@@ -602,11 +602,11 @@ Literally, “the hedge.”
 
 960
 
-John x. 11.
+[[John 10#^10-11|John x. 11]].
 
 961
 
-John x. 9.
+[[John 10#^10-9|John x. 9]].
 
 962
 
@@ -614,7 +614,7 @@ Gen. xlix. 10.
 
 963
 
-Matt. xxviii. 19.
+[[Matthew 28#^28-19|Matt. xxviii. 19]].
 
 964
 
@@ -634,7 +634,7 @@ The Epistle of Ignatius to the Smyrnæans
 
 ### Epistle to the Smyrnæans: Shorter and Longer Versions
 
-86 Literally, “for the name of.” 966 Literally, “bidding farewell to.” 967 Or, “for the sake of honour.” 968 Literally, “bidding farewell to.” 969 Comp. Ezek. xviii. 23, 32, Ezek. xxxiii. 11; 2 Pet. iii. 9. 970 The ms. has “Burgus.” 971 Or, “for the sake of honour.”
+86 Literally, “for the name of.” 966 Literally, “bidding farewell to.” 967 Or, “for the sake of honour.” 968 Literally, “bidding farewell to.” 969 Comp. Ezek. xviii. 23, 32, Ezek. xxxiii. 11; [[2 Peter 03#^3-9|2 Pet. iii. 9]]. 970 The ms. has “Burgus.” 971 Or, “for the sake of honour.”
 
 *[p. 141]* ^pg181
 
@@ -656,7 +656,7 @@ Literally, “holy-bearing.”
 
 974
 
-Rom. i. 3.
+[[Romans 01#^1-3|Rom. i. 3]].
 
 975
 
@@ -664,7 +664,7 @@ Theodoret, in quoting this passage, reads, “the Godhead and power.”
 
 976
 
-Matt. iii. 15.
+[[Matthew 03#^3-15|Matt. iii. 15]].
 
 977
 
@@ -676,7 +676,7 @@ Isa. v. 26, Isa. xlix. 22.
 
 979
 
-Col. i. 15.
+[[Colossians 01#^1-15|Col. i. 15]].
 
 980
 
@@ -694,7 +694,7 @@ Now, He suffered all these things for us; and He suffered them really, and not i
 
 #### Chapter III.—Christ was possessed of a body after His resurrection.
 
-Matt. iii. 15.
+[[Matthew 03#^3-15|Matt. iii. 15]].
 
 982
 
@@ -706,15 +706,15 @@ Or, “seeing that they are phantasmal and diabolical,” as some render, but th
 
 984
 
-John i. 14.
+[[John 01#^1-14|John i. 14]].
 
 985
 
-John ii. 19.
+[[John 02#^2-19|John ii. 19]].
 
 986
 
-John xii. 32.
+[[John 12#^12-32|John xii. 32]].
 
 987
 
@@ -722,7 +722,7 @@ Prov. ix. 1.
 
 988
 
-Num. xxi. 9; John iii. 14.
+Num. xxi. 9; [[John 03#^3-14|John iii. 14]].
 
 *[p. 143]* ^pg183
 
@@ -736,31 +736,31 @@ Literally, “in the flesh.”
 
 990
 
-Literally, “demon.” According to Jerome, this quotation is from the Gospel of the Nazarenes. Comp. Luke xxiv. 39. 991
+Literally, “demon.” According to Jerome, this quotation is from the Gospel of the Nazarenes. Comp. [[Luke 24#^24-39|Luke xxiv. 39]]. 991
 
 Literally, “above death.”
 
 992
 
-Literally, “demon.” According to Jerome, this quotation is from the Gospel of the Nazarenes. Comp. Luke xxiv. 39. 993
+Literally, “demon.” According to Jerome, this quotation is from the Gospel of the Nazarenes. Comp. [[Luke 24#^24-39|Luke xxiv. 39]]. 993
 
-Luke xxiv. 39.
+[[Luke 24#^24-39|Luke xxiv. 39]].
 
 994
 
-John xx. 27.
+[[John 20#^20-27|John xx. 27]].
 
 995
 
-John xx. 28.
+[[John 20#^20-28|John xx. 28]].
 
 996
 
-Acts i. 11.
+[[Acts 01#^1-11|Acts i. 11]].
 
 997
 
-Rev. i. 7.
+[[Revelation 01#^1-7|Rev. i. 7]].
 
 998
 
@@ -786,11 +786,11 @@ But I guard you beforehand from these beasts in the shape of men, from whom you 
 
 Some ignorantly<sup>1003</sup> deny Him, or rather have been denied by Him, being the advocates of death rather than of the truth. These persons neither have the prophets persuaded, nor the law of Moses, nor the Gospel even to this day, nor the sufferings we have individually endured. For they think also the same thing regarding us.<sup>1004</sup> For what does any one profit me, if he commends me, but blasphemes my Lord, not confessing that He was \[truly\] possessed of a body?<sup>1005</sup> But he who does not acknowledge this, has in fact altogether denied Him, being enveloped in death.<sup>1006</sup> I have not, however, thought good to write the names of such persons, inasmuch as they are unbelievers. Yea, far be it from me to make any mention of them, until they repent and return to \[a true belief in\] Christ’s passion, which is our resurrection.
 
-Comp. Rom. viii. 17.
+Comp. [[Romans 08#^8-17|Rom. viii. 17]].
 
 1001
 
-Comp. Phil. iv. 13.
+Comp. [[Philippians 04#^4-13|Phil. iv. 13]].
 
 1002
 
@@ -832,7 +832,7 @@ Literally, “judgment is to them.”
 
 1009
 
-Matt. xix. 12.
+[[Matthew 19#^19-12|Matt. xix. 12]].
 
 1010
 
@@ -840,7 +840,7 @@ Literally, “the whole is.”
 
 1011
 
-Matt. xix. 12.
+[[Matthew 19#^19-12|Matt. xix. 12]].
 
 1012
 
@@ -858,7 +858,7 @@ They abstain from the Eucharist and from prayer,<sup>1016</sup> because they con
 
 They are ashamed of the cross; they mock at the passion; they make a jest of the resurrection. They are the offspring of that spirit who is the author of all evil, who led Adam,<sup>1021</sup> by means of his wife, to transgress the commandment, who slew Abel by the hands of Cain, who fought against Job, who was the accuser of Joshua<sup>1022</sup> the son of Josedech, who sought to “sift the faith”<sup>1023</sup> of the apostles, who stirred up the multitude of the Jews against the Lord, who also now “worketh in the children of disobedience;<sup>1024</sup> from whom the Lord Jesus Christ will deliver us, who prayed that the faith of the apostles might not fail,<sup>1025</sup> not because He was not able of Himself to preserve it, but because He rejoiced in the pre-eminence of the Father. It is fitting, therefore, that ye should keep
 
-John xiii. 34; Matt. xxii. 40.
+[[John 13#^13-34|John xiii. 34]]; [[Matthew 22#^22-40|Matt. xxii. 40]].
 
 1015
 
@@ -890,11 +890,11 @@ Zech. iii. 1.
 
 1022
 
-Luke xxii. 31.
+[[Luke 22#^22-31|Luke xxii. 31]].
 
 1023
 
-Eph. ii. 2.
+[[Ephesians 02#^2-2|Eph. ii. 2]].
 
 1024
 
@@ -962,7 +962,7 @@ Prov. xxiv. 21.
 
 1036
 
-Comp. Heb. x. 29.
+Comp. [[Hebrews 10#^10-29|Heb. x. 29]].
 
 1037
 
@@ -984,7 +984,7 @@ Ye have done well in receiving Philo, and Gaius, and Agathopus, who, being the s
 
 Your prayer has reached to the Church which is at Antioch in Syria. Coming from that place bound with chains, most acceptable to God,<sup>1045</sup> I salute all; I who am not worthy to be styled from thence, inasmuch as I am the least of them. Nevertheless, according to the will of God, I have been thought worthy \[of this honour\], not that I have any sense<sup>1046</sup> \[of having deserved it\], but by the grace of God, which I wish may be perfectly given to me, that through your prayers I may attain to God. In order, therefore, that your work may be complete both on earth and in heaven, it is fitting
 
-Matt. x. 41.
+[[Matthew 10#^10-41|Matt. x. 41]].
 
 1039
 
@@ -1000,7 +1000,7 @@ Or, “deacons.”
 
 1042
 
-2 Tim. i. 18.
+[[2 Timothy 01#^1-18|2 Tim. i. 18]].
 
 1043
 
@@ -1122,7 +1122,7 @@ Or, “tolerate.”
 
 1064
 
-Comp. 1 Thess. v. 17.
+Comp. [[1 Thessalonians 05#^5-17|1 Thess. v. 17]].
 
 1065
 
@@ -1138,7 +1138,7 @@ Or, “tolerate.”
 
 1068
 
-Comp. 1 Thess. v. 17.
+Comp. [[1 Thessalonians 05#^5-17|1 Thess. v. 17]].
 
 *[p. 153]* ^pg193
 
@@ -1156,7 +1156,7 @@ Some read, “according to thy practice.”
 
 1070
 
-Matt. viii. 17.
+[[Matthew 08#^8-17|Matt. viii. 17]].
 
 1071
 
@@ -1164,7 +1164,7 @@ Literally, “paroxysms by embrocations.”
 
 1072
 
-Matt. x. 16.
+[[Matthew 10#^10-16|Matt. x. 16]].
 
 1073
 
@@ -1202,7 +1202,7 @@ Comp. Epistle of Ignatius to the Ephesians, chap. xxi., etc.
 
 1079
 
-Comp. 1 Tim. i. 3, 1 Tim. vi. 3.
+Comp. [[1 Timothy 01#^1-3|1 Tim. i. 3]], [[1 Timothy 06#^6-3|1 Tim. vi. 3]].
 
 1080
 
@@ -1210,7 +1210,7 @@ Literally, “great.”
 
 1081
 
-Comp. 1 Tim. i. 3, 1 Tim. vi. 3.
+Comp. [[1 Timothy 01#^1-3|1 Tim. i. 3]], [[1 Timothy 06#^6-3|1 Tim. vi. 3]].
 
 1082
 
@@ -1260,7 +1260,7 @@ Some insert μή, and render, “rather do not even speak of them.”
 
 1091
 
-Eph. v. 25.
+[[Ephesians 05#^5-25|Eph. v. 25]].
 
 1092
 
@@ -1272,7 +1272,7 @@ Some render, “to the honour of the flesh of the Lord,” as in the longer rece
 
 1094
 
-Comp. 1 Cor. x. 31.
+Comp. [[1 Corinthians 10#^10-31|1 Cor. x. 31]].
 
 *[p. 156]* ^pg196
 
@@ -1292,7 +1292,7 @@ Literally, “if he be known beyond the bishop.”
 
 1097
 
-Comp. 1 Cor. x. 31.
+Comp. [[1 Corinthians 10#^10-31|1 Cor. x. 31]].
 
 1098
 

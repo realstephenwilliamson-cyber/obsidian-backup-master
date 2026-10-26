@@ -20,16 +20,12 @@ nyasa: "ta: left hip (*kaṭi*), twice"
 ## Front
 
 - **Glyph:** त्त
-- **Variation:** —
 - **Example:** दत्त
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘datta’ (given)
-- **Class (as printed):** —
-- **Grid:** the five rows of stops + य र ल व + श ष स ह; in bold: त
-- **Example:** datta (given)
+> [!note]- Back
+> - **Pronunciation:** As in ‘datta’ (given)
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / <u>त</u> थ द ध न / प फ ब भ म / य र ल व / श ष स ह
+> - **Example:** datta (given)
 
 ## Register
 

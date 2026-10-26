@@ -224,7 +224,7 @@ Yet be not thou deceived; for underneath There is a throne and place of judgment
 
 And Euripides:<sup>2603</sup>—“Not grudgingly he gives a lease of life,
 
-\[Langus compares 2 Pet. iii. 7.\] 2600 2601
+\[Langus compares [[2 Peter 03#^3-7|2 Pet. iii. 7]].\] 2600 2601
 
 Some propose to insert these three lines in the centre of the next quotation from Philemon, after the line, “Nay, there’s an eye,” etc.
 
@@ -377,7 +377,7 @@ The word of truth is free, and carries its own authority, disdaining to fall und
 
 294 *Odyssey*, xxii. 347.
 
-261\. 2 \[N. B.—This tractate is probably the genuine work of Justin.\] 295 Mark xii. 25.
+261\. 2 \[N. B.—This tractate is probably the genuine work of Justin.\] 295 [[Mark 12#^12-25|Mark xii. 25]].
 
 
 *[p. 2614]* ^pg530
@@ -396,7 +396,7 @@ They say, then, if the body shall rise entire, and in possession of all its memb
 
 That is to say, their lives are a protest against entering into marriage for any other purpose than that of begetting children. 2615
 
-i.e., to the devil. \[St. John xii. 31, John xiv. 30, John xvi. 11.\] 2616
+i.e., to the devil. \[St. [[John 12#^12-31|John xii. 31]], [[John 14#^14-30|John xiv. 30]], [[John 16#^16-11|John xvi. 11]].\] 2616
 
 *[PDF 532]* ^pg532
 
@@ -455,7 +455,7 @@ Gen. ii. 7.
 
 2629
 
-Mark ii. 17.
+[[Mark 02#^2-17|Mark ii. 17]].
 
 *[PDF 536]* ^pg536
 
@@ -483,9 +483,9 @@ If He had no need of the flesh, why did He heal it? And what is most forcible of
 
 The resurrection is a resurrection of the flesh which died. For the spirit dies not; the soul is in the body, and without a soul it cannot live. The body, when the soul forsakes it, is not. For the body is the house of the soul; and the soul the house of the spirit. These three, in all those who cherish a sincere hope and unquestioning faith in God, will be saved. Considering, therefore, even such arguments as are suited to this world, and finding that, even according to them, it is not impossible that the flesh be regenerated; and seeing that, besides all these proofs, the Saviour in the whole Gospel shows that there is salvation for the flesh, why do we any longer endure those unbelieving and dangerous arguments, and fail to see that we are retrograding when we listen to such an argument as this: that the soul is immortal, but the body mortal, and incapable of being revived? For this we used to hear from Pythagoras and Plato, even before we learned the truth. If then the Saviour said this, and proclaimed salvation to the soul alone, what new thing, beyond what we heard from Pythagoras and Plato and all their band, did He bring us? But now He has come proclaiming the glad tidings of a new and strange hope to men. For indeed it was a strange and new thing for God to promise that He would not keep incorruption in incorruption, but would make corruption
 
-299 Comp. Luke xxiv. 32, etc.
+299 Comp. [[Luke 24#^24-32|Luke xxiv. 32]], etc.
 
-263\. 3 Acts i. 9.
+263\. 3 [[Acts 01#^1-9|Acts i. 9]].
 
 
 *[p. 498]* ^pg538
@@ -721,4 +721,4 @@ Rusticus the prefect pronounced sentence, saying, “Let those who have refused 
 
 \[This wholesale sentence implies a great indifference to the probable Roman citizenship of some of them, if not our heroic 2648
 
-martyr himself; but Acts xxii. 25–29 seems to allow that the condemned were not protected by the law.\]
+martyr himself; but [[Acts 22#^22-25|Acts xxii. 25–29]] seems to allow that the condemned were not protected by the law.\]

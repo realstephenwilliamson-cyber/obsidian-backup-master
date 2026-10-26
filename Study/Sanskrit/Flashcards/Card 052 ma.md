@@ -20,16 +20,13 @@ nyasa: "heart (*hṛd*)"
 ## Front
 
 - **Glyph:** म
-- **Variation:** —
 - **Example:** मनस्
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘aro<u>m</u>a’
-- **Class (as printed):** 5 (labial) · soft · nasal
-- **Grid:** the five rows of stops; in bold: म
-- **Example:** manas (mind)
+> [!note]- Back
+> - **Pronunciation:** As in ‘aro<u>m</u>a’
+> - **Class:** labial · soft · nasal
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ <u>म</u>
+> - **Example:** manas (mind)
 
 ## Register
 

@@ -133,14 +133,14 @@ What is implied? Of the nine impure [days]: Seven of them are her "days of *nidd
 What is implied? If there are ten impure days, seven of them are days of *niddah* and three days of *zivah*. [Therefore on] her ten pure days, she must count seven and may engage in relations on three. Thus there will be three days when she may engage in relations and three days of *zivah*. Similarly, when she is impure for 100 days and pure for 100 days. The first seven are days of *niddah* and the following 93 [start on] her "days of *zivah*." Hence, of her 100 pure days, seven must be counted and she may engage in relations on 93 of them. Similar principles apply with regard to 1000 days or any other number of days. ^7-24
 
 [^1]: This law applied in the Talmudic era. As explained in Chapter 11, in subsequent generations, Jewish women accepted further stringencies upon themselves and such bleeding was considered as impure.
-[^2]: Even though there are only eleven "days of *zivah* and thus some of this bleeding must come during her "days of *niddah*," since the bleeding began during the "days of *zivah*," she is granted an additional leniency. [[Niddah 38#38b|*Niddah* 38b]] derives this concept through Biblical exegesis.
+[^2]: Even though there are only eleven "days of *zivah* and thus some of this bleeding must come during her "days of *niddah*," since the bleeding began during the "days of *zivah*," she is granted an additional leniency. *Niddah* [[Niddah 38#38b|38b]] derives this concept through Biblical exegesis.
 [^3]: As explained in Halachot 5-7.
 [^4]: I.e., the bleeding is considered as ordinary "blood of *zivah*."
 [^5]: As explained in Halachot 5-7.
 [^6]: From the following halachah, the intent appears to be "on the next day," i.e., on the fourth day of this sequence.
 [^7]: As indicated by the general principle the Rambam cites. If the bleeding before birth is not accompanied by pain, it is not coming as a result of the birth.
 [^8]: Since she gave birth on that day, she certainly experienced difficulty on it. For it is impossible to give birth without difficulty. Hence, the bleeding on the third day is attributed to the birth (*Kiryat Sefer*).
-[^9]: We are not sure if she discharged a fetus without bleeding or merely an extensive amount of bleeding. See [[Niddah 21#21b|*Niddah* 21b]]. This reinforces the position that it is possible for the uterus to open without bleeding.
+[^9]: We are not sure if she discharged a fetus without bleeding or merely an extensive amount of bleeding. See *Niddah* [[Niddah 21#21b|21b]]. This reinforces the position that it is possible for the uterus to open without bleeding.
 [^10]: In which instance, she is impure because of the birth. She must, however, count one "spotless" day before immersing herself, because of the two days on which she experienced bleeding.
 [^11]: I.e., seven days without uterine bleeding. This is extremely rare after birth. Hence it is undesirable for a woman to be given this status.
 [^12]: She must immerse herself on the fifteenth night. For within the fourteen days, she is considered as a *niddah* and her immersion is of no consequence (*Kessef Mishneh*).
@@ -154,20 +154,20 @@ What is implied? If there are ten impure days, seven of them are days of *niddah
 [^20]: See *Hilchot Mitamei Mishkav UMoshav* 5:2.
 [^21]: I.e., bleeding which precedes miscarriage renders a woman impure, while bleeding in the throes of childbirth does not.
 [^22]: The Rambam's ruling is based on the concept that since this blood is not impure, there is no reason why it should interrupt her counting. It is only impure bleeding that nullifies a woman's calculations.  
-    The Ra'avad and others differ with the Rambam's ruling, explaining (based on [[Niddah 37#37a|*Niddah* 37a]]) that although the blood that precedes childbirth does not nullify a woman's counting, since she sights bleeding on these days, they cannot be considered as "spotless" days and therefore are not included in her reckoning.
+    The Ra'avad and others differ with the Rambam's ruling, explaining (based on *Niddah* [[Niddah 37#37a|37a]]) that although the blood that precedes childbirth does not nullify a woman's counting, since she sights bleeding on these days, they cannot be considered as "spotless" days and therefore are not included in her reckoning.
 [^23]: Provided she does not discover bleeding on them. If, however, she discovers bleeding, as stated in the following halachah, her counting is not nullified, but the days cannot be counted as "spotless," because this blood is impure (*Maggid Mishneh*).
 [^24]: An affliction which is popularly - though incorrectly - translated as leprosy. See Leviticus ch. 13 and *Hilchot Tumat Tzara'at*.
 [^25]: With this statement, the Rambam is implying two points:  
     a) as mentioned above, a woman returns to her cycle of *niddah* at the advent of the appropriate day, regardless of whether she has counted seven "spotless" days or not.  
     b) The seven "spotless" days need not be consecutive.  
     As mentioned in Chapter 6, the Ramban and others differ with the Rambam concerning these points (*Maggid Mishneh*). To reiterate, none of these points are at all relevant in the present day. For, as will be explained in ch. 11, from the late Talmudic era onward, Jewish women accepted the practice of counting seven "spotless" days after any and all uterine bleeding.
-[^26]: [[Niddah 38#38a|*Niddah* 38a]]. By quoting this and the other instances mentioned until the end of the chapter, the Rambam is also supporting his interpretation of "the days of *niddah*" and "the days of *zivah*," explaining these passages according to his conception of these principles.
+[^26]: *Niddah* [[Niddah 38#38a|38a]]. By quoting this and the other instances mentioned until the end of the chapter, the Rambam is also supporting his interpretation of "the days of *niddah*" and "the days of *zivah*," explaining these passages according to his conception of these principles.
 [^27]: I.e., the tenth and eleventh days of the days of *zivah*.
 [^28]: From this, we see that the three days of *zivah* bleeding must be consecutive. If they are interrupted by other days, even by days on which the woman suffers uterine bleeding, she is not considered as a *zavah*.
 [^29]: Between sunset and nightfall, at which time, there is, as explained above, a doubt whether it should be considered part of the previous day or the coming day.
 [^30]: Chapter 4, Halachah 6; Chapter 6, Halachot 9-11.
 [^31]: Provided of course, the bleeding ceases before nightfall.
-[^32]: [[Niddah 54#54a|*Niddah* 54a]].
+[^32]: *Niddah* [[Niddah 54#54a|54a]].
 [^33]: For as stated in the previous halachah, a woman may immerse herself and engage in relations directly after her "days of *niddah*" even if she discovered bleeding on the last day.
 [^34]: I.e., the nights, but not the days.
 [^35]: After eighteen days, the entire cycle repeats itself for her "days of *niddah*" begin again.
@@ -189,7 +189,7 @@ What is implied? If there are ten impure days, seven of them are days of *niddah
 [^50]: For the first two days are "days of *niddah*" that where preceded by days on which she discovered bleeding. Hence she is forbidden to engage in relations on them.
 [^51]: For as stated above, every eighteen weeks, she returns to her original cycle.
 [^52]: A day and a fraction less.
-[^53]: [[Niddah 54#54a|*Niddah* 54a]]. This represents the Rambam's understanding of that passage. As the *Maggid Mishneh* relates, the Ramban has a different conception of the meaning of "days of *niddah*" and "days of *zivah*." According to his conception, our Sages' words can be interpreted exactly."
+[^53]: *Niddah* [[Niddah 54#54a|54a]]. This represents the Rambam's understanding of that passage. As the *Maggid Mishneh* relates, the Ramban has a different conception of the meaning of "days of *niddah*" and "days of *zivah*." According to his conception, our Sages' words can be interpreted exactly."
 [^54]: The *Maggid Mishneh* notes that there is a difficulty, because the cycle does not renew itself after 48 days. Instead, it is not until 144 days that the cycle is renewed. Again, it is because of his interpretation of "days of *niddah*" and "days of *zivah*" that he somewhat contorts the interpretation of *Niddah, loc. cit.*. The *Maggid Mishneh* notes that in this instance as well, the interpretation of the Ramban leads to a straightforward explanation of that passage.
 [^55]: Hence she may not engage in relations on it. It nevertheless serves as a "spotless" day to release the prohibition from the two days of *zivah* bleeding.
 [^56]: In truth in the first 48 out of 144 as stated above.

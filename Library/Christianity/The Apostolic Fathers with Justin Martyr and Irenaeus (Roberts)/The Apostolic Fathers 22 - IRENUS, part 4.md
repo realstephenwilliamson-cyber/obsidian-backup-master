@@ -36,7 +36,7 @@ describe an Æon produced by Him as being passible; and while they ascribe the s
 
 8\. It cannot therefore longer be held, as these men teach, that Logos, as occupying the third place in generation, was ignorant of the Father. Such a thing might indeed perhaps be deemed probable in the case of the generation of human beings, inasmuch as these frequently know nothing of their parents; but it is altogether impossible in the case of the Logos of the Father. For if, existing in the Father, he knows Him in whom he exists—that is, is not ignorant of himself—then those productions which issue from him being his powers (faculties), and always present with him, will
 
-1 Cor. xv. 41.
+[[1 Corinthians 15#^15-41|1 Cor. xv. 41]].
 
 3075
 
@@ -56,7 +56,7 @@ not be ignorant of him who emitted them, any more than rays \[may be supposed to
 
 10\. But, ye miserable sophists, how could the Nous of the Father, or rather the very Father Himself, since He is Nous and perfect in all things, have produced his own Logos as an imperfect and blind Æon, when He was able also to produce along with him the knowledge of the Father?
 
-383 Some read “cæcutientes” instead of “circumeuntes,” as above. 3078 John ix. 1, etc. 3079 1 Pet. i. 12.
+383 Some read “cæcutientes” instead of “circumeuntes,” as above. 3078 [[John 09#^9-1|John ix. 1]], etc. 3079 [[1 Peter 01#^1-12|1 Pet. i. 12]].
 
 *[PDF 671]* ^pg671
 
@@ -86,7 +86,7 @@ also on account of His infinite love to have preserved those impassible who were
 
 3\. How then could the Enthymesis separately conceive passions, which themselves also were her affections? For affection is necessarily connected with an individual: it cannot come into being or exist apart by itself. This opinion \[of theirs\], however, is not only untenable, but also opposed to that which was spoken by our Lord: “Seek, and ye shall find.”<sup>3084</sup> For the Lord renders His disciples perfect by their seeking after and finding the Father; but that Christ of theirs, who is above, has rendered them perfect, by the fact that He has commanded the Æons not to seek after the Father, persuading them that, though they should labour hard, they would not find Him. And they<sup>3085</sup> declare that they themselves are perfect, by the fact that they maintain they have found their Bythus; while
 
-384 Matt. vii. 7. 3084 It seems necessary to read “se quidem” instead of “si quidem,” as in the mss.
+384 [[Matthew 07#^7-7|Matt. vii. 7]]. 3084 It seems necessary to read “se quidem” instead of “si quidem,” as in the mss.
 
 *[p. 3087]* ^pg673
 
@@ -124,7 +124,7 @@ form, and imperfect; and that it was deposited in the Demiurge without his knowl
 
 3\. And that they are the truly “spiritual,” inasmuch as a certain particle of the Father of the universe has been deposited in their souls, since, according to their assertions, they have souls formed of the same substance as the Demiurge himself, yet that he, although he received from the Mother, once for all, the whole \[of the divine\] seed, and possessed it in himself, still remained of an animal nature, and had not the slightest understanding of those things which are above, which things they boast that they themselves understand, while they are still on earth;—does not this crown all possible absurdity? For to imagine that the very same seed conveyed knowledge and perfection to the souls of these men, while it only gave rise to ignorance in the God who made them, is an opinion that can be held only by those utterly frantic, and totally destitute of common sense.
 
-386 Matt. xii. 36. \[The serious spirit of this remark lends force to it as exposition.\] 3088 Comp. i. 6, 1.
+386 [[Matthew 12#^12-36|Matt. xii. 36]]. \[The serious spirit of this remark lends force to it as exposition.\] 3088 Comp. i. 6, 1.
 
 *[PDF 676]* ^pg676
 
@@ -154,9 +154,9 @@ here below. For it is not we who benefit it, but it that improves us.
 
 As Massuet here remarks, we may infer from this passage that Irenæus believed souls to be corporeal, as being possessed 3093
 
-of a definite form,—an opinion entertained by not a few of the ancients. \[And, before we censure them, let us reflect whether their perceptions of “the carnal mind” as differing from the spirit of a man, may not account for it. 1 Thess. v. 23.\]
+of a definite form,—an opinion entertained by not a few of the ancients. \[And, before we censure them, let us reflect whether their perceptions of “the carnal mind” as differing from the spirit of a man, may not account for it. [[1 Thessalonians 05#^5-23|1 Thess. v. 23]].\]
 
-Comp. 1 Cor. xv. 44; 2 Cor. v. 4. \[As a Catholic I cannot accept everything contained in the *Biblical Psychology* of Dr.
+Comp. [[1 Corinthians 15#^15-44|1 Cor. xv. 44]]; [[2 Corinthians 05#^5-4|2 Cor. v. 4]]. \[As a Catholic I cannot accept everything contained in the *Biblical Psychology* of Dr.
 
 3094
 
@@ -166,7 +166,7 @@ The meaning apparently is, that by the high position which all these in common o
 
 the principles of the heretics, to belong to the favoured “seed,” and should therefore have eagerly have welcomed the Lord. Or the meaning may be, “hurrying together to that relationship,” that is, to the relationship secured by faith in Christ.
 
-1 Cor. i. 26, 28, somewhat loosely quoted.
+[[1 Corinthians 01#^1-26|1 Cor. i. 26]], [[1 Corinthians 01#^1-28|28]], somewhat loosely quoted.
 
 *[p. 3097]* ^pg678
 
@@ -194,7 +194,7 @@ Or, “from the twelfth number”—the twelfth position among the apostles.
 
 3098
 
-Acts i. 20, from Ps. cix. 8.
+[[Acts 01#^1-20|Acts i. 20]], from Ps. cix. 8.
 
 3099
 
@@ -212,7 +212,7 @@ gave gifts to men,”<sup>3102</sup> and conferred on those that believe in Him 
 
 5\. But if they say that Judas in perishing was the image of her Enthymesis, neither in this way will the image bear any analogy to that truth which \[by hypothesis\] corresponds to it. For the Enthymesis having been separated from the Æon, and itself afterwards receiving a shape from Christ,<sup>3105</sup> then being made a partaker of intelligence by the Saviour, and having formed all things which are outside of the Pleroma, after the image of those which are within the Pleroma, is said at last to have been received by them into the Pleroma, and, according to \[the principle of\] conjunction, to have been united to that Saviour who was formed out of all. But Judas having been once for all cast away, never returns into the number of the disciples; otherwise a different person would not have been chosen to fill his place. Besides, the Lord also declared regarding him, “Woe to the man by whom the Son of man shall be betrayed;”<sup>3106</sup> and, “It were better for him if he had never been born;”<sup>3107</sup> and he was called the “son of perdition”<sup>3108</sup> by Him. If, however, they say that Judas was a type of the Enthymesis, not as separated from the Æon, but of the passion entwined with her, neither in this way can the number twelve be regarded as a \[fitting\] type of the number three. For in the one case Judas was cast away, and Matthias was ordained instead of him; but in the other
 
-389 Ps. lxviii. 18; Eph. iv. 8. 3102 Luke x. 19; \[Mark xvi. 17, 18.\] 3103 Though the reading “substituit” is found in all the mss. and editions, it has been deemed corrupt, and “sustinuit” has been 3104 proposed instead of it. Harvey supposes it the equivalent of ὑπέστησε, and then somewhat strangely adds “for ἀπέστησε.” There seems to us no difficulty in the word, and consequently no necessity for change. Compare, in illustration of this sentence, book i. 4, 1, and i. 4, 5. 3105 Matt. xxvi. 24. 3106 Mark xiv. 21. 3107
+389 Ps. lxviii. 18; [[Ephesians 04#^4-8|Eph. iv. 8]]. 3102 [[Luke 10#^10-19|Luke x. 19]]; \[[[Mark 16#^16-17|Mark xvi. 17]], [[Mark 16#^16-18|18]].\] 3103 Though the reading “substituit” is found in all the mss. and editions, it has been deemed corrupt, and “sustinuit” has been 3104 proposed instead of it. Harvey supposes it the equivalent of ὑπέστησε, and then somewhat strangely adds “for ἀπέστησε.” There seems to us no difficulty in the word, and consequently no necessity for change. Compare, in illustration of this sentence, book i. 4, 1, and i. 4, 5. 3105 [[Matthew 26#^26-24|Matt. xxvi. 24]]. 3106 [[Mark 14#^14-21|Mark xiv. 21]]. 3107
 
 *[p. 641]* ^pg681
 
@@ -228,7 +228,7 @@ This passage is hopelessly corrupt. The editors have twisted it in every directi
 
 version is quite as far from being certainly trustworthy as any other that has been proposed, but it seems something like the meaning of the words as they stand. Both the text and punctuation of the Latin are in utter confusion.
 
-Luke x. 1.
+[[Luke 10#^10-1|Luke x. 1]].
 
 3110
 
@@ -266,7 +266,7 @@ This clause is probably an interpolation by the translator.
 
 3116
 
-2 Tim. iv. 3.
+[[2 Timothy 04#^4-3|2 Tim. iv. 3]].
 
 3117
 
@@ -280,7 +280,7 @@ Comp. Pindar, *Olymp.*, i. 38, etc.
 
 3119
 
-“Compuncti” supposed to correspond to κεκαυτηριασμένοι: see 1 Tim. iv. 2. The whole passage is difficult and obscure.
+“Compuncti” supposed to correspond to κεκαυτηριασμένοι: see [[1 Timothy 04#^4-2|1 Tim. iv. 2]]. The whole passage is difficult and obscure.
 
 *[p. 643]* ^pg683
 
@@ -296,7 +296,7 @@ Isa. lxi. 2.
 
 3122
 
-Matt. v. 45.
+[[Matthew 05#^5-45|Matt. v. 45]].
 
 3123
 
@@ -308,27 +308,27 @@ slaughter.”<sup>3125</sup> But here the expression “all the day long” is p
 
 cured the son of the centurion by a word, saying, “Go thy way, thy son liveth.”<sup>3127</sup> Afterwards He went up, the second time, to observe the festival day of the passover<sup>3128</sup> in Jerusalem; on which occasion He cured the paralytic man, who had lain beside the pool thirty-eight years, bidding him rise, take up his couch, and depart. Again, withdrawing from thence to the other side of the sea of Tiberias,<sup>3129</sup> He there seeing a great crowd had followed Him, fed all that multitude with five loaves of bread, and twelve baskets of fragments remained over and above. Then, when He had raised Lazarus from the dead, and plots were formed against Him by the Pharisees, He withdrew to a city called Ephraim; and from that place, as it is written “He came to Bethany six days before the passover,”<sup>3130</sup> and going up from Bethany to Jerusalem, He there ate the passover, and suffered on the day following. Now, that these three occasions of the passover are not included within one year, every person whatever must acknowledge. And that the special month in which the passover was celebrated, and in which also the Lord suffered, was not the twelfth, but the first, those men who boast that they know all things, if they know not this, may learn it from Moses. Their explanation,
 
-Rom. viii. 36.
+[[Romans 08#^8-36|Rom. viii. 36]].
 
 3125
 
-John ii. 23.
+[[John 02#^2-23|John ii. 23]].
 
 3126
 
-John iv. 50.
+[[John 04#^4-50|John iv. 50]].
 
 3127
 
-John v. 1, etc. It is well known that, to fix what is meant by the ἑορτή, referred to in this passage of St. John, is one of 3128
+[[John 05#^5-1|John v. 1]], etc. It is well known that, to fix what is meant by the ἑορτή, referred to in this passage of St. John, is one of 3128
 
-the most difficult points in New Testament criticism. Some modern scholars think that the feast of Purim is intended by the Evangelist; but, upon the whole, the current of opinion that has always prevailed in the Church has been in favour of the statement here made by Irenæus. Christ would therefore be present at four passovers after His baptism: (1) John ii. 13; (2) John v. 1; (3) John vi. 4; (4) John xiii. 1.
+the most difficult points in New Testament criticism. Some modern scholars think that the feast of Purim is intended by the Evangelist; but, upon the whole, the current of opinion that has always prevailed in the Church has been in favour of the statement here made by Irenæus. Christ would therefore be present at four passovers after His baptism: (1) [[John 02#^2-13|John ii. 13]]; (2) [[John 05#^5-1|John v. 1]]; (3) [[John 06#^6-4|John vi. 4]]; (4) [[John 13#^13-1|John xiii. 1]].
 
-John vi. 1, etc.
+[[John 06#^6-1|John vi. 1]], etc.
 
 3129
 
-John xi. 54, John xii. 1.
+[[John 11#^11-54|John xi. 54]], [[John 12#^12-1|John xii. 1]].
 
 *[p. 645]* ^pg685
 
@@ -358,17 +358,17 @@ It has been remarked by Wall and others, that we have here the statement of a va
 
 in the primitive Church.
 
-Col. i. 18.
+[[Colossians 01#^1-18|Col. i. 18]].
 
 3136
 
-Acts iii. 15.
+[[Acts 03#^3-15|Acts iii. 15]].
 
 3137
 
 \[That our Lord was *prematurely* old may be inferred from the text which Irenæus regards as proof that he literally lived 3138
 
-to be old. St. John viii. 56, 57; comp. Isa. liii. 2.\]
+to be old. St. [[John 08#^8-56|John viii. 56]], [[John 08#^8-57|57]]; comp. Isa. liii. 2.\]
 
 *[p. 646]* ^pg686
 
@@ -378,7 +378,7 @@ our Lord possessed while He still fulfilled the office of a Teacher, even as the
 
 6\. But, besides this, those very Jews who then disputed with the Lord Jesus Christ have most clearly indicated the same thing. For when the Lord said to them, “Your father Abraham rejoiced to see My day; and he saw it, and was glad,” they answered Him, “Thou art not yet fifty years old, and hast Thou seen Abraham?”<sup>3143</sup> Now, such language is fittingly applied to one who has already passed the age of forty, without having as yet reached his fiftieth year, yet is not far from this latter period. But to one who is only thirty years old it would unquestionably be said, “Thou art not yet forty years old.” For those who wished to convict Him of falsehood would certainly not extend the
 
-Luke iii. 23.
+[[Luke 03#^3-23|Luke iii. 23]].
 
 3139
 
@@ -428,11 +428,11 @@ fit in with their figment) been mentioned, but, lo! another woman was also heale
 
 1\. This very thing, too, still further demonstrates their opinion false, and their fictitious system untenable, that they endeavour to bring forward proofs of it, sometimes through means of numbers and the syllables of names, sometimes also through the letter of syllables, and yet again through those numbers which are, according to the practice followed by the Greeks, contained in \[different\] letters;—\[this, I say,\] demonstrates in the clearest manner their overthrow or confusion,<sup>3151</sup> as well
 
-Luke xiii. 16.
+[[Luke 13#^13-16|Luke xiii. 16]].
 
 3148
 
-John v. 5.
+[[John 05#^5-5|John v. 5]].
 
 3149
 
@@ -516,13 +516,13 @@ among the Æons, and illuminates the whole Pleroma. They have carefully enumerat
 
 4\. But that this point is true, that that number which is called *five*, which agrees in no respect with their argument, and does not harmonize with their system, nor is suitable for a typical manifestation of the things in the Pleroma, \[yet has a wide prevalence,<sup>3172</sup>\] will be proved as follows from the Scriptures. Soter is a name of five letters; Pater, too, contains five letters; Agape (love), too, consists of five letters; and our Lord, after<sup>3173</sup> blessing the five loaves, fed with them five thousand men. Five virgins<sup>3174</sup> were called wise by the Lord; and, in like manner, five were styled
 
-395 Ex. xxvi. 1. 3165 Ex. xxvi. 7. 3166 Ex. xxvi. 2. 3167 Ex. xxvi. 16. 3168 Ex. xxvi. 26. 3169 Ex. xxx. 23, etc. 3170 Ex. xxx. 34. 3171 Some such supplement as this seems requisite, but the syntax in the Latin text is very confused. 3172 Matt. xiv. 19, 21; Mark vi. 41, 44; Luke ix. 13, 14; John vi. 9, 10, 11. 3173 Matt. xxv. 2, etc.
+395 Ex. xxvi. 1. 3165 Ex. xxvi. 7. 3166 Ex. xxvi. 2. 3167 Ex. xxvi. 16. 3168 Ex. xxvi. 26. 3169 Ex. xxx. 23, etc. 3170 Ex. xxx. 34. 3171 Some such supplement as this seems requisite, but the syntax in the Latin text is very confused. 3172 [[Matthew 14#^14-19|Matt. xiv. 19]], [[Matthew 14#^14-21|21]]; [[Mark 06#^6-41|Mark vi. 41]], [[Mark 06#^6-44|44]]; [[Luke 09#^9-13|Luke ix. 13]], [[Luke 09#^9-14|14]]; [[John 06#^6-9|John vi. 9]], [[John 06#^6-10|10]], [[John 06#^6-11|11]]. 3173 [[Matthew 25#^25-2|Matt. xxv. 2]], etc.
 
 *[p. 652]* ^pg692
 
 foolish. Again, five men are said to have been with the Lord when He obtained testimony<sup>3175</sup> from the Father,—namely, Peter, and James, and John, and Moses, and Elias. The Lord also, as the fifth person, entered into the apartment of the dead maiden, and raised her up again; for, says \[the Scripture\], “He suffered no man to go in, save Peter and James,<sup>3176</sup> and the father and mother of the maiden.”<sup>3177</sup> The rich man in hell<sup>3178</sup> declared that he had five brothers, to whom he desired that one rising from the dead should go. The pool from which the Lord commanded the paralytic man to go into his house, had five porches. The very form of the cross, too, has five extremities,<sup>3179</sup> two in length, two in breadth, and one in the middle, on which \[last\] the person rests who is fixed by the nails. Each of our hands has five fingers; we have also five senses; our internal organs may also be reckoned as five, viz., the heart, the liver, the lungs, the spleen, and the kidneys. Moreover, even the whole person may be divided into this number \[of parts\],—the head, the breast, the belly, the thighs, and the feet. The human race passes through five ages first infancy, then boyhood, then youth, then maturity,<sup>3180</sup> and then old age. Moses delivered the law to the people in five books. Each table which he received from God contained five<sup>3181</sup> commandments. The veil covering<sup>3182</sup> the holy of holies had five pillars. The altar of burnt-offering also was five cubits in breadth.<sup>3183</sup> Five priests were chosen in the wilderness,—namely, Aaron,<sup>3184</sup> Nadab, Abiud, Eleazar, Ithamar. The ephod and the breastplate, and other sacerdotal vestments, were formed out of five<sup>3185</sup> materials; for they combined in themselves gold, and blue, and purple, and scarlet, and fine linen. And there were five<sup>3186</sup> kings of the Amorites, whom Joshua the son of Nun shut up in a cave, and directed the people to trample upon their heads. Any one, in fact, might collect many thousand other things of the same kind, both with respect to this number and any other he chose to fix upon, either from the Scriptures, or from the works of nature lying under his observation.<sup>3187</sup> But although such is the
 
-Matt. xvii. 1.
+[[Matthew 17#^17-1|Matt. xvii. 1]].
 
 3175
 
@@ -530,11 +530,11 @@ St. John is here strangely overlooked.
 
 3176
 
-Luke viii. 51.
+[[Luke 08#^8-51|Luke viii. 51]].
 
 3177
 
-Luke xvi. 28.
+[[Luke 16#^16-28|Luke xvi. 28]].
 
 3178
 
@@ -651,7 +651,7 @@ nature, and rank, and number, and special quantity, and that nothing whatever ei
 
 1\. A sound mind, and one which does not expose its possessor to danger, and is devoted to piety and the love of truth, will eagerly meditate upon those things which God has placed within the power of mankind, and has subjected to our knowledge, and will make advancement in \[acquaintance with\] them, rendering the knowledge of them easy to him by means of daily study. These things
 
-Matt. x. 29.
+[[Matthew 10#^10-29|Matt. x. 29]].
 
 3204
 
@@ -675,7 +675,7 @@ Some such expression of disapproval must evidently be supplied, though wanting i
 
 3208
 
-Matt. xxv. 5, etc.
+[[Matthew 25#^25-5|Matt. xxv. 5]], etc.
 
 3209
 
@@ -699,7 +699,7 @@ indubitable, and true, is the part of men who eagerly throw themselves into dang
 
 2\. If, however, we cannot discover explanations of all those things in Scripture which are made the subject of investigation, yet let us not on that account seek after any other God besides Him who really exists. For this is the very greatest impiety. We should leave things of that nature to God who created us, being most properly assured that the Scriptures are indeed perfect, since they were spoken by the Word of God and His Spirit; but we, inasmuch as we are inferior to, and later in existence than, the Word of God and His Spirit, are on that very account<sup>3213</sup> destitute of the knowledge of His mysteries. And there is no cause for wonder if this is the case with us as respects things spiritual and heavenly, and such as require to be made known to us by revelation, since many even of those things which lie at our very feet (I mean such as belong to this world, which we handle, and see, and are in close contact with) transcend our knowledge, so that even these we must leave to God. For it is fitting that He should excel all \[in knowledge\]. For how stands the case, for instance, if we endeavour to explain the cause of the rising of the Nile? We may say a great deal,
 
-Matt. vii. 25.
+[[Matthew 07#^7-25|Matt. vii. 25]].
 
 3212
 
@@ -711,7 +711,7 @@ plausible or otherwise, on the subject; but what is true, sure, and incontrovert
 
 3\. If, therefore, even with respect to creation, there are some things \[the knowledge of\] which belongs only to God, and others which come within the range of our own knowledge, what ground is there for complaint, if, in regard to those things which we investigate in the Scriptures (which are throughout spiritual), we are able by the grace of God to explain some of them, while we must leave others in the hands of God, and that not only in the present world, but also in that which is to come, so that God should for ever teach, and man should for ever learn the things taught him by God? As the apostle has said on this point, that, when other things have been done away, then these three, “faith, hope, and charity, shall endure.”<sup>3215</sup> For faith, which has respect to our Master, endures<sup>3216</sup> unchangeably, assuring us that there is but one true God, and that we should truly love Him for ever, seeing that He alone is our Father; while we hope ever to be receiving more and more from God, and to learn from Him, because He is good, and possesses boundless riches, a kingdom without end, and instruction that can never be exhausted. If, therefore, according to the rule which I have stated, we leave some questions in the hands of God, we shall both preserve our faith uninjured, and shall continue without danger; and all Scripture, which has been given to us by God, shall be found by us perfectly consistent; and the parables shall harmonize with those passages which are perfectly plain; and those statements the meaning of which is clear, shall serve to explain
 
-400 Comp. Clem. Rom. *Ep. to Cor.*, c. xx.; and August, *De. Civit Dei*, xvi. 9. 3214 1 Cor. xiii. 13. 3215 “Permanet firma,”—no doubt corresponding to the μένει of the apostle, 1 Cor. xiii. 13. Harvey here remarks, that “the 3216 author seems to misapprehend the apostle’s meaning…. There will be no longer room for hope, when the substance of things hoped for shall have become a matter of fruition; neither will there be any room for faith, when the soul shall be admitted to see God as He is.” But the best modern interpreters take the same view of the passage as Irenæus. They regard the νυνὶ δέ of St. Paul as not being *temporal*, but *logical*, and conclude therefore the meaning to be, that *faith* and *hope*, as well as *love*, will, in a sense, endure for ever. Comp., e.g., Alford, *in loc*.
+400 Comp. Clem. Rom. *Ep. to Cor.*, c. xx.; and August, *De. Civit Dei*, xvi. 9. 3214 [[1 Corinthians 13#^13-13|1 Cor. xiii. 13]]. 3215 “Permanet firma,”—no doubt corresponding to the μένει of the apostle, [[1 Corinthians 13#^13-13|1 Cor. xiii. 13]]. Harvey here remarks, that “the 3216 author seems to misapprehend the apostle’s meaning…. There will be no longer room for hope, when the substance of things hoped for shall have become a matter of fruition; neither will there be any room for faith, when the soul shall be admitted to see God as He is.” But the best modern interpreters take the same view of the passage as Irenæus. They regard the νυνὶ δέ of St. Paul as not being *temporal*, but *logical*, and conclude therefore the meaning to be, that *faith* and *hope*, as well as *love*, will, in a sense, endure for ever. Comp., e.g., Alford, *in loc*.
 
 *[p. 661]* ^pg701
 
@@ -759,11 +759,11 @@ Isa. liii. 8.
 
 3224
 
-Mark xiii. 32. The words, “neither the angels which are in heaven,” are here omitted, probably because, as usual, the 3225
+[[Mark 13#^13-32|Mark xiii. 32]]. The words, “neither the angels which are in heaven,” are here omitted, probably because, as usual, the 3225
 
 writer quotes from memory.
 
-Comp. Matt. x. 24; Luke xi. 40.
+Comp. [[Matthew 10#^10-24|Matt. x. 24]]; [[Luke 11#^11-40|Luke xi. 40]].
 
 *[p. 663]* ^pg703
 
@@ -771,7 +771,7 @@ mystery, when they have simply transferred what all understand to the only-begot
 
 7\. But we shall not be wrong if we affirm the same thing also concerning the substance of matter, that God produced it. For we have learned from the Scriptures that God holds the supremacy over all things. But whence or in what way He produced it, neither has Scripture anywhere declared; nor does it become us to conjecture, so as, in accordance with our own opinions, to form endless conjectures concerning God, but we should leave such knowledge in the hands of God Himself. In like manner, also, we must leave the cause why, while all things were made by God, certain of His creatures sinned and revolted from a state of submission to God, and others, indeed the great majority, persevered, and do still persevere, in \[willing\] subjection to Him who formed them, and also of what nature those are who sinned, and of what nature those who persevere,—\[we must, I say, leave the cause of these things\] to God and His Word, to whom alone He said, “Sit at my right hand, until I make Thine enemies Thy footstool.”<sup>3227</sup> But as for us, we still dwell upon the earth, and have not yet sat down upon His throne. For although the Spirit of the Saviour that is in Him “searcheth all things, even the deep things of God,”<sup>3228</sup> yet as to us “there are diversities of gifts, differences of administrations, and diversities of operations;”<sup>3229</sup> and we, while upon the earth, as Paul also declares, “know in part, and prophesy in part.”<sup>3230</sup> Since, therefore, we know but in part, we ought to leave all sorts of \[difficult\] questions in the hands of Him who in some measure, \[and that only,\] bestows grace on us. That eternal fire, \[for instance,\] is prepared for sinners, both the Lord has plainly declared, and the rest of the Scriptures demonstrate. And that God foreknew that this would happen, the Scriptures do in like manner demonstrate, since He prepared eternal fire from the beginning for those who were \[afterwards\] to transgress \[His commandments\]; but the cause itself of the nature of such transgressors neither has any Scripture informed us, nor has an apostle told us, nor has the Lord taught us. It becomes us, therefore, to leave the knowledge of this matter to God, even as the Lord does of the day and hour \[of judgment\], and not to rush to such an extreme of danger, that we will leave nothing in the hands of God, even though we have received only a measure of grace \[from Him in this world\]. But when we investigate points which are above us, and with respect to which we cannot reach satisfaction, \[it is absurd<sup>3231</sup>\] that we should display such an extreme of presumption as to lay open God, and things which are not yet discovered,<sup>3232</sup> as
 
-Ps. cx. 1. 3227 1 Cor. ii. 10. 3228 1 Cor. xii. 4, 5, 6. 3229 1 Cor. xiii. 9. 3230 Massuet proposes to insert these words, and some such supplement seems clearly necessary to complete the sense. But 3231 the sentence still remains confused and doubtful. \[Gen. xl. 8; Deut. xxix. 29; Ps. cxxxi.\]
+Ps. cx. 1. 3227 [[1 Corinthians 02#^2-10|1 Cor. ii. 10]]. 3228 [[1 Corinthians 12#^12-4|1 Cor. xii. 4]], [[1 Corinthians 12#^12-5|5]], [[1 Corinthians 12#^12-6|6]]. 3229 [[1 Corinthians 13#^13-9|1 Cor. xiii. 9]]. 3230 Massuet proposes to insert these words, and some such supplement seems clearly necessary to complete the sense. But 3231 the sentence still remains confused and doubtful. \[Gen. xl. 8; Deut. xxix. 29; Ps. cxxxi.\]
 
 *[p. 664]* ^pg704
 
@@ -783,7 +783,7 @@ Father, who has fellowship with the Son in all things, has been declared by the 
 
 9\. But if any lover of strife contradict what I have said, and also what the apostle affirms, that “we know in part, and prophesy in part,”<sup>3235</sup> and imagine that he has acquired not a partial, but a universal, knowledge of all that exists, —being such an one as Valentinus, or Ptolemæus, or Basilides, or any other of those who maintain that they have searched out the deep<sup>3236</sup> things of God,—let him not (arraying himself in vainglory) boast that he has acquired greater knowledge than others with respect to those things which are invisible, or cannot be placed under our observation; but let him, by making diligent inquiry, and obtaining information from the Father, tell us the reasons (which we know not) of those things which are in this world, —as, for instance, the number of hairs on his own head, and the sparrows which are captured day by day, and such other points with which we are not previously acquainted,—so that we may credit him also with respect to more important points. But if those who are *perfect* do not yet understand the very things in their hands, and at their feet, and before their eyes, and on the earth, and especially the rule followed with respect to the hairs of their head, how can we believe them regarding things spiritual, and super-celestial,<sup>3237</sup> and those which, with a vain confidence, they assert to be above God? So much, then, I have said concerning numbers, and names, and syllables, and questions respecting
 
-John xiv. 28.
+[[John 14#^14-28|John xiv. 28]].
 
 3233
 
@@ -791,7 +791,7 @@ John xiv. 28.
 
 well be consulted here. *Defens. Fid. Nicænæ*, sect. iv.; see also vol. v. 363\]
 
-1 Cor. xiii. 9.
+[[1 Corinthians 13#^13-9|1 Cor. xiii. 9]].
 
 3235
 

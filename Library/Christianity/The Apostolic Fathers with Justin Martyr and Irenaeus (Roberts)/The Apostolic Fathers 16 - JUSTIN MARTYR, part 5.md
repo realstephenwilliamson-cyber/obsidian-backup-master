@@ -48,7 +48,7 @@ Deut. xxxiii. 13–17.
 
 2305
 
-\[A clumsy exposition of St. John iii. 14.\]
+\[A clumsy exposition of St. [[John 03#^3-14|John iii. 14]].\]
 
 *[p. 398]* ^pg438
 
@@ -84,7 +84,7 @@ lies on the Christ of God, by whom all that have committed things worthy of a cu
 
 “For the whole human race will be found to be under a curse. For it is written in the law of Moses, ‘Cursed is every one that continueth not in all things that are written in the book of the law to do them.’<sup>2315</sup> And no one has accurately done all, nor will you venture to deny this; but some more and some less than others have observed the ordinances enjoined. But if those who are under this law appear to be under a curse for not having observed all the requirements, how much more shall all the nations appear to be under a curse who practise idolatry, who seduce youths, and commit other crimes? If, then, the Father of all wished His Christ for the whole human family to take upon Him the curses of all, knowing that, after He had been crucified and was dead, He would raise Him up, why do you argue about Him, who submitted to suffer these things according to the Father’s will, as if He were accursed, and do not rather bewail yourselves? For although His Father caused Him to suffer these things in behalf of the human family, yet you did not commit the deed as in obedience to the will of God. For you did not practise piety when you slew the prophets. And let none of you say: If His Father wished Him to suffer this, in order that by His stripes the human race might be healed, we have done no wrong. If, indeed, you repent of your sins, and recognise Him to be Christ, and observe His commandments, then you may assert this; for, as I have said before, remission of sins shall be yours. But if you curse Him and them that believe on Him, and, when you have the power, put them to death, how is it possible that requisition shall not be made
 
-\[Gal. iii. 13.\]
+\[[[Galatians 03#^3-13|Gal. iii. 13]].\]
 
 2314
 
@@ -112,7 +112,7 @@ We read ἐπισταμένων for ἐπιστάμενον. Otherwise to be tra
 
 2318
 
-Luke vi. 35.
+[[Luke 06#^6-35|Luke vi. 35]].
 
 2319
 
@@ -126,7 +126,7 @@ no one in your nation who has been called King or Christ has ever had his hands 
 
 “I shall repeat the whole Psalm, in order that you may hear His reverence to the Father, and how He refers all things to Him, and prays to be delivered by Him from this death; at the same time declaring in the Psalm who they are that rise up against Him, and showing that He has truly become man capable of suffering. It is as follows: ‘O God, my God, attend to me: why hast Thou forsaken me? The words of my transgressions are far from my salvation. O my God, I will cry to Thee in the day-time, and Thou wilt not hear; and in the night-season, and it is not for want of understanding in me. But Thou, the Praise of Israel, inhabitest the holy place. Our fathers trusted in Thee; they trusted, and Thou didst deliver them. They cried unto Thee, and were delivered: they trusted in Thee, and were not confounded. But I am a worm, and no man; a reproach of men, and despised of the people. All they that see me laughed me to scorn; they spake with the lips, they shook the head: He trusted on the Lord: let Him deliver him, let Him save him, since he desires Him. For Thou art He that took me out of the womb; my hope from the breasts of my mother: I was cast upon Thee from the womb. Thou art my God from my mother’s belly: be not far from me, for trouble is near; for there is none to help. Many calves have compassed me; fat bulls have beset me round. They opened their mouth upon me, as a ravening and roaring lion. All my bones are poured out and dispersed like water. My heart has become like wax melting in the midst of my belly. My strength is dried up like a potsherd; and my tongue has cleaved to my throat; and Thou hast brought me into the dust of death. For many dogs have surrounded me; the assembly of the wicked have beset me round. They pierced my hands and my feet, they did tell all my bones. They did look and stare upon me; they parted my garments among them, and cast lots upon my vesture. But do not
 
-Isa. lxv. 2; comp. also Rom. x. 21.
+Isa. lxv. 2; comp. also [[Romans 10#^10-21|Rom. x. 21]].
 
 2321
 
@@ -154,7 +154,7 @@ Probably should be “Thy.”
 
 \[Jewish computation of the evening as part of the succeeding day.\] 2325
 
-Matt. xxvi. 39.
+[[Matthew 26#^26-39|Matt. xxvi. 39]].
 
 2326
 
@@ -166,11 +166,11 @@ on the third day after the crucifixion; and this He has obtained from the Father
 
 Gospel it is written that He said: ‘All things are delivered unto me by My Father;’ and, ‘No man knoweth the Father but the Son; nor the Son but the Father, and they to whom the Son will reveal Him.’<sup>2328</sup> Accordingly He revealed to us all that we have perceived by His grace out of the Scriptures, so that we know Him to be the first-begotten of God, and to be before all creatures; likewise to be the Son of the patriarchs, since He assumed flesh by the Virgin of their family, and submitted to become a man without comeliness, dishonoured, and subject to suffering. Hence, also, among His words He said, when He was discoursing about His future sufferings: ‘The Son of man must suffer many things, and be rejected by the Pharisees and Scribes, and be crucified, and on the third day rise again.’<sup>2329</sup> He said then that He was the Son of man, either because of His birth by the Virgin, who was, as I said, of the family of David<sup>2330</sup> and Jacob, and Isaac, and Abraham; or because Adam<sup>2331</sup> was the father both of Himself and of those who have been first enumerated from whom Mary derives her descent. For we know that the fathers of women are the fathers likewise of those children whom their daughters bear. For \[Christ\] called one of His disciples— previously known by the name of Simon—Peter; since he recognised Him to be Christ the Son of God, by the revelation of His Father: and since we find it recorded in the memoirs of His apostles that He is the Son of God, and since we call Him the Son, we have understood that He proceeded before all creatures from the Father by His power and will (for He is addressed in the writings of the prophets in one way or another as Wisdom, and the Day,<sup>2332</sup> and the East, and a Sword, and a Stone, and a Rod, and Jacob, and Israel); and that He became man by the Virgin, in order that the disobedience which proceeded from the serpent might receive its destruction in the same manner in which it derived its origin. For Eve, who was a virgin and undefiled, having conceived the word of the serpent, brought forth disobedience and death. But the Virgin Mary received faith and joy, when the angel Gabriel announced the good tidings to her that the Spirit of the Lord would come upon her, and the power of the Highest would overshadow her: wherefore also the Holy Thing begotten of her is
 
-Matt. xi. 27.
+[[Matthew 11#^11-27|Matt. xi. 27]].
 
 2328
 
-Matt. xvi. 21.
+[[Matthew 16#^16-21|Matt. xvi. 21]].
 
 2329
 
@@ -200,15 +200,15 @@ the Son of God;<sup>2333</sup> and she replied, ‘Be it unto me according to th
 
 “And what follows —‘My hope from the breasts of my mother. On Thee have I been cast from the womb; from my mother’s belly Thou art my God: for there is no helper. Many calves have compassed me; fat bulls have beset me round. They opened their mouth upon me, as a ravening
 
-Luke i. 35. See Meyer *in loc*.
+[[Luke 01#^1-35|Luke i. 35]]. See Meyer *in loc*.
 
 2333
 
-Luke i. 38.
+[[Luke 01#^1-38|Luke i. 38]].
 
 2334
 
-Luke xviii. 18 f.
+[[Luke 18#^18-18|Luke xviii. 18 f.]]
 
 2335
 
@@ -252,11 +252,11 @@ or guile with His mouth), how do you or others who expect to be saved without th
 
 “And the statement, ‘Thou hast brought me into the dust of death; for many dogs have surrounded me: the assembly of the wicked have beset me round. They pierced my hands and my feet. They did tell all my bones. They did look and stare upon me. They parted my garments among them, and cast lots upon my vesture,’—was a prediction, as I said before, of the death to which the synagogue of the wicked would condemn Him, whom He calls both dogs and hunters, declaring that those who hunted Him were both gathered together and assiduously striving to condemn Him.
 
-Ps. ii. 7; Matt. iii. 17.
+Ps. ii. 7; [[Matthew 03#^3-17|Matt. iii. 17]].
 
 2344
 
-Matt. iv. 9, 10.
+[[Matthew 04#^4-9|Matt. iv. 9]], [[Matthew 04#^4-10|10]].
 
 2345
 
@@ -268,7 +268,7 @@ Maranus says it is hardly to be doubted that Justin read, “I am poured out lik
 
 2347
 
-Luke xxii. 44, 42.
+[[Luke 22#^22-44|Luke xxii. 44]], 42.
 
 2348
 
@@ -298,7 +298,7 @@ righteousness exceed that of the Scribes and Pharisees, ye shall not enter into 
 
 “And that He would rise again on the third day after the crucifixion, it is written<sup>2359</sup> in the memoirs that some of your nation, questioning Him, said, ‘Show us a sign;’ and He replied to them, ‘An evil and adulterous generation seeketh after a sign; and no sign shall be given them, save the
 
-Matt. v. 20.
+[[Matthew 05#^5-20|Matt. v. 20]].
 
 2356
 
@@ -310,7 +310,7 @@ Num. xxiv. 17.
 
 2358
 
-Matt. xii. 38 f.
+[[Matthew 12#^12-38|Matt. xii. 38 f.]]
 
 *[PDF 451]* ^pg451
 
@@ -364,7 +364,7 @@ maintain He has not yet come; or if they say that He has come, they assert that 
 
 the apostles of Jesus, have fled for safety to the God of Jacob and God of Israel; and we who were filled with war, and mutual slaughter, and every wickedness, have each through the whole earth changed our warlike weapons,— our swords into ploughshares, and our spears into implements of tillage, —and we cultivate piety, righteousness, philanthropy, faith, and hope, which we have from the Father Himself through Him who was crucified; and sitting each under his vine, i.e., each man possessing his own married wife. For you are aware that the prophetic word says, ‘And his wife shall be like a fruitful vine.’<sup>2368</sup> Now it is evident that no one can terrify or subdue us who have believed in Jesus over all the world. For it is plain that, though beheaded, and crucified, and thrown to wild beasts, and chains, and fire, and all other kinds of torture, we do not give up our confession; but the more such things happen, the more do others and in larger numbers become faithful, and worshippers of God through the name of Jesus. For just as if one should cut away the fruit-bearing parts of a vine, it grows up again, and yields other branches flourishing and fruitful; even so the same thing happens with us. For the vine planted by God and Christ the Saviour is His people. But the rest of the prophecy shall be fulfilled at His second coming. For the expression, ‘He that is afflicted \[and driven out\],’ i.e., from the world, \[implies\] that, so far as you and all other men have it in your power, each Christian has been driven out not only from his own property, but even from the whole world; for you permit no Christian to live. But you say that the same fate has befallen your own nation. Now, if you have been cast out after defeat in battle, you have suffered such treatment justly indeed, as all the Scriptures bear witness; but we, though we have done no such \[evil acts\] after we knew the truth of God, are testified to by God, that, together with the most righteous, and only spotless and sinless Christ, we are taken away out of the earth. For Isaiah cries, ‘Behold how the righteous perishes, and no man lays it to heart; and righteous men are taken away, and no man considers it.’<sup>2369</sup>
 
-2 Thess. ii. 3; and see chap. xxxii.
+[[2 Thessalonians 02#^2-3|2 Thess. ii. 3]]; and see chap. xxxii.
 
 2367
 
@@ -396,7 +396,7 @@ Isa. xxvii. 1.
 
 2371
 
-Matt. xxiii. 27, 23, 24. \[Note the examples he gives of the rabbinical expositions. He consents to their principle, but gives 2372
+[[Matthew 23#^23-27|Matt. xxiii. 27]], 23, 24. \[Note the examples he gives of the rabbinical expositions. He consents to their principle, but gives 2372
 
 nobler analogies.\]
 
@@ -410,7 +410,7 @@ which his father gave him, was changed to Jesus (Joshua)? But since not only was
 
 “For the Holy Spirit sometimes brought about that something, which was the type of the future, should be done clearly; sometimes He uttered words about what was to take place, as if it was then taking place, or had taken place. And unless those who read perceive this art, they will not be able to follow the words of the prophets as they ought. For example’s sake, I shall repeat some prophetic passages, that you may understand what I say. When He speaks by Isaiah, ‘He was led as a sheep to the slaughter, and like a lamb before the shearer,’<sup>2376</sup> He speaks as if the suffering had already
 
-256 Or, “resurrection of the saints.” 2374 Justin seems to mean that the renewal of heaven and earth dates from the incarnation of Christ. \[St. Matt. xix. 28.\] 2375
+256 Or, “resurrection of the saints.” 2374 Justin seems to mean that the renewal of heaven and earth dates from the incarnation of Christ. \[St. [[Matthew 19#^19-28|Matt. xix. 28]].\] 2375
 
 *[PDF 457]* ^pg457
 
@@ -482,7 +482,7 @@ Justin either confuses Joshua son of Josedech with Hosea the prophet, or he refe
 
 garments” signified either an illicit marriage, or sins of the people, or the squalor of captivity.
 
-\[Isa. lxvi. 21; Rom. xv. 15, 16, 17 (*Greek*); 1 Pet. ii. 9.\] 2388
+\[Isa. lxvi. 21; [[Romans 15#^15-15|Rom. xv. 15]], [[Romans 15#^15-16|16]], [[Romans 15#^15-17|17]] (*Greek*); [[1 Peter 02#^2-9|1 Pet. ii. 9]].\] 2388
 
 Mal. i. 10–12.
 
@@ -586,7 +586,7 @@ Gen. xxvi. 4.
 
 Reuben, nor to any other; only to those of whom the Christ should arise, according to the dispensation, through the Virgin Mary. But if you would consider the blessing of Judah, you would perceive what I say. For the seed is divided from Jacob, and comes down through Judah, and Phares, and Jesse, and David. And this was a symbol of the fact that some of your nation would be found children of Abraham, and found, too, in the lot of Christ; but that others, who are indeed children of Abraham, would be like the sand on the sea-shore, barren and fruitless, much in quantity, and without number indeed, but bearing no fruit whatever, and only drinking the water of the sea. And a vast multitude in your nation are convicted of being of this kind, imbibing doctrines of bitterness and godlessness, but spurning the word of God. He speaks therefore in the passage relating to Judah: ‘A prince shall not fail from Judah, nor a ruler from his thighs, till that which is laid up for him come; and He shall be the expectation of the nations.’<sup>2408</sup> And it is plain that this was spoken not of Judah, but of Christ. For all we out of all nations do expect not Judah, but Jesus, who led your fathers out of Egypt. For the prophecy referred even to the advent of Christ: ‘Till He come for whom this is laid up, and He shall be the expectation of nations.’ Jesus came, therefore, as we have shown at length, and is expected again to appear above the clouds; whose name you profane, and labour hard to get it profaned over all the earth. It were possible for me, sirs,” I continued, “to contend against you about the reading which you so interpret, saying it is written, ‘Till the things laid up for Him come;’ though the Seventy have not so explained it, but thus, ‘Till He comes for whom this is laid up.’ But since what follows indicates that the reference is to Christ (for it is, ‘and He shall be the expectation of nations’), I do not proceed to have a mere verbal controversy with you, as I have not attempted to establish proof about Christ from the passages of Scripture which are not admitted by you<sup>2409</sup> which I quoted from the words of Jeremiah the prophet, and Esdras, and David; but from those which are even now admitted by you, which had your teachers comprehended, be well assured they would have deleted them, as they did those about the death of Isaiah, whom you sawed asunder with a wooden saw. And this was a mysterious type of Christ being about to cut your nation in two, and to raise those worthy of the honour to the everlasting kingdom along with the holy patriarchs and prophets; but He has said that He will send others to the condemnation of the unquenchable fire along with similar disobedient and impenitent men from all the nations. ‘For they shall come,’ He said, ‘from the west and from the east, and shall sit down with Abraham, and Isaac, and Jacob in the kingdom of heaven; but the children of the kingdom shall be cast out into outer darkness.’<sup>2410</sup> And I have mentioned these things, taking nothing whatever into consideration, except the speaking of the truth, and refusing to be coerced by any one, even though I should be forthwith torn in pieces by you. For I gave no thought to any of my people, that is, the Samaritans, when I had a communication in writing with Cæsar,<sup>2411</sup> but stated that they were
 
-260 Gen. xlix. 10. 2408 \[Note this important point. He forbears to cite the New Testament.\] 2409 Matt. viii. 11 f. 2410 The *Apology*, i. chap. xxvi.; ii. chap. xv.
+260 Gen. xlix. 10. 2408 \[Note this important point. He forbears to cite the New Testament.\] 2409 [[Matthew 08#^8-11|Matt. viii. 11 f.]] 2410 The *Apology*, i. chap. xxvi.; ii. chap. xv.
 
 *[PDF 464]* ^pg464
 
@@ -600,7 +600,7 @@ Ps. lxxii. 17.
 
 2412
 
-So Justin concludes from Deut. iv. 19; comp. chap. lv. \[The explanation is not very difficult (see Rom. i. 28), but the 2413
+So Justin concludes from Deut. iv. 19; comp. chap. lv. \[The explanation is not very difficult (see [[Romans 01#^1-28|Rom. i. 28]]), but the 2413
 
 language of Justin is unguarded.\]
 
@@ -622,7 +622,7 @@ Then some of those who had come on the second day cried out as if they had been 
 
 “No,” I said, looking towards Trypho, “since, if the law were able to enlighten the nations and those who possess it, what need is there of a new covenant? But since God announced beforehand that He would send a new covenant, and an everlasting law and commandment, we will not understand this of the old law and its proselytes, but of Christ and His proselytes, namely us Gentiles, whom He has illumined, as He says somewhere: ‘Thus saith the Lord, In an acceptable time have I heard Thee, and in a day of salvation have I helped Thee, and I have given Thee for a covenant of the people, to establish the earth, and to inherit the deserted.’<sup>2421</sup> What, then, is Christ’s inheritance? Is it not the nations? What is the covenant of God? Is it not Christ? As He says in another place: ‘Thou art my Son; this day have I begotten Thee. Ask of Me, and I shall give Thee the nations for Thine inheritance, and the uttermost parts of the earth for Thy possession.’<sup>2422</sup>
 
-261 Γηόρα or Γειόρα. Found in LXX., Ex. xii. 19 and Isa. xiv. 1. 2417 Matt. xxiii. 15. 2418 Isa. xlii. 16, Isa. xliii. 10. 2419 Isa. xlii. 6. 2420 Isa. xlix. 8. 2421 Ps. ii. 7 f.
+261 Γηόρα or Γειόρα. Found in LXX., Ex. xii. 19 and Isa. xiv. 1. 2417 [[Matthew 23#^23-15|Matt. xxiii. 15]]. 2418 Isa. xlii. 16, Isa. xliii. 10. 2419 Isa. xlii. 6. 2420 Isa. xlix. 8. 2421 Ps. ii. 7 f.
 
 *[PDF 466]* ^pg466
 
@@ -682,7 +682,7 @@ The reading here is ἐπίσταμαι αὐτός, which is generally abandone
 
 2435
 
-Matt. xiii. 3.
+[[Matthew 13#^13-3|Matt. xiii. 3]].
 
 2436
 
@@ -696,7 +696,7 @@ Him only shall thou serve.’<sup>2438</sup> Then, overcome and convicted, the d
 
 “But if you knew, Trypho,” continued I, “who He is that is called at one time the Angel of great counsel,<sup>2439</sup> and a Man by Ezekiel, and like the Son of man by Daniel, and a Child by Isaiah, and Christ and God to be worshipped by David, and Christ and a Stone by many, and Wisdom by Solomon, and Joseph and Judah and a Star by Moses, and the East by Zechariah, and the Suffering One and Jacob and Israel by Isaiah again, and a Rod, and Flower, and Corner-Stone, and Son of God, you would not have blasphemed Him who has now come, and been born, and suffered, and ascended to heaven; who shall also come again, and then your twelve tribes shall mourn. For if you had understood what has been written by the prophets, you would not have denied that He was God, Son of the only, unbegotten, unutterable God. For Moses says somewhere in Exodus the following: ‘The Lord spoke to Moses, and said to him, I am the Lord, and I appeared to Abraham, to Isaac, and to Jacob, being their God; and my name I revealed not to them, and I established my covenant with them.’<sup>2440</sup> And thus again he says, ‘A man wrestled with Jacob,’<sup>2441</sup> and asserts it was God; narrating that Jacob said, ‘I have seen God face to face, and my life is preserved.’ And it is recorded that he called the place where He wrestled with him, appeared to and blessed him, the Face of God (Peniel). And Moses says that God appeared also to Abraham near the oak in Mamre, when he was sitting at the door of his tent at mid-day. Then he goes on to say: ‘And he lifted up his eyes and looked, and, behold, three men stood before him; and when he saw them, he ran to meet them.’<sup>2442</sup> After a little, one of them promises a son to Abraham: ‘Wherefore did Sarah laugh, saying, Shall I of a surety bear a child, and I am old? Is anything impossible with God? At the time appointed I will return, according to the time of life, and Sarah shall have a son. And they went
 
-263 Matt. iv. 10. 2438 \[By Isaiah. “Counsellor” in English version.\] 2439 Ex. vi. 2 ff. 2440 Gen. xxxii. 24, 30. 2441
+263 [[Matthew 04#^4-10|Matt. iv. 10]]. 2438 \[By Isaiah. “Counsellor” in English version.\] 2439 Ex. vi. 2 ff. 2440 Gen. xxxii. 24, 30. 2441
 
 *[PDF 470]* ^pg470
 

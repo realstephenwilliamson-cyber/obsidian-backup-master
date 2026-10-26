@@ -20,17 +20,13 @@ nyasa: "ra: blood (*rakta*)"
 ## Front
 
 - **Glyph:** ◌्र
-- **Variation:** —
 - **Example:** प्राण
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** As in ‘p<u>r</u>āṇa’ (breath)
-- **Class (as printed):** —
-- **Note (no printed label):** Abbreviation for r which only occurs AFTER another consonant.
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: र
-- **Example:** prāṇa (breath)
+> [!note]- Back
+> - **Pronunciation:** As in ‘p<u>r</u>āṇa’ (breath)
+> - **Note:** Abbreviation for r which only occurs AFTER another consonant.
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / य <u>र</u> ल व / श ष स ह
+> - **Example:** prāṇa (breath)
 
 ## Register
 

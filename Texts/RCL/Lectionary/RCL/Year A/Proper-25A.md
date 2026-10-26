@@ -11,6 +11,7 @@ second_reading: "1 Thessalonians 2:1-8"
 gospel: "Matthew 22:34-46"
 first_reading_complementary: "Leviticus 19:1-2, 15-18"
 psalm_complementary: "Psalm 1"
+psalm_bcp_complementary: "Psalm 1"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-25]]"
 cssclasses:

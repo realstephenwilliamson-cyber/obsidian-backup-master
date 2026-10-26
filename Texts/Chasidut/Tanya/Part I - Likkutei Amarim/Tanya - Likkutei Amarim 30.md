@@ -66,10 +66,10 @@ Therefore the Rabbis declared in regard to the illiterate that “deliberate inf
 [^8]: *Sifrei* on [[Torah 45 - Vaetchanan#^6-5|Deuteronomy 6:5]]—עד מיצוי הנפש—literally, to the extent of “wringing out” the soul.
 [^9]: Ch. 42.
 [^10]: Sins of omission are as reprehensible as sins of commission insofar as disobedience is concerned.
-[^11]: [[Bava Batra 164#164b|*Bava Batra* 164b]].
+[^11]: *Bava Batra* [[Bava Batra 164#164b|164b]].
 [^12]: [[Torah 30 - Kedoshim#^19-2|Leviticus 19:2]].
 [^13]: [[Torah 30 - Kedoshim#^20-7|Leviticus 20:7]].
-[^14]: [[Eruvin 21#21b|*Eruvin* 21b]]; Mishnah, *Sanhedrin* 11:3. [[Berakhot 3#3b|*Berachot* 3b]]; [[Avodah Zarah 41#41a|*Avodah Zarah* 41a]]; See also [[Rosh Hashanah 19#19a|*Rosh Hashanah* 19a]]; [[Taanit 17#17b|*Taanit* 17b]]; [[Yevamot 85#85b|*Yevamot* 85b]].
-[^15]: [[Avodah Zarah 18#18a|*Avodah Zarah* 18a]].
-[^16]: *Eyn Yaakov*, [[Chagigah 15#15a|*Chagigah* 15a]]. (Comp. *Hagahot HaBach* 4, ad loc.)
-[^17]: [[Bava Metzia 33#33b|*Bava Metzia* 33b]].
+[^14]: *Eruvin* [[Eruvin 21#21b|21b]]; Mishnah, *Sanhedrin* 11:3. *Berachot* [[Berakhot 3#3b|3b]]; *Avodah Zarah* [[Avodah Zarah 41#41a|41a]]; See also *Rosh Hashanah* [[Rosh Hashanah 19#19a|19a]]; *Taanit* [[Taanit 17#17b|17b]]; *Yevamot* [[Yevamot 85#85b|85b]].
+[^15]: *Avodah Zarah* [[Avodah Zarah 18#18a|18a]].
+[^16]: *Eyn Yaakov*, *Chagigah* [[Chagigah 15#15a|15a]]. (Comp. *Hagahot HaBach* 4, ad loc.)
+[^17]: *Bava Metzia* [[Bava Metzia 33#33b|33b]].

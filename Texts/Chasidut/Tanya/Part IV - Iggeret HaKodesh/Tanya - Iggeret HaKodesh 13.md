@@ -53,7 +53,7 @@ For there are different types of *chesed*:[^34] there is *chesed olam*, the corr
 [^3]: *Gevurah*.
 [^4]: [[Micah 6#^6-8|Micah 6:8]].
 [^5]: [[Jeremiah 13#^13-17|Jeremiah 13:17]].
-[^6]: Cf. Jerusalem Talmud, *Berachot* 5:1 (Maimonides, *Hilchot Talmud Torah* 3:12); cf. also [[Moed Katan 16#16b|*Moed Kattan* 16b]].
+[^6]: Cf. Jerusalem Talmud, *Berachot* 5:1 (Maimonides, *Hilchot Talmud Torah* 3:12); cf. also *Moed Kattan* [[Moed Katan 16#16b|16b]].
 [^7]: *Ketuvot* 50a (cf. above, Epistle 10, note 36).
 [^8]: See the author’s *Hilchot Talmud Torah* 3:4 ff. and 4:6; cf. *Tzemach Tzedek—Chidushim al Hashass* on *Peah* 1:1.
 [^9]: *Ketuvot* 103b.

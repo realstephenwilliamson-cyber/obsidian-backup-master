@@ -11,6 +11,7 @@ second_reading: "Ephesians 3:14-21"
 gospel: "John 6:1-21"
 first_reading_complementary: "2 Kings 4:42-44"
 psalm_complementary: "Psalm 145:10-18"
+psalm_bcp_complementary: "Psalm 145:10-19"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-12]]"
 cssclasses:

@@ -100,7 +100,7 @@ Rabbi Yitsḥak replied, “Certainly, a *song*. Just as \[287b\] a song is draw
 
     Here Rabbi Yehudah offers a paraphrase. During their forty years of wandering in the wilderness, the people of Israel neglected (or were unable) to perform many of the *mitsvot*—especially all of those “located in the Land,” that is, pertaining to the Promised Land. But their *heart was awake*, anticipating how they would perform such commandments once they entered the Land.
 
-    On the fact that many of the *mitsvot* apply only in the land of Israel, see Naḥmanides on [[Torah 29 - Achrei Mot#^18-25|Leviticus 18:25]], [[Torah 45 - Vaetchanan#^4-5|Deuteronomy 4:5]]; *Zohar* [[Zohar 4.03 - Parashat Shemot#^z2-11b|2:11b]]; *ZḤ* 35a. Cf. BT [[Sanhedrin 43#43b|*Sanhedrin* 43b]].
+    On the fact that many of the *mitsvot* apply only in the land of Israel, see Naḥmanides on [[Torah 29 - Achrei Mot#^18-25|Leviticus 18:25]], [[Torah 45 - Vaetchanan#^4-5|Deuteronomy 4:5]]; *Zohar* [[Zohar 4.03 - Parashat Shemot#^z2-11b|2:11b]]; *ZḤ* 35a. Cf. BT *Sanhedrin* [[Sanhedrin 43#43b|43b]].
 
     Rabbi Yehudah conflates [[Song of Songs 5#^5-5|Song of Songs 5:5–6]]. The former begins: *I rose to open for my beloved*. The latter reads in full: *I opened for my beloved, but my beloved had turned away, was gone. My soul departed as he spoke. I sought him but did not find him; I called him, but he did not answer me*. See *Shir ha-Shirim Rabbah*, ad loc.
 
@@ -154,7 +154,7 @@ Rabbi Yitsḥak replied, “Certainly, a *song*. Just as \[287b\] a song is draw
 
 [^14]: **an apple tree is distinguished by its colors…** The white pulp, the red skin, and the green stem (or leaves).
 
-    For the midrashic interpretation of צבאות (*Tseva’ot*), *Hosts*, see *Mekhilta, Shirta* 1: “What is the meaning of צבאות (*Tseva’ot*), *Hosts* ([[Psalms 089#^89-9|Psalms 89:9]])? He is אות (*ot*), an ensign, among His צבא (*tsava*), host \[or: army\]. … He is *ot*, an ensign, among His holy myriads.” See BT [[Chagigah 16#16a|*Ḥagigah* 16a]]; *Shir ha-Shirim Rabbah* on 2:7; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-6a|1:6a]]; [[Zohar 6.06 - Parashat Pequdei#^z2-232a|2:232a]].
+    For the midrashic interpretation of צבאות (*Tseva’ot*), *Hosts*, see *Mekhilta, Shirta* 1: “What is the meaning of צבאות (*Tseva’ot*), *Hosts* ([[Psalms 089#^89-9|Psalms 89:9]])? He is אות (*ot*), an ensign, among His צבא (*tsava*), host \[or: army\]. … He is *ot*, an ensign, among His holy myriads.” See BT *Ḥagigah* [[Chagigah 16#16a|16a]]; *Shir ha-Shirim Rabbah* on 2:7; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-6a|1:6a]]; [[Zohar 6.06 - Parashat Pequdei#^z2-232a|2:232a]].
 
 [^15]: **the blessed Holy One is *like an apple*…** Because He includes *Ḥesed, Gevurah*, and *Tif’eret*, which are symbolized respectively by white, red, and green. *Shekhinah* (known as Assembly of Israel) is *like a rose*.
 
@@ -186,7 +186,7 @@ Rabbi Yitsḥak replied, “Certainly, a *song*. Just as \[287b\] a song is draw
 
 [^21]: **The blessed Holy One is called Heaven…** *Ze’eir Anpin* is called by this name. He includes seven *sefirot* (*Ḥesed* to *Shekhinah*, or *Binah* to *Yesod*), which are symbolized by the seven firmaments.
 
-    On Heaven as a name of the blessed Holy One, see *Bahir* 68 (100), citing [[I Kings 08#^8-32|1 Kings 8:32]]; *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-85a|2:85a]]–b; *Nitsotsei Zohar*. On the firmaments, see BT [[Chagigah 12#12b|*Ḥagigah* 12b]]: “Rabbi Yehudah said, ‘There are two רקיעים (*reqi’im*), expanses \[or: firmaments, heavens\]….’ Resh Lakish said, ‘Seven, namely וילון (*Vilon*), Curtain; רקיע (*Raqi’a*), Firmament \[or: Expanse\]; שחקים (*Sheḥaqim*), Skies; זבול (*Zevul*), Loft; מעון (*Ma’on*), Dwelling; מכון (*Makhon*), Site \[or: Foundation\]; ערבות (*Aravot*), Clouds. *Vilon* performs no function at all except entering in the morning and leaving in the evening, and renewing each day the act of Creation.’” See above, pp. 600–601, n. 297.
+    On Heaven as a name of the blessed Holy One, see *Bahir* 68 (100), citing [[I Kings 08#^8-32|1 Kings 8:32]]; *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-85a|2:85a]]–b; *Nitsotsei Zohar*. On the firmaments, see BT *Ḥagigah* [[Chagigah 12#12b|12b]]: “Rabbi Yehudah said, ‘There are two רקיעים (*reqi’im*), expanses \[or: firmaments, heavens\]….’ Resh Lakish said, ‘Seven, namely וילון (*Vilon*), Curtain; רקיע (*Raqi’a*), Firmament \[or: Expanse\]; שחקים (*Sheḥaqim*), Skies; זבול (*Zevul*), Loft; מעון (*Ma’on*), Dwelling; מכון (*Makhon*), Site \[or: Foundation\]; ערבות (*Aravot*), Clouds. *Vilon* performs no function at all except entering in the morning and leaving in the evening, and renewing each day the act of Creation.’” See above, pp. 600–601, n. 297.
 
     The *Aggadta* of the House of Rav Sava (the Elder) is one of the many volumes housed in the real or imaginary library of the authors of the *Zohar*. On this library, see above, p. 165, n. 38.
 

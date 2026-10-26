@@ -11,6 +11,7 @@ second_reading: "Hebrews 9:11-14"
 gospel: "Mark 12:28-34"
 first_reading_complementary: "Deuteronomy 6:1-9"
 psalm_complementary: "Psalm 119:1-8"
+psalm_bcp_complementary: "Psalm 119:1-8"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-26]]"
 cssclasses:

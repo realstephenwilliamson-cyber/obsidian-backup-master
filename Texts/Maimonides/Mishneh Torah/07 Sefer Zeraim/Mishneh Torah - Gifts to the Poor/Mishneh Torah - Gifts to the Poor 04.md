@@ -131,7 +131,7 @@ Why is such [an underdeveloped cluster] called an *ollel*?[^42] Because it is co
 [^31]: See Chapter 9, Halachah 13.
 [^32]: I.e., instead of leaving it to be the property of the poor, he desires to declare it ownerless so that it can be acquired by the rich as well as the poor.
 [^33]: I.e., once the majority has fallen, the status of the entire quantity is defined (Radbaz).
-[^34]: But instead, it belongs to the poor (see [[Temurah 25#25a|*Temurah* 25a]]).
+[^34]: But instead, it belongs to the poor (see *Temurah* [[Temurah 25#25a|25a]]).
 [^35]: Individual grapes that fall that must be left for the poor, as stated in [[Torah 30 - Kedoshim#^19-10|Leviticus 19:10]].
 [^36]: This law follows the same logic which motivates Halachot 6-7 which states that an owner who makes a grainheap on the place where *leket* has fallen must give all the stalks touching the ground to the poor. In this instance as well, since his grapes become mixed with those which fell as *peret*, we penalize him preventing him from taking any of the individual grapes.  
     The Jerusalem Talmud (*Pe'ah* 6:4) mentions two opinions: one which states that this stringency applies only to half a cluster and one that it applies even to the entire cluster. The Rambam follows the latter view.
@@ -148,7 +148,7 @@ Why is such [an underdeveloped cluster] called an *ollel*?[^42] Because it is co
 [^45]: I.e., and not to any other type of fruit.
 [^46]: I.e., the obligation to observe these mitzvot begins "When you harvest..." and not before.
 [^47]: Instead, they are included in his consecration.
-[^48]: Once he becomes aware of the underdeveloped clusters, they become the property of the poor and the owner cannot consecrate them, because a person cannot consecrate property that does not belong to him (the Rambam's Commentary to the Mishnah, *Pe'ah* 7:8, based on the Jerusalem Talmud and [[Arakhin 28#28a|*Arachin* 28a]]).  
+[^48]: Once he becomes aware of the underdeveloped clusters, they become the property of the poor and the owner cannot consecrate them, because a person cannot consecrate property that does not belong to him (the Rambam's Commentary to the Mishnah, *Pe'ah* 7:8, based on the Jerusalem Talmud and *Arachin* [[Arakhin 28#28a|28a]]).  
     *Tosafot Yom Tov* asks: Since, as stated in the previous halachah, the poor are not entitled to the produce until the owner begins his harvest, seemingly, it remains the property of the owner and he has the right to consecrate it. He explains that although the poor do not have the right to collect it until the harvest begins, these clusters belong to them and not the owner and he does not have the right to consecrate them.
 [^49]: I.e., for their increase in value from the time they were consecrated until they became ripe (*ibid.*).
 [^50]: Because the grapes from the clusters belonging to the poor are deriving benefit from land and vine consecrated to the Temple treasury.

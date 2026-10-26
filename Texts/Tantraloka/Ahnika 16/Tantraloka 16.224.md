@@ -33,7 +33,7 @@ aliases:
 >
 > (In some cases,) even though the object of purification has not been deposited (on the disciple’s body), all that needs to be purified is completely purified just by depositing the purifying (mantras) alone, by virtue of the power of what it is (vastubala) (that is, the power of Mantra). (with 16.223cd–224ab)
 >
-> And (the same) is said by the Supreme Lord in the venerable Mrtyuṁjaya for example (where we read): ‘Now, the gross elements are purified (bhūtaśuddhi) by just the deposition (of mantra) alone. (with 16.224cd–225ab)
+> And (the same) is said by the Supreme Lord in the venerable Mrtyuṁjaya for example (where we read): ‘Now, the gross elements are purified (bhūtaśuddhi) by just the deposition (of mantra) alone.’ (with 16.224cd–225ab)
 
 ## Viveka
 

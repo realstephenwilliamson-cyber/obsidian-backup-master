@@ -126,7 +126,7 @@ Bede: And observe that He does somewhere answer Pilate, who condemned Him unwill
 
 It goes on: “And the Chief Priests accused Him of many things.”
 
-Augustine, de. Con. Evan., iii, 8: Luke has also laid open the false charges which they brought against Him; for he thus relates it: “And they began to accuse Him, saying, We found this fellow perverting the nation, and forbidding to give tribute to Caesar, saying that he himself is Christ a King.” \[Luke 23:2\]
+Augustine, de. Con. Evan., iii, 8: Luke has also laid open the false charges which they brought against Him; for he thus relates it: “And they began to accuse Him, saying, We found this fellow perverting the nation, and forbidding to give tribute to Caesar, saying that he himself is Christ a King.” \[[[Luke 23#^23-2|Luke 23:2]]\]
 
 There follows: “And Pilate asked Him, saying, Answerest thou nothing? behold how many things they witness against thee.”
 
@@ -186,7 +186,7 @@ Bede: This demand which the Jews made with such toil to themselves still sticks 
 
 Then Pilate gives another opportunity of releasing the Saviour, when there follows, “And Pilate answered and said again unto them, What will ye then that I should do unto the King of the Jews?”
 
-Augustine: It now is clear enough that Mark means by “King of the Jews” what Matthew means by the word, “Christ”; for no kings but those of the Jews were called Christs. For in this place according to Matthew it is said, “What then shall I do with Jesus which is called Christ?” \[Matt 27:22\]
+Augustine: It now is clear enough that Mark means by “King of the Jews” what Matthew means by the word, “Christ”; for no kings but those of the Jews were called Christs. For in this place according to Matthew it is said, “What then shall I do with Jesus which is called Christ?” \[[[Matthew 27#^27-22|Matt 27:22]]\]
 
 There follows: “And they cried out again, “Crucify him!”
 
@@ -204,7 +204,7 @@ Theophylact: He wished indeed to satisfy the people, that is, to do their will, 
 
 Pseudo-Jerome: Here are two goats; one is the scape goat, that is, one loosed and sent out into the wilderness of hell with the sin of the people; the other is slain, as a lamb, for the sins of those who are forgiven. The Lord’s portion is always slain; the devil’s part, (for he is the master of those men, which is the meaning of Barabbas,) when freed, is cast headlong into hell.
 
-Bede: We must understand that Jesus was scourged by no other than Pilate himself. For John writes: “Pilate took Jesus, and scourged Him,” \[John 19:1\] which we must suppose that he did, that the Jews might be satisfied with Him pains and insults, and cease from thirsting for His blood.
+Bede: We must understand that Jesus was scourged by no other than Pilate himself. For John writes: “Pilate took Jesus, and scourged Him,” \[[[John 19#^19-1|John 19:1]]\] which we must suppose that he did, that the Jews might be satisfied with Him pains and insults, and cease from thirsting for His blood.
 
 16\. And the soldiers led Him away into the hall, called Praetorium; and they called together the whole band.
 
@@ -232,7 +232,7 @@ Pseudo-Jerome: His shame took away our shame; His bonds made us free; by the tho
 
 Augustine: It appears that Matthew and Mark here relate things which took place previously, not that they happened when Pilate had already delivered Him to be crucified. For John says that these things took place at Pilate’s house; but that which follows, “And when they had mocked Him, they took off the purple from Him, and put on Him His own clothes,” must be understood to have taken place last of all, when He was already being led to be crucified.
 
-Pseudo-Jerome: But in a mystic sense, Jesus was stripped of His clothes, that is, of the Jews, and is clothed in a purple robe, that is, in the Gentile church, which is gathered together out of the rocks. Again, putting it off in the end, as offending, He again is clothed with the Jewish purple, \[Rom 11:25\] for when the fulness of the Gentiles is come in, then shall all Israel be saved.
+Pseudo-Jerome: But in a mystic sense, Jesus was stripped of His clothes, that is, of the Jews, and is clothed in a purple robe, that is, in the Gentile church, which is gathered together out of the rocks. Again, putting it off in the end, as offending, He again is clothed with the Jewish purple, \[[[Romans 11#^11-25|Rom 11:25]]\] for when the fulness of the Gentiles is come in, then shall all Israel be saved.
 
 Bede: Or else, by the purple robe, with which the Lord is clothed, is meant His flesh itself, 315 which He gave up to suffering, and by the thorny crown which He carried is meant, the taking upon Him of our sins.
 
@@ -242,7 +242,7 @@ Bede: But they smite the head of Christ, who deny that He is very God. And becau
 
 *[p. 245]* ^pg249
 
-but by their perverse actions, despise His words as though they were fabulous, and think the promises of that word inferior to worldly allurements. But just as Caiaphas said, though he knew not what it meant, “It is expedient for us that one man should die for the people,” \[John 11:50\] so also the soldiers do these things in ignorance.
+but by their perverse actions, despise His words as though they were fabulous, and think the promises of that word inferior to worldly allurements. But just as Caiaphas said, though he knew not what it meant, “It is expedient for us that one man should die for the people,” \[[[John 11#^11-50|John 11:50]]\] so also the soldiers do these things in ignorance.
 
 20\. —— And led Him out to crucify Him.
 
@@ -300,7 +300,7 @@ In this place salvation is figured by the wood; the first wood was that of the t
 
 With the form of a serpent \[ed. note: This clause is not in Pseudo-Jerome; its obscurity may be cleared up by comparing it with a passage in St. Augustine’s sixth sermon, where it is said that the serpent signifies death, and that Moses’ rod was changed into a serpent because our Lord took upon Himself death for us. In St. Gregory Nyasen, the serpent is said to signify sin, de vita Mosis, p.193, v. also St. Ambrose, de Spiritu Sancto 3, 50.\] He kills the serpent, for the serpent made out of the rod swallowed up the other serpents. But what means the shape itself of the cross, save the four quarters of the world; the East shines from the top, the North is on the right, the South on the left, the West is firmly fixed under the feet.
 
-Wherefore the Apostle says: “That we may know what is the height, and breadth, and length, and depth.” \[Eph 3:18\]
+Wherefore the Apostle says: “That we may know what is the height, and breadth, and length, and depth.” \[[[Ephesians 03#^3-18|Eph 3:18]]\]
 
 Birds, when they fly in the air, take the shape of a cross; a man swimming in the waters is borne up by the form of a cross. A ship is blown along by its yards, which are in the shape of the cross. The letter Tan is written as the sign of salvation and of the cross.
 
@@ -310,7 +310,7 @@ Theophylact: But their casting lots for His garments was also meant as an insult
 
 *[p. 248]* ^pg252
 
-else into four parts, according to their number, cast lots for the coat, which “was without seam, woven from the top throughout.” \[John 19:23\]
+else into four parts, according to their number, cast lots for the coat, which “was without seam, woven from the top throughout.” \[[[John 19#^19-23|John 19:23]]\]
 
 Pseudo-Jerome: Now the garments of the Lord are His commandments, by which His body, that is, the Church is covered; which the soldiers of the Gentiles divide amongst themselves, that there may be four classes with one faith, the married, and the widowed, those who bear rule, and those who are separate. \[ed. note: The Catena, Glossa ordinaria, and editions of St. Jerome, which often correct each other, here agree in the reading “praepositi et separsti.” It appears to be only another instance of this writer’s obscurity.\] They cast lots for the undivided garment, which is peace and unity.
 
@@ -414,7 +414,7 @@ Bede: For when Adam sinned, it is also written that he heard the voice of the Lo
 
 Nor need you wonder at the lowliness of His words, at the complaints as of one forsaken, when you look on the offense of the cross, knowing the form of a servant. For as hunger, and thirst, and fatigue were not things proper to the Divinity, but bodily afflictions; so His saying, “Why hast Thou forsaken me?” was proper to a bodily voice, for the body is never naturally wont to wish to be separated from the life which is joined to it. For although our Saviour Himself said this, He really shewed the weakness of His body; He spoke therefore as man, bearing about with Him my feelings, for when placed in danger we fancy that we are deserted by God.
 
-Theophylact: Or, He speaks this as man crucified by God for me, for we men have been forsaken by the Father, but He never has. For hear what He says; “I am not along, because the Father is with me.” \[John 16:32\] Though He may also have said this as being a Jew, according to the flesh, as though He had said, Why hast thou forsaken the Jewish people, so that they have crucified Thy Son? For as we sometimes say, God has put on me, that is, my
+Theophylact: Or, He speaks this as man crucified by God for me, for we men have been forsaken by the Father, but He never has. For hear what He says; “I am not along, because the Father is with me.” \[[[John 16#^16-32|John 16:32]]\] Though He may also have said this as being a Jew, according to the flesh, as though He had said, Why hast thou forsaken the Jewish people, so that they have crucified Thy Son? For as we sometimes say, God has put on me, that is, my
 
 *[p. 253]* ^pg257
 
@@ -426,7 +426,7 @@ Bede: These however I suppose were Roman soldiers who did not understand the pec
 
 It goes on: “And one ran and filled a sponge full of vinegar, and put it on a reed, and gave Him to drink, saying, Let along; let us see whether Elias will come to take Him down.”
 
-John shews more fully the reason why the vinegar was given to the Lord to drink, saying, that Jesus said, “I thirst,” \[John 19:28\] that the Scriptures might be fulfilled. They however applied a sponge full of vinegar to His mouth.
+John shews more fully the reason why the vinegar was given to the Lord to drink, saying, that Jesus said, “I thirst,” \[[[John 19#^19-28|John 19:28]]\] that the Scriptures might be fulfilled. They however applied a sponge full of vinegar to His mouth.
 
 Pseudo-Jerome: Here he points out a similitude for the Jews; a sponge on a reed, weak, dry, fit for burning; they fill it with vinegar, that is, with wickedness and guile.
 
@@ -478,7 +478,7 @@ Bede: He means by James the Less, the son of Alphaeus, who was also called the b
 
 *[p. 255]* ^pg259
 
-saying, “Now there stood by the cross of Jesus His mother and His mother’s sister, Mary of Cleophas, and Mary Magdalene.” \[John 19:25\]
+saying, “Now there stood by the cross of Jesus His mother and His mother’s sister, Mary of Cleophas, and Mary Magdalene.” \[[[John 19#^19-25|John 19:25]]\]
 
 And he seems to call her Mary of Cleophas, from her father or some relation. But he was called James the Less, to distinguish him from James the Great, that is, the son of Zebedee, who was called amongst the first of the Apostles by our Lord. Further, it was a Jewish custom, nor was it thought blamable after the manners of an ancient people, that women should furnish to teachers food and clothing out of their substance.
 
@@ -546,7 +546,7 @@ Pseudo-Jerome: These things also fit the Jewish people, which finally is believi
 
 *[p. 258]* ^pg262
 
-firm in the safeguard of faith, and shuts it up with the covering of hope, through works of charity; (for the end of the commandment is charity; \[1 Tim 1:5\]) whilst the elect, who are the stars of the sea, are looking on from afar, for, if it be possible, the very elect shall be offended.
+firm in the safeguard of faith, and shuts it up with the covering of hope, through works of charity; (for the end of the commandment is charity; \[[[1 Timothy 01#^1-5|1 Tim 1:5]]\]) whilst the elect, who are the stars of the sea, are looking on from afar, for, if it be possible, the very elect shall be offended.
 
 *[p. 259]* ^pg263
 
@@ -590,7 +590,7 @@ Augustine, Con. Evang., iii, 24: What Luke expresses by “very early in the mor
 
 For when the day is dawning, the remains of darkness lessen in proportion as the light 335 grows brighter; and we must not take the words “very early in the morning, at the rising of the sun,” to mean that the sun himself was seen upon the earth, but as expressing the near approach of the sun into those parts, that is, when his rising begins to light up the sky.
 
-Pseudo-Jerome: By “very early in the morning,” he means what another Evangelist expresses by at the dawning \[Luke 24:1, dilueulo\]. But the dawn is the time between the darkness of night, and the brightness of day, in which the salvation of man is coming forth with a happy closeness, to be declared in the Church, just as the sun, when he is rising and the light is near, sends before him the rosy dawn, that with prepared eyes she may bear to see the graciousness of his glorious brightness, when the time of our Lord’s Resurrection has dawned; that then the whole Church, after the example of the women, may sing the praises of Christ, since He has quickened the race of man after the pattern of His Resurrection, since He has given life, and has poured upon them the light of belief.
+Pseudo-Jerome: By “very early in the morning,” he means what another Evangelist expresses by at the dawning \[[[Luke 24#^24-1|Luke 24:1]], dilueulo\]. But the dawn is the time between the darkness of night, and the brightness of day, in which the salvation of man is coming forth with a happy closeness, to be declared in the Church, just as the sun, when he is rising and the light is near, sends before him the rosy dawn, that with prepared eyes she may bear to see the graciousness of his glorious brightness, when the time of our Lord’s Resurrection has dawned; that then the whole Church, after the example of the women, may sing the praises of Christ, since He has quickened the race of man after the pattern of His Resurrection, since He has given life, and has poured upon them the light of belief.
 
 Bede, in Marc., 4, 40: As then the women shew the great fervency of their love, by coming very early in the morning to the sepulchre, as the history relates, according to the mystical sense an example is given to us, that with a shining face, and shaking off the darkness of wickedness, we may be careful to offer the fragrance of good works and the sweetness of prayer to the Lord.
 
@@ -630,11 +630,11 @@ Bede: Now they saw a young man sitting on the right side, that is, on the south 
 
 Greg.: But what is meant by the left hand, but this present life, and what by the right, but everlasting life? Because then our Redeemer had already gone through the decay of this present life, fitly did the Angel, who had come to announce His everlasting life, sit on the right hand.
 
-337 Severianus, Chrysologus: Again, they saw a young man sitting on the right, because the Resurrection has nothing sinister in it. They also see him dressed in a long white robe; that robe is not from mortal fleece, but of living virtue, blazing with heavenly light, not of an earthly dye, as saith the Prophet, “Thou deckest thyself with light as with a garment;” \[Ps 104:2\] and of the just it is said, “Then shall the righteous shine forth as the sun.” \[Matt 13:43\]
+337 Severianus, Chrysologus: Again, they saw a young man sitting on the right, because the Resurrection has nothing sinister in it. They also see him dressed in a long white robe; that robe is not from mortal fleece, but of living virtue, blazing with heavenly light, not of an earthly dye, as saith the Prophet, “Thou deckest thyself with light as with a garment;” \[Ps 104:2\] and of the just it is said, “Then shall the righteous shine forth as the sun.” \[[[Matthew 13#^13-43|Matt 13:43]]\]
 
 Greg.: Or else, he appeared covered with a white robe, because he announced the joys of our festivity, for the whiteness of the robe shews the splendour of our solemnity.
 
-Pseudo-Jerome: The white robe is also true joy, now that the enemy is driven away, the kingdom won, the King of Peace sought for and found and never let go by us. This young man then shews an image of the Resurrection to them who feared death. But their being frightened shews that “Eye hath not seen, nor ear heard, neither have entered into the heart of man to conceive the things which God hath prepared for them that love Him.” \[1 Cor 2:9\]
+Pseudo-Jerome: The white robe is also true joy, now that the enemy is driven away, the kingdom won, the King of Peace sought for and found and never let go by us. This young man then shews an image of the Resurrection to them who feared death. But their being frightened shews that “Eye hath not seen, nor ear heard, neither have entered into the heart of man to conceive the things which God hath prepared for them that love Him.” \[[[1 Corinthians 02#^2-9|1 Cor 2:9]]\]
 
 There follows: “And he saith unto them, Be not affrighted.”
 
@@ -692,7 +692,7 @@ There follows: “Neither said they any thing to any man, for they were afraid.�
 
 Theophylact: Either on account of the Jews, or else they said nothing because the fear of the vision prevented them.
 
-Augustine, de Con. Evan., iii, 24: We may however enquire how Mark can say this, when Matthew says, “they departed quickly from the sepulchre with fear and great joy, and did run to bring His disciples word,” \[Matt 28:8\] unless we understand it to mean, that they did not dare to say a word to any of the Angels themselves, that is, to answer the words which 340 they had spoken to them; or else to the guards whom they saw lying there; for that joy of which Matthew speaks is not inconsistent with the fear which Mark mentions. For we ought to have understood that both feelings were in their minds, even though Matthew had not mentioned the fear. But since he has also said that they came out with fear and great joy, he does not allow room for any question to be raised.
+Augustine, de Con. Evan., iii, 24: We may however enquire how Mark can say this, when Matthew says, “they departed quickly from the sepulchre with fear and great joy, and did run to bring His disciples word,” \[[[Matthew 28#^28-8|Matt 28:8]]\] unless we understand it to mean, that they did not dare to say a word to any of the Angels themselves, that is, to answer the words which 340 they had spoken to them; or else to the guards whom they saw lying there; for that joy of which Matthew speaks is not inconsistent with the fear which Mark mentions. For we ought to have understood that both feelings were in their minds, even though Matthew had not mentioned the fear. But since he has also said that they came out with fear and great joy, he does not allow room for any question to be raised.
 
 Severianus, Chrysologus: It is said also in a marked manner, that they said nothing to any one, because it is the part of women to hear, and not to speak, to learn, not to teach.
 
@@ -726,7 +726,7 @@ For it goes on: “And she went and told them that had been with Him as they mou
 
 Pseudo-Jerome: They mourn and weep because they had not yet seen, but after a short time they shall receive a consolation. For blessed are they that weep now, for they shall be comforted.
 
-Bede: Fitly too is this woman, who was the first to announce the joy of our Lord’s Resurrection, said to have been cured of seven devils, lest any one worthily repenting of his sins should despair of pardon for what he had done, and that is might be shewn that “where sin abounded, grace did much more abound.” \[Rom 5:20\]
+Bede: Fitly too is this woman, who was the first to announce the joy of our Lord’s Resurrection, said to have been cured of seven devils, lest any one worthily repenting of his sins should despair of pardon for what he had done, and that is might be shewn that “where sin abounded, grace did much more abound.” \[[[Romans 05#^5-20|Rom 5:20]]\]
 
 *[p. 266]* ^pg270
 
@@ -744,7 +744,7 @@ That which Mark expresses by the Lord’s appearance “in another form,” is w
 
 Severianus, Chrysologus: But let no one suppose that Christ changed the form of His face by His Resurrection, but the form is changed when of mortal it becomes immortal, so that this means that He gained a glorious countenance, not that He lost the substance of His countenance. But He was seen of two; because faith in the Resurrection is to be preached and shewn to two people, that is, the Gentiles and the Jews.
 
-There follows: “And they went and told it unto the residue, neither believed they them.” How are we to understand the words of Mark compared with the account of Luke, that they then said, “The Lord hath risen indeed, and hath appeared unto Simon,” \[Luke 24:34\] if we do not suppose that there were some there who would not believe?
+There follows: “And they went and told it unto the residue, neither believed they them.” How are we to understand the words of Mark compared with the account of Luke, that they then said, “The Lord hath risen indeed, and hath appeared unto Simon,” \[[[Luke 24#^24-34|Luke 24:34]]\] if we do not suppose that there were some there who would not believe?
 
 Theophylact: For he does not say this of the eleven, but of some others, whom He calls the residue.
 
@@ -764,7 +764,7 @@ Pseudo-Jerome: But in a mystic sense we may understand that faith here labours, 
 
 Gloss: Mark, when about to finish his Gospel, relates the last appearance of our Lord to His disciples after His Resurrection, saying, “For the last time He appeared unto the eleven as they sat at meat.”
 
-Greg.: We should observe that Luke says in the Acts, “As He was eating with them \[convescens\] He commanded that they should not depart from Jerusalem,” \[Acts 1:4\] and shortly afterwards, “while they beheld He was taken up.” \[Acts 1:9\] For He ate, and then ascended, that by the act of eating, the truth of the flesh might be declared.
+Greg.: We should observe that Luke says in the Acts, “As He was eating with them \[convescens\] He commanded that they should not depart from Jerusalem,” \[[[Acts 01#^1-4|Acts 1:4]]\] and shortly afterwards, “while they beheld He was taken up.” \[[[Acts 01#^1-9|Acts 1:9]]\] For He ate, and then ascended, that by the act of eating, the truth of the flesh might be declared.
 
 Wherefore it is also here said that “He appeared to them for the last time as they sat at meat.”
 
@@ -772,9 +772,9 @@ Pseudo-Jerome: But He appeared when all the eleven were together, that all might
 
 It goes on: “And upbraided them with their unbelief and hardness of heart, because they believed not them who had seen Him after His Resurrection.”
 
-Augustine: But how was this done “the last time?” The last occasion on which the Apostles saw the Lord upon earth happened forty days after the Resurrection; but would He then have upbraided them for not believing those who had seen Him risen, when they themselves had so often seen Him after His Resurrection? It remains therefore that we should understand that Mark wished to say it in few words, and said “for the last time,” because it was the last time that He shewed Himself that day, as night was coming on, when the disciples returned from the country into Jerusalem, and found, as Luke says, \[Luke 24:33\] the eleven and those who were with them, speaking together concerning the Resurrection of our Lord.
+Augustine: But how was this done “the last time?” The last occasion on which the Apostles saw the Lord upon earth happened forty days after the Resurrection; but would He then have upbraided them for not believing those who had seen Him risen, when they themselves had so often seen Him after His Resurrection? It remains therefore that we should understand that Mark wished to say it in few words, and said “for the last time,” because it was the last time that He shewed Himself that day, as night was coming on, when the disciples returned from the country into Jerusalem, and found, as Luke says, \[[[Luke 24#^24-33|Luke 24:33]]\] the eleven and those who were with them, speaking together concerning the Resurrection of our Lord.
 
-344 But there were some there who did not believe; when these then were sitting at meat, (as Mark says,) and were still speaking, (as Luke relates,) “The Lord stood in the midst of them, and saith unto them, Peace be unto you;” \[Luke 24:36\] as Luke and John \[John 20:19\] say. The rebuke therefore which Mark here mentions must have been amongst those words, which Luke and John say, that the Lord at that time spoke to the disciples. But another
+344 But there were some there who did not believe; when these then were sitting at meat, (as Mark says,) and were still speaking, (as Luke relates,) “The Lord stood in the midst of them, and saith unto them, Peace be unto you;” \[[[Luke 24#^24-36|Luke 24:36]]\] as Luke and John \[[[John 20#^20-19|John 20:19]]\] say. The rebuke therefore which Mark here mentions must have been amongst those words, which Luke and John say, that the Lord at that time spoke to the disciples. But another
 
 *[p. 268]* ^pg272
 
@@ -790,7 +790,7 @@ Pseudo-Jerome: But He rebukes their want of faith, that faith might take its pla
 
 Greg.: After rebuking the hardness of their hearts, let us hear the words of advice which He speaks. For it goes on: “Go ye into all the world, and preach the Gospel to every creature.” Every man must be understood by “every creature;” for man partakes something of every creatures; he has existence as have stones, life as trees, feeling as animals, understanding as have Angels. For the Gospel is preached to every creature, because He is taught by it, for whose sake all are created, whom all things are in some way like, and from whom therefore they are not alien.
 
-By the name of every creature also every nation of the Gentiles may be meant. For it had been said before, “Go not into the way of the Gentiles.” \[Matt 10:5\] But now it is said, “Preach the Gospel to every creature,” so that the preaching of the Apostles which was thrust
+By the name of every creature also every nation of the Gentiles may be meant. For it had been said before, “Go not into the way of the Gentiles.” \[[[Matthew 10#^10-5|Matt 10:5]]\] But now it is said, “Preach the Gospel to every creature,” so that the preaching of the Apostles which was thrust
 
 *[p. 269]* ^pg273
 
@@ -806,7 +806,7 @@ Bede: What shall we say here about infants, who by reason of their age cannot ye
 
 It goes on: “And these signs shall follow them that believe; In My name shall they cast out devils; they shall speak with new tongues; they shall take up serpents.”
 
-Theophlyact: That is, they shall scatter before them serpents, whether intellectual or sensible, as it is said, Ye shall tread upon serpents and scorpions, \[Luke 10:19\] which is un- 346 derstood spiritually. But it may also mean sensible serpents, as when Paul received no hurt from the viper.
+Theophlyact: That is, they shall scatter before them serpents, whether intellectual or sensible, as it is said, Ye shall tread upon serpents and scorpions, \[[[Luke 10#^10-19|Luke 10:19]]\] which is un- 346 derstood spiritually. But it may also mean sensible serpents, as when Paul received no hurt from the viper.
 
 There follows: “And if they drink any deadly thing, it shall not hurt them.” We read of many such cases in history, for many persons have drank poison unhurt, by guarding themselves with the sign of Christ.
 
@@ -848,7 +848,7 @@ Bede: Observe that in proportion as Mark began his history later, so he makes it
 
 Greg.: But what should we consider in these words, if it be not that obedience follows the precept and signs follow the obedience? For the Lord had commanded them, “Go into all the world preaching the Gospel,” and, Ye shall be witnesses even unto the ends of the earth.
 
-Augustine, Epist., CXCIX \[199\], 12: But how was this preaching fulfilled by the Apostles, \[Acts 1:8\] since there are many nations in which it has just begun, and others in which it has not yet begun to be fulfilled? Truly then this precept was not so laid upon the Apostles by our Lord, as though they alone to whom He then spoke were to fulfil so great a charge; in the same way as He says, “Behold, I am with you always, even unto the end of the world,” apparently to them alone; but who does not understand that the promise is made to the Catholic Church, which though some are dying, others are born, shall be here unto the end of the world?
+Augustine, Epist., CXCIX \[199\], 12: But how was this preaching fulfilled by the Apostles, \[[[Acts 01#^1-8|Acts 1:8]]\] since there are many nations in which it has just begun, and others in which it has not yet begun to be fulfilled? Truly then this precept was not so laid upon the Apostles by our Lord, as though they alone to whom He then spoke were to fulfil so great a charge; in the same way as He says, “Behold, I am with you always, even unto the end of the world,” apparently to them alone; but who does not understand that the promise is made to the Catholic Church, which though some are dying, others are born, shall be here unto the end of the world?
 
 Theophylact: But we must also know from this that words are confirmed by deeds as then, in the Apostles, works confirmed their words, for signs followed. Grant then, O Christ, that the good words which we speak may be confirmed by works and deeds, so that at the last, Thou working with us in word and in deed, we may be perfect, for Thine as is fitting 349 is the glory both of word and deed.
 

@@ -42,7 +42,7 @@ N.W.
 
 _______________
 
-[^1]: *Zohar Ḥadash* contains material under the heading *Midrash ha-Ne’lam* to *parashat Be-Shallaḥ* (*ZḤ* [[Zohar 12.11 - Zohar al ha-Parashot#^zh-30b|30b–31a]]) though as noted by Ronit Meroz, “R. Yosef Angelet u-Khtavav ha-‘Zohariyyim,’” 319–20, this passage appears to belong to Joseph Angelet. Likewise, the material appearing under the title *Midrash ha-Ne’lam* to *parashat Aḥarei Mot* (*[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-46d|ZḤ* 46d]]–48a) displays much greater affinity with *Midrash ha-Ne’lam* on the book of Ruth. It will appear in volume 11.
+[^1]: *Zohar Ḥadash* contains material under the heading *Midrash ha-Ne’lam* to *parashat Be-Shallaḥ* (*ZḤ* [[Zohar 12.11 - Zohar al ha-Parashot#^zh-30b|30b–31a]]) though as noted by Ronit Meroz, “R. Yosef Angelet u-Khtavav ha-‘Zohariyyim,’” 319–20, this passage appears to belong to Joseph Angelet. Likewise, the material appearing under the title *Midrash ha-Ne’lam* to *parashat Aḥarei Mot* (*ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-46d|46d]]–48a) displays much greater affinity with *Midrash ha-Ne’lam* on the book of Ruth. It will appear in volume 11.
 
 [^2]: *Zohar Ḥadash*, literally “New Zohar,” was first printed in Salonika in 1597. It was so called because it contained material omitted from the first printed editions of the *Zohar* (Mantua 1558–60 and Cremona 1558).
 

@@ -53,7 +53,7 @@ When we add five days to Rosh Chodesh Nisan, which is Thursday, we reach Monday.
 
 **8.** Although we said that one should continue to add days until one reaches the day of the week on which the equinox takes place, one should never have to add more than one, two, or three days[^28] - or in a most unusual case - four days.[^29] If you find it necessary to add any more days than this, know that you have made an error in your calculations, and you should recalculate carefully. ^9-8
 
-[^1]: Shemuel ([[Eruvin 56#56a|*Eruvin* 56a]]).
+[^1]: Shemuel (*Eruvin* [[Eruvin 56#56a|56a]]).
 [^2]: Rav Ada (*Ibid.*). His opinion is discussed in the following chapter.
 [^3]: Ptolemy and Albatani, astronomers whose opinions were valued by the Rambam, from Greece and Arabia respectively, both maintain that the length of a solar year is less than 365 days and six hours. There is, however, a difference between the figures each of them suggests. According to contemporary science, the length of a tropical solar year is 365 days, 5 hours, 48 minutes and 45 1/2 seconds. It is decreasing at the rate of 0.530 second per century.
 [^4]: Chapter 6, Halachah 10.

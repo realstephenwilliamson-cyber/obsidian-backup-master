@@ -144,12 +144,12 @@ c) because of the prohibition: "Do not delay in paying it," and because of the p
 [^8]: This represents a contrast to other Torah prohibitions. As stated in *Hilchot Ma'achalot Assurot* 4:16, "when a person takes a small amount of fat, a small amount of blood, a small amount of the meat of a non-kosher animal, a small amount of the meat of a *nevelah*, a small amount of the meat of a non-kosher fish, a small amount of the meat of a non-kosher fowl, or the like from other prohibited substances, although he collects an olive-sized portion from the entire mixture and partakes of it, he is not liable for lashes."
 [^9]: He must, however, eat the olived-sized portion within the time it takes to eat three eggs, as explained in *Hilchot Ma'achalot Assurot* 14:8.
 [^10]: From the Rambam's wording, it appears that eating and drinking are not combined to reach a single measure.
-[^11]: This ruling is the subject of a difference of opinion among our Sages ([[Nazir 35#35b|*Nazir* 35b]]-37b). Although there is an opinion which maintains that with regard to a nazirite - in contrast to all the other prohibitions of the Torah - the permitted food should be counted as part of the forbidden measure, the Rambam does not accept this view as Halachah.
+[^11]: This ruling is the subject of a difference of opinion among our Sages (*Nazir* [[Nazir 35#35b|35b]]-37b). Although there is an opinion which maintains that with regard to a nazirite - in contrast to all the other prohibitions of the Torah - the permitted food should be counted as part of the forbidden measure, the Rambam does not accept this view as Halachah.
 [^12]: *Hilchot Ma'achalot Assurot* 15:3.
 [^13]: The measure described in the previous halachah.
 [^14]: See *Hilchot Ma'achalot Assurot* 14:9 where the Rambam states that to be liable for lashes, one must drink a prohibited substance in the time it takes to drink a *revi'it*. Here, however, he mentions the time it takes to eat *k'dei achilat p'ras*. It is possible to explain that here, the person is "eating" the wine, i.e., ingesting it as it is absorbed in solid food. Hence, he uses a measure of time that involves eating. In *Hilchot Ma'achalot Assurot*, he speaks about drinking. Hence, he uses a measure of time that involves drinking.
 [^15]: We have translated the verse according to its halachic interpretation. Its literal meaning is somewhat different.
-[^16]: [[Nazir 37#37a|*Nazir* 37a]] exemplifies this concept as follows: One soaked grapes in water and the flavor of the water became that of grape juice.
+[^16]: *Nazir* [[Nazir 37#37a|37a]] exemplifies this concept as follows: One soaked grapes in water and the flavor of the water became that of grape juice.
 [^17]: See *Hilchot Ma'achalot Assurot* 15:3.
 [^18]: I.e., as stated in *Hilchot Ma'achalot Assurot* 15:1-2, if a prohibited substance becomes mixed into another entity, its presence is nullified if there is so much of the permitted entity that the flavor of the prohibited substance cannot be detected. (When it is impossible to have someone taste the mixture, we require 60 times the amount of the forbidden substance.)
 [^19]: See *Hilchot Ma'achalot Assurot* 15:2-3. There the Rambam states that if there was less than an olive-sized portion of forbidden fat in a portion the size of three eggs, it is considered as if the substance of the prohibited substance is not present. Hence, according to Scriptural Law, there is no prohibition, even if the flavor of the forbidden fat is detectable.  
@@ -161,11 +161,11 @@ c) because of the prohibition: "Do not delay in paying it," and because of the p
 [^23]: And God will mete out punishment to him for every violation [the Rambam's Commentary to the Mishnah (*Nazir* 6:4)].
 [^24]: See Halachah 8.
 [^25]: The warning causes every violation to be considered independently (Radbaz).
-[^26]: [[Avodah Zarah 59#59a|*Avodah Zarah* 59a]].
+[^26]: *Avodah Zarah* [[Avodah Zarah 59#59a|59a]].
 [^27]: For if he comes close, he might be tempted to partake of the grapes.
 [^28]: The prooftext cited below indicates that the hair must be removed as effectively as a razor does. It does not, however, indicate that only cutting it with a razor makes a person liable. Note the contrast to the prohibition against cutting the hairs of one's beard. As mentioned in *Hilchot Avodat Kochavim* 12:1, that prohibition applies only to removal of one's hair with a razor.
 [^29]: From a comparison to the laws governing the prohibition against shaving the corners of one's head (*Ibid.*:1), it would appear that the person whose hair is cut is not liable for lashes unless he assists the person doing the shaving by moving his head or the like. Otherwise, he will not performed a deed and one is liable for lashes only when his violation involves a deed.
-[^30]: Nor are the days of one's nazirite vow nullified by such an act ([[Nazir 39#39b|*Nazir* 39b]]).
+[^30]: Nor are the days of one's nazirite vow nullified by such an act (*Nazir* [[Nazir 39#39b|39b]]).
 [^31]: The Radbaz explains the rationale for this leniency: When applying the potion, the person is not removing the hair with his own hands.
 [^32]: Even though he had no intention of removing hairs, were it impossible to scrape his head with his nails without removing hair, it would be forbidden for him, because doing so would be tantamount to willfully removing hairs, as the Rambam continues. Compare to *Hilchot Shabbat* 1:6.
 [^33]: For he did not intentionally remove the hairs (*Kessef Mishneh*). The *Shiurei HaKorban* explains that since these activities do not produce a razor-clean shave, he is not liable for the violation of a negative commandment. According to the Radbaz who maintains that such a commandment is in fact involved, the question arises: Since it is inevitable (a *p'sik reishah*) that the hairs will be removed, why is he not liable.
@@ -181,7 +181,7 @@ c) because of the prohibition: "Do not delay in paying it," and because of the p
 [^41]: The removal of the top of the container brings about his "entry" into the place where the corpse is located and, at that same time, he becomes impure.
 [^42]: See *Hilchot Tuma'at Meit* 1:11.
 [^43]: Compare to *Hilchot Bi'at HaMikdash* 3:18.  
-    In this instance, since he is already ritually impure, the prohibition against entering a place of ritual impurity does not apply to him ([[Nazir 43#43a|*Nazir* 43a]]).
+    In this instance, since he is already ritually impure, the prohibition against entering a place of ritual impurity does not apply to him (*Nazir* [[Nazir 43#43a|43a]]).
 [^44]: I.e., he was not aware that a corpse was located in this place or that it was a cemetery.
 [^45]: The commentaries question why the person is liable for lashes. Although he is performing a transgression by remaining in the cemetery, seemingly, the performance of that transgression does not involve a deed and hence, he should not be liable for lashes. The *Lechem Mishneh* explains that since he performed a deed when he entered in violation of the prohibition, he is liable when he remained afterwards in conscious violation of the prohibition. Others cite the gloss of the *Maggid Mishneh* to *Hilchot Sechirut* 13:2 which explains that whenever a transgression usually involves a deed - as a nazirite would usually perform a deed to contract ritual impurity - one is liable for lashes even when one violates the transgression without performing a deed. See also *Hilchot Evel* 3:4.
 [^46]: See *Hilchot Bi'at HaMikdash* 3:21-24.

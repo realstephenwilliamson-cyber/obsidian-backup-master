@@ -20,17 +20,13 @@ nyasa: "right nostril (*nāsā*)"
 ## Front
 
 - **Glyph:** ऋ
-- **Variation:** a variant form, drawn only as a numbered stroke diagram (not copied here)
 - **Example:** ऋषि
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘macab<u>re</u>’
-- **Class (as printed):** 3 (cerebral) · short, soft · simple vowel
-- **Note (no printed label):** Full form - used only to begin a word or rarely after r.
-- **Grid:** the vowels अ आ इ ई उ ऊ / ए ऐ ओ औ / ऋ ॠ ऌ; in bold: ऋ
-- **Example:** ṛṣi (sage)
+> [!note]- Back
+> - **Pronunciation:** As in ‘macab<u>re</u>’
+> - **Class:** cerebral · short, soft · simple vowel
+> - अ आ इ ई उ ऊ / ए ऐ ओ औ / <u>ऋ</u> ॠ ऌ
+> - **Example:** ṛṣi (sage)
 
 ## Register
 

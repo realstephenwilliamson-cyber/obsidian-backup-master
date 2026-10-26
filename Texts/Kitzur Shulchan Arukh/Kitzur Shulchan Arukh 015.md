@@ -55,7 +55,7 @@ chapter: 15
 [^9]: I.e., the minority on the outside remain a separate group and are not combined with the majority to make up a *minyan*.
 [^10]: Lit. “iron partition.”
 [^11]: I.e., between the *minyan* and those responding.
-[^12]: [[Shabbat 119#119b|*Shabbos* 119b]]—i.e. even a decree that was imposed upon him in his youth may be nullified.
+[^12]: *Shabbos* [[Shabbat 119#119b|119b]]—i.e. even a decree that was imposed upon him in his youth may be nullified.
 [^13]: Lit. indicters.
 [^14]: *Tur* and *Rambam* rule that the response should be only until *olmaya*. The *Shulchan Aruch*, however, rules that *Yisbarech* should also be said. Both customs are prevalent.
 [^15]: And one is required to stand during *Halleil*.

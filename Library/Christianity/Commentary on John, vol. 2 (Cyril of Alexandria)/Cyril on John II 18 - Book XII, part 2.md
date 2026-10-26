@@ -71,7 +71,7 @@ Ps. xxii.
 
 And if it behoves us also to declare another thought which strikes us with regard to the partition of the garments—a thought which can do no harm, and may possibly do good to those who hear it—I will speak as follows: Their division of the Saviour’s garments into
 
-5\. Matt. xxiii. 24.
+5\. [[Matthew 23#^23-24|Matt. xxiii. 24]].
 
 
 *[p. 631]* ^pg657
@@ -150,7 +150,7 @@ Ps. Ixix.
 
 21\.
 
-8\. Luke xxiii. 36.
+8\. [[Luke 23#^23-36|Luke xxiii. 36]].
 
 of His own Will. Then He sought to drink; but so pitiless and far removed from the love of God were they, that, instead of liquid to quench His thirst, they gave Him something to aggravate it, and, in rendering the very service of love, committed a further act of impiety. For, in acceding at all to His request, were they not assuming the appearance of affection? But it was impossible that the inspired Scripture should ever lie, which put into the mouth of the Saviour these words concerning them: They gave Me gall to eat, and when I was athirst, they gave Me vinegar to drink.
 
@@ -176,15 +176,15 @@ When this indignity had been added to the rest, the Saviour exclaimed, It is fin
 
 20\.
 
-Col. i. 18.
+[[Colossians 01#^1-18|Col. i. 18]].
 
-S. Luke xxiii. 46.
+S. [[Luke 23#^23-46|Luke xxiii. 46]].
 
 visited them, that He might be Lord both of the living and the dead ; and for our sake encountered death itself, and underwent the common lot of all humanity, that is, according to the flesh, though being as God by Nature Life, that He might despoil hell, and render return to life possible to human nature; being thus proved the jirstfruits of them that are asleep, and the firstborn from the dead, according to the Scriptures. He bowed His head, therefore; for as this generally befalls the dying, through the slackening of the sinews of the flesh, when the spirit or soul that united and sustained it is fled, the Evangelist made use of this expression. The expression also, He gave up His Spirit, does not differ from language usually employed, for the vulgar use it as equivalent to “his life was extinguished, and he died.” But it is probable that it was of set purpose, and advisedly, that the holy Evangelist, instead of saying simply, He died, said, He gave up His Spirit ; gave it up, that is, into the hands of God the Father, according to the saying that He spake: Father, into Thy hands I commend My Spirit; and for us, also, the meaning of the expression lays down a beginning and foundation of firm hope. For, I think, we ought to believe, and for this belief there is much ground, that the souls of Saints, when they quit their earthly bodies, are, by the bountiful mercy of God, almost, as it were, consigned into the hands of a most loving Father, and do not, as some infidels have pretended, haunt their sepulchres, waiting for funeral libations ; nor yet are they, like the souls of sinful men, conveyed to the place of endless torment, that is, to hell. Rather, do they hasten into the hands of the Father of all, by the new way which our Saviour Christ has prepared for us; for He consigned His Soul into the hands of His Father, that we also, making it our anchor, and being firmly rooted and grounded in this belief, might entertain the bright hope that when we undergo the death of the body, we shall be in God's hands; yea, in a far better condition than when we
 
 *[p. 639]* ^pg665
 
-were in the flesh. Therefore, also, the wise Paul assures co. xix. 30. us that it is better to depart, and be with Christ. Phil.i.23.
+were in the flesh. Therefore, also, the wise Paul assures co. xix. 30. us that it is better to depart, and be with Christ. [[Philippians 01#^1-23|Phil.i.23]].
 
 And when He gave up the ghost, the veil of the tenrple was rent in twain, from the top to the bottom. The veil of the temple was of fine linen, let down to the floor of the centre of the temple, and shrouding the inner portion thereof, and allowing only the high priest to enter into the innermost shrine. For it was not in the power of any one at will to penetrate into the interior with unwashen feet, and carelessly to gaze upon the Holy of holies. How very necessary it was that this curtain should make this division, Paul shows us by his words in the Epistle to the Hebrews: For there was a taber- Heb. ix. nacle prepared ; the first, which is called the Holy ‘place. \*\* And after the second veil, the tabernacle, which is called the Holy of holies, having a golden censer, and the ark of the covenant overluid round about with gold, wherein was the golden pot holding the manna, and the tables of the covenant, and Aaron’s rod that budded. But into Ibid. 6-8. the first tabernacle, he says, the priests go in, accomplishing the services; but into the second, the high priest alone, once in the year, not without blood, which he offereth for hinself, and for the errors of the people: the Holy Ghost this signifying, that the way into the Holy place hath not yet been made manifest, while as the first tabernucle is yet standing. For there can be no question, that a veil was let down at the very entrance of the temple. And so there came into his mind the first tabernacle, which he called holy; for no one could affirm that any part of the temple was not holy, or, if he did so, he would lie, for it was all holy.’ And after the first tabernacle came the veil which was betwixt, which is the second veil, separating the innermost portion, that is, the Holy of holies. But, as the blessed Paul said, the Spirit signified, by figures and types, that the more fitting way in which the Saints should tread had not yet been made manifest ; for the people were still kept at a distance, and the
 
@@ -370,7 +370,7 @@ ii. 15.
 
 Supra xvii. 11, 12.
 
-Acts i. 4, 5.
+[[Acts 01#^1-4|Acts i. 4]], [[Acts 01#^1-5|5]].
 
 Ibid. ii.3.
 

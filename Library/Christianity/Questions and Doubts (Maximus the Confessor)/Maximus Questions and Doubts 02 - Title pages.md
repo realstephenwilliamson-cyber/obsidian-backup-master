@@ -59,7 +59,7 @@ BR65.M39673Q3413 2010 230' .14092-dc22 2009028407
 
 To my parents, 
 
-TTcinp r swpy105 E. TTpo:0005 and A'tKO:Tspivo: Mo:xsipo: TTpo:ooa and to my y10:y10:, Morrotvo: T CXKTJ5 Mo:xsipo: who believed and instilled in all her children, "the education, this is the most important thing" 
+Πάτερ Γεώργιος E. Πρασσᾶς and Αϊκατερίνα Μαχείρα Πρασσᾶ and to my γιαγιὰ, Δέσποινα Τάκης Μαχείρα who believed and instilled in all her children, "the education, this is the most important thing" 
 
 *[PDF 6]* ^pg6
 

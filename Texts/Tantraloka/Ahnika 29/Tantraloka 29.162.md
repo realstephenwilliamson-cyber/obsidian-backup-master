@@ -29,7 +29,7 @@ tādṛṅmelakakalikākalitatanuḥ ko'pi yo bhavedgarbhe || ^iast
 >
 > Recalling (this state of) pervasion in this way in every action, wherever (and in whatever situation) it may be, he is always free of the stain (of attachment) and, liberated in this life (fvanmukta), is Supreme Bhairava. (with 29.161cd–162ab)
 >
-> He whose body is formed in the womb from the embryo (conceived) by such a union is called ‘born of a Yogin? (yoginībhū). (Such a one) is spontaneously Rudra (Himself) and possesses knowledge (of ultimate reality). According to the venerable Vīrāvaliśāstra, he who is such is Śiva, even though he is still a baby in (his) mother’s womb. (with 29.162cd–163)
+> He whose body is formed in the womb from the embryo (conceived) by such a union is called ‘born of a Yoginī’ (yoginībhū). (Such a one) is spontaneously Rudra (Himself) and possesses knowledge (of ultimate reality). According to the venerable Vīrāvaliśāstra, he who is such is Śiva, even though he is still a baby in (his) mother’s womb. (with 29.162cd–163)
 
 ## Viveka
 

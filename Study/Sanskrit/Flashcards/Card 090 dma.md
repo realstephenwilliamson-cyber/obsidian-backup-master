@@ -20,16 +20,12 @@ nyasa: "da: left foot (*pāda*) · ma: heart (*hṛd*)"
 ## Front
 
 - **Glyph:** द्म
-- **Variation:** —
 - **Example:** पद्म
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘padma’ (lotus)
-- **Class (as printed):** —
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: द, म
-- **Example:** padma (lotus)
+> [!note]- Back
+> - **Pronunciation:** As in ‘padma’ (lotus)
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ <u>द</u> ध न / प फ ब भ <u>म</u> / य र ल व / श ष स ह
+> - **Example:** padma (lotus)
 
 ## Register
 

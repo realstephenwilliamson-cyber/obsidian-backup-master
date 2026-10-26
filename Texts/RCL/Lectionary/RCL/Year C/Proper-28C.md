@@ -10,6 +10,7 @@ second_reading: "2 Thessalonians 3:6-13"
 gospel: "Luke 21:5-19"
 first_reading_complementary: "Malachi 4:1-2a"
 psalm_complementary: "Psalm 98"
+psalm_bcp_complementary: "Psalm 98"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-28]]"
 cssclasses:

@@ -160,7 +160,7 @@ One should count at the inception of the [new] day. Therefore one counts at nigh
 
 **25.** Each night, the [following] blessing should be recited before counting:[^79] "Blessed are You, God, our Lord, Who sanctified us with His commandments and commanded us concerning the counting of the *omer*." If one counted without reciting the blessing, he fulfills his obligation[^80] and should not recite the blessing afterwards.[^81] ^7-25
 
-[^1]: For the offerings that are offered more frequently are given precedence over those offered on occasion ([[Zevachim 89#89a|*Zevachim* 89a]]).  
+[^1]: For the offerings that are offered more frequently are given precedence over those offered on occasion (*Zevachim* [[Zevachim 89#89a|89a]]).  
     *Sefer HaMitzvot* (positive commandment 42) and *Sefer HaChinuch* (mitzvah 403) include offering the additional offering of Rosh Chodesh as one of the 613 mitzvot of the Torah.
 [^2]: See [[Torah 41 - Pinchas#^28-11|Numbers 28:11-14]].
 [^3]: See *Hilchot Ma'aseh HaKorbanot*, Chapter 6.
@@ -177,10 +177,10 @@ One should count at the inception of the [new] day. Therefore one counts at nigh
 [^12]: In contrast to most of the other meal-offerings that may be brought from the Diaspora as well (*Hilchot Issurei Mizbeiach* 6:15).
 [^13]: The words "your harvest" can be interpreted as a reference to the harvest of your land, i.e., *Eretz Yisrael*. Alternatively, the Rambam is referring to the beginning of the verse "When you come to the land," as some have inferred from the Rambam's Commentary to the Mishnah (*Menachot* 8:1).
 [^14]: In his Commentary to the Mishnah (*loc. cit.* 10:2), the Rambam explains that the rationale is that it is improper to pass over the opportunity to perform a mitzvah. Since there was barley fit for this offering in Jerusalem, it was not fitting to seek it elsewhere.
-[^15]: Because the grain close to Jerusalem had not ripened (Rashi, [[Menachot 83#83b|*Menachot* 83b]]).
+[^15]: Because the grain close to Jerusalem had not ripened (Rashi, *Menachot* [[Menachot 83#83b|83b]]).
 [^16]: In his Commentary to the Mishnah (*Menachot* 10:3), the Rambam explains that this preference stems from the fact that the Counting of the *Omer* must be "seven perfect weeks" ([[Torah 31 - Emor#^23-15|Leviticus 23:15]] , including both day and night. The counting and the reaping should begin at the same time, as implied by [[Torah 47 - Re'eh#^16-9|Deuteronomy 16:9]] which describes this offering with the phrase: "When the sickle is first put to the standing grain, you shall begin counting." Hence the reaping should also be done at night.
 [^17]: Since offering the *omer* supersedes the prohibition against forbidden labor on the Sabbath, this applies to all the aspects of its offering, including harvesting the barley.
-[^18]: [[Menachot 72#72a|*Menachot* 72a]] states that the Sages that maintain that it is acceptable to harvest the barley for the offering during the day do not accept the view that this barley may be harvested on the Sabbath. How then can the Rambam accept both rulings? Nevertheless, since the Jerusalem Talmud (*Rosh HaShanah* 1:8, *Megilah* 2:7) does not see the two as contradictory, it is possible for the Rambam to accept both rulings.
+[^18]: *Menachot* [[Menachot 72#72a|72a]] states that the Sages that maintain that it is acceptable to harvest the barley for the offering during the day do not accept the view that this barley may be harvested on the Sabbath. How then can the Rambam accept both rulings? Nevertheless, since the Jerusalem Talmud (*Rosh HaShanah* 1:8, *Megilah* 2:7) does not see the two as contradictory, it is possible for the Rambam to accept both rulings.
 [^19]: For this offering with the phrase: "When the sickle is first put to the standing grain."
 [^20]: For [[Torah 31 - Emor#^23-14|Leviticus 23:14]] uses the term *karmel* which has the connotation of fresh grain.
 [^21]: I.e., from the southern slopes of the mountains on the outskirts of Jerusalem which had greater exposure to the sun (*Tosafot, Menachot* 85a).
@@ -188,18 +188,18 @@ One should count at the inception of the [new] day. Therefore one counts at nigh
 [^23]: In this way, the field's power of growth would always be restored and the barley would be of high quality. Compare to *Hilchot Issurei Mizbeiach* 7:4.
 [^24]: In contrast to all other meal offerings with the exception of the meal offering brought by a *sotah* (a woman suspected of infidelity) which were from wheat. See *Hilchot Ma'aseh HaKorbanot* 12:2, *Hilchot Pesulei HaMukdashim* 14:3.
 [^25]: I.e., a concept that, although not explicitly stated in the Torah, was given to Moses at Sinai and always practiced among the Jewish people.
-[^26]: Rashi ([[Menachot 65#65a|*Menachot* 65a]]) states that all the stalks of barley that could be gathered within the reach of one's forearm would be tied together.
+[^26]: Rashi (*Menachot* [[Menachot 65#65a|65a]]) states that all the stalks of barley that could be gathered within the reach of one's forearm would be tied together.
 [^27]: This was to refute the approach of the Sadducees as the Rambam proceeds to explain. Perhaps the Rambam elaborates so extensively in the refutation of the Sadducees, because in his time there were Karaites who also rejected the authority of the Oral Law while claiming to follow the Written Law.
 [^28]: Thus emphasizing that reaping the *omer* supersedes the prohibition against forbidden labor on the Sabbath, as stated in Halachah 6.
 [^29]: The Sadducees who maintained that only the Written Law was of Godly origin and that the Oral Law should not be followed.
 [^30]: I.e., Pesach. This is an accepted interpretation, because the festivals are referred to as "Sabbaths" several times in the Torah [the Rambam's Commentary to the Mishnah (*Chagigah* 2:4).
 [^31]: The Supreme Jewish court.
-[^32]: The proof proposed by the Rambam does not appear to be based on any prior Rabbinic source. Although [[Menachot 65#65b|*Menachot* 65b]] brings several proofs of this concept from the exegesis of different verses, the Rambam does not refer to them because he is seeking an explicit proof from Scripture which the Saduccees accept rather than a concept derived from exegesis which they do not accept. The Sages did not refer to the proof used by the Rambam, because they would rather employ a proof that has its source in the Torah itself rather than in the works of the prophets (Radbaz).
+[^32]: The proof proposed by the Rambam does not appear to be based on any prior Rabbinic source. Although *Menachot* [[Menachot 65#65b|65b]] brings several proofs of this concept from the exegesis of different verses, the Rambam does not refer to them because he is seeking an explicit proof from Scripture which the Saduccees accept rather than a concept derived from exegesis which they do not accept. The Sages did not refer to the proof used by the Rambam, because they would rather employ a proof that has its source in the Torah itself rather than in the works of the prophets (Radbaz).
 [^33]: Thus we can assume the day when the *omer* was brought and new produce was permitted to be eaten was the day following Pesach.
 [^34]: And thus there would be no proof of what to do in a year when Pesach does not fall on the Sabbath.
 [^35]: *Tosafot, Menachot* 30a, mentions two opinions with regard to the day of the week on which Moses died: Friday or the Sabbath. Moses died on 7 Adar. Accordingly, Pesach, 15 Nisan, was either a Sunday or a Monday.
 [^36]: For according to the Saduccees' misguided conception, the fundamental point is that they ate the grain on the day after the Sabbath. If their approach was right, Scripture should have emphasized that the event took place then and not "on the day after Pesach."
-[^37]: See *Sifra* to the verse; [[Menachot 66#66b|*Menachot* 66b]].
+[^37]: See *Sifra* to the verse; *Menachot* [[Menachot 66#66b|66b]].
 [^38]: A *se'ah* is approximately 8.3 liters in contemporary measure according to *Shiurei Torah*. There are also more stringent views.
 [^39]: An *isaron* is one tenth of an *ephah* and an *ephah* is three *se'ah* [the Rambam's Commentary to the Mishnah (*Menachot* 6:6)]. Thus an *isaron* is approximately 2.4 liters in contemporary measure according to *Shiurei Torah*.  
     The priests would be endeavoring to get one tenth of the original amount of grain. There the Rambam explains that since the kernels of grain are still somewhat underdeveloped - for this offering is being made right at the beginning of the harvest - there will not be as much fine flour and much sifting will be required to produce the desired quantity.
@@ -220,14 +220,14 @@ One should count at the inception of the [new] day. Therefore one counts at nigh
 [^53]: The Rabbis explain that it takes fourteen days between the time when seedlings trees are planted and when they took root. One may assume that it takes less time for grain to root.
 [^54]: At this stage, it has not reached a state fit to serve as food for humans. Hence the prohibition mentioned above does not apply. Our translation is dependent on the Rambam's Commentary to the Mishnah (*Menachot* 10:8).
 [^55]: Larger bindings collected from several smaller bundles (*ibid.*).
-[^56]: The Rambam does allow the stalks to be tied in contrast to Rashi's view ([[Menachot 71#71a|*Menachot* 71a]]).
+[^56]: The Rambam does allow the stalks to be tied in contrast to Rashi's view (*Menachot* [[Menachot 71#71a|71a]]).
 [^57]: *Hilchot Issurei Mizbeiach* 5:9.
 [^58]: This also includes the wine for the libations (*ibid.*).
 [^59]: The first-fruits are not mentioned in *Hilchot Issurei Mizbeiach, loc. cit.*
 [^60]: Because the *omer* must be "the first of your harvest" as mentioned above.
 [^61]: As explained in *Hilchot Issurei Mizbeiach* 5:10, the two loaves are described by [[Torah 31 - Emor#^23-17|Leviticus 23:17]] as "the first fruits unto God." Hence, no other grain offerings should be offered before them. Nevertheless, since this grain is acceptable for a private individual, after the fact, the offering is still acceptable.
-[^62]: Since it is the first meal-offering to be brought from new grain, it warrants a blessing. The Rambam is interpreting [[Menachot 75#75b|*Menachot* 75b]] differently than Rashi.
-[^63]: Our Sages discussed the issue in [[Menachot 68#68b|*Menachot* 68b]] and did not arrive at a resolution.
+[^62]: Since it is the first meal-offering to be brought from new grain, it warrants a blessing. The Rambam is interpreting *Menachot* [[Menachot 75#75b|75b]] differently than Rashi.
+[^63]: Our Sages discussed the issue in *Menachot* [[Menachot 68#68b|68b]] and did not arrive at a resolution.
 [^64]: I.e., the two loaves of the previous year and the *omer* of the present year.
 [^65]: Rav Yosef Corcus states that if one does bring a meal-offering from such grain, after the fact, he is not required to bring a second one. See also the conclusion of the following halachah.
 [^66]: I.e., without the grain having become rooted in the ground. The *Kessef Mishneh* questions how is it possible for the leaves of a plant to grow without it taking root. He explains that this refers to a situation where the seeds were sprouted in water which could produce leaves before roots.
@@ -236,7 +236,7 @@ One should count at the inception of the [new] day. Therefore one counts at nigh
 [^69]: Verbalizing the reckoning of each day (see Radbaz).
 [^70]: *Sefer HaMitzvot* (positive commandment 161) and *Sefer HaChinuch* (mitzvah 306) include this as one of the 613 mitzvot of the Torah.
 [^71]: In *Sefer HaMitzvot, loc. cit.*, the Rambam emphasizes that these are not two separate commandments. In some Ashkenazic communities, the custom is to count each night and, at the end of a week, to count the passage of the week. The Sephardic custom is to mention the days and the weeks each night when counting.
-[^72]: For by including the night, the weeks will be "complete," without any lack ([[Menachot 66#66a|*Menachot* 66a]]).
+[^72]: For by including the night, the weeks will be "complete," without any lack (*Menachot* [[Menachot 66#66a|66a]]).
 [^73]: It appears that according to the Rambam, after the fact, by counting during the day, one fulfills the mitzvah just as one does by counting at night. Rabbenu Asher does not accept this view. The *Shulchan Aruch* (*Orach Chayim* 489:7) states that if one did not count during the night, he should not recite a blessing while counting during the day.
 [^74]: For in its reference to this mitzvah, [[Torah 47 - Re'eh#^16-9|Deuteronomy 16:9]] mentions "standing grain," which our Rabbis interpret as an allusion to fulfill the mitzvah while standing (*Kessef Mishneh*).
 [^75]: I.e., the mitzvah of counting is not entrusted to the court as is the mitzvah of counting the Jubilee, but rather is a personal responsibility for every individual (Radbaz).

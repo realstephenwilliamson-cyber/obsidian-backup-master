@@ -20,17 +20,13 @@ nyasa: "right ear (*karṇa*), as u"
 ## Front
 
 - **Glyph:** ◌ु
-- **Variation:** —
 - **Example:** पशु
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘fl<u>u</u>te’
-- **Class (as printed):** 5 (labial) · short, soft · simple vowel
-- **Note (no printed label):** Abbreviation - used only after a consonant
-- **Grid:** the vowel signs ा ि ी ु ू / े ै ो ौ; in bold: ु
-- **Example:** paśu (animal)
+> [!note]- Back
+> - **Pronunciation:** As in ‘fl<u>u</u>te’
+> - **Class:** labial · short, soft · simple vowel
+> - ा ि ी <u>ु</u> ू / े ै ो ौ
+> - **Example:** paśu (animal)
 
 ## Register
 

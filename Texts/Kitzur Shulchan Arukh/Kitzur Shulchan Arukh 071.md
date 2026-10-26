@@ -34,7 +34,7 @@ chapter: 71
 [^4]: *Tehillim* 42: 9.
 [^5]: “His Song” being a reference to His Torah.
 [^6]: *Mishna Berurah* quotes *Magein Avraham*, that there is no set measure of sleep for all people. The hours of sleep are set according to each person’s health and needs. Nevertheless, one should not indulge himself in too much sleep. (*Mishnah Berurah* 238: 2)
-[^7]: [[Shabbat 149#149a|*Shabbos* 149a]].
+[^7]: *Shabbos* [[Shabbat 149#149a|149a]].
 [^8]: This is the berachah recited before retiring at night.
 [^9]: Hashem is my Keeper.
 [^10]: I.e., your sleep.

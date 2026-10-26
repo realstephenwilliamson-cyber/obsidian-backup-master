@@ -27,7 +27,7 @@ mandatīvrācchaktibalād yiyāsāsyopajāyate |
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#^pg283|p. 261]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=283>))
 >
-> Due to the strength of a mildly intense (descent of the) power (of grace), a desire arises in him, by union with the influence of Śiva’s will, to go to a true teacher.’ He is described here in this scripture (the Mālinīvijayottara). As the Lord has said (there).... (with 13.218–219ab)
+> Due to the strength of a mildly intense (descent of the) power (of grace), a desire arises in him, by union with the influence of Śiva’s will, to go to a true teacher. He is described here in this scripture (the Mālinīvijayottara). As the Lord has said (there).... (with 13.218–219ab)
 
 ## Viveka
 

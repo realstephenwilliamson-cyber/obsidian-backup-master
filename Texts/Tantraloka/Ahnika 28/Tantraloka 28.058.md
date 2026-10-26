@@ -29,7 +29,7 @@ na ca kāmyameva kevalametatparivarjane yataḥ kathitaḥ || ^iast
 >
 > (Finally,) if a day obtains on which the aspects (ama),), that is, constellation, planet, lunar day and the (auspicious period of) time, are (all) conducive, and (so) is beautiful in all its parts, one should then celebrate on that (day) the rite of worship which is most special. (with 28.57cd–58ab)
 >
-> (A rite celebrated during a parvan) is not only an optional one (kāmya), because it is said in the Bhairavakula and in the Ūrmiśāstra that its omission amounts to an infraction of the rules. (So there we read that) ‘those who do not know the parvans (and disregard them) are reprobates who, badly behaved, are like animals. (with 28.58cd–59)
+> (A rite celebrated during a parvan) is not only an optional one (kāmya), because it is said in the Bhairavakula and in the Ūrmiśāstra that its omission amounts to an infraction of the rules. (So there we read that) ‘those who do not know the parvans (and disregard them) are reprobates who, badly behaved, are like animals.’ (with 28.58cd–59)
 
 ## Viveka
 

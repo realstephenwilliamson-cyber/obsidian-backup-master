@@ -114,7 +114,7 @@ If he took an oath to help others with regard to a matter with which he could he
 Similarly, when he takes an oath that the sun is smaller than the earth, he is not liable for lashes [for an oath taken in vain] although this is not the reality. For this matter is not known to all people.[^59] Such a person is not comparable to one who takes an oath that a man is a woman. For he took the oath according to his perception, for the sun looks small. Similar laws apply to other comparable concepts from the reckoning of the factors determining the calendar, astronomy, geometry, and other abstract concepts of the like that can be perceived only by other people. ^5-22
 
 [^1]: Although the concept of a *sh'vuat bitui* applies both with regard to the past and the future (Chapter 1, Halachah 2), it is not necessary that every *sh'vuat bitui* have both a past and a future component.
-[^2]: As the Rambam continues to explain, the oath is not necessarily false, because the other people may do what he postulated. Rashi ([[Shevuot 25#25a|*Sh'vuot* 25a]]) considers this a false oath. The *Siftei Cohen* 236:4 quotes Rashi's view.
+[^2]: As the Rambam continues to explain, the oath is not necessarily false, because the other people may do what he postulated. Rashi (*Sh'vuot* [[Shevuot 25#25a|25a]]) considers this a false oath. The *Siftei Cohen* 236:4 quotes Rashi's view.
 [^3]: The Radbaz and the *Kessef Mishneh* point out several difficulties with the Rambam's words. Firstly, in *Hilchot Sanhedrin*, the Rambam does not make such statements explicitly. The only mention of a warning of a doubtful status is in *Hilchot Sanhedrin* 16:4. From those statements and those here, it appears that the Rambam considers such a warning as significant. There he does not explain the distinction of whether the prohibition is explicitly mentioned in the Torah or not. Also, the prohibition against taking a false oath is explicitly mentioned in the Torah. The Radbaz explains that the intent is that the concept that such an oath is considered as having been taken in vain is not explicit in the Torah and may not be known by an ordinary person.
 [^4]: As stated in Chapter 2, Halachah 1, whenever one responds *Amen* to a colleague's oath, he is bound by it.
 [^5]: The Rama (*Yoreh De'ah* 236:2) mentions two opinions. One emphasizes that the one who took the oath must certainly fulfill it. For example, if one takes an oath to marry a woman, the oath is considered as having been taken in vain, because the woman may not consent. Nevertheless, if she does consent, the man should keep his word and marry her. The other, however, does not consider this as an oath taken in vain, but rather as a false *sh'vuat bitui*.
@@ -128,7 +128,7 @@ Similarly, when he takes an oath that the sun is smaller than the earth, he is n
 [^11]: The Radbaz explains that he is eating them, not because he considers them as food, but in order to quench his pangs of hunger.
 [^12]: An animal that died without ritual slaughter.
 [^13]: An animal with a blemish that would cause it to die within twelve months.
-[^14]: Since he is already forbidden to partake of these entities by the oath taken by the Jewish people as a whole at Sinai, the oath he takes is of no significance ([[Shevuot 22#22b|*Sh'vuot* 22b]]). See Halachah 11.  
+[^14]: Since he is already forbidden to partake of these entities by the oath taken by the Jewish people as a whole at Sinai, the oath he takes is of no significance (*Sh'vuot* [[Shevuot 22#22b|22b]]). See Halachah 11.  
     The Radbaz emphasizes that this exclusion applies only with regard to entities forbidden by Scriptural Law, but not those forbidden by Rabbinic Law. For in such an instance, he is not bound by the oath taken by our people at Sinai.
 [^15]: Rabbenu Nissim explains the difference between this and the first clause as follows: In the first clause, we assume that the not eating, he referred to in his oath was not eating foods that people usually eat. These articles were not included in his oath, for there is no reason to forbid them. In the second instance, he included everything that he considers as food in his oath.
 [^16]: Even before he took his oath.
@@ -145,9 +145,9 @@ Similarly, when he takes an oath that the sun is smaller than the earth, he is n
 [^27]: Chapter 4, Halachah 11.
 [^28]: Substances explicitly forbidden by the Torah.
 [^29]: This oath does not take effect, because an oath cannot take effect with regard to an object bound by another oath. Since the entire Jewish people are bound by the oath taken at Sinai not to partake of these substances, no other oath involving these entities can take effect (*Kessef Mishneh*).
-[^30]: Were the person to have taken an oath to eat the forbidden substance, he would be taking an oath in vain, for his oath would be to nullify one of the Torah's mitzvot. In this instance, however, he is taking an oath to fulfill the mitzvah. This is permitted. See [[Nedarim 8#8b|*Nedarim* 8b]]; Chapter 11, Halachah 3.
+[^30]: Were the person to have taken an oath to eat the forbidden substance, he would be taking an oath in vain, for his oath would be to nullify one of the Torah's mitzvot. In this instance, however, he is taking an oath to fulfill the mitzvah. This is permitted. See *Nedarim* [[Nedarim 8#8b|8b]]; Chapter 11, Halachah 3.
 [^31]: See Chapter 1, Halachah 6.
-[^32]: For the oath is considered as having been taken in vain at the moment it was uttered (see Rashi, [[Shevuot 29#29b|*Sh'vuot* 29b]]).
+[^32]: For the oath is considered as having been taken in vain at the moment it was uttered (see Rashi, *Sh'vuot* [[Shevuot 29#29b|29b]]).
 [^33]: Due to his first oath.
 [^34]: As stated in the previous halachah.
 [^35]: I.e., within the time period he specified in the oath; alternatively, after the loaf was destroyed or eaten by others. As long as the loaf continues to exist, however, he may fulfill his oath.

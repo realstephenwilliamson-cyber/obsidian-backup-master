@@ -20,16 +20,13 @@ nyasa: "ṣa: fat (*vasā*) · ṭa: right hip (*kaṭi*)"
 ## Front
 
 - **Glyph:** ष्ट
-- **Variation:** ष्‍ट (half-ṣa + ṭa)
 - **Example:** अष्ट
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘aṣṭa’ (eight)
-- **Class (as printed):** —
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: ट, ष
-- **Example:** aṣṭa (eight)
+> [!note]- Back
+> - **Pronunciation:** As in ‘aṣṭa’ (eight)
+> - **Variation:** ष्‍ट (half-ṣa + ṭa)
+> - क ख ग घ ङ / च छ ज झ ञ / <u>ट</u> ठ ड ढ ण / त थ द ध न / प फ ब भ म / य र ल व / श <u>ष</u> स ह
+> - **Example:** aṣṭa (eight)
 
 ## Register
 

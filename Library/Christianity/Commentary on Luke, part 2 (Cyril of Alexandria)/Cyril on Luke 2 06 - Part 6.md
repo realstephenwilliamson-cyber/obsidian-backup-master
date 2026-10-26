@@ -36,7 +36,7 @@ Prov. i. 4.
 
 Prov. viii.4.
 
-Mat. x. 16.
+[[Matthew 10#^10-16|Mat. x. 16]].
 
 ! Cor. xiv.
 
@@ -58,7 +58,7 @@ But while such is our character in simplicity and innocence, we must be perfect 
 
 The chief perfection therefore of the mind is to be established in the faith, and for our understanding to be uncorrupted thercin: and the second, which neighbours upon this chief perfection, and is akin to it, and its constant coimpanion, is the clear knowledge of that way of conduct which pleases God, and is taught us in the Gospel, and is perfect and blameless.!. Those who travel thereon lead a life of simplicity
 
-\\'The Catenists, who have summed in these words; “ for the definition up this homily in very few lines, “ of philosophy is to be sincere, but (cf. Mai, p.378. from A. B. and D.) “ sagacious,” ré pera cuvécews give the purport of this paragraph dAacrov elvat, Gal. i. 9.
+\\'The Catenists, who have summed in these words; “ for the definition up this homily in very few lines, “ of philosophy is to be sincere, but (cf. Mai, p.378. from A. B. and D.) “ sagacious,” ré pera cuvécews give the purport of this paragraph dAacrov elvat, [[Galatians 01#^1-9|Gal. i. 9]].
 
 ovvdpouos.
 
@@ -78,7 +78,7 @@ impossible with men, are possible with God. clomopevovat BT.
 
 : tphuaros
 
-THOSE who believe that the Word, Who shone forth from SeAév7sBT. the very substance of God the Father, is by nature and verily Seoibos Gs. God, draw near to Him as unto an omniscient God, Who, as the Psalmist says, “ trieth the hearts and reins ;” and seeth all Ps. wii. 9. that passes in us: “ for all things are naked, and spread out Heb. iv. 13. “ before His eyes,” according to the expression of the blessed Paul. But we do not find the Jewish multitudes thus disposed : for they with their princes and teachers were in error, and saw not with the eyes of their mind the glory of Christ. Rather they looked upon Him as one like unto us: as a mere man, I mean; and not as God rather, Who had become man. They approached Him therefore to make trial of Him, and lay for Him the nets of their craftiness.
+THOSE who believe that the Word, Who shone forth from SeAév7sBT. the very substance of God the Father, is by nature and verily Seoibos Gs. God, draw near to Him as unto an omniscient God, Who, as the Psalmist says, “ trieth the hearts and reins ;” and seeth all Ps. wii. 9. that passes in us: “ for all things are naked, and spread out [[Hebrews 04#^4-13|Heb. iv. 13]]. “ before His eyes,” according to the expression of the blessed Paul. But we do not find the Jewish multitudes thus disposed : for they with their princes and teachers were in error, and saw not with the eyes of their mind the glory of Christ. Rather they looked upon Him as one like unto us: as a mere man, I mean; and not as God rather, Who had become man. They approached Him therefore to make trial of Him, and lay for Him the nets of their craftiness.
 
 And this thou mayest learn by what has now been read. For aruler, it says, asked Him, saying, ‘“ Good teacher, what « shall I do to inherit eternal life?” And Jesus said unto him,
 
@@ -102,13 +102,13 @@ come into being by being made partakers of Him Who really exists: so He indeed i
 
 But those perchance will not assent to the correctness of this explanation, whose minds are perverted by sharing in the wickedness of Arius. For they make the Son inferior to the supremacy and glory of God the Father: or rather, they contend that He is not the Son; for they both eject Him from being by nature and verily God, and thrust Him away from having really been born, lest men should believe that He is also equal in- substance to Him Who begat Him. For they assert, as though they had obtained a reason for their blasphemy from the passage now before us, ‘ Behold, He has clearly and ex- ‘ pressly denied that He is good, and set it apart as something ‘ appropriate to God the Father only: but verily had He been ‘equal to Him in substance, and sprung from Him by nature, ‘ how would not He also be good as being God?’
 
-Let this then be our reply to our opponents. Since all correct and exact reasoning acknowledges a son to be consubstantial with the father, how is He not good, as being God? For He cannot but be God, if He be consubstantial with Him Who is by nature God. For surely they will not affirm, however extreme may be the audacity into which they have fallen, that from a good father a son has sprung whio is not good. For to this we have the Saviour’s own testimony, Who thus speaks ; “A good tree cannot bring forth evil fruits.” How from a good Mat. vii.18. root has there shot forth an evil sprout? Or how from a sweet ~ fountain can there flow a bitter river? Was there ever a time when there was no Father, seeing that He is the Father eternally? But He is the Father, becanse He has begotten, and
+Let this then be our reply to our opponents. Since all correct and exact reasoning acknowledges a son to be consubstantial with the father, how is He not good, as being God? For He cannot but be God, if He be consubstantial with Him Who is by nature God. For surely they will not affirm, however extreme may be the audacity into which they have fallen, that from a good father a son has sprung whio is not good. For to this we have the Saviour’s own testimony, Who thus speaks ; “A good tree cannot bring forth evil fruits.” How from a good [[Matthew 07#^7-18|Mat. vii.18]]. root has there shot forth an evil sprout? Or how from a sweet ~ fountain can there flow a bitter river? Was there ever a time when there was no Father, seeing that He is the Father eternally? But He is the Father, becanse He has begotten, and
 
 *[p. 568]* ^pg208
 
-Col. i. 15.
+[[Colossians 01#^1-15|Col. i. 15]].
 
-Heb. i. 3.
+[[Hebrews 01#^1-3|Heb. i. 3]].
 
 this is the reason why He bears this name, and not as being one who borrows the title by resemblance to some other person. For from Him all paternity in heaven and earth is named. We conclude therefore that the fruit of the good God is the
 
@@ -130,13 +130,13 @@ Let me then bring back to your remembrance first of all what has already been co
 
 The blessed Evangelist therefore said, \*‘ And a certain ruler \* asked Him, saying, Good Teacher, what shall I do to inherit “ eternal life? And He said unto him, Why callest thou Me “ good? None is good, but one, God :” aud so on with the rest of the lesson. Now we have already explained what is the meaning of this passage in the Gospel, and enough has been said to you upon that point: for we shewed both that by nature and verily the Son is good as also He is Who begat Him; and that the answer, “ Why callest thou Me good? None is “ good, but one, God,”’ was spoken relatively to the questioner. Let us therefore direct our inquiry to the Scriptures which follow.
 
-What then says this chief of the synagogue of the Jews? « What shall \[ do to inherit eternal life?” He docs not ask with a view to learn; for then his question would have been worthy of all praise: but his object was to prove, that Christ did not permit them to retain the Mosaic commandments, but led rather His disciples and followers unto new laws enacted by Himself. For on this pretext they rebuked the people under their charge, saying of Christ, our common Saviour, 2 Tim. ii.6.
+What then says this chief of the synagogue of the Jews? « What shall \[ do to inherit eternal life?” He docs not ask with a view to learn; for then his question would have been worthy of all praise: but his object was to prove, that Christ did not permit them to retain the Mosaic commandments, but led rather His disciples and followers unto new laws enacted by Himself. For on this pretext they rebuked the people under their charge, saying of Christ, our common Saviour, [[2 Timothy 02#^2-6|2 Tim. ii.6]].
 
 « He hath a devil, and is mad: why hear ye Him?” For John x. :o 4D ~
 
 *[p. 570]* ^pg210
 
-Mat. v. 17.
+[[Matthew 05#^5-17|Mat. v. 17]].
 
 Prov.xii.27.
 
@@ -146,7 +146,7 @@ John viii.
 
 RX
 
-Mat. v. 3.
+[[Matthew 05#^5-3|Mat. v. 3]].
 
 they said that He had a devil, and was mad, on the supposition that He had set up his own laws against those which had been given from above, from God. ‘True rather would it be to affirm of them that they had a devil, and were utterly mad, for resisting the Lord of the law, Who had come not so much to destroy the commandment which had been given of old, and of which Moses was the minister, as to fulfil it, aecording to His own words: for He transformed the shadow into the truth. :
 
@@ -170,7 +170,7 @@ need.”
 
 As the ruler therefore was too infirm of purpose, and could not be prevailed upon even to listen to the advice of selling his possessions, although it would have been good for him, and full of reward, our Lord lays bare the malady which has its lair in the’rich, thus saying, “ How hardly shall they that have riches “ enter into the kingdom of God! And I say unto you, thatit is “ easier for a camel to enter in through the eye of a needle, “than a rich man into the kingdom of God.” Now by a camel He means not the animal of that name, but a thick cable 4D2 Mat. ix. The
 
-Acts iv. 34.
+[[Acts 04#^4-34|Acts iv. 34]].
 
 *[p. 572]* ^pg212
 
@@ -221,7 +221,7 @@ His promise by an oath, by prefixing to His declaration the word Verily, which, 
 
 But that those who have led a virtuous life necessarily gain the life eternal, there can be no doubt whatsoever: some inquiry is however necessary, in the first place, as to who they are who leave father and mother, and wife, and brethren, and houses: and secondly, a still more exact examination of the way in which those who thus act shall receive manifold more in this world.
 
-Men therefore leave father and mother, and wife and brethren, and oftentimes count for nought the natural affection due to the ties of kindred, for love’s sake unto Christ. And in what manner they do so, He teaches us by saying, at one time, “ He that loveth father or mother more than Me is not worthy Mat. x. 37. ‘of Me; and he that loveth son or daughter more than Me is “ not worthy of Me:” and at another time again, “ Think not Mat. x. 34. “ that Iam come to send peace on earth ; I tell you nay, Lam “ not come to send peace, but division: for lam come to divide “aman from his father, and the daughter from her mother, “ and the daughter-in-law from her mother-in-law.” For when the divine message of the gospel is catching as in a net the whole world-unto faith in Him, and raising it up unto the light of the true knowledge of God, there are those who would readily enter in, did they not suffer from an injurious shame, as being afraid either on their father’s account, or their mother’s, and taking too much into consideration their anger or their sorrow. For if these are idolaters, they will not consent that their sons or daughters should yield themselves unto Christ’s service, and abandon the error in which they have been brought up, and which has become habitual with them. And often when the sons are unbelieving and ill-disposed, their fathers have not the courage to vex them by hastening unto the faith, and seizing the salvation which is by Christ. And the same explanation may be given respecting brethren with brethren, and the danghter-in-law with her mother-in-law, and the latter
+Men therefore leave father and mother, and wife and brethren, and oftentimes count for nought the natural affection due to the ties of kindred, for love’s sake unto Christ. And in what manner they do so, He teaches us by saying, at one time, “ He that loveth father or mother more than Me is not worthy [[Matthew 10#^10-37|Mat. x. 37]]. ‘of Me; and he that loveth son or daughter more than Me is “ not worthy of Me:” and at another time again, “ Think not [[Matthew 10#^10-34|Mat. x. 34]]. “ that Iam come to send peace on earth ; I tell you nay, Lam “ not come to send peace, but division: for lam come to divide “aman from his father, and the daughter from her mother, “ and the daughter-in-law from her mother-in-law.” For when the divine message of the gospel is catching as in a net the whole world-unto faith in Him, and raising it up unto the light of the true knowledge of God, there are those who would readily enter in, did they not suffer from an injurious shame, as being afraid either on their father’s account, or their mother’s, and taking too much into consideration their anger or their sorrow. For if these are idolaters, they will not consent that their sons or daughters should yield themselves unto Christ’s service, and abandon the error in which they have been brought up, and which has become habitual with them. And often when the sons are unbelieving and ill-disposed, their fathers have not the courage to vex them by hastening unto the faith, and seizing the salvation which is by Christ. And the same explanation may be given respecting brethren with brethren, and the danghter-in-law with her mother-in-law, and the latter
 
 *[p. 576]* ^pg216
 
@@ -231,11 +231,11 @@ But next let us see, in what way one who leaves house or father or mother or bre
 
 But perchance thou sayest, ‘Shall we all of us therefore
 
-a As usual, the reading in St. “for the kingdom of God’s sake,”’ Matthew’s Gospel was presentin St. we find, “for My Name’s sake.” Cyril’s mind; for there, instead of (Mat. xix. 29.)
+a As usual, the reading in St. “for the kingdom of God’s sake,”’ Matthew’s Gospel was presentin St. we find, “for My Name’s sake.” Cyril’s mind; for there, instead of ([[Matthew 19#^19-29|Mat. xix. 29]].)
 
 *[p. 577]* ^pg217
 
-‘become like them?’ To this we answer, that each one of us also who have believed in Christ and loved His Name, if he have left a house shall receive the mansions that are above: and if he have abandoned a father, shall gain that Father Who is in heaven. If he be abandoned by his brethren, yet will Christ admit him to brotherhood with Him. If he leave a wife, he shall have as the inmate of His house Wisdom who cometh down from above, from God. For it is written, “Say unto Prov. vii 4. “« Wisdom that she is thy sister, and make Understanding thy “ friend.” By her shalt thou bring forth beautiful spiritual fruits, by means of which thou shalt be made a partaker of the hope of the saints, and join the company of the angels. And though thou leave thy mother, thou shalt find another incomparably more excellent,—even “the Jerusalem that is above, Gal. iv. 26. “¢ which is free, and our? mother.” How are not these things manifold times more than those that were left? For they were but transitory, and rapidly do they waste, and lightly fail us utterly! for as the dew, and like a dream, so they pass away. But he who is counted worthy of these things becomes even in this world illustrious and enviable, being adorned with glory both before God and men. Manifold more therefore are these things than all that is earthly and carnal, and the Giver of them is our common Lord and Saviour: by Whom and with Whom to God the Father be praise and dominion, with the Holy Ghost, for ever and ever, Amen.
+‘become like them?’ To this we answer, that each one of us also who have believed in Christ and loved His Name, if he have left a house shall receive the mansions that are above: and if he have abandoned a father, shall gain that Father Who is in heaven. If he be abandoned by his brethren, yet will Christ admit him to brotherhood with Him. If he leave a wife, he shall have as the inmate of His house Wisdom who cometh down from above, from God. For it is written, “Say unto Prov. vii 4. “« Wisdom that she is thy sister, and make Understanding thy “ friend.” By her shalt thou bring forth beautiful spiritual fruits, by means of which thou shalt be made a partaker of the hope of the saints, and join the company of the angels. And though thou leave thy mother, thou shalt find another incomparably more excellent,—even “the Jerusalem that is above, [[Galatians 04#^4-26|Gal. iv. 26]]. “¢ which is free, and our? mother.” How are not these things manifold times more than those that were left? For they were but transitory, and rapidly do they waste, and lightly fail us utterly! for as the dew, and like a dream, so they pass away. But he who is counted worthy of these things becomes even in this world illustrious and enviable, being adorned with glory both before God and men. Manifold more therefore are these things than all that is earthly and carnal, and the Giver of them is our common Lord and Saviour: by Whom and with Whom to God the Father be praise and dominion, with the Holy Ghost, for ever and ever, Amen.
 
 © The Syriac is supported by the MSS. in the rejection of ravra», majority of the more important “all.”
 
@@ -261,9 +261,9 @@ For this reason the divinely-inspired Scripture very fitly says unto those who w
 
 *[p. 579]* ^pg219
 
-glorious was it, and worthy of God, to be able to sever the bonds of death, and hasten back unto life. For testimony is Rom. i. 4. borne Him by the resurrection from the dead, according to the expression of the wise Paul, that He is God and the Son of God.
+glorious was it, and worthy of God, to be able to sever the bonds of death, and hasten back unto life. For testimony is [[Romans 01#^1-4|Rom. i. 4]]. borne Him by the resurrection from the dead, according to the expression of the wise Paul, that He is God and the Son of God.
 
-It is necessary, however, for us to explain what the benefit was which the holy apostles received from having learnt the approach of those things which were about to happen. By this means then He cuts away beforehand both unseemly thoughts and all occasion for stumbling. How, you ask, or in what way? The blessed disciples then, I answer, had followed Christ, our common Saviour, in His circuit through Judea: they had seen that there was nothing, however ineffable, and worthy of all wonder, which He could not accomplish. For He called from their graves the dead when they had already decayed: to the blind He restored sight: and wrought also other works, worthy of God and glorious. They had heard Him say, “ Are not two sparrows sold for a farthing? and one Mat. x. 29. “of them doth not fall to the ground without your Father.” And now they who had seen these things, and been emboldened by His woras unto courageousness, were about to behold Him enduring the ridicule of the Jews, crucified, and made a mock of, and receiving even buffets from the servants. It was possible therefore, that being offended because of these things, they might think thus within themselves, and say: He Who is so great in might, and possesses such godlike authority; Who performs miracles by His nod alone; Whose word is almighty, so that even from their very graves He raises the dead; Who says too that His Father’s providence reaches even to the birds ; Who is the Only-begotten, and first-born: how did He not know what was about to happen? Is He too taken in the nets of the foe, and made the prey of His enemies, Who even promised that He would save us? Is He then disregarded and despised of that Father, without Whose will not even a tiny bird is taken? These things perchance the holy apostles might have said or thought among themselves. And what would have been the consequence? They tvo, like the rest of the Jewish multitude, would have become unbelieving, and ignorant of the truth.
+It is necessary, however, for us to explain what the benefit was which the holy apostles received from having learnt the approach of those things which were about to happen. By this means then He cuts away beforehand both unseemly thoughts and all occasion for stumbling. How, you ask, or in what way? The blessed disciples then, I answer, had followed Christ, our common Saviour, in His circuit through Judea: they had seen that there was nothing, however ineffable, and worthy of all wonder, which He could not accomplish. For He called from their graves the dead when they had already decayed: to the blind He restored sight: and wrought also other works, worthy of God and glorious. They had heard Him say, “ Are not two sparrows sold for a farthing? and one [[Matthew 10#^10-29|Mat. x. 29]]. “of them doth not fall to the ground without your Father.” And now they who had seen these things, and been emboldened by His woras unto courageousness, were about to behold Him enduring the ridicule of the Jews, crucified, and made a mock of, and receiving even buffets from the servants. It was possible therefore, that being offended because of these things, they might think thus within themselves, and say: He Who is so great in might, and possesses such godlike authority; Who performs miracles by His nod alone; Whose word is almighty, so that even from their very graves He raises the dead; Who says too that His Father’s providence reaches even to the birds ; Who is the Only-begotten, and first-born: how did He not know what was about to happen? Is He too taken in the nets of the foe, and made the prey of His enemies, Who even promised that He would save us? Is He then disregarded and despised of that Father, without Whose will not even a tiny bird is taken? These things perchance the holy apostles might have said or thought among themselves. And what would have been the consequence? They tvo, like the rest of the Jewish multitude, would have become unbelieving, and ignorant of the truth.
 
 4E2
 
@@ -299,7 +299,7 @@ The Saviour of all then declared these things beforehand to the holy apostles: �
 
 *[p. 582]* ^pg222
 
-2 Pet. i. 19.
+[[2 Peter 01#^1-19|2 Pet. i. 19]].
 
 their words, saying, ‘‘ We too have a more sure prophetic “word, whereunto ye do well to look, as unto a lamp that “ shineth in a dark place, until the day shine forth, and the “ light-star arise in your hearts.” And this has also reached its fulfilment : for we have been enlightened in Christ; by Whom and with Whom to God the Father be praise and dominion, with the Holy Ghost, for ever and ever, Amen.
 
@@ -313,7 +313,7 @@ WHOSOEVER are yet without understanding, and accept not the faith in Christ, may
 
 Saviour, it says, was passing by. And a blind man cried out, saying, Son of David have mercy on me.” Let us then examine the expression of the man who had lost his sight; for it is not a thing to pass by without enquiry, since possibly the examination of what was said will beget something highly advantageous for our benefit.
 
-\_ In “fie character then does he address to Him his prayer? Is it.as to a mere man, according to the babbling of the Jews, who stoned Him with stones, saying in their utter folly, “ For John x. 33. “a good work we stone Thee not, but for blasphemy ; because
+\_ In “fie character then does he address to Him his prayer? Is it.as to a mere man, according to the babbling of the Jews, who stoned Him with stones, saying in their utter folly, “ For [[John 10#^10-33|John x. 33]]. “a good work we stone Thee not, but for blasphemy ; because
 
 *[p. 584]* ^pg224
 
@@ -329,7 +329,7 @@ Let those then be ashamed who imagine themselves not to be blind, but who,as the
 
 4 From the mutilated state of the MS. the text of this passage is chiefly conjectural.
 
-Mat. i. 23. Ts. vii. 14. 2 Pet. i. 9.
+[[Matthew 01#^1-23|Mat. i. 23]]. Ts. vii. 14. [[2 Peter 01#^1-9|2 Pet. i. 9]].
 
 *[p. 585]* ^pg225
 
@@ -369,7 +369,7 @@ C. xix. I-10.
 
 Ver. 2.
 
-Zaccwxzvs was chief of the publicans, a man entirely aban- From Mai, doned to covetousness, and whose sole object was the increase of his gains: for such was the practice of the publicans, though Paul calls it “idolatry,” possibly as being fit only for those who Col. iii. 5. have no knowledge of God. And as they shamelessly made open profession of this vice, the Lord very justly joined them with the harlots, thus saying to the chiefs of the Jews, “‘ The Mat. xxi. “ harlots and the publicans go before you into the kingdom of \*" “© God.”
+Zaccwxzvs was chief of the publicans, a man entirely aban- From Mai, doned to covetousness, and whose sole object was the increase of his gains: for such was the practice of the publicans, though Paul calls it “idolatry,” possibly as being fit only for those who [[Colossians 03#^3-5|Col. iii. 5]]. have no knowledge of God. And as they shamelessly made open profession of this vice, the Lord very justly joined them with the harlots, thus saying to the chiefs of the Jews, “‘ The Mat. xxi. “ harlots and the publicans go before you into the kingdom of \*" “© God.”
 
 But Zacchzeus continued not among their number, but was counted worthy of mercy at Christ’s hands: for He it is Who calls near those who are afar off, and gives light to those who are in darkness.
 
@@ -443,7 +443,7 @@ TouTous BST.
 
 add. aitous BT.
 
-Phil. ii. 8.
+[[Philippians 02#^2-8|Phil. ii. 8]].
 
 even that which he hath shall be taken away from him. But these my enemies, who would not that I should reign
 
@@ -469,7 +469,7 @@ Ps. Ixxxi. 9.
 
 John xvii.
 
-Heb. i. 3.
+[[Hebrews 01#^1-3|Heb. i. 3]].
 
 *[p. 594]* ^pg234
 
@@ -523,7 +523,7 @@ who throw off the yoke of His sceptre:> while the others are invested with the g
 
 The manier therefore of the distribution and who the persons are, and what the talents signify which He distributes,—for He continues to distribute even unto this day,—the sacred Scripture clearly shews. For the blessed Paul has said; “There are “ distributions of gifts, but the same Spirit: and there are “ distributions of ministries, but the same Lord: and there “are distributions of things to be done, but the same God “ Who worketh all in every man.” And subsequently, explaining what he said, he further states the kinds of the gifts, as follows; ‘‘ For to one is given the word of wisdom: and to “another the word of knowledge: and to another faith: and “to another gifts of healing:” and so on. The diversity therefore of the gifts is made plain in these words.
 
-But next I think that I ought to mention who they are who have been entrusted by Christ with these gifts, according to the measure of each one’s readiness and disposition. For He knoweth whatsoever is in us, in that He is very God, Who spieth the reins and hearts. Let us notice, however, that another Evangelist is aware of a difference in the amount of the 1 Cor. xii. 4.
+But next I think that I ought to mention who they are who have been entrusted by Christ with these gifts, according to the measure of each one’s readiness and disposition. For He knoweth whatsoever is in us, in that He is very God, Who spieth the reins and hearts. Let us notice, however, that another Evangelist is aware of a difference in the amount of the [[1 Corinthians 12#^12-4|1 Cor. xii. 4]].
 
 1 Cor. xii.S.
 
@@ -533,7 +533,7 @@ distribution that was made of the talents. ‘‘ For to one, he Mat. xxv. “ s
 
 *[p. 598]* ^pg238
 
-Phil. ii. 13.
+[[Philippians 02#^2-13|Phil. ii. 13]].
 
 Ps. xlvii. 3.
 

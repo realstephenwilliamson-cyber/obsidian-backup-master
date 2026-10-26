@@ -20,17 +20,11 @@ nyasa: "right cheek (*gaṇḍa*)"
 ## Front
 
 - **Glyph:** ऌ
-- **Variation:** —
-- **Example:** —
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘tab<u>l</u>e’
-- **Class (as printed):** 4 (dental) · short, soft · simple vowel
-- **Note (no printed label):** Full form - rarely used
-- **Grid:** the vowels अ आ इ ई उ ऊ / ए ऐ ओ औ / ऋ ॠ ऌ; in bold: ऌ
-- **Example:** —
+> [!note]- Back
+> - **Pronunciation:** As in ‘tab<u>l</u>e’
+> - **Class:** dental · short, soft · simple vowel · Full form - rarely used
+> - अ आ इ ई उ ऊ / ए ऐ ओ औ / ऋ ॠ <u>ऌ</u>
 
 ## Register
 

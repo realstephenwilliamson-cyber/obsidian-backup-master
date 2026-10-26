@@ -107,13 +107,13 @@ chapter: 12
 [^13]: *Rambam LeAm* questions why this concept is mentioned. It was already stated in Halachah 2.
 [^14]: In all these instances, it is forbidden to benefit from the slaughtered animal. (See *Hilchot Nizkei Mammon* 11:9; *Hilchot Rotzeach* 10:6, *Hilchot Parah Adumah* 1:7; *Hilchot Avodat Kochavim* 7:2.)
 [^15]: Seemingly, the same principles stated in the previous halachah would apply in this instance. Nevertheless, in this case, there is another factor involved as the Rambam continues to explain.
-[^16]: As befits one who sacrifices to a false deity. One is not liable for both capital punishment and lashes for the same act. Since he is liable for capital punishment, he is not held liable for lashes. (See [[Ketubot 33#33b|*Ketubot* 33b]]; [[Chullin 81#81b|*Chullin* 81b]].)
+[^16]: As befits one who sacrifices to a false deity. One is not liable for both capital punishment and lashes for the same act. Since he is liable for capital punishment, he is not held liable for lashes. (See *Ketubot* [[Ketubot 33#33b|33b]]; *Chullin* [[Chullin 81#81b|81b]].)
 [^17]: I.e., when the witnesses administered the warning, they mentioned the lesser transgression and not the more severe one.
-[^18]: For in this instance, he is not liable for the more severe punishment. There is a difference of opinion among the Sages of the Talmud concerning whether one is absolved from liability for lashes in such a situation or not and the halachah follows the opinion of Rabbi Yochanan who maintains that one is liable. See [[Ketubot 34#34b|*Ketubot* 34b]]-35a, *Chullin, loc. cit.*
+[^18]: For in this instance, he is not liable for the more severe punishment. There is a difference of opinion among the Sages of the Talmud concerning whether one is absolved from liability for lashes in such a situation or not and the halachah follows the opinion of Rabbi Yochanan who maintains that one is liable. See *Ketubot* [[Ketubot 34#34b|34b]]-35a, *Chullin, loc. cit.*
 [^19]: See the *Sifra* to the verse which states that the first excludes wild beasts and fowl.
 [^20]: See the *Turei Zahav* 16:11 and the *Siftei Cohen* 16:16 who debate the rulings of the Rashba and the Maharshal who permit one to slaughter the deer and its offspring even as an initial and preferred option.
 [^21]: I.e., a kosher domesticated animal.
-[^22]: Since ultimately, the ancestor of the hybrid deer was a domesticated animal, we hold the slaughterer liable (see [[Chullin 80#80a|*Chullin* 80a]]). Although in his *Kessef Mishneh*, Rav Yosef Caro quotes the opinion of the Rashba who does not hold the slaughtered liable for lashes, in his *Shulchan Aruch* (*Yoreh De'ah* 16:8), he cites the Rambam's view. The *Turei Zahav* 16:12 and the *Siftei Cohen* 16:17 debate this issue and side with the more lenient views, questioning the Rambam's ruling in light of his position in Halachah 11.
+[^22]: Since ultimately, the ancestor of the hybrid deer was a domesticated animal, we hold the slaughterer liable (see *Chullin* [[Chullin 80#80a|80a]]). Although in his *Kessef Mishneh*, Rav Yosef Caro quotes the opinion of the Rashba who does not hold the slaughtered liable for lashes, in his *Shulchan Aruch* (*Yoreh De'ah* 16:8), he cites the Rambam's view. The *Turei Zahav* 16:12 and the *Siftei Cohen* 16:17 debate this issue and side with the more lenient views, questioning the Rambam's ruling in light of his position in Halachah 11.
 [^23]: And not a separate entity for whose slaughter one is held liable.
 [^24]: If the fetus does not step on the ground, it need not be slaughtered (*Hilchot Ma'achalot Assurot* 5:14). Hence, the prohibition against slaughtering an animal and its offspring would not apply.
 [^25]: The *Tosefta* states: Since it is not required to slaughter such an animal, one is not liable for slaughtering it together with its mother.
@@ -121,7 +121,7 @@ chapter: 12
 [^27]: For he violated the prohibition twice.
 [^28]: For he performed one forbidden act.
 [^29]: For in this instance as well, he violated the prohibition twice.
-[^30]: Although the same act caused two violations of the prohibition, since it was only one deed, the majority opinion in [[Chullin 82#82a|*Chullin* 82a]] only holds the person liable for set of lashes. As Rashi explains: There is one prohibition, one deed, and one warning.
+[^30]: Although the same act caused two violations of the prohibition, since it was only one deed, the majority opinion in *Chullin* [[Chullin 82#82a|82a]] only holds the person liable for set of lashes. As Rashi explains: There is one prohibition, one deed, and one warning.
 [^31]: I.e., they both desired to slaughter their animal that day.
 [^32]: The *Shulchan Aruch* (*Yoreh De'ah* 16:6) states that this law applies only when the two purchased the animals from the same person. If they purchased them from different individuals, neither has precedence over the other.
 [^33]: In other situations, it is not necessary to notify him, for it is not certain that either purchaser will slaughter the animal on that day.

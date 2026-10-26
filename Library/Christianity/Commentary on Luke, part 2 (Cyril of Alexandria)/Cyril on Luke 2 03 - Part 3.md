@@ -41,9 +41,9 @@ But against those, who, in the greatness of their wickedness, have scorned His g
 
 *[p. 443]* ^pg83
 
-And that the blessed prophets also in manifold ways preached the mystery of Christ, no one can doubt. For one of them thus speaks as in the person of God the Father: ‘ Behold I lay in Rom.ix.33. “ Sion a stone of stumbling, and a rock of offence: and who- “ soever believeth in Him shall not be ashamed.” \_ For those who are in their sins are full of shame. For so it is somewhere said of the Israelites, who violated the law of Moses: ‘' Like Jer. ii. 26. “‘ the shame of a thief when he is caught, so shall the children “of Israel be ashamed.” But those who are in Christ by faith, escaping from the pollutions of sin, are not only not full of shame, but have that boldness which becometh those who are free.
+And that the blessed prophets also in manifold ways preached the mystery of Christ, no one can doubt. For one of them thus speaks as in the person of God the Father: ‘ Behold I lay in [[Romans 09#^9-33|Rom.ix.33]]. “ Sion a stone of stumbling, and a rock of offence: and who- “ soever believeth in Him shall not be ashamed.” \_ For those who are in their sins are full of shame. For so it is somewhere said of the Israelites, who violated the law of Moses: ‘' Like Jer. ii. 26. “‘ the shame of a thief when he is caught, so shall the children “of Israel be ashamed.” But those who are in Christ by faith, escaping from the pollutions of sin, are not only not full of shame, but have that boldness which becometh those who are free.
 
-It was their duty, therefore, yes! their duty, He says, as being possessed of understanding, and able to discern the face of the sky and of the earth, to examine also things future, and not to let those tempests escape their observation, which come after this world. For there will be the south wind and rain: that is to say, fiery torment. For the south wind is hot: and the infliction of that punishment is vehement and inevitable, like the rain falling upon those overtaken by it. They must not, therefore, let the time of salvation pass by unnoticed: that time in which our Saviour came, and at which perfect knowledge of the truth reached mankind, and the grace shone forth which purifieth the wicked. And that, not by means of the law: for “it made nothing perfect,” having only types and Heb.vii.19. shadows ; but by faith rather in Christ, not rejecting the law, but fulfilling it by a spiritual service. For the very wise Paul wrote; ‘Do we then make void the law through faith ? Rom.iii.3r. “Tt may not be: but we establish the law.” For we who are justified by Christ establish that law of faith, which in manifold ways was proclaimed beforehand by Moses and the pro-
+It was their duty, therefore, yes! their duty, He says, as being possessed of understanding, and able to discern the face of the sky and of the earth, to examine also things future, and not to let those tempests escape their observation, which come after this world. For there will be the south wind and rain: that is to say, fiery torment. For the south wind is hot: and the infliction of that punishment is vehement and inevitable, like the rain falling upon those overtaken by it. They must not, therefore, let the time of salvation pass by unnoticed: that time in which our Saviour came, and at which perfect knowledge of the truth reached mankind, and the grace shone forth which purifieth the wicked. And that, not by means of the law: for “it made nothing perfect,” having only types and [[Hebrews 07#^7-19|Heb.vii.19]]. shadows ; but by faith rather in Christ, not rejecting the law, but fulfilling it by a spiritual service. For the very wise Paul wrote; ‘Do we then make void the law through faith ? Rom.iii.3r. “Tt may not be: but we establish the law.” For we who are justified by Christ establish that law of faith, which in manifold ways was proclaimed beforehand by Moses and the pro-
 
 phets. «
 
@@ -87,7 +87,7 @@ And He spake this parable. A certain man had a fig-tree planted in his vineyard,
 
 THE Psalmist shews the surpassing gentleness of Christ, the Saviour of us all, in these words; ‘“ Lord, what is man, “ that Thou art mindful of him, or the son of man, that Thou “ yisitest him?” For man upon earth, as far as his bodily nature is concerned, is dust and ashes: but he has been honoured by God, by having been made in His image and likeness : not in his bodily shape,™ that is, but rather because he is capable of being just and good, and fitted for all virtue. The Creator therefore takes care of him, as being His creature, and for the purpose of adorning the earth. For as the prophet Isaiah saith; “He made it not in vain, but that it should be “ inhabited :"—inhabited of course by a rational animal, who can discern with the eyes of the mind the Creator and Artificer of the Universe, and glorify Him like the spirits that are above. But because by the deceiving arts of the serpent he had turned aside unto wickedness, and was held fast by the chains of sin, and removed far from God, Christ, to enable him
 
-1 Again S. Cyril has omitted the law of Moses. This extract is vv. 1-5. of this chapter, but the lacuna is filled up in the Catenze by a long extract from Theophylact, p- 422. identifying the Galileans with the followers of Judas of Galilee, Acts v. 37,"who forbade their calling any one Lord, or offering any sacrifice not commanded by ascribed to S. Cyril by A. C. and D. of Mai’s Codices, and by Aquinas. m In the margin a note occurs by the same later hand to the following effect: “(In what way man ‘ig in the image and likeness of “God.”
+1 Again S. Cyril has omitted the law of Moses. This extract is vv. 1-5. of this chapter, but the lacuna is filled up in the Catenze by a long extract from Theophylact, p- 422. identifying the Galileans with the followers of Judas of Galilee, [[Acts 05#^5-37|Acts v. 37]],"who forbade their calling any one Lord, or offering any sacrifice not commanded by ascribed to S. Cyril by A. C. and D. of Mai’s Codices, and by Aquinas. m In the margin a note occurs by the same later hand to the following effect: “(In what way man ‘ig in the image and likeness of “God.”
 
 *[p. 447]* ^pg87
 
@@ -103,7 +103,7 @@ Now the outer sense of this passage needs not a single word for its explanation:
 
 *[p. 448]* ^pg88
 
-John iv.24.
+[[John 04#^4-24|John iv.24]].
 
 Pa. xl. 6.
 
@@ -133,7 +133,7 @@ And it in no respect militates against the glory of the 3M
 
 *[p. 450]* ^pg90
 
-John xv. 4,
+[[John 15#^15-4|John xv. 4]],
 
 Roni. xii.
 
@@ -141,7 +141,7 @@ il.
 
 Rom. xi 74.
 
-Luke iii. 9.
+[[Luke 03#^3-9|Luke iii. 9]].
 
 Son, that He assumes the character of the vinedresser: for the Father is Himself also found to have taken it, without being exposed to any blame for so doing. For the Son said to the holy apostles, ‘Iam the Vine: ye are the branches : “ My Father is the Husbandman.” For the verbal expression must from time to time be made to accord with tbe suppositions which are laid down.
 
@@ -275,7 +275,7 @@ And this the letter of the Mosaic law has signified to us in an senigma: for it 
 
 *[p. 458]* ^pg98
 
-Luke i. 2.
+[[Luke 01#^1-2|Luke i. 2]].
 
 glorious, having in it none of the darkness of the world: and the hammering out of the metal shewed that the sacred and divine trumpet, that is, both the old and new preaching, would advance and grow onward: for that which is hammered out advances as it were continually onward, and extends in breadth and length. For at Christ’s rising for the inhabitants of earth, both the ancient law was to advance unto its spiritual interpretation; for so we preach it who have attained unto spiritual Ulumination in Christ: and the message of the Gospel was to spread until it embraced the whole world. And to the priests the law gave the use of the trumpets to command the people: but Christ gave the ministers of the new proclamations, by whom are meant the holy apostles, the command to preach Him and His precepts. For they proclaim His mystery, using as it were two trumpets, both preachizg Him, as having been “from the beginning eyewitnesses and ministers of the Word,” and adding, in confirmation of their words, the true testimonies of the law and the prophets.
 
@@ -326,7 +326,7 @@ Prov. xvi.
 
 26\.
 
-Mat. xi.12.
+[[Matthew 11#^11-12|Mat. xi.12]].
 
 a lower kind, and inferior in every respect, just as they are inferior to them also in nature. Nevertheless those who wish to live holily cannot do so without labour : for constantly, so to speak, the pathway that leadeth unto virtue is rugged and steep, and for most men too difficult to walk upon. For labours spring up before us and we have need altogether of fortitude and patience, and nobleness of conduct: yea, moreover, and of a mind that cannot be prevailed upon dissolutely to take part in base pleasures, or to be led by irrational impulses into carnal lust. He who has attained unto this in mind and spiritual fortitude will enter easily by the strait door, and run along the narrow way. For it is written, that “ by labours a “ man laboureth for himself, and violently gaineth the mastery “ over his destruction.” Thou hearest how the prophet plainly saith, that he gaineth the mastery over his destruction by violence; for as the Lord himself again said, “The kingdom of “heaven is gained by violence, and the violent seize it.”
 
@@ -368,11 +368,11 @@ unto Him, Depart, and go hence: for Herod desireth to Pee BGs, kill thee. And He
 
 *[p. 466]* ^pg106
 
-John xi. 43.
+[[John 11#^11-43|John xi. 43]].
 
 Lukevii.ry Jobn xi. 47.
 
-Luke xx.22.
+[[Luke 20#^20-22|Luke xx.22]].
 
 accurate vision of God by means of the teaching of truths superior to those of the law.
 
@@ -392,7 +392,7 @@ Why then did they draw near, saying, “ Depart hence: for
 
 Job XXXvill. 2.
 
-Mat. x. 28.
+[[Matthew 10#^10-28|Mat. x. 28]].
 
 thou couldst deceive even Him Who saith; “ Who is this that “ hideth from Me his mind, and shutteth up words in his heart, ‘and thinketh that from Me he hideth them ?”
 
@@ -418,7 +418,7 @@ being evil-disposed and ungrateful, and despisers.
 
 *[p. 470]* ^pg110
 
-Mat. xxi. 9.
+[[Matthew 21#^21-9|Mat. xxi. 9]].
 
 and left as unworthy of His presence those who said, “ Depart “and go hence.” And afterwards having traversed Juda, and saved many, and performed miracles which no words can adequately describe, He returned again to Jerusalem. And then it was, even then, that He sat upon a foal and an ass, while vast multitudes and young children, holding up branches of palm-trees, went before Him, praising Him, and saying, “ Hosanna to the Son of David. Blessed is He That cometh “in the Name of the Lord.” Having left them therefore as being unworthy, He says that He will then barely be seen by them when the time of His passion has arrived. For then again He went up to Jerusalem, and entered amid praises, and at that very time endured His saving passion in our behalf, that by suffering He might save, and renew unto incorruption the inhabitants of the earth. For God the Father has saved us by Christ: by Whom and with Whom to God the Father be praise and dominion, with the Holy Ghost, for ever and ever, Amen.
 
@@ -493,7 +493,7 @@ om. tdytwy GTs.
 
 I
 
-1 Cor. iii. 9.
+[[1 Corinthians 03#^3-9|1 Cor. iii. 9]].
 
 SERMON CI.
 
@@ -521,7 +521,7 @@ A modest mind therefore is a great and surpassing good: for it delivers those wh
 
 *[p. 478]* ^pg118
 
-1 Pet. i. 24.
+[[1 Peter 01#^1-24|1 Pet. i. 24]].
 
 P3,cxxix.6.
 
@@ -533,7 +533,7 @@ If then any one wish to be set above others, let him win it by the decree of hea
 
 But whosoever thinks great things of himself, and is supercilious, and elate in mind, and prides himself on an empty loftiness, is rejected and accursed. He follows a course the contrary of Christ’s, Who said; “ Learn of Me, for I am meek “and lowly in heart.” ‘For the Lord, it says, resisteth the “ proud, but giveth grace to the humble.” The wise Solomon also shews in many places the safety of the humble mind ; at one time saying, “ Exalt not thyself, that thou fall not:” and at another time, he figurately declares the same thing; ‘“ He “that maketh his house high, seeketh an overthrow.” Such a one is hated of God, and very justly, as having mistaken himself, and senselessly aimed above the limits of his nature. For upon what ground, I pray; does man upon earth think great things of himself? For certainly his mind is weak, and
 
-Col. iii. 12. Ps. li. 17. Mat. xi. 29. 1 Pet. v. 5. Ecclus. i. 30. Prov. xvii. 19.
+[[Colossians 03#^3-12|Col. iii. 12]]. Ps. li. 17. [[Matthew 11#^11-29|Mat. xi. 29]]. [[1 Peter 05#^5-5|1 Pet. v. 5]]. Ecclus. i. 30. Prov. xvii. 19.
 
 *[p. 479]* ^pg119
 

@@ -30,7 +30,7 @@ anapekṣasya vaśino deśakālākṛtikramāḥ || ^iast
 > [!source] Dyczkowski, vol. I
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)/Tantraloka Dyczkowski v01 06 - Chapter One, part 5#^pg201|p. 187]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf#page=201>))
 >
-> Thus, it is said in the Kāmikāgama that “(Deity) is free of logical discussion (hetuvāda). That God Who surpasses the gods does not depend on (anything) else (to establish His existence,) because (everything) else depends on Him, and so He is (always) independent (and free). (with 1.58–59ab)
+> Thus, it is said in the Kāmikāgama that ‘(Deity) is free of logical discussion (hetuvāda). That God Who surpasses the gods does not depend on (anything) else (to establish His existence,) because (everything) else depends on Him, and so He is (always) independent (and free).’ (with 1.58–59ab)
 >
 > For one who, independent and the master (of all things, transcends them,) spatial, temporal and formal processes are not restricted (niyata) (by Karma and natural law), and so He is Śiva Who is ubiquitous, eternal and omniform. (with 1.59cd–60ab)
 

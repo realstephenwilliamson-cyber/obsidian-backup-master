@@ -30,7 +30,7 @@ mokṣa eko'pi bījasya samayākhyasya tādṛśam || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#^pg98|p. 78]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=98>))
 >
-> It is said that there are thirty-two varieties formed by combining the previous eight kinds (of purified Karma’ with these four possibilities). (with 16.179ab)
+> It is said that there are thirty-two varieties formed by combining the previous eight kinds (of purified Karma with these four possibilities). (with 16.179ab)
 >
 > Although there is only one (form of complete) liberation, it is of two kinds, according to whether (in the course of initiation) the seed (of further Karma), namely, the Rule (samaya), has been purified (and hence eliminated), or not. (It is purified and removed) in the case of one who is such (fādrśa), children, (the mentally retarded) and the like, when (the teacher has) ascertained that (the disciple) will die soon, in the case of one who has no power (to endure hard work and discipline), is aged. or is a (simple) devotee. (with 16.179cd–180)
 

@@ -11,6 +11,7 @@ second_reading: "Galatians 3:23-29"
 gospel: "Luke 8:26-39"
 first_reading_complementary: "Isaiah 65:1-9"
 psalm_complementary: "Psalm 22:19-28"
+psalm_bcp_complementary: "Psalm 22:18-27"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-7]]"
 cssclasses:

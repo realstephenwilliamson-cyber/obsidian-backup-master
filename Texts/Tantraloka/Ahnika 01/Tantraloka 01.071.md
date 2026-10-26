@@ -30,7 +30,7 @@ svaśaktyudrekajanakaṃ tādātmyādvastuno hi yat |
 > [!source] Dyczkowski, vol. I
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)/Tantraloka Dyczkowski v01 07 - Chapter One, part 6#^pg223|p. 209]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf#page=223>))
 >
-> What an entity possesses that, by virtue of its oneness with it, generates an abundance of its own powers, is also a power. (Similarly, the Lord has only one power, namely) the Goddess, Who even though She manifests in this way, transcends (Her manifestations).‘"
+> What an entity possesses that, by virtue of its oneness with it, generates an abundance of its own powers, is also a power. (Similarly, the Lord has only one power, namely) the Goddess, Who even though She manifests in this way, transcends (Her manifestations).
 
 ## Viveka
 

@@ -27,7 +27,7 @@ vañcane tvasamarthaḥ san kṣetramāyatanaṃ vrajet || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#^pg128|p. 111]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=128>))
 >
-> It is said in the venerable Ratnamālā: ‘having ascertained that the time (of death) has come, he who aspires to liberation should not fear. (Rather confidently and) free of doubts, he should abandon the body. Or else, beloved one, he may cheat death in holy places of pilgrimage and in sacred bathing sites. This is the path of one who is not a yogi. The yogi cheats (death) by means of Yoga. (Or else,) he who is not capable of cheating it (this way) should go to a sacred area (kṣetra) (or) place of pilgrimage (&yatana), and by (piously) settling in that sacred bathing site (tīrtha), it is certainly cheated successfully. (with 28.256cd–259ab)
+> It is said in the venerable Ratnamālā: ‘having ascertained that the time (of death) has come, he who aspires to liberation should not fear. (Rather confidently and) free of doubts, he should abandon the body. Or else, beloved one, he may cheat death in holy places of pilgrimage and in sacred bathing sites. This is the path of one who is not a yogi. The yogi cheats (death) by means of Yoga. (Or else,) he who is not capable of cheating it (this way) should go to a sacred area (kṣetra) (or) place of pilgrimage (āyatana), and by (piously) settling in that sacred bathing site (tīrtha), it is certainly cheated successfully.’ (with 28.256cd–259ab)
 
 ## Viveka
 

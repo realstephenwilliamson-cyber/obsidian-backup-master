@@ -6,7 +6,7 @@ author:
 editor: []
 translator:
   - Joseph P. Farrell
-year:
+year: 1990
 publisher: St. Tikhon's Seminary Press
 series: ""
 volume: ""
@@ -18,7 +18,7 @@ language:
   - English
 pages: 74
 text: searchable
-status: review
+status:
 print: false
 files:
   - "[[Library/Christianity/Maximus the Confessor - Disputation with Pyrrhus (Farrell).pdf]]"
@@ -42,3 +42,5 @@ await dv.view("Templates/Views/open-pdf")
 See also: [[Maximus the Confessor - Selected Writings]] (Berthold's translations; Farrell's introduction cites his Mystagogy).
 
 **Text layer** (22 Oct 2026): OCR text added to the PDF (Tesseract, English, with ocrmypdf); the page images are unchanged. The file without text is in `.trash/work-pdfonly-2026-10-22/`.
+
+**Settled** (25 Oct 2026, from library catalogues and the web; Open items): St. Tikhon's Seminary Press, 1990, ISBN 1-878997-01-7 ([Open Library](https://openlibrary.org/works/OL4898334W/The_Disputation_With_Pyrrhus_of_Our_Father_Among_the_Saints_Maximus_the_Confessor)); AbeBooks lists the same ISBN with 1990 and 74 pages, which agrees with this file's pp. 1–74.

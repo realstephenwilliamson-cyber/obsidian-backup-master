@@ -27,7 +27,7 @@ piṇḍasthamiti taṃ prāhuriti śrīmālinīmate || ^iast
 > [!source] Dyczkowski, vol. VI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)/Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#^pg467|p. 448]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 06.pdf#page=467>))
 >
-> ‘That aspect of the creatures, principles and names, which is said to be sustained (by consciousness) (adhiṣtheya), they say in the venerable Mālinīmata, is the corporeal state (pindastha).
+> ‘That aspect of the creatures, principles and names, which is said to be sustained (by consciousness) (adhiṣtheya), they say in the venerable Mālinīmata, is the corporeal state (pindastha).’
 
 ## Viveka
 

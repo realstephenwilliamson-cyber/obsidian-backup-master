@@ -27,7 +27,7 @@ līnaśabdācca sarvaṃ taduktamarthasatattvakam || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#^pg179|p. 162]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=179>))
 >
-> All that concerns the real meaning (of this verse) has been said by (analysing the) two particles, the word ‘the eng’, the present participle of the verb ‘to recollect’, the final quarter (of the verse), all (of it), the half verse, and the word ‘merged (1714). (with 28.362cd–363)
+> All that concerns the real meaning (of this verse) has been said by (analysing the) two particles, the word ‘the eng’, the present participle of the verb ‘to recollect’, the final quarter (of the verse), all (of it), the half verse, and the word ‘merged (līna)’. (with 28.362cd–363)
 
 ## Viveka
 

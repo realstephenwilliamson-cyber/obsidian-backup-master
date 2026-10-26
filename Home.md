@@ -27,6 +27,8 @@ await dv.view("Templates/Views/phoneme-card", { compact: true }); await dv.view(
 
 [[Conjunct cycle (Tantraloka)|The cycle]] · [[Letters|The fifty letters]] · [[Sanskrit Daily Letter Cycle|Today's flashcard]]
 
+CIS minutes: M/W/F `INPUT[inlineSelect(option(5), option(10), option(15), option(20), option(25), option(30), option(35), option(40), option(45)):CIS study plan#cis_mwf]` · T/Th `INPUT[inlineSelect(option(5), option(10), option(15), option(20), option(25), option(30), option(35), option(40), option(45)):CIS study plan#cis_tth]`
+
 ## Tasks
 
 Due today or overdue:

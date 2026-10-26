@@ -11,6 +11,7 @@ second_reading: "2 Corinthians 6:1-13"
 gospel: "Mark 4:35-41"
 first_reading_complementary: "Job 38:1-11"
 psalm_complementary: "Psalm 107:1-3, 23-32"
+psalm_bcp_complementary: "Psalm 107:1-3, 23-32"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-7]]"
 cssclasses:

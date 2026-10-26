@@ -30,7 +30,7 @@ jñānameva tu tatsūkṣmaṃ paraṃ tvicchātmakaṃ matam || ^iast
 > [!source] Dyczkowski, vol. I
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)/Tantraloka Dyczkowski v01 09 - Chapter One, part 8#^pg324|p. 310]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf#page=324>))
 >
-> The means pertaining to knowledge’ is not said to be an absence of knowledge (ajñāna), (rather) it is knowledge itself; (however,) that which is more subtle than that is considered to be the supreme (means). It is (the power of) the will (icchā) (to realisation that achieves its goal instantaneously).
+> The means pertaining to knowledge is not said to be an absence of knowledge (ajñāna), (rather) it is knowledge itself; (however,) that which is more subtle than that is considered to be the supreme (means). It is (the power of) the will (icchā) (to realisation that achieves its goal instantaneously).
 
 ## Viveka
 

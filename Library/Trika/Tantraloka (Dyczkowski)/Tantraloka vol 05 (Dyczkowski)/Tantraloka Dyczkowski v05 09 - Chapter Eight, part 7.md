@@ -581,7 +581,7 @@ The (number and) extent of those extremely subtle”? (wombs) is not mentioned i
 
 *[p. 312]* ^pg330
 
-entered into a state of union (sēyujya) (with Śiva), proximity (samipya) ) (to him, while) others (pare) abide in the same world with him (saloka).[^894] ). (311- 313) (310ced-313ab) 
+entered into a state of union (sāyujya) (with Śiva), proximity (sāmīpya) (to him, while) others (pare) abide in the same world with him (saloka).[^894] (311- 313) (310ced-313ab) 
 
 #### Viveka on 8.310–313
 

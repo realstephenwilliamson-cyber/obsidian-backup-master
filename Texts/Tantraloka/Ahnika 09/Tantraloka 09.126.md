@@ -29,7 +29,7 @@ anusandhāturekasya saṃbhavastu yatastataḥ || ^iast
 >
 > It is evident here (in this world) also that action and its fruit are present (and experienced) in different bodies. Thus, (for example, the farmer) sows his crops in the spring and reaps them (bhoga) in the autumn, (when his) body differs from (the one he had before). (with 9.125cd–126ab)
 >
-> Insofar as the subject who links together experience (anusaṁdhātr) is one and the same, it is he alone who accrues the varied fruit of that, his past action. (with 9.126cd–127ab)
+> Insofar as the subject who links together experience (anusaṁdhātṛ) is one and the same, it is he alone who accrues the varied fruit of that, his past action. (with 9.126cd–127ab)
 
 ## Viveka
 

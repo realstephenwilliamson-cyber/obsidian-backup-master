@@ -32,7 +32,7 @@ abhinavaguptaguruḥ punarāha hi sati vittadeśakālādau || ^iast
 >
 > Tf the goal is to attain worldly benefits (bhoga), the wise man should undertake as many rites (kartavya) as possible. What wonder is it that an abundance of causes should serve to give rise to an abundance of fruits? Liberation (is one only), it is certainly not various, thus (the teacher whose) mental dispositions (vāsanā) are firm (and stable) in (executing) this (procedure) may also resort to a brief (simple) rite or just knowledge alone (vijñānamātra) (that he imparts to his disciple directly). (with 16.193cd–195ab)
 >
-> Again, Abhinavagupta’s teacher’ has said that if the money (is available) and the location and time etc. (are auspicious), (the teacher) should gather together (and apply his) extensive knowledge of ritual action? also, when (the intention is to) liberate (the disciple). (with 16.195cd–196ab)
+> Again, Abhinavagupta’s teacher has said that if the money (is available) and the location and time etc. (are auspicious), (the teacher) should gather together (and apply his) extensive knowledge of ritual action? also, when (the intention is to) liberate (the disciple). (with 16.195cd–196ab)
 
 ## Viveka
 

@@ -17,10 +17,10 @@ aliases:
 ## Mūla
 
 भ्रूमध्यकण्ठहृत्संज्ञं मध्यमं तदुदाहृतम् ।
-नाभिकन्दमहानन्दधाम तत्कौलिकत्रयम् ॥ ^mula
+नाभिकन्दमहानन्दधाम तत्कौलिकं त्रयम् ॥ ^mula
 
 bhrūmadhyakaṇṭhahṛtsaṃjñaṃ madhyamaṃ tadudāhṛtam |
-nābhikandamahānandadhāma tatkaulikatrayam || ^iast
+nābhikandamahānandadhāma tatkaulikaṃ trayam || ^iast
 
 ## Translation
 

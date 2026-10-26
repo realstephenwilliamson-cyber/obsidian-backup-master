@@ -81,7 +81,7 @@ Great (saith He) ought to be the effects of great things, and the gifts of the G
 
 *[p. 431]* ^pg495
 
-suppose that that was the bread from God and from above, Cuar. 8, which our forefathers eating, were overcome by death, and ° repelled not the evil of corruption, and no wonder; for that was not the Bread which availeth to render immortal. Hence neither will it be rightly conceived and said by any to be from heaven. For it was a work befitting that which came down thence, to render the partakers of It superior to death and decay. By undoubted proof again will it be confirmed, that this was the Bread from Heaven, that to wit through Christ, i. e., His Body. For It makes . him that tastes thereof to live for ever. Herein too is seen a great pledge of the Divine Nature, Which vouchsafes not to give a little thing, but everything wonderful, even surpassing our understanding, so as for the greatness of the Grace, to be even disbelieved by the more simple. For with so wealthy a Hand how should not the Will to give largely be present? Wherefore Paul too says in amazement, Hye hath not seen, nor ear heard, neither have 1 Cor. entered into the heart of man, the things which God pre- aan pared for them that love Him. By little examples was the Law typifying great ones, having the Shadow of the good Heb. x.1. things to come, not the very image of the things, as it is written: as in the food of manna is seen the Blessing that is through Christ. For the shadow of the good things to come was prefigured to them of old.
+suppose that that was the bread from God and from above, Cuar. 8, which our forefathers eating, were overcome by death, and ° repelled not the evil of corruption, and no wonder; for that was not the Bread which availeth to render immortal. Hence neither will it be rightly conceived and said by any to be from heaven. For it was a work befitting that which came down thence, to render the partakers of It superior to death and decay. By undoubted proof again will it be confirmed, that this was the Bread from Heaven, that to wit through Christ, i. e., His Body. For It makes . him that tastes thereof to live for ever. Herein too is seen a great pledge of the Divine Nature, Which vouchsafes not to give a little thing, but everything wonderful, even surpassing our understanding, so as for the greatness of the Grace, to be even disbelieved by the more simple. For with so wealthy a Hand how should not the Will to give largely be present? Wherefore Paul too says in amazement, Hye hath not seen, nor ear heard, neither have 1 Cor. entered into the heart of man, the things which God pre- aan pared for them that love Him. By little examples was the Law typifying great ones, having the Shadow of the good [[Hebrews 10#^10-1|Heb. x.1]]. things to come, not the very image of the things, as it is written: as in the food of manna is seen the Blessing that is through Christ. For the shadow of the good things to come was prefigured to them of old.
 
 59 These things said He in the Synagogue as He taught in Cupernaum,
 
@@ -154,7 +154,7 @@ It is not unreasonably (He says) that ye have clothed the flesh in no power of g
 
 c. vi. 63.
 
-Col. ii. 9.
+[[Colossians 02#^2-9|Col. ii. 9]].
 
 Supra it hath become wholly Life-giving, hastening up to the power of the higher Nature, not itself foremg unto its own nature Him who cannot in any wise be subjected. Al-thongh then the nature of the flesh be in itself powerless to give life, yet will it inwork this, when it has the Life-working Word, and is replete with His whole operation. For it is the Body of that which is by Nature Life, not of any earthly being, as to whom that might rightly hold, The flesh profiteth nothing. For not the flesh of Paul (for imstance) nor yet of Peter, or any other, would work this in us; but only and specially that of our Saviour Christ in whom dwelt all the fulness of the Godhead bodily. For verily it would be a thing most absurd that honey should infuse its own quality into things which naturally have no sweetness, and should have power to transfer into itself that wherewith it is mingled, and that the Life-giving Nature of God the Word should not be able to elevate to Its own good that Body which It indwelt. Wherefore as to all other things the saying will be true, that the flesh profiteth nothing ; but as to Christ alone it holdeth not, by reason that Life, that is the Only-Begotten, dwelt therein. And He calls Himself Spirit, for God is a Spirit and as the blessed Paul saith, For the Lord is the Spirit. And we do not say these things, as taking away from the Holy Ghost His Proper Existence; but as He calls Himself Son of man, since He was made Man, so again He calls Himself Spirit from His Own Spirit. For not Other than He is His Spirit.
 
@@ -164,7 +164,7 @@ are life.
 
 He filleth whole His Own Body with the Life-giving operation of the Spirit. For He now calls the Flesh Spirit, not turning It aside from being Flesh: but because by reason of Its being perfectly united to Him, and now endued with His whole Life-giving Power, It ought to be called Spirit too. And no wonder, for be not offended at this. For if he that is joined unto the Lord ts one spirit, how shall not His Own Body rather be called One with
 
-iv. 24. 2 Cor. iii. 17. 1 Cor. vi.
+iv. 24. [[2 Corinthians 03#^3-17|2 Cor. iii. 17]]. 1 Cor. vi.
 
 *[p. 437]* ^pg501
 
@@ -210,11 +210,11 @@ What shall we say then to these things? For them of Isracl alone at the first wa
 
 Isa. lv. 6, 7.
 
-Gal. ii. 10.
+[[Galatians 02#^2-10|Gal. ii. 10]].
 
 5 <sup>2</sup> 5 ἀμνησικακίαν
 
-S. Matth. ix. 13.
+S. [[Matthew 09#^9-13|Matth. ix. 13]].
 
 Ib. xv. 21.
 
@@ -352,7 +352,7 @@ Profitably then docs He command that the tabernacle be set up i one day, holding
 
 *[p. 449]* ^pg513
 
-yet will die, having once for all been born and died and cu risen from the dead. For the Resurrection, which is as it were, a pitching of the holy tabernacle, must of necessity follow His Death. But it is in the new moon, because in Christ we have a new age: for what is in Him, aro a new creature. And the first month is taken, signifying the renewal of human nature from death and decay to life and incorruption, and its passing at length from barrenness to fruitfulness, and its escape from the tyranny of the devil, like the winter now passed away and come to its close. Again in another way does he shew us Immanuel in type and figure saying, And thou shalt place the ark of the testi- Ex. xl. 3. mony, and cover the ark with the vail. For in the preceding the Word was limned in the complete tabernacle (for it was the House of God indwelling therein, to wit, the Holy Body of Christ) but no less is the same signified to us by the ark individually\*. For it was constructed of undecaying wood, that you might understand His Body incorruptible : it was overlaid with pure gold within and without, as it is written ® ; Ib. XXV. for all belonging to Him is Precious and royal, both the \* Divinity and the Humanity, and in all things He hath the Col. i.18. preeminence as Paul saith. And the gold is taken as a type of honour and excellence above all things. The ark then was fashioned of undecaying wood, and overlaid with gold, and had the Divine law deposited therein, for a type of God the Word indwelling in, and united to, His Holy Flesh (for the Law too was the Word of God, although not the Hy-postatic Word, as the Son is). And it is covered by the veil. For God the Word Incarnate was unseen of the many, having His Own Body as a covering, and lying hid within His Own Flesh as with a veil, so that thence certain not knowing His God-befitting Dignity, at one time endeavoured to stone Him, imputing it to Him, as a crime, that He being Man, said He was God, at another time, they Infra blushed not to say, Is not this Jesus the Son of Joseph, whose § aw 4 κατὰ μέρος as contrasted with the riac) fragm. a (p. 543 and 558 Ο, 1.) Ve" 45, ὁλόκληρος σκηνὴ, the tabernacle com- and in S. Cyril in his Scholia on the plete with all its a a rare Incarnation chapter xi, de Adoratione
+yet will die, having once for all been born and died and cu risen from the dead. For the Resurrection, which is as it were, a pitching of the holy tabernacle, must of necessity follow His Death. But it is in the new moon, because in Christ we have a new age: for what is in Him, aro a new creature. And the first month is taken, signifying the renewal of human nature from death and decay to life and incorruption, and its passing at length from barrenness to fruitfulness, and its escape from the tyranny of the devil, like the winter now passed away and come to its close. Again in another way does he shew us Immanuel in type and figure saying, And thou shalt place the ark of the testi- Ex. xl. 3. mony, and cover the ark with the vail. For in the preceding the Word was limned in the complete tabernacle (for it was the House of God indwelling therein, to wit, the Holy Body of Christ) but no less is the same signified to us by the ark individually\*. For it was constructed of undecaying wood, that you might understand His Body incorruptible : it was overlaid with pure gold within and without, as it is written ® ; Ib. XXV. for all belonging to Him is Precious and royal, both the \* Divinity and the Humanity, and in all things He hath the [[Colossians 01#^1-18|Col. i.18]]. preeminence as Paul saith. And the gold is taken as a type of honour and excellence above all things. The ark then was fashioned of undecaying wood, and overlaid with gold, and had the Divine law deposited therein, for a type of God the Word indwelling in, and united to, His Holy Flesh (for the Law too was the Word of God, although not the Hy-postatic Word, as the Son is). And it is covered by the veil. For God the Word Incarnate was unseen of the many, having His Own Body as a covering, and lying hid within His Own Flesh as with a veil, so that thence certain not knowing His God-befitting Dignity, at one time endeavoured to stone Him, imputing it to Him, as a crime, that He being Man, said He was God, at another time, they Infra blushed not to say, Is not this Jesus the Son of Joseph, whose § aw 4 κατὰ μέρος as contrasted with the riac) fragm. a (p. 543 and 558 Ο, 1.) Ve" 45, ὁλόκληρος σκηνὴ, the tabernacle com- and in S. Cyril in his Scholia on the plete with all its a a rare Incarnation chapter xi, de Adoratione
 
 » cf. the same line of thought in S. book ix. pp. 209, 298.
 
@@ -407,7 +407,7 @@ c. vi, 09,
 
 Supra ver. 66.
 
-S. Luke viii. 6.
+S. [[Luke 08#^8-6|Luke viii. 6]].
 
 \> ἀπεσκληκότα
 
@@ -498,7 +498,7 @@ east: the two sides, one to the south, the other to the north; and the side yet 
 
 But since the blessed Evangelist says that He refused His Presence to the Jews, because they were plotting to kill Him, we will add this to what we have said, that we do not consider the withdrawal of Christ as an imputation of cowardice, nor yet will we therefore accuse of weakness Him That is mighty unto all things, but we will accept the mode of the economy. For it beseemed Him not before His time, but in His own time to endure the Cross for all.
 
-5\. Matth. iv. 15, ex Isa. Thx J Ps. xvi. a a j.e., Pelatiah; whose death is re- in which case the death of Pelatiah corded a little below in Ezek. xi. 13. would be a portion of it. Pelatiah is This vision seems to last from Ezek. in the LXX Phaltias. viii. 1, where the date is given, to xi. 21,
+5\. [[Matthew 04#^4-15|Matth. iv. 15]], ex Isa. Thx J Ps. xvi. a a j.e., Pelatiah; whose death is re- in which case the death of Pelatiah corded a little below in Ezek. xi. 13. would be a portion of it. Pelatiah is This vision seems to last from Ezek. in the LXX Phaltias. viii. 1, where the date is given, to xi. 21,
 
 
 *[p. 461]* ^pg525

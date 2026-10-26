@@ -20,16 +20,13 @@ nyasa: "right arm (*bāhu*)"
 ## Front
 
 - **Glyph:** ख
-- **Variation:** —
 - **Example:** खग
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘thic<u>k h</u>oney’
-- **Class (as printed):** 1 (guttural) · hard · aspirated
-- **Grid:** the five rows of stops; in bold: ख
-- **Example:** khaga (bird)
+> [!note]- Back
+> - **Pronunciation:** As in ‘thic<u>k h</u>oney’
+> - **Class:** guttural · hard · aspirated
+> - क <u>ख</u> ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म
+> - **Example:** khaga (bird)
 
 ## Register
 

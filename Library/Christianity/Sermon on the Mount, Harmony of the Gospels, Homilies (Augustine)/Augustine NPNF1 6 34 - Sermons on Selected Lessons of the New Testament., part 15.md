@@ -14,7 +14,7 @@ converted: 2026-10-15
 
 *[p. 1099]* ^pg1125
 
-*On the words of the Gospel, John xiv. 6, ‘I am the way, and the truth, and…*
+*On the words of the Gospel, [[John 14#^14-6|John xiv. 6]], ‘I am the way, and the truth, and…*
 
 ever in the Father the Truth and Life, by assuming man’s nature became the Way. Walk by Him as Man, and thou comest to God. By Him thou goest, to Him thou goest. Look not out for any way whereby to come to Him, besides Himself. For if He had not vouchsafed to be the Way, we should have always gone astray. He then became the Way Whereby thou shouldest come; I do not say to thee, seek the Way. The Way Itself hath come to thee, arise and walk. Walk, with the life,<sup>4200</sup> not with the feet. For many walk well with the feet, and with their lives walk ill. For sometimes even those who walk well, run outside the way. Thus you will find men living well, and not Christians. They run well; but they run not in the way. The more they run, the more they go astray; because they are out of the Way. But if such men as these come to the Way, and hold on the Way, O how great is their security, because they both walk well, and do not go astray! But if they do not hold on the Way, however well they walk, alas! how are they to be bewailed! For better is it to halt in the way, than to walk on stoutly outside the way. Let this suffice for you, Beloved. Turn we to the Lord, etc.
 
@@ -26,18 +26,18 @@ ever in the Father the Truth and Life, by assuming man’s nature became the Way
 
 Sermon XCII.
 
-\[CXLII. Ben.\] *On the same words of the Gospel, John xiv. 6, “I am the way,” etc.*
+\[CXLII. Ben.\] *On the same words of the Gospel, [[John 14#^14-6|John xiv. 6]], “I am the way,” etc.*
 
 1\. The divine lessons raise us up, that we be not broken by despair; and terrify us again, that we be not tossed to and fro by pride. But to hold the middle, the true, the strait way, as it were between the left hand of despair, and the right hand of presumption, would be most difficult for us, had not Christ said, “I am the Way, and the Truth, and the Life.”<sup>4201</sup> As if He had said, “By what way wouldest thou go? ‘I am the Way’. Whither wouldest thou go? ‘I am the Truth.’ Where wouldest thou abide? ‘I am the Life.’” Let us then walk with all assurance in the Way; but let us fear snares by the way side. The enemy does not dare to lay his snares in the way; because Christ is the Way; but most certainly by the way side he ceases not to do so. Whence too it is said in the Psalm, “They have laid stumblingblocks for me by the way side.” <sup>4202</sup> And another Scripture saith, “Remember that thou walkest in the midst of snares.”<sup>4203</sup> These snares among which we walk are not in the way; but yet they are “by the way side.” What fearest thou, what art thou alarmed at, so thou walk in the Way? Fear then, if thou forsake the Way. For for this reason is the enemy even permitted to lay snares by the way side, lest through the security of exultation the Way be forsaken, and ye fall into the snares.
 
 2\. Christ Humbled is the Way; Christ the Truth and the Life, Christ Highly Exalted and God. If thou walk in the Humbled, thou shalt attain to the Exalted. If infirm as thou art, thou despise not the Humbled, thou shalt abide exceeding strong in the Exalted. For what cause was there of Christ’s Humiliation, save thine infirmity? For solely and irremediably did thine infirmity press thee in, and this circumstance it was that made so great a Physician come to thee. For if thy sickness had been even such, that thou couldest have gone to the Physician, this infirmity might have seemed endurable. But because thou couldest not go to Him, He came to thee. He came teaching humility, whereby we might return; for that pride allowed us not to return to life; yea had even made us depart from life. For the heart of man being lifted up against God, and neglecting in its sound state His saving precepts, the soul fell away into infirmity; let her in her infirmity learn to hear Him whom in her strength she despised. Let her hear Him that she may rise, whom she despised, that she might fall. Let her at length, taught by experience, give ear to what she had no mind, when taught by precept, to obtain. For her misery hath taught her, how evil a thing it is to go a whoring from the Lord. For to fall away from that Simple and Singular Good, into this multitude of pleasures, into the love of the world, and earthly corruption, is to go a whoring
 
-4201 John xiv. 6. 4202 Ps. cxxxix. 6, Sept. (cxl. 5, English version). Ecclus. ix. 13.
+4201 [[John 14#^14-6|John xiv. 6]]. 4202 Ps. cxxxix. 6, Sept. (cxl. 5, English version). Ecclus. ix. 13.
 
 
 *[p. 1101]* ^pg1127
 
-*On the same words of the Gospel, John xiv. 6, ‘I am the way,’ etc.*
+*On the same words of the Gospel, [[John 14#^14-6|John xiv. 6]], ‘I am the way,’ etc.*
 
 from the Lord. And He hath addressed her as in a sense a harlot, to warn her to return: very often by the Prophets doth He reproach her as a harlot, but yet not despaired of, for that He who reproacheth the harlot hath in His Hands the cleansing of the harlot too.
 
@@ -45,12 +45,12 @@ from the Lord. And He hath addressed her as in a sense a harlot, to warn her to 
 
 4\. Seemeth he to pray against her, or for her, who says, “Fill their faces with shame”? It seems to be an adversary, it seems an enemy. Hear what follows, and see whether a friend can offer this prayer. “Fill,” says he, “their faces with shame, and they shall seek Thy Name, O Lord.”<sup>4207</sup> Did he hate them whose faces he desired to be filled with shame? See how he
 
-4204 Jas. iv. 4. 4205 Matt. vii. 3. 4206 *Quæ ibat effusa redit confusa*. Ps. lxxxii. 17, Sept. (lxxxiii. 16, English version).
+4204 [[James 04#^4-4|Jas. iv. 4]]. 4205 [[Matthew 07#^7-3|Matt. vii. 3]]. 4206 *Quæ ibat effusa redit confusa*. Ps. lxxxii. 17, Sept. (lxxxiii. 16, English version).
 
 
 *[p. 1102]* ^pg1128
 
-*On the same words of the Gospel, John xiv. 6, ‘I am the way,’ etc.*
+*On the same words of the Gospel, [[John 14#^14-6|John xiv. 6]], ‘I am the way,’ etc.*
 
 loves them whom he would have seek the Name of the Lord. Does he love only, or hate only? or does he both hate, and love? Yea, he both hates, and loves. He hates what is thine, he loves thee. What is, “He hates what is thine, he loves thee”? He hates what thou hast made, he loves what God hath made. For what are thine own things but sins? And what art thou but what God made thee, a man after His Own image and likeness? Thou dost neglect what thou wast made, love what thou hast made. Thou dost love thine own works without thee, dost neglect the work of God within thee. Deservedly dost thou go away, deservedly fall off, yea, deservedly even from thine own self depart; deservedly hear the words, “A spirit that goeth and returneth not.”<sup>4208</sup> Hear rather Him That calleth and saith, “Turn ye unto Me, and I will turn unto you.”<sup>4209</sup> For God doth not really turn away, and turn again; Abiding the Same He rebuketh, Unchangeable He rebuketh. He hath turned away, in that thou hast turned thyself away. Thou hast fallen from Him, He hath not fallen away from thee.<sup>4210</sup> Hear Him then saying to thee, “Turn ye unto Me, and I will turn unto you.” For this is, “I turn unto you, in that ye turn unto Me.” He followeth on the back of him that flieth, He enlighteneth the face of him that returneth. For whither wilt thou fly in flying from God? Whither wilt thou fly in flying from Him who is contained in no place, and is nowhere absent? He That delivereth him that turneth to him, punisheth him that turneth away. Thou hast a Judge by flying; have a Father by returning.
 
@@ -58,12 +58,12 @@ loves them whom he would have seek the Name of the Lord. Does he love only, or h
 
 4208 Ps. lxxvii. 39, Sept. (lxxviii. English version). 4209 Zech. i. 3.
 
-4210 Tract. 2 in *Evang. Joan*. n. 8. 4211 Matt. vii. 13. 4212 *Vexat*. *Certus*.
+4210 Tract. 2 in *Evang. Joan*. n. 8. 4211 [[Matthew 07#^7-13|Matt. vii. 13]]. 4212 *Vexat*. *Certus*.
 
 
 *[p. 1103]* ^pg1129
 
-*On the same words of the Gospel, John xiv. 6, ‘I am the way,’ etc.*
+*On the same words of the Gospel, [[John 14#^14-6|John xiv. 6]], ‘I am the way,’ etc.*
 
 and corruptible; let him hearken to Him who said, “Enter in by the strait gate,” saying also, “I am the Way.”<sup>4214</sup> For as if some swollen one had asked, “How shall I enter in?” He saith, “‘I am the Way.’ Enter in by Me; Thou walkest only by Me, to enter in by the door.” For as He said, “I am the Way;” so also, “I am the Door.”<sup>4215</sup> Why seekest thou whereby to return, 534
 
@@ -71,23 +71,23 @@ whither to return, whereby to enter in? Lest thou shouldest in any respect go as
 
 6\. I do not say this as though the result of reasoning. Hear the Apostle himself saying, “He that spared not His Own Son, but delivered Him up for us all; how hath He also not with Him given us all things?”<sup>4218</sup> Lo, covetous one, thou hast all things. All things that thou lovest, despise, that thou be not kept back from Christ, and hold to Him in whom thou mayest possess all things. The Physician Himself then needing no such medicine, yet that He might encourage the sick, drank what He had no need of; addressing him as it were refusing it, and raising him up in his fear, He drank first. “The Cup,” saith He, “which I shall drink of;”<sup>4219</sup> “I who have nothing in Me to be cured by that Cup, am yet to drink it, that thou who needest to drink it, may not disdain to drink.” Now consider, Brethren, ought the human race to be any longer sick after having received such a medicine? God hath been now Humbled, and is man still proud? Let him hear, let him learn. “All things,” saith He,
 
-4214 John xiv. 6. 4215 John x. 7. 4216 Matt. xi. 27. 4217 Rom. v. 6. 4218 Rom. viii. 32.
+4214 [[John 14#^14-6|John xiv. 6]]. 4215 [[John 10#^10-7|John x. 7]]. 4216 [[Matthew 11#^11-27|Matt. xi. 27]]. 4217 [[Romans 05#^5-6|Rom. v. 6]]. 4218 [[Romans 08#^8-32|Rom. viii. 32]].
 
 
 *[p. 1104]* ^pg1130
 
-*On the same words of the Gospel, John xiv. 6, ‘I am the way,’ etc.*
+*On the same words of the Gospel, [[John 14#^14-6|John xiv. 6]], ‘I am the way,’ etc.*
 
 have been delivered unto Me of My Father.”<sup>4220</sup> If thou desirest all things, thou shalt have them with Me; if thou desirest the Father, by Me and in Me thou shalt have Him. “No man knoweth the Father but the Son.” Do not despair; come to the Son. Hear what follows, “And he to whom the Son will reveal Him.” Thou saidst, “I am not able. Thou callest me through a strait way; I am not able to enter in by a strait way.” “Come,” saith He, “unto Me, all ye that labour and are heavy laden.” Your burden is your swelling. “Come unto Me, all ye that labour and are heavy laden, and I will refresh you. Take My yoke upon you, and learn of Me.”<sup>4221</sup>
 
 7\. The Master of the Angels crieth out, the Word of God, by whom all reasonable souls are without failing fed, the Food That refresheth, and abideth Entire, crieth out and saith, “Learn of Me.” Let the people hear Him, saying, “Learn of Me.” Let them make answer, “What do we learn of Thee?” For we must be going to hear I know not what from the Great Artificer, when He saith, “Learn of Me.” Who is it that saith, “Learn of Me”? He who formed the earth, who divided the sea and the dry land, who created the fowls, who created the animals of the earth, who created all things that swim, who set the stars in the heaven, who distinguished the day and the night, who established the firmament, who separated the light from the darkness, He it is who saith, “Learn of Me.” Is He haply about to tell us this, that we should do these things with Him? Who can do this? God Only doeth them. “Fear not,” He saith, “I am not laying any burden on thee. ‘Learn of Me,’ this which for thy sake I was made. ‘Learn of Me,’” saith He, “not to form the creature which by Me was made. Neither do I tell you indeed, to learn those things which I have granted to some, to whom I would, not to all, to raise the dead, to give sight to the blind, to open the ears of the deaf; nor to wish as for some great thing to learn these things of Me.” The disciples returned with joy and exultation, saying, “Lo, even the devils are subject unto us through Thy Name.”<sup>4222</sup> And the Lord said to them, “In this rejoice not, that the devils are subject unto you; rejoice rather, because your names are written in heaven.”<sup>4223</sup> To whom He would, He gave the power to cast out devils, to whom He would, He gave the power to raise the dead. Such miracles were done even before the Incarnation of the Lord; the dead were raised, lepers were cleansed;<sup>4224</sup> we read of these things. And who did them then, but He who in after
 
-4220 Matt. xi. 27. 4221 Matt. xi. 28, 29. 4222 Luke x. 17. 4223 Luke x. 20. 2 Kings iv. and v.
+4220 [[Matthew 11#^11-27|Matt. xi. 27]]. 4221 [[Matthew 11#^11-28|Matt. xi. 28]], [[Matthew 11#^11-29|29]]. 4222 [[Luke 10#^10-17|Luke x. 17]]. 4223 [[Luke 10#^10-20|Luke x. 20]]. 2 Kings iv. and v.
 
 
 *[p. 1105]* ^pg1131
 
-*On the same words of the Gospel, John xiv. 6, ‘I am the way,’ etc.*
+*On the same words of the Gospel, [[John 14#^14-6|John xiv. 6]], ‘I am the way,’ etc.*
 
 time was the Man-Christ after David, but God-Christ before Abraham? He gave the power for all these things, He did them Himself by men; yet gave He not that power to all. Ought they to whom He gave it not to despair, and say that they have no part in Him because they have not been thought<sup>4225</sup> worthy to receive these gifts? In the body are divers members: 535
 
@@ -95,29 +95,29 @@ this member can do one thing, that another. God hath compacted the body together
 
 8\. What then doth it profit us to learn? “That I am meek,” saith He, “and lowly in heart.” He engrafteth charity, and that most genuine charity, without confusion, without inflation, without elation, without deceit; this doth He engraft, who saith, “Learn of Me, that I am meek and lowly in heart.” How can one proud and puffed up have any genuine<sup>4228</sup> charity? He must needs be envious. And mayhap one who is envious, loves, and we are mistaken? God forbid that any one should be so mistaken, as to say that an envious man hath charity. And so what saith the Apostle? “Charity envieth not.” Why doth it not envy? “It is not puffed up;”<sup>4229</sup> he immediately annexed the cause for which he took away envying from charity. Because it is not puffed up, it envieth not. It is true, he said first, “Charity envieth not;” but as though thou didst ask, “Why doth it not envy?” he added, “It is not puffed up. If then it envieth because it is puffed up; if it be not puffed up, it envieth not. If charity is not puffed up, and therefore envieth not; then doth He engraft charity who saith, “Learn of Me, that I am meek and lowly in heart.”<sup>4230</sup>
 
-4225 *Meruerunt*. 4226 Matt. vii. 22. 4227 Matt. vii. 23. 4228 *Sincerissimam*. 4229 1 Cor. xiii. 4.
+4225 *Meruerunt*. 4226 [[Matthew 07#^7-22|Matt. vii. 22]]. 4227 [[Matthew 07#^7-23|Matt. vii. 23]]. 4228 *Sincerissimam*. 4229 [[1 Corinthians 13#^13-4|1 Cor. xiii. 4]].
 
 
 *[p. 1106]* ^pg1132
 
-*On the same words of the Gospel, John xiv. 6, ‘I am the way,’ etc.*
+*On the same words of the Gospel, [[John 14#^14-6|John xiv. 6]], ‘I am the way,’ etc.*
 
 9\. Let any man have then what he will, let him boast himself of what he will. “If I speak with the tongues of men and of Angels, but, have not charity, I am become as sounding brass, or a tinkling cymbal.” What is more sublime than the gift of divers tongues? It is “brass,” it is “a tinkling cymbal,” if thou take charity away. Hear other gifts; “If I should know all mysteries.”<sup>4231</sup> What more excellent? what more magnificent? Hear yet another; “if I should have all prophecy, and all faith, so that I could remove mountains, but have not charity, I am nothing.”<sup>4232</sup> He comes to still greater things, Brethren. What else has he said? “If I should distribute all my goods to the poor.” What more perfect thing can be done? When indeed the Lord commanded the rich man this for perfection’s sake, saying, “If thou wilt be perfect, go, sell all that thou hast, and give to the poor.”<sup>4233</sup> Was he then at once perfect, because he sold all his goods and gave them to the poor? No; and therefore He added, “And come, follow Me.” “Sell all,” saith He, “give to the poor, and come, follow Me.” “Why should I follow Thee? Now that I have sold all, and distributed to the poor, am I not perfect? What need is there that I should follow Thee?” “Follow Me,” that thou mayest learn that “I am meek and lowly in heart.” For what? can any man sell all he hath, and give to the poor, who is not yet meek, not yet lowly in heart? Assuredly he can. “For if I should distribute all my goods to the poor.” And hear still further. For some, who had left all they had and had already followed the Lord, but not yet followed Him perfectly (for to follow Him perfectly is to imitate Him), could not bear the trial of suffering. Peter, Brethren, was already one of those who had left all and followed the Lord. For as that rich man went away in sadness, when the disciples bring troubled, asked how then any one could be perfect, and the Lord consoled them, they said to the Lord, “Behold, we have forsaken all, and followed Thee; what shall we have therefore?”<sup>4234</sup> And the Lord told them what He would give them here, what He would reserve for them hereafter. Now Peter was already of the number of those who had so done. But when it came to the crisis<sup>4235</sup> of suffering, at the voice of a maid-servant he denied Him thrice with whom he had promised that he was ready to die.
 
 10\. Take good heed then, Beloved: “Go,” saith He, “sell all that thou hast, give to the poor, and thou shalt have treasure in heaven, and come, follow Me.” Peter is perfect, now that the Lord sitteth in heaven at the right Hand of the Father, then did he attain perfection
 
-4231 *Sacramenta*. 4232 1 Cor. xiii. 1, etc. 4233 Matt. xix. 21. 4234 Matt. xix. 27. *Articulum*.
+4231 *Sacramenta*. 4232 [[1 Corinthians 13#^13-1|1 Cor. xiii. 1]], etc. 4233 [[Matthew 19#^19-21|Matt. xix. 21]]. 4234 [[Matthew 19#^19-27|Matt. xix. 27]]. *Articulum*.
 
 
 *[p. 1107]* ^pg1133
 
-*On the same words of the Gospel, John xiv. 6, ‘I am the way,’ etc.*
+*On the same words of the Gospel, [[John 14#^14-6|John xiv. 6]], ‘I am the way,’ etc.*
 
 and maturity. For when he followed the Lord to His Passion, he was not perfect; but when there began to be no one on earth for him to follow, then was he perfected. But thou truly hast always One before thee to follow; the Lord hath set up an example on earth, when He left the Gospel with thee, in the Gospel He is with thee. For He did not speak falsely when 536
 
 He said, “Lo, I am with you alway, even unto the end of the world.”<sup>4236</sup> Therefore follow the Lord. What is, “Follow the Lord”? Imitate the Lord. What is, “Imitate the Lord”? “Learn of Me, that I am meek and lowly in heart.” Because if I should distribute all my goods to the poor, and give up my body to be burned, but not have charity, it profiteth me nothing. To this charity then I exhort your Charity; now I should not exhort to charity, but with some charity. I exhort then that what is commenced may be filled up; and pray that what is begun may be perfected. And I beg that ye would offer this prayer for me, that what I advise may be perfected in me also. For we are all now imperfect, and there shall we be perfected, where all things are perfect. The Apostle Paul says, “Brethren, I do not reckon myself to have apprehended.”<sup>4237</sup> He says, “Not that I have already attained, either am already perfect.”<sup>4238</sup> And shall any man dare to vaunt himself on perfection? Yea rather let us acknowledge our imperfection, that we may attain<sup>4239</sup> perfection.
 
-4236 Matt. xxviii. 20. 4237 Phil. iii. 13. 4238 Phil. iii. 12. *Mereamur*.
+4236 [[Matthew 28#^28-20|Matt. xxviii. 20]]. 4237 [[Philippians 03#^3-13|Phil. iii. 13]]. 4238 [[Philippians 03#^3-12|Phil. iii. 12]]. *Mereamur*.
 
 
 *[p. 1108]* ^pg1134
@@ -126,18 +126,18 @@ He said, “Lo, I am with you alway, even unto the end of the world.”<sup>4236
 
 Sermon XCIII.
 
-\[CXLIII. Ben.\] *On the words of the Gospel, John xvi. 7, “I tell you the truth; it is expedient for you that I go away,” etc.*
+\[CXLIII. Ben.\] *On the words of the Gospel, [[John 16#^16-7|John xvi. 7]], “I tell you the truth; it is expedient for you that I go away,” etc.*
 
 1\. The medicine for all the wounds of the soul, and the one propitiation for the offences of men, is to believe on Christ; nor can any one be cleansed at all, whether from original sin which he derived from Adam,<sup>4240</sup> in whom all men have sinned, and become by nature children of wrath; or from the sins which they have themselves added, by not resisting the concupiscence of the flesh, but by following and serving it in unclean and injurious deeds: unless by faith they are united and compacted into His Body, who was conceived without any enticement of the flesh and deadly pleasure, and whom His Mother nourished in her womb without sin, and “Who did no sin, neither was deceit found in His Mouth.”<sup>4241</sup> They verily who believe on Him, become the children of God; because they are born of God by the grace of adoption, which is by the faith of Jesus Christ our Lord. Wherefore, dearly Beloved, it is with good reason that the same Lord and our Saviour mentions this one sin only, of which the Holy Ghost convinces the world, that it believeth not on Him. “I tell you the truth,” He saith, “It is expedient for you that I go away. For if I go not away, the Comforter will not come unto you; but if I depart, I will send Him unto you. And when He shall come, He will convince the world of sin, and of righteousness, and of judgment. Of sin, because they believe not on Me. Of righteousness, because I go to the Father, and ye shall see Me no more. Of judgment, because the prince of this world is already judged.”<sup>4242</sup>
 
 2\. Of this one only sin then He would have the world to be convinced, that they believe not on Him; to wit, because by believing on Him all sins are loosed, He would have this one imputed by which the rest are bound. And because by believing they are born of God, and become children of God; “For,” saith he, “to them gave He power to become the sons of God, to them that believe on Him.”<sup>4243</sup> Whoso then believeth on the Son of God, in so far as he adhereth to Him, and becometh himself also by adoption a son and heir of God, and a joint-heir with Christ, in so far he sinneth not. Whence John saith, “Whosoever is born of God sinneth not.”<sup>4244</sup> And therefore the sin of which the world is convinced is this, that they believe not on Him. This is the sin of which He also saith, “If I had not come, they had not had sin.”<sup>4245</sup> For what! had they not innumerable other sins? But by His coming this
 
-4240 Ps. li. 5. 4241 1 Pet. ii. 22. 4242 John xvi. 7–11. 4243 John i. 12. 4244 1 John iii. 9.
+4240 Ps. li. 5. 4241 [[1 Peter 02#^2-22|1 Pet. ii. 22]]. 4242 [[John 16#^16-7|John xvi. 7–11]]. 4243 [[John 01#^1-12|John i. 12]]. 4244 [[1 John 03#^3-9|1 John iii. 9]].
 
 
 *[p. 1109]* ^pg1135
 
-*On the words of the Gospel, John xvi. 7, ‘I tell you the truth; it is expedient…*
+*On the words of the Gospel, [[John 16#^16-7|John xvi. 7]], ‘I tell you the truth; it is expedient…*
 
 one sin was added to them that believed not, by which the rest should be retained. Whereas in them that believe, because this one was wanting, it was brought to pass that all should be remitted to them that believe. Nor is it with any other view that the Apostle Paul saith, “All have sinned, and have need of the glory of God;<sup>4246</sup> that “whosoever believeth on Him, should not be confounded;”<sup>4247</sup> as the Psalm also saith “Come ye unto Him, and be enlightened, and your faces shall not be confounded.”<sup>4248</sup> Whoso then glorieth in himself shall be confounded; for he shall not be found without sins. Accordingly he only shall not be confounded who glorieth in the Lord. “For all have sinned, and have need of the glory of God.” And so when he was speaking of the infidelity of the Jews, he did not say, “For if some of them have sinned, shall their sin make the faith of God of none effect?” For how should he say, “If some of them have sinned;” when he said himself, “For all have sinned”? But he said, “If some of them believed not, shall their unbelief make the faith of God of none effect?”<sup>4249</sup> That he might point out more expressly this sin, by which alone the door is closed against the rest that they by the grace of God should not be remitted. Of which one sin by the coming of the Holy Ghost, that is by the gift of His grace, which is granted to the faithful, the world is convinced, in the Lord’s words, “Of sin, because they believed not on 537
 
@@ -145,31 +145,31 @@ Me.”
 
 3\. Now there would be no great merit and glorious blessedness in believing, if the Lord had always appeared in His Risen Body to the eyes of men. The Holy Ghost then hath brought this great gift to them that should believe, that Him whom they should not see with the eyes of flesh, they might with a mind sobered from carnal desires, and inebriated with spiritual longings, sigh after. Whence it was that when that disciple who had said that he would not believe, unless he touched with the hands His Scars, after he had handled the Lord’s Body, cried out as though awaking from sleep, “My Lord and my God;” the Lord said to him, “Because thou hast seen Me, thou hast believed; blessed are they that have not seen, and yet have believed.”<sup>4250</sup> This blessedness hath the Holy Ghost, the Comforter, brought to us, that the form of a servant which He took from the Virgin’s womb, being removed from the eyes of flesh, the purified eye of the mind might be directed to This Form of God, in which He continued equal with the Father, even when He vouchsafed to appear in the Flesh; so as that with the Same Spirit filled the Apostle might say, “Though we have known Christ after the flesh; yet now we know Him so no longer.” <sup>4251</sup> Because even the Flesh of
 
-4246 Rom. iii. 23. 4247 Rom. ix. 33. 4248 Ps. xxxiii. 6, Sept. (xxxiv. 5, English version). 4249 Rom. iii. 3.
+4246 [[Romans 03#^3-23|Rom. iii. 23]]. 4247 [[Romans 09#^9-33|Rom. ix. 33]]. 4248 Ps. xxxiii. 6, Sept. (xxxiv. 5, English version). 4249 [[Romans 03#^3-3|Rom. iii. 3]].
 
-4250 John xx. 29. 2 Cor. v. 16.
+4250 [[John 20#^20-29|John xx. 29]]. [[2 Corinthians 05#^5-16|2 Cor. v. 16]].
 
 
 *[p. 1110]* ^pg1136
 
-*On the words of the Gospel, John xvi. 7, ‘I tell you the truth; it is expedient…*
+*On the words of the Gospel, [[John 16#^16-7|John xvi. 7]], ‘I tell you the truth; it is expedient…*
 
 Christ he knew not after the flesh, but after the Spirit, who, not by touching in curiosity, but in believing assured, acknowledgeth the power of His Resurrection; not saying in his heart, “Who hath ascended into heaven? that is, to bring Christ down; or, Who hath descended into the deep? that is, to bring back Christ from the dead.” “But,” saith he, “the word is nigh thee, in thy mouth, that Jesus is the Lord; and if thou shalt believe in thine heart that God hath raised Him from the dead, thou shalt be saved. For with the heart man believeth unto righteousness, and with the mouth confession is made unto salvation.”<sup>4252</sup> These, Brethren, are the words of the Apostle, pouring them forth with the holy inebriation of the Holy Ghost Himself.
 
 4\. Forasmuch then as we could in no way have had this blessedness by which we see not and yet believe, unless we received it of the Holy Ghost; it is with good reason said, “It is expedient for you that I go away. For if I go not away, the Comforter will not come unto you; but if I depart, I will send Him unto you.”<sup>4253</sup> By His Divinity indeed He is with us always; but unless He had in Body gone away from us, we had always seen His Body after the flesh. and never believed after a spiritual sort; by the which belief justified and blessed we might attain<sup>4254</sup> with cleansed hearts to contemplate the Very Word, God with God, “by whom all things were made,” and “who was made Flesh, that He might dwell among us.” And if not with the contact of the hand, but “with the heart man believeth unto righteousness;” with good reason is the world, which will not believe save what it sees, convinced of our righteousness. Now that we might have that righteousness of faith of which the unbelieving world should be convinced, therefore said the Lord, “Of righteousness, because I go to the Father, and ye shall see Me no more.” As if He had said, “This shall be your righteousness, that ye believe on Me, the Mediator, of whom ye shall be most fully assured that He is risen again and gone to the Father, though ye see Him not after the Flesh; that by Him reconciled, ye may be able to see God after the Spirit.” Whence He saith to the woman who represents the Church, when she fell at His Feet after His Resurrection, “Touch Me not, for I am not yet ascended to the Father.”<sup>4255</sup> Which expression is understood mystically, thus. “Believe not in Me after a carnal manner by means of bodily contact; but thou shalt believe after a spiritual manner; that is, with a spiritual faith shalt touch Me, when I shall have ascended to the Father.” For, “blessed are they who do not see, and believe.” And this is the righteousness of faith, of which the world, which hath it not, is convinced of us who are not without it; for “the just liveth by faith.” <sup>4256</sup> Whether it be then that as rising again in Him,
 
-4252 Rom. x. 6, etc. 4253 John xvi. 7. 4254 *Mereremur*. 4255 John xx. 17. Hab. ii. 4; Rom. i. 17.
+4252 [[Romans 10#^10-6|Rom. x. 6]], etc. 4253 [[John 16#^16-7|John xvi. 7]]. 4254 *Mereremur*. 4255 [[John 20#^20-17|John xx. 17]]. Hab. ii. 4; [[Romans 01#^1-17|Rom. i. 17]].
 
 
 *[p. 1111]* ^pg1137
 
-*On the words of the Gospel, John xvi. 7, ‘I tell you the truth; it is expedient…*
+*On the words of the Gospel, [[John 16#^16-7|John xvi. 7]], ‘I tell you the truth; it is expedient…*
 
 and in Him coming to the Father, we are invisibly and in justification perfected; or that as not seeing and yet believing we live by faith, for that “the just liveth by faith;” with these meanings said He, “Of righteousness, because I go to the Father, and ye shall see Me no more.”
 
 5\. Nor let the world excuse itself by this, that it is hindered by the devil from believing on Christ. For to believers the prince of the world is cast out,<sup>4257</sup> that he work no more in the hearts of men whom Christ hath begun to possess by faith; as he worketh in the children of unbelief;<sup>4258</sup> whom he is constantly stirring up to tempt and disturb the righteous. For because he is cast out, who once had dominion interiorly he wageth war exteriorly. Although then by means of his persecutions, “the Lord doth direct the meek in judgment;”<sup>4259</sup> nevertheless in this very fact of his being cast out, is he “judged already.” And of this, “judgment” is the world convinced; for in vain doth he who will not believe on Christ complain of the devil whom, judged, that is, cast out, and for the exercising of us allowed to attack us from without, not only men, but even women, and boys, and girls, Martyrs have overcome. Now 538 in whom have they overcome, but in Him on whom they have believed, and whom seeing not, they loved, and by whose dominion in their hearts they have got rid of a most oppressive<sup>4260</sup> lord. And all this by grace, by the gift, that is, of the Holy Ghost. Rightly then doth the Same Spirit convince the world, both of “sin,” because it believeth not on Christ; “and of righteousness,” because they who have had the will have believed, though Him on whom they believed they saw not; and by His Resurrection have hoped that themselves also should be in the resurrection perfected; “and of judgment,” because if they had had the will to believe, they could be hindered by none, “for that the prince of this world hath been judged already.”
 
-4257 John xii. 31. 4258 Eph. ii. 2. 4259 Ps. xxv. 9. *Pessimo*.
+4257 [[John 12#^12-31|John xii. 31]]. 4258 [[Ephesians 02#^2-2|Eph. ii. 2]]. 4259 Ps. xxv. 9. *Pessimo*.
 
 
 *[p. 1112]* ^pg1138
@@ -178,18 +178,18 @@ and in Him coming to the Father, we are invisibly and in justification perfected
 
 Sermon XCIV.
 
-\[CXLIV. Ben.\] *On the same words of the Gospel, John xvi. 8, “He will convict the world in respect of sin,* *and of righteousness, and of judgement.”*
+\[CXLIV. Ben.\] *On the same words of the Gospel, [[John 16#^16-8|John xvi. 8]], “He will convict the world in respect of sin,* *and of righteousness, and of judgement.”*
 
 1\. When our Lord and Saviour Jesus Christ was speaking at length of the coming of the Holy Ghost, He said among the rest, “He shall convince the world of sin, and of righteousness, and of judgment.”<sup>4261</sup> Nor when He had said this, did He pass on to another subject; but vouchsafed to convey a somewhat more explicit notice of this same truth. “Of sin,” said He, “because they believed not on Me. Of righteousness, because I go to the Father. Of judgment, because the prince of this world hath been judged already.”<sup>4262</sup> There arises therefore within us a desire of understanding, why as if it were men’s only sin, not to believe on Christ, He said it of this alone, that the Holy Ghost should convince the world; but if it is plain that besides this unbelief there are manifold other sins of men, why of this alone should the Holy Ghost convince the world? Is it because all sins are by unbelief retained, by faith remitted; that therefore God imputeth this one above all the rest, by which it comes to pass that the rest are not loosed, so long as proud man believes not in an Humbled God? For so it is written; “God resisteth the proud, but giveth grace unto the humble.”<sup>4263</sup> Now this grace of God is a gift of God. But the greatest gift is the Holy Ghost Himself; and therefore is it called grace. For forasmuch “as all had sinned, and needed the glory of God; because by one man sin entered into the world, and death by his sin in whom all have sinned;”<sup>4264</sup> therefore is it grace because given gratuitously. And therefore is it given gratuitously, because it is not rendered as a reward after a strict scrutiny of deserts, but given as a gift after the pardon of sins.
 
 2\. Therefore of sin are unbelievers, that is, the lovers of the world, convinced; for they are signified by the name of the world. For when it is said, “He will convince the world of sin;” it is of none other sin than that they have not believed on Christ. For if this sin exist not, no sins will remain, because when the just man lives by faith, all are loosed. Now the difference is great as to whether one believe that Jesus is Christ, or whether he believe on Christ. For that Jesus is Christ even the devils believed, and yet the devils believed not on Christ. For he believeth on Christ, who both hopeth in Christ and loveth Christ. For if he have faith without hope and love, he believeth that Christ is, but he doth not believe on Christ. Whoso then believeth on Christ, by believing on Christ, Christ cometh unto him,
 
-4261 John xvi. 8. 4262 John xvi. 9–11. 4263 Prov. iii. 34; Jas. iv. 6. 539 4265 *Mereamur*. 4266 *Prærogare*. Phil. ii. 3, etc.
+4261 [[John 16#^16-8|John xvi. 8]]. 4262 [[John 16#^16-9|John xvi. 9–11]]. 4263 Prov. iii. 34; [[James 04#^4-6|Jas. iv. 6]]. 539 4265 *Mereamur*. 4266 *Prærogare*. [[Philippians 02#^2-3|Phil. ii. 3]], etc.
 
 
 *[p. 1113]* ^pg1139
 
-*On the same words of the Gospel, John xvi. 8, ‘He will convict the world…*
+*On the same words of the Gospel, [[John 16#^16-8|John xvi. 8]], ‘He will convict the world…*
 
 and in a manner uniteth Himself to him, and he is made a member in His Body. Which cannot be, but by the accession of hope and love.
 
@@ -201,24 +201,24 @@ and in a manner uniteth Himself to him, and he is made a member in His Body. Whi
 
 *[p. 1114]* ^pg1140
 
-*On the same words of the Gospel, John xvi. 8, ‘He will convict the world…*
+*On the same words of the Gospel, [[John 16#^16-8|John xvi. 8]], ‘He will convict the world…*
 
 would not say in another place, “No man hath ascended up to heaven, but He That descended from heaven, the Son of man who is in heaven.”<sup>4268</sup> But the Apostle Paul also says, “For our conversation is in heaven.”<sup>4269</sup> And why is this? Because he also says, “If ye be risen with Christ, seek the things which are above, where Christ sitteth on the right hand of God. Mind the things which are above, not those which are upon the earth. For ye are dead, and your life is hid with Christ in God.”<sup>4270</sup> How then is He Alone? Is He therefore Alone because Christ with all His members is One, as the Head with His Body? Now what is His Body, but the Church? As the same teacher says, “Now ye are the Body of Christ, and members in particular.”<sup>4271</sup> Forasmuch then as we have fallen, and He descended for our sakes, what is, “No man hath ascended, but He That descended;” but that no man hath ascended, except as made one with Him, and as a member fastened into His Body who descended? And thus He saith to His disciples, “Without Me ye can do nothing.”<sup>4272</sup> For in one way is He One with the Father, and in another one with us. He is One with the Father, in that the Substance of the Father and the Son is One; He is One with the Father, in that, “Being in the Form of God, He thought it not robbery to be equal with God.” But He was made One with us, in that “He emptied Himself, taking the form of a servant;” He was made one with us, according to the seed of Abraham, “in whom all nations shall be blessed.” Which place when the Apostle had brought forward, he said, “He saith not, And to seeds, as of many; but as of one, And to thy Seed, which is Christ.”<sup>4273</sup> And for that we too belong to that which is Christ, by our incorporation together, and coherence to That Head, It is One Christ. And also for that he says to us too, “Therefore are ye Abraham’s seed, heirs according to the promise.”<sup>4274</sup> For if the seed of Abraham be One, and That One Seed of Abraham can only be understood of Christ; but this seed of Abraham we also are; therefore This Whole, that is, the Head and the Body, is One Christ.
 
 6\. And therefore we ought not to deem ourselves separated from that righteousness, which the Lord Himself makes mention of, saying, “Of righteousness, because I go to the Father.” For we too have risen with Christ, and we are with Christ our Head, now for a while<sup>4275</sup> by faith and hope; but our hope will be completed in the last resurrection of the dead. But when our hope shall be completed, then shall our justification be completed also.
 
-4268 John iii. 13. 4269 Phil. iii. 20.
+4268 [[John 03#^3-13|John iii. 13]]. 4269 [[Philippians 03#^3-20|Phil. iii. 20]].
 
-4270 Col. iii. 1–3. 4271 1 Cor. xii. 27. 4272 John xv. 5. 4273 Gal. iii. 16. 4274 Gal. iii. 29. *Interim*.
+4270 [[Colossians 03#^3-1|Col. iii. 1–3]]. 4271 [[1 Corinthians 12#^12-27|1 Cor. xii. 27]]. 4272 [[John 15#^15-5|John xv. 5]]. 4273 [[Galatians 03#^3-16|Gal. iii. 16]]. 4274 [[Galatians 03#^3-29|Gal. iii. 29]]. *Interim*.
 
 
 *[p. 1115]* ^pg1141
 
-*On the same words of the Gospel, John xvi. 8, ‘He will convict the world…*
+*On the same words of the Gospel, [[John 16#^16-8|John xvi. 8]], ‘He will convict the world…*
 
 And the Lord who was to complete it showed us in His Own Flesh (that is, in our Head), Wherein He rose again and ascended to the Father, what we ought to hope for. For that thus it is written, “He was delivered for our sins, and rose again for our justification.”<sup>4276</sup> The world then is convinced “of sin” in those who believe not on Christ; “and of righteousness,” in those who rise again in the members of Christ. Whence it is said, “That we may be the righteousness of God in him.”<sup>4277</sup> For if not in Him, in no way righteousness. But if in Him, He goeth with us Whole to the Father, and this perfect righteousness will be fulfilled in us. And therefore “of judgment” too is the world convinced, “because the prince of this world hath been judged already;” that is, the devil, the prince of the unrighteous, who in heart inhabit only in this world which they love, and therefore are called “the world;” as our conversation is in heaven, if we have risen again with Christ. Therefore as Christ together with us, that is His Body, is One; so the devil with all the ungodly whose head he is, with as it were his own body, is one. Wherefore as we are not separated from the righteousness, of which the Lord said, “Because I go to the Father;” so the ungodly are not separated from that judgment, of which He said, “Because the prince of this world hath been judged already.” 540
 
-4276 Rom. iv. 25. 2 Cor. v. 21.
+4276 [[Romans 04#^4-25|Rom. iv. 25]]. [[2 Corinthians 05#^5-21|2 Cor. v. 21]].
 
 
 *[p. 1116]* ^pg1142
@@ -227,7 +227,7 @@ And the Lord who was to complete it showed us in His Own Flesh (that is, in our 
 
 Sermon XCV.
 
-\[CXLV. Ben.\] *On the words of the Gospel, John xvi. 24, “Hitherto have ye asked nothing in my name;”* *and on the words of Luke x. 17, “Lord, even the demons are subject unto us in thy name.”*
+\[CXLV. Ben.\] *On the words of the Gospel, [[John 16#^16-24|John xvi. 24]], “Hitherto have ye asked nothing in my name;”* *and on the words of [[Luke 10#^10-17|Luke x. 17]], “Lord, even the demons are subject unto us in thy name.”*
 
 1\. When the Holy Gospel was being read, we heard what in truth ought at once to put every earnest soul in motion to seek, not to faint. For whoso is not moved, is not changed. But there is a dangerous movement, of which it is written, “Suffer not my feet to be moved.”<sup>4278</sup> But there is another movement of him who seeketh, knocketh, asketh. What then has been read we have all heard; but I suppose we have not all understood. It makes mention of that which together with me ye should seek, with me ask, for the receiving of which ye should with me knock. For as I hope the grace of the Lord will be with us, that whereas I wish to minister to you, I too may be thought<sup>4279</sup> worthy to receive. What is it, I pray you, that we have just heard that the Lord said to His disciples? “Hitherto have ye asked nothing in My Name.”<sup>4280</sup> Is He not speaking to those disciples, who, after He had sent them, having given them power to preach the Gospel, and to do mighty works, returned with joy, and said to Him, “Lord, even the devils are subject unto us through Thy Name”?<sup>4281</sup> Ye recognise, ye recollect this which I have quoted from the Gospel, which in every passage and every sentence speaketh truth, nowhere false, nowhere deceiveth. How then is it true, “Hitherto have ye asked nothing in My Name”? and, “Lord, even the devils are subject unto us through Thy name”? Of a surety this puts the mind in motion to ascertain the secret of this difficulty. Therefore ask we, seek, knock. Be there in us faithful godliness, not a restlessness of the flesh, but a submission of the mind, that He who seeth us knocking may open unto us.
 
@@ -235,12 +235,12 @@ Sermon XCV.
 
 4278 Ps. lxvi. 9. 4279 *Merear*.
 
-4280 John xvi. 24. 4281 Luke x. 17. 4282 *Faucibus*. Ps. xxx. 20, Sept. (xxxi. 19, English version). 541 4284 *Supportat*. 4285 Rom. vii. 7. 4286 Rom. vii. 23.
+4280 [[John 16#^16-24|John xvi. 24]]. 4281 [[Luke 10#^10-17|Luke x. 17]]. 4282 *Faucibus*. Ps. xxx. 20, Sept. (xxxi. 19, English version). 541 4284 *Supportat*. 4285 [[Romans 07#^7-7|Rom. vii. 7]]. 4286 [[Romans 07#^7-23|Rom. vii. 23]].
 
 
 *[p. 1117]* ^pg1143
 
-*On the words of the Gospel, John xvi. 24, ‘Hitherto have ye asked nothing…*
+*On the words of the Gospel, [[John 16#^16-24|John xvi. 24]], ‘Hitherto have ye asked nothing…*
 
 manifold “hast Thou hidden to them that fear Thee.” If thou hidest it to them that fear Thee, to whom dost Thou open it? “Thou hast wrought it for them that hope in Thee.” A twofold question has arisen, but either is solved by the other. If any one inquires after the other, what is this, “Thou hast hidden it to them that fear Thee; wrought it for them that hope in Thee”? Are they that fear, and they that hope, different? Do not the very same who fear God, hope in God? Who hopeth on Him who doth not fear Him? Who in a godly sort feareth Him, and hath not hope in Him? Let this then first be solved. Somewhat would I say concerning those who hope and those who fear.
 
@@ -248,20 +248,20 @@ manifold “hast Thou hidden to them that fear Thee.” If thou hidest it to the
 
 *[p. 1118]* ^pg1144
 
-*On the words of the Gospel, John xvi. 24, ‘Hitherto have ye asked nothing…*
+*On the words of the Gospel, [[John 16#^16-24|John xvi. 24]], ‘Hitherto have ye asked nothing…*
 
 in thy pride? Lo, with thine own arms hath the enemy conquered thee. Thou verily, didst look for a commandment as a defence: and, lo, by the commandment the enemy hath found an occasion of entering in. “For sin taking occasion by the commandment,” he saith, “deceived me, and by it slew me.”<sup>4288</sup> What means what I said, “With thine own arms hath the enemy conquered thee”? Hear the same Apostle going on, and saying; “Wherefore the Law indeed is holy, and the commandment holy, and just, and good.”<sup>4289</sup> Make answer now to the revilers<sup>4290</sup> of the Law: make answer on the Apostle’s authority, “The commandment is holy, the Law holy, the commandment just and good. Was then that which is good, made death unto me? God forbid! But sin that it might appear sin, by that which is good wrought death in me.”<sup>4291</sup> Why is this but because on receiving the commandment thou didst fear, not love? Thou fearedst punishment, thou didst not love righteousness. Whoso feareth punishment, wisheth, if it were possible, to do what pleaseth him, and not to have what he feareth. God forbiddeth adultery, thou hast coveted another’s wife, thou dost not go in unto her, thou dost not do so, opportunity is given thee, thou hast time, a favourable place is open, witnesses are absent, yet thou dost not do it, wherefore? Because thou fearest the punishment. But no one will know it. Will not God know it? So it is clear, because God knoweth what thou art about to do, thou doest it not; but here thou fearest the threatenings of God, not lovest His commandments. Why dost thou not do it? Because if thou do, thou wilt be cast into hell fire. It is the fire thou fearest. O if thou didst love chastity, thou wouldest not do it, even though thou mightest be altogether unpunished. If God were to say to thee, “Lo, do it, I will not condemn thee, I will not condemn thee to hell fire, but I will withhold My Face from thee.” If thou did it not because of this threat, it would be from the love of God that thou didst not do it, not from the fear of judgment. But thou wouldest do it, perhaps I mean thou wouldest do so; for it is not my place to judge. If thou do it not on this principle because thou abhorrest the contamination of adultery, because thou lovest His precepts, that thou mayest obtain <sup>4292</sup> His promises, and not because thou fearest His condemnation, it is the grace which maketh saints that aideth thee; it is all of grace, ascribe it not to thine own self, attribute it not to thine own strength. Thou actest from delight in it, well; thou actest in charity, well; I assent, I agree. Charity worketh by thee, when thou actest with thy will. At once dost thou taste sweetness, if thou hope on the Lord.
 
 4\. But whence hast thou this charity, if yet thou hast it? for I am afraid lest even yet it is through fear thou doest it not, and lest thou seem great in thine own eyes. Now if it is
 
-4288 Rom. vii. 11. 4289 Rom. vii. 12.
+4288 [[Romans 07#^7-11|Rom. vii. 11]]. 4289 [[Romans 07#^7-12|Rom. vii. 12]].
 
-4290 The Manichæans. 4291 Rom. vii. 13. *Exigas*. 542 4293 1 Cor. xiii. 1. etc. 4294 *Linguæ tuæ*. 4295 1 Cor. iv. 7. 4296 Rom. v. 5.
+4290 The Manichæans. 4291 [[Romans 07#^7-13|Rom. vii. 13]]. *Exigas*. 542 4293 [[1 Corinthians 13#^13-1|1 Cor. xiii. 1]]. etc. 4294 *Linguæ tuæ*. 4295 [[1 Corinthians 04#^4-7|1 Cor. iv. 7]]. 4296 [[Romans 05#^5-5|Rom. v. 5]].
 
 
 *[p. 1119]* ^pg1145
 
-*On the words of the Gospel, John xvi. 24, ‘Hitherto have ye asked nothing…*
+*On the words of the Gospel, [[John 16#^16-24|John xvi. 24]], ‘Hitherto have ye asked nothing…*
 
 through charity that thou doest it not, thou art truly great. Hast thou charity? “I have,” you say. Whence? “From myself.” Far art thou from sweetness, if thou hast it from thine own self. Thou wilt love thine own self, because thou wilt love that from which thou hast it. But I will convict thee that thou hast it not. For in that thou dost think that thou hast so great a thing from thine own self, by that very fact I do not believe thou hast it. For if thou hadst, thou wouldest know from whence thou hadst it. Hast thou charity from thyself, as if it were some light, some little thing? “If thou shouldest speak with the tongues of men and Angels, but have not charity, thou wouldest be a sounding brass and a tinkling cymbal. If thou shouldest know all mysteries, and have all knowledge, and all prophecy, and all faith so that thou couldest remove mountains, but not have charity,” these things could not profit thee. “If thou shouldest distribute all thy goods to the poor, and deliver up thy body to be burned, but not have charity, thou wouldest be nothing.”<sup>4293</sup> How great is this charity, which if it be wanting, all things profit nothing! Compare it not to thy faith, not to thy knowledge, not to thy gift of tongues,<sup>4294</sup> to lesser things, to the eye of thy body, the hand, the foot, the belly, to any one lowest member compare charity, are these least things to be in any way compared to charity? So then the eye and nose thou hast from God, and hast thou charity from thine own self? If thou hast given thyself charity which surpasseth all things, thou hast made God of light account with thee. What more can God give thee? Whatever He may have given, is less. Charity which thou hast given thyself, surpasseth all things. But if thou hast it, thou hast not given it to thyself. “For what hast thou which thou hast not received?”<sup>4295</sup> Who gave to me, who gave to thee? God. Acknowledge Him in His gifts, that thou feel not His condemnation. By believing the Scriptures, God hath given thee charity, a great boon, charity, which surpasseth all things. God gave it thee, “because the charity of God hath been shed abroad in our hearts;” by thine own self, perhaps? God forbid; “by the Holy Ghost, who hath been given us.”<sup>4296</sup>
 
@@ -269,35 +269,35 @@ through charity that thou doest it not, thou art truly great. Hast thou charity?
 
 *[p. 1120]* ^pg1146
 
-*On the words of the Gospel, John xvi. 24, ‘Hitherto have ye asked nothing…*
+*On the words of the Gospel, [[John 16#^16-24|John xvi. 24]], ‘Hitherto have ye asked nothing…*
 
 Thou shalt not lust.”<sup>4298</sup> Now thou hast seen the enemy, fight, deliver thyself, make good thy liberty, let the suggestions of pleasure be kept down, unlawful delight be utterly destroyed. Arm thyself, thou hast the Law, march on, conquer if thou canst. For what good is it that through the little portion of God’s grace thou hast already, thou “delightest in the Law of God after the inward man? But thou seest another law in thy members resisting the law of thy mind;” not “resisting” yet powerless for aught, but “leading thee captive in the law of sin.” Behold, whence to thee who fearest that “plentifulness of sweetness is hidden!” to him that feareth it “is hidden,” how is it” wrought” out for him that “trusteth”?<sup>4299</sup> Cry out under thine enemy, for that thou hast an assailant, thou hast an Helper too, who looketh upon thee as thou fightest, who helpeth thee in difficulty; but only if He find thee “trusting;” for the proud He hateth. What then wilt thou cry under this enemy? “Wretched man that I am!”<sup>4300</sup> Ye see it already, for ye have cried out. Be this your cry, when haply thou art distressed under the enemy, say ye, in your inmost heart say, in sound faith say, “Wretched man that I am!” Wretched that I am! “Therefore wretched,” because “I.” “Wretched man that I am,” both because “I,” and because “man.” For “he is disquieted in vain.”<sup>4301</sup> For though “man walketh in the Image;”<sup>4302</sup> yet, “wretched man that I am, who shall deliver me from the body of this death?” Wilt thou thyself? where is thy strength, where is thy confidence? Of a surety thou both criest out, and art silent; silent, that is, from extolling thyself, not from calling upon God. Be silent, and cry out. For God Himself too is both silent, and crieth aloud; He is silent from judgment, He is not silent from precept; so be thou too silent from elation, not from invocation; lest God say to thee, “I have been silent, shall I be silent always?”<sup>4303</sup> Cry out therefore, “O wretched man that I am!” Acknowledge thyself conquered, put thine own strength to shame, and say, “Wretched man that I am, who shall deliver me from the body of this death?” What did I say above? The Law alarmeth him that relieth upon himself. Behold, man relied upon himself, he attempted to fight, he could not get the better, he was conquered, prostrated, subjugated, led captive. He learnt to rely upon God, and it remaineth that him whom the Law alarmed while he relied upon himself, grace should assist now that he trusteth in God. In this confidence he saith, “Who shall deliver me from the body of this death? The grace of God by Jesus Christ our Lord.”<sup>4304</sup> Now see the sweetness, taste it, relish it; hear the Psalm, “Taste and see that the Lord is sweet.”<sup>4305</sup>
 
-4298 Rom. vii. 7. 4299 Ps. xxx. 20, Sept. (xxxi. 19, English version).
+4298 [[Romans 07#^7-7|Rom. vii. 7]]. 4299 Ps. xxx. 20, Sept. (xxxi. 19, English version).
 
-4300 Rom. vii. 24. 4301 Ps. xxxviii. 7 (xxxix. 6, English version). 4302 *i.e*. of God. Vid. *Enarrat. in Ps.* xxxviii. 4303 Isa. xlii. 14, Sept. 4304 Rom. vii. 24, 25, Vulgate. Ps. xxxiv. 8, Vulgate.
+4300 [[Romans 07#^7-24|Rom. vii. 24]]. 4301 Ps. xxxviii. 7 (xxxix. 6, English version). 4302 *i.e*. of God. Vid. *Enarrat. in Ps.* xxxviii. 4303 Isa. xlii. 14, Sept. 4304 [[Romans 07#^7-24|Rom. vii. 24]], [[Romans 07#^7-25|25]], Vulgate. Ps. xxxiv. 8, Vulgate.
 
 
 *[p. 1121]* ^pg1147
 
-*On the words of the Gospel, John xvi. 24, ‘Hitherto have ye asked nothing…*
+*On the words of the Gospel, [[John 16#^16-24|John xvi. 24]], ‘Hitherto have ye asked nothing…*
 
 He hath become sweet to thee, for that He hath delivered thee. Thou wast bitter to thine own self, when thou didst rely upon thyself. Drink sweetness, receive the earnest of so great abundance.
 
 6\. The disciples then of the Lord Jesus Christ while yet under the Law had to be cleansed still, to be nourished still, to be corrected still, to be directed still. For they still had concupiscence; whereas the Law saith, “Thou shalt not lust.”<sup>4306</sup> Without offence to those holy rams, the leaders of the flock, without offence to them I would say it, for I say the truth: the Gospel relates, that they contended which of them should be the greatest, and whilst the Lord was yet on earth, they were agitated by a dissension about pre-eminence.<sup>4307</sup> Whence was this, but from the old leaven? whence, but from the law in the members, resisting the law of the mind? They sought for eminence; yea, they desired it; they thought which should be the greatest; therefore is their pride put to shame by a little child.<sup>4308</sup> Jesus calleth unto him the age of humility to tame the swelling desire. With good reason then when they returned too, and said, “Lord, behold even the devils are subject unto us through Thy Name.” (It was for a nothing that they rejoiced; of what importance was it compared to that which God promised?) The Lord, the Good Master, quieting fear, and building up a firm support, 543 said to them, “In this rejoice not that the devils are subject unto you.” Why so? Because “many will come in My Name, saying, Behold, in Thy Name we have cast out devils; and I will say to them, I know you not. In this rejoice not, but rejoice because your names are written in heaven.”<sup>4309</sup> Ye cannot yet be there, yet notwithstanding ye are already written there. Therefore “rejoice.” So that place again, “Hitherto have ye asked nothing in My Name.”<sup>4310</sup> For what ye have asked, in comparison with that which I am willing to give, is nothing. For what have ye asked in My Name? That the devils should be subject unto you? “In this rejoice not,” that is, what ye have asked is nothing; for if it were anything, He would bid them rejoice. So then it was not absolutely nothing, but that it was little in comparison of that greatness of God’s rewards. For the Apostle Paul was not really not anything; and yet in comparison of God, “Neither is he that planteth anything, neither he that watereth.”<sup>4311</sup> And so I say to you, and I say to myself, both to myself and you I say, when we ask in Christ’s Name for these temporal things. For ye have asked undoubtedly. For who doth not ask? One asketh for health, if he is sick; another asketh for deliverance, if he is in prison; another asketh for the port, if he is tossed about at sea; another asketh for victory, if he is in conflict
 
-4306 Exod. xx. 17. 4307 Luke xxii. 24. 4308 Matt. xviii. 2. 4309 Luke x. 20; Matt. vii. 22.
+4306 Exod. xx. 17. 4307 [[Luke 22#^22-24|Luke xxii. 24]]. 4308 [[Matthew 18#^18-2|Matt. xviii. 2]]. 4309 [[Luke 10#^10-20|Luke x. 20]]; [[Matthew 07#^7-22|Matt. vii. 22]].
 
-4310 John xvi. 24. 1 Cor. iii. 7.
+4310 [[John 16#^16-24|John xvi. 24]]. [[1 Corinthians 03#^3-7|1 Cor. iii. 7]].
 
 
 *[p. 1122]* ^pg1148
 
-*On the words of the Gospel, John xvi. 24, ‘Hitherto have ye asked nothing…*
+*On the words of the Gospel, [[John 16#^16-24|John xvi. 24]], ‘Hitherto have ye asked nothing…*
 
 with an enemy; and in the Name of Christ he asketh all, and what he asketh is nothing. What then must be asked for? “Ask in My Name.”<sup>4312</sup> And He said not what, but by the very words we understand what we ought to ask. “Ask, and ye shall receive, that your joy may be full. Ask, and ye shall receive, in My Name.” But what? Not nothing; but what? “That your joy may be full;” that is, ask what may suffice you. For when thou askest for temporal things, thou askest for nothing. “Whoso shall drink of this water, shall thirst again.”<sup>4313</sup> He letteth down the watering pot of desire into the well, he taketh up whereof to drink, only that he may thirst again. “Ask, that your joy may be full;” that is, that ye may be satisfied, not feel delight only for a time. Ask what may suffice you; speak Philip’s language, “Lord, show us the Father, and it sufficeth us.”<sup>4314</sup> The Lord saith to you, “Have I been so long time with you, and have ye not known Me? Philip, he that seeth Me, seeth the Father also.”<sup>4315</sup> Render then thanks to Christ, made weak for you that are weak, and make ready your desires<sup>4316</sup> for Christ’s Divinity, to be satisfied therewith. Turn we to the Lord, etc.
 
-4312 John xvi. 24. 4313 John iv. 13. 4314 John xiv. 8. 4315 John xiv. 9, Vulgate. *Fauces*.
+4312 [[John 16#^16-24|John xvi. 24]]. 4313 [[John 04#^4-13|John iv. 13]]. 4314 [[John 14#^14-8|John xiv. 8]]. 4315 [[John 14#^14-9|John xiv. 9]], Vulgate. *Fauces*.
 
 
 *[p. 1123]* ^pg1149
@@ -306,13 +306,13 @@ with an enemy; and in the Name of Christ he asketh all, and what he asketh is no
 
 Sermon XCVI.
 
-\[CXLVI. Ben.\] *On the words of the Gospel, John. xxi. 16, “Simon, son of John, lovest thou me?” etc.* 1. Ye have observed, beloved, that in to-day’s lesson it was said by the Lord to Peter in a question, “Lovest thou Me?” To whom he answered, “Thou knowest, Lord, that I love thee.” This was done a second, and a third time; and at each several reply, the Lord said, “Feed My lambs.”<sup>4317</sup> To Peter did Christ commend His lambs to be fed, who fed even Peter himself. For what could Peter do for the Lord, especially now that He had an Immortal Body, and was about to ascend into heaven? As though He had said to him, “‘Lovest thou Me?’ Herein show that thou lovest Me, ‘Feed my sheep.’” So then, Brethren, do ye with obedience hear that ye are Christ’s sheep; seeing that we on our part with fear hear, Feed My sheep”? If we feed with fear, and fear for the sheep; these sheep how ought they to fear for themselves? Let then carefulness be our portion, obedience yours; pastoral watchfulness our portion, the humility of the flock yours. Although we too who seem to speak to you from a higher place, are with fear beneath your feet; forasmuch as we know how perilous an account must be rendered of this as it were exalted seat. Wherefore, dearly beloved, Catholic plants, Members of Christ, think What a Head ye have! Children of God, think What a Father ye have found. Christians, think What an Inheritance is promised you. Not such as on earth cannot be possessed by children, save when their parents are dead. For no one on earth possesses a father’s inheritance, save when he is dead. But we whilst our Father liveth shall possess what He shall give; for that our Father cannot die. I add more, I say more, and say the truth; our Father will Himself be our Inheritance.
+\[CXLVI. Ben.\] *On the words of the Gospel, [[John 21#^21-16|John. xxi. 16]], “Simon, son of John, lovest thou me?” etc.* 1. Ye have observed, beloved, that in to-day’s lesson it was said by the Lord to Peter in a question, “Lovest thou Me?” To whom he answered, “Thou knowest, Lord, that I love thee.” This was done a second, and a third time; and at each several reply, the Lord said, “Feed My lambs.”<sup>4317</sup> To Peter did Christ commend His lambs to be fed, who fed even Peter himself. For what could Peter do for the Lord, especially now that He had an Immortal Body, and was about to ascend into heaven? As though He had said to him, “‘Lovest thou Me?’ Herein show that thou lovest Me, ‘Feed my sheep.’” So then, Brethren, do ye with obedience hear that ye are Christ’s sheep; seeing that we on our part with fear hear, Feed My sheep”? If we feed with fear, and fear for the sheep; these sheep how ought they to fear for themselves? Let then carefulness be our portion, obedience yours; pastoral watchfulness our portion, the humility of the flock yours. Although we too who seem to speak to you from a higher place, are with fear beneath your feet; forasmuch as we know how perilous an account must be rendered of this as it were exalted seat. Wherefore, dearly beloved, Catholic plants, Members of Christ, think What a Head ye have! Children of God, think What a Father ye have found. Christians, think What an Inheritance is promised you. Not such as on earth cannot be possessed by children, save when their parents are dead. For no one on earth possesses a father’s inheritance, save when he is dead. But we whilst our Father liveth shall possess what He shall give; for that our Father cannot die. I add more, I say more, and say the truth; our Father will Himself be our Inheritance.
 
 2\. Live consistently, especially ye candidates of Christ, recently baptized, just regenerated, as I have admonished you before, so say I now, and give expression to my solicitude; for the present lesson of the Gospel hath forced upon me a greater fear: take heed to yourselves, do not imitate evil Christians. Say not I will do this, for many of the faithful do it. This is not to procure a defence for the soul; but to look out for companions unto hell. Grow ye in this floor of the Lord; herein ye will find good men to please you, if ye yourselves are good. For are ye our private property? Heretics and schismatics have made their own private property out of what they have stolen from the Lord, and would feed, not Christ’s flocks, but their own against Christ. It is true indeed, they place His title on these their spoils, that their 544 robberies may be as it were maintained by the title of His Power. What doeth Christ when such as these are converted, who have received the title of His Baptism out of the Church? He casteth out the spoiler, He doth not efface the title, and taketh possession of the house; because He hath found His title there. What need is there that He should change His Own Name? Do they take heed to what the Lord said to Peter, “Feed My lambs, feed My sheep”?
 
 *[p. 1124]* ^pg1150
 
-*On the words of the Gospel, John. xxi. 16, ‘Simon, son of John, lovest thou…*
+*On the words of the Gospel, [[John 21#^21-16|John. xxi. 16]], ‘Simon, son of John, lovest thou…*
 
 Did He say to him, “Feed thy lambs;” or, “Feed thy sheep”? But for them who are shut out, what said He in the Song of Songs, unto the Church? The Spouse speaking to the Bride, saith, “If thou know not thyself, O thou fair one among women, go forth.”<sup>4318</sup> As though He said, “I do not cast thee out, ‘go forth, if thou know not thyself, O thou fair one among women,’ if thou know not thyself in the mirror of divine Scripture, if thou give not heed, O thou fair woman, to the mirror which with no false lustre deceiveth thee; if thou know not that of thee it is said, ‘Thy glory shall be above all earth;’<sup>4319</sup> that of thee it is said, ‘I will give thee nations for thine inheritance, and the limits of the earth for thy possession;’<sup>4320</sup> and other innumerable testimonies which set forth the Catholic Church. If then thou know not these, thou hast no part in Me, thou canst not make thyself My heir. ‘Go forth then in the footsteps of the flocks’ not in the fellowship of the flock; and feed thy goats, not as it was said to Peter, ‘My sheep.’” To Peter it was said, “My sheep;” to schismatics it is said,” thy goats.” In the one place “sheep,” in the other “goats;” in the one place “Mine,” in the other “thine.” Recollect the right Hand and the left of our Judge; recollect where the goats shall stand, and where the sheep;<sup>4321</sup> and it will be plain to you where is the right hand, where the left, the white and the black, the lightsome, and the darksome, the fair and the deformed, that which is about to receive the kingdom, and that which is to find everlasting punishment.
 
@@ -327,19 +327,19 @@ Did He say to him, “Feed thy lambs;” or, “Feed thy sheep”? But for them 
 
 Sermon XCVII.
 
-\[CXLVII. Ben.\] *On the same words of the Gospel of John. xxi. 15, “Simon, son of John, lovest thou me more than these?” etc.*
+\[CXLVII. Ben.\] *On the same words of the Gospel of [[John 21#^21-15|John. xxi. 15]], “Simon, son of John, lovest thou me more than these?” etc.*
 
 1\. Ye remember that the Apostle Peter, the first of all the Apostles, was disturbed at the Lord’s Passion. Of his own self disturbed, but by Christ renewed. For he was first a bold presumer, and became afterwards a timid denier. He had promised that he would die for the Lord, when the Lord was first to die for him. When he said then, “I will be with Thee even unto death,” and “I will lay down my life for Thee;” the Lord answered him, “Wilt thou lay down thy life for Me? Verily I say unto thee, Before the cock crow, thou shalt deny Me thrice.”<sup>4322</sup> They came to the hour; and because that Christ was God, and Peter a man, the Scripture was fulfilled, “I said in my panic, Every man is a liar.”<sup>4323</sup> And the Apostle says, “For God is true, and every man a liar.”<sup>4324</sup> Christ true, Peter a liar.
 
 2\. But what now? The Lord asketh him as ye heard when the Gospel was being read, and saith to him, “Simon, son of John, lovest thou Me more than these?” He answered and said, “Yea Lord Thou knowest that I love Thee.”<sup>4325</sup> And again the Lord asked this question, and a third time He asked it. And when he asserted in reply his love, He commended to him the flock. For each several time the Lord Jesus said to Peter, as he said, “I love thee;” “Feed My lambs,” feed My “little sheep.” In this one Peter was figured the unity of all pastors, of good pastors, that is, who know that they feed Christ’s sheep for Christ, not for themselves. Was Peter at this time a liar, or did he answer untruly that he loved the Lord? He made this answer truly; for he made answer of that which he saw in his own heart. Whereas when he said, “I will lay down my life for Thee,” he would presume on future strength. Now every man knows it may be what sort of man he is at the time when he is speaking; what he shall be on the morrow, who knows? So then Peter turned back his eyes to his own heart, when he was asked by the Lord, and in confidence made answer of what he saw there: “‘Yea, Lord, Thou knowest that I love Thee.’ What I tell Thee, Thou knowest; what I see here in my heart, Thou seest also.” Nevertheless, he did not venture to say what the Lord had asked. For the Lord had not simply said, “Lovest Thou me?” but had added, “Lovest thou Me more than these?” that is, “Lovest thou Me more than these here do?” He was speaking of the other disciples; Peter could not say ought but, “I love Thee;” he did not venture to say, “more than these.” He would not be a liar a second time. It were enough for him to bear testimony to his own heart; it was no duty of his to be judge of the heart of others.
 
-4322 Matt. xxvi. 34; Luke xxii. 33; John xiii. 37, 38. 4323 Ps. cxvi. 11. 4324 Rom. iii. 4.
+4322 [[Matthew 26#^26-34|Matt. xxvi. 34]]; [[Luke 22#^22-33|Luke xxii. 33]]; [[John 13#^13-37|John xiii. 37]], [[John 13#^13-38|38]]. 4323 Ps. cxvi. 11. 4324 [[Romans 03#^3-4|Rom. iii. 4]].
 
 
 *[p. 1126]* ^pg1152
 
-*On the same words of the Gospel of John. xxi. 15, ‘Simon, son of John, lovest…*
+*On the same words of the Gospel of [[John 21#^21-15|John. xxi. 15]], ‘Simon, son of John, lovest…*
 
 3\. Peter then was true; or rather was Christ true in Peter? Now when the Lord Jesus Christ would, He abandoned Peter, and Peter was found a man; but when it so pleased the 545 Lord Jesus Christ, He filled Peter, and Peter was found true. The Rock (Petra) made Peter true, for the Rock was Christ. And what did He announce to him, when he answered a third time that he loved Christ, and a third time the Lord commended His little sheep to Peter? He announced to him beforehand his suffering. “When thou wast young,” saith He, “thou girdedst thyself, and wentest whither thou wouldest; but when thou shalt be old, thou shalt stretch forth thine hands, and another shall gird thee, and carry thee whither thou wouldest not.”<sup>4326</sup> The Evangelist hath explained to us Christ’s meaning. “This spake He,” saith he, “signifying by what death he should glorify God;”<sup>4327</sup> that is that he was crucified for Christ; for this is, “Thou shalt stretch forth thine hands.” Where now is that denier? Then after this the Lord Christ said, “Follow Me.” Not in the same sense as before, when he called the disciples. For then too He said, “Follow Me;” but then to instruction, now to a crown. Was he not afraid to be put to death when he denied Christ? He was afraid to suffer that which Christ suffered. But now he must be afraid no more. For he saw Him now Alive in the Flesh, whom he had seen hanging on the Tree. By His Resurrection Christ took away the fear of death; and forasmuch as He had taken away the fear of death, with good reason did He enquire of Peter’s love. Fear had thrice denied, love thrice confessed. The<sup>4328</sup> threefoldness of denial, the forsaking of the Truth; the threefoldness of confession, the testimony of love.
 
-4326 John xxi. 18. 4327 John xxi. 19. *Trinitas*.
+4326 [[John 21#^21-18|John xxi. 18]]. 4327 [[John 21#^21-19|John xxi. 19]]. *Trinitas*.

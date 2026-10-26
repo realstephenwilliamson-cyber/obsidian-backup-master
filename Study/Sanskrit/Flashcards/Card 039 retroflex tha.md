@@ -20,16 +20,13 @@ nyasa: "right thigh (*ūru*)"
 ## Front
 
 - **Glyph:** ठ
-- **Variation:** —
 - **Example:** पीठ
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** [ As in ‘borsch<u>t h</u>oney’ ]
-- **Class (as printed):** 3 (cerebral) · hard · aspirated
-- **Grid:** the five rows of stops; in bold: ठ
-- **Example:** pīṭha (seat)
+> [!note]- Back
+> - **Pronunciation:** [ As in ‘borsch<u>t h</u>oney’ ]
+> - **Class:** cerebral · hard · aspirated
+> - क ख ग घ ङ / च छ ज झ ञ / ट <u>ठ</u> ड ढ ण / त थ द ध न / प फ ब भ म
+> - **Example:** pīṭha (seat)
 
 ## Register
 

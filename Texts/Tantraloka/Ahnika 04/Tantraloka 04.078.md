@@ -32,7 +32,7 @@ tena śrīkiraṇoktaṃ yadgurutaḥ śāstrataḥ svataḥ || ^iast
 >
 > This is so because the knowledge proved trustworthy by oneself, (attained) by putting into practice the procedures laid down in the scriptures (śāstrakrama) and attending to the wisdom (prajñā) of a teacher who knows them, is full (and perfect) (pūrṇa), and so leads to the realisation of one’s authentic identity as Bhairava (bhairavāyate). (with 4.77cd–78ab)
 >
-> This is the reason why it is said in the venerable Kirana that ‘(Śiva should be known) from the teacher, the scripture and oneself’and (also) in the Niśāṭana, (where it says) that ‘this knowledge has three sources of conviction (pratyaya). Again, (this knowledge) shines (variously,) according to whether (these three operate) in unison, in the reverse order, or individually. (with 4.78cd–79)
+> This is the reason why it is said in the venerable Kirana that ‘(Śiva should be known) from the teacher, the scripture and oneself’and (also) in the Niśāṭana, (where it says) that ‘this knowledge has three sources of conviction (pratyaya).’ Again, (this knowledge) shines (variously,) according to whether (these three operate) in unison, in the reverse order, or individually. (with 4.78cd–79)
 
 ## Viveka
 

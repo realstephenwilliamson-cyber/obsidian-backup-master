@@ -11,7 +11,7 @@
   "timelineIcon": "calendar-with-checkmark",
   "plannerLabel": "Day Planner",
   "breakLabel": "BREAK",
-  "endLabel": "END",
+  "endLabel": "BED",
   "markCurrent": false,
   "correctLabels": true,
   "writer": "StephenYoga",
@@ -43,7 +43,7 @@
   "autoResumeScrollDelay": 3000,
   "newDayStartsAt": 0,
   "activePlan": {
-    "notePath": "Journal/2026/2026-10-25.md",
-    "anchorDate": 1792900800000
+    "notePath": "Journal/2026/2026-10-26.md",
+    "anchorDate": 1792987200000
   }
 }

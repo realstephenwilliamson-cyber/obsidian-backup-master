@@ -98,7 +98,7 @@ When does the ruling that [money] left over [from that set aside to purchase] a 
 [^14]: Note the Rambam's Commentary to the Mishnah (*Shekalim* 2:5) which states that since we are speaking about what remains after bringing a sin-offering, it should be used to bring freewill burnt-offerings.
 [^15]: I.e., in this and the following situations, the person required to bring a meal-offering brought more than the required amount.
 [^16]: See *Hilchot Ma'aseh HaKorbanot* 13:2.
-[^17]: For the concept that the remainder of what was set aside should be used for burnt-offerings was stated with regard to sin-offerings and not these types of sacrifices ([[Menachot 108#108a|*Menachot* 108a]]).
+[^17]: For the concept that the remainder of what was set aside should be used for burnt-offerings was stated with regard to sin-offerings and not these types of sacrifices (*Menachot* [[Menachot 108#108a|108a]]).
 [^18]: See *Hilchot Ma'aseh HaKorbanot* 9:5 which states that the bread are integral parts of these two types of offerings.
 [^19]: The rationale is that these breads are not considered as independent sacrifices, but as elements of the thanksgiving or nazirite offerings. Hence they were consecrated - and may only be used for - those sacrifices.
 [^20]: For wine libations are sacrifices of the highest degree of sanctity. Hence the laws governing them are the same as those governing sin-offerings and guilt-offerings.
@@ -110,7 +110,7 @@ When does the ruling that [money] left over [from that set aside to purchase] a 
 [^26]: Since the money was designated for the offerings of that particular person, it cannot be used for the sacrifices of another nazirite.
 [^27]: See *Hilchot Shegagot* 1:3 and ch. 10, which explains that there are certain transgressions for which the atonement offering required varies according to the transgressor's financial capacity.
 [^28]: As obligated of a person who violated these sins but did not have the means to purchase an animal as a sacrifice.
-[^29]: [[Keritot 27#27b|*Keritot* 27b]] derives this law through a process of Biblical exegesis.
+[^29]: *Keritot* [[Keritot 27#27b|27b]] derives this law through a process of Biblical exegesis.
 [^30]: As obligated of a person who violated these sins but did not have the means to purchase doves as a sacrifice.
 [^31]: The bracketed additions are based on *Hilchot Shegagot* 10:11.
 [^32]: Even though the animal had already been purchased for the sacrifice, since it was disqualified and his status changed, he is allowed to use the proceeds from its sale to bring a lesser offering.
@@ -118,8 +118,8 @@ When does the ruling that [money] left over [from that set aside to purchase] a 
 [^34]: I.e., the individuals mentioned at the beginning of Halachah 9.
 [^35]: Generally, a pair of doves includes one to be offered as a burnt-offering and one as a sin-offering.
 [^36]: The person must, however, bring another dove(s) for the other burnt- or sin-offerings, he or she is obligated to bring.
-[^37]: I.e., if the owners specify which doves are to be offered for which specific offering, the fowl is designated for that purpose. Alternatively, if such a distinction was not made, they become designated by the priest at the time he offers them ([[Keritot 28#28a|*Keritot* 28a]]; see Chapter 8, Halachah 8).
+[^37]: I.e., if the owners specify which doves are to be offered for which specific offering, the fowl is designated for that purpose. Alternatively, if such a distinction was not made, they become designated by the priest at the time he offers them (*Keritot* [[Keritot 28#28a|28a]]; see Chapter 8, Halachah 8).
 [^38]: Were, however, the fowl to have been designated for sin-offerings, they would be consigned to die, as evident from Halachah 1. See also the previous chapter.
-[^39]: The Ra'avad differs and, based on [[Nazir 27#27a|*Nazir* 27a]], maintains that the text should read: "He should not bring a sin-offering.... He should not bring a burnt-offering." He also explains that this version is preferable, for, otherwise, there would be no reason why the money mentioned in the following clause should be consigned to be destroyed. Seemingly, there is no difference between that clause and the situation mentioned in the previous halachah.  
+[^39]: The Ra'avad differs and, based on *Nazir* [[Nazir 27#27a|27a]], maintains that the text should read: "He should not bring a sin-offering.... He should not bring a burnt-offering." He also explains that this version is preferable, for, otherwise, there would be no reason why the money mentioned in the following clause should be consigned to be destroyed. Seemingly, there is no difference between that clause and the situation mentioned in the previous halachah.  
     The *Kessef Mishneh* maintains that the Rambam had a different version of that text. Because of the difficulties, the Ra'avad raised, the *Kessef Mishneh* suggests a third version: If he desires to bring a sin-offering, he should. If he desires to bring a burnt-offering, he should not.
 [^40]: According to the Rambam, since he has an obligation to bring a sin-offering and did not clarify his intent, we must accept the possibility that the money is associated with a sin-offering and must be done away with, as stated in Halachah 1.

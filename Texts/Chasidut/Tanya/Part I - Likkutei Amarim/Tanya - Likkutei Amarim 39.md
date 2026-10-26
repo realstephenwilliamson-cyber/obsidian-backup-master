@@ -81,7 +81,7 @@ The same is true of prayer without *kavanah*, as is discussed in the *Zohar*.[^2
 [^15]: *Tikkunei Zohar* [[Tikkunei Zohar 024b#^24b-5|10]].
 [^16]: [[Isaiah 29#^29-13|Isaiah 29:13]].
 [^17]: Ch. 41.
-[^18]: [[Yoma 86#86b|*Yoma* 86b]].
-[^19]: [[Pesachim 50#50b|*Pesachim* 50b]]; [[Nazir 23#23b|*Nazir* 23b]].
+[^18]: *Yoma* [[Yoma 86#86b|86b]].
+[^19]: *Pesachim* [[Pesachim 50#50b|50b]]; *Nazir* [[Nazir 23#23b|23b]].
 [^20]: [[II Samuel 14#^14-14|II Samuel 14:14]].
 [^21]: Cf. *Kuntres Acharon*, Essay 3.

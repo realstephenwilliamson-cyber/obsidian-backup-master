@@ -55,13 +55,13 @@ chapter: 62
 **18.** If a person wishes to sell land or a house and two [prospective buyers] come, each of them saying: "I am willing to pay the price," and neither owns land adjacent to the property [offered for sale], these rules should be followed: If one of them is a fellow townsman and the other comes from another town, the fellow townsman has the preference. If they are both fellow townsmen, but one of them is his neighbor, the neighbor has the preference. If the other person is the [seller's] friend who visits him often, while his neighbor never visits him, the [seller's] friend has the preference. If one of them is a friend and the other is a relative, the friend has the preference, for it is said: "A neighbor who is near is better than a brother far off."[^15] But with reference to all other people, a relative has the preference. The exception is a Torah scholar, who has preference even over a neighbor and a friend who visits regularly. However, if one of the [prospective buyers] owns land adjacent to the property [offered for sale], he has preference over all [the others]. Even after [the seller] sold it to someone else, the owner of the adjacent property has the right to pay the purchase price to the buyer and make him yield [the property]. Even if this buyer is a Torah scholar or he is the seller's neighbor or relative, and the adjacent owner is an unlearned person and not related to the seller, the adjacent owner has the preference and can force the buyer to surrender the property. All the above-mentioned rules of preference were instituted by the Sages, in order to fulfill the mandate written [in the Torah]: "Do what is upright and good in the eyes of Hashem, your God."[^16] ^62-18
 
 [^1]: *Leviticus* 25: 14.
-[^2]: [[Shabbat 31#31a|*Shabbos* 31a]].
+[^2]: *Shabbos* [[Shabbat 31#31a|31a]].
 [^3]: *Leviticus* 19: 35.
 [^4]: *Deuteronomy* 25: 13–15.
-[^5]: [[Bava Batra 89#89a|*Bava Basra* 89a]].
+[^5]: *Bava Basra* [[Bava Batra 89#89a|89a]].
 [^6]: *Haggai* 2: 8.
 [^7]: *Deuteronomy* 25: 15.
-[^8]: [[Bava Batra 88#88b|*Bava Basra* 88b]]. Rashi explains the apparent redundancy in the phrase “a full just measure” (a full measure is by definition, a just one) stating “although you give a full measure, make it *tzedek*, just and honest, by adding to it a little of your own; weigh generously, tilt the scale in the customer’s favor.”
+[^8]: *Bava Basra* [[Bava Batra 88#88b|88b]]. Rashi explains the apparent redundancy in the phrase “a full just measure” (a full measure is by definition, a just one) stating “although you give a full measure, make it *tzedek*, just and honest, by adding to it a little of your own; weigh generously, tilt the scale in the customer’s favor.”
 [^9]: *Deuteronomy* 25: 13–14.
 [^10]: *Zephaniah* 3: 13.
 [^11]: Literally, the thoughts of his heart.

@@ -16,7 +16,7 @@ Text: [[NRSVue Matthew 22|NRSVue]] · [[Matthew 22|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 22#^22-1|Text]], p. 51* · ([[Luke 14#^14-15|Lk 14.15–24]]). See 21.33–41; *Gos. Thom.* 64. ^22-1
 
-**[[NRSVue Matthew 22#^22-2|2]]:** *Wedding banquet*, kingdom of heaven (25.1–13); in [[Shabbat 153#153a|*b. Shabb.* 153a]], those who are prepared for the king’s banquet will bask in its pleasures; those who are not will suffer. ^22-2
+**[[NRSVue Matthew 22#^22-2|2]]:** *Wedding banquet*, kingdom of heaven (25.1–13); in *b. Shabb.* [[Shabbat 153#153a|153a]], those who are prepared for the king’s banquet will bask in its pleasures; those who are not will suffer. ^22-2
 
 **[[NRSVue Matthew 22#^22-3|3]]:** *Slaves*, see 21.34n. ^22-3
 
@@ -32,7 +32,7 @@ Text: [[NRSVue Matthew 22|NRSVue]] · [[Matthew 22|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 22#^22-13|13]]:** *Outer darkness*, 8.12; 25.30. ^22-13
 
-**[[NRSVue Matthew 22#^22-14|14]]:** *Few are chosen*, not everyone will be saved (see *4 Ezra* \[2 Esd\] 8.3, “Many have been created, but few will be saved.” See also *4 Ezra* 9.15; [[Menachot 29#29b|*b. Men*. 29b]]). ^22-14
+**[[NRSVue Matthew 22#^22-14|14]]:** *Few are chosen*, not everyone will be saved (see *4 Ezra* \[2 Esd\] 8.3, “Many have been created, but few will be saved.” See also *4 Ezra* 9.15; *b. Men*. [[Menachot 29#29b|29b]]). ^22-14
 
 ### 22.15–22: Taxes to Caesar
 
@@ -40,7 +40,7 @@ Text: [[NRSVue Matthew 22|NRSVue]] · [[Matthew 22|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 22#^22-16|16]]:** *Herodians*, political group supporting Rome’s client rulers. ^22-16
 
-**[[NRSVue Matthew 22#^22-17|17]]:** *Pay taxes to the emperor*, Rome levied an annual census tax of one denarius, as well as other taxes ([[Luke 02#^2-1|Lk 2.1–2]]; Josephus, *J.W.* 1.154; 2.118; Tacitus, *Ann*. 2.42). Tax collectors and tax collecting were associated with sinfulness (9.10; [[Luke 03#^3-12|Lk 3.12–13]]; *m. Sanh*. 3.3; [[Sanhedrin 25#25b|*b. Sanh*. 25b]]). ^22-17
+**[[NRSVue Matthew 22#^22-17|17]]:** *Pay taxes to the emperor*, Rome levied an annual census tax of one denarius, as well as other taxes ([[Luke 02#^2-1|Lk 2.1–2]]; Josephus, *J.W.* 1.154; 2.118; Tacitus, *Ann*. 2.42). Tax collectors and tax collecting were associated with sinfulness (9.10; [[Luke 03#^3-12|Lk 3.12–13]]; *m. Sanh*. 3.3; *b. Sanh*. [[Sanhedrin 25#25b|25b]]). ^22-17
 
 **[[NRSVue Matthew 22#^22-18|18]]:** *Putting me to the test*, see 4.7; 16.1; 19.3; 22.35. *Hypocrites*, see 6.2,5,16; 15.7; 23 *passim*; 24.51. ^22-18
 
@@ -56,7 +56,7 @@ Text: [[NRSVue Matthew 22|NRSVue]] · [[Matthew 22|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 22#^22-25|25]]:** *Leaving the widow to his brother*, see 1.3n.; [[Torah 09 - Vayeshev#^38-8|Gen. 38.8]]; [[Torah 49 - Ki Teitzei#^25-5|Deut 25.5–10]]; *no resurrection* Josephus, *Ant*. 4.254–56; *m. Yebam.* 2.2. ^22-25
 
-**[[NRSVue Matthew 22#^22-28|28–30]]:** *Whose wife of the seven will she be,* the Sadducees attempt to point out the ridiculousness of bodily resurrection (see *2 Bar.* 51.10–11; *1 En*. 39.5; 69.11; [[Berakhot 17#17a|*b. Ber*. 17a]]); Josephus, *J.W.* 3.374 states that the righteous dead in the world to come “dwell in chaste bodies.” ^22-28
+**[[NRSVue Matthew 22#^22-28|28–30]]:** *Whose wife of the seven will she be,* the Sadducees attempt to point out the ridiculousness of bodily resurrection (see *2 Bar.* 51.10–11; *1 En*. 39.5; 69.11; *b. Ber*. [[Berakhot 17#17a|17a]]); Josephus, *J.W.* 3.374 states that the righteous dead in the world to come “dwell in chaste bodies.” ^22-28
 
 **[[NRSVue Matthew 22#^22-32|32]]:** *God of Abraham . . . Jacob*, the Torah emphasizes the eternal nature of God’s relationship with Israel ([[Torah 13 - Shemot#^3-6|Ex 3.6]],[[Torah 13 - Shemot#^3-15|15–16]]; [[I Chronicles 29#^29-18|1 Chr 29.18]]; [[II Chronicles 30#^30-6|2 Chr 30.6]]; see also *2 En*. 22.3–14; 62.15–16; [[LXX 2 Maccabees 07#^7-9|2 Macc 7.9]],[[LXX 2 Maccabees 07#^7-36|36]]). ^22-32
 
@@ -66,7 +66,7 @@ Text: [[NRSVue Matthew 22|NRSVue]] · [[Matthew 22|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 22#^22-35|35]]:** *Lawyer*, Gk “nomikos”; the word occurs only here in Matthew, and in [[Luke 07#^7-30|Lk 7.30]]; [[Luke 10#^10-25|10.25]]; [[Luke 11#^11-45|11.45]],[[Luke 11#^11-46|46]],[[Luke 11#^11-52|52]]; [[Luke 14#^14-3|14.3]]; Titus 3.13. Except for Titus, where “Zenas the lawyer” seems to be a member of the community, lawyers appear only in the Gospels to test Jesus. *Test*, see 4.7n. ^22-35
 
-**[[NRSVue Matthew 22#^22-36|36]]:** *Which commandment*, the traditional number of commandments in rabbinic literature is 613; some attempted to epitomize the Law (see, e.g., *b. Makk*. 23b; [[Yevamot 47#47b|*b. Yebam*. 47b]], citing [[Micah 6#^6-8|Mic 6.8]] and other verses). ^22-36
+**[[NRSVue Matthew 22#^22-36|36]]:** *Which commandment*, the traditional number of commandments in rabbinic literature is 613; some attempted to epitomize the Law (see, e.g., *b. Makk*. 23b; *b. Yebam*. [[Yevamot 47#47b|47b]], citing [[Micah 6#^6-8|Mic 6.8]] and other verses). ^22-36
 
 **[[NRSVue Matthew 22#^22-37|37]]:** *You shall love the Lord*, [[Torah 45 - Vaetchanan#^6-5|Deut 6.5]]. [[Torah 45 - Vaetchanan#^6-4|Deut 6.4–5]] is the “Shema,” the basic affirmation of Jewish belief. ^22-37
 

@@ -11,6 +11,7 @@ second_reading: "James 3:13-4:3, 7-8a"
 gospel: "Mark 9:30-37"
 first_reading_complementary: "Wisdom of Solomon 1:16-2:1, 12-22 or Jeremiah 11:18-20"
 psalm_complementary: "Psalm 54"
+psalm_bcp_complementary: "Psalm 54"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-20]]"
 cssclasses:

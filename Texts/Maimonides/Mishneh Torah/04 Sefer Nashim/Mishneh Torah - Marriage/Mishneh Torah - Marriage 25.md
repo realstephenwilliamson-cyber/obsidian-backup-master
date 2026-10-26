@@ -82,7 +82,7 @@ If, however, he becomes[^22] afflicted by [constant] bad breath or a smell from 
 "May you see your children [father] children, and may there be peace over Israel."[^27] ^25-13
 
 [^1]: The husband is not required to pay his wife the money due her by virtue of her *ketubah*, because their marriage agreement is considered to be a *mekach ta'ut,* an agreement entered into under false premises. For he did not expect to marry a woman bound by such vows. Nevertheless, in contrast to the law stated in Chapter 7, Halachah 6, in this instance - since the husband did not make an explicit statement to this effect when he consecrated the woman - he is required to divorce her formally.
-[^2]: These vows are considered by [[Ketubot 72#72b|*Ketubot* 72b]] to cause *innui nefesh*, "the oppression of the soul." When a woman is bound by these restrictions, she will be depressed, and she will not be pleasant company for her husband. Hence, he is entitled to divorce her.
+[^2]: These vows are considered by *Ketubot* [[Ketubot 72#72b|72b]] to cause *innui nefesh*, "the oppression of the soul." When a woman is bound by these restrictions, she will be depressed, and she will not be pleasant company for her husband. Hence, he is entitled to divorce her.
 [^3]: See Chapter 7, Halachah 7. In the instance described in the present halachah, a divorce is necessary because the husband did not make an explicit statement of intent.
 [^4]: The intent is epileptic fits that follow a set pattern. At these times the woman will not go out in public, and her affliction will therefore not be known.
 [^5]: The *Shulchan Aruch* (*Even HaEzer* 117:5) follows the Rambam's rulings. Rabbenu Asher follows the other opinion that the Rambam mentioned. It is also cited by the Ramah (*loc. cit.*).
@@ -108,5 +108,5 @@ If, however, he becomes[^22] afflicted by [constant] bad breath or a smell from 
 [^24]: Although divorce proceedings must be commenced by the man, in these and certain other situations the court compels a man to commence these proceedings.
 [^25]: Here, the intent is not leprosy as described in the Torah (*tzara'at*), but rather the illness that is referred to as leprosy in contemporary terms.
 [^26]: I.e., pay this money from her deceased husband's estate.
-[^27]: This verse is lacking in all manuscript copies and early printings of the *Mishneh Torah*. It appears to be a printer's addition so that the text will conclude on a positive note. (The connection to the previous subject is based on the exegesis of the verse in [[Ketubot 50#50a|*Ketubot* 50a]].)  
+[^27]: This verse is lacking in all manuscript copies and early printings of the *Mishneh Torah*. It appears to be a printer's addition so that the text will conclude on a positive note. (The connection to the previous subject is based on the exegesis of the verse in *Ketubot* [[Ketubot 50#50a|50a]].)  
     We find several halachot of the *Mishneh Torah* in which the Rambam concludes with a thought whose relevance goes beyond that of the laws that he outlined in that work, and others like this text, that conclude with the final relevant law without adding such thoughts.

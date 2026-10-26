@@ -18,7 +18,7 @@ the glad tidings of his birth: \[that God\] who also had promised by the prophet
 
 5\. That wine,<sup>3441</sup> which was produced by God in a vineyard, and which was first consumed, was good. None<sup>3442</sup> of those who drank of it found fault with it; and the Lord partook of it also. But that wine was better which the Word made from water, on the moment, and simply for the use of those who had been called to the marriage. For although the Lord had the power to supply wine to those feasting, independently of any created substance, and to fill with food those who were hungry, He did not adopt this course; but, taking the loaves which the earth had produced, and giving thanks,<sup>3443</sup> and on the other occasion making water wine, He satisfied those who were reclining \[at table\], and gave drink to those who had been invited to the marriage; showing that the God who made the earth, and commanded it to bring forth fruit, who established the waters, and brought forth the fountains, was He who in these last times bestowed upon mankind, by His Son, the blessing of food and the favour of drink: the Incomprehensible \[acting thus\] by means of the comprehensible, and the Invisible by the visible; since there is none beyond Him, but He exists in the bosom of the Father.
 
-Mal. iii. 1. 3436 Luke i. 17. 3437 This evidently refers to 1 Kings xviii. 36, where Elijah invokes God as the God of Abraham, Isaac, and Jacob, etc. 3438 Matt. xi. 9; Luke vii. 26. 3439 1 Cor. xii. 28. 3440 The transition here is so abrupt, that some critics suspect the loss of part of the text before these words. 3441 John ii. 3. 3442
+Mal. iii. 1. 3436 [[Luke 01#^1-17|Luke i. 17]]. 3437 This evidently refers to 1 Kings xviii. 36, where Elijah invokes God as the God of Abraham, Isaac, and Jacob, etc. 3438 [[Matthew 11#^11-9|Matt. xi. 9]]; [[Luke 07#^7-26|Luke vii. 26]]. 3439 [[1 Corinthians 12#^12-28|1 Cor. xii. 28]]. 3440 The transition here is so abrupt, that some critics suspect the loss of part of the text before these words. 3441 [[John 02#^2-3|John ii. 3]]. 3442
 
 *[p. 709]* ^pg749
 
@@ -30,11 +30,11 @@ when \[God\] said, “Behold My dearly beloved Son, in whom I am well pleased: I
 
 8\. It is not possible that the Gospels can be either more or fewer in number than they are. For, since there are four zones of the world in which we live, and four principal winds,<sup>3449</sup> while the
 
-John i. 18.
+[[John 01#^1-18|John i. 18]].
 
 3444
 
-John i. 47.
+[[John 01#^1-47|John i. 47]].
 
 3445
 
@@ -42,7 +42,7 @@ The reading νεῖκος having been followed instead of νῖκος, victory.
 
 3446
 
-John i. 49, John vi. 69; Matt. xii. 18.
+[[John 01#^1-49|John i. 49]], [[John 06#^6-69|John vi. 69]]; [[Matthew 12#^12-18|Matt. xii. 18]].
 
 3447
 
@@ -56,7 +56,7 @@ Literally, “four catholic spirits;” Greek, τέσσαρα καθολικὰ 
 
 Church is scattered throughout all the world, and the “pillar and ground”<sup>3450</sup> of the Church is the Gospel and the spirit of life; it is fitting that she should have four pillars, breathing out immortality on every side, and vivifying men afresh. From which fact, it is evident that the Word, the Artificer of all, He that sitteth upon the cherubim, and contains all things, He who was manifested to men, has given us the Gospel under four aspects, but bound together by one Spirit. As also David says, when entreating His manifestation, “Thou that sittest between the cherubim, shine forth.”<sup>3451</sup> For the cherubim, too, were four-faced, and their faces were images of the dispensation of the Son of God. For, \[as the Scripture\] says, “The first living creature was like a lion,”<sup>3452</sup> symbolizing His effectual working, His leadership, and royal power; the second \[living creature\] was like a calf, signifying \[His\] sacrificial and sacerdotal order; but “the third had, as it were, the face as of a man,”—an evident description of His advent as a human being; “the fourth was like a flying eagle,” pointing out the gift of the Spirit hovering with His wings over the Church. And therefore the Gospels are in accord with these things, among which Christ Jesus is seated. For that according to John relates His original, effectual, and glorious generation from the Father, thus declaring, “In the beginning was the Word, and the Word was with God, and the Word was God.”<sup>3453</sup> Also, “all things were made by Him, and without Him was nothing made.” For this reason, too, is that Gospel full of all confidence, for such is His person.<sup>3454</sup> But that according to Luke, taking up \[His\] priestly character, commenced with Zacharias the priest offering sacrifice to God. For now was made ready the fatted calf, about to be immolated for<sup>3455</sup> the finding again of the younger son. Matthew, again, relates His generation as a man, saying, “The book of the generation of Jesus Christ, the son of David, the son of Abraham;”<sup>3456</sup> and also, “The birth of Jesus Christ was on this wise.” This, then, is the Gospel of His humanity;<sup>3457</sup> for which reason it is, too, that \[the character of\] a humble and meek man is kept up through the whole Gospel. Mark, on the other hand, commences with \[a reference to\] the prophetical spirit coming down from on high to men, saying, “The beginning of the Gospel of Jesus Christ, as it is written in Esaias the prophet,”—pointing to the winged aspect of the Gospel; and on this account he made a compendious and cursory narrative, for such is the prophetical character. And the Word of God Himself used to converse with the ante-Mosaic
 
-1\. Tim. iii. 15. 3450 Ps. lxxx. 1. 3451 Rev. iv. 7. 3452 John i. 1. 3453 The above is the literal rendering of this very obscure sentence; it is not at all represented in the Greek here preserved. 3454 The Greek is ὑπέρ: the Latin, “pro.” 3455 Matt. i. 1, 18. 3456 The Greek text of this clause, literally rendered, is, “This Gospel, then, is anthropomorphic.”
+1\. Tim. iii. 15. 3450 Ps. lxxx. 1. 3451 [[Revelation 04#^4-7|Rev. iv. 7]]. 3452 [[John 01#^1-1|John i. 1]]. 3453 The above is the literal rendering of this very obscure sentence; it is not at all represented in the Greek here preserved. 3454 The Greek is ὑπέρ: the Latin, “pro.” 3455 [[Matthew 01#^1-1|Matt. i. 1]], [[Matthew 01#^1-18|18]]. 3456 The Greek text of this clause, literally rendered, is, “This Gospel, then, is anthropomorphic.”
 
 
 *[p. 711]* ^pg751
@@ -81,7 +81,7 @@ represent the original with greater exactness, and has therefore been followed. 
 
 gave a sense inconsistent with the Marcionite curtailment of St. Luke. Harvey, however, observes: “But the *Gospel*, here means the *blessings of the Gospel*, in which Marcion certainly claimed a share.”
 
-John xiv. 16, etc.
+[[John 14#^14-16|John xiv. 16]], etc.
 
 3462
 
@@ -95,7 +95,7 @@ communion of the brethren. We must conclude, moreover, that these men (the Monta
 
 1\. The Apostle Peter, therefore, after the resurrection of the Lord, and His assumption into the heavens, being desirous of filling up the number of the twelve apostles, and in electing into the place of Judas any substitute who should be chosen by God, thus addressed those who were present: “Men \[and\] brethren, this Scripture must needs have been fulfilled, which the Holy Ghost, by the mouth of David, spake before concerning Judas, which was made guide to them that took Jesus. For he was numbered with us:<sup>3466</sup> … Let his habitation be desolate, and let no man dwell therein;<sup>3467</sup> and, His bishoprick let another take;”<sup>3468</sup>—thus leading to the completion of the apostles, according to the words spoken by David. Again, when the Holy Ghost had descended upon the disciples, that they all might prophesy and speak with tongues, and some mocked them, as if drunken with new wine, Peter said that they were not drunken, for it was the third hour of the day; but that this was
 
-430 1 Cor. xi. 4, 5. 3464 Matt. xii. 31. 3465 Acts i. 16, etc. 3466 Ps. lxix. 25. 3467
+430 [[1 Corinthians 11#^11-4|1 Cor. xi. 4]], [[1 Corinthians 11#^11-5|5]]. 3464 [[Matthew 12#^12-31|Matt. xii. 31]]. 3465 [[Acts 01#^1-16|Acts i. 16]], etc. 3466 Ps. lxix. 25. 3467
 
 *[p. 713]* ^pg753
 
@@ -111,7 +111,7 @@ Ps. xv. 8.
 
 3470
 
-Acts ii. 22–27.
+[[Acts 02#^2-22|Acts ii. 22–27]].
 
 3471
 
@@ -119,17 +119,17 @@ The word δῶρον or δώρημα is supposed by some to have existed in the 
 
 extant now. It is thus quoted by others besides Irenæus.
 
-Acts ii. 30–37.
+[[Acts 02#^2-30|Acts ii. 30–37]].
 
 3473
 
-Acts ii. 37, 38.
+[[Acts 02#^2-37|Acts ii. 37]], [[Acts 02#^2-38|38]].
 
 *[p. 714]* ^pg754
 
 3\. Again, when Peter, accompanied by John, had looked upon the man lame from his birth, before that gate of the temple which is called Beautiful, sitting and seeking alms, he said to him, “Silver and gold I have none; but such as I have give I thee: In the name of Jesus Christ of Nazareth, rise up and walk. And immediately his legs and his feet received strength; and he walked, and entered with them into the temple, walking, and leaping, and praising God.”<sup>3475</sup> Then, when a multitude had gathered around them from all quarters because of this unexpected deed, Peter addressed them: “Ye men of Israel, why marvel ye at this; or why look ye so earnestly on us, as though by our own power we had made this man to walk? The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, hath glorified His Son, whom ye delivered up for judgment,<sup>3476</sup> and denied in the presence of Pilate, when he wished to let Him go. But ye were bitterly set against<sup>3477</sup> the Holy One and the Just, and desired a murderer to be granted unto you; but ye killed the Prince of life, whom God hath raised from the dead, whereof we are witnesses. And in the faith of His name, him, whom ye see and know, hath His name made strong; yea, the faith which is by Him, hath given him this perfect soundness in the presence of you all. And now, brethren, I wot that through ignorance ye did this wickedness.<sup>3478</sup> … But those things which God before had showed by the mouth of all the prophets, that His Christ should suffer, He hath so fulfilled. Repent ye therefore, and be converted, that your sins may be blotted out, and that<sup>3479</sup> the times of refreshing may come to you from the presence of the Lord; and He shall send Jesus Christ, prepared for you beforehand,<sup>3480</sup> whom the heaven must indeed receive until the times of the arrangement<sup>3481</sup> of all things, of which God hath spoken by His holy prophets. For Moses truly said unto our fathers, Your Lord God shall raise up to you a Prophet from your brethren, like unto me; Him shall ye hear in all things whatsoever He shall say unto you. And it shall come to pass, that every soul, whosoever will not hear that Prophet, shall be destroyed from among the people. And all \[the prophets\] from Samuel, and henceforth, as many as have spoken, have likewise foretold of these days. Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed. Unto you first, God, having raised up His Son, sent Him blessing you, that each may turn himself from
 
-431 Acts iii. 6, etc. 3475 These interpolations are also found in the Codex Bezæ. 3476 These interpolations are also found in the Codex Bezæ. 3477 These interpolations are also found in the Codex Bezæ. 3478 “Et veniant” in Latin text: ὅπως ἂν ἔλθωσιν in Greek. The translation of these Greek words by “when … come,” is one 3479 of the most glaring errors in the authorized English version. Irenæus, like the majority of the early authorities, manifestly read προκεχειρισμένον instead of προκεκηρυγμένον, as in 3480 *textus receptus*. Dispositionis.
+431 [[Acts 03#^3-6|Acts iii. 6]], etc. 3475 These interpolations are also found in the Codex Bezæ. 3476 These interpolations are also found in the Codex Bezæ. 3477 These interpolations are also found in the Codex Bezæ. 3478 “Et veniant” in Latin text: ὅπως ἂν ἔλθωσιν in Greek. The translation of these Greek words by “when … come,” is one 3479 of the most glaring errors in the authorized English version. Irenæus, like the majority of the early authorities, manifestly read προκεχειρισμένον instead of προκεκηρυγμένον, as in 3480 *textus receptus*. Dispositionis.
 
 *[p. 715]* ^pg755
 
@@ -139,19 +139,19 @@ his iniquities.”<sup>3482</sup> Peter, together with John, preached to them th
 
 5\. They were confounded, therefore, both by this instance of healing (“for the man was above forty years old on whom this miracle of healing took place”<sup>3485</sup>), and by the doctrine of the apostles, and by the exposition of the prophets, when the chief priests had sent away Peter and John. \[These latter\] returned to the rest of their fellow-apostles and disciples of the Lord, that is, to the Church, and related what had occurred, and how courageously they had acted in the name of Jesus. The whole Church, it is then said, “when they had heard that, lifted up the voice to God with one accord, and said, Lord, Thou art God, which hast made heaven, and earth, and the sea, and all that in them is; who, through the Holy Ghost,<sup>3486</sup> by the mouth of our father David, Thy servant, hast said, Why did the heathen rage, and the people imagine vain things? The kings of the earth stood up, and the rulers were gathered together against the Lord, and against His Christ. For of a truth, in this city,<sup>3487</sup> against Thy holy Son Jesus, whom Thou hast anointed, both Herod and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together, to do whatsoever Thy hand and Thy counsel determined before to be done.”<sup>3488</sup> These \[are the\] voices of the Church from which every
 
-Acts iii. 12, etc.
+[[Acts 03#^3-12|Acts iii. 12]], etc.
 
 3482
 
-Acts iv. 2.
+[[Acts 04#^4-2|Acts iv. 2]].
 
 3483
 
-Acts iv. 8, etc.
+[[Acts 04#^4-8|Acts iv. 8]], etc.
 
 3484
 
-Acts iv. 22.
+[[Acts 04#^4-22|Acts iv. 22]].
 
 3485
 
@@ -163,7 +163,7 @@ which follow.
 
 New Testament.
 
-Acts iv. 24, etc.
+[[Acts 04#^4-24|Acts iv. 24]], etc.
 
 *[p. 716]* ^pg756
 
@@ -173,7 +173,7 @@ this was the knowledge of salvation, which renders those who acknowledge His Son
 
 6\. But as some of these men impudently assert that the apostles, when preaching among the Jews, could not declare to them another god besides Him in whom they (their hearers<sup>3495</sup>) believed, we say to them, that if the apostles used to speak to people in accordance with the opinion instilled into them of old, no one learned the truth from them, nor, at a much earlier date, from the Lord; for they say that He did Himself speak after the same fashion. Wherefore neither do these men themselves know the truth; but since such was their opinion regarding God, they had just received doctrine as they were able to hear it. According to this manner of speaking, therefore, the rule of truth can be with nobody; but all learners will ascribe this practice to all \[teachers\], that just as every person thought, and as far as his capability extended, so was also the language addressed to him. But the advent of the Lord will appear superfluous and useless, if He did indeed come intending to tolerate and to preserve each man’s idea regarding God rooted in him from of old. Besides this, also, it was a much heavier task, that He whom the Jews had seen as a man, and had fastened to
 
-Acts iv. 31.
+[[Acts 04#^4-31|Acts iv. 31]].
 
 3489
 
@@ -181,7 +181,7 @@ The Latin is, “ut convertat se unusquisque.”
 
 3490
 
-Acts iv. 33.
+[[Acts 04#^4-33|Acts iv. 33]].
 
 3491
 
@@ -189,11 +189,11 @@ This is following Grabe’s emendation of the text. The old Latin reads “glori
 
 δεξιᾴ for δόξῃ.
 
-Acts v. 30.
+[[Acts 05#^5-30|Acts v. 30]].
 
 3493
 
-Acts v. 42.
+[[Acts 05#^5-42|Acts v. 42]].
 
 3494
 
@@ -205,15 +205,15 @@ the cross, should be preached as Christ the Son of God, their eternal King. Sinc
 
 7\. From the words of Peter, therefore, which he addressed in Cæsarea to Cornelius the centurion, and those Gentiles with him, to whom the word of God was first preached, we can understand what the apostles used to preach, the nature of their preaching, and their idea with regard to God. For this Cornelius was, it is said, “a devout man, and one who feared God with all his house, giving much alms to the people, and praying to God always. He saw therefore, about the ninth hour of the day, an angel of God coming in to him, and saying, Thine alms are come up for a memorial before God. Wherefore send to Simon, who is called Peter.”<sup>3496</sup> But when Peter saw the vision, in which the voice from heaven said to him, “What God hath cleansed, that call not thou common,”<sup>3497</sup> this happened \[to teach him\] that the God who had, through the law, distinguished between clean and unclean, was He who had purified the Gentiles through the blood of His Son—He whom also Cornelius worshipped; to whom Peter, coming in, said, “Of a truth I perceive that God is no respecter of persons: but in every nation, he that feareth Him, and worketh righteousness, is acceptable to Him.”<sup>3498</sup> He thus clearly indicates, that He whom Cornelius had previously feared as God, of whom he had heard through the law and the prophets, for whose sake also he used to give alms, is, in truth, God. The knowledge of the Son was, however, wanting to him; therefore did \[Peter\] add, “The word, ye know, which was published throughout all Judea, beginning from Galilee, after the baptism which John preached, Jesus of Nazareth, how God anointed Him with the Holy Ghost, and with power; who went about doing good, and healing all that were oppressed of the devil; for God was with Him. And we are witnesses of all those things which He did both in the land of the Jews and in Jerusalem; whom they slew, hanging Him on a beam of wood: Him God raised up the third day, and showed Him openly; not to all the people, but unto us, witnesses chosen before of God, who did eat and drink with Him after the resurrection from the dead. And He commanded us to preach unto the people, and to testify that it is He which was ordained of God to be the Judge of
 
-Acts x. 1–5.
+[[Acts 10#^10-1|Acts x. 1–5]].
 
 3496
 
-Acts x. 15.
+[[Acts 10#^10-15|Acts x. 15]].
 
 3497
 
-Acts x. 34, 35.
+[[Acts 10#^10-34|Acts x. 34]], [[Acts 10#^10-35|35]].
 
 *[p. 718]* ^pg758
 
@@ -225,7 +225,7 @@ Christians another; and all of them, doubtless, being awe-struck because of the 
 
 9\. Paul himself also—after that the Lord spoke to him out of heaven, and showed him that, in persecuting His disciples, he persecuted his own Lord, and sent Ananias to him that he might recover his sight, and be baptized—“preached,” it is said, “Jesus in the synagogues at Damascus, with all
 
-Acts x. 37–44.
+[[Acts 10#^10-37|Acts x. 37–44]].
 
 3499
 
@@ -233,7 +233,7 @@ Acts x. 37–44.
 
 3500
 
-Acts viii. 32; Isa. liii. 7, 8.
+[[Acts 08#^8-32|Acts viii. 32]]; Isa. liii. 7, 8.
 
 3501
 
@@ -243,7 +243,7 @@ Acts viii. 37.
 
 freedom of speech, that this is the Son of God, the Christ.”<sup>3503</sup> This is the mystery which he says was made known to him by revelation, that He who suffered under Pontius Pilate, the same is Lord of all, and King, and God, and Judge, receiving power from Him who is the God of all, because He became “obedient unto death, even the death of the cross.”<sup>3504</sup> And inasmuch as this is true, when preaching to the Athenians on the Areopagus—where, no Jews being present, he had it in his power to preach God with freedom of speech—he said to them: “God, who made the world, and all things therein, He, being Lord of heaven and earth, dwelleth not in temples made with hands; neither is He touched<sup>3505</sup> by men’s hands, as though He needed anything, seeing He giveth to all life, and breath, and all things; who hath made from one blood the whole race of men to dwell upon the face of the whole earth,<sup>3506</sup> predetermining the times according to the boundary of their habitation, to seek the Deity, if by any means they might be able to track Him out, or find Him, although He be not far from each of us. For in Him we live, and move, and have our being, as certain men of your own have said, For we are also His offspring. Inasmuch, then, as we are the offspring of God, we ought not to think that the Deity is like unto gold or silver, or stone graven by art or man’s device. Therefore God, winking at the times of ignorance, does now command all men everywhere to turn to Him with repentance; because He hath appointed a day, on which the world shall be judged in righteousness by the man Jesus; whereof He hath given assurance by raising Him from the dead.”<sup>3507</sup> Now in this passage he does not only declare to them God as the Creator of the world, no Jews being present, but that He did also make one race of men to dwell upon all the earth; as also Moses declared: “When the Most High divided the nations, as He scattered the sons of Adam, He set the bounds of the nations after the number of the angels of God;”<sup>3508</sup> but that people which believes in God is not now under the power of angels, but under the Lord’s \[rule\]. “For His people Jacob was made the portion of the Lord, Israel the cord of His inheritance.”<sup>3509</sup> And again, at Lystra of Lycia (Lycaonia), when Paul was with Barnabas, and in the name of our Lord Jesus Christ had made a man to walk who had been lame from his birth, and when the crowd wished to honour them as gods because of the astonishing deed, he said to them: “We are men like unto you, preaching to you God, that ye may be turned away from these vain idols to \[serve\] the living God, who made heaven, and earth, and the sea, and all things that are therein; who in times past suffered all nations to walk in their own ways, although He left not Himself without witness, performing acts of
 
-434 Acts ix. 20. 3503 Phil. ii. 8. 3504 Latin translation, *tractatur*; which Harvey thinks affords a conclusive proof that Irenæus occasionally quotes Scripture 3505 by re-translating from the Syriac. It will be observed that Scripture is here very loosely quoted. 3506 Acts xvii. 24, etc. 3507 Deut. xxxii. 8 \[LXX.\]. 3508 Deut. xxxii. 9.
+434 [[Acts 09#^9-20|Acts ix. 20]]. 3503 [[Philippians 02#^2-8|Phil. ii. 8]]. 3504 Latin translation, *tractatur*; which Harvey thinks affords a conclusive proof that Irenæus occasionally quotes Scripture 3505 by re-translating from the Syriac. It will be observed that Scripture is here very loosely quoted. 3506 [[Acts 17#^17-24|Acts xvii. 24]], etc. 3507 Deut. xxxii. 8 \[LXX.\]. 3508 Deut. xxxii. 9.
 
 *[p. 720]* ^pg760
 
@@ -253,7 +253,7 @@ goodness, giving you rain from heaven, and fruitful seasons, filling your hearts
 
 11\. And that the whole range of the doctrine of the apostles proclaimed one and the same God, who removed Abraham, who made to him the promise of inheritance, who in due season gave to him the covenant of circumcision, who called his descendants out of Egypt, preserved outwardly by circumcision—for he gave it as a sign, that they might not be like the Egyptians—that He was the Maker of all things, that He was the Father of our Lord Jesus Christ, that He was the God of glory,—they who wish may learn from the very words and acts of the apostles, and may contemplate the fact that this God is one, above whom is no other. But even if there were another god above Him, we should say, upon \[instituting\] a comparison of the quantity \[of the work done by each\], that the latter is superior to the former. For by deeds the better man appears, as I have already remarked;<sup>3512</sup> and, inasmuch as these men have no works of their father to adduce, the latter is shown to be God alone. But if any one, “doting about questions,”<sup>3513</sup> do imagine that what the apostles have declared about God should be allegorized, let him consider my previous statements, in which I set forth one God as the Founder and Maker of all things, and destroyed and laid bare their allegations; and he shall find them agreeable to the doctrine of the apostles, and so to maintain what
 
-Acts xiv. 15–17. 3510 Acts vii. 2–8. 3511 Book ii. ch. xxx. 2. 3512 1 Tim. vi. 4.
+[[Acts 14#^14-15|Acts xiv. 15–17]]. 3510 [[Acts 07#^7-2|Acts vii. 2–8]]. 3511 Book ii. ch. xxx. 2. 3512 [[1 Timothy 06#^6-4|1 Tim. vi. 4]].
 
 *[p. 721]* ^pg761
 
@@ -273,7 +273,7 @@ Most of the mss. read “intolerabiliorem,” but one reads as above, and is fol
 
 3515
 
-Acts vii. 56.
+[[Acts 07#^7-56|Acts vii. 56]].
 
 *[p. 722]* ^pg762
 
@@ -285,7 +285,7 @@ Hos. xii. 10.
 
 3517
 
-Acts xv. 15, etc.
+[[Acts 15#^15-15|Acts xv. 15]], etc.
 
 3518
 
@@ -307,7 +307,7 @@ This addition is also found in Codex Bezæ, and in Cyprian and others.
 
 3521
 
-Acts xv. 14, etc.
+[[Acts 15#^15-14|Acts xv. 14]], etc.
 
 3522
 
@@ -315,11 +315,11 @@ Another addition, also found in the Codex Bezæ, and in Tertullian.
 
 3523
 
-Acts x. 28, 29.
+[[Acts 10#^10-28|Acts x. 28]], [[Acts 10#^10-29|29]].
 
 3524
 
-Acts x. 47.
+[[Acts 10#^10-47|Acts x. 47]].
 
 *[p. 724]* ^pg764
 
@@ -331,7 +331,7 @@ eating with the Gentiles, because of the vision, and of the Spirit who had reste
 
 2\. And again, the Lord replied to Philip, who wished to behold the Father, “Have I been so long a time with you, and yet thou hast not known Me, Philip? He that sees Me, sees also the Father; and how sayest thou then, Show us the Father? For I am in the Father, and the Father in Me; and
 
-437 Gal. ii. 12, 13. 3526 Gal. ii. 8. 3527 Rom. x. 15; Isa. lii. 7. 3528 All the previous editors accept the reading *Deum* without remark, but Harvey argues that it must be regarded as a mistake 3529 for *Dominum*. He scarcely seems, however, to give sufficient weight to the quotation which immediately follows. 1 Cor. xv. 11. 3530 See note 9, p. 436.
+437 [[Galatians 02#^2-12|Gal. ii. 12]], [[Galatians 02#^2-13|13]]. 3526 [[Galatians 02#^2-8|Gal. ii. 8]]. 3527 [[Romans 10#^10-15|Rom. x. 15]]; Isa. lii. 7. 3528 All the previous editors accept the reading *Deum* without remark, but Harvey argues that it must be regarded as a mistake 3529 for *Dominum*. He scarcely seems, however, to give sufficient weight to the quotation which immediately follows. [[1 Corinthians 15#^15-11|1 Cor. xv. 11]]. 3530 See note 9, p. 436.
 
 *[p. 725]* ^pg765
 
@@ -341,29 +341,29 @@ henceforth ye know Him, and have seen Him.”<sup>3532</sup> To these men, there
 
 #### Chapter XIV.—If Paul had known any mysteries unrevealed to the other apostles, Luke, his constant companion and fellow-traveller, could not have been ignorant of them; neither could the truth have possibly lain hid from him, through whom alone we learn many and most important particulars of the Gospel history.
 
-John xiv. 7, 9, 10.
+[[John 14#^14-7|John xiv. 7]], [[John 14#^14-9|9]], [[John 14#^14-10|10]].
 
 3532
 
-Matt. x. 6.
+[[Matthew 10#^10-6|Matt. x. 6]].
 
 3533
 
-Matt. xvi. 17.
+[[Matthew 16#^16-17|Matt. xvi. 17]].
 
 3534
 
-Gal. i. 1.
+[[Galatians 01#^1-1|Gal. i. 1]].
 
 3535
 
 Some such supplement seems necessary, as Grabe suggests, though Harvey contends that no apodosis is requisite. 3536
 
-Gal. ii. 1, 2.
+[[Galatians 02#^2-1|Gal. ii. 1]], [[Galatians 02#^2-2|2]].
 
 3537
 
-Latin, “Ad horam cessimus subjectioni” (Gal. ii. 5). Irenæus gives it an altogether different meaning from that which it 3538
+Latin, “Ad horam cessimus subjectioni” ([[Galatians 02#^2-5|Gal. ii. 5]]). Irenæus gives it an altogether different meaning from that which it 3538
 
 has in the received text. Jerome says that there was as much variation in the copies of Scripture in his day with regard to the passage,—some retaining, others rejecting the negative (*Adv. Marc.* v. 3).
 
@@ -371,9 +371,9 @@ has in the received text. Jerome says that there was as much variation in the co
 
 1\. But that this Luke was inseparable from Paul, and his fellow-labourer in the Gospel, he himself clearly evinces, not as a matter of boasting, but as bound to do so by the truth itself. For he says that when Barnabas, and John who was called Mark, had parted company from Paul, and sailed to Cyprus, “we came to Troas;”<sup>3539</sup> and when Paul had beheld in a dream a man of Macedonia, saying, “Come into Macedonia, Paul, and help us,” “immediately,” he says, “we endeavoured to go into Macedonia, understanding that the Lord had called us to preach the Gospel unto them. Therefore, sailing from Troas, we directed our ship’s course towards Samothracia.” And then he carefully indicates all the rest of their journey as far as Philippi, and how they delivered their first address: “for, sitting down,” he says, “we spake unto the women who had assembled;”<sup>3540</sup> and certain believed, even a great many. And again does he say, “But we sailed from Philippi after the days of unleavened bread, and came to Troas, where we abode seven days.”<sup>3541</sup> And all the remaining \[details\] of his course with Paul he recounts, indicating with all diligence both places, and cities, and number of days, until they went up to Jerusalem; and what befell Paul there,<sup>3542</sup> how he was sent to Rome in bonds; the name of the centurion who took him in charge;<sup>3543</sup> and the signs of the ships, and how they made shipwreck;<sup>3544</sup> and the island upon which they escaped, and how they received kindness there, Paul healing the chief man of that island; and how they sailed from thence to Puteoli, and from that arrived at Rome; and for what period they sojourned at Rome. As Luke was present at all these occurrences, he carefully noted them down in writing, so that he cannot be convicted of falsehood or boastfulness, because all these \[particulars\] proved both that he was senior to all those who now teach otherwise, and that he was not ignorant of the truth. That he was not merely a follower, but also a fellow-labourer of the apostles, but especially of Paul, Paul has himself declared also in the Epistles, saying: “Demas hath forsaken me, … and is departed unto Thessalonica; Crescens to Galatia, Titus to Dalmatia. Only Luke is with me.”<sup>3545</sup> From this he shows that he was always attached to and inseparable from him. And again he says, in the Epistle to the Colossians: “Luke, the beloved physician, greets you.”<sup>3546</sup> But surely if Luke, who always preached in company with Paul, and is called by him “the beloved,” and with him performed the work of an evangelist, and was entrusted to hand down to us a Gospel, learned nothing different from him (Paul), as has been pointed out from his words, how can these men, who were never attached to Paul, boast that they have learned hidden and unspeakable mysteries?
 
-438 Acts xvi. 8, etc. 3539 Acts xvi. 13. 3540 Acts xx. 5, 6. 3541 Acts xxi. 3542 Acts xxvii. 3543 Acts xxviii. 11. 3544
+438 [[Acts 16#^16-8|Acts xvi. 8]], etc. 3539 [[Acts 16#^16-13|Acts xvi. 13]]. 3540 [[Acts 20#^20-5|Acts xx. 5]], [[Acts 20#^20-6|6]]. 3541 Acts xxi. 3542 Acts xxvii. 3543 [[Acts 28#^28-11|Acts xxviii. 11]]. 3544
 
-2\. Tim. iv. 10, 11. 3545 Col. iv. 14. In this very important passage of Scripture, Irenæus manifestly read Κυρίου instead of Θεοῦ, which is found in *text. rec*. 3547 The Codex Bezæ has the same reading; but all the other most ancient mss. agree with the received text. Acts xx. 25, etc. 3548 Luke i. 2. 3549 Luke vi. 24, etc. 3550 Luke v. 3551
+2\. Tim. iv. 10, 11. 3545 [[Colossians 04#^4-14|Col. iv. 14]]. In this very important passage of Scripture, Irenæus manifestly read Κυρίου instead of Θεοῦ, which is found in *text. rec*. 3547 The Codex Bezæ has the same reading; but all the other most ancient mss. agree with the received text. [[Acts 20#^20-25|Acts xx. 25]], etc. 3548 [[Luke 01#^1-2|Luke i. 2]]. 3549 [[Luke 06#^6-24|Luke vi. 24]], etc. 3550 Luke v. 3551
 
 
 *[p. 727]* ^pg767
@@ -398,7 +398,7 @@ Luke vii.
 
 3554
 
-Luke xii. 20.
+[[Luke 12#^12-20|Luke xii. 20]].
 
 3555
 
@@ -406,7 +406,7 @@ Luke xvi.
 
 3556
 
-Luke xvii. 5.
+[[Luke 17#^17-5|Luke xvii. 5]].
 
 3557
 
@@ -440,11 +440,11 @@ well said. If, on the other hand, they feel compelled to receive the remaining p
 
 2\. For this is the subterfuge of false persons, evil seducers, and hypocrites, as they act who are from Valentinus. These men discourse to the multitude about those who belong to the Church, whom they do themselves term “vulgar,” and “ecclesiastic.”<sup>3566</sup> By these words they entrap the more simple, and entice them, imitating our phraseology, that these \[dupes\] may listen to them the
 
-Acts xxii. 8, Acts xxvi. 15.
+[[Acts 22#^22-8|Acts xxii. 8]], [[Acts 26#^26-15|Acts xxvi. 15]].
 
 3564
 
-Acts ix. 15, 16.
+[[Acts 09#^9-15|Acts ix. 15]], [[Acts 09#^9-16|16]].
 
 3565
 
@@ -498,23 +498,23 @@ him, and saying: “Fear not to take unto thee Mary thy wife: for that which is 
 
 3\. Paul, when writing to the Romans, has explained this very point: “Paul, an apostle of Jesus Christ, predestinated unto the Gospel of God, which He had promised by His prophets in the holy Scriptures, concerning His Son, who was made to Him of the seed of David according to the flesh, who was predestinated the Son of God with power through the Spirit of holiness, by the resurrection from the dead of our Lord Jesus Christ.”<sup>3576</sup> And again, writing to the Romans about Israel, he says: “Whose are the fathers, and from whom is Christ according to the flesh, who is God over all, blessed for ever.”<sup>3577</sup> And again, in his Epistle to the Galatians, he says: “But when the fulness of time had come, God sent forth His Son, made of a woman, made under the law, to redeem them that were under the law, that we might receive the adoption;”<sup>3578</sup> plainly indicating one God, who did by the prophets make promise of the Son, and one Jesus Christ our Lord, who was of the seed of David according to His birth from Mary; and that Jesus Christ was appointed the Son of God with power, according to the Spirit of holiness, by the resurrection from the dead, as being the first begotten in
 
-Matt. i. 18. It is to be observed that Irenæus here reads *Christ* instead of *Jesus Christ*, as in *text. rec.*, thus agreeing with 3574
+[[Matthew 01#^1-18|Matt. i. 18]]. It is to be observed that Irenæus here reads *Christ* instead of *Jesus Christ*, as in *text. rec.*, thus agreeing with 3574
 
 the reading of the Vulgate in the passage.
 
-John i. 13, 14. From this, and also a quotation of the same passage in chap. xix. of this book, it appears that Irenæus must 3575
+[[John 01#^1-13|John i. 13]], [[John 01#^1-14|14]]. From this, and also a quotation of the same passage in chap. xix. of this book, it appears that Irenæus must 3575
 
 have read ὃς … ἐγεννήθη here, and not οἳ … ἐγεννήθησαν. Tertullian quotes the verse to the same effect (*Lib. de Carne Christi*, cap. 19 and 24).
 
-Rom. i. 1–4.
+[[Romans 01#^1-1|Rom. i. 1–4]].
 
 3576
 
-Rom. ix. 5.
+[[Romans 09#^9-5|Rom. ix. 5]].
 
 3577
 
-Gal. iv. 4, 5.
+[[Galatians 04#^4-4|Gal. iv. 4]], [[Galatians 04#^4-5|5]].
 
 *[p. 733]* ^pg773
 
@@ -522,7 +522,7 @@ all the creation;<sup>3579</sup> the Son of God being made the Son of man, that 
 
 4\. But Simeon also —he who had received an intimation from the Holy Ghost that he should not see death, until first he had beheld Christ Jesus— taking Him, the first-begotten of the Virgin, into his hands, blessed God, and said, “Lord, now lettest Thou Thy servant depart in peace, according to Thy word: because mine eyes have seen Thy salvation, which Thou hast prepared before the face of all people; a light to lighten the Gentiles, and the glory of Thy people Israel;”<sup>3587</sup> confessing thus, that the infant whom he was holding in his hands, Jesus, born of Mary, was Christ Himself, the Son of God, the light of all, the glory of Israel itself, and the peace and refreshing of those who had fallen asleep. For He was already despoiling men, by removing their ignorance, conferring upon them His own knowledge, and scattering abroad those who recognised Him, as Esaias says: “Call His name, Quickly spoil, Rapidly divide.”<sup>3588</sup> Now these are the works of Christ. He therefore was Himself Christ, whom Simeon carrying \[in his arms\] blessed the Most High; on beholding
 
-442 Col. i. 14, 15. 3579 “Homine.” 3580 Mark i. 1. 3581 Isa. ix. 6 (LXX.). 3582 Luke i. 69. 3583 Ps. lxxviii. 5. 3584 Luke i. 32. 3585 Ps. cx. 1. 3586 Luke ii. 29. 3587
+442 [[Colossians 01#^1-14|Col. i. 14]], [[Colossians 01#^1-15|15]]. 3579 “Homine.” 3580 [[Mark 01#^1-1|Mark i. 1]]. 3581 Isa. ix. 6 (LXX.). 3582 [[Luke 01#^1-69|Luke i. 69]]. 3583 Ps. lxxviii. 5. 3584 [[Luke 01#^1-32|Luke i. 32]]. 3585 Ps. cx. 1. 3586 [[Luke 02#^2-29|Luke ii. 29]]. 3587
 
 *[p. 734]* ^pg774
 
@@ -538,19 +538,19 @@ Ex. xvii. 16 (LXX.).
 
 3590
 
-Matt. ii. 16.
+[[Matthew 02#^2-16|Matt. ii. 16]].
 
 3591
 
-Luke xxiv. 25.
+[[Luke 24#^24-25|Luke xxiv. 25]].
 
 3592
 
-Luke xxiv. 44, etc.
+[[Luke 24#^24-44|Luke xxiv. 44]], etc.
 
 3593
 
-Mark viii. 31 and Luke ix. 22.
+[[Mark 08#^8-31|Mark viii. 31]] and [[Luke 09#^9-22|Luke ix. 22]].
 
 3594
 
@@ -562,7 +562,7 @@ with us: but \[they departed\], that they might be made manifest that they are n
 
 7\. With Him is nothing incomplete or out of due season, just as with the Father there is nothing incongruous. For all these things were foreknown by the Father; but the Son works them out at the proper time in perfect order and sequence. This was the reason why, when Mary was urging \[Him\] on to \[perform\] the wonderful miracle of the wine, and was desirous before the time to partake<sup>3599</sup> of the cup of emblematic significance, the Lord, checking her untimely haste, said, “Woman, what
 
-443 1 John ii. 18, etc., loosely quoted. 3596 The text here followed is that of two Syriac mss., which prove the loss of several consecutive words in the old Latin 3597 version, and clear up the meaning of a confused sentence, showing that the word “autem” is here, as it probably is elsewhere, merely a contraction for “aut eum.” Eph. i. 10. 3598 “Participare compendii poculo,” i.e., the cup which *recapitulates* the suffering of Christ, and which, as Harvey thinks, 3599 refers to the symbolical character of the cup of the Eucharist, as setting forth the passion of Christ.
+443 [[1 John 02#^2-18|1 John ii. 18]], etc., loosely quoted. 3596 The text here followed is that of two Syriac mss., which prove the loss of several consecutive words in the old Latin 3597 version, and clear up the meaning of a confused sentence, showing that the word “autem” is here, as it probably is elsewhere, merely a contraction for “aut eum.” [[Ephesians 01#^1-10|Eph. i. 10]]. 3598 “Participare compendii poculo,” i.e., the cup which *recapitulates* the suffering of Christ, and which, as Harvey thinks, 3599 refers to the symbolical character of the cup of the Eucharist, as setting forth the passion of Christ.
 
 *[p. 736]* ^pg776
 
@@ -570,7 +570,7 @@ have I to do with thee? mine hour is not yet come”<sup>3600</sup>— waiting f
 
 8\. All, therefore, are outside of the \[Christian\] dispensation, who, under pretext of knowledge, understand that Jesus was one, and Christ another, and the Only-begotten another, from whom again is the Word, and that the Saviour is another, whom these disciples of error allege to be a production of those who were made Æons in a state of degeneracy. Such men are to outward appearance sheep; for they appear to be like us, by what they say in public, repeating the same words as we do; but inwardly they are wolves. Their doctrine is homicidal, conjuring up, as it does, a number of gods, and simulating many Fathers, but lowering and dividing the Son of God in many ways. These are they against whom the Lord has cautioned us beforehand; and His disciple, in his Epistle already mentioned, commands us to avoid them, when he says: “For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist. Take heed to them, that ye lose not what ye have wrought.”<sup>3604</sup> And again does he say in the Epistle: “Many false prophets are gone out into the world. Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God; and every spirit which separates Jesus Christ is not of God, but is of antichrist.”<sup>3605</sup> These words agree with what
 
-John ii. 4. 3600 John vii. 30. 3601 Hab. iii. 2. 3602 Gal. iv. 4. 3603 2 John 7, 8. Irenæus seems to have read αὐτούς instead of ἑαυτούς, as in the received text. 3604 1 John iv. 1, 2. This is a material difference from the received text of the passage: “Every spirit that confesseth not that 3605 Jesus Christ is come in the flesh.” The Vulgate translation and Origen agree with Irenæus, and Tertullian seems to recognise both readings (*Adv. Marc.*, v. 16). Socrates tells us (vii. 32, p. 381) that the passage had been corrupted by those who wished to separate the humanity of Christ from His divinity, and that the old copies read, πᾶν πνεῦμα ὃ λύει τὸν ᾽Ιησοῦν ἀπὸ τοῦ Θεοῦ
+[[John 02#^2-4|John ii. 4]]. 3600 [[John 07#^7-30|John vii. 30]]. 3601 Hab. iii. 2. 3602 [[Galatians 04#^4-4|Gal. iv. 4]]. 3603 2 John 7, 8. Irenæus seems to have read αὐτούς instead of ἑαυτούς, as in the received text. 3604 [[1 John 04#^4-1|1 John iv. 1]], [[1 John 04#^4-2|2]]. This is a material difference from the received text of the passage: “Every spirit that confesseth not that 3605 Jesus Christ is come in the flesh.” The Vulgate translation and Origen agree with Irenæus, and Tertullian seems to recognise both readings (*Adv. Marc.*, v. 16). Socrates tells us (vii. 32, p. 381) that the passage had been corrupted by those who wished to separate the humanity of Christ from His divinity, and that the old copies read, πᾶν πνεῦμα ὃ λύει τὸν ᾽Ιησοῦν ἀπὸ τοῦ Θεοῦ
 
 *[p. 737]* ^pg777
 
@@ -582,23 +582,23 @@ apostle did know Him as one, both who was born and who suffered, namely Christ J
 
 οὐκ ἔστι, which exactly agrees with Origen’s quotation, and very nearly with that of Irenæus, now before us. Polycarp (*Ep.*, c. vii.) seems to allude to the passage as we have it now, and so does Ignatius (*Ep. Smyr.*, c. v.). See the question discussed by Burton, in his *Ante-Nicene Testimonies* \[*to the Div. of Christ*. Another work of Burton has a similar name. See British Critic, vol. ii. (of 1827), p. 265\].
 
-1 John v. 1.
+[[1 John 05#^5-1|1 John v. 1]].
 
 3606
 
-Rom. v. 17.
+[[Romans 05#^5-17|Rom. v. 17]].
 
 3607
 
-Rom. vi. 3, 4.
+[[Romans 06#^6-3|Rom. vi. 3]], [[Romans 06#^6-4|4]].
 
 3608
 
-Rom. v. 6–10. Irenæus appears to have read, as does the Vulgate, εἰς τί γάρ, for ἔτι γάρ in *text. rec*.
+[[Romans 05#^5-6|Rom. v. 6–10]]. Irenæus appears to have read, as does the Vulgate, εἰς τί γάρ, for ἔτι γάρ in *text. rec*.
 
 3609
 
-Rom. viii. 34.
+[[Romans 08#^8-34|Rom. viii. 34]].
 
 3610
 
@@ -610,7 +610,7 @@ you, He that raised up Christ from the dead shall also quicken your mortal bodie
 
 1\. It certainly was in the power of the apostles to declare that Christ descended upon Jesus, or that the so-called superior Saviour \[came down\] upon the dispensational one, or he who is from the invisible places upon him from the Demiurge; but they neither knew nor said anything of the kind: for, had they known it, they would have also certainly stated it. But what really was the case, that did they record, \[namely,\] that the Spirit of God as a dove descended upon Him; this Spirit, of whom it was declared by Isaiah, “And the Spirit of God shall rest upon Him,”<sup>3614</sup> as I have already said. And again: “The Spirit of the Lord is upon Me, because He hath anointed Me.”<sup>3615</sup> That is the Spirit of whom the Lord declares, “For it is not ye that speak, but the Spirit of your Father which speaketh in you.”<sup>3616</sup> And again, giving to the disciples the power of regeneration into God,<sup>3617</sup> He said to them, “Go and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.”<sup>3618</sup> For \[God\] promised, that in the last times He would pour Him \[the Spirit\] upon \[His\] servants and handmaids, that they might prophesy; wherefore He did also descend upon the Son of God, made the Son of man, becoming accustomed in fellowship with Him to dwell in the human race, to rest with human beings, and to dwell in the workmanship of God, working the will of the Father in them, and renewing them from their old habits into the newness of Christ.
 
-Rom. viii. 11. 3612 1 Pet. ii. 23. 3613 Isa. xi. 2. 3614 Isa. lxi. 1. 3615 Matt. x. 20. 3616 Harvey remarks on this: “The sacrament of baptism is therefore ἡ δύμανις τῆς ἀναγεννήσεως εἰς Θεόν.” \[Comp. book 3617 i. cap. xxi.\]
+[[Romans 08#^8-11|Rom. viii. 11]]. 3612 [[1 Peter 02#^2-23|1 Pet. ii. 23]]. 3613 Isa. xi. 2. 3614 Isa. lxi. 1. 3615 [[Matthew 10#^10-20|Matt. x. 20]]. 3616 Harvey remarks on this: “The sacrament of baptism is therefore ἡ δύμανις τῆς ἀναγεννήσεως εἰς Θεόν.” \[Comp. book 3617 i. cap. xxi.\]
 
 *[p. 739]* ^pg779
 
@@ -624,7 +624,7 @@ Ps. li. 12.
 
 3619
 
-John xvi. 7.
+[[John 16#^16-7|John xvi. 7]].
 
 3620
 
@@ -650,7 +650,7 @@ consumed by fire, nor be rendered unfruitful, and that where we have an accuser 
 
 4\. The Spirit, therefore, descending under the predestined dispensation, and the Son of God, the Only-begotten, who is also the Word of the Father, coming in the fulness of time, having become incarnate in man for the sake of man, and fulfilling all the conditions of human nature, our Lord Jesus Christ being one and the same, as He Himself the Lord doth testify, as the apostles confess, and as the prophets announce,—all the doctrines of these men who have invented putative Ogdoads and Tetrads, and imagined subdivisions \[of the Lord’s person\], have been proved falsehoods. These<sup>3630</sup> men do, in fact, set the Spirit aside altogether; they understand that Christ was one and Jesus another; and they teach that there was not one Christ, but many. And if they speak of them as united, they do again separate them: for they show that one did indeed undergo sufferings, but that the other remained impassible; that the one truly did ascend to the Pleroma, but the other remained in the intermediate place; that the one does truly feast and revel in places invisible and above all name, but that the other is seated with the Demiurge, emptying him of power. It will therefore be incumbent upon thee, and all others who give their attention to this writing, and are anxious about their own salvation, not readily to express acquiescence when they hear abroad the speeches of these men: for, speaking things resembling the \[doctrine of the\] faithful, as I have already observed, not only do they hold opinions which are different, but absolutely contrary, and in all points full of blasphemies, by which they destroy those persons who, by reason of the resemblance of the words, imbibe a poison which disagrees with their constitution, just as if one, giving lime mixed with water for milk, should mislead by the similitude of the colour; as a man<sup>3631</sup> superior to me has said, concerning all that in any way corrupt the things of God and adulterate the truth, “Lime is wickedly mixed with the milk of God.”
 
-1\. John ii. 1. 3626 “Suum hominem,” i.e., the human race. 3627 Luke x. 35. 3628 Matt. xxv. 14. 3629 The following period is translated from a Syriac fragment (see Harvey’s *Irenæus*, vol. ii. p. 439), as it supplies some 3630 words inconveniently omitted in the old Latin version. Comp. book. i. pref. note 4.
+1\. John ii. 1. 3626 “Suum hominem,” i.e., the human race. 3627 [[Luke 10#^10-35|Luke x. 35]]. 3628 [[Matthew 25#^25-14|Matt. xxv. 14]]. 3629 The following period is translated from a Syriac fragment (see Harvey’s *Irenæus*, vol. ii. p. 439), as it supplies some 3630 words inconveniently omitted in the old Latin version. Comp. book. i. pref. note 4.
 
 
 *[p. 741]* ^pg781
@@ -669,25 +669,25 @@ Again a Syriac fragment supplies some important words. See Harvey, vol. ii. p. 4
 
 3632
 
-So the Syriac. The Latin has, “in seipso recapitulavit,” *He summed up in Himself*. \[As the Second Adam, 1 Cor. xv. 47.\] 3633
+So the Syriac. The Latin has, “in seipso recapitulavit,” *He summed up in Himself*. \[As the Second Adam, [[1 Corinthians 15#^15-47|1 Cor. xv. 47]].\] 3633
 
-Rom. x. 6, 7.
+[[Romans 10#^10-6|Rom. x. 6]], [[Romans 10#^10-7|7]].
 
 3634
 
-Rom. x. 9.
+[[Romans 10#^10-9|Rom. x. 9]].
 
 3635
 
-Rom. xiv. 9.
+[[Romans 14#^14-9|Rom. xiv. 9]].
 
 3636
 
-1 Cor. i. 23.
+[[1 Corinthians 01#^1-23|1 Cor. i. 23]].
 
 3637
 
-1 Cor. x. 16.
+[[1 Corinthians 10#^10-16|1 Cor. x. 16]].
 
 *[p. 742]* ^pg782
 
@@ -695,7 +695,7 @@ form to their mother; or is it He who is from the Virgin, Emmanuel, who did eat 
 
 4\. The Lord Himself, too, makes it evident who it was that suffered; for when He asked the disciples, “Who do men say that I, the Son of man, am?”<sup>3648</sup> and when Peter had replied, “Thou art the Christ, the Son of the living God;” and when he had been commended by Him \[in these words\], “That flesh and blood had not revealed it to him, but the Father who is in heaven,” He made it clear that He, the Son of man, is Christ the Son of the living God. “For from that time forth,” it is said,
 
-Isa. viii. 14. 3639 Jer. xvii. 9. 3640 1 Cor. xv. 3, 4. 3641 1 Cor. xv. 12. 3642 Rom. xiv. 15. 3643 Eph. ii. 13. 3644 Gal. iii. 13; Deut. xxi. 23. 3645 1 Cor. viii. 11. 3646 Isa. lxi. 1. 3647
+Isa. viii. 14. 3639 Jer. xvii. 9. 3640 [[1 Corinthians 15#^15-3|1 Cor. xv. 3]], [[1 Corinthians 15#^15-4|4]]. 3641 [[1 Corinthians 15#^15-12|1 Cor. xv. 12]]. 3642 [[Romans 14#^14-15|Rom. xiv. 15]]. 3643 [[Ephesians 02#^2-13|Eph. ii. 13]]. 3644 [[Galatians 03#^3-13|Gal. iii. 13]]; Deut. xxi. 23. 3645 [[1 Corinthians 08#^8-11|1 Cor. viii. 11]]. 3646 Isa. lxi. 1. 3647
 
 *[p. 743]* ^pg783
 
@@ -705,7 +705,7 @@ the Son of the living God to him, said that He must Himself suffer many things, 
 
 5\. If, however, He was Himself not to suffer, but should fly away from Jesus, why did He exhort His disciples to take up the cross and follow Him,—that cross which these men represent Him as not having taken up, but \[speak of Him\] as having relinquished the dispensation of suffering? For that He did not say this with reference to the acknowledging of the *Stauros* (cross) above, as some among them venture to expound, but with respect to the suffering which He should Himself undergo, and that His disciples should endure, He implies when He says, “For whosoever will save his life, shall lose it; and whosoever will lose, shall find it.” And that His disciples must suffer for His sake, He \[implied when He\] said to the Jews, “Behold, I send you prophets, and wise men, and scribes: and some of them ye shall kill and crucify.”<sup>3652</sup> And to the disciples He was wont to say, “And ye shall stand before governors and kings for My sake; and they shall scourge some of you, and slay you, and persecute you from city to city.”<sup>3653</sup> He knew, therefore, both those who should suffer persecution, and He knew those who should have to be scourged and slain because of Him; and He did not speak of any other cross, but of the suffering which He should Himself undergo first, and His disciples afterwards. For this purpose did He give them this exhortation: “Fear not them which kill the body, but are not able to kill the soul; but rather fear Him who is able to send both soul and body into hell;”<sup>3654</sup> \[thus exhorting them\] to hold fast those professions of faith which they had made in reference to Him. For He promised to confess before His Father those who should confess His name before men; but declared that He would deny those who should deny Him, and would be ashamed of those who should be ashamed to confess Him. And although these things are so, some of these men have proceeded to such a degree of temerity, that they even pour contempt upon the martyrs, and vituperate those who are slain on account of the confession of the Lord, and who suffer all things predicted by the Lord, and who in this respect strive to follow the footprints
 
-Matt. xvi. 21.
+[[Matthew 16#^16-21|Matt. xvi. 21]].
 
 3649
 
@@ -713,15 +713,15 @@ Literally, “supposing Him to be Christ according to the idea of men.”
 
 3650
 
-Matt. xvi. 24, 25.
+[[Matthew 16#^16-24|Matt. xvi. 24]], [[Matthew 16#^16-25|25]].
 
 3651
 
-Matt. xxiii. 24.
+[[Matthew 23#^23-24|Matt. xxiii. 24]].
 
 3652
 
-Matt. x. 17, 18.
+[[Matthew 10#^10-17|Matt. x. 17]], [[Matthew 10#^10-18|18]].
 
 3653
 
@@ -733,7 +733,7 @@ of the Lord’s passion, having become martyrs of the suffering One; these we do
 
 7\. Therefore, as I have already said, He caused man (human nature) to cleave to and to become, one with God. For unless man had overcome the enemy of man, the enemy would not have been legitimately vanquished. And again: unless it had been God who had freely given salvation, we could never have possessed it securely. And unless man had been joined to God, he could never have become a partaker of incorruptibility. For it was incumbent upon the Mediator between God and men, by His relationship to both, to bring both to friendship and concord, and present man to
 
-448 Ps. ix. 12. 3655 Luke xxiii. 34. 3656 Matt. v. 44. 3657 Matt. v. 39. 3658 “*Pro patribus*, ἀντὶ τῶν πατρῶν. The reader will here observe the clear statement of the doctrine of atonement, whereby 3659 alone sin is done away.”—Harvey.
+448 Ps. ix. 12. 3655 [[Luke 23#^23-34|Luke xxiii. 34]]. 3656 [[Matthew 05#^5-44|Matt. v. 44]]. 3657 [[Matthew 05#^5-39|Matt. v. 39]]. 3658 “*Pro patribus*, ἀντὶ τῶν πατρῶν. The reader will here observe the clear statement of the doctrine of atonement, whereby 3659 alone sin is done away.”—Harvey.
 
 *[p. 745]* ^pg785
 
@@ -747,11 +747,11 @@ The Latin text, “et facere, ut et Deus assumeret hominem, et homo se dederet D
 
 preserved by Theodoret. We have followed the latter, which is preferred by all the editors.
 
-Rom. v. 14.
+[[Romans 05#^5-14|Rom. v. 14]].
 
 3662
 
-Rom. v. 19.
+[[Romans 05#^5-19|Rom. v. 19]].
 
 3663
 
@@ -765,11 +765,11 @@ Son shall make you free, ye shall be free indeed.”<sup>3665</sup> But, being i
 
 2\. For this reason \[it is, said\], “Who shall declare His generation?”<sup>3669</sup> since “He is a man, and who shall recognise Him?”<sup>3670</sup> But he to whom the Father which is in heaven has revealed Him,<sup>3671</sup> knows Him, so that he understands that He who “was not born either by the will of the flesh, or by the will of man,”<sup>3672</sup> is the Son of man, this is Christ, the Son of the living God. For I have shown from the Scriptures,<sup>3673</sup> that no one of the sons of Adam is as to everything, and absolutely, called God, or named Lord. But that He is Himself in His own right, beyond all men who ever lived, God, and Lord, and King Eternal, and the Incarnate Word, proclaimed by all the prophets, the apostles,
 
-John viii. 36.
+[[John 08#^8-36|John viii. 36]].
 
 3665
 
-Rom. vi. 23.
+[[Romans 06#^6-23|Rom. vi. 23]].
 
 3666
 
@@ -789,11 +789,11 @@ Jer. xvii. 9.
 
 3670
 
-Matt. xvi. 16.
+[[Matthew 16#^16-16|Matt. xvi. 16]].
 
 3671
 
-John i. 13.
+[[John 01#^1-13|John i. 13]].
 
 3672
 
@@ -833,4 +833,4 @@ Isa. vii. 13.
 
 3680
 
-Eph. iv. 16.
+[[Ephesians 04#^4-16|Eph. iv. 16]].

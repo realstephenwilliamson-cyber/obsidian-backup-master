@@ -32,7 +32,7 @@ Text: [[NRSVue 1 Corinthians 14|NRSVue]] · [[1 Corinthians 14|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 14#^14-20|20]]:** *Children*, see 2.6n.; 3.1n.; 13.11. ^14-20
 
-**[[NRSVue 1 Corinthians 14#^14-21|21]]:** [[Isaiah 28#^28-11|Isa 28.11–12]], in a version different from both the Masoretic and extant Greek texts. *Law*, Jewish Scriptures (see 9.8–11nn.; [[Romans 03#^3-19|Rom 3.19]]). Paul considers prophetic writing as well as the Torah to be authoritative, as does rabbinic tradition ([[Gittin 36#36a|*b. Git.* 36a]]). ^14-21
+**[[NRSVue 1 Corinthians 14#^14-21|21]]:** [[Isaiah 28#^28-11|Isa 28.11–12]], in a version different from both the Masoretic and extant Greek texts. *Law*, Jewish Scriptures (see 9.8–11nn.; [[Romans 03#^3-19|Rom 3.19]]). Paul considers prophetic writing as well as the Torah to be authoritative, as does rabbinic tradition (*b. Git.* [[Gittin 36#36a|36a]]). ^14-21
 
 **[[NRSVue 1 Corinthians 14#^14-22|22]]:** *Not for unbelievers*, because it is alienating. The idea that the same instrument can have opposite effects appears in [[LXX Wisdom of Solomon 11#^11-5|Wis 11.5]]. ^14-22
 

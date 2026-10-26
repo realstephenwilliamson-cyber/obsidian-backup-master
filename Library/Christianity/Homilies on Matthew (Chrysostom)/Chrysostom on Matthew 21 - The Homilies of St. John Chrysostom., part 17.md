@@ -32,7 +32,7 @@ This, when He sat on the mount also, He advised; at one time bringing him who ha
 
 But here He is devising another mode. For not him that gave the pain, *doth He now call upon*,<sup>2337</sup>but him that was pained He brings to this one. For because this who hath done the wrong would not easily come to make excuse, out of shame, and confusion of face, He draws that other to him, and not merely so, but in such way as also to correct what hath been done. And He saith not, “Accuse,” nor “Charge him,” nor “Demand satisfaction, and an account,” but, “Tell him of his fault,”<sup>2338</sup>saith He. For he is held in a kind of stupor
 
-2333 \[The form of the Greek verb here is peculiar to the text of the Homily. R.V., “sin,” for “trespass.”—R.\] 2334 Lit. “reprove” or “convict him.” 2335 Matt. v. 24. \[But the citation is fuller: “If thou art standing by the altar and rememberest that thy brother hath aught against thee, go away, be reconciled,” etc.—R.\] 2336 Matt. vi. 12. 2337 \[Supplied by translator.\] Or, “Convict him.” 355 2339 Matt. xviii. 16. \[The words “or three” are omitted in the Homily here, but not below. In both cases the form of the verb is changed.—R.\]
+2333 \[The form of the Greek verb here is peculiar to the text of the Homily. R.V., “sin,” for “trespass.”—R.\] 2334 Lit. “reprove” or “convict him.” 2335 [[Matthew 05#^5-24|Matt. v. 24]]. \[But the citation is fuller: “If thou art standing by the altar and rememberest that thy brother hath aught against thee, go away, be reconciled,” etc.—R.\] 2336 [[Matthew 06#^6-12|Matt. vi. 12]]. 2337 \[Supplied by translator.\] Or, “Convict him.” 355 2339 [[Matthew 18#^18-16|Matt. xviii. 16]]. \[The words “or three” are omitted in the Homily here, but not below. In both cases the form of the verb is changed.—R.\]
 
 
 *[p. 645]* ^pg653
@@ -45,7 +45,7 @@ For since thou appearedst to be too weak alone, make thyself more powerful by th
 
 Wherefore, with respect to them that are without He saith no such thing, but, “If any one smite thee,” He saith, “on thy right cheek, turn to him the other also,”<sup>2341</sup>but here not in such wise. For what Paul meaneth, saying, “What have I to do to judge them also that are without?”<sup>2342</sup>but the brethren he commands both to tell of their faults, and to avoid them, and to cut them off, not being obedient, that they may be ashamed; this Himself also doeth here, making these laws about the brethren; and He sets three<sup>2343</sup>over him for teachers and judges, to teach him the things that are done at the time of his drunkenness. For though it be himself that hath said and done all those unreasonable things, yet he will need others to
 
-2340 Matt. xviii. 17. 2341 Matt. v. 39. 2342 1 Cor. v. 12. \[Oxford edition, “these,” misprint, since the Greek word is τρε.—R.\] ἐκστατικτερον. 2344 2345 Matt. v. 46.
+2340 [[Matthew 18#^18-17|Matt. xviii. 17]]. 2341 [[Matthew 05#^5-39|Matt. v. 39]]. 2342 [[1 Corinthians 05#^5-12|1 Cor. v. 12]]. \[Oxford edition, “these,” misprint, since the Greek word is τρε.—R.\] ἐκστατικτερον. 2344 2345 [[Matthew 05#^5-46|Matt. v. 46]].
 
 
 *[p. 646]* ^pg654
@@ -78,9 +78,9 @@ Seest thou how by another motive also He puts down our enmities, and takes away 
 
 “Are there then indeed nowhere two of one accord?” Nay, in many places, perchance even everywhere. “How then do they not obtain all things?” Because many are causes of their failing. For either they often ask things inexpedient. And why marvellest thou, if this is the case with some others, whereas it was so even with Paul, when he heard, “My grace is sufficient for thee; for my strength is perfected in weakness.”<sup>2351</sup> Or they are unworthy
 
-2347 Matt. xviii. 18. \[R.V., “What things soever,” etc. But the singular pronoun is substituted in the text of the Homily.—R.\] 2348 \[A clause is omitted here, “and doth not straightway cut him off.”—R.\] 2349 Matt. xviii. 19, 20. μικροψυχα .
+2347 [[Matthew 18#^18-18|Matt. xviii. 18]]. \[R.V., “What things soever,” etc. But the singular pronoun is substituted in the text of the Homily.—R.\] 2348 \[A clause is omitted here, “and doth not straightway cut him off.”—R.\] 2349 [[Matthew 18#^18-19|Matt. xviii. 19]], [[Matthew 18#^18-20|20]]. μικροψυχα .
 
-2350 2 Cor. xii. 9. \[R.V., “for *my* power is made perfect in weakness.”\] πολιτεαν. 2352 2353 Matt. v. 44. 2354 Jer. xi. 14. ἐπικηρων.
+2350 [[2 Corinthians 12#^12-9|2 Cor. xii. 9]]. \[R.V., “for *my* power is made perfect in weakness.”\] πολιτεαν. 2352 2353 [[Matthew 05#^5-44|Matt. v. 44]]. 2354 Jer. xi. 14. ἐπικηρων.
 
 
 *[p. 648]* ^pg656
@@ -111,7 +111,7 @@ And those even that crucified Him, and acted in so many instances with contumely
 
 This love then let us also imitate, unto this let us look, that being followers of Christ, we may attain both unto the good things here, and unto those to come, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might world without end. Amen.
 
-2356 1 Cor. xiii. 8. \[R.V., “Love never faileth.” The Greek word is rendered “love” throughout this part of the Homily.—R.\] 2357 John xv. 13. 358 2359 \[R.V. margin, “seventy times and seven.” There is no difference of reading, but one of interpretation. Comp. Augustin, vol. vi., p. 107, *Nicene and Post Nicene Fathers*. Chrysostom does not indicate which view he accepts.—R.\]
+2356 [[1 Corinthians 13#^13-8|1 Cor. xiii. 8]]. \[R.V., “Love never faileth.” The Greek word is rendered “love” throughout this part of the Homily.—R.\] 2357 [[John 15#^15-13|John xv. 13]]. 358 2359 \[R.V. margin, “seventy times and seven.” There is no difference of reading, but one of interpretation. Comp. Augustin, vol. vi., p. 107, *Nicene and Post Nicene Fathers*. Chrysostom does not indicate which view he accepts.—R.\]
 
 
 *[p. 650]* ^pg658
@@ -155,7 +155,7 @@ I will speak then, and will set forth our sins, both wherein we offend against G
 
 And I will do this, having first set forth the good deeds of God to us. What then are His good deeds? He created us when we were not, and made all things for our sakes that are seen, Heaven, sea, air, all that in them is, living creatures, plants, seeds; for we must needs
 
-2362 \[R.V., “wherewith to pay.”\] 2363 Matt. xviii. 23–25. \[The textual variations are slight.—R.\] 2364 Matt. xviii. 28. Matt. xix. 25. \[Comp. Mark x. 26.\]
+2362 \[R.V., “wherewith to pay.”\] 2363 [[Matthew 18#^18-23|Matt. xviii. 23–25]]. \[The textual variations are slight.—R.\] 2364 [[Matthew 18#^18-28|Matt. xviii. 28]]. [[Matthew 19#^19-25|Matt. xix. 25]]. \[Comp. [[Mark 10#^10-26|Mark x. 26]].\]
 
 
 *[p. 652]* ^pg660
@@ -194,7 +194,7 @@ But will ye, that we leave these, and go to others of a gentler kind? Come then,
 
 3\. But will ye that we leave these too, and go to others who seem to be more just? Who then are they? They that are possessed of lands, and reap the wealth that springs from the earth. And what can be more unjust than these? For if any one were to examine how they treat their wretched and toil-worn laborers, he will see them to be more cruel than savages. For upon them that are pining with hunger, and toiling throughout all their life, they both
 
-2367 Matt. v. 22. 2368 Matt. v. 28. Matt. xviii. 3. \[Slightly altered.\] \[ἐπιτρπων, “stewards,” answering here to “overseers,” in the worst sense.—R.\]
+2367 [[Matthew 05#^5-22|Matt. v. 22]]. 2368 [[Matthew 05#^5-28|Matt. v. 28]]. [[Matthew 18#^18-3|Matt. xviii. 3]]. \[Slightly altered.\] \[ἐπιτρπων, “stewards,” answering here to “overseers,” in the worst sense.—R.\]
 
 
 *[p. 654]* ^pg662
@@ -215,7 +215,7 @@ Bearing in mind all these things, and considering the ten thousand talents, let 
 
 In order then that we may learn this well, let us hear the whole parable, going on regularly through it. “For there was brought unto Him,” it saith, “one which owed ten thousand talents,
 
-2370 2371 Jer. ii. 12. ἐξεβακχεθη. 2372 \[οδ γρο occurs here in the Greek, but is ignored by the translator; probably because the thought was 2373 implied in “husbandry” (γεωργαν).—R.\] 361 2374 \[“The lord of that servant,” according to our authorities; the Homily varies.—R.\] 2375 Matt. xviii. 26, 27. ἕναυλον. 2376
+2370 2371 Jer. ii. 12. ἐξεβακχεθη. 2372 \[οδ γρο occurs here in the Greek, but is ignored by the translator; probably because the thought was 2373 implied in “husbandry” (γεωργαν).—R.\] 361 2374 \[“The lord of that servant,” according to our authorities; the Homily varies.—R.\] 2375 [[Matthew 18#^18-26|Matt. xviii. 26]], [[Matthew 18#^18-27|27]]. ἕναυλον. 2376
 
 
 *[p. 655]* ^pg663
@@ -250,9 +250,9 @@ See again the lord’s gentleness. He pleads with him, and excuses himself, bein
 
 And whereas, when he owed ten thousand talents, he called him not wicked, neither reproached him, but showed mercy on him; when he had become harsh to his fellow-servant, then he saith, “O thou wicked servant.”
 
-2378 Matt. xviii. 29. \[R.V. omits “all” in this verse, with the best authorities. Probably taken from verse 26.—R.\] 2379 \[R.V., “besoughtest.”\]
+2378 [[Matthew 18#^18-29|Matt. xviii. 29]]. \[R.V. omits “all” in this verse, with the best authorities. Probably taken from verse 26.—R.\] 2379 \[R.V., “besoughtest.”\]
 
-2380 Matt. xviii. 32. \[R.V., “have had mercy on thy fellow servant, even as I had mercy on thee.” The verb is the same in both clauses. “On thy fellow servant,” omitted here, is inserted in the comment.—R.\] 362 2381 Rom. xi. 29. \[Freely cited.\] 2382 Matt. xviii. 35. \[The best New Testament authorities omit “their trespasses,” which was readily introduced from similar passages.—R.\]
+2380 [[Matthew 18#^18-32|Matt. xviii. 32]]. \[R.V., “have had mercy on thy fellow servant, even as I had mercy on thee.” The verb is the same in both clauses. “On thy fellow servant,” omitted here, is inserted in the comment.—R.\] 362 2381 [[Romans 11#^11-29|Rom. xi. 29]]. \[Freely cited.\] 2382 [[Matthew 18#^18-35|Matt. xviii. 35]]. \[The best New Testament authorities omit “their trespasses,” which was readily introduced from similar passages.—R.\]
 
 
 *[p. 657]* ^pg665
@@ -305,7 +305,7 @@ But if to follow God is beyond thee, although to him that watcheth not even this
 
 2383 2384
 
-Matt. x. 25.
+[[Matthew 10#^10-25|Matt. x. 25]].
 
 *[p. 660]* ^pg668
 
@@ -329,7 +329,7 @@ O folly! They thought to silence Him by their questions, although they had alrea
 
 But mark thou, I pray thee, their craft also from the form of their question. For neither did they say unto Him, Thou didst command not to put away a wife, for indeed He had
 
-2386 Matt. xix. 2.
+2386 [[Matthew 19#^19-2|Matt. xix. 2]].
 
 
 *[p. 661]* ^pg669
@@ -367,7 +367,7 @@ And indeed if He had been an alien from the old covenant, He would not have stri
 
 And indeed Moses had given many other commandments besides, both those about meats, and those about the Sabbath; wherefore then do they nowhere bring him forward, as here? From a wish to enlist the multitude of the husbands against him. For this was considered a thing indifferent with the Jews, and all used to do so much as this. Accordingly it
 
-2391 Matt. xix. 7. \[“How” is substituted for “why.”\]
+2391 [[Matthew 19#^19-7|Matt. xix. 7]]. \[“How” is substituted for “why.”\]
 
 
 *[p. 663]* ^pg671
@@ -388,7 +388,7 @@ But what took place there, this happened here also. For as there, when the Jews 
 
 For now they understood the saying more than before. Therefore then indeed they held their peace, but now when there hath been gainsaying, and answering, and question, and learning by reply, and the law appeared more clear, they ask Him. And openly to contradict they do not dare, but they bring forward what seemed to be a grievous and galling result of
 
-2393 \[The citation agrees with the briefer reading, accepted by Tischendorf; comp. R.V. margin.—R.\] 2394 Matt. xv. 11. 2395 Matt. xii. 12. 2396 Matt. xv. 15. Matt. xix. 10. \[Compare the more exact citation which follows.—R.\] 366 2398 Mark x. 10. 2399 Matt. xix. 11.
+2393 \[The citation agrees with the briefer reading, accepted by Tischendorf; comp. R.V. margin.—R.\] 2394 [[Matthew 15#^15-11|Matt. xv. 11]]. 2395 [[Matthew 12#^12-12|Matt. xii. 12]]. 2396 [[Matthew 15#^15-15|Matt. xv. 15]]. [[Matthew 19#^19-10|Matt. xix. 10]]. \[Compare the more exact citation which follows.—R.\] 366 2398 [[Mark 10#^10-10|Mark x. 10]]. 2399 [[Matthew 19#^19-11|Matt. xix. 11]].
 
 
 *[p. 664]* ^pg672
@@ -419,7 +419,7 @@ And if it is of free choice, one may say, how doth He say, at the beginning, “
 
 ἀποκψονται, which may mean this. \[R.V. margin, “mutilate themselves.”\] 2401 2402
 
-Gal. v. 12. \[Whatever be the meaning of the verb in Galatians, there can be no question that the use here made of the passage is forced.—R.\]
+[[Galatians 05#^5-12|Gal. v. 12]]. \[Whatever be the meaning of the verb in Galatians, there can be no question that the use here made of the passage is forced.—R.\]
 
 *[p. 666]* ^pg674
 
@@ -437,7 +437,7 @@ Let us also then, if we would be inheritors of the Heavens, possess ourselves of
 
 Therefore He said, “of such is the kingdom of Heaven,” that by choice we should practise these things, which young children have by nature. For since the Pharisees from nothing else so much as out of craft and pride did what they did, therefore on every hand He charges the disciples to be single hearted, both darkly hinting at those men, and instructing these.
 
-2403 Matt. xix. 13–15. 368 σοβεν. 2405 μεσασμος. 2406 2407 1 Cor. xiv. 20. 2408 Prov. ix. 12, LXX. 1 Sam. xxviii. 15.
+2403 [[Matthew 19#^19-13|Matt. xix. 13–15]]. 368 σοβεν. 2405 μεσασμος. 2406 2407 [[1 Corinthians 14#^14-20|1 Cor. xiv. 20]]. 2408 Prov. ix. 12, LXX. 1 Sam. xxviii. 15.
 
 
 *[p. 667]* ^pg675
@@ -495,7 +495,7 @@ Wherefore then doth Christ thus reply to him, saying, “There is none good?”<
 
 And when He saith this self-same thing, He saith it not as depriving even men of goodness, but in contradistinction to the goodness of God. Wherefore also He added, “But one, that is, God;” and He said not, “but my Father,” that thou mightest learn that He had not revealed Himself to the young man. So also further back He called men evil, saying, “If ye, being evil, know how to give good gifts to your children.”<sup>2417</sup> For indeed there too He called them evil, not as condemning the whole race as evil (for by “ye,” He means not “ye men”), but comparing the goodness that is in men with the goodness of God, He thus named
 
-2412 Mark x. 17–21. 2413 1 Tim. vi. 10. \[R.V., “a root of all kinds of evil.”\] 2414 Matt. xix. 17. \[This clause is found in the rec. text, but not in the better supported form of the verse, which reads, “Why askest thou me concerning that which is good? One there is who is good.” It is probable, but not certain, that Chrysostom accepted the other form of the text. Comp. note on Homily XXVII. 5., p. 186.—R.\] 2415 John iv. 22. 2416 John v. 31. 370 \[φησν, “one may say,” occurs in the Greek here.—R.\] 2418 2419 Matt. xix. 20. \[R.V. omits “from my youth up.”\]
+2412 [[Mark 10#^10-17|Mark x. 17–21]]. 2413 [[1 Timothy 06#^6-10|1 Tim. vi. 10]]. \[R.V., “a root of all kinds of evil.”\] 2414 [[Matthew 19#^19-17|Matt. xix. 17]]. \[This clause is found in the rec. text, but not in the better supported form of the verse, which reads, “Why askest thou me concerning that which is good? One there is who is good.” It is probable, but not certain, that Chrysostom accepted the other form of the text. Comp. note on Homily XXVII. 5., p. 186.—R.\] 2415 [[John 04#^4-22|John iv. 22]]. 2416 [[John 05#^5-31|John v. 31]]. 370 \[φησν, “one may say,” occurs in the Greek here.—R.\] 2418 2419 [[Matthew 19#^19-20|Matt. xix. 20]]. \[R.V. omits “from my youth up.”\]
 
 
 *[p. 671]* ^pg679
@@ -525,7 +525,7 @@ But He called it a treasure, showing the plenteousness of the recompense, its pe
 
 See, for example, even here what strength did this passion exhibit. Him that had come to Him with joy and forwardness, when Christ commanded him to cast away his riches, it
 
-2421 Matt. xix. 21. \[R.V., “If thou wouldest,” etc.\] 2422 Matt. xvi. 24. 2423 Matt. xix. 22. \[R.V., “he was one that had,” etc.\]
+2421 [[Matthew 19#^19-21|Matt. xix. 21]]. \[R.V., “If thou wouldest,” etc.\] 2422 [[Matthew 16#^16-24|Matt. xvi. 24]]. 2423 [[Matthew 19#^19-22|Matt. xix. 22]]. \[R.V., “he was one that had,” etc.\]
 
 
 *[p. 673]* ^pg681
@@ -544,7 +544,7 @@ And wherefore are the disciples troubled, being poor, yea, exceedingly poor? Whe
 
 Therefore, having first “beheld them, He said unto them, The things which are impossible with men, are possible with God.” For with a mild and meek look, having soothed their shuddering mind, and having put an end to their distress (for this the evangelist signified by saying, “He beheld them”), then by His words also He relieves them, bringing before them God’s power, and so making them feel confidence.
 
-2425 Matt. xix. 23. \[The citation is a combination of this verse and Mark x. 23. The influence of Mark’s more striking account is seen throughout the Homily.—R.\] βελνην. 2426 2427 \[R.V., with the same Greek text, renders, “to go through a needle’s eye.” The variation in the English above seems unnecessary.—R.\] 2428 Matt. xix. 24.
+2425 [[Matthew 19#^19-23|Matt. xix. 23]]. \[The citation is a combination of this verse and [[Mark 10#^10-23|Mark x. 23]]. The influence of Mark’s more striking account is seen throughout the Homily.—R.\] βελνην. 2426 2427 \[R.V., with the same Greek text, renders, “to go through a needle’s eye.” The variation in the English above seems unnecessary.—R.\] 2428 [[Matthew 19#^19-24|Matt. xix. 24]].
 
 
 *[p. 674]* ^pg682
@@ -559,7 +559,7 @@ But this itself, by what means will it be done? one may say. If thou consider, t
 
 For answer me, whom shall we affirm to be tormented and pained? him that longs after costly meats and drinks, and is not able to enjoy them as he will, or him that hath not such a desire? It is quite clear one must say, him that desires, but cannot obtain what he desires. For this is so painful, to desire and not to enjoy, to thirst and not to drink, that Christ desiring
 
-2430 Matt. xix. 27–29. \[The position of the word “lands” is peculiar; “or wife” is not found here, but occurs in Homily LXIV. 1.—R.\] 2431 \[The following clause is omitted in the translation: “though (or, if) as a whole it seems difficult to them.”—R.\]
+2430 [[Matthew 19#^19-27|Matt. xix. 27–29]]. \[The position of the word “lands” is peculiar; “or wife” is not found here, but occurs in Homily LXIV. 1.—R.\] 2431 \[The following clause is omitted in the translation: “though (or, if) as a whole it seems difficult to them.”—R.\]
 
 
 *[p. 675]* ^pg683
@@ -592,7 +592,7 @@ Therefore they that are without used to call the love of money the citadel<sup>2
 
 Considering then all these things, let us emulate the things worthy of emulation, not gorgeous buildings not costly estates, but the men that have much confidence towards God, those that have riches in Heaven, the owners of those treasures, them that are really rich, them that are poor for Christ’s sake, that we may attain unto the good things of eternity by the grace and love towards man of our Lord Jesus Christ, with whom be unto the Father, together with the Holy Ghost, glory, might, honor, now and always and world without end. Amen.
 
-2434 Mr. Field cites Stobæus, p. 130, 52, of Bion, and Diog. Laert. vi. 50, of Diogenes the cynic, noting that both say μητρπολι, not ἀκρπολι. See Adnot. p. 133. 1 Tim. vi. 10. \[R.V., “a root of all kinds of evil.” 374 2436 Matt. xix. 21.
+2434 Mr. Field cites Stobæus, p. 130, 52, of Bion, and Diog. Laert. vi. 50, of Diogenes the cynic, noting that both say μητρπολι, not ἀκρπολι. See Adnot. p. 133. [[1 Timothy 06#^6-10|1 Tim. vi. 10]]. \[R.V., “a root of all kinds of evil.” 374 2436 [[Matthew 19#^19-21|Matt. xix. 21]].
 
 
 *[p. 678]* ^pg686
@@ -633,7 +633,7 @@ For lest any after having heard the word “ye,” should suppose this a thing p
 
 2438 Jer. xviii. 7–10. 2439 Gen. ix. 2.
 
-2440 Matt. xix. 29. \[The citation differs from that in the last Homily. The order here is that of Tischendorf (not of R.V. or rec. text): “or wife” occurs here; “house” is substituted for “houses.”—R.\] 375 2441 Matt. xii. 27. 2442 Matt. xii. 41. 2443 2 Tim. ii. 12. 2444 Gal. iv. 51.
+2440 [[Matthew 19#^19-29|Matt. xix. 29]]. \[The citation differs from that in the last Homily. The order here is that of Tischendorf (not of R.V. or rec. text): “or wife” occurs here; “house” is substituted for “houses.”—R.\] 375 2441 [[Matthew 12#^12-27|Matt. xii. 27]]. 2442 [[Matthew 12#^12-41|Matt. xii. 41]]. 2443 [[2 Timothy 02#^2-12|2 Tim. ii. 12]]. 2444 Gal. iv. 51.
 
 
 *[p. 680]* ^pg688
@@ -666,7 +666,7 @@ Then He adds also a parable, as training those who had fallen short to a great f
 
 “So when even was come, the lord of the vineyard saith unto his steward, Call the laborers, and give them their hire, beginning from the last unto the first. And when they came that were hired about the eleventh hour, they received every man a penny. And the first supposed that they should receive more, and they received likewise every man a penny. And when they had received it, they murmured against the good man of the house, saying, These last have wrought but one hour, and thou hast made them equal unto us that have borne the burden and heat of the day. But he answered one of them, and said, Friend, I do thee no wrong; didst thou not agree with me for a penny? Take that thine is, and go thy way; I will give unto this last also, even as unto thee. Is it not lawful for me to do what I will with
 
-2446 1 Cor. vii. 15. 2447 Matt. xix. 30. \[“were” is an emendation of the translator. The Greek is that of the rec. text.—R.\]
+2446 [[1 Corinthians 07#^7-15|1 Cor. vii. 15]]. 2447 [[Matthew 19#^19-30|Matt. xix. 30]]. \[“were” is an emendation of the translator. The Greek is that of the rec. text.—R.\]
 
 
 *[p. 682]* ^pg690
@@ -683,7 +683,7 @@ But the question is this, whether the first having gloriously approved themselve
 
 What then is it which is to be established by these things? For in other parables also this self-same thing may be seen. For the son who was approved is brought in, as having felt this self-same thing, when he saw his prodigal brother enjoying much honor, even more than himself. For like as these enjoyed more by receiving first, so he in a greater degree was
 
-2449 Matt. xx. 1. \[This long passage agrees closely with the rec. text. In verses 5, 6, the New Testament narrative is abridged, but there are scarcely any other peculiarities.—R.\] κατ λξιν.
+2449 [[Matthew 20#^20-1|Matt. xx. 1]]. \[This long passage agrees closely with the rec. text. In verses 5, 6, the New Testament narrative is abridged, but there are scarcely any other peculiarities.—R.\] κατ λξιν.
 
 
 *[p. 683]* ^pg691
@@ -700,4 +700,4 @@ This Paul also declared when he said, “When it pleased Him, who separated me f
 
 And if they say, “No man hath hired us,” in the first place as I said we must not be curious about all the points in the parables; but here neither is the good man of the house represented to say this, but they; but he doth not convict them, that he might drive them to perplexity, but might win them over. For that He called all, as far as lay in Him, from the first even the parable shows, saying, that “He went out early in the morning to hire.”
 
-2450 Gal. i. 15.
+2450 [[Galatians 01#^1-15|Gal. i. 15]].

@@ -20,17 +20,13 @@ nyasa: "mouth (*vaktra*)"
 ## Front
 
 - **Glyph:** आ
-- **Variation:** a variant form, drawn only as a numbered stroke diagram (not copied here)
 - **Example:** आसन
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘f<u>a</u>ther’
-- **Class (as printed):** 1 (guttural) · long, soft · simple vowel
-- **Note (no printed label):** Full form - used only to begin a word.
-- **Grid:** the vowels अ आ इ ई उ ऊ / ए ऐ ओ औ; in bold: आ
-- **Example:** āsana (seat)
+> [!note]- Back
+> - **Pronunciation:** As in ‘f<u>a</u>ther’
+> - **Class:** guttural · long, soft · simple vowel
+> - अ <u>आ</u> इ ई उ ऊ / ए ऐ ओ औ
+> - **Example:** āsana (seat)
 
 ## Register
 

@@ -30,7 +30,7 @@ sa siddhibhāgbhavennityaṃ sa yogī sa ca dīkṣitaḥ || ^iast
 > [!source] Dyczkowski, vol. III
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 03 (Dyczkowski)/Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#^pg78|p. 65]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 03.pdf#page=78>))
 >
-> It is said in the (Parā)trimśikā that: ‘Whoever knows (this reality) as it truly is (tattvatah) is always successful (siddhibhāk), even though he has not (been initiated and so has not) seen the mandala. He indeed is a (true) yogi and initiate.’ 12 ‘He who knows (reality) thus as it truly is has the initiation that leads to Nirvāṇa! (with 4.49–50)
+> It is said in the (Parā)trimśikā that: ‘Whoever knows (this reality) as it truly is (tattvatah) is always successful (siddhibhāk), even though he has not (been initiated and so has not) seen the mandala. He indeed is a (true) yogi and initiate.’ 12 ‘He who knows (reality) thus as it truly is has the initiation that leads to Nirvāṇa!’ (with 4.49–50)
 
 ## Viveka
 

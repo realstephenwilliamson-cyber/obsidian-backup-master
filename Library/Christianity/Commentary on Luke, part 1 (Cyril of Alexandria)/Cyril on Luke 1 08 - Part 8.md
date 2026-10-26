@@ -44,7 +44,7 @@ And this the purport of the passage from the Gospels just placed before us teach
 
 *[p. 259]* ^pg283
 
-‘eagerly promising to follow Him constantly? For one may ‘learn from His own words, that to follow Him leads on to every ‘ blessing: for He said, “ He that followeth Me, walketh not in John viii. ‘« darkness, but possesseth the light of life.” What therefore ae ‘was there improper in promising to follow Him, in order to ‘ gain the light of life’? What then is our answer to this? That this was not his object. How could it be? For it is easy for any who will examine such matters accurately, to perceive that in the first place there was great ignorance in his manner of drawing near; and secondly, that it was full of excessive presumptuousness. For his wish was not simply to follow Christ, as so many others of the Jewish multitude did, but rather to thrust himself into apostolic honours. This then was the following which he was seeking for, being self-called thereto: whereas the blessed Paul writes, “ that no man taketh Heb. v. 4. “ the honour unto himself unless he be called of God, as Aaron “ also was.’ For Aaron did not enter upon the priesthood of himself, but on the contrary was called of God. And of every one of the holy apostles we find, that he did not promote himself to the apostleship, but rather received the honour from Christ. For He said, “ Come after Me; and I will make you to Mark i. 17. “ become fishers of men.” But this man, as I said, boldly took upon himself gifts thus altogether honourable, and, though no one called him, thrust himself into that which was above his rank. Now were any one to draw near to an earthly king, and say, “1 shall promote myself, even though thou grantest “it not, to this or that honour, whatever it may be ;” it would be a dangerous act, and one that would bring upon him the loss often even of his life. Who can doubt that certainly this would be the result ?, For in every matter we must await the decision of him who possesses sovereign authority. How then could it be fitting for this man to appoint himself among the disciples, and crown himself with apostolic powers, without
+‘eagerly promising to follow Him constantly? For one may ‘learn from His own words, that to follow Him leads on to every ‘ blessing: for He said, “ He that followeth Me, walketh not in John viii. ‘« darkness, but possesseth the light of life.” What therefore ae ‘was there improper in promising to follow Him, in order to ‘ gain the light of life’? What then is our answer to this? That this was not his object. How could it be? For it is easy for any who will examine such matters accurately, to perceive that in the first place there was great ignorance in his manner of drawing near; and secondly, that it was full of excessive presumptuousness. For his wish was not simply to follow Christ, as so many others of the Jewish multitude did, but rather to thrust himself into apostolic honours. This then was the following which he was seeking for, being self-called thereto: whereas the blessed Paul writes, “ that no man taketh [[Hebrews 05#^5-4|Heb. v. 4]]. “ the honour unto himself unless he be called of God, as Aaron “ also was.’ For Aaron did not enter upon the priesthood of himself, but on the contrary was called of God. And of every one of the holy apostles we find, that he did not promote himself to the apostleship, but rather received the honour from Christ. For He said, “ Come after Me; and I will make you to [[Mark 01#^1-17|Mark i. 17]]. “ become fishers of men.” But this man, as I said, boldly took upon himself gifts thus altogether honourable, and, though no one called him, thrust himself into that which was above his rank. Now were any one to draw near to an earthly king, and say, “1 shall promote myself, even though thou grantest “it not, to this or that honour, whatever it may be ;” it would be a dangerous act, and one that would bring upon him the loss often even of his life. Who can doubt that certainly this would be the result ?, For in every matter we must await the decision of him who possesses sovereign authority. How then could it be fitting for this man to appoint himself among the disciples, and crown himself with apostolic powers, without
 
 being called thereunto at all by Christ ?
 
@@ -78,13 +78,13 @@ And this we affirm that He said, not of the material and visible birds, but rath
 
 « Let us therefore cleanse ourselves from every stain of the flesh, and of the spirit.” ‘‘ Let us put to death those mem- “bers which are upon the earth.” Let us close the entrance to impure spirits. Let not reprobate and wicked birds lodge within us. Let our heart be holy and unpolluted, as far as is possible and may be. For so shall we follow Christ, according as He giveth us the grace, and He will dwell joyfully in us. For then He will have where to lay His head, and rest in us as in saints. For it is written; “‘ Become ye holy, because “Tam holy.” And devoting ourselves to these earnest pursuits, we shall also attain to the city that is above, by the aid of the same Christ: by Whom, and with Whom, to God the Father be praise and dominion with the Holy Ghost, for ever and ever, Amen.
 
-2 Cor. xiii. 3.
+[[2 Corinthians 13#^13-3|2 Cor. xiii. 3]].
 
-2Cor.vi.16.
+[[2 Corinthians 06#^6-16|2Cor.vi.16]].
 
 2 Cor. vii 1. Col. ili. 5.
 
-1 Pet. i. 16.
+[[1 Peter 01#^1-16|1 Pet. i. 16]].
 
 *[p. 262]* ^pg286
 
@@ -100,7 +100,7 @@ om. 6 'In-cous BT.
 
 Is. liv. 13.
 
-Heb. i. 1.
+[[Hebrews 01#^1-1|Heb. i. 1]].
 
 SERMON LVIII.
 
@@ -130,7 +130,7 @@ Deut. vi. 3.
 
 Ex. xx. 12.
 
-Mat. x. 37.
+[[Matthew 10#^10-37|Mat. x. 37]].
 
 them a dead mind, nor as yet have been numbered among those who possess the life that isin Christ. From this, then, we learn, that the fear of God is to be set even above the reverence and love due to parents. or the law of Moses also, while it commanded, in the first place, that “thou shalt love “ the Lord God with all thy soul, and all thy might, and all “ thy heart :” put as second to it the honour due to parents, saying, “ Tonour thy father and thy mother.”
 
@@ -140,7 +140,7 @@ So was that thrice-blessed Abraham tried: so was he justified, and called the fr
 
 *[p. 265]* ^pg289
 
-surpassing honours. For what can equal in the balance the being a friend of God? What can this world offer comparable with a grace so glorious and admirable? He had one only-begotten and beloved son, who, after long delay, and scarcely, and in his old age had been given him. Upon him too rested all his hope of offspring: for it was said to him: “In Isaac shall thy seed be called.” But as the sacred Gen.xxi.r2. Scripture saith, “God tried Abraham, saying: Take thy be- Gen.xxii.2. “ loved son, even him whom thou lovest, Isaac, and go to the “high land, and offer him to Me for a whole burnt-offering, “‘ upon one of the mountains that I will tell thee.” Was God trying Abraham, as not foreknowing what wonld happen, and waiting to learn the result? But how can this be true? For He knows all things before they happen. Why therefore did He try him? That we by the fact might learn the old man’s love of God, and ready obedience, and unchanging earnestness in the dutiful performance of God’s will. And observe how God made him, so to speak, unready for the aet, that the patriarch might obtain the more worthy admiration, as preferring nothing to his Lord’s will. “Take,” He says, not simply Isaac, but “ thy son: the beloved one ;—him whom thou hast “loved.” This strengthened in his case the sting of natural affection. Oh! how mighty a turmoil of bitter thoughts rose up in the old man! For the force of innate affection naturally called him to compassion for the child. He had wished to be a father: for he had even lamented his childlessness unto God, when He promised to give him all that land which had been told him, and said, “ Lord, what givest Thou me? ‘and I dwell Gen. xv. 2. “ childless.” The law, therefore, of natural affection urged him to spare the lad; while the power of love towards God ealled him to ready obedience: and he was like some tree, driven to and fro by the violence of the winds; or like a ship at sea, reeling, so to speak, and staggering by the beating of the waves. But there was one true and powerful thought to which he held fast. For he considered, that though the lad were slain, and became the work and victim of the fire, as being a whole burnt-offering, well-pleasing to God: yet that He “ was not unable to raise him up again, even from the Heb. xi.19. “ dead.”
+surpassing honours. For what can equal in the balance the being a friend of God? What can this world offer comparable with a grace so glorious and admirable? He had one only-begotten and beloved son, who, after long delay, and scarcely, and in his old age had been given him. Upon him too rested all his hope of offspring: for it was said to him: “In Isaac shall thy seed be called.” But as the sacred Gen.xxi.r2. Scripture saith, “God tried Abraham, saying: Take thy be- Gen.xxii.2. “ loved son, even him whom thou lovest, Isaac, and go to the “high land, and offer him to Me for a whole burnt-offering, “‘ upon one of the mountains that I will tell thee.” Was God trying Abraham, as not foreknowing what wonld happen, and waiting to learn the result? But how can this be true? For He knows all things before they happen. Why therefore did He try him? That we by the fact might learn the old man’s love of God, and ready obedience, and unchanging earnestness in the dutiful performance of God’s will. And observe how God made him, so to speak, unready for the aet, that the patriarch might obtain the more worthy admiration, as preferring nothing to his Lord’s will. “Take,” He says, not simply Isaac, but “ thy son: the beloved one ;—him whom thou hast “loved.” This strengthened in his case the sting of natural affection. Oh! how mighty a turmoil of bitter thoughts rose up in the old man! For the force of innate affection naturally called him to compassion for the child. He had wished to be a father: for he had even lamented his childlessness unto God, when He promised to give him all that land which had been told him, and said, “ Lord, what givest Thou me? ‘and I dwell Gen. xv. 2. “ childless.” The law, therefore, of natural affection urged him to spare the lad; while the power of love towards God ealled him to ready obedience: and he was like some tree, driven to and fro by the violence of the winds; or like a ship at sea, reeling, so to speak, and staggering by the beating of the waves. But there was one true and powerful thought to which he held fast. For he considered, that though the lad were slain, and became the work and victim of the fire, as being a whole burnt-offering, well-pleasing to God: yet that He “ was not unable to raise him up again, even from the [[Hebrews 11#^11-19|Heb. xi.19]]. “ dead.”
 
 *[p. 266]* ^pg290
 
@@ -152,7 +152,7 @@ Mat. xxiii.
 
 9:
 
-John i. 11,
+[[John 01#^1-11|John i. 11]],
 
 Mal. i. 6.
 
@@ -228,7 +228,7 @@ Such were those of whom Christ spake, when forming that similitude in the Gospel
 
 joy. Whoever would follow Christ, let him be thoroughly constant, and intent solely upon this end; let him not be divided ; let him not be possessed by timidity and slothfulness ; let him be free from all carnal lust, and prefer nothing to his love unto Him. But if he be not so disposed, nor so affected in his will, even if he do draw near, he will not be accepted.
 
-Something of this sort the law of Moses also has taught us indirectly in figure. For whenever, as emergencies arose, the children of Israel went out to battle against their enemies, before they engaged in the combat, the herald of the host made proclamation, “ Whosoever hath betrothed a wife, and Deut.xx.7. “ hath not taken her, let him return to his house, that he dic \* not in battle, and another man take her. Whosoever hath “ built a new house, and hath not dedicated it, let him return “ to his house, that he die not in battle, and another dedicate it. “« Whosoever is frightened in his heart, let him return to his ‘house, that he make not the heart of his brother frightened “as his own.” Thou seest that the man who loves the world, or wealth, and whosoever is full of excuses, is not every where in his place: but we shall find the holy apostles very different from such as these. For when they heard Christ saying, Mark i. 17. “ Follow Me, and I will make you to become fishers of men: “ they, it says, at once left the ship and their father, and fol- “ lowed Him.” And the wise Paul also writes, “ But when God Gal. 1. 15. \* willed to reveal unto me His Son, immediately I counselled “ not with flesh and blood.’ Thou seest the valiant mind, and the brave and hearty purpose, not subject to the bonds of indolence, but superior to all cowardice and fleshly lust. Such must they be who would follow Christ: not looking behind them, not walking, that is, so to speak, backwards, and turning their faces from that manly virtue which becometh saints, and excusing themselves from the duty of labouring: not loving things temporal, not of a double mind, but hastening onwards with perfect zeal to that which is well pleasing to Christ: by Whom and with Whom, to God the Father be praise and dominion, with the Holy Ghost, for ever and ever, Amen.
+Something of this sort the law of Moses also has taught us indirectly in figure. For whenever, as emergencies arose, the children of Israel went out to battle against their enemies, before they engaged in the combat, the herald of the host made proclamation, “ Whosoever hath betrothed a wife, and Deut.xx.7. “ hath not taken her, let him return to his house, that he dic \* not in battle, and another man take her. Whosoever hath “ built a new house, and hath not dedicated it, let him return “ to his house, that he die not in battle, and another dedicate it. “« Whosoever is frightened in his heart, let him return to his ‘house, that he make not the heart of his brother frightened “as his own.” Thou seest that the man who loves the world, or wealth, and whosoever is full of excuses, is not every where in his place: but we shall find the holy apostles very different from such as these. For when they heard Christ saying, [[Mark 01#^1-17|Mark i. 17]]. “ Follow Me, and I will make you to become fishers of men: “ they, it says, at once left the ship and their father, and fol- “ lowed Him.” And the wise Paul also writes, “ But when God Gal. 1. 15. \* willed to reveal unto me His Son, immediately I counselled “ not with flesh and blood.’ Thou seest the valiant mind, and the brave and hearty purpose, not subject to the bonds of indolence, but superior to all cowardice and fleshly lust. Such must they be who would follow Christ: not looking behind them, not walking, that is, so to speak, backwards, and turning their faces from that manly virtue which becometh saints, and excusing themselves from the duty of labouring: not loving things temporal, not of a double mind, but hastening onwards with perfect zeal to that which is well pleasing to Christ: by Whom and with Whom, to God the Father be praise and dominion, with the Holy Ghost, for ever and ever, Amen.
 
 *[p. 272]* ^pg296
 
@@ -291,7 +291,7 @@ Num. xi.
 
 Ex. xv. 23.
 
-Heb. x. 28.
+[[Hebrews 10#^10-28|Heb. x. 28]].
 
 Actsxv.10.
 
@@ -317,7 +317,7 @@ has here preserved the name of this
 
 find twelve wells, that is, the holy Apostles: and seventy palm trees, those, namely, who were appointed by Christ. And very excellently the disciples are compared to wells, and the seventy, who were subsequently chosen, to palm trees. For as from holy wells we draw from the disciples of our Saviour the knowledge of all good: while we praise the seventy also, and, so to speak, call them palms; for this tree is strong-hearted, and firm of root, and very fruitful, and constantly grows besides the waters. And such we affirm the saints to be: for their mind is pure, and steadfast, and fruitful, and habitually delights itself in the waters of knowledge.
 
-Therefore, to return again to what we were at first saying, the Lord “appointed other seventy.” But some may perchance imagine that the former had been dismissed, and deprived of the honours of the apostleship ; and that these were promoted in their stead, as being better able to teach than they were. To remoye therefore such thoughts from our minds, He Who knoweth hearts, and is acquainted with things to come, even as it were apologized, saying, “ The harvest “indeed is great; but the labourers are few: pray therefore “the Lord of the harvest to send forth labourers into His “ harvest.” For just as lands covered thick with produce, and broad and long, require numerous and able labourers ; so the whole earth, or rather the company of those about to believe in Christ, being great and innumerable, required not a few teachers, but as many as would suffice for the work. And for this reason Christ appointed those who were to be the allies, so to speak, and assistants of the twelve disciples. They went therefore on their mission, being sent two and two to every city and village, crying, as it were, in the words of John, “ Prepare Mat. iii. 3.
+Therefore, to return again to what we were at first saying, the Lord “appointed other seventy.” But some may perchance imagine that the former had been dismissed, and deprived of the honours of the apostleship ; and that these were promoted in their stead, as being better able to teach than they were. To remoye therefore such thoughts from our minds, He Who knoweth hearts, and is acquainted with things to come, even as it were apologized, saying, “ The harvest “indeed is great; but the labourers are few: pray therefore “the Lord of the harvest to send forth labourers into His “ harvest.” For just as lands covered thick with produce, and broad and long, require numerous and able labourers ; so the whole earth, or rather the company of those about to believe in Christ, being great and innumerable, required not a few teachers, but as many as would suffice for the work. And for this reason Christ appointed those who were to be the allies, so to speak, and assistants of the twelve disciples. They went therefore on their mission, being sent two and two to every city and village, crying, as it were, in the words of John, “ Prepare [[Matthew 03#^3-3|Mat. iii. 3]].
 
 ye the way of the Lord.”
 
@@ -351,7 +351,7 @@ compares the seventy disciples to the palm trees in Elim, is contained in a brie
 
 sage, rightly assigned by Cramer to
 
-Cyril, but at the end of which the Catenist has referred his readers to his collections on St. Matthew's Gospel for the explanation of Luke x. 2, 7, and 16, has evidently puz-Mai puts one full stop between the verb mpoeypaero, and ra dxddovda its nominative case: but Cramer puts two full stops, and begins the verb with a capital letter. Nor is this by any means a solitary instance on the part of this latter editor, of his punctuation rendering his text unintelligible. (Cf. ii. p. 85, last three lines.) In his next page, he again contains a passage belonging to Cyril, but given under the name of Titus of Bostra: followed by one which really does belong to this writer.
+Cyril, but at the end of which the Catenist has referred his readers to his collections on St. Matthew's Gospel for the explanation of [[Luke 10#^10-2|Luke x. 2]], [[Luke 10#^10-7|7]], and [[Luke 10#^10-16|16]], has evidently puz-Mai puts one full stop between the verb mpoeypaero, and ra dxddovda its nominative case: but Cramer puts two full stops, and begins the verb with a capital letter. Nor is this by any means a solitary instance on the part of this latter editor, of his punctuation rendering his text unintelligible. (Cf. ii. p. 85, last three lines.) In his next page, he again contains a passage belonging to Cyril, but given under the name of Titus of Bostra: followed by one which really does belong to this writer.
 
 *[p. 277]* ^pg301
 
@@ -363,7 +363,7 @@ FIT TO BE READ AT THE COMMEMORATIONS
 
 OF THE APOSTLES.
 
-Go:- behold, I send you as sheep among wolves, C. x. 3. : a . om. éya ALL those who praise the divine and sacred Word cor- pr. y rectly, and without error, are, we affirm, the allies of the doctrines of truth, and its best teachers; well knowang how to guide whosoever wish to advance in Christ, rightly unto every good work, and to the life incorruptible, and to participation in the blessings bestowed upon us. Of these most wise Paul also declares, that they are “the lights of the world, holding Phil. ii. 15. “ the word of life.’’
+Go:- behold, I send you as sheep among wolves, C. x. 3. : a . om. éya ALL those who praise the divine and sacred Word cor- pr. y rectly, and without error, are, we affirm, the allies of the doctrines of truth, and its best teachers; well knowang how to guide whosoever wish to advance in Christ, rightly unto every good work, and to the life incorruptible, and to participation in the blessings bestowed upon us. Of these most wise Paul also declares, that they are “the lights of the world, holding [[Philippians 02#^2-15|Phil. ii. 15]]. “ the word of life.’’
 
 Now of these illustrious and famous men the divine disciples were the commencement, and stand foremost in order: for they had as a schoolmaster Him Who is the Giver of all understanding; and Who richly bestoweth His light upon those who love Him. For He is the true light Who illumineth the heavens, even the powers who are above; and delivereth from ignorance and darkness those also upon earth. And observe how He made the appointed teachers of all beneath the sun to be ready workinen, conspicuous for their earnest zeal, and able to win the glory of apostolic victories ; preferring none of this world’s affairs to the duty of proclaiming their sacred message, and so bravely disposed in their manly mind as to be superior to all fear, and no whit terrified at hardships, nor alarmed at death itself, when brought upon them for Christ’s sake. For “ go,” He says: and in this word “ go,” He encourages them to be courageous; makes them eagerly desirous of saintly victories ; establishes them in the steadfast resjstance of all temptation; and permits them not to shrink from the violence of persecutions. For just as valiant generals, when the battle begins, and the enemy discharge their shafts, encourage those under their command bravely to resist the attacking foe, and to bear themselves manfully against the enemy ; using such words as these ; ‘ Fellow soldiers, let none of these things that
 
@@ -381,7 +381,7 @@ divine Jacob had in his blessings before announced concerning him : “ Benjamin
 
 And thus much then brietly respecting the blessed Paul: but let us next discuss from a similar point of view the calling of nations. Let us see whether they too also were not at one time beasts of prey, and fiercer than wolves against the ministers of the gospel message of salvation, but were transformed unto the gentleness and guilelessness which are by Christ’s help. They too persecuted the holy apostles, not so much like men struggling with wolves, as like beasts of prey, raging savagely against sheep. And though they wronged them not, but rather called them to salvation, they stoned them, they imprisoned them, they persecuted them from city to city. And yet those, who thus acted at first, afterwards became gentle and guileless, and like the sheep which once they persecuted.
 
-And who else accomplisheth all these things but Jesus Christ our Lord? For He also it is ‘‘ Who hath broken down the Eph. ii. 14. “fence wall that was in the middle, abolishing the law of com- ‘“‘mandments contained in doctrines; Who hath made the two “nations into one new man; Who hath made peace, and re- “ conciled both in one body unto the Father.” For that there have been joined unto the faith in concord and unity of mind and will, the savage in company with the gentle; the impure and sin-stained with the saints ; those, that is, of the herds of the Gentiles with those of Israel who believed; the prophet Isaiah shews, thus speaking in the Spirit: “ And the wolf shall Is. xi. 6. “ graze with the lamb; and the leopard vest with the kid; ‘and the bear and the cow shall graze together ; and the ox “and the lion eat provender together, and their young ones “shall be with one another.” Consider, my beloved, and understand that those who were sanctified by faith did not con-
+And who else accomplisheth all these things but Jesus Christ our Lord? For He also it is ‘‘ Who hath broken down the [[Ephesians 02#^2-14|Eph. ii. 14]]. “fence wall that was in the middle, abolishing the law of com- ‘“‘mandments contained in doctrines; Who hath made the two “nations into one new man; Who hath made peace, and re- “ conciled both in one body unto the Father.” For that there have been joined unto the faith in concord and unity of mind and will, the savage in company with the gentle; the impure and sin-stained with the saints ; those, that is, of the herds of the Gentiles with those of Israel who believed; the prophet Isaiah shews, thus speaking in the Spirit: “ And the wolf shall Is. xi. 6. “ graze with the lamb; and the leopard vest with the kid; ‘and the bear and the cow shall graze together ; and the ox “and the lion eat provender together, and their young ones “shall be with one another.” Consider, my beloved, and understand that those who were sanctified by faith did not con-
 
 *[p. 280]* ^pg304
 
@@ -425,13 +425,13 @@ Now these fair and good words, what else are they than those certainly which Chr
 
 Yor verily it was fitting and necessary that those who were adorned with apostolic honours, should have a mind free from covetousness, and altogether averse from the receiving of gifts, and content, on the contrary, with what God provides. “ For “the love of money is the root of all evils” as Scripture declares. They, therefore, in every way must be free and exempt from that which is the root and nourisher of all evils, and must expend, so to say, all their zeal upon their necessary
 
-Ps. lv. 22. Mat. vi. td tn 1 Tim vi. 10.
+Ps. lv. 22. Mat. vi. td tn [[1 Timothy 06#^6-10|1 Tim vi. 10]].
 
 *[p. 283]* ^pg307
 
 duties, not being exposed to Satan’s attack, as taking with them no worldly wealth, but despising the things of the flesh, and desiring only what God wills.
 
-For just as brave soldiers when they go out to battle carry nothing with them but such equipments only as are snitable for war, so also it was right that those who were sent out by Christ to carry aid to the world, and wage war in behalf of all who were in danger against the “ world-rulers of this dark- Eph. vi. 12. “ness,” yea, and against Satan himself, should be free from the distractions of this world, and from all worldly anxiety ; that being tightly girt, and elad in spiritual armour, they might contend mightily with those who resisted the glory of Christ, and had made all beneath the heaven their prey. For they had caused its inhabitants to worship the creature instead of the Creator, and to offer religious service to the elements of the world. Armed, therefore, with the shield of faith, and the Eph. vi. 16. breastplate of righteousness, and the sword of the Spirit, which is the Word of God, they must prove themselves invincible antagonists to their enemies ; and not drag after them a heavy load of things worthy of blame and condemnation: such as are the love of wealth and hoards of base gains, and eagerness after them: for these things turn aside the mind of man from that behaviour which pleaseth God, and permit it not to mount upward to Him, but humble it rather to feelings set upon dust,
+For just as brave soldiers when they go out to battle carry nothing with them but such equipments only as are snitable for war, so also it was right that those who were sent out by Christ to carry aid to the world, and wage war in behalf of all who were in danger against the “ world-rulers of this dark- [[Ephesians 06#^6-12|Eph. vi. 12]]. “ness,” yea, and against Satan himself, should be free from the distractions of this world, and from all worldly anxiety ; that being tightly girt, and elad in spiritual armour, they might contend mightily with those who resisted the glory of Christ, and had made all beneath the heaven their prey. For they had caused its inhabitants to worship the creature instead of the Creator, and to offer religious service to the elements of the world. Armed, therefore, with the shield of faith, and the [[Ephesians 06#^6-16|Eph. vi. 16]]. breastplate of righteousness, and the sword of the Spirit, which is the Word of God, they must prove themselves invincible antagonists to their enemies ; and not drag after them a heavy load of things worthy of blame and condemnation: such as are the love of wealth and hoards of base gains, and eagerness after them: for these things turn aside the mind of man from that behaviour which pleaseth God, and permit it not to mount upward to Him, but humble it rather to feelings set upon dust,
 
 and earthly things.
 
@@ -446,7 +446,7 @@ word for salutation is domafopa, amplecti: in Rome they said Salve,
 
 *[p. 284]* ^pg308
 
-Mat. ix. 13.
+[[Matthew 09#^9-13|Mat. ix. 13]].
 
 ‘peace of any one by the way.” But what harm would this have done the holy apostles? Come, therefore, come, and let us see the reason why it was not right for them to offer greeting to those that met them. Thou doubtless wilt say that it was because it might sometimes happen that those who met then were not believers: and that therefore it would not have been right for those who were ignorant of Him Who by nature and verily is God to be blessed by them. What, therefore, do we say to this? Does it not then seem an incredible supposition that this was the reason why they were commanded not to ask of the peace of any one by the way? For they were sent forth “not so much to call the righteous as “sinners to repentance.” And how, therefore, was it not fitting that they who were about to enlighten all who were in darkness, and to bring them unto the acknowledgment of the truth, sheuld rather use gentleness and great kindliness instead of roughly withdrawing themselves from associating with them, and even refusing to ask of their health? For certainly with other good qualities, gentleness of address becometh the saints, and greetings, provided they are made in a fitting manner. And, moreover, those who met them would, of course, sometimes not be unbelievers, but men of their own persuasion, or™ who had already been enlightened, and to whom it would even be their duty to offer an acknowledgment
 
@@ -456,11 +456,11 @@ What, therefore, does Christ teach by this? He does not enjoin them to be rude, 
 
 day Orientals greet by saying, Peace
 
-be to you; to which the answer is, And to you peace: Cf. also John xx. 26: it is thus that the word for peace, Salaam, has become equivalent with us to salutation.
+be to you; to which the answer is, And to you peace: Cf. also [[John 20#^20-26|John xx. 26]]: it is thus that the word for peace, Salaam, has become equivalent with us to salutation.
 
 m The use of this conjunction
 
-leads to the conclusion that ‘“ by “having been enlightened” is meant having been baptized: and thus two stages of feeling would be marked in those who might meet them; they might either be men disposed to look favourably upon the labours of the Apostles, or they might even have publicly acknowledged their convictions, and been received into the church by baptism. That doti¢w constantly has this meaning is well known, and the Peschito, which often is rather a paraphrase than a translation, renders dwrtaOévras in Heb. vi. 4. by “ who ‘have gone down to baptism ;” and in Heb. x. 32. by “ye have received
+leads to the conclusion that ‘“ by “having been enlightened” is meant having been baptized: and thus two stages of feeling would be marked in those who might meet them; they might either be men disposed to look favourably upon the labours of the Apostles, or they might even have publicly acknowledged their convictions, and been received into the church by baptism. That doti¢w constantly has this meaning is well known, and the Peschito, which often is rather a paraphrase than a translation, renders dwrtaOévras in [[Hebrews 06#^6-4|Heb. vi. 4]]. by “ who ‘have gone down to baptism ;” and in [[Hebrews 10#^10-32|Heb. x. 32]]. by “ye have received
 
 “\* baptism.”
 
@@ -470,17 +470,17 @@ the disciples were travelling about among the cities and villages, to struct men
 
 Besides this He further commanded them “ not to give “ holiness to dogs, nor again to cast the pearls before swine,” by bestowing upon unbelievers their society in lodging with them: they were rather to grant it to such as were worthy of having it deigned them, by being sons of peace, and yielding obedience to their message. For it would have been a most disgraceful act for them to wish to be intimate with any who were still resisting Christ’s glory, and guilty of the charge of ungodliness. “ For what part hath the believer with “the unbeliever?” For how eould those who had not as yet even listened to their words, but made their instruction, however worthy it was of being embraced, an occasion sometimes even of ridicule, receive them as meriting their admiration ? So too at Athens some once ridiculed the divine Paul. For he indeed taught them “that God dwelleth not in temples made “ with hands,” being incorporeal and infinite, and That Which filleth all, but is contained by none: and deelared that he preached unto them “ Him Whom though they knew Him not, “they imagined they rightly worshipped.” But they being given up to superciliousness, and greatly priding themselves on their fluent tongue, said in their folly, “ What would this seed- “‘picker™ say? For he seemeth to be a setter forth of
 
-nS. Cyril explains owepyoddyos applied by the Athenians contemptin almost the same terms as Theo- uously to the worthless fellows who phylact, and others of the Fathers. hung about the market-place to pick Casaubon, however, from Eusta- up any thing that might fall: and thius, has shewn that the word was hence the explanations given in Sui-Mat. vii. 6.
+nS. Cyril explains owepyoddyos applied by the Athenians contemptin almost the same terms as Theo- uously to the worthless fellows who phylact, and others of the Fathers. hung about the market-place to pick Casaubon, however, from Eusta- up any thing that might fall: and thius, has shewn that the word was hence the explanations given in Sui-[[Matthew 07#^7-6|Mat. vii. 6]].
 
 2Cor.vi.1 5.
 
-Acts xvii. 24.
+[[Acts 17#^17-24|Acts xvii. 24]].
 
 *[p. 286]* ^pg310
 
 1Cor.ix..1.
 
-2 Cor. ix. 7.
+[[2 Corinthians 09#^9-7|2 Cor. ix. 7]].
 
 ‘foreign gods.” Seed-picker was the name they gaye to a worthless bird, whose habit it was to pick up the seeds seattered on the roads: and in comparing to it the divine Paul, these foolish men were ridiculing the word of salvation then offered them.
 
@@ -512,9 +512,9 @@ P S. Cyril has passed over with- Christ's teaching. On several other out notice,
 
 *[p. 288]* ^pg312
 
-2Cor. xiii. 3.
+[[2 Corinthians 13#^13-3|2Cor. xiii. 3]].
 
-Mat. x. 20.
+[[Matthew 10#^10-20|Mat. x. 20]].
 
 Against the Arians.
 
@@ -522,15 +522,15 @@ Against the Arians.
 
 Inevitable therefore is the guilt decreed against the wicked heretics, who reject the words of the holy apostles and evanyelists, and pervert them to that meaning only which without due examination seems to them to be right. These fall from the straight way, and wander from the doctrines of piety, « deceiving, and being deceived.” For while, so to speak, they have bidden farewell to the sacred Scriptures, “they speak of “ their own heart, and not out of the mouth of the Lord,” as Scripture saith. For though the blessed evangelist John wrote to us, that “in the beginning was the Word, and the Word “ was with God, and the Word was God ;” they drag to the exact opposite both the tenet concerning Ilim, and the quotation which proves it: saying that the only begotten Word of God was not in the beginning, nor very God, and that He was not even with God; that is, in union with Him by nature, inasmuch as He Who is incorporeal cannot be imagined to be in any place. These most audacious men even say that He was made, and measure out for \[im such glory as they forsooth please: for they elevate Him above created things, as far as the language goes of praise. And in inventing for Him this ere and naked majesty, they imagine that they are doing something wise, or even pious: not understanding that if in any respect He be regarded as a created being, it[^4] avails Him
 
-Jer, xxiii. 16. John i. 1.
+Jer, xxiii. 16. [[John 01#^1-1|John i. 1]].
 
 [^4]: Namely, the position invented considered Him greater than all for our Lord by the Arians, who created beings, but less than God.
 
 *[p. 289]* ^pg313
 
-nothing for the proof of His being really God: and that if in any respect He be made, and His nature similar to that (of things which are made), that then it follows, as they (virtually) affirm, that He was not in the beginning. For one who is made is not without beginning. How therefore does the wise Paul say, “ By Him the Father made the worlds?” For if He Heb. i. 2. were created, He had, as I said, a beginning of existence, and there must have been a time previous to His existenee : and there must have been a time also, in which even the Father apparently was not that which the name signifies, but on the contrary, not a Father at all by nature. The word therefore that has come to us concerning Him is untrue, as also is that respeeting the Son; and both forsooth are falsely so ealled.
+nothing for the proof of His being really God: and that if in any respect He be made, and His nature similar to that (of things which are made), that then it follows, as they (virtually) affirm, that He was not in the beginning. For one who is made is not without beginning. How therefore does the wise Paul say, “ By Him the Father made the worlds?” For if He [[Hebrews 01#^1-2|Heb. i. 2]]. were created, He had, as I said, a beginning of existence, and there must have been a time previous to His existenee : and there must have been a time also, in which even the Father apparently was not that which the name signifies, but on the contrary, not a Father at all by nature. The word therefore that has come to us concerning Him is untrue, as also is that respeeting the Son; and both forsooth are falsely so ealled.
 
-And how then, I pray, can we believe the Son in saying, “ \[ John xiv.6. am the Truth ;” for how is He the truth, Who is not what His name implies? Or how must not Paul be false in his words, when he thus writes, “ For the Son of God, Jesus Christ, Who 2 Cor. i. 19. “‘ was preached unto you by me, and Sylvanus, and Timotheus, “ was not yea and nay?” For how was Ie not yea and nay, if He is said to be God, and is not God by nature? if He is called a Son, and was not begotten of the Father? if the divinely inspired Seripture saith, that the worlds were made by Him, and there was a time before He existed? if all things were brought into being by His means, and He is Himself one of them, in that He is regarded as a thing made? if He is called the only begotten, and is not so in truth? For the things that have been made, those, I mean, which have been brought into existence from non-existence by having been created, are, so to speak, akin to one another.
+And how then, I pray, can we believe the Son in saying, “ \[ [[John 14#^14-6|John xiv.6]]. am the Truth ;” for how is He the truth, Who is not what His name implies? Or how must not Paul be false in his words, when he thus writes, “ For the Son of God, Jesus Christ, Who [[2 Corinthians 01#^1-19|2 Cor. i. 19]]. “‘ was preached unto you by me, and Sylvanus, and Timotheus, “ was not yea and nay?” For how was Ie not yea and nay, if He is said to be God, and is not God by nature? if He is called a Son, and was not begotten of the Father? if the divinely inspired Seripture saith, that the worlds were made by Him, and there was a time before He existed? if all things were brought into being by His means, and He is Himself one of them, in that He is regarded as a thing made? if He is called the only begotten, and is not so in truth? For the things that have been made, those, I mean, which have been brought into existence from non-existence by having been created, are, so to speak, akin to one another.
 
 But we follow not the vain words of these men, in disregard of the declarations of the holy apostles and evangelists. We reject not them, that we may not reject Christ, and with Him and by Him the Father. We believe that the Only-begotten Word of God is God, and was begotten of God by nature:
 
@@ -585,7 +585,7 @@ Who then is He That hath destroyed his might, and humbled him to this misery? Pl
 
 Acts iy. 33.
 
-Eph. vi. 12.
+[[Ephesians 06#^6-12|Eph. vi. 12]].
 
 Ps. Ixxiv.
 

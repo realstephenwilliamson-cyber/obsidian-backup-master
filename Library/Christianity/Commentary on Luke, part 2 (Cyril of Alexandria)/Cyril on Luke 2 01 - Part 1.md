@@ -94,7 +94,7 @@ wherein he trusted, and divideth his spoils. He that is not with Me is against M
 
 And when it cometh, it findeth it empty, swept, and gar-o"" 14, nished. Then it goeth, and bringeth seven other spirits Gs. worse than itself, and they enter in and dwell there. And neGorre 8. the last state of that man is made worse than the first.
 
-THE God of all, blaming the haughtiness of the Jews, and their constant tendency to run into disobedience, thus spake by the voice of Isaiah ; “ Hear, O heavens, and give ear, O earth; Is. i. 2. “ for the Lord hath spoken. I have begotten, and brought up “sons; and they have rejected Me.” For they rejected God the Father, by setting in manifold ways the Son at nought, Who, though sprung from Him by nature, yet afterwards was made like unto us for our sakes: and yet He called them unto the grace that is by faith, and would have fulfilled the promise given unto their fathers. For of this the sacred Paul bears witness, where he writes, “ For I say that Christ was a Rom.xv.8. “minister of the circumcision, to fulfil the promises of the “ fathers: and that the Gentiles might glorify God for mercy.” The Only-begotten Word of God therefore was made man, that He might fulfil the promise of the blessing granted unto 38 :
+THE God of all, blaming the haughtiness of the Jews, and their constant tendency to run into disobedience, thus spake by the voice of Isaiah ; “ Hear, O heavens, and give ear, O earth; Is. i. 2. “ for the Lord hath spoken. I have begotten, and brought up “sons; and they have rejected Me.” For they rejected God the Father, by setting in manifold ways the Son at nought, Who, though sprung from Him by nature, yet afterwards was made like unto us for our sakes: and yet He called them unto the grace that is by faith, and would have fulfilled the promise given unto their fathers. For of this the sacred Paul bears witness, where he writes, “ For I say that Christ was a [[Romans 15#^15-8|Rom.xv.8]]. “minister of the circumcision, to fulfil the promises of the “ fathers: and that the Gentiles might glorify God for mercy.” The Only-begotten Word of God therefore was made man, that He might fulfil the promise of the blessing granted unto 38 :
 
 *[p. 370]* ^pg10
 
@@ -164,7 +164,7 @@ He said, however, the sign only of Jonah shall be given them, by which is meant 
 
 *[p. 376]* ^pg16
 
-John ii. 19.
+[[John 02#^2-19|John ii. 19]].
 
 Mat. xxviii.
 
@@ -200,7 +200,7 @@ THE very wise Paul truly tells us, that “Christ came into “the world to save
 
 *[p. 379]* ^pg19
 
-did He become their guest? Was He not aware of their maliciousness ? But how can this be safely affirmed? For as God He knoweth all things. What therefore is the explanation? It is this, that He was especially anxious to admonish them, therein resembling the most excellent physicians. For they apply the remedies of their art to those who are most dangerously ill, struggling against the disease under which they suffer, and assuaging its cruel attacks. As they therefore without restraint gave way to an infatuated mind, it was necessary for Christ to speak unto them what was requisite and useful for their salvation. For as He Himself somewhere says, “ He came not to call the righteous, but sinners to Mat. ix. 13. “repentance.” And again He also said, that “they who are Ib. 12. “ whole need not a physician, but they who are sick.”
+did He become their guest? Was He not aware of their maliciousness ? But how can this be safely affirmed? For as God He knoweth all things. What therefore is the explanation? It is this, that He was especially anxious to admonish them, therein resembling the most excellent physicians. For they apply the remedies of their art to those who are most dangerously ill, struggling against the disease under which they suffer, and assuaging its cruel attacks. As they therefore without restraint gave way to an infatuated mind, it was necessary for Christ to speak unto them what was requisite and useful for their salvation. For as He Himself somewhere says, “ He came not to call the righteous, but sinners to [[Matthew 09#^9-13|Mat. ix. 13]]. “repentance.” And again He also said, that “they who are Ib. 12. “ whole need not a physician, but they who are sick.”
 
 The Pharisee therefore for some purpose of his own invites Him to an entertainment: and the Saviour of all submits, as I said, to this, for the economy’s sake. But He made the matter an opportunity of giving instruction, not consuming the time of their meeting in the enjoyment of food and delicacies, but in the task of making those more virtuous who were assembled there. And the dull Pharisee himself supplied an occasion for His discourse, for “he wondered,” it says, “ that He had not “‘ washed before dinner.” Did he then wonder at Him, as having done something of which he approved, as being especially worthy of the saints? This was not his view: how could it be? On the contrary he was offended, because having the reputation among them of a righteous man and a prophet, He did not conform Himself to their unreasonable customs. For they washed before meat, as though they so freed themselves from all pollution. But this was very absurd. For the washing with water is highly useful for those who are unclean in body ; but how can it free men from the defilement of the mind and heart?
 
@@ -228,7 +228,7 @@ that S. Cyril repeated it in the Com-
 
 Is. i.21.
 
-John vi.51.
+[[John 06#^6-51|John vi.51]].
 
 compassionate? What answer do we make to this? The Pharisees then were exceedingly avaricious, and the slaves of base gains, and accumulated with greedy hand stores of wealth. For the God of all even somewhere said concerning them, “ How has the faithful city Zion, that was full of judgment, “become a harlot! Righteousness lodged in her, but now “¢ murderers! Your silver is adulterate; thy merchants mingle “ the wine with water; thy princes are disobedient, the part- “ners of thieves, loving bribes, running after recompense ; “ they judge not the fatherless, and regard not the suit of the “ widow.” He purposely therefore had regard to that malady which had possession of them, and tears their avarice up by the root, that being delivered from its wickedness, and attaining to purity in mind and heart, they might become true
 
@@ -270,7 +270,7 @@ For if we must prove ourselves better than others,—and there is nothing to pre
 
 *[p. 386]* ^pg26
 
-Gal. i. 10.
+[[Galatians 01#^1-10|Gal. i. 10]].
 
 than one’s friends®, does not at all prove us to be persons of merit: for this is possessed by many, who, so far from being virtuous, are rather lovers of pleasure, and lovers of sin. For they wrest honours from every one, because of their possessing either vast wealth or worldly power.
 
@@ -284,7 +284,7 @@ We then must be true worshippers, and not as wishing to please men, lest we fall
 
 *[p. 387]* ^pg27
 
-true meets with admiration; just, for instance, as Nathaniel, of whom Christ said, “ Behold one truly an Israelite, in whom “is no guile.” He who is such is esteemed before God; he is counted worthy of crowns and honours; has a glorious hope given him; and is “a fellow-citizen with the saints, and of the Eph. ii. 19. “ household of God.”
+true meets with admiration; just, for instance, as Nathaniel, of whom Christ said, “ Behold one truly an Israelite, in whom “is no guile.” He who is such is esteemed before God; he is counted worthy of crowns and honours; has a glorious hope given him; and is “a fellow-citizen with the saints, and of the [[Ephesians 02#^2-19|Eph. ii. 19]]. “ household of God.”
 
 Let us therefore flee from the malady of hypocrisy: and may there rather dwell within us a pure and uncorrupt mind, resplendent with glorious virtues. For this will unite us unto Christ ; by Whom and with Whom to God the Father be praise and dominion, with the Holy Ghost, for ever and ever, Amen.
 
@@ -314,15 +314,15 @@ REPROOF is ever, so to speak, a thing difficult for any man to bear: but it is n
 
 evil deeds, if they thus consider that what Christ said unto the others was spoken also against them. For tell me, for what reason art thou angry? When any reproof is addressed to the Pharisees, thou sayest that thou art reproached. Thou confessest therefore thy deeds. Thou art conscious, of course, to thyself of being a similar character. But if thou considerest it a reproach for ought of this sort to be said of thee, and nevertheless dost not alter thy behaviour, it is thy own conduct thou art found blaming. If thou hatest reproof as being a reproach, shew thyself superior to the faults with which thou art charged: or rather do not regard as a reproach the word of correction. Dost thou not see that those who heal the bodies of men converse with the sick upon the causes which have brought on their maladies, and use pungent drugs to counteract what has happened: but no one is angry with them on this account, or regards what they say as a reproach. But thou art weak-minded in bearing admonitions, nor consentest to learn what those passions are which are bringing injury to thy heart. Far better would it be to love reproof, and ask for deliverance from thy maladies, and healing for the ulcers of thy soul. Far better were it rather to say, “ Heal me, O Lord, Jer. xvii. “ and I shall be healed: save me, and I shall be saved: for '+ “ Thou art my praise.”
 
-Nothing however of this sort enters the mind of the lawyers, but they venture even to say; “In speaking these things, Thou “ reproachest us also:” ignorantly giving the name of reproach to a reproof which was for their benefit and advantage. What then does Christ reply? He makes His reproof yet more severe, and humbles their empty pride, thus saying; “ Also to “you, lawyers, woe! for ye lade men with burdens heavy and “ grievous to be borne: and ye yourselves touch not the bur- “dens with one of your fingers.” He frames His argument against them out of a plain example. For the law was confessedly grievous to the Israelites, as the divine disciples also acknowledged. For they even rebuked those who were endeavouring to make such as had already believed desire to return to the legal ritual: for they said; “ And now why tempt ye Actaxv.1o. “ God, to put a yoke upon the neck of the disciples, which ‘neither we nor our fathers were able to bear?”” And the Saviour Himself taught us this, crying out and saying; “Come Mat. xi. 28.
+Nothing however of this sort enters the mind of the lawyers, but they venture even to say; “In speaking these things, Thou “ reproachest us also:” ignorantly giving the name of reproach to a reproof which was for their benefit and advantage. What then does Christ reply? He makes His reproof yet more severe, and humbles their empty pride, thus saying; “ Also to “you, lawyers, woe! for ye lade men with burdens heavy and “ grievous to be borne: and ye yourselves touch not the bur- “dens with one of your fingers.” He frames His argument against them out of a plain example. For the law was confessedly grievous to the Israelites, as the divine disciples also acknowledged. For they even rebuked those who were endeavouring to make such as had already believed desire to return to the legal ritual: for they said; “ And now why tempt ye Actaxv.1o. “ God, to put a yoke upon the neck of the disciples, which ‘neither we nor our fathers were able to bear?”” And the Saviour Himself taught us this, crying out and saying; “Come [[Matthew 11#^11-28|Mat. xi. 28]].
 
 *[p. 390]* ^pg30
 
-Heb. x. 28.
+[[Hebrews 10#^10-28|Heb. x. 28]].
 
-Rom. ii. 17.
+[[Romans 02#^2-17|Rom. ii. 17]].
 
-Mat. v. 19.
+[[Matthew 05#^5-19|Mat. v. 19]].
 
 James tii.r.
 
@@ -368,9 +368,9 @@ of the sea.”
 
 *[p. 394]* ^pg34
 
-John v. 45.
+[[John 05#^5-45|John v. 45]].
 
-John v. 39.
+[[John 05#^5-39|John v. 39]].
 
 Of faults thus grievous, Christ proved them guilty who professed to be skilled in the law; the scribes, I mean, and lawyers: and for this reason he said unto them; “Also to you “ lawyers woe! who have taken away the key of knowledge.” By the key of knowledge we consider that the law itself is meant, and justification in Christ, by faith I mean in Him. For though the law was in shadow and type, yet those types shape out to us the truth, and those shadows depict to us in manifold ways the mystery of Christ. A lamb was sacrificed according to the law of Moses; they ate its flesh, they anointed the lintels with its blood, and overcame the destroyer. But the blood of a mere sheep could not turn away death. It was Christ then Who was typified under the form of a Jamb, Who endures to be the victim for the life of the world, and saves by His blood those who are partakers of Him. And one might mention many other instances as well, by means of which we can discern the mystery of Christ, sketched out in the shadows of the law. And He Himself once when speaking to the Jews said, ‘\* There is one that accuseth you, even Moses, in whom “ye trusted. For if ye had believed Moses, ye would have “also believed Me: for he wrote of Me.” And again; “ Search the Scriptures: for in them ye think that ye have “ eternal life; and it is they that testify of Me. And ye are “ not willing to come unto Me, that ye may have life.” For every word of divinely inspired Scripture looks unto Him, and refers to Him. And whether it be Moses who speaks, he, as has been shewn, was typifying Christ: or be it the holy prophets that thou namest, they also proclaimed to us in manifold ways the mystery of Christ, preaching beforchand the salvation that is by Him.
 
@@ -380,7 +380,7 @@ It was the duty therefore of those who were called lawyers, because they studied
 
 prophet Isaiah somewhere says; “If ye will not believe, nei- Is. vii. y. “ ther shall ye understand.” This same way of salvation by faith in Christ He before declared unto us by the holy prophets, saying; “ Yet a little, a little while, and he that cometh Hab. ii. 3. “ shall come, and shall not tarry. And whosoever shall draw He? \*: 37- “‘ back, in him My soul shall have no pleasure.’ And what is meant by a person’s drawing back is his giving way to slothfulness. When therefore He says, that no one of those who have been called must draw back, it means, that if he grow slothful in his progress towards the grace which is by faith, My soul shall have no pleasure in him.
 
-But that the fathers were proved by faith, the examination of their deeds demonstrates. Take, for instance, the patriarch Abraham, who was called the friend of God: what is written of him? ‘“ Abraham believed God, and it was counted unto him James ii. “for righteousness: and he was called the friend of God.” \*\* And it is written again; “By faith Noah, when it was revealed Heb. xi. 7. “ to him of things not seen as yet, prepared the ark for the “saving of his house, in which few, that is, eight persons, were : Pet. iii. “saved by water.” And the blessed Paul has laid down for “> us a definition, so to speak, or rather a gencral law, thus saying; “ Without faith it is impossible for any one whatso- Heb. xi. 6. “ever to please God.” “ For by it, he said, the elders, that “is, those in old time, obtained a good report.”
+But that the fathers were proved by faith, the examination of their deeds demonstrates. Take, for instance, the patriarch Abraham, who was called the friend of God: what is written of him? ‘“ Abraham believed God, and it was counted unto him James ii. “for righteousness: and he was called the friend of God.” \*\* And it is written again; “By faith Noah, when it was revealed [[Hebrews 11#^11-7|Heb. xi. 7]]. “ to him of things not seen as yet, prepared the ark for the “saving of his house, in which few, that is, eight persons, were : Pet. iii. “saved by water.” And the blessed Paul has laid down for “> us a definition, so to speak, or rather a gencral law, thus saying; “ Without faith it is impossible for any one whatso- [[Hebrews 11#^11-6|Heb. xi. 6]]. “ever to please God.” “ For by it, he said, the elders, that “is, those in old time, obtained a good report.”
 
 But these so-called lawyers had taken away the key of knowledge ; for they would not let men believe in Christ the Saviour of all. He wrought miracles in manifold ways; raising the dead from their graves; restoring beyond ‘all hope their sight to~the blind; making the lame whole in their feet ; cleansing lepers; and rebuking unclean spirits. But they, though it was their duty to regard Him with admiration because of these things, despised His divine signs: and making the people entrusted to their charge to stumble, they said; “This man casteth not out devils but in Beelzebub the prince Mat. xii. “ of the devils.” Here then thou seest them taking away the \*\* key of knowledge. He taught in their synagogues; He revealed to His hearers that good and acceptable and -perfect Rom. xii.:. will of God the Father; but they cannot leave even thes? His instructions without blame: for they called out to the multitudes, “ He hath a devil, and is utterly mad. Why hear ye Johnx. 20.
 
@@ -423,7 +423,7 @@ PATIENCE, and an enduring and courageous mind, form the impenetrable armour of t
 
 His present discourse therefore does not, as it seems, belong to every one absolutely: but, on the contrary, to those only who evidently love Him with all their heart, and can fitly say; “ Who shall separate me from the love of Christ? shall
 
-Luke xxi. 19. Heb. x. 36. 1 Cor. ii.g. Rom. viii. 35. k Literally “ He anoints,” a me- the struggle began. To anoint taphor taken from the palestra, therefore is to prepare for immewhere the combatant was rubbed diate exertion. over with oil, immediately before
+[[Luke 21#^21-19|Luke xxi. 19]]. [[Hebrews 10#^10-36|Heb. x. 36]]. 1 Cor. ii.g. [[Romans 08#^8-35|Rom. viii. 35]]. k Literally “ He anoints,” a me- the struggle began. To anoint taphor taken from the palestra, therefore is to prepare for immewhere the combatant was rubbed diate exertion. over with oil, immediately before
 
 *[p. 399]* ^pg39
 
@@ -435,11 +435,11 @@ But who are those who love Him? They are, so to speak, such as are like-minded w
 
 *[p. 400]* ^pg40
 
-Heb. xi.19.
+[[Hebrews 11#^11-19|Heb. xi.19]].
 
 2 Tim. i.1o.
 
-John xi.25.
+[[John 11#^11-25|John xi.25]].
 
 And, to put it in another light; as being His friends, we ought not to fear death, but rather imitate the faith of the holy fathers. The patriarch Abraham, when tempted, offered his only-begotten son Isaac, ‘‘ accounting that God was able to “raise him up even from the dead.” What terror of death, therefore, can assail us, now that “ Life hath abolished death?” for Christ is ‘‘ the Resurrection and the Life.”
 

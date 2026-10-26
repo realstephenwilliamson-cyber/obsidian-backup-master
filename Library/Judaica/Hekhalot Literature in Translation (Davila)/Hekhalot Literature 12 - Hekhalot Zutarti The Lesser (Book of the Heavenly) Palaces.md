@@ -258,7 +258,7 @@ g “speaking” N O M22 \] + “saying”
 
 M40; + “and it said” D; “and it was speaking” G7 h “in” N G7 \] om O M40 M22 D i “the Aramaic language” N O M22 G7 \] “the Aramean language” M40 D j “In this language”
 
-O M40 D G7 \] “In the language” N; “like this language” M22 k “what did it speak” N O M40 D \] om M22; + “in the Aramaic language, in this language” G7. The rest of the paragraph is in Aramaic. Schäfer (*Übersetzung*, 3:17 n. 9) notes that according to [[Sotah 33#33a|*b. Sotah* 33a]] the attending angels do not know Aramaic.
+O M40 D G7 \] “In the language” N; “like this language” M22 k “what did it speak” N O M40 D \] om M22; + “in the Aramaic language, in this language” G7. The rest of the paragraph is in Aramaic. Schäfer (*Übersetzung*, 3:17 n. 9) notes that according to *b. Sotah* [[Sotah 33#33a|33a]] the attending angels do not know Aramaic.
 
 l “YHWH (various spellings) made” N O M40 D G7 \] “He made” M22
 
@@ -994,7 +994,7 @@ And the throne of glory stands upon the four living creatures, and the likeness 
 [^k]: “with us”
 [^l]: “with us”
 [^m]: This twice-repeated name could also be taken as two words, “the cherub of YH” § 370
-[^a]: Cf. [[Sotah 17#17a|*b. Sotah* 17a]].
+[^a]: Cf. *b. Sotah* [[Sotah 17#17a|17a]].
 [^b]: Cf. *Hekhalot Rabbati* § 166; *Hekhalot Zutarti* § 353; Ezek 1:26; Exod 24:10.
 [^c]: with Dan 7:10. “Him” is missing in N.
 

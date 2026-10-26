@@ -110,14 +110,14 @@ If he cuts off the portion of the limb that emerged after it was returned within
 **15.** If a person ripped open an animal[^41] or slaughtered an animal that was *trefe* and found a live fetus that had been carried for nine months, [that fetus] must be ritually slaughtered to be permitted.[^42] The slaughter of its mother is not effective.[^43]  
 If the period [of gestation] was not completed, it is forbidden even though it is alive in the womb of the *trefe* animal. [The rationale is that] it is considered as one of the mother's limbs.[^44] Whenever an animal thrust its head [out of the womb] and then returned it and [only] afterwards its mother was slaughtered, the slaughter of its mother has no bearing on it, it is considered as if it was born and it must be ritual slaughtered [to be permitted]. ^5-15
 
-[^1]: [[Chullin 102#102b|*Chullin* 102b]].
+[^1]: *Chullin* [[Chullin 102#102b|102b]].
 [^2]: *Sefer HaMitzvot* (negative commandment 182) and *Sefer HaChinuch* (mitzvah 452) include this prohibition among the 613 mitzvot of the Torah.
 [^3]: This prohibition is also one of the seven universal laws commanded to Noah and his descendants (*Hilchot Melachim* 8:10).
 [^4]: Since the species is forbidden, no additional prohibitions apply.
 [^5]: The *Merkevat HaMishneh* notes that this represents a difference between this prohibition and the prohibition against ritual impurity stemming from a limb where the limb must possess a bone. He explains that there a bone is necessary, for the source of the impurity is that of a corpse, and a corpse possesses bones.
 [^6]: The Ra'avad differs with the Rambam and does not accept this distinction. He maintains that partaking of part of an organ is also included in the prohibition against partaking of a *trefe*.
 [^7]: Chapter 4, Halachah 10.
-[^8]: We do not consider an organ or limb as a distinct creature and hold him liable, as he is liable for partaking of an ant, even if it is smaller than an olive. [[Chullin 102#102a|*Chulin* 102a]] explains that we require an olive-sized portion for the verse that states the prohibition speaks of "partak[ing] of the soul." The term partaking is appropriate only when one eats an olive-sized portion.
+[^8]: We do not consider an organ or limb as a distinct creature and hold him liable, as he is liable for partaking of an ant, even if it is smaller than an olive. *Chulin* [[Chullin 102#102a|102a]] explains that we require an olive-sized portion for the verse that states the prohibition speaks of "partak[ing] of the soul." The term partaking is appropriate only when one eats an olive-sized portion.
 [^9]: Since one did not alter its natural form, one is liable for the bones and sinews as well.
 [^10]: Even though he did not detach the meat from the sinews and the bones, since he cut the limb and distorted its natural form, we consider only the meat and not the other elements of the limb.
 [^11]: This explains why the person is liable for the prohibition against partaking of a *trefe*, for seemingly, we should follow the principle "a prohibition does not fall on a substance which is already forbidden." This principle does not apply in this instance, for here, both prohibitions take effect at the same time. Hence, one does not take precedence over the other and the transgressor is liable for both. (See *Hilchot Issurei Bi'ah* 17:8-10; Chapter 14, Halachah 18, for explanation regarding these principles.)
@@ -126,15 +126,15 @@ If the period [of gestation] was not completed, it is forbidden even though it i
 [^13]: The two mentioned in the previous clause and the prohibition against partaking of a *trefe*.  
     He is liable for all three prohibitions, because the prohibition against partaking of forbidden fat is of a wider scope than the prohibition against partaking of a *trefe* and the prohibition against partaking of limb of a living animal is of a wider scope than the other two (*ibid.*).
 [^14]: From a comparison to the following halachah, it appears that this prohibition is of Scriptural origin.
-[^15]: [[Chullin 74#74a|*Chullin* 74a]] makes this distinction between an animal that dies naturally and one which is ritually slaughtered.
+[^15]: *Chullin* [[Chullin 74#74a|74a]] makes this distinction between an animal that dies naturally and one which is ritually slaughtered.
 [^16]: For it is considered as part of the animal.
 [^17]: Without detaching it.
 [^18]: In *Hilchot Shechitah* 8:11-12, the Rambam mentions instances where a broken bone causes an animal to be designated as *trefe*. Here the Rambam is speaking of instances where the broken bone does not cause the animal to be *trefe* and the question involves merely the broken limb. May the meat from that limb be eaten or not?
 [^19]: I.e., when one would calculate the entire amount of the flesh, it would be large enough to cover the majority of the bone. Nevertheless, it is not located in large sections, but is instead, made up of many small pieces.
 [^20]: None of these perforations, however, caused a decrease in the mass of the flesh.
-[^21]: [[Chullin 76#76b|*Chullin* 76b]] mentions all these circumstances without reaching a final ruling regarding them. Hence we rule stringently.
+[^21]: *Chullin* [[Chullin 76#76b|76b]] mentions all these circumstances without reaching a final ruling regarding them. Hence we rule stringently.
 [^22]: I.e., organs that do not cause an animal to be considered as a *trefe*.
-[^23]: This distinction is made on the basis of [[Chullin 68#68a|*Chulin* 68a]], 69a. The rationale is that the animal's organs are an integral part of it. On the basis of [[Torah 47 - Re'eh#^14-5|Deuteronomy 14:5]], "You shall eat it," our Sages explain when it's whole, you may eat everything within it, but not when it is lacking. The fetus, however, is not considered an integral part of the animal. Hence, as long as its limbs have not emerged outside the womb, they are permitted with the slaughter of the mother.
+[^23]: This distinction is made on the basis of *Chulin* [[Chullin 68#68a|68a]], 69a. The rationale is that the animal's organs are an integral part of it. On the basis of [[Torah 47 - Re'eh#^14-5|Deuteronomy 14:5]], "You shall eat it," our Sages explain when it's whole, you may eat everything within it, but not when it is lacking. The fetus, however, is not considered an integral part of the animal. Hence, as long as its limbs have not emerged outside the womb, they are permitted with the slaughter of the mother.
 [^24]: From this halachah and Halachah 11, we see that there are two prohibitions involved: partaking of a limb considered *trefe* and partaking of a limb from a living animal. At times, one applies, and in other situations, the other applies.
 [^25]: The *Maggid Mishneh* and *Kessef Mishneh* interpret this as referring to a situation where the fetus was not born before the mother was ritually slaughtered (see also Halachah 12). Instead, the mother was slaughtered while the fetus was still in its womb. Afterwards, the fetus was taken out and it survived. If, however, the fetus is born before the mother is slaughtered, the leg which emerged is not forbidden. When the calf is slaughtered, all of its legs are permitted. There are authorities who differ whether this is the Rambam's intent. Most, however, agree that this ruling should be followed in practice [Rama (*Yoreh De'ah* 14:2)].
 [^26]: I.e., it is not its natural place.
@@ -144,7 +144,7 @@ If the period [of gestation] was not completed, it is forbidden even though it i
 [^30]: I.e., he is not liable for lashes for transgressing the prohibition against partaking of a limb of a living animal. As reflected by Halachah 9, he violates the prohibition against partaking of a *trefe*. The Ra'avad maintains that he is liable for lashes for this violation. The *Maggid Mishneh* maintains that this situation is comparable to a maimed limb as described in Halachah 6 in which instance a Scriptural prohibition is involved, but one is not liable for lashes.
 [^31]: And not for either the prohibition against partaking of a *trefe* or a *nevelah*. The death of the mother causes the limb to be considered as if it fell off during the animal's lifetime. See *Hilchot Sha'ar Avot HaTumah* 2:9 which explains the parallels that apply with regard to the laws of ritual impurity.
 [^32]: The *Maggid Mishneh* states that this also refers to a situation where the fetus was born after the mother was slaughtered.
-[^33]: [[Chullin 69#69a|*Chullin* 69a]] asks whether this milk can be compared to milk from a kosher animal or not. The distinction is that a kosher animal will become permitted if it is slaughtered in the ritual manner and this limb will never become permitted.
+[^33]: *Chullin* [[Chullin 69#69a|69a]] asks whether this milk can be compared to milk from a kosher animal or not. The distinction is that a kosher animal will become permitted if it is slaughtered in the ritual manner and this limb will never become permitted.
 [^34]: With regard to a live fetus, see the following halachah. With regard to a dead fetus, the Rambam is emphasizing that it is not considered as a separate entity (in which case it would be forbidden as a *nevelah*), but instead as one of the limbs of the mother.
 [^35]: Chapter 4, Halachah 5, states that a placenta that is expelled together with the newborn is forbidden to be eaten. In this instance, however, since the placenta has not been expelled, it is still considered part of the mother's body and permitted.
 [^36]: Like the limb of a fetus that emerged before ritual slaughter (*Maggid Mishneh*).  
@@ -152,7 +152,7 @@ If the period [of gestation] was not completed, it is forbidden even though it i
 [^37]: Which was not permitted because of the slaughter of the mother.
 [^38]: I.e., the period of gestation was full term.
 [^39]: And can be killed in any manner.
-[^40]: Because of the impression that might be created ([[Chullin 75#75b|*Chullin* 75b]]).
+[^40]: Because of the impression that might be created (*Chullin* [[Chullin 75#75b|75b]]).
 [^41]: Without slaughtering it according to Torah law.
 [^42]: The Rama (*Yoreh De'ah* 13:3) states that at present, we do not permit any fetus found in the womb of a *trefe* even if it was ritually slaughtered.
 [^43]: Since the slaughter of the mother does not cause the mother to be permitted, it is not effective with regard to the fetus.

@@ -79,7 +79,7 @@ chapter: 34
 [^27]: [[Isaiah 32#^32-17|Isaiah 32:17]].
 [^28]: [[Daniel 12#^12-3|Daniel 12:3]].
 [^29]: [[Torah 32 - Behar#^25-35|Leviticus 25:35]].
-[^30]: I.e., one who gives him an opportunity to earn a livelihood. [[Pesachim 53#53b|*Pesachim* 53b]].
+[^30]: I.e., one who gives him an opportunity to earn a livelihood. *Pesachim* [[Pesachim 53#53b|53b]].
 [^31]: *Maseches Berachos* 34b.
 [^32]: By eating less than the required three meals.
 [^33]: *Maseches Shabbos* 118a.

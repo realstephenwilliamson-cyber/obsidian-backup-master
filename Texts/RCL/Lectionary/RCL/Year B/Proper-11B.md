@@ -11,6 +11,7 @@ second_reading: "Ephesians 2:11-22"
 gospel: "Mark 6:30-34, 53-56"
 first_reading_complementary: "Jeremiah 23:1-6"
 psalm_complementary: "Psalm 23"
+psalm_bcp_complementary: "Psalm 23"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-11]]"
 cssclasses:

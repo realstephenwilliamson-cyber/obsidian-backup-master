@@ -164,7 +164,7 @@ Rom. v.
 
 12\.
 
-S. Luke xi. 18.
+S. [[Luke 11#^11-18|Luke xi. 18]].
 
 Wisdomi.
 
@@ -238,7 +238,7 @@ thorns. For the fruit of bemg enlightened is verily the true apprehension of the
 
 For it were no marvel if the world knew not, says he, the Only-Begotten, secing that it had left the understanding that befits man, and was ignorant that it is and was made in honour, and compared to the beasts that perish, as the Divine Psalmist also said; when the very people who were supposed above all to belong to Him shook Him off when present with the Flesh and would not receive Him when He came among them for salvation to all, recompensing to faith the kingdom of Heaven. But observe how exact is his language about these things. For the world he accuses of not at all knowing Him Who lighteth it, elaborating for it a pardon so to speak just on this account, and preparing beforehand reasonable causes for the grace given to it: but of those of Israel who were reckoned among: those specially belonging to Him, he says, Iteceived Him not. For it would not have been true to say, Anew Him not, when the older law preached Him, the Prophets who came after led them by the hand to the apprehension of the truth. The sentence therefore of severity > upon them was just,.even as the
 
-Ps. xlix. 20. Rom. xi. 22. 8 ἐξ ἀκράτου θεολογίας “from pure the Flesh. Theology,” speaking of the Divine Na- > ἀποτομίας as in Rom. l.c. “ cutting ture apart from the Dispensation with off.”
+Ps. xlix. 20. [[Romans 11#^11-22|Rom. xi. 22]]. 8 ἐξ ἀκράτου θεολογίας “from pure the Flesh. Theology,” speaking of the Divine Na- > ἀποτομίας as in Rom. l.c. “ cutting ture apart from the Dispensation with off.”
 
 *[p. 103]* ^pg167
 
@@ -295,7 +295,7 @@ Pp.i.13.
 
 LXX.
 
-Heb. x. 1.
+[[Hebrews 10#^10-1|Heb. x. 1]].
 
 Tb. ix. 10.
 
@@ -370,7 +370,7 @@ The Evangelist profitably goes over again what he has said, and brings the force
 
 But profitably does he affirm that the Word dwelé in us, unveiling to us this deep Mystery also: for we were all in Christ, and the community of hnman nature mounteth up unto His Person; since therefore was He named the last Adam, giving richly to the common nature all things that belong to joy and glory, even as the first Adam what pertained to corruption and dejection. The Word then dwelt in all through one that the One being declared the Son of God with power according to the Spirit of holiness, the dignity might come unto all the human nature and thus because of One of us, \[have said Ye are gods and all of yoware children of the Most High might come to us also. Therefore in Christ verily is the bond made free, mounting up unto mystic union with Him Who bare the fori of the servant ; yet in ns after the likeness of the One because of the relation after the flesh. For why doth He tuke on Him not the nature of
 
-Col, 11, 9, 1 Cor. xv. 40. Rom. i. 4. Ps. Ixxxil. 6. Phil. 1.7. Heb. ii.
+Col, 11, 9, [[1 Corinthians 15#^15-40|1 Cor. xv. 40]]. [[Romans 01#^1-4|Rom. i. 4]]. Ps. Ixxxil. 6. Phil. 1.7. Heb. ii.
 
 *[p. 111]* ^pg175
 

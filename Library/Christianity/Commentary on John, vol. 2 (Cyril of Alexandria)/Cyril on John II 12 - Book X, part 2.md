@@ -95,7 +95,7 @@ It were likely then that our adversary should not like to make any reply; but if
 
 Supra xiv. 6.
 
-18\. John v. 20.
+18\. [[John 05#^5-20|John v. 20]].
 
 Supra p. 367.
 
@@ -157,7 +157,7 @@ We made these observations because we thought we ought to deal with the investig
 
 σ. xv. 2.
 
-Gal. v. 4.
+[[Galatians 05#^5-4|Gal. v. 4]].
 
 Thid. 2.
 
@@ -165,7 +165,7 @@ Rom. v.
 
 10\.
 
-Gal. iv. 9.
+[[Galatians 04#^4-9|Gal. iv. 9]].
 
 Supra i. 16.
 
@@ -205,7 +205,7 @@ Supra net of the devil, and getting away from the snares of idol-worship, will b
 
 We shall know then, by an accurate investigation of the words before us, that the being received of Christ through faith pure and truce is the first work of that zeal which is requisite and dear to God. For this is the
 
-iv. 24. Heb. xiii. 7 1 Cor. xi. 1.
+iv. 24. [[Hebrews 13#^13-7|Heb. xiii. 7]] [[1 Corinthians 11#^11-1|1 Cor. xi. 1]].
 
 *[p. 385]* ^pg411
 
@@ -345,7 +345,7 @@ Abide therefore, He says, in My love; that is, coming with all zeal and ardour, 
 
 *[p. 397]* ^pg423
 
-love. You will have then, He says, no excuse for apathy yap. 9, in the work. For you will not bestow labour on these Ὁ Ἀν. eh things without profit. For I shall manifestly give you ~ as much love as I have from the Father; and crown the keeper of My words with honours almost equal. For the Father has highly exalted Me, and has given Phil.ii.9. Me the Name which is above every name. For I have been declared God of the universe, yet I shall not be found envious or to grudge you such good things. For I have shown you, who are men, and who have for this reason received the nature of slaves, to be gods, and sons of God; making you illustrious through My grace with dignities surpassing your nature to receive ; have admitted you into the fellowship of My kingdom ; have shown you conformed to the Body of My glory ; Ibid. iii. have honoured you with incorruption and life. But?" this standeth as yet but in hope, and is preserved for the age that is to come. And what have ye now for the time present? Have I not made you illustrious, and glorified you, and made you holy beyond the devotees of all nations? Nay, ye have rebuked the unclean spirits; I have given you power to heal ull manner of S. Matt. disease, and all manner of sickness. Ihave given the a promise unto you: Verily, verily I say unto you, He Supra that believeth on Me, the works that I do shall he do\*\*\*: 3% also; and greater works than these shall he do. If we allow our minds to be impressed with the sense of the passage before us, we shall think that this is what He says to His holy disciples. And if we at all times keep our mind yoked fast to the doctrines of the truth, and if we turn the investigation into which we enter so far as we can to the profit of our hearers and to foster the practice of a righteous life, we shall avoid foolishly falling over any stumblingblock in the way. For it is written in the Book of Psalms: Great is the peuce Ps. exix. that they have who love Thy law; and they huve no Νὰ
+love. You will have then, He says, no excuse for apathy yap. 9, in the work. For you will not bestow labour on these Ὁ Ἀν. eh things without profit. For I shall manifestly give you ~ as much love as I have from the Father; and crown the keeper of My words with honours almost equal. For the Father has highly exalted Me, and has given [[Philippians 02#^2-9|Phil.ii.9]]. Me the Name which is above every name. For I have been declared God of the universe, yet I shall not be found envious or to grudge you such good things. For I have shown you, who are men, and who have for this reason received the nature of slaves, to be gods, and sons of God; making you illustrious through My grace with dignities surpassing your nature to receive ; have admitted you into the fellowship of My kingdom ; have shown you conformed to the Body of My glory ; Ibid. iii. have honoured you with incorruption and life. But?" this standeth as yet but in hope, and is preserved for the age that is to come. And what have ye now for the time present? Have I not made you illustrious, and glorified you, and made you holy beyond the devotees of all nations? Nay, ye have rebuked the unclean spirits; I have given you power to heal ull manner of S. Matt. disease, and all manner of sickness. Ihave given the a promise unto you: Verily, verily I say unto you, He Supra that believeth on Me, the works that I do shall he do\*\*\*: 3% also; and greater works than these shall he do. If we allow our minds to be impressed with the sense of the passage before us, we shall think that this is what He says to His holy disciples. And if we at all times keep our mind yoked fast to the doctrines of the truth, and if we turn the investigation into which we enter so far as we can to the profit of our hearers and to foster the practice of a righteous life, we shall avoid foolishly falling over any stumblingblock in the way. For it is written in the Book of Psalms: Great is the peuce Ps. exix. that they have who love Thy law; and they huve no Νὰ
 
 stunblingblock in their path.
 
@@ -392,7 +392,7 @@ He now makes clearer by the illustration here given
 
 the meaning of the preceding passage; that is, the necessity of His disciples having His joy in them; and clearly says, “I give you this injunction, and teach those who think they ought to follow Me to do this, and be thus minded to practise such manner of love towards one another as I have heretofore shown and fulfilled.” How great a measure can a man then find to the love of Christ, He Himself shows when He says that nothing can be greater than such love, which excites to forsake life itself for those one loves. And by all this He not only exhorts His own disciples that it becomes them so little to shrink from fearing to encounter dangers for those they love, but that also He Himself without shrinking held Himself in utmost readiness to undergo the death of the flesh. For the power of our Saviour’s love attained so great a measure. And these words were borne out by His action, and by His encouragement to His disciples to attain an exceeding great and extraordinary courage, and by His exhorting them to the perfection of brotherly love, and fencing their hearts with the armour of enthusiasm and love of God, and raising them up into a zeal invincible -and undaunted, so as impetuously to hasten to establish
 
-everything according to His good pleasure. Such a man Paul showed himself to us, when he said, For to Phil.i.21. me, to live is Christ, and to die is gain. And again: for the love of Christ construineth us: because we thus 2 Cor. v. judge that one died for all, therefore all died. And τῶ τὸς besides: Who shall separate us from the love of Christ ? Romviii, Shall tribulation, or anguish, or fanine, or nakedness, er or peril, or sword? Note how he promises that nothing
+everything according to His good pleasure. Such a man Paul showed himself to us, when he said, For to [[Philippians 01#^1-21|Phil.i.21]]. me, to live is Christ, and to die is gain. And again: for the love of Christ construineth us: because we thus 2 Cor. v. judge that one died for all, therefore all died. And τῶ τὸς besides: Who shall separate us from the love of Christ ? Romviii, Shall tribulation, or anguish, or fanine, or nakedness, er or peril, or sword? Note how he promises that nothing
 
 VOL. IL. pd
 
@@ -428,7 +428,7 @@ For those who resist and impiously rail against such as openly minister the Gosp
 
 mankind, has made us enviable and thrice-blessed, in Cuap. 2. want of no manner of thing that is good. fav 14, The meaning then of the text as thus conceived will
 
-fit in with the inspired chapters of the disciples. And if the saying shall go forth to all the world, that is, 717,18 is My commandment, that ye love one another, even as I have loved you, much profit will result to all from the investigation. For if love towards brethren keeps and works the fulfilment of the whole command of our Saviour, how will not he who tries as far as possible to accomplish this without laying himself open to censure and blame be very worthy of admiration, since the sum of all the virtues, so to speak, is stored up in it? For love towards one another is next to love to God, and all the power of righteousness towards God is concluded as in this one word, namely, Thow shalt love thy neighbour as Gal.v. 14.
+fit in with the inspired chapters of the disciples. And if the saying shall go forth to all the world, that is, 717,18 is My commandment, that ye love one another, even as I have loved you, much profit will result to all from the investigation. For if love towards brethren keeps and works the fulfilment of the whole command of our Saviour, how will not he who tries as far as possible to accomplish this without laying himself open to censure and blame be very worthy of admiration, since the sum of all the virtues, so to speak, is stored up in it? For love towards one another is next to love to God, and all the power of righteousness towards God is concluded as in this one word, namely, Thow shalt love thy neighbour as [[Galatians 05#^5-14|Gal.v. 14]].
 
 thyself.
 
@@ -468,9 +468,9 @@ x. 37.
 
 1\.
 
-Gal.v.24.
+[[Galatians 05#^5-24|Gal.v.24]].
 
-Heb.vi.5.
+[[Hebrews 06#^6-5|Heb.vi.5]].
 
 Ps. xliv.
 

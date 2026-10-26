@@ -26,7 +26,7 @@ Let us thercfore not doubt but that with rich hand He will bestow His grace upon
 
 *[p. 402]* ^pg42
 
-1 Cor. x.13.
+[[1 Corinthians 10#^10-13|1 Cor. x.13]].
 
 will not permit us to fall into temptation: or if, by His wise purpose, He permit us to be taken in the snare, in order that we may gain glory by suffering, He will most assuredly grant us the power to bear it. And of this the blessed Paul is our witness, who says; “ God is powerful, Who will not suffer you “to be tempted above that ye are able, but will with the “ temptation also make a way of egress, that ye may be able “ to bear it.’ For He Who is the Saviour and Lord of us all, is the Lord of powers: by Whom and with Whom, to God the Father be praise and dominion, with the Holy Ghost, for ever and ever, Amen.
 
@@ -40,11 +40,11 @@ AND PERSECUTION FOR FAITH IN Gop.
 
 And I say unto you, that whosoever shall confess Me before C. xii. 8men, hin shall the Son of man also confess before the '\* angels of God. But he that shall deny Me before men, shall be denied before the angels of God. And whosoever shall speak a word against the son of man, it shall be Sorgiven him: but unto him that blasphemeth against the Holy Ghost, it shall not be forgiven him.
 
-HERE too, ye who love to hear, replenish yourselves with the words of holiness : receive within you the knowledge of the sacred doctrines, that advancing prosperously in the faith, ye may obtain the crown of love and steadfastness in Christ. For He bestows it, not upon those whose heart is faint and easily shaken, but rather on those who can with fitness say ; ‘ For to Phil. i. 21. “me to live is Christ, and to die is gain.” For those who live holily, live unto Christ; and those, who for piety towards Him, endure dangers, gain the life incorruptible, being crowned by His decree before the judgment seat of God. And this He teaches us, saying ; “ Whosoever shall confess Me before men, “him shall the Son of man also confess before the angels of
+HERE too, ye who love to hear, replenish yourselves with the words of holiness : receive within you the knowledge of the sacred doctrines, that advancing prosperously in the faith, ye may obtain the crown of love and steadfastness in Christ. For He bestows it, not upon those whose heart is faint and easily shaken, but rather on those who can with fitness say ; ‘ For to [[Philippians 01#^1-21|Phil. i. 21]]. “me to live is Christ, and to die is gain.” For those who live holily, live unto Christ; and those, who for piety towards Him, endure dangers, gain the life incorruptible, being crowned by His decree before the judgment seat of God. And this He teaches us, saying ; “ Whosoever shall confess Me before men, “him shall the Son of man also confess before the angels of
 
 God.”
 
-If is then a thing above all others worthy of our attention to see who it is that confesses Christ, and in what way one may rightly and blamelessly confess Him. Most wise Paul therefore writes to us, “‘ Say not in thine heart, Who shall ascend unto Rom. x. 6. “heaven? that is to bring Christ down: or who shall descend ‘into the deep? that is, to bring Christ up from the dead. “ But what saith the Scripture? The Word is nigh thee, in “ thy mouth and in thy heart; that is, the Word of faith which “we preach: because if thou shalt say with thy mouth that “ Jesus is the Lord, and shalt believe in thy heart that God “raised Him from the dead, thou shalt live. For with the “heart man believeth unto righteousness, and with the mouth 3F2
+If is then a thing above all others worthy of our attention to see who it is that confesses Christ, and in what way one may rightly and blamelessly confess Him. Most wise Paul therefore writes to us, “‘ Say not in thine heart, Who shall ascend unto [[Romans 10#^10-6|Rom. x. 6]]. “heaven? that is to bring Christ down: or who shall descend ‘into the deep? that is, to bring Christ up from the dead. “ But what saith the Scripture? The Word is nigh thee, in “ thy mouth and in thy heart; that is, the Word of faith which “we preach: because if thou shalt say with thy mouth that “ Jesus is the Lord, and shalt believe in thy heart that God “raised Him from the dead, thou shalt live. For with the “heart man believeth unto righteousness, and with the mouth 3F2
 
 *[p. 404]* ^pg44
 
@@ -54,7 +54,7 @@ t Cor. viii.
 
 “ confession is made unto salvation.” In which words the mystery of Chirist is most excellently explained. For first of all it is our duty to confess that the Son, Who sprang from God the Father, and Who is the Only-begotten of His substance, even God the Word, is Lord of all: not as one on whom lordship has been bestowed fiom without, and by imputation, but as being by nature and in truth Lord, as the Father also is. And next we must believe, that “‘ God raised Him trom the dead,” that is, when having become man, He had suffered in the flesh for our sakes: for so He arose froin the dead. The Son therefore is, as l said, Lord; yet must He not be reckoned with those other lords, to whom the name of lordship is given and imputed: for He alone, as I said, is Lord by nature, being God the Word, Who transcends every created thing. And this the wise Paul teaches us saying; “That though there be “in heaven or in earth certain Gods many, and Lordships “many: yet to us there is one God the Father, from Whom “is everything and we from Him: and one Lord Jesus Christ, “ by Whom is everything and we by Him.” But even though there be but one God, Whose name is the Father; and one Lord, Who is the Son; yet neither is the Father put aside from being Lord, by reason of His being God by nature: nor does the Son cease from being God, because He is Lord by nature. For perfect freedom is the attribute of the divine and supreme substance only, and to be entirely-separate from the yoke of servitude: or rather, to have the creation put in subjection under Its feet. And therefore, though the Only-begotten Word of God became like unto us, and, as far as regarded the measure of the human nature, was placed” under the yoke of slavery :—for He purposely paid the Jewish tax-gatherers the two drachms according to the law of Moses ; —yet He did not conceal the splendour of the glory that dwelt in Him. For He asked the blessed Peter ; “ The kings of the “ earth, of whom do they receive tribute and poll-tax; of their “ own children, or of strangers? And when he had said, Of “ strangers: Then, said He, are the children free.” The Son therefore is in His own nature Lord as being free: as the wise Paul has again taught us, thus writing: “ But we all, with “ open face, beholding as in a glass the glory of the Lord, are “ changed into the same likeness, from glory to glory, as by
 
-Mat. xvii. 2 2 Cor. iii.
+[[Matthew 17#^17-2|Mat. xvii. 2]] 2 Cor. iii.
 
 *[p. 405]* ^pg45
 
@@ -74,7 +74,7 @@ Phil. ii. rr.
 
 2 Pet. ii 1.
 
-Eph. iv. 3.
+[[Ephesians 04#^4-3|Eph. iv. 3]].
 
 traduce His ineffable generation, by saying that He is not of the substance of the Father: yea rather, they count among things created Him Who is the Creator of all, and wickedly class with those who are under the yoke Him Who is Lord of all; although Paul affirms, that we must say that “Jesus is Lord.”
 
@@ -86,13 +86,13 @@ n As I have before mention- but that blasphemy against God its ed, the Syriac la
 
 *[p. 407]* ^pg47
 
-has reference to Christ himself, the Saviour of all, how can he be innocent, or secure from condemnation, who has spoken against Him? What then we say is this; that whenever any one, who has not yet learnt the meaning of His mystery, nor understood that being by nature God, He humbled Himself to our estate, and became man, speaks anything against Him, blasphemous to a certain extent, but yet not so wicked as to pass forgiveness, such things God will pardon in those who have sinned from ignorance. And to explain my meaning by an example; Christ somewhere said, “I am the living bread John vi.5r. “ which came down from heaven, and giveth life to the world.” Because therefore some did not know His glory, but thought that he was a mere man, they said, “Is not this the car- “penter’s son, Whose father and mother we know? How ‘doth He now say that I came down from heaven?” And again, He was once standing teaching in a synagogue, and was wondered at by them all. But some, it tells us, said, ‘“‘ How Johnvii.rs. “ knoweth this man learning, having never been taught?” For of course they knew not that “in Him are all the treasures of Col. ii. 3. “ wisdom, and the hidden things of knowledge.” Such things might well be forgiven, as being spoken inconsiderately from
+has reference to Christ himself, the Saviour of all, how can he be innocent, or secure from condemnation, who has spoken against Him? What then we say is this; that whenever any one, who has not yet learnt the meaning of His mystery, nor understood that being by nature God, He humbled Himself to our estate, and became man, speaks anything against Him, blasphemous to a certain extent, but yet not so wicked as to pass forgiveness, such things God will pardon in those who have sinned from ignorance. And to explain my meaning by an example; Christ somewhere said, “I am the living bread John vi.5r. “ which came down from heaven, and giveth life to the world.” Because therefore some did not know His glory, but thought that he was a mere man, they said, “Is not this the car- “penter’s son, Whose father and mother we know? How ‘doth He now say that I came down from heaven?” And again, He was once standing teaching in a synagogue, and was wondered at by them all. But some, it tells us, said, ‘“‘ How Johnvii.rs. “ knoweth this man learning, having never been taught?” For of course they knew not that “in Him are all the treasures of [[Colossians 02#^2-3|Col. ii. 3]]. “ wisdom, and the hidden things of knowledge.” Such things might well be forgiven, as being spoken inconsiderately from
 
 ignorance.
 
 But for those who have blasphemed the Godhead itself, condemnation is inevitable, and the punishment eternal both in this world and in that which is to come.
 
-For by the Spirit He here means not only the Holy Ghost, but also the whole nature of the Godhead, as understood (to consist) in the Father, and the Son, and the Holy Ghost. And the Saviour Himself also somewhere said, “‘ God is a Spirit.” John iv.24. Blasphemy therefore against the Spirit, is against the whole supreme substance: for as I said, the nature of the Deity, as offered to our understanding in the holy and adorable vocira.. Trinity, is one.
+For by the Spirit He here means not only the Holy Ghost, but also the whole nature of the Godhead, as understood (to consist) in the Father, and the Son, and the Holy Ghost. And the Saviour Himself also somewhere said, “‘ God is a Spirit.” [[John 04#^4-24|John iv.24]]. Blasphemy therefore against the Spirit, is against the whole supreme substance: for as I said, the nature of the Deity, as offered to our understanding in the holy and adorable vocira.. Trinity, is one.
 
 Let us therefore, as the writer of the book of Proverbs saith, “put a door and a bar to the tongue,” and draw near to Ecclus. the God over all, thus saying, “Set a watch, O Lord, upon my Ps. exli. 3. ‘mouth; and a door of safety about my lips; incline not my ‘“ heart to wicked words;” for those are wicked words which are against God. And if thus we rightly fear Him, Christ
 
@@ -100,7 +100,7 @@ Let us therefore, as the writer of the book of Proverbs saith, “put a door and
 
 will bless us: by Whom and with Whom to God the Father be praise and dominion, with the Holy Ghost, for ever and ever, Amen.°
 
-© §, Cyril having omitted vv. 11, 12, the Catenist has inserted, possibly from the Commentary on Mark xiii. 11, a few words to the effect that our Lord would have His disciples anxious only to defend the faith, and trust all besides to His care.
+© §, Cyril having omitted vv. 11, 12, the Catenist has inserted, possibly from the Commentary on [[Mark 13#^13-11|Mark xiii. 11]], a few words to the effect that our Lord would have His disciples anxious only to defend the faith, and trust all besides to His care.
 
 *[p. 409]* ^pg49
 
@@ -112,9 +112,9 @@ PAUL, as a wise man, recommends constancy in prayer: for he said, “ Pray witho
 
 *[p. 410]* ^pg50
 
-Luke vi.29.
+[[Luke 06#^6-29|Luke vi.29]].
 
-Mat. x. 9.
+[[Matthew 10#^10-9|Mat. x. 9]].
 
 Luke xii.
 
@@ -122,7 +122,7 @@ of His office He again Himself makes plain, “ For I am come, “ He says, to p
 
 But He does not leave us without instruction: for having found, so to speak, a seasonable opportunity, He frames a profitable and saving discourse ; and protesting as it were against them, declares, “Take heed, and keep yourselves from all covetousness?.”” He shewed us that pitfall of the devil,
 
-33. Mat. xix. 16. P In the text the translator had as here he has \[Zooc\\o, the used \[Zar\\., “ greediness,” where- word constantly elsewhere used by
+33. [[Matthew 19#^19-16|Mat. xix. 16]]. P In the text the translator had as here he has \[Zooc\\o, the used \[Zar\\., “ greediness,” where- word constantly elsewhere used by
 
 *[p. 411]* ^pg51
 
@@ -132,7 +132,7 @@ And this thou mayest learn from what He Himself says thereupon by the mouth of t
 
 “ Spirit” feminine, whereas his own him as the equivalent of mAcove£ia, custom is, wherever it refers to the As |Za.\\. is also used in the Peschito, (and the Philox.) I imagine that though the translator rendered the Greek directly into Syriac, yet that in the quotations his memory frequently suggested to him the words and phrases of the Peschito, as there frequently occur in texts archaic forms unlike his own more polished language. He has even once or twice made the Godhead, to make it masculine, in the same way as “the Word’’ is masculine, and not feminine, where-ever it refers to Christ. That he did not however use a translation directly, I infer from the fact, that he so frequently varies in his quotations, using synonyms even where evidently rendering exactly the same Greek text.
 
-Col. iii. 5.
+[[Colossians 03#^3-5|Col. iii. 5]].
 
 Amos v.11.
 
@@ -140,7 +140,7 @@ Amos v.11.
 
 Is. v. 8.
 
-James v. 4.
+[[James 05#^5-4|James v. 4]].
 
 “ your many wickednesses, and mighty are your sins.” And again, “ Woe unto those who add house to house, and join “ field to field, that they may take away something from their “neighbour. Will ye dwell alone in the earth? For these “ things have been heard in the ears of the Lord of hosts. “ For though your houses be many, they shall be a desolation : “ though they be great and fair, there shall be none to inhabit “them. For the ground that ten yoke of oxen till shall pro- “ duce one pitcher full: and he that soweth six artabse4 shall “ gather three measures.’ Although therefore houses and fields may be the fruit of the oppression of others, yet these, He says, shall lie waste, without inhabitants, and shall yield no profit whatsoever to those who will act wickedly, because the just wrath of God is poured out upon them. In every way therefore there is no profit in covetousness.
 
@@ -156,7 +156,7 @@ fusion of so many blessings beyond all numbering? In distress and anxiety he utt
 
 ‘ pared?’
 
-It is true therefore, that a man’s life is not from his possessions, by reason of his having a superfluity : but very blessed, and of glorious hope is he who is rich towards God. And who is he? Evidently one who loveth not wealth, but virtue rather, and to whom few things are sufficient: and whose hand is open Luke x. 42. to the necessities of the indigent, comforting the sorrows of those in poverty, according to his means, and the utmost of his power. It is he who gathers in the storehouses that are above, and lays up treasures in heaven. Such a one shall find the usury of his virtue, and the recompense of his upright and blamcless life; Christ shall bless him: by Whom, and with Whom, to God the Father be praise and dominion with the Holy Ghost, for ever and ever, Amen.
+It is true therefore, that a man’s life is not from his possessions, by reason of his having a superfluity : but very blessed, and of glorious hope is he who is rich towards God. And who is he? Evidently one who loveth not wealth, but virtue rather, and to whom few things are sufficient: and whose hand is open [[Luke 10#^10-42|Luke x. 42]]. to the necessities of the indigent, comforting the sorrows of those in poverty, according to his means, and the utmost of his power. It is he who gathers in the storehouses that are above, and lays up treasures in heaven. Such a one shall find the usury of his virtue, and the recompense of his upright and blamcless life; Christ shall bless him: by Whom, and with Whom, to God the Father be praise and dominion with the Holy Ghost, for ever and ever, Amen.
 
 A passage inserted in this place Com. on Luke, at all events is not by Mai, as quoted in a catena upon rightly placed here.
 
@@ -200,7 +200,7 @@ And He said unto His disciples ; Therefore I say unto you, Be not anxious for yo
 
 THE law of Moses was ordained for the Israelites, to guide them unto all whieh it was their duty to do, and to set clearly before them whatever was for their benefit. And they made this a matter of the greatest joy, saying, “ Blessed are the children “ of Israel: for unto us are made known the things that please “the Lord.” But I affirm, that we can even morc fitly and appropriately use these words : for it was not a prophet, nor yet an angel, who spake unto us, but the Son in His own person, even He Who is Lord of the holy angels and of the prophets. And this the wise Paul, the minister of His mysteries, clearly teaches us, thus writing; “ God, Who in manifold “parts and manifold manners spake in old times to the “fathers by the prophets, hath in these last days spoken “unto us by the Son, Whom Ife hath appointed Heir of all;
 
-bvta GSs. kal ri BT. 4 ri GSs. avtou BST. Tod Oeod s. om. wavra BT. Baruch iv. 4. Heb. i. 1.
+bvta GSs. kal ri BT. 4 ri GSs. avtou BST. Tod Oeod s. om. wavra BT. Baruch iv. 4. [[Hebrews 01#^1-1|Heb. i. 1]].
 
 *[p. 415]* ^pg55
 
@@ -212,13 +212,13 @@ He fashions the lives of the holy apostles unto spiritual excellence. But with t
 
 ~ And besides how is it not a base thing for those who are lovers of virtue, and carnest followers after such manly virtues as are excellent and approved of God, to be intoxicated with fine apparel like young boys, and to run after expensive banquets! For there follow immediately upon these things a savage crowd also of other lusts: and the result is apostasy from God: for it is written, ‘ Love not the world, neither the “ things that are in the world.” And again; “ Know ye not “ that the love of the world is enmity with God!” It is our duty therefore to keep our foot apart from all worldly desires, and rather to take delight in those things which please God.
 
-But perchance thou wilt reply to this, ‘ Who then will give ‘ us the necessaries of life?” And to this be our answer as follows; The Lord is worthy to be trusted; and He clearly promises it to thee, and by little things gives thee full assur- 1 John ii. 15.
+But perchance thou wilt reply to this, ‘ Who then will give ‘ us the necessaries of life?” And to this be our answer as follows; The Lord is worthy to be trusted; and He clearly promises it to thee, and by little things gives thee full assur- [[1 John 02#^2-15|1 John ii. 15]].
 
-James iv. 4.
+[[James 04#^4-4|James iv. 4]].
 
 *[p. 416]* ^pg56
 
-Luke xii. 4.
+[[Luke 12#^12-4|Luke xii. 4]].
 
 ance that He will be true also in that which is great. “ For “ consider, He says, the ravens: that they sow not, nor reap : “ they have neither closct nor store : and God feedeth them.” For just as, when He was strengthening us unto spiritual fortitude, He taught us to despise even death itself by saying, “ Fear not them that kill the body, but are not able to kill the “ soul;” and in the same way to make His providence plain to thee, used for His proof things utterly valueless, saying ; “ Are not two sparrows sold for one halfpenny? and not one “ of them falleth to the ground without your Father: “and “ the individual hairs of your head are all counted: fear not “ therefore; for ye are of more value than many sparrows :” so also here, from the birds and the flowers of the field, he produces in thee a firm and unwavering faith. Nor does He permit us at all to doubt, but that most certainly He will grant us His mercy, and stretch out His comforting hand, to bestow upon us in all things a sufficiency. It is morcover a very wicked thing, that while those who are placed under the yoke of bodily slavery depend upon their masters, as sufficient to supply them with food and clothing; we will not consent to ‘put our trust in Almighty God, when He promises us the necessaries of life.
 
@@ -262,7 +262,7 @@ And what is the proof of these things? ‘It is,’ He says, “ your Father's g
 
 And He calls these on earth a “little flock.” For we are inferior to the multitude of the angels, who arc innumerable, and incomparably surpass in might our mortal things. And this too the Saviour has Himself taught us, in that parable in the Gospels so excellently framed for our instruction: for He said, “ What man of you, that has a hundred sheep, and one “of them go astray, will not leave the ninety and nine upon “ the mountains, and go to seek that which has strayed? And
 
-t Cor. ii. 9. 1 Pet.i. 24. 1 John ii. RRo Luke xv. 4,
+t Cor. ii. 9. [[1 Peter 01#^1-24|1 Pet.i. 24]]. 1 John ii. RRo [[Luke 15#^15-4|Luke xv. 4]],
 
 *[p. 421]* ^pg61
 
@@ -290,7 +290,7 @@ And besides it is a very absurd thing, that while we often entrust men of probit
 
 *[p. 423]* ^pg63
 
-Who receives from us these earthly things, so to speak, as a loan, and promises to give us things eternal, and that with usury. ‘‘ For good measure,” He says, “ and pressed close, and Luke vi.38. “ weighing down the scale, and running over, shall they give “into your bosom.” And for the measure to run over, is a direct proof of its great abundance. Away then with this pleasure-loving wealth; this parent of base lusts; this inciter to carnal impurity; this friend of covetousness; this worker of boasting: which, as with indissoluble bonds, chains the human mind in effeminacy and indolence towards all that is good, and stretches out, so to speak, a stiff and haughty neck against God: for it yields not itself to that yoke which would lead it unto piety. And be gentle, and merciful, ready to communicate, and courteous. Tor the Lord is true, Who says; ‘‘ that “where thy treasure is, there is thy heart also.” For the whole earnestness of those who value these temporal things is set upon them; while those who wish for that which is in heaven, direct thither the eye of the mind. Be therefore, as I ‘said, friendly to thy companions, and merciful. And the blessed Paul makes me speak unto thee, where he writes; “ Charge “them who are rich in this world, that they be not high- “\* minded, nor trust in riches, wherein is no reliance, but on “ God, Who giveth us all things richly to enjoy: that they do “ good: that they be rich in good works, ready to give, and “ willing to share with others ; laying up for themselves trea- “‘ sures that shall be a good foundation for that which is to “‘ come, that they may bs hold upon true life.” These are the things which, if we earnestly practise, we shall become heirs of the kingdom of heaven, by Christ; by Whom and with Whom to God the Father be praise and dominion, with the Holy Ghost, for ever and cver, Amen.Y
+Who receives from us these earthly things, so to speak, as a loan, and promises to give us things eternal, and that with usury. ‘‘ For good measure,” He says, “ and pressed close, and [[Luke 06#^6-38|Luke vi.38]]. “ weighing down the scale, and running over, shall they give “into your bosom.” And for the measure to run over, is a direct proof of its great abundance. Away then with this pleasure-loving wealth; this parent of base lusts; this inciter to carnal impurity; this friend of covetousness; this worker of boasting: which, as with indissoluble bonds, chains the human mind in effeminacy and indolence towards all that is good, and stretches out, so to speak, a stiff and haughty neck against God: for it yields not itself to that yoke which would lead it unto piety. And be gentle, and merciful, ready to communicate, and courteous. Tor the Lord is true, Who says; ‘‘ that “where thy treasure is, there is thy heart also.” For the whole earnestness of those who value these temporal things is set upon them; while those who wish for that which is in heaven, direct thither the eye of the mind. Be therefore, as I ‘said, friendly to thy companions, and merciful. And the blessed Paul makes me speak unto thee, where he writes; “ Charge “them who are rich in this world, that they be not high- “\* minded, nor trust in riches, wherein is no reliance, but on “ God, Who giveth us all things richly to enjoy: that they do “ good: that they be rich in good works, ready to give, and “ willing to share with others ; laying up for themselves trea- “‘ sures that shall be a good foundation for that which is to “‘ come, that they may bs hold upon true life.” These are the things which, if we earnestly practise, we shall become heirs of the kingdom of heaven, by Christ; by Whom and with Whom to God the Father be praise and dominion, with the Holy Ghost, for ever and cver, Amen.Y
 
 ing partly his, but that the Ca-ten do not uniformly ascribe it to him appears from Aquinas, who assigns half of it to Theophylact, and half to Bede. Theophylact always borrows largely from Cyril, but interweaves his own very marked style of interpretation.
 
@@ -337,7 +337,7 @@ Quite unbefitting is an expression like this for heretics, whether they be the s
 
 @ Mai has a short interpolation “watch with unwinking eyes for here, possibly from some other “our Master’s nod.”
 
-work of S. Cyril, as follows: “And > In this quotation S. Cyril’s me- “that we must daily be prepared mory has apparently confounded “for our departure hence, and John xii. 40. with <sup>1</sup>John ii. 11.
+work of S. Cyril, as follows: “And > In this quotation S. Cyril’s me- “that we must daily be prepared mory has apparently confounded “for our departure hence, and [[John 12#^12-40|John xii. 40]]. with <sup>1</sup>[[John 02#^2-11|John ii. 11]].
 
 *[p. 426]* ^pg66
 
@@ -345,7 +345,7 @@ Ps, xiii. 3.
 
 Ex. xii. 6.
 
-1 Cor. v. 7.
+[[1 Corinthians 05#^5-7|1 Cor. v. 7]].
 
 Ex. xii. rr.
 
@@ -393,7 +393,7 @@ IT is a good and saving thing for us to direct the penetrating glance of the min
 
 *[p. 430]* ^pg70
 
-1 Cor. iii. 2.
+[[1 Corinthians 03#^3-2|1 Cor. iii. 2]].
 
 Heb. vy. r4.
 
@@ -441,7 +441,7 @@ But if, He says, neglecting the duty of being diligent and faithful, and despisi
 
 *[p. 433]* ^pg73
 
-received the five talents, or even yet more, and laboured and loved service, were honoured with glorious dignities. For they heard, the one of them, “ Be thou over ten,” and the other, “ Be thou over five cities :” while that contumelious and slothful servant suffered the severest condemnation. To be negligent therefore in discharging the duties of the ministry is everywhere dangerous, or rather, brings upon men perdition: but to perform them with unwearying zeal earns for us life and glory. And this means to discourse to our fellow servants correctly and without error the things which relate to God, and whatsoever is able to benefit them in attaining both to the knowledge and the ability to walk uprightly. And the blessed Paul \[Peter\] also writes to certain persons, “ Feed the flock of <sup>1</sup>Pet. v. 2. “ God which is among you, that when the Chief Shepherd « shall appear, ye may receive your reward.” And as knowing that slothfulness is the door of perdition, he again said, «Woe is me, if I preach not.” 1Cor. ix.16.
+received the five talents, or even yet more, and laboured and loved service, were honoured with glorious dignities. For they heard, the one of them, “ Be thou over ten,” and the other, “ Be thou over five cities :” while that contumelious and slothful servant suffered the severest condemnation. To be negligent therefore in discharging the duties of the ministry is everywhere dangerous, or rather, brings upon men perdition: but to perform them with unwearying zeal earns for us life and glory. And this means to discourse to our fellow servants correctly and without error the things which relate to God, and whatsoever is able to benefit them in attaining both to the knowledge and the ability to walk uprightly. And the blessed Paul \[Peter\] also writes to certain persons, “ Feed the flock of <sup>1</sup>Pet. v. 2. “ God which is among you, that when the Chief Shepherd « shall appear, ye may receive your reward.” And as knowing that slothfulness is the door of perdition, he again said, «Woe is me, if I preach not.” [[1 Corinthians 09#^9-16|1Cor. ix.16]].
 
 And that bitter and inevitable punishment is threatened against those who are slothful in this duty, the Saviour immediately shewed, by adding to what had been already said two examples one after the other. “ For the servant,” He says, “ who “new his master’s will, and did it not, neither prepared “ according to his will, shall be beaten with many stripes: but “he who knew it not, and did things worthy of stripes, shall “be beaten with few stripes.” Now the guilt is indisputable in the case of him who knew his master’s will, but afterwards neglected it, and did nothing that was fitting, and which it was his duty to do. For it is manifest contumely, and therefore the many stripes. But for what reason were the few stripes inflicted on him who neither knew nor did his master's will? For some one, for instance, may say, How can he who knew it not be guilty? The reason is, because he would not know it, although it was in his power to learn. But if he who is , entirely ignorant of it does not escape from anger, because when it was his duty to know he neglected the means of learning, what plea can deliver him from justly bearing many stripes, who knew, and disregarded it? “ For unto whomso- “ ever much is given, of him shall be much required : and to « whom men have committed much, of him they will require “ the more.”
 
@@ -449,9 +449,9 @@ And that bitter and inevitable punishment is threatened against those who are sl
 
 *[p. 434]* ^pg74
 
-2 Tim. ii. 7.
+[[2 Timothy 02#^2-7|2 Tim. ii. 7]].
 
-2 Tim. i. 6.
+[[2 Timothy 01#^1-6|2 Tim. i. 6]].
 
 Very severe therefore is the condemnation of those who teach. And this Christ’s disciple shews us, saying, “ Let there \* not be many teachers among you, my brethren, knowing that “we shall receive the greater condemnation.” For abundant is the bestowal of spiritual gifts upon those who are the chiefs of the people: for so the wise Paul also somewhere wrote to the blessed Timothy ; “ The Lord shall give thee wisdom in “every thing.” And, “ Despise not the gift that is in thee, “which was given thee by the laying on of my hands.” From such as these then, the Saviour of all, in that He hath given them much, requires much in return. And what are the virtues He requires? Constancy in the faith; correctness in teaching; to be well grounded in hope; unwavering in patience ; invincible in spiritual strength ; cheerful and brave in every more excellent achievement: that so we may be examples to others of the evangelic life. For if we will thus live, Christ will bestow upon us the crown; by Whom and with Whom, to God the Father be praise and dominion, with the Holy Ghost, for ever and ever, Amenf.
 
@@ -481,11 +481,11 @@ Rom. xii.
 
 i.
 
-John iii. 5.
+[[John 03#^3-5|John iii. 5]].
 
 Mal. iii. 1.
 
-Luke i. 35.
+[[Luke 01#^1-35|Luke i. 35]].
 
 Jobn xv.
 
@@ -503,7 +503,7 @@ of all cleanses by the doctrines of the Gospel in the power of the Spirit, the m
 
 And further the prophet Isaiah also said, that ‘‘ He saw the Ts. vi. r. “ Lord of Sabaoth sitting upon a throne high, and lifted up: “and around Him stood the Seraphim, praising Him. Then “ said He to himself, Alas for me a sinner, for I repent me: in “that being a man, and of unclean lips, I dwell among a “ people of unclean lips, and have seen with my eyes the King, “the Lord of Sabaoth.” But to this he adds, that “ one of “the Seraphim was sent unto me, and in his hand he had a “ live coal, which he had taken with the tongs from the altar, “and he touched with it my mouth, and said, Lo! this hath “ touched thy lips, and it shall take away thy sins, and cleanse “ thee of thy iniquities.” What interpretation then are we to put upon the coal which touched the prophet’s lips, and cleansed him from all sin? Plainly it is the message of salyation, and the confession of faith in Christ, which whosoever receiveth with his mouth is forthwith and altogether purified. And of this Paul thus assureth us; “that if thou shalt say with “thy mouth that Jesus is Lord, and shalt believe in thy heart “that God hath raised Him from the dead, thou shalt be “ saved.”
 
-We say then that the power of the divine message resembles a live coal and fire. And the God of all somewhere said to the Rom. x. 9.
+We say then that the power of the divine message resembles a live coal and fire. And the God of all somewhere said to the [[Romans 10#^10-9|Rom. x. 9]].
 
 prophet Jeremiah, “Behold, I have made My words in thy Jer. v. 14. “ mouth to be fire, and this people to be wood, and it shall “ devour them.” And again, “ Are not My words as burning Jer. xxiii. “ fire, saith the Lord?” Rightly therefore did our Lord Jesus Christ say unto us, “I am come to throw fire upon earth; and “ what will I, if it be already kindled?” For already some of the Jewish crowd believed on Him, whose firstfruits were the divine disciples: and the fire being once kindled was soon to seize upon the whole world, immediately that the whole dispensation had attained to its completion: as soon, that is, as He had borne His precious passion upon the cross, and had commanded the bonds of death to cease. For He rose on the third day from the dead.
 
@@ -543,7 +543,7 @@ peace: for Thou hast given us all things.” But not every
 
 peacei necessarily is free from blame: there is sometimes, so to speak, an unsafe peace, and which separates from the love of God those who, without discretion or examination, set too high a value upon it. As for instance: the determination to avoid evil men, and refuse to be at peace with them ;—by which I mean the not submitting to entertain the same sentiments as they do ;—is a thing profitable and useful to us. And in like manner the opposite course is injurious to those who have believed in Christ, and attained to the knowledge of His mystery: to such it is unprofitable to be willing to follow the same sentiments as those who wander away from the right path, and have fallen into the net of heathen error, or been caught in the snares of wicked heresies. With these it is honourable to contend, and to set the battle constantly in array against them, and to glory in holding opposite sentiments; so that even though it be a father that believes not, the son is free from blame who contradicts him, and resists his opinions. And in like manner also the father, if he be a believer, and true unto God, but his son disobedient ‘and evilly disposed, and that opposeth the glory of Christ, is also free from blame, if he disregard natural affection, and disowns him as his child. And the same reasoning holds with respect to mother and daughter: and daughter-in-Jaw and mother-in-law. For it is right that those who are in error should follow those who are sound in mind: and not, on the contrary, that those should give way whose choice is to
 
-\*\* peace is an honourable thing,” form, and which, after dilating and gives the rest in accordance upon the seeming contradiction between Christ’s declarations, that He especially gives peace, (John xiv. 27.), and yet is come not to give peace upon earth, finally solves the difficulty by quoting <sup>1</sup>Cor.
+\*\* peace is an honourable thing,” form, and which, after dilating and gives the rest in accordance upon the seeming contradiction between Christ’s declarations, that He especially gives peace, ([[John 14#^14-27|John xiv. 27]].), and yet is come not to give peace upon earth, finally solves the difficulty by quoting <sup>1</sup>Cor.
 
 v. 11. that we are not even to eat with a fornicator; and <sup>2</sup>John to, \_ that we are not to receive a heretic.
 
@@ -551,11 +551,11 @@ It then inserts 870 ydp before the next passage, “Tor it is plain that general
 
 *[p. 440]* ^pg80
 
-Mat. x. 37.
+[[Matthew 10#^10-37|Mat. x. 37]].
 
 Ps. xxii. 22.
 
-Gal. iv. 26.
+[[Galatians 04#^4-26|Gal. iv. 26]].
 
 entertain correct sentiments, and who have a sound knowledge of the glory of God.
 

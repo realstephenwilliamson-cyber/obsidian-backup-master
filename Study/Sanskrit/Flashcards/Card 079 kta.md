@@ -20,16 +20,13 @@ nyasa: "ka: right shoulder (*skandha*) · ta: left hip (*kaṭi*)"
 ## Front
 
 - **Glyph:** क्त
-- **Variation:** क्‍त (half-ka + ta)
 - **Example:** भक्त
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘bhakta’ (devoted)
-- **Class (as printed):** —
-- **Grid:** the five rows of stops + य र ल व + श ष स ह; in bold: क, त
-- **Example:** bhakta (devoted)
+> [!note]- Back
+> - **Pronunciation:** As in ‘bhakta’ (devoted)
+> - **Variation:** क्‍त (half-ka + ta)
+> - <u>क</u> ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / <u>त</u> थ द ध न / प फ ब भ म / य र ल व / श ष स ह
+> - **Example:** bhakta (devoted)
 
 ## Register
 

@@ -27,7 +27,7 @@ brahmādikāraṇānyakṣāṇyeva sā pañcakātmikā || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#^pg406|p. 389]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=406>))
 >
-> (Kundalin?’s five hoods represent her) fivefold nature as 1) (the five) Forces, 2) (five) principles, 3) (five) (goddesses, that is) Nandā and the rest, 4) (five) Voids, 5) (five) Kulas, 6) (five) causes, namely, Brahmā and the rest, and 7) the (five) senses. In this way, (the goddess) with five aspects has emerged from the Abode of Brahmā (the Abode of Birth), and enters the Place of Brahmā (the End of the Twelve, where) she shines beautifully (in the form of) a lightning flash. Having entered (therein), she should pierce the (subtle) body and penetrate through the Self.°"’. The Piercing of the Snake is explained in this way in the Bhairavāgama. (with 29.249–251)
+> (Kundalin?’s five hoods represent her) fivefold nature as 1) (the five) Forces, 2) (five) principles, 3) (five) (goddesses, that is) Nandā and the rest, 4) (five) Voids, 5) (five) Kulas, 6) (five) causes, namely, Brahmā and the rest, and 7) the (five) senses. In this way, (the goddess) with five aspects has emerged from the Abode of Brahmā (the Abode of Birth), and enters the Place of Brahmā (the End of the Twelve, where) she shines beautifully (in the form of) a lightning flash. Having entered (therein), she should pierce the (subtle) body and penetrate through the Self. The Piercing of the Snake is explained in this way in the Bhairavāgama. (with 29.249–251)
 
 ## Viveka
 

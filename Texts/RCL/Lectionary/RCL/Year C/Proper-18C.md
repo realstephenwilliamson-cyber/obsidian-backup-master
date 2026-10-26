@@ -11,6 +11,7 @@ second_reading: "Philemon 1:1-21"
 gospel: "Luke 14:25-33"
 first_reading_complementary: "Deuteronomy 30:15-20"
 psalm_complementary: "Psalm 1"
+psalm_bcp_complementary: "Psalm 1"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-18]]"
 cssclasses:

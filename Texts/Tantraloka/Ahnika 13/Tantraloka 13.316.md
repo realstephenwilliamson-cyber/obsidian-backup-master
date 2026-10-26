@@ -29,7 +29,7 @@ svacchandaśāstre proktaṃ ca vaiṣṇavādiṣu ye ratāḥ || ^iast
 >
 > Such (a teacher) is firmly governed by Vāmā, and is the most fettered of souls (paśūttama). Even though he has heard sufficiently about the knowledge of Śiva, his sole attitude (vrttitva) is dualistic, and he does not give it up. How can one who, once obscured by Śiva and is, by the power of (karmic) necessity (niyati), rendered dependent (on others) (paratantrita), attain the Lord’s plane of being (patipada)? (with 13.314cd–316ab)
 >
-> It is also said in the Svacchandasāstra that those who are devoted to the followers of Viṣṇu etc. ‘are made to wander about, (confused) by Māyā in what is not liberation, because of (their) desire for liberation. ° (with 13.316cd–317ab)
+> It is also said in the Svacchandasāstra that those who are devoted to the followers of Viṣṇu etc. ‘are made to wander about, (confused) by Māyā in what is not liberation, because of (their) desire for liberation.’ (with 13.316cd–317ab)
 
 ## Viveka
 

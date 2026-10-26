@@ -93,7 +93,7 @@ might drive away the sin of the world, that He might overturn the destroyer of t
 
 He leads the hearers to remembrance of his words, and yields to Christ the superiority in glory, accomplishing the work, not of love, but rather of truth and necessity. For the creature is subject, even if it willeth not, to the Creator,
 
-Isa. xxv. x. LXX. 1 Cor. xv. 55, from Hos. xiii. 14. Ps. cvii. 42. Rom. viii. 33, 34. Gal, iii. 13.
+Isa. xxv. x. LXX. [[1 Corinthians 15#^15-55|1 Cor. xv. 55]], from Hos. xiii. 14. Ps. cvii. 42. [[Romans 08#^8-33|Rom. viii. 33]], [[Romans 08#^8-34|34]]. Gal, iii. 13.
 
 *[p. 133]* ^pg197
 
@@ -138,7 +138,7 @@ Bese tinction be also imperfect: and if ought again be imperfect, ~\~" this too 
 
 simple.
 
-But perchance some one will say, that contraries are incompatible, and not co-existent in one subject at the same time, as for instance in a body white and black skin to- 4 γοργῶς gether. Well, my friend, and very bravely\* hast thou backed up my argument. For if the Divine Nature be One, and there be none other than It, how, tell me, will It admit of contraries? How will things unlike to one another come together into one subject? But since the Father is by Nature God, the Son too is by Nature God. He will therefore in nothing differ, in respect of being Perfect, from the Father, since He is begotten of His Divine and most Perfect Essence. For must not He needs be Perfect Who is of a Perfect Heb.i.3. Parent, since He is both His exact Likeness, and the express Image of His Person, as it is written? But every one will I suppose consent and agree to this. Or let him come forward and say, how the Son is the exact Image of the Perfect Father, not having Perfection in His Own Nature, according to the uncounsel of some. ‘For since He is the Impress and Image, He is Himself too perfect as He, \_ Whose Image He is.
+But perchance some one will say, that contraries are incompatible, and not co-existent in one subject at the same time, as for instance in a body white and black skin to- 4 γοργῶς gether. Well, my friend, and very bravely\* hast thou backed up my argument. For if the Divine Nature be One, and there be none other than It, how, tell me, will It admit of contraries? How will things unlike to one another come together into one subject? But since the Father is by Nature God, the Son too is by Nature God. He will therefore in nothing differ, in respect of being Perfect, from the Father, since He is begotten of His Divine and most Perfect Essence. For must not He needs be Perfect Who is of a Perfect [[Hebrews 01#^1-3|Heb.i.3]]. Parent, since He is both His exact Likeness, and the express Image of His Person, as it is written? But every one will I suppose consent and agree to this. Or let him come forward and say, how the Son is the exact Image of the Perfect Father, not having Perfection in His Own Nature, according to the uncounsel of some. ‘For since He is the Impress and Image, He is Himself too perfect as He, \_ Whose Image He is.
 
 But, says one, John saw the Spirit descending from Heaven wpon the Son, and He has Sanctification from without, for He receives it as not having it. ‘Time then is it to call Him openly a creature, barely honoured with a little excellence, perfected and sanctified in equal rank with the rest, and having His supply of good things an acquired one. Then how Supra does the Evangelist not lie, when he says, Of His fulness ver 16. have all we received 2 For how will He be full in His Own Nature, Who Himself receiveth from Another? Or how
 
@@ -225,7 +225,7 @@ S. Cyril with oldest MSS. and the first translation of most of the N. T.
 
 €.1.82, 33.
 
-S. Mark i.7.
+S. [[Mark 01#^1-7|Mark i.7]].
 
 S. Luke 1. 15.
 
@@ -255,7 +255,7 @@ Rom. viii.
 
 15\.
 
-1S. John iv. 18.
+[[1 John 04#^4-18|1S. John iv. 18]].
 
 Supraver, 18.
 
@@ -596,7 +596,7 @@ ple? Or let one come forward and say, what saint’s body was ever called a temp
 
 But haply some one will say: How then, tell me, doth the Sayiour Himself call His own Body a carcase, For wheresoever He saith the carcase® is, there will the eagles be gathered together. 'To this we say, that Christ saith this not of His Own Body, but in manner and guise of a parable He signifieth that concourse of the Saints to Him, that shall be at that time when He appeareth again to us, with the holy angels, in the glory of His Father. For like as, saith He, flocks of carnivorous birds rush down with a sharp whizzing to fallen carcases, so shall ye too be gathered together to Me. Which indeed Paul too doth make known to us, saying, Jor the trumpet shall sound, and the dead shall be raised incorruptible; And again in another place, and we shall be caught up in the clouds to meet the Lord in the air, and so shall we ever be with the Lord. That therefore which is taken by way of similitude for an image will no wise damage the force of the truth.
 
-[^10]: xxiv. 28. ὃ πτῶμα Tb. xvi.27. 1 Cor. xv. HY, 1 Thess. iv. 17. © πτῶμα. S. Mark vi. 29, andsoreads uncial MSS. BCDL and the Codex | S. Cyril in 8. Matthew too, as do the Sinaitieus.
+[^10]: xxiv. 28. ὃ πτῶμα Tb. xvi.27. 1 Cor. xv. HY, [[1 Thessalonians 04#^4-17|1 Thess. iv. 17]]. © πτῶμα. S. [[Mark 06#^6-29|Mark vi. 29]], andsoreads uncial MSS. BCDL and the Codex | S. Cyril in 8. Matthew too, as do the Sinaitieus.
 
 *[p. 165]* ^pg229
 

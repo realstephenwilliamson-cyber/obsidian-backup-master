@@ -8,7 +8,7 @@ editor:
   - Michael Berg
 translator: []
 year: 2003
-publisher: Kabbalah Publishing
+publisher: "Kabbalah Centre International, New York"
 series: ""
 volume: ""
 container: ""
@@ -19,7 +19,7 @@ language:
   - English
 pages: 3782
 text: searchable
-status: review
+status:
 print: false
 files:
   - "[[Berg (ed.) - The Zohar, Volumes 1-23 (Kabbalah Publishing 2003).pdf]]"
@@ -48,3 +48,5 @@ The central work of Kabbalah: a group of books, mostly in Aramaic, that read the
 - **Why it matters:** Britannica says many Kabbalists gave it a sanctity normally reserved for the Torah and Talmud, and that its wide influence came after the expulsion from Spain in 1492. Critics from Elia del Medigo, who argued that it could not be Shimon bar Yochai's work, to Jacob Emden, who called it a forgery, rejected its antiquity.
 
 Sources: [Wikipedia, "Zohar"](https://en.wikipedia.org/wiki/Zohar) · [Britannica, "Sefer ha-zohar"](https://www.britannica.com/topic/Sefer-ha-zohar) · [Stanford University Press, Pritzker Edition press release](https://supress.sites-pro.stanford.edu/sites/supress/files/media/file/4810_Press_Release.pdf) · *Drafted by AI on 13 Oct 2026 from these sources.*
+
+**Settled** (25 Oct 2026, from library catalogues and the web; Open items): the printed set is *The Zohar: by Rav Shimon bar Yochai: from the book of Avraham: with the Sulam commentary by Rav Yehuda Ashlag*, edited and compiled by Michael Berg, [rev. ed.], New York: Kabbalah Centre International, ©2003, 23 volumes ([East Carolina University library, LCCN 2005416996](https://lib.ecu.edu/catalog-preview/catalog/1087032); [State Library of New South Wales](https://devfeature-collection.sl.nsw.gov.au/record/74VKawqjxG83)). The publisher is corrected from the file name's "Kabbalah Publishing". The PDF itself is the 2011 web capture of the Kabbalah Centre's online Zohar described above, not a scan of the printed volumes.

@@ -219,7 +219,7 @@ vante;
 
 yó víśvasya pratimānam ba-
 
-bhūū́va,
+bhū́va,
 
 yó acyutacyút: sá, jaąnāsa,
 
@@ -985,7 +985,7 @@ gA रिषः संपृचः पाहि सूरोन्।
 
 *[p. 72]* ^pg106
 
-Though every word is clear in this stanza the meaning of the whole is somewhat uncertain. It seems to be this: Apām napāt is produced from both the terrestrial and the heavenly waters. He is invoked to protect sacrificers from injury. He himself dwells beyond the reach of foes. áśvasya: Agni is often spoken of as a steed. átra: here, i.e. in the waters of earth. svèr: this is the only passage in the RV. in which the word is not to be read as súar; it is here a loc. without the ending i (see 82c). pāhi: the change from the 3. to the 2. prs. in the same stanza is common in the RV. with reference to deities. On this form depends the abl. inf. sampṛṛ́cas as well as the two preceding ablatives : lit. protect the patrons from malice and from injury, from falling in with them (cp. p- 337a) āmásu: în the unbaked, i.e. natural (cloud) citadels. pūrṣú: loc. pl. of púr, 82. parás: note the difference of accent between this adv. and the N. s. adj. páras yonder, other. naśat: inj. pr. of 8. naś reach.
+Though every word is clear in this stanza the meaning of the whole is somewhat uncertain. It seems to be this: Apām napāt is produced from both the terrestrial and the heavenly waters. He is invoked to protect sacrificers from injury. He himself dwells beyond the reach of foes. áśvasya: Agni is often spoken of as a steed. átra: here, i.e. in the waters of earth. svèr: this is the only passage in the RV. in which the word is not to be read as súar; it is here a loc. without the ending i (see 82c). pāhi: the change from the 3. to the 2. prs. in the same stanza is common in the RV. with reference to deities. On this form depends the abl. inf. sampṛ́cas as well as the two preceding ablatives : lit. protect the patrons from malice and from injury, from falling in with them (cp. p- 337a) āmásu: în the unbaked, i.e. natural (cloud) citadels. pūrṣú: loc. pl. of púr, 82. parás: note the difference of accent between this adv. and the N. s. adj. páras yonder, other. naśat: inj. pr. of 8. naś reach.
 
 oa m सुदुघा a ag
 

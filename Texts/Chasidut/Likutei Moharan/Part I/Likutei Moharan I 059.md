@@ -63,7 +63,7 @@ Likewise, this is the aspect of a forbidden object being neutralized in an admix
 
 A forbidden object, which is the force of evil, is neutralized by means of the “thrones of *mishpat”* ([[Psalms 122#^122-5|Psalms 122:5]]). Yet only the circle is mentioned, since it is in a revealed state. The square, however, is concealed within the circle. Yet the main power of the *samekh* is only from the square—i.e., from the *mem,* in the aspect of “give him forty lashes” ([[Torah 49 - Ki Teitzei#^25-3|Deuteronomy 25:3]]). This is because the *samekh* receives from the *mem,* this being “thrones of *mishpat*.”
 
-And this is the explanation of: The *mem* and *samekh* on the Tablets were held in place by a *neis* (miracle) ([[Shabbat 104#104a|*Shabbat* 104a]]). *Mem* is the square and *samekh* is the aforementioned circle that are on the tablets of the heart, as it is written ([[Proverbs 03#^3-3|Proverbs 3:3]]), “inscribe them on the tablet of your heart.”
+And this is the explanation of: The *mem* and *samekh* on the Tablets were held in place by a *neis* (miracle) (*Shabbat* [[Shabbat 104#104a|104a]]). *Mem* is the square and *samekh* is the aforementioned circle that are on the tablets of the heart, as it is written ([[Proverbs 03#^3-3|Proverbs 3:3]]), “inscribe them on the tablet of your heart.”
 
 “They were held in place by a *neis*.” “By a *neis”* is the aspect of Shabbat, the aspect of “[Shabbat] is an *ot* (sign) for all eternity” ([[Torah 21 - Ki Tisa#^31-17|Exodus 31:17]]) .
 
@@ -83,7 +83,7 @@ When a person acquires wealth, he has a wall, and the wall of wealth restrains h
 
 In the main, the way to guard the name, which is guarding the soul, is only by guarding against anger. This is because anger blemishes one’s soul, in the aspect of “He tears apart his soul with his anger” ([[Job 18#^18-4|Job 18:4]]). However, when a person guards against anger and enhances the wall of wealth, through which he enhances his name and soul as well, then all the souls long to be encompassed in his soul. This is because all souls are rooted in wealth, in the aspect of “his soul depends on it” ([[Torah 49 - Ki Teitzei#^24-15|Deuteronomy 24:15]]) .
 
-Because of this, when someone steals money from a Jew, it is like stealing his soul ([[Bava Kamma 119#119a|*Bava Kama* 119a]]), in the aspect of “and rob the soul of those who rob them” ([[Proverbs 22#^22-23|Proverbs 22:23]]). This is the reason that everyone longs to get close to a rich person, since the root of their soul is there.
+Because of this, when someone steals money from a Jew, it is like stealing his soul (*Bava Kama* [[Bava Kamma 119#119a|119a]]), in the aspect of “and rob the soul of those who rob them” ([[Proverbs 22#^22-23|Proverbs 22:23]]). This is the reason that everyone longs to get close to a rich person, since the root of their soul is there.
 
 Thus it is that someone who merits producing Torah scholars and having many people’s souls encompassed in his soul, this is certainly “better than sons or daughters.” For sons and daughters are few, while these are many, and they all receive life-force from him, as though he fathered them.
 

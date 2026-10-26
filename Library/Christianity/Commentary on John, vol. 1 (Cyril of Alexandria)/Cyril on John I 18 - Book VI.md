@@ -59,7 +59,7 @@ But unless we had much considered it in our minds, we should with reason have re
 
 *[p. 652]* ^pg716
 
-c. vill. 44, S. Luke viii. 31.
+c. vill. 44, S. [[Luke 08#^8-31|Luke viii. 31]].
 
 S. Mark i, 24,
 

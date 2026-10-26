@@ -30,7 +30,7 @@ na muktāste tadajñānabandhanaikādhivāsitāḥ || ^iast
 > [!source] Dyczkowski, vol. IV
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 04 (Dyczkowski)/Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#^pg284|p. 269]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 04.pdf#page=284>))
 >
-> ‘The Yogis who do not know (the nature of) birth, persistence and reabsorption are not liberated. (Indeed,) they are pervaded (adhivāsita) solely by the bondage of (their) ignorance of that.
+> ‘The Yogis who do not know (the nature of) birth, persistence and reabsorption are not liberated. (Indeed,) they are pervaded (adhivāsita) solely by the bondage of (their) ignorance of that.’
 
 ## Viveka
 

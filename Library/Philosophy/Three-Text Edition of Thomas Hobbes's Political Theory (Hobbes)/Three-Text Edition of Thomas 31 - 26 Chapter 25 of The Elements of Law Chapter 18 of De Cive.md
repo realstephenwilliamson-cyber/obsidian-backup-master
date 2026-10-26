@@ -264,13 +264,13 @@ los. 3, 20, 22: *Children, obey your par-* of his eternal salvation, it is unjus
 
 *ents in all things; servants, be obedient* to obey them; and the apostle’s precepts 
 
-*to your masters according to the flesh, in* take place (Col. iii. 20–22): *Children* 
+*to your masters according to the flesh, in* take place ([[Colossians 03#^3-20|Col. iii. 20–22]]): *Children* 
 
 *all things.* And verse 23: *Do it heartily as obey your parents in all things: servants* 
 
 *to the Lord.* These places considered, it *in all things obey your masters according to the flesh.* And the command of 
 
-seemeth strange to me, that any man in Christ (Matth. xxiii. 2–3): *The Scribes* 
+seemeth strange to me, that any man in Christ ([[Matthew 23#^23-2|Matth. xxiii. 2–3]]): *The Scribes* 
 
 a Christian commonwealth should have *and Pharisees sit in Moses’ chair; all* 
 
@@ -288,7 +288,7 @@ appeareth no reason that Christians rather to choose to die a natural death,
 
 should allege the same against their than by obeying to die eternally: and 
 
-Christian governors, that command to then comes in that which Christ says (Matth. x. 28): *Fear not them who kill the* 
+Christian governors, that command to then comes in that which Christ says ([[Matthew 10#^10-28|Matth. x. 28]]): *Fear not them who kill the* 
 
 preach Christ. To reconcile this seem- *body, but cannot kill the soul.* We must 
 
@@ -342,7 +342,7 @@ Peter converted on the day of *Pente-* God? If they bee, why are not Christians
 
 *cost,* demanding him, what they should taught to obey them? If they be not, what 
 
-do: he answered (Acts ii. 38): *Repent* others are so, besides the Law of Nature? 
+do: he answered ([[Acts 02#^2-38|Acts ii. 38]]): *Repent* others are so, besides the Law of Nature? 
 
 *and be baptized every one of you, in the* For our Saviour Christ hath not given us 
 
@@ -366,9 +366,9 @@ the words of Christ, answering the law-none but the Laws of Nature, whereof
 
 yer who asked him what he should do the principall is, that we should not vio-
 
-to inherit eternal life (Luke xviii. 20): 
+to inherit eternal life ([[Luke 18#^18-20|Luke xviii. 20]]): 
 
-late our Faith, that is, a commandement *Thou knowest the commandments: Thou* to obey our Civill Soveraigns, which wee *shalt not kill, thou shalt not commit* constituted over us, by mutuall pact one *adultery,* &c. which refer to obedience; with another. And this Law of God, that and (Mark x. 21): *Sell all that thou hast,* commandeth Obedience to the Law *and come and follow me:* which relates Civill, commandeth by consequence to faith. And by that which is said: *The* Obedience to all the Precepts of the Bi- *just shall live by faith;* not every man, ble, which (as I have proved in the precebut the *just;* for *justice* is the same dis-dent Chapter) is there onely Law, where position of will which *repentance and* the Civill Soveraign hath made it so; and *obedience* are. And by the words of St. 
+late our Faith, that is, a commandement *Thou knowest the commandments: Thou* to obey our Civill Soveraigns, which wee *shalt not kill, thou shalt not commit* constituted over us, by mutuall pact one *adultery,* &c. which refer to obedience; with another. And this Law of God, that and ([[Mark 10#^10-21|Mark x. 21]]): *Sell all that thou hast,* commandeth Obedience to the Law *and come and follow me:* which relates Civill, commandeth by consequence to faith. And by that which is said: *The* Obedience to all the Precepts of the Bi- *just shall live by faith;* not every man, ble, which (as I have proved in the precebut the *just;* for *justice* is the same dis-dent Chapter) is there onely Law, where position of will which *repentance and* the Civill Soveraign hath made it so; and *obedience* are. And by the words of St. 
 
 in other places but Counsell; which a Mark (i. 15): *The time is fulfilled, and* man at his own perill, may without in- *the kingdom of God is at hand; repent ye,* justice refuse to obey.
 
@@ -540,7 +540,7 @@ By what hath been said, the difference appears, first, between *faith* and *prof
 
 takes a proposition broken and chewed; that swallows it down whole and entire. The explication of words, whereby the matter enquired after is propounded, is conducible to knowledge; nay, the only way *to know,* is by *definition.* But this is prejudicial to *faith;* for those things which exceed human capacity, and are propounded to be believed, are never more evident by explication, but, on the contrary, more obscure and harder to be credited. And the same thing befalls a man, who endeavours to demonstrate *the mysteries of faith* by natural reason, which happens to a sick man, who will needs chew before he will swallow his wholesome but bitter pills; whence it comes to pass, that he presently brings them up again; which perhaps would otherwise, if he had taken them well down, have proved his remedy.
 
-5\. We have seen therefore what it is *to believe.* But what is it *to believe in Christ?* Or what proposition is that, which is the object of our faith in Christ? For when we say, *I believe in Christ,* we signify indeed whom, but not what we believe. Now, *to believe in Christ* is nothing else but to believe that Jesus is the Christ, namely, he who according to the prophecies of Moses and the prophets of Israel, was to come into this world *to institute the kingdom of God.* And this sufficiently appears out of the words of Christ himself to Martha (John xi. 25– 27): *I am,* saith he, *the resurrection and the life; he that believeth in me, though he were dead, yet shall he live; and whosoever liveth and believeth in me, shall never die. Believest thou this? She saith unto him, yea, Lord, I believe that thou art the Christ the Son of God, which should come into the world.* In which words, we see that the question, *believest thou in me,* is expounded by the answer, *thou art the Christ.* To believe in Christ therefore is nothing else but to believe Jesus himself, saying that he is the Christ.
+5\. We have seen therefore what it is *to believe.* But what is it *to believe in Christ?* Or what proposition is that, which is the object of our faith in Christ? For when we say, *I believe in Christ,* we signify indeed whom, but not what we believe. Now, *to believe in Christ* is nothing else but to believe that Jesus is the Christ, namely, he who according to the prophecies of Moses and the prophets of Israel, was to come into this world *to institute the kingdom of God.* And this sufficiently appears out of the words of Christ himself to Martha ([[John 11#^11-25|John xi. 25– 27]]): *I am,* saith he, *the resurrection and the life; he that believeth in me, though he were dead, yet shall he live; and whosoever liveth and believeth in me, shall never die. Believest thou this? She saith unto him, yea, Lord, I believe that thou art the Christ the Son of God, which should come into the world.* In which words, we see that the question, *believest thou in me,* is expounded by the answer, *thou art the Christ.* To believe in Christ therefore is nothing else but to believe Jesus himself, saying that he is the Christ.
 
 *[p. 528]* ^pg555
 
@@ -593,7 +593,7 @@ as of faith. And John 6, 28, 29: *Then said* we should believe Jesus to be the C
 
 *whom he hath sent.* So that the point to down expressly in the end of his gos-
 
-be believed is, *That Jesus Christ came* pel (John xx. 31): *These things,* saith he, 
+be believed is, *That Jesus Christ came* pel ([[John 20#^20-31|John xx. 31]]): *These things,* saith he, 
 
 *forth from God, and he which believeth are written, that ye may know that Jesus* 
 
@@ -613,9 +613,9 @@ neither did Christ send them to preach on earth, and after his Ascension. The
 
 Hence followeth that he that believeth aught but the kingdom of God (Luke ix. 
 
-Apostles in our Saviours time were sent, this shall never die. John 20, 31: *But Luke* 9.2. to Preach the Kingdome of 2: Acts x. 42). And what they did after *these things are written, that ye might* God: For neither there, nor *Mat*. 10.7. Christ’s ascension, may be understood *believe, that Jesus is the Christ, the Son* by the accusation which was brought giveth he any Commission to them, *of God; and that believing, ye might* against them (Acts xvii. 6–7): *They* other than this, *As ye go, Preach, saying,* *have life through his name.* By which *drew Jason,* saith St. Luke, *and certain the Kingdome of Heaven is at hand*; that *brethren unto the rulers of the city, cry-* is, that *Jesus* is the *Messiah*, the *Christ*, appeareth that this fundamental point *ing, these are the men that have turned* the *King* which was to come. That their is all that is required, as of faith to our salvation. 1 John 4, 2: *Every spirit that the world upside down, and are come* Preaching also after his ascension was *confesseth that Jesus Christ is come in hither also, whom Jason hath received;* the same, is manifest out of *Acts* 17.6. *the flesh, is of God:* 1 John 5, 1: *Who-and these all do contrary to the decrees of They drew* (saith St. Luke) *Jason and soever believeth that Jesus is the Christ,* *Cæsar, saying that there is another king,* *certain Brethren unto the Rulers of the is born of God;* and verse 4: *Who is it one Jesus.* It appears also, what the sub- *City, crying, These that have turned the that overcometh the world, but he that world upside down are come hither also,* ject of the apostle’s sermon was, out of *believeth, that Jesus is the Son of God?* 
+Apostles in our Saviours time were sent, this shall never die. John 20, 31: *But Luke* 9.2. to Preach the Kingdome of 2: [[Acts 10#^10-42|Acts x. 42]]). And what they did after *these things are written, that ye might* God: For neither there, nor *Mat*. 10.7. Christ’s ascension, may be understood *believe, that Jesus is the Christ, the Son* by the accusation which was brought giveth he any Commission to them, *of God; and that believing, ye might* against them ([[Acts 17#^17-6|Acts xvii. 6–7]]): *They* other than this, *As ye go, Preach, saying,* *have life through his name.* By which *drew Jason,* saith St. Luke, *and certain the Kingdome of Heaven is at hand*; that *brethren unto the rulers of the city, cry-* is, that *Jesus* is the *Messiah*, the *Christ*, appeareth that this fundamental point *ing, these are the men that have turned* the *King* which was to come. That their is all that is required, as of faith to our salvation. 1 John 4, 2: *Every spirit that the world upside down, and are come* Preaching also after his ascension was *confesseth that Jesus Christ is come in hither also, whom Jason hath received;* the same, is manifest out of *Acts* 17.6. *the flesh, is of God:* 1 John 5, 1: *Who-and these all do contrary to the decrees of They drew* (saith St. Luke) *Jason and soever believeth that Jesus is the Christ,* *Cæsar, saying that there is another king,* *certain Brethren unto the Rulers of the is born of God;* and verse 4: *Who is it one Jesus.* It appears also, what the sub- *City, crying, These that have turned the that overcometh the world, but he that world upside down are come hither also,* ject of the apostle’s sermon was, out of *believeth, that Jesus is the Son of God?* 
 
-these words (Acts xvii. 2–3): *Opening whom Jason hath received. And these all* and verse 13: *These things have I writ-and alleging out of the Scriptures* (to wit, *do contrary to the Decrees of Cæsar, say-ten unto you that believe in the name of* of the Old Testament) *that Christ must ing, that there is another King, one Jesus*: *the Son of God, that ye may know that needs have suffered and risen again from* And out of the 2. & 3. verses of the same *ye have eternal life.* Acts 8, 36, 37: *The the dead; and that this Jesus is the Christ.* 
+these words ([[Acts 17#^17-2|Acts xvii. 2–3]]): *Opening whom Jason hath received. And these all* and verse 13: *These things have I writ-and alleging out of the Scriptures* (to wit, *do contrary to the Decrees of Cæsar, say-ten unto you that believe in the name of* of the Old Testament) *that Christ must ing, that there is another King, one Jesus*: *the Son of God, that ye may know that needs have suffered and risen again from* And out of the 2. & 3. verses of the same *ye have eternal life.* Acts 8, 36, 37: *The the dead; and that this Jesus is the Christ.* 
 
 Chapter, where it is said, that St. *Paul as eunuch said, Here is water, what doth his manner was, went in unto them; and let me to be baptized? And Philip said three Sabbath dayes reasoned with them unto him, If thou believest with all thy out of the Scriptures; opening and alledgheart, thou mayest. He answered and ing, that Christ must needs have suffered,* *said, I believe that Jesus Christ is the and risen againe from the dead, and that Son of God.* This point therefore was *this Jesus (whom hee preached) is Christ*. sufficient for the reception of a man to baptism, that is to say to Christianity. 
 
@@ -635,9 +635,9 @@ the confessions of them that believed, as well men as devils. This was the title
 
 *[p. 533]* ^pg560
 
-8\. Thirdly, by the places, in which the 14. The third Argument is, from those easiness of those things, which are replaces of Scripture, by which all the Faith quired by Christ to the attaining of required to Salvation is declared to be Ea-salvation, is declared. For if an intersie. For if an inward assent of the mind to nal assent of the mind were necessarall the Doctrines concerning Christian ily required to the truth of all and each Faith now taught, (whereof the great-proposition, which this day is controest part are disputed,) were necessary to verted about the Christian faith, or by Salvation, there would be nothing in the divers churches is diversely defined; world so hard, as to be a Christian. The there would be nothing more difficult Thief upon the Crosse though repent-than the Christian religion. And how ing, could not have been saved for saying, *Lord remember me when thou commest* then would that be true (Matth. xi. 30): 
+8\. Thirdly, by the places, in which the 14. The third Argument is, from those easiness of those things, which are replaces of Scripture, by which all the Faith quired by Christ to the attaining of required to Salvation is declared to be Ea-salvation, is declared. For if an intersie. For if an inward assent of the mind to nal assent of the mind were necessarall the Doctrines concerning Christian ily required to the truth of all and each Faith now taught, (whereof the great-proposition, which this day is controest part are disputed,) were necessary to verted about the Christian faith, or by Salvation, there would be nothing in the divers churches is diversely defined; world so hard, as to be a Christian. The there would be nothing more difficult Thief upon the Crosse though repent-than the Christian religion. And how ing, could not have been saved for saying, *Lord remember me when thou commest* then would that be true ([[Matthew 11#^11-30|Matth. xi. 30]]): 
 
-*My yoke is easy and my burden light;* *into thy Kingdome*; by which he testiand that (Matth. xviii. 6): *little ones do* fied no beleefe of any other Article, but *believe in him;* and that (i Cor. i. 21): *it* this, That *Jesus was the King*. Nor could it *pleased God by the foolishness of preach-* bee said (as it is *Mat*. 11. 30.) that *Christs ing, to save those that believe?* Or how *yoke is Easy, and his burthen Light*: Nor that *Little Children beleeve in him*, as it was the thief hanging on the cross suffiis *Matth*. 18. 6. Nor could St. Paul have ciently instructed to salvation, the con-said (i *Cor*. 1. 21.) *It pleased God by the* fession of whose faith was contained in these words: *Lord, remember me when Foolishnesse of preaching, to save them thou comest into thy kingdom?* Or how *that beleeve*: Nor could St. Paul himself could St. Paul himself, from an enemy, have been saved, much lesse have been so so soon become a doctor of Christians?
+*My yoke is easy and my burden light;* *into thy Kingdome*; by which he testiand that ([[Matthew 18#^18-6|Matth. xviii. 6]]): *little ones do* fied no beleefe of any other Article, but *believe in him;* and that (i Cor. i. 21): *it* this, That *Jesus was the King*. Nor could it *pleased God by the foolishness of preach-* bee said (as it is *Mat*. 11. 30.) that *Christs ing, to save those that believe?* Or how *yoke is Easy, and his burthen Light*: Nor that *Little Children beleeve in him*, as it was the thief hanging on the cross suffiis *Matth*. 18. 6. Nor could St. Paul have ciently instructed to salvation, the con-said (i *Cor*. 1. 21.) *It pleased God by the* fession of whose faith was contained in these words: *Lord, remember me when Foolishnesse of preaching, to save them thou comest into thy kingdom?* Or how *that beleeve*: Nor could St. Paul himself could St. Paul himself, from an enemy, have been saved, much lesse have been so so soon become a doctor of Christians?
 
 great a Doctor of the Church so suddenly, that never perhaps thought of Transubstantiation, nor Purgatory, nor many other Articles now obtruded.
 
@@ -649,9 +649,9 @@ to believe? Matth. 18, 6; or how could the good thief be thought sufficiently ca
 
 16\. The last Argument is from the 9. Fourthly, by this, that that article is the foundation of faith; neither rests it places, where this Article is made the on any other foundation. Matth. xxiv. 
 
-Foundation of Faith: For he that hold- 23, 24: *If any man shall say unto you,* eth the Foundation shall bee saved. *Lo here is Christ, or he is there; believe* Which places are first, *Mat.* 24. 23. *If it not. For there shall arise false Christs any man shall say unto you, Loe, here is and false prophets, and shall show great Christ, or there, beleeve it not, for there signs and wonders,* &c. Whence it fol- *shall arise false Christs, and false Prophets, and shall shew great signes and won-* lows, that for the faith’s sake which we *ders, &c*. Here wee see, this Article *Jesus* have in this article, we must not be- *is the Christ*, must bee held, though hee lieve any signs and wonders. Gal. i. 8: 
+Foundation of Faith: For he that hold- 23, 24: *If any man shall say unto you,* eth the Foundation shall bee saved. *Lo here is Christ, or he is there; believe* Which places are first, *Mat.* 24. 23. *If it not. For there shall arise false Christs any man shall say unto you, Loe, here is and false prophets, and shall show great Christ, or there, beleeve it not, for there signs and wonders,* &c. Whence it fol- *shall arise false Christs, and false Prophets, and shall shew great signes and won-* lows, that for the faith’s sake which we *ders, &c*. Here wee see, this Article *Jesus* have in this article, we must not be- *is the Christ*, must bee held, though hee lieve any signs and wonders. [[Galatians 01#^1-8|Gal. i. 8]]: 
 
-*Although we or an angel from heaven,* that shall teach the contrary should saith the apostle, *should preach to you* doe great miracles. The second place is *any other gospel, than what we have Gal*. 1. 8. *Though we, or an Angell from preached; let him be accursed.* By reason *Heaven preach any other Gospell unto you, than that wee have preached unto* of this article, therefore, we might not *you, let him bee accursed*. But the Gos-trust the very apostles and angels themselves, and therefore, I conceive, not the pell which Paul, and the other Apos-Church neither, if they should teach the tles, preached, was onely this Article, contrary. 1 John iv. 1–2: *Beloved, believe* that *Jesus is the Christ*: Therefore for the *not every spirit, but try the spirits wheth-* Beleef of this Article, we are to reject the *er they are of God; because many false* Authority of an Angell from heaven; *prophets are gone out into the world.* 
+*Although we or an angel from heaven,* that shall teach the contrary should saith the apostle, *should preach to you* doe great miracles. The second place is *any other gospel, than what we have Gal*. 1. 8. *Though we, or an Angell from preached; let him be accursed.* By reason *Heaven preach any other Gospell unto you, than that wee have preached unto* of this article, therefore, we might not *you, let him bee accursed*. But the Gos-trust the very apostles and angels themselves, and therefore, I conceive, not the pell which Paul, and the other Apos-Church neither, if they should teach the tles, preached, was onely this Article, contrary. [[1 John 04#^4-1|1 John iv. 1–2]]: *Beloved, believe* that *Jesus is the Christ*: Therefore for the *not every spirit, but try the spirits wheth-* Beleef of this Article, we are to reject the *er they are of God; because many false* Authority of an Angell from heaven; *prophets are gone out into the world.* 
 
 much more of any mortall man, if he 
 
@@ -683,7 +683,7 @@ the Church’s, but for Jesus’ own sake.
 
 For that article was before *the Chris-* Saviour answered, *Thou art Peter, and* 
 
-*tian Church,* (Matth. xvi. 18), although *upon this Rock I will build my Church*: 
+*tian Church,* ([[Matthew 16#^16-18|Matth. xvi. 18]]), although *upon this Rock I will build my Church*: 
 
 all the rest were after it; and the Church from whence I inferre, that this Article 
 
@@ -737,7 +737,7 @@ ful to be inwardly believed, may be most places expresse, and such as receive no
 
 evidently proved out of many places of controversie of Interpretation; as first, *John* 5. 39. *Search the Scriptures, for in* 
 
-holy Scripture, let who will be the interpreter. John v. 39: *Search the Scriptures;* *them yee thinke yee have eternall life;* 
+holy Scripture, let who will be the interpreter. [[John 05#^5-39|John v. 39]]: *Search the Scriptures;* *them yee thinke yee have eternall life;* 
 
 *for in them ye think ye have eternal life;* *and they are they that testifie of mee*. Our 
 
@@ -769,7 +769,7 @@ such things, was the Christ. Other faith more than sufficient is not Necessary;
 
 then was not required to attain eterand consequently no other Article is required. Again, (*John* 11. 26.) *Whosoever* 
 
-nal life, besides this article, John xi. 26: 
+nal life, besides this article, [[John 11#^11-26|John xi. 26]]: 
 
 *Whosoever liveth and believeth in me,* *liveth and beleeveth in mee, shall not die* 
 
@@ -801,7 +801,7 @@ therefore needs no other faith. 1 John iv.
 
 *Christ is come in the flesh, is of God.* And than sufficient is not Necessary. Third-
 
-1 John v. 1: *Whosoever believeth that* ly, *John* 20. 31. *These things are written* 
+[[1 John 05#^5-1|1 John v. 1]]: *Whosoever believeth that* ly, *John* 20. 31. *These things are written* 
 
 *Jesus is the Christ, is born of God.* And *that yee might beleeve, that Jesus is the* 
 
@@ -819,7 +819,7 @@ a man may be *of God, born of God, and* life; and therefore no other Article is
 
 *overcome the world,* than that Jesus is Necessary. Fourthly, i *John* 4. 2. *Every Spirit that confesseth that Jesus Christ is* 
 
-the Christ; that one article then is sufficient to salvation. Acts viii. 36–37: *See,* *come in the flesh, is of God*. And i *Joh*. 5. 
+the Christ; that one article then is sufficient to salvation. [[Acts 08#^8-36|Acts viii. 36–37]]: *See,* *come in the flesh, is of God*. And i *Joh*. 5. 
 
 *here is water; what doth hinder me to be* 1. *Whosoever beleeveth that Jesus is the* 
 

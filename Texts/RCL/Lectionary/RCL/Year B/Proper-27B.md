@@ -11,6 +11,7 @@ second_reading: "Hebrews 9:24-28"
 gospel: "Mark 12:38-44"
 first_reading_complementary: "1 Kings 17:8-16"
 psalm_complementary: "Psalm 146"
+psalm_bcp_complementary: "Psalm 146"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-27]]"
 cssclasses:

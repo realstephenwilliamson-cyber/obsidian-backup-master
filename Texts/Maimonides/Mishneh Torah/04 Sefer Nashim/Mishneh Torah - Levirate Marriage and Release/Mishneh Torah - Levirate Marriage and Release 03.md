@@ -107,7 +107,7 @@ The same concept applies when a woman's husband dies, and her son is living over
 **19.** [The following laws apply when] a woman's husband and son went overseas, and [witnesses] came and told her: "Your husband died and then your son died." If she married,[^43] and later discovered that they died in the opposite order,[^44] she must leave her second husband.[^45] None of the children she bore him is considered illegitimate, however.[^46]  
 [More stringent rules apply if she was told: "Your son died and then your husband died," and on that basis she performed the rite of *yibbum* and then discovered that they died in the opposite order. She is obligated to leave her second husband. All the children she bore him - both those born before she received this notice and those born afterwards - are considered illegitimate.[^47] ^3-19
 
-[^1]: The rationale for this ruling is the principle of *migo*. If the husband's statements were untrue, and his intent were merely to free his wife from the obligation of *yibbum*, he would not have to lie. Instead, he could give her a *get* ([[Bava Batra 134#134b|*Bava Batra* 134b]]).  
+[^1]: The rationale for this ruling is the principle of *migo*. If the husband's statements were untrue, and his intent were merely to free his wife from the obligation of *yibbum*, he would not have to lie. Instead, he could give her a *get* (*Bava Batra* [[Bava Batra 134#134b|134b]]).  
     See also the *Shulchan Aruch* (*Even HaEzer* 156:6) and commentaries, which mention other opinions regarding whether this ruling applies when the prevailing presumption is that the man is childless, when the prevailing presumption is that he has brothers, or when witnesses testify that he has brothers.
 [^2]: I.e., when the prevailing presumption is that he does not have a brother, and hence his wife would not be obligated to perform *yibbum*.
 [^3]: Even though the statements are being made at the time of the person's death, when it is unlikely that he would lie, we still suspect that he is speaking falsely to spare his wife the difficulty of *yibbum* or *chalitzah*.
@@ -161,5 +161,5 @@ The same concept applies when a woman's husband dies, and her son is living over
 [^43]: For according to the testimony she was given, her husband was survived by a son, and the mitzvot of *yibbum* and *chalitzah* do not apply.
 [^44]: In which case her husband would have died without children, and she would be obligated to perform *yibbum* or *chalitzah*.
 [^45]: See Chapter 2, Halachah 18.
-[^46]: For it is only when a child is born from forbidden relations that are punishable by *karet* that this status is incurred ([[Yevamot 49#49a|*Yevamot* 49a]]).
+[^46]: For it is only when a child is born from forbidden relations that are punishable by *karet* that this status is incurred (*Yevamot* [[Yevamot 49#49a|49a]]).
 [^47]: For her relations with her brother-in-law were prohibited by a transgression punishable by *karet*. The fact that she violated this prohibition unwittingly does not change the status of her children.

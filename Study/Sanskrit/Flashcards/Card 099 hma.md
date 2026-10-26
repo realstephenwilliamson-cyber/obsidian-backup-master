@@ -20,16 +20,12 @@ nyasa: "ha: breath (*prāṇa*) · ma: heart (*hṛd*)"
 ## Front
 
 - **Glyph:** ह्म
-- **Variation:** —
 - **Example:** ब्रह्म
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘brahma’ (creator)
-- **Class (as printed):** —
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: म, ह
-- **Example:** brahma (creator)
+> [!note]- Back
+> - **Pronunciation:** As in ‘brahma’ (creator)
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ <u>म</u> / य र ल व / श ष स <u>ह</u>
+> - **Example:** brahma (creator)
 
 ## Register
 

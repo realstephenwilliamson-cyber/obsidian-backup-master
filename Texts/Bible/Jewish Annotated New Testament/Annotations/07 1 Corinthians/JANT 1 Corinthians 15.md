@@ -60,13 +60,13 @@ Text: [[NRSVue 1 Corinthians 15|NRSVue]] · [[1 Corinthians 15|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 15#^15-21|21]]:** *Human*, Adam, who brought sin and death into the world (see 15.22n.,vv 45–47); Jesus removed them (see 1.7–8; 11.26). On the Messiah as an anti-type to Adam see [[Romans 05#^5-14|Rom 5.14-15]]; *Gen. Rab.* 8.1. ^15-21
 
-**[[NRSVue 1 Corinthians 15#^15-22|22]]:** *All die*, Adam’s sin introduced mortality (see [[Torah 01 - Bereshit#^3-19|Gen 3.19]]), a widespread interpretation ([[LXX Wisdom of Solomon 02#^2-24|Wis 2.24]]; *1 En.* 69.11; *L. A. E.* 44.1; *Apoc. Mos.* 14.2; *L. A. B.* 13.8; *Gen. Rab.* 8.11; 16.6; *Sifra* 27a). *Made alive*, resurrected ([[Daniel 12#^12-2|Dan 12.2]]; [[LXX 2 Maccabees 07#^7-9|2 Macc 7.9]]; *T. Sim.* 6.7; *T. Jud.* 25.1,4; *T. Zeb.* 10.2; *T. Benj.* 10.7; *1 En.* 51.1–2; *Pss. Sol.* 2.31; 3.12; *m. Sanh.* 10.1; [[Sanhedrin 90#90b|*b. Sanh.* 90b]]–91a; Maimonides, *Commentary on the Mishnah, Sanhedrin* 10.1). ^15-22
+**[[NRSVue 1 Corinthians 15#^15-22|22]]:** *All die*, Adam’s sin introduced mortality (see [[Torah 01 - Bereshit#^3-19|Gen 3.19]]), a widespread interpretation ([[LXX Wisdom of Solomon 02#^2-24|Wis 2.24]]; *1 En.* 69.11; *L. A. E.* 44.1; *Apoc. Mos.* 14.2; *L. A. B.* 13.8; *Gen. Rab.* 8.11; 16.6; *Sifra* 27a). *Made alive*, resurrected ([[Daniel 12#^12-2|Dan 12.2]]; [[LXX 2 Maccabees 07#^7-9|2 Macc 7.9]]; *T. Sim.* 6.7; *T. Jud.* 25.1,4; *T. Zeb.* 10.2; *T. Benj.* 10.7; *1 En.* 51.1–2; *Pss. Sol.* 2.31; 3.12; *m. Sanh.* 10.1; *b. Sanh.* [[Sanhedrin 90#90b|90b]]–91a; Maimonides, *Commentary on the Mishnah, Sanhedrin* 10.1). ^15-22
 
 **[[NRSVue 1 Corinthians 15#^15-23|23]]:** *At his coming*, when Christ returns (see 1.7–8). ^15-23
 
 **[[NRSVue 1 Corinthians 15#^15-24|24]]:** *Hands over*, God assumes sovereignty after the Messiah has *destroyed every ruler* (*1 En.* 53.5; 55.4; *Pss. Sol.* 2.30) *and every authority* (or dominion) *and power*, earthly and demonic forces ([[Isaiah 24#^24-21|Isa 24.21–22]]; *1 En.* 54.5). ^15-24
 
-**[[NRSVue 1 Corinthians 15#^15-25|25]]:** *Reign*, Christ’s rule precedes *the end* (v 24), when God reigns. Rabbinic tradition similarly distinguishes between the era of messianic rule from the age of God’s kingdom, the world to come ([[Berakhot 34#34b|*b. Ber.* 34b]]). *Under his feet*, [[Psalms 110#^110-1|Ps 110.1]]. ^15-25
+**[[NRSVue 1 Corinthians 15#^15-25|25]]:** *Reign*, Christ’s rule precedes *the end* (v 24), when God reigns. Rabbinic tradition similarly distinguishes between the era of messianic rule from the age of God’s kingdom, the world to come (*b. Ber.* [[Berakhot 34#34b|34b]]). *Under his feet*, [[Psalms 110#^110-1|Ps 110.1]]. ^15-25
 
 **[[NRSVue 1 Corinthians 15#^15-26|26]]:** *Death*, perhaps personified (see [[Jeremiah 09#^9-20|Jer 9.20]]), God’s enemy (see *Pss. Sol.* 7.4; *L. A. B.* 3.10; 33.3); Paul’s paraphrase of [[Isaiah 25#^25-8|Isa 25.8]] is closer to the Masoretic text, God “will swallow up death forever,” than the LXX “Death . . . swallowed them \[the nations\] up.” *Destroyed*, through resurrection. ^15-26
 
@@ -92,9 +92,9 @@ Text: [[NRSVue 1 Corinthians 15|NRSVue]] · [[1 Corinthians 15|BSB and SBLGNT]] 
 
 *[[NRSVue 1 Corinthians 15#^15-35|Text]], p. 349* ^15-35
 
-**[[NRSVue 1 Corinthians 15#^15-35|35]]:** Rabbinic literature speculates about the form of the resurrected body (whether naked or clothed, reconstituted from dust or repaired, like or unlike a mortal body, etc.); Roman-period Jewish epitaphs suggest that some understood resurrection as purely spiritual and incorporeal ([[Sanhedrin 90#90b|*b. Sanh.* 90b]]–91a; *y. Kil.* 12.3; *Gen. Rab.* 14.5; *Eccl. Rab.* 1.4; *BS* 2.130; *CIJ* 788). ^15-35-2
+**[[NRSVue 1 Corinthians 15#^15-35|35]]:** Rabbinic literature speculates about the form of the resurrected body (whether naked or clothed, reconstituted from dust or repaired, like or unlike a mortal body, etc.); Roman-period Jewish epitaphs suggest that some understood resurrection as purely spiritual and incorporeal (*b. Sanh.* [[Sanhedrin 90#90b|90b]]–91a; *y. Kil.* 12.3; *Gen. Rab.* 14.5; *Eccl. Rab.* 1.4; *BS* 2.130; *CIJ* 788). ^15-35-2
 
-**[[NRSVue 1 Corinthians 15#^15-36|36–38]]:** *Seed*, see 3.8–9. *Dies,* for the same resurrection metaphor, see [[John 12#^12-24|Jn 12.24]]; [[Sanhedrin 90#90b|*b. Sanh.* 90b]]. Some Greek and Roman naturalists thought both human and plant seeds (“sperma*”*) contained a fully-formed embryo (e.g., Anaxagoras, F4–6; Aristotle, *GA* 1.18). ^15-36
+**[[NRSVue 1 Corinthians 15#^15-36|36–38]]:** *Seed*, see 3.8–9. *Dies,* for the same resurrection metaphor, see [[John 12#^12-24|Jn 12.24]]; *b. Sanh.* [[Sanhedrin 90#90b|90b]]. Some Greek and Roman naturalists thought both human and plant seeds (“sperma*”*) contained a fully-formed embryo (e.g., Anaxagoras, F4–6; Aristotle, *GA* 1.18). ^15-36
 
 **[[NRSVue 1 Corinthians 15#^15-39|39]]:** See [[Torah 01 - Bereshit#^1-11|Gen 1.11–12]]. ^15-39
 
@@ -116,9 +116,9 @@ Text: [[NRSVue 1 Corinthians 15|NRSVue]] · [[1 Corinthians 15|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 15#^15-49|49]]:** *Image*, in rabbinic literature, the “image of God” refers either to humanity’s spiritual aspect or physical resemblance to God (*Gen. Rab.* 8.9; *Lev. Rab.* 34.3; *Deut. Rab.* 11.3; *t. Ber.* 4.1). ^15-49
 
-**[[NRSVue 1 Corinthians 15#^15-50|50]]:** *Flesh and blood*, a common postbiblical expression for the human body ([[LXX Sirach 14#^14-18|Sir 14.18]]; Philo, *Heir.* 12 \[57\]; [[Sanhedrin 91#91a|*b. Sanh.* 91a]]). The resurrected body, including that of Jesus, is compositionally different from the mortal body (see 15.42n.). The Talmud discusses how God refashions a body from decomposed flesh and blood ([[Sanhedrin 90#90b|*b. Sanh.* 90b]]–91a). ^15-50
+**[[NRSVue 1 Corinthians 15#^15-50|50]]:** *Flesh and blood*, a common postbiblical expression for the human body ([[LXX Sirach 14#^14-18|Sir 14.18]]; Philo, *Heir.* 12 \[57\]; *b. Sanh.* [[Sanhedrin 91#91a|91a]]). The resurrected body, including that of Jesus, is compositionally different from the mortal body (see 15.42n.). The Talmud discusses how God refashions a body from decomposed flesh and blood (*b. Sanh.* [[Sanhedrin 90#90b|90b]]–91a). ^15-50
 
-**[[NRSVue 1 Corinthians 15#^15-51|51–52]]:** *Mystery*, see 2.1n; [[Romans 16#^16-25|Rom 16.25]]; 1QMyst frag. 1, col. 1; 1QHa 9.21–25. *We will not all die*, the earthly bodies of living believers will be *changed* into spiritual bodies without experiencing death. *Trumpet*, [[Joel 2#^2-1|Joel 2.1]] (Heb “shofar”), referring to the impending “day of the Lord,” and connected to the resurrection see [[2 Corinthians 05#^5-1|2 Cor 5.1–5]]; [[1 Thessalonians 04#^4-13|1 Thess 4.13–18]]; *Pss. Sol.* 11.1; 4Q496 col. 4 frag. 11.3–4; [[Rosh Hashanah 16#16b|*b. Rosh Ha-Shanah* 16b]]; *Tg. Ps. -J.* to [[Torah 17 - Yitro#^20-15|Ex 20.15]]; see 3.13n. ^15-51
+**[[NRSVue 1 Corinthians 15#^15-51|51–52]]:** *Mystery*, see 2.1n; [[Romans 16#^16-25|Rom 16.25]]; 1QMyst frag. 1, col. 1; 1QHa 9.21–25. *We will not all die*, the earthly bodies of living believers will be *changed* into spiritual bodies without experiencing death. *Trumpet*, [[Joel 2#^2-1|Joel 2.1]] (Heb “shofar”), referring to the impending “day of the Lord,” and connected to the resurrection see [[2 Corinthians 05#^5-1|2 Cor 5.1–5]]; [[1 Thessalonians 04#^4-13|1 Thess 4.13–18]]; *Pss. Sol.* 11.1; 4Q496 col. 4 frag. 11.3–4; *b. Rosh Ha-Shanah* [[Rosh Hashanah 16#16b|16b]]; *Tg. Ps. -J.* to [[Torah 17 - Yitro#^20-15|Ex 20.15]]; see 3.13n. ^15-51
 
 **[[NRSVue 1 Corinthians 15#^15-53|53]]:** *Put on,* see 15.40n; [[Romans 13#^13-12|Rom 13.12]],[[Romans 13#^13-14|14]]; [[Galatians 03#^3-27|Gal 3.27]]. ^15-53
 

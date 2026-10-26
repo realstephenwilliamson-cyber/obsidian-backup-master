@@ -96,7 +96,7 @@ Like Reimarus-von Hartmann's positions are simply modernised Reimarus-he is anxi
 
 *[p. 567]* ^pg568
 
-is true not only as regards the aristocracy of rank, property, and fortune, but also the aristocracy of intellect. Von Hartmann cannot resist the temptation to accuse Jesus of "Semitic harshness," finding the evidence of this chiefly in Mark iv. 12, where Jesus declares that the purpose of His parables was to obscure His teaching and cause the hearts of the people to be hardened. 
+is true not only as regards the aristocracy of rank, property, and fortune, but also the aristocracy of intellect. Von Hartmann cannot resist the temptation to accuse Jesus of "Semitic harshness," finding the evidence of this chiefly in [[Mark 04#^4-12|Mark iv. 12]], where Jesus declares that the purpose of His parables was to obscure His teaching and cause the hearts of the people to be hardened. 
 
 His judgment upon Jesus is: "He had no genius, but a certain talent which, in the complete absence of any sound education, produced in general only moderate results, and was not sufficient to preserve Him from numerous weaknesses and serious errors; at heart a fanatic and a transcendental enthusiast, who in spite of an inborn kindliness of disposition hates and despises the world and everything it contains, and holds any interest in it to be injurious to the sole true, transcendental interest; an amiable and modest youth who, through a remarkable concatenation of circumstances arrived at the idea, which was at that time epidemic, \[1\] that He was Himself the expected Messiah, and in consequence of this met His fate." 
 
@@ -152,7 +152,7 @@ A writer who is attacking the common theological picture of Jesus, and who displ
 
 De Jonge knows that Jesus possessed property inherited from His father: "One proof may serve where many might be given-the hasty flight into Egypt with his whole family to escape from Herod, and the long sojourn in that country." 
 
-De Jonge knows-he is here, however, following the Gospel of John, to which he everywhere gives the preference-that Jesus was between forty and fifty years old at the time of His first coming forward publicly. The statement in Luke iii. 23, that He was •••• thirty years old, can only mislead those who do not remember that Luke was a portrait painter 
+De Jonge knows-he is here, however, following the Gospel of John, to which he everywhere gives the preference-that Jesus was between forty and fifty years old at the time of His first coming forward publicly. The statement in [[Luke 03#^3-23|Luke iii. 23]], that He was •••• thirty years old, can only mislead those who do not remember that Luke was a portrait painter 
 
 *[p. 572]* ^pg573
 
@@ -248,7 +248,7 @@ When he became aware that the priests had resolved upon His death, He made His f
 
 thither. With a last effort He reaches the house of His mysterious old Indian teacher. At the door He falls helpless, just as the morning dawns. The old slave-woman recognises Him and carries Him into the house, where He dies. "The serene solemn night withdrew and day broke in blinding splendour behind Tiberias." 
 
-Nikolas Notowitsch \[1\] finds in Luke i. 80 ("And the child grew . . . and was in the deserts until the day of his shewing unto Israel") a "gap in the life of Jesus," in spite of the fact that this passage refers to the Baptist, and proposes to fill it by putting Jesus to school with the Brahmins and Buddhists from His thirteenth to His twenty-ninth year. As evidence for this he refers to statements about Buddhist worship of a certain Issa which he professes to have found in the monasteries of Little Thibet. The whole thing is, as was shown by the experts, a bare-faced swindle and an impudent invention. 
+Nikolas Notowitsch \[1\] finds in [[Luke 01#^1-80|Luke i. 80]] ("And the child grew . . . and was in the deserts until the day of his shewing unto Israel") a "gap in the life of Jesus," in spite of the fact that this passage refers to the Baptist, and proposes to fill it by putting Jesus to school with the Brahmins and Buddhists from His thirteenth to His twenty-ninth year. As evidence for this he refers to statements about Buddhist worship of a certain Issa which he professes to have found in the monasteries of Little Thibet. The whole thing is, as was shown by the experts, a bare-faced swindle and an impudent invention. 
 
 To the fictitious Lives of Jesus belong also in the main the theosophical "Lives," which equally play fast and loose with the history, 
 
@@ -378,13 +378,13 @@ In their statement of the problems raised by this want of connexion Wrede and th
 
 How do the demoniacs know that Jesus is the Son of God? Why does the blind man at Jericho address Him as the Son of David, when no one else knows His Messianic dignity? How was it that these occurrences did not give a new direction to the thoughts of the people in regard to Jesus? How did the Messianic entry come about? How was it possible without provoking the interference of the Roman garrison of occupation? Why is it as completely ignored in the subsequent controversies as if it had never taken place? Why was it not brought up at the trial of Jesus? "The Messianic acclamation at the entry into Jerusalem," says Wrede, "is in Mark quite an isolated incident. It has no sequel, neither is there any preparation for it beforehand." 
 
-Why does Jesus in Mark iv. 10-12 speak of the parabolic form of discourse as designed to conceal the mystery of the Kingdom of God, whereas the explanation which He proceeds to give to the disciples has nothing mysterious about it? What is the mystery of the Kingdom of God? Why does Jesus forbid His miracles to be made known even in cases where there is no apparent purpose for the prohibition? Why is His Messiahship a secret and yet no secret, since it is known, not only to the disciples, but to the demoniacs, the blind man at Jericho, the multitude at Jerusalem-which must, as Bruno Bauer expresses it, "have fallen from heaven"-and to the High Priest? 
+Why does Jesus in [[Mark 04#^4-10|Mark iv. 10-12]] speak of the parabolic form of discourse as designed to conceal the mystery of the Kingdom of God, whereas the explanation which He proceeds to give to the disciples has nothing mysterious about it? What is the mystery of the Kingdom of God? Why does Jesus forbid His miracles to be made known even in cases where there is no apparent purpose for the prohibition? Why is His Messiahship a secret and yet no secret, since it is known, not only to the disciples, but to the demoniacs, the blind man at Jericho, the multitude at Jerusalem-which must, as Bruno Bauer expresses it, "have fallen from heaven"-and to the High Priest? 
 
 *[p. 591]* ^pg592
 
 Why does Jesus first reveal His Messiahship to the disciples at Caesarea Philippi, not at the moment when He sends them forth to preach? How does Peter know without having been told by Jesus that the Messiahship belongs to his Master? Why must it remain a secret until the "resurrection"? Why does Jesus indicate His Messiahship only by the title Son of Man? And why is it that this title is so far from prominent in primitive Christian theology? 
 
-What is the meaning of the statement that Jesus at Jerusalem discovered a difficulty in the fact that the Messiah was described as at once David's son and David's Lord? How are we to explain the fact that Jesus had to open the eyes of the people to the greatness of the Baptist's office, subsequently to the mission of the Twelve, and to enlighten the disciples themselves in regard to it during the descent from the mount of transfiguration? Why should this be described in Matt. xi. 14 and 15 
+What is the meaning of the statement that Jesus at Jerusalem discovered a difficulty in the fact that the Messiah was described as at once David's son and David's Lord? How are we to explain the fact that Jesus had to open the eyes of the people to the greatness of the Baptist's office, subsequently to the mission of the Twelve, and to enlighten the disciples themselves in regard to it during the descent from the mount of transfiguration? Why should this be described in [[Matthew 11#^11-14|Matt. xi. 14]] and 15 
 
 335 
 
@@ -394,17 +394,17 @@ What importance was attached to the miracles by Jesus Himself? What office must 
 
 *[p. 592]* ^pg593
 
-the discourse at the sending out of the Twelve filled with predictions of persecutions which experience had given no reason to anticipate, and which did not, as a matter of fact, occur? What is the meaning of the saying in Matt. x. 23 about the imminent coming of the Son of Man, seeing that the disciples after all returned to Jesus without its being fulfilled? Why does Jesus leave the people just when His work among them is most successful, and journey northwards? Why had He, immediately after the sending forth of the Twelve, manifested a desire to withdraw Himself from the multitude who were longing for salvation? 
+the discourse at the sending out of the Twelve filled with predictions of persecutions which experience had given no reason to anticipate, and which did not, as a matter of fact, occur? What is the meaning of the saying in [[Matthew 10#^10-23|Matt. x. 23]] about the imminent coming of the Son of Man, seeing that the disciples after all returned to Jesus without its being fulfilled? Why does Jesus leave the people just when His work among them is most successful, and journey northwards? Why had He, immediately after the sending forth of the Twelve, manifested a desire to withdraw Himself from the multitude who were longing for salvation? 
 
-How does the multitude mentioned in Mark viii. 34 suddenly appear at Caesarea Philippi? Why is its presence no longer implied in Mark ix. 30? How could Jesus possibly have travelled unrecognised through Galilee, and how could He have avoided being thronged in Capernaum although He stayed at "the house"? 
+How does the multitude mentioned in [[Mark 08#^8-34|Mark viii. 34]] suddenly appear at Caesarea Philippi? Why is its presence no longer implied in [[Mark 09#^9-30|Mark ix. 30]]? How could Jesus possibly have travelled unrecognised through Galilee, and how could He have avoided being thronged in Capernaum although He stayed at "the house"? 
 
 How came He so suddenly to speak to His disciples of His suffering and dying and rising again, without, moreover, explaining to them either the natural or the moral "wherefore"? "There is no trace of any attempt on the part of Jesus," says Wrede, "to break this strange thought gradually to His disciples . . . the prediction is always flung down before the disciples without preparation, it is, in fact, a characteristic feature of these sayings that all attempt to aid the understanding of the disciples is lacking." 
 
-Did Jesus journey to Jerusalem with the purpose of working there, or of dying there? How comes it that in Mark x. 39, He holds out to the sons of Zebedee the prospect of drinking His cup and being baptized with 
+Did Jesus journey to Jerusalem with the purpose of working there, or of dying there? How comes it that in [[Mark 10#^10-39|Mark x. 39]], He holds out to the sons of Zebedee the prospect of drinking His cup and being baptized with 
 
 *[p. 593]* ^pg594
 
-His baptism? And how can He, after speaking so decidedly of the necessity of His death, think it possible in Gethsemane that the cup might yet pass from Him? Who are the undefined "many," for whom, according to Mark x. 45 and xiv. 24, His death shall serve as a ransom? \[1\] 
+His baptism? And how can He, after speaking so decidedly of the necessity of His death, think it possible in Gethsemane that the cup might yet pass from Him? Who are the undefined "many," for whom, according to [[Mark 10#^10-45|Mark x. 45]] and xiv. 24, His death shall serve as a ransom? \[1\] 
 
 \[1\] These and the following questions are raised more especially in the Sketch of the Life of Jesus. 
 
@@ -414,7 +414,7 @@ How came it that Jesus alone was arrested? Why were no witness called at His tri
 
 In what form does Jesus conceive the resurrection, which He promises to His disciples, to be combined with the coming on the clouds of heaven to which He points His judge? In what relation do these predictions stand to the prospect held out at the time of the sending forth of the Twelve, but not realized, of the immediate appearance of the Son of Man? 
 
-What is the meaning of the further prediction on the way to Gethsemane (Mark xiv. 28) that after His resurrection He will go before the disciples into Galilee? How is the other version of this saying (Mark xvi. 7) to be explained, according to which it means, as spoken by the angel, that the disciples are to journey to Galilee to have their first meeting with the risen Jesus there, whereas, on the lips of Jesus, it betokened that, just as now as a sufferer He was going before them 
+What is the meaning of the further prediction on the way to Gethsemane ([[Mark 14#^14-28|Mark xiv. 28]]) that after His resurrection He will go before the disciples into Galilee? How is the other version of this saying ([[Mark 16#^16-7|Mark xvi. 7]]) to be explained, according to which it means, as spoken by the angel, that the disciples are to journey to Galilee to have their first meeting with the risen Jesus there, whereas, on the lips of Jesus, it betokened that, just as now as a sufferer He was going before them 
 
 *[p. 594]* ^pg595
 

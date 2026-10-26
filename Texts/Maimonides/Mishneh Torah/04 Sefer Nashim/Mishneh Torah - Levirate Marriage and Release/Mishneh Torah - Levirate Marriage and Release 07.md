@@ -149,7 +149,7 @@ Similarly, whenever we have mentioned "the sister of [the *yavam's*] wife" or "t
 [^15]: At present, the woman he consecrates is forbidden to him, because he is obligated to perform *yibbum* with her sister. Nevertheless, he is not required to divorce her, because it is possible that the prohibition will be lifted.
 [^16]: Or he has no other brothers.
 [^17]: The fact that he was forbidden to marry her while her sister was alive does not prevent him from marrying her after her sister's death (*Beit Shmuel* 159:13).
-[^18]: From [[Yevamot 41#41a|*Yevamot* 41a]], it appears that whenever a *yavam* cannot perform *yibbum* with his *yevamah*, the *chalitzah* he performs with her is deemed "inferior."
+[^18]: From *Yevamot* [[Yevamot 41#41a|41a]], it appears that whenever a *yavam* cannot perform *yibbum* with his *yevamah*, the *chalitzah* he performs with her is deemed "inferior."
 [^19]: Chapter 5, Halachah 12.
 [^20]: This expression is employed by the Rambam in reference to a law that has no direct source in the Rabbinic works of the previous generations. The Rambam's rationale is that just as the Rabbinic prohibition against performing *yibbum* with the sister of a woman to whom one is obligated is sufficient to cause a *chalitzah* to be considered "inferior," so too, the prohibitions mentioned in this halachah should have a similar effect.  
     There are several early halachic authorities who rule differently from the Rambam on this issue. The Rambam's decision is, however, accepted by the *Shulchan Aruch* (*Even HaEzer* 174:1).

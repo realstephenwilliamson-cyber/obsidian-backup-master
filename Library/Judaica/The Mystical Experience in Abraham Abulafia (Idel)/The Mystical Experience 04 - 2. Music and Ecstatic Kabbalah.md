@@ -219,7 +219,7 @@ R. Judah transfers the analogy from the sphere of the God-man connection to the 
 
 The experts in this art call these six notes, in their language, lu\]t, mil!\] re fa sol la, and there is another fine note which joins in with them all, together and equally, and it is the song of (all\] songs, "a great sound which did not cease." It is possible that David of blessed memory alluded to this art with the seven sounds, firstly, the "sound on the water" to instruct us in the Name. This art is truly material and spiritual, and therefore it arouses the perfection of the qualities by which prophecy sets in, as it is written, "But bring me now a minstrel, and when the minstrel played." 
 
-This work was written under the influence of Abulafia's theory. 29. Quoted from the *Peru' ha-Torah* by Ballya ben AAer on [[Torah 01 - Bereshit#^1-1|Genesis 1]] (ed. Chavel, Jerusalem, 1966), p. 39. O. also the commentary by Solomon ben Adret on [[Bava Batra 74#74b|*Bava Batra* 74b]] (ed. L. A. Feldman, in *Bar-Ilan; annual of Bar-Ilan University,* vols. 7-8, 1970), p. 141. 
+This work was written under the influence of Abulafia's theory. 29. Quoted from the *Peru' ha-Torah* by Ballya ben AAer on [[Torah 01 - Bereshit#^1-1|Genesis 1]] (ed. Chavel, Jerusalem, 1966), p. 39. O. also the commentary by Solomon ben Adret on *Bava Batra* [[Bava Batra 74#74b|74b]] (ed. L. A. Feldman, in *Bar-Ilan; annual of Bar-Ilan University,* vols. 7-8, 1970), p. 141. 
 
 *30. Sabbat* 3Ob. 
 

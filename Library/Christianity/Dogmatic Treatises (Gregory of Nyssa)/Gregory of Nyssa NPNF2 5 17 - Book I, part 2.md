@@ -60,7 +60,7 @@ in us that strength of conviction which the Stoics call a conception. Whenever a
 
 It may seem to many useless to linger over what is so obvious, and to attempt a discussion of that which to them is on the face of it false and abominable and groundless: nevertheless, to avoid even the appearance of having to let these statements pass for want of counter-arguments, we will meet them with all our might. He says, “each being amongst them is unmixed, single, and absolutely one, as estimated by its dignity, both in fact and in conception.” Then premising this very doubtful statement as an axiom and valuing his own ‘ipse dixit’ as a sufficient substitute for any proof, he thinks he has made a point. “There are three Beings:” for he implies this when he says, ‘each being amongst them:’ he would not have used these words, if he meant only one. Now if he speaks thus of the mutual difference between the Beings in order to avoid complicity with the heresy of Sabellius, who applied three titles to one subject, we would acquiesce in his statement: nor would any of the Faithful contradict his view, except so far as he seems to be at fault in his names, and his mere form of expression in speaking of ‘beings’ instead of ‘persons:’ for things that are identical on the score of being will not all agree equally in definition on the score of personality. For instance, Peter, James, and John are the same viewed as beings, each was a man: but in the characteristics of their respective personalities, they were not alike. If, then, he were only proving that it is not right to confound the Persons, and to fit all the three names on to one Subject, his ‘saying’ would be, to use the Apostle’s words, ‘faithful, and worthy of all acceptation<sup>113</sup>.’ But this is not his object: he speaks so, not because he divides the Persons only from each other by their recognized characteristics, but because he makes the actual substantial being of each different from that of the others, or rather from itself: and so he speaks of a plurality of beings with distinctive differences which alienate them from each other. I therefore declare that his view is unfounded, and lacks a principle: it starts from data that are not granted, and then it
 
-1 Timothy i. 15.
+[[1 Timothy 01#^1-15|1 Timothy i. 15]].
 
 *[p. 106]* ^pg127
 
@@ -100,7 +100,7 @@ Thereby, too, the creation of all things by the Son<sup>114</sup> will be found 
 
 Some necessity compels him to see a diminution in the Son, and to establish a further advance in this direction in the case of the Holy Ghost. “It necessarily follows,” he says, “that these energies which accompany these Beings are relatively greater and less.” This compelling necessity in the Divine nature, which assigns a greater and a less, has not been explained to us by Eunomius, nor as yet can we ourselves understand it. Hitherto there has prevailed with those who accept the Gospel in its plain simplicity the belief that there is no necessity above the Godhead to bend the Only-begotten, like a slave, to inferiority. But he quite overlooks this belief, though it was worth some consideration; and he dogmatizes that we must conceive of this inferiority. But this necessity of his does not stop there: it lands him still further in blasphemy: as our examination in detail has already shewn. If, that is, the Son was born, not from the Father, but from some unsubstantial ‘energy,’ He must be thought of as not merely inferior to the Father, and this doctrine must end in pure Judaism. This
 
-114 There is of course reference here to John i. 3: and Eunomius is called just below the ‘new theologian,’ with an allusion of S. John, who was called by virtue of this passage essentially ὁ θεόλογος
+114 There is of course reference here to [[John 01#^1-3|John i. 3]]: and Eunomius is called just below the ‘new theologian,’ with an allusion of S. John, who was called by virtue of this passage essentially ὁ θεόλογος
 
 *[p. 110]* ^pg131
 
@@ -132,7 +132,7 @@ Now the ultimate division of all being is into the Intelligible and the Sensible
 
 But in the Intelligible world,—that part of it, I mean, which is created,—the idea of such differences as are perceived in the Sensible cannot find a place: another method, then, is devised for discovering the degrees of greater and less. The fountain, the origin, the supply of every good is regarded as being in the world that is uncreate, and the whole creation inclines to that, and touches and shares the Highest Existence only by virtue of its part in the First Good: therefore it follows from this participation in the highest blessings varying in degree according to the amount of freedom in the will that each possesses, that the greater and less in this creation is disclosed according to the proportion of this tendency in each<sup>117</sup>.
 
-116 Colossians i. 16. i.e. according as each inclines more or less to the First Good.
+116 [[Colossians 01#^1-16|Colossians i. 16]]. i.e. according as each inclines more or less to the First Good.
 
 *[p. 113]* ^pg134
 
@@ -152,7 +152,7 @@ Almighty or of the Holy Spirit. The Holy Spirit by the uncreatedness of His natu
 
 Having stated thus much as a preface we are in a position to discuss the rest of our adversaries’ teaching. “It necessarily follows,” he says in his system of the Son and the Spirit, “that the Beings are relatively greater and less.” Let us then inquire what is the meaning of this necessity of difference. Does it arise from a comparison formed from measuring them one with another in some material way, or from viewing them on the spiritual ground of more or less of moral excellence, or on that of pure being? But in the case of this last it has been shown by competent thinkers that it is impossible to conceive of any difference whatever, if one abstracts being from attributes and properties, and looks at it according to its bare definition. Again, to conceive of this difference as consisting in the case of the Only-begotten and the Spirit in the intensity or abatement of moral excellence, and in consequence to hint that their nature admits of change in either direction, so as to be equally capable of opposites, and to be placed in a borderland between moral beauty and its opposite—that is gross profanity. A man who thinks this will be proving that their nature is one thing in itself, and becomes something else by virtue of its participation in this beauty or its opposite: as happens with iron for example: if it is approached some time to the fire, it assumes the quality of heat while remaining iron: if it is put in snow or ice, it changes its quality to the mastering influence, and lets the snow’s coldness pass into its pores.
 
-119 But He is not *begotten.* Athanasian Creed. Luke x. 18.
+119 But He is not *begotten.* Athanasian Creed. [[Luke 10#^10-18|Luke x. 18]].
 
 *[p. 115]* ^pg136
 
@@ -168,7 +168,7 @@ If, then, this surmise is to have its way, namely, that our Lord is not perfecte
 
 τοῦ παντὸς. It is worth while to mention, once for all, the distinction in the names used by the Stoics for 122 the world, which had long since passed from them into the common parlance. Including the Empty, the world is called τὸ πᾶν, without it, ὅλον (τὸ ὅλον, τὰ ὅλα frequently occurs with the Stoics). The πᾶν, it was said, is neither material nor immaterial, since it consists of both.
 
-Τί γὰρ βαπτίζονται εἰς Χριστὸν. This throws some light on the much discussed passage, ‘Why are these 123 baptized for the dead?’ Gregory at all events *seems* here to take it to mean, ‘Why are they baptized in the name of a dead Christ?’ as he is adopting partially S. Paul’s words, 1 Cor. xv. 29; as well as Heb. xi. 1 above.
+Τί γὰρ βαπτίζονται εἰς Χριστὸν. This throws some light on the much discussed passage, ‘Why are these 123 baptized for the dead?’ Gregory at all events *seems* here to take it to mean, ‘Why are they baptized in the name of a dead Christ?’ as he is adopting partially S. Paul’s words, [[1 Corinthians 15#^15-29|1 Cor. xv. 29]]; as well as [[Hebrews 11#^11-1|Heb. xi. 1]] above.
 
 ἀναγεννῶνται
 
@@ -202,7 +202,7 @@ It is therefore clear that these are metaphors, which contain a deeper meaning t
 
 Now about the first there is no necessity of going into minute detail. No one is so carnal, so brutelike, as to imagine that the Spirit resides in the sensible world. But after Paul has mentioned “the things that are not seen” he proceeds (in order that none may surmise that the Spirit, because He is of the intelligible and immaterial world, on account of this connexion subsists therein) to another most distinct division into the things that have been made in the way of creation, and the existence that is above creation. He mentions the several classes of these created intelligibles: “<sup>130</sup>thrones,” “dominions,” “principalities,” “powers,” conveying his doctrine about these unseen influences in broadly comprehensive terms: but by his very silence he separates from his list of things created that which is above them. It is just as if any one was required to name the sectional and inferior officers in some army, and after he had gone through them all, the commanders of tens, the commanders of hundreds, the
 
-64 in the Canon. (Oehler’s stopping is here at fault, i.e. he begins a new paragraph with ᾽Εκδέχεται τὸν λόγον 128 τοῦτον ὁ Παῦλος). We need not speculate whether Gregory was aware that the Epistle to the Colossians (quoted below) is an earlier ‘Gospel’ than S. John’s. 129 Coloss. i. 16. Coloss. i. 16.
+64 in the Canon. (Oehler’s stopping is here at fault, i.e. he begins a new paragraph with ᾽Εκδέχεται τὸν λόγον 128 τοῦτον ὁ Παῦλος). We need not speculate whether Gregory was aware that the Epistle to the Colossians (quoted below) is an earlier ‘Gospel’ than S. John’s. 129 [[Colossians 01#^1-16|Coloss. i. 16]]. [[Colossians 01#^1-16|Coloss. i. 16]].
 
 *[p. 119]* ^pg140
 
@@ -212,7 +212,7 @@ captains and the colonels<sup>131</sup>, and all the other names given to the au
 
 That divine Apostle perceived this. He understood that the same matter is indicated under different names by the two prophets, and he took the best known of the two words,
 
-ταξιάρχας καὶ λοχαγοὺς, ἑκατοντάρχους τε καὶ χιλιάρχους. The difference between the two pairs seems 131 to be the difference between ‘non-commissioned’ and ‘commissioned’ officers. 132 2 Corinth. xii. 4. 133 Isaiah vi. 6, 7. Psalm ciii. 21.
+ταξιάρχας καὶ λοχαγοὺς, ἑκατοντάρχους τε καὶ χιλιάρχους. The difference between the two pairs seems 131 to be the difference between ‘non-commissioned’ and ‘commissioned’ officers. 132 [[2 Corinthians 12#^12-4|2 Corinth. xii. 4]]. 133 Isaiah vi. 6, 7. Psalm ciii. 21.
 
 *[p. 120]* ^pg141
 
@@ -260,7 +260,7 @@ Can any one dare to speak of the divine and supreme Being in such a way that a l
 
 Our very souls, then, being disposed so naturally and in proportion to their capacity, and yet so miraculously, to recognize so many and great wonders in Christ, what further excess of honour is left us to pay exclusively to the Father, as inappropriate to the Son?
 
-139 John v. 23. 140 John v. 22; i. 3. 141 John v. 22; i. 3. 1 Cor. i. 24. “Christ the power of God, and the wisdom of God.”
+139 [[John 05#^5-23|John v. 23]]. 140 [[John 05#^5-22|John v. 22]]; [[John 01#^1-3|i. 3]]. 141 [[John 05#^5-22|John v. 22]]; [[John 01#^1-3|i. 3]]. [[1 Corinthians 01#^1-24|1 Cor. i. 24]]. “Christ the power of God, and the wisdom of God.”
 
 *[p. 124]* ^pg145
 
@@ -274,7 +274,7 @@ It was this kind of honour that the great David fully paid, when he confessed to
 
 Again; only in the case of the creation is it true to speak of ‘priority.’ The sequence of works was there displayed in the order of the days; and the heavens may be said to have preceded by so much the making of man, and that interval may be measured by the interval of days. But in the divine nature, which transcends all idea of time and surpasses all reach of thought, to talk of a “prior” and a “later” in the honours of time is a privilege only of this new-fangled philosophy. In short he who declares the Father to be ‘prior’ to the subsistence of the Son declares nothing short of this, viz., that the Son is later than the things made by the Son<sup>145</sup> (if at least it is true to say that all the ages, and all duration of time was created after the Son, and by the Son).
 
-143 John v. 23. The Gospel enjoins honour and means love: the Law enjoins love and means honour. *a prelude.* See Psalm vii. 1 and Psalm xviii. 1, “fortress,” κραταίωμα; στερέωμα, LXX. 144 145 The meaning is that, if the Son is later (in time) than the Father, then time must have already existed for this comparison to be made; i.e. the Son is later than time as well as the Father. This involves a contradiction.
+143 [[John 05#^5-23|John v. 23]]. The Gospel enjoins honour and means love: the Law enjoins love and means honour. *a prelude.* See Psalm vii. 1 and Psalm xviii. 1, “fortress,” κραταίωμα; στερέωμα, LXX. 144 145 The meaning is that, if the Son is later (in time) than the Father, then time must have already existed for this comparison to be made; i.e. the Son is later than time as well as the Father. This involves a contradiction.
 
 *[p. 125]* ^pg146
 
@@ -290,7 +290,7 @@ Therefore if the conception of Father and Son is to remain firm and immoveable, 
 
 Guided, then, by these examples, let us examine the question before us. Our adversaries conceive of the existences of Father, Son, and Holy Spirit as involving elder and younger, respectively. Well then; if, at the bidding of this heresy, we journey up beyond the generation
 
-68 *step by step upwards.* δι᾽ ἀναλύσεως. This does not seem to be used in the Platonic (dialectic) sense, but 146 in the N.T. sense of “return” or “retrogression,” cf. Luke xii. 36. Gregory elsewhere *De Hom. Opif.* xxv.), uses ἀναλύειν in this sense: speaking of the three examples of Christ’s power of raising from the dead, he says, ‘you see…all these equally at the command of one and the same voice returning (ἀναλύοντας) to life.’ ᾽Αναλύσις thus also came to mean “death,” as a ‘return.’ Cf. Ecclesiastes xi. 7.
+68 *step by step upwards.* δι᾽ ἀναλύσεως. This does not seem to be used in the Platonic (dialectic) sense, but 146 in the N.T. sense of “return” or “retrogression,” cf. [[Luke 12#^12-36|Luke xii. 36]]. Gregory elsewhere *De Hom. Opif.* xxv.), uses ἀναλύειν in this sense: speaking of the three examples of Christ’s power of raising from the dead, he says, ‘you see…all these equally at the command of one and the same voice returning (ἀναλύοντας) to life.’ ᾽Αναλύσις thus also came to mean “death,” as a ‘return.’ Cf. Ecclesiastes xi. 7.
 
 *[p. 126]* ^pg147
 
@@ -334,7 +334,7 @@ All, I say, with any insight, however moderate, into the nature of things, know 
 
 This is the Being in which, to use the words of the Apostle, all things are formed; and we, with our individual share in existence, live and move, and have our being<sup>149</sup>. It is above beginning, and presents no marks of its inmost nature: it is to be known of only in the im-
 
-70 148 Compare Eccles. iii. 1–11; and viii. 5, “and a wise man’s heart discerneth both time and judgment.” Acts xvii. 28; Col. i. 17.
+70 148 Compare Eccles. iii. 1–11; and viii. 5, “and a wise man’s heart discerneth both time and judgment.” [[Acts 17#^17-28|Acts xvii. 28]]; [[Colossians 01#^1-17|Col. i. 17]].
 
 *[p. 130]* ^pg151
 
@@ -360,7 +360,7 @@ Our previous contention, therefore, is true, that the everlastingness of the Son
 
 admit at one and the same time the simplicity of the Uncreated, and some change or inequality within His Being. I know that the defenders of the orthodox belief might be troubled with their adversaries’ argument. (Eunom. Apol. 22.) ‘If we admit that the Son, the energy creative of the world, is equal to the Father, it amounts to admitting that He is the actual energy of the Father in Creation, and that this energy is equal to His essence. But that is to return to the mistake of the Greeks who identified His essence and His energy, and consequently made the world coexist with God.’ A serious difficulty, certainly, and one that has never yet been solved, nor will be; as all the questions likewise which refer to the Uncreated and Created, to eternity and time. It is true we cannot explain how God’s eternally active energy does prolong itself eternally. But what is this difficulty compared with those which, with the hypothesis of Eunomius, must be swallowed? We must suppose, so, that the ᾽Αγέννητος, since His energy is *not eternal, became* in a given place and moment, and that He was at that point the Γεννητός. We must suppose that this activity communicated to a creature that privilege of the Uncreated which is most incommunicable, viz. the power of creating other creatures. We must suppose that these creatures, unconnected as they are with the ᾽Αγέννητος (since He has not made them), nevertheless conceive of and see beyond their own creator a Being, who cannot be anything to them. \[This direct intuition on our part of the Deity was a special tenet of Eunomius.\] Finally we must suppose that these creatures, seeing that Eunomius agrees with orthodox believers that the end of this world will be but a commencement, will enter into new relations with this ᾽Αγέννητος, when the Son shall have submitted all things to the Father.”
 
-Heb. xi. 1; 2 Cor. iv. 18.
+[[Hebrews 11#^11-1|Heb. xi. 1]]; [[2 Corinthians 04#^4-18|2 Cor. iv. 18]].
 
 *[p. 132]* ^pg153
 
@@ -378,7 +378,7 @@ Son, what training could have led this man of learning to declare that there is 
 
 Of the same strain is that which he adds in the next paragraph; “the same energies producing sameness of works, and different works indicating difference in the energies as well.” Finely and irresistibly does this noble thinker plead for his doctrine. “The same energies produce sameness of works.” Let us test this by facts. The energy of fire is always one and the same; it consists in heating: but what sort of agreement do its results show? Bronze melts in it; mud hardens; wax vanishes: while all other animals are destroyed by it, the salamander is preserved alive<sup>154</sup>; tow burns, asbestos is washed by the flames as if by water; so much for his ‘sameness of works from one and the same energy.’ How too about the sun? Is not his power of warming always the same; and yet while he causes one plant to grow, he withers another, varying the results of his operation in accordance with the latent force of each. ‘That on the rock’ withers; ‘that in deep earth’ yields an hundredfold. Investigate Nature’s work, and you will learn, in the case of those bodies which she produces artistically, the amount of accuracy there is in his statement that ‘sameness of energy effects sameness of result.’ One single operation is the cause of conception, but the composition of that which is effected internally therein is so varied that it would be difficult for any one even to count all the various qualities of the body. Again, imbibing the milk is one single operation on the part of the infant, but the results of its being nourished so are too complex to be all detailed. While this food passes from the channel of the mouth into the secretory ducts<sup>155</sup>, the transforming power of Nature forwards it into the several parts proportionately to their wants; for by digestion she divides its sum total into the small change of multitudinous differences, and into supplies congenial to the subject matter with which she deals; so that the same milk goes to feed arteries, veins, brain and its membranes, marrow, bones, nerves<sup>156</sup>, sinews, tendons, flesh, surface, cartilages, fat, hair, nails, perspiration, vapours, phlegm, bile, and besides these, all useless superfluities deriving from the same source. You could not name either an organ, whether of motion or sensation, or anything else making up the body’s bulk, which was not formed (in spite of startling differences) from this one and self-same operation of feeding. If one were to compare the mechanic arts too it will be seen what is the scientific value of his statement; for there we see in them all the same operation, I mean the movement of the hands; but what have the results in common? What has building a shrine to do with a coat, though manual labour is employed on both? The house-breaker
 
-*is preserved alive;* ξωογονεῖται. This is the LXX., not the classical use, of the word. Cf. Exod. i. 17; Judges 154 viii. 19, &c. It is reproduced in the speech of S. Stephen, Acts vii. 19: cf. Luke xvii. 33, “shall preserve (his life).”
+*is preserved alive;* ξωογονεῖται. This is the LXX., not the classical use, of the word. Cf. Exod. i. 17; Judges 154 viii. 19, &c. It is reproduced in the speech of S. Stephen, [[Acts 07#^7-19|Acts vii. 19]]: cf. [[Luke 17#^17-33|Luke xvii. 33]], “shall preserve (his life).”
 
 ἀποκριτικοὺς, *activè,* so, the Medical writers. The Latin is ‘in meatus destinato descendit’ takes it *passivè* 155 (ἀποκριτίκους).
 
@@ -510,4 +510,4 @@ tion on the examples familiarly known to us. For the thing generated is not to b
 
 It remains to see whether it contributes anything further to the proof of his blasphemy. What, then, was he aiming at? The necessity of believing in accordance with their being in the likeness or unlikeness of the Son to the Father; and, as we cannot know about this being from considerations of Providence, the necessity of having recourse to the “manner of the generation,” whereby we may know, not indeed whether the Begotten is like the Begetter (absolutely), but only a certain “manner of likeness” between them; and as this manner is a secret to the many, the necessity of going at some length into the being of the Begetter. Then has he forgotten his own definitions about the beings having to be known from their works? But this begotten being, which he calls the work of the supreme being, has as yet no light thrown upon it (according to him); so how can its nature be dealt with? And how can he “mount above this lower and therefore more directly comprehensible thing,” and so cling to the absolute and supreme being? Again, he always throughout his discourse lays claim to an accurate knowledge of the divine utterances; yet here he pays them scant reverence, ignoring the fact that it is not possible to approach to a knowledge of the Father except through the Son. “No man knoweth the Father, save the Son, and he to whomsoever the Son shall reveal Him<sup>166</sup>.” Yet Eunomius, while on every occasion, where he can insult our
 
-Matt. xi. 27.
+[[Matthew 11#^11-27|Matt. xi. 27]].

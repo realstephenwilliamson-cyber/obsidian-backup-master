@@ -11,6 +11,7 @@ second_reading: "Philippians 2:1-13"
 gospel: "Matthew 21:23-32"
 first_reading_complementary: "Ezekiel 18:1-4, 25-32"
 psalm_complementary: "Psalm 25:1-9"
+psalm_bcp_complementary: "Psalm 25:1-8"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-21]]"
 cssclasses:

@@ -108,7 +108,7 @@ What is implied? The principal was [worth] four [*zuz*]. One denied [receiving a
 [^11]: Instead, they only serve as proof of an obligation (*ibid.*).
 [^12]: Note the contrast to an oath concerning testimony (Chapter 9, Halachah 6-7). The gloss of the *Torah Temimah* to the prooftext explains that since the verse speaks of "deny his [obligation to] a colleague," he is liable whether his colleague demands an oath of him or not.
 [^13]: See *Hilchot Shluchim* 3:5, 7. See the *Lechem Mishneh* who emphasizes that the principal must have given the agent power of attorney to require an oath of the defendant. If, however, he merely gave the agent the authority to prosecute the claim, he may not require him to take an oath.
-[^14]: For an oath can be taken in any language. [[Sotah 33#33a|*Sotah* 33a]] derives this from the exegesis of [[Torah 24 - Vayikra#^5-1|Leviticus 5:1]].
+[^14]: For an oath can be taken in any language. *Sotah* [[Sotah 33#33a|33a]] derives this from the exegesis of [[Torah 24 - Vayikra#^5-1|Leviticus 5:1]].
 [^15]: Neither is one who takes such a false oath liable for lashes for taking a false *sh'vuat bitui*.
 [^16]: See Chapter 1, Halachah 9, which explains that one is liable for a sacrifice whether he transgressed willingly or inadvertently. As mentioned in the notes to Chapter 1, Halachah 8, one is not liable for lashes either because the transgression does not involve a deed, or because financial compensation must be given and a person is not held liable both for financial restitution and lashes.
 [^17]: Note the contrast to an oath concerning testimony, as stated in Chapter 10, Halachah 18. He is also liable to pay an additional fifth of the principal for each false oath, as stated in Halachah 15.

@@ -159,14 +159,14 @@ Similarly, when [a lamb intended as] a continuous offering was slaughtered for a
 [^12]: See *Hilchot Ma'aseh HaKorbanot*, ch. 13, for a description of the differences between these offerings.
 [^13]: Chapter 18, Halachah 1.
 [^14]: The rationale is that since the sacrifice is acceptable, its functions must be performed for the proper intent.
-[^15]: [[Zevachim 7#7a|*Zevachim* 7a]] interprets the phrase cited as implying: for him and not for his colleague. See Halachah 8.
+[^15]: *Zevachim* [[Zevachim 7#7a|7a]] interprets the phrase cited as implying: for him and not for his colleague. See Halachah 8.
 [^16]: In his Commentary to the Mishnah (*Zevachim* 1:1), the Rambam states that the first verse teaches that the offering must be brought as a Paschal sacrifice and the second, that it must be brought for the sake of its owner. In his Commentary to the Mishnah (*Pesachim* 5:2), the Rambam quotes the Jerusalem Talmud which mentions only the second verse and states that a Paschal sacrifice that is not offered for the proper purpose is unacceptable. See also Halachah 11.
 [^17]: Our text reflects an amended version. The standard printed text of the *Mishneh Torah* contains a different prooftext.
-[^18]: [[Zevachim 46#46b|*Zevachim* 46b]] derives this principle through Biblical exegesis.
+[^18]: *Zevachim* [[Zevachim 46#46b|46b]] derives this principle through Biblical exegesis.
 [^19]: I.e., even though it was slaughtered as a sin-offering, since it was not slaughtered for the sake of the sin for which the animal was originally designated, it is unacceptable.
-[^20]: Since this is a different type of sacrifice, one might think that the situation is comparable to that stated in the following halachah, slaughtering a sin-offering for the sake of a person obligated to bring a burnt-offering. Nevertheless, since both offerings atone for sins punishable by *karet*, they are considered as comparable. Hence the sacrifice is disqualified (Rashi, [[Zevachim 9#9b|*Zevachim* 9b]]).
+[^20]: Since this is a different type of sacrifice, one might think that the situation is comparable to that stated in the following halachah, slaughtering a sin-offering for the sake of a person obligated to bring a burnt-offering. Nevertheless, since both offerings atone for sins punishable by *karet*, they are considered as comparable. Hence the sacrifice is disqualified (Rashi, *Zevachim* [[Zevachim 9#9b|9b]]).
 [^21]: To atone for the failure to observe a positive commandment.
-[^22]: I.e., the law stated in Halachah 7. From this concept, it is also possible to derive the law stated in this halachah, for the implication is that when one offers a sin-offering for the sake of another person who is obligated to bring a sin-offering, it is disqualified, but not when one offers it for the sake of another person who is not so obligated ([[Zevachim 7#7a|*Zevachim* 7a]]).
+[^22]: I.e., the law stated in Halachah 7. From this concept, it is also possible to derive the law stated in this halachah, for the implication is that when one offers a sin-offering for the sake of another person who is obligated to bring a sin-offering, it is disqualified, but not when one offers it for the sake of another person who is not so obligated (*Zevachim* [[Zevachim 7#7a|7a]]).
 [^23]: Hence the deceased person is not considered as obligated to bring a sacrifice. Therefore, this is not considered as an instance where one offered a sacrifice for the sake of another person obligated to bring a sacrifice.
 [^24]: A burnt-offering to atone for the failure to observe a positive commandment.
 [^25]: Hence he is considered to be obligated to bring a sacrifice.  

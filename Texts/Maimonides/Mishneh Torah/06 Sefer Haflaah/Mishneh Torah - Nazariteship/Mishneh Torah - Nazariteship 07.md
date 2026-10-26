@@ -156,7 +156,7 @@ Nevertheless, when a nazirite shaves his hair during the midst of his nazirite v
 [^32]: I.e., protrusions less than a handbreadth by a handbreadth.
 [^33]: Our text follows the authentic manuscripts and early printings of the *Mishneh Torah*. The standard printed text follows a different - and somewhat difficult to comprehend - version. See the conclusion of *Hilchot Tuma'at Meit* 19:6 where the Rambam discusses this issue and states that such impurity is *midivrei sofrim*, "from the words of the Sages."
 [^34]: See the notes to Halachah 2.
-[^35]: As mentioned in the notes to Halachah 2, according to Scriptural Law, one is ritually impure. Nevertheless, the Oral Tradition teaches that a nazirite is not required to perform a shaving in this instance ([[Nazir 54#54a|*Nazir* 54a]]).
+[^35]: As mentioned in the notes to Halachah 2, according to Scriptural Law, one is ritually impure. Nevertheless, the Oral Tradition teaches that a nazirite is not required to perform a shaving in this instance (*Nazir* [[Nazir 54#54a|54a]]).
 [^36]: For the fetus is considered a separate entity.
 [^37]: I.e., the stone laid over the corpse. See the definition of this and the following term in *Hilchot Tuma'at Meit* 2:15.
 [^38]: Which serves as support for the gravestone.
@@ -194,4 +194,4 @@ Nevertheless, when a nazirite shaves his hair during the midst of his nazirite v
 [^68]: See *Hilchot Tuma'at Tzara'at* 11:1.
 [^69]: And hence, the nazirite should shave his hair.
 [^70]: Halachah 9.
-[^71]: The Ra'avad accepts the Rambam's ruling, but gives a different rationale: The commandments associated with the nazirite vow are considered as insubstantial, because the nazirite could appeal to have his nazirite vow absolved. Although the rationale given by the Ra'avad is mentioned in [[Yevamot 5#5a|*Yevamot* 5a]], the Rambam favors the reason he gave, for there are some nazirites who do not have the option of absolving their nazirite vows (see Chapter 3, Halachah 14).
+[^71]: The Ra'avad accepts the Rambam's ruling, but gives a different rationale: The commandments associated with the nazirite vow are considered as insubstantial, because the nazirite could appeal to have his nazirite vow absolved. Although the rationale given by the Ra'avad is mentioned in *Yevamot* [[Yevamot 5#5a|5a]], the Rambam favors the reason he gave, for there are some nazirites who do not have the option of absolving their nazirite vows (see Chapter 3, Halachah 14).

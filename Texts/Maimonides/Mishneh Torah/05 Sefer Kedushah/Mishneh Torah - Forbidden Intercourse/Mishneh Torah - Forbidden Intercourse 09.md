@@ -254,7 +254,7 @@ All this stems from Rabbinic decree as we explained.[^124] Therefore if a man en
 [^29]: A cloth of this size is considered too small to serve any purpose and hence, is not considered as a garment or utensil.
 [^30]: And found there were no bloodstains on it.
 [^31]: As mentioned above, the designation of a woman as impure because of a stain that is discovered is a Rabbinic decree. When our Sages instituted the decree, they allowed for leniency in certain instances.
-[^32]: [[Niddah 61#61b|*Niddah* 61b]] relates that originally our Sages thought to prohibit women from wearing colored garments as part of the mourning customs introduced because of the destruction of the Temple. Afterwards, they reconsidered and recommended that they wear such garments as the Rambam explains.
+[^32]: *Niddah* [[Niddah 61#61b|61b]] relates that originally our Sages thought to prohibit women from wearing colored garments as part of the mourning customs introduced because of the destruction of the Temple. Afterwards, they reconsidered and recommended that they wear such garments as the Rambam explains.
 [^33]: On days other than her seven "spotless" days.
 [^34]: In the Talmudic era, people would sit on rugs on cushions on the ground and when sitting in this manner, it is possible that a woman's foot will touch her genital area.
 [^35]: And it is possible that unknowingly, she touched a place on her body where there was menstrual blood (*Maggid Mishneh*).
@@ -278,7 +278,7 @@ All this stems from Rabbinic decree as we explained.[^124] Therefore if a man en
 [^53]: Since she was wearing the garment for three days, the possibility exists that she experienced bleeding for three days, but all the stains were in the same place.
 [^54]: Since on one of the days, she became impure because of a stain without feeling the physical sensations associated with menstruation, her impurity is not of Scriptural status. For to be considered as a *zavah* according to Scriptural Law, she must experience these physical sensations.
 [^55]: If the bleeding was discovered within 24 hours of the stain, we assume that the stain came about because of the subsequent bleeding and therefore she is governed by the same laws that would apply had she experienced only the bleeding as stated in Halachah 16.
-[^56]: The Rambam's ruling is dependent on his understanding of [[Niddah 53#53b|*Niddah* 53b]]. The Ra'avad does not accept the Rambam's interpretation of this passage and harshly dismisses the Rambam's conclusions. The *Maggid Mishneh* both supports and explains the Rambam's position.
+[^56]: The Rambam's ruling is dependent on his understanding of *Niddah* [[Niddah 53#53b|53b]]. The Ra'avad does not accept the Rambam's interpretation of this passage and harshly dismisses the Rambam's conclusions. The *Maggid Mishneh* both supports and explains the Rambam's position.
 [^57]: But if she does not discover blood on Monday, she is not a major *zavah*, i.e., we pay no attention to the stain that she discovered on Friday.  
     (Any time the term *zavah* is mentioned subsequently in this chapter, she is considered as a *zavah*.)
 [^58]: She is not definitely placed in that category, because one of the days is associated with a stain, as stated in Halachah 14.

@@ -27,7 +27,7 @@ apūrṇaṃmanyatājñānaṃ malaṃ sāvacchidojjhitā || ^iast
 > [!source] Dyczkowski, vol. VI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)/Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#^pg82|p. 65]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 06.pdf#page=82>))
 >
-> The greed (lolikā) to which individual souls are subject is an (intense) objectless (niṣkarma) craving. It corresponds to the perception (they have of themselves) as incomplete (apūrṇamanyatā). This is the (fundamental) Impurity of (their spiritual) ignorance, (which is purely generic and) devoid of (any specific) limiting (referent).’
+> The greed (lolikā) to which individual souls are subject is an (intense) objectless (niṣkarma) craving. It corresponds to the perception (they have of themselves) as incomplete (apūrṇamanyatā). This is the (fundamental) Impurity of (their spiritual) ignorance, (which is purely generic and) devoid of (any specific) limiting (referent).
 
 ## Viveka
 

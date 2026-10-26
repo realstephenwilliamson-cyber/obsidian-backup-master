@@ -27,7 +27,7 @@ anyaśāstrarato yastu nāsau siddhiphalapradaḥ || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#^pg338|p. 316]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=338>))
 >
-> Moreover, the venerable Lord has said in brief in the Svacchandaśāstra: ‘he who is devoted to other scriptures cannot bestow accomplishments.
+> Moreover, the venerable Lord has said in brief in the Svacchandaśāstra: ‘he who is devoted to other scriptures cannot bestow accomplishments.’
 
 ## Viveka
 

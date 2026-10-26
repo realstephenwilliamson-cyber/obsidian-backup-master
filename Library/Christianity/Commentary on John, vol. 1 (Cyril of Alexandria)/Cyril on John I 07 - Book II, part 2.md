@@ -23,7 +23,7 @@ kettle, being associated with the vigour of fire, receives in Cuar.1. itself the
 
 of the Spirit is spirit.
 
-By another argument again He persuades him to mount up to a higher understanding, and on hearing of spiritual birth, not to think of the properties of bodies. For as it is altogether necessary, saith He, that the offspring of flesh should be flesh, so also is it that those of the Spirit should be spirit. For in things the mode of whose being is different, in these must surely the mode of generation also be not the same. But it is to be known that we call the spirit of a man the offspring of the Spirit, not as being of It by Nature (for that were impossible), but in the first place, and that in order of time, because that through Him that which was not was called into being, and in the second place and ceconomically, because of its being re-formed unto God through Him, He stamping! His Onn Impress upon us, and page trans-fashioning our understanding to His own Quality?, so to <sup>3</sup>ποιότηspeak. For so I deem, you will understand aright that too ™ which is said to some by Paul, My little children, of whom Gal. iv. 1 travail in birth again until Christ be formed in you, and ἢ again, Hor in Christ Jesus I have begotten you through the <sup>1</sup>Cor. iv. Gospel. 15.
+By another argument again He persuades him to mount up to a higher understanding, and on hearing of spiritual birth, not to think of the properties of bodies. For as it is altogether necessary, saith He, that the offspring of flesh should be flesh, so also is it that those of the Spirit should be spirit. For in things the mode of whose being is different, in these must surely the mode of generation also be not the same. But it is to be known that we call the spirit of a man the offspring of the Spirit, not as being of It by Nature (for that were impossible), but in the first place, and that in order of time, because that through Him that which was not was called into being, and in the second place and ceconomically, because of its being re-formed unto God through Him, He stamping! His Onn Impress upon us, and page trans-fashioning our understanding to His own Quality?, so to <sup>3</sup>ποιότηspeak. For so I deem, you will understand aright that too ™ which is said to some by Paul, My little children, of whom [[Galatians 04#^4-1|Gal. iv. 1]] travail in birth again until Christ be formed in you, and ἢ again, Hor in Christ Jesus I have begotten you through the <sup>1</sup>Cor. iv. Gospel. 15.
 
 7 8 Marvel not that I suid unto thee, Ye must be bornagain. The
 
@@ -179,7 +179,7 @@ The Jews being powerless to commend the purifications of the law, and not able t
 
 N 2 iii, 25, 26.
 
-Heb. x. 1.
+[[Hebrews 10#^10-1|Heb. x. 1]].
 
 2\. So S. Cyril reads with the Vatican MSS. and the Syriac version (dating and Alexandrine Codices and other old from the second century). Tb. ix. 19.
 
@@ -441,9 +441,9 @@ Dan. vii. 9, 10.
 
 C. iii, 36.
 
-Phil. ii.8.
+[[Philippians 02#^2-8|Phil. ii.8]].
 
-Col. i. 18.
+[[Colossians 01#^1-18|Col. i. 18]].
 
 \\ γέρας
 
@@ -481,7 +481,7 @@ Ps, xxxiv.
 
 12, 18.
 
-Eph. ii.3.
+[[Ephesians 02#^2-3|Eph. ii.3]].
 
 S. Matth.
 

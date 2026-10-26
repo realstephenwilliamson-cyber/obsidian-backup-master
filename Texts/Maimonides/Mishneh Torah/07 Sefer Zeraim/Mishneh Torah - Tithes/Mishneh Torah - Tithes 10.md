@@ -82,7 +82,7 @@ If a *chavair* told a common person to gather figs for him and another *chavair*
 [^3]: Both produce that he purchases for his own consumption and that which he purchases for commercial purposes.
 [^4]: From *Hilchot Tumat Mishkav UMoshav* 10:5, it appears that he must make these statements in the presence of three people who are themselves considered as trustworthy in this regard.
 [^5]: I.e., witnesses who meet the criteria for acceptable witnesses spelled out in *Hilchot Edut*.
-[^6]: I.e., we assume that he separated the tithes from the produce before he died, for "We can presume that a *chavair* will not release anything from under his hand unless the appropriate separations have been made" ([[Pesachim 9#9a|*Pesachim* 9a]]).
+[^6]: I.e., we assume that he separated the tithes from the produce before he died, for "We can presume that a *chavair* will not release anything from under his hand unless the appropriate separations have been made" (*Pesachim* [[Pesachim 9#9a|9a]]).
 [^7]: I.e., after she is divorced or widowed from the common person.
 [^8]: I.e., a Canaanite servant, for a Jewish servant is not sold to another master (*Hilchot Avadim* 4:10).
 [^9]: I.e., if a woman or servant does not have a history of non-observance, it is assumed that when they become part of a *chavair's* home, they will accept the standards of the home. In this instance, however, because they have a history of non-observance, they must formally accept the *chavair's* standards.

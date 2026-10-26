@@ -88,7 +88,7 @@ If one tells a gentile child[^30] to sow [such a mixture] for him in the Diaspor
 [^27]: Where the prohibitions against mixed species apply according to Scriptural Law.
 [^28]: Which in certain contexts is considered as *Eretz Yisrael* (see *Hilchot Terumot* 1:3-4) and where they apply according to Rabbinic Law.
 [^29]: Among the vines themselves, however, it is forbidden to sow, even in the Diaspora (*Kessef Mishneh*).
-[^30]: One may not, however, ask a Jewish child to perform such an activity, lest he become habituated to transgression ([[Shabbat 139#139a|*Shabbat* 139a]]).
+[^30]: One may not, however, ask a Jewish child to perform such an activity, lest he become habituated to transgression (*Shabbat* [[Shabbat 139#139a|139a]]).
 [^31]: The *Turei Zahav* 296:21 rules that even at the outset, it is permitted to ask a gentile child to do this.
 [^32]: The *Kessef Mishneh* quotes Rabbenu Asher as differing with this ruling and permitting the vegetables to be eaten. The *Shulchan Aruch* (*Yoreh De'ah* 296:69) follows the Rambam's ruling, while the Rama follows that of Rabbenu Asher.
 [^33]: The conclusion of the tractate *Orlah* relates that if vegetables are being sold outside a vineyard in the Diaspora, one may purchase them provided one does not see them being harvested.

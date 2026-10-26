@@ -42,7 +42,7 @@ OUR Lord Jesus Christ requires those who love Him to be accurate investigators o
 
 And He said unto them, Why sleep ye? Arise, add. airvi
 
-wise woman, even Mary, of whom Christ said, that “ she had Luke x. 42. ‘chosen the good part, that should not be taken away from “her.” For these earthly and temporal things fade away with the flesh: but those which are divine and intellectual, and that benefit the life of the soul, are firmly established, and their possession cannot be shaken. Let us look therefore into the meaning of the lessons set before us. ‘“ By day then “the Saviour abode in Jerusalem,” instructing evidently the Israelites, and revealing to them the way of the kingdom of heaven; but when the evening came, He continued with the holy disciples on the Mount of Olives at a spot called Gethsemane: for so the wise Evangelist Matthew tells us.
+wise woman, even Mary, of whom Christ said, that “ she had [[Luke 10#^10-42|Luke x. 42]]. ‘chosen the good part, that should not be taken away from “her.” For these earthly and temporal things fade away with the flesh: but those which are divine and intellectual, and that benefit the life of the soul, are firmly established, and their possession cannot be shaken. Let us look therefore into the meaning of the lessons set before us. ‘“ By day then “the Saviour abode in Jerusalem,” instructing evidently the Israelites, and revealing to them the way of the kingdom of heaven; but when the evening came, He continued with the holy disciples on the Mount of Olives at a spot called Gethsemane: for so the wise Evangelist Matthew tells us.
 
 t These verses, containing the account of the angel appearing unto our Lord to strengthen Him, and of His sweating drops of blood, not only are omitted by B., but are also expressly said by Hilary and Jerome to be wanting in very many (complurimis Hil.) copies, both Greek and Latin, of St. Luke’s Gospel. They are, however, retained by Tischendorf, and the evidence in their favour may be seen in the notes to his Greek Test. Ed. vii. in loc.
 
@@ -52,9 +52,9 @@ Mat. xxvi.
 
 37-
 
-Rom. xi.33.
+[[Romans 11#^11-33|Rom. xi.33]].
 
-Mat. x. 28.
+[[Matthew 10#^10-28|Mat. x. 28]].
 
 Ps. civ. 30.
 
@@ -107,7 +107,7 @@ We said therefore at our last meeting, that Christ the Sa- —viour of all was w
 
 *[p. 689]* ^pg329
 
-supplications which they offered in the synagogues, that they might be seen of men. But for those whose purpose it is to live uprightly, and who are anxious to hold fast by their love unto Him, He lays down the law of prayers in these words: “\* But thou, when thou prayest, enter thy chamber, and close Mat. vi. 6. “thy door, and pray to thy Father Who is in secret, and thy “ Father Who seeth in secret shall reward thee.” Every where therefore we find Him praying alone, that thou also mayest learn that we ought to hold converse with God over all with a quiet mind, and a heart calm and free from all disturbance. For the wise Paul writes, “I will therefore “that men pray, lifting up pious hands, without wrath and
+supplications which they offered in the synagogues, that they might be seen of men. But for those whose purpose it is to live uprightly, and who are anxious to hold fast by their love unto Him, He lays down the law of prayers in these words: “\* But thou, when thou prayest, enter thy chamber, and close [[Matthew 06#^6-6|Mat. vi. 6]]. “thy door, and pray to thy Father Who is in secret, and thy “ Father Who seeth in secret shall reward thee.” Every where therefore we find Him praying alone, that thou also mayest learn that we ought to hold converse with God over all with a quiet mind, and a heart calm and free from all disturbance. For the wise Paul writes, “I will therefore “that men pray, lifting up pious hands, without wrath and
 
 “ doubtings.”
 
@@ -117,14 +117,14 @@ shipwreck. .
 
 For spiritual bravery is indeed a thing right worthy of the saints: but those who would resist the violence of temptations must, I tell you, have a determined and, so to speak, an unflinching mind: for it is the act of utter ignorance to be over confident in conflicts, nor is a man free from the charge of boastfulness, who is thus disposed: we must therefore, I repeat, unite courage and patience with humbleness of mind; and should any temptation then befal, our mind will be prepared bravely to resist it. Yet let us ask of God the ability to endure manfully : for we are commanded in our prayers to say, “ Lead us not into temptation: but deliver us from evil.”
 
-1 Tim. ii.8.
+[[1 Timothy 02#^2-8|1 Tim. ii.8]].
 
 4\. The word translated strength, is constantly used in Syriac to exliterally means “the hand,” but this press ‘‘ strength.” A
 
 
 *[p. 690]* ^pg330
 
-Heb. v. 7.
+[[Hebrews 05#^5-7|Heb. v. 7]].
 
 Rom. viii.
 
@@ -138,7 +138,7 @@ Now what I have said is, I trust, useful for the benefit of you all; but if we m
 
 them, “ Behold, the heavens and the earth are the Lord’s thy Deut. x.ry. “ God: and thee hath the Lord chosen out of all nations to be “ His people.” It was right therefore that we should clearly know, that through pity for Israel He would have put from Him the necessity to suffer: but as it was not possible for Him not to epdure the passion, He submitted to it also, because God the Father so willed it with Him.
 
-But come and let us examine further this also. ‘ Did the de- ‘cree of God the Father, and the will of the Son Himself, call ‘Him as of necessity to His passion? And if so, and what I ‘have said be true, was it not a matter of necessity for some ‘one to be the traitor, and for the Israelites to proceed to such ‘a pitch of daring as to reject Christ, and put Him to shame in ‘manifold ways, and contrive for Him also the death upon the ‘cross?’ But if this were so, how would He be found saying, “ Woe unto that man by whom the Son of man is betrayed : Mat. xxvi. “good had it been for him if he had not been born?” And ad what just cause would there have been for Israel to perish, and be condemned to the miseries of war? For how could it oppose God’s decree, and His irresistible purposes? God is not unjust, but weighs what we do with holy judgment. How therefore can He treat as voluntary that which was involuntary? For God the Father had pity upon the dwellers upon earth, who were in misery, caught in the snares of sin, and liable to death and corruption ; bowed also beneath a tyrant’s hand, and enslaved to herds of devils. He sent from heaven His Son to be a Saviour and Deliverer: Who also was made in form like unto us. But even though He foreknew what He would suffer, and the shame of His passion was not the fruit of His own will, yet He consented to undergo it that He might save the earth, God the Father so willing it with Him, from His great kindness and love unto mankind. “ For He so Jobniti..6. “loved the world, that He gave even His Only-begotten Son, “ that whosoever believeth in Him should not ferish, but have “ everlasting life.” As regards therefore the ignominy of His passion, He "willed not to itil s but as it was not possible for Him not to suffer, because of the cruelty of the Jews, and their disobedience, and unbridled violence, “ He endured the cross, Heb. xii. z. despising the shame,” “and was obedient unto the Father, Phil. ii. 8.
+But come and let us examine further this also. ‘ Did the de- ‘cree of God the Father, and the will of the Son Himself, call ‘Him as of necessity to His passion? And if so, and what I ‘have said be true, was it not a matter of necessity for some ‘one to be the traitor, and for the Israelites to proceed to such ‘a pitch of daring as to reject Christ, and put Him to shame in ‘manifold ways, and contrive for Him also the death upon the ‘cross?’ But if this were so, how would He be found saying, “ Woe unto that man by whom the Son of man is betrayed : Mat. xxvi. “good had it been for him if he had not been born?” And ad what just cause would there have been for Israel to perish, and be condemned to the miseries of war? For how could it oppose God’s decree, and His irresistible purposes? God is not unjust, but weighs what we do with holy judgment. How therefore can He treat as voluntary that which was involuntary? For God the Father had pity upon the dwellers upon earth, who were in misery, caught in the snares of sin, and liable to death and corruption ; bowed also beneath a tyrant’s hand, and enslaved to herds of devils. He sent from heaven His Son to be a Saviour and Deliverer: Who also was made in form like unto us. But even though He foreknew what He would suffer, and the shame of His passion was not the fruit of His own will, yet He consented to undergo it that He might save the earth, God the Father so willing it with Him, from His great kindness and love unto mankind. “ For He so Jobniti..6. “loved the world, that He gave even His Only-begotten Son, “ that whosoever believeth in Him should not ferish, but have “ everlasting life.” As regards therefore the ignominy of His passion, He "willed not to itil s but as it was not possible for Him not to suffer, because of the cruelty of the Jews, and their disobedience, and unbridled violence, “ He endured the cross, Heb. xii. z. despising the shame,” “and was obedient unto the Father, [[Philippians 02#^2-8|Phil. ii. 8]].
 
 *[p. 692]* ^pg332
 
@@ -182,7 +182,7 @@ And the blessed disciples, pricked with the goading of divine love, drew their s
 
 *[p. 696]* ^pg336
 
-2 Cor. x. 3.
+[[2 Corinthians 10#^10-3|2 Cor. x. 3]].
 
 Eph. vi. r4.
 
@@ -275,17 +275,17 @@ C. xxii. 63 And the men who held Him mocked and smote Him: and —5;.
 
 when they had blindfolded Him, they asked Him, saying, airy BST. Prophesy, who is he that smote thee? And many other,” ela things blasphemously spake they against Him. And when 44. tv - it was day, the council of the elders of the people, composed 7» xpécuof the chief priests and scribes, came together, and they led °°” sewed Him into their assembly: and they said, If Thou be the 8T. Christ, tellus. And He said unto them, If I tell you, ye will not believe: und if I also ask you, ye will not return om. kal, et Me an answer. But hereafter shall the Son of man sit on one “aoe the right hand of the power of God. Then they all said, More a Art Thou therefore the Son of God? And He said unto them, Ye say that Tam. And they said, What further need have we of witness? For we ourselves have heard of His mouth.
 
-HERE too let the prophet Jeremiah say of the race of Israel, “ Who will grant for my head to be waters, and my Jer ix. 1. “eyes a fountain of tears, that I may weep for this people. “ day and night?”’ For what lamentation can suffice for those who fell into the pit of destruction because of their wicked conduct unto Christ, and for guilt so great, that not with words only did they grieve Him, and mock Him with blasphemous cries, but even laid sinful hands upon Him, and made ready for Him the snare of death? And so contumeliously did they treat him, wickedly making Him their sport, as even to venture to smite Him: for so we have this day heard the holy evangelist say, “ For the men who held Him mocked and ‘smote Him, saying, Prophesy, who is he that smote Thee?” “ But He, when He was reviled, reviled not again: and when 1 Pet.ii.23. “ He suffered, He threatened not, but committed His cause to “ Him that judgeth righteously.” Well therefore might we utter that which was said of certain men by one of the holy prophets, “ The heavens were astonished thereat, and shud- Jer. ii. 12. “\* dered very greatly, saith the Lord.” For the Lord of earth and heaven, the Creator and Artificer of all, the King of kings and Lord of lords, Who is of such surpassing greatness in glory and majesty, the foundation of everything, and that in which
+HERE too let the prophet Jeremiah say of the race of Israel, “ Who will grant for my head to be waters, and my Jer ix. 1. “eyes a fountain of tears, that I may weep for this people. “ day and night?”’ For what lamentation can suffice for those who fell into the pit of destruction because of their wicked conduct unto Christ, and for guilt so great, that not with words only did they grieve Him, and mock Him with blasphemous cries, but even laid sinful hands upon Him, and made ready for Him the snare of death? And so contumeliously did they treat him, wickedly making Him their sport, as even to venture to smite Him: for so we have this day heard the holy evangelist say, “ For the men who held Him mocked and ‘smote Him, saying, Prophesy, who is he that smote Thee?” “ But He, when He was reviled, reviled not again: and when [[1 Peter 02#^2-23|1 Pet.ii.23]]. “ He suffered, He threatened not, but committed His cause to “ Him that judgeth righteously.” Well therefore might we utter that which was said of certain men by one of the holy prophets, “ The heavens were astonished thereat, and shud- Jer. ii. 12. “\* dered very greatly, saith the Lord.” For the Lord of earth and heaven, the Creator and Artificer of all, the King of kings and Lord of lords, Who is of such surpassing greatness in glory and majesty, the foundation of everything, and that in which
 
 *[p. 704]* ^pg344
 
-Col. i. 17.
+[[Colossians 01#^1-17|Col. i. 17]].
 
 Job xxxviii.
 
 2\.
 
-John xii.40.
+[[John 12#^12-40|John xii.40]].
 
 Is. xxix. 9.
 
@@ -293,7 +293,7 @@ Deut.xxxii.
 
 32\.
 
-Gal. vi. 7.
+[[Galatians 06#^6-7|Gal. vi. 7]].
 
 it exists and abides—“ for all things exist in Him’—He Who is the breath of all the holy spirits in heaven, is scorned like one of us, and patiently endures buffetings, and submits to the ridicule of the wicked, offering Himself to us as a perfect pattern of longsuffering, or rather manifesting the incomparable
 
@@ -305,11 +305,11 @@ But when at the dawn of day their wicked assembly was gathered together, He Who 
 
 *[p. 705]* ^pg345
 
-But tell me, why dost thou question Him, and wish to learn of Himself, whether He be the Christ? For it is easy enough to obtain the knowledge of Him from the law and the prophets. Search the writings of Moses: thou wilt see Him depicted there in manifold ways. For He was sacrificed as a lamb: He vanquished the destroyer by His blood: and was prefigured also in many other forms. Examine too the writings of the prophets; thou wilt hear them proclaiming His divine and wonderful miracles. “ For then, they say, shall the Is. xxxv. 5. “ eyes of the blind be opened, and the ears of the dumb shall ‘hear: then shall the lame man leap as a hart, and the “ tongue of the stammerers shall be plain.” And again, “ The Is. xxvi.1o. “dead shall arise, and those who are in the graves shall “‘awake: for the dew from Thee is healing to them.” Since therefore even ye yourselves see the perfect clearness of the accomplishment of the prophecies respecting Him, why do ye not rather acknowledge Him on the evidence of His divine miracles, and of His ineffable works? And this too Christ Himself said unto you; ‘The works which My Father gave John v. 36. “‘ Me to do, those works bear witness of Me that He sent Me.” And again, “If \[ had not done among them the works which Johnxv.24. “no other man did, they had not had sin: but now they have “both seen and hated both Me and My Father.” The rulers therefore of the Jews, together with the people under their charge, were in very truth unbelieving, and thoroughly with-
+But tell me, why dost thou question Him, and wish to learn of Himself, whether He be the Christ? For it is easy enough to obtain the knowledge of Him from the law and the prophets. Search the writings of Moses: thou wilt see Him depicted there in manifold ways. For He was sacrificed as a lamb: He vanquished the destroyer by His blood: and was prefigured also in many other forms. Examine too the writings of the prophets; thou wilt hear them proclaiming His divine and wonderful miracles. “ For then, they say, shall the Is. xxxv. 5. “ eyes of the blind be opened, and the ears of the dumb shall ‘hear: then shall the lame man leap as a hart, and the “ tongue of the stammerers shall be plain.” And again, “ The Is. xxvi.1o. “dead shall arise, and those who are in the graves shall “‘awake: for the dew from Thee is healing to them.” Since therefore even ye yourselves see the perfect clearness of the accomplishment of the prophecies respecting Him, why do ye not rather acknowledge Him on the evidence of His divine miracles, and of His ineffable works? And this too Christ Himself said unto you; ‘The works which My Father gave [[John 05#^5-36|John v. 36]]. “‘ Me to do, those works bear witness of Me that He sent Me.” And again, “If \[ had not done among them the works which Johnxv.24. “no other man did, they had not had sin: but now they have “both seen and hated both Me and My Father.” The rulers therefore of the Jews, together with the people under their charge, were in very truth unbelieving, and thoroughly with-
 
 out understanding.
 
-I think, however, that we ought to examine the words used by Christ: for they were a reproof of the want of love to God of which the Scribes and Pharisees were guilty. When therefore they ask whether He is in truth the Christ, and would learn this very thing, He says, “If I tell you, ye will not be- ‘lieve; and if I ask, ye will not return an answer.” Come therefore, and let me explain to you, as to men glad to be taught, what the occasion was on which they heard, and would not believe; and that on which they were silent when questioned. When Christ then went up to Jerusalem, He found John ii. 13. in the temple people selling sheep and oxen and doves, and moneychangers sitting: and having made, it says, a kind of scourge of cords, He drove them all out of the temple, saying, ‘“‘ Take these things hence: and make not My Father’s house
+I think, however, that we ought to examine the words used by Christ: for they were a reproof of the want of love to God of which the Scribes and Pharisees were guilty. When therefore they ask whether He is in truth the Christ, and would learn this very thing, He says, “If I tell you, ye will not be- ‘lieve; and if I ask, ye will not return an answer.” Come therefore, and let me explain to you, as to men glad to be taught, what the occasion was on which they heard, and would not believe; and that on which they were silent when questioned. When Christ then went up to Jerusalem, He found [[John 02#^2-13|John ii. 13]]. in the temple people selling sheep and oxen and doves, and moneychangers sitting: and having made, it says, a kind of scourge of cords, He drove them all out of the temple, saying, ‘“‘ Take these things hence: and make not My Father’s house
 
 *[p. 706]* ^pg346
 
@@ -321,7 +321,7 @@ Mat. xxii.
 
 42\.
 
-John x. 22.
+[[John 10#^10-22|John x. 22]].
 
 “9 house of merchandize.” Because therefore He called God His Father, those who were sacrificing in the temple murmured and attacked Him, saying, ‘“ By what authority doest Thou “ these things? And who gave Thee this authority?” And to this Christ replied, “I will also ask you a word, which if you “tell Me, I also will tell you by what authority I do these ‘things. The baptism of John, whence was it, from heaven, “or of men? And they, it says, reasoned with themselves, “saying, If we say, From heaven, He will say unto us, Why “did ye not believe him? But if we say, Of men, we fear the “ multitude: for all held John as a prophet. And they answered and said, We do not know. And Christ said thereto, “ Neither do I tell you by what authority I do these things.”
 
@@ -463,7 +463,7 @@ The Redeemer therefore was led to His saving passion: but they laid His cross, i
 
 *[p. 716]* ^pg356
 
-Phil. ii. 8.
+[[Philippians 02#^2-8|Phil. ii. 8]].
 
 John xiii.
 
@@ -523,7 +523,7 @@ e GSs.
 
 Kipie Gs.
 
-Rom.xi.33.
+[[Romans 11#^11-33|Rom.xi.33]].
 
 SERMON CLIII.
 
@@ -551,7 +551,7 @@ Deut.
 
 xxviii. 66.
 
-John ix.28.
+[[John 09#^9-28|John ix.28]].
 
 Ps. ii. 4.
 

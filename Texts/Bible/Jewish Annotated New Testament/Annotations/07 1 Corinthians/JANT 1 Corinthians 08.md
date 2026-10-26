@@ -32,6 +32,6 @@ Text: [[NRSVue 1 Corinthians 08|NRSVue]] · [[1 Corinthians 08|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 08#^8-12|12]]:** *Sin*, mislead believers ([[Isaiah 09#^9-15|Isa 9.16]]; [[Ezekiel 13#^13-9|Ezek 13.9–10]]; [[Micah 3#^3-5|Mic 3.5]]). ^8-12
 
-**[[NRSVue 1 Corinthians 08#^8-13|13]]:** *Never eat meat*, since meat sold in the marketplace may have been used in pagan sacrifice, Corinthians could avoid sin by abstaining from meat. Paul’s theory parallels the rabbinic concept of “lifnei meshurat ha-din,” extending the boundaries of the law to ensure fidelity ([[Bava Metzia 24#24b|*b. B. Metz.* 24b]]). ^8-13
+**[[NRSVue 1 Corinthians 08#^8-13|13]]:** *Never eat meat*, since meat sold in the marketplace may have been used in pagan sacrifice, Corinthians could avoid sin by abstaining from meat. Paul’s theory parallels the rabbinic concept of “lifnei meshurat ha-din,” extending the boundaries of the law to ensure fidelity (*b. B. Metz.* [[Bava Metzia 24#24b|24b]]). ^8-13
 
 [[JANT 1 Corinthians 07|← 1 Corinthians 7]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT 1 Corinthians 09|1 Corinthians 9 →]]

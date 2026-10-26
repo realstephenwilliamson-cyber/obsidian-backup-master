@@ -201,7 +201,7 @@ If [the *get*] was given to her in the presence of witnesses, it is acceptable i
 [^42]: This represents a difference between *gittin* and other legal documents, as reflected in Halachah 3 and notes (*Maggid Mishneh*).
 [^43]: The *Maggid Mishneh* emphasizes that if the *get* is faded to the point that it cannot be read at the time it is transferred, the fact that the transfer is observed by witnesses is to no avail, and the divorce is void.  
     He also mentions the opinion of the Rashba, who states that a *get* that is torn vertically and horizontally before it is given to the woman is not acceptable. He does not, however, accept that decision. His rulings are paralleled by those of the *Shulchan Aruch* (*Even HaEzer* 125:21), which mentions both the Rambam's and the Rashba's views, but appears to favor that of the Rambam.
-[^44]: The others, by contrast, are not considered to be divorced, for we have no proof that the woman's husband in fact gave her this get. (See [[Gittin 86#86b|*Gittin* 86b]].)
+[^44]: The others, by contrast, are not considered to be divorced, for we have no proof that the woman's husband in fact gave her this get. (See *Gittin* [[Gittin 86#86b|86b]].)
 [^45]: I.e., no attention is paid to the witnesses who signed the get. Each of the women received a *get* that was written in acceptable manner, and whose transfer was observed by witnesses. This is sufficient for a divorce to be acceptable.
 [^46]: For hers is an acceptable *get*, signed by witnesses. We are not concerned with the fact that the scroll contains other *gittin* above it.
 [^47]: The *get* is acceptable only if the date that is stated in the beginning of the *get* is restated in the individual statement written for each woman. (See *Beit Shmuel* 130:13.)

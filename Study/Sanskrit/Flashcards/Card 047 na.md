@@ -20,16 +20,13 @@ nyasa: "left toenails (*nakha*)"
 ## Front
 
 - **Glyph:** न
-- **Variation:** —
 - **Example:** नर
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘bana<u>n</u>a’
-- **Class (as printed):** 4 (dental) · soft · nasal
-- **Grid:** the five rows of stops; in bold: न
-- **Example:** nara (man)
+> [!note]- Back
+> - **Pronunciation:** As in ‘bana<u>n</u>a’
+> - **Class:** dental · soft · nasal
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध <u>न</u> / प फ ब भ म
+> - **Example:** nara (man)
 
 ## Register
 

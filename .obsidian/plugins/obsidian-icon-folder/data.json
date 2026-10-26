@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasScaleBalanced",
+      "FabBlackTie",
+      "FasTents",
       "FarFaceAngry",
-      "FasPaintbrush",
-      "FasMonument",
-      "FasOm",
-      "FabStudiovinari"
+      "FasPaintbrush"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -70,5 +70,8 @@
   "Texts/Pirkei Avot": "FabStudiovinari",
   "Texts/Markandeya Purana": "FasOm",
   "Texts/Malinislokavarttika": "FasMonument",
-  "Texts/Hobbes": "FarFaceAngry"
+  "Texts/Hobbes": "FarFaceAngry",
+  "Texts/Kitzur Shulchan Arukh": "FasTents",
+  "Texts/Maimonides": "FabBlackTie",
+  "Texts/Talmud": "FasScaleBalanced"
 }

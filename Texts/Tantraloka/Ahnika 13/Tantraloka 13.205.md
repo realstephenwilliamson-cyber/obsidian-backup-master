@@ -16,10 +16,10 @@ aliases:
 
 ## Mūla
 
-योग्यता शिवतादात्म्ययोगार्हत्वमिहोच्यते ।
+योग्यतां शिवतादात्म्ययोगार्हत्वमिहोच्यते ।
 पूर्वं किं न तथा कस्मात्तदैवेति न सङ्गतम् ॥ ^mula
 
-yogyatā śivatādātmyayogārhatvamihocyate |
+yogyatāṃ śivatādātmyayogārhatvamihocyate |
 pūrvaṃ kiṃ na tathā kasmāttadaiveti na saṅgatam || ^iast
 
 ## Translation

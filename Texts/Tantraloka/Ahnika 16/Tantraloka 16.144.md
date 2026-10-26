@@ -30,7 +30,7 @@ tattvamārgavidhānena jñātavyaḥ paramārthataḥ || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#^pg85|p. 65]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=85>))
 >
-> ‘Although the phonemes are of two kinds, it is said that (there is also) a division into six kinds. That should be known as it truly is by (referring) to the procedure concerning the Path of the Principles.
+> ‘Although the phonemes are of two kinds, it is said that (there is also) a division into six kinds. That should be known as it truly is by (referring) to the procedure concerning the Path of the Principles.’
 
 ## Viveka
 

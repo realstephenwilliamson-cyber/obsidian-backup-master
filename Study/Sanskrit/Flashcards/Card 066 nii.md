@@ -20,18 +20,12 @@ nyasa: "na: left toenails (*nakha*) · ī: left eye (*dṛk*)"
 ## Front
 
 - **Glyph:** नी
-- **Variation:** —
-- **Example:** —
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** —
-- **Line under the name (no printed label):** Is a root
-- **Class (as printed):** long syllable
-- **root:** ‘to carry, lead’
-- **Grid:** a row of vowel signs (◌ा ◌ि ◌ी ◌ु ◌ू) above the five rows of stops + य र ल व + श ष स ह; in bold: ◌ी, न
-- **Example:** —
+> [!note]- Back
+> - **Line under the name:** Is a root
+> - **root:** ‘to carry, lead’
+> - **Class:** long syllable
+> - ा ि <u>ी</u> ु ू / क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध <u>न</u> / प फ ब भ म / य र ल व / श ष स ह
 
 ## Register
 

@@ -33,7 +33,7 @@ ityuktyā mālinīśāstre sūcitāsau maheśinā || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 10 - Chapter Nineteen#^pg219|p. 199]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=219>))
 >
-> The Lord has briefly referred (to this initiation) in the Mālinīvijayottara (mālinīśāstra) with the words, ‘(he) goes to (Śiva) when the body drops, either at that very moment, or else after (he has) enjoyed the worldly experience (predetermined for him in another world) (upabhoga).
+> The Lord has briefly referred (to this initiation) in the Mālinīvijayottara (mālinīśāstra) with the words, ‘(he) goes to (Śiva) when the body drops, either at that very moment, or else after (he has) enjoyed the worldly experience (predetermined for him in another world) (upabhoga).’
 
 ## Viveka
 

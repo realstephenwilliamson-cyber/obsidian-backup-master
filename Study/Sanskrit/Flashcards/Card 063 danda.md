@@ -20,18 +20,10 @@ nyasa: "none (a sign, not a letter)"
 ## Front
 
 - **Glyph:** ।
-- **Variation:** —
-- **Example:** —
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Sign above the name (no printed label):** a large round dot
-- **Pronunciation:** —
-- **Class (as printed):** —
-- **Note (no printed label):** One indicates the end of a half-verse or prose sentence. Two indicate the end of a full verse or sūtra.
-- **Grid:** —
-- **Example:** —
+> [!note]- Back
+> - **Sign above the name:** a large round dot
+> - **Note:** One indicates the end of a half-verse or prose sentence. Two indicate the end of a full verse or sūtra.
 
 ## Register
 

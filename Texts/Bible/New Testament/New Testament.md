@@ -17,7 +17,7 @@ aliases:
 
 The New Testament in the Berean Standard Bible, with the SBL Greek New Testament under each verse, one note per chapter. Verses carry block IDs, so `[[John 01#^1-14]]` shows John 1:14 in English and Greek. BSB footnotes and the SBLGNT apparatus are footnotes; Old Testament citations in the BSB footnotes link to [[Torah]] and [[Tanakh]]. A verse reference opens the JPS verse that holds the words cited, which may be numbered differently: Psalm 69:9 opens Psalms 69:10.
 
-The [[New Testament page]] lays out one section at a time like a page of a glossed Bible: the BSB or the NRSVue, the Greek with each word linked to its lexicon note, the JANT's notes, the Synoptic parallels, the Fathers and Aquinas, and every other note that cites it.
+The [[New Testament View]] lays out one section at a time like a page of a glossed Bible: the BSB or the NRSVue, the Greek with each word linked to its lexicon note, the JANT's notes, the Synoptic parallels, the Fathers and Aquinas, and every other note that cites it.
 
 ## License and attribution
 

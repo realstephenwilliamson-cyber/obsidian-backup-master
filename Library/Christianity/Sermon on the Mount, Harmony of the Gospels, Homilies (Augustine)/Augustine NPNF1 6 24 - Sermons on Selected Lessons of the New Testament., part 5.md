@@ -18,7 +18,7 @@ in that sin which He mentioned when He said, “If I had not come and spoken to 
 
 25\. Here perhaps some one may ask, “whether the Holy Ghost only forgiveth sins, and not the Father and the Son also?” I answer, Both the Father and the Son forgive them. For the Son Himself saith of the Father, “If ye forgive men their trespasses, your heavenly Father will also forgive you.”<sup>2423</sup> And we say to Him in the Lord’s Prayer, “Our Father, which art in heaven.”<sup>2424</sup> And amongst the other petitions we ask this, saying, “Forgive us our debts.”<sup>2425</sup> And again of Himself He saith, “That ye may know that the Son of Man hath power on earth to forgive sins.”<sup>2426</sup> “If then,” you will say, “The Father, the Son, and the Holy Spirit forgive sins, why is that impenitence which shall never be forgiven, said to relate only to the blasphemy of the Spirit, as though he who should be bound in this sin of impenitence should seem to resist the gift of the Holy Spirit, because by that gift is wrought the remission of sins?” Now on this point, I will also ask, Whether Christ only cast out devils, or the Father and the Holy Spirit also? For if Christ only, what means His saying, “The Father that dwelleth in Me, He doeth the works.”<sup>2427</sup> For so it is said, “He doeth the works,” as if the Son doeth them not, but the Father who dwelleth in the Son. Why then in another place doth He say, “My Father worketh hitherto, and I work.”<sup>2428</sup> And a little after, “For what things soever He doeth, these also doeth the Son likewise.”<sup>2429</sup> But when in another place He says, “If I had not done amongst them the works which none other man did,”<sup>2430</sup> He speaks as if He did them alone. Now if these things are so expressed, as that nevertheless the works of the Father and the Son are inseparable, what must we believe of the Holy Spirit, but that He also worketh equally with them? For in that very place, from which this
 
-2421 John xv. 22. 2422 John xvi. 8, 9. 2423 Matt. vi. 14. 2424 Matt. vi. 9. 2425 Matt. vi. 12. 2426 Matt. ix. 6. 2427 John xiv. 10. 2428 John v. 17. 2429 John v. 19.
+2421 [[John 15#^15-22|John xv. 22]]. 2422 [[John 16#^16-8|John xvi. 8]], [[John 16#^16-9|9]]. 2423 [[Matthew 06#^6-14|Matt. vi. 14]]. 2424 [[Matthew 06#^6-9|Matt. vi. 9]]. 2425 [[Matthew 06#^6-12|Matt. vi. 12]]. 2426 [[Matthew 09#^9-6|Matt. ix. 6]]. 2427 [[John 14#^14-10|John xiv. 10]]. 2428 [[John 05#^5-17|John v. 17]]. 2429 [[John 05#^5-19|John v. 19]].
 
 
 *[p. 690]* ^pg716
@@ -27,7 +27,7 @@ question arose which we are discussing, when the Son was casting out devils, He 
 
 and the Son, than that He worketh anything by His own will, and that this is the scope of the words, “In the Holy Spirit I cast out devils,” because not the Spirit Himself, but Christ in the Spirit, did it; so that the expression, “I cast out in the Holy Spirit,” might be understood as if it were said, “I cast out by the Holy Spirit.” For this is the usual style of the Scriptures, “They killed in the sword,” that is, by the sword. They “burnt in the fire,”<sup>2432</sup> that is, by the fire. “And Joshua took knives of flints, in which to circumcise,” that is, by which to circumcise, “the children of Israel.”<sup>2433</sup> But let those who on this account take from the Holy Spirit His proper power, look to that which we read to have been spoken by the Lord, “The Spirit bloweth where It listeth.”<sup>2434</sup> And as to what the Apostle says, “But all these worketh that one and the self-same Spirit, dividing to every man severally as He will;”<sup>2435</sup> it might be feared, lest one imagine that the Father and the Son do not work them: whereas amongst these works he has expressly mentioned both the “gifts of healings,” and the “workings of miracles,” in which surely is included also the driving out of devils. But when he adds the words, “Dividing to every man severally as He will;” does he not clearly show also the Power of the Holy Spirit, yet as plainly inseparable from the Father and the Son? If then these things are so expressed, as that notwithstanding the operation of the Trinity is understood to be inseparable: so that when the operation of the Father is spoken of, it is understood that He does not exercise it without the Son, and the Holy Spirit; and when the operation of the Son is spoken of, it is not without the Father and the Holy Spirit; and when the operation of the Holy Spirit is spoken of, it is not without the Father and the Son; it is sufficiently clear to those who have a sound faith, or who even understand as they best can, both that the words, “He doeth the works,”<sup>2436</sup> are spoken of the Father, in that from Him is also<sup>2437</sup> the first principle of the works, from whom is the existence of the Persons who co-operate in working: for that both the Son is born of Him, and the Holy Spirit proceedeth from Him, as the First Beginning, of whom the Son is born, and with whom He hath one Spirit in common; and again that when the Lord said, “If I had not done among them the works which none other did,”<sup>2438</sup> He did not speak in reference to the Father and the Spirit, as that They did not co-operate
 
-2431 Matt. xii. 28. 2432 Ps. lxxiii. 7, Sept. (lxxiv. 7, English version). 2433 Josh. v. 3. 2434 John iii. 8. 2435 1 Cor. xii. 11. 2436 John xiv. 10. 2437 *Origo*. 328 2439 Serm. ii. (lii. Bened.) 8–13 (iv.).
+2431 [[Matthew 12#^12-28|Matt. xii. 28]]. 2432 Ps. lxxiii. 7, Sept. (lxxiv. 7, English version). 2433 Josh. v. 3. 2434 [[John 03#^3-8|John iii. 8]]. 2435 [[1 Corinthians 12#^12-11|1 Cor. xii. 11]]. 2436 [[John 14#^14-10|John xiv. 10]]. 2437 *Origo*. 328 2439 Serm. ii. (lii. Bened.) 8–13 (iv.).
 
 
 *[p. 691]* ^pg717
@@ -36,7 +36,7 @@ with Him in those works; but to men by whom we read of many miracles having been
 
 27.<sup>2439</sup> And yet it is not without cause, but with reason and with truth said, that the Father, and not the Son and the Holy Spirit, said, “Thou art My beloved Son, in whom I am well pleased.”<sup>2440</sup> Nevertheless, we do not deny that the Son and the Holy Spirit co-operated in working this miracle of the voice sounding from heaven, though we know that it belongs to the Person of the Father only. For though the Son bearing flesh, was there conversing with men on earth, He was not the less on that account in the Bosom of the Father also as the Only-Begotten Word, when that Voice came out of the cloud; nor could it be either wisely and through the Spirit <sup>2441</sup> believed, that God the Father separated the operation of these audible and passing words from the co-operation of His Wisdom and His Spirit. In the same way when we say most rightly, that not the Father, nor the Holy Spirit, but the Son walked upon the sea, who only had that flesh and those feet which rested on the waves;<sup>2442</sup> yet who would deny that the Father and the Holy Spirit co-operated in the work of so great a miracle? For so again we say most truly that the Son only took this our flesh, not the Father, nor the Holy Spirit, and yet he hath no true wisdom who denies that the Father, or the Holy Spirit co-operated in the work of His Incarnation which belongeth only to the Son. So also we say that neither the Father, nor the Son, but the Holy Spirit only appeared both in the “form of a dove,”<sup>2443</sup> and in “tongues as it were of fire;”<sup>2444</sup> and gave to those to whom He came the power to tell in many and various tongues “the wonderful works of God;” and yet from this miracle which regards the Holy Spirit only, we cannot separate the co-operation of the Father and the Only-Begotten Word. So also the Whole Trinity work the works of each several Person in the Trinity, the Two co-operating in the work of the Other, through a perfect harmony of operation in the Three, and not through any deficiency of the power to work effectually in One. And since this is so, hence it is that the Lord Jesus cast out devils in the Holy Spirit. Not that He was not able to accomplish this alone, or that He assumed that aid as being insufficient for this work; but it was meet that the spirit who
 
-2440 Matt. xvii. 5; Luke iii. 22. 2441 *Spiritualiter*. 2442 Matt. xiv. 25. 2443 Matt. iii. 16.
+2440 [[Matthew 17#^17-5|Matt. xvii. 5]]; [[Luke 03#^3-22|Luke iii. 22]]. 2441 *Spiritualiter*. 2442 [[Matthew 14#^14-25|Matt. xiv. 25]]. 2443 [[Matthew 03#^3-16|Matt. iii. 16]].
 
 
 *[p. 692]* ^pg718
@@ -47,9 +47,9 @@ is divided against himself should be driven out by that Spirit, which the Father
 
 29\. Now that He is the Spirit of the Father, the Son Himself saith, “He proceedeth from the Father.”<sup>2451</sup> And in another place, “For it is not ye that speak, but the Spirit of your Father which speaketh in you.”<sup>2452</sup> And that He is the Spirit of the Son also the Apostle saith, “God hath sent the Spirit of His Son into your hearts, crying, Abba Father;”<sup>2453</sup> that
 
-2445 Rom. viii. 15. 2446 Matt. vi. 12. 2447 1 John iii. 24. 2448 Rom. viii. 16. 2449 Phil. ii. 1.
+2445 [[Romans 08#^8-15|Rom. viii. 15]]. 2446 [[Matthew 06#^6-12|Matt. vi. 12]]. 2447 [[1 John 03#^3-24|1 John iii. 24]]. 2448 [[Romans 08#^8-16|Rom. viii. 16]]. 2449 [[Philippians 02#^2-1|Phil. ii. 1]].
 
-2450 Eph. iv. 3. 2451 John xv. 26. 2452 Matt. x. 20. Gal. iv. 6. 329 2454 Rom. viii. 9. 2455 Jude 19. 2456 1 Cor. ii. 14. 2457 1 Cor. iii. 1, 2, 3, Vulgate. 2458 1 Cor. iii. 4, 5.
+2450 [[Ephesians 04#^4-3|Eph. iv. 3]]. 2451 [[John 15#^15-26|John xv. 26]]. 2452 [[Matthew 10#^10-20|Matt. x. 20]]. [[Galatians 04#^4-6|Gal. iv. 6]]. 329 2454 [[Romans 08#^8-9|Rom. viii. 9]]. 2455 Jude 19. 2456 [[1 Corinthians 02#^2-14|1 Cor. ii. 14]]. 2457 [[1 Corinthians 03#^3-1|1 Cor. iii. 1]], [[1 Corinthians 03#^3-2|2]], [[1 Corinthians 03#^3-3|3]], Vulgate. 2458 [[1 Corinthians 03#^3-4|1 Cor. iii. 4]], [[1 Corinthians 03#^3-5|5]].
 
 
 *[p. 693]* ^pg719
@@ -66,7 +66,7 @@ is, making you cry. For it is we that cry; but in Him, that is, by His shedding 
 
 33\. And since this is so, remission of sins, seeing it is not given but by the Holy Spirit, can only be given in that Church which hath the Holy Spirit. For this is the effect of the remission
 
-2460 1 Cor. iii. 16. 2461 Wisd. i. 5. 2462 *Congregationibus vel potius segregationibus*. 2463 Gal. iv. 29. 2 Tim. iii. 5. 330 2465 Acts ii. 37, 38. 2466 John xiv. 26. 2467 *Significationes*. *Habetur*.
+2460 [[1 Corinthians 03#^3-16|1 Cor. iii. 16]]. 2461 Wisd. i. 5. 2462 *Congregationibus vel potius segregationibus*. 2463 [[Galatians 04#^4-29|Gal. iv. 29]]. [[2 Timothy 03#^3-5|2 Tim. iii. 5]]. 330 2465 [[Acts 02#^2-37|Acts ii. 37]], [[Acts 02#^2-38|38]]. 2466 [[John 14#^14-26|John xiv. 26]]. 2467 *Significationes*. *Habetur*.
 
 
 *[p. 695]* ^pg721
@@ -81,9 +81,9 @@ divided against the Holy Spirit which is not divided against Himself. And of thi
 
 35\. And in the narrative of the two other Evangelists, the occasion of speaking out this sentence of the blasphemy of the Spirit arose from the mention of the unclean spirit, who is divided against himself. For it had been said of the Lord, that “He cast out devils by the prince of the devils.” In that place the Lord says, that “by the Holy Spirit He casteth out devils,” that so the spirit who is not divided against Himself may overcome and cast out him who is divided against himself; but that that man would abide in his perdition, who refuses through impenitence to pass over into His peace, who is not divided against Himself. For thus runs the narrative of Mark; “Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme; but he that shall blaspheme against the Holy Ghost hath never forgiveness, but shall be held guilty of an eternal offence.”<sup>2473</sup> When he had delivered these words of the Lord, he then subjoined his own, saying, “Because they said He hath an unclean spirit;”<sup>2474</sup> that He might show that
 
-2469 Luke xii. 8, 9.
+2469 [[Luke 12#^12-8|Luke xii. 8]], [[Luke 12#^12-9|9]].
 
-2470 Luke xii. 10. 2471 Matt. xxvi. 75. 2472 Luke xxii. 31. 2473 Mark iii. 28, 29.
+2470 [[Luke 12#^12-10|Luke xii. 10]]. 2471 [[Matthew 26#^26-75|Matt. xxvi. 75]]. 2472 [[Luke 22#^22-31|Luke xxii. 31]]. 2473 [[Mark 03#^3-28|Mark iii. 28]], [[Mark 03#^3-29|29]].
 
 
 *[p. 697]* ^pg723
@@ -94,7 +94,7 @@ out of their own mouths to be divided against himself, as Beelzebub, by whom the
 
 36\. But in this passage according to Matthew, the Lord far more plainly explained what he intended to be understood here; namely, that he it is who speaks a word against the Holy Ghost, who with an impenitent heart resists the Unity of the Church, where in the Holy Spirit is given the remission of sins. For this spirit they have not, as has been said already, who even though they bear and handle<sup>2477</sup> the sacraments of Christ, are separated from His congregation. For when He spoke of the division of Satan against Satan, and how that He Himself cast out devils by the Holy Spirit, that Spirit, namely, which is not, as the other, divided against Himself; lest any one should think because of those who gather together their irregular assemblies<sup>2478</sup> under the Name of Christ, but without His fold, that the kingdom of Christ also was divided against itself, He immediately added, “He that is not with Me is against Me, and he that gathereth not with Me scattereth abroad,”<sup>2479</sup> that He might show that they did not belong to Him who by gathering “without” wished not to “gather” but “to scatter abroad.” And afterwards He subjoined, “Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men; but the blasphemy of the Spirit shall not be forgiven.”<sup>2480</sup> What is this “wherefore?” Shall the blasphemy of the Spirit only not be forgiven, because “he who is not with Christ is against Him, and he who gathereth
 
-2475 Acts iv. 32. 2476 John vii. 20 and viii. 48. 2477 *Portantes et tractantes*. 2478 *Conventicula*. 2479 Matt. xii. 30.
+2475 [[Acts 04#^4-32|Acts iv. 32]]. 2476 [[John 07#^7-20|John vii. 20]] and viii. 48. 2477 *Portantes et tractantes*. 2478 *Conventicula*. 2479 [[Matthew 12#^12-30|Matt. xii. 30]].
 
 
 *[p. 698]* ^pg724
@@ -118,7 +118,7 @@ can avail ought, unless the Church be kept to, in which remission of sins is giv
 
 Sermon XXII.
 
-\[LXXII. Ben.\] *On the words of the Gospel, Matt. xii. 33, “Either make the tree good, and its fruit good,”* *etc.*
+\[LXXII. Ben.\] *On the words of the Gospel, [[Matthew 12#^12-33|Matt. xii. 33]], “Either make the tree good, and its fruit good,”* *etc.*
 
 1\. The Lord Jesus hath admonished us, that we be good trees, and that so we may be able to bear good fruits. For He saith, “Either make the tree good, and his fruit good, or else make the tree corrupt, and his fruit corrupt, for the tree is known by his fruit.”<sup>2484</sup> When He says, “Make the tree good, and his fruit good;” this of course is not an admonition, but a wholesome precept, to which obedience is necessary. But when He saith, “Make the tree corrupt, and his fruit corrupt;” this is not a precept that thou shouldest do it; but an admonition, that thou shouldest beware of it. For He spoke against those, who thought that although they were evil, they could speak good things or have good works. This the Lord Jesus saith is impossible. For the man himself must first be changed, in order that his works may be changed. For if a man abide in his evil state, he cannot have good works; if he abide in his good state, he cannot have evil works.
 
@@ -126,14 +126,14 @@ Sermon XXII.
 
 3\. Of this ax does John speak, saying, “Now is the ax laid unto the root of the trees; every tree which bringeth not forth good fruit shall be hewn down, and cast into the fire.”<sup>2491</sup> With this ax does the Householder in the Gospel threaten, saying, “Behold these three years I come to this tree, and find no fruit on it.” Now I must clear<sup>2492</sup> the ground; wherefore let
 
-2484 Matt. xii. 33. 2485 Rom. v. 6. 2486 John i. 12. 2487 *Prærogare*. 2488 Ps. ci. 1. 2489 *Chartis*.
+2484 [[Matthew 12#^12-33|Matt. xii. 33]]. 2485 [[Romans 05#^5-6|Rom. v. 6]]. 2486 [[John 01#^1-12|John i. 12]]. 2487 *Prærogare*. 2488 Ps. ci. 1. 2489 *Chartis*.
 
-2490 *Distulit securim, dedit securitatem*. 2491 Matt. iii. 10. *Evacuare*. 333 2493 Luke xiii. 7, etc. 2494 Exod. iii. 15. 2495 Eph. iii. 14, 17–19. 2496 *Sordes pœnitentiæ*. 2497 Bingh, *Antiq*. xviii. c. 2, § 2. 1 Tim. vi. 10. *Cupiditas*, Vulgate.
+2490 *Distulit securim, dedit securitatem*. 2491 [[Matthew 03#^3-10|Matt. iii. 10]]. *Evacuare*. 333 2493 [[Luke 13#^13-7|Luke xiii. 7]], etc. 2494 Exod. iii. 15. 2495 [[Ephesians 03#^3-14|Eph. iii. 14]], [[Ephesians 03#^3-17|17–19]]. 2496 *Sordes pœnitentiæ*. 2497 Bingh, *Antiq*. xviii. c. 2, § 2. 1 Tim. vi. 10. *Cupiditas*, Vulgate.
 
 
 *[p. 701]* ^pg727
 
-*On the words of the Gospel, Matt. xii. 33, ‘Either make the tree good, and…*
+*On the words of the Gospel, [[Matthew 12#^12-33|Matt. xii. 33]], ‘Either make the tree good, and…*
 
 it be cut down. And the husbandman intercedes, saying, “Lord, let it alone this year also, till I shall dig about it and dung it; and if it bear fruit, well; and if not, then Thou shalt come and cut it down.”<sup>2493</sup> So the Lord hath visited mankind as it were three years, that is, at three several times. The first time was before the Law; the second under the Law; the third is now, which is the time of grace. For if He did not visit mankind before the Law, whence was Abel, and Enoch, and Noe, and Abraham, and Isaac, and Jacob, whose Lord He was pleased to be called? And He to whom all nations belonged, as though He were the God of three men only, said, “I am the God of Abraham, and Isaac, and Jacob.”<sup>2494</sup> But if He did not visit under the Law, He would not have given the Law itself. After the Law, came the very Master of the house in person; He suffered, and died, and rose again; He gave the Holy Spirit, He made the Gospel to be preached throughout all the world, and yet a certain tree remained unfruitful. Still is there a certain portion of mankind, which doth not yet amend itself. The husbandman intercedes; the Apostle prays for the people; “I bow my knees,” he saith, “unto the Father for you, that being rooted and grounded in love, ye may be able to comprehend with all saints what is the breadth, and length, and depth, and height; and to know the love of Christ which passeth knowledge, that ye might be filled with all the fulness of God.”<sup>2495</sup> By bowing the knees, he intercedes with the Master of the house for us, that we be not rooted up. Therefore since He must necessarily come, let us take care that He find us fruitful. The digging about the tree is the lowliness of the penitent. For every ditch is low. The dunging it, is the filthy<sup>2496</sup> robe<sup>2497</sup> of repentance. For what is more filthy than dung; yet if well used, what more profitable?
 
@@ -141,7 +141,7 @@ it be cut down. And the husbandman intercedes, saying, “Lord, let it alone thi
 
 *[p. 702]* ^pg728
 
-*On the words of the Gospel, Matt. xii. 33, ‘Either make the tree good, and…*
+*On the words of the Gospel, [[Matthew 12#^12-33|Matt. xii. 33]], ‘Either make the tree good, and…*
 
 evil evil; to the good are good, not because gold and silver make them good; but because they find them good, they are turned to a good use. Again, thou dost wish to have honour, it is good; but this too only if thou make a good use of it. To how many has honour been the occasion of destruction! And again, to how many has honour been the instrument <sup>2499</sup> of good works!
 
@@ -151,12 +151,12 @@ evil evil; to the good are good, not because gold and silver make them good; but
 
 2499 *Ministerium*.
 
-2500 Vide Serm. ccxxxii. (vii.) 8. 2501 Ps. iv. 3, Sept. (iv. 2, English version). *Triennio*. 334 2503 Ps. iv. 4. 2504 *Pompatica*. 2505 Luke xii. 48. *Mereatur*.
+2500 Vide Serm. ccxxxii. (vii.) 8. 2501 Ps. iv. 3, Sept. (iv. 2, English version). *Triennio*. 334 2503 Ps. iv. 4. 2504 *Pompatica*. 2505 [[Luke 12#^12-48|Luke xii. 48]]. *Mereatur*.
 
 
 *[p. 703]* ^pg729
 
-*On the words of the Gospel, Matt. xii. 33, ‘Either make the tree good, and…*
+*On the words of the Gospel, [[Matthew 12#^12-33|Matt. xii. 33]], ‘Either make the tree good, and…*
 
 heart?” What is “heavy in heart”? “Why do ye love vanity, and seek after leasing?” And then it goes on to say what we must really seek after; “Know ye that the Lord hath magnified His Holy One?”<sup>2503</sup> Now Christ hath come, now hath He been magnified, now hath He risen again, and ascended into heaven, now is His Name preached through the world: “How long will ye be heavy in heart?” Let the times past suffice; now that that Holy One hath been magnified, “How long will ye be heavy in heart?” After the three years, what remains but the ax? “How long will ye be heavy in heart? Why do ye love vanity, and seek after leasing?” Vain, useless, frivolous, <sup>2504</sup> fleeting things are these still sought after, now that Christ the Holy One hath been so magnified? Truth now is crying aloud, and is vanity still sought after? “How long will ye be heavy in heart?”
 
@@ -168,35 +168,35 @@ heart?” What is “heavy in heart”? “Why do ye love vanity, and seek after
 
 Sermon XXIII.
 
-\[LXXIII. Ben.\] *On the words of the Gospel, Matt. xiii. 19, etc., where the Lord Jesus explaineth the parables of the sower.*
+\[LXXIII. Ben.\] *On the words of the Gospel, [[Matthew 13#^13-19|Matt. xiii. 19]], etc., where the Lord Jesus explaineth the parables of the sower.*
 
 1\. Both yesterday and to-day ye have heard the parables of the sower, in the words of our Lord Jesus Christ. Do ye who were present yesterday, recollect to-day. Yesterday we read of that sower, who when he scattered seed, “some fell by the way side,”<sup>2507</sup> which the birds picked up; “some in stony places,” which dried up from the heat; “some among thorns, which were choked,” and could not bring forth fruit; and “other some into good ground, and it brought forth fruit, a hundred, sixty, thirty fold.” But to-day the Lord hath again spoken another parable of the sower, “who sowed good seed in his field. While men slept the enemy came, and sowed tares upon it.”<sup>2508</sup> As long as it was only in the blade, it did not appear; but when the fruit of the good seed began to appear, “then appeared the tares also.” The servants of the householder were offended, when they saw a quantity of tares among the good wheat, and wished to root them out, but they were not suffered to do so; but it was said to them, “Let both grow together until the harvest.”<sup>2509</sup> Now the Lord Jesus Christ explained this parable also; and said that He was the sower of the good seed, and He showed how that the enemy who sowed the tares was the devil; the time of harvest, the end of the world; His field the whole world. And what saith He? “In the time of harvest I will say to the reapers, Gather ye together first the tares, to burn them, but gather the wheat into My barn.” Why are ye so hasty, He says, ye servants full of zeal? Ye see tares among the wheat, ye see evil Christians among the good; and ye wish to root up the evil ones; be quiet, it is not the time of harvest. That time will come, may it only find you wheat! Why do ye vex yourselves? Why bear impatiently the mixture of the evil with the good? In the field they may be with you, but they will not be so in the barn.
 
 2\. Now ye know that those three places mentioned yesterday where the seed did not grow, “the way side,” “the stony ground,” and “the thorny places,” are the same as these “tares.” They received only a different name under a different similitude. For when similitudes are used, or the literal meaning of a term is not expressed, not the truth but a similitude of the truth is conveyed by them. I see that but few have understood my meaning; yet it is for the benefit of all that I speak. In things visible, a way side is a way side, stony ground is stony ground, thorny places are thorny places; they are simply what they are, because the names are used in their literal sense. But in parables and similitudes one thing may be called by many names; therefore there is nothing inconsistent in my telling you that that “way side,”
 
-2507 Matt. xiii. 3–8. 2508 Matt. xiii. 24, 25. 335
+2507 [[Matthew 13#^13-3|Matt. xiii. 3–8]]. 2508 [[Matthew 13#^13-24|Matt. xiii. 24]], [[Matthew 13#^13-25|25]]. 335
 
 
 *[p. 705]* ^pg731
 
-*On the words of the Gospel, Matt. xiii. 19, etc., where the Lord Jesus explaineth…*
+*On the words of the Gospel, [[Matthew 13#^13-19|Matt. xiii. 19]], etc., where the Lord Jesus explaineth…*
 
 that “stony ground,” those “thorny places,” are bad Christians, and that they too are the “tares.” Is not Christ called “the Lamb”? Is not Christ “the Lion” too? Among wild beasts, and cattle, a lamb is simply a lamb, and a lion, a lion: but Christ is both. The first are respectively what they are in propriety of expression; the Latter both together in a figurative sense.<sup>2510</sup> Nay much more; besides this it may happen that under a figure, things very different from one another may be called by one and the same name. For what is so different as Christ and the devil? yet both Christ and the devil are called “a lion.” Christ is called “a lion:” “The Lion hath prevailed of the tribe of Judah;”<sup>2511</sup> and the devil is called a lion: “Know ye not that your adversary the Devil walketh about as a roaring lion, seeking whom he may devour?”<sup>2512</sup> Both the one and the other then is a lion; the one a lion by reason of His strength; the other for his savageness; the one a lion for His “prevailing;” the other for his injuring. The devil again is a serpent, “that old serpent;”<sup>2513</sup> are we commanded then to imitate the devil, when our Shepherd told us, “Be ye wise as serpents, and simple as doves”?<sup>2514</sup>
 
 3\. Accordingly I yesterday addressed “the way side,” I addressed the “stony ground,” I addressed the “thorny places;” and I said, Be ye changed whilst ye may: turn up with the plough the hard ground, cast the stones out of the field, pluck up the thorns out of it. Be loth to retain that hard heart, from which the word of God may quickly pass away and be lost. Be loth to have that lightness of soil, where the root of charity can take no deep hold. Be loth to choke the good seed which is sown in you by my labours, with the lusts and the cares of this world. For it is the Lord who sows; and we are only His labourers. But be ye the “good ground.” I said yesterday, and I say again today to all, Let one bring forth “a hundred, another sixty, another thirty fold.” In one the fruit is more, in another less; but all will have a place in the barn. Yesterday I said all this, to-day I am addressing the tares; but the sheep themselves are the tares. O evil Christians, O ye, who in filling only press the Church by your evil lives; amend yourselves before the harvest come. “Say not, I have sinned, and what hath befallen me?”<sup>2515</sup> God hath not lost His power; but He is requiring repentance from thee. I say this to the evil, who yet are Christians; I say this to the tares. For they are in the field; and it may so be, that they who to-day are tares, may to-morrow be wheat. And so I will address the wheat also.
 
-2510 *Per similitudinem*. 2511 Rev. v. 5. 2512 1 Pet. v. 8. 2513 Rev. xii. 9. 2514 Matt. x. 16. Ecclus. v. 4.
+2510 *Per similitudinem*. 2511 [[Revelation 05#^5-5|Rev. v. 5]]. 2512 [[1 Peter 05#^5-8|1 Pet. v. 8]]. 2513 Rev. xii. 9. 2514 [[Matthew 10#^10-16|Matt. x. 16]]. Ecclus. v. 4.
 
 
 *[p. 706]* ^pg732
 
-*On the words of the Gospel, Matt. xiii. 19, etc., where the Lord Jesus explaineth…*
+*On the words of the Gospel, [[Matthew 13#^13-19|Matt. xiii. 19]], etc., where the Lord Jesus explaineth…*
 
 4\. O ye Christians, whose lives are good, ye sigh and groan as being few among many, few among very many. The winter will pass away, the summer will come; lo! the harvest will soon be here. The angels will come who can make the separation, and who cannot make mistakes. We in this time present are like those servants of whom it was said, “Wilt Thou that we go and gather them up?”<sup>2516</sup> for we were wishing, if it might be so, that no evil ones should remain among the good. But it has been told us, “Let both grow together until the harvest.”<sup>2517</sup> Why? For ye are such as may be deceived. Hear finally; “Lest while ye gather up the tares, ye root up also the wheat with them.”<sup>2518</sup> What good are ye doing? Will ye by your eagerness make a waste of My harvest? The reapers will come, and who the reapers are He hath explained, “And the reapers are the angels.”<sup>2519</sup> We are but men, the reapers are the angels. We too indeed, if we finish our course, shall be equal to the angels of God; but now when we chafe against the wicked, we are as yet but men. And we ought now to give ear to the words, “Wherefore let him that thinketh he standeth, take heed lest he fall.”<sup>2520</sup> For do ye think, my Brethren, that these tares we read of do not get up into this<sup>2521</sup> seat?<sup>2522</sup> Think ye that they are all below, and none above up here? God grant we may not be so. “But with me it is a very small thing that I should be judged of you.”<sup>2523</sup> I tell you of a truth, my Beloved, even in these high seats there is both wheat, and tares, and among the laity there is wheat, and tares. Let the good tolerate the bad; let the bad change themselves, and imitate the good. Let us all, if it may be so, attain to God; let us all through His mercy escape the evil of this world. Let us seek after good days, for we are now in evil days; but in the evil days let us not blaspheme, that so we may be able to arrive at the good days.
 
-2516 Matt. xiii. 28. 2517 Matt. xiii. 30. 2518 Matt. xiii. 29. 2519 Matt. xiii. 39.
+2516 [[Matthew 13#^13-28|Matt. xiii. 28]]. 2517 [[Matthew 13#^13-30|Matt. xiii. 30]]. 2518 [[Matthew 13#^13-29|Matt. xiii. 29]]. 2519 [[Matthew 13#^13-39|Matt. xiii. 39]].
 
-2520 1 Cor. x. 12. 2521 *Apsidas*. 2522 Apsis the higher semicircular or arched part of the chancel, where the bishop had his throne with the presbyters. See Bing. *Antiq*. B. viii. c. vi. §§ 9, 10. 1 Cor. iv. 3. 336 2524 Matt. xiii. 52. 2525 *Officiis*. 2526 Luke xi. 52. 2527 Matt. xxiii. 3. Rom. ii. 21, etc.
+2520 [[1 Corinthians 10#^10-12|1 Cor. x. 12]]. 2521 *Apsidas*. 2522 Apsis the higher semicircular or arched part of the chancel, where the bishop had his throne with the presbyters. See Bing. *Antiq*. B. viii. c. vi. §§ 9, 10. [[1 Corinthians 04#^4-3|1 Cor. iv. 3]]. 336 2524 [[Matthew 13#^13-52|Matt. xiii. 52]]. 2525 *Officiis*. 2526 [[Luke 11#^11-52|Luke xi. 52]]. 2527 [[Matthew 23#^23-3|Matt. xxiii. 3]]. [[Romans 02#^2-21|Rom. ii. 21]], etc.
 
 
 *[p. 707]* ^pg733
@@ -205,7 +205,7 @@ that “stony ground,” those “thorny places,” are bad Christians, and that
 
 Sermon XXIV.
 
-\[LXXIV. Ben.\] *On the words of the Gospel, Matt. xiii. 52, “Therefore every scribe who hath been made a disciple to the kingdom of Heaven,” etc.*
+\[LXXIV. Ben.\] *On the words of the Gospel, [[Matthew 13#^13-52|Matt. xiii. 52]], “Therefore every scribe who hath been made a disciple to the kingdom of Heaven,” etc.*
 
 1\. The lesson of the Gospel reminds me to seek out, and to explain to you, Beloved, as the Lord shall give me power, who is “that Scribe instructed in the kingdom of God, who is “like unto an householder bringing out of his treasure things new and old.”<sup>2524</sup> For here the lesson ended. “What are the new and old things of an instructed Scribe?” Now it is well known who they were, whom the ancients, after the custom of our Scriptures, called Scribes, those, namely, who professed the knowledge of the Law. For such were called Scribes among the Jewish people, not such as are so called now in the service<sup>2525</sup> of judges, or the custom of states. For we must not enter school to no purpose, but we must know in what signification to take the words of Scripture; lest when anything is mentioned out of it, which is usually understood in another secular use of the term, the hearer mistake it, and by thinking of its customary meaning, understand not what he has heard. The Scribes then were they who professed the knowledge of the Law, and to them belonged both the keeping and the studying, as well as also the transcribing and the expounding, of the books of the Law.
 
@@ -215,18 +215,18 @@ Sermon XXIV.
 
 *[p. 708]* ^pg734
 
-*On the words of the Gospel, Matt. xiii. 52, ‘Therefore every scribe who…*
+*On the words of the Gospel, [[Matthew 13#^13-52|Matt. xiii. 52]], ‘Therefore every scribe who…*
 
 bringeth forth evil things. Ye hypocrites, how can ye being evil speak good things?’”<sup>2529</sup> In the one place He says, “How can ye being evil speak good things?” in the other He says, “What they say, do, but do ye not after their works. For they say, and do not.” If “they say and do not,” they are evil; if they are evil, they cannot “speak good things;” how then are we to do what we hear from them, when we cannot hear from them what is good? Now take heed, Holy and Beloved,<sup>2530</sup> how this question may be solved. Whatever an evil man brings forth from himself, is evil; whatever an evil man brings forth out of his own heart, is evil; for there is the evil treasure. But whatever a good man brings forth out of his heart, is good; for there is the good treasure. Whence then did those evil men bring forth good things? “Because they sat in Moses’ seat.”<sup>2531</sup> Had He not first said, “They sit in Moses’ seat;” He would never have enjoined that evil men should be heard. For what they brought forth out of the evil treasure of their own heart, was one thing; another what they gave utterance to out of the seat of Moses, the criers so to say of the judge. What the crier says, will never be attributed to him if he speak in the presence of the judge. What the crier says in his own house is one thing, what the crier says as hearing it from the judge is another. For whether he will or no, the crier must proclaim the sentence<sup>2532</sup> of punishment even of his own friend. And so whether he will or no, must he proclaim the sentence of the acquittal even of his own enemy. Suppose him to speak from his heart; he acquits his friend, and punishes his enemy. Suppose him to speak from the judge’s chair; he punishes his friend, and acquits his enemy. So with the Scribes; suppose them to speak out of their own heart; thou wilt hear, “Let us eat and drink, for to-morrow we shall die.” <sup>2533</sup> Suppose them to speak from Moses’ seat; thou wilt hear, “Thou shalt not kill, Thou shalt not commit adultery, Thou shall not steal, Thou shall not bear false witness. Honour thy father and mother; thou shall love thy neighbour as thyself.”<sup>2534</sup> Do then this which the official seat<sup>2535</sup> proclaims by the mouth of the Scribes; not that which their heart utters. For so embracing both judgments of the Lord, thou wilt not be obedient in the one, and guilty of disobedience in the other; but wilt understand that both agree together, and wilt regard both that as true, “that a good man out of the good treasure of his heart bringeth forth good things, and an evil man out of the evil treasure bringeth forth evil things;” and that other also, that those Scribes did not speak
 
-2529 Matt. xii. 35, 34.
+2529 [[Matthew 12#^12-35|Matt. xii. 35]], 34.
 
-2530 *Sanctitas Vestra*. 2531 Matt. xxiii. 2. 2532 *Vocem*. 2533 Isa. xxii. 13. 2534 Exod. xx. 12, etc. *Cathedra*. 337 2536 Luke vi. 44; Matt. vii. 16. 2537 2 Cor. iii. 15, v. 17. 2538 2 Cor. iii. 16. 2 Cor. iii. 13. εἰς τὸ τέλος. 2539 τοῦ καταργουμένου. *Quod evacuatur*.
+2530 *Sanctitas Vestra*. 2531 [[Matthew 23#^23-2|Matt. xxiii. 2]]. 2532 *Vocem*. 2533 Isa. xxii. 13. 2534 Exod. xx. 12, etc. *Cathedra*. 337 2536 [[Luke 06#^6-44|Luke vi. 44]]; [[Matthew 07#^7-16|Matt. vii. 16]]. 2537 [[2 Corinthians 03#^3-15|2 Cor. iii. 15]], [[2 Corinthians 05#^5-17|v. 17]]. 2538 [[2 Corinthians 03#^3-16|2 Cor. iii. 16]]. [[2 Corinthians 03#^3-13|2 Cor. iii. 13]]. εἰς τὸ τέλος. 2539 τοῦ καταργουμένου. *Quod evacuatur*.
 
 
 *[p. 709]* ^pg735
 
-*On the words of the Gospel, Matt. xiii. 52, ‘Therefore every scribe who…*
+*On the words of the Gospel, [[Matthew 13#^13-52|Matt. xiii. 52]], ‘Therefore every scribe who…*
 
 good things out of the evil treasure of their heart, but that they were able to speak good things out of the treasure of Moses’ seat.
 
@@ -236,7 +236,7 @@ good things out of the evil treasure of their heart, but that they were able to 
 
 *[p. 710]* ^pg736
 
-*On the words of the Gospel, Matt. xiii. 52, ‘Therefore every scribe who…*
+*On the words of the Gospel, [[Matthew 13#^13-52|Matt. xiii. 52]], ‘Therefore every scribe who…*
 
 the vail should be taken away? “Let them turn to the Lord.” For then the old things are not taken away, but laid up in a treasury, that the Scribe may henceforth be “instructed in the kingdom of God, bringing forth out of his treasure” not “new things” only, nor “old things” only. For if he bring forth “new things” only or “old things” only; he is not “a scribe instructed in the kingdom of God, bringing forth out of his treasure things new and old.” If he say and do them not; he brings forth from the official seat, not from the treasure of his heart. And (we speak the truth, Holy Brethren) what things are brought out of the old, are illustrated by the new. Therefore do “we turn to the Lord, that the vail may be taken away.”
 
@@ -246,7 +246,7 @@ the vail should be taken away? “Let them turn to the Lord.” For then the old
 
 Sermon XXV.
 
-\[LXXV. Ben.\] *On the words of the Gospel, Matt. xiv. 24, “But the boat was now in the midst of the sea,* *distressed by the waves.”*
+\[LXXV. Ben.\] *On the words of the Gospel, [[Matthew 14#^14-24|Matt. xiv. 24]], “But the boat was now in the midst of the sea,* *distressed by the waves.”*
 
 1\. The lesson of the Gospel which we have just heard is a lesson of humility to us all, that we may see and know where we are, and whither we must tend and hasten. For that ship which carries the disciples, which was tossed in the waves by a contrary wind, is not without its meaning. Nor without a meaning<sup>2541</sup> did the Lord after He had left the multitudes, go up into a mountain to pray alone; and then coming to His disciples found them in danger, walking on the sea, and getting up into the ship strengthened them, and appeased the waves. But what marvel if He can appease all things who created all? Nevertheless after He was come up into the ship, they who were being borne in her, came saying, “Of a truth Thou art the Son of God.”<sup>2542</sup> But before this plain discovery of Himself<sup>2543</sup> they were troubled, saying, “It is a phantom.”<sup>2544</sup> But He coming up into the ship took away the fluctuation of mind from their hearts, when they were now more endangered in their souls by doubting, than before in their bodies by the waves.
 
@@ -254,12 +254,12 @@ Sermon XXV.
 
 3\. For in that when the Lord had left the multitudes, “He went up alone into a mountain to pray;”<sup>2546</sup> that mountain signifies the height of heaven. For having left the multitudes, the Lord after His Resurrection ascended Alone into heaven, and “there,” as the Apostle says, “He maketh intercession for us.”<sup>2547</sup> There is some meaning then in His “leaving the
 
-2541 *Causa*. 2542 Matt. xiv. 33. 2543 *Evidentiam*. φάντασμα. Matt. xiv. 26. 2544 2545 *Submersionibus*. 2546 Matt. xiv. 23. 338 2548 *In sacramento*. 2549 Eph. iv. 26, 27.
+2541 *Causa*. 2542 [[Matthew 14#^14-33|Matt. xiv. 33]]. 2543 *Evidentiam*. φάντασμα. [[Matthew 14#^14-26|Matt. xiv. 26]]. 2544 2545 *Submersionibus*. 2546 [[Matthew 14#^14-23|Matt. xiv. 23]]. 338 2548 *In sacramento*. 2549 [[Ephesians 04#^4-26|Eph. iv. 26]], [[Ephesians 04#^4-27|27]].
 
 
 *[p. 712]* ^pg738
 
-*On the words of the Gospel, Matt. xiv. 24, ‘But the boat was now in the…*
+*On the words of the Gospel, [[Matthew 14#^14-24|Matt. xiv. 24]], ‘But the boat was now in the…*
 
 multitudes, and going up into a mountain to pray Alone.” For He Alone is as yet the First-begotten from the dead, after the resurrection of His Body, unto the right hand of the Father, the High Priest and Advocate of our prayers. The Head of the Church is above, that the rest of the members may follow at the end. If then “He maketh intercession for us,” above the height of all creatures, as it were on the mountain top, “He prayeth Alone.”
 
@@ -269,7 +269,7 @@ multitudes, and going up into a mountain to pray Alone.” For He Alone is as ye
 
 *[p. 713]* ^pg739
 
-*On the words of the Gospel, Matt. xiv. 24, ‘But the boat was now in the…*
+*On the words of the Gospel, [[Matthew 14#^14-24|Matt. xiv. 24]], ‘But the boat was now in the…*
 
 thou wilt be tossed to and fro by the waves of thy covetousness, thou wilt be endangered by the violent storm of thy lusts, and as it were through Christ’s absence be well nigh sunk.
 
@@ -277,12 +277,12 @@ thou wilt be tossed to and fro by the waves of thy covetousness, thou wilt be en
 
 7\. Now the fourth watch of the night, is the end of the night; for each watch consists of three hours. It signifies then, that now in the end of the world the Lord is come to help, and is seen to walk upon the waters. For though this ship be tossed about by the storms of temptations, yet she sees her Glorified God walking above all the swellings of the sea; that is, above all the principalities of this world. For before it was said by an expression suited to the time of His Passion,<sup>2551</sup>when according to the flesh He showed forth an example of humility, that the waves of the sea vainly raged<sup>2552</sup> against Him, to which He yielded voluntarily for our sakes, that that prophecy, “I am come into the depths of the sea, and the floods overflow Me,”<sup>2553</sup> might be fulfilled. For He did not repel the false witnesses, nor the savage shout of those that said, “Let Him be crucified.” He did not by His power repress the savage hearts and words of those furious men, but in patience endured them all. They did unto Him whatsoever they listed; because He “became obedient to death, even the death of the Cross.”<sup>2554</sup> But after that He was risen from the dead, that He might pray alone for His disciples placed in the Church as in a ship, and borne on in the faith of His Cross, as in wood, and in peril through this world’s temptations as through the waves of the sea; His Name began to be honoured even in this world in which He was despised, accused, and slain; that He who in the dispensation of His suffering in the flesh, “had come into the depths of the sea, and the floods had overwhelmed Him,” might now through the glory of His Name tread upon the necks of the proud as on the foaming waters. Just as we now see the Lord
 
-2551 *Ex voce passionis ejus*. 2552 *Evanuerunt*. 2553 Ps. lxix. 2. Phil. ii. 8.
+2551 *Ex voce passionis ejus*. 2552 *Evanuerunt*. 2553 Ps. lxix. 2. [[Philippians 02#^2-8|Phil. ii. 8]].
 
 
 *[p. 714]* ^pg740
 
-*On the words of the Gospel, Matt. xiv. 24, ‘But the boat was now in the…*
+*On the words of the Gospel, [[Matthew 14#^14-24|Matt. xiv. 24]], ‘But the boat was now in the…*
 
 walking as it were upon the sea, under whose feet we behold the whole madness of this world subjected.
 
@@ -290,23 +290,23 @@ walking as it were upon the sea, under whose feet we behold the whole madness of
 
 9\. But this, that the disciples thought He was a phantom, does not represent these only, does not designate them only who deny that the Lord had human flesh, and who sometimes by their blind perverseness disturb even those who are in the ship; but those also who think that the Lord has in anything spoken falsely, and who do not believe that the things which He has threatened the ungodly will come to pass. As though He were partly true, and partly false, appearing like a phantom in His words, as though He were something which is “yea and nay.” But they who understand His voice aright, who saith, “It is I; be not afraid;” believe at once all the words of the Lord, so that as they hope for the rewards He promises, so do
 
-2555 Manichees, *Conf*. B. v. 9 (16), 10 (20); B. ix. 3 (6). 2556 Matt. xiv. 26. 2557 Matt. xiv. 27. 2558 2 Cor. i. 19.
+2555 Manichees, *Conf*. B. v. 9 (16), 10 (20); B. ix. 3 (6). 2556 [[Matthew 14#^14-26|Matt. xiv. 26]]. 2557 [[Matthew 14#^14-27|Matt. xiv. 27]]. 2558 [[2 Corinthians 01#^1-19|2 Cor. i. 19]].
 
 
 *[p. 715]* ^pg741
 
-*On the words of the Gospel, Matt. xiv. 24, ‘But the boat was now in the…*
+*On the words of the Gospel, [[Matthew 14#^14-24|Matt. xiv. 24]], ‘But the boat was now in the…*
 
 they fear the punishments He threatens. For as that is true which He will say to those who are set on the right hand, “Come, ye blessed of My Father, receive the kingdom prepared for you from the foundation of the world;” <sup>2560</sup> so is that true, which they on the left hand will hear, “Depart ye into everlasting fire, prepared for the devil and his Angels.”<sup>2561</sup> For this very opinion, by which men think that Christ’s threatenings against the unrighteous and the abandoned are not true, has arisen from this, that they see many nations and multitudes innumerable subject to His Name; so that hence Christ appears to them to be a phantom, because He walked upon the sea; that is, He seems to speak falsely in His threats of punishment, because, as it were, He cannot destroy such numberless people who are subject to His Name and honour. But let them hear Him, saying, “It is I;” let them not therefore “be afraid,” who believing Christ to be true in all things, not only seek after what He hath promised, but avoid also what He hath threatened; because though He walk upon the sea, that is, though all the nations of men in this world are subject unto Him; yet is He no phantom, and therefore He doth not speak falsely, when He saith, “Not every one that saith unto Me, Lord, Lord, shall enter into the kingdom of heaven.” <sup>2562</sup>
 
 10\. What then does Peter’s daring to come to Him on the waters also signify? For Peter generally stands for a figure of the Church. What else then do we think is meant by, “Lord, if it be Thou, bid me come unto Thee on the water;”<sup>2563</sup> but, Lord, if Thou art true, and in nothing speakest falsely, let Thy Church also be glorified in this world, because prophecy hath proclaimed this concerning Thee. Let her walk then on the waters, and so let her come to Thee, to whom it is said, “The rich among the people shall entreat Thy favour.”<sup>2564</sup> But since to the Lord the praise of men is no temptation, but men are ofttimes in the Church disordered by human praises and honours, and well nigh sunk by them; therefore did Peter tremble in the sea, terrified at the great violence of the storm. For who does not fear those words, “They who call thee blessed cause thee to err, and disturb the ways of thy feet?”<sup>2565</sup> And because the soul hath much wrestling against the eager desire of human praise, good is it in such peril to betake one’s self to prayer and earnest entreaty: lest haply he who is charmed with praise, be overwhelmed and sunk by blame. Let Peter cry out as he totters in the water, and say, “Lord, save me.” For the Lord will reach forth His hand, and though He chide, saying, “O thou of little faith, wherefore didst thou doubt?” wherefore didst thou not look straight forward upon Him to whom thou wast making thy way, and glory only in the
 
-2560 Matt. xxv. 34. 2561 Matt. xxv. 41. 2562 Matt. vii. 21. 2563 Matt. xiv. 28. 2564 Ps. xlv. 12. Isa. iii. 12, Vulgate.
+2560 [[Matthew 25#^25-34|Matt. xxv. 34]]. 2561 [[Matthew 25#^25-41|Matt. xxv. 41]]. 2562 [[Matthew 07#^7-21|Matt. vii. 21]]. 2563 [[Matthew 14#^14-28|Matt. xiv. 28]]. 2564 Ps. xlv. 12. Isa. iii. 12, Vulgate.
 
 
 *[p. 716]* ^pg742
 
-*On the words of the Gospel, Matt. xiv. 24, ‘But the boat was now in the…*
+*On the words of the Gospel, [[Matthew 14#^14-24|Matt. xiv. 24]], ‘But the boat was now in the…*
 
 Lord? Nevertheless He will snatch him from the waves, and will not suffer Him to perish, who confesses his own infirmity, and begs His help. But when they had received the Lord into the ship, and their faith was strengthened and all doubt removed, and the tempests of the sea assuaged, so that they were come to a firm and secure landing, they all worship Him, saying, “Of a truth Thou art the Son of God.” For this is that everlasting joy, where Truth made manifest, and the Word of God, and the Wisdom by which all things were made, and the exceeding height of His Mercy, are both known and loved.
 
@@ -316,27 +316,27 @@ Lord? Nevertheless He will snatch him from the waves, and will not suffer Him to
 
 Sermon XXVI.
 
-\[LXXVI. Ben.\] *Again on Matt. xiv. 25: Of the Lord walking on the waves of the sea, and of Peter tottering.* 1. The Gospel which has just been read touching the Lord Christ, who walked on the 340 waters of the sea;<sup>2566</sup> and the Apostle Peter, who as he was walking, tottered through fear, and sinking in distrust, rose again by confession, gives us to understand that the sea is the present world, and the Apostle Peter the type of the One Church. For Peter in the order of Apostles first, and in the love of Christ most forward, answers oftentimes alone for all the rest. Again, when the Lord Jesus Christ asked, whom men said that He was, and when the disciples gave the various opinions of men, and the Lord asked again and said, “But whom say ye that I am?” Peter answered, “Thou art the Christ, the Son of the living God.” One for many gave the answer, Unity in many. Then said the Lord to Him, “Blessed art thou, Simon Barjonas: for flesh and blood hath not revealed it unto thee, but My Father which is in heaven.”<sup>2567</sup> Then He added, “and I say unto thee.” As if He had said, “Because thou hast said unto Me, ‘Thou art the Christ the Son of the living God;’ I also say unto thee, ‘Thou art Peter.’” For before he was called Simon. Now this name of Peter was given him by the Lord, and that in a figure, that he should signify the Church. For seeing that Christ is the rock (Petra), Peter is the Christian people. For the rock (Petra) is the original name. Therefore Peter is so called <sup>2568</sup> from the rock; not the rock from Peter; as Christ is not called Christ from the Christian, but the Christian from Christ. “Therefore,” he saith, “Thou art Peter; and upon this Rock” which thou hast confessed, upon this Rock which thou hast acknowledged, saying, “Thou art the Christ, the Son of the living God, will I build My Church;” that is upon Myself, the Son of the living God, “will I build My Church.” I will build thee upon Myself, not Myself upon thee.
+\[LXXVI. Ben.\] *Again on [[Matthew 14#^14-25|Matt. xiv. 25]]: Of the Lord walking on the waves of the sea, and of Peter tottering.* 1. The Gospel which has just been read touching the Lord Christ, who walked on the 340 waters of the sea;<sup>2566</sup> and the Apostle Peter, who as he was walking, tottered through fear, and sinking in distrust, rose again by confession, gives us to understand that the sea is the present world, and the Apostle Peter the type of the One Church. For Peter in the order of Apostles first, and in the love of Christ most forward, answers oftentimes alone for all the rest. Again, when the Lord Jesus Christ asked, whom men said that He was, and when the disciples gave the various opinions of men, and the Lord asked again and said, “But whom say ye that I am?” Peter answered, “Thou art the Christ, the Son of the living God.” One for many gave the answer, Unity in many. Then said the Lord to Him, “Blessed art thou, Simon Barjonas: for flesh and blood hath not revealed it unto thee, but My Father which is in heaven.”<sup>2567</sup> Then He added, “and I say unto thee.” As if He had said, “Because thou hast said unto Me, ‘Thou art the Christ the Son of the living God;’ I also say unto thee, ‘Thou art Peter.’” For before he was called Simon. Now this name of Peter was given him by the Lord, and that in a figure, that he should signify the Church. For seeing that Christ is the rock (Petra), Peter is the Christian people. For the rock (Petra) is the original name. Therefore Peter is so called <sup>2568</sup> from the rock; not the rock from Peter; as Christ is not called Christ from the Christian, but the Christian from Christ. “Therefore,” he saith, “Thou art Peter; and upon this Rock” which thou hast confessed, upon this Rock which thou hast acknowledged, saying, “Thou art the Christ, the Son of the living God, will I build My Church;” that is upon Myself, the Son of the living God, “will I build My Church.” I will build thee upon Myself, not Myself upon thee.
 
 2\. For men who wished to be built upon men, said, “I am of Paul; and I of Apollos; and I of Cephas,”<sup>2569</sup> who is Peter. But others who did not wish to be built upon Peter, but upon the Rock, said, “But I am of Christ.” And when the Apostle Paul ascertained that he was chosen, and Christ despised, he said, “Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?”<sup>2570</sup> And, as not in the name of Paul, so neither in the name of Peter; but in the name of Christ: that Peter might be built upon the Rock, not the Rock upon Peter.
 
-2566 Matt. xiv. 25. 2567 Matt. xvi. 17, etc. 2568 Vide Sermon cclxx. 2, and ccxcv. 1. 2569 1 Cor. i. 12. 1 Cor. i. 13. 341
+2566 [[Matthew 14#^14-25|Matt. xiv. 25]]. 2567 [[Matthew 16#^16-17|Matt. xvi. 17]], etc. 2568 Vide Sermon cclxx. 2, and ccxcv. 1. 2569 [[1 Corinthians 01#^1-12|1 Cor. i. 12]]. [[1 Corinthians 01#^1-13|1 Cor. i. 13]]. 341
 
 
 *[p. 718]* ^pg744
 
-*Again on Matt. xiv. 25: Of the Lord walking on the waves of the sea, and…*
+*Again on [[Matthew 14#^14-25|Matt. xiv. 25]]: Of the Lord walking on the waves of the sea, and…*
 
 3\. This same Peter therefore who had been by the Rock pronounced “blessed,” bearing the figure of the Church, holding the chief place in the Apostleship,<sup>2571</sup> a very little while after that he had heard that he was “blessed,” a very little while after that he had heard that he was “Peter,” a very little while after that he had heard that he was to be “built upon the Rock,” displeased the Lord when He had heard of His future Passion, for He had foretold His disciples that it was soon to be. He feared lest he should by death, lose Him whom he had confessed as the fountain of life. He was troubled, and said, “Be it far from Thee, Lord: this shall not be to Thee.”<sup>2572</sup> Spare Thyself, O God, I am not willing that Thou shouldest die. Peter said to Christ, I am not willing that Thou shouldest die; but Christ far better said, I am willing to die for thee. And then He forthwith rebuked him, whom He had a little before commended; and calleth him Satan, whom he had pronounced “blessed.” “Get thee behind Me, Satan,” he saith, “thou art an offence unto Me: for thou savourest not the things that be of God, but those that be of men.” <sup>2573</sup> What would He have us do in our present state, who thus findeth fault because we are men? Would you know what He would have us do? Give ear to the Psalm; “I have said, Ye are gods, and ye are all the children of the Most High.” But by savouring the things of men; “ye shall die like men.”<sup>2574</sup> The very same Peter a little while before blessed, afterwards Satan, in one moment, within a few words! Thou wonderest at the difference of the names, mark the difference of the reasons of them. Why wonderest thou that he who was a little before blessed, is afterwards Satan? Mark the reason wherefore he is blessed. “Because flesh and blood hath not revealed it unto thee, but My Father which is in heaven.”<sup>2575</sup> Therefore blessed, because flesh and blood hath not revealed it unto thee. For if flesh and blood revealed this to thee, it were of thine own; but because flesh and blood hath not revealed it unto thee, but My Father which is in heaven, it is of Mine, not of thine own. Why of Mine? “Because all things that the Father hath are Mine.”<sup>2576</sup> So then thou hast heard the cause, why he is “blessed,” and why he is “Peter.” But why was he that which we shudder at, and are loth to repeat, why, but because it was of thine own? “For thou savourest not the things which be of God, but those that be of men.”
 
 4\. Let us, looking at ourselves in this member of the Church, distinguish what is of God, and what of ourselves. For then we shall not totter, then shall we be founded on the Rock, shall be fixed and firm against the winds, and storms, and streams, the temptations, I mean, of this present world. Yet see this Peter, who was then our figure; now he trusts, and now
 
-2571 *Apostolatus principatum*. 2572 Matt. xvi. 22. 2573 Matt. xvi. 23. 2574 Ps. lxxxii. 6, 7. 2575 Matt. xvi. 17.
+2571 *Apostolatus principatum*. 2572 [[Matthew 16#^16-22|Matt. xvi. 22]]. 2573 [[Matthew 16#^16-23|Matt. xvi. 23]]. 2574 Ps. lxxxii. 6, 7. 2575 [[Matthew 16#^16-17|Matt. xvi. 17]].
 
 
 *[p. 719]* ^pg745
 
-*Again on Matt. xiv. 25: Of the Lord walking on the waves of the sea, and…*
+*Again on [[Matthew 14#^14-25|Matt. xiv. 25]]: Of the Lord walking on the waves of the sea, and…*
 
 he totters; now he confesses the Undying, and now he fears lest He should die. Wherefore? because the Church of Christ hath both strong and weak ones; and cannot be without either strong or weak; whence the Apostle Paul says, “Now we that are strong ought to bear the infirmities of the weak.”<sup>2577</sup> In that Peter said, “Thou art the Christ, the Son of the living God,” he represents the strong: but in that he totters, and would not that Christ should suffer, in fearing death for Him, and not acknowledging the Life, he represents the weak ones of the Church. In that one Apostle then, that is, Peter, in the order of Apostles first and chiefest, in whom the Church was figured, both sorts were to be represented, that is, both the strong and weak; because the Church doth not exist without them both.
 
@@ -344,14 +344,14 @@ he totters; now he confesses the Undying, and now he fears lest He should die. W
 
 6\. Therefore Peter walked on the water by the bidding of the Lord, knowing that he could not have this power of himself. By faith he had strength to do what human weakness could not do. These are the strong ones of the Church. Mark this, hear, understand, and act accordingly. For we must not deal with the strong on any other principle<sup>2583</sup> than this, that so they should become weak; but thus we must deal with the weak, that they may become strong. But the presuming on their own strength keeps many back from strength. No one will have strength from God, but he who feels himself weak of himself. “God setteth apart
 
-2577 Rom. xv. 1. 2578 Matt. xiv. 28. 2579 *Præsumendo*.
+2577 [[Romans 15#^15-1|Rom. xv. 1]]. 2578 [[Matthew 14#^14-28|Matt. xiv. 28]]. 2579 *Præsumendo*.
 
-2580 Matt. xiv. 29. 2581 Eph. v. 8. 2582 1 Cor. i. 13. *Alibi*. 342 2584 Ps. lxvii. 10, Sept. (lxviii. 9, English version). 2585 1 Cor. xv. 9, etc. 2586 *Meruisti*. 2587 2 Cor. xii. 7, 8. 2 Cor. xii. 9.
+2580 [[Matthew 14#^14-29|Matt. xiv. 29]]. 2581 [[Ephesians 05#^5-8|Eph. v. 8]]. 2582 [[1 Corinthians 01#^1-13|1 Cor. i. 13]]. *Alibi*. 342 2584 Ps. lxvii. 10, Sept. (lxviii. 9, English version). 2585 [[1 Corinthians 15#^15-9|1 Cor. xv. 9]], etc. 2586 *Meruisti*. 2587 [[2 Corinthians 12#^12-7|2 Cor. xii. 7]], [[2 Corinthians 12#^12-8|8]]. [[2 Corinthians 12#^12-9|2 Cor. xii. 9]].
 
 
 *[p. 720]* ^pg746
 
-*Again on Matt. xiv. 25: Of the Lord walking on the waves of the sea, and…*
+*Again on [[Matthew 14#^14-25|Matt. xiv. 25]]: Of the Lord walking on the waves of the sea, and…*
 
 a spontaneous rain for His inheritance.”<sup>2584</sup> Why do you, who know what I was about to say, anticipate me? Let your quickness be moderated, that the slowness of the rest may follow. This I said, and I say it again; hear it, receive it, and act on this principle. No one is made strong by God, but he who feels himself weak of his own self. And therefore a “spontaneous rain,” as the Psalm says, “spontaneous;” not of our deserts, but “spontaneous.” “A spontaneous rain” therefore “God setteth apart for his inheritance;” for “it was weak; but Thou hast perfected it.” Because Thou “hast set apart for it a spontaneous rain,” not looking to men’s deserts, but to Thine own grace and mercy. This inheritance then was weakened, and acknowledged its own weakness in itself, that it might be strong in Thee. It would not be strengthened, if it were not weak, that by Thee it might be “perfected” in Thee.
 
@@ -361,7 +361,7 @@ a spontaneous rain for His inheritance.”<sup>2584</sup> Why do you, who know w
 
 *[p. 721]* ^pg747
 
-*Again on Matt. xiv. 25: Of the Lord walking on the waves of the sea, and…*
+*Again on [[Matthew 14#^14-25|Matt. xiv. 25]]: Of the Lord walking on the waves of the sea, and…*
 
 he cried out, Lord, I perish, save me.” When he<sup>2589</sup> looked for strength from the Lord, he had strength from the Lord; as a man he tottered, but he returned to the Lord. “If I said, my foot hath slipped”<sup>2590</sup> (they are the words of a Psalm, the notes of a holy song; and if we acknowledge them they are our words too; yea, if we will, they are ours also). “If I said my foot hath slipped.” How slipped, except because it was mine own. And what follows? “Thy mercy, Lord, helped me.” Not mine own strength, but Thy mercy. For will God forsake him as he totters, whom He heard when calling upon Him? Where then is that, “Who hath called upon God, and hath been forsaken by Him?” <sup>2591</sup> where again is that, “Whosoever shall call on the Name of the Lord, shall be delivered.”<sup>2592</sup> Immediately reaching forth the help of His right hand, He lifted him up as he was sinking, and rebuked his distrust; “O thou of little faith, wherefore didst thou doubt?” Once thou didst trust in Me, hast thou now doubted of Me?
 
@@ -369,7 +369,7 @@ he cried out, Lord, I perish, save me.” When he<sup>2589</sup> looked for stre
 
 2589 *Præsumsit de Domino*.
 
-2590 Ps. xciv. 18. 2591 Ecclus. ii. 10, Sept. Joel ii. 32. 343 2593 Matt. xv. 21 etc. 2594 *Dissimulabatur ab ea*. 2595 Matt. xv. 23, 24. 2596 *Dispensatio*. *Dignitas*.
+2590 Ps. xciv. 18. 2591 Ecclus. ii. 10, Sept. Joel ii. 32. 343 2593 [[Matthew 15#^15-21|Matt. xv. 21]] etc. 2594 *Dissimulabatur ab ea*. 2595 [[Matthew 15#^15-23|Matt. xv. 23]], [[Matthew 15#^15-24|24]]. 2596 *Dispensatio*. *Dignitas*.
 
 
 *[p. 722]* ^pg748
@@ -378,7 +378,7 @@ he cried out, Lord, I perish, save me.” When he<sup>2589</sup> looked for stre
 
 Sermon XXVII.
 
-\[LXXVII. Ben.\] *On the words of the Gospel, Matt. xv. 21,“Jesus went out thence, and withdrew into the parts of Tyre and Sidon. And behold, a Canaanitish woman,” etc.*
+\[LXXVII. Ben.\] *On the words of the Gospel, [[Matthew 15#^15-21|Matt. xv. 21]],“Jesus went out thence, and withdrew into the parts of Tyre and Sidon. And behold, a Canaanitish woman,” etc.*
 
 1\. This woman of Canaan, who has just now been brought before us in the lesson of the Gospel, shows us an example of humility, and the way of godliness; shows us how to rise from humility unto exaltation. Now she was, as it appears, not of the people of Israel, of whom came the Patriarchs, and Prophets, and the parents of the Lord Jesus Christ according to the flesh; of whom the Virgin Mary herself was, who was the Mother of Christ. This woman then was not of this people; but of the Gentiles. For, as we have heard, the Lord “departed into the coasts of Tyre and Sidon, and behold, a woman of Canaan came out of the same coasts,”<sup>2593</sup> and with the greatest earnestness begged of Him the mercy to heal her daughter, “who was grievously vexed with a devil.” Tyre and Sidon were not cities of the people of Israel, but of the Gentiles; though they bordered on that people. So then, as being eager to obtain mercy she cried out, and boldly knocked; and He made as though He heard her not,<sup>2594</sup> not to the end that mercy might be refused her, but that her desire might be enkindled; and not only that her desire might be enkindled, but that, as I have said before, her humility might be set forth. Therefore did she cry, while the Lord was as though He heard her not, but was ordering in silence what He was about to do. The disciples besought the Lord for her, and said, “Send her away; for she crieth after us.” And He said, “I am not sent, but unto the lost sheep of the house of Israel.”<sup>2595</sup>
 
@@ -386,7 +386,7 @@ Sermon XXVII.
 
 *[p. 723]* ^pg749
 
-*On the words of the Gospel, Matt. xv. 21,’Jesus went out thence, and withdrew…*
+*On the words of the Gospel, [[Matthew 15#^15-21|Matt. xv. 21]],’Jesus went out thence, and withdrew…*
 
 among them that which was to be burnt, there was among them also that wherewith the barn was to be filled. For whence came the Apostles? whence came Peter? whence the rest?
 
@@ -394,14 +394,14 @@ among them that which was to be burnt, there was among them also that wherewith 
 
 4\. Of this people too, of the people of the Jews, were they, who when Peter was speaking, setting forth the Passion, and Resurrection, and Divinity of Christ (after that the Holy Ghost had been received, when all they on whom the Holy Ghost had come, spake with the tongues
 
-2598 1 Sam. xviii. 29. 2599 1 Cor. i. 1.
+2598 1 Sam. xviii. 29. 2599 [[1 Corinthians 01#^1-1|1 Cor. i. 1]].
 
-2600 Acts ix. 1, etc. 2601 Deut. xxxii. 39. 2602 *Impius*. 2603 *Commendans*. 2604 1 Cor. xv. 9. 1 Cor. xv. 6. 344 2606 Acts ii. 38. 2607 *Planè*. 2608 Acts iv. 32, etc. 2609 Luke xxiii. 34. Ps. xvii. 44, 45 (xviii. 43, 44, English version).
+2600 [[Acts 09#^9-1|Acts ix. 1]], etc. 2601 Deut. xxxii. 39. 2602 *Impius*. 2603 *Commendans*. 2604 [[1 Corinthians 15#^15-9|1 Cor. xv. 9]]. [[1 Corinthians 15#^15-6|1 Cor. xv. 6]]. 344 2606 [[Acts 02#^2-38|Acts ii. 38]]. 2607 *Planè*. 2608 [[Acts 04#^4-32|Acts iv. 32]], etc. 2609 [[Luke 23#^23-34|Luke xxiii. 34]]. Ps. xvii. 44, 45 (xviii. 43, 44, English version).
 
 
 *[p. 724]* ^pg750
 
-*On the words of the Gospel, Matt. xv. 21,’Jesus went out thence, and withdrew…*
+*On the words of the Gospel, [[Matthew 15#^15-21|Matt. xv. 21]],’Jesus went out thence, and withdrew…*
 
 of all nations), being pricked in spirit as they heard him, sought counsel for their salvation, understanding as they did that they were guilty of the Blood of Christ; because they had crucified, and slain Him, in whose name though slain by them they saw such great miracles wrought; and saw the presence of the Holy Ghost. And so seeking counsel they received for answer; “Repent, and be baptized every one of you, in the name of our Lord Jesus Christ, and your sins shall be forgiven you.”<sup>2606</sup> Who should despair of the forgiveness of his sins, when the crime of killing Christ was forgiven to those who were guilty of it? They were converted from among this people of the Jews; were converted, and baptized. They came to the Lord’s table, and in faith drank that Blood, which in their fury they had shed. Now in what sort they were converted, how decidedly,<sup>2607</sup> and how perfectly, the Acts of the Apostles show. “For they sold all that they possessed, and laid the prices of their things at the Apostles’ feet; and distribution was made unto every man according as he had need; and no man said that ought was his own, but they had all things common.”<sup>2608</sup> And, “They were,” as it is written, “of one heart and of one soul.” Lo here are the sheep of whom He said, “I am not sent but unto the lost sheep of the house of Israel.” For to them He exhibited His Presence, for them in the midst of their violence against Him He prayed as He was being crucified, “Father, forgive them, for they know not what they do.”<sup>2609</sup> The Physician understood how those frenzied men were in their madness putting the Physician to death, and in putting their Physician to death, though they knew it not, were preparing a medicine for themselves. For by the Lord so put to death are all we cured, by His Blood redeemed, by the Bread of His Body delivered from famine. This Presence then did Christ exhibit to the Jews. And so He said, “I am not sent, but unto the lost sheep of the house of Israel;” that to them He might exhibit the Presence of His body; not that He might disregard, and pass over the sheep which He had among the Gentiles.
 
@@ -409,7 +409,7 @@ of all nations), being pricked in spirit as they heard him, sought counsel for t
 
 *[p. 725]* ^pg751
 
-*On the words of the Gospel, Matt. xv. 21,’Jesus went out thence, and withdrew…*
+*On the words of the Gospel, [[Matthew 15#^15-21|Matt. xv. 21]],’Jesus went out thence, and withdrew…*
 
 confess to Thy Name, and glory in Thy praise,”<sup>2611</sup> that the Apostle Paul was sent. He, the least, made great, not by himself, but by Him whom he once persecuted, was sent to the Gentiles,<sup>2612</sup> from a robber become a shepherd, from a wolf a sheep. He, the least Apostle, was sent to the Gentiles, and laboured much among the Gentiles, and through him the Gentiles believed. His Epistles are the witnesses.
 
@@ -417,12 +417,12 @@ confess to Thy Name, and glory in Thy praise,”<sup>2611</sup> that the Apostle
 
 7\. This was a literal fact, and was fulfilled as it is related; but nevertheless these very things which were done by the Lord had some further signification, being (if we may so say) a sort of visible and significative words. And this is especially plain, in that place where He sought fruit on the tree out of season, and because He found none, dried up the tree by His curse.<sup>2616</sup> Unless this action be regarded as a figure, there is no good meaning in it; first to have sought fruit on that tree when it was not the season for fruit on any tree; and then even if it were now the time of fruit, what fault in the tree was it to have none? But because it
 
-2611 Ps. cvi. 47. 2612 Acts ix. 15. 2613 Luke viii. 41, etc. 2614 Serm. xii. (lxii.) 5 (4). 2615 *Molesti*. Mark xi. 13, etc. 345 2617 *Extrema*. 2618 1 Cor. xv. 9. 2619 John x. 16.
+2611 Ps. cvi. 47. 2612 [[Acts 09#^9-15|Acts ix. 15]]. 2613 [[Luke 08#^8-41|Luke viii. 41]], etc. 2614 Serm. xii. (lxii.) 5 (4). 2615 *Molesti*. [[Mark 11#^11-13|Mark xi. 13]], etc. 345 2617 *Extrema*. 2618 [[1 Corinthians 15#^15-9|1 Cor. xv. 9]]. 2619 [[John 10#^10-16|John x. 16]].
 
 
 *[p. 726]* ^pg752
 
-*On the words of the Gospel, Matt. xv. 21,’Jesus went out thence, and withdrew…*
+*On the words of the Gospel, [[Matthew 15#^15-21|Matt. xv. 21]],’Jesus went out thence, and withdrew…*
 
 signified, that He seeketh not for leaves only, but for fruit also, that is, not for the words only, but for the deeds of men, by drying up that tree whereon he found only leaves, he signified their punishment who can speak good things, but will not do them. And so it is in this place also. For surely there is a mystery in it. He who foreknoweth all things saith, “Who touched Me?” The Creator maketh Himself like one who is ignorant; and He asketh, who not only knew this, but who even foreknew all other things. Doubtless there is something which Christ would speak to us in this significant mystery.
 
@@ -432,7 +432,7 @@ signified, that He seeketh not for leaves only, but for fruit also, that is, not
 
 *[p. 727]* ^pg753
 
-*On the words of the Gospel, Matt. xv. 21,’Jesus went out thence, and withdrew…*
+*On the words of the Gospel, [[Matthew 15#^15-21|Matt. xv. 21]],’Jesus went out thence, and withdrew…*
 
 their feet, and turn again and rend you;”<sup>2621</sup> that is, lest after despising your pearls, they should even ill use you.<sup>2622</sup> Cast not therefore before them what they despise.
 
@@ -440,23 +440,23 @@ their feet, and turn again and rend you;”<sup>2621</sup> that is, lest after d
 
 11\. See, Brethren, how the value of humility is set before us! The Lord had called her a dog; and she did not say, “I am not,” but she said, “I am.” And because she acknowledged herself to be a dog, immediately the Lord said, “Woman, great is thy faith; be it unto thee even as thou hast asked.”<sup>2627</sup> Thou hast acknowledged thyself to be a dog, I now acknowledge thee to be of human kind. “O woman, great is thy faith;” thou hast asked, and sought, and knocked; receive, find, be it opened unto thee. See, Brethren, how in this woman who was a Canaanite, that is, who came from among the Gentiles, and was a type, that is a figure, of the Church, the grace of humility has been eminently set before us. For the Jewish nation, to the end that it might be deprived of the grace of the Gospel, was puffed up with pride, because to them it had been vouchsafed<sup>2628</sup> to receive the Law, because out of this nation the Patriarchs had proceeded, the Prophets had sprung, Moses, the servant of God, had done the great miracles in Egypt which we have heard of in the Psalm,<sup>2629</sup> had led the people
 
-2621 Matt. vii. 6. 2622 *Molesti*. 2623 Matt. xv. 26. 2624 *Familiare*. 2625 *Homo*. 2626 Matt. xv. 27. 2627 Matt. xv. 28. 2628 *Meruisset*. 346
+2621 [[Matthew 07#^7-6|Matt. vii. 6]]. 2622 *Molesti*. 2623 [[Matthew 15#^15-26|Matt. xv. 26]]. 2624 *Familiare*. 2625 *Homo*. 2626 [[Matthew 15#^15-27|Matt. xv. 27]]. 2627 [[Matthew 15#^15-28|Matt. xv. 28]]. 2628 *Meruisset*. 346
 
 
 *[p. 728]* ^pg754
 
-*On the words of the Gospel, Matt. xv. 21,’Jesus went out thence, and withdrew…*
+*On the words of the Gospel, [[Matthew 15#^15-21|Matt. xv. 21]],’Jesus went out thence, and withdrew…*
 
 through the Red Sea, when the waters retired, and had received the Law, which he gave to this people. This was that whereupon the Jewish nation was lifted up, and through this very pride it happened that they were not willing to humble themselves to Christ the author of humility, and the restrainer of proud swelling, to God the Physician, who, being God, for this cause became Man, that man might know himself to be but man. O mighty remedy! If this remedy cure not pride, I know not what can cure it. He is God, and is made Man; He lays aside His Divinity, that is, in a manner sequestrates,<sup>2630</sup> hides, that is, what was His Own, and appears only in that He had taken to Him. Being God He is made man: and man will not acknowledge himself to be man, that is, will not acknowledge himself to be mortal, will not acknowledge himself to be frail, will not acknowledge himself to be a sinner, will not acknowledge himself to be sick, that so at least as sick he may seek the physician; but what is more perilous still, he fancies himself in sound health.
 
 12\. So then for this reason that people did not come to Him, that is by reason of pride; and the natural branches are said to be broken off from the olive tree, that is from that people founded<sup>2631</sup> by the Patriarchs; in other words, the Jews are for their punishment justly barren through the spirit of pride; and the wild olive is grafted into that olive tree. The wild olive tree is the people of the Gentiles. So says the Apostle, “that the wild olive tree is grafted into the good olive tree, but the natural branches are broken off.”<sup>2632</sup> Because of pride they were broken off: and the wild olive tree grafted in because of humility. This humility did the woman show forth when she said, “Truth, Lord,” “I am a dog, I desire only the crumbs.” In this humility also did the Centurion please Him; who when he desired that his servant might be healed by the Lord, and the Lord said, “I will come and heal him,” answered, “Lord, I am not worthy that Thou shouldest come under my roof, but speak the word only, and my servant shall be healed. I am not worthy that Thou shouldest come under my roof.”<sup>2633</sup> He did not receive Him into his house, but he had received Him already in his heart. The more humble, the more capacious, and the more full. For the hills drive back the water, but the valleys are filled by it. And what then, what said the Lord to those who followed Him after that he had said, “I am not worthy that Thou shouldest come under my roof”? “Verily I say unto you, I have not found so great faith, no, not in Israel;” that is, in that people to whom I came, “I have not found so great faith.” And whence great? Great from being the least, that is, great from humility. “I have not found so great faith;” like a grain of mustard seed, which by how much smaller it is, by so much the more burning is it. Therefore did
 
-2630 *Sequestrat*. 2631 *Creato*. 2632 Rom. xi. 17, etc. Matt. viii. 7, etc.
+2630 *Sequestrat*. 2631 *Creato*. 2632 [[Romans 11#^11-17|Rom. xi. 17]], etc. [[Matthew 08#^8-7|Matt. viii. 7]], etc.
 
 
 *[p. 729]* ^pg755
 
-*On the words of the Gospel, Matt. xv. 21,’Jesus went out thence, and withdrew…*
+*On the words of the Gospel, [[Matthew 15#^15-21|Matt. xv. 21]],’Jesus went out thence, and withdrew…*
 
 the Lord at once graft the wild olive into the good olive tree. He did it then when He said, “Verily I say unto you, I have not found so great faith, no, not in Israel.”
 
@@ -464,4 +464,4 @@ the Lord at once graft the wild olive into the good olive tree. He did it then w
 
 14\. For from the moment we are born, we must needs be dying. This disease must needs bring us to death. This indeed physicians say when they examine their patients. For instance, “This man has the dropsy, he is dying; this disease cannot be cured. This man has the leprosy:<sup>2635</sup> this disease too cannot be cured. He is in a consumption. Who can cure this? He must needs die, he must perish.” See, the physician has now pronounced that he is in a consumption; that he cannot but die; and yet sometimes the dropsical patient does not die of his disease, and the leprous does not die of his, nor the consumptive patient of his; but now it is absolutely necessary that every one who is born should die of this. He dies of it, he cannot do otherwise. This the physician and the unskilled both pronounce upon; and though he die somewhat more slowly, does he on that account not die? Where then is there true
 
-2634 Matt. viii. 11. *Elephantiosus*.
+2634 [[Matthew 08#^8-11|Matt. viii. 11]]. *Elephantiosus*.

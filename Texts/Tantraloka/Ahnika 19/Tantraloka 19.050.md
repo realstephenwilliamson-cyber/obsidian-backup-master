@@ -31,7 +31,7 @@ sādhakastu sadā sādhye phale niyatiyantraṇāt || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 10 - Chapter Nineteen#^pg247|p. 227]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=247>))
 > Dyczkowski numbers this verse 19.49cd–50ab.
 >
-> (The dying man) is liberated (spontaneously) by his own nature (svabhāvena).“' The initiate acts (in this way) because he wishes to get a sign confirming (the power of Mantra) (pratyaya), there is no harm in that. (with 19.49cd–50ab)
+> (The dying man) is liberated (spontaneously) by his own nature (svabhāvena). The initiate acts (in this way) because he wishes to get a sign confirming (the power of Mantra) (pratyaya), there is no harm in that. (with 19.49cd–50ab)
 >
 > As the (worldly) fruit which is the goal the adept (sādhaka) (aspires to attain) (sāādhya) is always under the sway of the law of Karma (niyati), even if (his own) mantra is heard by a fly, he must perform the appropriate rites of atonement. (with 19.50cd–51ab)
 

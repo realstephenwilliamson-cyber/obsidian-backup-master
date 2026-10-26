@@ -77,7 +77,7 @@ In the cities that are located to the east and west [of *Eretz Yisrael*], the st
 [^8]: I.e., on the night between the twenty-ninth and thirtieth days of the month.
 [^9]: These figures apply in the era when the moon is sanctified according to the testimony of witnesses. According to the fixed calendar we follow at present, there are never more than seven, nor fewer than five, full months.
 [^10]: Halachah 7.
-[^11]: E.g., [[Rosh Hashanah 20#20a|*Rosh HaShanah* 20a]].
+[^11]: E.g., *Rosh HaShanah* [[Rosh Hashanah 20#20a|20a]].
 [^12]: That year was a leap year, and Rabbi Yehudah HaNasi decided that it would be preferable for the additional month to be lacking rather than full (*Arichin* 9b).
 [^13]: *Rosh HaShanah, loc. cit.*
 [^14]: Note the gloss of the *Lechem Mishneh* on Chapter 3, Halachah 15, which offers a different interpretation of that passage.

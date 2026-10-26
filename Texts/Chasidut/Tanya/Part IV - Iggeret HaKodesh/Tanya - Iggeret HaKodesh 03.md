@@ -44,8 +44,8 @@ And this is the meaning of “He sows *tzedakot* (charities), causes *yeshu’ot
 
 [^1]: *Tzedakah* has two interrelated meanings: a) righteousness and b) charity (cf. *Moreh Nevuchim* 3:53). Though these two meanings are strictly interrelated, the emphasis in these writings is chiefly on the latter. As a Scriptural term it is, therefore, left untranslated (in this and subsequent sections) to avoid confusion.
 [^2]: [[Isaiah 59#^59-17|Isaiah 59:17]].
-[^3]: [[Bava Batra 9#9b|*Bava Batra* 9b]].
-[^4]: “Charity is equal to all the commandments (together)”—[[Bava Batra 9#9a|*Bava Batra* 9a]]; *Tosefta*, *Peah*, end of ch. 4. See *Likkutei Amarim*, Part I, ch. 37.
+[^3]: *Bava Batra* [[Bava Batra 9#9b|9b]].
+[^4]: “Charity is equal to all the commandments (together)”—*Bava Batra* [[Bava Batra 9#9a|9a]]; *Tosefta*, *Peah*, end of ch. 4. See *Likkutei Amarim*, Part I, ch. 37.
 [^5]: The reward for observing Torah and *mitzvot* is the soul’s delighting in the splendor of the *Shechinah*. In the World to Come the soul will actually apprehend, in a manifest way, the very essence of the Divine vivification, thus Divinity Itself, as it were. The problem is that the soul is finite. Though its source is in Divinity, as it evolves and descends to become vested in the body, the soul becomes a created and distinct, thus finite entity. How then can this created entity apprehend creative Divinity, which is infinite and essentially inapprehensible? The mediating factor, which enables the soul to apprehend Divinity, is Torah and *mitzvot*. Torah and *mitzvot* are essentially Divine; their source is in the Supernal Will and the Divine *chochmah* which are not separate from, but absolutely one with, the G–dhead. *Torah* and *mitzvot* thus transcend even the level of the “splendor of the *Shechinah*.” When man performs the *mitzvot* as they are vested in physical objects (e.g., *tefillin* of leather; *tzitzit* of wool; *tzedakah* with money; etc.), he unites his soul with the *mitzvot* he performs. His soul is vested in the *mitzvot*; the *mitzvot* become garments for his soul. (Cf. *Bereishit Rabbah* 19:6) These garments serve like channels, or *kelim* (vessels), by means of which the soul, when in Eden, is able to apprehend Divinity, i.e., the splendor of the *Shechinah*. “The principle of this matter is: just as the soul is given a garment in which it vests itself (i.e., the body) in order to exist in this world, so it is given also a garment of supernal splendor wherewith to exist in the World to Come and to be able to gaze in the radiant speculum from that Land of Life.” *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-65b|I:65b]] ff. See below, Epistle 29; cf. *Etz Chaim* 44:3; *Likkutei Amarim*, Part I, ch. 4; *Torah Or*, *Chayei Sara* 16a ff.; *Likkutei Torah*, *Shelach* 38d; below, Epistle 23.
 [^6]: Encircling (or: *encompassing*) all worlds; denoting the transcendence of G–d.
 [^7]: Brackets appear in the text.
@@ -57,7 +57,7 @@ And this is the meaning of “He sows *tzedakot* (charities), causes *yeshu’ot
 [^13]: See *Likkutei Amarim*, Part I, ch. 41. This “unification” establishes the essential oneness between the ranks of G–d the Transcendent and the *Shechinah* (G–d as He manifests Himself and is immanent in His creatures), so that there is complete unity above and below.
 [^14]: The three general planes in the soul. See below, Epistle 5, note 33.
 [^15]: Cf. below, Epistles 17 and 29.
-[^16]: [[Kiddushin 39#39b|*Kiddushin* 39b]].
+[^16]: *Kiddushin* [[Kiddushin 39#39b|39b]].
 [^17]: See *Zohar* [[Zohar 5.04 - Sava de-Mishpatim#^z2-123a|II:123a]]; *Tikkunei Zohar*, Introduction [[Tikkunei Zohar 017a|17a]]. (See Addendum, *Mystical Concepts in Chassidism*).
 [^18]: *Chochmah ilaah*.
 [^19]: Part II, ch. 9; cf. also Part I, ch. 2, in the author’s marginal gloss.

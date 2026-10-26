@@ -20,16 +20,13 @@ nyasa: "flesh (*māṃsa*)"
 ## Front
 
 - **Glyph:** ल
-- **Variation:** a variant form, drawn only as a numbered stroke diagram (not copied here)
 - **Example:** चल
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘hu<u>l</u>a’
-- **Class (as printed):** 4 (dental) · soft · semivowel derived from ḷ + a.
-- **Grid:** two rows, य र ल व and श ष स ह; in bold: ल
-- **Example:** cala (moving)
+> [!note]- Back
+> - **Pronunciation:** As in ‘hu<u>l</u>a’
+> - **Class:** dental · soft · semivowel derived from ḷ + a.
+> - य र <u>ल</u> व / श ष स ह
+> - **Example:** cala (moving)
 
 ## Register
 

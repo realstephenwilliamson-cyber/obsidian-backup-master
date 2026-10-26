@@ -27,7 +27,7 @@ sa eṣa mokṣaḥ kathito niḥspandaḥ sarvajantuṣu || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#^pg422|p. 405]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=422>))
 >
-> If, once having restrained the wheel of the rays of his own (inner and outer senses), he consumes both worldly enjoyment and liberation, his initiation is proclaimed to be (that of the goddess) Śarvī.““ (with 29.276cd–277ab)
+> If, once having restrained the wheel of the rays of his own (inner and outer senses), he consumes both worldly enjoyment and liberation, his initiation is proclaimed to be (that of the goddess) Śarvī. (with 29.276cd–277ab)
 >
 > It is said that this liberation is ‘motionless’ (nhspanda) within all living beings. By striking (repeatedly) and (finally) merging the phases (kalā) of the Fire and Moon, he should eliminate (their) pulse (spandana). (with 29.277cd–278ab)
 

@@ -45,21 +45,21 @@ However, the order of service, which is determined by and depends on man’s cho
 [^1]: [[Psalms 034#^34-15|Psalms 34:15]].
 [^2]: *Avot* 3:17.
 [^3]: Referring to the “natural” fear defined in chs. 41 and 42.
-[^4]: [[Chagigah 13#13a|*Chagigah* 13a]].
+[^4]: *Chagigah* [[Chagigah 13#13a|13a]].
 [^5]: I.e., a preliminary and prerequisite.
 [^6]: *Avot* 3:17.
 [^7]: See above, ch. 19.
 [^8]: A paraphrase of [[Job 28#^28-12|Job 28:12]].
-[^9]: [[Tamid 32#32a|*Tamid* 32a]]. Note the reinterpretation.
+[^9]: *Tamid* [[Tamid 32#32a|32a]]. Note the reinterpretation.
 [^10]: [[Psalms 033#^33-6|Psalms 33:6]].
 [^11]: [[Job 28#^28-28|Job 28:28]].
 [^12]: *Avot* 3:17.
 [^13]: Lit. “worldly” love, i.e., of this world, a love of G–d derived from contemplation of G–d in nature, as explained later on.
-[^14]: [[Kiddushin 2#2b|*Kiddushin* 2b]].
+[^14]: *Kiddushin* [[Kiddushin 2#2b|2b]].
 [^15]: [[Psalms 098#^98-3|Psalms 98:3]]; a play on the word זכר (“remembered”) which can be read by merely changing one vowel as זכר (“male”).
 [^16]: A reference to [[Proverbs 31#^31-30|Proverbs 31:30]]. Cf. *Zohar* [[Zohar 7.06 - Parashat Tazri'a#^z3-42b|III:42b]], where the whole ch. 31 of Proverbs is interpreted allegorically. “Male seeking female” is here metaphorically explained as “love seeking fear” in order to fulfill itself.
 [^17]: Ch. 20.
 [^18]: [[Psalms 073#^73-25|Psalms 73:25-26]].
 [^19]: Ch. 48.
-[^20]: [[Avodah Zarah 17#17b|*Avodah Zarah* 17b]].
+[^20]: *Avodah Zarah* [[Avodah Zarah 17#17b|17b]].
 [^21]: Alluding to the light of Torah and its commandments, which arouses the light of love.

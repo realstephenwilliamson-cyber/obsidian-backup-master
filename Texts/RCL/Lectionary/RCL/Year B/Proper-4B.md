@@ -11,6 +11,7 @@ second_reading: "2 Corinthians 4:5-12"
 gospel: "Mark 2:23-3:6"
 first_reading_complementary: "Deuteronomy 5:12-15"
 psalm_complementary: "Psalm 81:1-10"
+psalm_bcp_complementary: "Psalm 81:1-10"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-4]]"
 cssclasses:

@@ -11,6 +11,7 @@ second_reading: "Romans 14:1-12"
 gospel: "Matthew 18:21-35"
 first_reading_complementary: "Genesis 50:15-21"
 psalm_complementary: "Psalm 103:(1-7), 8-13"
+psalm_bcp_complementary: "Psalm 103:(1-7), 8-13"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-19]]"
 cssclasses:

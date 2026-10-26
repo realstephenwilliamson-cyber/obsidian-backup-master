@@ -20,16 +20,13 @@ nyasa: "left foot (*pāda*)"
 ## Front
 
 - **Glyph:** द
-- **Variation:** —
 - **Example:** दन्त
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘so<u>d</u>a’
-- **Class (as printed):** 4 (dental) · soft · unaspirated
-- **Grid:** the five rows of stops; in bold: द
-- **Example:** danta (tooth)
+> [!note]- Back
+> - **Pronunciation:** As in ‘so<u>d</u>a’
+> - **Class:** dental · soft · unaspirated
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ <u>द</u> ध न / प फ ब भ म
+> - **Example:** danta (tooth)
 
 ## Register
 

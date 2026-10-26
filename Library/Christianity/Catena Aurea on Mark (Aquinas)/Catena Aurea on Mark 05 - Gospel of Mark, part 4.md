@@ -198,7 +198,7 @@ But we are often hindered by a habit of shamefacedness, from expressing with our
 
 Theophylact: For that faith which only remains in the mind is not sufficient, but the Lord requires also the confession of the mouth; for when the soul is sanctified by faith, the body ought also to be sanctified by confession.
 
-Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: He then who has learned this, is bound zealously to confess Christ without shame. And this generation is called adulterous, because it has left God the true Bridegroom of the soul, and has refused to follow the doctrine of Christ, but has prostrated itself to the devil and taken up the seeds of impiety, for which reason also it is called sinful. Whosoever therefore amongst them has denied the kingdom of Christ, and the words of God revealed in the Gospel, shall receive a reward befitting His impiety, when He hears in the second advent, “I know you not.” \[Matt 7:23\]
+Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: He then who has learned this, is bound zealously to confess Christ without shame. And this generation is called adulterous, because it has left God the true Bridegroom of the soul, and has refused to follow the doctrine of Christ, but has prostrated itself to the devil and taken up the seeds of impiety, for which reason also it is called sinful. Whosoever therefore amongst them has denied the kingdom of Christ, and the words of God revealed in the Gospel, shall receive a reward befitting His impiety, when He hears in the second advent, “I know you not.” \[[[Matthew 07#^7-23|Matt 7:23]]\]
 
 *[p. 127]* ^pg131
 
@@ -328,7 +328,7 @@ of the Father, revealing to us the Son of the Father, and saying, “This is My 
 
 Bede: And we must observe, that, as when the Lord was baptized in Jordan, so on the mountain, covered with brightness, the whole mystery of the Holy Trinity is declared, because we shall see in the resurrection that glory of the Trinity which we believers confess in baptism, and shall praise it all together.
 
-Nor is it without reason that the Holy Ghost appeared here in a bright cloud, there in the form of a dove; because he who now with a simple heart keeps the faith which he hath embraced, shall then contemplate what he had believed with the brightness of open vision. But when the voice had been heard over the Son, He was found Himself alone, because when He shall have manifested Himself to His elect, God shall be all in all, yea Christ with His own, as the Head with the body, shall shine through all things. \[1 Cor 15:28\]
+Nor is it without reason that the Holy Ghost appeared here in a bright cloud, there in the form of a dove; because he who now with a simple heart keeps the faith which he hath embraced, shall then contemplate what he had believed with the brightness of open vision. But when the voice had been heard over the Son, He was found Himself alone, because when He shall have manifested Himself to His elect, God shall be all in all, yea Christ with His own, as the Head with the body, shall shine through all things. \[[[1 Corinthians 15#^15-28|1 Cor 15:28]]\]
 
 9\. And as they came down from the mountain, He charged them that they should tell no man what things they had seen, till the Son of man were risen from the dead.
 
@@ -472,7 +472,7 @@ It goes on: “Jesus said unto him, If thou canst believe, all things are possib
 
 Pseudo-Jerome: This saying, “If thou canst,” is a proof of the freedom of the will. Again, all things are possible to him that believeth, which evidently means all those things which are prayed for with tears in the name of Jesus, that is, of salvation.
 
-Bede: The answer of the Lord was suited to the petition; for the man said, “If thou canst do any thing, help us;” and to this the Lord answered, “If thou canst believe.” On the other hand, the leper who cried out, with faith, “Lord, if Thou will, Thou canst make me clean,” \[Matt 8:2\] received an answer according to his faith, “I will, be thou clean.”
+Bede: The answer of the Lord was suited to the petition; for the man said, “If thou canst do any thing, help us;” and to this the Lord answered, “If thou canst believe.” On the other hand, the leper who cried out, with faith, “Lord, if Thou will, Thou canst make me clean,” \[[[Matthew 08#^8-2|Matt 8:2]]\] received an answer according to his faith, “I will, be thou clean.”
 
 Chrys., Vict. Ant. e Cat. in Marc.: His meaning is; such a plenitude of virtue is there in Me, that not only can I do this, but I will make others to have that power; wherefore if thou canst believe as thou oughtest to do, thou shalt be able to cure not only him, but many more. In this way then, He endeavoured to bring back to the faith, the man who as yet speaks unfaithfully.
 
@@ -570,13 +570,13 @@ Pseudo-Jerome: Capernaum means the city of consolation, and agrees with the form
 
 There follows: “And being in the house He asked them, What was it that ye disputed among yourselves by the way? But they held their peace.”
 
-Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Matthew however says that the disciples came to Jesus, saying, “Who is the greatest in the kingdom of heaven?” \[Matt 18:1\]
+Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Matthew however says that the disciples came to Jesus, saying, “Who is the greatest in the kingdom of heaven?” \[[[Matthew 18#^18-1|Matt 18:1]]\]
 
 The reason is, that He did not begin the narrative from its commencement, but omitted our Saviour’s knowledge of the thoughts and words of His disciples; unless we understand 181 Him to mean, that even what they thought and said, when away from Christ, was said unto Him, since it was as well known to Him as if it had been said to Him.
 
 It goes on: “For by the way they had disputed among themselves, who should be the greatest.”
 
-But Luke says \[ed. note: Luke 9:46, Vulgate\] that “the thought entered into the disciples which of them should be the greatest;” for the Lord laid open their thought and intention from their private discourse according to the Gospel narrative.
+But Luke says \[ed. note: [[Luke 09#^9-46|Luke 9:46]], Vulgate\] that “the thought entered into the disciples which of them should be the greatest;” for the Lord laid open their thought and intention from their private discourse according to the Gospel narrative.
 
 Pseudo-Jerome: It was fit also that they should dispute concerning the chief place by the way; the dispute is like the place where it is held; for lofty station is only entered upon to be quitted: as long as a man keeps it, it is slippery, and it is uncertain at what stage, that is, on what day, it will end.
 
@@ -642,9 +642,9 @@ Theophylact: For how can he speak evil of Me, who draws glory from My name, and 
 
 There follows, “For he that is not against you is on your part.”
 
-Augustine, de Con. Evan., 4, 5: We must take care that this saying of the Lord appear not to be contrary to that where He says, “He who is not with Me is against Me.” \[Luke 11:23\] Or will any one say that the difference lies in that here He says to His disciples, “For he that is not against you is on your part,” but in the other He speaks of Himself, “He who is not with Me is against Me?” As if indeed it were possible \[ed. note: St. Augustine has here quasi vero, instead of quasi non, which hardly makes sense; the latter reading has also been found in an old edition of the Catena Aurea, A.D. 1417.\] that he who is joined to Christ’s disciples, who are as His members, should not be with Him.
+Augustine, de Con. Evan., 4, 5: We must take care that this saying of the Lord appear not to be contrary to that where He says, “He who is not with Me is against Me.” \[[[Luke 11#^11-23|Luke 11:23]]\] Or will any one say that the difference lies in that here He says to His disciples, “For he that is not against you is on your part,” but in the other He speaks of Himself, “He who is not with Me is against Me?” As if indeed it were possible \[ed. note: St. Augustine has here quasi vero, instead of quasi non, which hardly makes sense; the latter reading has also been found in an old edition of the Catena Aurea, A.D. 1417.\] that he who is joined to Christ’s disciples, who are as His members, should not be with Him.
 
-How if it were so, could it be true that “he that receiveth you receiveth Me?” \[Matt. 10:40\] Or how is he not against Him who is against His disciples? Where then will be that saying, “He who despiseth you, despiseth Me? \[Luke 10:16\] But surely what is implied is that a man is not with Him in as far as he is against Him, and is not against Him in as far as he is with Him.
+How if it were so, could it be true that “he that receiveth you receiveth Me?” \[[[Matthew 10#^10-40|Matt. 10:40]]\] Or how is he not against Him who is against His disciples? Where then will be that saying, “He who despiseth you, despiseth Me? \[[[Luke 10#^10-16|Luke 10:16]]\] But surely what is implied is that a man is not with Him in as far as he is against Him, and is not against Him in as far as he is with Him.
 
 For instance, he who worked miracles in the name of Christ, and yet did not join himself to the body of His disciples, in as far as he worked the miracles in His name, was with them, and was not against them; again, in that he did not join their society, he was not with them, and was against them.
 
@@ -710,7 +710,7 @@ Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Then He introduces the witness of pro
 
 Bede: And as the worm is the pain which inwardly accuses, so the fire is a punishment which rages without us; or by the worm is meant the rottenness of hell, by the fire, its heat.
 
-Augustine, de Civ. Dei, 21, 9: But those who hold that both of these, namely, the fire and the worm, belong to the pains of the soul, and not of the body, say also that those who are separated from the kingdom of God are tortured, as with fire, by the pangs of a soul repenting too late and hopelessly; and they not unfitly contend that fire may be put for that burning grief, as says the Apostle, “Who is offended, and I burn not?” \[2 Cor 11:29\]
+Augustine, de Civ. Dei, 21, 9: But those who hold that both of these, namely, the fire and the worm, belong to the pains of the soul, and not of the body, say also that those who are separated from the kingdom of God are tortured, as with fire, by the pangs of a soul repenting too late and hopelessly; and they not unfitly contend that fire may be put for that burning grief, as says the Apostle, “Who is offended, and I burn not?” \[[[2 Corinthians 11#^11-29|2 Cor 11:29]]\]
 
 They also think that by the worm must be understood the same grief, as is said: “As a moth destroys a garment, and a worm wood, so grief tortures the heart of man.” \[Prov 25:20 Vulgate\]
 
@@ -748,7 +748,7 @@ He says, therefore, “Every one shall be salted with fire,” because all the e
 
 Or else, the fire is the fire of tribulation, by which the patience of the faithful is proved, that it may have its perfect work.
 
-Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Similar to this is that which the Apostle says, “And the fire shall try every man’s work of what sort it is.” \[1 Cor 3:13\]
+Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Similar to this is that which the Apostle says, “And the fire shall try every man’s work of what sort it is.” \[[[1 Corinthians 03#^3-13|1 Cor 3:13]]\]
 
 Afterwards he brings in a witness from Leviticus: which says, “And every oblation of thy meat offering shalt thou season with salt.” \[Lev 2:13\]
 
@@ -758,7 +758,7 @@ Pseudo-Jerome: The oblation of the Lord is the race of man, which is here salted
 
 Bede: We may also understand the altar to be the heart of the elect, and the victims and sacrifices to be offered on the altar are good works. But in all sacrifices salt ought to be offered, for that is not a good work which is not purged by the salt of wisdom from all corruption of vain glory, and other evil and superfluous thoughts.
 
-Pseudo-Chrys., Vict. Ant. in Cat.: Or else it is meant, that every gift of our victim, which is accompanied by prayer and the assisting of our neighbour, is salted with that divine fire, of which it is said, “I am come to send fire on earth.” \[Luke 12:49\] Concerning which it is added: “Salt is good;” that is, the fire of love.
+Pseudo-Chrys., Vict. Ant. in Cat.: Or else it is meant, that every gift of our victim, which is accompanied by prayer and the assisting of our neighbour, is salted with that divine fire, of which it is said, “I am come to send fire on earth.” \[[[Luke 12#^12-49|Luke 12:49]]\] Concerning which it is added: “Salt is good;” that is, the fire of love.
 
 “But if the salt have lost his saltness,” that is, is deprived of itself, and that peculiar quality, by which it is called, good, “where with will ye season it?” For there is salt, which has saltness, that is, which has the fulness of grace; and there is salt, which has no saltness, for that which is not peaceful is salt unseasoned.
 
@@ -770,7 +770,7 @@ But if it be without saltness, that is, if its virtue of drying up and preservin
 
 Pseudo-Chrys., Vict. Ant. in Cat.: Or, according to Matthew, the disciples of Christ are the salt, which preserves the whole world, resisting the rottenness which proceeds from idolatry and sinful fornication. For it may also be meant, that each of us has salt, in as far as he contains in himself the graces of God.
 
-Wherefore also the Apostle joins together grace and salt, saying, “Let your speech be always with grace, seasoned with salt.: \[Col 4:6\]
+Wherefore also the Apostle joins together grace and salt, saying, “Let your speech be always with grace, seasoned with salt.: \[[[Colossians 04#^4-6|Col 4:6]]\]
 
 For salt is the Lord Jesus Christ, Who was able to preserve the whole earth, and made many to be salt in the earth: and if any of these be corrupted, (for it is possible for even the good to be changed into corruption,) they are worthy to be cast out.
 
@@ -816,7 +816,7 @@ Theophylact: But He enters the region of Judaea, which the envy of the Jews had 
 
 Wherefore it goes on: “And the people resort unto Him again, and, as He was wont, He taught them again.”
 
-Bede: Mark the difference of temper in the multitude and in the Pharisees. The former meet together, in order to be taught, and that their sick may be healed, as Matthew relates \[Matt 19:2\]; the latter come to Him, to try to deceive their Saviour by tempting Him.
+Bede: Mark the difference of temper in the multitude and in the Pharisees. The former meet together, in order to be taught, and that their sick may be healed, as Matthew relates \[[[Matthew 19#^19-2|Matt 19:2]]\]; the latter come to Him, to try to deceive their Saviour by tempting Him.
 
 *[p. 152]* ^pg156
 
@@ -832,7 +832,7 @@ And afterwards, “And they said, Moses suffered to write a bill of divorcement,
 
 They put forward indeed this that Moses had said either on account of the question of our Saviour, or wishing to excite against Him a multitude of men. For divorce was an indifferent thing among the Jews, and all practised it, as though it were permitted by the law.
 
-Augustine, de Con. Evan., ii, 62: It makes nothing, however, to the truth of the fact, whether, as Matthew says, they themselves addressed to the Lord the question concerning the bill of divorcement, allowed to them by Moses, on our Lord’s forbidding the separation, and confirming His sentence from the law, or whether it was in answer to a question of His, that they said this concerning the command of Moses, as Mark here says. For His wish was to give them no reason why Moses permitted it, before they themselves had mentioned the fact; since then the wish of the parties speaking, which is what the words ought to express, is in either way shewn, there is no discrepancy, though there be a difference in the way of relating it. It may also be meant that, as Mark expresses it, the question put to them by the Lord, What did Moses command?, was in answer to those who had previously asked His opinion concerning the putting away of a wife. And when they had replied that Moses permitted them to write a bill of divorcement, and to put her away, His answer was concerning that same law, given by Moses, how God instituted the marriage of a male, and a female, saying those things which Matthew relates \[Matt 19:4\]; on hearing which they again rejoined what they had replied to Him when He first asked them, namely - Why then did Moses command?
+Augustine, de Con. Evan., ii, 62: It makes nothing, however, to the truth of the fact, whether, as Matthew says, they themselves addressed to the Lord the question concerning the bill of divorcement, allowed to them by Moses, on our Lord’s forbidding the separation, and confirming His sentence from the law, or whether it was in answer to a question of His, that they said this concerning the command of Moses, as Mark here says. For His wish was to give them no reason why Moses permitted it, before they themselves had mentioned the fact; since then the wish of the parties speaking, which is what the words ought to express, is in either way shewn, there is no discrepancy, though there be a difference in the way of relating it. It may also be meant that, as Mark expresses it, the question put to them by the Lord, What did Moses command?, was in answer to those who had previously asked His opinion concerning the putting away of a wife. And when they had replied that Moses permitted them to write a bill of divorcement, and to put her away, His answer was concerning that same law, given by Moses, how God instituted the marriage of a male, and a female, saying those things which Matthew relates \[[[Matthew 19#^19-4|Matt 19:4]]\]; on hearing which they again rejoined what they had replied to Him when He first asked them, namely - Why then did Moses command?
 
 *[p. 153]* ^pg157
 
@@ -866,7 +866,7 @@ Chrys.: After this, bringing forward an awful argument, He said not, do not divi
 
 Augustine, cont. Faust, XIX, 29: Behold the Jews are convinced out of the books of Moses, that a wife is not to be put away, while they fancied that in putting her away, they were doing the will of Moses. In like manner from this place, from the witness of Christ Himself, we know this, that God made and joined male and female, for denying which the Manichees are condemned, resisting now not the books of Moses, but the Gospel of Christ.
 
-Bede: What therefore God hath conjoined by making one flesh of a man and a woman, that man cannot separate, but God alone. Man separates, when we dismiss the first wife because we desire a second; but it is God who separates, when by common consent \[1 Cor 7:5\], for the sake of serving God, we so have wives as though we had none \[1 Cor 7:29\].
+Bede: What therefore God hath conjoined by making one flesh of a man and a woman, that man cannot separate, but God alone. Man separates, when we dismiss the first wife because we desire a second; but it is God who separates, when by common consent \[[[1 Corinthians 07#^7-5|1 Cor 7:5]]\], for the sake of serving God, we so have wives as though we had none \[[[1 Corinthians 07#^7-29|1 Cor 7:29]]\].
 
 Chrys.: But if two persons, whom God has joined together, are not to be separated; much more is it wrong to separate from Christ, the Church, which God has joined to Him.
 
@@ -888,7 +888,7 @@ Pseudo-Chrys., Vict. Ant., e Cat. in Marc.: The Lord calls by the name of adulte
 
 the Saviour forbids this, which was neither plain, nor known to all, though it was contrary to nature.
 
-Bede: In Matthew it is more fully expressed, “Whosoever shall put away his wife, except it be for fornication.” \[Matt 19:9\] The only carnal cause then is fornication; the only spiritual cause is the fear of God, that a man should put away his wife to enter into religion \[ed. note: Husbands and wives have never been allowed to take monastic vows without mutual consent, see Bingham, book 7, ch 3; where also are incidentally given many instances of married persons thus giving up the world.\], as we read that many have done. But there is no cause allowed by the law of God for marrying another, during the lifetime of her who is quitted.
+Bede: In Matthew it is more fully expressed, “Whosoever shall put away his wife, except it be for fornication.” \[[[Matthew 19#^19-9|Matt 19:9]]\] The only carnal cause then is fornication; the only spiritual cause is the fear of God, that a man should put away his wife to enter into religion \[ed. note: Husbands and wives have never been allowed to take monastic vows without mutual consent, see Bingham, book 7, ch 3; where also are incidentally given many instances of married persons thus giving up the world.\], as we read that many have done. But there is no cause allowed by the law of God for marrying another, during the lifetime of her who is quitted.
 
 Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: There is no contrariety in Matthew’s relating that He spoke these words to the Pharisees, though Mark says that they were spoken to the disciples; for it is possible that He may have spoken them to both.
 
@@ -910,7 +910,7 @@ Origin, in Matt., XV, 7: If any of those who profess to hold the office of teach
 
 *[p. 156]* ^pg160
 
-gain children \[1 Cor 9:22\]; for He Himself, when He was in the form of God, humbled Himself, and became a child.
+gain children \[[[1 Corinthians 09#^9-22|1 Cor 9:22]]\]; for He Himself, when He was in the form of God, humbled Himself, and became a child.
 
 One which He adds: “For of such is the kingdom of heaven.”
 
@@ -962,7 +962,7 @@ Wherefore it goes on: “And Jesus said unto him, Why callest thou me good? ther
 
 In saying which He does not exclude men from goodness, but from a comparison with the goodness of God.
 
-Bede: But by this one God, Who is good, we must not only understand the Father, but also the Son, who says, “I am the good Shepherd;” \[John 10:11\] and also the Holy Ghost, because it is said, “The Father which is in heaven will give the good Spirit to them that ask him.” \[Luke 11:13\] For the One and Undivided Trinity itself, Father, Son, and Holy Ghost, is the Only and One good God. The Lord, therefore, does not deny Himself to be good, but implies that He is God; He does not deny that He is good Master, but He declares that no master is good but God.
+Bede: But by this one God, Who is good, we must not only understand the Father, but also the Son, who says, “I am the good Shepherd;” \[[[John 10#^10-11|John 10:11]]\] and also the Holy Ghost, because it is said, “The Father which is in heaven will give the good Spirit to them that ask him.” \[[[Luke 11#^11-13|Luke 11:13]]\] For the One and Undivided Trinity itself, Father, Son, and Holy Ghost, is the Only and One good God. The Lord, therefore, does not deny Himself to be good, but implies that He is God; He does not deny that He is good Master, but He declares that no master is good but God.
 
 *[p. 158]* ^pg162
 
@@ -978,6 +978,6 @@ Origen, in Evan. tom. xv, 14: For in that He loved, or kissed him \[ed. note: os
 
 Pseudo-Chrys., Cat. in Marc. Oxon.: It is worthy of enquiry, however, how He loved a man, who, He knew, would not follow Him? But this is so much as to say, that since he was worthy of love in the first instance, because he observed the things of the law from his youth, so in the end, though he did not take upon himself perfection, he did not suffer a lessening of his former love. For although he did not pass the bounds of humanity, nor follow the perfection of Christ, still he was not guilty of any sin, since he kept the law according to the capability of a man, and in this mode of keeping it, Christ loved him \[ed. note: The general meaning corresponds with the original, and is, that the young man is a type of those who keep the Gospel precepts, without going on to counsels of perfection; but the sense of the Greek has been missed by the Latin translator\].
 
-Bede: For God loves those who keep the commandments of the law, though they be inferior; nevertheless, He shews to those who would be perfect the deficiency of the law, for He came not to destroy the law, but to fulfil it. \[Matt 5:17\]
+Bede: For God loves those who keep the commandments of the law, though they be inferior; nevertheless, He shews to those who would be perfect the deficiency of the law, for He came not to destroy the law, but to fulfil it. \[[[Matthew 05#^5-17|Matt 5:17]]\]
 
 Wherefore there follows: “And said unto him, One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, follow me;” for whosoever would be perfect ought to sell all that he has, not a part,

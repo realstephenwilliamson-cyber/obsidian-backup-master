@@ -32,7 +32,7 @@ And whereas Mark<sup>1299</sup>saith, He took the three disciples, and so doth L
 
 And when He had risen up many followed Him, as for a great miracle, both on account of the person who had come, and because the more part being of a grosser disposition were seeking not so much the care of the soul, as the healing of the body; and they flowed together, some urged by their own afflictions, some hastening to behold how other men’s were cured: however, there were as yet but few in the habit of coming principally for the sake of His words and doctrine. Nevertheless, He did not suffer them to enter into the house, but His
 
-\[εελθν, “came in,” so Tischendorf, but the R.V. accepts the reading ε λθν, “there came one ruler.”—R.\] 1296 1297 Luke viii. 49. 1298 2 Kings v. 11, LXX. 1299 Mark v. 37.
+\[εελθν, “came in,” so Tischendorf, but the R.V. accepts the reading ε λθν, “there came one ruler.”—R.\] 1296 1297 [[Luke 08#^8-49|Luke viii. 49]]. 1298 2 Kings v. 11, LXX. 1299 [[Mark 05#^5-37|Mark v. 37]].
 
 *[p. 365]* ^pg373
 
@@ -50,7 +50,7 @@ It is true indeed that some of the senseless ones say, “He does this for love 
 
 For what intent then doth He bring her forward? In the first place He puts an end to the woman’s fear, lest being pricked by her conscience, as having stolen the gift, she should abide in agony. In the second place, He sets her right, in respect of her thinking to be hid. Thirdly, He exhibits her faith to all, so as to provoke the rest also to emulation; and His
 
-1301 Matt. ix. 21, 22. \[R.V., “border” for “hem;” “do” for “may;” “made whole” for “whole”.\] 1302 Levit. xv. 25. 1303 Eusebius, E. H., viii. 18, mentions a tradition that she belonged to Cæsarea Philippi, otherwise called Paneas, and that certain brazen statues of a man holding out his hand and a woman kneeling, which were there in his time, were set up at her expense, that being her native place. He adds, that a certain plant which grew by the Saviour’s statue, when it came to touch the hem of His garment, stopped growing and that it was endowed with virtue to cure all manner of diseases.
+1301 [[Matthew 09#^9-21|Matt. ix. 21]], [[Matthew 09#^9-22|22]]. \[R.V., “border” for “hem;” “do” for “may;” “made whole” for “whole”.\] 1302 Levit. xv. 25. 1303 Eusebius, E. H., viii. 18, mentions a tradition that she belonged to Cæsarea Philippi, otherwise called Paneas, and that certain brazen statues of a man holding out his hand and a woman kneeling, which were there in his time, were set up at her expense, that being her native place. He adds, that a certain plant which grew by the Saviour’s statue, when it came to touch the hem of His garment, stopped growing and that it was endowed with virtue to cure all manner of diseases.
 
 
 *[p. 366]* ^pg374
@@ -63,7 +63,7 @@ On account then of all these things He brings her forward, and saith, “Daughte
 
 But Luke tells us also other things more than these concerning the woman. Thus, when she had approached Him, saith he, and had received her health, Christ did not immediately call her, but first He saith, “Which is he that touched me?” Then when Peter and they that were with Him said, Master, the multitude throng Thee, and press Thee, and sayest Thou, who touched me?”<sup>1308</sup>(which was a very sure sign both that He was encompassed with real flesh, and that He trampled on all vainglory, for they did not follow Him at all afar off, but thronged Him on every side); He for His part continued to say, “Somebody hath touched me, for I perceive that virtue is gone out of me;”<sup>1309</sup>answering after a grosser manner according to the impression of His hearers. But these things He said, that He might also induce
 
-1304 Luke viii. 50. 1305 Mark v. 35; Luke viii. 49. 1306 John xi. 6, 39. 1307 Matt. ix. 22; see verse 2. 1308 Luke viii. 45. Luke viii. 46. \[R.V., “power.”\]
+1304 [[Luke 08#^8-50|Luke viii. 50]]. 1305 [[Mark 05#^5-35|Mark v. 35]]; [[Luke 08#^8-49|Luke viii. 49]]. 1306 [[John 11#^11-6|John xi. 6]], [[John 11#^11-39|39]]. 1307 [[Matthew 09#^9-22|Matt. ix. 22]]; see verse 2. 1308 [[Luke 08#^8-45|Luke viii. 45]]. [[Luke 08#^8-46|Luke viii. 46]]. \[R.V., “power.”\]
 
 
 *[p. 367]* ^pg375
@@ -78,7 +78,7 @@ For that He did this as minded to glorify her, and to amend others, and not to s
 
 Noble tokens, surely, these, of the rulers of synagogues; in the moment of her death pipes and cymbals raising a dirge! What then doth Christ? All the rest He cast out, but the parents He brought in; to leave no room for saying that He healed her in any other way. And before her resurrection too, He raises her in His word; saying, “The maid is not dead, but sleepeth.” And in many instances besides He doeth this. As then on the sea He expels tumult from the mind of the by-standers, at the same time both signifying that it is easy for Him to raise the dead (which same thing He did with respect to Lazarus also, saying, “Our friend Lazarus sleepeth<sup>1313</sup>;” and also teaching us not to fear death; for that it is not death,
 
-1310 Luke viii. 47. \[The English rendering has been modified to indicate more exactly the words cited.—R.\] 1311 Luke viii. 48. 1312 Matt. ix. 23, 24. \[R.V., “the flute-players, and the crowds making a tumult.”\] 203 1314 Ex. iv. 2. 1315 John xi. 34, 39. 1316 Matt. ix. 18. 1317 John xi. 44.
+1310 [[Luke 08#^8-47|Luke viii. 47]]. \[The English rendering has been modified to indicate more exactly the words cited.—R.\] 1311 [[Luke 08#^8-48|Luke viii. 48]]. 1312 [[Matthew 09#^9-23|Matt. ix. 23]], [[Matthew 09#^9-24|24]]. \[R.V., “the flute-players, and the crowds making a tumult.”\] 203 1314 Ex. iv. 2. 1315 [[John 11#^11-34|John xi. 34]], [[John 11#^11-39|39]]. 1316 [[Matthew 09#^9-18|Matt. ix. 18]]. 1317 [[John 11#^11-44|John xi. 44]].
 
 
 *[p. 368]* ^pg376
@@ -107,7 +107,7 @@ And what more couldest thou have done, if thou wert a foe and an enemy of the de
 
 1319 \[Probably “Gentiles” or “heathen” would be a better reading. The contrast is with “believer.”—R.\]
 
-1320 2 Cor. vi. 15. \[R.V., “unbeliever.”\] 204 1322 Gen. iii. 16, 19. 1323 John xvi. 33. 1324 Is. xxxv. 10. 1325 Matt. viii. 11. 1326 Because the feasts and prayers for the dead being supposed to benefit those only who have fallen asleep in the Lord, and whose final happiness was therefore sure, it was an inconsistency in those who celebrated them to sorrow as if they had no hope. See Bingham, b. xxiii. c. iii. secs. 13, 15. \[Or, “Gentiles.”\]
+1320 [[2 Corinthians 06#^6-15|2 Cor. vi. 15]]. \[R.V., “unbeliever.”\] 204 1322 Gen. iii. 16, 19. 1323 [[John 16#^16-33|John xvi. 33]]. 1324 Is. xxxv. 10. 1325 [[Matthew 08#^8-11|Matt. viii. 11]]. 1326 Because the feasts and prayers for the dead being supposed to benefit those only who have fallen asleep in the Lord, and whose final happiness was therefore sure, it was an inconsistency in those who celebrated them to sorrow as if they had no hope. See Bingham, b. xxiii. c. iii. secs. 13, 15. \[Or, “Gentiles.”\]
 
 
 *[p. 370]* ^pg378
@@ -138,7 +138,7 @@ Bear in mind, that even the Son of God died: and He indeed for thee, but thou fo
 
 And think not of this, that he will no more return home: but that thyself also art a little while after to go to him. Regard not this, that he returns here no more, but that neither do these things that are seen remain such as they are, but these too are being transformed. Yea,
 
-1328 Not that St. Chrysostom imagined that anything could be done to change the relative condition of those who have died in the favor or displeasure of God: see *e.g*., Hom. XXXVI. p. 506, ed. Field. Indeed, the same is implied in the words which immediately follow. “Dost thou long to see him? Then live the same life with him,” &c. 1329 Matt. xxvi. 39. μετ πολλ τ τραγδα. 205 μεθαρμζεται .
+1328 Not that St. Chrysostom imagined that anything could be done to change the relative condition of those who have died in the favor or displeasure of God: see *e.g*., Hom. XXXVI. p. 506, ed. Field. Indeed, the same is implied in the words which immediately follow. “Dost thou long to see him? Then live the same life with him,” &c. 1329 [[Matthew 26#^26-39|Matt. xxvi. 39]]. μετ πολλ τ τραγδα. 205 μεθαρμζεται .
 
 
 *[p. 372]* ^pg380
@@ -157,7 +157,7 @@ But hast thou no husband? yet hast thou a consolation, even the Father of the or
 
 Since thou hast also restored His deposit, if thou hast exhibited the very thing entrusted to thee. Be not in care any more, having laid up the possession in an inviolable treasure-house.
 
-1331 1 Tim. v. 5. \[R.V., “hath her hope set on God.” Chrysostom reads κριον, and Augustin followed the same reading.—R.\]
+1331 [[1 Timothy 05#^5-5|1 Tim. v. 5]]. \[R.V., “hath her hope set on God.” Chrysostom reads κριον, and Augustin followed the same reading.—R.\]
 
 
 *[p. 373]* ^pg381
@@ -208,9 +208,9 @@ And if in another place we find Him saying, “Go thy way, and declare the glory
 
 For the affliction was not natural, but the device of the evil spirit; wherefore also he needs others to bring him. For he could neither make entreaty himself, being speechless, nor supplicate others, when the evil spirit had bound his tongue, and together with his tongue had fettered his soul.
 
-1339 Matt. ix. 2. \[“Thy sins are forgiven.” Comp. Homily XXIX. 1.—R.\]
+1339 [[Matthew 09#^9-2|Matt. ix. 2]]. \[“Thy sins are forgiven.” Comp. Homily XXIX. 1.—R.\]
 
-1340 Matt. ix. 30, 31. 1341 Mark v. 19; Luke viii. 39. Matt. ix. 32. \[“Demon” is more correct, here and throughout the passage.—R.\]
+1340 [[Matthew 09#^9-30|Matt. ix. 30]], [[Matthew 09#^9-31|31]]. 1341 [[Mark 05#^5-19|Mark v. 19]]; [[Luke 08#^8-39|Luke viii. 39]]. [[Matthew 09#^9-32|Matt. ix. 32]]. \[“Demon” is more correct, here and throughout the passage.—R.\]
 
 
 *[p. 376]* ^pg384
@@ -227,7 +227,7 @@ But He doeth the contrary. For after these their insults and revilings, 3. “He
 
 And so far from punishing them for their insensibility, He did not even simply rebuke them; at once both evincing His meekness, and so refuting the calumny; and at the same time minded also by the signs which followed to exhibit His proof more completely: and then to adduce also the refutation by words. He went about therefore both in cities, and in countries, and in their synagogues; instructing us to requite our calumniators, not with fresh calumnies, but with greater benefits. Since, if not for man’s sake, but God’s, thou doest good to thy fellow-servants; whatsoever they may do, leave not thou off doing them good, that thy reward may be greater; since he surely, who upon their calumny leaves off his doing good, signifies that for their praise’ sake, not for God’s sake, he applies himself to that kind of virtue.
 
-1343 Matt. ix. 33. 1344 Matt. ix. 34. \[R.V., “By (or, in) the prince of the devils (Greek, demons) he casteth out devils.”\] 1345 Matt. ix. 35. \[R.V., “all manner of disease and all manner of sickness.” In the Homily, as in the best New Testament mss. ἐυ τ λα is not found.—R.\] ἐσκυλμνοι, *vexati*, the reading of the Vulgate, and of most mss. and Fathers: adopted by Griesbach into 1346 the text. \[The R.V. renders this “distressed.”\] 1347 Matt. ix. 36–38. \[“will” is unnecessary.—R.\] 1348 John iv. 38. Matt. xii. 23, 24. \[See on verse 34, in sec. 2.\]
+1343 [[Matthew 09#^9-33|Matt. ix. 33]]. 1344 [[Matthew 09#^9-34|Matt. ix. 34]]. \[R.V., “By (or, in) the prince of the devils (Greek, demons) he casteth out devils.”\] 1345 [[Matthew 09#^9-35|Matt. ix. 35]]. \[R.V., “all manner of disease and all manner of sickness.” In the Homily, as in the best New Testament mss. ἐυ τ λα is not found.—R.\] ἐσκυλμνοι, *vexati*, the reading of the Vulgate, and of most mss. and Fathers: adopted by Griesbach into 1346 the text. \[The R.V. renders this “distressed.”\] 1347 [[Matthew 09#^9-36|Matt. ix. 36–38]]. \[“will” is unnecessary.—R.\] 1348 [[John 04#^4-38|John iv. 38]]. [[Matthew 12#^12-23|Matt. xii. 23]], [[Matthew 12#^12-24|24]]. \[See on verse 34, in sec. 2.\]
 
 
 *[p. 377]* ^pg385
@@ -260,7 +260,7 @@ Still the Spirit was not yet given. For “there was not yet,” it saith, “a 
 
 And mark, I pray thee, also, how well timed was the mission. For not at the beginning did He send them; but when they had enjoyed sufficiently the advantage of following Him, and had seen a dead person raised, and the sea rebuked, and devils expelled, and a paralytic new-strung, and sins remitted, and a leper cleansed, and had received a sufficient proof of His power, both by deeds and words, then He sends them forth: and not to dangerous acts, for as yet there was no danger in Palestine, but they had only to stand against evil speakings. However, even of this He forewarns them, I mean of their perils; preparing them even before the time, and making them feel as in conflict by His continual predictions of that sort.
 
-1350 \[Omit “would.”\] 1351 Matt. iii. 12. 1352 \[R.V., “authority over.”\] 1353 Matt. x. 1. \[“Sickness” and “disease” should be transposed. Comp. on chap. ix. 35, and R.V.—R.\] 1354 John vii. 39. \[Chrysostom accepts the reading sustained by our best authorities; but the literal rendering given above does not represent his view. In Homily LI., in John, he distinctly says: “For the Holy Ghost was not yet, that is, ‘was not yet given.’”—R.\]
+1350 \[Omit “would.”\] 1351 [[Matthew 03#^3-12|Matt. iii. 12]]. 1352 \[R.V., “authority over.”\] 1353 [[Matthew 10#^10-1|Matt. x. 1]]. \[“Sickness” and “disease” should be transposed. Comp. on chap. ix. 35, and R.V.—R.\] 1354 [[John 07#^7-39|John vii. 39]]. \[Chrysostom accepts the reading sustained by our best authorities; but the literal rendering given above does not represent his view. In Homily LI., in John, he distinctly says: “For the Holy Ghost was not yet, that is, ‘was not yet given.’”—R.\]
 
 
 *[p. 379]* ^pg387
@@ -285,7 +285,7 @@ After this, when he had said, “Philip, and Bartholomew,” he added, “Thomas
 
 But Luke not so, but in the opposite order, and he puts him before Thomas. Next, “James the son of Alphæus.” For there was, as I have already said, the son of Zebedee also. Then after having mentioned “Lebbæus, whose surname was Thaddæus,”<sup>1357</sup>and “Simon” Zelotes, whom he calls also “the Canaanite,” he comes to the traitor. And not as a sort of enemy or foe, but as one writing a history, so hath he described him. He saith not, “the unholy, the all unholy one,” but hath named him from his city, “Judas Iscariot.” Because there was also another Judas, “Lebbæus, whose surname was Thaddæus,” who, Luke saith, was the brother of James, saying, “Judas the brother of James.”<sup>1358</sup> Therefore to distinguish him from this man, it saith, “Judas Iscariot, who also betrayed Him.”<sup>1359</sup> And
 
-1355 Matt. x. 2. 1356 Matt. x. 3. 1357 \[R.V., “Thaddæus.” The longer reading arose quite early. Tischendorf accepts “Lebbæus,” though it is not strongly supported, mainly because Mark has “Thaddæus.”—R.\] 1358 Luke vi. 16. κορυφαο.
+1355 [[Matthew 10#^10-2|Matt. x. 2]]. 1356 [[Matthew 10#^10-3|Matt. x. 3]]. 1357 \[R.V., “Thaddæus.” The longer reading arose quite early. Tischendorf accepts “Lebbæus,” though it is not strongly supported, mainly because Mark has “Thaddæus.”—R.\] 1358 [[Luke 06#^6-16|Luke vi. 16]]. κορυφαο.
 
 
 *[p. 380]* ^pg388
@@ -302,7 +302,7 @@ And first of all, and leader of the choir,<sup>1360</sup>is the “unlearned, th
 
 6\. “And as ye go,” saith He, “preach, saying, The kingdom of Heaven is at hand.”<sup>1366</sup> Seest thou the greatness of their ministry? Seest thou the dignity of apostles? Of nothing that is the object of sense are they commanded to speak, nor such as Moses spake of, and the prophets before them, but of some new and strange things. For while the former preached no such things, but earth, and the good things in the earth, these preached the kingdom of Heaven, and whatever is there.
 
-1360 1361 Acts iv. 13. 1362 Matt. x. 5. 1363 \[R.V., “*any* way.”\] 1364 Matt. x. 5, 6. 1365 Acts xi. 3. 210 1367 See Exod. iv. 10–14; Jerem. i. 6. \[ἀξιοπστου, worthy of the confidence of those to whom they preached.—R.\] 1368 1369 Matt. x. 8. “Raise the dead,” is added in our copies. \[There is some authority for omitting this clause in the New Testament, but recent critical editors retain it.—R.\] κατρθωμα; nearly answering, perhaps, both here and in other places, to *meritum*.
+1360 1361 [[Acts 04#^4-13|Acts iv. 13]]. 1362 [[Matthew 10#^10-5|Matt. x. 5]]. 1363 \[R.V., “*any* way.”\] 1364 [[Matthew 10#^10-5|Matt. x. 5]], [[Matthew 10#^10-6|6]]. 1365 [[Acts 11#^11-3|Acts xi. 3]]. 210 1367 See Exod. iv. 10–14; Jerem. i. 6. \[ἀξιοπστου, worthy of the confidence of those to whom they preached.—R.\] 1368 1369 [[Matthew 10#^10-8|Matt. x. 8]]. “Raise the dead,” is added in our copies. \[There is some authority for omitting this clause in the New Testament, but recent critical editors retain it.—R.\] κατρθωμα; nearly answering, perhaps, both here and in other places, to *meritum*.
 
 
 *[p. 381]* ^pg389
@@ -317,7 +317,7 @@ After this, to make them trustworthy,<sup>1368</sup> He saith, “Heal the sick,
 
 He said not, “take them not with you,” but, “even if you can obtain them from another, flee the evil disease.” And you see that hereby He was answering many good pur poses; first setting His disciples above suspicion; secondly, freeing them from all care, so that they might give all their leisure to the word; thirdly, teaching them His own power. Of this accordingly He quite speaks out to them afterwards, “Lacked ye anything, when I sent you naked and unshod?”<sup>1373</sup>
 
-1370 1371 1 Tim vi. 10. 1372 Matt. x. 9, 10. \[R.V., “Get you no gold nor silver, nor brass in your purses (Greek, girdles); no wallet for your journey, neither two coats, nor shoes, nor staff.”\] Luke xxii. 35. \[The passage is paraphrased by Chrysostom.—R.\]
+1370 1371 [[1 Timothy 06#^6-10|1 Tim vi. 10]]. 1372 [[Matthew 10#^10-9|Matt. x. 9]], [[Matthew 10#^10-10|10]]. \[R.V., “Get you no gold nor silver, nor brass in your purses (Greek, girdles); no wallet for your journey, neither two coats, nor shoes, nor staff.”\] [[Luke 22#^22-35|Luke xxii. 35]]. \[The passage is paraphrased by Chrysostom.—R.\]
 
 
 *[p. 382]* ^pg390
@@ -332,7 +332,7 @@ Next, lest they should say, “whence then are we to obtain our necessary food?�
 
 After this, that they may not say, “Dost thou then command us to live by begging?” and be ashamed of this, He signifies the thing to be a debt, both by calling them “workmen,” and by terming what was given, “hire.”<sup>1378</sup> For “think not,” saith He, “because the labor is in words, that the benefit conferred by you is small; nay, for the thing hath much toil; and whatsoever they that are taught may give, it is not a free gift which they bestow, but a recompence which they render: “for the workman is worthy of his meat.” But this He said, not as declaring so much to be the worth of the apostles’ labors, far from it; God forbid: but as both making it a law for them to seek nothing more, and as convincing the givers, that what they do is not an act of liberality, but a debt.
 
-1374 Matt. x. 19. \[R.V., “Be not anxious,” etc.\] 1375 Matt. vi. 26. ἐπιδεξασθαι. 1376 1377 Matt. x. 10. \[R.V., “For the laborer is worthy of his food.”\] See Luke x. 7. 211 1379 Matt. x. 11. \[R.V., “Search out who,” etc.\] εκολα.
+1374 [[Matthew 10#^10-19|Matt. x. 19]]. \[R.V., “Be not anxious,” etc.\] 1375 [[Matthew 06#^6-26|Matt. vi. 26]]. ἐπιδεξασθαι. 1376 1377 [[Matthew 10#^10-10|Matt. x. 10]]. \[R.V., “For the laborer is worthy of his food.”\] See [[Luke 10#^10-7|Luke x. 7]]. 211 1379 [[Matthew 10#^10-11|Matt. x. 11]]. \[R.V., “Search out who,” etc.\] εκολα.
 
 
 *[p. 383]* ^pg391
@@ -349,7 +349,7 @@ Seest thou how far He declines not to carry His injunctions? And very fitly. For
 
 “And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet. Verily I say unto you, it shall be more tolerable for the land of Sodom and Gomorrah in the day of judgment, than for that city.”<sup>1383</sup> That is, “do not,” saith He, “because ye are teachers, therefore wait to be saluted by others, but be first in showing that respect.” Then, implying that this is not a mere salutation, but a blessing, He saith, “If the house be worthy, it shall come upon it,” but if it deal insolently, its first punishment will be, not to have the benefit of your peace; and the second, that it shall suffer the doom of Sodom.” “And what,” it will be said, “is their punishment to us?” Ye will have the houses of such as are worthy.
 
-1380 1381 Luke x. 7. 1382 Matt. x. 12, 13. φιλοσοφαν . 1384 1385 2 Cor. xi. 12. 1386 Isa. lii. 7; Rom. x. 15. 1387 John xiv. 27. 1388 See Bingham 13, 10, 8, quoting St. Chrys. Hom. *in eos qui primum Pascha jejunant*, P. vi. 383. Sav. “There is nothing like peace and harmony. Therefore our Father (the Bishop) mounts not up to this throne, until he have invoked peace upon you all: nor when he stands up, doth he begin his instruction to you, until he have
+1380 1381 [[Luke 10#^10-7|Luke x. 7]]. 1382 [[Matthew 10#^10-12|Matt. x. 12]], [[Matthew 10#^10-13|13]]. φιλοσοφαν . 1384 1385 [[2 Corinthians 11#^11-12|2 Cor. xi. 12]]. 1386 Isa. lii. 7; [[Romans 10#^10-15|Rom. x. 15]]. 1387 [[John 14#^14-27|John xiv. 27]]. 1388 See Bingham 13, 10, 8, quoting St. Chrys. Hom. *in eos qui primum Pascha jejunant*, P. vi. 383. Sav. “There is nothing like peace and harmony. Therefore our Father (the Bishop) mounts not up to this throne, until he have invoked peace upon you all: nor when he stands up, doth he begin his instruction to you, until he have
 
 
 *[p. 384]* ^pg392
@@ -394,7 +394,7 @@ given peace to all; and the priests, when about to consecrate, first make this p
 
 1394
 
-See James v. 14, 15. Tertull. *ad Scapul.* c. 4. “Severus sought out one Proculus, a Christian, who had cured him at a certain time with oil, and kept him in his court until he died.” St. Jerome, *vit. St. Hilarion*, c. 32. “Very many, wounded by serpents, having had recourse to Hilarion, indeed all the husbandmen and shepherds, upon touching their wounds with consecrated oil, recovered lasting health.” Other cases occur in church history, and
+See [[James 05#^5-14|James v. 14]], [[James 05#^5-15|15]]. Tertull. *ad Scapul.* c. 4. “Severus sought out one Proculus, a Christian, who had cured him at a certain time with oil, and kept him in his court until he died.” St. Jerome, *vit. St. Hilarion*, c. 32. “Very many, wounded by serpents, having had recourse to Hilarion, indeed all the husbandmen and shepherds, upon touching their wounds with consecrated oil, recovered lasting health.” Other cases occur in church history, and
 
 *[p. 386]* ^pg394
 
@@ -408,15 +408,15 @@ For though I shake not off the dust, though I turn not away, what is threatened 
 
 illustrate the importance which the early writers attribute to the sacred oil in the church ritual, and the account of the miracle of St. Narcissus in Euseb. E. H. vi. 9. This statement of St. Chrysostom should be borne in mind, as qualifying what he so often seems to affirm or imply, that miraculous gifts had been withdrawn. 1395
 
-Acts ii. 41.
+[[Acts 02#^2-41|Acts ii. 41]].
 
 1396
 
-Acts iv. 4.
+[[Acts 04#^4-4|Acts iv. 4]].
 
 1397
 
-Acts iv. 32.
+[[Acts 04#^4-32|Acts iv. 32]].
 
 1398
 
@@ -440,9 +440,9 @@ For neither are they our own words which we speak, since ye have no teacher at a
 
 213
 
-1399 2 Cor. vii. 2.
+1399 [[2 Corinthians 07#^7-2|2 Cor. vii. 2]].
 
-1400 2 Cor. xii. 15. \[R.V., “Am I loved the less?” The reading accepted by Chrysostom agrees better with this interpretation.\]
+1400 [[2 Corinthians 12#^12-15|2 Cor. xii. 15]]. \[R.V., “Am I loved the less?” The reading accepted by Chrysostom agrees better with this interpretation.\]
 
 
 *[p. 388]* ^pg396
@@ -471,7 +471,7 @@ These then let us perform with much diligence. For if thou change from inhumanit
 
 These are the greatest miracles, these the wonderful signs. If we go on working these signs, we shall both ourselves be a great and admirable sort of persons through these, and shall win over all the wicked unto virtue, and shall enjoy the life to come; unto which may we all attain, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might forever and ever. Amen.
 
-1401 1 Cor. xii. 31. 1402 Luke x. 20. 1403 Matt. vii. 22, 23. 1404 John xiii. 35.
+1401 [[1 Corinthians 12#^12-31|1 Cor. xii. 31]]. 1402 [[Luke 10#^10-20|Luke x. 20]]. 1403 [[Matthew 07#^7-22|Matt. vii. 22]], [[Matthew 07#^7-23|23]]. 1404 [[John 13#^13-35|John xiii. 35]].
 
 
 *[p. 390]* ^pg398
@@ -506,7 +506,7 @@ Seest thou authority? seest thou prerogative? seest thou invincible might? Now H
 
 This He said also unto Paul: “My grace is sufficient for thee, for my strength is made perfect in weakness.”<sup>1407</sup>“It is I, now mark it, who have caused you so to be.” For in saying, “I send you forth as sheep,” He intimates this. “Do not therefore despond, for I know, I know certainly, that in this way more than any other ye will be invincible to all.”
 
-2 Cor. xii. 9.
+[[2 Corinthians 12#^12-9|2 Cor. xii. 9]].
 
 *[p. 392]* ^pg400
 
@@ -538,7 +538,7 @@ And what follows again is much more fearful, since men are to become on our acco
 
 “For the brother,” saith He, “shall deliver up the brother to death, and the father the child; and children shall rise up against their parents, and cause them to be put to death.”<sup>1413</sup> “How, then,” one might say, “will the rest of men believe, when they see on our account, children slain by their fathers, and brethren by brethren, and all things filled with abominations?” What? will not men, as though we were destructive demons, will they not, as though we were devoted, and pests of the world, drive us out from every quarter, seeing the earth
 
-1410 Acts iv. 19. 1411 Acts iv. 20. 1412 Matt. x. 17, 18.
+1410 [[Acts 04#^4-19|Acts iv. 19]]. 1411 [[Acts 04#^4-20|Acts iv. 20]]. 1412 [[Matthew 10#^10-17|Matt. x. 17]], [[Matthew 10#^10-18|18]].
 
 
 *[p. 394]* ^pg402
@@ -553,7 +553,7 @@ And together with these, He adds another, and that no small consolation for them
 
 For lest they should say, “How shall we be able to persuade men, when such things are taking place?” He bids them be confident as to their defense also. And elsewhere indeed He saith, “I will give you a mouth and wisdom;”<sup>1416</sup>but here, “It is the Spirit of your Father that speaketh in you,” advancing them unto the dignity of the prophets. Therefore, when He had spoken of the power that was given, then He added also the terrors, the murders, and the slaughters.
 
-1414 \[R.V., “be not anxious.”\] 1415 Matt. x. 19, 20.
+1414 \[R.V., “be not anxious.”\] 1415 [[Matthew 10#^10-19|Matt. x. 19]], [[Matthew 10#^10-20|20]].
 
 
 *[p. 395]* ^pg403
@@ -583,7 +583,7 @@ But do thou also admire them, how when it was said to them, “Take no thought,�
 
 For His will is, that not His part only should be contributed, but that the good deeds should be also done of them. Mark, for instance, how from the first, part is His, part His disciples’. Thus, to do miracles is His, but to provide nothing is theirs. Again, to open all men’s houses, was of the grace from above; but to require no more than was needful, of their own self-denial. “For the workman is worthy of his hire.” Their bestowing peace was of the gift of God, their inquiring for the worthy, and not entering in without distinction unto all, of their own self command. Again, to punish such as received them not was His, but to retire with gentleness from them, without reviling or insulting them, was of the apostles’ meekness. To give the Spirit, and cause them not to take thought, was of Him that sent them, but to become like sheep and doves, and to bear all things nobly, was of their
 
-2 Tim. iv. 17.
+[[2 Timothy 04#^4-17|2 Tim. iv. 17]].
 
 *[p. 397]* ^pg405
 
@@ -595,7 +595,7 @@ For this cause then, though He said, “Take no thought what ye shall speak;” 
 
 For in truth it was a very great thing, for a man occupied about lakes, and skins, and receipt of custom, when tyrants were on their thrones, and satraps, and guards standing by them, and the swords drawn, and all standing on their side; to enter in alone, bound, hanging down his head, and yet be able to open his mouth. For indeed they allowed them neither speech nor defense with respect to their doctrines, but set about torturing them to death, as common pests of the world. For “They,” it is said, “that have turned the world upside down, are come hither also;” and again, “They preach things contrary to the decrees of Cæsar, saying that Jesus Christ is king.”<sup>1423</sup> And everywhere the courts of justice were preoccupied by such suspicions, and much influence from above was needed, for their showing both the truth of the doctrine they preached, and that they are not violating the common laws; so that they should neither, while earnest to speak of the doctrine, fall under suspicion of overturning the laws; nor again, while earnest to show that they were not overturning the common government, corrupt the perfection of their doctrines: all which thou wilt see accomplished with all due consideration, both in Peter and in Paul, and in all the rest. Yea, and as rebels and innovators, and revolutionists, they were accused all over the world; yet nevertheless they both repelled this impression, and invested themselves with the contrary, all men celebrating them as saviors, and guardians, and benefactors. And all this they achieved
 
-219 1422 1 Peter iii. 15.
+219 1422 [[1 Peter 03#^3-15|1 Peter iii. 15]].
 
 *[p. 398]* ^pg406
 
@@ -609,7 +609,7 @@ If now it should happen, as I pray it may not happen nor at any time fall out, t
 
 These do thou also emulate, and practise the wrestlings of self denial. For indeed there are many that provoke to anger, and incite to lust, and kindle a great flame. Stand therefore against thy passions, bear nobly the mental pangs, that thou mayest endure also those of the body.
 
-1 Cor. xv. 31, 30.
+[[1 Corinthians 15#^15-31|1 Cor. xv. 31]], 30.
 
 *[p. 399]* ^pg407
 
@@ -642,7 +642,7 @@ Why, though no one had spoken any of the other taunts, yet his wife’s words al
 
 Now if when men were in wealth, and suffering no distress, in many things and oft have women prevailed on them: imagine how courageous was that soul, which repulsed her, assaulting him with such powerful weapons, and which trod under foot the two most tyrannical passions, desire and pity. And yet many having conquered desire, have yielded to pity. That noble Joseph, for instance, held in subjection the most tyrannical of pleasures, and
 
-1430 Job vii. 16, LXX. Job xi. 6. δρμα. 1432 1433 Matt. x. 25. 1434 Dan. iii. 18. 1435 Job xl. 3, LXX. 1436 Job xl. 4, LXX. Job xlii. 5, 6, LXX.
+1430 Job vii. 16, LXX. Job xi. 6. δρμα. 1432 1433 [[Matthew 10#^10-25|Matt. x. 25]]. 1434 Dan. iii. 18. 1435 Job xl. 3, LXX. 1436 Job xl. 4, LXX. Job xlii. 5, 6, LXX.
 
 
 *[p. 401]* ^pg409
@@ -679,4 +679,4 @@ Then again, He trains them for another branch of self-command; first, casting ou
 
 But since withal it was likely that they should also bring upon themselves an evil report, which to many seems harder to bear than all; see whence He comforts them even in this case, deriving the encouragement from Himself, and from all that had been said touching
 
-222 1438 Matt. x. 26. 1439 Matt. x. 10.
+222 1438 [[Matthew 10#^10-26|Matt. x. 26]]. 1439 [[Matthew 10#^10-10|Matt. x. 10]].

@@ -30,7 +30,7 @@ ityetatsaṃskriyātattvaṃ śrīśaṃbhurme nyarūpayat || ^iast
 >
 > Fire, flaming in this way with the glorious power (of the teacher’s) true (and resolute) intention (satyasaṁkalpa), united with the Mantras and to the Lord, is one with Śiva’s intention, and so is Śiva Himself (śivātmaka). (with 15.407cd–408ab)
 >
-> The venerable Śambhunātha taught me this, the true (nature and procedure) of purifying the fire, and I have also explained it.’ May those whose intellects are pure reflect on it carefully. (with 15.408cd–409ab)
+> The venerable Śambhunātha taught me this, the true (nature and procedure) of purifying the fire, and I have also explained it. May those whose intellects are pure reflect on it carefully. (with 15.408cd–409ab)
 
 ## Viveka
 

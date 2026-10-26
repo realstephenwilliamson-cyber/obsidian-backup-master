@@ -127,8 +127,8 @@ A man should not live without a wife, for this practice leads to great purity.[^
 [^4]: Since the couple have never engaged in relations, we fear that they will not be able to control their desire. Hence we require them to take this added safeguard.
 [^5]: See Rama (*Yoreh De'ah* 192:4) who discusses this issue in depth, mentioning several stringencies and leniencies. He states the prevailing custom is for a young boy to accompany the groom and a young girl to accompany the bride. Every person should check with a competent Rabbinic authority with regard to the custom followed in their community.
 [^6]: The *Shulchan Aruch* (*Even HaEzer* 24:1) writes that homosexuality had become prevalent in his community and hence, it was deemed appropriate not to enter into privacy with other men. The *Bayit Chadash* states that in places where this transgression is not widespread, there is no need for taking such precautions.
-[^7]: See [[Kiddushin 81#81b|*Kiddushin* 81b]].
-[^8]: [[Kiddushin 80#80b|*Kiddushin* 80b]] states that "there is an allusion to the prohibition against entering into privacy in the Torah." The Rambam understands that to mean that the prohibition was conveyed by the Oral Tradition and our Sages found an allusion for it in the Torah. The *Tur* (*Even HaEzer* 22), however, follows the opinion of *Tosafot* who maintains that the prohibition is of Scriptural origin.
+[^7]: See *Kiddushin* [[Kiddushin 81#81b|81b]].
+[^8]: *Kiddushin* [[Kiddushin 80#80b|80b]] states that "there is an allusion to the prohibition against entering into privacy in the Torah." The Rambam understands that to mean that the prohibition was conveyed by the Oral Tradition and our Sages found an allusion for it in the Torah. The *Tur* (*Even HaEzer* 22), however, follows the opinion of *Tosafot* who maintains that the prohibition is of Scriptural origin.
 [^9]: As II Samuel, ch. 13, relates: Amonon, David's oldest son, lusted for Tamar, his half-sister. He feigned illness and asked that Tamar serve him a meal. While she was serving him, he raped her.
 [^10]: In that era, there already were more substantial social conduct between Jews and gentiles and our Sages felt that there was a need for further safeguards.
 [^11]: Publicizing their misconduct so that the shame will further inhibit a future recurrence.
@@ -136,7 +136,7 @@ A man should not live without a wife, for this practice leads to great purity.[^
 [^13]: And there is the possibility that he will engage in relations with her in the presence of his wife.
 [^14]: For we fear that the gentiles will engage in sexual misconduct. See Halachah 7.
 [^15]: Chapter 14, Halachah 10.
-[^16]: As interpreted by [[Avodah Zarah 6#6b|*Avodah Zarah* 6b]], *et al*, this verse is a command not to place a person in a situation where he is likely to sin. By placing an animal belonging to him in the gentile's possession, the Jew is making it possible for him to sin.
+[^16]: As interpreted by *Avodah Zarah* [[Avodah Zarah 6#6b|6b]], *et al*, this verse is a command not to place a person in a situation where he is likely to sin. By placing an animal belonging to him in the gentile's possession, the Jew is making it possible for him to sin.
 [^17]: For we fear that she will enter into relations with one or more of the men in the presence of the others.  
     The Rama (*Even HaEzer* 22:5) states that a woman may enter into privacy with two upright men in a city, but not in a field, and only during the day, but not at night).
 [^18]: For in that instance, she will guard him, as stated in Halachah 4. Nor will the other woman engage in relations in her presence, for it is likely that she will publicize the matter (*Kessef Mishneh*).
@@ -158,18 +158,18 @@ A man should not live without a wife, for this practice leads to great purity.[^
 [^34]: According to the *Maggid Mishneh*, this leniency applies even if the teacher's wife is in another city. As long as he is married, there is no prohibition. The *Chelkat Mechokek* 22:21 and the *Beit Shmuel* 22:22 differ and conclude that this leniency applies only when the man's wife lives in the same city where he teaches. If she lives in another city, it is forbidden.
 [^35]: The Rama (*Even HaEzer* 22:13) states that this refers to outhouses in the fields (which was the custom in the Talmudic era), but not to outhouses in the city (which had become the custom in his time). Needless to say, it does not apply in the present age when the lavatories are in the privacy of buildings.
 [^36]: I.e., No matter how upright the person's character, there is the possibility that frequent exposure to women will lead him to undesirable relations.
-[^37]: We fear that if another man was placed in charge of a person's home, he would have frequent contact with the owner's wife and there is the possibility that ultimately the two will commit adultery. As [[Berakhot 63#63a|*Berachot* 63a]] states: "Had Potiphar not appointed Joseph as the supervisor of his home, that incident (Potiphar's wife attempted seduction of Joseph) would never have occurred."
+[^37]: We fear that if another man was placed in charge of a person's home, he would have frequent contact with the owner's wife and there is the possibility that ultimately the two will commit adultery. As *Berachot* [[Berakhot 63#63a|63a]] states: "Had Potiphar not appointed Joseph as the supervisor of his home, that incident (Potiphar's wife attempted seduction of Joseph) would never have occurred."
 [^38]: I.e., people at large will suspect that they are sharing a relationship.  
     The Ra'avad differs with the Rambam's ruling, explaining that what was forbidden was to dwell with her in the same home. There are no restrictions against dwelling in the same courtyard. According to the Rambam, dwelling in the same home temporarily is permitted as long as one does not enter into privacy with her. The *Maggid Mishneh* supports the Rambam's interpretation.
 [^39]: I.e., people will gossip that she is intimate with the dog or the servants. In *Hilchot Avadim* 9:6, the Rambam mentions this restriction only with regard to servants nine years old or above. See the notes to that halachah.
-[^40]: Rashi ([[Chagigah 11#11b|*Chagigah* 11b]]) interprets this as referring to those matters which are not explicit in the Torah.
+[^40]: Rashi (*Chagigah* [[Chagigah 11#11b|11b]]) interprets this as referring to those matters which are not explicit in the Torah.
 [^41]: The Rambam, based on *Chagigah, loc. cit.*, is explaining why there is a difference between the laws concerning forbidden sexual conduct and those involving other matters.
 [^42]: *Sifri, Parshat Bahaaloscha; Shabbat* 130b.
-[^43]: [[Makkot 23#23b|*Makkot* 23b]].
-[^44]: [[Bava Batra 165#165a|*Bava Batra* 165a]].
+[^43]: *Makkot* [[Makkot 23#23b|23b]].
+[^44]: *Bava Batra* [[Bava Batra 165#165a|165a]].
 [^45]: This term refers to remarks concerning a colleague that are not actually *lashon hara*, unfavorable gossip, but which border on that type of speech. See *Hilchot De'ot*, ch. 7, for a more precise discussion of this issue.
-[^46]: See [[Kiddushin 82#82b|*Kiddushin* 82b]] who quotes Rabbi Tarfon and Rabbi Meir as making such statements. It continues, relating that one of his students mocked Rabbi Meir for making such statements. Shortly afterwards, it was discovered that this student committed adultery with his mother-in-law.
+[^46]: See *Kiddushin* [[Kiddushin 82#82b|82b]] who quotes Rabbi Tarfon and Rabbi Meir as making such statements. It continues, relating that one of his students mocked Rabbi Meir for making such statements. Shortly afterwards, it was discovered that this student committed adultery with his mother-in-law.
 [^47]: Our translation is based on the words of Rama (*Even HaEzer* 25:1) and *Chelkat Mechokek* 25:1.
 [^48]: While married, he will have the opportunity for ordinary male-female relationships and will not develop pent up feelings that seek expression in forbidden relations.
-[^49]: [[Kiddushin 30#30b|*Kiddushin* 30b]].
-[^50]: The Torah. See [[Eruvin 54#54b|*Eruvin* 54b]] which explains the analogy in detail.
+[^49]: *Kiddushin* [[Kiddushin 30#30b|30b]].
+[^50]: The Torah. See *Eruvin* [[Eruvin 54#54b|54b]] which explains the analogy in detail.

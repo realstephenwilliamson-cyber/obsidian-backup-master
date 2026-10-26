@@ -20,17 +20,13 @@ nyasa: "upper lip (*oṣṭha*), as au"
 ## Front
 
 - **Glyph:** ◌ौ
-- **Variation:** —
 - **Example:** शौच
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘fl<u>au</u>tist’
-- **Class (as printed):** 1,5 · long, soft · complex vowel
-- **Note (no printed label):** Abbreviation - used only after consonant · Vṛddhi (strongest form) of u/ū (from a+a+u)
-- **Grid:** the vowel signs ा ि ी ु ू / े ै ो ौ / ृ ॄ ॢ; in bold: ौ
-- **Example:** śauca (purity)
+> [!note]- Back
+> - **Pronunciation:** As in ‘fl<u>au</u>tist’
+> - **Class:** long, soft · complex vowel · Vṛddhi (strongest form) of u/ū (from a+a+u)
+> - ा ि ी ु ू / े ै ो <u>ौ</u> / ृ ॄ ॢ
+> - **Example:** śauca (purity)
 
 ## Register
 

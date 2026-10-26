@@ -20,16 +20,13 @@ nyasa: "sinews (*sūtra*)"
 ## Front
 
 - **Glyph:** व
-- **Variation:** —
 - **Example:** वहन
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘<u>v</u>ariety’
-- **Class (as printed):** 5 (labial) · soft · semivowel derived from u + a. · Sometimes pronounced as in <u>w</u>as.
-- **Grid:** two rows, य र ल व and श ष स ह; in bold: व
-- **Example:** vahana (vehicle)
+> [!note]- Back
+> - **Pronunciation:** As in ‘<u>v</u>ariety’
+> - **Class:** labial · soft · semivowel derived from u + a. · Sometimes pronounced as in <u>w</u>as.
+> - य र ल <u>व</u> / श ष स ह
+> - **Example:** vahana (vehicle)
 
 ## Register
 

@@ -29,7 +29,7 @@ mantrasiddhaprāṇasaṃvitkaraṇātmani yā kule || ^iast
 >
 > Then, further in, Mālinī should be worshipped in due order, along with Mātrkā, between the northwest and southeast (quarters of the Mandala). Then, (after that, still further in, he should worship) the inner (triangular) wheel of the Mantras (of the Three Goddesses along with Kuleśvara and Kuleśvarī in the centre). (with 29.45cd–46ab)
 >
-> She who is said to be the powerful (prabhvī) (primary) energy of consciousness (citi) present within Kula, which is the Wheel of mantras, Siddhas, the vital breath (prāṇa)) and the senses, is here Kuleśvarī. She should be worshipped in the centre as the venerable Goddess Parā in the form of Mātrsadbhāva, and as Aparā and Parāparā by attributing (to them) (samāropa) (her status). Again, She can be worshipped alone (ekavīrā) or together with Kuleśvara (Her Lord).’ (with 29.46cd–48)
+> She who is said to be the powerful (prabhvī) (primary) energy of consciousness (citi) present within Kula, which is the Wheel of mantras, Siddhas, the vital breath (prāṇa)) and the senses, is here Kuleśvarī. She should be worshipped in the centre as the venerable Goddess Parā in the form of Mātrsadbhāva, and as Aparā and Parāparā by attributing (to them) (samāropa) (her status). Again, She can be worshipped alone (ekavīrā) or together with Kuleśvara (Her Lord). (with 29.46cd–48)
 
 ## Viveka
 

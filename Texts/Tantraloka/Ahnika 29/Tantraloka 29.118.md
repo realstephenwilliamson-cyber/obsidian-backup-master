@@ -29,7 +29,7 @@ anavacchinnaṃ paramārthato hi rūpaṃ cito devyāḥ |
 >
 > He who desires the unconditioned plane (of being) (pada) should always make that consciousness one with himself. In reality (paramārthatah), the nature of the consciousness of the Goddess is unconditioned. (with 29.117cd–118ab)
 >
-> The fortunate one should enter into the unconditioned Abode of Emission by carefully attending (parikathayā) to the coming into being (bhāva) and falling away (vilaya) of the state of tranquillity and emergence (which, for want of better words, are said to be) ‘like this’ and “like that’. (with 29.118cd–119ab)
+> The fortunate one should enter into the unconditioned Abode of Emission by carefully attending (parikathayā) to the coming into being (bhāva) and falling away (vilaya) of the state of tranquillity and emergence (which, for want of better words, are said to be) ‘like this’ and ‘like that’. (with 29.118cd–119ab)
 
 ## Viveka
 

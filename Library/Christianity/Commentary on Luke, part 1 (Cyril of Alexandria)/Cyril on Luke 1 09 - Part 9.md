@@ -36,7 +36,7 @@ Ps, Ixxxvi.
 
 1%.
 
-Eph. iii. 8.
+[[Ephesians 03#^3-8|Eph. iii. 8]].
 
 confession in some such way as this. For it is written, that “ they shall confess, O Lord, Thy great name; for it is terrible “and holy.” And again, ‘I will confess Thee, O Lord, with “ all my heart, and I will tell all Thy wonders.”
 
@@ -50,9 +50,9 @@ t Olkovopia. The reading of the edd. There is considerably more textus receptus 
 
 *[p. 299]* ^pg323
 
-Saviour was hidden therefore even before the foundations of the world, in the knowledge of the Father. And in like manner we also were foreknown and foreordained to the adoption of sons. And this again the blessed Paul teaches us, thus writing, “Blessed Eph. i. 3. “ be the God and Father of our Lord Jesus Christ, Who has “blessed us with every spiritual blessing in heaven in Christ, “according as He has chosen us in Him before the founda- \* tions of the world, that we should be holy and without blame “ before Him, having foreordained us in love to the adoption “ of sons by Jesus Christ unto Himself.” To us therefore, as unto babes, the Father has revealed the mystery that for ages had been hidden and reserved in silence.
+Saviour was hidden therefore even before the foundations of the world, in the knowledge of the Father. And in like manner we also were foreknown and foreordained to the adoption of sons. And this again the blessed Paul teaches us, thus writing, “Blessed [[Ephesians 01#^1-3|Eph. i. 3]]. “ be the God and Father of our Lord Jesus Christ, Who has “blessed us with every spiritual blessing in heaven in Christ, “according as He has chosen us in Him before the founda- \* tions of the world, that we should be holy and without blame “ before Him, having foreordained us in love to the adoption “ of sons by Jesus Christ unto Himself.” To us therefore, as unto babes, the Father has revealed the mystery that for ages had been hidden and reserved in silence.
 
-And yet multitudes of men have preceded us in the world past numbering, who, as far as words went, were wise, who had a praetised and skilful tongue, and beauty of style, and grandeur of expression, and no mean reputation for wisdom : but as Paul said, ‘‘ They had become empty in their reason- Rom. i. 21. “ings, and their foolish heart was darkened: while professing ‘¢ to be wise, they had made themselves fools, and changed the “glory of the incorruptible God into the likeness of the image “ of corruptible man, and into that of birds, and four-footed \*\* beasts and reptiles. For this cause they were given up to a ‘reprobate mind ;” “and God made the wisdom of this world <sup>1</sup>Cor. i. zo. “ to be folly :” neither did He shew unto them the mystery. And to us too it is written, “ Whosoever seemeth to be wise in <sup>1</sup>Cor. iii. « this world, let him become foolish, in order that he may become sb “ wise: for the wisdom of this world is foolishness with God.” It may truly therefore be affirmed, that he who possesses merely and by itself the wisdom of the world, is foolish and without understanding before God: but that he who seems to be a fool to the wise men of the world, but possesses in his mind and heart the light of the true vision of God, is wise before God. And Paul again confirms this, saying, “ For 1Cor.i. 17. “Christ sent me not to baptize, but to preach: not with \* wisdom of speech, lest the cross of Christ be made ineffectual. “ For the speech of the eross is ‘to them who are perishing \* foolishness ; but to us who are being saved, it is the power “ of God. For it is written, I will destroy the wisdom of the Is xxix.r4. “ wise, and take away the understanding of the prudent.” And to others also he sent, saying, “ For see your ealling, <sup>1</sup>Cor. i. 26. aq2
+And yet multitudes of men have preceded us in the world past numbering, who, as far as words went, were wise, who had a praetised and skilful tongue, and beauty of style, and grandeur of expression, and no mean reputation for wisdom : but as Paul said, ‘‘ They had become empty in their reason- [[Romans 01#^1-21|Rom. i. 21]]. “ings, and their foolish heart was darkened: while professing ‘¢ to be wise, they had made themselves fools, and changed the “glory of the incorruptible God into the likeness of the image “ of corruptible man, and into that of birds, and four-footed \*\* beasts and reptiles. For this cause they were given up to a ‘reprobate mind ;” “and God made the wisdom of this world <sup>1</sup>Cor. i. zo. “ to be folly :” neither did He shew unto them the mystery. And to us too it is written, “ Whosoever seemeth to be wise in <sup>1</sup>Cor. iii. « this world, let him become foolish, in order that he may become sb “ wise: for the wisdom of this world is foolishness with God.” It may truly therefore be affirmed, that he who possesses merely and by itself the wisdom of the world, is foolish and without understanding before God: but that he who seems to be a fool to the wise men of the world, but possesses in his mind and heart the light of the true vision of God, is wise before God. And Paul again confirms this, saying, “ For [[1 Corinthians 01#^1-17|1Cor.i. 17]]. “Christ sent me not to baptize, but to preach: not with \* wisdom of speech, lest the cross of Christ be made ineffectual. “ For the speech of the eross is ‘to them who are perishing \* foolishness ; but to us who are being saved, it is the power “ of God. For it is written, I will destroy the wisdom of the Is xxix.r4. “ wise, and take away the understanding of the prudent.” And to others also he sent, saying, “ For see your ealling, <sup>1</sup>Cor. i. 26. aq2
 
 *[p. 300]* ^pg324
 
@@ -111,7 +111,7 @@ For He was and still is Lord of heaven and earth, and sits with the Father on Hi
 
 *[p. 303]* ^pg327
 
-“our peace,” in that He united us by Himself to God the Father: for He is the door and the way whereby this is done; for He has even plainly said, “No man cometh unto the John xiv.6. “\* Father but by Me.” He then Who of old delivered Israel by the hand of Moses from the tyranny of the Egyptians, and appointed the law to be their schoolmaster, has now called the whole world, and Himself has spread for it the net of the Gospel message, according to the good-will of God the Father. And this then is the reason why He says, “ Every thing has “been delivered unto Me of My Father.”
+“our peace,” in that He united us by Himself to God the Father: for He is the door and the way whereby this is done; for He has even plainly said, “No man cometh unto the [[John 14#^14-6|John xiv.6]]. “\* Father but by Me.” He then Who of old delivered Israel by the hand of Moses from the tyranny of the Egyptians, and appointed the law to be their schoolmaster, has now called the whole world, and Himself has spread for it the net of the Gospel message, according to the good-will of God the Father. And this then is the reason why He says, “ Every thing has “been delivered unto Me of My Father.”
 
 But though we may affirm that these things are thus rightly understood and explained by us, the heretic will not submit to the conditions of the dispensation, but betakes himself, it may be, to his usual audacity, and makes what is said food, so to speak, for the wickedness of his mind; and, forsooth, proceeds to say, ‘Lo! the Father giveth every thing to the Son; but ‘the Son would not have needed to receive any thing, had it ‘been lawful for Him to obtain it of Himself. How, then, is ‘ He equal to the Father, as ye say, when He receives from ‘Him authority over what He did not previously possess ?’ Let us see, therefore, whether in any thing at all He is inferior to the glory and supremacy of the Father, as ye in your folly say.
 
@@ -119,7 +119,7 @@ Now there are many arguments one might use when wishing to defend the doctrines 
 
 *[p. 304]* ^pg328
 
-John xiv. 6.
+[[John 14#^14-6|John xiv. 6]].
 
 drunkards upon unrighteous courses. But if ye believe that He speaketh truth, for “ He is the Truth,” how do ye, while He says that “no one knoweth the Son but the Father only,” venture both to think and say that He is inferior to the Father, as though ye exactly know Who He is? And yet how must not He, Who is known of His Father only, far transcend all understanding and all powers of speech: just as also the Father Himself doth, as being known of His Son only? For the holy and consubstantial Trinity alone knoweth Itself, being far above all speech and understanding. How sayest thou then that He is inferior to the Father, seeing that no one knoweth Who He is but the Father alone Who begat Him ?
 
@@ -133,7 +133,7 @@ TUE GOSPEL OF ST. LUKE. 805
 
 Father is by nature Life, Light, and Wisdom. But the Son also is in like manner the same, as the divinely inspired Scripture everywhere testifies. For He is Light, and Wisdom, and Life. But if \[le be inferior to the Father, then of course He is indebted to Him for it, and that not in one particular only, but in every attribute that appertaineth to His substance. Nor is He perfectly Life; nor Light perfectly ; nor Wisdom perfectly. And if this be true, then there exists in Him something of corruption; something also of darkness; and something also of ignorance. But who will assent to you in thus arguing? For if He be a creature, then, as I said, ye must not compare Him with the Creator and Lord of all. Bring down His place to the level of creation, while ye extol to incomparable supremacy that Nature Which created all, and transcends all. But if He be very God, as sprung from Him Who is very God and Father, perhaps, forsooth, the Father hath begotten one not equal to Himself in nature, and His nature alone hath suffered this, while certainly of all created beings there is not one that hath endured so strange a mischance. For man is born of man, the definitions of his father’s substance existing fully in him; and all the other animals in like manner are regulated by the law of their ovfn nature. And how then can the all-transcending nature of God suffer that which even we do not suffer, nor any other being which has the power of generation ?
 
-Let those, therefore, hear who think scorn of the greatness of the glory of the Son; let those that are drunken awake from their wine; worship with us Him Who is equal in substance with the Father, and crowned with equal praises, and undistinguishable preeminence. ‘“ For to Him every knee shall bow, Phil. ii. 10. “of things in heaven, and things in earth, and things under “ the earth: and every tongue shall confess that Jesus Christ “cis Lord, to the glory of God the Father,’ Amen.
+Let those, therefore, hear who think scorn of the greatness of the glory of the Son; let those that are drunken awake from their wine; worship with us Him Who is equal in substance with the Father, and crowned with equal praises, and undistinguishable preeminence. ‘“ For to Him every knee shall bow, [[Philippians 02#^2-10|Phil. ii. 10]]. “of things in heaven, and things in earth, and things under “ the earth: and every tongue shall confess that Jesus Christ “cis Lord, to the glory of God the Father,’ Amen.
 
 *[p. 306]* ^pg330
 
@@ -169,7 +169,7 @@ and what have they seen? and for what reason did they attain to this blessing ? 
 
 *[p. 309]* ^pg333
 
-And of this too the Word manifested in human form was the first to set us the example: for He also rebuked the impure spirits. But the wretched Jews again vomited forth against Him their envious calumnies; for they said, “ This man casteth Mat.xii.24. “not out devils, but by Beelzebub, the prince of the devils.” But these wicked words of theirs the Lord refuted, saying ; “Tf I by Beelzebub cast out devils, by whom do your sons cast “ them out ? But if I by the Spirit of God cast out devils, then “has the kingdom of God come upon you.” For if I, He says, being a man like unto you, can thus exercise a divine power, this great and excellent blessing has come upon you: for human nature, He says, is ennobled in Me, by trampling down Satan. Upon us, therefore, the kingdom of God has come, by the Word having been made like unto us, and working in the flesh deeds worthy of God.
+And of this too the Word manifested in human form was the first to set us the example: for He also rebuked the impure spirits. But the wretched Jews again vomited forth against Him their envious calumnies; for they said, “ This man casteth [[Matthew 12#^12-24|Mat.xii.24]]. “not out devils, but by Beelzebub, the prince of the devils.” But these wicked words of theirs the Lord refuted, saying ; “Tf I by Beelzebub cast out devils, by whom do your sons cast “ them out ? But if I by the Spirit of God cast out devils, then “has the kingdom of God come upon you.” For if I, He says, being a man like unto you, can thus exercise a divine power, this great and excellent blessing has come upon you: for human nature, He says, is ennobled in Me, by trampling down Satan. Upon us, therefore, the kingdom of God has come, by the Word having been made like unto us, and working in the flesh deeds worthy of God.
 
 He also gave the holy Apostles power and might even to raise the dead, and cleanse lepers; and heal the sick, and to call down upon whomsoever they would the Holy Ghost from heaven by the laying on of hands. He gave them power to bind and to lose men’s sins; for His words are, “1 say unto Mat. xviii. “you, Whatsoever ye shall bind on earth, shall be bound in '\* “heaven: and whatsoever ye shall lose on earth, shall be “loosed in heaven.” Such are the things of which we see ourselyes possessed: and blessed are our eyes, and those of all who love Him. We have heard His ineffable teaching: He has given us the knowledge of God the Father: He has shewn Him to us in His own nature. The things that were by Moses were but types and symbols: Christ has revealed the truth to us. He has taught us that not by blood and smoke, but rather by spiritual sacrifices, we must honour Him Who is incorporeal and immaterial, and above all understanding. Many holy prophets desired to see these things; yea, and many kings: for we find them at one time saying, “ Shew me Thy mercy, O Ps. Ixxsv. “ Lord: and, O Lord, grant us Thy salvation.’”’ For they call ” the Son Mercy and Salvation. At another time again ; “ Re- Ps. evi. 4. “ member me, O Lord, with the favour of Thy people: and “visit me with Thy Salvation: that we may behold the happi- “ ness of Thy chosen, and rejoice in gladness with Thy people.” And who the people are, that are chosen in Christ by God the
 
@@ -285,7 +285,7 @@ om. ody S,
 
 dAlywv 8é xpela early } évés BS. évds 5€é éotiv xpela GTs.
 
-Heb. xiii. 2.
+[[Hebrews 13#^13-2|Heb. xiii. 2]].
 
 *[p. 318]* ^pg342
 
@@ -347,7 +347,7 @@ John xvi.
 
 John i, 16.
 
-Matt. vi. 5.
+[[Matthew 06#^6-5|Matt. vi. 5]].
 
 to the creation all those things by means of which it flourishes and is kept in being; and Himself is absolutely in need of nothing: for He is “full,” as He said Himself. ‘ Of what ‘then, some one asks, ‘is He in need, Who by right of nature ‘possesses all that belongeth to the Father? For He said ‘ plainly, “ All that the Father hath is mine.” But it is the ‘property of the Father to be full of all good, and of such ‘ prerogatives as befit Deity: and this too belongs to the Son. ‘ And knowing this the saints say, “ Of His fulness have all we ‘ yeceived.” But if He give as from His own godlike ful- ‘ness, of what, can one say that He is in need, or what does He ‘want to receive from the Eather, as though He had it not ‘already? And for what, forsooth, does Ie pray, if He be full, ‘and needeth nothing that is the Father's!”
 
@@ -363,7 +363,7 @@ In order therefore that we, withdrawing far from these disgraceful ways, and esc
 
 *[p. 324]* ^pg348
 
-James i.17.
+[[James 01#^1-17|James i.17]].
 
 prayers of the dwellers upon earth, and of the spirits that are above, and crowned by them with praises. For He ceased not to be God by becoming like unto us, but continued even so to be whatsoever He had been. For it became Him to be that which He had been, since He is unchangeable, and, as Serip-ture declares, not subject even to a “shadow of turning.”
 
@@ -375,7 +375,7 @@ SERMON LXXI.
 
 Upon, “ Our Father, Who arty in heaven.” C. xi. 2.
 
-OUR Lord Jesus Christ counted the insatiate desire of learning as worthy of all praise, thus saying: “ Blessed are Mat. v.6. “they that hunger and thirst after righteousness, for they “ shall be satisfied.” For it is right constantly to hunger and thirst after those things, by means of which a man becomes a warm lover of saintly glories, and earnest in every good work. And to all who are thus minded, Christ reveals the way by which they can accomplish their desire. But serviceable is it above all things besides for the religious unto salvation, that they know how to pray, and offer not supplications displeasing to Almighty God. For as the wise Paul wrote to us, “‘ We know Rom. viii. “not what to pray for as we ought.” Let us therefore draw oe near unto Christ, the Giver of wisdom, and say, “ Teach us to Luke xi.1. “ pray.” Let us be like the holy apostles, who above all other things asked of Him this profitable and saving lesson.
+OUR Lord Jesus Christ counted the insatiate desire of learning as worthy of all praise, thus saying: “ Blessed are [[Matthew 05#^5-6|Mat. v.6]]. “they that hunger and thirst after righteousness, for they “ shall be satisfied.” For it is right constantly to hunger and thirst after those things, by means of which a man becomes a warm lover of saintly glories, and earnest in every good work. And to all who are thus minded, Christ reveals the way by which they can accomplish their desire. But serviceable is it above all things besides for the religious unto salvation, that they know how to pray, and offer not supplications displeasing to Almighty God. For as the wise Paul wrote to us, “‘ We know Rom. viii. “not what to pray for as we ought.” Let us therefore draw oe near unto Christ, the Giver of wisdom, and say, “ Teach us to Luke xi.1. “ pray.” Let us be like the holy apostles, who above all other things asked of Him this profitable and saving lesson.
 
 Now at our last meeting we heard the gospel read, which says of Christ, the Saviour of us all, that “it came to pass, that “as He was in a certain place praying by Himself.” And we addressed you, explaining as well as we could the dispensation, by reason of which Christ prayed: and when we had carried our argument to this point, we reserved the rest for some fitting occasion. This has now arrived, and is present. Let us then proceed to what follows; for the Saviour said, “ When ~ “ve pray, say, Our Father.” And another of the holy evangelists adds, “ who art in heaven.” Mat. vi. g.
 
@@ -392,15 +392,15 @@ Ps, Ixxxii.
 
 John i. rr.
 
-1 Pet. i. 23.
+[[1 Peter 01#^1-23|1 Pet. i. 23]].
 
-James i. 18.
+[[James 01#^1-18|James i. 18]].
 
 of the Psalmist: “I said, Ye are gods: and all of you children “ of the Most High.” For lo! He resenes us from the ineasure of slavery, bestowing upon us by His grace that which by nature we possessed not: and permits us to eall God Father, as being admitted to the rank of sons. Of Him have we received this, together with all our other privileges: and the wise John the Evangelist witnesses thereto, thus writing of Him: “ He came to His own, and His own received Him not: \* but to all who received Him He gave power to become the “sons of God, even to those who believe in His Name: who “ were born, not of blood, nor of the will of the flesh, nor of “ the will of man, but of God.’ For we have been fashioned unto the sonship by that birth which is spiritually wrought in us, “not by corruptible seed, but rather by the living and “abiding Word of God,” as Scripture says. © By willing it “< He begat us by the Word of trath, that we might be a kind
 
-John iii. 5.
+[[John 03#^3-5|John iii. 5]].
 
-Phil. ii. 7.
+[[Philippians 02#^2-7|Phil. ii. 7]].
 
 Ps.cxix.gr.
 
@@ -461,7 +461,7 @@ For observe how Christ watereth us with rich streams of spiritual blessings. For
 
 Z \[N.u4 is not a river, but a torrent flowing after rain; whence comes its other signification of a valley, (the only one noticed by Castellus,) as the bed of such streams was often of considerable breadth, and cultivated in the dry season: cf. Deut. xxi. 4. (7me dm)
 
-translated in the A.V. a rough valley, but really a constantly-flowing stream, the bed therefore of which could not be cultivated.) These torrent beds are what in India are called ‘ nallahs:”? and as generally being rough and precipitous, the word is used by the Syriac translator to represent ddpayé in Luke iii. 5.
+translated in the A.V. a rough valley, but really a constantly-flowing stream, the bed therefore of which could not be cultivated.) These torrent beds are what in India are called ‘ nallahs:”? and as generally being rough and precipitous, the word is used by the Syriac translator to represent ddpayé in [[Luke 03#^3-5|Luke iii. 5]].
 
 uu C, xi. 2.
 
@@ -469,7 +469,7 @@ uu C, xi. 2.
 
 Is. i. rr.
 
-Heb. vii. 7.
+[[Hebrews 07#^7-7|Heb. vii. 7]].
 
 Lev. xi. 44.
 
@@ -493,7 +493,7 @@ stand henee. One of the holy prophets said, “ Hallow the Is. viii. 13. “ Lor
 
 *[p. 332]* ^pg356
 
-1 Cor. iv.7,
+[[1 Corinthians 04#^4-7|1 Cor. iv.7]],
 
 Is. xlix. 7.
 
@@ -519,7 +519,7 @@ Mat. xvi.
 
 27\.
 
-2Cor. v.10.
+[[2 Corinthians 05#^5-10|2Cor. v.10]].
 
 Amos v.18.
 
@@ -531,7 +531,7 @@ f Aquinas, who has preserved cc. xxv. xxvi., however, does affirm this passage, 
 
 *[p. 335]* ^pg359
 
-The saints, therefore, ask that the time of the Saviour's perfect reign may come, because they have laboured dutifully, and have a pure conscience, and look for the requital of what they have already wrought. For just as those who are expecting a festival and merriment about forthwith to come, and shortly to appear, thirst for its arrival, so also do they. For they trust that they shall stand glorious in the presence of the Judge, and hear Him say: ‘“ Come, ye blessed of My Mat. xxv. “Father, inherit the kingdom prepared for you from the \*+ “ foundations of the world.’ They were wise and zealous stewards, when their Lord set them over His household, to give them their meat in its season. Well and wisely did they distribute to their fellow servants those things by the receiving of which they had themselves before been made rich ; for they remembered Him Who said: “Freely ye have received, freely Mat. x. 8. “give.” When they received of Him the talent, they did not bury it in the earth. They were not like that slothful, and indolent, and careless servant, who drew near, saying, “ Lord, Mat. xxv. “I knew Thee that Thou art a hard man; reaping where \*\* “ Thou sowedst not, and gathering whence thou scatteredst not : “and I was afraid, and hid the talent. Behold! Thou hast “Thine own.” They, on the contrary, traded: and so they brought it greatly multiplied, saying, “ Lord, Thy pound hath a xix, “ made ten pounds,”’ and were admitted to yet further honours =~ They possessed an active, and right hearty, and courageous disposition ; they had put on the panoply of God ; the breast- Eph. vi. 13. plate of righteousness ; the helmet of salvation; had taken the Spirit’s sword: It did not escape them that they had a war, not against blood and flesh, but against magistracies, against powers, against the world-rulers of this darkness, against the spirits of wickedness in the heavenly regions. For many wove for themselves crowns of martyrdom, and by enduring conflicts, even unto life and blood, were made “a spectacle to <sup>1</sup>Cor. iv. 9. “the world, and to angels, and to men,” and were accounted worthy of all admiration. There were others who endured labours and persecutions, eagerly contending for His glory. “ Cruel wolves sprang in upon Christ’s flocks, not sparing the Actsxx.29. “ flock,” as the divine Paul declares. “ Deceitful workers ;” 2Cor. xi.13. “false apostles,” vomiting forth the gall of the malice of the devil, and “speaking perverse things,” such as lead ignorant souls Actsxx.3o.
+The saints, therefore, ask that the time of the Saviour's perfect reign may come, because they have laboured dutifully, and have a pure conscience, and look for the requital of what they have already wrought. For just as those who are expecting a festival and merriment about forthwith to come, and shortly to appear, thirst for its arrival, so also do they. For they trust that they shall stand glorious in the presence of the Judge, and hear Him say: ‘“ Come, ye blessed of My Mat. xxv. “Father, inherit the kingdom prepared for you from the \*+ “ foundations of the world.’ They were wise and zealous stewards, when their Lord set them over His household, to give them their meat in its season. Well and wisely did they distribute to their fellow servants those things by the receiving of which they had themselves before been made rich ; for they remembered Him Who said: “Freely ye have received, freely [[Matthew 10#^10-8|Mat. x. 8]]. “give.” When they received of Him the talent, they did not bury it in the earth. They were not like that slothful, and indolent, and careless servant, who drew near, saying, “ Lord, Mat. xxv. “I knew Thee that Thou art a hard man; reaping where \*\* “ Thou sowedst not, and gathering whence thou scatteredst not : “and I was afraid, and hid the talent. Behold! Thou hast “Thine own.” They, on the contrary, traded: and so they brought it greatly multiplied, saying, “ Lord, Thy pound hath a xix, “ made ten pounds,”’ and were admitted to yet further honours =~ They possessed an active, and right hearty, and courageous disposition ; they had put on the panoply of God ; the breast- [[Ephesians 06#^6-13|Eph. vi. 13]]. plate of righteousness ; the helmet of salvation; had taken the Spirit’s sword: It did not escape them that they had a war, not against blood and flesh, but against magistracies, against powers, against the world-rulers of this darkness, against the spirits of wickedness in the heavenly regions. For many wove for themselves crowns of martyrdom, and by enduring conflicts, even unto life and blood, were made “a spectacle to <sup>1</sup>Cor. iv. 9. “the world, and to angels, and to men,” and were accounted worthy of all admiration. There were others who endured labours and persecutions, eagerly contending for His glory. “ Cruel wolves sprang in upon Christ’s flocks, not sparing the Actsxx.29. “ flock,” as the divine Paul declares. “ Deceitful workers ;” [[2 Corinthians 11#^11-13|2Cor. xi.13]]. “false apostles,” vomiting forth the gall of the malice of the devil, and “speaking perverse things,” such as lead ignorant souls Actsxx.3o.
 
 *[p. 336]* ^pg360
 

@@ -30,7 +30,7 @@ aliases:
 >
 > Next, in order to perform the fire sacrifice (agnikārya), (the sacrificer) should prepare the pit (kuṇḍa). (This is) not the usual (hearth for daily use) (apūrva); (rather,) it is generated from the intention (to perform the rite and attain its fruit,) and the (inner) discourse (saṁjalpa) of pure Mantras etc. (with 15.388cd–389ab)
 >
-> The supreme (empowering) purification (saṁskāra) (of the hearth takes place) even without other (external) rites (kriyākrama), just by reflecting (bhāvanāt) that the hearth (kunda) is Śiva’s power of action. (with 15.389cd–390ab)
+> The supreme (empowering) purification (saṁskāra) (of the hearth takes place) even without other (external) rites (kriyākrama), just by reflecting (bhāvanāt) that the hearth (kuṇḍa) is Śiva’s power of action. (with 15.389cd–390ab)
 
 ## Viveka
 

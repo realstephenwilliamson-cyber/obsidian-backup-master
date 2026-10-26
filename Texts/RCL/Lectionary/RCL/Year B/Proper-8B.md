@@ -11,6 +11,7 @@ second_reading: "2 Corinthians 8:7-15"
 gospel: "Mark 5:21-43"
 first_reading_complementary: "Wisdom of Solomon 1:13-15, 2:23-24 or Lamentations 3:22-33"
 psalm_complementary: "Psalm 30"
+psalm_bcp_complementary: "Psalm 30"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-8]]"
 cssclasses:

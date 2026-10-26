@@ -11,6 +11,7 @@ second_reading: "1 Thessalonians 5:1-11"
 gospel: "Matthew 25:14-30"
 first_reading_complementary: "Zephaniah 1:7, 12-18"
 psalm_complementary: "Psalm 90:1-8, (9-11), 12"
+psalm_bcp_complementary: "Psalm 90:1-8, (9-11), 12"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-28]]"
 cssclasses:

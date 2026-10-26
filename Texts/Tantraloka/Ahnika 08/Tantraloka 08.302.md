@@ -33,7 +33,7 @@ kramāttattattvamāyānti yatreśo'nanta ucyate || ^iast
 >
 > Those who observe the Vow of the Skull, offer their own limbs to the fire, practice severe austerities, fear nothing, and observe the Vow of the Blade of the Sword know that (reality) principle (tattva). (with 8.301cd–302ab)
 >
-> Gradually they reach that principle where the Lord is said to be Ananta.’ (with 8.302cd)
+> Gradually they reach that principle where the Lord is said to be Ananta. (with 8.302cd)
 
 ## Viveka
 

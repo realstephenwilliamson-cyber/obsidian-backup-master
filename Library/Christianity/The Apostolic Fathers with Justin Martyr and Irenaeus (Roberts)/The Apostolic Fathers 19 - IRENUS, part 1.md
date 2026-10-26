@@ -42,11 +42,11 @@ That the intolerable absurdities of Gnosticism should have gained so many discip
 
 The Episcopate of Irenæus was distinguished by labours, “in season and out of season,” for the evangelization of Southern Gaul; and he seems to have sent missionaries into other regions of what we now call France. In spite of Paganism and heresy, he rendered Lyons a Christian city; and
 
-1 Cor. xi. 19.
+[[1 Corinthians 11#^11-19|1 Cor. xi. 19]].
 
 2651
 
-2 Tim. ii. 24, 25, 26.
+[[2 Timothy 02#^2-24|2 Tim. ii. 24]], [[2 Timothy 02#^2-25|25]], [[2 Timothy 02#^2-26|26]].
 
 *[p. 510]* ^pg550
 
@@ -114,7 +114,7 @@ As has been already stated, the first printed copy of our author was given to th
 
 The Greek original of the work of Irenæus is from time to time recovered through the numerous quotations made from
 
-265\. 5 it by subsequent writers, especially by the author’s pupil Hippolytus, and by Epiphanius. The latter preserves (*Hær.* xxxi. secs. 9–32) the preface of Irenæus, and most of the first book. An important difference of reading occurs between the Latin and Greek in the very first word. The translator manifestly read ἐπεί, *quatenus*, while in Epiphanius we find ἐπί, *against*. The former is probably correct, and has been followed in our version. We have also supplied a clause, in order to avoid the extreme length of the sentence in the original, which runs on without any apodosis to the words ἀναγκαῖον ἡγησάμην, “I have judged it necessary.” 1 Tim. i. 4. The Latin has here *genealogias infinitas*, “endless genealogies,” as in *textus receptus* of New Testament. 2656 As will be seen by and by, this fancied being was, in the Valentinian system, the creator of the material universe, but far 2657 inferior to the supreme ruler Bythus. There are frequent references to Irenæus to some venerable men who had preceded him in the Church. It is supposed that 2658 Pothinus, whom he succeeded at Lyons, is generally meant; but the reference may sometimes be to Polycarp, with whom in early life he had been acquainted. \[On this matter of quotations from anonymous authors of the apostolic times, not infrequently made by Irenæus, consult the important tractate of Dr. Routh, in his *Reliquiæ Sacræ*, vol. i. 45–68.\] Comp. Matt. vii. 15.
+265\. 5 it by subsequent writers, especially by the author’s pupil Hippolytus, and by Epiphanius. The latter preserves (*Hær.* xxxi. secs. 9–32) the preface of Irenæus, and most of the first book. An important difference of reading occurs between the Latin and Greek in the very first word. The translator manifestly read ἐπεί, *quatenus*, while in Epiphanius we find ἐπί, *against*. The former is probably correct, and has been followed in our version. We have also supplied a clause, in order to avoid the extreme length of the sentence in the original, which runs on without any apodosis to the words ἀναγκαῖον ἡγησάμην, “I have judged it necessary.” [[1 Timothy 01#^1-4|1 Tim. i. 4]]. The Latin has here *genealogias infinitas*, “endless genealogies,” as in *textus receptus* of New Testament. 2656 As will be seen by and by, this fancied being was, in the Valentinian system, the creator of the material universe, but far 2657 inferior to the supreme ruler Bythus. There are frequent references to Irenæus to some venerable men who had preceded him in the Church. It is supposed that 2658 Pothinus, whom he succeeded at Lyons, is generally meant; but the reference may sometimes be to Polycarp, with whom in early life he had been acquainted. \[On this matter of quotations from anonymous authors of the apostolic times, not infrequently made by Irenæus, consult the important tractate of Dr. Routh, in his *Reliquiæ Sacræ*, vol. i. 45–68.\] Comp. [[Matthew 07#^7-15|Matt. vii. 15]].
 
 
 *[p. 515]* ^pg555
@@ -129,7 +129,7 @@ The original is ἐγκέφαλον ἐξεπτύκασιν, which the Latin tra
 
 probably followed a somewhat different reading. Various emendations have been proposed, but the author may be understood by the ordinary text to be referring ironically to the boasted subtlety and sublimity of the Gnostics.
 
-Matt. x. 26.
+[[Matthew 10#^10-26|Matt. x. 26]].
 
 2661
 
@@ -175,11 +175,11 @@ It may be well to give here the English equivalents of the names of these Æons 
 
 Bythus, *Profundity*; Proarche, *First-Beginning*; Propator, *First-Father*; Ennœa, *Idea*; Charis, *Grace*; Sige, *Silence*; Nous, *Intelligence*; Aletheia, *Truth*; Logos, *Word*; Zoe, *Life*; Anthropos, *Man*; Ecclesia, *Church*; Bythius, *Deep*; Mixis, *Mingling*; Ageratos, *Undecaying*; Henosis, *Union*; Autophyes, *Self-existent*; Hedone, *Pleasure*; Acinetos, *Immoveable*; Syncrasis, *Blending*; Monogenes, *Only-Begotten*; Macaria, *Happiness*; Paracletus, *Advocate*; Pistis, *Faith*; Patricos, *Ancestral*; Elpis, *Hope*; Metricos, *Metrical*; Agape, *Love*; Ainos, *Praise*; Synesis, *Understanding*; Ecclesiasticus, *Ecclesiastical*; Macariotes, *Felicity*; Theletos, *Desiderated*; Sophia, *Wisdom*.
 
-Luke iii. 23.
+[[Luke 03#^3-23|Luke iii. 23]].
 
 2667
 
-Matt. xx. 1–16.
+[[Matthew 20#^20-1|Matt. xx. 1–16]].
 
 2668
 
@@ -261,7 +261,7 @@ Harvey remarks, “Even in their Christology the Valentinians must have their pa
 
 2684
 
-Or, “to all the generations of the ages of the age.” See Eph. iii. 21. The apostle, of course, simply uses these words as a 2685
+Or, “to all the generations of the ages of the age.” See [[Ephesians 03#^3-21|Eph. iii. 21]]. The apostle, of course, simply uses these words as a 2685
 
 strong expression to denote “for ever.”
 
@@ -269,15 +269,15 @@ Literally, “at the thanksgiving,” or “eucharist.” Massuet, the Benedicti
 
 hence concludes that some of the ancient liturgies still extant must even then have been in use. Harvey and others, however, deny that there is any necessity for supposing the Holy Eucharist to be referred to; the ancient Latin version translates in the plural, “in gratiarum actionibus.”
 
-Luke ii. 42.
+[[Luke 02#^2-42|Luke ii. 42]].
 
 2687
 
-Luke vi. 13.
+[[Luke 06#^6-13|Luke vi. 13]].
 
 2688
 
-This opinion is in positive contradiction to the *forty days* mentioned by St. Luke (Acts i. 3). But the Valentinians seem 2689
+This opinion is in positive contradiction to the *forty days* mentioned by St. Luke ([[Acts 01#^1-3|Acts i. 3]]). But the Valentinians seem 2689
 
 to have followed a spurious writing of their own called “The Gospel of Truth.” See iii. 11, 8.
 
@@ -291,7 +291,7 @@ same reason, they tell us the Saviour said, “One *Iota*, or one tittle, shall 
 
 4\. They moreover affirm that the Saviour<sup>2695</sup> is shown to be derived from all the Æons, and to be in Himself *everything* by the following passage: “Every male that openeth the womb.”<sup>2696</sup> For He, being everything, opened the womb<sup>2697</sup> of the enthymesis of the suffering Æon, when it had been expelled from the Pleroma. This they also style the second Ogdoad, of which we shall speak presently. And they state that it was clearly on this account that Paul said, “And He Himself is all things;”<sup>2698</sup> and again, “All things are to Him, and of Him are all things;”<sup>2699</sup> and further, “In Him
 
-320 Matt. v. 18. 2691 Mark v. 31. 2692 The Latin reads “filii,” which we have followed. Reference is made in this word to Nous, who was, as we have already 2693 seen, also called *Son*, and who interested himself in the recovery of Sophia. Aletheia was his consort, and was typified by the hem of the Saviour’s garment. Her individuality (μορφή) would have been lost, while her substance (οὐσία) would have survived in the common essence 2694 of the Æons. That is, the “second Christ” referred to above, sec. 1. \[It is much to be wished that this *second* were always distinguished 2695 by the untranslated name *Soter*.\] Ex. xiii. 2; Luke ii. 23. 2696 Not as being born of it, but as fecundating it, and so producing a manifold offspring. See below. 2697 Col. iii. 11. 2698
+320 [[Matthew 05#^5-18|Matt. v. 18]]. 2691 [[Mark 05#^5-31|Mark v. 31]]. 2692 The Latin reads “filii,” which we have followed. Reference is made in this word to Nous, who was, as we have already 2693 seen, also called *Son*, and who interested himself in the recovery of Sophia. Aletheia was his consort, and was typified by the hem of the Saviour’s garment. Her individuality (μορφή) would have been lost, while her substance (οὐσία) would have survived in the common essence 2694 of the Æons. That is, the “second Christ” referred to above, sec. 1. \[It is much to be wished that this *second* were always distinguished 2695 by the untranslated name *Soter*.\] Ex. xiii. 2; [[Luke 02#^2-23|Luke ii. 23]]. 2696 Not as being born of it, but as fecundating it, and so producing a manifold offspring. See below. 2697 [[Colossians 03#^3-11|Col. iii. 11]]. 2698
 
 *[p. 523]* ^pg563
 
@@ -301,7 +301,7 @@ dwelleth all the fulness of the Godhead;”<sup>2700</sup> and yet again, “All
 
 6\. Such, then, is the account which they all give of their Pleroma, and of the formation<sup>2709</sup> of the universe, striving, as they do, to adapt the good words of revelation to their own wicked inventions. And it is not only from the writings of the evangelists and the apostles that they endeavour to derive proofs for their opinions by means of perverse interpretations and deceitful expositions: they deal in the same way with the law and the prophets, which contain many parables and allegories that can frequently be drawn into various senses, according to the kind of exegesis to which they
 
-Col. ii. 9. 2700 Eph. i. 10. 2701 Luke xiv. 27. It will be observed that the quotations of Scripture made by Irenæus often vary somewhat from the received 2702 text. This may be due to various reasons—his quoting from memory; his giving the texts in the form in which they were quoted by the heretics; or, as Harvey conjectures, from his having been more familiar with a Syriac version of the New Testament than with the Greek original. Matt. x. 21. 2703 Matt. x. 34. 2704 Luke iii. 17. 2705 Hence Stauros was called by the agricultural name Carpistes, as separating what was gross and material from the spiritual 2706 and heavenly. 1 Cor. i. 18. 2707 Gal. vi. 14. The words ἐν μηδενί do not occur in the Greek text. 2708 Billius renders, “of their opinion.”
+[[Colossians 02#^2-9|Col. ii. 9]]. 2700 [[Ephesians 01#^1-10|Eph. i. 10]]. 2701 [[Luke 14#^14-27|Luke xiv. 27]]. It will be observed that the quotations of Scripture made by Irenæus often vary somewhat from the received 2702 text. This may be due to various reasons—his quoting from memory; his giving the texts in the form in which they were quoted by the heretics; or, as Harvey conjectures, from his having been more familiar with a Syriac version of the New Testament than with the Greek original. [[Matthew 10#^10-21|Matt. x. 21]]. 2703 [[Matthew 10#^10-34|Matt. x. 34]]. 2704 [[Luke 03#^3-17|Luke iii. 17]]. 2705 Hence Stauros was called by the agricultural name Carpistes, as separating what was gross and material from the spiritual 2706 and heavenly. [[1 Corinthians 01#^1-18|1 Cor. i. 18]]. 2707 [[Galatians 06#^6-14|Gal. vi. 14]]. The words ἐν μηδενί do not occur in the Greek text. 2708 Billius renders, “of their opinion.”
 
 *[p. 524]* ^pg564
 
@@ -337,7 +337,7 @@ waters which are salt are alone those which are derived from her tears. But it i
 
 5\. They go on to state that, when the mother Achamoth had passed through all sorts of passion, and had with difficulty escaped from them, she turned herself to supplicate the light which had forsaken her, that is, Christ. He, however, having returned to the Pleroma, and being probably unwilling again to descend from it, sent forth to her the Paraclete, that is, the Saviour.<sup>2720</sup> This being was endowed with all power by the Father, who placed everything under his authority, the Æons<sup>2721</sup> doing so likewise, so that “by him were all things, visible and invisible, created, thrones, divinities, dominions.”<sup>2722</sup> He then was sent to her along with his contemporary angels. And they related that Achamoth, filled with reverence, at first veiled herself through modesty, but that by and by, when she had looked upon him with all his endowments, and had acquired strength from his appearance, she ran forward to meet him. He then imparted to her form as respected intelligence, and brought healing to her passions, separating them from her, but not so as to drive them out of thought altogether. For it was not possible that they should be annihilated as in the former case,<sup>2723</sup> because they had already taken root and acquired strength \[so as to possess an indestructible existence\]. All that he could do was to separate them and set them apart, and then commingle and condense them, so as to transmute them from incorporeal passion into unorganized matter.<sup>2724</sup> He then by this process conferred upon them a fitness and a nature to become concretions and corporeal structures, in order that two substances should be formed,—the one evil, resulting from the passions, and the other subject indeed to suffering, but originating from her conversion. And on this account (i.e., on account of this hypostatizing of ideal matter) they say that the Saviour virtually<sup>2725</sup> created the world. But when Achamoth was freed from her passion, she gazed with rapture on the dazzling vision of the angels that were with him; and in her ecstasy, conceiving by them, they tell us that she brought
 
-322 “Jesus, or Soter, was also called the Paraclete in the sense of Advocate, or one acting as the representative of 2720 others.”—Harvey. Both the Father and the other Æons constituting Soter an impersonation of the entire Pleroma. 2721 Col. i. 16. 2722 That is, as in the case of her mother Sophia, who is sometimes called “the Sophia above,” Achamoth being “the Sophia 2723 below,” or “the second Sophia.” Thus Harvey renders ἀσώματον ὕλην: so Baur, *Chr. Gnos.*, as quoted by Stieren. Billius proposes to read ἐνσώματον, 2724 *corporeal*. Though not actually, for that was the work of the Demiurge. See next chapter.
+322 “Jesus, or Soter, was also called the Paraclete in the sense of Advocate, or one acting as the representative of 2720 others.”—Harvey. Both the Father and the other Æons constituting Soter an impersonation of the entire Pleroma. 2721 [[Colossians 01#^1-16|Col. i. 16]]. 2722 That is, as in the case of her mother Sophia, who is sometimes called “the Sophia above,” Achamoth being “the Sophia 2723 below,” or “the second Sophia.” Thus Harvey renders ἀσώματον ὕλην: so Baur, *Chr. Gnos.*, as quoted by Stieren. Billius proposes to read ἐνσώματον, 2724 *corporeal*. Though not actually, for that was the work of the Demiurge. See next chapter.
 
 *[p. 527]* ^pg567
 
@@ -411,7 +411,7 @@ be “the salt”<sup>2734</sup> and “the light of the world.” For the anima
 
 3\. Wherefore also it comes to pass, that the “most perfect” among them addict themselves without fear to all those kinds of forbidden deeds of which the Scriptures assure us that “they who
 
-Matt. v. 13, 14.
+[[Matthew 05#^5-13|Matt. v. 13]], [[Matthew 05#^5-14|14]].
 
 2734
 
@@ -421,7 +421,7 @@ Matt. v. 13, 14.
 
 His body was *animal*, but not *material*, and only visible and tangible as having been formed κατ’ οἰκονομίαν and κατεσκευασμένον ἀῤῥήτῳ τέχνῃ.”
 
-\[That is, *carnal*; men of the carnal mind, *psychic* instead of *pneumatic*. Rom. viii. 6.\]
+\[That is, *carnal*; men of the carnal mind, *psychic* instead of *pneumatic*. [[Romans 08#^8-6|Rom. viii. 6]].\]
 
 2736
 
@@ -433,7 +433,7 @@ do such things shall not inherit the kingdom of God.”<sup>2738</sup> For insta
 
 4\. And committing many other abominations and impieties, they run us down (who from the fear of God guard against sinning even in thought or word) as utterly contemptible and ignorant persons, while they highly exalt themselves, and claim to be perfect, and the elect seed. For they declare that we simply receive grace for use, wherefore also it will again be taken away from us; but that they themselves have grace as their own special possession, which has descended from above by means of an unspeakable and indescribable conjunction; and on this account more will be given them.<sup>2739</sup> They maintain, therefore, that in every way it is always necessary for them to practise the mystery of conjunction. And that they may persuade the thoughtless to believe this, they are in the habit of using these very words, “Whosoever being *in* this world does not so love a woman as to obtain possession of her, is not of the truth, nor shall attain to the truth. But whosoever being *of*<sup>2740</sup> this world has intercourse with woman, shall not attain to the truth, because he has so acted under the power of concupiscence.” On this account, they tell us that it is necessary for us whom they call *animal* men, and describe as being *of* the world, to practise continence and good works, that by this means we may attain at length to the intermediate habitation, but that to them who are called “the spiritual and perfect” such a course of conduct is not at all necessary. For it is not conduct of any kind which leads into the Pleroma, but the seed sent forth thence in a feeble, immature state, and here brought to perfection.
 
-325 Gal. v. 21. 2738 Comp. Luke xix. 26. 2739 Comp. John xvii. 16. The Valentinians, while *in the world*, claimed to be not *of the world*, as animal men were.
+325 [[Galatians 05#^5-21|Gal. v. 21]]. 2738 Comp. [[Luke 19#^19-26|Luke xix. 26]]. 2739 Comp. [[John 17#^17-16|John xvii. 16]]. The Valentinians, while *in the world*, claimed to be not *of the world*, as animal men were.
 
 *[p. 532]* ^pg572
 
@@ -481,7 +481,7 @@ Such appears to be the meaning of this sentence, but the original is very obscur
 
 the animal, and the material classes of men, and to imply that the Demiurge supposed some prophecies to be due to one of these classes, and some to the others.
 
-Matt. viii. 9; Luke vii. 8.
+[[Matthew 08#^8-9|Matt. viii. 9]]; [[Luke 07#^7-8|Luke vii. 8]].
 
 *[p. 534]* ^pg574
 
@@ -509,31 +509,31 @@ of that disturbance which had risen among the Æons. They maintain, further, tha
 
 3\. And they teach that He pointed out the three kinds of men as follows: the *material*, when He said to him that asked Him, “Shall I follow Thee?”<sup>2758</sup> “The Son of man hath not where to lay His head;”— the *animal*, when He said to him that declared, “I will follow Thee, but suffer me first to bid them farewell that are in my house,” “No man, putting his hand to the plough, and looking
 
-Luke viii. 41.
+[[Luke 08#^8-41|Luke viii. 41]].
 
 2751
 
-1 Cor. xv. 8.
+[[1 Corinthians 15#^15-8|1 Cor. xv. 8]].
 
 2752
 
-1 Cor. xi. 10. Irenæus here reads κάλυμμα, *veil*, instead of ἐξουσίαν, *power*, as in the received text. \[An interesting fact, 2753
+[[1 Corinthians 11#^11-10|1 Cor. xi. 10]]. Irenæus here reads κάλυμμα, *veil*, instead of ἐξουσίαν, *power*, as in the received text. \[An interesting fact, 2753
 
 as it betokens an old gloss, which may have slipped into the text of some ancient mss.\]
 
-Matt. xxvii. 46.
+[[Matthew 27#^27-46|Matt. xxvii. 46]].
 
 2754
 
-Matt. xxvi. 38.
+[[Matthew 26#^26-38|Matt. xxvi. 38]].
 
 2755
 
-Matt. xxvi. 39.
+[[Matthew 26#^26-39|Matt. xxvi. 39]].
 
 2756
 
-John xii. 27. The Valentinians seem, for their own purposes, to have added οὐκ οἶδα to this text.
+[[John 12#^12-27|John xii. 27]]. The Valentinians seem, for their own purposes, to have added οὐκ οἶδα to this text.
 
 2757
 
@@ -543,7 +543,7 @@ back, is fit for the kingdom of heaven”<sup>2759</sup> (for this man they decl
 
 4\. Moreover, that Achamoth wandered beyond the Pleroma, and received form from Christ, and was sought after by the Saviour, they declare that He indicated when He said, that He had come after that sheep which was gone astray.<sup>2766</sup> For they explain the wandering sheep to mean their mother, by whom they represent the Church as having been sown. The wandering itself denotes her stay outside of the Pleroma in a state of varied passion, from which they maintain that matter derived its origin. The woman, again, who sweeps the house and finds the piece of money, they declare to denote the Sophia above, who, having lost her enthymesis, afterwards recovered it, on
 
-Luke ix. 61, 62. 2759 Luke ix. 60. 2760 Luke xix. 5. 2761 1 Cor. xv. 48. 2762 1 Cor. ii. 14. 2763 1 Cor. ii. 15. 2764 Rom. xi. 16. 2765
+[[Luke 09#^9-61|Luke ix. 61]], [[Luke 09#^9-62|62]]. 2759 [[Luke 09#^9-60|Luke ix. 60]]. 2760 [[Luke 19#^19-5|Luke xix. 5]]. 2761 [[1 Corinthians 15#^15-48|1 Cor. xv. 48]]. 2762 [[1 Corinthians 02#^2-14|1 Cor. ii. 14]]. 2763 [[1 Corinthians 02#^2-15|1 Cor. ii. 15]]. 2764 [[Romans 11#^11-16|Rom. xi. 16]]. 2765
 
 *[p. 537]* ^pg577
 
@@ -553,23 +553,23 @@ Thy word,”<sup>2767</sup> was a type of the Demiurge, who, on the arrival of t
 
 5\. Further, they teach that John, the disciple of the Lord, indicated the first Ogdoad, expressing themselves in these words: John, the disciple of the Lord, wishing to set forth the origin of all things, so as to explain how the Father produced the whole, lays down a certain principle,—that, namely, which was first-begotten by God, which Being he has termed both the only-begotten Son and God, in whom the Father, after a seminal manner, brought forth all things. By him the Word was produced, and in him the whole substance of the Æons, to which the Word himself afterwards imparted form. Since, therefore, he treats of the first origin of things, he rightly proceeds in his teaching from the beginning, that is, from God and the Word. And he expresses himself thus: “In the beginning was the Word, and the Word was with God, and the Word was God; the same was in the beginning with God.”<sup>2772</sup> Having first of all distinguished these three—God, the Beginning, and the Word —he again unites them, that he may exhibit the production of each of them, that is, of the Son and of the Word, and may at the same time show their union with one another, and with the Father. For “the beginning” is in the Father, and of the Father, while “the Word” is in the beginning, and of the beginning. Very properly, then, did he say, “In the beginning was the Word,” for He was in the Son; “and the Word was with God,” for He was the beginning; “and the Word was God,” of course, for that which is begotten of God is God. “The same was in the beginning with God”—this clause discloses the order of production. “All things were made by Him, and
 
-Luke ii. 28.
+[[Luke 02#^2-28|Luke ii. 28]].
 
 2767
 
-Luke ii. 36.
+[[Luke 02#^2-36|Luke ii. 36]].
 
 2768
 
-Luke vii. 35.
+[[Luke 07#^7-35|Luke vii. 35]].
 
 2769
 
-1 Cor. ii. 6.
+[[1 Corinthians 02#^2-6|1 Cor. ii. 6]].
 
 2770
 
-Eph. v. 32.
+[[Ephesians 05#^5-32|Eph. v. 32]].
 
 2771
 
@@ -577,7 +577,7 @@ Eph. v. 32.
 
 without Him was nothing made;”<sup>2773</sup> for the Word was the author of form and beginning to all the Æons that came into existence after Him. But “what was made in Him,” says John, “is life.”<sup>2774</sup> Here again he indicated conjunction; for all things, he said, were made *by* Him, but *in* Him was life. This, then, which is in Him, is more closely connected with Him than those things which were simply made by Him, for it exists along with Him, and is developed by Him. When, again, he adds, “And the life was the light of men,” while thus mentioning Anthropos, he indicated also Ecclesia by that one expression, in order that, by using only one name, he might disclose their fellowship with one another, in virtue of their conjunction. For Anthropos and Ecclesia spring from Logos and Zoe. Moreover, he styled life (Zoe) the light of men, because they are enlightened by her, that is, formed and made manifest. This also Paul declares in these words: “For whatsoever doth make manifest is light.”<sup>2775</sup> Since, therefore, Zoe manifested and begat both Anthropos and Ecclesia, she is termed their light. Thus, then, did John by these words reveal both other things and the second Tetrad, Logos and Zoe, Anthropos and Ecclesia. And still further, he also indicated the first Tetrad. For, in discoursing of the Saviour and declaring that all things beyond the Pleroma received form from Him, he says that He is the fruit of the entire Pleroma. For he styles Him a “light which shineth in darkness, and which was not comprehended”<sup>2776</sup> by it, inasmuch as, when He imparted form to all those things which had their origin from passion, He was not known by it.<sup>2777</sup> He also styles Him Son, and Aletheia, and Zoe, and the “Word made flesh, whose glory,” he says, “we beheld; and His glory was as that of the Only-begotten (given to Him by the Father), full of grace and truth.”<sup>2778</sup> (But what John really does say is this: “And the Word was made flesh, and dwelt among us; and we beheld His glory, the glory as of the only-begotten of the Father, full of grace and truth.”<sup>2779</sup>) Thus, then, does he \[according to them\] distinctly set forth the first Tetrad, when he speaks of the Father, and Charis, and Monogenes, and Aletheia. In this way, too, does John tell of the first Ogdoad, and that which is the mother of all the Æons. For he mentions the Father, and Charis, and Monogenes, and Aletheia, and Logos, and Zoe, and Anthropos, and Ecclesia. Such are the views of Ptolemæus.<sup>2780</sup>
 
-329 John i. 3. 2773 John i. 3, 4. The punctuation here followed is different from that commonly adopted, but is found in many of the Fathers, 2774 and in some of the most ancient mss. Eph. v. 13. 2775 John i. 5. 2776 ὑπ’ αὐτῆς, occurring twice, is rendered both times in the old Latin version, “ab eis.” The reference is to σκοτία, *darkness*, 2777 i.e., all those not belonging to the spiritual seed. Comp. John i. 14. 2778 This is parenthetically inserted by the author, to show the misquotation of Scripture by these heretics. 2779 These words are wanting in the Greek, but are inserted in the old Latin version.
+329 [[John 01#^1-3|John i. 3]]. 2773 [[John 01#^1-3|John i. 3]], [[John 01#^1-4|4]]. The punctuation here followed is different from that commonly adopted, but is found in many of the Fathers, 2774 and in some of the most ancient mss. [[Ephesians 05#^5-13|Eph. v. 13]]. 2775 [[John 01#^1-5|John i. 5]]. 2776 ὑπ’ αὐτῆς, occurring twice, is rendered both times in the old Latin version, “ab eis.” The reference is to σκοτία, *darkness*, 2777 i.e., all those not belonging to the spiritual seed. Comp. [[John 01#^1-14|John i. 14]]. 2778 This is parenthetically inserted by the author, to show the misquotation of Scripture by these heretics. 2779 These words are wanting in the Greek, but are inserted in the old Latin version.
 
 *[p. 539]* ^pg579
 
@@ -657,15 +657,15 @@ and holy, and those who have kept His commandments, and have persevered in His l
 
 3\. It does not follow because men are endowed with greater and less degrees of intelligence, that they should therefore change the subject-matter \[of the faith\] itself, and should conceive of some other God besides Him who is the Framer, Maker, and Preserver of this universe, (as if He were not sufficient<sup>2791</sup> for them), or of another Christ, or another Only-begotten. But the fact referred to simply implies this, that one may \[more accurately than another\] bring out the meaning of those things which have been spoken in parables, and accommodate them to the general scheme of the
 
-Eph. i. 10.
+[[Ephesians 01#^1-10|Eph. i. 10]].
 
 2787
 
-Phil. ii. 10, 11.
+[[Philippians 02#^2-10|Phil. ii. 10]], [[Philippians 02#^2-11|11]].
 
 2788
 
-Eph. vi. 12.
+[[Ephesians 06#^6-12|Eph. vi. 12]].
 
 2789
 
@@ -681,7 +681,7 @@ reading ἀρκούμενος τούτοις, and have translated accordingly.
 
 faith; and explain \[with special clearness\] the operation and dispensation of God connected with human salvation; and show that God manifested longsuffering in regard to the apostasy of the angels who transgressed, as also with respect to the disobedience of men; and set forth why it is that one and the same God has made some things temporal and some eternal, some heavenly and others earthly; and understand for what reason God, though invisible, manifested Himself to the prophets not under one form, but differently to different individuals; and show why it was that more covenants than one were given to mankind; and teach what was the special character of each of these covenants; and search out for what reason “God<sup>2792</sup> hath concluded every man<sup>2793</sup> in unbelief, that He may have mercy upon all;” and gratefully<sup>2794</sup> describe on what account the Word of God became flesh and suffered; and relate why the advent of the Son of God took place in these last times, that is, in the end, rather than in the beginning \[of the world\]; and unfold what is contained in the Scriptures concerning the end \[itself\], and things to come; and not be silent as to how it is that God has made the Gentiles, whose salvation was despaired of, fellow-heirs, and of the same body, and partakers with the saints; and discourse how it is that “this mortal body shall put on immortality, and this corruptible shall put on incorruption;”<sup>2795</sup> and proclaim in what sense \[God\] says, “That is a people who was not a people; and she is beloved who was not beloved;”<sup>2796</sup> and in what sense He says that “more are the children of her that was desolate, than of her who possessed a husband.”<sup>2797</sup> For in reference to these points, and others of a like nature, the apostle exclaims: “Oh! the depth of the riches both of the wisdom and knowledge of God; how unsearchable are His judgments, and His ways past finding out!”<sup>2798</sup> But \[the superior skill spoken of\] is not found in this, that any one should, beyond the Creator and Framer \[of the world\], conceive of the Enthymesis of an erring Æon, their mother and his, and should thus proceed to such a pitch of blasphemy; nor does it consist in this, that he should again falsely imagine, as being above this \[fancied being\], a Pleroma at one time supposed to contain thirty, and at another time an innumerable tribe of Æons, as these teachers who are destitute of truly divine wisdom maintain; while the Catholic Church possesses one and the same faith throughout the whole world, as we have already said.
 
-332 Rom. xi. 32. 2792 Irenæus here reads πάντα instead of πάντας, as in Text. Rec. of New Testament. 2793 εὐχαριστεῖν— this word has been deemed corrupt, as it certainly appears out of keeping with the other verbs; but it may 2794 be rendered as above. 1 Cor. xv. 54. 2795 Hos. ii. 23; Rom. ix. 25. 2796 Isa. liv. 1; Gal. iv. 27. 2797
+332 [[Romans 11#^11-32|Rom. xi. 32]]. 2792 Irenæus here reads πάντα instead of πάντας, as in Text. Rec. of New Testament. 2793 εὐχαριστεῖν— this word has been deemed corrupt, as it certainly appears out of keeping with the other verbs; but it may 2794 be rendered as above. [[1 Corinthians 15#^15-54|1 Cor. xv. 54]]. 2795 Hos. ii. 23; [[Romans 09#^9-25|Rom. ix. 25]]. 2796 Isa. liv. 1; [[Galatians 04#^4-27|Gal. iv. 27]]. 2797
 
 *[p. 544]* ^pg584
 

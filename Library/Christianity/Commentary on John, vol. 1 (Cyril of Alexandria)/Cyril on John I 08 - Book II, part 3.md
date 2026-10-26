@@ -76,7 +76,7 @@ Conceiving that the Lord is in truth a Prophet and a
 
 *[p. 211]* ^pg275
 
-Jew, she boasts exceedingly of the customs of her country, pao 2 and asserts that the Samaritans are far superior in wisdom ~ "" ” to the Jews. For the Jews admitting too gross notions of the Divine and Incorporeal Nature, contended that im Jerusalem alone, or its neighbour Sion, ought the God over all to be worshipped, as though the whole Ineffable and Incomprehensible Nature had once for all there taken abode, and was enclosed in temples made with hands. Wherefore they were convicted of being utterly without understanding, by the voice of the Prophets, God saying, Heaven is My Throne and earth is My Footstool, what Acts vii. 49 ex
+Jew, she boasts exceedingly of the customs of her country, pao 2 and asserts that the Samaritans are far superior in wisdom ~ "" ” to the Jews. For the Jews admitting too gross notions of the Divine and Incorporeal Nature, contended that im Jerusalem alone, or its neighbour Sion, ought the God over all to be worshipped, as though the whole Ineffable and Incomprehensible Nature had once for all there taken abode, and was enclosed in temples made with hands. Wherefore they were convicted of being utterly without understanding, by the voice of the Prophets, God saying, Heaven is My Throne and earth is My Footstool, what [[Acts 07#^7-49|Acts vii. 49]] ex
 
 house will ye build Me, saith the Lord, or what is the place ἦα, εαῆῖ. of My rest? The Samaritans again little remote from the " folly of the Jews, bordering both in country alike and uninstructedness, supposing that in the mount called Ge-rizim they ought both to pray and worship, rightly escape not being laughed at. But the plea to them also of their senselessness was, that the blessing was given in Mount Gerizim, as we find written in Deuteronomy. This Deut. question the woman proposes to the Saviour, as some great ον a and difficult problem, saying, Owr fathers worshipped in this mountain, &e.
 
@@ -399,7 +399,7 @@ or 36 And he thut reapeth receiveth wages, und gathereth fruit unto life eternal
 
 It is the time (saith He) of the Word calling to the Faith, and shewing to the hearers the arrival at its consummation of the legal and Prophetic preachings. For the . law by typical services, as in shadows did foreshew Him ©
 
-Heb. x. 37 ex Isa, xxvi. 20.
+[[Hebrews 10#^10-37|Heb. x. 37]] ex Isa, xxvi. 20.
 
 3 ἕξιν That should come, that is, Christ: the Prophets after it, |
 interpreting the words of the Spirit, Yet a little while, were ) fore-signifying that He was even now at hand and coming. |
@@ -610,7 +610,7 @@ hereto pertaining, sane to those before examined.
 
 *[p. 239]* ^pg303
 
-On the Sabbath day doth Christ heal the man, when παρ. 5. healed He immediately enjoins him to break through the ““ Νὰ custom of the law, inducing him to walk on the Sabbath Jer, xvii. and this laden with his bed, althongh God clearly cries ~ aloud by one of the holy Prophets, Neither carry forth a burthen out of your house on the Sabbath day. And no one I suppose who is sober-minded wonld say that the man was rendered a despiser or unruly to the Divine commands, but that as in a type Christ was making known to the Jews, that they should be healed by obedience and faith in the last times of the world (for this I think the Sub-bath signifies, being the last day of the week): but that having once received the healing through faith, and having been re-modelled unto newness of life, it was necessary that the oldness of the letter of the law should become of no effect, and that the typical? worship as it ake were in shadows and the vain observance of Jewish custom should be rejected. Hence (I think) the blessed Paul too taking occasion of speech writes to them who after the faith were returning again to the Law, I say unto you, Gal.v. 2. that if ye be civewneised, Chirist shall profit you nothing ; and again, Ye are severed from Christ, whosoever of you 10. 4.
+On the Sabbath day doth Christ heal the man, when παρ. 5. healed He immediately enjoins him to break through the ““ Νὰ custom of the law, inducing him to walk on the Sabbath Jer, xvii. and this laden with his bed, althongh God clearly cries ~ aloud by one of the holy Prophets, Neither carry forth a burthen out of your house on the Sabbath day. And no one I suppose who is sober-minded wonld say that the man was rendered a despiser or unruly to the Divine commands, but that as in a type Christ was making known to the Jews, that they should be healed by obedience and faith in the last times of the world (for this I think the Sub-bath signifies, being the last day of the week): but that having once received the healing through faith, and having been re-modelled unto newness of life, it was necessary that the oldness of the letter of the law should become of no effect, and that the typical? worship as it ake were in shadows and the vain observance of Jewish custom should be rejected. Hence (I think) the blessed Paul too taking occasion of speech writes to them who after the faith were returning again to the Law, I say unto you, [[Galatians 05#^5-2|Gal.v. 2]]. that if ye be civewneised, Chirist shall profit you nothing ; and again, Ye are severed from Christ, whosoever of you 10. 4.
 
 are justified by the luw, ye are fallen from gruce.
 

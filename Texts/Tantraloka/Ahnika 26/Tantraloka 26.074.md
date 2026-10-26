@@ -30,7 +30,7 @@ svayaṃ tu śaṅkāsaṅkocaniṣkāsanaparāyaṇaḥ || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#^pg417|p. 397]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=417>))
 >
-> The pervasive Lord Himself has said in the venerable and great Mata scripture: ‘One should oneself be intent on opening up the contraction (of consciousness) brought about by doubt (within oneself) in such a way that doubt does not arise in the mind of others (3150). (with 26.74–75ab)
+> The pervasive Lord Himself has said in the venerable and great Mata scripture: ‘One should oneself be intent on opening up the contraction (of consciousness) brought about by doubt (within oneself) in such a way that doubt does not arise in the mind of others (also).’ (with 26.74–75ab)
 
 ## Viveka
 

@@ -61,7 +61,7 @@ they declare that they do it in the name of the angel, saying, “O thou angel, 
 
 4\. Wherefore I have laboured to bring forward, and make clearly manifest, the utterly ill-conditioned carcase of this miserable little fox.<sup>2984</sup> For there will not now be need of many words to overturn their system of doctrine, when it has been made manifest to all. It is as when, on a beast hiding itself in a wood, and by rushing forth from it is in the habit of destroying multitudes, one who beats round the wood and thoroughly explores it, so as to compel the animal to break cover, does not strive to capture it, seeing that it is truly a ferocious beast; but those present can then watch and avoid its assaults, and can cast darts at it from all sides, and wound it, and finally slay that destructive brute. So, in our case, since we have brought their hidden mysteries, which they keep in silence among themselves, to the light, it will not now be necessary to use many words in destroying their system of opinions. For it is now in thy power, and in the power of all thy associates, to familiarize yourselves with what has been said, to overthrow their wicked and undigested doctrines, and to set forth doctrines agreeable to the truth. Since then the case is so, I shall, according to promise, and as my ability serves, labour to overthrow them, by refuting them all in the following book. Even to give an account of them is a tedious affair, as thou seest.<sup>2985</sup> But I shall furnish means for overthrowing them, by meeting all their opinions in the order in which they have been described, that I may not only expose the wild beast to view, but may inflict wounds upon it from every side.
 
-\[Cant. ii. 15; St. Luke xiii. 32.\] 2984
+\[Cant. ii. 15; St. [[Luke 13#^13-32|Luke xiii. 32]].\] 2984
 
 \[Let the reader bear in mind that the Greek of this original and very precious author exists only in fragments. We are 2985
 
@@ -77,7 +77,7 @@ reading the translation of a translation; the Latin very rude, and the subject i
 
 1\. In the first book, which immediately precedes this, exposing “knowledge falsely so called,”<sup>2986</sup> I showed thee, my very dear friend, that the whole system devised, in many and opposite ways, by those who are of the school of Valentinus, was false and baseless. I also set forth the tenets of their predecessors, proving that they not only differed among themselves, but had long previously swerved from the truth itself. I further explained, with all diligence, the doctrine as well as practice of Marcus the magician, since he, too, belongs to these persons; and I carefully noticed<sup>2987</sup> the passages which they garble from the Scriptures, with the view of adapting them to their own fictions. Moreover, I minutely narrated the manner in which, by means of numbers, and by the twenty-four letters of the alphabet, they boldly endeavour to establish \[what they regard as\] truth. I have also related how they think and teach that creation at large was formed after the image of their invisible Pleroma, and what they hold respecting the Demiurge, declaring at the same time the doctrine of Simon Magus of Samaria, their progenitor, and of all those who succeeded him. I mentioned, too, the multitude of those Gnostics who are sprung from him, and noticed<sup>2988</sup> the points of difference between them, their several doctrines, and the order of their succession, while I set forth all those heresies which have been originated by them. I showed, moreover, that all these heretics, taking their rise from Simon, have introduced impious and irreligious doctrines into this life; and I explained the nature of their “redemption,” and their method of initiating those who are rendered “perfect,” along with their invocations and their mysteries. I proved also that there is one God, the Creator, and that He is not the fruit of any defect, nor is there anything either above Him, or after Him.2. In the present book, I shall establish those points which fit in with my design, so far as time permits, and overthrow, by means of lengthened treatment under distinct heads, their whole system; for which reason, since it is an exposure and subversion of their opinions, I have so entitled the composition of this work. For it is fitting, by a plain revelation and overthrow of their conjunctions, to put an end to these hidden alliances,<sup>2989</sup> and to Bythus himself, and thus to obtain a demonstration that he never existed at any previous time, nor now has any existence.
 
-1 Tim. vi. 20.
+[[1 Timothy 06#^6-20|1 Tim. vi. 20]].
 
 2986
 
@@ -139,7 +139,7 @@ Vossius and others read “primus” instead of “prius,” but on defective ms
 
 Now, that this God is the Father of our Lord Jesus Christ, Paul the apostle also has declared, \[saying,\] “There is one God, the Father, who is above all, and through all things, and in us all.”<sup>2997</sup> I have indeed proved already that there is only one God; but I shall further demonstrate this from the apostles themselves, and from the discourses of the Lord. For what sort of conduct would it be,
 
-362 Harvey here observes: “Grabe misses the meaning by applying to the redeemed that which the author says of the Redeemer;” 2993 but it may be doubted if this is really the case. Perhaps Massuet’s rendering of the clause, “that that man might be formed who should know Him,” is, after all, preferable to that given above. John i. 3. 2994 Ps. xxxiii. 9, Ps. cxlviii. 5. 2995 Gen. i. 1. 2996 Eph. iv. 6, differing somewhat from Text. Rec. of New Testament.
+362 Harvey here observes: “Grabe misses the meaning by applying to the redeemed that which the author says of the Redeemer;” 2993 but it may be doubted if this is really the case. Perhaps Massuet’s rendering of the clause, “that that man might be formed who should know Him,” is, after all, preferable to that given above. [[John 01#^1-3|John i. 3]]. 2994 Ps. xxxiii. 9, Ps. cxlviii. 5. 2995 Gen. i. 1. 2996 [[Ephesians 04#^4-6|Eph. iv. 6]], differing somewhat from Text. Rec. of New Testament.
 
 *[p. 596]* ^pg636
 
@@ -295,7 +295,7 @@ that some of them were produced naturally good, while some were naturally evil, 
 
 5\. Still further, if these things \[below\] were made after the similitude of those \[above\], after the likeness of which again will those then be made? For if the Creator of the world did not form these things directly from His own<sup>3023</sup> conception, but, like an architect of no ability, or a boy receiving his first lesson, copied them from archetypes furnished by others, then whence did their Bythus obtain the forms of that creation which He at first produced? It clearly follows that He must have received the model from some other one who is above Him, and that one, in turn, from another. And none the less \[for these suppositions\], the talk about images, as about gods, will extend to infinity, if we do not at once fix our mind on one Artificer, and on one God, who of Himself formed those things which have been created. Or is it really the case that, in regard to mere men, one will
 
-368 Matt. xxv. 41. 3020 Dan. vii. 10, agreeing neither with the Greek nor Hebrew text. 3021 This clause is exceedingly obscure. Harvey remarks upon it as follows: “The reasoning of Irenæus seems to be this: 3022 According to the Gnostic theory, the Æons and angels of the Pleroma were homogeneous. They were also the archetypes of things created. But things created are heterogeneous: therefore either these Æons are heterogeneous, which is contrary to theory; or things created are homogeneous, which is contrary to fact.” Literally, “from Himself.”
+368 [[Matthew 25#^25-41|Matt. xxv. 41]]. 3020 Dan. vii. 10, agreeing neither with the Greek nor Hebrew text. 3021 This clause is exceedingly obscure. Harvey remarks upon it as follows: “The reasoning of Irenæus seems to be this: 3022 According to the Gnostic theory, the Æons and angels of the Pleroma were homogeneous. They were also the archetypes of things created. But things created are heterogeneous: therefore either these Æons are heterogeneous, which is contrary to theory; or things created are homogeneous, which is contrary to fact.” Literally, “from Himself.”
 
 *[p. 606]* ^pg646
 
@@ -327,7 +327,7 @@ allow that they have of themselves invented what is useful for the purposes of l
 
 2\. This God, then, being acknowledged, as I have said, and receiving testimony from all to the fact of His existence, that Father whom they conjure into existence is beyond doubt untenable, and has no witnesses \[to his existence\]. Simon Magus was the first who said that he himself was God over all, and that the world was formed by his angels. Then those who succeeded him, as I have shown in the first book,<sup>3028</sup> by their several opinions, still further depraved \[his teaching\] through their impious and irreligious doctrines against the Creator. These \[heretics now referred to\],<sup>3029</sup> being the disciples of those mentioned, render such as assent to them worse than the heathen. For the former “serve the creature rather than the Creator,”<sup>3030</sup> and “those which are not gods,”<sup>3031</sup> notwithstanding that they ascribe the first place in Deity to that God who was the Maker of this universe. But the latter maintain that He, \[i.e., the Creator of this world,\] is the fruit of a defect, and describe Him as being of an animal nature, and as not knowing that Power which is above Him, while He also exclaims, “I am God, and besides Me there is no other God.”<sup>3032</sup> Affirming that He lies, they are themselves liars, attributing all sorts of wickedness to Him; and conceiving of one who is not above this Being as really having an existence, they are thus convicted by their own views of blasphemy against that God who really exists, while they conjure into existence a god who has no existence, to their own condemnation. And thus those who declare themselves “perfect,”
 
-Comp. e.g., Matt. v. 16, Matt. v. 45, Matt. vi. 9, etc.
+Comp. e.g., [[Matthew 05#^5-16|Matt. v. 16]], [[Matthew 05#^5-45|Matt. v. 45]], [[Matthew 06#^6-9|Matt. vi. 9]], etc.
 
 3027
 
@@ -339,11 +339,11 @@ Viz., the Valentinians.
 
 3029
 
-Rom. i. 25.
+[[Romans 01#^1-25|Rom. i. 25]].
 
 3030
 
-Gal. iv. 8.
+[[Galatians 04#^4-8|Gal. iv. 8]].
 
 3031
 
@@ -371,7 +371,7 @@ This clause is unintelligible in the Latin text: by a conjectural restoration of
 
 1\. They do not believe that He, who is God above all, formed by His Word, in His own territory, as He Himself pleased, the various and diversified \[works of creation which exist\], inasmuch as He is the former of all things, like a wise architect, and a most powerful monarch. But they believe that angels, or some power separate from God, and who was ignorant of Him, formed this universe. By this course, therefore, not yielding credit to the truth, but wallowing in falsehood, they have lost the bread of true life, and have fallen into vacuity<sup>3035</sup> and an abyss of shadow. They are like the dog of Æsop, which dropped the bread, and made an attempt at seizing its shadow, thus losing the \[real\] food. It is easy to prove from the very words of the Lord, that He acknowledges one Father and Creator of the world, and Fashioner of man, who was proclaimed by the law and the prophets, while He knows no other, and that this One is really God over all; and that He teaches that that
 
-Luke xviii. 27.
+[[Luke 18#^18-27|Luke xviii. 27]].
 
 3034
 
@@ -499,7 +499,7 @@ And thus it is, as I have previously remarked, that heaping together with a kind
 
 1\. Much more like the truth, and more pleasing, is the account which Antiphanes,<sup>3051</sup> one of the ancient comic poets, gives in his *Theogony* as to the origin of all things. For he speaks Chaos as being produced from Night and Silence; relates that then Love<sup>3052</sup> sprang from Chaos and Night; from this again, Light; and that from this, in his opinion, were derived all the rest of the first generation of the gods. After these he next introduces a second generation of gods, and the creation of the world; then he narrates the formation of mankind by the second order of the gods. These men (the heretics), adopting this fable as their own, have ranged their opinions round it, as if by a sort of natural process, changing only the names of the things referred to, and setting forth the very same beginning of the generation of all things, and their production. In place of Night and Silence they substitute Bythus and Sige; instead of Chaos, they put Nous; and for Love (by whom, says
 
-Matt. vii. 7.
+[[Matthew 07#^7-7|Matt. vii. 7]].
 
 3050
 
@@ -563,7 +563,7 @@ Literally, “antiphrasis.”
 
 3060
 
-1 Tim. vi. 20. The text is, “Vocum novitates falsæ agnitionis,” καινοφωνίας having apparently been read in the Greek 3061
+[[1 Timothy 06#^6-20|1 Tim. vi. 20]]. The text is, “Vocum novitates falsæ agnitionis,” καινοφωνίας having apparently been read in the Greek 3061
 
 instead of κενοφωνίας as in Text. Rec.
 
@@ -581,7 +581,7 @@ Grabe and others insert “vel” between these words.
 
 It seems necessary to regard these words as parenthetical, though the point is overlooked by all the editors. 3063
 
-Matt. xi. 27.
+[[Matthew 11#^11-27|Matt. xi. 27]].
 
 3064
 

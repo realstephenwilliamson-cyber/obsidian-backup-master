@@ -30,7 +30,7 @@ kāryetyājñā maheśasya śrīmadgahvarabhāṣitā || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#^pg98|p. 78]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=98>))
 >
-> It is of three kinds, by (taking into account the type of initiation that brings about the disciple’s) immediate exit (from the body), which the teacher should perform when (the disciple) is close to death. This is Śiva’s command, (which he) uttered in the venerable Gahvara (where we read): ‘having observed that the disciple is consumed by old age and is severely afflicted by illness, (the teacher) should therefore cause him to leave (the body) and conjoin him to the Supreme Reality. (with 16.181–182)
+> It is of three kinds, by (taking into account the type of initiation that brings about the disciple’s) immediate exit (from the body), which the teacher should perform when (the disciple) is close to death. This is Śiva’s command, (which he) uttered in the venerable Gahvara (where we read): ‘having observed that the disciple is consumed by old age and is severely afflicted by illness, (the teacher) should therefore cause him to leave (the body) and conjoin him to the Supreme Reality.’ (with 16.181–182)
 
 ## Viveka
 

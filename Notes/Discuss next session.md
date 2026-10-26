@@ -16,6 +16,7 @@ What Stephen wants to raise with the AI at its next session on the vault, in any
 ## Operational concerns
 
 Things that don't work as expected, or steps that feel harder than they should.
+	The Sanskrit letter flashcards need work. On the front just the Glyph and example. If you can set the default to open with the back collapsed that would be helpful. on the back the following data (today's card as example but the formatting is messed up): Pronunciation: As in ‘_____'   Class: long, soft · complex vowel · Vṛddhi (strongest form) of u/ū (from a+a+u)  अ आ इ ई उ ऊ / ए ऐ ओ औ / ऋ ॠ ऌ;  Example: auṣadhi (herb)
 
 ## Questions
 

@@ -20,17 +20,13 @@ nyasa: "lower teeth (*rada*), as e"
 ## Front
 
 - **Glyph:** ◌े
-- **Variation:** —
 - **Example:** देव
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘caf<u>e</u>’
-- **Class (as printed):** 1,2 · long, soft · complex vowel
-- **Note (no printed label):** Abbreviation - used only after consonant · Guṇa (stronger form) of i/ī (from a+i).
-- **Grid:** the vowel signs ा ि ी ु ू / े ै ो ौ / ृ ॄ ॢ; in bold: े
-- **Example:** deva (god)
+> [!note]- Back
+> - **Pronunciation:** As in ‘caf<u>e</u>’
+> - **Class:** long, soft · complex vowel · Guṇa (stronger form) of i/ī (from a+i).
+> - ा ि ी ु ू / <u>े</u> ै ो ौ / ृ ॄ ॢ
+> - **Example:** deva (god)
 
 ## Register
 

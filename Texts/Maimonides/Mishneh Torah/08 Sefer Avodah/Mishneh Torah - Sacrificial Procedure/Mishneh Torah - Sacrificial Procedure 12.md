@@ -190,12 +190,12 @@ All of the acts [necessary to prepare it] are acceptable [when performed] by a n
 [^21]: An *isaron* is 2500 cc in contemporary measure according to *Shiurei Torah*, and 4320 cc according to *Chazon Ish*.
 [^22]: *The offerings must, however, be of complete isaronim.*
 [^23]: The Radbaz explains that this includes the meal offerings brought by priests even though a handful of flour is not removed from them. It does not, however, include the meal-offerings brought as part of the accompanying offerings. The rationale for the distinction is that this rite is required only for the meal-offerings that are brought as independent offerings, not for those that merely accompany other offerings. The showbread and the two loaves offered on Shavuos are not brought close to the altar, because they are not offered on the altar at all.
-[^24]: [[Torah 25 - Tzav#^6-7|Leviticus 6:7]] states: "The sons of Aaron will bring it close, before God, towards the face of the altar." [[Sotah 14#14b|*Sotah* 14b]] interprets this as referring to the southwest corner of the altar."
+[^24]: [[Torah 25 - Tzav#^6-7|Leviticus 6:7]] states: "The sons of Aaron will bring it close, before God, towards the face of the altar." *Sotah* [[Sotah 14#14b|14b]] interprets this as referring to the southwest corner of the altar."
 [^25]: See Chapter 9, Halachah 7, where this rite is described.
 [^26]: See Chapter 9, Halachah 16.
 [^27]: See *Hilchot Temidim UMusafim* 7:12.
 [^28]: This term excludes the showbread and the two loaves offered on Shavuos, as mentioned above.
-[^29]: With the exception of the meal-offering of a sinner and a *sotah*, it is explicitly stated that oil must be brought with every meal-offering. Including frankincense is mentioned only with regard to the offering of fine flour. Nevertheless, [[Menachot 59#59a|*Menachot* 59a]] uses techniques of Biblical exegesis to derive that it should be included with every meal-offering.
+[^29]: With the exception of the meal-offering of a sinner and a *sotah*, it is explicitly stated that oil must be brought with every meal-offering. Including frankincense is mentioned only with regard to the offering of fine flour. Nevertheless, *Menachot* [[Menachot 59#59a|59a]] uses techniques of Biblical exegesis to derive that it should be included with every meal-offering.
 [^30]: A *log* is 344 cc in contemporary measure according to *Shiurei Torah*, and 600 cc according to *Chazon Ish*.
 [^31]: This represents the minimum. More oil is placed on certain offerings as mentioned in Halachah 8.
 [^32]: In contrast to the oil which is added proportionately to the flour, a uniform measure of frankincense is included for every meal offering.
@@ -212,15 +212,15 @@ All of the acts [necessary to prepare it] are acceptable [when performed] by a n
 [^43]: The Radbaz states that this does not include the meal-offerings that are brought as part of the accompanying offerings, for they are offered on the altar in their entirety.
 [^44]: The passage from which the prooftext is taken speaks about the initiation offering and the High Priest's *chavitin* offering. Nevertheless, since it includes the word "every," the concept it states is applied to other offerings brought by priests (Radbaz).
 [^45]: I.e., one unmarried, alternatively, one married to an Israelite as evident from Halachah 12 (Radbaz; *Kessef Mishneh*).
-[^46]: [[Sotah 23#23b|*Sotah* 23b]] derives this concept from the fact that the prooftext cited above uses a male term for priest.
-[^47]: I.e., since there is a doubt involved, the offering is treated with both the stringencies applying to one brought by priests and those applying to one brought by Israelites ([[Yevamot 99#99b|*Yevamot* 99b]]).
+[^46]: *Sotah* [[Sotah 23#23b|23b]] derives this concept from the fact that the prooftext cited above uses a male term for priest.
+[^47]: I.e., since there is a doubt involved, the offering is treated with both the stringencies applying to one brought by priests and those applying to one brought by Israelites (*Yevamot* [[Yevamot 99#99b|99b]]).
 [^48]: Rashi (*ibid.* 100a) interprets this as referring to the place outside the Temple Courtyard where the ashes from the altar are deposited. *Tosafot* interprets it as the place inside the Temple Courtyard where sacrifices of the most sacred order that are disqualified are burnt. This difference of opinion is possible, because the term ash-pile is used for several different places.  
     The offering may not be eaten, for perhaps the person bringing it is a priest and meal-offerings a priest brings may not be eaten. Nor may it be burnt entirely on the altar, for perhaps the person bringing it is an Israelite and an Israelite's offerings may not be burnt entirely.
-[^49]: For a woman will bring her offering from flour that belongs to her husband (Rashi, [[Sotah 23#23a|*Sotah* 23a]]).
+[^49]: For a woman will bring her offering from flour that belongs to her husband (Rashi, *Sotah* [[Sotah 23#23a|23a]]).
 [^50]: For she is bringing it for her atonement.
 [^51]: I.e., it need not be held by a priest.
 [^52]: The consecration of the handful is discussed in Chapter 13, Halachah 12.
-[^53]: [[Menachot 7#7b|*Menachot* 7b]] derives this concept from a parallel to the receiving of the blood. Just as that is only acceptable when the priest holds the container in his hands, so too, the consecration of the meal-offering is acceptable only when the priest holds the container.
+[^53]: *Menachot* [[Menachot 7#7b|7b]] derives this concept from a parallel to the receiving of the blood. Just as that is only acceptable when the priest holds the container in his hands, so too, the consecration of the meal-offering is acceptable only when the priest holds the container.
 [^54]: The only meal-offerings that are leavened are the two loaves brought on Shavuos and ten of the loaves brought for the thanksgiving offering and these are not brought to the altar.
 [^55]: Although a sweetener may not be offered on the altar (*Hilchot Issurei Mizbeiach* 5:1), it may be eaten with sacrificial foods.
 [^56]: *Sefer HaMitzvot* (negative commandment 124) and *Sefer HaChinuch* (mitzvah 135) include this prohibition as one of the 613 mitzvot of the Torah.
@@ -236,13 +236,13 @@ All of the acts [necessary to prepare it] are acceptable [when performed] by a n
 [^65]: For the second leavening. He is, however, liable for the first leavening (Rav Yosef Corcus).
 [^66]: Although generally one who causes a meal-offering to leaven a second time is liable (Halachah 14), in this instance, since it was disqualified in the interim, he is exempt.
 [^67]: It should not, however, be offered on the altar's pyre (but should be taken from the altar and discarded), because no leaven should be offered on the altar, as stated in *Hilchot Issurei Mizbeiach* 5:1 (Radbaz).
-[^68]: And this also includes the showbread. The commentaries note that [[Menachot 57#57a|*Menachot* 57a]] derives this concept from a different prooftext.
+[^68]: And this also includes the showbread. The commentaries note that *Menachot* [[Menachot 57#57a|57a]] derives this concept from a different prooftext.
 [^69]: For the flour of the accompanying offerings should be mixed with oil, not water (Chapter 2, Halachah 4).
 [^70]: Our translation is based on authoritative manuscripts and early printings of the *Mishneh Torah*. The standard printed text states "wine" and hence, has been questioned by many.
 [^71]: See *Hilchot Chametz UMatzah* 5:2.
 [^72]: In the Talmudic era, when preparing fine flour, the wheat kernels would be soaked and then ground in a mill so that the shell of coarse bran would be removed. See *Hilchot Chametz UMatzah* 5:7 which states that in order that the kernels not become leaven, they should be ground immediately.
 [^73]: By private individuals.
-[^74]: Rashi ([[Pesachim 36#36a|*Pesachim* 36a]]) states that this sacrifice would be prepared by the agents of the court and those individuals would certainly act with the proper care and energy.
+[^74]: Rashi (*Pesachim* [[Pesachim 36#36a|36a]]) states that this sacrifice would be prepared by the agents of the court and those individuals would certainly act with the proper care and energy.
 [^75]: Even though lukewarm water will serve as a catalyst to cause the dough to leaven faster (*Hilchot Chametz UMatzah* 5:11), since the priests inside the Temple Courtyard are performing the service, we are not concerned that they will allow it to leaven.
 [^76]: And will not allow the flour to leaven.
 [^77]: For their status is the same.
@@ -250,4 +250,4 @@ All of the acts [necessary to prepare it] are acceptable [when performed] by a n
 [^79]: Exceptions to this general principle were the showbread and the two loaves offered on Shavuos which were also kneaded outside the Temple Courtyard, as stated in *Hilchot Temidim UMusafim* 5:7; 8:7).
 [^80]: See *Hilchot Pesulei HaMukdashim* 11:7.
 [^81]: For anything placed in a sacred utensil becomes sanctified, as stated in *Hilchot K'lei HaMikdash* 1:19.
-[^82]: [[Zevachim 96#96a|*Zevachim* 96a]] explains that it could not be made of earthenware, because it had the status of a sacred utensil since the showbread and the two loaves offered on Shavuos were sanctified because they were baked inside of it and it is not befitting to make a sacred utensil from earthenware.
+[^82]: *Zevachim* [[Zevachim 96#96a|96a]] explains that it could not be made of earthenware, because it had the status of a sacred utensil since the showbread and the two loaves offered on Shavuos were sanctified because they were baked inside of it and it is not befitting to make a sacred utensil from earthenware.

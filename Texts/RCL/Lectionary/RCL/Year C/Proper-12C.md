@@ -11,6 +11,7 @@ second_reading: "Colossians 2:6-15, (16-19)"
 gospel: "Luke 11:1-13"
 first_reading_complementary: "Genesis 18:20-32"
 psalm_complementary: "Psalm 138"
+psalm_bcp_complementary: "Psalm 138"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-12]]"
 cssclasses:

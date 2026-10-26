@@ -218,11 +218,11 @@ The reader will notice that Justin quotes from memory, so that there are some sl
 
 Jesus as here cited, and the same sayings as recorded in our Gospels.
 
-Matt. v. 28, 29, 32.
+[[Matthew 05#^5-28|Matt. v. 28]], [[Matthew 05#^5-29|29]], [[Matthew 05#^5-32|32]].
 
 1786
 
-Matt. xix. 12.
+[[Matthew 19#^19-12|Matt. xix. 12]].
 
 1787
 
@@ -240,23 +240,23 @@ things. But seek ye the kingdom of heaven, and all these things shall be added u
 
 And concerning our being patient of injuries, and ready to serve all, and free from anger, this is what He said: “To him that smiteth thee on the one cheek, offer also the other; and him that taketh away thy cloak or coat, forbid not. And whosoever shall be angry, is in danger of the fire. And every one that compelleth thee to go with him a mile, follow him two. And let your good works shine before men, that they, seeing them, may glorify your Father which is in heaven.”<sup>1794</sup> For we ought not to strive; neither has He desired us to be imitators of wicked men, but He has exhorted us to lead all men, by patience and gentleness, from shame and the love of evil. And this indeed is proved in the case of many who once were of your way of thinking, but have changed their violent and tyrannical disposition, being overcome either by the constancy which they have witnessed in their neighbours’ lives,<sup>1795</sup> or by the extraordinary forbearance they have observed in their
 
-Matt. v. 46, 44; Luke vi. 28.
+[[Matthew 05#^5-46|Matt. v. 46]], 44; [[Luke 06#^6-28|Luke vi. 28]].
 
 1790
 
-Luke vi. 30, 34; Matt. vi. 19, Matt. xvi. 26, Matt. vi. 20.
+[[Luke 06#^6-30|Luke vi. 30]], [[Luke 06#^6-34|34]]; [[Matthew 06#^6-19|Matt. vi. 19]], [[Matthew 16#^16-26|Matt. xvi. 26]], [[Matthew 06#^6-20|Matt. vi. 20]].
 
 1791
 
-Luke vi. 36; Matt. v. 45, Matt. vi. 25, 26, 33, 21.
+[[Luke 06#^6-36|Luke vi. 36]]; [[Matthew 05#^5-45|Matt. v. 45]], [[Matthew 06#^6-25|Matt. vi. 25]], [[Matthew 06#^6-26|26]], [[Matthew 06#^6-33|33]], 21.
 
 1792
 
-Matt. vi. 1.
+[[Matthew 06#^6-1|Matt. vi. 1]].
 
 1793
 
-Luke vi. 29; Matt. vi. 22, 41, 16.
+[[Luke 06#^6-29|Luke vi. 29]]; Matt. vi. 22, 41, 16.
 
 1794
 
@@ -272,19 +272,19 @@ And with regard to our not swearing at all, and always speaking the truth, He en
 
 And everywhere we, more readily than all men, endeavour to pay to those appointed by you the taxes both ordinary and extraordinary,<sup>1800</sup> as we have been taught by Him; for at that time some came to Him and asked Him, if one ought to pay tribute to Cæsar; and He answered, “Tell Me, whose image does the coin bear?” And they said, “Cæsar’s.” And again He answered them, “Render therefore to Cæsar the things that are Cæsar’s, and to God the things that are God’s.”<sup>1801</sup> Whence
 
-Matt. v. 34, 27.
+[[Matthew 05#^5-34|Matt. v. 34]], 27.
 
 1796
 
-Mark xii. 30.
+[[Mark 12#^12-30|Mark xii. 30]].
 
 1797
 
-Matt. xix. 6, 17.
+[[Matthew 19#^19-6|Matt. xix. 6]], [[Matthew 19#^19-17|17]].
 
 1798
 
-Matt. vii. 21, etc.; Luke xiii. 26; Matt. xiii. 42, Matt. vii. 15, 16, 19.
+[[Matthew 07#^7-21|Matt. vii. 21]], etc.; [[Luke 13#^13-26|Luke xiii. 26]]; [[Matthew 13#^13-42|Matt. xiii. 42]], [[Matthew 07#^7-15|Matt. vii. 15]], [[Matthew 07#^7-16|16]], [[Matthew 07#^7-19|19]].
 
 1799
 
@@ -302,7 +302,7 @@ For reflect upon the end of each of the preceding kings, how they died the death
 
 necromancy, and the divinations you practise by immaculate children,<sup>1804</sup> and the evoking of departed human souls,<sup>1805</sup> and those who are called among the magi, Dream-senders and Assistant-spirits (Familiars),<sup>1806</sup> and all that is done by those who are skilled in such matters —let these persuade you that even after death souls are in a state of sensation; and those who are seized and cast about by the spirits of the dead, whom all call dæmoniacs or madmen;<sup>1807</sup> and what you repute as oracles, both of Amphilochus, Dodana, Pytho, and as many other such as exist; and the opinions of your
 
-Luke xii. 48.
+[[Luke 12#^12-48|Luke xii. 48]].
 
 1802
 
@@ -338,7 +338,7 @@ See the *Odyssey*, book xi. line 25, where Ulysses is described as digging a pit
 
 libations, in order to collect around him the souls of the dead.
 
-Matt. xix. 26.
+[[Matthew 19#^19-26|Matt. xix. 26]].
 
 1809
 
@@ -510,7 +510,7 @@ Isa. vii. 14.
 
 1830
 
-Luke i. 32; Matt. i. 21.
+[[Luke 01#^1-32|Luke i. 32]]; [[Matthew 01#^1-21|Matt. i. 21]].
 
 *[p. 269]* ^pg309
 
@@ -606,7 +606,7 @@ Ps. xxii. 7.
 
 1847
 
-Comp. Matt. xxvii. 39.
+Comp. [[Matthew 27#^27-39|Matt. xxvii. 39]].
 
 *[p. 272]* ^pg312
 
@@ -686,7 +686,7 @@ But lest some should, without reason, and for the perversion of what we teach, m
 
 So, Thirlby, Otto, and Trollope seem all to understand the word κατέχειν; yet it seems worth considering whether Justin 1860
 
-has not borrowed both the sense and the word from 2 Thess. ii. 6, 7.
+has not borrowed both the sense and the word from [[2 Thessalonians 02#^2-6|2 Thess. ii. 6]], [[2 Thessalonians 02#^2-7|7]].
 
 Or, “before the morning star.”
 
@@ -698,7 +698,7 @@ Ps. cx. 1, etc.
 
 μετὰ λόγου, “with reason,” or “the Word.” \[This remarkable passage on the salvability and accountability of the heathen 1863
 
-is noteworthy. See, on St. Matt. xxv. 32, *Morsels of Criticism* by the eccentric but thoughtful Ed. King, p. 341. London, 1788\].
+is noteworthy. See, on St. [[Matthew 25#^25-32|Matt. xxv. 32]], *Morsels of Criticism* by the eccentric but thoughtful Ed. King, p. 341. London, 1788\].
 
 *[p. 277]* ^pg317
 

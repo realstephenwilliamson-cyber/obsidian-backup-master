@@ -27,7 +27,7 @@ binduprāṇāmṛtajalaṃ marutṣaṣṭhasvarānvitam || ^iast
 > [!source] Dyczkowski, vol. XI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)/Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#^pg70|p. 52]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 11.pdf#page=70>))
 >
-> The Saviour (OM), Māyā (HRĪM), the Quadruple Energy (HUM), the Saviour of the Mothers (PHREM) and Navātmā (RĦHRKṢMLVYŪM) - these are the five syllables (which are applied) in accord with the (extent of their) stated pervasion. (with 30.90cd–91ab)
+> The Saviour (OṀ), Māyā (HRĪṀ), the Quadruple Energy (HŪṀ), the Saviour of the Mothers (PHREṀ) and Navātmā (RHRKṢMLVYŪṀ) – these are the five syllables (which are applied) in accord with the (extent of their) stated pervasion. (with 30.90cd–91ab)
 >
 > The Point (M), the Vital Breath (H), Nectar (S), Water (V), Wind (Y), along with the sixth vowel (Ū) – with this seed syllable, present within (the upward flow of) the utterance Power (śaktyuccāārastha), (the sacrificial) animal is fetched (for the sacrifice). One (for whom) the rite of initiation has been performed, even if he has murdered a Brahmin, is purified (in this way). (with 30.91cd–92)
 

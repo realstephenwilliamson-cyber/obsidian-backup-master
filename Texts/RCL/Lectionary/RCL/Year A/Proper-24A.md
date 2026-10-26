@@ -11,6 +11,7 @@ second_reading: "1 Thessalonians 1:1-10"
 gospel: "Matthew 22:15-22"
 first_reading_complementary: "Isaiah 45:1-7"
 psalm_complementary: "Psalm 96:1-9, (10-13)"
+psalm_bcp_complementary: "Psalm 96:1-9, (10-13)"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-24]]"
 cssclasses:

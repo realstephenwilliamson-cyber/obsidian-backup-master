@@ -36,8 +36,6 @@ The present study has surveyed virtually all the relevant Śaiva literature for 
 
 a sexual mode.”[^925] Second, *samāveśa* almost never denoted sexual intercourse of any kind in our sources. Third, *samāveśa* means (lit.) thorough or complete entry (*samyag āveśana*), not mutual entry. Fourth, possession forms no part of the daily practice of the non-Kaula Tantrics (= WHITE’s “soft core,” as per 2003: 16). Fifth, we never saw the use of the term *graha(ṇa)* (“seize”) in connection with salutary possession. Sixth and seventh (the most egregious errors), Yoginīs are never invoked by non-Kaulas, nor do they “prey on” the Tantric practitioner, who by definition is not a *paśu*, since that term can only refer to non-initiates. In the latter assertation, WHITE is confusing Tantric propitiation of Yoginīs with occasional assertions in the literature that Yoginīs suck the vital essences from *paśu*s (non-*tāntrika*s) (e.g., *Netratantra* ch. 20), an extraction said to be ritually imitated by certain extreme worshippers of Bhairava and Kālī described in the far-left scriptures (the JY and BY),[^926] accounts which he seems to conflate with fictional fantasy stories of Yoginīs such as those in the *Kathāsaritsāgara.* Furthermore, even WHITE’s categories of “hard core” and “soft core” are confused, for he associates Abhinavagupta’s lineage with the latter category (2003: 14-15), even though Abhinavagupta himself strove mightily to defend and endorse the Kaula sexual practices, and did not bowdlerize them in the slightest, as can be seen in the rather explicit account of TĀ 29, which is the only Śaiva exegetical source to teach the sexual rite or *kulayāga*. Thus Abhinava’s practices did not “shade into those of orthoprax brahmanic ritual” (2003: 15) in any way. Finally, WHITE claims that the “soft-core” practice of the “high-caste Hindu practitioners” is greatly outnumbered by the “Tantric mainstream” (Ibid.), a statement based on the erroneous (and completely unsupported) notion that the “cults of (predominantly female) village deities whose worship was often conducted by the socially and culturally marginalized” were, by that very definition, Tantric cults (2003: 5). This obviously neglects the central feature of the Tantric tradition, that of initiation without regard to caste into specifically circumscribed communities of spiritual elites who performed a rigorous daily ritual practice for their own benefit. Conflating Tantra with the worship of village deities not taught in Tantric texts allows one to say virtually anything one likes about “Tantra,” including that it was the “predominant religious paradigm . . . of the great majority of the inhabitants” of India (2003: 3)! There are countless other errors in WHITE’s book that we could unpack, but suffice to say that I agree with Hugh URBAN in his characterization of WHITE’s view of Tantra as “Kaulo-centric” and his view of Kaulism as “sexo-centric” (2006: 283).[^927]!
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 [^925]: The closest approach to this might be the *Vijñāna-bhairava* verse (69) in which *śaktyāveśa* denotes sexual intercourse with a consort, but this is with a human woman not identified as a Yoginī in the text or its commentary.
 [^926]: See SANDERSON 1985: n89.
 [^927]: However, we should also note that WHITE gave a much more salient and historically grounded account of Tantra in 2000, when he defined it as “that body of beliefs and practices which, working from the principle that the material universe is nothing other than the concrete manifestation of the divine energy of the godhead that creates and maintains that universe, seeks to appropriate and channel that energy, within the human microcosm, in creative and emancipatory ways” (2000: xxiii). The main problem with this definition, however, is that the key clause beginning “the material universe” excludes the Śaiva Siddhānta, which as noted is not only Tantric, but constitutes the broad base of the tradition (*sāmānya-śāstra*), establishing the ritual forms, yogas, and even doctrines which other lineage-groupings nuance or deviate from in varying degrees.
@@ -48,7 +46,7 @@ Criticizing other scholars’ misunderstandings is not something I take any plea
 
 EPILOGUE: on subitist initiation and modern survivals of Tantric *śaktipāta* 
 
-We have been using the term “subitist” as defined in n85: an instantaneous apprehension or transmission, or a spontaneous realization. This usage of the term brings it back toward the meaning it has in cognitive science (whence it originated), as opposed to being indebted to the usage of the word in Buddhist studies, where it has been made to mean “sudden enlightenment.”[^928] Subitist initiation, though overshadowed by ritual initiation, was not a late development in the tradition; we first see it in the *Niśvāsa*’s *mūla-sūtra* (c. 500 CE; see n693). It is also taught in the *Jayadratha-yāmala*’s fourth *ṣaṭka* (c. 900 CE), which tells us that in the Krama way, the guru’s glance leads one to union, paying reverent attention to his ordinary speech leads to eternal brahman, and whoever he touches while in an elevated state is liberated.[^929] But the *locus classicus* for the idea of subitist initiation during the second millennium was probably the late Saiddhāntika (!) *Cintyāgama,* which mentions seven kinds of initiation, among which four are subitist (*cākṣuṣī sparśa-dīkṣā ca vācikī mānasī tathā*, 13.40ab) and the rest are not (*śāstrī ca yoga-dīkṣā ca hautrīty ādir anekadhā*, 40cd). This list of four—initiation through a look, touch, word, or thought—are those cited by modern Hindu *sampradāya*s. So the notion of subitist initiation paved the way, it would seem, for what we see in *sampradāya*s of the modern period, in which *śaktipāta* and *dīkṣā* have become synonymous.[^930] How did !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+We have been using the term “subitist” as defined in n85: an instantaneous apprehension or transmission, or a spontaneous realization. This usage of the term brings it back toward the meaning it has in cognitive science (whence it originated), as opposed to being indebted to the usage of the word in Buddhist studies, where it has been made to mean “sudden enlightenment.”[^928] Subitist initiation, though overshadowed by ritual initiation, was not a late development in the tradition; we first see it in the *Niśvāsa*’s *mūla-sūtra* (c. 500 CE; see n693). It is also taught in the *Jayadratha-yāmala*’s fourth *ṣaṭka* (c. 900 CE), which tells us that in the Krama way, the guru’s glance leads one to union, paying reverent attention to his ordinary speech leads to eternal brahman, and whoever he touches while in an elevated state is liberated.[^929] But the *locus classicus* for the idea of subitist initiation during the second millennium was probably the late Saiddhāntika (!) *Cintyāgama,* which mentions seven kinds of initiation, among which four are subitist (*cākṣuṣī sparśa-dīkṣā ca vācikī mānasī tathā*, 13.40ab) and the rest are not (*śāstrī ca yoga-dīkṣā ca hautrīty ādir anekadhā*, 40cd). This list of four—initiation through a look, touch, word, or thought—are those cited by modern Hindu *sampradāya*s. So the notion of subitist initiation paved the way, it would seem, for what we see in *sampradāya*s of the modern period, in which *śaktipāta* and *dīkṣā* have become synonymous.[^930] How did
 
 [^928]: There is no term for “sudden enlightenment” in Śaivism (the nearest approach is *sāhasa-samādhi*), and, one could argue, no term for “enlightenment” either (only awakening, awareness, realization, etc.).
 [^929]: JY 4.4.87-89: *puroktāṃ vṛttim ālambya yasya yasyāvalokayet | taṃ taṃ nayati sāyojyaṃ vacas tv avitathaṃ mama || atra krame yadāsaktaḥ kuryād vāg-vyavahārakam | yasya yasya sadaivaṃ hi taṃ nayed brahma śāśvatam || atrārūḍhaḥ sparśayeta yaṃ yaṃ vā prīta-cetasā | sa mukto nātra sandehaḥ satyaṃ satyaṃ gaṇāmbike ||*. (Thanks to Somadeva VASUDEVA for the reference.) Cf. the parallel at [[Tantraloka 15.545|TĀ 15.545-6]]. Note that in the JY passage, some ritual is required: it is only subsequent to the rite taught in the previous section (*puroktāṃ vṛttim ālambya*) that the guru’s glance is sufficiently empowered to initiate.
@@ -62,7 +60,7 @@ When considering the survival and alteration of the doctrines of *śaktipāta,* 
 
 Shaktipāt can be affected by sight, touch, *mantra,* or simply by the will power of the master; in the last case it works at long distances as well. Shaktipāt is in a way an injection of *Shakti.* The master injects in the astral body of the initiated a current of psychic power . . . by the touch of his hands, by casting a look or by speaking out to him some word or words called *mantras,* or any one of God’s holy names, or simply by a mere thought. (1948: 77) 
 
-Here we see the fourfold classification of subitist initiation found in the *Cintyāgama* and many earlier Kaula sources. The correspondence is so close, it calls for further research to demonstrate whether this is constitutes a modern revival on the basis of earlier textual sources, or whether these teachings and practices !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Here we see the fourfold classification of subitist initiation found in the *Cintyāgama* and many earlier Kaula sources. The correspondence is so close, it calls for further research to demonstrate whether this is constitutes a modern revival on the basis of earlier textual sources, or whether these teachings and practices
 
 [^931]: See Viṣṇu Tīrth, *Devātma Shakti* (1948: 79-80).
 [^932]: For a bibliography, see http://www.eecs.berkeley.edu/~keutzer/kundalini/publications.html .
@@ -91,8 +89,6 @@ Also in the early 1960s, Swāmī Muktānanda of Ganeshpurī (1908-82), a discipl
 
 For countless ages, *shaktipāt* has been used as a secret means of initiation by the great sages. To transmit one’s own glory and luster of divine enlightenment into a disciple and give him an instantaneous, direct experience of Brahman, the Eternal Spirit, is the secret meaning of *shaktipāt*. (1994c: 13) 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 [^933]: To be more accurate, Abhinavagupta asserts that none of these can cause *śaktipāta* to occur (just as no impious act can prevent it, if it is divine will), but he seems willing to allow for the possibility that they create more favorable conditions for the Descent to occur, while stopping short of explicitly saying so: see p. 265 *supra*.
 [^934]: Such recommendations are recorded in *Conversations with Swami Muktānanda: the Early Years* (SYDA, 1998), originally published as *Paramārtha Kathā Prasang*; see also PRAKĀŚĀNANDA 2007:
 
@@ -104,7 +100,7 @@ Muktānanda made the concept of *śaktipāt dīkṣā*—which he believed himse
 
 Years prior to becoming a guru, Muktānanda’s first contact with the Tīrtha lineage is described in dramatic terms in his spiritual autobiography, *Play of Consciousness*,[^936] in which he relates that when the intense and strange experiences of awakened *kuṇḍalinī* began to make him doubt his sanity, he by chance discovered a copy of *Mahāyoga Vijñāna* in the farmer’s hut that he had been gifted for his *sādhana* (PRAKĀŚĀNANDA 2007: 78). Its account of the signs of *śaktipāt* enormously reassured Muktānanda that what was happening to him was beneficial; and it was doubtless in this work that he first discovered the word *śaktipāt*.[^937] Indeed, Muktānanda’s later interest in the scriptures of Tantric Śaivism was probably sparked by the discovery that they were the source for the word.[^938] 
 
-Today, “shaktipat” is ubiquitous, primarily due to Muktānanda, who conducted three major world tours from 1970-80, in which he it is claimed he gave *śaktipāt* to hundreds of thousands of people in “intensive” meditation retreats. The !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Today, “shaktipat” is ubiquitous, primarily due to Muktānanda, who conducted three major world tours from 1970-80, in which he it is claimed he gave *śaktipāt* to hundreds of thousands of people in “intensive” meditation retreats. The
 
 [^935]: The present author (as an eight-year-old child) was brought by his parents to meet Muktānanda and witnessed firsthand many of these bizarre signs, called *kriyā*s in Muktānanda’s Siddhayoga, which usually took place in intensive meditation sessions. Those displaying them invariably claimed that they were spontaneous and involuntary, and they certainly seemed free of artifice on the many occasions I witnessed them.
 [^936]: Originally published in the West as *Guru* by Harper and Row in 1969, and in India as *Chitshakti Vilās* in 1972.
@@ -119,7 +115,7 @@ On the last day of the Intensive during meditation, I experienced a piercing of 
 
 Such experiences were not atypical in Muktānanda’s Siddha Yoga. Needless to say, this account reminds us of the piercing of the *cakra*s in *vedha-dīkṣā* as described in TĀ 29 (though that text did not form a part of the Siddha Yoga curriculum), as well as the Five States (*ānanda*, *kampa* etc.). Writing as a scholar-theologian in the context of the Siddha Yoga culture of Muktānanda’s successor (Swāminī Cidvilāsānandā), Paul MULLER-ORTEGA articulates this understanding of *śaktipāt*: “\[it\] involve\[s\] a fundamental spiritual transmission that carries a powerful and, in many cases, immediate experiential impact” (1997: 417) . . . “shaktipat is felt as an opening to an ongoing, intense, and highly positive journey into spirituality and the evolving transformation of life” (Ibid.: 415) . . . “if shaktipat is understood as a discrete initiatory even, it is an even with continuously operative and persistent consequences” (Ibid.: 418). The last two quotes certainly reflect the view of *śaktipāta* in the original Śaiva tradition, and the first reflects specifically that which was sought by the Kaulas. The point of these citations is not to argue for the “reality” of the phenomenon of *śaktipāta*, a point which the reader can consider for himself, but simply to illustrate that the terminology and concerns of the 1000+ year old tradition we have studied are very much alive and well in our era. 
 
-In fact, today, in both India and the West, the word “shaktipat” is part of the lexicon of several million individuals. On the internet one can easily find *śaktipāt* being offered by not only by Indian gurus, but by many American gurus as well, and even by a rabbi![^940] Wikipedia (“the free encyclopedia that anyone can edit”) defines !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+In fact, today, in both India and the West, the word “shaktipat” is part of the lexicon of several million individuals. On the internet one can easily find *śaktipāt* being offered by not only by Indian gurus, but by many American gurus as well, and even by a rabbi![^940] Wikipedia (“the free encyclopedia that anyone can edit”) defines
 
 [^939]: Cf. the verse quoted by Jayaratha when introducing [[Tantraloka 29.236|TĀ 29.236]], which compares *vedha*, defined as piercing the *cakra*s with the “central energy,” with a diamond drill piercing a jewel.
 [^940]: The latter claims that “shaktipat initiation” is equivalent to “S’micha m’shefa/Haniha” in the Judaic tradition, and that one can receive it simply by gazing at his picture online. See http://treeoflifecenterus.com/gabriel-cousens-m-d/shaktipat/ .
@@ -127,8 +123,6 @@ In fact, today, in both India and the West, the word “shaktipat” is part of 
 *[p. 377]* ^pg388
 
 “shaktipat” as “the conferring of spiritual ‘energy’ upon one person by another. *Shaktipat* can be transmitted with a sacred word or mantra, or by a look, thought or touch . . .”,[^941] the fourfold subitist classification being well-established in the modern period. Again, the agency of the guru is primary in this popular understanding, but the article does go on to say that “*Saktipat* is considered an act of grace (*anugraha*) on the part of the guru or the divine.” The article even lists Abhinavagupta’s ninefold classification of *śaktipāta*. What the modern understanding has in common with the original tradition is that *śaktipāt(a)* is an experience of divine grace that triggers a spiritual awakening in a person, usually leading him to take a guru and a spiritual path, often with great zeal. In my 2007 article, I noted the startling similarity of the “signs” of *śaktipāta* and *samāveśa* that we have examined with signs of the Holy Spirit (including shaking, falling, and ‘drunkenness’) in some charismatic Christian groups that have no knowledge of these Asian ideas (2007: 293), pointing to the possibility that these phenomena may be in part rooted in human neurobiology, a possibility that I may take up in a future work.
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^941]: Accessed 5 August 2014.
 
@@ -906,8 +900,6 @@ Jayaratha—*nanu yady evaṃ tat puṃstvāviśeṣān muktāṇūnpraty api ki
 
 Jayaratha—*kuta iti na kutaścid ity arthaḥ || yato na tāvad bhogāt karmakṣayaḥ | dvidhā hi bhogaḥ sambhāvyate krameṇākrameṇa vā | tatra krameṇa bhoge karmāntaraprasaṅgo durnivāra iti kadācid api nāsya kṣayaḥ syāt | akrameṇa punar eṣāṃ bhoga eva na bhavet |* *evaṃ hi karmaṇā kramaphaladānātmā svabhāva eva tyakto bhavet | na caitad ity ubhayathāpi na karmakṣayaḥ siddhyet | tad āha* ‘What is the reason’ is a rhetorical question: no reason is given. Whence, obviously, there is no \[possibility\] of exhausting *karma* through experience.[^943] (There will always be more *karma,* because experiencing its fruits generates further action, with its own consequences*.*) Experience \[of *karma-phala*\] may be conceived in two ways: sequential or immediate. Regarding those two, if experience is sequential, it is 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 [^942]: Note that “subtle impressions” of actions are simultaneously “subtle propensities” to further action.
 [^943]: “Experience” (*bhoga*)*,* refers to “experience of the fruits of actions” (*karma-phala-bhoga*), i.e., karmic fruition or retribution.
 
@@ -928,8 +920,6 @@ Jayaratha—*atha: “jñānāgniḥ sarvakarmāṇi bhasmasāt kurute 'rjuna”
 *tatsiddhir nānyathety evam apūrvam adhigamyate* || *iti* |
 *tad iti karma yena saṃskāra-dvārikā jñānāvāptiḥ syāt | ucyatām iti sākṣepaṃ praśnenātyantam asambhāvyatvaṃ sūcitam* ||
 Now \[there is this quote\]: “O Arjuna, the fire of knowledge reduces all actions to ashes,” (*Gītā* 4.37) and so on. If, on the basis of this statement, the destruction of *karma*s through knowledge is argued, \[then,\] concerning that knowledge in turn, what is the cause? Thus he has said, ‘Then from what \[does that knowledge arise\]?’ For the cause has been stated by others to be of several kinds, such as constant study of the six or sixteen Categories \[in the scriptures (*padārtha*)\] and so on. So having said that (*tāvat*), we do not know which one of those is \[here\] being fixed upon \[as 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^944]: Alluding to *Mīmāṃsā*-*sūtra* 1.1.2; see below. Another interpretation is “from the pious religious acts enjoined by the Lord.”
 
@@ -952,8 +942,6 @@ And why would the result of another action burn the mass of one’s previous *ka
 
 Jayaratha—*evaṃ hi phalatvāviśeṣāt svargapaśvādirūpam api phalaṃ jñānajanakaṃ karmāpi dahed ity āśayaḥ* ||
 Thus, because they are equally effects (lit., due to the non-difference with regard to result-ness), would \[not\] the fruit \[of some other action\], even heaven, livestock, etc. \[by the same token have the power to\] burn even the *karma* that brings about knowledge?—this is the sense. 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^945]: Direct reference to *Mīmāṃsā*-*sūtra* 1.1.2.
 
@@ -990,8 +978,6 @@ And/moreover, other \[actions\], such as fasting and the like (i.e. other forms 
 
 *tan naitad yuktam ajñānavinivartanadvāreṇa karma niṣphalīkriyate na veti dūradūrā cintā* This is not right. One could go on thinking forever about whether or not a *karma* is rendered fruitless by means of eliminating ignorance. 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 [^946]: E.g., in the case of one performing a sacrifice who is bitten by a dog and thus rendered impure, despite the fact that he followed all the rules. According to one of the *smṛtikāras*, the *yajamāna* must fast for three days in this circumstance. Such act eliminates the capacity of the dog-bite to give rise to its (impure) fruit.
 [^947]: *nopavāsādikam cānyad duṣṭakarmāpahaṃ bhavet* diag. conj. SANDERSON : *upavāsādikaṃ cānyad duṣṭakarmaphalaṃ bhavet* Ed. Jayaratha’s reading is *duṣṭaṃ karmaphalaṃ bhavet,* “the \[capacity of\] fasting and the like to give their fruit would be ruined’, but this is very awkward.
 
@@ -1021,8 +1007,6 @@ Initiation by penetration is taught by the Supreme Lord in the sacred *Gahvara* 
 *jvālākulaṃ sva-śāstroktaṃ cakram aṣṭārakādikam* || 240 ||
 *dhyātvā tenāsya hṛc-cakra-vedhanān mantra-vedhanam* |
 Meditating on a circle of flaming \[*śakti*s\], with eight rays or \[whatever number is\] specified in his own authoritative text,[^950] \[he then\] pierces the heart-center of \[the disciple\] with it, because of which it is \[called\] “mantra-penetration.”[^951] 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^948]: DUPUCHE (2003: 325) notes that *pratyaya* probably refers to an *āveśa* experience, but the primary referent of *pratyaya* must be *aṇimādikā*, though given v. 239ab, there clearly is a connection with *āveśa* as well.
 [^949]: See n909 above.
@@ -1055,8 +1039,6 @@ Awareness \[should be centered\] in the place of the “bulb” (*kanda*), \[or\
 *śakti-śaktimad-uccārād*[^958] *gāntoccāreṇa*[^959] *sundari* |
 *śṛṅgāṭakāsana-sthaṃ tu kuṭilaṃ kuṇḍalākṛtim* || 246 || 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 [^952]: J cites a verse that explicitly considers *nāda-vedha* as a means of purifying the *varṇādhvan* and thus as a form of liberating *nirvāṇa-dīkṣā*. Cf. *Kulārṇava-tantra* 14.42-45 (*varṇamayī dīkṣā*).
 [^953]: Some kind of textual corruption is present here; perhaps a marginal note has crept in, or else something has dropped out.
 [^954]: *kandasthāna-* em. SANDERSON : *bindusthāna-* Ed.
@@ -1079,8 +1061,6 @@ Due to enunciation (*uccāra*) of the ‘Power-holder’ (i.e. *Śiva*, the phon
 And that very supreme Power (*paramā śakti*), which manifests/expands bliss, \[in her serpentine form\] adorned with five hoods travels from the birth-place (i.e. the lowest *cakra,* at the pelvic floor) to the highest (i.e. the *dvādaśānta*). *kalās tattvāni nandādyā vyomāni ca kulāni ca* |
 *brahmādi-kāraṇāny akṣāṇy eva sā pañcakātmikā* || 249 ||
 Her \[five hoods represent her\] fivefold nature: the \[five\] *kalā*s (*śāntyatītādi*); the \[five\] tattvas (either the *mahābhūta*s or the *śuddhādhvan*); \[the *kāla-śakti*s or 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^960]: Problematic; perhaps denoting *repha* in its hook form? But it does not take that form in *Śāradā* script. “Curved” could go with *kuṇḍalākṛtim*, but then we are missing the code for ‘R’.
 [^961]: is there an intentional reference to *kuṇḍalinī?*
@@ -1111,8 +1091,6 @@ He should meditate on the mind until the mind dissolves. O Queen of the gods, wh
 *navadhā kalayanty anye vedhaṃ*[^969] *guravo rahasya-vidaḥ* |
 Other esoteric (*rahasyavid*) gurus reckon “penetration” as ninefold, according to the division into \[1\] *mantra*,<sup>970</sup> \[2\] *śakti*, \[3\] world, \[4\] form, \[5\] knowledge, \[6\] body, \[7\] place, \[8\] channel, and \[9\] supreme. 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 [^965]: The *trikoṇa, kanda, hṛdaya, tālu,* and crown, as taught in TĀ 5, or perhaps, as J has it, the *janmasthāna* (≈ *trikoṇa*), *nābhi*, *hṛdaya*, *bindu* (= *bhrū-madhya*), and *nāda* (in the upper forehead; J simply has *sthāna*), as taught in *Netratantra* 7.1, 27-9 and *uddyota* thereon.
 [^966]: Which J gives as *mahākaula, kaula, akula, kulākula*, and *kula*.
 [^967]: SANDERSON takes *pañcaprakārā* with *taḍit*, and takes *virājate* as “shines,” not “looks like,” yielding a different meaning: that the five-fold lightning surges up, enters *dvādaśānta*, and then appears to “merge” but doesn’t fully (hence *virājate*), but rather shines in her “inmost point of involution.” My reading assumes an *iva*, but the main problem with my translation is, how can she shine if she has merged (*līnā*), i.e. dissolved? And the possibility that she shines then vanishes (like lightning) seems to be disallowed by the fact that *virājate* is the final verb.
@@ -1141,8 +1119,6 @@ Having entered (*āviśya*) one or the other of the two channels (*iḍā* and *
 *dehaṃ svacchīkṛtya kṣādīn āntān smaran purokta-puryoghān* |
 *nija-maṇḍala-nirdhyānāt pratibimbayate bhuvana-vedhaḥ* || 260 ||
 With an intensely \[visualized\] flame bright-white as moonlight, departing from the \[lowest\] psychic center (*ādhāra*), gradually \[rising\] from the root-site (*mūla-pīṭha*) or the big toe, \[until\] it merges in the \[highest\] void, \[the guru\] makes the body of the disciple crystal-clear. \[He then\] mentally recites \[the syllables\] from *kṣa* to *a,* \[manifesting\] the mass of worlds \[as\] previously described \[in TĀ 8\]. Due to meditating \[on them in\] the *maṇḍala* of his own \[body\], he \[can\] mirror \[them in the disciple’s body\]: \[this is the\] “penetration of the worlds.” 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 970\. Manu = mantra. Cf. *Svāyambhuvasūtra-saṅgraha* 21 (*japen manum*); *Svāyambhuva-vṛtti* 2.26 (*manunātha* glossed as *mantreśvara*); *Mataṅga* VP 7.47 (*manoś ca paratantratvāt*); and Upādhyāya Śivarāma in his *Śrīvidyāmantra-vivṛti* (*mahāmanu = mahāmantra*). References courtesy of SANDERSON.
 
@@ -1178,8 +1154,6 @@ The wisdom\[-body\] is eightfold, \[consisting of\] the five senses-faculties an
 *tat-tad-galane kramaśaḥ parama-padaṃ piṇḍa-vedhena* || 266 ||
 The higher body (*para-piṇḍa*) consists of the *kalā*s (i.e. *kalā* down to *puruṣa*), the subtle \[body\] is the “eight-part fortress” (see above), \[and\] the material \[body\] is the external \[form\]. \[This body\] faces away, but should be visualized as facing one, \[as\] in a mirror etc.(?)[^977] These different bodies should be forcefully “eliminated,” each \[dissolved\] into the one above it (i.e. *sthūla -> sūkṣma ->* *para*) in stages; \[thus one attains\] the highest state \[beyond even the *para-piṇḍa*\] through “body-penetration.” 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 [^976]: The expression *buddhi-saṃjña-karaṇāntaḥ* is peculiar.
 [^977]: J regards this hemistich as spurious and ridicules those who try to interpret the text as given instead of emending, in a rare instance of text-critical commentary (*ity ardham asaṃgatatvād antargaḍuprāyam ity upekṣyam, yathāsthita-vyākhyānahevākinām etat tu saṃgatiṃ yady upeyāt tadāstām asmākaṃ punar iyatī nāsti dṛṣṭiḥ*: “. . . those who are \[foolishly\] dedicated to interpreting the text just as they receive it, let them try to construe this. Our insight is not so great”).
 
@@ -1214,8 +1188,6 @@ The guru who \[can\] grant the state of Divinity should bring about the “highe
 *tad-vibhāga-krame siddhaḥ sa gurur mocayet paśūn* |
 And it is explained thus in the sacred *Vīrāvalikula*: having completely understood the central \[channel\], difficult to penetrate \[yet\] worthy of being known, he cannot be defiled; perfectly accomplished (*siddha*) in the sequence of its stages, he is a guru who can liberate bound souls. 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 [^978]: *abhilaṣita-nāḍī-vāhāmukhyābhiś* Sand. conj. em. : *abhilaṣita-nāḍi-vāho mukhyābhiś* Ed. Without this emendation, we would translate “\[The guru\], who flows along the desired channel, by means of the primary \[channel\] connected \[indirectly\] to the eye etc., \[causes him to\] attain understanding of that (faculty),“ which may also be correct, but is awkward, not least because the channel connected to the eye must be a minor channel, there being only three primary channels.
 [^979]: Specifically 15, if we assume three primary channels multiplied by five senses.
 [^980]: A very strange use of the word *ākṛti*, and the syntax is bizarrely awkward, as is not uncommon for the works Abhinava cites in this section.
@@ -1239,8 +1211,6 @@ Longing for liberation, the \[five\] gods from *Brahmā* to \[*Sadāśiva*\] are
 *sa eṣa mokṣaḥ kathito niṣpandaḥ sarva-jantuṣu* || 277 ||
 *agnīṣoma-kalā-ghāta-saṃghātāt spandanaṃ haret* |
 This is the liberation that is said to be unchanging in all beings.[^985] As a result of the fusion due to the collision of the energies of fire and moon (= subject and object),[^986] he may bring to an end the \[state of constant dualistic\] flux \[between object-consciousness and subject-consciousness\]. 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^981]: J takes “mouth” to mean the *śakti* of the central channel, and cites the *Vijñāna-bhairava* in support (*śaivī mukham ihocyate*). Indeed, the base of the torso, where the central channel terminates, is sometimes called the *yoginī-vaktra* (a usage that either privileges women practitioners or derives from male practitioners visualizing themselves as the Goddess).
 [^982]: J takes *rūpa* to refer to the visual faculty, i.e. that which perceives *rūpa*.

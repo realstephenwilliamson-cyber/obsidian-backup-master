@@ -487,7 +487,7 @@ VOL. 11. 5. 8
 
 ο. xix.17, 18.
 
-Gal. v.24.
+[[Galatians 05#^5-24|Gal. v.24]].
 
 Ibid. ii.
 
@@ -505,7 +505,7 @@ And after another manner those who are united with Christ are also crucified wit
 
 *[p. 627]* ^pg653
 
-be, by fashioning their lives according to Him, and o.xix.19. consecrating them in His service. And the meaning of the figure is in no way affected by the fact, that the men who hung by His side were malefactors ; for Eph.ii.3. we were by natwre children of wrath, before we believed in Christ, and were all doomed to death, as we said before.
+be, by fashioning their lives according to Him, and o.xix.19. consecrating them in His service. And the meaning of the figure is in no way affected by the fact, that the men who hung by His side were malefactors ; for [[Ephesians 02#^2-3|Eph.ii.3]]. we were by natwre children of wrath, before we believed in Christ, and were all doomed to death, as we said before.
 
 19 And Pilate wrote a title also, and put it on the Cross. And
 

@@ -27,7 +27,7 @@ māyātattvāt kalā jātā kiñcitkartṛtvalakṣaṇā || ^iast
 > [!source] Dyczkowski, vol. VI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)/Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#^pg167|p. 150]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 06.pdf#page=167>))
 >
-> (Now is the time) to reflect on how the (principles), including the Force (of limited agency) and the rest, arise (one by one) in this way. The Force (of limited agency) arises from the principle of Māyā, and its characteristic is limited agency (kiñcitkartrtva).’
+> (Now is the time) to reflect on how the (principles), including the Force (of limited agency) and the rest, arise (one by one) in this way. The Force (of limited agency) arises from the principle of Māyā, and its characteristic is limited agency (kiñcitkartrtva).
 
 ## Viveka
 

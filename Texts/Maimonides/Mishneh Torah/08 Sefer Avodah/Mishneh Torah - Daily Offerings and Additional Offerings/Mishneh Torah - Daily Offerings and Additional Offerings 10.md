@@ -113,7 +113,7 @@ When one mixes together [wine libations], he may mix the wine libations of the a
 **20.** As an initial preference, one should not mix wine [libations] unless the meal-offerings have been mixed together or they have been offered, as we explained.[^54] ^10-20
 
 [^1]: *Sefer HaMitzvot* (positive commandment 48) and *Sefer HaChinuch* (mitzvah 314) include the offering of these sacrifices as one of the 613 mitzvot of the Torah. These sacrifices are mentioned in [[Torah 41 - Pinchas#^29-7|Numbers 29:7-8]].
-[^2]: In the Mishnah (*Yoma* 7:3). This follows the opinion of Rabbi Yehudah HaNasi ([[Yoma 70#70b|*Yoma* 70b]]) who maintains that the ram mentioned in [[Torah 29 - Achrei Mot#^16-5|Leviticus 16:5]] is the same mentioned in Numbers. See also *Hilchot Avodat Yom HaKippurim* 1:1.
+[^2]: In the Mishnah (*Yoma* 7:3). This follows the opinion of Rabbi Yehudah HaNasi (*Yoma* [[Yoma 70#70b|70b]]) who maintains that the ram mentioned in [[Torah 29 - Achrei Mot#^16-5|Leviticus 16:5]] is the same mentioned in Numbers. See also *Hilchot Avodat Yom HaKippurim* 1:1.
 [^3]: After the conclusion of the fast.
 [^4]: See [[Torah 29 - Achrei Mot#^16-27|Leviticus 16:27]]; *Hilchot Ma'aseh HaKorbanot* 1:16.
 [^5]: As mentioned in [[Torah 29 - Achrei Mot#^16-5|Leviticus 16:5-9]]. See *Hilchot Avodat Yom HaKippurim*, ch. 3, for a description of the service performed with these goats.
@@ -121,7 +121,7 @@ When one mixes together [wine libations], he may mix the wine libations of the a
 [^7]: The fact that the sacrifices of each day of Sukkot differ from each other endow the days of the holiday with an advantage over the days of the holiday of Pesach. For that reason, the full *Hallel* is recited on each of the days of Sukkot, while this is not true with regard to Pesach. Nevertheless, the fact that the sacrifices differ is not sufficient for each day to be considered a separate mitzvah.
 [^8]: Literally, "the eighth day of assembly."
 [^9]: *Sefer HaMitzvot* (positive commandment 51) and *Sefer HaChinuch* (mitzvah 322) include the offering of these sacrifices as one of the 613 mitzvot of the Torah. These sacrifices are mentioned in [[Torah 41 - Pinchas#^29-35|Numbers 29:35-38]].
-[^10]: I.e., it is not a continuation of the Sukkot offerings. As [[Rosh Hashanah 4#4b|*Rosh HaShanah* 4b]], *et al*, state, there are six aspects in which Shemini Atzeret is considered as an independent festival. One of them is that it has its own sacrifice.
+[^10]: I.e., it is not a continuation of the Sukkot offerings. As *Rosh HaShanah* [[Rosh Hashanah 4#4b|4b]], *et al*, state, there are six aspects in which Shemini Atzeret is considered as an independent festival. One of them is that it has its own sacrifice.
 [^11]: In connection with the water libation, a special celebration, *Simchat Beit HaShoevah* was held in the Temple Courtyard. The Rambam describes that celebration and the immensity of the joy expressed at that time at the conclusion of *Hilchot Shofar Sukkah VeLulav*. Interestingly, however, in that source, he does not associate the celebration with the water libation and here, he does not mention the celebration.
 [^12]: A practice that is part of the Oral Law, but is not specifically mentioned in the Written Law. As the Rambam mentions in his Commentary to the Mishnah (*Sukkah* 4:8), there are allusions to this practice in the Written Law.
 [^13]: I.e., initially, this is the preferred manner of observing the mitzvah.
@@ -133,7 +133,7 @@ When one mixes together [wine libations], he may mix the wine libations of the a
 [^19]: A stream that is located on the southern side of the Temple Mount.
 [^20]: One of the gates located on the south side of the Temple Courtyard. It was given its name, because the water for the libation was brought in through it.
 [^21]: See *Hilchot K'lei HaMikdash* 7:6.
-[^22]: Usually, the priests would circle the altar, turning first to the right. In this instance, they would turn to the left lest the smoke affect the water and the wine ([[Sukkah 48#48b|*Sukkah* 48b]]; *Hilchot Ma'aseh HaKorbanot* 7:11).
+[^22]: Usually, the priests would circle the altar, turning first to the right. In this instance, they would turn to the left lest the smoke affect the water and the wine (*Sukkah* [[Sukkah 48#48b|48b]]; *Hilchot Ma'aseh HaKorbanot* 7:11).
 [^23]: In his gloss to *Hilchot Ma'aseh HaKorbanot* 2:1, the *Kessef Mishneh* states that these cups were not a permanent part of the altar, but placed there only during the Sukkot holiday.
 [^24]: So that it would be obvious that he is pouring the water in the altar's cups (Rav Yosef Corcus).
 [^25]: Rather than on the altar.
@@ -143,7 +143,7 @@ When one mixes together [wine libations], he may mix the wine libations of the a
 [^29]: This change was necessary, for going down to fill the pitcher with water from the stream was forbidden on the Sabbath, because one would be carrying from a public domain to a private domain.
 [^30]: Water that was uncovered is unacceptable as a libation, as stated in *Hilchot Issurei Mizbeiach* 6:10.
 [^31]: I.e., in addition to the song recited for the daily sacrifice. See also Chapter 6, Halachot 8-9 which describe the Levites' songs.
-[^32]: This psalm contains the verse "The voice of God is upon the water" and thus is appropriate to mark the beginning of the offering of the water libation (see [[Sukkah 55#55a|*Sukkah* 55a]]).
+[^32]: This psalm contains the verse "The voice of God is upon the water" and thus is appropriate to mark the beginning of the offering of the water libation (see *Sukkah* [[Sukkah 55#55a|55a]]).
 [^33]: This psalm warns of coming to the Temple to celebrate and offer sacrifices without first repenting (Rashi, *Sukkah, op. cit.*).
 [^34]: From this verse until the end of the psalm. These verses were chosen, because they speak of confronting wicked powers. Our Sages ordained that it be recited in the Second Temple period when the Temple was under the authority of Persian, Greek, and Roman rulers (*ibid.*).
 [^35]: I.e., from verse 5 until verse 16. These verses speak about God's watchful eye that surveys man's actions. These verses were chosen, because Sukkot marks the end of the harvest season when the agricultural gifts must be given to the poor. These verses serve as a warning, impressing the people with the awareness that God is observing them at all times and seeing whether they give these gifts or not.
@@ -163,6 +163,6 @@ When one mixes together [wine libations], he may mix the wine libations of the a
 [^49]: The *Sifra* derives this concept from [[Torah 24 - Vayikra#^3-11|Leviticus 3:11]] which states "And he shall offer it on the pyre," using a singular form.
 [^50]: I.e., those of bulls, those of sheep, and those of rams.
 [^51]: As required by Halachah 15.
-[^52]: The rationale for the restriction against mixing their wine libations is only to prevent their meal-offerings from being intermingled. Once the meal-offerings have been offered, there is no longer any need for that constraint ([[Menachot 89#89b|*Menachot* 89b]]). They may be mixed as an initial preference [the Rambam's Commentary to the Mishnah (*loc. cit.*)]. See Halachah 20.
+[^52]: The rationale for the restriction against mixing their wine libations is only to prevent their meal-offerings from being intermingled. Once the meal-offerings have been offered, there is no longer any need for that constraint (*Menachot* [[Menachot 89#89b|89b]]). They may be mixed as an initial preference [the Rambam's Commentary to the Mishnah (*loc. cit.*)]. See Halachah 20.
 [^53]: For as stated in *Hilchot Ma'aseh HaKorbanot* 2:12, the wine libations may be brought several days after the sacrifice was offered.
 [^54]: In Halachah 18.

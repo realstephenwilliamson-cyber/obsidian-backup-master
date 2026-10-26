@@ -11,6 +11,7 @@ second_reading: "Ephesians 1:15-23"
 gospel: "Matthew 25:31-46"
 first_reading_complementary: "Ezekiel 34:11-16, 20-24"
 psalm_complementary: "Psalm 95:1-7a"
+psalm_bcp_complementary: "Psalm 95:1-7a"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-29]]"
 cssclasses:

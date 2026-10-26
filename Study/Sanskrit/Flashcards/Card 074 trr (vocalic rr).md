@@ -20,17 +20,14 @@ nyasa: "ta: left hip (*kaṭi*) · ṝ: left nostril (*nāsā*)"
 ## Front
 
 - **Glyph:** तॄ
-- **Variation:** —
 - **Example:** पितॄन्
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** As in ‘pitṝn’ (fathers)
-- **Class (as printed):** long syllable
-- **root:** ‘to cross’
-- **Grid:** a row of vowel signs (◌ृ ◌ॄ) above the five rows of stops + य र ल व + श ष स ह; in bold: ◌ॄ, त
-- **Example:** pitṝn (fathers)
+> [!note]- Back
+> - **Pronunciation:** As in ‘pitṝn’ (fathers)
+> - **root:** ‘to cross’
+> - **Class:** long syllable
+> - ृ <u>ॄ</u> / क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / <u>त</u> थ द ध न / प फ ब भ म / य र ल व / श ष स ह
+> - **Example:** pitṝn (fathers)
 
 ## Register
 

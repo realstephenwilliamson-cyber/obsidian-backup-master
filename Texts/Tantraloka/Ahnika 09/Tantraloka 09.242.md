@@ -27,7 +27,7 @@ karaṇatvamato yuktaṃ kartraṃśaspṛktvayogataḥ || ^iast
 > [!source] Dyczkowski, vol. VI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)/Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#^pg249|p. 232]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 06.pdf#page=249>))
 >
-> It is clear that they are produced by the ego, because the (forms of) perception “I hear”, “I see” or “I smell’ and the like are (always) associated with the ego. (with 9.241cd–242ab)
+> It is clear that they are produced by the ego, because the (forms of) perception “I hear”, “I see” or “I smell” and the like are (always) associated with the ego. (with 9.241cd–242ab)
 >
 > Therefore, it is reasonable to maintain (yukta) that their status as instruments of action (karana) depends on their contact with an aspect of the agent. An instrument of action which is independent (vibhinna) of the agent would be an object of the impulse (of some other principle). Thus, how could it be an instrument (of action of that agent)? (with 9.242cd–243ab)
 

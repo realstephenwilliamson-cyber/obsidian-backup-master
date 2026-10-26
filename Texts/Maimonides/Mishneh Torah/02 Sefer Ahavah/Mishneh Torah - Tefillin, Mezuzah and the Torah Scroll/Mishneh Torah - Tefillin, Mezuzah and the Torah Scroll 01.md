@@ -171,14 +171,14 @@ If [the length of[^165] the leg][^166] is not equivalent to that of a small lett
 [^5]: as described in Chapter 3.
 [^6]: *Tosafot, Menachot* 34b states the word is related to the root ללפ, which means "dispute." The *Tur* (*Orach Chayim* 25) inteprets the word as meaning "sign." *Tefillot Yisrael* associates the term with the power of thought, citing [[Torah 12 - Vayechi#^48-11|Genesis 48:11]]. The *Pri Megadim* (*Orach Chayim* 25:20) understands the term as meaning, "mark of distinction."
 [^7]: The commentaries note the difference between the two verbs, "placed" and "tied." See also our commentary on Chapter 4, Halachah 4. It is, nevertheless, worth noting that in the listing of the mitzvot in the introduction to the *Mishneh Torah*, the Rambam mentions "tying the *tefillin* on the head."
-[^8]: *Sefer HaMitzvot* (Positive Commandments 12 and 13) and *Sefer HaChinuch* (Mitzvot 421 and 422) consider these obligations to be two of the Torah's 613 mitzvot. (See [[Menachot 44#44a|*Menachot* 44a]].) Since they are two separate mitzvot, the performance of one is not dependent on the performance of the other, as stated in Chapter 4, Halachah 4.
+[^8]: *Sefer HaMitzvot* (Positive Commandments 12 and 13) and *Sefer HaChinuch* (Mitzvot 421 and 422) consider these obligations to be two of the Torah's 613 mitzvot. (See *Menachot* [[Menachot 44#44a|44a]].) Since they are two separate mitzvot, the performance of one is not dependent on the performance of the other, as stated in Chapter 4, Halachah 4.
 [^9]: for example, the *yud* has a short foot in its lower right-hand corner. If that foot is missing, it is considered to have been improperly formed. Therefore, not only it, but the entire passage is not acceptable.
 [^10]: If even one of the passages is not written in the proper manner, the person is not considered to have fulfilled the mitzvah at all. (See also the Rambam's Commentary on the Mishnah, *Menachot* 3:7.)  
     Accordingly, it is proper to have one's *tefillin* checked from time to time to make sure that none of the letters have faded. (See the commentary on Chapter 2, Halachah 11.)
 [^11]: which mention the mitzvah and, hence, are
 [^12]: from its proper shape,
 [^13]: In this instance, as well, a disqualifying factor in a single point of a single letter prevents the entire mitzvah from being fulfilled.
-[^14]: The *Ben Yedid* explains that the difference in the phraseology used by the Rambam with regard to *tefillin* and mezuzot ("lacking a point") and a Torah scroll ("lacking even one letter") alludes to the difference in the phraseology used by the sources for these laws ([[Menachot 34#34a|*Menachot* 34a]] and [[Bava Batra 15#15a|*Bava Batra* 15a]]).
+[^14]: The *Ben Yedid* explains that the difference in the phraseology used by the Rambam with regard to *tefillin* and mezuzot ("lacking a point") and a Torah scroll ("lacking even one letter") alludes to the difference in the phraseology used by the sources for these laws (*Menachot* [[Menachot 34#34a|34a]] and *Bava Batra* [[Bava Batra 15#15a|15a]]).
 [^15]: Though Rabbenu Nissim (*Megillah*, Chapter 2) appears to contest the Rambam's statements on this issue, the Rambam's view is accepted by most authorities. (See also Chapter 7, Halachah 9.)
 [^16]: Though all of the ten principles mentioned by the Rambam have their source in the Talmud, their organization into a list of ten is original.
 [^17]: *Yad Malachi* interprets the latter expression as a law which has all the authority of a Torah commandment, even though there is no allusion to it in the Written Law. (See also the Rambam's Introduction to his Commentary on the Mishnah, Chapter 4.)
@@ -187,22 +187,22 @@ If [the length of[^165] the leg][^166] is not equivalent to that of a small lett
 [^20]: These eight conditions are mentioned in Chapter 3, Halachah 1, and discussed in the subsequent halachot of that chapter.
 [^21]: as opposed to other tints
 [^22]: This translation is not precise. Note Halachah 7 for a more specific definition of the term קלף.
-[^23]: [[Shabbat 23#23a|*Shabbat* 23a]] states that it is preferable to use olive oil.
+[^23]: *Shabbat* [[Shabbat 23#23a|23a]] states that it is preferable to use olive oil.
 [^24]: See *Shabbat*, ibid., and commentaries, where it is explained that they would heat the above substances and hold a glass above, upon which the vapors would condense. Afterwards, the soot would be collected.
 [^25]: *Shabbat*, ibid., states that it is preferable to use balsam sap.
 [^26]: In one of his responsa, the Rambam writes that it is customarily moistened with oil.
-[^27]: [[Niddah 20#20a|*Niddah* 20a]] teaches us that their ink was stored while dry.
+[^27]: *Niddah* [[Niddah 20#20a|20a]] teaches us that their ink was stored while dry.
 [^28]: From the statement in *Shabbat* forbidding ink to be soaked on the Sabbath, we can assume that the normal process is to soak it before using it.
 [^29]: which endows the ink with a lasting quality. In contrast, the Rambam writes in one of his responsa that if one were to soak the ink in water, it would fade rapidly.  
     In the same responsum, he states that a liquid possessing qualities similar to gallnut juice can be obtained from pomegranate shells or the outer shells of other nuts.
-[^30]: [[Sotah 20#20a|*Sotah* 20a]] derives this concept from [[Torah 35 - Nasso#^5-23|Numbers 5:23]], which states, "He shall write and he shall blot out." Proper ink should be able to be blotted out after writing.
+[^30]: *Sotah* [[Sotah 20#20a|20a]] derives this concept from [[Torah 35 - Nasso#^5-23|Numbers 5:23]], which states, "He shall write and he shall blot out." Proper ink should be able to be blotted out after writing.
 [^31]: Note the *Zohar* (Vol. II, p. 159a), which requires that ink be made from substances that are derived from the plant kingdom.
 [^32]: Torah scrolls, *tefillin*, and mezuzot.
 [^33]: itself, and not in a mixture with other substances
 [^34]: a substance produced by the rusting of metal. Our translation is based on Rav Kapach's commentary which has its source in the Rambam's responsa. Others render this phrase "with gallnut juice and vitriol," implying that the two substances should be combined.
 [^35]: after the fact (בדיעבד).
 [^36]: i.e., if there are no specific substances which are excluded, as stated above
-[^37]: [[Megillah 17#17a|*Megillah* 17a]] explicitly disqualifies a *megillah* written in red ink. From that and other sources, it appears that such ink was frequently used at that time, but was deemed unacceptable for use for a Torah scroll.
+[^37]: *Megillah* [[Megillah 17#17a|17a]] explicitly disqualifies a *megillah* written in red ink. From that and other sources, it appears that such ink was frequently used at that time, but was deemed unacceptable for use for a Torah scroll.
 [^38]: Note the *Bi'ur Halachah* (32), which states that even blue ink is unacceptable.
 [^39]: *Soferim* 1:9 relates that a Torah scroll was written for Alexander with every one of the names of God written in gold. When the Sages heard about this, they said that the scroll should be entombed.  
     Besides excluding the use of gold-colored ink, the *Shulchan Aruch* (*Orach Chayim* 32:3) explains that covering the ink with gold dust is not acceptable.
@@ -212,7 +212,7 @@ If [the length of[^165] the leg][^166] is not equivalent to that of a small lett
 [^43]: As mentioned in Halachah 10, the animal must be kosher.
 [^44]: *Shulchan Aruch HaRav* (32:10) states that if the hair is not entirely removed, the parchment is not fit to be used. Even after the fact, it is unacceptable. The *Mishnah Berurah* quotes this opinion as well, but also mentions other opinions, which do not invalidate the parchment if some hair remains, as long as it had been placed in lime for a long enough time for thehair to fall off.
 [^45]: The *Shulchan Aruch* (*Orach Chayim* 32:8) mentions that lime is customarily used for this purpose.
-[^46]: In one of his responsa, the Rambam explains that the term *g'vil* is used to describe any coarse, uneven surface. Note a parallel usage in [[Bava Batra 3#3a|*Bava Batra* 3a]].  
+[^46]: In one of his responsa, the Rambam explains that the term *g'vil* is used to describe any coarse, uneven surface. Note a parallel usage in *Bava Batra* [[Bava Batra 3#3a|3a]].  
     If the hide is not prepared in this fashion, it is referred to as *diftera*, and a Torah scroll, *tefillin*, or *mezuzah*, written upon it is invalid. Even בדיעבד (after the fact), such parchment is not acceptable, as stated in Halachah 14.
 [^47]: There is, however, no obligation to divide the parchment. If it has been processed correctly, it may be used for a Torah scroll without being separated, as stated in the following halachah.
 [^48]: or wool of the animal
@@ -220,9 +220,9 @@ If [the length of[^165] the leg][^166] is not equivalent to that of a small lett
 [^50]: which means "peel." It is given this name because it is a thin layer of flesh which is peeled easily.
 [^51]: *Duch* is Aramaic for "place," and *sustos* is Greek (Median in other texts) for "meat." Thus, the word means "the place of the meat" (*Aruch*).  
     Our translation and commentary follows the standard published text of the *Mishneh Torah*, which is quoted in the *Shulchan Aruch, Orach Chayim* 32:7. It must, nevertheless, be emphasized that the authoritative Yemenite manuscripts of the *Mishneh Torah* reverse the interpretations of *k'laf* and *duchsustos*. The latter interpretation is reinforced by several responsa of the Rambam on the subject. It also is supported by *Hilchot Shabbat* 11:6. The Rashba's text of the *Mishneh Torah* also contained this version, as is obvious from his responsa (Vol. 1, Responsum 579).
-[^52]: From [[Bava Batra 14#14b|*Bava Batra* 14b]], it appears that Moses wrote the Torah scroll which he placed in the holy ark on *g'vil*. Similarly, [[Gittin 54#54b|*Gittin* 54b]] mentions that Torah scrolls would be written on *g'vil*.
+[^52]: From *Bava Batra* [[Bava Batra 14#14b|14b]], it appears that Moses wrote the Torah scroll which he placed in the holy ark on *g'vil*. Similarly, *Gittin* [[Gittin 54#54b|54b]] mentions that Torah scrolls would be written on *g'vil*.
 [^53]: This side is smoother and better to write on.
-[^54]: The Rambam's expression is somewhat inexact, because it is permissible to write *tefillin* only on *k'laf*. If they are written on *g'vil* or *duchsustos*, they are unacceptable ([[Shabbat 79#79b|*Shabbat* 79b]]).
+[^54]: The Rambam's expression is somewhat inexact, because it is permissible to write *tefillin* only on *k'laf*. If they are written on *g'vil* or *duchsustos*, they are unacceptable (*Shabbat* [[Shabbat 79#79b|79b]]).
 [^55]: i.e., on the portion of the *k'laf* where it is separated from the *duchsustos*.
 [^56]: As stated in the following halachah, it is preferable - but not obligatory - to write a *mezuzah* on this type of parchment.
 [^57]: i.e., on the portion of the *duchsustos* where it is separated from the *k'laf*.
@@ -232,12 +232,12 @@ If [the length of[^165] the leg][^166] is not equivalent to that of a small lett
     It must be emphasized that the Yemenite manuscripts mentioned in the previous halachah, which reverse the definitions of *k'laf* and *duchsustos*, do not change the text of this halachah. Thus, according to these texts, when writing on the thin upper parchment, one should write on the epidermis, and when writing on the thick lower parchment, one should write on the part facing the inside of the body.  
     There is an advantage to this version. According to the standard texts, there is an apparent contradiction. Although one should write on the epidermis when writing on *g'vil*, it is improper to do so when writing on *k'laf*.
 [^61]: The entire scroll, however, must be written on one or the other of these types of parchment. If half was written on *k'laf* and half on *g'vil*, it is unacceptable (Chapter 7, Halachah 4; *Shulchan Aruch, Yoreh De'ah* 271:4).
-[^62]: Though this concept is not mentioned explicitly in the Talmud, the rabbis derive it from their understanding of [[Bava Batra 14#14b|*Bava Batra* 14b]].
-[^63]: Even in Talmudic times, [[Shabbat 79#79b|*Shabbat* 79b]] mentions that on occasion it was preferable to write a *mezuzah* on *k'laf*, because the *mezuzah* would be preserved better than if it were written on *duchsustos*.
+[^62]: Though this concept is not mentioned explicitly in the Talmud, the rabbis derive it from their understanding of *Bava Batra* [[Bava Batra 14#14b|14b]].
+[^63]: Even in Talmudic times, *Shabbat* [[Shabbat 79#79b|79b]] mentions that on occasion it was preferable to write a *mezuzah* on *k'laf*, because the *mezuzah* would be preserved better than if it were written on *duchsustos*.
 [^64]: i.e., it is preferable to do it in this manner.  
     It must be noted that at present, a single type of parchment is used for all three sacred objects. The parchment is not separated in two. A thin portion is removed from the upper layer, and the majority of the - if not the entire - lower layer is rubbed off. The parchment produced in this manner is more attractive and also lighter (a factor significant with regard to a Torah scroll. (See *Shulchan Aruch*, *Orach Chayim* 32:7; Ramah, *Yoreh De'ah* 271:3, 288:6; *Siftei Cohen*, *Yoreh De'ah* 271:9.)
 [^65]: *Shulchan Aruch HaRav* 32:14 expands the scope of this law, stating that it is not befitting to write the name of God on parchment from a non-kosher animal. This applies even when the intent is not to use the parchment for a sacred purpose.
-[^66]: [[Shabbat 108#108a|*Shabbat* 108a]] derives this concept from the exegesis of [[Torah 15 - Bo#^13-9|Exodus 13:9]], "So that the Torah of God will be in your mouths." They conclude: Only what is permitted to be "in your mouths" - i.e., species which are kosher - is acceptable for a Torah scroll. Even בדיעבד (after the fact), such parchment is not acceptable, as stated in Halachah 14.  
+[^66]: *Shabbat* [[Shabbat 108#108a|108a]] derives this concept from the exegesis of [[Torah 15 - Bo#^13-9|Exodus 13:9]], "So that the Torah of God will be in your mouths." They conclude: Only what is permitted to be "in your mouths" - i.e., species which are kosher - is acceptable for a Torah scroll. Even בדיעבד (after the fact), such parchment is not acceptable, as stated in Halachah 14.  
     As explained in Chapter 3, this requirement applies not only to the parchment, but also to all the other elements involved in making these sacred articles.
 [^67]: See Halachah 20 in regard to writing on parchment made from the skin of birds.
 [^68]: *Shabbat* (ibid.) offers the following parable to explain why even though such animals may not be eaten, it is permitted to use their hides. There were two people who were sentenced to death. One was executed by the king himself and the other by the executioner. Which is more noteworthy? Obviously, the one whom the king executed himself.  
@@ -264,14 +264,14 @@ If [the length of[^165] the leg][^166] is not equivalent to that of a small lett
 [^80]: This explains why although a verse from the Torah must always be written on ruled parchment, we are not required to do so for *tefillin*.  
     Even though a *mezuzah* is also covered, ruling the parchment is required because it can be removed from its covering easily and must be checked twice in seven years. In contrast, there is no obligation to check *tefillin* and the parchments are almost never removed from their compartments (*Kessef Mishneh*, Rabbenu Nissim).
 [^81]: The *Shulchan Aruch* (*Orach Chayim* 32:20, 29), however, emphasizes that one should carefully check the passages of the *tefillin* to make sure that they were written correctly. One who does not know the passages by heart should write from an existent text.
-[^82]: Even a person who knows the passages by heart may err, because sometimes the spellings of words are different from their pronunciations ([[Megillah 18#18b|*Megillah* 18b]]).  
+[^82]: Even a person who knows the passages by heart may err, because sometimes the spellings of words are different from their pronunciations (*Megillah* [[Megillah 18#18b|18b]]).  
     The *Siftei Cohen* (*Yoreh De'ah* 274:3) quotes a difference of opinion among the Rabbis if, after the fact, it is permitted to use a Torah scroll that was not written from an existent text.
 [^83]: The phraseology used in this halachah is a matter of question. Though our texts follow the standard published texts of the *Mishneh Torah*, the authoritative manuscripts substitute the word *min* for *apikoros*.  
     The difference between the two versions is significant. In *Hilchot Teshuvah* 3:8, the Rambam defines an *apikoros* as a person who denies the Torah and/or the prophetic tradition, while in *Hilchot Teshuvah* 3:7, he describes a *min* as a person who does not believe in God. When a *min* writes a Torah scroll, the names of God it contains do not possess any holiness, because he does not believe in God at all. In contrast, since an *apikoros* does believe in God, were he to write a Torah scroll the names he writes would possess a certain dimension of holiness.
 [^84]: In *Hilchot Yesodei Torah* 6:8, the Rambam explains why burning such a scroll does not violate the prohibition against destroying God's name:  
     He does not believe in the sanctity of [God's] name and did not compose it for a sacred purpose. Rather, he considers this to be similar to any other text. Since this is his intent, the names [of God he writes] do not become holy.  
     Significantly, the Rambam does not state that we presume that the scribe had the intention that the name of God refer to a false deity. Note, however, the Rambam's statements in *Hilchot Avodat Kochavim* 2:5: "[It can be assumed that] a *min's* thoughts are concerned with false gods." *Shulchan Aruch HaRav* 39:4 and the *Mishnah Berurah* 39:13 refer to the latter statement and explain that the passages should be burned, because the names of God refer to a false deity.  
-    [[Shabbat 116#116a|*Shabbat* 116a]] draws a parallel between the burning of such a Torah scroll and the scroll of a *sotah* (a woman accused of adultery). In the process of a *sotah's* trial, a scroll on which is written a passage containing God's name is blotted out. Our Sages conclude that just as God is willing to allow His name to be wiped out to establish peace between a man and his wife, so, too, He allows His name to be destroyed because of these individuals who disturb the peace that exists between Him and His people.
+    *Shabbat* [[Shabbat 116#116a|116a]] draws a parallel between the burning of such a Torah scroll and the scroll of a *sotah* (a woman accused of adultery). In the process of a *sotah's* trial, a scroll on which is written a passage containing God's name is blotted out. Our Sages conclude that just as God is willing to allow His name to be wiped out to establish peace between a man and his wife, so, too, He allows His name to be destroyed because of these individuals who disturb the peace that exists between Him and His people.
 [^85]: or Jewish property
 [^86]: It was quite common in the Second Temple period for Jews to betray their countrymen or their property to the Roman authorities. The severity of this transgression is emphasized by the Rambam, who includes a *moseir* in the 24 categories of individuals who do not have a portion in the world to come. (See *Hilchot Teshuvah* 3:6,12.)  
     Similarly, in *Hilchot Chovel UMazik* 8:10, the Rambam states that a *moseir* may be killed to prevent him from betraying a Jew's life or property to gentiles. Because of the severity of this transgression, the Rambam considers such an individual equivalent to an outright nonbeliever.
@@ -280,7 +280,7 @@ If [the length of[^165] the leg][^166] is not equivalent to that of a small lett
 [^89]: lest they be used. (See *Turei Zahav, Yoreh De'ah* 281:1.) Since there is a possibility that the names of God they contain were written with the proper intent (and hence, they would possess a dimension of holiness), they are not burned.
 [^90]: *tefillin*
 [^91]: a *mezuzah*.
-[^92]: [[Gittin 45#45b|*Gittin* 45b]]
+[^92]: *Gittin* [[Gittin 45#45b|45b]]
 [^93]: Thus excluding slaves, women and minors, as stated in Chapter 4, Halachah 13.
 [^94]: Thus excluding Jews who do not believe in their heritage, gentiles, and *mosrim*.  
     The *Shulchan Aruch* (*Orach Chayim* 39:2) states that anyone who is disqualified from writing *tefillin* is also disqualified from performing any other activity necessary to prepare them.
@@ -293,7 +293,7 @@ If [the length of[^165] the leg][^166] is not equivalent to that of a small lett
     Even the opinions which do not allow the sacred articles purchased from the gentiles to be used require that they be redeemed and entombed, because of our regard for the sacred articles and our fear that the gentiles would treat them sacrilegiously.  
     **We should not, however, purchase Torah scrolls, *tefillin*, or mezuzot from gentiles for more than they are worth -** The *Shulchan Aruch* (*Orach Chayim* 39:7; *Yoreh De'ah* 281:1) suggests paying slightly more than their worth.  
     **so that they do not become accustomed to stealing them. -** The Sages feared that if the Jews redeemed these sacred articles from the gentiles at more than their market value, the gentiles would make special efforts to steal them in order to receive these higher prices.  
-    [[Gittin 45#45a|*Gittin* 45a]] establishes a similar principle with regard to human captives, stating, "Captives should not be redeemed for more than their worth."
+    *Gittin* [[Gittin 45#45a|45a]] establishes a similar principle with regard to human captives, stating, "Captives should not be redeemed for more than their worth."
 [^99]: See Halachah 10.
 [^100]: See Halachot 6-7.
 [^101]: See Halachah 11.
@@ -321,12 +321,12 @@ If [the length of[^165] the leg][^166] is not equivalent to that of a small lett
 [^120]: while still moist. The *Shulchan Aruch* (*Orach Chayim* 32:24) states that it is preferable to wait until the ink dries and then scrape the letters off, rather than rub them out while the ink is still moist. In the latter instance, a mark of the ink is still left. Though it does not disqualify the religious article, it is not attractive.
 [^121]: See also Chapter 7, Halachah 13.
 [^122]: and desire to protect their work from being exposed to dust or other factors
-[^123]: This does not show proper respect for the sacred articles ([[Eruvin 98#98a|*Eruvin* 98a]]).
+[^123]: This does not show proper respect for the sacred articles (*Eruvin* [[Eruvin 98#98a|98a]]).
 [^124]: By no means, however, should they leave them open and uncovered, for this is also a sign of disrespect. The *Bayit Chadash* and the *Siftei Cohen* (*Yoreh De'ah* 277:1) extend this principle to all sacred texts, explaining that they should never be left open.
 [^125]: As mentioned in Halachah 15, if a scribe did not have the proper intent when writing one of God's names, the scroll is not acceptable.
 [^126]: becoming the property of another individual
 [^127]: The *Siftei Cohen* (*Yoreh De'ah* 281:9) states that this law applies only when the scribe was paid for his services. If he wrote the scroll as a favor, his word is not accepted and the scroll is not disqualified.
-[^128]: [[Gittin 54#54b|*Gittin* 54b]] states that he may not collect his entire wage minus the payment due him for the names of God, because a Torah scroll is worthless unless God's names were written with the proper intent.  
+[^128]: *Gittin* [[Gittin 54#54b|54b]] states that he may not collect his entire wage minus the payment due him for the names of God, because a Torah scroll is worthless unless God's names were written with the proper intent.  
     The Ramah (*Yoreh De'ah* 281:4) states that the scribe does not forfeit his entire wage. Although he is not paid the fee due him for a Torah scroll, he still should be paid for producing a text of the*Chumash*.  
     At that time, printing presses were uncommon and books were written as scrolls. Though such a scroll could not be used for a communal Torah reading, it would be useful for individual study. [Note the objections of the *Turei Zahav* (*Yoreh De'ah* 281:4) to this ruling.]
 [^129]: he would not suffer a major loss
@@ -335,27 +335,27 @@ If [the length of[^165] the leg][^166] is not equivalent to that of a small lett
 [^132]: as required by Halachah 11
 [^133]: We assume that he would not be willing to suffer such a major loss only to cause difficulty to a colleague.
 [^134]: In this instance, as well, he deserves the remuneration appropriate for writing a scroll useful for individual study.
-[^135]: This refers to the calligraphy used for the Hebrew alphabet that closely resembles the printed Hebrew we use today. One of the opinions mentioned in [[Sanhedrin 22#22a|*Sanhedrin* 22a]] explains that this calligraphy was indigenous to the Jews, and the Torah itself was originally written in it. It was, nevertheless, not used by the Jews for an extended period until after the Babylonian exile, when it became the standard calligraphy for sacred writings.  
+[^135]: This refers to the calligraphy used for the Hebrew alphabet that closely resembles the printed Hebrew we use today. One of the opinions mentioned in *Sanhedrin* [[Sanhedrin 22#22a|22a]] explains that this calligraphy was indigenous to the Jews, and the Torah itself was originally written in it. It was, nevertheless, not used by the Jews for an extended period until after the Babylonian exile, when it became the standard calligraphy for sacred writings.  
     In his Commentary on the Mishnah (*Yadayim* 4:5), the Rambam explains the latter opinion, stating that *Ashurit* means "the finest and most choice." This name was given to this calligraphy because:  
     It is the most choice calligraphy. Its characters are not interchangeable... nor do they resemble each other to the extent that doubt might arise.... This does not apply with regard to other scripts.  
     It was adopted by the Jewish people in the Babylonian exile after the destruction of the First Temple. In previous (and subsequent) generations, Hebrew was generally written with other characters.
-[^136]: This leniency was not extended with regard to *tefillin* and mezuzot. [[Megillah 9#9a|*Megillah* 9a]] derives this concept from the exegesis of [[Torah 45 - Vaetchanan#^6-6|Deuteronomy 6:6]]: "And these words shall be *totafot*...." Our Sages explain that the expression "shall be" implies that they shall remain unchanged from their Hebrew original.
-[^137]: From the Rambam's Commentary on the Mishnah, *Megillah* 1:8, 2:1, it appears that the intent is not to write a Greek transliteration of the Hebrew, but rather a translation. The Rambam explains that the Septuagint - the translation of the Torah into Greek at the order of King Ptolemy ([[Megillah 9#9a|*Megillah* 9a]];*Soferim* 1:7) - had become popular. Hence, it was permitted to be used for a Torah scroll.
+[^136]: This leniency was not extended with regard to *tefillin* and mezuzot. *Megillah* [[Megillah 9#9a|9a]] derives this concept from the exegesis of [[Torah 45 - Vaetchanan#^6-6|Deuteronomy 6:6]]: "And these words shall be *totafot*...." Our Sages explain that the expression "shall be" implies that they shall remain unchanged from their Hebrew original.
+[^137]: From the Rambam's Commentary on the Mishnah, *Megillah* 1:8, 2:1, it appears that the intent is not to write a Greek transliteration of the Hebrew, but rather a translation. The Rambam explains that the Septuagint - the translation of the Torah into Greek at the order of King Ptolemy (*Megillah* [[Megillah 9#9a|9a]];*Soferim* 1:7) - had become popular. Hence, it was permitted to be used for a Torah scroll.
 [^138]: I.e., contemporary Greek is very different from the classical tongue, to the extent that they can be considered to be two separate languages.
 [^139]: Significantly, however, in *Hilchot Megillah* 2:3, the Rambam does not state that Greek is unacceptable at present. Note also *Beit Yosef* (*Orach Chayim* 690).
 [^140]: In our commentary on the following halachah, we discuss the laws governing a letter which is not surrounded by parchment because of a hole that is located on its border.
 [^141]: There is no minimum amount of space required to be left between letters. Furthermore, one must be careful not to leave too much space, to the extent that it appears that the word is divided in two (*Shulchan Aruch, Yoreh De'ah* 274:4).
 [^142]: If the letters are attached, however, the difficulty may be corrected and, afterwards, the sacred article may be used (*Shulchan Aruch, Orach Chayim* 32:18).
-[^143]: This refers to a child who is able to recognize letters, but not words. Were he able to recognize words, one could assume that he might identify a letter, not by its shape, but because of the meaning of the word in which it is located (Rashi, [[Menachot 29#29b|*Menachot* 29b]]).
+[^143]: This refers to a child who is able to recognize letters, but not words. Were he able to recognize words, one could assume that he might identify a letter, not by its shape, but because of the meaning of the word in which it is located (Rashi, *Menachot* [[Menachot 29#29b|29b]]).
 [^144]: Tefillin and mezuzot must be written in order (Chapter 3, Halachah 5; Chapter 5, Halachah 1). Therefore, if a letter which cannot be recognized by a child is written in *tefillin* or mezuzot, the parchment may never be corrected. Changing the form of the letter is tantamount to rewriting it in its entirety (*Shulchan Aruch, Orach Chayim* 32:25).
 [^145]: This applies not only when the sacred article was originally written, but throughout the time it is being used. If a portion of a letter cracks, fades, is rubbed out, or is torn, in a manner which alters its form, the sacred article is unacceptable.  
     See also the *Tur*, *Shulchan Aruch*, and commentaries (*Orach Chayim* 36) for a detailed description of the proper form for each letter.
 [^146]: These two letters are very similar, the difference between them being that the leg of the *vav* is extended and that of the *yud* is not. Therefore, if a scribe would write a *yud* with a long leg or a *vav* with a short leg, difficulties may arise.
 [^147]: The difference between these two letters is primarily in the lower right-hand corner. In a *kaf* this corner is rounded, while in a *beit* it is square. Hence, a scribe's imprecision could cause a difficulty.
 [^148]: The difference between these two letters is primarily in the upper right-hand corner. In a *resh* this corner is rounded, while in a *dalet* it is square. Hence, in this instance as well, a scribe's imprecision could cause a difficulty.
-[^149]: [[Shabbat 103#103b|*Shabbat* 103b]] mentions other pairs of letters which resemble each other, among them: a *samech* and a final *mem*, a *zayin* and a final *nun*, and a *heh* and a *chet*.
+[^149]: *Shabbat* [[Shabbat 103#103b|103b]] mentions other pairs of letters which resemble each other, among them: a *samech* and a final *mem*, a *zayin* and a final *nun*, and a *heh* and a *chet*.
 [^150]: *Shabbat*, *loc. cit.*, breaks the word וכתבתם ([[Torah 45 - Vaetchanan#^6-9|Deuteronomy 6:9]] , which refers to the command to write a *mezuzah*, into two words, וכתב תם which mean, "And you shall write perfectly." Thus, the command to write a *mezuzah* - and, by association, *tefillin* - also serves as an imperative requiring that the writing be precise.
-[^151]: Rashi, [[Shabbat 108#108a|*Shabbat* 108a]], associates this ruling with the interpretation, וכתב תם, quoted from [[Shabbat 103#103b|*Shabbat* 103b]] above. Writing which is "perfect" should not be broken by holes in the parchment.
+[^151]: Rashi, *Shabbat* [[Shabbat 108#108a|108a]], associates this ruling with the interpretation, וכתב תם, quoted from *Shabbat* [[Shabbat 103#103b|103b]] above. Writing which is "perfect" should not be broken by holes in the parchment.
 [^152]: As long as no ink seeps through the parchment, the writing can be considered as "perfect."
 [^153]: This applies even if there is a slight hole in the parchment which can be seen when the parchment is held up to light (*Shulchan Aruch HaRav* 32:17; *Mishnah Berurah* 32:32).  
     [The latter principle has ramifications in contemporary society. Today, many scribes check mezuzot and *tefillin* using light tables and/or magnifying glasses. The cracks or perforations they find in this manner are not significant and cannot disqualify a parchment.]

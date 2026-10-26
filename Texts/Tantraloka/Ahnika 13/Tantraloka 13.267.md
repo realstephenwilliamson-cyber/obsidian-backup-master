@@ -27,7 +27,7 @@ avicchinnasvātmasaṃvitprathā siddhirihocyate || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#^pg311|p. 289]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=311>))
 >
-> It is said that; ‘This, Śiva’s power of action, residing in the fettered soul, binds it; once known, this power of action bestows accomplishment (siddhi) immediately. (The binding force of the power of action) is said to be that Karma which deprives (the individual soul of its own true) nature. (with 13.266–267ab)
+> It is said that; ‘This, Śiva’s power of action, residing in the fettered soul, binds it; once known, this power of action bestows accomplishment (siddhi) immediately.’ (The binding force of the power of action) is said to be that Karma which deprives (the individual soul of its own true) nature. (with 13.266–267ab)
 >
 > The perception of the unlimited nature of one’s own consciousness is said here to be accomplishment (siddhi). It is Mahālakṣmī (the Great Goddess of Prosperity) here (in this world) who, imperishable, is the freedom from which worldly benefits and liberation proceed. (with 13.267cd–268ab)
 

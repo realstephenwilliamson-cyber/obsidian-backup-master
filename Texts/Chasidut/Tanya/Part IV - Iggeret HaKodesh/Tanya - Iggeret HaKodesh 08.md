@@ -44,7 +44,7 @@ And this applies most particularly when one sows in the nether Holy Land, which 
 
 [^1]: Liturgy, Morning Prayers. Cf. *Maamarei Admur Hazaken Haketzarim*, p. 533, for an exposition of this section.
 [^2]: [[Hosea 10#^10-12|Hosea 10:12]].
-[^3]: [[Bava Batra 10#10a|*Bava Batra* 10a]].
+[^3]: *Bava Batra* [[Bava Batra 10#10a|10a]].
 [^4]: [[Psalms 017#^17-15|Psalms 17:15]].
 [^5]: Cf. *Torat Shmuel—5633*, vol. 2, p. 463 ff.
 [^6]: Which is called the “service of his heart” (see below, note 11); cf. *Or Zarua*, beg. of *Hilchot Keriat Shema*, par. 7 (s.v. *Amar Ravin*; ed. Zitomir 1862, vol. 1, 11a).
@@ -52,7 +52,7 @@ And this applies most particularly when one sows in the nether Holy Land, which 
 [^8]: [[Psalms 103#^103-17|Psalms 103:17]].
 [^9]: *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-38a|I:38a]] ff.; ibid., [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-41a|41a]] ff.; [[Zohar 6.06 - Parashat Pequdei#^z2-244b|II:244b]] ff.
 [^10]: Par. [[Torah 01 - Bereshit#^1-4|Genesis 1:4]].
-[^11]: *Sifrei*, Deuteronomy 42 (on [[Torah 46 - Eikev#^11-13|Deuteronomy 11:13]]); [[Taanit 2#2a|*Taanit* 2a]].
+[^11]: *Sifrei*, Deuteronomy 42 (on [[Torah 46 - Eikev#^11-13|Deuteronomy 11:13]]); *Taanit* [[Taanit 2#2a|2a]].
 [^12]: [[II Samuel 22#^22-29|II Samuel 22:29]] ([[Psalms 018#^18-29|Psalms 18:29]]).
 [^13]: See above, note 7.
 [^14]: *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-175b|II:175b]]; III:255a and 257a; see also *Pardes Rimonim* 23:13, s.v. *Mayim*, and below, note 15.
@@ -64,7 +64,7 @@ And this applies most particularly when one sows in the nether Holy Land, which 
 [^20]: For an explanation of this term see *Iggeret Hateshuvah*, ch. 8 ff. (esp. ch. 10).
 [^21]: *Avot* 4:17.
 [^22]: *Likkutei Amarim*, Part I, end of ch. 4. Cf. also *above*, Epistle 1, note 22.
-[^23]: See [[Berakhot 17#17a|*Berachot* 17a]] and Maimonides, *Hilchot Teshuvah*, ch. 8.—See *above*, Epistle 1, note 22 and *Likkutei Torah*, *Derushim LiShemini Atzeret* 83d. While *teshuvah tataah* (lower *teshuvah*) corresponds to *malchut*, *teshuvah ilaah* transcends this level and corresponds to the higher *binah*. (See *Zohar* [[Zohar 8.08 - Parashat Naso#^z3-122a|III:122a]] ff., and *Tikkunei Zohar* 6 ([[Tikkunei Zohar 022a|22a]]); *Iggeret Hateshuvah*, ch. 9.) He who stands in a mode of *teshuvah* is called *baal teshuvah*; the *Zohar* interprets this term literally as “possessed of *teshuvah*,” signifying an absolute unification with *teshuvah* and the level it represents. See *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-106b|II:106b]] and comm., ad loc.; cf. Maharal, *Derech Chaim* on *Avot* 4:17.
+[^23]: See *Berachot* [[Berakhot 17#17a|17a]] and Maimonides, *Hilchot Teshuvah*, ch. 8.—See *above*, Epistle 1, note 22 and *Likkutei Torah*, *Derushim LiShemini Atzeret* 83d. While *teshuvah tataah* (lower *teshuvah*) corresponds to *malchut*, *teshuvah ilaah* transcends this level and corresponds to the higher *binah*. (See *Zohar* [[Zohar 8.08 - Parashat Naso#^z3-122a|III:122a]] ff., and *Tikkunei Zohar* 6 ([[Tikkunei Zohar 022a|22a]]); *Iggeret Hateshuvah*, ch. 9.) He who stands in a mode of *teshuvah* is called *baal teshuvah*; the *Zohar* interprets this term literally as “possessed of *teshuvah*,” signifying an absolute unification with *teshuvah* and the level it represents. See *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-106b|II:106b]] and comm., ad loc.; cf. Maharal, *Derech Chaim* on *Avot* 4:17.
 [^24]: I.e., of the seed and kernel.
 [^25]: See above, Epistle 5, note 103.
 [^26]: See above, Epistle 4, note 46.
@@ -72,14 +72,14 @@ And this applies most particularly when one sows in the nether Holy Land, which 
 [^28]: See above, beginning of this epistle, and cf. above, end of Epistle 4.
 [^29]: [[Psalms 145#^145-3|Psalms 145:3]].
 [^30]: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-11b|I:11b]].
-[^31]: [[Megillah 31#31a|*Megillah* 31a]] [according to the versions of *Pesikta Zutrata* (*Midrash Lekach Tov*) on [[Torah 46 - Eikev#^10-17|Deuteronomy 10:17]] and *Yalkut Shimoni*, Psalms 794 (on [[Psalms 068#^68-5|Psalms 68:5]])].
-[^32]: As waters descend from a high place to a low place; a simile signifying humility (cf. [[Taanit 7#7a|*Taanit* 7a]]). In relation to G–d, the whole creation, all creatures, are insignificant, truly naught and nothing. His greatness, therefore, is not expressed through creation per se. Rather, His humility, that G–d created them nevertheless and cares for them by means of an intense and particular providence, this Divine humility expresses His greatness. Therefore, in the place where you find His greatness, there you find His humility: His humility being His greatness. (See *Likkutei Torah*, *Shir Hashirim* 40d; cf. also *Likkutei Amarim*, Part I, ch. 4.)
+[^31]: *Megillah* [[Megillah 31#31a|31a]] [according to the versions of *Pesikta Zutrata* (*Midrash Lekach Tov*) on [[Torah 46 - Eikev#^10-17|Deuteronomy 10:17]] and *Yalkut Shimoni*, Psalms 794 (on [[Psalms 068#^68-5|Psalms 68:5]])].
+[^32]: As waters descend from a high place to a low place; a simile signifying humility (cf. *Taanit* [[Taanit 7#7a|7a]]). In relation to G–d, the whole creation, all creatures, are insignificant, truly naught and nothing. His greatness, therefore, is not expressed through creation per se. Rather, His humility, that G–d created them nevertheless and cares for them by means of an intense and particular providence, this Divine humility expresses His greatness. Therefore, in the place where you find His greatness, there you find His humility: His humility being His greatness. (See *Likkutei Torah*, *Shir Hashirim* 40d; cf. also *Likkutei Amarim*, Part I, ch. 4.)
 [^33]: [[Psalms 112#^112-4|Psalms 112:4]].
 [^34]: Par. [[Psalms 011#^11-7|Psalms 11:7]]; see *Tanchuma*, ed. Buber, *Noach* 4 (see *Yalkut Shimoni*, Deuteronomy, end of 873).
 [^35]: *Tikkunei Zohar*, Introduction 10b; above, Epistle 6, note 21.
 [^36]: See above, end of Epistle 3.
 [^37]: The celestial model of the terrestrial Holy Land (see below, note 44) signifies *malchut*, the *Shechinah*; cf. *Pardes Rimonim* 23:1, s.v. *Eretz HaElyonah*.
-[^38]: [[Malachi 3#^3-12|Malachi 3:12]] [*Eretz chefetz* signifies *Knesset Yisrael*; cf. *Pardes Rimonim* 23:1, s.v. *Eretz Chefetz*; *Kitzurim V’Hearot*, p. 99; *Mayim Rabbim 5636*, ch. 99]. (See also the commentaries of *Rashba* and *Maharsha* on *Eyn Yaakov*, [[Taanit 10#10a|*Taanit* 10a]], that *eretz* without qualification refers to the Holy Land; and cf. *Pardes Rimonim* 23:1, s.v. *Eretz*.)
+[^38]: [[Malachi 3#^3-12|Malachi 3:12]] [*Eretz chefetz* signifies *Knesset Yisrael*; cf. *Pardes Rimonim* 23:1, s.v. *Eretz Chefetz*; *Kitzurim V’Hearot*, p. 99; *Mayim Rabbim 5636*, ch. 99]. (See also the commentaries of *Rashba* and *Maharsha* on *Eyn Yaakov*, *Taanit* [[Taanit 10#10a|10a]], that *eretz* without qualification refers to the Holy Land; and cf. *Pardes Rimonim* 23:1, s.v. *Eretz*.)
 [^39]: Cf. *Targum Yonatan* on [[Malachi 3#^3-12|Malachi 3:12]].
 [^40]: Another term for *Shechinah* (see above, note 26). See above, note 37.
 [^41]: *Malchut* (synonymous with *Shechinah* and *Knesset Yisrael*).

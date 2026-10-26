@@ -27,7 +27,7 @@ aṃguṣṭhamātramamalamāvaraṇaṃ jahihi he mahāsūkṣma! |
 > [!source] Dyczkowski, vol. XI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)/Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#^pg67|p. 49]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 11.pdf#page=67>))
 >
-> 10) “O greatly subtle one (mahāsūkma)! Abandon, this stainless (amala) covering which is just (the size) of a thumb!”“ (with 30.82ab)
+> 10) “O greatly subtle one (mahāsūkma)! Abandon, this stainless (amala) covering which is just (the size) of a thumb!” (with 30.82ab)
 >
 > This declaration, set in Ārya metre, made of six words, is said to be the tenth. In the venerable Mukuṭottara (the reading is) twice alaṁ (instead of amalam) (i.e. ‘enough! enough!’) and ‘sūkṣmam’ (for mahāsūkṣma) (i.e ‘subtle’). (with 30.82cd–83ab)
 

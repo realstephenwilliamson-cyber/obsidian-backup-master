@@ -108,7 +108,7 @@ Similarly, if one took an oath or a vow: "You may not derive any benefit from me
 [^19]: The portion of the vow involving aged wine is nullified, because it was taken in error. And accordingly, the portion involving fresh wine is also nullified, based on the principle stated in the previous halachah.
 [^20]: For he did not seek to nullify his former vow, merely to qualify it, as stated in the conclusion of the previous halachah.
 [^21]: The Rama (*Yoreh De'ah* 218:1) emphasizes that this applies when a person takes a vow on his own initiative. If, however, he takes a vow in response to wording chosen by a colleague, we follow the meaning of that wording.
-[^22]: For it is desirable that a person marry his relatives (see [[Yevamot 62#62b|*Yevamot* 62b]]).
+[^22]: For it is desirable that a person marry his relatives (see *Yevamot* [[Yevamot 62#62b|62b]]).
 [^23]: The Radbaz states that he is even permitted to enter his home at the time of the feast.
 [^24]: For it is no longer the colleague's house or field (*Siftei Cohen* 216:10).
 [^25]: As emphasized by the fact that he said: "Your house" and "Your field."
@@ -116,7 +116,7 @@ Similarly, if one took an oath or a vow: "You may not derive any benefit from me
 [^27]: As an expression of resentment for the owner's refusal (*Kessef Mishneh*).
 [^28]: Since he is accustomed to plowing his field himself, we assume that his vow applied only to his own actions.
 [^29]: Since he is not accustomed to plowing his field himself, we interpret his vow as meaning that he would never have another person plow the field with it.
-[^30]: Although the standard published text of [[Bava Kamma 80#80a|*Bava Kama* 80a]] mentions purchasing a house or marrying a woman in *Eretz Yisrael*, the commentaries [nor the *Shulchan Aruch* (*Yoreh De'ah* 219:1)] see no reason why the Holy Land is different from other places in this regard.
+[^30]: Although the standard published text of *Bava Kama* [[Bava Kamma 80#80a|80a]] mentions purchasing a house or marrying a woman in *Eretz Yisrael*, the commentaries [nor the *Shulchan Aruch* (*Yoreh De'ah* 219:1)] see no reason why the Holy Land is different from other places in this regard.
 [^31]: By giving me a present in public.  
     The *Shulchan Aruch* (*Yoreh De'ah* 332:20) states that the person who administered the vow need not explicitly agree to this interpretation. Even if he remains silent, we accept it. The *Siftei Cohen* 332:46 states that if the person specifically says that he administered the vow so that he would receive honor by having the other person receive a gift from him, his word is accepted and a sage must be approached to have the vow released.
 [^32]: For people seeing that I demur will respect me more.

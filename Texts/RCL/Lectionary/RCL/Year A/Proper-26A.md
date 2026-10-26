@@ -11,6 +11,7 @@ second_reading: "1 Thessalonians 2:9-13"
 gospel: "Matthew 23:1-12"
 first_reading_complementary: "Micah 3:5-12"
 psalm_complementary: "Psalm 43"
+psalm_bcp_complementary: "Psalm 43"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-26]]"
 cssclasses:

@@ -27,7 +27,7 @@ rudraśaktisamāviṣṭo nīyate sadguruṃ prati || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#^pg302|p. 280]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=302>))
 >
-> (However,) not everybody who has been penetrated by (this) intuition (pratibhā) is led by (its) power to a true teacher. Thus it is said that it is necessary to say that he desires to go (to a teacher), certainly not otherwise (for it would have been sufficient to say,) ‘penetrated by Rudra’s power, he is led to a true teacher. (with 13.248cd–249)
+> (However,) not everybody who has been penetrated by (this) intuition (pratibhā) is led by (its) power to a true teacher. Thus it is said that it is necessary to say that he desires to go (to a teacher), certainly not otherwise (for it would have been sufficient to say,) ‘penetrated by Rudra’s power, he is led to a true teacher.’ (with 13.248cd–249)
 
 ## Viveka
 

@@ -324,9 +324,9 @@ Accordingly he writes thus: “But even as we, while we are said to be in Him, h
 
 What lamentable audacity! Whatextravagant language, and how full of folly, or rather of all perversity and madness! Professing themselves to be wise they in reality became fools; and holding these views concerning the Only-begotten, they denied the Master that bought them, as it is written. For if they say that the Word of God is a man and one like ourselves, there remains nothing that prevents them from saying that He is in God in the same way that we are: but if they believe Him to be God, and have learnt to worship Him as being so by nature, why do they not rather ascribe to Him existence in a God-befitting way in His own Father, and also the possession of the Father in Himself? For this I think would be more fitting for those who are really lovers of God to think and say. And if we find them still cherishing their shamelessness undaunted, and persisting in the words they have uttered,—saying that the Father is in the Son in the same manner as may be the case with any one of us, who have been created out of nothing and formed out of the earth by Him,—why is it not permissible for those who wish to do so, to say henceforth with impunity: Je that hath seen me hath seen the Futher, Cnap. 1, ©. xiv. 11.
 
-Rom. i. 22.
+[[Romans 01#^1-22|Rom. i. 22]].
 
-2 Pet. ii. 1,
+[[2 Peter 02#^2-1|2 Pet. ii. 1]],
 
 Supra ver. 9.
 
@@ -372,7 +372,7 @@ Ps.1x,12.
 
 Ps. xliv.5.
 
-1Cor.i. 4.
+[[1 Corinthians 01#^1-4|1Cor.i. 4]].
 
 Ibid. 30.
 

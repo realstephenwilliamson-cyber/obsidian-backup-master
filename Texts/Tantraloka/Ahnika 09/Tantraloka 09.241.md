@@ -29,7 +29,7 @@ ahaṃ śṛṇomi paśyāmi jighramītyādisaṃvidi || ^iast
 >
 > Thus, enough (of this view that the senses) are of a gross, material nature, (simply) because of their necessary connection with (their specific) objects. (with 9.241ab)
 >
-> It is clear that they are produced by the ego, because the (forms of) perception “I hear”, “I see” or “I smell’ and the like are (always) associated with the ego. (with 9.241cd–242ab)
+> It is clear that they are produced by the ego, because the (forms of) perception “I hear”, “I see” or “I smell” and the like are (always) associated with the ego. (with 9.241cd–242ab)
 
 ## Viveka
 

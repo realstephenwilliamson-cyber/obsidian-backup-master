@@ -23,8 +23,6 @@ The divine gods are seen on their sky-chariots, O fair-faced one; in accordance 
 
 Here the two fundamental elements that precede the spiritual experiences mentioned are the presence of a guru who displays “possession” by the Power of Rudra (*aveśa-guru*) and the practice of *uccāra* (raising a *bīja-mantra* through the central channel), presumably after initiation by said guru. This is said in a general way to lead to bodily trembling, *stobha*, and divine visions (4.5-7); then a more specific enumeration of five signs proceeds (4.8-9). First, we are told, the heart trembles; then the mantric resonance rises above the palate, causing the head to spin; then the *śakti* agitates each of the limbs and joints (or causes them to quiver), and finally the whole body shakes. These *vikāra*s were no doubt alarming to anyone who experienced them, hence the reassurance in 4.10-11ab. We may note here that 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 [^441]: Corrected from the *Śāktavijñānam* parallel (19c) : *na sā* MS
 [^442]: 4.8–10 are paraphrased in the *Śāktavijñānam* (attributed to Somānanda) 19–21, which verses describe the ninth of that text’s thirteen stages of spiritual development, i.e. the *bhūmikāgamana* stage. I take TU 9cd ≈ ŚV 20cd as ample evidence of the direction of redaction.
 [^443]: The parallel passage at *Śāktavijñānam* 19ab has *hṛdayaṃ kampate pūrvaṃ tāluka-dvāram eva ca*, which supports the present translation.
@@ -56,7 +54,7 @@ It may or may not be the case that Parā as a proper name is intended in 4.12, b
 
 *jāyate hṛṣṭi-tuṣṭiñ ca sadā ānandam eva ca* |
 *kurute cetanā-yukto mudrā-bandham anekadhā* || 4.18 Joy and contentment arise, and certainly permanent bliss. One yoked to consciousness \[in this way\] performs *mudrā*s and *bandha*s of many kinds. *kampanaṃ geya-nṛtyañ ca vikāra-bahu-vidhas tathā* |
-*kurute mala-vikāreṇa bahu-janyā-svayaṅkṛtaṃ* || 4.19 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*kurute mala-vikāreṇa bahu-janyā-svayaṅkṛtaṃ* || 4.19
 
 [^449]: *Yoginaḥ* is here an extended-stem nominative singular (as regularly found in *aiśa* Sanskrit).
 [^450]: 13ab is incomprehensible: *putramitrakala\*ṇi śā\*idhanasa\*yaṃ*
@@ -73,7 +71,7 @@ Trembling, singing and dancing, and many kinds of strange passions (*vikāra*[^4
 The short chapter five discusses the higher and lower rewards of this instruction in Kaula wisdom (*kaula-jñānopadeśika*) which can be obtained (only) from the guru (5.1). Verse 5.2ab leaves us in no doubt that the wisdom in question centers on the transmission of *śakti*: *yadā saṃkrāmita-jñānaṃ tadā mukti<ḥ> suniścitaṃ*, or “liberation certainly results from the transmission of \[experiential\] knowledge \[from the guru\],” and 5.3b (*jñāna-vīrya-prakāśitaṃ*) suggests the inseparability of what is here intended by the words *jñāna* and *vīrya* (mantric power). But it is chapter six which particularly draws our attention, because that chapter is a response to the following questions of the Goddess: “What is this Power which is transmitted? What are the signs which are shown \[by one ‘possessed’ by Her\]? \[How does\] She, established in the body, produce strange experiences (*vikāra*) such as ‘paralysis’ and so on?”[^457] As well as the questions which follow in two more verses: 
 
 *kathaṃ saṃkramitā jñeyā saṃkrāntā kā vidhīyate* |
-*katha<ṃ> co&lt;t>kramate dehāt*[^458] *adhordhvena kathaṃ vrajet* || 6.2 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*katha<ṃ> co&lt;t>kramate dehāt*[^458] *adhordhvena kathaṃ vrajet* || 6.2
 
 [^453]: Though *vikāra* generally means change, transformation, perturbation, or deformity, here the term is clearly used as a catch-all to describe the signs which are being enumerated in this chapter, hence the tentative translation “strange passion(s).”
 [^454]: *janyā* in the feminine is attested (according to MONIER-WILLIAMS) in the sense of “affection, happiness,” though it is rare. Here that meaning is the only thing that can make sense of the pāda, as far as I can tell.
@@ -99,8 +97,6 @@ How does one know \[when\] she has been transmitted? What is she called \[when\]
 
 *kṛtvā sarvvopacārāṇi ātmanānyadhanena*[^467] *vā* |
 *grāhyaṃ tat paramaṃ jñānaṃ guru-vaktreṣu saṃsthitaṃ*<sup>468</sup> || 6.9 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^459]: Some but not all of these questions are answered in the verses that follow, raises the question of whether some material has been lost.
 [^460]: *brahmāṇḍe* em. VASUDEVA : *brahmāṇḍo* MS
@@ -128,7 +124,7 @@ Here the charismatic Kaula guru is more clearly positioned than in chapter 4 as 
 *antarikṣa-sthitā<ṃ> nityaṃ sarvve paśyanti mātaram* || 6.13 She remains but for a moment, then vanishes, and is seen in many forms; all those \[who succeed in this practice\] always see the Mother abiding in the sky \[of consciousness\]. 
 
 *raudra-bhairava-rūpeṇa bahu-yogi-parivṛtāṃ* |
-*yogeśvara-purañ caiva ātmānanda\[ḥ\] sa paśyati* || 6.14 She is surrounded by many *yogī*s[^475] with wrathful and fearsome forms. Delighting in himself, \[the *sādhaka*\] sees the world of the Lords of Yoga. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*yogeśvara-purañ caiva ātmānanda\[ḥ\] sa paśyati* || 6.14 She is surrounded by many *yogī*s[^475] with wrathful and fearsome forms. Delighting in himself, \[the *sādhaka*\] sees the world of the Lords of Yoga.
 
 468\. *grāhyaṃ tat paramaṃ jñānaṃ . . . saṃsthitaṃ* em. SANDERSON : *grāhya tat parasaṃjñānaṃ . . .* *saṃsthitā* MS
 
@@ -160,8 +156,6 @@ Upon first reading this passage, I was struck by the teaching that the *yoginī*
 
 A few more verses of the TU are relevant for us here. After chapter 7, which discusses the various worlds that the *sādhaka* has visions of (such as subterranean 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 [^476]: *kaulikayogaratnena* em. SANDERSON : *kaulikaṃ yogaratnena* MS
 [^477]: *nirṛṇībhavet* corr. SANDERSON : *niraṇībhavet* MS
 [^478]: *durlabhaṃ* corr. VASUDEVA : *durūbhaṃ* MS
@@ -188,8 +182,6 @@ paradises and a triple world in or beyond the sky<sup>481</sup>), chapter 8 pres
 
 Unfortunately, we are told next to nothing about these “five jewels,” which seem to 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 <sup>481</sup> Note that 7.13cd has *darśayanti parāśakti trailokyaṃ sacarācaraṃ*, clearly giving *parāśakti* as the agent of the causative verb, thus suggesting Parādevī is meant. In 7.14c-15b, Parāśakti is vaguely linked to Sadāśiva (who is glossed as *śāntaḥ śivaḥ*), perhaps as consort. 
 
 <sup>482</sup> *smṛtam* em. VASUDEVA : *smṛtaḥ* MS <sup>483</sup> For parallels to these verses in the SYM (1.5, 13ab, 2.11), see TÖRSZÖK *forthcoming* p. 7. <sup>484</sup> Assuming that *ālekhya* means *alekhya*; but in 8.6d we have *granthārthena tu lekhayet*. <sup>485</sup> Or ought we to understand the phrase to mean that the *sādhaka* is worshipped by the *yoginī-cakra*? This would fit better with a list of mystic experiences, as this seems to be. 
@@ -206,7 +198,7 @@ Our final TU passage occurs in the eleventh chapter, which discusses different t
 
 *śakti-hīnaṃ guruṃ prāpya śiṣya-siddhi<ḥ> kutaḥ priye* || 11.18cd *mūle naṣṭe drumā devi kutaḥ puṣpa-phalādiṣu* |
 *rudra-śakti-samāveś&lt;aḥ>*[^487] *guruḥ gurutaram param* || 11.19 *viditātmā priyed yuktaḥ sa guruḥ mokṣadaḥ padam*[^488] |
-How could there be success of a disciple who has obtained a guru without *śakti*, O dear one? When the root of a tree is destroyed, whence \[could come\] the fruit, flowers, and so on? The guru who is possessed of the Power of Rudra, who knows himself and is fully engaged, should propitiate the supreme mantra—such a guru bestows the state of liberation. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+How could there be success of a disciple who has obtained a guru without *śakti*, O dear one? When the root of a tree is destroyed, whence \[could come\] the fruit, flowers, and so on? The guru who is possessed of the Power of Rudra, who knows himself and is fully engaged, should propitiate the supreme mantra—such a guru bestows the state of liberation.
 
 [^486]: 11.17c-18b: *evaṃ paśyati pratyakṣe rudra-śakti<ṃ> gurupriye || yad uktaṃ divya-yogeṣu sidhyate nā&lt;nya>thā priye |*.
 [^487]: *samāveśaḥ* conj. WALLIS : *samāveś\** MS
@@ -230,8 +222,6 @@ With characteristic subtlety, he has also added a typically Abhinavaguptan twist
 
 Our exploration of the intertextuality of the Kaula sources has only begun. We turn now to the *Ūrmi-kaulārṇava* (ŪKA), a text that challenges the reader by the degree of corruption it exhibits and in the same measure fascinates with its rich content and its complex intertextual and intersectarian features. The colophon claims that the text was divinely revealed (*avatārita*) by Mīnanātha, aka Macchanda-or Matsyendra-nātha, then brought to Kaulagiri (= Kolhapur) in an abridged form called the *Bhogahasta* (the form in which we have it).[^492] Macchanda is of course the founder of the Kaula lineages, and the text declares itself an investigation (*nirṇaya*) 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 [^489]: See TÖRSZÖK *forthcoming* p. 11.
 [^490]: Though Abhinavagupta never cites the TU by name, the reading of pāda c here proves that he knew the TU version of this verse; and furthermore, his immediate disciple Kṣemarāja does cite the TU by name in his commentary on *Śiva-sūtra* 1.4.
 [^491]: “\[If one’s guru lacks *śakti*\] how could one rely on him with regard to the knowledge \[that leads\] to liberation?”
@@ -254,7 +244,7 @@ The ŪKA brings together all of the terms we have been exploring: *(sam)āveśa*
 *tatva-viddhasya deveśi pañcāvasthā bhavanti hi* || 2.232 \[The signs of this are:\] Bliss, Ascent, Trembling, \[Yogic\] Sleep, and Whirling as the fifth: these are the five states of one who has been ‘pierced by reality,’ O Queen of Gods. 
 
 *sa viddhaḥ patate bhūmau vajra-pātād ivācala<ḥ>* |
-*etat samarasībhāvaṃ śāktaṃ vijñānam* †*sābalaṃ*† || 2.233 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*etat samarasībhāvaṃ śāktaṃ vijñānam* †*sābalaṃ*† || 2.233
 
 [^493]: Or should we read the first two terms together: “by water that has been sanctified by the guru’s glance”?
 [^494]: We may note that in the *Kubjikā-mata* (on which see below), *ājñā* means “mystical transmission” as least as often as it means “command.”
@@ -277,7 +267,6 @@ The next section of the ŪKA addresses *śāmbhava-(vi)jñāna*, which is explic
 *pañca*-*lakṣaṇam āveśaṃ śāmbhavaṃ parikīrttitam* || 2.236 \[It manifests as\] the arising of \[spontaneous\] laughter and *mudrā*s; \[of\] poetry; \[or of\] spontaneous knowing of \[what is contained in\] anyone’s scriptures . . . Horripilation, ‘paralysis’, shaking, †devotion to Viṣṇu†, and attaining the superconscious state (*unmanā*)[^499]—these are the five marks of the possession called Śāmbhava. 
 
 *manaś cānyatra kṣipya ca dṛkṣā-r-anyatra pātitaṃ* |
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^495]: *samarasībhāva* is also seen as the merging of guru and disciple at TĀ 29.273ff in the discussion of the higher *vedha-dīkṣā*, following the lost *Vīrāvalī-kula.*
 [^496]: Note that these same five states appear in the *Ciñcini-mata-sāra-samuccaya* (11th cen.?), where they seem to correspond to (or result from) the *prāṇa* reaching a particular center in the subtle body (see below, pp. 214ff). This is exactly as in Abhinavagupta’s work; see TS 5 and TĀ 5 (see section 2.5.4.g below).
@@ -300,7 +289,6 @@ The reader proficient in Sanskrit will have noticed that the ŪKA is unfortunate
 
 *mano-dhyānena saṅkrāmyaṃ yojanānāṃ śatair api* |
 *puṣpa-piṇḍa-śiśuḥ śākṣāt saparokṣe tu bhājanam* || 2.241 *śaṅkhaḥ* †*śikhāmayaṃ vajraṃ*† *pratyakṣaṃ vedhayet iti* |
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^500]: *avyucchinnam* corr. SANDERSON : *adyucchinam* MS
 [^501]: For a parallel, see *Īśvara-pratyabhijñā-kārikā* IV.12.
@@ -339,7 +327,7 @@ Only the possession pertaining to the individual (*āṇava-samāveśa*) \[remai
 Here a more involved ritual process is involved to bring about *samāveśa*. The chapter goes on to delineate much more ritual activity without circling back to the issue of *āveśa*, except to reaffirm (in a discussion on *dīkṣā* forty verses later) that *rudra-śakti-samāveśa* is necessary for botha proper (Kaula) guru and a proper (Kaula) initiation: 
 
 *guhya-vijñāna-vibhavāt manaḥ samarasīkṛtaḥ* |
-*rudra-śakti-samāveśāt sā dīkṣā gurur ucyate* || 2.291 Because of the power of the secret gnosis, the mind attains oneness. Both \[true\] initiation \[and\] the \[true\] guru \[arise\] from ‘possession’ by the Power of Rudra.[^506] Here too the experience of “fusion” or “oneness” (*samarasa*, lit. “same taste”) is implicitly linked to *rudra-śakti-samāveśa*. The latter term, which has been important in our investigation of Trika and Kaula sources, rarely appears in the scriptures of other *sampradāya*s. The evidence we have seen suggests that it refers to an intense variety of *āveśa*, giving rise to some particularly extreme bodily expressions of mystical experience. We get the impression that these expressions, called “signs” (*cihna*) or “evidence” (*pratyaya*) were even sought out and worn as a badge of pride by the virtuoso or supererogatory practitioner. We need hardly say that Western psychologists would doubtless view some of these signs as pathological. In our !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*rudra-śakti-samāveśāt sā dīkṣā gurur ucyate* || 2.291 Because of the power of the secret gnosis, the mind attains oneness. Both \[true\] initiation \[and\] the \[true\] guru \[arise\] from ‘possession’ by the Power of Rudra.[^506] Here too the experience of “fusion” or “oneness” (*samarasa*, lit. “same taste”) is implicitly linked to *rudra-śakti-samāveśa*. The latter term, which has been important in our investigation of Trika and Kaula sources, rarely appears in the scriptures of other *sampradāya*s. The evidence we have seen suggests that it refers to an intense variety of *āveśa*, giving rise to some particularly extreme bodily expressions of mystical experience. We get the impression that these expressions, called “signs” (*cihna*) or “evidence” (*pratyaya*) were even sought out and worn as a badge of pride by the virtuoso or supererogatory practitioner. We need hardly say that Western psychologists would doubtless view some of these signs as pathological. In our
 
 [^505]: These are the four (or five) “Kaula trances” (so-called by Somadeva VASUDEVA \[2004\]) which are important features of Kaula yoga. The *Kulasāra* and *Kula-pancāśikā* each have chapters on these states—*piṇḍa-(stha)*, *pada*-, *rūpa*-, *rūpātīta*-, with *sarvātīta* as the fifth—homologized to the four or five states of consciousness (*jāgrat-svapnādi*) and the five primary *cakra*s.
 [^506]: For the reader’s interest, the following verse says: “Kaula initiation must be understood as the *vidyā* (wisdom/goddess-mantra) that grants liberation. The *vidyā* is the guru, and the guru is Śiva incarnate.” *yā dīkṣā kaulikī jñeyā sā vidyā mokṣa-lakṣaṇā* | *yā vidyā sā guruḥ sākṣād yo guruḥ sa śivaḥ smṛtaḥ* || 2.292
@@ -360,8 +348,6 @@ Another text of the Kālīkula, the *Ciñciṇi-mata-sāra-samuccaya* (CMSS), ce
 *ānanda-jananaṃ pūrvaṃ parāhlādāntaraṃ sukham* || 9.44 *divyaughaṃ ūrdhva-romāṇi ājñā-siddhiḥ pravartate* |
 Bhairava said: Listen, Goddess, I will tell you of the auspicious characteristics of those states. First arises happiness born of Bliss, containing unsurpassed delight \[in\] a divine flood, thrilling the body; \[thus\] the *ājñā-siddhi* proceeds. 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 <sup>507</sup> See, e.g., ŪKA 2.231 above. 
 
 <sup>508</sup> *Kampo* em. DYCZKOWSKI : *kampa* MSS <sup>509</sup> *viddhasya* em. DYCZKOWSKI : *vidvasya* MSS; perhaps this is an Aiśa form for *vidvataḥ*, but *viddhasya* agrees with the testimony of the ŪKA. 
@@ -379,7 +365,7 @@ Bhairava said: Listen, Goddess, I will tell you of the auspicious characteristic
 The last 2.5 verses occasion some confusion due to their obscure meanings and primitive syntax. Certainly only two subtle centers are referred to here (since there are only two states), causing us to identify the *nābhi-randhra* with the *nāḍī-randhra* (which is further glossed as *mahāpiṇḍa*), but which center is to be connected with which state? Since the order of the five mystic states is fixed, and is here implicitly correlated with a rise by stages through the stations (*cakra, ādhāra*) of the central channel, we can presume that the *nābhi-randhra* correlates with the Leap/Ascent (about which no information is given, but which is probably equivalent to an *udghāta*), and the *marīci-cakra* (which is probably just below or at the level of the heart, as suggested also by *Mālinī-śloka-vārttika* 1.938-39) is connected with Trembling. But what would it mean to “expand” or “melt” a *cakra*? Clearly a yogic practice is intended, but no information is given beyond those verbs. Another mystery is that the practitioner is advised to make the *nāḍī-randhra* (aka the *mahāpiṇḍa*, aka the *kanda*?) tremble, but we have already seen that Trembling is associated with the heart, here and elsewhere (e.g. TS ch. 5, p. 342f below). And why are *dhvaniḥ, kampaḥ,* and *plavaḥ* seemingly in apposition? Since we can only have five states, I take *dhvani* to be a gloss on *kampa*, possibly implying the practice understood at this stage is *uccāra* (mantric elevation).<sup>513</sup> *Plava* is undoubtedly a gloss on *udbhava*, though the syntax is confusing. Possibly the text has become jumbled here, for the following verse further comments on Trembling. 
 
 *vyomavad bhramate*<sup>514</sup> *bhūmau bhava-bandhaṃ vimardayet* |
-*nidrāvasthā*<sup>515</sup> *bhaved eṣā ājñā-siddhiḥ pravartate* || 9.48 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*nidrāvasthā*<sup>515</sup> *bhaved eṣā ājñā-siddhiḥ pravartate* || 9.48
 
 <sup>512</sup> Here the *nāḍī-randhra* must refer to the *kanda* (usually located below the navel but here probably identical with the *nābhi-randhra* of the previous verse), since that nexus is said to connect to all the 72,000 channels of the subtle body (TAK II: 44f.). 
 
@@ -405,7 +391,7 @@ Possessed of the void, he wanders on the earth, and destroys the bonds of worldl
 
 *avasthā kathitā devi rudra-śakti-prabhāvataḥ* |
 *rudra-śakti-samāveśāt siddhyate*<sup>518</sup> *svātma-maṇḍalam* || 9.53 *anākhyaṃ ca nirābhāsaṃ nistattvaṃ ca nirāśrayam* |
-*avyakta-maṇḍalānta-sthaṃ kramātītaṃ kramodayam* || 9.54 O Goddess, I have told you of the state\[s\] that arise from the Power of Rudra. Due to Immersion into the Power of Rudra, the whole sphere of one’s Self is attained: unnamable, beyond appearances, beyond the *tattva*s, \[needing\] no foundation \[but itself\], situated at the extremity of the Sphere of the Unmanifest—beyond sequentiality yet the source of it. It is perhaps worthy of note that trembling, jumping, fainting and whirling (of the head) are commonly attested as signs of possession in cross-cultural anthropological studies on the subject—see, e.g. MÉTRAUX 1972: 120 (cited in KLASS 2003: 59)—and doubtless these signs date from a period when possession in Śaivism was conceived much as it is in the cultures studied by anthropologists, i.e. as the entry of a discrete spirit being who asserts control over the body entered. However, for the most part the texts examined in the present work do not intend the word possession (or *āveśa*) in this sense. As we have seen repeatedly, *rudra-śakti* refers not to a discrete entity !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*avyakta-maṇḍalānta-sthaṃ kramātītaṃ kramodayam* || 9.54 O Goddess, I have told you of the state\[s\] that arise from the Power of Rudra. Due to Immersion into the Power of Rudra, the whole sphere of one’s Self is attained: unnamable, beyond appearances, beyond the *tattva*s, \[needing\] no foundation \[but itself\], situated at the extremity of the Sphere of the Unmanifest—beyond sequentiality yet the source of it. It is perhaps worthy of note that trembling, jumping, fainting and whirling (of the head) are commonly attested as signs of possession in cross-cultural anthropological studies on the subject—see, e.g. MÉTRAUX 1972: 120 (cited in KLASS 2003: 59)—and doubtless these signs date from a period when possession in Śaivism was conceived much as it is in the cultures studied by anthropologists, i.e. as the entry of a discrete spirit being who asserts control over the body entered. However, for the most part the texts examined in the present work do not intend the word possession (or *āveśa*) in this sense. As we have seen repeatedly, *rudra-śakti* refers not to a discrete entity
 
 <sup>516</sup> MSS ka and gha have *grāhyagrāhyagrahāgrasta*, “devoured grasping and various knowables.” <sup>517</sup> *hyeṣā* corr. DYCZKOWSKI : *hyeṣa* MSS <sup>518</sup> *siddhyate* corr. DYCZKOWSKI : *siddhate* MSS 
 
@@ -419,7 +405,7 @@ As in the MVT and the ŪKA, the five states are associated here with *rudra-śak
 
 *The evidence of the* Tantrasadbhāva 
 
-Next we turn to a Trika text that exhibits considerable Kaula influence (moreso than the MVT), the *Tantrasadbhāva,* which we could date to roughly the late eighth century (as some of its material is redacted into the \[probably ninth century\] *Kubjikā-mata*). Chapter three of this text redacts substantial material from SYM 3. At 3.158c-67 is a passage on Parā’s seed-mantra, which is said to produce immediate evidence of its efficacy (158d). In this passage we find several lines from SYM 17,[^520] description of spontaneous bodily movements that in the source text are called *siddha-liṅga*s (17.29-34), such as hopping like a frog (*darduraplutyā*, 3.163c), writhing, creeping on the ground (like a snake? *pṛṣṭhata avasarpaṇam*, 163d), eyes rolling up in the head (*ūrdhva-dṛṣṭiḥ*), etc. The term *āveśa* does not occur in the source text, but does occur in the *Tantrasadbhāva* passage immediately after the one we are discussing (at 3.174cd, which tells us that *rudra-śakti-samāveśa* becomes constantly !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Next we turn to a Trika text that exhibits considerable Kaula influence (moreso than the MVT), the *Tantrasadbhāva,* which we could date to roughly the late eighth century (as some of its material is redacted into the \[probably ninth century\] *Kubjikā-mata*). Chapter three of this text redacts substantial material from SYM 3. At 3.158c-67 is a passage on Parā’s seed-mantra, which is said to produce immediate evidence of its efficacy (158d). In this passage we find several lines from SYM 17,[^520] description of spontaneous bodily movements that in the source text are called *siddha-liṅga*s (17.29-34), such as hopping like a frog (*darduraplutyā*, 3.163c), writhing, creeping on the ground (like a snake? *pṛṣṭhata avasarpaṇam*, 163d), eyes rolling up in the head (*ūrdhva-dṛṣṭiḥ*), etc. The term *āveśa* does not occur in the source text, but does occur in the *Tantrasadbhāva* passage immediately after the one we are discussing (at 3.174cd, which tells us that *rudra-śakti-samāveśa* becomes constantly
 
 [^519]: Though any number of studies of this could be cited, I was able to observe it first-hand in the *Theyaṭṭam* rituals of rural northern Kerala, in 2008.
 [^520]: As already noticed by TÖRSZÖK (2013).
@@ -440,8 +426,6 @@ Our study of this passage benefits from the provisional unpublished critical edi
 *somaṃ prapūjayet tasmin aṣṭavarga-samanvitam* || 9.329 || \[327JB\] Having anointed the disciple’s hands with unguent, \[the guru,\] with great concentration, should then install \[the mantras of\] the power-throne there, \[in a\] pitcher filled with fragrant water; or \[in\] a gilded conch. There he should worship \[that water which has become\] *soma*, full of \[the mantras of\] the eight classes.[^522] *vartulīkṛtya śaktiṃ tu uccaret tat punaḥ punaḥ* |
 *tataḥ stutyā* \[*stutya*MD\] *hy asau hastaṃ kalaśaṃ caiva kampati* || 9.330 \[328JB\] Having made the *śakti-*mantra into a ball \[of energy at the *mūlādhāra*, 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 [^521]: *gandha-digdhau* conj. J. BANG : *gandha-dignau* MSS
 [^522]: That is, the eight *varga*s of the Sanskrit syllabary—see *Tantrasadbhāva* 6.155 for the definition of the *aṣṭavarga*.
 
@@ -461,8 +445,6 @@ Bhairava said: He \[the guru\] should write that *śakti*-mantra on the ground i
 *bhavitātmā yadā paśyec chaktiṃ vai kuṭilākṛtiṃ* || 9.335 \[333JB\] *śatena patate yas tu tīvra-pātaḥ prakīrtitaḥ* | \[327JT\] Fully absorbed in it, he should look at the *śakti* in its coiled form. One who collapses to the ground after one hundred \[repetitions of the mantra\] is said to have had an intense Descent \[of Power\]. 
 
 *evaṃ sahasram ekena athavaivāyutena ca* || 9.336 \[334JB\] *yasya pāto bhaved devi madhyamaḥ parikīrtitaḥ* | \[328JT\] 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^523]: For the explanation in brackets, see the parallel passage at *Parākhya-tantra* 14.30-32, which includes the phrase *pūraṇe vartulīkṛtaṃ kumbhakena nirodheta.* Translated at GOODALL 2004: 360.
 [^524]: For *uccāra*, i.e. raising a bīja mantra up the central channel, see TAK 1, pp. 224f and PADOUX 1990, ch. 7.
@@ -485,7 +467,7 @@ Those without a Descent are bad-natured, and do not merit the fruit of initiatio
 
 The context now is the initiation itself, possibly the moment in which the initiand sees the initiation maṇḍala. 
 
-*saṃmukhaṃ patate yas tu chinna-pāśo na saṃśayaḥ* || 9.341 \[339JB\] *uttamo ’sau samuddiṣṭa uttāno madhyamo mataḥ* | \[333JT\] \[If\] he whose bonds have been cut falls on his face, he is shown to be \[of the\] best \[kind\]; \[one who falls\] on his back is thought to be middling. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*saṃmukhaṃ patate yas tu chinna-pāśo na saṃśayaḥ* || 9.341 \[339JB\] *uttamo ’sau samuddiṣṭa uttāno madhyamo mataḥ* | \[333JT\] \[If\] he whose bonds have been cut falls on his face, he is shown to be \[of the\] best \[kind\]; \[one who falls\] on his back is thought to be middling.
 
 [^530]: One is of course hard pressed to imagine how anyone could *not* collapse after the length of time required for 20,000+ repetitions. The words for high numbers in Sanskrit are fairly well established, but perhaps our author understood *ayuta* to mean 1,000 instead of 10,000?
 [^531]: Double sandhi for *vivṛṇva idaṃ* or *vivṛṇve daṃśakānvaye* (BANG p. 45); latter is TÖRSZÖK’s reading.
@@ -510,7 +492,7 @@ Thus \[a true guru is\] one who can stun the bonds \[of the initiand\]; this is 
 
 *siddha-yogī karoty evaṃ saṃpradāyena saṃyutam* || 9.347 \[345JB\] *saṃpradāya-vihīnas tu yo dīkṣāṃ kartum icchati* |
 *niṣphalaṃ pariśramaṃ tasyāpi*[^539] *dīkṣā narakaṃ vrajet* || 9.348 \[346JB\] *vratinas tu punar devi kṣetra-pālā bhavanti hi* |
-Thus \[i.e., through *jñāna* and *vīrya*\] is a perfected yogin connected to tradition (*saṃpradāya*). Without \[connection to\] tradition, one who wishes to perform initiation \[for others\] will labor fruitlessly; though he \[himself\] has initiation, he will go to hell.[^540] †Those who keep to their vows, however, become Site-protectors \[or better\], O Goddess.† *yadi dīkṣā bhaven muktiḥ sarveṣu cāgameṣu ca* || 9.349 \[347JB\] *tasmād dīkṣā tu boddhavyā pāśa-stobho yadā bhavet* | \[340JT\] *dharmādharmānibaddhas tu piṇḍo tatra patet priye* || 9.350 \[348JB\] If initiation accomplishes liberation, \[as taught\] in all Śaiva scriptures, !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Thus \[i.e., through *jñāna* and *vīrya*\] is a perfected yogin connected to tradition (*saṃpradāya*). Without \[connection to\] tradition, one who wishes to perform initiation \[for others\] will labor fruitlessly; though he \[himself\] has initiation, he will go to hell.[^540] †Those who keep to their vows, however, become Site-protectors \[or better\], O Goddess.† *yadi dīkṣā bhaven muktiḥ sarveṣu cāgameṣu ca* || 9.349 \[347JB\] *tasmād dīkṣā tu boddhavyā pāśa-stobho yadā bhavet* | \[340JT\] *dharmādharmānibaddhas tu piṇḍo tatra patet priye* || 9.350 \[348JB\] If initiation accomplishes liberation, \[as taught\] in all Śaiva scriptures,
 
 [^536]: *tiryakpāto* TÖRSZÖK : *tiryakṣāto* BANG : *nirpakṣāto* DYCZKOWKSI.
 [^537]: DYCZKOWKSI : *pātāle adhamasukhajīvati* BANG
@@ -538,8 +520,6 @@ The *Kubjikā-mata-tantra* (KMT) is the root-text of the Kaubjika *sampradāya* 
 
 Significant for our purposes is use of the word *ājñā*, a key technical term in the KMT. It means not only “command” (e.g. of Śiva), but also “transmission” and even simply “power.” We can see this in verse 3.86, where *ājñā-nipāta* is synonymous with *śakti-pāta* (the latter term occurs three verses later): 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 [^541]: SANDERSON (2002: 1) notes that the KMT “has drawn extensively on the *Tantrasadbhāva*, *Siddha-yogeśvarī-mata*, *Kula-ratna-mālā*, and *Triśirobhairava*”.
 
 *[p. 224]* ^pg235
@@ -561,7 +541,7 @@ Here the six categories are assimilated to the usual Śaiva *ṣaḍ-adhvan* (fo
 *ājñānalavatī dīkṣā mantrāṇāṃ sādhane hitā* || 10.70 *sā cājñā-pūrvikā siddhā anyathā tila-ghātakī* |
 The initiation which possesses the ‘fire‘ of the Command (*ājñā*) is suitable for \[all\] *mantra-sādhana*s. This perfect \[*dīkṣā*\] has the Command as a prerequisite; otherwise \[the guru\] is only wasting sesame seeds \[in performing *hautrī dīkṣā*\]. 
 
-*sā ca tattvavatāṃ*[^542] *caiva tattvaṃ vai śāmbhavaṃ padam* || 10.71 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*sā ca tattvavatāṃ*[^542] *caiva tattvaṃ vai śāmbhavaṃ padam* || 10.71
 
 [^542]: Perhaps we should emend to *tattvavitāṃ*, “those who know reality.”
 
@@ -580,7 +560,7 @@ The ubiquitous Tantric *hautrī dīkṣā* is here criticized as useless without
 
 *sa martyo*[^544] *’nyo na me tulyo ya evaṃ manyate kudhīḥ* |
 *ājñātaḥ sampravarteta kiṃtu bhūtavatī bhavet* || 10.75 The other foolish person who thinks thus \[i.e., that he can read the signs when he cannot\] is not My equal. He may proceed in accordance with a \[lower\] Transmission \[of power\], but that \[initiation\] would pertain \[only\] to the *bhūta* level.[^545] < . . . >[^546] *pṛthivyādīni bhūtāni cāviśanti ca yasya vai* || 10.76 *bhūtāveśaṃ tu tad viddhi bhāvāveśam ataḥ śṛṇu* |
-*śabdaḥ sparśas tathā rūpaṃ raso gandhaś ca bhāvajam* || 10.77 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*śabdaḥ sparśas tathā rūpaṃ raso gandhaś ca bhāvajam* || 10.77
 
 [^543]: *sāmarthya-jñaḥ* corr. : *sāmartha-jñaḥ* Ed.
 [^544]: *sa martyo* conj. SANDERSON : *sāmarthyo* MS
@@ -599,7 +579,7 @@ The ubiquitous Tantric *hautrī dīkṣā* is here criticized as useless without
 
 This Kaubjika *ṣaḍ-adhvan*, then, is essentially a map of the tattva-system. The inclusion of *guṇa* as a tattva shows that this varies slightly from the standard map. When addressing the highest levels of the universe, our text departs from the tattva-map entirely and references the stages of *mantroccāra*,[^551] the last of which is *unmanā* (which SANDERSON translates as “transmental”), which in the Trika cosmology denotes the divine reality which lies “outside” the universe of time and space (*brahmāṇḍa*), and thus is equivalent to the “secret” tattva #37.[^552] As in Trika texts, here *unmanā* is associated with Parā, which must be due to an oversight on the part of the text’s redactor, since the high Goddess of this work is of course Kubjikā. We can see that there is a textual problem in 79cd, since *nivṛttyantam* does not fit the context at all, *nivṛtti* being the lowest of the five *kalā*s, when we would instead expect the highest here (i.e., *śāntyātīta*). 
 
-Next the text describes the evidence (*pratyaya*) or signs (*cihna*) of “possession” on each of these levels. We can only imagine what *āveśa* means with reference to the *tanmātra*s, *jñānendriya*s, *karmendriya*s, etc., but clearly it has little to do with the literal sense intended when possessing spirits are involved (but see note !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Next the text describes the evidence (*pratyaya*) or signs (*cihna*) of “possession” on each of these levels. We can only imagine what *āveśa* means with reference to the *tanmātra*s, *jñānendriya*s, *karmendriya*s, etc., but clearly it has little to do with the literal sense intended when possessing spirits are involved (but see note
 
 [^547]: *śaktimato* corr. : *śaktimano* Ed.
 [^548]: *prakṛto* corr. : *prakṛtau* Ed.
@@ -629,7 +609,6 @@ He trembles, he is dizzy, he might weep, fly up,[^554] fall down, speak incohere
 
 *bhramate cakravat pātaḥ kāṣṭhavat kṣubhitekṣaṇaḥ* |
 *paśyate vibhramāpannaḥ śakti-vedhopalakṣayet*[^559] || 10.86 Spinning like a wheel, falling like a log, seeing with agitated eyes, disorientation: one should mark \[these\] as the \[signs of\] piercing by Power. *kampate bhramate caiva jalpate vadate ’khilam* |
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^553]: *vedhopāyaṃ* conj. : *bhedopāyaṃ* Ed.
 [^554]: Referring to *udghāta*?
@@ -654,8 +633,6 @@ Now I will tell you of *raudra-\[āveśa\]*: there are five states that are born
 *pūrvoktena tu vidhinā*[^560] *śodhitas tu yadā śiśuḥ* |
 *tadā sampadyate tasya śāmbhavaṃ guṇa-dāyakam* || 10.92 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 [^560]: *vidhinā* em. SANDERSON : *kālena* Ed.
 
 *[p. 229]* ^pg240
@@ -674,8 +651,6 @@ When the disciple is purified through the process already described (i.e., the p
 *tatkṣaṇād viṣayān mucyej jīrṇa-kañcuṃ*[^566] *yathoragaḥ* || 10.97 He sees before him the whole mass of eternally arising *tattva*s. In that very instant, he will release \[attachment to\] sense-objects, like a snake \[sloughs off\] its old skin.[^567] *sadānanda-madonmattaḥ sarvajña-guṇa-bhūṣitaḥ* |
 *śāmbhavena tu viddhasya cihnedaṃ sampravartate* || 10.98 He is drunk on the wine of continual bliss, \[and\] adorned with the qualities of the omniscient one (Śiva). This sign arises for one pierced by *śāmbhava*. *bhūta-bhāvana-śaktīnāṃ mantrāveśa<ṃ> saraudrajam* |
 *krameṇa śāmbhavas teṣāṃ viśuddhatvaṃ yathā yathā* || 10.99 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^561]: -*kālena . . . so paśyati* em. SANDERSON : *kāle’pi . . . sau paśyati* Ed.
 [^562]: Except, presumably, Śiva: cf. Kṣemarāja *ad Svacchanda-tantra* (vol. 2, p. 279), *ekasyāpi śivanāthasyetthyaṃ vyāvṛtti-bhedena sarvajñatvādayaḥ ṣaṭ guṇā vyākhyeyāḥ*.
@@ -708,7 +683,7 @@ A short excursus on brief mentions of *vedha-dīkṣā* in related sources follo
 *tatkṣaṇāj jāyate so ’pi dīpād dīpam ivoddhṛtam* |
 In an instant,[^571] he falls on the ground like a tree cut at the root. He whose heart-space receives transmission through the process of *vedha-dīkṣā*, like a flame lit from another flame, is \[re\]-born in an instant. 
 
-The text goes on to say that the initiand who makes his mind free of the need for any external support, dissolving it in the stainless sky (of awareness), and who !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+The text goes on to say that the initiand who makes his mind free of the need for any external support, dissolving it in the stainless sky (of awareness), and who
 
 [^568]: Cf. Abhinavagupta’s near-equation of *viddha* and *abhiniviṣṭa/āviṣṭa* in the ĪPvv, p. 333 below*.*
 [^569]: See also Appendix Two, on *vedha-dīkṣā* in *Tantrāloka* 29.
@@ -731,7 +706,6 @@ Here, the churning stick is the central channel, which is compared to a blazing 
 Before leaving the KMT behind, we should note a mysterious passage that opens chapter 21 of the text: 
 
 *lakṣācāra-mano-rūpāḥ śaktayo vīrya-saṃsthitāḥ* |
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^572]: *tāvat saṃdahyate devi pāśaṃ caivordhvādho-gatam | nirādhāraṃ manaḥ kṛtvā nirmale gagane pade* || 193 || *yāvat cintayate tasya viśuddhena manā priye | tāvat saṃpatate bhūmau kāṣṭa-pāṣāṇavat sthitaḥ* || 194 || *paścāt tasya kalā sūkṣmā citte hy amṛta-varṣiṇī | tataś cotthāpya bhūmes tu mantraṃ tasyaiva dāpayet* || 195 || *eṣā dīkṣā maheśāni vedha-karmaṇi yojayet |*. From the provisional etext edition by Mark S.G. DYCZKOWSKI, based on two MSS: MS K, NAK \#1-242 / NGMPP A 161/12 (paper, Newārī script, incomplete); MS Kh, NAK \#5-5184 (śaivatantra 655) / NGMPP A 161/14 (paper, devanāgarī, complete). DYCZKOWSKI notes: “what is noted on the NGMPP index cards as NAK \#1-252 / NGMPP A 1177/11 is MS K. The MS number has been noted wrongly.”
 [^573]: This text was brought to my attention by Somadeva VASUDEVA, who transcribed its manuscript (NAK 1-135 / NGMPP A40/5) and very kindly shared the etext with me.
@@ -755,7 +729,7 @@ The first occurrence of *āveśa* in the text is surprising: if I am interpretin
 *yat sukham brahma-tattvasya tat sukhaṃ svākyam ucyate* || 69
 The conclusion of entry into *śakti*, the \[orgasmic\] excitation resulting from union with *śakti*, is the joy of the Absolute Reality; that is said to be one’s innate joy. 
 
-Of course the verse can be explained in nonsexual terms, and that is probably intentional, but the verses framing this one (68 and 70) are implicitly and explicitly sexual respectively, making it very unlikely that verse 69 was not intended sexually. However, I think it is clear that here the author intends us to understand that !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Of course the verse can be explained in nonsexual terms, and that is probably intentional, but the verses framing this one (68 and 70) are implicitly and explicitly sexual respectively, making it very unlikely that verse 69 was not intended sexually. However, I think it is clear that here the author intends us to understand that
 
 [^576]: Thanks to Christopher TOMPKINS for this interpretation.
 
@@ -776,8 +750,6 @@ The last occurrences of *samāveśa* in the VBT are near the end of the text, in
 The \[true\] holy place of pilgrimage (*kṣetra*) is the state of being immersed in the Power of Rudra, the supreme meditation, which arises due to starving (*kṣap*) all sins and saving (*tra*) all beings. 
 
 Here the key phrase *rudra-śakti-samāveśa*, so significant in earlier Trika and Kaula texts, is defined as the both “the supreme meditation” (*parā bhāvanā*, where *parā* also refers to the Goddess Parādevī) and “the holy place of pilgrimage” (*kṣetra,* ≈ *tīrtha*) 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^577]: Note that this is different from the sense that Abhinavagupta applies to these terms, since for him this would be a *śāmbhava-samāveśa*, as the *śākta* state does not for him entail the dissolution of the mind but rather the active use of *vikalpa*s (that spontaneously dissolve into *nirvikalpa* awareness when the practice is successful).
 
@@ -804,7 +776,7 @@ Curiously for such an esoteric and essentializing text, here a phrase appears th
 
 *Conclusions to* 2.3: *scriptural sources* 
 
-Our exploration of the scriptural sources has taken us on a journey through primitive early materials in which “possession” is intended more or less literally (BY), through Trika sources in which *āveśa* denotes any kind of powerful spiritual experience, and one that is specifically required for efficacy of mantras (MVT, SYM), !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Our exploration of the scriptural sources has taken us on a journey through primitive early materials in which “possession” is intended more or less literally (BY), through Trika sources in which *āveśa* denotes any kind of powerful spiritual experience, and one that is specifically required for efficacy of mantras (MVT, SYM),
 
 [^578]: Cf. NEMEC 2011: 47.
 
@@ -822,7 +794,7 @@ In the Trika sources (pp. 168-189), we encountered the term *rudra-śakti*, mean
 
 In the purely Kaula sources (such as the TU and ŪKA, pp. 197-214), we meet the term *saṅkrānti* or transmission, as an apparent equivalent for *samāveśa* (for example, in the TU, *jñāna-saṅkrānti* was defined as *rudra-śakti-samāveśa*). We also find the term *āveśa-guru*, signifying one who can bestow this transmission. One in whom *rudra-śakti* has entered experiences various bodily symptoms (like shaking) and ecstasies (TU 4) that give way to various visions of *yoginī*s and other worlds. In a typical Kaula statement emphasizing religious experience over rites, we were told that all the mantras and tantras are void and useless without *rudra-śakti*, which is consistently discussed in experiential terms. The ŪKA continued this line of thought, including all the same elements as the TU, but also introducing the terms *vedha-dīkṣā* and *vedha-saṅkramaṇa* to denote an intensely powerful transmission from the guru that results in *samāveśa*. The term *śaktipāta* is also used to denote the cause of *samāveśa*; all these terms overlap in ambiguous ways in the ŪKA. When it comes to classification, we saw a synthesis of terms from the TU and the MVT (whether those were sources for the ŪKA or not). In the KMT (pp. 223-232), we saw all the same themes repeat: *vedha-dīkṣā* causes *āveśa*, and *āveśa* can occur in many different forms. Here, though, we met with a hierarchy of six levels of *āveśa* which was coterminous with the *tattva* map; that is, one can theoretically be “possessed” by any of the tattvas (abstract principles of reality). Clearly, possession in the usual sense is not intended. *Āveśa* on any level below *manas-tattva* results in symptoms resembling madness (shaking, weeping, babbling); from *manas* up to *prakṛti* the result is omniscience, and from *puruṣa* up to *unmanā* the result is Śivahood. 
 
-In the Saiddhāntika sources we saw none of this, or almost none; but *śaktipāta* (divorced from *samāveśa*) holds an important place. In our earliest Tantric source (the NTS) we saw that *śaktipāta* is held to grant both initiation and gnosis (or that initiation grants gnosis through *śaktipāta*). In the mature Siddhānta, *śaktipāta* is an act of grace on the part of God that awakens the soul (*ātmānaṃ prakāśayet*, *puṃ-prabodhinī*) and greater awareness (e.g. of one’s real nature and of the fruitlessness of worldly life) is evidence that it has taken place (*cidvat, bodha-cihna*). *Śaktipāta* is held to be that which causes a previously indifferent person to seek a guru and initiation; but there are subtle traces of the idea that *śaktipāta* is also something that can occur during initiation. The SSS tells us that *śaktipāta* is a bestowal of grace that erodes enough of a person’s *mala* to give rise to the desire for liberation in him. The KT is concerned with the occasion for *śaktipāta* or the question of why it happens at some particular time and not another (a question that does not occur in the non-Saiddhāntika sources), and therefore posits the doctrine of *karmasāmya*. The term *āveśa* does not occur in these Saiddhāntika sources, excepting as a rare passing mention.[^579] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+In the Saiddhāntika sources we saw none of this, or almost none; but *śaktipāta* (divorced from *samāveśa*) holds an important place. In our earliest Tantric source (the NTS) we saw that *śaktipāta* is held to grant both initiation and gnosis (or that initiation grants gnosis through *śaktipāta*). In the mature Siddhānta, *śaktipāta* is an act of grace on the part of God that awakens the soul (*ātmānaṃ prakāśayet*, *puṃ-prabodhinī*) and greater awareness (e.g. of one’s real nature and of the fruitlessness of worldly life) is evidence that it has taken place (*cidvat, bodha-cihna*). *Śaktipāta* is held to be that which causes a previously indifferent person to seek a guru and initiation; but there are subtle traces of the idea that *śaktipāta* is also something that can occur during initiation. The SSS tells us that *śaktipāta* is a bestowal of grace that erodes enough of a person’s *mala* to give rise to the desire for liberation in him. The KT is concerned with the occasion for *śaktipāta* or the question of why it happens at some particular time and not another (a question that does not occur in the non-Saiddhāntika sources), and therefore posits the doctrine of *karmasāmya*. The term *āveśa* does not occur in these Saiddhāntika sources, excepting as a rare passing mention.[^579]
 
 [^579]: As at Parākhya 14.97, where *samāveśa* is one of several glosses on the term *yoga*: *yogo vā tat-samāveśas tat-svarūpa-vibhāvanāt* | *vibhutvān na pater yogaḥ proktas tad upacārataḥ* || “Or yoga is immersion into Him arising from the contemplation of His nature. \[In fact\] union (*yogaḥ*) with the Lord is impossible, because He is all-pervading. \[When\] it is spoken of \[in scripture\], then \[it is spoken of\] in a figurative sense” (trans. GOODALL 2004: 384).
 
@@ -836,7 +808,7 @@ Dīkṣā *and* āveśa *in the ritual manuals* (paddhati)
 
 The literature denoted by the term *paddhati* is not scriptural, being composed by named human authors; but it is closer to the scriptural materials than any other exegetical material, being a detailed description of ritual procedures that are often only alluded to in outline in the scriptures themselves. SANDERSON translates a definition of *paddhati* given by Rāmakaṇṭha: 
 
-For any scripture a *paddhati* is a text which enables the performance of the rituals \[of that scripture\] along with the mantras \[that accompany them\] by succinctly arranging in the order \[of performance\] (i) the \[instructions\] explicitly stated \[in that scripture but\] dispersed in various places \[throughout its length\], and (ii) whatever \[else\] those explicit statements imply.[^580] As we have seen, the scriptural material can be exceedingly vague and lacking in concrete description, therefore the large corpus of *paddhati*s demands our attention. Unfortunately, these texts are currently the least studied textual stratum of the tradition. Pioneering work was done in French by Hélène BRUNNER on the crucial *Somaśambhu-paddhati* aka the *Kriyākāṇḍa-kramāvalī* (late 11th cen.), but the lion’s share remains to be done. SANDERSON has begun to look at the issue of *paddhati*s governing regional practice versus transregional *paddhati*s that became near-universal reference works, like the *Somaśambhu-paddhati*. The most important source for the latter work is *Siddhānta-sāra-paddhati*, composed in the mid-eleventh century by (or more likely under the patronage of) Paramāra King Bhojadeva of Dhārā. It is the !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+For any scripture a *paddhati* is a text which enables the performance of the rituals \[of that scripture\] along with the mantras \[that accompany them\] by succinctly arranging in the order \[of performance\] (i) the \[instructions\] explicitly stated \[in that scripture but\] dispersed in various places \[throughout its length\], and (ii) whatever \[else\] those explicit statements imply.[^580] As we have seen, the scriptural material can be exceedingly vague and lacking in concrete description, therefore the large corpus of *paddhati*s demands our attention. Unfortunately, these texts are currently the least studied textual stratum of the tradition. Pioneering work was done in French by Hélène BRUNNER on the crucial *Somaśambhu-paddhati* aka the *Kriyākāṇḍa-kramāvalī* (late 11th cen.), but the lion’s share remains to be done. SANDERSON has begun to look at the issue of *paddhati*s governing regional practice versus transregional *paddhati*s that became near-universal reference works, like the *Somaśambhu-paddhati*. The most important source for the latter work is *Siddhānta-sāra-paddhati*, composed in the mid-eleventh century by (or more likely under the patronage of) Paramāra King Bhojadeva of Dhārā. It is the
 
 [^580]: *Sārdhatriśati-kālottara-vṛtti* p. 45, ll. 6–7, quoted in SANDERSON 2005c: 356n19.
 
@@ -848,7 +820,7 @@ What I wish to show—and this has not been demonstrated in print to my knowledg
 
 Furthermore, there are other instances of *āveśa* in the *dīkṣā* rite that we will examine. It might not be overextending the argument to say that *āveśa* (whether or not that term is used) must be understood as the driving force of *dīkṣā* as an efficacious ritual technology. As SANDERSON writes, 
 
-The distinctive essence of the rituals of initiation is that the officiant is believed by means of mantras, ritual gestures, visualizations and the control of breathing to pass into the body of the initiand, to take hold of the soul, and raising it out of that body unite it with Śiva. \[In\] this technique consciousness is materialized and manipulated through imagination reinforced by utterance and gesture . . . in initiation the Guru’s manipulation of his own soul and that of the initiand flow together, since the latter’s \[future\] liberation is achieved when the Guru takes the initiand’s soul into his own body, fuses it with his soul and then raises them up as one through his body to unite them with Śiva above it.[^582] As we have seen, *āveśa* among other things can denote the temporary unity of two apparently separate conscious entities; and the related term *para-śarīrāveśa* is also !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+The distinctive essence of the rituals of initiation is that the officiant is believed by means of mantras, ritual gestures, visualizations and the control of breathing to pass into the body of the initiand, to take hold of the soul, and raising it out of that body unite it with Śiva. \[In\] this technique consciousness is materialized and manipulated through imagination reinforced by utterance and gesture . . . in initiation the Guru’s manipulation of his own soul and that of the initiand flow together, since the latter’s \[future\] liberation is achieved when the Guru takes the initiand’s soul into his own body, fuses it with his soul and then raises them up as one through his body to unite them with Śiva above it.[^582] As we have seen, *āveśa* among other things can denote the temporary unity of two apparently separate conscious entities; and the related term *para-śarīrāveśa* is also
 
 [^581]: But note that the term *pratyaya* can also be used in the sense of “faith-inspiring miracles” (which include stopping the effects of poison and curing malefic/afflictive possession), whereby observers become convinced that because Śiva’s mantras can accomplish these magical acts, liberation through His mantras, rites, and yoga is also possible. See *Sārdhatriśati-kālottara* 21, *Tantrasadbhāva* 9.242c-3b, and the discussion at TAK 3 s.v. *pratyaya*. So in *this* sense *pratyaya*s are part of the orthodox argument for the efficacy of *dīkṣā*.
 [^582]: *Śaivism, Society, and the State*, unpublished manuscript dated May 1, 2004, pp. 17-18.
@@ -877,8 +849,6 @@ Now we will summarize the steps of the ritual. In preparation for the two-day ce
 
 At dawn on the morning of the first day of the ceremony, the guru completes various preliminary rites, then installs the deities in the form of their mantras at the 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 [^583]: Text of the SSP sourced from an etext provided to me by Christopher TOMPKINS, which consists of an edition prepared (probably by Sanderson) on the basis of two manuscripts: A = NAK 1-1363, NGMPP B 28/29, completed in Saṃvat 197 (1077/8 CE), B = NAK 5-743, NGMPP B 28/19, completed Saṃvat 231 (1111/2 CE). When referring to these MSS, folio and line numbers are used, e.g. 25r2 means folio 25 *recto* (front side) line 2.
 [^584]: This description of the ritual space is paraphrased from SANDERSON’s *Śaivism, Society, and the State*, which account draws on *Jayadratha-yāmala*’s *Saṭka*s 1 and 2 and the *Siddhānta-sāra-paddhati*, with details added from *Netra-tantra* 18.52 and *Hara-carita-cintāmaṇi* 31.77-79. See also SURDAM 1984: lxxxii-iv.
 
@@ -891,8 +861,6 @@ In the SSP, the fusion of the guru’s agency with Śiva’s is accomplished thr
 *bhagavan madīyaṃ deham āviśyānugrāhya-guṇa-sampannasyāsyānugrahaṃ kurv ity anujñāṃ prārthya evaṃ karomīti bhagavato labdhānujño mūla-mantreṇa saptakṛtvo ’bhimantritaṃ* He should pray for Śiva’s permission \[to proceed\] thus: “O Lord, enter (*āviśya*) my body and bestow grace \[through initiation\] on this initiand who is worthy of being graced.” Feeling that the Lord has granted his permission (*evaṃ karomīti*), he should consecrate it with seven repetitions of the root-mantra.[^586] *tato maṇḍale sarva-karma-sākṣitvena śiva-kumbhe yajña-rakṣakatvena vahnau homādhikaraṇatvena śiṣya-dehe tat-pāśa-śithilīkaraṇatvena svātmany anugrāhakatvena ity adhikaraṇa-pañcake ’py aham eva śiva iti sadāśivād apṛthag-bhūtam ātmānaṃ tat-samāna-guṇaṃ mama caite hṛdayādi-mantrāḥ karaṇa-bhūtā iti saṃcintya svatantra-patitvam ātmani sambhāvya śiśor anugrahātma*[^587] *karma kuryāt*. (MS A 16r-v; B 24r-v) 
 
 Then he affirms that he is indeed Śiva (*aham eva śiva*) with regard to five loci of action: witnessing all the rites performed in the \[presence of\] the maṇḍala, maintaining the offerings into the consecrated vessel (*śiva-kumbha*), superintending the offerings into the fire,[^588] loosening the bonds in the disciple’s body, and favouring Himself \[in the form of the 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^585]: See *Svacchanda-tantra* vol. 1, pp. 175-77 (KSTS ed.). The mantras are paradoxically both the primary instruments of worship and that which receives the worship being offered (which of course is not a problem in a nondual context).
 [^586]: For a close parallel, cf. MVT 9.37-38 (cited by Jayaratha ad [[Tantraloka 15.451|TĀ 15.451ab]]): *gurutvena tvayaivāham ājñaptaḥ parameśvara | anugrāhyās tvayā śiṣyāḥ śiva-śakti-pracoditāḥ || tad ete tad-vidhāḥ prāptās tvam eṣāṃ kurv anugraham | madīyāṃ tanum āviśya yenāhaṃ tvat-samo bhave ||*. Note especially the use of the phrase *śiva-śakti-pracodita* to express the idea of *śaktipāta*, by which the disciple becomes *anugrāhya* (worthy of initiation); cf. 2.3.7 above. Cf. also Rāmakaṇṭha’s *vṛtti* to *Sārdhatriśati-kālottara* 8.8 (*guruḥ śiva iti dvayoḥ kartṛtva-śruteḥ tatsiddhyarthaṃ maṇḍala-sthaṃ śivam evaṃ jñāpayet*), and *Svacchanda-tantra* p. 167*.*
@@ -911,8 +879,6 @@ Next the initiand(s)[^592] would arrive for the ceremony, and standing outside t
 *jhaṭity ālokite māntra-prabhāvollāsite sthale* || 15.451 *tad-āveśa-vaśāc chiṣyas tanmayatvaṃ prapadyate* |
 *yathā hi rakta-hṛdayas tāṃs tān kāntāguṇān svayam* || 452
 *paśyaty evaṃ śaktipāta-saṃskṛto mantra-sannidhim* | 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [^589]: These five are meant to suggest the Five Acts (*pañca-kṛtya*) of Śiva: creating, maintaining, dissolving, obscuring, and bestowing grace (in that order). It is unclear how “loosening the bonds” corresponds to obscuration (*tirodhāna*) except insofar as the existence of the bonds in the first place expresses that power.
 [^590]: Though it is interesting to note the similarity of language with sources all the way on the other end of the spectrum of orthopraxis: cf. *bhagavan madīyaṃ deham āviśya . . .* here with *bhagavān praviśya mama vigraham* in the *Brahma-yāmala* (p. 160 above), where the context is literal possession.

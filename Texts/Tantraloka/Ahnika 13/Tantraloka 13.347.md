@@ -27,7 +27,7 @@ saṃbodhotkarṣabāhulyātkramotkṛṣṭānvibhāvayet |
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#^pg359|p. 337]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=359>))
 >
-> One should note (that there is a hierarchy also amongst the teachers of other traditions), according to the progressively increasing extent and excellence of (their) awakening (and right knowledge) (sambodha), which is determined by the (types of) rites (karman) and Yoga (they) prescribe, whether they are those of the common worldly traditions (loka), those concerning the Self (adhyātma) (that is, the Vedānta etc.), or the Atimārga (of Pāśupata Śaivas), and so on. (with 13.346cd–347ab)
+> One should note (that there is a hierarchy also amongst the teachers of other traditions), according to the progressively increasing extent and excellence of (their) awakening (and right knowledge) (saṁbodha), which is determined by the (types of) rites (karman) and Yoga (they) prescribe, whether they are those of the common worldly traditions (loka), those concerning the Self (adhyātma) (that is, the Vedānta etc.), or the Atimārga (of Pāśupata Śaivas), and so on. (with 13.346cd–347ab)
 >
 > The ascetics (muni) such as Nārada who ask questions in the Mālinīvijayottara were previously Vaiṣṇavas, Buddhists, knowers of (dualist Śaiva) Siddhāntas, and so on progressively, before (their) views (developed) into a desire for (the true) knowledge, (resplendent like) the moon of the Trika teachings (trikārtha). (with 13.347cd–348)
 

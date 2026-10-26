@@ -1,13 +1,15 @@
 ---
 type: decisions
 created: 2026-10-19
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 # Audit decisions (19 Oct 2026, second round)
 
 The decisions the complete vault audit of 19 Oct 2026 asks of Stephen (the merged report is in the Claude project, `claude/audit-2026-10-19/Complete vault audit.md`, section 5; the agents' edit files are in `.work/edits/audit-2026-10-19/`). Taken with Stephen in the Fable chat of 19 Oct 2026, a few at a time; each item gets his answer and the date below it as **Answer (19 Oct):** …. Items without an answer are open. The corrections prompt for the week of 26 Oct (`AI/Prompts/Audit corrections (Oct 2026).md`) carries out the answers and the safe fixes.
 
 **Status (19 Oct 2026, 17:45):** all 33 answered (Stephen, Fable chat, 16:05–16:55). Done the same evening, for testing this week: 1 (Spaced Repetition installed; folders as decks, ignore list in chat), 2 (Day Planner OG chosen and integrated: Daily mode, the template writes OG's form), 3 (the Guide's plugin table), 4 (Meta Bind toggles in the template; placeholders kept; `date` type not needed), 16 (all four Holy Days points), 27 (`<book> - marked pages`; the blank Ruiz note trashed), 33 (one `letterCycleStart` in paths.json). The corrections prompt `AI/Prompts/Audit corrections (Oct 2026).md` carries out the rest in the week of 26 Oct.
+
+**Status (26 Oct 2026):** the first session of the corrections week carried out 7 (all eleven volumes; the new layer is the 5 Oct reading without the junk glyphs, so it is no second witness for the `[illegible]` gaps), 9, 11, 12 and 14, with S1's Guide edits, S3's E-01/E-02 and T24b, S4, S6's Finn leftovers and S11's D1, D2 and D4 (AI log, 26 Oct). Decision 8: Graham's PDF stays as it is (Stephen, 26 Oct); the other seven layers, Hume and decision 19 (S5) are next.
 
 
 Grouped; each item names the finding ids. "Safe" fixes need no decision and go straight into the corrections prompt; they are listed in section 6.

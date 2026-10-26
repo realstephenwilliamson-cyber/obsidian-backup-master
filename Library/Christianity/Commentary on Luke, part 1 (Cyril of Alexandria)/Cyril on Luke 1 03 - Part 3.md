@@ -18,7 +18,7 @@ The text is a fresh OCR of the 1859 print (Tesseract, English); check quotations
 
 “angels charge concerning Thee.” For Satan being false and a deceiver, applies what is said of us to the person of Christ the Saviour of us all. But we do not understand it in Satan’s fashion; though if the Arians have so understood it, there is no cause for astonishment: for they follow their own father, “who is a liar, and the truth is not in him,” according to the Saviour’s words. For if the truth be as they say, and we have made Christ our help, and He has the Father for His refuge, then have we fled to one Who Himself has need of aid, and cal! Him our Saviour Who is saved by another. This cannot be: Heaven forbid. We say therefore to those who are wont so to think, Ye tell us another of your errors: ye are travelling out of the royal and straight path: ye are falling into thorns and pitfalls: ye have wandered from the truth. The Son is in all things equal to the Father: the mark and impress of His substance: the Most High, as also the Father is Most High.
 
-Satan then made use of these verses, as though the Saviour were a common man. For being entirely darkness, and having his mind blinded, he understood not the foree of what was said, that the psalm is spoken in the person of every just man who is aided by the Highest, even the God of heaven. And besides this, He knew not that the Word being God, was made man, and was Himself now being tempted in aceordanee with the plan of salvation. He therefore, as I said, supposed the words were spoken as of a common man, or even as of one of the holy prophets. But it is monstrous for us, who accurately know the mystery, and believe that He is God and the Son of God, and that for our sakes He became man like unto us, to imagine that the verses were spoken of Him. To say then, ‘ Thou hast “ made the Most High thy refuge,” befits not the person of the Saviour. For He is Himself the Most High: the refuge of all: the hope of all: the all-powerful right hand of the Father: and whosoever has made Him his defence, no evil shall approach him. For He shall command the angels, who are ministering spirits, to guard the just. For just as our fathers in the flesh, when they see the path rough and unpassable, catch up their infants in their hands, lest perchanec their tender feet should be hurt, being as yet unable to walk over the hard road, so also the rational powers do not permit those, who are as yet unable to labour, and whose understanding is John viii. 44
+Satan then made use of these verses, as though the Saviour were a common man. For being entirely darkness, and having his mind blinded, he understood not the foree of what was said, that the psalm is spoken in the person of every just man who is aided by the Highest, even the God of heaven. And besides this, He knew not that the Word being God, was made man, and was Himself now being tempted in aceordanee with the plan of salvation. He therefore, as I said, supposed the words were spoken as of a common man, or even as of one of the holy prophets. But it is monstrous for us, who accurately know the mystery, and believe that He is God and the Son of God, and that for our sakes He became man like unto us, to imagine that the verses were spoken of Him. To say then, ‘ Thou hast “ made the Most High thy refuge,” befits not the person of the Saviour. For He is Himself the Most High: the refuge of all: the hope of all: the all-powerful right hand of the Father: and whosoever has made Him his defence, no evil shall approach him. For He shall command the angels, who are ministering spirits, to guard the just. For just as our fathers in the flesh, when they see the path rough and unpassable, catch up their infants in their hands, lest perchanec their tender feet should be hurt, being as yet unable to walk over the hard road, so also the rational powers do not permit those, who are as yet unable to labour, and whose understanding is [[John 08#^8-44|John viii. 44]]
 
 *[p. 58]* ^pg82
 
@@ -91,9 +91,9 @@ Mat. xxviii.
 
 time, behold now is the day of salvation :” the day, when the poor who erewhile were sick by the absence of every blessing, having no hope and being without God in the world, such as were the gentiles, were made rich by faith in Him, gaining the divine and heavenly treasure of the Gospel message of salvation; by which they have been made partakers of the kingdom of heaven, copartners with the saints, and heirs of blessings such as neither the mind can conceive nor language tell. “ For eye, it saith, hath not scen, and ear hath not heard, “ noither have entered into the heart of man, tle things that “ God hath prepared for them that love Him.” Though it may also be true, that the text here speaks of the abundant supply of graces bestowed by Christ upon the poor in spirit.
 
-But by the bruised in heart, He means, those who have a weak and yielding mind, unable to resist the attacks of their 2 Cor. vi. 2.
+But by the bruised in heart, He means, those who have a weak and yielding mind, unable to resist the attacks of their [[2 Corinthians 06#^6-2|2 Cor. vi. 2]].
 
-1 Cor. ii. 9.
+[[1 Corinthians 02#^2-9|1 Cor. ii. 9]].
 
 *[p. 62]* ^pg86
 
@@ -161,11 +161,11 @@ Ver. 31.
 
 Mai éorti, Cr. éorac.
 
-Luke x. 15.
+[[Luke 10#^10-15|Luke x. 15]].
 
 *[p. 66]* ^pg90
 
-Luke v. 31.
+[[Luke 05#^5-31|Luke v. 31]].
 
 Ts. xlv. 19.
 
@@ -197,7 +197,7 @@ Ver. 38.
 
 Mat.viit.15.
 
-Mark i. 31.
+[[Mark 01#^1-31|Mark i. 31]].
 
 I, Who have become a man like unto you, chide the unclean spirits with godlike power and majesty, it is your nature which is crowned with this great glory: for ye are seen both through Me and in Me to have gained the kingdom of God.
 
@@ -217,11 +217,11 @@ P The word Wuy7 in Greek signifies ‘‘the vital principle of the body :” an
 
 and such is the meaning of its Hebrew and Syriac equivalent laa, “that which exists by breathing ;”
 
-and so one’s self: still even here there may be an allusion to man’s animal nature, which was the sole part of him which the rich man valued. Sometimes it is used in opposition to the body, because the life is something better than the frame which it vivifies; and so S. Cyril seems to understand it in this place, though doubtless it is rightly translated in our version, “ But save his life.” Certainly just above he had used it for man’s moral state, saying, that we must not think evil of the soul of those who suffer from bodily maladies. In all cases the yuy7 is rather the mortal than the immortal, and is opposed to the mvevpa, although even in this word, as in Spiritus, the original idea is taken from the physical act of breathing. Possibly, however, we often take the word “ soul” in the A.V. in a sense not intended by the translators. For by the gradual change of language, the meaning of the term has been limited since their time to its higher signification, and a different sense thereby given to many passages of Scripture; such, for instance, as, “‘ What is a man profited “if he gain the whole world, and “lose his own soul?” that is, his life. (Mat. xvi. 26.) So “to deliver “their soul from death, and to “keep them alive in famine.” (Ps. xxxilil. 19.) Wicklif uses soul-haver as equivalent to animal: “ Thou “shalt be cursed among alle the “ soul-hauers and beestis of the “erthe.” (Gen. iii.14.) From not attending to this gradual alteration in the meaning of words, curious misunderstandings often arise; as, for instance, in an emended Book of Common Prayer lately put forth, the word ‘ wealth,’ which signifies our gencral well-being, is expunged as being supposed to signify money.
+and so one’s self: still even here there may be an allusion to man’s animal nature, which was the sole part of him which the rich man valued. Sometimes it is used in opposition to the body, because the life is something better than the frame which it vivifies; and so S. Cyril seems to understand it in this place, though doubtless it is rightly translated in our version, “ But save his life.” Certainly just above he had used it for man’s moral state, saying, that we must not think evil of the soul of those who suffer from bodily maladies. In all cases the yuy7 is rather the mortal than the immortal, and is opposed to the mvevpa, although even in this word, as in Spiritus, the original idea is taken from the physical act of breathing. Possibly, however, we often take the word “ soul” in the A.V. in a sense not intended by the translators. For by the gradual change of language, the meaning of the term has been limited since their time to its higher signification, and a different sense thereby given to many passages of Scripture; such, for instance, as, “‘ What is a man profited “if he gain the whole world, and “lose his own soul?” that is, his life. ([[Matthew 16#^16-26|Mat. xvi. 26]].) So “to deliver “their soul from death, and to “keep them alive in famine.” (Ps. xxxilil. 19.) Wicklif uses soul-haver as equivalent to animal: “ Thou “shalt be cursed among alle the “ soul-hauers and beestis of the “erthe.” (Gen. iii.14.) From not attending to this gradual alteration in the meaning of words, curious misunderstandings often arise; as, for instance, in an emended Book of Common Prayer lately put forth, the word ‘ wealth,’ which signifies our gencral well-being, is expunged as being supposed to signify money.
 
 *[p. 70]* ^pg94
 
-John x. 37.
+[[John 10#^10-37|John x. 37]].
 
 \+ map éauTdoy
 
@@ -315,7 +315,7 @@ And He charged him to tell no man. Ver. 14.
 
 Even though the leper had been silent, the very nature of the fact was enough to proclaim to all who knew him how great was His power Who had wrought the cure. But He bids him tell no man: and why?) That they who receive from God the gift of working cures may hereby learn not to look for the applause of those whom they have healed, nor indeed any one’s praises whatsoever, lest they fall a prey unto pride, of all vices the most disgraceful.
 
-He purposely, however, bids the leper offer unto the priests the gift according to the law of Moses. For it was indeed confessedly His wish to put away the shadow, and transform the types unto a spiritual service. As the Jews, however, because as yet they did not believe on Him, attached themselves to the commands of Moses, supposing their ancient customs to be still in force, He gives leave to the leper to make the offering for a testimony unto them. And what was His object in granting this permission? It was because the Jews, using ever as a pretext their respect for the Jaw, and saying that the hierophant Moses was the minister of a commandment from on high, made it their endeavour to treat with contempt Christ the Saviour of us all. They even said plainly, “ We know that God spake unto Moses: but This Johnix.29. “ man, we know not whence He is.” It was necessary, therefore, for them to be convinced by actual facts that the measure of Moses is inferior to the glory of Christ: ‘ For he indeed as Heb. iii. 5. “a servant was faithful over his house; but the other as a Son “ over His Father's house.” From this very healing, then, of the leper, we may most plainly see that Christ is incomparably
+He purposely, however, bids the leper offer unto the priests the gift according to the law of Moses. For it was indeed confessedly His wish to put away the shadow, and transform the types unto a spiritual service. As the Jews, however, because as yet they did not believe on Him, attached themselves to the commands of Moses, supposing their ancient customs to be still in force, He gives leave to the leper to make the offering for a testimony unto them. And what was His object in granting this permission? It was because the Jews, using ever as a pretext their respect for the Jaw, and saying that the hierophant Moses was the minister of a commandment from on high, made it their endeavour to treat with contempt Christ the Saviour of us all. They even said plainly, “ We know that God spake unto Moses: but This Johnix.29. “ man, we know not whence He is.” It was necessary, therefore, for them to be convinced by actual facts that the measure of Moses is inferior to the glory of Christ: ‘ For he indeed as [[Hebrews 03#^3-5|Heb. iii. 5]]. “a servant was faithful over his house; but the other as a Son “ over His Father's house.” From this very healing, then, of the leper, we may most plainly see that Christ is incomparably
 
 t That is, One person consisting extract in Aquinas, is from the of both natures. ‘The passage re- Thesaurus.
 
@@ -353,11 +353,11 @@ xX oy signifies ‘ cohibuit, arcuit,” and thence in Piel munivit.
 
 Its derivatives 742, Deut. iv. 43., and mya, Is. Ixti. 1., signify ‘¢ a fortified town.” The meanings therefore of ‘‘ narrowing” and ‘\* pressing” are correct. In thence however deriving “ Hesh,” there 1s a confusion between it and 4w2, originally 102, flesh, which has the same sound as Bosor, and only differs from \\¥2 by having another sibilant.
 
-23\. John iii.13.
+23\. [[John 03#^3-13|John iii.13]].
 
-1 Pet. iv. 1.
+[[1 Peter 04#^4-1|1 Pet. iv. 1]].
 
-1 Pet. iii.18.
+[[1 Peter 03#^3-18|1 Pet. iii.18]].
 
 Is. lxili. 1,
 
@@ -367,9 +367,9 @@ Zech. xiii.6.
 
 Jolin xx.27.
 
-Eph. iv. 5.
+[[Ephesians 04#^4-5|Eph. iv. 5]].
 
-2 Cor.xiii.3.
+[[2 Corinthians 13#^13-3|2 Cor.xiii.3]].
 
 inquired, “ Are such the wounds in the middle of Thy “hands?” and He answered, “With these was I wounded “in the house of My beloved.” For just as after His return to lite from the dead, when shewing, with most wise purpose, His hands unto Thomas, He bade him handle both the prints of the nails, and the holes bored in His side: so also, when arrived in heaven, He gave full proof to the holy angels, that Israel was justly cast out and fallen from being of His family. For this reason, He shewed His garment stained with blood, and the wounds in His hands, and not as though He could not put them away; for when He rose from the dead, He put off corruption, and with it all its marks and attributes : He retained them therefore, that the manifold wisdom of God, which He wrought in Christ, might now be made known by the Church, according to the plan of salvation, to principalities and powers. :
 
@@ -472,7 +472,7 @@ For Levi was a publican, a man insatiable after filthy lucre, of unbridled covet
 
 and the word caaf ‘ian’ signifies “any,” “some,” sv that we even find cra} {ad}, literally Deus homo, Seest thon that most wise
 
-Adam is called |saza. son of man, in the Syriac version of <sup>1</sup>Cor. xv. 45. This sometimes leads to an ambiguity in Scripture, as that noticed in the text by S. Cyril: and again, Luke vi. 5, where some interpret that our Saviour is Lord of the Sabbath day, whereas the sense requires us to understand it of man-
+Adam is called |saza. son of man, in the Syriac version of <sup>1</sup>Cor. xv. 45. This sometimes leads to an ambiguity in Scripture, as that noticed in the text by S. Cyril: and again, [[Luke 06#^6-5|Luke vi. 5]], where some interpret that our Saviour is Lord of the Sabbath day, whereas the sense requires us to understand it of man-
 
 kind generally.
 
@@ -562,7 +562,7 @@ For all things are good in their season. But what is the meaning of the bridegro
 
 And He spake also a parable unto them. Ver. 36.
 
-But that the institutions of Christ cannot be reccived by those who live according to the law, nor admiticd into the hearts of such as have not as yet received the renewing by the Holy Ghost, the Lord shews by saying, that “a tattered \* patch cannot be put upon a new garment, nor can old skins « hold new wine.” For the first covenant has grown old, nor was it free from fault. Those therefore who adhere to it, and keep at heart the antiquated commandment, have no share in the new order of things in Christ: “ For in Him all things are 2 Cor. v. “become new:” but their mind being decayed, they have no '” concord nor point of mutual agreement with the ministers of tepoupyois. the new covenant. The God of all accordingly somewhere said of them by one of the holy prophets, that “a new heart Ez. xxxvi. “and a new spirit will I put into them.” And Dayid also \*© sings, “ Create in me a clean heart, O God, and renew a right Ps. li. 10. \* spirit within me.” And we have been commanded also “ to Col, iii. 9. “put off the old man, and to put on the new man, renewed “ after the image of Him that created it.” And Paul also gives counsel, saying, “ Be ye not conformed to this world, but Rom. xii. 2. “be ye transformed by the renewing of your minds, that ye “ may prove what is the good and acceptable, and perfect will “of God.” Those therefore who have not as yet received the renewing of the spirit, are also unable to prove the good and acceptable, and perfect will of God.
+But that the institutions of Christ cannot be reccived by those who live according to the law, nor admiticd into the hearts of such as have not as yet received the renewing by the Holy Ghost, the Lord shews by saying, that “a tattered \* patch cannot be put upon a new garment, nor can old skins « hold new wine.” For the first covenant has grown old, nor was it free from fault. Those therefore who adhere to it, and keep at heart the antiquated commandment, have no share in the new order of things in Christ: “ For in Him all things are 2 Cor. v. “become new:” but their mind being decayed, they have no '” concord nor point of mutual agreement with the ministers of tepoupyois. the new covenant. The God of all accordingly somewhere said of them by one of the holy prophets, that “a new heart Ez. xxxvi. “and a new spirit will I put into them.” And Dayid also \*© sings, “ Create in me a clean heart, O God, and renew a right Ps. li. 10. \* spirit within me.” And we have been commanded also “ to Col, iii. 9. “put off the old man, and to put on the new man, renewed “ after the image of Him that created it.” And Paul also gives counsel, saying, “ Be ye not conformed to this world, but [[Romans 12#^12-2|Rom. xii. 2]]. “be ye transformed by the renewing of your minds, that ye “ may prove what is the good and acceptable, and perfect will “of God.” Those therefore who have not as yet received the renewing of the spirit, are also unable to prove the good and acceptable, and perfect will of God.
 
 N
 
@@ -650,9 +650,9 @@ Ver. 11.
 
 Ver. 12.
 
-Mat. vi. 6.
+[[Matthew 06#^6-6|Mat. vi. 6]].
 
-1 Tim. ii. 8.
+[[1 Timothy 02#^2-8|1 Tim. ii. 8]].
 
 Arius.
 
@@ -682,7 +682,7 @@ i This extract, which is taken sage in page 92, (conf. note h.\], is from the sa
 
 “ no way whatsoever unlike Him? ‘For without all contro- Heb. vii. ‘
 
-Rom. i. 7.
+[[Romans 01#^1-7|Rom. i. 7]].
 
 God the Father: and therefore spake He unto Him, that “ all John xvii. “ that is Mine is Thine; and Thine Mine: and I am glorified \*\* “in them.” But He Who has every thing that belongs to God the Father as His very own, of what is He still in need? But if, in fine, He is in need of any thing, and they affirm that this is true, there is nothing to prevent our saying, that there are certain things of which the Father Himself is in need. For if all that the Son has is the Father’s, but there is something of which the Son is in need, therefore must the Father too be similarly circumstanced: for all that the Son hath is the Father’s. But the Father is all perfect, and is deficient of no good whatsoever that is suitable to Deity: therefore is the Son all perfect, as having all that the Father hath, and being His image and the impress of His substance: but in the impress there is displayed entirely the original form, and in the original form there exists entirely the impress. And thus mucli then as
 
@@ -692,9 +692,9 @@ And those too who have been caught by the empty declamations of Nestorius, say t
 
 *[p. 96]* ^pg120
 
-John i. 14.
+[[John 01#^1-14|John i. 14]].
 
-Heb. ii. 16.
+[[Hebrews 02#^2-16|Heb. ii. 16]].
 
 Ver. 13.
 

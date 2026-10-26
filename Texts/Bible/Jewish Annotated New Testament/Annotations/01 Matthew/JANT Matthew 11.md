@@ -24,11 +24,11 @@ Text: [[NRSVue Matthew 11|NRSVue]] · [[Matthew 11|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 11#^11-10|10]]:** See [[Malachi 3#^3-1|Mal 3.1]]. ^11-10
 
-**[[NRSVue Matthew 11#^11-11|11]]:** *Born of women*, mortals; see [[Job 14#^14-1|Job 14.1]]; [[Job 15#^15-14|15.14]]; [[Job 25#^25-4|25.4]]; [[Shabbat 88#88b|*b. Shabb*. 88b]]. *Least in the kingdom*, i.e., all of Jesus’ followers who are in the kingdom of heaven. ^11-11
+**[[NRSVue Matthew 11#^11-11|11]]:** *Born of women*, mortals; see [[Job 14#^14-1|Job 14.1]]; [[Job 15#^15-14|15.14]]; [[Job 25#^25-4|25.4]]; *b. Shabb*. [[Shabbat 88#88b|88b]]. *Least in the kingdom*, i.e., all of Jesus’ followers who are in the kingdom of heaven. ^11-11
 
-**[[NRSVue Matthew 11#^11-13|13]]:** *Prophets and the law*, Israel’s Scripture, regarded as anticipating the Messiah ([[Acts 03#^3-24|Acts 3.24]]; [[Berakhot 34#34b|*b. Ber*. 34b]], “All the prophets prophesied only for the days of the Messiah”; see also *b. Shabb* 63a; [[Sanhedrin 99#99a|*b. Sanh*. 99a]]). Tertullian (*Pud*. 8) understood that John the Baptist’s arrival negated Torah. ^11-13
+**[[NRSVue Matthew 11#^11-13|13]]:** *Prophets and the law*, Israel’s Scripture, regarded as anticipating the Messiah ([[Acts 03#^3-24|Acts 3.24]]; *b. Ber*. [[Berakhot 34#34b|34b]], “All the prophets prophesied only for the days of the Messiah”; see also *b. Shabb* 63a; *b. Sanh*. [[Sanhedrin 99#99a|99a]]). Tertullian (*Pud*. 8) understood that John the Baptist’s arrival negated Torah. ^11-13
 
-**[[NRSVue Matthew 11#^11-14|14–15]]:** See [[John 01#^1-21|Jn 1.21]]. *Elijah*, forerunner of the messianic age but not, in [[Malachi 3#^3-23|Mal 4.4–5]] \[HB 3.23\], of a Messiah; see also [[LXX Sirach 48#^48-10|Sir 48.10]]. In [[Sanhedrin 98#98a|*b. Sanh.* 98a]], Elijah is questioned by the rabbis concerning his arrival as the expected Messiah. ^11-14
+**[[NRSVue Matthew 11#^11-14|14–15]]:** See [[John 01#^1-21|Jn 1.21]]. *Elijah*, forerunner of the messianic age but not, in [[Malachi 3#^3-23|Mal 4.4–5]] \[HB 3.23\], of a Messiah; see also [[LXX Sirach 48#^48-10|Sir 48.10]]. In *b. Sanh.* [[Sanhedrin 98#98a|98a]], Elijah is questioned by the rabbis concerning his arrival as the expected Messiah. ^11-14
 
 **[[NRSVue Matthew 11#^11-18|18]]:** *Neither eating nor drinking*, engaging in ascetic practices. ^11-18
 
@@ -50,6 +50,6 @@ Text: [[NRSVue Matthew 11|NRSVue]] · [[Matthew 11|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 11#^11-27|27]]:** Jesus claims unique knowledge of the divine. ^11-27
 
-**[[NRSVue Matthew 11#^11-29|29]]:** *Yoke*, connected to the study of Torah ([[LXX Sirach 51#^51-23|Sir 51.23]],[[LXX Sirach 51#^51-26|26]]; in *m. Avot* 3.5, the rabbis note that one who accepts “the yoke of the Torah” is excused from governmental duties *out? To see a prophet?* b Or *has been coming violently* c Other ancient authorities add *to hear* d Other ancient authorities read *children* e Or *praise* f Or *for so it was well-pleasing in your sight* and worldly cares; see also *m. Ber*. 2.2), discipline, and obedience ([[Torah 06 - Toldot#^27-40|Gen 27.40]]; [[Jeremiah 05#^5-5|Jer 5.5]]; cf. *1 En*. 103.11; *Pss. Sol.* 7.30; 17.30; *Sib. Or*. 3.391–92,448,508,537,567; in [[Avodah Zarah 5#5a|*b. Avod. Zar.* 5a]] God longs for Israel’s obedience). ^11-29
+**[[NRSVue Matthew 11#^11-29|29]]:** *Yoke*, connected to the study of Torah ([[LXX Sirach 51#^51-23|Sir 51.23]],[[LXX Sirach 51#^51-26|26]]; in *m. Avot* 3.5, the rabbis note that one who accepts “the yoke of the Torah” is excused from governmental duties *out? To see a prophet?* b Or *has been coming violently* c Other ancient authorities add *to hear* d Other ancient authorities read *children* e Or *praise* f Or *for so it was well-pleasing in your sight* and worldly cares; see also *m. Ber*. 2.2), discipline, and obedience ([[Torah 06 - Toldot#^27-40|Gen 27.40]]; [[Jeremiah 05#^5-5|Jer 5.5]]; cf. *1 En*. 103.11; *Pss. Sol.* 7.30; 17.30; *Sib. Or*. 3.391–92,448,508,537,567; in *b. Avod. Zar.* [[Avodah Zarah 5#5a|5a]] God longs for Israel’s obedience). ^11-29
 
 [[JANT Matthew 10|← Matthew 10]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Matthew 12|Matthew 12 →]]

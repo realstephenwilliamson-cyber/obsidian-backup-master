@@ -17,7 +17,7 @@ language:
   - English
 pages: 48
 text: searchable
-status: review
+status:
 print: false
 files:
   - "[[Muller-Ortega - Born of the Yogini's Heart.pdf]]"
@@ -37,3 +37,5 @@ await dv.view("Templates/Views/open-pdf")
 *Note (5 Oct 2026):* Unpublished-looking typescript, not a book. The endnotes cited in the text (at least 18) are missing after p. 48. Year and venue are unknown.
 
 **Text layer** (6 Oct 2026): the old OCR text was replaced by new OCR (Latin-script model, so diacritics come through); the page images are unchanged. The previous file went with the trash when it was emptied on 6 Oct 2026.
+
+**Settled** (25 Oct 2026, from library catalogues and the web; Open items): a web search found no publication record, only copies of the paper posted online under the same title (Internet Archive, Scribd, gianfrancobertagni.it), so the year and venue stay empty.

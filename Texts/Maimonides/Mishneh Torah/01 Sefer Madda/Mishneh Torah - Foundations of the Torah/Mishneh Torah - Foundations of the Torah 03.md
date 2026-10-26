@@ -74,7 +74,7 @@ David's statement ([[Psalms 148#^148-7|Psalms 148:7-8]]): "Praise God from the E
 [^3]: In translation, this word means "reddening." It refers to the planet Mars.
 [^4]: In translation, this word means "justice." It refers to the planet Jupiter.
 [^5]: In translation, this word means "the Sabbatical." It refers to the planet Saturn.
-[^6]: [[Sanhedrin 91#91b|*Sanhedrin* 91b]] states that the *Shechinah* (Divine Presence) is in the west. Hence, the movement of this sphere in this direction can be considered an act of service to God.
+[^6]: *Sanhedrin* [[Sanhedrin 91#91b|91b]] states that the *Shechinah* (Divine Presence) is in the west. Hence, the movement of this sphere in this direction can be considered an act of service to God.
 [^7]: As stated in Halachah 10 and in Chapter 2, Halachah 3, the state of matter of the spheres differs from the state of matter in our world.
 [^8]: These include some of the smaller spheres which are included with the eight larger spheres.
 [^9]: Note the Rambam's remarks in *Hilchot Kiddush HaChodesh* 17:24:  
@@ -82,7 +82,7 @@ David's statement ([[Psalms 148#^148-7|Psalms 148:7-8]]): "Praise God from the E
     [Nevertheless,] since these concepts have been proven conclusively... we are not concerned about the author, regardless of whether they were authored by the prophets or the gentiles.... We are not relying on the person who states or teaches the concept, but on the proofs.
 [^10]: The term *mazal* literally means "source of influence." In the Rambam's time, it was commonly felt that the position of the stars affected one's future. For this reason, the word *mazal* is often translated as "fortune" or "luck." Many Torah Sages shared these ideas - albeit with the qualification that a Jew always has the potential to rise above these influences. (See the Ra'avad's comments to *Hilchot Teshuvah* 5:5; Ramban, Responsum 282; and the Nimukei Yosef, Sanhedrin, Chapter 7).  
     The Rambam totally dismisses the influence of astrology. In his Commentary on the Mishnah, *Avodah Zarah* 4:7, he describes it as "empty words and lies," and in *Shemonah Perakim*, Chapter 8, he mentions "the madness with which the astrologers attempt to deceive."
-[^11]: Thus, [[Pesachim 2#2a|*Pesachim* 2a]] interprets [[Psalms 148#^148-3|Psalms 148:3]], "Praise Him all shining stars," simply - i.e., the stars render praise to God. However, note how the *Targum* and the *Midrash Sachar Tov* interpret [[Psalms 019#^19-2|Psalms 19:2]], "The heavens relate the glory of God," as "The heavens cause others to relate.
+[^11]: Thus, *Pesachim* [[Pesachim 2#2a|2a]] interprets [[Psalms 148#^148-3|Psalms 148:3]], "Praise Him all shining stars," simply - i.e., the stars render praise to God. However, note how the *Targum* and the *Midrash Sachar Tov* interpret [[Psalms 019#^19-2|Psalms 19:2]], "The heavens relate the glory of God," as "The heavens cause others to relate.
 [^12]: Note the differences between this halachah and Chapter 2, Halachah 8.
 [^13]: This refers to primeval, unformed matter. In Greek terminology, it is referred to as *hyli.*
 [^14]: The word "form" in this context refers to the entity's spiritual qualities and not its physical shape.

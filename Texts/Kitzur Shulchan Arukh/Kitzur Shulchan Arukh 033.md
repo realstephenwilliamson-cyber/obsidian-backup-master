@@ -48,7 +48,7 @@ chapter: 33
 
 [^1]: The *Gemara* [*Mo’ed Katan* 11a] writes that it is best to drink water after fish. *Kesef Mishneh* (Dei’os 4:18) states that nowadays people have a drink of whiskey instead.
 [^2]: According to *Shulchan Aruch Yoreh Deiah* 116:1, this does not apply in our times because the presence of scorpions is rare. See also *Orach Chaim* 272 and *Mishnah Berurah.*
-[^3]: [[Chullin 10#10a|*Chullin* 10a]].
+[^3]: *Chullin* [[Chullin 10#10a|10a]].
 [^4]: If you leave the door open, or if you leave a light on, it is permitted. (*She’arim Hametzuyanim Bahalachah*)
 [^5]: It seems that this custom is not observed in our time.
 [^6]: [[Torah 26 - Shmini#^11-43|Leviticus 11:43]].

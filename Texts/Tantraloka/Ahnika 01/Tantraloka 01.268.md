@@ -33,7 +33,7 @@ yato hyakālakalitā saṃdhatte sārvakālikam || ^iast
 >
 > The emission (sṛṣti) in that way of a (generic) entity (vastu) that can sustain the other aspects that are desired (to satisfy the need to know it), which are to be emitted by the notion (vikalpa) (by means of which it is identified), is termed ‘enunciation’ (uddeśa). At that very moment (of enunciation, which is concomitant with the) impending emission (srakṣamāṇatā) of that which is such (namely, the required aspects), consciousness discerns it. (with 1.267–268ab)
 >
-> Indeed, (this is possible) because the condition (of consciousness) which is that of being unmeasured by time (akālakalitā) discerns all that is temporal (of all times, past, present and future) (sārvakālika).?“ (with 1.268cd)
+> Indeed, (this is possible) because the condition (of consciousness) which is that of being unmeasured by time (akālakalitā) discerns all that is temporal (of all times, past, present and future) (sārvakālika). (with 1.268cd)
 
 ## Viveka
 

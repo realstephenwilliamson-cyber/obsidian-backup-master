@@ -20,17 +20,13 @@ nyasa: "sheath (*kośa*), as the fiftieth letter · components ka: right shoulde
 ## Front
 
 - **Glyph:** क्ष
-- **Variation:** a variant form, drawn only as a numbered stroke diagram (not copied here)
 - **Example:** मोक्ष
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘mokṣa’ (freedom)
-- **Class (as printed):** —
-- **Note (no printed label):** Some consider this a distinct letter of the alphabet.
-- **Grid:** the five rows of stops + य र ल व + श ष स ह; in bold: क, ष
-- **Example:** mokṣa (freedom)
+> [!note]- Back
+> - **Pronunciation:** As in ‘mokṣa’ (freedom)
+> - **Note:** Some consider this a distinct letter of the alphabet.
+> - <u>क</u> ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / य र ल व / श <u>ष</u> स ह
+> - **Example:** mokṣa (freedom)
 
 ## Register
 

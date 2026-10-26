@@ -20,17 +20,13 @@ nyasa: "ra: blood (*rakta*) · u: right ear (*karṇa*)"
 ## Front
 
 - **Glyph:** रु
-- **Variation:** —
 - **Example:** गुरु
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** As in ‘guru’ (teacher)
-- **Class (as printed):** short syllable
-- **Note (no printed label):** This is the only time the short u is not placed below the letter.
-- **Grid:** a row of vowel signs (◌ा ◌ि ◌ी ◌ु ◌ू) above the five rows of stops + य र ल व; in bold: ◌ु, र
-- **Example:** guru (teacher)
+> [!note]- Back
+> - **Pronunciation:** As in ‘guru’ (teacher)
+> - **Class:** short syllable · This is the only time the short u is not placed below the letter.
+> - ा ि ी <u>ु</u> ू / क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / य <u>र</u> ल व
+> - **Example:** guru (teacher)
 
 ## Register
 

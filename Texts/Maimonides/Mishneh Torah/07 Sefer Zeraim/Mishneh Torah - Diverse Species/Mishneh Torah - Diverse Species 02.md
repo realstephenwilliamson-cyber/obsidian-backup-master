@@ -75,7 +75,7 @@ Similarly, if different species grew in the place of the grainheap, we do not re
 [^2]: When quoting this law, the *Shulchan Aruch* (*Yoreh De'ah* 297:5) speaks of 24 *se'ah* of barley.
 [^3]: By removing the kernels.
 [^4]: So that the amount of wheat will no longer be considered significant.  
-    The Jerusalem Talmud (*Kilayim* 2:1) refers to the general principle ([[Beitzah 4#4b|*Beitzah* 4b]]) that we do not nullify the existence of a prohibited substance. Why then are we allowed to add more barley and thus nullify the presence of the wheat?  
+    The Jerusalem Talmud (*Kilayim* 2:1) refers to the general principle (*Beitzah* [[Beitzah 4#4b|4b]]) that we do not nullify the existence of a prohibited substance. Why then are we allowed to add more barley and thus nullify the presence of the wheat?  
     It explains that the mixture is forbidden only because of the appearance created, i.e., as stated in Chapter 3, Halachah 5, mixed substances are forbidden only if the mixture is noticeable to the eye. Hence, if the barley is added before the mixture is sown, when the crops grow, the mixture will not be noticeable. Hence, there is no prohibition involved (*Rambam LeAm*).
 [^5]: There are those who interpret the Jerusalem Talmud as implying that in this instance, the prohibition is merely Rabbinic in origin. Hence, they question this ruling. According to the explanation in the previous note, however, there is no difficulty.
 [^6]: There are six *kab* in a *se'ah*. Thus there is not enough of any one different species for it to be considered as a forbidden mixture on its own. Nevertheless, since when combined, there is a significant amount of seeds of other species, the mixture is forbidden.

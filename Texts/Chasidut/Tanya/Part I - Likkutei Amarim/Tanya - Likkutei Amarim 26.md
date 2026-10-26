@@ -49,10 +49,10 @@ It is explained elsewhere when this time should be, and it is there explained al
 [^9]: Mishnah, *Berachot* 9:5.
 [^10]: The Name of the L–rd is spelled here יה—*yud-hey*. Thus the “misfortunes” are blessings in disguise, originating in the “hidden” worlds.
 [^11]: [[Psalms 094#^94-12|Psalms 94:12]].
-[^12]: [[Yoma 23#23a|*Yoma* 23a]].
+[^12]: *Yoma* [[Yoma 23#23a|23a]].
 [^13]: [[Judges 05#^5-31|Judges 5:31]].
 [^14]: [[Psalms 063#^63-4|Psalms 63:4]].
 [^15]: [[Habakkuk 3#^3-4|Habakkuk 3:4]].
 [^16]: [[Psalms 091#^91-1|Psalms 91:1]].
-[^17]: Cf. [[Nedarim 8#8b|*Nedarim* 8b]].
+[^17]: Cf. *Nedarim* [[Nedarim 8#8b|8b]].
 [^18]: I.e., failure in matters of the spirit.

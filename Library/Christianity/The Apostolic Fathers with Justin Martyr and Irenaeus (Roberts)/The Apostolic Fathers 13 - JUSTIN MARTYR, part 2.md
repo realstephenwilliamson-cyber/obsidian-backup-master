@@ -106,7 +106,7 @@ And for this \[rite\] we have learned from the apostles this reason. Since at ou
 
 #### Chapter LXII.—Its imitation by demons.
 
-John iii. 5.
+[[John 03#^3-5|John iii. 5]].
 
 1894
 
@@ -132,11 +132,11 @@ Isa. i. 3.
 
 1898
 
-Matt. xi. 27.
+[[Matthew 11#^11-27|Matt. xi. 27]].
 
 1899
 
-Luke x. 16.
+[[Luke 10#^10-16|Luke x. 16]].
 
 1900
 
@@ -150,7 +150,7 @@ old the Word, and appearing sometimes in the form of fire, and sometimes in the 
 
 From what has been already said, you can understand how the devils, in imitation of what was said by Moses, asserted that Proserpine was the daughter of Jupiter, and instigated the people to set up an image of her under the name of Kore \[Cora, i.e., the maiden or daughter\] at the spring-heads. For, as we wrote above,<sup>1906</sup> Moses said, “In the beginning God made the heaven and the earth. And the earth was without form and unfurnished: and the Spirit of God moved upon the
 
-185 Isa. i. 3. 1902 Matt. xi. 27. 1903 \[Rather, “of your empire.”\] 1904 Ex. iii. 6. 1905 Chap. lix.
+185 Isa. i. 3. 1902 [[Matthew 11#^11-27|Matt. xi. 27]]. 1903 \[Rather, “of your empire.”\] 1904 Ex. iii. 6. 1905 Chap. lix.
 
 *[p. 289]* ^pg329
 
@@ -182,7 +182,7 @@ And this food is called among us Εὐχαριστία<sup>1910</sup> \[the Euch
 
 And we afterwards continually remind each other of these things. And the wealthy among us help the needy; and we always keep together; and for all things wherewith we are supplied, we bless the Maker of all through His Son Jesus Christ, and through the Holy Ghost. And on the day called Sunday,<sup>1913</sup> all who live in cities or in the country gather together to one place, and the memoirs of the apostles or the writings of the prophets are read, as long as time permits; then, when
 
-186 Literally, thanksgiving. See Matt. xxvi. 27. 1910 This passage is claimed alike by Calvinists, Lutherans, and Romanists; and, indeed, the language is so inexact, that each 1911 party may plausibly maintain that their own opinion is advocated by it. \[But the same might be said of the words of our Lord himself; and, if such widely separated Christians can all adopt this passage, who can be sorry?\] The expression, “the prayer of His word,” or of the word we have from Him, seems to signify the prayer pronounced over the elements, in imitation of our Lord’s thanksgiving before breaking the bread. \[I must dissent from the opinion that the language is “inexact:” he expresses himself naturally as one who believes it is bread, but yet not “common bread.” So Gelasius, Bishop of Rome (a.d. 490), “By the sacraments we are made partakers of the divine nature, and yet the substance and nature of bread and wine do not cease to be in them,” etc. (See original in *Bingham’s Antiquities*, book xv. cap. 5. See Chryost., *Epist. ad. Cæsarium*, tom. iii. p. 753. Ed. Migne.) Those desirous to pursue this inquiry will find the Patristic authorities in *Historia Transubstantionis Papalis*, etc., *Edidit* F. Meyrick, Oxford, 1858. The famous tractate of Ratranin (a.d. 840) was published at Oxford, 1838, with the homily of Ælfric (a.d. 960) in a cheap edition.\] Luke xxii. 19. 1912 τῇ τοῦ ῾Ηλίου λεγομένη ἡμέρᾳ.
+186 Literally, thanksgiving. See [[Matthew 26#^26-27|Matt. xxvi. 27]]. 1910 This passage is claimed alike by Calvinists, Lutherans, and Romanists; and, indeed, the language is so inexact, that each 1911 party may plausibly maintain that their own opinion is advocated by it. \[But the same might be said of the words of our Lord himself; and, if such widely separated Christians can all adopt this passage, who can be sorry?\] The expression, “the prayer of His word,” or of the word we have from Him, seems to signify the prayer pronounced over the elements, in imitation of our Lord’s thanksgiving before breaking the bread. \[I must dissent from the opinion that the language is “inexact:” he expresses himself naturally as one who believes it is bread, but yet not “common bread.” So Gelasius, Bishop of Rome (a.d. 490), “By the sacraments we are made partakers of the divine nature, and yet the substance and nature of bread and wine do not cease to be in them,” etc. (See original in *Bingham’s Antiquities*, book xv. cap. 5. See Chryost., *Epist. ad. Cæsarium*, tom. iii. p. 753. Ed. Migne.) Those desirous to pursue this inquiry will find the Patristic authorities in *Historia Transubstantionis Papalis*, etc., *Edidit* F. Meyrick, Oxford, 1858. The famous tractate of Ratranin (a.d. 840) was published at Oxford, 1838, with the homily of Ælfric (a.d. 960) in a cheap edition.\] [[Luke 22#^22-19|Luke xxii. 19]]. 1912 τῇ τοῦ ῾Ηλίου λεγομένη ἡμέρᾳ.
 
 *[p. 291]* ^pg331
 
@@ -254,7 +254,7 @@ In 1851 I recognised this stone in the Vatican, and read it with emotion. I copi
 
 Quinquennalis Decur Bidentalis Donum Dedit.”
 
-The explanation is possibly this: Simon Magus was actually recognised as the God *Semo*, just as Barnabas and Paul were supposed to be Zeus and Hermes (Acts xiv. 12.), and were offered divine honours accordingly. Or the Samaritans may so have informed Justin on their understanding of this inscription, and with pride in the success of their countryman (Acts viii. 10.), whom they had recognised “as the great power of God.” See *Orelli* (No. 1860), *Insc.*, vol. i. 337.
+The explanation is possibly this: Simon Magus was actually recognised as the God *Semo*, just as Barnabas and Paul were supposed to be Zeus and Hermes ([[Acts 14#^14-12|Acts xiv. 12]].), and were offered divine honours accordingly. Or the Samaritans may so have informed Justin on their understanding of this inscription, and with pride in the success of their countryman ([[Acts 08#^8-10|Acts viii. 10]].), whom they had recognised “as the great power of God.” See *Orelli* (No. 1860), *Insc.*, vol. i. 337.
 
 Note II. (The Thundering Legion.)
 
@@ -412,7 +412,7 @@ the share he had of the spermatic word,<sup>1944</sup> seeing what was related t
 
 And we therefore pray you to publish this little book, appending what you think right, that our opinions may he known to others, and that these persons may have a fair chalice of being freed from erroneous notions and ignorance of good, who by their own fault are become subject to punishment; that so these things may be published to men, because it is in the nature of man to know good and evil; and by their condemning us, whom they do not understand, for actions which they say are wicked, and by delighting in the gods who did such things, and even now require similar actions from men, and by inflicting on us death or bonds or some other such punishment, as if we were guilty of these things, they condemn themselves, so that there is no need of other judges.
 
-The word disseminated among men. \[St. Jas. i. 21.\]
+The word disseminated among men. \[St. [[James 01#^1-21|Jas. i. 21]].\]
 
 1944
 
@@ -472,7 +472,7 @@ And he, smiling gently, said, “Tell us your opinion of these matters, and what
 
 “I will tell you,” said I, “what seems to me; for philosophy is, in fact, the greatest possession, and most honourable before God,<sup>1955</sup> to whom it leads us and alone commends us; and these are truly holy men who have bestowed attention on philosophy. What philosophy is, however, and the reason why it has been sent down to men, have escaped the observation of most; for there would
 
-195 \[i.e., “A Hebrew of the Hebrews” (Phil. iii. 5).\] 1951 The war instigated by Bar Cochba. 1952 The opinions of Stoics.—Otto. 1953 The Platonists. 1954 ὧ some omit, and put θεῷ of prev. cl. in this cl., reading so: “Philosophy is the greatest possession, and most honourable, 1955 and introduces us to God,” etc.
+195 \[i.e., “A Hebrew of the Hebrews” ([[Philippians 03#^3-5|Phil. iii. 5]]).\] 1951 The war instigated by Bar Cochba. 1952 The opinions of Stoics.—Otto. 1953 The Platonists. 1954 ὧ some omit, and put θεῷ of prev. cl. in this cl., reading so: “Philosophy is the greatest possession, and most honourable, 1955 and introduces us to God,” etc.
 
 *[p. 306]* ^pg346
 
@@ -704,7 +704,7 @@ Isa. lv. 3 ff. according to LXX.
 
 1971
 
-Not in Jeremiah; some would insert, in place of Jeremiah, Isaiah or John. \[St. John xii. 40; Isa. vi. 10; where see full 1972
+Not in Jeremiah; some would insert, in place of Jeremiah, Isaiah or John. \[St. [[John 12#^12-40|John xii. 40]]; Isa. vi. 10; where see full 1972
 
 references in the English margin. But comp. Jer. vii. 24, 26, Jer. xi. 8, and Jer. xvii. 23.\]
 
@@ -714,7 +714,7 @@ that saving bath of the olden time which followed<sup>1973</sup> those who repen
 
 Him He had no form or beauty; but His form is dishonoured, and fails more than the sons of men. He is a man in affliction, and acquainted with bearing sickness, because His face has been turned away; He was despised, and we esteemed Him not. He bears our sins, and is distressed for us; and we esteemed Him to be in toil and in affliction, and in evil treatment. But He was wounded for our transgressions, He was bruised for our iniquities; the chastisement of our peace was upon Him. With His stripes we are healed. All we, like sheep, have gone astray. Every man has turned to his own way; and the Lord laid on Him our iniquities, and by reason of His oppression He opens not His mouth. He was brought as a sheep to the slaughter; and as a lamb before her shearer is dumb, so He openeth not His mouth. In His humiliation His judgment was taken away. And who shall declare His generation? For His life is taken from the earth. Because of the transgressions of my people He came unto death. And I will give the wicked for His grave, and the rich for His death, because He committed no iniquity, and deceit was not found in His mouth. And the Lord wills to purify Him from affliction. If he has been given for sin, your soul shall see a long-lived seed. And the Lord wills to take His soul away from trouble, to show Him light, and to form Him in understanding, to justify the righteous One who serves many well. And He shall bear our sins; therefore He shall inherit many, and shall divide the spoil of the strong, because His soul was delivered to death; and He was numbered with the transgressors, and He bare the sins of many, and was delivered for their transgression. Sing, O barren, who bearest not; break forth and cry aloud, thou who dost not travail in pain: for more are the children of the desolate than the children of the married wife. For the Lord said, Enlarge the place of thy tent and of thy curtains; fix them, spare not, lengthen thy cords, and strengthen thy stakes; stretch forth to thy right and thy left; and thy
 
-1 Cor. x. 4. Otto reads: which he mentioned and which was for those who repented.
+[[1 Corinthians 10#^10-4|1 Cor. x. 4]]. Otto reads: which he mentioned and which was for those who repented.
 
 1973
 

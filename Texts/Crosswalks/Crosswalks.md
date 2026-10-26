@@ -11,6 +11,6 @@ Notes that line texts up with one another, across traditions.
 - [[Linguistic Creation in Kabbalah and Trika]]
 - [[Psalms numbering]]
 - [[NRSVue and JPS numbering]] (chapters whose verse numbers differ between the NRSVue and the JPS notes)
-- [[Synoptic parallels]] (the gospels' parallel passages, read side by side in the [[Synoptic reader]])
+- [[Synoptic parallels]] (the gospels' parallel passages, read side by side in the [[Synoptic View]])
 - [[Incomplete Sets and Scholar Research Guide]]
 - [[Scholars - library and free sources]]

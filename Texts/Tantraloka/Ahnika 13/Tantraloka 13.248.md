@@ -29,7 +29,7 @@ na sarvaḥ pratibhāviṣṭaḥ śaktyā nīyeta sadgurum || ^iast
 >
 > If one who has been penetrated by (the power of) intuition (pratibhā) desires to go to a true teacher, wishing (to have his insight) confirmed, he is then led to him. (with 13.247cd–248ab)
 >
-> (However,) not everybody who has been penetrated by (this) intuition (pratibhā) is led by (its) power to a true teacher. Thus it is said that it is necessary to say that he desires to go (to a teacher), certainly not otherwise (for it would have been sufficient to say,) ‘penetrated by Rudra’s power, he is led to a true teacher. (with 13.248cd–249)
+> (However,) not everybody who has been penetrated by (this) intuition (pratibhā) is led by (its) power to a true teacher. Thus it is said that it is necessary to say that he desires to go (to a teacher), certainly not otherwise (for it would have been sufficient to say,) ‘penetrated by Rudra’s power, he is led to a true teacher.’ (with 13.248cd–249)
 
 ## Viveka
 

@@ -30,7 +30,7 @@ bhārataṃ navasāhasraṃ cāpavatkarmabhogabhūḥ || ^iast
 > [!source] Dyczkowski, vol. V
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 05 (Dyczkowski)/Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#^pg143|p. 125]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 05.pdf#page=143>))
 >
-> To the south of Himavat, situated to the south of Meru, (lies the land of) Bhārata. (It extends for) nine thousand leagues and (its form is) like that of a bow. It is the land of action and its fruit.’
+> To the south of Himavat, situated to the south of Meru, (lies the land of) Bhārata. (It extends for) nine thousand leagues and (its form is) like that of a bow. It is the land of action and its fruit.
 
 ## Viveka
 

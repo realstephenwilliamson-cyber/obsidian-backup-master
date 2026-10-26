@@ -95,7 +95,7 @@ It is permitted to borrow the produce[^59] of the Sabbatical year from the poor.
     God declared ([[Torah 30 - Kedoshim#^19-14|Leviticus 19:14]] : "Do not place a stumbling block before the blind." The intent is that when someone has been blinded by desire and his bad character traits should not be assisted in his blindness to add to his warped conduct.
 [^4]: One may, however, sell these utensils to someone who is not suspect of violating the laws of the Sabbatical year, as stated in Halachah 4.
 [^5]: A long pronged tool.
-[^6]: As long as there is a possibility that the person will use it for a permitted purpose, we assume that this is his intent ([[Avodah Zarah 15#15b|*Avodah Zarah* 15b]]).
+[^6]: As long as there is a possibility that the person will use it for a permitted purpose, we assume that this is his intent (*Avodah Zarah* [[Avodah Zarah 15#15b|15b]]).
 [^7]: See Chapter 4, Halachot 1, 24.
 [^8]: See Chapter 4, Halachot 1, 24.
 [^9]: The person does not have to establish a reputation as an observer of the Sabbatical year. As long as he is not known to violate its laws, one may sell to him.

@@ -20,16 +20,12 @@ nyasa: "da: left foot (*pāda*) · bha: belly (*jaṭhara*)"
 ## Front
 
 - **Glyph:** द्भ
-- **Variation:** —
 - **Example:** उद्भव
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘udbhava’ (creation)
-- **Class (as printed):** —
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: द, भ
-- **Example:** udbhava (creation)
+> [!note]- Back
+> - **Pronunciation:** As in ‘udbhava’ (creation)
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ <u>द</u> ध न / प फ ब <u>भ</u> म / य र ल व / श ष स ह
+> - **Example:** udbhava (creation)
 
 ## Register
 

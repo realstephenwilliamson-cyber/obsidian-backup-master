@@ -20,9 +20,9 @@ For there are many mansions in the Father’s house,<sup>3682</sup> inasmuch as 
 
 1\. Long-suffering therefore was God, when man became a defaulter, as foreseeing that victory which should be granted to him through the Word. For, when strength was made perfect in weakness,<sup>3683</sup> it showed the kindness and transcendent power of God. For as He patiently suffered Jonah to be swallowed by the whale, not that he should be swallowed up and perish altogether, but that, having been cast out again, he might be the more subject to God, and might glorify Him the more who had conferred upon him such an unhoped-for deliverance, and might bring the Ninevites to a lasting repentance, so that they should be converted to the Lord, who would deliver them from death, having been struck with awe by that portent which had been wrought in Jonah’s case, as the Scripture says of them, “And they returned each from his evil way, and the unrighteousness which was in their hands, saying, Who knoweth if God will repent, and turn away His anger from us, and we shall not perish?”<sup>3684</sup>—so also, from the beginning, did God permit man to be swallowed up by the great whale, who was the author of transgression, not that he should perish altogether when so engulphed; but, arranging and preparing the plan of salvation, which was accomplished by the Word, through the sign of Jonah, for those who held the same opinion as Jonah regarding the Lord, and who confessed, and said, “I am a servant of the Lord, and I worship the Lord God of heaven, who hath made the sea and the dry land.”<sup>3685</sup> \[This was done\] that man, receiving an unhoped-for salvation from God, might rise from the dead, and glorify God, and repeat that word which was uttered in prophecy by Jonah: “I cried by reason of mine affliction to the Lord my God, and He heard me out of the belly of hell;”<sup>3686</sup> and that he might always continue glorifying God, and giving thanks without ceasing, for that salvation which he has derived from Him, “that no flesh should glory in the Lord’s presence;”<sup>3687</sup> and that man should never adopt an opposite opinion with regard to God, supposing that the incorruptibility which belongs to him is his own naturally, and by thus not holding the truth, should boast with empty superciliousness, as if he were naturally like to God. For he (Satan) thus rendered him (man) more ungrateful towards his Creator, obscured the love
 
-450 John xiv. 2. 3682
+450 [[John 14#^14-2|John xiv. 2]]. 3682
 
-2\. Cor. xii. 9. 3683 Jon. iii. 8, 9. 3684 Jon. i. 9. 3685 Jon. ii. 2. 3686 1 Cor. i. 29. Luke vii. 43. 3688 Rom. xi. 32. 3689 John xv. 9. 3690 “Provectus.” This word has not a little perplexed the editors. Grabe regards it as being the *participle*, Massuet the *accusative* 3691 *plural* of the noun, and Harvey the *genitive singular*. We have doubtfully followed the latter. Rom. viii. 3. 3692 The punctuation and exact meaning are very uncertain.
+2\. Cor. xii. 9. 3683 Jon. iii. 8, 9. 3684 Jon. i. 9. 3685 Jon. ii. 2. 3686 [[1 Corinthians 01#^1-29|1 Cor. i. 29]]. [[Luke 07#^7-43|Luke vii. 43]]. 3688 [[Romans 11#^11-32|Rom. xi. 32]]. 3689 [[John 15#^15-9|John xv. 9]]. 3690 “Provectus.” This word has not a little perplexed the editors. Grabe regards it as being the *participle*, Massuet the *accusative* 3691 *plural* of the noun, and Harvey the *genitive singular*. We have doubtfully followed the latter. [[Romans 08#^8-3|Rom. viii. 3]]. 3692 The punctuation and exact meaning are very uncertain.
 
 
 *[p. 749]* ^pg789
@@ -47,11 +47,11 @@ Isa. vii. 4.
 
 3695
 
-Rom. vii. 18.
+[[Romans 07#^7-18|Rom. vii. 18]].
 
 3696
 
-Rom. vii. 24.
+[[Romans 07#^7-24|Rom. vii. 24]].
 
 3697
 
@@ -139,15 +139,15 @@ This is a very interesting passage, as bearing on the question, From what source
 
 of the New Testament derived? Massuet, indeed, argues that it is of little or no weight in the controversy; but the passage speaks for itself. Comp. Dr. Robert’s *Discussions on the Gospels*, part i. ch. iv. and vii.
 
-Matt. i. 18.
+[[Matthew 01#^1-18|Matt. i. 18]].
 
 3715
 
-Luke i. 35.
+[[Luke 01#^1-35|Luke i. 35]].
 
 3716
 
-Matt. i. 23.
+[[Matthew 01#^1-23|Matt. i. 23]].
 
 3717
 
@@ -169,7 +169,7 @@ Isa. vii. 13.
 
 3720
 
-Luke i. 42.
+[[Luke 01#^1-42|Luke i. 42]].
 
 3721
 
@@ -177,7 +177,7 @@ Isa. vii. 11.
 
 3722
 
-Eph. iv. 10.
+[[Ephesians 04#^4-10|Eph. iv. 10]].
 
 3723
 
@@ -191,7 +191,7 @@ wisdom of God. Wherefore also Isaiah says: “Thus saith the Lord, Behold, I dep
 
 9\. But besides, if indeed He had been the son of Joseph, He could not, according to Jeremiah, be either king or heir. For Joseph is shown to be the son of Joachim and Jechoniah, as also Matthew sets forth in his pedigree.<sup>3731</sup> But Jechoniah, and all his posterity, were disinherited from the kingdom; Jeremiah thus declaring, “As I live, saith the Lord, if Jechoniah the son of Joachim king of Judah had been made the signet of my right hand, I would pluck him thence, and deliver him into the hand of those seeking thy life.”<sup>3732</sup> And again: “Jechoniah is dishonoured as a useless vessel, for he has been cast into a land which he knew not. Earth, hear the word of the Lord: Write this man a disinherited person; for none of his seed, sitting on the throne of David, shall prosper, or be a prince in Judah.”<sup>3733</sup> And again, God speaks of Joachim his father: “Therefore thus saith the Lord concerning Joachim his father, king of Judea, There shall be from him none sitting upon the throne of David: and his dead body shall be cast out in the heat of day, and in the frost of night. And I will look upon him, and upon his sons, and will bring upon them, and upon the inhabitants of Jerusalem, upon the land of Judah, all the evils that I have pronounced against them.”<sup>3734</sup> Those, therefore, who say that He was begotten of Joseph, and that they have hope in Him, do cause themselves to be disinherited from the kingdom, failing under the curse and rebuke directed against Jechoniah and
 
-454 Isa. xxviii. 16. 3725 Ex. vii. 9. 3726 Ex. viii. 19. 3727 Matt. xii. 41, 42. 3728 Matt. xxii. 43. 3729 Matt. xvi. 17. 3730 Matt. i. 12–16. 3731 Jer. xxii. 24, 25. 3732 Jer. xxii. 28, etc. 3733 Jer. xxxvi. 30, 31.
+454 Isa. xxviii. 16. 3725 Ex. vii. 9. 3726 Ex. viii. 19. 3727 [[Matthew 12#^12-41|Matt. xii. 41]], [[Matthew 12#^12-42|42]]. 3728 [[Matthew 22#^22-43|Matt. xxii. 43]]. 3729 [[Matthew 16#^16-17|Matt. xvi. 17]]. 3730 [[Matthew 01#^1-12|Matt. i. 12–16]]. 3731 Jer. xxii. 24, 25. 3732 Jer. xxii. 28, etc. 3733 Jer. xxxvi. 30, 31.
 
 *[p. 756]* ^pg796
 
@@ -207,7 +207,7 @@ Harvey prefixes this last clause to the following section.
 
 3735
 
-Rom. v. 19.
+[[Romans 05#^5-19|Rom. v. 19]].
 
 3736
 
@@ -223,7 +223,7 @@ He was not made what we were, He did no great thing in what He suffered and endu
 
 3\. Wherefore Luke points out that the pedigree which traces the generation of our Lord back to Adam contains seventy-two generations, connecting the end with the beginning, and implying that it is He who has summed up in Himself all nations dispersed from Adam downwards, and all languages and generations of men, together with Adam himself. Hence also was Adam himself termed by Paul “the figure of Him that was to come,”<sup>3746</sup> because the Word, the Maker of all things, had formed beforehand for Himself the future dispensation of the human race, connected with the Son of God; God having predestined that the first man should be of an animal nature, with this
 
-455 Matt. v. 5. 3739 Gal. iv. 4. 3740 Rom. i. 3, 4. 3741 In addition to the Greek text preserved by Theodoret in this place, we have for some way a *Syriac* translation, differing 3742 slightly from both Greek and Latin. It seems, however, to run smoother than either, and has therefore been followed by us. John iv. 6. 3743 Ps. lxix. 27. 3744 Matt. xxvi. 38. 3745
+455 [[Matthew 05#^5-5|Matt. v. 5]]. 3739 [[Galatians 04#^4-4|Gal. iv. 4]]. 3740 [[Romans 01#^1-3|Rom. i. 3]], [[Romans 01#^1-4|4]]. 3741 In addition to the Greek text preserved by Theodoret in this place, we have for some way a *Syriac* translation, differing 3742 slightly from both Greek and Latin. It seems, however, to run smoother than either, and has therefore been followed by us. [[John 04#^4-6|John iv. 6]]. 3743 Ps. lxix. 27. 3744 [[Matthew 26#^26-38|Matt. xxvi. 38]]. 3745
 
 *[p. 758]* ^pg798
 
@@ -231,7 +231,7 @@ view, that he might be saved by the spiritual One. For inasmuch as He had a pre-
 
 4\. In accordance with this design, Mary the Virgin is found obedient, saying, “Behold the handmaid of the Lord; be it unto me according to thy word.”<sup>3747</sup> But Eve was disobedient; for she did not obey when as yet she was a virgin. And even as she, having indeed a husband, Adam, but being nevertheless as yet a virgin (for in Paradise “they were both naked, and were not ashamed,”<sup>3748</sup> inasmuch as they, having been created a short time previously, had no understanding of the procreation of children: for it was necessary that they should first come to adult age,<sup>3749</sup> and then multiply from that time onward), having become disobedient, was made the cause of death, both to herself and to the entire human race; so also did Mary, having a man betrothed \[to her\], and being nevertheless a virgin, by yielding obedience, become the cause of salvation, both to herself and the whole human race. And on this account does the law term a woman betrothed to a man, the wife of him who had betrothed her, although she was as yet a virgin; thus indicating the back-reference from Mary to Eve, because what is joined together could not otherwise be put asunder than by inversion of the process by which these bonds of union had arisen;<sup>3750</sup> so that the former ties be cancelled by the latter, that the latter may set the former again at liberty. And it has, in fact, happened that the first compact looses from the second tie, but that the second tie takes the position of the first which has been cancelled.<sup>3751</sup> For this reason did the Lord declare that the first should in truth be last, and the last first.<sup>3752</sup> And the prophet, too, indicates the same, saying, “instead of fathers, children have been born unto thee.”<sup>3753</sup> For the Lord, having been born “the First-begotten of the dead,”<sup>3754</sup> and receiving into His bosom the ancient fathers, has regenerated them into the life of God, He having been made Himself the beginning of those that live, as Adam became the beginning of those who die.<sup>3755</sup> Wherefore also Luke, commencing the genealogy with the Lord, carried it back to Adam, indicating that it was He who regenerated them into the Gospel of life, and not they Him. And thus also it was that the knot of Eve’s disobedience was loosed by the
 
-Luke i. 38.
+[[Luke 01#^1-38|Luke i. 38]].
 
 3747
 
@@ -249,7 +249,7 @@ It is very difficult to follow the reasoning of Irenæus in this passage. Massue
 
 forth the various points of comparison and contrast here indicated between Eve and Mary; but he ends with the remark, “hæc certe et quæ sequuntur, paulo subtiliora.”
 
-Matt. xix. 30, Matt. xx. 16.
+[[Matthew 19#^19-30|Matt. xix. 30]], [[Matthew 20#^20-16|Matt. xx. 16]].
 
 3752
 
@@ -257,11 +257,11 @@ Ps. xlv. 17.
 
 3753
 
-Rev. i. 5.
+[[Revelation 01#^1-5|Rev. i. 5]].
 
 3754
 
-Comp. 1 Cor. xv. 20–22.
+Comp. [[1 Corinthians 15#^15-20|1 Cor. xv. 20–22]].
 
 *[p. 759]* ^pg799
 
@@ -273,7 +273,7 @@ obedience of Mary. For what the virgin Eve had bound fast through unbelief, this
 
 2\. But this is Adam, if the truth should be told, the first formed man, of whom the Scripture says that the Lord spake, “Let Us make man after Our own image and likeness;”<sup>3758</sup> and we are all from him: and as we are from him, therefore have we all inherited his title. But inasmuch as man is saved, it is fitting that he who was created the original man should be saved. For it is too absurd to maintain, that he who was so deeply injured by the enemy, and was the first to suffer captivity, was not rescued by Him who conquered the enemy, but that his children were, —those whom he had begotten in the same captivity. Neither would the enemy appear to be as yet conquered, if the
 
-456 Acts i. 7. 3756 Matt. xii. 29. 3757
+456 [[Acts 01#^1-7|Acts i. 7]]. 3756 [[Matthew 12#^12-29|Matt. xii. 29]]. 3757
 
 *[p. 760]* ^pg800
 
@@ -295,7 +295,7 @@ Gen. iii. 14.
 
 3761
 
-Matt. xxv. 41. This reading of Irenæus agrees with that of the Codex Bezæ, at Cambridge.
+[[Matthew 25#^25-41|Matt. xxv. 41]]. This reading of Irenæus agrees with that of the Codex Bezæ, at Cambridge.
 
 3762
 
@@ -325,7 +325,7 @@ Prov. i. 7, Prov. ix. 10.
 
 8\. All therefore speak falsely who disallow his (Adam’s) salvation, shutting themselves out from life for ever, in that they do not believe that the sheep which had perished has been found.<sup>3773</sup> For if it has not been found, the whole human race is still held in a state of perdition. False, therefore,
 
-Rom. vi. 7. 3767 Ps. xci. 13. 3768 Rev. xx. 2. 3769 Luke x. 19. 3770 1 Cor. xv. 26. 3771 1 Cor. xv. 54, 55. 3772
+[[Romans 06#^6-7|Rom. vi. 7]]. 3767 Ps. xci. 13. 3768 [[Revelation 20#^20-2|Rev. xx. 2]]. 3769 [[Luke 10#^10-19|Luke x. 19]]. 3770 [[1 Corinthians 15#^15-26|1 Cor. xv. 26]]. 3771 [[1 Corinthians 15#^15-54|1 Cor. xv. 54]], [[1 Corinthians 15#^15-55|55]]. 3772
 
 *[p. 763]* ^pg803
 
@@ -345,11 +345,11 @@ His heresy being just a mixture of the opinions of the various Gnostic sects.
 
 3775
 
-1 Cor. xv. 22.
+[[1 Corinthians 15#^15-22|1 Cor. xv. 22]].
 
 3776
 
-Rom. v. 20.
+[[Romans 05#^5-20|Rom. v. 20]].
 
 3777
 
@@ -375,7 +375,7 @@ through the entire dispensation of God, and that well-grounded system which tend
 
 2\. Alienated thus from the truth, they do deservedly wallow in all error, tossed to and fro by it, thinking differently in regard to the same things at different times, and never attaining to a well-grounded knowledge, being more anxious to be sophists of words than disciples of the truth. For they have not been founded upon the one rock, but upon the sand, which has in itself a multitude of stones. Wherefore they also imagine many gods, and they always have the excuse of searching \[after truth\] (for they are blind), but never succeed in finding it. For they blaspheme the Creator, Him who is truly God, who also furnishes power to find \[the truth\]; imagining that they have discovered another god beyond God, or another Pleroma, or another dispensation. Wherefore also the light which is from God does not illumine them, because they have dishonoured and despised God, holding Him of small account, because, through His love and infinite benignity, He has come within reach of human knowledge (knowledge, however, not with regard to His greatness, or with regard to His essence—for that has no man measured or handled—but after this sort: that we should know that He who made, and formed, and breathed in them the breath of life, and nourishes us by means of the creation, establishing all things by His Word, and binding them together by His Wisdom<sup>3786</sup>— this is He who is the only true God); but they dream of a non-existent being above Him, that they may be regarded as having found out the great God, whom nobody, \[they hold,\] can
 
-459 The Latin is “solidam operationem,” which we know not how to translate, in accordance with the context, except as above. 3782 This seems to be the meaning conveyed by the old Latin, “quemadmodum aspiratio plasmationi.” 3783 1 Cor. xii. 28. 3784 Jer. ii. 13. 3785 i.e., the Spirit.
+459 The Latin is “solidam operationem,” which we know not how to translate, in accordance with the context, except as above. 3782 This seems to be the meaning conveyed by the old Latin, “quemadmodum aspiratio plasmationi.” 3783 [[1 Corinthians 12#^12-28|1 Cor. xii. 28]]. 3784 Jer. ii. 13. 3785 i.e., the Spirit.
 
 *[p. 765]* ^pg805
 
@@ -403,7 +403,7 @@ Judge, and the Just One, and Ruler over all. For He is good, and merciful, and p
 
 6\. Well may their Mother bewail them, as capable of conceiving and inventing such things for they have worthily uttered this falsehood against themselves, that their Mother is beyond the Pleroma, that is beyond the knowledge of God, and that their entire multitude became<sup>3792</sup> a shapeless and crude abortion: for it apprehends nothing of the truth; it falls into void and darkness: for their wisdom (*Sophia*) was void, and wrapped up in darkness; and Horos did not permit her to enter the Pleroma: for the Spirit (Achamoth) did not receive them into the place of refreshment. For their father, by begetting ignorance, wrought in them the sufferings of death. We do not misrepresent \[their opinions on\] these points; but they do themselves confirm, they do themselves teach, they do glory in them, they imagine a lofty \[mystery\] about their Mother, whom they represent as having
 
-460 The text is here very uncertain, but the above seems the probable meaning. 3788 Matt. v. 45. 3789 Plato, *de Leg.*, iv. and p. 715, 16. 3790 In *Timæo*, vi. p. 29. 3791 The Latin is “collectio eorum;” but what *collectio* here means, it is not easy to determine. Grabe, with much probability, 3792 deems it the representative of σύστασις. Harvey prefers ἐνθύμημα: but it is difficult to perceive the relevancy of his references to the rhetorical syllogism.
+460 The text is here very uncertain, but the above seems the probable meaning. 3788 [[Matthew 05#^5-45|Matt. v. 45]]. 3789 Plato, *de Leg.*, iv. and p. 715, 16. 3790 In *Timæo*, vi. p. 29. 3791 The Latin is “collectio eorum;” but what *collectio* here means, it is not easy to determine. Grabe, with much probability, 3792 deems it the representative of σύστασις. Harvey prefers ἐνθύμημα: but it is difficult to perceive the relevancy of his references to the rhetorical syllogism.
 
 *[p. 767]* ^pg807
 
@@ -481,7 +481,7 @@ recapitulation of all the heretics. For which reason also, in the second, we hav
 
 3\. For their system is blasphemous above all \[others\], since they represent that the Maker and Framer, who is one God, as I have shown, was produced from a defect or apostasy. They utter blasphemy, also, against our Lord, by cutting off and dividing Jesus from Christ, and Christ from the Saviour, and again the Saviour from the Word, and the Word from the Only-begotten. And since they allege that the Creator originated from a defect or apostasy, so have they also taught that Christ and the Holy Spirit were emitted on account of this defect, and that the Saviour was a product of those Æons who were produced from a defect; so that there is nothing but blasphemy to be found among them. In the preceding book, then, the ideas of the apostles as to all these points have been set forth, \[to the effect\] that not only did they, “who from the beginning were eye-witnesses and ministers of the word”<sup>3799</sup> of truth, hold no such opinions, but that they did also preach to us to shun these doctrines,<sup>3800</sup> foreseeing by the Spirit those weak-minded persons who should be led astray.<sup>3801</sup> 4. For as the serpent beguiled Eve, by promising her what he had not himself,<sup>3802</sup> so also do these men, by pretending \[to possess\] superior knowledge, and \[to be acquainted with\] ineffable mysteries; and, by promising that admittance which they speak of as taking place within the Pleroma, plunge those that believe them into death, rendering them apostates from Him who made them. And at that time, indeed, the apostate angel, having effected the disobedience of mankind by means of the serpent, imagined that he escaped the notice of the Lord; wherefore God assigned him the form<sup>3803</sup> and name \[of a serpent\]. But now, since the last times are \[come upon us\], evil is spread abroad among men, which not only renders them apostates, but by many machinations does \[the devil\] raise up blasphemers against the Creator, namely, by means of all the heretics already mentioned. For all these, although they issue forth from diverse regions, and promulgate different \[opinions\], do nevertheless concur in the same blasphemous design, wounding \[men\] unto death, by teaching blasphemy against God our Maker and Supporter, and derogating from the salvation of man. Now man is a mixed organization of soul and flesh, who was formed after the likeness of God, and moulded by His hands, that is, by the Son and Holy Spirit, to whom also He said, “Let Us make man.”<sup>3804</sup> This, then, is the aim of him who envies our life, to render men disbelievers in
 
-463 Luke i. 2. 3799 2 Tim. ii. 23. 3800 \[The solemnity of the apostolic testimonies against the crop of tares that was to spring up receives great illustration from 3801 Irenæus. 1 John ii. 18.\] \[2 Pet. ii. 19.\] 3802 \[Rev. xii. 9. A little essay, *Messias and Anti-Messias*, by the Rev. C. I. Black, London (Masters, 1847), is commended 3803 to those who need light on this very mysterious subject.\]
+463 [[Luke 01#^1-2|Luke i. 2]]. 3799 [[2 Timothy 02#^2-23|2 Tim. ii. 23]]. 3800 \[The solemnity of the apostolic testimonies against the crop of tares that was to spring up receives great illustration from 3801 Irenæus. [[1 John 02#^2-18|1 John ii. 18]].\] \[[[2 Peter 02#^2-19|2 Pet. ii. 19]].\] 3802 \[[[Revelation 12#^12-9|Rev. xii. 9]]. A little essay, *Messias and Anti-Messias*, by the Rev. C. I. Black, London (Masters, 1847), is commended 3803 to those who need light on this very mysterious subject.\]
 
 *[p. 771]* ^pg811
 
@@ -497,7 +497,7 @@ See iii. 6, 1.
 
 3805
 
-\[St. John xvii. 3.\]
+\[St. [[John 17#^17-3|John xvii. 3]].\]
 
 *[p. 772]* ^pg812
 
@@ -511,7 +511,7 @@ Being should be called Father,<sup>3807</sup> thus imposing upon them the necess
 
 3\. But since the writings (*literæ*) of Moses are the words of Christ, He does Himself declare to the Jews, as John has recorded in the Gospel: “If ye had believed Moses, ye would have believed Me: for he wrote of Me. But if ye believe not his writings, neither will ye believe My words.”<sup>3814</sup> He thus indicates in the clearest manner that the writings of Moses are His words. If, then, \[this be the case with regard\] to Moses, so also, beyond a doubt, the words of the other prophets are His
 
-464 Matt. xxiii. 9. 3807 Deut. xxxii. 1. 3808 Ps. cxxiv. 8. 3809 Isa. i. 2. 3810 Isa. xlii. 5. 3811 Matt. xi. 25; Luke x. 21. 3812 Deut. vi. 4. 3813
+464 [[Matthew 23#^23-9|Matt. xxiii. 9]]. 3807 Deut. xxxii. 1. 3808 Ps. cxxiv. 8. 3809 Isa. i. 2. 3810 Isa. xlii. 5. 3811 [[Matthew 11#^11-25|Matt. xi. 25]]; [[Luke 10#^10-21|Luke x. 21]]. 3812 Deut. vi. 4. 3813
 
 *[p. 773]* ^pg813
 
@@ -525,11 +525,11 @@ has taught us, in the first place, that no one should lead a luxurious life, nor
 
 7\. But neither will these men be able to maintain that such words were uttered in an ironical manner, since it is proved to them by the words themselves that they were in earnest. For He who uttered them was Truth, and did truly vindicate His own house, by driving out of it the changers of money, who were buying and selling, saying unto them: “It is written, My house shall be called
 
-Luke xvi. 31.
+[[Luke 16#^16-31|Luke xvi. 31]].
 
 3815
 
-Luke xvi. 19.
+[[Luke 16#^16-19|Luke xvi. 19]].
 
 3816
 
@@ -537,7 +537,7 @@ Isa. v. 12.
 
 3817
 
-Matt. v. 34.
+[[Matthew 05#^5-34|Matt. v. 34]].
 
 3818
 
@@ -547,7 +547,7 @@ the house of prayer; but ye have made it a den of thieves.”<sup>3820</sup> And
 
 8\. But as many as feared God, and were anxious about His law, these ran to Christ, and were all saved. For He said to His disciples: “Go ye to the sheep of the house of Israel,<sup>3823</sup> which have perished.” And many more Samaritans, it is said, when the Lord had tarried among them, two days, “believed because of His words, and said to the woman, Now we believe, not because of thy saying, for we ourselves have heard \[Him\], and know that this man is truly the Saviour of the world.”<sup>3824</sup> And Paul likewise declares, “And so all Israel shall be saved;”<sup>3825</sup> but he has also said, that the law was our pedagogue \[to bring us\] to Christ Jesus.<sup>3826</sup> Let them not therefore ascribe to the law the unbelief of certain \[among them\]. For the law never hindered them from believing in the Son of God; nay, but it even exhorted them<sup>3827</sup> so to do, saying<sup>3828</sup> that men can be saved in no other way from the old wound of the serpent than by believing in Him who, in the likeness of sinful flesh, is lifted up from the earth upon the tree of martyrdom, and draws all things to Himself,<sup>3829</sup> and vivifies the dead.
 
-Matt. xxi. 13.
+[[Matthew 21#^21-13|Matt. xxi. 13]].
 
 3820
 
@@ -559,19 +559,19 @@ Jer. iv. 22.
 
 3822
 
-Matt. x. 6.
+[[Matthew 10#^10-6|Matt. x. 6]].
 
 3823
 
-John iv. 41.
+[[John 04#^4-41|John iv. 41]].
 
 3824
 
-Rom. xi. 26.
+[[Romans 11#^11-26|Rom. xi. 26]].
 
 3825
 
-Gal. iii. 24.
+[[Galatians 03#^3-24|Gal. iii. 24]].
 
 3826
 
@@ -583,7 +583,7 @@ This passage is quoted by Augustine, in his treatise on original sin, written to
 
 A.D.
 
-John xii. 32, John iii. 14.
+[[John 12#^12-32|John xii. 32]], [[John 03#^3-14|John iii. 14]].
 
 *[p. 775]* ^pg815
 
@@ -595,7 +595,7 @@ John xii. 32, John iii. 14.
 
 1\. Further, also, concerning Jerusalem and the Lord, they venture to assert that, if it had been “the city of the great King,”<sup>3833</sup> it would not have been deserted.<sup>3834</sup> This is just as if any one should
 
-1\. Cor. vii. 31. 3830 Ps. cii. 25–28. The cause of the difference in the numbering of the Psalms is that the Septuagint embraces in one psalm—the 3831 ninth—the two which form the ninth and tenth in the Hebrew text. Isa. li. 6. 3832 Matt. v. 35. 3833 \[Jer. vii. 4. One of the most powerful arguments in all Scripture is contained in the first twelve verses of this chapter, and 3834 it rebukes an inveterate superstition of the human heart. Comp. Rev. ii. 5, and the message to Rome, Rom. xi. 21.\]
+1\. Cor. vii. 31. 3830 Ps. cii. 25–28. The cause of the difference in the numbering of the Psalms is that the Septuagint embraces in one psalm—the 3831 ninth—the two which form the ninth and tenth in the Hebrew text. Isa. li. 6. 3832 [[Matthew 05#^5-35|Matt. v. 35]]. 3833 \[Jer. vii. 4. One of the most powerful arguments in all Scripture is contained in the first twelve verses of this chapter, and 3834 it rebukes an inveterate superstition of the human heart. Comp. [[Revelation 02#^2-5|Rev. ii. 5]], and the message to Rome, [[Romans 11#^11-21|Rom. xi. 21]].\]
 
 
 *[p. 776]* ^pg816
@@ -614,7 +614,7 @@ Isa. xxvii. 6.
 
 3835
 
-Luke xvi. 16.
+[[Luke 16#^16-16|Luke xvi. 16]].
 
 3836
 
@@ -640,7 +640,7 @@ points out, when he says of Christ, “He shall baptize you with the Holy Ghost 
 
 1\. God, therefore, is one and the same, who rolls up the heaven as a book, and renews the face of the earth; who made the things of time for man, so that coming to maturity in them, he may produce the fruit of immortality; and who, through His kindness, also bestows \[upon him\] eternal things, “that in the ages to come He may show the exceeding riches of His grace;”<sup>3843</sup> who was announced by the law and the prophets, whom Christ confessed as His Father. Now He is the Creator, and He it is who is God over all, as Esaias says, “I am witness, saith the Lord God, and my servant whom I have chosen, that ye may know, and believe, and understand that I am. Before me there was no other God, neither shall be after me. I am God, and besides me there is no Saviour. I have proclaimed, and I have saved.”<sup>3844</sup> And again: “I myself am the first God, and I am above things to come.”<sup>3845</sup> For neither in an ambiguous, nor arrogant, nor boastful manner, does He say these things; but since it was impossible, without God, to come to a knowledge of God, He teaches men, through His Word, to know God. To those, therefore, who are ignorant of these matters, and on this account imagine that they have discovered another Father, justly does one say, “Ye do err, not knowing the Scriptures, nor the power of God.”<sup>3846</sup>
 
-Matt. iii. 11, etc.
+[[Matthew 03#^3-11|Matt. iii. 11]], etc.
 
 3841
 
@@ -648,7 +648,7 @@ Ps. xlix. 12.
 
 3842
 
-Eph. ii. 7.
+[[Ephesians 02#^2-7|Eph. ii. 7]].
 
 3843
 
@@ -668,7 +668,7 @@ that which was spoken by God, saying, I am the God of Abraham, the God of Isaac,
 
 3\. And teaching this very thing, He said to the Jews: “Your father Abraham rejoiced that he should see my day; and he saw it, and was glad.”<sup>3851</sup> What is intended? “Abraham believed God, and it was imputed unto him for righteousness.”<sup>3852</sup> In the first place, \[he believed\] that He was the maker of heaven and earth, the only God; and in the next place, that He would make his seed as the stars of heaven. This is what is meant by Paul, \[when he says,\] “as lights in the world.”<sup>3853</sup>
 
-Matt. xxii. 29, etc.; Ex. iii. 6.
+[[Matthew 22#^22-29|Matt. xxii. 29]], etc.; Ex. iii. 6.
 
 3847
 
@@ -676,7 +676,7 @@ In the Septuagint and Vulgate versions, this story constitutes the fourteenth ch
 
 in Hebrew, and has therefore been removed to the Apocrypha, in the Anglican canon \[the Greek and St. Jerome’s\] of Scripture, under the title of “Bel and the Dragon.”
 
-John xi. 25.
+[[John 11#^11-25|John xi. 25]].
 
 3849
 
@@ -684,15 +684,15 @@ Ps. xlv. 16.
 
 3850
 
-John viii. 56.
+[[John 08#^8-56|John viii. 56]].
 
 3851
 
-Rom. iv. 3.
+[[Romans 04#^4-3|Rom. iv. 3]].
 
 3852
 
-Phil. ii. 15.
+[[Philippians 02#^2-15|Phil. ii. 15]].
 
 *[p. 779]* ^pg819
 
@@ -706,7 +706,7 @@ Righteously, therefore, having left his earthly kindred, he followed the Word of
 
 1\. For the Lord, revealing Himself to His disciples, that He Himself is the Word, who imparts knowledge of the Father, and reproving the Jews, who imagined that they, had \[the knowledge of\] God, while they nevertheless rejected His Word, through whom God is made known, declared, “No man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and he to whom the Son has willed to reveal \[Him\].”<sup>3857</sup> Thus hath Matthew set it down, and Luke in like manner, and Mark<sup>3858</sup> the very same; for John omits this passage. They, however, who would be wiser than the apostles, write \[the verse\] in the following manner: “No man *knew* the Father, but the Son; nor the Son, but the Father, and he to whom the Son has willed to reveal \[Him\];” and
 
-468 Gen. xxii. 6. 3854 John viii. 56. 3855 Gen. xiv. 22. 3856 Matt. xi. 27; Luke x. 22. 3857 Not now to be found in Mark’s Gospel.
+468 Gen. xxii. 6. 3854 [[John 08#^8-56|John viii. 56]]. 3855 Gen. xiv. 22. 3856 [[Matthew 11#^11-27|Matt. xi. 27]]; [[Luke 10#^10-22|Luke x. 22]]. 3857 Not now to be found in Mark’s Gospel.
 
 *[p. 780]* ^pg820
 
@@ -720,9 +720,9 @@ they explain it as if the true God were known to none prior to our Lord’s adve
 
 Photius, 125, makes mention of Justin Martyr’s work, λόγοι κατὰ Μαρκίωνος. See also Eusebius’s *Ecclesiastical History*, 3859
 
-book iv. c. 18, where this passage of Irenæus is quoted. \[The vast importance of Justin’s startling remark is that it hinges on the words of Christ Himself, concerning His antecedents and notes as set forth in the Scriptures, St. John v. 30–39.\]
+book iv. c. 18, where this passage of Irenæus is quoted. \[The vast importance of Justin’s startling remark is that it hinges on the words of Christ Himself, concerning His antecedents and notes as set forth in the Scriptures, St. [[John 05#^5-30|John v. 30–39]].\]
 
-\[A most emphatic and pregnant text which Irenæus here expounds with great beauty. The reference (St. Matt. xi. 27) 3860
+\[A most emphatic and pregnant text which Irenæus here expounds with great beauty. The reference (St. [[Matthew 11#^11-27|Matt. xi. 27]]) 3860
 
 seems to have been inadvertently omitted in this place where the repetition is desirable.\]
 
@@ -736,7 +736,7 @@ and have the daring to preach an unknown God. But they ought to hear \[this\] ag
 
 7\. For it was fitting that the truth should receive testimony from all, and should become \[a means of\] judgment for the salvation indeed of those who believe, but for the condemnation of those who believe not; that all should be fairly judged, and that the faith in the Father and Son should be approved by all, that is, that it should be established by all \[as the one means of salvation\],
 
-469 The ordinary text reads *cognoscunt*, i.e., do know; but Harvey thinks it should be the future—*cognoscent*. 3861 Mark i. 24. 3862 Matt. iv. 3; Luke iv. 3.
+469 The ordinary text reads *cognoscunt*, i.e., do know; but Harvey thinks it should be the future—*cognoscent*. 3861 [[Mark 01#^1-24|Mark i. 24]]. 3862 [[Matthew 04#^4-3|Matt. iv. 3]]; [[Luke 04#^4-3|Luke iv. 3]].
 
 *[p. 782]* ^pg822
 
@@ -754,7 +754,7 @@ Some, instead of *significantibus*, read *signantibus*, “stamping it as true.�
 
 3865
 
-Matt. xi. 27; Luke x. 22. Harvey observes here, that “it is remarkable that this text, having been correctly quoted a short 3866
+[[Matthew 11#^11-27|Matt. xi. 27]]; [[Luke 10#^10-22|Luke x. 22]]. Harvey observes here, that “it is remarkable that this text, having been correctly quoted a short 3866
 
 time previously in accordance with the received Greek text, ᾧ ἐὰν βούλητας ὁ υἱὸς ἀποκαλύψαι, the translator now not only uses the single verb *revelaverit*, but says pointedly that it was so written by the venerable author.” It is probable, therefore, that the previous passage has been made to harmonize with the received text by a later hand; with which, however, the Syriac form agrees.
 
@@ -776,15 +776,15 @@ The text has *oculorum*, probably by mistake for *populorum*.
 
 3868
 
-Luke ii. 29, etc.
+[[Luke 02#^2-29|Luke ii. 29]], etc.
 
 3869
 
-Luke ii. 8.
+[[Luke 02#^2-8|Luke ii. 8]].
 
 3870
 
-Luke i. 46.
+[[Luke 01#^1-46|Luke i. 46]].
 
 3871
 
@@ -792,11 +792,11 @@ Gen. xv. 5.
 
 3872
 
-Matt. iii. 9.
+[[Matthew 03#^3-9|Matt. iii. 9]].
 
 3873
 
-Rom. iv. 12; Gal. iv. 28.
+[[Romans 04#^4-12|Rom. iv. 12]]; [[Galatians 04#^4-28|Gal. iv. 28]].
 
 3874
 
@@ -810,7 +810,7 @@ wills that He should be known; and neither without the goodwill of the Father no
 
 1\. Vain, too, is \[the effort of\] Marcion and his followers when they \[seek to\] exclude Abraham from the inheritance, to whom the Spirit through many men, and now by Paul, bears witness, that “he believed God, and it was imputed unto him for righteousness.”<sup>3881</sup> And the Lord \[also bears witness to him,\] in the first place, indeed, by raising up children to him from the stones, and making his seed as the stars of heaven, saying, “They shall come from the east and from the west, from the north and from the south, and shall recline with Abraham, and Isaac, and Jacob in the kingdom of
 
-John xiv. 6, 7.
+[[John 14#^14-6|John xiv. 6]], [[John 14#^14-7|7]].
 
 3876
 
@@ -826,7 +826,7 @@ Massuet here observes, that the fathers called the Holy Spirit the similitude of
 
 3879
 
-Matt. xi. 27; Luke x. 22.
+[[Matthew 11#^11-27|Matt. xi. 27]]; [[Luke 10#^10-22|Luke x. 22]].
 
 3880
 
@@ -840,11 +840,11 @@ heaven;”<sup>3882</sup> and then again by saying to the Jews, “When ye shall
 
 3\. And again, the law did not forbid those who were hungry on the Sabbath-days to take food lying ready at hand: it did, however, forbid them to reap and to gather into the barn. And therefore did the Lord say to those who were blaming His disciples because they plucked and ate the ears of corn, rubbing them in their hands, “Have ye not read this, what David did, when himself was an hungered; how he went into the house of God, and ate the shew-bread, and gave to those who were with him; which it is not lawful to eat, but for the priests alone?”<sup>3887</sup> justifying His disciples by the
 
-Matt. viii. 11.
+[[Matthew 08#^8-11|Matt. viii. 11]].
 
 3882
 
-Luke xiii. 28.
+[[Luke 13#^13-28|Luke xiii. 28]].
 
 3883
 
@@ -852,7 +852,7 @@ Harvey prefers the singular— “*hypocrite*.”
 
 3884
 
-Luke xiii. 15, 16.
+[[Luke 13#^13-15|Luke xiii. 15]], [[Luke 13#^13-16|16]].
 
 3885
 
@@ -864,7 +864,7 @@ The text here is rather uncertain. Harvey’s conjectural reading of *et jam* fo
 
 words of the law, and pointing out that it was lawful for the priests to act freely. For David had been appointed a priest by God, although Saul persecuted him. For all the righteous possess the sacerdotal rank.<sup>3888</sup> And all the apostles of the Lord are priests, who do inherit here neither lands nor houses, but serve God and the altar continually. Of whom Moses also says in Deuteronomy, when blessing Levi, “Who said unto his father and to his mother, I have not known thee; neither did he acknowledge his brethren, and he disinherited his own sons: he kept Thy commandments, and observed Thy covenant.”<sup>3889</sup> But who are they that have left father and mother, and have said adieu to all their neighbours, on account of the word of God and His covenant, unless the disciples of the Lord? Of whom again Moses says, “They shall have no inheritance, for the Lord Himself is their inheritance.”<sup>3890</sup> And again, “The priests the Levites shall have no part in the whole tribe of Levi, nor substance with Israel; their substance is the offerings (*fructifications*) of the Lord: these shall they eat.”<sup>3891</sup> Wherefore also Paul says, “I do not seek after a gift, but I seek after fruit.”<sup>3892</sup> To His disciples He said, who had a priesthood of the Lord,<sup>3893</sup> to whom it was lawful when hungry to eat the ears of corn,<sup>3894</sup> “For the workman is worthy of his meat.”<sup>3895</sup> And the priests in the temple profaned the Sabbath, and were blameless. Wherefore, then, were they blameless? Because when in the temple they were not engaged in secular affairs, but in the service of the Lord, fulfilling the law, but not going beyond it, as that man did, who of his own accord carried dry wood into the camp of God, and was justly stoned to death.<sup>3896</sup> “For every tree that bringeth not forth good fruit shall be hewn down, and cast into the fire;”<sup>3897</sup> and “whosoever shall defile the temple of God, him shall God defile.”<sup>3898</sup>
 
-This clause is differently quoted by Antonius Melissa and John Damascenus, thus: Πᾶς βασιλεὺς δίκαιος ἱερατικὴν ἔχει 3888 τάξιν, i.e., *Every righteous king possesses a priestly order*. Comp. 1 Pet. ii. 5, 9. \[And with St. Peter’s testimony to the priesthood of the laity, compare the same under the law. Ex. xix. 6. The Western Church has recognised the “Episcopate *ab extra*” of sovereigns; while, in the East, it has grown into *Cæsaropapism*.\] Deut. xxxiii. 9. 3889 Num. xviii. 20. 3890 Deut. xviii. 1. 3891 Phil. iv. 17. 3892 Literally, “the Lord’s Levitical substance”—*Domini Leviticam substantiam*. 3893 Literally, “to take food from seeds.” 3894 Matt. x. 10. 3895 Num. xv. 32, etc. 3896 Matt. iii. 10. 3897 1 Cor. iii. 17.
+This clause is differently quoted by Antonius Melissa and John Damascenus, thus: Πᾶς βασιλεὺς δίκαιος ἱερατικὴν ἔχει 3888 τάξιν, i.e., *Every righteous king possesses a priestly order*. Comp. [[1 Peter 02#^2-5|1 Pet. ii. 5]], [[1 Peter 02#^2-9|9]]. \[And with St. Peter’s testimony to the priesthood of the laity, compare the same under the law. Ex. xix. 6. The Western Church has recognised the “Episcopate *ab extra*” of sovereigns; while, in the East, it has grown into *Cæsaropapism*.\] Deut. xxxiii. 9. 3889 Num. xviii. 20. 3890 Deut. xviii. 1. 3891 [[Philippians 04#^4-17|Phil. iv. 17]]. 3892 Literally, “the Lord’s Levitical substance”—*Domini Leviticam substantiam*. 3893 Literally, “to take food from seeds.” 3894 [[Matthew 10#^10-10|Matt. x. 10]]. 3895 Num. xv. 32, etc. 3896 [[Matthew 03#^3-10|Matt. iii. 10]]. 3897 [[1 Corinthians 03#^3-17|1 Cor. iii. 17]].
 
 *[p. 787]* ^pg827
 
@@ -876,11 +876,11 @@ This clause is differently quoted by Antonius Melissa and John Damascenus, thus:
 
 2\. He declares: “For in this place is One greater than the temple.”<sup>3904</sup> But \[the words\] *greater* and *less* are not applied to those things which have nothing in common between themselves, and are of an opposite nature, and mutually repugnant; but are used in the case of those of the same substance, and which possess properties in common, but merely differ in number and size; such as water from water, and light from light, and grace from grace. Greater, therefore, is that legislation which has been given in order to liberty than that given in order to bondage; and therefore it has also been diffused, not throughout one nation \[only\], but over the whole world. For one and the same Lord, who is greater than the temple, greater than Solomon, and greater than Jonah, confers gifts upon men, that is, His own presence, and the resurrection from the dead; but He does not change God, nor proclaim another Father, but that very same one, who always has more to measure out to those of His household. And as their love towards God increases, He bestows more and
 
-Matt. xiii. 52.
+[[Matthew 13#^13-52|Matt. xiii. 52]].
 
 3899
 
-Matt. xxiii. 34.
+[[Matthew 23#^23-34|Matt. xxiii. 34]].
 
 3900
 

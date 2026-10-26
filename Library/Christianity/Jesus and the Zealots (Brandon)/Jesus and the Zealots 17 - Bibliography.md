@@ -458,7 +458,7 @@ A.J. B. Higgins. Manchester, I959· KINGDOM, H. P. 'Messiahship and the Crucifix
 
 KLAUSNER, J. *Jesus of Nazareth,* E.T. London, I929· *--From Jesus to Paul,* E.T. London, I942. 
 
-KLIJN, A. F. J· 'Stephen's Speech-Acts vii. 2-53', *N. T.S.* IV (1957-8). KLOSTERMANN, E. *Das Matthiiusevangelium,* 2. Aufl. Tubingen, I927. -- *Das Lukasevangelium •. Tubingen,* I929· -- *Das Markusevangelium,* 4· Aufl. Tubingen, I950. 
+KLIJN, A. F. J· 'Stephen's Speech-[[Acts 07#^7-2|Acts vii. 2-53]]', *N. T.S.* IV (1957-8). KLOSTERMANN, E. *Das Matthiiusevangelium,* 2. Aufl. Tubingen, I927. -- *Das Lukasevangelium •. Tubingen,* I929· -- *Das Markusevangelium,* 4· Aufl. Tubingen, I950. 
 
 KNox, w. L. *St Paul and the Church of Jerusalem.* Cambridge, I925· -- *St Paul and the Church of the Gentiles.* Cambridge, I939· *--The Acts of the Apostles.* Cambridge, I948. 
 

@@ -11,6 +11,7 @@ second_reading: "Hebrews 12:18-29"
 gospel: "Luke 13:10-17"
 first_reading_complementary: "Isaiah 58:9b-14"
 psalm_complementary: "Psalm 103:1-8"
+psalm_bcp_complementary: "Psalm 103:1-8"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-16]]"
 cssclasses:

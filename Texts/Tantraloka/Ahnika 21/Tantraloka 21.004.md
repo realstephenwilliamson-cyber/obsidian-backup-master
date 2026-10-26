@@ -30,7 +30,7 @@ ityasyāyamapi hyartho mālinīvākyasanmaṇeḥ || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#^pg265|p. 245]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=265>))
 >
-> (Now let us examine) the meaning of (this) sentence, a (veritable) gem of truth found in the Mālinīvijaya: ‘Thus, some (fortunate one) is liberated due to that relationship (saṁbandha) (with Śiva’s power) at that very moment.
+> (Now let us examine) the meaning of (this) sentence, a (veritable) gem of truth found in the Mālinīvijaya: ‘Thus, some (fortunate one) is liberated due to that relationship (saṁbandha) (with Śiva’s power) at that very moment.’
 
 ## Viveka
 

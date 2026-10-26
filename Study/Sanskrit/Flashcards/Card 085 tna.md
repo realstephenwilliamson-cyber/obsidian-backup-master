@@ -20,16 +20,13 @@ nyasa: "ta: left hip (*kaṭi*) · na: left toenails (*nakha*)"
 ## Front
 
 - **Glyph:** त्न
-- **Variation:** त्‍न (half-ta + na)
 - **Example:** रत्न
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** As in ‘ratna’ (jewel)
-- **Class (as printed):** —
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: त, न
-- **Example:** ratna (jewel)
+> [!note]- Back
+> - **Pronunciation:** As in ‘ratna’ (jewel)
+> - **Variation:** त्‍न (half-ta + na)
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / <u>त</u> थ द ध <u>न</u> / प फ ब भ म / य र ल व / श ष स ह
+> - **Example:** ratna (jewel)
 
 ## Register
 

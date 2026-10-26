@@ -31,7 +31,7 @@ tadā tena krameṇāśu yojitaḥ samayī śivaḥ || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 10 - Chapter Nineteen#^pg249|p. 229]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=249>))
 > Dyczkowski numbers this verse 19.54cd–55ab.
 >
-> ‘If (the common) regular initiate abandons the body, realising that all worldly experience (bhoga) is ugly (and defective), he is rapidly conjoined by this process (krama) (to the supreme reality, and so becomes) Śiva.
+> ‘If (the common) regular initiate abandons the body, realising that all worldly experience (bhoga) is ugly (and defective), he is rapidly conjoined by this process (krama) (to the supreme reality, and so becomes) Śiva.’
 
 ## Viveka
 

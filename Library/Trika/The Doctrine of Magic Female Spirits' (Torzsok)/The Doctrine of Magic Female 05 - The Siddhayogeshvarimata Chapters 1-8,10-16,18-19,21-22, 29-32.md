@@ -455,7 +455,7 @@ svecchāyurvid ato \] 25 an emendation was prompted by what is logically require
 
 imam \] should probably be understood as an Aiśa variant for idam referring to t i.e. if the Sādhaka wishes to do so, he can attain final release. It is also possibl text read imām referring to paramām gatim or muktim. 
 
-*[p. i]* ^pg182
+*[PDF 182]* ^pg182
 
 praśnam\] (Aiśa neuter) has not been corrected to the masculine form, for 2a 
 
@@ -483,7 +483,7 @@ yutam \] is somewhat superfluous, for salalāṭam already expresses the same ś
 putas \] has not been corrected to the dual, because the singular seems to |
 reading here. The -s ending may also be due to the Aiŝa preference for -s- b te ca \] sounds awkward, and is also understood to be dual. (4152) °pañktayah \] is understood as the Nominative Singular of the extende since ~ as Dr Isaacson has pointed out ~ this compound is generali singular. However, it is also possible that the plural is used for the dual ( are given suggesting that a dual is intended). 
 
-*[p. ii]* ^pg183
+*[PDF 183]* ^pg183
 
 matarah ) \] 15 an Aiśa extended stem plural. 
 
@@ -531,7 +531,7 @@ rājavarṇā? \] is probably for rājasavarṇā? (Aiśa).
 
 gunaih \] is odd in the plural, for one thread should be enough to draw thi of the wheel. Cf. translation. The plural for the singular may be Aifa usa 
 
-*[p. iii]* ^pg184
+*[PDF 184]* ^pg184
 
 nīlo \] It seems odd to describe the Sādhaka as 'dark blue’. However, it is po imagine that the Sādhaka paints himself dark blue or black before the perfo black magic. 
 
@@ -571,7 +571,7 @@ sarvāritha°\] is a diagnostic conjecture.
 
 devyā{h\] } is the nominative plural of the 4158 extended stem devyā. 
 
-*[p. iv]* ^pg185
+*[PDF 185]* ^pg185
 
 I have not corrected the neuter forms to the feminine, for it is possible that vyāpti is treated as neuter (in which case N may have the correct reading) or that it is underst la 
 
@@ -615,7 +615,7 @@ because one would rather expect the more common sakalīkrtavigrahah. D's
 
 bhairavīkrtavinyāsa is even more odd; for while bhairavīkrtavigrahah would ma (with his body transformed into Bhairava), bhairavīkrta? cannot replace sakalīki the latter half is vinyāsah. The variants of the mss may suggest corruption fron to °vinyāsah, but this cannot be certain, and the first element also remains unc iṣtvā \] may be replaced by {istam (for \*iṣtã in the mss), but I think the former <sup>1</sup> the context. 
 
-*[p. v]* ^pg186
+*[PDF 186]* ^pg186
 
 pūrvarūpeṇa vidhinā \] is slightly odd, for this adjective seems unusual with vidhi, otherwise occurs mostly with reference to visualizations. Here one would rather exp pūrvoktena vidhānena instead. 
 
@@ -651,7 +651,7 @@ vāpi \] 15 in the sense of cãpi as is clear from the context.
 
 svamantra \] is in the locative (with Sandhi) for the instrumental. 4158. The unus with correct sandhi is kept metri causa. (Although one may wonder why our auth use svamantreṇopasamhāram. It is also possible that the locative is meant to con the deities are withdrawn into their mantras — or that the text is corrupt) 
 
-*[p. v]* ^pg187
+*[PDF 187]* ^pg187
 
 tathā \] is less regular in this construction than tad, but it probably was used under th 2a 
 
@@ -692,7 +692,7 @@ mss, which is probably corrupt. My first conjecture was māmsena naśyamānena a
 
 I think that these lines give us alternatives allowed. The rite can be performed 'al lonely ascetic, ekākinā) or in a household (by those who perform it at home, i.e. | 
 
-*[p. vi]* ^pg188
+*[PDF 188]* ^pg188
 
 householders). I have corrected ekākino to ekākinā to have the instrumental in both cases, and I understand a kāryam next to sādhanam to be supplied. The instrumentals also seem 
 
@@ -760,7 +760,7 @@ neuter forms, considering this confusion an Aiŝa feature, which may be due to t
 
 proximity of the word rahasya interpreted as a neuter noun, and not an adjective. 
 
-*[p. vii]* ^pg189
+*[PDF 189]* ^pg189
 
 1-14 
 
@@ -1038,7 +1038,7 @@ dadanti \] may be corrected to dadāti, since the text speaks about one Yogin th
 
 caturdaśīi amāvāsyā \] have been adopted as nominatives. N's reading may a adopted as having locatives (since amāvāsyām can be the locative of the alt stem amāvāsí), but I think the list was intended to be in the same form. In N's reading is suspect with the Anusvāra before the starting vowel of the se 31ed-32ab 
 
-*[p. 128]* ^pg196
+*[PDF 196]* ^pg196
 
 ubhapakṣe \] must refer to the numbered days and not pūrṇimā as the word orde suggests. 
 
@@ -1082,7 +1082,7 @@ tāsām \] shows another change from the sing. to the plural. Aiśa. (Cf. 7 and 
 
 object. 
 
-*[p. 129]* ^pg197
+*[PDF 197]* ^pg197
 
 ubhapakṣe \] must refer to the numbered days and not pārpimā as the word orde suggests. 
 
@@ -1127,7 +1127,7 @@ tāsām \] shows another change from the sing. to the plural. Aiśa. (Cf. 7 and 
 
 object. 
 
-*[p. 130]* ^pg198
+*[PDF 198]* ^pg198
 
 16 ld 
 
@@ -1153,7 +1153,7 @@ The vowels attached to the consonants in D seem to be unsuitable in the context;
 
 yatra yatra \] may be corrected to yena yena to agree with amsena but I think it is ac in 4158. Moreover, the whole expression should rather be in the locative instead of instrumental. (Aiśa) There is an in-pāda hiatus between tu and amena. 
 
-*[p. 131]* ^pg199
+*[PDF 199]* ^pg199
 
 There is an in-pāda hiatus here omitting the Sandhi, metri causa. 
 
@@ -1179,7 +1179,7 @@ understand the form to be an Aiśa causative for the non-causative smrtam, emplo
 
 I do not have a conjecture supported by parallels, so I have left the text as it is in th However, I would suggest the conjecture devamātrsamsiddheṣu / divyamātysamsiddh that a similar phrase was intended, and this is the basis of my translation in the foot hāsyo \] is treated as masculine for the neuter, although verse 9 has the neuter. (Aiŝa Here I have another conjecture, not supported well enough to be in the edited text: bhogyabhoktrtvakāraṇam. Cf. e.g. bhogyabhoktytvasāmarthya? in Mālinīvijaąyottara í Moreover, I think the word °kāraṇam probably provoked the neuter ending in °adhar which should be in the masculine. (Aisa) 
 
-*[p. 132]* ^pg200
+*[PDF 200]* ^pg200
 
 rudraśaktyābhi° \] may be corrupt for rudraśaktyāpi, but the phrase is odd in any case. 4c 
 

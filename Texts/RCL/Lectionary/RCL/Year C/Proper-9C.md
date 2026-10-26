@@ -11,6 +11,7 @@ second_reading: "Galatians 6:(1-6), 7-16"
 gospel: "Luke 10:1-11, 16-20"
 first_reading_complementary: "Isaiah 66:10-14"
 psalm_complementary: "Psalm 66:1-9"
+psalm_bcp_complementary: "Psalm 66:1-8"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-9]]"
 cssclasses:

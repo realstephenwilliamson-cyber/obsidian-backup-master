@@ -20,16 +20,13 @@ nyasa: "left fingernails (*nakha*)"
 ## Front
 
 - **Glyph:** ञ
-- **Variation:** —
 - **Example:** रञ्जक
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘i<u>n</u>ch’
-- **Class (as printed):** 2 (palatal) · soft · nasal · Always followed by another palatal consonant. Never followed by a vowel.
-- **Grid:** the five rows of stops; in bold: ञ
-- **Example:** rañjaka (coloring)
+> [!note]- Back
+> - **Pronunciation:** As in ‘i<u>n</u>ch’
+> - **Class:** palatal · soft · nasal · Always followed by another palatal consonant. Never followed by a vowel.
+> - क ख ग घ ङ / च छ ज झ <u>ञ</u> / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म
+> - **Example:** rañjaka (coloring)
 
 ## Register
 

@@ -66,7 +66,7 @@ After some twenty years of rule, the Jewish people accepted the Maccabaean leade
 
 3x9\]U0) UI AZUNUWIUOD auassz-UeIWIND BY)
 
-priests, people, princes and elders of Judaea legitimized the high priesthood of the Maccabaean family during the reign of Simon Maccabee when they declared him ‘their leader and High Priest for ever’ (1 Macc 14.41). This was the founding of the Hasmonaean dynasty, named after their ancestor Hasmonai, which lasted for the next hundred years.
+priests, people, princes and elders of Judaea legitimized the high priesthood of the Maccabaean family during the reign of Simon Maccabee when they declared him ‘their leader and High Priest for ever’ ([[LXX 1 Maccabees 14#^14-41|1 Macc 14.41]]). This was the founding of the Hasmonaean dynasty, named after their ancestor Hasmonai, which lasted for the next hundred years.
 
 Hasmonaean dynasty
 

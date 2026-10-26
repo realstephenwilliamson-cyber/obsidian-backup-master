@@ -27,7 +27,7 @@ vijñānārthī tathā śiṣyo gurorgurvantaraṃ vrajet || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#^pg354|p. 332]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=354>))
 >
-> ‘Just as a bee desiring fine scent goes from flower to flower, so too, a (good) student who desires knowledge should go from teacher to teacher.
+> ‘Just as a bee desiring fine scent goes from flower to flower, so too, a (good) student who desires knowledge should go from teacher to teacher.’
 
 ## Viveka
 

@@ -27,7 +27,7 @@ uktaḥ sa yoginībhūḥ svayameva jñānabhājanaṃ rudraḥ |
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#^pg358|p. 341]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=358>))
 >
-> He whose body is formed in the womb from the embryo (conceived) by such a union is called ‘born of a Yogin? (yoginībhū). (Such a one) is spontaneously Rudra (Himself) and possesses knowledge (of ultimate reality). According to the venerable Vīrāvaliśāstra, he who is such is Śiva, even though he is still a baby in (his) mother’s womb. (with 29.162cd–163)
+> He whose body is formed in the womb from the embryo (conceived) by such a union is called ‘born of a Yoginī’ (yoginībhū). (Such a one) is spontaneously Rudra (Himself) and possesses knowledge (of ultimate reality). According to the venerable Vīrāvaliśāstra, he who is such is Śiva, even though he is still a baby in (his) mother’s womb. (with 29.162cd–163)
 
 ## Viveka
 

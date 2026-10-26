@@ -728,7 +728,7 @@ guhā trīṇi nihitā neṁgayanti turīyam vāco manuṣyā vadanti || \[Rgved
 
 cāsamkīrṇam 
 
-vāco rūpam kārtsnyena sāmānyaviśeṣavatyasmimňllakṣaṇe vyākaraṇākhye nibaddham | (Vrtti on Vēkyapadiya 1.134 \[= 1.159 ed. Rau\], ed. Iyer, 221) 
+vāco rūpam kārtsnyena sāmānyaviśeṣavatyasmim̐llakṣaṇe vyākaraṇākhye nibaddham | (Vrtti on Vēkyapadiya 1.134 \[= 1.159 ed. Rau\], ed. Iyer, 221) 
 
 324 Aklujkar, “Bhartrhari,” in Encyclopedia of Indian philosophies, vol. 5, 122. 325 See, for instance, Raja, Indian Theories of Meaning, 147, who holds that Bhartrhari accepted only three levels with paśyanti (intuitive insight) as the highest form. To give the parā dimension a separate status is a matter of interpretation and does not seem justified for Bhartrhari himself, but it was introduced by later recipients. 
 

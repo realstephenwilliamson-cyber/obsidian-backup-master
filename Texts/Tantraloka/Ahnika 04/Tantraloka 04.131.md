@@ -30,7 +30,7 @@ tathāmṛtāgnisaṃyogād dravataste na saṃśayaḥ || ^iast
 > [!source] Dyczkowski, vol. III
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 03 (Dyczkowski)/Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#^pg189|p. 176]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 03.pdf#page=189>))
 >
-> Just as the (female) Yoni and (male) Liṅga stream forth nectar by (their) union, similarly, no doubt, the Fire (of the subject) and the Moon (amrta) (of the object) exude (nectar) by (their) union.
+> Just as the (female) Yoni and (male) Liṅga stream forth nectar by (their) union, similarly, no doubt, the Fire (of the subject) and the Moon (amṛta) (of the object) exude (nectar) by (their) union.
 
 ## Viveka
 

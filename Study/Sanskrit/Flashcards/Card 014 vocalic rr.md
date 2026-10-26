@@ -20,17 +20,11 @@ nyasa: "left nostril (*nāsā*)"
 ## Front
 
 - **Glyph:** ॠ
-- **Variation:** a variant form, drawn only as a numbered stroke diagram (not copied here)
-- **Example:** —
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** [ trill ṛ for 2 beats ]
-- **Class (as printed):** 3 (cerebral) · long, soft · simple vowel
-- **Note (no printed label):** Full form - rarely used
-- **Grid:** the vowels अ आ इ ई उ ऊ / ए ऐ ओ औ / ऋ ॠ ऌ; in bold: ॠ
-- **Example:** —
+> [!note]- Back
+> - **Pronunciation:** [ trill ṛ for 2 beats ]
+> - **Class:** cerebral · long, soft · simple vowel · Full form - rarely used
+> - अ आ इ ई उ ऊ / ए ऐ ओ औ / ऋ <u>ॠ</u> ऌ
 
 ## Register
 

@@ -20,16 +20,13 @@ nyasa: "right hand (*kara*)"
 ## Front
 
 - **Glyph:** ग
-- **Variation:** —
 - **Example:** गति
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘sa<u>g</u>a’
-- **Class (as printed):** 1 (guttural) · soft · unaspirated
-- **Grid:** the five rows of stops; in bold: ग
-- **Example:** gati (gait)
+> [!note]- Back
+> - **Pronunciation:** As in ‘sa<u>g</u>a’
+> - **Class:** guttural · soft · unaspirated
+> - क ख <u>ग</u> घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म
+> - **Example:** gati (gait)
 
 ## Register
 

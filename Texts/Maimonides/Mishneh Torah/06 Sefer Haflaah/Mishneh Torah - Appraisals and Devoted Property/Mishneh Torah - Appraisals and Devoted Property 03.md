@@ -99,7 +99,7 @@ What is implied? If he was a carpenter, we leave him two planes and two saws. If
 **20.** When does the above apply? With regard to movable property and servants.[^45] For landed property, by contrast, we announce the sale for 60 consecutive days, morning and evening[^46] and [only] afterwards, are they sold.[^47] ^3-20
 
 [^1]: Which is a lesser amount, as stated in Chapter 1, Halachah 3.
-[^2]: [[Arakhin 18#18a|*Arachin* 18a]] derives this from the exegesis of [[Torah 33 - Bechukotai#^27-17|Leviticus 27:17]].
+[^2]: *Arachin* [[Arakhin 18#18a|18a]] derives this from the exegesis of [[Torah 33 - Bechukotai#^27-17|Leviticus 27:17]].
 [^3]: I.e., he has the means to pay the pledge that he made.
 [^4]: The laws that apply if he cannot pay even a *sela* are discussed in Halachah 4.
 [^5]: Thus the evaluation mentioned by the verse is twofold: a) the age of the person whose *airech* is pledged is considered and on that basis, we determine the sum the one who made the pledge must pay;  
@@ -109,8 +109,8 @@ What is implied? If he was a carpenter, we leave him two planes and two saws. If
 [^7]: For this is the highest *airech* mentioned in the Torah.
 [^8]: I.e., acquires the amount he pledged.
 [^9]: He is not given the option of paying a lesser amount. Instead, the full *airech* remains a debt incumbent upon him.
-[^10]: For he was not pledging an *airech*, but instead, taking vow to pay the amount the wealthy person had pledged. The Ra'avad differs with the Rambam and maintains that the poor man is judged according to his own financial capacity. The Ra'avad supports his view from [[Arakhin 17#17a|*Arachin* 17a]] where there appears to be a difference of opinion among the Sages. Although the Rambam interprets that passage differently (see his Commentary to the Mishnah, *Arachin* 2:1), the *Kessef Mishneh* notes that the Ra'avad's view seems more appropriate to the text's simple meaning.
-[^11]: We find a parallel concept with regard to sacrifices. There are certain offerings that are dependent on a person's financial status. If he is wealthy, he must bring one type of sacrifice and if he is poor another. If a poor person brings the sacrifice required of him, he is not liable to bring a second sacrifice if he becomes wealthy ([[Arakhin 17#17b|*Arachin* 17b]]; Radbaz).
+[^10]: For he was not pledging an *airech*, but instead, taking vow to pay the amount the wealthy person had pledged. The Ra'avad differs with the Rambam and maintains that the poor man is judged according to his own financial capacity. The Ra'avad supports his view from *Arachin* [[Arakhin 17#17a|17a]] where there appears to be a difference of opinion among the Sages. Although the Rambam interprets that passage differently (see his Commentary to the Mishnah, *Arachin* 2:1), the *Kessef Mishneh* notes that the Ra'avad's view seems more appropriate to the text's simple meaning.
+[^11]: We find a parallel concept with regard to sacrifices. There are certain offerings that are dependent on a person's financial status. If he is wealthy, he must bring one type of sacrifice and if he is poor another. If a poor person brings the sacrifice required of him, he is not liable to bring a second sacrifice if he becomes wealthy (*Arachin* [[Arakhin 17#17b|17b]]; Radbaz).
 [^12]: I.e., even if he is poor, we do not evaluate his financial status as we ordinarily do if he pledged an *airech*. The rationale is that he mentioned a specific amount and hence, he is obligated for that amount (Radbaz).
 [^13]: I.e., and establish his liability only according to the possessions he owns.
 [^14]: The Ra'avad differs and offers a different explanation. The Radbaz and the *Kessef Mishneh* favor the Rambam's view.
@@ -120,7 +120,7 @@ What is implied? If he was a carpenter, we leave him two planes and two saws. If
 [^18]: I.e., the priest began evaluating the second *airech* first. The donor could not give the entire amount for the second *airech*, since he was already liable for the first.
 [^19]: In *Hilchot Malveh ViLoveh* 20:1, the Rambam writes that if a creditor whose lien begins later expropriates property from a debtor first, the court expropriates it from him and gives it to the creditor with the prior lien. This, however, applies only with regard to landed property and not to movable property (*ibid.*:2).
 [^20]: And thus he should have paid all ten *selaim* for that *airech*, if he did not do so and paid a lesser amount, he fulfills his obligation.
-[^21]: The Rambam's ruling follows the logic of Rav Sherira *Gaon*, as quoted by Rabbenu Yitzchak Alfasi ([[Ketubot 94#94a|*Ketubot* 94a]]), although the wording of [[Arakhin 7#7b|*Arachin* 7b]], 8a, does not imply such a conclusion.  
+[^21]: The Rambam's ruling follows the logic of Rav Sherira *Gaon*, as quoted by Rabbenu Yitzchak Alfasi (*Ketubot* [[Ketubot 94#94a|94a]]), although the wording of *Arachin* [[Arakhin 7#7b|7b]], 8a, does not imply such a conclusion.  
     The difference between the two situations is that the two debts are owed to two different people. Hence giving one is taking from the other. Thus the chronological sequence when the liens were established is important. *Arechim*, however, are always given to the Temple treasury. Thus they are both being given to the same place. Hence there is no point in having the money expropriated.
 [^22]: For when giving the first *airech*, he should not consider the second *airech* at all.
 [^23]: In which case he is obligated to pay both of them, as stated in Chapter 1, Halachah 19.

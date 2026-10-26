@@ -11,6 +11,7 @@ second_reading: "Hebrews 1:1-4, 2:5-12"
 gospel: "Mark 10:2-16"
 first_reading_complementary: "Genesis 2:18-24"
 psalm_complementary: "Psalm 8"
+psalm_bcp_complementary: "Psalm 8"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-22]]"
 cssclasses:

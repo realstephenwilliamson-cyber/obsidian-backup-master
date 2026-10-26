@@ -31,7 +31,7 @@ saṃśayaḥ sa kimityaṃśe vikalpastvanyathā sphuṭaḥ || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)/Tantraloka Dyczkowski v01 12 - Chapter One, part 11#^pg439|p. 425]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf#page=439>))
 > Dyczkowski numbers this verse 1.252cd–253ab.
 >
-> Again, doubt arises because the two (possible) natures of the objects of reflection (between which it vacillates) have not been disclosed. It resides in the aspect ‘what? Otherwise, (this uncertainty would) clearly be (just) an alternative (vikalpa) (between two possibilities).
+> Again, doubt arises because the two (possible) natures of the objects of reflection (between which it vacillates) have not been disclosed. It resides in the aspect ‘what?’ Otherwise, (this uncertainty would) clearly be (just) an alternative (vikalpa) (between two possibilities).
 
 ## Viveka
 

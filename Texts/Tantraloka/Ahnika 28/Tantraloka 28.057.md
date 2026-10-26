@@ -27,7 +27,7 @@ bhagrahatithivelāṃśānuyāyi sarvāṅgasundaraṃ tu dinam || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#^pg50|p. 33]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=50>))
 >
-> When no (appropriate) conjunction with constellations or planets occurs, it is necessary to examine (what is the suitable) period of time (for worship) (veld)) (that takes place on (that) lunar day. It is that, its form clearly evident, that gives rise to the nature of the lunar day (as a parvan). (with 28.56cd–57ab)
+> When no (appropriate) conjunction with constellations or planets occurs, it is necessary to examine (what is the suitable) period of time (for worship) (velā) (that takes place on (that) lunar day. It is that, its form clearly evident, that gives rise to the nature of the lunar day (as a parvan). (with 28.56cd–57ab)
 >
 > (Finally,) if a day obtains on which the aspects (ama),), that is, constellation, planet, lunar day and the (auspicious period of) time, are (all) conducive, and (so) is beautiful in all its parts, one should then celebrate on that (day) the rite of worship which is most special. (with 28.57cd–58ab)
 

@@ -27,7 +27,7 @@ tathaiva bodhayedenaṃ kriyājñānasamādhibhiḥ || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#^pg368|p. 348]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=368>))
 >
-> ‘After having worshipped the pervasive Lord (vibhu), (the teacher) should perform the entire deposition (of Mantras) as before, (but in the reverse order, that is,) in the sequence of withdrawal, (beginning) from the feet and ending with the head. He should awaken that (corpse) in the same way by (ritual) action, knowledge, and deep meditation (samādhi). (with 24.11cd–12)
+> ‘After having worshipped the pervasive Lord (vibhu), (the teacher) should perform the entire deposition (of Mantras) as before, (but in the reverse order, that is,) in the sequence of withdrawal, (beginning) from the feet and ending with the head. He should awaken that (corpse) in the same way by (ritual) action, knowledge, and deep meditation (samādhi).’ (with 24.11cd–12)
 
 ## Viveka
 

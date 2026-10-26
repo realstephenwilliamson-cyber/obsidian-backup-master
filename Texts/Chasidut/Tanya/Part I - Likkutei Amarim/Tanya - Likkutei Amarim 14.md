@@ -43,14 +43,14 @@ Furthermore, habitude reigns supreme in any sphere and becomes second nature. Th
 [^5]: [[Isaiah 59#^59-2|Isaiah 59:2]].
 [^6]: [[Psalms 005#^5-12|Psalms 5:12]].
 [^7]: Referring to the two categories of *tzaddik* (above, ch. 10).
-[^8]: [[Berakhot 17#17a|*Berachot* 17a]].
+[^8]: *Berachot* [[Berakhot 17#17a|17a]].
 [^9]: [[Torah 38 - Korach#^18-7|Numbers 18:7]].
 [^10]: Cf. below, ch. 43.
 [^11]: The category of *tzaddik* is therefore “created,” i.e., given to a very few by Divine grace, and not easily attainable by one’s own efforts. Hence it is possible for Job to say, “You have created righteous men.” See beg. ch. 1.
 [^12]: Introduction 1b.
 [^13]: See above, beg. ch. 1.
-[^14]: [[Berakhot 5#5a|*Berachot* 5a]].
-[^15]: [[Shabbat 152#152a|*Shabbat* 152a]].
+[^14]: *Berachot* [[Berakhot 5#5a|5a]].
+[^15]: *Shabbat* [[Shabbat 152#152a|152a]].
 [^16]: In her menstrual period.
 [^17]: *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-135b|II:135b]].
 [^18]: [[Psalms 097#^97-12|Psalms 97:12]].

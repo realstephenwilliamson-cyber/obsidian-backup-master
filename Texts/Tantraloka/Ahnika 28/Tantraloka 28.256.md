@@ -29,7 +29,7 @@ uktaṃ śrīratnamālāyāṃ jñātvā kālamupasthitam || ^iast
 >
 > He who thinks that “I am one, he is another (person), and Śiva is (yet) another” cannot liberate (others,) nor is (he himself) liberated, for everything is the Self. Therefore, whatever Liñga is installed by one who knows reality is the best, and one should select that as a sacred place in order (to gain both) worldly benefits and liberation. (with 28.254cd–256ab)
 >
-> It is said in the venerable Ratnamālā: ‘having ascertained that the time (of death) has come, he who aspires to liberation should not fear. (Rather confidently and) free of doubts, he should abandon the body. Or else, beloved one, he may cheat death in holy places of pilgrimage and in sacred bathing sites. This is the path of one who is not a yogi. The yogi cheats (death) by means of Yoga. (Or else,) he who is not capable of cheating it (this way) should go to a sacred area (kṣetra) (or) place of pilgrimage (&yatana), and by (piously) settling in that sacred bathing site (tīrtha), it is certainly cheated successfully. (with 28.256cd–259ab)
+> It is said in the venerable Ratnamālā: ‘having ascertained that the time (of death) has come, he who aspires to liberation should not fear. (Rather confidently and) free of doubts, he should abandon the body. Or else, beloved one, he may cheat death in holy places of pilgrimage and in sacred bathing sites. This is the path of one who is not a yogi. The yogi cheats (death) by means of Yoga. (Or else,) he who is not capable of cheating it (this way) should go to a sacred area (kṣetra) (or) place of pilgrimage (āyatana), and by (piously) settling in that sacred bathing site (tīrtha), it is certainly cheated successfully.’ (with 28.256cd–259ab)
 
 ## Viveka
 

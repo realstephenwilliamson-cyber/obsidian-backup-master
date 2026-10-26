@@ -106,7 +106,7 @@ If, by contrast, one consecrates an animal that possesses a temporary blemish or
 [^6]: And thus the animal will be sold, rather than offered on the altar itself.
 [^7]: For as above, the sacrifices should be associated only with perfect and unblemished animals. Anything less is an insult to He to Whom they are offered.
 [^8]: See *Hilchot Ma'aseh HaKorbanot* 14:12; *Hilchot Nizirut* 9:8. This is a general principle: Whenever a person wants to take a vow, consecrate an article, or set it aside as holy, his statements must reflect the will of his heart.
-[^9]: Since he did not know of the prohibition involved, his act does not minimize the holiness of the sacrifices. Hence the consecration is effective. And since, he did not act intentionally. He is not liable for lashes. The Ra'avad takes issue with the Rambam on this point, based on his understanding of [[Temurah 17#17a|*Temurah* 17a]]. The commentaries elaborate on this difference of opinion.
+[^9]: Since he did not know of the prohibition involved, his act does not minimize the holiness of the sacrifices. Hence the consecration is effective. And since, he did not act intentionally. He is not liable for lashes. The Ra'avad takes issue with the Rambam on this point, based on his understanding of *Temurah* [[Temurah 17#17a|17a]]. The commentaries elaborate on this difference of opinion.
 [^10]: The *Kessef Mishneh* emphasizes that he must slaughter the animal for the sake of a sacrifice to be liable.
 [^11]: *Sefer HaMitzvot* (negative commandment 92) and *Sefer HaChinuch* (mitzvah 288) include this commandment among the 613 mitzvot of the Torah.
 [^12]: The verse speaks of animals with physical blemishes.
@@ -122,7 +122,7 @@ If, by contrast, one consecrates an animal that possesses a temporary blemish or
 [^22]: The examples the Rambam gives are permanent blemishes. Generally, temporary blemishes cannot be brought about by human acts. Moreover, even if a person does cause a temporary blemish, he does not violate this prohibition. There is a logical basis for this conclusion, because as long as the animal is not permanently blemished, it is not disqualified as an offering (Radbaz; *Minchat Chinuch*, mitzvah 287).
 [^23]: *Sefer HaMitzvot* (negative commandment 97) and *Sefer HaChinuch* (mitzvah 287) include this commandment among the 613 mitzvot of the Torah.
 [^24]: The Radbaz explains that this concept can be derived from the prooftext cited in Halachah 1: "unblemished to arouse favor." Implied is that when a sacrificial animal can arouse favor, i.e., when there is a Temple where it can be offered, it must be unblemished. If that is not the case, there is no penalty for causing such a blemish.  
-    The *Kessef Mishneh* and other commentaries have noted that the Rambam's ruling appears to be in contradiction with [[Avodah Zarah 13#13b|*Avodah Zarah* 13b]] which implies that there is no prohibition at all in causing a blemish in the present era, because there is no Temple where the sacrifices can be offered. The *Minchat Chinuch* (*loc. cit.*) and others explain that the difference can be resolved on the basis of the Rambam's ruling (*Hilchot Beit HaBechirah* 6:15) that if the altar is constructed on the Temple Mount, sacrifices may be brought even if the entire Temple has not been rebuilt.
+    The *Kessef Mishneh* and other commentaries have noted that the Rambam's ruling appears to be in contradiction with *Avodah Zarah* [[Avodah Zarah 13#13b|13b]] which implies that there is no prohibition at all in causing a blemish in the present era, because there is no Temple where the sacrifices can be offered. The *Minchat Chinuch* (*loc. cit.*) and others explain that the difference can be resolved on the basis of the Rambam's ruling (*Hilchot Beit HaBechirah* 6:15) that if the altar is constructed on the Temple Mount, sacrifices may be brought even if the entire Temple has not been rebuilt.
 [^25]: From Chapter 2, Halachah 15, it would appear that if the first merely brought about a temporary blemish, the second would be liable.
 [^26]: For the animal was already disqualified due to the actions of the first person. Although the second person is not liable for lashes, he is still considered to have violated a Scriptural prohibition.
 [^27]: Although it is forbidden to transfer the holiness of a sacrificial animal to another animal, once that act has been performed, the second animal is consecrated and the prohibitions associated with a sacrifice apply to it.
@@ -136,7 +136,7 @@ If, by contrast, one consecrates an animal that possesses a temporary blemish or
 [^35]: *Sefer HaMitzvot* (positive commandment 86) and *Sefer HaChinuch* (mitzvah 441) include this commandment among the 613 mitzvot of the Torah.
 [^36]: I.e., the new concept taught by the verse is not that one may slaughter ordinary animals and partake of their meat, for there is no need for a verse to teach us that. Instead, the new idea is that consecrated animals can be redeemed and then used as food. It is, however, forbidden to shear them and perform work with them even after they have been redeemed (*Hilchot Me'ilah, loc. cit.*).
 [^37]: *Hilchot Arachin, loc. cit.*
-[^38]: [[Bekhorot 37#37b|*Bechorot* 37b]] explains that the intent is not an animal from an impure species, but rather an animal from a kosher species that became disqualified because of a blemish, for there is a second verse (27:27) that speaks about evaluating non-kosher animals.
+[^38]: *Bechorot* [[Bekhorot 37#37b|37b]] explains that the intent is not an animal from an impure species, but rather an animal from a kosher species that became disqualified because of a blemish, for there is a second verse (27:27) that speaks about evaluating non-kosher animals.
 [^39]: To be evaluated and then it may be redeemed.
 [^40]: It had a permanent blemish before it was consecrated.
 [^41]: I.e., before it was redeemed.
@@ -151,7 +151,7 @@ If, by contrast, one consecrates an animal that possesses a temporary blemish or
 [^50]: For as long as it is making convulsive motions, it is considered alive and the process of evaluation can take place (*ibid.*:13).
 [^51]: See *Hilchot Temurah* 4:9.
 [^52]: But after it contracted a permanent blemish.
-[^53]: To be used for ordinary purposes by Rabbinic decree. Although according to Scriptural Law, its holiness has departed, our Sages forbade its use, lest many such animals be maintained and flocks of them raised ([[Bekhorot 15#15b|*Bechorot* 15b]]).
+[^53]: To be used for ordinary purposes by Rabbinic decree. Although according to Scriptural Law, its holiness has departed, our Sages forbade its use, lest many such animals be maintained and flocks of them raised (*Bechorot* [[Bekhorot 15#15b|15b]]).
 [^54]: It then receives holiness on its own accord, independent of its mother.
 [^55]: Since the mother was unfit to be sacrificed because of its blemish, its holiness is considered to be suspended. Because the holiness of the mother was suspended, the offspring is not considered to be consecrated to the complete extent. Hence it must be consecrated again.  
     (It must be noted that the commentaries have questioned this ruling, because in *Hilchot Ma'aseh HaKorbanot* 15:4, the Rambam writes that the holiness of consecrated animals is never suspended. It can, however, be explained that a suspension stemming from a permanent blemish is different, because the animal can never be fit for sacrifice again. See a parallel in *Hilchot Temurah* 3:4.)
@@ -163,4 +163,4 @@ If, by contrast, one consecrates an animal that possesses a temporary blemish or
 [^61]: For this represents disdain for consecrated property.
 [^62]: By the priest who received it after it was blemished.
 [^63]: One might think that since its value will be given to the Temple treasury, one would be allowed to sell it like normal meat to increase its price, as explained above.
-[^64]: In this instance, the priest cannot sell this animal in the market as private property. Hence he does not have the right to give this privilege to the Temple treasury (Rashi, [[Zevachim 75#75b|*Zevachim* 75b]]).
+[^64]: In this instance, the priest cannot sell this animal in the market as private property. Hence he does not have the right to give this privilege to the Temple treasury (Rashi, *Zevachim* [[Zevachim 75#75b|75b]]).

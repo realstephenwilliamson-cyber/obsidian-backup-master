@@ -27,7 +27,7 @@ duṣṭā hi durācārāḥ paśutulyāḥ parva ye na viduḥ || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#^pg51|p. 34]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=51>))
 >
-> (A rite celebrated during a parvan) is not only an optional one (kāmya), because it is said in the Bhairavakula and in the Ūrmiśāstra that its omission amounts to an infraction of the rules. (So there we read that) ‘those who do not know the parvans (and disregard them) are reprobates who, badly behaved, are like animals. (with 28.58cd–59)
+> (A rite celebrated during a parvan) is not only an optional one (kāmya), because it is said in the Bhairavakula and in the Ūrmiśāstra that its omission amounts to an infraction of the rules. (So there we read that) ‘those who do not know the parvans (and disregard them) are reprobates who, badly behaved, are like animals.’ (with 28.58cd–59)
 
 ## Viveka
 

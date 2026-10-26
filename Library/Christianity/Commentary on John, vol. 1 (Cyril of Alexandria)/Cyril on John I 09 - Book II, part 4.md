@@ -27,7 +27,7 @@ to bring into captivity every thought to the obedience of Christ, as it is writt
 
 But perchance the opposer of the truth will disbelieve, and will make what is said the food so to say of his own ill counsel saying: “If the Son were Hqual to the Father, ,, attributing to Him no Preeminence as of necessity, by »» reason of the inferiority of His Own Nature, what in- », duced Him so unconcealedly\* to say, that He could do » nothing of Himself but what He seeth the Futher do? For »» clearly (saith he) does He herem confess that He can do » nothing at all of Hinself, as knowing Him that is the » Better and superior to Himself. But do thou again refute »» our argument.”
 
-What then is to be said to these things by us? Bold unto blasphemy is the enemy of Christ and drunken with folly he perceives it not. For one mnst, most excellent sir, 2 Cor. x. 5
+What then is to be said to these things by us? Bold unto blasphemy is the enemy of Christ and drunken with folly he perceives it not. For one mnst, most excellent sir, [[2 Corinthians 10#^10-5|2 Cor. x. 5]]
 
 4 ἀκατα-
 
@@ -85,7 +85,7 @@ Next, what additional absurdity is herein beheld? Let them tell us who introduce
 
 opposite alternative. For they will affirm that Ife await-eth of necessity the Father working in order to learn by seeing. How then doth He know all things before they were ? or how wili He be true saying of Himself, Am I ὦ God at hand, saith the Lord, and not ὦ God afar off? Shall ought be hidden from Me? But how is it not absurd and unlearned to believe that the Spirit searcheth and know-eth the deep things of God, and to suppose that the Giver of the Spirit is in ignorance of the works of the Father and of His own Spirit, so as to come short in knowledge ? For will not the Son at length lose His being Wisdom, if He be wholly ignorant and receive by learning? for He will be a recipient of wisdom, rather than Wisdom Iié-self by Nature. For wisdom is that which maketh wise, not that which is formed to become wise, just as light too is that which enlighteneth, not that which is formed to reeeive light. Therefore is He again other than the wisdom which is in Him, and in the first place He is not Simple, but compounded of two: next besides this, He will also lose the being God, I mean God by Nature and Essentially. For the Divine Nature endureth not the being taught by any at all, nor the duplication of composition, secing It hath as Its Proper Good the being both Simple and All-Perfection. And if the Son be not God by Nature, how doth He both work and do things befitting God Alone? will they say that it suffices for Him unto God-befitting Power, only to sce the Father working, and by the mere sight does He attain to being by Nature God, and to being able to do such things as He That sheweth Him doth? There is therefore nothing to hinder, but that many others too should be manifested to us as gods, if the Father be willing to shew them too the mode of His works, and the excellence of the Father’s Essence will consist in learning σον. 19.
 
-Hist. > Sus. 42. Jer. xxiii. 23. Ib. xxxii. 27 LXX. 1 Cor. ii. 10.
+Hist. > Sus. 42. Jer. xxiii. 23. Ib. xxxii. 27 LXX. [[1 Corinthians 02#^2-10|1 Cor. ii. 10]].
 
 something over and above'. For He that was taught (as ! περιττὸν those say) is found to have mounted up to the dignity of the God-head by Nature, saying, \[ and My Father ave Infra x. One, He that hath seen Me hath seen the Father.
 
@@ -245,7 +245,7 @@ ao)
 
 Goto
 
-S. Luke vi. 36.
+S. [[Luke 06#^6-36|Luke vi. 36]].
 
 Infra xvii. 23.
 
@@ -313,7 +313,7 @@ Ss. Luke
 
 Vi. 0.
 
-Heb. i. 5.
+[[Hebrews 01#^1-5|Heb. i. 5]].
 
 the eye, but having nothing true: so as to the Son too, . the beauty of the Excellencies of God the Father decks Him around with bare names only, but is as it were applied from without like certain tints: yea rather the Divine Nature is outlined \* in Him, and appears in bare type.
 
@@ -393,7 +393,7 @@ For that the Only Begotten is also Life by Nature, and not a partaker of life fr
 
 He signifies by these words the time of the resurrection of all, when, as the Divine Paul wrote to us, The Lord Himself shall descend from heaven with a summons, with the voice of the Archangel, with the trump of God, to judge the world in righteousness, and render to every man according to his works. He leads therefore by repetition of the same things the most unlearned understanding of the Jews, to be able clearly to understand, that He will be a Worker of greater deeds than those in which the paralytic was concerned, and that He will be revealed as a Judge of the world: and by profitably contrasting the healing of one sick person with the resurrection of the dead, He shews that greater and more noteworthy is the operation that undoes® death and destroys the corruption of all, and rea- . sonably and of necessity says, in respect of the lesser mir-
 
-Supra p. 57 sqq. 1 Thess. iv. 16. Acts xvii. 31. ϑλυτικὴν
+Supra p. 57 sqq. [[1 Thessalonians 04#^4-16|1 Thess. iv. 16]]. [[Acts 17#^17-31|Acts xvii. 31]]. ϑλυτικὴν
 
 *[p. 273]* ^pg337
 

@@ -32,7 +32,7 @@ But if he should not<sup>168</sup> admit that such worth is natural, because the
 
 ᾽Επίνοια is the opposite of ἔννοια, ‘the intuitive idea.’ It means an “afterthought,” and, with the notion 167 of unnecessary addition, a ‘conceit.’ Here it is applied to conventional, or not purely natural difference. See Introduction to Book XIII. for the fuller meaning of ᾽Επίνοια.
 
-μὴ δέχοιτο. This use of the optative, where the subjunctive with ἐαν might have been expected, is one of 168 the few instances in Gregory’s Greek of declension from Classic usage; in the latter, when ει with the optative does denote subjective possibility, it is only when the condition is conceived of as of frequent repetition, e.g. 1 Peter iii. 14. The optative often in this Greek of the fourth century invades the province of the subjunctive.
+μὴ δέχοιτο. This use of the optative, where the subjunctive with ἐαν might have been expected, is one of 168 the few instances in Gregory’s Greek of declension from Classic usage; in the latter, when ει with the optative does denote subjective possibility, it is only when the condition is conceived of as of frequent repetition, e.g. [[1 Peter 03#^3-14|1 Peter iii. 14]]. The optative often in this Greek of the fourth century invades the province of the subjunctive.
 
 *[p. 148]* ^pg169
 
@@ -94,7 +94,7 @@ The first man, and the man born from him, received their being in a different wa
 
 are taught in those two subjects the oneness of their nature; their natural relation to each other expressed by those names indicates that nature; and so do Our Lord’s own words. For when He said, “I and My Father are one<sup>176</sup>,” He conveys by that confession of a Father exactly the truth that He Himself is not a first cause, at the same time that He asserts by His union with the Father their common nature; so that these words of His secure our faith from the taint of heretical error on either side: for Sabellius has no ground for his confusion of the individuality of each Person, when the Only-begotten has so distinctly marked Himself off from the Father in those words, “I and My Father;” and Arius finds no confirmation of his doctrine of the strangeness of either nature to the other, since this oneness of both cannot admit distinction in nature. For that which is signified in these words by the oneness of Father and Son is nothing else but what belongs to them on the score of their actual being; all the other moral excellences which are to be observed in them as over and above<sup>177</sup> their nature may without error be set down as shared in by all created beings. For instance, Our Lord is called merciful and pitiful by the prophet<sup>178</sup>, and He wills us to be and to be called the same; “Be ye therefore merciful<sup>179</sup>,” and “Blessed are the merciful<sup>180</sup>,” and many such passages. If, then, any one by diligence and attention has modelled himself according to the divine will, and become kind and pitiful and compassionate, or meek and lowly of heart, such as many of the saints are testified to have become in the pursuit of such excellences, does it follow that they are therefore one with God, or united to Him by virtue of any one of them? Not so. That which is not in every respect the same, cannot be ‘one’ with him whose nature thus varies from it. Accordingly, a man becomes ‘one’ with another, when in will, as our Lord says, they are ‘perfected into one<sup>181</sup>,’ this union of wills being added to the connexion of nature. So also the Father and Son are one, the community of nature and the community of will running, in them, into one. But if the Son had been joined in wish only to the Father, and divided from Him in His nature, how is it that we find Him testifying to His oneness with the Father, when all the time He was sundered from Him in the point most proper to Him of all?
 
-176 John x. 30. ὄσα ἐπιθεωρεῖται τῇ φύσει. 177 178 Psalm ciii. 8. 179 Luke vi. 36. 180 Matthew v. 7. John xvii. 23. “I in them, and thou in Me, that they may be perfected into one.” (R.V.)
+176 [[John 10#^10-30|John x. 30]]. ὄσα ἐπιθεωρεῖται τῇ φύσει. 177 178 Psalm ciii. 8. 179 [[Luke 06#^6-36|Luke vi. 36]]. 180 [[Matthew 05#^5-7|Matthew v. 7]]. [[John 17#^17-23|John xvii. 23]]. “I in them, and thou in Me, that they may be perfected into one.” (R.V.)
 
 *[p. 154]* ^pg175
 
@@ -158,7 +158,7 @@ How, too, will it be true that “all things were made by Him,” if it is true 
 
 But if a man keeps steadfast to the sound doctrine, and believes that the Son is of the nature which is divine without admixture, he will find everything in harmony with the other truths of his religion, viz., that Our Lord is the maker of all things, that He is King of the universe, set above it not by an arbitrary act of capricious power, but ruling by virtue of a superior nature; and besides this, he will find that the one First Cause<sup>187</sup>, as taught by us, is not divided by any unlikeness of substance into separate first causes, but one Godhead, one Cause, one Power over all things is believed in, that Godhead being discoverable by the harmony existing between these like beings, and leading on the mind through one like to another like, so that the Cause of all things, which is Our Lord, shines in our hearts by means of the Holy Spirit; (for it is impossible, as the Apostle says, that the Lord Jesus can be truly known, “except by the Holy Spirit<sup>188</sup>”); and then all the Cause beyond, which is God over all, is found through Our Lord, Who is the Cause of all things; nor, indeed, is it possible to gain an exact knowledge of the Archetypal Good, except as it appears in the (visible) image of that invisible. But then, after passing that summit of theology, I mean the God over all, we turn as it were back again in the racecourse of the mind, and speed through conjoint and kindred ideas from the Father, through the Son, to the Holy Ghost. For once having taken our stand on the comprehension of the Ungenerate Light, we perceive<sup>189</sup> that moment from that vantage ground the Light that streams from Him, like the ray co-existent with the sun, whose cause indeed is in the sun, but whose existence is synchronous with the sun, not being a later addition, but appearing at the first sight of the sun itself: or rather (for there is no necessity to be slaves to this similitude, and so give a handle to the critics to use against our teaching by reason of the inadequacy of our image), it will not be a ray of the sun that we shall perceive, but another sun blazing forth, as an offspring, out of the Ungenerate sun, and simultaneously with our conception of the First, and in every way like him, in beauty, in power, in lustre, in size, in brilliance, in all things at once that we observe in the sun. Then again, we see yet another such Light after the same fashion sundered by no interval of time from that offspring Light, and while shining forth by means of It yet tracing the source of its being to the Primal Light; itself, nevertheless, a Light shining in like manner as the one first conceived of, and itself a source of light and doing all that light does. There is, indeed,
 
-85 *One First Cause,* μοναρχίας. In a notable passage on the Greeks who came up to the Feast (John xii. 20), 187 Cyril (*Catena,* p. 307), uses the same word. “Such, seeing that some of the Jews’ customs did not greatly differ from their own, as far as related to the manner of sacrifice, and the belief in a *One first Cause*…came up with them to worship,” &c. Philo had already used the word so (*De Charit.*). Athanasius opposes it to πολυθεία (*Quæst. ad Antioch.* I.). 188 1 Cor. xii. 3. ἐνοήσαμεν: aorist of instantaneous action.
+85 *One First Cause,* μοναρχίας. In a notable passage on the Greeks who came up to the Feast ([[John 12#^12-20|John xii. 20]]), 187 Cyril (*Catena,* p. 307), uses the same word. “Such, seeing that some of the Jews’ customs did not greatly differ from their own, as far as related to the manner of sacrifice, and the belief in a *One first Cause*…came up with them to worship,” &c. Philo had already used the word so (*De Charit.*). Athanasius opposes it to πολυθεία (*Quæst. ad Antioch.* I.). 188 [[1 Corinthians 12#^12-3|1 Cor. xii. 3]]. ἐνοήσαμεν: aorist of instantaneous action.
 
 *[p. 160]* ^pg181
 
@@ -180,7 +180,7 @@ Putting a full stop at συναγείρομεν. Oehler otherwise.
 
 191
 
-Isaiah xxix. 13; Matthew xv. 8.
+Isaiah xxix. 13; [[Matthew 15#^15-8|Matthew xv. 8]].
 
 *[p. 162]* ^pg183
 
@@ -192,7 +192,7 @@ would have anything, however fair-seeming, if it leads a man by an inconsiderate
 
 What, too, does Paul, the follower of Christ, say? He, too, in his deep wisdom teaches the same. He, who declares that “everything is good, and nothing to be rejected, if it be received with thanks<sup>194</sup>,” on some occasions, because of the ‘conscience of the weak brother,’ puts some things back from the number which he has accepted, and commands us to decline them. “If,” he says, “meat make my brother to offend, I will eat no flesh while the world standeth<sup>195</sup>.” Now this is just what our follower of Paul did. He saw that the deceiving power of those who try to teach the inequality of the Persons was increased by this word Ungenerate, taken in their mischievous, heretical sense, and so he advised that, while we cherish in our souls a devout consciousness of this ungenerate Deity, we should not show any particular love for the actual word, which was the occasion of sin to the reprobate; for that the title of Father, if we follow out all that it implies, will suggest to us this meaning of not having been generated. For when we hear the word Father, we think at once of the Author of all beings; for if He had some further cause transcending Himself, He would not have been called thus of proper right Father; for that title would have had to be transferred higher, to this pre-
 
-193 *the Master’s mind*. “But whoso shall offend one of these little ones which believe in Me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.” Matth. xviii. 6; Mark ix. 42. 194 1 Tim. iv. 4 (R.V.) 1 Cor. viii. 13.
+193 *the Master’s mind*. “But whoso shall offend one of these little ones which believe in Me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.” [[Matthew 18#^18-6|Matth. xviii. 6]]; [[Mark 09#^9-42|Mark ix. 42]]. 194 [[1 Timothy 04#^4-4|1 Tim. iv. 4]] (R.V.) [[1 Corinthians 08#^8-13|1 Cor. viii. 13]].
 
 *[p. 163]* ^pg184
 
@@ -302,7 +302,7 @@ If, then, all that is the Father’s is in the Only-begotten, and He is in the F
 
 Let us now see the remaining results of his expertness in dealing with words; results, which he himself truly says, are at once ridiculous and lamentable. Truly one must laugh outright at what he says, if a deep lament for the error that steeps his soul were not more fitting. Whereas Father, as we teach, includes, according to one of its meanings, the idea of the Ungenerate, he transfers the full signification of the word Father to that of the Ungenerate, and declares “If Father is the same as Ungenerate, it is allowable for us to drop it, and use
 
-91 John xvi. 15. Oehler conjectures these words (῎Εχει ὁ πατὴρ) are to be repeated; and thus obtains a good 206 sense, which the common reading, ὁ πατὴρ εἶπον, does not give. Psalm cii. 27.
+91 [[John 16#^16-15|John xvi. 15]]. Oehler conjectures these words (῎Εχει ὁ πατὴρ) are to be repeated; and thus obtains a good 206 sense, which the common reading, ὁ πατὴρ εἶπον, does not give. Psalm cii. 27.
 
 *[p. 172]* ^pg193
 
@@ -360,7 +360,7 @@ Persons equally; the idea of the Son is inevitably suggested by that word. When 
 
 What occasion, then, had our foes for proposing for the damage of our Faith that trifling question, which they think unanswerable and, so, a proving of their own doctrine, and which they are continually asking, namely, ‘whether One who is can be generated.’ We may boldly answer them at once, that He who is in the Ungenerate *was* generated from Him, and *does*
 
-212 Heb. vii. 9, 10; Genesis xiv. 18. 213 John x. 38. 214 Heb. i. Heb. i. 3. (ὢν, not γενόμενος).
+212 [[Hebrews 07#^7-9|Heb. vii. 9]], [[Hebrews 07#^7-10|10]]; Genesis xiv. 18. 213 [[John 10#^10-38|John x. 38]]. 214 Heb. i. [[Hebrews 01#^1-3|Heb. i. 3]]. (ὢν, not γενόμενος).
 
 *[p. 178]* ^pg199
 
@@ -372,7 +372,7 @@ What harm, too, does our Faith suffer from our admitting those expressions of ou
 
 But this thinker in his exceeding subtlety contravenes this statement; he sunders the being of the Only-begotten from the Father’s nature, on the ground of one being Generated, the other Ungenerate; and although there are such a number of names which with reverence may be applied to the Deity, and all of them suitable to both Persons equally, he pays no attention to anyone of them, because these others indicate that in which Both participate; he fastens on the name Ungenerate, and that alone; and even of this he will not adopt the usual and approved meaning; he revolutionizes the conception of it, and cancels its common associations. Whatever can be the reason of this? For without some very strong one he would not wrest language away from its accepted meaning, and innovate<sup>218</sup> by changing the signification of words. He knows perfectly well that if their meaning was confined to the customary one he would have no power to subvert the sound doctrine; but that if such terms are perverted from their common and current acceptation, he will be able to spoil the doctrine along with the word. For instance (to come to the actual words which he misuses), if, according to the common thinking of our Faith he had allowed that God was to be called Ungen-
 
-216 John iv. 57. 217 John iii. 4. ξενίζει, intrans. N.T. Polyb. Lucian.
+216 John iv. 57. 217 [[John 03#^3-4|John iii. 4]]. ξενίζει, intrans. N.T. Polyb. Lucian.
 
 *[p. 179]* ^pg200
 
@@ -454,7 +454,7 @@ Now I broach these ridiculously childish suggestions as to children sitting in t
 
 Cf. Heb. xi. 1, of faith, ἐλπιζομένων ὑπόστασις πραγμάτων 230 231
 
-Luke vii. 32.
+[[Luke 07#^7-32|Luke vii. 32]].
 
 κατὰ διάμετρον ἀλλήλοις ἀντικειμένων, i.e. Contradictories in Logic.
 
@@ -492,7 +492,7 @@ But, perhaps, some one amongst even very religious people will pause over these 
 
 But a lover of controversial wrangling catches up the argument, on the ground that such a sequence would make Him Ungenerate from Ungenerate. Let him, however, cool his combative heart, and insist upon the proper expressions, for in confessing His ‘coming from the Father’ he has banished all ideas of Ungeneracy as regards the Only-begotten; and there
 
-100 Philip. ii. 9. ὄνομα τὸ ὑπὲρ πᾶν ὄνομα. 236 237 Psalm cii. 27. Adopting ὁ λόγος from the Venice Cod. (ἑνὶ πάντως ὁ λόγος συνενεχθήσεται). The verb cannot be im- 238 personal: and τις above, the only available nominative, does not suit the sense very well. Gregory constructs this scheme of Opposition *after the analogy* of Logical Opposition. Beginning is not so opposed to Beginning-less, as it is to Ending, because with the latter there is no half-way, i.e. no word of definition in common. Heb. vii. 3.
+100 [[Philippians 02#^2-9|Philip. ii. 9]]. ὄνομα τὸ ὑπὲρ πᾶν ὄνομα. 236 237 Psalm cii. 27. Adopting ὁ λόγος from the Venice Cod. (ἑνὶ πάντως ὁ λόγος συνενεχθήσεται). The verb cannot be im- 238 personal: and τις above, the only available nominative, does not suit the sense very well. Gregory constructs this scheme of Opposition *after the analogy* of Logical Opposition. Beginning is not so opposed to Beginning-less, as it is to Ending, because with the latter there is no half-way, i.e. no word of definition in common. [[Hebrews 07#^7-3|Heb. vii. 3]].
 
 *[p. 189]* ^pg210
 

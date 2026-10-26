@@ -11,6 +11,7 @@ second_reading: "Colossians 1:1-14"
 gospel: "Luke 10:25-37"
 first_reading_complementary: "Deuteronomy 30:9-14"
 psalm_complementary: "Psalm 25:1-10"
+psalm_bcp_complementary: "Psalm 25:1-9"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-10]]"
 cssclasses:

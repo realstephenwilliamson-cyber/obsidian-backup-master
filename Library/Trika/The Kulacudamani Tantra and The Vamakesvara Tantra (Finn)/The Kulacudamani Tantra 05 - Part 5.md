@@ -578,7 +578,7 @@ In this verse, by the mere mention of the eight (that begin with VaSinī), there
 
 12\. I BOW TO ŚRĪTRIPURĀ - THE TREASURE HOUSE OF THE FOUR
 
-ĀJNAĀS15 WHO DWELLS WITHIN KĀMA, PŪRṆA, THAT WHICH IS
+ĀJNAĀS[^160] WHO DWELLS WITHIN KĀMA, PŪRṆA, THAT WHICH IS
 
 CALLED BY THE LETTER "J" AND THE SRĪPĪṬHA:
 
@@ -586,11 +586,12 @@ CALLED BY THE LETTER "J" AND THE SRĪPĪṬHA:
 
 nothing but consciousness." (Tan. 1:132)
 
-According to precept, the essence of the Supreme Self being in the body etc. as one mass of consciousness, (She is) "SrīTripurā" (of the character that has been discussed and is to be discussed) designated by the word "mother"[^160] (and) in our doctrinal school by the celebrated title of ŚrīMahātripurasundarī. Due to her gracious ordinance[^162] (also abid-iñg constantly in the four pṛṭthas located in the quarters beginning with
+According to precept, the essence of the Supreme Self being in the body etc. as one mass of consciousness, (She is) "SrīTripurā" (of the character that has been discussed and is to be discussed) designated by the word "mother"[^161] (and) in our doctrinal school by the celebrated title of ŚrīMahātripurasundarī. Due to her gracious ordinance[^162] (also abid-iñg constantly in the four pṛṭthas located in the quarters beginning with
 
 [^158]: As a whole, the SrTeakra is the embodiment of the Goddess and tts component parts are her Limbs with the presiding deities serving as attendants to the Goddess. These eight deities are Vasint, Kāmeśvarī, Modinī, Vimalā, Aruṇā, Jayinī, Sarveś-vart and Kaulin.
 [^159]: The inner part of the rīcakra is composed of bindu and the inner triangle. The first of the "outer" individual cakras is the cakra of eight triangles (eight spokes) called Sarvarogahara.
-[^160]: The reference to the four "ājnās" ts to the four yugas which correlate with the four anctent pīthas. The Satya yuga = Uddłiyāna or the Śrīpṛṭha; Treta yuga = Pūrṇagiri; Dvāpara yuga = Jālandhar and kali yuga = Kāõmarūpa. 161\. Also having the meaning of "alphabet" as indicated above.
+[^160]: The reference to the four "ājnās" ts to the four yugas which correlate with the four anctent pīthas. The Satya yuga = Uddłiyāna or the Śrīpṛṭha; Treta yuga = Pūrṇagiri; Dvāpara yuga = Jālandhar and kali yuga = Kāõmarūpa.
+[^161]: Also having the meaning of "alphabet" as indicated above.
 [^162]: The Sanskrit reads "Ajna" which ts translated as "ordinance" since a play on the word seems to be intended here.
 
 *[p. 189]* ^pg185

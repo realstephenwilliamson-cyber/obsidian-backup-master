@@ -2422,9 +2422,9 @@ This index includes sources that are quoted (rather than merely cited or alluded
 - on [[Torah 07 - Vayetzei#^31-42|Genesis 31:42]] 227, 567
 - on [[Torah 18 - Mishpatim#^23-21|Exodus 23:21]] 389, 438–39
 - on [[Torah 48 - Shoftim#^18-13|Deuteronomy 18:13]] 426, 549
-- on BT [[Berakhot 3#3b|*Berakhot* 3b]] 105
-- on BT [[Berakhot 34#34b|*Berakhot* 34b]] 72
-- on BT [[Megillah 6#6a|*Megillah* 6a]] 447
+- on BT *Berakhot* [[Berakhot 3#3b|3b]] 105
+- on BT *Berakhot* [[Berakhot 34#34b|34b]] 72
+- on BT *Megillah* [[Megillah 6#6a|6a]] 447
 
 #### Saadia Gaon, *Sefer Emunot ve-De’ot*
 

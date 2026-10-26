@@ -18,7 +18,7 @@ The text is a fresh OCR of the 1859 print (Tesseract, English); check quotations
 
 “in the book of Psalms, The Lord said unto my Lord, Sit “ Thou on My right hand, until I place Thy enemies as a “footstool under Thy feet. David therefore calleth Him “ Lord: and how is He his son?” The beginning of understanding is faith: “for if, He says, ye will not believe, neither “can ye understand :” but the examination also of important truths tends unto salvation. Confessedly then Emanuel is both the Son and the Lord of David: but if any one would learn in what manner he is to understand this, he must certainly betake himself to the exact and blameless examination of His mystery, which was “ kept in silence indeed from the Rom. xvi. “ foundation of the world, but has been revealed in the latter 7\* “ages of the world.”
 
-The Pharisees however gave no answer to Christ’s question : and this they did in malice, or rather against their own selves, lest being pricked by the enquiry, the word of salvation should shine forth in them. For they did not wish to know the truth, but sinfully seizing for themselves the Lord’s inheritance, they denied the heir, or rather wickedly slew Him. For from love of rule, and greed of lucre, and for their base gains, they rejected the faith. For once indeed they even stoned Him with stones, and when asked the reason of their violence, they foolishly said, “For a good work we stone Thee not, but for John x. 33. “ blasphemy: because that Thou being a man makest Thyself “God.” And on another occasion they called Him a Samaritan, a drunkard, and a winebibber, and the carpenter’s son, meaning that He was an ignoble person, and born of ignoble parents. Nor verily canst thou wonder at this, when they ventured even to accuse His birth in the flesh of the holy virgin, saying, darkly and bitterly, “ We are not born of John viii. harlotry '.” a
+The Pharisees however gave no answer to Christ’s question : and this they did in malice, or rather against their own selves, lest being pricked by the enquiry, the word of salvation should shine forth in them. For they did not wish to know the truth, but sinfully seizing for themselves the Lord’s inheritance, they denied the heir, or rather wickedly slew Him. For from love of rule, and greed of lucre, and for their base gains, they rejected the faith. For once indeed they even stoned Him with stones, and when asked the reason of their violence, they foolishly said, “For a good work we stone Thee not, but for [[John 10#^10-33|John x. 33]]. “ blasphemy: because that Thou being a man makest Thyself “God.” And on another occasion they called Him a Samaritan, a drunkard, and a winebibber, and the carpenter’s son, meaning that He was an ignoble person, and born of ignoble parents. Nor verily canst thou wonder at this, when they ventured even to accuse His birth in the flesh of the holy virgin, saying, darkly and bitterly, “ We are not born of John viii. harlotry '.” a
 
 To remove therefore from them the habit of thinking and speaking of Him in a derogatory and contemptuous manner, Is. vii. 9.
 
@@ -44,7 +44,7 @@ still being God, though He had become flesh and in form like unto us. He is Davi
 
 It was the duty therefore, the duty, I say, of the chiefs of the
 
-Jews, as they prided themselves so much upon their knowledge of the divine laws, not to let the words of the holy prophets escape their notice. For the blessed Isaiah says, “ Be- Is. vii. 14. “ hold, a virgin shall conceive and bear a Son: and they shall “ call His name Emmanuel, which being interpreted is, God Mat. i. 23. “ with us.’ But the Word was with us as God, when He took our likeness, and despised not the low estate of human kind, in order that He might save all beneath the heaven. And it is written again, “ And thou Bethlehem, the house of Mic. v. 2. “ Ephrata, art small to be among the thousands of Judah: “out of thee shall He come forth for Me Who shall be the “\* Bead of Israel.” For Bethlehem was indeed small, and in comparison with the general populousness of the Jews, its inhabitants were very few; yet from it came forth Christ, as having been born in it of the holy virgin: not as one subject to the shadows of the law, but rather as ruler both over the law and the prophets.
+Jews, as they prided themselves so much upon their knowledge of the divine laws, not to let the words of the holy prophets escape their notice. For the blessed Isaiah says, “ Be- Is. vii. 14. “ hold, a virgin shall conceive and bear a Son: and they shall “ call His name Emmanuel, which being interpreted is, God [[Matthew 01#^1-23|Mat. i. 23]]. “ with us.’ But the Word was with us as God, when He took our likeness, and despised not the low estate of human kind, in order that He might save all beneath the heaven. And it is written again, “ And thou Bethlehem, the house of Mic. v. 2. “ Ephrata, art small to be among the thousands of Judah: “out of thee shall He come forth for Me Who shall be the “\* Bead of Israel.” For Bethlehem was indeed small, and in comparison with the general populousness of the Jews, its inhabitants were very few; yet from it came forth Christ, as having been born in it of the holy virgin: not as one subject to the shadows of the law, but rather as ruler both over the law and the prophets.
 
 We therefore follow neither the ignorance nor the newness
 
@@ -52,17 +52,17 @@ of the foolish talking of men, lest with them we fall into a re- . probate mind:
 
 of the holy apostles and evangelists, who every where shew that Christ the Saviour of all is at once both the Son and the Lord of David, in the manner we have already described.
 
-“‘ There is therefore one Lord, one faith, one baptism :” one Eph. iv. 5.
+“‘ There is therefore one Lord, one faith, one baptism :” one [[Ephesians 04#^4-5|Eph. iv. 5]].
 
 Lord has purchased us, “ not with corruptible things, with sil- <sup>1</sup>Pet. i. 18. “ ver or with gold, but with His own blood rather,” as it is written, in order that we may serve Him, and by and with Him the Father. For in Him and by Him we have an access
 
 (unto the Father).
 
-But, as I said, the rulers of the Jews had no regard whatsoever for the truth: and if any one would learn the reason of their obdurate dislike of instruction, he shall hear it from me. It was their determination not to depart from their inbred love of praise, nor to abandon their accursed lust of lucre. For the Saviour Himself once rebuked them, saying; “ How can ye John v. 44. 4N2
+But, as I said, the rulers of the Jews had no regard whatsoever for the truth: and if any one would learn the reason of their obdurate dislike of instruction, he shall hear it from me. It was their determination not to depart from their inbred love of praise, nor to abandon their accursed lust of lucre. For the Saviour Himself once rebuked them, saying; “ How can ye [[John 05#^5-44|John v. 44]]. 4N2
 
 *[p. 644]* ^pg284
 
-Mat. vi. 7.
+[[Matthew 06#^6-7|Mat. vi. 7]].
 
 \* believe, who receive glory one of another, and wish not for “ the glory that cometh from the one God?” For it was their duty to desire the glory which cometh from God, rather than that of men, which is but for a time, and like a dream vanish-eth away.
 
@@ -78,7 +78,7 @@ treasury : and He saw also a certain poor widow who cast twa B. al in thither tw
 
 a
 
-TO-DAY opens to us the sight of a spectacle of piety, with eéarpov. Christ as the exhibitor of the games, Who by just decree distributes the honours to those who are called unto the course. And the men whom these games bring forward and offer to our admiration, are neither trillers of barps, nor skilful wrestlers, nor again such as are accustomed to gain glory by the tuneful sounds of pipes; but such rather as the Saviour of all deigns to regard because He loves virtue: and of these the most honoured class, preferred before all others, are those who are kind and merciful, and of whom the Saviour Himself bears witness, saying, “ Blessed are the merciful:\* for upon them Mat. v. 7. “ shall be shewn mercy.” c
+TO-DAY opens to us the sight of a spectacle of piety, with eéarpov. Christ as the exhibitor of the games, Who by just decree distributes the honours to those who are called unto the course. And the men whom these games bring forward and offer to our admiration, are neither trillers of barps, nor skilful wrestlers, nor again such as are accustomed to gain glory by the tuneful sounds of pipes; but such rather as the Saviour of all deigns to regard because He loves virtue: and of these the most honoured class, preferred before all others, are those who are kind and merciful, and of whom the Saviour Himself bears witness, saying, “ Blessed are the merciful:\* for upon them [[Matthew 05#^5-7|Mat. v. 7]]. “ shall be shewn mercy.” c
 
 These Christ watches as they cast their offerings into the treasury: for so we have heard the holy evangelist here declaring unto us. But what mouth will suffice for those who would praise God over all! ‘The praise of the Lord, as Prov.xxv.2. “ Scripture saith, concealeth the word.” For it is impossible worthily to praise His surpassing gentleness. and the greatness of His incomparable love to mankind. He counts as offerings, and takes unto Himself, what we do for the brethren who are grieved by poverty. For He has said, “ Verily I say unto Mat. xxv. «¢ you, that whatsoever ye have done to one of these little ones, \*\*
 
@@ -116,13 +116,13 @@ y Explained in the margin thus: “ fruit which has passed the sea- “ Plantati
 
 *[p. 648]* ^pg288
 
-James i.27.
+[[James 01#^1-27|James i.27]].
 
 Ts. lii. 6.
 
 Deut. xv. 7.
 
-Luke vi.38.
+[[Luke 06#^6-38|Luke vi.38]].
 
 2 Cor.1x. 7.
 
@@ -130,7 +130,7 @@ Deut. xv.
 
 Io.
 
-Rom. xii. 8.
+[[Romans 12#^12-8|Rom. xii. 8]].
 
 wrote; “that a pure and undefiled sacrifice before God the “Father is this; to visit the fatherless and widows in their ‘‘ afflictions, and that a man should keep himself unspotted “ from the world.”
 
@@ -164,11 +164,11 @@ add. TovTo
 
 s.
 
-1 Cor. iv. 5.
+[[1 Corinthians 04#^4-5|1 Cor. iv. 5]].
 
-Col. ii. 3.
+[[Colossians 02#^2-3|Col. ii. 3]].
 
-2 Pet. iii.13.
+[[2 Peter 03#^3-13|2 Pet. iii.13]].
 
 SERMON CXXXIX.
 
@@ -198,7 +198,7 @@ They however understood not the meaning of what was said, but rather imagined th
 
 Mat. xvii.g.
 
-1 Cor. ii. 8.
+[[1 Corinthians 02#^2-8|1 Cor. ii. 8]].
 
 Mat. xxiv.
 
@@ -230,7 +230,7 @@ e An unconnected passage, referring to the famine in the days of Claudius Cesar,
 
 *[p. 654]* ^pg294
 
-2 Pet.iii.16.
+[[2 Peter 03#^3-16|2 Pet.iii.16]].
 
 Luke xxi.
 
@@ -262,9 +262,9 @@ THE throng of the Jews, together with their ruler, stood up against the glory of
 
 *[p. 656]* ^pg296
 
-Luke iv.32.
+[[Luke 04#^4-32|Luke iv.32]].
 
-Heb. vii. 19.
+[[Hebrews 07#^7-19|Heb. vii. 19]].
 
 Rom. 1. 29.
 
@@ -276,13 +276,13 @@ But let us see the course of the devil’s malice, and what was the result of hi
 
 *[p. 657]* ^pg297
 
-none, because their heart was steadfast, and their love to Christ immoveable ; but there was a place for him in the traitor. For the bitter malady of covetousness, which the blessed Paul says is “ the root of all evil,” had overpowered 1 Tim. vi. him. For once also when a woman had poured ointment '° upon the Saviour, he alone of all rebuked her, saying, ‘‘ To “‘ what purpose is this waste? For it could have been sold for “ much, and given to the poor.” But the wise Evangelist rose, so to speak, against his feigned words: for immediately he adds : “ But this he spake, not because he had forethought for the John xii. 6.
+none, because their heart was steadfast, and their love to Christ immoveable ; but there was a place for him in the traitor. For the bitter malady of covetousness, which the blessed Paul says is “ the root of all evil,” had overpowered 1 Tim. vi. him. For once also when a woman had poured ointment '° upon the Saviour, he alone of all rebuked her, saying, ‘‘ To “‘ what purpose is this waste? For it could have been sold for “ much, and given to the poor.” But the wise Evangelist rose, so to speak, against his feigned words: for immediately he adds : “ But this he spake, not because he had forethought for the [[John 12#^12-6|John xii. 6]].
 
-poor, but because he was a thief, and carried the purse, and « whatever fell therein, he was the bearer of.” And Satan, being crafty in working evil, whenever he would gain possession of any man’s soul, does not attack him by means of vice generally, but searches out rather that particular passion which has power over him, and by its means makes him his prey. As he knew therefore that he was covetous, he leads him to the Pharisees and captains; and to them he promised that he would betray his teacher. And they purchase the treachery, or rather their own destruction, with sacred money. Oh! what tears could suffice, either for him who betrayed Jesus for hire, or for those who hired him, and purchased with consecrated money a guilty murder! What darkness had come upon the soul of him who received the bribe! For a little silver, he lost heaven; he missed the crown of immortality, and the desirable honour of the apostleship, and to be numbered among the twelve, unto whom Christ somewhere said, ‘‘ Ye are the light Mat. v 14. “ of the world.” He cared not to be a light of the world: he forgot Christ, Who says, “Ye who have followed Me in My Mat. xix. “ temptations, when the Son of man shall sit upon the throne 28. “ of His glory. ye also shall sit upon twelve thrones, and judge « the twelve tribes of Israel.” But he wanted not to reign with Christ. What a confusion too of error blinded the mind of that covetous man! He delivered unto death Him Who is greater than death. Didst thou not know that Lazarus was raised on the fourth day from the grave, and that at His nod the widow's son also revived, and the daughter of the chief of the synagogue? Didst thou not hear Him say to the Jews concerning His body, “ Destroy this temple: and in three days I John ii. 19. « will raise it up again?” Didst thou forget His words, “ I am John xi. 25.
+poor, but because he was a thief, and carried the purse, and « whatever fell therein, he was the bearer of.” And Satan, being crafty in working evil, whenever he would gain possession of any man’s soul, does not attack him by means of vice generally, but searches out rather that particular passion which has power over him, and by its means makes him his prey. As he knew therefore that he was covetous, he leads him to the Pharisees and captains; and to them he promised that he would betray his teacher. And they purchase the treachery, or rather their own destruction, with sacred money. Oh! what tears could suffice, either for him who betrayed Jesus for hire, or for those who hired him, and purchased with consecrated money a guilty murder! What darkness had come upon the soul of him who received the bribe! For a little silver, he lost heaven; he missed the crown of immortality, and the desirable honour of the apostleship, and to be numbered among the twelve, unto whom Christ somewhere said, ‘‘ Ye are the light Mat. v 14. “ of the world.” He cared not to be a light of the world: he forgot Christ, Who says, “Ye who have followed Me in My Mat. xix. “ temptations, when the Son of man shall sit upon the throne 28. “ of His glory. ye also shall sit upon twelve thrones, and judge « the twelve tribes of Israel.” But he wanted not to reign with Christ. What a confusion too of error blinded the mind of that covetous man! He delivered unto death Him Who is greater than death. Didst thou not know that Lazarus was raised on the fourth day from the grave, and that at His nod the widow's son also revived, and the daughter of the chief of the synagogue? Didst thou not hear Him say to the Jews concerning His body, “ Destroy this temple: and in three days I John ii. 19. « will raise it up again?” Didst thou forget His words, “ I am [[John 11#^11-25|John xi. 25]].
 
 *[p. 658]* ^pg298
 
-1 Tim. vi. 6.
+[[1 Timothy 06#^6-6|1 Tim. vi. 6]].
 
 Zech. x. 3.
 
@@ -304,7 +304,7 @@ OF THE MYSTERY.
 
 Then came the day of unleavened bread, on which it was C, xxii. 7fitting for the passover to be sacrificed. And He sent Peter 16. and John, saying, Go and prepare for us the passover; that we may eat. And they said unto Him, Where wilt Thou that we prepare? And He said unto them, Behold, add. oo pawhen ye have entered into the city, there shall meet you a pid 2 ™ man carrying a pitcher of water: follow him unto the house into which he entereth. And say unto the master of «is hv BS. the house, The Teacher saith unto thee, Where is the guest- ob chamber, where I may eat the passover with My disciples ? And he will shew you a large upper room, provided with couches ; there make ready. And they went, and found as He said unto them; and they made ready the passover. cipjxe B. And when the time was come, He lay down to meat, and Gy” the twelve apostles with Him. And He said unto them, I om. sddera have destred a desire to eat this passover with you before a I suffer: for I say unto you, that henceforth I will not eat om. odnér: of it, until it is fulfilled in the kingdom of God. aa
 
-THE law by its shadows prefigured from of old the mystery of Christ: and of this He is Himself the witness where He said to the Jews, “If ye had believed Moses, ye would have be- John v. 46. “lieved also Me: for he wrote concerning Me.” For everywhere He is set forth, by means of shadows and types, both as slain for us, as the Lamb without blame and true; and as sanctifying us by His life-giving blood. And we further find the words of the holy prophets in complete accordance with those of most wise Moses. But when “ the fulness of time was come,” Gal. iv. 4. as Paul says, in which the Only-begotten Word of God was about to submit unto the emptying of Himself, and to endure the birth in the flesh of a woman, and subjection also unto the law, according to the measure that was fitting for human 4P2
+THE law by its shadows prefigured from of old the mystery of Christ: and of this He is Himself the witness where He said to the Jews, “If ye had believed Moses, ye would have be- [[John 05#^5-46|John v. 46]]. “lieved also Me: for he wrote concerning Me.” For everywhere He is set forth, by means of shadows and types, both as slain for us, as the Lamb without blame and true; and as sanctifying us by His life-giving blood. And we further find the words of the holy prophets in complete accordance with those of most wise Moses. But when “ the fulness of time was come,” [[Galatians 04#^4-4|Gal. iv. 4]]. as Paul says, in which the Only-begotten Word of God was about to submit unto the emptying of Himself, and to endure the birth in the flesh of a woman, and subjection also unto the law, according to the measure that was fitting for human 4P2
 
 *[p. 660]* ^pg300
 
@@ -326,7 +326,7 @@ into one form. In Is. xxxi. 5. the sense evidently is that of ‘ sparing,” as
 
 ciples? 2” «But why, some one perchance may say, did He ‘not plainly mention the man to those whom He sent? For ‘ He did not say, Having gone unto such and such a person, ‘ whoever it might be, there prepare for us at his house the ‘ passover : but simply g gave them a sign,—a man bearing a ‘ pitcher of water.’ To this then what do we reply? That lo! already Judas the traitor had promised the Jews to deliver Him unto them, and was continuing in His company watching for an opportunity ; and while still making profession of the love that was the duty of a disciple, he had admitted Satan into his heart, and was travailing with the crime of murder against our common Saviour Christ. He gives a sign therefore, to prevent him from learning who the man was, and running tu tell those who had hired ma “For there shall meet you, “ He says, a man carrying a pitcher of water.”
 
-Or even perchance He so speaks signifying something mystical and necessary thereby. For whither ‘the waters enter, even those of holy baptism, there lodgeth Christ. How, or in what manner? In that they free us from all impurity, and we are washed by them from the stains of sin, that we may also become a holy temple of God, and partakers of His divine nature, by participation of the Holy Ghost. In order therefore that Christ may rest and lodge in us, let us receive the saving waters, confessing moreover the faith that justifieth the wicked, and tnisenin us “aloft so as for us to be accounted “an upper room.”! For those in whom Christ dwells by faith have a mind raised aloft, unwilling to creep upon the dust, and refusing, so to speak, to be set upon the earth, and every where secking that which is exalted in virtue. For it is written, that “ the mighty ones of God are raised high above the earth.” Ps xlvii. 9. “ For here Uae have no abiding city, but seek that which is Heb. xiii. “ to come:” and while walking upon earth, their thoughts are “+ set upon those things which are above, and “ their dwelling is Phil. iii.20. “in heaven.”
+Or even perchance He so speaks signifying something mystical and necessary thereby. For whither ‘the waters enter, even those of holy baptism, there lodgeth Christ. How, or in what manner? In that they free us from all impurity, and we are washed by them from the stains of sin, that we may also become a holy temple of God, and partakers of His divine nature, by participation of the Holy Ghost. In order therefore that Christ may rest and lodge in us, let us receive the saving waters, confessing moreover the faith that justifieth the wicked, and tnisenin us “aloft so as for us to be accounted “an upper room.”! For those in whom Christ dwells by faith have a mind raised aloft, unwilling to creep upon the dust, and refusing, so to speak, to be set upon the earth, and every where secking that which is exalted in virtue. For it is written, that “ the mighty ones of God are raised high above the earth.” Ps xlvii. 9. “ For here Uae have no abiding city, but seek that which is Heb. xiii. “ to come:” and while walking upon earth, their thoughts are “+ set upon those things which are above, and “ their dwelling is [[Philippians 03#^3-20|Phil. iii.20]]. “in heaven.”
 
 i Mai’s Codex has dvdyetov, for substitutes dyyeiov. The reading which, contrary to the sense, he should be dvayeov.
 
@@ -348,9 +348,9 @@ As then I have already said that covetous disciple was seek- \_ ing an opportuni
 
 , and of our reigning together with Christ: and therefore He says, “I will no more draw near unto such a passover as “ this,” one namely that consisted in the typical eating,—for a lamb of the flock was slain to be the type of the true Lamb,—“until it is fulfilled in the kingdom of God :” that is, until the time has appeared in which the kingdom of heaven is preached. For this is fulfilled in us, who honour the worship that is superior to the law, even the true passover ; nor is it a lamb of the flock which sanctifies those who are in Christ, but Himself rather, being made a holy sacrifice for us, by the offering of bloodless oblations, and the mystical giving of thanks, in which we are blessed and quickened with life. For He became for us ‘the living bread that came down from heaven, and giveth Johnvi. 50. “ life unto the world :” by Whom and with Whom to God the Father be praise and dominion, with the Holy Ghost, for ever and ever, Amen.!
 
-k The Greek of this important passage is as follows; avrds dé pad-Rov ayiws lepoupyovpevos Sia THs puoticns evAoyias, Ka iy evdoyoupeda Kat (worototpeda. ‘Iepovpyéw is an apostolic word, occurring Rom. xv. 16, lepouvpyotvra ro evayyéXtov: and evAoyla, as I have before mentioned, was constantly applied in primitive times to the Holy Communion from <sup>1</sup>Cor. x. 16.
+k The Greek of this important passage is as follows; avrds dé pad-Rov ayiws lepoupyovpevos Sia THs puoticns evAoyias, Ka iy evdoyoupeda Kat (worototpeda. ‘Iepovpyéw is an apostolic word, occurring [[Romans 15#^15-16|Rom. xv. 16]], lepouvpyotvra ro evayyéXtov: and evAoyla, as I have before mentioned, was constantly applied in primitive times to the Holy Communion from <sup>1</sup>Cor. x. 16.
 
-1 Two passages of some length in Mai are not acknowledged by the Syriac. The first, p. 410, shows that “‘ the types, as was fitting, were ‘‘ ministered by servants, but when “the Lord of all came, the truth entered with Him: on which account the Jews err in still eating “ unleavened bread: for food com- \*‘mendeth us not to God: but \*\* Christians, by a spiritual service, “and a life of holiness, enter with “Christ the upper room, the hea- “venly Jerusalem.”’ The second, shewing that the sheaf of the first-fruits is a type of Christ, is from the De Adorat. vol. i. p. 611. Mai also gives as Cyril’s a few words evidently the Catenist’s own, quoting the fuller form of v.16. as it appears in Mat. xxvi. 29.
+1 Two passages of some length in Mai are not acknowledged by the Syriac. The first, p. 410, shows that “‘ the types, as was fitting, were ‘‘ ministered by servants, but when “the Lord of all came, the truth entered with Him: on which account the Jews err in still eating “ unleavened bread: for food com- \*‘mendeth us not to God: but \*\* Christians, by a spiritual service, “and a life of holiness, enter with “Christ the upper room, the hea- “venly Jerusalem.”’ The second, shewing that the sheaf of the first-fruits is a type of Christ, is from the De Adorat. vol. i. p. 611. Mai also gives as Cyril’s a few words evidently the Catenist’s own, quoting the fuller form of v.16. as it appears in [[Matthew 26#^26-29|Mat. xxvi. 29]].
 
 *[p. 664]* ^pg304
 
@@ -408,7 +408,7 @@ God the Father therefore giveth life to all things by the Son in the Holy Ghost:
 
 John i.t4.
 
-Heb. ii. 14.
+[[Hebrews 02#^2-14|Heb. ii. 14]].
 
 it can give life, because it is by nature life.
 
@@ -422,7 +422,7 @@ likeness, and clothed Himself in our flesh, that by raising it from the dead He 
 
 And do not disbelieve what I have said, but rather accept
 
-the word in faith, having gathered proofs thereof from a few examples. When you cast a piece of bread into wine or oil, or any other liquid, you find that it becomes charged with the quality of that particular thing. When iron is brought into contact with fire, it becomes full of its activity; and while it is by nature iron, it exerts the power of fire. And so the life-giving Word of God, having united Himself to His own flesh in a way known unto Himself, endowed it with the power of giving life. And of this He certifies us Himself, saying, “ Verily, I say unto you, he that believeth on Me hath ever- John vi.4;. “ lasting life. I am the bread of life.” And again, “I am the John vi.5r. “living bread, that came down from heaven; if a man eat of “ this bread, he shall live for ever: and the bread that \[ shall “ give is My flesh for the life of the world. Verily, I say unto “you, that if ye eat not the flesh of the Son of man, and © drink His blood, ye have no life in you. Whoso eateth My
+the word in faith, having gathered proofs thereof from a few examples. When you cast a piece of bread into wine or oil, or any other liquid, you find that it becomes charged with the quality of that particular thing. When iron is brought into contact with fire, it becomes full of its activity; and while it is by nature iron, it exerts the power of fire. And so the life-giving Word of God, having united Himself to His own flesh in a way known unto Himself, endowed it with the power of giving life. And of this He certifies us Himself, saying, “ Verily, I say unto you, he that believeth on Me hath ever- [[John 06#^6-4|John vi.4]];. “ lasting life. I am the bread of life.” And again, “I am the John vi.5r. “living bread, that came down from heaven; if a man eat of “ this bread, he shall live for ever: and the bread that \[ shall “ give is My flesh for the life of the world. Verily, I say unto “you, that if ye eat not the flesh of the Son of man, and © drink His blood, ye have no life in you. Whoso eateth My
 
 flesh, and drinketh My blood, hath eternal life, and I will
 
@@ -434,7 +434,7 @@ TXETIKTY.
 
 evroyia.
 
-John iii. 33.
+[[John 03#^3-33|John iii. 33]].
 
 as it were, one with Him, and abiding in Him, and possessing Him also in us.
 
@@ -444,7 +444,7 @@ It was fitiing therefore for Him to be in us both divinely by the Holy Ghost, an
 
 *[p. 669]* ^pg309
 
-“ How cau these things be?” he heard Christ in answer say, John iii. 9. “ Verily I say unto you, that we speak that which we know, “and testify that which we see, and ye receive not our testi- “mony. If I have spoken unto you the earthly things, and “ye believe not, how will ye believe if I tell you the heavenly “ things?” For how indeed can a man learn those things which transcend the powers of our mind and reason? Let therefore this our divine mystery be honoured by faith.
+“ How cau these things be?” he heard Christ in answer say, [[John 03#^3-9|John iii. 9]]. “ Verily I say unto you, that we speak that which we know, “and testify that which we see, and ye receive not our testi- “mony. If I have spoken unto you the earthly things, and “ye believe not, how will ye believe if I tell you the heavenly “ things?” For how indeed can a man learn those things which transcend the powers of our mind and reason? Let therefore this our divine mystery be honoured by faith.
 
 But Judas the traitor, who was eating with Him, was reproved in those words which Christ spake, “ But behold the “hand of him who betrayeth Me is with Me at the table.” For he imagined perchance in his great sensélessness, or rather as being filled with the haughtiness of the devil, that he could deceive Christ, though He be God. But, as I said, he was convicted of being altogether wicked, and hateful to God, and traitorous: and yet admission was deigned him to the table, and he was counted worthy of the divine gentleness even to the end: but thereby is his punishment made the more severe. For Christ has somewhere said of him by the Psalmist’s voice, “ That if an enemy had reproached Me, I had borne it: and Ps. lv. 12. “if he that hated Me had spoken against Me proud things, “Thad hid myself from him. But it was thou, My like in “soul, My neighbour and My acquaintance, who in My com- “pany hadst sweetened for Me meats, and we went to the “ house of the Lord in concord.” Woe therefore to him, according to the Saviour’s word! For He indeed, according to the good will of God the Father, gave Himself in our stead, that He might deliver us from all evil: but the man who betrayed into the hands of murderers the Saviour and Deliverer of all, will have for his inheritance the condemnation which is the devil’s fitting punishment. For his guilt was not against one such as we are, but against the Lord of all: by Whom and with Whom to God the Father be praise and dominion, with the Holy Ghost, for ever and ever, Amcn.
 
@@ -458,7 +458,7 @@ Ojoonect Stas Onnny S.
 
 add. dd5exa Ss.
 
-1 Thes. v. 6.
+[[1 Thessalonians 05#^5-6|1 Thes. v. 6]].
 
 SERMON CXLIII.
 
@@ -468,7 +468,7 @@ And there was also a strife among them, Which of them seems to be the great one.
 
 *[p. 671]* ^pg311
 
-Now it was from an unprofitable love of glory, the root of which is pride, that this vain and senseless ambition had, so to speak, shot up. For the very fact of wishing at all to be set over others, and to strive for this end, renders a man liable to be justly blamed : though, on the other hand, it is not absolutely destitute of that which may fitly be praised. For to be exalted in virtue is worthy of all estimation: but those who would attain to it must be of modest mind, and possess such humbleness of feeling as to abandon out of love to the brethren all idea of preeminence. And such the blessed Paul would also have us be, thus writing, “ Consider as regards your com- Rom sii. ‘ panions, that in honour they are better than you.” For so ‘™ to feel is highly worthy of the saints, and renders them glorious, and makes our piety unto God more worthy of honour: it tears the net of the devil’s malice, and breaks his manifold snares, and rescues us from the pitfalls of depravity: and finally, it perfects us in the likeness of Christ the Saviour of us all. For listen how He sets Himself before us as the pattern of a humble mind, and of a will not set on vainglory : for “ Learn, He says, of Me, Who am meek and lowly in heart.” Mat. xi. 29.
+Now it was from an unprofitable love of glory, the root of which is pride, that this vain and senseless ambition had, so to speak, shot up. For the very fact of wishing at all to be set over others, and to strive for this end, renders a man liable to be justly blamed : though, on the other hand, it is not absolutely destitute of that which may fitly be praised. For to be exalted in virtue is worthy of all estimation: but those who would attain to it must be of modest mind, and possess such humbleness of feeling as to abandon out of love to the brethren all idea of preeminence. And such the blessed Paul would also have us be, thus writing, “ Consider as regards your com- Rom sii. ‘ panions, that in honour they are better than you.” For so ‘™ to feel is highly worthy of the saints, and renders them glorious, and makes our piety unto God more worthy of honour: it tears the net of the devil’s malice, and breaks his manifold snares, and rescues us from the pitfalls of depravity: and finally, it perfects us in the likeness of Christ the Saviour of us all. For listen how He sets Himself before us as the pattern of a humble mind, and of a will not set on vainglory : for “ Learn, He says, of Me, Who am meek and lowly in heart.” [[Matthew 11#^11-29|Mat. xi. 29]].
 
 Here, however, in the passage which has just been read He says, ‘‘ For which is the chief, he that reclineth at table, “or he that serveth? Is not he that reclineth? But I am in “the midst of you as he tiat serveth.” And when Christ thus speaks, who can be so obdurate and unyielding as not to cast away all vaingloriousness, and banish from his mind the love of empty honour? For He Who is ministered unto by the whole creation of rational and holy beings; Who is lauded by the seraphim; Who is tended by the services of the universe; He Wha is the equal of God the Father in His throne and kingdom; taking a servant's place, washed the holy apostles’ feet. And in another way moreover He holds the post of servitude, by reason of the dispensation in the flesh. And of this the blessed Paul bears witness, where he writes; “ For I say Rom. xv.s. ‘ that Christ was a minister of the circumcision to fulfil the “‘ promises of the fathers; and the Gentiles shall praise God ‘for mercy.” He therefore Who is ministered unto became a minister ; and the Lord of glory made Himself poor, ‘ leaving « <sup>1</sup>Pet. ii 21. “us an example,” as it is written.
 
@@ -506,7 +506,7 @@ apy % Gs.
 
 Is. lv. 1.
 
-John vii.37.
+[[John 07#^7-37|John vii.37]].
 
 sift you as wheat;, but I have prayed for thee that thy faith fail not: and do thou also hereafter when converted strengthen thy brethren. And he said unto Him. Lord, LI am ready to go with thee both unto prison and to death. But He said, I tell thee, Peter, that the cock shall not crow to-day until thou hast thrice denied that Thou know-est Me.
 
@@ -520,7 +520,7 @@ their fidelity, and be partakers of His eternal glory, and wear a crown of surpa
 
 But lo! He also offers them a third assistance, as we read in
 
-the lessons before us. For He teaches us, that we must think humbly of ourselves, as being nothing, both as regards the nature of man and the readiness of our mind to fall away into sin, and as strengthened and being what we are only through Him and of Him. If therefore it is from Him that we borrow both our salvation, and our seeming to be something in virtue and piety, what reason have we for proud thoughts? For all we have is from Him, and of ourselves we have nothing. “ For <sup>1</sup>Cor. iv. 3. “ what hast thou that thou didst not receive? But if thou also \*\* receivedst it, why dost thou glory, as though thou didst not “ receive it?” So spake the very wise Paul: and further, the blessed David also at one time says, “ In God we shall make Ps. Ix. 12. “strength :” and at another again, “ Our God is our house of Ps. xlvi. 1. “ refuge and our strength.” And the prophet Jeremiah also has somewhere said, “O Lord, my strength and my house of Jer. xvi.19. “refuge, and my help in the days of trouble.” And the blessed Paul also may be brought forward, who says with great clearness, “I can do all things through Christ, Who strengtheneth Phil. iv. 13. “me.” Yea, Christ Himself also somewhere says unto us, “ Without Me ye can do nothing.” John xv. 5.
+the lessons before us. For He teaches us, that we must think humbly of ourselves, as being nothing, both as regards the nature of man and the readiness of our mind to fall away into sin, and as strengthened and being what we are only through Him and of Him. If therefore it is from Him that we borrow both our salvation, and our seeming to be something in virtue and piety, what reason have we for proud thoughts? For all we have is from Him, and of ourselves we have nothing. “ For <sup>1</sup>Cor. iv. 3. “ what hast thou that thou didst not receive? But if thou also \*\* receivedst it, why dost thou glory, as though thou didst not “ receive it?” So spake the very wise Paul: and further, the blessed David also at one time says, “ In God we shall make Ps. Ix. 12. “strength :” and at another again, “ Our God is our house of Ps. xlvi. 1. “ refuge and our strength.” And the prophet Jeremiah also has somewhere said, “O Lord, my strength and my house of Jer. xvi.19. “refuge, and my help in the days of trouble.” And the blessed Paul also may be brought forward, who says with great clearness, “I can do all things through Christ, Who strengtheneth [[Philippians 04#^4-13|Phil. iv. 13]]. “me.” Yea, Christ Himself also somewhere says unto us, “ Without Me ye can do nothing.” [[John 15#^15-5|John xv. 5]].
 
 Let us then glory not in ourselves, but rather in His gifts. And if this be the state of any one’s mind, what place can the desire of being set above other men find in him, when thus we are all both partakers of the same one grace, and also have the same Lord of hosts as the Giver both of our existence and of our ability to do well. To humble therefore our tendency to superciliousness, and to repress ambitious feelings, Christ shews that even he who seemed to be great is nothing and infirm. He therefore passes by the other disciples, and turns to him who is the foremost, and set at the head of the company, and says; “ that Satan hath many times desired to sift you as “ wheat :” that is, to search and try you, and expose you to intolerable blows. For it is Satan’s wont to attack men of more . than ordinary excellence, and, like some fierce and arrogant barbarian, he challenges to single combat those of chief repute in the ways of piety. So he challenged Job, but was defeated 4R2
 
@@ -528,7 +528,7 @@ Let us then glory not in ourselves, but rather in His gifts. And if this be the 
 
 Job xii. 24.
 
-Luke x. 19
+[[Luke 10#^10-19|Luke x. 19]]
 
 Jobn xviii.
 
@@ -562,7 +562,7 @@ xa) yap (om. yap B.)
 
 To mepl euod BS. ra rept éuov GT's.
 
-Heb. x. 31.
+[[Hebrews 10#^10-31|Heb. x. 31]].
 
 Deut.iv.24.
 

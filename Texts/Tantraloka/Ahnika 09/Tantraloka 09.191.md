@@ -29,7 +29,7 @@ kiṃcidrūpaviśiṣṭaṃ yat kartṛtvaṃ tatkathaṃ bhavet || ^iast
 >
 > The (generic) term ‘agency’ (kartṛtva) (that we find in the Mālinīvijayottara) implies ‘limited agency’. This (interpretation) is confirmed in the Mataṅgatantra and other (Tantras), where this Force is (explicitly) said to consist of limited (agency). (with 9.190cd–191ab)
 >
-> (vit) is generated (within it) from that (Force (of limited agency)). (with 9.191cd–192ab)
+> It is not possible for a (soul) devoid of consciousness (ajña) to possess the capacity to act, (even if its capacity to do so is) qualified (in this way) as limited (agency). Thus, a limited form of cognitive consciousness (vit) is generated (within it) from that (Force (of limited agency)). (with 9.191cd–192ab)
 
 ## Viveka
 

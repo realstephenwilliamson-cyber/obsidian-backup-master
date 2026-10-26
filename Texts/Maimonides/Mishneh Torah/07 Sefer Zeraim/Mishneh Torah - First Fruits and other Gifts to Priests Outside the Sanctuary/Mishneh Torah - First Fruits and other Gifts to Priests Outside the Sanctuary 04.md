@@ -114,8 +114,8 @@ They would travel for only two thirds of the day.[^62] When they arrived close t
 [^7]: For he taught all mankind faith [the Rambam's Commentary to the Mishnah (*loc. cit.*:4)].
 [^8]: I.e., all future converts are considered as Abraham's seed and thus have a share in the land "that God swore to [give] to your ancestors." Indeed, based on [[Ezekiel 47#^47-22|Ezekiel 47:22]], *Kapot Temarim* states that in the Messianic era, converts will be given a share of the Holy Land.
 [^9]: As related in Numbers, ch. 35, in addition to the six cities of refuge, the Levites were given 42 cities that were scattered throughout the entire land of *Eretz Yisrael*. Although the land was given them from the tribal inheritances of the other tribes, it is still appropriate for them to speak of the land which God gave them, because the gifts were given as a result of God's command (Radbaz). See also *Hilchot Ma'aser Sheni* 11:17.
-[^10]: He does not purchase the land on which the trees grow. Nevertheless, since he purchased two trees, our Sages ([[Bava Batra 81#81b|*Bava Batra* 81b]]; see *Hilchot Mechirah* 24:6) question whether or not he is given the right to the land around the trees. If, however, he purchases three trees, all agree that he has the right to the land.
-[^11]: [[Bava Batra 82#82a|*Bava Batra* 82a]] questions: Reciting the declaration is no more than reciting verses from the Torah. Even if he is not obligated to do so, what would be wrong with reciting these verses? In resolution, it explains that a) it appears that he is lying (because he is praising God for giving him land which in fact may not be his); or b) by bringing them as first fruits, he will prevent the *terumah* and the tithes from being separated from them.
+[^10]: He does not purchase the land on which the trees grow. Nevertheless, since he purchased two trees, our Sages (*Bava Batra* [[Bava Batra 81#81b|81b]]; see *Hilchot Mechirah* 24:6) question whether or not he is given the right to the land around the trees. If, however, he purchases three trees, all agree that he has the right to the land.
+[^11]: *Bava Batra* [[Bava Batra 82#82a|82a]] questions: Reciting the declaration is no more than reciting verses from the Torah. Even if he is not obligated to do so, what would be wrong with reciting these verses? In resolution, it explains that a) it appears that he is lying (because he is praising God for giving him land which in fact may not be his); or b) by bringing them as first fruits, he will prevent the *terumah* and the tithes from being separated from them.
 [^12]: I.e., before bringing them to the Temple Courtyard.
 [^13]: The consecration has a questionable status, because a person may not consecrate property that does not belong to him (*Hilchot Arachin VaCharamim* 6:16). And if the produce is first fruits, it does not belong to him.
 [^14]: For if the land does not belong to him, they are not considered as first fruits.
@@ -133,7 +133,7 @@ They would travel for only two thirds of the day.[^62] When they arrived close t
 [^26]: The husband inherits his wife's property. Thus now he owns both the land and the produce.
 [^27]: And ancestral property is returned to its original owner. See *Hilchot Shemitah VeYoval*, ch. 11.
 [^28]: For he is the owner of the land and the produce. Although he is required to return the land in the Jubilee year, that is a result of the Torah's decree and does not diminish the purchaser's ownership of the land.
-[^29]: Since the owner does not have the experience of having his land returned to him, he does not consider it a surety that it will be returned to him. In his mind, it is sold (Radbaz). The Rambam's source is [[Gittin 48#48a|*Gittin* 48a]]. Rashi interprets the passage differently.
+[^29]: Since the owner does not have the experience of having his land returned to him, he does not consider it a surety that it will be returned to him. In his mind, it is sold (Radbaz). The Rambam's source is *Gittin* [[Gittin 48#48a|48a]]. Rashi interprets the passage differently.
 [^30]: And he knows that the land will be returned. Accordingly, it is as if he purchased only the produce and not the land.
 [^31]: As stated in Halachah 6.
 [^32]: This reflects the Rambam's version of the Jerusalem Talmud (*Bikkurim* 1:5). The version in the standard published text is slightly different (Radbaz, *Kessef Mishneh*).
@@ -170,6 +170,6 @@ They would travel for only two thirds of the day.[^62] When they arrived close t
 [^63]: See Chapter 3, Halachot 7 and 9.
 [^64]: Because fresh produce is more attractive.
 [^65]: The Rambam's Commentary to the Mishnah (*loc. cit.*).
-[^66]: [[Kiddushin 33#33a|*Kiddushin* 33a]] notes that this is a great mark of respect for those who bring the first fruits. After all, artisans are not required to stand before Torah scholars and yet they would stand before the people who brought the first fruits.
+[^66]: *Kiddushin* [[Kiddushin 33#33a|33a]] notes that this is a great mark of respect for those who bring the first fruits. After all, artisans are not required to stand before Torah scholars and yet they would stand before the people who brought the first fruits.
 [^67]: See Chapter 3, Halachah 12.
 [^68]: See Chapter 3, Halachah 13.

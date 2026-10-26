@@ -20,18 +20,11 @@ nyasa: "ha: breath (*prāṇa*) · ṛ: right nostril (*nāsā*) · da: left foo
 ## Front
 
 - **Glyph:** हृद्
-- **Variation:** —
-- **Example:** —
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** —
-- **Gloss:** noun: ‘mind’ or ‘heart’
-- **Class (as printed):** —
-- **Note (no printed label):** Notice the virāma at the end which prevents the final ‘a’ from being pronounced.
-- **Grid:** a row above the seven rows (the stops, then य र ल व, then श ष स ह): ◌ृ ◌ॄ (small, over क and ख), अ, अः; in bold: ◌ृ, द, ह
-- **Example:** —
+> [!note]- Back
+> - **Gloss:** noun: ‘mind’ or ‘heart’
+> - **Note:** Notice the virāma at the end which prevents the final ‘a’ from being pronounced.
+> - <u>ृ</u> ॄ अ अः / क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ <u>द</u> ध न / प फ ब भ म / य र ल व / श ष स <u>ह</u>
 
 ## Register
 

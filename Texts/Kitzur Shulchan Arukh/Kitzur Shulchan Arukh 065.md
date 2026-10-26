@@ -103,7 +103,7 @@ A Jew may borrow from a gentile with interest with another Jew as an *areiv* und
 [^7]: To summarize: there are three requirements that enable the lender to derive benefit from the borrower while the money is yet on loan: 1) he must first receive permission from the borrower, 2) it must be a favor that the borrower would have done even if the lender had not lent him money, 3) it must be a favor that is not widely publicized.
 [^8]: *Deut*. 23: 20.
 [^9]: The Hebrew word דָבָר has the double meaning “thing” and also “word.”
-[^10]: [[Bava Metzia 75#75b|*Bava Metzia* 75b]].
+[^10]: *Bava Metzia* [[Bava Metzia 75#75b|75b]].
 [^11]: *Proverbs* 22: 7—The verse seems to imply that the borrower is obligated to heed the lender’s wishes.
 [^12]: *Kor* (pl. *korim*): a large measure of grain.
 [^13]: There is a great likelihood that the prices of the two grains will not stay the same, creating the possibility that the repayment will be more than the loan.

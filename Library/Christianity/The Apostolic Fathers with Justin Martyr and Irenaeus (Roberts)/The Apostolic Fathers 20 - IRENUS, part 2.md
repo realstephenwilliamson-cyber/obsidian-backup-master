@@ -36,7 +36,7 @@ Probably referring to Sige, the consort of Bythus.
 
 2816
 
-\[Comp. Acts xvi. 16.\] 2817
+\[Comp. [[Acts 16#^16-16|Acts xvi. 16]].\] 2817
 
 Literally, “the place of thy mightiness is in us.”
 
@@ -88,7 +88,7 @@ a public confession of their sins; but others of them are ashamed to do this, an
 
 1\. This Marcus<sup>2827</sup> then, declaring that he alone was the matrix and receptacle of the Sige of Colorbasus, inasmuch as he was only-begotten, has brought to the birth in some such way as follows that which was committed to him of the defective Enthymesis. He declares that the infinitely exalted Tetrad descended upon him from the invisible and indescribable places in the form of a woman (for the world could not have borne it coming in its male form), and expounded to him alone its own nature, and the origin of all things, which it had never before revealed to any one either of gods or men. This was done in the following terms: When first the unoriginated, inconceivable Father, who is without material substance,<sup>2828</sup> and is neither male nor female, willed to bring forth that which is ineffable to Him, and to endow with form that which is invisible, He opened His mouth, and sent forth the Word similar to Himself, who, standing near, showed Him what He Himself was, inasmuch as He had been manifested in the form of that which was invisible. Moreover, the pronunciation of His name took place as follows:—He spoke the first word of it, which was the beginning<sup>2829</sup> \[of all the rest\], and that utterance consisted of four letters. He added the second, and this also consisted of four letters. Next He uttered the third, and this again embraced ten letters. Finally, He pronounced the fourth, which was composed of twelve letters. Thus took place the
 
-2 Tim. iii. 6.
+[[2 Timothy 03#^3-6|2 Tim. iii. 6]].
 
 2826
 
@@ -110,7 +110,7 @@ enunciation of the whole name, consisting of thirty letters, and four distinct u
 
 2\. Those names of the elements which may be told, and are common, he has called Æons, and words, and roots, and seeds, and fulnesses, and fruits. He asserts that each of these, and all that is peculiar to every one of them, is to be understood as contained in the name Ecclesia. Of these elements, the last letter of the last one uttered its voice, and this sound<sup>2833</sup> going forth generated its own elements after the image of the \[other\] elements, by which he affirms, that both the things here below were arranged into the order they occupy, and those that preceded them were called into existence. He also maintains that the letter itself, the sound of which followed that sound below, was received up again by the syllable to which it belonged, in order to the completion of the whole, but that the sound remained below as if cast outside. But the element itself from which the letter with its special pronunciation descended to that below, he affirms to consist of thirty letters, while each of these letters, again, contains other letters in itself, by means of which the name of the letter is expressed. And thus, again, others are named by other letters, and others still by others, so that the multitude of letters swells out into infinitude. You may more clearly understand what I mean by the following example:—The word *Delta* contains five letters, viz., D, E, L, T, A: these letters again, are written by other letters,<sup>2834</sup> and others still by others. If, then, the entire composition of the word Delta \[when thus analyzed\] runs out into infinitude, letters continually generating other letters, and following one another in constant succession, how much vaster than that \[one\] word is the \[entire\] ocean of letters! And if even one letter be thus infinite, just consider the immensity of the letters in the entire name; out of which the Sige of Marcus has taught us the Propator is composed. For which reason the Father, knowing the incomprehensibleness of His own nature, assigned to
 
-337 The letters are here confounded with the Æons, which they represented. 2830 \[1 Cor. xiv. 16.\] 2831 Matt. xviii. 10. 2832 By this Achamoth is denoted, who was said to give rise to the material elements, after the image of the Divine. 2833 That is, their names are spelt by other letters.
+337 The letters are here confounded with the Æons, which they represented. 2830 \[[[1 Corinthians 14#^14-16|1 Cor. xiv. 16]].\] 2831 [[Matthew 18#^18-10|Matt. xviii. 10]]. 2832 By this Achamoth is denoted, who was said to give rise to the material elements, after the image of the Divine. 2833 That is, their names are spelt by other letters.
 
 *[p. 553]* ^pg593
 
@@ -156,7 +156,7 @@ Viz., ζ, ξ, ψ = δς, κς, πς.
 
 2841
 
-Matt. xvii. 7; Mark ix. 2.
+[[Matthew 17#^17-7|Matt. xvii. 7]]; [[Mark 09#^9-2|Mark ix. 2]].
 
 2842
 
@@ -240,7 +240,7 @@ There were, as Harvey observes, three extraneous characters introduced into the 
 
 —the three *episema* for 6, 90, and 900 respectively. The true alphabet, then, as employed to denote number, included eight units, eight tens, and eight hundreds.
 
-Or, according to the Greek text, “being as the way to the Father;” comp. John xiv. 6.
+Or, according to the Greek text, “being as the way to the Father;” comp. [[John 14#^14-6|John xiv. 6]].
 
 *[p. 558]* ^pg598
 
@@ -292,7 +292,7 @@ Referring to the last of the twelve Æons.
 
 2866
 
-Luke xv. 8.
+[[Luke 15#^15-8|Luke xv. 8]].
 
 2867
 
@@ -312,7 +312,7 @@ Massuet explains this and the following reference, by remarking that the ancient
 
 by the left hand they indicated all the numbers below a hundred, but by the right hand all above that sum.—Comp. Juvenal, *Sat.*, x. 249.
 
-Tit. iii. 10.
+[[Titus 03#^3-10|Tit. iii. 10]].
 
 2871
 
@@ -338,7 +338,7 @@ not waiting upon God, but occupied with mere worldly questions, then, “taking 
 
 1\. I wish also to explain to thee their theory as to the way in which the creation itself was formed through the mother by the Demiurge (as it were without his knowledge), after the image of things invisible. They maintain, then, that first of all the four elements, fire, water, earth, and air, were produced after the image of the primary Tetrad above, and that then, we add their operations, viz., heat, cold, dryness, and humidity, an exact likeness of the Ogdoad is presented. They next reckon up ten powers in the following manner:—There are seven globular bodies, which they also call heavens; then that globular body which contains these, which also they name the eighth heaven; and, in addition to these, the sun and moon. These, being ten in number, they declare to be types of the invisible Decad, which proceeded from Logos and Zoe. As to the Duodecad, it is indicated by the zodiacal circle, as it is called; for they affirm that the twelve signs do most manifestly shadow forth the Duodecad, the daughter of Anthropos and Ecclesia. And since the highest heaven, beating upon the very sphere \[of the seventh heaven\], has been linked with the most rapid precession of the whole system, as a check, and balancing that system with its own gravity, so that it completes the cycle from sign to sign in thirty years,—they say that this is an image of Horus, encircling their thirty-named mother.<sup>2877</sup> And then, again, as the moon travels through her allotted space of heaven in thirty days, they hold, that by these days she expresses the number of the thirty Æons. The sun also, who runs through his orbit in twelve months, and then returns to the same point in the circle, makes the Duodecad manifest by these twelve months; and the days, as being measured by twelve hours, are a type of the invisible Duodecad. Moreover, they declare that the hour, which is the twelfth part of the day, is composed<sup>2878</sup> of thirty parts, in order to set forth the image of the Triacontad. Also the circumference of the zodiacal circle itself contains three hundred and sixty degrees (for each of its signs comprises thirty); and thus also they affirm, that by means of this circle an image is preserved of that connection which exists between the twelve and the thirty. Still further, asserting that the earth is divided into twelve zones, and that in each zone it receives power from the heavens, according to the perpendicular \[position of the sun above it\], bringing forth productions
 
-Matt. xii. 43.
+[[Matthew 12#^12-43|Matt. xii. 43]].
 
 2876
 
@@ -378,7 +378,7 @@ of bitter and sweet. Moreover, they teach that the whole man contains the entire
 
 3\. Further, they declare that the arrangement made with respect to the ark in the Deluge, by means of which eight persons were saved,<sup>2885</sup> most clearly indicates the Ogdoad which brings salvation. David also shows forth the same, as holding the eighth place in point of age among his brethren.<sup>2886</sup> Moreover, that circumcision which took place on the eighth day,<sup>2887</sup> represented the circumcision of the Ogdoad above. In a word, whatever they find in the Scriptures capable of being referred to the number *eight*, they declare to fulfil the mystery of the Ogdoad. With respect, again, to the Decad, they maintain that it is indicated by those ten nations which God promised to Abraham for a possession.<sup>2888</sup> The arrangement also made by Sarah when, after ten years, she gave<sup>2889</sup> her handmaid Hagar to him, that by her he might have a son, showed the same thing. Moreover, the servant of Abraham who was sent to Rebekah, and presented her at the well with ten bracelets of
 
-See above, chap. xiv. 2. 2882 Or, rather, perhaps “curtains.” Ex. xxvi. 1. 2883 Ex. xxviii. 17. 2884 Gen. vi. 18; 1 Pet. iii. 20. 2885 1 Sam. xvi. 10. 2886 Gen. xvii. 12. 2887 Gen. xv. 19. 2888
+See above, chap. xiv. 2. 2882 Or, rather, perhaps “curtains.” Ex. xxvi. 1. 2883 Ex. xxviii. 17. 2884 Gen. vi. 18; [[1 Peter 03#^3-20|1 Pet. iii. 20]]. 2885 1 Sam. xvi. 10. 2886 Gen. xvii. 12. 2887 Gen. xv. 19. 2888
 
 *[p. 565]* ^pg605
 
@@ -408,7 +408,7 @@ Gen. xlii. 3.
 
 2894
 
-John xx. 24.
+[[John 20#^20-24|John xx. 24]].
 
 2895
 
@@ -472,7 +472,7 @@ Hos. iv. 1.
 
 2907
 
-Rom. iii. 11; Ps. xiv. 3.
+[[Romans 03#^3-11|Rom. iii. 11]]; Ps. xiv. 3.
 
 2908
 
@@ -500,19 +500,19 @@ is, and then I will tell thee what Beta is.” This they expound as meaning that
 
 London, 1843.\]
 
-Luke ii. 49.
+[[Luke 02#^2-49|Luke ii. 49]].
 
 2912
 
-Mark x. 17.
+[[Mark 10#^10-17|Mark x. 17]].
 
 2913
 
-Luke xviii. 18.
+[[Luke 18#^18-18|Luke xviii. 18]].
 
 2914
 
-Matt. xxi. 23.
+[[Matthew 21#^21-23|Matt. xxi. 23]].
 
 2915
 
@@ -520,11 +520,11 @@ Taken from some apocryphal writing.
 
 2916
 
-Luke xix. 42, loosely quoted.
+[[Luke 19#^19-42|Luke xix. 42]], loosely quoted.
 
 2917
 
-Matt. xi. 28.
+[[Matthew 11#^11-28|Matt. xi. 28]].
 
 2918
 
@@ -542,7 +542,7 @@ these things from the wise and prudent, and hast revealed them to babes. Even so
 
 2\. They maintain that those who have attained to perfect knowledge must of necessity be regenerated into that power which is above all. For it is otherwise impossible to find admittance within the Pleroma, since this \[regeneration\] it is which leads them down into the depths of Bythus. For the baptism instituted by the visible Jesus was for the remission of sins, but the redemption brought in by that Christ who descended upon Him, was for perfection; and they allege that the former is animal, but the latter spiritual. And the baptism of John was proclaimed with a view to repentance, but the redemption by Jesus<sup>2922</sup> was brought in for the sake of perfection. And to this He refers when He says, “And I have another baptism to be baptized with, and I hasten eagerly towards it.”<sup>2923</sup> Moreover, they affirm that the Lord added this redemption to the sons of Zebedee, when their mother asked that they might sit, the one on His right hand, and the other on His left, in His kingdom, saying, “Can ye be baptized with the baptism which I shall be baptized with?”<sup>2924</sup>
 
-Matt. xi. 25–27.
+[[Matthew 11#^11-25|Matt. xi. 25–27]].
 
 2920
 
@@ -554,11 +554,11 @@ The Latin reads “Christ.”
 
 2922
 
-Luke xii. 50. The text was probably thus corrupted by the heretics.
+[[Luke 12#^12-50|Luke xii. 50]]. The text was probably thus corrupted by the heretics.
 
 2923
 
-Mark x. 38.
+[[Mark 10#^10-38|Mark x. 38]].
 
 *[p. 569]* ^pg609
 
@@ -606,7 +606,7 @@ Ps. xxxiii. 6.
 
 2930
 
-John i. 3.
+[[John 01#^1-3|John i. 3]].
 
 2931
 
@@ -622,7 +622,7 @@ This word would perhaps be better cancelled.
 
 2\. Now this Simon of Samaria, from whom all sorts of heresies derive their origin, formed his sect out of the following materials:—Having redeemed from slavery at Tyre, a city of Phœnicia, a certain woman named Helena, he was in the habit of carrying her about with him, declaring that this woman was the first conception of his mind, the mother of all, by whom, in the beginning, he conceived in his mind \[the thought\] of forming angels and archangels. For this Ennœa leaping forth from him, and comprehending the will of her father, descended to the lower regions \[of space\], and generated angels and powers, by whom also he declared this world was formed. But after she had produced them, she was detained by them through motives of jealousy, because they were unwilling to be looked upon as the progeny of any other being. As to himself, they had no knowledge of him whatever; but his Ennœa was detained by those powers and angels who had been produced by her.
 
-348 Acts viii. 9–11. 2934 Acts viii. 20, 21, 23. 2935 Comp. Just. Mart., *Apol.*, i. 26. It is generally supposed that Simon Magus was thus confounded with the Sabine god, 2936 Semo Sancus; but see our note, *loc. cit.* \[And mine at end of the First Apology. Consult *Orelli’s Inscriptions* there noted.\]
+348 [[Acts 08#^8-9|Acts viii. 9–11]]. 2934 [[Acts 08#^8-20|Acts viii. 20]], [[Acts 08#^8-21|21]], [[Acts 08#^8-23|23]]. 2935 Comp. Just. Mart., *Apol.*, i. 26. It is generally supposed that Simon Magus was thus confounded with the Sabine god, 2936 Semo Sancus; but see our note, *loc. cit.* \[And mine at end of the First Apology. Consult *Orelli’s Inscriptions* there noted.\]
 
 *[PDF 613]* ^pg613
 
@@ -634,7 +634,7 @@ She suffered all kinds of contumely from them, so that she could not return upwa
 
 5\. The successor of this man was Menander, also a Samaritan by birth, and he, too, was a perfect adept in the practice of magic. He affirms that the primary Power continues unknown to all, but that he himself is the person who has been sent forth from the presence of the invisible beings as a saviour, for the deliverance of men. The world was made by angels, whom, like Simon, he maintains to have been produced by Ennœa. He gives, too, as he affirms, by means of that magic
 
-A lyric poet of Sicily, said to have been dealt with, as stated above, by Castor and Pollux. 2937 Matt. xviii. 12. 2938 1 Tim. vi. 20.
+A lyric poet of Sicily, said to have been dealt with, as stated above, by Castor and Pollux. 2937 [[Matthew 18#^18-12|Matt. xviii. 12]]. 2938 [[1 Timothy 06#^6-20|1 Tim. vi. 20]].
 
 *[p. 2941]* ^pg614
 
@@ -654,7 +654,7 @@ Gen. i. 26.
 
 2940
 
-\[1 Tim. iv. 3.\]
+\[[[1 Timothy 04#^4-3|1 Tim. iv. 3]].\]
 
 *[p. 2942]* ^pg615
 
@@ -702,7 +702,7 @@ with contempt, and that for this reason he was endowed with faculties, by means 
 
 4\. So unbridled is their madness, that they declare they have in their power all things which are irreligious and impious, and are at liberty to practise them; for they maintain that things are evil or good, simply in virtue of human opinion.<sup>2950</sup> They deem it necessary, therefore, that by means of transmigration from body to body, souls should have experience of every kind of life as well as every kind of action (unless, indeed, by a single incarnation, one may be able to prevent any need for others, by once for all, and with equal completeness, doing all those things which we dare not either speak or hear of, nay, which we must not even conceive in our thoughts, nor think credible, if any such thing is mooted among those persons who are our fellow-citizens), in order that, as their writings express it, their souls, having made trial of every kind of life, may, at their departure, not be wanting in any particular. It is necessary<sup>2951</sup> to insist upon this, lest, on account of some one thing being still wanting to their deliverance, they should be compelled once more to become incarnate.
 
-351 \[See cap. xxvii. 3.\] 2947 The text is here defective, but the above meaning seems to be indicated by Epiphanius. 2948 Rom. iii. 8. 2949 \[Isa. v. 20. Horne Tooke derives our word *Truth* from what any one *troweth*.\] 2950 The text here has greatly puzzled the editors. We follow the simple emendation proposed by Harvey.
+351 \[See cap. xxvii. 3.\] 2947 The text is here defective, but the above meaning seems to be indicated by Epiphanius. 2948 [[Romans 03#^3-8|Rom. iii. 8]]. 2949 \[Isa. v. 20. Horne Tooke derives our word *Truth* from what any one *troweth*.\] 2950 The text here has greatly puzzled the editors. We follow the simple emendation proposed by Harvey.
 
 *[PDF 618]* ^pg618
 
@@ -712,7 +712,7 @@ They affirm that for this reason Jesus spoke the following parable:—“Whilst 
 
 6\. Others of them employ outward marks, branding their disciples inside the lobe of the right ear. From among these also arose Marcellina, who came to Rome under \[the episcopate of\] Anicetus, and, holding these doctrines, she led multitudes astray. They style themselves Gnostics. They also possess images, some of them painted, and others formed from different kinds of material; while they maintain that a likeness of Christ was made by Pilate at that time when Jesus lived among them.<sup>2954</sup> They crown these images, and set them up along with the images of the philosophers of the world that is to say, with the images of Pythagoras, and Plato, and Aristotle, and the rest. They have also other modes of honouring these images, after the same manner of the Gentiles.
 
-Matt. v. 25, 26; Luke xii. 58, 59.
+[[Matthew 05#^5-25|Matt. v. 25]], [[Matthew 05#^5-26|26]]; [[Luke 12#^12-58|Luke xii. 58]], [[Luke 12#^12-59|59]].
 
 2952
 
@@ -748,7 +748,7 @@ We here follow the text as preserved by Hippolytus. The Latin has, “a certain 
 
 2956
 
-Rev. ii. 6.
+[[Revelation 02#^2-6|Rev. ii. 6]].
 
 *[PDF 620]* ^pg620
 
@@ -770,7 +770,7 @@ of Simon; and thus they destroy multitudes, wickedly disseminating their own doc
 
 2\. Others, again, following upon Basilides and Carpocrates, have introduced promiscuous intercourse and a plurality of wives, and are indifferent about eating meats sacrificed to idols, maintaining that God does not greatly regard such matters. But why continue? For it is an impracticable attempt to mention all those who, in one way or another, have fallen away from the truth.
 
-\[Rev. xii. 9.\] 2961
+\[[[Revelation 12#^12-9|Rev. xii. 9]].\] 2961
 
 \[The whole casuistical system of the Trent divines, *De Matrimonio*, proceeds on this principle: marriage is licensed evil.\]
 

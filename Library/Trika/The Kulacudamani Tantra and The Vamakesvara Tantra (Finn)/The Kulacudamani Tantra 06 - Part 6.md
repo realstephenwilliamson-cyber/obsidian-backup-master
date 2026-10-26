@@ -355,7 +355,7 @@ As has been said:
 
 "In the sixteen-spoked one - the great lotus..."
 
-The "also"261 refers to a lotus. By "perimeter" is meant a space with
+The "also"[^261] refers to a lotus. By "perimeter" is meant a space with
 
 straight lines.
 
@@ -363,7 +363,8 @@ With the intention of making it easy, this (drawing of the cakra) is retold in t
 
 [^258]: A "kalpa" = one day of Brahmā, or one thousand "yugas" which is a period of four thousand, three hundred and twenty million years.
 [^259]: I.e., a square.
-[^260]: There is a pun on the word "paryāya" as it can also mean "npevolution". Therefore, a revolution or ctrcele of petals. 261\. See Verse 58.
+[^260]: There is a pun on the word "paryāya" as it can also mean "npevolution". Therefore, a revolution or ctrcele of petals.
+[^261]: See Verse 58.
 
 *[p. 218]* ^pg214
 
@@ -432,15 +433,16 @@ less depending on their position in the cakra, the ereation element ts more or l
 
 *[p. 220]* ^pg216
 
-twelve fingers[^267] all around. The text says that one-third again is for the rest.[^269]
+twelve fingers[^267] all around. The text says that one-third again is for the rest.[^268]
 
 As they say:
 
-"On a sacrificially worthy spot of three hands, one hand is to be made into a ground with doors; the two lotuses (one of sixteen petals and the Vasu?69 petal one) take a hand and the pericarp is a third part."
+"On a sacrificially worthy spot of three hands, one hand is to be made into a ground with doors; the two lotuses (one of sixteen petals and the Vasu[^269] petal one) take a hand and the pericarp is a third part."
 
 By "equally with them" is meant that it is intended for the two (mentioned) in the text. As for "through the centre" of this field. divided into three hands, (even) before making the square, a division into twenty-four should be made because (otherwise) the mention of words such as "portion", "placing the seven threads from north to south", the "brahma thread" etc. is inappropriate and misleading as the ({understandiñg) of one is an extension of (the understanding) of another. As a result of doing this, everything fits together in the field of the pericarp which is divided into eight parts. And then within the surrounding two (large apportioned) parts are the two lotuses and the four portals. And so having placed a dot in the central spot, there follows the matter of the pericarp and the two lotuses with the arrangement of three circles, ending after that with the square. Afterwards
 
-[^267]: One "finger" is one-twenty-fourth of a hasta. 268\. Literally: "the others", t.e. circles and doors ete.. The result ts: Maṇdala p— ji = Portals a 7 w a | Lotuses i n Pericarp y w . 3 a- w z L B L | 1 hand 2 hand 3 hand
+[^267]: One "finger" is one-twenty-fourth of a hasta.
+[^268]: Literally: "the others", t.e. circles and doors ete.. The result ts: Maṇdala p— ji = Portals a 7 w a | Lotuses i n Pericarp y w . 3 a- w z L B L | 1 hand 2 hand 3 hand
 [^269]: 53 a 269. There are eight Vasus.
 
 *[p. 221]* ^pg217
@@ -523,13 +525,14 @@ the second and sixth threads, and by placing dots on the first; second, sixth an
 
 (That explanation) should be ignored.[^282]
 
-"It is Visvāvarta thinking that: 'Those few rare persons who are expert (because of the Śrīrasamahodadhi's wealth of secret and precious gems) in the spray of verses cast up (by that Tantra),[^283] they, released from the impurities arising from the dark cloud of uncertainties with respect to the VāmakesS-vara scripture,?8\* penetrate (to the heart) of difficult matters and will be of assistance to all' - who has inspired
+"It is Visvāvarta thinking that: 'Those few rare persons who are expert (because of the Śrīrasamahodadhi's wealth of secret and precious gems) in the spray of verses cast up (by that Tantra),[^283] they, released from the impurities arising from the dark cloud of uncertainties with respect to the VāmakesS-vara scripture,[^284] penetrate (to the heart) of difficult matters and will be of assistance to all' - who has inspired
 
 [^279]: I.e., about to be deseribed in the above Rasamahodadhi text on which Jayaratha is basting this bit of commentary. The text goes on to say that the result is the fourteen and ten-spoked cakras.
 [^280]: The Sanskrit reads "prathasūtrasya" corrected to "prathamasūtra- sya".
 [^281]: There are five arrows of Kāma, hence the fifth thread.
 [^282]: Jayaratha says that the cakra will not turn out tif one adds a finger to the centre point of the cakra, nor will it turn out by carrying the lines of the fifth and third threads above and below the eitreumference of the pericarp as ts done to the sides of those lines. He says there îs no textual basis for the second of these false recommendations, nor does the text tell one what to do about the actual meeting point at centre for the first line. (In fact, for the right proportions the meeting potnt is approximately one and a half fingers down from the central dot. Jayaratha seems to ignore this question in his commentary. )
-[^283]: The metaphor "spray" arises from the titte of the work whieh means the "great and sacred ocean of rasa". 284, If one can understand the Srírasamahodadhí, the Vāmakeśvarímata is also within one's ken. WIth this quotation Jayaratha dectares his competence to deal with the difficulties in both tests,
+[^283]: The metaphor "spray" arises from the titte of the work whieh means the "great and sacred ocean of rasa".
+[^284]: If one can understand the Srírasamahodadhí, the Vāmakeśvarímata is also within one's ken. WIth this quotation Jayaratha dectares his competence to deal with the difficulties in both tests,
 
 *[p. 227]* ^pg223
 
@@ -710,13 +713,13 @@ THIS IS THE EXCELLENT B7J4A OF VIMALĀ THAT IS TOLD TO YOU,
 
 OH GODDESS:
 
-71\. IT DESTROYS ALL SIN AND ALL ADVERSITIES.[^305] +
+71\. IT DESTROYS ALL SIN AND ALL ADVERSITIES.[^304] +
 
 "The one belonging to Vāyu" is "y". The Indra (bja) is "1" and the sixth vowel is "ū". Hence YLUM.
 
 THE LETTER "J" WITH TIME RAISED ABOVE AND BELOW THEM
 
-THE FIRE LETTER? 5
+THE FIRE LETTER[^305]
 
 72\. JOINED TO THE FOURTH VOWEL AND ADORNED WITH BINDU AND
 
@@ -727,7 +730,8 @@ NADA IS THE GLOWING BIJA OF ARUṆĀ INFATUATING ALL.
 knowledge.[^306]
 
 [^302]: It has already been mentioned that Aruṇā tis the deity in the fourth elass of letters that begins with "t". Therefore, to say "Aruṇã" is the same as mentioning the "t" elass of letters.
-[^303]: "Vāyu" is "wind, air" or the god of wind or atr. 304\. Extending to the notion of destroying the ego and the obstruetive concepts of the mind.
+[^303]: "Vāyu" is "wind, air" or the god of wind or atr.
+[^304]: Extending to the notion of destroying the ego and the obstruetive concepts of the mind.
 [^305]: 305, "Raised above" seems to be a reference to the faet that when written, the letter 'm" ts elevated above the letter "j" thus: T. "Underneath" will come the fire letter: A,
 [^306]: The reference is to the blja releasing the dawn of knowledge.
 

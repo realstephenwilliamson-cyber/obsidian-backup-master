@@ -27,7 +27,7 @@ yogināṃ yogasiddhyarthaṃ saṃjñeyaṃ paribhāṣyate || ^iast
 > [!source] Dyczkowski, vol. VI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)/Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#^pg468|p. 449]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 06.pdf#page=468>))
 >
-> (The scriptures) explain that Yogis have also termed what is commonly called waking ‘Corporeal’ (pindastha) in order to attain perfection in Yoga.
+> (The scriptures) explain that Yogis have also termed what is commonly called waking ‘Corporeal’ (piṇḍastha) in order to attain perfection in Yoga.
 
 ## Viveka
 

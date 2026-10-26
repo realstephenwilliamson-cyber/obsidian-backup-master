@@ -32,7 +32,7 @@ dhyeyodreko bhaved dhyātṛprahvībhāvavaśādyataḥ |
 >
 > Thus, (the realization of their) full (and perfect) nature is the result of (their) association with the abounding excellence (udreka) of that nature (which is their full, unconditioned being). This is because the exultation (udreka) of (the deity who is) the object of meditation is due to (the humble reverence) of the meditator who bows before it (prahvībhāva). (with 17.17cd–18ab)
 >
-> My teacher has said that the statement in the venerable Svacchandatantra that, ‘after having invoked (the deity), sacrificed and offered libation (to it)...? should be interpreted in the very same way. (with 17.18cd–19ab)
+> My teacher has said that the statement in the venerable Svacchandatantra that, ‘after having invoked (the deity), sacrificed and offered libation (to it)...’ should be interpreted in the very same way. (with 17.18cd–19ab)
 
 ## Viveka
 

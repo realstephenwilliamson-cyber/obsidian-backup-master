@@ -20,16 +20,13 @@ nyasa: "right fingers (*aṅguli*)"
 ## Front
 
 - **Glyph:** घ
-- **Variation:** —
 - **Example:** संघ
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘bi<u>g h</u>oney’
-- **Class (as printed):** 1 (guttural) · soft · aspirated
-- **Grid:** the five rows of stops; in bold: घ
-- **Example:** saṃgha (group)
+> [!note]- Back
+> - **Pronunciation:** As in ‘bi<u>g h</u>oney’
+> - **Class:** guttural · soft · aspirated
+> - क ख ग <u>घ</u> ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म
+> - **Example:** saṃgha (group)
 
 ## Register
 

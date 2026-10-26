@@ -28,7 +28,7 @@ Text: [[NRSVue Acts 10|NRSVue]] · [[Acts 10|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 10#^10-4|4]]:** *Lord*, see 9.5n. *Ascended as a memorial*, language frequently used of sacrifice ([[Torah 24 - Vayikra#^2-2|Lev 2.2]]; 5.12; [[Torah 25 - Tzav#^6-8|6.15]]; [[LXX Sirach 38#^38-11|Sir 38.11]]). ^10-4
 
-**[[NRSVue Acts 10#^10-9|9]]:** *Noon*, expected time to serve meals ([[Shabbat 10#10a|*b. Shabb.* 10a]]). ^10-9
+**[[NRSVue Acts 10#^10-9|9]]:** *Noon*, expected time to serve meals (*b. Shabb.* [[Shabbat 10#10a|10a]]). ^10-9
 
 **[[NRSVue Acts 10#^10-13|13–15]]:** *Voice*, the divine presence is heard, not seen; see 9.4,11. ^10-13
 

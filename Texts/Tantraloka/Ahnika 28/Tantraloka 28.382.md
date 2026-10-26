@@ -29,7 +29,7 @@ sa tvanugrahaśaktyā cedviddhastattanmayībhavet || ^iast
 >
 > If someone has entered (the gathering) by mistake, (but the collective consciousness) does not for that reason contract, (each member of the gathering) should (continue) to engage in his own common practice (samācāra) (that) commenced (before he entered), together with him. (with 28.381cd–382ab)
 >
-> If he is penetrated by the power of grace, he becomes (absorbed in the rite and) one with that, but if he is penetrated by the malevolent (power of the Lord) (vama),), he would criticize (the gathering), and after that he would (even) strike out at it (ghātayet) also. (with 28.382cd–383ab)
+> If he is penetrated by the power of grace, he becomes (absorbed in the rite and) one with that, but if he is penetrated by the malevolent (power of the Lord) (vāmā), he would criticize (the gathering), and after that he would (even) strike out at it (ghātayet) also. (with 28.382cd–383ab)
 
 ## Viveka
 

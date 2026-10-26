@@ -98,7 +98,7 @@ It appears to me that the second tithe that is separated in Babylonia and in Egy
 [^14]: According to Scriptural Law, there is no obligation to tithe them, because most people do not partake of them. Nevertheless since there are some who do partake of them, our Sages imposed this obligation.
 [^15]: And the mitzvah of tithing them is of Scriptural origin.  
     The Ra'avad differs with the Rambam, maintaining that the carobs of Tzalmona need not be tithed at all and that the obligation to tithe all trees is Rabbinic in origin. The Ra'avad and the *Kessef Mishneh* discuss these points at length.
-[^16]: Our Sages ([[Kiddushin 3#3a|*Kiddushin* 3a]]) explain the difference between vegetables and other crops. Unlike other crops for which the water from the rains suffice, vegetables require irrigation.
+[^16]: Our Sages (*Kiddushin* [[Kiddushin 3#3a|3a]]) explain the difference between vegetables and other crops. Unlike other crops for which the water from the rains suffice, vegetables require irrigation.
 [^17]: It is forbidden for a Jew to harvest produce on Rosh HaShanah. We are speaking about produce belonging to a Jew harvested by a gentile.
 [^18]: In contrast to the fruit mentioned in Halachah 4.
 [^19]: In contrast to the species mentioned in Halachah 8.
@@ -107,7 +107,7 @@ It appears to me that the second tithe that is separated in Babylonia and in Egy
 [^22]: Because with regard to trees, the fourth year does not start until the fifteenth of Shvat.
 [^23]: I.e., reached "the phase of tithing."
 [^24]: The Ra'avad has a different understanding of [[Rosh Hashanah 15#15a|Rosh HaShanah 15a]]-b, the source for the Rambam's ruling and differs on that basis. The Radbaz justifies the Rambam's understanding of that passage and hence his ruling here.
-[^25]: The Ra'avad notes that the Rambam's ruling appears to contradict [[Berakhot 36#36a|*Berachot* 36a]] which cites the position quoted by the Rambam in the name of the School of Shammai, while the School of Hillel considers it only as the fruits of a tree. The *Kessef Mishneh* justifies the Rambam's ruling, explaining that capers are considered as the fruits of a tree only with regard to the prohibitions of *kilayim* and *orlah*. With regard to the second tithe, by contrast, since there is no loss in observing both stringencies, we follow the stricter ruling.
+[^25]: The Ra'avad notes that the Rambam's ruling appears to contradict *Berachot* [[Berakhot 36#36a|36a]] which cites the position quoted by the Rambam in the name of the School of Shammai, while the School of Hillel considers it only as the fruits of a tree. The *Kessef Mishneh* justifies the Rambam's ruling, explaining that capers are considered as the fruits of a tree only with regard to the prohibitions of *kilayim* and *orlah*. With regard to the second tithe, by contrast, since there is no loss in observing both stringencies, we follow the stricter ruling.
 [^26]: Reaching one third of their growth.
 [^27]: Which as reflected in the continuation of the halachah will serve as both the second tithe and the tithe for the poor.
 [^28]: As is done with the second tithe.
@@ -134,7 +134,7 @@ It appears to me that the second tithe that is separated in Babylonia and in Egy
 [^48]: The Ra'avad questions the Rambam's ruling in this instance as well and again the Radbaz and the *Kessef Mishneh* justify the Rambam's approach.
 [^49]: For they reached a level of growth obligated them to be tithed at that time.
 [^50]: Since he intended to use the plants for vegetables, we do not say that the vegetables are entirely insignificant.
-[^51]: [[Rosh Hashanah 13#13b|*Rosh HaShanah* 13b]].
+[^51]: *Rosh HaShanah* [[Rosh Hashanah 13#13b|13b]].
 [^52]: As explained in Halachah 8.
 [^53]: I.e., the entire quantity of produce is tithed according to the laws governing the majority. For we assume that any individual fruit was separated from the majority.
 [^54]: The Ra'avad differs and maintains that the tithe for the poor should also be separated, for if it is not separated, the produce is *tevel*. Rav Yosef Korcus differs, explaining that the same logic could be used with regard to the first clause of the halachah, and that ruling is based on an explicit mishnah (*Makshirin* 2:11). This explanation provides us with a new definition of *tevel* - produce from which the separations have been made to the best of man's ability.

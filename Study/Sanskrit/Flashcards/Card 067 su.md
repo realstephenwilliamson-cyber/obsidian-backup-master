@@ -20,18 +20,15 @@ nyasa: "sa: semen (*śukra*) · u: right ear (*karṇa*)"
 ## Front
 
 - **Glyph:** सु
-- **Variation:** —
 - **Example:** सुख
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** As in ‘sukha’ (pleasure)
-- **Class (as printed):** short syllable
-- **root:** ‘to go/move’
-- **prefix:** ‘good’
-- **Grid:** a row of vowel signs (◌ा ◌ि ◌ी ◌ु ◌ू) above the five rows of stops + य र ल व + श ष स ह; in bold: ◌ु, स
-- **Example:** sukha (pleasure)
+> [!note]- Back
+> - **Pronunciation:** As in ‘sukha’ (pleasure)
+> - **root:** ‘to go/move’
+> - **prefix:** ‘good’
+> - **Class:** short syllable
+> - ा ि ी <u>ु</u> ू / क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / य र ल व / श ष <u>स</u> ह
+> - **Example:** sukha (pleasure)
 
 ## Register
 

@@ -27,7 +27,7 @@ aliases:
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#^pg412|p. 395]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=412>))
 >
-> 2) Having entered by means (of one) of the channels (of the disciple’s vital breath) and gathered together (the disciple’s) consciousness within the abode of the bulb (in the genital area) (kanda), rotating (it) vigorously with the flame (Śikhā)) (of the energies of the) five (organs of action) and the eight (of the five cognitive senses and three of the mind). (Then, thus) led (up to) the tip of the Trident (śñla) of Energies, he should conjoin it by means of (that) power anywhere to (any) Wheel (the disciple chooses). This is the Empowered Piercing (śāktavedha), which produces an immediate sign (pratyaya) (of its effectiveness). (with 29.257–258)
+> 2) Having entered by means (of one) of the channels (of the disciple’s vital breath) and gathered together (the disciple’s) consciousness within the abode of the bulb (in the genital area) (kanda), rotating (it) vigorously with the flame (śikhā) (of the energies of the) five (organs of action) and the eight (of the five cognitive senses and three of the mind). (Then, thus) led (up to) the tip of the Trident (śñla) of Energies, he should conjoin it by means of (that) power anywhere to (any) Wheel (the disciple chooses). This is the Empowered Piercing (śāktavedha), which produces an immediate sign (pratyaya) (of its effectiveness). (with 29.257–258)
 
 ## Viveka
 

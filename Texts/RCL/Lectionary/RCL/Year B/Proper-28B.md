@@ -10,6 +10,7 @@ second_reading: "Hebrews 10:11-14, (15-18), 19-25"
 gospel: "Mark 13:1-8"
 first_reading_complementary: "Daniel 12:1-3"
 psalm_complementary: "Psalm 16"
+psalm_bcp_complementary: "Psalm 16"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-28]]"
 cssclasses:

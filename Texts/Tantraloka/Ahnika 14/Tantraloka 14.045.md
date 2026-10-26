@@ -27,7 +27,7 @@ avikalpastathādyaiva jīvanmukto na saṃśayaḥ || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#^pg395|p. 373]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=395>))
 >
-> “It is said in the venerable Niśicāra: ‘those whose minds are free of thought (vikalpa) see that everything is pervaded by Bhairava’s radiant energy (tejas). He whose mind is yoked to thought (vikalpayukta) goes to Śiva (only) after the body drops, by the application (yoga) of outer initiation etc., by means of the conceptions that are the pledges (samaya) and right conduct (caryā) (to which the initiate adheres). But one who is free of thought is, without a doubt, free in this very life - today itself!” (with 14.42cd–45)
+> It is said in the venerable Niśicāra: ‘those whose minds are free of thought (vikalpa) see that everything is pervaded by Bhairava’s radiant energy (tejas). He whose mind is yoked to thought (vikalpayukta) goes to Śiva (only) after the body drops, by the application (yoga) of outer initiation etc., by means of the conceptions that are the pledges (samaya) and right conduct (caryā) (to which the initiate adheres). But one who is free of thought is, without a doubt, free in this very life - today itself!’ (with 14.42cd–45)
 
 ## Viveka
 

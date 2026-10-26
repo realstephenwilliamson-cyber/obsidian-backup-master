@@ -20,17 +20,13 @@ nyasa: "right nostril (*nāsā*), as ṛ"
 ## Front
 
 - **Glyph:** ◌ृ
-- **Variation:** —
 - **Example:** कृष्ण
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘macab<u>re</u>’
-- **Class (as printed):** 3 (cerebral) · short, soft · simple vowel
-- **Note (no printed label):** Abbreviation - used only after a consonant
-- **Grid:** only the row of vowel signs ृ ॄ ॢ; in bold: ृ
-- **Example:** kṛṣṇa (black)
+> [!note]- Back
+> - **Pronunciation:** As in ‘macab<u>re</u>’
+> - **Class:** cerebral · short, soft · simple vowel
+> - <u>ृ</u> ॄ ॢ
+> - **Example:** kṛṣṇa (black)
 
 ## Register
 

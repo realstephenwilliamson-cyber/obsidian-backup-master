@@ -18,11 +18,11 @@ be sent into outer darkness. But it is one and the same God, the Father of our L
 
 7\. And not alone by what has been stated, but also by the parable of the two sons, the younger of whom consumed his substance by living luxuriously with harlots, did the Lord teach one and the same Father, who did not even allow a kid to his elder son; but for him who had been lost,
 
-John v. 14.
+[[John 05#^5-14|John v. 14]].
 
 4381
 
-Matt. xxii. 7.
+[[Matthew 22#^22-7|Matt. xxii. 7]].
 
 4382
 
@@ -30,7 +30,7 @@ Ps. xxiv. 1.
 
 4383
 
-Rom. xiii. 1–7.
+[[Romans 13#^13-1|Rom. xiii. 1–7]].
 
 4384
 
@@ -42,15 +42,15 @@ first created; but others afterwards, and others during the intermediate period,
 
 8\. Then, in the case of the publican, who excelled the Pharisee in prayer, \[we find\] that it was not because he worshipped another Father that he received testimony from the Lord that he was justified rather \[than the other\]; but because with great humility, apart from all boasting and pride, he made confession to the same God.<sup>4388</sup> The parable of the two sons also: those who are sent into the vineyard, of whom one indeed opposed his father, but afterwards repented, when repentance profited him nothing; the other, however, promised to go, at once assuring his father, but he did not go (for “every man is a liar;”<sup>4389</sup> “to will is present with him, but he finds not means to perform”<sup>4390</sup>),—\[this parable, I say\], points out one and the same Father. Then, again, this truth was clearly shown forth by the parable of the fig-tree, of which the Lord says, “Behold, now these three years I come seeking fruit on this fig-tree, but I find none”<sup>4391</sup> (pointing onwards, by the prophets, to His advent, by whom He came from time to time, seeking the fruit of righteousness from them, which he did not find), and also by the circumstance that, for the reason already mentioned, the fig-tree should be hewn down. And, without using a parable, the Lord said to Jerusalem, “O Jerusalem, Jerusalem, thou that killest the prophets, and stonest those that are sent unto thee; how often would I have gathered thy children together, as a hen gathereth her chickens under her wings, and ye would not! Behold, your house shall be left unto you desolate.”<sup>4392</sup> For that which had been said in the parable, “Behold, for three years I come seeking fruit,” and in clear terms, again, \[where He says\], “How often would I have gathered thy children together,” shall be \[found\] a falsehood, if we do not understand His advent, which is \[announced\] by the prophets—if, in fact, He came to
 
-Luke xv. 11.
+[[Luke 15#^15-11|Luke xv. 11]].
 
 4386
 
-Matt. xx. 1, etc.
+[[Matthew 20#^20-1|Matt. xx. 1]], etc.
 
 4387
 
-Luke xviii. 10.
+[[Luke 18#^18-10|Luke xviii. 10]].
 
 4388
 
@@ -58,15 +58,15 @@ Ps. cxvi. 2.
 
 4389
 
-Rom. vii. 18.
+[[Romans 07#^7-18|Rom. vii. 18]].
 
 4390
 
-Luke xiii. 6.
+[[Luke 13#^13-6|Luke xiii. 6]].
 
 4391
 
-Luke xiii. 34; Matt. xxiii. 37.
+[[Luke 13#^13-34|Luke xiii. 34]]; [[Matthew 23#^23-37|Matt. xxiii. 37]].
 
 *[PDF 910]* ^pg910
 
@@ -76,7 +76,7 @@ them but once, and then for the first time. But since He who chose the patriarch
 
 1\. This expression \[of our Lord\], “How often would I have gathered thy children together, and thou wouldest not,”<sup>4394</sup> set forth the ancient law of human liberty, because God made man a free \[agent\] from the beginning, possessing his own power, even as he does his own soul, to obey the behests (*ad utendum sententia*) of God voluntarily, and not by compulsion of God. For there is no coercion with God, but a good will \[towards us\] is present with Him continually. And therefore does He give good counsel to all. And in man, as well as in angels, He has placed the power of choice (for angels are rational beings), so that those who had yielded obedience might justly possess what is good, given indeed by God, but preserved by themselves. On the other hand, they who have not obeyed shall, with justice, be not found in possession of the good, and shall receive condign punishment: for God did kindly bestow on them what was good; but they themselves did not diligently keep it, nor deem it something precious, but poured contempt upon His super-eminent goodness. Rejecting therefore the good, and as it were spuing it out, they shall all deservedly incur the just judgment of God, which also the Apostle Paul testifies in his Epistle to the Romans, where he says, “But dost thou despise the riches of His goodness, and patience, and long-suffering, being ignorant that the goodness of God leadeth thee to repentance? But according to thy hardness and impenitent heart, thou treasurest to thyself wrath against the day of wrath, and the revelation of the righteous judgment of God.” “But glory and honour,” he says, “to every one that doeth good.”<sup>4395</sup> God therefore has given that which is good, as the apostle tells us in this Epistle, and they who work it shall receive glory and honour, because they have done that which is good when they had
 
-519 Matt. viii. 11, 12. 4393 Matt. xxiii. 37. 4394
+519 [[Matthew 08#^8-11|Matt. viii. 11]], [[Matthew 08#^8-12|12]]. 4393 [[Matthew 23#^23-37|Matt. xxiii. 37]]. 4394
 
 *[PDF 911]* ^pg911
 
@@ -88,27 +88,27 @@ it in their power not to do it; but those who do it not shall receive the just j
 
 4\. No doubt, if any one is unwilling to follow the Gospel itself, it is in his power \[to reject it\], but it is not expedient. For it is in man’s power to disobey God, and to forfeit what is good; but \[such conduct\] brings no small amount of injury and mischief. And on this account Paul says, “All
 
-Matt. v. 16.
+[[Matthew 05#^5-16|Matt. v. 16]].
 
 4396
 
-Luke xxi. 34.
+[[Luke 21#^21-34|Luke xxi. 34]].
 
 4397
 
-Luke xii. 35, 36.
+[[Luke 12#^12-35|Luke xii. 35]], [[Luke 12#^12-36|36]].
 
 4398
 
-Luke xii. 47.
+[[Luke 12#^12-47|Luke xii. 47]].
 
 4399
 
-Luke vi. 46.
+[[Luke 06#^6-46|Luke vi. 46]].
 
 4400
 
-Luke xii. 45, 46; Matt. xxiv. 48–51.
+[[Luke 12#^12-45|Luke xii. 45]], [[Luke 12#^12-46|46]]; [[Matthew 24#^24-48|Matt. xxiv. 48–51]].
 
 4401
 
@@ -122,7 +122,7 @@ things are lawful to me, but all things are not expedient;”<sup>4403</sup> ref
 
 6\. Those, again, who maintain the opposite to these \[conclusions\], do themselves present the Lord as destitute of power, as if, forsooth, He were unable to accomplish what He willed; or, on
 
-520 1 Cor. vi. 12. 4403 1 Pet. ii. 16. 4404 Eph. iv. 25. 4405 Eph. iv. 29. 4406 1 Cor. vi. 11. 4407 Matt. ix. 29. 4408 Mark ix. 23. 4409 Matt. viii. 13. 4410 John iii. 36. 4411
+520 [[1 Corinthians 06#^6-12|1 Cor. vi. 12]]. 4403 [[1 Peter 02#^2-16|1 Pet. ii. 16]]. 4404 [[Ephesians 04#^4-25|Eph. iv. 25]]. 4405 [[Ephesians 04#^4-29|Eph. iv. 29]]. 4406 [[1 Corinthians 06#^6-11|1 Cor. vi. 11]]. 4407 [[Matthew 09#^9-29|Matt. ix. 29]]. 4408 [[Mark 09#^9-23|Mark ix. 23]]. 4409 [[Matthew 08#^8-13|Matt. viii. 13]]. 4410 [[John 03#^3-36|John iii. 36]]. 4411
 
 *[PDF 913]* ^pg913
 
@@ -130,7 +130,7 @@ the other hand, as being ignorant that they were by nature “material,” as th
 
 7\. On this account, too, did the Lord assert that the kingdom of heaven was the portion of “the violent;” and He says, “The violent take it by force;”<sup>4413</sup> that is, those who by strength and earnest striving are on the watch to snatch it away on the moment. On this account also Paul the Apostle says to the Corinthians, “Know ye not, that they who run in a racecourse, do all indeed run, but one receiveth the prize? So run, that ye may obtain. Every one also who engages in the contest is temperate in all things: now these men \[do it\] that they may obtain a corruptible crown, but we an incorruptible. But I so run, not as uncertainty; I fight, not as one beating the air; but I make my body livid, and bring it into subjection, lest by any means, when preaching to others, I may myself be rendered a castaway.”<sup>4414</sup> This able wrestler, therefore, exhorts us to the struggle for immortality, that we may be crowned, and may deem the crown precious, namely, that which is acquired by our struggle, but which does not encircle us of its own accord (*sed non ultro coalitam*). And the harder we strive, so much is it the more valuable; while so much the more valuable it is, so much the more should we esteem it. And indeed those things are not esteemed so highly which come spontaneously, as those which are reached by much anxious care. Since, then, this power has been conferred upon us, both the Lord has taught and the apostle has enjoined us the more to love God, that we may reach this \[prize\] for ourselves by striving after it. For otherwise, no doubt, this our good would be \[virtually\] irrational, because not the result of trial. Moreover, the faculty of seeing would not appear to be so desirable, unless we had known what a loss it were to be devoid of sight; and health, too, is rendered all the more estimable by an acquaintance with disease; light, also, by contrasting it
 
-Matt. xi. 12. 4413 1 Cor. ix. 24–27.
+[[Matthew 11#^11-12|Matt. xi. 12]]. 4413 [[1 Corinthians 09#^9-24|1 Cor. ix. 24–27]].
 
 *[PDF 914]* ^pg914
 
@@ -154,7 +154,7 @@ Jer. ii. 19.
 
 3\. With God there are simultaneously exhibited power, wisdom, and goodness. His power and goodness \[appear\] in this, that of His own will He called into being and fashioned things having no previous existence; His wisdom \[is shown\] in His having made created things parts of one harmonious and consistent whole; and those things which, through His super-eminent kindness, receive growth and a long period of existence, do reflect the glory of the uncreated One, of that God who bestows what is good ungrudgingly. For from the very fact of these things having been created, \[it follows\] that they are not uncreated; but by their continuing in being throughout a long course of ages, they shall receive a faculty of the Uncreated, through the gratuitous bestowal of eternal existence upon them by God. And thus in all things God has the pre-eminence, who alone is uncreated, the first of all things, and the primary cause of the existence of all, while all other things remain under God’s subjection. But being in subjection to God is continuance in immortality, and immortality is the glory of the uncreated One. By this arrangement, therefore, and these harmonies, and a sequence of this nature, man, a created and organized being, is rendered after the image and likeness of the uncreated God,—the Father planning everything well and giving His commands, the Son carrying these into execution and performing the work of creating, and the Spirit nourishing and increasing \[what is made\], but man making progress day by day, and ascending towards the perfect, that is, approximating to the uncreated One. For the Uncreated is perfect, that is, God. Now it was necessary that man should in the first instance be created; and having been created, should receive growth; and having received growth, should be strengthened; and having
 
-522 1 Cor. iii. 2. 4417 1 Cor. iii. 3.
+522 [[1 Corinthians 03#^3-2|1 Cor. iii. 2]]. 4417 [[1 Corinthians 03#^3-3|1 Cor. iii. 3]].
 
 *[PDF 916]* ^pg916
 
@@ -192,7 +192,7 @@ commissioned \[messengers\] to call people to the marriage, but they who did not
 
 1\. It is therefore one and the same God the Father who has prepared good things with Himself for those who desire His fellowship, and who remain in subjection to Him; and who has the eternal fire for the ringleader of the apostasy, the devil, and those who revolted with him, into which \[fire\]
 
-Matt. xxii. 3, etc.
+[[Matthew 22#^22-3|Matt. xxii. 3]], etc.
 
 4423
 
@@ -208,7 +208,7 @@ the Lord<sup>4425</sup> has declared those men shall be sent who have been set a
 
 But while men slept, the enemy came, and “sowed tares in the midst of the wheat, and went his way.”<sup>4432</sup> Hence we learn that this was the apostate angel and the enemy, because he was envious of God’s workmanship, and took in hand to render this \[workmanship\] an enmity with God. For this cause also God has banished from His presence him who did of his own accord stealthily sow
 
-Matt. xxv. 41.
+[[Matthew 25#^25-41|Matt. xxv. 41]].
 
 4425
 
@@ -216,23 +216,23 @@ Isa. xlv. 7.
 
 4426
 
-Matt. xxv. 32.
+[[Matthew 25#^25-32|Matt. xxv. 32]].
 
 4427
 
-Matt. xxv. 34.
+[[Matthew 25#^25-34|Matt. xxv. 34]].
 
 4428
 
-Matt. xxv. 41.
+[[Matthew 25#^25-41|Matt. xxv. 41]].
 
 4429
 
-Matt. xiii. 40–43.
+[[Matthew 13#^13-40|Matt. xiii. 40–43]].
 
 4430
 
-Matt. xiii. 34. \[Applicable to the origin of heresies.\]
+[[Matthew 13#^13-34|Matt. xiii. 34]]. \[Applicable to the origin of heresies.\]
 
 4431
 
@@ -256,7 +256,7 @@ Gen. iii. 15.
 
 4435
 
-Matt. xiii. 38.
+[[Matthew 13#^13-38|Matt. xiii. 38]].
 
 4436
 
@@ -280,15 +280,15 @@ Ps. lviii. 3, 4.
 
 4440
 
-Matt. xxiii. 33.
+[[Matthew 23#^23-33|Matt. xxiii. 33]].
 
 4441
 
-Matt. xvi. 6.
+[[Matthew 16#^16-6|Matt. xvi. 6]].
 
 4442
 
-Luke xiii. 32.
+[[Luke 13#^13-32|Luke xiii. 32]].
 
 4443
 
@@ -316,7 +316,7 @@ and cease from evil, they should have power to become the sons of God, and to re
 
 In the four preceding books, my very dear friend, which I put forth to thee, all the heretics have been exposed, and their doctrines brought to light, and these men refuted who have devised irreligious opinions. \[I have accomplished this by adducing\] something from the doctrine peculiar to each of these men, which they have left in their writings, as well as by using arguments of a more general
 
-526 Matt. xxv. 41, Matt. xiii. 38.
+526 [[Matthew 25#^25-41|Matt. xxv. 41]], [[Matthew 13#^13-38|Matt. xiii. 38]].
 
 *[PDF 923]* ^pg923
 
@@ -340,7 +340,7 @@ times known beforehand, \[the blessings of salvation\] according to the ministra
 
 3\. Vain also are the Ebionites, who do not receive by faith into their soul the union of God and man, but who remain in the old leaven of \[the natural\] birth, and who do not choose to understand
 
-“Initium facturæ,” which Grabe thinks should be thus translated with reference to Jas. i. 18.
+“Initium facturæ,” which Grabe thinks should be thus translated with reference to [[James 01#^1-18|Jas. i. 18]].
 
 4451
 
@@ -354,7 +354,7 @@ that the Holy Ghost came upon Mary, and the power of the Most High did overshado
 
 1\. And vain likewise are those who say that God came to those things which did not belong to Him, as if covetous of another’s property; in order that He might deliver up that man who had been created by another, to that God who had neither made nor formed anything, but who also was deprived from the beginning of His own proper formation of men. The advent, therefore, of Him whom these men represent as coming to the things of others, was not righteous; nor did He truly redeem us by His own blood, if He did not really become man, restoring to His own handiwork what was said \[of it\] in the beginning, that man was made after the image and likeness of God; not snatching away by stratagem the property of another, but taking possession of His own in a righteous and gracious manner. As far as concerned the apostasy, indeed, He redeems us righteously from it
 
-528 Luke i. 35. 4453 In allusion to the mixture of water in the eucharistic cup, as practised in these primitive times. The Ebionites and others 4454 used to consecrate the element of water alone. 1 Cor. xv. 22. 4455 Viz., the Son and the Spirit. 4456
+528 [[Luke 01#^1-35|Luke i. 35]]. 4453 In allusion to the mixture of water in the eucharistic cup, as practised in these primitive times. The Ebionites and others 4454 used to consecrate the element of water alone. [[1 Corinthians 15#^15-22|1 Cor. xv. 22]]. 4455 Viz., the Son and the Spirit. 4456
 
 *[PDF 926]* ^pg926
 
@@ -364,7 +364,7 @@ by His own blood; but as regards us who have been redeemed, \[He does this\] gra
 
 3\. When, therefore, the mingled cup and the manufactured bread receives the Word of God, and the Eucharist of the blood and the body of Christ is made,<sup>4462</sup> from which things the substance of our flesh is increased and supported, how can they affirm that the flesh is incapable of receiving the gift of God, which is life eternal, which \[flesh\] is nourished from the body and blood of the Lord, and is a member of Him?—even as the blessed Paul declares in his Epistle to the Ephesians, that “we are members of His body, of His flesh, and of His bones.”<sup>4463</sup> He does not speak these words of some spiritual and invisible man, for a spirit has not bones nor flesh;<sup>4464</sup> but \[he refers to\] that dispensation \[by which the Lord became\] an actual man, consisting of flesh, and nerves, and bones,—that \[flesh\] which is nourished by the cup which is His blood, and receives increase from the bread which is His body. And just as a cutting from the vine planted in the ground fructifies in its season, or as a corn of wheat falling into the earth and becoming decomposed, rises with manifold increase by the Spirit of God, who contains all things, and then, through the wisdom of God, serves for the use of men, and having received the Word of God, becomes the Eucharist, which is the body
 
-1\. Cor. x. 16. 4458 Col. i. 14. 4459 Matt. v. 45. 4460 \[Again, the carefully asserts that the *bread* is the *body*, and the *wine* (cup) is the *blood*. The elements are sanctified, not 4461 changed materially.\] The Greek text, of which a considerable portion remains here, would give, “and the Eucharist becomes the body of Christ.” 4462 Eph. v. 30. 4463
+1\. Cor. x. 16. 4458 [[Colossians 01#^1-14|Col. i. 14]]. 4459 [[Matthew 05#^5-45|Matt. v. 45]]. 4460 \[Again, the carefully asserts that the *bread* is the *body*, and the *wine* (cup) is the *blood*. The elements are sanctified, not 4461 changed materially.\] The Greek text, of which a considerable portion remains here, would give, “and the Eucharist becomes the body of Christ.” 4462 [[Ephesians 05#^5-30|Eph. v. 30]]. 4463
 
 
 *[p. 4468]* ^pg927
@@ -381,11 +381,11 @@ just as He grants it this short life in common with the soul.
 
 1\. The Apostle Paul has, moreover, in the most lucid manner, pointed out that man has been delivered over to his own infirmity, lest, being uplifted, he might fall away from the truth. Thus he says in the second \[Epistle\] to the Corinthians: “And lest I should be lifted up by the sublimity of the revelations, there was given unto me a thorn in the flesh, the messenger of Satan to buffet me. And upon this I besought the Lord three times, that it might depart from me. But he said unto me, My grace is sufficient for thee; for strength is made perfect in weakness. Gladly therefore shall I rather glory in infirmities, that the power of Christ may dwell in me.”<sup>4468</sup> What, therefore? (as some may exclaim:) did the Lord wish, in that case, that His apostles should thus undergo buffeting, and that he should endure such infirmity? Even so it was; the word says it. For strength is made perfect in weakness, rendering him a better man who by means of his infirmity becomes acquainted with the power of God. For how could a man have learned that he is himself an infirm being, and mortal by nature, but that God is immortal and powerful, unless he had learned by experience what is in
 
-1 Cor. xv. 53.
+[[1 Corinthians 15#^15-53|1 Cor. xv. 53]].
 
 4465
 
-2 Cor. xii. 3.
+[[2 Corinthians 12#^12-3|2 Cor. xii. 3]].
 
 4466
 
@@ -395,7 +395,7 @@ This is Harvey’s free rendering of the passage, which is in the Greek (as pres
 
 καὶ διὰ τοῦτο ἠνέσχετο ὁ Θεὸς τὴν εἰς τὴν γῆν ἡμῶν ἀνάλυσιν. In the Latin: Propter hoc passus est Deus fieri in nobis resolutionem. See Book iii. cap. xx. 2.
 
-2 Cor. xii. 7–9.
+[[2 Corinthians 12#^12-7|2 Cor. xii. 7–9]].
 
 *[p. 888]* ^pg928
 
@@ -454,7 +454,7 @@ man, and not \[merely\] a part of man, was made in the likeness of God. Now the 
 
 man is rendered spiritual and perfect because of the outpouring of the Spirit, and this is he who was made in the image and likeness of God. But if the Spirit be wanting to the soul, he who is such is indeed of an animal nature, and being left carnal, shall be an imperfect being, possessing indeed the image \[of God\] in his formation (*in plasmate*), but not receiving the similitude through the Spirit; and thus is this being imperfect. Thus also, if any one take away the image and set aside the handiwork, he cannot then understand this as being a man, but as either some part of a man, as I have already said, or as something else than a man. For that flesh which has been moulded is not a perfect man in itself, but the body of a man, and part of a man. Neither is the soul itself, considered apart by itself, the man; but it is the soul of a man, and part of a man. Neither is the spirit a man, for it is called the spirit, and not a man; but the commingling and union of all these constitutes the perfect man. And for this cause does the apostle, explaining himself, make it clear that the saved man is a complete man as well as a spiritual man; saying thus in the first Epistle to the Thessalonians, “Now the God of peace sanctify you perfect (*perfectos*); and may your spirit, and soul, and body be preserved whole without complaint to the coming of the Lord Jesus Christ.”<sup>4478</sup> Now what was his object in praying that these three—that is, soul, body, and spirit—might be preserved to the coming of the Lord, unless he was aware of the \[future\] reintegration and union of the three, and \[that they should be heirs of\] one and the same salvation? For this cause also he declares that those are “the perfect” who present unto the Lord the three \[component parts\] without offence. Those, then, are the perfect who have had the Spirit of God remaining in them, and have preserved their
 
-1 Cor. ii. 6.
+[[1 Corinthians 02#^2-6|1 Cor. ii. 6]].
 
 4476
 
@@ -462,7 +462,7 @@ The old Latin has “audivimus,” *have heard*.
 
 4477
 
-1 Thess. v. 23. \[I have before referred the student to the “Biblical Psychology” of Prof. Delitzsch (translation), T. & T.
+[[1 Thessalonians 05#^5-23|1 Thess. v. 23]]. \[I have before referred the student to the “Biblical Psychology” of Prof. Delitzsch (translation), T. & T.
 
 4478
 
@@ -478,7 +478,7 @@ souls and bodies blameless, holding fast the faith of God, that is, that faith w
 
 1\. In the same manner, therefore, as Christ did rise in the substance of flesh, and pointed out to His disciples the mark of the nails and the opening in His side<sup>4483</sup> (now these are the tokens of that flesh which rose from the dead), so “shall He also,” it is said, “raise us up by His own power.”<sup>4484</sup> And again to the Romans he says, “But if the Spirit of Him that raised up Jesus from the dead dwell
 
-1\. Cor. iii. 16. 4479 John ii. 19–21. 4480 1 Cor. iii. 17. 4481 1 Cor. vi. 13, 14. 4482 John xx. 20, 25–27. 4483 1 Cor. vi. 14.
+1\. Cor. iii. 16. 4479 [[John 02#^2-19|John ii. 19–21]]. 4480 [[1 Corinthians 03#^3-17|1 Cor. iii. 17]]. 4481 [[1 Corinthians 06#^6-13|1 Cor. vi. 13]], [[1 Corinthians 06#^6-14|14]]. 4482 [[John 20#^20-20|John xx. 20]], [[John 20#^20-25|25–27]]. 4483 [[1 Corinthians 06#^6-14|1 Cor. vi. 14]].
 
 
 *[p. 894]* ^pg934
@@ -489,7 +489,7 @@ mortal body. What therefore is there left to which we may apply the term “mort
 
 2\. But what is that which, like a grain of wheat, is sown in the earth and decays, unless it be the bodies which are laid in the earth, into which seeds are also cast? And for this reason he said, “It is sown in dishonour, it rises in glory.”<sup>4489</sup> For what is more ignoble than dead flesh? Or, on the other hand, what is more glorious than the same when it arises and partakes of incorruption? “It is sown in weakness, it is raised in power:”<sup>4490</sup> in its own weakness certainly, because since it is earth it goes to earth; but \[it is quickened\] by the power of God, who raises it from the dead. “It is sown an animal body, it rises a spiritual body.”<sup>4491</sup> He has taught, beyond all doubt, that such language was not used by him, either with reference to the soul or to the spirit, but to bodies that have become corpses. For these are animal bodies, that is, \[bodies\] which partake of life, which when they have lost, they succumb to death; then, rising through the Spirit’s instrumentality, they become spiritual
 
-Rom. viii. 11.
+[[Romans 08#^8-11|Rom. viii. 11]].
 
 4485
 
@@ -497,23 +497,23 @@ Ps. xxii. 31, LXX.
 
 4486
 
-1 Cor. xv. 42.
+[[1 Corinthians 15#^15-42|1 Cor. xv. 42]].
 
 4487
 
-1 Cor. xv. 36.
+[[1 Corinthians 15#^15-36|1 Cor. xv. 36]].
 
 4488
 
-1 Cor. xv. 43.
+[[1 Corinthians 15#^15-43|1 Cor. xv. 43]].
 
 4489
 
-1 Cor. xv. 43.
+[[1 Corinthians 15#^15-43|1 Cor. xv. 43]].
 
 4490
 
-1 Cor. xv. 44.
+[[1 Corinthians 15#^15-44|1 Cor. xv. 44]].
 
 *[p. 895]* ^pg935
 
@@ -523,9 +523,9 @@ bodies, so that by the Spirit they possess a perpetual life. “For now,” he s
 
 1\. But we do now receive a certain portion of His Spirit, tending towards perfection, and preparing us for incorruption, being little by little accustomed to receive and bear God; which also the apostle terms “an earnest,” that is, a part of the honour which has been promised us by God, where he says in the Epistle to the Ephesians, “In which ye also, having heard the word of truth, the Gospel of your salvation, believing in which we have been sealed with the Holy Spirit of promise, which is the earnest of our inheritance.”<sup>4495</sup> This earnest, therefore, thus dwelling in us, renders us spiritual even now, and the mortal is swallowed up by immortality.<sup>4496</sup> “For ye,” he declares, “are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you.”<sup>4497</sup> This, however does not take place by a casting away of the flesh, but by the impartation of the Spirit. For those to whom he was writing were not without flesh, but they were those who had received the Spirit of God, “by which we cry, Abba, Father.”<sup>4498</sup> If therefore, at the present time, having the earnest, we do cry, “Abba, Father,” what shall it be when, on rising again, we behold Him face to face; when all the members shall burst out into a continuous hymn of triumph, glorifying Him who raised them from the dead, and gave the gift of eternal life? For if the earnest, gathering man into itself, does even now cause him to cry, “Abba, Father,” what shall the complete grace of the Spirit effect, which shall be given to men by God? It will render us like unto Him, and accomplish the will<sup>4499</sup> of the Father; for it shall make man after the image and likeness of God.
 
-1\. Cor. xiii. 9, 12. 4492 1 Pet. i. 8. 4493 Grabe, Massuet, and Stieren prefer to read, “the face of the living God;” while Harvey adopts the above, reading merely 4494 “Domini,” and not “Dei vivi.” Eph. i. 13, etc. 4495
+1\. Cor. xiii. 9, 12. 4492 [[1 Peter 01#^1-8|1 Pet. i. 8]]. 4493 Grabe, Massuet, and Stieren prefer to read, “the face of the living God;” while Harvey adopts the above, reading merely 4494 “Domini,” and not “Dei vivi.” [[Ephesians 01#^1-13|Eph. i. 13]], etc. 4495
 
-2\. Cor. v. 4. 4496 Rom. viii. 9. 4497 Rom. viii. 15. 4498 This is adopting Harvey’s emendation of “voluntatem” for “voluntate.”
+2\. Cor. v. 4. 4496 [[Romans 08#^8-9|Rom. viii. 9]]. 4497 [[Romans 08#^8-15|Rom. viii. 15]]. 4498 This is adopting Harvey’s emendation of “voluntatem” for “voluntate.”
 
 
 *[p. 896]* ^pg936
@@ -564,7 +564,7 @@ they believe in the Father and the Son, but they never meditate as they should u
 
 2\. On the other hand, as many as fear God and trust in His Son’s advent, and who through faith do establish the Spirit of God in their hearts,—such men as these shall be properly called both “pure,” and “spiritual,” and “those living to God,” because they possess the Spirit of the Father, who purifies man, and raises him up to the life of God. For as the Lord has testified that “the flesh is weak,” so \[does He also say\] that “the spirit is willing.”<sup>4508</sup> For this latter is capable of working out its own suggestions. If, therefore, any one admix the ready inclination of the Spirit to be, as it were, a stimulus to the infirmity of the flesh, it inevitably follows that what is strong will prevail
 
-535 1 Cor. ii. 14, 1 Cor. iii. 1, etc. 4505 1 Cor. xv. 50. 4506 Luke x. 60. 4507
+535 [[1 Corinthians 02#^2-14|1 Cor. ii. 14]], [[1 Corinthians 03#^3-1|1 Cor. iii. 1]], etc. 4505 [[1 Corinthians 15#^15-50|1 Cor. xv. 50]]. 4506 Luke x. 60. 4507
 
 *[p. 898]* ^pg938
 
@@ -574,7 +574,7 @@ over the weak, so that the weakness of the flesh will be absorbed by the strengt
 
 4\. If, however, we must speak strictly, \[we would say that\] the flesh *does not* inherit, but *is* inherited; as also the Lord declares, “Blessed are the meek, for they shall possess the earth by inheritance;”<sup>4511</sup> as if in the \[future\] kingdom, the earth, from whence exists the substance of our flesh, is to be possessed by inheritance. This is the reason for His wishing the temple (i.e., the flesh) to be clean, that the Spirit of God may take delight therein, as a bridegroom with a bride. As, therefore, the bride cannot \[be said\] to wed, but to be wedded, when the bridegroom comes and takes her, so also the flesh cannot by itself possess the kingdom of God by inheritance; but it can be taken *for* an inheritance into the kingdom of God. For a living person inherits the goods of the deceased; and it is one thing to inherit, another to be inherited. The former rules, and exercises power over, and orders the things inherited at his will; but the latter things are in a state of subjection, are under order, and are ruled over by him who has obtained the inheritance. What, therefore, is it that lives? The Spirit of God, doubtless. What, again, are the possessions of the deceased? The
 
-1\. Cor. xv. 48. 4509 1 Cor. xv. 49. 4510
+1\. Cor. xv. 48. 4509 [[1 Corinthians 15#^15-49|1 Cor. xv. 49]]. 4510
 
 
 *[p. 899]* ^pg939
@@ -589,15 +589,15 @@ nature is changed by grafting, he proves more important things; he points out al
 
 1\. This truth, therefore, \[he declares\], in order that we may not reject the engrafting of the Spirit while pampering the flesh. “But thou, being a wild olive-tree,” he says, “hast been grafted into the good olive-tree, and been made a partaker of the fatness of the olive-tree.”<sup>4512</sup> As, therefore, when the wild olive has been engrafted, if it remain in its former condition, viz., a wild olive, it is “cut off, and cast into the fire;”<sup>4513</sup> but if it takes kindly to the graft, and is changed into the good olive-tree, it becomes a fruit-bearing olive, planted, as it were, in a king’s park (*paradiso*): so likewise men, if they do truly progress by faith towards better things, and receive the Spirit of God, and bring forth the fruit thereof, shall be spiritual, as being planted in the paradise of God. But if they cast out the Spirit, and remain in their former condition, desirous of being of the flesh rather than of the Spirit, then it is very justly said with regard to men of this stamp, “That flesh and blood shall not inherit the kingdom of God;”<sup>4514</sup> just as if any one were to say that the wild olive is not received into the paradise of God. Admirably therefore does the apostle exhibit our nature, and God’s universal appointment, in his discourse about flesh and blood and the wild olive. For as the good olive, if neglected for a certain time, if left to grow wild and to run to wood, does itself become a wild olive; or again, if the wild olive be carefully tended and grafted, it naturally reverts to its former fruit-bearing condition: so men also, when they become careless, and bring forth for fruit the lusts of the flesh like woody produce, are rendered, by their own fault, unfruitful in righteousness.
 
-Rom. xi. 17.
+[[Romans 11#^11-17|Rom. xi. 17]].
 
 4512
 
-Matt. vii. 19.
+[[Matthew 07#^7-19|Matt. vii. 19]].
 
 4513
 
-1 Cor. xv. 50.
+[[1 Corinthians 15#^15-50|1 Cor. xv. 50]].
 
 *[p. 900]* ^pg940
 
@@ -605,7 +605,7 @@ For when men sleep, the enemy sows the material of tares;<sup>4515</sup> and for
 
 2\. But as the engrafted wild olive does not certainly lose the substance of its wood, but changes the quality of its fruit, and receives another name, being now not a wild olive, but a fruit-bearing olive, and is called so; so also, when man is grafted in by faith and receives the Spirit of God, he certainly does not lose the substance of flesh, but changes the quality of the fruit \[brought forth, i.e.,\] of his works, and receives another name,<sup>4518</sup> showing that he has become changed for the better, being now not \[mere\] flesh and blood, but a spiritual man, and is called such. Then, again, as the wild olive, if it be not grafted in, remains useless to its lord because of its woody quality, and is cut down as a tree bearing no fruit, and cast into the fire; so also man, if he does not receive through faith the engrafting of the Spirit, remains in his old condition, and being \[mere\] flesh and blood, he cannot inherit the kingdom of God. Rightly therefore does the apostle declare, “Flesh and blood cannot inherit the kingdom of God;”<sup>4519</sup> and, “Those who are in the flesh cannot please God:”<sup>4520</sup> not repudiating \[by these words\] the substance of flesh, but showing that into it the Spirit must be infused.<sup>4521</sup> And for this reason, he says, “This mortal must put on immortality, and this corruptible must put on incorruption.”<sup>4522</sup> And again he declares, “But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you.”<sup>4523</sup> He sets this forth still more plainly, where he says, “The body indeed is dead, because of sin; but the Spirit is life, because of righteousness. But if the Spirit of Him who raised up Jesus from the dead dwell in you, He that raised up Christ from the dead shall also quicken your mortal bodies, because of His Spirit dwelling in you.”<sup>4524</sup> And again he says, in the Epistle to the Romans, “For if ye live after the flesh, ye shall die.”<sup>4525</sup> \[Now by these words\] he does not prohibit them from living their lives in the flesh, for he was himself in the flesh when he wrote to them; but he cuts away the lusts of the flesh, those which bring death upon a man.
 
-Matt. xiii. 25. 4515 Matt. xxiv. 42, Matt. xxv. 13; Mark xiii. 33. 4516 Jas. i. 21. 4517 Rev. ii. 17. 4518 1 Cor. xv. 50. 4519 Rom. viii. 8. 4520 The Latin has, “sed infusionem Spiritus attrahens.” 4521 1 Cor. xv. 53. 4522 Rom. viii. 9. 4523 Rom. viii. 10, etc. 4524
+[[Matthew 13#^13-25|Matt. xiii. 25]]. 4515 [[Matthew 24#^24-42|Matt. xxiv. 42]], [[Matthew 25#^25-13|Matt. xxv. 13]]; [[Mark 13#^13-33|Mark xiii. 33]]. 4516 [[James 01#^1-21|Jas. i. 21]]. 4517 [[Revelation 02#^2-17|Rev. ii. 17]]. 4518 [[1 Corinthians 15#^15-50|1 Cor. xv. 50]]. 4519 [[Romans 08#^8-8|Rom. viii. 8]]. 4520 The Latin has, “sed infusionem Spiritus attrahens.” 4521 [[1 Corinthians 15#^15-53|1 Cor. xv. 53]]. 4522 [[Romans 08#^8-9|Rom. viii. 9]]. 4523 [[Romans 08#^8-10|Rom. viii. 10]], etc. 4524
 
 *[p. 901]* ^pg941
 
@@ -621,15 +621,15 @@ Or, “poisonings.”
 
 4526
 
-Gal. v. 19, etc.
+[[Galatians 05#^5-19|Gal. v. 19]], etc.
 
 4527
 
-Gal. v. 22.
+[[Galatians 05#^5-22|Gal. v. 22]].
 
 4528
 
-1 Cor. vi. 9–11.
+[[1 Corinthians 06#^6-9|1 Cor. vi. 9–11]].
 
 *[p. 902]* ^pg942
 
@@ -660,15 +660,15 @@ Isa. lvii. 16.
 
 4533
 
-1 Cor. xv. 46.
+[[1 Corinthians 15#^15-46|1 Cor. xv. 46]].
 
 4534
 
-1 Cor. xv. 45.
+[[1 Corinthians 15#^15-45|1 Cor. xv. 45]].
 
 4535
 
-Col. iii. 5.
+[[Colossians 03#^3-5|Col. iii. 5]].
 
 *[p. 904]* ^pg944
 
@@ -678,7 +678,7 @@ commands us to lay aside, he says in the same Epistle, “Cast ye off the old ma
 
 5\. And that he, the apostle, was the very same person who had been born from the womb, that is, of the ancient substance of flesh, he does himself declare in the Epistle to the Galatians: “But when it pleased God, who separated me from my mother’s womb, and called me by His grace, to reveal His Son in me, that I might preach Him among the Gentiles,”<sup>4541</sup> it was not, as I have already observed, one person who had been born from the womb, and another who preached the Gospel of the Son of God; but that same individual who formerly was ignorant, and used to persecute the Church, when the revelation was made to him from heaven, and the Lord conferred with him, as I have pointed out in the third book,<sup>4542</sup> preached the Gospel of Jesus Christ the Son of God, who was crucified under Pontius Pilate, his former ignorance being driven out by his subsequent knowledge: just as the blind men whom the Lord healed did certainly lose their blindness, but received the substance of their eyes perfect, and obtained the power of vision in the very same eyes with which they formerly did not see; the darkness being merely driven away by the power of vision, while the substance of the eyes was retained, in order that, by means of those eyes through which they had not seen, exercising again the visual power, they might give thanks to Him who had restored them again to sight. And thus, also, he whose withered hand was healed, and all who
 
-539 Col. iii. 9. 4537 Phil. i. 22. 4538 Following Harvey’s explanation of a somewhat obscure passage. 4539 Col. iii. 10. 4540 Gal. i. 15, 16. 4541 Vol. i. pp. 306, 321.
+539 [[Colossians 03#^3-9|Col. iii. 9]]. 4537 [[Philippians 01#^1-22|Phil. i. 22]]. 4538 Following Harvey’s explanation of a somewhat obscure passage. 4539 [[Colossians 03#^3-10|Col. iii. 10]]. 4540 [[Galatians 01#^1-15|Gal. i. 15]], [[Galatians 01#^1-16|16]]. 4541 Vol. i. pp. 306, 321.
 
 *[p. 905]* ^pg945
 
@@ -690,15 +690,15 @@ were healed generally, did not change those parts of their bodies which had at t
 
 1\. Let our opponents—that is, they who speak against their own salvation—inform us \[as to this point\]: The deceased daughter of the high priest;<sup>4543</sup> the widow’s dead son, who was being carried out \[to burial\] near the gate \[of the city\];<sup>4544</sup> and Lazarus, who had lain four days in the tomb,<sup>4545</sup>—in what bodies did they rise again? In those same, no doubt, in which they had also died. For if it were not in the very same, then certainly those same individuals who had died did not rise again. For \[the Scripture\] says, “The Lord took the hand of the dead man, and said to him, Young man, I say unto thee, Arise. And the dead man sat up, and He commanded that something should be given him to eat; and He delivered him to his mother.”<sup>4546</sup> Again, He called Lazarus “with a loud voice, saying, Lazarus, come forth; and he that was dead came forth bound with bandages, feet and hands.” This was symbolical of that man who had been bound in sins. And therefore the Lord said, “Loose him, and let him depart.” As, therefore, those who were healed were made whole in those members which had in times past been afflicted; and the dead rose in the identical bodies, their
 
-Mark v. 22. Irenæus confounds the ruler of the synagogue with the high priest. \[Let not those who possess printed Bibles 4543
+[[Mark 05#^5-22|Mark v. 22]]. Irenæus confounds the ruler of the synagogue with the high priest. \[Let not those who possess printed Bibles 4543
 
 and concordances and commentaries, and all manner of helps to memory, blame the Fathers for such mistakes, until they at least equal them in their marvellous and minute familiarity with the inspired writers.\]
 
-Luke vii. 12.
+[[Luke 07#^7-12|Luke vii. 12]].
 
 4544
 
-John ix. 30.
+[[John 09#^9-30|John ix. 30]].
 
 4545
 
@@ -714,15 +714,15 @@ meaning, or examined critically the force of the terms, but keeping fast hold of
 
 3\. For thus they will allege that this passage refers to the flesh strictly so called, and not to fleshly works, as I have pointed out, so representing the apostle as contradicting himself. For immediately following, in the same Epistle, he says conclusively, speaking thus in reference to the flesh: “For this corruptible must put on incorruption, and this mortal must put on immortality. So, when this mortal shall have put on immortality, then shall be brought to pass the saying which is written, Death is swallowed up in victory. O death, where is thy sting? O death, where is thy victory?”<sup>4549</sup> Now these words shall be appropriately said at the time when this mortal and corruptible flesh, which is subject to death, which also is pressed down by a certain dominion of death, rising up into life, shall put on incorruption and immortality. For then, indeed, shall death be truly vanquished, when that flesh which is held down by it shall go forth from under its dominion. And again, to the Philippians he says: “But our conversation is in heaven, from whence also we look for the Saviour, the Lord Jesus, who shall transfigure the body of our humiliation conformable to the body of His glory, even as He is able (*ita ut possit*) according to the working of His own power.”<sup>4550</sup> What, then, is this “body of humiliation” which the Lord shall transfigure, \[so as to be\] conformed to “the body of His glory?” Plainly it is this body composed of flesh, which is indeed humbled when it falls into the earth. Now its transformation \[takes place thus\], that while it is mortal
 
-1 Cor. xv. 52.
+[[1 Corinthians 15#^15-52|1 Cor. xv. 52]].
 
 4547
 
-John v. 28.
+[[John 05#^5-28|John v. 28]].
 
 4548
 
-1 Cor. xv. 53.
+[[1 Corinthians 15#^15-53|1 Cor. xv. 53]].
 
 4549
 
@@ -736,4 +736,4 @@ and corruptible, it becomes immortal and incorruptible, not after its own proper
 
 The original Greek text is preserved here, as above; the Latin translator inserts, “in secunda ad Corinthios.” Harvey 4551 observes: “The interpretation of the Scriptural reference by the translator suggests the suspicion that the greater number of such references have come in from the margin.”
 
-2\. Cor. v. 4. 4552 1 Cor. vi. 20. 4553 Agreeing with the Syriac version in omitting “the Lord” before the word “Jesus,” and in reading ἀεὶ as εἰ, which Harvey 4554 considers the true text. 2 Cor. iv. 10, etc. 4555 2 Cor. iii. 3. 4556 Phil. iii. 11. 4557 The Syriac translation seems to take a literal meaning out of this passage: “If, as one of the men, I have been cast forth 4558 to the wild beasts at Ephesus.”
+2\. Cor. v. 4. 4552 [[1 Corinthians 06#^6-20|1 Cor. vi. 20]]. 4553 Agreeing with the Syriac version in omitting “the Lord” before the word “Jesus,” and in reading ἀεὶ as εἰ, which Harvey 4554 considers the true text. [[2 Corinthians 04#^4-10|2 Cor. iv. 10]], etc. 4555 [[2 Corinthians 03#^3-3|2 Cor. iii. 3]]. 4556 [[Philippians 03#^3-11|Phil. iii. 11]]. 4557 The Syriac translation seems to take a literal meaning out of this passage: “If, as one of the men, I have been cast forth 4558 to the wild beasts at Ephesus.”

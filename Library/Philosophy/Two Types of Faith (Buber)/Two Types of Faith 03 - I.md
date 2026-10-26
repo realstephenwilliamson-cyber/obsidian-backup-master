@@ -18,7 +18,7 @@ converted: 2026-10-07
 
 I 
 
-IN one of the Gospel narratives (Mark ix. 14-29) it is reported that a boy possessed by a demon is brought by his father, first to the disciples of Jesus, and then, because they 'were not able' to cure him, to Jesus himself, in 
+IN one of the Gospel narratives ([[Mark 09#^9-14|Mark ix. 14-29]]) it is reported that a boy possessed by a demon is brought by his father, first to the disciples of Jesus, and then, because they 'were not able' to cure him, to Jesus himself, in 
 
 order to see whether he 'might be able' to help. Jesus seizes upon the father's word, 'if thou art able to do anything'. 'If thou art able!'[^1] he replies,' all things are possible to him that believeth'. The whole narrative is based, in accordance with the Old Testament pattern, on the two key-words[^2] 'to believe' and 'to be able', and both are most expressively repeated time and again in order to impress upon the reader that he is to be definitely instructed in this instance about the relationship between the human condition of 'believing' and that of'being able'. But what is to be understood in this 
 
@@ -45,7 +45,7 @@ in addition to this, Jesus and his whole purpose is brought perilously near to t
 
 But that Jesus did not only mean himself when he referred to 'one who believes', at any rate not fundamentally himself alone, is proved by the parallel version in Matthew's Gospel (xvii 14-21), which sets forth with complete clarity the motif that it is not fundamentally an affair between Jesus and the people (represented by the father of the boy)—although in this case also they are referred to as 'unbelieving'—but one between himself and the disciples. The problem of the relationship between believing and 'being able' comes out here immediately in the disciples' question as to why they could not cast out the demon, and the reply o f Jesus which opens with the definite 'because o f your unbelief ; it is actually the disciples to whom is ascribed (not, as modified versions desire, a 'little faith'—which appears nowhere eke) but that unbelief which is in kind opposed to faith. In the sequence the answer sets forth even more forcibly the fact that in this case it is not a question o f a difference in degree, in intensity, in quantity: as little as 'a grain of mustard-seed' of the real stuff of faith is sufficient 'and nothing shall be impossible to you'. At the same time it is equally clearly stated that true faith is not the prerogative of Jesus but it is accessible to man as such, and provided it is true faith, they have sufficient, no matter how little they have of it. Therefore even more strongly than before there is forced upon us the question as to what this faith is and in what it differs so decisively from that state of soul which bears the same name. 
 
-'All things are possible to him that believes.' Elsewhere (Mark x. 27; Matt. six. 26), it reads, in conjunction with the Old Testament: with God all things are possible. When the two sentences are taken together we come nearer the 
+'All things are possible to him that believes.' Elsewhere ([[Mark 10#^10-27|Mark x. 27]]; Matt. six. 26), it reads, in conjunction with the Old Testament: with God all things are possible. When the two sentences are taken together we come nearer the 
 
 *[p. 21]* ^pg20
 
@@ -53,9 +53,9 @@ meaning of what is said about the man who has faith. Not to be sure if one means
 
 This idea o f the man who has faith did not spring from Hellenistic soil. That which appears to be similar in pre-Christian Greek literature already in the tragedy always refers to a mere condition o f the soul, not to an actual relationship which essentially transcends the world of the person. So far as I am aware, die only pre-Christian writing in which it is found is the Old Testament. Only from there are we able to learn to understand it more precisely. 
 
-In Isaiah xxviii. 16—which, to be sure, is generally misunderstood—God proclaims that He is 'to found in Zion the precious corner-stone of a founded foundation' (the threefold repetition is to direct attention in the highest degree to the character o f decisiveness which here belongs to the verb). But in order to guard against false interpretation o f the present-form, as i f now the revelation of the corner-stone is to be expected, and so those n o w living <sup>1</sup> Thus Lohmeyer, *Das Evangelium des Markus* (1937}» H88. 
+In [[Isaiah 28#^28-16|Isaiah xxviii. 16]]—which, to be sure, is generally misunderstood—God proclaims that He is 'to found in Zion the precious corner-stone of a founded foundation' (the threefold repetition is to direct attention in the highest degree to the character o f decisiveness which here belongs to the verb). But in order to guard against false interpretation o f the present-form, as i f now the revelation of the corner-stone is to be expected, and so those n o w living <sup>1</sup> Thus Lohmeyer, *Das Evangelium des Markus* (1937}» H88. 
 
-<sup>2</sup> Cf. Matt. vi. 1; John viii. 38, xvii. 5. 
+<sup>2</sup> Cf. [[Matthew 06#^6-1|Matt. vi. 1]]; [[John 08#^8-38|John viii. 38]], [[John 17#^17-5|xvii. 5]]. 
 
 *[p. 22]* ^pg21
 

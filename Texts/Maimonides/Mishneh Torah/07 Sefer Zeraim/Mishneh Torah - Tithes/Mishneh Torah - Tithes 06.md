@@ -172,7 +172,7 @@ What must he do? He should stand over the grainheap[^86] and take [the produce t
 [^68]: I.e., olives that have already been harvested from the tree (Radbaz).
 [^69]: Hence if the priest or Levite desired that the *terumah* and/or tithes be left for him, he would have to make an explicit stipulation to that effect. Thus if the olives - or any other produce - have not been harvested, if the land is owned by a priest or Levite, he retains the right to the *terumah* and/or tithes as above.
 [^70]: Even if the purchaser later sells that field to another person, he cannot override the stipulation that was part of the original sale.
-[^71]: Were his stipulation not to be powerful enough to retain a portion of the land itself, it would not be effective, because it would be tantamount to purchasing an entity that has not come into existence. Such a purchase is not effective ([[Bava Batra 63#63a|*Bava Batra* 63a]]).  
+[^71]: Were his stipulation not to be powerful enough to retain a portion of the land itself, it would not be effective, because it would be tantamount to purchasing an entity that has not come into existence. Such a purchase is not effective (*Bava Batra* [[Bava Batra 63#63a|63a]]).  
     The commentaries note an apparent contradiction between the Rambam's ruling here and his ruling in *Hilchot Bikkurim* 9:11. Although there are explicit Talmudic sources for both rulings, their logic appears contradictory. Among the resolutions offered is that here, the Rambam is speaking about landed property, while in *Hilchot Bikkurim*, he is speaking about an animal and the principles of ownership are different in these two instances.
 [^72]: I.e., he no longer has any special rights to the *terumah* or tithes.
 [^73]: His grandson, however, does not have a right to them (*Aruch HaShulchan*).
@@ -186,7 +186,7 @@ What must he do? He should stand over the grainheap[^86] and take [the produce t
 [^81]: This halachah is speaking about an instance where the person worded the arrangement with the gentile in such a manner that the gentile does not receive possession of the produce until after it reaches the "phase of tithing." Otherwise, there would be no obligation to separate tithes. See *Hilchot Terumah* 1:13.
 [^82]: In contrast to the following clause, this phrase does not refer to an ordinary common person, but one who has a reputation for being lax in the observance of this mitzvah (see Ra'avad). For with regard to a common person, we apply certain safeguards lest he not have tithed, but nevertheless, we are not certain that he has not tithed. On the contrary, our presumption is that he did tithe.
 [^83]: This is a penalty, imposed so that a person will not give his field to a person who does not observe the mitzvah of tithing.
-[^84]: Since the majority of the common people tithe ([[Shabbat 23#23a|*Shabbat* 23a]]), since he has not incurred the responsibility to tithe at all, he was not penalized.
+[^84]: Since the majority of the common people tithe (*Shabbat* [[Shabbat 23#23a|23a]]), since he has not incurred the responsibility to tithe at all, he was not penalized.
 [^85]: Since the produce reached the "phase of tithing," and there are some common people who do not tithe, our Sages required that this measure be taken.
 [^86]: Before a division of produce is made.
 [^87]: I.e., if they partook of some of the produce while it was forbidden for them to do so.

@@ -146,7 +146,7 @@ What is the initial and preferred size of the separation one should make? Four c
 [^46]: Note the parallels in *Hilchot Shabbat* 17:35; *Hilchot Sukkah* 4:5, 8-9.
 [^47]: Even though the vineyard is indoors, there is still a Rabbinic prohibition involved.
 [^48]: For the two courtyards are considered as a single entity. Note the parallels in *Hilchot Tefilah* 8:7-8; *Hilchot Eruvin* 3:24.  
-    Rashi, [[Eruvin 92#92b|*Eruvin* 92b]] states that even if one makes a separation of four cubits, it is forbidden to sow in the smaller courtyard, because it is considered as an entranceway to the larger one.
+    Rashi, *Eruvin* [[Eruvin 92#92b|92b]] states that even if one makes a separation of four cubits, it is forbidden to sow in the smaller courtyard, because it is considered as an entranceway to the larger one.
 [^49]: Provided one separates four cubits.
 [^50]: I.e., a portion of its walls remain standing.
 [^51]: See Chapter 5, Halachah 8, Chapter 6, Halachah 11, and Halachah 22 of this chapter.

@@ -72,7 +72,7 @@ Bede: For many came forward, when destruction was hanging over Jerusalem, saying
 
 *[p. 201]* ^pg205
 
-as we read in the Acts of the Apostles, listened, saying, “This man is the great power of God.” \[Acts 8:10\]
+as we read in the Acts of the Apostles, listened, saying, “This man is the great power of God.” \[[[Acts 08#^8-10|Acts 8:10]]\]
 
 Wherefore also it is added here, “And shall deceive many.”
 
@@ -110,7 +110,7 @@ There follows: “And ye shall be brought before rulers and kings for My sake, f
 
 He says “kings and rulers,” as, for instance, Agrippa, Nero and Herod. Again, His saying, “for My sake,” gave them no small consolation, in that they were about to suffer for His sake. “For a testimony against them,” means, as a judgment beforehand against them, that they might be inexcusable, in that though the Apostles were labouring for the truth, they would not join themselves to it. Then, that they might not think that their preaching should be impeded by troubles and dangers, He adds: “And the Gospel must first be published among all nations.”
 
-Augustine, de Con. Evan., ii, 77: Matthew adds, “And then shall the end come.” \[Matt 24:14\]
+Augustine, de Con. Evan., ii, 77: Matthew adds, “And then shall the end come.” \[[[Matthew 24#^24-14|Matt 24:14]]\]
 
 Bede: Ecclesiastical historians testify that this was fulfilled, for they relate that all the Apostles long before the destruction of the province of Judaea were dispersed to preach the Gospel over the whole world, except James the son of Zebedee and James the brother of our Lord, who had before shed their blood in Judaea for the word of the Lord. Since then the Lord knew that the hearts of the disciples would be saddened by the fall and destruction of their nation, He relieves them by this consolation, to let them know that even after the casting away of the Jews, companions in their joy and heavenly kingdom should not be wanting, nay that many more were to be collected out of all mankind than perished in Judaea.
 
@@ -150,7 +150,7 @@ Theophylact: Or He means by “the abomination of desolation” the entrance of 
 
 *[p. 204]* ^pg208
 
-Augustine, Epist., cxcix, 9: But Luke, in order to shew that the abomination of desolation happened when Jerusalem was taken, in this same place gives the words of our Lord, “And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.” \[Luke 21:20\]
+Augustine, Epist., cxcix, 9: But Luke, in order to shew that the abomination of desolation happened when Jerusalem was taken, in this same place gives the words of our Lord, “And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.” \[[[Luke 21#^21-20|Luke 21:20]]\]
 
 It goes on: “Then let them that be in Judaea flee to the mountains.”
 
@@ -216,7 +216,7 @@ Pseudo-Jerome: But the tribulation shall be great, and the days short, for the s
 
 27\. And then shall He send His angels, and shall gather together His elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.
 
-Theophylact: After that the Lord had finished all that concerned Jerusalem, He now speaks of the coming of Antichrist, saying, “Then if any man shall say to you, Lo, here is 264 Christ; or, to, he is there; believe him not.” But when He says, “then,” think not that it means immediately after these things are fulfilled about Jerusalem; as Matthew also says after the birth of Christ, “In those days came John the Baptist;” \[Matt 3:1\] does he mean immediately after the birth of Christ? No, but he speaks indefinitely and without precision. So also here, “then” may be taken to mean not when Jerusalem shall be made desolate, but about the time of the coming of Antichrist.
+Theophylact: After that the Lord had finished all that concerned Jerusalem, He now speaks of the coming of Antichrist, saying, “Then if any man shall say to you, Lo, here is 264 Christ; or, to, he is there; believe him not.” But when He says, “then,” think not that it means immediately after these things are fulfilled about Jerusalem; as Matthew also says after the birth of Christ, “In those days came John the Baptist;” \[[[Matthew 03#^3-1|Matt 3:1]]\] does he mean immediately after the birth of Christ? No, but he speaks indefinitely and without precision. So also here, “then” may be taken to mean not when Jerusalem shall be made desolate, but about the time of the coming of Antichrist.
 
 It goes on: “For false Christs and false prophets shall arise, and shall shew signs and wonders, to seduce, if it were possible, even the elect.”
 
@@ -252,11 +252,11 @@ when the pillars shake? What does the shrub of the wilderness undergo, when the 
 
 Pseudo-Jerome: Or else, the sun shall be darkened, at the coldness of their hearts, as in the winter time. And the moon shall not give her light with serenity, in this time of quarrel, and the stars of heaven shall fail in their light, when the seed of Abraham shall all but disappear, for to it they are likened \[Gen 22:17\]. And the powers of heaven shall be stirred up to 266 the wrath of vengeance, when they shall be sent by the Son of Man at His coming, of whose Advent it is said, “And then shall they see the Son of Man coming in the clouds with great power and glory,” He, that is, who first came down like rain into the fleece of Gideon in all lowliness.
 
-Augustine, Epist., cxcix, 11: For since it was said by the Angels to the Apostles, “He shall so come in like manner as ye have seen Him go into heaven,” \[Acts 1:11\] rightly do we believe that He will come not only in the same body, but on a cloud, since He is to come as He went away, and a cloud received Him as He was going.
+Augustine, Epist., cxcix, 11: For since it was said by the Angels to the Apostles, “He shall so come in like manner as ye have seen Him go into heaven,” \[[[Acts 01#^1-11|Acts 1:11]]\] rightly do we believe that He will come not only in the same body, but on a cloud, since He is to come as He went away, and a cloud received Him as He was going.
 
 Theophylact: But they shall see the Lord as the Son of Man, that is, in the body, for that which is seen is body.
 
-Augustine, de Trin., i, 13: For the vision of the Son of Man is shewn even to the bad, but the vision of the form of God to the pure in heart alone, “for they shall see God.” \[Matt 5:8\] And because the wicked cannot see the Son of God, as He is in the form of God, equal to the Father, and at the same time both just and wicked are to see Him as Judge of the quick and dead, before Whom they shall be judged, it was necessary that the Son of Man should receive power to judge. Concerning the execution of which power, there is immediately added, “And then shall He send He angels.”
+Augustine, de Trin., i, 13: For the vision of the Son of Man is shewn even to the bad, but the vision of the form of God to the pure in heart alone, “for they shall see God.” \[[[Matthew 05#^5-8|Matt 5:8]]\] And because the wicked cannot see the Son of God, as He is in the form of God, equal to the Father, and at the same time both just and wicked are to see Him as Judge of the quick and dead, before Whom they shall be judged, it was necessary that the Son of Man should receive power to judge. Concerning the execution of which power, there is immediately added, “And then shall He send He angels.”
 
 Theophylact: Observe that Christ sends the Angels as well as the Father; where then are they who say that He is not equal to the Father? For the Angels go forth to gather together the faithful, who are chosen, that they may be carried into the air to meet Jesus Christ.
 
@@ -278,11 +278,11 @@ Bede: Under the example of a tree the Lord gave a pattern of the end, saying, �
 
 Theophylact: As if He had said, As when the fig tree puts forth its leaves, summer follows at once, so also after the woes of Antichrist, at once, without an interval, shall be the coming of Christ, who will be to the just as summer after winter, but to sinners, winter after summer.
 
-Augustine, Epist., 119, 11: All that is said by the three Evangelists concerning the Advent of our Lord, if diligently compared together and examined, will perchance be found to belong to His daily coming in His body, that is, the Church, except those places where that last coming is so promised, as if it were approaching; for instance in the last part of the discourse according to Matthew, the coming itself is clearly expressed, where it is said, “When the Son of Man shall come in His glory,” \[Matt 25:31\] For what does He refer to in the words, “when ye shall see these things come to pass,” but those things which He has mentioned above, amongst which it is said, “And then ye shall see the Son of Man coming in the clouds.” The end therefore shall not be then, but then it shall be near at hand.
+Augustine, Epist., 119, 11: All that is said by the three Evangelists concerning the Advent of our Lord, if diligently compared together and examined, will perchance be found to belong to His daily coming in His body, that is, the Church, except those places where that last coming is so promised, as if it were approaching; for instance in the last part of the discourse according to Matthew, the coming itself is clearly expressed, where it is said, “When the Son of Man shall come in His glory,” \[[[Matthew 25#^25-31|Matt 25:31]]\] For what does He refer to in the words, “when ye shall see these things come to pass,” but those things which He has mentioned above, amongst which it is said, “And then ye shall see the Son of Man coming in the clouds.” The end therefore shall not be then, but then it shall be near at hand.
 
 Or are we to say, that not all those things which are mentioned above are to be taken 268 in, but only some of them, that is, leaving out these words, “Then shall ye see the Son of Man coming;” for that shall be the end itself, and not its approach only. But Matthew has declared that it is to be received without exception, saying, “When ye shall see all these things, know that it is near, even at the doors.” That which is said above must therefore be taken thus; “And He shall send His angels, and gather together the elect from the four winds;” that is, He shall collect His elect from the four winds of heaven, which He does in the whole of the last hour, coming in His members as in clouds.
 
-Bede: This fruitbearing of the fig tree may also be understood to mean the state of the synagogue, which was condemned to everlasting barrenness, because when the Lord came, it had no fruits of righteousness in those who were then unfaithful. But the Apostle has said that when the fulness of the Gentiles is come in \[Rom 11:25\], all Israel shall be saved. What means this, but that the tree, which has been long barren, shall then yield the fruit, which it had withheld? When this shall happen, doubt not that a summer of true peace is at hand.
+Bede: This fruitbearing of the fig tree may also be understood to mean the state of the synagogue, which was condemned to everlasting barrenness, because when the Lord came, it had no fruits of righteousness in those who were then unfaithful. But the Apostle has said that when the fulness of the Gentiles is come in \[[[Romans 11#^11-25|Rom 11:25]]\], all Israel shall be saved. What means this, but that the tree, which has been long barren, shall then yield the fruit, which it had withheld? When this shall happen, doubt not that a summer of true peace is at hand.
 
 *[p. 210]* ^pg214
 
@@ -292,7 +292,7 @@ There follows: “Verily I say unto you, This generation shall not pass, till th
 
 Bede: By generation He either means the whole race of mankind, or specially the Jews. Theophylact: Or else, “This generation shall not pass away,” that is, the generation of Christians, “until all things be fulfilled,” which were spoken concerning Jerusalem and the coming of Antichrist; for He does not mean the generation of the Apostles, for the greater part of the Apostles did not live up to the destruction of Jerusalem. But He says this of the generation of Christians, wishing to console His disciples, lest they should believe that the faith should fail at that time; for the immoveable elements shall first fail, before the words of Christ fail; wherefore it is added, “Heaven and earth shall pass away, but My words shall not pass away.”
 
-Bede: The heaven which shall pass away is not the ethereal or starry heaven, but the 269 heaven where is the air. For wheresoever the water of the judgment could reach, there also, according to the words of the blessed Peter, the fire of judgment shall reach \[2 Pet 3:10-12\]. But the heaven and the earth shall pass away in that form which they now have, but in their essence they shall last without end.
+Bede: The heaven which shall pass away is not the ethereal or starry heaven, but the 269 heaven where is the air. For wheresoever the water of the judgment could reach, there also, according to the words of the blessed Peter, the fire of judgment shall reach \[[[2 Peter 03#^3-10|2 Pet 3:10-12]]\]. But the heaven and the earth shall pass away in that form which they now have, but in their essence they shall last without end.
 
 32\. “But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.
 
@@ -408,15 +408,15 @@ Evangelists. Nay, if you examine, you will find three; for one is described by J
 
 and Mark is said to have come at the time of the Passion, nor did she confess that she had been a sinner.
 
-Augustine, de Con. Evan., ii, 79: I however think that nothing else can be meant, but that the sinner who then came to the feet of Jesus was none other than the same Mary who did this twice; once, as Luke relates it, when coming for the first time with humility and tears she merited the remission of her sins. For John also relates this, when he began to speak of the raising of Lazarus before He came to Bethany, saying, “It was that Mary which anointed the Lord with ointment, and wiped His feet with her hair, whose brother Lazarus was sick.” \[John 11:2\]
+Augustine, de Con. Evan., ii, 79: I however think that nothing else can be meant, but that the sinner who then came to the feet of Jesus was none other than the same Mary who did this twice; once, as Luke relates it, when coming for the first time with humility and tears she merited the remission of her sins. For John also relates this, when he began to speak of the raising of Lazarus before He came to Bethany, saying, “It was that Mary which anointed the Lord with ointment, and wiped His feet with her hair, whose brother Lazarus was sick.” \[[[John 11#^11-2|John 11:2]]\]
 
 But what she again did at Bethany is another act, unrecorded by Luke, but mentioned in the same way by the other three Evangelists. In that therefore Matthew and Mark say that the head of the Lord was anointed by the woman, whilst John says the feet, we must understand that both the head and the feet were anointed by the woman. Unless because Mark has said that she broke the box in order to anoint His head, any one is so fond of cavilling as to deny that, because the box was broken, any could remain to anoint the feet of the Lord. But a man of a more pious spirit will contend that it was not broken so as to pour out the whole, or else that the feet were anointed before it was broken, so that there remained in the unbroken box enough to anoint the head.
 
 Bede: Alabaster is a sort of white marble, veined with various colors which is often hollowed out for boxes of ointment, because it keeps things of that nature most uncorrupt. Nard is an aromatic shrub of a large and thick root, but short, black and brittle; though unctuous, it smells like cypress, and has a sharp taste, and small and dense leaves. Its tops spread themselves out like ears of corn, therefore, its gift being double, perfumers make much of the spikes and the leaves of the nard. And this is what is meant by Mark, when he says “spikenard very precious”, that is, the ointment which Mary brought for the Lord was not made of the root of nard, but even, what made it more precious, by the addition of the spikes and the leaves, the gratefulness of its smell and virtue was augmented.
 
-Theophylact, Matthew 26:2 : Or as is said in Greek, of pistic nard, that is, faithful, because the ointment of the nard was made faithfully and without counterfeit.
+Theophylact, [[Matthew 26#^26-2|Matthew 26:2]] : Or as is said in Greek, of pistic nard, that is, faithful, because the ointment of the nard was made faithfully and without counterfeit.
 
-Augustine, de Con. Evan. ii, 78: It may appear to be a contradiction, that Matthew and 277 Mark after mentioning “two days” and “the Passover”, and afterwards that Jesus was in Bethany, where that precious ointment is mentioned; whilst John, just before he speaks of the anointing, says, that Jesus came into Bethany six days before the feast. \[John 12:1\] But those persons who are troubled by this, are not aware that Matthew and Mark do not place
+Augustine, de Con. Evan. ii, 78: It may appear to be a contradiction, that Matthew and 277 Mark after mentioning “two days” and “the Passover”, and afterwards that Jesus was in Bethany, where that precious ointment is mentioned; whilst John, just before he speaks of the anointing, says, that Jesus came into Bethany six days before the feast. \[[[John 12#^12-1|John 12:1]]\] But those persons who are troubled by this, are not aware that Matthew and Mark do not place
 
 *[p. 216]* ^pg220
 
@@ -476,7 +476,7 @@ Bede: But by the words, “he went out”, it is shown that he was not invited b
 
 Theophylact: It is said, to “betray him unto them”, that is, to announce to them when He should be alone. But they feared to rush upon Him when He was teaching, for fear of the people.
 
-Pseudo-Jerome: And he promises to betray Him, as his master the devil said before, “All this power I will give thee.” \[Luke 4:6\]
+Pseudo-Jerome: And he promises to betray Him, as his master the devil said before, “All this power I will give thee.” \[[[Luke 04#^4-6|Luke 4:6]]\]
 
 It goes on, “And when they heard it they were glad, and promised to give him money.” They promise him money, and they lose their life, which he also loses on receiving the money.
 
@@ -504,7 +504,7 @@ Bede: Many in this day shudder at the crime of Judas in selling his Master, his 
 
 Chrysostom: Whilst Judas was plotting how to betray Him, the rest of the disciples were taking care of the preparation of the Passover: where it is said, “And the first day of unleavened bread, when they killed the Passover, His disciples said unto Him, ‘Where wilt thou that we go and prepare where thou mayest eat the Passover?’ “
 
-Bede: He means by the first day of the Passover the fourteenth day of the first month, when they throw aside leaven, and were wont to sacrifice, that is, to kill the lamb at even. The Apostle explaining this says, “Christ our Passover is sacrificed for us.” \[1 Cor 5:7\].
+Bede: He means by the first day of the Passover the fourteenth day of the first month, when they throw aside leaven, and were wont to sacrifice, that is, to kill the lamb at even. The Apostle explaining this says, “Christ our Passover is sacrificed for us.” \[[[1 Corinthians 05#^5-7|1 Cor 5:7]]\].
 
 For although He was crucified on the next day, that is, on the fifteenth moon, yet on the night when the lamb was offered up, He committed to His disciples the Mysteries of His Body and Blood, which they were to celebrate, and was seized upon and bound by the Jews; thus He consecrated the beginning of His Sacrifice, that is, of His Passion.
 
@@ -520,7 +520,7 @@ Augustine, de Con. Evan, ii, 80: Mark says a pitcher, Luke a two-handed vessel; 
 
 Bede: And it is a proof of the presence of His divinity, that in speaking with His disciples, He knows what is to take place elsewhere; wherefore it follows, “And His disciples went forth, and came into the city, and found as He had said unto them; and they made ready the Passover.”
 
-Chrysostom: Not our Passover, but in the meanwhile that of the Jews; but He did not only appoint ours, but Himself became our Passover. Why too did He eat it? Because He was “made under the Law, to redeem them that were under the Law,” \[Gal 4:4\] and Himself
+Chrysostom: Not our Passover, but in the meanwhile that of the Jews; but He did not only appoint ours, but Himself became our Passover. Why too did He eat it? Because He was “made under the Law, to redeem them that were under the Law,” \[[[Galatians 04#^4-4|Gal 4:4]]\] and Himself
 
 *[p. 220]* ^pg224
 
@@ -534,7 +534,7 @@ Theophylact: He who is baptized carries the pitcher of water, and he who bears b
 
 Wherefore it is added, “Follow Him.”
 
-Pseudo-Jerome: That is, him who leads to the lofty place, where is the refreshment prepared by Christ. The lord of the house is the Apostle, Peter, to who the Lord has entrusted His house, that there may be one faith under one Shepherd. \[ref John 21:15\] The large upper-room is the wide-spread Church, in which the Name of the Lord is spoken of, prepared by a variety of powers and tongues.
+Pseudo-Jerome: That is, him who leads to the lofty place, where is the refreshment prepared by Christ. The lord of the house is the Apostle, Peter, to who the Lord has entrusted His house, that there may be one faith under one Shepherd. \[ref [[John 21#^21-15|John 21:15]]\] The large upper-room is the wide-spread Church, in which the Name of the Lord is spoken of, prepared by a variety of powers and tongues.
 
 Bede: Or else, the large upper-room is spiritually the Law, which comes forth from the narrowness of the letter, and in a lofty place, that is, in the lofty chamber of the soul, receives the Saviour. But it is designedly that the names both of the bearer of the water, and of the lord of the house, are omitted, to imply that power is given to all who wish to celebrate the 283 true Passover, that is, to be embued with the Sacraments of Christ, and to receive Him in the dwelling-place of their mind.
 
@@ -616,7 +616,7 @@ Wherefore it goes on: “And He took the cup, and when He had given thanks, He g
 
 Gregory, Mor. ii, 37: When His Passion was approaching, He is said to have taken bread and given thanks. He therefore gave thanks, Who took upon Him the stripes of other men’s 287 wickedness; He Who did nothing worthy of smiting, humbly gives a blessing in His Passion, to shew us, what each should do when beaten for his own sins, since He Himself bore calmly the stripes due to the sin of others; furthermore to shew us, what we who are the subjects of the Father should do under correction, when He Who is His equal gave thanks under the lash.
 
-Bede: The wine of the Lord’s cup is mixed with water, because we should remain in Christ and Christ in us. For on the testimony of John, the waters are the people, \[Rev 17:15\] and it is not lawful for any one to offer either wine alone, or water alone, lest such an oblation should mean that the head may be severed from the members, and either that Christ could suffer without love for our redemption, and that we can be saved or be offered to the Father without His Passion.
+Bede: The wine of the Lord’s cup is mixed with water, because we should remain in Christ and Christ in us. For on the testimony of John, the waters are the people, \[[[Revelation 17#^17-15|Rev 17:15]]\] and it is not lawful for any one to offer either wine alone, or water alone, lest such an oblation should mean that the head may be severed from the members, and either that Christ could suffer without love for our redemption, and that we can be saved or be offered to the Father without His Passion.
 
 It goes on: “And they all drank of it.”
 
@@ -634,7 +634,7 @@ Chrysostom: Let there not be therefore a Judas at the table of the Lord; this Sa
 
 There follows: “And He said unto them, ‘This is My Blood of the New Testament, which is shed for many.’ “
 
-Bede: This refers to the different circumstances of the Old Testament, which was con- 288 secrated by the blood of calves and of goats; and the lawgiver said in sprinking it, “This is the blood of the Testament which God has injoined unto you.” \[Heb 9:19-20, ref. Ex 24:8\]
+Bede: This refers to the different circumstances of the Old Testament, which was con- 288 secrated by the blood of calves and of goats; and the lawgiver said in sprinking it, “This is the blood of the Testament which God has injoined unto you.” \[[[Hebrews 09#^9-19|Heb 9:19-20]], ref. Ex 24:8\]
 
 It goes on: “Which is shed for many.”
 
@@ -764,7 +764,7 @@ Bede: As being God, dwelling in the body, He shews the frailty of flesh, that th
 
 Theophylact: but some have understood this, as if He had said, I am sorrowful, not because I am to die, but because the Jews, My countrymen, are about to crucify Me, and by these means to be shut out from the kingdom of God.
 
-294 Pseudo-Jerome: By this also we are taught to fear and to be sorrowful before the judgment of death, for not by ourselves, but by Him only, can we say, “The prince of this world cometh, and hath nothing in Me.” \[John 14:30\]
+294 Pseudo-Jerome: By this also we are taught to fear and to be sorrowful before the judgment of death, for not by ourselves, but by Him only, can we say, “The prince of this world cometh, and hath nothing in Me.” \[[[John 14#^14-30|John 14:30]]\]
 
 *[p. 229]* ^pg233
 
@@ -924,7 +924,7 @@ There follows: “And he sat with the servants, and warmed himself at the fire.�
 
 Pseudo-Jerome: He warms himself at the fire in the hall, with the servants. The hall of the High Priest is the enclosure of the world, the servants are the devils, with whom whosoever remains cannot weep for his sins; the fire is the desire of the flesh.
 
-Bede: For charity is the fire of which it is said, “I am come to send fire on the earth,” 301 \[Luke 12:49\] which flame coming down on the believers, taught them to speak with various tongues the praise of the Lord. There is also a fire of covetousness, of which it is said, “They are all adulterers as an oven:” \[Hosea (Osee) 7:4\] this fire, raised up in the hall of Caiaphas by the suggestion of an evil spirit, was arming the tongues of the traitors to deny and blaspheme the Lord. For the fire lit up in the hall amidst the cold of the night was a figure of what the wicked assembly was doing within; for because of the abounding of iniquity the love of many waxes cold. \[Matt 24:12\] Peter, who for a time was benumbed by this cold, wished as it were to be warmed by the coals of the servants of Caiaphas, because He sought in the society of traitors the consolation of worldly comfort.
+Bede: For charity is the fire of which it is said, “I am come to send fire on the earth,” 301 \[[[Luke 12#^12-49|Luke 12:49]]\] which flame coming down on the believers, taught them to speak with various tongues the praise of the Lord. There is also a fire of covetousness, of which it is said, “They are all adulterers as an oven:” \[Hosea (Osee) 7:4\] this fire, raised up in the hall of Caiaphas by the suggestion of an evil spirit, was arming the tongues of the traitors to deny and blaspheme the Lord. For the fire lit up in the hall amidst the cold of the night was a figure of what the wicked assembly was doing within; for because of the abounding of iniquity the love of many waxes cold. \[[[Matthew 24#^24-12|Matt 24:12]]\] Peter, who for a time was benumbed by this cold, wished as it were to be warmed by the coals of the servants of Caiaphas, because He sought in the society of traitors the consolation of worldly comfort.
 
 It goes on: “And the Chief Priests and all the council sought for witness against Jesus to put Him to death.”
 
@@ -968,7 +968,7 @@ Pseudo-Jerome: But our God and Saviour Himself, Who brought salvation to the wor
 
 Wherefore it goes on, “But He held His peace, and answered nothing.”
 
-The silence of Christ is the pardon for the defence or excuse of Adam. \[Gen 3:10\] 103 Theophylact: But He remained silent because He knew that they would not attend to His words, wherefore He answered according to Luke, “If I tell you, ye will not believe.” \[Luke 22:67\]
+The silence of Christ is the pardon for the defence or excuse of Adam. \[Gen 3:10\] 103 Theophylact: But He remained silent because He knew that they would not attend to His words, wherefore He answered according to Luke, “If I tell you, ye will not believe.” \[[[Luke 22#^22-67|Luke 22:67]]\]
 
 Wherefore there follows: “Again the High Priest asked Him, and said unto Him, Art thou the Christ, the Son of the Blessed?”
 
@@ -984,7 +984,7 @@ Theophylact: For He knew that they would not believe, nevertheless He answered t
 
 Augustine, de Con., iii, 6: Matthew, however, does not say that Jesus answered, “I am,” but, “Thou has said.” But Mark shews that the words “I am” were equivalent to “Thou hast said.”
 
-There follows: “And ye shall see the Son of Man sitting on the right hand of power, and coming in the clouds of heaven.” \[Matt 26:64\]
+There follows: “And ye shall see the Son of Man sitting on the right hand of power, and coming in the clouds of heaven.” \[[[Matthew 26#^26-64|Matt 26:64]]\]
 
 Theophylact: As if He had said, Ye shall see Me as the Son of Man sitting on the right hand of the Father, for He here calls the Father, “power”. He will not however come without a body, but as He appeared to those who crucified Him, so will He appear in the judgment.
 

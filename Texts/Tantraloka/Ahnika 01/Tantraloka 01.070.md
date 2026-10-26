@@ -30,7 +30,7 @@ nahyasti kiñcittacchaktitadvadbhedo'pi vāstavaḥ || ^iast
 > [!source] Dyczkowski, vol. I
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)/Tantraloka Dyczkowski v01 07 - Chapter One, part 6#^pg222|p. 208]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf#page=222>))
 >
-> However, this (difference between powers and their possessor) is not absolutely non-existent (rather it does exist). Nothing exists apart from (its) manifestation; thus, the difference between power and its possessor is also real (vāstava) (in this sense).“"
+> However, this (difference between powers and their possessor) is not absolutely non-existent (rather it does exist). Nothing exists apart from (its) manifestation; thus, the difference between power and its possessor is also real (vāstava) (in this sense).
 
 ## Viveka
 

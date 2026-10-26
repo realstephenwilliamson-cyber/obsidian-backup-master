@@ -38,7 +38,7 @@ Pseudo-Jerome: Or else it means the avaricious, who, being able to give had rath
 
 *[p. 43]* ^pg47
 
-their hands, that is, “let him that stole steal no more, but rather let him labour, working with his hand the thing which is good, that he may have to give to him that needeth.” \[Eph 4:28\]
+their hands, that is, “let him that stole steal no more, but rather let him labour, working with his hand the thing which is good, that he may have to give to him that needeth.” \[[[Ephesians 04#^4-28|Eph 4:28]]\]
 
 Theophylact: Or, he had his right hand withered, who does not the works which belong to the right side; for from the time that our hand is employed in forbidden deeds, from that time it is withered to the working of good. But it will be restored whenever it stands firm in virtue; wherefore Christ saith, “Arise,” that is, from sin, “and stand in the midst;” that thus it may stretch itself forth neither too little nor too much.
 
@@ -132,7 +132,7 @@ Those therefore who are highly exalted in merits and in words are called up into
 
 It goes on: “And they came unto Him, &c.”
 
-For the Lord loved the beauty of Jacob, \[Ps 46\] that they might “sit upon twelve thrones, judging the twelve tribes of Israel,” \[Matt 19:28\] who also in bands of threes and fours watch around the tabernacle of the Lord, and carry the holy words of the Lord, bearing them forward on their actions, as men do burdens on their shoulders.
+For the Lord loved the beauty of Jacob, \[Ps 46\] that they might “sit upon twelve thrones, judging the twelve tribes of Israel,” \[[[Matthew 19#^19-28|Matt 19:28]]\] who also in bands of threes and fours watch around the tabernacle of the Lord, and carry the holy words of the Lord, bearing them forward on their actions, as men do burdens on their shoulders.
 
 61 Bede: For as a sacrament of this the children of Israel once used to encamp about the Tabernacle, so that on each of the four sides of the square three tribes were stationed. Now three times four are twelve, and in three bands of four the Apostles were sent to preach, that through the four quarters of the whole world they might baptize the nations in the name of the Father, the Son, and the Holy Ghost.
 
@@ -144,7 +144,7 @@ Theophylact: Further, He gives the names of the Apostles, that the true Apostles
 
 And therefore it continues: “And Simon He surnamed Cephas.”
 
-Augustine, de Con. Evan. ii, 17: But let no one suppose that Simon now received his name and was called Peter, for thus he would make Mark contrary to John, who relates that it had been long before said unto him, “Thou shalt be called Cephas.” \[John 1:42\]
+Augustine, de Con. Evan. ii, 17: But let no one suppose that Simon now received his name and was called Peter, for thus he would make Mark contrary to John, who relates that it had been long before said unto him, “Thou shalt be called Cephas.” \[[[John 01#^1-42|John 1:42]]\]
 
 But Mark gives this account by way of recapitulation; for as he wished to give the names of the twelve Apostles, and was obliged to call him, Peter, his object was to intimate briefly, that he was not called this originally, but that the Lord gave him that name.
 
@@ -154,7 +154,7 @@ Bede: And the reason that the Lord willed that he should at first be called othe
 
 in Latin or in Greek means the same thing as Cephas in Hebrew, and in each language the name is drawn from, a stone.
 
-Nor can it be doubted that is the rock of which Paul spoke, “And this rock was Christ.” \[1 Cor 10:4\] For as Christ was the true light, and allowed also that the Apostles should be called the light of the world, \[Matt 5:14\] so also to Simon, who believed on the rock Christ, He gave the name of Rock.
+Nor can it be doubted that is the rock of which Paul spoke, “And this rock was Christ.” \[[[1 Corinthians 10#^10-4|1 Cor 10:4]]\] For as Christ was the true light, and allowed also that the Apostles should be called the light of the world, \[[[Matthew 05#^5-14|Matt 5:14]]\] so also to Simon, who believed on the rock Christ, He gave the name of Rock.
 
 Pseudo-Jerome: Thus from obedience, which Simon signifies, the ascent is made to knowledge, which is meant by Peter.
 
@@ -162,7 +162,7 @@ It goes on: “And James the son of Zebedee, and John his brother.”
 
 Bede: We must connect this with what went before, “He goeth up into a mountain, and calleth.”
 
-Pseudo-Jerome, Gen. 27:36 see Catena Aurea, Matt. 10:2: Namely, James who has supplanted all the desires of the flesh, and John, who received by grace what others held by la- 62 bour.
+Pseudo-Jerome, Gen. 27:36 see Catena Aurea, [[Matthew 10#^10-2|Matt. 10:2]]: Namely, James who has supplanted all the desires of the flesh, and John, who received by grace what others held by la- 62 bour.
 
 There follows: “And He surnamed them, Boanerges.”
 
@@ -170,7 +170,7 @@ Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: He calls the sons of Zebedee by this 
 
 Pseudo-Jerome; Or by this the lofty merit of the three mentioned above is shewn, who merited to hear in the mountain the thunders of the Father, when he proclaimed in thunder through a could concerning the Son, “This is My beloved Son;” that they also through the cloud of the flesh and fire of the word, might as it were scatter the thunderbolts in rain on the earth, since the Lord turned the thunderbolts into rain, so that mercy extinguishes what judgment sets on fire.
 
-It goes on: “And Andrew,” who manfully does violence to perdition, so that he had ever ready within him his own death, to give as an answer, \[1 Pet 3:15\] and his soul was ever in his hands. \[Ps 119:109\]
+It goes on: “And Andrew,” who manfully does violence to perdition, so that he had ever ready within him his own death, to give as an answer, \[[[1 Peter 03#^3-15|1 Pet 3:15]]\] and his soul was ever in his hands. \[Ps 119:109\]
 
 Bede: For Andrew is a Greek name, which means ‘manly,’ from (greek word), that is, man, for he manfully adhered to the Lord.
 
@@ -182,13 +182,13 @@ There follows: “And Bartholomew,” which means, the son of him who suspends t
 
 *[p. 48]* ^pg52
 
-But the name of son of God is obtained by peace and loving one’s enemy; for, Blessed are the peacemakers, for they are the sons of God. \[Matt 5:9\] And, Love your enemies, that ye may be the sons of God. \[see Matt 5:44-45\]
+But the name of son of God is obtained by peace and loving one’s enemy; for, Blessed are the peacemakers, for they are the sons of God. \[[[Matthew 05#^5-9|Matt 5:9]]\] And, Love your enemies, that ye may be the sons of God. \[see [[Matthew 05#^5-44|Matt 5:44-45]]\]
 
 There follows: “And Matthew,” that is, ‘given,’ to whom it is given by the Lord, not only to obtain remission of sins, but to be enrolled in the number of the Apostles.
 
 “And Thomas,” which means, ‘abyss,’ for men who have knowledge by the power of God, put forward many deep things.
 
-It goes on: “And James the son of Alphaeus,” that is, of ‘the learned,’ or ‘the thousandth,’ beside whom a thousand will fall. \[Ps 91:7\] This other James is he, whose wrestling is not against flesh and blood, but against spiritual wickedness. \[Eph 6:12\]
+It goes on: “And James the son of Alphaeus,” that is, of ‘the learned,’ or ‘the thousandth,’ beside whom a thousand will fall. \[Ps 91:7\] This other James is he, whose wrestling is not against flesh and blood, but against spiritual wickedness. \[[[Ephesians 06#^6-12|Eph 6:12]]\]
 
 There follows, “And Thaddaeus,” that is, ‘corculum,’ which means, ‘he who guards the heart’ \[ed. note: ‘cordis cultor’\] , one who keeps his heart in all watchfulness.
 
@@ -198,7 +198,7 @@ There follows, “And Simon the Canaanite, and Judas Iscariot, who betrayed Him.
 
 Theophylact: Whom he reckons amongst the Apostles, that we may learn that God does not repel any man for wickedness, which is future, but counts him worthy on account of his present virtue.
 
-Pseudo-Jerome: But Simon in interpreted, ‘laying aside sorrow;’ for “blessed are they that mourn, for they shall be comforted.” \[Matt 5:4\]
+Pseudo-Jerome: But Simon in interpreted, ‘laying aside sorrow;’ for “blessed are they that mourn, for they shall be comforted.” \[[[Matthew 05#^5-4|Matt 5:4]]\]
 
 And he is called Canaanite, that is, Zealot, because the zeal of the Lord ate him up. But Judas Iscariot is one who does not do away his sins by repentance. For Judas means, ‘boaster,’ or vain-glorious. And Iscariot, ‘the memory of death.’ But many are the proud and vain-glorious confessors in the Church, as Simon Magus, and Arius, and other heretics, whose deathlike memory is celebrated in the Church, that it may be avoided.
 
@@ -230,7 +230,7 @@ Bede: Now there is a great difference between those who do not understand the wo
 
 For ‘Beel’ means Baal himself, and ‘zebub’ a fly; the meaning of Beelzebub therefore is, the man of flies, on account of the filth of the blood which was offered, from which most unclean rite, they call him prince of the devils, adding, “and by the prince of the devils casteth He out devils.”
 
-Pseudo-Jerome: But mystically, the house to which they came, is the early Church. The crowds which prevent their eating bread are sins and vices; for he who eateth unworthily, “eateth and drinketh damnation to himself.” \[1 Cor 11:29\]
+Pseudo-Jerome: But mystically, the house to which they came, is the early Church. The crowds which prevent their eating bread are sins and vices; for he who eateth unworthily, “eateth and drinketh damnation to himself.” \[[[1 Corinthians 11#^11-29|1 Cor 11:29]]\]
 
 Bede: The Scribes also coming down from Jerusalem blaspheme. But the multitude from Jerusalem, and from other regions of Judaea, or of the Gentiles, followed the Lord, because so it was to be at the time of His Passion, that a crowd of the people of the Jews should lead
 
@@ -296,7 +296,7 @@ Augustine, Serm., 71, 12, 22: Or else impenitence itself is the blasphemy agains
 
 68 But he subjoins, “Because they said, He hath an unclean spirit,” that he might shew that His reason for saying it, was their declaring that He cast out a devil by Beelzebub, not because there is a blasphemy, which cannot be remitted, since even this might be remitted through a right repentance; but the cause why this sentence was put forth by the Lord, after mentioning the unclean spirit, (who as our Lord shews was divided against himself,) was, that the Holy Ghost even makes those whom He brings together undivided, by His remitting those sins, which divided them from Himself, which gift of remission is resisted by no one, but him who has the hardness of an impenitent heart.
 
-For in another place, the Jews said of the Lord, that He had a devil \[John 7:20\], without however His saying any thing there about the blasphemy against the Spirit; and the reason is, that they did not there cast in His teeth the unclean spirit, in such a way, that spirit could by their own words be shewn to be divided against Himself, as Beelzebub was here shewn to be, by their saying, that it might be he who cast out devils. \[ed. note: St. Augustine explains his meaning by going on to say, that as the Devil was proved by the words of the Jews to be the author of division, so the Holy Ghost was the author of unity, so that one form of blasphemy of the Holy Ghost was rending the unity of the Church, without which there is no remission. St. Ambrose, something in the same way, applies the text to the Arians, as dividing the Holy Trinity, de Fide, i, 1.\]
+For in another place, the Jews said of the Lord, that He had a devil \[[[John 07#^7-20|John 7:20]]\], without however His saying any thing there about the blasphemy against the Spirit; and the reason is, that they did not there cast in His teeth the unclean spirit, in such a way, that spirit could by their own words be shewn to be divided against Himself, as Beelzebub was here shewn to be, by their saying, that it might be he who cast out devils. \[ed. note: St. Augustine explains his meaning by going on to say, that as the Devil was proved by the words of the Jews to be the author of division, so the Holy Ghost was the author of unity, so that one form of blasphemy of the Holy Ghost was rending the unity of the Church, without which there is no remission. St. Ambrose, something in the same way, applies the text to the Arians, as dividing the Holy Trinity, de Fide, i, 1.\]
 
 31\. There came then His brethren, and His mother, and, standing without, sent unto Him, calling Him.
 
@@ -320,7 +320,7 @@ Wherefore it goes on, “And the multitude sat about Him, &c.”
 
 Bede: The brother of the Lord must not be thought to be the sons of the ever-virgin Mary, as Helvidius says \[ed. note: The perpetual virginity of the Mother of God is reckoned by White, Bramhall, Patrick and Pearson, amongst the traditions which have ever been held in the Catholic Church. For an account of the heretics who denied it, see Bp. Pearson on the Creed, Art, 3, p. 272, note x., also Catena Aurea in Matt., p 58, note c\], nor the sons of Joseph by a former marriage, as some think, but rather they must be understood to be His relations.
 
-Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: But another Evangelist says, that His brethren did not believe on Him. \[John 7:5\] With which this agrees, which says, that they sought Him, waiting without, and with this meaning the Lord does not mention them as relations.
+Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: But another Evangelist says, that His brethren did not believe on Him. \[[[John 07#^7-5|John 7:5]]\] With which this agrees, which says, that they sought Him, waiting without, and with this meaning the Lord does not mention them as relations.
 
 Wherefore it follows, “And He answered them, saying, Who is My mother or My brethren?”
 
@@ -598,7 +598,7 @@ Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Or else He calls by the name of kingd
 
 Pseudo-Jerome: For the seed is the word of life, the ground is the human heart, and the sleep of the man means the death of the Saviour. The seed springs up night and day, because after the sleep of Christ, the number of Christians, through calamity and prosperity, continued to flourish more and more in faith, and to wax greater in deed.
 
-Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Or Christ Himself is the man who rises, for He sat waiting with patience, that they who received seed should bear fruit. He rises, that is, by the word of His love, He makes us grow to the bringing forth fruit, by the armour of righteousness on the right hand, \[2 Cor 6:7\] by which is meant the day, and on the left, by which is meant the night of persecution; for by these the seed springs up, and does not wither.
+Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Or Christ Himself is the man who rises, for He sat waiting with patience, that they who received seed should bear fruit. He rises, that is, by the word of His love, He makes us grow to the bringing forth fruit, by the armour of righteousness on the right hand, \[[[2 Corinthians 06#^6-7|2 Cor 6:7]]\] by which is meant the day, and on the left, by which is meant the night of persecution; for by these the seed springs up, and does not wither.
 
 Theophylact: Or else Christ sleeps, that is, ascends into heaven, where, though He seem to sleep, yet He rises by night, when through temptations He raises us up to the knowledge of Himself; and in the day time, when on account of our prayers, He sets in order our salvation.
 
@@ -608,7 +608,7 @@ Pseudo-Jerome: But when He says, “He knoweth not how,” He is speaking in a f
 
 Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Or else He says, “He knoweth not,” that He may shew the free-will of those who receive the word, for He commits a work to our will, and does not work the whole Himself alone, lest the good should seem involuntary. For the earth brings forth fruits of its own accord, that is, she is brought to bear fruit without being compelled by a necessity contrary to her will. “First the blade.”
 
-Pseudo-Jerome: That is, fear. For “the fear of God is the beginning of wisdom. Then the full corn in the ear;” \[Ps 111:10\] that is, charity, for charity is the fulfilling of the Law. \[see Rom 13:8\]
+Pseudo-Jerome: That is, fear. For “the fear of God is the beginning of wisdom. Then the full corn in the ear;” \[Ps 111:10\] that is, charity, for charity is the fulfilling of the Law. \[see [[Romans 13#^13-8|Rom 13:8]]\]
 
 Pseudo-Chrys., Vict. Cat. e Cat. in Marc.: Or, first it produces the blade, in the law of nature, by degrees growing up to advancement; afterwards it brings forth the ears, which are to be collected into a bundle, and to be offered on an altar to the Lord, that is, in the law of Moses; afterwards the full-fruit, in the Gospel.
 
@@ -644,7 +644,7 @@ Chrys.: And also because the wisdom spoken amongst the perfect expands, to an ex
 
 Theophylact: Again, it put forth great boughs, for the Apostles were divided off as the boughs of a tree, some to Rome, some to India, some to other parts of the world.
 
-Pseudo-Jerome: Or else, that seed is very small in fear, but great when it has grown into charity, which is greater than all herbs: for “God is love,” \[1 John 4:16\] whilst “all flesh is grass.” \[Isa 40:6\] But the boughs which it puts forth are those of mercy and compassion, since under its shade the poor of Christ, who are meant by the living creatures of the heavens, delight to dwell.
+Pseudo-Jerome: Or else, that seed is very small in fear, but great when it has grown into charity, which is greater than all herbs: for “God is love,” \[[[1 John 04#^4-16|1 John 4:16]]\] whilst “all flesh is grass.” \[Isa 40:6\] But the boughs which it puts forth are those of mercy and compassion, since under its shade the poor of Christ, who are meant by the living creatures of the heavens, delight to dwell.
 
 Bede: Again, the man who sows is by many taken to mean the Saviour Himself, by others, man himself sowing in his own heart.
 
@@ -818,7 +818,7 @@ Bede: But by the public declaration of the scourge which the madman suffered the
 
 It goes on, “And he besought Him much that He would not send them away out of the 93 country.”
 
-Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Luke, however, says, “into the abyss.” \[Luke 8:3\] For the abyss is the separation of this world, for devils deserve to be sent into outer
+Pseudo-Chrys., Vict. Ant. e Cat. in Marc.: Luke, however, says, “into the abyss.” \[[[Luke 08#^8-3|Luke 8:3]]\] For the abyss is the separation of this world, for devils deserve to be sent into outer
 
 *[p. 72]* ^pg76
 
@@ -966,7 +966,7 @@ Theophylact: But He saith to her, “Go in peace,” that is, in rest, which mea
 
 Pseudo-Chrys.: Or else He says, “Go in peace,” sending her away into that which is the final good, for God dwells in peace, that thou mayest know, that she was not only healed in body, but also from the causes of bodily pain, that is, from her sins.
 
-Pseudo-Jerome: Mystically, however, Jairus comes after the healing of the woman, because when the fulness of the Gentiles has come in, then shall Israel be saved. \[Romans 11\] Jairus means either illuminating, or illuminated, that is, the Jewish people, having cast off the shadow of the letter, enlightened by the Spirit, and enlightening others, falling at the feet of the Word, that is, humbling itself before the Incarnation of Christ, prays for her daughter, for when a man lives himself, he makes others live also. Thus Abraham, and Moses, and Samuel, intercede for the people who are dead, and Jesus comes upon their prayers.
+Pseudo-Jerome: Mystically, however, Jairus comes after the healing of the woman, because when the fulness of the Gentiles has come in, then shall Israel be saved. \[[[Romans 11#^11-1|Romans 11]]\] Jairus means either illuminating, or illuminated, that is, the Jewish people, having cast off the shadow of the letter, enlightened by the Spirit, and enlightening others, falling at the feet of the Word, that is, humbling itself before the Incarnation of Christ, prays for her daughter, for when a man lives himself, he makes others live also. Thus Abraham, and Moses, and Samuel, intercede for the people who are dead, and Jesus comes upon their prayers.
 
 Bede: Again, the Lord going to the child, who is to be healed, is thronged by the crowd, because though He gave healthful advice to the Jewish nation, He is oppressed by the wicked habits of that carnal people; but the woman with an issue of blood, cured by the Lord, is the Church gathered together from the nations, for the issue of blood may be either understood of the pollution of idolatry, or of those deeds, which are accompanied by pleasure to flesh and blood. But whilst the word of the Lord decreed salvation to Judaea, the people of the Gentiles by an assured hope seized upon the health, promised and prepared for others.
 

@@ -20,16 +20,13 @@ nyasa: "left shoulder (*skandha*)"
 ## Front
 
 - **Glyph:** च
-- **Variation:** —
 - **Example:** चन्द्र
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘<u>ch</u>utney’
-- **Class (as printed):** 2 (palatal) · hard · unaspirated
-- **Grid:** the five rows of stops; in bold: च
-- **Example:** candra (moon)
+> [!note]- Back
+> - **Pronunciation:** As in ‘<u>ch</u>utney’
+> - **Class:** palatal · hard · unaspirated
+> - क ख ग घ ङ / <u>च</u> छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म
+> - **Example:** candra (moon)
 
 ## Register
 

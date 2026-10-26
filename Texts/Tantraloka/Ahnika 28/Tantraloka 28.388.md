@@ -27,7 +27,7 @@ nānyathā tadabhāvaścetsarvathā so'pyathācaret |
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#^pg193|p. 176]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=193>))
 >
-> (The teacher) whose knowledge of a (corpus of) scripture (śāstra) is well-practiced may explain it, not another.’. Now, if there is no (teacher like) that in all respects, he (who is available) may also do that. (with 28.387cd–388ab)
+> (The teacher) whose knowledge of a (corpus of) scripture (śāstra) is well-practiced may explain it, not another. Now, if there is no (teacher like) that in all respects, he (who is available) may also do that. (with 28.387cd–388ab)
 >
 > This kind (of characterization of a teacher as one who possesses) the knowledge of ritual procedures (kalpa) etc. is also taught in the venerable Bhairavakula. (with 28.388cd)
 

@@ -11,6 +11,7 @@ second_reading: "1 Timothy 1:12-17"
 gospel: "Luke 15:1-10"
 first_reading_complementary: "Exodus 32:7-14"
 psalm_complementary: "Psalm 51:1-10"
+psalm_bcp_complementary: "Psalm 51:1-11"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-19]]"
 cssclasses:

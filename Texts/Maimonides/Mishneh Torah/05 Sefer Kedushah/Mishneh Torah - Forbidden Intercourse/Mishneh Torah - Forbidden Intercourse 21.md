@@ -216,7 +216,7 @@ A person should sell everything that he has [so that] he can marry the daughter 
 [^4]: The *Maggid Mishneh* considers the following as Rabbinic safeguards. The *Beit Shmuel* 21:2 mentions opinions which consider some as having a Scriptural source.
 [^5]: As *Avot* 1:5 teaches: "Mirth and frivolity habituate a person to immorality."
 [^6]: In his Commentary to the Mishnah (*Sanhedrin* 7:4), the Rambam quotes the *Pesikta Rabati,* ch. 25, which interprets the commandment *lo tinaf*, as "Do not take forbidden pleasure with your nose."
-[^7]: For if a person does not look at a woman before he marries her, he may have an unpleasant surprise afterwards ([[Kiddushin 41#41a|*Kiddushin* 41a]]). The Ra'avad suggests that a pious person should rely on the opinion of others rather than looking at his intended himself, but the *Shulchan Aruch* (*Even HaEzer* 21:3) quotes the Rambam's view.
+[^7]: For if a person does not look at a woman before he marries her, he may have an unpleasant surprise afterwards (*Kiddushin* [[Kiddushin 41#41a|41a]]). The Ra'avad suggests that a pious person should rely on the opinion of others rather than looking at his intended himself, but the *Shulchan Aruch* (*Even HaEzer* 21:3) quotes the Rambam's view.
 [^8]: Indeed, a woman may adorn herself during this time so that she will not appear unattractive to her husband (Chapter 11, Halachah 19).
 [^9]: This applies only to portions of her body which are usually revealed. He should not look at those portions that are usually covered (Ra'avad).
 [^10]: This applies even if the woman does not actually touch him [*Shulchan Aruch* (*Even HaEzer* 21:5)].
@@ -247,10 +247,10 @@ A person should sell everything that he has [so that] he can marry the daughter 
 [^32]: When it is a mitzvah to engage in relations.
 [^33]: If one can cover the light or create a partition in front of it in a manner permitted on the Sabbath, there is no prohibition [*Chelkat Mechokek* 25:4; Rama (*Orach Chayim* 240:11)].
 [^34]: I.e., one feels very aroused (*Magen Avraham* 240:25).
-[^35]: In *Hilchot Deot* 5:4, the Rambam gives a rationale that at this time a person's food will have been digested and yet, he will not be overly hungry. The commentaries to [[Nedarim 20#20b|*Nedarim* 20b]] explain that in this manner, the man and his wife will have forgotten all their daytime concerns and will be able to focus their attention on each other and the holiness of the experience.
+[^35]: In *Hilchot Deot* 5:4, the Rambam gives a rationale that at this time a person's food will have been digested and yet, he will not be overly hungry. The commentaries to *Nedarim* [[Nedarim 20#20b|20b]] explain that in this manner, the man and his wife will have forgotten all their daytime concerns and will be able to focus their attention on each other and the holiness of the experience.
 [^36]: See *Hilchot Ishut*, ch. 14, which explains the frequency of the conjugal duties a husband has to his wife. This factor is dependent on the nature of the husband's work and the manner in which it taxes him.
 [^37]: See *Hilchot Kriat Shema* 4:8 which explains that originally, Ezra enacted such a decree for the reason mentioned by the Rambam. Afterwards, our Sages checked and saw that this decree had never fully spread throughout the Jewish community. Hence they nullified it.
-[^38]: [[Nedarim 20#20b|*Nedarim* 20b]].
+[^38]: *Nedarim* [[Nedarim 20#20b|20b]].
 [^39]: See *Hilchot Deot* 5:4-5 which states:  
     [Relations should be conducted] amidst their mutual consent and joy. He should converse and dally with her somewhat, so that she will be relaxed. He should have intercourse [with her] modestly and not boldly.... Whoever conducts himself in this manner [may be assured that] not only does he sanctify his soul, purify himself, and refine his character, but furthermore, if he has children, they will be handsome and modest, worthy of wisdom and piety.
 [^40]: I.e., exhibits any of the undesirable behaviors described above. The rationale is, as explained in *Avodat HaKodesh* and other sources, a person's intent at the time of sexual relations has a major effect in determining the character of his children.
@@ -259,24 +259,24 @@ A person should sell everything that he has [so that] he can marry the daughter 
 [^43]: For surrendering oneself to one's desires without control within the context of marriage may lead one to surrender oneself to one's desires outside the context of marriage.
 [^44]: According to Scriptural Law, a person may consecrate his wife by engaging in relations with her. Nevertheless, our Sages forbade such a practice because of its immodest nature (*Hilchot Ishut* 3:21).
 [^45]: As *Hilchot Ishut, ibid.:*:22 continues, the latter two practices were forbidden as a safeguard to lewd conduct. Our Sages feared that if women would be consecrated in this manner, the people would look at marriage and intimacy in a much baser manner.
-[^46]: [[Kiddushin 12#12b|*Kiddushin* 12b]].
+[^46]: *Kiddushin* [[Kiddushin 12#12b|12b]].
 [^47]: For an extended period of time. Needless, to say, there is no difficulty with making a short visit.  
     With regard to both this and the previous law, the Ra'avad writes that if the couple are given a separate room and they use their own bedspreads, there is no prohibition. The *Maggid Mishneh* writes that in practice, many people follow this approach, although he does not see a source for this leniency in the Talmud. The *Chelkat Mechokek* 25:6 and the *Beit Shmuel* 25:7 quotes the Ra'avad's view.
-[^48]: Lest this arouse undesirable thoughts [Rashi, [[Pesachim 51#51a|*Pesachim* 51a]]; see Rama (*Even HaEzer* 23:6)].
+[^48]: Lest this arouse undesirable thoughts [Rashi, *Pesachim* [[Pesachim 51#51a|51a]]; see Rama (*Even HaEzer* 23:6)].
 [^49]: I.e., a widow or a divorcee. A woman who never married may wear her hair uncovered (*Chelkat Mechokek* 21:2).
 [^50]: When stating this prohibition, *Shulchan Aruch* (*Even HaEzer* 23:1) adds: "This transgression is more severe than any of the sins in the Torah."
 [^51]: See the commentaries to Genesis, ch. 38, which relate that this was the sin of Judah's two sons: Er and Onan. They married Tamar, but did not desire that she become pregnant. Hence they did not release their sperm within her. Their sin angered God and He caused them to die.
-[^52]: For in essence, whenever the couple engage in intercourse, he will be releasing sperm without purpose, because she is not old enough to become pregnant. [[Niddah 13#13b|*Niddah* 13b]] states that those who marry minors hold back Mashiach's coming.  
+[^52]: For in essence, whenever the couple engage in intercourse, he will be releasing sperm without purpose, because she is not old enough to become pregnant. *Niddah* [[Niddah 13#13b|13b]] states that those who marry minors hold back Mashiach's coming.  
     It must be emphasized that if a man does marry a minor, he is permitted to engage in relations with her [Rama (*Even HaEzer* 23:5)]. Similarly, relations are permitted in other instances where they will not lead to pregnancy: e.g., when the woman is already pregnant, directly after birth, or she is past menopause. Since a man has conjugal duties to his wife, he is not allowed to ignore them even though she will not become pregnant.
 [^53]: See Chapter 22, Halachah 21. See also *Avot D'Rabbi Nattan* 20:1 which implies that this is not merely a matter of will power and mind control. Instead, directing one's attention to the Torah awakens spiritual influences which prevent a person's attention from focusing on sexual thoughts.
 [^54]: This analogy for the Torah is taken from [[Proverbs 05#^5-19|Proverbs 5:19]].
 [^55]: Needless to say, it is forbidden for one to sleep on his belly.
-[^56]: Our translation follows the authoritative manuscripts and early printings of the *Mishneh Torah*. This also follows the text of [[Avodah Zarah 20#20b|*Avodah Zarah* 20b]], the Rambam's apparent source. The standard printed text of the *Mishneh Torah* employs a slightly different version.
+[^56]: Our translation follows the authoritative manuscripts and early printings of the *Mishneh Torah*. This also follows the text of *Avodah Zarah* [[Avodah Zarah 20#20b|20b]], the Rambam's apparent source. The standard printed text of the *Mishneh Torah* employs a slightly different version.
 [^57]: When quoting this law, the *Shulchan Aruch* (*Even HaEzer* 21:1) clarifies that it applies even when the woman is not wearing the garments. The clothes themselves may prompt the man's imagination.
 [^58]: For watching her body might arouse him.
 [^59]: Even if his wife is not together with him (*Beit Shmuel* 23:4).
 [^60]: See *Shulchan Aruch* (*Orach Chayim* 3:14) which grants a man permission to hold himself below the corona of his organ, for this does not stimulate him sexually.
-[^61]: See [[Shabbat 118#118b|*Shabbos* 118b]], 53b.
+[^61]: See *Shabbos* [[Shabbat 118#118b|118b]], 53b.
 [^62]: I.e., directly after a youth becomes thirteen (*Chelkat Mechokek* 1:3).
 [^63]: I.e., having foresight with regard to one's children's sexual behavior will prevent sin. See the conclusion of *Hilchot Sotah* where the Rambam cites the same verse in a different - although somewhat related - context.
 [^64]: According to Scriptural Law, a man cannot consecrate a woman until he reaches the age of thirteen and demonstrates signs of physical maturity. Hence, if a couple are married beforehand, all relations are comparable to promiscuity. See *Chelkat Mechokek, loc. cit.* and *Beit Shmuel* 1:4 who discuss certain views that maintain that it is permitted to marry beforehand.
@@ -286,20 +286,20 @@ A person should sell everything that he has [so that] he can marry the daughter 
 [^68]: We assume that the difference in age will lead to a lack of sexual harmony and cause the man and/or woman to seek fulfillment outside of marriage.
 [^69]: If, however, the woman was merely consecrated, the couple will not have shared familiarity and there is less grounds for suspicion, as mentioned at the conclusion of the halachah.
 [^70]: In the Talmudic era, the custom was to build blocks of homes that opened up to a communal courtyard. Several of these courtyards would open up to a single lane. If a man and his divorcee would dwell in a single courtyard - and even in a single lane - they would meet each other on a frequent basis. In such a situation, we fear that the familiarity that they shared in the past might lead them to be intimate.  
-    Rav Moshe HaCohen and others question the Rambam's ruling, noting that as long as the woman has not remarried, there is no prohibition against relations between the couple. They cite the standard text of [[Ketubot 27#27b|*Ketubot* 27b]] which reads "A woman should not marry in his neighborhood." They maintain that the prohibition applies only when the woman remarries. She and her new husband should not dwell near her previous husband lest this lead to adultery.  
+    Rav Moshe HaCohen and others question the Rambam's ruling, noting that as long as the woman has not remarried, there is no prohibition against relations between the couple. They cite the standard text of *Ketubot* [[Ketubot 27#27b|27b]] which reads "A woman should not marry in his neighborhood." They maintain that the prohibition applies only when the woman remarries. She and her new husband should not dwell near her previous husband lest this lead to adultery.  
     The *Shulchan Aruch* (*Even HaEzer* 119:7) quotes the Rambam's wording. The Rama, however, mentions that if a woman remarries, she should not dwell in the same lane as her ex-husband even if he is not a priest.
 [^71]: Since he is also bound by the prohibition against relations with a divorcee, there are more severe restrictions.
 [^72]: Rather than demand payment herself. In this way, they will share less contact.
 [^73]: For one of them should have appointed an agent so that they would avoid meeting each other.
 [^74]: Since they never lived together, we do not fear that meeting each other will lead to intimacy.
-[^75]: This applies if the home belongs to the husband and even if the woman also owns a home in that courtyard or the couple's home was rented (*Chelkat Mechokek* 119:27). [[Ketubot 28#28a|*Ketubot* 28a]] explains that it is more difficult for a man to leave his home than it is for a woman.
-[^76]: In this instance, she is not "dwelling securely," because she was informed of the temporary nature of the relationship from the outset. See [[Yevamot 37#37b|*Yevamot* 37b]] which gives the example of several Sages who would marry women for brief periods of times after informing them beforehand.  
+[^75]: This applies if the home belongs to the husband and even if the woman also owns a home in that courtyard or the couple's home was rented (*Chelkat Mechokek* 119:27). *Ketubot* [[Ketubot 28#28a|28a]] explains that it is more difficult for a man to leave his home than it is for a woman.
+[^76]: In this instance, she is not "dwelling securely," because she was informed of the temporary nature of the relationship from the outset. See *Yevamot* [[Yevamot 37#37b|37b]] which gives the example of several Sages who would marry women for brief periods of times after informing them beforehand.  
     See also the *Chelkat Mechokek* 119:1 and the *Beit Shmuel* 119:1 which debate whether it is proper for a man to engage in relations with his wife in such a situation. For as stated in Halachah 12, a man should not engage in relations with his wife if he intends to divorce her.
 [^77]: Since they live apart from each other, it is possible that they will not know of the other's existence. If they visit that other locale, they may marry a relative without knowing of the family connection.
 [^78]: For then, it will be unlikely that his descendants will intermarry unknowingly.
 [^79]: For we fear that he will die as they did. See the Rama (*Even HaEzer* 9:1) who mentions certain leniencies concerning this situation.
 [^80]: The commentaries cite the Biblical narrative concerning the marriage of Judah's sons to Tamar (Genesis, ch. 38) as proof of these laws. At the outset, Judah did not want her to marry his third son. After he had relations with her, however, he married her and continued living with her as man and wife.
 [^81]: The term *am haaretz* which we translated as "unlearned" has broader implications. As indicated by the following halachah, it also has the connotation of one who is not careful in the observance of the mitzvot and whose character is unrefined and underdeveloped.
-[^82]: [[Pesachim 49#49b|*Pesachim* 49b]].
+[^82]: *Pesachim* [[Pesachim 49#49b|49b]].
 [^83]: The commentaries note that *Pesachim, op. cit.*, states "it will lead to poverty." Some resolve the differences by explaining that poverty will lead a family to strife.
 [^84]: I.e., we can assume that his wife will return to her family and that the children will be raised according to the prevailing atmosphere in that home. From the statements of Rama (*Even HaEzer* 2:6), we can conclude that if an unlearned person is precise in his observance of the mitzvot, these words of caution do not apply.

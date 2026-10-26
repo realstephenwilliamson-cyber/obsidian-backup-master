@@ -4,7 +4,8 @@
 // WEEKLY NOTE TEMPLATE — read me (for Stephen; 21 Oct 2026)
 // What it makes: the week's note, Journal/Weeks/Week of <Sunday>.md: the Sunday and the Shabbat; a table of the week's
 //   Tantrāloka portions with a link to each day's note; Habits this week (the daily notes' habit properties, an embed of
-//   Journal/Habits.base); Chores this week (the daily notes' Chores tasks, by day); Reflections this week; Threads.
+//   Journal/Habits.base); CIS this week (the CIS study plan steps ticked this week: a Tasks query); Chores this week (the daily notes'
+//   Chores tasks, by day); Reflections this week; Threads.
 // When it runs: Templater applies it to a NEW, EMPTY note in Journal/Weeks — Home's week's-note button, or a note you make
 //   there named "Week of YYYY-MM-DD" (the Sunday). It reads the week's rows from the study plan tables. It never touches a
 //   note that already has text, and opening this file does nothing.
@@ -45,6 +46,9 @@ for (const d of days) {
   out += `| ${label} | ${r ? r[3].replace(/\|/g, "\\|") : "—"} | [[Journal/${d.slice(0, 4)}/${d}\\|note]] |\n`;
 }
 out += "\n## Habits this week\n\n" + "!" + "[" + "[Habits.base#This week]" + "]" + "\n\n";
+// CIS this week (26 Oct 2026, S11 D4): the CIS study plan steps ticked from this note's Sunday to its Saturday (the Tasks plugin's done
+// date; a step ticked without one does not show).
+out += `## CIS this week\n\n\`\`\`tasks\npath includes CIS study plan\ndone in ${days[0]} ${days[6]}\nsort by done\nshort mode\n\`\`\`\n\n`;
 out += `## Chores this week\n\n\`\`\`dataview\nTASK FROM "Journal"\nWHERE file.day >= date(${days[0]}) AND file.day <= date(${days[6]}) AND meta(section).subpath = "Chores"\nGROUP BY file.link\n\`\`\`\n\n`;
 out += `## Reflections this week\n\n\`\`\`dataview\nTABLE WITHOUT ID file.link AS "Day", tantraloka_day AS "Portion"\nFROM "Journal"\nWHERE type = "daily" AND date >= date(${days[0]}) AND date <= date(${days[6]})\nSORT date ASC\n\`\`\`\n\n`;
 out += "## Threads\n\n*Where the Tantrāloka, the parashah and Sunday's readings met this week.*\n\n- connects:: \n";

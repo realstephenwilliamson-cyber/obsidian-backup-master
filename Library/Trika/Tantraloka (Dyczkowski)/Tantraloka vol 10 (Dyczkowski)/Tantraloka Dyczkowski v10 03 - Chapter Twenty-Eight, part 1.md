@@ -767,7 +767,7 @@ velāyogari kañcana
 
 tithibhagrahayogato hy anyam || 51 ॥ 
 
-Thus, the main (factor) here is the lunar day - (07 ~ and that is specified by the conjunction of a planet and a constellation. Here, (in this case,) the moment in time (velā) (irrespective of these conjunctions) is not the primary (consideration). This (view according to us) is sound (and correct). In the venerable scripture, the Trikabhairavakula,” the Lord has not taught any particular time during the parvan days (to worship) other than thaťf based on the conjunction of lunar days, constellations and planets. (50-51) 
+Thus, the main (factor) here is the lunar day – tithi – and that is specified by the conjunction of a planet and a constellation. Here, (in this case,) the moment in time (velā) (irrespective of these conjunctions) is not the primary (consideration). This (view according to us) is sound (and correct). In the venerable scripture, the Trikabhairavakula,” the Lord has not taught any particular time during the parvan days (to worship) other than thaťf based on the conjunction of lunar days, constellations and planets. (50-51) 
 
 #### Viveka on 28.50–51
 
@@ -811,7 +811,7 @@ The (Mīmāṁsakas) say that in the absence of a white billy-goat, a black goat
 
 #### Viveka on 28.52 (2)
 
-(lit is said that) one should procure a white goat. This is the sacrificial animal enjoined (by the scriptures). If the animal that has been prepared (for the sacrifice) runs away, one should procure another one of that colour and age. If one that colour is not available, then those (who are learned in this matter) say that a goat which is not of that colour is (also) suitable (ālambha), in accord with the rule that ‘the qualities of the goats and other (sacrificial) animals are substituted (if required), but not their species.’ This is the meaning of this statement. Such is the case with the matter in hand also. If the constellation, planet and (suitable) time (veld) ) etc. are the specific ones (for the propitious time to perform the sacrifice) and the lunar day is not, (then even so) only that (lunar day) should be accepted as being the parvan. 
+(lit is said that) one should procure a white goat. This is the sacrificial animal enjoined (by the scriptures). If the animal that has been prepared (for the sacrifice) runs away, one should procure another one of that colour and age. If one that colour is not available, then those (who are learned in this matter) say that a goat which is not of that colour is (also) suitable (ālambha), in accord with the rule that ‘the qualities of the goats and other (sacrificial) animals are substituted (if required), but not their species.’ This is the meaning of this statement. Such is the case with the matter in hand also. If the constellation, planet and (suitable) time (velā) etc. are the specific ones (for the propitious time to perform the sacrifice) and the lunar day is not, (then even so) only that (lunar day) should be accepted as being the parvan. 
 
 Surely (one may ask), although the Lord does not mention the association of the (auspicious) time (velā) (with the other factors that constitute 
 
@@ -855,13 +855,13 @@ siddhādeśaprāptir
 
 mārgāntaṁ kathyate vibhunā | 
 
-The (auspicious) time (for worship) mentioned by the Lord in the ÜŪrmi and other (such) scriptures, is principally with reference to (the performance of) optional rites (kāmya). 
+The (auspicious) time (for worship) mentioned by the Lord in the Ūrmi and other (such) scriptures, is principally with reference to (the performance of) optional rites (kāmya). 
 
 1\) In this way, (for example), having worshiped at midnight on the parvan (of the month) of Pauṣa, meditated and repeated Mantra, (one hears a voice imparting an empowering command). Once gone outside (the place of worship), the command (ādeśa) bears fruit. 
 
 2\) In the same way, in the month of Māgha, the voice that (emerges) from a (spinning) wheel (used for prognostication) bears fruit. 
 
-3\) In the five (months from Phālguna to Aaṣādha), one quickly (attains) the supernatural power (siddhi) one most desires. 
+3\) In the five (months from Phālguna to Aaṣāḍha), one quickly (attains) the supernatural power (siddhi) one most desires. 
 
 8 This is the Ūrmikaulārnavatantra. See above, note 2,148 to verse 2/48.
 
@@ -885,7 +885,7 @@ He explains this (with the words) beginning with ‘and so in this way’. One s
 
 6\) (Jyeṣtha (May-June)). ʻO beloved, one should worship the wheel in order (to get one’s) mind’s desire . . . Having worshipped that wheel, he is successful... . 
 
-7\) (Aaṣādha (June-July)). ‘By worshipping here (in this month) as prescribed, at the beginning of the day, all living beings are (always) friendly towards him. . . . 
+7\) (Aaṣāḍha (June-July)). ‘By worshipping here (in this month) as prescribed, at the beginning of the day, all living beings are (always) friendly towards him. . . . 
 
 8\) (Śrāvaṇa (July-August)). ʻO ruler of the god, by worshipping there (during that parvan), the wealth of one’s good fortune will increase. . . . 
 
@@ -917,7 +917,7 @@ sā hi tathā sphutarūpā
 
 titheḥ svabhāvodayari dadyāt | 
 
-When no (appropriate) conjunction with constellations or planets occurs, it is necessary to examine (what is the suitable) period of time (for worship) (veld) ) (that takes place on (that) lunar day. It is that, its form clearly evident, that gives rise to the nature of the lunar day (as a parvan). (56cd-57ab) 
+When no (appropriate) conjunction with constellations or planets occurs, it is necessary to examine (what is the suitable) period of time (for worship) (velā) (that takes place on (that) lunar day. It is that, its form clearly evident, that gives rise to the nature of the lunar day (as a parvan). (56cd-57ab) 
 
 #### Viveka on 28.56–57
 

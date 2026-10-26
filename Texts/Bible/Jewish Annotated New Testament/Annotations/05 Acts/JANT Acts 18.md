@@ -20,7 +20,7 @@ Text: [[NRSVue Acts 18|NRSVue]] · [[Acts 18|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 18#^18-2|2]]:** *Aquila . . . Priscilla*, see 18.18. A couple known to the Corinthian Christians ([[1 Corinthians 16#^16-19|1 Cor 16.19]]) and once present in Rome ([[Romans 16#^16-3|Rom 16.3–4]]). *Pontus*, province in northern Asia Minor (present-day Turkey). *Claudius had ordered all Jews to leave Rome*, the Roman historian Suetonius also reports this act and adds that Jews *one blood* b Other ancient authorities read *the Lord* c Gk *He* **Chs 18–21:** Third missionary journey of Paul. were causing disturbances at the instigation of Chrestus (*Claud.* 25), which may be a corruption of “Christ,” and thus suggest that tension flared because of the proclamation by Jesus’ followers. The extent of the expulsion is uncertain and apparently short-lived, as a sizeable Jewish community lived in imperial Rome. ^18-2
 
-**[[NRSVue Acts 18#^18-3|3]]:** *Tentmakers*, Paul engaged in manual labor; see [[1 Corinthians 04#^4-12|1 Cor 4.12]]. The rabbis placed great value in manual labor ([[Kiddushin 29#29a|*b. Qidd.* 29a]]; [[Nedarim 49#49b|*b. Ned.* 49b]]; *Avot de R. Nat.* 11.1). ^18-3
+**[[NRSVue Acts 18#^18-3|3]]:** *Tentmakers*, Paul engaged in manual labor; see [[1 Corinthians 04#^4-12|1 Cor 4.12]]. The rabbis placed great value in manual labor (*b. Qidd.* [[Kiddushin 29#29a|29a]]; *b. Ned.* [[Nedarim 49#49b|49b]]; *Avot de R. Nat.* 11.1). ^18-3
 
 **[[NRSVue Acts 18#^18-4|4]]:** Paul follows the typical pattern of teaching on the Sabbath (see 17.2) in a synagogue (see 17.1) to Jews and Gentiles (see 13.16). ^18-4
 

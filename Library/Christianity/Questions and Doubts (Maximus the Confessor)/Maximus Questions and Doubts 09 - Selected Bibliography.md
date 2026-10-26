@@ -186,7 +186,7 @@ Frantzola. Thessalonica: To Periboli tis Panagias, 1988-98. *S. P. N. Basilii Ce
 
 Edited by J.-P. Migne. Paris, 1863. 
 
-*Tou* EV ayfo,, rrcnpo<; fiµwv '/wdvvou TOil Xpuaoaroµou TWV EUp1C1KOµEVWV Toµo<; d-,j EpplKOU TOU Xa/31Afov EK rraAa,wv avnypmf>wv EKOOU8E1<;. Greek text edited by H. Saville. Eton, 1612-13. 
+*Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου τῶν εὑρισκομένων τόμος ά–ή Ἑρρίκου τοῦ Σαβιλίου ἐκ παλαιῶν ἀντιγραφῶν ἐκδουθείς.* Greek text edited by H. Saville. Eton, 1612-13. 
 
 Theodore Synkellos' *D e obsidione Constantinopolitana sub Heraclio imperator* in *Analecta Avarica,* Edited by Ludwik Sternbach. Cracow, 1 900. 
 
@@ -356,7 +356,7 @@ Garrigues, Juan Miguel. *Maxime le Confesseur: La charite, avenir divin de l'hom
 
 Giannelli, Carlo. "Una 'editio maior' delle 'Quaestiones et Dubia' di S. 
 
-Massimo ii Confessore?" TTrnpcxyµsvcx TOU e .6. 1 e8vou5 Bu[illegible]CXVTI VOAoy1KOU !uveop,ou 1 1 : l:AAT\]VIKO:, TTcxpapTTjµCX, 9, II (1956): 100--1 1 . 
+Massimo ii Confessore?" Πεπραγμένα τοῦ θ Διεθνοῦς Βυζαντινολογικοῦ Συνεδρίου 1 1 : Ἑλληνικὰ, Παράρτημα, 9, II (1956): 100--1 1 . 
 
 Gignac, Francis T. *A Grammar of the Greek Papyri of the Roman and Byzantine Periods.* 2 vols. Milan: Instituto editoriale cisalpino-La gorliardica, 1 9 76. 
 
@@ -524,7 +524,7 @@ Trigg, Joseph . *Origen.* London: Routledge, 1 998.
 
 van Deun, Peter. "La symbolique des nombres dans !'oeuvre de Maxime le Confesseur (580-662) . " *Byzantinoslavica* 53, fasc. 2, 1992. 
 
-van Roosum, Joost. "The :>-6yo1 of Creation and the Divine 'energies' in Maximus the Confessor and Gregory Palamas." StPatr 27:213-1 7. 
+van Roosum, Joost. "The λόγοι of Creation and the Divine 'energies' in Maximus the Confessor and Gregory Palamas." StPatr 27:213-1 7. 
 
 <sup>11</sup>Aux sources de la spiritualite de saint Maxime: Les oeuvres Viller, Marcel. 
 

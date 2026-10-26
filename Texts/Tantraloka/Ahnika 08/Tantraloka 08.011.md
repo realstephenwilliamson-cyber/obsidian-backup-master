@@ -30,7 +30,7 @@ na prakriyāparaṃ jñānamiti svacchandaśāsane || ^iast
 > [!source] Dyczkowski, vol. V
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 05 (Dyczkowski)/Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#^pg79|p. 61]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 05.pdf#page=79>))
 >
-> It is because Śiva’s nature is understood to be realized in this way that (the Lord) has said in the Svacchandatantra: ‘there is no higher knowledge than that of the "cosmic order (prakriyā)."
+> It is because Śiva’s nature is understood to be realized in this way that (the Lord) has said in the Svacchandatantra: ‘there is no higher knowledge than that of the cosmic order (prakriyā).’
 
 ## Viveka
 

@@ -31,7 +31,7 @@ paro visargaviśleṣastanmayaṃ viśvamucyate || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 04 (Dyczkowski)/Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#^pg92|p. 77]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 04.pdf#page=92>))
 > Dyczkowski numbers this verse 5.68cd–69ab.
 >
-> The letters ‘AM?’ and ‘‘AH’ are the Lord and Mistress of Kula united together. (with 5.68ab)
+> The letters ‘AM?’ and ‘AH’ are the Lord and Mistress of Kula united together. (with 5.68ab)
 >
 > Other than that (para) is the release of (their) emission. It is said that all things (viśva) are of that nature. (with 5.68cd)
 

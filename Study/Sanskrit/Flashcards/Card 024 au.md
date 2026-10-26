@@ -20,18 +20,13 @@ nyasa: "upper lip (*oṣṭha*)"
 ## Front
 
 - **Glyph:** औ
-- **Variation:** a variant form, drawn only as a numbered stroke diagram (not copied here)
 - **Example:** औषधि
-- **Card / Alpha (front):** (not legible in full) — the scan cuts the numerals off at the right edge; the printed values in the line above are from the back
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘fl<u>au</u>tist’
-- **Class (as printed):** 1,5 · long, soft · complex vowel
-- **Note (no printed label):** Full form - used only to begin a word · Vṛddhi (strongest form) of u/ū (from a+a+u)
-- **Grid:** the vowels अ आ इ ई उ ऊ / ए ऐ ओ औ / ऋ ॠ ऌ; in bold: औ
-- **Example:** auṣadhi (herb)
+> [!note]- Back
+> - **Pronunciation:** As in ‘fl<u>au</u>tist’
+> - **Class:** long, soft · complex vowel · Vṛddhi (strongest form) of u/ū (from a+a+u)
+> - अ आ इ ई उ ऊ / ए ऐ ओ <u>औ</u> / ऋ ॠ ऌ
+> - **Example:** auṣadhi (herb)
 
 ## Register
 

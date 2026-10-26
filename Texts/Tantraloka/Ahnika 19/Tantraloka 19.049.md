@@ -33,7 +33,7 @@ yato'sya pratyayaprāptiprepsoḥ samayinastathā || ^iast
 >
 > Just as a regular initiate applying Mantras causes (a piece of) wood or (clod of) earth to move, and does not thereby transgress (any rule), such is the case here also. (with 19.48cd–49ab)
 >
-> (The dying man) is liberated (spontaneously) by his own nature (svabhāvena).“' The initiate acts (in this way) because he wishes to get a sign confirming (the power of Mantra) (pratyaya), there is no harm in that. (with 19.49cd–50ab)
+> (The dying man) is liberated (spontaneously) by his own nature (svabhāvena). The initiate acts (in this way) because he wishes to get a sign confirming (the power of Mantra) (pratyaya), there is no harm in that. (with 19.49cd–50ab)
 
 ## Viveka
 

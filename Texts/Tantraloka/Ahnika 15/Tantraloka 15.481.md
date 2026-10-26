@@ -28,7 +28,7 @@ praviśya hṛdaye dhyāyetsuptaḥ svācchandyamāpnuyāt |
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 08 (Dyczkowski)/Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#^pg312|p. 294]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 08.pdf#page=312>))
 > Dyczkowski numbers this verse 15.483cd–484ab.
 >
-> It is said that, ‘having meditated on (the energy of the vital breath, first) full and (then) thin, in the region of the twelve (finger space), once having entered into the heart (in the centre), meditating, the one who sleeps attains freedom. (with 15.480cd–481ab)
+> It is said that, ‘having meditated on (the energy of the vital breath, first) full and (then) thin, in the region of the twelve (finger space), once having entered into the heart (in the centre), meditating, the one who sleeps attains freedom.’ (with 15.480cd–481ab)
 >
 > When the disciple has (just) fallen asleep and the teacher has worshipped Śiva, he should eat the sacrificial pap together with his assistants (sasakhā). Then he should brush his teeth and go to sleep, concentrating on the wheel of the heart flaming with the rays of Mantras. Early morning, after having performed all the regular daily rites and worshipped Śiva, the teacher examines what was seen (in his own and his disciple’s) dreams, (in order to assess) their relative strength. What he himself has seen is the stronger (dream), not that of the other, because it is associated with (the greater) intensity of his own consciousness. If the (level of awakened) consciousness of the teacher and that of the disciple are equal, their dreams should be the same. (with 15.481cd–484)
 

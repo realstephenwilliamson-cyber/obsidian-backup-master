@@ -121,7 +121,7 @@ Song of Songs, *Jewish Studies* 42, 2003–04, pp. 119–190 \[Hebrew\]. If ther
 
  9 . The just cited discussion of *Ziz Eliezer* is a rare exception. 
 
- 10 . The only rabbinic passage that comes to mind in this respect is Bavli [[Menachot 110#110a|*Menachot* 110a]]. 
+ 10 . The only rabbinic passage that comes to mind in this respect is Bavli *Menachot* [[Menachot 110#110a|110a]]. 
 
 The Talmud explains Malachi 1,11, where the greatness of God’s name is recognized by the nations, as acknowledgment that the nations call Him God of gods. While this could provide an important resource for a Jewish view of other religions and might point to some sense of a common recognition of God, this statement is quite negligible, within talmudic literature and largely beyond it. This is the only reference within talmudic literature to such an understanding and it receives very minor echoes in post-talmudic literature. (For exceptions to this claim, see Nacmanides’ commentary to Deut. 10,21. See further Malbim to Amos 3,2). Significantly, it is completely absent from later halachic discussions. The statement could have been significant for later discussions, especially given its resonance with the understanding of Avoda Zara as expounded by Nachmanides, which I shall shortly present, and with the notion of Shituf . The lack of echo points to the local exegetical quality of this statement, lacking halachic substance. More significantly, it points to the lack of any serious interest, throughout the generations, to explore the possibility that the God worshipped by Israel is in important ways the same God worshipped, or otherwise recognized, in other religions. In fact, in the talmudic context *Israel and their heavenly father* are juxtaposed with the God of gods, thereby reducing the likelihood of identification of “our” God with notions of divinity found in other religions. That so little is made of this statement is due in part to its already minor role in the Talmud. At the same time, it reaffirms the absolute preference given to the visible ritual deed over and against the more theoretical and philosophical concerns that might lead to alternative views of other religions. 
 
@@ -187,7 +187,7 @@ It seems to advance scholarly discussion of biblical polemics very little and th
 
  5 . Such a person would be defined by Maimonides as a *min* , heretic. See Laws of Teshuva 3,7. This is a different category than Avoda Zara. 
 
- 6 . The common Jewish perspective that judges by *our* criteria, and therefore deems the object of worship to be something other than God, requires further examination. Even if we assume the worshipper is in error, in order to worship Avoda Zara he or she must be aware of the otherness of the worshipped object. If that object is worshipped *as* God, or *as an expression* of God, it is really God, and not the object that is worshipped. Our insistence on interpreting the act of worship in accordance with our outsider’s perspective is incommensurate with prevailing halachic emphasis upon intention, rather than the externals of the act. The key talmudic discussion in Bavli [[Sanhedrin 61#61b|*Sanhedrin* 61b]] and parallels could have generated an entirely different approach to other religions, under different social and historical conditions. It is actually quite amazing that a legal system that has made intention its hallmark and identifying feature should resort to completely external criteria when judging another religion. Clearly, the double standards at play are an expression of broader attitudes to other religions and an extension of the uncharitable mockery that is itself a characteristic of a Jewish view of Avoda Zara. Whose perspective should determine how worship is understood seems a fundamental, and completely unexamined, question. It is to Daniel Sperber’s credit that he has constructed an entire argument, in *The Halakhic Status of Hinduism* , based on the internal understanding and intentionality of religious practice, as expounded by Hindus. While the point is never stated in this way, in fact Sperber applies the most important internal halachic criteria, rather than alternative criteria that are usually brought to bear in discussions of Hinduism. 
+ 6 . The common Jewish perspective that judges by *our* criteria, and therefore deems the object of worship to be something other than God, requires further examination. Even if we assume the worshipper is in error, in order to worship Avoda Zara he or she must be aware of the otherness of the worshipped object. If that object is worshipped *as* God, or *as an expression* of God, it is really God, and not the object that is worshipped. Our insistence on interpreting the act of worship in accordance with our outsider’s perspective is incommensurate with prevailing halachic emphasis upon intention, rather than the externals of the act. The key talmudic discussion in Bavli *Sanhedrin* [[Sanhedrin 61#61b|61b]] and parallels could have generated an entirely different approach to other religions, under different social and historical conditions. It is actually quite amazing that a legal system that has made intention its hallmark and identifying feature should resort to completely external criteria when judging another religion. Clearly, the double standards at play are an expression of broader attitudes to other religions and an extension of the uncharitable mockery that is itself a characteristic of a Jewish view of Avoda Zara. Whose perspective should determine how worship is understood seems a fundamental, and completely unexamined, question. It is to Daniel Sperber’s credit that he has constructed an entire argument, in *The Halakhic Status of Hinduism* , based on the internal understanding and intentionality of religious practice, as expounded by Hindus. While the point is never stated in this way, in fact Sperber applies the most important internal halachic criteria, rather than alternative criteria that are usually brought to bear in discussions of Hinduism. 
 
  7 . For what follows, see also the discussion of spirituality in *The Jewish Encounter with Hinduism.* 
 
@@ -243,7 +243,7 @@ rule is his permission for a convert to pray for the well-being of his Christian
 
  11 . See Nachmanides at the beginning of his commentary on Ex. 20,2. 
 
- 12 . This verse is an ancient crux and a complicated one, precisely because of its implications for the permissibility of other nations worshipping beings other than God. The rabbis already struggled with this verse and tried to get around its plain sense. One ancient tradition, which the rabbis understand as representing the Septuagint, understands the allotting of luminaries for purposes of providing light. See Bavli *Megila* 9b. Another retains the plain sense of the verse, while standing its intention on its head. Indeed, God allotted the stars to the nations for purposes of worship. However, he did so in order to lead them to perdition. See Bavli [[Avodah Zarah 55#55a|*Avoda Zara* 55a]]. In the history of interpretation, it is not really until Nachmanides’ commentary that a conceptual framework is found through which the plain sense of the biblical verse can be upheld, despite the changes in theology and worldview that had taken place since the verse was first articulated. 
+ 12 . This verse is an ancient crux and a complicated one, precisely because of its implications for the permissibility of other nations worshipping beings other than God. The rabbis already struggled with this verse and tried to get around its plain sense. One ancient tradition, which the rabbis understand as representing the Septuagint, understands the allotting of luminaries for purposes of providing light. See Bavli *Megila* 9b. Another retains the plain sense of the verse, while standing its intention on its head. Indeed, God allotted the stars to the nations for purposes of worship. However, he did so in order to lead them to perdition. See Bavli *Avoda Zara* [[Avodah Zarah 55#55a|55a]]. In the history of interpretation, it is not really until Nachmanides’ commentary that a conceptual framework is found through which the plain sense of the biblical verse can be upheld, despite the changes in theology and worldview that had taken place since the verse was first articulated. 
 
  13 . Laws of Avoda Zara 2,1. 
 
@@ -395,7 +395,7 @@ due to which it is considered as Avoda Zara. See, however, Laws of Kings 11,4, i
 
  9 . See Katz, *Exclusiveness and Tolerance* , p. 35. 
 
- 10 . See Bavli [[Sukkah 45#45b|*Sukka* 45b]] and Bavli [[Sanhedrin 63#63a|*Sanhedrin* 63a]]. 
+ 10 . See Bavli *Sukka* [[Sukkah 45#45b|45b]] and Bavli *Sanhedrin* [[Sanhedrin 63#63a|63a]]. 
 
  11 . See the discussion in the following chapter as to who the original referent of the Tosafists’ position was—Jesus or the saints. 
 
@@ -456,7 +456,7 @@ theology. That is, the theology comes through the ritual in a clear way. Accordi
  1\. . The two readings and the key texts are conveniently summarized in Appendix III, Tosafot on “Association”’ (Shituf), in David Berger’s *The Rebbe the Messiah and the Scandal of Orthodox Indifference,* Littman Library of Jewish Civilisation, London/
 Potland, OR, 2008, pp. 175–177. 
 
- 2 . See Bavli [[Sanhedrin 63#63a|*Sanhedrin* 63a]] and parallels. 
+ 2 . See Bavli *Sanhedrin* [[Sanhedrin 63#63a|63a]] and parallels. 
 
  3 . We noted this already with reference to Rabbi Herzog, who refers to Jesus as a human elevated by imagination to the status of Divine. Emphasis on Jesus’ humanity, and a thorough misreading of how Christian faith and worship operate, due to the projection of a Jewish ritually oriented perspective on Christian faith, can be found in Rabbi Henkin’s, *Shut Benei Banim* , Part 3, sections 35 and 36. 
 
@@ -476,13 +476,13 @@ if the believer upholds a mistaken notion of God, it is He, and He alone, that i
 
  9 . I owe the inspiration, though not the content, of the following paragraph to David Novak’s Maimonides’ Treatment of Christianity and Its Normative Implications, *Jewish Theology and World Religions,* ed. A. Goshen-Gottstein and E. Korn, The Littman Library, Oxford, 2012, p. 219, note 5. 
 
- 10 . Bavli [[Bava Batra 110#110a|*Bava Batra* 110a]]. 
+ 10 . Bavli *Bava Batra* [[Bava Batra 110#110a|110a]]. 
 
  עבודה שהיא זרה לך 11 . 
 
  12 . Conceptually, identitarian concerns may lead to martyrdom more than concerns about the veracity of an alternative religious system. If one follows the path of another religion, one ceases to be Jewish, even if in terms of truth it may matter little whether the one God is being worshipped through one monotheistic faith or another. It would be interesting to explore Jewish attitudes to Islam in light of this identitarian dimension. I refer both to the persistence of views of Islam as Avoda Zara (See chapter 4 , note 11 *)* and to attitudes to forced conversion to Islam, compared with those found in relation to Christianity. (On Maimonides’ Epistle on Martyrdom, *Igeret Hashemad* , see Haym Soloveitchik, Maimonides’ “Iggeret Ha-Shemad”: Law and Rhetoric, *Rabbi Joseph H.* *Lookstein Memorial Volume* , ed. Leo Landman, Ktav, New York, 1980, pp. 281–319; David Hartman, The Epistle on Martyrdom, Discussion, *Crisis and Leadership:* *Epistles of Maimonides* , texts translated and Notes by A. Halkin, Discussions by D. Hartman, Jewish Publication Society, Philadelphia-New York, 1985, pp. 46–90; Yair Lorberbaum and Haim Shapira, Epistle on Martyrdom in the Light of Legal Philosophy, *Dine Yisrael* , 25, 2008, pp. 123\*–169\*). Concerning the latter discussion, it is also worth reviewing it in light of “same God” discussions and in consideration of the place of image worship as determining the identity of the worshipped God. 
 
- 13 . Bavli [[Sanhedrin 74#74a|*Sanhedrin* 74a]]. 
+ 13 . Bavli *Sanhedrin* [[Sanhedrin 74#74a|74a]]. 
 
  14 . More on Swami Swaroopananda and the Tel Aviv Sivananda Yoga Center in *The Jewish Encounter with Hinduism* , Chapter 10. 
 
@@ -620,7 +620,7 @@ It is precisely here that moral and spiritual living makes such a difference. It
 
  43 . *Bet Habechira Sanhedrin* 90a. 
 
- 44 . Bavli [[Shabbat 156#156a|*Shabbat* 156a]]. 
+ 44 . Bavli *Shabbat* [[Shabbat 156#156a|156a]]. 
 
  45 . *Bet Habechira Avot* 4,19. 
 
@@ -628,7 +628,7 @@ It is precisely here that moral and spiritual living makes such a difference. It
 
  47 . *Bet Habechira Shabbat* 156a. Halbertal, Ones Possessed of Religion, p. 16, n. 38, notes how original Meiri’s interpretation is even in relation to Meiri’s philosophical predecessors. 
 
- 48 . See further *Bet Habechira Shabbat* 156a; [[Berakhot 5#5a|*Berachot* 5a]]. 
+ 48 . See further *Bet Habechira Shabbat* 156a; *Berachot* [[Berakhot 5#5a|5a]]. 
 
  49 . The present summary statement is an alternative to Halbertal’s more metaphysical reading of Meiri’s overall understanding. Halbertal’s Meiri still places an emphasis upon the correctness of religious understanding by identifying Avoda Zara with fetishism and true religion with a transcendental sense of God. See Halbertal, Ones Possessed of Religion, p. 23. Without denying this element in Meiri’s thought, I am suggesting that Meiri’s major contribution is his entire construction of religion in terms of its transformative power, hence the phenomenological, rather than cognitive, distinction between Avoda Zara and true religion. 
 
@@ -646,7 +646,7 @@ has become constitutive of Jewish identity, and Avoda Zara is consequently a val
 
  54 . See *Bet Habechira Avoda Zara* 6b and Halbertal, Ones Possessed of Religion, p. 24 55 . *Bet Habechira Avoda Zara* 15b. 
 
- 56 . See Bavli [[Avodah Zarah 16#16a|*Avoda Zara* 16a]]. 
+ 56 . See Bavli *Avoda Zara* [[Avodah Zarah 16#16a|16a]]. 
 
  57 . Meiri’s text presents further difficulties in that it distinguishes a common ruling in such matters with the less common ruling in the extremeties. 
 
@@ -716,7 +716,7 @@ between early and late Maimonides on Christianity. I find Novak’s conclusion f
 
  13 . Herein lies the difference with Maimonides, who may also be able to recognize some aspects of the Hindu ideal of God, while rejecting others. 
 
- 14 . This statement appears in several sources with minor variations. See Tosafot [[Bekhorot 2#2b|*Bechorot* 2b]] s.v. Shema; Tosafot [[Sanhedrin 63#63b|*Sanhedrin* 63b]] s.v. Asur; Rabenu Yerucham, *Toledot Adam Vechava* 17,5. See further Rosh, *Sanhedrin*, Chapter 7 , 3 and Meiri to *Sanhedrin* 63,2. 
+ 14 . This statement appears in several sources with minor variations. See Tosafot *Bechorot* [[Bekhorot 2#2b|2b]] s.v. Shema; Tosafot *Sanhedrin* [[Sanhedrin 63#63b|63b]] s.v. Asur; Rabenu Yerucham, *Toledot Adam Vechava* 17,5. See further Rosh, *Sanhedrin*, Chapter 7 , 3 and Meiri to *Sanhedrin* 63,2. 
 
  15 . See Tosafot *Bechorot* and Meiri to *Sanhedrin* . 
 
@@ -728,9 +728,9 @@ The argument from intention is a second argument following the claim that they d
 
  18 . It is worth noting that Ibn Ezra applies a “same God” strategy to Indians, while claiming they do not believe in creation. For such a possibility, see note 27. Ibn Ezra assumes they recognize only the name *elohim* , which provides a commonality, without knowing the great name. This is a completely different way of constructing a “same God” argument. While theoretically interesting and while serving as a precedent in principle for the application of a “same God” argument, one would have a hard time transposing Ibn Ezra’s India to the Hinduism we know. See Richard Marks’s chapter on Ibn Ezra in his forthcoming *The Jewish Interest in Hinduism: A History of Ideas from Judah Halevi to Jacob Sapir* . 
 
- 19 . Tosafot [[Avodah Zarah 2#2b|*Avoda Zara* 2b]], s.v. Asur. 
+ 19 . Tosafot *Avoda Zara* [[Avodah Zarah 2#2b|2b]], s.v. Asur. 
 
- 20 . See Bavli [[Chullin 13#13b|*Chulin* 13b]], and see the application of this ruling to Christians by Rabbenu Gershom, Responsum 21, quoted in Katz, *Exclusiveness and Tolerance* , Oxford University Press, New York, London, 1961, p. 33. I have come across a fascinating 
+ 20 . See Bavli *Chulin* [[Chullin 13#13b|13b]], and see the application of this ruling to Christians by Rabbenu Gershom, Responsum 21, quoted in Katz, *Exclusiveness and Tolerance* , Oxford University Press, New York, London, 1961, p. 33. I have come across a fascinating 
 
 *[p. 239]* ^pg241
 
@@ -806,7 +806,7 @@ valid. However, they do not address the issue in terms of Avoda Zara, the presen
 
  20 . See, however, the possibility that such worship may also be condoned, based on our analysis of the Rashba, discussed in chapter 7 . 
 
- 21 . Recall the Tosafot who identify Christian worship as the same as ours, due to intention, while recognizing that Jesus is worshipped as well. See Tosafot [[Bekhorot 2#2b|*Bechorot* 2b]] s.v. *Shema*. 
+ 21 . Recall the Tosafot who identify Christian worship as the same as ours, due to intention, while recognizing that Jesus is worshipped as well. See Tosafot *Bechorot* [[Bekhorot 2#2b|2b]] s.v. *Shema*. 
 
  22 . See my The Image as Body of God in Rabbinic Literature, *Harvard Theological Review* 87,2, 1994, pp. 171–195. 
 

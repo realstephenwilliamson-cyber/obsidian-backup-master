@@ -144,12 +144,12 @@ Even though he explicitly stated that he would bring the bread from [the money o
 [^23]: 100 silver pieces.
 [^24]: The wine, meal, and oil brought together with the offering, as stated in Chapter 2.
 [^25]: In this instance, since the ox was consecrated as a burnt-offering and was no longer fit to be offered as such, the proceeds of its sale must be used for that purpose. It does not matter, however, which animal(s) is purchased for that purpose.  
-    In the previous halachah, it was not acceptable for him to bring two oxen that have a combined worth of 100, for he made an explicit vow to bring one ox worth 100 and until he does so, he does not fulfill his obligation. In this halachah, once the consecrated animal is disqualified, there are no qualifications regarding which animals may be brought as burnt-offerings. See [[Menachot 108#108a|*Menachot* 108a]].
+    In the previous halachah, it was not acceptable for him to bring two oxen that have a combined worth of 100, for he made an explicit vow to bring one ox worth 100 and until he does so, he does not fulfill his obligation. In this halachah, once the consecrated animal is disqualified, there are no qualifications regarding which animals may be brought as burnt-offerings. See *Menachot* [[Menachot 108#108a|108a]].
 [^26]: I.e., the sacrifice he brings need not even be of the same species as the animal he originally designated for sacrifice.
 [^27]: The new point this clause is teaching is that even if two animals were originally consecrated, one may be brought with the proceeds of their sale.
 [^28]: For when taking the vow, he did not specify what animal he would bring. This applies provided people of this locale also refer to a sheep as a burnt-offering (see Halachah 3). Moreover, if he had pledged to bring that particular ox as a burnt-offering, he is not obligated to bring any sacrifice at all (Radbaz).
 [^29]: Even if the animal is disqualified, he is obligated to bring another one like it as a sacrifice.
-[^30]: For we assume that anyone who consecrates his property does so generously ([[Menachot 108#108b|*Menachot* 108b]]).
+[^30]: For we assume that anyone who consecrates his property does so generously (*Menachot* [[Menachot 108#108b|108b]]).
 [^31]: For it is also possible that this was his intent, since consecrating the middle one is still acting generously, because there is a smaller one.
 [^32]: The *Kessef Mishneh* interprets the Rambam's words as implying that once the second one becomes blemished, the holiness automatically falls on the third. This runs contrary to Rashi's approach (*Menachot, loc. cit.*) which requires the person to make a stipulation conditionally transferring the holiness that might have fallen on the middle ox.
 [^33]: For by saying "An ox," we assume he meant the choicest one (*Menachot, loc. cit.*). The commentaries note that the Rambam's ruling in *Hilchot Meilah* 7:7 appears to run contrary to this explanation.
@@ -170,7 +170,7 @@ Even though he explicitly stated that he would bring the bread from [the money o
 [^48]: A large silver coin used in the Talmudic era.
 [^49]: As a burnt-offering. The Radbaz states that this word should be included in the statement of the person's promise.
 [^50]: In addition to the burnt-offering, this could include wine, frankincense, and flour.
-[^51]: [[Menachot 106#106b|*Menachot* 106b]] derives this concept from a comparison to the flour offered from a meal offering, just as there a handful is offered, so too, a handful of frankincense should be offered.
+[^51]: *Menachot* [[Menachot 106#106b|106b]] derives this concept from a comparison to the flour offered from a meal offering, just as there a handful is offered, so too, a handful of frankincense should be offered.
 [^52]: The Hebrew term is written in the plural. Hence at least two logs are required.
 [^53]: See *Hilchot Issurei Mizbeiach* 7:3.
 [^54]: He would place the money in a container designated for that purpose and the priests would take the money and purchase the wood (*Tosefta, Shekalim* 3:3).
@@ -187,7 +187,7 @@ Even though he explicitly stated that he would bring the bread from [the money o
     This is a general principle. The rationale is that since the person is obligated to bring the offering, it must be brought from resources that belong to him entirely (see the conclusion of Halachah 17).
 [^65]: I.e., the bread is considered as an integral part of that offering and not an additional element. Thus when he vows to bring a thanks-giving offering, that vow also requires him to bring bread. Hence the bread must come from ordinary property (Radbaz).
 [^66]: As stated below, if he specifies, he is allowed to bring a thanksgiving-offering using the money from the second tithes, for he will partake of the meat of that sacrifice in Jerusalem. What is unique here is the fact that the sacrifice will be from the second tithes and the bread from ordinary funds. Even so, the sacrifice is acceptable.
-[^67]: In his Commentary to the Mishnah (*Menachot* 7:5; based on [[Menachot 81#81b|*Menachot* 81b]]), the Rambam writes that it is indeed more desirable for him to bring the sacrifice from ordinary funds.
+[^67]: In his Commentary to the Mishnah (*Menachot* 7:5; based on *Menachot* [[Menachot 81#81b|81b]]), the Rambam writes that it is indeed more desirable for him to bring the sacrifice from ordinary funds.
 [^68]: In this instance as well, in his Commentary to the Mishnah, the Rambam states that it is desirable for him to bring everything from ordinary property.
 [^69]: Chapter 3, Halachah 13.
 [^70]: This refers not only to the wine libations, but to all vows for sacrifices.

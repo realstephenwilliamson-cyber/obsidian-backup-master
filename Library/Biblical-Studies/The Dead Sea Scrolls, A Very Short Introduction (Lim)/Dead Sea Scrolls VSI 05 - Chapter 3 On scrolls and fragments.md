@@ -52,7 +52,7 @@ Jvery thing that creepeth up\[
 
 Js kind: and Go\[
 
-Those of you who are familiar with the Authorized Version or King James Version of the English Old Testament may be able to identify them as fragments from Genesis and even from the first Chapter. The key word of this identification is likely to have been ‘creepeth’. It would have been more difficult to identify them had the fragments been drawn from a modern translation that used a less distinct English verb like ‘move along the ground’ (New International Version). The original Genesis 1:25 of the Authorized Version reads as follows. I have italicized what is preserved in the
+Those of you who are familiar with the Authorized Version or King James Version of the English Old Testament may be able to identify them as fragments from Genesis and even from the first Chapter. The key word of this identification is likely to have been ‘creepeth’. It would have been more difficult to identify them had the fragments been drawn from a modern translation that used a less distinct English verb like ‘move along the ground’ (New International Version). The original [[Torah 01 - Bereshit#^1-25|Genesis 1:25]] of the Authorized Version reads as follows. I have italicized what is preserved in the
 
 fragments:
 

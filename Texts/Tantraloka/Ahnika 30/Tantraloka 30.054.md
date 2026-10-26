@@ -27,7 +27,7 @@ navārṇeyaṃ guptatarā sadbhāvaḥ kālakarṣiṇī || ^iast
 > [!source] Dyczkowski, vol. XI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)/Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#^pg56|p. 38]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 11.pdf#page=56>))
 >
-> MAHĀCAṆDṬAYOGEŚV followed by R, as the eighth syllable. according to the venerable Dāmara Mahāyāga, this is the nine-syllabled (Vidyā) which most secret, (is called) ‘the essence’ and Kālakarṣiṇī, arisen from the Supreme beyond the Supreme.’ (with 30.54–55ab)
+> MAHĀCAṆDṬAYOGEŚV followed by R, as the eighth syllable. according to the venerable Dāmara Mahāyāga, this is the nine-syllabled (Vidyā) which most secret, (is called) ‘the essence’ and Kālakarṣiṇī, arisen from the Supreme beyond the Supreme. (with 30.54–55ab)
 
 ## Viveka
 

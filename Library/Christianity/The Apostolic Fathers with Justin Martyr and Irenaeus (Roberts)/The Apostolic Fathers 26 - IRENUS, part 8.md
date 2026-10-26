@@ -18,7 +18,7 @@ greater \[gifts\]; as also the Lord said to His disciples: “Ye shall see great
 
 3\. For the new covenant having been known and preached by the prophets, He who was to carry it out according to the good pleasure of the Father was also preached, having been revealed to men as God pleased; that they might always make progress through believing in Him, and by means of the \[successive\] covenants, should gradually attain to perfect salvation.<sup>3911</sup> For there is one salvation and one God; but the precepts which form the man are numerous, and the steps which lead man to God are not a few. It is allowable for an earthly and temporal king, though he is \[but\] a man, to grant to his subjects greater advantages at times: shall not this then be lawful for God, since He is \[ever\] the same, and is always willing to confer a greater \[degree of\] grace upon the human race, and to honour continually with many gifts those who please Him? But if this be to make progress,
 
-473 John i. 50. 3905 These words of Scripture are quoted by memory from Phil. iii. 12, 1 Cor. iv. 4, and 1 Cor. xiii. 9, 10. It is remarkable that 3906 the second is incorporated with the preceding in a similar way, in the ancient Italic version known as the St. Germain copy. Matt. v. 8. 3907 Isa. xxv. 9. 3908 1 Pet. i. 8. 3909 Rom. viii. 15. 3910 This is in accordance with Harvey’s text— “Maturescere profectum salutis.” Grabe, however, reads, “Maturescere 3911 prefectum salutis;” making this equivalent to “ad prefectam salutem.” In most mss. “profectum” and “prefectum” would be written alike. The same word (“profectus”) occurs again almost immediately, with an evident reference to and comparison with this clause.
+473 [[John 01#^1-50|John i. 50]]. 3905 These words of Scripture are quoted by memory from [[Philippians 03#^3-12|Phil. iii. 12]], [[1 Corinthians 04#^4-4|1 Cor. iv. 4]], and [[1 Corinthians 13#^13-9|1 Cor. xiii. 9]], [[1 Corinthians 13#^13-10|10]]. It is remarkable that 3906 the second is incorporated with the preceding in a similar way, in the ancient Italic version known as the St. Germain copy. [[Matthew 05#^5-8|Matt. v. 8]]. 3907 Isa. xxv. 9. 3908 [[1 Peter 01#^1-8|1 Pet. i. 8]]. 3909 [[Romans 08#^8-15|Rom. viii. 15]]. 3910 This is in accordance with Harvey’s text— “Maturescere profectum salutis.” Grabe, however, reads, “Maturescere 3911 prefectum salutis;” making this equivalent to “ad prefectam salutem.” In most mss. “profectum” and “prefectum” would be written alike. The same word (“profectus”) occurs again almost immediately, with an evident reference to and comparison with this clause.
 
 *[p. 789]* ^pg829
 
@@ -28,7 +28,7 @@ greater \[gifts\]; as also the Lord said to His disciples: “Ye shall see great
 
 1\. Wherefore also John does appropriately relate that the Lord said to the Jews: “Ye search the Scriptures, in which ye think ye have eternal life; these are they which testify of me. And ye are not willing to come unto Me, that ye may have life.”<sup>3916</sup> How therefore did the Scriptures testify of Him, unless they were from one and the same Father, instructing men beforehand as to the advent of His Son, and foretelling the salvation brought in by Him? “For if ye had believed Moses, ye would also have believed Me; for he wrote of Me;”<sup>3917</sup> \[saying this,\] no doubt, because the Son of God is implanted everywhere throughout his writings: at one time, indeed, speaking with Abraham, when about to eat with him; at another time with Noah, giving to him the dimensions \[of the ark\]; at another; inquiring after Adam; at another, bringing down judgment upon the Sodomites; and
 
-2\. Tim. iii. 7. 3912 Matt. xv. 3, 4. 3913 Another variation from the *textus receptus* borne out by the Codex Bezæ, and some ancient versions. 3914 Ex. xx. 12, LXX. 3915 John v. 39, 40. 3916
+2\. Tim. iii. 7. 3912 [[Matthew 15#^15-3|Matt. xv. 3]], [[Matthew 15#^15-4|4]]. 3913 Another variation from the *textus receptus* borne out by the Codex Bezæ, and some ancient versions. 3914 Ex. xx. 12, LXX. 3915 [[John 05#^5-39|John v. 39]], [[John 05#^5-40|40]]. 3916
 
 
 *[p. 790]* ^pg830
@@ -83,7 +83,7 @@ Deut. xxviii. 66. Tertullian, Cyprian, and other early Fathers, agree with Iren�
 
 Deut. xxxii. 6. “Owned thee,” i.e., following the meaning of the Hebrew, “owned thee by generation.” 3927
 
-Matt. xiii. 17.
+[[Matthew 13#^13-17|Matt. xiii. 17]].
 
 3928
 
@@ -97,7 +97,7 @@ spread their garments for Him, and ornamented the way with green boughs, crying 
 
 4\. If, therefore, the self-same person is present who was announced by the prophets, our Lord Jesus Christ, and if His advent has brought in a fuller \[measure of\] grace and greater gifts to those who have received Him, it is plain that the Father also is Himself the same who was proclaimed by the prophets, and that the Son, on His coming, did not spread the knowledge of another Father, but of the same who was preached from the beginning; from whom also He has brought down liberty to those who, in a lawful manner, and with a willing mind, and with all the heart, do Him
 
-Matt. xxv. 21, etc.
+[[Matthew 25#^25-21|Matt. xxv. 21]], etc.
 
 3930
 
@@ -109,7 +109,7 @@ Or, “all those who were in the *way of David*”—*omnes qui erant in viâ Da
 
 3932
 
-Matt. xxi. 8.
+[[Matthew 21#^21-8|Matt. xxi. 8]].
 
 3933
 
@@ -117,7 +117,7 @@ The Latin text is ambiguous: “dominabantur eorum, quibus ratio non constabat.�
 
 those things with respect to which it was not right that they should do so.”
 
-Matt. xxi. 16; Ps. viii. 3.
+[[Matthew 21#^21-16|Matt. xxi. 16]]; Ps. viii. 3.
 
 *[p. 793]* ^pg833
 
@@ -143,19 +143,19 @@ of all is love;”<sup>3939</sup> and that apart from the love of God, neither k
 
 4\. The Lord, too, does not do away with this \[God\], when He shows that the law was not derived from another God, expressing Himself as follows to those who were being instructed by Him, to the multitude and to His disciples: “The scribes and Pharisees sit in Moses’ seat. All, therefore, whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not. For they bind heavy burdens, and lay them upon men’s shoulders; but they themselves will not so much as move them with a finger.”<sup>3941</sup> He therefore did not throw blame upon that law which was given by Moses, when He exhorted it to be observed, Jerusalem being as yet in safety; but He *did* throw blame upon those persons, because they repeated indeed the words of the law, yet were without love. And for this reason were they held as being unrighteous as respects God, and as respects their neighbours. As also Isaiah says: “This people honoureth Me with their lips, but their heart is far from Me: howbeit in vain do they worship Me, teaching the doctrines and the commandments of men.”<sup>3942</sup> He does not call the law given by Moses commandments of men, but the traditions of the elders themselves which they had invented, and in upholding which they made the law of God of none effect, and were on this account also not subject to His Word. For this is what Paul says concerning these men: “For they, being ignorant of God’s righteousness, and going about to establish their own righteousness, have not submitted themselves to the righteousness of
 
-Rom. xiii. 10.
+[[Romans 13#^13-10|Rom. xiii. 10]].
 
 3938
 
-1 Cor. xiii. 13.
+[[1 Corinthians 13#^13-13|1 Cor. xiii. 13]].
 
 3939
 
-1 Cor. xiii. 2.
+[[1 Corinthians 13#^13-2|1 Cor. xiii. 2]].
 
 3940
 
-Matt. xxiii. 2–4.
+[[Matthew 23#^23-2|Matt. xxiii. 2–4]].
 
 3941
 
@@ -165,7 +165,7 @@ God. For Christ is the end of the law for righteousness to every one that believ
 
 5\. Now, that the law did beforehand teach mankind the necessity of following Christ, He does Himself make manifest, when He replied as follows to him who asked Him what he should do that he might inherit eternal life: “If thou wilt enter into life, keep the commandments.”<sup>3945</sup> But upon the other asking “Which?” again the Lord replies: “Do not commit adultery, do not kill, do not steal, do not bear false witness, honour father and mother, and thou shalt love thy neighbour as thyself,”—setting as an ascending series (*velut gradus*) before those who wished to follow Him, the precepts of the law, as the entrance into life; and what He then said to one He said to all. But when the former said, “All these have I done” (and most likely he had not kept them, for in that case the Lord would not have said to him, “Keep the commandments”), the Lord, exposing his covetousness, said to him, “If thou wilt be perfect, go, sell all that thou hast, and distribute to the poor; and come, follow me;” promising to those who would act thus, the portion belonging to the apostles (*apostolorum partem*). And He did not preach to His followers another God the Father, besides Him who was proclaimed by the law from the beginning; nor another Son; nor the Mother, the enthymesis of the Æon, who existed in suffering and apostasy; nor the Pleroma of the thirty Æons, which has been proved vain, and incapable of being believed in; nor that fable invented by the other heretics. But He taught that they should obey the commandments which God enjoined from the beginning, and do away with their former covetousness by good works,<sup>3946</sup> and follow after Christ. But that possessions distributed to the poor do annul former covetousness, Zaccheus made evident, when he said, “Behold, the half of my goods I give to the poor; and if I have defrauded any one, I restore fourfold.”<sup>3947</sup>
 
-477 Rom. x. 3, 4. 3943 Ex. iii. 7, 8. 3944 Matt. xix. 17, 18, etc. 3945 Harvey here remarks: “In a theological point of view, it should be observed, that no saving merit is ascribed to almsgiving: 3946 it is spoken of here as the negation of the vice of covetousness, which is wholly inconsistent with the state of salvation to which we are called.”
+477 [[Romans 10#^10-3|Rom. x. 3]], [[Romans 10#^10-4|4]]. 3943 Ex. iii. 7, 8. 3944 [[Matthew 19#^19-17|Matt. xix. 17]], [[Matthew 19#^19-18|18]], etc. 3945 Harvey here remarks: “In a theological point of view, it should be observed, that no saving merit is ascribed to almsgiving: 3946 it is spoken of here as the negation of the vice of covetousness, which is wholly inconsistent with the state of salvation to which we are called.”
 
 *[p. 796]* ^pg836
 
@@ -175,19 +175,19 @@ God. For Christ is the end of the law for righteousness to every one that believ
 
 2\. For the law, since it was laid down for those in bondage, used to instruct the soul by means of those corporeal objects which were of an external nature, drawing it, as by a bond, to obey its commandments, that man might learn to serve God. But the Word set free the soul, and taught that through it the body should be willingly purified. Which having been accomplished, it followed as of course, that the bonds of slavery should be removed, to which man had now become accustomed, and that he should follow God without fetters: moreover, that the laws of liberty should be extended,
 
-That is, as Harvey observes, *the natural man*, as described in Rom. ii. 27.
+That is, as Harvey observes, *the natural man*, as described in [[Romans 02#^2-27|Rom. ii. 27]].
 
 3948
 
-Matt. v. 27, 28.
+[[Matthew 05#^5-27|Matt. v. 27]], [[Matthew 05#^5-28|28]].
 
 3949
 
-Matt. v. 21, 22.
+[[Matthew 05#^5-21|Matt. v. 21]], [[Matthew 05#^5-22|22]].
 
 3950
 
-Matt. v. 33, etc.
+[[Matthew 05#^5-33|Matt. v. 33]], etc.
 
 3951
 
@@ -199,7 +199,7 @@ and subjection to the king increased, so that no one who is converted should app
 
 4\. Inasmuch, then, as all natural precepts are common to us and to them (the Jews), they had in them indeed the beginning and origin; but in us they have received growth and completion. For to yield assent to God, and to follow His Word, and to love Him above all, and one’s neighbour as one’s self (now man is neighbour to man), and to abstain from every evil deed, and all other things of a like nature which are common to both \[covenants\], do reveal one and the same God. But this is our Lord, the Word of God, who in the first instance certainly drew slaves to God, but afterwards He set those free who were subject to Him, as He does Himself declare to His disciples: “I will not
 
-478 Matt. xix. 21. 3953 Luke vi. 29–31. 3954 Matt. v. 41. 3955
+478 [[Matthew 19#^19-21|Matt. xix. 21]]. 3953 [[Luke 06#^6-29|Luke vi. 29–31]]. 3954 [[Matthew 05#^5-41|Matt. v. 41]]. 3955
 
 *[p. 798]* ^pg838
 
@@ -209,15 +209,15 @@ now call you servants, for the servant knoweth not what his lord doeth; but I ha
 
 1\. In the beginning, therefore, did God form Adam, not as if He stood in need of man, but that He might have \[some one\] upon whom to confer His benefits. For not alone antecedently to Adam, but also before all creation, the Word glorified His Father, remaining in Him; and was Himself glorified by the Father, as He did Himself declare, “Father, glorify Thou Me with the glory which I had with Thee before the world was.”<sup>3960</sup> Nor did He stand in need of our service when He ordered us to follow Him; but He thus bestowed salvation upon ourselves. For to follow the Saviour is to be a partaker of salvation, and to follow light is to receive light. But those who are in light do not themselves illumine the light, but are illumined and revealed by it: they do certainly contribute nothing to it, but, receiving the benefit, they are illumined by the light. Thus, also, service \[rendered\] to God does indeed profit God nothing, nor has God need of human obedience; but He grants to those who follow and serve Him life and incorruption and eternal glory, bestowing benefit upon those who serve \[Him\], because they do serve Him, and on His followers, because they do follow Him; but does not receive any benefit from them: for He is rich, perfect, and in need of nothing. But for this reason does God demand service from men, in order that, since He is good and merciful, He may benefit those who continue in His service. For, as much as God is in want of nothing, so
 
-John xv. 15.
+[[John 15#^15-15|John xv. 15]].
 
 3957
 
-Jas. ii. 23.
+[[James 02#^2-23|Jas. ii. 23]].
 
 3958
 
-John viii. 58.
+[[John 08#^8-58|John viii. 58]].
 
 3959
 
@@ -231,11 +231,11 @@ formed, and made him.”<sup>3963</sup> Inasmuch as then, “wheresoever the car
 
 3\. Thus, too, He imposed upon the \[Jewish\] people the construction of the tabernacle, the building of the temple, the election of the Levites, sacrifices also, and oblations, legal monitions, and all the other service of the law. He does Himself truly want none of these things, for He is always full of all good, and had in Himself all the odour of kindness, and every perfume of sweet-smelling savours, even before Moses existed. Moreover, He instructed the people, who were
 
-John xv. 16.
+[[John 15#^15-16|John xv. 16]].
 
 3961
 
-John xvii. 24.
+[[John 17#^17-24|John xvii. 24]].
 
 3962
 
@@ -243,15 +243,15 @@ Isa. xliii. 5.
 
 3963
 
-Matt. xxiv. 28.
+[[Matthew 24#^24-28|Matt. xxiv. 28]].
 
 3964
 
-Luke xv. 22, 23.
+[[Luke 15#^15-22|Luke xv. 22]], [[Luke 15#^15-23|23]].
 
 3965
 
-Rev. i. 15.
+[[Revelation 01#^1-15|Rev. i. 15]].
 
 *[p. 800]* ^pg840
 
@@ -261,7 +261,7 @@ prone to turn to idols, instructing them by repeated appeals to persevere and to
 
 1\. They (the Jews) had therefore a law, a course of discipline, and a prophecy of future things. For God at the first, indeed, warning them by means of natural precepts, which from the beginning He had implanted in mankind, that is, by means of the Decalogue (which, if any one does not observe, he has no salvation), did then demand nothing more of them. As Moses says in Deuteronomy, “These are all the words which the Lord spake to the whole assembly of the sons of Israel on the mount, and He added no more; and He wrote them on two tables of stone, and gave them to me.”<sup>3969</sup> For this reason \[He did so\], that they who are willing to follow Him might keep these commandments. But when they turned themselves to make a calf, and had gone back in their minds to Egypt, desiring to be slaves instead of free-men, they were placed for the future in a state of servitude suited to their wish,—\[a slavery\] which did not indeed cut them off from God, but subjected them to the yoke of bondage; as Ezekiel the prophet, when stating the reasons for the giving of such a law, declares: “And their eyes were after the desire of their heart; and I gave them statutes that were not good, and judgments in which they shall not live.”<sup>3970</sup> Luke also has recorded that Stephen, who was the first elected into the diaconate by the apostles,<sup>3971</sup> and who was the first slain for the testimony of Christ, spoke regarding Moses as follows: “This man did indeed receive
 
-480 Ex. xxv. 40. 3967 1 Cor. x. 11. 3968 Deut. v. 22. 3969 Ezek. xx. 24. 3970 \[Acts vi. 3–7. It is evident that the laity *elected*, and the apostles ordained.\]
+480 Ex. xxv. 40. 3967 [[1 Corinthians 10#^10-11|1 Cor. x. 11]]. 3968 Deut. v. 22. 3969 Ezek. xx. 24. 3970 \[[[Acts 06#^6-3|Acts vi. 3–7]]. It is evident that the laity *elected*, and the apostles ordained.\]
 
 *[p. 801]* ^pg841
 
@@ -269,7 +269,7 @@ the commandments of the living God to give to us, whom your fathers would not ob
 
 2\. And not only so, but the Lord also showed that certain precepts were enacted for them by Moses, on account of their hardness \[of heart\], and because of their unwillingness to be obedient, when, on their saying to Him, “Why then did Moses command to give a writing of divorcement, and to send away a wife?” He said to them, “Because of the hardness of your hearts he permitted these things to you; but from the beginning it was not so;”<sup>3976</sup> thus exculpating Moses as a faithful servant, but acknowledging one God, who from the beginning made male and female, and reproving them as hard-hearted and disobedient. And therefore it was that they received from Moses this law of divorcement, adapted to their hard nature. But why say I these things concerning the Old Testament? For in the New also are the apostles found doing this very thing, on the ground which has been mentioned, Paul plainly declaring, “But these things I say, not the Lord.”<sup>3977</sup> And again: “But this I speak by permission, not by commandment.”<sup>3978</sup> And again: “Now, as concerning virgins, I have no commandment from the Lord; yet I give my judgment, as one that hath obtained mercy of the Lord to be faithful.”<sup>3979</sup> But further, in another place he says: “That Satan tempt you not for your incontinence.”<sup>3980</sup> If, therefore, even in the New Testament, the apostles are found granting certain precepts in consideration of human infirmity, because of the incontinence of some, lest such persons, having grown obdurate, and despairing altogether of their salvation, should become
 
-Amos v. 25, 26. 3972 In accordance with the Codex Bezæ. 3973 Acts vii. 38, etc. 3974 Ex. xxxiii. 2, 3. 3975 Matt. xix. 7, 8. 3976 1 Cor. vii. 12. 3977 1 Cor. vii. 6. 3978 1 Cor. vii. 25. 3979 1 Cor. vii. 5.
+Amos v. 25, 26. 3972 In accordance with the Codex Bezæ. 3973 [[Acts 07#^7-38|Acts vii. 38]], etc. 3974 Ex. xxxiii. 2, 3. 3975 [[Matthew 19#^19-7|Matt. xix. 7]], [[Matthew 19#^19-8|8]]. 3976 [[1 Corinthians 07#^7-12|1 Cor. vii. 12]]. 3977 [[1 Corinthians 07#^7-6|1 Cor. vii. 6]]. 3978 [[1 Corinthians 07#^7-25|1 Cor. vii. 25]]. 3979 [[1 Corinthians 07#^7-5|1 Cor. vii. 5]].
 
 *[p. 802]* ^pg842
 
@@ -279,7 +279,7 @@ apostates from God,—it ought not to be wondered at, if also in the Old Testame
 
 1\. Moreover, we learn from the Scripture itself, that God gave circumcision, not as the completer of righteousness, but as a sign, that the race of Abraham might continue recognisable. For it declares: “God said unto Abraham, Every male among you shall be circumcised; and ye shall circumcise the flesh of your foreskins, as a token of the covenant between Me and you.”<sup>3983</sup> This same does Ezekiel the prophet say with regard to the Sabbaths: “Also I gave them My Sabbaths, to be a sign between Me and them, that they might know that I am the Lord, that sanctify them.”<sup>3984</sup> And in Exodus, God says to Moses: “And ye shall observe My Sabbaths; for it shall be a sign between Me and you for your generations.”<sup>3985</sup> These things, then, were given for a sign; but the signs were not unsymbolical, that is, neither unmeaning nor to no purpose, inasmuch as they were given by a wise Artist; but the circumcision after the flesh typified that after the Spirit. For “we,” says the apostle, “have been circumcised with the circumcision made without hands.”<sup>3986</sup> And the prophet declares, “Circumcise the hardness of your heart.”<sup>3987</sup> But the Sabbaths taught that we should continue day by day in God’s
 
-481 Matt. xx. 16. 3981 \[Note this stout assertion of the freedom of human actions.\] 3982 Gen. xvii. 9–11. 3983 Ezek. xx. 12. 3984 Ex. xxi. 13. 3985 Col. ii. 11. 3986 Deut. x. 16, LXX. version.
+481 [[Matthew 20#^20-16|Matt. xx. 16]]. 3981 \[Note this stout assertion of the freedom of human actions.\] 3982 Gen. xvii. 9–11. 3983 Ezek. xx. 12. 3984 Ex. xxi. 13. 3985 [[Colossians 02#^2-11|Col. ii. 11]]. 3986 Deut. x. 16, LXX. version.
 
 *[p. 803]* ^pg843
 
@@ -289,7 +289,7 @@ service.<sup>3988</sup> “For we have been counted,” says the Apostle Paul, �
 
 3\. Why, then, did the Lord not form the covenant for the fathers? Because “the law was not established for righteous men.”<sup>3994</sup> But the righteous fathers had the meaning of the Decalogue written in their hearts and souls,<sup>3995</sup> that is, they loved the God who made them, and did no injury
 
-The Latin text here is: “Sabbata autem perseverantiam totius diei erga Deum deservitionis edocebant;” which might be 3988 rendered, “The Sabbaths taught that we should continue the whole day in the service of God;” but Harvey conceives the original Greek to have been, τὴν καθημερινὴν διαμονὴν τῆς περὶ τὸν Θεὸν λατρείας. Rom. viii. 36. 3989 Matt. vi. 19. 3990 Jas. ii. 23. 3991 Massuet remarks here that Irenæus makes a reference to the apocryphal book of Enoch, in which this history is contained. 3992 It was the belief of the later Jews, followed by the Christian fathers, that “the sons of God” (Gen. vi. 2) who took wives of the daughters of men, were the apostate angels. The LXX. translation of that passage accords with this view. See the articles “Enoch,” “Enoch, Book of,” in Smith’s *Dictionary of the Bible*. \[See Paradise Lost, b. i. 323–431.\] Deut. v. 2. 3993 1 Tim. i. 9. 3994 \[Hearts and souls; i.e., moral and mental natures. For a correct view of the patristic conceptions of the Gentiles before 3995 the law, this is valuable.\]
+The Latin text here is: “Sabbata autem perseverantiam totius diei erga Deum deservitionis edocebant;” which might be 3988 rendered, “The Sabbaths taught that we should continue the whole day in the service of God;” but Harvey conceives the original Greek to have been, τὴν καθημερινὴν διαμονὴν τῆς περὶ τὸν Θεὸν λατρείας. [[Romans 08#^8-36|Rom. viii. 36]]. 3989 [[Matthew 06#^6-19|Matt. vi. 19]]. 3990 [[James 02#^2-23|Jas. ii. 23]]. 3991 Massuet remarks here that Irenæus makes a reference to the apocryphal book of Enoch, in which this history is contained. 3992 It was the belief of the later Jews, followed by the Christian fathers, that “the sons of God” (Gen. vi. 2) who took wives of the daughters of men, were the apostate angels. The LXX. translation of that passage accords with this view. See the articles “Enoch,” “Enoch, Book of,” in Smith’s *Dictionary of the Bible*. \[See Paradise Lost, b. i. 323–431.\] Deut. v. 2. 3993 [[1 Timothy 01#^1-9|1 Tim. i. 9]]. 3994 \[Hearts and souls; i.e., moral and mental natures. For a correct view of the patristic conceptions of the Gentiles before 3995 the law, this is valuable.\]
 
 *[p. 804]* ^pg844
 
@@ -309,7 +309,7 @@ for bondage, and for a sign to them, He cancelled by the new covenant of liberty
 
 1\. Moreover, the prophets indicate in the fullest manner that God stood in no need of their slavish obedience, but that it was upon their own account that He enjoined certain observances in the law. And again, that God needed not their oblation, but \[merely demanded it\], on account of man himself who offers it, the Lord taught distinctly, as I have pointed out. For when He perceived them neglecting righteousness, and abstaining from the love of God, and imagining that God was to be propitiated by sacrifices and the other typical observances, Samuel did even thus speak to them: “God does not desire whole burnt-offerings and sacrifices, but He will have His voice to be hearkened to. Behold, a ready obedience is better than sacrifice, and to hearken than the fat of rams.”<sup>4007</sup> David also says: “Sacrifice and oblation Thou didst not desire, but mine ears hast Thou
 
-Matt. xii. 36. 4003 Matt. v. 28. 4004 Matt. v. 22. 4005 1 Pet. ii. 16. 4006 1 Sam. xv. 22.
+[[Matthew 12#^12-36|Matt. xii. 36]]. 4003 [[Matthew 05#^5-28|Matt. v. 28]]. 4004 [[Matthew 05#^5-22|Matt. v. 22]]. 4005 [[1 Peter 02#^2-16|1 Pet. ii. 16]]. 4006 1 Sam. xv. 22.
 
 *[p. 806]* ^pg846
 
@@ -317,7 +317,7 @@ perfected;<sup>4008</sup> burnt-offerings also for sin Thou hast not required.�
 
 2\. For it was not because He was angry, like a man, as many venture to say, that He rejected their sacrifices; but out of compassion to their blindness, and with the view of suggesting to them the true sacrifice, by offering which they shall appease God, that they may receive life from Him. As He elsewhere declares: “The sacrifice to God is an afflicted heart: a sweet savour to God is a
 
-483 Latin, “aures autem perfecisti mihi;” a reading agreeable to neither the Hebrew nor Septuagint version, as quoted by St. 4008 Paul in Heb. x. 9. Harvey, however, is of opinion that the text of the old Latin translation was originally “perforasti;” indicating thus an entire concurrence with the Hebrew, as now read in this passage. \[Both readings illustrated by their apparent reference to Ex. xxi. 6, compared with Heb. v. 7–9.\] Ps. xl. 6. 4009 Ps. li. 17. 4010 Or, “the beauty,” *species*. 4011 Ps. l. 9. 4012 Ps. l. 14, 15. 4013
+483 Latin, “aures autem perfecisti mihi;” a reading agreeable to neither the Hebrew nor Septuagint version, as quoted by St. 4008 Paul in [[Hebrews 10#^10-9|Heb. x. 9]]. Harvey, however, is of opinion that the text of the old Latin translation was originally “perforasti;” indicating thus an entire concurrence with the Hebrew, as now read in this passage. \[Both readings illustrated by their apparent reference to Ex. xxi. 6, compared with [[Hebrews 05#^5-7|Heb. v. 7–9]].\] Ps. xl. 6. 4009 Ps. li. 17. 4010 Or, “the beauty,” *species*. 4011 Ps. l. 9. 4012 Ps. l. 14, 15. 4013
 
 *[p. 807]* ^pg847
 
@@ -393,7 +393,7 @@ Grabe has a long and important note on this passage and what follows, which may 
 
 other side, and in connection with the whole of the following chapter, Massuet’s third dissertation on the doctrine of Irenæus, art. vii., reprinted in Migne’s edition.
 
-Matt. xxvi. 26, etc.
+[[Matthew 26#^26-26|Matt. xxvi. 26]], etc.
 
 4030
 
@@ -405,7 +405,7 @@ Mal. i. 10, 11.
 
 the body and the blood; materially one thing, mystically another. See cap. xviii. 5 below.\]
 
-Rev. v. 8. \[Material incense seems to be always disclaimed by the primitive writers.\]
+[[Revelation 05#^5-8|Rev. v. 8]]. \[Material incense seems to be always disclaimed by the primitive writers.\]
 
 *[p. 810]* ^pg850
 
@@ -417,7 +417,7 @@ inasmuch as the offering is now made, not by slaves, but by freemen. For the Lor
 
 3\. For at the beginning God had respect to the gifts of Abel, because he offered with single-mindedness and righteousness; but He had no respect unto the offering of Cain, because his heart was divided with envy and malice, which he cherished against his brother, as God says when reproving his hidden \[thoughts\], “Though thou offerest rightly, yet, if thou dost not divide rightly, hast thou not sinned? Be at rest;”<sup>4038</sup> since God is not appeased by sacrifice. For if any one shall endeavour to offer a sacrifice merely to outward appearance, unexceptionably, in due order, and according to appointment, while in his soul he does not assign to his neighbour that fellowship with him which is right and proper, nor is under the fear of God;— he who thus cherishes secret sin does not deceive God by that sacrifice which is offered correctly as to outward appearance; nor will such an oblation profit him anything, but \[only\] the giving up of that evil which has been conceived within him, so that sin may not the more, by means of the hypocritical action, render him the
 
-Matt. v. 23, 24.
+[[Matthew 05#^5-23|Matt. v. 23]], [[Matthew 05#^5-24|24]].
 
 4034
 
@@ -429,7 +429,7 @@ The text of this passage is doubtful in some words.
 
 4036
 
-Luke xxi. 4. \[The law of tithes abrogated; the law of Acts ii. 44, 45, morally binding. This seems to be our author’s view.\] 4037
+[[Luke 21#^21-4|Luke xxi. 4]]. \[The law of tithes abrogated; the law of [[Acts 02#^2-44|Acts ii. 44]], [[Acts 02#^2-45|45]], morally binding. This seems to be our author’s view.\] 4037
 
 *[p. 811]* ^pg851
 
@@ -439,11 +439,11 @@ destroyer of himself.<sup>4039</sup> Wherefore did the Lord also declare: “Woe
 
 The Latin text is: “ne per assimulatam operationem, magis autem peccatum, ipsum sibi homicidam faciat hominem.” 4039
 
-Matt. xxiii. 27, 28.
+[[Matthew 23#^23-27|Matt. xxiii. 27]], [[Matthew 23#^23-28|28]].
 
 4040
 
-Matt. xxiii. 26.
+[[Matthew 23#^23-26|Matt. xxiii. 26]].
 
 4041
 
@@ -459,7 +459,7 @@ Gen. iv. 7.
 
 4044
 
-John xix. 11.
+[[John 19#^19-11|John xix. 11]].
 
 4045
 
@@ -467,7 +467,7 @@ Isa. lxvi. 3.
 
 4046
 
-Phil. iv. 18.
+[[Philippians 04#^4-18|Phil. iv. 18]].
 
 *[p. 812]* ^pg852
 
@@ -483,7 +483,7 @@ the latter. If the first reading be chosen, the translation will be, “the Word
 
 4049
 
-Mark iv. 28.
+[[Mark 04#^4-28|Mark iv. 28]].
 
 4050
 
@@ -507,7 +507,7 @@ teaches. Could words be plainer,—“*two* realities,”—(i.) bread, (ii.) sp
 
 1\. Now the gifts, oblations, and all the sacrifices, did the people receive in a figure, as was shown to Moses in the mount, from one and the same God, whose name is now glorified in the Church among all nations. But it is congruous that those earthly things, indeed, which are spread all around us, should be types of the celestial, being \[both\], however, created by the same God. For in no other way could He assimilate an image of spiritual things \[to suit our comprehension\]. But to allege that those things which are super-celestial and spiritual, and, as far as we are concerned, invisible and ineffable, are in their turn the types of celestial things and of another Pleroma, and \[to say\] that God is the image of another Father, is to play the part both of wanderers from the truth, and of absolutely foolish and stupid persons. For, as I have repeatedly shown, such persons will find it necessary to be continually finding out types of types, and images of images, and will never
 
-487 The text fluctuates between *dominationi* and *donationi*. 4054 Prov. xix. 17. 4055 Matt. xxv. 34, etc. 4056 \[The *Sursum Corda* seems here in mind. The object of Eucharistic adoration is the Creator, our “great High Priest, passed 4057 into the heavens,” and in bodily substance there enthroned, according to our author.\] Rev. xi. 19.
+487 The text fluctuates between *dominationi* and *donationi*. 4054 Prov. xix. 17. 4055 [[Matthew 25#^25-34|Matt. xxv. 34]], etc. 4056 \[The *Sursum Corda* seems here in mind. The object of Eucharistic adoration is the Creator, our “great High Priest, passed 4057 into the heavens,” and in bodily substance there enthroned, according to our author.\] [[Revelation 11#^11-19|Rev. xi. 19]].
 
 *[p. 814]* ^pg854
 
@@ -521,7 +521,7 @@ Isa. xl. 12.
 
 4059
 
-Eph. i. 21.
+[[Ephesians 01#^1-21|Eph. i. 21]].
 
 4060
 
@@ -543,7 +543,7 @@ And that His greatness is not defective, but contains all things, and extends ev
 
 2\. Truly, then, the Scripture declared, which says, “First<sup>4065</sup> of all believe that there is one God, who has established all things, and completed them, and having caused that from what had no being, all things should come into existence:” He who contains all things, and is Himself contained by no one. Rightly also has Malachi said among the prophets: “Is it not one God who hath established us? Have we not all one Father?”<sup>4066</sup> In accordance with this, too, does the apostle say, “There is one God, the Father, who is above all, and in us all.”<sup>4067</sup> Likewise does the Lord also say: “All things are delivered to Me by My Father;”<sup>4068</sup> manifestly by Him who made all things; for He did not deliver to Him the things of another, but His own. But in *all things* \[it is implied that\] nothing has
 
-488 Gen. ii. 7. 4063 Gen. i. 26. 4064 This quotation is taken from the *Shepherd of Hermas*, book ii. sim. 1. 4065 Mal. ii. 10. 4066 Eph. iv. 6. 4067
+488 Gen. ii. 7. 4063 Gen. i. 26. 4064 This quotation is taken from the *Shepherd of Hermas*, book ii. sim. 1. 4065 Mal. ii. 10. 4066 [[Ephesians 04#^4-6|Eph. iv. 6]]. 4067
 
 *[p. 816]* ^pg856
 
@@ -551,7 +551,7 @@ been kept back \[from Him\], and for this reason the same person is the Judge of
 
 3\. I have also largely demonstrated, that the Word, namely the Son, was always with the Father; and that Wisdom also, which is the Spirit, was present with Him, anterior to all creation, He declares by Solomon: “God by Wisdom founded the earth, and by understanding hath He established the heaven. By His knowledge the depths burst forth, and the clouds dropped down the dew.”<sup>4072</sup> And again: “The Lord created me the beginning of His ways in His work: He set me up from everlasting, in the beginning, before He made the earth, before He established the depths, and before the fountains of waters gushed forth; before the mountains were made strong, and before all the hills, He brought me forth.”<sup>4073</sup> And again: “When He prepared the heaven, I was with Him, and when He established the fountains of the deep; when He made the foundations of the earth strong, I was with Him preparing \[them\]. I was He in whom He rejoiced, and throughout all time I was daily glad before His face, when He rejoiced at the completion of the world, and was delighted in the sons of men.”<sup>4074</sup> 4. There is therefore one God, who by the Word and Wisdom created and arranged all things; but this is the Creator (Demiurge) who has granted this world to the human race, and who, as regards His greatness, is indeed unknown to all who have been made by Him (for no man has searched out His height, either among the ancients who have gone to their rest, or any of those who are now alive); but as regards His love, He is always known through Him by whose means He ordained all things. Now this is His Word, our Lord Jesus Christ, who in the last times was made a man among men, that He might join the end to the beginning, that is, man to God. Wherefore the prophets,
 
-Rev. iii. 7. 4069 1 Pet. ii. 23. 4070 Col. i. 18. 4071 Prov. iii. 19, 20. 4072 Prov. viii. 22–25. \[This is one of the favourite Messianic quotations of the Fathers, and is considered as the base of the 4073 first chapter of St. John’s Gospel.\] Prov. viii. 27–31.
+[[Revelation 03#^3-7|Rev. iii. 7]]. 4069 [[1 Peter 02#^2-23|1 Pet. ii. 23]]. 4070 [[Colossians 01#^1-18|Col. i. 18]]. 4071 Prov. iii. 19, 20. 4072 Prov. viii. 22–25. \[This is one of the favourite Messianic quotations of the Fathers, and is considered as the base of the 4073 first chapter of St. John’s Gospel.\] Prov. viii. 27–31.
 
 *[p. 817]* ^pg857
 
@@ -561,11 +561,11 @@ receiving the prophetic gift from the same Word, announced His advent according 
 
 those things which shall be afterwards. The prophets, then, indicated beforehand that God should be seen by men; as the Lord also says, “Blessed are the pure in heart, for they shall see God.”<sup>4076</sup> But in respect to His greatness, and His wonderful glory, “no man shall see God and live,”<sup>4077</sup> for the Father is incomprehensible; but in regard to His love, and kindness, and as to His infinite power, even this He grants to those who love Him, that is, to see God, which thing the prophets did also predict. “For those things that are impossible with men, are possible with God.”<sup>4078</sup> For man does not see God by his own powers; but when He pleases He is seen by men, by whom He wills, and when He wills, and as He wills. For God is powerful in all things, having been seen at that time indeed, prophetically through the Spirit, and seen, too, adoptively through the Son; and He shall also be seen paternally in the kingdom of heaven, the Spirit truly preparing man in the Son<sup>4079</sup> of God, and the Son leading him to the Father, while the Father, too, confers \[upon him\] incorruption for eternal life, which comes to every one from the fact of his seeing God. For as those who see the light are within the light, and partake of its brilliancy; even so, those who see God are in God, and receive of His splendour. But \[His\] splendour vivifies them; those, therefore, who see God, do receive life. And for this reason, He, \[although\] beyond comprehension, and boundless and invisible, rendered Himself visible, and comprehensible, and within the capacity of those who believe, that He might vivify those who receive and behold Him through faith.<sup>4080</sup> For as His greatness is past finding out, so also His goodness is beyond expression; by which having been seen, He bestows life upon those who see Him. It is not possible to live apart from life, and the means of life is found in fellowship with God; but fellowship with God is to know God, and to enjoy His goodness.
 
-Luke i. 71, 75.
+[[Luke 01#^1-71|Luke i. 71]], [[Luke 01#^1-75|75]].
 
 4075
 
-Matt. v. 8.
+[[Matthew 05#^5-8|Matt. v. 8]].
 
 4076
 
@@ -573,7 +573,7 @@ Ex. xxxiii. 20.
 
 4077
 
-Luke xviii. 27.
+[[Luke 18#^18-27|Luke xviii. 27]].
 
 4078
 
@@ -589,7 +589,7 @@ A part of the original Greek text is preserved here, and has been followed, as i
 
 7\. Therefore the Son of the Father declares \[Him\] from the beginning, inasmuch as He was with the Father from the beginning, who did also show to the human race prophetic visions, and diversities of gifts, and His own ministrations, and the glory of the Father, in regular order and connection, at the fitting time for the benefit \[of mankind\]. For where there is a regular succession, there is also fixedness; and where fixedness, there suitability to the period; and where suitability, there also utility. And for this reason did the Word become the dispenser of the paternal grace for the benefit of men, for whom He made such great dispensations, revealing God indeed to men, but presenting man to God, and preserving at the same time the invisibility of the Father, lest man should at any time become a despiser of God, and that he should always possess something towards which he might advance; but, on the other hand, revealing God to men through many dispensations, lest man, falling away from God altogether, should cease to exist. For the glory of God is a living man; and the life of man consists in beholding God. For if the manifestation of God which is made by means
 
-490 Deut. v. 24. 4081 Hos. xii. 10. 4082 1 Cor. xii. 4–7. 4083
+490 Deut. v. 24. 4081 Hos. xii. 10. 4082 [[1 Corinthians 12#^12-4|1 Cor. xii. 4–7]]. 4083
 
 *[p. 819]* ^pg859
 
@@ -627,7 +627,7 @@ see God; and that, through the wisdom of God, man shall see Him in the last time
 
 10\. The prophets, therefore, did not openly behold the actual face of God, but \[they saw\] the dispensations and the mysteries through which man should afterwards see God. As was also said to Elias: “Thou shalt go forth tomorrow, and stand in the presence of the Lord; and, behold, a wind great and strong, which shall rend the mountains, and break the rocks in pieces before the Lord. And the Lord \[was\] not in the wind; and after the wind an earthquake, but the Lord \[was\] not in the earthquake; and after the earthquake a fire, but the Lord \[was\] not in the fire; and after the fire a scarcely audible voice” (*vox auræ tenuis*).<sup>4092</sup> For by such means was the prophet—very indignant, because of the transgression of the people and the slaughter of the prophets—both taught to act in a more gentle manner; and the Lord’s advent as a man was pointed out, that it should be subsequent to that law which was given by Moses, mild and tranquil, in which He would neither break the bruised reed, nor quench the smoking flax.<sup>4093</sup> The mild and peaceful repose of His kingdom was indicated likewise. For, after the wind which rends the mountains, and after the earthquake, and after the fire, come the tranquil and peaceful times of His kingdom, in which the spirit of God does, in the most gentle manner, vivify and increase mankind. This, too, was made still clearer by Ezekiel, that the prophets saw the dispensations of God in part, but not actually God Himself. For when this man had seen the vision<sup>4094</sup> of God, and the cherubim, and their wheels, and when he had recounted the mystery of the whole of that progression, and had beheld the likeness of a throne above them, and upon the throne a likeness as of the figure of a man, and the things which were upon his loins as the figure of amber, and what was below like the sight of fire, and when he set forth all the rest of the vision of the thrones, lest any one might happen to think that in those \[visions\] he had actually seen God, he added: “This was the appearance of the likeness of the glory of God.”<sup>4095</sup> 11. If, then, neither Moses, nor Elias, nor Ezekiel, who had all many celestial visions, did see God; but if what they did see were similitudes of the splendour of the Lord, and prophecies of things to come; it is manifest that the Father is indeed invisible, of whom also the Lord said, “No man hath seen God at any time.”<sup>4096</sup> But His Word, as He Himself willed it, and for the benefit of those who beheld, did show the Father’s brightness, and explained His purposes (as also the Lord
 
-491 Matt. xvii. 3, etc. 4091 1 Kings xix. 11, 12. 4092 Isa. xlii. 3. 4093 Ezek. i. 1. 4094 Ezek. ii. 1. 4095
+491 [[Matthew 17#^17-3|Matt. xvii. 3]], etc. 4091 1 Kings xix. 11, 12. 4092 Isa. xlii. 3. 4093 Ezek. i. 1. 4094 Ezek. ii. 1. 4095
 
 *[p. 821]* ^pg861
 
@@ -649,11 +649,11 @@ Dan. vii. 4.
 
 4100
 
-Rev. i. 12.
+[[Revelation 01#^1-12|Rev. i. 12]].
 
 4101
 
-Rev. i. 17.
+[[Revelation 01#^1-17|Rev. i. 17]].
 
 4102
 
@@ -667,11 +667,11 @@ it were, of things to come, and points out to men the various forms (*species*),
 
 12\. However, it was not by means of visions alone which were seen, and words which were proclaimed, but also in actual works, that He was beheld by the prophets, in order that through them He might prefigure and show forth future events beforehand. For this reason did Hosea the prophet take “a wife of whoredoms,” prophesying by means of the action, “that in committing fornication the earth should fornicate from the Lord,”<sup>4106</sup> that is, the men who are upon the earth; and from men of this stamp it will be God’s good pleasure to take out<sup>4107</sup> a Church which shall be sanctified by fellowship with His Son, just as that woman was sanctified by intercourse with the prophet. And for this reason, Paul declares that the “unbelieving wife is sanctified by the believing husband.”<sup>4108</sup> Then again, the prophet names his children, “Not having obtained mercy,” and “Not a people,”<sup>4109</sup> in order that, as says the apostle, “what was not a people may become a people; and she who did not obtain mercy may obtain mercy. And it shall come to pass, that in the place where it was said, This is not a people, there shall they be called the children of the living God.”<sup>4110</sup> That
 
-Rev. v. 6.
+[[Revelation 05#^5-6|Rev. v. 6]].
 
 4104
 
-Rev. xix. 11–17.
+[[Revelation 19#^19-11|Rev. xix. 11–17]].
 
 4105
 
@@ -679,11 +679,11 @@ Hos. i. 2, 3.
 
 4106
 
-Acts xv. 14.
+[[Acts 15#^15-14|Acts xv. 14]].
 
 4107
 
-1 Cor. vii. 14. \[But Hosea himself says (Hos. xii. 10), “I have used similitudes;” and this history may be fairly referred 4108
+[[1 Corinthians 07#^7-14|1 Cor. vii. 14]]. \[But Hosea himself says (Hos. xii. 10), “I have used similitudes;” and this history may be fairly referred 4108
 
 to prophetic vision. Dr. Pusey, in his *Minor Prophets, in loc.*, argues against this view, however; and his reasons deserve consideration.\]
 
@@ -705,11 +705,11 @@ Irenæus seems here to have written “three” for “two” from a lapse of me
 
 4112
 
-Matt. xxi. 31.
+[[Matthew 21#^21-31|Matt. xxi. 31]].
 
 4113
 
-Gal. iii. 5–9; Gen. xii. 3.
+[[Galatians 03#^3-5|Gal. iii. 5–9]]; Gen. xii. 3.
 
 *[p. 824]* ^pg864
 
@@ -723,11 +723,11 @@ Massuet would cancel these words.
 
 4115
 
-Rom. ix. 10–13; Gen. xxv. 23.
+[[Romans 09#^9-10|Rom. ix. 10–13]]; Gen. xxv. 23.
 
 4116
 
-Rom. ix. 13; Mal. i. 2.
+[[Romans 09#^9-13|Rom. ix. 13]]; Mal. i. 2.
 
 4117
 
@@ -735,7 +735,7 @@ Gen. xxv. 26.
 
 4118
 
-Rev. vi. 2.
+[[Revelation 06#^6-2|Rev. vi. 2]].
 
 4119
 
@@ -747,7 +747,7 @@ the uttermost parts of the earth for Thy possession.”<sup>4121</sup> And as fr
 
 1\. Now in the last days, when the fulness of the time of liberty had arrived, the Word Himself did by Himself “wash away the filth of the daughters of Zion,”<sup>4124</sup> when He washed the disciples’ feet with His own hands.<sup>4125</sup> For this is the end of the human race inheriting God; that as in the beginning, by means of our first \[parents\], we were all brought into bondage, by being made subject to death; so at last, by means of the New Man, all who from the beginning \[were His\] disciples, having been cleansed and washed from things pertaining to death, should come to the life of God. For He who washed the feet of the disciples sanctified the entire body, and rendered it clean. For this reason, too, He administered food to them in a recumbent posture, indicating that those who were lying in the earth were they to whom He came to impart life. As Jeremiah declares, “The holy Lord remembered His dead Israel, who slept in the land of sepulture; and He descended to them to make known to them His salvation, that they might be saved.”<sup>4126</sup> For this reason also were the eyes of the disciples weighed down when Christ’s passion was approaching; and when, in the first instance, the Lord found them sleeping, He let it pass,—thus indicating the patience of God in
 
-494 Ps. ii. 8. 4121 The text of this sentence is in great confusion, and we can give only a doubtful translation. 4122 \[Leah’s eyes were *weak*, according to the LXX.; and Irenæus infers that Rachel’s were “beautiful exceedingly.” Canticles, 4123 i. 15.\] Isa. iv. 4. 4124 John xiii. 5. 4125 This spurious quotation has been introduced before. See book iii. 20. 4.
+494 Ps. ii. 8. 4121 The text of this sentence is in great confusion, and we can give only a doubtful translation. 4122 \[Leah’s eyes were *weak*, according to the LXX.; and Irenæus infers that Rachel’s were “beautiful exceedingly.” Canticles, 4123 i. 15.\] Isa. iv. 4. 4124 [[John 13#^13-5|John xiii. 5]]. 4125 This spurious quotation has been introduced before. See book iii. 20. 4.
 
 *[p. 826]* ^pg866
 
@@ -759,7 +759,7 @@ regard to the state of slumber in which men lay; but coming the second time, He 
 
 1\. For which reason the Lord declared to the disciples: “Behold, I say unto you, Lift up your eyes, and look upon the districts (*regiones*), for they are white \[already\] to harvest. For the harvest-man receiveth wages, and gathereth fruit unto life eternal, that both he that soweth and he that reapeth may rejoice together. For in this is the saying true, that one soweth and another reapeth. For I have sent you forward to reap that whereon ye bestowed no labour; other men have laboured, and ye have entered into their labours.”<sup>4131</sup> Who, then, are they that have laboured, and have helped forward the dispensations of God? It is clear that they are the patriarchs and prophets, who even prefigured our faith, and disseminated through the earth the advent of the Son of God, who and what He should be: so that posterity, possessing the fear of God, might easily accept the advent of Christ, having been instructed by the prophets. And for this reason it was, that when Joseph became
 
-Eph. iv. 9.
+[[Ephesians 04#^4-9|Eph. iv. 9]].
 
 4127
 
@@ -767,15 +767,15 @@ So Harvey understands the obscure Latin text, “id quod erat inoperatum conditi
 
 4128
 
-Matt. xiii. 17.
+[[Matthew 13#^13-17|Matt. xiii. 17]].
 
 4129
 
-Rom. iii. 30.
+[[Romans 03#^3-30|Rom. iii. 30]].
 
 4130
 
-John iv. 35, etc.
+[[John 04#^4-35|John iv. 35]], etc.
 
 *[p. 827]* ^pg867
 
@@ -783,4 +783,4 @@ aware that Mary was with child, and was minded to put her away privily, the ange
 
 2\. For this reason, also, Philip, when he had discovered the eunuch of the Ethiopians’ queen reading these words which had been written: “He was led as a sheep to the slaughter; and as a lamb is dumb before the shearer, so He opened not His mouth: in His humiliation His judgment was taken away;”<sup>4135</sup> and all the rest which the prophet proceeded to relate in regard to His passion and His coming in the flesh, and how He was dishonoured by those who did not believe Him; easily persuaded him to believe on Him, that He was Christ Jesus, who was crucified under Pontius Pilate, and suffered whatsoever the prophet had predicted, and that He was the Son of God, who gives eternal life to men. And immediately when \[Philip\] had baptized him, he departed from him. For nothing else \[but baptism\] was wanting to him who had been already instructed by the prophets: he was not ignorant of God the Father, nor of the rules as to the \[proper\] manner of life, but was merely ignorant of the advent of the Son of God, which, when he had become acquainted with, in a short space of time, he went on his way rejoicing, to be the herald in Ethiopia of Christ’s advent. Therefore Philip had no great labour to go through with regard to this man, because he was already prepared in the fear of God by the prophets. For this reason, too, did the apostles, collecting the sheep which had perished of the house of Israel, and discoursing to them from the Scriptures, prove that this crucified Jesus was the Christ, the Son of the living God; and they persuaded a great
 
-495 Matt. i. 20, etc. 4132 Luke iv. 18. 4133 Isa. lxi. 1. 4134 Acts viii. 27; Isa. liii. 7.
+495 [[Matthew 01#^1-20|Matt. i. 20]], etc. 4132 [[Luke 04#^4-18|Luke iv. 18]]. 4133 Isa. lxi. 1. 4134 [[Acts 08#^8-27|Acts viii. 27]]; Isa. liii. 7.

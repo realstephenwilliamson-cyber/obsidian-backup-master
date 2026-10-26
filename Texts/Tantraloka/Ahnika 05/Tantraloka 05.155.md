@@ -31,7 +31,7 @@ uccārakaraṇadhyānavarṇairebhiḥ pradarśitaḥ || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 04 (Dyczkowski)/Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#^pg220|p. 205]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 04.pdf#page=220>))
 > Dyczkowski numbers this verse 5.156.
 >
-> The Master has said: ‘the conscious nature is undivided (and complete in everything), whether it is (objective, such as) blue or yellow, or (subjective, such as) pleasure or pain. Therefore, there is a wonderful variety in the means to realisation (and not in the pure consciousness, which is the ultimate goal). (with 5.154cd–155ab)
+> The Master has said: ‘the conscious nature is undivided (and complete in everything), whether it is (objective, such as) blue or yellow, or (subjective, such as) pleasure or pain.’ Therefore, there is a wonderful variety in the means to realisation (and not in the pure consciousness, which is the ultimate goal). (with 5.154cd–155ab)
 >
 > The sequence of procedures (vidhikrama), which is the means to attain the plane of the Absolute (Anuttara), has been explained to be ‘utterance’, the ‘instruments’, ‘visualization’ and the ‘phonemes’. (with 5.155cd–156ab)
 

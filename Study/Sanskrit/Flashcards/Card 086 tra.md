@@ -20,17 +20,14 @@ nyasa: "ta: left hip (*kaṭi*) · ra: blood (*rakta*)"
 ## Front
 
 - **Glyph:** त्र
-- **Variation:** त्र (another form: ta with the ra stroke)
 - **Example:** सूत्र
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘sūtra’ (thread)
-- **Class (as printed):** —
-- **Note (no printed label):** Some consider this a distinct letter of the alphabet.
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: त, र
-- **Example:** sūtra (thread)
+> [!note]- Back
+> - **Pronunciation:** As in ‘sūtra’ (thread)
+> - **Variation:** त्र (another form: ta with the ra stroke)
+> - **Note:** Some consider this a distinct letter of the alphabet.
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / <u>त</u> थ द ध न / प फ ब भ म / य <u>र</u> ल व / श ष स ह
+> - **Example:** sūtra (thread)
 
 ## Register
 

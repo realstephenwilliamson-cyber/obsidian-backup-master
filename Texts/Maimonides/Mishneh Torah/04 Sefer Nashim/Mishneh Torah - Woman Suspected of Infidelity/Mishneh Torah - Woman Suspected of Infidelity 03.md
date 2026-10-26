@@ -181,7 +181,7 @@ If, however, one witness comes and testifies that a woman committed adultery, sh
 
 [^1]: For they know that she is forbidden to him and will warn him against engaging in relations with her (Rambam's Commentary on the Mishnah, *Sotah* 1:3).
 [^2]: And if he engages in relations with her, the bitter water will not test her fidelity, as reflected by Chapter 2, Halachah 5.
-[^3]: This refers to the *Sanhedrin*, the highest Jewish court. The obligation for a case involving a *sotah* to be tried before this body is derived from an association between this case and a rebellious elder ([[Sotah 7#7b|*Sotah* 7b]]).
+[^3]: This refers to the *Sanhedrin*, the highest Jewish court. The obligation for a case involving a *sotah* to be tried before this body is derived from an association between this case and a rebellious elder (*Sotah* [[Sotah 7#7b|7b]]).
 [^4]: More precisely, the *Sanhedrin* would hold session in the Chamber of Hewn Stone, which was located half within the Temple Courtyard and half outside the Temple Courtyard.  
     Note the responsum of the *Chida, Chayim Sha'al*, (Volume II, section 4), which states that the High Court can try a *sotah* even when it does not hold session in the Temple Courtyard. Rather, according to his interpretation, the words "in the Temple" refer to the process of testing a *sotah*. Every aspect of the test is carried out in the Temple.
 [^5]: Some commentaries explain that if her husband is present, she will be motivated to uphold her previous statements and will not admit her guilt. Others explain that if her husband is present, she might be embarrassed to admit that she committed adultery.
@@ -189,7 +189,7 @@ If, however, one witness comes and testifies that a woman committed adultery, sh
 [^7]: I.e., a candid admission of guilt is nothing to be ashamed of, because we understand the extenuating circumstances.
 [^8]: I.e., you are not the first woman to have committed adultery. Many women have done so and they have been swept away from the world in punishment via the medium of the bitter water. Why follow in the same pattern? Admit your guilt.
 [^9]: Genesis, Chapter 38. The Bible relates how Tamar dressed up like a prostitute and seduced Judah. The story is significant not only because it shows how a person can be lured into sexual misconduct, but it also relates how Judah was not embarrassed to admit his guilt publicly.
-[^10]: [[Torah 08 - Vayishlach#^35-22|Genesis 35:22]] states that Reuben had relations with Bilhah, his father's concubine. According to [[Shabbat 55#55b|*Shabbat* 55b]], the verse is not meant to be interpreted literally, for actually he did not commit a sin of this nature. Nevertheless, to encourage the woman to admit her guilt, she is told the simple meaning of the narrative.
+[^10]: [[Torah 08 - Vayishlach#^35-22|Genesis 35:22]] states that Reuben had relations with Bilhah, his father's concubine. According to *Shabbat* [[Shabbat 55#55b|55b]], the verse is not meant to be interpreted literally, for actually he did not commit a sin of this nature. Nevertheless, to encourage the woman to admit her guilt, she is told the simple meaning of the narrative.
 [^11]: II Samuel, Chapter 13, describes how Amnon, King David's firstborn, raped his half-sister Tamar.
 [^12]: I.e., hearing the example of these distinguished individuals' conduct will motivate her to admit her own shortcomings.
 [^13]: Although she does not admit her guilt explicitly, this statement is equivalent to an admission of guilt.
@@ -199,16 +199,16 @@ If, however, one witness comes and testifies that a woman committed adultery, sh
 [^17]: Seeing familiar faces will encourage her to persist in her position, rather than admit her guilt.
 [^18]: Although the process that follows is a ritual, it is necessary that the woman understand the oath and her response to it, for the oath to be binding upon her. Therefore, there is no necessity for it to be administered in Biblical Hebrew; any language that the woman understands is sufficient.
 [^19]: As the above passage concludes. Repeating Amen after an oath is equivalent to taking that oath oneself (*Hilchot Sh'vuot* 2:1).
-[^20]: Since the passage mentions both orders, the priest mentions that the order of retribution will be from the belly to the thigh, lest people say that the waters did not bring about the curse in the manner in which the Torah said they would ([[Sotah 9#9b|*Sotah* 9b]]).
+[^20]: Since the passage mentions both orders, the priest mentions that the order of retribution will be from the belly to the thigh, lest people say that the waters did not bring about the curse in the manner in which the Torah said they would (*Sotah* [[Sotah 9#9b|9b]]).
 [^21]: See *Hilchot Tefillin* 1:10. See Chapter 4, Halachah 8, which mentions several factors in which an equivalence is made between the scroll used for a *sotah* and a Torah scroll. As stated in that halachah, the equivalence is based on [[Torah 35 - Nasso#^5-23|Numbers 5:23]], which refers to the scroll used for a *sotah* as a *sefer*, the same term used for a Torah scroll.  
     The Jerusalem Talmud (*Sotah* 2:4) states that the parchment must be made from the hide of a kosher animal, lest the woman refuse to drink and the passage be required to be entombed. It would not be fitting for God's name to remain on parchment from a non-kosher animal.
-[^22]: Originally, the passage would be copied from a Torah scroll. In the Second Temple era, Queen Heleni had fashioned a golden tablet with the words of this passage written on it ([[Yoma 37#37a|*Yoma* 37a]]).
+[^22]: Originally, the passage would be copied from a Torah scroll. In the Second Temple era, Queen Heleni had fashioned a golden tablet with the words of this passage written on it (*Yoma* [[Yoma 37#37a|37a]]).
 [^23]: In his Commentary on the Mishnah, *Gittin* 2:3, the Rambam defines this term with an Arabic word explained by Rav Kapach as referring to a green powder that when mixed with gallnut juice produces a black substance. Ink made with this substance cannot be rubbed out. See Chapter 4, Halachah 9.
 [^24]: See *Hilchot Gerushin*, Chapter 3.
 [^25]: The *Zohar*, Volume III, page 124b, interprets this as meaning that chronologically the first letter of God's name must be written first; the second, second; etc. Perhaps this is the Rambam's intent as well.  
     Alternatively, it is possible to explain that God's name is written with the letters י-ה-ו-ה, and not in another form.
-[^26]: [[Sotah 9#9a|*Sotah* 9a]] states: She prepared wine for the adulterer in attractive goblets. As a consequence, the priest shall make her drink bitter water from a clay cup.
-[^27]: [[Sotah 15#15b|*Sotah* 15b]] establishes an equivalence between the vessel that contains the water used for a *sotah* and the vessel that contains the water used to purify a person afflicted with *tzara'at*, a Biblical ailment somewhat like leprosy. And that vessel cannot have been used for any task previously (*Hilchot Tum'at Tzara'at* 11:1).
+[^26]: *Sotah* [[Sotah 9#9a|9a]] states: She prepared wine for the adulterer in attractive goblets. As a consequence, the priest shall make her drink bitter water from a clay cup.
+[^27]: *Sotah* [[Sotah 15#15b|15b]] establishes an equivalence between the vessel that contains the water used for a *sotah* and the vessel that contains the water used to purify a person afflicted with *tzara'at*, a Biblical ailment somewhat like leprosy. And that vessel cannot have been used for any task previously (*Hilchot Tum'at Tzara'at* 11:1).
 [^28]: 172.8 cubic centimeters according to *Shiurei Torah*, 298.5 cubic centimeters according to *Chazon Ish*.
 [^29]: [[Torah 35 - Nasso#^5-17|Numbers 5:17]] states that "holy water must be taken." The *Sifre* interprets this as referring to "water that has been consecrated in a utensil, the water of the basin."
 [^30]: The ring enables the tile to be lifted easily.
@@ -218,23 +218,23 @@ If, however, one witness comes and testifies that a woman committed adultery, sh
 [^34]: I.e., a rope made of palm bast.
 [^35]: As implied by [[Torah 29 - Achrei Mot#^18-3|Leviticus 18:3]], the Egyptians were known for their immodest behavior. Thus, the imagery evoked by the rope also served to chastise the woman for her conduct (Jerusalem Talmud, *Sotah* 1:6).
 [^36]: An *isaron* is considered the size of 43.2 eggs. According to modern measure, the size of an egg is considered to be 57.6 cubic centimeters according to *Shiurei Torah* and 99.5 cubic centimeters according to the *Chazon Ish*.
-[^37]: [[Sotah 15#15b|*Sotah* 15b]] notes that, in contrast to wheat, which is used as food for humans, barley is employed primarily as animal fodder. Since the woman acted like an animal, betraying her fidelity to her husband, the sacrifice she brings consists of grains used for beasts.
+[^37]: *Sotah* [[Sotah 15#15b|15b]] notes that, in contrast to wheat, which is used as food for humans, barley is employed primarily as animal fodder. Since the woman acted like an animal, betraying her fidelity to her husband, the sacrifice she brings consists of grains used for beasts.
 [^38]: I.e., a wicker basket made of palm leaves. The allusion to Egypt is intended to convey the same symbolism as above.
 [^39]: See *Hilchot Shekalim* 2:4, which explains that this term refers to money collected from the half-*shekalim* donated by the entire Jewish people, which remains after the purchase of communal sacrifices. As stated in *Hilchot Shekalim* 4:8, these funds were used for various communal purposes.
-[^40]: This is intended to motivate her to admit her guilt. Until the meal offering is sacrificed, she may admit her guilt and thus free herself of the obligation to drink the bitter water and suffer the severe penalty involved ([[Sotah 14#14a|*Sotah* 14a]]).
+[^40]: This is intended to motivate her to admit her guilt. Until the meal offering is sacrificed, she may admit her guilt and thus free herself of the obligation to drink the bitter water and suffer the severe penalty involved (*Sotah* [[Sotah 14#14a|14a]]).
 [^41]: As befits a sacrificial offering.
 [^42]: Note the commentary of Rashi on [[Torah 35 - Nasso#^5-15|Numbers 5:15]], which explains the rationale for these prohibitions. Adding frankincense and oil adorns the sacrifices, making them more attractive. More specifically, there are allegorical connotations to the above. Oil is a metaphor for light, and this woman acted in darkness. Frankincense is used as an allusion to the Matriarchs, who were the epitome of modesty, and this woman departed from their ways.
 [^43]: I.e., each one is considered as a separate negative commandment. See *Sefer HaMitzvot* (negative commandment 104-105) and *Sefer HaChinuch* (mitzvot 366-367).
 [^44]: To frighten her and to encourage her to confess (*Bemidbar Rabbah* 9:33).
 [^45]: The meal offering had to be waved by both the woman bringing it and the priest. The Jerusalem Talmud (*Sotah* 3:1) states that "the evil inclination does not operate at that time," and hence there is no danger that the physical contact will stir the priest to sexual desire.
 [^46]: See *Hilchot Ma'aseh HaKorbanot* 9:6-7.
-[^47]: [[Sukkah 37#37b|*Sukkah* 37b]] interprets this as acknowledgement of God's dominion over the entire universe. [[Menachot 62#62a|*Menachot* 62a]] explains that this is a measure to check undesirable winds.
+[^47]: *Sukkah* [[Sukkah 37#37b|37b]] interprets this as acknowledgement of God's dominion over the entire universe. *Menachot* [[Menachot 62#62a|62a]] explains that this is a measure to check undesirable winds.
 [^48]: See *Hilchot Ma'aseh HaKorbanot* 13:12, which describes the offering of meal offerings brought by private individuals.
 [^49]: See *Hilchot Ma'aseh HaKorbanot* 12:9, which describes the consumption of the meal offerings.
-[^50]: [[Sotah 20#20b|*Sotah* 20b]] states that the terror of death might provoke menstruation.
+[^50]: *Sotah* [[Sotah 20#20b|20b]] states that the terror of death might provoke menstruation.
 [^51]: The Rambam's wording, based on that of the Mishnah (*Sotah* 3:3), requires some clarification. The intent appears to be, not that the Women's Courtyard becomes impure, but that the woman becomes impure, and in that state she is forbidden to be in the Women's Courtyard. See *Hilchot Bi'at HaMikdash* 3:3.
-[^52]: [[Sotah 47#47a|*Sotah* 47a]] states that this took place in the time of Rabban Yochanan ben Zakkai, shortly before the destruction of the Second Temple.
-[^53]: [[Sotah 21#21a|*Sotah* 21a]] says that this refers to the woman's efforts in assisting her husband and her sons in their studies.
+[^52]: *Sotah* [[Sotah 47#47a|47a]] states that this took place in the time of Rabban Yochanan ben Zakkai, shortly before the destruction of the Second Temple.
+[^53]: *Sotah* [[Sotah 21#21a|21a]] says that this refers to the woman's efforts in assisting her husband and her sons in their studies.
 [^54]: See *Hilchot Talmud Torah* 1:1,13.
 [^55]: Our translation is based on the Rambam's Commentary on the Mishnah (*Sotah* 3:3). Others render the term as "she deteriorates."
 [^56]: Who is forbidden to engage in relations with a woman who took part in forbidden sexual relations.

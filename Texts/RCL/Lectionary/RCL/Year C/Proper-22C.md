@@ -11,6 +11,7 @@ second_reading: "2 Timothy 1:1-14"
 gospel: "Luke 17:5-10"
 first_reading_complementary: "Habakkuk 1:1-4; 2:1-4"
 psalm_complementary: "Psalm 37:1-9"
+psalm_bcp_complementary: "Psalm 37:1-10"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-22]]"
 cssclasses:

@@ -22,7 +22,7 @@ multitude, who, however, \[already\] possessed the fear of God. And there were, 
 
 2\. But they were bound to teach the Gentiles also this very thing, that works of such a nature were wicked, prejudicial, and useless, and destructive to those who engaged in them. Wherefore he who had received the apostolate to the Gentiles,<sup>4138</sup> did labour more than those who preached the Son of God among them of the circumcision. For they were assisted by the Scriptures, which the Lord confirmed and fulfilled, in coming such as He had been announced; but here, \[in the case of the Gentiles,\] there was a certain foreign erudition, and a new doctrine \[to be received, namely\], that the gods of the nations not only were no gods at all, but even the idols of demons; and that there is one God, who is “above all principality, and dominion, and power, and every name which is named;”<sup>4139</sup> and that His Word, invisible by nature, was made palpable and visible among men,
 
-Acts ii. 41, Acts iv. 4. 4136 1 Cor. xv. 10. 4137 \[A clear note of recognition on the part of our author, that St. Paul’s mission was world-wide, while St. Peter’s was 4138 limited.\] Eph. i. 21.
+[[Acts 02#^2-41|Acts ii. 41]], [[Acts 04#^4-4|Acts iv. 4]]. 4136 [[1 Corinthians 15#^15-10|1 Cor. xv. 10]]. 4137 \[A clear note of recognition on the part of our author, that St. Paul’s mission was world-wide, while St. Peter’s was 4138 limited.\] [[Ephesians 01#^1-21|Eph. i. 21]].
 
 *[p. 829]* ^pg869
 
@@ -34,7 +34,7 @@ and did descend “to death, even the death of the cross;”<sup>4140</sup> also
 
 2\. This fact is indeed set forth by many other \[occurrences\], but typically by \[the history of\] Thamar, Judah’s daughter-in-law.<sup>4144</sup> For when she had conceived twins, one of them put forth his hand first; and as the midwife supposed that he was the first-born, she bound a scarlet token on his hand. But after this had been done, and he had drawn back his hand, his brother Phares came forth the first; then, after him, Zara, upon whom was the scarlet line, \[was born\] the second: the Scripture
 
-496 Phil. ii. 8. 4140 Matt. iii. 9. 4141 Eph. ii. 20. 4142 \[Note, the Gentile Church was the old religion and was Catholic; in Christ it became Catholic again: the Mosaic system 4143 was a parenthetical thing of fifteen hundred years only. Such is the *luminous* and clarifying scheme of Irenæus, expounding St. Paul (Gal. iii. 14–20). Inferences: (1) They who speak as if the Mosaic system covered the whole *Old Testament* darken the divine counsels. (2) The God of Scripture was never the God of the Jews only.\] Gen. xxxviii. 28, etc.
+496 [[Philippians 02#^2-8|Phil. ii. 8]]. 4140 [[Matthew 03#^3-9|Matt. iii. 9]]. 4141 [[Ephesians 02#^2-20|Eph. ii. 20]]. 4142 \[Note, the Gentile Church was the old religion and was Catholic; in Christ it became Catholic again: the Mosaic system 4143 was a parenthetical thing of fifteen hundred years only. Such is the *luminous* and clarifying scheme of Irenæus, expounding St. Paul ([[Galatians 03#^3-14|Gal. iii. 14–20]]). Inferences: (1) They who speak as if the Mosaic system covered the whole *Old Testament* darken the divine counsels. (2) The God of Scripture was never the God of the Jews only.\] Gen. xxxviii. 28, etc.
 
 *[p. 830]* ^pg870
 
@@ -46,7 +46,7 @@ clearly pointing out that people which possessed the scarlet sign, that is, fait
 
 1\. If any one, therefore, reads the Scriptures with attention, he will find in them an account of Christ, and a foreshadowing of the new calling (*vocationis*). For Christ is the treasure which was hid in the field,<sup>4149</sup> that is, in this world (for “the field is the world”<sup>4150</sup>); but the treasure hid in the Scriptures is Christ, since He was pointed out by means of types and parables. Hence His human
 
-John iv. 37. 4145 1 Cor. iii. 7. 4146 Jer. ix. 2. \[A “*remote* dwelling-place” rather (σταθμὸν ἔσχατον according to LXX.) to square with the argument.\] 4147 \[The touching words which conclude the former paragraph are illustrated by the noble sentence which begins this paragraph. 4148 The childlike spirit of these Fathers recognises Christ everywhere, in the *Old Testament*, prefigured by countless images and tokens in *paternal* and legal (ceremonial) forms.\] Matt. xiii. 44. 4149
+[[John 04#^4-37|John iv. 37]]. 4145 [[1 Corinthians 03#^3-7|1 Cor. iii. 7]]. 4146 Jer. ix. 2. \[A “*remote* dwelling-place” rather (σταθμὸν ἔσχατον according to LXX.) to square with the argument.\] 4147 \[The touching words which conclude the former paragraph are illustrated by the noble sentence which begins this paragraph. 4148 The childlike spirit of these Fathers recognises Christ everywhere, in the *Old Testament*, prefigured by countless images and tokens in *paternal* and legal (ceremonial) forms.\] [[Matthew 13#^13-44|Matt. xiii. 44]]. 4149
 
 *[p. 831]* ^pg871
 
@@ -80,11 +80,11 @@ The text and punctuation are here in great uncertainty, and very different views
 
 4156
 
-Luke xxiv. 26, 47. \[The walk to Emmaus is the fountain-head of Scriptural exposition, and the forty days (Acts i. 3) is 4157
+[[Luke 24#^24-26|Luke xxiv. 26]], [[Luke 24#^24-47|47]]. \[The walk to Emmaus is the fountain-head of Scriptural exposition, and the forty days ([[Acts 01#^1-3|Acts i. 3]]) is 4157
 
 the river that came forth like that which went out of Eden. Sirach iv. 31.\]
 
-Matt. xiii. 52. \[I must express my delight in the great principle of exposition here unfolded. The Old Scriptures are a 4158
+[[Matthew 13#^13-52|Matt. xiii. 52]]. \[I must express my delight in the great principle of exposition here unfolded. The Old Scriptures are a 4158
 
 night-bound wilderness, till Christ rises and illuminates them, glorying alike hill and dale, and, as this author supposes, every shrub and flower, also, making the smallest leaf with its dewdrops glitter like the rainbow.\]
 
@@ -96,7 +96,7 @@ But \[it is also incumbent\] to hold in suspicion others who depart from the pri
 
 4\. From all such persons, therefore, it behoves us to keep aloof, but to adhere to those who, as I have already observed, do hold the doctrine of the apostles, and who, together with the order of priesthood (*presbyterii ordine*), display sound speech and blameless conduct for the confirmation and correction of others.<sup>4165</sup> In this way, Moses, to whom such a leadership was entrusted, relying on a good conscience, cleared himself before God, saying, “I have not in covetousness taken
 
-Lev. x. 1, 2. 4159 Num. xvi. 33. 4160 1 Kings xiv. 10. 4161 Susanna 56. 4162 *Ibid.* ver. 52, etc.; Ex. xxiii. 7. 4163 Matt. xxiv. 48, etc.; Luke xii. 45. 4164 \[Contrast this spirit of a primitive Father, with the state of things which Wiclif rose up to purify, five hundred years ago.\]
+Lev. x. 1, 2. 4159 Num. xvi. 33. 4160 1 Kings xiv. 10. 4161 Susanna 56. 4162 *Ibid.* ver. 52, etc.; Ex. xxiii. 7. 4163 [[Matthew 24#^24-48|Matt. xxiv. 48]], etc.; [[Luke 12#^12-45|Luke xii. 45]]. 4164 \[Contrast this spirit of a primitive Father, with the state of things which Wiclif rose up to purify, five hundred years ago.\]
 
 *[p. 833]* ^pg873
 
@@ -114,11 +114,11 @@ Num. xvi. 15.
 
 4167
 
-2 Cor. ii. 17.
+[[2 Corinthians 02#^2-17|2 Cor. ii. 17]].
 
 4168
 
-2 Cor. vii. 2.
+[[2 Corinthians 07#^7-2|2 Cor. vii. 2]].
 
 4169
 
@@ -126,11 +126,11 @@ Isa. lx. 17.
 
 4170
 
-Matt. xxiv. 45, 46.
+[[Matthew 24#^24-45|Matt. xxiv. 45]], [[Matthew 24#^24-46|46]].
 
 4171
 
-1 Cor. xii. 28.
+[[1 Corinthians 12#^12-28|1 Cor. xii. 28]].
 
 4172
 
@@ -146,7 +146,7 @@ No catholicity apart from these.\]
 
 1\. As I have heard from a certain presbyter,<sup>4174</sup> who had heard it from those who had seen the apostles, and from those who had been their disciples, the punishment \[declared\] in Scripture was sufficient for the ancients in regard to what they did without the Spirit’s guidance. For as God is no respecter of persons, He inflicted a proper punishment on deeds displeasing to Him. As in the case of David,<sup>4175</sup> when he suffered persecution from Saul for righteousness’ sake, and fled from King Saul, and would not avenge himself of his enemy, he both sung the advent of Christ, and instructed the nations in wisdom, and did everything after the Spirit’s guidance, and pleased God. But when his lust prompted him to take Bathsheba, the wife of Uriah, the Scripture said concerning him, “Now, the thing (*sermo*) which David had done appeared wicked in the eyes of the Lord;”<sup>4176</sup> and Nathan the prophet is sent to him, pointing out to him his crime, in order that he, passing sentence upon and condemning himself, might obtain mercy and forgiveness from Christ: “And \[Nathan\] said to him, There were two men in one city; the one rich, and the other poor. The rich man had exceeding many flocks and herds; but the poor man had nothing, save one little ewe-lamb, which he possessed, and nourished up; and it had been with him and with his children together: it did eat of his own bread, and drank of his cup, and was to him as a daughter. And there came a guest unto the rich man; and he spared to take of the flock of his own ewe-lambs, and from the herds of his own oxen, to entertain the guest; but he took the ewe-lamb of the poor man, and set it before the man that had come unto him. And David’s anger was greatly kindled against the man; and he said to Nathan, As the Lord liveth, the man that hath done this thing shall surely die (*filius mortis est*): and he shall restore the lamb fourfold, because he hath done this thing, and because he had no pity for the poor man. And Nathan said unto him, Thou art the man who hast done this.”<sup>4177</sup> And then he proceeds with the rest \[of the narrative\], upbraiding him, and recounting God’s benefits towards him, and \[showing him\] how much his conduct had displeased the Lord. For \[he declared\] that works of this nature were not pleasing to God, but that great wrath was suspended over his house. David, however, was struck with remorse on hearing this, and exclaimed, “I have sinned against the Lord;” and he sung a penitential psalm, waiting for the coming of the Lord, who washes
 
-Polycarp, Papias, Pothinus, and others, have been suggested as probably here referred to, but the point is involved in utter 4174 uncertainty. \[Surely this testimony is a precious intimation of the apostle’s meaning (Rom. ii. 12–16), and the whole chapter is radiant with the purity of the Gospel.\] 1 Sam. xviii. 4175 2 Sam. xi. 27. 4176 2 Sam. xii. 1, etc.
+Polycarp, Papias, Pothinus, and others, have been suggested as probably here referred to, but the point is involved in utter 4174 uncertainty. \[Surely this testimony is a precious intimation of the apostle’s meaning ([[Romans 02#^2-12|Rom. ii. 12–16]]), and the whole chapter is radiant with the purity of the Gospel.\] 1 Sam. xviii. 4175 2 Sam. xi. 27. 4176 2 Sam. xii. 1, etc.
 
 *[p. 835]* ^pg875
 
@@ -172,7 +172,7 @@ about to come upon the nations, and prefigured the kingdom of Christ, and spake 
 
 4181
 
-\[1 Pet. iii. 19, 20.\]
+\[[[1 Peter 03#^3-19|1 Pet. iii. 19]], [[1 Peter 03#^3-20|20]].\]
 
 *[p. 836]* ^pg876
 
@@ -180,7 +180,7 @@ come short of the glory of God,”<sup>4183</sup> and are not justified of thems
 
 3\. Thou wilt notice, too, that the transgressions of the common people have been described in like manner, not for the sake of those who did then transgress, but as a means of instruction unto us, and that we should understand that it is one and the same God against whom these men sinned, and against whom certain persons do now transgress from among those who profess to have believed in Him. But this also, \[as the presbyter states,\] has Paul declared most plainly in the Epistle to the Corinthians, when he says, “Brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and were all baptized unto Moses in the sea, and did all eat the same spiritual meat, and did all drink the same spiritual drink: for they drank of that spiritual rock that followed them; and the rock was Christ. But with many of them God was not well pleased, for they were overthrown in the wilderness. These things were for our example (*in figuram nostri*), to the intent that we should not lust after evil things, as they also lusted; neither be ye idolaters, as were
 
-500 Rom. iii. 23. \[Another testimony to the mercy of God in the judgment of the unevangelized. There must have been some 4183 reason for the secrecy with which “that presbyter’s” name is guarded. Irenæus may have scrupled to draw the wrath of the Gnostics upon any name but his own.\] Rom. iii. 23. \[Another testimony to the mercy of God in the judgment of the unevangelized. There must have been some 4184 reason for the secrecy with which “that presbyter’s” name is guarded. Irenæus may have scrupled to draw the wrath of the Gnostics upon any name but his own.\]
+500 [[Romans 03#^3-23|Rom. iii. 23]]. \[Another testimony to the mercy of God in the judgment of the unevangelized. There must have been some 4183 reason for the secrecy with which “that presbyter’s” name is guarded. Irenæus may have scrupled to draw the wrath of the Gnostics upon any name but his own.\] [[Romans 03#^3-23|Rom. iii. 23]]. \[Another testimony to the mercy of God in the judgment of the unevangelized. There must have been some 4184 reason for the secrecy with which “that presbyter’s” name is guarded. Irenæus may have scrupled to draw the wrath of the Gnostics upon any name but his own.\]
 
 *[p. 837]* ^pg877
 
@@ -188,7 +188,7 @@ some of them, as it is written:<sup>4186</sup> The people sat down to eat and dr
 
 the same God, who did both enter into judgment with these former things, and who does inquire into those of the present time, and points out why these things have been committed to writing; all these men are found to be unlearned and presumptuous, nay, even destitute of common sense, who, because of the transgressions of them of old time, and because of the disobedience of a vast number of them, do allege that there was indeed one God of these men, and that He was the maker of the world, and existed in a state of degeneracy; but that there was another Father declared by Christ, and that this Being is He who has been conceived by the mind of each of them; not understanding that as, in the former case, God showed Himself not well pleased in many instances towards those who sinned, so also in the latter, “many are called, but few are chosen.”<sup>4188</sup> As then the unrighteous, the idolaters, and fornicators perished, so also is it now: for both the Lord declares, that such persons are sent into eternal fire;<sup>4189</sup> and the apostle says, “Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, not effeminate, nor abusers of themselves with mankind, nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.”<sup>4190</sup> And as it was not to those who are without that he said these things, but to us, lest we should be cast forth from the kingdom of God, by doing any such thing, he proceeds to say, “And such indeed were ye; but ye are washed, but ye are sanctified in the name of the Lord Jesus Christ, and by the Spirit of our God.” And just as then, those who led vicious lives, and put other people astray, were condemned and cast out, so also even now the offending eye is plucked out, and the foot and the hand, lest the rest of the body perish in like manner.<sup>4191</sup> And we have the precept: “If any man that is called a brother be a fornicator, or covetous, or an idolater, or a railer, or a drunkard, or an extortioner, with such an one go not to eat.”<sup>4192</sup> And again does the apostle say, “Let no man deceive you with vain words; for because of these things cometh the wrath of God upon the sons of mistrust. Be not ye therefore partakers with
 
-Ex. xxxii. 6. 4186 1 Cor. x. 1, etc. 4187 Matt. xx. 16. 4188 Matt. xxv. 41. 4189 1 Cor. vi. 9, 10. 4190 Matt. xviii. 8, 9. 4191 1 Cor. v. 11.
+Ex. xxxii. 6. 4186 [[1 Corinthians 10#^10-1|1 Cor. x. 1]], etc. 4187 [[Matthew 20#^20-16|Matt. xx. 16]]. 4188 [[Matthew 25#^25-41|Matt. xxv. 41]]. 4189 [[1 Corinthians 06#^6-9|1 Cor. vi. 9]], [[1 Corinthians 06#^6-10|10]]. 4190 [[Matthew 18#^18-8|Matt. xviii. 8]], [[Matthew 18#^18-9|9]]. 4191 [[1 Corinthians 05#^5-11|1 Cor. v. 11]].
 
 *[p. 838]* ^pg878
 
@@ -198,23 +198,23 @@ them.”<sup>4193</sup> And as then the condemnation of sinners extended to othe
 
 1\. Inasmuch, then, as in both Testaments there is the same righteousness of God \[displayed\] when God takes vengeance, in the one case indeed typically, temporarily, and more moderately; but in the other, really, enduringly, and more rigidly: for the fire is eternal, and the wrath of God which shall be revealed from heaven from the face of our Lord (as David also says, “But the face of the Lord is against them that do evil, to cut off the remembrance of them from the earth”<sup>4198</sup>), entails a heavier punishment on those who incur it,—the elders pointed out that those men are devoid of sense, who, \[arguing\] from what happened to those who formerly did not obey God, do endeavour to bring in another Father, setting over against \[these punishments\] what great things the Lord had done at His coming to save those who received Him, taking compassion upon them; while they keep silence with regard to His judgment; and all those things which shall come upon
 
-Eph. v. 6, 7.
+[[Ephesians 05#^5-6|Eph. v. 6]], [[Ephesians 05#^5-7|7]].
 
 4193
 
-1 Cor. v. 6.
+[[1 Corinthians 05#^5-6|1 Cor. v. 6]].
 
 4194
 
-Rom. i. 18.
+[[Romans 01#^1-18|Rom. i. 18]].
 
 4195
 
-Luke xviii. 7, 8.
+[[Luke 18#^18-7|Luke xviii. 7]], [[Luke 18#^18-8|8]].
 
 4196
 
-2 Thess. i. 6–10.
+[[2 Thessalonians 01#^1-6|2 Thess. i. 6–10]].
 
 4197
 
@@ -226,19 +226,19 @@ such as have heard His words, but done them not, and that it were better for the
 
 3\. For the self-same heretics already mentioned by us have fallen away from themselves, by accusing the Lord, in whom they say that they believe. For those points to which they call attention with regard to the God who then awarded temporal punishments to the unbelieving, and smote the Egyptians, while He saved those that were obedient; these same \[facts, I say,\] shall nevertheless repeat themselves in the Lord, who judges for eternity those whom He doth judge, and lets go free for eternity those whom He does let go free: and He shall \[thus\] be discovered, according to the language used by these men, as having been the cause of their most heinous sin to those who laid hands upon Him, and pierced Him. For if He had not so come, it follows that these men could not have become the slayers of their Lord; and if He had not sent prophets to them, they certainly could not have killed them, nor the apostles either. To those, therefore, who assail us, and say, If the Egyptians had not been afflicted with plagues, and, when pursuing after Israel, been choked in the sea, God could not have saved His people, this answer may be given;—Unless, then, the Jews had become the slayers of the Lord (which did, indeed, take eternal life away from them), and, by killing the apostles and persecuting the Church, had fallen into an abyss of wrath, we could not have been
 
-Matt. xxvi. 24.
+[[Matthew 26#^26-24|Matt. xxvi. 24]].
 
 4199
 
-Matt. x. 15.
+[[Matthew 10#^10-15|Matt. x. 15]].
 
 4200
 
-\[Eph. v. 4. Even from the εὐτραπελία which might signify a *bon-mot,* literally, and which certainly is not “scurrility,” 4201
+\[[[Ephesians 05#^5-4|Eph. v. 4]]. Even from the εὐτραπελία which might signify a *bon-mot,* literally, and which certainly is not “scurrility,” 4201
 
 unless the apostle was ironical, reflecting on jokes with heathen considered “good.”\]
 
-Matt. xxv. 41.
+[[Matthew 25#^25-41|Matt. xxv. 41]].
 
 4202
 
@@ -252,7 +252,7 @@ do not believe, nor submit themselves to God. And again, who are they that have 
 
 1\. “But,” say they, “God hardened the heart of Pharaoh and of his servants.”<sup>4208</sup> Those, then, who allege such difficulties, do not read in the Gospel that passage where the Lord replied to the disciples, when they asked Him, “Why speakest Thou unto them in parables?”—“Because it is given unto you to know the mystery of the kingdom of heaven; but to them I speak in parables, that seeing they may not see, and hearing they may not hear, understanding they may not understand; in order that the prophecy of Isaiah regarding them may be fulfilled, saying, Make the heart of this people gross and make their ears dull, and blind their eyes. But blessed are your eyes, which see the things that ye see; and your ears, which hear what ye do hear.”<sup>4209</sup> For one and the same God \[that blesses others\] inflicts blindness upon those who do not believe, but who set Him at naught; just as the sun, which is a creature of His, \[acts with regard\] to those who, by reason of any weakness of the eyes cannot behold his light; but to those who believe in Him and follow Him, He grants a fuller and greater illumination of mind. In accordance with this word, therefore, does the apostle
 
-2 Cor. ii. 15, 16.
+[[2 Corinthians 02#^2-15|2 Cor. ii. 15]], [[2 Corinthians 02#^2-16|16]].
 
 4204
 
@@ -264,7 +264,7 @@ Num. xiv. 30.
 
 4206
 
-1 Cor. xiv. 20.
+[[1 Corinthians 14#^14-20|1 Cor. xiv. 20]].
 
 4207
 
@@ -272,7 +272,7 @@ Ex. ix. 35.
 
 4208
 
-Matt. xiii. 11–16; Isa. vi. 10.
+[[Matthew 13#^13-11|Matt. xiii. 11–16]]; Isa. vi. 10.
 
 *[p. 841]* ^pg881
 
@@ -284,7 +284,7 @@ say, in the Second \[Epistle\] to the Corinthians: “In whom the this world hat
 
 1\. Those, again, who cavil and find fault because the people did, by God’s command, upon the eve of their departure, take vessels of all kinds and raiment from the Egyptians,<sup>4214</sup> and so went away, from which \[spoils\], too, the tabernacle was constructed in the wilderness, prove themselves ignorant of the righteous dealings of God, and of His dispensations; as also the presbyter remarked: For if God had not accorded this in the typical exodus, no one could now be saved in our true exodus; that is, in the faith in which we have been established, and by which we have been brought
 
-2\. Cor. iv. 4. 4210 Rom. i. 28. 4211 2 Thess. ii. 11. 4212 Ex. iii. 19. 4213 Ex. iii. 22, Ex. xi. 2. \[Our English translation “borrow” is a gratuitous injury to the text. As “King of kings” the Lord 4214 enjoins a just tax, which any earthly sovereign might have imposed uprightly. Our author argues well.\]
+2\. Cor. iv. 4. 4210 [[Romans 01#^1-28|Rom. i. 28]]. 4211 [[2 Thessalonians 02#^2-11|2 Thess. ii. 11]]. 4212 Ex. iii. 19. 4213 Ex. iii. 22, Ex. xi. 2. \[Our English translation “borrow” is a gratuitous injury to the text. As “King of kings” the Lord 4214 enjoins a just tax, which any earthly sovereign might have imposed uprightly. Our author argues well.\]
 
 
 *[p. 842]* ^pg882
@@ -307,7 +307,7 @@ allege that \[the Israelites\] acted dishonestly, because, forsooth, they took a
 
 3\. If, however, a comparison be instituted between us and them, \[I would ask\] which party shall seem to have received \[their worldly goods\] in the fairer manner? Will it be the \[Jewish\] people, \[who took\] from the Egyptians, who were at all points their debtors; or we, \[who receive property\] from the Romans and other nations, who are under no similar obligation to us? Yea, moreover, through their instrumentality the world is at peace, and we walk on the highways without fear, and sail where we will.<sup>4217</sup> Therefore, against men of this kind (namely, the heretics) the word of the Lord applies, which says: “Thou hypocrite, first cast the beam out of thine eye, and then shalt thou see clearly to pull out the mote out of thy brother’s eye.”<sup>4218</sup> For if he who lays these things to thy charge, and glories in his own wisdom, has been separated from the company of the Gentiles, and possesses nothing \[derived from\] other people’s goods, but is literally naked, and barefoot, and dwells homeless among the mountains, as any of those animals do which feed on grass, he will stand excused \[in using such language\], as being ignorant of the necessities of our mode of life. But if he do partake of what, in the opinion of men, is the property of others, and if \[at the same time\] he runs down their type,<sup>4219</sup> he proves himself most unjust, turning this kind of accusation against himself. For he will be found carrying about property not belonging to him, and coveting goods which are not his. And therefore has the Lord said: “Judge not, that ye be not judged: for with what judgment ye shall judge, ye shall be judged.”<sup>4220</sup> \[The meaning is\] not certainly that we should not find fault with sinners, nor that we should consent to those who act wickedly; but that we should not pronounce an unfair judgment on the dispensations of God, inasmuch as He has Himself made provision that all things shall turn out for good, in a way consistent with justice. For, because He knew that we would make a good use of our substance which we should possess by receiving it from another, He says, “He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise.”<sup>4221</sup> And, “For I was an hungered, and ye gave Me meat; I was thirsty, and ye gave Me drink; I was naked and ye clothed Me.”<sup>4222</sup> And, “When thou doest
 
-504 \[A touching tribute to the imperial law, at a moment when Christians were “dying daily” and “as sheep for the slaughter.” 4217 So powerfully worked the divine command, Luke vi. 29.\] Matt. vii. 5. 4218 This is, if he inveighs against the Israelites for spoiling the Egyptians; the former being a type of the Christian Church in 4219 relation to the Gentiles. Matt. vii. 1, 2. 4220 Luke iii. 11. 4221
+504 \[A touching tribute to the imperial law, at a moment when Christians were “dying daily” and “as sheep for the slaughter.” 4217 So powerfully worked the divine command, [[Luke 06#^6-29|Luke vi. 29]].\] [[Matthew 07#^7-5|Matt. vii. 5]]. 4218 This is, if he inveighs against the Israelites for spoiling the Egyptians; the former being a type of the Christian Church in 4219 relation to the Gentiles. [[Matthew 07#^7-1|Matt. vii. 1]], [[Matthew 07#^7-2|2]]. 4220 [[Luke 03#^3-11|Luke iii. 11]]. 4221
 
 *[p. 844]* ^pg884
 
@@ -317,7 +317,7 @@ thine alms, let not thy left hand know what thy right hand doeth.”<sup>4223</s
 
 #### Chapter XXXI.—We should not hastily impute as crimes to the men of old time those actions which the Scripture has not condemned, but should rather seek in them types of things to come: an example of this in the incest committed by Lot.
 
-Matt. vi. 3.
+[[Matthew 06#^6-3|Matt. vi. 3]].
 
 4223
 
@@ -325,7 +325,7 @@ As Harvey remarks, this is “a strange translation for ἐκλίπητε” of 
 
 read ἐκτράπητε.”
 
-Luke xvi. 9.
+[[Luke 16#^16-9|Luke xvi. 9]].
 
 4225
 
@@ -345,7 +345,7 @@ See Rev. xv., Rev. xvi.
 
 2\. Thus, after their simplicity and innocence, did these daughters \[of Lot\] so speak, imagining that all mankind had perished, even as the Sodomites had done, and that the anger of God had come down upon the whole earth. Wherefore also they are to be held excusable, since they supposed that they only, along with their father, were left for the preservation of the human race; and for this reason it was that they deceived their father. Moreover, by the words they used this fact was pointed
 
-505 \[Thus far we have a most edifying instruction. The reader will be less edified with what follows, but it is a very striking 4229 example of what is written: “to the pure all things are pure.” Tit. i. 15.\] Gen. xix. 33. 4230 Gen. xix. 35. 4231 “Id est duæ synagogæ,” referring to the Jews and Gentiles. Some regard the words as a marginal gloss which has crept 4232 into the text.
+505 \[Thus far we have a most edifying instruction. The reader will be less edified with what follows, but it is a very striking 4229 example of what is written: “to the pure all things are pure.” [[Titus 01#^1-15|Tit. i. 15]].\] Gen. xix. 33. 4230 Gen. xix. 35. 4231 “Id est duæ synagogæ,” referring to the Jews and Gentiles. Some regard the words as a marginal gloss which has crept 4232 into the text.
 
 *[p. 846]* ^pg886
 
@@ -355,9 +355,9 @@ out—that there is no other one who can confer upon the elder and younger churc
 
 Deut. xxxii. 6, LXX. \[Let us reflect that this effort to spiritualize this awful passage in the history of Lot is an innocent 4234
 
-but unsuccessful attempt to imitate St. Paul’s allegory, Gal. iv. 24.\]
+but unsuccessful attempt to imitate St. Paul’s allegory, [[Galatians 04#^4-24|Gal. iv. 24]].\]
 
-Matt. xi. 19.
+[[Matthew 11#^11-19|Matt. xi. 19]].
 
 4235
 
@@ -377,7 +377,7 @@ The Latin is “per naturalia,” which words, according to Harvey, correspond t
 
 “Dicitur et vivens, alio jam corpore, sexus Munificos solito dispungere sanguine menses.”
 
-Matt. v. 13.
+[[Matthew 05#^5-13|Matt. v. 13]].
 
 4240
 
@@ -411,15 +411,15 @@ Gen. i. 3.
 
 4244
 
-John i. 3.
+[[John 01#^1-3|John i. 3]].
 
 4245
 
-Eph. iv. 5, 6.
+[[Ephesians 04#^4-5|Eph. iv. 5]], [[Ephesians 04#^4-6|6]].
 
 4246
 
-Eph. iv. 16; Col. ii. 19.
+[[Ephesians 04#^4-16|Eph. iv. 16]]; [[Colossians 02#^2-19|Col. ii. 19]].
 
 *[p. 848]* ^pg888
 
@@ -431,7 +431,7 @@ seem consistent to him,<sup>4248</sup> if he for his part diligently read the Sc
 
 1\. A spiritual disciple of this sort truly receiving the Spirit of God, who was from the beginning, in all the dispensations of God, present with mankind, and announced things future, revealed things present, and narrated things past—\[such a man\] does indeed “judge all men, but is himself judged by no man.”<sup>4253</sup> For he judges the Gentiles, “who serve the creature more than the Creator,”<sup>4254</sup> and with a reprobate mind spend all their labour on vanity. And he also judges the Jews, who do not accept of the word of liberty, nor are willing to go forth free, although they have a Deliverer present \[with them\]; but they pretend, at a time unsuitable \[for such conduct\], to serve, \[with observances\] beyond \[those required by\] the law, God who stands in need of nothing, and do not recognise the
 
-“Constabit ei.” 4248 We here read “secundum *quos*” with Massuet, instead of usual “secundum *quod*.” 4249 “Concurvans,” corresponding to συγκάμπτων, which, says Harvey, “would be expressive of those who were brought 4250 under the law, as the neck of the steer is bent to the yoke.” The Latin is, “per proprium visum.” 4251 \[If this and the former chapter seem to us superfluous, we must reflect that such testimony, from the beginning, has 4252 established the unity of Holy Scripture, and preserved to us—the Bible.\] 1 Cor. ii. 15. \[The argument of this chapter hinges on Ps. xxv. 14, and expounds a difficult text of St. Paul. A man who 4253 has the mind of God’s Spirit is the only judge of spiritual things. Worldly men are incompetent critics of Scripture and of Christian exposition.
+“Constabit ei.” 4248 We here read “secundum *quos*” with Massuet, instead of usual “secundum *quod*.” 4249 “Concurvans,” corresponding to συγκάμπτων, which, says Harvey, “would be expressive of those who were brought 4250 under the law, as the neck of the steer is bent to the yoke.” The Latin is, “per proprium visum.” 4251 \[If this and the former chapter seem to us superfluous, we must reflect that such testimony, from the beginning, has 4252 established the unity of Holy Scripture, and preserved to us—the Bible.\] [[1 Corinthians 02#^2-15|1 Cor. ii. 15]]. \[The argument of this chapter hinges on Ps. xxv. 14, and expounds a difficult text of St. Paul. A man who 4253 has the mind of God’s Spirit is the only judge of spiritual things. Worldly men are incompetent critics of Scripture and of Christian exposition.
 
 *[p. 849]* ^pg889
 
@@ -481,7 +481,7 @@ Isa. xi. 4.
 
 4264
 
-Matt. iii. 12; Luke iii. 17.
+[[Matthew 03#^3-12|Matt. iii. 12]]; [[Luke 03#^3-17|Luke iii. 17]].
 
 4265
 
@@ -491,7 +491,7 @@ Harvey points this sentence interrogatively.
 
 “Temperamentum calicis:” on which Harvey remarks that “the mixture of water with the wine in the holy Eucharist was 4267
 
-the universal practice of antiquity … the wine signifying the mystical Head of the Church, the water the body.” \[Whatever the significance, it harmonizes with the Paschal chalice, and with 1 John v. 6, and St. John’s gospel John xix. 34, 35.\]
+the universal practice of antiquity … the wine signifying the mystical Head of the Church, the water the body.” \[Whatever the significance, it harmonizes with the Paschal chalice, and with [[1 John 05#^5-6|1 John v. 6]], and St. John’s gospel [[John 19#^19-34|John xix. 34]], [[John 19#^19-35|35]].\]
 
 *[p. 850]* ^pg890
 
@@ -503,7 +503,7 @@ in appearance, could He have been crucified, and could blood and water have issu
 
 4\. He will judge also the Ebionites; \[for\] how can they be saved unless it was God who wrought out their salvation upon earth? Or how shall man pass into God, unless God has \[first\] passed into man? And how shall he (man) escape from the generation subject to death, if not by means<sup>4271</sup> of a new generation, given in a wonderful and unexpected manner (but as a sign of salvation) by God—\[I mean\] that regeneration which flows from the virgin through faith?<sup>4272</sup> Or how shall they receive adoption from God if they remain in this \[kind of\] generation, which is naturally possessed
 
-John xix. 34.
+[[John 19#^19-34|John xix. 34]].
 
 4268
 
@@ -533,15 +533,15 @@ Master was a mere imaginary being? Or how can they receive anything stedfast fro
 
 7\. He shall also judge those who give rise to schisms, who are destitute of the love of God, and who look to their own special advantage rather than to the unity of the Church; and who for trifling reasons, or any kind of reason which occurs to them, cut in pieces and divide the great and glorious body of Christ, and so far as in them lies, \[positively\] destroy it,—men who prate of peace while they give rise to war, and do in truth strain out a gnat, but swallow a camel.<sup>4280</sup> For no reformation of so great importance can be effected by them, as will compensate for the mischief arising from
 
-Matt. xii. 41, 42.
+[[Matthew 12#^12-41|Matt. xii. 41]], [[Matthew 12#^12-42|42]].
 
 4273
 
-Matt. xxii. 43.
+[[Matthew 22#^22-43|Matt. xxii. 43]].
 
 4274
 
-Matt. xxii. 29; Luke xi. 21, 22.
+[[Matthew 22#^22-29|Matt. xxii. 29]]; [[Luke 11#^11-21|Luke xi. 21]], [[Luke 11#^11-22|22]].
 
 4275
 
@@ -591,7 +591,7 @@ We follow Harvey’s text, “tractatione;” others read “tractatio.” Accor
 
 by “tractatione;” but Massuet renders the clause thus: \[“True knowledge consists in\] a very complete *tractatio* of the Scriptures, which has come down to us by being preserved (‘custoditione’ being read instead of ‘custodita’) without falsification.”
 
-Comp. 2 Cor. viii. 1; 1 Cor. xiii.
+Comp. [[2 Corinthians 08#^8-1|2 Cor. viii. 1]]; 1 Cor. xiii.
 
 4287
 
@@ -611,11 +611,11 @@ Comp. above, xxxi. 2.
 
 4289
 
-Matt. v. 12.
+[[Matthew 05#^5-12|Matt. v. 12]].
 
 4290
 
-Comp. 1 Pet. iv. 14.
+Comp. [[1 Peter 04#^4-14|1 Pet. iv. 14]].
 
 4291
 
@@ -631,17 +631,17 @@ Zech. xii. 10.
 
 4294
 
-Luke xviii. 8. There is nothing to correspond with “putas” in the received text.
+[[Luke 18#^18-8|Luke xviii. 8]]. There is nothing to correspond with “putas” in the received text.
 
 4295
 
-2 Thess. i. 6–8.
+[[2 Thessalonians 01#^1-6|2 Thess. i. 6–8]].
 
 *[PDF 894]* ^pg894
 
 burning furnace, \[to\] the day of the Lord, who “gathers the wheat into His barn, but will burn up the chaff with unquenchable fire,”<sup>4297</sup> were accustomed to threaten those who were unbelieving, concerning whom also the Lord Himself declares, “Depart from me, ye cursed, into everlasting fire, which my Father has prepared for the devil and his angels.”<sup>4298</sup> And the apostle in like manner says \[of them\], “Who shall be punished with everlasting death from the face of the Lord, and from the glory of His power, when He shall come to be glorified in His saints, and to be admired in those who believe in Him.”<sup>4299</sup> There are also some \[of them\] who declare, “Thou art fairer than the children of men;”<sup>4300</sup> and, “God, Thy God, hath anointed Thee with the oil of gladness above Thy fellows;”<sup>4301</sup> and, “Gird Thy sword upon Thy thigh, O Most Mighty, with Thy beauty and Thy fairness, and go forward and proceed prosperously; and rule Thou because of truth, and meekness, and righteousness.”<sup>4302</sup> And whatever other things of a like nature are spoken regarding Him, these indicated that beauty and splendour which exist in His kingdom, along with the transcendent and pre-eminent exaltation \[belonging\] to all who are under His sway, that those who hear might desire to be found there, doing such things as are pleasing to God. Again, there are those who say, “He is a man, and who shall know him?”<sup>4303</sup> and, “I came unto the prophetess, and she bare a son, and His name is called Wonderful, Counsellor, the Mighty God;”<sup>4304</sup> and those \[of them\] who proclaimed Him as Immanuel, \[born\] of the Virgin, exhibited the union of the Word of God with His own workmanship, \[declaring\] that the Word should become flesh, and the Son of God the Son of man (the pure One opening purely that pure womb which regenerates men unto God, and which He Himself made pure); and having become this which we also are, He \[nevertheless\] is the Mighty God, and possesses a generation which cannot be declared. And there are also some of them who say, “The Lord hath spoken in Zion, and uttered His voice from Jerusalem;”<sup>4305</sup> and, “In Judah is God known;”<sup>4306</sup>— these indicated His advent which took place in Judea. Those, again, who declare that “God comes from the south, and from a mountain thick with foliage,”<sup>4307</sup> announced His advent
 
-Matt. iii. 12. 4297 Matt. xxv. 41. 4298 2 Thess. i. 9, 10. 4299 Ps. xlv. 2. 4300 Ps. xlv. 7. 4301 Ps. xlv. 3, 4. 4302 Jer. xvii. 9 (LXX.). Harvey here remarks: “The LXX. read ׁ אֱנֹוש instead of ׁ .אָנֹוש Thus, from a text that teaches us that 4303 *the heart is deceitful above all things*, the Fathers extract a proof of the manhood of Christ.” Isa. viii. 3, Isa. ix. 6, Isa. vii. 14. \[A confusion of texts.\] 4304 Joel iii. 16. 4305 Ps. lxxvi. 1. 4306 Hab. iii. 3.
+[[Matthew 03#^3-12|Matt. iii. 12]]. 4297 [[Matthew 25#^25-41|Matt. xxv. 41]]. 4298 [[2 Thessalonians 01#^1-9|2 Thess. i. 9]], [[2 Thessalonians 01#^1-10|10]]. 4299 Ps. xlv. 2. 4300 Ps. xlv. 7. 4301 Ps. xlv. 3, 4. 4302 Jer. xvii. 9 (LXX.). Harvey here remarks: “The LXX. read ׁ אֱנֹוש instead of ׁ .אָנֹוש Thus, from a text that teaches us that 4303 *the heart is deceitful above all things*, the Fathers extract a proof of the manhood of Christ.” Isa. viii. 3, Isa. ix. 6, Isa. vii. 14. \[A confusion of texts.\] 4304 Joel iii. 16. 4305 Ps. lxxvi. 1. 4306 Hab. iii. 3.
 
 *[PDF 895]* ^pg895
 
@@ -743,7 +743,7 @@ Ps. xcix. 1.
 
 4329
 
-Matt. xxiv. 21.
+[[Matthew 24#^24-21|Matt. xxiv. 21]].
 
 4330
 
@@ -775,15 +775,15 @@ Isa. xliii. 19–21.
 
 4336
 
-Matt. ix. 17.
+[[Matthew 09#^9-17|Matt. ix. 17]].
 
 4337
 
-Rom. ii. 5.
+[[Romans 02#^2-5|Rom. ii. 5]].
 
 4338
 
-1 Cor. ii. 15.
+[[1 Corinthians 02#^2-15|1 Cor. ii. 15]].
 
 4339
 
@@ -797,7 +797,7 @@ Rom. ii. 5.
 
 2\. But the servants would then have been proved false, and not sent by the Lord, if Christ on His advent, by being found exactly such as He was previously announced, had not fulfilled their words. Wherefore He said, “Think not that I have come to destroy the law or the prophets; I came not to destroy, but to fulfil. For verily I say unto you, Until heaven and earth pass away, one jot or one tittle shall not pass from the law and the prophets till all come to pass.”<sup>4342</sup> For by His advent He Himself fulfilled all things, and does still fulfil in the Church the new covenant foretold by the law, onwards to the consummation \[of all things\]. To this effect also Paul, His apostle, says in the Epistle to the Romans, “But now,<sup>4343</sup> without the law, has the righteousness of God been manifested, being witnessed by the law and the prophets; for the just shall live by faith.”<sup>4344</sup> But this fact, that the just shall live by faith, had been previously announced<sup>4345</sup> by the prophets.
 
-1\. Pet. i. 12. 4341 Rom. iii. 21. 4342 Matt. v. 17, 18. 4343 Rom. i. 17. 4344 Hab. ii. 4.
+1\. Pet. i. 12. 4341 [[Romans 03#^3-21|Rom. iii. 21]]. 4342 [[Matthew 05#^5-17|Matt. v. 17]], [[Matthew 05#^5-18|18]]. 4343 [[Romans 01#^1-17|Rom. i. 17]]. 4344 Hab. ii. 4.
 
 
 *[p. 4346]* ^pg899
@@ -820,7 +820,7 @@ changed them into pruning-hooks for reaping the corn, \[that is\], into instrume
 
 1\. Then again, in opposition to the Valentinians, and the other Gnostics, falsely so called, who maintain that some parts of Scripture were spoken at one time from the Pleroma (*a summitate*) through means of the seed \[derived\] from that place, but at another time from the intermediate abode through means of the audacious mother Prunica, but that many are due to the Creator of the
 
-513 Matt. v. 39. 4347 Book i. p. 327, this volume. 4348 This is following Harvey’s conjectural emendation of the text, viz., “taleis” for “talis.” He considers the *pins* here as 4349 symbolical of the *nails* by which our Lord was fastened to the cross. The whole passage is almost hopelessly obscure, though the general meaning may be guessed. Isa. lvii. 1. 4350 \[If it be remembered that we know Irenæus here, only through a most obscure Latin rendering, we shall be slow to censure 4351 this conclusion.\]
+513 [[Matthew 05#^5-39|Matt. v. 39]]. 4347 Book i. p. 327, this volume. 4348 This is following Harvey’s conjectural emendation of the text, viz., “taleis” for “talis.” He considers the *pins* here as 4349 symbolical of the *nails* by which our Lord was fastened to the cross. The whole passage is almost hopelessly obscure, though the general meaning may be guessed. Isa. lvii. 1. 4350 \[If it be remembered that we know Irenæus here, only through a most obscure Latin rendering, we shall be slow to censure 4351 this conclusion.\]
 
 *[PDF 901]* ^pg901
 
@@ -852,7 +852,7 @@ by us. For, though holding wrong opinions, they do in the meanwhile, however, co
 
 1\. Which \[God\] the Lord does not reject, nor does He say that the prophets \[spake\] from another god than His Father; nor from any other essence, but from one and the same Father; nor that any other being made the things in the world, except His own Father, when He speaks as follows in His teaching: “There was a certain householder, and he planted a vineyard, and hedged it round about, and digged in it a winepress, and built a tower, and let it out to husbandmen, and went into a far country: And when the time of the fruit drew near, he sent his servants unto the husbandmen, that they might receive the fruits of it. And the husbandmen took his servants: they cut one to pieces, stoned another, and killed another. Again he sent other servants more than the first: and they did unto them likewise. But last of all he sent unto them his only son, saying, Perchance they will reverence my son. But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and we shall possess his inheritance. And they caught him, and cast him out of the vineyard, and slew him. When, therefore, the lord of the vineyard shall come, what will he do unto these husbandmen? They say unto him, He will miserably destroy these wicked men, and will let out his vineyard to other husbandmen, who shall render him the fruits in their season.”<sup>4355</sup> Again does the Lord say: “Have ye never read, The stone which the builders rejected, the same is become the head of the corner: this is the Lord’s doing, and it is marvellous in our eyes? Therefore I say unto you, that the kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof.”<sup>4356</sup> By these words He clearly points out to His disciples one and the same Householder—that is, one God the Father, who made all things by Himself; while \[He shows\] that there are various husbandmen, some obstinate, and proud, and worthless, and slayers of the Lord, but others who render Him, with all obedience, the fruits in their seasons; and that it is the same Householder who sends at one time His servants, at another His Son. From that Father, therefore, from whom the Son was sent to those husbandmen who slew Him, from Him also were the servants \[sent\]. But the Son, as coming from the Father with supreme authority (*principali auctoritate*), used
 
-515 Matt. xxi. 33–41. 4355
+515 [[Matthew 21#^21-33|Matt. xxi. 33–41]]. 4355
 
 *[PDF 904]* ^pg904
 
@@ -860,7 +860,7 @@ to express Himself thus: “But I say unto you.”<sup>4357</sup> The servants, 
 
 2\. Whom these men did therefore preach to the unbelievers as Lord, Him did Christ teach to those who obey Him; and the God who had called those of the former dispensation, is the same as He who has received those of the latter. In other words, He who at first used that law which entails bondage, is also He who did in after times \[call His people\] by means of adoption. For God planted the vineyard of the human race when at the first He formed Adam and chose the fathers; then He let it out to husbandmen when He established the Mosaic dispensation: He hedged it round about, that is, He gave particular instructions with regard to their worship: He built a tower, \[that is\], He chose Jerusalem: He digged a winepress, that is, He prepared a receptacle of the prophetic Spirit. And thus did He send prophets prior to the transmigration to Babylon, and after that event others again in greater number than the former, to seek the fruits, saying thus to them (the Jews): “Thus saith the Lord, Cleanse your ways and your doings, execute just judgment, and look each one with pity and compassion on his brother: oppress not the widow nor the orphan, the proselyte nor the poor, and let none of you treasure up evil against his brother in your hearts, and love not false swearing. Wash you, make you clean, put away evil from your hearts, learn to do well, seek judgment, protect the oppressed, judge the fatherless (*pupillo*), plead for the widow; and come, let us reason together, saith the Lord.”<sup>4358</sup> And again: “Keep thy tongue from evil, and thy lips that they speak no guile; depart from evil, and do good; seek peace, and pursue it.”<sup>4359</sup> In preaching these things, the prophets sought the fruits of righteousness. But last of all He sent to those unbelievers His own Son, our Lord Jesus Christ, whom the wicked husbandmen cast out of the vineyard when they had slain Him. Wherefore the Lord God did even give it up (no longer hedged around, but thrown open throughout all the world) to other husbandmen, who render the fruits in their seasons,—the beautiful elect tower being also raised everywhere. For the illustrious Church is \[now\] everywhere, and everywhere is the winepress digged: because those who do receive the Spirit are everywhere. For inasmuch as the former have rejected the Son of God, and cast Him out of the vineyard when they slew Him, God has justly rejected them, and given to the Gentiles outside the vineyard the fruits of its cultivation. This is in accordance with what Jeremiah says, “The Lord hath rejected and cast off the nation which does these things; for the children of Judah have done evil in my sight, saith the Lord.”<sup>4360</sup> And again in like manner does Jeremiah speak: “I set watchmen over you; hearken to the sound of the trumpet; and they said, We will not hearken. Therefore have the Gentiles heard, and they who feed the flocks in them.”<sup>4361</sup> It is therefore one and the same Father
 
-Matt. v. 22.
+[[Matthew 05#^5-22|Matt. v. 22]].
 
 4357
 
@@ -884,7 +884,7 @@ who planted the vineyard, who led forth the people, who sent the prophets, who s
 
 3\. And therefore did the Lord say to His disciples, to make us become good workmen: “Take heed to yourselves, and watch continually upon every occasion, lest at any time your hearts be overcharged with surfeiting and drunkenness, and cares of this life, and that day shall come upon you unawares; for as a snare shall it come upon all dwelling upon the face of the earth.”<sup>4362</sup> “Let your loins, therefore, be girded about, and your lights burning, and ye like to men who wait for their lord, when he shall return from the wedding.”<sup>4363</sup> “For as it was in the days of Noe, they did eat and drink, they bought and sold, they married and were given in marriage, and they knew not, until Noe entered into the ark, and the flood came and destroyed them all; as also it was in the days of Lot, they did eat and drink, they bought and sold, they planted and builded, until the time that Lot went out of Sodom; it rained fire from heaven, and destroyed them all: so shall it also be at the coming of the Son of man.”<sup>4364</sup> “Watch ye therefore, for ye know not in what day your Lord shall come.”<sup>4365</sup> \[In these passages\] He declares one and the same Lord, who in the times of Noah brought the deluge because of man’s disobedience, and who also in the days of Lot rained fire from heaven because of the multitude of sinners among the Sodomites, and who, on account of this same disobedience and similar sins, will bring on the day of judgment at the end of time (*in novissimo*); on which day He declares that it shall be more tolerable for Sodom and Gomorrah than for that city and house which shall not receive the word of His apostles. “And thou, Capernaum,” He said, “is it that thou shalt be exalted to heaven?<sup>4366</sup> Thou shalt go down to hell. For if the mighty works which have been done in thee had been done in Sodom, it would have remained unto this day. Verily I say unto you, that it shall be more tolerable for Sodom in the day of judgment than for you.”<sup>4367</sup> 4. Since the Son of God is always one and the same, He gives to those who believe on Him a well of water<sup>4368</sup> \[springing up\] to eternal life, but He causes the unfruitful fig-tree immediately to dry up; and in the days of Noah He justly brought on the deluge for the purpose of extinguishing that most infamous race of men then existent, who could not bring forth fruit to God, since the angels that sinned had commingled with them, and \[acted as He did\] in order that He might put a
 
-516 Luke xxi. 34, 35. 4362 Luke xii. 35, 36. 4363 Luke xvii. 26, etc. 4364 Matt. xxiv. 42. 4365 No other of the Greek Fathers quotes this text as above; from which fact Grabe infers that old Latin translator, or his 4366 transcribers, altered the words of Irenæus \[N.B.—From one example infer the rest\] to suit the Latin versions. Matt. xi. 23, 24. 4367
+516 [[Luke 21#^21-34|Luke xxi. 34]], [[Luke 21#^21-35|35]]. 4362 [[Luke 12#^12-35|Luke xii. 35]], [[Luke 12#^12-36|36]]. 4363 [[Luke 17#^17-26|Luke xvii. 26]], etc. 4364 [[Matthew 24#^24-42|Matt. xxiv. 42]]. 4365 No other of the Greek Fathers quotes this text as above; from which fact Grabe infers that old Latin translator, or his 4366 transcribers, altered the words of Irenæus \[N.B.—From one example infer the rest\] to suit the Latin versions. [[Matthew 11#^11-23|Matt. xi. 23]], [[Matthew 11#^11-24|24]]. 4367
 
 *[PDF 906]* ^pg906
 
@@ -894,19 +894,19 @@ check upon the sins of these men, but \[that at the same time\] He might preserv
 
 This is Massuet’s conjectural emendation of the text, viz., *archetypum* for *arcætypum*. Grabe would insert *per* before 4369
 
-*arcæ*, and he thinks the passage to have a reference to 1 Pet. iii. 20. Irenæus, in common with the other ancient Fathers, believed that the fallen angels were the “sons of God” who commingled with “the daughters of men,” and thus produced a race of spurious men. \[Gen. vi. 1, 2, 3, and Josephus.\]
+*arcæ*, and he thinks the passage to have a reference to [[1 Peter 03#^3-20|1 Pet. iii. 20]]. Irenæus, in common with the other ancient Fathers, believed that the fallen angels were the “sons of God” who commingled with “the daughters of men,” and thus produced a race of spurious men. \[Gen. vi. 1, 2, 3, and Josephus.\]
 
 Jude 7. \[And note “strange flesh” (Gr. σαρκὸς ἑτέρας) as to the angels. Gen. xix. 4, 5.\] 4370
 
-Matt. iii. 10.
+[[Matthew 03#^3-10|Matt. iii. 10]].
 
 4371
 
-Matt. xi. 24; Luke x. 12.
+[[Matthew 11#^11-24|Matt. xi. 24]]; [[Luke 10#^10-12|Luke x. 12]].
 
 4372
 
-Matt. xxii. 1, etc.
+[[Matthew 22#^22-1|Matt. xxii. 1]], etc.
 
 *[PDF 907]* ^pg907
 
@@ -916,7 +916,7 @@ And thou shall speak this word to them: This is a people that obeyeth not the vo
 
 6\. Still further did He also make it manifest, that we ought, after our calling, to be also adorned with works of righteousness, so that the Spirit of God may rest upon us; for this is the wedding garment, of which also the apostle speaks, “Not for that we would be unclothed, but clothed upon, that mortality might be swallowed up by immortality.”<sup>4377</sup> But those who have indeed been called to God’s supper, yet have not received the Holy Spirit, because of their wicked conduct “shall be,” He declares, “cast into outer darkness.”<sup>4378</sup> He thus clearly shows that the very same King who gathered from all quarters the faithful to the marriage of His Son, and who grants them the incorruptible banquet, \[also\] orders that man to be cast into outer darkness who has not on a wedding garment, that is, one who despises it. For as in the former covenant, “with many of them was He not well pleased;”<sup>4379</sup> so also is it the case here, that “many are called, but few chosen.”<sup>4380</sup> It is not, then, one God who judges, and another Father who calls us together to salvation; nor one, forsooth, who confers eternal light, but another who orders those who have not on the wedding garment to
 
-Matt. v. 35. Instead of placing a period here, as the editors do, it seems to us preferable to carry on the construction.
+[[Matthew 05#^5-35|Matt. v. 35]]. Instead of placing a period here, as the editors do, it seems to us preferable to carry on the construction.
 
 4374
 
@@ -928,14 +928,14 @@ Jer. vii. 25, etc.
 
 4376
 
-2 Cor. v. 4.
+[[2 Corinthians 05#^5-4|2 Cor. v. 4]].
 
 4377
 
-Matt. xxii. 13.
+[[Matthew 22#^22-13|Matt. xxii. 13]].
 
 4378
 
-1 Cor. x. 5.
+[[1 Corinthians 10#^10-5|1 Cor. x. 5]].
 
 4379

@@ -28,7 +28,7 @@ tenātra ye codayanti yathā bālasya saṃskriyā || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 08 (Dyczkowski)/Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#^pg271|p. 253]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 08.pdf#page=271>))
 > Dyczkowski numbers this verse 15.411cd–412ab.
 >
-> The venerable Śambhunātha taught me this, the true (nature and procedure) of purifying the fire, and I have also explained it.’ May those whose intellects are pure reflect on it carefully. (with 15.408cd–409ab)
+> The venerable Śambhunātha taught me this, the true (nature and procedure) of purifying the fire, and I have also explained it. May those whose intellects are pure reflect on it carefully. (with 15.408cd–409ab)
 >
 > Some may object that, just as the purification of a baby takes place in the fire, so too in the same way, (the purification of the fire should take place) elsewhere. Thus, (if this is so, the process of) purification would be subject to an infinite regress. (We say that) those (who make this objection) have been definitively refuted here in this teaching, which is (our) teacher’s view (gurudarśana). (with 15.409cd–410)
 

@@ -88,7 +88,7 @@ If it gives birth to two males, one should be sacrificed as a burnt-offering[^34
 [^7]: So that it will be sacrificed for that purpose and hence, the portion of the animal consecrated as a burnt-offering will have been offered as such.
 [^8]: For that limb was consecrated.
 [^9]: There is a difficulty because the person bringing the burnt-offering will be bringing a sacrifice that does not belong to him entirely. The Jerusalem Talmud (*Temurah* 1:5) resolves this difficulty, explaining that we are speaking of an instance where the person vowed to spend a specific amount to bring a burnt-offering. Since the animal is worth that amount, he has fulfilled his vow.
-[^10]: This concept is debated without resolution by our Sages in [[Temurah 11#11b|*Temurah* 11b]]. The argument centers on the fact that the concept that one can consecrate a limb from an animal as a sacrifice was derived from the exegesis of a verse ([[Torah 33 - Bechukotai#^27-9|Leviticus 27:9]] . Now that verse is referring to an animal sacrifice and hence, our Sages question whether the concept applies to all sacrifices or only those involving animals.
+[^10]: This concept is debated without resolution by our Sages in *Temurah* [[Temurah 11#11b|11b]]. The argument centers on the fact that the concept that one can consecrate a limb from an animal as a sacrifice was derived from the exegesis of a verse ([[Torah 33 - Bechukotai#^27-9|Leviticus 27:9]] . Now that verse is referring to an animal sacrifice and hence, our Sages question whether the concept applies to all sacrifices or only those involving animals.
 [^11]: Because there is no way that one animal can be offered for two purposes.
 [^12]: For in this way, his vow will be kept to the fullest extent of his capacity.
 [^13]: Here he must be obligated, because as stated above, a sin-offering may not be brought on one's own initiative.
@@ -96,7 +96,7 @@ If it gives birth to two males, one should be sacrificed as a burnt-offering[^34
 [^15]: For half an animal cannot be sacrificed.
 [^16]: This is a concept that applies in many different contexts of the laws concerning the consecration of animals. See *Hilchot Pesulei HaMukdashim* 3:24.
 [^17]: Since only its worth was consecrated (for originally, it could not be sacrificed), there is more reason to think that it would not become acceptable afterwards.
-[^18]: [[Zevachim 59#59a|*Zevachim* 59a]]. This is also a concept that applies in many different contexts of the laws concerning the consecration of animals. See *Hilchot Pesulei HaMukdashim* 3:23; *Hilchot Shegagot* 3:8, *et al*.
+[^18]: *Zevachim* [[Zevachim 59#59a|59a]]. This is also a concept that applies in many different contexts of the laws concerning the consecration of animals. See *Hilchot Pesulei HaMukdashim* 3:23; *Hilchot Shegagot* 3:8, *et al*.
 [^19]: Violating the prohibition of *temurah*.
 [^20]: And thus from his statements, there is room to say that it could be sold and the proceeds used to purchase an offering rather than it having to be sacrificed itself.
 [^21]: It is male and unblemished.
@@ -110,7 +110,7 @@ If it gives birth to two males, one should be sacrificed as a burnt-offering[^34
     One who consecrates an animal which is a *tumtum, androgynus, tereifah*... to the altar is like one who consecrated stones or wood.... The holiness does not take effect with regard to its physical substance. It is considered as ordinary property in all contexts. It should be sold and the proceeds of the sale used to purchase any sacrifice one desires. It is not considered like a blemished animal, for a sacrifice may be brought from the species of a blemished animal.  
     Similarly, in the case at hand, since a sacrifice cannot be brought from such animals, they should be sold and the proceeds used to purchase the appropriate sacrifice.
 [^28]: For we assume that he made his promise in a manner that it would be of consequence (Radbaz).
-[^29]: The Rambam is referring to a difference of opinion among our Sages, [[Nedarim 29#29a|*Nedarim* 29a]], whether or not the consecration of the value (but not the physical substance) of an object for a limited time expires if nothing is done within that time. As will be stated, his ruling is that it does expire.
+[^29]: The Rambam is referring to a difference of opinion among our Sages, *Nedarim* [[Nedarim 29#29a|29a]], whether or not the consecration of the value (but not the physical substance) of an object for a limited time expires if nothing is done within that time. As will be stated, his ruling is that it does expire.
 [^30]: The Rambam is speaking of a situation where the cow's worth was consecrated, because all authorities agree that if the physical substance of the cow was consecrated, it would have to be redeemed for the first consecration to be nullified (*ibid.*).
 [^31]: This point is added, because it possesses an added dimension of severity beyond the first instance. For a cow may not be offered as a burnt-offering, but it may be offered as a peace-offering. Thus it is fit to be sacrificed for the sake of the offering.
 [^32]: The Ra'avad objects to the Rambam's ruling and maintains that the animal must be redeemed for the initial consecration to be nullified. The issue is debated by the subsequent commentaries.

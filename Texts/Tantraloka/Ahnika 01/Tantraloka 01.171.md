@@ -30,7 +30,7 @@ tayā ca jhaṭiti jñeyasamāpattirnirūpyate || ^iast
 > [!source] Dyczkowski, vol. I
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)/Tantraloka Dyczkowski v01 10 - Chapter One, part 9#^pg357|p. 343]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf#page=357>))
 >
-> The expression ‘one who does not think of anything (implies that in this means) thought constructs are of no use. Thus, (as they are of no use and do not arise,) the attainment of the object of realization (jñeyasamāpatti) is said to be instantaneous.
+> The expression ‘one who does not think of anything’ (implies that in this means) thought constructs are of no use. Thus, (as they are of no use and do not arise,) the attainment of the object of realization (jñeyasamāpatti) is said to be instantaneous.
 
 ## Viveka
 

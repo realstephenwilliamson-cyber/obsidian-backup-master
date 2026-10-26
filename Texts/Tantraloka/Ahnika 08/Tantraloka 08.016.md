@@ -32,7 +32,7 @@ avyavacchinnasaṃvittirbhairavaḥ parameśvaraḥ |
 >
 > (The yogi) who has made living beings (bhūta), phenomena (bhāva), the worlds (pura) and the rest one with consciousness is the Supreme Lord, that is, Bhairava, Whose consciousness is (unconditioned, unbroken and) undivided. (with 8.15cd–16ab)
 >
-> It is also said in the venerable Devyāyāmala’ that meditating on the Path of six kinds, beautiful with the thirty-six principles, one immediately (sadyas) becomes Śiva. (with 8.16cd–17ab)
+> It is also said in the venerable Devyāyāmala that meditating on the Path of six kinds, beautiful with the thirty-six principles, one immediately (sadyas) becomes Śiva. (with 8.16cd–17ab)
 
 ## Viveka
 

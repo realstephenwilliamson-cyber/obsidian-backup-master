@@ -72,16 +72,16 @@ If he said: "I pledge the weight of my arm" or "...my leg," we see how much it w
 
 **13.** If [funds] were needed [to purchase] sacrifices for the altar and the funds collected for that purpose were not sufficient, what is necessary can be taken from [the funds] consecrated for physical improvements to the Temple.[^22] If, however, [funds] were required for physical improvements to the Temple and there were not sufficient resources in the chamber dedicated for that purpose, we do not take what is necessary from [the funds] consecrated for sacrifices for the altar.[^23] ^2-13
 
-[^1]: The rationale is that the Torah prescribed an *airech* for a person in his or her totality, not for his individual limbs ([[Arakhin 4#4a|*Arachin* 4a]]; 20a).
-[^2]: Since the person's life is dependent on his heart or his liver, pledging the *airech* of these organs is like pledging his entire *airech*. See [[Arakhin 20#20a|*Arachin* 20a]].
+[^1]: The rationale is that the Torah prescribed an *airech* for a person in his or her totality, not for his individual limbs (*Arachin* [[Arakhin 4#4a|4a]]; 20a).
+[^2]: Since the person's life is dependent on his heart or his liver, pledging the *airech* of these organs is like pledging his entire *airech*. See *Arachin* [[Arakhin 20#20a|20a]].
 [^3]: The same law applies if he pledges the *airech* of half of his heart (the Rambam's Commentary to the Mishnah, *Arachin* 5:3).
 [^4]: This reflects one of the differences between pledges of worth and *arechim*. He is liable for his pledge, because his words have significance. His hand has value that can be appraised.
-[^5]: [[Arakhin 19#19b|*Arachin* 19b]] emphasizes that we do not evaluate his value as if his hand were amputated, for then his worth would depreciate greatly, because no one wants a person without a hand.
+[^5]: *Arachin* [[Arakhin 19#19b|19b]] emphasizes that we do not evaluate his value as if his hand were amputated, for then his worth would depreciate greatly, because no one wants a person without a hand.
 [^6]: Again, since the person's life is dependent on that organ, it is as if his entire worth was pledged.
 [^7]: The laws that apply if he did not specify in what his weight should be measured are stated in Halachah 7.
 [^8]: The Rambam's opinion is shared by *Tosafot* 19a. Rashi and others, however, offer a different interpretation.
 [^9]: In a halachic context, by contrast, the term *yad* can refer to the hand. See *Hilchot Berachot* 6:4; *Hilchot Mikveot* 11:4.
-[^10]: Adding the extra term "extension of" indicates that he is deviating from the ordinary manner in which the term would be explained ([[Arakhin 19#19a|*Arachin* 19a]]).
+[^10]: Adding the extra term "extension of" indicates that he is deviating from the ordinary manner in which the term would be explained (*Arachin* [[Arakhin 19#19a|19a]]).
 [^11]: *Arachin, loc. cit.*, derives this from an instance which occurred in the Talmudic era. A very rich woman pledged her daughter's weight to the Temple. Our Sages obligated her to give her weight in gold.
 [^12]: For example, if he pledged: "My standing," we are unsure whether he meant a scepter that could stand on its own or one that would bend. If he pledged: "My sitting," we are unsure of whether he meant a scepter as tall as he is when he sits or one of his full height that is bent according to his position when he sits. See Rashi and *Tosafot, Arachin, loc. cit.*, where the possible interpretations of each of the above terms are explained.
 [^13]: I.e., we compel him to give generously, because if he gives less than the amount he promised, he will be transgressing the prohibition against desecrating his vow. If, however, he says: "This was not my original intent," we are certain that he fulfilled his vow (*Lechem Mishneh*).

@@ -29,7 +29,7 @@ anyonyaṃ bījayonīnāṃ kṣobhādvaisargikodayāt || ^iast
 >
 > Such is this goddess Mālinī who, aroused by the powerholder and penetrated by creative activity (krti), is thus in reality (paramārthatah) the body of (Śiva’s) power (śākti) (made manifest). (with 15.125cd–126ab)
 >
-> The emissive state’ (of consciousness arises) due to the mutual arousal of the seeds (which are the vowels) and the matrices (which are the consonants). What accomplishment does (its arising) not produce, and what is it that is incomplete, that it does not fulfil? (with 15.126cd–127ab)
+> The emissive state (of consciousness arises) due to the mutual arousal of the seeds (which are the vowels) and the matrices (which are the consonants). What accomplishment does (its arising) not produce, and what is it that is incomplete, that it does not fulfil? (with 15.126cd–127ab)
 
 ## Viveka
 

@@ -28,7 +28,7 @@ evaṃ dehe sthaṇḍile vā liṅge pātre jale'nale || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 08 (Dyczkowski)/Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#^pg259|p. 241]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 08.pdf#page=259>))
 > Dyczkowski numbers this verse 15.392cd–393ab.
 >
-> The supreme (empowering) purification (saṁskāra) (of the hearth takes place) even without other (external) rites (kriyākrama), just by reflecting (bhāvanāt) that the hearth (kunda) is Śiva’s power of action. (with 15.389cd–390ab)
+> The supreme (empowering) purification (saṁskāra) (of the hearth takes place) even without other (external) rites (kriyākrama), just by reflecting (bhāvanāt) that the hearth (kuṇḍa) is Śiva’s power of action. (with 15.389cd–390ab)
 >
 > Similarly, the main purification of the body, the sacrificial surface (sthaṇḍila), the Liṅga, the vessel, the water, the fire and the flowers etc., as well as the disciple, (takes place) when perceiving (their essential) Śiva nature (śivatā). (with 15.390cd–391ab)
 

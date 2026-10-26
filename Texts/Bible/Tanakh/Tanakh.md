@@ -12,7 +12,7 @@ aliases:
 ---
 # Tanakh (JPS)
 
-Prophets and Writings in the JPS 1985 translation, one note per chapter. Verses carry block IDs (`[[Psalms 023#^23-1]]`). The Torah is in [[Torah]]. The [[Torah page]] lays out any passage of the Prophets and Writings too, with the texts that cite it and the parashot that read it as haftarah.
+Prophets and Writings in the JPS 1985 translation, one note per chapter. Verses carry block IDs (`[[Psalms 023#^23-1]]`). The Torah is in [[Torah]]. The [[Torah View]] lays out any passage of the Prophets and Writings too, with the texts that cite it and the parashot that read it as haftarah.
 
 ## License and attribution
 

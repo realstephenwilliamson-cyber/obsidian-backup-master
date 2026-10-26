@@ -30,7 +30,7 @@ vartanā maṇḍalasyāgre saṃkṣepādupadekṣyate |
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#^pg23|p. 3]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=23>))
 >
-> The three Goddesses (placed successively) one after the other, alternately (paryāyavrttitah) on (the prongs of) the three tridents, variously (changing from place to place), in the middle, on the right and on the left, are (thus) worshipped (properly and) fully. The way of drawing (vartanā)’ the mandala will be explained briefly further ahead. (with 16.5cd–7ab)
+> The three Goddesses (placed successively) one after the other, alternately (paryāyavrttitah) on (the prongs of) the three tridents, variously (changing from place to place), in the middle, on the right and on the left, are (thus) worshipped (properly and) fully. The way of drawing (vartanā) the mandala will be explained briefly further ahead. (with 16.5cd–7ab)
 >
 > Once the maṇḍala has been drawn, it is cleaned (simply by wiping gently) with a scented cloth. Having done that, the teacher, who has bathed (previously), should worship, as before, in front of the maṇḍala, the outer deities here, and in the doorway, the deities of the doorway. On the front (eastern) part of the maṇḍala, he should then worship, beginning from the northeast and ending in the southeast, in due order, (the deities) starting with Gaṇeśa and ending with the guardian of the sacred site (kṣetrapati). (with 16.7cd–9)
 

@@ -1146,7 +1146,7 @@ So great was Avraham’s Divine service and
 self-sacrifice
 
 [^25]: *Bereishis* 13:4.
-[^26]: [[Sotah 10#10b|*Sotah* 10b]].
+[^26]: *Sotah* [[Sotah 10#10b|10b]].
 
 *[p. 43]* ^pg29
 

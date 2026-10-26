@@ -850,11 +850,11 @@ Rabbinic texts
 
 158n.
 
-[[Menachot 65#65a|*b. Menahot* 65a]]
+*b. Menahot* [[Menachot 65#65a|65a]]
 
 226n.
 
-[[Sanhedrin 89#89b|*b. Sanhedrin* 89b]]
+*b. Sanhedrin* [[Sanhedrin 89#89b|89b]]
 
 43 92b
 
@@ -872,11 +872,11 @@ Rabbinic texts
 
 224n.
 
-[[Sotah 48#48a|*b. Sotah* 48a]]
+*b. Sotah* [[Sotah 48#48a|48a]]
 
 28n.
 
-[[Yoma 86#86b|*b. Yoma* 86b]]
+*b. Yoma* [[Yoma 86#86b|86b]]
 
 158
 

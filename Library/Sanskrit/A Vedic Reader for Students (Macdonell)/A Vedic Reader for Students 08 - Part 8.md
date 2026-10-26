@@ -1118,7 +1118,7 @@ sùpā́yaná, a.\*(Bv.) giving easy access,
 
 easily accessible, i. 1, 9 \[sú + upā́yana).
 
-sūr-a, m. sun, vii. 68, 5 \[svàr light\].
+sū́r-a, m. sun, vii. 63, 5 \[svàr light\].
 
 sùrí, m. patron, ii. 85, 6.
 

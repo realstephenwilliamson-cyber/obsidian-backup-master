@@ -20,16 +20,13 @@ nyasa: "breath (*prāṇa*)"
 ## Front
 
 - **Glyph:** ह
-- **Variation:** —
 - **Example:** हस्त
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘<u>h</u>oney’
-- **Class (as printed):** 1 (guttural) · soft · breath
-- **Grid:** two rows, य र ल व and श ष स ह; in bold: ह
-- **Example:** hasta (hand)
+> [!note]- Back
+> - **Pronunciation:** As in ‘<u>h</u>oney’
+> - **Class:** guttural · soft · breath
+> - य र ल व / श ष स <u>ह</u>
+> - **Example:** hasta (hand)
 
 ## Register
 

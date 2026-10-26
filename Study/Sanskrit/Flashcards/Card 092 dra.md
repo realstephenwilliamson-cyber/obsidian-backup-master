@@ -20,16 +20,12 @@ nyasa: "da: left foot (*pāda*) · ra: blood (*rakta*)"
 ## Front
 
 - **Glyph:** द्र
-- **Variation:** —
 - **Example:** भद्र
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** As in ‘bhadra’ (blessed)
-- **Class (as printed):** —
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: द, र
-- **Example:** bhadra (blessed)
+> [!note]- Back
+> - **Pronunciation:** As in ‘bhadra’ (blessed)
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ <u>द</u> ध न / प फ ब भ म / य <u>र</u> ल व / श ष स ह
+> - **Example:** bhadra (blessed)
 
 ## Register
 

@@ -20,17 +20,11 @@ nyasa: "a: forehead (*lalāṭa*) · ṅa: right fingernails (*nakha*) · ga: ri
 ## Front
 
 - **Glyph:** अङ्ग
-- **Variation:** अंग
-- **Example:** —
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** —
-- **Gloss:** noun: ‘limb’ or ‘part’
-- **Class (as printed):** —
-- **Grid:** अ alone above the five rows of stops; in bold: अ, ग, ङ
-- **Example:** —
+> [!note]- Back
+> - **Variation:** अंग
+> - **Gloss:** noun: ‘limb’ or ‘part’
+> - <u>अ</u> / क ख <u>ग</u> घ <u>ङ</u> / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म
 
 ## Register
 

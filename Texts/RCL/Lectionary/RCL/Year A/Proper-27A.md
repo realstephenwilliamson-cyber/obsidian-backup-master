@@ -11,6 +11,7 @@ second_reading: "1 Thessalonians 4:13-18"
 gospel: "Matthew 25:1-13"
 first_reading_complementary: "Wisdom of Solomon 6:12-16 or Amos 5:18-24"
 psalm_complementary: "Wisdom of Solomon 6:17-20 or Psalm 70"
+psalm_bcp_complementary: "Psalm 70"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-27]]"
 cssclasses:

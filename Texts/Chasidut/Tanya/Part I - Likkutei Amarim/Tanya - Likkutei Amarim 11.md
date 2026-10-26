@@ -39,13 +39,13 @@ Therefore the Sages have said, “On every gathering of ten [Jews] the *Shechina
 [^1]: [[Ecclesiastes 07#^7-14|Ecclesiastes 7:14]].
 [^2]: Defined in the previous chapter.
 [^3]: Ch. 4.
-[^4]: [[Yoma 29#29a|*Yoma* 29a]]. Cf. *Chiddushei Aggadot Maharsha*, loc. cit.; *Netivot Olam*, *Netiv Haprishut*, ch. 2. The reason why “contemplation of sin is more serious than actual sin” is that of the three “garments” of the soul (thought, speech, and act), thought is the innermost and closest to the soul; hence the contamination strikes closer to the core.
+[^4]: *Yoma* [[Yoma 29#29a|29a]]. Cf. *Chiddushei Aggadot Maharsha*, loc. cit.; *Netivot Olam*, *Netiv Haprishut*, ch. 2. The reason why “contemplation of sin is more serious than actual sin” is that of the three “garments” of the soul (thought, speech, and act), thought is the innermost and closest to the soul; hence the contamination strikes closer to the core.
 [^5]: [[Torah 49 - Ki Teitzei#^23-10|Deuteronomy 23:10]].
 [^6]: “…so as not to defile himself by night” (*Ketuvot* 46a).
 [^7]: *Avot* 3:4.
 [^8]: End of Tractate *Yoma*.
 [^9]: *Iggeret Hateshuvah*, ch. 1.
-[^10]: [[Nedarim 9#9b|*Nedarim* 9b]].
+[^10]: *Nedarim* [[Nedarim 9#9b|9b]].
 [^11]: רשע ורע לו i.e., “possessing (only) evil.”
 [^12]: Thus the good that is in the soul is in a state of “suspended animation”—paralyzed, yet not destroyed. Hence, even the “completely wicked” individual can, through a paramount effort, reactivate the good, and repent, for “the gates of repentance are not closed to anyone.”
-[^13]: [[Sanhedrin 39#39a|*Sanhedrin* 39a]]. That is to say, even if they are wicked, the *Shechinah* rests upon them.
+[^13]: *Sanhedrin* [[Sanhedrin 39#39a|39a]]. That is to say, even if they are wicked, the *Shechinah* rests upon them.

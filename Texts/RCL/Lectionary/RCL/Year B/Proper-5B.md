@@ -11,6 +11,7 @@ second_reading: "2 Corinthians 4:13-5:1"
 gospel: "Mark 3:20-35"
 first_reading_complementary: "Genesis 3:8-15"
 psalm_complementary: "Psalm 130"
+psalm_bcp_complementary: "Psalm 130"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-5]]"
 cssclasses:

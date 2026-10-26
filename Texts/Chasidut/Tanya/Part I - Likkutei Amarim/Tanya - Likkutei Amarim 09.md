@@ -45,14 +45,14 @@ However, the desire of the animal soul which is derived from the *kelipah* is th
 [^7]: In the divine soul, the relation between mind and heart is reversed from that of the animal soul. (See above, note 3.)
 [^8]: Comp. [[Ecclesiastes 02#^2-14|Ecclesiastes 2:14]].
 [^9]: [[Torah 06 - Toldot#^25-23|Genesis 25:23]].
-[^10]: [[Ecclesiastes 09#^9-14|Ecclesiastes 9:14]]; [[Nedarim 32#32b|*Nedarim* 32b]].
+[^10]: [[Ecclesiastes 09#^9-14|Ecclesiastes 9:14]]; *Nedarim* [[Nedarim 32#32b|32b]].
 [^11]: An instrument without independent will.
 [^12]: Chs. 3 and 4.
 [^13]: The three intellectual faculties *chochmah*, *binah*, and *daat*—*chabad*—have their corresponding physical brains.
 [^14]: See above, note 6.
 [^15]: Awe is regarded as a preliminary to love. There is, however, a higher category of reverence which can be attained only after having attained love. See below, chs. 23, 40-43.
 [^16]: [[Torah 45 - Vaetchanan#^6-5|Deuteronomy 6:5]].
-[^17]: [[Berakhot 54#54a|*Berachot* 54a]].
+[^17]: *Berachot* [[Berakhot 54#54a|54a]].
 [^18]: The author distinguishes various degrees of love: *ahavah azah* (ardent love)—a passionate love, and *ahavah rabbah* (abundant or great love) or *ahavah betaanugim* (delightful love)—a serene love of fulfilment. The first is likened to a burning flame; the second—to calm waters. These and other distinctions of love are later discussed at greater length. Cf. chs. 15, 16, 18, 40, 41, 46, 49.
 [^19]: [[Song of Songs 7#^7-7|Song of Songs 7:7]].
 [^20]: Thus the divine soul is conceived as being potentially capable of not only suppressing the evil impulse, but also completely “sublimating” it.

@@ -106,7 +106,7 @@ chapter: 7
 [^10]: Eggs and milk are animal products and the animals receive their nurture from the earth and honey is actually the sap of flowers.
 [^11]: In his Commentary to the Mishnah (*Ma'aser Sheni* 1:3), the Rambam explains that *timed* is made by mixing grape dregs with water and leaving it to turn into vinegar.
 [^12]: For the water originally included in it is not considered significant.
-[^13]: The Radbaz explains that when the transaction was first made, it was invalid. Hence, the money remained holy. Afterwards, when the mixture turns into vinegar, the transaction is completed and the holiness of the money is transferred. Rashi ([[Chullin 25#25b|*Chulin* 25b]]) offers a different explanation.
+[^13]: The Radbaz explains that when the transaction was first made, it was invalid. Hence, the money remained holy. Afterwards, when the mixture turns into vinegar, the transaction is completed and the holiness of the money is transferred. Rashi (*Chulin* [[Chullin 25#25b|25b]]) offers a different explanation.
 [^14]: I.e., the restriction against purchasing a mixture of grape dregs and water with money from the second tithe.
 [^15]: And thus the water drew out a significant amount of grape juice from the dregs.
 [^16]: In his Commentary to the Mishnah (*Shvi'it* 7:5; *Uktzin* 3:4), the Rambam explains that branches of shrubs that grow in vineyards are pickled in brine while they are still soft and then eaten. They are, nevertheless, not eaten by all people and the money from the second tithe may only be used to purchase food.
@@ -143,7 +143,7 @@ chapter: 7
 [^46]: Since the transaction is binding, the produce receives that holiness and hence, may not be used for any other purpose.
 [^47]: We are speaking about a kosher animal that does not have a blemish and hence is fit to be offered as a sacrifice.
 [^48]: When it dies. It is not killed before its time. Burying it prevents one from benefiting from it [the Rambam's Commentary to the Mishnah (*Ma'aser Sheni* 1:6)]. See also Chapter 8, Halachah 6; *Hilchot Pesulei HaMukdashim* 19:11.
-[^49]: The equation between transgressing intentionally and unintentionally represents a change of approach on the part of the Rambam. In his Commentary to the Mishnah (*Ma'aser Sheni* 1:7), the Rambam states that if the transgression was intentional, in all instances, the purchaser should use an equivalent amount of money to buy food in Jerusalem. The sale is nullified only when the sale is made unintentionally. The Rambam's ruling here is based on [[Kiddushin 56#56b|*Kiddushin* 56b]].
+[^49]: The equation between transgressing intentionally and unintentionally represents a change of approach on the part of the Rambam. In his Commentary to the Mishnah (*Ma'aser Sheni* 1:7), the Rambam states that if the transgression was intentional, in all instances, the purchaser should use an equivalent amount of money to buy food in Jerusalem. The sale is nullified only when the sale is made unintentionally. The Rambam's ruling here is based on *Kiddushin* [[Kiddushin 56#56b|56b]].
 [^50]: So that the money could not be returned and the sale nullified.
 [^51]: And the sale nullified.
 [^52]: This is forbidden, because the animal - partially or entirely - is offered on the altar and/or eaten by the priests. Thus the money from the second tithe is not being used for its designated purpose.

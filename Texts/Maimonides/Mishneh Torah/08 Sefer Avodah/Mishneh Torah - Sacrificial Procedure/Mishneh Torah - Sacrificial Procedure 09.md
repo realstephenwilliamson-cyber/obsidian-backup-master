@@ -168,13 +168,13 @@ The priest takes four loaves from the entire [mixture], one of each type, as \[[
 [^26]: The fats, the lobe of liver, and the kidneys described in [[Torah 25 - Tzav#^7-3|Leviticus 7:3-4]].
 [^27]: Ultimately, they will be given to the priests as stated in Halachah 12.
 [^28]: As explained in the following halachah.
-[^29]: Our translation is based on Rashi, [[Menachot 61#61a|*Menachot* 61a]]. In his Commentary to the Mishnah (*Menachot* 5:6), the Rambam writes: "With regard to the guilt-offering brought by a person afflicted with *tzara'at*..., it is written ([[Torah 28 - Metzora#^14-12|Leviticus 14:12]] : 'And *tenufah* should be performed with them before God.' A tradition has been received interpreting 'before God' as meaning 'in the east.'  
+[^29]: Our translation is based on Rashi, *Menachot* [[Menachot 61#61a|61a]]. In his Commentary to the Mishnah (*Menachot* 5:6), the Rambam writes: "With regard to the guilt-offering brought by a person afflicted with *tzara'at*..., it is written ([[Torah 28 - Metzora#^14-12|Leviticus 14:12]] : 'And *tenufah* should be performed with them before God.' A tradition has been received interpreting 'before God' as meaning 'in the east.'  
     Rashi (*loc. cit.*) interprets this to mean that even the area to the east of the altar is considered as "before God," but the area to the west certainly warrants that description. The Rambam does not accept this understanding. His interpretation is questioned by the *Kessef Mishneh* and others, for the Holy of Holies was to the west of the altar. Seemingly, the closer one comes to it, the more one is "before God."
-[^30]: The bracketed addition is based on the Rambam's Commentary to the Mishnah (*Menachot* 5:5). This is also the perspective of Rashi ([[Menachot 62#62a|*Menachot* 62a]]) based on our Sages' statements that this action is intended to prevent destructive winds.
+[^30]: The bracketed addition is based on the Rambam's Commentary to the Mishnah (*Menachot* 5:5). This is also the perspective of Rashi (*Menachot* [[Menachot 62#62a|62a]]) based on our Sages' statements that this action is intended to prevent destructive winds.
 [^31]: This is intended to prevent harmful dews (*ibid.*).
 [^32]: See Halachot 17-22 for a description of the breads which would accompany the thanksgiving offering.
 [^33]: In the previous halachah.
-[^34]: In this way, the bread will not be spoiled through excessive contact with the meat (Radbaz). In his gloss (based on [[Menachot 61#61b|*Menachot* 61b]]), he cites exegetical reasons why the other items are placed in the order mentioned.
+[^34]: In this way, the bread will not be spoiled through excessive contact with the meat (Radbaz). In his gloss (based on *Menachot* [[Menachot 61#61b|61b]]), he cites exegetical reasons why the other items are placed in the order mentioned.
 [^35]: More particularly, as mentioned in *Hilchot Beit HaBechirah* 5:8, there was a chamber in the southeast portion of the Women's Courtyard set aside for this purpose.
 [^36]: As commanded by [[Torah 35 - Nasso#^6-19|Numbers 6:19]]. The Radbaz explains that it would appear that the foreleg would be placed above the other portions of the sacrifice, but below the bread.
 [^37]: See Halachah 23.
@@ -182,20 +182,20 @@ The priest takes four loaves from the entire [mixture], one of each type, as \[[
 [^39]: An animal's foreleg is comprised of three bones. According to the Rambam, the lower two are given to the priest. See the Rambam's Commentary to the Mishnah (*Chulin* 10:4). Others maintain the upper two should be given to the priest.
 [^40]: See Chapter 10, Halachah 4.
 [^41]: And any - both male and female - with whom he desires to share the meat.
-[^42]: [[Pesachim 59#59b|*Pesachim* 59b]] derives this law from the order in which the concepts are stated in the Torah. Similarly, the owner may not partake of his portion until that time (*Hilchot Pesulei HaMukdashim* 18:7).
+[^42]: *Pesachim* [[Pesachim 59#59b|59b]] derives this law from the order in which the concepts are stated in the Torah. Similarly, the owner may not partake of his portion until that time (*Hilchot Pesulei HaMukdashim* 18:7).
 [^43]: See *Hilchot Ma'achalot Assurot* 15:21; *Hilchot Bikkurim* 1:15.
 [^44]: There is, however, no such doubt with regard to the elevated portion of the nazirite's ram (Radbaz).
-[^45]: For [[Torah 25 - Tzav#^7-14|Leviticus 7:14]] uses the word *terumah* when describing this offering. Nevertheless, since we find exclusions with regard to penalties associated with *terumah* in other verses, it is possible that they do not apply with regard to these breads. Accordingly, [[Menachot 77#77b|*Menachot* 77b]] leaves the matter unresolved.
+[^45]: For [[Torah 25 - Tzav#^7-14|Leviticus 7:14]] uses the word *terumah* when describing this offering. Nevertheless, since we find exclusions with regard to penalties associated with *terumah* in other verses, it is possible that they do not apply with regard to these breads. Accordingly, *Menachot* [[Menachot 77#77b|77b]] leaves the matter unresolved.
 [^46]: *Hilchot Terumot* 6:6.
 [^47]: As stated in *Hilchot Terumot* 13:1-2, in such an instance, one hundred times the amount of *terumah* is required before the mixture is permitted.
 [^48]: The Radbaz and the *Kessef Mishneh* note that if these breads become mixed with ordinary breads, seemingly, there is a question whether a Scriptural prohibition applies and one should rule stringently. They explain that as long as there is a majority of permitted substances, the Scriptural prohibition is considered as nullified and the prohibition is only Rabbinic in origin (see *Hilchot Ma'achalot Assurot* 15:13). This also applies with regard to a mixture of *terumah* (*Hilchot Terumot* 14:7). Accordingly, in this instance, since it is possible that the laws of *terumah* are not applied to these breads, we do not impose the Rabbinic prohibition.
 [^49]: As will be stated (Chapter 12, Halachah 9), in contrast to the meal offerings brought by Israelites, meal offerings brought by the priests are consumed entirely by the altar's pyre. Hence, the Rambam felt it necessary to clarify that these breads are not in that category.
-[^50]: If the two partners would perform *tenufah* each one holding part of the items, neither would be performing the rite as required. If one put his hand below the hand of the other one, there would be an interposition between that person's hand and the sacrificial items. And it is also impossible for them to perform *tenufah*, one after the other, because the Torah speaks about *tenufah*, using the singular, and not *tenufot*, using the plural ([[Menachot 94#94a|*Menachot* 94a]]).
+[^50]: If the two partners would perform *tenufah* each one holding part of the items, neither would be performing the rite as required. If one put his hand below the hand of the other one, there would be an interposition between that person's hand and the sacrificial items. And it is also impossible for them to perform *tenufah*, one after the other, because the Torah speaks about *tenufah*, using the singular, and not *tenufot*, using the plural (*Menachot* [[Menachot 94#94a|94a]]).
 [^51]: That rite must be performed by each of the partners individually (Chapter 3, Halachah 9).
 [^52]: The Radbaz suggests that if she is married, her husband should perform this rite on her behalf.
 [^53]: A woman suspected of adultery who is required to bring an offering as part of her process of atonement.
 [^54]: *Hilchot Sotah* 3:15; *Hilchot Nizirut* 8:4.
-[^55]: [[Menachot 61#61a|*Menachot* 61a]] derives this concept from [[Torah 35 - Nasso#^5-25|Numbers 5:25]] which speaks of *tenufah* being performed with a *sotah's* offering and then of it being brought to the altar.
+[^55]: *Menachot* [[Menachot 61#61a|61a]] derives this concept from [[Torah 35 - Nasso#^5-25|Numbers 5:25]] which speaks of *tenufah* being performed with a *sotah's* offering and then of it being brought to the altar.
 [^56]: An *isaron* is defined as a measure equivalent to the volume of 43 and 1/5 eggs.
 [^57]: I.e., the space intended for the flour will be taken by the yeast.
 [^58]: And thus take up only a small amount of space.

@@ -63,6 +63,6 @@ And hereby will be understood the saying of our Sages, of blessed memory, that t
 [^23]: [[Torah 51 - Nitzavim#^29-9|Deuteronomy 29:9]], 10.
 [^24]: Cf. above, Epistle 22b, and the notes, ad loc.
 [^25]: See above, Epistle 25, note 48.
-[^26]: [[Yoma 9#9b|*Yoma* 9b]].
+[^26]: *Yoma* [[Yoma 9#9b|9b]].
 [^27]: Emended according to H. V.
 [^28]: Liturgy, opening benedictions of the *Amidah*.

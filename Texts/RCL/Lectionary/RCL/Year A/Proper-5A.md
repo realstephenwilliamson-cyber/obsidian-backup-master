@@ -11,6 +11,7 @@ second_reading: "Romans 4:13-25"
 gospel: "Matthew 9:9-13, 18-26"
 first_reading_complementary: "Hosea 5:15-6:6"
 psalm_complementary: "Psalm 50:7-15"
+psalm_bcp_complementary: "Psalm 50:7-15"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-5]]"
 cssclasses:

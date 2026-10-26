@@ -13,7 +13,7 @@ for (const p of ["Texts/Tantraloka/Ahnika 01/Tantraloka 01.001.md", "Texts/Tantr
   "Texts/Tantraloka/Study plan/Study plan - Year 1 (2026-27).md", "Texts/Tantraloka/Study plan/Study plan - Practice run 2026.md",
   "Texts/Tantraloka/Tantraloka - secondary literature.md", "Texts/Tantraloka/Tantraloka.md"]) files[p] = U + p;
 files["Library/Sanskrit/Tantraloka words/01/Tantraloka 01.001 - words.md"] = "words/Tantraloka 01.001 - words.md";
-const extra = { "Texts/Tantraloka/Tantraloka page.md": "---\nverse: \"" + (process.argv[2] ?? "1.1") + "\"\nviveka: \"" + (process.argv[3] ?? "both") + "\"\n---\n",
+const extra = { "Tantraloka View.md": "---\nverse: \"" + (process.argv[2] ?? "1.1") + "\"\nviveka: \"" + (process.argv[3] ?? "both") + "\"\n---\n",
   "Journal/2026/2026-10-22.md": "- claim:: [[Tantraloka 01.001|TĀ 1.1]] opens with the parents.\n", "Library/Trika/X/Some book 01.md": "see [[Tantraloka 01.001|TĀ 1.1]]", "Study/Concepts/Prakasa and Vimarsa.md": "[[Texts/Tantraloka/Ahnika 01/Tantraloka 01.001|TĀ 1.1]]" };
 const F = {}, byBase = {};
 for (const p of [...Object.keys(files), ...Object.keys(extra)]) { const f = { path: p, basename: path.basename(p, ".md") }; F[p] = f; byBase[f.basename] = byBase[f.basename] || f; }
@@ -24,7 +24,7 @@ const resolvedLinks = {}; for (const f of Object.values(F)) { const r = {}; for 
 global.window = { moment: (d) => ({ format: (s) => s === "YYYY-MM-DD" ? "2026-11-29" : "Sun 29 Nov 2026" }) };
 const app = { metadataCache: { getFirstLinkpathDest: dest, getFileCache: fc, resolvedLinks }, vault: { getAbstractFileByPath: p => F[p] || null, cachedRead: async f => read(f), getMarkdownFiles: () => Object.values(F) }, fileManager: { processFrontMatter: async () => {} } };
 const container = document.createElement("div"); document.body.appendChild(container);
-const dv = { container, currentFilePath: "Texts/Tantraloka/Tantraloka page.md", el: (tag, text, o) => { const e = mk(o.container, tag, { cls: o.cls, attr: o.attr }); e.innerHTML = "<p>" + String(text).replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, '<a class="internal-link">$2</a>') + "</p>"; return e; },
+const dv = { container, currentFilePath: "Tantraloka View.md", el: (tag, text, o) => { const e = mk(o.container, tag, { cls: o.cls, attr: o.attr }); e.innerHTML = "<p>" + String(text).replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, '<a class="internal-link">$2</a>') + "</p>"; return e; },
   pages: () => ({ file: { lists: { where: fn => ({ array: () => [] }) } } }) };
 const code = fs.readFileSync("/home/claude/view/tantraloka-page/view.js", "utf8");
 new Function("dv", "app", "input", "window", `return (async () => {${code}\n})();`)(dv, app, undefined, global.window).then(() => {

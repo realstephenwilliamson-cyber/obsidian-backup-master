@@ -28,7 +28,7 @@ nityādviśeṣapūjāṃ ca kuryānnaimittike vidhau || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 08 (Dyczkowski)/Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#^pg349|p. 331]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 08.pdf#page=349>))
 > Dyczkowski numbers this verse 15.567cd–568ab.
 >
-> The teacher’s name should (always) be uttered with a preceding (honorific) ‘śr, whilst holding (the sacred Kaula) substances (as an offering to him). (The disciple) should not cross over the shadow of (his) teachers and others (like them). While conversing with dualists, he should not talk about the teachings (artha) of his own scriptures or even refer to them. (with 15.564–565ab)
+> The teacher’s name should (always) be uttered with a preceding (honorific) ‘śrī’, whilst holding (the sacred Kaula) substances (as an offering to him). (The disciple) should not cross over the shadow of (his) teachers and others (like them). While conversing with dualists, he should not talk about the teachings (artha) of his own scriptures or even refer to them. (with 15.564–565ab)
 >
 > He should perform the regular (daily rite) and the special rite of adoration (pūjā) for (each) prescribed (special) occasion, so too also in the middle of the year, and indeed also (in the course of the rite of the offering of) the sacred thread. (with 15.565cd–566ab)
 

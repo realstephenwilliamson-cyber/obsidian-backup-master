@@ -123,7 +123,7 @@ The order that was followed [for the sacrifices offered] in the morning is follo
     Now the Chamber of the Hearth was located in the midst of the wall on the north side of the Temple Courtyard. Half was consecrated and half was not. There were two gates leading to the Temple Courtyard from the Chamber of the Hearth. A large gate which would be opened at dawn and a smaller gate whose keys were hanging in the Chamber of the Hearth. The supervisor would take those keys and enter the Courtyard.
 [^4]: As described in *Hilchot Beit HaBechirah, loc. cit.*
 [^5]: See *Hilchot Ma'aseh HaKorbanot* 13:2 with regard to how this offering was prepared.
-[^6]: It appears that, according to the Rambam, these two lotteries were performed one after the other. The commentaries have noted that from [[Yoma 22#22a|*Yoma* 22a]], 24b, it would appear that there was a span of time between the two.
+[^6]: It appears that, according to the Rambam, these two lotteries were performed one after the other. The commentaries have noted that from *Yoma* [[Yoma 22#22a|22a]], 24b, it would appear that there was a span of time between the two.
 [^7]: See Chapter 4, Halachot 1, 5-6.
 [^8]: See Chapter 2, Halachah 12.
 [^9]: The Rambam does not mention the third array which was kept to maintain a fire, because that was kept burning at all times. Nevertheless, if it was necessary to place wood on it, the same priest would do so (Radbaz).
@@ -144,12 +144,12 @@ The order that was followed [for the sacrifices offered] in the morning is follo
 [^24]: Implied is that while bringing the limbs to the altar - which is part of the Temple service - there should not be any such intervening substances.
 [^25]: The blessing recited before the recitation of the *Shema*. The blessing *Yotzer Or* (which precedes *Ahavat Olam* in the prayer service) is recited afterwards, when the sun rises, because the order of the blessings of the *Shema* is not an absolute requirement [the Rambam's Commentary to the Mishnah (*Tamid* 5:1)].
 [^26]: There the Rambam writes that the Ten Commandments were chosen because they comprise the fundaments of our faith. Indeed, they should be recited every day as part of the prayer service outside the Temple as well. Nevertheless, our Sages [*Berachot* 12a; Jerusalem Talmud (*Berachot* 1:5)] refrained from doing so, lest the heretics say that these alone are the foundation of the Jewish faith.
-[^27]: I.e., they read the three passages of the *Shema*. Even though the optimum time for the recitation of the *Shema* has not arrived, the priests are allowed to recite it early (and fulfill their obligation), because afterwards they will be occupied with the Temple services and we fear that they might forget to do so (Rashi, [[Yoma 37#37b|*Yoma* 37b]]).
+[^27]: I.e., they read the three passages of the *Shema*. Even though the optimum time for the recitation of the *Shema* has not arrived, the priests are allowed to recite it early (and fulfill their obligation), because afterwards they will be occupied with the Temple services and we fear that they might forget to do so (Rashi, *Yoma* [[Yoma 37#37b|37b]]).
 [^28]: The blessing that follows the *Shema*.
 [^29]: Two of the final three blessings of the *Shemoneh Esreh*. These blessings are chosen because they are all prayers for the sake of the Jewish people [the Rambam's Commentary to the Mishnah (*loc cit*.)].
 [^30]: After the conclusion of their week of service in the Temple, because the priestly watches switch on the Sabbath afternoon (*Hilchot K'lei HaMikdash* 4:3).
 [^31]: See Chapter 4, Halachot 7-8.
-[^32]: All authorities agree that an interruption is made between kindling the five lamps and kindling the two lamps. There is, however, a difference of opinion between the Sages and Abba Shaul with regard to the service that intervenes. Here the Rambam follows the opinion of the Sages that it is the offering of the incense. In our daily prayers, however, we read the passage "Abbaye would recount the order of the offerings on the altar... according to Abba Shaul" ([[Yoma 33#33a|*Yoma* 33a]]). That passage states that the blood of the daily sacrifice was offered on the altar between the kindling of the lamps and the incense was offered afterwards. The *Eshkol* explains that even though Abbaye's reckoning does not follow the halachah in this instance, it is still included in the prayers, because it is a concise review of all the Temple services
+[^32]: All authorities agree that an interruption is made between kindling the five lamps and kindling the two lamps. There is, however, a difference of opinion between the Sages and Abba Shaul with regard to the service that intervenes. Here the Rambam follows the opinion of the Sages that it is the offering of the incense. In our daily prayers, however, we read the passage "Abbaye would recount the order of the offerings on the altar... according to Abba Shaul" (*Yoma* [[Yoma 33#33a|33a]]). That passage states that the blood of the daily sacrifice was offered on the altar between the kindling of the lamps and the incense was offered afterwards. The *Eshkol* explains that even though Abbaye's reckoning does not follow the halachah in this instance, it is still included in the prayers, because it is a concise review of all the Temple services
 [^33]: See Chapter 3, Halachah 16.
 [^34]: Where they recite the priestly blessing, as stated in the following halachah.
 [^35]: The *Kessef Mishneh* maintains that on the basis of *Tamid* 5:6, this was performed when the priest entered the Sanctuary to offer the incense and not when he departed.
@@ -171,7 +171,7 @@ The order that was followed [for the sacrifices offered] in the morning is follo
 [^50]: The trumpets were sounded like the *shofar* is sounded on Rosh HaShanah: one long blast (*tekiah*), a series of staccato blasts (*teruah*), and then another long blast (*tekiah*).
 [^51]: See *ibid.* 7:7.
 [^52]: As a sign for the others to perform their activities.
-[^53]: The songs are recited at this time, because "song is recited only over wine" ([[Berakhot 35#35a|*Berachot* 35a]]). The songs the Levites would sing are mentioned in Halachah 9.
+[^53]: The songs are recited at this time, because "song is recited only over wine" (*Berachot* [[Berakhot 35#35a|35a]]). The songs the Levites would sing are mentioned in Halachah 9.
 [^54]: I.e., a series of *tekiah, teruah* and *tekiah* blasts.
 [^55]: Each song had three bars.
 [^56]: I.e., three series of three.
@@ -179,7 +179,7 @@ The order that was followed [for the sacrifices offered] in the morning is follo
 [^58]: See *Hilchot Shekalim* 4:9.
 [^59]: See *ibid* 3:2 where the concepts mentioned here are explained in slightly greater detail.
 [^60]: These psalms are also recited as "the song of day" in our daily prayers to recall the Temple Service.
-[^61]: This psalm was associated with Sunday, for the world was created on Sunday and this psalm states how all existence is His [the Rambam's Commentary to the Mishnah (*Tamid* 6:7, based on [[Rosh Hashanah 31#31a|*Rosh HaShanah* 31a]])].
+[^61]: This psalm was associated with Sunday, for the world was created on Sunday and this psalm states how all existence is His [the Rambam's Commentary to the Mishnah (*Tamid* 6:7, based on *Rosh HaShanah* [[Rosh Hashanah 31#31a|31a]])].
 [^62]: For God's greatness was manifest in the division of the waters, the creation of the second day (*ibid.*).
 [^63]: For on this day, the earth - the place were judgment is carried out - came into existence (*ibid.*).
 [^64]: On this day, the sun and the moon were created and this song is a prayer that God will take retribution against those who worship these celestial bodies (*ibid.*).
@@ -191,7 +191,7 @@ The order that was followed [for the sacrifices offered] in the morning is follo
 [^70]: The song of redemption after the splitting of the sea. They would read from the beginning of the song until "Who is like You" (*Mi Chamocha*, [[Torah 16 - Beshalach#^15-1|Exodus 15:1-11]]) on one Sabbath afternoon, and then from that verse until the end of the song on the next Sabbath afternoon. The standard published text of *Rosh HaShanah, loc. cit.*, states that on the third Sabbath they would recite the song of the well ([[Torah 39 - Chukat#^21-17|Numbers 21:17]] , but apparently the Rambam's version of the text did not include that point.
 [^71]: For this psalm also includes the verse "Sound the *shofar* on the day of the new moon."
 [^72]: When Psalm 81 was recited as the psalm of the day.
-[^73]: I.e., the second half of the psalm. Since the psalm was already recited in the morning, they did not desire to repeat it in its entirety. From [[Rosh Hashanah 31#31b|*Rosh HaShanah* 31b]], it would appear that when Rosh HaShanah falls on Thursday, they would recite the second half of the psalm in the morning and the first half (which includes the verse concerning the sounding of the *shofar*) for the *Musaf* offering. The Rambam's ruling is based on the Jerusalem Talmud (*Rosh HaShanah* 4:8).
+[^73]: I.e., the second half of the psalm. Since the psalm was already recited in the morning, they did not desire to repeat it in its entirety. From *Rosh HaShanah* [[Rosh Hashanah 31#31b|31b]], it would appear that when Rosh HaShanah falls on Thursday, they would recite the second half of the psalm in the morning and the first half (which includes the verse concerning the sounding of the *shofar*) for the *Musaf* offering. The Rambam's ruling is based on the Jerusalem Talmud (*Rosh HaShanah* 4:8).
 [^74]: Rashi (*Rosh HaShanah, loc. cit.*) explains that this verse recalls the sounding of the *shofar* at Mount Sinai.
 [^75]: There is no Rabbinic source which is extant that mentions which psalm was recited on Rosh Chodesh.
 [^76]: I.e., for the *Musaf* offering.

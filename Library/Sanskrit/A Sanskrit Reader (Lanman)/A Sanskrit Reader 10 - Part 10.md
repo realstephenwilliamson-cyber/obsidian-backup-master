@@ -186,7 +186,7 @@ Nores ro Pacer 638. 1-2. ā-caksṣīta, 616.
 
 7-8. See go3. ‘Like the earth, iniquity done in the world does not bear fruit at once; but etc? 
 
-See Vvrt+ā. =mūlāni: same figure at Proverbs xii.3. =\=y\\ykrt. 
+See Vvrt+ā. =mūlāni: same figure at [[Proverbs 12#^12-3|Proverbs xii.3]]. =\=y\\ykrt. 
 
 Cf. MBh. i.80.2 
 
@@ -1704,7 +1704,7 @@ The ‘kine’ are the fleecy morning-clouds, the children of Dawn
 
 — cf. Kaegi, note 197. 
 
-= 366 rtåvan: the idea in Job xxxviii.12Þ or Psalm civ.19b 18 similar. 
+= 366 rtåvan: the idea in Job xxxviii.12Þ or [[Psalms 104#^104-19|Psalm civ.19b]] 18 similar. 
 
 “The sun knoweth his going down.” 
 
@@ -2302,7 +2302,7 @@ duhe, 613, and 7018.
 
 19\. U.f. yád (‘when’) bhûmim vi ávar- 
 
-tayat: cf. \^ He taketh up the isles as a very little thing,” Isaiah xl.15; also 12. 
+tayat: cf. \^ He taketh up the isles as a very little thing,” [[Isaiah 40#^40-15|Isaiah xl.15]]; also 12. 
 
 Nores ro Paer 81. 1. cakrāṇás, ५1 kr8, and 807. ‘Putting 
 
@@ -2574,7 +2574,7 @@ So also in the Avesta, Yima is V’s son.
 
 = We read at AV. xviii4.7, tīrthāís taranti praváto mahir íti, By passes pass they to the mighty heights, ’tis falè. This is most interesting as a reminiscence of the same traditional material of which RV. x.14.1 is another outgrowth. 
 
-9-10. ‘Yamus nobis perfugium primus repperit :? gātúm, q.v., pregnantly, like rórov at John xiv.2. =egå gávyūtis, i.e. the gātú, just mentioned, = ápa-bhartavá u: the pada-pāṭha reads -tavāí u (133); form of inf., 9722; use of inf., 982c. = For the thought, see an Avestan parallel, Kaegi, N = yátrā, 248a. 
+9-10. ‘Yamus nobis perfugium primus repperit :? gātúm, q.v., pregnantly, like rórov at [[John 14#^14-2|John xiv.2]]. =egå gávyūtis, i.e. the gātú, just mentioned, = ápa-bhartavá u: the pada-pāṭha reads -tavāí u (133); form of inf., 9722; use of inf., 982c. = For the thought, see an Avestan parallel, Kaegi, N = yátrā, 248a. 
 
 =parā\_īyús, 783b2 
 
@@ -2602,7 +2602,7 @@ come from heaven. Illustrative material in Kaegi, n.275. Cf. zu Gott heimkehren 
 
 =æ Päda d is metrically defective: te tanúā, t with thy (new) body, is suggested, Kaegi, N. 278, which see; te tanúā suvárcasā is suggested by Sāyaṇa’s comment. 
 
-Cf. the Christian conceptions at Philippians iii.21, I. Cor. xv.40f. 
+Cf. the Christian conceptions at [[Philippians 03#^3-21|Philippians iii.21]], I. Cor. xv.40f. 
 
 15-16. U.f. ápa\_ita, ví\_ita, ví ca sarpata\_átas. asmāí (accent, 749N.) etám ° \` śhobhis adbhís ° \* ví-aktam (Vañj). =vita, 
 
@@ -3144,7 +3144,7 @@ To him who grasped thy hand, thy suitor now, As wife to husband art ४०५ be
 
 from AGS. iv.2.18 = 1027, this stanza was at an early date appropriated for the funeral-service, where — as an accompaniment of the levirate marriage —it fits very well (didhigṣú means also ʻa second husband’). Regarding leviration, see Kaegi, N.51. 
 
-Its existence in Vedic times is proved by RV. x.40.2. — Compare also Deuteronomy xxv.5-10. 
+Its existence in Vedic times is proved by RV. x.40.2. — Compare also [[Torah 49 - Ki Teitzei#^25-5|Deuteronomy xxv.5-10]]. 
 
 20\. U.f. dhánus hástāt ā-dádānas (668) 
 

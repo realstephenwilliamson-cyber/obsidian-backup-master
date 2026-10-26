@@ -418,7 +418,7 @@ If, therefore, we desire to gain a historical understanding of Jesus' teaching, 
 
 the preaching of the Jewish Messiah will arrive at the idea that He was the founder of a new religion. To all unprejudiced persons it is manifest "that Jesus had not the slightest intention of doing away with the Jewish religion and putting another in its place." 
 
-From Matt. v. 18 it is evident that Jesus did not break with the Law, but took His stand upon it unreservedly. If there was anything at all new 
+From [[Matthew 05#^5-18|Matt. v. 18]] it is evident that Jesus did not break with the Law, but took His stand upon it unreservedly. If there was anything at all new 
 
 \[1\] The quotations inserted without special introduction are, of course, from Reimarus. It is Dr. Schweitzer's method to lead up by a paragraph of exposition to one of these characteristic phrases.—TRANSLATOR. 
 
@@ -426,13 +426,13 @@ From Matt. v. 18 it is evident that Jesus did not break with the Law, but took H
 
 in His preaching, it was the righteousness which was requisite for the Kingdom of God. The righteousness of the Law will no longer suffice in the time of the coming Kingdom; a new and deeper morality must come into being. This demand is the only point in which the preaching of Jesus went beyond the ideas of His contemporaries. But this new morality does not do away with the Law, for He explains it as a fulfilment of the old commandments. His followers, no doubt, broke with the Law later on. They did so, however, not in pursuance of a command of Jesus, but under the pressure of circumstances, at the time when they were forced out of Judaism and obliged to found a new religion. 
 
-Jesus shared the Jewish racial exclusiveness wholly and unreservedly. According to Matt. x. 5 He forbade His disciples to declare to the Gentiles the coming of the Kingdom of God. Evidently, therefore. His purpose did not embrace them. Had it been otherwise, the hesitation of 
+Jesus shared the Jewish racial exclusiveness wholly and unreservedly. According to [[Matthew 10#^10-5|Matt. x. 5]] He forbade His disciples to declare to the Gentiles the coming of the Kingdom of God. Evidently, therefore. His purpose did not embrace them. Had it been otherwise, the hesitation of 
 
 *[p. 38]* ^pg39
 
 Peter in Acts x. and xi., and the necessity of justifying the conversion of Cornelius, would be incomprehensible. 
 
-Baptism and the Lord's Supper are no evidence that Jesus intended to found a new religion. In the first place the genuineness of the command to baptize in Matt. xxviii. 19 is questionable, not only as a saying ascribed to the risen Jesus, but also because it is universalistic in outlook, and because it implies the doctrine of the Trinity and, consequently, the metaphysical Divine Sonship of Jesus. In this it is inconsistent with the earliest traditions regarding the practice of baptism in the Christian community, for in the earliest times, as we learn from the Acts and from Paul, it was the custom to baptize, not in the name of the Trinity, but in the name of Jesus, the Messiah. 
+Baptism and the Lord's Supper are no evidence that Jesus intended to found a new religion. In the first place the genuineness of the command to baptize in [[Matthew 28#^28-19|Matt. xxviii. 19]] is questionable, not only as a saying ascribed to the risen Jesus, but also because it is universalistic in outlook, and because it implies the doctrine of the Trinity and, consequently, the metaphysical Divine Sonship of Jesus. In this it is inconsistent with the earliest traditions regarding the practice of baptism in the Christian community, for in the earliest times, as we learn from the Acts and from Paul, it was the custom to baptize, not in the name of the Trinity, but in the name of Jesus, the Messiah. 
 
 But, furthermore, it is questionable whether Baptism really goes back to Jesus at all. He Himself baptized no one in His own lifetime, and never commanded any of His converts to be baptized. So we cannot be sure about the origin of Baptism, though we can be sure of its meaning. Baptism in the name of Jesus signified only that Jesus was the Messiah. "For the only change which the teaching of Jesus made in their religion was that whereas they had formerly believed in a Deliverer of Israel who was to come in the future, they now believed in a Deliverer who was already present." 
 

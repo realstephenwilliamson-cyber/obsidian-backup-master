@@ -102,7 +102,7 @@ Although this fat was forbidden to an ordinary person, it was still permitted to
 This person was permitted to partake of the meat of the animal,[^55] although he was forbidden to partake of its fat. When he became impure, since its meat became forbidden an additional prohibition was added to its fat. When Yom Kippur commenced, all food became included [in the prohibition], since this prohibition affects non-consecrated food, it adds a prohibition to this fat. Similar laws apply in all analogous situations. ^14-19
 
 [^1]: The measure of "the size of an olive" cannot be determined by measuring an average olive today. Instead, this refers to a measure established by our Sages and is the subject of debate by later Rabbinic authorities. The *Pri Chadash* (*Orach Chayim* 486) states that the Rambam considers an olive as one-third the size of an egg with its shell (17.3 grams according to *Shiurei Torah* 3:13, 24 grams according to *Chazon Ish*). *Tosafot, Chullin* 103a, differs and defines an olive as one-half the size of a shelled egg (25.6 grams according to *Shiurei Torah* 3:12, 36 grams according to *Chazon Ish*). In practice, with regard to questions of Scriptural Law, the more stringent opinion should be followed. With regard to questions of Rabbinic Law, one may rely on the more lenient view.
-[^2]: Literally, the soul's being cut off. This involves premature death in this world (before the age of 50, [[Moed Katan 28#28a|*Mo'ed Kattan* 28a]]) and the soul not meriting a portion in the world to come (*Hilchot Teshuvah* 8:1).
+[^2]: Literally, the soul's being cut off. This involves premature death in this world (before the age of 50, *Mo'ed Kattan* [[Moed Katan 28#28a|28a]]) and the soul not meriting a portion in the world to come (*Hilchot Teshuvah* 8:1).
 [^3]: Premature death before the age of 60 (*Mo'ed Kattan, loc. cit.*).
 [^4]: See *Hilchot Issurei Bi'ah* 1:7.
 [^5]: The punishment given for the violation of Rabbinic commandments or Scriptural Laws for which there is no specific punishment outlined.
@@ -111,7 +111,7 @@ This person was permitted to partake of the meat of the animal,[^55] although he
 [^8]: This refers to a situation in which the person ate the vomited food a second time shortly after he ate it the first time. To explain: For a person to be liable, he must eat not only a specific amount (an olive-sized portion), but he must eat it in a specific time: *k'dai achilas p'ras*, as explained in Halachah 8.
 [^9]: A sacrifice which the priest thought to have its blood or limbs offered on the altar after the time when they should be offered or have its meat eaten after the time it should be eaten (*Hilchot Pesulei HaMukdashim* 13:1).
 [^10]: Sacrificial meat that remained after the time when it is required to be eaten (*op cit.* 13:3).
-[^11]: As [[Menachot 54#54b|*Menachot* 54b]] states, the size of a portion of food at the time one partakes of it determines whether he is liable or not.
+[^11]: As *Menachot* [[Menachot 54#54b|54b]] states, the size of a portion of food at the time one partakes of it determines whether he is liable or not.
 [^12]: For, at the outset, it was the size of an olive.
 [^13]: For its natural size is not an olive.
 [^14]: Chapter 4, Halachot 16 and 17.
@@ -125,7 +125,7 @@ This person was permitted to partake of the meat of the animal,[^55] although he
 [^21]: For the warnings create a distinction between the food eaten before and afterwards.
 [^22]: Our translation is based on *Hilchot Tumat Tzara'at* 16:6.
 [^23]: This is one of the fundamental concepts with regard to the mitzvot and prohibitions concerning eating. Just as there is a minimum amount, a *k'zayit* (an olive-sized portion), which one must eat for the mitzvah or prohibition to be fulfilled; so, too, there is a minimum measure of time, *k'dei achilat p'ras*, in which that amount of food must be eaten. If one takes a longer time to eat the prohibited food, his eating is not significant, like one who eats less than the minimum amount.  
-    Rashi ([[Pesachim 44#44a|*Pesachim* 44a]] ) offers a different view and maintains that this measure is defined as the time it takes to eat four eggs. *Shiurei Torah* mentions several different opinions from between four minutes until nine minutes for this figure.
+    Rashi (*Pesachim* [[Pesachim 44#44a|44a]] ) offers a different view and maintains that this measure is defined as the time it takes to eat four eggs. *Shiurei Torah* mentions several different opinions from between four minutes until nine minutes for this figure.
 [^24]: The standard liquid measure that applies with regard to the Torah's mitzvot and prohibitions.
 [^25]: The commentaries have noted that in Chapter 6, Halachah 1, the Rambam mentioned that the minimum measure for which one is liable for partaking of blood is an olive-sized portion and question why in this context, a *revi'it* is mentioned. It is possible to explain that here the subjects are slightly different, for we are not speaking about the minimum amount for which one is liable, but rather the minimum time period. The commentaries, however, do not see this as a significant enough point.
 [^26]: For if one prolongs his drinking over a longer period, his deed is not considered significant.
@@ -137,19 +137,19 @@ This person was permitted to partake of the meat of the animal,[^55] although he
 [^31]: This concept also applies with regard to wine used as a libation, for, [[Torah 53 - Ha'Azinu#^32-38|Deuteronomy 32:38]], the prooftext from which this prohibition is derived, also mentions "eating" [*Minchat Chinuch* (mitzvah 111)].
 [^32]: I.e., even if the unappetizing element of the food is not dependent on them, but on a foreign substance.
 [^33]: This refers to the concept referred to as *notein taam lifgam*, giving an unfavorable taste. Our Rabbis extend this concept further, explaining that any pot which has not been used for non-kosher food for a day no longer causes the pot to be forbidden according to Scriptural Law, because the forbidden food has already lost its flavor [*Shulchan Aruch* (*Yoreh De'ah* 103:5)]. See also Chapter 15, Halachot 28-31.
-[^34]: Generally, a person who violates a transgression without intent is not liable ([[Shabbat 22#22a|*Shabbat* 22a]]). Here, however, an exception is made, because the person is deriving physical benefit.
+[^34]: Generally, a person who violates a transgression without intent is not liable (*Shabbat* [[Shabbat 22#22a|22a]]). Here, however, an exception is made, because the person is deriving physical benefit.
 [^35]: Even though he derived pleasure, since he did not act voluntarily and did not desire the forbidden pleasure, he is not held liable.
 [^36]: Although either his desire or hunger causes him pain, he is not considered as if he was compelled to partake of the forbidden food.
 [^37]: As stated in *Hilchot Yesodei Torah* 5:6, all prohibitions are superceded by danger to life with the exception of idolatry, murder, and forbidden sexual relations.
-[^38]: A pregnant woman may have severe cravings for food with an attractive aroma. Our Sages feared that if she were not given some of the food she desired, she might miscarry and perhaps even her own life would be endangered. See [[Yoma 82#82b|*Yoma* 82b]].
+[^38]: A pregnant woman may have severe cravings for food with an attractive aroma. Our Sages feared that if she were not given some of the food she desired, she might miscarry and perhaps even her own life would be endangered. See *Yoma* [[Yoma 82#82b|82b]].
 [^39]: I.e., less than an olive-sized portion as stated in Halachah 1. Since one is not liable unless one partakes of an olive-sized portion within *k'dei achilat pras* (see Halachah 8), if we do not fear the situation is overly dangerous, the woman can be fed this minimal amount in intervals. See *Hilchot Sh'vitat Asor* 2:9, *Shulchan Aruch* (*Orach Chayim* 617:2).
-[^40]: Since he is sick, his condition is precarious and we are concerned that his craving may place his life in danger. See [[Ketubot 61#61a|*Ketubot* 61a]].
+[^40]: Since he is sick, his condition is precarious and we are concerned that his craving may place his life in danger. See *Ketubot* [[Ketubot 61#61a|61a]].
 [^41]: This refers to a state of infirmity that overcomes a person because of lack of nourishment. He becomes dizzy, faint, and unable to focus his eyes.
 [^42]: Out of fear that the delay may be crucial to his life. Similarly, we do not try first giving him the gravy and then smaller portions as in the previous halachot (*Kessef Mishneh*). Needless to say, if kosher food is available, there is no reason to give him non-kosher food.
 [^43]: Produce from which *terumah* and the tithes have not been separated.
 [^44]: This applies when the *terumot* have not been separated from the produce. If the *terumot* have been separated, but the tithes have not been separated, the prohibition is of the same degree of severity as partaking of a *nevelah*. See Chapter 10, Halachot 19-20.
 [^45]: *Hilchot Shemitah ViYovel* 4:2.
-[^46]: I.e., produce grown in the Sabbatical year that remains after the time when it is supposed to be disposed of (Rashi, [[Yoma 83#83a|*Yoma* 83a]]).
+[^46]: I.e., produce grown in the Sabbatical year that remains after the time when it is supposed to be disposed of (Rashi, *Yoma* [[Yoma 83#83a|83a]]).
 [^47]: For the prohibition against eating produce cultivated in the Sabbatical year stems from a positive commandment. This is considered as more lenient than a prohibition stemming from a negative commandment, because there is no punishment involved.
 [^48]: Some interpret this as referring to a situation where there is no one who knows how to separate the *terumot* present. Rashi (*loc. cit.*) interprets this as referring to a situation where the sick person must eat the entire amount of produce available. It is preferable not to separate the *terumot*. For even though he will be eating less of a forbidden substance, the prohibition will be more severe because *terumah* is sanctified.
 [^49]: *Hilchot Issurei Bi'ah* 17:8-9.

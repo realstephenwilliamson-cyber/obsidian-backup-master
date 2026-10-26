@@ -20,16 +20,13 @@ nyasa: "right side (*pārśva*)"
 ## Front
 
 - **Glyph:** प
-- **Variation:** —
 - **Example:** परम
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘<u>p</u>aternal’
-- **Class (as printed):** 5 (labial) · hard · unaspirated
-- **Grid:** the five rows of stops; in bold: प
-- **Example:** parama (supreme)
+> [!note]- Back
+> - **Pronunciation:** As in ‘<u>p</u>aternal’
+> - **Class:** labial · hard · unaspirated
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / <u>प</u> फ ब भ म
+> - **Example:** parama (supreme)
 
 ## Register
 

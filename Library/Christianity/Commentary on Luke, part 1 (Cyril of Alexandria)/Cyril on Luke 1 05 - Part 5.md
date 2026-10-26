@@ -16,9 +16,9 @@ The text is a fresh OCR of the 1859 print (Tesseract, English); check quotations
 
 *[p. 137]* ^pg161
 
-arose unexpectedly and wonderfully, and the miracle remained unknown to no one throughout the whole of Juda, but was noised abroad as a divine sign, and admiration was upon every tongue. And some of his intimate friends, that is, his diseiples, tell it also to the blessed Baptist: and he chose out and selected two persons from the rest, and sends them to Jesus to ask Him, if it is He Who cometh, or whether they must wait for another. What hast thou done, O excellent Baptist! Dost thou not know Him Whoin thou preachedst, being thyself the precursor of this rising, as the morning star proclaims the coming sun? Thou wentest before Him like a toreh. Thou pointedst Him out to the holy apostles, saying very plainly, “ Behold the Lamb of God, Who taketh away the sin “of the world?’ Elsewhere also we heard Thee saying to the multitudes of the Jews, that “after me cometh the man who “was before me, because He is before me. And I knew Him “not: but Ee Who sent me to baptize in water, He said “ unto me, On Whom thon seest the Holy Ghost descend from “heaven, and remain upon Him, He it is Who baptizeth in “the Holy Ghost. And I saw, and bore witness, that This is “ the Son of God.” How then dost thou ask, if it is He that cometh? For thou saidst, ‘©{ saw and bore witness, that He “as the Son of God.” But the blessed Baptist did not tail to recognise the Word of God Who had become man. Do not imagine so. Well and very clearly was he persuaded that He was He that cometh: but what He did was something wise and well-contrived, and fit in no slight degree to benefit his disciples. For they indeed, because they did not yet know Christ, inasmuch as His glory and all-excelling majesty was concealed from them, were eyen silently stung at His working miracles, and surpassing the Baptist in the greatness of the deeds wrought by Him. For on one oceasion they even drew near to him, pining with envy and vexation, and with their heart still requiring to set free from Jewish maladies, and said to the blessed Baptist concerning Christ the universal Saviour, “ Rabbi, He Who was with thee on the other side of \*\* Jordan, to Whom thou bearest witness, He baptizeth, and ‘every man cometh to Him.” For they did not wish any one else to baptize at all, and exalt himself against the honour of John. They learnt however from him the superiority of Christ’s mT John i. 29.
+arose unexpectedly and wonderfully, and the miracle remained unknown to no one throughout the whole of Juda, but was noised abroad as a divine sign, and admiration was upon every tongue. And some of his intimate friends, that is, his diseiples, tell it also to the blessed Baptist: and he chose out and selected two persons from the rest, and sends them to Jesus to ask Him, if it is He Who cometh, or whether they must wait for another. What hast thou done, O excellent Baptist! Dost thou not know Him Whoin thou preachedst, being thyself the precursor of this rising, as the morning star proclaims the coming sun? Thou wentest before Him like a toreh. Thou pointedst Him out to the holy apostles, saying very plainly, “ Behold the Lamb of God, Who taketh away the sin “of the world?’ Elsewhere also we heard Thee saying to the multitudes of the Jews, that “after me cometh the man who “was before me, because He is before me. And I knew Him “not: but Ee Who sent me to baptize in water, He said “ unto me, On Whom thon seest the Holy Ghost descend from “heaven, and remain upon Him, He it is Who baptizeth in “the Holy Ghost. And I saw, and bore witness, that This is “ the Son of God.” How then dost thou ask, if it is He that cometh? For thou saidst, ‘©{ saw and bore witness, that He “as the Son of God.” But the blessed Baptist did not tail to recognise the Word of God Who had become man. Do not imagine so. Well and very clearly was he persuaded that He was He that cometh: but what He did was something wise and well-contrived, and fit in no slight degree to benefit his disciples. For they indeed, because they did not yet know Christ, inasmuch as His glory and all-excelling majesty was concealed from them, were eyen silently stung at His working miracles, and surpassing the Baptist in the greatness of the deeds wrought by Him. For on one oceasion they even drew near to him, pining with envy and vexation, and with their heart still requiring to set free from Jewish maladies, and said to the blessed Baptist concerning Christ the universal Saviour, “ Rabbi, He Who was with thee on the other side of \*\* Jordan, to Whom thou bearest witness, He baptizeth, and ‘every man cometh to Him.” For they did not wish any one else to baptize at all, and exalt himself against the honour of John. They learnt however from him the superiority of Christ’s mT [[John 01#^1-29|John i. 29]].
 
-John i. 30.
+[[John 01#^1-30|John i. 30]].
 
 *[p. 138]* ^pg162
 
@@ -26,9 +26,9 @@ John iii.
 
 Beh,
 
-John iii.31.
+[[John 03#^3-31|John iii.31]].
 
-Mat. xi. 11.
+[[Matthew 11#^11-11|Mat. xi. 11]].
 
 glory, and the incomparable greatuess of His splendour: for they heard him say in answer, “ Ye are yourselves my wit- “ nesses that I said, that I am not the Christ, but that I “have been sent before Him. He who hath the bride is “the bridegroom: but the bridegroom’s friend, who standcth “and heareth his voice, joyfully rejoiccth because of the “ bridegroom's voice: this therefore, which Is my joy, 1s com- “plete. He must grow great, bit I must be made small.” We do not however say that the blessed Baptist in any respect whatsoever decreased in dignity, himself of himself, during the time that Christ’s glory was constantly receiving addition from those that believed on Him: but inasmuch as the blessed John continued in the measure of human nature :—for it was not possible for him ever to advance to any thing beyond :—but the incarnate Word. being in His nature God, and ineffably begotten of God the Father, advancing continually to His proper glory, was admired of all men; for this reason it was he said, \* He must grow great, but I must be made small.” For he who remains in exactly the same state seems to grow small, in comparison with one who is continually advancing. But that it was right that as being by nature God, He should surpass in might and glory human things, he explained to them saying : « He Who cometh from above is above all: and he who is of “ the earth, belongeth to the earth, and speaketh of the earth.” Who then is He Who cometh from above, and is above all as being God? Plainly the only-begotten Word of the Father, Who was in His likeness, and on an equality with Him: but for the love He had unto the world, humbled Himself to our estate. As being such therefore, He must necessarily surpass one who was of the earth: one, that is to say, numbered among the things of carth, and their hike in nature, such as was the Baptist. For he was indeed praiseworthy in virtue, and incomparable in piety, and had attained to the perfection of all righteousness, and was honourable and worthy of admivation: for the Lord bore him witness saying, “ There hath “not risen among the sons of women one greater than John “tho Baptist.” But he was not from above; not of the Substance, \[ mean, that is set above all: rather he was from below, a son of earth, and one of us. Therefore, to return from this digression, as their heart was not free from Jewish maladies
 
@@ -60,7 +60,7 @@ Having therefore taken from the inspired Scripture the name of “He That cometh
 
 *[p. 141]* ^pg165
 
-Saviour’s management. For He does not simply say, l am; though had He so spoken, it would have been true: but He rather leads them to the proof given by the works themselves, in order that having accepted faith in Him on good grounds, and being furnished with knowledge from what had been done, they might so return to him who sent them. “ For go, He “says, tell Jolin the things that ye have seen and heard.” For ye have heard indeed, He says, that I have raised the dead by the all-powerful word, and by the toueh of the hand: ye have seen also, while ye yourselves stood by, that those things that were spoken of old time by the holy prophets are accomplished: the blind see, the lame walk, the lepers are cleansed, and the dumb hear, and the dead arise, and the poor are preached unto. All these things the blessed prophets had before announced, as about in due time to be wrought by My hands. If then I bring to pass those things that were prophecied long before, and ye are yourselves spectators of them, return and tell those things which ye have seen with your own eyes accomplished by My might and ability, and which at various times the blessed prophets foretold. And then He added necessarily to these things; “ And “blessed is he who is not offended in Me!” For the Jews indeed were offended, either as not knowing the depth of the mystery, or because they did not seek to know. For though the inspired Seripture announced beforehand, in every part of it, that the Word of God would humble Himself to emptiness, and be seen upon earth, plainly referring to when He was such as we are, and would justify by faith every thing under heaven, yet they stumbled against Him, and struck against the roek of offence, and fell, and were ground to sot Is. vill. ry, For though they plainly saw Him invested with ineffable dig- eo nity and surpassing glory, by means of the wondrous deeds nae XX. He wrought, they threw stones at Him and said: “ Why dost <sup>3</sup>Pim Sp Af “‘ Thou, being a man, make thysclf God # In answer to these things, Christ reproved the immeasurable infirmity of their intellect, and said; “If I do not the works of My Father, John x. 37. ‘believe Me not: but if I do, then though ye believe not Me, “ believe My works.” Blessed therefore is he, who doth not stumble against Christ; that is, who believeth in Him.
+Saviour’s management. For He does not simply say, l am; though had He so spoken, it would have been true: but He rather leads them to the proof given by the works themselves, in order that having accepted faith in Him on good grounds, and being furnished with knowledge from what had been done, they might so return to him who sent them. “ For go, He “says, tell Jolin the things that ye have seen and heard.” For ye have heard indeed, He says, that I have raised the dead by the all-powerful word, and by the toueh of the hand: ye have seen also, while ye yourselves stood by, that those things that were spoken of old time by the holy prophets are accomplished: the blind see, the lame walk, the lepers are cleansed, and the dumb hear, and the dead arise, and the poor are preached unto. All these things the blessed prophets had before announced, as about in due time to be wrought by My hands. If then I bring to pass those things that were prophecied long before, and ye are yourselves spectators of them, return and tell those things which ye have seen with your own eyes accomplished by My might and ability, and which at various times the blessed prophets foretold. And then He added necessarily to these things; “ And “blessed is he who is not offended in Me!” For the Jews indeed were offended, either as not knowing the depth of the mystery, or because they did not seek to know. For though the inspired Seripture announced beforehand, in every part of it, that the Word of God would humble Himself to emptiness, and be seen upon earth, plainly referring to when He was such as we are, and would justify by faith every thing under heaven, yet they stumbled against Him, and struck against the roek of offence, and fell, and were ground to sot Is. vill. ry, For though they plainly saw Him invested with ineffable dig- eo nity and surpassing glory, by means of the wondrous deeds nae XX. He wrought, they threw stones at Him and said: “ Why dost <sup>3</sup>Pim Sp Af “‘ Thou, being a man, make thysclf God # In answer to these things, Christ reproved the immeasurable infirmity of their intellect, and said; “If I do not the works of My Father, [[John 10#^10-37|John x. 37]]. ‘believe Me not: but if I do, then though ye believe not Me, “ believe My works.” Blessed therefore is he, who doth not stumble against Christ; that is, who believeth in Him.
 
 And what the advantage is that is derived from this, and in
 
@@ -102,15 +102,15 @@ There were then certain who prided themselves upon their performance of what was
 
 *[p. 145]* ^pg169
 
-learnest, and wilt thyself affirm to be the case, when thou meetest with the words of the blessed Paul: for having declared himself to be free from blame in the rightcousness that is by the law, he added forthwith, “ But those things that were Phil. iii. 7. “ gain unto me, those I have counted loss for Christ’s sake : “and do count them but dung, that I may win Christ: not “having my own righteousness which is by the law, but the “ righteousness that is of the faith of Jesus Christ.’ And the Israelites he even considers deserving of great blame, thus saying: “ For being ignorant of God’s righteousness, that nainely Rom. x. 3. “ which is by Christ, and secking to establish their own; even “that which is by the law; they have not submitted them- “ selves to the righteousness of God. For Christ is the com- “ pletion of the law for righteousness unto every one that be- “lieveth.” And again, when speaking of these things: “ We, Gal. ii. rs. “he says, who by nature are Jews, and not sinners of the “ Gentiles, knowing that a man is not justified by the works “ of the law, but by the faith of Jesus Christ, we also have be- “lieved in Jesus Christ, that we may be justified in Him.” The being justified, therefore, by Christ, that is to say, by faith in Him, surpasses the glories of the righteousness that is by the law. For this reason the blessed Baptist is brought forward, as one who had attained the foremost place in legal righteousness, and to a praise so far incomparable. And \_ yet even thus he is ranked as less than one who is least: “ for “the least, He says, is greater than he in the kingdom of “ God.” But the kingdom of God signifies, as we aftirm, the grace that is by faith, by means of which we are accounted worthy of every blessing, and of the possession of the rich gifts which come from above from God. For it frees us from all blame; and makes us to be the sons of God, partakers of the Holy Ghost, and heirs of a heavenly inheritance.
+learnest, and wilt thyself affirm to be the case, when thou meetest with the words of the blessed Paul: for having declared himself to be free from blame in the rightcousness that is by the law, he added forthwith, “ But those things that were [[Philippians 03#^3-7|Phil. iii. 7]]. “ gain unto me, those I have counted loss for Christ’s sake : “and do count them but dung, that I may win Christ: not “having my own righteousness which is by the law, but the “ righteousness that is of the faith of Jesus Christ.’ And the Israelites he even considers deserving of great blame, thus saying: “ For being ignorant of God’s righteousness, that nainely [[Romans 10#^10-3|Rom. x. 3]]. “ which is by Christ, and secking to establish their own; even “that which is by the law; they have not submitted them- “ selves to the righteousness of God. For Christ is the com- “ pletion of the law for righteousness unto every one that be- “lieveth.” And again, when speaking of these things: “ We, Gal. ii. rs. “he says, who by nature are Jews, and not sinners of the “ Gentiles, knowing that a man is not justified by the works “ of the law, but by the faith of Jesus Christ, we also have be- “lieved in Jesus Christ, that we may be justified in Him.” The being justified, therefore, by Christ, that is to say, by faith in Him, surpasses the glories of the righteousness that is by the law. For this reason the blessed Baptist is brought forward, as one who had attained the foremost place in legal righteousness, and to a praise so far incomparable. And \_ yet even thus he is ranked as less than one who is least: “ for “the least, He says, is greater than he in the kingdom of “ God.” But the kingdom of God signifies, as we aftirm, the grace that is by faith, by means of which we are accounted worthy of every blessing, and of the possession of the rich gifts which come from above from God. For it frees us from all blame; and makes us to be the sons of God, partakers of the Holy Ghost, and heirs of a heavenly inheritance.
 
 Having prefaced therefore thus much by way of preparation, and to explain the connection of the ideas, come now, and let us examine the actual words. As I have already said then, He exalts the divine Baptist to a great height, and crowns the Forerunner with surpassing honours purposely ; that thou mayest the more thoroughly adimire faith; as that which makes believers to have a grandcur fur surpassing even that of men thus illustrious. He asks the Jews, then. saying, U
 
 *[p. 146]* ^pg170
 
-1 Pet. i. 24.
+[[1 Peter 01#^1-24|1 Pet. i. 24]].
 
-John i. 29.
+[[John 01#^1-29|John i. 29]].
 
 Mal. iii. 1.
 
@@ -126,11 +126,11 @@ is much too rhetorical to be really S. Cyril’s, and is given by Cramer anonymo
 
 *[p. 147]* ^pg171
 
-many as preceded him, was born of woman: but they who have received the faith, are no more ealled the sons of women, but as the wise Evangelist said, ‘‘ are born of God.” <“ For to John i. 12. all, he says, who reccived Him, that is, Christ, He gave “ power to become the sons of God, even to them who believe “ on His Name: who have been born, not of blood, nor of the “ will of the flesh, nor of the will of man, but of God.” For we have been born again to the adoption of the sons, “ not of 1Pet.i. 23. corruptible seed,” but, as Scripture saith, “ by the living and “ abiding Word of God.” Those then who are not of corruptible seed, but, on the contrary, have been born of God, are superior to any one born of woman.
+many as preceded him, was born of woman: but they who have received the faith, are no more ealled the sons of women, but as the wise Evangelist said, ‘‘ are born of God.” <“ For to [[John 01#^1-12|John i. 12]]. all, he says, who reccived Him, that is, Christ, He gave “ power to become the sons of God, even to them who believe “ on His Name: who have been born, not of blood, nor of the “ will of the flesh, nor of the will of man, but of God.” For we have been born again to the adoption of the sons, “ not of 1Pet.i. 23. corruptible seed,” but, as Scripture saith, “ by the living and “ abiding Word of God.” Those then who are not of corruptible seed, but, on the contrary, have been born of God, are superior to any one born of woman.
 
-There is also another respect in which they surpass those born of women. For they have earthly fathers: but we Hin Who is above in heaven. For we have received this also of Christ, Who calleth us to the adoption of sons and brotherhood with Him. For He has said, \* Ye shall not call any one on Mat. xxiii. “earth father: for One is your Father, Who is in heaven. 2 . « But ye, all of you, are brethren.” And most wise Paul a aa gives us surety of this, writing as follows: “ For because ye Gal. iv. 6. “are sons, God hath sent the Spirit of His Son into your “ hearts, eallmg Father, our Father.” For when Christ rose, and spoiled hell, the spirit of adoption was then given to them that believed on Him, and first of all to the holy disciples; for “ He breathed upon them, saying, Receive ye the Holy Ghost. John xx. “Tf ye remit the sins of any, they are remitted them ; and if 77: “ ye retain the sins of any, they are retained.” For inasmuch as they have beeome partakers of the divine nature, by being richly endowed with that lordly and all-governing Spirit ; therefore He has also given them the godlike power of remitting the sins of whomsocver they will, and of retaining those
+There is also another respect in which they surpass those born of women. For they have earthly fathers: but we Hin Who is above in heaven. For we have received this also of Christ, Who calleth us to the adoption of sons and brotherhood with Him. For He has said, \* Ye shall not call any one on Mat. xxiii. “earth father: for One is your Father, Who is in heaven. 2 . « But ye, all of you, are brethren.” And most wise Paul a aa gives us surety of this, writing as follows: “ For because ye [[Galatians 04#^4-6|Gal. iv. 6]]. “are sons, God hath sent the Spirit of His Son into your “ hearts, eallmg Father, our Father.” For when Christ rose, and spoiled hell, the spirit of adoption was then given to them that believed on Him, and first of all to the holy disciples; for “ He breathed upon them, saying, Receive ye the Holy Ghost. John xx. “Tf ye remit the sins of any, they are remitted them ; and if 77: “ ye retain the sins of any, they are retained.” For inasmuch as they have beeome partakers of the divine nature, by being richly endowed with that lordly and all-governing Spirit ; therefore He has also given them the godlike power of remitting the sins of whomsocver they will, and of retaining those
 
-interpretation of Luke xvii. 21.: to the effect that “the kingdom of “heaven signifies the gift of the “ Holy Ghost,” according to the words, “The kingdom of heaven is “within you.’ Soon after this quotation it runs into the Syriac, at the sentence with which B. 72. ends, with some verbal differences. This sentence will be found in my trinslation at the commencement of the paragraph in page 143: “ Even “though, therefore, we be infe- “rior to them, &c.’? But soon afterwards it diverges again to explain more fully than the Syriac does, that our Lord’s words that from the days of John the kingdom of heaven is taken by force, would not justify the conclusion, that the saints of the old dispensation did not gain admission therein.
+interpretation of [[Luke 17#^17-21|Luke xvii. 21]].: to the effect that “the kingdom of “heaven signifies the gift of the “ Holy Ghost,” according to the words, “The kingdom of heaven is “within you.’ Soon after this quotation it runs into the Syriac, at the sentence with which B. 72. ends, with some verbal differences. This sentence will be found in my trinslation at the commencement of the paragraph in page 143: “ Even “though, therefore, we be infe- “rior to them, &c.’? But soon afterwards it diverges again to explain more fully than the Syriac does, that our Lord’s words that from the days of John the kingdom of heaven is taken by force, would not justify the conclusion, that the saints of the old dispensation did not gain admission therein.
 
 *[p. 148]* ^pg172
 
@@ -138,9 +138,9 @@ John vii.
 
 39-
 
-John xvi. 7.
+[[John 16#^16-7|John xvi. 7]].
 
-Mat. iii. 14.
+[[Matthew 03#^3-14|Mat. iii. 14]].
 
 of all others. But that previously to the resurrection of Clist from the dead, and His ascent to heaven, there was not among men the spirit of adoption, the most wise Evangelist Joha makes plain where he says: “ For the Spirit was not as yet: “because that Jesus was not yet glorified.” And yet certainly, how ean the Spirit be unequal in eternity to God the Father, and the Son? And when did He not exist, Who is before all? For He is eqnal in substance to the Father, and the Son. “ But inasmuch as Christ, he says, was not yet glo- “ vified,” that is to say, had not yet risen from the dead, and ascended to heaven, the spirit of adoption did not as yet exist for men. But when the Only-begotten Word of God ascended up into heaven, \[fe sent down for us in His stead the Comforter, Who is in us by Him. And this He taught us, thus saying : “It is expedient for you that I go away: for it I go “not away, the Comforter will not come unto you: but when “ T have departed, I will send Him unto you.”
 
@@ -180,7 +180,7 @@ y Concerning this quotation, which very frequently is met within S. Cyril, three
 
 Usher, who contended that it belonged to some apocryphal Gospel, as that of the Hebrews: 2°. that of Crojus, who considered that it was collected by the Fathers from Christ’s parable of the Talents:
 
-and 3°. that of Sylburgius, who referred it to St. Paul’s Epistle to the Thessalonians, I. vy. 21. That the last alone is true, the Syriac here goes far to prove, quoting it expressly from St. Paul, as also do S. Cyril’s Greek remains, as his Commentary on Is. iii., on Joh. vii. 12., &e. In the previous Sermon also the quotation has already occurred, coupled with a portion of the same text, “ prove all things.” And Tischen-dorf gives it as a different reading of the passage in ‘hes. from Chrysostom, Theodoret, (sec. v.), Am-brosiaster, (sec. iii. yel iv.), and CG£cumenius, (sie. xi.) ‘lhe patristic authority for this opinion is, however, really far greater, as it occurs frequently in their works, in connection with the two other main portions of St. Paul’s command. Thus Basil the Great (see. iv.), in his homily on the beginning of the book of Proverbs, says: as déxupos tpareCirns, ro pev Sdxyov xabeker, dro S€ ravros cious trovnpod apétera. And Athanasius, Hom. in Mat. xxi. 8. ds Sdéxysor tpame irae TO Kadov exAcE@peOa, amd TavTos et-Sous movnpov amexopevor. And similar quotations might be multiplied indefinitely. On the contrary, however, Origen, in the Latin version of his Commentary in Johannem, and Jerome, Ep. ad Minerium, quote it as a saying of our Lord’s: there can, however, be little doubt 35-
+and 3°. that of Sylburgius, who referred it to St. Paul’s Epistle to the Thessalonians, I. vy. 21. That the last alone is true, the Syriac here goes far to prove, quoting it expressly from St. Paul, as also do S. Cyril’s Greek remains, as his Commentary on Is. iii., on [[John 07#^7-12|Joh. vii. 12]]., &e. In the previous Sermon also the quotation has already occurred, coupled with a portion of the same text, “ prove all things.” And Tischen-dorf gives it as a different reading of the passage in ‘hes. from Chrysostom, Theodoret, (sec. v.), Am-brosiaster, (sec. iii. yel iv.), and CG£cumenius, (sie. xi.) ‘lhe patristic authority for this opinion is, however, really far greater, as it occurs frequently in their works, in connection with the two other main portions of St. Paul’s command. Thus Basil the Great (see. iv.), in his homily on the beginning of the book of Proverbs, says: as déxupos tpareCirns, ro pev Sdxyov xabeker, dro S€ ravros cious trovnpod apétera. And Athanasius, Hom. in Mat. xxi. 8. ds Sdéxysor tpame irae TO Kadov exAcE@peOa, amd TavTos et-Sous movnpov amexopevor. And similar quotations might be multiplied indefinitely. On the contrary, however, Origen, in the Latin version of his Commentary in Johannem, and Jerome, Ep. ad Minerium, quote it as a saying of our Lord’s: there can, however, be little doubt 35-
 
 twy BGTs.
 
@@ -205,14 +205,14 @@ B. f. 73, interpreting the mourners former being generally of woe and punishment
 *[p. 151]* ^pg175
 
 “ came, He says, neither eating bread nor drinking wine, and “ they say, that he hatha devil: the Son of man came eating |
-“ and drinking; and they say, Behold! a man gluttonous, and “ a wine drinker, a friend of publicans and sinners.” By what then wilt thou be won unto the faith, O foolish Pharisee, when thou thus blamest all things indifferently, nor countest anything worthy of thy praise? The blessed Baptist was the forerunner of the Saviour, saying, ‘ Repent ye, for the kingdom Mat. iii. 2. “ of God is at hand.” For he was a man fit to win confidence, and able to persuade, as having even from them the testimony that his life was noble, and worthy of admiration. For he dwelt in the deserts, clad in poor and rough clothing, and scarcely allaying the necessities of the body with locusts and wild honey. Thou wentest out to sce him as one who was holy, and had attained to the perfection of all virtue. And dost thou venture afterwards to speak ill of such a one? of one who ought rather to be counted worthy of all admiration? Dost thou say that he hath a devil, who by fastings is mortifying the law of sin that lurks in our fleshly members, and wars Rom. vii. against the law of our mind? What is greater than a life of \*\* abstinence? For the very fact of being able to rebuke wisely those pleasures that lead to evil, and to cast over them as a bridle the laboriousness of a life of abstinence, how is not this a great and excellent thing! The blessed Baptist was entirely# devoted to piety unto Christ; nor was there in him the very slightest regard either for fleshly lusts, or for the things of this world. Having altogether abandoned, therefore, the vain and unprofitable distractions of this world, he laboured at one, and that a very urgent task, of blamelessly fulfilling the ministry entrusted to him. For he was commanded to preach, saying : “Prepare ye the way of the Lord.” Tell me, dost thon think Is. xl. 3. that this man hath a devil?—one over whom the tyranny of Satan had no power; who was the captive of no evil lusts ; who had overleapt the pitfalls of the base love of the flesh ; who had commanded the herds of demons to be still, and manfully resisted their attacks. For verily he could not have attained to this glory and virtue but through Christ, Who is ex-
+“ and drinking; and they say, Behold! a man gluttonous, and “ a wine drinker, a friend of publicans and sinners.” By what then wilt thou be won unto the faith, O foolish Pharisee, when thou thus blamest all things indifferently, nor countest anything worthy of thy praise? The blessed Baptist was the forerunner of the Saviour, saying, ‘ Repent ye, for the kingdom [[Matthew 03#^3-2|Mat. iii. 2]]. “ of God is at hand.” For he was a man fit to win confidence, and able to persuade, as having even from them the testimony that his life was noble, and worthy of admiration. For he dwelt in the deserts, clad in poor and rough clothing, and scarcely allaying the necessities of the body with locusts and wild honey. Thou wentest out to sce him as one who was holy, and had attained to the perfection of all virtue. And dost thou venture afterwards to speak ill of such a one? of one who ought rather to be counted worthy of all admiration? Dost thou say that he hath a devil, who by fastings is mortifying the law of sin that lurks in our fleshly members, and wars Rom. vii. against the law of our mind? What is greater than a life of \*\* abstinence? For the very fact of being able to rebuke wisely those pleasures that lead to evil, and to cast over them as a bridle the laboriousness of a life of abstinence, how is not this a great and excellent thing! The blessed Baptist was entirely# devoted to piety unto Christ; nor was there in him the very slightest regard either for fleshly lusts, or for the things of this world. Having altogether abandoned, therefore, the vain and unprofitable distractions of this world, he laboured at one, and that a very urgent task, of blamelessly fulfilling the ministry entrusted to him. For he was commanded to preach, saying : “Prepare ye the way of the Lord.” Tell me, dost thon think Is. xl. 3. that this man hath a devil?—one over whom the tyranny of Satan had no power; who was the captive of no evil lusts ; who had overleapt the pitfalls of the base love of the flesh ; who had commanded the herds of demons to be still, and manfully resisted their attacks. For verily he could not have attained to this glory and virtue but through Christ, Who is ex-
 
 2\. Mai, who has part of this pas- tearis tis eis Xpeorov evoeBecas, for sage, reads, 600s jv 6 paxdptos Bax- which the Syriac has OAos.
 
 
 *[p. 152]* ^pg176
 
-Luke x. 41.
+[[Luke 10#^10-41|Luke x. 41]].
 
 Sic etiam B.
 
@@ -238,9 +238,9 @@ But thou sayest, the law of Moses commanded that “ we Ex. xxiii. “ should no
 
 *[p. 154]* ^pg178
 
-Luke v. 32.
+[[Luke 05#^5-32|Luke v. 32]].
 
-Luke v. 31.
+[[Luke 05#^5-31|Luke v. 31]].
 
 the path of wickedness, to choose the way that leadeth to eternal life. ‘‘ He came not to call the righteous, but sinners, “ to repentance.” And as He said Himself, “ They that are “ whole need not a Physician: but they that are sick.” Why therefore dost thou blame Him for loving man so well, and find fault with His godlike gentleness? Why reproach Him for being kind to us, and healing our sickness? And yet every body praises physicians, not when they avoid those who are sick, but when they are constantly with them, and by the resources of their art bring them gradually back to sound health. And why then, since Jesus is the Physician of souls and spirits, dost thou blame Him for saving sinners? He could sustain no pollution, even though He ate with sinners: for yon bright sun sheds its radiance upon, and visits every thing under heaven: it chances, then, that impurities also are found lying exposed to it: but that which pours down this radiance is not in the least defiled, even though it shed it on matters so abominable.4 Our Lord Jesus Christ is the Sun of Righteousness: a wicked man, then, in no way whatsoever defiles Him, though close at His side, and eating with Him.
 
@@ -289,7 +289,7 @@ Ps.xiviir. “ ALL ye people, clap your hands, and praise God with “the voice 
 
 *[p. 157]* ^pg181
 
-For the law, which the all-wise Moses ordained, was for the reproof of sin, and the condemnation of offences: but it justified absolutely no one. For the very wise Paul writes, ‘“ Whosoever rejected the law of Moses, was put Heb. x. 28. “to death without mercy at the mouth of two or three \* witnesses.” But our Lord Jesus Christ, having removed the curse of the law, and proved the commandment which condemns to be powerless and inoperative, became our mereiful High Priest, according to the words of the blessed Paul. Heb. ii. 17. For He justities the wicked by faith, and sets free those held captive by their-sins. And this He proclaimed to us by one of the holy prophets, saying, “In those days, and at that time, Jer. 1. 20. ‘saith the Lord, they shall seck for the sin of Israel, and “there shall be none: and for the sin of Judah, and thou “ shalt not find it: for I will be merciful to those that have “ been left in the land, saith the Lord.” But lo! the fulfilment of the promise came to pass for us at the time of His Incarnation, as we are assured by the purport of the holy Gospels. For he was invited by one of the Pharisees, and being kind and loving unto man, and “willing that all men should be “ saved, and come to the knowledge of the truth,” He consented, and granted the favour to him who requested it. And having entered, He reclined at table: and immediately there entered a woman defiled with filthy lewdness: who, like one searcely roused from wine and intoxication, and made sensible of the guilt of her transgressions, offered supplication unto Christ, as able to cleanse her, and deliver her from all 1Tim. ii. 4.
+For the law, which the all-wise Moses ordained, was for the reproof of sin, and the condemnation of offences: but it justified absolutely no one. For the very wise Paul writes, ‘“ Whosoever rejected the law of Moses, was put [[Hebrews 10#^10-28|Heb. x. 28]]. “to death without mercy at the mouth of two or three \* witnesses.” But our Lord Jesus Christ, having removed the curse of the law, and proved the commandment which condemns to be powerless and inoperative, became our mereiful High Priest, according to the words of the blessed Paul. [[Hebrews 02#^2-17|Heb. ii. 17]]. For He justities the wicked by faith, and sets free those held captive by their-sins. And this He proclaimed to us by one of the holy prophets, saying, “In those days, and at that time, Jer. 1. 20. ‘saith the Lord, they shall seck for the sin of Israel, and “there shall be none: and for the sin of Judah, and thou “ shalt not find it: for I will be merciful to those that have “ been left in the land, saith the Lord.” But lo! the fulfilment of the promise came to pass for us at the time of His Incarnation, as we are assured by the purport of the holy Gospels. For he was invited by one of the Pharisees, and being kind and loving unto man, and “willing that all men should be “ saved, and come to the knowledge of the truth,” He consented, and granted the favour to him who requested it. And having entered, He reclined at table: and immediately there entered a woman defiled with filthy lewdness: who, like one searcely roused from wine and intoxication, and made sensible of the guilt of her transgressions, offered supplication unto Christ, as able to cleanse her, and deliver her from all 1Tim. ii. 4.
 
 fault, and free her from her former sins, as “ not remem- Heh. viii. “ bering iniquities.” And this she did, washing His feet with tears, and anointing them with ointment, and wiping them with her hair. Thus a woman, who beforetime had been lewd, and guilty of sensuality, a sin diilicult to wash away, missed not the path of salvation; for she fled for refuge to Him Who knoweth how to save, and is able to raise from the depths of
 
@@ -303,7 +303,7 @@ Ez. xxii.
 
 26\.
 
-Gal. iii. 19.
+[[Galatians 03#^3-19|Gal. iii. 19]].
 
 Rom. iii.
 
@@ -311,7 +311,7 @@ and utterly without understanding. For it was his duty rather to regulate his ow
 
 That proud and foolish Pharisee therefore did not even deem Jesus to have attained to the measure of a prophet: but He made the woman’s tears an opportunity for clearly instructing him in the mystery. For He taught the Pharisee, and all who were assembled there, that the Word being God, ‘came into the world in our likeness, not to \*\* condemn the world, but that the world might be saved by \*\* Vim.” He came that He might forgive the debtors much and little, and shew mercy upon small and great, that there might be no one whatsoever who did not participate in His goodness. And as a pledge and plain example of His grace, He freed that unchaste woman from her many iniquities by saying, “ Thy sins are forgiven thee.” Worthy indeed of God is a declaration such as this! It is a word joined with supreme authority. For since the law condemned those that were in sin, who, L ask, was able to declare things above the law, except Him only Who ordained it? \[Immediately therefore He
 
-19. John iii. 17.
+19. [[John 03#^3-17|John iii. 17]].
 
 *[p. 159]* ^pg183
 
@@ -321,7 +321,7 @@ cause He willeth merey ?’
 
 Those therefore who were at meat with the Pharisee, were astonished and wondered at seeing Christ the Saviour of all possessed of such godlike supremacy, and using expressions above the right of man. For they said, “ Who is This That “ forgiveth sins also?” Dost thou wish me to tell thee Who He is? He Who is in the bosom of God the Father, and was begotten of Him by nature: by Whom every thing was brought into being : Who possesses supreme sovereignty, and is worshipped by every thing in heaven and in earth. He submitted Himself to our estate, and became our High Priest, in order that He might present us unto God, pure and clean, having put off the ill savour of sin, and having Him instead in us as a sweet savour. For, as most wise Paul writes, ‘“‘ We are « a sweet savour of Christ unto God.” This is He Who spake Mic. vii.17.
 
-Col. i. 22.
+[[Colossians 01#^1-22|Col. i. 22]].
 
 2 Cor. ii.
 
@@ -331,7 +331,7 @@ therefore, that the actual accomplishment agreed with what had before been promi
 
 *[p. 160]* ^pg184
 
-2Cor. iii. 6.
+[[2 Corinthians 03#^3-6|2Cor. iii. 6]].
 
 Ps. evii. 42.
 
@@ -345,7 +345,7 @@ Rom. iii.
 
 12\.
 
-Phil. ii. 7.
+[[Philippians 02#^2-7|Phil. ii. 7]].
 
 Joel i. 5.
 
@@ -375,11 +375,11 @@ f "Epnpos, desolate, though re- loxenian versions, and our own textained by both
 
 *[p. 163]* ^pg187
 
-But their wicked acts did not extend merely to the holy prophets, but even mounted up to Him Who is Lord of the prophets: that is Christ. For being insolent, and setting up against Him, so to speak, their haughty neck, they gave not the slightest heed to the duty of receiving faith in Hun: and even wickedly resisted His public teaching, and rebuked those who wished to be constantly with Him, and thirsted for His instruction, impiously saying, “ He hath a devil and is mad : John x. 20. why hear ye Him?” To them therefore it was not granted to know the mysteries of the kingdom of heaven, but rather unto us, who are more ready to embrace the faith. for He hath given unto us, as being perfect wisdom, the ability “to un- Prov. i. 6. ‘derstand parables, and the dark saying, the words of the “wise, and their riddles.”
+But their wicked acts did not extend merely to the holy prophets, but even mounted up to Him Who is Lord of the prophets: that is Christ. For being insolent, and setting up against Him, so to speak, their haughty neck, they gave not the slightest heed to the duty of receiving faith in Hun: and even wickedly resisted His public teaching, and rebuked those who wished to be constantly with Him, and thirsted for His instruction, impiously saying, “ He hath a devil and is mad : [[John 10#^10-20|John x. 20]]. why hear ye Him?” To them therefore it was not granted to know the mysteries of the kingdom of heaven, but rather unto us, who are more ready to embrace the faith. for He hath given unto us, as being perfect wisdom, the ability “to un- Prov. i. 6. ‘derstand parables, and the dark saying, the words of the “wise, and their riddles.”
 
 images not of visible objects, but rather of those cognizable by the intellect and spiritual. For that which it is impossible to see with the eyes of the body, the parable points out unto the eyes of the mind, beautifully shaping out the subtilty of things intellectual, by means of the things of sense, and which are as it were palpable to the touchs. Let us see therefore what benefit the Saviour’s word weaves for us.
 
-The Sower, He says, went out to “sow his seed, and so “forth.” Concerning whom then did He thus speak ? Evidently concerning Himself. For He verily is the Sower of all that is good, and we are His husbandry: and by Him and from Him is the whole harvest of spiritual fruits. And this He taught us when saying, “ Without Me ye can do nothing.” John xv. 5.
+The Sower, He says, went out to “sow his seed, and so “forth.” Concerning whom then did He thus speak ? Evidently concerning Himself. For He verily is the Sower of all that is good, and we are His husbandry: and by Him and from Him is the whole harvest of spiritual fruits. And this He taught us when saying, “ Without Me ye can do nothing.” [[John 15#^15-5|John xv. 5]].
 
 In the imaginations therefore of the mind, see, I pray, a husbandman walking along, and everywhere casting seed in the fields: of which some falls on the pathways, and some on the rocks; and some on thorny places: and again some on good, that is, on fertile ground. That however on the path-For parables we may say are the
 
@@ -411,7 +411,7 @@ I think too that I may rightly bring forward the following argument: they who gl
 
 *[p. 166]* ^pg190
 
-Luke xii. 4.
+[[Luke 12#^12-4|Luke xii. 4]].
 
 Rom. xiv.g.
 
@@ -439,7 +439,7 @@ But I think it may be useful to mention this to you, who wish to learn what is g
 
 k In this quotation, which repeat- next, rod xoopod is substituted after edly occurs in this Commentary, 4 dAagoveia for rod Biov : and lastly, the latter clause of v.16 is always by the insertion of the copula in the omitted, viz. ot« €arw éx Tov ma- previous clause, the sense is fixed as tpos, adda €x tot kocpov éoriv: {| have translated it.
 
-1 Tim. vi. 7.
+[[1 Timothy 06#^6-7|1 Tim. vi. 7]].
 
 Proy, x. 2.
 
@@ -447,11 +447,11 @@ Proy, x. 2.
 
 Malach. iii. 12s
 
-Matt. xiii. 23.
+[[Matthew 13#^13-23|Matt. xiii. 23]].
 
 *[p. 168]* ^pg192
 
-1 Cor. vii. 7, ‘cand one sixty, and one thirtyfold.” Observe therefore, that just as Christ described three degrees of loss, so similarly the degrees of success are equal in number. For those seeds that fall upon the pathway are snatched away by the birds: and those’ upon the rocks, having merely shot up, within a little while wither away: and those among the thorns are choked. But that desirable land brings forth fruit in three several degrees, as I said: a hundred, sixty, and thirtyfold. For as most wise Paul writes, “ Each one severally of us has his own “« oift from God, one in one manner, and another in another.” For we do not at all find that the successes of the saints are in equal measure. On us however it is incumbent to emulate these things that are better and superior to those of meaner kind; for so will Christ bountifully bestow happiness upon us: by Whom and with Whom, to God the Father be praise and dominion with the Holy Ghost, for ever and ever, Amen.
+[[1 Corinthians 07#^7-7|1 Cor. vii. 7]], ‘cand one sixty, and one thirtyfold.” Observe therefore, that just as Christ described three degrees of loss, so similarly the degrees of success are equal in number. For those seeds that fall upon the pathway are snatched away by the birds: and those’ upon the rocks, having merely shot up, within a little while wither away: and those among the thorns are choked. But that desirable land brings forth fruit in three several degrees, as I said: a hundred, sixty, and thirtyfold. For as most wise Paul writes, “ Each one severally of us has his own “« oift from God, one in one manner, and another in another.” For we do not at all find that the successes of the saints are in equal measure. On us however it is incumbent to emulate these things that are better and superior to those of meaner kind; for so will Christ bountifully bestow happiness upon us: by Whom and with Whom, to God the Father be praise and dominion with the Holy Ghost, for ever and ever, Amen.
 
 *[p. 169]* ^pg193
 
@@ -465,7 +465,7 @@ Now let not any one imagine that Christ spurned the honour due to His mother, or
 
 *[p. 170]* ^pg194
 
-to His brethren: for He it was Who spake the law by Moses, Deat. v.16. and clearly said, “ Honour thy father and thy mother, that it “ may be well with thee.” And how I pray could He have rejected the love due to brethren, Who even commanded us to love not merely our brethren, but those who stand in the rela-Mat. v. 44. tion to us of foes? For He says, “ Love your enemies.” What
+to His brethren: for He it was Who spake the law by Moses, Deat. v.16. and clearly said, “ Honour thy father and thy mother, that it “ may be well with thee.” And how I pray could He have rejected the love due to brethren, Who even commanded us to love not merely our brethren, but those who stand in the rela-[[Matthew 05#^5-44|Mat. v. 44]]. tion to us of foes? For He says, “ Love your enemies.” What
 
 Ts. Ixvi. 2.
 
@@ -487,15 +487,15 @@ In order then that Christ may win us all unto obedience, He promises us surpassi
 
 Phil. ti. 8.
 
-Rom. v. 19.
+[[Romans 05#^5-19|Rom. v. 19]].
 
-2 Cor. v. 17.
+[[2 Corinthians 05#^5-17|2 Cor. v. 17]].
 
 om, Ta war-Ta BS. retinent GTs.
 
 *[p. 172]* ^pg196
 
-John xiv. 3.
+[[John 14#^14-3|John xiv. 3]].
 
 James 1.22.
 
@@ -503,7 +503,7 @@ om. dt: sol.
 
 épywy sol,
 
-Heb. vi. 7.
+[[Hebrews 06#^6-7|Heb. vi. 7]].
 
 He is, there we also may be with Him. For this He even deigned to promise us, saying, ‘I will go, and make ready a \* place for you: and return again and take you with Me, that \* where I ain, there ye also may be with Me.”
 
@@ -559,7 +559,7 @@ Sic etiam cod. Gr.
 
 Mar@aios.
 
-Mark iv.39.
+[[Mark 04#^4-39|Mark iv.39]].
 
 Ps, Ixxxix.
 

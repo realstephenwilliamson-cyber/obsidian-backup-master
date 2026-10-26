@@ -29,7 +29,7 @@ yo yatra śāstre svabhyastajñāno vyākhyāṃ carettu saḥ || ^iast
 >
 > It is taught (in that scripture) that a teacher is (of five) different kinds. 1) (He may be a teacher) who knows (some ritual) procedures (used to worship particular deities for a specific purpose) (kalpa); 2) (he may be) one who knows a (large) collection of them; 3) (he may be one who) knows (a particular corpus of) scripture (śāstra) (or) 4) knows the meaning of (just one) Āgama (sarṁitā) or 5) one who knows the contents (artha) of all the scriptures. (with 28.386cd–387ab)
 >
-> (The teacher) whose knowledge of a (corpus of) scripture (śāstra) is well-practiced may explain it, not another.’. Now, if there is no (teacher like) that in all respects, he (who is available) may also do that. (with 28.387cd–388ab)
+> (The teacher) whose knowledge of a (corpus of) scripture (śāstra) is well-practiced may explain it, not another. Now, if there is no (teacher like) that in all respects, he (who is available) may also do that. (with 28.387cd–388ab)
 
 ## Viveka
 

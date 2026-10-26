@@ -45,7 +45,7 @@ But “To every *tichlah* I have seen an end”:[^49] *tichlah* is an idiom of *
 [^1]: See see *Igrot Kodesh Admur Hazaken* (Kehot, 2012), pp. 374-375, for the opening paragraph of this section.
 [^2]: See above, Epistle 4, note 44.
 [^3]: The principal and the fruits of the good deeds.—Mishnah, *Peah* 1:1.
-[^4]: Lit., The Life of life (cf. [[Yoma 71#71a|*Yoma* 71a]]; *Tikkunei Zohar* 19 ([[Tikkunei Zohar 041b|41b]]); ibid., 69 (115a); and see below, end of Epistle 22a).
+[^4]: Lit., The Life of life (cf. *Yoma* [[Yoma 71#71a|71a]]; *Tikkunei Zohar* 19 ([[Tikkunei Zohar 041b|41b]]); ibid., 69 (115a); and see below, end of Epistle 22a).
 [^5]: See above, Epistle 11, note 5.
 [^6]: [[Psalms 119#^119-96|Psalms 119:96]].
 [^7]: Cf. *Rashi*, ad loc.
@@ -57,23 +57,23 @@ But “To every *tichlah* I have seen an end”:[^49] *tichlah* is an idiom of *
 [^13]: The *or sovev*, or *or makif*; see above, Epistle 3, note 12.
 [^14]: Permeating all worlds (thus the *or pnimi*); see above, Epistle 3, note 12.
 [^15]: This radiation of the Divine immence, the *or pnimi*, is an immensely screened derivative of the *or makif*, the radiation of the Divine transcendence. As the worlds develop from higher to lower, the *or pnimi* is contracted ever more.
-[^16]: [[Menachot 29#29b|*Menachot* 29b]].—See above, Epistle 5.
+[^16]: *Menachot* [[Menachot 29#29b|29b]].—See above, Epistle 5.
 [^17]: Above, Epistle 5, note 16.—The *yud*, by its very form as a simple point, indicates the immense contraction of the Divine light contained in it. The *or pnimi* thus is related to the *sefirah* of *chochmah* (cf. above, Epistle 3, note 12).
 [^18]: Ibid., note 17.
 [^19]: [[Psalms 104#^104-24|Psalms 104:24]].
 [^20]: [[Ecclesiastes 07#^7-12|Ecclesiastes 7:12]].—See Addendum, *Mystical Concepts in Chassidism*, s.v. *Chochmah* (cf. above, beg. of Epistle 5; Epistle 11, note 10; Epistle 14, note 14).
 [^21]: See *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-129b|I:129b]]; ibid., [[Zohar 10.08 - Parashat Toledot#^z1-135b|135b]] (*Midrash Hane’elam*).
 [^22]: See *Zohar* [[Zohar 9.04 - Rav Metivta#^z3-169b|III:169b]]; cf. ibid., [[Zohar 9.03 - Parashat Shelah Lekha#^z3-159b|159b]] ff.
-[^23]: See [[Bava Metzia 86#86a|*Bava Metzia* 86a]].
+[^23]: See *Bava Metzia* [[Bava Metzia 86#86a|86a]].
 [^24]: “Encompassing all worlds,” thus the *or makif*; see above, Epistle 3, note 12.
-[^25]: [[Berakhot 17#17a|*Berachot* 17a]]; Maimonides, *Hilchot Teshuvah* 5:2. Cf. *Tikkunei Zohar* 36 (78a).
+[^25]: *Berachot* [[Berakhot 17#17a|17a]]; Maimonides, *Hilchot Teshuvah* 5:2. Cf. *Tikkunei Zohar* 36 (78a).
 [^26]: Crown; garland. Cf. *Tikkunei Zohar* 70 (135a) on the subtle distinction between *keter* and *atarah*.
 [^27]: Capitol.—See *Etz Chaim* 23:2 and cf. *Pardes Rimonim* 23:11, s.v. *Keter*. Cf. below, Epistle 29 (note 34, ad loc.).
 [^28]: See *Etz Chaim* 42:1; cf. *Pardes Rimonim* 3:1 ff.—See Addendum, ibid., s.v. *Keter*.
 [^29]: The *or makif* thus is related to the *sefirah* of *keter*, transcending *chochmah* and its apprehension in Eden (cf. above, Epistle 3, note 12).
 [^30]: Brackets appear in the text.
 [^31]: [[Isaiah 60#^60-21|Isaiah 60:21]].
-[^32]: [[Bava Batra 75#75b|*Bava Batra* 75b]].
+[^32]: *Bava Batra* [[Bava Batra 75#75b|75b]].
 [^33]: See above, Epistle 7, note 7.
 [^34]: *Kadosh*, holy, thus refers to *keter*, the *sefirah* which is separate and distinct from the *sefirot* transcending them all. (See Addendum, ibid.) *Chochmah*, in itself also distinct and inapprehensible (ibid.), is also referred to as “holy” (see above, Epistle 10, note 41). In that context *keter* is then called *kodesh hakedoshim*, the “holy of holies,” i.e., the essential, absolute holiness. See *Zohar* [[Zohar 5.04 - Sava de-Mishpatim#^z2-121a|II:121a]].
 [^35]: [[Job 28#^28-12|Job 28:12]].
@@ -83,14 +83,14 @@ But “To every *tichlah* I have seen an end”:[^49] *tichlah* is an idiom of *
 [^39]: *Sefer Yetzirah* 1:7.
 [^40]: Liturgy, Hymn of *Lecha Dodi*.
 [^41]: In the text appears here (in brackets): etc. A parenthesis suggests instead: each one.
-[^42]: *Tikkunei Zohar*, Introduction 12a; ibid., 19 ([[Tikkunei Zohar 038b|38b]]) (see *Ketuvot* 111b; cf. [[Shabbat 88#88b|*Shabbat* 88b]]; [[Chagigah 12#12b|*Chagigah* 12b]]; *et passim*).
+[^42]: *Tikkunei Zohar*, Introduction 12a; ibid., 19 ([[Tikkunei Zohar 038b|38b]]) (see *Ketuvot* 111b; cf. *Shabbat* [[Shabbat 88#88b|88b]]; *Chagigah* [[Chagigah 12#12b|12b]]; *et passim*).
 [^43]: At the Resurrection of the Dead.
 [^44]: The Torah, which is called *keter* (cf. *Avot* 4:13, and below, Epistle 29).
-[^45]: [[Proverbs 06#^6-22|Proverbs 6:22]]. Enabling man to reach a level he could not attain previously; *Zohar* [[Zohar 3.04 - Parashat Va-Yeshev#^z1-185a|I:185a]]; and *Nitzutzei Orot*, ad loc. Set also *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-175b|I:175b]]; and cf. *Avot* 6:9; [[Sotah 21#21a|*Sotah* 21a]]; *Tikkunei Zohar* 31 (75b-76a).
+[^45]: [[Proverbs 06#^6-22|Proverbs 6:22]]. Enabling man to reach a level he could not attain previously; *Zohar* [[Zohar 3.04 - Parashat Va-Yeshev#^z1-185a|I:185a]]; and *Nitzutzei Orot*, ad loc. Set also *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-175b|I:175b]]; and cf. *Avot* 6:9; *Sotah* [[Sotah 21#21a|21a]]; *Tikkunei Zohar* 31 (75b-76a).
 [^46]: Brackets appear in the text.
 [^47]: *Piyut Atah Hu Elokenu* (*Machzor*, Rosh Hashanah and Yom Kippur).
-[^48]: See *Targum* on [[Psalms 119#^119-96|Psalms 119:96]]; [[Eruvin 21#21a|*Eruvin* 21a]] and *Rashi*, ad loc.
+[^48]: See *Targum* on [[Psalms 119#^119-96|Psalms 119:96]]; *Eruvin* [[Eruvin 21#21a|21a]] and *Rashi*, ad loc.
 [^49]: Beginning of the verse ([[Psalms 119#^119-96|Psalms 119:96]]).
 [^50]: See *Zohar Chadash*, *Bereishit* [[Zohar 10.03 - Parashat Be-Reshit#^zh-18a|18a]].
 [^51]: See above, Epistle 5, note 103.
-[^52]: [[Berakhot 64#64a|*Berachot* 64a]].
+[^52]: *Berachot* [[Berakhot 64#64a|64a]].

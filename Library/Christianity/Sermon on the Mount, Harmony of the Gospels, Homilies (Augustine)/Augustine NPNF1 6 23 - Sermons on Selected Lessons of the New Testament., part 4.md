@@ -14,7 +14,7 @@ converted: 2026-10-15
 
 *[p. 648]* ^pg674
 
-*On the words of the Gospel, Matt. x. 28, ‘Be not afraid of them that kill…*
+*On the words of the Gospel, [[Matthew 10#^10-28|Matt. x. 28]], ‘Be not afraid of them that kill…*
 
 Him visible out of the earth, and with His Breath He breathed into Him an invisible Spirit. Therefore the invisible substance, that is, the soul, which has raised from the earth the earth as it lay, does not fear, when thou assaultest the earth. Thou canst strike the habitation, but canst thou strike him who dwells there? When the chain is broken, he escapes who before was bound, and he will now be crowned in secret. Why then dost thou threaten me, who canst do nothing to my soul? Through the desert of that to which thou canst do nothing, will that to which thy power extends rise again. For through the soul’s desert, will the flesh also rise again; and will be restored to its inhabitant, now no more to fail, but to endure for ever. Behold (I am using the words of a Martyr), behold, I say, not even on account of my body do I fear thy threats. My body indeed is subject to thy power; but even the hairs of my head are numbered by my Creator. Why should I fear lest I lose my body, who cannot even lose a hair? How shall he not have a care of my body, to whom my meanest things are so well known? This body which may be wounded and slain will for a time be ashes, but it will be for ever immortal. But to whom shall this be? To whom shall the body be restored for life eternal, even though it have been slain, destroyed, and scattered to the winds? to whom shall it be so restored? To him who has not been afraid to lay down his own life, since he does not fear, lest his body should be slain.
 
@@ -22,11 +22,11 @@ Him visible out of the earth, and with His Breath He breathed into Him an invisi
 
 5\. Hitherto I have confirmed, not solved, the difficulty. I have proved that the soul can be slain. The Gospel cannot be gainsaid but by the ungodly soul. Lo, something occurs to me here, and comes into my mind to speak. Life cannot be gainsaid, but by a dead soul. The
 
-1 Tim. vi. 16.
+[[1 Timothy 06#^6-16|1 Tim. vi. 16]].
 
 *[p. 649]* ^pg675
 
-*On the words of the Gospel, Matt. x. 28, ‘Be not afraid of them that kill…*
+*On the words of the Gospel, [[Matthew 10#^10-28|Matt. x. 28]], ‘Be not afraid of them that kill…*
 
 Gospel is life, impiety and infidelity are the death of the soul. See then, it can die, and yet it is immortal. How then is it immortal? Because there is always a sort of life which is never extinguished in it. And how does it die? Not in ceasing to be life, but by losing its life. For the soul is both life to something else, and it has its own proper life. Consider the order of the creatures. The soul is the life of the body: God is the life of the soul. As the life, that is the soul, is present with the body, that the body die not; so ought the life of the soul, that is God, to be with it that the soul die not. How does the body die? By the soul’s leaving it. I say, by the soul’s leaving it the body dies; and it lies along a mere carcass, what was a little before a desirable, now a contemptible, object. There are in it still its several members, the eyes, and ears; but these are but the windows of the house, its inhabitant is gone. They who bewail the dead, cry in vain at the windows of the house; there is none within to hear. How many things does the fond affection of the mourner give utterance to, how many enumerate and call to mind; and with what a madness of sorrow, so to say, does he speak, as with one who was sensible of what was doing, when he is really speaking with one who is no longer there? He recounts his good qualities, and the tokens of his goodness towards himself. It was thou that didst give me this; and did this and that for me; it was thou who didst thus and thus dearly love me. But if thou wouldest only consider and understand, and restrain the madness of thy grief, he who once loved thee, is gone; in vain does the house receive thy knockings, in which thou canst not find a dweller.
 
@@ -34,7 +34,7 @@ Gospel is life, impiety and infidelity are the death of the soul. See then, it c
 
 *[p. 650]* ^pg676
 
-*On the words of the Gospel, Matt. x. 28, ‘Be not afraid of them that kill…*
+*On the words of the Gospel, [[Matthew 10#^10-28|Matt. x. 28]], ‘Be not afraid of them that kill…*
 
 who liveth in pleasure is dead.”<sup>2230</sup> Now since the difference is great between “pleasure” and adultery, how can the soul which is said to be dead in pleasure, live in adultery? It is surely dead. But it is dead even though it be not in this case. I hear a man speaking; the body then lives. For the tongue could not move itself in the mouth, and by its several motions give utterance to articulate sounds, were there not an inhabitant within; and a musician as it were to this instrument, to make use of his tongue. I understand it perfectly. Thus the body speaks; the body then lives. But I ask, is the soul alive also? Lo, the body speaks, and so is alive. But what does it speak? As I said concerning the feet; they walk, and so the body is alive, and I then asked, whither do they walk? that I might understand whether the soul was alive also. So also when I hear a man speak, I understand that the body is alive; I ask what does he speak, that I may know whether the soul is alive also. He speaks a lie. If so, then is the soul dead. How do we prove this? Let us ask the truth itself, which saith, “The mouth that lieth, slayeth the soul.”<sup>2231</sup> I ask, why is the soul dead? I ask as I did just now, why is the body dead? Because the soul, its life, was gone. Why is the soul dead? Because God, its life, hath forsaken it.
 
@@ -42,12 +42,12 @@ who liveth in pleasure is dead.”<sup>2230</sup> Now since the difference is gr
 
 8\. Therefore said the Lord, “Who hath power to slay both body and soul in hell-fire.” How? when the ungodly shall be cast into hell-fire, will his body and his soul burn there? Everlasting punishment will be the death of the body; the absence of God will be the death
 
-2230 1 Tim. v. 6. 2231 Wisd. i. 11. Ecclus. xxii. 12.
+2230 [[1 Timothy 05#^5-6|1 Tim. v. 6]]. 2231 Wisd. i. 11. Ecclus. xxii. 12.
 
 
 *[p. 651]* ^pg677
 
-*On the words of the Gospel, Matt. x. 28, ‘Be not afraid of them that kill…*
+*On the words of the Gospel, [[Matthew 10#^10-28|Matt. x. 28]], ‘Be not afraid of them that kill…*
 
 of the soul. Wouldest thou know what the death of the soul is? Understand the Prophet who saith, “Let the ungodly be taken away, that he may not see the glory of the Lord.” <sup>2233</sup> Let the soul then fear its proper death, and not fear the death of its body. Because if it fear its own death, and so live in its God, by not offending and thrusting Him away from him, it will be found worthy<sup>2234</sup> to receive its body again at the end; not unto everlasting punishment, as the ungodly, but unto life eternal, as the righteous. By fearing this death, and loving that life, did the Martyrs, in hope of the promises of God, and in contempt of the threats of persecutors, attain<sup>2235</sup> themselves to be crowned with God, and have left to us the celebration of these solemnities.
 
@@ -60,20 +60,20 @@ of the soul. Wouldest thou know what the death of the soul is? Understand the Pr
 
 Sermon XVI.
 
-\[LXVI. Ben.\] *On the words of the Gospel, Matt. xi. 2, “Now when John heard in the prison the works of the Christ, he sent by his disciples, and said unto him, art thou He that cometh, or look we* 309 *for another?” etc.*
+\[LXVI. Ben.\] *On the words of the Gospel, [[Matthew 11#^11-2|Matt. xi. 2]], “Now when John heard in the prison the works of the Christ, he sent by his disciples, and said unto him, art thou He that cometh, or look we* 309 *for another?” etc.*
 
 1\. The lesson of the Holy Gospel has set before us a question touching John the Baptist. May the Lord assist me to resolve it to you, as He hath resolved it to us. John was commended, as ye have heard, by the testimony of Christ, and in such terms commended, as that there had not risen a greater among those who were born of women. But a greater than he had been born of a Virgin. How much greater? Let the herald himself declare, how great the difference is between himself and his Judge, whose herald he is. For John went before Christ both in his birth and preaching; but it was in obedience that he went before Him; not in preferring himself before Him. For so the whole train<sup>2236</sup> of attendants walks before the judge; yet they who walk before, are really after him. How signal a testimony then did John give to Christ? Even to saying that he “was not worthy to loose the latchet of His shoes.”<sup>2237</sup> And what more? “Of His fulness,” saith he, “have all we received.”<sup>2238</sup> He confessed that he was but a lamp lighted at His Light, and so he took refuge at His feet, lest venturing on high, he should be extinguished by the wind of pride. So great indeed was he, that he was taken for Christ; and if he had not himself testified that he was not He, the mistake would have continued, and he would have been reputed to be the Christ. What striking humility! Honour was proffered him by the people, and he himself refused it. Men were at fault in his greatness, and he humbled himself. He had no wish to increase by the words of men, seeing he had comprehended the Word of God.
 
 2\. This then did John say concerning Christ. And what said Christ of John? We have just now heard. “He began to say to the multitudes concerning John, What went ye out into the wilderness to see? A reed shaken with the wind?”<sup>2239</sup> Surely not; for John was not “blown about by every wind of doctrine.”<sup>2240</sup> “But what went ye out for to see? A man clothed in soft raiment?”<sup>2241</sup> No, for John was clothed in rough apparel; he had his raiment of camel’s hair, not of down. “But what went ye out for to see? A Prophet? yea, and more than a Prophet.”<sup>2242</sup> Why “more than a Prophet”? The Prophets foretold that the Lord would
 
-2236 *Officium*. 2237 John i. 27. 2238 John i. 16. 2239 Matt. xi. 7.
+2236 *Officium*. 2237 [[John 01#^1-27|John i. 27]]. 2238 [[John 01#^1-16|John i. 16]]. 2239 [[Matthew 11#^11-7|Matt. xi. 7]].
 
-2240 Eph. iv. 14. 2241 Matt. xi. 8. 310 2243 John i. 29. 2244 Matt. xi. 11. 2245 He gives these two interpretations of this passage; again *Cont. adv. leg*. and *Prop*. ii. 5 (20). 2246 *Commendavit*.
+2240 [[Ephesians 04#^4-14|Eph. iv. 14]]. 2241 [[Matthew 11#^11-8|Matt. xi. 8]]. 310 2243 [[John 01#^1-29|John i. 29]]. 2244 [[Matthew 11#^11-11|Matt. xi. 11]]. 2245 He gives these two interpretations of this passage; again *Cont. adv. leg*. and *Prop*. ii. 5 (20). 2246 *Commendavit*.
 
 
 *[p. 653]* ^pg679
 
-*On the words of the Gospel, Matt. xi. 2, ‘Now when John heard in the prison…*
+*On the words of the Gospel, [[Matthew 11#^11-2|Matt. xi. 2]], ‘Now when John heard in the prison…*
 
 come, whom they desired to see, and saw not; but to him was vouchsafed what they sought. John saw the Lord; he saw Him, pointed his finger toward Him, and said, “Behold the Lamb of God, who taketh away the sins of the world;”<sup>2243</sup> behold, here He is. Now had He come and was not acknowledged; and so a mistake was made also as to John himself. Behold then here is He whom the Patriarchs desired to see, whom the Prophets foretold, whom the Law prefigured. “Behold the Lamb of God, who taketh away the sins of the world.” And he gave a goodly testimony to the Lord, and the Lord to him. “Among them that are born of women,” saith the Lord, “there hath not risen a greater than John the Baptist: notwithstanding, he that is less in the kingdom of heaven is greater than he;”<sup>2244</sup> less in time, but greater in majesty. This He said, meaning Himself to be understood. Now exceedingly great among men is John the Baptist, than whom among men Christ alone is greater. It may also<sup>2245</sup> be thus stated and explained, “Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding, he that is the least in the kingdom of heaven is greater than he.” Not in the sense that I have before explained it. “Notwithstanding, he that is the least in the kingdom of heaven is greater than he;” the kingdom of heaven he meant where the Angels are; he then that is the least among the Angels, is greater than John. Thus He set forth to us the excellence<sup>2246</sup> of that kingdom which we should long for; set before us a city, of which we should desire to be citizens. What sort of citizens are there? how great are they! Whoso is the least there, is greater than John. Than what John? “Than whom there hath not risen a greater among them that are born of women.”
 
@@ -81,7 +81,7 @@ come, whom they desired to see, and saw not; but to him was vouchsafed what they
 
 *[p. 654]* ^pg680
 
-*On the words of the Gospel, Matt. xi. 2, ‘Now when John heard in the prison…*
+*On the words of the Gospel, [[Matthew 11#^11-2|Matt. xi. 2]], ‘Now when John heard in the prison…*
 
 before thee?”<sup>2248</sup> How dost thou prepare the way, and thou art thyself straying from the way? So then the disciples of John came; and the Lord said to them, “Go, tell John, the blind see, the deaf hear, the lame walk, the lepers are cleansed, the poor have the Gospel preached to them; and blessed is he whosoever shall not be offended in Me.”<sup>2249</sup> Do not suspect that John was offended in Christ. And yet his words do sound so; “Art Thou He that should come?” Ask my works; “The blind see, the deaf hear, the lame walk, the lepers are cleansed, the dead are raised, the poor have the Gospel preached to them;” and dost thou ask whether I am He? My works, saith He, are My words. “Go, show him again. And as they departed.” Lest haply any one should say, John was good at first, and the Spirit of God forsook him; therefore after their departure, he spake these words; after their departure whom John had sent, Christ commended John.<sup>2250</sup>
 
@@ -89,14 +89,14 @@ before thee?”<sup>2248</sup> How dost thou prepare the way, and thou art thyse
 
 5\. I think this question has been sufficiently explained. Let it suffice then to have prolonged my address thus far. Now keep the poor in mind. Give, ye who have not given hitherto; believe me, ye will not lose it. Yes, truly, that only it seems ye lose, which ye do not carry to the circus.<sup>2251</sup> Now must we render unto the poor the offerings of such of you as
 
-2248 Matt. xi. 10. 2249 Matt. xi. 4–7.
+2248 [[Matthew 11#^11-10|Matt. xi. 10]]. 2249 [[Matthew 11#^11-4|Matt. xi. 4–7]].
 
-2250 Matt. xi. 4–7. *Quadrigam*.
+2250 [[Matthew 11#^11-4|Matt. xi. 4–7]]. *Quadrigam*.
 
 
 *[p. 655]* ^pg681
 
-*On the words of the Gospel, Matt. xi. 2, ‘Now when John heard in the prison…*
+*On the words of the Gospel, [[Matthew 11#^11-2|Matt. xi. 2]], ‘Now when John heard in the prison…*
 
 have offered anything, and the amount which we have is much less than your usual offerings. Shake off this sloth. I am become a beggar for beggars; what is that to me? I would be a beggar for beggars, that ye may be reckoned among the number of children.
 
@@ -106,17 +106,17 @@ have offered anything, and the amount which we have is much less than your usual
 
 Sermon XVII.
 
-\[LXVII. Ben.\] *On the words of the Gospel, Matt. xi. 25, “I thank thee, O Father, Lord of Heaven and Earth, that thou didst hide these things from the wise and understanding,” etc.*
+\[LXVII. Ben.\] *On the words of the Gospel, [[Matthew 11#^11-25|Matt. xi. 25]], “I thank thee, O Father, Lord of Heaven and Earth, that thou didst hide these things from the wise and understanding,” etc.*
 
 1\. When the Holy Gospel was being read, we heard that the Lord Jesus exulted in Spirit, and said, “I confess to Thee, O Father, Lord of heaven and earth, for that Thou hast hid these things from the wise and prudent, and hast revealed them unto babes.”<sup>2252</sup> Thus much to begin<sup>2253</sup> with, we find before we pass on further, if we consider the words of the Lord with due attention, with diligence, and above all with piety, that we ought not invariably to understand when we read of “confession” in the Scriptures, the confession<sup>2254</sup> of a sinner. Now especial need there was of saying this, and of reminding you, Beloved, of this, because as soon as this word was uttered by the reader’s voice, there followed upon it the sound of the beating of your breasts, when ye had heard, I mean, what the Lord said, “I confess to Thee, O Father.” At the uttering of these words, “I confess,” ye beat your breasts. Now what means this beating of the breast, but to show that which lies hid within the breast, and to chastise by the visible beating the secret sin? And why did ye this, but because ye heard, “I confess to Thee, O Father.” Ye heard the words “I confess,” but ye did not consider, who it is that confesses. But consider now. If Christ, from whom all sin is far removed, said, “I confess:” confession does not belong to the sinner only, but sometimes to him also that praiseth God. We confess then, whether in praising God, or accusing ourselves. In either case it is a godly confession, either when thou blamest thyself, who art not without sin, or when thou praisest Him who can have no sin.
 
 2\. But if we consider it well: thine own blame is His praise. For why is it that thou dost now confess in accusing thyself for thy sin? in accusing thyself why dost thou confess? but because thou art become alive from the dead? for the Scripture saith, “Confession perisheth from the dead, as from one that is not.”<sup>2255</sup> If confession perisheth from the dead, he who confesseth must be alive; and if he confesseth sin he hath undoubtedly risen again from death. Now if he that confesseth sin hath risen again from the dead, who hath raised him? No dead man can raise himself. He only was able to raise Himself, who though His Body was dead, was not dead. For He raised up that which was dead. He raised up Himself, who in Himself was alive, but in His Body that was to be raised was dead. For not the Father only, of whom it was said by the Apostle, “Wherefore God also hath exalted Him,”<sup>2256</sup> raised
 
-311 2252 Matt. xi. 25. 2253 *Interim*. 2254 *Vocem*. 2255 Ecclus. xvii. 28, Sept. Phil. ii. 9.
+311 2252 [[Matthew 11#^11-25|Matt. xi. 25]]. 2253 *Interim*. 2254 *Vocem*. 2255 Ecclus. xvii. 28, Sept. [[Philippians 02#^2-9|Phil. ii. 9]].
 
 *[p. 657]* ^pg683
 
-*On the words of the Gospel, Matt. xi. 25, ‘I thank thee, O Father, Lord…*
+*On the words of the Gospel, [[Matthew 11#^11-25|Matt. xi. 25]], ‘I thank thee, O Father, Lord…*
 
 the Son, but the Lord also raised Himself, that is, His Body. Whence He said, “Destroy this temple, and in three days I will raise it again.”<sup>2257</sup> But the sinner is dead, especially he whom the load of sinful habit presseth down, who is buried as it were like Lazarus. For he was not merely dead, he was buried also.<sup>2258</sup> Whosoever then is oppressed by the load of evil habit, of a wicked life, of earthly lusts, I mean, so that that in his case is true which is piteously described in a certain Psalm, “The fool hath said in his heart, There is no God,”<sup>2259</sup> he is such an one, of whom it is said, “Confession perisheth from the dead, as from one that is not.” And who shall raise him up, but He who when the stone was removed, cried out, and said, “Lazarus, Come forth?”<sup>2260</sup> Now what is to “come forth,” but to bring forth what was hidden? He then who confesseth “cometh forth.” “Come forth” he could not were he not alive; he could not be alive, had he not been raised again. And therefore in confession the accusing of one’s self, is the praise of God.
 
@@ -124,14 +124,14 @@ the Son, but the Lord also raised Himself, that is, His Body. Whence He said, �
 
 4\. Whether then we accuse ourselves, or directly praise God, in both ways do we praise God. If with a pious intention we accuse ourselves, by so doing we praise God. When we praise God directly, we do as it were celebrate His Holiness, who is without sin: but when we accuse ourselves, we give Him glory, by whom we have risen again. This if thou shalt do, the enemy will find none occasion whereby to<sup>2264</sup> overreach thee before the judge. For when thou shall be thine own accuser, and the Lord thy Deliverer, what shall he be but a mere calumniator? With good reason hath the Christian hereby provided protection for himself against his enemies, not those that may be seen, flesh and blood, to be pitied, rather than to be feared, but against those against whom the Apostle exhorts us to arm ourselves:
 
-2257 John ii. 19. 2258 John xi. 17. 2259 Ps. xiv. 1.
+2257 [[John 02#^2-19|John ii. 19]]. 2258 [[John 11#^11-17|John xi. 17]]. 2259 Ps. xiv. 1.
 
-2260 John xi. 43. 2261 Matt. xvi. 19 and xviii. 18. 2262 *Vid*. Serm. 48 (98, Bened.) 6. 2263 John xi. 44. *Circumveniat*. 312 2265 Eph. vi. 12. 2266 John xiii. 2. 2267 Eph. iv. 27. 2268 Vulgate. 2269 Eph. v. 8.
+2260 [[John 11#^11-43|John xi. 43]]. 2261 [[Matthew 16#^16-19|Matt. xvi. 19]] and xviii. 18. 2262 *Vid*. Serm. 48 (98, Bened.) 6. 2263 [[John 11#^11-44|John xi. 44]]. *Circumveniat*. 312 2265 [[Ephesians 06#^6-12|Eph. vi. 12]]. 2266 [[John 13#^13-2|John xiii. 2]]. 2267 [[Ephesians 04#^4-27|Eph. iv. 27]]. 2268 Vulgate. 2269 [[Ephesians 05#^5-8|Eph. v. 8]].
 
 
 *[p. 658]* ^pg684
 
-*On the words of the Gospel, Matt. xi. 25, ‘I thank thee, O Father, Lord…*
+*On the words of the Gospel, [[Matthew 11#^11-25|Matt. xi. 25]], ‘I thank thee, O Father, Lord…*
 
 “We wrestle not against flesh and blood;”<sup>2265</sup> that is, against men whom ye see raging against you. They are but vessels, which another uses, they are but instruments which another handles. “The devil,” saith the Scripture, “entered into the heart of Judas, that he should betray the Lord.”<sup>2266</sup> One may say then, what have I done? Hear the Apostle, “Give not place to the devil.”<sup>2267</sup> Thou hast given him place by an evil will: he entered, and possessed, and now uses thee. He had not possessed thee, hadst thou not given him place.
 
@@ -139,45 +139,45 @@ the Son, but the Lord also raised Himself, that is, His Body. Whence He said, �
 
 6\. From these enemies how can any man say that he is safe? For this I had begun to speak of, but I thought it necessary to treat of these enemies at some little length. But now that we know our enemies, let us see to our defence against them. “In praising I will call upon the Lord, so shall I be safe from mine enemies.”<sup>2271</sup> Thou seest what thou hast to do.
 
-2270 1 Cor. iv. 7. Ps. xvii. 4, Sept. (xviii. 3, English version).
+2270 [[1 Corinthians 04#^4-7|1 Cor. iv. 7]]. Ps. xvii. 4, Sept. (xviii. 3, English version).
 
 
 *[p. 659]* ^pg685
 
-*On the words of the Gospel, Matt. xi. 25, ‘I thank thee, O Father, Lord…*
+*On the words of the Gospel, [[Matthew 11#^11-25|Matt. xi. 25]], ‘I thank thee, O Father, Lord…*
 
 “In praising call;” that is, “in praising the Lord, call.” For thou wilt not be safe from thine enemies, if thou praise thyself. “In praising call upon the Lord, and thou shalt be safe from thine enemies.” For what doth the Lord Himself say? “The sacrifice of praise shall glorify Me, and there is the way, in which I will show him My salvation.”<sup>2272</sup> Where is the way? In the sacrifice of praise. Let not your foot then wander out of this way. Keep in the way; depart not from it; from the praise of the Lord depart not a foot, nay, not a nail’s breadth. For if thou wilt deviate from this way, and praise thyself instead of the Lord, thou wilt not be safe from thine enemies; for it is said of them, “They have laid stumbling-blocks for me by the way.”<sup>2273</sup> Therefore in whatever measure thou thinkest that thou hast good of thine own self, thou hast deviated from the praise of God. Why dost thou marvel then, if thine enemy seduce thee, when thou art thine own seducer? Hear the Apostle, “For if a man think himself to be something when he is nothing, he seduceth himself.”<sup>2274</sup>
 
 7\. Give heed then to the Lord confessing; “I confess to Thee, O Father, Lord of heaven and earth.” I confess to Thee, that is, I praise Thee. I praise Thee, not I accuse myself. Now as far as the taking of very<sup>2275</sup> man is concerned, all is grace, singular and perfect grace. What merit had that man<sup>2276</sup> who is Christ, if thou take away the grace, even that so pre-eminent grace, whereby it behoved that there should be One Christ, and that He whom we
 
-2272 Ps. xlix. 23, Sept. (l. English version). 2273 Ps. cxxxix. 6, Sept. (cxl. 5, English version). 2274 Gal. vi. 3, Vulg. 2275 *Ipsius*. It was the doctrine of Paul of Samosata, that the man Christ was exalted to be the Son of God (προκοπῄ, 2276 from Luke ii. 52), as if by merit. Origen seems to hold the same, at least as regards the (supposed) pre-existent soul of Christ (*vid*. Huet. *Origen*, ii. 3, § 6; *vid*. however De la Rue’s note); and the Arians, at least implicitly (Socr. *Hist*. i. 6, Athan. *Orat. contr. Arian*, i. 35, iii. 51; and Leporius, *Cassian. Incarn*. i. 3, 4). The same heresy was imputed to the Nestorians (but falsely according to Garner, in *Mar. Merc*. pt. i. p. 431), and thereby connected them with the Pelagians, as if unassisted human nature could merit grace. The Church on the other hand, proceeding from Rom. i. 4, taught that the human nature which became the manhood of the Word was predestined to be such by grace before its creation, and became such in the moment of creation. St. Athanasius touches on this subject against the Arians (*Orat*. i. 46); St. Augustin enlarges on it against the Pelagians (*De Prædest. Sanct*. 23, 30; *De Corrept. et Grat*. 30); St. Cyril, against the Nestorians (*Contra Nest*. iii. p. 83); Vigilius, against the Monophysites (*Contra Eutych*. v. B. P. t. 4, p. 528, ed. 1624). When St. Augustin says “that man,” he is speaking of our Lord’s human nature as abstracted from that Divine Person in whom it actually existed, and not as if it ever existed as a separate hypostasis. This use of “homo” and ἄνθρωπος is very frequent with the Fathers; what is more startling is the expression “homo *ille*,” yet *vid.* also Augustin, *De Præd. Sanct*. 30; Alcuin, *De Trin*. iii. 1; Agobard, *Cont. Felic*. B. P. t. 9, p. 1194. However, this point is a subject of debate among theologians (*vid*. Petav. *De Incarn*. xi. fin.). 313 2277 *Meruit*. 2278 *Præsumpsit*. 2279 Luke xxiii. 42.
+2272 Ps. xlix. 23, Sept. (l. English version). 2273 Ps. cxxxix. 6, Sept. (cxl. 5, English version). 2274 [[Galatians 06#^6-3|Gal. vi. 3]], Vulg. 2275 *Ipsius*. It was the doctrine of Paul of Samosata, that the man Christ was exalted to be the Son of God (προκοπῄ, 2276 from [[Luke 02#^2-52|Luke ii. 52]]), as if by merit. Origen seems to hold the same, at least as regards the (supposed) pre-existent soul of Christ (*vid*. Huet. *Origen*, ii. 3, § 6; *vid*. however De la Rue’s note); and the Arians, at least implicitly (Socr. *Hist*. i. 6, Athan. *Orat. contr. Arian*, i. 35, iii. 51; and Leporius, *Cassian. Incarn*. i. 3, 4). The same heresy was imputed to the Nestorians (but falsely according to Garner, in *Mar. Merc*. pt. i. p. 431), and thereby connected them with the Pelagians, as if unassisted human nature could merit grace. The Church on the other hand, proceeding from [[Romans 01#^1-4|Rom. i. 4]], taught that the human nature which became the manhood of the Word was predestined to be such by grace before its creation, and became such in the moment of creation. St. Athanasius touches on this subject against the Arians (*Orat*. i. 46); St. Augustin enlarges on it against the Pelagians (*De Prædest. Sanct*. 23, 30; *De Corrept. et Grat*. 30); St. Cyril, against the Nestorians (*Contra Nest*. iii. p. 83); Vigilius, against the Monophysites (*Contra Eutych*. v. B. P. t. 4, p. 528, ed. 1624). When St. Augustin says “that man,” he is speaking of our Lord’s human nature as abstracted from that Divine Person in whom it actually existed, and not as if it ever existed as a separate hypostasis. This use of “homo” and ἄνθρωπος is very frequent with the Fathers; what is more startling is the expression “homo *ille*,” yet *vid.* also Augustin, *De Præd. Sanct*. 30; Alcuin, *De Trin*. iii. 1; Agobard, *Cont. Felic*. B. P. t. 9, p. 1194. However, this point is a subject of debate among theologians (*vid*. Petav. *De Incarn*. xi. fin.). 313 2277 *Meruit*. 2278 *Præsumpsit*. 2279 [[Luke 23#^23-42|Luke xxiii. 42]].
 
 
 *[p. 660]* ^pg686
 
-*On the words of the Gospel, Matt. xi. 25, ‘I thank thee, O Father, Lord…*
+*On the words of the Gospel, [[Matthew 11#^11-25|Matt. xi. 25]], ‘I thank thee, O Father, Lord…*
 
 acknowledge should be He? Take away this grace, and what is Christ but a mere man? what but the same as thou art thyself? He took a Soul, He took a Body, He took a perfect Man; He uniteth him to Himself, the Lord maketh one Person with the servant. What pre-eminent grace is this! Christ in heaven, Christ on earth; Christ at once both in heaven and earth; not two Christs, but the same Christ, both in heaven and earth. Christ with the Father, Christ in the Virgin’s womb; Christ on the Cross, Christ succouring some souls in hell; and on the self-same day Christ in paradise with the robber who confessed. And how did the robber attain<sup>2277</sup> to this blessedness, but because he held on that way, in which “He showeth His salvation”? That way, from which let not thy foot wander. For in that he accused himself, he praised God, and made his own life blessed. He looked in hope<sup>2278</sup> for this from the Lord, and said to Him, “Lord, remember me when Thou comest into Thy kingdom.”<sup>2279</sup> For he considered his own wicked deeds, and thought it much, if mercy should be shown him even at the last. But the Lord immediately after He had said, “Remember me”—when? “when Thou comest into Thy kingdom,” saith, “Verily I say unto thee, Today shall thou be with Me in paradise.” Mercy offered at once, what misery deferred.
 
 8\. Hear then the Lord confessing; “I confess to Thee, O Father, Lord of heaven and earth.”<sup>2280</sup> What do I confess? Wherein do I praise thee? For this confession, as I have said before, signifieth praise. “Because Thou hast hid these things from the wise and prudent, and hast revealed them unto babes.” What is this, Brethren? Understand by that which is opposed to them. “Thou hast hid these things,” saith he, “from the wise and prudent;” and he did not say, thou hast revealed them to the foolish and imprudent, but “Thou hast hid these things” indeed “from the wise and prudent, and hast revealed them unto babes.” To these wise and prudent, who are really objects of derision, to the arrogant who in false pretence are great, yet in truth are only swollen up, he opposed not the foolish, nor the imprudent, but babes. Who are babes? The humble. Therefore “Thou hast hidden these things from the wise and prudent.” Under the name of the wise and prudent, He hath Himself explained that the proud are understood, when He said, “Thou hast revealed them unto babes.” Therefore from those who are not babes Thou hast hidden them. What is from those who are not babes? From those who are not humble. And who are they but the proud? O way of the Lord! Either there was none, or it lay hid, that it might be revealed to us. Why did the Lord exult? “Because it was revealed unto babes.” We must be little babes; for if we would wish to be great, “wise and prudent” as it were, it is not revealed unto us. Who are these great ones? The wise and prudent. “Professing themselves to be wise, they became fools.”<sup>2281</sup>
 
-2280 Matt. xi. 25.
+2280 [[Matthew 11#^11-25|Matt. xi. 25]].
 
 
 *[p. 661]* ^pg687
 
-*On the words of the Gospel, Matt. xi. 25, ‘I thank thee, O Father, Lord…*
+*On the words of the Gospel, [[Matthew 11#^11-25|Matt. xi. 25]], ‘I thank thee, O Father, Lord…*
 
 Here then thou hast a remedy suggested from its opposite. For if by “professing thyself wise, thou art become a fool; profess thyself a fool, and thou wilt be wise.” But profess it in truth, profess it from the heart, for it is really so as thou professest. If thou profess it, do not profess it before men, and forbear to profess it before God. As to thyself, and all that is thine, thou art altogether dark. For what else is it to be a fool, but to be dark in heart? He saith of them at last, “Professing themselves to be wise, they became fools.” Before they professed this, what do we find? “And their foolish heart was darkened.”<sup>2282</sup> Acknowledge then that thou art not to thyself a light. At best thou art but an eye, thou art not the light. And what good is even an open and a sound eye, if the light be wanting? Acknowledge therefore that of thine own self thou art no light to thyself; and cry out as it is written, “Thou, Lord, wilt light my candle: Thou wilt enlighten, O Lord, my darkness with Thy Light.”<sup>2283</sup> For myself I was all darkness; but Thou art the Light that scattereth the darkness, and enlighteneth me; of myself I am no light to myself, yea I have no portion of light but in Thee.
 
 9\. So John also, the friend of the Bridegroom, was thought to be the Christ, was thought to be the Light. “He was not that Light, but that he might bear witness of the Light.”<sup>2284</sup> But what was the Light? It was the true Light. What is the true Light? “That which lighteneth every man.” If that be the true Light which lighteneth every man, then it lightened John also, who professed and confessed rightly, “Of His fulness have all we received.”<sup>2285</sup> See if he said ought else, but “Thou, O Lord, shalt lighten my candle.” Finally, being now enlightened, He gave His testimony. For the benefit of the blind the lamp gave witness to the Day. See how that He is a lamp; “Ye sent,” He said, “unto John, and ye were willing for a season to rejoice in his light; he was a burning and a shining lamp.”<sup>2286</sup> He, the lamp, that is, a thing enlightened, was lighted that it might shine. That which can be lighted can be extinguished also. Now that it may not be extinguished, let it not expose itself to the wind of pride. Therefore, “I confess to Thee, O Father, Lord of heaven and earth, because Thou hast hid these things from the wise and prudent,” from those who thought themselves to be light, and were darkness; and who because they were darkness, and thought themselves to be light, could not even be enlightened. But they who were darkness, and confessed that they were darkness, were little babes, not great; were humble, not proud. Rightly therefore did they say, “O Lord, Thou wilt lighten my candle.” They knew themselves, they praised the Lord. They did not stray from the way of salvation; “They in praise called upon the Lord, and they were saved from their enemies.”<sup>2287</sup>
 
-2282 Rom. i. 21. 2283 Ps. xviii. 28. 2284 John i. 8. 2285 John i. 16. 2286 John v. 33, etc.
+2282 [[Romans 01#^1-21|Rom. i. 21]]. 2283 Ps. xviii. 28. 2284 [[John 01#^1-8|John i. 8]]. 2285 [[John 01#^1-16|John i. 16]]. 2286 [[John 05#^5-33|John v. 33]], etc.
 
 
 *[p. 662]* ^pg688
 
-*On the words of the Gospel, Matt. xi. 25, ‘I thank thee, O Father, Lord…*
+*On the words of the Gospel, [[Matthew 11#^11-25|Matt. xi. 25]], ‘I thank thee, O Father, Lord…*
 
 10\. Turning then to the Lord our God, the Father Almighty, in purity of heart, let us render unto Him, as our frailty best can, our highest and abundant thanks, with our whole mind praying His singular goodness, that in His good pleasure He would vouchsafe to hear our prayers, that by His Power He would drive out the enemy from our deeds and thoughts, would enlarge our faith, direct our minds, grant us spiritual thoughts, and bring us safe to His endless blessedness, through His Son Jesus Christ. Amen.
 
@@ -187,20 +187,20 @@ Here then thou hast a remedy suggested from its opposite. For if by “professin
 
 Sermon XVIII.
 
-\[LXVIII. Ben.\] *Again on the words of the Gospel, Matt. xi. 25, “I thank thee, O Father, Lord of Heaven and Earth,” etc.*
+\[LXVIII. Ben.\] *Again on the words of the Gospel, [[Matthew 11#^11-25|Matt. xi. 25]], “I thank thee, O Father, Lord of Heaven and Earth,” etc.*
 
 1\. We have heard the Son of God saying, “I confess to Thee, O Father, Lord of heaven and earth.” What doth he confess to Him? Wherein doth he praise Him? “Because Thou hast hid these things from the wise and prudent, and hast revealed them unto babes.”<sup>2288</sup> Who are the “wise and prudent”? Who the “babes”? What hath He hid from the wise and prudent, and revealed unto babes? By the “wise and prudent,” He signifieth those of whom St. Paul speaks; “Where is the wise? where is the scribe? where is the disputer of this world? Hath not God made foolish the wisdom of this world?”<sup>2289</sup> Yet perhaps thou still askest who they are. They are they peradventure who in their much disputation concerning God, have spoken falsely of Him; who, puffed up by their own doctrines, could in no wise find out and know God, and who for the God whose substance is incomprehensible and invisible, 314 have thought the air and sky to be God, or the sun to be God, or anything which holds high place<sup>2290</sup> among the creatures to be God. For observing the grandeur and beauty and powers of the creatures, they rested in them, and found not the Creator.
 
 2\. These men does the Book of wisdom reprove, where it is said, “For if they were able to know so much as to aim at the world, how did they not sooner find out the Lord thereof?”<sup>2291</sup> They are accused as wasting their time and their busy disputes in investigating and measuring as it were the creature; they sought out the courses of the stars, the intervals of the planets, the movements<sup>2292</sup> of the heavenly bodies, so as to arrive by certain<sup>2293</sup> calculations to that degree of knowledge as to foretell the eclipses of the sun and moon; and that as they had foretold, so should the event be according to the day and hour, and to the portion of the bodies which should be eclipsed. Great industry, great activity of mind. But in these things they sought after the Creator, who was not far off from them, and they found Him not. Whom if they could have found, they might have had within them. With the best reason then, and very rightly were they accused, who could investigate the numbers of the stars, and their varied movements, and know and foretell the eclipses of the luminaries: rightly accused, I say, in that they found not Him by whom these had been created and ordained, because they neglected to seek Him. But be not thou much disquieted, if thou art
 
-2288 Matt. xi. 25. 2289 1 Cor. i. 20.
+2288 [[Matthew 11#^11-25|Matt. xi. 25]]. 2289 [[1 Corinthians 01#^1-20|1 Cor. i. 20]].
 
 2290 *Sublimiter eminet*. 2291 Wisd. xiii. 9. 2292 *Itinera*. Vid. *Conf*. v. 3 (4).
 
 
 *[p. 664]* ^pg690
 
-*Again on the words of the Gospel, Matt. xi. 25, ‘I thank thee, O Father,…*
+*Again on the words of the Gospel, [[Matthew 11#^11-25|Matt. xi. 25]], ‘I thank thee, O Father,…*
 
 ignorant of the courses of the stars, and the proportions<sup>2294</sup> of the celestial and terrestrial bodies. Behold the fair beauty of the world, and praise its Creator’s counsel. Behold what He has made, and love Him who made it: be this thy greatest care. Love Him who made it; for He made thee also after His own image, that thou mightest love Him.
 
@@ -208,14 +208,14 @@ ignorant of the courses of the stars, and the proportions<sup>2294</sup> of the 
 
 4\. In what then were they unlike the others? why were they blamed? why rightly accused? Hear the words of the Apostle which I had begun to quote; “The wrath of God,” saith he,
 
-2294 *Numeros*. 2295 Rom. i. 18. 2296 Rom. i. 19. 2297 Rom. i. 20. 2298 *Faucibus*. 2299 *Ructuaverunt*.
+2294 *Numeros*. 2295 [[Romans 01#^1-18|Rom. i. 18]]. 2296 [[Romans 01#^1-19|Rom. i. 19]]. 2297 [[Romans 01#^1-20|Rom. i. 20]]. 2298 *Faucibus*. 2299 *Ructuaverunt*.
 
 2300 Vid. *Conf*. vii. 9 (13–15).
 
 
 *[p. 665]* ^pg691
 
-*Again on the words of the Gospel, Matt. xi. 25, ‘I thank thee, O Father,…*
+*Again on the words of the Gospel, [[Matthew 11#^11-25|Matt. xi. 25]], ‘I thank thee, O Father,…*
 
 “is revealed from heaven against all ungodliness” (even of those, namely, who had not received the law); “against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness.” What truth? “Because that which may be known of God is manifest in them.” By whose manifestation of it? “For God hath manifested it to them.” How? “For the invisible things of Him from the creation of the world are clearly seen, being understood by the things that are made, even His Eternal Power and Godhead.” Why did He manifest it? “That they might be without excuse.” Wherein then are they to be blamed? “Because that when they knew God, they glorified Him not as God.”
 
@@ -228,11 +228,11 @@ ignorant of the courses of the stars, and the proportions<sup>2294</sup> of the 
 
 *[p. 666]* ^pg692
 
-*Again on the words of the Gospel, Matt. xi. 25, ‘I thank thee, O Father,…*
+*Again on the words of the Gospel, [[Matthew 11#^11-25|Matt. xi. 25]], ‘I thank thee, O Father,…*
 
 these? For when He said this, He did not intend the heaven and earth, or point them out as it were with His hand as He spake. For these who does not see? The good see them, the bad see them; for He “maketh His sun to rise on the evil and the good.”<sup>2304</sup> What then are these things? “All things are delivered unto Me of My Father.”<sup>2305</sup>
 
-2304 Matt. v. 45.
+2304 [[Matthew 05#^5-45|Matt. v. 45]].
 
 
 *[p. 667]* ^pg693
@@ -241,7 +241,7 @@ these? For when He said this, He did not intend the heaven and earth, or point t
 
 Sermon XIX.
 
-\[LXIX. Ben.\] *On the words of the Gospel, Matt. xix. 28, “Come unto me, all ye that labour and are heavy laden,” etc.*
+\[LXIX. Ben.\] *On the words of the Gospel, [[Matthew 19#^19-28|Matt. xix. 28]], “Come unto me, all ye that labour and are heavy laden,” etc.*
 
 1\. We heard in the Gospel that the Lord, rejoicing greatly in Spirit, said unto God the Father, “I confess to Thee, O Father, Lord of heaven and earth, because Thou hast hid these things from the wise and prudent, and hast revealed them unto babes. Even so, Father: for so it seemed good in Thy sight. All things are delivered unto Me of My Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and he to whomsoever the Son will reveal Him.”<sup>2306</sup> I have labour in talking, you in hearing: let us then both give ear to Him who goes on to say, “Come unto Me, all ye that labour.”<sup>2307</sup> For why do we labour all, except that we are mortal men, frail creatures and infirm, bearing about vessels of clay which crowd and straiten one another. But if these vessels of flesh are straitened, let the open<sup>2308</sup> expanse of charity be enlarged. What then does He mean by, “Come unto Me, all ye that labour,” but that ye may labour no more? In a word, His promise is clear enough; forasmuch as He called those who were in labour, they might perchance enquire, for what profit they were called: “and,” saith He, “I will refresh you.”
 
@@ -249,12 +249,12 @@ Sermon XIX.
 
 3\. What is the top in the erection of that building which we are constructing? Whither will the highest point of this building reach? I say at once, even to the Vision of God. Ye see how high, how great a thing it is to see God. Whoso longeth after it, understands both what I say and what he hears. The Vision of God is promised to us, of the very God, the Supreme
 
-2306 Matt. xi. 25–27. 2307 Matt. xi. 28. 2308 *Spatia*.
+2306 [[Matthew 11#^11-25|Matt. xi. 25–27]]. 2307 [[Matthew 11#^11-28|Matt. xi. 28]]. 2308 *Spatia*.
 
 
 *[p. 668]* ^pg694
 
-*On the words of the Gospel, Matt. xix. 28, ‘Come unto me, all ye that labour…*
+*On the words of the Gospel, [[Matthew 19#^19-28|Matt. xix. 28]], ‘Come unto me, all ye that labour…*
 
 God. For this is good, to see Him who seeth. For they who worship false gods, see them easily; but they see them “who have eyes and see not.” But to us is promised the Vision of the Living and the Seeing God, that we may desire eagerly to see that God of whom Scripture saith, “He that planted the ear, shall he not hear? He that formed the eye, doth he not con- 316
 
@@ -262,18 +262,18 @@ sider?”<sup>2310</sup> Doth He then not hear, who hath made for thee that wher
 
 4\. Hear Him then who saith, “Come unto Me, all ye that labour.” Thou canst not end thy labour by flying. Dost thou choose to fly from Him, and not rather to Him? Find out then whither thou canst escape, and so fly. But if thou canst not fly from Him, for that He is everywhere present; fly (it is quite nigh<sup>2315</sup>) to God, who is present where thou art
 
-2310 Ps. xciii. 9, Sept. (xciv. English version). 2311 Ps. xciii. 8, Sept. (xciv. English version). 2312 Ps. xiv. 1. 2313 Rom. iv. 17. 2314 Ps. cxxxix. 8. *De proximo*.
+2310 Ps. xciii. 9, Sept. (xciv. English version). 2311 Ps. xciii. 8, Sept. (xciv. English version). 2312 Ps. xiv. 1. 2313 [[Romans 04#^4-17|Rom. iv. 17]]. 2314 Ps. cxxxix. 8. *De proximo*.
 
 
 *[p. 669]* ^pg695
 
-*On the words of the Gospel, Matt. xix. 28, ‘Come unto me, all ye that labour…*
+*On the words of the Gospel, [[Matthew 19#^19-28|Matt. xix. 28]], ‘Come unto me, all ye that labour…*
 
 standing. Fly. Lo in thy flight thou hast passed the heavens, He is there; thou hast descended into hell, He is there; whatever deserts of the earth thou shalt choose, there is He, who hath said, “I fill heaven and earth.”<sup>2316</sup> If then He fills heaven and earth, and there is no place whither thou canst fly from Him; cease this thy labour, and fly to His presence, lest thou feel His coming. Take courage from the<sup>2317</sup> hope that thou shalt by well-living see Him, by whom even in thy evil living thou art seen. For in evil living thou canst be seen, thou canst not see; but by well-living thou art both seen and seest. For with how much more tender nearness<sup>2318</sup> will He who crowneth the worthy look on thee, who in His pity saw thee that He might call thee when unworthy? Nathanael said to the Lord whom as yet he did not know, “Whence knewest thou me?” The Lord said unto him, “When thou wast under the fig-tree I saw thee.”<sup>2319</sup> Christ saw thee in thine own shade; and will He not see thee in His Light? For what is, “When thou wast under the fig-tree I saw thee”? What does it mean? Call to mind the original sin of Adam, in whom we all die. When he first sinned, he made himself aprons of fig-leaves,<sup>2320</sup> signifying by these leaves the irritations of lust to which he had been reduced by sinning. Hence are we born; in this condition are we born; born in sinful flesh, which “the likeness of sinful flesh” alone can cure. Therefore “God sent His own Son in the likeness of sinful flesh.”<sup>2321</sup> He came of this flesh, but He came not as other men. For the Virgin conceived Him not by lust, but by faith. He came into the Virgin, who was before the Virgin. He made choice of her whom He created, He created her whom He designed to choose. He brought to the Virgin fruitfulness: He took not away her unimpaired purity. He then who came to thee without the irritation of the leaves of the fig-tree, “when thou wast under the fig-tree,” saw thee. Make ready then to see Him in His height of glory,<sup>2322</sup> by whom in His pity thou wast seen. But because the top is high, think of the foundation. What foundation? dost thou say? “Learn of Him, for He is meek and lowly in heart.” Dig this foundation of lowliness deep in thee, and so wilt thou attain to the crowning top of charity. “Turning to the Lord,” etc.
 
-2316 Jer. xxiii. 24. 2317 *Præsume*. 2318 *Familiarius*. 2319 John i. 48.
+2316 Jer. xxiii. 24. 2317 *Præsume*. 2318 *Familiarius*. 2319 [[John 01#^1-48|John i. 48]].
 
-2320 Gen. iii. 7. 2321 Rom. viii. 3. *Sublimiter*.
+2320 Gen. iii. 7. 2321 [[Romans 08#^8-3|Rom. viii. 3]]. *Sublimiter*.
 
 
 *[p. 670]* ^pg696
@@ -282,33 +282,33 @@ standing. Fly. Lo in thy flight thou hast passed the heavens, He is there; thou 
 
 Sermon XX.
 
-\[LXX. Ben.\] *Again on the words of the Gospel, Matt. xi. 28, “Come unto me, all ye that labour and are heavy laden, and I will give you rest,” etc.*
+\[LXX. Ben.\] *Again on the words of the Gospel, [[Matthew 11#^11-28|Matt. xi. 28]], “Come unto me, all ye that labour and are heavy laden, and I will give you rest,” etc.*
 
 317 1. It seems strange to some, Brethren, when they hear the Lord say, “Come unto Me, all ye that labour and are heavy laden, and I will refresh you. Take my yoke upon you and learn of Me, for I am meek and lowly in heart, and ye shall find rest unto your souls. For My yoke is easy and My burden is light.”<sup>2323</sup> And they consider that they who have fearlessly bowed their necks to this yoke, and have with much submission taken this burden upon their shoulders, are tossed about and exercised by so great difficulties in the world, that they seem not to be called from labour to rest, but from rest to labour rather; since the Apostle also saith, “All who will live godly in Christ Jesus, shall suffer persecution.”<sup>2324</sup> So one will say, “How is the yoke easy, and the burden light,” when to bear this yoke and burden is nothing else, but to live godly in Christ? And how is it said, “Come unto Me, all ye that labour and are heavy laden, and I will refresh you”? and not rather said, “Come ye who are at ease and idle, that ye may labour.” For so he found those men idle and at ease, whom he hired into the vineyard,<sup>2325</sup> that they might bear the heat of the day. And we hear the Apostle under that easy yoke and light burden say, “In all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses, in stripes,”<sup>2326</sup> etc., and in another place of the same Epistle, “Of the Jews five times received I forty stripes save one. Thrice was I beaten with rods, once was I stoned, thrice have I suffered shipwreck, a night and a day have I been in the deep:”<sup>2327</sup> and the rest of the perils, which may be enumerated indeed, but endured they cannot be but by the help of the Holy Spirit.
 
 2\. All these grievous and heavy trials which he mentioned, did he very frequently and abundantly sustain; but in very deed the Holy Spirit was with him in the wasting of the outward man, to renew the inner man from day to day, and by the taste of spiritual rest in the affluence of the delights of God to soften down by the hope of future blessedness all present hardships, and to alleviate all heavy trials. Lo, how sweet a yoke of Christ did he bear, and how light a burden; so that he could say that all those hard and grievous sufferings at the recital of which as just above every hearer shudders, were a “light tribulation;” as he beheld with the inward eyes, the eyes of faith, at how great a price of things temporal must be purchased the life to come, the escape from the everlasting pains of the ungodly, the full
 
-2323 Matt. xi. 28–30. 2324 2 Tim. iii. 12. 2325 Matt. xx. 4. 2326 2 Cor. vi. 4. 2 Cor. xi. 24, etc. 318 2328 *Numeros*. 2329 Rom. viii. 18.
+2323 [[Matthew 11#^11-28|Matt. xi. 28–30]]. 2324 [[2 Timothy 03#^3-12|2 Tim. iii. 12]]. 2325 [[Matthew 20#^20-4|Matt. xx. 4]]. 2326 [[2 Corinthians 06#^6-4|2 Cor. vi. 4]]. [[2 Corinthians 11#^11-24|2 Cor. xi. 24]], etc. 318 2328 *Numeros*. 2329 [[Romans 08#^8-18|Rom. viii. 18]].
 
 
 *[p. 671]* ^pg697
 
-*Again on the words of the Gospel, Matt. xi. 28, ‘Come unto me, all ye that…*
+*Again on the words of the Gospel, [[Matthew 11#^11-28|Matt. xi. 28]], ‘Come unto me, all ye that…*
 
 enjoyment, free from all anxiety, of the eternal happiness of the righteous. Men suffer themselves to be cut and burnt, that the pains not of eternity, but of some more lasting sore than usual, may be bought off at the priceof severer pain. For a languid and uncertain period of a very short repose, and that too at the end of life, the soldier is worn down by all the hard trials of war, restless it may be for more years in his labours, than he will have to enjoy his rest in ease. To what storms and tempests, to what a fearful and tremendous raging of sky and sea, do the busy merchantmen expose themselves, that they may acquire riches inconstant as the wind, and full of perils and tempests, greater even than those by which they were acquired! What heats, and colds, what perils, from horses, from ditches, from precipices, from rivers, from wild beasts, do huntsmen undergo, what pain of hunger and thirst, what straitened allowances of the cheapest and meanest meat and drink, that they may catch a beast! and sometimes after all, the flesh of the beast for which they endure all this is of no use for the table. And although a boar or a stag be caught, it is more sweet to the hunter’s mind because it has been caught, than it is to the eater’s palate because it is dressed. By what sharp corrections of almost daily stripes is the tender age of boys brought under! By what great pains even of watching and abstinence in the schools are they exercised, not to learn true wisdom, but for the sake of riches, and the honours of an empty show, that they may learn arithmetic,<sup>2328</sup> and other literature, and the deceits of eloquence!
 
 3\. Now in all these instances, they who do not love these things feel them as great severities; whereas they who love them endure the same, it is true, but they do not seem to feel them severe. For love makes all, the hardest and most distressing things, altogether easy, and almost nothing. How much more surely then and easily will charity do with a view to true blessedness, that which mere desire does as it can, with a view to what is but misery? How easily is any temporal adversity endured, if it be that eternal punishment may be avoided, and eternal rest procured! Not without good reason did that vessel of election say with exceeding joy, “The sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.”<sup>2329</sup> See then how it is that that “yoke is easy, and that burden light.” And if it be strait to the few who choose it, yet is it easy to all who love it. The Psalmist saith, “Because of the words of Thy lips I have kept hard ways.”<sup>2330</sup> But the things which are hard to those who labour, lose their roughness<sup>2331</sup> to those same men when they love. Wherefore it has been so arranged by the dispensation of the Divine goodness, that to “the inner man who is renewed from day to day,”<sup>2332</sup> placed no longer under
 
-2330 Ps. xvi. 4, Sept. (xvii. English version). 2331 *Mitescunt*. 2 Cor. iv. 16.
+2330 Ps. xvi. 4, Sept. (xvii. English version). 2331 *Mitescunt*. [[2 Corinthians 04#^4-16|2 Cor. iv. 16]].
 
 
 *[p. 672]* ^pg698
 
-*Again on the words of the Gospel, Matt. xi. 28, ‘Come unto me, all ye that…*
+*Again on the words of the Gospel, [[Matthew 11#^11-28|Matt. xi. 28]], ‘Come unto me, all ye that…*
 
 the Law but under Grace, and freed from the burdens of numberless observances which were indeed a heavy yoke, but meetly imposed on a stubborn neck, every grievous trouble which that prince who is cast forth could inflict from without on the outward man, should through the easiness of a simple faith, and a good hope, and a holy charity, become light through the joy within. For to a good will nothing is so easy, as this good will to itself, and this is enough for God. How much soever therefore this world may rage, most truly did the angels exclaim when the Lord was born in the flesh, “Glory to God in the highest, and on earth peace to men of good will;”<sup>2333</sup> because “His yoke,” who was then born, “is easy, and His burden light.” And as the Apostle saith, “God is faithful, who will not suffer us to be tempted above that we are able to bear; but will with the temptation also make a way to escape, that we may be able to bear it.”<sup>2334</sup>
 
-2333 Luke ii. 14. 1 Cor. x. 13.
+2333 [[Luke 02#^2-14|Luke ii. 14]]. [[1 Corinthians 10#^10-13|1 Cor. x. 13]].
 
 
 *[p. 673]* ^pg699
@@ -323,7 +323,7 @@ Sermon XXI.
 
 2\. But now that they may not think that it is the prince of the devils in whom the Lord Jesus Christ casteth out devils, let them attend to what follows; “And if I,” He saith, “by Beelzebub cast out devils, by whom do your children cast them out? Therefore shall they be your judges.”<sup>2337</sup> He spoke this undoubtedly of his disciples, the “children” of that people; who as being the disciples of the Lord Jesus Christ were well conscious that they had learnt no evil arts from their Good Master, that through the prince of the devils they should cast out devils. “Therefore,” He saith, “shall they be your judges.” They, He saith, the base and contemptible things of this world, in whom none of this artificial malice, but the holy simplicity of My power <sup>2338</sup> is seen; they shall be My witnesses, they shall be your judges. Then He subjoins, “But if I by the Spirit of God cast out devils, then the kingdom of God is come
 
-2335 2 Cor. iii. 5. 2336 Matt. xii. 22–26. 2337 Matt. xii. 27. *Virtutis*.
+2335 [[2 Corinthians 03#^3-5|2 Cor. iii. 5]]. 2336 [[Matthew 12#^12-22|Matt. xii. 22–26]]. 2337 [[Matthew 12#^12-27|Matt. xii. 27]]. *Virtutis*.
 
 
 *[p. 674]* ^pg700
@@ -334,9 +334,9 @@ unto you.”<sup>2339</sup> What is this? “If I by the Spirit of God cast out 
 
 4\. Afterwards, that the unbelievers and ungodly, the enemies of the Christian name, might not suppose by reason of the divers heresies and schisms of those who under the Christian name gather together flocks of lost sheep, that the kingdom of Christ also is divided against itself, He next adds, “He that is not with Me is against Me, and he that gathereth not with Me, scattereth abroad.”<sup>2343</sup> He does not say, he who is under the outward profession<sup>2344</sup> of My Name; or the form of My Sacrament; but “he who is not with Me is against Me.” Nor doth He say, he who gathereth not under the outward profession of My Name; but “he who gathereth not with Me, scattereth abroad.” Christ’s kingdom then is not divided against itself;
 
-2339 Matt. xii. 28.
+2339 [[Matthew 12#^12-28|Matt. xii. 28]].
 
-2340 Matt. xii. 29. 2341 1 Cor. iv. 7. 2342 Eph. ii. 3. 2343 Matt. xii. 30. *Voce*.
+2340 [[Matthew 12#^12-29|Matt. xii. 29]]. 2341 [[1 Corinthians 04#^4-7|1 Cor. iv. 7]]. 2342 [[Ephesians 02#^2-3|Eph. ii. 3]]. 2343 [[Matthew 12#^12-30|Matt. xii. 30]]. *Voce*.
 
 
 *[p. 675]* ^pg701
@@ -345,7 +345,7 @@ but men try to divide that which was bought with the price of the Blood of Chris
 
 5\. But these words of the Gospel, though they had some obscurity, which I think by the Lord’s assistance I have explained, were yet not so difficult, as that which follows would seem to be. “Wherefore I say unto you, all manner of sin and blasphemy shall be forgiven unto men, but the blasphemy against the Spirit shall not be forgiven unto men. And whosoever speaketh a word against the Son of Man, it shall be forgiven him; but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come.”<sup>2347</sup> What then will become of those whom the Church desires to
 
-2345 2 Tim. ii. 19. 2346 Maximianus, Deacon of the Church of Carthage, of the faction of Donatus, took offence at Primianus Bishop of Carthage, who had excommunicated him, and induced certain of the Donatist bishops to call Primianus to account; and when he would not acknowledge their authority, he was, as Cæcilianus had been, condemned in his absence. Primianus was restored by others of the Donatist bishops to communion, and Maximianus, together with twelve bishops who had assisted at his ordination as bishop, was condemned (Augustin, *De Gest.* *Emerit. Donat*. 9, etc., *Lib. ad. Bonif.*; Ep. 185 (al. 56) 17). The rest were restored to communion on their submission. The Maximianists were afterwards condemned by a Council of three hundred and ten bishops at the Council of Vagaia, A.D. 394 (Ep. 108 (255) 6, and 141 (al. 152) 6). St. Augustin frequently urges the separation of the Maximianists from the Donatists as condemnatory on their own principles of their own schism against the Catholic Church.
+2345 [[2 Timothy 02#^2-19|2 Tim. ii. 19]]. 2346 Maximianus, Deacon of the Church of Carthage, of the faction of Donatus, took offence at Primianus Bishop of Carthage, who had excommunicated him, and induced certain of the Donatist bishops to call Primianus to account; and when he would not acknowledge their authority, he was, as Cæcilianus had been, condemned in his absence. Primianus was restored by others of the Donatist bishops to communion, and Maximianus, together with twelve bishops who had assisted at his ordination as bishop, was condemned (Augustin, *De Gest.* *Emerit. Donat*. 9, etc., *Lib. ad. Bonif.*; Ep. 185 (al. 56) 17). The rest were restored to communion on their submission. The Maximianists were afterwards condemned by a Council of three hundred and ten bishops at the Council of Vagaia, A.D. 394 (Ep. 108 (255) 6, and 141 (al. 152) 6). St. Augustin frequently urges the separation of the Maximianists from the Donatists as condemnatory on their own principles of their own schism against the Catholic Church.
 
 
 *[p. 676]* ^pg702
@@ -366,7 +366,7 @@ pardon for them for the word which they have spoken against the Holy Ghost, in v
 
 2349 *Ipsa discessio*.
 
-2350 2 Tim. ii. 25, 26. 2351 *Fidelis*. *Sufficere*.
+2350 [[2 Timothy 02#^2-25|2 Tim. ii. 25]], [[2 Timothy 02#^2-26|26]]. 2351 *Fidelis*. *Sufficere*.
 
 
 *[p. 678]* ^pg704
@@ -377,7 +377,7 @@ to me, by words suggested at the moment. But as I listened to to-day’s lesson,
 
 10\. His will indeed was to exercise us by the difficulty of the question, not to deceive us by a false decision. Wherefore there is no necessity for any one to think, that every blasphemy or every word which is spoken against the Holy Ghost hath no remission; but necessary it plainly is, that there should be some certain blasphemy, and some word which if it be spoken against the Holy Ghost can never attain<sup>2355</sup> to pardon and forgiveness. For if we take it to mean “every word,” who then can be saved? But if again we think there is no such “word,” we contradict the Saviour. There is then without doubt some certain blasphemy and some word which if it be spoken against the Holy Ghost, shall not be forgiven. Now what this word is, it is the Lord’s will we should enquire; and therefore He hath not expressed it. His will, I say, was that it should be enquired into, not denied. For the style of the Scriptures is often such, that when anything is so expressed as not to be limited either to a universal or particular signification, it is not necessary that it should be understood universally, and not particularly. This proposition then would be expressed in its whole extent, that is, universally, if it were said, “All blasphemy<sup>2356</sup> of the Spirit shall not be forgiven;” or, “Whosoever speaketh any word whatsoever against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come.” But it would be expressed partially, that is, particularly, if it were said, “Some certain blasphemy of the Spirit shall not be forgiven.” But
 
-2353 This *word* must be supplied from the former clause in the verse, “Whosoever speaketh a word against the Son of Man” (Matt. xii. 32). It does not occur in the second clause of the verse in any of the versions. 2354 *Imperitorum*. 2355 *Mereatur*. ἡ τοῦ Πνεύματος βλασφημία. 322 2357 John xv. 22. 2358 Matt. xi. 28. 2359 Rom. v. 20.
+2353 This *word* must be supplied from the former clause in the verse, “Whosoever speaketh a word against the Son of Man” ([[Matthew 12#^12-32|Matt. xii. 32]]). It does not occur in the second clause of the verse in any of the versions. 2354 *Imperitorum*. 2355 *Mereatur*. ἡ τοῦ Πνεύματος βλασφημία. 322 2357 [[John 15#^15-22|John xv. 22]]. 2358 [[Matthew 11#^11-28|Matt. xi. 28]]. 2359 [[Romans 05#^5-20|Rom. v. 20]].
 
 
 *[p. 679]* ^pg705
@@ -386,7 +386,7 @@ because this proposition is laid down neither in a universal, nor a particular f
 
 11\. In order to seeing this more plainly, consider that which the same Lord also saith of the Jews, “If I had not come and spoken to them, they had not had sin.”<sup>2357</sup> For this again was not said with any such meaning, as if He intended it to be understood that the Jews would have been without any sin at all, if He had not come and spoken to them. For indeed He found them full of and laden with sins. Wherefore He saith, “Come unto Me, all ye that labour and are heavy laden.”<sup>2358</sup> Laden! with what, but with the burdens of sins and transgressions of the Law? “For the Law entered that sin might abound.”<sup>2359</sup> Since then He saith Himself in another place, “I came not to call the righteous, but sinners to repentance;”<sup>2360</sup> how would “they not have had sin if He had not come”? if it be not that this proposition being expressed neither universally, nor particularly, but indefinitely, does not constrain us to understand it of all sin? But certainly unless we understand that there was some sin which they would not have had if Christ had not come and spoken unto them, we must say that the proposition was false, which God forbid. He doth not say then, “If I had not come and spoken unto them, they had had no sin;” lest the Truth should lie. Nor again did He say definitely, “If I had not come and spoken unto them, they had not had some certain sin;” lest our devout earnestness<sup>2361</sup> should not be exercised. For in the full abundance of the Holy Scriptures we feed upon the plain parts, we are exercised by the obscure: by the one, hunger is driven away, and daintiness<sup>2362</sup> by the other. Seeing then that it is not said, “they had had no sin,” we need not be disturbed, though we acknowledge that the Jews would have been sinners, even if the Lord had not come. But yet because it is said, “If I had not come, they had not had sin;” it must needs be that they contracted, though not all, yet some sin which they had not before, from the coming of the Lord. And this verily is that sin, that
 
-2360 Matt. ix. 13. 2361 *Studium*. *Fastidium*.
+2360 [[Matthew 09#^9-13|Matt. ix. 13]]. 2361 *Studium*. *Fastidium*.
 
 
 *[p. 680]* ^pg706
@@ -397,7 +397,7 @@ they believed not in Him who was present with and spake to them, and that counti
 
 13\. I see that you are now wishing to hear, since it is not every blasphemy of the Spirit, what that blasphemy is which shall not be forgiven, and what that word is, since it is not every word which if it shall be spoken against the Holy Ghost, shall not be forgiven neither in this world, neither in the world to come. And for my part I should be willing to tell you at once, what you are so very intently waiting to hear; but bear for a while the delay which a more careful diligence requires, till by the Lord’s assistance I shall unfold the whole meaning of the passage before us. Now the other two Evangelists, Mark and Luke, when they spake of the same thing, did not say “blasphemy” or “a word,” that we might understand it not of every blasphemy, but of some sort of blasphemy; not every word, but some certain word. What then did they say? In Mark it is thus written, “Verily I say unto you, all sins shall be forgiven unto the sons of men, and blasphemies, where-withsoever they shall blaspheme. But he that shall blaspheme against the Holy Ghost, hath never forgiveness, but shall be held guilty of an eternal offence.”<sup>2364</sup> In Luke it is thus: “And whosoever shall speak a word against the Son of Man, it shall be forgiven him; but unto him that blasphemeth against the Holy Ghost, it shall not be forgiven.”<sup>2365</sup> Is there any departure from the truth of the same proposition because of some diversity in the expression? For indeed there is no other reason why the Evangelists do not relate the same things in the same way, but that we
 
-2363 John iii. 5. Mark iii. 28, 29. *Reus æterni peccati*, ἁμαρτήματος (for κρίσεως). So also Cyprian, Ep. xvi. 2364 323 2366 *Clause dictum*. 2367 1 Cor. xiv. 15. *Contradictioni*.
+2363 [[John 03#^3-5|John iii. 5]]. [[Mark 03#^3-28|Mark iii. 28]], [[Mark 03#^3-29|29]]. *Reus æterni peccati*, ἁμαρτήματος (for κρίσεως). So also Cyprian, Ep. xvi. 2364 323 2366 *Clause dictum*. 2367 [[1 Corinthians 14#^14-15|1 Cor. xiv. 15]]. *Contradictioni*.
 
 
 *[p. 681]* ^pg707
@@ -416,9 +416,9 @@ men, who by their divers errors and contradictions blaspheme against the Holy Gh
 
 17\. That expression also of His, “He that eateth My Flesh and drinketh My Blood dwelleth in Me, and I in him,”<sup>2376</sup> how must we understand? Can we include in these words those even of whom the Apostle says, “that they eat and drink judgment to themselves;”<sup>2377</sup> when they eat this flesh and drink this blood? What! did Judas the impious seller and betrayer
 
-2369 Jas. i. 13.
+2369 [[James 01#^1-13|Jas. i. 13]].
 
-2370 Deut. xiii. 3. 2371 John vi. 5, 6. 2372 Mark xvi. 16. 2373 Jas. ii. 19. 2374 Acts viii. 13. 2375 Gal. v. 6. 2376 John vi. 56. 1 Cor. xi. 29. 324 2378 Luke xxii. 21. 2379 *Confectum*.
+2370 Deut. xiii. 3. 2371 [[John 06#^6-5|John vi. 5]], [[John 06#^6-6|6]]. 2372 [[Mark 16#^16-16|Mark xvi. 16]]. 2373 [[James 02#^2-19|Jas. ii. 19]]. 2374 [[Acts 08#^8-13|Acts viii. 13]]. 2375 [[Galatians 05#^5-6|Gal. v. 6]]. 2376 [[John 06#^6-56|John vi. 56]]. [[1 Corinthians 11#^11-29|1 Cor. xi. 29]]. 324 2378 [[Luke 22#^22-21|Luke xxii. 21]]. 2379 *Confectum*.
 
 
 *[p. 683]* ^pg709
@@ -436,16 +436,16 @@ Father, Nativity in the Son, and the Communion of the Father and the Son in the 
 
 19\. First then in order to our receiving eternal life which shall be given at the last, there comes to us a gift from God’s goodness from the beginning of our faith, to wit, the remission of sins. For while they remain, there remains in some sort enmity against God, and alienation from Him, which comes from what is evil in us; since Scripture does not speak falsely, which says, “Your sins separate between you and God.”<sup>2393</sup> He does not then bestow on us His good things, except He take away our evil things. And the former increase in proportion as the latter are diminished; nor will the one be perfected, till the other be brought to an end. But now that the Lord Jesus forgives sins by the Holy Ghost, just as by the Holy Ghost He casts out devils, may be understood by this, that after His Resurrection from the dead, when He had said to His disciples, “Receive ye the Holy Ghost,” He immediately subjoined, “Whosesoever sins ye remit, they shall be remitted unto them, and whosesoever sins ye retain, they shall be retained.”<sup>2394</sup> For that regeneration also, in which there is a remission of all past sins, is wrought by the Holy Ghost, as the Lord saith, “Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.”<sup>2395</sup> But it is one thing to be
 
-2387 *Commune*. 2388 Rom. v. 5. 2389 1 Pet. iv. 8.
+2387 *Commune*. 2388 [[Romans 05#^5-5|Rom. v. 5]]. 2389 [[1 Peter 04#^4-8|1 Pet. iv. 8]].
 
-2390 *Origo*. 2391 *Orta*. 2392 *Effusa*. 2393 Isa. lix. 2. 2394 John xx. 22, 23. 325 2396 Matt. iii. 1, 2. 2397 Matt. iv. 17. 2398 Matt. iii. 11. 2399 Acts i. 5.
+2390 *Origo*. 2391 *Orta*. 2392 *Effusa*. 2393 Isa. lix. 2. 2394 [[John 20#^20-22|John xx. 22]], [[John 20#^20-23|23]]. 325 2396 [[Matthew 03#^3-1|Matt. iii. 1]], [[Matthew 03#^3-2|2]]. 2397 [[Matthew 04#^4-17|Matt. iv. 17]]. 2398 [[Matthew 03#^3-11|Matt. iii. 11]]. 2399 [[Acts 01#^1-5|Acts i. 5]].
 
 
 *[p. 685]* ^pg711
 
 born of the Spirit, another to be nourished by the Spirit; just as it is one thing to be born of the flesh, which happens when the mother is delivered of her child; another to be nourished by the flesh, which happens when she gives suck to her infant, who turns himself that he may drink with pleasure thither whence he was born, to have life; that he may receive the support of life from thence, whence he received the beginning of his birth. We must believe then that the first blessing of God’s goodness in the Holy Ghost is the remission of sins. Whence the preaching of John the Baptist, who was sent as the forerunner of the Lord, also begins with it. For thus it is written, “In those days came John the Baptist preaching in the wilderness of Judæa, saying, Repent ye, for the kingdom of heaven is at hand.”<sup>2396</sup> Hence too the beginning of our Lord’s preaching, as we read, “From that time Jesus began to preach and to say, Repent, for the kingdom of heaven is at hand.”<sup>2397</sup> Now John, amongst the other things which he spake to those who came to be baptized by him, said, “I indeed baptize you with water unto repentance; but He that cometh after me is mightier than I, whose shoes I am not worthy to bear; He shall baptize you with the Holy Ghost and with fire.”<sup>2398</sup> The Lord also said, “John truly baptized with water, but ye shall be baptized with the Holy Ghost not many days hence,”<sup>2399</sup> even at Pentecost. Now as to John’s expression, “with fire,” though tribulation also might be understood, which believers were to suffer for the name of Christ; yet may we reasonably think that the same Holy Spirit is signified also under the name of “fire.”<sup>2400</sup> Wherefore when He came it is said, “And there appeared unto them cloven tongues like as of fire, and it sat upon each of them.”<sup>2401</sup> Hence also the Lord Himself said, “I am come to send fire on the earth.”<sup>2402</sup> Hence also the Apostle saith, “Fervent in the spirit;”<sup>2403</sup> for from Him comes the fervour of love. “For it is shed abroad in our hearts by the Holy Ghost which is given unto us.”<sup>2404</sup> And the contrary to this fervour is what the Lord said, “The love of many shall wax cold.”<sup>2405</sup> Now perfect love is the perfect gift of the Holy Spirit. But the first “gift” is that which is concerned with the remission of sins; by which blessing “we are delivered from the power of darkness;”<sup>2406</sup> and the prince of this world,<sup>2407</sup>
 
-2400 See note g on Tert. *De Bapt*. c. 10, p. 268, Oxford translation. 2401 Acts ii. 3. 2402 Luke xii. 49. 2403 Rom. xii. 11. 2404 Rom. v. 5. 2405 Matt. xxiv. 12. 2406 Col. i. 13.
+2400 See note g on Tert. *De Bapt*. c. 10, p. 268, Oxford translation. 2401 [[Acts 02#^2-3|Acts ii. 3]]. 2402 [[Luke 12#^12-49|Luke xii. 49]]. 2403 [[Romans 12#^12-11|Rom. xii. 11]]. 2404 [[Romans 05#^5-5|Rom. v. 5]]. 2405 [[Matthew 24#^24-12|Matt. xxiv. 12]]. 2406 [[Colossians 01#^1-13|Col. i. 13]].
 
 
 *[p. 686]* ^pg712
@@ -456,9 +456,9 @@ who worketh in the children of disobedience”<sup>2408</sup> by no other power 
 
 21\. But this impenitence or impenitent heart may not be pronounced<sup>2412</sup> upon, as long as a man lives in the flesh. For we are not to despair of any so long as “the patience of God leadeth the ungodly to repentance,” and doth not hurry him out of this life; “God, who willeth not the death of a sinner, but that he should return from his ways and live.”<sup>2413</sup> He is a heathen today; but how knowest thou whether he may not be a Christian to-morrow? He is a heretic to-day; but what if to-morrow he follow the Catholic truth? He is a schismatic to-day; but what if to-morrow he embrace Catholic peace? What if they, whom thou observest
 
-2408 Eph. ii. 2. 2409 Rom. ii. 4–6.
+2408 [[Ephesians 02#^2-2|Eph. ii. 2]]. 2409 [[Romans 02#^2-4|Rom. ii. 4–6]].
 
-2410 Matt. iii. 2 and iv. 17. 2411 Luke xxiv. 46, 47. 2412 *Judicari*. Ezek. xviii. 23. 326 2414 1 Cor. iv. 5. 2415 1 Tim. v. 17. Jas. i. 22.
+2410 [[Matthew 03#^3-2|Matt. iii. 2]] and iv. 17. 2411 [[Luke 24#^24-46|Luke xxiv. 46]], [[Luke 24#^24-47|47]]. 2412 *Judicari*. Ezek. xviii. 23. 326 2414 [[1 Corinthians 04#^4-5|1 Cor. iv. 5]]. 2415 [[1 Timothy 05#^5-17|1 Tim. v. 17]]. [[James 01#^1-22|Jas. i. 22]].
 
 
 *[p. 687]* ^pg713
@@ -475,4 +475,4 @@ other sins also? All sins then are forgiven to them in whom is not this sin, whi
 
 24\. Wherefore, neither must we imagine, as some do, that the word which is spoken against the Son of Man is forgiven, but that which is spoken against the Holy Ghost is not forgiven, because Christ became the Son of Man by reason of His assuming flesh, in which respect the Holy Ghost of course is greater, who in His Own Substance is equal to the Father and the Only-begotten Son according to His Divinity, according to which also the Only-begotten Son Himself is equal to the Father and the Holy Spirit. For if this were the reason, surely nothing would have been said of any other kind of blasphemy, that that only might appear capable of forgiveness, which is spoken against the Son of Man, regarded only as man. But forasmuch as it is first said, “All manner of sin and blasphemy shall be forgiven unto men;”<sup>2419</sup> which in another Evangelist is also thus expressed, “All sins shall be forgiven unto the sons of men, and blasphemies wherewithsoever they shall blaspheme;”<sup>2420</sup> without doubt, that blasphemy also which is spoken against the Father is included in that general expression; and yet that alone is laid down as unpardonable, which is spoken against the Holy Ghost. What! did the Father also take the form of a servant, that in this respect the Holy Ghost should be greater than He? No surely: but after the universal mention of all sins and of all blasphemy, He wished to express more prominently the blasphemy which is spoken against the Son of Man for this reason, because although men should be even bound
 
-2417 John iii. 5. 2418 John xx. 22, 23. 2419 Matt. xii. 31 327
+2417 [[John 03#^3-5|John iii. 5]]. 2418 [[John 20#^20-22|John xx. 22]], [[John 20#^20-23|23]]. 2419 [[Matthew 12#^12-31|Matt. xii. 31]] 327

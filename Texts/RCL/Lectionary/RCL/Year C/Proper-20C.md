@@ -11,6 +11,7 @@ second_reading: "1 Timothy 2:1-7"
 gospel: "Luke 16:1-13"
 first_reading_complementary: "Amos 8:4-7"
 psalm_complementary: "Psalm 113"
+psalm_bcp_complementary: "Psalm 113"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-20]]"
 cssclasses:

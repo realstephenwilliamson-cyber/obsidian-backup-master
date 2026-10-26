@@ -30,7 +30,7 @@ paratvena tu yatpūjyaṃ tatsvatantracidātmakam || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 08 - Chapter Seventeen#^pg170|p. 150]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=170>))
 >
-> My teacher has said that the statement in the venerable Svacchandatantra that, ‘after having invoked (the deity), sacrificed and offered libation (to it)...? should be interpreted in the very same way. (with 17.18cd–19ab)
+> My teacher has said that the statement in the venerable Svacchandatantra that, ‘after having invoked (the deity), sacrificed and offered libation (to it)...’ should be interpreted in the very same way. (with 17.18cd–19ab)
 >
 > That which is to be worshiped as supreme is (one’s own) free consciousness. (The supreme reality) is the unlimited light (of consciousness) which, as such, can (never) in any circumstance be illumined (by another light). (with 17.19cd–20ab)
 

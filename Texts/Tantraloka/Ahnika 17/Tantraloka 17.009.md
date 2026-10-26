@@ -30,7 +30,7 @@ tattattvavyāpikāṃ paścānmāyātattvādhidevatām || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 08 - Chapter Seventeen#^pg163|p. 143]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=163>))
 >
-> There he should first of all invoke the Earth (principle) by applying its Mantra, and having made offerings with flowers and the like, he should offer libations with clarified butter and sesame seeds etc. After that, having invoked and worshipped with her own mantra the power of Māyā, that pervades that principle (of Earth), and the one who is the deity that presides over the principle Māyā (adhidevatā), he should offer libations to her.’ (with 17.8cd–10ab)
+> There he should first of all invoke the Earth (principle) by applying its Mantra, and having made offerings with flowers and the like, he should offer libations with clarified butter and sesame seeds etc. After that, having invoked and worshipped with her own mantra the power of Māyā, that pervades that principle (of Earth), and the one who is the deity that presides over the principle Māyā (adhidevatā), he should offer libations to her. (with 17.8cd–10ab)
 
 ## Viveka
 

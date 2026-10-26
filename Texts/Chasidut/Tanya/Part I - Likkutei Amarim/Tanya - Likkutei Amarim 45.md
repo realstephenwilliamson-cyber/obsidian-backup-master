@@ -36,7 +36,7 @@ In this way, a person is able to attain the distinction of *ahavah rabbah* (“g
 [^6]: [[Torah 07 - Vayetzei#^29-11|Genesis 29:11]].
 [^7]: Comp. *Bereishit Rabbah* 71, 3; 82, 11.
 [^8]: [[Song of Songs 1#^1-2|Song of Songs 1:2]].
-[^9]: [[Shabbat 138#138b|*Shabbat* 138b]].
+[^9]: *Shabbat* [[Shabbat 138#138b|138b]].
 [^10]: *Tikkunei Zohar*, Introduction [[Tikkunei Zohar 017a|17a]].
 [^11]: [[Song of Songs 2#^2-6|Song of Songs 2:6]].
 [^12]: Note the deviation from the standard translation (“that He may have mercy upon him”). The ambiguity of the word וירחמהו permits both renditions.

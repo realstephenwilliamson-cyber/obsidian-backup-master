@@ -11,6 +11,7 @@ second_reading: "2 Timothy 4:6-8, 16-18"
 gospel: "Luke 18:9-14"
 first_reading_complementary: "Sirach 35:12-17 or Jeremiah 14:7-10, 19-22"
 psalm_complementary: "Psalm 84:1-7"
+psalm_bcp_complementary: "Psalm 84:1-6"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-25]]"
 cssclasses:

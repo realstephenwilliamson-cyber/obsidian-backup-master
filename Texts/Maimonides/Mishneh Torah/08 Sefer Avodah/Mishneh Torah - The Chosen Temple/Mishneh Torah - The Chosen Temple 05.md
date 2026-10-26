@@ -133,7 +133,7 @@ The Courtyard of the Israelites had two other chambers:[^111] one to the right o
 [^3]: *Tumat Ohel* refers to ritual impurity contracted by being under the same tent or structure as a corpse. Even thought the corpse is buried, ritual impurity can be contracted unless there is a vacant space between the corpse and the earth above it. To prevent the possibility of impurity from a grave under the Temple courtyard, the entire earth below was hollowed out. See *Parah* 3:3.
 [^4]: Though the Mishnah (*Parah, loc. cit.*) states that the earth beneath the Temple was hollowed out, it does not mention the construction of arches. However, since the Mishnah (*ibid.*:6) states that arches supported the ramp leading from the Temple Mount to the Mount of Olives, we may assume that a similar technique was used in the instance (*Kessef Mishneh*). See also the commentary to Chapter 1, Halachah 13.
 [^5]: With the exception of the Temple Courtyard.
-[^6]: Rashi ([[Pesachim 13#13a|*Pesachim* 13a]]) explains that this roof was built to protect the visitors to the Temple fom rain.
+[^6]: Rashi (*Pesachim* [[Pesachim 13#13a|13a]]) explains that this roof was built to protect the visitors to the Temple fom rain.
 [^7]: *Middot* 1:3 relates that this gate was called *Kaiphonus.* The *Shiltei Giborim* explains that this means 'garden' in Greek. The name was given because a rose was planted outside this gate.
 [^8]: This gate was called the Gate of Shushan, and the image of the city of Shushan was engraved upon it. This was done at the command of King Cyrus of Persia, who gave permission for the Temple to be rebuilt.
 [^9]: It was called the *Tadi* gate, meaning 'hiddenness.' This gate was used when someone was forced to leave the Temple, but he did not want to publicize the circumstances (*Middot* 1:9, 2:2). Its construction differed from that of the other gates. Rather than have an ordinary lintel, it had two stones leaning against each other (*ibid.*:3).
@@ -162,7 +162,7 @@ The Courtyard of the Israelites had two other chambers:[^111] one to the right o
 [^22]: See Chapter 1, Halachot 11 and 19.
 [^23]: As mentioned in the beginning of Chapter 6, the Temple was built on an incline and had steps leading from the Women's Courtyard to the gate of Nicanor. Hence, the gate leading to the Women's Courtyard was referred to as the lower gate, and the gate of Nicanor, the Upper Gate. See *Hilchot Klei HaMikdash*, Chapter 7, Mishnah 6.
 [^24]: In honor of the noble person who donated its doors.  
-    [[Yoma 38#38a|*Yoma* 38a]] relates that Nicanor journeyed to Alexandria to ask the skilled bronzeworkers there to fashion these gates. When the gates were finished, he set sail with them to return to *Eretz Yisrael*.  
+    *Yoma* [[Yoma 38#38a|38a]] relates that Nicanor journeyed to Alexandria to ask the skilled bronzeworkers there to fashion these gates. When the gates were finished, he set sail with them to return to *Eretz Yisrael*.  
     At sea, a violent storm almost capsized the vessel. After other measures failed, the crew members decided to jettison some of the ship's cargo to reduce its weight. Immediately, they tossed one of the heavy bronzed gates to the waves.  
     The danger did not cease, and the crew wanted to cast the second gate overboard as well. Hearing this, Nicanor protested and declared that he would have to be thrown into the sea before the gate. Directly after he made that statement, the storm subsided and the ship was able to proceed.  
     Throughout the remainder of the journey, Nicanor was overcome with remorse. Why, he thought, hadn't he defended the first gate as well? How great was his joy when the ship docked at Acre and the gate emerged from under its hull.  
@@ -180,7 +180,7 @@ The Courtyard of the Israelites had two other chambers:[^111] one to the right o
 [^30]: The chambers were inside the walls of the Courtyard, and not on the outside.
 [^31]: The Mishnah (*Middot* 2:5) bases the latter statement on the prophecy of [[Ezekiel 46#^46-21|Ezekiel 46:21-22]]): "Then he took me out into the outer courtyard.... Behold, there was a chamber in each corner of the courtyard. At the four corners, there were roofless chambers...."
 [^32]: The chamber to the left upon entering the Women's Courtyard.
-[^33]: [[Torah 35 - Nasso#^6-18|Numbers 6:18]] commands: "The Nazirite shall shave off the crown of hair on his head before the Tent of Meeting. He shall take the hair... and place it in the fire under the peace offering." [[Nazir 45#45a|*Nazir* 45a]] explains that, in deference to the presence of the *Shechinah*, the shaving was not carried out before the Sanctuary itself, but rather in this chamber, while the door to the Sanctuary was open. See also *Hilchot Nizirut* 8:2-3.
+[^33]: [[Torah 35 - Nasso#^6-18|Numbers 6:18]] commands: "The Nazirite shall shave off the crown of hair on his head before the Tent of Meeting. He shall take the hair... and place it in the fire under the peace offering." *Nazir* [[Nazir 45#45a|45a]] explains that, in deference to the presence of the *Shechinah*, the shaving was not carried out before the Sanctuary itself, but rather in this chamber, while the door to the Sanctuary was open. See also *Hilchot Nizirut* 8:2-3.
 [^34]: The chamber to the right upon entering.
 [^35]: [[Torah 31 - Emor#^21-16|Leviticus 21:16-24]] lists the physical deformities which disqualified a priest for Temple service and the relevant regulations. See also *Hilchot Bi'at HaMikdash*, Chapter 6.
 [^36]: Just as the choicest animals should be chosen for the sacrifices, so too, the wood used to burn them should be of the highest quality (*Hilchot Issurei Mizbeiach*, 6:1-2).
@@ -217,7 +217,7 @@ The Courtyard of the Israelites had two other chambers:[^111] one to the right o
     The emission of semen renders a man ritually impure ([[Torah 28 - Metzora#^15-16|Leviticus 15:16]] . Thus, a priest who had a nocturnal emission may not enter the Temple premises or take part in its services. The process of ritual purification involves immersion in a *mikveh* and waiting until nightfall. In the morning, the priest left the Temple premises through the gate leading to the *chayl* (*Tamid, loc. cit.*).
 [^63]: An intricate chain of underground passageways was located under the Temple Mount, including this stairwell leading to a natural reservoir of water where a *mikveh* was constructed.  
     This halachah raises a question. As mentioned above, in this condition, the priests were not able to enter the Temple premises. If so, how could they enter these passageways which passed under consecrated ground?  
-    The commentaries answer (see Chapter 8, Halachah 7) that since these underground passageways did not open to the Temple Courtyard itself, they were not consecrated. See [[Pesachim 86#86a|*Pesachim* 86a]].
+    The commentaries answer (see Chapter 8, Halachah 7) that since these underground passageways did not open to the Temple Courtyard itself, they were not consecrated. See *Pesachim* [[Pesachim 86#86a|86a]].
 [^64]: The fire that the priests kindled at night, from which the entire chamber derived its name. See *Tamid* 3:3.
 [^65]: I.e., a toilet.
 [^66]: Rav Ovadiah of Bartinura wrote that no one ever entered this toilet while it was occupied by another person.  
@@ -246,10 +246,10 @@ The Courtyard of the Israelites had two other chambers:[^111] one to the right o
 [^80]: This statement is somewhat difficult. *Tamid* 4:2 states that a sacrificial animal's internal organs, except for its stomach, were washed on these tables. It does not mention the washing of the meat at all. The Rambam states that the internal organs were washed in the Washing Chamber (see Halachah 17) and that these tables were used for washing the meat. The commentaries question the source for the Rambam's statements (Ra'avad). *Kin'at Eliyahu* emphasizes that the Rambam's wording indicates that here we are not speaking about meat offered on the altar, but meat cooked and eaten by the priests.
 [^81]: As a preliminary stage in the process of salting meat, the meat must be washed to remove all surface blood.
 [^82]: See *Shekalim* 3:4.  
-    *Tosafot* ([[Yoma 16#16b|*Yoma* 16b]]) notes that [[Yoma 30#30b|*Yoma* 30b]] describes the tables as being placed between the pillars. Two possible explanations are offered:  
+    *Tosafot* (*Yoma* [[Yoma 16#16b|16b]]) notes that *Yoma* [[Yoma 30#30b|30b]] describes the tables as being placed between the pillars. Two possible explanations are offered:  
     a) there were two sets of tables: one between the pillars, and one to their left;  
     b) even though there was a small gap between the pillars and the tables, the expression "between the tables" could be used.
-[^83]: These rings were permanently affixed to the floor of the Temple Courtyard, at the request of Yochanan, the High Priest. The feet of an animal brought as a sacrifice were placed inside the rings to hold the animal in place while it was being slaughtered. (See the Rambam's Commentary to the Mishnah 5:2. Note Rashi, [[Sukkah 56#56a|*Sukkah* 56a]] for a different interpretation of the rings' use.)
+[^83]: These rings were permanently affixed to the floor of the Temple Courtyard, at the request of Yochanan, the High Priest. The feet of an animal brought as a sacrifice were placed inside the rings to hold the animal in place while it was being slaughtered. (See the Rambam's Commentary to the Mishnah 5:2. Note Rashi, *Sukkah* [[Sukkah 56#56a|56a]] for a different interpretation of the rings' use.)
 [^84]: There were 24 rings. There is a debate in *Middot* 3:5 whether there were six rows of four rings, or four rows of six. Though the Rambam does not specify which opinion he follows, his diagrams which accompany his Commentary to the Mishnah apparently tend toward the former opinion.
 [^85]: As mentioned in Halachah 16, the sacrifices of the most sacred order had to be slaughtered in the northern portion of the courtyard. The rings included in that region were therefore used for this purpose. The sacrifices of a lesser degree of holiness could be slaughtered any place within the Temple courtyard. When many people brought their sacrifices at the same time, for example on the festivals, the priests took advantage of this leniency.  
     Note the accompanying diagram.
@@ -267,7 +267,7 @@ The Courtyard of the Israelites had two other chambers:[^111] one to the right o
     the space between the rings and the altar 8 cubits.
 [^93]: See Halachah 12.
 [^94]: [[Torah 24 - Vayikra#^1-11|Leviticus 1:11]] declares that the burnt offerings are to be slaughtered "on the north side of the altar." Similar instructions were given in regard to sin offerings, guilt offerings, and communal peace offerings.  
-    This definition of "the northern portion" of the Temple Courtyard follows the opinion of Rebbi Yehudah HaNasi ([[Zevachim 20#20a|*Zevachim* 20a]]).
+    This definition of "the northern portion" of the Temple Courtyard follows the opinion of Rebbi Yehudah HaNasi (*Zevachim* [[Zevachim 20#20a|20a]]).
 [^95]: See *Middot* 5:3, 4 and 1:4.
 [^96]: These chambers were not situated parallel to each other.
 [^97]: The side of the Temple Courtyard to the left when facing the Temple building.
@@ -283,7 +283,7 @@ The Courtyard of the Israelites had two other chambers:[^111] one to the right o
 [^102]: As mentioned previously in Halachah 14, there is a slight difficulty with this statement. *Tamid* 4:2 states that the internal organs were washed on the tables, except for the lower digestive organs. They were not washed in the open since it was not proper to spill out their contents before the Temple building. However, the Rambam goes beyond that source and states that all internal organs were washed in this chamber.
 [^103]: Allowing access to the *mikveh* located there.
 [^104]: The name "Chamber of Wood" is somewhat problematic. As mentioned in Chapter 1, Halachah 9, it is forbidden to build a chamber of wood in the Temple Courtyard. The commentaries explain that the chamber itself was not made of wood. However, it was given that name either because it was used to store wood or because it had wooden paneling.
-[^105]: Only kings from the House of David were allowed to sit in the Temple Courtyard ([[Yoma 25#25a|*Yoma* 25a]]).
+[^105]: Only kings from the House of David were allowed to sit in the Temple Courtyard (*Yoma* [[Yoma 25#25a|25a]]).
 [^106]: This name was given because of the seats of hewn stone upon which the Sanhedrin were seated. Two reasons are given for the placement of Israel's highest court in the Temple Courtyard. Firstly, to a large extent, they were involved with judging cases related to the priesthood (*Hilchot Bi'at HaMikdash* 6:11).  
     Secondly, the holiness of the Temple inspired their decisions and provided them with additional insight. Once the Sanhedrin was forced to leave this site, it was not granted the authority to judge capital cases.
 [^107]: Considered as part of the Temple Courtyard.
@@ -291,8 +291,8 @@ The Courtyard of the Israelites had two other chambers:[^111] one to the right o
     Nevertheless, there are unresolved difficulties concerning this Halachah. Among them:  
     a) How was it possible for all the judges and the students who would attend the sessions of the *Sanhedrin* to sit in so small an area?  
     b) Which entrance leading from the Courtyard is referred to? It was not mentioned among the seven gates mentioned in Halachah 5:4 or even among the 13 gates listed in *Middot* 2:6.
-[^109]: Seven days before Yom Kippur, the High Priest left his own home and adjourned to this chamber, where he busied himself, preparing for the service of that holy day ([[Yoma 2#2a|*Yoma* 2a]]).  
-    [[Yoma 8#8b|*Yoma* 8b]] (note Rashi's commentary) explains that the name *Parhedrin* meant "officer of the king." This name was given to this chamber in the days of the Second Temple when the High Priests would purchase this office from the king at a high price.  
+[^109]: Seven days before Yom Kippur, the High Priest left his own home and adjourned to this chamber, where he busied himself, preparing for the service of that holy day (*Yoma* [[Yoma 2#2a|2a]]).  
+    *Yoma* [[Yoma 8#8b|8b]] (note Rashi's commentary) explains that the name *Parhedrin* meant "officer of the king." This name was given to this chamber in the days of the Second Temple when the High Priests would purchase this office from the king at a high price.  
     These "High Priests" were not righteous and as a sign of Divine retribution, they would die within a year of assuming office. Upon their death, the position would be sold again. To emphasize that these "High Priests" received the position through bribery and not through merit, they were referred to as "the officers of the king."
 [^110]: Rav Ovadiah of Bartinura explains that one roof was placed over all three buildings. However, the Rambam's diagrams do not appear to subscribe to this idea.
 [^111]: See *Middot* 1:4.

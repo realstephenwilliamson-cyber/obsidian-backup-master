@@ -101,7 +101,7 @@ If [when] they came to court, they persisted in their denial, they are liable fo
 [^3]: In which instance, their testimony would not be effective in cases of monetary law.
 [^4]: It would seem that according to the Rambam, they are liable for a *sh'vuat bitui*. The same law applies with regard to the subsequent halachot. See Chapter 9, Halachah 14.
 [^5]: Since their testimony is not effective, they are not liable.
-[^6]: Making such a statement does not create a binding financial obligation ([[Shevuot 35#35a|*Sh'vuot* 35a]]).
+[^6]: Making such a statement does not create a binding financial obligation (*Sh'vuot* [[Shevuot 35#35a|35a]]).
 [^7]: I.e., were his mother to have undergone either divorce or *chalitzah*, he would be disqualified from the priesthood.
 [^8]: The son is liable for execution for wounding his father (*Hilchot Mamrim* 5:5), the kindler is liable for desecrating the Sabbath, and the seducer or rapist for adultery.
 [^9]: *Hilchot Na'arah Betulah* 1:13 explains that this concept is derived from the exegesis of [[Torah 18 - Mishpatim#^21-22|Exodus 21:22]].
@@ -130,7 +130,7 @@ If [when] they came to court, they persisted in their denial, they are liable fo
 [^29]: For the same denial applies to all of them. Since they never denied the matter in court, each denial they make is still significant (in contrast to the instance mentioned in Halachah 18).
 [^30]: That they are liable for an oath administered outside the court.
 [^31]: Chapter 9, Halachot 1, 10.  
-    The Ra'avad differs with the Rambam concerning this issue, stating that he has made a great error in interpreting the difference of opinion between Rabbi Meir and the Sages mentioned in [[Shevuot 30#30b|*Sh'vuot* 30b]]. The Ra'avad maintains that their difference of opinion concerns only whether the denial of knowledge of the matter must be made in the presence of the court or outside of it. Both, however, agree that an oath is significant, whether made in the presence of the court or outside of it. The Rambam, however, maintains that since the witnesses did not take the oath themselves or respond to it, they are not liable. It is only when the oath is administered in court that the oath is significant even though the witnesses do not respond to it.
+    The Ra'avad differs with the Rambam concerning this issue, stating that he has made a great error in interpreting the difference of opinion between Rabbi Meir and the Sages mentioned in *Sh'vuot* [[Shevuot 30#30b|30b]]. The Ra'avad maintains that their difference of opinion concerns only whether the denial of knowledge of the matter must be made in the presence of the court or outside of it. Both, however, agree that an oath is significant, whether made in the presence of the court or outside of it. The Rambam, however, maintains that since the witnesses did not take the oath themselves or respond to it, they are not liable. It is only when the oath is administered in court that the oath is significant even though the witnesses do not respond to it.
 [^32]: They are, however, liable for a *sh'vuat bitui* as stated in the following halachah.
 [^33]: As stated in *Hilchot Edut* 3:5, once witnesses testify in court, they cannot change that testimony. Since their testimony would no longer have an effect, they are not liable for a *sh'vuat haedut.*
 [^34]: Chapter 9, Halachah 14. This also applies to all the other instances in this chapter where it was stated that the witnesses were not liable for a *sh'vuat haedut*.

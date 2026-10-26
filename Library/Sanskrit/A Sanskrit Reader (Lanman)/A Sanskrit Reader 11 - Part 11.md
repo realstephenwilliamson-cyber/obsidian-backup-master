@@ -120,7 +120,7 @@ They call out to each
 
 other encouragingly the words of the stanza. 
 
-The famous hymn RV. iii.33 involves a situation which is similar (Muir, i?.338), and, indeed, familiar elsewhere (Hebrews xi.29; Hdt. viii.138). 
+The famous hymn RV. iii.33 involves a situation which is similar (Muir, i?.338), and, indeed, familiar elsewhere ([[Hebrews 11#^11-29|Hebrews xi.29]]; Hdt. viii.138). 
 
 The stream is stony. Holà ye well together. 
 
@@ -386,7 +386,7 @@ In place of this stanza the AV. has interpolated RV. x.60.12, evidently because 
 
 2-3. That the laying on of hands has especial virtue is a wide-spread belief — cf. 
 
-Acts viii.17f, and above, p. 369% top. The Greeks attributed to each of the 47 ४१०८ "16५०५ a name and a particular healing power. 
+[[Acts 08#^8-17|Acts viii.17f]], and above, p. 369% top. The Greeks attributed to each of the 47 ४१०८ "16५०५ a name and a particular healing power. 
 
 The finger next to the little finger (see note to 10411} is called, digitus medicus by Pliny, and medicinalis, in the laws of Henry I. of England; and it has a special and beneficent magic power. —W. Grimm, Kleinere Schriften, iii.440f, 442. 
 
@@ -1187,7 +1187,7 @@ stamba to be a duty resting on the authority of Holy Writ (brāhmaṇa-vacanāe 
 
 kámam å víjanitoh sám bhavāma, ‘Let us 
 
-have intercourse after our heart’s desire till a child be begotten. Explicit is Bāudhāyana, iv.1.17 = SBE. xiv.83l15; MBh. xii.21.12 — 626. Cf. Ludwig, v.549 (N. to RV. i.179.2), and iv. 315: also Exodus xxi.l0f, and I Cor. vii.3. 2. See Vvac, caus.: form, cf. 987n. 
+have intercourse after our heart’s desire till a child be begotten. Explicit is Bāudhāyana, iv.1.17 = SBE. xiv.83l15; MBh. xii.21.12 — 626. Cf. Ludwig, v.549 (N. to RV. i.179.2), and iv. 315: also Exodus xxi.l0f, and [[1 Corinthians 07#^7-3|I Cor. vii.3]]. 2. See Vvac, caus.: form, cf. 987n. 
 
 SeLrectIon LXXV. 
 

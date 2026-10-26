@@ -107,7 +107,7 @@ When the Jews were exiled after the first destruction [of the Temple], the sanct
 [^4]: In contrast to the law regarding an ancestral heritage (Chapter 11, Halachah 18).
 [^5]: In contrast to the law regarding an ancestral heritage (*ibid.*:17).
 [^6]: In this, the laws parallel those governing an ancestral field (*ibid.*:17-18).
-[^7]: [[Arakhin 32#32b|*Arachin* 32b]] derives these concepts from the exegesis of relevant verses.
+[^7]: *Arachin* [[Arakhin 32#32b|32b]] derives these concepts from the exegesis of relevant verses.
 [^8]: Permanently, for it does not return to the owner in the Jubilee. See the Rambam's Commentary to the Mishnah (*Arichin* 9:4).
 [^9]: Who was also the first purchaser.
 [^10]: The Rambam is referring to a difference of opinion in *Arichin, loc. cit.*, whether after twelve months, the house remains in the possession of the second purchaser or reverts to the first. Although one might argue that the Torah specifies that if the house is not redeemed it becomes the property of the first seller, that rationale is not accepted for the reason the Rambam states.
@@ -117,23 +117,23 @@ When the Jews were exiled after the first destruction [of the Temple], the sanct
 [^14]: I.e., an ordinary year with only one Adar.
 [^15]: For it is a full twelve months after that sale and that sale was made after the extra month of the leap year had been completed.
 [^16]: And if that day passes, he will not be able to redeem it.
-[^17]: This is an ordinance established by Hillel the Elder to protect the rights of the seller (*Arachin* 9:4). The rationale is that since the purchaser has no choice whether to accept the money or not, it is sufficient for the money to be deposited in the court for him ([[Arakhin 32#32a|*Arachin* 32a]]).
+[^17]: This is an ordinance established by Hillel the Elder to protect the rights of the seller (*Arachin* 9:4). The rationale is that since the purchaser has no choice whether to accept the money or not, it is sufficient for the money to be deposited in the court for him (*Arachin* [[Arakhin 32#32a|32a]]).
 [^18]: We are not concerned with the date on which it was consecrated. Instead, it is the date from which it was redeemed from the Temple treasury which concerns us, for that is when it was sold and it is its sale that brings about a change in ownership.
-[^19]: I.e., for the sake of his descendants and the Temple treasury does not have descendants ([[Arakhin 32#32b|*Arachin* 32b]]).
+[^19]: I.e., for the sake of his descendants and the Temple treasury does not have descendants (*Arachin* [[Arakhin 32#32b|32b]]).
 [^20]: The statement ([[Torah 32 - Behar#^25-30|Leviticus 25:30]] : "It shall not return in the Jubilee" applies both before the house becomes the permanent property of the purchaser and afterwards.
 [^21]: Again, what is significant is not the present state of the city, but its state at the time of Joshua's conquest, as stated in Halachah 15.
 [^22]: Since the sale involves a house, the seller has this advantage over the seller of a field.
 [^23]: For [[Torah 32 - Behar#^25-31|Leviticus 25:31]] states that they will be considered as a field.
-[^24]: [[Arakhin 33#33a|*Arachin* 33a]] [quoted by the Rambam's Commentary to the Mishnah (*Arachin* 9:7)] explains that since the above verse specifies that these homes can be redeemed and that they are returned in the Jubilee, we derive the concept that their redemption involves a reduction of the cost of the field.
+[^24]: *Arachin* [[Arakhin 33#33a|33a]] [quoted by the Rambam's Commentary to the Mishnah (*Arachin* 9:7)] explains that since the above verse specifies that these homes can be redeemed and that they are returned in the Jubilee, we derive the concept that their redemption involves a reduction of the cost of the field.
 [^25]: I.e., it can be redeemed only within a year and does not return in the Jubilee.
-[^26]: For a house is not considered a house unless it is at least four cubits by four cubits ([[Sukkah 3#3b|*Sukkah* 3b]]). This concept applies in several different contacts, for example, the requirement to place a *mezuzah* (*Hilchot Mezuzah* 6:1) or to construct a guardrail (*Hilchot Rotzeach* 11:1).
-[^27]: As the Rambam states in *Hilchot Beit HaBechirah* 7:14, Jerusalem was never divided among the tribes. For that reason, a person can never permanently acquire property there. Instead, houses there are bound by the laws that apply to houses in settlements (see Rashi. [[Arakhin 32#32b|*Arachin* 32b]]; [[Bava Kamma 82#82b|*Bava Kama* 82b]]).
+[^26]: For a house is not considered a house unless it is at least four cubits by four cubits (*Sukkah* [[Sukkah 3#3b|3b]]). This concept applies in several different contacts, for example, the requirement to place a *mezuzah* (*Hilchot Mezuzah* 6:1) or to construct a guardrail (*Hilchot Rotzeach* 11:1).
+[^27]: As the Rambam states in *Hilchot Beit HaBechirah* 7:14, Jerusalem was never divided among the tribes. For that reason, a person can never permanently acquire property there. Instead, houses there are bound by the laws that apply to houses in settlements (see Rashi. *Arachin* [[Arakhin 32#32b|32b]]; *Bava Kama* [[Bava Kamma 82#82b|82b]]).
 [^28]: *Arachin* 9:5 records a difference of opinion on this issue between Rabbi Yehudah and Rabbi Shimon. Both of them base their opinion on the exegesis of the Biblical story of Rachab's home in Joshua, ch. 2.
-[^29]: [[Megillah 5#5b|*Megillah* 5b]] explains that this refers to a situation where the city is not surrounded by a wall, but instead, its houses are built next to each other, so that it appears that it is surrounded by a wall (Rav Yosef Corcus).
+[^29]: *Megillah* [[Megillah 5#5b|5b]] explains that this refers to a situation where the city is not surrounded by a wall, but instead, its houses are built next to each other, so that it appears that it is surrounded by a wall (Rav Yosef Corcus).
 [^30]: For example, as in the instance of Tiberias which was surrounded by a wall on one side and the sea on the other.
 [^31]: Instead, they are governed by the laws applying to homes in a settlement.
 [^32]: Otherwise, it is not large enough to be called a city.
-[^33]: Interestingly, the Talmud also mentions these laws with regard to reading a *Megilah* in a walled city ([[Megillah 3#3b|*Megilah* 3b]]), but the Rambam does not quote them there, only here.
+[^33]: Interestingly, the Talmud also mentions these laws with regard to reading a *Megilah* in a walled city (*Megilah* [[Megillah 3#3b|3b]]), but the Rambam does not quote them there, only here.
 [^34]: *Arachin* 9:6 gives as examples: Ancient Yodefat, Gamla, Chadid, Gedod, and Ono.
 [^35]: The Ra'avad differs with the Rambam and maintains that once a city's walls are destroyed, the city loses its unique status. The Radbaz and the *Kessef Mishneh* explain that the Rambam is referring to the situation in the First Temple era. If a city had a wall at the time of Joshua's conquest, but that wall was torn down, the status of the city did not change throughout that era. See also the Rambam's Commentary to the Mishnah (*Arichin* 9:6).
 [^36]: And the sanctity of the land was nullified, as the Rambam states in *Hilchot Beit HaBechirah* 6:15, *Hilchot Terumah* 1:26..

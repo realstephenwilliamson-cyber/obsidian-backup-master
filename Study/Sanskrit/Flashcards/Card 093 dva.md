@@ -20,16 +20,13 @@ nyasa: "da: left foot (*pāda*) · va: sinews (*sūtra*)"
 ## Front
 
 - **Glyph:** द्व
-- **Variation:** द्व (another form: a small va under da)
 - **Example:** द्वन्द्व
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** As in ‘dvandva’ (pair)
-- **Class (as printed):** —
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: द, व
-- **Example:** dvandva (pair)
+> [!note]- Back
+> - **Pronunciation:** As in ‘dvandva’ (pair)
+> - **Variation:** द्व (another form: a small va under da)
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ <u>द</u> ध न / प फ ब भ म / य र ल <u>व</u> / श ष स ह
+> - **Example:** dvandva (pair)
 
 ## Register
 

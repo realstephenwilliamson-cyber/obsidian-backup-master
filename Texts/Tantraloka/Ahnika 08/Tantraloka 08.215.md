@@ -31,7 +31,7 @@ tanmātrādimano'ntānāṃ purāṇi śivaśāsane || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 05 (Dyczkowski)/Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#^pg258|p. 240]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 05.pdf#page=258>))
 > Dyczkowski numbers this verse 8.215cd–216ab.
 >
-> Moreover, Lord Śiva (has said) in the ivaśāsana (i.e. Svacchandatantra) that: ‘O dear one, above the sphere of the Sky and below that of the ego, are the worlds of (the principles), ranging from the subtle elements to the mind.
+> Moreover, Lord Śiva (has said) in the ivaśāsana (i.e. Svacchandatantra) that: ‘O dear one, above the sphere of the Sky and below that of the ego,’ are the worlds of (the principles), ranging from the subtle elements to the mind.
 
 ## Viveka
 

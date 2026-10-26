@@ -107,7 +107,7 @@ All of the above are disqualified from serving and if they serve, they invalidat
 [^2]: I.e., where is stated the prohibition for which this punishment is given? (*Sifri*)
 [^3]: *Sefer HaMitzvot* (negative commandment 74) and *Sefer HaChinuch* (mitzvah 390) include this prohibition among the 613 mitzvot of the Torah.
 [^4]: Thus restricting the priestly service to males and excluding females. The Radbaz questions why two verses are necessary to exclude the women of the priestly family. He explains that since they are permitted to partake of *terumah* and certain sacrificial foods, they are not entirely similar to Israelites. Hence, a second verse is necessary.
-[^5]: Service which is the final stage in a sacrifice being brought to the altar ([[Yoma 24#24a|*Yoma* 24a]]).
+[^5]: Service which is the final stage in a sacrifice being brought to the altar (*Yoma* [[Yoma 24#24a|24a]]).
 [^6]: E.g., receiving the blood, carrying the blood or the limbs to the altar.
 [^7]: See Halachah 3.
 [^8]: See Halachah 4.
@@ -115,14 +115,14 @@ All of the above are disqualified from serving and if they serve, they invalidat
 [^10]: The sprinkling or dashing of blood on the external altar.
 [^11]: See *Hilchot Mechusrei Kapparah* 4:2 where these sprinklings are mentioned. Rav Yosef Corcus questions why the water libations and the wine libations are considered as separate categories and the sprinkling of blood and oil are not. He explains that the two different libations stem from entirely different commandments. The sprinkling of the oil, by contrast, is not a commandment in its own right, but an ancillary element to the offering of a sacrifice and that sacrifice also involves sprinkling blood. Hence, the two are included in the mitzvah.
 [^12]: I.e., entities that are usually set afire on the altar.
-[^13]: As [[Shevuot 17#17b|*Sh'vuot* 17b]] states, this applies even if the entity would have ultimately been consumed by fire without his activity, but his act hastens its consumption.
+[^13]: As *Sh'vuot* [[Shevuot 17#17b|17b]] states, this applies even if the entity would have ultimately been consumed by fire without his activity, but his act hastens its consumption.
 [^14]: For one to be liable, a portion of this minimum size is necessary, for an incense offering may not be smaller, as stated in *Hilchot Issurei Mizbeiach* 5:2. Hence, if he sets afire less, he is not performing service. Even though a larger amount of incense is offered each day, that is a Rabbinic enactment and not a Scriptural requirement (Radbaz).
 [^15]: [[Torah 29 - Achrei Mot#^16-12|Leviticus 16:12]]; *Hilchot Avodat Kochavim* 5:26. If he sets fire to a lesser amount, he is not performing service. Hence, he is not liable.
 [^16]: See *Hilchot Ma'aseh HaKorbanot* 14:1. Arranging these two logs is the final stage in the arrangement of wood on the altar. Hence a non-priest is liable (Radbaz).
 [^17]: Rabbi Akiva Eiger cites *Hilchot Ma'aseh HaKorbanot* 12:23 which states that the preliminary stages of the offering of a meal offering may be performed by a non-priest.
 [^18]: See Halachah 7.
 [^19]: See also *Hilchot Ma'aseh HaKorbanot* 5:1; *Hilchot Pesulei HaMukdashim* 1:1.
-[^20]: Even as an initial preference (Radbaz). The Ra'avad differs and maintains that, after the fact, if a non-priest kindled the lamps, it is valid, but as an initial preference, he is not allowed to kindle them. The Radbaz brings support for the Rambam's position from [[Yoma 24#24b|*Yoma* 24b]] which states that kindling the lamps of the *Menorah* is not an act of service. Since it is not an act of service, asks the Radbaz, why should a non-priest be restricted from performing it? How is it different from the slaughter of an animal?  
+[^20]: Even as an initial preference (Radbaz). The Ra'avad differs and maintains that, after the fact, if a non-priest kindled the lamps, it is valid, but as an initial preference, he is not allowed to kindle them. The Radbaz brings support for the Rambam's position from *Yoma* [[Yoma 24#24b|24b]] which states that kindling the lamps of the *Menorah* is not an act of service. Since it is not an act of service, asks the Radbaz, why should a non-priest be restricted from performing it? How is it different from the slaughter of an animal?  
     The *Minchat Chinuch* (mitzvah 98) reinforces the Ra'avad's question, asking how is it possible for the *Menorah* to be lit outside its proper place? The *Rambam LeAm* explains that the mitzvah is not lighting the lamps, but rather putting the lamps in their place.
 [^21]: I.e., out from the Temple building to a place in the courtyard where a non-priest is allowed to stand. Note the discussion of the meaning of the term *hatavah* in *Hilchot Temidim UMusafim* 3:12 and notes.
 [^22]: See *ibid.* 2:10.

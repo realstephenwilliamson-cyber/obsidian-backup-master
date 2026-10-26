@@ -127,16 +127,16 @@ Safflower is a color which clothes are dyed. It is comparable to hairs that are 
 Moreover, when there was no change detected in the digestive organs of a fowl, but when they were cooked slightly they changed color, those that were green turned -red or those that were red turned green, we can assume that the fowl fell into a fire, its digestive organs were burnt, and it is *trefe*.[^57]  
 Similarly, if [the color of] the gullet [has changed] - the outer skin appears white and the inner red - it is considered as if the organ is not present, and it - either an animal or a fowl - is *trefe*. ^7-21
 
-[^1]: For the other will protect the lung ([[Chullin 46#46a|*Chullin* 46a]]).
+[^1]: For the other will protect the lung (*Chullin* [[Chullin 46#46a|46a]]).
 [^2]: If both membranes are perforated, but the perforations do not correspond, the *Shulchan Aruch* (*Yoreh De'ah* 36:1) rules that the animal is kosher, but the Rama considers it *trefe*.
 [^3]: The Radbaz states that if, by contrast, the lower membrane alone is peeled off, the animal is *trefe*, for certainly, part of the lung will be lacking.
 [^4]: I.e., from the beginning of the ribcage.
 [^5]: Chapter 1, Halachah 7 defines the portion of the windpipe acceptable for ritual slaughter. If, however, the windpipe is perforated in a such a place, the animal is kosher.
-[^6]: Although the functioning of the lung is dependent on the windpipe, since a perforation in the lung causes an animal to be considered *trefe*, it is given that status ([[Chullin 32#32b|*Chullin* 32b]]).
+[^6]: Although the functioning of the lung is dependent on the windpipe, since a perforation in the lung causes an animal to be considered *trefe*, it is given that status (*Chullin* [[Chullin 32#32b|32b]]).
 [^7]: The small extensions of the windpipe that convey air within the lungs itself.
-[^8]: Because the walls of the bronchioles are firm and not pliant. Hence, they will not serve as effective seals (Rashi, [[Chullin 48#48b|*Chullin* 48b]]).  
+[^8]: Because the walls of the bronchioles are firm and not pliant. Hence, they will not serve as effective seals (Rashi, *Chullin* [[Chullin 48#48b|48b]]).  
     In his *Kessef Mishneh* and his *Shulchan Aruch* (*Yoreh De'ah* 36:6), Rav Yosef Caro rules that if a perforation in a bronchiole is sealed by flesh, the animal is acceptable. See also the comments of *Siftei Cohen* 36:20. As the Rama states (*Yoreh De'ah* 39:18), the custom in the Ashkenazic community is to rule that an animal is *trefe* if its lungs are perforated even if they are sealed closed by other inner organs.
-[^9]: For ultimately it will open (Rashi, [[Chullin 47#47b|*Chullin* 47b]]).
+[^9]: For ultimately it will open (Rashi, *Chullin* [[Chullin 47#47b|47b]]).
 [^10]: Since this portion of the lung is located below the ribs, the perforation will never be sealed thoroughly.
 [^11]: For the lobes lie on the ribs themselves and the seal will be maintained.  
     One of the issues related to the question of whether a lung is perforated or not is *sirchaot*, adhesions, where the lung becomes attached to the ribs and/or other portions of the body. For a discussion of that matter, see the latter half of Chapter 11.
@@ -149,7 +149,7 @@ Similarly, if [the color of] the gullet [has changed] - the outer skin appears w
 [^18]: According to the Rambam, the portion of the lung itself is cut off and we inspect it. The Rama (*Yoreh De'ah* 36:9) offers a different interpretation. PAGE 239
 [^19]: I.e., the feather is placed on the portion of the lung that was cut off. One blows throw the brochia. If the air passes through the bronchioles, the feather should flutter.
 [^20]: The movement indicates that air flows through it.
-[^21]: [[Chullin 47#47b|*Chullin* 47b]] states that hot water will cause the lung to contract and cold water will cause it to become firmer. If it was put in either hot or cold water first, it may not be checked in lukewarm water afterwards [Rama (*Yoreh De'ah* 36:4)].
+[^21]: *Chullin* [[Chullin 47#47b|47b]] states that hot water will cause the lung to contract and cold water will cause it to become firmer. If it was put in either hot or cold water first, it may not be checked in lukewarm water afterwards [Rama (*Yoreh De'ah* 36:4)].
 [^22]: For obviously the lung has been perforated and the air is flowing out from it.
 [^23]: This principle is significant with regard to the discussion concerning *sirchaot*, adhesions, in Chapter 11. The Ra'avad (whose interpretation is paralleled by that of Rashi and other *Rishonim*) maintain that inflating the lung represents a stringency: If air escapes, an animal is considered *trefe* even though there is reason to permit it. The same principle cannot be applied as a leniency. The Rambam - and his approach is shared by Rabbenu Tam, Rashba, Rabbenu Nissim, and others - maintains that this principle was instituted as a leniency.
 [^24]: The *Siftei Cohen* 36:21 states that this leniency applies even if the entire lung has degenerated and can be poured out like water.
@@ -157,15 +157,15 @@ Similarly, if [the color of] the gullet [has changed] - the outer skin appears w
 [^26]: Because it is glazed, one will be able to see the white strands clearly if they exist [*Beit Yosef* (*Yoreh De'ah* 36)].
 [^27]: And the white strands are the remnants of the bronchioles.
 [^28]: When quoting this law, the *Shulchan Aruch* (*Yoreh De'ah* 36:7) adds a concept stated in the following halachah: that the fluid poured out may not be putrid. (The commentaries to the *Shulchan Aruch* maintain that the Rambam would follow this stringency.) The Rama, however, rules leniently, maintaining that as long as the bronchioles are not visible, the animal is acceptable.
-[^29]: Based on [[Chullin 48#48a|*Chullin* 48a]], the *Shulchan Aruch* (*Yoreh De'ah* 37:1) states that even if boils are very large, the animal may still be kosher.
+[^29]: Based on *Chullin* [[Chullin 48#48a|48a]], the *Shulchan Aruch* (*Yoreh De'ah* 37:1) states that even if boils are very large, the animal may still be kosher.
 [^30]: The Rambam's ruling is cited by the *Shulchan Aruch*. The *Tur* and the Rama follow the opinion of many other *Rishonim* who permit the animal even if the fluid in the boils is putrid.
 [^31]: The *Kessef Mishneh* explains that the Rambam's ruling is based on his decision in the previous halachah. The Rambam maintains that the fluid indicates that there is a strong possibilility that a perforation exists. Other opinions maintain that the animal is permitted, for the fluid is not necessarily a sign that a perforation exists. According to those views (and they are accpeted by the *Shulchan Aruch, loc. cit.*), there is no need for the inspection the Rambam requires.
 [^32]: The *Maggid Mishneh* and the *Shulchan Aruch* (*Yoreh De'ah* 37:3) state that even if the boils are filled with clear fluid, the animal is *trefe*. If, however, they are hard, it is acceptable.
-[^33]: Rashi ([[Chullin 47#47a|*Chullin* 47a]]) explains that most likely the membrane was perforated and therefore the boils developed. Rabbenu Nissim explains that since the two boils are next to each other, it is likely that one perforated the other.
+[^33]: Rashi (*Chullin* [[Chullin 47#47a|47a]]) explains that most likely the membrane was perforated and therefore the boils developed. Rabbenu Nissim explains that since the two boils are next to each other, it is likely that one perforated the other.
 [^34]: The Maharil requires a further check: to see whether they share the same pocket (*Turei Zahav* 37:5; *Siftei Cohen* 37:7).
 [^35]: The Rama (*Yoreh De'ah* 36:5) suggests that the shape of the perforations must indicate that they were made by the butcher.
 [^36]: See Chapter 6, Halachah 14.
-[^37]: This represents the Rambam's understanding of [[Chullin 50#50a|*Chullin* 50a]]. Rashi interprets the passage slightly differently. The Rama (*Yoreh De'ah* 36:5) follows Rashi's understanding and states that we do not compare a lung from one animal to that of another one at all. And even within one animal, we do not compare a perforation in a large lobe to one in a small lobe.
+[^37]: This represents the Rambam's understanding of *Chullin* [[Chullin 50#50a|50a]]. Rashi interprets the passage slightly differently. The Rama (*Yoreh De'ah* 36:5) follows Rashi's understanding and states that we do not compare a lung from one animal to that of another one at all. And even within one animal, we do not compare a perforation in a large lobe to one in a small lobe.
 [^38]: With the intent of seeing whether the perforation was made before or after the slaughter.
 [^39]: I.e., in this instance, it is not easy to differentiate based on the comparison.
 [^40]: In contrast to the liver where some authorities make a distinction in the ruling depending on the direction it is facing (see Chapter 6, Halachah 8), no such contrast is made with regard to a needle found in the lung. See also *Shulchan Aruch* (*Yoreh De'ah* 36:16-17) which states that if a drop of blood is found on the exterior of the lung, the animal is considered *trefe*. the Rama rules that unles a significant loss is involved, whenever a needle is found in the lungs, the animal is considered *trefe*.
@@ -177,7 +177,7 @@ Similarly, if [the color of] the gullet [has changed] - the outer skin appears w
 [^46]: Our translation is dependent on the following halachah.
 [^47]: And even the slightest perforation of the lung disqualifies the animal.
 [^48]: This represents the translation the *Shulchan Aruch* (*Yoreh De'ah* 38:1) offers for the Talmudic term *yerok* quoted by the Rambam.
-[^49]: Our translation is based on the Rambam's Commentary to the Mishnah (*Chullin* 3:2). Rashi ([[Chullin 47#47b|*Chullin* 47b]]) renders the term as saffron. There is little difference between the two colors.
+[^49]: Our translation is based on the Rambam's Commentary to the Mishnah (*Chullin* 3:2). Rashi (*Chullin* [[Chullin 47#47b|47b]]) renders the term as saffron. There is little difference between the two colors.
 [^50]: Which is reddish [the Rambam's Commentary to the Mishnah (*ibid.*)].
 [^51]: For during the animal's lifetime, the lung is repeatedly inflated.
 [^52]: These laws do not apply with regard to an animal because its skin is tough and its ribs protect it [*Shulchan Aruch* (*Yoreh De'ah* 52:7]. The Rama, however, does not accept this leniency. The Ra'avad (Chapter 10, Halachah 11) also accepts the Rama's view.

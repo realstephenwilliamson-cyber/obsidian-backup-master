@@ -20,16 +20,13 @@ nyasa: "semen (*śukra*)"
 ## Front
 
 - **Glyph:** स
-- **Variation:** —
 - **Example:** रस
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘Li<u>s</u>a’
-- **Class (as printed):** 4 (dental) · hard · sibilant · If a word ends in s, the s becomes visarga (ḥ).
-- **Grid:** two rows, य र ल व and श ष स ह; in bold: स
-- **Example:** rasa (taste)
+> [!note]- Back
+> - **Pronunciation:** As in ‘Li<u>s</u>a’
+> - **Class:** dental · hard · sibilant · If a word ends in s, the s becomes visarga (ḥ).
+> - य र ल व / श ष <u>स</u> ह
+> - **Example:** rasa (taste)
 
 ## Register
 

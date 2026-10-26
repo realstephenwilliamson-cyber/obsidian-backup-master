@@ -30,7 +30,7 @@ tato dharātattvapatimāmantryeṣṭvā pratarpya ca |
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 08 - Chapter Seventeen#^pg181|p. 161]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=181>))
 >
-> Then having invoked, worshipped and offered libation to the Lord of the Earth principle,“' the teacher who has elicited a sense of identity (abhimāna) with Śiva, should order him thus:
+> Then having invoked, worshipped and offered libation to the Lord of the Earth principle, the teacher who has elicited a sense of identity (abhimāna) with Śiva, should order him thus:
 
 ## Viveka
 

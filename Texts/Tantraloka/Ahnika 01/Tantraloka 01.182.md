@@ -30,7 +30,7 @@ avikalpātmasaṃvittau yā sphurattaiva vastunaḥ || ^iast
 > [!source] Dyczkowski, vol. I
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)/Tantraloka Dyczkowski v01 10 - Chapter One, part 9#^pg371|p. 357]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf#page=371>))
 >
-> Insofar as the experience (prathā) of the ascertainment (niścaya) ‘(this) has been perceived’ is clearly evident, one knows (pratipadyate) that “I perceive by the power of oneness with thought-free consciousness (avikalpa). (with 1.181cd–182ab)
+> Insofar as the experience (prathā) of the ascertainment (niścaya) ‘(this) has been perceived’ is clearly evident, one knows (pratipadyate) that “I perceive” by the power of oneness with thought-free consciousness (avikalpa). (with 1.181cd–182ab)
 >
 > The correct determination (siddhi) of (the nature of) an entity is (essentially) its radiant appearing (sphurattā) within consciousness that is free of thought constructs. It is not the result of a thought construct, because (thought) is independent of (that) entity. (with 1.182cd–183ab)
 

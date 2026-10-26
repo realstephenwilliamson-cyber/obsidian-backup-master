@@ -27,7 +27,7 @@ vaiṣṇavādiḥ śaivaśāstraṃ melayannijaśāsane || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#^pg343|p. 321]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=343>))
 >
-> It is also said in the Svacchandasāstra that those who are devoted to the followers of Viṣṇu etc. ‘are made to wander about, (confused) by Māyā in what is not liberation, because of (their) desire for liberation. ° (with 13.316cd–317ab)
+> It is also said in the Svacchandasāstra that those who are devoted to the followers of Viṣṇu etc. ‘are made to wander about, (confused) by Māyā in what is not liberation, because of (their) desire for liberation.’ (with 13.316cd–317ab)
 >
 > The Vaiṣṇava and the like who mixes Śiva’s scripture with his own teaching is certainly prey to doubt and falls from both. (with 13.317cd–318ab)
 

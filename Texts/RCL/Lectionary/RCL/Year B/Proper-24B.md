@@ -11,6 +11,7 @@ second_reading: "Hebrews 5:1-10"
 gospel: "Mark 10:35-45"
 first_reading_complementary: "Isaiah 53:4-12"
 psalm_complementary: "Psalm 91:9-16"
+psalm_bcp_complementary: "Psalm 91:9-16"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-24]]"
 cssclasses:

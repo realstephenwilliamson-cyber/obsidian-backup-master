@@ -180,7 +180,7 @@ The following disqualify [a priest] because of the impression they may create:[^
 a) one who has lost the hair of his eyelids even though the roots remain;  
 b) one whose teeth have been removed. ^8-17
 
-[^1]: The Ra'avad (and this is also Rashi's interpretation of [[Bekhorot 43#43a|*Bechorot* 43a]]) differs with the Rambam's interpretation of this disqualifying factor. The *Kessef Mishneh* maintains that the Rambam had a different version of that Talmudic passage.
+[^1]: The Ra'avad (and this is also Rashi's interpretation of *Bechorot* [[Bekhorot 43#43a|43a]]) differs with the Rambam's interpretation of this disqualifying factor. The *Kessef Mishneh* maintains that the Rambam had a different version of that Talmudic passage.
 [^2]: The accompanying drawing is taken from the Rambam's Commentary to the Mishnah (*Bechorot* 7:1). Similarly, all of the disqualifying factors mentioned here are discussed there and in the following mishnah.
 [^3]: In his Commentary to the Mishnah (*Bechorot* 7:3), the Rambam explains that when a person has a pair of organs, it is expected that they be identical and a deviation is considered a blemish.
 [^4]: [[Torah 31 - Emor#^21-20|Leviticus 21:20]]. The Rambam chooses the first interpretation of this term offered by *Bechorot* 7:2. Rashi follows the second interpretation, overly long eyebrows. In his Commentary to the Mishnah, the Rambam states that the two opinions both agree that these two conditions are blemishes, the difference of opinion between them concerns only the definition of the term *gibein* in the Torah.
@@ -196,11 +196,11 @@ b) one whose teeth have been removed. ^8-17
 [^13]: I.e., to the end of one's fingers.
 [^14]: [[Torah 31 - Emor#^21-20|Leviticus 21:20]].
 [^15]: The Ra'avad differs with the Rambam concerning this point. The Radbaz and the *Kessef Mishneh* justify the Rambam's view.
-[^16]: [[Bekhorot 45#45b|*Bechorot* 45b]] explains that although a tall person is considered attractive, if he is exceptionally tall, people consider it objectionable.
+[^16]: *Bechorot* [[Bekhorot 45#45b|45b]] explains that although a tall person is considered attractive, if he is exceptionally tall, people consider it objectionable.
 [^17]: I.e., blotches that are not associated with the impurity resulting from *tzara'at*.
 [^18]: See *Hilchot Tuma'at Tzara'at* 1:1 for a definition of this term.
 [^19]: With regard to the impurity of *tzara'at*. See *ibid.* 6:4.
-[^20]: An *isar* is a Roman coin that the Talmud mentions in various halachic contexts ([[Kiddushin 2#2a|*Kiddushin* 2a]], [[Bava Metzia 51#51b|*Bava Metzia* 51b]], *Mikvaot* 9:5, *et al*.). The *Shulchan Aruch* (*Yoreh De'ah* 34:2) quotes Rashba as stating that in his (medieval) times the size of an *isar* was already not known. More recently, *Middos VeShiurei Torah*, p. 169, gives the diameter of an *isar* as 23 mm. Thus its area would be slightly more than 3.6 cm.
+[^20]: An *isar* is a Roman coin that the Talmud mentions in various halachic contexts (*Kiddushin* [[Kiddushin 2#2a|2a]], *Bava Metzia* [[Bava Metzia 51#51b|51b]], *Mikvaot* 9:5, *et al*.). The *Shulchan Aruch* (*Yoreh De'ah* 34:2) quotes Rashba as stating that in his (medieval) times the size of an *isar* was already not known. More recently, *Middos VeShiurei Torah*, p. 169, gives the diameter of an *isar* as 23 mm. Thus its area would be slightly more than 3.6 cm.
 [^21]: Since it has hair, it is considered objectionable, regardless of its size.
 [^22]: If it smaller, it is not that noticeable, and hence, it is not considered a blemish.
 [^23]: In his Commentary to the Mishnah (*Bechorot* 7:5), the Rambam describes this condition as severe melancholia to the extent that the person's physical functioning is impaired.

@@ -135,11 +135,11 @@ Similarly, when a person says: "I pledge the *airech* of so-and-so and both the 
 [^14]: *Hilchot Shekalim* 1:2.
 [^15]: A person whose genital area is covered by flesh and thus it is impossible to determine his gender.
 [^16]: A person with both male and female genital organs. See *Hilchot Nazirut* 2:11 for a detailed description of such a person's halachic status. See also *Hilchot Ishut* 2:24.
-[^17]: If, however, a *tumtum* or *androgynus* pledges the *airech* of a man or a woman, the pledge is binding ([[Arakhin 2#2a|*Arachin* 2a]]). If an operation is performed on a *tumtum* and it is revealed that he is a male or female, an *airech* may be given accordingly.
-[^18]: [[Arakhin 5#5b|*Arachin* 5b]] derives this from [[Torah 33 - Bechukotai#^27-2|Leviticus 27:2]] which introduces this mitzvah with the phrase: "Speak to the children of Israel," thus excluding gentiles from pledging endowment evaluations. Nevertheless, the verse includes the word *ish*, "man," seemingly unnecessarily, indicating that a pledge can be made concerning a gentile. This is the opinion of Rabbi Meir. Rabbi Yehudah derives the opposite concepts from the same verse.  
+[^17]: If, however, a *tumtum* or *androgynus* pledges the *airech* of a man or a woman, the pledge is binding (*Arachin* [[Arakhin 2#2a|2a]]). If an operation is performed on a *tumtum* and it is revealed that he is a male or female, an *airech* may be given accordingly.
+[^18]: *Arachin* [[Arakhin 5#5b|5b]] derives this from [[Torah 33 - Bechukotai#^27-2|Leviticus 27:2]] which introduces this mitzvah with the phrase: "Speak to the children of Israel," thus excluding gentiles from pledging endowment evaluations. Nevertheless, the verse includes the word *ish*, "man," seemingly unnecessarily, indicating that a pledge can be made concerning a gentile. This is the opinion of Rabbi Meir. Rabbi Yehudah derives the opposite concepts from the same verse.  
     The Ra'avad objects to the Rambam's ruling, maintaining that the halachah follows Rabbi Yehudah. The Radbaz and the *Kessef Mishneh* support the Rambam's ruling, citing [[Ezra 04#^4-3|Ezra 4:3]] which states that the gentiles do not have a portion in building the Temple, the intent for which endowment evaluations are given. See also Halachah 11.
 [^19]: Who are not liable in the observance of the mitzvot themselves, because they are not in control of their intellectual faculties.
-[^20]: This applies even to a Canaanite servant, not only a Jewish servant ([[Arakhin 2#2a|*Arachin* 2a]]).
+[^20]: This applies even to a Canaanite servant, not only a Jewish servant (*Arachin* [[Arakhin 2#2a|2a]]).
 [^21]: For, otherwise, all of his financial resources are acquired by his master.
 [^22]: Note the contrast to the following halachah.
 [^23]: See Chapter 8, Halachah 2.
@@ -151,7 +151,7 @@ Similarly, when a person says: "I pledge the *airech* of so-and-so and both the 
 [^29]: I.e., for matters that are for the communal benefit (the Rambam's Commentary to the Mishnah, *Arachin* 1:2).
 [^30]: For it becomes consecrated and it is forbidden to benefit from it. See *Hilchot Matanot Aniyim* 8:8; *Hilchot Meilah* 5:15.
 [^31]: Who is taking his last breathes (the Rambam's Commentary to the Mishnah, *Arachin* 1:3, Rav Kappach's translation). Compare to *Hilchot Gerushin* 6:28.
-[^32]: Nor is an *airech* he takes binding ([[Arakhin 6#6b|*Arachin* 6b]]). Note the contrast to the following halachah and note the gloss of the Radbaz.
+[^32]: Nor is an *airech* he takes binding (*Arachin* [[Arakhin 6#6b|6b]]). Note the contrast to the following halachah and note the gloss of the Radbaz.
 [^33]: Note, however, *Hilchot Evel* 4:5.
 [^34]: Since the Torah has condemned such a person to death, the matter is not dependent on the will of mortals. If, by contrast, one is condemned to death by a mortal king, these laws do not apply, because it is possible that the king will retract his decree (the Rambam's Commentary to the Mishnah, *loc. cit.*). Compare to *Hilchot Gerushin* 6:29.
 [^35]: Our translation follows the commentary of Rashi and others.
@@ -170,7 +170,7 @@ Similarly, when a person says: "I pledge the *airech* of so-and-so and both the 
 [^48]: I.e., the obligation takes effect only when he stands before the priest for appraisal (the Rambam' s Commentary to the Mishnah, *Arachin* 5:3). Since he did not do that, his heirs are under no obligation (Radbaz). The Ra'avad, however, differs with the Rambam and maintains that as soon as a person pledges an *airech*, he is liable for it and an obligation is created for his estate. Hence, he differs with the Rambam's ruling.  
     Apparently, the Rambam is saying that if a person pledges an *airech*, he must stand before a priest and state his age, so that the priest will establish his appraisal. The *Merkevat HaMishneh* notes that the literal meaning of the verse is that if a person is too poor to pay the *airech*, the priests will evaluate how much he can pay.
 [^49]: For once an *airech* is established, a binding obligation is incurred and his estate is required to pay.
-[^50]: Until an appraisal is established by the courts, the obligation is not defined. Hence, when he dies, all liability is removed from the estate because a deceased person has no worth ([[Arakhin 20#20a|*Arachin* 20a]]).
+[^50]: Until an appraisal is established by the courts, the obligation is not defined. Hence, when he dies, all liability is removed from the estate because a deceased person has no worth (*Arachin* [[Arakhin 20#20a|20a]]).
 [^51]: According to early printings and authoritative manuscripts of the *Mishneh Torah*. This clause should be part of the previous halachah and the present halachah begins: "Similarly, when a person says: 'I pledge....'"
 [^52]: This is a direct extension of the concepts stated in Halachah 21.
 [^53]: As the Rambam emphasizes in his Commentary to the Mishnah (*Arachin* 5:2), there is a difference in this regard between the pledge of an *airech* and the pledge of a person's worth. When his *airech* is pledged, the person who made the pledge is liable as soon as he stands before the court for appraisal. Since the matter is dependent on his age alone, there is no need for an evaluation. When, by contrast, a person's worth is pledged, that worth must be evaluated and until the evaluation is completed, there is no obligation.

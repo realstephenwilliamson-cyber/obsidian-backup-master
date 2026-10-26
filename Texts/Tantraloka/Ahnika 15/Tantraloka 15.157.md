@@ -27,7 +27,7 @@ tadevaṃ tanmayībhāvadāyinyarcākriyā yataḥ || ^iast
 > [!source] Dyczkowski, vol. VIII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 08 (Dyczkowski)/Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#^pg117|p. 99]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 08.pdf#page=117>))
 >
-> The Supreme Lord has said in the Mata and elsewhere: ‘There is no ritual procedure (vidhi) or liturgy (arcanakrama) (that attains the goal); the desired accomplishment (is achieved) solely by recollecting (mantra). (with 15.156cd–157ab)
+> The Supreme Lord has said in the Mata and elsewhere: ‘There is no ritual procedure (vidhi) or liturgy (arcanakrama) (that attains the goal); the desired accomplishment (is achieved) solely by recollecting (mantra).’ (with 15.156cd–157ab)
 >
 > Thus, as the act of worship (performed in this way) bestows that identity (fanmayībhāva) (with Śiva) in this way, its ultimate nature (vapus) is thus the oneness of all the factors (that constitute action). (with 15.157cd–158ab)
 

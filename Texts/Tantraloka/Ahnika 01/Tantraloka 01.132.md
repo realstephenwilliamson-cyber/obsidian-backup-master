@@ -31,7 +31,7 @@ sa bhoktṛprabhuśabdābhyāṃ yājyayaṣṭṭatayoditaḥ || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)/Tantraloka Dyczkowski v01 09 - Chapter One, part 8#^pg312|p. 298]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf#page=312>))
 > Dyczkowski numbers this verse 1.131cd–132ab.
 >
-> Everywhere here (in all these verses, the personal pronoun) ‘P denotes only pure, (awakened) consciousness (bodha) which, by the words ‘enjoyer’ (bhoktṛ) and ‘Lord’ (prabhu) refer to it as the one who offers sacrifice and (the deity that is) the object of (his) sacrifice, (respectively).
+> Everywhere here (in all these verses, the personal pronoun) ‘I’ denotes only pure, (awakened) consciousness (bodha) which, by the words ‘enjoyer’ (bhoktṛ) and ‘Lord’ (prabhu) refer to it as the one who offers sacrifice and (the deity that is) the object of (his) sacrifice, (respectively).
 
 ## Viveka
 

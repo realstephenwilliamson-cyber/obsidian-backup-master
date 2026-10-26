@@ -31,7 +31,7 @@ dehaśudhyarthamapyetattulyametena vastutaḥ || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#^pg117|p. 97]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=117>))
 > Dyczkowski numbers this verse 16.224cd–225ab.
 >
-> And (the same) is said by the Supreme Lord in the venerable Mrtyuṁjaya for example (where we read): ‘Now, the gross elements are purified (bhūtaśuddhi) by just the deposition (of mantra) alone. (with 16.224cd–225ab)
+> And (the same) is said by the Supreme Lord in the venerable Mrtyuṁjaya for example (where we read): ‘Now, the gross elements are purified (bhūtaśuddhi) by just the deposition (of mantra) alone.’ (with 16.224cd–225ab)
 >
 > Although that (is taught there) in order to purify the body, (even so, that deposition) is in actual fact (basically) the same as this (kind of deposition that we are concerned with here). A thing said in a (particular) context (may well be) sound in a different context as suggesting (something else,) or even directly (normative). So why should that not be accepted elsewhere (in a different context)? (with 16.225cd–226)
 

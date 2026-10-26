@@ -20,18 +20,13 @@ nyasa: "upper teeth (*rada*), as ai"
 ## Front
 
 - **Glyph:** ◌ै
-- **Variation:** —
 - **Example:** वैश्य
-- **Card / Alpha (front):** (not legible in full) — the scan cuts the numerals off at the right edge; the printed values in the line above are from the back
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘st<u>y</u>mie’
-- **Class (as printed):** 1,2 · long, soft · complex vowel
-- **Note (no printed label):** Abbreviation - used only after consonant · Vṛddhi (strongest form) of i/ī (from a+a+i)
-- **Grid:** the vowel signs ा ि ी ु ू / े ै ो ौ / ृ ॄ ॢ; in bold: ै
-- **Example:** vaiśya (businessman)
+> [!note]- Back
+> - **Pronunciation:** As in ‘st<u>y</u>mie’
+> - **Class:** long, soft · complex vowel · Vṛddhi (strongest form) of i/ī (from a+a+i)
+> - ा ि ी ु ू / े <u>ै</u> ो ौ / ृ ॄ ॢ
+> - **Example:** vaiśya (businessman)
 
 ## Register
 

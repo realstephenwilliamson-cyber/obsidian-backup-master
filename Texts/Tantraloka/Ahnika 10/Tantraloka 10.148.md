@@ -29,7 +29,7 @@ loke rūḍhamidaṃ dṛṣṭirasminkāraṇamantarā || ^iast
 >
 > (If) another (man), once having seen that same (woman) is not gripped then by the same sentiments, even though he has the same disposition (āśaya), whom do we blame? (with 10.147cd–148ab)
 >
-> It is a well-established fact of common daily life that, independent of other causes, the vision of some people is as if favourable, that of others as if submerged, and for others still, it is as if extinguished.’ (with 10.148cd–149ab)
+> It is a well-established fact of common daily life that, independent of other causes, the vision of some people is as if favourable, that of others as if submerged, and for others still, it is as if extinguished. (with 10.148cd–149ab)
 
 ## Viveka
 

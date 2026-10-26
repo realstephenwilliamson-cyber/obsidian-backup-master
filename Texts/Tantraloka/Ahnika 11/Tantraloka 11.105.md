@@ -31,7 +31,7 @@ tadavekṣyata tanmadhyāt kenaiko'pi dharādharaḥ || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#^pg111|p. 91]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=111>))
 > Dyczkowski numbers this verse 11.105cd–106ab.
 >
-> If this creation (sarga) were to have (a solid, substantial) form (mūrta) and (were) not (formless) consciousness, how could anyone observe (even) just one thing within it that sustains it (in such a way that then everything would be sustained)?’
+> If this creation (sarga) were to have (a solid, substantial) form (mūrta) and (were) not (formless) consciousness, how could anyone observe (even) just one thing within it that sustains it (in such a way that then everything would be sustained)?
 
 ## Viveka
 

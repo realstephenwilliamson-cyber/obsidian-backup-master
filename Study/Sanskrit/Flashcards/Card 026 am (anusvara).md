@@ -20,17 +20,14 @@ nyasa: "crown lock (*śikhā*)"
 ## Front
 
 - **Glyph:** अं
-- **Variation:** ँ
 - **Example:** पुष्पं, अहंकार
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** As in ‘hu<u>m</u>’
-- **Class (as printed):** —
-- **Note (no printed label):** soft nasal, replaces final m when next word begins with consonant. (a) represents any vowel. Can pronounce as nasal in same mouth pos. as following consonant. Variation called anunāsika.
-- **Grid:** अं अः; in bold: अं
-- **Example:** puṣpaṃ (flower) · ahaṃkāra (ego)
+> [!note]- Back
+> - **Pronunciation:** As in ‘hu<u>m</u>’
+> - **Variation:** ँ
+> - **Note:** soft nasal, replaces final m when next word begins with consonant. (a) represents any vowel. Can pronounce as nasal in same mouth pos. as following consonant. Variation called anunāsika.
+> - <u>अं</u> अः
+> - **Example:** puṣpaṃ (flower) · ahaṃkāra (ego)
 
 ## Register
 

@@ -55,7 +55,7 @@ The first sign having been miraculously accomplished, His flight and withdrawal 
 
 But why (will some one perchance say) after that miracle, is the Power of Jesus to walk on the very sea immediately introduced? Such an one shall hear a very credible cause.
 
-de δυνάμεως εἰς δύναμιν, δύναμις, acle, as in 5. Matth. xiii. 58, “πὰ He might, meaning also a mighty deed, mir- did not many mighty works there.
+de δυνάμεως εἰς δύναμιν, δύναμις, acle, as in 5. [[Matthew 13#^13-58|Matth. xiii. 58]], “πὰ He might, meaning also a mighty deed, mir- did not many mighty works there.
 
 *[p. 337]* ^pg401
 
@@ -117,7 +117,7 @@ Infra xvi. 16.
 
 too in God-befitting Power, and having the whole world under His Feet. For this I deem His walking on the sea signifies, since the sea is often taken as a type of the world by Divine Scripture, as it is said in the Psalms, This great and wide sea, there are things creeping innumerable, both small and great beasts. When Christ then cometh in the glory of His Father, as it is written, then shall the ship of the holy Apostles, that is, the Church, and they that sail therein, i. e., they who through faith and love toward God are above the things of the world, without delay and without all toil, gain the land, whither they were going. For it was their aim to attain unto the Kingdom of Heaven, as to a fair haven. And the Saviour confirms this understanding of all that has been said, in that he says to His Disciples at one time, A little while and ye shall no more see Me, and again ὦ little while and ye shall see Me, at another again, Tribulation shall ye have in the world, but be of good cheer, 1 have overcome the world. But in the night the Lord com-eth down from the mountain and visiteth His disciples who are watching, and they look on Him coming, not without fear (for they tremble) that something needful for our understanding may in this too be made known unto us. For He shall descend from Heaven, as in the night, the world yet sleeping and slumbering in much sin. Therefore to us too doth He say, Watch therefore, for ye know not what hour your Lord doth come. The parable too of the Virgins will no less teach us this. For He says that five were wise, five foolish : but while the Bridegroom tarried, they all slumbered and slept: and at midnight there was a ery made, Behold, the Bridegroom cometh, go ye out to meet Him. Seest thou how at midnight the Bridegroom is announced tous? And what the cry is, and the mode of the meeting, the Divine Paul will make known, saying at one time, Mor the Lord Himself shall descend from heaven with a summons, with voice of archangel, with the trump of God, at another of the saints who are raised up, WE which are alive and remain shall be caught up together with them in the clouds to meet the Lord in the air, and so shall we ever be with the Lord. But the
 
-10\. 88. S. Matth. xxiv. 42. Ib, xxv. 5, 6. 1 Thess. iv. 16. Ib. 17.
+10\. 88. S. [[Matthew 24#^24-42|Matth. xxiv. 42]]. Ib, xxv. 5, 6. [[1 Thessalonians 04#^4-16|1 Thess. iv. 16]]. Ib. 17.
 
 
 *[p. 341]* ^pg405
@@ -136,7 +136,7 @@ The miracle does not escape notice, I mean Jesus walking on the very sea, althou
 
 T γήψει
 
-S. Luke viii. 17.
+S. [[Luke 08#^8-17|Luke viii. 17]].
 
 2 φιλοκόμπως exceeding disciplined® life, should he desire to glory 3 λίαν immoderately thereat, but shonld desire to be seen alone by the Hyes of the Deity, Who revealeth hidden things, and ἐξησκημένον
 
@@ -146,7 +146,7 @@ vi, 24, 25.
 
 4 ψυχρὸν
 
-Col. iv. 6.
+[[Colossians 04#^4-6|Col. iv. 6]].
 
 Ecclus, v. 12.
 
@@ -246,7 +246,7 @@ Let him that is zealous for knowledge see that now too is Our opponent darting o
 
 *[p. 350]* ^pg414
 
-Book 3. some impress those things whereon it comes, and will it 6 v.27. yo be and be conceived of as a seal apart from the impress? But I suppose that any one of our opponents too, even against his will constrained by fitness unto the very truth would confess that it will by all means seal with an impress; and without an impress, according to fair reasoning, not at all. Since then, as the Divine Scripture tes-Heb. i. 8, tifieth to us, the Son is the Lmpress of the Person’ of God xt. the Father, in that He is in It and of It by Nature, where-Thp τῆς ὑποστάσ- upon is Himself impressed, or through whom else will the . ΕἾΝ Father seal His Own Impress§? For no one will say that the Father is not altogether in God-befitting Form, which is the Son, the Form of Him That begat Him; Whom if any behold spiritually, it is manifest that he will see the Father. Wherefore He says that He too is in Him Naturally, even though He be conceived to be 9 ἐξ of® Him by reason of His Own Existence: as the bright- 1 ἀπαύ. ness? for instance, is in the brightening® and of the ye". vrightening, and something different, according to the γάζοντι mode of conception, and again not different, as viewed in relation to it, because it is said to be of it, and again in it. And not I suppose in the way of division and complete essential partition are these things considered of: for they are inherent in respect of identity of essence in those things whence they are, and of which they are be- 3 προκύπ- lieved to be, tending forth® according to expression in 1 ἰδικῶς idea to something else, of their own‘, yet not separate ὅ. ae The Word of the Essence of the Father, not bare Word, nor without Flesh, is sealed then by the Father, yea rather through Him are sealed those things which are brought to likeness with God, as far as can be, as we understand in Ps iy. 6 that which certain say, The light of Thy Oountenance was 6 ἔσημει- marked ® upon us, O Lord. For he says that the Counten-rd ance of God the Father, is the Son, Which is again the Impress, but the light thereof is the grace which through the Spirit passeth through unto the creation, whereby we are remoulded unto God through faith, receiving through Him as with a seal, the conformation unto His Son, Who is
+Book 3. some impress those things whereon it comes, and will it 6 v.27. yo be and be conceived of as a seal apart from the impress? But I suppose that any one of our opponents too, even against his will constrained by fitness unto the very truth would confess that it will by all means seal with an impress; and without an impress, according to fair reasoning, not at all. Since then, as the Divine Scripture tes-[[Hebrews 01#^1-8|Heb. i. 8]], tifieth to us, the Son is the Lmpress of the Person’ of God xt. the Father, in that He is in It and of It by Nature, where-Thp τῆς ὑποστάσ- upon is Himself impressed, or through whom else will the . ΕἾΝ Father seal His Own Impress§? For no one will say that the Father is not altogether in God-befitting Form, which is the Son, the Form of Him That begat Him; Whom if any behold spiritually, it is manifest that he will see the Father. Wherefore He says that He too is in Him Naturally, even though He be conceived to be 9 ἐξ of® Him by reason of His Own Existence: as the bright- 1 ἀπαύ. ness? for instance, is in the brightening® and of the ye". vrightening, and something different, according to the γάζοντι mode of conception, and again not different, as viewed in relation to it, because it is said to be of it, and again in it. And not I suppose in the way of division and complete essential partition are these things considered of: for they are inherent in respect of identity of essence in those things whence they are, and of which they are be- 3 προκύπ- lieved to be, tending forth® according to expression in 1 ἰδικῶς idea to something else, of their own‘, yet not separate ὅ. ae The Word of the Essence of the Father, not bare Word, nor without Flesh, is sealed then by the Father, yea rather through Him are sealed those things which are brought to likeness with God, as far as can be, as we understand in Ps iy. 6 that which certain say, The light of Thy Oountenance was 6 ἔσημει- marked ® upon us, O Lord. For he says that the Counten-rd ance of God the Father, is the Son, Which is again the Impress, but the light thereof is the grace which through the Spirit passeth through unto the creation, whereby we are remoulded unto God through faith, receiving through Him as with a seal, the conformation unto His Son, Who is
 
 *[p. 351]* ^pg415
 
@@ -331,7 +331,7 @@ Not of good purpose is the enquiry, nor yet as one might suppose does the questi
 
 Boasting reply of rich youth. Trust due to teachers. 857
 
-something of this kind in blessed Matthew too. For a cer- Cuar. 5. tain young man, overflowing with not the most easily-got- ὅν 7 ten abundance of wealth, was intimating that he would enter upon the due service of God. When he came to Jesus, he eagerly enquired what he should do, that he might be found an heir of everlasting life. To whom the Lord saith, Thow knowest surely the commandments, Do not hill, 5. Luke Do not commit adultery, Do not bear false witness, and the pr ἄς like. But he, as lacking none of these things, or even not accepting an exposition of teaching which fell far short of his existing practice, says, All these things have I kept 5. Matth. from my youth up, what lack I yet: ? what then he did join- ae ing haughtiness to ignorance in his question, what lack I yet, the same do these too through their over much arrogance alike and self-conceit®, saying, What shall we do, ὃ δοκησιthat we might work the works of Cod? a A good thing then is a low conceit, and it is the work of a noble® soul, to commit to her teachers the thorough <sup>9</sup>εὐγεknowledge of what is profitable, and so to yield to their ”’”’ lessons, which they think it right to instil!, seeing they 1 ἐνεστιare superior in knowledge. For how shall they be ac- “' cepted at all as teachers, if they have not superiority of understanding above what the mind of their pupils hath, since their advance will scarcely end at the measure of their masters’ knowledge, according to the word of the Saviour, The disciple is not above his Master, and, It is 5: Matth. x. 24. enough for the disciple that he be as his Master? Tb. 25.
+something of this kind in blessed Matthew too. For a cer- Cuar. 5. tain young man, overflowing with not the most easily-got- ὅν 7 ten abundance of wealth, was intimating that he would enter upon the due service of God. When he came to Jesus, he eagerly enquired what he should do, that he might be found an heir of everlasting life. To whom the Lord saith, Thow knowest surely the commandments, Do not hill, 5. Luke Do not commit adultery, Do not bear false witness, and the pr ἄς like. But he, as lacking none of these things, or even not accepting an exposition of teaching which fell far short of his existing practice, says, All these things have I kept 5. Matth. from my youth up, what lack I yet: ? what then he did join- ae ing haughtiness to ignorance in his question, what lack I yet, the same do these too through their over much arrogance alike and self-conceit®, saying, What shall we do, ὃ δοκησιthat we might work the works of Cod? a A good thing then is a low conceit, and it is the work of a noble® soul, to commit to her teachers the thorough <sup>9</sup>εὐγεknowledge of what is profitable, and so to yield to their ”’”’ lessons, which they think it right to instil!, seeing they 1 ἐνεστιare superior in knowledge. For how shall they be ac- “' cepted at all as teachers, if they have not superiority of understanding above what the mind of their pupils hath, since their advance will scarcely end at the measure of their masters’ knowledge, according to the word of the Saviour, The disciple is not above his Master, and, It is 5: [[Matthew 10#^10-24|Matth. x. 24]]. enough for the disciple that he be as his Master? Tb. 25.
 
 This is the work of God, that ye believe on Him whom He sent.
 
@@ -626,7 +626,7 @@ Zech, ix.
 
 16 LXX.
 
-Col. ii.11.
+[[Colossians 02#^2-11|Col. ii.11]].
 
 therefrom, but remoulding wholly the whole living being to eternal life, and rendering man who was formed to be for ever, superior to death. By these words He points to the life and grace through His Holy Flesh, through which this property of the Only Begotten, i. e., life, is introduced into us.
 

@@ -27,7 +27,7 @@ vāmāviddhastu tannindetpaścāttaṃ ghātayedapi |
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#^pg190|p. 173]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=190>))
 >
-> If he is penetrated by the power of grace, he becomes (absorbed in the rite and) one with that, but if he is penetrated by the malevolent (power of the Lord) (vama),), he would criticize (the gathering), and after that he would (even) strike out at it (ghātayet) also. (with 28.382cd–383ab)
+> If he is penetrated by the power of grace, he becomes (absorbed in the rite and) one with that, but if he is penetrated by the malevolent (power of the Lord) (vāmā), he would criticize (the gathering), and after that he would (even) strike out at it (ghātayet) also. (with 28.382cd–383ab)
 >
 > It is also said in the venerable Picumata that ‘first of all, (take care) to protect the entrance (to the rite) with effort, (to prevent those who are not qualified from coming in). One should not deliberate concerning one who has entered.’ (with 28.383cd–384ab)
 

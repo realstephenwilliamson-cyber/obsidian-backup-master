@@ -108,7 +108,7 @@ water, and faith, and wood, containing the mystery of the cross; even as Noah wa
 
 “For another mystery was accomplished and predicted in the days of Noah, of which you are not aware. It is this: in the blessings wherewith Noah blessed his two sons, and in the curse pronounced on his son’s son. For the Spirit of prophecy would not curse the son that had been by God blessed along with \[his brothers\]. But since the punishment of the sin would cleave to the whole descent of the son that mocked at his father’s nakedness, he made the curse originate with *his* son.<sup>2480</sup> Now, in what he said, he foretold that the descendants of Shem would keep in retention the property and dwellings of Canaan: and again that the descendants of Japheth would take possession of the property of which Shem’s descendants had dispossessed Canaan’s descendants; and spoil the descendants of Shem, even as they plundered the sons of Canaan. And listen to the way in which it has so come to pass. For you, who have derived your lineage from Shem, invaded the territory of the sons of Canaan by the will of God; and you possessed it. And it is manifest that the sons of Japheth, having invaded you in turn by the judgment of God, have taken your land from you, and have possessed it. Thus it is written: ‘And Noah awoke from the wine, and knew what his younger son had done unto him; and he said, Cursed be Canaan, the servant; a servant shall he be unto his brethren. And he said, Blessed be the Lord God of Shem; and Canaan shall be his servant. May the Lord enlarge Japheth, and let him dwell in the houses of Shem; and let Canaan be his servant.’<sup>2481</sup> Accordingly, as two peoples were blessed,—those from Shem, and those from Japheth,—and as the offspring of Shem were decreed first to possess the dwellings of Canaan, and the offspring of Japheth were predicted as in turn receiving the same possessions, and to the two
 
-269 \[But Justin goes on to show that it was prophetic foresight only: the curse cleaves only to wicked descendants, the authors 2480 of idolatry. It was removed by Christ. St. Matt. xv. 22–28.\]
+269 \[But Justin goes on to show that it was prophetic foresight only: the curse cleaves only to wicked descendants, the authors 2480 of idolatry. It was removed by Christ. St. [[Matthew 15#^15-22|Matt. xv. 22–28]].\]
 
 *[p. 441]* ^pg481
 
@@ -154,7 +154,7 @@ they should be judged by Him, if they do anything contrary to right reason: and 
 
 When I had said this, dearest Marcus Pompeius, I came to an end.
 
-Matt. viii. 11 f.
+[[Matthew 08#^8-11|Matt. viii. 11 f.]]
 
 2489
 
@@ -256,7 +256,7 @@ heels were bored through, but the goad with which he killed his father.
 
 2504
 
-\[He seems to quote Gal. iv. 12.\]
+\[He seems to quote [[Galatians 04#^4-12|Gal. iv. 12]].\]
 
 *[p. 447]* ^pg487
 

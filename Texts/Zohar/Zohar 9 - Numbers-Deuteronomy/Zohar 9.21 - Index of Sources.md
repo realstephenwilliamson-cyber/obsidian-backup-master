@@ -2490,7 +2490,7 @@ This index includes sources that are quoted (rather than merely cited or alluded
 #### Naḥmanides, Moses
 
 **(cited in Shittah Mequbbetset)**
-- [[Ketubot 19#19a|*Ketubbot* 19a]] 375
+- *Ketubbot* [[Ketubot 19#19a|19a]] 375
 
 #### Radak
 

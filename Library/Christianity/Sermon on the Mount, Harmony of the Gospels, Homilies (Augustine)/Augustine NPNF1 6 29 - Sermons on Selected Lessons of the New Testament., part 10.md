@@ -14,7 +14,7 @@ converted: 2026-10-15
 
 *[p. 894]* ^pg920
 
-*On the words of the Gospel, Luke x. 38, ‘And a certain woman named Martha…*
+*On the words of the Gospel, [[Luke 10#^10-38|Luke x. 38]], ‘And a certain woman named Martha…*
 
 thou hast pleasure in feeding bodies which are mortal, though they be the bodies of Saints; but when thou shalt have got to that country, wilt thou find there any stranger whom thou mayest receive into thine house? wilt thou find the hungry, to whom thou mayest break thy bread? or the thirsty, to whom thou mayest hold out thy cup? the sick whom thou mayest visit? the litigious, whom thou mayest set at one? the dead, whom thou mayest bury? None of all these will be there, but what will be there? What Mary hath chosen; there shall we be fed, and shall not feed others. Therefore there will that be in fulness and perfection which Mary hath chosen here; from that rich table, from the word of the Lord did she gather up some crumbs. For would ye know what will be there? The Lord Himself saith of His servants: “Verily I say unto you, that He will make them to sit down to meat, and will pass by<sup>3325</sup> and serve them.”<sup>3326</sup> What is “to sit down to meat,” but to “be still”? What is, “to sit down to meat,” but to rest? What is, “He will pass by and serve them”? First, He passeth by, and so serveth. And where? In that heavenly Banquet, of which he saith, “Verily I say unto you, Many shall come from the East and West, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.”<sup>3327</sup> There will the Lord feed us, but first He passeth on from hence. For (as ye should know) the Pasch is by interpretation Passing-over. The Lord came, He did divine things, He suffered human things. Is He still spit upon? Is He still struck with the palm of the hand? Is He still crowned with thorns? Is He still scourged? Is He still crucified? Is He still wounded with a spear? “He hath passed by.” And so too the Gospel tells us, when He kept the Paschal feast with His disciples. What says the Gospel? “But when the hour was come that Jesus should pass out of this world unto the Father.”<sup>3328</sup> Therefore did He pass,<sup>3329</sup> that He might feed us; let us follow, that we may be fed.
 
@@ -24,16 +24,16 @@ thou hast pleasure in feeding bodies which are mortal, though they be the bodies
 
 Sermon LIV.
 
-\[CIV. Ben.\] *Again, on the words of the Gospel, Luke x. 38, etc., about Martha and Mary.* 1. When the holy Gospel was being read, we heard that the Lord was received by a religious woman into her house, and her name was Martha. And while she was occupied in the care of serving, her sister Mary was sitting at the Lord’s Feet, and hearing His Word. The one was busy, the other was still; one was giving out, the other was being filled. Yet Martha, all busy as she was in that occupation and toil of serving, appealed to the Lord, and complained of her sister, that she did not help her in her labour. But the Lord answered Martha for Mary; and He became her Advocate, who had been appealed to as Judge. “Martha,” He saith, “thou art occupied about many things, when one thing is necessary. Mary hath chosen the better part, which shall not be taken from her.”<sup>3330</sup> For we have heard both the appeal of the appellant, and the sentence of the Judge. Which sentence answered the appellant, defended the other’s cause. For Mary was intent on the sweetness of the Lord’s word. Martha was intent, how she might feed the Lord; Mary intent how she might be fed by the Lord. By Martha a feast was being prepared for the Lord, in whose feast Mary was even now delighting herself. As Mary then was listening with sweet pleasure to His most sweet word, and was feeding with the most earnest affection, when the Lord was appealed to by her sister, how, think we, did she fear, lest the Lord should say to her, “Rise and help thy sister”? For by a wondrous sweetness was she held; a sweetness of the mind which is doubtless greater than that of the senses.<sup>3331</sup> She was excused, she sat in greater confidence. And how excused? Let us consider, examine, investigate it thoroughly as we can, that we may be fed also.
+\[CIV. Ben.\] *Again, on the words of the Gospel, [[Luke 10#^10-38|Luke x. 38]], etc., about Martha and Mary.* 1. When the holy Gospel was being read, we heard that the Lord was received by a religious woman into her house, and her name was Martha. And while she was occupied in the care of serving, her sister Mary was sitting at the Lord’s Feet, and hearing His Word. The one was busy, the other was still; one was giving out, the other was being filled. Yet Martha, all busy as she was in that occupation and toil of serving, appealed to the Lord, and complained of her sister, that she did not help her in her labour. But the Lord answered Martha for Mary; and He became her Advocate, who had been appealed to as Judge. “Martha,” He saith, “thou art occupied about many things, when one thing is necessary. Mary hath chosen the better part, which shall not be taken from her.”<sup>3330</sup> For we have heard both the appeal of the appellant, and the sentence of the Judge. Which sentence answered the appellant, defended the other’s cause. For Mary was intent on the sweetness of the Lord’s word. Martha was intent, how she might feed the Lord; Mary intent how she might be fed by the Lord. By Martha a feast was being prepared for the Lord, in whose feast Mary was even now delighting herself. As Mary then was listening with sweet pleasure to His most sweet word, and was feeding with the most earnest affection, when the Lord was appealed to by her sister, how, think we, did she fear, lest the Lord should say to her, “Rise and help thy sister”? For by a wondrous sweetness was she held; a sweetness of the mind which is doubtless greater than that of the senses.<sup>3331</sup> She was excused, she sat in greater confidence. And how excused? Let us consider, examine, investigate it thoroughly as we can, that we may be fed also.
 
 2\. For what, do we imagine that Martha’s serving was blamed, whom the cares of hospitality had engaged, who had received the Lord Himself into her house? How could she be rightly blamed, who was gladdened by so great a guest? If this be true, let men give over their ministrations to the needy; let them choose for themselves “the better part, which shall not be taken from” them; let them give themselves<sup>3332</sup> wholly to the word, let them long after the sweetness of doctrine; be occupied about the saving knowledge; let it be no care to them, what stranger is in the street, who there is that wants bread, or clothing, or to be visited, to be redeemed, to be buried; let works of mercy cease, earnest heed be given to knowledge only. If this be “the better part,” why do not all do this, when we have the Lord Himself for our defender in this behalf? For we do not fear in this matter, lest we should offend His justice, when we have the support of His judgment.
 
-3330 Luke x. 41, 42. 3331 *Ventris*. *Vacent*. 430 3333 Gen. i. 31. 3334 *Peregrinationem*. 3335 John i. 1. 3336 John i. 14.
+3330 [[Luke 10#^10-41|Luke x. 41]], [[Luke 10#^10-42|42]]. 3331 *Ventris*. *Vacent*. 430 3333 Gen. i. 31. 3334 *Peregrinationem*. 3335 [[John 01#^1-1|John i. 1]]. 3336 [[John 01#^1-14|John i. 14]].
 
 
 *[p. 896]* ^pg922
 
-*Again, on the words of the Gospel, Luke x. 38, etc., about Martha and M…*
+*Again, on the words of the Gospel, [[Luke 10#^10-38|Luke x. 38]], etc., about Martha and M…*
 
 3\. And yet it is not so; but as the Lord spake so it is. It is not as thou understandest; but it is as thou oughtest to understand it. So mark; “Thou art occupied about many things, when one thing is needful. Mary hath chosen the better part.” Thou hast not chosen a bad part; but she a better. And how better? Because thou art “about many things,” she about “one thing.” One is preferred to many. For one does not come from many, but many from one.
 
@@ -41,13 +41,13 @@ The things which were made, are many, He who made them is One. The heaven, the e
 
 *[p. 897]* ^pg923
 
-*Again, on the words of the Gospel, Luke x. 38, etc., about Martha and M…*
+*Again, on the words of the Gospel, [[Luke 10#^10-38|Luke x. 38]], etc., about Martha and M…*
 
 this is understood) from thee, that which thou hast chosen shall be taken away. But to thy blessedness shall it be taken away, that that which is better may be given. For labour shall be taken away from thee, that rest may be given. Thou art still on the sea, she is already in port.
 
 4\. Ye see then, dearly Beloved, and, as I suppose, ye understand already, that in these two women, who were both well pleasing to the Lord, both objects of His love, both disciples; ye see, I say (and an important thing it is which whosoever understand, understand hereby, a thing which, even those of you who do not understand ought to give ear to, and to know), that in these two women the two lives are figured, the life present, and the life to come, the life of labour, and the life of quiet, the life of sorrow, and the life of blessedness, the life temporal, and the life eternal. These are the two lives: do ye think of them more fully. What this life contains, I speak not of a life of evil, or iniquity, or wickedness, or luxuriousness, or ungodliness; but of labour, and full of sorrows, by fears subdued, by temptations disquieted: even this harmless life I mean, such as was suitable for Martha: this life I say, examine as best ye can; and as I have said, think of it more fully than I speak. But a wicked life was far from that house, and was neither with Martha nor with Mary; and if it ever had been, it fled at the Lord’s entrance. There remained then in that house, which had received the Lord, in the two women the two lives, both harmless, both praiseworthy; the one of labour, the other of ease; neither vicious, neither slothful. Both harmless, both, I say, praiseworthy: but one of labour, the other of ease: neither vicious, which the life of labour must beware of; neither slothful, which the life of ease must beware of. There were then in that house these two lives, and Himself, the Fountain of life. In Martha was the image of things present, in Mary of things to come. What Martha was doing, that we are now; what Mary was doing, that we hope for. Let us do the first well, that we may have the second fully. For what of it have we now? How far have we it? As long as we are here, how much of it is there that we have? For in some measure are we employed in it now, and ye too when removed from business, and laying aside domestic cares, ye meet together, stand, listen. In so far as ye do this, ye are like Mary. And with greater facility do ye do that which Mary doeth, than I who have to distribute. Yet if I say ought, it is Christ’s; therefore doth it feed you, because it is Christ’s. For the Bread is common to us all, of which I too live as well as you. “But now we live, if ye, Brethren, stand fast in the Lord.” <sup>3338</sup> I would not that ye should stand fast in us, but in the Lord. “For neither is he that planteth anything, neither he that watereth; but God that giveth the increase.”<sup>3339</sup>
 
-3338 1 Thess. iii. 8. 1 Cor. iii. 7. 431
+3338 [[1 Thessalonians 03#^3-8|1 Thess. iii. 8]]. [[1 Corinthians 03#^3-7|1 Cor. iii. 7]]. 431
 
 
 *[p. 898]* ^pg924
@@ -56,18 +56,18 @@ this is understood) from thee, that which thou hast chosen shall be taken away. 
 
 Sermon LV.
 
-\[CV. Ben.\] *On the words of the Gospel, Luke xi. 5, “Which of you shall have a friend, and shall go unto him at midnight,” etc.*
+\[CV. Ben.\] *On the words of the Gospel, [[Luke 11#^11-5|Luke xi. 5]], “Which of you shall have a friend, and shall go unto him at midnight,” etc.*
 
 1\. We have heard our Lord, the Heavenly Master, and most faithful Counsellor exhorting us, who at once exhorteth us to ask, and giveth when we ask. We have heard Him in the Gospel exhorting us to ask instantly, and to knock even after the likeness of intrusive importunity. For He has set before us, for the sake of example, “If any of you had a friend, and were to ask of him at night for three loaves,<sup>3340</sup> when a friend out of his way had come to him, and he had nothing to set before him; and he were to answer that he was now at rest, and his servants with him, and that he must not be disturbed by his entreaties; but the other were to be instant and persevering in knocking, and not being alarmed in modesty to depart, but compelled by necessity to continue on; that he would rise, though not for friendship’s sake, at least for the other’s importunity, and would give him as many as he wished.” And how many did he wish? He wished for no more than three. To this parable then, the Lord adjoined an exhortation, and urged us earnestly to ask, seek, knock, till we receive what we ask, and seek, and knock for, making use of an example from a contrary case; as of that “judge who neither feared God, nor regarded man,”<sup>3341</sup> and yet when a certain widow besought him day by day, overcome by her importunity, he gave her that which he could not in kindness give her, against his will. But our Lord Jesus Christ, who is in the midst of us a Petitioner, with God a Giver, would not surely exhort us so strongly to ask, if He were not willing to give. Let then the slothfulness of men be put to shame; He is more willing to give, than we to receive; He is more willing to show mercy, than we to be delivered from misery; and doubtless if we shall not be delivered, we shall abide in misery. For the exhortation He giveth us, He giveth only for our own sakes.
 
 2\. Let us awake, and believe Him who exhorteth us, obey Him who promiseth us, and rejoice in Him who giveth unto us. For peradventure, some time or other some friend out of his way has come to us too, and we have found nothing to set before him; and under the experience of this necessity, we have received both for ourselves and him. For it cannot be, but that some one of us hath fallen in with a friend who asked him something, which he could not answer; and then he has discovered that he has it not, when he is pressed to give it. A friend has come to thee “out of the way,” out, that is, of the life of this world, in which all men are passing along as strangers, and no one abides here as possessor; but to every man it is said, “Thou hast been refreshed, pass on, go on thy way, give place to the next comer.”<sup>3342</sup> Or perhaps from an evil “way,” that is, from an evil life, some friend of thine
 
-3340 Luke xi. 5. 3341 Luke xviii. 2. Ecclus. xxix. 27.
+3340 [[Luke 11#^11-5|Luke xi. 5]]. 3341 [[Luke 18#^18-2|Luke xviii. 2]]. Ecclus. xxix. 27.
 
 
 *[p. 899]* ^pg925
 
-*On the words of the Gospel, Luke xi. 5, ‘Which of you shall have a friend,…*
+*On the words of the Gospel, [[Luke 11#^11-5|Luke xi. 5]], ‘Which of you shall have a friend,…*
 
 wearied out, and not finding the truth, by the hearing and perceiving of which he may be made happy, but exhausted amid all the lust and poverty of the world, comes to thee, as to a Christian, and says, “Give me an account of this, make me a Christian.” And he asks what it may be thou didst not know through the simplicity of thy faith; and so thou hast not whereby to recruit him in his hunger, and reminded thus thou discoverest thine own indigence; and when thou wishest to teach thou art forced to learn; and whilst thou dost blush before him who asked thee, as not finding in thyself what he was seeking for, thou art compelled to seek, that thou mayest be thought worthy<sup>3343</sup> to find.
 
@@ -81,29 +81,29 @@ wearied out, and not finding the truth, by the hearing and perceiving of which h
 
 *[p. 900]* ^pg926
 
-*On the words of the Gospel, Luke xi. 5, ‘Which of you shall have a friend,…*
+*On the words of the Gospel, [[Luke 11#^11-5|Luke xi. 5]], ‘Which of you shall have a friend,…*
 
 three. And these too are gifts of God. For faith we have received from Him; “As God,” saith he, “hath distributed to every one the measure of faith.”<sup>3344</sup> And hope we have received from Him, to whom it is said, “Wherein Thou hast caused me to hope.”<sup>3345</sup> And charity we have received from Him, of whom it is said, “The charity of God is shed abroad in our hearts by the Holy Ghost, which hath been given to us.”<sup>3346</sup> Now these three are likewise in some measure different; but all gifts of God. For “there abide these three, faith, hope, charity; but the greatest of these is charity.”<sup>3347</sup> In those loaves it is not said that any one loaf was greater than the others; but simply that three loaves were asked for, and were given.
 
 6\. See other three things: “Who is there of you, whom if his son ask a loaf, will he give him a stone? Or who is there of you of whom if his son ask a fish, will he give him a serpent? 432 or if he ask an egg, will he offer him a scorpion? If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him!”<sup>3348</sup> Let us then again consider these three things, if haply there be not here those three, “faith, hope, charity; but the greatest of these is charity.” Set down then these three things, a loaf, a fish, an egg; the greatest of these is a loaf. Therefore in these three things do we well understand charity by “the loaf.” On which account He has opposed a stone to a loaf; because hardness is contrary to charity. By “a fish” we understand faith. A certain holy man has said, and we are glad to say it too; “The ‘good fish’ is a godly faith.” It lives amidst the waves, and is not broken or dissolved by the waves. Amidst the temptations and tempests of this world, liveth godly faith; the world rages, yet it is uninjured. Observe only that serpent is contrary to faith. For My faith is she betrothed to whom it is said in the Song of Songs, “Come from Lebanon, My spouse, coming and passing over to Me from the beginning of faith.” <sup>3349</sup> Therefore betrothed too, because faith is the beginning of betrothal. For something is promised by the bridegroom, and by this plighted faith is he held bound. Now to the fish the Lord opposed the serpent, to faith the devil. Wherefore to this betrothed one does the Apostle say, “I have betrothed you to One Husband, to present you a chaste virgin to Christ.” And, “I fear lest as the serpent beguiled Eve through his subtilty, so your minds also should be corrupted from the purity which is in Christ;”<sup>3350</sup> that is, which is in the faith of Christ. For he says, “That Christ may dwell in your hearts by faith.”<sup>3351</sup> Therefore let not the devil corrupt our faith, let him not devour the fish.
 
-3344 Rom. xii. 3. 3345 Ps. cxix. 49. 3346 Rom. v. 5. 3347 1 Cor. xiii. 13. 3348 Luke xi. 11–13. 3349 Cant. iv. 8, Sept. See on St. Cyprian, Ep. p. 278, note *n*.
+3344 [[Romans 12#^12-3|Rom. xii. 3]]. 3345 Ps. cxix. 49. 3346 [[Romans 05#^5-5|Rom. v. 5]]. 3347 [[1 Corinthians 13#^13-13|1 Cor. xiii. 13]]. 3348 [[Luke 11#^11-11|Luke xi. 11–13]]. 3349 Cant. iv. 8, Sept. See on St. Cyprian, Ep. p. 278, note *n*.
 
-3350 2 Cor. xi. 2, 3. Eph. iii. 17.
+3350 [[2 Corinthians 11#^11-2|2 Cor. xi. 2]], [[2 Corinthians 11#^11-3|3]]. [[Ephesians 03#^3-17|Eph. iii. 17]].
 
 
 *[p. 901]* ^pg927
 
-*On the words of the Gospel, Luke xi. 5, ‘Which of you shall have a friend,…*
+*On the words of the Gospel, [[Luke 11#^11-5|Luke xi. 5]], ‘Which of you shall have a friend,…*
 
 7\. There remains hope, which, as I think, is compared to an egg. For hope has not yet arrived at attainment; and an egg is something, but not yet the chicken. So then quadrupeds give birth to young ones, but birds to the hope of young. Hope therefore exhorts us to this, to despise things present, to wait for things to come; “forgetting those things which are behind,” let us, with the Apostle,” reach forth unto those things which are before.” <sup>3352</sup> For so he says; “But one thing I do, forgetting those things which are behind, reaching forth unto those things which are before, I follow on earnestly unto the prize of the high calling of God in Christ Jesus.” Nothing then is so hostile to hope, as to “look back,” to place hope, that is, in those things which flit by and pass away; but in those things should we place it, which are not yet given, but which sometime will be given, and will never pass away. But when the world is deluged by trials,<sup>3353</sup> as it were the sulphureous rain of Sodom, the example of Lot’s wife must be feared. For she “looked behind;”<sup>3354</sup> and in the spot where she looked behind, there did she remain. She was turned into salt, that she might season the wise by her example. Of this hope the Apostle Paul speaketh thus; “For we are saved in hope; but hope that is seen is not hope; for what a man seeth, why doth he yet hope for: but if we hope for that we see not, then do we with patience wait for it. For what a man seeth, why doth he yet hope for.”<sup>3355</sup> It is an egg, and not as yet the chicken. And it is covered with a shell; it is not seen because it is covered; let it be with patience waited for; let it feel the warmth, that it may come to life. Press on, “reach forth unto the things which are before, forget the past. For the things which are seen, are temporal. Not looking back,” says he, “at the things which are seen, but at the things which are not seen. For the things which are seen are temporal; but the things which are not seen are eternal.”<sup>3356</sup> Unto those things which are not seen then extend thy hope, wait, endure. Look not back. Fear “the scorpion” for thine “egg.” See how he wounds with the tail, which he has behind him. Let not then the “scorpion” crush thine “egg,” let not this world crush thy hope (so to say) with its poison, therefore against thee, because behind. How loudly does the world talk to thee, what an uproar does it make behind thy back, that thou mayest look back! that is, that thou mayest place thy hope in present things (and yet not even present, for they cannot be called present which have no fixedness), and mayest turn thy mind away from that which Christ hath promised, and not yet given, but who, seeing He is faithful, will give it, and mayest be content to look for rest in a perishing world.
 
-3352 Phil. iii. 13. 3353 As by the irruption of the barbarian tribes. 3354 Gen. xix. 26. 3355 Rom. viii. 24, 25. 2 Cor. iv. 18.
+3352 [[Philippians 03#^3-13|Phil. iii. 13]]. 3353 As by the irruption of the barbarian tribes. 3354 Gen. xix. 26. 3355 [[Romans 08#^8-24|Rom. viii. 24]], [[Romans 08#^8-25|25]]. [[2 Corinthians 04#^4-18|2 Cor. iv. 18]].
 
 
 *[p. 902]* ^pg928
 
-*On the words of the Gospel, Luke xi. 5, ‘Which of you shall have a friend,…*
+*On the words of the Gospel, [[Luke 11#^11-5|Luke xi. 5]], ‘Which of you shall have a friend,…*
 
 8\. For this cause does God mingle bitternesses with the felicities of earth, that another felicity may be sought, in whose sweetness there is no deceit; yet by these very bitternesses does the world endeavour to turn thee away from thy longing pursuit after the things “which are before,” and to turn thee back. For these bitternesses, for these tribulations dost thou murmur and say, “See, all things are perishing in Christian times.” What complaint is this! God hath not promised me that these things shall not perish; Christ hath not promised me this. The Eternal hath promised things eternal: if I believe, from a mortal, I shall be made 433 eternal. What noise is this, O world<sup>3357</sup> impure! what murmuring is this! Why art thou trying to turn me back? Perishing as thou art, thou wishest to detain me; what wouldest thou do, if thou hadst any permanence? Whom wouldest thou not beguile by thy sweetness, if with all thy bitternesses thou dost impose thy false nourishment<sup>3358</sup> upon us? For me, if I have hope, if I hold fast my hope, my “egg” has not been wounded by the “scorpion.” “I will bless the Lord at all times, His praise shall be ever in my mouth.”<sup>3359</sup> Be the world prosperous, or be the world turned upside down; “I will bless the Lord,” who made the world. Yes, verily, I will bless Him. Be it well with me according to the flesh, or be it ill according to the flesh, “I will bless the Lord at all times, His praise shall be ever in my mouth.” For if I bless when it is well, and blaspheme when it is ill with me; I have received the “scorpion’s” sting, being pricked “I have looked back;” which be far from us. “The Lord gave, the Lord hath taken away: it is done, as the Lord pleased; blessed be the name of the Lord.”<sup>3360</sup>
 
@@ -111,12 +111,12 @@ three. And these too are gifts of God. For faith we have received from Him; “A
 
 3357 *Munde immunde*. 3358 *Alimenta mentiris*. 3359 Ps. xxxiv. 1.
 
-3360 Job i. 21, Sept. 3361 Ps. cxlvii. 2. 3362 Ps. cxxvii. 1. 3363 Ps. cxxi. 4. Gal. iii. 16.
+3360 Job i. 21, Sept. 3361 Ps. cxlvii. 2. 3362 Ps. cxxvii. 1. 3363 Ps. cxxi. 4. [[Galatians 03#^3-16|Gal. iii. 16]].
 
 
 *[p. 903]* ^pg929
 
-*On the words of the Gospel, Luke xi. 5, ‘Which of you shall have a friend,…*
+*On the words of the Gospel, [[Luke 11#^11-5|Luke xi. 5]], ‘Which of you shall have a friend,…*
 
 according to the promise.”<sup>3365</sup> “In thy seed,” saith He, “shall all nations be blessed.”<sup>3366</sup> The holy city, the faithful city, the city on earth a sojourner, hath its foundation in heaven. O faithful one, do not corrupt thy hope, do not lose thy charity, “gird up thy loins,” light, and hold out thy lamps before thee; “wait for the Lord, when He will return from the wedding.”<sup>3367</sup> Why art thou alarmed, because the kingdoms of the earth are perishing? Therefore hath a heavenly kingdom been promised thee, that thou mightest not perish with the kingdoms of the earth. For it was foretold, foretold distinctly, that they should perish. For we cannot deny that it was foretold. Thy Lord for whom thou art waiting, hath told thee, “Nation shall rise up against nation, and kingdom against kingdom.”<sup>3368</sup> The kingdoms of the earth have their changes; He will come of whom it is said, “and of His kingdom there shall be no end.”<sup>3369</sup>
 
@@ -126,14 +126,14 @@ To them no bounds of empire I assign, Nor term of years to their immortal line.<
 
 ‘Th’ impending ruin of the Roman state.’<sup>3372</sup>
 
-3365 Gal. iii. 29. 3366 Gen. xii. 3 and xxii. 18. 3367 Luke xii. 35, 36. 3368 Mark xiii. 8. 3369 Luke i. 33.
+3365 [[Galatians 03#^3-29|Gal. iii. 29]]. 3366 Gen. xii. 3 and xxii. 18. 3367 [[Luke 12#^12-35|Luke xii. 35]], [[Luke 12#^12-36|36]]. 3368 [[Mark 13#^13-8|Mark xiii. 8]]. 3369 [[Luke 01#^1-33|Luke i. 33]].
 
-3370 Virg. *Æneid*, i. 282–283 (Dryden). 3371 Luke xxi. 33. *Georg*. ii. 489.
+3370 Virg. *Æneid*, i. 282–283 (Dryden). 3371 [[Luke 21#^21-33|Luke xxi. 33]]. *Georg*. ii. 489.
 
 
 *[p. 904]* ^pg930
 
-*On the words of the Gospel, Luke xi. 5, ‘Which of you shall have a friend,…*
+*On the words of the Gospel, [[Luke 11#^11-5|Luke xi. 5]], ‘Which of you shall have a friend,…*
 
 See how I spoke of the impending ruin of the state. I spoke of its impending ruin. I did not suppress it.” When he spoke in truth he was not silent as to its ruin; when in flattery, he promised that it should abide for ever.
 
@@ -141,12 +141,12 @@ See how I spoke of the impending ruin of the state. I spoke of its impending rui
 
 12\. Ye have noticed, it may be, how a hen will tear a scorpion in pieces. O then that the Hen of the Gospel would tear in pieces and devour these blasphemers, creeping out of their holes, and inflicting hurtful stings, would pass them over into Her Body, and turn them into an egg. Let them not be angry; we seem to be excited; but we do not return curses for curses. “We are cursed, and we bless, being defamed, we entreat.”<sup>3375</sup> But “let him not speak of Rome, it is said of me: O that he would hold his tongue about Rome;” as though I were insulting it, and not rather entreating the Lord for it, and exhorting you all, unworthy as I am. Be it far from me to insult it! The Lord avert this from my heart, and from the grief of my conscience. Have we not had many brethren there? have we not still? Does not a large portion of the pilgrim city Jerusalem live there? has it not endured there temporal afflictions? but it has not lost the things eternal. What can I say then, when I speak of Rome, but that is
 
-3373 *Ad delicias*. 3374 Matt. xxiii. 37. 1 Cor. iv. 12, 13.
+3373 *Ad delicias*. 3374 [[Matthew 23#^23-37|Matt. xxiii. 37]]. [[1 Corinthians 04#^4-12|1 Cor. iv. 12]], [[1 Corinthians 04#^4-13|13]].
 
 
 *[p. 905]* ^pg931
 
-*On the words of the Gospel, Luke xi. 5, ‘Which of you shall have a friend,…*
+*On the words of the Gospel, [[Luke 11#^11-5|Luke xi. 5]], ‘Which of you shall have a friend,…*
 
 false, which they say of our Christ, that He is Rome’s destroyer, and that the gods of wood and stone were her defenders? Add what is more costly, “gods of brass.” Add what is costlier still, “of silver and gold:” the “idols of the nations are silver and gold.”<sup>3376</sup> He did not say, “stone;” he did not say, “wood;” he did not say, “clay;” but, what they value highly, “silver and gold.” Yet these silver and golden idols “have eyes, and see not.”<sup>3377</sup> The gods of gold, of wood, are as regards their costliness unequal; but as to “having eyes, and seeing not,” they are equal. See to what sort of guardians learned men have entrusted Rome, to those “who have eyes, and see not.” Or if they were able to preserve Rome, why did they first perish themselves? They say; “Rome perished at the same time.” Nevertheless they perished. “No,” they say, “they did not perish themselves, but their statues.” Well, how then could they keep your houses, who were not able to keep their own statues? Alexandria once lost such gods as these. Constantinople some time since, ever since it was made a grand city, for it was made so by a Christian Emperor, lost its false gods; and yet it has increased, and still increases, and remains. And remain it will, as long as God pleases. For we do not to this city either promise an eternal duration because we say this. Carthage remains now in its possession of the Name of Christ, yet once on a time its goddess Cælestis<sup>3378</sup> was overthrown; because celestial she was not, but terrestrial.
 
@@ -159,7 +159,7 @@ false, which they say of our Christ, that He is Rome’s destroyer, and that the
 
 *[p. 906]* ^pg932
 
-*On the words of the Gospel, Luke xi. 5, ‘Which of you shall have a friend,…*
+*On the words of the Gospel, [[Luke 11#^11-5|Luke xi. 5]], ‘Which of you shall have a friend,…*
 
 Christian faith, were yet hostile and opposed to idols, and they took Rome; they conquered those who put their trust in idols, who were still seeking after the idols they had lost, and desiring still to sacrifice to the lost gods. And amongst them too were some of our brethren, and these were afflicted also: but they had learnt to say, “I will bless the Lord at all times.”<sup>3381</sup> 435
 
@@ -171,18 +171,18 @@ They were involved in the afflictions of their earthly kingdom: but they lost no
 
 Sermon LVI.
 
-\[CVI. Ben.\] *On the words of the Gospel, Luke xi. 39, “Now do ye Pharisees cleanse the outside of the cup and the platter,” etc.*
+\[CVI. Ben.\] *On the words of the Gospel, [[Luke 11#^11-39|Luke xi. 39]], “Now do ye Pharisees cleanse the outside of the cup and the platter,” etc.*
 
 1\. Ye have heard the holy Gospel, how the Lord Jesus in that which He said to the Pharisees, conveyed doubtless a lesson to His own disciples, that they should not think that righteousness consists in the cleansing of the body. For every day did the Pharisees wash themselves in water before they dined; as if a daily washing could be a cleansing of the heart. Then He showed what sort of persons they were. He told them who saw them; for He saw not their faces only but their inward parts. For that ye may know this, that Pharisee, to whom Christ made answer, thought within himself, he uttered nothing aloud, yet the Lord heard him. For within himself he blamed the Lord Christ, because He had so come to his feast without having washed. He was thinking, the Lord heard, therefore He answered. What then did He answer? “Now do ye Pharisees wash the outside of the platter; but within ye are full of guile and ravening.” <sup>3382</sup> What! is this to come to a feast! how did He not spare the man by whom He had been invited? Yea rather by rebuking He did spare him, that being reformed He might spare him in the judgment. And what is it that He showeth to us? That Baptism also which is conferred once for all, cleanses by faith. Now faith is within, not without. Wherefore it is said and read in the Acts of the Apostles, “Cleansing their hearts by faith.”<sup>3383</sup> And the Apostle Peter thus speaks in his Epistle; “So too hath He given you a similitude from Noah’s ark, how that eight souls were saved by water.” And then he added, “So also in a like figure will baptism save us, not the putting away of the filth of the flesh, but the answer of a good conscience.”<sup>3384</sup> “This answer of a good conscience” did the Pharisees despise, and washed “that which was without;” within they continued full of pollution.
 
 2\. And what did He say to them after this? “But rather give alms, and behold all things are clean unto you.”<sup>3385</sup> See the praise of alms, do, and prove it. But mark awhile; this was said to the Pharisees. These Pharisees were Jews, the choice men as it were of the Jews. For those of most consideration and learning were then called Pharisees. They had not been washed by Christ’s Baptism; they had not yet believed on Christ, the Only-begotten Son of God, who walked among them, yet was not acknowledged by them. How then doth He say to them, “Give alms, and behold all things are clean unto you”? If the Pharisees had paid heed to Him, and given alms, at once according to His word “all things would have been
 
-3382 Luke xi. 39. 3383 Acts xv. 9. 3384 1 Pet. iii. 20, 21.
+3382 [[Luke 11#^11-39|Luke xi. 39]]. 3383 [[Acts 15#^15-9|Acts xv. 9]]. 3384 [[1 Peter 03#^3-20|1 Pet. iii. 20]], [[1 Peter 03#^3-21|21]].
 
 
 *[p. 908]* ^pg934
 
-*On the words of the Gospel, Luke xi. 39, ‘Now do ye Pharisees cleanse the…*
+*On the words of the Gospel, [[Luke 11#^11-39|Luke xi. 39]], ‘Now do ye Pharisees cleanse the…*
 
 clean to them;” what need then was there for them to believe on Him? But if they could not be cleansed, except by believing on Him, who “cleanseth the heart by faith;” what means, “Give alms, and behold all things are clean unto you”? Let us carefully consider this, and peradventure He Himself explains it.
 
@@ -190,16 +190,16 @@ clean to them;” what need then was there for them to believe on Him? But if th
 
 4\. If this be so, why did He say to them, “Do alms, and behold all things are clean unto you”? What is, “Do alms”? Do mercy. What is, “Do mercy”? If thou understand, begin with thine own self. For how shouldest thou be merciful to another, if thou art cruel to thyself? “Give alms, and all things are clean unto you.” Do true alms. What is alms? Mercy. Hear the Scripture; “Have mercy on thine own soul, pleasing God.”<sup>3388</sup> Do alms, “Have mercy on thine own soul, pleasing God.” Thine own soul is a beggar before thee, return to thy conscience. Whosoever thou art, who art living in wickedness or unbelief, return to thy conscience; and there thou findest thy soul in beggary, thou findest it needy, thou findest it poor, thou findest it in sorrow, nay perhaps thou dost not find it in need, but dumb through its neediness. For if it beg, it “hungereth after righteousness.” Now when thou findest thy soul in such a state (all this is within, in thy heart), first do alms, give it bread. What bread? If the Pharisee had asked this question, the Lord would have said to him, “Give alms to thine own soul.” For this He did say to him; but he did not understand it, when He enumerated
 
-3386 Matt. xxiii. 23. 3387 Luke xi. 42. Ecclus. xxx. 23, Vulgate.
+3386 [[Matthew 23#^23-23|Matt. xxiii. 23]]. 3387 [[Luke 11#^11-42|Luke xi. 42]]. Ecclus. xxx. 23, Vulgate.
 
 
 *[p. 909]* ^pg935
 
-*On the words of the Gospel, Luke xi. 39, ‘Now do ye Pharisees cleanse the…*
+*On the words of the Gospel, [[Luke 11#^11-39|Luke xi. 39]], ‘Now do ye Pharisees cleanse the…*
 
 to them the alms which they were used to do, and which they thought were unknown to Christ; and He saith to them, “I know that ye do this, ‘ye tithe mint and anise, cummin and rue;’ but I am speaking of other alms; ye despise ‘judgment and charity.’ In judgment and charity give alms to thine own soul.” What is “in judgment”? Look back, and discover thyself; mislike thyself, pronounce a judgment against thyself. And what is charity? “Love the Lord God with all thy heart, and with all thy soul, and with all thy mind; love thy neighbour as thyself:”<sup>3389</sup> and thou hast done alms first to thine own soul, within thy conscience. Whereas if thou neglect this alms, give what thou wilt, give how much thou wilt; reserve of thy goods not a tenth, but a half; give nine parts, and leave but one for thine own self: thou doest nothing, when thou doest not alms to thine own soul, and art poor in thyself. Let thy soul have its food, that it perish not by famine. Give her bread. What bread, thou wilt say? He speaketh with thee Himself. If thou wouldest hear, and understand, and believe the Lord, He would say to thee Himself, “I am the Living Bread which came down from heaven.<sup>3390</sup> Wouldest thou not first give this Bread to thine own soul, and do alms unto it? If then thou believest, thou oughtest so to do, that thou mayest first feed thine own soul. Believe in Christ, and the things which are within shall be cleansed; and what is without shall be clean also. “Let us turn to the Lord,” etc.
 
-3389 Matt. xxii. 37, etc. 437 πάσης, for τῆς, πλεονεξίας—A. B. D. K. L. M. Q. X., etc., Verss. ap. Scholz. Griesbach regards it as the
+3389 [[Matthew 22#^22-37|Matt. xxii. 37]], etc. 437 πάσης, for τῆς, πλεονεξίας—A. B. D. K. L. M. Q. X., etc., Verss. ap. Scholz. Griesbach regards it as the
 
 
 *[p. 910]* ^pg936
@@ -208,7 +208,7 @@ to them the alms which they were used to do, and which they thought were unknown
 
 Sermon LVII.
 
-\[CVII. Ben.\] *On the words of the Gospel, Luke xii. 15, “And he said unto them, take heed, and keep yourselves from all covetousness.”*<sup>3391</sup>
+\[CVII. Ben.\] *On the words of the Gospel, [[Luke 12#^12-15|Luke xii. 15]], “And he said unto them, take heed, and keep yourselves from all covetousness.”*<sup>3391</sup>
 
 1\. I doubt not but that ye who fear God, do hear His word with awe, and execute it with cheerfulness; that what He hath promised, ye may at present hope for, hereafter receive. We have just now heard the Lord Christ Jesus, the Son of God, giving us a precept. The Truth, who neither deceiveth, nor is deceived, hath given us a precept; let us hear, fear, beware. What is this precept then: “I say unto you, Beware of all covetousness”? <sup>3392</sup> What is, “of all covetousness”? What is, “of all”? Why did He add, “of all”? For He might have spoken thus, “Beware of covetousness.” It suited Him to add, “of all;” and to say, “Beware of all covetousness.”
 
@@ -216,23 +216,23 @@ Sermon LVII.
 
 3\. “Speak to my brother, that he divide the inheritance with me.” Just case, short case. But let us hear Him who at once gives judgment and instruction. “Man,” He saith. “O man;”
 
-3391 more probable reading. \[Tischendorf, Westcott and Hort read πᾶσηςwith [illegible] and B.\] 3392 Luke xii. 15.
+3391 more probable reading. \[Tischendorf, Westcott and Hort read πᾶσηςwith [illegible] and B.\] 3392 [[Luke 12#^12-15|Luke xii. 15]].
 
 
 *[p. 911]* ^pg937
 
-*On the words of the Gospel, Luke xii. 15, ‘And he said unto them, take heed,…*
+*On the words of the Gospel, [[Luke 12#^12-15|Luke xii. 15]], ‘And he said unto them, take heed,…*
 
 for seeing thou valuest this inheritance so highly, what art thou but a man? He wished to make him something more than man. What more did He wish to make him, from whom He wished to take covetousness away? What more did He wish to make him? I will tell you, “I have said, Ye are gods, and all of you are children of the Most High.”<sup>3394</sup> Lo, what He wished to make him, to reckon him that hath no covetousness among the “gods.” “Man, who made Me a divider among you?”<sup>3395</sup> So the Apostle Paul His servant, when he said, “I beseech you, brethren, that ye all speak the same thing, and that there be no schisms among you,”<sup>3396</sup> was unwilling to be a divider. And afterwards he thus admonished them who were running after his name, and dividing Christ: “Every one of you saith, I am of Paul, and I of Apollos, and I of Cephas, and I of Christ. Is Christ divided? Was Paul crucified for you? or were ye baptized in the name of Paul?”<sup>3397</sup> Judge then, how wicked are those men, who would have Him to be divided, who would not be a divider. “Who,” saith He, “hath made Me a divider among you?”
 
 4\. Thou hast petitioned for a kindness; hear counsel. “I say unto you, Beware of all covetousness.”<sup>3398</sup> “Perhaps,” he would say, “thou wouldest call him covetous and greedy, if he were seeking another’s goods; but I say, seek not even thine own greedily or covetously.” This is “Of all, beware of all covetousness.” A heavy burden this! If by any chance this burden be imposed on them that are weak; let Him be sought unto, that He who imposes it, may vouchsafe to give us strength. For it is not a thing to be lightly regarded, my Brethren, when our Lord, our Redeemer, our Saviour, who died for us, who gave His Own Blood as our ransom, to redeem us, our Advocate and Judge; it is no light matter when He saith, “Beware.” He knoweth well how great the evil is; we know it not, let us believe Him. “Beware,” saith He. Wherefore? of what? “of all covetousness.” I am but keeping what is mine own, I am not taking away another’s; “Beware of all covetousness.” Not only is he covetous, who plunders the goods of others; but he is covetous too, who greedily keeps his own. But if he is so blamed who greedily keeps his own; how is he condemned who plunders what is another’s! “Beware,” He saith, “of all covetousness: For a man’s life consisteth not in the abundance of the things which he possesseth.” He that stores up great abundance, how much does he take therefrom to live? When he has taken it, and in a way separated in thought sufficient to live upon from it, let him consider for whom the rest remains; lest haply when thou keepest wherewith to live, thou art gathering only wherewith to die. Behold Christ, behold truth, behold severity. “Beware,” saith truth: “Beware,” saith severity. If thou love
 
-3394 Ps. lxxxii. 6. 3395 Luke xii. 14. 3396 1 Cor. i. 10. 3397 1 Cor. i. 12, 13. 438 3399 Luke xii. 16.
+3394 Ps. lxxxii. 6. 3395 [[Luke 12#^12-14|Luke xii. 14]]. 3396 [[1 Corinthians 01#^1-10|1 Cor. i. 10]]. 3397 [[1 Corinthians 01#^1-12|1 Cor. i. 12]], [[1 Corinthians 01#^1-13|13]]. 438 3399 [[Luke 12#^12-16|Luke xii. 16]].
 
 
 *[p. 912]* ^pg938
 
-*On the words of the Gospel, Luke xii. 15, ‘And he said unto them, take heed,…*
+*On the words of the Gospel, [[Luke 12#^12-15|Luke xii. 15]], ‘And he said unto them, take heed,…*
 
 not the truth, fear severity. “A man’s life consisteth not in the abundance of the things which he possesseth.” Believe Him, He doth not deceive thee. On the other hand, thou sayest, “Yea, ‘a man’s life’ does ‘consist in the abundance of the things which he possesses.’” He doth not deceive thee; thou deceivest thyself.
 
@@ -240,12 +240,12 @@ not the truth, fear severity. “A man’s life consisteth not in the abundance 
 
 6\. “And God,” who doth not disdain to speak even with fools, “said unto him.”<sup>3402</sup> Some of you may peradventure say, And how did God speak with a fool? O, my Brethren, with how many fools does He speak here, when the Gospel is read! When it is read, are not they who hear and do not, fools? What then did the Lord say? For he, I repeat, thought himself wise by the discovery of his expedient. “Thou fool,” He saith; “Thou fool,” who seemest wise unto thyself; “Thou fool,” who hast said to thy soul, “Thou hast much goods laid up for many years: to-day is thy soul required of thee!” Thy soul to which thou hast said, “Thou hast much goods,” to-day is “required,” and hath no good at all. Let it then despise these goods, and be herself good, that when she is “required,” she may depart in assured hope. For what is more perverse<sup>3403</sup> than a man<sup>3404</sup> who wishes to have “much goods,” and does
 
-3400 *Successerat*. 3401 Luke xii. 18, 19. 3402 Luke xii. 20. 3403 *Iniquius*. *Vid*. Serm. xxii. (lxxii. Ben.) 4 (iii.); xxxii. (lxxxii. Ben.) 14 (xi.); xxxv. (lxxxv. Ben).
+3400 *Successerat*. 3401 [[Luke 12#^12-18|Luke xii. 18]], [[Luke 12#^12-19|19]]. 3402 [[Luke 12#^12-20|Luke xii. 20]]. 3403 *Iniquius*. *Vid*. Serm. xxii. (lxxii. Ben.) 4 (iii.); xxxii. (lxxxii. Ben.) 14 (xi.); xxxv. (lxxxv. Ben).
 
 
 *[p. 913]* ^pg939
 
-*On the words of the Gospel, Luke xii. 15, ‘And he said unto them, take heed,…*
+*On the words of the Gospel, [[Luke 12#^12-15|Luke xii. 15]], ‘And he said unto them, take heed,…*
 
 not wish to be good himself? Unworthy art thou to have them, who dost not wish to be what thou dost wish to have. For dost thou wish to have a bad country house? No indeed, but a good one. Or a bad wife? No, but a good one. Or a bad hood?<sup>3405</sup> Or even a bad shoe? And why a bad soul only? He did not in this place say to this fool who was thinking on vain things, building barns, and who had no regard to the wants<sup>3406</sup> of the poor; He did not say to him, “To-day shall thy soul be hurried away to hell:” He said no such thing as this, but “is required of thee.” “I do not tell thee whither thy soul shall go; yet hence, where thou art laying up for it such store of things, must it depart, whether thou wilt or no.” Lo, “thou fool,” thou hast thought to fill thy new and greater barns, as if there was nothing to be done with what thou hast.
 
@@ -256,7 +256,7 @@ not wish to be good himself? Unworthy art thou to have them, who dost not wish t
 
 *[p. 914]* ^pg940
 
-*On the words of the Gospel, Luke xii. 15, ‘And he said unto them, take heed,…*
+*On the words of the Gospel, [[Luke 12#^12-15|Luke xii. 15]], ‘And he said unto them, take heed,…*
 
 8\. But that ye may not commit iniquities, “beware of all covetousness.” I will tell you in its full extent, what is “of all covetousness.” In matter of lust he is covetous, whom his own wife suffices not. And idolatry itself is called covetousness; because again in matter of divine worship<sup>3410</sup> he is covetous, whom the one and true God suffices not. What but the covetous soul makes for itself many gods? What but the covetous soul makes to itself false<sup>3411</sup> martyrs? “Beware of all covetousness.” Lo, thou lovest thine own goods, and dost boast thyself in that thou seekest not the goods of others; see what evil thou doest in not hearing Christ, who saith, “Beware of all covetousness.” See thou dost love thine own goods, thou dost not take away the goods of others; thou hast the fruits of thy labour, they are justly thine; thou hast been left an heir, some one whose good graces thou hast attained has given it to thee; thou hast been on the sea, and in its perils, hast committed no fraud, hast sworn no lie, hast acquired what it hath pleased God thou shouldest; and thou art keeping it greedily as in a good conscience, because thou dost not possess it from evil sources, and dost not seek what is another’s. Yet if thou give not heed to Him who hath said, “Beware of all covetousness,” hear how great evils thou wilt be ready to do for thine own goods’ sake. Lo, for example, it hath chanced to thee to be made a judge. Thou wilt not be corrupted, because thou dost not seek the goods of others; no one giveth thee a bribe and says, “Give judgment against my 439 adversary.” This be far from thee, a man, who seekest not the things of others, how couldest thou be persuaded to do this? Yet see what evil thou wilt be ready to do for thine own goods’ sake. Peradventure he that wishes thee to judge evilly, and pronounce sentence for him against his adversary is a powerful man, and able to bring up false accusation against thee, that thou mayest lose what thou hast. Thou dost reflect, and think upon his power, think of thine own goods thou art keeping, which thou dost love: not which thou hast possessed, but in whose power<sup>3412</sup> rather thou art thyself unhappily fixed. This thy bird-lime, by reason of which thou hast not the wings of virtue free, thou dost look to; and thou sayest within thine own self, “I am offending this man, he has much influence in the world; he will suggest evil accusations against me, and I shall be outlawed,<sup>3413</sup> and lose all I have.” Thus thou wilt give unrighteous judgment, not when thou seekest another’s, but when thou keepest thine own.
 
@@ -267,7 +267,7 @@ not wish to be good himself? Unworthy art thou to have them, who dost not wish t
 
 *[p. 915]* ^pg941
 
-*On the words of the Gospel, Luke xii. 15, ‘And he said unto them, take heed,…*
+*On the words of the Gospel, [[Luke 12#^12-15|Luke xii. 15]], ‘And he said unto them, take heed,…*
 
 poor man I will tell what he ought to fear. Some rich and powerful person calls thee to give false witness for him. What wilt thou be doing now? Tell me. Thou hast a good little property of thine own; thou hast laboured for it, hast acquired, and kept it. That person requires of thee; “Give false witness for me, and I will give thee so and so much.” Thou who seekest not the things of others, sayest, “That be far from me: I do not seek for what it has not pleased God to give me, I will not receive it; depart from me.” “Hast thou no wish to receive what I give? I will take away what thou hast already.” See now prove thyself, question now thine own self. Why dost thou look at me? Look inward on thine own self, look at thine own self within, examine thine own self within; sit down before thine own self, and summon thine own self before thee, and stretch thyself upon the rack of God’s commandment, and torment thyself with His fear, and deal not softly with thyself; answer thine own self. Lo, if any one were to threaten thee with this, what wouldest thou do? “I will take away from thee what with so great labour thou hast acquired, if thou wilt not give false witness for me.” Give him that; “Beware of all covetousness.” “O my servant,” He will say to thee, “whom I have redeemed and made free, whom from a servant I have adopted to be a brother, whom I have set as a member in My Body, give ear to Me: He may take away what thou hast acquired, Me he shall not take away from thee. Art thou keeping thine own goods, that thou mayest not perish? What, have I not said unto thee, ‘Beware of all covetousness’?”
 
@@ -278,7 +278,7 @@ poor man I will tell what he ought to fear. Some rich and powerful person calls 
 
 *[p. 916]* ^pg942
 
-*On the words of the Gospel, Luke xii. 15, ‘And he said unto them, take heed,…*
+*On the words of the Gospel, [[Luke 12#^12-15|Luke xii. 15]], ‘And he said unto them, take heed,…*
 
 at liberty, to receive again at the end of the world even this very body she hath despised. What canst thou do to me then? Whereas if I should give false witness for thee, with thy tongue do I kill myself; and not in my body do I kill myself; ‘For the mouth that lieth killeth the soul.’”<sup>3416</sup> But peradventure thou dost not say so. And why dost thou not say so? Thou wishest to live; thou wishest to live longer than God hath appointed for thee? Dost thou then “beware of all covetousness”? So long was it God’s will that thou shouldest live, till this person came to thee. It may be that he will kill thee, to make a martyr of thee. Entertain then no undue desire of life; and so thou wilt not have an eternity of death. Ye see how that cov- 440
 
@@ -292,20 +292,20 @@ Wisd. i. 11.
 
 Sermon LVIII.
 
-\[CVIII. Ben.\] *On the words of the Gospel, Luke xii. 35, “Let your loins be girded about, and your lamps burning; and be ye yourselves like,” etc. And on the words of the 34th Psalm, v. 12, “what man is he that desireth life,” etc.*
+\[CVIII. Ben.\] *On the words of the Gospel, [[Luke 12#^12-35|Luke xii. 35]], “Let your loins be girded about, and your lamps burning; and be ye yourselves like,” etc. And on the words of the 34th Psalm, v. 12, “what man is he that desireth life,” etc.*
 
 1\. Our Lord Jesus Christ both came to men, and went away from men, and is to come to men. And yet He was here when He came, nor did He depart when He went away, and He is to come to them to whom He said, “Lo, I am with you, even unto the end of the world.”<sup>3417</sup> According to the “form of a servant” then, which He took for our sakes, was He born at a certain time, and was slain, and rose again, and now “dieth no more, neither shall death have any more dominion over Him;”<sup>3418</sup> but according to His Divinity, wherein He was equal to the Father, was He already in this world, and “the world was made by Him, and the world knew Him not.”<sup>3419</sup> On this point ye have just heard the Gospel, what admonition it has given us, putting us on our guard, and wishing us to be unencumbered and prepared to await the end; that after these last<sup>3420</sup> things, which are to be feared in this world, that rest may succeed which hath no end. Blessed are they who shall be partakers of it. For then shall they be in security, who are not in security now; and again then shall they fear, who will not fear now. Unto this waiting, and for this hope’s sake, have we been made Christians. Is not our hope not of this world? Let us then not love the world. From the love of this world have we been called away, that we may hope for and love another. In this world ought we to abstain from all unlawful desires, to have, that is, “our loins girded;” and to be fervent and to shine in good works, that is, to have “our lights burning.” For the Lord Himself said to His disciples in another place of the Gospel, “No man lighteth a candle and putteth it under a bushel, but on a candlestick, that it may give light unto all that are in the house.”<sup>3421</sup> And to show of what He was speaking, He subjoined and said, “Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.”<sup>3422</sup>
 
 2\. Therefore He would that “our loins should be girded, and our lights burning.”<sup>3423</sup> What is, “our loins girded”? “Depart from evil.”<sup>3424</sup> What is to “burn”? What is to have our
 
-3417 Matt. xxviii. 20. 3418 Rom. vi. 9. 3419 John i. 10.
+3417 [[Matthew 28#^28-20|Matt. xxviii. 20]]. 3418 [[Romans 06#^6-9|Rom. vi. 9]]. 3419 [[John 01#^1-10|John i. 10]].
 
-3420 The troubles through the incursions of the barbarian tribes, as heralds of the end. See St. Cyprian, *Ad Demetr*. 2, p. 201, Oxf. tr.; *De Mort*. v. 2, p. 216, 7. 3421 Matt. v. 15. 3422 Matt. v. 16. 3423 Luke xii. 35. 441 3425 Luke xii. 36. 3426 Ps. xxxiv. 14.
+3420 The troubles through the incursions of the barbarian tribes, as heralds of the end. See St. Cyprian, *Ad Demetr*. 2, p. 201, Oxf. tr.; *De Mort*. v. 2, p. 216, 7. 3421 [[Matthew 05#^5-15|Matt. v. 15]]. 3422 [[Matthew 05#^5-16|Matt. v. 16]]. 3423 [[Luke 12#^12-35|Luke xii. 35]]. 441 3425 [[Luke 12#^12-36|Luke xii. 36]]. 3426 Ps. xxxiv. 14.
 
 
 *[p. 918]* ^pg944
 
-*On the words of the Gospel, Luke xii. 35, ‘Let your loins be girded about,…*
+*On the words of the Gospel, [[Luke 12#^12-35|Luke xii. 35]], ‘Let your loins be girded about,…*
 
 “lights burning”? It is this, “And do good.” What is that which He said afterwards, “And ye yourselves like unto men that wait for their Lord, when He will return from the wedding:”<sup>3425</sup> except that which follows in that Psalm, “Seek after peace, and ensue it”?<sup>3426</sup> These three things, that is, “abstaining from evil, and doing good,” and the hope of everlasting reward, are recorded in the Acts of the Apostles, where it is written, that Paul taught them of “temperance and righteousness,”<sup>3427</sup> and the hope of eternal life. To temperance belongs, “let your loins be girded.” To righteousness, “and your lights burning.” To the hope of eternal life, the waiting for the Lord. So then, “depart from evil,” this is temperance, these are the loins girded: “and do good,” this is righteousness, these are the “lights burning;” “seek peace, and ensue it,” this is the waiting for the world to come: therefore, “Be ye like unto men that wait for their Lord, when He will come from the wedding.”
 
@@ -315,7 +315,7 @@ Sermon LVIII.
 
 *[p. 919]* ^pg945
 
-*On the words of the Gospel, Luke xii. 35, ‘Let your loins be girded about,…*
+*On the words of the Gospel, [[Luke 12#^12-35|Luke xii. 35]], ‘Let your loins be girded about,…*
 
 this world, where they are not found; yet no one wishes so to live, that he may arrive there where they are found. Therefore the same Scripture admonishes us, and says, “Who is the man that wisheth for life, and loveth to see good days?”<sup>3428</sup> Scripture so asked the question, as that It knew well what answer would be given It; knowing that all men would “seek for life and good days.” In accordance with their desire It asked the question, as if the answer would be given It from the heart of all, “I wish it;” It said thus, “Who is the man that wisheth for life, and loveth to see good days?” Just as even at this very hour in which I am speaking to you, when ye heard me say, “Who is the man that wisheth for life, and loveth to see good days?” ye all answered in your heart, “I.” For so do I too, who am speaking with you, “wish for life and good days;” what ye seek, that do I seek also.
 
@@ -328,7 +328,7 @@ this world, where they are not found; yet no one wishes so to live, that he may 
 
 *[p. 920]* ^pg946
 
-*On the words of the Gospel, Luke xii. 35, ‘Let your loins be girded about,…*
+*On the words of the Gospel, [[Luke 12#^12-35|Luke xii. 35]], ‘Let your loins be girded about,…*
 
 “I.” Come then, let some one now answer “I.” So then, “Refrain thy tongue from evil, and thy lips that they speak no guile.” Now say, “I.” Wouldest thou then have “good days” and “life,” and wouldest thou not “refrain thy tongue from evil, and thy lips that they speak no guile”? Alert to the reward, slow to the work! And to whom if he does not work is the reward rendered? I would that in thy house thou wouldest render the reward even to him that does work! For to him that works not, I am sure thou dost not render it. And why? Because thou owest nothing to him that does not work! And God hath a reward proposed. What reward? “Life and good days,” which life we all desire, and unto which days we all strive to come. The promised reward He will give us. What reward? “Life and good days.” And what are “good days”? Life without end, rest without labour.
 
@@ -340,18 +340,18 @@ this world, where they are not found; yet no one wishes so to live, that he may 
 
 Sermon LIX.
 
-\[CIX. Ben.\] *On the words of the Gospel, Luke xii. 56, 58, “Ye know how to interpret the face of the Earth and the Heaven,” etc.; and of the words, “for as thou art going with thine adversary before the magistrate, on the way give diligence to be quit of him,” etc.*
+\[CIX. Ben.\] *On the words of the Gospel, [[Luke 12#^12-56|Luke xii. 56]], [[Luke 12#^12-58|58]], “Ye know how to interpret the face of the Earth and the Heaven,” etc.; and of the words, “for as thou art going with thine adversary before the magistrate, on the way give diligence to be quit of him,” etc.*
 
 1\. We have heard the Gospel, and in it the Lord reproving those who knew how to discern the face of the sky, and know not how to discover the time of faith, the kingdom of heaven which is at hand. Now this He said to the Jews; but His words reach even unto us. Now the Lord Jesus Christ Himself began the preaching of His Gospel in this way; “Repent ye, for the kingdom of heaven is at hand.”<sup>3431</sup> In like manner too John the Baptist and His forerunner began thus; “Repent ye, for the kingdom of heaven is at hand.”<sup>3432</sup> And now the Lord rebuketh those who would not repent, when “the kingdom of heaven was at hand.” “The kingdom of heaven,” as He saith Himself, “will not come with observation.”<sup>3433</sup> And again He saith, “The kingdom of heaven is within you.”<sup>3434</sup> Let every one then wisely receive the admonitions of the Master,<sup>3435</sup> that he may not lose the season of the mercy of the Saviour, which is now being dealt out, as long as the human race is spared. For to this end is man spared, that he may be converted, and that he may not be to be condemned. God only knoweth when the end of the world shall come: nevertheless now is the time of faith. Whether the end of the world shall find any of us here, I know not; and perhaps it will not find us. Our time is very near to each one of us, seeing we are mortal. We walk in the midst of chances. If we were made of glass, we should have to fear chances less than we have. What is more fragile than a vessel of glass? And yet it is kept, and lasts for ages. For though the chances of a fall are feared for the vessel of glass, yet there is no fear of fever or old age for it. We then are more fragile and more infirm; because all the chances which are incessant in human things, we doubtless through our frailness are in daily dread of; and if these chances come not, yet time goes on; a man avoids this stroke, can he avoid his end? he avoids accidents which happen from without, can that which is born within be driven away? Again, now the entrails engender worms, now some other disease attacks on a sudden; lastly, let a man be spared ever so long, at last when old age comes, there is no way of putting off that.
 
 2\. Wherefore let us give ear to the Lord, let us do within ourselves what He hath enjoined. Let us see who that adversary is, of whom He hath put us in fear, saying, “If thou goest with thine adversary to the magistrate, give diligence in the way to be delivered from him; lest
 
-3431 Matt. iv. 17. 3432 Matt. iii. 2. 3433 Luke xvii. 20. 3434 Luke xvii. 21. *Præceptoris*.
+3431 [[Matthew 04#^4-17|Matt. iv. 17]]. 3432 [[Matthew 03#^3-2|Matt. iii. 2]]. 3433 [[Luke 17#^17-20|Luke xvii. 20]]. 3434 [[Luke 17#^17-21|Luke xvii. 21]]. *Præceptoris*.
 
 
 *[p. 922]* ^pg948
 
-*On the words of the Gospel, Luke xii. 56, 58, ‘Ye know how to interpret…*
+*On the words of the Gospel, [[Luke 12#^12-56|Luke xii. 56]], [[Luke 12#^12-58|58]], ‘Ye know how to interpret…*
 
 haply he deliver thee to the magistrate, and the magistrate to the officer, and thou be cast into prison, from whence thou shalt not come out, till thou payest the very last farthing.” 3436 Who is this “adversary”? If the devil; we have been delivered from him already. What a price was given for us that we might be redeemed from him! Of which the Apostle says, speaking of this our redemption, “Who hath delivered us from the power of darkness, and hath translated us into the kingdom of the Son of his love.”<sup>3437</sup> We have been redeemed, we have renounced the devil; how shall we “give diligence to be delivered from him,” that he make us not, as sinners, his captives again? But this is not the “adversary” of whom the Lord gives us warning. For in another place another Evangelist has so expressed it, that if we join both expressions together, and compare both expressions of the two Evangelists with each other, we shall soon understand who this adversary is. For see, what did Luke say here? “When thou goest with thine adversary to the magistrate, give diligence in the way to be delivered from him.”<sup>3438</sup> But the other Evangelist has expressed this same thing thus: “Agree with thine adversary quickly, whiles thou art in the way with him.” All the rest is alike: “Lest haply the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.”<sup>3439</sup> Both Evangelists have explained this alike. One 443
 
@@ -359,12 +359,12 @@ said, “Give diligence in the way to be delivered from him;” the other said, 
 
 3\. Let us then seek out this “adversary,” with whom we ought to “agree, lest he deliver us to the judge, and the judge to the officer;” let us seek him out, “and agree with him.” If thou sin, the word of God is thine adversary.<sup>3440</sup> For example, it is a delight to thee perchance to be drunken; it says to thee, “Do it not.” It is a delight to thee to frequent the spectacles, and such triflings; it says to thee, “Do it not.” It is a delight to thee to commit adultery; the word of God saith to thee, “Do it not.” In what sins soever thou wouldest do thine own will, it saith to thee, “Do it not.” It is the adversary of thy will, till it become the author of thy salvation. O how goodly, how useful an “adversary”! It does not seek our will, but our advantage. It is our “adversary,” as long as we are our own adversaries. As long as thou art thine own enemy, thou hast the word of God thine enemy; be thine own friend, and thou art in agreement with it. “Thou shalt do no murder;” give ear, and thou hast “agreed” with it. “Thou shalt not steal;” give ear, and thou hast “agreed” with it. “Thou shalt not commit
 
-3436 Luke xii. 58, 59. 3437 Col. i. 13. 3438 Luke xii. 58. 3439 Matt. v. 25. Serm. ix. 3. *De decem chordis*.
+3436 [[Luke 12#^12-58|Luke xii. 58]], [[Luke 12#^12-59|59]]. 3437 [[Colossians 01#^1-13|Col. i. 13]]. 3438 [[Luke 12#^12-58|Luke xii. 58]]. 3439 [[Matthew 05#^5-25|Matt. v. 25]]. Serm. ix. 3. *De decem chordis*.
 
 
 *[p. 923]* ^pg949
 
-*On the words of the Gospel, Luke xii. 56, 58, ‘Ye know how to interpret…*
+*On the words of the Gospel, [[Luke 12#^12-56|Luke xii. 56]], [[Luke 12#^12-58|58]], ‘Ye know how to interpret…*
 
 adultery;” give ear, and thou hast “agreed” with it. “Thou shalt not give false witness;” give ear, and thou hast “agreed” with it. “Thou shalt not covet thy neighbour’s wife;” give ear, and thou hast agreed with it. “Thou shalt not covet thy neighbour’s goods;”<sup>3441</sup> give ear, and thou hast “agreed” with it. In all these things thou hast agreed with this “thine adversary,” and what hast thou lost to thyself? Not only hast thou lost nothing; but thou hast even found thyself, who hadst been lost. “The way,” is this life; if we shall “agree with the adversary,” if we shall come to terms with him; when “the way” is ended, we shall not fear the “judge, the officer, the prison.
 
@@ -378,29 +378,29 @@ Exod. xx. 13, etc.
 
 Sermon LX.
 
-\[CX. Ben.\] *On the words of the Gospel, Luke xiii. 6, where we are told of the fig-tree, which bare no fruit for three years; and of the woman which was in an infirmity eighteen years; and on the words of the ninth Psalm, v. 19, “Arise, O Lord; let not man prevail: let the nations be judged in thy sight.”*
+\[CX. Ben.\] *On the words of the Gospel, [[Luke 13#^13-6|Luke xiii. 6]], where we are told of the fig-tree, which bare no fruit for three years; and of the woman which was in an infirmity eighteen years; and on the words of the ninth Psalm, v. 19, “Arise, O Lord; let not man prevail: let the nations be judged in thy sight.”*
 
 1\. Touching “the fig-tree” which had its three years’ trial, and bare no fruit, and “the woman which was in an infirmity eighteen years,” hearken to what the Lord may grant me to say. The fig-tree is the human race. And the three years are the three times; one before the Law, the second under the Law, the third under grace. Now there is nothing unsuitable in understanding by “the fig-tree” the human race. For when the first man sinned, he covered his nakedness with fig-leaves;<sup>3442</sup> covered those members, from which we derive our birth. For what before his sin should have been his glory, after sin became his shame. So before that, “they were naked, and were not ashamed.”<sup>3443</sup> For they had no reason to blush, when 444 no sin had gone before; nor could they blush for their Creator’s works, because they had not yet mingled any evil work of their own with the good works of their Creator. For they had not yet eaten of the tree of knowledge of good and evil, of which they had been forbidden to eat. After then that they had eaten and sinned, the human race sprang from them; that is, man from man, debtor from debtor, mortal from mortal, sinner from sinner. In this “tree” then he entitles those, who through the whole range of time would not bear fruit; and for this cause the axe was hanging over the unfruitful tree. The gardener intercedes for it, punishment is deferred, that help may be administered. Now the gardener who intercedes, is every saint who within the Church prays for those who are without the Church. And what does he pray? “Lord, let it alone this year also;” that is, in this time of grace, spare the sinners, spare the unbelievers, spare the barren, spare the unfruitful. “I will dig about it, and put a basket of dung about it; if it bear fruit, well; but if not, thou shalt come and cut it down.”<sup>3444</sup> “Thou shalt come:” When? Thou shalt come in judgment, when Thou shalt come to judge the quick and dead. Meanwhile they are spared. But what is the “digging”? What is the “digging about it,” but the teaching lowliness and repentance? For a ditch is low ground. The basket of dung understand in its good effects. It is filthy, but it produces fruit. The gardener’s filth is the sinner’s sorrows. They who repent, repent in filthy robes; if, that is, they understand aright, and repent in truth. To this tree then is it said, “Repent ye, for the kingdom of heaven is at hand.”<sup>3445</sup>
 
-3442 Gen. iii. 7. 3443 Gen. ii. 25. 3444 Luke xiii. 8, 9.
+3442 Gen. iii. 7. 3443 Gen. ii. 25. 3444 [[Luke 13#^13-8|Luke xiii. 8]], [[Luke 13#^13-9|9]].
 
 
 *[p. 925]* ^pg951
 
-*On the words of the Gospel, Luke xiii. 6, where we are told of the fig-tree,…*
+*On the words of the Gospel, [[Luke 13#^13-6|Luke xiii. 6]], where we are told of the fig-tree,…*
 
 2\. What is that “woman who was in an infirmity eighteen years”? In six days God finished His works. Three times six are eighteen. What the “three years” then in “the tree” signified, that do the “eighteen years” in this woman. She was bent down, she could not look up; because in vain did she hear, “Up with your hearts.” But the Lord made her straight. There is hope then, for the children, that is, even until the day of judgment come. Man ascribes much to himself. Yet what is man? A righteous man is something great. But yet a righteous man is righteous only by the grace of God. “For what is man, save that thou art mindful of him?”<sup>3446</sup> Wouldest thou see what man is? “All men are liars.”<sup>3447</sup> We have chanted, “Arise, Lord; let not man prevail.”<sup>3448</sup> What is, “let not man prevail”? Were not the Apostles men? Were not Martyrs men? The Lord Jesus Himself, without ceasing to be God, vouchsafed to be Man. What then is, “Arise, Lord; let not man prevail”? If “all men are liars; arise,” Truth, “let not” falsehood “prevail.” If man then would be anything good, it must not be of anything of his own. For if he should wish to be anything of his own he will be “a liar.” If he would wish to be true, he must be so of that which is from God, not of anything of his own.
 
 3\. Therefore, “Arise, Lord; let not man prevail.” So much did lying prevail before the flood, that after the flood only eight men remained.<sup>3449</sup> By them the earth was again replenished with lying men, and out of them was elected the people of God. Many miracles were wrought, divine benefits imparted. They were brought right through to the land of promise, delivered from Egyptian bondage: Prophets were raised up among them, they received the temple, they received the priesthood, they received the anointing, they received the Law. Yet of this very people was it said afterwards, “The strange children have lied unto me.” <sup>3450</sup> At last He was sent who had been promised afore by the Prophets. “Let not man prevail,” even the more, because that God was made Man. But even He, though He did divine works, was despised, though He showed forth so many acts of mercy, He was apprehended, He was scourged, He was hanged. Thus far “did man prevail,” to apprehend the Son of God, to scourge the Son of God, to crown the Son of God with thorns, to hang the Son of God upon the tree. So far “did man prevail:” how far, but up to the time that having been taken down from the tree, He was laid in the sepulchre? If He had remained there, man would have “prevailed” indeed. But this prophecy addresses the very Lord Jesus Himself, saying, “Arise, Lord, let not man prevail.” O Lord, Thou hast vouchsafed to come in the flesh, the Word made Flesh. The Word above us, the Flesh among us, the Word-flesh<sup>3451</sup> between
 
-3446 Ps. viii. 4. 3447 Ps. cxvi. 11. 3448 Ps. ix. 19. 3449 1 Pet. iii. 20.
+3446 Ps. viii. 4. 3447 Ps. cxvi. 11. 3448 Ps. ix. 19. 3449 [[1 Peter 03#^3-20|1 Pet. iii. 20]].
 
 3450 Ps. xvii. 45, Sept. (cxliv. 11). *Conf*. B. x. 67–70 (42, 43).
 
 
 *[p. 926]* ^pg952
 
-*On the words of the Gospel, Luke xiii. 6, where we are told of the fig-tree,…*
+*On the words of the Gospel, [[Luke 13#^13-6|Luke xiii. 6]], where we are told of the fig-tree,…*
 
 God and Man: Thou didst choose a virgin to be born from according to the flesh, when Thou wast to be conceived, Thou didst find a Virgin; when Thou wast born, Thou didst leave a Virgin. But Thou wast not acknowledged; Thou wast Seen, and yet wast hidden. Infirmity was seen, Power was hidden. All this was done, that Thou mightest shed that Blood, which is our Price. Thou didst so great miracles, didst give health to the weaknesses of the sick, didst show forth many acts of mercy, and receivedst evil for good. They mocked Thee, Thou didst hang upon the tree; the ungodly wagged their heads before Thee, and said, “If Thou be the Son of God, come down from the cross.”<sup>3452</sup> Hadst Thou then lost Thy power, 445
 
@@ -408,18 +408,18 @@ or rather wast Thou showing forth Thy Patience? and yet they mocked Thee, and ye
 
 4\. Ah! unfruitful tree, mock not, because thou art yet spared; the axe is delayed, be not<sup>3453</sup> thou secure; He will come and thou shalt be cut down. Believe that He will come. All these things which now ye see, once were not. Once the Christian people were not over the whole world. It was read of in prophecy, not seen in the earth; now it is both read and seen. Thus was the Church herself completed. It was not said to her, “See, O daughter, and hear;” but, “Hear and see.”<sup>3454</sup> Hear the predictions, see the completions. As then, my beloved Brethren, Christ had once not been born of a Virgin, but His birth was promised, and He was born; He had once not done His miracles, they were promised, and He did them: He had not yet suffered, it was promised, and so it came to pass: He had not risen again, it was foretold, and so fulfilled: His Name was not throughout the world, it was foretold, and so fulfilled: the idols were not destroyed and broken down, it was foretold, and so fulfilled: heretics had not assailed the Church, it was foretold, and so fulfilled. So also the Day of Judgment is not yet, but seeing it hath been foretold, it shall be fulfilled. Can it be that He who in so many things hath shown Himself true, should be false touching the Day of Judgment? He hath given us a bond<sup>3455</sup> of His promises. For God hath made Himself a debtor, not by owing ought, that is, not by borrowing; but by promising. We cannot therefore say to Him, “Give back what Thou hast received.” Since “who hath first given to Him, and it
 
-3452 Matt. xxvii. 40. 3453 A paranomasia not to be preserved in the original, *dilata est* securis, *noli esse* secura. 3454 Ps. xliv. 11, Sept. (xlv. 10, English version). *Chirographum*.
+3452 [[Matthew 27#^27-40|Matt. xxvii. 40]]. 3453 A paranomasia not to be preserved in the original, *dilata est* securis, *noli esse* secura. 3454 Ps. xliv. 11, Sept. (xlv. 10, English version). *Chirographum*.
 
 
 *[p. 927]* ^pg953
 
-*On the words of the Gospel, Luke xiii. 6, where we are told of the fig-tree,…*
+*On the words of the Gospel, [[Luke 13#^13-6|Luke xiii. 6]], where we are told of the fig-tree,…*
 
 shall be recompensed unto him again?”<sup>3456</sup> We cannot say to Him, “Give what Thou hast received;” but we say without<sup>3457</sup> scruple, “Give what Thou hast promised.”
 
 5\. For hence it is that we are bold to say, day by day, “Thy kingdom come;”<sup>3458</sup> that when His kingdom comes, we too may reign with Him. Which hath been promised to us in these words; “Then will I say unto them, Come, ye blessed of My Father, receive the kingdom prepared for you from the beginning of the world.”<sup>3459</sup> But assuredly only if we shall have done what follows in that place. “For I was an hungred, and ye gave Me meat,” etc. He made these promises to our fathers; but He hath given us a security,<sup>3460</sup> for us too to read. If He who hath vouchsafed to give us this security, were to make a reckoning with us and say, “Read my debts, the debts, that is, of my promises, and reckon up what I have already paid, and reckon also what I still owe; see how many I have paid already; and what I owe is but little; will ye for that little that remains, think Me an untrustworthy promiser?” What should we have to answer against this most evident truth? Let him then who is barren repent, and bear “fruit worthy of repentance.” He that is bent down, who looks only on the earth, rejoices in earthly happiness, who thinks this the only happy life, where he may be happy, and who believes no other can be; whosoever he be that is so bent down, let him be made straight; if he cannot by himself, let him call upon God. For was that woman made straight by herself? Woe had it been for her, if He had not stretched out His Hand.
 
-3456 Rom. xi. 35. 3457 *Planè*. 3458 Matt. vi. 10. 3459 Matt. xxv. 34. *Cautionem*.
+3456 [[Romans 11#^11-35|Rom. xi. 35]]. 3457 *Planè*. 3458 [[Matthew 06#^6-10|Matt. vi. 10]]. 3459 [[Matthew 25#^25-34|Matt. xxv. 34]]. *Cautionem*.
 
 
 *[p. 928]* ^pg954
@@ -428,16 +428,16 @@ shall be recompensed unto him again?”<sup>3456</sup> We cannot say to Him, “
 
 Sermon LXI.
 
-\[CXI. Ben.\] *On the words of the Gospel, Luke xiii. 21 and 23, where the kingdom of God is said to be* *“like unto leaven, which a woman took and hid in three measures of meal;” and of that which is written in the same chapter, “Lord, are they few that are saved?”*
+\[CXI. Ben.\] *On the words of the Gospel, [[Luke 13#^13-21|Luke xiii. 21]] and 23, where the kingdom of God is said to be* *“like unto leaven, which a woman took and hid in three measures of meal;” and of that which is written in the same chapter, “Lord, are they few that are saved?”*
 
 1\. “The three measures of meal”<sup>3461</sup> of which the Lord spake, is the human race. Recollect the deluge; three only remained, from whom the rest were to be re-peopled. Noe had three sons, by them was repaired the human race. That holy “woman who hid the leaven,” is Wisdom. Lo, the whole world crieth out in the Church of God, “I know that the Lord is great.”<sup>3462</sup> Yet doubtless there are but few who are saved. Ye remember a question which was lately set before us out of the Gospel, “Lord,” it was said, “are there few that be saved?”<sup>3463</sup> What said the Lord to this? He did not say, “Not few, but many are they who are saved.” He did not say this. But what said He, when He had heard, “Are there few that be saved? Strive to enter by the strait gate.”<sup>3464</sup> When thou hearest then, “Are there few that be saved?” the Lord confirmed what He heard. Through the “strait gate” but “few” can “enter.” In another 446 place He saith Himself, “Strait and narrow is the way which leadeth unto life, and few there be that go thereby: but broad and spacious is the way that leadeth to destruction, and many there be which walk thereby.”<sup>3465</sup> Why rejoice we in great numbers? Give ear to me, ye “few.” I know that ye are “many,” who hear me, yet but “few” of you hear to obey. I see the floor, I look for the corn. And hardly is the corn seen, when the floor is being threshed; but the time is coming, that it shall be winnowed. But few then are saved in comparison of the many that shall perish. For these same “few” will constitute in themselves a great mass. When the Winnower shall come with His fan in His Hand, “He will cleanse His floor, and lay up the wheat into the garner; but the chaff He will burn with unquenchable fire.”<sup>3466</sup> Let not the chaff scoff at the wheat; in this He speaketh truth, and deceiveth no one. Be ye then in yourselves among many a many, few though ye be in comparison of a certain many. So large a mass is to come out of this floor, as to fill the garner of heaven. For the Lord Christ would not contradict Himself, who hath said, “Many there are who enter in by the narrow gate, many who go to ruin through the wide gate;” contradict Himself, who hath in another place said, “Many shall come from the East and West.”<sup>3467</sup> “Many” then are the “few;” both
 
-3461 Luke xiii. 21. 3462 Ps. cxxxv. 5. 3463 Luke xiii. 23. 3464 Luke xiii. 24. 3465 Matt. vii. 13, 14. 3466 Luke iii. 17.
+3461 [[Luke 13#^13-21|Luke xiii. 21]]. 3462 Ps. cxxxv. 5. 3463 [[Luke 13#^13-23|Luke xiii. 23]]. 3464 [[Luke 13#^13-24|Luke xiii. 24]]. 3465 [[Matthew 07#^7-13|Matt. vii. 13]], [[Matthew 07#^7-14|14]]. 3466 [[Luke 03#^3-17|Luke iii. 17]].
 
 
 *[p. 929]* ^pg955
 
-*On the words of the Gospel, Luke xiii. 21 and 23, where the kingdom of God…*
+*On the words of the Gospel, [[Luke 13#^13-21|Luke xiii. 21]] and 23, where the kingdom of God…*
 
 “few” and “many.” Are the “few” one sort, and the “many” another? No. But the “few” are themselves the “many;” “few” in comparison of the lost, “many in the society of the Angels. Hearken, dearly Beloved. The Apocalypse hath this written; “After this I beheld of all languages, and nations, and tribes, a great multitude, which no man can number, coming with white robes and palms.” <sup>3468</sup> This is the mass of the saints. With how much clearer voice will the floor say, when it has been fanned, separated from the crowd of ungodly, and evil, and false Christians, when those who “press” and do not “touch” (for a certain woman in the Gospel “touched,” the crowd “pressed” Christ), shall have been severed unto everlasting fire; when all they then, who are to be damned shall have been separated off, with how great assurance will the purified mass, standing at the Right Hand, fearing now for itself the admixture of no evil men, nor the loss of any of the good, now about to reign with Christ, say, “I know that the Lord is great”!<sup>3469</sup>
 
@@ -447,12 +447,12 @@ And after the Sermon.
 
 I suggest to you, Beloved, what ye know already. To-morrow breaks the anniversary day of the venerable<sup>3470</sup> lord Aurelius’ ordination; he asks and admonishes you, dear
 
-3468 Rev. vii. 9. 3469 Ps. cxxxv. 5. *Senis*.
+3468 [[Revelation 07#^7-9|Rev. vii. 9]]. 3469 Ps. cxxxv. 5. *Senis*.
 
 
 *[p. 930]* ^pg956
 
-*On the words of the Gospel, Luke xiii. 21 and 23, where the kingdom of God…*
+*On the words of the Gospel, [[Luke 13#^13-21|Luke xiii. 21]] and 23, where the kingdom of God…*
 
 Brethren, by my humble ministry, that ye would be so good<sup>3471</sup> as to meet together with all devotion at the basilica of Faustus. Thanks be to God.
 
@@ -464,16 +464,16 @@ Brethren, by my humble ministry, that ye would be so good<sup>3471</sup> as to m
 
 Sermon LXII.
 
-\[XCII. Ben.\] *On the words of the Gospel, Luke xiv. 16, “A certain man made a great supper,” etc.* *Delivered in the basilica Restituta*.<sup>3472</sup> 1. Holy lessons have been set forth before us, to which we should both give ear, and upon which by the Lord’s help I would deliver some observations. In the Apostolic lesson thanks are rendered unto the Lord for the faith of the Gentiles, of course, because it was His work. In the Psalm we have said, “O God of hosts, turn us, and show us Thy Face, and we shall be saved.”<sup>3473</sup> In the Gospel we have been called to a supper; yea, rather others have 447 been called, we not called, but led; not only led, but even forced. For so have we heard, that “a certain Man made a great supper.”<sup>3474</sup> Who is this Man, but “the Mediator between God and men, the Man Christ Jesus”?<sup>3475</sup> He sent that those who had been invited might come, for the hour was now come, that they should come. Who are they who had been invited, but those who had been called by the Prophets who were sent before? When? Of old, ever since the Prophets were sent, they invited to Christ’s supper. They were sent then to the people of Israel. Often were they sent, often did they call men, to come at the hour of supper. But they received those who invited them, refused the supper. What means “they received those who invited them, refused the supper”? They read the Prophets and killed Christ. But when they killed Him, then though they knew it not, they prepared a Supper for us. When the Supper was now prepared, when Christ had been offered up, when the Supper of the Lord, which the faithful know, had been set forth after the resurrection of Christ, and established by His Hands and Mouth, were the Apostles sent to them, to whom the Prophets had been sent before. “Come ye to the supper.”
+\[XCII. Ben.\] *On the words of the Gospel, [[Luke 14#^14-16|Luke xiv. 16]], “A certain man made a great supper,” etc.* *Delivered in the basilica Restituta*.<sup>3472</sup> 1. Holy lessons have been set forth before us, to which we should both give ear, and upon which by the Lord’s help I would deliver some observations. In the Apostolic lesson thanks are rendered unto the Lord for the faith of the Gentiles, of course, because it was His work. In the Psalm we have said, “O God of hosts, turn us, and show us Thy Face, and we shall be saved.”<sup>3473</sup> In the Gospel we have been called to a supper; yea, rather others have 447 been called, we not called, but led; not only led, but even forced. For so have we heard, that “a certain Man made a great supper.”<sup>3474</sup> Who is this Man, but “the Mediator between God and men, the Man Christ Jesus”?<sup>3475</sup> He sent that those who had been invited might come, for the hour was now come, that they should come. Who are they who had been invited, but those who had been called by the Prophets who were sent before? When? Of old, ever since the Prophets were sent, they invited to Christ’s supper. They were sent then to the people of Israel. Often were they sent, often did they call men, to come at the hour of supper. But they received those who invited them, refused the supper. What means “they received those who invited them, refused the supper”? They read the Prophets and killed Christ. But when they killed Him, then though they knew it not, they prepared a Supper for us. When the Supper was now prepared, when Christ had been offered up, when the Supper of the Lord, which the faithful know, had been set forth after the resurrection of Christ, and established by His Hands and Mouth, were the Apostles sent to them, to whom the Prophets had been sent before. “Come ye to the supper.”
 
 2\. They who would not come made excuses. And how did they excuse themselves? There were three excuses: “One said, I have bought a farm,<sup>3476</sup> and I go to see it; have me excused. Another said, I have bought five pairs of oxen, and I go to prove them; I pray thee have me excused. A third said, I have married a wife, have me excused; I cannot come.”<sup>3477</sup> Do we suppose that these are not the excuses, which hinder all men, who decline to come to this supper? Let us look into them, discuss, find them out; but only that we may beware. In the purchase of the farm, the spirit of domination is marked out; therefore pride is rebuked. For men are delighted to have a farm, to hold, to possess it, to have men in it under them,
 
-3472 See Serm. xl. (xc. Ben.). 3473 Ps. lxxx. 7. 3474 Luke xiv. 16. 3475 1 Tim. ii. 5. 3476 *Villam*, Vulgate.
+3472 See Serm. xl. (xc. Ben.). 3473 Ps. lxxx. 7. 3474 [[Luke 14#^14-16|Luke xiv. 16]]. 3475 [[1 Timothy 02#^2-5|1 Tim. ii. 5]]. 3476 *Villam*, Vulgate.
 
 
 *[p. 932]* ^pg958
 
-*On the words of the Gospel, Luke xiv. 16, ‘A certain man made a great supper,’…*
+*On the words of the Gospel, [[Luke 14#^14-16|Luke xiv. 16]], ‘A certain man made a great supper,’…*
 
 to have dominion. An evil vice, the first vice. For the first man wished to have dominion, in that he would not that any should have dominion over him. What is to have dominion, but to take pleasure in one’s own power? There is a greater power, let us submit ourselves to it, that we may be able to be safe. “I have bought a farm, have me excused.” Having discovered pride, he would not come.
 
@@ -481,23 +481,23 @@ to have dominion. An evil vice, the first vice. For the first man wished to have
 
 *[p. 933]* ^pg959
 
-*On the words of the Gospel, Luke xiv. 16, ‘A certain man made a great supper,’…*
+*On the words of the Gospel, [[Luke 14#^14-16|Luke xiv. 16]], ‘A certain man made a great supper,’…*
 
 4\. By such an impediment was our Apostle Thomas held back, who as to the Lord Christ, the resurrection that is of Christ, would not believe even his own eyes only. “Unless,” says he, “I put my fingers into the places of the nails and wounds, and unless I put my hand into His side, I will not believe.”<sup>3478</sup> And the Lord who could have risen again without any vestige of a wound, kept the scars, that they might be touched by the doubting Apostle, and the 448 wounds of his heart be healed. And yet as designing to call to His supper others, against the excuse of “the five pairs of oxen,” He said, “Blessed they who do not see, and believe.”<sup>3479</sup> We, my Brethren, who have been called to this supper, have not been kept back by “these five pairs.” For we have not in this age desired to see the Face of the Lord’s Body, nor have we longed to hear the Voice proceeding out of the mouth of that Body; we have not sought in Him for any passing<sup>3480</sup> odour. A certain “woman anointed Him with most costly ointment,” that “house was filled with the odour;”<sup>3481</sup> but we were not there; lo, we did not smell, yet we believe. He gave to the disciples the Supper consecrated by His Own Hands; but we did not sit down at that Feast, and yet we daily eat this same Supper by faith. And do not think it strange that in that supper which He gave with His Own Hand, one was present without faith: the faith that appeared, afterwards was more than a compensation for that faithlessness then. Paul was not there who believed, Judas was there who betrayed. How many now too in this same Supper, though they saw not then that table, nor beheld with their eyes, nor tasted with their mouths, the bread which the Lord took in His Hands, yet because it is the same as is now prepared, how many now also in this same Supper, “eat and drink judgment to themselves”?<sup>3482</sup>
 
 5\. But whence arose an occasion, so to say, to the Lord, to speak of this supper? One of them that sat at meat with Him (for He was at a feast, whither He had been invited), had said, “Blessed are they who eat bread in the kingdom of God.”<sup>3483</sup> He sighed as though after distant things, and the Bread Himself was sitting down before him. Who is the Bread of the kingdom of God, but He who saith, “I am the Living Bread which came down from heaven”?<sup>3484</sup> Do not get thy mouth ready, but thine heart. On this occasion it was that the parable of this supper was set forth. Lo, we believe in Christ, we receive Him with faith. In receiving Him we know what to think of. We receive but little, and we are nourished in heart. It is not then what is seen, but what is believed, that feeds us. Therefore we too have not sought
 
-3478 John xx. 25. 3479 John xx. 29.
+3478 [[John 20#^20-25|John xx. 25]]. 3479 [[John 20#^20-29|John xx. 29]].
 
-3480 *Temporalem*. 3481 John xii. 3. 3482 1 Cor. xi. 29. 3483 Luke xiv. 15.
+3480 *Temporalem*. 3481 [[John 12#^12-3|John xii. 3]]. 3482 [[1 Corinthians 11#^11-29|1 Cor. xi. 29]]. 3483 [[Luke 14#^14-15|Luke xiv. 15]].
 
 
 *[p. 934]* ^pg960
 
-*On the words of the Gospel, Luke xiv. 16, ‘A certain man made a great supper,’…*
+*On the words of the Gospel, [[Luke 14#^14-16|Luke xiv. 16]], ‘A certain man made a great supper,’…*
 
 for that outward sense; nor have we said, “Let them believe who have seen with their eyes, and handled with their hands the Lord Himself after His resurrection, if what is said be true; we do not touch Him, why should we believe?” If we were to entertain such thoughts, we should be kept back from the supper by those “five pairs of oxen.” That ye may know, Brethren, that not the gratification of these five senses, which softens and ministers pleasure, but a kind of curiosity was denoted, He did not say, “‘I have bought five pairs of oxen,’ and I go to feed them;” but, “I go to prove them.” He who wishes to “prove” by “the pairs of oxen,” does not wish to be in doubt, just as St. Thomas by these “pairs” did not wish to be in doubt. “Let me see, let me touch, let me put in my fingers.” “‘Behold,’ saith the Lord, ‘put in thy fingers along My Side, and be not unbelieving.’<sup>3485</sup> For thy sake have I been slain; at the place which thou wishest to touch, have I shed My Blood, that I might redeem thee; and dost thou still doubt of Me, unless thou touch Me? Behold, this too I grant; behold, this too I show thee; touch, and believe; find out the place of My wound, heal the wound of thy doubting.”
 
 6\. “The third said, I have married a wife.” This is the pleasure of the flesh, which is a hindrance to many: and I would that it were so only without, and not within! There are men who say, “There is no happiness for a man, if he have not the pleasures of the flesh.” These are they whom the Apostle censures, saying, “‘Let us eat and drink, for to-morrow we shall die.’<sup>3486</sup> Who hath risen to this life from the other? Who hath ever told us what goes on there? We take away with us, what in the time present makes our happiness.” He that speaks thus, “has married a wife,” attaches himself to the flesh, places his delight in the pleasures of the flesh, excuses himself from the supper; let him look well to it that he die not by an inward famine. Attend to John, the holy Apostle and Evangelist; “Love not the world, neither the things that are in the world.”<sup>3487</sup> O ye who come to the Supper of the Lord, “Love not the world, neither the things that are in the world.” He did not say, “Have not;” but, “Love not.” Thou hast had, possessed, loved. The love of earthly things, is the bird-lime of the spirit’s wings. Lo, thou hast desired, thou hast stuck fast. “Who will give thee wings as of a dove?”<sup>3488</sup> When wilt thou fly, whither thou mayest in deed, seeing thou hast perversely wished to rest here, where thou hast to thy hurt stuck fast? “Love not the world,” is the divine trumpet. By the voice of this trumpet unceasingly is it proclaimed to the compass of the
 
-3485 John xx. 27. 3486 1 Cor. xv. 32. 3487 1 John ii. 15. Ps. liv. 7, Sept. (lv. 6, English version).
+3485 [[John 20#^20-27|John xx. 27]]. 3486 [[1 Corinthians 15#^15-32|1 Cor. xv. 32]]. 3487 [[1 John 02#^2-15|1 John ii. 15]]. Ps. liv. 7, Sept. (lv. 6, English version).

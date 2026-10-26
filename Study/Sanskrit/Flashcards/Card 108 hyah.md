@@ -20,17 +20,10 @@ nyasa: "ha: breath (*prāṇa*) · ya: skin (*tvak*) · aḥ: tongue (*jihvā*)"
 ## Front
 
 - **Glyph:** ह्यः
-- **Variation:** —
-- **Example:** —
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** —
-- **Gloss:** noun: ‘yesterday’
-- **Class (as printed):** —
-- **Grid:** a row above the seven rows (the stops, then य र ल व, then श ष स ह): ◌ृ ◌ॄ (small, over क and ख), अ, अः; in bold: अः, य, ह
-- **Example:** —
+> [!note]- Back
+> - **Gloss:** noun: ‘yesterday’
+> - ृ ॄ अ <u>अः</u> / क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / <u>य</u> र ल व / श ष स <u>ह</u>
 
 ## Register
 

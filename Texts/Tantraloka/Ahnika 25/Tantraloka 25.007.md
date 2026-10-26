@@ -27,7 +27,7 @@ bhogyatānyā tanurdeha iti pāśātmakā matāḥ |
 > [!source] Dyczkowski, vol. IX
 > [[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#^pg378|p. 358]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=378>))
 >
-> The body, the other body, and that which is to be experienced (bhogya) (as the consequence of Karma) are considered to be fetters (pāśātmaka). They are made one with Śiva in the course of the worship of the ancestors (śrāāddha), in (the rite that serves to) rescue of the dead,’ and in the (funerary rite, which is) the last sacrifice.
+> The body, the other body, and that which is to be experienced (bhogya) (as the consequence of Karma) are considered to be fetters (pāśātmaka). They are made one with Śiva in the course of the worship of the ancestors (śrāāddha), in (the rite that serves to) rescue of the dead, and in the (funerary rite, which is) the last sacrifice.
 
 ## Viveka
 

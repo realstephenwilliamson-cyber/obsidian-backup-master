@@ -69,7 +69,7 @@ Similarly, a person should not sell olive dregs and grape dregs to someone who i
 [^1]: At which point the obligation to tithe takes effect (Chapter 3, Halachah 1).
 [^2]: Rabbi Akiva Eiger and the *Minchat Chinuch* (mitzvah 395) explain that even if the person changes his mind and desires to sell the produce afterwards, he remains obligated to tithe.
 [^3]: If the person changes his mind and desires to partake of the produce himself afterwards, he is not obligated according to Scriptural Law. Since he was not obligated at the time of the initial requirement, he does not become obligated afterwards (*ibid.*).
-[^4]: Our Sages adopted this measure as a safeguard. Ignoring it can have serious repercussions as [[Bava Metzia 88#88a|*Bava Metzia* 88a]] states the shopping area of Beit Hino was destroyed three years before Jerusalem because they did not tithe produce that was sold in the marketplace.
+[^4]: Our Sages adopted this measure as a safeguard. Ignoring it can have serious repercussions as *Bava Metzia* [[Bava Metzia 88#88a|88a]] states the shopping area of Beit Hino was destroyed three years before Jerusalem because they did not tithe produce that was sold in the marketplace.
 [^5]: I.e., crops that you made ready for use.
 [^6]: The Ra'avad differs with the Rambam, maintaining that the purchaser of the produce is never liable to tithe according to Scriptural Law. The Radbaz and the *Kessef Mishneh* cite interpretations of Talmudic passages that support the Rambam's position, but explain that there are other *Rishonim* who follow the Ra'avad's position.
 [^7]: Our translation is taken from the Rambam's Commentary to the Mishnah (*Sh'vi'it* 4:8).

@@ -20,16 +20,13 @@ nyasa: "right shoulder (*skandha*)"
 ## Front
 
 - **Glyph:** क
-- **Variation:** —
 - **Example:** कवि
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘papri<u>k</u>a’
-- **Class (as printed):** 1 (guttural) · hard · unaspirated
-- **Grid:** the five rows of stops; in bold: क
-- **Example:** kavi (poet)
+> [!note]- Back
+> - **Pronunciation:** As in ‘papri<u>k</u>a’
+> - **Class:** guttural · hard · unaspirated
+> - <u>क</u> ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म
+> - **Example:** kavi (poet)
 
 ## Register
 

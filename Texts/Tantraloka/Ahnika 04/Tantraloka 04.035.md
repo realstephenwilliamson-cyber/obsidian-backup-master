@@ -30,7 +30,7 @@ bhuktimuktiprasiddhyarthaṃ nīyate sadguruṃ prati || ^iast
 > [!source] Dyczkowski, vol. III
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 03 (Dyczkowski)/Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#^pg58|p. 45]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 03.pdf#page=58>))
 >
-> Thus (the Lord) declares in the Mālinīvijayatantra: ‘he (who) desires to go to a true teacher in order to attain worldly benefits (bhukti) and liberation (mukti) is led (to him) by Śiva’s will.
+> Thus (the Lord) declares in the Mālinīvijayatantra: ‘he (who) desires to go to a true teacher in order to attain worldly benefits (bhukti) and liberation (mukti) is led (to him) by Śiva’s will.’
 
 ## Viveka
 

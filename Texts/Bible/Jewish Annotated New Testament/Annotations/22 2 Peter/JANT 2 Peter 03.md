@@ -22,7 +22,7 @@ Text: [[NRSVue 2 Peter 03|NRSVue]] · [[2 Peter 03|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue 2 Peter 03#^3-3|3]]:** *Last days*, a Hebraism (“aḥarit ha-yamim,” e.g., [[Torah 12 - Vayechi#^49-1|Gen 49.1]]; [[Torah 40 - Balak#^24-14|Num 24.14]]), for the time of distress that precedes the end. *Scoffers will come*, referring to those who deny Jesus’ return. ^3-3
 
-**[[NRSVue 2 Peter 03#^3-4|4]]:** *Where is the promise of his coming*, a similar claim about the delay of messianic times appears in [[Sanhedrin 97#97b|*b. Sanh.* 97b]]; *Midr. Ps.* 77. The form of denial by a question is common in Tanakh, see, e.g., [[Jeremiah 17#^17-15|Jer 17.15]], [[Malachi 2#^2-17|Mal 2.17]], [[Psalms 079#^79-10|Ps 79.10]]. ^3-4
+**[[NRSVue 2 Peter 03#^3-4|4]]:** *Where is the promise of his coming*, a similar claim about the delay of messianic times appears in *b. Sanh.* [[Sanhedrin 97#97b|97b]]; *Midr. Ps.* 77. The form of denial by a question is common in Tanakh, see, e.g., [[Jeremiah 17#^17-15|Jer 17.15]], [[Malachi 2#^2-17|Mal 2.17]], [[Psalms 079#^79-10|Ps 79.10]]. ^3-4
 
 **[[NRSVue 2 Peter 03#^3-5|5]]:** *By the word of God heavens existed*, see Gen 1; [[Psalms 033#^33-6|Ps 33.6]]. ^3-5
 
@@ -33,7 +33,7 @@ Text: [[NRSVue 2 Peter 03|NRSVue]] · [[2 Peter 03|BSB and SBLGNT]] · Introduct
 > [!note] Destruction by Fire *(p. 516)*
 > Several biblical prophecies describe God’s future wrath with fiery images: “The day is coming, burning like an oven ([[Malachi 3#^3-19|Mal 4.1]]); “For the Lord has a day of vengeance . . . the streams of Edom shall be turned into pitch . . . her land shall become burning pitch. Night and day it shall not be guenched” ([[Isaiah 34#^34-8|Isa 34.8–10]]); “their fire shall not be quenched” ([[Isaiah 66#^66-24|Isa 66.24]]); “His wrath is poured out like fire” ([[Nahum 1#^1-6|Nah 1.6]]); “For in the fire of my passion all the earth shall be consumed” ([[Zephaniah 3#^3-8|Zeph 3.8]]). It is often unclear if the fire is literal or metaphorical. These prophecies do not focus on global destruction but on punishing God’s and Israel’s enemies as well as their land. The proximity of flood and fire is found in rabbinic sources as well (e.g., *Mekhilta de-Rabbi Ishmael, Amalek* 1*; t. Ta*ʾ*an.* 2.13). Although eschatological fire is not mentioned in rabbinic literature, it does appear in the Hellenistic-Jewish texts (e.g., *1 En.* 1; 6; *Sib. Or.* 3.71–76; 4.130–135,162–178).
 
-**[[NRSVue 2 Peter 03#^3-8|8]]:** *Like a thousand years*, see [[Psalms 090#^90-4|Ps 90.4]]. The author seeks to dispel doubt about the delay of the final judgment. The Psalm is also cited in relation to the eschaton in [[Rosh Hashanah 3#3a|*b. Rosh Ha-Shanah* 3a]]; *Gen. Rab*. 8.2; *Lev. Rab*. 20.1; *Song Rab*. 5.11 and elsewhere. See also *Jub*. 4.29–30 on Adam’s lifespan. ^3-8
+**[[NRSVue 2 Peter 03#^3-8|8]]:** *Like a thousand years*, see [[Psalms 090#^90-4|Ps 90.4]]. The author seeks to dispel doubt about the delay of the final judgment. The Psalm is also cited in relation to the eschaton in *b. Rosh Ha-Shanah* [[Rosh Hashanah 3#3a|3a]]; *Gen. Rab*. 8.2; *Lev. Rab*. 20.1; *Song Rab*. 5.11 and elsewhere. See also *Jub*. 4.29–30 on Adam’s lifespan. ^3-8
 
 **[[NRSVue 2 Peter 03#^3-10|10]]:** *Like a thief*, see [[1 Thessalonians 05#^5-2|1 Thess 5.2]]. ^3-10
 

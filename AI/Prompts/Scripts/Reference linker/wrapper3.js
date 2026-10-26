@@ -43,6 +43,10 @@
   // phase 7 options (13 Oct 2026): window.B3OVERRIDE {book path: 'heb'|'eng'|'mixed'}; window.B3NTONLY [path prefixes: New Testament references only];
   // window.B3VULG [path prefixes whose Old Testament and deuterocanonical references follow the Vulgate: linked as written to the Douay-Rheims]
   const XOVR = window.B3OVERRIDE || {}, NTONLY = window.B3NTONLY || [], VULG = window.B3VULG || [], SKIPN = window.B3SKIPNOTES || [];
+  // 26 Oct 2026 (audit E-01/E-02): window.B3ROMANONLY [path prefixes]: only references with a Roman chapter ("Mark xiv. 47") are linked
+  // there and only they count as numbering evidence (books whose Arabic references were linked by an earlier pass, or are OCR slips)
+  const ROMANONLY = window.B3ROMANONLY || [];
+  R.checks.options = { scope: window.B3SCOPE || 'Library/ with source_pdf', ntOnly: NTONLY, vulg: VULG, romanOnly: ROMANONLY, override: XOVR, skipNotes: SKIPN };
   // New Testament chapters whose Vulgate (Douay) verse numbers differ from the English (Mark 9 starts at Vulg 8:39; 2 Cor 13:12-14; 3 John 14-15; Rev 12:18/13:1; Phil 1:16-17; Acts 19:40-41)
   const VULGNT = new Set(['MRK|9', '2CO|13', '3JN|1', 'REV|12', 'REV|13', 'PHP|1', 'ACT|19']);
   const under = (p, list) => list.some(x => p.startsWith(x));
@@ -62,7 +66,10 @@
     'Book of Common Prayer 1928 (text)': 'eng', 'A History of Anglican Liturgy (Cuming)': 'eng'
   };
   // single references the reviewers found wrong that no rule catches: [book folder, text as printed]
-  const EXCLUDE = [['Playing with Leviathan (van Bekkum)', 'Ps 44:9–26'], ['The Collection of the Words of the Lord (Frank)', 'Zohar 1.37a']];
+  // 26 Oct 2026: in Cyril on Luke the margin's "John ii. 19" runs into "in three days I will raise it up", which reads as 1 John 2:19;
+  // in Augustine "Matt. xvii. 21" is either Vulgate numbering (fn 1105, = Matt 17:22) or a misprint for xviii. 21 (the heading of Sermon 83)
+  const EXCLUDE = [['Playing with Leviathan (van Bekkum)', 'Ps 44:9–26'], ['The Collection of the Words of the Lord (Frank)', 'Zohar 1.37a'], ['Commentary on Luke, part 2 (Cyril of Alexandria)', 'I John ii. 19'],
+    ['Sermon on the Mount, Harmony of the Gospels, Homilies (Augustine)', 'Matt. xvii. 21']];
   const hebValid = (id, c, v) => B3.TORAH.has(id) ? TOR.has(id + '|' + c + '|' + v) : !!(TNX.get(id + '|' + c) && TNX.get(id + '|' + c).blocks.has(c + '-' + v));
   const engValid = (id, c, v) => v >= 1 && !!(ENGMAX[id] && c <= ENGMAX[id].length && v <= ENGMAX[id][c - 1]);
   // scope: by default the converted books; window.B3SCOPE = ['Texts/Plato/', ...] to run over other folders instead
@@ -74,7 +81,7 @@
   for (const f of conv) {
     if (SKIPNOTE.test(f.basename)) continue;
     const bk = BOOK(f.path); const e = EV[bk] = EV[bk] || { heb: 0, eng: 0, hebEx: [], engEx: [], ta: 0, taOut: 0 };
-    const fathers = FATHERS.test(f.path);
+    const fathers = FATHERS.test(f.path), romanOnly = under(f.path, ROMANONLY);
     const lines = (await ad.read(f.path)).split('\n'); let inFm = lines[0] === '---', inCode = false;
     for (let i = 0; i < lines.length; i++) {
       const line = lines[i];
@@ -82,6 +89,7 @@
       if (/^\s*```/.test(line)) { inCode = !inCode; continue; }
       if (inCode || /^#{1,6}\s/.test(line) || B3.scriptShare(line) > 0.3) continue;
       for (const r of B3.find(line, optsFor(f))) {
+        if (romanOnly && !r.roman) continue;
         if (r.kind === 'ta') { e.ta++; if (!TAX.has(`Tantraloka ${String(r.ch).padStart(2, '0')}.${String(r.v).padStart(3, '0')}`)) e.taOut++; continue; }
         if (fathers || r.kind !== 'bible' || !r.id || B3.NT.has(r.id) || B3.DEUTERO.has(r.id) || !ENGMAX[r.id]) continue;
         const after = line.slice(r.b, r.b + 16);
@@ -119,6 +127,7 @@
   };
   const linkFor = (r, subj, line, bk) => {
     const before = line.slice(Math.max(0, r.a - 30), r.a), after = line.slice(r.b, r.b + 16);
+    if (under(r.path, ROMANONLY) && !r.roman) return { skip: true };
     if (under(r.path, NTONLY) && !(r.kind !== 'ta' && r.kind !== 'ta-list' && r.kind !== 'zohar' && r.kind !== 'avot' && r.id && B3.NT.has(r.id))) return { skip: true };
     if (r.kind === 'ta' || r.kind === 'ta-list') {
       if (TABAD.has(bk)) return { undecided: 'this book cites the Tantrāloka by volume and page' };
@@ -189,16 +198,17 @@
         res.push({ r, x: linkFor(r, subj, line, bk) });
       }
       // a list whose head or any member fails is held back whole ("John 18:151, 18:152, 19:17" in the Mandaean Book of John)
-      const badGrp = new Set(res.filter(o => o.x && (o.x.miss || o.x.undecided)).map(o => o.r.grp).filter(g => g != null));
+      const badGrp = new Set(res.filter(o => (o.x && (o.x.miss || o.x.undecided)) || o.drop === 'excluded').map(o => o.r.grp).filter(g => g != null));   // 26 Oct: an excluded head holds back its list too
       for (const o of res) {
         const { r, x } = o; if (!x) continue;
         if (x.skip) continue;
-        if (x.undecided) { R.undecided.push({ path: f.path, line: i, text: r.text, why: x.undecided, heb: x.heb ? x.heb.join(':') : undefined, ctx: line.slice(Math.max(0, r.a - 120), r.b + 80) }); continue; }
+        if (x.undecided) { R.undecided.push({ path: f.path, line: i, text: r.text, why: x.undecided, heb: x.heb ? x.heb.join(':') : undefined, roman: r.roman ? 1 : undefined, ctx: line.slice(Math.max(0, r.a - 120), r.b + 80) }); continue; }
         if (x.miss) { inc(R.counts, 'missing'); if (R.missing.length < 600) R.missing.push({ path: f.path, text: r.text, target: x.miss, ctx: line.slice(Math.max(0, r.a - 80), r.b + 40) }); continue; }
         if (r.grp != null && badGrp.has(r.grp)) { R.skipped.listHeld++; continue; }
         const kind = r.id ? (B3.NT.has(r.id) ? 'NT' : B3.DEUTERO.has(r.id) ? 'deutero' : B3.TORAH.has(r.id) ? 'Torah' : 'Tanakh') + (r.kind === 'chapter' ? ' chapter' : r.kind === 'bible-verse' ? ' verse-list' : '') + (x.lxx ? ' (LXX)' : '') + (x.drb ? ' (DRB)' : '') : r.kind.replace('-list', '');
         inc(R.counts, kind); inc(R.bySubject, subj); if (r.id) inc(R.byBook, r.id); nlinks++;
-        P.push([f.path, i, r.a, r.b, r.text, x.target, kind, x.shifted ? 1 : 0, table ? 1 : 0, line.slice(Math.max(0, r.a - 160), r.b + 100)]);
+        if (r.roman) { R.roman = (R.roman || 0) + 1; R.romanByBook = R.romanByBook || {}; inc(R.romanByBook, bk); }
+        P.push([f.path, i, r.a, r.b, r.text, x.target, kind, x.shifted ? 1 : 0, table ? 1 : 0, line.slice(Math.max(0, r.a - 160), r.b + 100), r.roman ? 1 : 0]);
         if (x.shifted && R.shifted.length < 3000) R.shifted.push({ path: f.path, text: r.text, heb: x.heb.join(':'), target: x.target, sentence: B3.sentenceAround(line, r.a, r.b).slice(0, 400) });
         if (APPLY) { const e = edits.get(i) || []; e.push([r.a, r.b, `[[${x.target}${table ? '\\|' : '|'}${r.text}]]`]); edits.set(i, e); }
       }
@@ -224,5 +234,5 @@
   const tag = APPLY ? OUTTAG + '-real' : OUTTAG;
   await ad.write(`.work/out/${tag}-proposals.json`, JSON.stringify(P));
   await ad.write(`.work/out/${tag}.json`, JSON.stringify(R, null, 1));
-  return `${APPLY ? 'APPLIED' : 'DRY'} notes ${R.notes}, with links ${R.notesWithLinks}; proposals ${R.total} ${JSON.stringify(R.counts)}; undecided ${R.undecided.length}; skipped ${JSON.stringify(R.skipped)}; ${R.seconds}s` + (APPLY ? `; changed ${changedNotes.length}; unresolved ${JSON.stringify(R.unresolvedBefore)} -> ${JSON.stringify(R.unresolvedAfter)}` : '');
+  return `${APPLY ? 'APPLIED' : 'DRY'} notes ${R.notes}, with links ${R.notesWithLinks}; proposals ${R.total} (Roman chapter ${R.roman || 0}) ${JSON.stringify(R.counts)}; undecided ${R.undecided.length}; skipped ${JSON.stringify(R.skipped)}; ${R.seconds}s` + (APPLY ? `; changed ${changedNotes.length}; unresolved ${JSON.stringify(R.unresolvedBefore)} -> ${JSON.stringify(R.unresolvedAfter)}` : '');
 })()

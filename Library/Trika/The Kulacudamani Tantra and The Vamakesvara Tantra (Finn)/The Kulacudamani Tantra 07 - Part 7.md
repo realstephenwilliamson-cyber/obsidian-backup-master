@@ -70,7 +70,7 @@ About it has been said:
 
 three bṛjas."
 
-The one "below" "ẹ" is "h"; the one at the end of "ṣ" is "s" and the one at the end of "y" is "r".338
+The one "below" "ẹ" is "h"; the one at the end of "ṣ" is "s" and the one at the end of "y" is "r".[^338]
 
 On finishing this (topic) he introduces another:
 
@@ -84,7 +84,8 @@ SUNDARĪ!
 
 In order to show his extreme regard (for the Goddess) he once again says "Listen".
 
-[^337]: In making the Nāgarl letters, the stroke for the letter "r" will appear to serve as a "seat" for the letters "h" and "s". This is also a reference to the faet that the syllables were Likely to have been written vertically- one letter above the other - and not in horizontal fashion as nowadays. However, in both ways the letter "r" would be underneath like a seat. 338\. See the chart in footnote 820.
+[^337]: In making the Nāgarl letters, the stroke for the letter "r" will appear to serve as a "seat" for the letters "h" and "s". This is also a reference to the faet that the syllables were Likely to have been written vertically- one letter above the other - and not in horizontal fashion as nowadays. However, in both ways the letter "r" would be underneath like a seat.
+[^338]: See the chart in footnote 820.
 
 *[p. 247]* ^pg243
 
@@ -638,7 +639,7 @@ PLATED HER (THUS) IN THE MIDDLE OF THE CAKRA, (AND)
 
 WHILST REMEMBERING THE MAHĀTRIPURAMUDRĀ,[^394] \*ž9\* HAS INVOKED
 
-MAHĀTRIPURASUNDARĪ BY MEANS OF THE INVOCATION FORM VIDYĀ\* 95
+MAHĀTRIPURASUNDARĪ BY MEANS OF THE INVOCATION FORM VIDYĀ[^395]
 
 TOGETHER WITH THE GESTURE OF RESPECT, THEN HE SHOULD
 
@@ -648,7 +649,7 @@ It should be added that, for a moment, one should remain absorbed in
 
 that (visualization).
 
-By "honeyed" is meant that (her smile) is lovely; and by "taste" is meant the (physical) phenomenon of sweetness. She is defined as having "four arms". Because of her power to delight the world, She who is the revealer of the supreme principle is elsewhere (referred to) by the expression - "delight of the world".396 The meaning of all the adjectives is grasped in the two descriptive (phrases) "beautiful in every charming way" and "full of glory".
+By "honeyed" is meant that (her smile) is lovely; and by "taste" is meant the (physical) phenomenon of sweetness. She is defined as having "four arms". Because of her power to delight the world, She who is the revealer of the supreme principle is elsewhere (referred to) by the expression - "delight of the world".[^396] The meaning of all the adjectives is grasped in the two descriptive (phrases) "beautiful in every charming way" and "full of glory".
 
 Thus from an account of the meditation on the chief deity, a similar meditation is self-evident for the other (goddesses) as their forms are extensions of Her.
 
@@ -662,7 +663,9 @@ It is one-faced; very red and seated on a lotus with the four weapons of noose, 
 
 For this reason, Oh Best of Women:, a meditation does not exist for them."
 
-[^394]: At the end of this section of commentary, Jayaratha says that the Mahātripuramudrāã tis the same as the Trikhanda mudrā deseribed in Chapter III and which is used for the invocation of the deity. 395\. I.e., the Devyāvāhanavidyā. 8396\. The phrase "joy of the world" is a reference to the Kashmir Śaiva classification of six "anandas" of which "jagadānanda" is the highest. The six in ascending order are: nijânanda, nirānanda, parānanda, brahmānanda, mahānanda, eidānanda or Jagadānanda.
+[^394]: At the end of this section of commentary, Jayaratha says that the Mahātripuramudrāã tis the same as the Trikhanda mudrā deseribed in Chapter III and which is used for the invocation of the deity.
+[^395]: I.e., the Devyāvāhanavidyā.
+[^396]: The phrase "joy of the world" is a reference to the Kashmir Śaiva classification of six "anandas" of which "jagadānanda" is the highest. The six in ascending order are: nijânanda, nirānanda, parānanda, brahmānanda, mahānanda, eidānanda or Jagadānanda.
 
 *[p. 265]* ^pg261
 
@@ -846,9 +849,9 @@ SHE WHO ABIDES IN KĀMA IS IN THE SOUTH-WEST;
 
 SHE WHO IS THE GOAD OF KĀMA IS IN THE NORTH-WEST AND
 
-SHE WHO BEARS THE GARLAND OF KĀMA IS IN THE NORTH-EAST.[^414]
+SHE WHO BEARS THE GARLAND OF KĀMA IS IN THE NORTH-EAST.[^413]
 
-Here, because the statement on the east, west etc. order has no regard for the other (statement) on the first cakra, the directional sequence should be understood as that of the Prajāpati\*1\* - ignoring the remark that "She who is the Blossom of Kāma etc. are in the positions of the goddesses of the portals" etc. because it is contrary
+Here, because the statement on the east, west etc. order has no regard for the other (statement) on the first cakra, the directional sequence should be understood as that of the Prajāpati[^414] - ignoring the remark that "She who is the Blossom of Kāma etc. are in the positions of the goddesses of the portals" etc. because it is contrary
 
 to scripture.
 
@@ -859,7 +862,8 @@ As has been said:
 "Oh Goddess! In the cakra which is "the instigator of all turmoil" are established the goddesses ~- She who is the Blossom of Kāma etc. who are more secret than the secret."
 [^411]: It means that the particular deity presiding over this second cakra is Tripurtsvarṛ.
 
-[^412]: The cakra called "Sarvasaṁkgobhakāraka" in Sanskrít. 413\. Anañṁgakusumā, Anañgamaṁgalā, Anaṁgamathanā, Madanottara, Anañṁgalekhā, Anaṁgavāsiínṛ, Anañgāñṁkuśā, Anaṅgamālinī are the Sanskrit names of the goddesses in the third cakra.
+[^412]: The cakra called "Sarvasaṁkgobhakāraka" in Sanskrít.
+[^413]: Anañṁgakusumā, Anañgamaṁgalā, Anaṁgamathanā, Madanottara, Anañṁgalekhā, Anaṁgavāsiínṛ, Anañgāñṁkuśā, Anaṅgamālinī are the Sanskrit names of the goddesses in the third cakra.
 [^414]: The goddesses in the third cakra begin with the eastern position and Jayaratha says that the order should not be made to conform with that of the first cakra where the goddesses begin from the west since one should do as the Lord Śiva (Prajāpati) explicitly states in the verse.
 
 *[p. 270]* ^pg266
@@ -1116,7 +1120,7 @@ reality."
 
 End of commentary on Verse 158.
 
-He discusses the eighth cakra which "contains al\] stiddhis":\*3%
+He discusses the eighth cakra which "contains al\] stiddhis":[^434]
 
 159\. IN DUE ORDER ONE SHOULD WORSHIP THE FOUR IN THE MIDDLE
 
@@ -1138,7 +1142,8 @@ TOGETHER WITH THE WORDS FOR CRUSHING, DELUDING, SUBDUING
 
 AND IMMOBILISING.
 
-[^433]: The text neglects to name the goddesses of this cakra, but they are listed in f.n. five as Vasin, Kāmeśī, Modinī, Vimalā, Aruṇā, Jayant, Sarvegī and Kaulinṛ. 434\. The cakra called "Sarvasiddhimaya” in Sanskrit.
+[^433]: The text neglects to name the goddesses of this cakra, but they are listed in f.n. five as Vasin, Kāmeśī, Modinī, Vimalā, Aruṇā, Jayant, Sarvegī and Kaulinṛ.
+[^434]: The cakra called "Sarvasiddhimaya” in Sanskrit.
 [^435]: By in the "middle of the cakra" one should understand in the ‘middle of the whole ninefold cakra where the root triangle tis located. According to Jayaratha, the worship ts to be performed outside the triangle in the four direettons. E X N s w
 
 *[p. 277]* ^pg273

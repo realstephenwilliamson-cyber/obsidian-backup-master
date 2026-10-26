@@ -11,6 +11,7 @@ second_reading: "James 2:1-10, (11-13), 14-17"
 gospel: "Mark 7:24-37"
 first_reading_complementary: "Isaiah 35:4-7a"
 psalm_complementary: "Psalm 146"
+psalm_bcp_complementary: "Psalm 146"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-18]]"
 cssclasses:

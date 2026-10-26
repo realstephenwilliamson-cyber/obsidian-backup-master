@@ -27,7 +27,7 @@ channasvarūpatābhāse puṃsi yadyādṛśaṃ phalam || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#^pg209|p. 189]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=209>))
 >
-> (Somānanda), the eldest (parameṣthin) and most excellent teacher (of our lineage), says in his Sivadrṣṭi that: ‘it is Śiva’s nature (to perform) the five kinds of tasks (pañcakrtya) (that is, creation, persistence, destruction, grace and obscuration) taught (before). Thus, where (is the occasion) to seek other instigating causes (nimitta) (to act in this way) for one who, engaged in His own (natural) activity, (is already doing this)?" (with 13.108–109ab)
+> (Somānanda), the eldest (parameṣthin) and most excellent teacher (of our lineage), says in his Sivadrṣṭi that: ‘it is Śiva’s nature (to perform) the five kinds of tasks (pañcakrtya) (that is, creation, persistence, destruction, grace and obscuration) taught (before). Thus, where (is the occasion) to seek other instigating causes (nimitta) (to act in this way) for one who, engaged in His own (natural) activity, (is already doing this)?’ (with 13.108–109ab)
 >
 > When the innate luminosity of the individual soul is obscured, the freedom (to act) (svātantrya) the individual soul possesses there in that case bears its corresponding fruit, which is (as limited) as is (its freedom,) because it is (due to its) Karma (not the activity of the unobscured Śiva nature). (with 13.109cd–110ab)
 

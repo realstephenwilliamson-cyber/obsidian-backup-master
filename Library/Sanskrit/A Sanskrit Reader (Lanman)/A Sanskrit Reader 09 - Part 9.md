@@ -948,7 +948,7 @@ common saying, “ vyāghro ˆ \* khādati” 18 \* \` 13-14. Third word 18 ku�
 
 People heed the social position of the adviser rather than the real character of the adviser or the intrinsic value of the advice. 
 
-15\. adhītāni, vi+adhi: cf. 200x. 169. ‘So (18) food (in =) to a hungry man.’ 17. ‘To a poor man (304a) is given a fruitful gift, i.e. fruitful is the gift given to a poor man — cf. 22t and St. Luke vi.33-36. = Observe that the logically important idea is often put in a grammatically subordinate word. 
+15\. adhītāni, vi+adhi: cf. 200x. 169. ‘So (18) food (in =) to a hungry man.’ 17. ‘To a poor man (304a) is given a fruitful gift, i.e. fruitful is the gift given to a poor man — cf. 22t and St. [[Luke 06#^6-33|Luke vi.33-36]]. = Observe that the logically important idea is often put in a grammatically subordinate word. 
 
 18\. See ātman3 and \\118 2021. =. Dhammapada, stanza 129, and SBE. x.36. 20. Note the use or the omission of ca 20. U.f. -sañgāt, ‘by sticking ५0 \` \` + | 1. Note how Brahmans are distinguished 
 
@@ -976,7 +976,7 @@ Nores 70 Pace 22.
 
 ॐ. See 11६2 1. 
 
-The idea is identical with that in St. Luke v.31. 
+The idea is identical with that in St. [[Luke 05#^5-31|Luke v.31]]. 
 
 4\. dātavyam (999) iti, ‘with the thought “It ought to be given (impers.), ४.९. giving is a duty.” ? 
 
@@ -1814,7 +1814,7 @@ Benfey, i.239; ii.90. Lancereau, p. 340. La Fontaine, book x., fable 2. Regnier,
 
 NorTEs 70 Pace 88. 
 
-1-2. yad, untranslatable, like öri, introducing a direct quotation : cf. oi 8ह ल ० öri {८०१०६ èguev; 80 St. Luke viii.49, ete. 
+1-2. yad, untranslatable, like öri, introducing a direct quotation : cf. oi 8ह ल ० öri {८०१०६ èguev; 80 St. [[Luke 08#^8-49|Luke viii.49]], ete. 
 
 =U.f. 
 
@@ -2811,7 +2811,7 @@ S. gives the lack of ink as a reason; K.
 
 gives none. 
 
-But the statement may rest on a popular superstition like the Germanic one which ascribes peculiar virtues to pure spittle (cf. also St. Mark viii.23) and to blood. 
+But the statement may rest on a popular superstition like the Germanic one which ascribes peculiar virtues to pure spittle (cf. also St. [[Mark 08#^8-23|Mark viii.23]]) and to blood. 
 
 Life rests in the blood, the “ vital fluid”; from it a drink of immortality is made; and with it pacts are made or subscribed (cf. Faust, 1. 1383). 
 
@@ -3418,7 +3418,7 @@ Total of all four, 12,000.
 
 6-7. See ādi 1. =æ‘What is that quadruple-age, just now reckoned up completely, that, consisting of 12,000 (years), is called an age of the gods. Cf. Whitney, l.c., 154 top. 
 
-8-9. sahasram etc., cf. Psalm xc.4; II. 
+8-9. sahasram etc., cf. [[Psalms 090#^90-4|Psalm xc.4]]; II. 
 
 Peter iii.8. 
 

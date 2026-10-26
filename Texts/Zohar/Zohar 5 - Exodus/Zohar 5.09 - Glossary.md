@@ -126,7 +126,7 @@ page_range: 595–600
 
 ***Raḥamim***   “Compassion”; the sixth *sefirah*, harmonizing the polar opposites *Ḥesed* and *Din*; also called *Tif’eret*.
 
-***Raza de-Razin***   “The Secret of Secrets”; a section of the *Zohar* dealing with physiognomy, metoposcopy, and chiromancy (*Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-70a|2:70a]]–75a \[printed alongside the [p. 598] main text\], *Zohar Ḥadash* 35b–37c). A second version is incorporated into the main body of the *Zohar* (2:70a–78a).
+***Raza de-Razin***   “The Secret of Secrets”; a section of the *Zohar* dealing with physiognomy, metoposcopy, and chiromancy (*Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-70a|2:70a]]–75a \[printed alongside the [p. 598] main text\], *Zohar Ḥadash* [[Zohar 12.07 - Raza de-Razin#^zh-35b|35b–37c]]). A second version is incorporated into the main body of the *Zohar* (2:70a–78a).
 
 **Rosh Hashanah**   The Jewish New Year, celebrated on the first two days of the Hebrew month Tishrei.
 
@@ -154,7 +154,7 @@ page_range: 595–600
 
 ***Shir ha-Shirim***   The book of Song of Songs.
 
-***Sifra di-Tsni’uta***   “The Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah, consisting of five short chapters and composed in obscure sentences. Its subject is the mysterious dynamics of divine being. *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-176b|2:176b]]–179a (above, pp. 535–86).
+***Sifra di-Tsni’uta***   “The Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah, consisting of five short chapters and composed in obscure sentences. Its subject is the mysterious dynamics of divine being. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b|2:176b]]–179a (above, pp. 535–86).
 
 ***Sitra Aḥra***   “The other side”; the demonic realm, or the shadow of the divine, led by Samael and Lilith.
 

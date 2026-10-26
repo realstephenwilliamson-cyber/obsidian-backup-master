@@ -20,16 +20,13 @@ nyasa: "right foot (*pāda*)"
 ## Front
 
 - **Glyph:** ड
-- **Variation:** —
 - **Example:** अण्ड
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** [ As in ‘sh<u>d</u>um’ ]
-- **Class (as printed):** 3 (cerebral) · soft · unaspirated
-- **Grid:** the five rows of stops; in bold: ड
-- **Example:** aṇḍa (egg)
+> [!note]- Back
+> - **Pronunciation:** [ As in ‘sh<u>d</u>um’ ]
+> - **Class:** cerebral · soft · unaspirated
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ <u>ड</u> ढ ण / त थ द ध न / प फ ब भ म
+> - **Example:** aṇḍa (egg)
 
 ## Register
 

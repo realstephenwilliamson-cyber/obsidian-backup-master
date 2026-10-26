@@ -27,7 +27,7 @@ naṣṭamūle drume devi kutaḥ puṣpaphalādikam || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#^pg354|p. 332]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=354>))
 >
-> ‘How can one attain knowledge and liberation (if) the teacher one has taken is powerless (śaktihīna)? O goddess, if the roots of a tree have been destroyed, how (can it bear) flowers or fruit?
+> ‘How can one attain knowledge and liberation (if) the teacher one has taken is powerless (śaktihīna)? O goddess, if the roots of a tree have been destroyed, how (can it bear) flowers or fruit?’
 
 ## Viveka
 

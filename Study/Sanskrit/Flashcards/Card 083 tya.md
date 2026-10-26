@@ -20,16 +20,12 @@ nyasa: "ṭa: right hip (*kaṭi*) · ya: skin (*tvak*)"
 ## Front
 
 - **Glyph:** ट्य
-- **Variation:** —
 - **Example:** नाट्य
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** As in ‘nāṭya’ (dancing)
-- **Class (as printed):** —
-- **Grid:** the five rows of stops + य र ल व + श ष स ह; in bold: ट, य
-- **Example:** nāṭya (dancing)
+> [!note]- Back
+> - **Pronunciation:** As in ‘nāṭya’ (dancing)
+> - क ख ग घ ङ / च छ ज झ ञ / <u>ट</u> ठ ड ढ ण / त थ द ध न / प फ ब भ म / <u>य</u> र ल व / श ष स ह
+> - **Example:** nāṭya (dancing)
 
 ## Register
 

@@ -27,7 +27,7 @@ ityuktavānsvapaddhatyāmīśānaśivadaiśikaḥ || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#^pg306|p. 286]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=306>))
 >
-> The initiation (that bestows) liberation to those who previously bore the sectarian signs (of other traditions), does not carry with it the competence (to become a teacher). Converts are not competent to be on the path of an adept (sādhaka) or teacher (ācārya). The teacher Īśānaśiva, who correctly explains the true meaning of the teaching of the venerable Devyāyāmala, has declared in his Paddhati that ‘converts enflamed by knowledge occupy the office of a teacher (only) to liberate (their disciples, but) not to also confer worldly benefits (on them). (It is only by the use of) the appropriate means that (he can act so that they may) also (enjoy) worldly benefits. (with 22.28cd–31ab)
+> The initiation (that bestows) liberation to those who previously bore the sectarian signs (of other traditions), does not carry with it the competence (to become a teacher). Converts are not competent to be on the path of an adept (sādhaka) or teacher (ācārya). The teacher Īśānaśiva, who correctly explains the true meaning of the teaching of the venerable Devyāyāmala, has declared in his Paddhati that ‘converts enflamed by knowledge occupy the office of a teacher (only) to liberate (their disciples, but) not to also confer worldly benefits (on them). (It is only by the use of) the appropriate means that (he can act so that they may) also (enjoy) worldly benefits.’ (with 22.28cd–31ab)
 
 ## Viveka
 

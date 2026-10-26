@@ -27,7 +27,7 @@ pāramparyeṇa saṃskṛtyā mokṣabhogābhyupāyatā || ^iast
 > [!source] Dyczkowski, vol. VIII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 08 (Dyczkowski)/Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#^pg22|p. 4]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 08.pdf#page=22>))
 >
-> ‘There is no competence (adhikāritā) to practice Śaiva Yoga without initiation. ‘Śiva’s initiation not only confers entitlement (to the fruits of) Yoga (and its practice), it also (confers the) authority (to practice) Mantras as well as liberation (itself). According to this statement in the venerable Mālinī, initiation is the direct means to liberation. (Moreover,) the previous verse declares that it can (also) be a means (to the attainment) of worldly benefits and liberation progressively (indirectly), by means of the (empowering) purification (it brings about). (with 15.5–7)
+> ‘There is no competence (adhikāritā) to practice Śaiva Yoga without initiation.’ ‘Śiva’s initiation not only confers entitlement (to the fruits of) Yoga (and its practice), it also (confers the) authority (to practice) Mantras as well as liberation (itself).’ According to this statement in the venerable Mālinī, initiation is the direct means to liberation. (Moreover,) the previous verse declares that it can (also) be a means (to the attainment) of worldly benefits and liberation progressively (indirectly), by means of the (empowering) purification (it brings about). (with 15.5–7)
 
 ## Viveka
 

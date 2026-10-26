@@ -88,7 +88,7 @@ Frank M. Cross, ‘The history of the biblical text in the light
 
 of the discoveries of the Judaean desert’, HTR, 57 (1964):
 
-281-99; and ‘The Ammonite oppression of the tribes of Gad and Reuben: missing verses from 1 Samuel 11 found in 4QSamuel"’, in History, Historiography and Interpretation, ed. H. Tadmor and M. Weinfeld (Jerusalem: Magness Press, 1983), pp. 148-58.
+281-99; and ‘The Ammonite oppression of the tribes of Gad and Reuben: missing verses from [[I Samuel 11#^11-1|1 Samuel 11]] found in 4QSamuel"’, in History, Historiography and Interpretation, ed. H. Tadmor and M. Weinfeld (Jerusalem: Magness Press, 1983), pp. 148-58.
 
 Emanuel Tov, Textual Criticism of the Hebrew Bible, 2nd edn. (Assen:
 

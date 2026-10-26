@@ -29,7 +29,7 @@ athādhvano'sya prakṛta upayogaḥ prakāśyate || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 04 - Chapter Twelve#^pg119|p. 99]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=119>))
 >
-> Now we will explain the application of the Path in (the sacrificial rite and the rest) that we are discussing.’
+> Now we will explain the application of the Path in (the sacrificial rite and the rest) that we are discussing.
 
 ## Viveka
 

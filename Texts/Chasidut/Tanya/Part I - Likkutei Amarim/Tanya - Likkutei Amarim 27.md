@@ -50,17 +50,17 @@ The meaning of “sanctify yourselves” is “you shall *make* yourselves holy,
 
 [^1]: [[Torah 37 - Sh'lach#^15-39|Numbers 15:39]].
 [^2]: “…or otherwise.”
-[^3]: [[Kiddushin 39#39b|*Kiddushin* 39b]].
+[^3]: *Kiddushin* [[Kiddushin 39#39b|39b]].
 [^4]: As a *benoni*, not a *tzaddik*.
 [^5]: Ch. 12.
 [^6]: *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-135b|II:135b]].
 [^7]: [[Obadiah 1#^1-4|Obadiah 1:4]].
 [^8]: Cf. at length *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-128b|II:128b]].
-[^9]: [[Bava Batra 16#16a|*Bava Batra* 16a]]. See above, beg. ch. 1.
+[^9]: *Bava Batra* [[Bava Batra 16#16a|16a]]. See above, beg. ch. 1.
 [^10]: The words ([[Torah 06 - Toldot#^27-4|Genesis 27:4]]) spoken by Isaac to Esau are allegorically interpreted here according to *Tikkunei Zohar*.
 [^11]: [[Proverbs 16#^16-4|Proverbs 16:4]].
-[^12]: [[Shabbat 10#10a|*Shabbat* 10a]].
-[^13]: [[Yoma 39#39a|*Yoma* 39a]].
+[^12]: *Shabbat* [[Shabbat 10#10a|10a]].
+[^13]: *Yoma* [[Yoma 39#39a|39a]].
 [^14]: [[Torah 30 - Kedoshim#^20-7|Leviticus 20:7]].
 [^15]: The Hebrew word for “holy” (*kadosh*) means “setting apart,” i.e., separating from the unholy.
 [^16]: The imperative form used in the Pentateuch to express the commandments can be interpreted also in the simple future tense. Hence the commandments may be understood from the linguistic aspect as both a command and a promise of its fulfillment.

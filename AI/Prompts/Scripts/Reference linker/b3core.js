@@ -1,5 +1,8 @@
 // B3 core (13 Oct 2026): find scripture, Zohar, Tantraloka and Avot references in a line of a converted book.
 // Pure functions; the Obsidian jobs wrap them with indexes built from the metadata cache.
+// 26 Oct 2026 (audit E-01/E-02): also references with a lower-case Roman chapter ("Matt. xxv. 30", "John iii.31",
+// "1 Cor. xv. 3; xvi. 2", "Gen. xlviii. 5, 6"), marked roman: true; they are looked for after everything else,
+// so a line without one gives exactly what the 13 Oct version gave.
 const B3 = (() => {
   // canonical id -> [names and abbreviations, longest first matters only for the regex]
   const BOOKS = {
@@ -42,6 +45,28 @@ const B3 = (() => {
   const ZOHAR = /(?<![\p{L}\d])(Zohar(?:\s(?:Ḥadash|Hadash|Chadash))?|ZḤ|ZH)\s?,?\s?(?:(I{1,3}|[123])\s?[:,.]\s?)?(\d{1,3})([a-d])(?:\s?[-–]\s?(\d{1,3})?([a-d]))?(?![\p{L}\d])/gu;
   const AVOT = /(?<![\p{L}\d])((?:m\.\s?|Mishnah\s|Pirkei\s|Pirqe\s|Pirke\s)?(?:Avot|Aboth|Abot|Pirkei Avot))\s?(\d)\s?[:.]\s?(\d{1,2})(?![\p{L}\d]|[.,]\d)/gu;
   const roman = s => { const v = { I: 1, V: 5, X: 10, L: 50 }; let n = 0; for (let i = 0; i < s.length; i++) { const a = v[s[i]], b = v[s[i + 1]] || 0; n += a < b ? -a : a; } return n; };
+  // ---- Roman chapters (26 Oct 2026). Abbreviations found before Roman chapters in the Fathers, Hobbes and Brandon that BOOKS lacks;
+  // used only here and only with their period ("Is." needs a Roman chapter and a verse after it, so the word "Is" never fires).
+  // Left out as ambiguous or OCR: Jos. (Joshua/Josephus), Ez. (Ezra/Ezekiel), Jud. (Judges/Judith/Jude), Marc. (Marcion), Mich., Sol., Ts./Ls./Ie. (OCR for Is.), Mace./Mac.
+  const RNAMES = {
+    ISA: ['Is', 'Isai'], WIS: ['Wisd'], NUM: ['Numb'], PHP: ['Philip'], MAT: ['Mat', 'Matth'], EPH: ['Ephes'], TIT: ['Tit'], JER: ['Jerem'],
+    LEV: ['Levit'], COL: ['Coloss', 'Colos'], HAB: ['Habac'], MAL: ['Malach'], EZK: ['Ezech'], ZEC: ['Zach'], DEU: ['Deuteron'], JHN: ['Joh'], JAS: ['Jam'], REV: ['Apoc'],
+    '1CO': ['1 Corinth'], '2CO': ['2 Corinth'], '1TH': ['1 Thes'], '2TH': ['2 Thes']
+  };
+  const RNAME2ID = new Map(NAME2ID), RDOT = new Set(); for (const [id, ns] of Object.entries(RNAMES)) for (const n of ns) { RNAME2ID.set(n, id); RDOT.add(n); }
+  const rnames = [...RNAME2ID.keys()].sort((a, b) => b.length - a.length).map(esc).join('|');
+  const RN = '(?=[ivxlc])c?(?:xc|xl|l?x{0,3})(?:ix|iv|v?i{0,3})';   // a well-formed lower-case numeral; its value is checked (1-150) below
+  const rval = s => { const v = { i: 1, v: 5, x: 10, l: 50, c: 100 }; let n = 0; for (let i = 0; i < s.length; i++) { const a = v[s[i]], b = v[s[i + 1]] || 0; n += a < b ? -a : a; } return n; };
+  const rok = s => { const n = rval(s); return n >= 1 && n <= 150 ? n : 0; };
+  // optional "1 S." / "1 St." before the name ("1 St. John i. 1", "1 S. Pet. ii. 8"): the numbered epistle; then name, period and/or space,
+  // Roman chapter, period, verse (a/b/c), optional range ("19-22", "6--8", "23-ix. 1"), optional f./ff.
+  const RDASH = '[-–—]{1,2}';
+  const rbases = [...new Set([...RNAME2ID.keys()].filter(n => /^(?:[1-4]|I{1,3}) \S/.test(n)).map(n => n.replace(/^\S+ /, '')))].sort((a, b) => b.length - a.length).map(esc).join('|');
+  const ROMANRE = new RegExp(`(?<![\\p{L}\\d])(?:([1-3]|I{1,3})\\s?St?\\.?\\s(${rbases})|(${rnames}))(?:(\\.)\\s?|\\s)(${RN})\\.\\s?(\\d{1,3})[abc]?(?:\\s?${RDASH}\\s?(?:(${RN})\\.\\s?)?(\\d{1,3})[abc]?)?(?:\\s?ff?\\.?(?![\\p{L}]))?(?![\\p{L}\\d]|[.:]\\d)`, 'gu');
+  // continuation: "; xv. 3" or ", xvi. 3" (new chapter, same book), ", 4" (next verse, same chapter), with ranges
+  const RCONT = new RegExp(`^(\\s?[;,]\\s?(?:and\\s)?)(?:(${RN})\\.\\s?)?(\\d{1,3})[abc]?(?:\\s?${RDASH}\\s?(?:(${RN})\\.\\s?)?(\\d{1,3})[abc]?)?(?:\\s?ff?\\.?(?![\\p{L}]))?(?![\\p{L}\\d]|[.:]\\d)`, 'u');
+  // books with no numbered namesake, so a digit before them is a footnote number ("2 Mark xii. 13-17" in Brandon's notes)
+  const NONUM = new Set(Object.keys(BOOKS).filter(id => !/^\d/.test(id) && !['JHN', 'EZR', 'BAR'].includes(id)));
   // spans not to touch: existing links, inline code, URLs, html, footnote refs [^n], page markers, block ids
   const protectedSpans = line => {
     const sp = [];
@@ -133,8 +158,56 @@ const B3 = (() => {
       push({ kind: 'zohar', block: `z${p}-${fol}${side}`, a: m.index, b: m.index + all.length, text: all });
     }
     for (const m of line.matchAll(AVOT)) push({ kind: 'avot', ch: +m[2], v: +m[3], a: m.index, b: m.index + m[0].length, text: m[0] });
+    // ---- Roman chapters (26 Oct 2026): looked for last, so they never displace a reference found above
+    for (const m of line.matchAll(ROMANRE)) {
+      const [all, num, base, nm, dot, rc, v, rc2, v2] = m;
+      // "1 St. John", "1 S. Pet.": the numbered book ("I" is read as 1), or nothing
+      const name = num ? (/\d/.test(num) ? num : String(num.length)) + ' ' + base.replace(/\s+/g, ' ') : nm.replace(/\s+/g, ' '), nameN = num ? base : name;
+      let id = RNAME2ID.get(name); if (!id) continue;
+      if (RDOT.has(name) && !dot) continue;   // the added abbreviations only with their period
+      const ch = rok(rc); if (!ch) continue;
+      const ch2 = rc2 ? rok(rc2) : null; if (rc2 && !ch2) continue;
+      const pre = line.slice(Math.max(0, m.index - 40), m.index), tail = line.slice(m.index + all.length);
+      // a number split by OCR ("Mark xii. 1 6)", "Rom. xi. 1 3-24", "Eph. i. 2 1 ,"); a digit that starts the next reference ("1 Cor.") is fine
+      if (/^\s\d(?!\d)(?!\s[A-Z])/.test(tail)) continue;
+      // a chapter cited alone, then the next footnote's number: "19 Gen. xxxvii. 20 Ex. ii. 14"
+      const fn = pre.match(/(?:^|[^\d.,:–-])(\d{1,4})\s(?:(?:Cf|cf|Comp|comp|See|see)\.?\s)?$/);
+      if (fn && !v2 && +v === +fn[1] + 1 && /^\s/.test(tail) && !new RegExp(`^\\s${+v}(?!\\d)`).test(tail)) continue;
+      // "3 John xviii. 3" in a footnote: no such chapter in 1-3 John, so the digit is the footnote's number and the book is John
+      let a0 = m.index, text = all;
+      if (!num && /^[1-3] John$/.test(name) && ch > (id === '1JN' ? 5 : 1)) { id = 'JHN'; a0 = m.index + 2; text = all.slice(2); }
+      // a numbered book we do not know ("2 Esdras", "I Jn"); not when the digit ends the reference before ("John v. 22; i. 3. 1 Cor. i. 24", "Gal. vi. 1, 2. 2 Tim. ii. 24")
+      if (!num && !NONUM.has(id) && !/(?:[ivxlc]\.\s?|\d[,;]\s?)[1-4]\\?\.\s$/.test(pre) && /(?:^|[^\p{L}\d])(?:[1-4]|I{1,3}|IV)\\?\.?\s$/u.test(pre.slice(-6))) continue;
+      if (/\b(?:First|Second|Third|Fourth|Fifth|1st|2nd|3rd|4th)\s$/i.test(pre)) continue;   // "Fourth Ezra vii. 29"
+      const g = pre.match(/([\p{L}]+)\.$/u); if (g && !/^(?:cf|Cf|see|See|eg|ie|vid|esp|ch|chap|vv?)$/.test(g[1])) continue;   // glued to an abbreviation
+      if (/\b(?:Rab|Rabbah|Midr|Mek|Mekh|Sifre|Sifra|Tanh|Tanḥ|Pesiq|Yalq|Hom|Homil|Comm|Com|Enarr|Tract|Exp|Expos|Quaest|Serm|Lect)\.\s$/.test(pre)) continue;
+      if (/\b(?:Hom|Homil|Comm|Com|Enarr|Tract|Exp|Expos|Serm|Lect|Tom|tom)\.?,?\s(?:in|on|super|ad)\s$/.test(pre)) continue;   // "Hom. in Mat. xxi. 8": a work cited by its title
+      if (/\b(?:Hist|Jur|Gr|Aquil|Symm|Theod)\.\s$/.test(pre)) continue;   // "Hist. Eccl. ix. 4", "Jur. Gr. Rom. v. 307", "Aquil. Ps. xliv. 2"
+      if (/^(?:Daniel|John|Mark|Luke|Matthew|Joshua|Isaiah|Amos|Jonah|Micah|Titus|James|Jude|Job|Ruth|Esther|Joel|Ezra|Nahum|Hosea)$/.test(nameN) && /(?:\bby|\bed\.|\btr\.|\bR\.|Rabbi|Dr\.|Prof\.)\s$/.test(pre)) continue;
+      const after = line.slice(m.index + all.length, m.index + all.length + 12);
+      const alt = /^\s?\((?:\d|[ivxlc]+\.\s?\d)/.test(after);   // "Ps. xliv. 3 (xlv. 2, English version)"
+      const r = { kind: 'bible', id, ch, v: +v, a: a0, b: m.index + all.length, text, range: v2 ? (ch2 ? `${ch2}:${v2}` : v2) : null, alt, dot: !!dot, name: id === 'JHN' ? 'John' : name, grp: a0, roman: true };
+      push(r);
+      if (!out.includes(r) || ch2) continue;   // not taken, or a range across chapters: what follows is ambiguous
+      let pos = r.b, chap = ch, lastV = v2 ? +v2 : +v;
+      for (let k = 0; k < 12; k++) {
+        const c = line.slice(pos).match(RCONT); if (!c) break;
+        if (/^\s?nn?\.?\s?\d/.test(line.slice(pos + c[0].length))) break;
+        const [ca, lead, cr, n1, cr2, n2] = c; const a = pos + lead.length, b = pos + ca.length;
+        if (/^\s\d(?!\d)(?!\s[A-Z])/.test(line.slice(b))) break;   // split by OCR
+        if (cr) {
+          const nc = rok(cr); if (!nc) break; const nc2 = cr2 ? rok(cr2) : null; if (cr2 && !nc2) break;
+          chap = nc; lastV = n2 && !cr2 ? +n2 : +n1;
+          push({ kind: 'bible-list', id, ch: chap, v: +n1, a, b, text: ca.slice(lead.length), grp: r.grp, roman: true }); if (cr2) break;
+        } else {
+          if (cr2 || lead.includes(';') || opts.noVerseCont || +n1 <= lastV) break;
+          lastV = n2 ? +n2 : +n1; push({ kind: 'bible-verse', id, ch: chap, v: +n1, a, b, text: ca.slice(lead.length), grp: r.grp, roman: true });
+        }
+        pos = b;
+      }
+    }
     return out.sort((x, y) => x.a - y.a);
   };
-  return { BOOKS, TORAH, NT, DEUTERO, NAME2ID, find, foreign, italicAround, quoteAround, sentenceAround, scriptShare, roman };
+  return { BOOKS, TORAH, NT, DEUTERO, NAME2ID, RNAME2ID, find, foreign, italicAround, quoteAround, sentenceAround, scriptShare, roman, rval };
 })();
 if (typeof module !== 'undefined') module.exports = B3;

@@ -56,34 +56,34 @@ For in the case of Israel, this soul of the *kelipah* is derived from *kelipat n
 
 The souls of the nations of the world, however, emanate from the other, unclean *kelipot* which contain no good whatsoever, as is written in *Etz Chaim*, Portal 49, ch. 3, that all the good that the nations do is done from selfish motives. So the Gemara[^30] comments on the verse, “The kindness of the nations is sin”[^31]—that all the charity and kindness done by the nations of the world is only for their own self-glorification, and so on.
 
-[^1]: [[Niddah 30#30b|*Niddah* 30b]]. The “oath” is also explained in terms of a delegation of power to the soul so that it be able to fulfill its destiny in life on earth. Cf. *Kitzurim V’Hearot L’Sefer Likkutei Amarim*, ed. Rabbi Menachem Mendel of Lubavitch (Kehot, 1948; 1989), pp. 66f.
+[^1]: *Niddah* [[Niddah 30#30b|30b]]. The “oath” is also explained in terms of a delegation of power to the soul so that it be able to fulfill its destiny in life on earth. Cf. *Kitzurim V’Hearot L’Sefer Likkutei Amarim*, ed. Rabbi Menachem Mendel of Lubavitch (Kehot, 1948; 1989), pp. 66f.
 [^2]: *Avot* 2:13.
 [^3]: The apparent contradiction between the two sources is explained in ch. 13. The meaning of both the *Baraita* and Mishnah is expounded in chs. 13, 14, 29, and 34.
-[^4]: [[Berakhot 7#7a|*Berachot* 7a]]; cf. [[Rosh Hashanah 16#16b|*Rosh Hashanah* 16b]].
+[^4]: *Berachot* [[Berakhot 7#7a|7a]]; cf. *Rosh Hashanah* [[Rosh Hashanah 16#16b|16b]].
 [^5]: The author borrows this term for the alternative name of his work, *Sefer shel Benonim*, but he uses the term in a different sense.
 [^6]: *Zohar* II:117b.
 [^7]: This is a play on the words rendered literally “the evil (belongs) to him,” i.e., he is master of the evil nature in him.
-[^8]: [[Berakhot 61#61b|*Berachot* 61b]].
+[^8]: *Berachot* [[Berakhot 61#61b|61b]].
 [^9]: Cf. beg. ch. 9.
-[^10]: Since there was none greater than Rabbah, it would mean that there was not even one *tzaddik* in the world, and all who are of lesser stature than Rabbah would be placed in the Book of the Wicked to be condemned to immediate death ([[Rosh Hashanah 16#16b|*Rosh Hashanah* 16b]]).
-[^11]: [[Bava Batra 16#16a|*Bava Batra* 16a]].
-[^12]: [[Niddah 16#16b|*Niddah* 16b]]. The answer to this question will be found in ch. 14.
-[^13]: Cf. [[Bava Metzia 86#86a|*Bava Metzia* 86a]].
-[^14]: [[Shevuot 39#39b|*Shevuot* 39b]].
-[^15]: [[Sanhedrin 99#99a|*Sanhedrin* 99a]].
+[^10]: Since there was none greater than Rabbah, it would mean that there was not even one *tzaddik* in the world, and all who are of lesser stature than Rabbah would be placed in the Book of the Wicked to be condemned to immediate death (*Rosh Hashanah* [[Rosh Hashanah 16#16b|16b]]).
+[^11]: *Bava Batra* [[Bava Batra 16#16a|16a]].
+[^12]: *Niddah* [[Niddah 16#16b|16b]]. The answer to this question will be found in ch. 14.
+[^13]: Cf. *Bava Metzia* [[Bava Metzia 86#86a|86a]].
+[^14]: *Shevuot* [[Shevuot 39#39b|39b]].
+[^15]: *Sanhedrin* [[Sanhedrin 99#99a|99a]].
 [^16]: [[Torah 37 - Sh'lach#^15-31|Numbers 15:31]].
 [^17]: The reiteration of the sin of neglect of Torah study is due to its prevalent nature and the difficulty of avoiding it completely (cf. end ch. 25). The author is emphasizing that the *benoni* is innocent even of this and certainly of transgressions more easily avoidable.
 [^18]: THE CONTRADICTION IS IN THE IMPLICATION THAT “FEW SINS” ARE NOT INCONSISTENT WITH THE RANK OF *TZADDIK*.
 [^19]: HENCE THE REASON FOR RAV HAMNUNA’S QUERY. *OTIOT D’RABBI AKIVA*: COMP. *BAMIDBAR RABBAH* 14:12.
-[^20]: Cf. Maimonides, *Hilchot Teshuvah* 3:1; *Rashi*, [[Rosh Hashanah 16#16b|*Rosh Hashanah* 16b]].
-[^21]: [[Berakhot 61#61b|*Berachot* 61b]].
+[^20]: Cf. Maimonides, *Hilchot Teshuvah* 3:1; *Rashi*, *Rosh Hashanah* [[Rosh Hashanah 16#16b|16b]].
+[^21]: *Berachot* [[Berakhot 61#61b|61b]].
 [^22]: [[Psalms 109#^109-22|Psalms 109:22]].
 [^23]: Cf. beg. ch. 9.
-[^24]: Cf. [[Yoma 38#38b|*Yoma* 38b]].
+[^24]: Cf. *Yoma* [[Yoma 38#38b|38b]].
 [^25]: [[Proverbs 10#^10-25|Proverbs 10:25]].
 [^26]: Hebrew text should read וכדכתיב instead of דכתיב as amended (see *Luach HaTikkun*), because the Biblical text is here only loosely interpreted, for the word “souls” refers to the collective noun, not to two souls.
 [^27]: [[Isaiah 57#^57-16|Isaiah 57:16]].
 [^28]: [[Torah 29 - Achrei Mot#^17-11|Leviticus 17:11]].
 [^29]: Cf. *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|I:12b]].
-[^30]: [[Bava Batra 10#10b|*Bava Batra* 10b]].
+[^30]: *Bava Batra* [[Bava Batra 10#10b|10b]].
 [^31]: [[Proverbs 14#^14-34|Proverbs 14:34]].

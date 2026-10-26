@@ -27,7 +27,7 @@ tasya me sarvaśiṣyasya nopadeśadaridratā || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#^pg358|p. 336]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=358>))
 >
-> The venerable teacher Kallaṭa has said: ‘I, who have had (many) teachers from Tapana to Moṭaka, and have been the disciple of all, am not poor in the teachings. (with 13.344–345ab)
+> The venerable teacher Kallaṭa has said: ‘I, who have had (many) teachers from Tapana to Moṭaka, and have been the disciple of all, am not poor in the teachings.’ (with 13.344–345ab)
 
 ## Viveka
 

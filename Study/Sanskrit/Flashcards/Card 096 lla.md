@@ -20,16 +20,13 @@ nyasa: "la: flesh (*māṃsa*)"
 ## Front
 
 - **Glyph:** ल्ल
-- **Variation:** ल्ल (another form: la stacked over la)
 - **Example:** फुल्ल
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** As in ‘phulla’ (opened)
-- **Class (as printed):** —
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: ल
-- **Example:** phulla (opened)
+> [!note]- Back
+> - **Pronunciation:** As in ‘phulla’ (opened)
+> - **Variation:** ल्ल (another form: la stacked over la)
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / य र <u>ल</u> व / श ष स ह
+> - **Example:** phulla (opened)
 
 ## Register
 

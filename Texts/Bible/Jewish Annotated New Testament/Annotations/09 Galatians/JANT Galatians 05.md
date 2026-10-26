@@ -12,7 +12,7 @@ source: "Oxford University Press 2017 (2nd ed.; ISBN 978-0-19-046185-0); Stephen
 
 Text: [[NRSVue Galatians 05|NRSVue]] · [[Galatians 05|BSB and SBLGNT]] · Introduction: [[JANT Galatians - Introduction]]
 
-**[[NRSVue Galatians 05#^5-1|5.1]]:** *Yoke of slavery*, Torah observance. See [[Acts 15#^15-10|Acts 15.10]]. Rabbinic literature too occasionally refers to Torah piety as the “yoke of the commandments” (*m. Ber.* 2.2; *Sifra* on [[Torah 26 - Shmini#^11-43|Lev 11.43]]) or “the yoke of the kingdom of heaven” (*m. Ber.* 2.2; [[Berakhot 14#14b|*b. Ber.* 14b]]), but for the rabbis this rhetoric serves to justify not the rejection of the commandments, as in Paul, but their affirmation. By observing the commandments we find favor with God. “A person is truly free only when he busies himself with the study of Torah,” says *m. Avot* 6.2. See 2.4n. ^5-1
+**[[NRSVue Galatians 05#^5-1|5.1]]:** *Yoke of slavery*, Torah observance. See [[Acts 15#^15-10|Acts 15.10]]. Rabbinic literature too occasionally refers to Torah piety as the “yoke of the commandments” (*m. Ber.* 2.2; *Sifra* on [[Torah 26 - Shmini#^11-43|Lev 11.43]]) or “the yoke of the kingdom of heaven” (*m. Ber.* 2.2; *b. Ber.* [[Berakhot 14#14b|14b]]), but for the rabbis this rhetoric serves to justify not the rejection of the commandments, as in Paul, but their affirmation. By observing the commandments we find favor with God. “A person is truly free only when he busies himself with the study of Torah,” says *m. Avot* 6.2. See 2.4n. ^5-1
 
 ### 5.2–12: Resisting circumcision
 
@@ -30,7 +30,7 @@ Text: [[NRSVue Galatians 05|NRSVue]] · [[Galatians 05|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Galatians 05#^5-8|8]]:** *One who calls*, God, see 1.6n. ^5-8
 
-**[[NRSVue Galatians 05#^5-9|9]]:** [[1 Corinthians 05#^5-6|1 Cor 5.6]] records the same proverb. Agents of change can be effective even if small. Since leaven can be a symbol of corruption ([[Matthew 16#^16-5|Mt 16.5–12]]; [[1 Corinthians 05#^5-7|1 Cor 5.7]]; [[Berakhot 17#17a|*b. Ber.* 17a]]), the proverb might have a negative valence. However, by itself the proverb is neutral. Rabbinic sages also observed that a little bit of leaven goes a long way ([[Berakhot 34#34a|*b. Ber.* 34a]]). ^5-9
+**[[NRSVue Galatians 05#^5-9|9]]:** [[1 Corinthians 05#^5-6|1 Cor 5.6]] records the same proverb. Agents of change can be effective even if small. Since leaven can be a symbol of corruption ([[Matthew 16#^16-5|Mt 16.5–12]]; [[1 Corinthians 05#^5-7|1 Cor 5.7]]; *b. Ber.* [[Berakhot 17#17a|17a]]), the proverb might have a negative valence. However, by itself the proverb is neutral. Rabbinic sages also observed that a little bit of leaven goes a long way (*b. Ber.* [[Berakhot 34#34a|34a]]). ^5-9
 
 **[[NRSVue Galatians 05#^5-11|11]]:** *Still being persecuted* by fellow Jews (see 6.12n.). *If I am still preaching circumcision?* Apparently Paul’s opponents alleged that he did not really oppose circumcision, and that therefore the Galatian believers in Christ should become circumcised if they wished to join God’s people. *Offense* (Gk “skandalon”), lit., “obstacle, stumbling block.” Jesus’ crucifixion is an offense to Torah observant Jews, whether or not they are believers in Christ, because the crucifixion of Jesus meant for Paul that Jews could associate freely with Gentiles; were the Galatians to submit to circumcision/the Law, then the offense to Jews would end. See [[1 Corinthians 01#^1-23|1 Cor 1.23]]. It is possible that the “stumbling block” is the belief that the Messiah died on a cross, but that explanation does not seem to fit the flow of the passage. ^5-11
 
@@ -40,7 +40,7 @@ Text: [[NRSVue Galatians 05|NRSVue]] · [[Galatians 05|BSB and SBLGNT]] · Intro
 
 *[[NRSVue Galatians 05#^5-13|Text]], p. 385* · Although not under the Law, the Galatians should not abuse that freedom by yielding to temptation or strife. ^5-13
 
-**[[NRSVue Galatians 05#^5-14|14]]:** *Summed up*, lit., “fulfilled,” see [[Romans 08#^8-4|Rom 8.4]]. *Love your neighbor as yourself*, [[Torah 30 - Kedoshim#^19-18|Lev 19.18]], see also [[Romans 13#^13-8|Rom 13.8–10]]; Paul does not seem to know that Jesus is reputed to have said something very similar ([[Matthew 22#^22-34|Mt 22.34–40]]). Rabbinic literature attributes analogous sentiments to Hillel ([[Shabbat 31#31a|*b. Shabb.* 31a]]) and to R. Akiva (*Sifra Qedoshim* 2, *Gen. Rab.* 24) (see “The Concept of Neighbor,” p. 645). ^5-14
+**[[NRSVue Galatians 05#^5-14|14]]:** *Summed up*, lit., “fulfilled,” see [[Romans 08#^8-4|Rom 8.4]]. *Love your neighbor as yourself*, [[Torah 30 - Kedoshim#^19-18|Lev 19.18]], see also [[Romans 13#^13-8|Rom 13.8–10]]; Paul does not seem to know that Jesus is reputed to have said something very similar ([[Matthew 22#^22-34|Mt 22.34–40]]). Rabbinic literature attributes analogous sentiments to Hillel (*b. Shabb.* [[Shabbat 31#31a|31a]]) and to R. Akiva (*Sifra Qedoshim* 2, *Gen. Rab.* 24) (see “The Concept of Neighbor,” p. 645). ^5-14
 
 ### 5.16–26: Living by the Spirit
 

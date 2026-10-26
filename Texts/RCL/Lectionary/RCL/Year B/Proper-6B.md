@@ -11,6 +11,7 @@ second_reading: "2 Corinthians 5:6-10, (11-13), 14-17"
 gospel: "Mark 4:26-34"
 first_reading_complementary: "Ezekiel 17:22-24"
 psalm_complementary: "Psalm 92:1-4, 12-15"
+psalm_bcp_complementary: "Psalm 92:1-4, 11-14"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-6]]"
 cssclasses:

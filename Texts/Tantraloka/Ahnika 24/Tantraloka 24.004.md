@@ -27,7 +27,7 @@ antyeṣṭidīkṣā kāryeti śrīdīkṣottaraśāsane || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#^pg363|p. 343]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=363>))
 >
-> (It is said in) the Dīkṣottaraśāsana that: ‘The initiation (in the form of a) funerary rite must be performed for one who, due to (his) negligence, has fallen, and there are defects in (his) observance of the Rule.
+> (It is said in) the Dīkṣottaraśāsana that: ‘The initiation (in the form of a) funerary rite must be performed for one who, due to (his) negligence, has fallen, and there are defects in (his) observance of the Rule.’
 
 ## Viveka
 

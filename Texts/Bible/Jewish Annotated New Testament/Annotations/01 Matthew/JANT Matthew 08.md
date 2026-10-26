@@ -20,9 +20,9 @@ Text: [[NRSVue Matthew 08|NRSVue]] · [[Matthew 08|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 08#^8-1|1]]:** *Down from the mountain*, Jesus, like Moses, descends ([[Torah 21 - Ki Tisa#^34-29|Ex 34.29]]; see also 5.1–2n.). Moses received divine commandments; Jesus interprets them. ^8-1-3
 
-**[[NRSVue Matthew 08#^8-2|2]]:** *A leper*, biblical leprosy, a scaly skin disease (not Hansen’s disease, what we now call leprosy), created serious ritual impurity ([[Torah 24 - Vayikra#^5-2|Lev 5.2–6]]; 13–14; Num 12; [[Sanhedrin 47#47a|*b. Sanh.* 47a]]*; b. Hor*. 10a; [[Nedarim 64#64b|*b. Ned*. 64b]]; the rabbis considered a person suffering leprosy to be in a state of death). Curing leprosy indicates a prophetic role ([[II Kings 05#^5-8|2 Kings 5.8]]), missionary work (10.8), and an eschatological sign (11.5). ^8-2
+**[[NRSVue Matthew 08#^8-2|2]]:** *A leper*, biblical leprosy, a scaly skin disease (not Hansen’s disease, what we now call leprosy), created serious ritual impurity ([[Torah 24 - Vayikra#^5-2|Lev 5.2–6]]; 13–14; Num 12; *b. Sanh.* [[Sanhedrin 47#47a|47a]]*; b. Hor*. 10a; *b. Ned*. [[Nedarim 64#64b|64b]]; the rabbis considered a person suffering leprosy to be in a state of death). Curing leprosy indicates a prophetic role ([[II Kings 05#^5-8|2 Kings 5.8]]), missionary work (10.8), and an eschatological sign (11.5). ^8-2
 
-**[[NRSVue Matthew 08#^8-3|3]]:** *Touched him,* rabbinic sources mention healing by touch (e.g., [[Berakhot 5#5b|*b. Ber*. 5b]]). No law forbids touching people with leprosy. ^8-3
+**[[NRSVue Matthew 08#^8-3|3]]:** *Touched him,* rabbinic sources mention healing by touch (e.g., *b. Ber*. [[Berakhot 5#5b|5b]]). No law forbids touching people with leprosy. ^8-3
 
 **[[NRSVue Matthew 08#^8-4|4]]:** *Say nothing*, the messianic secret; see Introduction to Mark’s gospel, p. 67. *Show yourself to the priest*, to be pronounced clean. *Gift that Moses commanded*, [[Torah 28 - Metzora#^14-2|Lev 14.2–9]]. *Testimony to them*, the priests. *and easy* b Gk *he* c The terms *leper* and *leprosy* can refer to several diseases ^8-4
 
@@ -52,9 +52,9 @@ Text: [[NRSVue Matthew 08|NRSVue]] · [[Matthew 08|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 08#^8-15|15]]:** *Touched her hand*, typical healing gesture. Jesus violates no ritual law or social rule. *To serve*, Gk “diakonein,” whence the English “deacon,” can connote ministerial service. ^8-15
 
-**[[NRSVue Matthew 08#^8-16|16]]:** 8.28–34. *Demons . . . spirits*, see [[Torah 29 - Achrei Mot#^16-8|Lev 16.8]],[[Torah 29 - Achrei Mot#^16-10|10]],[[Torah 29 - Achrei Mot#^16-26|26]]; [[Isaiah 13#^13-21|Isa 13.21]]; [[Isaiah 34#^34-14|34.14]]; [[LXX Tobit 06#^6-7|Tob 6.7–8]],[[LXX Tobit 06#^6-16|16–17]]; [[LXX Tobit 08#^8-2|8.2–3]]; 1QM 13.11–12; [[Gittin 70#70a|*b. Git*. 70a]]; [[Berakhot 6#6a|*b. Ber*. 6a]]; Josephus, *Ant*. 8.45–49; *Jub*. 10.10–13. ^8-16
+**[[NRSVue Matthew 08#^8-16|16]]:** 8.28–34. *Demons . . . spirits*, see [[Torah 29 - Achrei Mot#^16-8|Lev 16.8]],[[Torah 29 - Achrei Mot#^16-10|10]],[[Torah 29 - Achrei Mot#^16-26|26]]; [[Isaiah 13#^13-21|Isa 13.21]]; [[Isaiah 34#^34-14|34.14]]; [[LXX Tobit 06#^6-7|Tob 6.7–8]],[[LXX Tobit 06#^6-16|16–17]]; [[LXX Tobit 08#^8-2|8.2–3]]; 1QM 13.11–12; *b. Git*. [[Gittin 70#70a|70a]]; *b. Ber*. [[Berakhot 6#6a|6a]]; Josephus, *Ant*. 8.45–49; *Jub*. 10.10–13. ^8-16
 
-**[[NRSVue Matthew 08#^8-17|17]]:** [[Isaiah 53#^53-4|Isa 53.4]]. The “suffering servant” motif is linked elsewhere to the redemption from sin (see 5.4n.; [[1 Peter 02#^2-18|1 Pet 2.18–25]]); in [[Berakhot 5#5a|*b. Ber*. 5a]] the rabbis seem to indicate that Israel is the suffering servant whom God will redeem, possibly in the messianic era; see also [[Sanhedrin 98#98a|*b. Sanh*. 98a]]. ^8-17
+**[[NRSVue Matthew 08#^8-17|17]]:** [[Isaiah 53#^53-4|Isa 53.4]]. The “suffering servant” motif is linked elsewhere to the redemption from sin (see 5.4n.; [[1 Peter 02#^2-18|1 Pet 2.18–25]]); in *b. Ber*. [[Berakhot 5#5a|5a]] the rabbis seem to indicate that Israel is the suffering servant whom God will redeem, possibly in the messianic era; see also *b. Sanh*. [[Sanhedrin 98#98a|98a]]. ^8-17
 
 ### 8.18–34: Stilling the storm and casting out demons
 
@@ -62,9 +62,9 @@ Text: [[NRSVue Matthew 08|NRSVue]] · [[Matthew 08|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 08#^8-19|19]]:** *Scribe*, see 7.28–29n. ^8-19
 
-**[[NRSVue Matthew 08#^8-20|20]]:** *Son of Man*, see 16.27; see also [[Psalms 062#^62-13|Ps 62.13]]; [[Proverbs 24#^24-12|Prov 24.12]]; [[Romans 02#^2-6|Rom 2.6]]; [[1 John 02#^2-28|1 Jn 2.28]]; [[Revelation 02#^2-23|Rev 2.23]]; [[Revelation 22#^22-12|22.12]]. Rabbinic sources, following [[Daniel 07#^7-13|Dan 7.13–14]], use the phrase in an eschatological sense linked to the Messiah ([[Sanhedrin 98#98a|*b. Sanh*. 98a]], “And behold, the son of man came with the clouds of heaven”; cf. 10.23n.). See “Supernatural Beings,” p. 682. ^8-20
+**[[NRSVue Matthew 08#^8-20|20]]:** *Son of Man*, see 16.27; see also [[Psalms 062#^62-13|Ps 62.13]]; [[Proverbs 24#^24-12|Prov 24.12]]; [[Romans 02#^2-6|Rom 2.6]]; [[1 John 02#^2-28|1 Jn 2.28]]; [[Revelation 02#^2-23|Rev 2.23]]; [[Revelation 22#^22-12|22.12]]. Rabbinic sources, following [[Daniel 07#^7-13|Dan 7.13–14]], use the phrase in an eschatological sense linked to the Messiah (*b. Sanh*. [[Sanhedrin 98#98a|98a]], “And behold, the son of man came with the clouds of heaven”; cf. 10.23n.). See “Supernatural Beings,” p. 682. ^8-20
 
-**[[NRSVue Matthew 08#^8-21|21–22]]:** [[Luke 09#^9-57|Lk 9.57–62]]. *Bury my father*, cf. [[I Kings 19#^19-19|1 Kings 19.19–21]]. Jews observed a seven-day period of mourning (Heb “shiva,” “seven”; [[LXX Judith 16#^16-24|Jdt 16.24]]; [[LXX Sirach 22#^22-12|Sir 22.12]]; *Apoc. Mos*. 43.3; [[Sanhedrin 47#47b|*b. Sanh*. 47b]]). *Let the dead bury their own dead*, Jewish sources note the prime importance of accompanying a corpse to burial ([[Berakhot 18#18a|*b. Ber*. 18a]], cit- *even* ing [[Proverbs 17#^17-5|Prov 17.5]]); [[Torah 05 - Chayei Sara#^25-9|Gen 25.9]] states that Abraham’s sons bury him; [[LXX Tobit 06#^6-13|Tob 6.13–15]] includes a story about a son who worried that if he died there would be no one to bury his parents. ^8-21
+**[[NRSVue Matthew 08#^8-21|21–22]]:** [[Luke 09#^9-57|Lk 9.57–62]]. *Bury my father*, cf. [[I Kings 19#^19-19|1 Kings 19.19–21]]. Jews observed a seven-day period of mourning (Heb “shiva,” “seven”; [[LXX Judith 16#^16-24|Jdt 16.24]]; [[LXX Sirach 22#^22-12|Sir 22.12]]; *Apoc. Mos*. 43.3; *b. Sanh*. [[Sanhedrin 47#47b|47b]]). *Let the dead bury their own dead*, Jewish sources note the prime importance of accompanying a corpse to burial (*b. Ber*. [[Berakhot 18#18a|18a]], cit- *even* ing [[Proverbs 17#^17-5|Prov 17.5]]); [[Torah 05 - Chayei Sara#^25-9|Gen 25.9]] states that Abraham’s sons bury him; [[LXX Tobit 06#^6-13|Tob 6.13–15]] includes a story about a son who worried that if he died there would be no one to bury his parents. ^8-21
 
 **[[NRSVue Matthew 08#^8-23|23–27]]:** [[Mark 04#^4-35|Mk 4.35–41]]; [[Luke 08#^8-22|Lk 8.22–25]]. ^8-23
 

@@ -27,7 +27,7 @@ nāsāṃ netradvayaṃ cāpi hṛtstanadvayameva ca || ^iast
 > [!source] Dyczkowski, vol. XI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)/Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#^pg176|p. 158]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 11.pdf#page=176>))
 >
-> Mudrās are indeed powers, (and are so called because,) having liberated (muktvā) from transmigratory existence (bhava), they melt away (drāvayanti) the fetters. Of these, the main one is the Skyfarer, which is of three kinds. (Of these three, its) the vocalic (form is produced) by utterance. O Goddess, the bodily one is called ‘the Hammer with Three Heads’. “ (with 32.49–50ab)
+> Mudrās are indeed powers, (and are so called because,) having liberated (muktvā) from transmigratory existence (bhava), they melt away (drāvayanti) the fetters. Of these, the main one is the Skyfarer, which is of three kinds. (Of these three, its) the vocalic (form is produced) by utterance. O Goddess, the bodily one is called ‘the Hammer with Three Heads’. (with 32.49–50ab)
 >
 > Having reached the nose, the two eyes, the heart, the two breasts, the two testicles and the penis, this (mudrā) is present (in all) the body. One should ascertain the abode of transmigration and the abode of its absence by the upward movement (uccārena) (of Mudrā). This is the mental (form of the Seal of the Skyfarer). (with 32.50cd–52a)
 

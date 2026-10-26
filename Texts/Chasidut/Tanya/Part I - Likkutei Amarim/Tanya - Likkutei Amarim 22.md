@@ -36,7 +36,7 @@ Therefore, also, it is termed “other gods,” since it constitutes actual idol
 
 That is why the rabbis, of blessed memory, said that arrogance truly compares with idolatry,[^9] for the essence and root of idolatry is that it is regarded as a thing in itself, sundered from the holiness of the Omnipresent; it does not imply an outright denial of G–d, as is stated in the Gemara that they [the heathens] call Him “the G–d of gods,”[^10] thus only presuming themselves also to be entities and independent beings. But thereby they separate themselves from the Omnipresent, blessed is He, since they do not surrender themselves to Him, blessed be He. For the supernal holiness rests only on what is surrendered to Him, blessed be He, as is explained above.[^11] Therefore they are called in the holy *Zohar*[^12] “peaks of separation.” But this constitutes a denial of His true unity, where everything is as nothing compared with Him and truly nullified before Him, blessed be He, and before His will, which animates them all and constantly gives them existence out of nothing.
 
-[^1]: [[Berakhot 22#22a|*Berachot* 22a]].
+[^1]: *Berachot* [[Berakhot 22#22a|22a]].
 [^2]: Hebrew text should read נקראים instead of נקרא.
 [^3]: A gloss based on the words אחוריים – אחרים.
 [^4]: A gloss based on the words פנימיות – פנים.
@@ -44,7 +44,7 @@ That is why the rabbis, of blessed memory, said that arrogance truly compares wi
 [^6]: Ch. 19.
 [^7]: [[Isaiah 47#^47-8|Isaiah 47:8]]; [[Zephaniah 2#^2-15|Zephaniah 2:15]].
 [^8]: The quotation is a combination of [[Ezekiel 29#^29-9|Ezekiel 29:9]] and 29:3.
-[^9]: [[Sotah 4#4b|*Sotah* 4b]].
-[^10]: [[Menachot 110#110a|*Menachot* 110a]].
+[^9]: *Sotah* [[Sotah 4#4b|4b]].
+[^10]: *Menachot* [[Menachot 110#110a|110a]].
 [^11]: Ch. 6.
 [^12]: [[Zohar 2.06 - Parashat Va-Yetse#^z1-158a|I:158a]].

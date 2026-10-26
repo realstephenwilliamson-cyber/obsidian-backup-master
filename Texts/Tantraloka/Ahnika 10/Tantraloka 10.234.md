@@ -27,7 +27,7 @@ saṅkalparūpe bāhyasya tadadhiṣṭhātṛ bodhakam || ^iast
 > [!source] Dyczkowski, vol. VI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)/Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#^pg462|p. 443]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 06.pdf#page=462>))
 >
-> That (imagined) colour blue that manifests in that way within one’s (own) awareness, which is the conscious intent (sarrkalparūpa) (to imagine it), is the sustaining noetic consciousness (adhiṣthātr bodhaka) of the (supposed) outer (blue). However, (the state in which) the blue that manifests externally (outside the perceiver) has no sustaining subjectivity of any kind is said be the waking state.’ (with 10.234–235)
+> That (imagined) colour blue that manifests in that way within one’s (own) awareness, which is the conscious intent (sarrkalparūpa) (to imagine it), is the sustaining noetic consciousness (adhiṣthātr bodhaka) of the (supposed) outer (blue). However, (the state in which) the blue that manifests externally (outside the perceiver) has no sustaining subjectivity of any kind is said be the waking state. (with 10.234–235)
 
 ## Viveka
 

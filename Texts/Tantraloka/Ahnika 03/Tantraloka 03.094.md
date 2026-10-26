@@ -30,7 +30,7 @@ anuttarānandacitī icchāśaktau niyojite || ^iast
 > [!source] Dyczkowski, vol. II
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 02 (Dyczkowski)/Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#^pg213|p. 197]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 02.pdf#page=213>))
 >
-> The Absolute (A), which is the supreme vibration (spanda) (of consciousness), and bliss (ānanda — &), pouring out of itself (samucchalan), become wonderfully various by union (sañghatta) with (the powers of) the will (icchā, I) and expansion (unmeṣa, U) (that is, knowledge). (with 3.93cd–94ab)
+> The Absolute (A), which is the supreme vibration (spanda) (of consciousness), and bliss (ānanda — Ā), pouring out of itself (samucchalan), become wonderfully various by union (sañghatta) with (the powers of) the will (icchā, I) and expansion (unmeṣa, U) (that is, knowledge). (with 3.93cd–94ab)
 >
 > When the consciousness of the Absolute (A) and of Bliss (Ā) are conjoined to the power of the will (T), that is said to be the Triangle (E), beautiful with the fragrance of emission. (with 3.94cd–95ab)
 

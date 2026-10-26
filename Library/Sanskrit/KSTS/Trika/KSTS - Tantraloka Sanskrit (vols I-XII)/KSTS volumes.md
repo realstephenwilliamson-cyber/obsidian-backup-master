@@ -256,4 +256,4 @@ The numbering follows the Muktabodha e-text, and so the verse notes. KSTS number
 ## Text layers and OCR
 
 - The scans' own text layers are poor. Vols. I–VI were run through an English OCR model, and their text is gibberish. Vols. VIII and X have no text. Vols. VII, IX, XI and XII have noisy Devanagari OCR.
-- In phase 2, every page was read with Tesseract 5 and its Sanskrit model, at 300 dpi for vols. I–IV and 200 dpi for the rest. That text was used to build the page map; it is not stored in the PDFs. Adding a searchable text layer is a job for phase 4 (PDFs to Markdown).
+- In phase 2, every page was read with Tesseract 5 and its Sanskrit model, at 300 dpi for vols. I–IV and 200 dpi for the rest. That text was used to build the page map; it is not stored in the PDFs.

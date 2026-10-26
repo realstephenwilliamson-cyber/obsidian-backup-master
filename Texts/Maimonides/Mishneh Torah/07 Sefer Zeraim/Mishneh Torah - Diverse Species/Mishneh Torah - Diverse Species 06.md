@@ -69,7 +69,7 @@ If, after [produce] was sown, the branches were extended and covered the produce
     The *Kessef Mishneh* also clarifies that here a smaller portion of the vineyard is forbidden than in the previous halachah, because the mixed species is not surrounded by the vineyard on all sides. Hence, only four cubits, the area is necessary to perform the work necessary for the vineyard, is forbidden.
 [^4]: The Radbaz adds that if one sows the vegetables or grain beyond the row of the vineyard, a four cubit portion of that area is also forbidden.
 [^5]: For this is the size of the area necessary to tend to a single vine (*Kilayim* 6:1).
-[^6]: This applies regardless of the species of crops sown there (in contrast to the opinion of Rashi, [[Sotah 43#43b|*Sotah* 43b]]) [*Kessef Mishneh*].
+[^6]: This applies regardless of the species of crops sown there (in contrast to the opinion of Rashi, *Sotah* [[Sotah 43#43b|43b]]) [*Kessef Mishneh*].
 [^7]: I.e., because the plants are small, planting them is not considered planting a "vineyard." See also *Hilchot Ma'aser Sheni* 10:19. It is possible to say that one should, however, keep a distance of six handbreadths between them and grain or vegetables, as stated in the previous halachah with regard to a single vine.
 [^8]: See Chapter 7, Halachah 7, which describes vines planted in this manner as "a small vineyard."
 [^9]: For this indicates that this person considers this as a vineyard; alternatively this is a Rabbinic safeguard, lest an observer think that planting other species is permissible in an ordinary vineyard (Radbaz).

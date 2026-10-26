@@ -53,7 +53,7 @@ From them flow and derive the souls of all the nations of the world, and the exi
 [^7]: [[Zohar 4.06 - Parashat Be-Shallah#^z2-59a|II:59a]].
 [^8]: A reinterpretation of רעות רוח.
 [^9]: *Avot* 3:6.
-[^10]: [[Sanhedrin 39#39a|*Sanhedrin* 39a]].
+[^10]: *Sanhedrin* [[Sanhedrin 39#39a|39a]].
 [^11]: Cf. note 25, ch. 2.
 [^12]: Cf. ch. 48; *Iggeret Hakodesh*, ch. 20.
 [^13]: Evil is thus conceived as a creation *ex nihilo*, like everything else, except that it was not created for its own sake; hence it is merely tolerated. The monistic aspect of creation, despite the apparent dualism in the world, is thus emphasized, particularly in ch. 24, below.

@@ -11,6 +11,7 @@ second_reading: "Ephesians 1:3-14"
 gospel: "Mark 6:14-29"
 first_reading_complementary: "Amos 7:7-15"
 psalm_complementary: "Psalm 85:8-13"
+psalm_bcp_complementary: "Psalm 85:8-13"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-10]]"
 cssclasses:

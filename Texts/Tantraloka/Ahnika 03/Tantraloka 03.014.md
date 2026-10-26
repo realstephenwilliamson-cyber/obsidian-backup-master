@@ -30,7 +30,7 @@ rūpaṃ dṛśyeta vadane nije na makurāntare || ^iast
 > [!source] Dyczkowski, vol. II
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 02 (Dyczkowski)/Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#^pg96|p. 80]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 02.pdf#page=96>))
 >
-> (Moreover, if these supposed) rays (of vision were to be) reflected back (in this way), when they assume the condition of the perceiver (grāhakātmatva)“" (who views himself in a mirror, he) should see (his own) form by means of them within his own face, not within the mirror.
+> (Moreover, if these supposed) rays (of vision were to be) reflected back (in this way), when they assume the condition of the perceiver (grāhakātmatva) (who views himself in a mirror, he) should see (his own) form by means of them within his own face, not within the mirror.
 
 ## Viveka
 

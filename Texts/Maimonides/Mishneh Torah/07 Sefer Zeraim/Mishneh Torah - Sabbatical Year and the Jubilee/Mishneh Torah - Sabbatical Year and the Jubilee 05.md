@@ -94,7 +94,7 @@ It is forbidden to cut off underdeveloped clusters of dates[^63] in the Sabbatic
 **23.** Straw and hay from the Sabbatical year should not be placed in a pillow or in mud.[^78] If one did place them there, they are considered as if they have been destroyed.[^79] When an oven has been heated with straw and hay from the Sabbatical year, it should be allowed to cool.[^80]  
 Once the second wave of rains[^81] descend in the eighth year, we are allowed to benefit from straw and hay of the Sabbatical year and use it for kindling.[^82] ^5-23
 
-[^1]: Drinking is considered as eating ([[Yoma 76#76b|*Yoma* 76b]]).
+[^1]: Drinking is considered as eating (*Yoma* [[Yoma 76#76b|76b]]).
 [^2]: See *Hilchot Sh'vitat Esor* 1:4-5; *Hilchot Terumot* 11:1, *Hilchot Ma'aser Sheni* 3:10 which equate smearing oneself with oil and drinking.
 [^3]: [[Torah 32 - Behar#^25-7|Leviticus 25:7]] states: "And for the animal and the beast in your land shall (*tihiyeh*) be all the produce to eat." The *Sifra* derives the above concept from this verse.
 [^4]: For these activities also bring direct benefit to man.

@@ -11,6 +11,7 @@ second_reading: "Romans 6:1b-11"
 gospel: "Matthew 10:24-39"
 first_reading_complementary: "Jeremiah 20:7-13"
 psalm_complementary: "Psalm 69:7-10, (11-15), 16-18"
+psalm_bcp_complementary: "Psalm 69:8-11, (12-17), 18-20"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-7]]"
 cssclasses:

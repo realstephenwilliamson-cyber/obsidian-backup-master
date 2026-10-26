@@ -27,7 +27,7 @@ pavitrakaṃ samastādhvaparipūrṇatvabhāvanāt || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#^pg87|p. 70]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=87>))
 >
-> Then, once it has been worshipped in accord with the particular procedure (required), the thread should be offered by meditating (bhāvanāt) that it is replete with all the Paths in their totality. (Two may be offered: one) to the teacher and (another) to oneself (i.e. the deity). Or else (there should be four, that extend) up to the knees, the navel, the neck and up to the top of the head.’
+> Then, once it has been worshipped in accord with the particular procedure (required), the thread should be offered by meditating (bhāvanāt) that it is replete with all the Paths in their totality. (Two may be offered: one) to the teacher and (another) to oneself (i.e. the deity). Or else (there should be four, that extend) up to the knees, the navel, the neck and up to the top of the head.
 
 ## Viveka
 

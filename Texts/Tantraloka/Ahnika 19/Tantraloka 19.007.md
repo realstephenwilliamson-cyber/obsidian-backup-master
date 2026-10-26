@@ -30,7 +30,7 @@ kuryādutkramaṇaṃ śrīmadgahvare ca nirūpitam || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 10 - Chapter Nineteen#^pg222|p. 202]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=222>))
 >
-> (The teacher) should not (impart the initiation that) causes one to exit (from the body) if (his) Impurity has not matured (and so is not ready to be removed), or to one who (still) has a residue of Karma left. It is said in the venerable Gahvara that ‘having observed that the disciple is consumed by old age and is severely afflicted by illness, (the teacher) should cause him to quit (the body) and then conjoin him to the Supreme Reality. (with 19.7–8)
+> (The teacher) should not (impart the initiation that) causes one to exit (from the body) if (his) Impurity has not matured (and so is not ready to be removed), or to one who (still) has a residue of Karma left. It is said in the venerable Gahvara that ‘having observed that the disciple is consumed by old age and is severely afflicted by illness, (the teacher) should cause him to quit (the body) and then conjoin him to the Supreme Reality.’ (with 19.7–8)
 
 ## Viveka
 

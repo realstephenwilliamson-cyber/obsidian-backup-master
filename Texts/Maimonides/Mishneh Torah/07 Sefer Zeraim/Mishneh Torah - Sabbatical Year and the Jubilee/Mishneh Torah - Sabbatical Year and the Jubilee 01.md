@@ -110,7 +110,7 @@ When a tree is split,[^68] it can be tied together in the Sabbatical year. [The 
 
 [^1]: *Sefer HaMitzvot* (positive commandment 135) and *Sefer HaChinuch* (mitzvah 112) includes this commandment among the 613 mitzvot of the Torah.  
     There is a difference of opinion among the commentaries if the mitzvah is incumbent on the *gavra* (the person himself) or on the land (the *cheftza*, the object). The commentaries note that the Rambam's wording in this halachah indicates that the mitzvah is on the person, he should rest. Nevertheless, the wording he uses when enumerating the mitzvot - that "the land should rest" - puts the emphasis on the land.
-[^2]: The citation of this verse reflects a general principle in the *Mishneh Torah*: that the Rambam will occasionally favor the understanding of a verse proposed by the Jerusalem Talmud even though the Babylonian Talmud interprets it otherwise. To explain: the Babylonian Talmud ([[Moed Katan 4#4a|*Mo'ed Kattan* 4a]]) inteprets this verse as a prohibition to work the land on the Sabbath. It is the Jerusalem Talmud (*Sh'vi'it* 1:3) which understands it as referring to the Sabbatical year.  
+[^2]: The citation of this verse reflects a general principle in the *Mishneh Torah*: that the Rambam will occasionally favor the understanding of a verse proposed by the Jerusalem Talmud even though the Babylonian Talmud interprets it otherwise. To explain: the Babylonian Talmud (*Mo'ed Kattan* [[Moed Katan 4#4a|4a]]) inteprets this verse as a prohibition to work the land on the Sabbath. It is the Jerusalem Talmud (*Sh'vi'it* 1:3) which understands it as referring to the Sabbatical year.  
     From Chapter 4, Halachah 1, it appears that here the Rambam is speaking of harvesting for the sake of improving the land, not for gathering its crops. The intent appears to be that harvesting produce will enable the land to produce better produce in the future.
 [^3]: This mitzvah is incumbent both on men and women.
 [^4]: *Sefer HaMitzvot* (negative commandment 220) and *Sefer HaChinuch* (mitzvah 326) include this commandment among the 613 mitzvot of the Torah.
@@ -120,7 +120,7 @@ When a tree is split,[^68] it can be tied together in the Sabbatical year. [The 
 [^8]: In [[Torah 32 - Behar#^25-5|Leviticus 25:5]]: "The aftergrowth of your harvest you shall not reap and the grapes you had designated you shall not gather."
 [^9]: And performing work with trees.
 [^10]: Plowing is explicitly mentioned in the positive commandment for observing the Sabbatical year, but not in the prohibition.  
-    Although [[Moed Katan 3#3a|*Mo'ed Kattan* 3a]] uses techniques of Biblical exegesis to show that other labors are forbidden, the Rambam considers these teachings merely as *asmachteot*, citing a verse as support for a concept forbidden by Rabbinic Law.
+    Although *Mo'ed Kattan* [[Moed Katan 3#3a|3a]] uses techniques of Biblical exegesis to show that other labors are forbidden, the Rambam considers these teachings merely as *asmachteot*, citing a verse as support for a concept forbidden by Rabbinic Law.
 [^11]: To improve the land, not because he needs the stones. See Chapter 2, Halachah 10.
 [^12]: Implants the head of a branch of a vine or tree in the ground so that roots will grow to improve its nurture.
 [^13]: In his Commentary to the Mishnah (*Sh'vi'it* 2:2), the Rambam writes that this is beneficial for certain trees.
@@ -135,9 +135,9 @@ When a tree is split,[^68] it can be tied together in the Sabbatical year. [The 
 [^22]: A fragrant herb, also used for medicinal purposes.
 [^23]: I.e., prevent them from being damaged. The Radbaz questions why the aloe plant is singled out; seemingly the same principle applies with regard to all plants. He explains that since the aloe grows on the roofs, it is in need of shade. Our Sages permitted a person to construct a shelter to protect the aloe from the sun. This is not considered as forbidden labor.
 [^24]: For that would promote their growth, not merely maintain them.
-[^25]: [[Chullin 78#78a|*Chulin* 78a]] states that this is intended to attract notice to the tree and cause people to pray that its fruit do not fall prematurely. This is permitted because it does not involve caring for the tree.
+[^25]: *Chulin* [[Chullin 78#78a|78a]] states that this is intended to attract notice to the tree and cause people to pray that its fruit do not fall prematurely. This is permitted because it does not involve caring for the tree.
 [^26]: This weakens the tree's strength and thus prevents it from causing its fruit to fall prematurely (*ibid.*). Since it weakens the tree, it is permitted.
-[^27]: The *Kessef Mishneh* quotes Rashi ([[Moed Katan 3#3a|*Mo'ed Kattan* 3a]]) who explains that the words *oder* and *kishkush* - used by hthe Rambam in this halachah - are synonymous. The difference is only with regard to the type of plants.
+[^27]: The *Kessef Mishneh* quotes Rashi (*Mo'ed Kattan* [[Moed Katan 3#3a|3a]]) who explains that the words *oder* and *kishkush* - used by hthe Rambam in this halachah - are synonymous. The difference is only with regard to the type of plants.
 [^28]: For otherwise all the trees in the field will die, as stated in Halachah 10.
 [^29]: *Hilchot Shabbat* 16:3 defines an area in which a *se'ah* of grain is sown as 50 cubits by 50 cubits. This leniency is permitted to make sure that the trees do not die.
 [^30]: Since it is unnecessary to do that to provide the individual trees with water.
@@ -178,7 +178,7 @@ When a tree is split,[^68] it can be tied together in the Sabbatical year. [The 
 [^64]: This is forbidden by Scriptural Law.
 [^65]: In his Commentary to the Mishnah (*Sh'vi'it* 4:7), the Rambam explains that there is no need for a deviation in the way he trims the branches, because he is not intending to trim the tree. To explain his statements: Although trimming is one of the activities forbidden by Scriptural Law, this refers to trimming the top of the tree, not the ends of its branches (*Tifferet Yisrael* to the above mishnah).
 [^66]: Our translation is taken from the Rambam's Commentary to the Mishnah (*Sh'vi'it* 5:5)].
-[^67]: For cutting these branches is not that beneficial to the tree ([[Bava Batra 80#80b|*Bava Batra* 80b]]).
+[^67]: For cutting these branches is not that beneficial to the tree (*Bava Batra* [[Bava Batra 80#80b|80b]]).
 [^68]: Here, also, our translation is taken from the Rambam's Commentary to the Mishnah (*Sh'vi'it* 5:5)], which quotes [[I Samuel 15#^15-33|I Samuel 15:33]] as support.
 [^69]: I.e., that the split will be healed. This is forbidden, because this would be improving the tree.
 [^70]: This is permitted, because this is maintaining the tree.

@@ -11,6 +11,7 @@ second_reading: "2 Timothy 3:14-4:5"
 gospel: "Luke 18:1-8"
 first_reading_complementary: "Genesis 32:22-31"
 psalm_complementary: "Psalm 121"
+psalm_bcp_complementary: "Psalm 121"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-24]]"
 cssclasses:

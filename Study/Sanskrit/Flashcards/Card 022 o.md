@@ -20,18 +20,13 @@ nyasa: "lower lip (*oṣṭha*)"
 ## Front
 
 - **Glyph:** ओ
-- **Variation:** a variant form, drawn only as a numbered stroke diagram (not copied here)
 - **Example:** ओजस्
-- **Card / Alpha (front):** (not legible in full) — the scan cuts the numerals off at the right edge; the printed values in the line above are from the back
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘y<u>o</u>ke’
-- **Class (as printed):** 1,5 · long, soft · complex vowel
-- **Note (no printed label):** Full form - used only to begin a word · Guṇa (stronger form) of u/ū (from a+u).
-- **Grid:** the vowels अ आ इ ई उ ऊ / ए ऐ ओ औ / ऋ ॠ ऌ; in bold: ओ
-- **Example:** ojas (vitality)
+> [!note]- Back
+> - **Pronunciation:** As in ‘y<u>o</u>ke’
+> - **Class:** long, soft · complex vowel · Guṇa (stronger form) of u/ū (from a+u).
+> - अ आ इ ई उ ऊ / ए ऐ <u>ओ</u> औ / ऋ ॠ ऌ
+> - **Example:** ojas (vitality)
 
 ## Register
 

@@ -483,7 +483,7 @@ As the name vyākarana suggests, at the heart of grammar is a “dissection” o
 27 
 
 catvāri śrṁgā trayo asya pādā dve śīrḷe sapta hastāso asya |
-tridhā baddho vrṣabho roravīti maho devo martyāň āviveśa ॥ (RV 4.58.3, quoted in: Mahābhāsya 1.1.1, ed. Bhārgava Śāstrī, 40)
+tridhā baddho vrṣabho roravīti maho devo martyām̐ āviveśa ॥ (RV 4.58.3, quoted in: Mahābhāsya 1.1.1, ed. Bhārgava Śāstrī, 40)
 
 *[p. 477]* ^pg501
 

@@ -20,17 +20,13 @@ nyasa: "forehead (*lalāṭa*)"
 ## Front
 
 - **Glyph:** अ
-- **Variation:** a variant form, drawn only as a numbered stroke diagram (not copied here)
 - **Example:** अग्नि
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘<u>a</u>nother’
-- **Class (as printed):** 1 (guttural) · short, soft · simple vowel
-- **Note (no printed label):** Full form - used only to begin a word. This has no abbreviated form.
-- **Grid:** the vowels अ आ इ ई उ ऊ / ए ऐ ओ औ; in bold: अ
-- **Example:** agni (fire)
+> [!note]- Back
+> - **Pronunciation:** As in ‘<u>a</u>nother’
+> - **Class:** guttural · short, soft · simple vowel · This has no abbreviated form.
+> - <u>अ</u> आ इ ई उ ऊ / ए ऐ ओ औ
+> - **Example:** agni (fire)
 
 ## Register
 

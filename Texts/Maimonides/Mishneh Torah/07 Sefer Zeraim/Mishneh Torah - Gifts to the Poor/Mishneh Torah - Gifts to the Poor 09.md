@@ -97,7 +97,7 @@ When does the above[^37] apply? Before he has descended to the level where he ta
 [^2]: The term literally means "container" and refers to the charity box in which donations were placed and by extension, to the fund financed by those collections.
 [^3]: In his Commentary to the Mishnah (*Keilim* 13:3), the Rambam defines this term as a pot with compartments.
 [^4]: So that the poor will have their Sabbath needs provided for.
-[^5]: On fast days, it was customary to distribute food to the poor after the evening service at the conclusion of the fast. Since the poor would look forward to this meal and rely on it to break their fast. If it was not provided to them, they would go to bed without food (Rashi, [[Sanhedrin 35#35a|*Sanhedrin* 35a]]).
+[^5]: On fast days, it was customary to distribute food to the poor after the evening service at the conclusion of the fast. Since the poor would look forward to this meal and rely on it to break their fast. If it was not provided to them, they would go to bed without food (Rashi, *Sanhedrin* [[Sanhedrin 35#35a|35a]]).
 [^6]: We have translated the verse according to the meaning with which it is employed by the Rambam. In its literal context, it would be translated differently.
 [^7]: Because regardless, this does not provide the poor with readily available food and they were not depending on it for their meal (Rashi, *loc. cit.*).
 [^8]: Three individuals are not necessary for we are speaking about a specific sum levied upon each person and there is no aspect of judgment involved (*Tosafot, Sanhedrin* 35a).
@@ -106,7 +106,7 @@ When does the above[^37] apply? Before he has descended to the level where he ta
 [^11]: I.e., including poor people from other places.
 [^12]: If, however, a stipulation was made that the funds donated be used for a specific charitable purpose, they may be used only for that purpose.
 [^13]: The Rama (*Yoreh De'ah* 256:4) states that this same law applies with regard to a charity collector appointed by the community.
-[^14]: In this way, no one will have the impression that the trustee misappropriated the money (Rashi, [[Bava Batra 9#9b|*Bava Batra* 9b]]).
+[^14]: In this way, no one will have the impression that the trustee misappropriated the money (Rashi, *Bava Batra* [[Bava Batra 9#9b|9b]]).
 [^15]: I.e., in a manner in which each remains in the other's sight (*Bava Batra, loc. cit.*).
 [^16]: Which as the discoverer he is entitled to keep for himself.
 [^17]: Lest people say that he is taking money from the charitable fund (Rashi, *loc. cit.*).
@@ -121,14 +121,14 @@ When does the above[^37] apply? Before he has descended to the level where he ta
 [^26]: This verse describes the practice conducted by King Josiah with regard to the money collected from the people for the renovation of the Temple. It, however, is understood as applying beyond immediate context and applying with regard to all those who oversee charitable funds.  
     The *Shulchan Aruch* (*Yoreh De'ah* 257:2) quotes the Rambam's ruling. The Rama adds that, in the spirit of the verse from Numbers cited above, it is desirable for a trustee to give an account. Moreover, he continues, the above applies only with regard to those trustees who have an honorable reputation and who were appointed to their position by the community. If a trustee does not have such a reputation or he seized his position by force, he is required to make an accounting.
 [^27]: I.e., the *kupah* represents the most urgent needs of a community. Hence, as soon as a person has been there for a significant time, he is required to pay the levy for that fund. The longer he stays in the community, the more communal responsibility he is required to take.
-[^28]: The commentaries note that the standard version of [[Bava Batra 8#8b|*Bava Batra* 8b]], the source for the Rambam's ruling, reverses the text and makes one responsible for the *tamchui* before the *kupah*. They explain, however, that there are versions of the text that support the Rambam's ruling. It is quoted by *Shulchan Aruch* (*Yoreh De'ah* 256:5).
+[^28]: The commentaries note that the standard version of *Bava Batra* [[Bava Batra 8#8b|8b]], the source for the Rambam's ruling, reverses the text and makes one responsible for the *tamchui* before the *kupah*. They explain, however, that there are versions of the text that support the Rambam's ruling. It is quoted by *Shulchan Aruch* (*Yoreh De'ah* 256:5).
 [^29]: The Radbaz and the *Shulchan Aruch* (*loc. cit.*) emphasizes that these guidelines apply when a person has not expressed his intentions to become part of the city he is visiting. If, however, a visitor decides to become a permanent resident in a city, he immediately becomes responsible for all charitable levies.
 [^30]: I.e., since he has enough food for the day, he should not take from the fund whose purpose is to provide people with their food for the day [the Rambam's Commentary to the Mishnah (*Pe'ah* 8:7)].
 [^31]: I.e., since he has enough food for the week, he should not take from the fund whose purpose is to provide people with their food for the week (*ibid.*).
 [^32]: For 50 *zuz* which one invests and uses to earn income is more desirable than 200 that do not provide one with income.
 [^33]: From charity, i.e., since he is deemed poor, he is allowed to take charity, even if doing so will lift him far above the poverty level.
 [^34]: For in these instances, it is as if the money he possesses is not his own.
-[^35]: I.e., functional utensils, used in his day-to-day life. Since he has become used to valuable utensils, he will not feel comfortable using lesser ones ([[Ketubot 68#68a|*Ketubot* 68a]]).
+[^35]: I.e., functional utensils, used in his day-to-day life. Since he has become used to valuable utensils, he will not feel comfortable using lesser ones (*Ketubot* [[Ketubot 68#68a|68a]]).
 [^36]: Since these utensils are used for simple purposes, there is no difficulty in using less valuable ones.
 [^37]: The leniency of the first clause which allows the person to maintain possession of his property.
 [^38]: I.e., he is given charity by individuals, but not by the community at large [*Shulchan Aruch* (*Yoreh De'ah* 253:1)].
@@ -137,7 +137,7 @@ When does the above[^37] apply? Before he has descended to the level where he ta
 [^40]: And has money at hand again.
 [^41]: In his Commentary to the Mishnah (*Pe'ah* 5:4), the Rambam writes that it is pious behavior to repay the money one received from charity.
 [^42]: This refers to a home that he does not dwell in since, as stated in Halachah 14, we do not obligate him to sell his home.
-[^43]: For market conditions would dictate lower prices at that time, since the purchaser will not begin to benefit from the fields and vineyards until the spring (Rashi, [[Bava Kamma 7#7a|*Bava Kama* 7a]]).
+[^43]: For market conditions would dictate lower prices at that time, since the purchaser will not begin to benefit from the fields and vineyards until the spring (Rashi, *Bava Kama* [[Bava Kamma 7#7a|7a]]).
 [^44]: We do not give him more than that amount, for a person will never lose more than half the value of his property by selling it at an unsuitable time (Radbaz).  
     The *Shulchan Aruch* (*Yoreh De'ah* 253:3) quotes the Rambam's ruling. The *Tur* and the Rama interpret the passage from *Bava Kama* differently. According to their perspective, we enable him to receive charity until he finds someone who is willing to purchase his property at half price.
 [^45]: If, however, property prices at large are depressed, we do not allow one to gain time by benefiting from charity (*Siftei Cohen* 253:7).
@@ -146,6 +146,6 @@ When does the above[^37] apply? Before he has descended to the level where he ta
 [^48]: I.e., to redeem other captives in the future.
 [^49]: To use for the rehabilitation of his personal situation.
 [^50]: I.e., to bury other deceased individuals in the future.
-[^51]: The intent is not that the deceased acquired the money and his heirs inherited it from him, for he never formally acquired it. Instead, since there was a certain measure of embarrassment involved for the deceased in having the money raised, he is willing to grant the financial benefit for that embarrassment to his heirs ([[Sanhedrin 48#48a|*Sanhedrin* 48a]]).  
+[^51]: The intent is not that the deceased acquired the money and his heirs inherited it from him, for he never formally acquired it. Instead, since there was a certain measure of embarrassment involved for the deceased in having the money raised, he is willing to grant the financial benefit for that embarrassment to his heirs (*Sanhedrin* [[Sanhedrin 48#48a|48a]]).  
     After quoting these laws, the *Shulchan Aruch* (*Yoreh De'ah* 253:6) states: "If the communal officers see that there is an immediate need and they wish to change [the objective to which charity is given], they have that authority."
 [^52]: Even though, as stated in Chapter 7, Halachah 5, even a poor person who derives his livelihood from charity is obligated to give charity, that obligation is his own responsibility. The community does not compel him to give (Radbaz). Alternatively, that obligation applies only when he has enough for his livelihood. If he does not have enough, he is not required to give (*Siftei Cohen* 253:11).

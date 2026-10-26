@@ -20,16 +20,13 @@ nyasa: "left fingers (*aṅguli*)"
 ## Front
 
 - **Glyph:** झ
-- **Variation:** a variant form, drawn only as a numbered stroke diagram (not copied here)
 - **Example:** झर
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘hu<u>ge h</u>oney’
-- **Class (as printed):** 2 (palatal) · soft · aspirated
-- **Grid:** the five rows of stops; in bold: झ
-- **Example:** jhara (cascade)
+> [!note]- Back
+> - **Pronunciation:** As in ‘hu<u>ge h</u>oney’
+> - **Class:** palatal · soft · aspirated
+> - क ख ग घ ङ / च छ ज <u>झ</u> ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म
+> - **Example:** jhara (cascade)
 
 ## Register
 

@@ -31,7 +31,7 @@ ghaṭakumbhavadekārthāḥ śabdāste'pyekameva ca || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 02 (Dyczkowski)/Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#^pg42|p. 26]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 02.pdf#page=42>))
 > Dyczkowski numbers this verse 2.18cd–19ab.
 >
-> On this plane ‘pleasure’ and ‘pain’, ‘bondage’ and ‘liberation’, sentience’ and ‘insentience’ are synonymous words, as are ‘vase’ and ‘jar’, and these (things) also are just the one (reality).
+> On this plane ‘pleasure’ and ‘pain’, ‘bondage’ and ‘liberation’, ‘sentience’ and ‘insentience’ are synonymous words, as are ‘vase’ and ‘jar’, and these (things) also are just the one (reality).
 
 ## Viveka
 

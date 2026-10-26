@@ -48,39 +48,39 @@ And let no individual separate himself from the congregation, even to learn some
 
 Thus, whoever separates himself from the community…,[^60] but he who will listen to me shall dwell securely,[^61] and in his and in our own days Judah shall be saved and Jerusalem shall dwell securely[^62]—Amen, may this be (His) will.
 
-[^1]: [[Daniel 04#^4-14|Daniel 4:14]]; cf. [[Pesachim 33#33a|*Pesachim* 33a]].
+[^1]: [[Daniel 04#^4-14|Daniel 4:14]]; cf. *Pesachim* [[Pesachim 33#33a|33a]].
 [^2]: *Avot* 3:6.
 [^3]: Par. [[Ecclesiastes 12#^12-13|Ecclesiastes 12:13]].
 [^4]: Par. Liturgy, prayer of *Aleinu* (cf. [[Isaiah 33#^33-16|Isaiah 33:16]]).
 [^5]: Par. [[I Kings 08#^8-27|I Kings 8:27]]; etc.
 [^6]: [[Torah 43 - Masei#^35-34|Numbers 35:34]].
-[^7]: An analogy to two occurrences of the word *toch*, from which we derive the minimum often participants for a quorum; [[Berakhot 21#21b|*Berachot* 21b]]; [[Megillah 23#23b|*Megillah* 23b]].
+[^7]: An analogy to two occurrences of the word *toch*, from which we derive the minimum often participants for a quorum; *Berachot* [[Berakhot 21#21b|21b]]; *Megillah* [[Megillah 23#23b|23b]].
 [^8]: [[Isaiah 12#^12-6|Isaiah 12:6]].
 [^9]: See above, note 7, cf. *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-129b|II:129b]]; *Tikkunei Zohar* 18 ([[Tikkunei Zohar 035b|35b]]); *et passim*.
-[^10]: The *Shechinah* dwells with him.—*Avot* 3:6; [[Berakhot 6#6a|*Berachot* 6a]].
+[^10]: The *Shechinah* dwells with him.—*Avot* 3:6; *Berachot* [[Berakhot 6#6a|6a]].
 [^11]: V. L. omits “and.”
 [^12]: I.e., the reward for his singular efforts is in proportion to communal study of Torah.
-[^13]: [[Taanit 7#7b|*Taanit* 7b]]; see also [[Megillah 16#16b|*Megillah* 16b]] and *Sefer Habahir* 50 (149).
+[^13]: *Taanit* [[Taanit 7#7b|7b]]; see also *Megillah* [[Megillah 16#16b|16b]] and *Sefer Habahir* 50 (149).
 [^14]: [[Psalms 104#^104-2|Psalms 104:2]].
 [^15]: Cf. *Zohar* III:245b.
 [^16]: Par. [[Isaiah 35#^35-2|Isaiah 35:2]].
 [^17]: V. L.: over the L–rd.
 [^18]: [[Zechariah 09#^9-14|Zechariah 9:14]].
 [^19]: The totality of the soul.
-[^20]: [[Sanhedrin 39#39a|*Sanhedrin* 39a]].
+[^20]: *Sanhedrin* [[Sanhedrin 39#39a|39a]].
 [^21]: Cf. *Likkutei Amarim*, Part I, end of ch. 11.
 [^22]: [[Psalms 090#^90-17|Psalms 90:17]].
 [^23]: *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-90b|II:90b]]; see also [[Zohar 4.06 - Parashat Be-Shallah#^z2-60a|60a]] and [[Zohar 7.08 - Parashat Aharei Mot#^z3-73a|III:73a]]. Cf. *Kitzurim V’Hearot*, p. 104 f. See *Likkutei Amarim*, Part I, chs. 4 and 23.
 [^24]: As opposed to singular, individual activity.
-[^25]: [[Kiddushin 39#39b|*Kiddushin* 39b]].
+[^25]: *Kiddushin* [[Kiddushin 39#39b|39b]].
 [^26]: [[Psalms 062#^62-13|Psalms 62:13]].
-[^27]: To receive their reward. [[Sanhedrin 100#100b|*Sanhedrin* 100b]]. Cf. above, Epistle 3, note 5.
+[^27]: To receive their reward. *Sanhedrin* [[Sanhedrin 100#100b|100b]]. Cf. above, Epistle 3, note 5.
 [^28]: Thus, unlike the soul, an angel is unable to apprehend and endure the manifestation of the *Shechinah*.
 [^29]: Par. [[Ecclesiastes 02#^2-17|Ecclesiastes 2:17]]; etc.
 [^30]: *Tanchuma*, *Vayera* 8; see also *Bereishit Rabbah* 49:8 and 93:6; *Aggadot Bereishit* 22:2.
 [^31]: *Avot* 3:2.
-[^32]: [[Kiddushin 31#31a|*Kiddushin* 31a]].
-[^33]: [[Sotah 5#5a|*Sotah* 5a]].
+[^32]: *Kiddushin* [[Kiddushin 31#31a|31a]].
+[^33]: *Sotah* [[Sotah 5#5a|5a]].
 [^34]: [[Song of Songs 7#^7-6|Song of Songs 7:6]]. The *Shechinah* is bound to Israel, regardless; thus, by their improper acts the *Shechinah* is drawn into exile with them, per force, as it were; see *Vayikra Rabbah* 31:4; *Tanchuma*, *Nitzavim* 3; *Tikkunei Zohar* 6 ([[Tikkunei Zohar 021b|21b]]); *Likkutei Amarim*, Part I, ch. 45.
 [^35]: [[Isaiah 52#^52-2|Isaiah 52:2]].
 [^36]: Cf. *Zohar* [[Zohar 4.03 - Parashat Shemot#^z2-7a|II:7a]].
@@ -96,15 +96,15 @@ Thus, whoever separates himself from the community…,[^60] but he who will list
 [^46]: Religious affairs.
 [^47]: Secular affairs.
 [^48]: Cf. *Sifrei* on [[Torah 46 - Eikev#^11-22|Deuteronomy 11:22]]; *Avot d’R. Nattan* 29:7.
-[^49]: [[Megillah 28#28b|*Megillah* 28b]].
-[^50]: [[Shabbat 12#12a|*Shabbat* 12a]]; see *Rashi*, ad loc.
+[^49]: *Megillah* [[Megillah 28#28b|28b]].
+[^50]: *Shabbat* [[Shabbat 12#12a|12a]]; see *Rashi*, ad loc.
 [^51]: *Avot* 4:13.
 [^52]: That which is forbidden for use or handling on Shabbat and Festivals.
 [^53]: The Scribes, i.e., the Rabbis.
-[^54]: Jerusalem Talmud, *Berachot* 1:4; [[Eruvin 21#21b|*Eruvin* 21b]].
-[^55]: [[Berakhot 4#4b|*Berachot* 4b]].
+[^54]: Jerusalem Talmud, *Berachot* 1:4; *Eruvin* [[Eruvin 21#21b|21b]].
+[^55]: *Berachot* [[Berakhot 4#4b|4b]].
 [^56]: [[Isaiah 01#^1-28|Isaiah 1:28]].
-[^57]: Jerusalem Talmud, *Megillah* 4:4; cf. [[Berakhot 8#8a|*Berachot* 8a]].
+[^57]: Jerusalem Talmud, *Megillah* 4:4; cf. *Berachot* [[Berakhot 8#8a|8a]].
 [^58]: *Zohar* [[Zohar 8.03 - Parashat Qedoshim#^z3-81a|III:81a]].
 [^59]: Above, note 23.
 [^60]: *Semachot* 2:10; Maimonides, *Hilchot Evel* 1:10.

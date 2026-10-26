@@ -120,7 +120,7 @@ Therefore a butcher should prepare three knives: one with which to slaughter, on
 [^3]: *Sefer HaMitzvot* (negative commandment 185) and *Sefer HaChinuch* (mitzvah 147) include this prohibition among the 613 mitzvot of the Torah.
 [^4]: See the following halachah.
 [^5]: I.e., there is no separate prohibition concerning it. If the animal is kosher, its fat is not considered *cheilev* and is permitted. If the animal is not-kosher, its fat is of course forbidden, but it is not bound by a separate prohibition. This reflects a contrast to the prohibition against partaking of blood mentioned in the previous chapter.
-[^6]: There is not, however, a separate prohibition for partaking of its forbidden fat. From [[Chullin 75#75a|*Chulin* 75a]], it appears that this leniency applies only when the fetus is stillborn before its full period of gestation is completed. If, however, the full period of gestation is completed, the prohibition against *cheilev* does apply (*Maggid Mishneh*; *Siftei Cohen* 64:5). See also Halachot 3-4.
+[^6]: There is not, however, a separate prohibition for partaking of its forbidden fat. From *Chulin* [[Chullin 75#75a|75a]], it appears that this leniency applies only when the fetus is stillborn before its full period of gestation is completed. If, however, the full period of gestation is completed, the prohibition against *cheilev* does apply (*Maggid Mishneh*; *Siftei Cohen* 64:5). See also Halachot 3-4.
 [^7]: I.e., why we do not follow the principle that one prohibition does not fall upon another.
 [^8]: The fat was forbidden previously and a further prohibition is added when the meat becomes forbidden.
 [^9]: Contrast this to the prohibition against *gid hanasheh* as stated in Chapter 8, Halachah 1.
@@ -128,15 +128,15 @@ Therefore a butcher should prepare three knives: one with which to slaughter, on
 [^11]: From the Rambam's inclusion of the phrase "takes out," the *Kessef Mishneh* concludes that the prohibition applies only when the fat is taken out from the mother's womb while the animal is still alive. If the fat is left inside the womb and then the animal is slaughtered, he maintains that the fat is permitted. This conclusion is cited by the *Turei Zahav* 64:4 and the *Siftei Cohen* 64:6.
 [^12]: The *Maggid Mishneh* clarifies that this stringency does not apply when the fetus dies in its mother's womb even if it has completed the nine months of gestation.
 [^13]: The *Shulchan Aruch* (*Yoreh De'ah* 64:5) states that one must remove the fatty portion on the inner side.
-[^14]: [[Chullin 117#117a|*Chulin* 117a]] interprets [[Torah 24 - Vayikra#^3-16|Leviticus 3:16]]: "All of the *cheilev* to God" as referring to the portions of the animal offered on the altar. These include the kidneys and the lobe of the liver although they are not "fat" (see *Hilchot Maaseh HaKorbanot* 1:18). Instead, the intent of term *cheilev* in the verse is "choice portions."
+[^14]: *Chulin* [[Chullin 117#117a|117a]] interprets [[Torah 24 - Vayikra#^3-16|Leviticus 3:16]]: "All of the *cheilev* to God" as referring to the portions of the animal offered on the altar. These include the kidneys and the lobe of the liver although they are not "fat" (see *Hilchot Maaseh HaKorbanot* 1:18). Instead, the intent of term *cheilev* in the verse is "choice portions."
 [^15]: [[Torah 11 - Vayigash#^45-18|Genesis 45:18]]; [[Torah 53 - Ha'Azinu#^32-14|Deuteronomy 32:14]].
 [^16]: The tenth of the tithe which the Levites who receive the tithe must separate and give the priests.
 [^17]: Here also the intent of the term *cheilev* is "choice portions."
 [^18]: An animal has four stomachs. We have chosen synonyms arbitrarily to describe them.
 [^19]: The *Shulchan Aruch* (*Yoreh De'ah* 64:12) cites the Rambam's view, but also that of the *Tur* which requires one to be stringent and remove all of its traces. The Rama states that, after the fact, even the stringent opinions do not consider the kidney forbidden if it was cooked without the traces of this fat being removed.
-[^20]: For while an animal is alive, its meat hangs loosely ([[Chullin 93#93b|*Chulin* 93b]]).
+[^20]: For while an animal is alive, its meat hangs loosely (*Chulin* [[Chullin 93#93b|93b]]).
 [^21]: For in its lifetime, it is not covered by meat.
-[^22]: In his *Kessef Mishneh*, Rav Yosef Caro mentions that some interpret [[Chullin 93#93b|*Chulin* 93b]] as stating that a cubit of the intestines are forbidden and he quotes this view as halachah in the *Shulchan Aruch* (*Yoreh De'ah* 64:15). The Ramah, however, states that the forbidden measure is not a full cubit, but close to it.
+[^22]: In his *Kessef Mishneh*, Rav Yosef Caro mentions that some interpret *Chulin* [[Chullin 93#93b|93b]] as stating that a cubit of the intestines are forbidden and he quotes this view as halachah in the *Shulchan Aruch* (*Yoreh De'ah* 64:15). The Ramah, however, states that the forbidden measure is not a full cubit, but close to it.
 [^23]: From the Rambam's statements in *Hilchot Shechitah* 6:10, it is obvious that he favors the first opinion. The Ra'avad differs and maintains that the second view should be followed. The *Shulchan Aruch* (*Yoreh De'ah* 64:15) states that one should follow the stringencies of both views.
 [^24]: I.e., there is blood absorbed in the tissue or membrane.
 [^25]: The commentaries have cited Chapter 6, Halachot 10-12, as the Rambam's intent, but this point is not explicitly stated there.
@@ -144,12 +144,12 @@ Therefore a butcher should prepare three knives: one with which to slaughter, on
 [^27]: For the fire will cause the blood to drain off [see *Shulchan Aruch* (*Yoreh De'ah* 65:1)]. As the *Maggid Mishneh* mentions, there are some authorities who require that the blood vessels be cut open even when one roasts the meat.
 [^28]: Otherwise, the fat will seep through the meat when it is being cooked or roasted.
 [^29]: The Rama (*Yoreh De'ah* 64:13) explains that these strands of tissue extend from the lower portion of the backbone. As will be explained in the notes to Halachah 13, there are differences between his interpretation and that of the Rambam.
-[^30]: Our translation follows the commentary of Rashi to [[Chullin 93#93a|*Chullin* 93a]] and the *Shulchan Aruch* (*Yoreh De'ah* 64:10).
+[^30]: Our translation follows the commentary of Rashi to *Chullin* [[Chullin 93#93a|93a]] and the *Shulchan Aruch* (*Yoreh De'ah* 64:10).
 [^31]: I.e., they are forbidden, but one is not liable for *kerat* for them.
-[^32]: This follows the Rambam's interpretation of [[Chullin 93#93a|*Chullin* 93a]]. Rashi [and his view is cited by the *Shulchan Aruch* (*Yoreh De'ah* 64:13)] understands that passage as referred to the strands of fat mentioned in Halachah 11.
+[^32]: This follows the Rambam's interpretation of *Chullin* [[Chullin 93#93a|93a]]. Rashi [and his view is cited by the *Shulchan Aruch* (*Yoreh De'ah* 64:13)] understands that passage as referred to the strands of fat mentioned in Halachah 11.
 [^33]: The *Maggid Mishneh* and *Shulchan Aruch* (*Yoreh De'ah* 75:3) write that in the present age, leniency is granted with regard to these blood vessels. Nevertheless, it is customary to remove them.
 [^34]: I.e., these are blood vessels in which blood will be lodged after the slaughter of the animal. Therefore they must be removed or cut open (see Halachah 10) before the animal is cooked or roasted.
-[^35]: The *Maggid Mishneh* notes that the Rambam (and his source, [[Chullin 93#93b|*Chullin* 93b]]) do not mention a calf when stating this leniency. Implied is that even at a younger age, the testicles of a calf are considered as developed.
+[^35]: The *Maggid Mishneh* notes that the Rambam (and his source, *Chullin* [[Chullin 93#93b|93b]]) do not mention a calf when stating this leniency. Implied is that even at a younger age, the testicles of a calf are considered as developed.
 [^36]: Until the kid or lamb reaches that age, the blood vessels are not developed and there is not a large quantity of blood flowing through them.
 [^37]: Chapter 6, Halachah 13.
 [^38]: This refers to the organs themselves. Hence they need not be salted (*Maggid Mishneh*, see Chapter 6, Halachah 18). With regard to the fat on these organs, it is possible for there to be blood vessels within them as mentioned above.  
@@ -160,7 +160,7 @@ Therefore a butcher should prepare three knives: one with which to slaughter, on
 [^42]: For we fear that the meat will absorb some of the fat.
 [^43]: If one cleans the knife or the container first, scrubbing it carefully, it is permitted (*Maggid Mishneh* in the name of the Rashba).
 [^44]: For at the outset, the knife used to slaughter should not be used to cut meat (see Chapter 6, Halachah 20).
-[^45]: The [[Chullin 8#8b|*Chulin* 8b]] asks: Why isn't one container sufficient? First he will wash the meat in it and then the fat? The text answers that perhaps he will forget and wash the fat first. In this instance, by contrast, since he has two clearly designated containers, he will not make such a mistake.
+[^45]: The *Chulin* [[Chullin 8#8b|8b]] asks: Why isn't one container sufficient? First he will wash the meat in it and then the fat? The text answers that perhaps he will forget and wash the fat first. In this instance, by contrast, since he has two clearly designated containers, he will not make such a mistake.
 [^46]: The *Maggid Mishneh* mentions views that maintain that this restriction only applies directly after slaughter when the fat is still warm. Once it has cooled, it hardens. This ruling is quoted by the *Shulchan Aruch* (*Yoreh De'ah* 64:18).
 [^47]: Although there are some more stringent views regarding certain particulars, the Rambam's view is cited by the *Shulchan Aruch* (*Yoreh De'ah* 64:19).
 [^48]: This is a safeguard against the fat and blood being absorbed by the meat.

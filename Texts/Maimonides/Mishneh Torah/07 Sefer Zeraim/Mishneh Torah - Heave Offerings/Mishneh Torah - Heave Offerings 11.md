@@ -155,9 +155,9 @@ If, however, it was designated as *terumah* before it was planted, it is *teruma
 [^29]: Which is separated only by virtue of Rabbinic decree.
 [^30]: The intent is not necessarily impure hands, but any hands that one has not watched carefully to make sure that they are pure. For if one touches oil with such hands, it is impure by Rabbinic decree (*Hilchot Sha'ar Avot HaTuma'ah* 8:8-10).
 [^31]: For this would make the *terumah* impure and that is forbidden. Instead, one must wash his hands before applying oil to his body (*Kessef Mishneh*).
-[^32]: For once it comes in contact with his flesh, its sacred quality departs and the fact that one's hands are impure is not significant (*ibid.*, based on [[Keritot 7#7a|*Keritot* 7a]]).
+[^32]: For once it comes in contact with his flesh, its sacred quality departs and the fact that one's hands are impure is not significant (*ibid.*, based on *Keritot* [[Keritot 7#7a|7a]]).
 [^33]: And it is forbidden for an uncircumcised person to make use of *terumah*, as stated in Chapter 7, Halachah 10.
-[^34]: In his gloss to the *Mishneh Torah*, *B'nei Yaakov* notes that although this question is left unresolved by the Babylonian Talmud ([[Yevamot 71#71a|*Yevamot* 71a]]), the Rambam's ruling is based on the Jerusalem Talmud where the question is resolved.
+[^34]: In his gloss to the *Mishneh Torah*, *B'nei Yaakov* notes that although this question is left unresolved by the Babylonian Talmud (*Yevamot* [[Yevamot 71#71a|71a]]), the Rambam's ruling is based on the Jerusalem Talmud where the question is resolved.
 [^35]: Even though his Israelite grandson will come in contact with the oil and benefit from it, that is of no concern for once it touches the flesh of the priest, its holiness departs and even a non-priest may benefit from it.
 [^36]: The *Kessef Mishneh* offers this interpretation in order to maintain the standard version of the *Mishneh Torah*. He, however, suggests that the version is in error and that the proper version is that he can attend to him.
 [^37]: A pungent herb.
@@ -190,7 +190,7 @@ If, however, it was designated as *terumah* before it was planted, it is *teruma
 [^63]: Since the priest is deriving benefit from the oil, it may be kindled without asking him. And since he is deriving benefit from it, the Israelite may also derive benefit.  
     The Radbaz emphasizes that this applies only when the priest does not object. If, however, he specifically lodges an objection, it is forbidden.
 [^64]: In all these instances, it is a mitzvah that benefits people at large to kindle the light and our Sages did not institute their decrees when doing so would impede the performance of such a mitzvah.
-[^65]: The rationale is that he is performing a mitzvah. Since mitzvot were not given for our personal satisfaction ([[Rosh Hashanah 28#28a|*Rosh HaShanah* 28a]]), he is not considered to be deriving personal benefit from kindling the Chanukah lamp. Nevertheless, if he has other oil, it is preferable for him to use that rather than impure *terumah* oil.
+[^65]: The rationale is that he is performing a mitzvah. Since mitzvot were not given for our personal satisfaction (*Rosh HaShanah* [[Rosh Hashanah 28#28a|28a]]), he is not considered to be deriving personal benefit from kindling the Chanukah lamp. Nevertheless, if he has other oil, it is preferable for him to use that rather than impure *terumah* oil.
 [^66]: A priest must explicitly give permission for the oil to be kindled there [the Rambam's Commentary to the Mishnah (*Terumot* 11:10)]. In contrast to the previous instances, the priest's permission is necessary in this situation, because only one individual - not people at large - are benefiting from the light (Radbaz, *Kessef Mishneh*).
 [^67]: Since she is married to a priest, she is permitted to benefit from the kindling of this oil. And thus, all the laws mentioned above with regard to a priest, also apply with regard to her.
 [^68]: For this is also considered as a mitzvah that benefits people at large.

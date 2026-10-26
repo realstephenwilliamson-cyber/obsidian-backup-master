@@ -82,7 +82,7 @@ But now that I am about to begin the examination of all that he has advanced, I 
 
 As to all the things, then, in his Introduction, how he constitutes himself truth’s champion, and fixes the charge of unbelief upon his opponents, and declares that an abiding and indelible hatred for them has sunk into his soul, how he struts in his ‘new discoveries,’ though he does not tell us what they are, but says only that an examination of the debateable points in them was set on foot, a certain ‘legal’ trial which placed on those who were daring to act illegally the necessity of keeping quiet, or to quote his own words in that Lydian style of singing which he has got, “the bold law-breakers—in open courts—were forced to be quiet;” (he calls this a “proscription” of the conspiracy against him, whatever may be meant by that term);—all this wearisome business I pass by as quite unimportant. On the other hand, all his special pleading for his heretical conceits may well demand our close attention. Our own interpreter of the principles of divinity followed this course in *his* Treatise; for though he had plenty of ability to broaden out his argument, he took the line of dealing only
 
-Cf. 1 Corinth. ii. 1–8.
+Cf. [[1 Corinthians 02#^2-1|1 Corinth. ii. 1–8]].
 
 *[p. 64]* ^pg85
 
@@ -290,7 +290,7 @@ Let our speech-writer, while he reminds himself of his youthful doings in his na
 
 Basil is called ‘hasty’ and ‘insolent,’ and in both characters ‘a liar’ by this man who ‘would in patience and meekness educate those of a contrary opinion to himself;’ for such are the
 
-46 ἔτι ἐν τῷ κληρῳ τῶν πρεσβυτερων ιερατεύων 90 91 2 Thess. iii. 8. According to Ruffinus (*Hist. Eccl*. x. 25), his constitution was poisoned with jaundice within and without.
+46 ἔτι ἐν τῷ κληρῳ τῶν πρεσβυτερων ιερατεύων 90 91 [[2 Thessalonians 03#^3-8|2 Thess. iii. 8]]. According to Ruffinus (*Hist. Eccl*. x. 25), his constitution was poisoned with jaundice within and without.
 
 *[p. 82]* ^pg103
 
@@ -486,7 +486,7 @@ says. “The grace of our Lord Jesus Christ, and the love of God<sup>110</sup>,�
 
 This, however, does not please our new dogmatist. He opposes the arrangement of Scripture. He separates off that equality with the Father and the Son of His proper and natural rank and connexion which our Lord Himself pronounces, and numbers Him with ‘subjects’: he declares Him to be a work of both Persons<sup>111</sup>, of the Father, as supplying the
 
-110 John x. 30; 2 Cor. xiii. 13. 111 *he declares Him to be a work of both Persons.* With regard to Gregory’s own belief as to the procession of the Holy Spirit, it may be said once for all that there is hardly anything (but see p. 99, note 5) clear about it to be found in his writings. The question, in fact, remained undecided until the 9th century, the time of the schism of the East and West. But here, as in other points, Origen had approached the nearest to the teaching of the West: for he represents the procession as from Father and Son, just as often as from one Person or the other. Athanasius does certainly say that the Spirit ‘unites the creation to the Son, and through the Son to the Father,’ but with him this expression is not followed up: while in the Roman Church it led to doctrine. For why does the Holy Spirit unite the creation with God continuously and perfectly? Because, to use Bossuet’s words, “proceeding from the Father and the Son He is their love and eternal union.” Neither Basil, nor Gregory Nazianzen, nor Chrysostom, have anything definite about the procession of the Third Person.
+110 [[John 10#^10-30|John x. 30]]; [[2 Corinthians 13#^13-13|2 Cor. xiii. 13]]. 111 *he declares Him to be a work of both Persons.* With regard to Gregory’s own belief as to the procession of the Holy Spirit, it may be said once for all that there is hardly anything (but see p. 99, note 5) clear about it to be found in his writings. The question, in fact, remained undecided until the 9th century, the time of the schism of the East and West. But here, as in other points, Origen had approached the nearest to the teaching of the West: for he represents the procession as from Father and Son, just as often as from one Person or the other. Athanasius does certainly say that the Spirit ‘unites the creation to the Son, and through the Son to the Father,’ but with him this expression is not followed up: while in the Roman Church it led to doctrine. For why does the Holy Spirit unite the creation with God continuously and perfectly? Because, to use Bossuet’s words, “proceeding from the Father and the Son He is their love and eternal union.” Neither Basil, nor Gregory Nazianzen, nor Chrysostom, have anything definite about the procession of the Third Person.
 
 *[p. 101]* ^pg122
 

@@ -11,6 +11,7 @@ second_reading: "Hebrews 13:1-8, 15-16"
 gospel: "Luke 14:1, 7-14"
 first_reading_complementary: "Sirach 10:12-18 or Proverbs 25:6-7"
 psalm_complementary: "Psalm 112"
+psalm_bcp_complementary: "Psalm 112"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-17]]"
 cssclasses:

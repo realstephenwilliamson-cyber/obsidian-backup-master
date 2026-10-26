@@ -51,14 +51,14 @@ chapter: 30
 [^13]: [[Proverbs 27#^27-14|Proverbs 27:14]].
 [^14]: This phrase alludes to the eagerness with which he sings his friends praises, day after day. (*Metsudas David*)
 [^15]: [[Proverbs 26#^26-18|Proverbs 26:18]],19.
-[^16]: [[Sotah 42#42a|*Sotah* 42a]].
+[^16]: *Sotah* [[Sotah 42#42a|42a]].
 [^17]: [[Hosea 07#^7-5|Hosea 7:5]].
 [^18]: [[Job 13#^13-6|Job 13:6]].
 [^19]: [[Psalms 101#^101-7|Psalms 101:7]].
 [^20]: [[Psalms 005#^5-5|Psalms 5:5]].
 [^21]: [[Psalms 005#^5-10|Psalms 5:10]].
 [^22]: [[Sotah 42#42a|Sotah 42a]].
-[^23]: [[Sanhedrin 63#63b|*Sanhedrin* 63b]].
+[^23]: *Sanhedrin* [[Sanhedrin 63#63b|63b]].
 [^24]: It is considered a great mitzvah to ridicule idol worship and deride an evil and immoral way of life. (*Siddur Arizal*)
 [^25]: [[I Kings 18#^18-27|I Kings 18:27]].
 [^26]: [[Torah 30 - Kedoshim#^19-18|Leviticus 19:18]].

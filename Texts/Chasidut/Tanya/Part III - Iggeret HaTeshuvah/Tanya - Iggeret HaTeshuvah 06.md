@@ -42,7 +42,7 @@ But when the sinner performs the appropriate penance, then he removes from them 
 
 This then is “*tashuv hey tataah*,” returning the latter *hey* from its state of exile. “G–d will return those of you who return,”[^12] meaning *with* those who return. Our Sages have commented on this verse, “He shall *bring back* is not said….”[^13]
 
-[^1]: [[Megillah 29#29a|*Megillah* 29a]].
+[^1]: *Megillah* [[Megillah 29#29a|29a]].
 [^2]: [[Isaiah 50#^50-1|Isaiah 50:1]].
 [^3]: The term *nogah* (brightness, or shining) is found in [[Ezekiel 01#^1-4|Ezekiel 1:4]]. Kabbalah and Chasidut tell of the “three *kelipot*” (husks or shells) that are evil, of the *sitra achara*, the “other side” in opposition to purity and holiness. *Nogah*, an intermediate stage between holiness and defilement, is composed of good and evil and can be directed either way. The prohibited (forbidden food, say), the evil, derives from the three impure *kelipot*, and the permitted from *nogah*. A *nogah* “neutral” (like permissible food) may satisfy a gross physical appetite and be degraded, or it might be consumed for a higher purpose and be elevated. (See *Likkutei Amarim*, Part I, ch. 7, et al.) In our text, the life-force that had issued from a state of purity and holiness now descends to this *nogah* state, and can fall even further, as the text proceeds to explain.
 [^4]: “…on High that smites it and commands it: ‘Grow!’” *Bereishit Rabbah* 10:6.
@@ -54,4 +54,4 @@ This then is “*tashuv hey tataah*,” returning the latter *hey* from its stat
 [^10]: I.e., as stated above, “with even greater emphasis and force.”
 [^11]: *Avot* 4:15.
 [^12]: [[Torah 51 - Nitzavim#^30-3|Deuteronomy 30:3]].
-[^13]: [[Megillah 29#29a|*Megillah* 29a]] “…but ‘He shall return.’” to teach us that the Holy One, blessed is He, returns with them from the exiles.”
+[^13]: *Megillah* [[Megillah 29#29a|29a]] “…but ‘He shall return.’” to teach us that the Holy One, blessed is He, returns with them from the exiles.”

@@ -121,7 +121,7 @@ If, however, one [of the poor or the captives] is one's teacher or father,[^57] 
 [^5]: He does not, however, have to seek out poor people to give it to them (*Siftei Cohen* 257:5).
 [^6]: Compare to Halachah 4.
 [^7]: See *Hilchot Nedarim* 3:3-4.
-[^8]: Although [[Nedarim 7#7a|*Nedarim* 7a]] leaves this matter unresolved, the Rambam and other authorities rule stringently.
+[^8]: Although *Nedarim* [[Nedarim 7#7a|7a]] leaves this matter unresolved, the Rambam and other authorities rule stringently.
 [^9]: I.e., we obligate him to give until he is certain that he gave an amount that surpassed his vow.
 [^10]: Unlike a coin consecrated to the Temple treasury, there is no necessity for a formal process of exchange. The *Tur* and the *Shulchan Aruch* (*Yoreh De'ah* 259:1) mention a further leniency, stating that a person may lend out this money - either to himself or to others. See Halachah 5.
 [^11]: I.e., taking petty change and exchanging it for larger coins.
@@ -141,29 +141,29 @@ If, however, one [of the poor or the captives] is one's teacher or father,[^57] 
 [^25]: Based on *Hilchot Melachim* 10:10, we can assume that this is speaking about an idolater. If, however, a gentile accepts upon himself the observance of the Seven Universal Laws commanded to Noah and his descendants, we are permitted to accept charity from him.
 [^26]: The impression that the Jews cannot take care of their own and must rely on the gentiles for charity degrades the honor of God's name (*Turei Zahav* 254:1). If, however, the gentiles' charity is given in private, there is no difficulty in accepting it. Indeed, a person who accepts charity from the gentiles in public is not acceptable as a witness (*Hilchot Edut* 11:5).
 [^27]: For it is highly likely that the king would take offense were he to hear that his charity was spurned.
-[^28]: We do not give it to the Jews, less this generate merit for the gentile king and allow his kingship to prosper ([[Bava Batra 10#10b|*Bava Batra* 10b]]).
+[^28]: We do not give it to the Jews, less this generate merit for the gentile king and allow his kingship to prosper (*Bava Batra* [[Bava Batra 10#10b|10b]]).
 [^29]: For diverting the charity from its intended purpose is also likely to arouse the king's rage.  
     The *Shulchan Aruch* (*Yoreh De'ah* 254:2) quotes the Rambam's ruling. The Rama states that the king's wishes should be heeded.
-[^30]: For as the Rambam continues to explain, all of the different aspects of charitable gifts are included in the redemption of captives ([[Bava Batra 8#8b|*Bava Batra* 8b]]).
+[^30]: For as the Rambam continues to explain, all of the different aspects of charitable gifts are included in the redemption of captives (*Bava Batra* [[Bava Batra 8#8b|8b]]).
 [^31]: For at any time, his captors may take his life.
 [^32]: An exception is made in this instance, because the captives' lives are at risk.
 [^33]: From the Rambam's wording, the *Turei Zahav* 252:21 infers that if the building is not complete, it may be sold.
 [^34]: The *Siftei Cohen* 252:1 states that if the community has no way of raising the funds through other means, it may sell the synagogue.
-[^35]: I.e., they are evaluated like servants sold at a slave market (Meiri, [[Gittin 45#45a|*Gittin* 45a]]).
+[^35]: I.e., they are evaluated like servants sold at a slave market (Meiri, *Gittin* [[Gittin 45#45a|45a]]).
 [^36]: *Gittin, loc. cit.* gives two reasons:  
     a) Were lawless men to know that they could receive exorbitant prices for the redemption of captives, they would be encouraged to kidnap them frequently.  
     b) this would be very taxing for the community.  
     The Rambam follows the latter view. Hence, even family members who would be willing to pay the extra expense are forbidden to do so (Radbaz). When quoting this law, the *Shulchan Aruch* (*Yoreh De'ah* 252:4) states that if the captive is a Torah scholar, an exception can be made and he may be redeemed for more than his worth.
 [^37]: I.e., if captives were wont to be helped to escape, kidnappers would become very strict and harsh when guarding other captives in the future.
 [^38]: For it appears that the father has no compunctions against selling himself or his children and thus the situation will merely repeat itself.
-[^39]: Lest they become assimilated among the nations. During their fathers' lifetime, by contrast, we presume that he will educate them concerning their Jewish heritage even when they are held by the gentiles (Rashi, [[Gittin 47#47a|*Gittin* 47a]]).
+[^39]: Lest they become assimilated among the nations. During their fathers' lifetime, by contrast, we presume that he will educate them concerning their Jewish heritage even when they are held by the gentiles (Rashi, *Gittin* [[Gittin 47#47a|47a]]).
 [^40]: For we do not place any financial concerns above Jewish life.
 [^41]: See *Hilchot Issurei Bi'ah* 13:11, 14:9, which explain that these steps are necessary for a servant to attain the status of a servant of the Jewish people.
 [^42]: If, however, he transgresses because it is to his benefit to do so, he may be redeemed, but there is no obligation to redeem him [Rama (*Yoreh De'ah* 251:2)].
 [^43]: There is another reason to give a woman precedence with regard to the redemption from captivity: We fear that the woman may be raped.
 [^44]: The Rambam is using a euphemism for sexual relations.
 [^45]: I.e., sodomic rape is against a man's nature. Hence it is more shameful than ordinary rape.
-[^46]: [[Ketubot 67#67b|*Ketubot* 67b]] says the woman should be given 50 *dinarim*, but those are not pure silver. Instead, they were seven eights base metals and one eighth pure silver.
+[^46]: *Ketubot* [[Ketubot 67#67b|67b]] says the woman should be given 50 *dinarim*, but those are not pure silver. Instead, they were seven eights base metals and one eighth pure silver.
 [^47]: I.e. we give respect to the holiness of the priest's lineage.
 [^48]: The term *challal* refers to the offspring of a priest who was born from intimate relations forbidden to a priest or is the descendant of the offspring of such relations. See *Hilchot Issurei Bi'ah*, ch. 19. Such a person - and similarly, those that are mentioned afterwards - is considered to be of blemished lineage. The extent of the blemish determines the person's place on the ladder of precedence. See the Rambam's Commentary to the Mishnah (*Horiot* 3:8) which mentions further details concerning this order of succession.
 [^49]: The term *shituki* means "one who is silenced" and refers to a child who knows the identity of his mother, but does not definitely know the identity of his father. He is silenced when he inquires about that matter (*Hilchot Issurei Bi'ah* 15:12).

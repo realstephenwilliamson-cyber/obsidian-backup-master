@@ -20,17 +20,11 @@ nyasa: "none (a sign, not a letter)"
 ## Front
 
 - **Glyph:** ◌्
-- **Variation:** —
 - **Example:** विद्युत्
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** —
-- **Class (as printed):** —
-- **Note (no printed label):** Removes the ‘a’ sound from a consonant.
-- **Grid:** —
-- **Example:** vidyut (lightning)
+> [!note]- Back
+> - **Note:** Removes the ‘a’ sound from a consonant.
+> - **Example:** vidyut (lightning)
 
 ## Register
 

@@ -29,7 +29,7 @@ pūjayitvā vibhuṃ sarvaṃ nyāsaṃ pūrvavadācaret || ^iast
 >
 > (It is generally taught that) mandalas and the like are not required here in this ritual procedure, (performed) in the cremation ground. (However,) there are some (authorities) who say that that should also be done (there in that) abode of ghosts. (with 24.10cd–11ab)
 >
-> ‘After having worshipped the pervasive Lord (vibhu), (the teacher) should perform the entire deposition (of Mantras) as before, (but in the reverse order, that is,) in the sequence of withdrawal, (beginning) from the feet and ending with the head. He should awaken that (corpse) in the same way by (ritual) action, knowledge, and deep meditation (samādhi). (with 24.11cd–12)
+> ‘After having worshipped the pervasive Lord (vibhu), (the teacher) should perform the entire deposition (of Mantras) as before, (but in the reverse order, that is,) in the sequence of withdrawal, (beginning) from the feet and ending with the head. He should awaken that (corpse) in the same way by (ritual) action, knowledge, and deep meditation (samādhi).’ (with 24.11cd–12)
 
 ## Viveka
 

@@ -27,7 +27,7 @@ tamārādhyeti tu grantho mandatīvraikagocaraḥ || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#^pg304|p. 282]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=304>))
 >
-> Maheśa (the Great Lord) has said in the first section of six thousand verses (ṣafka) of the Nandisikhātantra: ‘O goddess,' supreme individual souls, by considering themselves to be Śiva, are conjoined (to him). Initiated by the teacher, they are liberated just then itself. (Even so, these) fettered souls desire (to go to) Śiva. This is because they come to know (from him) that just by receiving (that initiation), they have accomplished what needs to be done. (with 13.251–253ab)
+> Maheśa (the Great Lord) has said in the first section of six thousand verses (ṣafka) of the Nandisikhātantra: ‘O goddess, supreme individual souls, by considering themselves to be Śiva, are conjoined (to him). Initiated by the teacher, they are liberated just then itself. (Even so, these) fettered souls desire (to go to) Śiva. This is because they come to know (from him) that just by receiving (that initiation), they have accomplished what needs to be done. (with 13.251–253ab)
 >
 > (Thus) the words ‘once he has worshipped him’ etc. refer solely to the mildly intense (descent of the power of grace). (with 13.253cd)
 

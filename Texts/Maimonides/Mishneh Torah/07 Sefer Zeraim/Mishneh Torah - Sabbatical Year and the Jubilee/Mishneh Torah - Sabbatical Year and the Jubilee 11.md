@@ -123,7 +123,7 @@ If a relative desired to redeem it, he may, as [*ibid.*:25] states: "And his red
 
 [^1]: For the entire passage speaks about an "ancestral heritage," i.e., land given to a person's ancestors when the land was originally divided among the tribes (Radbaz). This excludes Jerusalem which was never divided among the tribes (*Rambam LeAm*).
 [^2]: *Sefer HaMitzvot* (negative commandment 227) and *Sefer HaChinuch* (mitzvah 339) include the commandment for the land not to be sold in perpetuity among the 613 mitzvot of the Torah.
-[^3]: For whenever a person acts in violation of Torah Law, his deeds are of no avail ([[Temurah 4#4b|*Temurah* 4b]]). Since their deeds are of no consequence, they are not punished by lashes (*Mishneh LiMelech*).
+[^3]: For whenever a person acts in violation of Torah Law, his deeds are of no avail (*Temurah* [[Temurah 4#4b|4b]]). Since their deeds are of no consequence, they are not punished by lashes (*Mishneh LiMelech*).
 [^4]: Even though a Jubilee year will definitely fall within the span of the sale.
 [^5]: As explained in the following chapter. *Sefer HaMitzvot* (positive commandment 139 and *Sefer HaChinuch* (mitzvah 341) include the commandment to carry out the laws pertaining to a walled city among the 613 mitzvot of the Torah.
 [^6]: *Sefer HaMitzvot* (positive commandment 138) and *Sefer HaChinuch* (mitzvah 340) include the command to enable a field to be redeemed or for it to be returned to its owner in the Jubilee year among the 613 mitzvot of the Torah.
@@ -140,11 +140,11 @@ If a relative desired to redeem it, he may, as [*ibid.*:25] states: "And his red
 [^17]: If, however, the body of the land itself increases in value, that increase is not granted to the purchaser. See Halachah 16.
 [^18]: I.e., he cannot redeem it until the same date two years later. We do not count the years as beginning from Rosh HaShanah, but from the date of the sale.
 [^19]: When it is forbidden to sow a field.
-[^20]: Which prevented crops from growing in the entire land ([[Bava Metzia 106#106a|*Bava Metzia* 106a]]).
+[^20]: Which prevented crops from growing in the entire land (*Bava Metzia* [[Bava Metzia 106#106a|106a]]).
 [^21]: Since crops could have grown during those years, and he chose not to sow the land on his own, they are considered "years of its crops." The *Kessef Mishneh* states that this law also applies if the purchaser leaves it fallow for two years. The Radbaz, however, does not accept this conclusion.
-[^22]: [[Arakhin 29#29b|*Arachin* 29b]] explains that this is a logical conclusion. If the advent of the Jubilee causes a field that was sold to be returned to its original owners, it will certainly prevent the sale of one that was not sold as of yet from taking effect.
+[^22]: *Arachin* [[Arakhin 29#29b|29b]] explains that this is a logical conclusion. If the advent of the Jubilee causes a field that was sold to be returned to its original owners, it will certainly prevent the sale of one that was not sold as of yet from taking effect.
 [^23]: As implied by the phrase "*years* of its crops," a sale must take effect for at least two years. Hence, the Jubilee does not nullify this sale and the land remains his for one year after the sale. *Kin'at Eliyahu* notes that since a Jubilee is always preceded by a Sabbatical year (when the purchaser cannot benefit from it), the land must have been sold two years before the Jubilee.
-[^24]: For such land is still called "his ancestral heritage" ([[Arakhin 14#14b|*Arachin* 14b]]).
+[^24]: For such land is still called "his ancestral heritage" (*Arachin* [[Arakhin 14#14b|14b]]).
 [^25]: The bracketed addition is based on the gloss of the Radbaz who explains that this law would not apply to non-fruit trees. They could be redeemed within the two years. He also explains that the seller must have specifically stated that the sale does not include the land. Otherwise, a certain amount of land is automatically included as stated in *Hilchot Mechirah* 24:1-2. See also the notes to *Hilchot Arichin* 4:25.
 [^26]: For the term "ancestral heritage" implies land.
 [^27]: Although the verse is speaking about the return of a purchased field that was consecrated, similar principles apply even if the field was not consecrated.
@@ -154,7 +154,7 @@ If a relative desired to redeem it, he may, as [*ibid.*:25] states: "And his red
 [^31]: Here also, the Rambam is speaking about a decrease as a result of market fluctuations. Needless to say, the same law would apply if the value of the land was reduced because of the purchaser's actions.
 [^32]: The classic example of this is the redemption of the field sold by Elimelech by his relative, Boaz, as described at the conclusion of the book of Ruth.
 [^33]: As the Radbaz mentions, in several sources (e.g., Chapter 12, Halachah 4), we find the principle that a present is considered as a sale. [*Kin'at Eliyahu* asks: If so, why is the prooftext necessary?]
-[^34]: I.e., we consider it as if they sold the share the other received in return for the share that they received. We do not apply the principle of *bereirah*, i.e., consider the portion received as the portion destined for them at the outset ([[Bekhorot 52#52b|*Bechorot* 52b]]).
+[^34]: I.e., we consider it as if they sold the share the other received in return for the share that they received. We do not apply the principle of *bereirah*, i.e., consider the portion received as the portion destined for them at the outset (*Bechorot* [[Bekhorot 52#52b|52b]]).
 [^35]: I.e., there is no need to nullify the entire division and recalculate. Instead, it is sufficient to merely exchange portions (*Kessef Mishneh*).
 [^36]: Who receives a double share of the inheritance. From the wording of [[Torah 49 - Ki Teitzei#^21-17|Deuteronomy 21:17]], our Sages conclude that this double portion is given to the firstborn as a present. Hence, since a present is considered as a sale, the share is returned and the inheritance redivided [the Rambam's Commentary to the Mishnah (*Bechorot* 9:11)].
 [^37]: And is therefore given his brother's share of the inheritance (*Hilchot Nachalot* 3:7). He is also called a "firstborn" ([[Torah 49 - Ki Teitzei#^25-6|Deuteronomy 25:6]] and thus the concepts mentioned in the previous note apply to him.

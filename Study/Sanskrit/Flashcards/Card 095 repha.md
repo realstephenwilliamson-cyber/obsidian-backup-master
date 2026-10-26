@@ -20,17 +20,13 @@ nyasa: "ra: blood (*rakta*)"
 ## Front
 
 - **Glyph:** र्◌
-- **Variation:** —
 - **Example:** विसर्ग
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘visa<u>r</u>ga’ (ceasing)
-- **Class (as printed):** —
-- **Note (no printed label):** Abbreviation for r which only occurs BEFORE another consonant.
-- **Grid:** seven rows (the stops, then य र ल व, then श ष स ह); in bold: र
-- **Example:** visarga (ceasing)
+> [!note]- Back
+> - **Pronunciation:** As in ‘visa<u>r</u>ga’ (ceasing)
+> - **Note:** Abbreviation for r which only occurs BEFORE another consonant.
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म / य <u>र</u> ल व / श ष स ह
+> - **Example:** visarga (ceasing)
 
 ## Register
 

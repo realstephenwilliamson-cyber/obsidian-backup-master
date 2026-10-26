@@ -173,7 +173,7 @@ When a fish does not have scales that cover its entire body, it is permitted. Ev
 [^4]: I.e., if one sees that the domesticated animal is not a camel, one can assume that it is kosher, for a camel is the only non-kosher animal without teeth on its upper jaw.
 [^5]: For a pig is the only non-kosher animal with split hooves.
 [^6]: For before slaughtering it, such an inspection would be painful for the animal.
-[^7]: Our translation is based on the commentary of the Meiri to [[Chullin 59#59a|*Chullin* 59a]]. Rashi interprets that passage slightly differently and his opinion is cited by the *Shulchan Aruch* (*Yoreh De'ah*79:1).
+[^7]: Our translation is based on the commentary of the Meiri to *Chullin* [[Chullin 59#59a|59a]]. Rashi interprets that passage slightly differently and his opinion is cited by the *Shulchan Aruch* (*Yoreh De'ah*79:1).
 [^8]: The *Maggid Mishneh* and the *Shulchan Aruch* (*Yoreh De'ah* 79:1) mention another sign for a kosher animal: horns.
 [^9]: As indicated by the Rambam's statements in the following halachah, the matter is dependent on the species and not the presence of distinguishing signs in and of themselves.
 [^10]: The Ra'avad qualifies the Rambam's ruling, stating that it applies only when the person possesses a non-kosher animal in his herd. If that is not the case, we do not suspect that a non-kosher newborn came from elsewhere. The *Maggid Mishneh* and the *Siftei Cohen* 79:6 do not accept this addition.
@@ -187,7 +187,7 @@ When a fish does not have scales that cover its entire body, it is permitted. Ev
 [^18]: See Chapter 7.
 [^19]: See the Rambam's Commentary to the Mishnah (*Chullin* 3:6) for a definition of these terms. The Ra'avad, the Rashba, and Rashi offer slightly different definitions for these terms.
 [^20]: Although it is not domesticated and lives like a wild beast, it is still placed in this category.
-[^21]: This was not a mythical beast, but a species of antelope known to exist during the Talmudic period ([[Chullin 59#59b|*Chullin* 59b]]).
+[^21]: This was not a mythical beast, but a species of antelope known to exist during the Talmudic period (*Chullin* [[Chullin 59#59b|59b]]).
 [^22]: And all other kosher wild beasts have two.
 [^23]: I.e., we accept the stringencies resulting from both positions. The *Turei Zahav* 80:3 adds that since we are not certain that this is required, we do not cover its blood on a festival. Similarly, the *Siftei Cohen* 80:4 states that a blessing is not recited before covering its blood.
 [^24]: See also *Hilchot Nazirut* 2:10-11 which states that in certain ways it is like a domesticated animal (its fat is forbidden). In others, it is like a wild beast (its blood must be covered). Still in others it is like neither a domesticated animal or a wild beast (for it is considered as a mixed species with either of them) and in others (that it must be slaughtered), it resembles both.
@@ -199,9 +199,9 @@ When a fish does not have scales that cover its entire body, it is permitted. Ev
 [^30]: As indicated by Chapter 3, Halachah 18, the knowledge of the names of the species is important. Otherwise, the hunter's word is not accepted.
 [^31]: For these are the only ones forbidden by the Torah.
 [^32]: If there is such a tradition, there is no necessity to check the signs mentioned in the following halachah.
-[^33]: [[Chullin 63#63b|*Chullin* 63b]] states that this refers to a person who taught hunting and not a teacher of Torah, for it is possible that the Torah teacher will not be able to actually identify the species. Nevertheless, if a Rabbinical authority testifies that he has received the tradition that a species is acceptable, we follow his ruling (*Siftei Cohen, loc. cit.*).
+[^33]: *Chullin* [[Chullin 63#63b|63b]] states that this refers to a person who taught hunting and not a teacher of Torah, for it is possible that the Torah teacher will not be able to actually identify the species. Nevertheless, if a Rabbinical authority testifies that he has received the tradition that a species is acceptable, we follow his ruling (*Siftei Cohen, loc. cit.*).
 [^34]: In his Commentary to the Mishnah (*Chullin* 3:6), the Rambam defines this as meaning "place its claws on the object that it desires to eat and eats it."
-[^35]: I.e., a claw that is positioned higher and behind the fowl's row of claws (Rashi, [[Chullin 62#62a|*Chulin* 62a]]). Although most species of fowl possess such a claw, it is called "extra," because it is not positioned in the row of claws. Alternatively, the Hebrew term *yeterah* can be translated not as "extra," but as "larger," i.e., a claw that is larger than the others (Rabbenu Nissim).
+[^35]: I.e., a claw that is positioned higher and behind the fowl's row of claws (Rashi, *Chulin* [[Chullin 62#62a|62a]]). Although most species of fowl possess such a claw, it is called "extra," because it is not positioned in the row of claws. Alternatively, the Hebrew term *yeterah* can be translated not as "extra," but as "larger," i.e., a claw that is larger than the others (Rabbenu Nissim).
 [^36]: An organ which parallels a human's stomach.
 [^37]: An extra muscular stomach that exists in fowl.  
     We are speaking about the inner membrane (Rambam's Commentary to the Mishnah, *Chulin* 3:6). See *Chatam Sofer, Yoreh De'ah*, Responsum 50.
@@ -209,14 +209,14 @@ When a fish does not have scales that cover its entire body, it is permitted. Ev
 [^39]: And we do not permit it.
 [^40]: I.e., it stands on a rope or a pole extended for it by gripping the rope or pole with its claws (the Rambam's Commentary to the Mishnah, *Chulin* 3:6).
 [^41]: For these actions indicate that it uses its claws to attack other animals.
-[^42]: [[Chullin 65#65a|*Chulin* 65a]] states that only species that are themselves impure will dwell together with impure species.
+[^42]: *Chulin* [[Chullin 65#65a|65a]] states that only species that are themselves impure will dwell together with impure species.
 [^43]: In this instance as well, the translation of the names of these species is a matter of debate among both Torah commentaries and zoologists. Our translation is taken from Rabbi Aryeh Kaplan's Living Torah. Consult the notes there for a detailed discussion of the matter. In practice, it is common in most communities not to partake of any species of locusts (*Turei Zahav* 85:1). In the Yemenite community, however, there are certain species of locusts which are eaten.
 [^44]: The Torah mentions four names of locust species and in connection with each states "according to its family," indicating that a sub-species is also permitted.
 [^45]: Halachah 15.
-[^46]: [[Chullin 66#66a|*Chulin* 66a]] speaks of four identifying signs for a kosher locust: a) four wings, 2 long legs, four legs, and the fact that its wings cover the majority of its body..
+[^46]: *Chulin* [[Chullin 66#66a|66a]] speaks of four identifying signs for a kosher locust: a) four wings, 2 long legs, four legs, and the fact that its wings cover the majority of its body..
 [^47]: Note the Rambam's Commentary to the Mishneh (*Chullin81*, the conclusion of ch. 3) which states that the factor of fundamental importance is that the specis be referred to as a locust. See *Shulchan Aruch* (*Yoreh De'ah* 85a).
 [^48]: The *Maggid Mishneh* explains that this term implies that the scales are not an integral part of the fish but can be separated from its body either by hand or with a utensil. If they cannot be separated from the fish, the fish is not kosher [Rama (*Yoreh De'ah* 83:1)].
 [^49]: Thus if one finds scales on a piece of fish, there is no need to check whether it possessed fins (the *Shulchan Aruch* (*Yoreh De'ah* 83:3).  
-    [[Chullin 66#66b|*Chulin* 66b]] asks: If so, why did the Torah mention fins and answers that this magnifies and amplifies the Torah.
+    *Chulin* [[Chullin 66#66b|66b]] asks: If so, why did the Torah mention fins and answers that this magnifies and amplifies the Torah.
 [^50]: There are several species of kosher fish which shed their scales in this manner.
 [^51]: The *Tur* and Rama (*loc. cit.*) quote the view of certain *Rishonim* who maintain that in such an instance, the scale must be located under its gills, fins, or tail.

@@ -52,7 +52,7 @@ Ps. xlv. 6, 7.
 
 \[Note again the fidelity of Justin to this principle, and the fact that in no other way could a Jew be persuaded to listen to 2138
 
-a Christian. Acts xvii. 11.\]
+a Christian. [[Acts 17#^17-11|Acts xvii. 11]].\]
 
 *[p. 359]* ^pg399
 
@@ -166,7 +166,7 @@ Literally, “judgment.”
 
 Or, “in the beginning, before all creatures.” \[Justin’s reference to Josh. i. 13–15 deserves special consideration; for he 2167
 
-supposes that the true Joshua (Jesus) was the substance, and the true “captain of salvation,” of whom this one was but a shadow (Heb. iv. 8, *margin*), type, and pledge. See cap. lxii.\]
+supposes that the true Joshua (Jesus) was the substance, and the true “captain of salvation,” of whom this one was but a shadow ([[Hebrews 04#^4-8|Heb. iv. 8]], *margin*), type, and pledge. See cap. lxii.\]
 
 *[p. 365]* ^pg405
 
@@ -588,19 +588,19 @@ Not in all edd.
 
 2235
 
-Matt. viii. 11.
+[[Matthew 08#^8-11|Matt. viii. 11]].
 
 2236
 
-Matt. vii. 22.
+[[Matthew 07#^7-22|Matt. vii. 22]].
 
 2237
 
-Matt. xxv. 41.
+[[Matthew 25#^25-41|Matt. xxv. 41]].
 
 2238
 
-Luke x. 19. \[“And on *scolopendras*” (i.e. *centipedes*) not in the original.\]
+[[Luke 10#^10-19|Luke x. 19]]. \[“And on *scolopendras*” (i.e. *centipedes*) not in the original.\]
 
 *[p. 382]* ^pg422
 
@@ -612,7 +612,7 @@ will, and made Him known, being Christ, as God strong and to be worshipped.”
 
 Then Trypho said, “I admit that such and so great arguments are sufficient to persuade one; but I wish \[you\] to know that I ask you for the proof which you have frequently proposed to give me. Proceed then to make this plain to us, that we may see how you prove that that \[passage\] refers to this Christ of yours. For we assert that the prophecy relates to Hezekiah.” And I replied, “I shall do as you wish. But show me yourselves first of all how it is said of Hezekiah, that before he knew how to call father or mother, he received the power of Damascus and the spoils of Samaria in the presence of the king of Assyria. For it will not be conceded to you, as you wish to explain it, that Hezekiah waged war with the inhabitants of Damascus and Samaria in presence of the king of Assyria. ‘For before the child knows how to call father or mother,’ the prophetic word said, ‘He shall take the power of Damascus and spoils of Samaria in presence of the king of Assyria.’ For if the Spirit of prophecy had not made the statement with an addition, ‘Before the child knows how to call father or mother, he shall take the power of Damascus and spoils of Samaria,’ but had only said, ‘And shall bear a son, and he shall take the power of Damascus and spoils of Samaria,’ then you might say that God foretold that he would take these things, since He foreknew it. But now the prophecy has stated it with this addition: ‘Before the child knows how to call father or mother, he shall take the power of Damascus and spoils of Samaria.’ And you cannot prove that such a thing ever happened to any one among the Jews. But we are able to prove that it happened in the case of our Christ. For at the time of His birth, Magi who came from Arabia worshipped Him, coming first to Herod, who then was sovereign in your land, and whom the Scripture calls king of Assyria on account of his ungodly and sinful character. For you know,” continued I, “that the Holy Spirit oftentimes announces such events by parables and similitudes; just as He did towards all the people in Jerusalem, frequently saying to them, ‘Thy father is an Amorite, and thy mother a Hittite.’<sup>2242</sup>
 
-Luke ix. 22.
+[[Luke 09#^9-22|Luke ix. 22]].
 
 2240
 
@@ -708,7 +708,7 @@ in Jerusalem,” or “that the saints will live a thousand years in Jerusalem.�
 
 they shall find joy and gladness in it, which things I create. For, Behold, I make Jerusalem a rejoicing, and My people a joy; and I shall rejoice over Jerusalem, and be glad over My people. And the voice of weeping shall be no more heard in her, or the voice of crying. And there shall be no more there a person of immature years, or an old man who shall not fulfil his days.<sup>2265</sup> For the young man shall be an hundred years old;<sup>2266</sup> but the sinner who dies an hundred years old,<sup>2267</sup> he shall be accursed. And they shall build houses, and shall themselves inhabit them; and they shall plant vines, and shall themselves eat the produce of them, and drink the wine. They shall not build, and others inhabit; they shall not plant, and others eat. For according to the days of the tree of life shall be the days of my people; the works of their toil shall abound.<sup>2268</sup> Mine elect shall not toil fruitlessly, or beget children to be cursed; for they shall be a seed righteous and blessed by the Lord, and their offspring with them. And it shall come to pass, that before they call I will hear; while they are still speaking, I shall say, What is it? Then shall the wolves and the lambs feed together, and the lion shall eat straw like the ox; but the serpent \[shall eat\] earth as bread. They shall not hurt or maltreat each other on the holy mountain, saith the Lord.’<sup>2269</sup> Now we have understood that the expression used among these words, ‘According to the days of the tree \[of life<sup>2270</sup>\] shall be the days of my people; the works of their toil shall abound’ obscurely predicts a thousand years. For as Adam was told that in the day he ate of the tree he would die, we know that he did not complete a thousand years. We have perceived, moreover, that the expression, ‘The day of the Lord is as a thousand years,’<sup>2271</sup> is connected with this subject. And further, there was a certain man with us, whose name was John, one of the apostles of Christ, who prophesied, by a revelation that was made to him, that those who believed in our Christ would dwell<sup>2272</sup> a thousand years in Jerusalem; and that thereafter the general, and, in short, the eternal resurrection and judgment of all men would likewise take place. Just as our Lord also said, ‘They shall neither marry nor be given in marriage, but shall be equal to the angels, the children of the God of the resurrection.’<sup>2273</sup>
 
-240 Literally, “time.” 2265 Literally, “the son of an hundred years.” 2266 Literally, “the son of an hundred years.” 2267 Or, as in margin of A. V., “they shall make the works of their toil continue long,” so reading παλαιώσουσιν for 2268 πλεονάσουσιν: thus also LXX. Isa. lxv. 17 to end. 2269 These words are not found in the mss. 2270 Ps. xc. 4; 2 Pet. iii. 8. 2271 Literally, “make.” \[A very noteworthy passage, as a primitive exposition of Rev. xx. 4–5. See Kaye, chap. v.\] 2272 Luke xx. 35f.
+240 Literally, “time.” 2265 Literally, “the son of an hundred years.” 2266 Literally, “the son of an hundred years.” 2267 Or, as in margin of A. V., “they shall make the works of their toil continue long,” so reading παλαιώσουσιν for 2268 πλεονάσουσιν: thus also LXX. Isa. lxv. 17 to end. 2269 These words are not found in the mss. 2270 Ps. xc. 4; [[2 Peter 03#^3-8|2 Pet. iii. 8]]. 2271 Literally, “make.” \[A very noteworthy passage, as a primitive exposition of [[Revelation 20#^20-4|Rev. xx. 4–5]]. See Kaye, chap. v.\] 2272 [[Luke 20#^20-35|Luke xx. 35f.]]
 
 *[p. 388]* ^pg428
 

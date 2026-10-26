@@ -20,16 +20,13 @@ nyasa: "belly (*jaṭhara*)"
 ## Front
 
 - **Glyph:** भ
-- **Variation:** —
 - **Example:** भक्ति
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘ru<u>b h</u>oney’
-- **Class (as printed):** 5 (labial) · soft · aspirated
-- **Grid:** the five rows of stops; in bold: भ
-- **Example:** bhakti (devotion)
+> [!note]- Back
+> - **Pronunciation:** As in ‘ru<u>b h</u>oney’
+> - **Class:** labial · soft · aspirated
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब <u>भ</u> म
+> - **Example:** bhakti (devotion)
 
 ## Register
 

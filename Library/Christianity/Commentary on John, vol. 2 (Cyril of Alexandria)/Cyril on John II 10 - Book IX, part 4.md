@@ -45,20 +45,20 @@ We confess that our object is to show that those who hold such blasphemous opini
 
 And that they who have dared to write such things have thereby reached the furthest verge of folly, let us if you please proceed to show in another way, as is quite possible, from the Divine Scripture; and let us hasten to prove to our hearers that we are in the Son in one way, whereas the Son is in His own Father in another way.
 
-17\. -19. 1Cor. xii. 3.
+17\. -19. [[1 Corinthians 12#^12-3|1Cor. xii. 3]].
 
 
 *[p. 287]* ^pg313
 
 For one person is not a likeness of another’s substance when he conforms himself to that other by the exercise of a virtuous will, nor is he on that account said to be in the other; but when he is in natural identity with the other, and possesses one essence with him. And let the most wise John be called in as a witness for us on this point, since he says: Yea, and our fellowship is with the Futher and with His Son Jesus Christ. How then, pray, do they say, and in what manner do they think fit to assert, that we have fellowship with the Father and with His Son Jesus Christ ? For if we are considered to be in Them, as having our own essence commingled with the Divine nature, that is, with the Father and the Son, and if the expression “ fellowship ” does not rather refer to the similarity of our wills ; how can we have it with the Father and with the Son, when (according to these heretics) the Father and the Son are not Consubstantial ? For in that case we must hold opinions worthy of ridicule, and say that we have cleft our own nature asunder into two parts, and given one half to the Father and the other to ourselves and to the Son, and thus we consider ourselves to be in Them. Or else we must reject such absurdity of statement, and say that by doing our best to make our own disposition brightly radiant through the exercise of a virtuous will and through conformity to the Divine and ineffable beauty, we obtain for ourselves the grace of fellowship with Them. But shall we therefore say that the Son is in the Father after a similar manner to this, and that He only possesses a non-essential and artificially-added fellowship with the One Who begat Him? And yet, if so, why in the world does He wish, through the similarity and indeed identity of their works, to lead our mind to feel the necessity of believing without any hesitation that He is Himself in the Father, and that He again has also the Father in Himself? For is it not seen by every one to be perfectly evident and true that, wishing the brilliancy of His deeds to be investigated by us, He shows Himself equal in strength to c. xiv. 11.
 
-18\. John i. 3.
+18\. [[John 01#^1-3|John i. 3]].
 
 *[p. 288]* ^pg314
 
 ce. xiv. 11.
 
-1S John ii. 5, 6.
+[[1 John 02#^2-5|1S John ii. 5]], [[1 John 02#^2-6|6]].
 
 Thid. 24.
 
@@ -142,7 +142,7 @@ But if it tends to the glory of the Father that the Son should be seen possessed
 
 viii. 6.
 
-Phil. i. 2.
+[[Philippians 01#^1-2|Phil. i. 2]].
 
 14 If ye shall ask anything in My Name, that will I do.
 
@@ -190,7 +190,7 @@ the pursuit thereof. For albeit a man say that he loves God, he will not therefo
 
 in bare speech, nor is the beauty of piety towards God ᾿ fashioned in naked words; but rather it is really distinguished by means of good deeds effected and an obedient temper; and the keeping of the Divine precepts best gives living expression to love towards the Divinity, and presents the picture of a virtue wholly living and true; not sketched out in mere sounds that flow from the tongue, as we have said, but gleaming as it were and altogether radiant with brilliant colours, to wit, the portraits of good works. And indeed our Lord Jesus the Christ shows us this plainly, when He says: Not every one that saith wnto Me, Lord, Lord, shall enter into the kingdom of heaven ; but he that doeth the will of My Father, Which is in heaven. For the proof of faith lies not in barren words or professions, but in the qualities of acts, and indeed the Holy Scripture says that it is dead when the works do not follow therewith. For the knowledge that God is One, it says, we shall find, not only in human minds, but in the unclean devils themselves; who also shudder, even involuntarily, at the power of Him that made them. Howbeit to keep the radiance of their acts concurrent with their faith is manifestly the beauty and ornament of those only who truly love God. So then the proof of love and the most perfect definition of faith is the observance of the Evangelic decrees and the keeping of the Divine precepts. And perhaps it would be in no wise difficult to add other things hereunto, akin in their drift; only that I suppose they do not suit the present occasion. Wherefore we must once more betake ourselves to such points as are more suitable to what lies before us. Jf ye love Me, He says, ye will keep My commandments. For indeed thou must understand once again and call well to mind that oftentimes, when conversing with His own disciples or even with the Jews themselves, He would S. Matt. vil. 21.
 
-Cf. S. James ii. 20, 26. Ibid. 19.
+Cf. S. [[James 02#^2-20|James ii. 20]], [[James 02#^2-26|26]]. Ibid. 19.
 
 *[p. 300]* ^pg326
 
@@ -241,7 +241,7 @@ thereof. For if a man say that the Spirit is not of the essence of God, how then
 
 i, 4.
 
-Gal. iv.6.
+[[Galatians 04#^4-6|Gal. iv.6]].
 
 804 = The worldly-minded receive not the Spirit.
 
@@ -365,7 +365,7 @@ c. xiv. 20.
 
 Supra ver, 19.
 
-Heb.iv.7.
+[[Hebrews 04#^4-7|Heb.iv.7]].
 
 9 Reading, χριστοφύρος Col. iii. 3.
 
@@ -383,7 +383,7 @@ For away with their idle talkings and the pretentiousness of their God-hating sp
 
 God That maketh all things and changeth the fushion of Cuar.1. them, as it is written. So then at that day, or time, et when ye also yourselves shall live—for I do live, albeit 8. made man like unto you, and clad with the body which as touching its proper nature is subject to corruption—ye shall recognise clearly, He says, that I am in the Father, and ye in Me, and I in you. And we shall be disposed to think that the Lord said this unto us, not with intent we might suppose that He is in the Father according to the law of love, as indeed our opponents thought fit to believe, but according to the power of a deep mystery, which is also both difficult to conceive, and hard to utter; howbeit I will essay how I may be able to expound it.
 
-Now I hold that the mind of any man on earth is very far from equal to the accurate exposition hereof; notwithstanding, in the fervour of love, albeit with powers of sight and utterance but little whetted, let us now consider the aim of the Incarnation of the Only-begotten. Let us, I pray you, examine the cause, wherefore, being as God in the form of God the Father, He cownted it not Phil. ii. a prize to be on aw equality with God, but emptied ® 1: Himself, tuking the form of a servant, and endured the Heb. xii. cross despising the shame. For in this way the depth 2. of the mysteries before us will be manifest, so far as is possible, howbeit hardly so. But we shall learn how the Son is in the Father, naturally, that is, and not by virtue of the relation of being loved and loving as invented by our opponents; and we again in Him after the same sort, and He in us. Well then, one cause the wise Paul expounded was a true and most general cause of the Incarnation of the Only-begotten, when he said: For God the Father was pleased to gather together in one Eph.i.10. all things in Christ ; and “gathering in one,” both the name and the thing, plainly involves the bringing back again and resumption of the things that have digressed to an unconformable end unto what they were in the beginning. Then desiring to put before us in a clear
+Now I hold that the mind of any man on earth is very far from equal to the accurate exposition hereof; notwithstanding, in the fervour of love, albeit with powers of sight and utterance but little whetted, let us now consider the aim of the Incarnation of the Only-begotten. Let us, I pray you, examine the cause, wherefore, being as God in the form of God the Father, He cownted it not Phil. ii. a prize to be on aw equality with God, but emptied ® 1: Himself, tuking the form of a servant, and endured the Heb. xii. cross despising the shame. For in this way the depth 2. of the mysteries before us will be manifest, so far as is possible, howbeit hardly so. But we shall learn how the Son is in the Father, naturally, that is, and not by virtue of the relation of being loved and loving as invented by our opponents; and we again in Him after the same sort, and He in us. Well then, one cause the wise Paul expounded was a true and most general cause of the Incarnation of the Only-begotten, when he said: For God the Father was pleased to gather together in one [[Ephesians 01#^1-10|Eph.i.10]]. all things in Christ ; and “gathering in one,” both the name and the thing, plainly involves the bringing back again and resumption of the things that have digressed to an unconformable end unto what they were in the beginning. Then desiring to put before us in a clear
 
 *[p. 316]* ^pg342
 
@@ -395,7 +395,7 @@ Rom. viii.
 
 Heb. ii, 14, 15.
 
-S. John i. 11-18, light the methods of the gathering in detail, at one time he said: For what the Law could not do, in that it was weak through the flesh, God, sending His own Son in the likeness of sinful flesh and us an offering for sin, condemned sin in the flesh: that the ordinance of the Law might be fulfilled in ws, who walk not after the flesh, but after the Spivit; and at another again: Since then the children ure sharers in flesh and blood, He also Himself in like manner partook of the same; that through death Ile might bring to nought him that had the power of death, that is the devil; and might deliver all them who through fear of death were all their lifetime subject to bondage. And herein we have two methods of the gathering together which Paul expounded the doctrine of the Incarnation of the Only-begotten as of necessity involving ; but a further method, inclusive of the others, was set forth by the wise Evangelist John. For he writes thus touching Christ: He came wnto His own, and they that were His own received Him not. But as many as received Him, to them gave He the right to become children of God, even to them that believe on His Name: which were born not of blood, nor of the will of the flesh, nor of the will of man, but of God. So then it is abundantly evident and manifest I conceive unto all, that it was for these causes especially that, being by nature God and of God, the Only-begotten has become man; namely with intent to condemn sin in the flesh, and by His own Death to slay Death, and to make us Sons of God, regenerating in the Spirit them that are on earth unto supernatural dignity. For it was, I trow, exceeding good, after this sort to gather together again into one and to recover unto the ancient estate the sore-stumbled race, to wit, the human.
+S. [[John 01#^1-11|John i. 11-18]], light the methods of the gathering in detail, at one time he said: For what the Law could not do, in that it was weak through the flesh, God, sending His own Son in the likeness of sinful flesh and us an offering for sin, condemned sin in the flesh: that the ordinance of the Law might be fulfilled in ws, who walk not after the flesh, but after the Spivit; and at another again: Since then the children ure sharers in flesh and blood, He also Himself in like manner partook of the same; that through death Ile might bring to nought him that had the power of death, that is the devil; and might deliver all them who through fear of death were all their lifetime subject to bondage. And herein we have two methods of the gathering together which Paul expounded the doctrine of the Incarnation of the Only-begotten as of necessity involving ; but a further method, inclusive of the others, was set forth by the wise Evangelist John. For he writes thus touching Christ: He came wnto His own, and they that were His own received Him not. But as many as received Him, to them gave He the right to become children of God, even to them that believe on His Name: which were born not of blood, nor of the will of the flesh, nor of the will of man, but of God. So then it is abundantly evident and manifest I conceive unto all, that it was for these causes especially that, being by nature God and of God, the Only-begotten has become man; namely with intent to condemn sin in the flesh, and by His own Death to slay Death, and to make us Sons of God, regenerating in the Spirit them that are on earth unto supernatural dignity. For it was, I trow, exceeding good, after this sort to gather together again into one and to recover unto the ancient estate the sore-stumbled race, to wit, the human.
 
 Again, let us set each of the causes just given side by side with the Lord’s saying, and thereupon make such remarks that seem fit. For we must inquire in what sense it may be seemly to conceive that God the Father condemned sin in the flesh by sending His own Son wn
 
@@ -440,7 +440,7 @@ c. xiv. 20.
 
 1 Tim. ii.
 
-Heb. i. 3.
+[[Hebrews 01#^1-3|Heb. i. 3]].
 
 Supra i, fallen—but how this came to pass the Holy Scripture must teach you, for the account of it therein is plain—God the Father both determined and took in hand to gather together once more in Christ the nature of man unto its ancient estate, and willing it accomplished it withal. So then it naturally follows that we should observe how it has come to pass. It was not otherwise possible for man, forasmuch as he was of a nature that was perishing, to escape death, save by recovering that ancient grace, and partaking once more in God Who holdeth all things together in being and preserveth them in life through the Son in the Spirit. Therefore He hath become partaker of blood and flesh, i.e. He hath become man, being by nature Life, and begotten of the Life that is by nature, i.e. of God the Father—to wit, His Only-begotten Word, with intent that ineffably and inexpressibly and as He alone could skill to do, uniting Himself with the flesh that by the law of its own nature was perishing, He might bring it back unto His own Life and make it through Himself partaker of God the Father. For He is Mediator between God and men, according as it is written, knit unto God the Father naturally as God and of Him, and again unto men as man; and withal having in Himself the Father and being Himself in the Father; for He is the impress and effulgence of His Person, and not distinct from the Essence, whereof He is impress and wherefrom He proceeds as effulgence ; but both being Himself in It, and having It in Himself; and again having us in Himself according as He wears our nature and our body has become entitled the Body of the Word. For the Word was made flesh, according to the utterance of John. And He wears our nature, remoulding it unto His own Life. And He is also Himself in us; for we have all been made partakers of Him, and have Him in ourselves through the Spirit ; for, for this cause we have Both, being made partukers of the Divine Nature, and are entitled sons, after this sort having in us also the Father Himself through the Son,
 
@@ -453,7 +453,7 @@ Christ is iu us through the Spirit. 32)
 
 And Paul will testify hereof where he says: Because ye ave sons God sent forth the Spirit of His Son into your hearts, crying, Abba, Father. For His Spirit is not something diverse from the Son, I mean as touching the law of identity, to wit, identity of nature.
 
-This being the result of the progress of our discourse of these things, let us now take the meaning of what has been set forth, and adapt it to the interpretation of our Saviour’s words: For in that day ye shall know, He says, that I am in the Father, and ye in Me, and 1 im you. For I live Myself, He says, for I am Life by nature, and have shown the Temple of My own Body alive; but when ye also yourselves, albeit ye are of a corruptible nature, shall behold yourselves living in like manner as 1 do, then indeed ye shall know exceeding c. xiv. 20. Gal. iv. 6.
+This being the result of the progress of our discourse of these things, let us now take the meaning of what has been set forth, and adapt it to the interpretation of our Saviour’s words: For in that day ye shall know, He says, that I am in the Father, and ye in Me, and 1 im you. For I live Myself, He says, for I am Life by nature, and have shown the Temple of My own Body alive; but when ye also yourselves, albeit ye are of a corruptible nature, shall behold yourselves living in like manner as 1 do, then indeed ye shall know exceeding c. xiv. 20. [[Galatians 04#^4-6|Gal. iv. 6]].
 
 clearly, that I, being Life by nature, did knit you, through Myself unto God the Father, Who is also Himself by nature Life, making you partakers as it were and sharers in His Incorruption. For naturally am 1 in the Father—for I am the Fruit of His Essence and Its real Offspring, subsisting in It, having shone forth from It, Life of Life—and ye are in Me and I in you, forasmuch as I appeared as a man Myself, and made you partukers of the Divine Nature by putting My Spirit to dwell in you. For Christ is in us through the Spirit, converting that which has a natural tendency to corruption into incorruption, and transferring it from the condition of dying unto that which is otherwise. Wherefore also Paul says that He that raised Jesus Christ from the dead, shull quicken also your mortal \* bodies, through His Spirit that dwelleth in you. For albeit the Holy Spirit proceeds from the Father, yet He comes through the Son, and is His Own; for all things are through the Son from the Father. For that it was through the Spirit we were wrought anew unto cternal life, the Divine Psalmist will bear us record, when he cries as unto the God of all: When Thow openest Thine Hand, all things shall be filled with goodness ; when
 

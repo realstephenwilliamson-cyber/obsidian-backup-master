@@ -20,17 +20,13 @@ nyasa: "lower teeth (*rada*)"
 ## Front
 
 - **Glyph:** ए
-- **Variation:** —
 - **Example:** एतद्
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘<u>e</u>tude’
-- **Class (as printed):** 1,2 · long, soft · complex vowel
-- **Note (no printed label):** Full form - used only to begin a word · Guṇa (stronger form) of i/ī (from a+i).
-- **Grid:** the vowels अ आ इ ई उ ऊ / ए ऐ ओ औ / ऋ ॠ ऌ; in bold: ए
-- **Example:** etad (this)
+> [!note]- Back
+> - **Pronunciation:** As in ‘<u>e</u>tude’
+> - **Class:** long, soft · complex vowel · Guṇa (stronger form) of i/ī (from a+i).
+> - अ आ इ ई उ ऊ / <u>ए</u> ऐ ओ औ / ऋ ॠ ऌ
+> - **Example:** etad (this)
 
 ## Register
 

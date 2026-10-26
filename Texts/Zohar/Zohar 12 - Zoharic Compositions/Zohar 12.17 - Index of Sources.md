@@ -2032,8 +2032,8 @@ This index includes sources that are quoted (rather than merely cited or alluded
 - on [[Torah 18 - Mishpatim#^24-10|Exodus 24:10]] 625–26
 - on [[Torah 37 - Sh'lach#^15-39|Numbers 15:39]] 181
 - on [[Ezekiel 01#^1-1|Ezekiel 1:1]] 450
-- on BT [[Avodah Zarah 7#7b|*Avodah Zarah* 7b]] 177
-- on BT [[Sotah 13#13b|*Sotah* 13b]] 554–55
+- on BT *Avodah Zarah* [[Avodah Zarah 7#7b|7b]] 177
+- on BT *Sotah* [[Sotah 13#13b|13b]] 554–55
 
 #### *Sha’arei Teshuvah*
 

@@ -84,18 +84,18 @@ Blessed be God who grants assistance. ^12-12
 [^6]: See the following halachah and notes.
 [^7]: See Chapter 6, Halachah 10; *Hilchot Nedarim* 2:12.
 [^8]: The Ra'avad differs with this principle, maintaining that there is no difference between the Torah and the other books of the Holy Scriptures with regard to their fundamental holiness. Thus a person who takes an oath by the contents of any of the other books of the Bible is also liable.  
-    The difference between these two understandings depends on whether one understands the passage from [[Nedarim 14#14b|*Nedarim* 14b]] as referring to only vows (as is explicitly stated, and as is the Ra'avad's understanding) or as apply also to oaths (as the Rambam maintains). The Rama (*Yoreh De'ah* 212:1) quotes the Rambam's view.
+    The difference between these two understandings depends on whether one understands the passage from *Nedarim* [[Nedarim 14#14b|14b]] as referring to only vows (as is explicitly stated, and as is the Ra'avad's understanding) or as apply also to oaths (as the Rambam maintains). The Rama (*Yoreh De'ah* 212:1) quotes the Rambam's view.
 [^9]: I.e., he states that explicitly.
 [^10]: In which instance the person is liable for taking an oath, as stated in Chapter 2, Halachah 2.
 [^11]: For he is not taking an oath by God's name.
-[^12]: The *Chatam Sofer* (in his commentary to [[Nedarim 14#14b|*Nedarim* 14b]]) states that the Rambam is referring to an instance where the person specifically picked up the Torah scroll for the purpose of taking an oath. Otherwise, even if he was holding the scroll in his hand before taking the oath, this law would not apply. Rashi understands the passage differently.
+[^12]: The *Chatam Sofer* (in his commentary to *Nedarim* [[Nedarim 14#14b|14b]]) states that the Rambam is referring to an instance where the person specifically picked up the Torah scroll for the purpose of taking an oath. Otherwise, even if he was holding the scroll in his hand before taking the oath, this law would not apply. Rashi understands the passage differently.
 [^13]: For by taking the Torah scroll in his hand, the person is implying that he is considering the matter with the seriousness of an oath (*Nimukei Yosef*).
 [^14]: For he knows the distinction mentioned in the previous halachah and thus understands that the oath is not effective and does not intend for it to be binding. Note, however, the *Beit Yosef* (*Yoreh De'ah* 212) who severely criticizes scholars who take an oath by the Torah, knowing that it is not effective to deceive the people to whom they are taking the oath.
 [^15]: Who does not know the above distinction.
 [^16]: As explained in Halachah 3.
 [^17]: Note the contrast to the law that applies when a servant takes a Nazirite vow (*Hilchot Nazirut* 2:7).
 [^18]: The Ra'avad, however, maintains that the Rambam's ruling applies only to oaths that will affect the servant's capacity to work. If that is not the case, the oath can take effect. As the Rambam writes in his Commentary to the Mishnah (*Nazirut* 9:1), there is a difference between vows and oaths in this regard. The Ra'avad's statement will apply with regard to vows, but not to oaths (*Or Sameach*).
-[^19]: Which is not effective as stated in [[Nedarim 47#47a|*Nedarim* 47a]]. See also Chapter 5, Halachah 1.
+[^19]: Which is not effective as stated in *Nedarim* [[Nedarim 47#47a|47a]]. See also Chapter 5, Halachah 1.
 [^20]: Boys under 12 and girls under 11. See *Hilchot Nedarim* 11:1.
 [^21]: For they are not liable for any of the Torah's commandments.
 [^22]: The Radbaz explains that we are not speaking about a person in mortal danger, for that would apply with regard to an adult as well. Instead, the intent is aggravation or sickness.
@@ -107,11 +107,11 @@ Blessed be God who grants assistance. ^12-12
 [^27]: Cf. [[Jeremiah 09#^9-4|Jeremiah 9:4]].
 [^28]: The *Turei Zahav* 334:18 mentions that the Rambam's view is more lenient than that of the *Sefer Mitzvot Gadol* who maintains that this leniency applies only when one does not know of the prohibition at all. According to his view, one who knows of the prohibition, but accidentally recites a blessing in vain must be placed under a ban.
 [^29]: I.e., the seven names for God mentioned in *Hilchot Yesodei HaTorah*, ch. 6.
-[^30]: See *Sefer HaMitzvot* (positive commandment 4) which quotes [[Sanhedrin 56#56a|*Sanhedrin* 56a]] and [[Temurah 4#4a|*Temurah* 4a]] as deriving this concept from another prooftext ([[Torah 45 - Vaetchanan#^6-13|Deuteronomy 6:13]] .
+[^30]: See *Sefer HaMitzvot* (positive commandment 4) which quotes *Sanhedrin* [[Sanhedrin 56#56a|56a]] and *Temurah* [[Temurah 4#4a|4a]] as deriving this concept from another prooftext ([[Torah 45 - Vaetchanan#^6-13|Deuteronomy 6:13]] .
 [^31]: For one does not treat something that is truly revered with such carelessness.
 [^32]: See *Hilchot Berachot* 4:10 which states that when a person recites a blessing in vain, he should say *Baruch shem kevod malchuto leolam va'ed*, "Blessed be the name of His glorious kingdom forever."
 [^33]: Chapter 6, Halachah 1.
 [^34]: For this indicates that he does not accept the Oral Tradition that Moses communicated. For the release of vows is not explicitly stated in the Torah, but instead communicated by the Oral Tradition, as stated above.
 [^35]: See Chapter 6, Halachot 9-10 which gives examples of such situations.
-[^36]: For it is possible that unwittingly, he could take a false oath and thus bring severe retribution upon himself and others. See [[Gittin 35#35a|*Gittin* 35a]] which explains how a woman unknowingly took a false oath and caused one of her sons to die.
+[^36]: For it is possible that unwittingly, he could take a false oath and thus bring severe retribution upon himself and others. See *Gittin* [[Gittin 35#35a|35a]] which explains how a woman unknowingly took a false oath and caused one of her sons to die.
 [^37]: See *Hilchot Nedarim* 1:4 which states that keeping an oath or a vow fulfills a Scriptural mitzvah. Nevertheless, there is a difference between oaths and vows. As the Ra'avad (see also *Hilchot Nedarim* 13:25) mentions, it is desirable to have vows released. Oaths, by contrast, should be observed and not released.

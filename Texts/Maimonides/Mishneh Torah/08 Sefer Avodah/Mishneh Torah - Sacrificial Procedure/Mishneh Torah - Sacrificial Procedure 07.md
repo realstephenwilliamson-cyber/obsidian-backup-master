@@ -96,7 +96,7 @@ Why do they turn to the left? So that they will encounter the southwest corner f
 [^8]: They are not skinned before being burnt, as related in Chapter 5, Halachah 18.
 [^9]: See Halachah 4.
 [^10]: It was to the east of the ramp ascending to the altar (*Sifra, Vayikra* 9:3).
-[^11]: Rashi ([[Zevachim 104#104b|*Zevachim* 104b]]) explains that since these sacrifices are eaten in the Temple Courtyard, they should also be burnt there.
+[^11]: Rashi (*Zevachim* [[Zevachim 104#104b|104b]]) explains that since these sacrifices are eaten in the Temple Courtyard, they should also be burnt there.
 [^12]: Since these *eimorim* should have been burnt on the altar, they are burnt in the Temple Courtyard if they became impure (Radbaz). The sacrifices of lesser sanctity themselves should be burnt in Jerusalem (the place where they are eaten). We can assume that they were burnt on the Temple Mount, at the *birah* (*ibid.,* gloss to Halachah 4).
 [^13]: Although they had reached a stage where they were to be taken out of the Temple Courtyard, since in fact they had not been removed from the Temple Courtyard before they were disqualified, they should be burnt there (Radbaz).
 [^14]: See more details in *Hilchot Pesulei HaMukdashim* 19:3.
@@ -107,7 +107,7 @@ Why do they turn to the left? So that they will encounter the southwest corner f
 [^19]: This indicates that burning them is not a fundamental element of the sacrificial service (Radbaz).
 [^20]: There are some exceptions to this as stated in *Hilchot Pesulei HaMukdashim* 19:5.
 [^21]: I.e., the wood need not meet the criteria for wood required for the altar.
-[^22]: From [[Zevachim 63#63a|*Zevachim* 63a]],b, it is apparent that, after the fact, a sin-offering is acceptable if *melikah* is performed at any place in the Temple Courtyard. (See also Halachah 9.) This corner is mentioned as an initial preference, because the blood must be sprinkled there (Radbaz).
+[^22]: From *Zevachim* [[Zevachim 63#63a|63a]],b, it is apparent that, after the fact, a sin-offering is acceptable if *melikah* is performed at any place in the Temple Courtyard. (See also Halachah 9.) This corner is mentioned as an initial preference, because the blood must be sprinkled there (Radbaz).
 [^23]: Rav Yosef Corcus states that the reference is to the order of *melikah* described at the conclusion of ch. 6. *Melikah* at the southwestern corner of the altar is not mentioned elsewhere.
 [^24]: The windpipe and the gullet.
 [^25]: In contrast to the requirement for the burnt-offering mentioned in Chapter 6, Halachah 20.
@@ -116,7 +116,7 @@ Why do they turn to the left? So that they will encounter the southwest corner f
 [^27]: In contrast to the requirement for the burnt-offering mentioned in Chapter 6, Halachah 20.
 [^28]: Hence when performing *melikah*, the priest does not ascend on the ramp, but rather stands on the ground (Radbaz).
 [^29]: The Rambam is explaining why the obligation is to present the blood of a sin-offering from fowl on the lower half of the altar in contrast to the blood of a sin-offering from an animal which is presented on the upper half.
-[^30]: Although there is a difference of opinion concerning this matter in the Talmud and there are passages which appear to follow the other view, the Rambam's approach represents the consensus, as indicated by [[Meilah 9#9b|*Me'ilah* 9b]] (Radbaz, *Kessef Mishneh*).
+[^30]: Although there is a difference of opinion concerning this matter in the Talmud and there are passages which appear to follow the other view, the Rambam's approach represents the consensus, as indicated by *Me'ilah* [[Meilah 9#9b|9b]] (Radbaz, *Kessef Mishneh*).
 [^31]: See Chapter 10.
 [^32]: The pinky and the finger next to it on his left hand.
 [^33]: The index finger and the middle finger.

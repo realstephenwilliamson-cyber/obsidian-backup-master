@@ -30,7 +30,7 @@ madhyasavyānyabhedena pūrṇaṃ saṃpūjitaṃ bhavet || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#^pg23|p. 3]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=23>))
 >
-> The three Goddesses (placed successively) one after the other, alternately (paryāyavrttitah) on (the prongs of) the three tridents, variously (changing from place to place), in the middle, on the right and on the left, are (thus) worshipped (properly and) fully. The way of drawing (vartanā)’ the mandala will be explained briefly further ahead. (with 16.5cd–7ab)
+> The three Goddesses (placed successively) one after the other, alternately (paryāyavrttitah) on (the prongs of) the three tridents, variously (changing from place to place), in the middle, on the right and on the left, are (thus) worshipped (properly and) fully. The way of drawing (vartanā) the mandala will be explained briefly further ahead. (with 16.5cd–7ab)
 
 ## Viveka
 

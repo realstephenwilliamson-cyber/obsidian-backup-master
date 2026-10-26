@@ -41,7 +41,7 @@ For the Jews, serving only the letter of the Mosaic Law, and putting their own c
 
 to any one whatsoever, but would be rather bestowing Cuap. 2. their thoughts on vain trivialities, and restraining the “ \*” BS, rebuke that proceeds from boldness of speech according to the Will of God, speaking and expounding forsooth according to each individual taste?
 
-The injunction therefore not too eagerly to seek to be loved and to disregard incurring the hatred of some is necessary if they gain profit from their counsels. This also we shall see St. Paul doing when he says plainly :—For an I now persuading men, or God ? or anv 1 seeking Gal.i. 10. to please men? If I were still wishing to please men, I should not be ὦ servant of Christ. And again, when he had rebuked someone in Corinth, and heard that he was excessively pained, he says: For if I muke you sorry, 2 Cor. ii. who then is he that maketh me glad, but he that is made sorry by me? For godly sorrow worketh repentance wnto wid. vii. salvation, ὦ repentance which bringeth no regret. Τὸ will 1% therefore be quite indisputable that the word which consults the pleasure of the listeners will flatter rather than benefit the world; but he who obeys the words of the Saviour will not conduct his ministry in this way. For he will prefer rather to please Him, and will regard even the being hated by those, and will consider even the hatred of those who have chosen to treat virtue with the utmiost hostility, as spiritual wealth.
+The injunction therefore not too eagerly to seek to be loved and to disregard incurring the hatred of some is necessary if they gain profit from their counsels. This also we shall see St. Paul doing when he says plainly :—For an I now persuading men, or God ? or anv 1 seeking [[Galatians 01#^1-10|Gal.i. 10]]. to please men? If I were still wishing to please men, I should not be ὦ servant of Christ. And again, when he had rebuked someone in Corinth, and heard that he was excessively pained, he says: For if I muke you sorry, 2 Cor. ii. who then is he that maketh me glad, but he that is made sorry by me? For godly sorrow worketh repentance wnto wid. vii. salvation, ὦ repentance which bringeth no regret. Τὸ will 1% therefore be quite indisputable that the word which consults the pleasure of the listeners will flatter rather than benefit the world; but he who obeys the words of the Saviour will not conduct his ministry in this way. For he will prefer rather to please Him, and will regard even the being hated by those, and will consider even the hatred of those who have chosen to treat virtue with the utmiost hostility, as spiritual wealth.
 
 When then, He says, the hatred that you have stirred up against you in the world is found at times to militate against your good repute, overcome and cast aside this stumblingblock in your path, seeing that honours paid you by those who love the world cannot give you much pleasure, if they cannot endure to hear the word that profits them. For I am of a truth your Lord and Master. But that those who preferred to mind earthly things and despised the heavenly blessings hated Christ Himself also to their own destruction, I think it not difficult to show. For He said in the Gospels to some: The world cunnot Supra hate you ; but Me it hateth, because I testify of it thut its 1. works ure evil. Making Himself then again a pattern to
 
@@ -65,7 +65,7 @@ For every creature loveth its like, according to the Scripture, and a man will b
 
 Evil company doth corrupt gool manners, and differenees of disposition are at war with one another, and wills that are divided look in opposite directions and almost accuse one another: each being cnamoured of its
 
-16. 1 Cor. xv. 33.
+16. [[1 Corinthians 15#^15-33|1 Cor. xv. 33]].
 
 *[p. 415]* ^pg441
 
@@ -250,7 +250,7 @@ The truth then is dear to us, as are the dogmas expressing the truth; and we wil
 
 *[p. 433]* ^pg459
 
-When then, He says, the Comforter, the Spirit of Cap. 2. truth, that is My Spirit, Which proceeds from the Father, ὅν ν is come, He will testify of Me. And how will He testify? By working marvels in you, and by you He will be a just and true witness of My Godlike authority, and of the greatness of My power. For He that works in you is My Spirit, and as He is My Spirit, so also is He That of God the Father. Therefore it is necessary to consider that they who, to confirm our faith, work marvels in us by the one good Spirit are alike insulted in the’ Person of Christ, in Whom dwelt, as Paul says, no mere part of the ineffable Divine Nature, but all the fulness Col. ii. 9.
+When then, He says, the Comforter, the Spirit of Cap. 2. truth, that is My Spirit, Which proceeds from the Father, ὅν ν is come, He will testify of Me. And how will He testify? By working marvels in you, and by you He will be a just and true witness of My Godlike authority, and of the greatness of My power. For He that works in you is My Spirit, and as He is My Spirit, so also is He That of God the Father. Therefore it is necessary to consider that they who, to confirm our faith, work marvels in us by the one good Spirit are alike insulted in the’ Person of Christ, in Whom dwelt, as Paul says, no mere part of the ineffable Divine Nature, but all the fulness [[Colossians 02#^2-9|Col. ii. 9]].
 
 \[of the Godhead\] bodily.
 
@@ -290,9 +290,9 @@ be put out of the synagogue; and again: For the Scribes Supra and Pharisees had 
 
 C. xvi. 3.
 
-Acts xxiii. 21,
+[[Acts 23#^23-21|Acts xxiii. 21]],
 
-Rom.x.2.
+[[Romans 10#^10-2|Rom.x.2]].
 
 first of the martyrs, and in that of the inspired Paul. For involving Stephen in a charge of blasphemy, and simulating herein the zeal that loves God, they slew him by stoning him. And some of the Jews were so enraged against the holy and wise Paul that they bownd themselves wader εἰ curse neither to eat nor to drink till they had slain hin. For we shall find this recorded in the Acts of the holy Apostles. Excellent then and profitable is His prediction, moderating by anticipation their fear of what was dreadful, and forging His disciples anew (as having as it were already suffered), into a courageous disposition. For the foreknowledge in the minds of the sufferers of the dreadfulness of their danger will give them strength beforehand, while it deprives the approach of evil of its power.
 

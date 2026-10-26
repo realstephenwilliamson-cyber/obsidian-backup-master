@@ -29,7 +29,7 @@ pradhāne'ṅge kṛto yatnaḥ phalavānvastuto yataḥ || ^iast
 >
 > Thus, with regard to this means of knowledge called ‘tradition’ (āgama), one must necessarily accept this description of the basis of scripture (śāstraniṣthā). (with 35.41cd–42ab)
 >
-> ‘In actual fact, only the effort directed at the main part (which is most important) is fruitful, and so it is necessary that someone, impelled by Śiva, should exert himself in this (system). (with 35.42cd–43ab)
+> ‘In actual fact, only the effort directed at the main part (which is most important) is fruitful’, and so it is necessary that someone, impelled by Śiva, should exert himself in this (system). (with 35.42cd–43ab)
 
 ## Viveka
 

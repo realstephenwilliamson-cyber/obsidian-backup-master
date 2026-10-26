@@ -20,16 +20,13 @@ nyasa: "right fingernails (*nakha*)"
 ## Front
 
 - **Glyph:** ङ
-- **Variation:** —
 - **Example:** गङ्गा
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘i<u>n</u>k’
-- **Class (as printed):** 1 (guttural) · soft · nasal · Within a word it is always followed by a guttural consonant. It is never followed by a vowel.
-- **Grid:** the five rows of stops; in bold: ङ
-- **Example:** Gaṅgā (Ganges river)
+> [!note]- Back
+> - **Pronunciation:** As in ‘i<u>n</u>k’
+> - **Class:** guttural · soft · nasal · Within a word it is always followed by a guttural consonant. It is never followed by a vowel.
+> - क ख ग घ <u>ङ</u> / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म
+> - **Example:** Gaṅgā (Ganges river)
 
 ## Register
 

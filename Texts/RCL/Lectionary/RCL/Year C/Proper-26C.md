@@ -11,6 +11,7 @@ second_reading: "2 Thessalonians 1:1-4, 11-12"
 gospel: "Luke 19:1-10"
 first_reading_complementary: "Isaiah 1:10-18"
 psalm_complementary: "Psalm 32:1-7"
+psalm_bcp_complementary: "Psalm 32:1-8"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-26]]"
 cssclasses:

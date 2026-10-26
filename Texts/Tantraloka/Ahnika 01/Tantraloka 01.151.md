@@ -30,7 +30,7 @@ svacittavāsanāśāntau sā kriyetyabhidhīyate || ^iast
 > [!source] Dyczkowski, vol. I
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)/Tantraloka Dyczkowski v01 09 - Chapter One, part 8#^pg334|p. 320]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf#page=334>))
 >
-> ‘Yoga does not differ (from action) and action does not differ (from Yoga). The insight (mati) that, mounted up through the metaphysical principles (tattva), serves to quell the latent impressions (vāsanā) in one’s own mind, is termed action.
+> ‘Yoga does not differ (from action) and action does not differ (from Yoga). The insight (mati) that, mounted up through the metaphysical principles (tattva), serves to quell the latent impressions (vāsanā) in one’s own mind, is termed action.’
 
 ## Viveka
 

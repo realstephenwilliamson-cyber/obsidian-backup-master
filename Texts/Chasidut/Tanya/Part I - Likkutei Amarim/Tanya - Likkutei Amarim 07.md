@@ -57,19 +57,19 @@ From the above, one may understand the comment of our Sages, “Which is ‘a fa
 [^3]: The quotes are the translator’s. According to Lurianic doctrine all things, including inanimate objects, possess a “soul,” which is the creative and preserving force of the Creator, the thing’s reality. This doctrine was adopted and expounded by the Baal Shem Tov and Rabbi Schneur Zalman. See *Likkutei Amarim*, Part II, ch. 1 ff.
 [^4]: See Addendum, Glossary.
 [^5]: Ch. 1.
-[^6]: [[Yoma 76#76b|*Yoma* 76b]].
+[^6]: *Yoma* [[Yoma 76#76b|76b]].
 [^7]: Maimonides, *Hilchot Shabbat* 30:7; *Hilchot Yom Tov* 6:16. Rabbi Schneur Zalman, *Shulchan Aruch*, *Orach Chaim* 242:1; 529:1, 3.
-[^8]: [[Pesachim 117#117a|*Pesachim* 117a]].
+[^8]: *Pesachim* [[Pesachim 117#117a|117a]].
 [^9]: The Hebrew term מותר literally means “released.”
 [^10]: Another term for *kelipot* and *sitra achara*.
 [^11]: Ch. 8.
 [^12]: This paragraph is added according to *Luach HaTikkun* (below, p. 781).
 [^13]: [[Zechariah 13#^13-2|Zechariah 13:2]].
-[^14]: [[Berakhot 34#34b|*Berachot* 34b]].
-[^15]: [[Rosh Hashanah 29#29a|*Rosh Hashanah* 29a]].
+[^14]: *Berachot* [[Berakhot 34#34b|34b]].
+[^15]: *Rosh Hashanah* [[Rosh Hashanah 29#29a|29a]].
 [^16]: This religious experience is unknown to the perfect *tzaddik*, who never sinned and consequently has never experienced the remorse and yearning of a repentant soul. This does not mean, however, that the *tzaddik* cannot experience my kind of *teshuvah*, for in a broader and truer sense (and as the Hebrew term indicates) it means “return” to the Source, which is of infinite scope. (Cf. *Likkutei Torah*, beg. *Haazinu*.)
 [^17]: “Intention,” i.e., concentration and devotion in prayer, study, or the performance of a ritual precept. Cf. below, chs. 38, 40, and 41, for an elaboration of the term.
 [^18]: See above, ch. 2, note 9.
-[^19]: [[Berakhot 5#5a|*Berachot* 5a]].
+[^19]: *Berachot* [[Berakhot 5#5a|5a]].
 [^20]: [[Ecclesiastes 01#^1-15|Ecclesiastes 1:15]].
-[^21]: [[Chagigah 9#9a|*Chagigah* 9a]].
+[^21]: *Chagigah* [[Chagigah 9#9a|9a]].

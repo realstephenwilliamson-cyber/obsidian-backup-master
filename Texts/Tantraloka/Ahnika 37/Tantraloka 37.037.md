@@ -32,7 +32,7 @@ dbhinnāñjanāyitaravipramukhaprakāśe || ^iast
 > [!source] Dyczkowski, vol. XI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)/Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#^pg260|p. 242]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 11.pdf#page=260>))
 >
-> Moreover, here in this land called Kanyā, there is no greater place than one where the most excellent scriptures are the eye (of all). Who indeed would praise birth in a house of those born blind, where the light of (all luminaries), the first of which is the sun, is black as pitch?“
+> Moreover, here in this land called Kanyā, there is no greater place than one where the most excellent scriptures are the eye (of all). Who indeed would praise birth in a house of those born blind, where the light of (all luminaries), the first of which is the sun, is black as pitch?
 
 ## Viveka
 

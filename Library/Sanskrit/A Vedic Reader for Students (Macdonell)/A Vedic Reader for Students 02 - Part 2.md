@@ -284,7 +284,7 @@ s&h विद्यां । भुव॑नानि । तस्थुः �
 
 6vi jánāñ chyāväh śitipādo
 
-akhyan, His dusky steeds, white-footeð, drawing his car with golden pole, rátham híraṇyapraū́gam váh- have surveyed the peoples. For antah.
+akhyan, His dusky steeds, white-footeð, drawing his car with golden pole, rátham híraṇyapraügam váh- have surveyed the peoples. For antah.
 
 gśáśvad víśah Savitúr dáiviasya ever the settlers and all creatures kave rested in the lap of divine upásthe víśévā bhúvanāni ta- šSavitr.
 
@@ -292,7 +292,7 @@ sthuh.
 
 *[p. 15]* ^pg49
 
-ví: separated from vb. ; see note on ā́ vakṣati, i 1,20. jánāñ chyāvāäh : for jánān śyāvāḷ (40, 1). śiti-pādas: on the accentuation of this Bv. on the final member, see p. 455, ca. Note that the initial a of akhyan remains after o (cp. note on i. 1, 9b). akhyan: a ao. of khyā see (p. 168, a 1), cp. 7a and 8a, and páśyan in 2d; the ao. expresses a single action that has just taken place (p. 345 C); the pf. tasthur expresses an action that has constantly (śáśvat) taken place in the past down to the present (113 A a). In -praū́gam (analysed by the Pada text of x. 130, 3 as pra-uga), doubtless = pra-yugam (as explained in a Prātiśākhya), there is a remarkable hiatus caused by the dropping of y. víśvā bhúvanāni: herə the old and the new form of the n. pl. are used side by side, as very often. On the Sandhi of dáivyasyopásthe cp. note on Ágne, i 1,9b. dáivya divine is a variation of the usual devá accompanying the name of Savitr. upásthe: the idea that all beings are contained in various deities, or that the latter are the soul (ātmā) of the animate and inanimate world, is often expressed in the RV.
+ví: separated from vb. ; see note on ā́ vakṣati, i 1,20. jánāñ chyāvāäh : for jánān śyāvāḷ (40, 1). śiti-pādas: on the accentuation of this Bv. on the final member, see p. 455, ca. Note that the initial a of akhyan remains after o (cp. note on i. 1, 9b). akhyan: a ao. of khyā see (p. 168, a 1), cp. 7a and 8a, and páśyan in 2d; the ao. expresses a single action that has just taken place (p. 345 C); the pf. tasthur expresses an action that has constantly (śáśvat) taken place in the past down to the present (113 A a). In -praügam (analysed by the Pada text of x. 130, 3 as pra-uga), doubtless = pra-yugam (as explained in a Prātiśākhya), there is a remarkable hiatus caused by the dropping of y. víśvā bhúvanāni: herə the old and the new form of the n. pl. are used side by side, as very often. On the Sandhi of dáivyasyopásthe cp. note on Ágne, i 1,9b. dáivya divine is a variation of the usual devá accompanying the name of Savitr. upásthe: the idea that all beings are contained in various deities, or that the latter are the soul (ātmā) of the animate and inanimate world, is often expressed in the RV.
 
 & तिस्रो and: afagàt उपस्थां
 
@@ -354,7 +354,7 @@ ofa got अन्तरि ्ाण्यव्यद्
 
 gabhīrávepā ásurah sunītháh.
 
-kúedānīm sūū́riah? káś ciketaąa?
+kúedānīm sū́riah? káś ciketaąa?
 
 The bird has surveyed the atmo-
 
@@ -437,7 +437,7 @@ The noise made by them, and often mentioned, is thunder and the roaring of the w
 
 8 gómātaro yác chubháyantě añjí-
 
-bhis, When they whose mother is a cow deck themsewes with ornaments, tanūū́ṣu śubhrā dadhire virúk- shining they put on their bodies matah. brilliant weapons. They drive of bādhante viśvam abhimātinam every adversary. Fatness flows
+bhis, When they whose mother is a cow deck themsewes with ornaments, tanū́ṣu śubhrā dadhire virúk- shining they put on their bodies matah. brilliant weapons. They drive of bādhante viśvam abhimātinam every adversary. Fatness flows
 
 ápa. along their tracks.
 
@@ -479,7 +479,7 @@ p 455 10ca), but the exact meaning of makhá is still somewhat uncertain. pra-cy
 
 *[p. 25]* ^pg59
 
-radical vowel in the Samhita text, it invariably has a short vowel in the Padapātha. Marutas: change from the 3. to the 2. prs., in the same sentence, a not infrequent transition in the RY. manojúvas: N. pl. radical ù stem mamno-jū, 100, ILa (p. 88). rátheṣu ā́: 173,2. pṛṛ́ṣatīs: the spotted mares that draw the cars of the Maruta.
+radical vowel in the Samhita text, it invariably has a short vowel in the Padapātha. Marutas: change from the 3. to the 2. prs., in the same sentence, a not infrequent transition in the RY. manojúvas: N. pl. radical ù stem mamno-jū, 100, ILa (p. 88). rátheṣu ā́: 173,2. pṛ́ṣatīs: the spotted mares that draw the cars of the Maruta.
 
 áyugdkvam: 2. pl. Ā. root a0. of yuj yoke.
 

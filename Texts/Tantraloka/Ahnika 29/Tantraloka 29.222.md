@@ -27,7 +27,7 @@ nivārya supte mūlākhyaḥ svaśaktiparibṛṃhitaḥ || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#^pg388|p. 371]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=388>))
 >
-> In the waking state, all (the Mantras) should be (worshipped together). When dreaming, each Mantra (one at a time). Having set (them all) aside in deep sleep, (he should worship) what is called the ‘Root’ (of all of them), intensified by its own powers. In the fourth state, just the one called Duti’,, and in the state Beyond the Fourth, the Lord of Kula. Such is the worship (pūja)) of those who are completely full with their own energies. (with 29.222–223)
+> In the waking state, all (the Mantras) should be (worshipped together). When dreaming, each Mantra (one at a time). Having set (them all) aside in deep sleep, (he should worship) what is called the ‘Root’ (of all of them), intensified by its own powers. In the fourth state, just the one called ‘Duti’, and in the state Beyond the Fourth, the Lord of Kula. Such is the worship (pūja)) of those who are completely full with their own energies. (with 29.222–223)
 
 ## Viveka
 

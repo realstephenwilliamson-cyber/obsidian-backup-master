@@ -177,7 +177,7 @@ Rom. vi.
 
 Os
 
-S. Luke xxiv. 49.
+S. [[Luke 24#^24-49|Luke xxiv. 49]].
 
 fainthearted at the prospect of the travail of childbirth, they would never have consented to conceive ; but would rather have chosen to escape marriage, which is the cause, and would never have become mothers at all; avoiding by their cowardice a state which is highly desirable and thrice blest. In lke manner then will your suffering also not fail to meet its reward. For you will rejoice when you see a new child born into the world, incorruptible and beyond the reach of death. Plainly He alludes to Himself here. He tells them that the joy of heart that they will have in Him cannot be taken away from them or lost. For, as Paul says, or rather as the Very Truth Itself implies, having died once for all, He dieth no more. The joy of heart then that rests upon Him hath in very truth a sure foundation. For, if we mourned at His death, who shall take from us our joy, now that we know that He lives and will be alive for evermore—He Who gives and ordains for us alk spiritual blessings? No man then “taketh their joy” from the Saints, as our Saviour says; but they who nailed Him to the Cross were bereft of their joy once and for ever. For now that His suffering is ended, which they thought an oceasion for rejoicing, sorrow will be their portion of inevitable necessity.
 
@@ -189,7 +189,7 @@ He says that His holy disciples will increase in wisdom and knowledge when they 
 
 *[p. 465]* ^pg491
 
-need of light from Hii, but because when they had re- Cnar. 2. ceived His own Spirit, and had Him indwelling in their ol hearts, they would have in their minds no lack of every good thing, and would be fulfilled with the most perfect knowledge. And by perfect knowledge we mean that which is correct and incapable of error, and which cannot endure to think or say any evil thing, and which has aright belief concerning the Holy and Consubstantial Trinity. For if we see now in a mirror darkly, and we 1 Cor. know in part, still while we wander not astray from the ΤΣ doctrines of the truth but adhere to the spirit of the holy and inspired writings, the knowledge that we have is not imperfect, a knowledge which no man can acquire save by the light of the Holy Spirit given unto him. Hereby he exhorts the disciples to pray for spiritual graces, and at the same time gives them this encouragement—that what they ask they will not fail to obtain ; adding the comforting assurance of the word “ verily” to His promise that if they will go to the Father’s throne and make any request, they will receive it of Him, He Himself acting as Mediator and leading them into the Father’s Presence. For this is the meaning of the words in my Name; for we cannot draw nigh unto God the Father save by the Son alone. For through Hin we Ephes. ii. have obtained access in One Spirit wnto the Father, ac- a cording to the Scripture. Therefore also He saith: J wm Supra the Door: Tum the Way: no one cometh wato the Father Bs, but by Me. For inasmuch as the Son is also God, together with the Father He conveys good gifts to the Saints, and associates Himself with Him in granting us the portion of the blessed. Moreover, the inspired Paul most evidently confirms our belief herein by writing these words: Grace to you und peace fron God our Rom.i.7. Father and the Lord Jesus Christ. And in right of His titles, Mediator, High Priest, and Advocate, He conveys to the Father prayers on our behalf, for He gives us all boldness to address the Father. In the Name then of Our Saviour Christ we must make our requests, for so
+need of light from Hii, but because when they had re- Cnar. 2. ceived His own Spirit, and had Him indwelling in their ol hearts, they would have in their minds no lack of every good thing, and would be fulfilled with the most perfect knowledge. And by perfect knowledge we mean that which is correct and incapable of error, and which cannot endure to think or say any evil thing, and which has aright belief concerning the Holy and Consubstantial Trinity. For if we see now in a mirror darkly, and we 1 Cor. know in part, still while we wander not astray from the ΤΣ doctrines of the truth but adhere to the spirit of the holy and inspired writings, the knowledge that we have is not imperfect, a knowledge which no man can acquire save by the light of the Holy Spirit given unto him. Hereby he exhorts the disciples to pray for spiritual graces, and at the same time gives them this encouragement—that what they ask they will not fail to obtain ; adding the comforting assurance of the word “ verily” to His promise that if they will go to the Father’s throne and make any request, they will receive it of Him, He Himself acting as Mediator and leading them into the Father’s Presence. For this is the meaning of the words in my Name; for we cannot draw nigh unto God the Father save by the Son alone. For through Hin we Ephes. ii. have obtained access in One Spirit wnto the Father, ac- a cording to the Scripture. Therefore also He saith: J wm Supra the Door: Tum the Way: no one cometh wato the Father Bs, but by Me. For inasmuch as the Son is also God, together with the Father He conveys good gifts to the Saints, and associates Himself with Him in granting us the portion of the blessed. Moreover, the inspired Paul most evidently confirms our belief herein by writing these words: Grace to you und peace fron God our [[Romans 01#^1-7|Rom.i.7]]. Father and the Lord Jesus Christ. And in right of His titles, Mediator, High Priest, and Advocate, He conveys to the Father prayers on our behalf, for He gives us all boldness to address the Father. In the Name then of Our Saviour Christ we must make our requests, for so
 
 VOL, ΤΙ. Hh
 
@@ -337,11 +337,11 @@ c. xvii. 1.
 
 1 Cor. ii.
 
-8, ἃ 5. James ii. 1.
+8, ἃ 5. [[James 02#^2-1|James ii. 1]].
 
 Infra ver. 5.
 
-Phil. ii. 6.
+[[Philippians 02#^2-6|Phil. ii. 6]].
 
 shrink from so grievous a conclusion. For it were great folly to think that the Son has any lack of glory, or falls short of the honour which is His due, though He is the Lord of glory, for so the inspired writings call Him. Especially when in another place we observe Him saying to His Father: O Futher, glorify Me with the glory which 1 had with Thee before the world was. Then who ean any longer doubt, or who is so demented and so far the enemy of all truth as not to know and confess that the Only-begotten is not bereft of Divine glory so far as His own Nature is concerned ; but that since being in the form of God, and in perfect equality with Him, He counted it not a prize to be on an equality with God, but nevertheless descended to the humiliation of human nature, and emptied Himself of His glory, wearing this mean body ; and from love towards us putting on the likeness of human littleness, now that the fitting time had actually arrived, at which He was destined, after fulfilling the mystery of our redemption, to gird Himself about with His pristine and essential glory; having wrought out the salvation of the whole world, and secured life and the knowledge of God to those that are therein ; herein I say He shows that He has God’s Will and: favour, and makes this speech to Him, saying that He ought to recover the majesty due unto His Nature.
 
@@ -373,7 +373,7 @@ whatsoever Thou hast given Him, to them 116. shall give cui
 
 eternal life.
 
-In these words Christ expounds once more to us the kind of glory whereby God will exalt and glorify His own Son; and He will also Himself be glorified in turn by His own Offspring. And He expands the saying, and makes the point clear to our edification and profit. For what need had God the Father, Who knoweth all things, of learning the kind of request? He invites then the Father’s goodness towards us. For since He is the High Priest of our souls, insomuch as He appeared as Man, though being by Nature God together with the Father, He most fittingly makes His prayer on our behalf; trying to persuade us to believe that 116 is, even now, the 18.John propitiation for our sins, and a righteous Advocate ; as ie John saith. Therefore also Paul, wishing us to be of this mind, thus exhorts us: For we have not a high priest that Heb. iv. cannot be touched with the feeling of our infirnuties ; 15. but One that hath been in all points tempted like as we are; yet without sin. Then, since He is an High Priest, insomuch as He is Man, and, at the same time, brought Himself a blameless sacrifice to God the Father, as a ransom for the life of all men, being as it were the firstfruits of mortality, that in all things He might have Col.i.18. the pre-eminence, as Paul says; and He reconciles to Him the reprobate race of man upon the earth, purifying them
+In these words Christ expounds once more to us the kind of glory whereby God will exalt and glorify His own Son; and He will also Himself be glorified in turn by His own Offspring. And He expands the saying, and makes the point clear to our edification and profit. For what need had God the Father, Who knoweth all things, of learning the kind of request? He invites then the Father’s goodness towards us. For since He is the High Priest of our souls, insomuch as He appeared as Man, though being by Nature God together with the Father, He most fittingly makes His prayer on our behalf; trying to persuade us to believe that 116 is, even now, the 18.John propitiation for our sins, and a righteous Advocate ; as ie John saith. Therefore also Paul, wishing us to be of this mind, thus exhorts us: For we have not a high priest that Heb. iv. cannot be touched with the feeling of our infirnuties ; 15. but One that hath been in all points tempted like as we are; yet without sin. Then, since He is an High Priest, insomuch as He is Man, and, at the same time, brought Himself a blameless sacrifice to God the Father, as a ransom for the life of all men, being as it were the firstfruits of mortality, that in all things He might have [[Colossians 01#^1-18|Col.i.18]]. the pre-eminence, as Paul says; and He reconciles to Him the reprobate race of man upon the earth, purifying them
 
 *[p. 484]* ^pg510
 
@@ -407,7 +407,7 @@ though He named God the Father the only true God.
 
 true God, and Him Whom Thou didst send, even Jesus © \*¥" a Christ.
 
-He defines faith as the mother of eternal life, and says that the power of the true knowledge of God will be such as to cause us to remain for ever in a state of incorruption, and blessedness, and sanctification. And we say that that is true knowledge of God, which cannot incur the reproach of turning aside to aught else, or running after things unseemly. For some have worshipped the creature rather than the Creator, and Rom. i. 25. have dared to say to a block of wood: Thow art my Jer i497. Father; and to ὦ stone, Thow hast begotten me. For to such abysmal ignorance did miserable men relapse, that they even gave, in all its fulness, the great Name of God, to senseless blocks of wood; and invested them with the ineffable glory of that Nature, which is over all. He calls God the Father, then, the only true God, by contrast to spurious gods, and with the intention to distinguish the true God, from those who are so named in error; for this is the object of His words. Very appropriately, then, He first speaks of God as being One and One only, and then makes mention of His own glory in the words: And Jesus Christ Whom Thow hast sent. For a man can in nowise attain to complete knowledge of the Father, unless side by side, and in most intimate connexion with it, he lay hold on the knowledge of His Offspring; that is, the Son. For, if a man know what the
+He defines faith as the mother of eternal life, and says that the power of the true knowledge of God will be such as to cause us to remain for ever in a state of incorruption, and blessedness, and sanctification. And we say that that is true knowledge of God, which cannot incur the reproach of turning aside to aught else, or running after things unseemly. For some have worshipped the creature rather than the Creator, and [[Romans 01#^1-25|Rom. i. 25]]. have dared to say to a block of wood: Thow art my Jer i497. Father; and to ὦ stone, Thow hast begotten me. For to such abysmal ignorance did miserable men relapse, that they even gave, in all its fulness, the great Name of God, to senseless blocks of wood; and invested them with the ineffable glory of that Nature, which is over all. He calls God the Father, then, the only true God, by contrast to spurious gods, and with the intention to distinguish the true God, from those who are so named in error; for this is the object of His words. Very appropriately, then, He first speaks of God as being One and One only, and then makes mention of His own glory in the words: And Jesus Christ Whom Thow hast sent. For a man can in nowise attain to complete knowledge of the Father, unless side by side, and in most intimate connexion with it, he lay hold on the knowledge of His Offspring; that is, the Son. For, if a man know what the
 
 *[p. 488]* ^pg514
 
@@ -417,7 +417,7 @@ Ps, xevi.
 
 5\.
 
-S. James ii. 26,
+S. [[James 02#^2-26|James ii. 26]],
 
 Is. vii. 9.
 
@@ -431,11 +431,11 @@ God is one; thow doest well: the devils also believe and shudder. What then shal
 
 And I think we ought attentively to observe in what way Christ says that the knowledge of the One true God is perfected in us in all its fulness. For see how it cannot exist apart from the contemplation of the Son, and it is clear that it eannot exist apart from the Holy Spirit ; for such is the nature of the belief in each Person of the Trinity, according to the Seripture. The Jews indeed, following in the steps of Moses’ commandments, rejected the many false gods, and betook themselves to the worship of the One true God, under his guidance. Thow shalt worship the Lord thy God, saith the Law, and Him Cuap. δ. 6. xvii. 8.
 
-Eph.iii.6.
+[[Ephesians 03#^3-6|Eph.iii.6]].
 
-1 Cor. vi. 15.
+[[1 Corinthians 06#^6-15|1 Cor. vi. 15]].
 
-S. Matt. iv. 10, from Deut. vi,
+S. [[Matthew 04#^4-10|Matt. iv. 10]], from Deut. vi,
 
 *[p. 490]* ^pg516
 

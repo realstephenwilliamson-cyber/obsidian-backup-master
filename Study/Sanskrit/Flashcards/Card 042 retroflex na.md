@@ -20,16 +20,13 @@ nyasa: "right toenails (*nakha*)"
 ## Front
 
 - **Glyph:** ण
-- **Variation:** a variant form, drawn only as a numbered stroke diagram (not copied here)
 - **Example:** रामायण
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** [ As in ‘sh<u>n</u>um’ ]
-- **Class (as printed):** 3 (cerebral) · soft · nasal
-- **Grid:** the five rows of stops; in bold: ण
-- **Example:** Rāmāyaṇa
+> [!note]- Back
+> - **Pronunciation:** [ As in ‘sh<u>n</u>um’ ]
+> - **Class:** cerebral · soft · nasal
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ <u>ण</u> / त थ द ध न / प फ ब भ म
+> - **Example:** Rāmāyaṇa
 
 ## Register
 

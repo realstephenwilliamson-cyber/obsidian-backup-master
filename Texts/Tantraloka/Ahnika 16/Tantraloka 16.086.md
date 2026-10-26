@@ -30,7 +30,7 @@ jñānakriyāsvatantratvāddīkṣākarmaṇi peśalaḥ || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#^pg60|p. 40]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=60>))
 >
-> 6) “I who am the author of the (various) acts of grace reside (in person), directly apparent (sākṣāt) within my own body.” As (I am) free to know and do (all things), I am capable (of performing) the rite of initiation.”
+> 6) “I who am the author of the (various) acts of grace reside (in person), directly apparent (sākṣāt) within my own body. As (I am) free to know and do (all things), I am capable (of performing) the rite of initiation.”
 
 ## Viveka
 

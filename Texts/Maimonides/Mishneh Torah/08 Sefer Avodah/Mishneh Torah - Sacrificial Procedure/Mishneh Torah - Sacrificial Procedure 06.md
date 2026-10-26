@@ -145,7 +145,7 @@ When one performs *melikah* with a knife or does so from the side, it is not con
 [^2]: Having described the general principles that apply with regard to all the sacrifices, the Rambam begins to focus on each one individually, describing its laws in a particular chapter or set of halachot. Here the Rambam focuses on the manner in which the sacrifices are brought. In later sets of halachot, he speaks of the obligations of individuals and of the Jewish people as a whole to bring these sacrifices.
 [^3]: See Chapter 5, Halachot 1-3, with regard to the slaughter of the animal and Halachah 6 of that chapter with regard to casting its blood on the altar.
 [^4]: All of these are not fundamental parts of the animal's body. Hence while they are connected to the body, they are considered as part of it and must be offered on the altar's pyre. The implication is that ordinarily, they would not be separated and the animal would be offered on the altar while they were attached. Nevertheless, if they had been separated and they had descended from the altar, they are considered as distinct and there is no longer any obligation to offer them.
-[^5]: If, however, they flew off the pyre, but remained on the altar, they should be placed back on the pyre ([[Meilah 9#9b|*Meilah* 9b]]).
+[^5]: If, however, they flew off the pyre, but remained on the altar, they should be placed back on the pyre (*Meilah* [[Meilah 9#9b|9b]]).
 [^6]: This addition is made on the basis of the Rambam's Commentary to the Mishnah (*Zevachim* 9:5).
 [^7]: Indeed, if they were brought up to the altar as separate entities, they should be taken down again, rather than offered (*Hilchot Pesulei HaMukdashim* 3:16). Nevertheless, if they were separated on the altar itself before they were offered, they should not be taken down, but instead should be offered on its pyre (Radbaz, Rav Yosef Corcus).
 [^8]: The prooftext is defining the meat and the blood as the fundamental elements of a burnt offering. The implication is that it is necessary for them to be consumed by the altar's fire and hence, they must be returned to the altar if they flew off. There is, by contrast, no fundamental necessity for the secondary elements of the animal's body to be consumed by fire. Hence there is no obligation to return them to the altar if they flew off.
@@ -154,12 +154,12 @@ When one performs *melikah* with a knife or does so from the side, it is not con
 [^11]: To be consumed by its fire, as the mitzvah requires.
 [^12]: For the mitzvah of having them consumed by fire has been completed.
 [^13]: I.e., they did not become like ash.
-[^14]: [[Zevachim 86#86a|*Zevachim* 86a]] notes that the prooftext cited speaks of the burnt offering being on the altar's fire "the entire night, until the morning." From the redundancy, our Sages derive that within the night, a distinction should be made. See also the Rambam's Commentary to the Mishnah (*loc. cit.*).
+[^14]: *Zevachim* [[Zevachim 86#86a|86a]] notes that the prooftext cited speaks of the burnt offering being on the altar's fire "the entire night, until the morning." From the redundancy, our Sages derive that within the night, a distinction should be made. See also the Rambam's Commentary to the Mishnah (*loc. cit.*).
 [^15]: See Halachot 10-18 which describes the manner in which the limbs are brought to the altar.
 [^16]: For salt must be applied to all offerings (see *Hilchot Issurei Mizbeiach* 5:11-12).
 [^17]: Different priests would perform this service, i.e., one priest would bring a limb to the ramp and salt it and another one would bring it to the top of the altar (Radbaz, *Hilchot Temidim UMusafim* 4:6,8).
 [^18]: The Rabbis identified the *gid hanesheh* as the sciatic nerve, the large main nerve running down the back of an animal's hind leg. This nerve must be separated before the meat of an animal is eaten or offered on the altar. See *Hilchot Ma'achaolot Assurot* 8:1 for more details.
-[^19]: It should not be removed beforehand, because the limb will not look attractive as it is being carried to the altar ([[Chullin 90#90b|*Chulin* 90b]]).
+[^19]: It should not be removed beforehand, because the limb will not look attractive as it is being carried to the altar (*Chulin* [[Chullin 90#90b|90b]]).
 [^20]: As described in Chapter 5, Halachah 6.
 [^21]: Indeed, the altar's ramp was separated slightly from the altar itself to insure that the limbs were thrown on the fire rather than merely placed there (*Hilchot Beit HaBechirah* 2:13).
 [^22]: As obvious from the continuation of the halachah, the hole is not made in the animal's foot, but on its thigh above its knee. Thus it will remain hanging after its legs were cut off.
@@ -193,7 +193,7 @@ When one performs *melikah* with a knife or does so from the side, it is not con
 [^50]: Here also the Radbaz explains that the portions would be divided, with each priest receiving a separate portion. This, he maintained, is a greater expression of honor and respect than to have the priests carry the burdens together.
 [^51]: The bracketed additions are made on the basis of the gloss of the Radbaz. He explains that the animal may not be cut into smaller portions, as implied by the first clause of this halachah. (Indeed, the prooftext cited refers to an individual burnt-offering.)
 [^52]: Holding the fowl.
-[^53]: [[Zevachim 65#65a|*Zevachim* 65a]] states that this corner is chosen, because it is close to the ash pile where the skin and the intestines would be cast.
+[^53]: *Zevachim* [[Zevachim 65#65a|65a]] states that this corner is chosen, because it is close to the ash pile where the skin and the intestines would be cast.
 [^54]: The *Lechem Mishneh* (gloss to Chapter 7, Halachah 6) quotes authorities who maintain that he need not sever the head entirely from the body entirely. What must be severed are the gullet and the windpipe organs. Just as ritual slaughter requires that they be severed, so too, they must be severed in the rite of *melikah*. The *Kessef Mishneh* (to that halachah) however, understand the Rambam's words simply. The head must be separated from the body entirely.
 [^55]: The rationale for both these rulings is that the majority of the blood is lodged in the body.
 [^56]: For all offerings must be salted.
@@ -201,7 +201,7 @@ When one performs *melikah* with a knife or does so from the side, it is not con
 [^58]: Our translation follows the Rambam's Commentary of the Mishnah (*Zevachim* 6:5). The Radbaz interprets the term *notzah* as feces rather than as feathers and explains that this enables us to understand why these organs are not burnt together with the rest of the fowl. The intestines of an animal are washed out before being offered. Hence they are fit to be offered on the altar. Those of the fowl are not.
 [^59]: As required by [[Torah 24 - Vayikra#^1-16|Leviticus 1:16]].
 [^60]: The ash pile on the floor of the Temple Courtyard, between the ramp and the altar, near the southeastern corner of the altar. See *Hilchot Temidim UMusafim* 2:12. The term ash-pile has several meanings; see Chapter 7, Halachah 4.
-[^61]: As evident from [[Judges 14#^14-6|Judges 14:6]] ([[Zevachim 65#65b|*Zevachim* 65b]]).
+[^61]: As evident from [[Judges 14#^14-6|Judges 14:6]] (*Zevachim* [[Zevachim 65#65b|65b]]).
 [^62]: Because the primary element of the sacrifice was completed (Rav Yosef Corcus).
 [^63]: See Chapter 7, Halachah 8, which describes the manner in which the priest would hold the fowl. As stated there, this was one of the difficult tasks performed in the Sanctuary.
 [^64]: As one does when performing ritual slaughter (*Hilchot Shechitah* 2:7).

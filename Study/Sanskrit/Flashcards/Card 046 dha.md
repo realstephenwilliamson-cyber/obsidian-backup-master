@@ -20,16 +20,13 @@ nyasa: "left toes (*aṅguli*)"
 ## Front
 
 - **Glyph:** ध
-- **Variation:** —
 - **Example:** धन
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘goo<u>d h</u>oney’
-- **Class (as printed):** 4 (dental) · soft · aspirated
-- **Grid:** the five rows of stops; in bold: ध
-- **Example:** dhana (wealth)
+> [!note]- Back
+> - **Pronunciation:** As in ‘goo<u>d h</u>oney’
+> - **Class:** dental · soft · aspirated
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द <u>ध</u> न / प फ ब भ म
+> - **Example:** dhana (wealth)
 
 ## Register
 

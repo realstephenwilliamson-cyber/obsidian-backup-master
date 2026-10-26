@@ -112,7 +112,7 @@ If he said: "I made this vow without any specific intent,"[^34] we see the conta
 
 **19.** When a person says: "Behold, I am a nazirite if I eat this loaf of bread," "Behold, I am a nazirite if I eat it," and "Behold, I am a nazirite if I eat it,"[^40] if he eats it, he is obligated to observe as many nazirite vows as he took.[^41] He observes them consecutively, each one for 30 days. At the end of each 30 days, he shaves [his hair] and brings his sacrifices. ^3-19
 
-[^1]: [[Torah 35 - Nasso#^6-5|Numbers 6:5]] states that the nazir's hair "will be holy" קדוש יהיה. [[Nazir 5#5a|*Nazir* 5a]] notes that Yihiyeh יהיה is numerically equivalent to 30 and states that this is the span of an ordinary nazirite vow. In his Commentary to the Mishnah (*Nazir* 1:3), the Rambam writes that the numerical equivalence is merely a support and that the concept was taught as as part of the Oral Tradition.
+[^1]: [[Torah 35 - Nasso#^6-5|Numbers 6:5]] states that the nazir's hair "will be holy" קדוש יהיה. *Nazir* [[Nazir 5#5a|5a]] notes that Yihiyeh יהיה is numerically equivalent to 30 and states that this is the span of an ordinary nazirite vow. In his Commentary to the Mishnah (*Nazir* 1:3), the Rambam writes that the numerical equivalence is merely a support and that the concept was taught as as part of the Oral Tradition.
 [^2]: And 30 days can be considered "an excessively long and protracted time."
 [^3]: Hence if the time span he mentioned is less than 30 days, he is required to observe the vow for 30 days. When he says 30 days and an hour, the ruling is that since he mentioned more than 30 days, he is required to observe 31 days.
 [^4]: Which is 30 days as explained above.
@@ -122,28 +122,28 @@ If he said: "I made this vow without any specific intent,"[^34] we see the conta
 [^8]: *Hilchot Nedarim* 9:1.
 [^9]: Each one being 30 days. Since he spoke of nazirite vows, we understand that his intent was to observe more than one nazirite vow. Since there is no concept of observing half a nazirite vow, we require him to observe two.
 [^10]: Each of the extra statements is considered as adding a nazirite vow.
-[^11]: For it is not clear that he wanted to observe two nazirite vows. The commentaries note that there is slight difficulty with the Rambam's statement based on the text of [[Nazir 7#7b|*Nazir* 7b]]. Nevertheless, they offer several possible resolutions to the issue.
-[^12]: The person himself denies taking any nazirite vows or says that he forgot about the matter ([[Nazir 20#20a|*Nazir* 20a]] and commentaries).
+[^11]: For it is not clear that he wanted to observe two nazirite vows. The commentaries note that there is slight difficulty with the Rambam's statement based on the text of *Nazir* [[Nazir 7#7b|7b]]. Nevertheless, they offer several possible resolutions to the issue.
+[^12]: The person himself denies taking any nazirite vows or says that he forgot about the matter (*Nazir* [[Nazir 20#20a|20a]] and commentaries).
 [^13]: I.e., there is no disagreement regarding that, so he is obligated to observe the two nazirite vows.
 [^14]: In which instance he is obligated to observe a nazirite vow for an entire month (Halachah 2).
 [^15]: See Chapter 8, Halachah 2.
 [^16]: In this context, this statement means that as long as the first vow is being observed, the days cannot be reckoned as part of the observance of the second vow. Implied is that if they are not considered as part of the observance of the first vow, they can be considered as part of the observance of the second.
 [^17]: See *Hilchot Sh'vuot* 6:17-18 which explains that a sages' absolution of a vow causes it to be considered as if it was never made.
 [^18]: The differences between these two categories are discussed in the following halachah.  
-    The Ra'avad notes that the Rambam's ruling appears to be based on the *Tosefta* and the Jerusalem Talmud (*Nazir* 1:4). The Babylonian Talmud ([[Nazir 8#8b|*Nazir* 8b]]) appears to differ, but the version of that text seems distorted.
+    The Ra'avad notes that the Rambam's ruling appears to be based on the *Tosefta* and the Jerusalem Talmud (*Nazir* 1:4). The Babylonian Talmud (*Nazir* [[Nazir 8#8b|8b]]) appears to differ, but the version of that text seems distorted.
 [^19]: He should not, however, shave his head entirely.
 [^20]: As is required when one completes a nazirite vow in purity. See Chapter 8, Halachah 1.
 [^21]: Even though the concept is reinforced by a verse, were the Oral Tradition not to have conveyed this idea, the verse could have been interpreted otherwise (*Kessef Mishneh*).
 [^22]: Although the angel gave instructions ([[Judges 13#^13-5|Judges 13:5]] : "The youth shall be a nazirite unto God," Samson never took a nazirite vow himself, nor did his father administer one to him. See *Likkutei Sichot*, Vol. XVIII, pp. 68-70, which compares this situation to one in which a Jewish court converts a gentile child. When the child comes of age, if he does not protest, the conversion is binding upon him. Similarly, since Samson - and Samuel - did not protest, the nazirite restrictions conveyed from above became binding upon them.
 [^23]: See [[Judges 13#^13-4|Judges 13:4]].
 [^24]: As [[Judges 16#^16-17|Judges 16:17]] states: "A razor has never been brought up against my head, for I am a nazirite unto God from my mother's womb."
-[^25]: Hence he was not forbidden to come in contact with the corpses of the Philistines whom he killed ([[Nazir 4#4b|*Nazir* 4b]]).
+[^25]: Hence he was not forbidden to come in contact with the corpses of the Philistines whom he killed (*Nazir* [[Nazir 4#4b|4b]]).
 [^26]: For Samson was not allowed to cut his hair at all, as indicated by the verse cited above.
 [^27]: This is permitted even as an initial and preferred option [the Rambam's Commentary to the Mishnah (*Nazir* 1:2).
 [^28]: See *Hilchot Nedarim* 2:12 which explains that a person is given the option of explaining his intent with regard to a vow that he took. See the glosses of the *Kessef Mishneh* and the Radbaz to the following halachah which discuss in detail whether this rule applies when it seems obvious that the person's intent was to take a vow to be a nazirite like Samson was.
-[^29]: Since Samson's nazirite vow was imposed upon him by an angel at God's command, it could not be absolved as other vows taken because of man's desires (Rashi, [[Makkot 22#22a|*Makkot* 22a]]).
+[^29]: Since Samson's nazirite vow was imposed upon him by an angel at God's command, it could not be absolved as other vows taken because of man's desires (Rashi, *Makkot* [[Makkot 22#22a|22a]]).
 [^30]: This applies if the person making the vow remains silent. If, however, he specifically states that his intent was another person, his word is accepted as stated in the previous halachah (Radbaz).
-[^31]: [[Nazir 66#66a|*Nazir* 66a]] derives this concept through the principles of Biblical exegesis.
+[^31]: *Nazir* [[Nazir 66#66a|66a]] derives this concept through the principles of Biblical exegesis.
 [^32]: This applies if the person making the vow remains silent. If, however, he specifically states that his intent was another person, his word is accepted as stated in the previous halachah (Radbaz).
 [^33]: See Halachah 1.
 [^34]: I.e., with the intent that my words be interpreted by the sages according to their principles.

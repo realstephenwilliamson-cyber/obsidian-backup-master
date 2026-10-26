@@ -82,6 +82,8 @@ This is the primary English-language commentary cited throughout the vault's ver
 
 **Text layer of 11 of the 12 files** (5 Oct 2026): OCR text added (Latin-script and Devanagari models, so diacritics and Devanagari come through); the page images are unchanged. The original scans without text went with the trash when it was emptied on 6 Oct 2026.
 
+**Text layer of the eleven volumes** (26 Oct 2026, audit decision 7): on the 3,123 pages (of 5,335) whose layer had a stray glyph after the vowel sign ि, the layer was redone. This used OCRmyPDF (`--redo-ocr`, sandwich renderer) with Tesseract's Latin-script and Sanskrit models, as on 5 Oct, and the look-alike letters that model writes (ş, ņ, ț, ı and the like) were changed to the IAST letters. The page images are unchanged. The new layer reads the same words as the 5 Oct one, without its stray glyphs (after ि: 22,443 before, 6 now), and has more line breaks. The 5 Oct misreadings, such as italic transliteration read as Devanagari, are still there. The old files are kept in `.work/backup-corrections-2026-10-26/s8-dyczkowski/`.
+
 ## About
 
 Abhinavagupta's Sanskrit treatise on the Trika school of Kashmir Shaivism, written in the 10th century. In 37 chapters it treats both doctrine and ritual; Wikipedia says it synthesizes the 64 monistic āgamas and the various schools of tantra, and is regarded for its size and scope as an encyclopedia of nondual Hindu tantra.

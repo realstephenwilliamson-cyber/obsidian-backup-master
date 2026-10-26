@@ -1,9 +1,9 @@
 const fs = require("fs");
 const obs = require("./obs.js");
 const ref = process.argv[2] ?? "", tr = process.argv[3] ?? "", greek = process.argv[4] === "1";
-const extra = { "Texts/Bible/New Testament/New Testament page.md": `---\nref: "${ref}"\ntranslation: ${tr || "bsb"}\n${greek ? "greek: true\n" : ""}cssclasses:\n  - wide\n---\n`,
+const extra = { "New Testament View.md": `---\nref: "${ref}"\ntranslation: ${tr || "bsb"}\n${greek ? "greek: true\n" : ""}cssclasses:\n  - wide\n---\n`,
   "Journal/2026/2026-10-22.md": "# x\n- question:: who are [[Matthew 05#^5-3|the poor in spirit]]?\n- claim:: [[NRSVue Matthew 05#^5-5|Mt 5:5]] quotes Ps 37.\n- see [[Matthew 05#^5-9|peacemakers]]\n" };
-const o = obs(extra, { current: "Texts/Bible/New Testament/New Testament page.md" });
+const o = obs(extra, { current: "New Testament View.md" });
 const code = fs.readFileSync("/home/claude/view/nt-page/view.js", "utf8");
 const t0 = Date.now();
 o.run(code).then(() => {

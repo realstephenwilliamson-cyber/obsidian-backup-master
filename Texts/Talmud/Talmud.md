@@ -22,7 +22,7 @@ At the top of each side, collapsed boxes rebuild the margins of the printed page
 
 Verse references in the text are links, in the Hebrew numbering the edition prints. Not here: Shekalim (the Daf Yomi reads the Jerusalem Talmud's, which has no Davidson English), and Kinnim and Middot (Mishnah only); on those days Home's daf line keeps its Sefaria link. Sefaria has no complete English Rashi or Tosafot.
 
-**The page view:** [[Talmud page]] lays out one side of a daf like the printed page: the text in the middle, the *Mishneh Torah*'s halakhot and the vault's passages on these lines beside it, the margins around it, and the notes that cite it. It opens on today's daf.
+**The page view:** [[Talmud View]] lays out one side of a daf like the printed page: the text in the middle, the *Mishneh Torah*'s halakhot and the vault's passages on these lines beside it, the margins around it, and the notes that cite it. It opens on today's daf.
 
 ## License and attribution
 

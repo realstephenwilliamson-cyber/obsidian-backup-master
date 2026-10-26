@@ -20,7 +20,7 @@ converted: 2026-10-07
 
 45
 
-\[a.d. 30–107.\] The seductive myth which represents this Father as the little child whom the Lord placed in the midst of his apostles (St. Matt. xviii. 2) indicates at least the period when he may be supposed to have been born. That he and Polycarp were fellow-disciples under St. John, is a tradition by no means inconsistent with anything in the Epistles of either. His subsequent history is sufficiently indicated in the Epistles which follow.
+\[a.d. 30–107.\] The seductive myth which represents this Father as the little child whom the Lord placed in the midst of his apostles (St. [[Matthew 18#^18-2|Matt. xviii. 2]]) indicates at least the period when he may be supposed to have been born. That he and Polycarp were fellow-disciples under St. John, is a tradition by no means inconsistent with anything in the Epistles of either. His subsequent history is sufficiently indicated in the Epistles which follow.
 
 Had not the plan of this series been so exclusively that of a mere revised reprint, the writings of Ignatius themselves would have made me diffident as to the undertaking. It seems impossible for any one to write upon the subject of these precious remains, without provoking controversy. This publication is designed as an *Eirenicon*, and hence “few words are best,” from one who might be supposed incapable of an unbiased opinion on most of the points which have been raised in connection with these Epistles. I must content myself therefore, by referring the studious reader to the originals as edited by Bishop Jacobson, with a Latin version and copious annotations. That revered and learned divine honoured me with his friendship; and his precious edition has been my frequent study, with theological students, almost ever since it appeared in 1840. It is by no means superannuated by the vigorous Ignatian literature which has since sprung up, and to which reference will he made elsewhere. But I am content to leave the whole matter, without comment, to the minds of Christians of whatever school and to their independent conclusions. It is a great thing to present them in a single volume with the shorter and longer Epistles duly compared, and with the Curetonian version besides. One luxury only I may claim, to relieve the drudging task-work of a mere reviser. Surely I may point out some of the proverbial wisdom of this great disciple, which has often stirred my soul, as with the trumpet heard by St. John in Patmos. In him, indeed, the lions encountered a lion, one truly begotten of “the Lion of the tribe of Judah.” Take, then, as a specimen, these thrilling injunctions from his letter to Polycarp, to whom he bequeathed his own spirit, and in whom he well knew the Church would recognize a sort of survival of St. John himself. If the reader has any true perception of the rhythm and force of the Greek language, let him learn by heart the originals of the following aphorisms:—0.5. Find time to pray without ceasing.
 
@@ -30,7 +30,7 @@ Had not the plan of this series been so exclusively that of a mere revised repri
 
 3.5. The crown is immortality.<sup>481</sup>
 
-Does not this seem a pointed allusion to Rev. ii. 10?
+Does not this seem a pointed allusion to [[Revelation 02#^2-10|Rev. ii. 10]]?
 
 *[p. 77]* ^pg117
 
@@ -48,7 +48,7 @@ Consider the times: look for Him who is above time.
 
 9.5. A Christian is not his own master, but waits upon God.
 
-Ignatius so delighted in his name Theophorus (sufficiently expounded in his own words to Trajan or his official representative), that it is worth noting how deeply the early Christians felt and believed in (2 Cor. vi. 16) the indwelling Spirit.
+Ignatius so delighted in his name Theophorus (sufficiently expounded in his own words to Trajan or his official representative), that it is worth noting how deeply the early Christians felt and believed in ([[2 Corinthians 06#^6-16|2 Cor. vi. 16]]) the indwelling Spirit.
 
 Ignatius has been censured for his language to the Romans, in which he seems to crave martyrdom. But he was already condemned, in law a dead man, and felt himself at liberty to glory in his tribulations. Is it more than modern Christians often too lightly sing? —“Let cares like a wild deluge come, And storms of sorrow fall,” etc.
 
@@ -142,15 +142,15 @@ Some read, as in the shorter recension, “grace.”
 
 489
 
-Literally, “imitators;” comp. Eph. v. 1.
+Literally, “imitators;” comp. [[Ephesians 05#^5-1|Eph. v. 1]].
 
 490
 
-Comp. in the Greek, 2 Tim. i. 6.
+Comp. in the Greek, [[2 Timothy 01#^1-6|2 Tim. i. 6]].
 
 491
 
-Eph. v. 2.
+[[Ephesians 05#^5-2|Eph. v. 2]].
 
 492
 
@@ -166,11 +166,11 @@ Or, “unspeakably beloved.”
 
 495
 
-Literally, “imitators;” comp. Eph. v. 1.
+Literally, “imitators;” comp. [[Ephesians 05#^5-1|Eph. v. 1]].
 
 496
 
-Comp. in the Greek, 2 Tim. i. 6.
+Comp. in the Greek, [[2 Timothy 01#^1-6|2 Tim. i. 6]].
 
 *[p. 82]* ^pg122
 
@@ -184,7 +184,7 @@ As to my fellow-servant Burrhus, your deacon in regard to God and blessed in all
 
 As to our fellow-servant Burrhus, your deacon in regard to God and blessed in all things, I pray that he may continue blameless for the honour of the Church, and of your most blessed bishop. Crocus also, worthy both of God and you, whom we have received as the manifestation<sup>506</sup> of your love to us, hath in all things refreshed<sup>507</sup> me, and “hath not been ashamed of my chain,”<sup>508</sup> as the
 
-Eph. v. 2.
+[[Ephesians 05#^5-2|Eph. v. 2]].
 
 498
 
@@ -204,15 +204,15 @@ Literally, “pattern.”
 
 502
 
-Comp. 1 Cor. xvi. 18, etc.
+Comp. [[1 Corinthians 16#^16-18|1 Cor. xvi. 18]], etc.
 
 503
 
-Comp. 1 Cor. xvi. 18, etc.
+Comp. [[1 Corinthians 16#^16-18|1 Cor. xvi. 18]], etc.
 
 504
 
-1 Cor. i. 10.
+[[1 Corinthians 01#^1-10|1 Cor. i. 10]].
 
 505
 
@@ -220,11 +220,11 @@ Literally, “pattern.”
 
 506
 
-Comp. 1 Cor. xvi. 18, etc.
+Comp. [[1 Corinthians 16#^16-18|1 Cor. xvi. 18]], etc.
 
 507
 
-Comp. 2 Tim. i. 16.
+Comp. [[2 Timothy 01#^1-16|2 Tim. i. 16]].
 
 *[p. 83]* ^pg123
 
@@ -236,7 +236,7 @@ I do not issue orders to you, as if I were some great person. For though I am bo
 
 I do not issue orders to you, as if I were some great person. For though I am bound for His name, I am not yet perfect in Jesus Christ. For now I begin to be a disciple, and I speak to you as my fellow-servants. For it was needful for me to have been admonished by you in faith, exhortation, patience, and long-suffering. But inasmuch as love suffers me not to be silent in regard to you, I have therefore taken<sup>512</sup> upon me first to exhort you that ye would run together in accordance with the will of God. For even Jesus Christ does all things according to the will of the Father, as He Himself declares in a certain place, “I do always those things that please Him.”<sup>513</sup> Wherefore it behoves us also to live according to the will of God in Christ, and to imitate Him as Paul did. For, says he, “Be ye followers of me, even as I also am of Christ.”<sup>514</sup>
 
-Comp. 1 Cor. xvi. 18, etc. 509 1 Cor. i. 10. 510 Comp. Philem. 8, 9. 511 Comp. Philem. 8, 9. 512 John viii. 29. 513 1 Cor. xi. 1.
+Comp. [[1 Corinthians 16#^16-18|1 Cor. xvi. 18]], etc. 509 [[1 Corinthians 01#^1-10|1 Cor. i. 10]]. 510 Comp. Philem. 8, 9. 511 Comp. Philem. 8, 9. 512 [[John 08#^8-29|John viii. 29]]. 513 [[1 Corinthians 11#^11-1|1 Cor. xi. 1]].
 
 *[p. 84]* ^pg124
 
@@ -260,11 +260,11 @@ Literally, “receiving a union to God in oneness.”
 
 516
 
-John xvii. 11, 12.
+[[John 17#^17-11|John xvii. 11]], [[John 17#^17-12|12]].
 
 517
 
-Matt. xviii. 19.
+[[Matthew 18#^18-19|Matt. xviii. 19]].
 
 518
 
@@ -280,7 +280,7 @@ For if I, in this brief space of time, have enjoyed such fellowship with your bi
 
 Now the more any one sees the bishop keeping silence,<sup>527</sup> the more ought he to revere him. For we ought to receive every one whom the Master of the house sends to be over His household,<sup>528</sup> as we would do Him that sent him. It is manifest, therefore, that we should look upon the bishop even
 
-Prov. iii. 34; Jas. iv. 6; 1 Pet. v. 5.
+Prov. iii. 34; [[James 04#^4-6|Jas. iv. 6]]; [[1 Peter 05#^5-5|1 Pet. v. 5]].
 
 520
 
@@ -288,7 +288,7 @@ Some read, “mixed up with.”
 
 521
 
-Matt. xviii. 19.
+[[Matthew 18#^18-19|Matt. xviii. 19]].
 
 522
 
@@ -296,15 +296,15 @@ Literally, “in the assembly of sacrifices.”
 
 523
 
-Matt. vii. 15.
+[[Matthew 07#^7-15|Matt. vii. 15]].
 
 524
 
-Or, “believeth not” (John iii. 36).
+Or, “believeth not” ([[John 03#^3-36|John iii. 36]]).
 
 525
 
-Prov. iii. 34; Jas. iv. 6; 1 Pet. v. 5.
+Prov. iii. 34; [[James 04#^4-6|Jas. iv. 6]]; [[1 Peter 05#^5-5|1 Pet. v. 5]].
 
 526
 
@@ -312,7 +312,7 @@ That is, “showing forbearance.”
 
 527
 
-Comp. Matt. xxiv. 25.
+Comp. [[Matthew 24#^24-25|Matt. xxiv. 25]].
 
 *[p. 86]* ^pg126
 
@@ -330,7 +330,7 @@ Or, “heresy.”
 
 529
 
-Comp. Matt. xxiv. 25.
+Comp. [[Matthew 24#^24-25|Matt. xxiv. 25]].
 
 530
 
@@ -338,11 +338,11 @@ Prov. xxii. 29, after LXX.
 
 531
 
-Eph. iv. 4.
+[[Ephesians 04#^4-4|Eph. iv. 4]].
 
 532
 
-Eph. iv. 5, 6.
+[[Ephesians 04#^4-5|Eph. iv. 5]], [[Ephesians 04#^4-6|6]].
 
 533
 
@@ -362,7 +362,7 @@ Let not then any one deceive you, as indeed ye are not deceived, inasmuch as ye 
 
 Let not then any one deceive you, as indeed ye are not deceived; for ye are wholly devoted to God. For when there is no evil desire within you, which might defile and torment you, then do ye live in accordance with the will of God, and are \[the servants\] of Christ. Cast ye out that which defiles<sup>539</sup> you, who are of the<sup>540</sup> most holy Church of the Ephesians, which is so famous and celebrated throughout the world. They that are carnal cannot do those things which are spiritual, nor they that are spiritual the things which are carnal; even as faith cannot do the works of unbelief, nor unbelief the works of faith. But ye, being full of the Holy Spirit, do nothing according to the flesh, but all things according to the Spirit. Ye are complete in Christ Jesus, “who is the Saviour of all men, specially of them that believe.”<sup>541</sup>
 
-53 Isa. lvi. 10 536 Or, “before the ages.” 537 John i. 14. 538 It is difficult to translate περίψημα in this and similar passages; comp. 1 Cor. iv. 13. 539 Literally, “and the.” 540 1 Tim. iv. 10.
+53 Isa. lvi. 10 536 Or, “before the ages.” 537 [[John 01#^1-14|John i. 14]]. 538 It is difficult to translate περίψημα in this and similar passages; comp. [[1 Corinthians 04#^4-13|1 Cor. iv. 13]]. 539 Literally, “and the.” 540 [[1 Timothy 04#^4-10|1 Tim. iv. 10]].
 
 *[p. 88]* ^pg128
 
@@ -372,11 +372,11 @@ Nevertheless, I have heard of some who have passed on from this to you, having f
 
 Nevertheless, I have heard of some who have passed in among you, holding the wicked doctrine of the strange and evil spirit; to whom ye did not allow entrance to sow their tares, but stopped your ears that ye might not receive that error which was proclaimed by them, as being persuaded that that spirit which deceives the people does not speak the things of Christ, but his own, for he is a lying spirit. But the Holy Spirit does not speak His own things, but those of Christ, and that not from himself, but from the Lord; even as the Lord also announced to us the things that He received from the Father. For, says He, “the word which ye hear is not Mine, but the Father’s, who sent Me.”<sup>545</sup> And says He of the Holy Spirit, “He shall not speak of Himself, but whatsoever things He shall hear from Me.”<sup>546</sup> And He says of Himself to the Father, “I have,” says He, “glorified Thee upon the earth; I have finished the work which, Thou gavest Me; I have manifested Thy name to men.”<sup>547</sup> And of the Holy Ghost, “He shall glorify Me, for He receives of Mine.”<sup>548</sup> But the spirit of deceit preaches himself, and speaks his own things, for he seeks to please himself. He glorifies himself, for he is full of arrogance. He is lying, fraudulent, soothing, flattering, treacherous, rhapsodical, trifling, inharmonious, verbose, sordid, and timorous. From his power Jesus Christ will deliver you, who has founded you upon the rock, as being chosen stones, well fitted for the divine edifice of the Father, and who are raised up on high by Christ, who was crucified for you, making use of the Holy Spirit as a rope, and being borne up by faith, while exalted by love from earth to heaven, walking in company with those that are undefiled. For, says \[the Scripture\], “Blessed
 
-Comp. 1 Pet. ii. 5.
+Comp. [[1 Peter 02#^2-5|1 Pet. ii. 5]].
 
 542
 
-Comp. John xii. 32.
+Comp. [[John 12#^12-32|John xii. 32]].
 
 543
 
@@ -384,15 +384,15 @@ Literally, “according to the other life.”
 
 544
 
-John xiv. 24.
+[[John 14#^14-24|John xiv. 24]].
 
 545
 
-John xvi. 13.
+[[John 16#^16-13|John xvi. 13]].
 
 546
 
-John xvii. 4, 6.
+[[John 17#^17-4|John xvii. 4]], [[John 17#^17-6|6]].
 
 547
 
@@ -412,19 +412,19 @@ Ps. cxix. 1.
 
 549
 
-John xiv. 6.
+[[John 14#^14-6|John xiv. 6]].
 
 550
 
-John xiv. 6.
+[[John 14#^14-6|John xiv. 6]].
 
 551
 
-1 Pet. ii. 9.
+[[1 Peter 02#^2-9|1 Pet. ii. 9]].
 
 552
 
-Eph. i. 1.
+[[Ephesians 01#^1-1|Eph. i. 1]].
 
 553
 
@@ -436,7 +436,7 @@ The verb is here omitted in the original.
 
 555
 
-Comp. Col. i. 23.
+Comp. [[Colossians 01#^1-23|Col. i. 23]].
 
 556
 
@@ -456,7 +456,7 @@ The last times are come upon us. Let us therefore be of a reverent spirit, and f
 
 The last times are come upon us. Let us therefore be of a reverent spirit, and fear the long-suffering of God, lest we despise the riches of His goodness and forbearance.<sup>569</sup> For let us
 
-Matt. v. 4. 559 Num. xii. 3. 560 Ps. cxxxi. 2. 561 2 Tim. ii. 24, 25. 562 Ps. vii. 4. 563 1 Pet. ii. 23. 564 1 Pet. ii. 23. 565 Luke xxiii. 34. 566 1 Pet. iv. 7. 567 Literally, “let nothing become you.” 568
+[[Matthew 05#^5-4|Matt. v. 4]]. 559 Num. xii. 3. 560 Ps. cxxxi. 2. 561 [[2 Timothy 02#^2-24|2 Tim. ii. 24]], [[2 Timothy 02#^2-25|25]]. 562 Ps. vii. 4. 563 [[1 Peter 02#^2-23|1 Pet. ii. 23]]. 564 [[1 Peter 02#^2-23|1 Pet. ii. 23]]. 565 [[Luke 23#^23-34|Luke xxiii. 34]]. 566 [[1 Peter 04#^4-7|1 Pet. iv. 7]]. 567 Literally, “let nothing become you.” 568
 
 *[p. 91]* ^pg131
 
@@ -474,7 +474,7 @@ I know both who I am, and to whom I write. I am the very insignificant Ignatius,
 
 Take heed, then, often to come together to give thanks to God, and show forth His praise. For when ye assemble frequently in the same place, the powers of Satan are destroyed, and the destruction
 
-Phil. iii. 10.
+[[Philippians 03#^3-10|Phil. iii. 10]].
 
 570
 
@@ -490,11 +490,11 @@ Literally, “am like to.”
 
 573
 
-Matt. xxiii. 35.
+[[Matthew 23#^23-35|Matt. xxiii. 35]].
 
 574
 
-Acts ix. 15.
+[[Acts 09#^9-15|Acts ix. 15]].
 
 *[p. 92]* ^pg132
 
@@ -508,7 +508,7 @@ None of these things is hid from you, if ye perfectly possess that faith and lov
 
 Wherefore none of the devices of the devil shall be hidden from you, if, like Paul, ye perfectly possess that faith and love towards Christ<sup>586</sup> which are the beginning and the end of life. The beginning of life is faith, and the end is love. And these two being inseparably connected together, do perfect the man of God; while all other things which are requisite to a holy life follow after them. No man making a profession of faith ought to sin, nor one possessed of love to hate his
 
-Literally, “his destruction.” 576 Literally, “of heavenly and earthly things.” 577 Eph. vi. 16. 578 Eph. vi. 12. 579 1 Tim. i. 14. 580 1 Tim. i. 5. 581 Literally, “being in unity.” 582 Comp. 1 John iii. 7. 583 Matt. xii. 33. 584 Literally, “there is not now the work of profession.” 585 1 Tim. i. 14.
+Literally, “his destruction.” 576 Literally, “of heavenly and earthly things.” 577 [[Ephesians 06#^6-16|Eph. vi. 16]]. 578 [[Ephesians 06#^6-12|Eph. vi. 12]]. 579 [[1 Timothy 01#^1-14|1 Tim. i. 14]]. 580 [[1 Timothy 01#^1-5|1 Tim. i. 5]]. 581 Literally, “being in unity.” 582 Comp. [[1 John 03#^3-7|1 John iii. 7]]. 583 [[Matthew 12#^12-33|Matt. xii. 33]]. 584 Literally, “there is not now the work of profession.” 585 [[1 Timothy 01#^1-14|1 Tim. i. 14]].
 
 *[p. 93]* ^pg133
 
@@ -522,39 +522,39 @@ secrets are near to Him. Let us therefore do all things as those who have Him dw
 
 It is better for a man to be silent and be \[a Christian\], than to talk and not to be one. “The kingdom of God is not in word, but in power.”<sup>591</sup> Men “believe with the heart, and confess with the mouth,” the one “unto righteousness,” the other “unto salvation.”<sup>592</sup> It is good to teach, if he who speaks also acts. For he who shall both “do and teach, the same shall be great in the kingdom.”<sup>593</sup> Our Lord and God, Jesus Christ, the Son of the living God, first did and then taught, as Luke testifies, “whose praise is in the Gospel through all the Churches.”<sup>594</sup> There is nothing which is hid from the Lord, but our very secrets are near to Him. Let us therefore do all things as those who have Him dwelling in us, that we may be His temples,<sup>595</sup> and He may be in us as God. Let Christ speak in us, even as He did in Paul. Let the Holy Spirit teach us to speak the things of Christ in like manner as He did.
 
-Luke x. 27.
+[[Luke 10#^10-27|Luke x. 27]].
 
 587
 
-Luke x. 27.
+[[Luke 10#^10-27|Luke x. 27]].
 
 588
 
-Matt. xii. 33.
+[[Matthew 12#^12-33|Matt. xii. 33]].
 
 589
 
-1 Cor. vi. 19.
+[[1 Corinthians 06#^6-19|1 Cor. vi. 19]].
 
 590
 
-1 Cor. iv. 20.
+[[1 Corinthians 04#^4-20|1 Cor. iv. 20]].
 
 591
 
-Rom. x. 10.
+[[Romans 10#^10-10|Rom. x. 10]].
 
 592
 
-Matt. v. 19.
+[[Matthew 05#^5-19|Matt. v. 19]].
 
 593
 
-2 Cor. viii. 18.
+[[2 Corinthians 08#^8-18|2 Cor. viii. 18]].
 
 594
 
-1 Cor. vi. 19.
+[[1 Corinthians 06#^6-19|1 Cor. vi. 19]].
 
 *[p. 94]* ^pg134
 
@@ -570,7 +570,7 @@ For this end did the Lord suffer the ointment to be poured upon His head,<sup>60
 
 For this end did the Lord suffer the ointment to be poured upon His head,<sup>603</sup> that His Church might breathe forth immortality. For saith \[the Scripture\], “Thy name is as ointment poured forth; therefore have the virgins loved Thee; they have drawn Thee; at the odour of Thine ointments we
 
-Comp. Jas. i. 16. 596 1 Cor. vi. 9, 10. 597 Comp. Jas. i. 16. 598 1 Cor. vi. 9, 10. 599 Deut. xxxii. 15. 600 2 Cor. vi. 14–16. 601 Comp. John xii. 7. 602 Comp. John xii. 7.
+Comp. [[James 01#^1-16|Jas. i. 16]]. 596 [[1 Corinthians 06#^6-9|1 Cor. vi. 9]], [[1 Corinthians 06#^6-10|10]]. 597 Comp. [[James 01#^1-16|Jas. i. 16]]. 598 [[1 Corinthians 06#^6-9|1 Cor. vi. 9]], [[1 Corinthians 06#^6-10|10]]. 599 Deut. xxxii. 15. 600 [[2 Corinthians 06#^6-14|2 Cor. vi. 14–16]]. 601 Comp. [[John 12#^12-7|John xii. 7]]. 602 Comp. [[John 12#^12-7|John xii. 7]].
 
 *[p. 95]* ^pg135
 
@@ -594,23 +594,23 @@ Literally, “before the ages.”
 
 605
 
-Again, περίψημα, translated “offscouring,” 1 Cor. iv. 13.
+Again, περίψημα, translated “offscouring,” [[1 Corinthians 04#^4-13|1 Cor. iv. 13]].
 
 606
 
-Comp. 1 Cor. i. 18.
+Comp. [[1 Corinthians 01#^1-18|1 Cor. i. 18]].
 
 607
 
-1 Cor. i. 20.
+[[1 Corinthians 01#^1-20|1 Cor. i. 20]].
 
 608
 
-Or, “economy,” or “dispensation.” Comp. Col. i. 25; 1 Tim. i. 4.
+Or, “economy,” or “dispensation.” Comp. [[Colossians 01#^1-25|Col. i. 25]]; [[1 Timothy 01#^1-4|1 Tim. i. 4]].
 
 609
 
-1 Cor. i. 20.
+[[1 Corinthians 01#^1-20|1 Cor. i. 20]].
 
 610
 
@@ -618,7 +618,7 @@ Literally, “before the ages.”
 
 611
 
-Isa. vii. 14; Matt. i. 23.
+Isa. vii. 14; [[Matthew 01#^1-23|Matt. i. 23]].
 
 *[p. 96]* ^pg136
 
@@ -692,7 +692,7 @@ Literally, “by name.”
 
 625
 
-Col. i. 15.
+[[Colossians 01#^1-15|Col. i. 15]].
 
 626
 
@@ -756,7 +756,7 @@ Since, then, I have had the privilege of seeing you, through Damas your most wor
 
 #### Chapter III.—Honour your youthful bishop.
 
-60 Literally, “according to God.” 634 1 Tim. iv. 10. 635 Comp. Gal. iv. 9. 636 1 Cor. x. 13. 637 The apodosis is here wanting in the original, but must evidently be supplied in some such way as above. 638 Literally, “worthy of God.” 639 Literally, “worthy of God.” 640 Literally, “whom may I enjoy.” 641 The apodosis is here wanting in the original, but must evidently be supplied in some such way as above.
+60 Literally, “according to God.” 634 [[1 Timothy 04#^4-10|1 Tim. iv. 10]]. 635 Comp. [[Galatians 04#^4-9|Gal. iv. 9]]. 636 [[1 Corinthians 10#^10-13|1 Cor. x. 13]]. 637 The apodosis is here wanting in the original, but must evidently be supplied in some such way as above. 638 Literally, “worthy of God.” 639 Literally, “worthy of God.” 640 Literally, “whom may I enjoy.” 641 The apodosis is here wanting in the original, but must evidently be supplied in some such way as above.
 
 *[p. 100]* ^pg140
 
@@ -764,7 +764,7 @@ Now it becomes you also not to treat your bishop too familiarly on account of hi
 
 Now it becomes you also not to despise the age of your bishop, but to yield him all reverence, according to the will of God the Father, as I have known even holy presbyters do, not having regard to the manifest youth \[of their bishop\], but to his knowledge in God; inasmuch as “not the ancient are \[necessarily\] wise, nor do the aged understand prudence; but there is a spirit in men.”<sup>647</sup> For Daniel the wise, at twelve years of age, became possessed of the divine Spirit, and convicted the elders, who in vain carried their grey hairs, of being false accusers, and of lusting after the beauty of another man’s wife.<sup>648</sup> Samuel also, when he was but a little child, reproved Eli, who was ninety years old, for giving honour to his sons rather than to God.<sup>649</sup> In like manner, Jeremiah also received this message from God, “Say not, I am a child.”<sup>650</sup> Solomon too, and Josiah, \[exemplified the same thing.\] The former, being made king at twelve years of age, gave that terrible and difficult judgment in the case of the two women concerning their children.<sup>651</sup> The latter, coming to the throne when eight years old<sup>652</sup> cast down the altars and temples \[of the idols\], and burned down the groves, for they were dedicated to demons, and not to God. And he slew the false priests, as the corrupters and deceivers of men, and not the worshippers of the Deity. Wherefore youth is not to be despised when it is devoted to God. But he is to be despised who is of a wicked mind, although he be old, and full of wicked days.<sup>653</sup> Timothy the Christ-bearer was young, but hear what his teacher writes to him: “Let no man despise thy youth, but be thou an example of the believers in word and in conduct.”<sup>654</sup>
 
-Literally, “to use the age of your bishop.” 643 Literally, “according to.” 644 Literally, “youthful condition.” 645 Literally, “to flesh.” 646 Job xxxii. 8, 9. 647 Susanna (Apoc.). 648 1 Sam. iii. 1. 649 Jer. i. 7. 650 1 Kings iii. 16. 651 2 Kings xxii., xxiii.. 652 Susanna 52 (Apoc.). 653 1 Tim. iv. 12.
+Literally, “to use the age of your bishop.” 643 Literally, “according to.” 644 Literally, “youthful condition.” 645 Literally, “to flesh.” 646 Job xxxii. 8, 9. 647 Susanna (Apoc.). 648 1 Sam. iii. 1. 649 Jer. i. 7. 650 1 Kings iii. 16. 651 2 Kings xxii., xxiii.. 652 Susanna 52 (Apoc.). 653 [[1 Timothy 04#^4-12|1 Tim. iv. 12]].
 
 *[p. 101]* ^pg141
 
@@ -842,7 +842,7 @@ Dan. ii. 44, Dan. vii. 14, 27.
 
 673
 
-John v. 30.
+[[John 05#^5-30|John v. 30]].
 
 674
 
@@ -860,7 +860,7 @@ Be not deceived with strange doctrines, “nor give heed to fables and endless g
 
 If, therefore, those who were brought up in the ancient order of things<sup>680</sup> have come to the possession of a new<sup>681</sup> hope, no longer observing the Sabbath, but living in the observance<sup>682</sup> of the Lord’s Day, on which also our life has sprung up again by Him and by His death—whom some deny, by which mystery we have obtained faith,<sup>683</sup> and therefore endure, that we may be found the disciples of Jesus Christ, our only Master—how shall we be able to live apart from Him, whose disciples the prophets themselves in the Spirit did wait for Him as their Teacher? And therefore He whom they rightly waited for, being come, raised them from the dead.<sup>684</sup>
 
-Some have argued that the Gnostic Σιγή, *silence*, is here referred to, and have consequently inferred that this epistle could 676 not have been written by Ignatius. 1 Tim. i. 4. 677 2 Cor. v. 17. 678 Some read ὑποστήσαντι, “that gave Him His *hypostasis*, or substance.” 679 Literally, “in old things.” 680 Or, “newness of.” 681 Or, “according to.” 682 Literally, “we have received to believe.” 683 Comp. Matt. xxvii. 52.
+Some have argued that the Gnostic Σιγή, *silence*, is here referred to, and have consequently inferred that this epistle could 676 not have been written by Ignatius. [[1 Timothy 01#^1-4|1 Tim. i. 4]]. 677 [[2 Corinthians 05#^5-17|2 Cor. v. 17]]. 678 Some read ὑποστήσαντι, “that gave Him His *hypostasis*, or substance.” 679 Literally, “in old things.” 680 Or, “newness of.” 681 Or, “according to.” 682 Literally, “we have received to believe.” 683 Comp. [[Matthew 27#^27-52|Matt. xxvii. 52]].
 
 *[p. 105]* ^pg145
 
@@ -868,7 +868,7 @@ If, then, those who were conversant with the ancient Scriptures came to newness 
 
 #### Chapter X.—Beware of Judaizing.
 
-63 John v. 46. 685 John viii. 56, 58. 686 Isa. xxxv. 4. 687 2 Thess. iii. 10. 688 Gen. iii. 19. 689 Reference is here made to well-known Jewish opinions and practices with respect to the Sabbath. The Talmud fixes 2000 690 cubits as the space lawful to be traversed. Philo *(De Therap.)* refers to the dancing, etc. Ps. vi., Ps. xii. (inscrip.). \[N.B.—The reference is to the title of these two psalms, as rendered by the LXX. Εἰς τὸ τέλος 691 ὑπὲρ τῆς ὀγδόης.\] Phil. iii. 18, 19. 692 2 Tim. iii. 4. 693 Literally, “whirlpools of wealth.”
+63 [[John 05#^5-46|John v. 46]]. 685 [[John 08#^8-56|John viii. 56]], [[John 08#^8-58|58]]. 686 Isa. xxxv. 4. 687 [[2 Thessalonians 03#^3-10|2 Thess. iii. 10]]. 688 Gen. iii. 19. 689 Reference is here made to well-known Jewish opinions and practices with respect to the Sabbath. The Talmud fixes 2000 690 cubits as the space lawful to be traversed. Philo *(De Therap.)* refers to the dancing, etc. Ps. vi., Ps. xii. (inscrip.). \[N.B.—The reference is to the title of these two psalms, as rendered by the LXX. Εἰς τὸ τέλος 691 ὑπὲρ τῆς ὀγδόης.\] [[Philippians 03#^3-18|Phil. iii. 18]], [[Philippians 03#^3-19|19]]. 692 [[2 Timothy 03#^3-4|2 Tim. iii. 4]]. 693 Literally, “whirlpools of wealth.”
 
 *[p. 106]* ^pg146
 
@@ -878,7 +878,7 @@ Let us not, therefore, be insensible to His kindness. For were He to reward us a
 
 #### Chapter XI.—I write these things to warn you.
 
-Literally, “according to Christianity.” 695 Some read, “to name.” 696 Literally, “believe into,” merge into. 697 Ps. cxxx. 3. 698 Isa. lxii. 2, 12. 699 Acts xi. 26. 700 1 Cor. v. 7. 701 Or, “enemy.” 702 Matt. iii. 9; Isa. xli. 8; Jas. ii. 23. Some read, “children of God, friends of Abraham.” 703 Gen. xxviii. 14. 704 Acts xiii. 48.
+Literally, “according to Christianity.” 695 Some read, “to name.” 696 Literally, “believe into,” merge into. 697 Ps. cxxx. 3. 698 Isa. lxii. 2, 12. 699 [[Acts 11#^11-26|Acts xi. 26]]. 700 [[1 Corinthians 05#^5-7|1 Cor. v. 7]]. 701 Or, “enemy.” 702 [[Matthew 03#^3-9|Matt. iii. 9]]; Isa. xli. 8; [[James 02#^2-23|Jas. ii. 23]]. Some read, “children of God, friends of Abraham.” 703 Gen. xxviii. 14. 704 [[Acts 13#^13-48|Acts xiii. 48]].
 
 *[p. 107]* ^pg147
 
@@ -898,7 +898,7 @@ i.e., addicted to the error of Judaizing.
 
 706
 
-1 Tim. i. 1.
+[[1 Timothy 01#^1-1|1 Tim. i. 1]].
 
 707
 
@@ -906,7 +906,7 @@ i.e., addicted to the error of Judaizing.
 
 708
 
-2 Tim. iv. 1; Rom. ii. 6.
+[[2 Timothy 04#^4-1|2 Tim. iv. 1]]; [[Romans 02#^2-6|Rom. ii. 6]].
 
 709
 
@@ -930,7 +930,7 @@ Study, therefore, to be established in the doctrines of the Lord and the apostle
 
 Study, therefore, to be established in the doctrines of the Lord and the apostles, that so all things, whatsoever ye do, may prosper, both in the flesh and spirit, in faith and love, with your most admirable bishop, and the well-compacted<sup>725</sup> spiritual crown of your presbytery, and the deacons
 
-65 Literally, “are reverent.” 713 Prov. xviii. 17. (LXX). 714 Isa. xliii. 26. 715 Luke xvii. 10. 716 Luke xvi. 15. 717 Luke xviii. 13. 718 Some read, “Jacob.” 719 Gen. xviii. 27; Job xxx. 19. 720 1 Chron. xvii. 16. 721 Num. xii. 3. 722 Ex. iv. 10. 723 Luke xiv. 11. 724 Literally, “well-woven.”
+65 Literally, “are reverent.” 713 Prov. xviii. 17. (LXX). 714 Isa. xliii. 26. 715 [[Luke 17#^17-10|Luke xvii. 10]]. 716 [[Luke 16#^16-15|Luke xvi. 15]]. 717 [[Luke 18#^18-13|Luke xviii. 13]]. 718 Some read, “Jacob.” 719 Gen. xviii. 27; Job xxx. 19. 720 1 Chron. xvii. 16. 721 Num. xii. 3. 722 Ex. iv. 10. 723 [[Luke 14#^14-11|Luke xiv. 11]]. 724 Literally, “well-woven.”
 
 *[p. 109]* ^pg149
 
@@ -1014,7 +1014,7 @@ It is doubtful whether this exhortation is addressed to the deacons or people; w
 
 to please the latter, or the latter in all points to be pleased with the former.
 
-Heb. xiii. 17.
+[[Hebrews 13#^13-17|Heb. xiii. 17]].
 
 736
 
@@ -1052,7 +1052,7 @@ But I measure myself, that I may not perish through boasting: but it is good to 
 
 #### Chapter V.—I will not teach you profound doctrines.
 
-68 Or, “conjunction.” 743 Or, “pattern.” 744 Literally, “I know many things in God.” 745 A different turn altogether is given to this passage in the longer recension. 746 1 Cor. i. 31. 747 Or, “confirmed.” 748 Omitted in the ms.
+68 Or, “conjunction.” 743 Or, “pattern.” 744 Literally, “I know many things in God.” 745 A different turn altogether is given to this passage in the longer recension. 746 [[1 Corinthians 01#^1-31|1 Cor. i. 31]]. 747 Or, “confirmed.” 748 Omitted in the ms.
 
 *[p. 113]* ^pg153
 
@@ -1110,7 +1110,7 @@ Be on your guard, therefore, against such persons. And this will be the case wit
 
 Be on your guard, therefore, against such persons, that ye admit not of a snare for your own souls. And act so that your life shall be without offence to all men, lest ye become as “a snare upon a watch-tower, and as a net which is spread out.”<sup>769</sup> For “he that does not heal himself in his own
 
-69 1 Cor. i. 10. 759 Tit. i. 10. 760 Literally, “Christ-sellers.” 761 2 Cor. ii. 17. 762 Literally, “sweet address.” 763 *Apost. Constitutions*, vi. 13. 764 Supplied from the old Latin version. 765 Literally, “unseparated from.” 766 This clause is inserted from the ancient Latin version. 767 The text has “deacon.” 768 Hos. v. 1.
+69 [[1 Corinthians 01#^1-10|1 Cor. i. 10]]. 759 [[Titus 01#^1-10|Tit. i. 10]]. 760 Literally, “Christ-sellers.” 761 [[2 Corinthians 02#^2-17|2 Cor. ii. 17]]. 762 Literally, “sweet address.” 763 *Apost. Constitutions*, vi. 13. 764 Supplied from the old Latin version. 765 Literally, “unseparated from.” 766 This clause is inserted from the ancient Latin version. 767 The text has “deacon.” 768 Hos. v. 1.
 
 *[p. 115]* ^pg155
 
@@ -1164,7 +1164,7 @@ Stop your ears, therefore, when any one speaks to you at variance with<sup>787</
 
 Stop your ears, therefore, when any one speaks to you at variance with<sup>788</sup> Jesus Christ, the Son of God, who was descended from David, and was also of Mary; who was truly begotten of God and of the Virgin, but not after the same manner. For indeed God and man are not the same. He truly assumed a body; for “the Word was made flesh,”<sup>789</sup> and lived upon earth without sin. For says
 
-70 Literally, “making you drink beforehand what will preserve you.” 779 Or, “from which disease.” 780 Literally, “taking up.” 781 Comp. Eph. ii. 4. 782 Comp. 1 Tim. ii. 6. 783 Matt. vi. 14. 784 1 Tim. vi. 1; Tit. ii. 5. 785 Isa. lii. 5. 786 Literally, “apart from.” 787 Literally, “apart from.” 788
+70 Literally, “making you drink beforehand what will preserve you.” 779 Or, “from which disease.” 780 Literally, “taking up.” 781 Comp. [[Ephesians 02#^2-4|Eph. ii. 4]]. 782 Comp. [[1 Timothy 02#^2-6|1 Tim. ii. 6]]. 783 [[Matthew 06#^6-14|Matt. vi. 14]]. 784 [[1 Timothy 06#^6-1|1 Tim. vi. 1]]; [[Titus 02#^2-5|Tit. ii. 5]]. 785 Isa. lii. 5. 786 Literally, “apart from.” 787 Literally, “apart from.” 788
 
 *[p. 117]* ^pg157
 
@@ -1174,11 +1174,11 @@ He, “Which of you convicteth me of sin?”<sup>790</sup> He did in reality bot
 
 But if, as some that are without God, that is, the unbelieving, say, that He only seemed to suffer (they themselves only seeming to exist), then why am I in bonds? Why do I long to be exposed to<sup>796</sup> the wild beasts? Do I therefore die in vain?<sup>797</sup> Am I not then guilty of falsehood<sup>798</sup> against \[the cross of\] the Lord?
 
-John viii. 46.
+[[John 08#^8-46|John viii. 46]].
 
 790
 
-Matt. xxvii. 52.
+[[Matthew 27#^27-52|Matt. xxvii. 52]].
 
 791
 
@@ -1186,7 +1186,7 @@ Literally, “hedge,” or “fence.”
 
 792
 
-Heb. x. 12, 13.
+[[Hebrews 10#^10-12|Heb. x. 12]], [[Hebrews 10#^10-13|13]].
 
 793
 
@@ -1194,7 +1194,7 @@ Some read, “He was taken down from the cross, and laid in a new tomb.”
 
 794
 
-Matt. xii. 40.
+[[Matthew 12#^12-40|Matt. xii. 40]].
 
 795
 
@@ -1230,7 +1230,7 @@ Ps. xli. 10.
 
 802
 
-Comp. John xi. 42.
+Comp. [[John 11#^11-42|John xi. 42]].
 
 803
 
@@ -1252,4 +1252,4 @@ Do ye also avoid those wicked offshoots of his,<sup>808</sup> Simon his firstbor
 
 I salute you from Smyrna, together with the Churches of God which are with me, who have refreshed me in all things, both in the flesh and in the spirit. My bonds, which I carry about with me for the sake of Jesus Christ (praying that I may attain to God), exhort you. Continue in harmony among yourselves, and in prayer with one another; for it becomes every one of you, and especially
 
-72 i.e., the cross. 806 Both text and meaning here are doubtful. 807 i.e., Satan’s. 808 Literally, “loud, confused noise.” 809 The Ebionites, who denied the divine nature of our Lord, are here referred to. 810 It seems to be here denied that Nicolas was the founder of this school of heretics. 811 Matt. xv. 13. 812 Phil. iii. 18. 813 1 Cor. ii. 8.
+72 i.e., the cross. 806 Both text and meaning here are doubtful. 807 i.e., Satan’s. 808 Literally, “loud, confused noise.” 809 The Ebionites, who denied the divine nature of our Lord, are here referred to. 810 It seems to be here denied that Nicolas was the founder of this school of heretics. 811 [[Matthew 15#^15-13|Matt. xv. 13]]. 812 [[Philippians 03#^3-18|Phil. iii. 18]]. 813 [[1 Corinthians 02#^2-8|1 Cor. ii. 8]].

@@ -118,4 +118,4 @@ On the twenty-fifth [of Adar], they would sit in the Temple to collect [the half
 [^31]: For the court is obliged to compel the people to perform all the positive commandments.
 [^32]: I.e., women or slaves.
 [^33]: I.e., a minor.
-[^34]: The *Tosefot Yom Tov* explains that the priests have a reputation for being short-tempered. (See Hoshea 4:4; [[Shabbat 149#149b|*Shabbat* 149b]].) If they were compelled to give, strife might arise. The Jerusalem Talmud (*Shekalim* 1:3) offers a different explanation. The priests were not compelled to give as a token of respect for their office.
+[^34]: The *Tosefot Yom Tov* explains that the priests have a reputation for being short-tempered. (See Hoshea 4:4; *Shabbat* [[Shabbat 149#149b|149b]].) If they were compelled to give, strife might arise. The Jerusalem Talmud (*Shekalim* 1:3) offers a different explanation. The priests were not compelled to give as a token of respect for their office.

@@ -20,9 +20,9 @@ Volkmar's contribution to the subject consists in the formulating of this clean-
 
 *[p. 401]* ^pg402
 
-If we are told in Mark viii. 29 that Simon Peter was the first among men to hail Jesus as the Messiah, it is to be noticed, Volkmar points out, that the Evangelist places this confession at a time when Jesus' work was over and the thought of His Passion first appears; and if we desire fully to understand the author's purpose we must fix our attention on the Lord's command not to make known His Messiahship until after His resurrection (Mark viii. 30, ix. 9 and 10), which is a hint that we are to date Jesus' Messiahship from His death. For Mark is no mere naive chronicler, but a conscious artist interpreting the history; sometimes, indeed, a powerful epic writer in whose work the historical and the poetic are intermingled. 
+If we are told in [[Mark 08#^8-29|Mark viii. 29]] that Simon Peter was the first among men to hail Jesus as the Messiah, it is to be noticed, Volkmar points out, that the Evangelist places this confession at a time when Jesus' work was over and the thought of His Passion first appears; and if we desire fully to understand the author's purpose we must fix our attention on the Lord's command not to make known His Messiahship until after His resurrection ([[Mark 08#^8-30|Mark viii. 30]], [[Mark 09#^9-9|ix. 9]] and 10), which is a hint that we are to date Jesus' Messiahship from His death. For Mark is no mere naive chronicler, but a conscious artist interpreting the history; sometimes, indeed, a powerful epic writer in whose work the historical and the poetic are intermingled. 
 
-Thus the conclusion is that Mark, in agreement with Paul, represents Jesus as becoming the Messiah only as a consequence of His resurrection. He really appeared, and His first appearance was to Peter. When Peter on that night of terror fled from Jerusalem to take refuge in Galilee, Jesus, according to the mystic prediction of Mark xiv. 28 and 
+Thus the conclusion is that Mark, in agreement with Paul, represents Jesus as becoming the Messiah only as a consequence of His resurrection. He really appeared, and His first appearance was to Peter. When Peter on that night of terror fled from Jerusalem to take refuge in Galilee, Jesus, according to the mystic prediction of [[Mark 14#^14-28|Mark xiv. 28]] and 
 
 228 
 
@@ -42,7 +42,7 @@ As regards the Gospel discourses about the Parousia, it is easy to recognise tha
 
 229 
 
-this is in any way certain, however remarkable the saying in Mark ix. 1 may be, that the looked-for consummation is to take place during the lifetime of the existing generation. 
+this is in any way certain, however remarkable the saying in [[Mark 09#^9-1|Mark ix. 1]] may be, that the looked-for consummation is to take place during the lifetime of the existing generation. 
 
 "It is only the fact that Mark is preceded by 'the book of the Birth (and History) of Christ according to Matthew'-not only in the Scriptures, but also in men's minds, which were dominated by it as the 'first Gospel'- which has caused it to be taken as self-evident that Jesus, knowing Himself from the first to be the Messiah, expected His Parousia solely from heaven, and therefore with, or in, the clouds of heaven. . . . But since He who was thought of as by birth the Son of God, is now thought of as the Son of Man, born an Israelite, and becoming the Son of God after the spirit only at His baptism, the hope that looks to the clouds of heaven cannot be, or at least ought not to be, any longer explained otherwise than as an enthusiastic dream." 
 
@@ -70,11 +70,11 @@ The question of the Parousia is like, Weiffenbach suggests, a vessel which has b
 
 regarding the "Littel Apocalypse" as Jewish, not Jewish-Christian; Pfleiderer had distinguished sharply what belongs to the Evangelist from the "Little Apocalypse," and had sought to prove that the purpose of the Evangelist in thus breaking up the latter and working it into a discourse of Jesus was to tone down the eschatological hopes expressed in the discourse, because they had remained unfulfilled even at the fall of Jerusalem, and to retard the rapid development of the apocalyptic process by inserting between its successive phases passages from a different discourse. \[3\] Weiffenbach carries this series of tentative suggestions to its logical conclusion, advancing the view that the link of connexion between the Jewish-Christian Apocalypse and the Gospel material in which it is imbedded is the thought of the Second Coming. 
 
-\[1\] The English reader will find a constructive analysis of what is known as the "Little Apocalypse" in Encyclopaedia Biblica, art. "Gospels," col. 1857. It con- sists of the verses Matt. xxiv. 6-8, 15-22, 29-31, 34, corresponding to Mark xiii. 7-9ff, 14-20, 24-27, 30. According to the theory first sketched by Colani these verses formed an independent Apocalypse which was embedded ia the Gospel by the Evangelist-F. C. B. 
+\[1\] The English reader will find a constructive analysis of what is known as the "Little Apocalypse" in Encyclopaedia Biblica, art. "Gospels," col. 1857. It con- sists of the verses [[Matthew 24#^24-6|Matt. xxiv. 6-8]], [[Matthew 24#^24-15|15-22]], [[Matthew 24#^24-29|29-31]], [[Matthew 24#^24-34|34]], corresponding to [[Mark 13#^13-7|Mark xiii. 7-9ff]], [[Mark 13#^13-14|14-20]], [[Mark 13#^13-24|24-27]], [[Mark 13#^13-30|30]]. According to the theory first sketched by Colani these verses formed an independent Apocalypse which was embedded ia the Gospel by the Evangelist-F. C. B. 
 
 \[2\] Untersuchungen iiber die evangelische Geschichte, 1864, pp. 121-126. 
 
-\[3\] "Uber die Komposition der eschatologischen Rede Matt. xxiv. 4 ff." (The Composition of the Eschatological Discourse in Matt. xxiv. 4 ff.), Jahrbuch f- "• Theol. vol. xiii., 186E5, pp. 134-149. 
+\[3\] "Uber die Komposition der eschatologischen Rede Matt. xxiv. 4 ff." (The Composition of the Eschatological Discourse in [[Matthew 24#^24-4|Matt. xxiv. 4 ff.]]), Jahrbuch f- "• Theol. vol. xiii., 186E5, pp. 134-149. 
 
 *[p. 407]* ^pg408
 
@@ -90,9 +90,9 @@ In this discourse, therefore, we have a standard by which criticism may test all
 
 constantly insist as only a vivid expression for the sense of responsibility "which weighs upon the life of man." 
 
-And yet the outcome of this attempt of Weiffenbach's, which begins with so much real promise, is in the end wholly unsatisfactory. The "authentic thought of the return" which he takes as his standard has for its sole content the expectation of a visible personal return in the "ear future "free from all more or less fantastic apocalyptic and JewishChristian speculations about the future." That is to say, the whole of the eschatological discourses of Jesus are to be judged by the standard of a colourless, unreal figment of theology. Whatever cannot be squared "ith that is to be declared spurious and cut away! Accordingly the eschatological closing saying at the Last Supper is stigmatised as a Chiliastic-Capernaitic" \[1\] distortion of a "normal" promise of the Second Coming; the idea of the ••••••••••••, Matt. xix. 28, is said to be wholly foreign to Jesus' world of thought; it is impossible, too, that 
+And yet the outcome of this attempt of Weiffenbach's, which begins with so much real promise, is in the end wholly unsatisfactory. The "authentic thought of the return" which he takes as his standard has for its sole content the expectation of a visible personal return in the "ear future "free from all more or less fantastic apocalyptic and JewishChristian speculations about the future." That is to say, the whole of the eschatological discourses of Jesus are to be judged by the standard of a colourless, unreal figment of theology. Whatever cannot be squared "ith that is to be declared spurious and cut away! Accordingly the eschatological closing saying at the Last Supper is stigmatised as a Chiliastic-Capernaitic" \[1\] distortion of a "normal" promise of the Second Coming; the idea of the ••••••••••••, [[Matthew 19#^19-28|Matt. xix. 28]], is said to be wholly foreign to Jesus' world of thought; it is impossible, too, that 
 
-\[1\] By "Capernaitic" 'Weiffenbach apparently means literalistic; cf. John vi. 52 f. 
+\[1\] By "Capernaitic" 'Weiffenbach apparently means literalistic; cf. [[John 06#^6-52|John vi. 52 f.]] 
 
 232 
 
@@ -236,7 +236,7 @@ Weiffenbach had failed to solve the problem of the Second Coming, Baldensperger 
 
 *[p. 422]* ^pg423
 
-even in their subtlest forms, must be eliminated from it; when this is done, we arrive at a Kingdom of God which is wholly future; as is indeed implied by the petition in the Lord's prayer, "Thy Kingdom come." Being still to come, it is at present purely supra-mundane. It is present only as a cloud may be said to be present which throws its shadow upon the earth; its nearness, that is to say, is recognised by the paralysis of the Kingdom of Satan. In the fact that Jesus casts out the demons, the Pharisees are bidden to recognise, according to Matt. xii. 25-28, that the Kingdom of God is already come upon them. 
+even in their subtlest forms, must be eliminated from it; when this is done, we arrive at a Kingdom of God which is wholly future; as is indeed implied by the petition in the Lord's prayer, "Thy Kingdom come." Being still to come, it is at present purely supra-mundane. It is present only as a cloud may be said to be present which throws its shadow upon the earth; its nearness, that is to say, is recognised by the paralysis of the Kingdom of Satan. In the fact that Jesus casts out the demons, the Pharisees are bidden to recognise, according to [[Matthew 12#^12-25|Matt. xii. 25-28]], that the Kingdom of God is already come upon them. 
 
 This is the only sense in which Jesus thinks of the Kingdom as present. He does not "establish it," He only proclaims its coming. He exercises no "Messianic functions," but waits, like others, for God to bring about the coming of the Kingdom by supernatural means. He does not even know the day and hour when this shall come to pass. The missionary journey of the disciples was not designed for the extension of the Kingdom of God, but only as a means of rapidly and widely making known its nearness. But it was not so near as Jesus thought. The impenitence and hardness of heart of a great part of the people, and the implacable enmity of His opponents, at length convinced Him that the establishment of the Kingdom of God could not yet take place, that such penitence as had been shown hitherto was not sufficient, and "lat a mighty obstacle, the guilt of the people, must first be put away. It becomes clear to Him that His own death must be the ransom-price. He dies, not for the community of His followers only, but for the nation; that is why He always speaks of His atoning death as "for many," 
 

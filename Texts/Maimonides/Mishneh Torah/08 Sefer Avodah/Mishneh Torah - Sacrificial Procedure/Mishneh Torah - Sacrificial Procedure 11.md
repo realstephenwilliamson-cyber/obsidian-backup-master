@@ -73,7 +73,7 @@ According to the Oral Tradition,[^16] it was taught that this is a warning again
 [^3]: Compare to Halachah 4.
 [^4]: *Sefer HaMitzvot* (negative commandment 146) and *Sefer HaChinuch* (mitzvah 447) include this prohibition as one of the 613 mitzvot of the Torah. As explained in *Hilchot Meilah* 1:3, this negative commandment is also the source for the prohibition against deriving benefit from consecrated articles (*meilah*).
 [^5]: This refers to the second tithe which must be brought to Jerusalem.
-[^6]: *Sifri* to the above verse, [[Makkot 17#17a|*Makkot* 17a]].
+[^6]: *Sifri* to the above verse, *Makkot* [[Makkot 17#17a|17a]].
 [^7]: For the latter term is understood as a reference to the burnt offering (*ibid.*).
 [^8]: I.e., since they are all considered as components of the burnt offering, they are all forbidden. The Radbaz mentions that the omission of the blood of the sacrificial animal indicates that it is not included.
 [^9]: The Radbaz explains that the Rambam explicitly mentions that one must partake of an olive-sized portion to be liable - instead, of allowing a reader to reach that conclusion on his own - because one might think that since the verse states that "It shall be totally consumed," as long as a person prevents it from being totally consumed, he is liable.
@@ -84,7 +84,7 @@ According to the Oral Tradition,[^16] it was taught that this is a warning again
 [^14]: As stated in *Hilchot Meilah* 2:1, after the blood is sprinkled on the altar, even one who is not permitted to partake of these sacrifices is not liable for *meilah*, misappropriating the sacred articles for one's personal use.
 [^15]: *Sefer HaMitzvot* (negative commandment 147) and *Sefer HaChinuch* (mitzvah 448) include this prohibition as one of the 613 mitzvot of the Torah. Significantly, in his listing of the mitzvot at the beginning of this set of halachot, the Rambam mentions this prohibition only with regard to sacrifices of a lesser degree of sanctity.
 [^16]: For this is not the simple meaning of the verse (Rav Yosef Corcus).
-[^17]: [[Makkot 17#17a|*Makkot* 17a]] explains the process of exegesis through which the prohibitions against partaking of the other sacrifices are derived.
+[^17]: *Makkot* [[Makkot 17#17a|17a]] explains the process of exegesis through which the prohibitions against partaking of the other sacrifices are derived.
 [^18]: I.e., the flour, the oil, the wine that comprise the accompanying offering that is brought together with the thanksgiving-offering.
 [^19]: *Sefer HaMitzvot* (negative commandment 145) and the *Sefer HaChinuch* (mitzvah 446) include this prohibition as one of the 613 mitzvot of the Torah. Significantly, in *Sefer HaMitzvot* and in his listing of the mitzvot at the beginning of this set of halachot, the Rambam mentions this prohibition only with regard to sacrifices of the highest degree of sanctity although he does state that one who partakes of other sacrifices outside of Jerusalem is liable for lashes. When listing the prohibitions for which lashes are given in *Hilchot Sanhedrin* 19:4, the Rambam lists these two activities separately.
 [^20]: After the handful was taken to be offered on the altar. All of these are considered as sacrifices of the most sacred order.
@@ -93,7 +93,7 @@ According to the Oral Tradition,[^16] it was taught that this is a warning again
 [^23]: Since, as stated in Chapter 10, Halachah 3, after the fact, sacrifices of the most sacred order may be eaten in the Temple Building, taking sacrificial meat there is not considered as taking it outside its designated place. The Radbaz questions whether it is acceptable to eat meat from sacrifices of lesser sanctity in the Temple Building.
 [^24]: The Radbaz emphasizes that this applies only to meat from a sin-offering or a guilt-offering. If, however, a non-priest partakes of meat from a burnt-offering, he is liable only for the prohibition against partaking of the meat of a burnt-offering (see Halachah 1) and not because of the prohibition against a non-priest partaking of sacrificial meat.
 [^25]: *Sefer HaMitzvot* (negative commandment 148) includes this prohibition as one of the 613 mitzvot of the Torah. The *Sefer HaChinuch*, however, does not include it.
-[^26]: I.e., as [[Makkot 18#18b|*Makkot* 18b]] states, the prohibition against a non-priest partaking of this sacrificial meat applies only in an instance where atonement would be granted were a priest to partake of the meat there.
+[^26]: I.e., as *Makkot* [[Makkot 18#18b|18b]] states, the prohibition against a non-priest partaking of this sacrificial meat applies only in an instance where atonement would be granted were a priest to partake of the meat there.
 [^27]: As stated in Halachah 5.
 [^28]: The Radbaz explains that there is a practical as well as a theoretical difference resulting from this concept, for if the non-priest was given a warning for partaking of the meat because he was a non-priest and not because he was partaking of it outside the Temple Courtyard, he is not liable.
 [^29]: This law also applies only when the meat of the fowl was eaten in a time and a place when the fowl would have been permitted to be eaten by the priests (Radbaz).

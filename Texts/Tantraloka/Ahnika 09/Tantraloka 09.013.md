@@ -30,7 +30,7 @@ ghaṭaḥ paṭaśceti bhavet kāryakāraṇatā na kim || ^iast
 > [!source] Dyczkowski, vol. VI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)/Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#^pg43|p. 26]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 06.pdf#page=43>))
 >
-> If you say that the relationship between cause and effect is essentially like the one between the seed (perceived first) and the sprout (perceived subsequently), why should a cloth (perceived first) and a jar (perceived subsequently) not be causally related?“
+> If you say that the relationship between cause and effect is essentially like the one between the seed (perceived first) and the sprout (perceived subsequently), why should a cloth (perceived first) and a jar (perceived subsequently) not be causally related?
 
 ## Viveka
 

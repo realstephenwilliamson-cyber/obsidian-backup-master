@@ -20,20 +20,14 @@ nyasa: "ma: heart (*hṛd*) · ā: mouth (*vaktra*)"
 ## Front
 
 - **Glyph:** मा
-- **Variation:** —
-- **Example:** —
-- The card has no stroke order (*How to Write*).
 
-## Back
-
-- **Pronunciation:** —
-- **Line under the name (no printed label):** Is a root (and a word)
-- **Class (as printed):** long syllable
-- **root:** ‘to measure’
-- **noun:** ‘me’ ; ‘mother’
-- **prohibitive:** ‘not’
-- **Grid:** a row of vowel signs (◌ा ◌ि ◌ी ◌ु ◌ू) above the five rows of stops + य र ल व + श ष स ह; in bold: ◌ा, म
-- **Example:** —
+> [!note]- Back
+> - **Line under the name:** Is a root (and a word)
+> - **root:** ‘to measure’
+> - **noun:** ‘me’ ; ‘mother’
+> - **prohibitive:** ‘not’
+> - **Class:** long syllable
+> - <u>ा</u> ि ी ु ू / क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ <u>म</u> / य र ल व / श ष स ह
 
 ## Register
 

@@ -106,7 +106,7 @@ In the West, under the guiding minds of Augustine and Ambrose, the council of Ch
 
 *[p. viii]* ^pg12
 
-exaggeration in their views long and violently to resist this purifying process in those parts of the world which had been the nearest witnesses of their struggles in defence of the doctrine of the consubstantial nature of the Son. Up to the time also of the council of Chalcedon the language of the Fathers had been vague and confused: and the expression of S. John i. 14, that “ the Word was made flesh;” as it had led the Arians to affirm that the Logos was a created being, so it had led orthodox Fathers to speak as if Christ’s human body was “ very God.” And thus the Monophysites could count up a long array of all the great names in the Church, Ignatius, Polycarp, Clemens of Rome, Irenzeus, Melito of Sardes, Felix and Julius of Rome, the Gregories, Athanasius, Basil, and many more, who had confounded in Christ the human with the divine. With such authorities on their side the conflict was long and dubious, and in Justinian’s time they seemed likely to gain the ascendancy: for the Pope then was the mere creature of simony, and consequently there was nothing to balance the tendencies of the Eastern Church. Accordingly in A. D. 533 Justinian, though nominally opposed to their tenets, decreed that “one of the holy and consubstantial Trinity was crucified :” and twenty years after, the fifth general council of Constantinople authoritatively ratified the same doctrine. But in the subsequent weak reign of Justin, the Patriarch of Constantinople, John the Jurist, thwarted by the Monophysite monks whom Theodora had planted in the capital, took such vigorous measures against the leaders of the party, that their principles have since exercised no appreciable influence in the Church.
+exaggeration in their views long and violently to resist this purifying process in those parts of the world which had been the nearest witnesses of their struggles in defence of the doctrine of the consubstantial nature of the Son. Up to the time also of the council of Chalcedon the language of the Fathers had been vague and confused: and the expression of S. [[John 01#^1-14|John i. 14]], that “ the Word was made flesh;” as it had led the Arians to affirm that the Logos was a created being, so it had led orthodox Fathers to speak as if Christ’s human body was “ very God.” And thus the Monophysites could count up a long array of all the great names in the Church, Ignatius, Polycarp, Clemens of Rome, Irenzeus, Melito of Sardes, Felix and Julius of Rome, the Gregories, Athanasius, Basil, and many more, who had confounded in Christ the human with the divine. With such authorities on their side the conflict was long and dubious, and in Justinian’s time they seemed likely to gain the ascendancy: for the Pope then was the mere creature of simony, and consequently there was nothing to balance the tendencies of the Eastern Church. Accordingly in A. D. 533 Justinian, though nominally opposed to their tenets, decreed that “one of the holy and consubstantial Trinity was crucified :” and twenty years after, the fifth general council of Constantinople authoritatively ratified the same doctrine. But in the subsequent weak reign of Justin, the Patriarch of Constantinople, John the Jurist, thwarted by the Monophysite monks whom Theodora had planted in the capital, took such vigorous measures against the leaders of the party, that their principles have since exercised no appreciable influence in the Church.
 
 *[p. ix]* ^pg13
 
@@ -287,7 +287,7 @@ and athirst, and with their soul wasted away with misery, were filled with spiri
 
 V. 84. He hath taken hold of Israel His child to remember mercy.
 
-He hath taken hold of \[srael,—not of the Israel according to the flesh, and who prides himself on the bare name, but of him who is so after the Spirit, and according to the true meaning of the appellation ;—even such as look unto God, and believe in Elim, and obtain through the Son the adoption of sons, according to the Word that was spoken, and the promise made to the prophets and patriarchs of old. It has, however, a true application also to the carnal Israel; for many thousands and ten thousands of them believed. “ But He has re- “membered His mercy as He promised to Abraham :” and Gen. xxii. has accomplished what He spake unto him, that “in thy seed 18. \* shall all the tribes of the earth be blessed.” For this promise was now in the act of fulfilment by the impending birth of our common Sayiour Christ, Who is that seed of Abraham, Heb. ii. 16. in Whom the Gentiles are blessed. ‘‘ For He took on Him the ‘seed of Abraham,” according to the Apostle’s words: and so fulfilled the promise made unto the fathers.
+He hath taken hold of \[srael,—not of the Israel according to the flesh, and who prides himself on the bare name, but of him who is so after the Spirit, and according to the true meaning of the appellation ;—even such as look unto God, and believe in Elim, and obtain through the Son the adoption of sons, according to the Word that was spoken, and the promise made to the prophets and patriarchs of old. It has, however, a true application also to the carnal Israel; for many thousands and ten thousands of them believed. “ But He has re- “membered His mercy as He promised to Abraham :” and Gen. xxii. has accomplished what He spake unto him, that “in thy seed 18. \* shall all the tribes of the earth be blessed.” For this promise was now in the act of fulfilment by the impending birth of our common Sayiour Christ, Who is that seed of Abraham, [[Hebrews 02#^2-16|Heb. ii. 16]]. in Whom the Gentiles are blessed. ‘‘ For He took on Him the ‘seed of Abraham,” according to the Apostle’s words: and so fulfilled the promise made unto the fathers.
 
 V. 69. He hath raised up a horn of salvation for us.>
 
@@ -319,7 +319,7 @@ To give light to them that sit in darkness, and the shadow V. 79.
 
 of death.
 
-For those under the law, and dwelling in Judea, the Baptist was, as it were, a lamp, preceding Christ: and God so spake before of him; “I have prepared a lamp for My Christ.” And Ps. exxxii. the law also typified him in the lamp, which in the first taber- a nacle it commanded should be ever kept alight. But the Jews, after being for a short time pleased with him, flocking to his baptism, and admiring his mode of life, quickly made him sleep in death, doing their best to quench the ever-burning lamp. For this reason the Saviour also spake concerning him ; ‘He was a burning and shining lamp, and ye were willing a John v. 35. “ little to rejoice for a season in his light.”
+For those under the law, and dwelling in Judea, the Baptist was, as it were, a lamp, preceding Christ: and God so spake before of him; “I have prepared a lamp for My Christ.” And Ps. exxxii. the law also typified him in the lamp, which in the first taber- a nacle it commanded should be ever kept alight. But the Jews, after being for a short time pleased with him, flocking to his baptism, and admiring his mode of life, quickly made him sleep in death, doing their best to quench the ever-burning lamp. For this reason the Saviour also spake concerning him ; ‘He was a burning and shining lamp, and ye were willing a [[John 05#^5-35|John v. 35]]. “ little to rejoice for a season in his light.”
 
 face to his translation of the Theo-phania, a Syriac version of which e¢ “ He means the Arians, who “\* said the Son was indeed God, but “‘ nevertheless inferior to the Fa- “ther: as Eusebius, who was an «\* Arian writer, especially in his in- “ terpretation of the 78th Psalm.”
 
@@ -337,7 +337,7 @@ CHAP. I.
 
 “From S. Cyril’s Commentary upon the Gospel of Erom the . Syriac, “ St. Luke, Sermon the First.” MS.12,154.
 
-And it came to pass in those days, Se. Luke ii. 1. CHRIST therefore was born in Bethlehem at the time when Augustus Cesar gave orders that the first enrolment should be made. But what necessity was there, some one may perhaps say, for the very wise Hvangelist to make special mention of this? Yes, I answer: it was both useful and necessary for him to mark the period when our Saviour was born: for it was said by the voice of the Patriarch: ‘The head shall not depart Gen. xlix. “from Judah, nor a governor from his thighs until He come, '\* ‘for Whom it is laid up: and He is the expectation of the “ Gentiles.” That we therefore might learn that the Israelites had then no king of the tribe of David, and that their own native governors had failed, with good reason he makes mention of the decrees of Crsar, as now having beneath his sceptre Judzea as well as the rest of the nations: for it was as their ruler that he commanded the census to be made.
+And it came to pass in those days, Se. [[Luke 02#^2-1|Luke ii. 1]]. CHRIST therefore was born in Bethlehem at the time when Augustus Cesar gave orders that the first enrolment should be made. But what necessity was there, some one may perhaps say, for the very wise Hvangelist to make special mention of this? Yes, I answer: it was both useful and necessary for him to mark the period when our Saviour was born: for it was said by the voice of the Patriarch: ‘The head shall not depart Gen. xlix. “from Judah, nor a governor from his thighs until He come, '\* ‘for Whom it is laid up: and He is the expectation of the “ Gentiles.” That we therefore might learn that the Israelites had then no king of the tribe of David, and that their own native governors had failed, with good reason he makes mention of the decrees of Crsar, as now having beneath his sceptre Judzea as well as the rest of the nations: for it was as their ruler that he commanded the census to be made.
 
 Because he was of the house and lineage of David. Vi. 4.
 
@@ -353,7 +353,7 @@ The sacred Evangelist says that Mary was betrothed to Joseph, to shew that the c
 
 And the occasion of the census most opportunely caused the holy Virgin to go to Bethlehem, that we might see another
 
-Col. i. 15.
+[[Colossians 01#^1-15|Col. i. 15]].
 
 [^4]: @eds xai vids, God the Son; as\_ tion in these phrases is constantly @cds Kat warp is used by S. Cyril retained, while in those of a later for God the Father. In the more date the tendency is to omit it. ancient Syriac MSS. the conjunc-
 
@@ -365,19 +365,19 @@ But in answer to those who argue that, if He were brought forth in the flesh, th
 
 And she brought forth her firstborn Sov. Ver. 7.
 
-In what sense then her firstborn! By firstborn she here means, not the first among several brethwen, but one who was both her first and only son: for some such sense as this exists among the significations of “firstborn.” For sometimes also the Scripture calls that the first which is the only one; as \* Ls. xliv. 6. am God, the First, and with Me there is uo other.’ To shew then that the Virgin did not bring forth a mere man, there Is added the word firstborn; for as she continued to be a virgin, she had no other son but Him Who is of the Father: concerning Whom God the Father also proclaims by the voice of David, ‘And I will set Him Firstborn high among the kings of the Ps. Ixssis. earth.” Of Him also the all-wise Paul makes mention, saying, \*7. “But when He brought the First-begotten into the world, He Heb. i. 6. saith, And let all the angels of God worship Him.” How then did He enter into the world? For He is separate from it, not so much in respect of place as of nature ; for it is in nature that He differs from the inhabitants of the world: but He entered into it by being made man, and becoming a portion of it by the incarnation. For though He is the Only-begotten as regards His divinity, yet as having become our brother, He has also the name of Firstborn; that, being made the first-fruits as it were of the adoption of men, He mght make us also the sons of God.
+In what sense then her firstborn! By firstborn she here means, not the first among several brethwen, but one who was both her first and only son: for some such sense as this exists among the significations of “firstborn.” For sometimes also the Scripture calls that the first which is the only one; as \* Ls. xliv. 6. am God, the First, and with Me there is uo other.’ To shew then that the Virgin did not bring forth a mere man, there Is added the word firstborn; for as she continued to be a virgin, she had no other son but Him Who is of the Father: concerning Whom God the Father also proclaims by the voice of David, ‘And I will set Him Firstborn high among the kings of the Ps. Ixssis. earth.” Of Him also the all-wise Paul makes mention, saying, \*7. “But when He brought the First-begotten into the world, He [[Hebrews 01#^1-6|Heb. i. 6]]. saith, And let all the angels of God worship Him.” How then did He enter into the world? For He is separate from it, not so much in respect of place as of nature ; for it is in nature that He differs from the inhabitants of the world: but He entered into it by being made man, and becoming a portion of it by the incarnation. For though He is the Only-begotten as regards His divinity, yet as having become our brother, He has also the name of Firstborn; that, being made the first-fruits as it were of the adoption of men, He mght make us also the sons of God.
 
 Consider therefore that He is called the Firstbuorn in respeet of the ceonomy: for with respect to His divinity He is the
 
 *[p. 10]* ^pg34
 
-John i. 18.
+[[John 01#^1-18|John i. 18]].
 
 Rom. viii.
 
 29\.
 
-Col. i. 18.
+[[Colossians 01#^1-18|Col. i. 18]].
 
 Only-begotten. Again, He is the Only-begotten in respeet of His being the Word of the Father, having no brethren by nature, nor being co-ordinate with any other being: for the Son of God, consubstantial with the Father, is One and Alone: but He beeomes the Firstborn by descending to the level of created things. When therefore He is called the Only-begotten, IIe is so with no cause assigned by reason of which He is the Only-begotten, being \*\* the Only-begotten Gode into the bosom of the Father :’’ but when the divine Seriptures eall Him Firstborn, they immediately also add of whom He is the firstborn, and assign the canse of His bearing this title: for they say, “ Firstborn among many brethren :” and “ Firstborn from the dead:” the one, becanse He was made like unto us in all things except sin; and the other, beeause He first raised up His own flesh unto incorruption. Moreover, He has ever been the Only-begotten by nature, as being the Sole begotten of the Father, God of God, and Sole of Sole, having shone forth God of God, and Light of Light: but He is the Firstborn for our sakes, that Ly His being called the Firstborn of things created, whatever resembles Hin may be saved through Him : for if He must of necessity be the Firstborn, assuredly those must also continue to exist of whom He is the Firstborn. But if, as Eunomiusf argues, Ele is called God’s Firstborn, as born the first of many; and He is also the Virgin’s Firstborn; then as regards her also, He must be the first as preeeding another child: but if He is called Mary’s Firstborn, as her only child, and not as preceding others, then is He also God’s Firstborn, not as the first of many, but as the Only One born.
 
@@ -395,7 +395,7 @@ ther and Son are unequal, both in degree and kind, whence his followers were cal
 
 TIE GOSPEL OF ST. LUKE. 1
 
-Firstborn, not as being the first of them, but as the first cause of tlicir reeciving the title of sonship. And just as the Father being called the first—for I, He saith, am the Is. xli. «. first, and I am after these things’—assuredly will not compel us to regard Him as similar in nature to those that are after Him; so also though the Son be called the first of creation, or the Firstborn before all creation, it by no means follows that He is one of the things made: but just as the Father said «I am the first,” to shew that He is the origin of all things, in the same sense the Son also is called the first of creation. “ For John i. 3. all things were made by Him,” and He is the beginning of all created things, as being the Creator and Maker of the worlds.
+Firstborn, not as being the first of them, but as the first cause of tlicir reeciving the title of sonship. And just as the Father being called the first—for I, He saith, am the Is. xli. «. first, and I am after these things’—assuredly will not compel us to regard Him as similar in nature to those that are after Him; so also though the Son be called the first of creation, or the Firstborn before all creation, it by no means follows that He is one of the things made: but just as the Father said «I am the first,” to shew that He is the origin of all things, in the same sense the Son also is called the first of creation. “ For [[John 01#^1-3|John i. 3]]. all things were made by Him,” and He is the beginning of all created things, as being the Creator and Maker of the worlds.
 
 And she laid him in the manger. Ver. 5, He found man reduced to the level of the beasts: therefore is He placed like fodder in a manger, that we, having left of our bestial life, might mount up to that degree of intelligence which befits man’s nature; and whereas we were brutish in soul, by now approaching the manger, even His own table, we find no longer fodder, but the bread from heaven, which is the body of life.
 
@@ -425,7 +425,7 @@ But perchance some one may object to this; “that He Who was now born was still
 
 *[p. 14]* ^pg38
 
-Rom.viii.3.
+[[Romans 08#^8-3|Rom.viii.3]].
 
 death\*, But because a woman has brought forth in the flesh the Immanuel, Who is Life, the power of the curse is loosed, and along with death have ceased also the pains that earthly mothers had to endure in bringing forth.
 
@@ -459,7 +459,7 @@ Him in the highest exaltation, possessed of transcendent glory ; thou wilt see H
 
 And that what I say is true, the prophet Isaiah again assures us, saying, ‘‘ Behold the virgin shall conceive and bear Is. vii. 14. “a Son, and they shall call His name Emmanuel; butter ‘and honey shall He eat: before He knoweth or choosethi “ the evil, He shall prefer the good: for before the Child dis- \* tinguisheth good or evil, He is not obedient to evil in that \*\* He chooseth the good.” And yet how is it not plain to all, that a new-born babe, as yet unable, from its youth and tenderness, to understand anything, is unequal to the task of distinguishing between good and evil? For he knows absolutely nothing. But in our Saviour Christ it was a great and extraordinary miracle: for He ate while yet a babe both butter and honey. And because He was God, ineffably made flesh, He knew only
 
-m This reading is supported by St. Paul, Heb. i. 6.
+m This reading is supported by St. Paul, [[Hebrews 01#^1-6|Heb. i. 6]].
 
 several MSS., two Scholia, and S. n Mai reads 4 adnOea, ‘the re-Augustine ; but is rejected by ality.’
 

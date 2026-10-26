@@ -87,14 +87,14 @@ Blessed be God who offers assistance. ^7-11
 [^4]: All of the names mentioned here are regions or cities in *Eretz Yisrael*. Each respectively was renown for the quality of the particular item associated with it.
 [^5]: I.e., wood that has not been used for any other purpose first.
 [^6]: Oil and wine are considered basic necessities and hence, the trees and vines from which they derive should not be cut down for use as fuel for the altar. The Radbaz explains that olive trees and grape vines also frequently have knots and produce smoke that is undesirable.
-[^7]: Which do not produce edible fruit [the Rambam's Commentary to the Mishnah (*Tamid* 2, 3). This atoned for the Sin of the Tree of Knowledge which was a fig tree [Rashi ([[Yoma 58#58a|*Yoma* 58a]])].
-[^8]: Our translation is based on Rashi's Commentary to [[Tamid 29#29b|*Tamid* 29b]]. Literally, the words would be translated as "oily trees."
+[^7]: Which do not produce edible fruit [the Rambam's Commentary to the Mishnah (*Tamid* 2, 3). This atoned for the Sin of the Tree of Knowledge which was a fig tree [Rashi (*Yoma* [[Yoma 58#58a|58a]])].
+[^8]: Our translation is based on Rashi's Commentary to *Tamid* [[Tamid 29#29b|29b]]. Literally, the words would be translated as "oily trees."
 [^9]: For this was the size of the pyre.
 [^10]: Even though the size of the altar as a whole was increased.
 [^11]: I.e., the practice to be described delineates the optimum manner of preparing flour for the meal offerings. Flour which was prepared in another manner may also be acceptable.
 [^12]: Leaving the field fallow improved the quality of the grain it produces.
 [^13]: Plowing it each time [see the Rambam's Commentary to the Mishnah (*Menachot* 8:2)].
-[^14]: Although this falls on 5 Shvat which is in the midst of winter. "the sun already has the power to shine upon it" (Rashi, [[Menachot 85#85a|*Menachot* 85a]]) and improve its growth.
+[^14]: Although this falls on 5 Shvat which is in the midst of winter. "the sun already has the power to shine upon it" (Rashi, *Menachot* [[Menachot 85#85a|85a]]) and improve its growth.
 [^15]: To remove any other seeds and to select the highest quality wheat (Radbaz).
 [^16]: In his Commentary to the Mishnah (*Menachot* 6:5) the Rambam interprets this as striking the wheat powerfully with one's hand so that the dust will be removed from them.
 [^17]: Crushing them with his feet to crack the shells (*ibid.*).
@@ -110,7 +110,7 @@ Blessed be God who offers assistance. ^7-11
 [^27]: Without separating the good from the bad. This is speaking about the stage when most of the olives are ready for picking. Thus the ones he picks are not necessarily the most choice.
 [^28]: These are olives which grew late and never ripened sufficiently.
 [^29]: Although they were crushed and thus dregs will be produced, they were not, however, pressed with a beam, which would produce more dregs.
-[^30]: [[Menachot 86#86b|*Menachot* 86b]] states that the Torah allowed the inferior types of oil to be used, so that the price of superior oil would not rise and thus be prohibitively expensive for the people at large.
+[^30]: *Menachot* [[Menachot 86#86b|86b]] states that the Torah allowed the inferior types of oil to be used, so that the price of superior oil would not rise and thus be prohibitively expensive for the people at large.
 [^31]: For the olives are superior and they are not pressed, so that few dregs will be included.
 [^32]: The second category uses superior olives, but they are pressed, so that they will have dregs. The fourth uses inferior olives, but they are not pressed, so there will be no dregs.
 [^33]: Even though the olives of the third category will have been pressed twice, because they are of a superior quality, they are equal to those of a lower quality that were pressed less. Similarly, those of the seventh category, though pressed only once are of inferior quality to those of the fifth category.

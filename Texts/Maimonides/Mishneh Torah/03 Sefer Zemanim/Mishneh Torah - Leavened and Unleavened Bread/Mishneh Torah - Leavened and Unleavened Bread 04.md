@@ -97,7 +97,7 @@ Clothes which were washed with starch[^76] and, similarly, papers which were stu
 [^14]: As evident from the following halachah, this law applies only when the Jew does not accept responsibility for the chametz.
 [^15]: the Jew's,
 [^16]: *Hilchot Melachim* 8:10 and *Hilchot Avodah Zarah* 10:6 define this term as referring to a gentile who keeps the seven universal laws given to Noah's descendants. A gentile who accepts these rules of behavior may be granted the privilege of living in *Eretz Yisrael*.
-[^17]: [[Pesachim 5#5b|*Pesachim* 5b]] emphasizes that even a gentile who lives in a Jew's home may keep chametz during Pesach.
+[^17]: *Pesachim* [[Pesachim 5#5b|5b]] emphasizes that even a gentile who lives in a Jew's home may keep chametz during Pesach.
 [^18]: the Jew
 [^19]: Some manuscripts of the *Mishneh Torah* state: "We need not force him (i.e., the gentile) to remove his chametz from our property."
 [^20]: A similar partition is not required when a gentile entrusts other forbidden objects to a Jew. As mentioned above, greater stringencies are taken regarding chametz than other forbidden substances, since the use of chametz is permitted during the entire year.
@@ -110,23 +110,23 @@ Clothes which were washed with starch[^76] and, similarly, papers which were stu
 [^24]: due to factors other than his personal negligence. Rashi and Rabbenu Asher obligate a Jew to destroy any chametz belonging to a gentile for which he has accepted responsibility, even if his responsibility is less than that specified above. The *Shulchan Aruch HaRav* (*Orach Chayim* 440:13,16) and the *Mishnah Berurah* advise following the latter opinion.
 [^25]: before the sixth hour on the fourteenth of Nisan.
 [^26]: and would have to pay for it if it is lost.  
-    [[Pesachim 5#5b|*Pesachim* 5b]] offer two possible explanations why the chametz is considered as if it belongs to the Jew. One opinion maintains that throughout the Torah, an article that causes financial liability is considered as one's responsibility.  
+    *Pesachim* [[Pesachim 5#5b|5b]] offer two possible explanations why the chametz is considered as if it belongs to the Jew. One opinion maintains that throughout the Torah, an article that causes financial liability is considered as one's responsibility.  
     Another opinion maintains that in this instance, since the Torah adds a special commandment "leaven should not be found," extra stringency must be taken. From this discussion, we see that the responsibility to destroy this chametz stems from the Torah itself, and is not merely a matter of Rabbinic decree.
 [^27]: and, hence, must be destroyed. *Tosefot, Pesachim* 6a maintains that if a Jew designates a specific place within his home for the gentile and tells him to place his chametz there, he is not obligated to destroy it even though he accepted responsibility for it. Rashi does not accept this position. From the Rambam's omission of the matter, we may assume he also follows Rashi's view (*Lechem Mishnah*).  
     The *Shulchan Aruch* (*Orach Chayim* 440:1) quotes the Rambam and hence, requires the acceptance of the more stringent position. However, the *Shulchan Aruch HaRav* (440:16) and the *Mishnah Berurah* (440:3) mention certain leniencies based on *Tosefot's* position.
 [^28]: the gentile's chametz
 [^29]: without transgressing the prohibitions against possessing chametz
 [^30]: in contrast to chametz possessed by a Jew during Pesach which is forbidden to be used (Halachah 1:4)
-[^31]: [[Pesachim 6#6a|*Pesachim* 6a]] mentions a situation where a gentile brings chametz that he wishes to entrust to a Jew, and the latter designates a particular portion of the house for him to put the chametz. Under such circumstances, there is no need to destroy the chametz.  
+[^31]: *Pesachim* [[Pesachim 6#6a|6a]] mentions a situation where a gentile brings chametz that he wishes to entrust to a Jew, and the latter designates a particular portion of the house for him to put the chametz. Under such circumstances, there is no need to destroy the chametz.  
     There are some authorities who explain that the Talmud is speaking about a situation in which the Jew accepted responsibility for the chametz. Nevertheless, since he told the gentile to put it in one specific place, it is considered as if that place belongs to the gentile, and thus the chametz is not found in the Jew's possession.  
     The Rambam does not accept this interpretation and requires the gentile's chametz to be destroyed whenever a Jew accepts responsibility for it. Though the *Shulchan Aruch HaRav* and the *Mishnah Berurah* mention the more lenient opinion, they require that the more stringent approach be followed.
 [^32]: a literal translation of the word אנס. Some editions of the *Mishneh Torah* use the expression אלם instead. However, the intention remains the same, regardless of which term is used.
-[^33]: This law is derived from the following passage ([[Pesachim 5#5b|*Pesachim* 5b]]): Ravvah told the inhabitants of Mechuzah: "Destroy the chametz belonging to the king's soldiers." Since the army would hold the Jews responsible if it were stolen, it was considered their property.
+[^33]: This law is derived from the following passage (*Pesachim* [[Pesachim 5#5b|5b]]): Ravvah told the inhabitants of Mechuzah: "Destroy the chametz belonging to the king's soldiers." Since the army would hold the Jews responsible if it were stolen, it was considered their property.
 [^34]: In the previous halachah, the Rambam requires a Jew to destroy chametz only if he willingly accepts responsibility for it. Nevertheless, in this instance,
 [^35]: whether the Jew willingly accepts that responsibility or not. Certain opinions maintain that this law applies only when the secular law of the land would uphold the gentile's view, as in the instance cited from *Pesachim*, and not when a private individual takes the law into his own hands (*Maggid Mishneh*). Nevertheless, this differentiation is not accepted by most halachic authorities.
 [^36]: before Pesach, transferring it into the latter's domain
 [^37]: The *Aruch* relates that the word רהן means security in Arabic.
-[^38]: This specific statement is required, because although a Jewish lender is considered to have acquired a certain degree of ownership over an article given him as security, this principle does not apply with regard to a gentile ([[Pesachim 31#31b|*Pesachim* 31b]], *Maggid Mishneh*).
+[^38]: This specific statement is required, because although a Jewish lender is considered to have acquired a certain degree of ownership over an article given him as security, this principle does not apply with regard to a gentile (*Pesachim* [[Pesachim 31#31b|31b]], *Maggid Mishneh*).
 [^39]: payment for the loan. Hence, it is
 [^40]: In a responsa (no. 252), the Rambam writes that it is as if the Jew sold the chametz to the gentile outright.
 [^41]: as is all chametz that belonged to gentiles during the holiday.
@@ -166,7 +166,7 @@ Clothes which were washed with starch[^76] and, similarly, papers which were stu
 [^63]: by human beings.
 [^64]: This is called חמץ נוקשה, "hardened chametz," and is permitted by the *Shulchan Aruch* (*Orach Chayim* 447:12). See the following halachot. However, if the substance is originally intended for human consumption and then becomes spoiled, one is considered to have violated the prohibitions against possessing chametz until it becomes spoiled to the extent that it will not be eaten by a dog. (See Halachah 11.)
 [^65]: allowing one to keep chametz unfit for consumption
-[^66]: The flour is useful in drying out the hides and absorbing their natural moisture. See also [[Shabbat 79#79a|*Shabbat* 79a]] ("There are three hides").
+[^66]: The flour is useful in drying out the hides and absorbing their natural moisture. See also *Shabbat* [[Shabbat 79#79a|79a]] ("There are three hides").
 [^67]: the end of the fifth hour on the fourteenth of Nisan
 [^68]: for as soon as the flour comes in contact with the hides, it is no longer fit for consumption.
 [^69]: from the residual moisture and odor left in the trough. If the chametz was placed in the trough
@@ -175,7 +175,7 @@ Clothes which were washed with starch[^76] and, similarly, papers which were stu
 [^72]: in contrast to chametz which is not human food, as mentioned in the previous halachot, and is permitted once it is no longer fit for human consumption.  
     Rav Chayim Soloveitchik (*Hilchot Ma'achalot Asurot* 15:1) differentiates between the two cases as follows. Chametz itself is a forbidden substance. Hence, it must be spoiled to the point that a dog cannot benefit from it. In contrast, the other substances are merely mixtures of chametz. They are only forbidden because they contain the taste of chametz. Hence, once that taste is no longer suitable for human consumption, there is no reason why they should remain forbidden.  
     He continues relating that, as stated in Halachot 11 and 12, chametz that is obviously designated for purposes other than food can be used even though it has not become spoiled. Thus, one could explain that once the chametz in the above mixtures becomes unfit for human consumption, it is clearly not food. In contrast, bread which is originally made for that intent must spoil more.
-[^73]: This compress differs from the one mentioned in the previous halachah. It is made from wheat and figs that have been chewed, and is then applied to an infected area. (See [[Bava Kamma 102#102a|*Bava Kama* 102a]].) It is not mixed with bitter medications, and hence is generally fit to be eaten before it becomes spoiled.
+[^73]: This compress differs from the one mentioned in the previous halachah. It is made from wheat and figs that have been chewed, and is then applied to an infected area. (See *Bava Kama* [[Bava Kamma 102#102a|102a]].) It is not mixed with bitter medications, and hence is generally fit to be eaten before it becomes spoiled.
 [^74]: beyond being fit for consumption by a dog. Rabbenu Manoach emphasizes that it must become spoiled before the prohibition against chametz takes effect. Otherwise, it must be destroyed.
 [^75]: for in its present form it is no longer considered useful.
 [^76]: made from wheat

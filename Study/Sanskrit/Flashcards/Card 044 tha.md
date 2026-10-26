@@ -20,16 +20,13 @@ nyasa: "left thigh (*ūru*)"
 ## Front
 
 - **Glyph:** थ
-- **Variation:** —
 - **Example:** नाथ
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘ea<u>t h</u>oney’
-- **Class (as printed):** 4 (dental) · hard · aspirated
-- **Grid:** the five rows of stops; in bold: थ
-- **Example:** nātha (lord)
+> [!note]- Back
+> - **Pronunciation:** As in ‘ea<u>t h</u>oney’
+> - **Class:** dental · hard · aspirated
+> - क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त <u>थ</u> द ध न / प फ ब भ म
+> - **Example:** nātha (lord)
 
 ## Register
 

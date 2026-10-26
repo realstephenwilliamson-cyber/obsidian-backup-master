@@ -4,7 +4,7 @@ updated: 2026-10-23
 ---
 # Viveka English scripts
 
-The scripts that, on 22 Oct 2026, made Dyczkowski's English of Jayaratha's *Viveka* readable from every Tantrāloka verse note. The English stays where it is, in the library copy of his eleven volumes (`Library/Trika/Tantraloka (Dyczkowski)/`); each of his verse units there has two headings (`### TĀ 1.1` before the verse, `#### Viveka on 1.1` before the commentary), and each verse note's *Viveka* section opens with a folded `[!viveka]` box that embeds those sections. [[Tantraloka page]] shows the same text beside the Sanskrit. The record is the AI log, 22 Oct 2026 (evening).
+The scripts that, on 22 Oct 2026, made Dyczkowski's English of Jayaratha's *Viveka* readable from every Tantrāloka verse note. The English stays where it is, in the library copy of his eleven volumes (`Library/Trika/Tantraloka (Dyczkowski)/`); each of his verse units there has two headings (`### TĀ 1.1` before the verse, `#### Viveka on 1.1` before the commentary), and each verse note's *Viveka* section opens with a folded `[!viveka]` box that embeds those sections. [[Tantraloka View]] shows the same text beside the Sanskrit. The record is the AI log, 22 Oct 2026 (evening).
 
 They are in `AI/Prompts/Scripts/Viveka English/`. They were written for a cloud workspace with the work in `/home/claude/viv/`: `lib/` held copies of the 123 library notes as they were before the headings; the phase 5 data are read from the vault's `.work/plan/phase-5-work/` (`units-matched.json`, `12oct/units-final.json`, `12oct/verses-final.json`, and `dz_units2.py`, which the scripts load). Copy them there, or change the paths at the top of each script.
 

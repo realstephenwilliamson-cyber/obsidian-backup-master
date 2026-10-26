@@ -11,6 +11,7 @@ second_reading: "Philippians 4:1-9"
 gospel: "Matthew 22:1-14"
 first_reading_complementary: "Isaiah 25:1-9"
 psalm_complementary: "Psalm 23"
+psalm_bcp_complementary: "Psalm 23"
 collect:
   - "[[BCP - Collects - Contemporary (Seasons of the Year)#^collect-proper-23]]"
 cssclasses:

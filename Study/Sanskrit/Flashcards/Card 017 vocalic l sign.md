@@ -20,17 +20,13 @@ nyasa: "right cheek (*gaṇḍa*), as ḷ"
 ## Front
 
 - **Glyph:** ◌ॢ
-- **Variation:** —
 - **Example:** कॢप्
-- The stroke order (*How to Write*) is on the card and is not copied here.
 
-## Back
-
-- **Pronunciation:** As in ‘tab<u>l</u>e’
-- **Class (as printed):** 4 (dental) · short, soft · simple vowel
-- **Note (no printed label):** Abbreviation - only used in 1 root (kḷp).
-- **Grid:** the vowel signs ा ि ी ु ू / े ै ो ौ / ृ ॄ ॢ; in bold: ॢ
-- **Example:** kḷp (to be ready)
+> [!note]- Back
+> - **Pronunciation:** As in ‘tab<u>l</u>e’
+> - **Class:** dental · short, soft · simple vowel · Abbreviation - only used in 1 root (kḷp).
+> - ा ि ी ु ू / े ै ो ौ / ृ ॄ <u>ॢ</u>
+> - **Example:** kḷp (to be ready)
 
 ## Register
 

@@ -354,7 +354,7 @@ It is forbidden to use the light of an oil lamp[^1] for anything that requires c
 [^140]: This applies only to a stone wall but on a wooden wall it is permitted. It is forbidden on a stone wall because it appears as though you are adding to the wall [*Magein Avraham, Eliyahu Rabbah, Mishnah Berurah* (302: 28)].
 [^141]: For by doing so you may fill up a hole in the ground.
 [^142]: *Mishnah Berurah* 302: 28 rules you can rely on the vast majority of *Rishonim* who permit it.
-[^143]: Even a blunt edged knife is forbidden ([[Shabbat 141#141b|*Shabbos* 141b]]).
+[^143]: Even a blunt edged knife is forbidden (*Shabbos* [[Shabbat 141#141b|141b]]).
 [^144]: If it is as sharp as the blunt edge of a knife [*Shulchan Aruch,Harav, Mishnah Berurah* (302: 38)].
 [^145]: *Rambam*. But you may use a rag that you are not concerned with [see *Peri Megadim m.z*. 302: 3].
 [^146]: This constitutes a rabbinic prohibition according to most *poskim*. The *Behag* rules that it is a *de’oraisa*. See *Maseches Shabbos* (95).

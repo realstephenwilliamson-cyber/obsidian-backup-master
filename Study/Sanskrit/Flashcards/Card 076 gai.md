@@ -17,6 +17,8 @@ nyasa: "ga: right hand (*kara*) · ai: upper teeth (*rada*)"
 
 **Card 76 of 108** (printed: Card 3-16 · Alpha 37) · consonant + vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** गै

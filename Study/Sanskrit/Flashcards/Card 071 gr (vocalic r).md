@@ -17,6 +17,8 @@ nyasa: "ga: right hand (*kara*) · ṛ: right nostril (*nāsā*)"
 
 **Card 71 of 108** (printed: Card 3-11 · Alpha 36) · consonant + vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** गृ

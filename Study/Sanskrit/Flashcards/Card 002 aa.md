@@ -17,6 +17,8 @@ nyasa: "mouth (*vaktra*)"
 
 **Card 2 of 108** (printed: Card 1-2 · Alpha 4) · vowel · the letter: [[Letter 02 aa|आ ā]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** आ

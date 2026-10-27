@@ -17,6 +17,8 @@ nyasa: "left fingernails (*nakha*)"
 
 **Card 37 of 108** (printed: Card 2-10 · Alpha 47) · consonant · the letter: [[Letter 26 nya|ञ ña]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ञ

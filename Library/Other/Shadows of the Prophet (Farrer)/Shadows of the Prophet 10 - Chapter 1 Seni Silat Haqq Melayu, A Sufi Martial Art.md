@@ -4,7 +4,7 @@ work: "[[Farrer - Shadows of the Prophet]]"
 book: "[[Library/Other/Shadows of the Prophet (Farrer)/Shadows of the Prophet (Farrer)|Shadows of the Prophet (Farrer)]]"
 order: 10
 source_pdf: Library/Other/Farrer - Shadows of the Prophet (2009).pdf
-page_range: 18–42
+page_range: 3–42
 pdf_pages: 18–57
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[Shadows of the Prophet 09 - Dramatis Personae|← previous]] · [[Shadows of the Prophet (Farrer)|contents]] · [[Shadows of the Prophet 11 - Chapter 2 Silat - Art, Magic and Performance|next →]]
 
-*[PDF 18]* ^pg18
+*[p. 3]* ^pg18
 
 ## Chapter 1
 Seni Silat Haqq Melayu: A Sufi Martial Art

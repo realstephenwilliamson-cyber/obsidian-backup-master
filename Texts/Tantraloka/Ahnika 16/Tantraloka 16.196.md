@@ -30,7 +30,7 @@ cidvṛttervaicitryāccāñcalye'pi krameṇa sandhānāt || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#^pg104|p. 84]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=104>))
 >
-> Again, Abhinavagupta’s teacher has said that if the money (is available) and the location and time etc. (are auspicious), (the teacher) should gather together (and apply his) extensive knowledge of ritual action? also, when (the intention is to) liberate (the disciple). (with 16.195cd–196ab)
+> Again, Abhinavagupta’s teacher has said that if the money (is available) and the location and time etc. (are auspicious), (the teacher) should gather together (and apply his) extensive knowledge of ritual action also, when (the intention is to) liberate (the disciple). (with 16.195cd–196ab)
 >
 > Although the fluctuation of consciousness is wantonly playful (cāñcala) because of its wonderful variety (vaicitrya), by progressively focusing (and conjoining it) (sandhāna) within each particular entity (purified and empowered in the course of initiation), the firm (conviction) (rūdhi) (that arises thereby concerning its true nature) is necessarily that it is identical with iva. (with 16.196cd–197ab)
 

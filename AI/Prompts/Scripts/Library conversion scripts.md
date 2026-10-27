@@ -66,3 +66,9 @@ Options that already existed, used in new ways that day:
 ## Job options used most
 
 `route` (`pymupdf` or `ocr`); `langs` (`Latin`, `eng`, `Latin+san` …); `san_pages` (a second OCR with `+san` only on pages that need it); `psm` (`3`, `6` or `best`); `ocr_prep: 'norm-sauvola'` (yellowed scans); `merge_ocr` (keep a text layer, replace its junk words from a fresh OCR); `latin_fix` (English lines that the `san` model spoiled read again with `eng`); `fixmap`, `anusvara`, `charmap` (letter repairs); `accents` (a book with Vedic accents: no ä/å repair); `use_toc`, `toc`, `big_heads`, `contents_heads`, `fuzzy_heads` (where the chapters come from); `pnum_override`, `labels` (printed page numbers); `ncols`, `gutter_bands`, `columns`, `col_segments` (column layouts); `fn_runin`, `fn_max_size` (footnotes); `callout` (a warning at the top of each note); `single` (an article in one note). The three files in `example jobs/` show a plain OCR job, a layer-and-OCR merge with a callout, and a two-column OCR job; `example jobs/2026-10-22/` has the 22 jobs of 22 Oct 2026.
+
+## Added 26 Oct 2026
+
+- `Soft hyphens/` ([[Soft hyphens]]): born-digital PDFs that store every hyphen as U+00AD, which the converter drops; the scan, the classifier and the page-by-page patch used for Sen Sharma and Brown.
+- `Page labels/` ([[Page labels]]): read-only scans of the index labels and of the `[PDF K]` markers inside numbered runs, with their results of 26 Oct (not applied).
+- `example jobs/2026-10-26/`: the four re-split jobs of 26 Oct (second session).

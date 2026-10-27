@@ -8,7 +8,7 @@ Four things from the corrections week's S11 that only you can do, because they l
 
 ## 1. Meta Bind button templates (D3)
 
-On the laptop (and on each other device where the buttons should work): copy one block below, then **Settings → Meta Bind → Button templates → Add → From clipboard**; the button builder opens; press **Add**. Repeat for each block. For *Timeline*, before **Add**, use the builder's **Command → Change** and pick Day Planner's timeline command by name (its id could not be checked here).
+On the laptop (and on each other device where the buttons should work): copy one block below, then **Settings → Meta Bind → Button templates → Add → From clipboard**; the button builder opens; press **Add**. Repeat for each block. The *Timeline* command is *Day Planner OG: Show the timeline* (id `day-planner-og:app:show-timeline`, read from the plugin's code on 26 Oct 2026).
 
 ### Review this note
 
@@ -55,13 +55,13 @@ style: default
 tooltip: "Day Planner OG: show the timeline"
 action:
   type: command
-  command: ""
+  command: day-planner-og:app:show-timeline
 ```
 
 Notes:
 - *Cram this note* goes through every card in the note, due or not, and does not change the schedule.
 - Before reviewing another note, close the open review tab: a second click only brings the open review tab forward.
-- When the templates are in, tell the AI: a job then adds the line `BUTTON[sr-note, sr-cram]` under the *Card N of 108* line of the 108 card notes and under the heading of the 4 `CIS Ch. N cards` notes (backup first; inserted in place, never regenerated). Not on the Ruppel notes: *Review this note* ignores Spaced Repetition's ignore list and would turn their `word::` lines into cards.
+- **Done 26 Oct 2026:** the four templates are in on the laptop, and a job added the line `BUTTON[sr-note, sr-cram]` under the *Card N of 108* line of the 108 card notes and under the heading of the 4 `CIS Ch. N cards` notes (backup first; inserted in place, never regenerated). Not on the Ruppel notes: *Review this note* ignores Spaced Repetition's ignore list and would turn their `word::` lines into cards.
 
 ## 2. A Study session workspace layout (D7)
 

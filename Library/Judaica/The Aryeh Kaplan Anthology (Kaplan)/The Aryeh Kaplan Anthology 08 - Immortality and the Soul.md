@@ -279,7 +279,7 @@ Aldous Huxley, The Doors of Perception (Harper & Row, N.Y. 1970) p. 22f. . Berac
 
 . [[Shabbat 152#152b|Shabbos 152b]], Sefer Mitzvos Gadol, Esin DeRabanan 2 (Vinitzia, 5307) p. 246a. 
 
-. Shabbos, ibid., Maharsha a. l., [[Zohar 3.07 - Parashat Va-Yhi#^z1-217b|Zohar 1:217b]], 3:185b, 222b. . Berachos 18b, [[Shabbat 152#152a|Shabbos 152a]]. 
+. Shabbos, ibid., Maharsha a. l., [[Zohar 3.07 - Parashat Va-Yhi#^z1-217b|Zohar 1:217b]], [[Zohar 9.08 - Parashat Balaq#^z3-185b|3:185b]], 222b. . Berachos 18b, [[Shabbat 152#152a|Shabbos 152a]]. 
 
 . Emunos VeDeyos 6:7, Tshuvos Rashba 369, Sefer Chasidim 1163, Tosfos Yom Tov 2:7, Tshuvos Sh'vus Yaakov 2:97, Zvi Hirsh Chayos on [[Shabbat 13#13b|Shabbos 13b]]. Cf. Tanchuma, VaYikra 8. 
 

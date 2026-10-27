@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF; footnotes re-converted 15 O
 converted: 2026-10-07
 ---
 
-[[Saivism and the Tantric 09 - Chapters 11-12|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 11 - Chapters 14-15|next →]]
+[[Saivism and the Tantric 09 - Chapters 11-12, Adapting Saiva Tantric Initiation for Exoteric Circles|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 11 - Chapters 14-15, Sarika's Mantra - The Kamasiddhistuti of King Vatsaraja|next →]]
 
 *[p. 287]* ^pg322
 

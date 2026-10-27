@@ -6,6 +6,9 @@ created: 2026-10-23
 
 What changed in the [[Vault Guide]], newest first: the History section that ended the Guide until 23 Oct 2026, moved here then because the Guide is for using the vault, not for its past (Stephen). A session that changes the Guide adds its line at the top. The full record of every session is the [[AI log]].
 
+- 26 Oct 2026 (fourth session): the *Zohar* paragraph: where a named composition's note has no marker for the folio (Stephen, 21:20).
+- 26 Oct 2026 (third session): the card notes' review buttons (*CIS*) and Meta Bind's line among the plugins; the *Zohar* paragraph says the composition rule now holds across the vault; the page-marker rule (*Library* row): an unnumbered page at either end of a numbered run takes the number the contents or the page count gives it (a contents page, a list of illustrations, a blank, a half-title before p. 3); covers, title, copyright and dedication pages keep *[PDF K]* (Stephen: "Whatever you recommend").
+
 - 26 Oct 2026: S1's eleven audit edits that still held (the Holy Days choices, the texts list with Pirkei Avot and the DCS tantras, the habit and flashcard lines, the Bible references note, Sync since 15 Oct); the Zohar links paragraph (ZḤ in volumes 10–12; where two notes carry a folio, the composition named decides); the top-level row lists the five views, now *Synoptic View*, *Torah View*, *New Testament View*, *Talmud View* and *Tantraloka View* (Stephen moved and renamed them).
 
 - 25 Oct 2026 (night): the daily note's planner (the new schedule; the day ends with `24:00 BED`; exercise Monday to Friday) and Day Planner OG's end label; the plugin folders and snippets cleaned up (three snippets on, hide-layers among them, hiding `Templates` too: turn it off to edit the templates, Stephen's choice); Open Tab Settings no longer installed.

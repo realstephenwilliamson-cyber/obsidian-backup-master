@@ -17,6 +17,8 @@ nyasa: "śa: bone (*asthi*) · va: sinews (*sūtra*) · aḥ: tongue (*jihvā*)"
 
 **Card 106 of 108** (printed: Card 3-46 · Alpha 95) · word
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** श्वः

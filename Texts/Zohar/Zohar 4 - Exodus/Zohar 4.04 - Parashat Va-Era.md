@@ -914,7 +914,7 @@ They rose.[^239] [p. 135] Rabbi Abba opened, saying, “*For then I will purify 
 
 [^128]: **On the supernal right side…** Rabbi El’azar offers a cryptic, veiled description of the origin of evil, whose ultimate source is the holy right side. Apparently, the thirteen springs issue from the highest realms of divinity and generate a thousand streams—and thirteen other streams, which gather water from nine hundred and ninety-nine of the thousand. The two remaining halves of the thousandth stream rejoin, and the resulting single stream enters the thirteen “other” streams, becoming a demonic serpent.
 
-    For various correlations of other specific images with particular *sefirot*, see *MM*; *Sullam*; *MmD*. On the thirteen springs (or rivers), see *Zohar* [[Zohar 8.09 - Idra Rabba#^z3-131a|3:131a]]–b, [[Zohar 8.09 - Idra Rabba#^z3-139a|139a]], [[Zohar 8.09 - Idra Rabba#^z3-140a|140a]] (all *IR*) 289a–b (*IZ*). According to rabbinic sources, thirteen rivers of balsam await the righteous in the world that is coming. See JT *Avodah Zarah* 3:1, 42c; *Bereshit Rabbah* 62:2; BT *Ta’anit* 25a; *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-146b|2:146b]]. For other interpretations of the thirteen springs, see *OY*; Galante; *Sullam*.
+    For various correlations of other specific images with particular *sefirot*, see *MM*; *Sullam*; *MmD*. On the thirteen springs (or rivers), see *Zohar* [[Zohar 8.09 - Idra Rabba#^z3-131a|3:131a]]–b, [[Zohar 8.09 - Idra Rabba#^z3-139a|139a]], [[Zohar 8.09 - Idra Rabba#^z3-140a|140a]] (all *IR*) [[Zohar 9.15 - Idra Zuta#^z3-289a|289a–b]] (*IZ*). According to rabbinic sources, thirteen rivers of balsam await the righteous in the world that is coming. See JT *Avodah Zarah* 3:1, 42c; *Bereshit Rabbah* 62:2; BT *Ta’anit* 25a; *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-146b|2:146b]]. For other interpretations of the thirteen springs, see *OY*; Galante; *Sullam*.
 
     On the demonic sea serpent, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-52a|1:52a]]; [[Zohar 4.04 - Parashat Va-Era#^z2-28a|2:28a]], [[Zohar 4.05 - Parashat Bo#^z2-34a|34a–35b]]; Tishby, *Wisdom of the Zohar*, 2:465–67. See [[Torah 14 - Vaera#^7-9|Exodus 7:9–13]], and above at note 122. “His fins” renders גדפוי (*gadpoi*), literally “his wings.”
 
@@ -1268,7 +1268,7 @@ They rose.[^239] [p. 135] Rabbi Abba opened, saying, “*For then I will purify 
 
 [^210]: **Why *he came*…** Why does the verse switch from the plural (*they went up*) to the singular (*he came*)? Because Caleb separated from the other spies and came alone to Hebron, the burial site of the patriarchs. There he prostrated himself on their graves, begging them to pray that he be delivered from the plan of the other spies, who conspired to issue a negative report on the land.
 
-    See BT *Sotah* [[Sotah 34#34b|34b]]; Rashi on [[Torah 37 - Sh'lach#^13-22|Numbers 13:22]]; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-16b|2:16b]] (*MhN*); 3:158b.
+    See BT *Sotah* [[Sotah 34#34b|34b]]; Rashi on [[Torah 37 - Sh'lach#^13-22|Numbers 13:22]]; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-16b|2:16b]] (*MhN*); [[Zohar 9.03 - Parashat Shelah Lekha#^z3-158b|3:158b]].
 
 [^211]: **Hebron was given to him…** When the land of Canaan was divided among the tribes, Caleb was given Hebron—*the land on which he* \[alone\] *has tread*.
 

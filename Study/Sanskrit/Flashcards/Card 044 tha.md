@@ -17,6 +17,8 @@ nyasa: "left thigh (*ūru*)"
 
 **Card 44 of 108** (printed: Card 2-17 · Alpha 60) · consonant · the letter: [[Letter 33 tha|थ tha]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** थ

@@ -5,6 +5,8 @@ updated: 2026-10-19
 ---
 # CIS Ch. 2 cards
 
+`BUTTON[sr-note, sr-cram]`
+
 [[The Cambridge Introduction 08 - Chapter 2 The System of Sanskrit Sounds|Ch. 2 The System of Sanskrit Sounds]] · [[Ruppel 2]] · [[CIS - Answers to Chapter 2 and 2A Exercises (Ruppel)|key]]
 
 ## The order of sounds (p. 19)

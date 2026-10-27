@@ -453,7 +453,7 @@ mukhe sudhākaram pṛṣte hū/bījānaṁtaroditam |
 dakṣināṁsam samāśritya āśiraścaraṇāvadhiḥ ॥ 119 ॥
 yajet kāmakalās tasyāḥ sādhakāngeṣu sarvaśaḥ | 
 
-(It is said) in the Uttaratantra: ‘And once he has drawn a triangular Yantra on her head, he should worship Ganeśa in the topknot, the Lord of Kula on the top of the hair, Durgā on the forehead, Lakṣmī between the eyebrows, Sarasvatī on the tongue, Vasanta and Madana on the two breasts, Sudhākara in the mouth, and on the back, the syllable HŪM that has arisen inwardly. Taking up his place on (her) right side, one should worship her energies (kalā) of Kāma from the head to the feet in all the ways (prescribed) on the adept’s limbs. (117- 120ab) 
+(It is said) in the Uttaratantra: ‘And once he has drawn a triangular Yantra on her head, he should worship Ganeśa in the topknot, the Lord of Kula on the top of the hair, Durgā on the forehead, Lakṣmī between the eyebrows, Sarasvatī on the tongue, Vasanta and Madana on the two breasts, Sudhākara in the mouth, and on the back, the syllable HŪM that has arisen inwardly. Taking up his place on (her) right side, one should worship her energies (kalā) of Kāma from the head to the feet in all the ways (prescribed) on the adept’s limbs. (117-120ab) 
 
 sraddhā prītiratiś caiva dhṛtiḥ kīrtir manobhavā ॥ 120 ॥
 vimalāmodinī ghorā madanonmādinī tathā |
@@ -487,7 +487,7 @@ vāgbhavādyai namoyuktaiḥ pūjayet suprasannadhīḥ ॥ 128 ॥
 
 (It is said in the) Lalitāvyāptadīpikā: 
 
-In your Yoni there are three main channels. One channel is lunar (cāndrī). Another is solar (saurī). The other should be known to be fiery (āgneyī). The adept should worship them. (The lunar) Cāndrī exudes water. (The solar) Bhānavī exudes menstrual blood. Āgnyeyī exudes (male) seed. They should be worshipped with their names. The one whose mind is well content should worship (them) with Vāgbhava (AIM) etc. along with NAMAH. (126- 128) 
+In your Yoni there are three main channels. One channel is lunar (cāndrī). Another is solar (saurī). The other should be known to be fiery (āgneyī). The adept should worship them. (The lunar) Cāndrī exudes water. (The solar) Bhānavī exudes menstrual blood. Āgnyeyī exudes (male) seed. They should be worshipped with their names. The one whose mind is well content should worship (them) with Vāgbhava (AIM) etc. along with NAMAH. (126-128) 
 
 uttaratantre 
 
@@ -578,7 +578,7 @@ Having offered tasty food to relish and suck on and so too clothes, ornaments an
 
 *[p. 475]* ^pg492
 
-sperm (tattva) into her. One should churn the Abode of Madana (the god of love) with the medicinal herb of pure mantras. When she is churned, her most excellent sexual fluid (rattva) arises. One should lay hold of that auspicious sacrificial substance that is produced from the Yoni (kunda) with effort. (145cd- 148ab) 
+sperm (tattva) into her. One should churn the Abode of Madana (the god of love) with the medicinal herb of pure mantras. When she is churned, her most excellent sexual fluid (rattva) arises. One should lay hold of that auspicious sacrificial substance that is produced from the Yoni (kunda) with effort. (145cd-148ab) 
 
 saktiyāmale svayańibhuvaṁ pravikṣyāmi (> prava-) pūjārthan sādhakasya ca |
 ānīya pramadāṁ divyāṁ pramattāṁ yauvanonmatām (> -ttām) || 149 ॥

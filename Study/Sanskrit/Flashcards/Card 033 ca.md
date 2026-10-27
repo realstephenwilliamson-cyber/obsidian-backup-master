@@ -17,6 +17,8 @@ nyasa: "left shoulder (*skandha*)"
 
 **Card 33 of 108** (printed: Card 2-6 · Alpha 41) · consonant · the letter: [[Letter 22 ca|च ca]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** च

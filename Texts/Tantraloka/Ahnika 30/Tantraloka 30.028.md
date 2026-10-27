@@ -27,7 +27,7 @@ jīvaḥ prāṇastha evātra prāṇo vā jīvasaṃsthitaḥ || ^iast
 > [!source] Dyczkowski, vol. XI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)/Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#^pg40|p. 22]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 11.pdf#page=40>))
 >
-> Parā’s pervasion of the Being (sat) of Parā taught (previously) is the living being (5), along with the fourteenth (vowel) (AU) (and emission H). The Great Lord has taught it in the Trisirahśāstra with many varieties. Although essentially one (and the same), it is arranged in many ways. (with 30.27–28ab)
+> Parā’s pervasion of the Being (sat) of Parā taught (previously) is the living being (S), along with the fourteenth (vowel) (AU) (and emission Ḥ). The Great Lord has taught it in the Triśiraḥśāstra with many varieties. Although essentially one (and the same), it is arranged in many ways. (with 30.27–28ab)
 >
 > ‘Here the Living Being (S) is present within the Vital Breath (H), or the Vital Breath (H) is within the Living Being (S). (with 30.28cd)
 >

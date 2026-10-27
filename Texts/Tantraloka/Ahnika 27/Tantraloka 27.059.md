@@ -27,7 +27,7 @@ bahuprakārabhinnasya liṅgasyārcā nirūpitā || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#^pg444|p. 424]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=444>))
 >
-> The pervasive Lord has said also in the Tantra Aghoreśa Svacchanda (where we read): ‘Or else, after having fashioned (one’s own) preferred mandala by making it a quarter of the stated measure (given for initiation), the entire liturgy (krama) should be celebrated there every day.’ (with 27.58–59ab)
+> The pervasive Lord has said also in the Tantra Aghoreśa Svacchanda (where we read): ‘Or else, after having fashioned (one’s own) preferred maṇḍala by making it a quarter of the stated measure (given for initiation), the entire liturgy (krama) should be celebrated there every day.’ (with 27.58–59ab)
 >
 > The worship of the liṅga, which is of many kinds, has (thus been) described. (with 27.59cd)
 

@@ -39,7 +39,7 @@ All the abovementioned particulars regarding the diverse joys of the soul do not
 After this manner it is stated in the *Zohar*, “Weeping is lodged in one side of my heart, and joy is lodged in the other.”[^12]
 
 [^1]: Cf. above, ch. 18, note 3.
-[^2]: *Zohar* III:232a; cf. also *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-7a|III:7a]].
+[^2]: *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-232a|III:232a]]; cf. also *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-7a|III:7a]].
 [^3]: *Shabbat* [[Shabbat 88#88b|88b]].
 [^4]: Ch. 53.
 [^5]: *Berachot* [[Berakhot 8#8a|8a]].

@@ -17,6 +17,8 @@ nyasa: "da: left foot (*pāda*) · ra: blood (*rakta*)"
 
 **Card 92 of 108** (printed: Card 3-32 · Alpha 68) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** द्र

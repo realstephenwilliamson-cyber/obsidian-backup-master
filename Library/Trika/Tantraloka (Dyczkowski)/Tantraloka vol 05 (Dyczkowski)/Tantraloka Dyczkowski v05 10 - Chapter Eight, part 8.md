@@ -30,7 +30,7 @@ What is the reason for calling them Vidyeśvaras (Lords of Knowledge)? With this
 mukhyamantreśvarānṇārm yat sārdhari koṭitrayaṁ sthitam | 344 ॥
 tannāyakā ime tena vidyeśāś cakravartinaḥ | 
 
-(The remaining seven) are the leaders of the Lords of (the remaining) thirty-five million primary Mantras. Thus, they are emperors, and so (appropriately called) Vidyeśvaras (Lords of Knowledge).[^944] (344cd- 345ab) (344) 
+(The remaining seven) are the leaders of the Lords of (the remaining) thirty-five million primary Mantras. Thus, they are emperors, and so (appropriately called) Vidyeśvaras (Lords of Knowledge).[^944] (344cd-345ab) (344) 
 
 #### Viveka on 8.344
 
@@ -58,7 +58,7 @@ And (this) has taught by (our) venerable teacher in the Śivatanu and other work
 
 *[p. 337]* ^pg355
 
-(Bṛhaspati is the author of the Śivatanu); by the word ‘other’ (works) (is meant his commentary on the Rauravasūtrasaigraha,) the Ruruvārtika etc.” He says that (in the Śivatanu as follows): 
+(Bṛhaspati is the author of the Śivatanu); by the word ‘other’ (works) (is meant his commentary on the Rauravasūtrasaigraha,) the Ruruvārtika etc.[^947] He says that (in the Śivatanu as follows): 
 
 ### TĀ 8.345–348
 
@@ -100,26 +100,28 @@ nirvāty anantanāthas
 
 taddhāmāviśati sūkṣmarudras tu | 
 
-\*8The god (Ananta), endowed with the eight (yogic) powers, sits on the top of the Cave (of Māyā), which is perforated by hundreds of vaginal cavities (bhagabila). He emits (everything), beginning with the Cave up to the hells, appoints the Rudras (to their office), and elevates individual souls by means of (his power,) Manonmanī (Mind Beyond Mind). He resides in 
+[^948]The god (Ananta), endowed with the eight (yogic) powers, sits on the top of the Cave (of Māyā), which is perforated by hundreds of vaginal cavities (bhagabila). He emits (everything), beginning with the Cave up to the hells, appoints the Rudras (to their office), and elevates individual souls by means of (his power,) Manonmanī (Mind Beyond Mind). He resides in 
 
-948\. TĀ 8/346-352 (345cd-352ab) is quoted by Kṣemarāja in SvTu ad 10/1161cd-1162. Kṣemarāja introduces the citation saying that ‘these, Ananta and the rest, are said to be named in this way by) our venerable) teacher in the Sivatanuśāstra.’ (ete cānantādyā gurubhiḥ śivatanāv ittham uktāḥ).
+[^947]: ādiśabdād ruruvārtikādi \[ñ: rudravārtikādi\].
+
+[^948]: TĀ 8/346-352 (345cd-352ab) is quoted by Kṣemarāja in SvTu ad 10/1161cd-1162. Kṣemarāja introduces the citation saying that ‘these, Ananta and the rest, are said to be named in this way by) our venerable) teacher in the Sivatanuśāstra.’ (ete cānantādyā gurubhiḥ śivatanāv ittham uktāḥ).
 
 
 *[p. 338]* ^pg356
 
-their midst and, their consciousness elevated by him, they seek to perceive the Supreme Principle. Lord Ananta alone (eva) is appointed by Śiva to the office (of attending) to the individual souls who reside on (the lower) paths. When his term of office has come to an end, he returns back (into consciousness) along with the many tens of millions of mantras, and Sūkṣma Rudra (Subtle Rudra) enters his abode (and takes his place). (346- 349ab) (345cd-348) 
+their midst[^949] and, their consciousness elevated by him, they seek to perceive the Supreme Principle. Lord Ananta alone (eva) is appointed by Śiva to the office (of attending) to the individual souls who reside on (the lower) paths. When his term of office has come to an end, he returns back (into consciousness) along with the many tens of millions of mantras, and Sūkṣma Rudra (Subtle Rudra) enters his abode (and takes his place). (346-349ab) (345cd-348) 
 
 #### Viveka on 8.345–348
 
-‘The top of the Cave (of Māyā)’ is (the location of the principle of) Pure Knowledge (Śuddha Vidyā), which is above Māyā. The eight powers are Vāmā and the rest.” The god Ananta ‘appoints the Rudras’ beginning with Sūkṣma (to their office), namely, creation and the rest, ‘by means (of his power) Manonmanī (Mind Beyond Mind)’, which is the ninth. These’ nine powers (each have) a different commission (niyoga). This is the intended sense. 
+‘The top of the Cave (of Māyā)’ is (the location of the principle of) Pure Knowledge (Śuddha Vidyā), which is above Māyā. The eight powers are Vāmā and the rest.[^950] The god Ananta ‘appoints the Rudras’ beginning with Sūkṣma (to their office), namely, creation and the rest, ‘by means (of his power) Manonmanī (Mind Beyond Mind)’, which is the ninth. These[^951] nine powers (each have) a different commission (niyoga). This is the intended sense. 
 
 That is said (in the Ānandabhairavatantra): 
 
-‘The Supreme Lord leads (the soul) to the supreme place by means of the Transmental (unmanā).”” 
+‘The Supreme Lord leads (the soul) to the supreme place by means of the Transmental (unmanā).”[^952] 
 
 (Ananta is) ‘in the midst’ (madhyastha) (of the Rudras) in a state of detachment (taṭastha), so that he may appoint all of them, as is appropriate (to their nature and status), (to perform the functions of) creating and the rest (of their allotted worlds). (Their consciousness is) ‘elevated’, that is, they are urged (and empowered by Ananta) (uttejita). The word ‘alone’ (eva) is out of order, and so (what is meant is that Ananta attends) especially (eva) to those (individual souls) ‘who reside on (the lower) paths’. As is said: 
 
-‘Ananta is said to be the lord on the impure (path). 
+‘Ananta is said to be the lord on the impure (path).[^953] 
 
 ” 
 
@@ -131,15 +133,15 @@ That is said there itself (in the Sivatanu):
 
 (Ananta) ‘returns back’ (into his place of origin) because he has done what he had to do, and also because (his) desire to (occupy that) office has ceased and is extinguished (nirvānam eti). The intended sense is that the Lord 
 
-949\. The reference here may be to people or the other seven Rudras.
+[^949]: The reference here may be to people or the other seven Rudras.
 
-950\. See above, note 8,823.
+[^950]: See above, note 8,823.
 
-951\. Read āsāṁ for āsa.
+[^951]: Read āsāṁ for āsa.
 
-952\. Kṣemarāja informs us that this line is drawn from the (lost) Ānandabhairavatantra. He quotes the complete passage in his commentary on SvT 10/1145-1146ab. See above, note, 8,823.
+[^952]: Kṣemarāja informs us that this line is drawn from the (lost) Ānandabhairavatantra. He quotes the complete passage in his commentary on SvT 10/1145-1146ab. See above, note, 8,823.
 
-953\. Kiraṇatantra vidyāpāda 3/26d. The first part of this statement says that "Siva is the agent on the Pure Path’. See above, note 8,731 and 830.
+[^953]: Kiraṇatantra vidyāpāda 3/26d. The first part of this statement says that "Siva is the agent on the Pure Path’. See above, note 8,731 and 830.
 
 
 *[p. 339]* ^pg357
@@ -189,7 +191,7 @@ Once having graced a new (apūrva)“ individual soul, the Lord (Pati) installs 
 
 *[p. 340]* ^pg358
 
-The ‘individual soul’ (Lord Śiva graces in this case) is a Consciousness Deconditioned (soul — Vijñānākala).” ‘Śikhaṇdin’ is the eighth (and last in the series of eight Rudras). (Śikhanqin) then (assumes and) presides over the post of Srīkanṭha (the Rudra who precedes him). This is the overall sense. That is said there itself (in the Śivatanu): °” 
+The ‘individual soul’ (Lord Śiva graces in this case) is a Consciousness Deconditioned (soul — Vijñānākala).[^958] ‘Śikhaṇdin’ is the eighth (and last in the series of eight Rudras). (Śikhanqin) then (assumes and) presides over the post of Srīkanṭha (the Rudra who precedes him). This is the overall sense. That is said there itself (in the Śivatanu):[^959] 
 
 ‘When Ananta stops (exerting his authority) there, the (remaining seven) Lords occupy that office successively, one after another in due order, moving from post to post according to the orders of the Lord (pati). When the Lord Ananta rests (and his term of office comes to an end), the Lord Sūkṣma (assumes and) presides over that post, and so too Śivottama, Sūkṣma’s post. This is the prescribed procedure for all the Mantras. Once the Lord (bhagavat) has illumined the nine glories, beginning with Vāmā, out of his own radiant energy (tejas), and graced a new (apūrva) individual soul, the Lord (Pati) 
 
@@ -197,17 +199,17 @@ installs him in Śikhanqin’s place.’
 
 In the Mataṅgatantra also: 
 
-‘Ananta (the Endless One), whose vitality (vīrya) is endless, returns back (into consciousness), because he has done what he had to do. Then, when he has mounted up (to there), Siva, Whose body is made of five mantras,” gives his permission to the great soul, the Vidyeśa Sūkṣma, to ascend into that (post). Having received (that boon), the venerable (Sūkṣma) follows the Lord’s command. Bound to that, the greatly famed one, having presided over the post of Ananta, returns to the lower wheel which, great, is Māyā y nature. In the same way, when Sūkṣma’s (term of office) comes to an end, Siva bestows on Śivottama the blameless status of (serving as) the cause of the Lord’s host. Moving (in this way) from post to post of each one of these great souls until (each one) reaches the supreme summit, which is the (ultimate) cause of the wheel (of Rudras), so that there may not be a break, having empowered (another liberated) Rudra soul to be Śikhaṇdin, he appoints him to the most senior post.” 
+‘Ananta (the Endless One), whose vitality (vīrya) is endless, returns back (into consciousness), because he has done what he had to do. Then, when he has mounted up (to there), Siva, Whose body is made of five mantras,[^960] gives his permission to the great soul, the Vidyeśa Sūkṣma, to ascend into that (post). Having received (that boon), the venerable (Sūkṣma) follows the Lord’s command. Bound to that, the greatly famed one, having presided over the post of Ananta, returns to the lower wheel which, great, is Māyā y nature. In the same way, when Sūkṣma’s (term of office) comes to an end, Siva bestows on Śivottama the blameless status of (serving as) the cause of the Lord’s host. Moving (in this way) from post to post of each one of these great souls until (each one) reaches the supreme summit, which is the (ultimate) cause of the wheel (of Rudras), so that there may not be a break, having empowered (another liberated) Rudra soul to be Śikhaṇdin, he appoints him to the most senior post.”[^961] 
 
 Again, it is said (in the Rauravasūtrasaigraha) that: 
 
-958\. This type of individual soul is such ‘by virtue of consciousness free of the power of limitation’. He is free of the Impurity of Karma and Māyā and resides in the uppermost reaches of Māyā. See above 4/230 and note, also below 10/1-18, 97cd-186ab for a detailed exposition of the seven levels of individual souls.
+[^958]: This type of individual soul is such ‘by virtue of consciousness free of the power of limitation’. He is free of the Impurity of Karma and Māyā and resides in the uppermost reaches of Māyā. See above 4/230 and note, also below 10/1-18, 97cd-186ab for a detailed exposition of the seven levels of individual souls.
 
-959\. There can be no doubt at all that the following passage is from the Sivatanu, as the last line of the citation is identical to the first line of Abhinava’s citation.
+[^959]: There can be no doubt at all that the following passage is from the Sivatanu, as the last line of the citation is identical to the first line of Abhinava’s citation.
 
-960\. The five mantras are those of the forms of Śiva represented by His five faces, namely, Vāmadeva (N), Tatpuruṣa (E), Sadyojāta (W), Aghora (S), and Īśāna (above). See above, note 8,823.
+[^960]: The five mantras are those of the forms of Śiva represented by His five faces, namely, Vāmadeva (N), Tatpuruṣa (E), Sadyojāta (W), Aghora (S), and Īśāna (above). See above, note 8,823.
 
-961\. %l MPĀ Yogapāda 5/10/15.
+[^961]: %l MPĀ Yogapāda 5/10/15.
 
 
 *[p. 341]* ^pg359
@@ -220,17 +222,17 @@ Again, it is said (in the Rauravasūtrasaigraha) that:
 
 *[p. 342]* ^pg360
 
-One should relate (what has been said concerning this matter) to (those) concerning the Great Destruction.” There, as was said before, all their terms of office come to an end simultaneously. As is said in the venerable Mataṅga: 
+One should relate (what has been said concerning this matter) to (those) concerning the Great Destruction.[^963] There, as was said before, all their terms of office come to an end simultaneously. As is said in the venerable Mataṅga: 
 
-‘The gods who are the lords of the Pure Path are great emperors. Once they have completed their term of office, they go to the most excellent plane.” 
+‘The gods who are the lords of the Pure Path are great emperors. Once they have completed their term of office, they go to the most excellent plane.’[^964] 
 
-‘One (teacher)’ means each one, (one after another). “The supreme god’ is Supreme Śiva. The word ‘also’ is out of order (in the phrase ‘he is also contemplated by the seventy million pure mantras’), so (what is meant is that he is contemplated by) ‘the (pure) Mantras that are also seventy million.’ 
+‘One (teacher)’ means each one, (one after another). “The supreme god’ is Supreme Śiva.[^965] The word ‘also’ is out of order (in the phrase ‘he is also contemplated by the seventy million pure mantras’), so (what is meant is that he is contemplated by) ‘the (pure) Mantras that are also seventy million.’ 
 
-963\. The universe is periodically recreated after an earlier universe comes to an end. Shorter cycles of cosmic creation and destruction are encompassed by larger one. The most extensive is called the Great Creation (mahāsṛṣti), which ends with the Great Destruction (mahāpralaya). Jayaratha is saying that these Rudras are appointed in the manner described to higher levels of office when this Great Destruction takes place, and so it is one of the things that takes place then. The appointments of the Rudras to their new office is thus part of the matters that have to do with the Great Destruction.
+[^963]: The universe is periodically recreated after an earlier universe comes to an end. Shorter cycles of cosmic creation and destruction are encompassed by larger one. The most extensive is called the Great Creation (mahāsṛṣti), which ends with the Great Destruction (mahāpralaya). Jayaratha is saying that these Rudras are appointed in the manner described to higher levels of office when this Great Destruction takes place, and so it is one of the things that takes place then. The appointments of the Rudras to their new office is thus part of the matters that have to do with the Great Destruction.
 
-964\. MPĀ Vidyāpāda 25/62cd, 63ab. The printed edition reads: suddhādhvapatayo devā mantrāś cāmoghaśaktayaḥ || 62 ॥ na sīdanti na lupyanti pidyante na ca kenacit | samāpya svādhikārārṁs te prayānti padam uttamam || 63 I| \[62d here reads mahāntaś cakravartinaḥ. In the printed edition, it reads mantrāś cāmoghaśaktayaḥ. Jayaratha’s citation reads svādhikāra te, the printed edition svādhikārāṁs te.\] Rāmakantha explains: Suddhādhvapatayaḥ anantādividyeśāḥ, devās tu māyāgarbhādhikārinaḥ śrīkaṇthā-dayah pūrvaṁ śivaniyuktatvena pratipāditāḥ, mantrāý ca ity ete | yasmād amoghaśaktayaḥ nirmalāḥ, kṣīṇakarmatvāc ca na kenacit karmaṇāpi avasādādikan traya nīyante; tasmāt te svādhikāramāyāsargādipañcavidhaṁ kṛtyaṁ parisamāpya uttamaṁ padarth parām mukti yugapad gacchantīti darśitaḥ prāk ॥ ‘The lords of the Pure Path’ are Ananta and the rest of the Vidyeśas. ‘The gods’, Śrīkaṇṭha and the rest, have authority within the womb of Māyā. They were established previously as appointed by Śiva. And these are ‘the Mantras’. Thus ‘their powers are unfailing’, that is, pure. Their Karma has ceased and the three, ‘waning away’ etc. are not brought about ‘by any’ Karma. Thus, it was shown previously that (all the Vidyeśas) go simultaneously to ‘the most excellent plane’ of close proximity (to Śiva), which is supreme liberation. Thus, they (perform) the five operations, namely, creation and the rest, of the (part of) Māyā over which they have authority.’
+[^964]: MPĀ Vidyāpāda 25/62cd, 63ab. The printed edition reads: suddhādhvapatayo devā mantrāś cāmoghaśaktayaḥ || 62 ॥ na sīdanti na lupyanti pidyante na ca kenacit | samāpya svādhikārārṁs te prayānti padam uttamam || 63 I| \[62d here reads mahāntaś cakravartinaḥ. In the printed edition, it reads mantrāś cāmoghaśaktayaḥ. Jayaratha’s citation reads svādhikāra te, the printed edition svādhikārāṁs te.\] Rāmakantha explains: Suddhādhvapatayaḥ anantādividyeśāḥ, devās tu māyāgarbhādhikārinaḥ śrīkaṇthā-dayah pūrvaṁ śivaniyuktatvena pratipāditāḥ, mantrāý ca ity ete | yasmād amoghaśaktayaḥ nirmalāḥ, kṣīṇakarmatvāc ca na kenacit karmaṇāpi avasādādikan traya nīyante; tasmāt te svādhikāramāyāsargādipañcavidhaṁ kṛtyaṁ parisamāpya uttamaṁ padarth parām mukti yugapad gacchantīti darśitaḥ prāk ॥ ‘The lords of the Pure Path’ are Ananta and the rest of the Vidyeśas. ‘The gods’, Śrīkaṇṭha and the rest, have authority within the womb of Māyā. They were established previously as appointed by Śiva. And these are ‘the Mantras’. Thus ‘their powers are unfailing’, that is, pure. Their Karma has ceased and the three, ‘waning away’ etc. are not brought about ‘by any’ Karma. Thus, it was shown previously that (all the Vidyeśas) go simultaneously to ‘the most excellent plane’ of close proximity (to Śiva), which is supreme liberation. Thus, they (perform) the five operations, namely, creation and the rest, of the (part of) Māyā over which they have authority.’
 
-965\. Although Jayaratha says that this is Supreme Śiva (Paramaśiva), it may be Ananta in his supreme form when he has ‘become Iśvara’, as Kṣemarāja says in commentary on SvT 10/1161-1162. See also, above, 8/343cd.
+[^965]: Although Jayaratha says that this is Supreme Śiva (Paramaśiva), it may be Ananta in his supreme form when he has ‘become Iśvara’, as Kṣemarāja says in commentary on SvT 10/1161-1162. See also, above, 8/343cd.
 
 
 *[p. 343]* ^pg361
@@ -251,11 +253,11 @@ sivaśuddhaguṇādhikā-
 
 rāntaḥ so ‘pyeṣa heyaśca ॥ 353 ॥ 
 
-(Fettered) phenomenal existence (bhava) is said to extend from Māyā down to (the hell) Avīci, while the absence of phenomenal existence (abhava) is said to extend from Ananta up to the end of the authority (adhikāra)\* over the pure qualities of Śiva (in the pure principles up to transcendental Śiva). This should also be eliminated.” (353) (352cd-353ab) 
+(Fettered) phenomenal existence (bhava) is said to extend from Māyā down to (the hell) Avīci, while the absence of phenomenal existence (abhava) is said to extend from Ananta up to the end of the authority (adhikāra)[^966] over the pure qualities of Śiva (in the pure principles up to transcendental Śiva). This should also be eliminated.[^967] (353) (352cd-353ab) 
 
 #### Viveka on 8.352–353
 
-The meaning is that (the absence of phenomenal existence extends from) transcendental (anāśrita) Śiva” (down to) the authority of Ananta and the rest. 
+The meaning is that (the absence of phenomenal existence extends from) transcendental (anāśrita) Śiva[^968] (down to) the authority of Ananta and the rest. 
 
 Why should (this also) be abandoned here? With this question in mind, he says: 
 
@@ -269,11 +271,11 @@ atrāpi yato dṛṣtānu-
 grāhyānār niyojyatā śaivī |
 iṣtā ca tannivṛttir 
 
-966\. Read -guṇādhikārāntah for -gunādhīkārāntah.
+[^966]: Read -guṇādhikārāntah for -gunādhīkārāntah.
 
-967\. There can be no doubt that the passage from 8/346 (345cd) to 8/352 (352ab) is drawn from the Śivatanu, as Jayaratha supplies the original verses. This is not the case with verses 353 to 355 (352cd-355ab) However, they are in Arya metre, as is the Śivatanu, and quite plausibly form part of a single passage. The metre reverts to śloka at verse 356 (355cd-356ab); Jayaratha introduces it by saying ‘now he (returns to and) talks about the main point’, and Abhinava reverts to his main source, the Svacchandatantra. Thus, it is quite probable that these verses are also drawn from the Śivatanu, apart from 8/354 (353cd-354ab), which looks like Abhinava’s comment.
+[^967]: There can be no doubt that the passage from 8/346 (345cd) to 8/352 (352ab) is drawn from the Śivatanu, as Jayaratha supplies the original verses. This is not the case with verses 353 to 355 (352cd-355ab) However, they are in Arya metre, as is the Śivatanu, and quite plausibly form part of a single passage. The metre reverts to śloka at verse 356 (355cd-356ab); Jayaratha introduces it by saying ‘now he (returns to and) talks about the main point’, and Abhinava reverts to his main source, the Svacchandatantra. Thus, it is quite probable that these verses are also drawn from the Śivatanu, apart from 8/354 (353cd-354ab), which looks like Abhinava’s comment.
 
-968\. The word ‘anāśrita’ literally means ‘not come forth’. Thus Anāśrita Śiva, who has not ‘come forth’ into creation, is transcendental Siva. This is the thirty-sixth principle. Supreme Śiva is both immanent as the entire universe that has issued from Him, as well as transcendent beyond it.
+[^968]: The word ‘anāśrita’ literally means ‘not come forth’. Thus Anāśrita Śiva, who has not ‘come forth’ into creation, is transcendental Siva. This is the thirty-sixth principle. Supreme Śiva is both immanent as the entire universe that has issued from Him, as well as transcendent beyond it.
 
 
 *[p. 344]* ^pg362
@@ -300,17 +302,17 @@ kañcukavac chivasiddhau
 
 tāv atibhavasajñayātimadhyasthau ॥ 355 ॥ 
 
-The Lord’s condition as the cause (kāraṇatā) (of office) and task (kāryatā) (to be carried out) retreats from perfected souls (siddha). Thus, when Śiva is attained as the one called ‘beyond phenomenal existence’ (atibhava), (both come to an end,) as does the covering (kañcuka) (of Māyā) (that obscures them), and these two (bhava and abhava) are completely aloof (atimadhyasthau) (from carrying out any task or function). (355) (354cd-355ab) 
+The Lord’s condition as the cause (kāraṇatā) (of office) and task (kāryatā) (to be carried out) retreats from perfected souls (siddha). Thus, when Śiva is attained as the one called ‘beyond phenomenal existence’ (atibhava), (both come to an end,) as does the covering (kañcuka) (of Māyā) (that obscures them), and these two (bhava and abhava) are completely aloof (atimadhyasthau) (from carrying out any task or function).[^969] (355) (354cd-355ab) 
 
 #### Viveka on 8.354–355
 
 (The Lord’s) ‘condition as the cause (of office) (kāraṇatā)’ is (his) capacity to appoint (others to a task) (niyoktṛtva). The ‘task (to be carried out)’ is that which (they are) appointed (to do). (Both these fall away from) ‘perfected souls’, that is, liberated souls, ‘as does the covering (of Māyā)’, that is, the obscuring covering of Māyā. The sense is that that also ceases in this way. For, ‘when Śiva is attained’, because (He is) beyond phenomenal existence, these two ‘are completely aloof (from carrying out any task or function)’; that is, (they are) free of the disturbed condition in which there is one who is appointed to office and one who appoints him. This is the 
 
-meaning.” 
+meaning.[^970] 
 
-969\. These three terms, Bhava, Abhava and Atibhava, are taken from a formula in the Pāśupatisūtras (40-44), and already occur in the Taittirīya | Āraṇyaka (10/43/1). If this verse is from the Śivatanu, as is quite likely, we have an indication here that Bṛhaspati’s Saivism contained Pāśupata elements, although basically Siddhānta.
+[^969]: These three terms, Bhava, Abhava and Atibhava, are taken from a formula in the Pāśupatisūtras (40-44), and already occur in the Taittirīya | Āraṇyaka (10/43/1). If this verse is from the Śivatanu, as is quite likely, we have an indication here that Bṛhaspati’s Saivism contained Pāśupata elements, although basically Siddhānta.
 
-970\. At the transcendental level, none commands and none is commanded, for here consciousness stands aloof from the pairs of opposites.
+[^970]: At the transcendental level, none commands and none is commanded, for here consciousness stands aloof from the pairs of opposites.
 
 
 *[p. 345]* ^pg363
@@ -328,20 +330,20 @@ The Four Worlds in the Principle of Isvara
 
 dharmajñānavairāgyaiśyacatuṣtayapurari tu yat |
 rūpāvaraṇasamijñaṁ tattattve ‘sminn aiśvare viduḥ | 356 ॥
-vāmā jyeṣthā ca raudrīti bhuvanatrayaśobhitam |
+vāmā jyeṣṭhā ca raudrīti bhuvanatrayaśobhitam |
 sūkṣmāvaraṇam ākhyātam īśíatattve gurūttamaiḥ ॥ 357 ॥ 
 
-"There are four worlds in this, the principle of Īśvara. (The wise) know that they are called the Enclosure of Form (rūpāvaraṇa),” and consist of virtue (dharma), knowledge (jñāna), detachment (vairāgya)’” ) and mastery (aiśvarya). According to the most excellent teachers, within the principle of Īśa (above them) is what is called the ‘Subtle Enclosure’ (sūkṣmāvaraṇa), which is adorned with the three worlds of Vāmā, Jyeṣṭhā and Raudrī.”\* (356-357) (355cd-357ab) 
+[^971]There are four worlds in this, the principle of Īśvara. (The wise) know that they are called the Enclosure of Form (rūpāvaraṇa),[^972] and consist of virtue (dharma), knowledge (jñāna), detachment (vairāgya)[^973] and mastery (aiśvarya). According to the most excellent teachers, within the principle of Īśa (above them) is what is called the ‘Subtle Enclosure’ (sūkṣmāvaraṇa), which is adorned with the three worlds of Vāmā, Jyeṣṭhā and Raudrī.[^974] (356-357) (355cd-357ab) 
 
 #### Viveka on 8.355–357
 
-971\. TĀ 8/356-357 (355cd-357ab) is based on SvT 10/1 163-1164.
+[^971]: TĀ 8/356-357 (355cd-357ab) is based on SvT 10/1 163-1164.
 
-972\. I translate the word ‘āvaraṇa’ and the cognate "avṛti’ as ‘enclosure’. More literally, one could translate these words as ‘surrounding entourage’. The terms denote the deities or beings that surround and attend upon the main deity in the centre. In this context, the focus is on the worlds they inhabit, which are arranged in an ascending series of circles around the deity.
+[^972]: I translate the word ‘āvaraṇa’ and the cognate "avṛti’ as ‘enclosure’. More literally, one could translate these words as ‘surrounding entourage’. The terms denote the deities or beings that surround and attend upon the main deity in the centre. In this context, the focus is on the worlds they inhabit, which are arranged in an ascending series of circles around the deity.
 
-973\. \[illegible\] Read -vairāgyaiśya- for -virāgaiśya-.
+[^973]: Read -vairāgyaiśya- for -virāgaiśya-.
 
-974\. TĀ 8/356-357 (355cd-357ab) is based on SvT 10/1163-1164, but the wording is different. This is not a paraphrase, it is a rewording. Kṣemarāja explains that the world order called the Enclosure of Form (rūpāvaranṇa) is above that of Vidyeśa. ato rūpam avasthānaṁ tatra rudrān nibodha me | dharmo jṁñānar ca vairāgyam aiśvaryaṁ ca caturthakam ॥ 1163 ॥ yadvaśād vidyeśvarāṇām adhastanādhvādhāravattvam aśeṣajñatvam, pūrṇatayā nairākāṁkṣyam, mahāvibhavapradatvam | ta ete dharmādyā rudrā īśvarasya parivārāḥ Il atraiva ceśvaratattve ---- sūkṣmāvaraṇam ūrdhve ‘taḥ... ato rūpāvaraṇād ūrdhve || tatra śaktitrayari viduḥ | tāś ca vāmā jyeṣthā ca raudrī ca íaktayah samudāhṛtāḥ ॥ 1164 ॥ ‘Next comes the world (avasthāna) of Form. Know from me the Rudras that are there. (They are) Dharma, Jñāna, Vairāgya (Detachment) and Aiśvarya (Mastery), who is the fourth.’ (1163) It is by virtue of this that the Vidyeśvaras have a grounding in the Path below (them), which is their knowledge of all things. As it is complete, they are without desire and (this grounding) bestows (upon them) great glory. These Rudras, Dharma and the rest, are Īśvara’s attendants. Again, here in the Īśvara principle —‘Next, above that (Enclosure of Form) is the Subtle Enclosure.’ ‘(The wise) know that there are three powers there.’ And these are ‘said to be the powers (śakti), Vāmā Jyeṣthā and Raudrī. (1164).
+[^974]: TĀ 8/356-357 (355cd-357ab) is based on SvT 10/1163-1164, but the wording is different. This is not a paraphrase, it is a rewording. Kṣemarāja explains that the world order called the Enclosure of Form (rūpāvaraṇa) is above that of Vidyeśa. ato rūpam avasthānaṁ tatra rudrān nibodha me | dharmo jṁñānar ca vairāgyam aiśvaryaṁ ca caturthakam ॥ 1163 ॥ yadvaśād vidyeśvarāṇām adhastanādhvādhāravattvam aśeṣajñatvam, pūrṇatayā nairākāṁkṣyam, mahāvibhavapradatvam | ta ete dharmādyā rudrā īśvarasya parivārāḥ Il atraiva ceśvaratattve ---- sūkṣmāvaraṇam ūrdhve ‘taḥ... ato rūpāvaraṇād ūrdhve || tatra śaktitrayari viduḥ | tāś ca vāmā jyeṣṭhā ca raudrī ca śaktayaḥ samudāhṛtāḥ ॥ 1164 ॥ ‘Next comes the world (avasthāna) of Form. Know from me the Rudras that are there. (They are) Dharma, Jñāna, Vairāgya (Detachment) and Aiśvarya (Mastery), who is the fourth.’ (1163) It is by virtue of this that the Vidyeśvaras have a grounding in the Path below (them), which is their knowledge of all things. As it is complete, they are without desire and (this grounding) bestows (upon them) great glory. These Rudras, Dharma and the rest, are Īśvara’s attendants. Again, here in the Īśvara principle —‘Next, above that (Enclosure of Form) is the Subtle Enclosure.’ ‘(The wise) know that there are three powers there.’ And these are ‘said to be the powers (śakti), Vāmā Jyeṣṭhā and Raudrī. (1164).
 
 
 *[p. 346]* ^pg364
@@ -356,15 +358,15 @@ i
 
 ‘There are ten and five worlds to be purified in due order within 
 
-Iśvara.” 
+Iśvara.”[^975] 
 
 There (in that case), they are the eight (worlds of the) Vidyeśānas, the four within the Enclosure of Form, and the three within the Subtle Enclosure (sūkṣmāvarṇa), making fifteen. Thus, this (is said) in the venerable Svacchandatantra by way of a summarial conclusion: 
 
 ‘Those who have conquered (their) senses and observe the divine vow of the Pāśupata because (their bodies are) smeared with ashes, (and practice) the repetition of mantra and meditation, go to Īśvara’s plane. There Īśvara, the Lord (bhagavat), the stainless God of the gods, impelled by Śiva’s will, exerts 
 
-authority.” 
+authority.”[^976] 
 
-”[^975] 
+ 
 
 (The same is said) also in the venerable (Nandisikha Nandisikha; 
 
@@ -386,37 +388,39 @@ aiśāt sādāśivaṁ jñānakriyāyugalamanditam |
 
 [^975]: SvT 10/1171cd.
 
+[^976]: SvT 10/1169cd-1171ab.
+
 *[p. 347]* ^pg365
 
 vidyāvṛtis tato bhāvābhāvaśaktidvayojjvalā \\ saktyāvṛtiḥ pramāṇākhyā tataḥ śāstre nirūpitā ॥ 359 ॥ 
 
-"T Above (the principle of) Īśvara is that of Sadāśiva, to which (the wise) say, belongs the ‘Pure Enclosure’, adorned with the pair knowledge and action. It is said that beyond the Pure Enclosure is the Enclosure of Knowledge, effulgent with the two powers of being and nonbeing. Then (above that), the scripture describes the Enclosure of Power (which is also called the Enclosure of) the Pramāṇas. (358-359) (357cd-359ab) 
+[^977]Above (the principle of) Īśvara is that of Sadāśiva, to which (the wise) say, belongs the ‘Pure Enclosure’, adorned with the pair knowledge and action. It is said that beyond the Pure Enclosure is the Enclosure of Knowledge, effulgent with the two powers of being and nonbeing. Then (above that), the scripture describes the Enclosure of Power (which is also called the Enclosure of) the Pramāṇas. (358-359) (357cd-359ab) 
 
 #### Viveka on 8.357–359
 
 ‘That of Sadāśiva’ is the principle (of Sadāśiva). (The wise) say that the Pure Enclosure is there. This is the prose order. ‘Beyond the Pure Enclosure’ means, above the Pure Enclosure is the Enclosure of Knowledge. That is said (in the Svacchandatantra): 
 
-‘Within that are two powers called ‘being’ and ‘nonbeing’.” 
+‘Within that are two powers called ‘being’ and ‘nonbeing’.”[^978] 
 
 ‘Then’, (after) the Enclosure of Knowledge, and so above it, comes the Enclosure of Power. Above that also is the Enclosure of the Pramāṇas. ‘The scripture’ (describes this). As no particular (scripture) is mentioned, (what is meant is that it is described) everywhere (in the scriptures in general). There are two Rudras there, in the Enclosure of Power. That is said (in the Svacchandatantra): 
 
-‘The supreme plane of (the worlds), the Pramāṇas, is Tejasvīśa and Dhruveśa.””” 
+‘The supreme plane of (the worlds), the Pramāṇas, is Tejasvīśa and Dhruveśa.”[^979] 
 
 According to the reading (Kṣemarāja), who comments (on the Svacchandatantra), has seen (and accepts, the meaning is that) above the Enclosure of Power is the Enclosure of the Pramānṇas, which is (thus) above it. However, it is not a sound (reading), as great (learned) people have not accepted it. (The Enclosure of the Means of Knowledge is the Enclosure of Power; the same is implied) also in the venerable Nandiśikhā (where we read): 
 
 ‘Tejeśvara (Lord of Radiant Energy) and Dhruveśa (Lord of Stability) reside in the Enclosure of Power.” 
 
-Thus, this is our reading, (which says that the Enclosure of Power is also called the Enclosure of the Pramāṇas).”' 
+Thus, this is our[^980] reading, (which says that the Enclosure of Power is also called the Enclosure of the Pramāṇas).[^981] 
 
-977\. Verses 8/358-368 (357cd-368ab) follow without a break in the printed edition. They have been broken up, and the corresponding part of the commentary inserted for convenience of reference.
+[^977]: Verses 8/358-368 (357cd-368ab) follow without a break in the printed edition. They have been broken up, and the corresponding part of the commentary inserted for convenience of reference.
 
-978\. This is SvT 10/1173cd. The printed edition reads bhāvasarijñāpy for bhāvasaijñā tv, and śaktidvaye smṛte for śaktidvayaṁi smṛtam.
+[^978]: This is SvT 10/1173cd. The printed edition reads bhāvasarijñāpy for bhāvasaijñā tv, and śaktidvaye smṛte for śaktidvayaṁi smṛtam.
 
-979\. \[illegible\] SvT 10/1174ab. The SvT and MSs Ch and Ñ read tejeśaś ca for tejasvīśo.
+[^979]: \[illegible\] SvT 10/1174ab. The SvT and MSs Ch and Ñ read tejeśaś ca for tejasvīśo.
 
-980\. Read ity ādir āsmākar for ityādir āsmāka.
+[^980]: Read ity ādir āsmākar for ityādir āsmāka.
 
-981\. Commenting on Svacchandatantra 10/1174, Kṣemarāja says: pūrvoktānāṁ māyā-tattvāśritānām pañcārthādipramāṇānāṁi param idam padam prāptisthānamn tejeśaś ca ca vidyāvaraṇād ürdhve pramāṇāvarane sthite ity etat pramāṇāvaraṇam api bhuvanadvitayayogi ॥ ‘\*Tejeśa, Dhruveśa and the supreme plane, that is, the place of attainment of the aforementioned Pramāṇas, that is, Pañcārtha and the rest that are based on the principle of Māyā, are in the enclosure of the Pramānṇas, which is above that of Vidyā. Thus, this is also the enclosure of the Pramāṇas, associated with two worlds.” The Pramāṇas are the scriptures of Pāśupatas. All we have recovered of them are a few verses quoted by Kṣṣemarāja in SvTu ad 1/41-43 from the Pañcārthapramāṇa.
+[^981]: Commenting on Svacchandatantra 10/1174, Kṣemarāja says: pūrvoktānāṁ māyā-tattvāśritānām pañcārthādipramāṇānāṁi param idam padam prāptisthānamn tejeśaś ca ca vidyāvaraṇād ürdhve pramāṇāvarane sthite ity etat pramāṇāvaraṇam api bhuvanadvitayayogi ॥ ‘\*Tejeśa, Dhruveśa and the supreme plane, that is, the place of attainment of the aforementioned Pramāṇas, that is, Pañcārtha and the rest that are based on the principle of Māyā, are in the enclosure of the Pramānṇas, which is above that of Vidyā. Thus, this is also the enclosure of the Pramāṇas, associated with two worlds.” The Pramāṇas are the scriptures of Pāśupatas. All we have recovered of them are a few verses quoted by Kṣṣemarāja in SvTu ad 1/41-43 from the Pañcārthapramāṇa.
 
 
 *[p. 348]* ^pg366
@@ -433,7 +437,7 @@ tejasvyāvaraṇam vedapurā mānāvṛtis tataḥ ॥ 360 ॥
 mānāvṛteḥ suśuddhāvṛtpuratritayaśobhitā |
 suśuddhāvaraṇād ūrdhvaṁ śaivam ekapurami bhavet ॥ 361 ॥ 
 
-After the Enclosure of Power comes the Enclosure of Brilliant Energy (tejasvyāvaraṇna), which is adorned with Tejasvī (Energetically Radiant) and Dhruveśa (Lord of Stability). Then (comes) the Enclosure of Right Knowledge (mānāvṛti), of which there are four worlds. Beyond the Enclosure of Right Knowledge is the Enclosure of Perfect Purity (suśuddhāvṛt), beautiful with (its) three worlds. Above the Enclosure of Perfect Purity, there is that of Śiva, in which there is only one world. (360- 361) (359cd-361ab) 
+After the Enclosure of Power comes the Enclosure of Brilliant Energy (tejasvyāvaraṇna), which is adorned with Tejasvī (Energetically Radiant) and Dhruveśa (Lord of Stability).[^982] Then (comes) the Enclosure of Right Knowledge (mānāvṛti), of which there are four worlds. Beyond the Enclosure of Right Knowledge is the Enclosure of Perfect Purity (suśuddhāvṛt), beautiful with (its) three worlds. Above the Enclosure of Perfect Purity, there is that of Śiva, in which there is only one world. (360-361) (359cd-361ab) 
 
 #### Viveka on 8.359–361
 
@@ -441,13 +445,13 @@ What is the reason here for calling (the Enclosure of Power) the ‘Enclosure of
 
 ‘(The four worlds are those of) Brahmā, Rudra, Pratoda and Ananta, 
 
-who is the fourth.” 
+who is the fourth.’[^983] 
 
 (That is said) in the venerable Nandiśikhā also: 
 
-982\. Dhruveśa can also means Lord of Stability or the Stable Lord. The Pole Star that remains fixed in one place in the sky is appropriately called Dhruva ~ ‘Fixed’, ‘Immobile’ or ‘Stable’.
+[^982]: Dhruveśa can also means Lord of Stability or the Stable Lord. The Pole Star that remains fixed in one place in the sky is appropriately called Dhruva ~ ‘Fixed’, ‘Immobile’ or ‘Stable’.
 
-983\. SvT 10/1175ab.
+[^983]: SvT 10/1175ab.
 
 
 *[p. 349]* ^pg367
@@ -456,7 +460,7 @@ who is the fourth.”
 
 That is said (in the Svacchandatantra) concerning ‘the Enclosure of Perfect Purity’: 
 
-‘And the Enclosure of Perfect Knowledge is above. (The wise) know that there are three Rudras there. In brief, these are said to be: Ekākṣa (One Eye), Piṅgala (Tawny), and Haṁsa (the Gander). 
+‘And the Enclosure of Perfect Knowledge is above. (The wise) know that there are three Rudras there. In brief, these are said to be: Ekākṣa (One Eye), Piṅgala (Tawny), and Haṁsa (the Gander).[^984] 
 
 "+ 
 
@@ -464,7 +468,7 @@ That is said (in the Svacchandatantra) concerning ‘the Enclosure of Perfect Pu
 
 ‘The Enclosure of Śiva is above. There is one (world) there called 
 
-Dhruva (Immobile). 
+Dhruva (Immobile).[^985] 
 
 ### TĀ 8.361–363
 
@@ -480,7 +484,7 @@ mokṣāvaranṇatas tv ekapuram āvaraṇari dhruvam |
 ūrdhve dhruvāvṛter icchāvaraṇar tatra te śivāḥ ॥ 363 ॥
 Tśvarecchāgṁāntasthās tat purar caikam ucyate | 
 
-They say that above the Enclosure of Śiva is the one called the Enclosure of Liberation (mokṣāvaraṇa), within which (the scriptures) describe eleven Rudras. Beyond this is the Enclosure of Dhruva (dhruvāvaranṇa), that has only one world. Above the Enclosure of Dhruva is the Enclosure of Desire (icchāvaraṇa). Those Śivas who are there reside within the abode of the Lord’s will. It said to have (only) one world. (362- 364ab) (361cd-363) 
+They say that above the Enclosure of Śiva is the one called the Enclosure of Liberation (mokṣāvaraṇa), within which (the scriptures) describe eleven Rudras. Beyond this is the Enclosure of Dhruva (dhruvāvaranṇa), that has only one world. Above the Enclosure of Dhruva is the Enclosure of Desire (icchāvaraṇa). Those Śivas who are there reside within the abode of the Lord’s will. It said to have (only) one world. (362-364ab) (361cd-363) 
 
 #### Viveka on 8.361–363
 
@@ -492,11 +496,11 @@ The ‘eleven’ (Rudras) are those starting with Brahmā. That is said (in the 
 
 and Hara (Saviour), Praṇīta (Offered), Sukhaduhkhada (Giver of Pleasure and 
 
-Pain) and Vijṛmbhita (Expanded). 
+Pain) and Vijṛmbhita (Expanded).[^986] 
 
 ‘Those’ (Śivas) are all those that have been mentioned, from here down to Earth. They ‘reside within the abode of the Lord’s will’, that is, are one with it. With that same intention, it is said elsewhere (i.e. in the IĪśvarapratyabhijñā): 
 
-‘(The mass of) existing things rests in the Self of the Lord (and thus) manifest. If they were not to do so, the act of reflective awareness, which is the will (icchāmarśa), would not take place.” ° 
+‘(The mass of) existing things rests in the Self of the Lord (and thus) manifest. If they were not to do so, the act of reflective awareness, which is the will (icchāmarśa), would not take place.”[^987] 
 
 (There is just) ‘one’ (world there), because it is presided over by just the power of the will (alone). 
 
@@ -524,49 +528,53 @@ daśāṣṭādaśa rudrāś ca tair eva suśivo vṛtaḥ || 368 ॥
 
 After the Enclosure of Desire comes the one called Awakened (prabuddha), that is adorned with the eight Rudras of the quarters. Above the Enclosure of the Awakened is the great Enclosure of the Rule (samayāvaraṇa), associated with five worlds. (As does every Enclosure), it 
 
-986?\. SvT 10/1178-1179a. Kṣemarāja glosses the names Janma and Mṛtyu as Janmahara (Saviour from Birth) and Mṛtyuhara (Saviour from Death), respectively.
+[^984]: SvT 10/1175cd-1176ab.
 
-987?\. ĪP 1/5/10. Also quoted in TĀv ad 3/247cd-248ab (see note there), ad 9/8ab, ad 10/300cd-301ab, and ad 15/202cd-203ab.
+[^985]: SvT 10/1176cd.
+
+[^986]: SvT 10/1178-1179a. Kṣemarāja glosses the names Janma and Mṛtyu as Janmahara (Saviour from Birth) and Mṛtyuhara (Saviour from Death), respectively.
+
+[^987]: ĪP 1/5/10. Also quoted in TĀv ad 3/247cd-248ab (see note there), ad 9/8ab, ad 10/300cd-301ab, and ad 15/202cd-203ab.
 
 
 *[p. 351]* ^pg369
 
-encompasses (all) the infinite (planes that lie below it). Above that is the Enclosure of Suśiva. The great world of Sadāśiva (sādākhya) is there, within which the god Sadāśiva (resides). To his right and left are knowledge and action, while the power of supreme will, by virtue of which he performs the five operations of creation and the rest, sits on his lap. Suśiva is surrounded by the five Brahmās,” the six limbs (of mantra), the group of eight (Rudras) starting with Sakala, the ten Śivas, and eighteeñ (more) 
+encompasses (all) the infinite (planes that lie below it). Above that is the Enclosure of Suśiva. The great world of Sadāśiva (sādākhya) is there, within which the god Sadāśiva (resides). To his right and left are knowledge and action, while the power of supreme will, by virtue of which he performs the five operations of creation and the rest, sits on his lap. Suśiva is surrounded by the five Brahmās,[^988] the six limbs (of mantra), the group of eight (Rudras) starting with Sakala, the ten Śivas, and eighteeñ (more) 
 
-Rudras.”” (364cd-368) (364-368ab) 
+Rudras.[^989] (364cd-368) (364-368ab) 
 
 #### Viveka on 8.364–368
 
 ‘The one called Awakened’ is the Enclosure of the Awakened. That is said (in the Svacchandatantra): 
 
-‘The Enclosure of the Awakened is above. I will tell (you that) in brief. (The Rudras there are) 1) Prīta (Loved), 2) Pramudita (Delighted), 3) Pramoda (Delight), 4) Pralambana (Hanging Down), 5) Viṣṇu, 6) Madana (Maddening), 7) Gahana (Deep), and 8) Prathita (Well Known) - one should know that this is said to be the group of eight Rudras (located in) the directions, starting with the east, in due order.” 
+‘The Enclosure of the Awakened is above. I will tell (you that) in brief. (The Rudras there are) 1) Prīta (Loved), 2) Pramudita (Delighted), 3) Pramoda (Delight), 4) Pralambana (Hanging Down), 5) Viṣṇu, 6) Madana (Maddening), 7) Gahana (Deep), and 8) Prathita (Well Known) - one should know that this is said to be the group of eight Rudras (located in) the directions, starting with the east, in due order.”[^990] 
 
 (The Enclosure of the Rule) is associated with five worlds. That is said (in the Svacchandatantra): 
 
-‘1) Prabhava (Influence), 2) Samaya (Pledge), 3) Kṣudra (Mean), 4) Vimala (Pure) Śiva, then 5) the one called Ghana (Dense); beyond that is the Stainless (nirañjana) — these are the five Rudra Ornkāras.”' 
+‘1) Prabhava (Influence), 2) Samaya (Pledge), 3) Kṣudra (Mean), 4) Vimala (Pure) Śiva, then 5) the one called Ghana (Dense); beyond that is the Stainless (nirañjana) — these are the five Rudra Ornkāras.”[^991] 
 
-‘(As does every Enclosure,) it encompasses (all) the infinite (planes that lie below it)’; all that is said to remain (apart from that is) whatever is above, abides encompassing what is below. ‘The world of Sadāśiva is directly (sākṣāt) the place over which Lord Sadāśiva presides, and so 11 is said to be ‘great’. However (Kṣemarāja), who wrote (the commentary called) Uddyota (on the Svacchandatantra), declares that the Principle of Sadāśiva begins from a (lower) half, which he conceives (exists on the basis of the line,) ‘then above Īśvara and below Sadāśiva’.” (But this view is) unsound, because great 
+‘(As does every Enclosure,) it encompasses (all) the infinite (planes that lie below it)’; all that is said to remain (apart from that is) whatever is above, abides encompassing what is below. ‘The world of Sadāśiva is directly (sākṣāt) the place over which Lord Sadāśiva presides, and so 11 is said to be ‘great’. However (Kṣemarāja), who wrote (the commentary called) Uddyota (on the Svacchandatantra), declares that the Principle of Sadāśiva begins from a (lower) half, which he conceives (exists on the basis of the line,) ‘then above Īśvara and below Sadāśiva’.[^992] (But this view is) unsound, because great 
 
-988?\. The edition reads brahmāni, which is intended to be the plural of brahman. The Five Brahmās are the five faces of Sadāśiva. See below, note 15,337.
+[^988]: The edition reads brahmāni, which is intended to be the plural of brahman. The Five Brahmās are the five faces of Sadāśiva. See below, note 15,337.
 
-989?\. Verses 357cd-368ab are a paraphrasis of SvT 10/1165 ff.
+[^989]: Verses 357cd-368ab are a paraphrasis of SvT 10/1165 ff.
 
-990?\. SvT 10/1181-1182. SvT reads pralambakaḥ for prāmbinaḥ.
+[^990]: SvT 10/1181-1182. SvT reads pralambakaḥ for prāmbinaḥ.
 
-991?\. SvT 10/1 183cd-1184abc.
+[^991]: SvT 10/1 183cd-1184abc.
 
-992?\. SvT 10/1190ab. We shall see in detail in the following chapter dedicated to the metaphysical principles, that the first to emerge from the pure transcendental Śiva consciousness in union with the will of His power of reflective awareness is Sadāśiva. Tn this state of consciousness, the power of knowledge predominates, through which the universe, which is within consciousness in a potential form, begins to form as initial traces of objectivity. Śiva beholds the ideal unformed universe within Himself as one with Himself, like the artist who sees, as it were, within his consciousness, the faint outline of the picture he is about to draw. At this stage subjectivity — ‘I-ness’ — is strongly dominant, ‘covering over’, as it were, objective ‘this-ness’. As the latter intensifies, the two aspects of consciousness, subjective and objective, experienced on the same level and perfectly equivalent, are the state of the Īśvara principle. Kṣemarāja, commenting on this line from the Svacchandatantra, understands in terms of the world orders within these principles that the worlds of Suśiva that manifest within the principle of Sadāśiva, although one with it, represent its lower form (apararūpa). Thus he writes: ‘That which makes all objects clearly manifest because it manifests (them) as being on an equal footing within inner (universal) ‘I-ness’ is said to be the Īśvara principle. That would not be possible (that is, could not exist,) without the principle of Sadāśiva, which is the manifestation of ‘Il-ness’, which covers inwardly that manifestation which is different from that. The arising of an external manifestation does not take place without (a prior) inner manifestation. Thus, one should contemplate (bhavitavya) that (inner manifestation) as the Sadāśiva principle, and as the foundation (bhitti) of the Īśvara principle. Thus, it is with this intention (that it is said that) it is above Īśvara, like the Sadāśiva principle, (but) below the main world of Sadāśiva, which will be described, and is the covering of Suśiva, which is present (āśrita) in the principle of Sadāśiva. This is what is being said (here). Suśiva here (in this case) is the Lord Sadāśiva Himself. As is said: \*one should know that Sadāśiva is within (the Covering of Suśiva, which is above)’ (SvT 10/1190d). The meaning is that this is the lower (apara) form, which is different from the supreme form of Sadāśiva, which will be explained.” Jayaratha objects to this distinction. According to him Suśiva is Sadāśiva himself (sākṣār). There is no intermediate state ‘above Īśvara and below Sadāśiva’, as Kṣemarāja claims. Moreover, Īśvara sustains Sadāśiva, not the other way around, as Kṣemarāja says.
+[^992]: SvT 10/1190ab. We shall see in detail in the following chapter dedicated to the metaphysical principles, that the first to emerge from the pure transcendental Śiva consciousness in union with the will of His power of reflective awareness is Sadāśiva. Tn this state of consciousness, the power of knowledge predominates, through which the universe, which is within consciousness in a potential form, begins to form as initial traces of objectivity. Śiva beholds the ideal unformed universe within Himself as one with Himself, like the artist who sees, as it were, within his consciousness, the faint outline of the picture he is about to draw. At this stage subjectivity — ‘I-ness’ — is strongly dominant, ‘covering over’, as it were, objective ‘this-ness’. As the latter intensifies, the two aspects of consciousness, subjective and objective, experienced on the same level and perfectly equivalent, are the state of the Īśvara principle. Kṣemarāja, commenting on this line from the Svacchandatantra, understands in terms of the world orders within these principles that the worlds of Suśiva that manifest within the principle of Sadāśiva, although one with it, represent its lower form (apararūpa). Thus he writes: ‘That which makes all objects clearly manifest because it manifests (them) as being on an equal footing within inner (universal) ‘I-ness’ is said to be the Īśvara principle. That would not be possible (that is, could not exist,) without the principle of Sadāśiva, which is the manifestation of ‘Il-ness’, which covers inwardly that manifestation which is different from that. The arising of an external manifestation does not take place without (a prior) inner manifestation. Thus, one should contemplate (bhavitavya) that (inner manifestation) as the Sadāśiva principle, and as the foundation (bhitti) of the Īśvara principle. Thus, it is with this intention (that it is said that) it is above Īśvara, like the Sadāśiva principle, (but) below the main world of Sadāśiva, which will be described, and is the covering of Suśiva, which is present (āśrita) in the principle of Sadāśiva. This is what is being said (here). Suśiva here (in this case) is the Lord Sadāśiva Himself. As is said: \*one should know that Sadāśiva is within (the Covering of Suśiva, which is above)’ (SvT 10/1190d). The meaning is that this is the lower (apara) form, which is different from the supreme form of Sadāśiva, which will be explained.” Jayaratha objects to this distinction. According to him Suśiva is Sadāśiva himself (sākṣār). There is no intermediate state ‘above Īśvara and below Sadāśiva’, as Kṣemarāja claims. Moreover, Īśvara sustains Sadāśiva, not the other way around, as Kṣemarāja says.
 
 
 *[p. 352]* ^pg370
 
-(distinguished) scholars do not accept that meaning.” Thus, in the same way also, (the word) ‘above’ is repeated (unnecessarily), ‘and below Sadāśiva’ is also incoherent, because it has (already) been said there itself. Even if one does not conceive (the matter this way), this should not be explained in this way at all, namely that Iévara, , that is, Rudroṁkāra, is the sustainer (adhiṣṭhātr) with respect to Sadāśiva. That which is sustained is below the sustainer. As is said in the venerable Nandiśikhā: 
+(distinguished) scholars do not accept that meaning.[^993] Thus, in the same way also, (the word) ‘above’ is repeated (unnecessarily), ‘and below Sadāśiva’ is also incoherent, because it has (already) been said there itself. Even if one does not conceive (the matter this way), this should not be explained in this way at all, namely that Iévara, , that is, Rudroṁkāra, is the sustainer (adhiṣṭhātr) with respect to Sadāśiva. That which is sustained is below the sustainer. As is said in the venerable Nandiśikhā: 
 
 ‘The Lord’s (aiśvara) principle has been described. Above that is 920851५4." 
 
 One should understand that also in the same way; that is, ‘the Lord’s’ (means) Sadāśivaṛs. ‘Sadāśiva means that he is directly present there. Otherwise, in both cases, the concluding text (concerning) the Īśvara principle would be contradictory. One should follow the path that has been made by those great scholars, one should not be confused by a commentator’s commentary. Now enough of so much (discussion). ‘In which’ means in the world of Sadāśiva. ‘Suśiva’ is Sadāśiva. ‘He is surroundeď’ four times by the sequence 
 
-of enclosures.” 
+of enclosures.[^994] 
 
 He names them in serial order. 
 
@@ -575,9 +583,9 @@ He names them in serial order.
 सद्यो वामाघोरौ पुरुषेशौ ब्रह्मपञ्चकं हदयम् ।
 ूर्धशिखावर्मदृगखमङ्गानि षट् प्राहः ॥ ३६९ ॥
 
-993?\. Read asyārdhasya for asyārthasya.
+[^993]: Read asyārdhasya for asyārthasya.
 
-994?\. Perhaps there is an error here. According to the text itself, Sadāśiva appears to be surrounded by five, not four groups, which are noted here as the five Brahmās, the six limbs, the eight Rudras, ten Śivas, and eighteen more Rudras.
+[^994]: Perhaps there is an error here. According to the text itself, Sadāśiva appears to be surrounded by five, not four groups, which are noted here as the five Brahmās, the six limbs, the eight Rudras, ten Śivas, and eighteen more Rudras.
 
 
 *[p. 353]* ^pg371
@@ -623,28 +631,30 @@ sarveṣām eti
 
 jñānāni viduḥ svatulyanāmāni || 373 ॥ 
 
-The five Brahmās are 1) Sadyojāta, 2) Vāmadeva, 3) Aghora, 4) Tatpuruṣa and 5) Īśāna.” They say that the six ancillaries (atga) ) are: the Heart, Head, Topknot, Armour, Eye and Weapon. 
+The five Brahmās are 1) Sadyojāta, 2) Vāmadeva, 3) Aghora, 4) Tatpuruṣa and 5) Īśāna.[^995] They say that the six ancillaries (atga) ) are: the Heart, Head, Topknot, Armour, Eye and Weapon. 
 
-The group of eight Sakala (Rudras) are said to be: 1) Sakala, 2) Akala (Niṣkala), 3) Śūnya, 4) Kalādhya (Wealthy with Energies) and 5) Khamalaṅkṛta (Adorned with Space), 6) Kṣapaṇa (Destroyer), 7) Antya (Kṣayānta) (End of Destruction) and 8) Kanthyauṣthya (Gutterolabial),” the eighth. 
+The group of eight Sakala (Rudras) are said to be: 1) Sakala, 2) Akala (Niṣkala), 3) Śūnya, 4) Kalādhya (Wealthy with Energies) and 5) Khamalaṅkṛta (Adorned with Space), 6) Kṣapaṇa (Destroyer), 7) Antya (Kṣayānta) (End of Destruction) and 8) Kanthyauṣthya (Gutterolabial),[^996] the eighth. 
 
 The ten Śivas starting from the east are: 1) Oṁkāreśa, 2) Śiva, 3) Dīpta, 4) Hetvīśa (Karaṇeśa) (Lord of the Causes), 5) Daśeśa (the Lord of 
 
-995?\. See below, 15/203cd-206ab.
+[^995]: See below, 15/203cd-206ab.
 
-996?\. 370 (369cd-370ab) is based on SvT 10/1194. Below in 29/160cd-16lab, in the context of Kaula practice, these eight Rudras are called Bhairavas. 97 371 (370cd-37 Lab) is based on SvT 10/1196-1197ab.
+[^996]: 370 (369cd-370ab) is based on SvT 10/1194. Below in 29/160cd-16lab, in the context of Kaula practice, these eight Rudras are called Bhairavas.
+
+[^997]: 371 (370cd-37 Lab) is based on SvT 10/1196-1197ab.
 
 
 *[p. 354]* ^pg372
 
-the Ten), 6) Suśiva (Good Śiva), 7) Kāleśa (Lord of Time), 8) Sūkṣma (Sūkṣmarūpa) (Subtle Form), 9) Sutejas (Good Energy), and 10) Śarva.”” 
+the Ten), 6) Suśiva (Good Śiva), 7) Kāleśa (Lord of Time), 8) Sūkṣma (Sūkṣmarūpa) (Subtle Form), 9) Sutejas (Good Energy), and 10) Śarva.[^997] 
 
-The (eighteen) Rudras are said to be 1) Vijaya (Victory), 2) Nihśvāsa (Exhalation), 3) Svāyambhū (Self Born), 4) Agni (Fire), 5) Vīra (Hero), 6) Raurava (Roaring), 7) Mukuṭa (Crown), 8) Visara (Abundance), 9) Indu (Moon), 10) Bindu (Drop),” 11) Prodgītavat (Lauded), 12) Lalita (Playful), 13) Siddharudra (Accomplished Rudra), 14) Santāna (Eternal), 15) Śarva, 16) Para (Supreme), 17) Kiraṇa (Ray) and 18) Parameśvara (Supreme Lord).”” (The wise) know that from all these originate the forms of knowledge (i.e. scriptures) corresponding to their names. (369-373) (368cd-373ab) 
+The (eighteen) Rudras are said to be 1) Vijaya (Victory), 2) Nihśvāsa (Exhalation), 3) Svāyambhū (Self Born), 4) Agni (Fire), 5) Vīra (Hero), 6) Raurava (Roaring), 7) Mukuṭa (Crown), 8) Visara (Abundance), 9) Indu (Moon), 10) Bindu (Drop),[^998] 11) Prodgītavat (Lauded), 12) Lalita (Playful), 13) Siddharudra (Accomplished Rudra), 14) Santāna (Eternal), 15) Śarva, 16) Para (Supreme), 17) Kiraṇa (Ray) and 18) Parameśvara (Supreme Lord).[^999] (The wise) know that from all these originate the forms of knowledge (i.e. scriptures) corresponding to their names. (369-373) (368cd-373ab) 
 
 #### Viveka on 8.368–373
 
 ‘Akala’ is Niṣkala. ‘Antya’ Kṣayānta, that is, (the condition of) phenomenal existence (bhava) at the end (of its existence). ‘Hetvīśa’ is Kāraṇeśvara. ‘Sūkṣma’ is Sūkṣmarūpa. ‘From all these’, that is, Śivas and Rudras. Thus, they are said to be the Saiva (llgama), that is divided into ten and 
 
-eighteen kinds (of Āgamas)." 
+eighteen kinds (of Āgamas).[^1000] 
 
 ### TĀ 8.373–376
 
@@ -669,11 +679,11 @@ tārādiśaktijuṣtaṁ
 
 suśivāsanam atisitakajam asańikhyadalam \\\\ 374 ॥ 
 
-997?\. SvT 10/1198d reads bimbaḥ for binduḥ.
+[^998]: SvT 10/1198d reads bimbaḥ for binduḥ.
 
-998?\. See above, 1/18. 372-373ab (37 Icd-372) is based on SvT 10/1198-1199.
+[^999]: See above, 1/18. 372-373ab (37 Icd-372) is based on SvT 10/1198-1199.
 
-999?\. The names of the ten Sivas and eighteen Rudras correspond, respectively, to those of the ten so-called dualist and eighteen dualist-cum-nondualist Āgamas, which are the ‘forms of knowledge’ that originate from them.
+[^1000]: The names of the ten Sivas and eighteen Rudras correspond, respectively, to those of the ten so-called dualist and eighteen dualist-cum-nondualist Āgamas, which are the ‘forms of knowledge’ that originate from them.
 
 
 *[p. 355]* ^pg373
@@ -698,7 +708,7 @@ asaṁkhyarudratacchaktipurakotibhir āvṛtaḥ |
 
 Now, the throne of Suśiva (i.e. Sadāśiva) is a pure white lotus with countless petals. It is surrounded by seventy million (mantras) and is associated with the powers of the Rudras headed by Vibhava, Vāma and the rest, 
 
-TM along with the powers starting with Tārā. The powers and Rudras in Suśiva’s extensive entourage, and in that of each one of them, amount to countless thousands of millions. The Rudras in Suśiva’s enclosure are free of the stain of Māyā. Omniscient and replete with every power, they are dedicated solely to the fulfilment of their office, and once their respo nsibilities (adhikārabandha) come to an end, peaceful, they assume Śiva’s nature, free of rebirth.” (374-377ab) (373cd-376) 
+[^1001] along with the powers starting with Tārā. The powers and Rudras in Suśiva’s extensive entourage, and in that of each one of them, amount to countless thousands of millions. The Rudras in Suśiva’s enclosure are free of the stain of Māyā. Omniscient and replete with every power, they are dedicated solely to the fulfilment of their office, and once their respo nsibilities (adhikārabandha)[^1002] come to an end, peaceful, they assume Śiva’s nature, free of rebirth.[^1003] (374-377ab) (373cd-376) 
 
 ### TĀ 8.377–378
 
@@ -706,34 +716,34 @@ TM along with the powers starting with Tārā. The powers and Rudras in Suśiva�
 
 Above is the Enclosure of the Point (bindu), 
 
-” which is brilliantly 
+[^1004] which is brilliantly 
 
-luminous. There is a lotus there which shines like the moon. Śiva Beyond Tranquillity (śāntyāfīta) is there. He is adorned by this power, whom he embraces, surrounded by the entourage of the Forces (kalā), that is, (Nivṛtti) Cessation and the rest.” He is encircled by innumerable Rudras and their powers, and tens of millions of worlds.” (377cd-379ab) (377-378) 
+luminous. There is a lotus there[^1005] which shines like the moon. Śiva Beyond Tranquillity (śāntyāfīta) is there. He is adorned by this power, whom he embraces, surrounded by the entourage of the Forces (kalā), that is, (Nivṛtti) Cessation and the rest.[^1006] He is encircled by innumerable Rudras and their powers, and tens of millions of worlds.[^1007] (377cd-379ab) (377-378) 
 
 #### Viveka on 8.377–378
 
-1001\. They are: Vibhvī, Jñānī, Kriyā, Icchā, Vāgīśī, Jvālinī, Vāmā, Jyeṣthā, and Raudrī. See, for example, MV 8/65.
+[^1001]: They are: Vibhvī, Jñānī, Kriyā, Icchā, Vāgīśī, Jvālinī, Vāmā, Jyeṣṭhā, and Raudrī. See, for example, MV 8/65.
 
-1002\. The expression ‘adhikārabandha’ could also be translated as ‘the bondage of office’.
+[^1002]: The expression ‘adhikārabandha’ could also be translated as ‘the bondage of office’.
 
-1003\. -rūpino punarbhavinaḥ. Lines 374-377ab (373cd-376) are set in a different metre and exact equivalents cannot be traced in the SvT, although there is some similarity with SvT 10/1201cd-1203. They are possibly drawn from the Śivatanuśāstra. The following verses — 377cd-379ab (377-378) — are set in standard śloka. Jayaratha separates them from the previous ones. They are derived from SvT 10/1214cd-1215, 10/1217-1218ab. The latter is quoted by Jayaratha.
+[^1003]: Cf. SvT 10/1201cd-1203. Read –rūpiṇo ‘punarbhavinaḥ for –rūpiṇo punarbhavinaḥ. Lines 374-377ab (373cd-376) are set in a different metre and exact equivalents cannot be traced in the SvT, although there is some similarity with SvT 10/1201cd-1203. They are possibly drawn from the Śivatanuśāstra. The following verses — 377cd-379ab (377-378) — are set in standard śloka. Jayaratha separates them from the previous ones. They are derived from SvT 10/1214cd-1215, 10/1217-1218ab. The latter is quoted by Jayaratha.
 
-1004\. Concerning bindu, see above, 6/161-167.
+[^1004]: Concerning bindu, see above, 6/161-167.
 
-1005\. Read, as the metre demands, tatra for tatra tatra.
+[^1005]: Read, as the metre demands, tatra for tatra tatra.
 
-1006\. See below, 11/8.
+[^1006]: See below, 11/8.
 
-1007\. Lines 374-377ab (373cd-376) are set in a different metre, and exact equivalents cannot be traced in the SvT. Quite probably they are drawn from the Sivatanuśāstra. The following verses 377cd-379ab (377-378) are set in standard śloka. Jayaratha separates them from the previous ones. They are derived from SvT 10/1214cd-1215, 10/1217-1218ab. The second of these is quoted by Jayaratha. The verse Abhinava omits describes the form of Śiva here called Śāntātīta. Thi basically Sadāśiva; he has: ‘five faces, large eyes, ten arms and three eyes. He shines like a mass of thousands of lightning flashes and is adorned with radiant jewels.’ (SvT 10/1216)
+[^1007]: Lines 374-377ab (373cd-376) are set in a different metre, and exact equivalents cannot be traced in the SvT. Quite probably they are drawn from the Sivatanuśāstra. The following verses 377cd-379ab (377-378) are set in standard śloka. Jayaratha separates them from the previous ones. They are derived from SvT 10/1214cd-1215, 10/1217-1218ab. The second of these is quoted by Jayaratha. The verse Abhinava omits describes the form of Śiva here called Śāntātīta. Thi basically Sadāśiva; he has: ‘five faces, large eyes, ten arms and three eyes. He shines like a mass of thousands of lightning flashes and is adorned with radiant jewels.’ (SvT 10/1216)
 
 
 *[p. 356]* ^pg374
 
-‘Above’, that is, (above) Suśiva’s (i.e., Sadāśivaṛs) Enclosure. “This power’, that is, Beyond Tranquillity (sāntyātītā).” That is said (in the Svacchandatantra): 
+‘Above’, that is, (above) Suśiva’s (i.e., Sadāśivaṛs) Enclosure. “This power’, that is, Beyond Tranquillity (sāntyātītā).[^1008] That is said (in the Svacchandatantra): 
 
 ʻO lady of good vows, Nivṛtti (Cessation), Pratiṣtṭhā (Firmly Established), Vidyā (Knowledge) and Śānti (Tranquillity) are said to be the entourage of Sāntyātīta (Beyond Tranquillity). In the quarter to his left is (His 
 
-power) Śāntyātītā (Beyond Tranquillity). 
+power) Śāntyātītā (Beyond Tranquillity).[^1009] 
 
 Tranquillity 
 
@@ -749,21 +759,21 @@ Bindu and the Body of Sadāśiva
 śrīmanmataṁgaśāstre ca layākhyaṁ tattvam uttamam || 379 ॥
 pāribhāṣikam ity etan nāmnā bindur ihocyate | 
 
-According to the venerable Mataṅgatantra, the most excellent principle (tattva) is called ‘Merger’ (laya). Here it is technically termed ‘the 
+[^1010]According to the venerable Mataṅgatantra, the most excellent principle (tattva) is called ‘Merger’ (laya). Here it is technically termed ‘the 
 
 Point’ (bindu). 
 
-TMTM (379cd-380ab) (379) 
+[^1011] (379cd-380ab) (379) 
 
 #### Viveka on 8.379
 
-1008\. Note that from this perspective, Śiva is Beyond Tranquillity, as is His power, Their names are the same, the only difference is that the form is masculine (śāntyātīta), and the latter is feminine (Santyatita) Santyatita)
+[^1008]: Note that from this perspective, Śiva is Beyond Tranquillity, as is His power, Their names are the same, the only difference is that the form is masculine (śāntyātīta), and the latter is feminine (Santyatita) Santyatita)
 
-1009\. SvT 10/1217-1218ab. Kṣemarāja: ‘It was said before that the group of four energies, which are the womb of the entire Cosmic Path, abiding as the supreme power of the god, is his entourage.”
+[^1009]: SvT 10/1217-1218ab. Kṣemarāja: ‘It was said before that the group of four energies, which are the womb of the entire Cosmic Path, abiding as the supreme power of the god, is his entourage.”
 
-1010\. lab (379-380), based on MPĀ Vidyāpāda 3/20-34. Line 8/380ab (379cd) is MPĀ Vidyāpāda 3/22cd.
+[^1010]: lab (379-380), based on MPĀ Vidyāpāda 3/20-34. Line 8/380ab (379cd) is MPĀ Vidyāpāda 3/22cd.
 
-1011\. The word ‘bindu’ can be equally well translated as ‘point’ or ‘drop’. The second line of verse 379 is MPĀ Vidyāpāda 3/22cd. According to the MPĀ, three states (āvasthā) are associated with Śiva when he is conceived in relation to manifestation. These are 1) the state of ‘merger’ (laya), in which everything is absorbed and from which all things arise. 2) the state of ‘enjoyment’ (bhoga), in which the deity knows the world, and 3) the state of authority (adhikāra), in which the deity acts and governs the world. According to the MPA the state of enjoyment corresponds to bindu, whereas according to Abhinavagupta, it corresponds to the state of merger. The MPĀ equates the three states with three planes of consciousness. The first is bindu, which is the supreme reality in a manifest state. The second is Sadāśiva, and the third is Pure Knowledge. See MPĀ Vidyāpāda 2/14; 3/121; 32-33ab; 7/32-33.
+[^1011]: The word ‘bindu’ can be equally well translated as ‘point’ or ‘drop’. The second line of verse 379 is MPĀ Vidyāpāda 3/22cd. According to the MPĀ, three states (āvasthā) are associated with Śiva when he is conceived in relation to manifestation. These are 1) the state of ‘merger’ (laya), in which everything is absorbed and from which all things arise. 2) the state of ‘enjoyment’ (bhoga), in which the deity knows the world, and 3) the state of authority (adhikāra), in which the deity acts and governs the world. According to the MPA the state of enjoyment corresponds to bindu, whereas according to Abhinavagupta, it corresponds to the state of merger. The MPĀ equates the three states with three planes of consciousness. The first is bindu, which is the supreme reality in a manifest state. The second is Sadāśiva, and the third is Pure Knowledge. See MPĀ Vidyāpāda 2/14; 3/121; 32-33ab; 7/32-33.
 
 
 *[p. 357]* ^pg375
@@ -772,19 +782,19 @@ The principle ‘called ‘Merger’ is ‘most excellent’ because it possesse
 
 ‘Thus, the Supreme Principle, immobile and facing everywhere, is that within which one who has attained it is never again (subject) to rebirth here (in 
 
-this world). '? 
+this world). '[^1012] 
 
 ‘In this way, the great (metaphysical) principle (tattva), ), free (from any defect for which it could be) criticized, and rich with thousands of radiant rays, pervades below from that principle of (Śiva), that possesses (every divine) quality. Here it is technically termed ‘the Point (bindu). Imperishable, it abides 
 
-four-fold," the impeller (of all things) in every way.’ 
+four-fold,[^1013] the impeller (of all things) in every way.’[^1014] 
 
 Surely, here (this Āgama says) of the Lord (pati): 
 
-‘According to the teachings concerning the triple principle, Merger (laya), Experience (bhoga), and Authority (adhikāra), the reality (padārtha) called the Lord (pati) is said to be the first (of these). "5 
+‘According to the teachings concerning the triple principle, Merger (laya), Experience (bhoga), and Authority (adhikāra), the reality (padārtha) called the Lord (pati) is said to be the first (of these). "[^1015] 
 
 If this is so here, then where is (the Lord’s) form as Enjoyment (and 
 
-Authority)?" With this question in mind, he says: 
+Authority)?[^1016] With this question in mind, he says: 
 
 ### TĀ 8.380
 
@@ -794,40 +804,42 @@ Authority)?" With this question in mind, he says:
 caturmūrtimayaṁ Śubhraṁ yat tat sakalaniṣkalam || 380 ॥
 tasmin bhogaḥ samuddiṣta ity atredaṁ ca varṇitam | 
 
-1012\. MPĂ vidyāpāda 3/20cd-21ab. 10 The four-fold form of the Point is explained in this and the following verse.
+[^1012]: MPĂ vidyāpāda 3/20cd-21ab.
 
-1014\. MPĀ vidyāpāda 3/21cd-23ab. Printed edition reads jagato (‘of the universe’) for sarvato (‘in every way’). Lines 3/21cd-22ab are quoted above in TĀv ad 1/224-225ab (224 + 225cd).
+[^1013]: The four-fold form of the Point is explained in this and the following verse.
 
-1015\. MPĀ vidyāpāda 2/14.
+[^1014]: MPĀ vidyāpāda 3/21cd-23ab. Printed edition reads jagato (‘of the universe’) for sarvato (‘in every way’). Lines 3/21cd-22ab are quoted above in TĀv ad 1/224-225ab (224 + 225cd).
 
-1016\. Ascending through Śiva’s cosmic body along the ladder of the Worlds, arranged in due order within the Principles ranging from Earth to Siva, we have reached Sadāśiva, who is identified with the Drop or Point (bindu) in terms of another sequence of ascent, viewed from the perspective of the utterance of the cosmogonic OM. This Point (i.e. Sadāśiva) is identified with the Lord (Pati). According to the Siddhānta, there are three fundamental realities (padārtha). The first of these is Pati (the Lord). The others are the countless fettered souls (pasu) the Lord governs, and the fetters (paga) ) that bind them. Pati possesses the three principles of Merger, Enjoyment and Authority. Abhinava has explained the first of these before, now he goes on to explain the other two.
+[^1015]: MPĀ vidyāpāda 2/14.
+
+[^1016]: Ascending through Śiva’s cosmic body along the ladder of the Worlds, arranged in due order within the Principles ranging from Earth to Siva, we have reached Sadāśiva, who is identified with the Drop or Point (bindu) in terms of another sequence of ascent, viewed from the perspective of the utterance of the cosmogonic OM. This Point (i.e. Sadāśiva) is identified with the Lord (Pati). According to the Siddhānta, there are three fundamental realities (padārtha). The first of these is Pati (the Lord). The others are the countless fettered souls (pasu) the Lord governs, and the fetters (paga) ) that bind them. Pati possesses the three principles of Merger, Enjoyment and Authority. Abhinava has explained the first of these before, now he goes on to explain the other two.
 
 
 *[p. 358]* ^pg376
 
-"The experience (bhoga) within is said to be of the four-fold body. Pure (śubhra), it is both with parts (sakala) and without parts (niṣkala).\* This is what is described here. (380cd-381ab) (380) 
+[^1017]The experience (bhoga) within is said to be of the four-fold body. Pure (śubhra), it is both with parts (sakala) and without parts (niṣkala).[^1018] This is what is described here. (380cd-381ab) (380) 
 
 #### Viveka on 8.380
 
 The experience (bhoga) within it is said to be of the four-fold body. Pure (śubhra), it is both with parts (sakala) and without parts (niṣkala). Although that four-fold nature consisting of (the four spheres of force — kalā ~ beginning with) Cessation (nivṛtti) and the rest (listed above) is present in (this) principle, it is beyond that, and so is devoid of impurity (nirmala). Thus, although it is also ‘with parts’ (sakala), it is the plane ‘without parts’ (niṣkala), because it is merged into the Supreme Principle. ‘The experience (bhoga) within it is said to be’ (this). The Principle of Sadāśiva is the location of its experience (bhogasthāna). This is what is said here (concerning this) in the venerable Mataṁgatantra. That is said there: 
 
-‘The merger (laya) of the god Sadāśiva takes place in the principle that is totally without parts. The experience (bhoga) within it is said to be of the four-fold body. Pure (śubhra), it is both with parts (sakala) and without parts (niṣkala). It is that of the Lord of the universe at all times.” 0/9 
+‘The merger (laya) of the god Sadāśiva takes place in the principle that is totally without parts. The experience (bhoga) within it is said to be of the four-fold body. Pure (śubhra), it is both with parts (sakala) and without parts (niṣkala). It is that of the Lord of the universe at all times.’[^1019] 
 
 Again, the location of his authority (adhikāra) is (Pure) Knowledge etc. Thus, the meaning has been established (and purpose achieved). As is said there itself: 
 
 ‘The principle called Śiva is in Merger (laya), the plane called the Point is in Manifestation (vyakti). Experience (bhoga) is in Sadāśiva’s place and the teaching (śāsana) in the one called Īśvara. His authority (adhikāra) is in the Principle of (Pure) Knowledge, which one should always know to be its 
 
-source," 
+source.’[^1020] 
 
 Surely, (one may ask,) the condition ‘with parts’ is said to be appropriate for the body (consisting of the principles) beginning with the Force (of limited agency) and ending with Earth (that are the domain of Māyā). If that 
 
-1017\. TĀ 8/380cd-381a (380abc)) is a literal quote of MPĀ vidyāpāda 3/34abc, cited in the commentary.
+[^1017]: TĀ 8/380cd-381a (380abc)) is a literal quote of MPĀ vidyāpāda 3/34abc, cited in the commentary.
 
-1018\. Thus, it is both ‘supreme’ — para and ‘inferior’ — apara, and so corresponds to the intermediate condition.
+[^1018]: Thus, it is both ‘supreme’ — para and ‘inferior’ — apara, and so corresponds to the intermediate condition.
 
-1019\. MPĀ vidyāpāda 3/33cd-34.
+[^1019]: MPĀ vidyāpāda 3/33cd-34.
 
-1020\. MPĀ vidyāpāda 7/32-33ab. Instead of vidyātattve ‘dhikāro ‘sya yoner jñṁeyaḥ sadaiave hi, the last line in the printed edition reads: vidyātattve ‘dhikāro ‘syā yonir jñeyā sadaive hi | \*(Her) authority (adhikāra) is in the Principle of (Pure) Knowledge. One should always know (Her) to be the source.’ The feminine here refers to the goddess who is embodied in the Vidyā of eighty-one syllables (ekāśītipada). Thus, the previous lines say: “The goddess of eighty-one syllables (ekāśītipadā) is Śakti, who is Śiva by nature. She has initially come forth within the (sphere of the force called) Tranquillity, and Her first place (sthāna) is of that nature. . . . The ones that follow after those quoted by Jayaratha say: ʻO sage, the many kinds of Mantras and Vidyās are established within Her. Such then is the great power of Siva the supreme soul.’
+[^1020]: MPĀ vidyāpāda 7/32-33ab. Instead of vidyātattve ‘dhikāro ‘sya yoner jñṁeyaḥ sadaiave hi, the last line in the printed edition reads: vidyātattve ‘dhikāro ‘syā yonir jñeyā sadaive hi | \*(Her) authority (adhikāra) is in the Principle of (Pure) Knowledge. One should always know (Her) to be the source.’ The feminine here refers to the goddess who is embodied in the Vidyā of eighty-one syllables (ekāśītipada). Thus, the previous lines say: “The goddess of eighty-one syllables (ekāśītipadā) is Śakti, who is Śiva by nature. She has initially come forth within the (sphere of the force called) Tranquillity, and Her first place (sthāna) is of that nature. . . . The ones that follow after those quoted by Jayaratha say: ʻO sage, the many kinds of Mantras and Vidyās are established within Her. Such then is the great power of Siva the supreme soul.’
 
 
 *[p. 359]* ^pg377
@@ -862,11 +874,11 @@ Just as the atoms of Earth that constitute gold do not manifest individually bec
 
 #### Viveka on 8.382
 
-Although ‘the atoms of Earth that constitute gold’ are (certainly) present (in a piece of gold), otherwise it would be impossible (to explain) its solidity etc., because the atoms of radiant energy (tejas) (there) are (many) more (than they are), ‘they do not manifest individually’.”" Similarly (the atoms) of the bodies of the Lords of each of the worlds within creation (sarga), pure and impure, are hidden (by the effulgence) of the knowledge they have of their own true nature (ātmajñāna). This is the meaning of this statement. 
+Although ‘the atoms of Earth that constitute gold’ are (certainly) present (in a piece of gold), otherwise it would be impossible (to explain) its solidity etc., because the atoms of radiant energy (tejas) (there) are (many) more (than they are), ‘they do not manifest individually’.[^1021] Similarly (the atoms) of the bodies of the Lords of each of the worlds within creation (sarga), pure and impure, are hidden (by the effulgence) of the knowledge they have of their own true nature (ātmajñāna). This is the meaning of this statement. 
 
 Now he (gets back) to discussing the main point. 
 
-1021\. Along with the earthen atoms of gold, there are also atoms of luminous energy (tejas), which gives gold its sheen.
+[^1021]: Along with the earthen atoms of gold, there are also atoms of luminous energy (tejas), which gives gold its sheen.
 
 
 *[p. 360]* ^pg378
@@ -886,19 +898,19 @@ kāntiḥ prabhā ca vimalā pañcaitā rodhikās tataḥ |
 rundhanī rodhanī roddhrī jṁñānabodhā tamopahā || 384 I|
 etāḥ pañca kalāḥ prāhur nirodhinyāṁ gurūttamāḥ | 
 
-12 Above the Point is the Half Moon (Ardhacandra). It possesses five energies (kalā), namely, Jyotsnā (Light), Jyotisnāvatī (Endowed with Light), Kānti (Beauty), Suprabhā (Beautiful Light)" and Vimalā (Pure). Then come the (energies that) obstruct (rodhikā). The best teachers say that these are the five energies within the Obstructress, namely, Rundhanī, Rodhanī, Roddhri,"\* , Jñānabodhā (Awakening of Knowledge), and Tamopahā (Remover of Darkness). (383cd-385ab) (383-384) 
+[^1022]Above the Point is the Half Moon (Ardhacandra). It possesses five energies (kalā), namely, Jyotsnā (Light), Jyotisnāvatī (Endowed with Light), Kānti (Beauty), Suprabhā (Beautiful Light)[^1023] and Vimalā (Pure). Then come the (energies that) obstruct (rodhikā).[^1024] The best teachers say that these are the five energies within the Obstructress, namely, Rundhanī, Rodhanī, Roddhri,[^1025] Jñānabodhā (Awakening of Knowledge), and Tamopahā (Remover of Darkness).[^1026] (383cd-385ab) (383-384) 
 
 #### Viveka on 8.383–384
 
-1022\. Sadāśiva, identified with the Point (bindu), is the upper extreme of emanation, which ranges from him down to Earth. Above are the planes of the Principle of Power. These lead to the transcendent Śiva Principle which, beyond the sphere of emanation, is one, and devoid of all inner differentiation into worlds or states. This, the last lap of the is through the Principle of Power. This is the sphere of the upward movement of p into final merger with transcendental Siva (cf. 5/56cd ff.). The phases of this ascent are those of the higher reaches of the flow of the energy of mantra. The exemplary model is OM, which we have already observed (see above, note to 1/60cd-62). To recapitulate, these are the Point (bindu) > Half Moon (ardhacandra) > the Obstructress (nirodhikā) > Sound (nāda) > End of Sound (nādānta) > Power (śakti) > the Pervasive One (vyāpinī) > the Equal One (or one could translate as ‘With Mind’) (samanā) > the Transmental (unmanā). The Kalās of each of the levels of OM from A to Unmanā are listed in NT 22/25 ff. See Appendix B to Chapter One.
+[^1022]: Sadāśiva, identified with the Point (bindu), is the upper extreme of emanation, which ranges from him down to Earth. Above are the planes of the Principle of Power. These lead to the transcendent Śiva Principle which, beyond the sphere of emanation, is one, and devoid of all inner differentiation into worlds or states. This, the last lap of the is through the Principle of Power. This is the sphere of the upward movement of p into final merger with transcendental Siva (cf. 5/56cd ff.). The phases of this ascent are those of the higher reaches of the flow of the energy of mantra. The exemplary model is OM, which we have already observed (see above, note to 1/60cd-62). To recapitulate, these are the Point (bindu) > Half Moon (ardhacandra) > the Obstructress (nirodhikā) > Sound (nāda) > End of Sound (nādānta) > Power (śakti) > the Pervasive One (vyāpinī) > the Equal One (or one could translate as ‘With Mind’) (samanā) > the Transmental (unmanā). The Kalās of each of the levels of OM from A to Unmanā are listed in NT 22/25 ff. See Appendix B to Chapter One.
 
-1023\. Abhinava lists (tadvati and prabhā for the complete names, Jyotisnāvatī and Suprabhā, respectively, found in SvT 10/1220cd.
+[^1023]: Abhinava lists (tadvati and prabhā for the complete names, Jyotisnāvatī and Suprabhā, respectively, found in SvT 10/1220cd.
 
-1024\. One wonders whether to emend rodhikās tataḥ to rodhikā tataḥ ‘then (comes) Rodhikā’. Either way it is clear that these are Rodhikā’s five energies.
+[^1024]: One wonders whether to emend rodhikās tataḥ to rodhikā tataḥ ‘then (comes) Rodhikā’. Either way it is clear that these are Rodhikā’s five energies.
 
-1025\. 384cd (384ab) is a literal quote of SvT 10/1221cd. All these three names mean ‘Obstructress’. The same energies (kalā) of Nirodhikā are listed in NT 22/39 and in SvT 10/1221. There, as in Kṣemarāja’s commentary, we find Raudrī (Fierce One) instead of Roddhrī (Obstructress). The reading here is a good one. Indeed, it may appear to be more satisfactory. Even so, there can be no doubt that the SvT that Kṣemarāja had the reading raudrī before him. In this case, one wonders whether Abhinava is quoting the variant he found, or if this is a scribal error committed by a copyist of the Tantrāloka.
+[^1025]: 384cd (384ab) is a literal quote of SvT 10/1221cd. All these three names mean ‘Obstructress’. The same energies (kalā) of Nirodhikā are listed in NT 22/39 and in SvT 10/1221. There, as in Kṣemarāja’s commentary, we find Raudrī (Fierce One) instead of Roddhrī (Obstructress). The reading here is a good one. Indeed, it may appear to be more satisfactory. Even so, there can be no doubt that the SvT that Kṣemarāja had the reading raudrī before him. In this case, one wonders whether Abhinava is quoting the variant he found, or if this is a scribal error committed by a copyist of the Tantrāloka.
 
-1026\. ë 8/383cd-385ab (383-384) is drawn from SvT 10/1219cd-1221. Kṣemarāja comments: As the light and joy of the plane of the Half Moon is excellent, such names of its energies are appropriate. Similarly, the three energies of the plane of Nirodhinī, viz. Rundhanī, Rodhinī, and Raudrī, (are so called) because they are the cause of obstruction. However, when the obstruction ceases of those who are awake, the two energies Jñṁānabodhā and Tamopahā are named this way because they give access to entry upwards. ॥ 1221 ॥
+[^1026]: ë 8/383cd-385ab (383-384) is drawn from SvT 10/1219cd-1221. Kṣemarāja comments: As the light and joy of the plane of the Half Moon is excellent, such names of its energies are appropriate. Similarly, the three energies of the plane of Nirodhinī, viz. Rundhanī, Rodhinī, and Raudrī, (are so called) because they are the cause of obstruction. However, when the obstruction ceases of those who are awake, the two energies Jñṁānabodhā and Tamopahā are named this way because they give access to entry upwards. ॥ 1221 ॥
 
 
 *[p. 361]* ^pg379
@@ -933,18 +945,18 @@ hetūn brahmādikān runddhe rodhikāṁ tāṁ tyajet tataḥ ॥ 386 ॥
 nirodhikām \[imam bhitvā sādākhyaṁi bhuvanai param |
 pararūpenṇa yatrāste pañcamantramahātanuḥ || 387 ॥ 
 
-One must quit (the sphere of) the Obstructress, who blocks Brahmā and the other (universal) causes.” Then having penetrated through it, one 
+One must quit (the sphere of) the Obstructress, who blocks Brahmā and the other (universal) causes.[^1027] Then having penetrated through it, one 
 
-1027\. Lines 385cd-386abc (385-386a) correspond to SvT 10/1222-1223abc. Kṣemarāja comments on 10/1222: ‘short, long, prolated, subtle and very subtle’. (6/4) When explaining this line, it was explained that to the degree that the utterance of Mantra reached an ever more elevated plane, to that degree the gross state associated with (the duality) of the denoted and the denotator comes to an end, and the (corresponding) subtle and more subtle etc. state is made manifest, and it bestows a (progressively more) excellent (state of) repose, until finally when the supreme principle of the Transmental (has been reached), penetration (āveśa) takes place into Svacchanda Bhairava’s nature, who is dense (uninterrupted) consciousness and bliss, by the quelling of all limiting adjuncts. Tt is this that is brought to mind here by the Supreme Lord in this way, when at the time of the purification of the worlds, one should, along with the teacher, follow along with the pervasion, that is the (progressively) subtle and more subtle etc. form, of the reciter of Mantra.’
+[^1027]: Lines 385cd-386abc (385-386a) correspond to SvT 10/1222-1223abc. Kṣemarāja comments on 10/1222: ‘short, long, prolated, subtle and very subtle’. (6/4) When explaining this line, it was explained that to the degree that the utterance of Mantra reached an ever more elevated plane, to that degree the gross state associated with (the duality) of the denoted and the denotator comes to an end, and the (corresponding) subtle and more subtle etc. state is made manifest, and it bestows a (progressively more) excellent (state of) repose, until finally when the supreme principle of the Transmental (has been reached), penetration (āveśa) takes place into Svacchanda Bhairava’s nature, who is dense (uninterrupted) consciousness and bliss, by the quelling of all limiting adjuncts. Tt is this that is brought to mind here by the Supreme Lord in this way, when at the time of the purification of the worlds, one should, along with the teacher, follow along with the pervasion, that is the (progressively) subtle and more subtle etc. form, of the reciter of Mantra.’
 
 
 *[p. 362]* ^pg380
 
-attains the supreme world (called) Sādākhya, where (Sadāśiva), whose great body consists of the five mantras,” resides in his supreme form.” (386cd-387) (386-387ab) 
+attains the supreme world (called) Sādākhya, where (Sadāśiva), whose great body consists of the five mantras,[^1028] resides in his supreme form.[^1029] (386cd-387) (386-387ab) 
 
 #### Viveka on 8.386–387
 
-(Sadāśiva resides in the world Sādhākhya) ʻin his supreme form’ within the Enclosure of Suśiva, where her” supreme form is said (to be). 
+(Sadāśiva resides in the world Sādhākhya) ʻin his supreme form’ within the Enclosure of Suśiva, where her[^1030] supreme form is said (to be). 
 
 (Now) he describes his form and location (sthāna): 
 
@@ -961,21 +973,21 @@ catvāri bhuvanāny atra dikṣu madhye ca pañcamam |
 indhikā dīpikā caiva rocikā mocikordhvagā ॥ 389 ॥
 madhye ‘tra padmaṁ tatrordhvagāmī tacchaktibhir vṛtaḥ | 
 
-Beyond the enclosures of the Half Moon, the Obstructress and the Point is the great Sound (nāda). Similar to a lotus fibre, it is surrounded by great souls. There are four worlds here, situated at the quarters, with a fifth in the centre. (They each have a goddess, namely) Indhikā, Dīpikā (Little Lamp), Rocikā (Voluptuous One),”" Mocikā (Liberatrix) and Urdhvagā (Upward Moving). Here, in the centre, is a lotus. There (within it is the power) who travels upwards and the Lord who possesses that 
+Beyond the enclosures of the Half Moon, the Obstructress and the Point is the great Sound (nāda). Similar to a lotus fibre, it is surrounded by great souls. There are four worlds here, situated at the quarters, with a fifth in the centre. (They each have a goddess, namely) Indhikā, Dīpikā (Little Lamp), Rocikā (Voluptuous One),[^1031] Mocikā (Liberatrix) and Urdhvagā (Upward Moving). Here, in the centre, is a lotus. There (within it is the power) who travels upwards and the Lord who possesses that 
 
-power.” (388-390ab) (387cd-389) 
+power.[^1032] (388-390ab) (387cd-389) 
 
 #### Viveka on 8.387–389
 
-1028\. These are the mantras of Sadāśiva’s five faces. See above, note 8,823. They are the Five Causes (pañcakāraṇa / —-karanṇa) Brahmā and the rest, he has just mentioned. Nirodhikā, the Obstructress, blocks these mantras. By breaking beyond the Obstructress, the mantras are free to act and function as the body of Sadāśiva and be experienced as such.
+[^1028]: These are the mantras of Sadāśiva’s five faces. See above, note 8,823. They are the Five Causes (pañcakāraṇa / —-karanṇa) Brahmā and the rest, he has just mentioned. Nirodhikā, the Obstructress, blocks these mantras. By breaking beyond the Obstructress, the mantras are free to act and function as the body of Sadāśiva and be experienced as such.
 
-1029\. TĀ 8/386cd-387 (386-387ab) corresponds to SvT 10/1222-1224ab.
+[^1029]: TĀ 8/386cd-387 (386-387ab) corresponds to SvT 10/1222-1224ab.
 
-1030\. The feminine ‘asyāḥ’ ‘her’ may refer to Nirodhikā, the Obstructress.
+[^1030]: The feminine ‘asyāḥ’ ‘her’ may refer to Nirodhikā, the Obstructress.
 
-1031\. Read with SvT 10/1226ab and NT 22/40cd rocikā — the Voluptuous One — for rodhikā. The latter means ‘Obstructress”, which is not an appropriate name here for one of the energies (kalā) of Sound.
+[^1031]: Read with SvT 10/1226ab and NT 22/40cd rocikā — the Voluptuous One — for rodhikā. The latter means ‘Obstructress”, which is not an appropriate name here for one of the energies (kalā) of Sound.
 
-1032\. TĀ 8/383cd-385ab (383-389) is a paraphrase of SvT 10/1229cd-1236ab. Read with MSs G and C tacchaktibhṛtprabhuḥ for tacchaktibhir vṛtaḥ.
+[^1032]: TĀ 8/383cd-385ab (383-389) is a paraphrase of SvT 10/1229cd-1236ab. Read with MSs G and C tacchaktibhṛtprabhuḥ for tacchaktibhir vṛtaḥ.
 
 
 *[p. 363]* ^pg381
@@ -1014,15 +1026,15 @@ Beyond Sound (nāda) is (the world) of Suṣumnā. There the Lord who possesses 
 
 consciousness) (nāda), 
 
-"5 which is the foundation of Suṣumnā, has 
+[^1035] which is the foundation of Suṣumnā, has 
 
-penetrated through all this universe by means of the lower power (adhahśakti), it (then) exits out from the head (impelled) by the upper power (ūrdhvaśakti) by means of (this) vital channel, and is merged into the Cavity of Brahmā (brahmabila). That is the unmanifest resonance (avyaktadhvani) which, imperishable, resounding in all living beings, is sustained (adhiṣthita) by Śiva’s power." (390cd-394ab) (390-393) 
+penetrated through all this universe by means of the lower power (adhahśakti), it (then) exits out from the head (impelled) by the upper power (ūrdhvaśakti) by means of (this) vital channel, and is merged into the Cavity of Brahmā (brahmabila). That is the unmanifest resonance (avyaktadhvani) which, imperishable, resounding in all living beings, is sustained (adhiṣthita) by Śiva’s power.[^1036] (390cd-394ab) (390-393) 
 
 #### Viveka on 8.390–393
 
-In this way, it is said that the Half Moon and the Obstructress are the expansion (prasara) of the Point. The ‘great souls’ are Mantramaheśvaras. ‘That power’, which travels upwards. That is said (in the Svacchandatantra): 
+In this way, it is said that the Half Moon and the Obstructress are the expansion (prasara) of the Point. The ‘great souls’ are Mantramaheśvaras.[^1037] ‘That power’, which travels upwards. That is said (in the Svacchandatantra): 
 
-‘Within that (world) is a very large lotus, (where) the Lord who travels upwards resides.’ " 
+‘Within that (world) is a very large lotus, (where) the Lord who travels upwards resides.’[^1038] 
 
 ‘His energy (kalā), which always sits on his lap, travels upwards.” 
 
@@ -1034,19 +1046,19 @@ all living beings, in accord with the teaching (of the Svacchandatantra):
 
 ‘The god (deva), who resides in the chest of living (breathing) beings, spontaneously utters (the Mantra) not uttered by anybody and that none 
 
-obstructs,’ 
+obstructs,’[^1039] 
 
 " 
 
-1035\. Read nādaḥ suṣumnā- for nādhaḥ suṣumnā-.
+[^1035]: Read nādaḥ suṣumnā- for nādhaḥ suṣumnā-.
 
-1036\. In 8/388-394ab (387cd-393), Abhinava presents a condensed paraphrase of SvT 10/1224cd-1236. 388-390ab (387cd-389) is a paraphrase of SvT 10/1224cd-1227ab. 390cd-392ab (390-391) is a brief paraphrase of SvT 10/1229cd-1234ab and 392cd- 394ab (392-393) is a paraphrase of SvT 10/1234cd-1236ab.
+[^1036]: In 8/388-394ab (387cd-393), Abhinava presents a condensed paraphrase of SvT 10/1224cd-1236. 388-390ab (387cd-389) is a paraphrase of SvT 10/1224cd-1227ab. 390cd-392ab (390-391) is a brief paraphrase of SvT 10/1229cd-1234ab and 392cd- 394ab (392-393) is a paraphrase of SvT 10/1234cd-1236ab.
 
-1037\. These are the highest perceivers, who reside in the highest reaċhes of the pure principles, just before Siva. See below, 9/90cd-93ab, 110/113ab.
+[^1037]: These are the highest perceivers, who reside in the highest reaċhes of the pure principles, just before Siva. See below, 9/90cd-93ab, 110/113ab.
 
-1038\. SYT 10/1227ab, the next line is ibid. 10/1229ab.
+[^1038]: SYT 10/1227ab, the next line is ibid. 10/1229ab.
 
-1039\. SvT 7/59. The deity is Haṁsa, that is, formless (niṣkala) Śiva who is Unstruck Sound that resonates spontaneously within consciousness and the breath. This verse is quoted above in TĀv ad 3/66cd-67ab (67) (see note there for details); also ad 3/147cd- 148 (147-148ab), ad 4/181cd-182ab, and ad 5/132cd-133ab (5/13 1cd-132ab).
+[^1039]: SvT 7/59. The deity is Haṁsa, that is, formless (niṣkala) Śiva who is Unstruck Sound that resonates spontaneously within consciousness and the breath. This verse is quoted above in TĀv ad 3/66cd-67ab (67) (see note there for details); also ad 3/147cd- 148 (147-148ab), ad 4/181cd-182ab, and ad 5/132cd-133ab (5/13 1cd-132ab).
 
 
 *[p. 365]* ^pg383
@@ -1076,11 +1088,11 @@ roddhrī dātrī
 
 ca mokṣasya \* \* \* \* \*\*\*\* | 
 
-Above Suṣumnā is the enclosure named after the Cavity of Brahmā. Brahmā resides there, white in colour, three-eyed, holding a trident and five-faced, with the moon as his crest-jewel. The supreme goddess Brahmāṇī sits on his lap. Residing on the path to liberation, she (both) impedes and bestows it.? (394cd-396a) (394-395abc) 
+Above Suṣumnā is the enclosure named after the Cavity of Brahmā. Brahmā resides there, white in colour, three-eyed, holding a trident and five-faced, with the moon as his crest-jewel. The supreme goddess Brahmāṇī sits on his lap. Residing on the path to liberation, she (both) impedes and bestows it.[^1042] (394cd-396a) (394-395abc) 
 
 #### Viveka on 8.394–395
 
-1042\. TĀ 8/394cd-396a (394-395abc) is a paraphrase of SvT 10/1237-1240ab. evar jñātvā varārohe śodhayet tarn śivādhvare ॥ 1236 ॥ tato brahmabilaṁ jṁñeyaṁ rudrakoṭtyarbudānvitam | tatra brahmā paro jñṁñeyaḥ Śaśāṁkaśatasaprabhaḥ Il 1237 ॥ daśabāhus trinetraś ca pañcavaktrenduśekharaḥ | triśūlapāṇir bhagavān jaṭīmukuṭamanditaḥ ॥ 1238 ॥ ‘Having known (this) in this way, one should purify that in Śiva’s sacrifice. Then one should know the Cavity of Brahmā, that has a hundred million Rudras. One should know that there Brahmā is supreme, his light equal to a hundred moons. He has ten arms and three eyes, five faces, and the moon is on the crown of his head. He holds a trident. He is the Lord, adorned with matted hair and a crown. (1236cd-1238) brahmabilaṁ nāmāvaraṇam antar Śiva bahir bhuvanāśrayatvenāpi sthitam | yady api sārdhās tisraḥ koṭyo mantrānām uktās tathāpi tatparivārasyāsaṁkhyatvād atrāpi ca (tesam ! sūkṣmatamena rūpeṇāvasthitatvād rudrakoṭyarbudānvitam ity uktam | para iti prāguktād brahmāndagatāt sthūlād buddhitattvagatāc ca sūkṣmād utkṛṣṭaḥ, ata eva sāktatvād ayar sito daśabāhvādirūpaś ca ॥ 1238 ॥ kiṁ ca ---- The Cavity of Brahmā is the name of (another) enclosure. As it is inwardly, so too it exists externally, as the foundation of a world. Although it has been said that there are 35 million Mantras, even so his entourage is innumerable, and moreover, here they are in (their) most subtle form, and so (for these two reasons) it is said that (they number) 100 million. (Brahmā) is ‘supreme’. (He is) most excellent because, (in his) gross (form), he is present in the Egg of Bramā (in the manner) stated previously (that is, at its summit), and, as subtle, he is present in the principle of the intellect. Thus, because he is empowered (sākta), he is white, and his form has ten arms etc. Moreover: brahmānṇī tu parā śaktir yā sā mokṣapathe sthitā | dvaram ? yd mokṣamārgasya rodhayitvā vyavasthitā ॥ 1239 ॥ mokṣamārgapradātrī ca brahmotsaṁge ca saṁsthitā | Brahmānī is (his) supreme power and abides on the path to liberation. (She is) the door to the path of liberation; having blocked it, she is present there. She also bestows the path to liberation and sits next to Brahmā. (1239-1240ab) parety arthāt | mokṣapathe ---- śaivīṛ mukham ihocyate | She is, in other words, Parā. On the path to liberation — ‘Śiva’s power (śaivī) is said here (in the scriptures) to be (His) mouth (mukha) (which is the entrance to the realization of one’s own Śiva nature).’ (VB 20d) mokṣadvāram īśvarecchayā rundhānā sthitā | jṁāninaḥ prati mokṣamārga pradadāti tacchīlā \\\\ According to this teaching, (this) is the Path of Śakti, that faces upwards. Thus, with respect to the ignorant, by the Lord’s will, the door to liberation, which is the path of Śakti, is closed; (whereas) for those who know, she bestows and is the path to liberation.
+[^1042]: TĀ 8/394cd-396a (394-395abc) is a paraphrase of SvT 10/1237-1240ab. evar jñātvā varārohe śodhayet tarn śivādhvare ॥ 1236 ॥ tato brahmabilaṁ jṁñeyaṁ rudrakoṭtyarbudānvitam | tatra brahmā paro jñṁñeyaḥ Śaśāṁkaśatasaprabhaḥ Il 1237 ॥ daśabāhus trinetraś ca pañcavaktrenduśekharaḥ | triśūlapāṇir bhagavān jaṭīmukuṭamanditaḥ ॥ 1238 ॥ ‘Having known (this) in this way, one should purify that in Śiva’s sacrifice. Then one should know the Cavity of Brahmā, that has a hundred million Rudras. One should know that there Brahmā is supreme, his light equal to a hundred moons. He has ten arms and three eyes, five faces, and the moon is on the crown of his head. He holds a trident. He is the Lord, adorned with matted hair and a crown. (1236cd-1238) brahmabilaṁ nāmāvaraṇam antar Śiva bahir bhuvanāśrayatvenāpi sthitam | yady api sārdhās tisraḥ koṭyo mantrānām uktās tathāpi tatparivārasyāsaṁkhyatvād atrāpi ca (tesam ! sūkṣmatamena rūpeṇāvasthitatvād rudrakoṭyarbudānvitam ity uktam | para iti prāguktād brahmāndagatāt sthūlād buddhitattvagatāc ca sūkṣmād utkṛṣṭaḥ, ata eva sāktatvād ayar sito daśabāhvādirūpaś ca ॥ 1238 ॥ kiṁ ca ---- The Cavity of Brahmā is the name of (another) enclosure. As it is inwardly, so too it exists externally, as the foundation of a world. Although it has been said that there are 35 million Mantras, even so his entourage is innumerable, and moreover, here they are in (their) most subtle form, and so (for these two reasons) it is said that (they number) 100 million. (Brahmā) is ‘supreme’. (He is) most excellent because, (in his) gross (form), he is present in the Egg of Bramā (in the manner) stated previously (that is, at its summit), and, as subtle, he is present in the principle of the intellect. Thus, because he is empowered (sākta), he is white, and his form has ten arms etc. Moreover: brahmānṇī tu parā śaktir yā sā mokṣapathe sthitā | dvaram ? yd mokṣamārgasya rodhayitvā vyavasthitā ॥ 1239 ॥ mokṣamārgapradātrī ca brahmotsaṁge ca saṁsthitā | Brahmānī is (his) supreme power and abides on the path to liberation. (She is) the door to the path of liberation; having blocked it, she is present there. She also bestows the path to liberation and sits next to Brahmā. (1239-1240ab) parety arthāt | mokṣapathe ---- śaivīṛ mukham ihocyate | She is, in other words, Parā. On the path to liberation — ‘Śiva’s power (śaivī) is said here (in the scriptures) to be (His) mouth (mukha) (which is the entrance to the realization of one’s own Śiva nature).’ (VB 20d) mokṣadvāram īśvarecchayā rundhānā sthitā | jṁāninaḥ prati mokṣamārga pradadāti tacchīlā \\\\ According to this teaching, (this) is the Path of Śakti, that faces upwards. Thus, with respect to the ignorant, by the Lord’s will, the door to liberation, which is the path of Śakti, is closed; (whereas) for those who know, she bestows and is the path to liberation.
 
 
 *[p. 367]* ^pg385
@@ -1111,7 +1123,7 @@ Penetrating (beyond) her, (one reaches) the power Kundalinī in her raised state
 
 *[p. 368]* ^pg386
 
-(live) the powers, Sūkṣmā (Subtle), Susūkṣmā (Very Subtle), Amṛtā (Immortal) and Amitā (Unlimited) and, in the centre, Vyapini'’ (the Pervasive One). Within her is Vyāpīśa, her Lord. (396b-397) (395d-397ab) 
+(live) the powers, Sūkṣmā (Subtle), Susūkṣmā (Very Subtle), Amṛtā (Immortal) and Amitā (Unlimited) and, in the centre, Vyāpinī[^1044] (the Pervasive One). Within her is Vyāpīśa, her Lord. (396b-397) (395d-397ab) 
 
 #### Viveka on 8.395–397
 
@@ -1121,7 +1133,7 @@ Penetrating (beyond) her, (one reaches) the power Kundalinī in her raised state
 
 (Other powers are present) ‘within her’, that is, within Power. That is said (in the Svacchandatantra): 
 
-1044\. See above, 6/134 ff.
+[^1044]: See above, 6/134 ff.
 
 
 *[p. 369]* ^pg387
@@ -1154,13 +1166,13 @@ This is (the world of Anāśrita, which is) the Principle of Power. This cosmic 
 
 *[p. 370]* ^pg388
 
-world of) Anāśrita (Unemerged) is in the centre. There the God of the gods, Anāśrita, resides united with his power, brilliant like a thousand million suns." (398-400ab) (397cd-399) 
+world of) Anāśrita (Unemerged) is in the centre. There the God of the gods, Anāśrita, resides united with his power, brilliant like a thousand million suns.[^1046] (398-400ab) (397cd-399) 
 
 #### Viveka on 8.397–399
 
-"The Principle of Power’ is the world of Anāśrita (Unemerged). ‘Then’, resting on that very Principle of Power. This is the meaning. The sense is that it is located in the Pervasive One, (which is) within the Principle of Power. ‘There’ in the world of Anāśrita are his powers, Vyāpinī (the Pervasive One) and the rest. ‘Anāśrita’ (Unemerged), that is, the world (with that name). ‘His power’ is Anāśritā. That is said (in the Svacchandatantra): 
+[^1047]"The Principle of Power’ is the world of Anāśrita (Unemerged). ‘Then’, resting on that very Principle of Power. This is the meaning. The sense is that it is located in the Pervasive One, (which is) within the Principle of Power. ‘There’ in the world of Anāśrita are his powers, Vyāpinī (the Pervasive One) and the rest. ‘Anāśrita’ (Unemerged), that is, the world (with that name). ‘His power’ is Anāśritā.[^1048] That is said (in the Svacchandatantra): 
 
-‘Vyāpinī (the Pervasive One), Vyomarūpā (the Form of the Void), Anantā (Endless) and Anāthā (Lordless).’” " 
+‘Vyāpinī (the Pervasive One), Vyomarūpā (the Form of the Void), Anantā (Endless) and Anāthā (Lordless).’[^1049] 
 
 If one were to explain (what is meant by) ‘the Śiva Principle’ in terms of (the words’) own (literal) meaning, then all that (has been taught) would stand 
 
@@ -1168,58 +1180,60 @@ contradicted.
 
 For according to (the following) words (of the Svacchandatantra), the Equal One (samanā) pervades above the Śiva 
 
-Principle’ also: 
+Principle[^1050] also: 
 
 ʻO lady of good vows, the Śiva Principle has been explained to you in this way. Once it has been purified, then above it is the power that is said to be 
 
-1046\. SVT 10/1243cd-1255.
+[^1046]: SVT 10/1243cd-1255.
 
-1047\. The worlds are arranged, as we have seen, within the thirty-six principles. Now we have reached the two highest principles, those of Śakti and Śiva. The ascent from Bindu in the Principle of Īśvara follows a standard series, which we have already had occasion to examine (see Appendix B to Chapter One) in the context of the utterance (or ‘upward movement’) of the energies of OM. To recapitulate, they are 1-3) A U M, 4) the Half Moon (Ardhacandra), 5) the Point (Bindu), 6) the Obstructress (Nirodhikā), 7) Sound (Nāda), 8) the End of Sound (Nādānta), 9) Power (Śakti), 10) the Pervasive One (Vyāpinī), 11) With Mind or the Equal One (Samanā), and 12) the Transmental (Unmanā). When reading these verses, we should take care to distinguish the Power (Śakti), which is the ninth member of this series, from the thirty-fifth Principle, which is also called Power. Within Power (the ninth of this series) is the Pervasive One (the tenth in the series). Anāśrita Śiva resides in the world of Power, within which is the Pervasive One. Thus, to further add to the confusion, in this context it is also called the Anāśrita Śiva, which is in other contexts the transcendental Śiva, who is the thirty-sixth principle (Śivatattva). Jayaratha takes pains to explain that the two (or three) should not be confused.
+[^1047]: The worlds are arranged, as we have seen, within the thirty-six principles. Now we have reached the two highest principles, those of Śakti and Śiva. The ascent from Bindu in the Principle of Īśvara follows a standard series, which we have already had occasion to examine (see Appendix B to Chapter One) in the context of the utterance (or ‘upward movement’) of the energies of OM. To recapitulate, they are 1-3) A U M, 4) the Half Moon (Ardhacandra), 5) the Point (Bindu), 6) the Obstructress (Nirodhikā), 7) Sound (Nāda), 8) the End of Sound (Nādānta), 9) Power (Śakti), 10) the Pervasive One (Vyāpinī), 11) With Mind or the Equal One (Samanā), and 12) the Transmental (Unmanā). When reading these verses, we should take care to distinguish the Power (Śakti), which is the ninth member of this series, from the thirty-fifth Principle, which is also called Power. Within Power (the ninth of this series) is the Pervasive One (the tenth in the series). Anāśrita Śiva resides in the world of Power, within which is the Pervasive One. Thus, to further add to the confusion, in this context it is also called the Anāśrita Śiva, which is in other contexts the transcendental Śiva, who is the thirty-sixth principle (Śivatattva). Jayaratha takes pains to explain that the two (or three) should not be confused.
 
-1048\. Note the feminine indicated by a final long “3”. Anāśrita (masculine) is the form of Śiva, while Anāśritā (feminine) is His power.
+[^1048]: Note the feminine indicated by a final long “3”. Anāśrita (masculine) is the form of Śiva, while Anāśritā (feminine) is His power.
 
-1049\. SvT 10/1252cd cf. NT 22/44cd-45ab, where we find the same goddesses, along with Anāśritā, that are said to be the energies (kalā) of Vyāpinī. Note that these are the powers of the gods of this world Abhinava lists. Their names are the same, but the gender is feminine.
+[^1049]: SvT 10/1252cd cf. NT 22/44cd-45ab, where we find the same goddesses, along with Anāśritā, that are said to be the energies (kalā) of Vyāpinī. Note that these are the powers of the gods of this world Abhinava lists. Their names are the same, but the gender is feminine.
 
-1050\. The Śiva Principle in this case is Anāśrita Śiva, which is at the level of the Pervasive One.
+[^1050]: The Śiva Principle in this case is Anāśrita Śiva, which is at the level of the Pervasive One.
 
 
 *[p. 371]* ^pg389
 
-supreme (parā). One should know it to be the one called the Equal One (कव) 
+supreme (parā). One should know it to be the one called the Equal One (कव)[^1051] 
 
 01 
 
 There too (we read): 
 
-‘O fair lady, the net of fetters up to the end of the Equal One is endless,’ "? 
+‘O fair lady, the net of fetters up to the end of the Equal One is endless.’[^1052] 
 
 It follows from these words (of the scripture) that the endless net of fetters would (also) adhere (to the Śiva Principle). In the same way such (statements in the scriptures as the following) would stand contradicted: 
 
-‘O fair-faced lady, placing the Path that is to be abandoned below, exhale that until (you reach) that power, that is, the Equal One. Above that is said to be the Transmental (unmanā).’ " 
+‘O fair-faced lady, placing the Path that is to be abandoned below, exhale that until (you reach) that power, that is, the Equal One. Above that is said to be the Transmental (unmanā).’[^1053] 
 
 Such (statements as) ‘Supreme Śiva is at the end of the Transmental , . 
 
-would also be faulted, because it is has been said that (Śiva) is below (the १1054 level of) the Equal One (samanā). Moreover, as it is another principle, the commonly accepted (view that the number of principles) is thirty-six would be contradicted. Nor is the Equal One either above or within this Śiva Principle. Rather, it is below it, for it is taught that it is within the Principle of Power. That is said (in the Svacchandatantra): 
+[^1054] would also be faulted, because it is has been said that (Śiva) is below (the level of) the Equal One (samanā). Moreover, as it is another principle, the commonly accepted (view that the number of principles) is thirty-six would be contradicted. Nor is the Equal One either above or within this Śiva Principle. Rather, it is below it, for it is taught that it is within the Principle of Power. That is said (in the Svacchandatantra): 
 
-‘O fair-faced lady, then Power” should be deposited with the praṇava (OM). The Pervasive One and the Equal One, that are above, should be purified just there.’ ' 
+‘O fair-faced lady, then Power[^1055] should be deposited with the praṇava (OM). The Pervasive One and the Equal One, that are above, should be purified just there.’[^1056] 
 
 If Anāśrita and the rest were to be located in the Śiva Principle, then that would become subject to time (kālakalita), (for) they are perishable. As was said before: 
 
 ‘When Energy (Śakti) reaches the end of its period (of existence), it dissolves into the Pervasive One (Vyāpinī), whose Doy and Night is that (Energy’s lifespan). (The Pervasive One dissolves) into Siva Without Support (anāśrita), whose Day and Night equals a day of Energy multiplied by ten million trillions (parārdha). At the end of this period, multiplied by a trillion (parārdha), he too dissolves into the plane With Mind (sāmanasa), termed 
 
-Equality (Sāmya).' 
+Equality (Sāmya).'[^1057] 
 
-1051\. SvT 10/1255cd-1256abc.
+[^1051]: SvT 10/1255cd-1256abc.
 
-1052\. SVT 4/432ab.
+[^1052]: SVT 4/432ab.
 
-1053\. SVT 10/1275cd-1276ab.
+[^1053]: SVT 10/1275cd-1276ab.
 
-1054\. Devyāyāmala also quoted below ad 23/37-40ab.
+[^1054]: Devyāyāmala also quoted below ad 23/37-40ab.
 
-1055\. Here Śakti is not the principle — rattva — it is a station along the ascent of Sound. After this Sakti comes Vyāpinī, Samanā and then Unmanā.
+[^1055]: Here Śakti is not the principle — rattva — it is a station along the ascent of Sound. After this Sakti comes Vyāpinī, Samanā and then Unmanā.
 
-1057\. Above, 6/164-166ab (163cd-165). See note there.
+[^1056]: SvT 5/8.
+
+[^1057]: Above, 6/164-166ab (163cd-165). See note there.
 
 
 *[p. 372]* ^pg390
@@ -1228,13 +1242,13 @@ Thus,
 
 such scriptural passages (as the following in the Svacchandatantra) would be contradicted: 
 
-‘Above is the Transmental, where there is no time. No aeon of any sort is conceived. It is undifferentiated (niskala) and devoid of time. That which is beyond Saṁkari, , the Transmental, is eternal, pervasive and imperishable.’ "imperishable 
+‘Above is the Transmental, where there is no time. No aeon of any sort is conceived. It is undifferentiated (niskala) and devoid of time. That which is beyond Saṁkari, , the Transmental, is eternal, pervasive and imperishable.’[^1058] 
 
 Nor are Anāśrita and the rest located in Śiva (the thirty-sixth) Principle, rather (their place) is in the Principle of Power, (which is the ninth in the series of the upward movement of energy) within the Pervasive One (the tenth in this series). That is said (in the Svacchandatantra): 
 
-‘O goddess, the Cavity of Brahmā is below, after that is the Principle of Power, and after that (comes) the Pervasive One, who is linked to the Five Causes; (then) O beloved, (come) the Equal One and the Transmental, that is 
+‘O goddess, the Cavity of Brahmā is below, after that is the Principle of Power, and after that (comes) the Pervasive One, who is linked to the Five Causes;[^1059] (then) O beloved, (come) the Equal One and the Transmental, that is 
 
-linked to the Eggs of the universe (prakriyānda). 
+linked to the Eggs of the universe (prakriyānda).[^1060] 
 
  
 
@@ -1251,23 +1265,23 @@ The Equal One (Samanā)
 sivatattvordhvataḥ śaktiḥ parā sā samanāhvayā || 400 || sarvesam kāraṇānāri sā kartṛbhūtā vyavasthitā |
 bibharty andāny anekāni śivena samadhiṣṭhitā ॥ 401 ॥ 
 
-Above the Śiva Principle is the supreme power called the Equal One (Samanā); it is the agent, governed by Śiva, of all the (universal) causes, and sustains countless cosmic eggs." (400cd-401) (400-401ab) 
+Above the Śiva Principle is the supreme power called the Equal One (Samanā); it is the agent, governed by Śiva, of all[^1061] the (universal) causes, and sustains countless cosmic eggs.[^1062] (400cd-401) (400-401ab) 
 
 #### Viveka on 8.400–401
 
-‘Above the Śiva Principle’ means above the world of Anāśrita, which is located on the plane of the Pervasive One. (Note that) the use of the term ‘principle’ (tattva) to denote a world is not without precedent here, because we see the same usage in such (passages as): ‘(the world of the Point) is called the Principle of the Point . . . ’' ‘It is the agent’ because it is the power of action. 
+‘Above the Śiva Principle’ means above the world of Anāśrita, which is located on the plane of the Pervasive One. (Note that) the use of the term ‘principle’ (tattva) to denote a world is not without precedent here, because we see the same usage in such (passages as): ‘(the world of the Point) is called the Principle of the Point . . . ’[^1063] ‘It is the agent’ because it is the power of action. 
 
-1058\. SYT 11/31 1cd-312.
+[^1058]: SYT 11/31 1cd-312.
 
-1059\. See below, 8/403cd.
+[^1059]: See below, 8/403cd.
 
-1060\. SVT 11/28-29ab.
+[^1060]: SVT 11/28-29ab.
 
-1061\. «AIl refers, according to Kṣemarāja, to ‘(the deities) beginning with Ananta and ending with Anāśrita’ SvTu 10/1257.
+[^1061]: «AIl refers, according to Kṣemarāja, to ‘(the deities) beginning with Ananta and ending with Anāśrita’ SvTu 10/1257.
 
-1062\. 400cd is a paraphrase of SvT 10/1256bc. 401 is a literal quote of SvT 10/1257cd- 1258ab.
+[^1062]: 400cd is a paraphrase of SvT 10/1256bc. 401 is a literal quote of SvT 10/1257cd- 1258ab.
 
-1063\. SvT 10/1219a.
+[^1063]: SvT 10/1219a.
 
 
 *[p. 373]* ^pg391
@@ -1279,7 +1293,7 @@ Now he clarifies the nature of its foundation.
 तदारूढः शिवः कृत्यपञ्चकं कुरुते प्रभुः ।
 tadārūdhaḥ śivaḥ kṛtyapañcakami kurute prabhuḥ | 
 
-Mounted on that, Śiva, the Lord, performs the five cosmic functions (of creation and the rest). (402ab) (401cd) 
+Mounted on that, Śiva, the Lord, performs the five cosmic functions (of creation and the rest).[^1064] (402ab) (401cd) 
 
 #### Viveka on 8.401
 
@@ -1292,7 +1306,7 @@ Surely, (one may ask,) how does He perform (the functions of) creation and the r
 समना करणं तस्य हेतुकर्तर्महेशितुः ॥ ४०२ ॥
 samanā karaṇari tasya hetukartur maheśituḥ ॥ 402 ॥ 
 
-She, the Equal One, is the instrument (through which He performs his functions). He, the Great Lord, is the cause of (all) the (attendant) causes (hetukartr). "< (402cd) (402ab) 
+She, the Equal One, is the instrument (through which He performs his functions). He, the Great Lord, is the cause of (all) the (attendant) causes (hetukartr).[^1065] (402cd) (402ab) 
 
 #### Viveka on 8.402
 
@@ -1305,20 +1319,20 @@ Surely, invariably (sarvatra), the causal status of an agent depends on another 
 Anāśrita Presides Over the Five Causes अनाचरितं तु व्यापारे निमित्तं हेतुरुच्यते ।
 anāśritaṁ tu vyāpāre nimittańn hetur ucyate | 
 
-1064\. Abbreviation of SvT 10/1258cd-1259ab.
+[^1064]: Abbreviation of SvT 10/1258cd-1259ab.
 
-1065\. \[illegible\] Abbreviation of SvT 10/1260-1261ab. The expression hetukartr literally means the agent of (the attendant) causes’. The expression ‘hetukartṛtva’ occurs in Parākhya 3/13cd: na yāti ccchinnamūlo ‘sau sudūrāyātavastuvat tena taddhetukartṛtvaṁ śivasya paramatmanaḥ || ‘Just like anything that come from a great distance (and that must nevertheless have had an original starting point), this (awakening knowledge) cannot spread devoid of a root. Therefore, Śiva, the supreme soul, is its creating cause’. Goodall translates here hetukartṛtva as ‘creating cause’. Cf. also Kirana 7/4.
+[^1065]: \[illegible\] Abbreviation of SvT 10/1260-1261ab. The expression hetukartr literally means the agent of (the attendant) causes’. The expression ‘hetukartṛtva’ occurs in Parākhya 3/13cd: na yāti ccchinnamūlo ‘sau sudūrāyātavastuvat tena taddhetukartṛtvaṁ śivasya paramatmanaḥ || ‘Just like anything that come from a great distance (and that must nevertheless have had an original starting point), this (awakening knowledge) cannot spread devoid of a root. Therefore, Śiva, the supreme soul, is its creating cause’. Goodall translates here hetukartṛtva as ‘creating cause’. Cf. also Kirana 7/4.
 
 
 *[p. 374]* ^pg392
 
-Anāśrita is said to be a cause within the (the Lord’s cosmic) activity (vyāpāra), in the sense that he is an instrumental cause (nimitta) (of the creative process and nothing more). (403ab) (402cd) 
+Anāśrita[^1066] is said to be a cause within the (the Lord’s cosmic) activity (vyāpāra), in the sense that he is an instrumental cause (nimitta) (of the creative process and nothing more). (403ab) (402cd) 
 
 #### Viveka on 8.402 (2)
 
-(The Lord’s) ‘activity’ is the act of creation and the rest. Here, that same supreme Lord (Parameśvara), out of His own (spontaneous) freedom initially manifesting Himself as the Void (śūnya), (then) unfolds as Anāśrita and the rest. Thus, because He does not depend (on anything else to do so,) pure, ultimately real agency is His alone, whereas the agency of Anāśrita and the rest is based on that. As such (Anāśrita’s) field (of activity) is (the many) diverse phenomena that are (its) effects (bhinnakārya), and is metaphorically said to be impure. So it is that by His will Anāśrita and the rest create etc. Thus, because he is not directly responsible for it, there (in that case) he is just an instrumental (intermediary) cause, just as learning (secondarily) leads to fame. So it is said that "€ is an instrumental cause (of the creative process and nothing more)’. As he says: 
+(The Lord’s) ‘activity’ is the act of creation and the rest. Here, that same supreme Lord (Parameśvara), out of His own (spontaneous) freedom initially manifesting Himself as the Void (śūnya),[^1067] (then) unfolds as Anāśrita and the rest. Thus, because He does not depend (on anything else to do so,) pure, ultimately real agency is His alone, whereas the agency of Anāśrita and the rest is based on that. As such (Anāśrita’s) field (of activity) is (the many) diverse phenomena that are (its) effects (bhinnakārya), and is metaphorically said to be impure. So it is that by His will Anāśrita and the rest create etc. Thus, because he is not directly responsible for it, there (in that case) he is just an instrumental (intermediary) cause, just as learning (secondarily) leads to fame. So it is said that "€ is an instrumental cause (of the creative process and nothing more)’. As he says: 
 
-‘Anāśrita is said to be a cause within the (the Lord’s cosmic) activity, in the sense that he is an instrumental cause (nimitta) (of the creative process and nothing more)" 
+‘Anāśrita[^1068] is said to be a cause within the (the Lord’s cosmic) activity, in the sense that he is an instrumental cause (nimitta) (of the creative process and nothing more)" 
 
 ### TĀ 8.403
 
@@ -1327,7 +1341,7 @@ tayādhitiṣthati vibhuḥ kāranānāṁ tu pañcakam I| 403 ॥
 
 It is by means of this (power) that the All-pervasive Lord presides 
 
-over the five causes." (403cd) (403ab) 
+over the five causes.[^1069] (403cd) (403ab) 
 
 #### Viveka on 8.403
 
@@ -1347,18 +1361,18 @@ sa vyāpinaṁ prerayati svaśaktyā karanena tu || 404 ॥
 karmarūpā sthitā māyā yad adhaḥ śaktikundalī |
 nādabindvātmakari bindvādikaṁ kāryam ityādijagadudbhavaḥ || 405 ॥ 
 
-1066\. Read with MS 0 anāśritas for anāśritaṁ.
+[^1066]: Read with MS 0 anāśritas for anāśritaṁ.
 
-1067\. See above, 6/10 and note.
+[^1067]: See above, 6/10 and note.
 
-1068\. Read with MS G anāśritas for anāśritaṁ.
+[^1068]: Read with MS G anāśritas for anāśritaṁ.
 
-1069\. Paraphrase of SvT 10/1260cd.
+[^1069]: Paraphrase of SvT 10/1260cd.
 
 
 *[p. 375]* ^pg393
 
-(The five causes are): Anāśritaą, Anātha, Ananta, Khavapuṣ (Vyomātman) and Vyāpin." (Each one) impels (the subsequent one) by means of his own power, as the instrument (of his activity). Māyā abides in the form (of this cosmic) action (karmarūpā), as the Kuṇdalinī of power in its lowered state (adhahśaktikundalī). Its products begin with the Sound and the Point. Such is the beginning of the arising of the cosmic order (jagat). (404-405) (403cd-405ab) 
+(The five causes are): Anāśritaą, Anātha, Ananta, Khavapuṣ (Vyomātman) and Vyāpin.[^1070] (Each one) impels (the subsequent one) by means of his own power, as the instrument (of his activity). Māyā abides in the form (of this cosmic) action (karmarūpā), as the Kuṇdalinī of power in its lowered state (adhahśaktikundalī). Its products begin with the Sound and the Point.[^1071] Such is the beginning of the arising of the cosmic order (jagat).[^1072] (404-405) (403cd-405ab) 
 
 #### Viveka on 8.403–405
 
@@ -1374,11 +1388,11 @@ This much of the universe should indeed be abandoned. Thus, he says:
 yat sadāśivaparyantaṁi pārthivādyaṁ ca Sasane |
 tat sarvaṁ prākṛtaṁ proktaṁ vināśotpattisarṁyutam | 406 ॥ 
 
-According to (this) teaching, everything" from Earth up to Śadāśiva is said to be Nature (prākṛta) and is subject to creation and 
+According to (this) teaching, everything[^1073] from Earth up to Śadāśiva is said to be Nature (prākṛta) and is subject to creation and 
 
 destruction. 
 
-TM\* (406) (405cd-406ab) 
+[^1074] (406) (405cd-406ab) 
 
 #### Viveka on 8.405–406
 
@@ -1386,15 +1400,15 @@ Here (in this case), Sadāśiva is Anāśrita, and Nature (prakṛti) is the Equ
 
 Having defined in this way two things to be known (prameya), namely, the extent of the worlds and (their) association with the metaphysical principles, he begins to indicate the (next) subject, which is a summary of the worlds. 
 
-1070\. \[illegible\] See above, 8/397cd-399.
+[^1070]: \[illegible\] See above, 8/397cd-399.
 
-1071\. Read with SvT-bindvātmakaṁ for —bindvādikari.
+[^1071]: Read with SvT-bindvātmakaṁ for —bindvādikari.
 
-1072\. Verse 404 is a paraphrase of SvT 10/1261cd-1263ab and 405 is a literal citation of SvT 10/1263cd-1264ab. SvT reads -bindvātmakaṁ for —bindvādikaṁ.
+[^1072]: Verse 404 is a paraphrase of SvT 10/1261cd-1263ab and 405 is a literal citation of SvT 10/1263cd-1264ab. SvT reads -bindvātmakaṁ for —bindvādikaṁ.
 
-1073\. Read tat sarvaṁ for tatsarvaṁ.
+[^1073]: Read tat sarvaṁ for tatsarvaṁ.
 
-1074\. \[illegible\] This verse is a direct citation of SvT 10/1264cd-1265ab. SvT reads suvrate for sāsane.
+[^1074]: \[illegible\] This verse is a direct citation of SvT 10/1264cd-1265ab. SvT reads suvrate for sāsane.
 
 
 *[p. 376]* ^pg394
@@ -1412,7 +1426,7 @@ yan mahyari nigaditaṁ nijair gurubhiḥ \\ tad vakṣyate samāsād
 
 buddhau yenāśu saṁkrāmet || 407 ॥ 
 
-I will now declare in brief the extent of all the worlds as my venerable teacher has taught me, so that it may be quickly transmitted to the intellect.” (407) (406cd-407ab) 
+I will now declare in brief the extent of all the worlds as my venerable teacher[^1075] has taught me, so that it may be quickly transmitted to the intellect.[^1076] (407) (406cd-407ab) 
 
 #### Viveka on 8.406–407
 
@@ -1430,14 +1444,14 @@ rudrāḥ śata savīram
 
 bahir nivṛttis tu sāṣtaśatabhuvanā syāt || 408 ॥ 
 
-Within the Egg are Ananta,” Kālāgni, Kūṣmāṇqda, Hāṭaka, (Śiva), Brahmā, Viṣṇu and (Rudra). Outside it are the hundred Rudras, along with Vīrabhadra (their lord). (Thus, the energy of) Completion (Nivṛtti) consists of one hundred and eight worlds.” (408) (407cd-408ab) 
+Within the Egg are Ananta,[^1077] Kālāgni, Kūṣmāṇqda, Hāṭaka, (Śiva), Brahmā, Viṣṇu and (Rudra). Outside it are the hundred Rudras, along with Vīrabhadra (their lord). (Thus, the energy of) Completion (Nivṛtti) consists of one hundred and eight worlds.[^1078] (408) (407cd-408ab) 
 
 #### Viveka on 8.407–408
 
-1075\. Below in 8/453ab (452cd), Abhinava tells us that he learnt this cosmology from his Trika teacher Śambhunātha. Thus, it is clear that the plural here is an honorific plural. Abhinava did not learn this from many teachers.
+[^1075]: Below in 8/453ab (452cd), Abhinava tells us that he learnt this cosmology from his Trika teacher Śambhunātha. Thus, it is clear that the plural here is an honorific plural. Abhinava did not learn this from many teachers.
 
-1076\. What follows is a list of the worlds and, grouped into the five spheres of Forces (kalā), the third of the Six Paths. It appears that Abhinava himself has made this summary. But even though he adds nothing to what has been said, all of which is meticulously justified by reference to scripture, quoted and paraphrased, he feels it necessary to stress at this point that even the summary is not a product of his imagination. He is, after all, dealing here with his data, which he orders in this way. It is not his explanation.
+[^1076]: What follows is a list of the worlds and, grouped into the five spheres of Forces (kalā), the third of the Six Paths. It appears that Abhinava himself has made this summary. But even though he adds nothing to what has been said, all of which is meticulously justified by reference to scripture, quoted and paraphrased, he feels it necessary to stress at this point that even the summary is not a product of his imagination. He is, after all, dealing here with his data, which he orders in this way. It is not his explanation.
 
-1077\. There is a problem here. Jayaratha, following the SvT and supported by Kṣemarāja, spent a great deal of space at the beginning of the presentation to establish that Ananta is outside, below the Egg of Brahmā. According to the SvT, he is amongst the hundred Rudras, surrounded by ten of them outside the Egg. In chapter seven of the Tantrasāra, Abhinava quotes the same passage from chapter five of the MV, as he quotes below. The account in the Mataṅga does not mention Ananta. It begins with Kālāgni within the Egg (TĀ 8/428cd-429ab). The same is the case with the account drawn from the MV. That also begins with Kālāgni (TĀ 8/438).
+[^1077]: There is a problem here. Jayaratha, following the SvT and supported by Kṣemarāja, spent a great deal of space at the beginning of the presentation to establish that Ananta is outside, below the Egg of Brahmā. According to the SvT, he is amongst the hundred Rudras, surrounded by ten of them outside the Egg. In chapter seven of the Tantrasāra, Abhinava quotes the same passage from chapter five of the MV, as he quotes below. The account in the Mataṅga does not mention Ananta. It begins with Kālāgni within the Egg (TĀ 8/428cd-429ab). The same is the case with the account drawn from the MV. That also begins with Kālāgni (TĀ 8/438).
 
-1078\. TA 8/408d (408b) is based on SvT 4/102.
+[^1078]: TA 8/408d (408b) is based on SvT 4/102.

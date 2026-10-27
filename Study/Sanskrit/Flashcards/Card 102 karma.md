@@ -17,6 +17,8 @@ nyasa: "ka: right shoulder (*skandha*) 路 ra: blood (*rakta*) 路 ma: heart (*h峁
 
 **Card 102 of 108** (printed: Card 3-42 路 Alpha 31) 路 word
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** 啶曕ぐ啷嵿ぎ

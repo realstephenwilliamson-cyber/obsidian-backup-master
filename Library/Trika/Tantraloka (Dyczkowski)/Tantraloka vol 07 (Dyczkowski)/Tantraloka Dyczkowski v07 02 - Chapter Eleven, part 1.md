@@ -889,7 +889,7 @@ matar caitan maheśasya śrīpūrve yad abhāṣata |
 dhārikāpyāyinī boddhrī pavitrī cāvakāśadā || 33 ॥
 ebhiḥ śabdair vyavaharan nivṛttyāder nija vapuḥ | 
 
-This is also the view of the Great Lord Himself, which he professes in the Śrīpūrva (Mālinīvijayottara), with the words: ‘the Sustaining One’ (dhārikā), ‘the Nourishing One’ (apyāyanī), ‘the Enlightening One’ (boddhrī), ‘the Sanctifying One’ (pavitrī), and ‘the Bestower of Space’ (avakāśadā), that are terms which refer to the essential nature (nijaṁ vapuḥ) of Cessation (Nivṛtti) and the other (Forces, in due order). (33- 34ab) 
+This is also the view of the Great Lord Himself, which he professes in the Śrīpūrva (Mālinīvijayottara), with the words: ‘the Sustaining One’ (dhārikā), ‘the Nourishing One’ (apyāyanī), ‘the Enlightening One’ (boddhrī), ‘the Sanctifying One’ (pavitrī), and ‘the Bestower of Space’ (avakāśadā), that are terms which refer to the essential nature (nijaṁ vapuḥ) of Cessation (Nivṛtti) and the other (Forces, in due order). (33-34ab) 
 
 #### Viveka on 11.33–34
 
@@ -1014,7 +1014,7 @@ anyāntarbhāvanātaś ca dīkṣānantavibhedabhāk |
 
 *[p. 37]* ^pg57
 
-There are countless types of initiation, according to the predominant application (upayoga) (of the Path), wherever (within it) the worldly enjoyment (bhoga) (the disciple) desires (is found)” and also because of the inclusion of other (realities) contemplated within it. (38cd- 39ab) 
+There are countless types of initiation, according to the predominant application (upayoga) (of the Path), wherever (within it) the worldly enjoyment (bhoga) (the disciple) desires (is found)” and also because of the inclusion of other (realities) contemplated within it. (38cd-39ab) 
 
 #### Viveka on 11.38–39
 
@@ -1190,7 +1190,7 @@ Thus, its essential nature is also just reflective awareness, as is that of the 
 
 Having described in this way the nature of the Paths of Pada and Mantra as differing from one another as gross and subtle, respectively, he describes the Path of the Phonemes as supreme. 
 
-95\. ĪP 1/5/1 lab. Only the first line is quoted here. It is quoted in full above in TĀv ad 2/31cd-32ab (32) and ad 4/184, and the first quarter below ad 16/249cd-251ab (250- 251).
+95\. ĪP 1/5/1 lab. Only the first line is quoted here. It is quoted in full above in TĀv ad 2/31cd-32ab (32) and ad 4/184, and the first quarter below ad 16/249cd-251ab (250-251).
 
 96\. No statement of this kind is found in the printed edition of the MV. We know that the printed edition of the MV is not complete, as there are several references that are clearly identified as being from there, but cannot be traced in it. However, although Jayaratha understands Abhinava to be referring to the MV as Trikaśāsana, he does not supply a reference from there to confirm that, as he normally would. Thus, it seems that he too could not find one. It is not unlikely that he is mistaken. There are at least two places where Trikaśāsana does certainly mean MV (see 10/277b and 30/24b). But this not invariably so. Abhinava quotes from a certain Trikaśāsana in 4/274cd-275ab, but this verse or its equivalents is not found in the printed edition of the MV. In his commentary, Jayaratha quotes two verses from this source, without identifying it, but these also cannot be traced in the MV. Nor is the subject to which they refer found there. However, there can be no doubt that Abhinava is referring to a specific Trika Tantra. There is a third, more general sense in which this expression is used. For example, below we read that: ‘He who knows the pervasive extent (vyāpti) of this (Trika) mandala, the deposition of the deities (within it) and (how to) draw it, is a (true) teacher in the Trika teachings (trikaśāsana). (31/50cd-51ab) In this case, the expression ‘frikasāsana’, which literally means ‘Trika teaching’, is clearly a way of referring to the Trika school or tradition in general. It is analogous to the expression ‘sivaśāsana’, which denotes Āgamic Śaivism in general as Śiva’s teachings. We may exclude the possibility that this is the meaning here, as Abhinava clearly says that this is a specific reference. Thus, it appears that Trikaśāsana here refers to an important, representative Trika Tantra, such as the lost Trikasāra.
 

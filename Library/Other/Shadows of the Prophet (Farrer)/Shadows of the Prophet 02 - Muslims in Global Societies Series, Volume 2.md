@@ -4,7 +4,7 @@ work: "[[Farrer - Shadows of the Prophet]]"
 book: "[[Library/Other/Shadows of the Prophet (Farrer)/Shadows of the Prophet (Farrer)|Shadows of the Prophet (Farrer)]]"
 order: 2
 source_pdf: Library/Other/Farrer - Shadows of the Prophet (2009).pdf
-page_range: "2"
+page_range: ""
 pdf_pages: 2–2
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

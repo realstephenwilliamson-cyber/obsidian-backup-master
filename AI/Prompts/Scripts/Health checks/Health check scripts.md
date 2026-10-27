@@ -1,6 +1,6 @@
 ---
 type: prompt
-updated: 2026-10-21
+updated: 2026-10-26
 ---
 # Health check scripts
 
@@ -17,6 +17,7 @@ Read-only jobs from phase 8 of the October 2026 plan (14 Oct 2026), kept so that
 | `reference-evidence.js` | For every row of [[Bible references to decide later]] (sections 1–2): the line with its links removed, the reference as the [[Reference linker]] parses it, the already-linked head of a list, and the candidate verses with their text (Hebrew as printed, English converted, LXX, NRSVue, Douay-Rheims). Loads `b3core.js` and `versif-eng.json` from `AI/Prompts/Scripts/Reference linker/` | `.work/out/s85a2-decide-prep.json` |
 | `guide-numbers.js` | The numbers the Guide and Welcome state: catalog notes by kind (Markdown copy, PDF only, print, text), sizes by kind, what a remote vault would carry with the 14 Oct Sync settings, note counts, whether the folders the Guide names exist | `.work/out/s86j-numbers.json` |
 | `plain-audit.js` | A line-for-line port of an audit script another model wrote (sizes, largest files, empty and orphan notes, YAML keys, folders by count). Its "broken wikilinks" and "tags" sections are artifacts of its own parsing (it strips everything after a note name's last dot, and counts `#3207` as a tag); Obsidian's own figures come from `health-counts.js`. Its `pname` follows Windows pathlib, so a table link `[[X\|label]]` is read as X (fixed 14 Oct 2026; before that the port reported false orphans and unlinked files) | `.work/out/vault_audit_report.txt` and `.work/out/s84c-gemini-audit-lists.json` |
+| `long-paths.js` (26 Oct 2026) | Every file whose full Windows path (`C:\Vaults\Obsidian Vault\` and the path inside the vault) is 240 characters or more, longest first, and how many are over 259, where Windows and the Git backup stop (house rule 7). Run it after renames, or when a Git commit fails with *Filename too long* | `.work/out/long-paths.json` |
 
 The runner needs `.work/out/` and `.work/queue/done/` to exist; create them with `app.vault.adapter.mkdir` if a phase-end clean-up removed them. The runner line to paste after an Obsidian restart is in the [[House rules for AI work|house rules]] (*The job runner*) and in the project's progress doc (07).
 

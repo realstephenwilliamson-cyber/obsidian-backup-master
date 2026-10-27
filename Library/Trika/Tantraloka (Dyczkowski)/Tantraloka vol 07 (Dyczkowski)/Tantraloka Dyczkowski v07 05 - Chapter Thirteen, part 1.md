@@ -38,7 +38,7 @@ In order to discern either who is qualified here (to receive initiation and prac
 
 Surely (one may ask), others have talked about the discernment (of differences in the degrees) of the descent of the power (of grace). So what is the use of that here? (Our reply is,) yes, that is so, (but) not having accepted that, and (found) the defects (in the views of others concerning this), we will present our own view (siddhānta). Thus, he says: 
 
-270?\. MV 2/25, also quoted in TĀv ad 1/226cd-227ab (227), ad 5/155cd-156ab (154cd- 155ab), and ad 34/3; read, as in the other places, saṁvittiphalabhedo for samvidi phalabhedo.
+270?\. MV 2/25, also quoted in TĀv ad 1/226cd-227ab (227), ad 5/155cd-156ab (154cd-155ab), and ad 34/3; read, as in the other places, saṁvittiphalabhedo for samvidi phalabhedo.
 
 271?\. Somadeva (2004: 386): ‘In the Trika of the Mālinīvijayottara, which offers a plethora of equally liberating means (upāya), the existence of more advanced or quicker methods does not however invalidate the ‘lower’ teachings, since not all practitioners are considered to be equally qualified, competent, or even inclined to take up certain practices.”
 
@@ -398,7 +398,7 @@ Ignorance as Total Absence of Knowledge is Refuted
 na kiñcid yasya vijñānam udapādi tathāvidhaḥ || 17 ॥
 nānṇur asti bhave hy asminn anādau ko ‘nvayari kramaḥ | 
 
-There is no individual soul of this kind in this beginningless world of transmigration that, like an (empty) boat, has ever been totally devoid of knowledge. What sense (anvaya) (then is there in affirming this)? (17cd- 18ab) 
+There is no individual soul of this kind in this beginningless world of transmigration that, like an (empty) boat, has ever been totally devoid of knowledge. What sense (anvaya) (then is there in affirming this)? (17cd-18ab) 
 
 #### Viveka on 13.17–18
 

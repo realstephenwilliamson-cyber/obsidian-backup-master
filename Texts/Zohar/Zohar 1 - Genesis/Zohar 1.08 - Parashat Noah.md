@@ -1068,7 +1068,7 @@ Rabbi Ḥiyya said, “By implication, all depends on the word of the mouth.[^81
 
 [^77]: ***For all flesh had corrupted their way...*** The verse concludes: *upon earth*. Immorality, especially sexual sin, contaminates the earth. The phrase *corrupted their way upon earth* is elsewhere interpreted as referring to masturbation (spilling seed on earth) or crossbreeding.
 
-    See BT *Sanhedrin* [[Sanhedrin 108#108a|108a]]; *Bereshit Rabbah* 28:8; *Kallah Rabbati* 2; *Pirqei de-Rabbi Eli’ezer* 22; Rashi on BT *Shabbat* [[Shabbat 41#41a|41a]], s.v. *ke-illu mevi mabbul la-olam; Zohar* 1:56b–57a, 61b–62a, 69a. Cf. *Sanhedrin* [[Sanhedrin 57#57a|57a]]; *Bereshit Rabbah* 26:4.
+    See BT *Sanhedrin* [[Sanhedrin 108#108a|108a]]; *Bereshit Rabbah* 28:8; *Kallah Rabbati* 2; *Pirqei de-Rabbi Eli’ezer* 22; Rashi on BT *Shabbat* [[Shabbat 41#41a|41a]], s.v. *ke-illu mevi mabbul la-olam; Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-56b|1:56b–57a]], [[Zohar 1.08 - Parashat Noah#^z1-61b|61b–62a]], [[Zohar 1.08 - Parashat Noah#^z1-69a|69a]]. Cf. *Sanhedrin* [[Sanhedrin 57#57a|57a]]; *Bereshit Rabbah* 26:4.
 
 [^78]: **they thrust *Shekhinah* out of the world...** See BT *Ḥagigah* [[Chagigah 16#16a|16a]]: “Rabbi Yitsḥak said, ‘Whoever sins secretly, it is as if he thrusts away the feet of *Shekhinah*.’” Cf. *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-57a|1:57a]]–b, [[Zohar 1.08 - Parashat Noah#^z1-69a|69a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-84b|84b]].
 
@@ -1152,7 +1152,7 @@ Rabbi Ḥiyya said, “By implication, all depends on the word of the mouth.[^81
 
 [^106]: ***for all flesh had corrupted their way...*** Human immorality, especially sexual sin, contaminates earth. Rabbi Shim’on understands the expression דרכו‎ השחית (*hishḥit darko*), *corrupted their way*, as an allusion to masturbation.
 
-    See *Kallah Rabbati* 2, citing [[Torah 09 - Vayeshev#^38-9|Genesis 38:9]]: ארצה‎ שחת (*shiḥet artsah*), *he* \[Onan\] *wasted* \[his seed\] *on the ground* (or: *let it go to ruin*). Cf. *Pirqei de-Rabbi Eli’ezer* 22; *Bereshit Rabbah* 26:4, 31:7; Rashi on BT *Shabbat* [[Shabbat 41#41a|41a]], s.v. *ke-illu mevi mabbul la-olam; Zohar* 1:56b–57a, 69a.
+    See *Kallah Rabbati* 2, citing [[Torah 09 - Vayeshev#^38-9|Genesis 38:9]]: ארצה‎ שחת (*shiḥet artsah*), *he* \[Onan\] *wasted* \[his seed\] *on the ground* (or: *let it go to ruin*). Cf. *Pirqei de-Rabbi Eli’ezer* 22; *Bereshit Rabbah* 26:4, 31:7; Rashi on BT *Shabbat* [[Shabbat 41#41a|41a]], s.v. *ke-illu mevi mabbul la-olam; Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-56b|1:56b–57a]], [[Zohar 1.08 - Parashat Noah#^z1-69a|69a]].
 
     In the world of the *Zohar*, masturbation is a heinous sin. See 1:188a, 219b; Moses de León, *Shushan Edut*, 353; Tishby, *Wisdom of the Zohar*, 3:1365–66. Cf. BT *Niddah* [[Niddah 13#13a|13a]]: “Rabbi Yitsḥak and Rabbi Ammi said, ‘\[Whoever emits semen fruitlessly\] is as though he sheds blood.’”
 
@@ -1304,7 +1304,7 @@ Rabbi Ḥiyya said, “By implication, all depends on the word of the mouth.[^81
 
 [^157]: ***The sons of Elohim saw the human daughters...*** The verse reads: *The sons of Elohim saw how beautiful the human daughters were, and they took themselves wives, whomever they chose*. The myth behind this fragment in Genesis appears in postbiblical sources describing angels who rebelled against God and descended from heaven to earth, where they were attracted by mortal women.
 
-    See [[Isaiah 14#^14-12|Isaiah 14:12]]; 1 Enoch 6–8; Jubilees 5; BT *Yoma* [[Yoma 67#67b|67b]]; *Aggadat Bereshit*, intro, 39; *Midrash Avkir*, 7 (cited in *Yalqut Shim’oni*, Genesis, 44); *Pirqei de-Rabbi Eli’ezer* 22; *Zohar* [[Zohar 1.023a|1:23a]] (*TZ*), 37a, 37a (*Tos*), 58a, 126a; 3:208a–b, 212a–b; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-81a|81a]]–b (*MhN, Rut*); *Targum Yerushalmi*, [[Torah 01 - Bereshit#^6-2|Genesis 6:2]]; Ginzberg, *Legends*, 5:153-56, n. 57.
+    See [[Isaiah 14#^14-12|Isaiah 14:12]]; 1 Enoch 6–8; Jubilees 5; BT *Yoma* [[Yoma 67#67b|67b]]; *Aggadat Bereshit*, intro, 39; *Midrash Avkir*, 7 (cited in *Yalqut Shim’oni*, Genesis, 44); *Pirqei de-Rabbi Eli’ezer* 22; *Zohar* [[Zohar 1.023a|1:23a]] (*TZ*), [[Zohar 1.07 - Parashat Be-Reshit#^z1-37a|37a]], [[Zohar 12.12 - Passages (Mis)Labeled as Tosefta#^z1-37a|37a]] (*Tos*), [[Zohar 1.07 - Parashat Be-Reshit#^z1-58a|58a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-126a|126a]]; [[Zohar 9.10 - Commentary on Balaq, continued#^z3-208a|3:208a–b]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-212a|212a–b]]; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-81a|81a]]–b (*MhN, Rut*); *Targum Yerushalmi*, [[Torah 01 - Bereshit#^6-2|Genesis 6:2]]; Ginzberg, *Legends*, 5:153-56, n. 57.
 
 [^158]: **This was the foundation, the root of their persistent sinning...** The generation of the Flood, descended from the lustful union of angels with mortal women, persisted in the ancestral sin. Thereby they rejected *Shekhinah*, known as קדישא‎ מהימנותא (*meheima-nuta qaddisha*), the realm of “holy faith.”
 
@@ -1326,7 +1326,7 @@ Rabbi Ḥiyya said, “By implication, all depends on the word of the mouth.[^81
 
 [^167]: **Accuser of the world** See the description of Satan’s itinerary in BT *Bava Batra* [[Bava Batra 16#16a|16a]]: “He descends and seduces, ascends and arouses wrath, obtains authorization, and seizes the soul.”
 
-    See Rashi on BT *Shabbat* [[Shabbat 89#89a|89a]], s.v. *ba ha-satan; Zohar* 1:10b, 46b, 125a, 148a (*ST*), 152b; 2:33b, 268b.
+    See Rashi on BT *Shabbat* [[Shabbat 89#89a|89a]], s.v. *ba ha-satan; Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-10b|1:10b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-46b|46b]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-125a|125a]], [[Zohar 11.09 - Sitrei Torah#^z1-148a|148a]] (*ST*), [[Zohar 2.06 - Parashat Va-Yetse#^z1-152b|152b]]; [[Zohar 4.05 - Parashat Bo#^z2-33b|2:33b]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-268b|268b]].
 
 [^168]: ***As for you, go on till the end; you will rest, and arise*** The verse continues: *for your share at the end of days*. See *Eikhah Rabbah* 2:6; *Pesiqta de-Rav Kahana* 17:5.
 
@@ -1456,7 +1456,7 @@ Rabbi Ḥiyya said, “By implication, all depends on the word of the mouth.[^81
 
 [^217]: ***the raging waters*** The full verse reads: *Then over us would have swept the raging waters*. See *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-64b|2:64b]].
 
-[^218]: **In order to overpower them... the holy name...** The four species symbolize the four letters of the name יהוה (*YHVH*), perhaps as follows: myrtle, י; willow, ה; *lulav*, ו; citron, ה. See *OY; MM; Zohar* 1:220b. Brandishing these species, Israel vanquishes the seventy princes. See *Pesiqta de-Rav Kahana* 27:2.
+[^218]: **In order to overpower them... the holy name...** The four species symbolize the four letters of the name יהוה (*YHVH*), perhaps as follows: myrtle, י; willow, ה; *lulav*, ו; citron, ה. See *OY; MM; Zohar* [[Zohar 8.04 - Parashat Emor#^z1-220b|1:220b]]. Brandishing these species, Israel vanquishes the seventy princes. See *Pesiqta de-Rav Kahana* 27:2.
 
 [^219]: **to arouse holy water upon us, to pour upon the altar** As mentioned above (note 211), in the Temple on the last six days of *Sukkot*, water was drawn and poured as a libation on the altar. Here the water symbolizes the flow of emanation stimulated by Israel’s ritual of the four species. This flow pours down upon *Shekhinah*, symbolized by the altar.
 
@@ -1638,7 +1638,7 @@ Rabbi Ḥiyya said, “By implication, all depends on the word of the mouth.[^81
 
 [^296]: **A virtuous human being is an actual offering of atonement** See BT *Mo’ed Qatan* 28a: “Rabbi Ammi said, ‘Just as the red heifer atones \[by the ritual use of its ashes\], so does the death of the righteous atone.’” Cf. *Vayiqra Rabbah* 20:12; BT *Shabbat* [[Shabbat 33#33b|33b]]; *Zohar* [[Zohar 4.05 - Parashat Bo#^z2-36b|2:36b]], [[Zohar 4.05 - Parashat Bo#^z2-38b|38b]], [[Zohar 2.269a|269a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-9b|3:9b]], [[Zohar 9.11 - Parashat Pinehas#^z3-218a|218a–b]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-12c|12c–d]] (*MhN*).
 
-    According to one tradition, souls of the righteous are offered by the archangel Michael on a heavenly altar. See *Tosafot, Menaḥot* 110a, s.v. *u-mikha’el; Zohar* 1:80a (*ST*); *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-21a|21a]] (*MhN*).
+    According to one tradition, souls of the righteous are offered by the archangel Michael on a heavenly altar. See *Tosafot, Menaḥot* 110a, s.v. *u-mikha’el; Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-80a|1:80a]] (*ST*); *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-21a|21a]] (*MhN*).
 
 [^297]: **while another is not** One unvirtuous is not.
 
@@ -1842,7 +1842,7 @@ Rabbi Ḥiyya said, “By implication, all depends on the word of the mouth.[^81
 
 [^384]: **sin of the covenant** Sexual sin, which betrays the covenant, provoking divine jealousy.
 
-[^385]: **ruining their ways upon earth** The phrase *ruined their way upon earth* ([[Torah 02 - Noach#^6-11|Genesis 6:11]]) is elsewhere interpreted as referring to masturbation (spilling seed on earth) or crossbreeding. See BT *Sanhedrin* [[Sanhedrin 108#108a|108a]]; *Bereshit Rabbah* 28:8; *Kallah Rabbati* 2; *Pirqei de-Rabbi Eli’ezer* 22; Rashi on BT *Shabbat* [[Shabbat 41#41a|41a]], s.v. *ke-illu mevi mabbul la-olam; Zohar* 1:56b–57a, 61a–62a, 68a.
+[^385]: **ruining their ways upon earth** The phrase *ruined their way upon earth* ([[Torah 02 - Noach#^6-11|Genesis 6:11]]) is elsewhere interpreted as referring to masturbation (spilling seed on earth) or crossbreeding. See BT *Sanhedrin* [[Sanhedrin 108#108a|108a]]; *Bereshit Rabbah* 28:8; *Kallah Rabbati* 2; *Pirqei de-Rabbi Eli’ezer* 22; Rashi on BT *Shabbat* [[Shabbat 41#41a|41a]], s.v. *ke-illu mevi mabbul la-olam; Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-56b|1:56b–57a]], [[Zohar 1.08 - Parashat Noah#^z1-61a|61a–62a]], [[Zohar 1.08 - Parashat Noah#^z1-68a|68a]].
 
 [^386]: **even though they robbed one another...** See BT *Sanhedrin* [[Sanhedrin 108#108a|108a]]: “Rabbi Yoḥanan said, ‘Come and see how great is the power of robbery! For the generation of the Flood violated everything, yet their decree of punishment was sealed only when they stretched out their hands to rob, as is written: *For the earth is filled with violence because of them; here, I am about to destroy them along with the earth* ([[Torah 02 - Noach#^6-13|Genesis 6:13]]).’”
 
@@ -1866,7 +1866,7 @@ Rabbi Ḥiyya said, “By implication, all depends on the word of the mouth.[^81
 
 [^395]: **We have learned: מזמור‎ לדוד** (***Le-David mizmor***), ***Of David, a psalm...A psalm of David..*.** These titles, whose precise meaning is unclear, alternate in Psalms. The interpretation formulated here reverses the rabbinic version in BT *Pesaḥim* [[Pesachim 117#117a|117a]]: “מזמור‎ לדוד (*Le-David mizmor*), *To David, a psalm*, indicates that *Shekhinah* dwelled upon him and then he exclaimed a song. לדוד‎ מזמור (*Mizmor le-David*), *A psalm, to David*, indicates that he exclaimed a song and then *Shekhinah* dwelled upon him.” (The preposition ל \[*le*\] can mean either “of” or “to”.) In Rabbi Yehudah’s revision, *psalm* becomes a name of *Shekhinah*, who is adorned by human song, so the wording *Le-David mizmor* (*Of David, a psalm*) refers first to David and then to *Shekhinah* (Holy Spirit), known as *psalm*.
 
-    See *Midrash Tehillim* 24:1; Rashi on [[Psalms 023#^23-1|Psalms 23:1]]; Jacob bar Sheshet, *Meshiv Devarim Nekhoḥim*, 92; Todros Abulafia, *Sha’ar ha-Razim*, 48; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]]; 2:50a, 140a, 170a.
+    See *Midrash Tehillim* 24:1; Rashi on [[Psalms 023#^23-1|Psalms 23:1]]; Jacob bar Sheshet, *Meshiv Devarim Nekhoḥim*, 92; Todros Abulafia, *Sha’ar ha-Razim*, 48; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-50a|2:50a]], [[Zohar 5.05 - Parashat Terumah#^z2-140a|140a]], [[Zohar 5.05 - Parashat Terumah#^z2-170a|170a]].
 
 [^396]: ***Her fullness* is *Shekhinah*, as is said: *For the Presence..*.** *Shekhinah*, the Divine Presence, filled the Tabernacle in the Desert (*the Dwelling*) and the Temple in Jerusalem (*the house of YHVH*).
 
@@ -1968,7 +1968,7 @@ Rabbi Ḥiyya said, “By implication, all depends on the word of the mouth.[^81
 
     See BT *Sanhedrin* [[Sanhedrin 108#108a|108a]]: “*For all flesh had corrupted their way upon earth*. Rabbi Yoḥanan said, ‘This teaches that they mated beasts with animals, animals with beasts— all of them with humans, and humans with all of them.’”
 
-    Rabbi Shim’on understands the biblical expression דרכו‎ השחית (*hishḥit darko*), *corrupted their way*, as an allusion to sexual sin. See *Kallah Rabbati 2*, citing [[Torah 09 - Vayeshev#^38-9|Genesis 38:9]]: ארצה‎ שחת \[*shiḥet artsah*\], *he* \[Onan\] *wasted* \[his seed\] *on the ground* (or: *let it go to ruin*). Cf. *Pirqei de-Rabbi Eli’ezer* 22; *Bereshit Rabbah* 26:4, 31:7; Rashi on BT *Shabbat* [[Shabbat 41#41a|41a]], s.v. *ke-illu mevi mabbul la-olam; Zohar* 1:56b–57a, 62a, 69a.
+    Rabbi Shim’on understands the biblical expression דרכו‎ השחית (*hishḥit darko*), *corrupted their way*, as an allusion to sexual sin. See *Kallah Rabbati 2*, citing [[Torah 09 - Vayeshev#^38-9|Genesis 38:9]]: ארצה‎ שחת \[*shiḥet artsah*\], *he* \[Onan\] *wasted* \[his seed\] *on the ground* (or: *let it go to ruin*). Cf. *Pirqei de-Rabbi Eli’ezer* 22; *Bereshit Rabbah* 26:4, 31:7; Rashi on BT *Shabbat* [[Shabbat 41#41a|41a]], s.v. *ke-illu mevi mabbul la-olam; Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-56b|1:56b–57a]], [[Zohar 1.08 - Parashat Noah#^z1-62a|62a]], [[Zohar 1.08 - Parashat Noah#^z1-69a|69a]].
 
 [^440]: **seeking to contravene the act of Creation** By intermingling species that had been created distinctly.
 
@@ -2028,7 +2028,7 @@ Rabbi Ḥiyya said, “By implication, all depends on the word of the mouth.[^81
 
 [^468]: **wherever they went She descended...** See BT *Megillah* [[Megillah 29#29a|29a]]: “Rabbi Shim’on son of Yoḥai says, ‘Come and see how beloved are Israel in the sight of the blessed Holy One! Wherever they went in exile, *Shekhinah* accompanied them. When they were exiled to Egypt, *Shekhinah* was with them.... When they were exiled to Babylon, *Shekhinah* was with them.... And even when they are destined to be redeemed, *Shekhinah* will be with them.’” See *Mekhilta, Pisḥa* 14.
 
-[^469]: **wasting one’s way on earth...** The biblical expression דרכו‎ השחית (*hishḥit darko*), *corrupted their way*, is interpreted as an allusion to masturbation. See *Kallah Rabbati* 2, citing [[Torah 09 - Vayeshev#^38-9|Genesis 38:9]]: ארצה‎ שחת \[*shiḥet artsah*\], *he* \[Onan\] *wasted* \[his seed\] *on the ground*. Cf. *Pirqei de-Rabbi Eli’ezer* 22; *Bereshit Rabbah* 26:4, 31:7; Rashi on BT *Shabbat* [[Shabbat 41#41a|41a]], s.v. *ke-illu mevi mabbul la-olam; Zohar* 1:56b–57a, 62a.
+[^469]: **wasting one’s way on earth...** The biblical expression דרכו‎ השחית (*hishḥit darko*), *corrupted their way*, is interpreted as an allusion to masturbation. See *Kallah Rabbati* 2, citing [[Torah 09 - Vayeshev#^38-9|Genesis 38:9]]: ארצה‎ שחת \[*shiḥet artsah*\], *he* \[Onan\] *wasted* \[his seed\] *on the ground*. Cf. *Pirqei de-Rabbi Eli’ezer* 22; *Bereshit Rabbah* 26:4, 31:7; Rashi on BT *Shabbat* [[Shabbat 41#41a|41a]], s.v. *ke-illu mevi mabbul la-olam; Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-56b|1:56b–57a]], [[Zohar 1.08 - Parashat Noah#^z1-62a|62a]].
 
     In the world of the *Zohar*, masturbation is a heinous sin. See 1:188a, 219b; Moses de León, *Shushan Edut*, 353; Tishby, *Wisdom of the Zohar*, 3:1365–66. Cf. BT *Niddah* [[Niddah 13#13a|13a]]: “Rabbi Yitsḥak and Rabbi Ammi said, ‘\[Whoever emits semen fruitlessly\] is as though he sheds blood.’”
 
@@ -2154,7 +2154,7 @@ Rabbi Ḥiyya said, “By implication, all depends on the word of the mouth.[^81
 
 [^522]: **even though ‘אשה** (***ishsheh***)... **is intended for אישים** (***ishim***)... See *Sifra, Vayiqra, dibbura dindavah* 6:9, 7c: “אשה (*Ishsheh*): for the sake of אישים (*ishshim*), fire-offerings \[i.e., not for the sake of charring the flesh\].” See M *Zevaḥim* 4:6; BT *Zevaḥim* [[Zevachim 46#46b|46b]].
 
-    Here the child understands אישים as *ishim*, “angelic personages,” who also benefit from the sacrifice. See *Sifrei Zuta*, [[Torah 41 - Pinchas#^28-2|Numbers 28:2]]; *Midrash Zuta*, [[Song of Songs 1#^1-15|Song of Songs 1:15]]; *Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-81a|1:81a]] (*ST*), 164a–b; 2:43a; 3:110a (*RM*), 258b. (On this class of angels, see Maimonides, *Mishneh Torah, Hilkhot Yesodei ha-Torah* 2:7.) The child’s point is that even though the word *ishsheh* has been interpreted in earlier sources, his new reading is also valid.
+    Here the child understands אישים as *ishim*, “angelic personages,” who also benefit from the sacrifice. See *Sifrei Zuta*, [[Torah 41 - Pinchas#^28-2|Numbers 28:2]]; *Midrash Zuta*, [[Song of Songs 1#^1-15|Song of Songs 1:15]]; *Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-81a|1:81a]] (*ST*), [[Zohar 2.06 - Parashat Va-Yetse#^z1-164a|164a–b]]; [[Zohar 12.06 - Piqqudin#^z2-43a|2:43a]]; 3:110a (*RM*), [[Zohar 9.11 - Parashat Pinehas#^z3-258b|258b]]. (On this class of angels, see Maimonides, *Mishneh Torah, Hilkhot Yesodei ha-Torah* 2:7.) The child’s point is that even though the word *ishsheh* has been interpreted in earlier sources, his new reading is also valid.
 
 [^523]: **the blessed Holy One cast him in the sphere of the male...** God modeled the righteous Noah on the masculine *sefirah* of *Yesod* (known as Righteous One), so the offering that Noah brought had to be male: an ascent-offering.
 
@@ -2572,7 +2572,7 @@ Rabbi Ḥiyya said, “By implication, all depends on the word of the mouth.[^81
 
 [^695]: **One said... the other said...** Both views derive from *Pirqei de-Rabbi Eli’ezer* 23: “Noah found a vine that had been banished from the Garden of Eden along with its clusters. He took of its fruit and ate and desired them in his heart. He planted a vineyard with it. That same day its fruit flourished... He drank of its wine and was exposed in the tent....”
 
-    See 3 Baruch 4:8–17; Origen, *Selecta*, [[Torah 02 - Noach#^9-20|Genesis 9:20–21]]; *Targum Yerushalmi*, [[Torah 02 - Noach#^9-20|Genesis 9:20]]; *Tanḥuma* (Buber), *Noaḥ 20; Zohar* 1:140b; *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-22c|22c]] (*MhN*).
+    See 3 Baruch 4:8–17; Origen, *Selecta*, [[Torah 02 - Noach#^9-20|Genesis 9:20–21]]; *Targum Yerushalmi*, [[Torah 02 - Noach#^9-20|Genesis 9:20]]; *Tanḥuma* (Buber), *Noaḥ 20; Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-140b|1:140b]]; *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-22c|22c]] (*MhN*).
 
     Noah’s sin resembles the sin of Adam, who, according to Rabbi Yehudah son of Il’ai and Rabbi Me’ir, ate from a vine. See *Bereshit Rabbah* 15:7; BT *Sanhedrin* [[Sanhedrin 70#70a|70a]]; Apocalypse of Abraham 23:6.
 

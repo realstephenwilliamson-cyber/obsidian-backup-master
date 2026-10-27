@@ -388,7 +388,7 @@ In the same way, this (world, which is immanent) Being (sat) (S)[^734] that is r
 
 *[p. 287]* ^pg300
 
-externally) it is emitted outside it (H) due to that (and from it).” (186cd- 188ab) 
+externally) it is emitted outside it (H) due to that (and from it).” (186cd-188ab) 
 
 #### Viveka on 4.186–188
 
@@ -523,7 +523,7 @@ consciousness’, because it burns the fuel which is all things. (This means tha
 
 761\. Read layc ca for \* \* ca.
 
-762\. The letter E is represented by a downward facing triangle. It is the seed of the Yoni, and consists of the three energies of will, knowledge and action held together in the oneness of the energy of the freedom of consciousness (see above, 3/94ab-94cd (94cd- 95ab)). Notice that the letter AU of the seed-syllable of Parā also contains these three primary energies, but they are in the forward order of emanation — will, knowledge and action — whereas here in the letter E, they are in the reverse order of withdrawal.
+762\. The letter E is represented by a downward facing triangle. It is the seed of the Yoni, and consists of the three energies of will, knowledge and action held together in the oneness of the energy of the freedom of consciousness (see above, 3/94ab-94cd (94cd-95ab)). Notice that the letter AU of the seed-syllable of Parā also contains these three primary energies, but they are in the forward order of emanation — will, knowledge and action — whereas here in the letter E, they are in the reverse order of withdrawal.
 
 763\. This is the order of withdrawal, that is, the one which corresponds to the process within consciousness. In his commentary on the next line, Jayaratha quotes the Kramastotra as an authority that attests that the seed-syllable KHPHREM is meant in the reverse order.
 

@@ -878,7 +878,7 @@ Thus, all this Path, having come to rest within consciousness, is established (t
 
 Well then, how is it that the Path, which has form and is successive (and temporal), is present within consciousness, which is formless and devoid of succession? With this question in mind, he says: 
 
-78\. “The Lords of the Qualities’ may be the Rudras who reside in the worlds of the Qualities of Nature mentioned ad 6/148cd-149ab (148) and also ad 6/153cd-155ab (153- 154). Or else they may be the three lines of teachers who are said to reside in the Qualities (below 6/261-262 (260cd-262ab). Alternatively, one could consider emending guneśvarāḥ — ‘the Lords of the Qualities’ to the nondescript ganeśvarāḥ — ‘the Lords of the Hosts’. Indeed, one could consider emending to that reading.
+78\. “The Lords of the Qualities’ may be the Rudras who reside in the worlds of the Qualities of Nature mentioned ad 6/148cd-149ab (148) and also ad 6/153cd-155ab (153-154). Or else they may be the three lines of teachers who are said to reside in the Qualities (below 6/261-262 (260cd-262ab). Alternatively, one could consider emending guneśvarāḥ — ‘the Lords of the Qualities’ to the nondescript ganeśvarāḥ — ‘the Lords of the Hosts’. Indeed, one could consider emending to that reading.
 
 
 *[p. 249]* ^pg264

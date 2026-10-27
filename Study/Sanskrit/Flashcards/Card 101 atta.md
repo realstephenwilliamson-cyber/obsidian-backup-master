@@ -17,6 +17,8 @@ nyasa: "a: forehead (*lalāṭa*) · ṭa: right hip (*kaṭi*)"
 
 **Card 101 of 108** (printed: Card 3-41 · Alpha 3) · word
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** अट्ट

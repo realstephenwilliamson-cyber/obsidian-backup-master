@@ -1165,7 +1165,7 @@ O queen of the gods, once that has been eaten, the (spiritual) families of the o
 cf. tasmin bhoktari deveśi dātuḥ kulaśatāny api |
 aSv eva parimucyante narakād yātanārṇavāt | 
 
-O queen of the gods, hundreds of (spiritual) families (kula) of the giver (of food) to the enjoyer in that (sacrifice), are quickly liberated from hell, the ocean of suffering.’ (61cd- 62ab) = TĀ 28/71 
+O queen of the gods, hundreds of (spiritual) families (kula) of the giver (of food) to the enjoyer in that (sacrifice), are quickly liberated from hell, the ocean of suffering.’ (61cd-62ab) = TĀ 28/71 
 
 This is a good example of the many instances where we observe how Abhinava emends the deviant Sanskrit of his source to the correct standard form. 
 

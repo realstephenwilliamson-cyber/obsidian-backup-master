@@ -216,7 +216,7 @@ Rabbi Yitsḥak replied, “Certainly, a *song*. Just as \[287b\] a song is draw
 
 [^28]: **as King David and King Solomon…** Who both knew the “crown” of *Shekhinah* well. Yet they each referred to Her metaphorically, concealing Her official sefirotic name: *Malkhut*. David referred to the moon (that is, *Shekhinah*) as Righteousness; and he described Her partner (*Yesod*, or *Tif’eret* and *Yesod*) as משפט (*mishpat*), “Justice.” *Yesod*, the divine phallus, is often associated with the covenant of circumcision, and accordingly it is called here My Covenant.
 
-    *Shekhinah* and Her partner represent Thrones of Glory for *Binah*, who is pictured as the King. The verse from [[Psalms 089#^89-1|Psalm 89]] alludes to them as *righteousness and justice*. On this verse, see *Zohar* [[Zohar 5.04 - Sava de-Mishpatim#^z2-122a|2:122a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-59b|3:59b]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-73b|73b]], [[Zohar 8.03 - Parashat Qedoshim#^z3-85b|85b]] 291b (*IZ*).
+    *Shekhinah* and Her partner represent Thrones of Glory for *Binah*, who is pictured as the King. The verse from [[Psalms 089#^89-1|Psalm 89]] alludes to them as *righteousness and justice*. On this verse, see *Zohar* [[Zohar 5.04 - Sava de-Mishpatim#^z2-122a|2:122a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-59b|3:59b]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-73b|73b]], [[Zohar 8.03 - Parashat Qedoshim#^z3-85b|85b]] [[Zohar 9.15 - Idra Zuta#^z3-291b|291b]] (*IZ*).
 
     *Yesod* is also known as Righteous One, and He shares a single rung with His partner, Righteousness (*Shekhinah*). On *Yesod* as Righteous One, see above, p. 38, n. 105. On Righteous One and Righteousness, see above, p. 86, n. 93.
 

@@ -551,7 +551,7 @@ buffaloes. If the queen of Sheba had taken one maiden from King Solomon, when sh
 
 1305\. I told you when the Cossacks pursued the Jews in Poland, as soon as they crossed the Dniester the Jews sneered at them; so is that thing with you. I took you so that you would follow me step by step, traveling with me from Lwów to Warsaw, then I pulled you on so you would come forth from those boundaries you had first been behind to my borders, so the pursuers would no longer be able to follow and touch you, for one kingdom may not enter another.<sup>1571</sup> But when I saw that you went about in Warsaw while pretending to me, and that was not the road of God, I had to keep silent; even though I forbade you and grew angry with you and that was because you were still under the authority of the pursuers; but I only thought to myself: perhaps I can save you and you would listen to me, only you didn't listen, then I pushed you away and you are still under their authority.
 
-156\. Cf [[Proverbs 24#^24-5|Prv 24.5]]; [[Zohar 10.10 - Parashat Shemot#^z2-14b|Zohar 2.14b]], 3.136a (*idra rabba*)
+156\. Cf [[Proverbs 24#^24-5|Prv 24.5]]; [[Zohar 10.10 - Parashat Shemot#^z2-14b|Zohar 2.14b]], [[Zohar 8.09 - Idra Rabba#^z3-136a|3.136a]] (*idra rabba*)
 
 157\. [[Torah 10 - Miketz#^42-13|Gen 42.13]]
 

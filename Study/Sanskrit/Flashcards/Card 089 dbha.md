@@ -17,6 +17,8 @@ nyasa: "da: left foot (*pāda*) · bha: belly (*jaṭhara*)"
 
 **Card 89 of 108** (printed: Card 3-29 · Alpha 65) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** द्भ

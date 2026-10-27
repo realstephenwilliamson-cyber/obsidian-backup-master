@@ -342,7 +342,7 @@ He (now) states the essence of what needs to be done.
 अनुग्राह्यस्त्वया शिष्याः शिवशक्तिप्रचोदिताः ।
 anugrāhyās tvayā śiṣyāḥ śivaśaktipracoditāḥ | 
 
-(The teacher should address Śiva saying): “(these are) the disciples who, impelled by Śiva’s power, are worthy of being graced by You.” (17cd- 20ab) 
+(The teacher should address Śiva saying): “(these are) the disciples who, impelled by Śiva’s power, are worthy of being graced by You.” (17cd-20ab) 
 
 #### Viveka on 23.17–20
 
@@ -425,7 +425,7 @@ One should take care to observe (pālayet) the seven sacrifices. These are 1) in
 
 ### TĀ 23.23–24
 
-In the course of the rite of consecration, (the teacher) should entrust the learned (disciple) with the entire aggregate of ritual implements, such as the (sacrificial) knife and the chalk (khatikā) (to draw the sacred diagrams), and so forth. After that the (newly) consecrated (teacher) should worship (his) teacher by (offering him) the sacrificial fee (dakṣinā). (23cd- 24) 
+In the course of the rite of consecration, (the teacher) should entrust the learned (disciple) with the entire aggregate of ritual implements, such as the (sacrificial) knife and the chalk (khatikā) (to draw the sacred diagrams), and so forth. After that the (newly) consecrated (teacher) should worship (his) teacher by (offering him) the sacrificial fee (dakṣinā). (23cd-24) 
 
 #### Viveka on 23.23–24
 
@@ -902,7 +902,7 @@ The sense (of saying) ‘repeatedly’ is that here (in this case) also, (the si
 
 753?\. Or one could translate ‘by means of this gradual system of yoga’
 
-754?\. TĀ 23/51cd-55 is an explanatory paraphrase of MV 18/57cd-66ab. Here Jayaratha is quoting MV 18/57cd-58ab, 59cd-60ab, 64cd-65ab, 62cd-63ab, 65cd-66ab, in this order. A translation of MV 18/57cd-66ab is as follows. The parts in italics are quoted here by Jayaratha: ‘(If the disciple has) taken knowledge (jñāna) in a proper (honest) way (nyāyena) (but) subsequently fails to understand it, the wise (teacher) should then take (that) knowledge away (from him). (57cd-58ab) Having imagined him to be before him and having placed (him there) in accord with his own nature, (the teacher who) knows yoga, should deposit the path of six kinds onto his body in as taught before. (58cd-59ab) Then, having observed that flame (dīpa) (which is the disciple’s soul) and laid hold of it, he should, with his mind well concentrated, lead (that) radiant energy (tejas) gradually from the tip of (his disciple’s) toe to the End of the Twelve. (59cd-60ab) Then (the teacher), having thought that he has become one there with Śiva, should imagine (dhyāyet) there the form of darkness (ramorīpa) that obscures (the disciple’s soul). (The power Vāmā) falling by that (same) path, reaches the tip of the big toes (of the disciple). He should imagine (the darkness) inside and outside (to be black) like dense collyrium. (60cd-62ab) By this procedure (vidhi) the knowledge, mantras and vidyās etc. of this foolish and wicked (disciple are now no longer of any) help (to him). (62cd-63ab) Although (the erring disciple may be absent and) not seen (directly), he is perceived to some extent due to the directed attention (abhisandhi) (of the teacher’s) mind, and (so) is always (subject to) injury (and disdain). (63cd-64ab) Or else, having imagined the light of the solar orb to be before him (shining in his unfaithful disciple), (the teacher) should sever it. He should then think that it is devoured by a power in the form of Rāhu (svarbhānu). (64cd-65ab) (Only the teacher) who is very angry because of the thousands of sins (his disciple has committed) should make use of this procedure. Certainly not in order to play (a game). (65cd- 66ab)
+754?\. TĀ 23/51cd-55 is an explanatory paraphrase of MV 18/57cd-66ab. Here Jayaratha is quoting MV 18/57cd-58ab, 59cd-60ab, 64cd-65ab, 62cd-63ab, 65cd-66ab, in this order. A translation of MV 18/57cd-66ab is as follows. The parts in italics are quoted here by Jayaratha: ‘(If the disciple has) taken knowledge (jñāna) in a proper (honest) way (nyāyena) (but) subsequently fails to understand it, the wise (teacher) should then take (that) knowledge away (from him). (57cd-58ab) Having imagined him to be before him and having placed (him there) in accord with his own nature, (the teacher who) knows yoga, should deposit the path of six kinds onto his body in as taught before. (58cd-59ab) Then, having observed that flame (dīpa) (which is the disciple’s soul) and laid hold of it, he should, with his mind well concentrated, lead (that) radiant energy (tejas) gradually from the tip of (his disciple’s) toe to the End of the Twelve. (59cd-60ab) Then (the teacher), having thought that he has become one there with Śiva, should imagine (dhyāyet) there the form of darkness (ramorīpa) that obscures (the disciple’s soul). (The power Vāmā) falling by that (same) path, reaches the tip of the big toes (of the disciple). He should imagine (the darkness) inside and outside (to be black) like dense collyrium. (60cd-62ab) By this procedure (vidhi) the knowledge, mantras and vidyās etc. of this foolish and wicked (disciple are now no longer of any) help (to him). (62cd-63ab) Although (the erring disciple may be absent and) not seen (directly), he is perceived to some extent due to the directed attention (abhisandhi) (of the teacher’s) mind, and (so) is always (subject to) injury (and disdain). (63cd-64ab) Or else, having imagined the light of the solar orb to be before him (shining in his unfaithful disciple), (the teacher) should sever it. He should then think that it is devoured by a power in the form of Rāhu (svarbhānu). (64cd-65ab) (Only the teacher) who is very angry because of the thousands of sins (his disciple has committed) should make use of this procedure. Certainly not in order to play (a game). (65cd-66ab)
 
 
 *[p. 322]* ^pg342
@@ -1045,7 +1045,7 @@ sa tu devo hi gurur na ca mṛṣāvidaḥ ॥ 63 ॥
 tata eva ca śāstrādidūṣako yady api krudhā |
 na dahyate ‘sau gurunā tathāpy eṣa tirohitaḥ ॥ 64 ॥ 
 
-The teacher is indeed God Himself; his knowledge is not false. Thus, although one who transgresses the scriptures etc. is not (struck and) burnt by the teacher’s anger, even so (his consciousness) is obscured. (63cd- 64) 
+The teacher is indeed God Himself; his knowledge is not false. Thus, although one who transgresses the scriptures etc. is not (struck and) burnt by the teacher’s anger, even so (his consciousness) is obscured. (63cd-64) 
 
 #### Viveka on 23.63–64
 
@@ -1231,7 +1231,7 @@ tādṛksvabhyastavijñānabhājordhvapadaśālinā ॥ 74 ॥
 anuddhṛtasya na śreya etad anyagurūddhṛteḥ |
 ata evāmbujanmārkadṛṣtṭānto ‘tra nirūpitaḥ ॥ 75 ॥ 
 
-If he is not rescued by (his original teacher,) who has (access) to the upper plane and is endowed with that kind of well-exercised knowledge, but is rescued by some other teacher, it is of no use to him. Thus, the example of the sun and the lotus is described here (in this regard).” (74cd- 75) 
+If he is not rescued by (his original teacher,) who has (access) to the upper plane and is endowed with that kind of well-exercised knowledge, but is rescued by some other teacher, it is of no use to him. Thus, the example of the sun and the lotus is described here (in this regard).” (74cd-75) 
 
 #### Viveka on 23.74–75
 

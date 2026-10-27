@@ -16,11 +16,11 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[A Source Book in Chinese 01 - Front matter|Front matter (Front matter, This Page Intentionally Left Blank, CHINESE PHILOSOPHY, TO GREGG M)]] (pp. 1–6)
-- [[A Source Book in Chinese 02 - Foreword, Preface, Acknowledgments, Chronology of Dynasties and Chronology of Philosophers|Foreword, Preface, Acknowledgments, Chronology of Dynasties and Chronology of Philosophers]] (pp. 7–18)
-- [[A Source Book in Chinese 03 - Contents|Contents]] (pp. 19–26)
-- [[A Source Book in Chinese 04 - Blank page|Blank page]] (pp. 27)
-- [[A Source Book in Chinese 05 - Abbreviations and Chapters 1-2, The Growth of Humanism - The Humanism of Confucius|Abbreviations and Chapters 1–2, The Growth of Humanism – The Humanism of Confucius]] (pp. 28–40)
+- [[A Source Book in Chinese 01 - Front matter|Front matter (Front matter, This Page Intentionally Left Blank, CHINESE PHILOSOPHY, TO GREGG M)]] (PDF 1–6)
+- [[A Source Book in Chinese 02 - Foreword, Preface, Acknowledgments, Chronology of Dynasties and Chronology of Philosophers|Foreword, Preface, Acknowledgments, Chronology of Dynasties and Chronology of Philosophers]] (pp. vi–xvii)
+- [[A Source Book in Chinese 03 - Contents|Contents]] (pp. xviii–xxv)
+- [[A Source Book in Chinese 04 - Blank page|Blank page]] (pp. xxvi)
+- [[A Source Book in Chinese 05 - Abbreviations and Chapters 1-2, The Growth of Humanism - The Humanism of Confucius|Abbreviations and Chapters 1–2, The Growth of Humanism – The Humanism of Confucius]] (pp. 1–40)
 - [[A Source Book in Chinese 06 - 2. The Humanism of Confucius (end) and 3. Idealistic Confucianism, Mencius|2. The Humanism of Confucius (end) and 3. Idealistic Confucianism: Mencius]] (pp. 41–80)
 - [[A Source Book in Chinese 07 - Chapter 3 (end), Chapters 4-6, Moral and Social Programs - Naturalistic Confucianism|Chapter 3 (end), Chapters 4–6, Moral and Social Programs – Naturalistic Confucianism]] (pp. 81–120)
 - [[A Source Book in Chinese 08 - 6. Naturalistic Confucianism, Hsun Tzu (end) and 7. The Natural Way of Lao Tzu|6. Naturalistic Confucianism: Hsün Tzu (end) and 7. The Natural Way of Lao Tzu]] (pp. 121–160)

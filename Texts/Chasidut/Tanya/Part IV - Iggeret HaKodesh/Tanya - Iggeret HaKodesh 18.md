@@ -49,7 +49,7 @@ Also, of this yearning and of this love concealed in us we pray to G–d to aid 
 [^5]: [[Psalms 097#^97-12|Psalms 97:12]].
 [^6]: The righteous [in the sense of saints] (see *Likkutei Amarim*, Part I, for the meaning of this term, esp. chs. 1, 10, 14, 35).
 [^7]: It is the love attained by the *tzaddikim* only.—See *Chovot Halevovot*, *Shaar Ahavat Hashem*, ch. 4; *Likkutei Amarim*, Author’s Introduction to Part II.
-[^8]: See *Zohar* [[Zohar 7.05 - Parashat Shemini#^z3-39a|III:39a]]; ibid., 88b and [[Zohar 9.06 - Parashat Qorah#^z3-177b|177b]], in the light of *Zohar* II:25b. Cf. also *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-57a|II:57a]], and see *Sefer Hamaamarim 5710*, pp. 4 ff. and 54 ff.
+[^8]: See *Zohar* [[Zohar 7.05 - Parashat Shemini#^z3-39a|III:39a]]; ibid., 88b and [[Zohar 9.06 - Parashat Qorah#^z3-177b|177b]], in the light of *Zohar* [[Zohar 4.04 - Parashat Va-Era#^z2-25b|II:25b]]. Cf. also *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-57a|II:57a]], and see *Sefer Hamaamarim 5710*, pp. 4 ff. and 54 ff.
 [^9]: (The service of) the priest is with the devotion of the heart.
 [^10]: [[Torah 38 - Korach#^18-7|Numbers 18:7]].
 [^11]: I.e., a service (*avodah*) which comes by way of a gift. See comment. of Rashi and Nachmanides, ad loc. See *Likkutei Amarim*, Part I, ch. 14.
@@ -58,7 +58,7 @@ Also, of this yearning and of this love concealed in us we pray to G–d to aid 
 [^14]: Brackets appear in the text.
 [^15]: Awe and bashfulness before the Majesty of G–d (as contrasted with the lower level of the dread of the punishment of G–d; see ref. cited above, note 2); cf. *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-11b|I:11b]]; Maimonides, *Hilchot Yesodei HaTorah* 11:2 and 4:12; *Ikkarim* 3:32.
 [^16]: See *Chovot Halevovot*, *Shaar Ahavat Hashem*, Intro., ch. 3, and end of ch. 4.
-[^17]: The way of a man [i.e., love; according to [[Psalms 098#^98-3|Psalms 98:3]]: זכר חסדו—reading זכר (male) for זכר (remembered)] to search for a woman [i.e., fear, awe; according to [[Proverbs 31#^31-30|Proverbs 31:30]]: אשה יראת ה’; cf. *Zohar* [[Zohar 3.027a|III:27a]]].—*Kiddushin* [[Kiddushin 2#2b|2b]]; see next note.—Love, thus, comes where awe is to be found already. Cf. *Zohar* III:145a-b.
+[^17]: The way of a man [i.e., love; according to [[Psalms 098#^98-3|Psalms 98:3]]: זכר חסדו—reading זכר (male) for זכר (remembered)] to search for a woman [i.e., fear, awe; according to [[Proverbs 31#^31-30|Proverbs 31:30]]: אשה יראת ה’; cf. *Zohar* [[Zohar 3.027a|III:27a]]].—*Kiddushin* [[Kiddushin 2#2b|2b]]; see next note.—Love, thus, comes where awe is to be found already. Cf. *Zohar* [[Zohar 8.09 - Idra Rabba#^z3-145a|III:145a-b]].
 [^18]: *Likkutei Amarim*, Part I, ch. 43. See also *Likkutei Torah*, *Va’etchanan* 7d; *Siddur Im Dach* 188a.
 [^19]: The inferior type: *ahavah zuta*.
 [^20]: [[I Samuel 25#^25-29|I Samuel 25:29]]. See *Likkutei Torah*, *Shelach* 51d (and references, ad loc.); below, Epistle 29.

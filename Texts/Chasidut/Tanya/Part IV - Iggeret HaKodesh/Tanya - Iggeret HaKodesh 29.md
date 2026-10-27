@@ -129,7 +129,7 @@ They all are the aspect of the manifestation of the will of the Supreme One, ble
 [^53]: See Mishnah, *Shabbat* 7:2.
 [^54]: [[Proverbs 01#^1-8|Proverbs 1:8]].
 [^55]: See *Zohar* II:276b. See also ibid. [[Zohar 6.06 - Parashat Pequdei#^z2-238b|238b]], and cf. ibid. [[Zohar 4.07 - Parashat Yitro#^z2-85a|85a]]. (This verse is explicitly interpreted thus, in *Midrash Mishlei* 1:8.)
-[^56]: See *Zohar* III:93a; cf. *Niddah* [[Niddah 31#31a|31a]].
+[^56]: See *Zohar* [[Zohar 8.04 - Parashat Emor#^z3-93a|III:93a]]; cf. *Niddah* [[Niddah 31#31a|31a]].
 [^57]: See ref. cited above, note 55, and *Yalkut Shimoni* on Proverbs (ad loc.; sect. 929).
 [^58]: See ref. cited above, note 30.
 [^59]: See above, Epistle 15, note 9.

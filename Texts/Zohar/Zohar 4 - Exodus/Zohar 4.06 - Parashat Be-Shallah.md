@@ -1574,7 +1574,7 @@ Rabbi Yitsḥak said, “From דיורא (*diyyura*), habitation, below to habit
 
 [^109]: **why is it written: *Out of my straits*…** The verse reads: לי‎ מצרה (*Mi-tsarah li*), *Out of my distress, I called to YHVH and He answered me; from the belly of Sheol I cried, and You heard my voice*. The word צרה (*tsarah*), *distress*, derives from צר (*tsar*), “narrow.” The point here is the contradiction between Jonah’s complaint of distress and his supposed spaciousness.
 
-    According to [[Jonah 2#^2-1|Jonah 2:1]], *Jonah was in the belly of the fish three days and three nights*. Here, Rabbi Yehudah indicates that the fish died because it was unable to endure Jonah’s presence in his belly for that long. See *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-121a|1:121a]]; 2:199b.
+    According to [[Jonah 2#^2-1|Jonah 2:1]], *Jonah was in the belly of the fish three days and three nights*. Here, Rabbi Yehudah indicates that the fish died because it was unable to endure Jonah’s presence in his belly for that long. See *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-121a|1:121a]]; [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-199b|2:199b]].
 
 [^110]: **דג (*dag*)… דגה (*dagah*)…** The masculine and feminine forms of the word meaning “fish.” The first appears in [[Jonah 2#^2-1|Jonah 2:1]]: *YHVH provided a large* דג (*dag*), *fish, to swallow Jonah*. The second appears in 2:2: *Jonah prayed to YHVH his God from the belly of* הדגה (*ha-dagah*), *the fish*. This feminine form, *dagah*, is understood here as implying that the fish had died, based on the fact that this same form appears in the verse in Exodus describing the death of the fish in the Nile during the first of the ten plagues (blood).
 
@@ -1586,7 +1586,7 @@ Rabbi Yitsḥak said, “From דיורא (*diyyura*), habitation, below to habit
 
 [^113]: **revived that fish…** Implied, as it were, by the masculine form in [[Jonah 2#^2-11|Jonah 2:11]]: *YHVH spoke* לדג (*la-dag*), *to the fish, and it vomited Jonah onto dry land*.
 
-    See above, note 110; *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-121a|1:121a]]; 2:199b.
+    See above, note 110; *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-121a|1:121a]]; [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-199b|2:199b]].
 
 [^114]: **the place to which he was bound…** *Shekhinah*, who is known as אלהים (*Elohim*), God. She is joined to *Tif’eret*, who is known as יהוה (*YHVH*).
 
@@ -1654,7 +1654,7 @@ Rabbi Yitsḥak said, “From דיורא (*diyyura*), habitation, below to habit
 
     On *Shekhinah* as “bed” and *bed of Solomon*, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-37a|1:37a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-225b|225b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-248b|248b]]; [[Zohar 10.10 - Parashat Shemot#^z2-5a|2:5a]] (*MhN*), [[Zohar 4.04 - Parashat Va-Era#^z2-30a|30a–b]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-51a|51a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-60a|3:60a]], [[Zohar 8.06 - Parashat Be-Huqqotai#^z3-114a|114a]], [[Zohar 8.07 - Parashat Be-Midbar#^z3-118b|118b]]; Moses de León, *Sefer ha-Rimmon*, 370. Cf. BT *Shabbat* [[Shabbat 55#55b|55b]], where it is said that Jacob kept a bed in his tent for *Shekhinah*. See Rashi on [[Torah 12 - Vayechi#^49-4|Genesis 49:4]]. According to the eleventh-century Catholic reformer Peter Damian, Mary is the golden couch upon which God, tired out by the actions of humanity and the angels, lies down to rest. See Patai, *The Hebrew Goddess*, 280.
 
-    The full verse in Proverbs, warning against the seductive *strange woman*, reads: *Her feet descend to death; her steps grasp Sheol*. In the *Zohar* this verse is sometimes applied to the demonic realm (*Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-161b|1:161b]] \[*ST*\], 190a) and sometimes to *Shekhinah* (1:35b; 3:107b).
+    The full verse in Proverbs, warning against the seductive *strange woman*, reads: *Her feet descend to death; her steps grasp Sheol*. In the *Zohar* this verse is sometimes applied to the demonic realm (*Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-161b|1:161b]] \[*ST*\], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-190a|190a]]) and sometimes to *Shekhinah* (1:35b; 3:107b).
 
     On *Shekhinah* as the Tree of Death, see above, note 15. On the relation between *Shekhinah* and the demonic realm, see Scholem, *On the Mystical Shape of the Godhead*, 189–92; Tishby, *Wisdom of the Zohar*, 1:376–79; Patai, *The Hebrew Goddess*, 249, 251–54.
 
@@ -1670,7 +1670,7 @@ Rabbi Yitsḥak said, “From דיורא (*diyyura*), habitation, below to habit
 
     The “supernal, holy living being” apparently refers to *Shekhinah*, as often in the *Zohar* (see below at note 146). Several commentators see a reference to *Tif’eret* (whose full name is *Tif’eret Yisra’el*, “Beauty of Israel”), alluded to in the preceding paragraph. See *OY*; Galante; *MM*; Scholem; *Midrash Konen* (*Beit ha-Midrash*, 2:39); and Schäfer, *Synopse zur Hekhalot-Literatur*, § 406: “There is one *ḥayyah* (living being) there whose name is Israel.” Cf. *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-4b|2:4b]] (*MhN*).
 
-    On *Shekhinah* as “living being,” see Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 508–9; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|1:12b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-16a|16a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-21a|21a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-46b|46b–47a]], [[Zohar 3.06 - Parashat Va-Yiggash#^z1-211a|211a]] (Vol. 3, p. 297–98, n. 205), 242a; 2:126a, 242a; 3:39b, 46b; *ZḤ* 9b (*MhN*); Moses de León, *Sefer ha-Rimmon*, 51; idem, Commentary on the Ten *Sefirot*, 338b.
+    On *Shekhinah* as “living being,” see Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 508–9; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|1:12b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-16a|16a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-21a|21a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-46b|46b–47a]], [[Zohar 3.06 - Parashat Va-Yiggash#^z1-211a|211a]] (Vol. 3, p. 297–98, n. 205), [[Zohar 3.07 - Parashat Va-Yhi#^z1-242a|242a]]; [[Zohar 5.04 - Sava de-Mishpatim#^z2-126a|2:126a]], [[Zohar 6.06 - Parashat Pequdei#^z2-242a|242a]]; [[Zohar 7.05 - Parashat Shemini#^z3-39b|3:39b]], [[Zohar 7.06 - Parashat Tazri'a#^z3-46b|46b]]; *ZḤ* 9b (*MhN*); Moses de León, *Sefer ha-Rimmon*, 51; idem, Commentary on the Ten *Sefirot*, 338b.
 
     The verse in Psalms concludes: *gliding creatures there innumerable, living beings small and great*. See *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-236a|1:236a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-247a|247a–b]]; [[Zohar 4.03 - Parashat Shemot#^z2-12a|2:12a]], [[Zohar 4.04 - Parashat Va-Era#^z2-30b|30b]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-56b|56b]].
 
@@ -1824,7 +1824,7 @@ Rabbi Yitsḥak said, “From דיורא (*diyyura*), habitation, below to habit
 
     Here, according to the anonymous stranger, the wording מזמור‎ לדוד (*Le-David mizmor*), *Of David, a psalm*, implies that David was aroused to sing about *Shekhinah* (Assembly of Israel), who is also known as *psalm*. The alternative wording—לדוד‎ מזמור (*Mizmor le-David*), *A psalm of David*—indicates a psalm concerning David himself. Since the psalm under discussion opens with the first wording, its subject is *Shekhinah*, as the stranger proceeds to explain.
 
-    See *Midrash Tehillim* 24:1, 3; Rashi on [[Psalms 023#^23-1|Psalms 23:1]]; Jacob bar Sheshet, *Meshiv Devarim Nekhoḥim*, 92; Todros Abulafia, *Sha’ar ha-Razim*, 48; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]], 67a; 2:140a, 170a. For various interpretations, see *OY*; Vital; *MmD*. The full verse in Psalms reads: *Of David, a psalm. The earth and her fullness are YHVH’s, the world and those who dwell in her*.
+    See *Midrash Tehillim* 24:1, 3; Rashi on [[Psalms 023#^23-1|Psalms 23:1]]; Jacob bar Sheshet, *Meshiv Devarim Nekhoḥim*, 92; Todros Abulafia, *Sha’ar ha-Razim*, 48; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]], [[Zohar 1.08 - Parashat Noah#^z1-67a|67a]]; [[Zohar 5.05 - Parashat Terumah#^z2-140a|2:140a]], [[Zohar 5.05 - Parashat Terumah#^z2-170a|170a]]. For various interpretations, see *OY*; Vital; *MmD*. The full verse in Psalms reads: *Of David, a psalm. The earth and her fullness are YHVH’s, the world and those who dwell in her*.
 
 [^172]: ***The earth and her fullness*…** *Shekhinah* (symbolized by *earth*) is joined to *Tif’eret* (known as *YHVH*). *Her fullness* refers to the angels inhabiting Her, and more expansively, to all of existence, which is pervaded by the Divine Presence: She fills the world, and all creatures fill Her.
 
@@ -1856,7 +1856,7 @@ Rabbi Yitsḥak said, “From דיורא (*diyyura*), habitation, below to habit
 
 [^178]: **For since he was already removed…** Apparently, Rabbi Yose interprets the phrase *Let me flee from before Israel* as implying that until that moment the speaker (presumably the heavenly prince of Egypt) was still pursuing Israel. But how could this be, since the heavenly prince had already been removed? Rabbi Yose solves this difficulty by explaining that *Egypt* can refer to both the people and their heavenly prince (“certainly it embraces all”). In this verse both senses apply: *Egypt* \[Pharaoh’s armies\] *said, “Let me flee from before Israel, for YHVH is fighting for them against Egypt* \[their heavenly prince\]!” The Egyptians tried to keep pursuing the Israelites, but since their heavenly power had been defeated, their own power vanished.
 
-    Just as *Egypt* can refer to the heavenly prince, so can the phrase *king of Egypt*—when the name Pharaoh is not specified. See *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-17a|2:17a]] (*MhN*), 19a–b (*MhN*).
+    Just as *Egypt* can refer to the heavenly prince, so can the phrase *king of Egypt*—when the name Pharaoh is not specified. See *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-17a|2:17a]] (*MhN*), [[Zohar 10.10 - Parashat Shemot#^z2-19a|19a–b]] (*MhN*).
 
 [^179]: **When this Assembly of Israel arouses…** When *Shekhinah* arouses, She remains linked with numerous powers, including the heavenly princes of the nations; but the people of Israel are linked to Her on a higher level, since they participate in Her union with *Tif’eret Yisra’el* (Beauty of Israel), symbolized by the Tree of Life. When Israel arouse spiritually, or in repentance, the nations that dominate them are overwhelmed. The closing phrase—“from those ruling over them”—apparently means “through the defeat of their heavenly princes.”
 
@@ -2030,7 +2030,7 @@ Rabbi Yitsḥak said, “From דיורא (*diyyura*), habitation, below to habit
 
     In the verse from Psalms the word מישרים (*meisharim*), *equity*, derives from the root ישר (*yshr*), “to be straight.” The verse from [[Torah 19 - Terumah#^26-1|Exodus 26]] describes the central wooden crossbar of the Tabernacle in the wilderness. Here, this description pertains to *Tif’eret* (the blessed Holy One), who, as the central *sefirah*, spans *Ḥesed* and *Gevurah*. Rabbi Yitsḥak indicates that *the central bar* is Jacob; yet “all is one,” because Jacob symbolizes *Tif’eret*.
 
-    On the verse in [[Torah 19 - Terumah#^26-1|Exodus 26]], see *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-1b|1:1b]] (spanning *Binah* and *Shekhinah*), 148b (*ST*), 224a; 2:175b; 3:186a–b; Moses de León, *Sefer ha-Rimmon*, 7; idem, *Sheqel ha-Qodesh*, 41–42 (49–51).
+    On the verse in [[Torah 19 - Terumah#^26-1|Exodus 26]], see *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-1b|1:1b]] (spanning *Binah* and *Shekhinah*), [[Zohar 11.09 - Sitrei Torah#^z1-148b|148b]] (*ST*), [[Zohar 3.07 - Parashat Va-Yhi#^z1-224a|224a]]; [[Zohar 5.05 - Parashat Terumah#^z2-175b|2:175b]]; [[Zohar 9.08 - Parashat Balaq#^z3-186a|3:186a–b]]; Moses de León, *Sefer ha-Rimmon*, 7; idem, *Sheqel ha-Qodesh*, 41–42 (49–51).
 
 [^218]: **he judges favorably and unfavorably…** This king always maintains a shining countenance, but sometimes he acquits and sometimes he condemns.
 
@@ -3186,7 +3186,7 @@ Rabbi Yitsḥak said, “From דיורא (*diyyura*), habitation, below to habit
 
 [^481]: **from a place called *heaven*…** *Tif’eret* (see above, note 472). This finer food nourishes the sick, as indicated by the verse in Psalms, which specifies the name associated with *Tif’eret*: *YHVH*. Just as the *fat and blood* of sacrifices is offered up to God, so a sick person is sustained by the fat and blood of his own body.
 
-    On fat and blood, see *OY*. On offering one’s own fat and blood to God by fasting, see BT *Berakhot* [[Berakhot 17#17a|17a]]; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-20b|2:20b]] (*MhN*), 153a; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-80a|80a]] (*MhN, Rut*); Moses de León, *Sefer ha-Rimmon*, 127–28. Cf. ibid., 79; *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-9b|3:9b]].
+    On fat and blood, see *OY*. On offering one’s own fat and blood to God by fasting, see BT *Berakhot* [[Berakhot 17#17a|17a]]; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-20b|2:20b]] (*MhN*), [[Zohar 5.05 - Parashat Terumah#^z2-153a|153a]]; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-80a|80a]] (*MhN, Rut*); Moses de León, *Sefer ha-Rimmon*, 127–28. Cf. ibid., 79; *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-9b|3:9b]].
 
     On the verse in Psalms, see BT *Shabbat* [[Shabbat 12#12b|12b]]. On the sick, see above, page 328.
 
@@ -3654,7 +3654,7 @@ Rabbi Yitsḥak said, “From דיורא (*diyyura*), habitation, below to habit
 
     According to Rabbi Abba, if this phrase did not include the word et and read simply ישראל‎ אלהי (*Elohei Yisra’el*), *the God of Israel*, it would refer to another sefirotic potency—perhaps *Binah*, who is pictured as *the God of Tif’eret Yisra’el* (Beauty of Israel). See *Zohar* [[Zohar 6.06 - Parashat Pequdei#^z2-242a|2:242a]].
 
-    On *et*, see BT *Pesaḥim* [[Pesachim 22#22b|22b]], *Ḥagigah* [[Chagigah 12#12a|12a]]; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-247a|1:247a]]; [[Zohar 4.07 - Parashat Yitro#^z2-81b|2:81b]]. “Keys” renders קלדיטין (*qalditin*), based on the rabbinic term אקלידא (*aqlida*), which derives from Greek *kleida*, “key.” These keys unlock treasures of emanation. See *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-5a|2:5a]]–b (*MhN*), 14a (*MhN*); *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-12b|12b]] (*MhN*).
+    On *et*, see BT *Pesaḥim* [[Pesachim 22#22b|22b]], *Ḥagigah* [[Chagigah 12#12a|12a]]; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-247a|1:247a]]; [[Zohar 4.07 - Parashat Yitro#^z2-81b|2:81b]]. “Keys” renders קלדיטין (*qalditin*), based on the rabbinic term אקלידא (*aqlida*), which derives from Greek *kleida*, “key.” These keys unlock treasures of emanation. See *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-5a|2:5a]]–b (*MhN*), [[Zohar 10.10 - Parashat Shemot#^z2-14a|14a]] (*MhN*); *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-12b|12b]] (*MhN*).
 
 [^587]: **Light of the lamp of *Shekhinah*…** Rabbi Yose contends that this was not a vision of *Shekhinah*, but rather of Her effulgence, Metatron, who is known as נער (*na’ar*), “youth, lad, servant.” According to this view, the wording *the God of Israel* refers to *Shekhinah* Herself, while the particle et alludes specifically to Metatron.
 

@@ -178,7 +178,7 @@ Surely (one may ask,) in (His) cosmic form (as all things) in this way, (the Lor
 evar pañcāíadāmarśapūrṇaśaktir maheśvaraḥ ॥ 196 ॥
 vimarśātmaika evānyāḥ śaktayo ‘traiva niṣthitāḥ | 
 
-In this way, the Great Lord, Whose power is full because of (these) fifty (forms of) reflective awareness, is only one and His nature is reflective awareness. (All) other powers are included here (within them). (196cd- 197ab) 
+In this way, the Great Lord, Whose power is full because of (these) fifty (forms of) reflective awareness, is only one and His nature is reflective awareness. (All) other powers are included here (within them). (196cd-197ab) 
 
 #### Viveka on 3.196–197
 

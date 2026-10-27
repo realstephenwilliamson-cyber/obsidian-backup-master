@@ -211,7 +211,7 @@ Surely (one may ask,) just as the powers of the will and the rest conjoined with
 sajātīyakaśaktīnām icchādyānāṁ ca yojanam |l 159 I|
 kṣobhātmakam idami prāhuḥ kṣobhākṣobhātmanām api | 
 
-The (wise) say that the conjunction of the powers of the will etc. with those of the same kind (as themselves), whether they are aroused (as long vowels) or unaroused (as short vowels), is an aroused (long vowel).[^514] (159cd- 160ab) (159) 
+The (wise) say that the conjunction of the powers of the will etc. with those of the same kind (as themselves), whether they are aroused (as long vowels) or unaroused (as short vowels), is an aroused (long vowel).[^514] (159cd-160ab) (159) 
 
 #### Viveka on 3.159
 
@@ -462,7 +462,7 @@ The Lord Himself has said that in the venerable Kulagahvara,\* which is so calle
 
 The ‘Principle’, which is everywhere unobstructed, ‘of Poison’, that is, of the pervasive form (of consciousness) ,\* has been revealed, that is, it has been 
 
-544?\. Jayaratha’s citation from the original clearly demonstrates that 3/168cd-170ab (168- 169) and 3/173-175ab (172cd-174) are drawn from the Kulagahvara. The verses in between are Abhinava’s explanation.
+544?\. Jayaratha’s citation from the original clearly demonstrates that 3/168cd-170ab (168-169) and 3/173-175ab (172cd-174) are drawn from the Kulagahvara. The verses in between are Abhinava’s explanation.
 
 545?\. The word viṣa, which literally means ‘poison’, is derived from the root ‘viṣ’ in the sense of ‘pervasion’. The name of the deity Viṣnṇu, is derived from the same root and so literally means ‘pervasive one’. So too here, the word viṣa can also means ‘pervasion’. Accordingly, Kṣemarāja in his Pratyabhijñāhṛdaya (p. 44), commenting on VBh 68, derives the word viṣa in this way as relating to the pervasion (vyāpti) of the expansion (vikāsa) or extending flow (prasara) of consciousness and Fire to the contraction and withdrawal of objectivity back into consciousness. atra vahniḥ anupraveśakrameṇa saṁkocabhūḥ viṣasthānam prasarayuktyā vikāsapadam viṣlr vyāptau iti arthānugamāt.
 
@@ -706,7 +706,7 @@ saiva sūte svakartavyam antahsthari sveṣtarūpakam |
 yat tv atra rūṣaṇāhetur eṣitavyaṁ sthitaṁ tataḥ ॥ 177 ॥
 bhāgān na prasavas \[illegible\] kāluṣyaṁ tadvapuś ca tat | 
 
-“But surely,” (someone may object,) “you have said here” that (other letters) are born from the neuter vowels (r R \] L), so in what sense are they sterile?” If (you were to ask this,) we say (in response) that the neuter (letters themselves) have no power to give birth (to any other letters). In fact, the aforementioned power of the will, present there (in association with these vowels) (tatragā), generates its own product, which is its own desired object (sveṣṭa) present within it. The object of desire (R) \[illegible\] which sullies (the will) and resides here (within it), is not the aspect from which (any other form of consciousness) is generated. (On the contrary,) the impurity (kāluṣya) which is the body of that (will) is generated from that. (175cd-178ab) (175- 177) 
+“But surely,” (someone may object,) “you have said here” that (other letters) are born from the neuter vowels (r R \] L), so in what sense are they sterile?” If (you were to ask this,) we say (in response) that the neuter (letters themselves) have no power to give birth (to any other letters). In fact, the aforementioned power of the will, present there (in association with these vowels) (tatragā), generates its own product, which is its own desired object (sveṣṭa) present within it. The object of desire (R) \[illegible\] which sullies (the will) and resides here (within it), is not the aspect from which (any other form of consciousness) is generated. (On the contrary,) the impurity (kāluṣya) which is the body of that (will) is generated from that. (175cd-178ab) (175-177) 
 
 #### Viveka on 3.175–177
 

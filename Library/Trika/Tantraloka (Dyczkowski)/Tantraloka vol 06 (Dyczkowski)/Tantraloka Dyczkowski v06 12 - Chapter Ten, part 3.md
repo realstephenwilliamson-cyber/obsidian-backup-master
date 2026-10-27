@@ -450,7 +450,7 @@ teachings to be) undermined?"
 tathāhi gāḍhanidre ‘pi priye ‘nāśaṁkitāgatām ॥ 141 ||
 māṁ drakṣyatīti nāṅgeṣu sveṣu māty abhisārikā | 
 
-The same is the case with the lover who comes to meet her beloved in secret (abhisārikā). Even though (her) beloved is in deep sleep, she thinks: “(When he awakens,) he will see me (and know that) I have come with confidence (in our love)”, and cannot contain herself (for joy). (141cd- 142ab) 
+The same is the case with the lover who comes to meet her beloved in secret (abhisārikā). Even though (her) beloved is in deep sleep, she thinks: “(When he awakens,) he will see me (and know that) I have come with confidence (in our love)”, and cannot contain herself (for joy). (141cd-142ab) 
 
 #### Viveka on 10.141–142
 
@@ -1275,7 +1275,7 @@ Sixteen time-units of the breath (tufi) (are as many) moments (kṣaṇa) (of pe
 
 *[p. 408]* ^pg427
 
-(one) is conceived to occupy two and a quarter finger space within the movement (of the breath), which is thirty-six fingers (008). (187cd- 188ab) 
+(one) is conceived to occupy two and a quarter finger space within the movement (of the breath), which is thirty-six fingers (008). (187cd-188ab) 
 
 #### Viveka on 10.187–188
 

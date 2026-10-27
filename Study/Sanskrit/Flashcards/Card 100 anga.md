@@ -17,6 +17,8 @@ nyasa: "a: forehead (*lalāṭa*) · ṅa: right fingernails (*nakha*) · ga: ri
 
 **Card 100 of 108** (printed: Card 3-40 · Alpha 2) · word
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** अङ्ग

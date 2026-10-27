@@ -17,6 +17,8 @@ nyasa: "da: left foot (*pāda*) · va: sinews (*sūtra*)"
 
 **Card 93 of 108** (printed: Card 3-33 · Alpha 69) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** द्व

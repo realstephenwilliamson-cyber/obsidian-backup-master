@@ -114,7 +114,7 @@ puruṣo dakṣinācando vāmā vāmas tu saumyakaḥ |
 parāṁmukhatayā sadyaḥ paścimā paribhāṣyate || 205 ॥
 pātālavaktram adharam aprakāśatayā sthiteḥ | 
 
-Īśāna is the zenith, as (He is) the Light (of consciousness). Tatpuruṣa is the face that spreads forth in front (prva, and so is the east - pūrva). Aghora (acanda) is the southern (direction). Vāmadeva, who is (cool and) pleasing (saumyaka), is the northern (vāmā) (quarter). As Sadyojāta faces away (from the Light or is on the other side of it), he is said to be the western (quarter) (paścimā) (which is behind - paścimā). As the face of the netherworlds (pātālavaktra) abides without light, it is the nadir. (204cd- 206ab) 
+Īśāna is the zenith, as (He is) the Light (of consciousness). Tatpuruṣa is the face that spreads forth in front (prva, and so is the east - pūrva). Aghora (acanda) is the southern (direction). Vāmadeva, who is (cool and) pleasing (saumyaka), is the northern (vāmā) (quarter). As Sadyojāta faces away (from the Light or is on the other side of it), he is said to be the western (quarter) (paścimā) (which is behind - paścimā). As the face of the netherworlds (pātālavaktra) abides without light, it is the nadir. (204cd-206ab) 
 
 #### Viveka on 15.204–206
 
@@ -438,7 +438,7 @@ Surely, (effectively you have) said that a direction (in space) does not have a 
 itthańn svādhīnarūpāpi dik saurī tūpadiśyate ॥ 225 ॥
 tatra sarvo hi nikampa prakāśatvaṁ prapadyate | 
 
-Although a direction is independent in this way (that is, as relative to one thing or another), it is (normally) indicated in relation to the sun. (This is because) all becomes certainly visible there (in its light). (225cd- 226ab) 
+Although a direction is independent in this way (that is, as relative to one thing or another), it is (normally) indicated in relation to the sun. (This is because) all becomes certainly visible there (in its light). (225cd-226ab) 
 
 #### Viveka on 15.225–226
 
@@ -471,7 +471,7 @@ prabuddhaḥ svāṁ \[illegible\] kuryād gharmanirnodanādikām ।
 tadvat sarvagatāḥ sarvā aindryadyāḥ śíaktayah sphuṭam || 227 |
 sādhakāśvāsasahbuddhās tattatsveṣtaphalapradāḥ | 
 
-Although air is present everywhere, moved by a fan, it is awakened and (active, it) does its work of cooling and the like. Similarly, although the powers (of the guardians of the directions,) Indra and the rest, are all omnipresent, clearly awakened by the belief (3śvāsa) of the adept (sādhaka) (engaged in worship), they each bestow their own desired fruits. (226cd- 228ab) 
+Although air is present everywhere, moved by a fan, it is awakened and (active, it) does its work of cooling and the like. Similarly, although the powers (of the guardians of the directions,) Indra and the rest, are all omnipresent, clearly awakened by the belief (3śvāsa) of the adept (sādhaka) (engaged in worship), they each bestow their own desired fruits. (226cd-228ab) 
 
 #### Viveka on 15.226–228
 
@@ -523,7 +523,7 @@ Thus, he says:
 सौरः प्रकाशस्तत्पर्वमित्थं स्यािग्व्यवस्थितिः ।
 sa hi sarvam adhiṣṭthātā mādhyasthyeneti tasya yah ॥ 230 ॥ sauraḥ prakāśas tatpūrvam {11114001 syād digvyavasthitiḥ | 
 
-Indeed, he presides over all by His being in the centre. His solar light (that radiates from him) is to the east (in relation to Him, that is, in front of Him) (tatpūrvam). The directions are laid out in this way. (230cd- 231ab) 
+Indeed, he presides over all by His being in the centre. His solar light (that radiates from him) is to the east (in relation to Him, that is, in front of Him) (tatpūrvam). The directions are laid out in this way. (230cd-231ab) 
 
 #### Viveka on 15.230–231
 
@@ -1275,7 +1275,7 @@ Surely (one may ask), it was said before that by the intense exercise of thought
 etad evocyate dārdhyaṁ vimarśahṛdayaṁgamam || 270 ॥
 sivaikātmyavikalpaughadvārikā nirvikalpatā | 
 
-This itself is said to be the stability (dārdhya) (of insight) that is taken to heart by (the adept’s) reflective awareness (as true and certain), namely, the state free of thought constructs (that arises) by means of the flux of thought constructs (concerning his) oneness with Śiva.[^436] (270cd- 271ab) 
+This itself is said to be the stability (dārdhya) (of insight) that is taken to heart by (the adept’s) reflective awareness (as true and certain), namely, the state free of thought constructs (that arises) by means of the flux of thought constructs (concerning his) oneness with Śiva.[^436] (270cd-271ab) 
 
 #### Viveka on 15.270–271
 
@@ -1334,7 +1334,7 @@ saaa Aaa ॥ \[illegible\] ॥
 pratyut ātisvatantrātmaviparītasvadharmatām || 273 ||
 vināśyanīśāyattatvarūpāṁ niścitya majjati | 
 
-(Indeed,) on the contrary, convinced that his own nature is the very opposite of the total freedom of the Lord, (believing that he is) mortal, powerless and dependent, he sinks (to increasingly lower levels). (273cd- 274ab) 
+(Indeed,) on the contrary, convinced that his own nature is the very opposite of the total freedom of the Lord, (believing that he is) mortal, powerless and dependent, he sinks (to increasingly lower levels). (273cd-274ab) 
 
 #### Viveka on 15.273–274
 
@@ -1350,7 +1350,7 @@ Thus, he concludes that it is logically sound to maintain (yukta) that Śiva-nat
 tataḥ saṁsārabhāgīyatathāniścayaśātinīm ॥ 274 ॥
 nityādiniścayadvārām \[illegible\] sthitińn śrayet | 
 
-Thus, one should abide in a state (of awareness) free of thought constructs \[illegible\] the means to which is the conviction of (one’s own) eternal nature and the like, that destroys that (previous opposite) conviction, which is a part of transmigratory existence (saṁsāra). (274cd- 275ab) 
+Thus, one should abide in a state (of awareness) free of thought constructs \[illegible\] the means to which is the conviction of (one’s own) eternal nature and the like, that destroys that (previous opposite) conviction, which is a part of transmigratory existence (saṁsāra). (274cd-275ab) 
 
 #### Viveka on 15.274–275
 

@@ -82,7 +82,7 @@ page_range: 717–724
 
 ***he*** The fifth letter of the Hebrew alphabet; it occupies both the second and fourth positions in the tetragrammaton, where it represents the two typically feminine *sefirot, Binah* and *Shekhinah*.
 
-***Heikhalot*** “Palaces, Halls”; the extended descriptions of the heavenly and demonic halls in *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-38a|1:38a–45b]]; 2:244b–268b (see Volume 12).
+***Heikhalot*** “Palaces, Halls”; the extended descriptions of the heavenly and demonic halls in *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-38a|1:38a–45b]]; [[Zohar 12.05 - Heikhalot Pequdei|2:244b–268b]] (see Volume 12).
 
 ***Ḥesed*** “Loving-kindness, love, grace”; the fourth *sefirah*; the right arm of the divine body, balancing *Din*; also called *Gedullah*.
 
@@ -96,9 +96,9 @@ page_range: 717–724
 
 ***idra*** “Threshing place,” assembly.
 
-***Idra Rabba*** “The Great Assembly”; a description of the gathering of Rabbi Shim’on and the Companions at the threshing house, where profound mysteries of divine being are expounded. *Zohar* 3:127b–145a.
+***Idra Rabba*** “The Great Assembly”; a description of the gathering of Rabbi Shim’on and the Companions at the threshing house, where profound mysteries of divine being are expounded. *Zohar* [[Zohar 8.09 - Idra Rabba|3:127b–145a]].
 
-***Idra Zuta*** “The Small Assembly”; a description of the last gathering of Rabbi Shim’on and the Companions, the master’s final teachings, and his ecstatic death. *Zohar* 3:287b–296b.
+***Idra Zuta*** “The Small Assembly”; a description of the last gathering of Rabbi Shim’on and the Companions, the master’s final teachings, and his ecstatic death. *Zohar* [[Zohar 9.15 - Idra Zuta|3:287b–296b]].
 
 ***ispaqlarya*** “Mirror, looking-glass.” An instrument for viewing supernal objects; often used symbolically to refer to *Shekhinah* or *Tif’eret*.
 
@@ -156,7 +156,7 @@ page_range: 717–724
 
 ***Pittum ha-Ketoret*** “The Preparation of the Incense.” The name of a section of liturgy deriving from the Talmud’s listing of the ingredients of the incense for the Temple service.
 
-***Qav ha-Middah*** “The Line of Measure”; Rabbi Shim’on’s extended and detailed description of the divine instrument used for measuring supernal emanations. *Zohar Ḥadash* 56d–58d.
+***Qav ha-Middah*** “The Line of Measure”; Rabbi Shim’on’s extended and detailed description of the divine instrument used for measuring supernal emanations. *Zohar Ḥadash* [[Zohar 12.09 - Qav ha-Middah|56d–58d]].
 
 ***Qedushah*** “Sanctification”; one of several prayers describing the sanctification of God by the angels in heaven and its imitation on earth by the people of Israel.
 
@@ -202,7 +202,7 @@ page_range: 717–724
 
 ***Sitra Aḥra*** “The other side”; the demonic realm, or the shadow of the divine, led by Samael and Lilith.
 
-***Sitrei Otiyyot*** “Secrets of the Letters”; a discourse by Rabbi Shim’on focusing on the letters of the divine name *YHVH* and how they symbolize the process of emanation. *Zohar Ḥadash* 1b–7b.
+***Sitrei Otiyyot*** “Secrets of the Letters”; a discourse by Rabbi Shim’on focusing on the letters of the divine name *YHVH* and how they symbolize the process of emanation. *Zohar Ḥadash* [[Zohar 12.08 - Sitrei Otiyyot|1b–7b]].
 
 ***Sitrei Torah*** “Secrets of Torah”; interpretations of certain verses of Genesis, printed in separate columns parallel to the main body of the *Zohar* and in *Zohar Ḥadash*. Its homiletical style is similar to the main body of the *Zohar*, with a particular interest in the demonic realm, and largely without reference to individual rabbis.
 

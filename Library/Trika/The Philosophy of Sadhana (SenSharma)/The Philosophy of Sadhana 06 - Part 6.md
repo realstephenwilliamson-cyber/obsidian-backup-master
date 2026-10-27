@@ -24,11 +24,11 @@ converted: 2026-10-07
 
 *Mrgendra Tantra,* edited with *tika*\* of Ramakantha\*, Srinagar.
 
-*Netra Tantra,* edited with com. of Ksemaraja\* Vol. III, Srinagar.
+*Netra Tantra,* edited with com. of Ksemaraja\* Vol. I-II, Srinagar.
 
 *Paratrimsika*\* with *Vivarana* com. of Abhinavagupta, edited by Mukundarama Shastri, Srinagar, 1918.
 
-*Svacchanda Tantra* with com. by Ksemaraja\*, edited by Madhusudana Kaul, Vol. IVI, Srinagar 1921 *Seq.*
+*Svacchanda Tantra* with com. by Ksemaraja\*, edited by Madhusudana Kaul, Vol. I-VI, Srinagar 1921 *Seq.*
 
 *Svacchanda Tantra* translated into Hindi by Vrajaballabh Dvivedi, Vols. I & II, Varanasi.
 
@@ -48,9 +48,9 @@ converted: 2026-10-07
 
 *Bhavopahara \* of Cakrapaninatha\*,* edited by Madhusudan Shastri, Srinagar 1918.
 
-Bhaskari\* (Isvara\* Pratyabhijna\* Vimarsi*ni*\* of Abhinavagupta with com. by Bhaskara\*), ed. by K. C. Pandey and K. A. S. Iyer, Vols. IIII Allahabad. *IsvarapratyabhijnaVimarsini\* (Karika*\* by Utpaladeva and *Vimarsini* comm. by Abhinavagupta), edited by Mukundarama Shastri, Vols. III, Srinagar, 1918 seq.
+Bhaskari\* (Isvara\* Pratyabhijna\* Vimarsi*ni*\* of Abhinavagupta with com. by Bhaskara\*), ed. by K. C. Pandey and K. A. S. Iyer, Vols. I-III Allahabad. *Isvara-pratyabhijna-Vimarsini\* (Karika*\* by Utpaladeva and *Vimarsini* comm. by Abhinavagupta), edited by Mukundarama Shastri, Vols. I-II, Srinagar, 1918 seq.
 
-*Isvarapratyabhijna*\* *Vivrti*\* *Vimarsini*\* (*Karika* by Utpaladeva and *Vivrti*\* *Vimarsini*\* by Abhinavagupta), ed. by Madhusudana Kaul, Vol. IIII, Srinagar, 1941 seq.
+*Isvarapratyabhijna*\* *Vivrti*\* *Vimarsini*\* (*Karika* by Utpaladeva and *Vivrti*\* *Vimarsini*\* by Abhinavagupta), ed. by Madhusudana Kaul, Vol. I-III, Srinagar, 1941 seq.
 
 *Isvara*\* *Siddhi* of Utpaladeva, ed. by Madhusudana Kaul, Srinagar, 1921.
 
@@ -68,7 +68,7 @@ Bhaskari\* (Isvara\* Pratyabhijna\* Vimarsi*ni*\* of Abhinavagupta with c
 
 *Paramarthasara\* (Karika*\* adapted by Abhinavagupta with comm. by Yogaraja\*), ed. by J. C. Chatterji, Srinagar, 1916.
 
-*Paramarthasara*\*, Trans. into English with notes by L. D. Barnett, *Journal of the Royal Asiatic Society,* London 1910, pp. 40146.
+*Paramarthasara*\*, Trans. into English with notes by L. D. Barnett, *Journal of the Royal Asiatic Society,* London 1910, pp. 401-46.
 
 *Parapravesika*\* of Ksemaraja\*, ed. by Mukundarama Shastri, Srinagar, 1918.
 
@@ -94,7 +94,7 @@ Bhaskari\* (Isvara\* Pratyabhijna\* Vimarsi*ni*\* of Abhinavagupta with c
 
 *Siva*\* *Drsti*\* of Somanada\* translated into Hindi by R. S. Chaturvedi, Varanasi, 1986.
 
-*Siva*\* *Drsti*\*, translated by Raneno Gnoli with notes, chapter I only, in *East & West,* Vol. VIII (1957) pp. 1622.
+*Siva*\* *Drsti*\*, translated by Raneno Gnoli with notes, chapter I only, in *East & West,* Vol. VIII (1957) pp. 16-22.
 
 *Sivasutra\* with Vimarsini\* com. by Ksemaraja\*, ed. J. C. Chatterji, Srinagar, 1911.*
 
@@ -118,7 +118,7 @@ Bhaskari\* (Isvara\* Pratyabhijna\* Vimarsi*ni*\* of Abhinavagupta with c
 
 *Spanda Sandoha* of Ksemaraja \*, edited by Mukundarama Shastri, Srinagar, 1917.
 
-*Tantraloka*\* of Abhinavagupta with *tika*\* by Jayaratha and Sivopadhyaya\*, edited by Mukundaram Shastri Vols. IXII, Srinagar, 1918 seq. *Tantraloka*\* of Abhinavagupta ed. with introduction in English by R. C. Dwivedi and N. Rastogi, Vol IVIII, Delhi, 1987. *Tantrasara*\* of Abhinavagupta, ed. by Mukundrama Shastri, Srinagar, 1918.
+*Tantraloka*\* of Abhinavagupta with *tika*\* by Jayaratha and Sivopadhyaya\*, edited by Mukundaram Shastri Vols. I-XII, Srinagar, 1918 seq. *Tantraloka*\* of Abhinavagupta ed. with introduction in English by R. C. Dwivedi and N. Rastogi, Vol I-VIII, Delhi, 1987. *Tantrasara*\* of Abhinavagupta, ed. by Mukundrama Shastri, Srinagar, 1918.
 
 *Tantrasara*\* translated into Hindi by H. N. Chakravarti, Vararasi, 1986 *Tantravatadhanika*\* of Abhinavagupta, Srinagar, 1923.
 
@@ -148,7 +148,7 @@ Chattopadhyaya, S., *The Evolution of Theistic Sects in Ancient India,*
 
 DasGupta, S. N., *A History of Indian Philosophy,* Vol. V. Cambridge, 1962.
 
-Eliot, C., *Hinduism and Buddhism,* Vols. IIII, London, 1921.
+Eliot, C., *Hinduism and Buddhism,* Vols. I-III, London, 1921.
 
 Farquhar, J. N., *An Outline of the Religious Literature of India,* London, 1920.
 
@@ -160,7 +160,7 @@ Iyengar, P. T. S., *An Outline of Indian Philosophy,* Allahabad, 1918.
 
 Jash, P., *History of Saivism* \*, Calcutta, 1974.
 
-Joshi, B. L., *Kashmir Saiva*\* *darsana*\* *aur Kamayani\** (in Hindi), Chowkhamba, Varanasi 1968. Kachur, D. P., *Utpala, The Saintmystic* (Monograph), Poona 1945.
+Joshi, B. L., *Kashmir Saiva*\* *darsana*\* *aur Kamayani\** (in Hindi), Chowkhamba, Varanasi 1968. Kachur, D. P., *Utpala, The Saint-mystic* (Monograph), Poona 1945.
 
 Katiram, S., *A Handbook of Saiva*\* *Religion,* Madras, 1950.
 
@@ -172,7 +172,7 @@ Kaviraj, G. N., *Bharatiya\* Sanskriti aur Sadhana*\*, Vols. I & II (
 
 ———. *Tantra O Agamasastra\* Digdarsana\** (in Bengali) Vol. I, Calcutta, 1963. Kittel, F., *Origin of Phallic Worship in India,* London.
 
-Marshall, J., *Mohenjodaro and Indus Civilization,* Vol. IIII, London, 1931. Mehta, R. L., *PreBuddhist India,* Bombay, 1939.
+Marshall, J., *Mohenjodaro and Indus Civilization,* Vol. I-III, London, 1931. Mehta, R. L., *Pre-Buddhist India,* Bombay, 1939.
 
 Mehta, P. D., *Early Indian Religious Thought,* London, 1956.
 
@@ -194,7 +194,7 @@ Sinha, J. N., *Schools of Saivism*\*, Calcutta, 1970.
 
 ———. *History of Indian Philosophy,* Vol. II, Calcutta.
 
-Subrahmanian, K. R., *Origin of* S*aivism*\* *and its History in Tamilland,* Madras, 1929.
+Subrahmanian, K. R., *Origin of* S*aivism*\* *and its History in Tamil-land,* Madras, 1929.
 
 *[p. 192]* ^pg206
 
@@ -214,19 +214,19 @@ Upadhyaya, B., *Bharatiya* \* *Darshan,* Varanasi. Venkatramanyya, N., *R
 
 A Abhinavagupta, 13, 60;
 
-Abhinavagupta's refutations of other schools, 8493 *Acaryas* \* (teachers), Saiva\*, 3. *See also* Guru.
+Abhinavagupta's refutations of other schools, 84-93 *Acaryas* \* (teachers), Saiva\*, 3. *See also* Guru.
 
-*Adhvas* (paths), as delineated by Abhinavagupta, 15156 Advaita Vedanta\*, 6, 21, 72;
+*Adhvas* (paths), as delineated by Abhinavagupta, 151-56 Advaita Vedanta\*, 6, 21, 72;
 
-compared with Trika, 16365, 173 *Agama*\* *Sastra*\*, 1112 *Aham,* 2526, 3238, 167 *Alambanas*\* (supporting instruments toward realization), 13637 *Anahata*\* (inarticulate sound), 140 *Anugraha* (divine grace), 27, 47, 76, 81, 93;
+compared with Trika, 163-65, 173 *Agama*\* *Sastra*\*, 11-12 *Aham,* 25-26, 32-38, 167 *Alambanas*\* (supporting instruments toward realization), 136-37 *Anahata*\* (inarticulate sound), 140 *Anugraha* (divine grace), 27, 47, 76, 81, 93;
 
-descent of, 7785; classification of recipients of, 105 Appaya Diksita\*, 173 Awakening (*vikalpa*), ''pure" (*suddha*\*) and "impure" (*asuddha*\*), 12833, 159 B *Bhagavadgita*\*, 4 Bhairava Fire, 13839 *Bhavana*\* (mental discipline), 13031 *Bhogadeha* (body of enjoyment), 5, 52 *Bhogavasana*\* (desire for enjoyment), 44, 17071 Bodies (*sariras*\*), Trika classifications of, 5253 *Brahman,* 2022. *See also* Advaita Vedanta\*.
+descent of, 77-85; classification of recipients of, 105 Appaya Diksita\*, 173 Awakening (*vikalpa*), ''pure" (*suddha*\*) and "impure" (*asuddha*\*), 128-33, 159 B *Bhagavadgita*\*, 4 Bhairava Fire, 138-39 *Bhavana*\* (mental discipline), 130-31 *Bhogadeha* (body of enjoyment), 5, 52 *Bhogavasana*\* (desire for enjoyment), 44, 170-71 Bodies (*sariras*\*), Trika classifications of, 52-53 *Brahman,* 20-22. *See also* Advaita Vedanta\*.
 
-*Buddhi* (intellect), 11314, 13035;
+*Buddhi* (intellect), 113-14, 130-35;
 
-as instrument of yogic discipline, 13638 Buddhism, Mahayana\*, 77, 173 C Caitanya (True Self), defined, 1517, 80 Christianity, medieval mysticism in, 77 *Cidanu*\*, 43, 4851, 67 Consciousness, universal: Trika view of, 1519 Creation, Impure Order (*asuddha*\* *adhva*) and Pure Order (*suddha*\* *adhva*) of, 5557, 7880, 100
+as instrument of yogic discipline, 136-38 Buddhism, Mahayana\*, 77, 173 C Caitanya (True Self), defined, 15-17, 80 Christianity, medieval mysticism in, 77 *Cidanu*\*, 43, 48-51, 67 Consciousness, universal: Trika view of, 15-19 Creation, Impure Order (*asuddha*\* *adhva*) and Pure Order (*suddha*\* *adhva*) of, 55-57, 78-80, 100
 
-*Dhyana*\*, 133139
+*Dhyana*\*, 133-139
 
 *[p. 194]* ^pg208
 
@@ -250,21 +250,21 @@ as instrument of yogic discipline, 13638 Buddhism, Mahayana\*, 77, 173 C
 
 #### O
 
-Discriminating insight (*vivekajnana* \*), aids in developing, 7375 F Freedom, divine (*svatantrya*\*), 42, 46, 89, 107 G *Ghurni*\*, (advanced stage of realization), 14647 *Grahya*\* *vastu* (external objects), 136 *Gunas*\*, 73, 164 *Guru* (teacher), 135, 15556, 160, 170;
+Discriminating insight (*vivekajnana* \*), aids in developing, 73-75 F Freedom, divine (*svatantrya*\*), 42, 46, 89, 107 G *Ghurni*\*, (advanced stage of realization), 146-47 *Grahya*\* *vastu* (external objects), 136 *Gunas*\*, 73, 164 *Guru* (teacher), 135, 155-56, 160, 170;
 
-role in initiation, 10002; *daiva* (celestial) *gurus,* 95; *siddha* (superhuman) *gurus, 95;* *purusa*\* (human) *gurus,* 9599 H Heart (*hrdaya*\*), 13738, 140 *Homa,* 133 I *Idam,* 3436 Ignorance, 45, 6667, 71, 13031, 17071;
+role in initiation, 100-02; *daiva* (celestial) *gurus,* 95; *siddha* (superhuman) *gurus, 95;* *purusa*\* (human) *gurus,* 95-99 H Heart (*hrdaya*\*), 137-38, 140 *Homa,* 133 I *Idam,* 34-36 Ignorance, 45, 66-67, 71, 130-31, 170-71;
 
-of the Real Self (*paurusa*\* *ajnana*\*), 48, 8182; of the intellect (*bauddha ajnana*\*), 48, 15965 Initiation (*diksa*\*), 160;
+of the Real Self (*paurusa*\* *ajnana*\*), 48, 81-82; of the intellect (*bauddha ajnana*\*), 48, 159-65 Initiation (*diksa*\*), 160;
 
-classifications of, 99, 10003 J *Jivanmukti*\*, 16769 K *Kala*\* (authorship), 5354 *Kancukas*\*, 38 *Karma,* 4, 4345, 65, 171;
+classifications of, 99, 100-03 J *Jivanmukti*\*, 167-69 K *Kala*\* (authorship), 53-54 *Kancukas*\*, 38 *Karma,* 4, 43-45, 65, 171;
 
-*atma*\* *karma,* 6566; *prarabdha*\* *karma,* 168; *samsarika*\* *karma,* 65 *Karmabijas*\*, 44 *Karmadeha,* 5, 52 Ksemaraja\*, 53 L *Lila*\* (divine sport or play), 29, 42 *Linga*\* worship, 78 M *Malas* (defilements), 6871, 76,10809, 126, 135, 169; *anavamala*\*, 45, 47, 4952; *karmamala*\*, 4446, 5164; *mayiyamala*\*, 4546, 5053 *Mantra,* 15253;
+*atma*\* *karma,* 65-66; *prarabdha*\* *karma,* 168; *samsarika*\* *karma,* 65 *Karmabijas*\*, 44 *Karmadeha,* 5, 52 Ksemaraja\*, 53 L *Lila*\* (divine sport or play), 29, 42 *Linga*\* worship, 7-8 M *Malas* (defilements), 68-71, 76,108-09, 126, 135, 169; *anavamala*\*, 45, 47, 49-52; *karmamala*\*, 44-46, 51-64; *mayiyamala*\*, 45-46, 50-53 *Mantra,* 152-53;
 
-role in initiation, 101; *mantra japa,* 133, 155 *Maya*\*, 3738, 44, 50, 57, 6768, 7980.
+role in initiation, 101; *mantra japa,* 133, 155 *Maya*\*, 37-38, 44, 50, 57, 67-68, 79-80.
 
 *See also* Obscuration.
 
-N *Nada*\* (uncreated Sound), 14748, 152 NyayaVaisesika\*, 72 O Obscuration (*tirodhana*\*), 3746
+N *Nada*\* (uncreated Sound), 147-48, 152 Nyaya-Vaisesika\*, 72 O Obscuration (*tirodhana*\*), 37-46
 
 *[p. 195]* ^pg209
 
@@ -276,21 +276,21 @@ N *Nada*\* (uncreated Sound), 14748, 152 NyayaVaisesika\*, 72 O Obscuration
 
 #### U
 
-P Parama Siva \*, Trika definition of as Supreme Consciousness, 1920, 24, 2833, 4143 Pasu\* (fettered being): *pralayalaka\*,* 57, 59;
+P Parama Siva \*, Trika definition of as Supreme Consciousness, 19-20, 24, 28-33, 41-43 Pasu\* (fettered being): *pralayalaka\*,* 57, 59;
 
-*sakala,* 52, 57, 6065, 68, 73; *vijnanakala,* 5759 *Prakasa*\*, 1617 *Prakrti,* 39, 57, 164 *Pramata*\* (experiencer or subject), relationship between "pure" (*suddha*\*), and "impure" or "limited" (*asuddha*\*), 4142, 5560, 154 *Prameya* (limited object), 4142 *Pratyabhijna*\*, 10, 1213 *Purusa*\*, 39, 164 R *Rsis*\*, 2 S *Sadhaka*\*, Trika classifications of, 10103, 10512 *Sadhana*\*, Trika definition of, 12, 4 Saiva\* Siddhanta\*, 8788, 90; 165 Saivism\*: origins of, 613;
+*sakala,* 52, 57, 60-65, 68, 73; *vijnanakala,* 57-59 *Prakasa*\*, 16-17 *Prakrti,* 39, 57, 164 *Pramata*\* (experiencer or subject), relationship between "pure" (*suddha*\*), and "impure" or "limited" (*asuddha*\*), 41-42, 55-60, 154 *Prameya* (limited object), 41-42 *Pratyabhijna*\*, 10, 12-13 *Purusa*\*, 39, 164 R *Rsis*\*, 2 S *Sadhaka*\*, Trika classifications of, 101-03, 105-12 *Sadhana*\*, Trika definition of, 12, 4 Saiva\* Siddhanta\*, 87-88, 90; 165 Saivism\*: origins of, 6-13;
 
-eight schools of, 913 Sakti\*: aspects of in Trika system, 1726, 4647;
+eight schools of, 9-13 Sakti\*: aspects of in Trika system, 17-26, 46-47;
 
-Ananda\* Sakti\*, 23; Apana\* Sakti\*, 142; Cit Sakti\*, 22, 28; Iccha\* Sakti\*, 23, 35; Jnana\* Sakti\*, 23, 11112, 125, 150; Kriya\* Sakti\*, 2324, 37, 112, 12122; Kala\* Sakti\* (Timeforce), 69, 73; Prana\* Sakti\*, 14045, 147; Svatantrya\* Sakti\*, 19; Vimarsa\* Sakti\*, 1718, 26, 152 *Saktipata*\* (descent of divine grace), 7782, 11617;
+Ananda\* Sakti\*, 23; Apana\* Sakti\*, 142; Cit Sakti\*, 22, 28; Iccha\* Sakti\*, 23, 35; Jnana\* Sakti\*, 23, 111-12, 125, 150; Kriya\* Sakti\*, 2324, 37, 112, 121-22; Kala\* Sakti\* (Time-force), 69, 73; Prana\* Sakti\*, 140-45, 147; Svatantrya\* Sakti\*, 19; Vimarsa\* Sakti\*, 17-18, 26, 152 *Saktipata*\* (descent of divine grace), 77-82, 116-17;
 
-nine classifications of, 8293 SamkhyaYoga\*, compared with Trika, 65, 7172, 163 *Samsara*\*, 6568 Sanskrit alphabet, as manifestation of Sakti\*, 11824, 140, 14849 *Satcitananda\*, 164* Sense organs (*karmendriyas*), 54 Siva\*: as Vedic Rudra, 7;
+nine classifications of, 82-93 Samkhya-Yoga\*, compared with Trika, 65, 71-72, 163 *Samsara*\*, 65-68 Sanskrit alphabet, as manifestation of Sakti\*, 118-24, 140, 148-49 *Sat-cit-ananda\*, 164* Sense organs (*karmendriyas*), 54 Siva\*: as Vedic Rudra, 7;
 
-as Supreme Reality, 1921 Sleep, yogic (*nidra*), 146 *Spanda Sastra*\*, 12 *Svarupa*\* (true nature, integral self), 112, 114, 117, 151 T *Tattvas* (constituent elements of the universe), 30, 40, 5558, 63, 79 Trika School of Kashmir, defined, 6, 1113 *Trikona*\* (Primal Triangle), 120 U Upanisads\*, 2, 6;
+as Supreme Reality, 19-21 Sleep, yogic (*nidra*), 146 *Spanda Sastra*\*, 12 *Svarupa*\* (true nature, integral self), 112, 114, 117, 151 T *Tattvas* (constituent elements of the universe), 30, 40, 55-58, 63, 79 Trika School of Kashmir, defined, 6, 11-13 *Trikona*\* (Primal Triangle), 120 U Upanisads\*, 2, 6;
 
-evidence of Saivism\* in, 8 *Upayas*\* (ways of realization), 10511;
+evidence of Saivism\* in, 8 *Upayas*\* (ways of realization), 105-11;
 
-and Sakti\*, 111; *anupaya*\*, 11214, 158; *sambhava*\* *upaya*\*, 11525; *sakta*\* *upaya*\*, 12535, 15859, 169; *anava*\* *upaya*\* 13556, 159 Utpalacarya\* (Utpaladeva), 60
+and Sakti\*, 111; *anupaya*\*, 112-14, 158; *sambhava*\* *upaya*\*, 115-25; *sakta*\* *upaya*\*, 125-35, 158-59, 169; *anava*\* *upaya*\* 135-56, 159 Utpalacarya\* (Utpaladeva), 60
 
 *[p. 196]* ^pg210
 
@@ -298,4 +298,4 @@ and Sakti\*, 111; *anupaya*\*, 11214, 158; *sambhava*\* *upaya*\*, 11525; 
 
 #### Y
 
-*Varna* \*. *See* Sanskrit alphabet *Vasanas*\* (residual impressions), 54 Vasugupta, 53 *Videhamukti,* 6768 *Vijnanakalas*\*, 94 *Vrata* (vow), 133 Y *Yaga*\* (sacrificial ceremony), 133 *Yoga,* 2, 7, 133, 139
+*Varna* \*. *See* Sanskrit alphabet *Vasanas*\* (residual impressions), 54 Vasugupta, 53 *Videhamukti,* 67-68 *Vijnanakalas*\*, 94 *Vrata* (vow), 133 Y *Yaga*\* (sacrificial ceremony), 133 *Yoga,* 2, 7, 133, 139

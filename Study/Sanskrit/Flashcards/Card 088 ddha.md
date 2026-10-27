@@ -17,6 +17,8 @@ nyasa: "da: left foot (*pāda*) · dha: left toes (*aṅguli*)"
 
 **Card 88 of 108** (printed: Card 3-28 · Alpha 64) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** द्ध

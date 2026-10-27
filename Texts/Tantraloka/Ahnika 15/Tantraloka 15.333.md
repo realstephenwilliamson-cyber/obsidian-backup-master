@@ -29,7 +29,7 @@ madhye nyasyetsūryaruciṃ sarvākṣaramayīṃ parām || ^iast
 >
 > Parā is the goddess Mātrkā. (She is) Mālinī, who is said to be in the middle. (with 15.333ab)
 >
-> It is said (in the Siddhayogeśvarīmata): ‘In the middle, one should place (the Goddess) who, resplendent like the sun, consists of all the letters. Parā, who consists of a single syllable (SAUH), is on the tip of (her) topknot (śikhā), and so are her limbs and the rest.’ (with 15.333cd–334ab)
+> It is said (in the Siddhayogeśvarīmata): ‘In the middle, one should place (the Goddess) who, resplendent like the sun, consists of all the letters. Parā, who consists of a single syllable (SAUḤ), is on the tip of (her) topknot (śikhā), and so are her limbs and the rest.’ (with 15.333cd–334ab)
 
 ## Viveka
 

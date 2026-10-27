@@ -17,6 +17,8 @@ nyasa: "left foot (*pāda*)"
 
 **Card 45 of 108** (printed: Card 2-18 · Alpha 61) · consonant · the letter: [[Letter 34 da|द da]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** द

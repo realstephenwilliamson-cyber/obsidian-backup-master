@@ -499,7 +499,7 @@ wanted to rest a few days. Having put on a different attire, *incognito*, he sto
 329\. A certain rich young lord came to Częstochowa and asked for permission from me to kneel before Her Highness and kiss her feet. You also heard that I admonished the women who were preparing some broth for me that they not turn away their face even for a moment from the pot. I did that so that you would be careful in my every commandment.
 
 [^502]: Cf [[Torah 01 - Bereshit#^1-16|Gen 1.16]]
-[^503]: [[Torah 03 - Lech Lecha#^12-1|Gen 12.1]] with Rashi, [[Zohar 2.02 - Parashat Lekh Lekha#^z1-78b|Zohar 1.78b]], 3.166b
+[^503]: [[Torah 03 - Lech Lecha#^12-1|Gen 12.1]] with Rashi, [[Zohar 2.02 - Parashat Lekh Lekha#^z1-78b|Zohar 1.78b]], [[Zohar 9.04 - Rav Metivta#^z3-166b|3.166b]]
 [^504]: Cf [[Zohar 2.05 - Parashat Toledot#^z1-144b|Zohar 1.144b]]
 [^505]: Cf [[Torah 51 - Nitzavim#^30-12|Dt 30.12]]
 [^506]: [[Proverbs 03#^3-27|Prv 3.27]]

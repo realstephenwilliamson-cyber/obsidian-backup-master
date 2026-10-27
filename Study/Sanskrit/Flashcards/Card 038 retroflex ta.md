@@ -17,6 +17,8 @@ nyasa: "right hip (*kaṭi*)"
 
 **Card 38 of 108** (printed: Card 2-11 · Alpha 49) · consonant · the letter: [[Letter 27 retroflex ta|ट ṭa]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ट

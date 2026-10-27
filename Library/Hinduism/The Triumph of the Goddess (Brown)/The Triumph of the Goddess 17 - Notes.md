@@ -124,7 +124,7 @@ attempting to prove its own superiority" (156-57). However, the DBhP d
 
 10. For evidence supporting this latter statement, see chapters two and three below.
 
-11. Hazra 1962, 259. Cf. Prasad (307), who sees a possible "three-fold evolution" of the BhP: 1) the four-*sloka\* Bhagavata*\* revealed by Visnu\* himself; 2) a later expansion \[apparently corresponding to Hazra's earlier prototype\] referred to in certain ancient definitions of "the *Bhagavata*\*," such as that given in MatP 53.20-21, but which do not fit very well the extant BhP \[we shall look more closely at some of these definitions in the next two chapters\]; and 3) the extant text. Prasad's view represents an interesting blend of theological and historical perspectives.
+11. Hazra 1962, 259. Cf. Prasad (307), who sees a possible "threefold evolution" of the BhP: 1) the four-*sloka\* Bhagavata*\* revealed by Visnu\* himself; 2) a later expansion \[apparently corresponding to Hazra's earlier prototype\] referred to in certain ancient definitions of "the *Bhagavata*\*," such as that given in MatP 53.20-21, but which do not fit very well the extant BhP \[we shall look more closely at some of these definitions in the next two chapters\]; and 3) the extant text. Prasad's view represents an interesting blend of theological and historical perspectives.
 
 12. As Hazra (1953, 66) would have it.
 
@@ -840,7 +840,7 @@ that such an origin could be misinterpreted as suggesting a certain s
 
 49. A fabulous beast with eight legs and more powerful than a lion.
 
-50. Of the four versions, the VamP's\* conclusion, in which the Devi\* reenters the gods, is the least complimentary to the Goddess. But the DM's conclusion is not explicit in showing the ongoing and independent nature of the Devi\*, though this is clearly the intent given the total context of the DM. As Coburn (1984\[a\], 247) says: "The DM allows for her on-going and unique reality by saying simply, but suggestively, \`she vanished.'" The DBhP, as usual, is not satisfied with mere suggestion and thus indicates explicitly that the Devi\* does not just reenter the gods or merely vanish, but goes back to reign in her supreme abode.
+50. Of the four versions, the VamP's\* conclusion, in which the Devi\* reenters the gods, is the least complimentary to the Goddess. But the DM's conclusion is not explicit in showing the ongoing and independent nature of the Devi\*, though this is clearly the intent given the total context of the DM. As Coburn (1984\[a\], 247) says: "The DM allows for her ongoing and unique reality by saying simply, but suggestively, \`she vanished.'" The DBhP, as usual, is not satisfied with mere suggestion and thus indicates explicitly that the Devi\* does not just reenter the gods or merely vanish, but goes back to reign in her supreme abode.
 
 51. DBhP V.2.1-V.9.35.
 
@@ -1278,7 +1278,7 @@ oral formulae (and oral performances) in similar fashion. Thus, the tw
 
 98. Cf. Gonda (1977, 234).
 
-99. According to the introduction to *Sri*\* *Sri*\* *Chandi,* trans. by Swami Tattwa-nanda, Nagojibhatta\* is the earliest of the commentators (p. v). Both Kane (I.456; II.xii) and Hazra (1963, 344n) give his dates as 1700-1750.
+99. According to the introduction to *Sri*\* *Sri*\* *Chandi,* trans. by Swami Tattwananda, Nagojibhatta\* is the earliest of the commentators (p. v). Both Kane (I.456; II.xii) and Hazra (1963, 344n) give his dates as 1700-1750.
 
 100. Nagojibhatta\* in *Durgasaptasati\*,* with Seven Sanskrit Commentaries*,* p. 37.
 
@@ -1494,7 +1494,7 @@ Suratha and Rama\* are linked in a special, temporal sense. As Chaudh
 
 60. DBhP V.20.20.
 
-61. Satrughna\* of the RM did become king of Madhuvana after slaying Lavana-sura\*, and did return on occasion to visit his brother Rama\* in Ayodhya\*, but he, along with Bharata, followed Rama\* in death through yogic suicide.
+61. Satrughna\* of the RM did become king of Madhuvana after slaying Lavanasura\*, and did return on occasion to visit his brother Rama\* in Ayodhya\*, but he, along with Bharata, followed Rama\* in death through yogic suicide.
 
 *[p. 282]* ^pg292
 
@@ -1906,7 +1906,7 @@ As for the pilgrims themselves at Vindhyacal\*, a substantial minority�
 
 6. This esteem is also seen in references to the DBhP as an authority in ritual matters by modern devotees (Humes, personal correspondence).
 
-7. I am relying here on information provided me by Humes regarding the attitude of devotees towards the two texts (personal correspondence). Humes presents her finding-that the DM is seen especially as a ritual text, the DBhP as story—as merely a "strong impression," needing further research to be substantiated. But her tentative interpretation appears to me quite sound and reasonable.
+7. I am relying here on information provided me by Humes regarding the attitude of devotees towards the two texts (personal correspondence). Humes presents her finding that the DM is seen especially as a ritual text, the DBhP as story—as merely a "strong impression," needing further research to be substantiated. But her tentative interpretation appears to me quite sound and reasonable.
 
 8. Swami Tattwananda 114-16.
 

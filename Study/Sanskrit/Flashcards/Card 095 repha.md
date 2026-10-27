@@ -17,6 +17,8 @@ nyasa: "ra: blood (*rakta*)"
 
 **Card 95 of 108** (printed: Card 3-35 · Alpha 87) · part of a double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** र्◌

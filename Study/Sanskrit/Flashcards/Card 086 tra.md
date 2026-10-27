@@ -17,6 +17,8 @@ nyasa: "ta: left hip (*kaṭi*) · ra: blood (*rakta*)"
 
 **Card 86 of 108** (printed: Card 3-26 · Alpha 59) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** त्र

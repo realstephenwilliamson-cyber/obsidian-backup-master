@@ -17,6 +17,8 @@ nyasa: "right eye (*dṛk*)"
 
 **Card 4 of 108** (printed: Card 1-4 · Alpha 6) · vowel · the letter: [[Letter 03 i|इ i]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** इ

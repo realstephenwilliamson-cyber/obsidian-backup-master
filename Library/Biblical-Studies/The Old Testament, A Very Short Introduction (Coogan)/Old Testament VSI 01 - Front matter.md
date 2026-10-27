@@ -4,7 +4,7 @@ work: "[[Catalog/Biblical-Studies/Coogan - The Old Testament, A Very Short Intro
 book: "[[Library/Biblical-Studies/The Old Testament, A Very Short Introduction (Coogan)/The Old Testament, A Very Short Introduction (Coogan)|The Old Testament, A Very Short Introduction (Coogan)]]"
 order: 1
 source_pdf: "Library/Biblical-Studies/Coogan - The Old Testament, A Very Short Introduction (2008).pdf"
-page_range: "x"
+page_range: "viii–xii"
 pdf_pages: "1–13"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-26
@@ -312,13 +312,13 @@ Printed in the United States of America on acid-free paper
 
 For Dan, Elizabeth, and Matt
 
-*[PDF 9]* ^pg9
+*[p. viii]* ^pg9
 
 ### Acknowledgments
 
 Thanks are happily given to many who have helped with this book, including the anonymous reviewers for Oxford University Press; Donald Kraus, Executive Editor for Bibles at Oxford University Press; my supportive and insightful editor, Nancy Toff; and my constant readers, Elizabeth Hill, and my wife, Pamela Hill.
 
-*[PDF 10]* ^pg10
+*[p. ix]* ^pg10
 
 ### Contents
 
@@ -330,7 +330,7 @@ List of Illustrations xi
 
 Chronology 125 Appendix: The Canons of the Hebrew Bible/Old Testament 127 References 130 Further Reading 132 Index 135
 
-*[PDF 12]* ^pg12
+*[p. xi]* ^pg12
 
 ### List of Illustrations
 
@@ -359,6 +359,6 @@ East. 76
 
 9 Map of Jerusalem in the late eighth century bce. 95
 
-*[PDF 13]* ^pg13
+*[p. xii]* ^pg13
 
 *This page intentionally left blank*

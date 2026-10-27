@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Deleuze, Guattari - A Thousand Plateaus]]"
 book: "[[Library/Philosophy/A Thousand Plateaus (Deleuze, Guattari)/A Thousand Plateaus (Deleuze, Guattari)|A Thousand Plateaus (Deleuze, Guattari)]]"
 order: 23
 source_pdf: "Library/Philosophy/Deleuze, Guattari - A Thousand Plateaus (1987).pdf"
-page_range: ""
+page_range: "611"
 pdf_pages: "628–629"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-26
@@ -12,7 +12,7 @@ converted: 2026-10-26
 
 [[A Thousand Plateaus 22 - Index|← previous]] · [[A Thousand Plateaus (Deleuze, Guattari)|contents]]
 
-*[PDF 628]* ^pg628
+*[p. 611]* ^pg628
 
 ## List of Illustrations
 

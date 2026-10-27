@@ -61,7 +61,7 @@ And this is the meaning of “quietness and surety forever.” השקט (*quietn
 [^1]: [[Isaiah 32#^32-17|Isaiah 32:17]].
 [^2]: Text adds here etc., but omitted according to H. V.
 [^3]: [[Job 25#^25-2|Job 25:2]].
-[^4]: See *Tanchuma*, *Vayigash* 6; cf. *Sefer Habahir*, par. 9 (11) (quoted in *Zohar* I:263a); *Zohar* III:225a; *Tikkunei Zohar* 70 (132a). See also *Devarim Rabbah* 5:12.
+[^4]: See *Tanchuma*, *Vayigash* 6; cf. *Sefer Habahir*, par. 9 (11) (quoted in *Zohar* I:263a); *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-225a|III:225a]]; *Tikkunei Zohar* 70 (132a). See also *Devarim Rabbah* 5:12.
 [^5]: *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-175b|II:175b]]; etc. See above, Epistle 8, note 14.
 [^6]: See above, Epistle 8, note 15.
 [^7]: *Zohar* III:255a; ibid., 257a; *Tikkunei Zohar* 69 (105a).

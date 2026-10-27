@@ -5,6 +5,8 @@ updated: 2026-10-19
 ---
 # CIS Ch. 1 cards
 
+`BUTTON[sr-note, sr-cram]`
+
 [[The Cambridge Introduction 07 - Chapter 1 Writing Sanskrit|Ch. 1 Writing Sanskrit]] · [[Ruppel 1]] · [[CIS - Answers to Chapter 1 Exercises (Ruppel)|key]]
 
 ## Similar characters (p. 12)

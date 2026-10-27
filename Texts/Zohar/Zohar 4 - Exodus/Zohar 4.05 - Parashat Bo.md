@@ -685,7 +685,7 @@ It has been taught: Rabbi Yose said, “It is written: *On the tenth of this mon
 
 [^71]: **nethermost crowns below…** The various demonic powers.
 
-[^72]: **Why *a bundle of hyssop*?…** On its purifying power, see *Zohar* [[Zohar 12.06 - Piqqudin#^z2-41a|2:41a]] (*Piq*), 80b.
+[^72]: **Why *a bundle of hyssop*?…** On its purifying power, see *Zohar* [[Zohar 12.06 - Piqqudin#^z2-41a|2:41a]] (*Piq*), [[Zohar 4.07 - Parashat Yitro#^z2-80b|80b]].
 
     The three places (the two doorposts and the lintel) correspond to the complete triad of *Ḥesed, Din*, and *Tif’eret*. *Ḥesed* and *Din* represent respectively the right and left sides; *Tif’eret* mediates between them. Cf. *Shemot Rabbah* 1:35–36; 17:3.
 
@@ -699,7 +699,7 @@ It has been taught: Rabbi Yose said, “It is written: *On the tenth of this mon
 
     See *Shemot Rabbah* 17:3: “By \[the merit of\] two bloods, Israel were redeemed from Egypt: by the blood of the Paschal Lamb and by the blood of circumcision, as is said: *I passed by you and saw you wallowing in your blood, and I said to you, ‘In your blood, live!’ And I said to you, ‘In your blood live!’* ([[Ezekiel 16#^16-6|Ezekiel 16:6]])—by the blood of the Paschal Lamb and by the blood of circumcision.” The midrashic interpretation is apparently based on the repetition of the exclamation *In your blood, live!*, though possibly on the plural בדמיך (*bedamayikh*), literally, “in your bloods.”
 
-    See *Mekhilta, Pisḥa* 5; *Targum Yerushalmi*, [[Torah 15 - Bo#^12-13|Exodus 12:13]]; *Pesiqta de-Rav Kahana* 5:6; 7:4; *Shir ha-Shirim Rabbah* on 1:12; 5:2; *Rut Rabbah* 6:1; *Pirqei de-Rabbi Eli’ezer* 29; *Shemot Rabbah* 19:5; *Zohar* [[Zohar 12.06 - Piqqudin#^z2-41a|2:41a]] (*Piq*); 3:91b, 95a–b. Cf. [[Torah 15 - Bo#^12-44|Exodus 12:44]], 48; [[Joshua 05#^5-5|Joshua 5:5]].
+    See *Mekhilta, Pisḥa* 5; *Targum Yerushalmi*, [[Torah 15 - Bo#^12-13|Exodus 12:13]]; *Pesiqta de-Rav Kahana* 5:6; 7:4; *Shir ha-Shirim Rabbah* on 1:12; 5:2; *Rut Rabbah* 6:1; *Pirqei de-Rabbi Eli’ezer* 29; *Shemot Rabbah* 19:5; *Zohar* [[Zohar 12.06 - Piqqudin#^z2-41a|2:41a]] (*Piq*); [[Zohar 8.04 - Parashat Emor#^z3-91b|3:91b]], [[Zohar 8.04 - Parashat Emor#^z3-95a|95a–b]]. Cf. [[Torah 15 - Bo#^12-44|Exodus 12:44]], 48; [[Joshua 05#^5-5|Joshua 5:5]].
 
     Here the blood of circumcision is associated with the divine quality of Compassion. Cf. BT *Shabbat* [[Shabbat 137#137b|137b]]: “Were it not for the blood of the covenant \[of circumcision\], heaven and earth would not endure, as is said: *Were it not for My covenant day and night, I would not have established the laws of heaven and earth* ([[Jeremiah 33#^33-25|Jeremiah 33:25]]).” The blood of the Paschal Lamb is associated with Judgment because of the judgment executed upon the Egyptians.
 
@@ -1221,11 +1221,11 @@ It has been taught: Rabbi Yose said, “It is written: *On the tenth of this mon
 
     Similarly, according to Rabbi Shim’on, in the opening verse of Ezekiel the word מראות (*mar’ot*), *visions of* \[*God*\], is spelled deficiently, without the ו (*vav*): מראת—which can be pronounced *mar’at*, “a vision of,” in the singular, alluding to the isolation of *Shekhinah* in exile, separated from Her partner.
 
-    Actually, in the Masoretic text of [[Torah 15 - Bo#^12-15|Exodus 12:15]] the full spelling appears: מצות (*matstsot*), *unleavened bread.* The deficient spelling—מצת (*matstsot*)—appears in [[Torah 15 - Bo#^12-18|Exodus 12:18]]; [[Torah 15 - Bo#^13-6|13:6]]. See *Zohar* [[Zohar 12.06 - Piqqudin#^z2-41b|2:41b]] (*Piq*), 182b; *Minḥat Shai* on [[Torah 15 - Bo#^12-15|Exodus 12:15]], 18; 23:15; [[Torah 24 - Vayikra#^2-4|Leviticus 2:4]]; [[Torah 25 - Tzav#^7-12|7:12]]; [[Torah 36 - Beha'alotcha#^9-11|Numbers 9:11]].
+    Actually, in the Masoretic text of [[Torah 15 - Bo#^12-15|Exodus 12:15]] the full spelling appears: מצות (*matstsot*), *unleavened bread.* The deficient spelling—מצת (*matstsot*)—appears in [[Torah 15 - Bo#^12-18|Exodus 12:18]]; [[Torah 15 - Bo#^13-6|13:6]]. See *Zohar* [[Zohar 12.06 - Piqqudin#^z2-41b|2:41b]] (*Piq*), [[Zohar 6.03 - Parashat Tetsavveh#^z2-182b|182b]]; *Minḥat Shai* on [[Torah 15 - Bo#^12-15|Exodus 12:15]], 18; 23:15; [[Torah 24 - Vayikra#^2-4|Leviticus 2:4]]; [[Torah 25 - Tzav#^7-12|7:12]]; [[Torah 36 - Beha'alotcha#^9-11|Numbers 9:11]].
 
     Similarly, in the Masoretic text of [[Ezekiel 01#^1-1|Ezekiel 1:1]] the full spelling appears: מראות (*mar’ot*), *visions of.* See *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-82a|2:82a]]–b, [[Zohar 5.04 - Sava de-Mishpatim#^z2-124b|124b]]; *Minḥat Shai* on [[Ezekiel 01#^1-1|Ezekiel 1:1]]. The deficient spelling—מראת (*mar’ot*)—appears in [[Torah 11 - Vayigash#^46-2|Genesis 46:2]]. See *Zohar* [[Zohar 3.06 - Parashat Va-Yiggash#^z1-211a|1:211a]]; cf. above, note 66.
 
-    For similar instances of a difference between the Masoretic spelling and the *Zohar*’s reading, see *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-83b|1:83b]] (Vol. 2, p. 34, n. 256), 84a (Vol. 2, p. 37, n. 289), 236b (Vol. 3, p. 435, n. 644); 3:254a (*RM*). On this phenomenon, see Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 50, 131–32, n. 125.
+    For similar instances of a difference between the Masoretic spelling and the *Zohar*’s reading, see *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-83b|1:83b]] (Vol. 2, p. 34, n. 256), [[Zohar 2.02 - Parashat Lekh Lekha#^z1-84a|84a]] (Vol. 2, p. 37, n. 289), [[Zohar 3.07 - Parashat Va-Yhi#^z1-236b|236b]] (Vol. 3, p. 435, n. 644); 3:254a (*RM*). On this phenomenon, see Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 50, 131–32, n. 125.
 
     For the word מצה (*matstsah*), “strife,” see [[Isaiah 58#^58-4|Isaiah 58:4]]; [[Proverbs 13#^13-10|Proverbs 13:10]]; [[Proverbs 17#^17-19|17:19]]. For the play on the two homonyms, see *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-251b|3:251b]]; Moses de León, *Sefer ha-Rimmon*, 135. Cf. *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-226b|1:226b]] (Vol. 3, p. 364, n. 333).
 

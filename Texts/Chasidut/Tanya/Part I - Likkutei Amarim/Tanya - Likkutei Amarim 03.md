@@ -54,7 +54,7 @@ Therefore *daat* is the basis of the *middot* and the source of their vitality; 
 [^2]: The ten *sefirot* are more fully discussed by the author in the fourth part of the book, *Iggeret Hakodesh*, sect. 15 and elsewhere.
 [^3]: Ibid.
 [^4]: *Zohar* III:28a; [[Zohar 7.04 - Parashat Tsav#^z3-34a|34a]]. A play on the Hebrew word חכמה—כ“ח מ“ה. It is also to be understood as “pure” or creative reason in potentia.
-[^5]: I.e., both immanently and transcendency. *Zohar* III:225a.
+[^5]: I.e., both immanently and transcendency. *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-225a|III:225a]].
 [^6]: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-11b|I:11b]].
 [^7]: [[Psalms 084#^84-3|Psalms 84:3]].
 [^8]: [[Psalms 042#^42-3|Psalms 42:3]].

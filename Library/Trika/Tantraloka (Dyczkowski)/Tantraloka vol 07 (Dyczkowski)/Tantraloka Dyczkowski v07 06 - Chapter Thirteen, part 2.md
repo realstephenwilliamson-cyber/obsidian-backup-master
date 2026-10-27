@@ -851,7 +851,7 @@ satsaṅgaḥ parameśānapūjādyabhyāsanityatā ॥ 98 ॥
 sāstrasevā bhogasaṁghapūrṇatā jṁānam aiśvaram || 99 ||
 ity apekṣyaṁ yadīśasya dūṣyam etac ca pūrvavat | 
 
-All the various causes on which the Lord is said to depend (in order to dispense His grace, according to one view or another), such as, dispassion (vairāgya), disgust for worldly experience (bhogavairasya), religious observance (dharma), a certain kind of discrimination, association with spiritual people, the worship of the Supreme Lord and other (deities), regular spiritual practice, indifference to the calamities which befall one, some sign (lakṣana) (of spiritual attainment that appears) on the body, the veneration (sevā) of the scriptures, the completion of (all) the aggregate of worldly experience (bhogasanghapūrnatā), and knowledge of God, are (all implicitly) faulted (dūṣya) as before (by the preceding arguments). (98- 100ab) 
+All the various causes on which the Lord is said to depend (in order to dispense His grace, according to one view or another), such as, dispassion (vairāgya), disgust for worldly experience (bhogavairasya), religious observance (dharma), a certain kind of discrimination, association with spiritual people, the worship of the Supreme Lord and other (deities), regular spiritual practice, indifference to the calamities which befall one, some sign (lakṣana) (of spiritual attainment that appears) on the body, the veneration (sevā) of the scriptures, the completion of (all) the aggregate of worldly experience (bhogasanghapūrnatā), and knowledge of God, are (all implicitly) faulted (dūṣya) as before (by the preceding arguments). (98-100ab) 
 
 #### Viveka on 13.98–100
 

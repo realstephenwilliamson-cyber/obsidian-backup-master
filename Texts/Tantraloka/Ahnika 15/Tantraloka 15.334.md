@@ -27,7 +27,7 @@ tato viśvaṃ viniṣkrāntaṃ pūjitaṃ dakṣiṇottare || ^iast
 > [!source] Dyczkowski, vol. VIII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 08 (Dyczkowski)/Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#^pg222|p. 204]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 08.pdf#page=222>))
 >
-> It is said (in the Siddhayogeśvarīmata): ‘In the middle, one should place (the Goddess) who, resplendent like the sun, consists of all the letters. Parā, who consists of a single syllable (SAUH), is on the tip of (her) topknot (śikhā), and so are her limbs and the rest.’ (with 15.333cd–334ab)
+> It is said (in the Siddhayogeśvarīmata): ‘In the middle, one should place (the Goddess) who, resplendent like the sun, consists of all the letters. Parā, who consists of a single syllable (SAUḤ), is on the tip of (her) topknot (śikhā), and so are her limbs and the rest.’ (with 15.333cd–334ab)
 
 ## Viveka
 

@@ -409,7 +409,7 @@ Nor does anybody disagree here (about this). Thus he says:
 
 yoginaḥ paradehādijīvatāpādane nijam ॥ 206 ॥ 
 
-When, for example, a yogi gives life to another body without abandoning his own body, do not (his) various perceptions serve as material causes (of the operation of the senses in the other body)? (206cd- 207ab) 
+When, for example, a yogi gives life to another body without abandoning his own body, do not (his) various perceptions serve as material causes (of the operation of the senses in the other body)? (206cd-207ab) 
 
 #### Viveka on 28.206–207
 
@@ -565,7 +565,7 @@ What is said to be his (assumption of an) embodied state? With this doubt in min
 śarīrabhāktvami caitāvad yat tad garbhasthadehagaḥ ॥ 218 ॥
 sarwvitteḥ Śūnyarūdhāyāḥ prathamaḥ prāṇanodayaḥ | 
 
-Such is (the assumption of an) embodied state, namely, the initial emergence of the life force (prāṇnana)” from consciousness, blocked in the void (of deep sleep) that takes place in the body within the womb. (218cd- 219ab) 
+Such is (the assumption of an) embodied state, namely, the initial emergence of the life force (prāṇnana)” from consciousness, blocked in the void (of deep sleep) that takes place in the body within the womb. (218cd-219ab) 
 
 #### Viveka on 28.218–219
 
@@ -581,7 +581,7 @@ Surely (one may ask), from whence does the body within the womb (originate) that
 garbhasthadehanirmānṇe tasyaiveśvaratā punaḥ || 219 ॥
 asaṁkocasya tanvādikartā teneśa ucyate | 
 
-The sovereign power (TŚvaratā) to fashion the body in the womb belongs solely to that (initial emergence of the life force which is as yet) uncontracted (and undifferentiated). Thus it is said that it is the Lord who makes the body and the rest (of the psychophysical organism). (219cd- 220ab) 
+The sovereign power (TŚvaratā) to fashion the body in the womb belongs solely to that (initial emergence of the life force which is as yet) uncontracted (and undifferentiated). Thus it is said that it is the Lord who makes the body and the rest (of the psychophysical organism). (219cd-220ab) 
 
 #### Viveka on 28.219–220
 
@@ -741,7 +741,7 @@ These (phases of) its creation etc. (as an embodied soul) depend on the strength
 visṛṣtisthitisahhārā ete karmabalād yataḥ || 232 ॥
 ato niyatikālādivaicitryānuvidhāyinaḥ | 
 
-These (phases of) creation, persistence and re-absorption (to which the embodied soul is subject) are due to the strength of the (soul’s) Karma etc, and so (take place) in accord with the dictates of a variety (of constraints, due to the soul’s Karma) (niyati), time and the rest.” (232cd- 233ab) 
+These (phases of) creation, persistence and re-absorption (to which the embodied soul is subject) are due to the strength of the (soul’s) Karma etc, and so (take place) in accord with the dictates of a variety (of constraints, due to the soul’s Karma) (niyati), time and the rest.” (232cd-233ab) 
 
 #### Viveka on 28.232–233
 
@@ -879,7 +879,7 @@ Those who die in the abodes (dhāman) of those deities who have assumed partial 
 
 *[p. 108]* ^pg125
 
-do so as) partial incarnations (amma) ) of this or that (deity). And then again, one in nature with that, by (receiving) that initiation, knowledge and (their) observance (caryā) etc., they gradually attain Śiva’s nature. (The entire range of) fettered souls, beginning with plants and ending with animals, that have died in the (domains of these) two kinds (of divine beings), (reincarnate) in various ways in the world (they govern), according to (how they are) penetrated by the latent traces of their own Karma. (245cd- 248ab) 
+do so as) partial incarnations (amma) ) of this or that (deity). And then again, one in nature with that, by (receiving) that initiation, knowledge and (their) observance (caryā) etc., they gradually attain Śiva’s nature. (The entire range of) fettered souls, beginning with plants and ending with animals, that have died in the (domains of these) two kinds (of divine beings), (reincarnate) in various ways in the world (they govern), according to (how they are) penetrated by the latent traces of their own Karma. (245cd-248ab) 
 
 #### Viveka on 28.245–248
 
@@ -1141,7 +1141,7 @@ siddhāntādau purānṇeṣu tathā ca śrūyate bahu ॥ 266 ॥
 
 tulye rudrāvatāratve citratvaṁ karmabhogayoḥ | 
 
-And such is what is often heard in the Purāṇas and in the Siddhāntas etc., namely, (although they are all) equally incarnations (avatāra) of Rudra, (their) Karma and worldly experience is varied. (266cd- 267ab) 
+And such is what is often heard in the Purāṇas and in the Siddhāntas etc., namely, (although they are all) equally incarnations (avatāra) of Rudra, (their) Karma and worldly experience is varied. (266cd-267ab) 
 
 #### Viveka on 28.266–267
 
@@ -1155,7 +1155,7 @@ Surely, if (their) state as Rudra is one in this way, how can this be logically 
 anekaśaktikhacitaṁ yato bhāvasya yad vapuḥ || 267 ॥
 śaktibhyo ‘rthāntarari naiṣa tatsamūhād rte bhavet | 
 
-The body of a (phenomenal) entity is inlaid (khacita) with many powers, and so there is no other reality (artha) apart from (these) powers, (for that) would not exist devoid of that assembly (of powers). (267cd- 268ab) 
+The body of a (phenomenal) entity is inlaid (khacita) with many powers, and so there is no other reality (artha) apart from (these) powers, (for that) would not exist devoid of that assembly (of powers). (267cd-268ab) 
 
 #### Viveka on 28.267–268
 

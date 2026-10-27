@@ -417,7 +417,7 @@ Rabbi Yehudah said, “This is the meaning of the entire passage; also indicatin
 
 [^22]: **The robust femur…** דקרדינותא‎ קוליתא (*qulita de-qardinuta*). The *Zohar* is apparently describing how a dislocated femur seeks to reattach itself to the body (see *Derekh Emet*). So too the soul wandering outside the garden of Eden. Cf. *Dammeseq Eli’ezer* (cited in *Nitsotsei Zohar*, ad loc.), who derives קוליתא from קלניתא (*qlanita*), some kind of bird, as found in BT *Bava Batra* [[Bava Batra 20#20a|20a]] and *Ḥullin* [[Chullin 102#102b|102b]]. Cf. Mopsik, “Un solide ballon.”
 
-    See BT *Shabbat* [[Shabbat 152#152b|152b]]–153a: “For all twelve months [after death], one’s body endures—and his soul ascends and descends; after twelve months, the body ceases to exist—and the soul ascends and never again descends.” See *Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-81a|1:81a]] (*ST*), 225a; 2:199b.
+    See BT *Shabbat* [[Shabbat 152#152b|152b]]–153a: “For all twelve months [after death], one’s body endures—and his soul ascends and descends; after twelve months, the body ceases to exist—and the soul ascends and never again descends.” See *Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-81a|1:81a]] (*ST*), [[Zohar 3.07 - Parashat Va-Yhi#^z1-225a|225a]]; [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-199b|2:199b]].
 
 [^23]: ***Abraham rose from before his dead*…** That is, the soul (*Abraham*) separated from the body (*his dead*).
 

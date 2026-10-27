@@ -17,6 +17,8 @@ nyasa: "ha: breath (*prāṇa*) · ma: heart (*hṛd*)"
 
 **Card 99 of 108** (printed: Card 3-39 · Alpha 104) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ह्म

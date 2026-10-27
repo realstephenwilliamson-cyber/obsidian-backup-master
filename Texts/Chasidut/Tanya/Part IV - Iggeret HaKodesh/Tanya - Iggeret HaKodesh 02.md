@@ -46,7 +46,7 @@ Therefore I come with a general announcement to inform all our followers regardi
 [^14]: [[Torah 08 - Vayishlach#^32-11|Genesis 32:11]].
 [^15]: *Berachot* [[Berakhot 4#4a|4a]].
 [^16]: See [[Ecclesiastes 07#^7-14|Ecclesiastes 7:14]]: “G–d has made one thing opposite the other.” This verse is interpreted to mean that everything in one realm has its corresponding opposite in another realm. Thus every factor in the realm of “holiness” has a corresponding opposite in the “other side,” in the realm of the profane or evil.—See *Sefer Habahir* 9 (11); *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-160a|I:160a]]; ibid., III:282a; *Tikkunei Zohar* 70 (125a); *et passim*. See also *Pardes Rimonim* 25:1; *Or Hatorah*, *Nach*, vol. 2, p. 1128; below, Epistle 25, note 63.
-[^17]: As Abraham signifies the attribute of *chesed* in holiness, so Ishmael signifies the attribute of *chesed* in *kelipah*; see *Zohar* III:246b (also ibid., [[Zohar 8.08 - Parashat Naso#^z3-124a|124a]]). Cf. *Likkutei Torah*, *Ekev* 18a.
+[^17]: As Abraham signifies the attribute of *chesed* in holiness, so Ishmael signifies the attribute of *chesed* in *kelipah*; see *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-246b|III:246b]] (also ibid., [[Zohar 8.08 - Parashat Naso#^z3-124a|124a]]). Cf. *Likkutei Torah*, *Ekev* 18a.
 [^18]: Cf. *Chullin* [[Chullin 89#89a|89a]] and *Midrash Tehillim*, ed. Buber, 22:20, in the editor’s glosses, note 99.
 [^19]: Par. [[Psalms 126#^126-3|Psalms 126:3]].
 [^20]: Par. [[Isaiah 11#^11-11|Isaiah 11:11]].

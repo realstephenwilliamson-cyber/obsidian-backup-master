@@ -4,7 +4,7 @@ work: "[[Chan (ed.) - A Source Book in Chinese Philosophy]]"
 book: "[[Library/Other/A Source Book in Chinese Philosophy (Chan)/A Source Book in Chinese Philosophy (Chan)|A Source Book in Chinese Philosophy (Chan)]]"
 order: 5
 source_pdf: Library/Other/Wing-Tsit Chan - A Source Book in Chinese Philosophy (1969).pdf
-page_range: 28–40
+page_range: 1–40
 pdf_pages: 28–67
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,13 +12,13 @@ converted: 2026-10-07
 
 [[A Source Book in Chinese 04 - Blank page|← previous]] · [[A Source Book in Chinese Philosophy (Chan)|contents]] · [[A Source Book in Chinese 06 - 2. The Humanism of Confucius (end) and 3. Idealistic Confucianism, Mencius|next →]]
 
-*[PDF 28]* ^pg28
+*[p. 1]* ^pg28
 
 ## A SOURCE BOOK IN
 
 C H I N E S E P H I L O S O P H Y
 
-*[PDF 29]* ^pg29
+*[p. 2]* ^pg29
 
 ABBREVIATIONS AND ABRIDGMENTS CTTC *Chu Tzu ta-ch'üan* (Complete Literary Works of Chu Hsi), SPPY
 

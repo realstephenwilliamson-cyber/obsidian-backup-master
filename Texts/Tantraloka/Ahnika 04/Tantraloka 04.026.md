@@ -30,7 +30,7 @@ ye kecidṛṣayo dhīrāḥ śāstrāntaraparāyaṇāḥ || ^iast
 > [!source] Dyczkowski, vol. III
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 03 (Dyczkowski)/Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#^pg46|p. 33]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 03.pdf#page=46>))
 >
-> ‘Those who know the Vedas, Sāmkhya and Purāṇas, or are dedicated to the (Vaiṣṇava) Pāñcarātra (taking it to be the highest), as well as those few firm-minded Vedic sages () who are dedicated to other scriptures (considering them to be supreme), the Buddhists and the Jains etc., are all (foolishly) delighted (rañjita) (by (limited) knowledge and attachment. Thus, because they are bound by the fetter of Māyā, they do not get Śiva’s initiation.’ (with 4.26–27)
+> ‘Those who know the Vedas, Sāṁkhya and Purāṇas, or are dedicated to the (Vaiṣṇava) Pāñcarātra (taking it to be the highest), as well as those few firm-minded Vedic sages (ṛṣi) who are dedicated to other scriptures (considering them to be supreme), the Buddhists and the Jains etc., are all (foolishly) delighted (rañjita) (by (limited) knowledge and attachment. Thus, because they are bound by the fetter of Māyā, they do not get Śiva’s initiation.’ (with 4.26–27)
 
 ## Viveka
 

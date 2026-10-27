@@ -17,6 +17,8 @@ nyasa: "semen (*śukra*)"
 
 **Card 59 of 108** (printed: Card 2-32 · Alpha 98) · consonant · the letter: [[Letter 48 sa|स sa]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** स

@@ -893,7 +893,7 @@ He opened, saying, “*And YHVH utters His voice before His forces; for vast is 
 
     Here the souls abide in the womb of *Shekhinah*, who is the “treasury of souls.” The image of a treasury derives from Rashi’s commentary on a Talmudic passage (BT *Yevamot* [[Yevamot 62#62a|62a]]) in which Rabbi Assi mentions a heavenly “body” containing all souls; Rashi refers to this body as אוצר (*otsar*), “a treasury.” In the *Zohar* the treasure house of unborn souls is sometimes identified with *Shekhinah*.
 
-    See 3 Enoch 43:3; *Bahir* 126 (184); *Zohar* [[Zohar 1.028b|1:28b]] (*TZ*), 119a; 2:142a, 157a, 161b, 174a, 253 (*Heikh*); 3:152a; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-10b|10b–c]] (*MhN*), [[Zohar 12.11 - Zohar al ha-Parashot#^zh-60b|60b]], [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-69b|69b]] (*ShS*); Moses de León, *Sefer ha-Mishqal*, 93; Tishby, *Mishnat ha-Zohar*, 2:728–29; idem, *Wisdom of the Zohar*, 3:1493; Liebes, *Peraqim*, 179–80, 226.
+    See 3 Enoch 43:3; *Bahir* 126 (184); *Zohar* [[Zohar 1.028b|1:28b]] (*TZ*), [[Zohar 2.03 - Parashat Va-Yera#^z1-119a|119a]]; [[Zohar 5.05 - Parashat Terumah#^z2-142a|2:142a]], [[Zohar 5.05 - Parashat Terumah#^z2-157a|157a]], [[Zohar 5.05 - Parashat Terumah#^z2-161b|161b]], [[Zohar 5.05 - Parashat Terumah#^z2-174a|174a]], 253 (*Heikh*); 3:152a; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-10b|10b–c]] (*MhN*), [[Zohar 12.11 - Zohar al ha-Parashot#^zh-60b|60b]], [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-69b|69b]] (*ShS*); Moses de León, *Sefer ha-Mishqal*, 93; Tishby, *Mishnat ha-Zohar*, 2:728–29; idem, *Wisdom of the Zohar*, 3:1493; Liebes, *Peraqim*, 179–80, 226.
 
     For other interpretations of this phrase, see *OY*; *KP*; Galante; *Sullam*; Liebes, *Peraqim*, 134, 393.
 
@@ -1019,7 +1019,7 @@ He opened, saying, “*And YHVH utters His voice before His forces; for vast is 
 
 [^124]: ***you will not take a wife… For my son*…** Understood to mean: Metatron should not revive a body for this soul from among other peoples.
 
-[^125]: **will one day shake out of the Holy Land…** See *Pirqei de-Rabbi Eli’ezer* 34; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-17a|2:17a]]; 3:72b; Moses de León, *Sefer ha-Mishqal*, 89; Mopsik.
+[^125]: **will one day shake out of the Holy Land…** See *Pirqei de-Rabbi Eli’ezer* 34; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-17a|2:17a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-72b|3:72b]]; Moses de León, *Sefer ha-Mishqal*, 89; Mopsik.
 
     The citation from Job is from God’s speech out of the whirlwind (38:12–13): *Since your days began, have you commanded morning, assigned dawn his place, to grasp the comers of the earth, so the wicked be shaken out of it?*
 
@@ -1461,7 +1461,7 @@ He opened, saying, “*And YHVH utters His voice before His forces; for vast is 
 
     See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-53b|1:53b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-198b|198b]]; Moses de León, *Orḥot Ḥayyim*, par. 12; Scholem; Lieberman, *Tosefet Rishonim*, 4:147; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 31; 121, n. 59. The procedure described in Numbers 19 is a purification ritual for one who has experienced contact with a human corpse: water is mixed with the ashes of a red heifer and then sprinkled on the impure person by one who is pure.
 
-[^259]: **not be used in any way, but rather poured out…** See *Shulḥan Arukh, Oraḥ Ḥayyim* 4:9. Cf. *Zohar* [[Zohar 12.06 - Piqqudin#^z3-264a|3:264a]], 265b.
+[^259]: **not be used in any way, but rather poured out…** See *Shulḥan Arukh, Oraḥ Ḥayyim* 4:9. Cf. *Zohar* [[Zohar 12.06 - Piqqudin#^z3-264a|3:264a]], [[Zohar 9.12 - Parashat Va-Ethannan#^z3-265b|265b]].
 
 [^260]: **witches, who can thereby afflict people…** See *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-81b|81b]]–c (*MhN, Rut*).
 
@@ -1649,7 +1649,7 @@ He opened, saying, “*And YHVH utters His voice before His forces; for vast is 
 
     See BT *Niddah* [[Niddah 13#13a|13a]]: “Rabbi Yitsḥak and Rabbi Ammi said, ‘\[Whoever emits semen fruitlessly\] is as though he sheds blood.’” Cf. *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-56b|1:56b]]–57a, [[Zohar 3.04 - Parashat Va-Yeshev#^z1-188a|188a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-219b|219b]]; Moses de León, *Shushan Edut*, 353; Tishby, *Wisdom of the Zohar*, 3:1365–66.
 
-    On the sexual sin of the generation of the Flood, see *Kallah Rabbati* 2; *Pirqei de-Rabbi Eli’ezer* 22; *Bereshit Rabbah* 26:4; Rashi on BT *Shabbat* [[Shabbat 41#41a|41a]], s.v. *ke-illu mevi mabbul la-olam; Zohar* 1:62a, 69a. On the nature of Er’s sin, see *Bereshit Rabbah* 85:4 (and Theodor, ad loc.); BT *Yevamot* [[Yevamot 34#34b|34b]]; *Targum Yerushalmi*, [[Torah 09 - Vayeshev#^38-7|Genesis 38:7]]; Moses de León, *Sefer ha-Rimmon*, 230.
+    On the sexual sin of the generation of the Flood, see *Kallah Rabbati* 2; *Pirqei de-Rabbi Eli’ezer* 22; *Bereshit Rabbah* 26:4; Rashi on BT *Shabbat* [[Shabbat 41#41a|41a]], s.v. *ke-illu mevi mabbul la-olam; Zohar* [[Zohar 1.08 - Parashat Noah#^z1-62a|1:62a]], [[Zohar 1.08 - Parashat Noah#^z1-69a|69a]]. On the nature of Er’s sin, see *Bereshit Rabbah* 85:4 (and Theodor, ad loc.); BT *Yevamot* [[Yevamot 34#34b|34b]]; *Targum Yerushalmi*, [[Torah 09 - Vayeshev#^38-7|Genesis 38:7]]; Moses de León, *Sefer ha-Rimmon*, 230.
 
 [^325]: ***Judah said to Onan*…** The full verse reads: *Judah said to Onan, “Come in to your brother’s wife and fulfill your duty as brother-in-law to her and raise up seed for your brother.”* Onan is commanded to marry his deceased brother’s widow and consummate their new union, thereby maintaining his brother’s line. This custom of levirate marriage is legally codified in [[Torah 49 - Ki Teitzei#^25-5|Deuteronomy 25:5–6]]. In Kabbalah it is understood in terms of reincarnation, as in the following passage.
 
@@ -1955,7 +1955,7 @@ He opened, saying, “*And YHVH utters His voice before His forces; for vast is 
 
 [^428]: **three encamped flanks…** These three camps of angels correspond to the three watches of the night.
 
-    See BT *Berakhot* [[Berakhot 3#3a|3a]], and Rashi, ad loc., s.v. *i kasavar; Zohar* 1:231a; 2:195b–196a; Moses de León, *Sefer ha-Rimmon*, 403; idem, *Sheqel ha-Qodesh*, 70–71 (88–89).
+    See BT *Berakhot* [[Berakhot 3#3a|3a]], and Rashi, ad loc., s.v. *i kasavar; Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-231a|1:231a]]; [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-195b|2:195b–196a]]; Moses de León, *Sefer ha-Rimmon*, 403; idem, *Sheqel ha-Qodesh*, 70–71 (88–89).
 
 [^429]: **one holy living being…** *Shekhinah*, presiding over all the angels.
 
@@ -2073,7 +2073,7 @@ He opened, saying, “*And YHVH utters His voice before His forces; for vast is 
 
 [^470]: **when Rabbi Ḥiyya came from there…** As in the Jerusalem Talmud, “there” refers to Babylonia. Studying Torah in the land of Israel is more enlightening than anywhere else.
 
-    On the shining countenance, see [[Ecclesiastes 08#^8-1|Ecclesiastes 8:1]] (*A man’s wisdom brightens his face*); [[Torah 21 - Ki Tisa#^34-29|Exodus 34:29–35]]; JT *Shabbat* 8:1, 11a; *Pirqei de-Rabbi Eli’ezer* 2; Naḥmanides, *Kitvei Ramban*, 2:305–6; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-15a|2:15a]]; 3:163a.
+    On the shining countenance, see [[Ecclesiastes 08#^8-1|Ecclesiastes 8:1]] (*A man’s wisdom brightens his face*); [[Torah 21 - Ki Tisa#^34-29|Exodus 34:29–35]]; JT *Shabbat* 8:1, 11a; *Pirqei de-Rabbi Eli’ezer* 2; Naḥmanides, *Kitvei Ramban*, 2:305–6; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-15a|2:15a]]; [[Zohar 9.04 - Rav Metivta#^z3-163a|3:163a]].
 
 [^471]: **he would say, ‘This one engages…’** Rabbi Ḥiyya could tell by observing their physiognomy.
 
@@ -2103,7 +2103,7 @@ He opened, saying, “*And YHVH utters His voice before His forces; for vast is 
 
 [^480]: **shofar on Rosh Hashanah** The shofar (ram’s horn) is intended to confound Satan and interfere with his accusations.
 
-    See BT *Rosh ha-Shanah* [[Rosh Hashanah 16#16a|16a]]–b; Rashi and Tosafot, ad loc., s.v. *kedei le-arbev; Zohar* 1:114a–b; Moses de León, *Sefer ha-Mishqal*, 119–22.
+    See BT *Rosh ha-Shanah* [[Rosh Hashanah 16#16a|16a]]–b; Rashi and Tosafot, ad loc., s.v. *kedei le-arbev; Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-114a|1:114a–b]]; Moses de León, *Sefer ha-Mishqal*, 119–22.
 
 [^481]: **on Yom Kippur with a goat…** In the original ritual of Yom Kippur ([[Torah 29 - Achrei Mot#^16-7|Leviticus 16:7–10]]), one goat is sacrificed as a sin offering to God, while a scapegoat bearing the sins of Israel is sent off into the wilderness for the demon Azazel. (Similarly in the Babylonian Akitu ritual, a goat—substituted for a human being—is offered to Ereshkigal, goddess of the Abyss.) According to *Pirqei de-Rabbi Eli’ezer* 46, the goat of Yom Kippur is intended to preoccupy Satan: “They gave him a bribe on Yom Kippur so that he would not nullify Israel’s sacrifice.”
 

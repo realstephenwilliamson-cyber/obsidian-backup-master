@@ -27,7 +27,7 @@ tadaiva te vimuktāstu dīkṣitā guruṇā yataḥ || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#^pg303|p. 281]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=303>))
 >
-> Maheśa (the Great Lord) has said in the first section of six thousand verses (ṣafka) of the Nandisikhātantra: ‘O goddess, supreme individual souls, by considering themselves to be Śiva, are conjoined (to him). Initiated by the teacher, they are liberated just then itself. (Even so, these) fettered souls desire (to go to) Śiva. This is because they come to know (from him) that just by receiving (that initiation), they have accomplished what needs to be done. (with 13.251–253ab)
+> Maheśa (the Great Lord) has said in the first section of six thousand verses (ṣaṭka) of the Nandiśikhātantra: ‘O goddess, supreme individual souls, by considering themselves to be Śiva, are conjoined (to him). Initiated by the teacher, they are liberated just then itself. (Even so, these) fettered souls desire (to go to) Śiva. This is because they come to know (from him) that just by receiving (that initiation), they have accomplished what needs to be done. (with 13.251–253ab)
 
 ## Viveka
 

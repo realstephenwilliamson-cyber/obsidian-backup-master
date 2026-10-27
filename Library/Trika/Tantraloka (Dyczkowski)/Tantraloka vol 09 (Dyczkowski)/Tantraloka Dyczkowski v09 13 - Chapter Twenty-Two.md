@@ -536,7 +536,7 @@ bhairavīye catuhṣaṣtau tān paśūn dīkṣayet trike |
 siddhavīrāvalīsāre bhairavīye kule ‘pi ca ॥ 41 ॥
 pañcadīkṣākramopāntā dīkṣānuttarasaijñitā | 
 
-(The teacher) should initiate into Trika those fettered souls who have been initiated into the Siddhānta, that is, Tantra divided into ten and eighteen (Tantras), and into the sixty-four Bhairava (Tantras). It is said in the Siddhavīrāvalisāra as well as in Bhairava’s Kula < that the initiation that is called Anuttara\* is preceded by a series of five initiations.” (40cd- 42ab) 
+(The teacher) should initiate into Trika those fettered souls who have been initiated into the Siddhānta, that is, Tantra divided into ten and eighteen (Tantras), and into the sixty-four Bhairava (Tantras). It is said in the Siddhavīrāvalisāra as well as in Bhairava’s Kula < that the initiation that is called Anuttara\* is preceded by a series of five initiations.” (40cd-42ab) 
 
 #### Viveka on 22.40–42
 

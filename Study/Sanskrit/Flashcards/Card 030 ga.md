@@ -17,6 +17,8 @@ nyasa: "right hand (*kara*)"
 
 **Card 30 of 108** (printed: Card 2-3 · Alpha 35) · consonant · the letter: [[Letter 19 ga|ग ga]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ग

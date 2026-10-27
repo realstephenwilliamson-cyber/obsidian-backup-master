@@ -29,7 +29,7 @@ uktaṃ śrīratnamālāyāṃ nābhiṃ daṇḍena saṃpuṭam || ^iast
 >
 > (This can take place) because (the wheel of goddesses is both) impelled and impelling as the pulled and the puller. (with 29.192ab)
 >
-> It is said in the venerable Ratnamālā: ‘(the teacher) should apply the weapon of the command (codanāstra) - consisting of the navel (K), encapsulated with the staff (R), adorned with the left ornament (Ū) and shank (AU) as well as with the hip (M) — on the disciple’s hand that holds the flower. (He should do this) until paralysis (stobha) ensues and the (hand) falls by itself on (his) head. This is itself Śiva’s Hand, that instils immediate conviction (pratyaya) (of its effectiveness).’ With this same procedure (prayoga), the teacher should make the disciple take hold of the sacrificial pap and the (cleaning) stick for the teeth. (The significance of) its fall (where and how it takes place) is as before. (with 29.192cd–195)
+> It is said in the venerable Ratnamālā: ‘(the teacher) should apply the weapon of the command (codanāstra) - consisting of the navel (KṢ), encapsulated with the staff (R), adorned with the left ornament (Ū) and shank (AU) as well as with the hip (M) — on the disciple’s hand that holds the flower. (He should do this) until paralysis (stobha) ensues and the (hand) falls by itself on (his) head. This is itself Śiva’s Hand, that instils immediate conviction (pratyaya) (of its effectiveness).’ With this same procedure (prayoga), the teacher should make the disciple take hold of the sacrificial pap and the (cleaning) stick for the teeth. (The significance of) its fall (where and how it takes place) is as before. (with 29.192cd–195)
 
 ## Viveka
 

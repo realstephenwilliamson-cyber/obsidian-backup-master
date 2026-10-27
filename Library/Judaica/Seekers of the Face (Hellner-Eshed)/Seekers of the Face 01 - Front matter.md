@@ -87,7 +87,7 @@ Typeset at Stanford University Press in 11/15 Granjon LT Std
 
 *Erekh Appin*—Healing Countenance. For there is no healing in the world except when gazing face-to-face.
 
-*Idra Zuta, Zohar 3:292b*
+*Idra Zuta, [[Zohar 9.15 - Idra Zuta#^z3-292b|Zohar 3:292b]]*
 
 *[PDF 8]* ^pg8
 

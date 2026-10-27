@@ -30,7 +30,7 @@ tatsaṅghātaviparyāsavigrahairbhāsate tathā || ^iast
 > [!source] Dyczkowski, vol. III
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 03 (Dyczkowski)/Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#^pg106|p. 93]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 03.pdf#page=106>))
 >
-> This is the reason why it is said in the venerable Kirana that ‘(Śiva should be known) from the teacher, the scripture and oneself’and (also) in the Niśāṭana, (where it says) that ‘this knowledge has three sources of conviction (pratyaya).’ Again, (this knowledge) shines (variously,) according to whether (these three operate) in unison, in the reverse order, or individually. (with 4.78cd–79)
+> This is the reason why it is said in the venerable Kiraṇa that ‘(Śiva should be known) from the teacher, the scripture and oneself’ and (also) in the Niśāṭana, (where it says) that ‘this knowledge has three sources of conviction (pratyaya).’ Again, (this knowledge) shines (variously,) according to whether (these three operate) in unison, in the reverse order, or individually. (with 4.78cd–79)
 
 ## Viveka
 

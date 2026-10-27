@@ -17,6 +17,8 @@ nyasa: "sa: semen (*śukra*) · u: right ear (*karṇa*)"
 
 **Card 67 of 108** (printed: Card 3-7 · Alpha 99) · consonant + vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** सु

@@ -417,7 +417,7 @@ Rabbi Yehudah said, “Happy is the share of Israel, who cleave to the blessed H
 
 [^46]: **ו (*Vav*)—in the center…** The letter ו (*vav*) symbolizes *Tif’eret*, the Divine Son, situated between *Gevurah* and *Ḥesed* (north and south).
 
-    On the alignment of one’s bed, see BT *Berakhot* [[Berakhot 5#5b|5b]], in the name of Rabbi Yitsḥak: “Whoever places his bed between north and south will be granted male children.” See Rashi and *Tosafot*, ad loc.; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-250b|1:250b]]; [[Zohar 8.07 - Parashat Be-Midbar#^z3-119b|3:119b–120a]]; Moses de León, *Sefer ha-Rimmon*, 370; *Nitsotsei Orot, Zohar* 3:119b, n. 2; *Nitsotsei Zohar*.
+    On the alignment of one’s bed, see BT *Berakhot* [[Berakhot 5#5b|5b]], in the name of Rabbi Yitsḥak: “Whoever places his bed between north and south will be granted male children.” See Rashi and *Tosafot*, ad loc.; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-250b|1:250b]]; [[Zohar 8.07 - Parashat Be-Midbar#^z3-119b|3:119b–120a]]; Moses de León, *Sefer ha-Rimmon*, 370; *Nitsotsei Orot, Zohar* [[Zohar 8.07 - Parashat Be-Midbar#^z3-119b|3:119b]], n. 2; *Nitsotsei Zohar*.
 
 [^47]: **From upper ה (*he*)…** From *Binah* emerge *Gevurah* on the left (symbolized by north) and *Ḥesed* on the right (symbolized by south), with the Divine Son, *Tif’eret* (symbolized by the letter *vav*) between them. *Shekhinah*, represented by the final letter of יהוה (*YHVH*), is symbolized by west.
 
@@ -669,7 +669,7 @@ Rabbi Yehudah said, “Happy is the share of Israel, who cleave to the blessed H
 
     The phrase “an interior act” renders בגויה‎ עובדא (*ovada be-gaveih*), “an act within him (or it),” apparently meaning “motivated sincerely from within.” For an alternative interpretation, see *Or Yaqar*.
 
-    On the need to manifest action—and the principle “by an action below is aroused an action above”—see above, pp. 41–42, n. 122. On spoken or silent recitation of the *Amidah*, see BT *Berakhot* [[Berakhot 24#24b|24b]], 31a; *Zohar* [[Zohar 3.06 - Parashat Va-Yiggash#^z1-209b|1:209b–210a]]; [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-202a|2:202a]] (Vol. 6, pp. 150–51, n. 123); 3:294b (*IZ*); *Nitsotsei Zohar*; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 60.
+    On the need to manifest action—and the principle “by an action below is aroused an action above”—see above, pp. 41–42, n. 122. On spoken or silent recitation of the *Amidah*, see BT *Berakhot* [[Berakhot 24#24b|24b]], 31a; *Zohar* [[Zohar 3.06 - Parashat Va-Yiggash#^z1-209b|1:209b–210a]]; [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-202a|2:202a]] (Vol. 6, pp. 150–51, n. 123); [[Zohar 9.15 - Idra Zuta#^z3-294b|3:294b]] (*IZ*); *Nitsotsei Zohar*; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 60.
 
 [^98]: **purify himself first…** Cleanse himself by relieving himself and then washing his hands. Then he can begin to accept upon himself the yoke of the Kingdom of Heaven by putting on the tallit and binding himself with tefillin.
 

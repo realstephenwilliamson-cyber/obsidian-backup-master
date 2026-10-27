@@ -56,7 +56,7 @@ And it should be made known that, G–d willing, it is my intention to send spie
 [^10]: Lit.: וכחה עוז—“and her strong power.” The Torah is referred to as “power” and “strength” (*Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-58a|II:58a]] and *Nitzutzei Orot*, by R. Chaim David Azulai, ad loc.; cf. below, note 42); see *Likkutei Amarim*, Part I, ch. 36.
 [^11]: [[Proverbs 31#^31-17|Proverbs 31:17]].
 [^12]: Text corrected according to L. H.
-[^13]: *Zohar* III:225a.—With respect to the terms “permeates” and “encompasses all worlds” (referring to the immanence and transcendence of G–d), see *Likkutei Amarim*, Part I, chs. 41, 48, and 51; Part II, ch. 7. Cf. below, Epistle 3, note 12.
+[^13]: *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-225a|III:225a]].—With respect to the terms “permeates” and “encompasses all worlds” (referring to the immanence and transcendence of G–d), see *Likkutei Amarim*, Part I, chs. 41, 48, and 51; Part II, ch. 7. Cf. below, Epistle 3, note 12.
 [^14]: *Tikkunei Zohar* 57 (91b); 70 (122b).
 [^15]: See below, note 17.
 [^16]: Cf. *Makkot* [[Makkot 24#24a|24a]]: “Habakkuk came and based (all commandments) on one belief”; see *Likkutei Amarim*, Part I, ch. 33. Thus faith is the foundation of all.

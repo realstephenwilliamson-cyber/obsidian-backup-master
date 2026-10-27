@@ -17,6 +17,8 @@ nyasa: "right shoulder (*skandha*)"
 
 **Card 28 of 108** (printed: Card 2-1 · Alpha 30) · consonant · the letter: [[Letter 17 ka|क ka]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** क

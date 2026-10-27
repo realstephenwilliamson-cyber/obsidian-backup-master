@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 ### TĀ 15.276–278
 
-(The officiant) whose body is in this way the universe, and who, just by the deposition alone, has clearly become all things, should worship (his) body, which has become such, with flowers etc. and the (various) Mantras, separately, at length, or (just) briefly with (only) the main Mantra. So too, (he should worship it) with incense, food offerings, propitiatory offerings (tṛpti) and so on, all of these together, or (just) some (as desired). (276cd- 278ab) 
+(The officiant) whose body is in this way the universe, and who, just by the deposition alone, has clearly become all things, should worship (his) body, which has become such, with flowers etc. and the (various) Mantras, separately, at length, or (just) briefly with (only) the main Mantra. So too, (he should worship it) with incense, food offerings, propitiatory offerings (tṛpti) and so on, all of these together, or (just) some (as desired). (276cd-278ab) 
 
 #### Viveka on 15.276–278
 
@@ -185,7 +185,7 @@ The Worship of the Body (dehapūjā) as Śiva
 evam ānandasahpūrṇnaṁi sarvaunmukhyavivarjitam || 283 ॥
 yāgena deha niṣpādya bhāvayeta śivātmakam | 
 
-After having in this way generated a body for the sacrifice (yāgena) which is completely full of bliss and devoid of all propensity (to move out of itself), (the adept) should meditate on it is as Śiva (śivātmakam).[^454] (283cd- 284ab) 
+After having in this way generated a body for the sacrifice (yāgena) which is completely full of bliss and devoid of all propensity (to move out of itself), (the adept) should meditate on it is as Śiva (śivātmakam).[^454] (283cd-284ab) 
 
 #### Viveka on 15.283–284
 
@@ -990,7 +990,7 @@ vāmadakṣiṇasaristhānacitratvāt parikalpayet |
 
 *[p. 197]* ^pg215
 
-(RYLVŪM) on the (lotus to his) right, and Navātman (RHRKṢMLVYŪM) on the (lotus to his) left. These three Bhairavas are accompanied by the (three) goddesses. (The goddess) Parā, (white) like the full moon,[^526] is (on the lotus) in the middle. Again, on (her) right is Parāparā, who is red and somewhat fierce,[^527] (but) not terrifying (bhīṣaṇā). Aparā is tawny-black (kṛṣṇapiṅgalā) and, terrifying, (is worshipped) on the left prong.” (323cd- 325) 
+(RYLVŪM) on the (lotus to his) right, and Navātman (RHRKṢMLVYŪM) on the (lotus to his) left. These three Bhairavas are accompanied by the (three) goddesses. (The goddess) Parā, (white) like the full moon,[^526] is (on the lotus) in the middle. Again, on (her) right is Parāparā, who is red and somewhat fierce,[^527] (but) not terrifying (bhīṣaṇā). Aparā is tawny-black (kṛṣṇapiṅgalā) and, terrifying, (is worshipped) on the left prong.” (323cd-325) 
 
 #### Viveka on 15.323–325
 

@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF; footnotes re-converted 15 O
 converted: 2026-10-07
 ---
 
-[[Saivism and the Tantric 06 - Chapter 6 Alchemical Metaphors for Spiritual Transformation|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 08 - Chapters 9-10|next →]]
+[[Saivism and the Tantric 06 - Chapter 6 Alchemical Metaphors for Spiritual Transformation|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 08 - Chapters 9-10, Not to Worry, Vasistha Will Sort It Out - Buddhism, Kingship and the Protection of the State|next →]]
 
 *[p. 167]* ^pg202
 

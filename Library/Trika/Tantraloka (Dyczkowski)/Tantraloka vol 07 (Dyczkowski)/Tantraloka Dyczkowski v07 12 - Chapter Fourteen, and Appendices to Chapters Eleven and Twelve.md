@@ -1357,7 +1357,7 @@ viṣayā bhuvanākārā ye kecid bhogyarūpinaḥ ॥ 125 ॥
 bhuktakarmaphalāśeṣā niṣkṛtis tena sā smṛtā |
 viśleṣo niṣkṛtir bhogāt bhogābhāve sa hi smṛtaḥ ॥ 126 ॥ 
 
-‘The consequences of Karma are the particular objects of experience, the forms of which are the world orders that are the objects of sense. (Their) ‘cessation’ (niṣkṛti) is recollected (in the course of initiation as) all the consequences of Karma that been endured completely (as that which should be purified) by that (initiation). Separation (viśleṣa) from (all) worldly experience is the cessation (of Karma) (niṣkṛti), which is said to take place because there is no (more) worldly experience (for the experiencing subject (bhoktr).’ (125cd- 126) 
+‘The consequences of Karma are the particular objects of experience, the forms of which are the world orders that are the objects of sense. (Their) ‘cessation’ (niṣkṛti) is recollected (in the course of initiation as) all the consequences of Karma that been endured completely (as that which should be purified) by that (initiation). Separation (viśleṣa) from (all) worldly experience is the cessation (of Karma) (niṣkṛti), which is said to take place because there is no (more) worldly experience (for the experiencing subject (bhoktr).’ (125cd-126) 
 
 #### Viveka on Dyczkowski's verse 125cd-126
 

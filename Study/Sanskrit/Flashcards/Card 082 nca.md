@@ -17,6 +17,8 @@ nyasa: "ña: left fingernails (*nakha*) · ca: left shoulder (*skandha*)"
 
 **Card 82 of 108** (printed: Card 3-22 · Alpha 48) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ञ्च

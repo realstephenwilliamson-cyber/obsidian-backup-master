@@ -17,6 +17,8 @@ nyasa: "breath (*prāṇa*)"
 
 **Card 60 of 108** (printed: Card 2-33 · Alpha 100) · consonant · the letter: [[Letter 49 ha|ह ha]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ह

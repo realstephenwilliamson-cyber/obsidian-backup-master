@@ -17,6 +17,8 @@ nyasa: "ga: right hand (*kara*) · o: lower lip (*oṣṭha*)"
 
 **Card 77 of 108** (printed: Card 3-17 · Alpha 38) · consonant + vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** गो

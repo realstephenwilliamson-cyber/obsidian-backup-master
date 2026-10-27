@@ -306,7 +306,7 @@ look at each other with subtle vision who become furious
 
 9. An energy mass arises from the angry 
 
-9. Their subtle vision, itself three-fold, faces of the gods, is in-creased by the 
+9. Their subtle vision, itself threefold, faces of the gods, is increased by the 
 
 becomes one, in which is born a divine energy of the sage Katyayani\*, and from 
 
@@ -336,7 +336,7 @@ Devi\* gives forth a terrible laugh; the earth "Victory"; the demons m
 
 trembles, the gods shout "Victory," and the demons are filled with fear
 
-14. Mahisa\*, angered, rushes to-wards the 
+14. Mahisa\*, angered, rushes towards the 
 
 14. Mahisa\*, angered, sends envoys to find roar, surrounded by *asuras*
 
@@ -360,7 +360,7 @@ retreats topractice austerities; Vaisnavi\* she then rides off on her l
 
 Devi\* goes off to the Mandara Mountains\] Vindhya Mountains
 
-\[During *tapas,* Vaisnavi's\* mind is disturbed, from which arise mil-lions of maidens; she builds a city with palaces for all\]
+\[During *tapas,* Vaisnavi's\* mind is disturbed, from which arise millions of maidens; she builds a city with palaces for all\]
 
 15. Envoys of Mahisa\*, Canda\* and 
 
@@ -386,7 +386,7 @@ Brahma's\* boon that no male can slay him, if he pays the bride pric
 
 attacks and defeats the gods; meanwhile, family, namely, that she be conquered by 
 
-the envoy pro-poses marriage to the Devi\*, him in battle; Dundubhi reports her reply 
+the envoy proposes marriage to the Devi\*, him in battle; Dundubhi reports her reply 
 
 who only laughs as she is under a vow of to Mahisa\*
 

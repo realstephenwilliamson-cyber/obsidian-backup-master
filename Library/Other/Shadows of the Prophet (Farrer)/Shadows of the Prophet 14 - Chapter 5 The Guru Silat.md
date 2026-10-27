@@ -4,7 +4,7 @@ work: "[[Farrer - Shadows of the Prophet]]"
 book: "[[Library/Other/Shadows of the Prophet (Farrer)/Shadows of the Prophet (Farrer)|Shadows of the Prophet (Farrer)]]"
 order: 14
 source_pdf: Library/Other/Farrer - Shadows of the Prophet (2009).pdf
-page_range: 184–198
+page_range: 175–198
 pdf_pages: 184–207
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[Shadows of the Prophet 13 - Chapter 4 The Enchantment of Performance|← previous]] · [[Shadows of the Prophet (Farrer)|contents]] · [[Shadows of the Prophet 15 - Chapter 6 Social and Aesthetic Drama|next →]]
 
-*[PDF 184]* ^pg184
+*[p. 175]* ^pg184
 
 ## Chapter 5
 The Guru Silat

@@ -680,7 +680,7 @@ A World of Love ti AAT
 
 Cf. [[Sanhedrin 39#39b|Sanhedrin 39b]], Rashi ad loc. “Oder.” 
 
-[[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-10b|Zohar 1:10b]], 1:230b, 2:166b, Sefer HaBris 2:1:3. Also see Emunos VeDeyos, 1:4 end, 3:0, Or HaShem (Crescas) 2:6:2, Sefer HaYashar \*1, Pardes Rimonim 2:6, Etz Chaim, Shaar HaKelallim #1, Reshis Chochmah, Shaar HaTshuvah \*1, Shnei Luchos HaBris, Bais Yisroel (Jerusalem, 5720) 1:21b, Shomrei Emunim (HaKadmon) 2:3, Derech HaShem 1:2.1, Likutey Moharan \*64. 
+[[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-10b|Zohar 1:10b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-230b|1:230b]], [[Zohar 5.05 - Parashat Terumah#^z2-166b|2:166b]], Sefer HaBris 2:1:3. Also see Emunos VeDeyos, 1:4 end, 3:0, Or HaShem (Crescas) 2:6:2, Sefer HaYashar \*1, Pardes Rimonim 2:6, Etz Chaim, Shaar HaKelallim #1, Reshis Chochmah, Shaar HaTshuvah \*1, Shnei Luchos HaBris, Bais Yisroel (Jerusalem, 5720) 1:21b, Shomrei Emunim (HaKadmon) 2:3, Derech HaShem 1:2.1, Likutey Moharan \*64. 
 
 Also see [[Psalms 106#^106-1|Psalms 106:1]], [[Psalms 107#^107-1|107:1]], [[Psalms 118#^118-1|118:1]], | Chronicles 16:34, [[II Chronicles 20#^20-21|2 Chronicles 20:21]]. From this, we see that it was a much-repeated praise. Likutey Moharan 52, Akedas Yitzchak 4 (35b). Also see Yad, Yesodey HaTorah 1:3. Cf. Bemidbar Rabbah 10:1. 
 
@@ -724,7 +724,7 @@ Yerushalmi Berachos 6:1 (41b). Cf. Targum ad loc.
 
 25\. Moreh Nevuchim 1:18. 
 
-26\. Zohar 2:42b, Emunos VeDeyos, end of chapter 1, Etz Chaim, Shaar HaKelallim \*1. 
+26\. [[Zohar 2.042b|Zohar 2:42b]], Emunos VeDeyos, end of chapter 1, Etz Chaim, Shaar HaKelallim \*1. 
 
 27\. Shiur Kumah 13:3. 
 
@@ -783,7 +783,7 @@ VaYikra Rabbah 20:7, [[Zohar 2.05 - Parashat Toledot#^z1-135a|Zohar 1:135a]].
 
 beginning of introduction; Nishmas Chaim 2:9, Nefesh HaChaim 1:15, Likutey Amaram (Tanya) 1:2 (6a); Shaarey Kedushah 3:2, Likutey Torah HaAri on [[Torah 21 - Ki Tisa#^33-5|Exodus 33:5]]; Pischey Chochmah VoDaas, Biur Olom HaNikudos (with KaLach Pischey Chochmah, Jerusalem, 5721) p. 23a. 
 
-52\. Zohar 1:27a, 3:123b, [[Zohar 10.03 - Parashat Be-Reshit#^zh-10c|Zohar Chadash 10c]], Likutey Amaram loc. cit., Ramban on [[Torah 01 - Bereshit#^2-7|Genesis 2:7]]; idem, D'rashash Toras HaShem Temimah (in Kisvey HaRamban, Jerusalem, 5723) p. 159, Shefa Tal (Brooklyn, 5720) p. 4c in Hagah, Shiu Kumah 51. 
+52\. [[Zohar 1.027a|Zohar 1:27a]], 3:123b, [[Zohar 10.03 - Parashat Be-Reshit#^zh-10c|Zohar Chadash 10c]], Likutey Amaram loc. cit., Ramban on [[Torah 01 - Bereshit#^2-7|Genesis 2:7]]; idem, D'rashash Toras HaShem Temimah (in Kisvey HaRamban, Jerusalem, 5723) p. 159, Shefa Tal (Brooklyn, 5720) p. 4c in Hagah, Shiu Kumah 51. 
 
 53\. For the question whether or not there is intelligent life on other worlds, see my article, “On Extraterrestrial Life,” in INTERCOM 14:1, December 1972. 
 
@@ -851,7 +851,7 @@ Pirkey DeRabbi Eliezer 15 (35a), [[Menachot 29#29b|Menachos 29b]].
 
 Yad, Tshuvah 5:4. 
 
-74, Zohar 1:23a, Emunos VeDeyos 3:0, Reshis Chochmah 3:1 (101b). 
+74, [[Zohar 1.023a|Zohar 1:23a]], Emunos VeDeyos 3:0, Reshis Chochmah 3:1 (101b). 
 
 75\. [[Sotah 14#14a|Sotah 14a]]. 
 
@@ -897,7 +897,7 @@ VaYikra Rabbah 4:6.
 
 94\. Berachos 18b. 
 
-95\. Cf. Midrash Tehillim 36:4, Zohar 1:23a, 2:184a, Akedas Yitzchak 70 (3:145b), Etz Chaim, Shaar HaMelachim 5, Sefer Baal Shem Tov, Sh’mos \*Q, 
+95\. Cf. Midrash Tehillim 36:4, [[Zohar 1.023a|Zohar 1:23a]], [[Zohar 6.03 - Parashat Tetsavveh#^z2-184a|2:184a]], Akedas Yitzchak 70 (3:145b), Etz Chaim, Shaar HaMelachim 5, Sefer Baal Shem Tov, Sh’mos \*Q, 
 
 96\. Makkos 3:15 (23b). 
 

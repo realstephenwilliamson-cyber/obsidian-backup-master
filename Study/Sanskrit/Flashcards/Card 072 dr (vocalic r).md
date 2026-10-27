@@ -17,6 +17,8 @@ nyasa: "da: left foot (*pāda*) · ṛ: right nostril (*nāsā*)"
 
 **Card 72 of 108** (printed: Card 3-12 · Alpha 62) · consonant + vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** दृ

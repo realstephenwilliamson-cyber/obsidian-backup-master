@@ -17,6 +17,8 @@ nyasa: "fat (*vasā*)"
 
 **Card 58 of 108** (printed: Card 2-31 · Alpha 96) · consonant · the letter: [[Letter 47 retroflex sa|ष ṣa]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ष

@@ -439,7 +439,7 @@ Rabbi El’azar said, “At that time, even Israel became worthy and *Shekhinah*
 
     On the forty-nine facets (or aspects), see *Midrash Tehillim* 12:4, in the name of Rabbi Yannai: “With every utterance that the blessed Holy One spoke to Moses, He offered forty-nine facets of ‘pure’ and forty-nine facets of ‘impure.’”
 
-    See *Massekhet Soferim* 16:5; JT *Sanhedrin* 4:1, 22a; BT *Eruvin* [[Eruvin 13#13b|13b]]; *Vayiqra Rabbah* 26:2; *Pesiqta de-Rav Kahana* 4:2, 4; *Shir ha-Shirim Rabbah* on 2:4; *Qohelet Rabbah* on 8:1; *Tanḥuma, Bemidbar* 10, *Ḥuqqat* 4; *Tanḥuma* (Buber), *Ḥuqqat* 7, 18; *Bemidbar Rabbah* 19:2; *Pesiqta Rabbati* 14, 21; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-15b|2:15b]] (*MhN*), 139b, 183a.
+    See *Massekhet Soferim* 16:5; JT *Sanhedrin* 4:1, 22a; BT *Eruvin* [[Eruvin 13#13b|13b]]; *Vayiqra Rabbah* 26:2; *Pesiqta de-Rav Kahana* 4:2, 4; *Shir ha-Shirim Rabbah* on 2:4; *Qohelet Rabbah* on 8:1; *Tanḥuma, Bemidbar* 10, *Ḥuqqat* 4; *Tanḥuma* (Buber), *Ḥuqqat* 7, 18; *Bemidbar Rabbah* 19:2; *Pesiqta Rabbati* 14, 21; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-15b|2:15b]] (*MhN*), [[Zohar 5.05 - Parashat Terumah#^z2-139b|139b]], [[Zohar 6.03 - Parashat Tetsavveh#^z2-183a|183a]].
 
     The verse in Job concludes: *nor spotted by a falcon’s eye*. See *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-3b|1:3b]], [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-13b|13b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-29b|29b]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-61b|3:61b]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-193b|193b]].
 
@@ -517,7 +517,7 @@ Rabbi El’azar said, “At that time, even Israel became worthy and *Shekhinah*
 
     On the commandment to know God, see Ibn Ezra, *Yesod Mora* 7; Maimonides, *Mishneh Torah, Hilkhot Yesodei ha-Torah* 1:6; *Zohar* [[Zohar 12.06 - Piqqudin#^z2-25a|2:25a]] (*Piq*); 3:256b (*RM*).
 
-    On the tension between revealing and concealing, see M *Kelim* 17:16; *Tosefta Kelim* (*Bava Metsi’a*) 7:9; BT *Bava Batra* [[Bava Batra 89#89b|89b]]; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-11b|1:11b]] (Vol. 1, p. 78, n. 589); 2:95a, 100b, 257b; 3:127b (*IR*); and 3:74b: “Rabbi Shim’on clapped his hands and wept. He exclaimed, ‘Woe is me if I speak and reveal the secret! Woe is me if I do not speak, for the Companions will be deprived of the word.’”
+    On the tension between revealing and concealing, see M *Kelim* 17:16; *Tosefta Kelim* (*Bava Metsi’a*) 7:9; BT *Bava Batra* [[Bava Batra 89#89b|89b]]; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-11b|1:11b]] (Vol. 1, p. 78, n. 589); [[Zohar 5.03 - Parashat Mishpatim#^z2-95a|2:95a]], [[Zohar 5.03 - Parashat Mishpatim#^z2-100b|100b]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-257b|257b]]; [[Zohar 8.09 - Idra Rabba|3:127b]] (*IR*); and 3:74b: “Rabbi Shim’on clapped his hands and wept. He exclaimed, ‘Woe is me if I speak and reveal the secret! Woe is me if I do not speak, for the Companions will be deprived of the word.’”
 
 [^59]: **I saw in a dream…** Rabbi Abba recounts a dream in which he saw Rabbi Shim’on and asked him a question. He understands that the letter י (*yod*) symbolizes the primordial point of *Ḥokhmah* (see above, note 49), but why does ה (*he*) symbolize *Binah*?. See above, note 46.
 
@@ -597,7 +597,7 @@ Rabbi El’azar said, “At that time, even Israel became worthy and *Shekhinah*
 
 [^73]: **Through the merit of circumcised Israel…** Israel inherited the land of Canaan by the merit of male circumcision, as indicated by these two successive verses.
 
-    On circumcision and inheriting the land, see *Pirqei de-Rabbi Eli’ezer* 29; *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-59b|1:59b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-216a|216a]]; [[Zohar 4.04 - Parashat Va-Era#^z2-23a|2:23a]] (Vol. 4, p. 78, n. 30), 26a, 59b; *OY*.
+    On circumcision and inheriting the land, see *Pirqei de-Rabbi Eli’ezer* 29; *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-59b|1:59b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-216a|216a]]; [[Zohar 4.04 - Parashat Va-Era#^z2-23a|2:23a]] (Vol. 4, p. 78, n. 30), [[Zohar 4.04 - Parashat Va-Era#^z2-26a|26a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-59b|59b]]; *OY*.
 
     On the connection between “uprooting” and the word אדון (*adon*), *Lord*, see *Yalqut Shim’oni*, Joshua 14: “*Behold, ark of the covenant, Lord of all the earth* ([[Joshua 03#^3-11|Joshua 3:11]]). Rabbi Shemu’el son of Naḥmani said, ‘Wherever it is written אדון (*adon*), *Lord*, He uproots inhabitants and brings in inhabitants. This \[i.e., the verse in Joshua\] is the paradigm for them all: He uproots the Canaanites and brings in Israel.’” Rabbi Ḥiyya says “restores inhabitants” because the Israelites descended from the patriarchs, who had inhabited the land of Canaan.
 
@@ -615,9 +615,9 @@ Rabbi El’azar said, “At that time, even Israel became worthy and *Shekhinah*
 
     For various readings and interpretations, see *OY*; Galante; *Sullam*; *MmD*. The word מראה (*mar’ah*) means “vision” and “mirror,” both of which pertain to *Shekhinah*, who reveals and reflects the higher *sefirot*. On *YHVH* as indicating all of the *sefirot*, see above, note 55.
 
-    Actually, in the Masoretic text, this word in the opening verse of Ezekiel is spelled with a *vav*; מראות (*mar’ot*), *visions of*. See *Zohar* [[Zohar 4.05 - Parashat Bo#^z2-40a|2:40a]] (Vol. 4, p. 196, n. 195), 82a (Vol. 4, p. 452, n. 309); *Minḥat Shai* on [[Ezekiel 01#^1-1|Ezekiel 1:1]]. A deficient spelling—במראת (*be-mar’ot*)—appears in [[Torah 11 - Vayigash#^46-2|Genesis 46:2]]. See *Zohar* [[Zohar 3.06 - Parashat Va-Yiggash#^z1-211a|1:211a]] (Vol. 3, p. 295, n. 194); cf. Vol. 4, p. 158, n. 66.
+    Actually, in the Masoretic text, this word in the opening verse of Ezekiel is spelled with a *vav*; מראות (*mar’ot*), *visions of*. See *Zohar* [[Zohar 4.05 - Parashat Bo#^z2-40a|2:40a]] (Vol. 4, p. 196, n. 195), [[Zohar 4.07 - Parashat Yitro#^z2-82a|82a]] (Vol. 4, p. 452, n. 309); *Minḥat Shai* on [[Ezekiel 01#^1-1|Ezekiel 1:1]]. A deficient spelling—במראת (*be-mar’ot*)—appears in [[Torah 11 - Vayigash#^46-2|Genesis 46:2]]. See *Zohar* [[Zohar 3.06 - Parashat Va-Yiggash#^z1-211a|1:211a]] (Vol. 3, p. 295, n. 194); cf. Vol. 4, p. 158, n. 66.
 
-    For other instances of a difference between the Masoretic spelling or wording and the *Zohar*’s reading, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-58b|1:58b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-83b|83b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-84a|84a]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-122b|122b]] (*MhN*), [[Zohar 3.07 - Parashat Va-Yhi#^z1-236b|236b]] (Vol. 3, p. 435, n. 644); 2:5b (*MhN*), 40a, 41b (*Piq*), 83a, 176b (*SdTs*); 3:4b, 40b, 68a, 148a, 184a, 202b, 203b, 207a, 254a (*RM*). On this phenomenon, see Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 50, 131–32, n. 125.
+    For other instances of a difference between the Masoretic spelling or wording and the *Zohar*’s reading, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-58b|1:58b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-83b|83b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-84a|84a]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-122b|122b]] (*MhN*), [[Zohar 3.07 - Parashat Va-Yhi#^z1-236b|236b]] (Vol. 3, p. 435, n. 644); [[Zohar 10.10 - Parashat Shemot#^z2-5b|2:5b]] (*MhN*), [[Zohar 4.05 - Parashat Bo#^z2-40a|40a]], [[Zohar 12.06 - Piqqudin#^z2-41b|41b]] (*Piq*), [[Zohar 4.07 - Parashat Yitro#^z2-83a|83a]], [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b|176b]] (*SdTs*); [[Zohar 7.03 - Parashat Va-Yiqra#^z3-4b|3:4b]], [[Zohar 7.05 - Parashat Shemini#^z3-40b|40b]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-68a|68a]], [[Zohar 8.10 - Commentary on Naso, continued#^z3-148a|148a]], [[Zohar 9.07 - Parashat Huqqat#^z3-184a|184a]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-202b|202b]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-203b|203b]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-207a|207a]], 254a (*RM*). On this phenomenon, see Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 50, 131–32, n. 125.
 
 [^78]: **Sometimes the higher are called…** At times, a higher *sefirah* may share the name of a lower *sefirah*, for example, when *YHVH* (signifying *Tif’eret*) is pronounced *Adonai* (which usually signifies *Shekhinah*), or when *Binah* is called *Elohim*, a name of *Shekhinah*. Conversely, a lower *sefirah* may share the name of a higher *sefirah*, as when *Shekhinah* is called יהוה‎ האדון (*Ha-Adon YHVH*), *the Lord YHVH*. Cf. *Zohar* [[Zohar 4.05 - Parashat Bo#^z2-38a|2:38a]] (Vol. 4, p. 180, n. 146).
 
@@ -821,7 +821,7 @@ Rabbi El’azar said, “At that time, even Israel became worthy and *Shekhinah*
 
 [^118]: **The small *ḥayyah*…** *Shekhinah* is the supreme *ḥayyah*, while the small *ḥayyah* and the extremely small *ḥayyah* are angelic powers beneath Her. Thus, the verse in Exodus refers to *Shekhinah* as *the God of Israel*, while Ezekiel refers to the small *ḥayyah* beneath Her.
 
-    On various levels of *ḥayyot*, “living beings,” see *Zohar* [[Zohar 3.06 - Parashat Va-Yiggash#^z1-211a|1:211a]] (Vol. 3, pp. 297–98, n. 205); 2:48b (Vol. 4, p. 234, n. 131), 177b–178a (*SdTs*).
+    On various levels of *ḥayyot*, “living beings,” see *Zohar* [[Zohar 3.06 - Parashat Va-Yiggash#^z1-211a|1:211a]] (Vol. 3, pp. 297–98, n. 205); [[Zohar 4.06 - Parashat Be-Shallah#^z2-48b|2:48b]] (Vol. 4, p. 234, n. 131), [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177b|177b–178a]] (*SdTs*).
 
 [^119]: ***a fashioning of sapphire pavement*…** Alluding to the *sapphires* with which God will one day rebuild the Temple.
 

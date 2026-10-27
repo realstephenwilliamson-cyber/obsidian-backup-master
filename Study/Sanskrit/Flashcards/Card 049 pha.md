@@ -17,6 +17,8 @@ nyasa: "left side (*pārśva*)"
 
 **Card 49 of 108** (printed: Card 2-22 · Alpha 76) · consonant · the letter: [[Letter 38 pha|फ pha]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** फ

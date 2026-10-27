@@ -4,7 +4,7 @@ work: "[[Chan (ed.) - A Source Book in Chinese Philosophy]]"
 book: "[[Library/Other/A Source Book in Chinese Philosophy (Chan)/A Source Book in Chinese Philosophy (Chan)|A Source Book in Chinese Philosophy (Chan)]]"
 order: 1
 source_pdf: Library/Other/Wing-Tsit Chan - A Source Book in Chinese Philosophy (1969).pdf
-page_range: 1–6
+page_range: ""
 pdf_pages: 1–6
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

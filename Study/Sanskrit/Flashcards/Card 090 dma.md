@@ -17,6 +17,8 @@ nyasa: "da: left foot (*pāda*) · ma: heart (*hṛd*)"
 
 **Card 90 of 108** (printed: Card 3-30 · Alpha 66) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** द्म

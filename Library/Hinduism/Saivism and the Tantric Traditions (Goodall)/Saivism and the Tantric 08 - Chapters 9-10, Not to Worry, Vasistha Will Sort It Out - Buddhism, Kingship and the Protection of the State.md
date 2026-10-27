@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF; footnotes re-converted 15 O
 converted: 2026-10-07
 ---
 
-[[Saivism and the Tantric 07 - Chapters 7-8|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 09 - Chapters 11-12|next →]]
+[[Saivism and the Tantric 07 - Chapters 7-8, On Vagisvarakirti's Influence in Kashmir and among the Khmer - Reflections on the King of Ascetics|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 09 - Chapters 11-12, Adapting Saiva Tantric Initiation for Exoteric Circles|next →]]
 
 *[p. 207]* ^pg242
 

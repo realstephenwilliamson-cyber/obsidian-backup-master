@@ -31,7 +31,7 @@ taduktaṃ na vidurmāṃ tu tattvenātaścalanti te || ^iast
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)/Tantraloka Dyczkowski v01 09 - Chapter One, part 8#^pg309|p. 295]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf#page=309>))
 > Dyczkowski numbers this verse 1.128cd–129.
 >
-> (However), only (minor) deities such as Indra, (whose worship) is indeed ordained by injunctions (vidhipūrva), are attained that way. This is not the case with ‘T’ consciousness. Those (who sacrifice to consciousness but) witness only (its) emergent (unmagna) objective aspect, although they know that (consciousness in this aspect as deity, in truth) know it not. That is said (in the Bhagavadgītā, where we read that): ‘they do not know Me in reality and so they fall (calanti).’ (with 1.128–129)
+> (However), only (minor) deities such as Indra, (whose worship) is indeed ordained by injunctions (vidhipūrva), are attained that way. This is not the case with ‘I’ consciousness. Those (who sacrifice to consciousness but) witness only (its) emergent (unmagna) objective aspect, although they know that (consciousness in this aspect as deity, in truth) know it not. That is said (in the Bhagavadgītā, where we read that): ‘they do not know Me in reality and so they fall (calanti).’ (with 1.128–129)
 >
 > (What is meant by) ‘falling’ is nothing but the assumption of a limited form (by consciousness as one who worships and the gods, instead of attending to his own consciousness). (with 1.129cd)
 

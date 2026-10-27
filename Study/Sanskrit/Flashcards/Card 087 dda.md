@@ -17,6 +17,8 @@ nyasa: "da: left foot (*pāda*), twice"
 
 **Card 87 of 108** (printed: Card 3-27 · Alpha 63) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** द्द

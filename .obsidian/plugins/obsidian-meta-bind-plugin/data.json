@@ -9,7 +9,48 @@
   "enableSyntaxHighlighting": true,
   "enableEditorRightClickMenu": true,
   "inputFieldTemplates": [],
-  "buttonTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "Review this note",
+      "style": "primary",
+      "tooltip": "Spaced Repetition: review the cards in this note",
+      "id": "sr-note",
+      "action": {
+        "type": "command",
+        "command": "obsidian-spaced-repetition:srs-review-flashcards-in-note"
+      }
+    },
+    {
+      "label": "Cram this note",
+      "style": "default",
+      "tooltip": "Spaced Repetition: go through every card in this note, due or not; the schedule is not changed",
+      "id": "sr-cram",
+      "action": {
+        "type": "command",
+        "command": "obsidian-spaced-repetition:srs-cram-flashcards-in-note"
+      }
+    },
+    {
+      "label": "Review all cards",
+      "style": "default",
+      "tooltip": "Spaced Repetition: review flashcards from all notes (the deck list)",
+      "id": "sr-all",
+      "action": {
+        "type": "command",
+        "command": "obsidian-spaced-repetition:srs-review-flashcards"
+      }
+    },
+    {
+      "label": "Timeline",
+      "style": "default",
+      "tooltip": "Day Planner OG: show the timeline",
+      "id": "dp-timeline",
+      "action": {
+        "type": "command",
+        "command": "day-planner-og:app:show-timeline"
+      }
+    }
+  ],
   "excludedFolders": [
     "Templates",
     "AI"

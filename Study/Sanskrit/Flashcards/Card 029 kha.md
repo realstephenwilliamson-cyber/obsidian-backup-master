@@ -17,6 +17,8 @@ nyasa: "right arm (*bāhu*)"
 
 **Card 29 of 108** (printed: Card 2-2 · Alpha 34) · consonant · the letter: [[Letter 18 kha|ख kha]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ख

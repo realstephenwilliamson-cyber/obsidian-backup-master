@@ -206,7 +206,7 @@ The Relationship Between the Sustainer and the Sustained, verses
 
 105cd-107ab (105-106), pages 91-92 
 
-Śakti is the Sustaining Ground (ādhārikā), verses 107cd-110ab (107- 109), pages 92-94 
+Śakti is the Sustaining Ground (ādhārikā), verses 107cd-110ab (107-109), pages 92-94 
 
 All Things, Including Time and Space, are Manifestations Within Śiva, verses 110cd-112ab (110-111), pages 94-95 
 

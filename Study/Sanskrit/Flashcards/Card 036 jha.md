@@ -17,6 +17,8 @@ nyasa: "left fingers (*aṅguli*)"
 
 **Card 36 of 108** (printed: Card 2-9 · Alpha 46) · consonant · the letter: [[Letter 25 jha|झ jha]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** झ

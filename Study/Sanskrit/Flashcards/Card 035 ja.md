@@ -17,6 +17,8 @@ nyasa: "left hand (*kara*)"
 
 **Card 35 of 108** (printed: Card 2-8 · Alpha 43) · consonant · the letter: [[Letter 24 ja|ज ja]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ज

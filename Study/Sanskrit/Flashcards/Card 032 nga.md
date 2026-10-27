@@ -17,6 +17,8 @@ nyasa: "right fingernails (*nakha*)"
 
 **Card 32 of 108** (printed: Card 2-5 · Alpha 40) · consonant · the letter: [[Letter 21 nga|ङ ṅa]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ङ

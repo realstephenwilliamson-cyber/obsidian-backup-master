@@ -17,6 +17,8 @@ nyasa: "heart (*hṛd*)"
 
 **Card 52 of 108** (printed: Card 2-25 · Alpha 80) · consonant · the letter: [[Letter 41 ma|म ma]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** म

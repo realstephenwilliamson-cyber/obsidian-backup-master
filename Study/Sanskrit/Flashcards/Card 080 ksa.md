@@ -17,6 +17,8 @@ nyasa: "sheath (*kośa*), as the fiftieth letter · components ka: right shoulde
 
 **Card 80 of 108** (printed: Card 3-20 · Alpha 33) · double consonant · the letter: [[Letter 50 ksa|क्ष kṣa]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** क्ष

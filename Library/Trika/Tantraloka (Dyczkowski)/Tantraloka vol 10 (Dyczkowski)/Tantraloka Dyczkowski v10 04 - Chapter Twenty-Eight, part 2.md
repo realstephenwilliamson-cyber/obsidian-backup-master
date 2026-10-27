@@ -403,7 +403,7 @@ pranamya parameśānīiḥ tat prapṛcchen manogatam \[k: vrapṛchan-\] |
 
 Having worshipped her with supreme devotion, he should repeat (the Mantra which is) the supreme energy (kalā). He should repeat it a hundred times (at a time) until he attains penetration (āveśa), and O great goddess, the divine plane, by repeating (the Mantra) a thousand times. (53-54ab) 
 
-Abandoning (the surface of) the earth, she should stand up possessed (by the goddess), her form aroused. Then she should be lustrated properly with extensive (offerings) of great value, bowing before her, he is prostrate (before her), speaking with his voice faltering and tears (in his eyes). Having bowed to the Supreme Goddess, he should ask (her) what is on his mind. (54cd- 56ab) 
+Abandoning (the surface of) the earth, she should stand up possessed (by the goddess), her form aroused. Then she should be lustrated properly with extensive (offerings) of great value, bowing before her, he is prostrate (before her), speaking with his voice faltering and tears (in his eyes). Having bowed to the Supreme Goddess, he should ask (her) what is on his mind. (54cd-56ab) 
 
 brahmāndodaragār \[k: brahmādodaragī\] vārtār \[k: vārtā\] sarvaṁ \[k: sarva\] kathayate kṣanāt ॥
 56॥
@@ -666,7 +666,7 @@ According to those who know the Nityātantra, (the thread should be offered) on 
 
 *[p. 66]* ^pg83
 
-November). According to some, this is where (at that time) Kula, which is the wheel of the (goddess) Nityā, (appears in all) its plenitude. (123cd- 124ab) 
+November). According to some, this is where (at that time) Kula, which is the wheel of the (goddess) Nityā, (appears in all) its plenitude. (123cd-124ab) 
 
 #### Viveka on 28.123–124
 

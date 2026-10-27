@@ -17,6 +17,8 @@ nyasa: "right fingers (*aṅguli*)"
 
 **Card 31 of 108** (printed: Card 2-4 · Alpha 39) · consonant · the letter: [[Letter 20 gha|घ gha]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** घ

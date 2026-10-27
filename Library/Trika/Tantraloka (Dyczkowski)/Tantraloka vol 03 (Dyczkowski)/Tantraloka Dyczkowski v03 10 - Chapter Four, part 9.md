@@ -820,7 +820,7 @@ saṁvittādātmyamāpannari sarvan śuddham ataḥ sthitam |
 
 *[p. 337]* ^pg350
 
-May (all come to) realise that the impurity said to be in a corpse, or what comes from the body, is not present elsewhere (it is solely related to the body);[^874] and that that which is (seemingly) severed from consciousness is impure.” Everything is one with consciousness and so is pure.” (240- 2418)) 
+May (all come to) realise that the impurity said to be in a corpse, or what comes from the body, is not present elsewhere (it is solely related to the body);[^874] and that that which is (seemingly) severed from consciousness is impure.” Everything is one with consciousness and so is pure.” (240-2418)) 
 
 #### Viveka on 4.240
 

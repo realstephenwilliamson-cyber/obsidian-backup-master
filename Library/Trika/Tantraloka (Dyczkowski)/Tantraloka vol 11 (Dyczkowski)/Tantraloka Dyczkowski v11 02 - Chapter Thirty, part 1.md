@@ -593,7 +593,7 @@ as are) the eyes, (three as are the three) fires, and (two as are) the eyes. The
 pratyekavarṇago ‘py uktaḥ siddhayogīśvarīmate ॥ 25 ॥
 devatācakravinyāsaḥ sa bahutvān na lipyate | 
 
-The deposition of the assembly of deities corresponding to each letter (of the Parāparā Vidyā) is also described in the venerable Siddhayogīśvarīmata. It is very long, and so is not written (here). (25cd- 26ab) 
+The deposition of the assembly of deities corresponding to each letter (of the Parāparā Vidyā) is also described in the venerable Siddhayogīśvarīmata. It is very long, and so is not written (here). (25cd-26ab) 
 
 #### Viveka on 30.25–26
 
@@ -1041,7 +1041,7 @@ smṛtau turyadvitīyābhyāri hrasvābhyāṁ padmacakrake |
 
 (The mantras of the Guards of the Quarters), beginning with Indra (are formed, respectively) with (the consonants) L R T \[illegible\] V Y along with S M (conjoined) with (the six) long (vowels Ā Ī Ū AI AU AH), (as well as Ū and Ā for the last two, and all of which have a final) Point (M). 
 
-Their weapons are (formed with the corresponding) short (vowels). (The mantras of) Viṣṇu and Prajāpati are said to be (formed) with the fourth and second (vowels, i.e. Ī and Ā) (and their two weapons), the lotus and discus, by the two (corresponding) short (vowels, i.e. I and A). (42- 43ab) 
+Their weapons are (formed with the corresponding) short (vowels). (The mantras of) Viṣṇu and Prajāpati are said to be (formed) with the fourth and second (vowels, i.e. Ī and Ā) (and their two weapons), the lotus and discus, by the two (corresponding) short (vowels, i.e. I and A). (42-43ab) 
 
 #### Viveka on 30.42–43
 

@@ -17,6 +17,8 @@ nyasa: "right thigh (*ūru*)"
 
 **Card 39 of 108** (printed: Card 2-12 · Alpha 51) · consonant · the letter: [[Letter 28 retroflex tha|ठ ṭha]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ठ

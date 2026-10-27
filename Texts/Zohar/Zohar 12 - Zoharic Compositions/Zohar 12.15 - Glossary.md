@@ -148,7 +148,7 @@ page_range: 717–724
 
 ***Piqqudin*** “Commandments”; kabbalistic interpretations of the commandments scattered throughout the *Zohar* (to be distinguished from *Ra’aya Meheimna*).
 
-***Qav ha-Middah*** Literally, *measuring line* ([[Jeremiah 31#^31-39|Jeremiah 31:39]]). In the *Zohar* the “Line (or: Standard) of Measure” is the luminous, invisible, divine instrument emerging from *Ein Sof* that “measures”—and in so doing, it gives scale, shape, light, color, and (eventually) permanence to the *sefirot* below. The term also serves as the title of a Zoharic treatise, delivered by Rabbi Shim’on, that provides a detailed description of the process of divine emanation. *Zohar Ḥadash* 56d–58d. [p. 721]
+***Qav ha-Middah*** Literally, *measuring line* ([[Jeremiah 31#^31-39|Jeremiah 31:39]]). In the *Zohar* the “Line (or: Standard) of Measure” is the luminous, invisible, divine instrument emerging from *Ein Sof* that “measures”—and in so doing, it gives scale, shape, light, color, and (eventually) permanence to the *sefirot* below. The term also serves as the title of a Zoharic treatise, delivered by Rabbi Shim’on, that provides a detailed description of the process of divine emanation. *Zohar Ḥadash* [[Zohar 12.09 - Qav ha-Middah|56d–58d]]. [p. 721]
 
 ***Qedushah*** “Sanctification”; one of several standard prayers that describe and emulate the ongoing sanctification of God by the angels in heaven.
 
@@ -188,7 +188,7 @@ page_range: 717–724
 
 ***Sifra di-Tsni’uta*** “The Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah, consisting of five short chapters and composed in obscure sentences. Its subject is the mysterious dynamics of divine being. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b|2:176b–179a]].
 
-***Sitrei Otiyyot*** “Secrets of the Letters”; a discourse by Rabbi Shim’on focusing on the letters of the divine name *YHVH* and how they symbolize the process of emanation. *Zohar Ḥadash* 1b–7b.
+***Sitrei Otiyyot*** “Secrets of the Letters”; a discourse by Rabbi Shim’on focusing on the letters of the divine name *YHVH* and how they symbolize the process of emanation. *Zohar Ḥadash* [[Zohar 12.08 - Sitrei Otiyyot|1b–7b]].
 
 ***Sitrei Torah*** “Secrets of Torah”; interpretations of certain verses of Genesis, printed in separate columns parallel to the main body of the *Zohar* and in *Zohar Ḥadash*. It includes allegorical explanations of the mysteries of the soul; descriptions of the *sefirot* and their emanation; and discussions of the powers of the Other Side. [p. 722]
 

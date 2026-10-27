@@ -17,6 +17,8 @@ nyasa: "lower teeth (*rada*), as e"
 
 **Card 19 of 108** (printed: Card 1-19 · Alpha 21) · vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ◌े

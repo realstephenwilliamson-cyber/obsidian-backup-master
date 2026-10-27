@@ -4,7 +4,7 @@ work: "[[Wiener - Cybernetics]]"
 book: "[[Library/Philosophy/Cybernetics - Or Control and Communication in the Animal (Wiener)/Cybernetics - Or Control and Communication in the Animal (Wiener)|Cybernetics - Or Control and Communication in the Animal (Wiener)]]"
 order: 4
 source_pdf: Library/Philosophy/Norbert_Wiener_Cybernetics.pdf
-page_range: 13–15
+page_range: 73–75
 pdf_pages: 92–94
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[Cybernetics - Or Control 03 - Introduction (end), Chapters I-III, Newtonian and Bergsonian Time - Time Series, Information|← previous]] · [[Cybernetics - Or Control and Communication in the Animal (Wiener)|contents]] · [[Cybernetics - Or Control 05 - Chapter III (end), Chapters IV-V, Feedback and Oscillation - Computing Machines|next →]]
 
-*[p. 13]* ^pg92
+*[p. 73]* ^pg92
 
 while if they are of the same sign, and |s| < \[¢|, 
 
@@ -122,7 +122,7 @@ co
 
 in K(o + r)K(r) dr 
 
-*[p. 15]* ^pg94
+*[p. 75]* ^pg94
 
 and if this approaches 0 when o-> oo, Expression 3.38 will be the limit of Expression 3.37 under these circumstances, In other words, 
 

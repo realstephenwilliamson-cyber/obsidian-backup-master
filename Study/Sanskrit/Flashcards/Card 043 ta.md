@@ -17,6 +17,8 @@ nyasa: "left hip (*kaṭi*)"
 
 **Card 43 of 108** (printed: Card 2-16 · Alpha 55) · consonant · the letter: [[Letter 32 ta|त ta]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** त

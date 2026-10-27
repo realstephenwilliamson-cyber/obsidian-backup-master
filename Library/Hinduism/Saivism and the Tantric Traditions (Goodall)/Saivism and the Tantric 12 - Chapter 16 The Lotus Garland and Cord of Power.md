@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF; footnotes re-converted 15 O
 converted: 2026-10-07
 ---
 
-[[Saivism and the Tantric 11 - Chapters 14-15|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 13 - Chapters 17-18|next →]]
+[[Saivism and the Tantric 11 - Chapters 14-15, Sarika's Mantra - The Kamasiddhistuti of King Vatsaraja|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 13 - Chapters 17-18, The Amrtasiddhi - A Sexual Ritual with Maya in Matsyendrasamhita 40|next →]]
 
 *[p. 367]* ^pg402
 

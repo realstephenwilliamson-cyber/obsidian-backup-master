@@ -112,7 +112,7 @@ page_range: 555–560
 
 ***Piqqudin***   “Commandments”; kabbalistic interpretations of the commandments scattered throughout the *Zohar* (to be distinguished from *Ra’aya Meheimna*).
 
-***Qav ha-Middah***   “The Standard of Measure”; a detailed description of the process of divine emanation, delivered by Rabbi Shim’on. *Zohar Ḥadash* 56d–58d.
+***Qav ha-Middah***   “The Standard of Measure”; a detailed description of the process of divine emanation, delivered by Rabbi Shim’on. *Zohar Ḥadash* [[Zohar 12.09 - Qav ha-Middah|56d–58d]].
 
 ***Ra’aya Meheimna***   “The Faithful Shepherd”; a separate composition on the kabbalistic meaning of the commandments, printed piecemeal in the *Zohar*. Here Moses, the Faithful Shepherd, appears to Rabbi Shim’on and the Companions, revealing secrets.
 
@@ -148,7 +148,7 @@ page_range: 555–560
 
 ***Sitra Aḥra***   “The other side”; the demonic realm, or the shadow of the divine, led by Samael and Lilith.
 
-***Sitrei Otiyyot***   “Secrets of the Letters”; a discourse by Rabbi Shim’on focusing on the letters of the divine name *YHVH* and how they symbolize the process of emanation. *Zohar Ḥadash* 1b–7b.
+***Sitrei Otiyyot***   “Secrets of the Letters”; a discourse by Rabbi Shim’on focusing on the letters of the divine name *YHVH* and how they symbolize the process of emanation. *Zohar Ḥadash* [[Zohar 12.08 - Sitrei Otiyyot|1b–7b]].
 
 ***Sitrei Torah***   “Secrets of Torah”; interpretations of certain verses of Genesis, printed in separate columns parallel to the main body of the *Zohar* and in *Zohar Ḥadash*. It includes allegorical explanations of the mysteries of the soul.
 

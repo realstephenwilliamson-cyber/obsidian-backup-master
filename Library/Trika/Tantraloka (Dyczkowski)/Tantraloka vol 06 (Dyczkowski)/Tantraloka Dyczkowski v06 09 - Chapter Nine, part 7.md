@@ -104,7 +104,7 @@ svacchasaṁvedanodāravikalāprabalīkṛtam |
 
 *[p. 248]* ^pg267
 
-expansion (of my) noble and pure (translucent) consciousness. (264cd- 265ab) 
+expansion (of my) noble and pure (translucent) consciousness. (264cd-265ab) 
 
 #### Viveka on 9.264–265
 
@@ -513,7 +513,7 @@ Moreover, because that (subtle element of smell) is universal and is associated 
 vyāpakaṁ tata evoktaṁ sahetutvāt tu na dhruvam || 281 ||
 svakāranṇe tirobhūtir dhvariaso yat tena nādhruvam | 
 
-Thus, it is said to be pervasive, and because it has a cause, it is not stable (and permanent). (However,) as destruction is (essentially) its disappearance into its cause, it is not unstable (and impermanent). (281cd- 282ab) 
+Thus, it is said to be pervasive, and because it has a cause, it is not stable (and permanent). (However,) as destruction is (essentially) its disappearance into its cause, it is not unstable (and impermanent). (281cd-282ab) 
 
 #### Viveka on 9.281–282
 
@@ -591,7 +591,7 @@ yato vāyur nija \[illegible\] labhate na vināmbarāt |
 uttarottarabhūteṣu pūrvapūrvasthitir yataḥ ॥ 286 ॥
 tata eva marudvyomnor aviyogo mithaḥ smṛtaḥ | 
 
-Others say that sound is solely the quality of Space. That is also correct, because Air does not assume its own nature without Space. This is because the prior condition is present in the subsequent elements. Thus, it is said that Air and Space are not separate from one another. (285cd- 287ab) 
+Others say that sound is solely the quality of Space. That is also correct, because Air does not assume its own nature without Space. This is because the prior condition is present in the subsequent elements. Thus, it is said that Air and Space are not separate from one another. (285cd-287ab) 
 
 #### Viveka on 9.285–287
 

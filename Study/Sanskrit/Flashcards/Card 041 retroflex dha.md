@@ -17,6 +17,8 @@ nyasa: "right toes (*aṅguli*)"
 
 **Card 41 of 108** (printed: Card 2-14 · Alpha 53) · consonant · the letter: [[Letter 30 retroflex dha|ढ ḍha]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ढ

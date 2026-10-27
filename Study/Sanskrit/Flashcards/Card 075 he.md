@@ -17,6 +17,8 @@ nyasa: "ha: breath (*prāṇa*) · e: lower teeth (*rada*)"
 
 **Card 75 of 108** (printed: Card 3-15 · Alpha 103) · consonant + vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** हे

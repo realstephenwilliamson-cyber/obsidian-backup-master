@@ -453,7 +453,7 @@ He replied, “From him I learned not to reveal.”[^151]
 
     The shape of the letter ו (*vav*) implies here that all these various components are included in its single line, and it may represent the Arabic numeral 1. Cf. below, note 32.
 
-    On *vav* as symbolizing *Adam* or the torso, see *Zohar* [[Zohar 2.042a|2:42a]] (*RM*); 3:66b; *ZḤ* [[Zohar 12.08 - Sitrei Otiyyot#^zh-5c|5c]] (*SO*), [[Zohar 11.03 - Midrash ha-Ne'lam al Shir ha-Shirim#^zh-60d|60d]] (*MhN, ShS*).
+    On *vav* as symbolizing *Adam* or the torso, see *Zohar* [[Zohar 2.042a|2:42a]] (*RM*); [[Zohar 7.08 - Parashat Aharei Mot#^z3-66b|3:66b]]; *ZḤ* [[Zohar 12.08 - Sitrei Otiyyot#^zh-5c|5c]] (*SO*), [[Zohar 11.03 - Midrash ha-Ne'lam al Shir ha-Shirim#^zh-60d|60d]] (*MhN, ShS*).
 
 [^29]: **One body comprised of twenty-four chariots…** The twenty-four components include six of the head (perhaps referring to the two ears, two eyes, nose, and mouth) and eighteen of the torso (referring to the number of vertebrae, according to rabbinic anatomy). The shape of the letter ו (*vav*) embodies these two numbers; its head (namely, the short top horizontal stroke) measures six points, while its torso (the long vertical stroke) measures eighteen points.
 
@@ -487,7 +487,7 @@ He replied, “From him I learned not to reveal.”[^151]
 
 [^36]: **Rabbi El’azar and Rabbi Abba came…** To thank Rabbi Shim’on for revealing these secrets of the letters of the Holy Name. “The sun” may allude to *Tif’eret*, but primarily it signifies Rabbi Shim’on himself, who illumines the world and whose death would threaten doom.
 
-    On Rabbi Shim’on and the sun, see *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-15a|2:15a]] (*MhN*); 3:132b (*IR*). On his unique status, see Liebes, *Studies in the Zohar*, 1–84; Huss, *Ke-Zohar ha-Raqi’a*, 11–42; Vol. 4, p. 180, n. 146. Cf. above at note 8.
+    On Rabbi Shim’on and the sun, see *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-15a|2:15a]] (*MhN*); [[Zohar 8.09 - Idra Rabba#^z3-132b|3:132b]] (*IR*). On his unique status, see Liebes, *Studies in the Zohar*, 1–84; Huss, *Ke-Zohar ha-Raqi’a*, 11–42; Vol. 4, p. 180, n. 146. Cf. above at note 8.
 
 [^37]: **Legs below…** Rabbi El’azar asks his father to prove how the two *sefirot Netsaḥ* and *Hod* (symbolizing the divine legs below *Tif’eret*) are included in the letter *vav*.
 
@@ -619,7 +619,7 @@ He replied, “From him I learned not to reveal.”[^151]
 
     The complete union of the higher *sefirot* with *Shekhinah* occurs on the Festival of *Shavu’ot*, seven weeks after the beginning of *Pesaḥ*. Until then, “those higher days \[have\] not yet settled” upon Her, and this incomplete state is signified in the verse from Exodus by the deficient spelling of the word מצת (*matsot*), which lacks the letter ו (*vav*)—whose numerical value of six symbolizes the six higher sefirotic days: *Tif’eret* and the five *sefirot* surrounding Him, from *Ḥesed* through *Yesod*.
 
-    Actually, in the Masoretic text the word מצות (*matsot*) is spelled with a *vav*, although in [[Torah 15 - Bo#^13-6|Exodus 13:6]] the identical clause appears with the word spelled deficiently: מצת (*matsot*). See *Zohar* [[Zohar 4.05 - Parashat Bo#^z2-40a|2:40a]] (Vol. 4, p. 196, n. 195), 41b (*Piq*); *Minḥat Shai* on [[Torah 15 - Bo#^12-15|Exodus 12:15]], 18; 23:15; [[Torah 24 - Vayikra#^2-4|Leviticus 2:4]]; [[Torah 25 - Tzav#^7-12|7:12]]; [[Torah 36 - Beha'alotcha#^9-11|Numbers 9:11]]; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 50, 131–32, n. 125.
+    Actually, in the Masoretic text the word מצות (*matsot*) is spelled with a *vav*, although in [[Torah 15 - Bo#^13-6|Exodus 13:6]] the identical clause appears with the word spelled deficiently: מצת (*matsot*). See *Zohar* [[Zohar 4.05 - Parashat Bo#^z2-40a|2:40a]] (Vol. 4, p. 196, n. 195), [[Zohar 12.06 - Piqqudin#^z2-41b|41b]] (*Piq*); *Minḥat Shai* on [[Torah 15 - Bo#^12-15|Exodus 12:15]], 18; 23:15; [[Torah 24 - Vayikra#^2-4|Leviticus 2:4]]; [[Torah 25 - Tzav#^7-12|7:12]]; [[Torah 36 - Beha'alotcha#^9-11|Numbers 9:11]]; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 50, 131–32, n. 125.
 
     On the complete and incomplete *Hallel*, see BT *Ta’anit* 28b, *Arakhin* [[Arakhin 10#10a|10a]]–b; *Yalqut Shim’oni*, Proverbs 960; *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-277b|2:277b]] (*Tosafot*); [[Zohar 8.04 - Parashat Emor#^z3-95b|3:95b]]; *TZ* 13, 28b.
 
@@ -653,7 +653,7 @@ He replied, “From him I learned not to reveal.”[^151]
 
     According to one rabbinic tradition, every divine utterance of Torah includes “forty-nine facets \[literally, faces\] of ‘pure’ and forty-nine facets of ‘impure’”—that is, forty-nine ways by which something can be proven impure (and thus forbidden), and forty-nine ways by which the same thing can be proven pure (and thus permitted).
 
-    See *Massekhet Soferim* 16:5; JT *Sanhedrin* 4:1, 22a; BT *Eruvin* [[Eruvin 13#13b|13b]]; *Vayiqra Rabbah* 26:2; *Pesiqta de-Rav Kahana* 4:2, 4; *Shir ha-Shirim Rabbah* on 2:4; *Qohelet Rabbah* on 8:1; *Tanḥuma, Bemidbar* 10, *Ḥuqqat* 4; *Tanḥuma* (Buber), *Ḥuqqat* 7, 18; *Bemidbar Rabbah* 19:2; *Pesiqta Rabbati* 14, 58a–b, 62b; 21, 101a–b; *Midrash Tehillim* 12:4; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-15b|2:15b]] (*MhN*), 83b, 123a, 139b; 3:97b (*Piq*).
+    See *Massekhet Soferim* 16:5; JT *Sanhedrin* 4:1, 22a; BT *Eruvin* [[Eruvin 13#13b|13b]]; *Vayiqra Rabbah* 26:2; *Pesiqta de-Rav Kahana* 4:2, 4; *Shir ha-Shirim Rabbah* on 2:4; *Qohelet Rabbah* on 8:1; *Tanḥuma, Bemidbar* 10, *Ḥuqqat* 4; *Tanḥuma* (Buber), *Ḥuqqat* 7, 18; *Bemidbar Rabbah* 19:2; *Pesiqta Rabbati* 14, 58a–b, 62b; 21, 101a–b; *Midrash Tehillim* 12:4; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-15b|2:15b]] (*MhN*), [[Zohar 4.07 - Parashat Yitro#^z2-83b|83b]], [[Zohar 5.04 - Sava de-Mishpatim#^z2-123a|123a]], [[Zohar 5.05 - Parashat Terumah#^z2-139b|139b]]; [[Zohar 12.06 - Piqqudin#^z3-97b|3:97b]] (*Piq*).
 
     According to another rabbinic tradition, Torah has “seventy faces.” See *Otiyyot de-Rabbi Aqiva* (*Battei Midrashot*, 2:354); *Bemidbar Rabbah* 13:16; Vol. 4, p. 462, n. 343.
 
@@ -835,7 +835,7 @@ He replied, “From him I learned not to reveal.”[^151]
 
     The theme of demonic impotence derives in part from BT *Bava Batra* [[Bava Batra 74#74b|74b]], where Rav discusses the primeval sea monster, Leviathan: “Everything that the blessed Holy One created in His world, He created male and female. Even Leviathan the elusive snake and Leviathan the writhing snake He created male and female, and if they mated with another, they would destroy the entire world. What did the blessed Holy One do? He castrated the male and killed the female, salting her for the righteous in the world to come.”
 
-    See Isaac ben Jacob ha-Kohen, *Ma’amar al ha-Atsilut ha-Semalit*, 262–63; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-34b|1:34b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-46b|46b]]; [[Zohar 4.05 - Parashat Bo#^z2-34b|2:34b]] (Vol. 4, pp. 150–51, n. 45), 103a, 108b–109a, 112a; 3:170b. The theme of impotence may also allude to Christian celibacy and the monastic ideal, to which the *Zohar* is absolutely opposed. See Liebes, *Studies in the Zohar*, 149, and 234, n. 47. On the Other Side as “king,” see above, note 30.
+    See Isaac ben Jacob ha-Kohen, *Ma’amar al ha-Atsilut ha-Semalit*, 262–63; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-34b|1:34b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-46b|46b]]; [[Zohar 4.05 - Parashat Bo#^z2-34b|2:34b]] (Vol. 4, pp. 150–51, n. 45), [[Zohar 5.03 - Parashat Mishpatim#^z2-103a|103a]], [[Zohar 5.03 - Parashat Mishpatim#^z2-108b|108b–109a]], [[Zohar 5.03 - Parashat Mishpatim#^z2-112a|112a]]; [[Zohar 9.04 - Rav Metivta#^z3-170b|3:170b]]. The theme of impotence may also allude to Christian celibacy and the monastic ideal, to which the *Zohar* is absolutely opposed. See Liebes, *Studies in the Zohar*, 149, and 234, n. 47. On the Other Side as “king,” see above, note 30.
 
 [^107]: **All these other sides below…** The lower rungs of the demonic realm are more impure than Satan, their king, and therefore their portion is *ez*, the adult goat, whose long hanging hair symbolizes extreme harshness and impurity. The impurity of King Satan (identified with the “wicked kingdom”) is more refined, as it were, so his portion is *sa’ir*, the young goat, whose hair does not hang down. On the qualities of hair, cf. the physiognomic description in *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-70b|2:70b]]–71a.
 
@@ -893,7 +893,7 @@ He replied, “From him I learned not to reveal.”[^151]
 
     In the verse from Micah the simple sense of *her who lies in your bosom* is “your wife,” but here the old man is likely alluding to the soul, based on BT *Ḥagigah* [[Chagigah 16#16a|16a]]: “Perhaps you will say, ‘Who testifies against me?’… The Sages say, ‘A person’s soul testifies against him, as is said: *From her who lies in your bosom guard the doors of your mouth*. What is it that lies in a person’s bosom? You must admit it is the soul.’” See Rashi on the verse in Micah; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-92a|1:92a]]; [[Zohar 8.08 - Parashat Naso#^z3-121b|3:121b]].
 
-    On openly recounting one’s sins, see BT *Berakhot* [[Berakhot 34#34b|34b]], in the name of Rav Kahana: “I consider one who openly recounts his sins impudent.” Cf. *Zohar* [[Zohar 12.06 - Piqqudin#^z2-41a|2:41a]] (*Piq*); 3:231a. The verse in Ecclesiastes reads: *Do not let your mouth* בשרך‎ את‎ לחטיא (*la-ḥati et besarekha*), *make your flesh sin*—apparently understood here as *incriminate your flesh*.
+    On openly recounting one’s sins, see BT *Berakhot* [[Berakhot 34#34b|34b]], in the name of Rav Kahana: “I consider one who openly recounts his sins impudent.” Cf. *Zohar* [[Zohar 12.06 - Piqqudin#^z2-41a|2:41a]] (*Piq*); [[Zohar 9.11 - Parashat Pinehas#^z3-231a|3:231a]]. The verse in Ecclesiastes reads: *Do not let your mouth* בשרך‎ את‎ לחטיא (*la-ḥati et besarekha*), *make your flesh sin*—apparently understood here as *incriminate your flesh*.
 
 [^120]: ***This month is for you*…** God has given to Israel the month of Nisan, the first month of the year (according to the Torah). This month, symbolizing *Shekhinah*, is openly revealed; whereas the seventh month (Tishrei) is concealed, since it symbolizes *Binah*, who is supernal and hidden. The concealed nature of Tishrei is indicated by the verse in Psalms: *Blast the shofar on the new moon*, בכסה (*ba-keseh*), *in the covering, for our festival day*. See above, note 86.
 

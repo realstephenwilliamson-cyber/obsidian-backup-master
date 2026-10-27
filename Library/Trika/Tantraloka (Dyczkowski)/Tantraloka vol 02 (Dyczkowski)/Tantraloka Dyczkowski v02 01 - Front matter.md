@@ -146,7 +146,7 @@ CHAPTER TWO
 
 The Penetration into Ultimate Reality Devoid of Means (Anupāya), page 1 
 
-Reality Manifests Fully Spontaneously by Instruction Imparted Just Once: verses 2-7, pages 2-15 Consciousness is Self-luminous, Practice Cannot be a Means to Realization: verses 8-14, pages 16-24 Everything and All Means Are the Light of Consciousness: verses 15-23ab (15- 23), pages 24-32 The Light is Undefinable Anuttara Beyond Deity, Meditation and Ritual: verses 23cd-33ab (24-33), pages 32-43 For One Firmly on the Path of Anuttara No Means is Required: verses 33cd-37ab (34-37), pages 43-46 The Liberated Soul’s Only Purpose is to Elevate Others: verses 37-40, pages 46- 52 Knowledge of Reality is Ultimate Ritual Action: verses 41-43, pages 52-55 The Means to Realization Serve the Liberated to Grace Others: verses 44-47, pages 55-58 The Dissipation of Doubt by the Teacher, Scriptures and Faith: verses 48-50ab, pages 58-62 
+Reality Manifests Fully Spontaneously by Instruction Imparted Just Once: verses 2-7, pages 2-15 Consciousness is Self-luminous, Practice Cannot be a Means to Realization: verses 8-14, pages 16-24 Everything and All Means Are the Light of Consciousness: verses 15-23ab (15-23), pages 24-32 The Light is Undefinable Anuttara Beyond Deity, Meditation and Ritual: verses 23cd-33ab (24-33), pages 32-43 For One Firmly on the Path of Anuttara No Means is Required: verses 33cd-37ab (34-37), pages 43-46 The Liberated Soul’s Only Purpose is to Elevate Others: verses 37-40, pages 46- 52 Knowledge of Reality is Ultimate Ritual Action: verses 41-43, pages 52-55 The Means to Realization Serve the Liberated to Grace Others: verses 44-47, pages 55-58 The Dissipation of Doubt by the Teacher, Scriptures and Faith: verses 48-50ab, pages 58-62 
 
 CHAPTER THREE 
 
@@ -166,7 +166,7 @@ The Sequence of the Arising of (the Fifty Forms) of Reflective Awareness: verses
 
 *[p. viii]* ^pg12
 
-The Emergence of the Sibilants: verses 163-165 (162cd-165ab), pages 278-280 The Sibilant S as the Principle of the Nectar of Poison: verses 166-170ab (165cd- 169), pages 280-289 The Principles of Passion, Poison and the Stainless: verses 170cd-175ab (170- 174), pages 289-298 The Neuter Vowels p R \] Ḷ and the Sibilants: verses 175cd-180ab (175-179), pages 298-301 The Fiftieth Letter, KṢ: verses 180cd-18 lab (180ab-180cd), pages 301-303 
+The Emergence of the Sibilants: verses 163-165 (162cd-165ab), pages 278-280 The Sibilant S as the Principle of the Nectar of Poison: verses 166-170ab (165cd-169), pages 280-289 The Principles of Passion, Poison and the Stainless: verses 170cd-175ab (170-174), pages 289-298 The Neuter Vowels p R \] Ḷ and the Sibilants: verses 175cd-180ab (175-179), pages 298-301 The Fiftieth Letter, KṢ: verses 180cd-18 lab (180ab-180cd), pages 301-303 
 
 The Two Tetrads Y, R, L, V and S, \[illegible\] \[illegible\] 15: verses 181cd-184 (181-184ab), pages 303-304 The Group of Six Vowels A, Ā, I, Ī, U and Ū: verses 185-192 (184cd-192ab), pages 304-311 The Triad A I U: verses 193-195ab (192cd-194), pages 311-312 The Lord United with Emission is All Things as the Fifty Energies of the Letters: verses 195cd-197ab, pages 312-314 The Goddess with Eighty-one Parts, Śabdarāśi, Mātṛkā and Mālinī: verses 197cd- 200ab, pages 314-318 
 

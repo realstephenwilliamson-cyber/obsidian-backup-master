@@ -17,6 +17,8 @@ nyasa: "flesh (*māṃsa*)"
 
 **Card 55 of 108** (printed: Card 2-28 · Alpha 88) · consonant · the letter: [[Letter 44 la|ल la]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ल

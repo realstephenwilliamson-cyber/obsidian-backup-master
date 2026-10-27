@@ -4,7 +4,7 @@ work: "[[Farrer - Shadows of the Prophet]]"
 book: "[[Library/Other/Shadows of the Prophet (Farrer)/Shadows of the Prophet (Farrer)|Shadows of the Prophet (Farrer)]]"
 order: 12
 source_pdf: Library/Other/Farrer - Shadows of the Prophet (2009).pdf
-page_range: 100–131
+page_range: 87–131
 pdf_pages: 100–144
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[Shadows of the Prophet 11 - Chapter 2 Silat - Art, Magic and Performance|← previous]] · [[Shadows of the Prophet (Farrer)|contents]] · [[Shadows of the Prophet 13 - Chapter 4 The Enchantment of Performance|next →]]
 
-*[PDF 100]* ^pg100
+*[p. 87]* ^pg100
 
 ## Chapter 3
 The Performance of Enchantment

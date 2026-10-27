@@ -514,7 +514,7 @@ jambudvīpe nyarūpi cāgnīdhraḥ |
 
 There are these (other) six islands beyond the ocean of salt, we have just described in this way. They are each surrounded by their own sea and, respectively twice the size (of the one preceding it), they are governed by the six sons of Manu. 
 
-The six islands are 1) Śāka, 2) Kuśa, 3) Krauñca, 4) Śalmali, 5) Gomeda and 6) Abja. The six seas (that surround them are made of) 1) milk, 2) curd, 3) clarified butter, 4) sugarcane juice, 5) wine and 6) sweet water.“ The kings of (these six islands) starting with Śāka are, respectively, 1) Medhātithi (Guest of Intelligence), 2) Vapuṣmat (Beautiful), 3) Jyotiṣmat (Luminous), with 4) Dyutimat (Brilliant), 5) king Havi (Fire Offering) and 6) Saṁvara (Forebearance). We have already mentioned“ 7) Agnīdhra (Bearer of Fire), (the king) of Jambudvīpa.[^418] (102-105ab) (102- 104) 
+The six islands are 1) Śāka, 2) Kuśa, 3) Krauñca, 4) Śalmali, 5) Gomeda and 6) Abja. The six seas (that surround them are made of) 1) milk, 2) curd, 3) clarified butter, 4) sugarcane juice, 5) wine and 6) sweet water.“ The kings of (these six islands) starting with Śāka are, respectively, 1) Medhātithi (Guest of Intelligence), 2) Vapuṣmat (Beautiful), 3) Jyotiṣmat (Luminous), with 4) Dyutimat (Brilliant), 5) king Havi (Fire Offering) and 6) Saṁvara (Forebearance). We have already mentioned“ 7) Agnīdhra (Bearer of Fire), (the king) of Jambudvīpa.[^418] (102-105ab) (102-104) 
 
 #### Viveka on 8.102–104
 
@@ -645,7 +645,7 @@ Measurements from Meru to the Island of Puṣkara
 tripañcāśac ca lakṣāni dvikotyayutapañcakam |
 svādvarṇavānta mervardhād yojananām iyan pramā | 106 ॥ 
 
-There are twenty-five million and three hundred and fifty thousand leagues from the centre of Meru up to the extreme limit of the ocean of sweet water (which surrounds the island of Puṣkara). (106) (106cd- 107ab) 
+There are twenty-five million and three hundred and fifty thousand leagues from the centre of Meru up to the extreme limit of the ocean of sweet water (which surrounds the island of Puṣkara). (106) (106cd-107ab) 
 
 #### Viveka on 8.106–107
 
@@ -1002,7 +1002,7 @@ That is said there (in the Siddhayogeśvarīmata):
 
 468?\. Read with MS Ñ pariśobhitā for pariśodhitā.
 
-469?\. This the first of a number of eggs to which the SYM refers. See below 8/(184cd- 186ab) (184-185) and citations there by Jayaratha. million yojanas (leagues).
+469?\. This the first of a number of eggs to which the SYM refers. See below 8/(184cd-186ab) (184-185) and citations there by Jayaratha. million yojanas (leagues).
 
 
 *[p. 161]* ^pg179
@@ -1051,7 +1051,7 @@ abhimānato yatheṣtai bhogasthānari nivāsaś ca |
 
 *[p. 162]* ^pg180
 
-This earth world (bhūārloka) is covered by the six (kinds of living beings, namely) domestic animals, birds, wild animals, trees, human beings and reptiles. It is the dwelling of Piśācas, Rākṣasas, Gandharvas, Yakṣas, Vidyādharas and, indeed, - why labour the point? ~ of all living creatures (bhūtasarga), because it is considered to be (abhimānataḥ), the place (of their) worldly experience (bhoga) in accord with (their) desire. (119cd- 121ab) (119-120) 
+This earth world (bhūārloka) is covered by the six (kinds of living beings, namely) domestic animals, birds, wild animals, trees, human beings and reptiles. It is the dwelling of Piśācas, Rākṣasas, Gandharvas, Yakṣas, Vidyādharas and, indeed, - why labour the point? ~ of all living creatures (bhūtasarga), because it is considered to be (abhimānataḥ), the place (of their) worldly experience (bhoga) in accord with (their) desire. (119cd-121ab) (119-120) 
 
 #### Viveka on 8.119–120
 
@@ -1085,7 +1085,7 @@ bhuvarlokas tathā tv ārkāl lakṣam ekam tadantare ॥ 121 ॥
 daśa vāyupathās te ca pratyekam ayutāntarāḥ |
 ādyo vāyupathas tatra vitataḥ paricarcyate || 122 ॥ 
 
-Bhuvarloka (the atmospheric world) extends up to the sun and measures one hundred thousand (leagues). Within it are the ten paths of the winds, and there are ten thousand (leagues) between (each of) them.” We shall now discuss extensively the first path of the winds there.[^474] (121cd- 122) (121-122ab) 
+Bhuvarloka (the atmospheric world) extends up to the sun and measures one hundred thousand (leagues). Within it are the ten paths of the winds, and there are ten thousand (leagues) between (each of) them.” We shall now discuss extensively the first path of the winds there.[^474] (121cd-122) (121-122ab) 
 
 #### Viveka on 8.121–122
 

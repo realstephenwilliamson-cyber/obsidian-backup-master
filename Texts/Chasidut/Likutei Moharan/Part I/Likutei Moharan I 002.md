@@ -67,7 +67,7 @@ But in the Future, the concept of *mishpat* shall be restored, as in ([[Isaiah 0
 
 ## 6
 
-\<Therefore, before praying> it is necessary for each individual to \<attach himself to the true> tzaddikim of the generation. For each \<true> tzaddik is an aspect \<of Mashiach, an aspect of Moshe>. Thus we find the tzaddikim addressing each other as Moshe ([[Shabbat 101#101b|Shabbat 101b]]): “Moshe, you said it well.” Also, Moshe is identified with Mashiach, as in ([[Torah 12 - Vayechi#^49-10|Genesis 49:10]]), “until Shiloh will come”—this is Moshe, \<as they have the same numerical value> (Zohar I, 25b).
+\<Therefore, before praying> it is necessary for each individual to \<attach himself to the true> tzaddikim of the generation. For each \<true> tzaddik is an aspect \<of Mashiach, an aspect of Moshe>. Thus we find the tzaddikim addressing each other as Moshe ([[Shabbat 101#101b|Shabbat 101b]]): “Moshe, you said it well.” Also, Moshe is identified with Mashiach, as in ([[Torah 12 - Vayechi#^49-10|Genesis 49:10]]), “until Shiloh will come”—this is Moshe, \<as they have the same numerical value> ([[Zohar 1.025b|Zohar I, 25b]]).
 
 And every single prayer that each person prays is a \<separate> component of the *Shekhinah* (Divine Presence). They correspond to the components of the Tabernacle. There was no one in Israel who was able to place all the various parts in their proper positions, just Moshe alone. For this reason it is necessary to bring and bind all prayers to the \<tzaddikim> of the generation, as is written ([[Torah 23 - Pekudei#^39-33|Exodus 39:33]]), “They brought the Tabernacle to Moshe.” He is the one who understands how to connect one part to the next and so erect the complete structure, as in (ibid. 40:18), “Moshe erected the Tabernacle.”
 

@@ -33,7 +33,7 @@ viṣāpahārimantrādītyuktaṃ śrīpūrvaśāsane || ^iast
 >
 > This is because, even though (a person may be engaged) in thinking one thing, he also sees (something) else (at the same time). (with 16.278ab)
 >
-> It is said in the Mālinīvijayottara (śŚrīpūrvaśāsana): ‘(Armed with) the mantras and the rest that counter poison’ and what follows. (with 16.278cd)
+> It is said in the Mālinīvijayottara (śrīpūrvaśāsana): ‘(Armed with) the mantras and the rest that counter poison’ and what follows. (with 16.278cd)
 
 ## Viveka
 

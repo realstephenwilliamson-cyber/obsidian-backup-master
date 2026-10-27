@@ -783,7 +783,7 @@ dvaitaśāstre mataṁgādau cāpy etat sunirūpitam |
 adhovyāptuḥ śivasyaiva sa prakāśo vyavasthitaḥ ॥ 224 ॥
 yena buddhimanobhūümāv api bhāti paran padam | 
 
-The same (view) is also well expressed in dualist scriptures such as the Mataṁgatantra, (which declares) that the light of Śiva, Who pervades (the levels) below (Him), persists, due to which the supreme level (continues to) shine even on the (lower) plane of the intellect and the प्रात. (224- 225ab) (224-225cd) 
+The same (view) is also well expressed in dualist scriptures such as the Mataṁgatantra, (which declares) that the light of Śiva, Who pervades (the levels) below (Him), persists, due to which the supreme level (continues to) shine even on the (lower) plane of the intellect and the प्रात. (224-225ab) (224-225cd) 
 
 #### Viveka on 1.224–225
 

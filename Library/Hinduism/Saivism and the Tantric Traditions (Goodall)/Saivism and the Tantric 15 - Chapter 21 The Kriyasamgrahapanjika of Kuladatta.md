@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF; footnotes re-converted 15 O
 converted: 2026-10-07
 ---
 
-[[Saivism and the Tantric 14 - Chapters 19-20|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 16 - Chapter 22 Manjusri as Adibuddha|next →]]
+[[Saivism and the Tantric 14 - Chapters 19-20, Hathayoga's Floruit on the Eve of Colonialism - The Early Saiva Matha|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 16 - Chapter 22 Manjusri as Adibuddha|next →]]
 
 *[p. 487]* ^pg522
 

@@ -17,6 +17,8 @@ nyasa: "da: left foot (*pāda*) · ya: skin (*tvak*)"
 
 **Card 91 of 108** (printed: Card 3-31 · Alpha 67) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** द्य

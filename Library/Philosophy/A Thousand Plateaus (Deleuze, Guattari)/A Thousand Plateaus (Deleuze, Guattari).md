@@ -16,11 +16,11 @@ Converted from the PDF on 26 Oct 2026 (PDF text layer, PyMuPDF). Each PDF page s
 
 ## Contents
 
-- [[A Thousand Plateaus 01 - Front matter|Front matter]] (pp. vi–viii)
+- [[A Thousand Plateaus 01 - Front matter|Front matter]] (pp. v–viii)
 - [[A Thousand Plateaus 02 - Translator's Foreword Pleasures of Philosophy (Brian Massumi)|Translator's Foreword: Pleasures of Philosophy (Brian Massumi)]] (pp. ix–xv)
 - [[A Thousand Plateaus 03 - Notes on the Translation and Acknowledgments|Notes on the Translation and Acknowledgments]] (pp. xvi–xix)
-- [[A Thousand Plateaus 04 - Authors' Note|Authors' Note]] (PDF 21)
-- [[A Thousand Plateaus 05 - 1. Introduction Rhizome|1. Introduction: Rhizome]] (pp. 3–25)
+- [[A Thousand Plateaus 04 - Authors' Note|Authors' Note]] (pp. xx)
+- [[A Thousand Plateaus 05 - 1. Introduction Rhizome|1. Introduction: Rhizome]] (pp. 1–25)
 - [[A Thousand Plateaus 06 - 2. 1914 One or Several Wolves|2. 1914: One or Several Wolves?]] (pp. 26–38)
 - [[A Thousand Plateaus 07 - 3. 10,000 B.C. The Geology of Morals (Who Does the Earth Think It Is)|3. 10,000 B.C.: The Geology of Morals (Who Does the Earth Think It Is?)]] (pp. 39–74)
 - [[A Thousand Plateaus 08 - 4. November 20, 1923 Postulates of Linguistics|4. November 20, 1923: Postulates of Linguistics]] (pp. 75–110)
@@ -38,4 +38,4 @@ Converted from the PDF on 26 Oct 2026 (PDF text layer, PyMuPDF). Each PDF page s
 - [[A Thousand Plateaus 20 - Notes|Notes]] (pp. 515–575)
 - [[A Thousand Plateaus 21 - Bibliography (compiled by Brian Massumi)|Bibliography (compiled by Brian Massumi)]] (pp. 579–585)
 - [[A Thousand Plateaus 22 - Index|Index]] (pp. 589–610)
-- [[A Thousand Plateaus 23 - List of Illustrations|List of Illustrations]] (PDF 628–629)
+- [[A Thousand Plateaus 23 - List of Illustrations|List of Illustrations]] (pp. 611)

@@ -17,6 +17,8 @@ nyasa: "ma: heart (*hṛd*) · ā: mouth (*vaktra*)"
 
 **Card 64 of 108** (printed: Card 3-4 · Alpha 81) · consonant + vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** मा

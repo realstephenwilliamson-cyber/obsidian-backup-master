@@ -362,7 +362,7 @@ Emunos VeDeyos 1:4 end, 3:0, Or HaShem (Crescas) 2:6:2, Sefer HaYashar 1, Pardes
 
 Cf. Mechilta on [[Torah 16 - Beshalach#^14-29|Ex. 14:29]], Bereshis Rabbah 21:5, Shir HaShirim Rabbah 1:46, Yad, Tshuvah 5:1. 
 
-Cf. Midrash Tehillim 36:4, Zohar 1:23a, 2:184a, Akedas Yitzchok 70 (3:145b), Etz Chaim, Shaar HaMelachim 5, Sefer Baal Shem Tov, Sh'mos #9, [[Chullin 60#60b|Chulin 60b]]. 
+Cf. Midrash Tehillim 36:4, [[Zohar 1.023a|Zohar 1:23a]], [[Zohar 6.03 - Parashat Tetsavveh#^z2-184a|2:184a]], Akedas Yitzchok 70 (3:145b), Etz Chaim, Shaar HaMelachim 5, Sefer Baal Shem Tov, Sh'mos #9, [[Chullin 60#60b|Chulin 60b]]. 
 
 [[Zohar 7.06 - Parashat Tazri'a#^z3-47b|Zohar 3:47b]]. 
 
@@ -402,7 +402,7 @@ See note 17.
 
 22\. See Kelayim 8:5, where the Adney HaSadeh is found to have an affinity to botha wild animal (Chayah) and man. Meleches Shlema ibid. 8:6. 
 
-23\. Zohar 1:24b, Maharal, Beer HaGolah (Pardes, Tel Aviv) p. 39b. Cf. 
+23\. [[Zohar 1.024b|Zohar 1:24b]], Maharal, Beer HaGolah (Pardes, Tel Aviv) p. 39b. Cf. 
 
 [[Shabbat 89#89b|Shabbos 89b]], Sh'mos Rabbah 2:6. 
 

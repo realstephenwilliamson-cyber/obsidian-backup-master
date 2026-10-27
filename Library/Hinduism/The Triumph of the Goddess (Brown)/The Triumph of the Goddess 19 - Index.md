@@ -56,7 +56,7 @@ in the "Pradhanika-Rahasya \*," 137; Vedantic\* views of, in the *Devi-
 
 and neglect of Devi-worship\*, 164-65; and Siva's\* castration, 41; and Visnu's\* decapitation/incarnations, 45-46, 248-49n. 69 D Dadhici/Dadhyanc\*, 43-45, 56, 58,199, 242-43n. 4; 248n. 66 *Darsana*\*, 139, 142;
 
-and the *Devi*\* *Gita*\*, 185-94, 198; and gift of female-ness, 201; in relation to teachings, 181-82; as supreme goal of *bhakti*, 176; of Visnu\*, 202-4 Death: inevitability of, 47, 90, 116, 118-19;
+and the *Devi*\* *Gita*\*, 185-94, 198; and gift of femaleness, 201; in relation to teachings, 181-82; as supreme goal of *bhakti*, 176; of Visnu\*, 202-4 Death: inevitability of, 47, 90, 116, 118-19;
 
 and rebirth cycle, 125-26 Deluding power of the Devi\*, distinguished from deception (*see also* Devi\*: as deluder), 72-73, 257n. 96 *Devatas*\*, 142, 144-49, 152 Devi\* \[the Great Goddess, Maha-Devi\*\] (*See also* Maya\*, Sakti\*)
 
@@ -206,7 +206,7 @@ cleverness/deceitfulness of, according to the *Devi-Bhagavata*\*, 163, 16
 
 in the Madhu-Kaitabha\* myth, 84, 86, 88-89; in the Mahisa\* myth, 98-99, 102, 103; in the Sumbha-Nisumbha\* myth, 114, 115, 116, 117, 120 *Prabhava*\*(s), 132, 145, 155-56, 159, 161, 166, 167, 175, 180, 277-78n. 26 "Pradhanika-Rahasya\*," 136-37, 138, 140, 142, 149 *Prakrti/prakrti\*: disparaged in the Bhagavata*\*, 30, 216, 258n. 107;
 
-general attitude of the Devi-*Bhagavata*\* towards, 216-18, 293n. 17; identified with the Devi\*, 31, 118, 134, 141, 144, 171, 185, 207, 208, 216-18; and Purusa\*, identified with the Devi\*, 104-5, 110-11, 128-29, 209, 216; in the Samkhya\*, 30, 73, 110, 209; subordinated to Purusa\* in the *Mahabharata*\*, 203; whether inert or conscious, 30-31, 110 "Prakrti\* Khanda\*" \[of the *Brahma-vaivarta*\* *Purana*\*\], 145, 147, 150, 160, 220, 222, 223, 224, 225, 236n. 30; 294n. 6 *Pralaya*, 189, 190, 203 *Preman/ecstatic* devotion, 47, 187, 195, 197 *Puja*\*. *See* Worship *Purana*\*, definition of, 3, 23 Puranas\* (*see also* Maha-Puranas\*; Upa-Puranas\*; *individual Puranas*\*): and the *Bhagavad Gita*\*/epic Gitas\*, 179, 185, 189; classifications of, 5; commentaries upon, 213; dating of, 7-8, 219; exclusivity in, 233n. 7; nature of, 3-5, 7-8, 18, 19, 21, 22, 219; and Tantra, 151-52; and Vedic
+general attitude of the Devi-*Bhagavata*\* towards, 216-18, 293n. 17; identified with the Devi\*, 31, 118, 134, 141, 144, 171, 185, 207, 208, 216-18; and Purusa\*, identified with the Devi\*, 104-5, 110-11, 128-29, 209, 216; in the Samkhya\*, 30, 73, 110, 209; subordinated to Purusa\* in the *Mahabharata*\*, 203; whether inert or conscious, 30-31, 110 "Prakrti\* Khanda\*" \[of the *Brahmavaivarta*\* *Purana*\*\], 145, 147, 150, 160, 220, 222, 223, 224, 225, 236n. 30; 294n. 6 *Pralaya*, 189, 190, 203 *Preman/ecstatic* devotion, 47, 187, 195, 197 *Puja*\*. *See* Worship *Purana*\*, definition of, 3, 23 Puranas\* (*see also* Maha-Puranas\*; Upa-Puranas\*; *individual Puranas*\*): and the *Bhagavad Gita*\*/epic Gitas\*, 179, 185, 189; classifications of, 5; commentaries upon, 213; dating of, 7-8, 219; exclusivity in, 233n. 7; nature of, 3-5, 7-8, 18, 19, 21, 22, 219; and Tantra, 151-52; and Vedic
 
 *[p. 322]* ^pg331
 

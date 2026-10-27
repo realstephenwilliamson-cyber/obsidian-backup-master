@@ -187,7 +187,7 @@ Rabbi Ḥiyya said, “Why is the exodus from Egypt mentioned here, as is writte
 
     On the filthy garments, see *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-214a|3:214a]]. According to BT *Sanhedrin* [[Sanhedrin 93#93a|93a]] (in the name of Rav Pappa), Joshua’s *filthy garments* signified his failure to prevent his sons from immoral behavior. See *Targum Yonatan*, [[Zechariah 03#^3-3|Zechariah 3:3]]; David Kimḥi on [[Zechariah 03#^3-3|Zechariah 3:3]]; *Or Yaqar*; *Matoq mi-Devash*. Cf. [[Ezra 10#^10-18|Ezra 10:18]].
 
-    On the relation between one’s conduct on earth and the garment to be worn in the afterlife, see also *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-224a|1:224a]]–b (Vol. 3, p. 347, n. 249); 2:210a–b (Vol. 6, pp. 197–99, nn. 266, 270–71); above, p. 102, n. 151.
+    On the relation between one’s conduct on earth and the garment to be worn in the afterlife, see also *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-224a|1:224a]]–b (Vol. 3, p. 347, n. 249); [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-210a|2:210a–b]] (Vol. 6, pp. 197–99, nn. 266, 270–71); above, p. 102, n. 151.
 
 [^23]: **a certain garment recognized by masters of Hell…** See *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-214a|3:214a]].
 
@@ -245,7 +245,7 @@ Rabbi Ḥiyya said, “Why is the exodus from Egypt mentioned here, as is writte
 
 [^34]: **She is one thread…** *Shekhinah* is symbolized by the thread of *tekhelet*, whose essential blue ingredient (actually purple, bluish purple, or violet) is extracted from the glands of “a certain fish,” namely the חלזון (*ḥillazon*), which has been identified as the *Murex trunculus* snail, found off the Mediterranean coast. Here, Rabbi Yitsḥak transfers this small water creature to the Sea of Galilee (or Kinneret).
 
-    The Sea of Kinneret symbolizes *Shekhinah*, based on the association of כנרת (*kinneret*) and כנור (*kinnor*), “harp,” an instrument played by King David, who here represents *Shekhinah*, also known as *Malkhut* (Kingdom). (See [[I Samuel 16#^16-23|1 Samuel 16:23]]; *Leqaḥ Tov*, [[Torah 54 - V'Zot HaBerachah#^33-22|Deuteronomy 33:22]], p. 65b; *Zohar* 1:260b \[*Hash*\]; 3:150a; Baḥya ben Asher, [[Torah 36 - Beha'alotcha#^10-2|Numbers 10:2]].) In fact, the name כנרת‎ ים (*yam kinneret*), “Sea of Kinneret,” may derive from shape of the lake, which resembles a harp. Cf. BT *Megillah* [[Megillah 6#6a|6a]].
+    The Sea of Kinneret symbolizes *Shekhinah*, based on the association of כנרת (*kinneret*) and כנור (*kinnor*), “harp,” an instrument played by King David, who here represents *Shekhinah*, also known as *Malkhut* (Kingdom). (See [[I Samuel 16#^16-23|1 Samuel 16:23]]; *Leqaḥ Tov*, [[Torah 54 - V'Zot HaBerachah#^33-22|Deuteronomy 33:22]], p. 65b; *Zohar* 1:260b \[*Hash*\]; [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-150a|3:150a]]; Baḥya ben Asher, [[Torah 36 - Beha'alotcha#^10-2|Numbers 10:2]].) In fact, the name כנרת‎ ים (*yam kinneret*), “Sea of Kinneret,” may derive from shape of the lake, which resembles a harp. Cf. BT *Megillah* [[Megillah 6#6a|6a]].
 
     On the harp above King David’s bed, see BT *Berakhot* [[Berakhot 3#3b|3b]], in the name of Rabbi Shim’on the Ḥasid: “There was a harp suspended above David’s bed. As soon as midnight arrived, a north wind came and blew upon it, and it played by itself. He immediately arose and engaged in Torah until the break of dawn.” See *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-11a|3:11a]], [[Zohar 7.03 - Parashat Va-Yiqra#^z3-21b|21b–22a]], [[Zohar 7.03 - Parashat Va-Yiqra#^z3-23a|23a–b]].
 

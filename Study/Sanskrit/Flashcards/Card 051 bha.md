@@ -17,6 +17,8 @@ nyasa: "belly (*jaṭhara*)"
 
 **Card 51 of 108** (printed: Card 2-24 · Alpha 78) · consonant · the letter: [[Letter 40 bha|भ bha]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** भ

@@ -447,7 +447,7 @@ Rabbi El’azar said, “At that moment Assembly of Israel[^411] looked up and s
 
 [^20]: ***For a cultivated field*—when properly tilled** *Shekhinah*, when She is cultivated by righteous human action.
 
-    On cultivating the land as a metaphor for serving God and observing the commandments, see *Sifrei*, Deuteronomy 41; *Targum Yerushalmi*, [[Torah 01 - Bereshit#^2-15|Genesis 2:15]]; *Bereshit Rabbah* 16:5; *Avot de-Rabbi Natan* B, 21; *Pirqei de-Rabbi Eli’ezer* 12; *Battei Midrashot*, 2:91; *Zohar* [[Zohar 1.027a|1:27a]] (*TZ*), 57b, 84b, 141b, 199b; 2:165b.
+    On cultivating the land as a metaphor for serving God and observing the commandments, see *Sifrei*, Deuteronomy 41; *Targum Yerushalmi*, [[Torah 01 - Bereshit#^2-15|Genesis 2:15]]; *Bereshit Rabbah* 16:5; *Avot de-Rabbi Natan* B, 21; *Pirqei de-Rabbi Eli’ezer* 12; *Battei Midrashot*, 2:91; *Zohar* [[Zohar 1.027a|1:27a]] (*TZ*), [[Zohar 1.07 - Parashat Be-Reshit#^z1-57b|57b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-84b|84b]], [[Zohar 2.05 - Parashat Toledot#^z1-141b|141b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-199b|199b]]; [[Zohar 5.05 - Parashat Terumah#^z2-165b|2:165b]].
 
 [^21]: ***A king*—Supernal King** *Tif’eret*.
 
@@ -523,11 +523,11 @@ Rabbi El’azar said, “At that moment Assembly of Israel[^411] looked up and s
 
 [^52]: **The Companions have already established … Which song…** See BT *Avodah Zarah* [[Avodah Zarah 24#24b|24b]]: “הפרות‎ וישרנה (*Va-yishsharnah ha-parot*), *The cows went straight ahead, along the road to Beth Shemesh*…. What is the meaning of *va-yishsharnah*? Rabbi Yoḥanan said in the name of Rabbi Me’ir, ‘They sang שירה (*shirah*), a song.’… Which song did they sing?… Rabbi Shim’on son of Lakish said, ‘The orphaned psalm \[whose author is anonymous\]: *A psalm. Sing to YHVH a new song, for He has worked wonders; His right hand and His holy arm have won Him victory.’”*
 
-    See *Bereshit Rabbah* 54:4; *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-137b|2:137b]]–138a 3:201a.
+    See *Bereshit Rabbah* 54:4; *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-137b|2:137b]]–138a [[Zohar 9.10 - Commentary on Balaq, continued#^z3-201a|3:201a]].
 
 [^53]: **everything created… chants praises and songs before Him…** According to *Pereq Shirah*, an early mystical text, every created thing sings a biblical verse to God.
 
-[^54]: **it is always written: *A psalm of David*, or *Of David, a psalm*** These are the most frequent titles. On the distinction between the two, see BT *Pesaḥim* [[Pesachim 117#117a|117a]]; *Midrash Tehillim* 24:1; Rashi on [[Psalms 023#^23-1|Psalms 23:1]]; Jacob bar Sheshet, *Meshiv Devarim Nekhoḥim*, 92; Todros Abulafia, *Sha’ar ha-Razim*, 48; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]], 67a; 2:50a, 140a, 170a. Cf. 1:87a, 239a.
+[^54]: **it is always written: *A psalm of David*, or *Of David, a psalm*** These are the most frequent titles. On the distinction between the two, see BT *Pesaḥim* [[Pesachim 117#117a|117a]]; *Midrash Tehillim* 24:1; Rashi on [[Psalms 023#^23-1|Psalms 23:1]]; Jacob bar Sheshet, *Meshiv Devarim Nekhoḥim*, 92; Todros Abulafia, *Sha’ar ha-Razim*, 48; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]], [[Zohar 1.08 - Parashat Noah#^z1-67a|67a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-50a|2:50a]], [[Zohar 5.05 - Parashat Terumah#^z2-140a|140a]], [[Zohar 5.05 - Parashat Terumah#^z2-170a|170a]]. Cf. 1:87a, 239a.
 
 [^55]: **Because this psalm is destined to be sung by the Holy Spirit** By *Shekhinah*, known as Holy Spirit (*Zohar* [[Zohar 1.08 - Parashat Noah#^z1-67a|1:67a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-85a|85a]]; [[Zohar 5.03 - Parashat Mishpatim#^z2-97b|2:97b]], [[Zohar 6.06 - Parashat Pequdei#^z2-238b|238b]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-61a|3:61a]]) and also called *psalm* (1:39b, 67a; 2:140a, 170a).
 
@@ -591,7 +591,7 @@ Rabbi El’azar said, “At that moment Assembly of Israel[^411] looked up and s
 
 [^83]: **all of them from that king called *child*** All the angels appointed over the various nations of the world derive sustenance from Metatron, the chief angel, also known as נער (*na’ar*), the “child” (“lad,” heavenly “servant”). See BT *Yevamot* [[Yevamot 16#16b|16b]]: “Rabbi Shemu’el son of Naḥman said in the name of Rabbi Yonatan, ‘This verse was spoken by the Prince of the World: *I was a child and now I am old* ([[Psalms 037#^37-25|Psalms 37:25]]). Who spoke it? If you suggest the blessed Holy One, does He age? Then perhaps David spoke it; but was he so old? You must conclude that the Prince of the World spoke it.’”
 
-    See *Tosafot, Yevamot* 16b, s.v. *pasuq zeh; Zohar* 1:95b, 143a, 162a, 181b; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-85c|85c]] (*MhN, Rut*); Scholem, *Kabbalah*, 379–80; Margaliot, *Mal’akhei Elyon*, 89–90.
+    See *Tosafot, Yevamot* 16b, s.v. *pasuq zeh; Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-95b|1:95b]], [[Zohar 2.05 - Parashat Toledot#^z1-143a|143a]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-162a|162a]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-181b|181b]]; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-85c|85c]] (*MhN, Rut*); Scholem, *Kabbalah*, 379–80; Margaliot, *Mal’akhei Elyon*, 89–90.
 
 [^84]: **This one** Metatron.
 
@@ -613,7 +613,7 @@ Rabbi El’azar said, “At that moment Assembly of Israel[^411] looked up and s
 
 [^92]: **Then he obtains authorization and plucks out the soul** The subject is the Angel of Death, who is identical with the demonic, according to BT *Bava Batra* [[Bava Batra 16#16a|16a]]: “Resh Lakish said, ‘Satan, the evil impulse, and the Angel of Death are one and the same.’” See the description of Satan’s itinerary on the same page: “He descends and seduces, ascends and arouses wrath, obtains authorization and seizes the soul.”
 
-    See Rashi on BT *Shabbat* [[Shabbat 89#89a|89a]], s.v. *ba hasatan; Zohar* 1:10b, 46b, 148a (*ST*), 152b; 2:33b, 268b.
+    See Rashi on BT *Shabbat* [[Shabbat 89#89a|89a]], s.v. *ba hasatan; Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-10b|1:10b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-46b|46b]], [[Zohar 11.09 - Sitrei Torah#^z1-148a|148a]] (*ST*), [[Zohar 2.06 - Parashat Va-Yetse#^z1-152b|152b]]; [[Zohar 4.05 - Parashat Bo#^z2-33b|2:33b]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-268b|268b]].
 
 [^93]: **swooping through the world in a single moment** See BT *Berakhot* [[Berakhot 4#4b|4b]]: “A tanna taught: ‘Michael \[reaches his destination\] in one \[glide\], Gabriel in two, Elijah in four, and the Angel of Death in eight—in time of plague, however, in one.’”
 
@@ -749,7 +749,7 @@ Rabbi El’azar said, “At that moment Assembly of Israel[^411] looked up and s
 
 [^146]: **I have been hidden in the skin of a sling** Barely escaping punishment for disobeying God’s command and eating of the fruit of the Tree of Knowledge. See BT *Shabbat* [[Shabbat 152#152a|152a]]: “Rabbi Eli’ezer said, ‘… The souls of the wicked are continually muzzled, while one angel stands at one end of the world and another stands at the other end, and they sling their souls \[the souls of the wicked\] to each other, as is said: *The soul of your enemies He will sling out as from the hollow of a sling* ([[I Samuel 25#^25-29|1 Samuel 25:29]]).’”
 
-    See Radak on the verse in Samuel; Moses de León, *Shushan Edut*, 351–53 (and n. 171, where Scholem cites De León’s likely source in Jacob ha-Kohen’s *Sefer ha-Orah*); idem, *Sefer ha-Rimmon*, 373 (and n. 6), 399; *[[Zohar 2.02 - Parashat Lekh Lekha#^z1-77b|Zohar 1:77b]]*, 217b; 2:142b; 3:25a, 185b–186a, 213b; Liebes, *Peraqim*, 345–47.
+    See Radak on the verse in Samuel; Moses de León, *Shushan Edut*, 351–53 (and n. 171, where Scholem cites De León’s likely source in Jacob ha-Kohen’s *Sefer ha-Orah*); idem, *Sefer ha-Rimmon*, 373 (and n. 6), 399; *[[Zohar 2.02 - Parashat Lekh Lekha#^z1-77b|Zohar 1:77b]]*, [[Zohar 3.07 - Parashat Va-Yhi#^z1-217b|217b]]; [[Zohar 5.05 - Parashat Terumah#^z2-142b|2:142b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-25a|3:25a]], [[Zohar 9.08 - Parashat Balaq#^z3-185b|185b–186a]], [[Zohar 9.11 - Parashat Pinehas#^z3-213b|213b]]; Liebes, *Peraqim*, 345–47.
 
     “Sling” renders the Zoharic neologism קירטא (*qirta*). See *Bei’ur ha-Millim ha-Zarot*, 190; *KP* and *OY*, ad loc.; *Ma’arikh*, s.v. *gulda de-qirta;* Liebes, *Peraqim*, 383–93, especially 391. Liebes suggests a different interpretation: “hidden like a carrot stem.” Cf. *DE*.
 
@@ -1181,7 +1181,7 @@ Rabbi El’azar said, “At that moment Assembly of Israel[^411] looked up and s
 
     Here, perhaps, Rabbi Shim’on combines two motifs. One originates in BT *Berakhot* [[Berakhot 8#8a|8a]]: “Rabbi Ḥiyya son of Ammi said in the name of Ulla, ‘Since the day the Temple was destroyed, the blessed Holy One has nothing in His world but four cubits of law.’” The person praying stands in the presence of God and acquires the divine space of four cubits.
 
-    The other motif is the detailed measurements of the divine body recorded in the early mystical text *Shi’ur Qomah* (“Measure of the Stature”). See *Zohar* [[Zohar 1.024b|1:24b]] (*TZ*), 36a; 2:56b, 175b–176a. Among the many limbs and features measured is the divine eyebrow. See Schäfer, *Synapse zur Hekhalot-Literatur*, §699: “His eyebrows are 31,000 \[parasangs\].” On the relation between parasangs and cubits, see §950: “Each parasang is three miles, each mile is 10,000 cubits, each cubit is two spans—measured according to His span, which spans the universe.”
+    The other motif is the detailed measurements of the divine body recorded in the early mystical text *Shi’ur Qomah* (“Measure of the Stature”). See *Zohar* [[Zohar 1.024b|1:24b]] (*TZ*), [[Zohar 1.07 - Parashat Be-Reshit#^z1-36a|36a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-56b|2:56b]], [[Zohar 5.05 - Parashat Terumah#^z2-175b|175b–176a]]. Among the many limbs and features measured is the divine eyebrow. See Schäfer, *Synapse zur Hekhalot-Literatur*, §699: “His eyebrows are 31,000 \[parasangs\].” On the relation between parasangs and cubits, see §950: “Each parasang is three miles, each mile is 10,000 cubits, each cubit is two spans—measured according to His span, which spans the universe.”
 
     Closely related to this motif is the connotation of a measuring “band,” which suggests the image of המדה‎ קו (*qav ha-middah*), the “line of measure,” which gauges the *sefirot*—the divine limbs. The measuring of four cubits for prayer parallels the divine measure.
 
@@ -1233,7 +1233,7 @@ Rabbi El’azar said, “At that moment Assembly of Israel[^411] looked up and s
 
     In the *Zohar* this legendary custom is expanded into a ritual: all kabbalists are expected to rise at midnight and adorn *Shekhinah* with words of Torah and song in preparation for Her union with *Tif’eret*. See Scholem, *On the Kabbalah*, 146–50. This parallels the midnight vigil, common among Christian monks from early medieval times. In *Zohar* [[Zohar 8.07 - Parashat Be-Midbar#^z3-119a|3:119a]], Rabbi Yehudah alludes to the Christian practice: “I have seen something similar among the nations of the world.”
 
-    See *Sifra, Beḥuqqotai* 3:3, 111b; *Aggadat Bereshit 23.5*; BT *Sanhedrin* [[Sanhedrin 102#102a|102a]]; 2 Enoch 8:3; *Seder Gan Eden* (*Beit ha-Midrash*, 3:138); *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-10b|1:10b]], [[Zohar 1.08 - Parashat Noah#^z1-72a|72a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-77a|77a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-82b|82b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-92a|92a–b]], [[Zohar 2.05 - Parashat Toledot#^z1-136b|136b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-178b|178b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-231b|231b]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-46a|2:46a]], [[Zohar 5.05 - Parashat Terumah#^z2-130a|130a–b]], [[Zohar 5.05 - Parashat Terumah#^z2-136a|136a]], [[Zohar 5.05 - Parashat Terumah#^z2-173b|173b]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-195b|195b–196a]] 3:21b–22b, 52b, 193a; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-13c|13c]] (*MhN*). Cf. [[Matthew 25#^25-6|Matthew 25:6]].
+    See *Sifra, Beḥuqqotai* 3:3, 111b; *Aggadat Bereshit 23.5*; BT *Sanhedrin* [[Sanhedrin 102#102a|102a]]; 2 Enoch 8:3; *Seder Gan Eden* (*Beit ha-Midrash*, 3:138); *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-10b|1:10b]], [[Zohar 1.08 - Parashat Noah#^z1-72a|72a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-77a|77a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-82b|82b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-92a|92a–b]], [[Zohar 2.05 - Parashat Toledot#^z1-136b|136b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-178b|178b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-231b|231b]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-46a|2:46a]], [[Zohar 5.05 - Parashat Terumah#^z2-130a|130a–b]], [[Zohar 5.05 - Parashat Terumah#^z2-136a|136a]], [[Zohar 5.05 - Parashat Terumah#^z2-173b|173b]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-195b|195b–196a]] [[Zohar 7.03 - Parashat Va-Yiqra#^z3-21b|3:21b–22b]], [[Zohar 7.07 - Parashat Metsora#^z3-52b|52b]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-193a|193a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-13c|13c]] (*MhN*). Cf. [[Matthew 25#^25-6|Matthew 25:6]].
 
 [^341]: ***Evening, morning, and noon*…** The verse continues: *I meditate and moan*. See BT *Berakhot* [[Berakhot 31#31a|31a]]; *Midrash Tehillim* 55:2; *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-129b|2:129b]].
 

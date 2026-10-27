@@ -227,7 +227,7 @@ Although that (is taught there) in order to purify the body, (even so, that depo
 
 ### TĀ 16.227
 
-When purifying Mantras alone are deposited, the deposition of the limbs (i.e. phonemes) of Mātṛkā and the Mālinī is the same as in the procedure explained previously for the worship (of the deity). (226cd- 227ab) (227) 
+When purifying Mantras alone are deposited, the deposition of the limbs (i.e. phonemes) of Mātṛkā and the Mālinī is the same as in the procedure explained previously for the worship (of the deity). (226cd-227ab) (227) 
 
 ### TĀ 16.228–229
 
@@ -237,7 +237,7 @@ There are three Parts on each of the first pairs of fingers, and four Parts on e
 
 264\. See above, 16/141 and also 16/108.
 
-265\. The nineteen Parts of the mantra are the same as those presented above in 16/213ab-215 (213- 216ab) as those of Parāparā. In this deposition, these Parts are related to the eighty-four-finger space which constitutes the inferior measure of the body (see above 16/99-100). In the reverse order, as before (see above, 16/212cd-213ab (213), 1-3), the first three Parts take up a space of six fingers, 4-7) the following four, thirty-two fingers, and the remaining eleven occupy a space of 8) ten, 9) one, 10) one, 11) six, 12) twelve, 13) five, 14) five, 15) two, 16) two, 17) one, and 18) one finger, respectively (6 + 32 + 10 + 1 +1+6+12+54+5+24+2+ 1 + 1 = 84). Cf. below, 16/233cd-225 (234-226ab). 1) PHAT 2) HAH + 3) HUM = 6 fingers’ space 4) PHAT (+ 2 (+ 2)) 5) RARA (+2 (+ 2)) 6) RURU (+ 2 (+ 2)) T) HE (+ 2 (+ 2)) = 32 (+ 8 + 8) fingers’ space 8) PIBA (+ 2 (+ 2)) = 10 (+ 2 + 2) fingers’ space 9) VAMA (+2 (+ 2)) = 1 (+ 2 + 2) fingers’ space 10) BHĪṢAṆE BHĪMA = 1 finger’s space 11) GHORAMUKHI = 6 fingers’ space 12) HAH = 12 fingers’ space 13) GHORARÜPE = 5 fingers’ space 14) HUM = 2 fingers’ space 15) PARAMAGHORE = 2 fingers’ space 16) HRĪH = 2 fingers’ space 17) AGHORE = 1 fingers’ space 18) OM = I fingers’ space
+265\. The nineteen Parts of the mantra are the same as those presented above in 16/213ab-215 (213-216ab) as those of Parāparā. In this deposition, these Parts are related to the eighty-four-finger space which constitutes the inferior measure of the body (see above 16/99-100). In the reverse order, as before (see above, 16/212cd-213ab (213), 1-3), the first three Parts take up a space of six fingers, 4-7) the following four, thirty-two fingers, and the remaining eleven occupy a space of 8) ten, 9) one, 10) one, 11) six, 12) twelve, 13) five, 14) five, 15) two, 16) two, 17) one, and 18) one finger, respectively (6 + 32 + 10 + 1 +1+6+12+54+5+24+2+ 1 + 1 = 84). Cf. below, 16/233cd-225 (234-226ab). 1) PHAT 2) HAH + 3) HUM = 6 fingers’ space 4) PHAT (+ 2 (+ 2)) 5) RARA (+2 (+ 2)) 6) RURU (+ 2 (+ 2)) T) HE (+ 2 (+ 2)) = 32 (+ 8 + 8) fingers’ space 8) PIBA (+ 2 (+ 2)) = 10 (+ 2 + 2) fingers’ space 9) VAMA (+2 (+ 2)) = 1 (+ 2 + 2) fingers’ space 10) BHĪṢAṆE BHĪMA = 1 finger’s space 11) GHORAMUKHI = 6 fingers’ space 12) HAH = 12 fingers’ space 13) GHORARÜPE = 5 fingers’ space 14) HUM = 2 fingers’ space 15) PARAMAGHORE = 2 fingers’ space 16) HRĪH = 2 fingers’ space 17) AGHORE = 1 fingers’ space 18) OM = I fingers’ space
 
 
 *[p. 99]* ^pg119
@@ -823,7 +823,7 @@ vyavahārāt tu sā sākṣāc citropākhyāvimarśinī ॥ 263 ॥
 
 *[p. 116]* ^pg136
 
-Thus, the understanding (vyutpatti) (of the meaning) of a word through another word (develops) indirectly (vyavadhānataḥ), (whereas the noetic awareness) that reflects on (the meaning of) the observed variety (of words) through common usage (vyavahāra) does so directly. (263) (263cd- 264ab) 
+Thus, the understanding (vyutpatti) (of the meaning) of a word through another word (develops) indirectly (vyavadhānataḥ), (whereas the noetic awareness) that reflects on (the meaning of) the observed variety (of words) through common usage (vyavahāra) does so directly. (263) (263cd-264ab) 
 
 #### Viveka on 16.263–264
 
@@ -993,7 +993,7 @@ gomayāt kīṭtataḥ kīṭa ity evan nyāyato yadā ॥ 271 ॥
 sañjalpāntarato ‘py arthakriyār tām eva paśyati |
 tadaiṣa satyasañjalpaḥ śiva eveti kathyate ॥ 272 ॥ 
 
-(Some may say,) if one who, on the basis of the principle that a worm (produced) from cow dung (is the same as one born) from a worm, sees the same causal efficacy derived from the (teacher’s) discourse (as from a Mantra even though it) differs (from it), then he is said to be (a teacher whose) discourse is true, and is Śiva Himself. (271cd-272) (272- 273ab) 
+(Some may say,) if one who, on the basis of the principle that a worm (produced) from cow dung (is the same as one born) from a worm, sees the same causal efficacy derived from the (teacher’s) discourse (as from a Mantra even though it) differs (from it), then he is said to be (a teacher whose) discourse is true, and is Śiva Himself. (271cd-272) (272-273ab) 
 
 #### Viveka on 16.272–273
 
@@ -1375,7 +1375,7 @@ api mantrādhikāritvaṁ muktiśca śivadīkṣayā ॥ 292 ॥
 
 *[p. 131]* ^pg151
 
-distinction between (the practice based on the performance of ritual) action and (that conducive to the development of the) knowledge (of ultimate principles). Thus, this has been said because that (initiation) should be performed in the two (corresponding) ways.[^330] Śiva’s initiation not only confers entitlement (to the fruits of) Yoga (and its practice), it also (confers the) authority (to practice) Mantras as well as liberation (itself). (288cd- 292) (289-293ab) 
+distinction between (the practice based on the performance of ritual) action and (that conducive to the development of the) knowledge (of ultimate principles). Thus, this has been said because that (initiation) should be performed in the two (corresponding) ways.[^330] Śiva’s initiation not only confers entitlement (to the fruits of) Yoga (and its practice), it also (confers the) authority (to practice) Mantras as well as liberation (itself). (288cd-292) (289-293ab) 
 
 #### Viveka on 16.289–293
 
@@ -1455,7 +1455,7 @@ Thus, although he has been purified?” in the course of initiation, there shoul
 tena vijñānayogādibalī prāk samayī bhavan |
 putrako vā na tāvān syād api tu svabalocitaḥ ॥ 297 ॥ 
 
-Thus, he who has the strength (in himself to sustain) insight (vijñāna), Yoga and the like, whether he is initially a regular (initiate) or a spiritual son, he should not (limit himself) to being this only, but rather to what is consonant with (his) own (inherent spiritual) strength. (297) (297cd- 298ab) 
+Thus, he who has the strength (in himself to sustain) insight (vijñāna), Yoga and the like, whether he is initially a regular (initiate) or a spiritual son, he should not (limit himself) to being this only, but rather to what is consonant with (his) own (inherent spiritual) strength. (297) (297cd-298ab) 
 
 #### Viveka on 16.297–298
 
@@ -1477,7 +1477,7 @@ One without Inner Knowledge or Yoga is Totally Dependent on the Teacher and Init
 yas tu vijñānayogādivandhyaḥ so ‘ndho yathā pathi |
 daisikāyatta eva syād bhoge muktau ca sarvathā ॥ 298 ॥ 
 
-However, he who (on the contrary) is devoid of insight, Yoga and the like, is like a blind man (walking) on the road; he depends completely on the teacher, for (both) worldly benefits and liberation. (298) (298cd- 299ab) 
+However, he who (on the contrary) is devoid of insight, Yoga and the like, is like a blind man (walking) on the road; he depends completely on the teacher, for (both) worldly benefits and liberation. (298) (298cd-299ab) 
 
 #### Viveka on 16.298–299
 

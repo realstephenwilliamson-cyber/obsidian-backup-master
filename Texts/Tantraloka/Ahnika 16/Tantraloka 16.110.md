@@ -32,7 +32,7 @@ uktaṃ ca triśirastantre svādhārasthaṃ yathāsthitam || ^iast
 >
 > The (manner and content of the) deposition in the case of a deposition of nine, five, or four principles or (just) one, can (easily) be figured out by the (teacher’s) own intellect, bearing in mind that the rest of the principles are included within it. The deposition of the five Forces (kalā) and the four Eggs (anda) is characterized by this (same procedure as that of the five and of the four principles, respectively). (with 16.109–110ab)
 >
-> Moreover, it is said in the Trisirastantra: ‘Just as there is a (vertical) space twelve fingers high (ufthāna) at the base of one’s own (body), in the same way also, there is one the same size beyond the body. O fair lady, the body extends a span of eighty-four fingers from the feet up to the end of the head. (Beyond that, it extends) up to (the End of the Twelve, which is) the plane of Unstruck Sound (anāhata).’ (with 16.110cd–112ab)
+> Moreover, it is said in the Triśirastantra: ‘Just as there is a (vertical) space twelve fingers high (utthāna) at the base of one’s own (body), in the same way also, there is one the same size beyond the body. O fair lady, the body extends a span of eighty-four fingers from the feet up to the end of the head. (Beyond that, it extends) up to (the End of the Twelve, which is) the plane of Unstruck Sound (anāhata).’ (with 16.110cd–112ab)
 
 ## Viveka
 

@@ -17,6 +17,8 @@ nyasa: "bone (*asthi*)"
 
 **Card 57 of 108** (printed: Card 2-30 · Alpha 91) · consonant · the letter: [[Letter 46 palatal sa|श śa]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** श

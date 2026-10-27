@@ -47,7 +47,7 @@ Now, concluding this (subject), he continues with the main point.
 tena svarūpasvātantryamātraṁ malavijṛmbhitam || 83 ॥
 nirṇītaṁ vitataṁ caitan mayānyatrety alaṁ punaḥ | 
 
-Therefore, (the varied) expansion (vijṛmbhita) of Impurity is only (an expression of) the freedom (inherent in the Lord’s) own nature.” I have explained (all) this extensively elsewhere, and so let this suffice. (83cd- 84ab) 
+Therefore, (the varied) expansion (vijṛmbhita) of Impurity is only (an expression of) the freedom (inherent in the Lord’s) own nature.” I have explained (all) this extensively elsewhere, and so let this suffice. (83cd-84ab) 
 
 #### Viveka on 9.83–84
 
@@ -145,7 +145,7 @@ iti pūrvaṁ vicāraś ca vistareṇa prapañcitaḥ \\
 
 Or else, if (the Lord) does not depend upon Karma, then Karma would be blocked (for it would serve no purpose, and anyway) this all-pervasive Lord would always block Karmas. (But) surely, it is their nature to generate the experience which is the consequence of Karma (bhoga). How could it be (their) nature if it is conditioned by something else? (191-192) 
 
-The innate nature of existing things and Karmas does not depend on (anything else). Thus, the nature of things that are independent of the Lord’s will is their own innate nature (vapus). Does the deity awaken the Karmas that have dissolved away in the course of (universal) destruction, even if that involves the destruction of their state (and nature as Karmas, as being in that state)? Again, what do they do when they are emitted (again when a new creation begins)? (If you say this process) serves to mature Impurity, that (possibility) has been removed to a great distance (for then Karma would ultimately destroy itself). Moreover, the Self is all-pervasive, so what does this (Karma) do (to it)? Thus, (as it is important), the deliberation (on the problem of the existence of Karma) has been considered extensively at the beginning (of this discussion). (193- 196ab) 
+The innate nature of existing things and Karmas does not depend on (anything else). Thus, the nature of things that are independent of the Lord’s will is their own innate nature (vapus). Does the deity awaken the Karmas that have dissolved away in the course of (universal) destruction, even if that involves the destruction of their state (and nature as Karmas, as being in that state)? Again, what do they do when they are emitted (again when a new creation begins)? (If you say this process) serves to mature Impurity, that (possibility) has been removed to a great distance (for then Karma would ultimately destroy itself). Moreover, the Self is all-pervasive, so what does this (Karma) do (to it)? Thus, (as it is important), the deliberation (on the problem of the existence of Karma) has been considered extensively at the beginning (of this discussion). (193-196ab) 
 
 mṛddaṇdacakrasūtreṣu dhīmān karteśvaraḥ sthitaḥ I| 196 ॥
 kumbhakārasya kartṛtvarni kutrāṁiśe nv avatiṣthatām |
@@ -498,7 +498,7 @@ He responds to that (objection).
 
 maivam adhvastasaṁkoco ‘py asau bhāvanayā dṛdham | 103 Il nāhar karteti manvānaḥ karmasaiskāram ujjhati | 
 
-(We reply that this is) not so, (because) even though the contracted state of (his consciousness) has not been eliminated, by the intense (practice of) contemplation (bhāvanā), he cultivates the notion that he is not an agent (of any action) and abandons the latent impressions of Karma. (103cd- 104ab) 
+(We reply that this is) not so, (because) even though the contracted state of (his consciousness) has not been eliminated, by the intense (practice of) contemplation (bhāvanā), he cultivates the notion that he is not an agent (of any action) and abandons the latent impressions of Karma. (103cd-104ab) 
 
 #### Viveka on 9.103–104
 
@@ -997,7 +997,7 @@ He says that:
 ata eva kṛtaṁ karma karmanā tapasāpi vā || 129 ||
 jñānena vā nirudhyeta phalapākeṣv anunmukham | 
 
-Therefore, the Karma produced (in the past), which is not propense to the maturing of (its) consequences (phalapāka), can be checked by (performing a) ritual, by (practicing) austerity, or by knowledge.? (129cd- 130ab) 
+Therefore, the Karma produced (in the past), which is not propense to the maturing of (its) consequences (phalapāka), can be checked by (performing a) ritual, by (practicing) austerity, or by knowledge.? (129cd-130ab) 
 
 #### Viveka on 9.129–130
 
@@ -1015,7 +1015,7 @@ Thus, Karma, which is propense to give its fruit, cannot be blocked. Accordingly
 ārabdhakāryaṁ dehe ‘smin yat punaḥ karma tat katham || 130 ॥
 ucchidyatām antyadaśaṁ niroddhur na hi śakyate | 
 
-(However), how can the Karma that has started to have its effect (arabdhakārya) in this body be eliminated? (It cannot). That which has reached its final stage (of completion) cannot be \[illegible\] \[illegible\] (130cd- 131ab) 
+(However), how can the Karma that has started to have its effect (arabdhakārya) in this body be eliminated? (It cannot). That which has reached its final stage (of completion) cannot be \[illegible\] \[illegible\] (130cd-131ab) 
 
 #### Viveka on 9.130–131
 
@@ -1095,7 +1095,7 @@ He says that:
 ato mohaparādhīno yady apy akṛta kiñcana ॥ 133 ॥
 tathāpi jñānakāle tat sarvam eva pradahyate | 
 
-Thus, whatever one who is under the sway of delusion has (done or) failed to do, is all burnt away, when insight (dawns) (jñānakāle). (133cd- 134ab) 
+Thus, whatever one who is under the sway of delusion has (done or) failed to do, is all burnt away, when insight (dawns) (jñānakāle). (133cd-134ab) 
 
 #### Viveka on 9.133–134
 
@@ -1243,7 +1243,7 @@ This Karmic Impurity flows along the path within Māyā. Its fundamental (materi
 
 Surely (one may ask), fine, let it be (as you say, but) then what is said to be the disturbed state introduced previously (in the following words): 
 
-(The individual) souls are pervasive and, (essentially) Śiva by nature, are (related) mutually (to one another), along with the reality principles (fattva). (Pray tell me, their) pervasive state is obscured, and so how would they be known? (In reply to this question, we say that) the supreme pervasion is the expansion of consciousness, and that is said to be unity (abheda). (212cd-214) \[illegible\] kañcukavrātari tathā karaṇasaricayaḥ | m itaḥ pūrvam eva kāryavargaś ca carcitaḥ ॥ 215 ॥ yāvac chivapadādhyāsavandhyaṁ viśvaṁ na visphuret | tatsvātantryakathāmātram etad ity avadhāryatām || 216 ॥ The aggregate of obscuring coverings (kañcuka) is made of Māyā, 9 the aggregate of instrumental means (of perception and action). This has been expounded (vicarita) previously, as has the category of the resultant (gross material) products (kāryavarga). (The conclusion is that,) as long as the universe is devoid of the superimposition (adhyāsa) of Śiva’s plane (pada), it would not be manifestly apparent. Understand that (all this discussion) is only talk concerning (Śiva\`s) freedom.” (215- 216) \[illegible\] BhoKā 126cd-127ab. The printed edition reads: janmādijanikā for janmābhijanikā Aghoraśivācāryaą comments: ajṁñānahetunā malena rahitasya muktātmano janmādarśanāt karmānuṣṭhānādarśanācca malayuktasyaiva karmārjanaṁi tadbhogo vā upayujyate ॥ ‘It is reasonable (to maintain that it is the soul) that, conjoined to Impurity, accrues Karma or has the experience of its consequence (bhoga), because one does not see the birth of a liberated soul who is devoid of Impurity, which is the cause of ignorance, and also because he is seen to be dedicated to Karma.’
+(The individual) souls are pervasive and, (essentially) Śiva by nature, are (related) mutually (to one another), along with the reality principles (fattva). (Pray tell me, their) pervasive state is obscured, and so how would they be known? (In reply to this question, we say that) the supreme pervasion is the expansion of consciousness, and that is said to be unity (abheda). (212cd-214) \[illegible\] kañcukavrātari tathā karaṇasaricayaḥ | m itaḥ pūrvam eva kāryavargaś ca carcitaḥ ॥ 215 ॥ yāvac chivapadādhyāsavandhyaṁ viśvaṁ na visphuret | tatsvātantryakathāmātram etad ity avadhāryatām || 216 ॥ The aggregate of obscuring coverings (kañcuka) is made of Māyā, 9 the aggregate of instrumental means (of perception and action). This has been expounded (vicarita) previously, as has the category of the resultant (gross material) products (kāryavarga). (The conclusion is that,) as long as the universe is devoid of the superimposition (adhyāsa) of Śiva’s plane (pada), it would not be manifestly apparent. Understand that (all this discussion) is only talk concerning (Śiva\`s) freedom.” (215-216) \[illegible\] BhoKā 126cd-127ab. The printed edition reads: janmādijanikā for janmābhijanikā Aghoraśivācāryaą comments: ajṁñānahetunā malena rahitasya muktātmano janmādarśanāt karmānuṣṭhānādarśanācca malayuktasyaiva karmārjanaṁi tadbhogo vā upayujyate ॥ ‘It is reasonable (to maintain that it is the soul) that, conjoined to Impurity, accrues Karma or has the experience of its consequence (bhoga), because one does not see the birth of a liberated soul who is devoid of Impurity, which is the cause of ignorance, and also because he is seen to be dedicated to Karma.’
 
 *[p. 123]* ^pg140
 

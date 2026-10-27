@@ -17,6 +17,8 @@ nyasa: "back (*pṛṣṭha*)"
 
 **Card 50 of 108** (printed: Card 2-23 · Alpha 77) · consonant · the letter: [[Letter 39 ba|ब ba]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ब

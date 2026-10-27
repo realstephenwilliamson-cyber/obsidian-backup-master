@@ -17,6 +17,8 @@ nyasa: "ha: breath (*prāṇa*) · ya: skin (*tvak*) · aḥ: tongue (*jihvā*)"
 
 **Card 108 of 108** (printed: Card 3-48 · Alpha 105) · word
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ह्यः

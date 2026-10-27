@@ -76,7 +76,7 @@ He is both Worldly Enjoyment and Liberation.
 anābhāsitarūpo ‘pi tadābhāsitayeva yat || 120 I|
 sthitvā mantrādi saṁgṛhya tyajet so ‘sya tirobhavaḥ | 
 
-(The consciousness of) one who behaves as if he were enlightened, although he is not, and having taken up (the practice of reciting) Mantras and the like, gives it up, is in a state of obscuration (tirobhāva). (120cd- 121ab) 
+(The consciousness of) one who behaves as if he were enlightened, although he is not, and having taken up (the practice of reciting) Mantras and the like, gives it up, is in a state of obscuration (tirobhāva). (120cd-121ab) 
 
 #### Viveka on 13.120–121
 
@@ -578,7 +578,7 @@ In this way, although he has not been formed (by another teacher), somewhere in 
 dṛdhatākampratābhedaiḥ so ‘pi svayam atha vratāt || 142 ॥
 tapojapāder gurutaḥ svasaiskāraṁi prakalpayet | 
 
-According to whether (his intuition) is variously (more or less) firm or fickle, he should celebrate his own purifying rites (that is, the initiations etc. that purify him) by the observance of a vow, and the intensity (gurutaḥ)' (of his) austerity, repetition of Mantras, and the \[illegible\] (142cd- 143ab) 
+According to whether (his intuition) is variously (more or less) firm or fickle, he should celebrate his own purifying rites (that is, the initiations etc. that purify him) by the observance of a vow, and the intensity (gurutaḥ)' (of his) austerity, repetition of Mantras, and the \[illegible\] (142cd-143ab) 
 
 #### Viveka on 13.142–143
 

@@ -261,7 +261,7 @@ paśurūpā \[g: paśū-\] svarūpasthā rūpātītādyatītagā |
 kharakṣinī \[k: kara-; g: karajvinī\] kaleśānī \[k kh: -ni\] mṛtyukālāntapātinī ॥ 34 ॥
 mṛtyvantakā \[k: mṛtyuntakā; g: mṛtyantakā\] kalā yasya praviśed dehamandale | 
 
-Established in her own nature, her form is the fettered soul, present in (the reality that is) beyond, beyond form and the rest, she protects the Sky, she governs the energies, and falls at the extreme end of the time of death, the destroyer of death, (this) energy (kalā) enters the mandala of the body. (34- 35ab) 
+Established in her own nature, her form is the fettered soul, present in (the reality that is) beyond, beyond form and the rest, she protects the Sky, she governs the energies, and falls at the extreme end of the time of death, the destroyer of death, (this) energy (kalā) enters the mandala of the body. (34-35ab) 
 
 tena hy eṣā kuleśānī mṛtyukālāntapātinī || 35 ॥
 mṛtyukālakalā yasyāḥ praviśed vigrahaṁ śiva |
@@ -294,7 +294,7 @@ Present in (the reality) easily attained between the coming and going (of the br
 
 *[p. 447]* ^pg460
 
-As She dissolves away (dravanāt) duality (bheda), (She is the auspicious one (bhadrā) Who bestows the (most) auspicious (bhadra) accomplishment.)” (37- 38) 
+As She dissolves away (dravanāt) duality (bheda), (She is the auspicious one (bhadrā) Who bestows the (most) auspicious (bhadra) accomplishment.)” (37-38) 
 
 9\) (9) Paramārkakālī (withdrawal of the persistence of the Inexplicable) 
 

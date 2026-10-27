@@ -683,7 +683,7 @@ And so it was.
 
 [^72]: **Surely, we call Her חטה (*ḥittah*), wheat…** But if so, how can this name of Hers include the letters ט‎ ח (*ḥet, tet*), which imply חטא (*ḥet*), “sin”? After all, these two ominous letters do not appear in any of the names of the twelve tribes.
 
-    On the missing letters, see JT *Yoma* 7:5, 44c; BT *Yoma* [[Yoma 73#73b|73b]]; *Ba’alei ha-Tosafot* on [[Torah 12 - Vayechi#^49-1|Genesis 49:1]]; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-3a|1:3a]]; [[Zohar 5.05 - Parashat Terumah#^z2-152a|2:152a]] (from the Book of Rav Hamnuna Sava), 230a; Baḥya ben Asher on [[Torah 12 - Vayechi#^47-28|Genesis 47:28]]; Ginzberg, *Legends of the Jews*, 5:367; Kasher, *Torah Shelemah*, [[Torah 12 - Vayechi#^49-1|Genesis 49:1]], n. 21; Benarroch, “Sodo shel Yanuqa,” 62. While BT *Yoma* specifies *tet* and צ (*tsade*), JT *Yoma* specifies *ḥet* and *tsade*, though a scribal gloss adds *tet*.
+    On the missing letters, see JT *Yoma* 7:5, 44c; BT *Yoma* [[Yoma 73#73b|73b]]; *Ba’alei ha-Tosafot* on [[Torah 12 - Vayechi#^49-1|Genesis 49:1]]; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-3a|1:3a]]; [[Zohar 5.05 - Parashat Terumah#^z2-152a|2:152a]] (from the Book of Rav Hamnuna Sava), [[Zohar 6.06 - Parashat Pequdei#^z2-230a|230a]]; Baḥya ben Asher on [[Torah 12 - Vayechi#^47-28|Genesis 47:28]]; Ginzberg, *Legends of the Jews*, 5:367; Kasher, *Torah Shelemah*, [[Torah 12 - Vayechi#^49-1|Genesis 49:1]], n. 21; Benarroch, “Sodo shel Yanuqa,” 62. While BT *Yoma* specifies *tet* and צ (*tsade*), JT *Yoma* specifies *ḥet* and *tsade*, though a scribal gloss adds *tet*.
 
 [^73]: **ט‎ ח (*ḥet, tet*) dwell close to Her…** Demonic forces are situated near *Shekhinah*, eager to taint Her or to draw power from Her.
 
@@ -705,7 +705,7 @@ And so it was.
 
     The child quotes the verse in [[Psalms 001#^1-1|Psalms 1]] to demonstrate the link between *chaff* and *the wicked* (including the Other Side). The Holy Spirit is one of the many designations of *Shekhinah*.
 
-    On the species of grain, see M *Ḥallah* 1:1, *Pesaḥim* 2:5; *Mekhilta, Pisḥa* 8; BT *Berakhot* [[Berakhot 35#35b|35b]], 36b–37b; *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-157a|1:157a]]; 3:244a; above, p. 138, n. 260. Cf. [[Torah 46 - Eikev#^8-8|Deuteronomy 8:8]], which lists seven species of grain and fruit.
+    On the species of grain, see M *Ḥallah* 1:1, *Pesaḥim* 2:5; *Mekhilta, Pisḥa* 8; BT *Berakhot* [[Berakhot 35#35b|35b]], 36b–37b; *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-157a|1:157a]]; [[Zohar 9.11 - Parashat Pinehas#^z3-244a|3:244a]]; above, p. 138, n. 260. Cf. [[Torah 46 - Eikev#^8-8|Deuteronomy 8:8]], which lists seven species of grain and fruit.
 
     On the share reserved for (or given to) the Other Side, see above, note 11. On Rabbi Shema’yah, see above, note 6, and at notes 11, 68. The full verse in Psalms 103 reads: *For the wind passes by and it* \[or: *he*\] *is no more, and its place* \[or: *his place*\] *no longer knows it* \[or: *him*\]. The subject *it* (or *he*) is either the grass or the human being.
 
@@ -763,7 +763,7 @@ And so it was.
 
     The comparison of ape to human appears in rabbinic sources. See BT *Bava Batra* [[Bava Batra 58#58a|58a]], in the name of Rabbi Bana’ah: “Compared with Sarah, all others are like an ape compared with a human. Compared with Eve, Sarah was like an ape compared with a human. Compared with Adam, Eve was like an ape compared with a human. Compared with *Shekhinah*, Adam was like an ape compared with a human.”
 
-    See *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-148b|2:148b]] (Vol. 5, p. 364, n. 492); 3:192a, 268b, 284b; *ZḤ* 8c. In Christian literature and art, Satan sometimes appears as an ape, and he is occasionally called *simia Dei*, “the ape of God.” See Rudwin, *The Devil in Legend and Literature*, 120–29; Janson, *Apes and Ape Lore*, 13–22, 25–26, n. 39; Scholem; Eliade, ed., *Encyclopedia of Religion*, 10:65.
+    See *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-148b|2:148b]] (Vol. 5, p. 364, n. 492); [[Zohar 9.09 - Yanuqa#^z3-192a|3:192a]], [[Zohar 9.12 - Parashat Va-Ethannan#^z3-268b|268b]], [[Zohar 9.13 - Parashat Va-Yelekh#^z3-284b|284b]]; *ZḤ* 8c. In Christian literature and art, Satan sometimes appears as an ape, and he is occasionally called *simia Dei*, “the ape of God.” See Rudwin, *The Devil in Legend and Literature*, 120–29; Janson, *Apes and Ape Lore*, 13–22, 25–26, n. 39; Scholem; Eliade, ed., *Encyclopedia of Religion*, 10:65.
 
 [^86]: ***On the vine three tendrils*…** The child quotes the account of the chief cupbearer’s dream to Joseph. The first verse conveys “vision of the matter,” that is, the spiritual essence of the dream; whereas the following verse describes the actions of the cupbearer himself.
 
@@ -977,7 +977,7 @@ And so it was.
 
 [^130]: **Every person is obligated…** According to M *Berakhot* 3:3, men, women, and children are obligated to recite Grace after Meals. *Tosefta Berakhot* 5:17 adds that a man’s wife or child may recite Grace on his behalf. However (as recorded in BT *Berakhot* [[Berakhot 20#20b|20b]]), “the sages said, ‘May a curse fall upon the man whose wife or children have to say Grace for him!’”
 
-    See Rashi, ad loc., s.v. *mevarekh*; *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-168b|2:168b]] (Vol. 5, pp. 479–80, n. 823); 3:19b; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-87d|87d]] (*MhN, Rut*); *Sha’arei Teshuvah* (*Teshuvot ha-Ge’onim*), 345.
+    See Rashi, ad loc., s.v. *mevarekh*; *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-168b|2:168b]] (Vol. 5, pp. 479–80, n. 823); [[Zohar 7.03 - Parashat Va-Yiqra#^z3-19b|3:19b]]; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-87d|87d]] (*MhN, Rut*); *Sha’arei Teshuvah* (*Teshuvot ha-Ge’onim*), 345.
 
 [^131]: **he should train his son…** The verse from Proverbs reads: *He who withholds* בר (*bar*), *grain*—לאום‎ יקבוהו (*yiqqevuhu le’om*), *the nation will curse him*. The child construes the first clause as *He who prevents bar, a son* \[from reciting Grace after Meals\].
 

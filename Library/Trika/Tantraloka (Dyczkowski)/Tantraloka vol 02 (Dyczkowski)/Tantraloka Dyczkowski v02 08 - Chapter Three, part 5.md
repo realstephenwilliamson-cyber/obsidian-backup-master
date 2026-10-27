@@ -212,7 +212,7 @@ Surely (one may ask,) if supreme consciousness manifests in the form of percepti
 
 ucchalanty api saṁvittiḥ kālakramavivarjanāt | 
 
-Even when consciousness pours out of itself in the form of subject and object etc., free as it is of the sequence of time (kālakrama), it is in an emergent (uditā) (state which is) full (pārnā) (and all-inclusive). (129) (128cd- 129ab) 
+Even when consciousness pours out of itself in the form of subject and object etc., free as it is of the sequence of time (kālakrama), it is in an emergent (uditā) (state which is) full (pārnā) (and all-inclusive). (129) (128cd-129ab) 
 
 #### Viveka on 3.128–129
 
@@ -401,7 +401,7 @@ Surely (one may ask,) how can the Absolute itself become emission (visarga) etc.
 asyāntarvisisṛkṣāsau yā proktā kaulikī parā |
 saiva kṣobhavaśād eti visargātmakatāṁ dhruvam ॥ 137 ॥ 
 
-The inner intention to emit of that (Light of the Absolute) is called Kaulikī, the supreme (power) (parā). By (Her) arousal She Herself most certainly (dhruvam) assumes the state of emission (visarga). (137) (136cd- 137ab) 
+The inner intention to emit of that (Light of the Absolute) is called Kaulikī, the supreme (power) (parā). By (Her) arousal She Herself most certainly (dhruvam) assumes the state of emission (visarga). (137) (136cd-137ab) 
 
 #### Viveka on 3.136–137
 
@@ -622,7 +622,7 @@ anuttaraṁ paraḥ dhāma tad evākulam ucyate ॥ 143 ॥ visargas tasya nāth
 
 *[p. 254]* ^pg270
 
-The Supreme Abode ~ the Absolute (Anuttara) — is called Akula, whereas the emission (visarga) of that Lord is called Kaulikī \[illegible\] (143cd- 144ab) (143) 
+The Supreme Abode ~ the Absolute (Anuttara) — is called Akula, whereas the emission (visarga) of that Lord is called Kaulikī \[illegible\] (143cd-144ab) (143) 
 
 #### Viveka on 3.143
 

@@ -1221,7 +1221,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
 [^156]: **all those Egyptians were steeped in lechery** See *Tanḥuma, Lekh Lekha* 5; *Mekhilta de-Rashbi*, [[Torah 15 - Bo#^12-33|Exodus 12:33]]; *Shemot Rabbah* 1:18; BT *Yevamot* [[Yevamot 98#98a|98a]].
 
-[^157]: **Because he saw *Shekhinah*** And he was sure that She would protect Sarah. See *Bereshit Rabbah* 60:16; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-50a|1:50a]], [[Zohar 2.03 - Parashat Va-Yera#^z1-111b|111b]] 133a, 140b; 3:52a.
+[^157]: **Because he saw *Shekhinah*** And he was sure that She would protect Sarah. See *Bereshit Rabbah* 60:16; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-50a|1:50a]], [[Zohar 2.03 - Parashat Va-Yera#^z1-111b|111b]] [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-133a|133a]], [[Zohar 2.05 - Parashat Toledot#^z1-140b|140b]]; [[Zohar 7.06 - Parashat Tazri'a#^z3-52a|3:52a]].
 
 [^158]: **He had put her in a chest…** See *Tanḥuma, Lekh Lekha* 5: “\[Abraham\] said to her, ‘The Egyptians are steeped in whoredom…. I will put you in a chest and lock you up, for I fear for myself. *When the Egyptians see you* \[*and say, “This is his wife,” they will kill me and let you live*\]’ ([[Torah 03 - Lech Lecha#^12-12|Genesis 12:12]]). Having done so, he approached to cross the border. The customs officials gathered and asked him, ‘What are you carrying inside the chest?’ He answered, ‘Barley.’ They said, ‘It must be wheat!’ He said, ‘So collect duty for wheat.’ They said, ‘It is pepper!’ He said, ‘So collect duty for pepper.’ They said, ‘It must be gold!’ Pressing him, they opened the chest and saw it radiant as the sun.” See *Bereshit Rabbah* 40:5.
 
@@ -1371,7 +1371,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
 [^213]: **hooded, hunchbacked, dazzling demons…** טהירין‎ קומרין (*Qumrin tehirin*), malevolent forces who block the ascent of an unworthy soul. The cryptic phrase reappears in *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-109a|1:109a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-251a|251a]] (*Hash*).
 
-    *Qumrin* derives from the Greek *qamara*, “arched cover.” See *Bereshit Rabbah* 31:11; M *Eruvin* 8:9–10; *Arukh*, s.v. *qmr; Zohar* 1:61b.
+    *Qumrin* derives from the Greek *qamara*, “arched cover.” See *Bereshit Rabbah* 31:11; M *Eruvin* 8:9–10; *Arukh*, s.v. *qmr; Zohar* [[Zohar 1.08 - Parashat Noah#^z1-61b|1:61b]].
 
     *Tehirin* is a cognate of טיהרא (*tihara*), meaning “brightness, noon.” One class of demons is named טהרי (*tiharei*), “noonday demons.” See [[Psalms 091#^91-6|Psalms 91:6]], and Rashi, ad loc.; *Targum*, [[Song of Songs 4#^4-6|Song of Songs 4:6]]; *Targum Yerushalmi*, [[Torah 35 - Nasso#^6-24|Numbers 6:24]], [[Torah 53 - Ha'Azinu#^32-24|Deuteronomy 32:24]]. The Hebrew root טהר (*thr*), “pure,” lends this demonic name a euphemistic tone.
 
@@ -1389,7 +1389,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
 [^220]: **Countenance of Days** The face of God, Ancient of Days, a title deriving from [[Daniel 07#^7-9|Daniel 7:9]]: *The Ancient of Days sat, …the hair on His head like clean fleece, His throne—flames of fire*.
 
-    See *Bereshit Rabbah* 35:2; *Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-89b|1:89b]] (*ST*), 130a, 188a; 3:132b (*IR*), 201a; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-19a|19a]] (*MhN*).
+    See *Bereshit Rabbah* 35:2; *Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-89b|1:89b]] (*ST*), [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-130a|130a]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-188a|188a]]; [[Zohar 8.09 - Idra Rabba#^z3-132b|3:132b]] (*IR*), [[Zohar 9.10 - Commentary on Balaq, continued#^z3-201a|201a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-19a|19a]] (*MhN*).
 
 [^221]: **to gaze upon the loveliness of the King…** A paraphrase of [[Psalms 027#^27-4|Psalms 27:4]].
 
@@ -1429,7 +1429,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
 [^236]: **candle** בוצינא (*Botsina*), “Lamp,” employed by *Targum Onqelos* (e.g., [[Torah 20 - Tetzaveh#^27-20|Exodus 27:20]]; [[Torah 20 - Tetzaveh#^30-7|30:7–8]]) to render the Hebrew word נר (*ner*), “lamp,” and later, “candle.”
 
-    Wax candles are discussed in a thirteenth-century treatise commissioned by Alfonso X of Castile (1252–1284); see *Libro del saber de astrologia* (University of Madrid MS. 156), fol. 194r. See *Bereshit Rabbah* 85:4; *Tosafot, Shabbat* 20b, s.v. *ad kan; Zohar* 1:50b–51a.
+    Wax candles are discussed in a thirteenth-century treatise commissioned by Alfonso X of Castile (1252–1284); see *Libro del saber de astrologia* (University of Madrid MS. 156), fol. 194r. See *Bereshit Rabbah* 85:4; *Tosafot, Shabbat* 20b, s.v. *ad kan; Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-50b|1:50b–51a]].
 
 [^237]: **The lower light, which is black, cleaves to the wick…** This dark light cleaving to the wick symbolizes *nefesh*, which cleaves to the body. See the discussion of the colors of the flame in *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-50b|1:50b]]–51b, [[Zohar 2.02 - Parashat Lekh Lekha#^z1-77b|77b]].
 
@@ -1589,7 +1589,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
     Maimonides had relativized the importance of the sacrificial offerings, explaining them away as a concession to the primitive nature of ancient Israel. The *Zohar* counters by emphasizing their vital role in unifying and sustaining the cosmos. See Maimonides, *Guide of the Perplexed* 3:32; Tishby, *Wisdom of the Zohar*, 3:878–90.
 
-    On cultivating the land as a metaphor for offering sacrifices and observing the commandments, see *Sifrei*, Deuteronomy 41; *Targum Yerushalmi*, [[Torah 01 - Bereshit#^2-15|Genesis 2:15]]; *Bereshit Rabbah* 16:5; *Avot de-Rabbi Natan* B, 21; *Pirqei de-Rabbi Eli’ezer* 12; *Battei Midrashot*, 2:91; *Zohar* [[Zohar 1.027a|1:27a]] (*TZ*), 57b, 122a, 141b, 199b; 2:165b.
+    On cultivating the land as a metaphor for offering sacrifices and observing the commandments, see *Sifrei*, Deuteronomy 41; *Targum Yerushalmi*, [[Torah 01 - Bereshit#^2-15|Genesis 2:15]]; *Bereshit Rabbah* 16:5; *Avot de-Rabbi Natan* B, 21; *Pirqei de-Rabbi Eli’ezer* 12; *Battei Midrashot*, 2:91; *Zohar* [[Zohar 1.027a|1:27a]] (*TZ*), [[Zohar 1.07 - Parashat Be-Reshit#^z1-57b|57b]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-122a|122a]], [[Zohar 2.05 - Parashat Toledot#^z1-141b|141b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-199b|199b]]; [[Zohar 5.05 - Parashat Terumah#^z2-165b|2:165b]].
 
 [^308]: **being nourished only by drippings** See BT *Ta’anit* 10a: “The land of Israel drinks water directly from the rain, while the rest of the world drinks of the drippings.” See *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-108b|1:108b]]; [[Zohar 5.05 - Parashat Terumah#^z2-152b|2:152b]]; [[Zohar 9.10 - Commentary on Balaq, continued#^z3-209b|3:209b]]; Naḥmanides on [[Torah 46 - Eikev#^11-10|Deuteronomy 11:10]].
 
@@ -1623,7 +1623,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
 [^318]: **That is why Jonah fled outside the Holy Land…** See *Mekhilta, Pisḥa* 1: “Rabbi El’azar son of Tsadok said, ‘…*Shekhinah* is not revealed outside the land \[of Israel\], for it is said: *Jonah set out to flee to Tarshish from the presence of YHVH* ([[Jonah 1#^1-3|Jonah 1:3]]). Was he fleeing *from the presence of YHVH*? Has it not already been said: *Where can I go from Your spirit?* \[*Where can I flee from Your presence?*\] *If I ascend to heaven, You are there*. \[*If I make my bed in Sheol, here You are*\]…([[Psalms 139#^139-7|Psalms 139:7–8]]). Rather, Jonah said, “I will go outside the land, where *Shekhinah* is not revealed.”’”
 
-    See *Pirqei de-Rabbi Eli’ezer* 10; *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-121a|1:121a]]; 2:170b.
+    See *Pirqei de-Rabbi Eli’ezer* 10; *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-121a|1:121a]]; [[Zohar 5.05 - Parashat Terumah#^z2-170b|2:170b]].
 
 [^319]: ***Happening it happened*** The verse continues: *that the word of YHVH came to Ezekiel the priest, son of Buzi, in the land of the Chaldeans by the River Kevar*. The opening phrase, היה‎ היה (*Hayoh hayah*), *Happening it happened*, combines the infinitive and finite forms of the verb “to be.”
 
@@ -1915,7 +1915,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
 [^445]: **Why is it not written: *A psalm of David*, or *Of David, a psalm*?** Why the unusual, abbreviated title: *Of David*?
 
-    See *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-123b|1:123b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-239a|239a]]. On the distinction between the two complete titles, see BT *Pesaḥim* [[Pesachim 117#117a|117a]]; *Midrash Tehillim* 24:1; Rashi on [[Psalms 023#^23-1|Psalms 23:1]]; Jacob bar Sheshet, *Meshiv Devarim Nekhoḥim*, 92; Todros Abulafia, *Sha’ar ha-Razim*, 48; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]], 67a; 2:50a, 140a, 170a.
+    See *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-123b|1:123b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-239a|239a]]. On the distinction between the two complete titles, see BT *Pesaḥim* [[Pesachim 117#117a|117a]]; *Midrash Tehillim* 24:1; Rashi on [[Psalms 023#^23-1|Psalms 23:1]]; Jacob bar Sheshet, *Meshiv Devarim Nekhoḥim*, 92; Todros Abulafia, *Sha’ar ha-Razim*, 48; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]], [[Zohar 1.08 - Parashat Noah#^z1-67a|67a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-50a|2:50a]], [[Zohar 5.05 - Parashat Terumah#^z2-140a|140a]], [[Zohar 5.05 - Parashat Terumah#^z2-170a|170a]].
 
 [^446]: **on behalf of his rung…** In this psalm, King David sang on behalf of *Shekhinah*, whom he symbolizes. She is known as *Malkhut* (“Kingdom”). See below, page 84.
 
@@ -1971,7 +1971,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
 [^467]: **throne was crowned…** Abraham aroused blessings for *Shekhinah*, the divine throne, also known as *Melchizedek* (above, page 55) and *Malkhut* (“Kingdom”). Now She manifested in full royalty.
 
-[^468]: ***Let the earth bring forth*** The verse continues: *living beings, according to their kind*. In the discussion of this verse in *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-13a|1:13a]] and 46b, *the earth* symbolizes *Shekhinah*, who generates life.
+[^468]: ***Let the earth bring forth*** The verse continues: *living beings, according to their kind*. In the discussion of this verse in *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-13a|1:13a]] and [[Zohar 1.07 - Parashat Be-Reshit#^z1-46b|46b]], *the earth* symbolizes *Shekhinah*, who generates life.
 
 [^469]: **He brought forth nourishment…** The subject is *Melchizedek*, symbolizing *Shekhinah*.
 
@@ -2211,7 +2211,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
 [^568]: **before he was circumcised it is written:…*maḥazeh*!** The reference to *maḥazeh* (symbolizing *Shekhinah* reflecting all the *sefirot*) appears before Abraham was circumcised. This seems to contradict the claim that then *Shekhinah* alone spoke with him, without the participation of any other *sefirot*.
 
-[^569]: **spectrum of those colors displayed below…** Below *Shekhinah* the colors of the higher *sefirot* manifested in the forces of the divine chariot. The triad of *Ḥesed, Gevurah*, and *Tif’eret* appeared there in their respective colors: white, red, and a blend of colors. See *[[Zohar 2.03 - Parashat Va-Yera#^z1-97b|Zohar 1:97b]]*, 97b–102a (*ST*), 101a.
+[^569]: **spectrum of those colors displayed below…** Below *Shekhinah* the colors of the higher *sefirot* manifested in the forces of the divine chariot. The triad of *Ḥesed, Gevurah*, and *Tif’eret* appeared there in their respective colors: white, red, and a blend of colors. See *[[Zohar 2.03 - Parashat Va-Yera#^z1-97b|Zohar 1:97b]]*, [[Zohar 11.09 - Sitrei Torah#^z1-97b|97b–102a]] (*ST*), [[Zohar 2.03 - Parashat Va-Yera#^z1-101a|101a]].
 
 [^570]: **So in this mirror He stood over Abraham, speaking with him…** Before Abraham was circumcised, *Shekhinah* alone spoke with Abraham. Though the colors of the higher *sefirot* were reflected in Her, they were invisible to him.
 
@@ -2667,7 +2667,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
     See *Sifrei*, Deuteronomy 58; *Tanḥuma* (Buber), *Yitro* 7; *Ki Tavo* 3.
 
-[^749]: **they did not know if it was day or night** This ecstatic description derives from a story about Rabbi Eli’ezer: When he expounded Torah, “no one knew if it was day or night.” See *Avot de-Rabbi Natan* B, 13; *Pirqei de-Rabbi Eli’ezer* 2, and David Luria, ad loc., n. 16. Cf. Ibn Ezra on [[Zechariah 14#^14-7|Zechariah 14:7]]; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-15a|2:15a]] (*MhN*), 105b.
+[^749]: **they did not know if it was day or night** This ecstatic description derives from a story about Rabbi Eli’ezer: When he expounded Torah, “no one knew if it was day or night.” See *Avot de-Rabbi Natan* B, 13; *Pirqei de-Rabbi Eli’ezer* 2, and David Luria, ad loc., n. 16. Cf. Ibn Ezra on [[Zechariah 14#^14-7|Zechariah 14:7]]; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-15a|2:15a]] (*MhN*), [[Zohar 5.03 - Parashat Mishpatim#^z2-105b|105b]].
 
 [^750]: **wedding celebration** הלולא (*Hilula*). Circumcision initates the male into an intimate relationship with *Shekhinah*. See above, note 683.
 
@@ -2821,7 +2821,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
 [^813]: **he of whom is written: *I was a child*… the Prince of the World** Metatron, the chief angel, also known as נער (*na’ar*), the “child,” “lad,” or heavenly “servant.” See BT *Yevamot* [[Yevamot 16#16b|16b]]: “Rabbi Shemu’el son of Naḥman said in the name of Rabbi Yonatan, ‘This verse was spoken by the Prince of the World: *I was a child and now I am old*. Who spoke it? If you suggest the blessed Holy One, does He age? Then perhaps David spoke it; but was he so old? You must conclude that the Prince of the World spoke it.’”
 
-    See *Tosafot, Yevamot* 16b, s.v. *pasuq zeh; Zohar* 1:124b, 143a, 162a–b, 181b; Scholem, *Kabbalah*, 379–80; Margaliot, *Mal’akhei Elyon*, 89–90.
+    See *Tosafot, Yevamot* 16b, s.v. *pasuq zeh; Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-124b|1:124b]], [[Zohar 2.05 - Parashat Toledot#^z1-143a|143a]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-162a|162a–b]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-181b|181b]]; Scholem, *Kabbalah*, 379–80; Margaliot, *Mal’akhei Elyon*, 89–90.
 
 [^814]: **Woe to the world, sucking from this side!** Sucking from Metatron and not directly from *Shekhinah*.
 
@@ -2923,7 +2923,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
 [^858]: **It begins *on the horn of Jubilee*** In the Bible every seventh year is a Sabbatical, during which the land must lie fallow and at the end of which all debts are remitted ([[Torah 32 - Behar#^25-1|Leviticus 25:1–24]]; [[Torah 47 - Re'eh#^15-1|Deuteronomy 15:1–3]]). After seven Sabbaticals comes the Jubilee, proclaimed every fifty years, when slaves are released and land reverts to its original owner ([[Torah 32 - Behar#^25-8|Leviticus 25:8–55]]).
 
-    In Kabbalah the Jubilee symbolizes *Binah*, the Divine Mother, who generally is characterized by the number fifty, based on BT *Rosh ha-Shanah* [[Rosh Hashanah 21#21b|21b]], where Rav and Shemu’el teach: “Fifty gates of בינה (*binah*), understanding, were created in the world, all of which were given to Moses except for one, as is said: *You made him little less than God* ([[Psalms 008#^8-6|Psalms 8:6]]).” *Binah* is the source of redemption and liberation, specifically the Exodus from Egypt. See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-21b|1:21b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-47b|47b–48a]] 2:46a, 83b, 85b, 93a, 95b; 3:262a.
+    In Kabbalah the Jubilee symbolizes *Binah*, the Divine Mother, who generally is characterized by the number fifty, based on BT *Rosh ha-Shanah* [[Rosh Hashanah 21#21b|21b]], where Rav and Shemu’el teach: “Fifty gates of בינה (*binah*), understanding, were created in the world, all of which were given to Moses except for one, as is said: *You made him little less than God* ([[Psalms 008#^8-6|Psalms 8:6]]).” *Binah* is the source of redemption and liberation, specifically the Exodus from Egypt. See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-21b|1:21b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-47b|47b–48a]] [[Zohar 4.06 - Parashat Be-Shallah#^z2-46a|2:46a]], [[Zohar 4.07 - Parashat Yitro#^z2-83b|83b]], [[Zohar 4.07 - Parashat Yitro#^z2-85b|85b]], [[Zohar 4.07 - Parashat Yitro#^z2-93a|93a]], [[Zohar 5.03 - Parashat Mishpatim#^z2-95b|95b]]; [[Zohar 9.12 - Parashat Va-Ethannan#^z3-262a|3:262a]].
 
     *The horn of Jubilee* is *Shekhinah*, intimately linked with the vineyard of Israel. See *Zohar* [[Zohar 5.04 - Sava de-Mishpatim#^z2-123a|2:123a]], [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a|179a]] (*SdTs*); [[Zohar 7.03 - Parashat Va-Yiqra#^z3-19b|3:19b]].
 

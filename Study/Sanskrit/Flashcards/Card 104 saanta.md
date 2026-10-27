@@ -17,6 +17,8 @@ nyasa: "śa: bone (*asthi*) · ā: mouth (*vaktra*) · na: left toenails (*nakha
 
 **Card 104 of 108** (printed: Card 3-44 · Alpha 92) · word
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** शान्त

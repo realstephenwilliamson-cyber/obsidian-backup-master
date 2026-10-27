@@ -478,7 +478,7 @@ In (the chapter that) teaches the Path of Space, (we discuss) the dimensions of 
 
 9\) 
 
-The two (topics discussed in the chapter) dealing with the Path of the Principles, are a) the relationship between cause and effect, and b) a description of the sequence of the principles. (288-296) (286cd- 295ab) 
+The two (topics discussed in the chapter) dealing with the Path of the Principles, are a) the relationship between cause and effect, and b) a description of the sequence of the principles. (288-296) (286cd-295ab) 
 
 ### TĀ 1.295–300
 
@@ -542,7 +542,7 @@ examination of the (forms of) the descent of the power (of grace) (Śaktipāta).
 
 14\) 
 
-(This chapter deals with) the preamble to the rite of initiation. (The topics there) are: a) the removal of obscuration, b) fulfilment by knowledge and c) the futility of (ritual) suicide. (297-302ab) (295cd- 300) 
+(This chapter deals with) the preamble to the rite of initiation. (The topics there) are: a) the removal of obscuration, b) fulfilment by knowledge and c) the futility of (ritual) suicide. (297-302ab) (295cd-300) 
 
 ### TĀ 1.301–307
 
@@ -625,7 +625,7 @@ adhvabhedas tathety evan kathitaṁ pautrike vidhau |
 
 17\) 
 
-The procedure pertaining to the apprentice (putraka) is explained in this way: a) the fashioning of the sacred threads, b) the purification of the principles, d) the burning of the fetters, e) the conjunction (with the supreme principle) and f) the various paths. (311cd- 312ab) (310) 
+The procedure pertaining to the apprentice (putraka) is explained in this way: a) the fashioning of the sacred threads, b) the purification of the principles, d) the burning of the fetters, e) the conjunction (with the supreme principle) and f) the various paths. (311cd-312ab) (310) 
 
 ### TĀ 1.311–312
 
@@ -756,7 +756,7 @@ vyākhyāvidhiḥ cyutavidhir gurupūjāvidhis tv iyat |
 naimittikaprakāśākhye ‘py aṣtāviṁśāhnike sthitam ॥ 324 ॥
 28) 
 
-In Chapter Twenty-Eight, which is called ‘the exposition of the occasional rites’ (naimittikaprakāśa), (the matters discussed include) a) the kinds of occasional events (naimittika), b) the injunction concerning their application, c) the various propitious times (parvan) and d) their special features, e) an examination (of the Sacrifice) of the assembly (cakra) and f) its worship. (Other topics include): g) a description of the purpose of the worship of the teacher’s birthday, the day he died and the like, h) an examination of death, h) the procedure concerning the gathering (melaka) of Yoginīs (णह) etc., i) the procedure for the explanation (of the scriptures), j) procedure for (the expiation of) transgressions (of the Rule),'? and k) the procedure for the worship of the teacher. (322- 324) (320cd-323ab) 
+In Chapter Twenty-Eight, which is called ‘the exposition of the occasional rites’ (naimittikaprakāśa), (the matters discussed include) a) the kinds of occasional events (naimittika), b) the injunction concerning their application, c) the various propitious times (parvan) and d) their special features, e) an examination (of the Sacrifice) of the assembly (cakra) and f) its worship. (Other topics include): g) a description of the purpose of the worship of the teacher’s birthday, the day he died and the like, h) an examination of death, h) the procedure concerning the gathering (melaka) of Yoginīs (णह) etc., i) the procedure for the explanation (of the scriptures), j) procedure for (the expiation of) transgressions (of the Rule),'? and k) the procedure for the worship of the teacher. (322-324) (320cd-323ab) 
 
 ### TĀ 1.323–324
 
@@ -768,7 +768,7 @@ arcāvidhir dautavidhī rahasyopaniṣatkramaḥ || 325 ॥
 dīkṣābhiṣekau vedhaś cety ekonatriṁśa āhnike |
 29) 
 
-(The matters discussed) in the twenty-ninth chapter are: a) those who are fit (to perform Kaula rites), b) the Kula rite (kulakrama) dedicated to the Siddhas and (their) consorts, c) the procedure for the rite of worship (according to Mādhvakula), d) the procedure concerning the Tantric consort, e) the liturgy of the secret doctrine, f) initiation, g) consecration (of the adept and teacher), and h) the (initiation by) piercing (the inner centres).[^1303] (325-326ab) (323cd- 324) 
+(The matters discussed) in the twenty-ninth chapter are: a) those who are fit (to perform Kaula rites), b) the Kula rite (kulakrama) dedicated to the Siddhas and (their) consorts, c) the procedure for the rite of worship (according to Mādhvakula), d) the procedure concerning the Tantric consort, e) the liturgy of the secret doctrine, f) initiation, g) consecration (of the adept and teacher), and h) the (initiation by) piercing (the inner centres).[^1303] (325-326ab) (323cd-324) 
 
 ### TĀ 1.325–327
 
@@ -800,7 +800,7 @@ Chapter Thirty-One (was written) to fulfil the need for a detailed exposition of
 
 32\) 
 
-(Chapter Thirty-Two) deals with the Mudrās. The topics discussed (there) are a) (their) secondary and primary types, b) their nature, c) deliberation on (the nature of their) vitality (vīrya), and d) the various occasions (when they are applied). (326cd-328) (325- 327ab) 
+(Chapter Thirty-Two) deals with the Mudrās. The topics discussed (there) are a) (their) secondary and primary types, b) their nature, c) deliberation on (the nature of their) vitality (vīrya), and d) the various occasions (when they are applied). (326cd-328) (325-327ab) 
 
 #### Viveka on 1.325–327
 

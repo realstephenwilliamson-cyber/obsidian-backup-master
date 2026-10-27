@@ -244,7 +244,7 @@ Taking Possession of the Field (kṣetragraha) and the Five Products of the Cow 
 
 The Worship of the Earth and Ganeśa (pūjanaṁ bhūgaṇeśayoḥ), verses 374cd- 377, pages 228-231 
 
-The Worship of the Weapon (astrārca) and the Small and Big Jar, verses (378- 390) (377 + 2, 3 and 4 - 388ab), pages 231-239 
+The Worship of the Weapon (astrārca) and the Small and Big Jar, verses (378-390) (377 + 2, 3 and 4 - 388ab), pages 231-239 
 
 The Fire Sacrifice (agnikārya) and the Purification of the Fire (adhivāsanam agnigam), verses 391-420 (388cd-418ab), pages 239-259 
 
@@ -254,7 +254,7 @@ The Fire’s Rites of Passage (saṁskāra), verses 407-413ab (404cd-410), pages
 
 Laying Hold of the Fire and Purifying Everything by Gazing at It, the Nine 
 
-Oblations, verses 413cd-418 (41 1-416ab), pages 254-257 Purification of the Large and Small Sacrificial Ladles, verses 419-420 (416cd- 418ab), pages 257-259 The Libation to the Fire (tarpana) , verses 421-438 (418cd-436ab), pages 259- 260 The Sacrificer Should Not be Stingy, Vāmā’s Power Will Bind Him, verses 423-426 (420cd-424ab), pages 260-263 
+Oblations, verses 413cd-418 (41 1-416ab), pages 254-257 Purification of the Large and Small Sacrificial Ladles, verses 419-420 (416cd-418ab), pages 257-259 The Libation to the Fire (tarpana) , verses 421-438 (418cd-436ab), pages 259- 260 The Sacrificer Should Not be Stingy, Vāmā’s Power Will Bind Him, verses 423-426 (420cd-424ab), pages 260-263 
 
 *[p. x]* ^pg14
 
@@ -264,7 +264,7 @@ The Preparation and Consumption of the Sacrificial Pap (carusaṁsiddhi), verses
 
 Offering of the Sacrificial Pap and More to the Implements and Disciples, 
 
-verses 447-449ab (444cd-446), pages 274-275 The Stick for the Teeth (dantakaṣtha), verses 449cd-450ab (447), page 276 The Final Purification (antasaṁskriyā), verses 450cd-455 (448-453ab), pages 276-278 The Vision of the Deities in the Mandala, verses 450cd-458 (448-456ab), pages 276-280 The Initiation by Means of Śiva’s Hand (śivahastavidhi), verses 459-471ab (456cd-468), 474cd-476 (472-474ab), pages 280-289 The Four Types of Initiates, from Regular to Teacher, verses 47 1cd-474ab (469- 471), pages 289-290 The Preparing of the Bed (śayyāklpti), verses 478cd, pages 291-292 Yoga of the Disciple with the Teacher When Sleeping, verses 478cd-483ab (474cd-479ab), pages 292-293 The Disciple’s Yogic Dreaming, verses 483cd-485ab (479cd-481ab) , pages 294-295 The Examination of Dreams (vicārana), verses 485cd-498ab (48 1cd-494ab), pages 295-299 The Purifying Rite to Make a Brahmin (sāmayaṁ karma), verses 498cd-525ab (494cd-521ab), pages 299-300 Forty-eight and Seven Purifying Rites Whereby the Disciple Becomes a 
+verses 447-449ab (444cd-446), pages 274-275 The Stick for the Teeth (dantakaṣtha), verses 449cd-450ab (447), page 276 The Final Purification (antasaṁskriyā), verses 450cd-455 (448-453ab), pages 276-278 The Vision of the Deities in the Mandala, verses 450cd-458 (448-456ab), pages 276-280 The Initiation by Means of Śiva’s Hand (śivahastavidhi), verses 459-471ab (456cd-468), 474cd-476 (472-474ab), pages 280-289 The Four Types of Initiates, from Regular to Teacher, verses 47 1cd-474ab (469-471), pages 289-290 The Preparing of the Bed (śayyāklpti), verses 478cd, pages 291-292 Yoga of the Disciple with the Teacher When Sleeping, verses 478cd-483ab (474cd-479ab), pages 292-293 The Disciple’s Yogic Dreaming, verses 483cd-485ab (479cd-481ab) , pages 294-295 The Examination of Dreams (vicārana), verses 485cd-498ab (48 1cd-494ab), pages 295-299 The Purifying Rite to Make a Brahmin (sāmayaṁ karma), verses 498cd-525ab (494cd-521ab), pages 299-300 Forty-eight and Seven Purifying Rites Whereby the Disciple Becomes a 
 
 Brahmin, verses 501-514ab (497-510ab), pages 300-311 Mantra Used for the Sacraments, verses 514cd-515ab (510cd-51 lab), page 311 What Makes a Brahmin a Brahmin, verses 515cd-525ab (511cd-521ab), pages 312-317 The Pledges (samaya), verses 525cd-617cd (521cd-614ab), pages 317-? 
 
@@ -280,13 +280,13 @@ The Pledges According to the Trisirobhairava, verses 544cd-549
 
 The Pledges According to the Trikasāra, verses 555cd-557ab (cd- 553ab), pages 327-328 
 
-The Pledges According to the Gamatantra, verses 557cd-566 (551cd- 562), pages 329-331 
+The Pledges According to the Gamatantra, verses 557cd-566 (551cd-562), pages 329-331 
 
-The Pledges According to the Ūrmikaulārṇava, verses 567-574 (563- 570), pages 331-333 
+The Pledges According to the Ūrmikaulārṇava, verses 567-574 (563-570), pages 331-333 
 
-The Pledges According to the Mādhavakula, verses 575-594ab (571- 590ab), pages 333-340 
+The Pledges According to the Mādhavakula, verses 575-594ab (571-590ab), pages 333-340 
 
-The Pledges According to the Ānandaśāstra, verses 594cd-596 (590cd- 592), pages 340-341 
+The Pledges According to the Ānandaśāstra, verses 594cd-596 (590cd-592), pages 340-341 
 
 *[p. xi]* ^pg15
 

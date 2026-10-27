@@ -17,6 +17,8 @@ nyasa: "left toes (*aṅguli*)"
 
 **Card 46 of 108** (printed: Card 2-19 · Alpha 70) · consonant · the letter: [[Letter 35 dha|ध dha]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ध

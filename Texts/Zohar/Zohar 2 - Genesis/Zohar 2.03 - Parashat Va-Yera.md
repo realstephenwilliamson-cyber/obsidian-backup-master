@@ -1323,7 +1323,7 @@ Rabbi El’azar said, “Isaac was sifted, ascending favorably in the presence o
 
 [^267]: **only after entering and obtaining authorization** See the description of Satan’s itinerary in BT *Bava Batra* [[Bava Batra 16#16a|16a]]: “He descends and seduces, ascends and arouses wrath, obtains authorization, and seizes the soul.”
 
-    See Rashi on BT *Shabbat* [[Shabbat 89#89a|89a]], s.v. *ba hasatan; Zohar* 1:10b, 46b, 125a, 148a (*ST*), 152b; 2:33b, 268b.
+    See Rashi on BT *Shabbat* [[Shabbat 89#89a|89a]], s.v. *ba hasatan; Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-10b|1:10b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-46b|46b]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-125a|125a]], [[Zohar 11.09 - Sitrei Torah#^z1-148a|148a]] (*ST*), [[Zohar 2.06 - Parashat Va-Yetse#^z1-152b|152b]]; [[Zohar 4.05 - Parashat Bo#^z2-33b|2:33b]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-268b|268b]].
 
 [^268]: ***End of all flesh*…** The Angel of Death. See above, note 235.
 
@@ -1715,7 +1715,7 @@ Rabbi El’azar said, “Isaac was sifted, ascending favorably in the presence o
 
 [^437]: **Then that accuser is confounded** See BT *Rosh ha-Shanah* [[Rosh Hashanah 16#16a|16a]]–b: “Why do we sound a plain blast and a tremolo blast while sitting and then again while standing? In order to confound Satan.”
 
-    See Rabbeinu Ḥananel on BT *Rosh ha-Shanah* [[Rosh Hashanah 35#35a|35a]] (cited in *NZ*, 3:99b, n. 8); *Arukh*, s.v., *arev; Tosafot*, BT *Rosh ha-Shanah* [[Rosh Hashanah 16#16b|16b]], s.v., *kedei le-arbev; Zohar* 1:152a (*ST*); 2:184a–b, 196b, 237b–238a; 3:99b; *TZ* 21, 51b.
+    See Rabbeinu Ḥananel on BT *Rosh ha-Shanah* [[Rosh Hashanah 35#35a|35a]] (cited in *NZ*, 3:99b, n. 8); *Arukh*, s.v., *arev; Tosafot*, BT *Rosh ha-Shanah* [[Rosh Hashanah 16#16b|16b]], s.v., *kedei le-arbev; Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-152a|1:152a]] (*ST*); [[Zohar 6.03 - Parashat Tetsavveh#^z2-184a|2:184a–b]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-196b|196b]], [[Zohar 6.06 - Parashat Pequdei#^z2-237b|237b–238a]]; [[Zohar 8.04 - Parashat Emor#^z3-99b|3:99b]]; *TZ* 21, 51b.
 
 [^438]: **Rather, compassion joins judgment** … See *Bereshit Rabbah* 12:15.
 
@@ -1793,7 +1793,7 @@ Rabbi El’azar said, “Isaac was sifted, ascending favorably in the presence o
 
     Here Rabbi Yose transplants the simile from the end of the verse to the beginning.
 
-    See BT *Sotah* [[Sotah 43#43b|43b]]; *Midrash Shemu’el* 16; *Zohar* [[Zohar 1.026a|1:26a]] (*TZ*), 239b; 3:125b, 247a (*RM*); *TZ 15*, 30b, 69, 111a; Löw, *Die Flora der Juden*, 1:166.
+    See BT *Sotah* [[Sotah 43#43b|43b]]; *Midrash Shemu’el* 16; *Zohar* [[Zohar 1.026a|1:26a]] (*TZ*), [[Zohar 3.07 - Parashat Va-Yhi#^z1-239b|239b]]; [[Zohar 8.08 - Parashat Naso#^z3-125b|3:125b]], 247a (*RM*); *TZ 15*, 30b, 69, 111a; Löw, *Die Flora der Juden*, 1:166.
 
 [^466]: **Just as leaves of olive trees do not shed all year long…** See BT *Menaḥot* [[Menachot 53#53b|53b]]: “Rabbi Yehoshu’a son of Levi said, ‘Why is Israel compared to an olive tree? To inform you that just as leaves of an olive tree do not shed either in summer or in winter, so Israel will never pass away either in this world or in the world that is coming.’”
 
@@ -1857,7 +1857,7 @@ Rabbi El’azar said, “Isaac was sifted, ascending favorably in the presence o
 
 [^493]: **Assembly of Israel lies in the dust for one day, no more!** The exile will last for a thousand years, comprising one divine day. See [[Psalms 090#^90-4|Psalms 90:4]]: *For a thousand years in Your eyes are like yesterday that has passed*.
 
-    See *Eikhah Rabbah* 1:40; *Tanḥuma* (Buber), *Toledot* 4; *Pirqei de-Rabbi Eli’ezer* (Friedlander) 28, (Higger) 27; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-17a|2:17a]], 227b; 3:270a; *ZḤ* [[Zohar 10.09 - Parashat Va-Yetse#^zh-28c|28c]] (*MhN*).
+    See *Eikhah Rabbah* 1:40; *Tanḥuma* (Buber), *Toledot* 4; *Pirqei de-Rabbi Eli’ezer* (Friedlander) 28, (Higger) 27; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-17a|2:17a]], [[Zohar 6.06 - Parashat Pequdei#^z2-227b|227b]]; [[Zohar 9.12 - Parashat Va-Ethannan#^z3-270a|3:270a]]; *ZḤ* [[Zohar 10.09 - Parashat Va-Yetse#^zh-28c|28c]] (*MhN*).
 
 [^494]: **ה (*he*) separating from ו (*vav*)** The last two letters of the name יהוה (*YHVH*) symbolize *Tif’eret* and *Shekhinah*, whose union is ruined by the destruction of the Temple (“Her realm”) and the ensuing exile. See *Zohar* [[Zohar 4.03 - Parashat Shemot#^z2-9b|2:9b]].
 
@@ -2051,7 +2051,7 @@ Rabbi El’azar said, “Isaac was sifted, ascending favorably in the presence o
 
 [^572]: **souls will be depleted from the body** See BT *Yevamot* [[Yevamot 62#62a|62a]]: “Rabbi Assi said, ‘The Son of David will not come until all souls in the body have been depleted.’” “The body” is the heavenly treasure house of unborn souls.
 
-    See Rashi, ad loc., and on BT *Avodah Zarah* [[Avodah Zarah 5#5a|5a]]; *Bahir* 126 (184); *Zohar* [[Zohar 1.028b|1:28b]] (*TZ*); 2:142a, 157a, 161b, 174a, 253a (*Heikh*); 3:152a; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-10b|10b–c]] (*MhN*).
+    See Rashi, ad loc., and on BT *Avodah Zarah* [[Avodah Zarah 5#5a|5a]]; *Bahir* 126 (184); *Zohar* [[Zohar 1.028b|1:28b]] (*TZ*); [[Zohar 5.05 - Parashat Terumah#^z2-142a|2:142a]], [[Zohar 5.05 - Parashat Terumah#^z2-157a|157a]], [[Zohar 5.05 - Parashat Terumah#^z2-161b|161b]], [[Zohar 5.05 - Parashat Terumah#^z2-174a|174a]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-253a|253a]] (*Heikh*); [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-152a|3:152a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-10b|10b–c]] (*MhN*).
 
 [^573]: ***All the souls of the house of Jacob… numbered sixty-six*** Alluding to the sixty-sixth year of the sixth millennium, by which the souls of the heavenly treasure house will be depleted.
 

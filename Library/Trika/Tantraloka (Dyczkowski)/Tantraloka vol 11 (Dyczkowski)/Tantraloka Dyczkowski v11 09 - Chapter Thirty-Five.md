@@ -251,7 +251,7 @@ Surely, the situation is that all the business (of daily life) lives on the basi
 pūrvapūrvopajīvitvamārganṇe sā kvacit svayam || 11 ||
 sarvajñarūpe hy ekasmin nihśaṁkaṁ bhāsate purā | 
 
-In the course of investigating the progressively prior factors on which subsequent ones depend, (one comes to) that (conviction which) shines initially (prior to all, spontaneously) by itself, free of doubt, somewhere within the essential nature of the one who is omniscient. (11cd- 12ab) 
+In the course of investigating the progressively prior factors on which subsequent ones depend, (one comes to) that (conviction which) shines initially (prior to all, spontaneously) by itself, free of doubt, somewhere within the essential nature of the one who is omniscient. (11cd-12ab) 
 
 #### Viveka on 35.11–12
 
@@ -393,7 +393,7 @@ Even after childhood has passed, (a person) directs (himself) towards food alone
 
 The movement towards food, for example, even on the part of a perceiver who is not a baby, is necessarily associated with (his) a priori belief, because that much direct perception does not arise. Its object is (just) the food, not that it is edible, because (its edibility) does not elicit a modification in the perception (of it).\* So how could that (direct perception) impel (the perceiver) towards an entity that has not become an object (of perception)? Nor (could) inference (do this). Its basis is positive and negative concomitance. It has (already) been stated that they are (both) necessarily dependent on that same a priori certainty. Once removed the a priori certainty which is their basis, how could the condition (of either of them) be such? As is said with the same 
 
-494?\. The full passage of which this is the beginning is quoted above in TĀv ad 6/151-152ab (150cd- 151).
+494?\. The full passage of which this is the beginning is quoted above in TĀv ad 6/151-152ab (150cd-151).
 
 495?\. Read annam eva for annam \[illegible\]
 
@@ -463,7 +463,7 @@ yāvat tu śivatā nāsya tāvat svātmānusārinṇīm |
 tāvatīm eva tām eṣa prasiddhińm nābhiśaṁkate ॥ 21 ॥
 anyasyām abhiśaṁkī syād bhūyas tā bahu manyate | 
 
-As long as he is not identified with Śiva, he does not doubt of only that much conviction that accords with his own (presumed) nature. (Conversely,) he would be beset by doubt in the presence of another (belief,) and values that (which is his own) much more (than others). (21- 22ab) 
+As long as he is not identified with Śiva, he does not doubt of only that much conviction that accords with his own (presumed) nature. (Conversely,) he would be beset by doubt in the presence of another (belief,) and values that (which is his own) much more (than others). (21-22ab) 
 
 #### Viveka on 35.21–22
 

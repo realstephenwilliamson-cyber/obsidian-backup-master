@@ -265,7 +265,7 @@ The Path of the Phonemes in Pure Cognitive Consciousness प्रमेयम�
 prameyamānamātRṇāri yad rūpam upari sthitam |
 pramātmātra sthito ‘dhvāyaṁ varnātmā dṛśyatāri kila ॥ 62 I" 
 
-(Finally, when this Path abides here as pure cognitive consciousness (pramā), which transcends subject, object and means of knowledge, it manifests as the (Path of the) Phonemes (varna). (62) (62cd- 63ab) 
+(Finally, when this Path abides here as pure cognitive consciousness (pramā), which transcends subject, object and means of knowledge, it manifests as the (Path of the) Phonemes (varna). (62) (62cd-63ab) 
 
 #### Viveka on 11.62–63
 
@@ -1059,7 +1059,7 @@ Everything Appears Within Śiva Like a Reflection or Image in a Dream or Notion 
 sarvam etad vibhāty \[illegible\] parameśitari dhruve ॥ 93 ॥
 pratibimbasvarūpenṇa na tu bāhyatayā yataḥ | 
 
-Thus, in reality, all this manifests as a reflected image within the eternal (dhruva) Supreme Lord, not as something external (to Him). (93cd- 94ab) (93) 
+Thus, in reality, all this manifests as a reflected image within the eternal (dhruva) Supreme Lord, not as something external (to Him). (93cd-94ab) (93) 
 
 #### Viveka on 11.93
 
@@ -1606,7 +1606,7 @@ bhūyobhiś cāpi bāhyārthadūṣaṇaiḥ pravyaramyata[^232] |
 
 *[p. 98]* ^pg118
 
-The Lord is acclaimed to be all things (viśvarūpa) in this way. Nothing separate (from Him), including Earth and the rest (of the Principles), could logically exist. (All) this has been said before; it is useless to belabour the point. The many defects (advanced up to here) of the (view that there is an) outer (independent objective) reality (are sufficient to refute it), so let us bring (this discussion) to rest (pravyaramyata). (116cd- 118ab) (116-117) 
+The Lord is acclaimed to be all things (viśvarūpa) in this way. Nothing separate (from Him), including Earth and the rest (of the Principles), could logically exist. (All) this has been said before; it is useless to belabour the point. The many defects (advanced up to here) of the (view that there is an) outer (independent objective) reality (are sufficient to refute it), so let us bring (this discussion) to rest (pravyaramyata). (116cd-118ab) (116-117) 
 
 #### Viveka on 11.116–117
 

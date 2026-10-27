@@ -17,6 +17,8 @@ nyasa: "na: left toenails (*nakha*) · ī: left eye (*dṛk*)"
 
 **Card 66 of 108** (printed: Card 3-6 · Alpha 72) · consonant + vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** नी

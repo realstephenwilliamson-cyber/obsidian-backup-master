@@ -602,7 +602,7 @@ As that is so, such then is this unfolding (of consciousness) as all things (vi�
 tena bodhamahāsindhor ullāsinyaḥ svaśaktayaḥ ॥ 102 ॥
 āśrayanty ūrmaya iva svātmasaṁghatłtacitratām | 
 
-Thus, its own powers arise like waves out of the great ocean of consciousness and, uniting with each other, assume diverse forms. (102cd- 103ab) 
+Thus, its own powers arise like waves out of the great ocean of consciousness and, uniting with each other, assume diverse forms. (102cd-103ab) 
 
 #### Viveka on 3.102–103
 

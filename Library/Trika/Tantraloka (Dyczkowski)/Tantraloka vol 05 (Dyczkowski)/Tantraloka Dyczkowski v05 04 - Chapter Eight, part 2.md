@@ -36,7 +36,7 @@ devāgnidravyavṛttyarniśajīvinaś cottamasthitāḥ |
 adhahsthagārudādyanyamantrasevāparāyanāḥ ॥ 34 ॥
 te hāṭakavibhor agre kiṁkarā vividhātmakāḥ || 
 
-Those who have taken on vows (vratin) but have behaved in a manner prohibited (by scripture) and (so) are sinful (vikarmasthā), those who though initiated have fallen from the rule (samaya) and have failed to perform the rites of expiation (prāyaścitta), those who are (adherents and yet) detractors (dūṣaka) of the conduct of the left (vāmācāra),“" those who earn a living from the sacrificial offerings (dravya) to the gods and fire, those who though adherents of more excellent (doctrines) practice the mantras of lower (ones) such as those of Garuda etc. — (all these) in their various kinds are servants before the All-pervasive Lord Hāṭaka. (32cd- 35ab) 
+Those who have taken on vows (vratin) but have behaved in a manner prohibited (by scripture) and (so) are sinful (vikarmasthā), those who though initiated have fallen from the rule (samaya) and have failed to perform the rites of expiation (prāyaścitta), those who are (adherents and yet) detractors (dūṣaka) of the conduct of the left (vāmācāra),“" those who earn a living from the sacrificial offerings (dravya) to the gods and fire, those who though adherents of more excellent (doctrines) practice the mantras of lower (ones) such as those of Garuda etc. — (all these) in their various kinds are servants before the All-pervasive Lord Hāṭaka. (32cd-35ab) 
 
 #### Viveka on 8.32–35
 
@@ -424,7 +424,7 @@ He concludes that (description saying):
 
 bhairave \`cakravāṭe ‘sminn eva mukhyāḥ puro ‘ṣtadhā ॥ 56 ॥ antarālagatās tv anyāḥ punaḥ ṣadviṁśatiḥ smṛtāḥ | 
 
-(Thus,) the main cities on Meru’s circular terrace are eight, while the others (around and) between them are said to be twenty-six. (56cd- 57ab) 
+(Thus,) the main cities on Meru’s circular terrace are eight, while the others (around and) between them are said to be twenty-six. (56cd-57ab) 
 
 #### Viveka on 8.56–57
 

@@ -190,7 +190,7 @@ The Procedure according to the Kulagahvara
 
 ### TĀ 24.11–12
 
-‘After having worshipped the pervasive Lord (vibhu), (the teacher) should perform the entire deposition (of Mantras) as before, (but in the reverse order, that is,) in the sequence of withdrawal, (beginning) from the feet and ending with the head. He should awaken that (corpse) in the same way by (ritual) action, knowledge, and deep meditation (samādhi). (11cd- 12) 
+‘After having worshipped the pervasive Lord (vibhu), (the teacher) should perform the entire deposition (of Mantras) as before, (but in the reverse order, that is,) in the sequence of withdrawal, (beginning) from the feet and ending with the head. He should awaken that (corpse) in the same way by (ritual) action, knowledge, and deep meditation (samādhi). (11cd-12) 
 
 #### Viveka on 24.11–12
 

@@ -825,7 +825,7 @@ of the Seal of the Skyfarer).“ (50cd-52a)
 „+ . + itas tv anyāḥ padmādyā aṣṭa mudrikāḥ \\ mātrvyūhakule tāḥ syur asyās tu parivāragāḥ || 52 ॥
 śarīraṁ tu samastaṁ yat kūṭākṣarasamākṛti \\ \[illegible\] mudrā mahāmudrā bhairavasyeti gahvare || 53 ॥ 
 
-Apart from (the Skyfarer,) there are eight (other) mudras, including (the Seal of the) Lotus and the rest, that are amongst its entourage, (each belonging) to a family of the group (of eight) Mothers. The form of the entire body (as a whole) is the phoneme \[illegible\] (kūfākṣara). (It is said) in the Gahvaratantra that this seal is Bhairava’s Great Seal (mahāmudrā). (52bcd- 53) 
+Apart from (the Skyfarer,) there are eight (other) mudras, including (the Seal of the) Lotus and the rest, that are amongst its entourage, (each belonging) to a family of the group (of eight) Mothers. The form of the entire body (as a whole) is the phoneme \[illegible\] (kūfākṣara). (It is said) in the Gahvaratantra that this seal is Bhairava’s Great Seal (mahāmudrā). (52bcd-53) 
 
 #### Viveka on 32.52–53
 

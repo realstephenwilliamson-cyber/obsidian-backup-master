@@ -827,7 +827,7 @@ Rabbi Abba opened, “*Male and female He created them, and He blessed them and 
 
     In the biblical cycle, after seven Sabbaticals comes the Jubilee, proclaimed every fifty years, when slaves are released and land reverts to its original owner ([[Torah 32 - Behar#^25-8|Leviticus 25:8–55]]). In Kabbalah the Jubilee symbolizes *Binah*, who generally is characterized by the number fifty, based on BT *Rosh ha-Shanah* [[Rosh Hashanah 21#21b|21b]], where Rav and Shemu’el teach: “Fifty gates of בינה (*binah*), understanding, were created in the world, all of which were given to Moses except for one, as is said: *You made him little less than God* ([[Psalms 008#^8-6|Psalms 8:6]]).” *Binah* is the source of redemption and liberation, specifically the Exodus from Egypt.
 
-    See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-21b|1:21b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-47b|47b–48a]] 2:46a, 83b, 85b; 3:262a.
+    See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-21b|1:21b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-47b|47b–48a]] [[Zohar 4.06 - Parashat Be-Shallah#^z2-46a|2:46a]], [[Zohar 4.07 - Parashat Yitro#^z2-83b|83b]], [[Zohar 4.07 - Parashat Yitro#^z2-85b|85b]]; [[Zohar 9.12 - Parashat Va-Ethannan#^z3-262a|3:262a]].
 
 [^20]: ***Haran*—year of foreskin** Earlier, Rabbi Shim’on had identified Haran with the demonic realm. See above, note 9. Now he adds the designation “year of foreskin,” referring to the biblical prohibition against cutting off and eating the fruit of young trees during their first three years of production. See [[Torah 30 - Kedoshim#^19-23|Leviticus 19:23–25]].
 
@@ -1681,7 +1681,7 @@ Rabbi Abba opened, “*Male and female He created them, and He blessed them and 
 
 [^351]: **the blessed Holy One built worlds and destroyed them** See *Bereshit Rabbah* 9:2: “Rabbi Abbahu said, ‘… The blessed Holy One kept creating worlds and destroying them until He created these \[i.e., heaven and earth\]. Then He declared, “These please Me, those do not.”’”
 
-    The theme of previous worlds that did not endure appears in the *Idrot* (*Zohar* [[Zohar 8.09 - Idra Rabba#^z3-128a|3:128a]] \[*IR*\], 292b \[*IZ*\]) and inspired Isaac Luria’s theory of “the breaking of the vessels.”
+    The theme of previous worlds that did not endure appears in the *Idrot* (*Zohar* [[Zohar 8.09 - Idra Rabba#^z3-128a|3:128a]] \[*IR*\], [[Zohar 9.15 - Idra Zuta#^z3-292b|292b]] \[*IZ*\]) and inspired Isaac Luria’s theory of “the breaking of the vessels.”
 
 [^352]: **upon him worlds were founded… *your Creator, Jacob*…** Normally, the verse is read: *Thus says YHVH, your Creator, O Jacob; your Former, O Israel!* Here, following midrashic tradition, Rabbi El’azar understands it to mean that Jacob himself functions as the Creator. See *Vayiqra Rabbah* 36:4.
 
@@ -1905,7 +1905,7 @@ Rabbi Abba opened, “*Male and female He created them, and He blessed them and 
 
     Cain was banished to *Arqa from the face of the earth* ([[Torah 01 - Bereshit#^4-14|Genesis 4:14]]) and generated demonic offspring. See El’azar of Worms, *Ḥokhmat ha-Nefesh*, 26c; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-36b|1:36b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-54a|54a]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-178a|178a–b]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-76b|3:76b]], [[Zohar 8.08 - Parashat Naso#^z3-122a|122a]].
 
-[^445]: **Some of them look different, stranger than me** According to one tradition, descendants of Cain have two heads. See *Beit ha-Midrash*, 4:151–52; Judah ben Barzillai, *Peirush Sefer Yetsirah*, 173; *Tosafot, Menaḥot* 37a, s.v. *o qum gelei; Zohar* 1:9b; 2:80a; *ZḤ* 9b; Ginzberg, *Legends*, 5:143, n. 34; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 125, n. 84.
+[^445]: **Some of them look different, stranger than me** According to one tradition, descendants of Cain have two heads. See *Beit ha-Midrash*, 4:151–52; Judah ben Barzillai, *Peirush Sefer Yetsirah*, 173; *Tosafot, Menaḥot* 37a, s.v. *o qum gelei; Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-9b|1:9b]]; [[Zohar 4.07 - Parashat Yitro#^z2-80a|2:80a]]; *ZḤ* 9b; Ginzberg, *Legends*, 5:143, n. 34; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 125, n. 84.
 
 [^446]: **ארץ (*Erets*), Earth** Highest of the seven levels.
 
@@ -2619,7 +2619,7 @@ Rabbi Abba opened, “*Male and female He created them, and He blessed them and 
 
     The last sentence is usually taken to mean: “This \[the weeping\] refers to the inner chambers; that \[the joy\] refers to the outer chambers.” However, Ḥanan’el ben Ḥushi’el (ad loc.) adopts the reverse interpretation: “This \[the joy\] refers to the inner chambers; that \[the weeping\] refers to the outer chambers,” which accords with Rabbi Shim’on’s view here: There is no sadness in the inner, upper realms, “before,” preceding *Shekhinah*, Divine Presence, the Omnipresent.
 
-    See *KP; Zohar* 1:57a, 2:17b–18a; 3:15b; Margaliot, *Sha’arei Zohar, Ḥagigah* 5b.
+    See *KP; Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-57a|1:57a]], [[Zohar 10.10 - Parashat Shemot#^z2-17b|2:17b–18a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-15b|3:15b]]; Margaliot, *Sha’arei Zohar, Ḥagigah* 5b.
 
 [^734]: ***with joy*… the higher world… *with singing*…the lower world** Pure *joy* befits only the higher world, where “there is no sadness,” not the lower world of *Shekhinah*.
 

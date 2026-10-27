@@ -17,6 +17,8 @@ nyasa: "upper lip (*oṣṭha*)"
 
 **Card 24 of 108** (printed: Card 1-24 · Alpha 26) · vowel · the letter: [[Letter 14 au|औ au]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** औ
@@ -36,8 +38,10 @@ nyasa: "upper lip (*oṣṭha*)"
 ## Cards
 
 औ::au · as in ‘flautist’
+<!--SR:!2026-10-29,3,250-->
 
 Write: au (full vowel)::औ
+<!--SR:!2026-10-29,3,250-->
 
 ## Practice
 

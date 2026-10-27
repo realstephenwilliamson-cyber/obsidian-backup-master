@@ -17,6 +17,8 @@ nyasa: "ṭa: right hip (*kaṭi*) · ya: skin (*tvak*)"
 
 **Card 83 of 108** (printed: Card 3-23 · Alpha 50) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ट्य

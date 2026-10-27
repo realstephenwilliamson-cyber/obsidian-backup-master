@@ -109,7 +109,7 @@ But this radiation is in great latency and concealment, just like the sun radiat
 [^48]: The *tzaddik*.
 [^49]: *Chesed* is synonymous with love; cf. above, Epistle 13, note 27.
 [^50]: *Rashi* on [[Torah 50 - Ki Tavo#^29-6|Deuteronomy 29:6]]; *Avodah Zarah* [[Avodah Zarah 5#5b|5b]]; cf. *Tosafot*, *Sotah* [[Sotah 22#22b|22b]] (s.v. *Vaed*). I.e., only a radiation and a mere ray are apprehended.
-[^51]: See *Zohar* [[Zohar 1.081a|I:81a]]; [[Zohar 5.05 - Parashat Terumah#^z2-142a|II:142a]].
+[^51]: See *Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-81a|I:81a]]; [[Zohar 5.05 - Parashat Terumah#^z2-142a|II:142a]].
 [^52]: *Bereishit Rabbah* 65:22; *Tanchuma* (ed. Buber), *Toldot* 10, and 22. *Zohar* [[Zohar 8.03 - Parashat Qedoshim#^z3-84a|III:84a]].
 [^53]: Brackets appear in the text.
 [^54]: I.e., evil thoughts and utterings.

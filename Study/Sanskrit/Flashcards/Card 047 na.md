@@ -17,6 +17,8 @@ nyasa: "left toenails (*nakha*)"
 
 **Card 47 of 108** (printed: Card 2-20 · Alpha 71) · consonant · the letter: [[Letter 36 na|न na]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** न

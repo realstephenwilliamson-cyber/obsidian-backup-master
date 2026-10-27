@@ -4,7 +4,7 @@ work: "[[Chan (ed.) - A Source Book in Chinese Philosophy]]"
 book: "[[Library/Other/A Source Book in Chinese Philosophy (Chan)/A Source Book in Chinese Philosophy (Chan)|A Source Book in Chinese Philosophy (Chan)]]"
 order: 3
 source_pdf: Library/Other/Wing-Tsit Chan - A Source Book in Chinese Philosophy (1969).pdf
-page_range: 19–26
+page_range: xviii–xxv
 pdf_pages: 19–26
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[A Source Book in Chinese 02 - Foreword, Preface, Acknowledgments, Chronology of Dynasties and Chronology of Philosophers|← previous]] · [[A Source Book in Chinese Philosophy (Chan)|contents]] · [[A Source Book in Chinese 04 - Blank page|next →]]
 
-*[PDF 19]* ^pg19
+*[p. xviii]* ^pg19
 
 ## This Page Intentionally Left Blank
 
@@ -87,7 +87,7 @@ CONTENTS
 
 and Ethics in Chou Tun-i\* 460 Introduction, 460; 1. *An Explanation of the Diagram of the Great Ultimate,* 463; 2. *Penetrating the Book of Changes,* 465 29. The Numerical and Objective Tendencies in Shao Yung\* 481 Introduction, 481; *Supreme Principles Governing the World,* 484 30. Chang Tsai's Philosophy of Material Force\* 495 Introduction, 495; A. The *Western Inscription,* 497; B. *Correcting Youthful Ignorance*: 1. "Great Harmony," 500; 2. "Enlightenment Resulting from Sincerity," 507; C. Additional Selections, 514 31. The Idealistic Tendency in Ch'eng Hao\* 518 Introduction, 518; 1. "On Understanding the Nature of *Jen* (Humanity)," 523; 2. "Reply to Master Heng-ch'ü's Letter on Calming Human Nature," 525; 3. Selected Sayings, 527 32. The Rationalistic Tendency in Ch'eng I\* 544 Introduction, 544; 1. "A Treatise on What Yen Tzu Loved to Learn," 547; 2. "Letter in Reply to Yang Shih's Letter on the *Western Inscription,*" 550; 3. Selected Sayings, 551 33. The Unity of Mind and Principle in Lu Hsiang-shan\* 572 Introduction, 572; Selections, 574 34. The Great Synthesis in Chu Hsi\* 588 Introduction, 588; A. Treatises: 1. "A Treatise on *Jen*," 593; 2. "A Treatise on Ch'eng Ming-tao's Discourse on the Nature," 597; 3. "First Letter to the Gentlemen of Hunan on Equilibrium and Harmony," 600; 4. "A Treatise on the Examination of the Mind," 602; B. *The Complete Works*: 1. Moral Cultivation, 605; 2. The Relation between the Nature of Man and Things and Their Destiny, 612; 3. The Nature of Man and Things, 614; 4. The Nature of Man and the Nature of Things Compared, 620; 5. Physical Nature, 623; 6. Destiny, 626; 7. The Mind, 628; 8. The Mind, the Nature, and
 
-*[PDF 25]* ^pg25
+*[p. xxiv]* ^pg25
 
 CONTENTS
 
@@ -107,7 +107,7 @@ the Feelings, 630; 9. *Jen*, 632; 10. Principle (*Li*) and Material Force (*Ch*'
 
 Introduction, 743; Selections, 745
 
-*[PDF 26]* ^pg26
+*[p. xxv]* ^pg26
 
 CONTENTS
 

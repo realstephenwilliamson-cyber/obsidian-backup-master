@@ -205,7 +205,7 @@ It has been taught: Rabbi Shim’on said, “If people only knew what is said ab
 
     On Jethro’s *kindness*, see *Vayiqra Rabbah* 34:8; *Mishnat Rabbi Eli’ezer* 16, p. 303; BT *Berakhot* [[Berakhot 63#63b|63b]]; *Shir ha-Shirim Rabbah* on 2:5; *Midrash Shemu’el* 18:3; *Pirqei de-Rabbi Eli’ezer* 44 (and the marginal note 9); David Kimḥi on [[I Samuel 15#^15-6|1 Samuel 15:6]]; *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-9a|3:9a]] (Vol. 7, p. 44, n. 134).
 
-    On Jethro as *the Kenite*, see also *Mekhilta, Amaleq (Yitro)* 1; *Mekhilta de-Rashbi*, [[Torah 17 - Yitro#^18-1|Exodus 18:1]]; *Sifrei*, Numbers 78; *Avot de-Rabbi Natan* A, 35; BT *Berakhot* [[Berakhot 63#63b|63b]]; *Tanḥuma* (Buber), *Shemot* 11; *Zohar* [[Zohar 1.028b|1:28b]] (*TZ*); 2:195a; 3:9a. On Jethro being identified with Heber, see *Mekhilta, Amaleq (Yitro)* 1; *Tanḥuma* (Buber), *Shemot* 11 (and Buber’s note 58); *Midrash Aggadah*, [[Torah 14 - Vaera#^6-25|Exodus 6:25]]; Rashi on [[Torah 17 - Yitro#^18-1|Exodus 18:1]].
+    On Jethro as *the Kenite*, see also *Mekhilta, Amaleq (Yitro)* 1; *Mekhilta de-Rashbi*, [[Torah 17 - Yitro#^18-1|Exodus 18:1]]; *Sifrei*, Numbers 78; *Avot de-Rabbi Natan* A, 35; BT *Berakhot* [[Berakhot 63#63b|63b]]; *Tanḥuma* (Buber), *Shemot* 11; *Zohar* [[Zohar 1.028b|1:28b]] (*TZ*); [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-195a|2:195a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-9a|3:9a]]. On Jethro being identified with Heber, see *Mekhilta, Amaleq (Yitro)* 1; *Tanḥuma* (Buber), *Shemot* 11 (and Buber’s note 58); *Midrash Aggadah*, [[Torah 14 - Vaera#^6-25|Exodus 6:25]]; Rashi on [[Torah 17 - Yitro#^18-1|Exodus 18:1]].
 
 [^6]: **he made קנא (*qinna*), a nest…** Jethro the קיני (*qeini*), Kenite, made קנא (*qinna*), “a nest,” in the desert—that is, he secluded himself in order to study Torah. He *separated from Cain* \[or: *the Kenites*, the people named after Cain\] and devoted himself to God, converting to the true faith.
 
@@ -329,7 +329,7 @@ It has been taught: Rabbi Shim’on said, “If people only knew what is said ab
 
     On the entire procedure of the trial by ordeal, see above, note 20. On the exact formula written by the priest, see M *Sotah* 2:3; BT *Berakhot* [[Berakhot 15#15b|15b]], *Sotah* [[Sotah 17#17a|17a]]; *Mishnat Rabbi Eli’ezer* 4, p. 76 *Tanḥuma, Naso* 1; *Tanḥuma* (Buber), *Naso* 1; *Bemidbar Rabbah* 9:36 Maimonides, *Mishneh Torah, Hilkhot Sotah* 3:8.
 
-    On the reversal of letters as signifying Judgment or destruction, see Azriel of Gerona, *Peirush le-Sefer Yetsirah*, 459; *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-67b|1:67b]] (Vol. 1, p. 396, n. 418); 2:51b–52a; 3:150b; Joseph ben Shalom Ashkenazi, *Peirush Sefer Yetsirah*, 2:4, 40c–d; *Sefer ha-Peli’ah* 1:51d; Idel, *Golem*, 81–82, 119–120.
+    On the reversal of letters as signifying Judgment or destruction, see Azriel of Gerona, *Peirush le-Sefer Yetsirah*, 459; *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-67b|1:67b]] (Vol. 1, p. 396, n. 418); [[Zohar 4.06 - Parashat Be-Shallah#^z2-51b|2:51b–52a]]; [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-150b|3:150b]]; Joseph ben Shalom Ashkenazi, *Peirush Sefer Yetsirah*, 2:4, 40c–d; *Sefer ha-Peli’ah* 1:51d; Idel, *Golem*, 81–82, 119–120.
 
     In Greek and Hebrew magical texts and curse inscriptions, divine or demonic names were sometimes written backward because it was believed that “writing or reciting backward was more effective than doing so in the normal manner,” or that “reversing the order of letters or words led to reversing the natural order of things.” See Naveh, “Lamp Inscriptions and Inverted Writing,” 41; idem, “Hebrew Graffiti from the First Temple Period,” 195–96; Trachtenberg, *Jewish Magic and Superstition*, 111, 116.
 
@@ -407,7 +407,7 @@ It has been taught: Rabbi Shim’on said, “If people only knew what is said ab
 
     Cf. JT *Kil’ayim* 1:7, 27b, in the name of Rabbi Levi: “*Your wife shall be like a fruitful vine in the recesses of your house; your children like olive shoots around your table*. Just as olives cannot be grafted \[onto another species\], so *your children* will include no unworthy offspring.” Here, apparently, Rabbi Ḥizkiyah transplants the simile from the end of the verse (speaking of *olive shoots*) to the beginning (speaking of *a vine*).
 
-    See *Zohar* [[Zohar 1.026a|1:26a]] (*TZ*), 115b, 239b; 3:247a (*RM*); *TZ* 15, 30b; 69, 111a. Cf. BT *Sotah* [[Sotah 43#43b|43b]]; *Vayiqra Rabbah* 36:2; *Midrash Shemu’el* 16; *Seder Eliyyahu Rabbah* 6, p. 30. On the passage in JT *Kil’ayim* 1:7, see *Midrash Tehillim* 128:4; cf. JT *Kil’ayim* 1:4, 27a.
+    See *Zohar* [[Zohar 1.026a|1:26a]] (*TZ*), [[Zohar 2.03 - Parashat Va-Yera#^z1-115b|115b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-239b|239b]]; 3:247a (*RM*); *TZ* 15, 30b; 69, 111a. Cf. BT *Sotah* [[Sotah 43#43b|43b]]; *Vayiqra Rabbah* 36:2; *Midrash Shemu’el* 16; *Seder Eliyyahu Rabbah* 6, p. 30. On the passage in JT *Kil’ayim* 1:7, see *Midrash Tehillim* 128:4; cf. JT *Kil’ayim* 1:4, 27a.
 
     On the verse in Psalms, see also *Tanḥuma, Vayishlaḥ* 6; *Seder Eliyyahu Rabba* 18, p. 92; *Midrash Tehillim* 128:3; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-84b|1:84b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-238a|238a]]; [[Zohar 5.05 - Parashat Terumah#^z2-170b|2:170b–171a]]. On the dove’s faithfulness to its mate, see BT *Eruvin* [[Eruvin 100#100b|100b]]; *Zohar* [[Zohar 7.08 - Parashat Aharei Mot#^z3-61a|3:61a]], [[Zohar 9.11 - Parashat Pinehas#^z3-240b|240b–241a]]; *ZḤ* 31c.
 
@@ -463,7 +463,7 @@ It has been taught: Rabbi Shim’on said, “If people only knew what is said ab
 
     See BT *Berakhot* [[Berakhot 6#6b|6b]], in the name of Rabbi Yoḥanan: “When the blessed Holy One comes to a synagogue and does not find ten there, He instantly turns angry, as is said: *Why have I come, when there is no man? Why have I called, when none responds?* \[… *By My rebuke, I dry up the sea*\] ([[Isaiah 50#^50-2|Isaiah 50:2]]).”
 
-    In this Talmudic passage, the wording *no one responds* implies a minyan, since various liturgical congregational responses require such a quorum. Here, Rabbi El’azar focuses on the wording *when there is no man*. See *Zohar* [[Zohar 3.05 - Parashat Mi-Qets#^z1-201a|1:201a]]; [[Zohar 5.05 - Parashat Terumah#^z2-131a|2:131a–b]] (offering a different interpretation of *when there is no man*); 3:4b. On the significance of the term *ish, man*, see also Vol. 7, pp. 306–7, n. 164.
+    In this Talmudic passage, the wording *no one responds* implies a minyan, since various liturgical congregational responses require such a quorum. Here, Rabbi El’azar focuses on the wording *when there is no man*. See *Zohar* [[Zohar 3.05 - Parashat Mi-Qets#^z1-201a|1:201a]]; [[Zohar 5.05 - Parashat Terumah#^z2-131a|2:131a–b]] (offering a different interpretation of *when there is no man*); [[Zohar 7.03 - Parashat Va-Yiqra#^z3-4b|3:4b]]. On the significance of the term *ish, man*, see also Vol. 7, pp. 306–7, n. 164.
 
 [^54]: **When the body is completed below…** By the minyan, then holiness enters those who are assembled and they resemble the sefirotic body.
 

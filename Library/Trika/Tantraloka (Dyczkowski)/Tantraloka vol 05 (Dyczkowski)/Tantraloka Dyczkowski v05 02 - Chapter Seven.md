@@ -168,7 +168,7 @@ cakre tu ṣaṇnavatyākhye sapādā dviśatī bhavet ॥ 18 ॥ aṣtottaraśa
 
 *[p. 7]* ^pg25
 
-syllables, 1,964; if twelve syllables, 1,800; if thirteen, 1,662; if fourteen, 1,543; if fifteen, 1,440; if sixteen syllables, they are said to be 1,350; if seventeen syllables, 1,271; if eighteen, the wise should know that they are 1,200; and if the cycle (cakra) is of 24 syllables, (it arises) 900 times; if they number twenty-seven, 800 times; if it is a great wheel of thirty-two (syllables), 675 times; if it is a cycle of twice twenty-four (syllables), 450; if fifty-four, 400; if eight times eight, 337 with half remaining;" if it is a cycle of eighty-one parts, 266 times with a half and a third of a half remaining;”? if ninety-six, the arising within the movement of the vital breath (takes place) 225 (times); and if it is a cycle of one hundred and eight, 200. The wise man who knows the conjunction of seed syllables (pindayoga) should observe (their) emergence (in this way within the flow of the breath). (5cd- 19ab) 
+syllables, 1,964; if twelve syllables, 1,800; if thirteen, 1,662; if fourteen, 1,543; if fifteen, 1,440; if sixteen syllables, they are said to be 1,350; if seventeen syllables, 1,271; if eighteen, the wise should know that they are 1,200; and if the cycle (cakra) is of 24 syllables, (it arises) 900 times; if they number twenty-seven, 800 times; if it is a great wheel of thirty-two (syllables), 675 times; if it is a cycle of twice twenty-four (syllables), 450; if fifty-four, 400; if eight times eight, 337 with half remaining;" if it is a cycle of eighty-one parts, 266 times with a half and a third of a half remaining;”? if ninety-six, the arising within the movement of the vital breath (takes place) 225 (times); and if it is a cycle of one hundred and eight, 200. The wise man who knows the conjunction of seed syllables (pindayoga) should observe (their) emergence (in this way within the flow of the breath). (5cd-19ab) 
 
 #### Viveka on 7.5–19
 
@@ -617,7 +617,7 @@ sā ca syāt kramikaivetthaṁ kiṁ kathaṁ ko vikalpayet |
 ghaṭa ity api neyān syād vikalpaḥ kā kathā sthitau ॥ 34 ॥
 na vikalpaś ca ko ‘py asti yo mātrāmātraniṣṭhitaḥ | 
 
-A thought construct (vikalpa) is, according to (the Buddhists, as it is according to us,) knowledge (that has become such because it is) pervaded“' with words. Now if this (process of pervasion) were to be successive, who could conceive of anything, and how could it be conceived in this way? (If one accepted their thesis,) not even (the word) ‘jar’ could be an (object of) thought (vikalpa). What then to say (of the word) ‘standing’ (in the phrase ‘the jar is standing (ghaṭtas tiṣthati)’). In short, no differentiated ideation (vikalpa) could exist (in their view of things), even if it were to subsist for just a single measure (mdtra)” ) (of time) or a part of one (amātra). (33cd- 35ab) 
+A thought construct (vikalpa) is, according to (the Buddhists, as it is according to us,) knowledge (that has become such because it is) pervaded“' with words. Now if this (process of pervasion) were to be successive, who could conceive of anything, and how could it be conceived in this way? (If one accepted their thesis,) not even (the word) ‘jar’ could be an (object of) thought (vikalpa). What then to say (of the word) ‘standing’ (in the phrase ‘the jar is standing (ghaṭtas tiṣthati)’). In short, no differentiated ideation (vikalpa) could exist (in their view of things), even if it were to subsist for just a single measure (mdtra)” ) (of time) or a part of one (amātra). (33cd-35ab) 
 
 #### Viveka on 7.33–35
 
@@ -806,7 +806,7 @@ Surely (one may ask), what is this division and what is the fruit? With this que
 
 64\. The Yoginīkaula is certainly the source of verses 41 to 47, which are almost literal quotations, as we can observe by comparing Jayaratha’s quotation of the same ad 7/46-
 
-65\. Continuing directly on, verses 47-52ab are the final, concluding part of this passage. Thus, although Jayaratha does not quote the original source, it seems unlikely that it is not the Yoginīkaula, and so we can safely say that verses 41-52ab are drawn from there. Just after that, Abhinava concludes that he has completed his exposition of Cakrodaya. We have seen that the initial presentation of the divisions of Mantra in the breath (1- 2140) is taken from the Yoginīkaula. Thus, that is clearly the source of the basic practice taught in this part of this chapter. As usual, Abhinava inserts the remaining verses in between his exegesis, that serves to explain how the practice is grounded in the dynamism of consciousness, that ranges through its fundamental two-fold (i.e. nonconceptual and conceptual) nature.
+65\. Continuing directly on, verses 47-52ab are the final, concluding part of this passage. Thus, although Jayaratha does not quote the original source, it seems unlikely that it is not the Yoginīkaula, and so we can safely say that verses 41-52ab are drawn from there. Just after that, Abhinava concludes that he has completed his exposition of Cakrodaya. We have seen that the initial presentation of the divisions of Mantra in the breath (1-2140) is taken from the Yoginīkaula. Thus, that is clearly the source of the basic practice taught in this part of this chapter. As usual, Abhinava inserts the remaining verses in between his exegesis, that serves to explain how the practice is grounded in the dynamism of consciousness, that ranges through its fundamental two-fold (i.e. nonconceptual and conceptual) nature.
 
 
 *[p. 30]* ^pg48
@@ -1369,7 +1369,7 @@ sequence of twelve, is therefore that there is an End of the Twelve below (the f
 atra madhyamasañcāriprāṇodayalayāntare ॥ 70 ॥
 visve sṛṣṭilayās te tu citrā vāyvantarakramāt | 
 
-All these emanations and withdrawals (take place) within the emergence and merger of the vital breath that moves in the centre. (Their) wonderful diversity is due to the inner sequence of the vital breath. (70cd- 7187) 
+All these emanations and withdrawals (take place) within the emergence and merger of the vital breath that moves in the centre. (Their) wonderful diversity is due to the inner sequence of the vital breath. (70cd-7187) 
 
 #### Viveka on 7.70
 

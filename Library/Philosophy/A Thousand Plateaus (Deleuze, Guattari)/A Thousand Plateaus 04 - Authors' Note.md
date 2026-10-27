@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Deleuze, Guattari - A Thousand Plateaus]]"
 book: "[[Library/Philosophy/A Thousand Plateaus (Deleuze, Guattari)/A Thousand Plateaus (Deleuze, Guattari)|A Thousand Plateaus (Deleuze, Guattari)]]"
 order: 4
 source_pdf: "Library/Philosophy/Deleuze, Guattari - A Thousand Plateaus (1987).pdf"
-page_range: ""
+page_range: "xx"
 pdf_pages: "21–21"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-26
@@ -12,7 +12,7 @@ converted: 2026-10-26
 
 [[A Thousand Plateaus 03 - Notes on the Translation and Acknowledgments|← previous]] · [[A Thousand Plateaus (Deleuze, Guattari)|contents]] · [[A Thousand Plateaus 05 - 1. Introduction Rhizome|next →]]
 
-*[PDF 21]* ^pg21
+*[p. xx]* ^pg21
 
 ## Authors' Note
 

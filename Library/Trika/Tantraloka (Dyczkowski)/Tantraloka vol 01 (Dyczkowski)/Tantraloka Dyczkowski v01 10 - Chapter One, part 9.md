@@ -856,7 +856,7 @@ Varieties of Gradations and the Trika Triad
 pañcāśadvidhatā cāsya samāveśasya varnitā || 186 ॥
 tattvaṣaṭtriṁśakaitatsthasphuṭabhedābhisandhitaḥ | 
 
-Fifty varieties of this penetration are described (in the Mālinīvijayottara-tantra) in accord with (how) these (three) clearly apparent categories (bheda), located amongst the thirty-six metaphysical principles (tattva), are discerned (and conjoined together) (abhisandhitaḥ). (186cd- 187ab) 
+Fifty varieties of this penetration are described (in the Mālinīvijayottara-tantra) in accord with (how) these (three) clearly apparent categories (bheda), located amongst the thirty-six metaphysical principles (tattva), are discerned (and conjoined together) (abhisandhitaḥ). (186cd-187ab) 
 
 #### Viveka on 1.186–187
 

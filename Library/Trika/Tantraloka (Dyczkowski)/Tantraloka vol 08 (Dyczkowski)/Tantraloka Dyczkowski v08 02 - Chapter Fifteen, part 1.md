@@ -985,7 +985,7 @@ Thus, the firm conviction (abhimāna) of one’s (own) absorption into Śiva’s
 
 sivo ‘yarn \[illegible\] evāsmīty evam ācāryaśiṣyayoḥ ॥ 42 ॥ hetutadvattayā dārdhyābhimāno mocako hy anoḥ | 
 
-As both the means and the goal (hetutadvattayā), (only) the firm conviction (abhimāna) that “He is Śiva and I too am Śiva” on the part of (both) the disciple and the teacher, liberates the individual soul. (42cd- 43ab) 
+As both the means and the goal (hetutadvattayā), (only) the firm conviction (abhimāna) that “He is Śiva and I too am Śiva” on the part of (both) the disciple and the teacher, liberates the individual soul. (42cd-43ab) 
 
 #### Viveka on 15.42–43
 

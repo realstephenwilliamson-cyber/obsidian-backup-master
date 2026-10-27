@@ -17,6 +17,8 @@ nyasa: "lower lip (*oṣṭha*)"
 
 **Card 22 of 108** (printed: Card 1-22 · Alpha 24) · vowel · the letter: [[Letter 13 o|ओ o]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ओ

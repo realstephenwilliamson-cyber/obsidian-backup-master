@@ -17,6 +17,8 @@ nyasa: "ṣa: fat (*vasā*) · ṭa: right hip (*kaṭi*)"
 
 **Card 98 of 108** (printed: Card 3-38 · Alpha 97) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ष्ट

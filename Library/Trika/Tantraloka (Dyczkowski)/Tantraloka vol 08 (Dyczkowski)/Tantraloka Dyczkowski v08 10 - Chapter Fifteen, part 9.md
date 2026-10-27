@@ -34,7 +34,7 @@ ato na nagnās tāḥ paśyen na cāpi prakaṭastanīḥ ॥ 558 ॥
 vṛddhāyāḥ saristhitāyā vā na jugupseta mudrikām |
 vaikṛtyaṁ tatra saurūpyaṁ melakaṁ na prakāśayet ॥ 559 ॥ 
 
-The same (is said) in the venerable Gamatantra: ‘(Women) should be venerated (pūjanīya) with (great) effort. Women who have abandoned conventional behaviour (for a higher one) (nirācārā), eat everything, who are devoid of (both) Dharma and Adharma, who live freely, who eat meat and are dissolute (larpafā), are like deities. Prostitutes should be venerated, and their home is (like) Prayāga. Here (the initiate) should offer sacrifice to (the deities of) the tradition (krama). He should abstain from any action that can lead him to feel disgust for women. Thus, he should not look at them (when they are) naked or with their breasts exposed. He should not feel disgust by the deformed appearance (mudrikā) of one who has the form (saṁsthitā) of an old (woman). There (in that case, physical) deformity is beautiful. One should not reveal the (location of) the meeting (place where initiates worship together) (melaka)? (556-559) (553cd- 557ab) 
+The same (is said) in the venerable Gamatantra: ‘(Women) should be venerated (pūjanīya) with (great) effort. Women who have abandoned conventional behaviour (for a higher one) (nirācārā), eat everything, who are devoid of (both) Dharma and Adharma, who live freely, who eat meat and are dissolute (larpafā), are like deities. Prostitutes should be venerated, and their home is (like) Prayāga. Here (the initiate) should offer sacrifice to (the deities of) the tradition (krama). He should abstain from any action that can lead him to feel disgust for women. Thus, he should not look at them (when they are) naked or with their breasts exposed. He should not feel disgust by the deformed appearance (mudrikā) of one who has the form (saṁsthitā) of an old (woman). There (in that case, physical) deformity is beautiful. One should not reveal the (location of) the meeting (place where initiates worship together) (melaka)? (556-559) (553cd-557ab) 
 
 #### Viveka on 15.553–557
 
@@ -241,7 +241,7 @@ pramādāc ca kṛte sakhye goṣthyāṁ cakram tu pūjayet ॥ 575 ॥
 
 *[p. 335]* ^pg353
 
-(ekapātra),\* and so one must avoid those (who belong to other ones). However, if by mistake one has made friends” (with a member of another tradition, and takes) part in (his) gathering \[illegible\] one should worship the assembly (cakra) (of deities and initiates there along with them). (574cd- 575) (572-573ab) 
+(ekapātra),\* and so one must avoid those (who belong to other ones). However, if by mistake one has made friends” (with a member of another tradition, and takes) part in (his) gathering \[illegible\] one should worship the assembly (cakra) (of deities and initiates there along with them). (574cd-575) (572-573ab) 
 
 ### TĀ 15.573–574
 
@@ -265,7 +265,7 @@ It is also said in the venerable \[illegible\] that (an initiate) should not ass
 
 881\. \[illegible\] See below, 28/23cd-25ab, 383cd-385ab. The word cakra here may mean the mandala worshipped by the assembly of initiates, or the gathering itself, in which the members, male and female, are embodiments of deities seated around the teacher and his consort.
 
-882\. This is the Ürmikaulārnavatantra (see above, note to 2/48). TĀ 15/577cd- 594ab (588cd- 590ab) is drawn from that.
+882\. This is the Ürmikaulārnavatantra (see above, note to 2/48). TĀ 15/577cd- 594ab (588cd-590ab) is drawn from that.
 
 883\. Instead of dusre — ‘wicked’, MSs C and Thread: \[illegible\] — ‘disliked’.
 
@@ -666,7 +666,7 @@ iti matvā vidhānajñaḥ sahńmohaṁ parivarjayet ॥ 609 ॥
 mantrasya hṛdayaṁ muktvā na cānyat paramai kvacit |
 iti matvā vidhānajño mantrajālari parityajet ॥ 610 ॥ 
 
-Having understood this injunction with ease \[illegible\] one should abandon the net of injunctions (that merely bind and confuse). (Perfect) contemplative absorption (samādhi) cannot be attained in (any) other (way) except (by the complete) certainty (niścaya) (of realization). Once understood this, one who (truly) knows (the nature of) what is prescribed (vidhāna) (in this higher sense) should avoid (all) confusion (samoha). Apart from the heart of Mantra (SAUH), there is nothing else superior (to this) anywhere. Once understood this, one who (truly) knows (the nature of) what is prescribed should abandon the net of Mantra. (608cd-610) (606- 608ab) 
+Having understood this injunction with ease \[illegible\] one should abandon the net of injunctions (that merely bind and confuse). (Perfect) contemplative absorption (samādhi) cannot be attained in (any) other (way) except (by the complete) certainty (niścaya) (of realization). Once understood this, one who (truly) knows (the nature of) what is prescribed (vidhāna) (in this higher sense) should avoid (all) confusion (samoha). Apart from the heart of Mantra (SAUH), there is nothing else superior (to this) anywhere. Once understood this, one who (truly) knows (the nature of) what is prescribed should abandon the net of Mantra. (608cd-610) (606-608ab) 
 
 ### TĀ 15.608–609
 
@@ -697,7 +697,7 @@ Surely, (one may ask, if this is so,) what is the reason for the (common) usage 
 avaśyapālanīyatvāt paratattvena saṁgamāt |
 jñānaprāptyabhyupāyatvāt samayās te prakīrtitāḥ ॥ 612 ॥ 
 
-They are called pledges (samaya) because they must be observed,” because (by means of them one) is connected (saṁgama) with the supreme reality, and because they are the means to attain knowledge. (612) (609cd- 610ab) 
+They are called pledges (samaya) because they must be observed,” because (by means of them one) is connected (saṁgama) with the supreme reality, and because they are the means to attain knowledge. (612) (609cd-610ab) 
 
 #### Viveka on 15.609–610
 
@@ -735,7 +735,7 @@ tadābhiṣiñcet sāstreṇa śivakumbhena taṁ śiśum ॥ 614 I|
 ātmānari ca tato yasmāj jalamūrtir maheśvaraḥ |
 mantrayuṁn akhilāpyāyī kāryaṁ tad abhiṣecanam ॥ 615 ॥ 
 
-After that, if the disciple is not to be subsequently initiated (further into the status) of a Spiritual Son (putraka), (the teacher) should then sprinkle (him with water) taken from Śiva’s jar (consecrated) with the Weapon, and then (sprinkle) himself (with it). The reason why this aspersion (abhiṣecana) should be done is that the Lord in His sacred body of water (jalamūrti) and united with the Mantra, nourishes all things. (614- 615) (611cd-613) 
+After that, if the disciple is not to be subsequently initiated (further into the status) of a Spiritual Son (putraka), (the teacher) should then sprinkle (him with water) taken from Śiva’s jar (consecrated) with the Weapon, and then (sprinkle) himself (with it). The reason why this aspersion (abhiṣecana) should be done is that the Lord in His sacred body of water (jalamūrti) and united with the Mantra, nourishes all things. (614-615) (611cd-613) 
 
 #### Viveka on 15.611–613
 

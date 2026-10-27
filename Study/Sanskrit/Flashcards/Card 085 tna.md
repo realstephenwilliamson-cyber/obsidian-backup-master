@@ -17,6 +17,8 @@ nyasa: "ta: left hip (*kaṭi*) · na: left toenails (*nakha*)"
 
 **Card 85 of 108** (printed: Card 3-25 · Alpha 58) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** त्न

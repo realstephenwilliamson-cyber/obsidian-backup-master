@@ -17,6 +17,8 @@ nyasa: "upper lip (*oṣṭha*), as au"
 
 **Card 25 of 108** (printed: Card 1-25 · Alpha 27) · vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ◌ौ

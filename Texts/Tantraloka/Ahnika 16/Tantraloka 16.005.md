@@ -32,7 +32,7 @@ pūjayedyena tenātra triśūlatrayamālikhet || ^iast
 >
 > Thus, whatever (kind of) sacrifice (it may be), and the mandala (cakra) that is considered to be (the most appropriate for it) (samata), by means of which one worships, here (in this case, the teacher) should draw (the mandala) with three tridents along with it (tena).
 >
-> The three Goddesses (placed successively) one after the other, alternately (paryāyavrttitah) on (the prongs of) the three tridents, variously (changing from place to place), in the middle, on the right and on the left, are (thus) worshipped (properly and) fully. The way of drawing (vartanā) the mandala will be explained briefly further ahead. (with 16.5cd–7ab)
+> The three Goddesses (placed successively) one after the other, alternately (paryāyavṛttitaḥ) on (the prongs of) the three tridents, variously (changing from place to place), in the middle, on the right and on the left, are (thus) worshipped (properly and) fully. The way of drawing (vartanā) the maṇḍala will be explained briefly further ahead. (with 16.5cd–7ab)
 
 ## Viveka
 

@@ -1162,7 +1162,7 @@ Rabbi Yeisa opened, “*A son honors his father, and a servant his master* ([[Ma
 
 [^256]: **For the beauty of Jacob was the beauty of Adam…** See BT *Bava Batra* [[Bava Batra 58#58a|58a]]: “The beauty of our father Jacob resembled the beauty of Adam.” The *Zohar* transforms the Talmudic comparison into an affirmation of identity. Jacob manifested Adam’s beauty, so fittingly he wore the garments fashioned by God for Adam and Eve in the Garden of Eden. Now their original fragrance was emitted once again.
 
-    See *Bava Metsi’a* 84a; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-35b|1:35b]] (where Jacob rectifies the flaw of Adam’s sin), 145b–146a, 222a; *ZḤ* [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-65a|65a]] (*ShS*).
+    See *Bava Metsi’a* 84a; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-35b|1:35b]] (where Jacob rectifies the flaw of Adam’s sin), [[Zohar 2.05 - Parashat Toledot#^z1-145b|145b–146a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-222a|222a]]; *ZḤ* [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-65a|65a]] (*ShS*).
 
 [^257]: **the apple of Adam’s heel outshone the globe of the sun!** See *Vayiqra Rabbah* 20:2: “Rabbi Levi said in the name of Rabbi Shim’on son of Menasya, ‘The apple \[round fleshy part\] of Adam’s heel outshone the globe of the sun. How much more so the brightness of his face!’” See *Pesiqta de-Rav Kahana* 4:4; 12:1.
 
@@ -1548,7 +1548,7 @@ Rabbi Yeisa opened, “*A son honors his father, and a servant his master* ([[Ma
 
 [^403]: **from those kingdoms of Babylonia and Edom…** See *Tanḥuma, Vayetse* 2. Edom, who is descended from Esau (see [[Torah 08 - Vayishlach#^36-1|Genesis 36:1]]), symbolizes the Roman Empire and Christianity.
 
-[^404]: **Even a tiny word contains countless ways…** See *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-163a|1:163a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-55b|2:55b]], [[Zohar 5.03 - Parashat Mishpatim#^z2-98b|98b–99b]] 3:79b, 149a, 152a, 174b, 202a, 265a; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-6d|6d]] (*MhN*). Cf. *Sifrei*, Deuteronomy 336; *Midrash Tanna’im*, [[Torah 53 - Ha'Azinu#^32-47|Deuteronomy 32:47]]; BT *Menahot* [[Menachot 29#29b|29b]].
+[^404]: **Even a tiny word contains countless ways…** See *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-163a|1:163a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-55b|2:55b]], [[Zohar 5.03 - Parashat Mishpatim#^z2-98b|98b–99b]] [[Zohar 7.08 - Parashat Aharei Mot#^z3-79b|3:79b]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-149a|149a]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-152a|152a]], [[Zohar 9.05 - Commentary on Shelah Lekha, continued#^z3-174b|174b]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-202a|202a]], [[Zohar 9.12 - Parashat Va-Ethannan#^z3-265a|265a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-6d|6d]] (*MhN*). Cf. *Sifrei*, Deuteronomy 336; *Midrash Tanna’im*, [[Torah 53 - Ha'Azinu#^32-47|Deuteronomy 32:47]]; BT *Menahot* [[Menachot 29#29b|29b]].
 
 [^405]: **Rabbi Yoḥanan… rendered three hundred legal decisions…** This seemingly insignificant verse contains immense wisdom relating to the demonic realm. The subject of the verse is Hadar, last of the Edomite kings listed in [[Torah 08 - Vayishlach#^36-1|Genesis 36]], who are reinterpreted in Kabbalah as demonic archons. See Scholem, *Origins of the Kabbalah*, 296; and on this verse, *Zohar* [[Zohar 8.09 - Idra Rabba#^z3-135b|3:135b]] (*IR*), [[Zohar 8.09 - Idra Rabba#^z3-142a|142a]] (*IR*), [[Zohar 9.15 - Idra Zuta#^z3-292a|292a]] (*IZ*).
 

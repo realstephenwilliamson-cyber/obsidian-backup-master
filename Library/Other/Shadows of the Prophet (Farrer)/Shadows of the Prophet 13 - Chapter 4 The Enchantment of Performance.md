@@ -4,7 +4,7 @@ work: "[[Farrer - Shadows of the Prophet]]"
 book: "[[Library/Other/Shadows of the Prophet (Farrer)/Shadows of the Prophet (Farrer)|Shadows of the Prophet (Farrer)]]"
 order: 13
 source_pdf: Library/Other/Farrer - Shadows of the Prophet (2009).pdf
-page_range: 145–171
+page_range: 133–171
 pdf_pages: 145–183
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[Shadows of the Prophet 12 - Chapter 3 The Performance of Enchantment|← previous]] · [[Shadows of the Prophet (Farrer)|contents]] · [[Shadows of the Prophet 14 - Chapter 5 The Guru Silat|next →]]
 
-*[PDF 145]* ^pg145
+*[p. 133]* ^pg145
 
 ## Chapter 4
 The Enchantment of Performance

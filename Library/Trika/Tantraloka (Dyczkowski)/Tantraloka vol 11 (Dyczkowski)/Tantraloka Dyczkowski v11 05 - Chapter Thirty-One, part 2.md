@@ -485,7 +485,7 @@ ucchrayāt tu tataḥ kāryā gandikā tu svarūpataḥ \\\\ 111 Il pṛīthordh
 sūlāgramamṁigulari kāryaṁ sutīkṣṇaṁ tu ṣadaṁigulam ॥ 112 ||
 arāmadhyarni prakartavyam arādhas tu ṣadamhṁgulam | 
 
-One should (then) rotate the thread with chalk (khaṭikāsūtra) in a circle and, O Goddess, make a wall \[illegible\] two finger-breadths thick (vaipulyāt) and measuring four finger-breadths in length. As is (this one) on the right, fashion one that is the same on the left. In the middle, the thickness of the prong is that of its tip,” and below it is one finger-breadth (thick). Above (in the upper part) (ūrdhvataḥ) (one should draw another enclosure) measuring four finger-breadths in thickness and six in height. Then, O Lady of Good Vows, one must fashion the ‘pillow’ (gandikā). (109- 111) 
+One should (then) rotate the thread with chalk (khaṭikāsūtra) in a circle and, O Goddess, make a wall \[illegible\] two finger-breadths thick (vaipulyāt) and measuring four finger-breadths in length. As is (this one) on the right, fashion one that is the same on the left. In the middle, the thickness of the prong is that of its tip,” and below it is one finger-breadth (thick). Above (in the upper part) (ūrdhvataḥ) (one should draw another enclosure) measuring four finger-breadths in thickness and six in height. Then, O Lady of Good Vows, one must fashion the ‘pillow’ (gandikā). (109-111) 
 
 ### TĀ 31.112–113
 

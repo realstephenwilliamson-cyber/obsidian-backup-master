@@ -120,7 +120,7 @@ And Māyā is Gods power, which is not separate (from Him). It is (His) freedom 
 
 *[p. 128]* ^pg145
 
-Mantra) is such (as He is),” fashioned by that (power of Māyā). (149cd- 150ab) 
+Mantra) is such (as He is),” fashioned by that (power of Māyā). (149cd-150ab) 
 
 #### Viveka on 9.149–150
 
@@ -546,7 +546,7 @@ The Five Coverings (kañcuka)
 sā yady apy anyaśāstreṣu bahudhā dṛśyate sphutam ॥ 166 ॥
 tathāpi mālinīśāstradṛśā tām saṁpracakṣmahe | 
 
-Even though it is clearly apparent that (the nature of this causal relationship is) variously (conceived) in other scriptures, we will (limit ourselves) to explain it from the point of view of the Mālinīśāstra. (166cd- 167ab) 
+Even though it is clearly apparent that (the nature of this causal relationship is) variously (conceived) in other scriptures, we will (limit ourselves) to explain it from the point of view of the Mālinīśāstra. (166cd-167ab) 
 
 #### Viveka on 9.166–167
 

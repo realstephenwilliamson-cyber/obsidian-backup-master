@@ -4,7 +4,7 @@ work: "[[Wiener - Cybernetics]]"
 book: "[[Library/Philosophy/Cybernetics - Or Control and Communication in the Animal (Wiener)/Cybernetics - Or Control and Communication in the Animal (Wiener)|Cybernetics - Or Control and Communication in the Animal (Wiener)]]"
 order: 1
 source_pdf: Library/Philosophy/Norbert_Wiener_Cybernetics.pdf
-page_range: "1"
+page_range: ""
 pdf_pages: 1–1
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

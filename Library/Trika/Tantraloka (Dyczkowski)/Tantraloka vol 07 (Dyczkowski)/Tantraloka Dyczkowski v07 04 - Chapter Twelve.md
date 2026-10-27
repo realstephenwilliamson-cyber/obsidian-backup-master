@@ -213,7 +213,7 @@ kurvaṁs tadraśmisadbhāva dadyād dhomakriyāparaḥ ॥ 11 ॥
 
 Making the contemplation of perfect fullness unwavering and firm, reflecting (on that infinite nature) in that way, in union with the inner discourse (of awareness) (antarjalpa), it participates in the (perennial) repetition of mantra (japabhājana). 
 
-He who, engaged in destroying (all the) differences between the things offered there (to consciousness), and presents (them to it) as the essence of the rays (of its light), is intent (on offering the true) oblation." (9- 11) 
+He who, engaged in destroying (all the) differences between the things offered there (to consciousness), and presents (them to it) as the essence of the rays (of its light), is intent (on offering the true) oblation." (9-11) 
 
 #### Viveka on 12.9–11
 

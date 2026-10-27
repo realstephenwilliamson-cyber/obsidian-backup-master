@@ -17,6 +17,8 @@ nyasa: "blood (*rakta*)"
 
 **Card 54 of 108** (printed: Card 2-27 · Alpha 83) · consonant · the letter: [[Letter 43 ra|र ra]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** र

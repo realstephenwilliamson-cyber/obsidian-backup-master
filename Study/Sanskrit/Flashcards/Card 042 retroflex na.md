@@ -17,6 +17,8 @@ nyasa: "right toenails (*nakha*)"
 
 **Card 42 of 108** (printed: Card 2-15 · Alpha 54) · consonant · the letter: [[Letter 31 retroflex na|ण ṇa]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ण

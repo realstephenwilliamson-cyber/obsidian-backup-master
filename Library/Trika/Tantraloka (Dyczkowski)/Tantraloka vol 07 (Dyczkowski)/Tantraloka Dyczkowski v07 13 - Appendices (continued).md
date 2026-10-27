@@ -177,7 +177,7 @@ sarvaduhkhavinirmuktaḥ sarvaśokavivarjitaḥ |
 sarvasya mokṣam apnoti vartate nirbhayaḥ sadā \[g: sadāḥ\] ॥ 41 ॥
 kim anyat kathayiṣyāmi sādhakasya vibhūtayaḥ | 
 
-All the accomplishments dawn wherever the Kaula adept may be, along with all the great and varied substances, sporting mutually with one another. He is free of all suffering and devoid of all grief. He obtains freedom for all and is always free of fear. What else should I say of the adept’s glorious powers? (40- 42ab) 
+All the accomplishments dawn wherever the Kaula adept may be, along with all the great and varied substances, sporting mutually with one another. He is free of all suffering and devoid of all grief. He obtains freedom for all and is always free of fear. What else should I say of the adept’s glorious powers? (40-42ab) 
 
 srīdevyuvāca 
 
@@ -349,7 +349,7 @@ The way of inducing the deity’s presence has (thus) been taught in the Kula bo
 
 *[p. 398]* ^pg420
 
-one intended purpose within Śiva, who severs (all) the fetters. All (forms of) suffering are destroyed, and he becomes lord of the eight (kinds of) wealth. (94- 97ab) 
+one intended purpose within Śiva, who severs (all) the fetters. All (forms of) suffering are destroyed, and he becomes lord of the eight (kinds of) wealth. (94-97ab) 
 
 kulakaulasamūhasya mātṛcakrasya bhairavi || 97 ॥
 tartrācārasya sarvasya bhairavākhyasya sundari |

@@ -27,7 +27,7 @@ lālanaṃ baindavaṃ vyāptiriti saṃdohakatrayam || ^iast
 > [!source] Dyczkowski, vol. VIII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 08 (Dyczkowski)/Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#^pg79|p. 61]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 08.pdf#page=79>))
 >
-> The triad of subsidiary seats (upapītha) are the empowered one (śākta), that is, Kuṇdalinī, the one relating to (the Point,) which consists of four energies (vedakala), (and the one relating to Sound). (These correspond externally) to the two, Devīkoṭta and Ujjayinī along with Kulagiri, which is the other one. The three saṁdohakas are the tongue, the centre between the eyes (baindava), and pervasion. Pundravardhana, Vārendra and Ekāmra – this is the outer (corresponding triad). (Thus,) in accord with the inner and outer sequence (of sacred sites), the seat (of the goddess) is said to be ninefold. (with 15.86cd–88)
+> The triad of subsidiary seats (upapīṭha) are the empowered one (śākta), that is, Kuṇḍalinī, the one relating to (the Point,) which consists of four energies (vedakala), (and the one relating to Sound). (These correspond externally) to the two, Devīkoṭṭa and Ujjayinī along with Kulagiri, which is the other one. The three saṁdohakas are the tongue, the centre between the eyes (baindava), and pervasion. Puṇḍravardhana, Vārendra and Ekāmra – this is the outer (corresponding triad). (Thus,) in accord with the inner and outer sequence (of sacred sites), the seat (of the goddess) is said to be ninefold. (with 15.86cd–88)
 
 ## Viveka
 

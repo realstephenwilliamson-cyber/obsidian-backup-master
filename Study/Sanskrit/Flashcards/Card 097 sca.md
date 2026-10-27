@@ -17,6 +17,8 @@ nyasa: "śa: bone (*asthi*) · ca: left shoulder (*skandha*)"
 
 **Card 97 of 108** (printed: Card 3-37 · Alpha 93) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** श्च

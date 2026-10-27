@@ -225,7 +225,7 @@ sakuniḥ sumatir nando gopālaś ca pitāmahaḥ |
 
 (The powerholders) in the wheel of six spokes are Bali, Balinanda, Daśagrīva, Hara, Haya and Mādhava.” 
 
-These are said to be in the wheel with twelve spokes, namely: Dakṣa, Caṇda, Hara, Śaundin, Pramatha, Bhīma, Manmatha, Śakuni, Sumati, Nanda, Gopāla and Pitāmaha.” (7cd- 9ab) 
+These are said to be in the wheel with twelve spokes, namely: Dakṣa, Caṇda, Hara, Śaundin, Pramatha, Bhīma, Manmatha, Śakuni, Sumati, Nanda, Gopāla and Pitāmaha.” (7cd-9ab) 
 
 ### TĀ 33.9–12
 
@@ -525,7 +525,7 @@ Surely,
 
 464?\. Above, 33/18c.
 
-465?\. See above 3/197cd concerning the eighty-one half measures; see also 6/226-228ab (225cd- 227cd).
+465?\. See above 3/197cd concerning the eighty-one half measures; see also 6/226-228ab (225cd-227cd).
 
 
 *[p. 181]* ^pg199

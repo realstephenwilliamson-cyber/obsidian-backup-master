@@ -167,7 +167,7 @@ nirācāreṇa dīkṣāyāṁ pratyayas tu na gadyate |
 
 *[p. 236]* ^pg256
 
-The initiation a teacher imparts who has known within himself that (his) repetition of Mantra, oblation and worship have been accomplished successfully is said to be one that bears an (outer) validating sign of (its) accomplishment (pratyaya). This procedure is not for the renouncer (avadhūta), who has transcended practice (nirācāra) and knows the true nature (of things) (tattvajñā).\* The initiation that bears a visible sign (of its accomplishment) should be imparted by (teachers) who practice outer ritual (sācāra). It is said that there is no (such outer) sign when an initiation is performed by (a teacher) who has transcended practice (nirācāra). (8- 10ab) 
+The initiation a teacher imparts who has known within himself that (his) repetition of Mantra, oblation and worship have been accomplished successfully is said to be one that bears an (outer) validating sign of (its) accomplishment (pratyaya). This procedure is not for the renouncer (avadhūta), who has transcended practice (nirācāra) and knows the true nature (of things) (tattvajñā).\* The initiation that bears a visible sign (of its accomplishment) should be imparted by (teachers) who practice outer ritual (sācāra). It is said that there is no (such outer) sign when an initiation is performed by (a teacher) who has transcended practice (nirācāra). (8-10ab) 
 
 #### Viveka on 20.8–10
 

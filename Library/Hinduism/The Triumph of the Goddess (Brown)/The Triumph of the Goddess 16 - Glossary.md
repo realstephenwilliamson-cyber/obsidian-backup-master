@@ -154,7 +154,7 @@ Patala\* the underworld; the appropriate realm of the demons, as oppos
 
 *tapas* asceticism; creative ascetic discipline.
 
-*tejas* splendor, luster, light, brilliance; prowess, strength, martial valor; energy; in the *Devi-Bhagavata*\*, occasionally used inter-changeably with *sakti*\*. *tirtha*\* a holy site or pilgrimage center.
+*tejas* splendor, luster, light, brilliance; prowess, strength, martial valor; energy; in the *Devi-Bhagavata*\*, occasionally used interchangeably with *sakti*\*. *tirtha*\* a holy site or pilgrimage center.
 
 *triguna*\* endowed with or possessing the three *gunas*\*; a common epithet of the Devi\* in the *Devi-Bhagavata*\*, even though she is also said to be *nirguna*\* (beyond or without *gunas*\*).
 

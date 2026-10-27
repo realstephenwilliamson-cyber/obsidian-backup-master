@@ -455,7 +455,7 @@ mantradhyānasamādhānabhedāt snānaṁ tu yan na tat || 75 ॥
 yuktaṁ snānar yato nyāsakarmādau yogyatāvaham |
 asya snānāṣṭakasyāsti bāhyāntaratayā dvitā ॥ 76 ॥ 
 
-Thus, it is not reasonable (to maintain) that ablution is different and independent of Mantra, visualization (dhyāna) and contemplation (samādhāna) (and so is not part of the sacrificial rite). Ablution renders one fit to perform the deposition (of Mantras) (nyāsa) and the rest. (75cd- 76) 
+Thus, it is not reasonable (to maintain) that ablution is different and independent of Mantra, visualization (dhyāna) and contemplation (samādhāna) (and so is not part of the sacrificial rite). Ablution renders one fit to perform the deposition (of Mantras) (nyāsa) and the rest. (75cd-76) 
 
 #### Viveka on 15.75–76
 
@@ -804,7 +804,7 @@ The (same) godd who are well versed in such inner paths of Yoga arise (spontaneo
 
 *[p. 68]* ^pg86
 
-(Where that takes place) is said to be an outer sacred seat \[illegible\] (97cd- 98ab) 
+(Where that takes place) is said to be an outer sacred seat \[illegible\] (97cd-98ab) 
 
 #### Viveka on 15.97–98
 
@@ -966,7 +966,7 @@ sthānaṁ mumuksṣunṇnā tyājyaṁi sarpakañcukavat tv idam |
 muktir na sthānajanitā yadā śrotrapathai gatam || 106 ॥
 guros tattvaṁ tadā muktis taddārdhyāya tu pūjanam | 
 
-It is also said in the Niśisaricāra that: ‘(sacred) place concerns (only) those who aspire to attain accomplishments (siddhi). He who aspires to liberation should give (that) up, as does a snake (its) sloth. Liberation is not brought about by (the power of sacred) place. Liberation (is attained) when one hears the truth (imparted by) the teacher.’ Ritual worship (pūjana) serves only to make that (realisation) firm (and stable). (105cd- 107ab) 
+It is also said in the Niśisaricāra that: ‘(sacred) place concerns (only) those who aspire to attain accomplishments (siddhi). He who aspires to liberation should give (that) up, as does a snake (its) sloth. Liberation is not brought about by (the power of sacred) place. Liberation (is attained) when one hears the truth (imparted by) the teacher.’ Ritual worship (pūjana) serves only to make that (realisation) firm (and stable). (105cd-107ab) 
 
 #### Viveka on 15.105–107
 

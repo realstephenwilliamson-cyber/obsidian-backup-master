@@ -204,7 +204,7 @@ The voice between the hands of Esau in Abulafia’s discussion is, following aft
 
 The covenant belongs to Jacob, representative of the central *sefira Tif \[illegible\]* and it enacts the mystico-theurgical redemption that encapsulates as well Esau’s, or Christendom’s, ultimate defeat. As mentioned, no “covenant of Esau” is specifically elicited in this passage; only his hands, flanking the covenant of the tongue, are mentioned.[^56] 
 
-53\. *Bahir*, § 135, 137; *Zohar* 2:57a, 66a–67a.
+53\. *Bahir*, § 135, 137; *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-57a|2:57a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-66a|66a–67a]].
 
 [^54]: Amaleq was conflated with Esau as synonymous with Christendom on the basis of [[Torah 08 - Vayishlach#^36-12|Genesis 36:12]], which identifies Amaleq as Esau’s grandson. See Nahmanides commentary on [[Torah 16 - Beshalach#^17-9|Ex. 17:9]], [[Torah 16 - Beshalach#^17-16|16]].
 55\. See above, p. 41, regarding *Tif Feret* and Jacob.

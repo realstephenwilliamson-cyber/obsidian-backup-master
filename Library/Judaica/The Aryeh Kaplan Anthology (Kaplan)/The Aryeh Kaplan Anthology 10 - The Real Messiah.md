@@ -1546,13 +1546,13 @@ Cf. Giur Aryeh (Maharal) ad loc.
 
 32\. Cf. Emunos VeDeyos 8:6. 
 
-33\. [[Sotah 49#49b|Sotah 49b]], [[Sanhedrin 97#97a|Sanhedrin 97a]], Derech Eretz Zuta, 10, Shir HaShirim Rabbah 2:29, Pirkey Rabbi Eliezer 32, [[Zohar 7.08 - Parashat Aharei Mot#^z3-67b|Zohar 3:67b]], 125b. 
+33\. [[Sotah 49#49b|Sotah 49b]], [[Sanhedrin 97#97a|Sanhedrin 97a]], Derech Eretz Zuta, 10, Shir HaShirim Rabbah 2:29, Pirkey Rabbi Eliezer 32, [[Zohar 7.08 - Parashat Aharei Mot#^z3-67b|Zohar 3:67b]], [[Zohar 8.08 - Parashat Naso#^z3-125b|125b]]. 
 
 34\. Or “truth shall be divided into flocks.” [[Sanhedrin 97#97a|Sanhedrin 97a]]. 
 
 35\. Rambam, /geres Taimon (Jerusalem, 5721) p. 5; Sichos HaRan 35. Cf. 
 
-[[Zohar 8.08 - Parashat Naso#^z3-124b|Zohar 3:124b]], 153a. 
+[[Zohar 8.08 - Parashat Naso#^z3-124b|Zohar 3:124b]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-153a|153a]]. 
 
 36\. [[Sanhedrin 97#97a|Sanhedrin 97a]]. 
 
@@ -1644,7 +1644,7 @@ Cf. Radak ad loc., [[Sanhedrin 93#93b|Sanhedrin 93b]], Yad Melachim 11:3.
 
 66\. Radak, Metzudos ad loc., BaMidbar Rabbah 15:19 end; Rabbi Moshe Chaim Lutzatto, Likutey Yedios HaEmes, Maamar Halkkarim (New York, 5706) p. 230. 
 
-67\. Succah 52a, [[Zohar 2.03 - Parashat Va-Yera#^z1-109a|Zohar 1:109a]], 128b, 137a, 2:41la, 136a, 3:54a. 
+67\. Succah 52a, [[Zohar 2.03 - Parashat Va-Yera#^z1-109a|Zohar 1:109a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-128b|128b]], [[Zohar 2.05 - Parashat Toledot#^z1-137a|137a]], 2:41la, 136a, 3:54a. 
 
 68\. Sh'nei Luchos HaBris, Bais David, 1:32a; Yeshuos Meshicho 3:7 (p. 56b). 
 

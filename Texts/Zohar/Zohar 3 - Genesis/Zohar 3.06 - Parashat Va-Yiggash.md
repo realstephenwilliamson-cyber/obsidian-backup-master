@@ -349,7 +349,7 @@ Rabbi Yitsḥak said, “*And they were fruitful and multiplied greatly*—surel
 
 [^10]: **letter of supernal mystery** Symbolizing the entirety of the *sefirot*, or the first *sefirah*.
 
-    See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-21a|1:21a]] (Vol. 1, p. 161, n. 430); 3:73a; 193b; *ZḤ* [[Zohar 12.08 - Sitrei Otiyyot#^zh-5c|5c]] (*SO*); Moses de León, *Sefer ha-Rimmon*, 77 (and Wolfson’s note); idem, *Sheqel ha-Qodesh*, 87–89 (111–12); Gikatilla, *Sha’arei Orah*, 103a; Galante; *NO*.
+    See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-21a|1:21a]] (Vol. 1, p. 161, n. 430); [[Zohar 7.08 - Parashat Aharei Mot#^z3-73a|3:73a]]; [[Zohar 9.10 - Commentary on Balaq, continued#^z3-193b|193b]]; *ZḤ* [[Zohar 12.08 - Sitrei Otiyyot#^zh-5c|5c]] (*SO*); Moses de León, *Sefer ha-Rimmon*, 77 (and Wolfson’s note); idem, *Sheqel ha-Qodesh*, 87–89 (111–12); Gikatilla, *Sha’arei Orah*, 103a; Galante; *NO*.
 
 [^11]: **Other Side…** The demonic realm.
 
@@ -967,7 +967,7 @@ Rabbi Yitsḥak said, “*And they were fruitful and multiplied greatly*—surel
 
 [^197]: ***Shekhinah* descended with him…** See BT *Megillah* [[Megillah 29#29a|29a]]: “Rabbi Shim’on son of Yoḥai says, ‘Come and see how beloved are Israel in the sight of the blessed Holy One! Wherever they went in exile, *Shekhinah* accompanied them. When they were exiled to Egypt, *Shekhinah* was with them…. When they were exiled to Babylon, *Shekhinah* was with them…. And even when they are destined to be redeemed, *Shekhinah* will be with them.’”
 
-    The image of *Shekhinah*’s descent is linked with this verse ([[Torah 11 - Vayigash#^46-4|Genesis 46:4]]) in *Mekhilta, Shirta* 3; *Mekhilta de-Rashbi*, [[Torah 13 - Shemot#^3-8|Exodus 3:8]]; [[Torah 16 - Beshalach#^15-2|15:2]]; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-4b|2:4b]], 85a. Cf. *Mekhilta, Pisḥa* 14; Kasher, *Torah Shelemah*, [[Torah 11 - Vayigash#^46-4|Genesis 46:4]], n. 24; above, p. 290 and n. 176.
+    The image of *Shekhinah*’s descent is linked with this verse ([[Torah 11 - Vayigash#^46-4|Genesis 46:4]]) in *Mekhilta, Shirta* 3; *Mekhilta de-Rashbi*, [[Torah 13 - Shemot#^3-8|Exodus 3:8]]; [[Torah 16 - Beshalach#^15-2|15:2]]; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-4b|2:4b]], [[Zohar 4.07 - Parashat Yitro#^z2-85a|85a]]. Cf. *Mekhilta, Pisḥa* 14; Kasher, *Torah Shelemah*, [[Torah 11 - Vayigash#^46-4|Genesis 46:4]], n. 24; above, p. 290 and n. 176.
 
 [^198]: **How many wagons…** How many wagons were sent to convey Jacob and his family to Egypt? Rabbi Shim’on first suggests six, corresponding to the number of wagons mentioned in the account of the dedication of the Tabernacle in the wilderness when the tribal chieftains brought an offering. This interpretation is based simply on a verbal analogy between the references to *wagons* in both Genesis and Numbers. According to *KP*, Rabbi Shim’on is implying that the wagons used by the chieftains were the very same ones that had earlier transported Jacob.
 

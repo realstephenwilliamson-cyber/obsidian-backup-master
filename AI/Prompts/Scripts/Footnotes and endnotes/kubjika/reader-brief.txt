@@ -1,0 +1,29 @@
+# Brief: turn Kubjika's garbled footnotes into Markdown footnotes
+
+You are working on one note of Stephen's Obsidian vault: a Markdown copy (fresh OCR) of Mark Dyczkowski, *Kubjikā, Kālī, Tripurā and Trika* (Nepal Research Centre Publications 22, 2000). The OCR garbled every footnote: the superscript call in the body text came out as a stray mark (`'` `’` `”` `"` `?` `\*` `°` `:` `»` `™` `®` a letter, a digit glued to a word) or vanished, and each footnote's number at the start of its paragraph is garbled the same way or missing. Stephen has asked for the footnotes to be made real Markdown footnotes, the way another book in the vault was done: each call becomes `[^n]` and each footnote paragraph begins `[^n]: `.
+
+Everything you need is in `/home/claude/kub/`:
+- `note1.md` (part 1, PDF pages 1–40) and `note2.md` (part 2, PDF pages 41–73): the notes exactly as they are in the vault now. Read them with line numbers. Page markers look like `*[p. 7]* ^pg12` (printed page 7 = PDF page 12); the text that follows a marker is that PDF page.
+- `pages/p-NN.png`: every PDF page at 170 dpi (`p-06.png` = PDF page 6). If a superscript is hard to read, render one page larger in your own folder, e.g. `pdftoppm -f 6 -l 6 -r 300 -png "/mnt/user-data/uploads/Obsidian Vault/Library/Trika/Dyczkowski - Kubjika, Kali, Tripura and Trika (Nepal Research Centre 22, 2000).pdf" /home/claude/kub/<yourpart>-zoom/p`, or crop with Python (PIL).
+- `listed1.json` / `listed2.json`: an earlier reader's list of the garbled calls and numbers it saw (line, PDF page, text, why). A useful map, not a complete or certain one; the page image decides.
+
+**Read every page of your part on the image** and, for every footnote on it, find its call in the body text and its paragraph at the foot of the page.
+
+## What to produce
+
+A JSON file (path given in your task) holding a list of operations, all referring to the line numbers of the note **as it is now** (1-based), plus a summary in your reply. Operations:
+
+1. `{"n": 12, "kind": "call", "op": "replace", "line": L, "old": "...", "new": "..."}` — the call of footnote n. `old` is an exact substring of line L as it is now (copy it character for character, including Markdown escapes such as `\*` and `\[`), long enough to occur **exactly once** in that line: take the garbled mark together with a few characters before it (and after it, if needed). `new` is the same text with the garble replaced by `[^n]` at the printed position. Keep punctuation the print really has: if the print reads `Tantras,²` and the note `Tantras,”`, then old `Tantras,”` → new `Tantras,[^2]`; if the print has a real closing quotation mark before the superscript (`…give it.”⁷`), keep it (`give it.”[^7]`). When the call is missing altogether, insert `[^n]` where the print has the superscript.
+2. `{"n": 12, "kind": "def", "op": "replace", "line": L, "old": "...", "new": "..."}` — the start of footnote n's paragraph. `old` = the line's opening characters as they are now, through the garbled number and the space after it (e.g. `"' See Dyczkowski"`); `new` = `"[^12]: See Dyczkowski"`. If the number is missing, `old` = the first few words, `new` = `[^12]: ` + those words. If two footnotes are run together in one line, use a replace whose `new` contains `\n\n[^13]: ` at the point where the second begins.
+3. `{"n": 12, "kind": "cont", "op": "indent", "line": L}` — a further paragraph of footnote n on the **same page** (the print shows it as a continuation of the note, e.g. an indented paragraph without a number). It will get four spaces in front so that Markdown keeps it inside the footnote. Only for paragraphs that stand right after the footnote's definition or after another continuation of it (blank lines between are fine).
+4. `{"n": 12, "kind": "cont", "op": "move", "line": L, "after": M}` — a part of footnote n printed on the **next page** (the print carries the note over the page break; in the note it now sits at the foot of the next page). Line L is moved to follow line M — the last line of footnote n's text before the page break (its definition line or its last same-page continuation) — and indented by four spaces. If the carried-over text is really the end of a sentence cut at the page break, still move the whole line; say so in `note`.
+5. `{"n": null, "kind": "stray", "op": "delete", "line": L}` — a line that holds nothing but a misplaced, garbled footnote number (e.g. a line `10`) whose footnote you have numbered elsewhere.
+6. `{"n": 161, "kind": "text", "op": "replace", "line": L, "old": "...", "new": "..."}` — only for the case named in your task (adding a lost verse line). No other wording changes: leave OCR slips, misprints and everything else alone. Escaping: if your new text contains `*` or `[` that are literal characters, escape them as the note does.
+
+Rules:
+- Number every footnote as printed. The asterisk note on PDF 6 (`Kubjikā.\*` and its paragraph `\* I should take…`) stays as it is: no operation for it.
+- In the end every footnote n of your part must have exactly one call op and one def op (unless its call or definition truly is not in the print, which you report).
+- Footnote text that the OCR put in the body, or body text the OCR put among the notes: report it in `problems`, do not fix it unless it is a plain carry-over (op 4).
+- Never touch the page markers (`*[p. N]* ^pgK`), headings, or the frontmatter.
+- `old` strings must be copied from the note, not retyped from the image.
+- Write your JSON as `{"part": 1, "first_n": ..., "last_n": ..., "ops": [...], "problems": [...], "per_note": [{"n":…, "pdf_page":…, "call_line":…, "def_line":…}]}`. Report in your reply: the numbers covered, how many of each op, and the problems. Do not write any file outside `/home/claude/kub/`.

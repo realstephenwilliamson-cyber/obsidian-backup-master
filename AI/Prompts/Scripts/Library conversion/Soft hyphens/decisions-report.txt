@@ -1,0 +1,43 @@
+# Soft-hyphen decisions: Sen Sharma and Brown
+
+H = keep as "-" (real hyphen); J = join (leftover line break).
+
+## Sen Sharma, The Philosophy of Sadhana
+
+- 493 distinct tokens, 523 split points: **H 504, J 19**
+- weighted by occurrences: H 1078, J 20
+
+J: `self|manifes|tation`, `Ku|mar`, `ex|trinsic`, `pram|eya`, `anu|bhava`, `jña|trtva`, `di|vinization`, `Parames|vara's`, `Cai|tanya`, `anut|tara`, `in|dudes`, `bud|dhi`, `nir|vikalpa`, `Sri|nagar`, `karma|mala`, `karma|malas`, `sub|human`, `viveka|jnana`, `sad|guru`
+
+Unsure (all set to H):
+
+- `two|fold`: book has "twofold" 6x joined, "two-fold" 2x, "five-fold" 1x
+- `mala|paripaka`: "malaparipaka" 6x joined in the text, but the glossary entry is hyphenated
+- `videha|mukti`: "videhamukti" 3x joined elsewhere
+- `loka|dharmi`: "lokadharmi" 3x joined elsewhere
+- `putraka|caryas`: vowel fused by sandhi (putraka + acarya), so a printed hyphen there is odd; may be a break
+
+## Brown, The Triumph of the Goddess
+
+- 1327 distinct tokens, 1370 split points: **H 1342, J 28**
+- weighted by occurrences: H 3470, J 30
+
+J: `San|skrit`, `in|creased`, `to|wards`, `mil|lions`, `pro|poses`, `unac|knowledged`, `trans|formative`, `inter|changeably`, `onto|logical`, `every|where`, `fore|shadowing`, `on|going`, `three|fold`, `Anu|kramani`, `Mark|andeya`, `Mark|andeya's`, `Maha|bharata`, `Maha|bhagavata`, `Tattwa|nanda`, `Damsod|dhara`, `Mano|harlal`, `Mana|sukharay`, `Mukho|padhyay`, `Harras|sowitz`, `female|ness`, `Dhumra|locana`, `Brahma|vaivarta`, `Lavana|sura`
+
+Unsure (all set to H):
+
+- `trouble|maker`: either spelling plausible; no joined form elsewhere
+- `re|creation`: "recreation" also printed joined once for the same idea
+- `step|mother`: no joined form elsewhere; old hyphenated spelling possible
+- `ambi|sexual`: no joined form elsewhere; may be a break
+- `Mantra|s`: Wayman title probably "Mantras" (22x joined in book), but a break before a lone "s" is unlikely
+- `Purus|anature`: printed hyphen sits one letter early; should read "Purusa-nature"
+- `finding|that`: neither fits; should be a space ("finding that")
+- `in|the`: neither fits; should be a space ("in the")
+
+## Notes
+
+- Book habit was taken from counts of the joined form elsewhere in each text. Where the joined form is much more common, the hyphen was treated as a break: e.g. Sen karmamala 24:1, karmamalas 7:1, subhuman 8:1, vivekajnana 9:1, sadguru 6:1; Brown threefold 9:2, ongoing 11:1, Mahabharata 52:1, Mahabhagavata 16:1. This goes against the "karma-mala" example in the brief.
+- Sen: the "-s" plurals (mala-s, Sakti-s, tattva-s, upaya-s, agama-s, cakra-s, nadi-s, mudra-s) all occur in Muller-Ortega's foreword (pp. 9-13), which uses that style throughout. All are H. Sen's own text writes "malas" and "tattvas".
+- Suspended hyphens are H: Brown "him-or herself", "Left- and Right-Handed", "Süd- und Ostasiens", "up-to-date".
+- Garbled references (Sen "III-113", "V2-23"; Brown "247-45n") are kept as H.

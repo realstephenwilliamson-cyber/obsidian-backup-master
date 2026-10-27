@@ -17,6 +17,8 @@ nyasa: "upper teeth (*rada*), as ai"
 
 **Card 21 of 108** (printed: Card 1-21 · Alpha 23) · vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ◌ै

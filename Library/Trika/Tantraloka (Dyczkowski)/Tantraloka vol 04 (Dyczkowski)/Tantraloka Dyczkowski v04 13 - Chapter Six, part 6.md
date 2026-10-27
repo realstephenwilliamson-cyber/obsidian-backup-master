@@ -335,7 +335,7 @@ The three short vowels (A I U) (occupy) twelve fingers’ breadth each (within e
 
 When the two vowels, I and U are conjoined with A and &, the two diphthongs E and O (become manifest, each occupying eighteen fingers’ breadth within the exhaled breath). (The wise) know that the two diphthongs AI and AU are within (the flow of the) entry (of inhalation). 
 
-The neutral vowels are present in (the breath that) enters within the End of the Twelve (beyond the nose) (r), on the forehead (R), in the throat (l) and in the heart (Ḷ). The Point (bindu) and Emission (visarga) occupy the entire (inhaled and exhaled breath), respectively. (219cd-222ab) (219- 221) 
+The neutral vowels are present in (the breath that) enters within the End of the Twelve (beyond the nose) (r), on the forehead (R), in the throat (l) and in the heart (Ḷ). The Point (bindu) and Emission (visarga) occupy the entire (inhaled and exhaled breath), respectively. (219cd-222ab) (219-221) 
 
 #### Viveka on 6.219–221
 
@@ -355,7 +355,7 @@ He (now) applies this same (principle) elsewhere also.
 kādipañcakam ādyasya varṇasyāntaḥ sadoditam ॥ 222 ||
 evar sasthānavarnānām antaḥ sā sārṇasantatiḥ | 
 
-The five (gutturals) beginning with K always arise within the first vowel, In the same way, (each) series of phonemes (i.e., consonants, arises) within the vowel (of its corresponding) locus (of articulation). (222cd- 223ab) (222) 
+The five (gutturals) beginning with K always arise within the first vowel, In the same way, (each) series of phonemes (i.e., consonants, arises) within the vowel (of its corresponding) locus (of articulation). (222cd-223ab) (222) 
 
 #### Viveka on 6.222
 
@@ -631,7 +631,7 @@ Having explained this by the way, he (now) continues with the main point:
 ardhamātrā nava nava syuś caturṣu caturṣu yat |
 amguleṣv iti ṣattriṁśaty ekāśītipadodayaḥ ॥ 232 ॥ 
 
-The half measures are arranged, nine by nine, within every four (finger-breadths of the flow of the breath). (In this way,) the eighty-one parts arise (within a span of) thirty-six fingers’ (breadth). (232) (231cd- 232ab) 
+The half measures are arranged, nine by nine, within every four (finger-breadths of the flow of the breath). (In this way,) the eighty-one parts arise (within a span of) thirty-six fingers’ (breadth). (232) (231cd-232ab) 
 
 #### Viveka on 6.231–232
 
@@ -907,7 +907,7 @@ Surely (one may ask,) for those who consider that, along with the letter KṢ, t
 nava vargāms tu ye prāhus \[illegible\] \[illegible\] prāṇaśatī ravīn (vih) ॥ 244 ॥ satribhāgaiva saṁkrāntir varge pratyekam ucyate |
 aharniśar tadaikye tu Śatānām śruticakṣuṣī I| 245 ॥ 
 
-According to those who (by treating \[illegible\] as a separate class by itself) say that there are nine classes, each one lasts one and a third transits (saṁkrānti), that is, twelve hundred breaths. Reckoning Day and Night together, this makes twenty-four hundred (breaths). (244cd-245) (244- 245ab) 
+According to those who (by treating \[illegible\] as a separate class by itself) say that there are nine classes, each one lasts one and a third transits (saṁkrānti), that is, twelve hundred breaths. Reckoning Day and Night together, this makes twenty-four hundred (breaths). (244cd-245) (244-245ab) 
 
 #### Viveka on 6.244–245
 
@@ -962,7 +962,7 @@ When Day and Night are combined, it doubles. Thus, he says:
 dinarātryavibhāge tu dṛgvahnyabdhyasu cāranāḥ ॥ 248 ॥
 sapañcamāmśā nādī ca bahirvarṇnodayaḥ smṛtaḥ | 
 
-When Night and Day are (counted) together, it takes four hundred and thirty-two breaths for (each of) the letters (to arise). The external arising of the phonemes is said to be (take) one and a fifth nādīs. (248cd- 249ab) (248) 
+When Night and Day are (counted) together, it takes four hundred and thirty-two breaths for (each of) the letters (to arise). The external arising of the phonemes is said to be (take) one and a fifth nādīs. (248cd-249ab) (248) 
 
 #### Viveka on 6.248
 

@@ -90,7 +90,7 @@ From Ms. Lublin (Doktór, Dodatek B, Vol 2.122-133)
 
 2135\. Those *Baałakaben* are very upset with me that I have not sent you to them; for among them is hidden a great thing, and it is known to them that there is also one great thing \[at my place\]. If those two things were to unite with each other, at that time there would come forth a great thing. For a long time already treasures have been made ready for me—that they might give them to me—which I need. Their king himself wanted that I take his daughter as wife; and because I have not sent to them, they are angry with me and oppress me. Even on the road when I traveled to Frankfurt, they gave me pains in my legs so that I was not able to walk and had to be carried, saying these words: Since we are in difficulties, let it be that you be in difficulties too, as we are. But you did not want to be envoys to them.
 
-159\. [[Zohar 7.04 - Parashat Tsav#^z3-31a|Zohar 3.31a]], 37b
+159\. [[Zohar 7.04 - Parashat Tsav#^z3-31a|Zohar 3.31a]], [[Zohar 7.05 - Parashat Shemini#^z3-37b|37b]]
 
 
 *[p. ccclxvi]* ^pg366

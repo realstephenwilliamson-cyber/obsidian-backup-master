@@ -426,7 +426,7 @@ Having defined the power of the will with two aspects, he goes on to describe th
 svātmapratyavamarśo yah prāg abhūd ekavīrakaḥ ।
 jñātavyaviśvonmeṣātmā jñānaśaktitayā sthitaḥ ॥ 73 ॥ 
 
-The reflective awareness of one’s own nature that, prior (to its aroused state), dwelt alone without companion (ekavīraka), and is (at the same time) the expansion (unmeṣa) (U) of the (objective) universe which is (yet) to be known (jñātavya), abides as the power of knowledge. (73) (73cd- 74ab) 
+The reflective awareness of one’s own nature that, prior (to its aroused state), dwelt alone without companion (ekavīraka), and is (at the same time) the expansion (unmeṣa) (U) of the (objective) universe which is (yet) to be known (jñātavya), abides as the power of knowledge. (73) (73cd-74ab) 
 
 #### Viveka on 3.73–74
 

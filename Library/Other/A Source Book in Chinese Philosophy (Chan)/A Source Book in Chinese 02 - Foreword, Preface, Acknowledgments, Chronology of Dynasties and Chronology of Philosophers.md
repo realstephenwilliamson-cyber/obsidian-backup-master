@@ -4,7 +4,7 @@ work: "[[Chan (ed.) - A Source Book in Chinese Philosophy]]"
 book: "[[Library/Other/A Source Book in Chinese Philosophy (Chan)/A Source Book in Chinese Philosophy (Chan)|A Source Book in Chinese Philosophy (Chan)]]"
 order: 2
 source_pdf: Library/Other/Wing-Tsit Chan - A Source Book in Chinese Philosophy (1969).pdf
-page_range: 7–18
+page_range: vi–xvii
 pdf_pages: 7–18
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[A Source Book in Chinese 01 - Front matter|← previous]] · [[A Source Book in Chinese Philosophy (Chan)|contents]] · [[A Source Book in Chinese 03 - Contents|next →]]
 
-*[PDF 7]* ^pg7
+*[p. vi]* ^pg7
 
 ## This Page Intentionally Left Blank
 
@@ -100,7 +100,7 @@ IT IS DIFFICULT to say when the preparation of this book began. In 1948-1949 I w
 
 I wish also to thank the Harvard-Yenching Library and its Librarian, Dr. K'ai-ming A. Ch'iu, the East Asiatic Library of Columbia University and its Librarian, Mr. Howard P. Linton, the staff of Baker Library, especially its Reference Division, of Dartmouth College, and Miss Naomi Fukuda, Librarian of the International House of Japan, who has been most helpful in locating and microfilming Japanese works for me. The Ford Foundation, The Hazen Foundation, The Guggenheim Foundation, and The McInerny Foundation have generously made grants toward the publication of this book. I am deeply grateful to them. Needless to say, they are neither sponsors of the book nor responsible for its opinions, but their interest in promoting the study of Chinese philosophy is extremely encouraging. I am also grateful to the American Council of Learned Societies and the Social Science Research Council for a research grant in 1959 as well as to Dartmouth College for financial aid in preparing this book. To Columbia University Press I express my appreciation for its kind permission to use certain translations which I contributed to two of its publications, *Sources of Chinese Tradition,* already mentioned, and *Instructions for Practical Living, and Other Neo-Confucian Writings by Wang Yang-ming,* translated by myself. These translations form small parts of present chapters 19, 24, 26, 28-35. I have made some changes in them. Many friends have been keenly interested in this work and have provided much inspiration. I particularly appreciate the encouragement of Professor Edwin A. Burtt of Cornell University and Professor Alban G. Widgery of Duke University. My colleague Professor Arthur Dewing, whom I have interrupted many a time, has been most patient and sympathetic in answering my queries on English usage. Professor Kenneth K. S. Ch'en of Princeton University has given me valuable help on many Sanskrit words, as have Professor
 
-*[PDF 15]* ^pg15
+*[p. xiv]* ^pg15
 
 ACKNOWLEDGMENTS
 
@@ -112,7 +112,7 @@ WING-TSIT CHAN
 
 Dartmouth College January 1963
 
-*[PDF 16]* ^pg16
+*[p. xv]* ^pg16
 
 C H R O N O L O G Y OF D Y N A S T I E S
 
@@ -120,6 +120,6 @@ C H R O N O L O G Y OF D Y N A S T I E S
 
 C H R O N O L O G Y OF P H I L O S O P H E R S
 
-*[PDF 18]* ^pg18
+*[p. xvii]* ^pg18
 
 C O N T E M P O R A R Y P E R I O D

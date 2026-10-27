@@ -282,7 +282,7 @@ sarvās tatraiva (tadaiva) satata sāmarasyena yānty alam |
 
 *[p. 494]* ^pg507
 
-The Master's Sandals (pādukā) shine by themselves in the midst of these goddesses, and there itself they all perpetually attain oneness (sāmarasya). (46cd- 47ab) 
+The Master's Sandals (pādukā) shine by themselves in the midst of these goddesses, and there itself they all perpetually attain oneness (sāmarasya). (46cd-47ab) 
 
 iti sadguruvaktrotthayuktyā yo hy anirodhitaḥ (yenātiraudhitaḥ) ॥ 47 ॥
 samādhisevitaḥ śaśvat sa mahāmnāyapāragaḥ | 
@@ -405,7 +405,7 @@ The rays we mentioned previously, that have as their body the Wheel of Bliss, (e
 
 (energies) 
 
-of sixteen forms, the outpourings of consciousness, simultaneously attain a state of oneness (sāmarasya) in an instant within the abode of emptiness (viyatpada) which, free of the waves (of sensory activity and thought), is unmanifest, supreme, and known as the (Wheel of) Seventeen. (71cd- 73) 
+of sixteen forms, the outpourings of consciousness, simultaneously attain a state of oneness (sāmarasya) in an instant within the abode of emptiness (viyatpada) which, free of the waves (of sensory activity and thought), is unmanifest, supreme, and known as the (Wheel of) Seventeen. (71cd-73) 
 
 itthaṁ visphārayantīdaṁ yoginīcakram (yogini-) uttamam |
 saṁihārabhakṣiṇī devī bhāti saptadaśātmataḥ ॥ 74 ॥
@@ -1073,7 +1073,7 @@ tadbhakṣaṇaparaḥ (-bhakṣanah-) prokto bhāvābhāvatamojjhitaḥ ॥ 204
 nirupādhimahābodharaśmyullāsamayodayaḥ (-cayo-) ।
 etad (sa) evocyate sadbhiḥ saṁārākhyo ‘vyayakramaḥ ॥ 205 ॥ 
 
-Powerful \[illegible\] in eleven ways and free of the process of manifestation (kalanāvali), beyond the plane of good (yukta) and evil (ayukta), established in its own ever-active abode: this is said by the wise to be the eternal process known as Dissolution (saṁhāra). It is the arising (udaya of the process) consisting of the outpouring of the rays of the great, unconditioned consciousness that is said to be free of the darkness of being and nonbeing. It is intent on consuming thought that, perceived through the sequence of the manifest and unmanifest, abides at all times within the eleven energies of the letters beginning with PA and ending with HA (i.e., PA, PHA, BA, BHA, MA, YA, RA, LA, VA and HA) along with KṢA. (202- 205) 
+Powerful \[illegible\] in eleven ways and free of the process of manifestation (kalanāvali), beyond the plane of good (yukta) and evil (ayukta), established in its own ever-active abode: this is said by the wise to be the eternal process known as Dissolution (saṁhāra). It is the arising (udaya of the process) consisting of the outpouring of the rays of the great, unconditioned consciousness that is said to be free of the darkness of being and nonbeing. It is intent on consuming thought that, perceived through the sequence of the manifest and unmanifest, abides at all times within the eleven energies of the letters beginning with PA and ending with HA (i.e., PA, PHA, BA, BHA, MA, YA, RA, LA, VA and HA) along with KṢA. (202-205) 
 
 grāhyagrāhakavisphāro daśadhā yo vyavasthitaḥ |
 pratyāvṛttisvabhāvaikarīūpo nādodayānvitaḥ ॥ 206 ॥

@@ -150,7 +150,7 @@ impassioned (sarasa), they were like oceans and veritable jewel mines of many (g
 
 ### Dyczkowski's verse 22-23
 
-They attained great proficiency in the daily practice of devotion to Śiva. (They were) dedicated to the attainment of all goals. (Out of them,) Śivaratha, (Utpalaratha’s eldest son,) took up attendance to liberation (mokṣasevā) and (dedicated all) he had inherited from his father (to that end,) and resigned from his (ministerial) responsibilities. Having renounced (that,) he came to know the defects of wealth, and became devoid of attachment and free of clinging. (22- 23) 
+They attained great proficiency in the daily practice of devotion to Śiva. (They were) dedicated to the attainment of all goals. (Out of them,) Śivaratha, (Utpalaratha’s eldest son,) took up attendance to liberation (mokṣasevā) and (dedicated all) he had inherited from his father (to that end,) and resigned from his (ministerial) responsibilities. Having renounced (that,) he came to know the defects of wealth, and became devoid of attachment and free of clinging. (22-23) 
 
 ### Dyczkowski's verse 24
 
@@ -752,7 +752,7 @@ icchā (g: icchā) \[illegible\] (g: jñāna) tṛtīyā (g: \* \* \*?) tu (g: \
 
 APPENDIX B TO CHAPTER THIRTY-TWO 
 
-That supreme power is one, established as Śiva’s will, liberating from (the negative influences of) the planets etc and causes the mass of fetters to melt away. As she releases (mocana) and causes to melt away (drāvaṇa) that power is said to be called ‘mudrā’. As she moves perpetually on the Path of the Sky as the fate, intelligence and purpose of all living beings, she is said to be Khecarī. She should be known to be one as the supreme and is also said to be two-fold as will and knowledge. The third form she assumes is the letters (varna). (80cd- 83) 
+That supreme power is one, established as Śiva’s will, liberating from (the negative influences of) the planets etc and causes the mass of fetters to melt away. As she releases (mocana) and causes to melt away (drāvaṇa) that power is said to be called ‘mudrā’. As she moves perpetually on the Path of the Sky as the fate, intelligence and purpose of all living beings, she is said to be Khecarī. She should be known to be one as the supreme and is also said to be two-fold as will and knowledge. The third form she assumes is the letters (varna). (80cd-83) 
 
 ### Dyczkowski's verse 84-86
 
@@ -822,7 +822,7 @@ evan mudrāḥ samākhyātā vyāpitvam aprameyataḥ (k: -tāḥ; g: vyāpi \* 
 
 APPENDIX B TO CHAPTER THIRTY-TWO 
 
-The individual souls are without measure (that is, innumerable) in each one of the principles (tattva). Of many kinds, they are subtle. In the same way, Mudrās are innumerable. O Mudrā! Beloved! Everything is pervaded (by them and they) are most subtle. Such are the Mudrās said to be. (They are everywhere. Such is their) pervasion because they are (innumerable) without measure. There is (however) just one supreme Mudrā to which this universe belongs. Whatever limb it touches, that (limb) becomes this or that Mudrā. (95- 97) 
+The individual souls are without measure (that is, innumerable) in each one of the principles (tattva). Of many kinds, they are subtle. In the same way, Mudrās are innumerable. O Mudrā! Beloved! Everything is pervaded (by them and they) are most subtle. Such are the Mudrās said to be. (They are everywhere. Such is their) pervasion because they are (innumerable) without measure. There is (however) just one supreme Mudrā to which this universe belongs. Whatever limb it touches, that (limb) becomes this or that Mudrā. (95-97) 
 
 ### Dyczkowski's verse 98-101ab
 

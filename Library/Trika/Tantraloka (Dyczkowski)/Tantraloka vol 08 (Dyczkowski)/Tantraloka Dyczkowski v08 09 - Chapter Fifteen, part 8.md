@@ -53,7 +53,7 @@ Surely (one may ask), in saying this, what is being said with regards to the reg
 etair vākyair \[illegible\] coktaṁ samayī rājaputravat || 471 |
 sarvatraivādhikārī syāt putrakādipadatraye | 
 
-What is being said by these statements[^761] is that the ‘regular’ initiate is like a prince; he has the authority in all respects (to progress to all) three grades, comprising that of spiritual son and the rest. (471cd- 472ab) (469) 
+What is being said by these statements[^761] is that the ‘regular’ initiate is like a prince; he has the authority in all respects (to progress to all) three grades, comprising that of spiritual son and the rest. (471cd-472ab) (469) 
 
 #### Viveka on 15.469
 
@@ -72,7 +72,7 @@ adhikārī sa na punaḥ sādhane bhinnayojane |
 
 ### TĀ 15.470
 
-The spiritual son is equally conjoined (to the supreme principle,) as is the teacher. However, he is not competent to (apply) the means (to perform and participate in the rites which entail bringing about) various kinds of conjunctions (at various reality levels for a disciple).[^762] (472c- 473ab) (470) 
+The spiritual son is equally conjoined (to the supreme principle,) as is the teacher. However, he is not competent to (apply) the means (to perform and participate in the rites which entail bringing about) various kinds of conjunctions (at various reality levels for a disciple).[^762] (472c-473ab) (470) 
 
 #### Viveka on 15.470
 
@@ -172,7 +172,7 @@ Then, burning radiantly with the sixteen (energies of the Moon of inhalation), a
 āyātanidraḥ śiṣyo ‘sau nirmalau śaśibhāskarau |
 hṛccakre pratisaridhatte balāt pūrnakṛśātmakau ॥ 481 ॥ 
 
-When the disciple has (just) fallen asleep, he gathers together (and contemplates) forcefully in the wheel of (his) heart the pure Moon and Sun (of inhalation and exhalation) that are full and depleted. (481) (478cd- 479ab) 
+When the disciple has (just) fallen asleep, he gathers together (and contemplates) forcefully in the wheel of (his) heart the pure Moon and Sun (of inhalation and exhalation) that are full and depleted. (481) (478cd-479ab) 
 
 #### Viveka on 15.478–479
 
@@ -363,7 +363,7 @@ If, for example, a person is fāmasic only with respect to his food and sattvic 
 āyātaśaktipāto ‘pi dīkṣito ‘pi guṇasthiteḥ |
 vicitrātmā bhaved eva mukhye tv arthe samāhitaḥ ॥ 496 ॥ 
 
-Even a person who has received a descent of the power (of grace) and has been initiated, because (he is affected by the diverse) conditions of the qualities, (he himself is) varied (in his behaviour and intentions), but (even so, remains equally) attentive to (his) main purpose. (496) (493cd- 494ab) 
+Even a person who has received a descent of the power (of grace) and has been initiated, because (he is affected by the diverse) conditions of the qualities, (he himself is) varied (in his behaviour and intentions), but (even so, remains equally) attentive to (his) main purpose. (496) (493cd-494ab) 
 
 #### Viveka on 15.493–494
 
@@ -531,7 +531,7 @@ The seven Soma sacrifices” are the 30) Agniṣtoma, 31) the one beginning with
 
 the Āptoryāma, and the 36) Atirātra.” Then comes 37) the Hiranyapāda \[illegible\] sacrifice, which is repeated a thousand (times), and finally the horse sacrifice (AśŚvamedha), which is the thirty-eighth, with which one comes to the end of the stage of the householder (gṛhastha). Then come the two stages of 39) the forest dweller (vanaprastha) and 40)the renouncer (वग) 2570). ।
 
-After this come the eight qualities of the Self, that is, (41) 1) compassion (for all creatures) (dayā), (42) 2) forbearance (kṣamā), (43) 3) freedom from spite (anasūyā), (44) 4) purity \[illegible\] (45) 5) doing good (to others) \[illegible\] (46) 6) (doing what is) auspicious (maṅgala), (47) 7) generosity (akārpaṇnya) (48) 8) and absence of craving (aspṛha). (500cd- 508ab) (498-505) 
+After this come the eight qualities of the Self, that is, (41) 1) compassion (for all creatures) (dayā), (42) 2) forbearance (kṣamā), (43) 3) freedom from spite (anasūyā), (44) 4) purity \[illegible\] (45) 5) doing good (to others) \[illegible\] (46) 6) (doing what is) auspicious (maṅgala), (47) 7) generosity (akārpaṇnya) (48) 8) and absence of craving (aspṛha). (500cd-508ab) (498-505) 
 
 #### Viveka on 15.498–505
 
@@ -1036,7 +1036,7 @@ na yonisaṁbandhakṛto laukikaḥ sa paśur yataḥ ॥ 538 ॥
 tasyābhiṣvaṁgabhūmis tu gurvārādhanasiddhaye |
 arcyo na svamahimnā tu tadvargo guruvat punaḥ ॥ 539 ॥ 
 
-\*»{(The regular initiate) should always worship the assembly (cakra) of deities, the fire, and the scriptures, as the common (sāmya) (practice).\* He should not eat anything that has not been offered to them.\*" He should not steal (apaharet) the sacrificial substance”? (offered) to them. He should worship the teacher’s (spiritual) family (guruvarga). (He should be aware that) that is (his spiritual family,) consisting of his brothers, wife and sons (tuk), (but) it is made (by the bonds) of (spiritual) knowledge \[illegible\] it is not formed by common ancestry (yonisaṁbandha), for (one who is related in this way) is a worldly fettered soul.” The person for whom the teacher has a special affection should be worshipped to please him, not for his own greatness, and his family should be worshipped, as is the teacher. (536cd- 539) (534-537ab) 
+\*»{(The regular initiate) should always worship the assembly (cakra) of deities, the fire, and the scriptures, as the common (sāmya) (practice).\* He should not eat anything that has not been offered to them.\*" He should not steal (apaharet) the sacrificial substance”? (offered) to them. He should worship the teacher’s (spiritual) family (guruvarga). (He should be aware that) that is (his spiritual family,) consisting of his brothers, wife and sons (tuk), (but) it is made (by the bonds) of (spiritual) knowledge \[illegible\] it is not formed by common ancestry (yonisaṁbandha), for (one who is related in this way) is a worldly fettered soul.” The person for whom the teacher has a special affection should be worshipped to please him, not for his own greatness, and his family should be worshipped, as is the teacher. (536cd-539) (534-537ab) 
 
 #### Viveka on 15.534–537
 
@@ -1118,7 +1118,7 @@ sarvato ‘vasthitaṁ cittvaṁ jñeyasthaṁ yasya tatkathā ॥ 547 ॥ sadya
 \*íIt is also said in the venerable Traiśirasa: ‘Even if by observing the penances (called) krechra, cāndrāyaṇa[^847] and the like, (one lives) in a forest (and is so absorbed in meditation so as to appear to be as inert) as a 
 
 [^846]: 15/544ed-549 (540cd-545) is certainly drawn from Trisirobhairavatantra. Abhinava says that is also said’ in the Trisirobhairava (15/544cd (540cd)). This may mean that what has been stated before (i.e. in 15/538-544cd (534-540ab) is drawn from there and what follows is ‘also said’ there.
-[^847]: These are types of penances that essentially involve long fasts. See Brunner-Lachaux 1985: 410-411. As they are similar in this respect, these two penances — kṛcchra and cādrāyana — are commonly mentioned together. The earliest Saiddhāntika works concerning the rites of reparation were compendiums (nibandha) made up of extracts from the Siddhāntāgamas. Two have been published together and both are called Prāyaścittasamuccaya. The earliest which belongs to the eleventh century or a little earlier is by Hṛdayaśiva, and the other belonging to the twelfth century by Trilocanaśiva (see bibliography). The former presents the prescriptions that concern them from chapter forty-five of the Kiraṇatantra (chapter 15); the chapter on penance in the Sarvasvacchanda consisting of twelve thousand (15 (34)). (Note that this is not the Svacchandatantra) and the common, general procedure (sāmānyaprāyaścittavidhāna) called Āgneya in the Vātulatantra (44). They are defined by the twelfth century by Trilocanaśiva in his Prāyaścittasamuccaya (see bibliography) as follows: ‘For half a month, in the bright (fortnight), one should increase (one's food each day) by a mouthful (grāsavṛddhi); and in the darkening (fortnight) one should decrease (it by the same amount). (Thus,) the manner of performing cāndrāyana has been taught. (There is also a) water-based cāndrāyana, in which one increases and decreases by a mouthful) just of water.’ (777) ‘He should eat one meal a day for three days, (then) for three days (only) what is (offered to him) un-begged, (then) he should eat at night for three days, (and finally) he should consume (only) air for three days. Thus is the krechra taught, which is (also) called \[illegible\] त." (178-779ab) Varieties of these penances (also called ‘vows’ — vrara ibid. 85cd) are described in the verses that follow up to 82ab. They are prescribed for one who shouts at or strikes his teacher (134cd-136). The krechra fast is prescribed, for example, for cating from the plate of a menstruating woman (286cd), as it is for touching someone who has committed grave sins (mahāpātaka) (273ab 399cd-404), a Brahmin who eats the food of a \[illegible\] (31cd-320), smelling the scent of liquor (385cd-386ab), stealing black beans (391), and for larger thefts, both (415- 419ab).
+[^847]: These are types of penances that essentially involve long fasts. See Brunner-Lachaux 1985: 410-411. As they are similar in this respect, these two penances — kṛcchra and cādrāyana — are commonly mentioned together. The earliest Saiddhāntika works concerning the rites of reparation were compendiums (nibandha) made up of extracts from the Siddhāntāgamas. Two have been published together and both are called Prāyaścittasamuccaya. The earliest which belongs to the eleventh century or a little earlier is by Hṛdayaśiva, and the other belonging to the twelfth century by Trilocanaśiva (see bibliography). The former presents the prescriptions that concern them from chapter forty-five of the Kiraṇatantra (chapter 15); the chapter on penance in the Sarvasvacchanda consisting of twelve thousand (15 (34)). (Note that this is not the Svacchandatantra) and the common, general procedure (sāmānyaprāyaścittavidhāna) called Āgneya in the Vātulatantra (44). They are defined by the twelfth century by Trilocanaśiva in his Prāyaścittasamuccaya (see bibliography) as follows: ‘For half a month, in the bright (fortnight), one should increase (one's food each day) by a mouthful (grāsavṛddhi); and in the darkening (fortnight) one should decrease (it by the same amount). (Thus,) the manner of performing cāndrāyana has been taught. (There is also a) water-based cāndrāyana, in which one increases and decreases by a mouthful) just of water.’ (777) ‘He should eat one meal a day for three days, (then) for three days (only) what is (offered to him) un-begged, (then) he should eat at night for three days, (and finally) he should consume (only) air for three days. Thus is the krechra taught, which is (also) called \[illegible\] त." (178-779ab) Varieties of these penances (also called ‘vows’ — vrara ibid. 85cd) are described in the verses that follow up to 82ab. They are prescribed for one who shouts at or strikes his teacher (134cd-136). The krechra fast is prescribed, for example, for cating from the plate of a menstruating woman (286cd), as it is for touching someone who has committed grave sins (mahāpātaka) (273ab 399cd-404), a Brahmin who eats the food of a \[illegible\] (31cd-320), smelling the scent of liquor (385cd-386ab), stealing black beans (391), and for larger thefts, both (415-419ab).
 
 *[p. 325]* ^pg343
 

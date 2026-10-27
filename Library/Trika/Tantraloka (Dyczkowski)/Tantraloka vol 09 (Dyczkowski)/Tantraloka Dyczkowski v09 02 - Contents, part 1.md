@@ -38,7 +38,7 @@ The Brahmavidyā Recited by a Fellow Initiate to Liberate Him.
 
 Possible Objections and Response, verses 31cd-39 (39cd-40ab), (47) (47cd-48ab) - (50) (50cd-51ab), pages 220-224 
 
-The Liberating Awakening of the Dying Man, verses 40-46 (40cd- 47ab), pages 224-228 The Dying Man Can Impart the Initiation to Himself, verses 51-55 (51cd-56), pages 228-230 
+The Liberating Awakening of the Dying Man, verses 40-46 (40cd-47ab), pages 224-228 The Dying Man Can Impart the Initiation to Himself, verses 51-55 (51cd-56), pages 228-230 
 
 CHAPTER TWENTY 
 

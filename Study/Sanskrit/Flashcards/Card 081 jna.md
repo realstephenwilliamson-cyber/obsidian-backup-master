@@ -17,6 +17,8 @@ nyasa: "ja: left hand (*kara*) · ña: left fingernails (*nakha*)"
 
 **Card 81 of 108** (printed: Card 3-21 · Alpha 45) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ज्ञ

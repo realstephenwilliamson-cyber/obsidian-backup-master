@@ -24,7 +24,7 @@ converted: 2026-10-26
 
 <sup>\*</sup>*Agnipurana\* of Maharsi\* Vedavyasa\*. Ed. Acharya\* Baladeva Upadhyaya\*. Varanasi: Chowkhamba* Sanskrit Series Office, 1966. Kashi Sanskrit Series 174.
 
-*Agni Puranam*\*. 2 vols. Trans. Manmatha Nath\* Dutt Shastri\*. Varanasi: Chowkhamba Sanskrit Series Office, 1967. Chowkhamba San-skrit Studies, vol. 54. *Amarakosa*\*
+*Agni Puranam*\*. 2 vols. Trans. Manmatha Nath\* Dutt Shastri\*. Varanasi: Chowkhamba Sanskrit Series Office, 1967. Chowkhamba Sanskrit Studies, vol. 54. *Amarakosa*\*
 
 *Amarakosa*\* *with the Commentary of Mahesvara*\* *enlarged by Raghunath Shastri Talekar.* Ed. Chintamani Shastri Thatte. Bombay: Government Central Book Depot, 1886.
 
@@ -66,7 +66,7 @@ converted: 2026-10-26
 
 <sup>\*</sup>*The Devi-Mahatmyam*\* *or Sri*\* *Durga-Saptasati\* (700 Mantras on Sri*\* *Durga*\*). \[With Sanskrit text.\] Trans. Jagad*isvarananda\*. Madras: Sri Ramakrishna Math, 1969.*
 
-*Durgasaptasati*\* *with Seven Sanskrit Commentaries: Durgapradipa\*—Guptavati*\*—*Caturdhari\*—Santanavi\*—Nagojibhatti\*—* *Jagaccandracandrika\*—Damsod-dhara\*. Ed. Vyankataramatmaja\* Harikrsnasarma\*. Delhi: Butala and Co., 1984.*
+*Durgasaptasati*\* *with Seven Sanskrit Commentaries: Durgapradipa\*—Guptavati*\*—*Caturdhari\*—Santanavi\*—Nagojibhatti\*—* *Jagaccandracandrika\*—Damsoddhara\*. Ed. Vyankataramatmaja\* Harikrsnasarma\*. Delhi: Butala and Co., 1984.*
 
 *sri*\* *saptasati*\* *gita*\**(durga\*)*. Banaras: Srimati\* Vidyadevi\*, 1941. Vani-Pustaka-Mala\*, no. 3.
 
@@ -78,7 +78,7 @@ converted: 2026-10-26
 
 <sup>\*</sup>*Srigarudamahapuranam\*.* Ed. Ramatejapandeya\*. Kashi: Pandita-Pustakalaya\*, 1963.
 
-*The Garuda-Puranam\*.* Trans. Manmatha Nath Dutt Shastri\*. Varanasi: Chowkhamba Sanskrit Series Office, 1968. Chowkhamba San-skrit Studies, vol. 67. *Harivamsa*\*
+*The Garuda-Puranam\*.* Trans. Manmatha Nath Dutt Shastri\*. Varanasi: Chowkhamba Sanskrit Series Office, 1968. Chowkhamba Sanskrit Studies, vol. 67. *Harivamsa*\*
 
 *The Harivamsa*\* *Being the Khila or Supplement to the Mahabharata*\*. 2 vols. Crit. ed. Parashuram Lakshman Vaidya. Poona: Bhandarkar Oriental Research Institute, 1969, 1971.
 
@@ -120,13 +120,13 @@ Jiva\* Gosvamin\*. *Tattvasandarbha\*. In Jiva*\* *Gosvamin's*\* *Tattvasa
 
 *The Mahabharata*\* \[Books 1-5\]. 3 vols. Trans. and ed. J. A. B. van Buitenen. Chicago: University of Chicago Press, 1973-78.
 
-*The Mahabharata of Krishna-Dwaipayana Vyasa.* 12 vols. Trans. Kisari Mohan Ganguli. 3rd improved ed. New Delhi: Munshiram Mano-harlal, 1972-75. Orig. pub. 1883-96.
+*The Mahabharata of Krishna-Dwaipayana Vyasa.* 12 vols. Trans. Kisari Mohan Ganguli. 3rd improved ed. New Delhi: Munshiram Manoharlal, 1972-75. Orig. pub. 1883-96.
 
 *Maitri*\* *Upanisad*\*
 
 *Maitri*\* *Upanisad*\*. In *The Principal Upanisads*\* \[with Sanskrit text\], ed. and trans. S. Radhakrishnan. London: George Allen & Unwin, 1953. Reprint 1968. *Manu-Smrti*\*
 
-<sup>\*</sup>*manusmrtih\* (medhatithibhasya\* samalankrta\*). 2 vols. Calcutta: Mana-sukharay\* More, 1967, 1971. Gurumandal\* Series, no. 24.* *The Laws of Manu.* Trans. Georg Bühler. Oxford: Clarendon Press, 1886. Sacred Books of the East, vol. 25. Reprint, New York: Dover Publications, 1969. *Markandeya*\* *Purana*\*
+<sup>\*</sup>*manusmrtih\* (medhatithibhasya\* samalankrta\*). 2 vols. Calcutta: Manasukharay\* More, 1967, 1971. Gurumandal\* Series, no. 24.* *The Laws of Manu.* Trans. Georg Bühler. Oxford: Clarendon Press, 1886. Sacred Books of the East, vol. 25. Reprint, New York: Dover Publications, 1969. *Markandeya*\* *Purana*\*
 
 *The Markandeyamahapuranam\*.* \[Bombay:\] Venkatesvara\* Press. Reprint, arranged by Nag Sharma Singh; Delhi: Nag Publishers, n.d.
 
@@ -290,7 +290,7 @@ Chemburkar, Jaya. "Uma\* Haimavati\* Myth in the Devi\* Bhagavata\*—A�
 
 Choudhuri, Usha. *Indra and Varuna in Indian Mythology.* Delhi: Nag Publishers, 1981.
 
-Clooney, Francis X. "Sacrifice and Its Spiritualization in-the Christian and Hindu Traditions: A Study in Comparative Theology." *Harvard Theological Review* 78: 361-80. 1985.
+Clooney, Francis X. "Sacrifice and Its Spiritualization in the Christian and Hindu Traditions: A Study in Comparative Theology." *Harvard Theological Review* 78: 361-80. 1985.
 
 Coburn, Thomas B. "Consort of None, Sakti\* of All: The Vision of the *Devi-Mahatmya*\*." In *The Divine Consort; Radha*\* *and the Goddesses of India,* ed. John Stratton Hawley and Donna Marie Wulff, 153-65. Berkeley: Graduate Theological Union, 1982.
 
@@ -308,7 +308,7 @@ Dange, Sadashiv Ambadas. *Legends in the Mahabharata* \**, with (A Bri
 
 Dange, Sindhu S. *The Bhagavata*\* *Purana*\**; Mytho-Social Study.* Delhi: Ajanta Publications, 1984.
 
-De, Sushil Kumar. *Early History of the Vaisnava Faith and Movement in Bengal, from Sanskrit and Bengali Sources.* Calcutta: Firma K. L. Mukho-padhyay, 1961.
+De, Sushil Kumar. *Early History of the Vaisnava Faith and Movement in Bengal, from Sanskrit and Bengali Sources.* Calcutta: Firma K. L. Mukhopadhyay, 1961.
 
 Desai, Nileshvari Y. *Ancient Indian Society, Religion and Mythology as Depicted in the Markandeya-Purana\* (A Critical Study*). Baroda: M. S. University of Baroda, 1968.
 
@@ -336,7 +336,7 @@ bharata. \* New York: Columbia University Press, 1977. Studies in Orie
 
 Gonda, J. *Aspects of Early Visnuism\*. Utrecht: A. Oosthoek, 1954.*
 
-———. *Medieval Religious Literature in Sanskrit.* Wiesbaden: Otto Harras-sowitz, 1977. A History of Indian Literature, vol. 2, fasc. 1.
+———. *Medieval Religious Literature in Sanskrit.* Wiesbaden: Otto Harrassowitz, 1977. A History of Indian Literature, vol. 2, fasc. 1.
 
 Goudriaan, Teun, and Sanjukta Gupta. *Hindu Tantrio and Sakta*\* *Literature.* Wiesbaden: Otto Harrassowitz, 1981. A History of Indian Literature, vol. 2, fasc. 2. Gupta, Anand Swarup. ''Puranas\* and Their Referencing." Purana\* 7:321-51. 1965.
 
@@ -492,7 +492,7 @@ Vora, Dhairyabala P. *Evolution of Morals in the Epics (Mahabharata*\*�
 
 Wadley, Susan Snow. *Shakti; Power in the Conceptual Structure of Karimpur Religion.* Chicago: University of Chicago Press, 1975.
 
-Wayman, Alex. "The Significance of Mantra-s, from the Veda down to Buddhist Tantric Practice." *Adyar Library Bulletin* 39:65-89. 1975.
+Wayman, Alex. "The Significance of Mantras, from the Veda down to Buddhist Tantric Practice." *Adyar Library Bulletin* 39:65-89. 1975.
 
 Weber, Albrecht. *Indische Studien; Zeitschrift für die Kunde des indische Alterthums.* Vol. 1. Berlin: 1850. Reprint, Hildesheim, New York: Georg Olms Verlag, 1973.
 

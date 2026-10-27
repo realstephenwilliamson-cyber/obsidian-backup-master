@@ -938,7 +938,7 @@ Chapter 14: *Zeʿeir Anpin* Comes into Being
 
 12\. Hellner-Eshed, *A River Flows from Eden*, 229–251.
 
-13\. See also the Idra Zuṭa, [[Zohar 9.15 - Idra Zuta#^z3-289b|Zohar 3:289b]], 291a, 296a. My teacher Yehuda Liebes pointed out to me that this account is reminiscent of the structure of the upper and lower brain, the latter extending into the spinal cord.
+13\. See also the Idra Zuṭa, [[Zohar 9.15 - Idra Zuta#^z3-289b|Zohar 3:289b]], [[Zohar 9.15 - Idra Zuta#^z3-291a|291a]], [[Zohar 9.15 - Idra Zuta#^z3-296a|296a]]. My teacher Yehuda Liebes pointed out to me that this account is reminiscent of the structure of the upper and lower brain, the latter extending into the spinal cord.
 
 *[p. 414]* ^pg426
 

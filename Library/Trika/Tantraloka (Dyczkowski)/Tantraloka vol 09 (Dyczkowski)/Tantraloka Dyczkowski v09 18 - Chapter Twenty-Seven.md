@@ -974,7 +974,7 @@ hurattāpradhānam, na tu prāgvat śāmbhavaprakāśa-viśrāntyātma,
 jñānaśaktyā dehādipramātṛtāpraśamanonmagnasamividā gamyate prāpyate | kīdṛśyā na vidyate rāvo mantraviśeṣoccāradhvanir yasya tādṛg yo rāvaḥ sahajo nādāmarśas tena rāvinyā pronmiṣat-parāhaṁivimarśarūpayā |
 kīdṛśaṁ jñānam ity āha dhvaner nādāmarśasya bhāvaḥ sattā, tadanusaraṇami tanmayībhāvam prāptam || 
 
-‘Such is the supreme Light. Now the subtle (form of Yoga) will be taught. The knowledge that is in consonance with the resonant state (of consciousness) that is subtle and made of Śakti is understood by the power of knowledge that is the resounding (energy) (rāvinī) of the sound of silence.” (22- 23ab) 
+‘Such is the supreme Light. Now the subtle (form of Yoga) will be taught. The knowledge that is in consonance with the resonant state (of consciousness) that is subtle and made of Śakti is understood by the power of knowledge that is the resounding (energy) (rāvinī) of the sound of silence.” (22-23ab) 
 
 #### Viveka on Dyczkowski's verse 22-23ab
 

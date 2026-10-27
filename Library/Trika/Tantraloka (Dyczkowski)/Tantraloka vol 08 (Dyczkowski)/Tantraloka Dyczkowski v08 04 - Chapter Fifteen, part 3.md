@@ -489,7 +489,7 @@ Surely (one may ask), how could this be possible by mere ritual alone? With this
 vināpi jñānayogābhyāṁ kriyā nyāsārcanādikā ॥ 154 ॥
 ittham aikyasamāpattidānāt paraphalapradā | 
 
-(Thus) ritual, which comprises the deposition (of Mantras) (nyāsa), worship (arcana) and the rest, grants, even without (cultivating) knowledge and (practicing) Yoga, the supreme fruit (of liberation) because, (performed) in this way, it imparts the realization of oneness. (154cd- 155ab) 
+(Thus) ritual, which comprises the deposition (of Mantras) (nyāsa), worship (arcana) and the rest, grants, even without (cultivating) knowledge and (practicing) Yoga, the supreme fruit (of liberation) because, (performed) in this way, it imparts the realization of oneness. (154cd-155ab) 
 
 #### Viveka on 15.154–155
 
@@ -699,7 +699,7 @@ anena nayayogena yadāsattividūrate ॥ 165 ॥
 
 saṁvid eti tadā tatra yogyāyogyatvam ādiset | 
 
-On the basis of this principle, something is indicated as being suitable or unsuitable (to be offered in the) sacrifice to the degree in which it comes closer or becomes more distant from consciousness.” (165cd- 166ab) 
+On the basis of this principle, something is indicated as being suitable or unsuitable (to be offered in the) sacrifice to the degree in which it comes closer or becomes more distant from consciousness.” (165cd-166ab) 
 
 #### Viveka on 15.165–166
 

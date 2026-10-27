@@ -213,7 +213,7 @@ and dissolving away (drāvaṇa) (phenomenal, conditioned forms), he assembles a
 
 *[p. 238]* ^pg251
 
-fettered state. It is there (in this agent) that the ego dissolves away.” (165- 167) 
+fettered state. It is there (in this agent) that the ego dissolves away.” (165-167) 
 
 #### Viveka on 4.165–167
 

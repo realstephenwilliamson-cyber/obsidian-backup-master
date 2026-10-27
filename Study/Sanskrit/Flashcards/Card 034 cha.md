@@ -17,6 +17,8 @@ nyasa: "left arm (*bāhu*)"
 
 **Card 34 of 108** (printed: Card 2-7 · Alpha 42) · consonant · the letter: [[Letter 23 cha|छ cha]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** छ

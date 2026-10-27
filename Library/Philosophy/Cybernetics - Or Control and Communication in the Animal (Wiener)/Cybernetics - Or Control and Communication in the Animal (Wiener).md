@@ -17,10 +17,10 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Cybernetics - Or Control 01 - Front matter|Front matter (Norbert)]] (pp. 1)
-- [[Cybernetics - Or Control 02 - Front matter, Preface to the Second Edition, Contents and Introduction|Front matter, Preface to the Second Edition, Contents and Introduction]] (pp. vii–27)
+- [[Cybernetics - Or Control 01 - Front matter|Front matter (Norbert)]] (PDF 1)
+- [[Cybernetics - Or Control 02 - Front matter, Preface to the Second Edition, Contents and Introduction|Front matter, Preface to the Second Edition, Contents and Introduction]] (pp. vi–27)
 - [[Cybernetics - Or Control 03 - Introduction (end), Chapters I-III, Newtonian and Bergsonian Time - Time Series, Information|Introduction (end), Chapters I–III, Newtonian and Bergsonian Time – Time Series, Information]] (pp. 28–72)
-- [[Cybernetics - Or Control 04 - III. Time Series, Information, and Communication (continued)|III. Time Series, Information, and Communication (continued)]] (pp. 13–15)
-- [[Cybernetics - Or Control 05 - Chapter III (end), Chapters IV-V, Feedback and Oscillation - Computing Machines|Chapter III (end), Chapters IV–V, Feedback and Oscillation – Computing Machines]] (pp. 78–121)
+- [[Cybernetics - Or Control 04 - III. Time Series, Information, and Communication (continued)|III. Time Series, Information, and Communication (continued)]] (pp. 73–75)
+- [[Cybernetics - Or Control 05 - Chapter III (end), Chapters IV-V, Feedback and Oscillation - Computing Machines|Chapter III (end), Chapters IV–V, Feedback and Oscillation – Computing Machines]] (pp. 76–121)
 - [[Cybernetics - Or Control 06 - Chapter V (end), Chapters VI-VIII, Gestalt and Universals - Information, Language, and Society|Chapter V (end), Chapters VI–VIII, Gestalt and Universals – Information, Language, and Society]] (pp. 122–167)
 - [[Cybernetics - Or Control 07 - Chapters IX-X and Index, On Learning and Self-Reproducing Machines - Brain Waves|Chapters IX–X and Index, On Learning and Self-Reproducing Machines – Brain Waves]] (pp. 168–212)

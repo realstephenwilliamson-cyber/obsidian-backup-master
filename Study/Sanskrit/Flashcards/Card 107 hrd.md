@@ -17,6 +17,8 @@ nyasa: "ha: breath (*prāṇa*) · ṛ: right nostril (*nāsā*) · da: left foo
 
 **Card 107 of 108** (printed: Card 3-47 · Alpha 102) · word
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** हृद्

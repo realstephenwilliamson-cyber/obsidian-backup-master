@@ -941,7 +941,7 @@ Rabbi Yehudah said, “Happy are Israel, for the blessed Holy One protects them 
 
 [^137]: **King David uttered this… as he fled from his father-in-law** As David fled from King Saul in desperation ([[I Samuel 19#^19-1|1 Samuel 19]]–24). The Midrash cites this verse to indicate David’s self-perception as a poor man. See *Vayiqra Rabbah* 30:3; *Pesiqta de-Rav Kahana* 27:3; *Midrash Tehillim* 102:1.
 
-[^138]: **a prayer preceding all prayers of the world** See *Vayiqra Rabbah* 3:2; *Zohar* [[Zohar 1.023b|1:23b]] (*TZ*); 3:195a.
+[^138]: **a prayer preceding all prayers of the world** See *Vayiqra Rabbah* 3:2; *Zohar* [[Zohar 1.023b|1:23b]] (*TZ*); [[Zohar 9.10 - Commentary on Balaq, continued#^z3-195a|3:195a]].
 
 [^139]: ***tefillah*, phylactery, of the hand… *tefillah* of the head** The word תפלה (*tefillah*) means both “prayer” and “phylactery.” The *tefillin* (“phylacteries”) consist of two black leather boxes containing passages from the Torah ([[Torah 15 - Bo#^13-1|Exodus 13:1–10]], 11–16; [[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4–9]]; [[Torah 46 - Eikev#^11-13|11:13–21]]) written on parchment. They are bound by black leather straps on the left arm and on the head, and are worn during weekday morning services. Each of the biblical passages indicates that the Israelites should place a sign upon their hand and a frontlet (or reminder) between their eyes.
 
@@ -2089,7 +2089,7 @@ Rabbi Yehudah said, “Happy are Israel, for the blessed Holy One protects them 
 
 [^554]: **Within these songs… lie mysteries…** The Psalms contain mysteries of wisdom and divine names, as described in the magical text *Shimmushei Tehillim*. See Scholem, *Kabbalah*, 20–21, 359.
 
-[^555]: **Holy Spirit alighted upon David and he sang** See BT *Pesaḥim* [[Pesachim 117#117a|117a]]; *Midrash Tehillim* 24:1, 3; Rashi on [[Psalms 023#^23-1|Psalms 23:1]]; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]], 67a; 2:50a, 140a, 170a.
+[^555]: **Holy Spirit alighted upon David and he sang** See BT *Pesaḥim* [[Pesachim 117#117a|117a]]; *Midrash Tehillim* 24:1, 3; Rashi on [[Psalms 023#^23-1|Psalms 23:1]]; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]], [[Zohar 1.08 - Parashat Noah#^z1-67a|67a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-50a|2:50a]], [[Zohar 5.05 - Parashat Terumah#^z2-140a|140a]], [[Zohar 5.05 - Parashat Terumah#^z2-170a|170a]].
 
 [^556]: **verse should read: *They pushed me hard*** Referring to the psalmist’s enemies, who are described in the third person in the preceding verses.
 

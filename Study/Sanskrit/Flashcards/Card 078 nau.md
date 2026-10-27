@@ -17,6 +17,8 @@ nyasa: "na: left toenails (*nakha*) · au: upper lip (*oṣṭha*)"
 
 **Card 78 of 108** (printed: Card 3-18 · Alpha 73) · consonant + vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** नौ

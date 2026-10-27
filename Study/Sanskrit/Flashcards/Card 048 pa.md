@@ -17,6 +17,8 @@ nyasa: "right side (*pārśva*)"
 
 **Card 48 of 108** (printed: Card 2-21 · Alpha 74) · consonant · the letter: [[Letter 37 pa|प pa]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** प

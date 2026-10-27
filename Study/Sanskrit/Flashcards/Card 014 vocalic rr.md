@@ -17,6 +17,8 @@ nyasa: "left nostril (*nāsā*)"
 
 **Card 14 of 108** (printed: Card 1-14 · Alpha 16) · vowel · the letter: [[Letter 08 vocalic rr|ॠ ṝ]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ॠ

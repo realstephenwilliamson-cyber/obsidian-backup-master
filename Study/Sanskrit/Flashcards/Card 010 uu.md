@@ -17,6 +17,8 @@ nyasa: "left ear (*karṇa*)"
 
 **Card 10 of 108** (printed: Card 1-10 · Alpha 12) · vowel · the letter: [[Letter 06 uu|ऊ ū]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ऊ

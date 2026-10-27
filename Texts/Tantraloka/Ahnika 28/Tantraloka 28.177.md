@@ -27,7 +27,7 @@ nādāntaṃ samanāntaṃ cāpyunmanāntaṃ kramāt trayam || ^iast
 > [!source] Dyczkowski, vol. X
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#^pg97|p. 80]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=97>))
 >
-> Now, after (uttering) vausat, he should offer the thread, that ends (at the level of the) Point, and (then) successively the three that ends, (respectively,) with Sound (nādānta), the Equal One (samanānta), and the Transmental (unmanānta). The householder (bhauktika) should offer (these) four (threads) in this way in the (forward) sequence (of emanation), and the renouncer (naiṣthika) in the reverse (sequence of withdrawal). (with 28.177–178)
+> Now, after (uttering) vauṣaṭ, he should offer the thread, that ends (at the level of the) Point, and (then) successively the three that ends, (respectively,) with Sound (nādānta), the Equal One (samanānta), and the Transmental (unmanānta). The householder (bhauktika) should offer (these) four (threads) in this way in the (forward) sequence (of emanation), and the renouncer (naiṣṭhika) in the reverse (sequence of withdrawal). (with 28.177–178)
 
 ## Viveka
 

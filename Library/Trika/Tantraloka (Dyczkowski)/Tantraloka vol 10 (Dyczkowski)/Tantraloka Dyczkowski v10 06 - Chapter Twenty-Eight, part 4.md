@@ -28,7 +28,7 @@ araona tāny api dvividhāni ca ॥ 281 ॥
 yāni jātucid apy eva noditāni punaḥ svāsthye |
 asvāsthye dhātudoṣotthāny eva tadbhogamātrakam I| 282 ॥ 
 
-And those also are of two kinds. (For the spiritually advanced,) those (falls) that would certainly not occur when in good health?” (may) arise due to defects (in the balance of the body’s) constitutive elements when sick. (However,) they are just the bare experience (which is a consequence) of that (fall, with no further Karmic consequences). (281d- 282) 
+And those also are of two kinds. (For the spiritually advanced,) those (falls) that would certainly not occur when in good health?” (may) arise due to defects (in the balance of the body’s) constitutive elements when sick. (However,) they are just the bare experience (which is a consequence) of that (fall, with no further Karmic consequences). (281d-282) 
 
 #### Viveka on 28.281–282
 
@@ -314,7 +314,7 @@ pūrve śivāḥ syuḥ kramaśaḥ pare tadbhogamātrataḥ ॥ 301 ॥
 dīkṣāpy ūrdhvādharānekabhedayojanikāvaśāt |
 bhidyamānā yoginār syād vicitraphaladāyinī I| 302 ॥ 
 
-The yogis (who die) in this way, that is, as if moving into another person’s body etc., and move within the bodies of this and that reality level, are not dull (and unawake). And those too should be known to be of two kinds: worldly (laukika) and initiated. The first gradually become one with Śiva. The others (become Śiva) by just experiencing (and hence exhausting) the consequences of (their Karma). The initiation yogis receive also varies, because it conjoins to many different (reality levels and worlds, both) above and below, and bestows varied and wonderful fruits (accordingly). (300- 302) 
+The yogis (who die) in this way, that is, as if moving into another person’s body etc., and move within the bodies of this and that reality level, are not dull (and unawake). And those too should be known to be of two kinds: worldly (laukika) and initiated. The first gradually become one with Śiva. The others (become Śiva) by just experiencing (and hence exhausting) the consequences of (their Karma). The initiation yogis receive also varies, because it conjoins to many different (reality levels and worlds, both) above and below, and bestows varied and wonderful fruits (accordingly). (300-302) 
 
 #### Viveka on 28.300–302
 
@@ -1216,7 +1216,7 @@ Surely, even so, it is well known everywhere (according to all philosophies) tha
 ya evaite tu dṛśyante jāgraty ete mayekṣitāḥ || 356 ॥
 svapna ity astu mithyaitat tatpramātrvacobalāt | 
 
-(The affirmation) that “the things I have seen in a dream are those seen when awake” is false is (sustained only) on the strength of the words of those perceivers (first seen in the dream and then when awake). (356cd- 357ab) 
+(The affirmation) that “the things I have seen in a dream are those seen when awake” is false is (sustained only) on the strength of the words of those perceivers (first seen in the dream and then when awake). (356cd-357ab) 
 
 #### Viveka on 28.356–357
 

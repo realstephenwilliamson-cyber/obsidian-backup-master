@@ -2008,7 +2008,7 @@ He replied, “Go ask a physician! Come and see what is written: *Joseph ordered
 
 [^149]: **except for this** This extreme formulation seems to contradict rabbinic teaching on the universal power of repentance.
 
-    See JT *Pe’ah* 1:1, 16b; *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-106a|2:106a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-78b|3:78b]]; and on the issue here, *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-62a|1:62a]] (Vol. 1, pp. 355–56, n. 109); 2:214b. In his Hebrew writings, Moses de León softens the tone. See *Shushan Edut*, 353; *Sefer ha-Rimmon*, 230. Note the critique by *Zohorei Ya’bets* and the wrestling of the commentators: *OY*; Galante; *NZ*; *MmD*.
+    See JT *Pe’ah* 1:1, 16b; *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-106a|2:106a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-78b|3:78b]]; and on the issue here, *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-62a|1:62a]] (Vol. 1, pp. 355–56, n. 109); [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-214b|2:214b]]. In his Hebrew writings, Moses de León softens the tone. See *Shushan Edut*, 353; *Sefer ha-Rimmon*, 230. Note the critique by *Zohorei Ya’bets* and the wrestling of the commentators: *OY*; Galante; *NZ*; *MmD*.
 
 [^150]: **who cannot see the face of *Shekhinah*…** Upon death (see above, note 103), or after having been purged in Hell (see above, note 145).
 
@@ -2078,7 +2078,7 @@ He replied, “Go ask a physician! Come and see what is written: *Joseph ordered
 
 [^176]: **body of Jacob emanated from the beauty of Adam** See BT *Bava Batra* [[Bava Batra 58#58a|58a]]: “The beauty of our father Jacob resembled the beauty of Adam.”
 
-    See *Bava Metsi’a* 84a; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-35b|1:35b]] (where Jacob rectifies the flaw of Adam’s sin), 142b, 145b–146a; *ZḤ* [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-65a|65a]] (*ShS*).
+    See *Bava Metsi’a* 84a; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-35b|1:35b]] (where Jacob rectifies the flaw of Adam’s sin), [[Zohar 2.05 - Parashat Toledot#^z1-142b|142b]], [[Zohar 2.05 - Parashat Toledot#^z1-145b|145b–146a]]; *ZḤ* [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-65a|65a]] (*ShS*).
 
 [^177]: **image of the holy Throne** According to rabbinic tradition, Jacob’s image is engraved on the divine Throne.
 
@@ -2214,7 +2214,7 @@ He replied, “Go ask a physician! Come and see what is written: *Joseph ordered
 
 [^215]: ***roaring like a lion*** In the biblical context, this phrase refers to God: *He will roar like a lion*. Here, Rabbi Abba may be applying it to humans striving after God, and to himself running after the godlike Rabbi Shim’on. Alternatively, Rabbi Shim’on is both godlike and *like a lion*.
 
-    See BT *Berakhot* [[Berakhot 6#6b|6b]]; *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-160a|1:160a]]; [[Zohar 4.05 - Parashat Bo#^z2-38a|2:38a]] (where the name *YHVH* is actually applied to Rabbi Shim’on); 3:79b; *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-21d|21d]] (*MhN*); above, note 90; *MmD*. On Rabbi Shim’on as a lion, see BT *Bava Metsi’a* 84b; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-15a|2:15a]]; 3:60a, 196a.
+    See BT *Berakhot* [[Berakhot 6#6b|6b]]; *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-160a|1:160a]]; [[Zohar 4.05 - Parashat Bo#^z2-38a|2:38a]] (where the name *YHVH* is actually applied to Rabbi Shim’on); [[Zohar 7.08 - Parashat Aharei Mot#^z3-79b|3:79b]]; *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-21d|21d]] (*MhN*); above, note 90; *MmD*. On Rabbi Shim’on as a lion, see BT *Bava Metsi’a* 84b; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-15a|2:15a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-60a|3:60a]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-196a|196a]].
 
 [^216]: ***I sat there*…** From Moses’ description of his stay on Mount Sinai, Rabbi Shim’on concludes that only in sedentary tranquility can wisdom be properly received or conveyed.
 
@@ -2244,7 +2244,7 @@ He replied, “Go ask a physician! Come and see what is written: *Joseph ordered
 
     A ברייתא (*baraita*), literally, “external” (Hebrew plural, ברייתות \[*baraitot*\]) is a Tannaitic tradition not included in the canonical Mishnah. Here, it refers to extracanonical works such as the pseudepigraphical book of Enoch.
 
-    See 3 Enoch 4:1–10; *Targum Yerushalmi*, [[Torah 01 - Bereshit#^5-24|Genesis 5:24]]; *Aggadat Bereshit*, intro, 38; *Midrash Aggadah*, [[Torah 01 - Bereshit#^5-24|Genesis 5:24]]; *Tosafot, Yevamot* 16b, s.v. *pasuq zeh; Zohar* 1:37b, 56b; 2:179a (*SdTs*); Ginzberg, *Legends*, 5:156–64, nn. 58–61; Margaliot, *Mal’akhei Elyon*, 80–83, 89–90; Scholem, *Kabbalah*, 378–79.
+    See 3 Enoch 4:1–10; *Targum Yerushalmi*, [[Torah 01 - Bereshit#^5-24|Genesis 5:24]]; *Aggadat Bereshit*, intro, 38; *Midrash Aggadah*, [[Torah 01 - Bereshit#^5-24|Genesis 5:24]]; *Tosafot, Yevamot* 16b, s.v. *pasuq zeh; Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-37b|1:37b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-56b|56b]]; [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a|2:179a]] (*SdTs*); Ginzberg, *Legends*, 5:156–64, nn. 58–61; Margaliot, *Mal’akhei Elyon*, 80–83, 89–90; Scholem, *Kabbalah*, 378–79.
 
 [^223]: **if you say ‘Mishnah’…** In other words, if you claim that the identification of Metatron with Enoch is a standard rabbinic tradition (“Mishnah”)—and not extracanonical (“in those *baraitot*”)—then we have demonstrated this matter in “our Mishnah.” This last expression refers to a secret, mystical Mishnah often cited in the *Zohar* and known to its own circle. Here “our Mishnah” probably alludes specifically to *Sifra di-Tsni’uta*, the cryptic portion of the *Zohar* that in some ways serves as an anonymous Mishnah for other parts of the *Zohar*, which can be seen as its “Talmudic” commentary. The identification of Metatron with Enoch appears near the end of *Sifra di-Tsni’uta* (*Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a|2:179a]]).
 
@@ -2312,7 +2312,7 @@ He replied, “Go ask a physician! Come and see what is written: *Joseph ordered
 
     The verse from Exodus describes the central wooden crossbar of the Tabernacle in the wilderness. Here, Rabbi El’azar applies this description to *Tif’eret*, the central *sefirah*, who spans *Ḥesed* and *Gevurah*.
 
-    See *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-1b|1:1b]] (spanning *Binah* and *Shekhinah*), 148b (*ST*); 2:51b, 175b; 3:186a–b; Moses de León, *Sefer ha-Rimmon*, 7; idem, *Sheqel ha-Qodesh*, 41–42 (49–51).
+    See *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-1b|1:1b]] (spanning *Binah* and *Shekhinah*), [[Zohar 11.09 - Sitrei Torah#^z1-148b|148b]] (*ST*); [[Zohar 4.06 - Parashat Be-Shallah#^z2-51b|2:51b]], [[Zohar 5.05 - Parashat Terumah#^z2-175b|175b]]; [[Zohar 9.08 - Parashat Balaq#^z3-186a|3:186a–b]]; Moses de León, *Sefer ha-Rimmon*, 7; idem, *Sheqel ha-Qodesh*, 41–42 (49–51).
 
 [^242]: ***I will lie down*…** For the full verse, see above, note 237.
 
@@ -2442,7 +2442,7 @@ He replied, “Go ask a physician! Come and see what is written: *Joseph ordered
 
     This custom combines two elements that appear separately in BT *Ta’anit* 16a: taking the Torah scroll out of the synagogue (in order to pray for rain) and going to the cemetery to arouse the dead to plead. See *Zohar* [[Zohar 7.08 - Parashat Aharei Mot#^z3-70b|3:70b]]–71b, and *OY*, ad loc.; Nissim Gerondi’s criticism of this combined custom in his commentary on *Ta’anit* 16a; *NZ*, here, n. 4.
 
-    On the practice of going to the cemetery (with no reference to the Torah scroll), see also *Tosafot, Ta’anit*, s.v. *yotse’in; Zohar* 2:141b; Moses de León, *Mishkan ha-Edut*, 34a, 70a; *Shulḥan Arukh, Oraḥ Ḥayyim* 559:10, 568:10, 579:3, 581:4, 605:1. Cf. Maimonides’ critical remark in *Mishneh Torah, Hilkhot Avel* 4:4. In sixteenth-century Safed, prostrating by the graves of revered sages became a kabbalistic custom. On the three levels of soul, see above, note 267.
+    On the practice of going to the cemetery (with no reference to the Torah scroll), see also *Tosafot, Ta’anit*, s.v. *yotse’in; Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-141b|2:141b]]; Moses de León, *Mishkan ha-Edut*, 34a, 70a; *Shulḥan Arukh, Oraḥ Ḥayyim* 559:10, 568:10, 579:3, 581:4, 605:1. Cf. Maimonides’ critical remark in *Mishneh Torah, Hilkhot Avel* 4:4. In sixteenth-century Safed, prostrating by the graves of revered sages became a kabbalistic custom. On the three levels of soul, see above, note 267.
 
 [^277]: **Woe to the generation…** Because they lack the merit of good deeds, which would stimulate divine providence, the Torah scroll must be exiled to arouse compassion.
 
@@ -3444,7 +3444,7 @@ He replied, “Go ask a physician! Come and see what is written: *Joseph ordered
 
 [^567]: **Whoever is worthy…** Human behavior affects the motion of the sphere, generating either rich blessing or harsh judgment.
 
-    Cf. *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-109b|1:109b]]–110a; 2:95b; Liebes, *Peraqim*, 327–31. The full verse in Isaiah reads: *YHVH will guide you always; He will satisfy* נפשך (*nafshekha*), *your thirst* \[or: *soul*\] בצחצחות (*be-tsaḥtsaḥot*), *in parched regions, and invigorate your bones. You will be like a well-watered garden, like a spring whose waters do not fail*. Here, the rare word *be-tsaḥtsaḥot* is understood as “with radiancies,” based on the root צחח (*tsḥḥ*), “to gleam.” See above, at note 258.
+    Cf. *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-109b|1:109b]]–110a; [[Zohar 5.03 - Parashat Mishpatim#^z2-95b|2:95b]]; Liebes, *Peraqim*, 327–31. The full verse in Isaiah reads: *YHVH will guide you always; He will satisfy* נפשך (*nafshekha*), *your thirst* \[or: *soul*\] בצחצחות (*be-tsaḥtsaḥot*), *in parched regions, and invigorate your bones. You will be like a well-watered garden, like a spring whose waters do not fail*. Here, the rare word *be-tsaḥtsaḥot* is understood as “with radiancies,” based on the root צחח (*tsḥḥ*), “to gleam.” See above, at note 258.
 
 [^568]: ***solitary one*…** ערער (*Ar’ar*), apparently from the root ערר (*'rr*), “to lay bare, strip.” The word is often rendered “destitute,” but here Rabbi Abba understands it as “lonely one.” Cf. ערירי (*ariri*) “stripped,” hence “stripped of children, childless.”
 
@@ -4064,7 +4064,7 @@ He replied, “Go ask a physician! Come and see what is written: *Joseph ordered
 
     Apparently, the child is playing on a rabbinic interpretation in BT *Pesaḥim* [[Pesachim 117#117a|117a]]: “מזמור‎ לדוד (*Le-David mizmor*), *‘To David, a psalm,’* indicates that *Shekhinah* dwelled upon him and then he exclaimed a song. לדוד‎ מזמור (*Mizmor le-David*), *‘A psalm, to David,’* indicates that he exclaimed a song and then *Shekhinah* dwelled upon him.” (The prefixed preposition ל \[*le*\] can mean either “of” or “to”)
 
-    See *Midrash Tehillim* 24:1, 3; Rashi on [[Psalms 023#^23-1|Psalms 23:1]]; Jacob bar Sheshet, *Meshiv De-varim Nekhoḥim*, 92; Todros Abulafia, *Sha’ar ha-Razim*, 48; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]], 67a; 2:50a, 140a, 170a.
+    See *Midrash Tehillim* 24:1, 3; Rashi on [[Psalms 023#^23-1|Psalms 23:1]]; Jacob bar Sheshet, *Meshiv De-varim Nekhoḥim*, 92; Todros Abulafia, *Sha’ar ha-Razim*, 48; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]], [[Zohar 1.08 - Parashat Noah#^z1-67a|67a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-50a|2:50a]], [[Zohar 5.05 - Parashat Terumah#^z2-140a|140a]], [[Zohar 5.05 - Parashat Terumah#^z2-170a|170a]].
 
 [^726]: ***Do not* תתחר (*titḥar*), *compete*…** In this verse the simple sense of the word is “get excited, be vexed, be wrought up,” perhaps referring to the ardor of jealousy, as in the parallel continuation of the verse: *do not be envious of those who do wrong* (see the following note). For the sense of “compete,” see [[Jeremiah 12#^12-5|Jeremiah 12:5]]; [[Jeremiah 22#^22-15|22:15]]; Rashi on this verse; and BT *Berakhot* [[Berakhot 7#7b|7b]].
 
@@ -4150,7 +4150,7 @@ He replied, “Go ask a physician! Come and see what is written: *Joseph ordered
 
 [^750]: **What is the vine? Assembly of Israel…** Here, Assembly of Israel refers primarily to the people of Israel, who remain committed solely to God.
 
-    On Israel as *vine*, see above, p. 447 and n. 687. On grafting, see JT *Kil’ayim* 1:7, 27b; BT *Sotah* [[Sotah 43#43b|43b]]; *Zohar* [[Zohar 1.026a|1:26a]] (*TZ*), 115b; 3:125b, 247a (*RM*); *TZ* 15, 30b; 69, 111a; Immanuel Löw, *Die Flora der Juden*, 1:166.
+    On Israel as *vine*, see above, p. 447 and n. 687. On grafting, see JT *Kil’ayim* 1:7, 27b; BT *Sotah* [[Sotah 43#43b|43b]]; *Zohar* [[Zohar 1.026a|1:26a]] (*TZ*), [[Zohar 2.03 - Parashat Va-Yera#^z1-115b|115b]]; [[Zohar 8.08 - Parashat Naso#^z3-125b|3:125b]], 247a (*RM*); *TZ* 15, 30b; 69, 111a; Immanuel Löw, *Die Flora der Juden*, 1:166.
 
 [^751]: **on this side and on that side** On the side of the donkey and of the ass.
 
@@ -4606,7 +4606,7 @@ He replied, “Go ask a physician! Come and see what is written: *Joseph ordered
 
     Thus, the sacrificial rites perform a cosmic function. This kabbalistic view contrasts sharply with that of Maimonides, who relativized the importance of the sacrifices and tried to explain them away as a concession to the formerly primitive nature of ancient Israel. See Rashi on BT *Ketubbot* [[Ketubot 10#10b|10b]], s.v. *mezin*; Maimonides, *Guide of the Perplexed* 3:32; *Bahir* 78 (109); *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-164a|1:164a]]–b, [[Zohar 3.04 - Parashat Va-Yeshev#^z1-181a|181a–b]]; Tishby, *Wisdom of the Zohar*, 3:878–90.
 
-    On “arousal from below,” see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-35a|1:35a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-77b|77b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-82b|82b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-86b|86b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-88a|88a]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-156b|156b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-164a|164a–b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-233a|233a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-235a|235a]]; [[Zohar 4.04 - Parashat Va-Era#^z2-31b|2:31b]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-265a|265a]]; [[Zohar 7.05 - Parashat Shemini#^z3-40b|3:40b]], [[Zohar 8.04 - Parashat Emor#^z3-92a|92a–b]], [[Zohar 8.05 - Parashat Be-Har#^z3-110b|110b]], [[Zohar 8.06 - Parashat Be-Huqqotai#^z3-112b|112b]], [[Zohar 12.06 - Piqqudin#^z3-145a|145a]] (*Piq*); Moses de León, *Sefer ha-Rimmon*, 144. On the ascending smoke, see *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-45b|1:45b]] (*Heikh*), [[Zohar 1.07 - Parashat Be-Reshit#^z1-51a|51a–b]], [[Zohar 1.08 - Parashat Noah#^z1-70a|70a]]; [[Zohar 5.04 - Sava de-Mishpatim#^z2-122b|2:122b]], [[Zohar 5.05 - Parashat Terumah#^z2-141a|141a]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-259b|259b]] (*Heikh*); [[Zohar 9.15 - Idra Zuta#^z3-294a|3:294a]] (*IZ*). On the image of smoke kindling the higher lamp, see Ibn Ezra \[pseud.\], *Sefer ha-Atsamim*, 20; El’azar of Worms, *Ḥokhmat ha-Nefesh*, 15c; *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-70b|1:70b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-176b|176b–177a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-247b|247b–248a]] 3:35b; *KP*.
+    On “arousal from below,” see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-35a|1:35a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-77b|77b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-82b|82b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-86b|86b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-88a|88a]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-156b|156b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-164a|164a–b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-233a|233a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-235a|235a]]; [[Zohar 4.04 - Parashat Va-Era#^z2-31b|2:31b]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-265a|265a]]; [[Zohar 7.05 - Parashat Shemini#^z3-40b|3:40b]], [[Zohar 8.04 - Parashat Emor#^z3-92a|92a–b]], [[Zohar 8.05 - Parashat Be-Har#^z3-110b|110b]], [[Zohar 8.06 - Parashat Be-Huqqotai#^z3-112b|112b]], [[Zohar 12.06 - Piqqudin#^z3-145a|145a]] (*Piq*); Moses de León, *Sefer ha-Rimmon*, 144. On the ascending smoke, see *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-45b|1:45b]] (*Heikh*), [[Zohar 1.07 - Parashat Be-Reshit#^z1-51a|51a–b]], [[Zohar 1.08 - Parashat Noah#^z1-70a|70a]]; [[Zohar 5.04 - Sava de-Mishpatim#^z2-122b|2:122b]], [[Zohar 5.05 - Parashat Terumah#^z2-141a|141a]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-259b|259b]] (*Heikh*); [[Zohar 9.15 - Idra Zuta#^z3-294a|3:294a]] (*IZ*). On the image of smoke kindling the higher lamp, see Ibn Ezra \[pseud.\], *Sefer ha-Atsamim*, 20; El’azar of Worms, *Ḥokhmat ha-Nefesh*, 15c; *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-70b|1:70b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-176b|176b–177a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-247b|247b–248a]] [[Zohar 7.04 - Parashat Tsav#^z3-35b|3:35b]]; *KP*.
 
 [^864]: **holy forms…** Angels, agents of *Shekhinah* who help to conduct the world and who seek nourishment from above. They arouse higher heavenly forces until the arousal finally reaches King *Tif’eret*, stimulating Him to unite with *Shekhinah*.
 
@@ -4684,7 +4684,7 @@ He replied, “Go ask a physician! Come and see what is written: *Joseph ordered
 
     See *Bereshit Rabbah* 79:6; JT *Shevi’it* 9:1, 38d; BT *Shabbat* [[Shabbat 33#33b|33b]]–34a, *Sanhedrin* [[Sanhedrin 98#98a|98a]]; *Pesiqta de-Rav Kahana* 11:16; *Qohelet Rabbah* on 10:8; *Midrash Tehillim* 17:13; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-11a|1:11a]]–b, [[Zohar 3.07 - Parashat Va-Yhi#^z1-216b|216b]]; *ZḤ* [[Zohar 10.11 - Parashat Ki Tetse#^zh-59c|59c–60a]].
 
-    On a cave near Lydda, see the story in *Pesiqta de-Rav Kahana* 18:5; *Pesiqta Rabbati* 32; *Zohar* [[Zohar 2.042b|2:42b]]; 3:55b (*Tos*); *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-20d|20d]] (*MhN*); Scholem, “She’elot be-Viqqoret ha-Zohar,” 51–52; *NZ*, n. 1, in *TZ* 1a. On the connection between the cave here and certain Romans, see below at note 990. On the tradition that the *Zohar* was composed in the cave in which Rabbi Shim’on was hiding, see Tishby, *Wisdom of the Zohar*, 1:13; Huss, “Hofa’ato shel ‘Sefer ha-Zohar,’” 528.
+    On a cave near Lydda, see the story in *Pesiqta de-Rav Kahana* 18:5; *Pesiqta Rabbati* 32; *Zohar* [[Zohar 2.042b|2:42b]]; [[Zohar 12.12 - Passages (Mis)Labeled as Tosefta#^z3-55b|3:55b]] (*Tos*); *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-20d|20d]] (*MhN*); Scholem, “She’elot be-Viqqoret ha-Zohar,” 51–52; *NZ*, n. 1, in *TZ* 1a. On the connection between the cave here and certain Romans, see below at note 990. On the tradition that the *Zohar* was composed in the cave in which Rabbi Shim’on was hiding, see Tishby, *Wisdom of the Zohar*, 1:13; Huss, “Hofa’ato shel ‘Sefer ha-Zohar,’” 528.
 
 [^885]: **desire and yearning of Assembly of Israel…** The union of *Shekhinah* and *Tif’eret* is stimulated by souls of the righteous.
 
@@ -5090,7 +5090,7 @@ He replied, “Go ask a physician! Come and see what is written: *Joseph ordered
 
     The full verse reads: *My soul yearns, even pines for the courts of YHVH; my heart and my flesh shout for joy to the living God*. See *Midrash Tehillim* 25:4; 84:2; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-94b|1:94b]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-129b|129b–130a]]; Moses de León, *Sefer ha-Rimmon*, 388–89.
 
-    On the inner and outer chambers, see BT *Ḥagigah* [[Chagigah 5#5b|5b]], 12b–13a; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-18a|2:18a]], 257b–258a; 3:15b; Moses de León, *Shushan Edut*, 337; Scholem.
+    On the inner and outer chambers, see BT *Ḥagigah* [[Chagigah 5#5b|5b]], 12b–13a; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-18a|2:18a]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-257b|257b–258a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-15b|3:15b]]; Moses de León, *Shushan Edut*, 337; Scholem.
 
 [^974]: **As the soul ascends…** As the soul ascends toward *Shekhinah*, she (the soul) participates in and stimulates divine desire along with the heavenly palaces, preparing *Shekhinah* for Her union with *Tif’eret*.
 

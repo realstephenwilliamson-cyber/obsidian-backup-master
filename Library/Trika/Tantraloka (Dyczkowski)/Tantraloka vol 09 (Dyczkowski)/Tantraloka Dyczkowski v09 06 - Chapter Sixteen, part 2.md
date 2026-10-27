@@ -337,7 +337,7 @@ ekavīraśikheśaśrīkanthāḥ kāle trayas traye |
 0 niyater abhidhīyate ॥ 122 ॥
 athavānyonyasamijñābhir vyapadeśo hi dṛśyate | 
 
-1145 it is not essential for the the serial order (to always be the same), the Force (of limited agency) (kalā) (may come) after Necessity,” or these two principles may be called by each other’s name. The three worlds in (the principle of) Time (kāla), namely, Ekavīra, Śikheśa and Śrīkanṭha, are (contained) in three (fingers? space). It is said (by some that) the deposition of (the principle of) Necessity precedes (that of) Time. Or else it is seen (in the scriptures that) they are called by one another’s name. (121- 123ab) 
+1145 it is not essential for the the serial order (to always be the same), the Force (of limited agency) (kalā) (may come) after Necessity,” or these two principles may be called by each other’s name. The three worlds in (the principle of) Time (kāla), namely, Ekavīra, Śikheśa and Śrīkanṭha, are (contained) in three (fingers? space). It is said (by some that) the deposition of (the principle of) Necessity precedes (that of) Time. Or else it is seen (in the scriptures that) they are called by one another’s name. (121-123ab) 
 
 #### Viveka on 16.121–123
 
@@ -378,7 +378,7 @@ In this way, (the worlds) contained in the six principles beginning with the ind
 
 ### TĀ 16.125–127
 
-There are five worlds in the four finger (space) of Pure Knowledge. Three worlds (each occupy) two-thirds of a finger(-space), in due order, and (the other) two (occupy) two. Then, in the (following) four fingers’ (space), there are the eight worlds of the Īśvara principle, (one for every) half finger(-space), in due order. After them comes the group of five (worlds) of Sadāśiva, three in two (fingers’ space) and two in (the other) two fingers, (and so are contained) in this way in four (fingers’ space). Thus, there are eighteen (worlds in the space of) twelve (fingers). (125cd- 127) 
+There are five worlds in the four finger (space) of Pure Knowledge. Three worlds (each occupy) two-thirds of a finger(-space), in due order, and (the other) two (occupy) two. Then, in the (following) four fingers’ (space), there are the eight worlds of the Īśvara principle, (one for every) half finger(-space), in due order. After them comes the group of five (worlds) of Sadāśiva, three in two (fingers’ space) and two in (the other) two fingers, (and so are contained) in this way in four (fingers’ space). Thus, there are eighteen (worlds in the space of) twelve (fingers). (125cd-127) 
 
 #### Viveka on 16.125–127
 
@@ -510,7 +510,7 @@ vidhidvayaṁ syān nikṣipya dvādaśa dvādaśārigulān |
 
 *[p. 62]* ^pg82
 
-tenth Part, which is called ‘Śiva’, pervades (all the preceding ones). The two procedures, (intermediate and supreme, are derived from this one) by adding to the five Parts, omitting that of Earth, (a space of) twelve fingers (for the intermediate one), and twelve (more for the supreme one). (135cd- 138ab) 
+tenth Part, which is called ‘Śiva’, pervades (all the preceding ones). The two procedures, (intermediate and supreme, are derived from this one) by adding to the five Parts, omitting that of Earth, (a space of) twelve fingers (for the intermediate one), and twelve (more for the supreme one). (135cd-138ab) 
 
 #### Viveka on 16.135–138
 
@@ -844,7 +844,7 @@ The four-fold wheel of the Nameless, withdrawal, stability and emanation, togeth
 
 *[p. 71]* ^pg91
 
-Vidyā of the goddess) Mātṛsadbhāva. \[0 this way, this class (varga) of purifying (Mantras) is considered to consist of seventy Mantras." (157- 158ab) 
+Vidyā of the goddess) Mātṛsadbhāva. \[0 this way, this class (varga) of purifying (Mantras) is considered to consist of seventy Mantras." (157-158ab) 
 
 ### TĀ 16.158–161
 
@@ -905,7 +905,7 @@ As (the word) ‘Mantras’ is plural, it means that they are (those) associated
 
 177?\. An upward leap (udbhava) is one of the ‘signs on the path’ (pathalakṣana) that serves as a means of ascertaining (pratyaya) that a penetration (āveśa) or descent of power (śaktipāta) of the deity has taken place in the disciple in the course of initiation, indicating that it has been imparted successfully. See above, 5/101 ff.
 
-178?\. Most forms of initiation include the object of purification \[illegible\] that is, the world orders (bhuvana), reality principles (rattva) and sphere of energy (kalā) that contain them. The neophant is induced, through the ritual procedure, to be reborn progressively from lower to higher levels within it, and so is progressively purified of his binding Karma. This is done by means of the mantra, parts of mantra and phonemes, that are the purifiers (śodhaka). In this case, the neophant is initiated by the power of the deposition of the purifying mantras deposited on his body alone, without previously projecting the paths that are to be purified. See below, 16/237cd-239ab (238- 239) and 16/244cd-247ab (245-247).
+178?\. Most forms of initiation include the object of purification \[illegible\] that is, the world orders (bhuvana), reality principles (rattva) and sphere of energy (kalā) that contain them. The neophant is induced, through the ritual procedure, to be reborn progressively from lower to higher levels within it, and so is progressively purified of his binding Karma. This is done by means of the mantra, parts of mantra and phonemes, that are the purifiers (śodhaka). In this case, the neophant is initiated by the power of the deposition of the purifying mantras deposited on his body alone, without previously projecting the paths that are to be purified. See below, 16/237cd-239ab (238-239) and 16/244cd-247ab (245-247).
 
 179?\. Cf. above, 16/157-158ab and below 16/190. Now that the deposition of the 70 purifying Mantras has been defined, Abhinava goes on to talk about the deposition of the object of purification and the enumeration of its forms. This subject and concluding remarks take up verses 163 to 206. The exposition of the deposition of Mantras continues below from verse 207 onwards.
 
@@ -1346,7 +1346,7 @@ apavarge ‘pi hi vistī-
 
 rnakarmavijñānasaṁgrahaḥ kāryaḥ | 
 
-Again, Abhinavagupta’s teacher’ has said that if the money (is available) and the location and time etc. (are auspicious), (the teacher) should gather together (and apply his) extensive knowledge of ritual action?” also, when (the intention is to) liberate (the disciple). (195cd- 196ab) 
+Again, Abhinavagupta’s teacher’ has said that if the money (is available) and the location and time etc. (are auspicious), (the teacher) should gather together (and apply his) extensive knowledge of ritual action?” also, when (the intention is to) liberate (the disciple). (195cd-196ab) 
 
 #### Viveka on 16.195–196
 

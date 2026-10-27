@@ -32,7 +32,7 @@ yo'nuttaraḥ paraḥ spando yaścānandaḥ samucchalan || ^iast
 >
 > The group of five (vowels) mentioned previously (A I Ī U Ū), pouring forth within each other, assume various forms by mixing together with one another. (with 3.92cd–93ab)
 >
-> The Absolute (A), which is the supreme vibration (spanda) (of consciousness), and bliss (ānanda — Ā), pouring out of itself (samucchalan), become wonderfully various by union (sañghatta) with (the powers of) the will (icchā, I) and expansion (unmeṣa, U) (that is, knowledge). (with 3.93cd–94ab)
+> The Absolute (A), which is the supreme vibration (spanda) (of consciousness), and bliss (ānanda — Ā), pouring out of itself (samucchalan), become wonderfully various by union (saṅghaṭṭa) with (the powers of) the will (icchā, I) and expansion (unmeṣa, U) (that is, knowledge). (with 3.93cd–94ab)
 
 ## Viveka
 

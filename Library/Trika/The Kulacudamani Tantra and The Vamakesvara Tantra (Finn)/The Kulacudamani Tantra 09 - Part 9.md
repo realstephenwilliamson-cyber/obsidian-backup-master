@@ -890,7 +890,7 @@ CREATION.
 Here indeed, in his own body, the sādkaka should reflect upon, i.e. observe the middle śakti whose essence is inseparate from the uttering of the Śakti bīja , issuing forth "according to creation", i.e.
 
 [^164]: This passage includes the compound "vivarttrantarātisāyigvāpi" of which only the latter part has been included in transtatton as beginning of the compound gives no obvious meaning.
-[^165]: Literally: "Is there no final cheek on an assertion of those..."
+[^165]: Literally: "Is there no final check on an assertion of those..."
 [^166]: All the adjectives taken as modifiers of the word "watercourses" can also be read as a pun with respect "to those of base speech with the following meaning: "But of those of base speech who are inclined to pick on weak points (and) are difficult to come into contact with because of their stupid drivelling, there is no (limit). " The watercourses referred to are perhaps spectacular geysers 164. 165. 166. that shoot off powerfully in a useless sort of way.
 
 *[p. 357]* ^pg353

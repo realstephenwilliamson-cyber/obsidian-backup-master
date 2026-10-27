@@ -25,7 +25,7 @@ lesson: 37
 
 “*Dirshu HaShem V’uzo* (Search for God and His Might); seek His presence constantly.” ([[Psalms 105#^105-4|Psalms 105:4]])
 
-The main reason for the Creation is so that we might recognize Him (Zohar II, 42a), as is written ([[Isaiah 43#^43-7|Isaiah 43:7]]), “whom I created, formed and made for My glory.”
+The main reason for the Creation is so that we might recognize Him ([[Zohar 2.042a|Zohar II, 42a]]), as is written ([[Isaiah 43#^43-7|Isaiah 43:7]]), “whom I created, formed and made for My glory.”
 
 ## 2
 
@@ -39,7 +39,7 @@ And they are an aspect of the Torah’s wisdom. For extraneous wisdom is matter,
 
 ## 3
 
-Now, every person must subordinate the matter—i.e., the aspect of death, the aspect of the foolishness of the body’s four elements. As is written in the *Zohar*: “God, the Lord, took the man” ([[Torah 01 - Bereshit#^2-15|Genesis 2:15]]). From where did he take him? From his four elements…. He separated him from [being drawn to] their lustfulness (Zohar I, 27a).
+Now, every person must subordinate the matter—i.e., the aspect of death, the aspect of the foolishness of the body’s four elements. As is written in the *Zohar*: “God, the Lord, took the man” ([[Torah 01 - Bereshit#^2-15|Genesis 2:15]]). From where did he take him? From his four elements…. He separated him from [being drawn to] their lustfulness ([[Zohar 1.027a|Zohar I, 27a]]).
 
 This is accomplished by fasting. By fasting, we weaken the four elements. Thus the matter is nullified—the aspects of matter: foolishness, darkness, forgetfulness, animal—while the aspects of the intellect and the form—the light, memory, man—gain strength and ascend. This is as our Sages taught: The reward for fasting is charity ([[Berakhot 6#6b|Berakhot 6b]]). For charity hints to light, as is written ([[Malachi 3#^3-20|Malachi 3:20]]), “But a benevolent sun will shine upon you who fear My name.”
 

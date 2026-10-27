@@ -445,7 +445,7 @@ It is written: חנוך (*Ḥanokh*), *Enoch, walked with God* ([[Torah 01 - Ber
 
     The opening verse of Genesis states that *God created*, and then the next verse says *The earth was waste and empty*. Here this is apparently construed as *The earth was*—it had existed already in a previous cosmic cycle, eventually becoming *waste and empty, with darkness* \[*over the face of the abyss*…\], until finally only God existed.
 
-    On the significance of the verb *was* in the second verse of Genesis, see *Bereshit Rabbah* 1:15; *Bahir* 2 (2); *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-16a|1:16a]] (Vol. 1, p. 118, n. 75); 2:34b (Vol. 4. pp. 153–54. n. 54).
+    On the significance of the verb *was* in the second verse of Genesis, see *Bereshit Rabbah* 1:15; *Bahir* 2 (2); *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-16a|1:16a]] (Vol. 1, p. 118, n. 75); [[Zohar 4.05 - Parashat Bo#^z2-34b|2:34b]] (Vol. 4. pp. 153–54. n. 54).
 
     On the twelve hours in which “all will be destroyed,” cf. the twelve-hour rise and fall of Adam, described in *Avot de-Rabbi Natan* A, 1; B, 1; *Vayiqra Rabbah* 29:1; BT *Sanhedrin* [[Sanhedrin 38#38b|38b]]. On the verse in Isaiah, see the preceding note.
 
@@ -637,7 +637,7 @@ It is written: חנוך (*Ḥanokh*), *Enoch, walked with God* ([[Torah 01 - Ber
 
 [^39]: ***The earth sprouted*…** The emanation issues fruitfully only when letters of the Divine Name are transplanted from the womb of *Binah* to a realm of manifestation; thereby emerges the configuration of the Short-Tempered One. The primordial air begins to issue and the spark of emanation appears.
 
-    On the sprouting of the earth, see above, note 31. On the planting of the Name, see above, note 33. On the primordial air and the spark, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-15a|1:15a]] (Vol. 1, pp. 108–9, n. 11), 16b; 3:135b (*IR*), 292b (*IZ*).
+    On the sprouting of the earth, see above, note 31. On the planting of the Name, see above, note 33. On the primordial air and the spark, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-15a|1:15a]] (Vol. 1, pp. 108–9, n. 11), [[Zohar 1.07 - Parashat Be-Reshit#^z1-16b|16b]]; [[Zohar 8.09 - Idra Rabba#^z3-135b|3:135b]] (*IR*), [[Zohar 9.15 - Idra Zuta#^z3-292b|292b]] (*IZ*).
 
     The full verse in Genesis reads: *The earth sprouted vegetation, plants yielding seed of each kind, and trees bearing fruit that has its seed within it of each kind. And God that saw that it was good*.
 

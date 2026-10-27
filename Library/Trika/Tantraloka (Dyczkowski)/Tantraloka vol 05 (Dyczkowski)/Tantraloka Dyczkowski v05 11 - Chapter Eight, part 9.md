@@ -176,7 +176,7 @@ iti jalatattvān milam
 
 tattvacaturvihśatiḥ pratiṣthāyām ॥ 418 ॥ 
 
-Although the eight Lords of Wrath reside in the Root Nature, which is the qualities in a state of equilibrium, they have been purified in the intellect, and so do not need to be counted again in the sphere of the (force of) the Foundation (pratiṣthā). Thus, there are twenty-four principles from Water up to the Root Nature in (the Force of the) Foundation. (417cd- 418) (417-418ab) 
+Although the eight Lords of Wrath reside in the Root Nature, which is the qualities in a state of equilibrium, they have been purified in the intellect, and so do not need to be counted again in the sphere of the (force of) the Foundation (pratiṣthā). Thus, there are twenty-four principles from Water up to the Root Nature in (the Force of the) Foundation. (417cd-418) (417-418ab) 
 
 #### Viveka on 8.417–418
 
@@ -246,7 +246,7 @@ iti saptaviṁśatipurā
 
 vidyā puruṣāditattvasaptakayuk | 
 
-1-2) Ten Śaṅkaras reside in the principle of Constraint (niyati), and the ten Śivas in that of Time; thus making two (more) worlds. 3-4) The world of Suhṛṣta and that of the teachers and disciples is in (the principle of) Attachment. 5-6) There is one world each in the principles of (limited) Knowledge and Force (of limited agency). 7-9) There are three worlds in the Cavity of the Night (of Māyā), (then there are) 10) the world of Speech and 11) the world of the Pramāṇas. Thus, (the principle of impure) Knowledge consists of twenty-seven worlds," that are associated with the seven principles ranging from the individual soul onwards. (421cd- 423ab) (421-422) 
+1-2) Ten Śaṅkaras reside in the principle of Constraint (niyati), and the ten Śivas in that of Time; thus making two (more) worlds. 3-4) The world of Suhṛṣta and that of the teachers and disciples is in (the principle of) Attachment. 5-6) There is one world each in the principles of (limited) Knowledge and Force (of limited agency). 7-9) There are three worlds in the Cavity of the Night (of Māyā), (then there are) 10) the world of Speech and 11) the world of the Pramāṇas. Thus, (the principle of impure) Knowledge consists of twenty-seven worlds," that are associated with the seven principles ranging from the individual soul onwards. (421cd-423ab) (421-422) 
 
 #### Viveka on 8.421–422
 
@@ -620,7 +620,7 @@ cchagalāndā aṣṭtakaṁ hy ahaṁkāre ॥ 445 I|
 
 1119\. TSā -kālāś cātha.
 
-1120\. TĀ 8/438-451ab (437cd-451cd) corresponds to MV 5/1-32, in which 118 worlds are enumerated. TĀ 8/438-447 (437cd-446cd) is quoted literally in TSā (chapter 8) p. 66- 67. Abhinava reworks the original verses in standard śloka found in the MV into Arya metre. He condenses MV 5/1cd-12 into just one — TĀ 8/438 (437cd-438ab). TĀ 8/439 (438cd-439ab) corresponds to MV 5/13-14. TĀ 8/440 (440cd-441ab) is a paraphrase of MV 5/16-17ab. TĀ 8/442abc (441cd-442a) is a paraphrase of MV 5/17cd-18ab. TĀ 8/443ab (442cd) is a paraphrase of MV 5/18cd-19ab. TĀ 8/444 (443cd-444ab) is a paraphrase of MV 5/20. TĀ 8/445 (444cd-445ab) is a paraphrase of MV 5/21. TĀ 8/447cd-448a (447abc) is a paraphrase of MV 5/25cd-26ab. TĀ 8/448b-449ab (447d- 448) is a paraphrase of MV 5/26cd-27. TĀ 8/449cd-450ab (449) is a paraphrase of MV 5/28cd-29. TÀ 8/450ab (450cd) is a paraphrase of MV 5/30cd-3lab. TĀ 8/450cd (451ab) corresponds to MV 5/31cd. TĀ 8/451ab (451cd) corresponds to MV 5/32.
+1120\. TĀ 8/438-451ab (437cd-451cd) corresponds to MV 5/1-32, in which 118 worlds are enumerated. TĀ 8/438-447 (437cd-446cd) is quoted literally in TSā (chapter 8) p. 66- 67. Abhinava reworks the original verses in standard śloka found in the MV into Arya metre. He condenses MV 5/1cd-12 into just one — TĀ 8/438 (437cd-438ab). TĀ 8/439 (438cd-439ab) corresponds to MV 5/13-14. TĀ 8/440 (440cd-441ab) is a paraphrase of MV 5/16-17ab. TĀ 8/442abc (441cd-442a) is a paraphrase of MV 5/17cd-18ab. TĀ 8/443ab (442cd) is a paraphrase of MV 5/18cd-19ab. TĀ 8/444 (443cd-444ab) is a paraphrase of MV 5/20. TĀ 8/445 (444cd-445ab) is a paraphrase of MV 5/21. TĀ 8/447cd-448a (447abc) is a paraphrase of MV 5/25cd-26ab. TĀ 8/448b-449ab (447d-448) is a paraphrase of MV 5/26cd-27. TĀ 8/449cd-450ab (449) is a paraphrase of MV 5/28cd-29. TÀ 8/450ab (450cd) is a paraphrase of MV 5/30cd-3lab. TĀ 8/450cd (451ab) corresponds to MV 5/31cd. TĀ 8/451ab (451cd) corresponds to MV 5/32.
 
 
 *[p. 391]* ^pg409
@@ -758,7 +758,7 @@ hālāhalarudrakrud
 ambikāghorikāḥ savāmāḥ syuḥ |
 vidyāyār vidyeśās 
 
-tv aṣtṭāv ige sadāśive pañca ॥ 451 ॥ vāmā jyeṣthā raudrī 
+tv aṣṭāv īśe sadāśive pañca ॥ 451 ॥ vāmā jyeṣṭhā raudrī 
 
 śaktiḥ sakalā ca śānteyam |
 aṣṭtādaśa bhuvanā syāt \* \* \* \* \* 
@@ -786,7 +786,7 @@ Mahātejas, Vāmadeva, Bhavodbhava (Born of Fettered Existence), Ekapiṁgala (S
 
 of the Worlds), Purahsara (Foremost) and Anguṣṭhamātra (Just a Thumb) — they are the eight that reside in the Night (of Māyā). (Thus, Māyā,) ranging from (Impure) Knowledge to the individual soul, consists of twenty-eight worlds.” 
 
-In (Pure) Knowledge reside Hālāhalarudra, Krodha (Wrath), Ambika (Born of the Mother), Aghoraka (Not Fierce) and Vāmadeva. In 149 reside the eight Vidyeśvaras, while in Sadāśiva there are the five (worlds, namely) Vāmā (Beautiful), Jyeṣthā (Eldest), Raudrī (Fierce), Śakti (Power) and Sakalā (With Energy). Thus, the force Quiescence (Santikala Santikala) has eighteen worlds.”? (446-452abc) (445cd-452a) 
+In (Pure) Knowledge reside Hālāhalarudra, Krodha (Wrath), Ambika (Born of the Mother), Aghoraka (Not Fierce) and Vāmadeva. In 149 reside the eight Vidyeśvaras, while in Sadāśiva there are the five (worlds, namely) Vāmā (Beautiful), Jyeṣṭhā (Eldest), Raudrī (Fierce), Śakti (Power) and Sakalā (With Energy). Thus, the force Quiescence (Santikala Santikala) has eighteen worlds.”? (446-452abc) (445cd-452a) 
 
 #### Viveka on 8.445–452
 
@@ -800,7 +800,7 @@ In (Pure) Knowledge reside Hālāhalarudra, Krodha (Wrath), Ambika (Born of the 
 
 1141\. TĀ 8/450ab (450cd) corresponds to MV 5/30cd-31ab. 450cd (451ab) corresponds to MV 5/31cd: ‘Within (the principle) Īśvara are the Great Lords (maheśvara), beginning with Pivana and ending with Aghora.’ These eight are listed in MV 1/19cd-20: ‘(Their names are) Aghora, Paramaghora (Supreme Ghora), Ghorarūpa, Ghoramukha, Bhīma, Bhīṣaṇa, Vamana, and Pibana. These eight (Aghoras that constitute) the group of eight Aghoras (aghorāṣṭaka) maintain, destroy, protect and (dispense) grace.’ Concerning the Eight Bhairavas, see notes 1,802; 11,187; 15,386, 391; 29,127; and 30,61.
 
-1142\. There are five worlds in Śuddha Vidyā, eight in Īśvaratattva, and five in Sadāśivatattva. They are all contained in Śāntākalā. Read śānteyam for śontyam. The correct form for bhuvanā is bhuvanāni. But this is one syllable too long. Even assuming Abhinava himself had authored this corrupt form, metri causa the reading should be bhuvanāḥ. TĀ 8/45 lab (4510) corresponds to MV 5/32: raudrī jyeṣthā ca vāmā ca tathā śaktisadāśivau | etāni sakale pañca bhuvanāni vidurbudhāḥ || ‘The wise know that these five world-orders are within (immanent) Sakala (Śiva), namely, Raudrī, Jyeṣthā and Vāmā as well as the two, Śakti and Sadāśiva.” Here it appears that Abhinava deviates from his source, as he replaces Sadāśiva with Sakalā. This he has to do if, as he maintains, these five worlds are in Sadāśiva. In the MV, they are in sakala (differentiated) Śiva. Beyond is niṣkala (undifferentiated) transcendental Śiva. The account ends here in the MV, so it is not clear whether Śaktitattva is included in transcendental Śivatattva or not, and whether that too also has no worlds.
+1142\. There are five worlds in Śuddha Vidyā, eight in Īśvaratattva, and five in Sadāśivatattva. They are all contained in Śāntākalā. Read śānteyam for śontyam. The correct form for bhuvanā is bhuvanāni. But this is one syllable too long. Even assuming Abhinava himself had authored this corrupt form, metri causa the reading should be bhuvanāḥ. TĀ 8/45 lab (4510) corresponds to MV 5/32: raudrī jyeṣṭhā ca vāmā ca tathā śaktisadāśivau | etāni sakale pañca bhuvanāni vidurbudhāḥ || ‘The wise know that these five world-orders are within (immanent) Sakala (Śiva), namely, Raudrī, Jyeṣṭhā and Vāmā as well as the two, Śakti and Sadāśiva.” Here it appears that Abhinava deviates from his source, as he replaces Sadāśiva with Sakalā. This he has to do if, as he maintains, these five worlds are in Sadāśiva. In the MV, they are in sakala (differentiated) Śiva. Beyond is niṣkala (undifferentiated) transcendental Śiva. The account ends here in the MV, so it is not clear whether Śaktitattva is included in transcendental Śivatattva or not, and whether that too also has no worlds.
 
 
 *[p. 396]* ^pg414

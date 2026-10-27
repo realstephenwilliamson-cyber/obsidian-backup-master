@@ -222,7 +222,7 @@ Where thou shalt be alert without shaking Enter into the new world where forms s
 
 ity etaddhṛdayādyekasvabhāve ‘pi svadhāmani | 53 Il ṣatprāṇoccārajaṁ rūpam atha vyāptyā tad ucyate | 
 
-This is the reality (rpa) born of the utterance of the six breaths” within the abode of one’s own (essential nature) (svadhāman) which, although one, (is equally present) in the Heart and the other (centres). Now the same is explained in terms of the pervasion (of Mantra). (53cd- 54ab) 
+This is the reality (rpa) born of the utterance of the six breaths” within the abode of one’s own (essential nature) (svadhāman) which, although one, (is equally present) in the Heart and the other (centres). Now the same is explained in terms of the pervasion (of Mantra). (53cd-54ab) 
 
 #### Viveka on 5.53–54
 
@@ -667,7 +667,7 @@ Surely (one may ask,) if worship etc. can be accomplished in this way, that is, 
 ānandanādīyugalaspandanāvahitau sthitaḥ ॥ 70 ॥
 enār visarganihṣyandasaudhabhūmim prapadyate | 
 
-He who is persistently attentive to the pulsation of the two channels of bliss attains to this, the plane of the nectar of the flow of emission. (70cd- 71ab) (70) 
+He who is persistently attentive to the pulsation of the two channels of bliss attains to this, the plane of the nectar of the flow of emission. (70cd-71ab) (70) 
 
 #### Viveka on 5.70
 

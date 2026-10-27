@@ -1,6 +1,6 @@
 ---
 type: prompt
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 # House rules for AI work
 
@@ -22,7 +22,7 @@ Every prompt in this folder tells the AI to read this note and [[Vault Guide]] b
 4. **Never overwrite Obsidian's configuration.** Do not write to `.obsidian/` (`app.json`, `workspace.json`, `community-plugins.json`, plugin `data.json` files, snippets, themes). If a setting should change, tell Stephen where it is and what to change. Two exceptions: the saved layouts of the Workspaces core plugin (`.obsidian/workspaces.json`) may be made or changed through the plugin when Stephen asks for it (7 Oct 2026); and a plugin setting that Stephen names in the chat may be changed on the laptop through that plugin's own settings save (what its settings screen does), never by writing its files, and the change is recorded in the AI log (25 Oct 2026; rule 13). Nothing else in `.obsidian/`.
 5. **No zip files.** Do not create or deliver archives.
 6. **No made-up facts.** Every title, author, year, publisher, page count or quotation must come from the file itself (title page, copyright page, PDF metadata) or from a source you cite with its URL. If you cannot establish a value, leave it empty, set `status: review` and say why in the note. Say "I don't know" rather than guess.
-7. **File names in plain ASCII.** Use `Author - Short title (year).ext`, with no diacritics and no `[ ] # ^ | : * ? " < > \ /`. Diacritics belong in the `title` property and in the text.
+7. **File names in plain ASCII.** Use `Author - Short title (year).ext`, with no diacritics and no `[ ] # ^ | : * ? " < > \ /`. Diacritics belong in the `title` property and in the text. Keep the full Windows path at 240 characters or less, counting `C:\Vaults\Obsidian Vault\` (25 characters) as well as the path inside the vault: Windows and the Git backup stop at 259, and on 26 Oct 2026 two notes at 261 and 262 stopped a Git commit (Stephen, 26 Oct 2026).
 8. **The divine name.** Do not write the Tetragrammaton in anything you produce: names, headings, aliases, link labels, summaries or chat. Leave it exactly as written inside quoted source texts.
 9. **Downloads need permission.** Ask Stephen before downloading any book, article or other content file from the web. If a site refuses automated access or a fetch is blocked, do not work around it; give Stephen the link to click himself. Installing software and OCR models in your own Linux workspace is fine; list what you install.
 10. **Same work, two files:** list the pair for Stephen and say which copy looks better and why. Do not delete either one yourself.
@@ -59,6 +59,7 @@ Every prompt in this folder tells the AI to read this note and [[Vault Guide]] b
 - **Writing through a bridge:** the cloud side's output folder can lag behind your local writes, and a file committed seconds after it was edited has gone over in its older form (it happened three times on 5–6 Oct). Write each file once, in its final form, to a new local path; wait about 15 seconds before committing (Stephen, 25 Oct 2026); then check the written size on the computer, and re-commit if it differs.
 - **Obsidian's file list can lag:** files replaced from outside Obsidian (bridge writes, Node's `fs`) can keep their old size and date in `app.vault` until Obsidian restarts. Take sizes from the disk, not from Obsidian, and ask the user to restart Obsidian after a large batch.
 - **When you finish:**
+  - **Keep what a later session will use.** Before the clean-up, save into the vault every script, job template and data list this session built that a later session may need (a linker, a parser, a list of undecided items), with a line saying what it does: scripts in `AI/Prompts/Scripts/<topic>/`, job templates and data for open items in `.work/edits/`. A handoff never says "re-derive" for something that exists when it is written. Such a tool is removed only when it is clearly no longer needed, and the AI log says so. (Stephen, 26 Oct 2026.)
   - Clean up only your session's scratch in `.work/`: the bundles you made, the result files you wrote in `.work/out/`, and `.work/queue/done/`. Move them into the vault trash with the adapter, since `.work` is a hidden folder Obsidian doesn't index: `await app.vault.adapter.rename('.work/<folder>', '.trash/work-<task>-<YYYY-MM-DD>/<folder>')`.
   - Never move `.work/plan/` (the job runner lives there) or the `.work/backup-*` folders. The backups stay until Stephen decides they can go.
   - Any other scratch file you created inside the vault goes to `.trash` with `app.vault.trash(file, false)`.

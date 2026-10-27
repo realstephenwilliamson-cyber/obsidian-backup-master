@@ -17,6 +17,8 @@ nyasa: "śa: bone (*asthi*) · ra: blood (*rakta*) · ī: left eye (*dṛk*)"
 
 **Card 105 of 108** (printed: Card 3-45 · Alpha 94) · word
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** श्री

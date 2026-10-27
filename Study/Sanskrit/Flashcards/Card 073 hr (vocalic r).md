@@ -17,6 +17,8 @@ nyasa: "ha: breath (*prāṇa*) · ṛ: right nostril (*nāsā*)"
 
 **Card 73 of 108** (printed: Card 3-13 · Alpha 101) · consonant + vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** हृ

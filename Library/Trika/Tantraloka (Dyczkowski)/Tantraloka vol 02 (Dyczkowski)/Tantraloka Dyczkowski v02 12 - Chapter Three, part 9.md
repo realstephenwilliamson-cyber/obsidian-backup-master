@@ -181,7 +181,7 @@ The Awakened One should apply the fifty aforementioned kinds of reflective aware
 
 (to all the other principles) also, from that of Water onwards right up to the last, (where the yogi reaches) the supreme principle beyond all obscuring coverings, which pervades (all things), is free, omniscient, and conceived to 
 
-be Śiva.[^804] (274cd- 277ab) (274-276) 
+be Śiva.[^804] (274cd-277ab) (274-276) 
 
 #### Viveka on 3.274–276
 
@@ -281,7 +281,7 @@ that Arises in the Mirror of My Consciousn:
 matta evoditam idaṁ mayyeva pratibimbitam ॥ 280 ॥
 madabhinnam idar ceti tridhopāyaḥ sa śāmbhavaḥ | 
 
-SIXA) this is born from me”, “it is reflected in me” and “is not separate from me” — three-fold is this Divine (Śāmbhava) Means.” (280cd- 281ab) (280) 
+SIXA) this is born from me”, “it is reflected in me” and “is not separate from me” — three-fold is this Divine (Śāmbhava) Means.” (280cd-281ab) (280) 
 
 #### Viveka on 3.280
 
@@ -389,7 +389,7 @@ vivar dravati mayy etad iti paśyan praśāmyati |
 
 *[p. 405]* ^pg421
 
-me, whose nature is the scorching fire of the great, perpetually active (satatodita) consciousness” — seeing thus, one becomes peaceful. (283cd- 286ab) (283-285) 
+me, whose nature is the scorching fire of the great, perpetually active (satatodita) consciousness” — seeing thus, one becomes peaceful. (283cd-286ab) (283-285) 
 
 #### Viveka on 3.283–285
 
@@ -516,7 +516,7 @@ So what is the use of the diverse means (to spiritual development in that case)?
 
 Surely (one may ask,) if (a disciple) who is not like this is engaged in worshipping that (teacher who is such), then what can he attain there (in that case) by it? With doubt in mind, he says: 
 
-[^827]: At this point the transition is made from the Śāmbhava Means to No Means (anupāya). Cf. below, 2/35cd-37ab (36-37). These lines are quoted above ad 3/268cd-271ab (268- 270).
+[^827]: At this point the transition is made from the Śāmbhava Means to No Means (anupāya). Cf. below, 2/35cd-37ab (36-37). These lines are quoted above ad 3/268cd-271ab (268-270).
 [^828]: One who is established ‘herein’, i.e. in No Means, the culmination of the Śāmbhava Means, becomes not just one who is himself liberated, he is also a teacher who can liberate others if, by Śiva's grace, they are capable of practicing the Supreme, i.e. Śāmbhava Means. Cf. above 2/33ab (2/33cd) ff.
 [^829]: Cf, above note to 2/2.
 [^830]: \[illegible\] Clearly Jayaratha understands that here Abhinava is talking about the highest level of the Divine Means (śāmbhavopāya), which is No Means. Cf. above TĀv ad 2/40, where this phrase is quoted, as it is below ad 4/203.

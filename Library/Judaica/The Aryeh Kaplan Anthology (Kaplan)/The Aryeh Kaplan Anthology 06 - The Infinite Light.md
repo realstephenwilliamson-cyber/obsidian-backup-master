@@ -1712,7 +1712,7 @@ Techlyath HaMethim p. 4; Ikkarim 1:2, 2:7; Pardes Rimonim 1:9. See Chovoth HaLev
 
 from [[Chagigah 15#15a|Chagigah 15a]]; Moreh Nevukhim 1:35, 2:1 end; Kuzari 5:18 \*6. Chovoth HaLevavoth 39b; Moreh Nevukhim 1:58; Pardes Rimonim 3:1, 29. 
 
-4:8; Ikkarim 2:22. See also Zohar 2:42b; Nefesh HaChaim 2:2. 
+4:8; Ikkarim 2:22. See also [[Zohar 2.042b|Zohar 2:42b]]; Nefesh HaChaim 2:2. 
 
 30\. Mekhilta (65a), Rashi on [[Torah 17 - Yitro#^19-18|Exodus 19:18]]; Tanchuma Yithro 13; Bereshith Rabbah 27:1; Koheleth Rabbah 2:24; Pesikta 4 (36b); Moreh Nevuchim 1:26, 1:47; Emunoth VeDeyoth 2:10; Chovoth HaLevavoth 1:10; Kuzari 4:3 (18a). See also Ramban on [[Torah 11 - Vayigash#^46-1|Genesis 46:1]]; Tifereth Yisrael (Maharal) 33. 
 
@@ -1730,7 +1730,7 @@ Tikuney Zohar 17a.
 
 35\. Nefesh HaChaim 1:1; Pardes Rimonim 31:8; Etz Chaim, Drush Egolim VaYashar 5; Shomer Emunim (HaKadmon) 1:25. 
 
-36\. [[Zohar 2.02 - Parashat Lekh Lekha#^z1-90b|Zohar 1:90b]], 2:96b, 3:71b; Likutey Amarim (Tanya) 1:4. 
+36\. [[Zohar 2.02 - Parashat Lekh Lekha#^z1-90b|Zohar 1:90b]], [[Zohar 5.03 - Parashat Mishpatim#^z2-96b|2:96b]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-71b|3:71b]]; Likutey Amarim (Tanya) 1:4. 
 
 37\. Tana DeBei Eliahu Rabbah, end of \*1. 
 
@@ -1856,7 +1856,7 @@ Taanith 21b.
 
 85\. See Metzudoth ad loc.; Tosafoth Yom Tov on Tamid 7:4 s.v. “LeChayay. ” 
 
-86\. Zohar 2:42b; Tikuney Zohar 3a, 62a; Reshith Chochmah 7a, 8c,d; Radak on [[Jeremiah 23#^23-24|Jeremiah 23:24]]. 
+86\. [[Zohar 2.042b|Zohar 2:42b]]; Tikuney Zohar 3a, 62a; Reshith Chochmah 7a, 8c,d; Radak on [[Jeremiah 23#^23-24|Jeremiah 23:24]]. 
 
 87\. Shomer Emunim (HaKadmon) 2:11. 
 

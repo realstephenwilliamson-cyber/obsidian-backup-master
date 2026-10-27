@@ -769,7 +769,7 @@ Rabbi Ḥiyya said, “The Companions have already established that the Holy Spi
 
     Jacob’s message to Esau implied that he had mastered sorcery, but then he humbled himself before Esau by bowing seven times. See [[Torah 08 - Vayishlach#^33-3|Genesis 33:3]]; *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-166b|1:166b]]–167a; [[Zohar 4.06 - Parashat Be-Shallah#^z2-64b|2:64b]].
 
-[^69]: **empowered only on account of Israel…** See *Mekhilta, Beshallaḥ* 1; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^14-5|Exodus 14:5]]; BT *Ḥagigah* [[Chagigah 13#13b|13b]]; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-16b|2:16b]]–17a (*MhN*), 49a.
+[^69]: **empowered only on account of Israel…** See *Mekhilta, Beshallaḥ* 1; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^14-5|Exodus 14:5]]; BT *Ḥagigah* [[Chagigah 13#13b|13b]]; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-16b|2:16b]]–17a (*MhN*), [[Zohar 4.06 - Parashat Be-Shallah#^z2-49a|49a]].
 
     The Babylonians destroyed the first Temple in 586 B.C.E.; the Romans (symbolized by Edom) destroyed the second Temple in 70 C.E. Both of these cataclysms brought exile upon the Jews. (Edom also symbolizes medieval Christianity.)
 
@@ -1069,7 +1069,7 @@ Rabbi Ḥiyya said, “The Companions have already established that the Holy Spi
 
 [^166]: **When the dominion of Babylon…** When the exile came to an end, not all of Israel turned back to God or returned to the Holy Land. Even though the end of Babylonian dominion signified the empowerment of *Shekhinah*—who is symbolized by the final (“lower”) ה (*he*) of יהוה (*YHVH*)—Israel’s sporadic behavior impeded the emanation from *Ḥokhmah*, symbolized by י (*yod*). Their imperfection strengthened the forces of harsh Judgment on the left, which constricted the flow.
 
-    On Israel’s failure to return en masse from Babylon, see *Shir ha-Shirim Rabbah* on 8:8–9. On their sin of intermarriage there, see [[Ezra 09#^9-1|Ezra 9]]–10; above, p. 24 and n. 92; *OY*. “In disarray” and “erratically” both render בערבוביא (*be-irbuvya*), “in confusion.” See *Vayiqra Rabbah* 36:2 (where the word means “disarray”); *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-164a|2:164a]] and 195a (where it refers to intermingling with non-Israelites); *OY*; Galante; *MmD*. On Israel as God’s treasure, see [[Torah 17 - Yitro#^19-5|Exodus 19:5]]. On the inferiority of the Second Temple to the First Temple, see JT *Ta’anit* 2:1, 65a; BT *Yoma* [[Yoma 21#21b|21b]]; *Shir ha-Shirim Rabbah* on 8:8.
+    On Israel’s failure to return en masse from Babylon, see *Shir ha-Shirim Rabbah* on 8:8–9. On their sin of intermarriage there, see [[Ezra 09#^9-1|Ezra 9]]–10; above, p. 24 and n. 92; *OY*. “In disarray” and “erratically” both render בערבוביא (*be-irbuvya*), “in confusion.” See *Vayiqra Rabbah* 36:2 (where the word means “disarray”); *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-164a|2:164a]] and [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-195a|195a]] (where it refers to intermingling with non-Israelites); *OY*; Galante; *MmD*. On Israel as God’s treasure, see [[Torah 17 - Yitro#^19-5|Exodus 19:5]]. On the inferiority of the Second Temple to the First Temple, see JT *Ta’anit* 2:1, 65a; BT *Yoma* [[Yoma 21#21b|21b]]; *Shir ha-Shirim Rabbah* on 8:8.
 
 [^167]: **wars were declared…** Israel’s failures stimulated war and the dimming of *Shekhinah*. The Second Temple (symbolizing Her) was destroyed by Rome (known as Edom), and She went into exile along with Her angels (known as the “twelve tribes”) and their camps (lower angels or the tribes of Israel).
 
@@ -1187,7 +1187,7 @@ Rabbi Ḥiyya said, “The Companions have already established that the Holy Spi
 
 [^194]: **appointed over earth… plucked…** *Shekhinah* is designated to conduct the world. She is nourished by souls of the righteous who are taken from the world while still untainted by sin.
 
-    On the effect of souls of the righteous on *Shekhinah*, see *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-60a|1:60a]]–b, [[Zohar 3.07 - Parashat Va-Yhi#^z1-235a|235a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-244a|244a–b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-245b|245b]]. On removing the righteous (or innocent) while they are still pure, see BT *Ḥagigah* [[Chagigah 5#5a|5a]]; *Shir ha-Shirim Rabbah* on 6:2; *Qohelet Rabbah* on 7:15; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-56b|1:56b]] (quoting [[Ecclesiastes 08#^8-14|Ecclesiastes 8:14]]); 2:96a–b; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-20a|20a–b]] (*MhN*), [[Zohar 12.07 - Raza de-Razin#^zh-36b|36b]] (*ST*). Cf. M *Sanhedrin* 8:5; *Sifrei*, Deuteronomy 218.
+    On the effect of souls of the righteous on *Shekhinah*, see *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-60a|1:60a]]–b, [[Zohar 3.07 - Parashat Va-Yhi#^z1-235a|235a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-244a|244a–b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-245b|245b]]. On removing the righteous (or innocent) while they are still pure, see BT *Ḥagigah* [[Chagigah 5#5a|5a]]; *Shir ha-Shirim Rabbah* on 6:2; *Qohelet Rabbah* on 7:15; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-56b|1:56b]] (quoting [[Ecclesiastes 08#^8-14|Ecclesiastes 8:14]]); [[Zohar 5.03 - Parashat Mishpatim#^z2-96a|2:96a–b]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-20a|20a–b]] (*MhN*), [[Zohar 12.07 - Raza de-Razin#^zh-36b|36b]] (*ST*). Cf. M *Sanhedrin* 8:5; *Sifrei*, Deuteronomy 218.
 
     On Enoch, see *Bereshit Rabbah* 25:1: “*Enoch walked with God, and he was no more, for God took him*… Rabbi Aivu said, ‘Enoch was a hypocrite, sometimes righteous, sometimes wicked. The blessed Holy One said, “While he is righteous I will remove him.”’” See Theodor’s note ad loc.; *Wisdom of Solomon* 4:10–11.
 
@@ -1263,7 +1263,7 @@ Rabbi Ḥiyya said, “The Companions have already established that the Holy Spi
 
 [^214]: **soul—deriving from the Tree of Life…** Whereas the spirit—רוח (*ruaḥ*)—derives from *Shekhinah*, the soul—נשמה (*neshamah*)—derives from *Tif’eret*, known as Tree of Life. At death, the soul enters the higher garden, *Shekhinah*, known as “bundle of life” and *temple*, from where it gazes upon an even higher realm: *Binah*, known as *beauty of YHVH*.
 
-    On these origins of *ruaḥ* and *neshamah*, see *Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-81a|1:81a]] (*ST*); 2:99b; 3:170a; Tishby, *Wisdom of the Zohar*, 2:696. On the verse in Psalms, see *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-218a|1:218a]].
+    On these origins of *ruaḥ* and *neshamah*, see *Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-81a|1:81a–b]] (*ST*); [[Zohar 5.03 - Parashat Mishpatim#^z2-99b|2:99b]]; [[Zohar 9.04 - Rav Metivta#^z3-170a|3:170a]]; Tishby, *Wisdom of the Zohar*, 2:696. On the verse in Psalms, see *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-218a|1:218a]].
 
     The phrase “bundle of life” derives from [[I Samuel 25#^25-29|1 Samuel 25:29]]: *The soul of my lord will be bound in the bundle of life*. In the *Zohar*, this *bundle* can refer to the celestial Garden of Eden or to *Shekhinah*, source and destination of all souls.
 

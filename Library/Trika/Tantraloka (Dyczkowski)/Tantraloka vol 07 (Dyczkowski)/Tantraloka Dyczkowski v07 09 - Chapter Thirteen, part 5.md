@@ -650,7 +650,7 @@ This (impulse to spiritual practice) is not due to the balance of (contrary) Kar
 
 *[p. 287]* ^pg309
 
-the maturation of Impurity etc. — (all of which have already) been refuted. If (you say that) the Lord’s will is the cause, then (it is clear that) the one cause (of all these attainments) is a descent of the power (of grace). (261cd- 262ab) 
+the maturation of Impurity etc. — (all of which have already) been refuted. If (you say that) the Lord’s will is the cause, then (it is clear that) the one cause (of all these attainments) is a descent of the power (of grace). (261cd-262ab) 
 
 #### Viveka on 13.261–262
 
@@ -667,7 +667,7 @@ japādikā kriyāśaktir \[illegible\] na tu karma tat || 262 ॥
 karma tal lokarūdham hi yad bhogam avaraṁ dadat |
 tirodhatte bhoktrrūpamn \[illegible\] \[illegible\] tu na no bharaḥ ॥ 263 ॥ 
 
-As this is so, (actions) such as the repetition of Mantra are (an expression of) the power of action. That is not Karma. The common meaning of the word Karma is that it gives lower (avara) worldly experience (bhoga) and hides the (true) nature of the experiencing subject (bhoktr). (Anyway,) we do not lend any weight to a (mere) name.” (262cd- 263) 
+As this is so, (actions) such as the repetition of Mantra are (an expression of) the power of action. That is not Karma. The common meaning of the word Karma is that it gives lower (avara) worldly experience (bhoga) and hides the (true) nature of the experiencing subject (bhoktr). (Anyway,) we do not lend any weight to a (mere) name.” (262cd-263) 
 
 #### Viveka on 13.262–263
 
@@ -757,7 +757,7 @@ Surely (one may ask), what is the accomplishment meant here? With this doubt in 
 avicchinnasvātmasaṁvitprathā siddhir ihocyate | 267 ॥
 sā bhogamokṣasvātantryamahālakṣmīr ihākṣayā | 
 
-The perception of the unlimited nature of one’s own consciousness is said here to be accomplishment (siddhi). It is Mahālakṣmī (the Great Goddess of Prosperity) here (in this world) who, imperishable, is the freedom from which worldly benefits and liberation proceed. (267cd- 268ab) 
+The perception of the unlimited nature of one’s own consciousness is said here to be accomplishment (siddhi). It is Mahālakṣmī (the Great Goddess of Prosperity) here (in this world) who, imperishable, is the freedom from which worldly benefits and liberation proceed. (267cd-268ab) 
 
 #### Viveka on 13.267–268
 

@@ -16,7 +16,7 @@ Converted from the PDF on 26 Oct 2026 (PDF text layer, PyMuPDF). Each PDF page s
 
 ## Contents
 
-- [[Old Testament VSI 01 - Front matter|Front matter]] (pp. x)
+- [[Old Testament VSI 01 - Front matter|Front matter]] (pp. viii–xii)
 - [[Old Testament VSI 02 - Chapter 1. What is the Old Testament|Chapter 1. What is the Old Testament?]] (pp. 1–11)
 - [[Old Testament VSI 03 - Chapter 2. Interpretive strategies|Chapter 2. Interpretive strategies]] (pp. 12–21)
 - [[Old Testament VSI 04 - Chapter 3. The Old Testament and history|Chapter 3. The Old Testament and history]] (pp. 22–32)

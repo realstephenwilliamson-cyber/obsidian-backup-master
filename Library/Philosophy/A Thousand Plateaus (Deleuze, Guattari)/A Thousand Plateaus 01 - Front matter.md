@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Deleuze, Guattari - A Thousand Plateaus]]"
 book: "[[Library/Philosophy/A Thousand Plateaus (Deleuze, Guattari)/A Thousand Plateaus (Deleuze, Guattari)|A Thousand Plateaus (Deleuze, Guattari)]]"
 order: 1
 source_pdf: "Library/Philosophy/Deleuze, Guattari - A Thousand Plateaus (1987).pdf"
-page_range: "vi–viii"
+page_range: "v–viii"
 pdf_pages: "1–9"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-26
@@ -86,7 +86,7 @@ Originally published as *Mille Plateaux,* volume 2 of *Capitalisme et Schizophre
 
 The University of Minnesota is an equal-opportunity educator and employer. 
 
-*[PDF 6]* ^pg6
+*[p. v]* ^pg6
 
 ### Contents
 

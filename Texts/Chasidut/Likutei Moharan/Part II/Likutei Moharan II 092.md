@@ -25,7 +25,7 @@ lesson: 92
 
 The rectification for a nocturnal emission, God forbid, is to recite ten psalms, as explained in Part I (Likutey Moharan I, 205) ; see the [discussion of this] topic there.
 
-For ten psalms parallel the ten types of song that constitute the Book of Psalms ([[Pesachim 117#117a|Pesachim 117a]]; [[Zohar 8.04 - Parashat Emor#^z3-101a|Zohar III, 101a]] and 223b; Tikkuney Zohar #13, p.27a). These are: *berakhah, ashrei, maskil,* etc. For the aforementioned ten types of song have the power to eliminate the power of the aforementioned *kelipah* (force of evil) and the blemish, because they are the antithesis of that *kelipah* and blemish, as explained there in Part 1.
+For ten psalms parallel the ten types of song that constitute the Book of Psalms ([[Pesachim 117#117a|Pesachim 117a]]; [[Zohar 8.04 - Parashat Emor#^z3-101a|Zohar III, 101a]] and [[Zohar 3.223b|223b]]; Tikkuney Zohar #13, p.27a). These are: *berakhah, ashrei, maskil,* etc. For the aforementioned ten types of song have the power to eliminate the power of the aforementioned *kelipah* (force of evil) and the blemish, because they are the antithesis of that *kelipah* and blemish, as explained there in Part 1.
 
 And know! this matter of the ten types of song, which counter the blemish, is alluded to in the following verses:
 

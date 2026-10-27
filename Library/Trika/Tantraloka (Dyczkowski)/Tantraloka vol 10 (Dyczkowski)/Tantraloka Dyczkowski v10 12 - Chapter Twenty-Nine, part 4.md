@@ -56,7 +56,7 @@ Here (in this state) he should (now) make (this experience) stable. Accordingly,
 abhyasyed (bhavasamvittim sarvabhāvanivartanāt | 146 ॥
 sūryasomau tu sarirudhya layavikṣepamārgataḥ | 
 
-He should practice the consciousness of Being (bhāvasarivitti) by turning away from all (these) states of being (bhāva), having restrained the Sun and Moon from the paths of merger and projection (vikṣepa). (146cd- 147ab) 
+He should practice the consciousness of Being (bhāvasarivitti) by turning away from all (these) states of being (bhāva), having restrained the Sun and Moon from the paths of merger and projection (vikṣepa). (146cd-147ab) 
 
 #### Viveka on 29.146–147
 
@@ -119,7 +119,7 @@ yugapal lakṣavibheda-
 
 prapañcitaḥ nādavṛttyaiva | 
 
-Here itself, (immersed in the Resonance of awareness,) he should practice the repetition of Mantra (japa) explained (previously) in units of one hundred thousand (lakṣa);[^362] as a dynamic state of the Sound (of awareness) (nādavṛtti), so that consciousness, in a state of oneness with the subordinate Wheels, may come about (altogether) all at once. (149cd- 150ab) 
+Here itself, (immersed in the Resonance of awareness,) he should practice the repetition of Mantra (japa) explained (previously) in units of one hundred thousand (lakṣa);[^362] as a dynamic state of the Sound (of awareness) (nādavṛtti), so that consciousness, in a state of oneness with the subordinate Wheels, may come about (altogether) all at once. (149cd-150ab) 
 
 #### Viveka on 29.149–150
 
@@ -224,7 +224,7 @@ kurvaṁs turye 51071771 labhate |
 
 *[p. 335]* ^pg352
 
-Thus, he who, by means of the seal (mudrā) which is the union of Moon, Sun and Fire, is engaged in internalizing (into consciousness) the succession of emanation, (persistence and withdrawal)” suddenly (jhatiti) attains stability (sthiti) in the (liberated) Fourth (state of consciousness). (153cd- 154ab) 
+Thus, he who, by means of the seal (mudrā) which is the union of Moon, Sun and Fire, is engaged in internalizing (into consciousness) the succession of emanation, (persistence and withdrawal)” suddenly (jhatiti) attains stability (sthiti) in the (liberated) Fourth (state of consciousness). (153cd-154ab) 
 
 #### Viveka on 29.153–154
 
@@ -553,7 +553,7 @@ saktidehe nije nyasyed vidyār kütam anukramāt || 167 ॥
 dhyātvā candranibhaṁ padmam ātmānamn bhāskaradyutim |
 vidyāmantrātmakaṁ pīthadvayam atraiva melayet | 168 ॥ 
 
-By the grace of this pair (of seats), (he is) free of yogic practice and (the observance) of vows. Having constantly recollected (the deity), (the teacher) is intent solely on the Foremost Sacrifice. He should deposit the Vidyā and the seed syllable (kita) ) on the body of Śakti and on his own (respectively), in due order, having meditated on the lotus (of the Śakti) which is like the Moon and his own (that shines with) the radiant brilliance of the Sun. He should (thus) unite here the two seats, that is, Vidyā (which is the lotus of the Moon) and Mantra (which is the lotus of the Sun). (166cd- 168) 
+By the grace of this pair (of seats), (he is) free of yogic practice and (the observance) of vows. Having constantly recollected (the deity), (the teacher) is intent solely on the Foremost Sacrifice. He should deposit the Vidyā and the seed syllable (kita) ) on the body of Śakti and on his own (respectively), in due order, having meditated on the lotus (of the Śakti) which is like the Moon and his own (that shines with) the radiant brilliance of the Sun. He should (thus) unite here the two seats, that is, Vidyā (which is the lotus of the Moon) and Mantra (which is the lotus of the Sun). (166cd-168) 
 
 #### Viveka on 29.166–168
 
@@ -835,7 +835,7 @@ Initiation (dīkṣā)
 itthaṁ yāgaṁ vidhāyādau tādṛśaucityabhāginam I| 186 ॥
 lakṣaikīyaṁ svaśiṣyaṁ tarn dīkṣayet tādṛśi krame | 
 
-Having celebrated the sacrifice in this way, (the teacher) may initiate into that kind of liturgy (krama) his own (close) disciple who, one in a hundred thousand, possesses the qualifications for such (a rite). (186cd- 187ab) 
+Having celebrated the sacrifice in this way, (the teacher) may initiate into that kind of liturgy (krama) his own (close) disciple who, one in a hundred thousand, possesses the qualifications for such (a rite). (186cd-187ab) 
 
 #### Viveka on 29.186–187
 
@@ -1124,7 +1124,7 @@ The Initiation of the Apprentice (putrakadīkṣā)
 
 [^451]: \[illegible\] Read mahādevi for mahādevī.
 [^452]: The Mālinīvijaya is, no doubt, the Mālinīvijayottara. Clearly, it was redacted before the Kularatnamālā.
-[^453]: See above, note 1,88. 455 29/202cd-205 is a paraphrase of MV 11/29-33ab; 206 is a literal quote of MV 11/33cd-34ab. Note that MV 11/29-32ab is quoted by Nārāyaṇakanṭha in his commentary on the MṛT Kriyāpāda 8/157cd-158a. MV 11/29-34ab: ‘Having worshipped the disciple well, as before, and deposited the path that is to be purified in a state in which it pervades all the path, (the wise and) skilful (teacher) should observe Śakti in (the disciple’s) erect body, (traversing through it) from the tips of (his) feet to the top of (his) head by means of the aforementioned path, that is divided into (the principles,) beginning with Sakti. (29-30) Then, having sat down, he should practice this procedure. His mind intent on imagining the purification of what is to be purified, he should conjoin the energy, shining like an inflamed fire (moving through it), beginning from the root object of purification. He should think that, free of disease (and death), that (energy) is (engaged) in this way in burning away all those things that need to be purified, and is dissolved away in Śiva without and with parts (niṣkale sakale). (31cd- 33ab) Applied by the yogi to the path (of suṣumnā), (this energy) nourishes those things that are as it is (sajāfīya), and burns away the mass of all that differs from it (bhinnajāti)? (11/33cd-34ab)
+[^453]: See above, note 1,88. 455 29/202cd-205 is a paraphrase of MV 11/29-33ab; 206 is a literal quote of MV 11/33cd-34ab. Note that MV 11/29-32ab is quoted by Nārāyaṇakanṭha in his commentary on the MṛT Kriyāpāda 8/157cd-158a. MV 11/29-34ab: ‘Having worshipped the disciple well, as before, and deposited the path that is to be purified in a state in which it pervades all the path, (the wise and) skilful (teacher) should observe Śakti in (the disciple’s) erect body, (traversing through it) from the tips of (his) feet to the top of (his) head by means of the aforementioned path, that is divided into (the principles,) beginning with Sakti. (29-30) Then, having sat down, he should practice this procedure. His mind intent on imagining the purification of what is to be purified, he should conjoin the energy, shining like an inflamed fire (moving through it), beginning from the root object of purification. He should think that, free of disease (and death), that (energy) is (engaged) in this way in burning away all those things that need to be purified, and is dissolved away in Śiva without and with parts (niṣkale sakale). (31cd-33ab) Applied by the yogi to the path (of suṣumnā), (this energy) nourishes those things that are as it is (sajāfīya), and burns away the mass of all that differs from it (bhinnajāti)? (11/33cd-34ab)
 
 *[p. 362]* ^pg379
 

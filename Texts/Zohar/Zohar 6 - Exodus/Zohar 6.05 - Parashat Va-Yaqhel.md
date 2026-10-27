@@ -1021,7 +1021,7 @@ Rabbi Shim’on said, “At that time when the dead of the world will awaken, th
 
     On confounding Satan with the shofar, see BT *Rosh ha-Shanah* [[Rosh Hashanah 16#16a|16a]]–b: “Why do we sound a plain blast and a tremolo blast while sitting and then again while standing? In order to confound Satan.” See above, p. 35, n. 88.
 
-    The full verse in Proverbs, warning against the seductive *strange woman*, reads: *Her feet descend to death; her steps grasp Sheol*. In the *Zohar* this verse is sometimes applied to Lilith and her demonic realm (*Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-161b|1:161b]] \[*ST*\], 190a) and sometimes to *Shekhinah*, who is vulnerable to demonic forces (1:35b; 2:48b; 3:107b). Here, it refers to the fact that ever since Eve women are haunted by the Angel of Death. See above, note 26. On Eve bringing death upon the world, see JT *Sanhedrin* 2:3, 20b; *Bereshit Rabbah* 17:8; *Avot de-Rabbi Natan* B, 9 (all in the context of the funeral procession).
+    The full verse in Proverbs, warning against the seductive *strange woman*, reads: *Her feet descend to death; her steps grasp Sheol*. In the *Zohar* this verse is sometimes applied to Lilith and her demonic realm (*Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-161b|1:161b]] \[*ST*\], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-190a|190a]]) and sometimes to *Shekhinah*, who is vulnerable to demonic forces (1:35b; 2:48b; 3:107b). Here, it refers to the fact that ever since Eve women are haunted by the Angel of Death. See above, note 26. On Eve bringing death upon the world, see JT *Sanhedrin* 2:3, 20b; *Bereshit Rabbah* 17:8; *Avot de-Rabbi Natan* B, 9 (all in the context of the funeral procession).
 
     The full verse in Numbers reads: *When you enter into battle in your land against the foe who assails you, you shall sound a blast with the trumpets and be remembered before YHVH your God and be delivered from your enemies*.
 
@@ -1303,7 +1303,7 @@ Rabbi Shim’on said, “At that time when the dead of the world will awaken, th
 
 [^90]: ***Refa’im, Spirits of the dead, they will never rise*…** Rabbi Abba explains that here too *refa’im* means *healed*, referring to the corpses of other nations, which will also be healed but not resurrected. “Happy is the share of Israel,” who will be both healed and resurrected.
 
-[^91]: **This fish, as soon as it swallowed Jonah, died…** Rabbi Abba demonstrates this from the fact that the verse in Jonah employs the feminine form הדגה (*ha-dagah*), *the fish*—the same form that appears in Exodus, describing the fish that died in the first of the ten plagues. See *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-121a|1:121a]]; 2:48a; Baḥya ben Asher on [[Torah 36 - Beha'alotcha#^11-5|Numbers 11:5]]; idem, *Kad ha-Qemaḥ*, 217. Cf. BT *Nedarim* [[Nedarim 51#51b|51b]]; Ibn Ezra and David Kimḥi on [[Jonah 2#^2-2|Jonah 2:2]].
+[^91]: **This fish, as soon as it swallowed Jonah, died…** Rabbi Abba demonstrates this from the fact that the verse in Jonah employs the feminine form הדגה (*ha-dagah*), *the fish*—the same form that appears in Exodus, describing the fish that died in the first of the ten plagues. See *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-121a|1:121a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-48a|2:48a]]; Baḥya ben Asher on [[Torah 36 - Beha'alotcha#^11-5|Numbers 11:5]]; idem, *Kad ha-Qemaḥ*, 217. Cf. BT *Nedarim* [[Nedarim 51#51b|51b]]; Ibn Ezra and David Kimḥi on [[Jonah 2#^2-2|Jonah 2:2]].
 
     Just as the fish died and was then revived and vomited out Jonah, so will the earth die and then be revived and *cast forth the healed* corpses. This interpretation accords with the reading “ארעא (*ar’a*), the earth, will awaken first,” preserved in numerous manuscripts and the Cremona edition. The text accompanying *Or Yaqar* and the Mantua edition read instead “דישראל‎ ארעא (*ar’a de-yisra’el*), the land of Israel, will awaken first”—an apparently emended version, matching the rabbinic tradition that the land of Israel will revive its dead before any other land. According to this reading, the verse in Isaiah is understood as וארץ (*Ve-erets*), *The land* \[of Israel\], *will cast forth the healed*. See above, note 89.
 
@@ -1547,7 +1547,7 @@ Rabbi Shim’on said, “At that time when the dead of the world will awaken, th
 
     According to Rabbi Yitsḥak, Ezekiel’s vision matches the arrangement of the shells on the eve of Sabbath, when the outermost shell (a *stormy wind*) draws near *Shekhinah*. This *stormy wind* is identified with the star. Beneath it are *a great cloud* (the color white) and *flashing fire* (the color green). See Tishby, *Wisdom of the Zohar*, 2:491.
 
-    On Ezekiel’s vision and the shells, see *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-81b|2:81b]]–82a; *ZḤ* [[Zohar 12.10 - Merkevet Yehezqel#^zh-38a|38a–d]]; Moses de León, *Peirush ha-Merkavah*, 59–60; Tishby, *Wisdom of the Zohar*, 2:463–64, 509. On shell and kernel, see also *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-19b|1:19b]]–20a (Vol. 1, p. 151, n. 341); 2:131a, 140b, 147b, 213a, 233b.
+    On Ezekiel’s vision and the shells, see *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-81b|2:81b]]–82a; *ZḤ* [[Zohar 12.10 - Merkevet Yehezqel#^zh-38a|38a–d]]; Moses de León, *Peirush ha-Merkavah*, 59–60; Tishby, *Wisdom of the Zohar*, 2:463–64, 509. On shell and kernel, see also *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-19b|1:19b]]–20a (Vol. 1, p. 151, n. 341); [[Zohar 5.05 - Parashat Terumah#^z2-131a|2:131a]], [[Zohar 5.05 - Parashat Terumah#^z2-140b|140b]], [[Zohar 5.05 - Parashat Terumah#^z2-147b|147b]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-213a|213a]], [[Zohar 6.06 - Parashat Pequdei#^z2-233b|233b]].
 
     On the *stormy wind* coming to conquer the world before Nebuchadnezzar, see BT *Ḥagigah* [[Chagigah 13#13b|13b]] in the name of Rav; *ZḤ* [[Zohar 12.10 - Merkevet Yehezqel#^zh-38a|38a]].
 
@@ -2167,7 +2167,7 @@ Rabbi Shim’on said, “At that time when the dead of the world will awaken, th
 
 [^294]: **Those souls in the Garden of Eden below…** Who are not yet privileged to ascend to the celestial Garden. On special occasions they draw near heavenly Jerusalem, the realm of *Shekhinah*, who sustains the heavenly Garden.
 
-    On the walls of heavenly Jerusalem, guarded by angels, see *Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-80b|1:80b]] (*ST*); 2:89b.
+    On the walls of heavenly Jerusalem, guarded by angels, see *Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-80b|1:80b–81a]] (*ST*); [[Zohar 4.07 - Parashat Yitro#^z2-89b|2:89b]].
 
 [^295]: **Emerging from there…** Emerging from the earthly Garden, these souls roam the world and witness the punishment of the bodies of the wicked.
 
@@ -2737,7 +2737,7 @@ Rabbi Shim’on said, “At that time when the dead of the world will awaken, th
 
 [^440]: ***Take for yourself fragrant spices*…** Rabbi Yose wonders why this particular divine command to Moses is worded *Take for yourself*. He explains that this implies Moses’ own pleasure and benefit, since through the offering of incense *Shekhinah* was purified of the filthy Other Side and prepared for union with Her Husband—a role played by Moses himself, who had attained the rung of *Tif’eret*. This resembles the situation of a woman who is cleansed of menstrual impurity and thereby allowed to unite with her husband.
 
-    On the hyperliteral interpretation of לך (*lekha*) as *for* \[or: *to*\] *yourself*, see *Seder Eliyyahu Rabbah* 27, p. 144; Rashi and Naḥmanides on [[Torah 03 - Lech Lecha#^12-1|Genesis 12:1]]; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-77b|1:77b]]–78a, 254b (*Hash*); [[Zohar 4.04 - Parashat Va-Era#^z2-32a|2:32a]] (Vol. 4, p. 134, n. 235); 3:17b, 157a; *ZḤ* [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-71b|71b]] (*ShS*); and the following note.
+    On the hyperliteral interpretation of לך (*lekha*) as *for* \[or: *to*\] *yourself*, see *Seder Eliyyahu Rabbah* 27, p. 144; Rashi and Naḥmanides on [[Torah 03 - Lech Lecha#^12-1|Genesis 12:1]]; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-77b|1:77b]]–78a, 254b (*Hash*); [[Zohar 4.04 - Parashat Va-Era#^z2-32a|2:32a]] (Vol. 4, p. 134, n. 235); [[Zohar 7.03 - Parashat Va-Yiqra#^z3-17b|3:17b]], [[Zohar 9.03 - Parashat Shelah Lekha#^z3-157a|157a]]; *ZḤ* [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-71b|71b]] (*ShS*); and the following note.
 
     On Moses as the husband of *Shekhinah*, see above, pp. 103–4, n. 128. On the verse in Exodus, see BT *Yoma* [[Yoma 3#3a|3a]]–b.
 

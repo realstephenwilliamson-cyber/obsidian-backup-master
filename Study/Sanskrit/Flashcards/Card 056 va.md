@@ -17,6 +17,8 @@ nyasa: "sinews (*sūtra*)"
 
 **Card 56 of 108** (printed: Card 2-29 · Alpha 90) · consonant · the letter: [[Letter 45 va|व va]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** व

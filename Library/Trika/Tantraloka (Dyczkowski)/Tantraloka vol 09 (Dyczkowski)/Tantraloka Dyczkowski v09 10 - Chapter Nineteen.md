@@ -805,7 +805,7 @@ In the same way, if someone else is helped by the recitation of the scriptures a
 ata eva \[illegible\] \[illegible\] patṭhati kvāpi sāmaye |
 tac chrutvā ko ‘pi dhanyaś cen mucyate nāsya sā kṣatiḥ ॥ 46 ॥ 
 
-Thus, if (some) fortunate man is liberated (on his death bed), having heard his own (appropriate) (nija) scripture recited somewhere by (even) a common initiate, he is not (guilty of) that defect \[illegible\] (46) (46cd- 47ab) 
+Thus, if (some) fortunate man is liberated (on his death bed), having heard his own (appropriate) (nija) scripture recited somewhere by (even) a common initiate, he is not (guilty of) that defect \[illegible\] (46) (46cd-47ab) 
 
 #### Viveka on 19.46–47
 
@@ -823,7 +823,7 @@ Surely, (one may object that) in this way the words (of the scriptures) would ha
 sāstranindāṁ maiṣa kārṣīd dvayoḥ pātityadāyinīm |
 ity evaṁ param etan nādīkṣitāgre paṭhed iti ॥ 47 ॥ 
 
-But (someone may say) that the aim of saying that one should not recite (the scriptures) in front of the uninitiated is so that the scriptures may not be criticized (and profaned), which causes both to fall. (47) (47cd- 48ab) 
+But (someone may say) that the aim of saying that one should not recite (the scriptures) in front of the uninitiated is so that the scriptures may not be criticized (and profaned), which causes both to fall. (47) (47cd-48ab) 
 
 #### Viveka on 19.47–48
 

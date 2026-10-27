@@ -649,7 +649,7 @@ proktaṁ traiśirase tantre ‘parayojanavarnane || 438 ॥
 
 It is said in the \[illegible\] Tantra, in (the section in which) conjunction with the another (aparayojana) is described: ‘A. 1) Māyā and the Drop (bindu), 2) the Self, 3) Sound, 4) Power and 5) Śiva (pervade) B. 1) one’s own nature (svābhāvika) and what is solid (sthira), 2) liquid (drava), 3) burns (dīpta), 4) moves (cala), and 5) space (nabhas), respectively.[^708] In this way, that is, on the basis of the relationship between the pervaded and the pervader, progressively breaking through further inwards, the individual soul (of the disciple should be conjoined first to all the principles) below (it), beginning with Earth and ending with (Māyā, which is called) the Root. 
 
-C. 1) (Then beyond that to) the Ignorance (of the limited capacity to know), Attachment (raga), Necessity (niyati), Time, Māyā, the power (of limited agency) (kalā), the individual soul, 2) (Pure) Knowledge (vidyā) (together with) its Lord, Īśa (i.e., Īśvaratattva), Sadāśiva (sādākhya), 3) Śaktikundalī, the Pervasive One, the Equal One and 4) the Transmental. The teacher who is established in exhalation and knows the conjunctions within the Central Channel (madhyanādīsandhivit) should then 5) conjoin (the disciple with Śiva, who is called) Without Name. (434cd-438) (432- 436ab) 
+C. 1) (Then beyond that to) the Ignorance (of the limited capacity to know), Attachment (raga), Necessity (niyati), Time, Māyā, the power (of limited agency) (kalā), the individual soul, 2) (Pure) Knowledge (vidyā) (together with) its Lord, Īśa (i.e., Īśvaratattva), Sadāśiva (sādākhya), 3) Śaktikundalī, the Pervasive One, the Equal One and 4) the Transmental. The teacher who is established in exhalation and knows the conjunctions within the Central Channel (madhyanādīsandhivit) should then 5) conjoin (the disciple with Śiva, who is called) Without Name. (434cd-438) (432-436ab) 
 
 #### Viveka on 15.432–436
 
@@ -1061,7 +1061,7 @@ uktaṁ dīkṣottare caitaj jvālāsaṁpātaśobhinā |
 dattena śivahastena samayī sa vidhīyate ॥ 461 ॥
 sāyujyam \[illegible\] tattve jīvato ‘dhītiyogyatā | 
 
-And (so) this is said in the Dīkṣottara, (where we read thât) the disciple becomes a regular initiate (samayin) when (the teacher) has given (and laid upon him) Śiva’s hand, beautiful with the descent (saṁpāta) of the flames (of the fire of Mantra). He is united, while he is still alive, with the Iśvara principle, and is (rendered) fit to study (the scriptures).[^739] (461- 462ab) (458cd-459) 
+And (so) this is said in the Dīkṣottara, (where we read thât) the disciple becomes a regular initiate (samayin) when (the teacher) has given (and laid upon him) Śiva’s hand, beautiful with the descent (saṁpāta) of the flames (of the fire of Mantra). He is united, while he is still alive, with the Iśvara principle, and is (rendered) fit to study (the scriptures).[^739] (461-462ab) (458cd-459) 
 
 #### Viveka on 15.458–459
 

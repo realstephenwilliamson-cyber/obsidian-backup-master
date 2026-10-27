@@ -29,7 +29,7 @@ nipātābhyāmantaśabdātsmaraṇācchaturantyataḥ || ^iast
 >
 > When it is said that a person who has been purified by hearing the Brahmavidyā in the last moment (of his life) is liberated, (that is so) in accord with the strength of the preceding latent impressions (of his past actions). (with 28.361cd–362ab)
 >
-> All that concerns the real meaning (of this verse) has been said by (analysing the) two particles, the word ‘the eng’, the present participle of the verb ‘to recollect’, the final quarter (of the verse), all (of it), the half verse, and the word ‘merged (līna)’. (with 28.362cd–363)
+> All that concerns the real meaning (of this verse) has been said by (analysing the) two particles, the word ‘the end’, the present participle of the verb ‘to recollect’, the final quarter (of the verse), all (of it), the half verse, and the word ‘merged (līna)’. (with 28.362cd–363)
 
 ## Viveka
 

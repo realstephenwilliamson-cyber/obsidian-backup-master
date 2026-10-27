@@ -399,7 +399,7 @@ ists that memory is only possible if there is an abiding underlying consciousnes
 
 *[p. 190]* ^pg205
 
-countless forms and is everywhere present (in all previously experienced objects). Ultimately it is consciousness, which is the attainment of one’s own nature established in manifestation. Know therefore that this (pure) Being (of all that exists) has been acclaimed (by the teachers) as supreme. (139- 140) (138-139) 
+countless forms and is everywhere present (in all previously experienced objects). Ultimately it is consciousness, which is the attainment of one’s own nature established in manifestation. Know therefore that this (pure) Being (of all that exists) has been acclaimed (by the teachers) as supreme. (139-140) (138-139) 
 
 #### Viveka on 5.138–139
 
@@ -763,7 +763,7 @@ The means to realisation are taught in this way in order to attain this same goa
 uccārakaraṇadhyānavarṇair ebhiḥ pradarśitaḥ ॥ 156 ॥
 anuttarapadaprāptāv abhyupāyavidhikramaḥ | 
 
-The sequence of procedures (vidhikrama), which is the means to attain the plane of the Absolute (Anuttara), has been explained to be ‘utterance’, the ‘instruments’, ‘visualization’ and the ‘phonemes’. (156cd- 157ab) (155cd-156ab) 
+The sequence of procedures (vidhikrama), which is the means to attain the plane of the Absolute (Anuttara), has been explained to be ‘utterance’, the ‘instruments’, ‘visualization’ and the ‘phonemes’. (156cd-157ab) (155cd-156ab) 
 
 #### Viveka on 5.155–156
 

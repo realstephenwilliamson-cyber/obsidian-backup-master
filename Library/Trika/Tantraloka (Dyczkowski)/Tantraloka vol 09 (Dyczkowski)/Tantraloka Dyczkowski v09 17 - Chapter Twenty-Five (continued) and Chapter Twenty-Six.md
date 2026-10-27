@@ -1380,7 +1380,7 @@ Thus, it is their nature, which is the dense (uninterrupted) bliss of consciousn
 sivābhedabharād bhāvavargaḥ ścyotati yarn rasam ॥ 61 I|
 tam eva parame dhāmni pūjanāyārpayed budhaḥ | 
 
-In order to worship (in the highest sense), the wise (awakened) man should offer (as an act of worship) into the Supreme Abode the juice (of aesthetic delight) (rasa) that exudes from (the multitude of) phenomena, (pressed down) because of the weight of (their) oneness with Śiva. (61cd- 62ab) 
+In order to worship (in the highest sense), the wise (awakened) man should offer (as an act of worship) into the Supreme Abode the juice (of aesthetic delight) (rasa) that exudes from (the multitude of) phenomena, (pressed down) because of the weight of (their) oneness with Śiva. (61cd-62ab) 
 
 #### Viveka on 26.61–62
 

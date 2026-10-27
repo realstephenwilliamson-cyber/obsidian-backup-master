@@ -17,6 +17,8 @@ nyasa: "ta: left hip (*kaṭi*), twice"
 
 **Card 84 of 108** (printed: Card 3-24 · Alpha 57) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** त्त

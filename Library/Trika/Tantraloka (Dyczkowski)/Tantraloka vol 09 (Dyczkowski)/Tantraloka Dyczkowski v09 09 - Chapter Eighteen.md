@@ -58,7 +58,7 @@ By whatever Path the teacher who is steeped (bhāvita) solely with a sense of id
 
 CHAPTER EIGHTEEN 
 
-the number of) reality levels (it involves, starting with many) up to (just) one (ekatattvānta); it is devoid of such (purifying processes whereby the disciple is induced) to take birth (successively in higher world orders). (1- 3ab) 
+the number of) reality levels (it involves, starting with many) up to (just) one (ekatattvānta); it is devoid of such (purifying processes whereby the disciple is induced) to take birth (successively in higher world orders). (1-3ab) 
 
 #### Viveka on 18.1–3
 

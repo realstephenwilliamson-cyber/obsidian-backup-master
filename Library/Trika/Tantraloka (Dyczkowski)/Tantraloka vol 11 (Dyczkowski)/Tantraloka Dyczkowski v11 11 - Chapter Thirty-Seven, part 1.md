@@ -253,7 +253,7 @@ utkṛṣtaṁ bhairavābhikhyaṁ catuhṣaṣtivibheditam | 17 Il
 
 *[p. 233]* ^pg251
 
-doctrine preached by Śiva, which is the (exact) opposite of this." (13cd- 14ab) 
+doctrine preached by Śiva, which is the (exact) opposite of this." (13cd-14ab) 
 
 ### TĀ 37.14–15
 
@@ -429,7 +429,7 @@ The Supreme Lord has declared this in the venerable Ratnamālā, (where we read)
 
 *[p. 238]* ^pg256
 
-(doctrine, found) in the illustrious Trika system (ṣadardhaśāsana). (25cd- 26) 
+(doctrine, found) in the illustrious Trika system (ṣadardhaśāsana). (25cd-26) 
 
 ### TĀ 37.27–28
 

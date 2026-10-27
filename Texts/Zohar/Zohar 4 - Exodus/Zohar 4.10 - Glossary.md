@@ -102,7 +102,7 @@ page_range: 543–548
 
 ***Piqqudin***   “Commandments”; kabbalistic interpretations of the commandments scattered throughout the *Zohar* (to be distinguished from *Ra’aya Meheimna*).
 
-***Qav ha-Middah***   “The Standard of Measure”; a detailed description of the process of divine emanation, delivered by Rabbi Shim’on. *Zohar Ḥadash* 56d–58d.
+***Qav ha-Middah***   “The Standard of Measure”; a detailed description of the process of divine emanation, delivered by Rabbi Shim’on. *Zohar Ḥadash* [[Zohar 12.09 - Qav ha-Middah|56d–58d]].
 
 ***Qiddush***   “Sanctification”; a ceremony and prayer proclaiming the holiness of Sabbath or a festival. The *Qiddush* is recited on the Sabbath or festival eve over a cup of wine immediately before the meal.
 
@@ -136,7 +136,7 @@ page_range: 543–548
 
 ***Sifra di-Tsni’uta***   “Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah in short, obscure sentences, divided into five chapters. Its subject is the mysteries of divine being. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b|2:176b]]–179a.
 
-***Sitrei Otiyyot***   “Secrets of the Letters”; a discourse by Rabbi Shim’on focusing on the letters of the divine name *YHVH* and how they symbolize the process of emanation. *Zohar Ḥadash* 1b–7b.
+***Sitrei Otiyyot***   “Secrets of the Letters”; a discourse by Rabbi Shim’on focusing on the letters of the divine name *YHVH* and how they symbolize the process of emanation. *Zohar Ḥadash* [[Zohar 12.08 - Sitrei Otiyyot|1b–7b]].
 
 ***Sitrei Torah***   “Secrets of Torah”; interpretations of certain verses of Genesis, printed in separate columns parallel to the main body of the *Zohar* and in *Zohar Ḥadash*. It includes allegorical explanations of the mysteries of the soul.
 

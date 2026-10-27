@@ -31,7 +31,7 @@ muṣṭidvitayasaṅghaṭṭāddhṛdi sā hṛdayāhvayā || ^iast
 >
 > 2) Then having raised the arms well bent, he abides well in the Voids and so this (form of) Khecarī is considered to be (the one) called the (Seal of the) Void (vyomākhyā). (with 32.55cd–56ab)
 >
-> 3) The one called the ‘(Seal of the) Heart’ (hrdaya) (is formed) by uniting the two fists in the heart. (with 32.56cd)
+> 3) The one called the ‘(Seal of the) Heart’ (hṛdaya) (is formed) by uniting the two fists in the heart. (with 32.56cd)
 
 ## Viveka
 

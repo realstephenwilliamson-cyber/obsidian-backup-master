@@ -479,7 +479,7 @@ Alternatively, *Like an apple tree among the trees of the forest*—this refers 
 
 [^26]: ***Lot went with him*—the Deviser of Evil…** In Aramaic, the verb *lut* means “to curse” and hence Lot is associated with the cursed serpent, itself identified with הרע‎ יצר (*yetser ha-ra*), “the evil impulse (or inclination).” The root יצר (*ytsr*) means “to fashion, devise.”
 
-    On the evil impulse entering at birth, see *Avot de-Rabbi Natan* A, 16; *Qohelet Rabbah* on 4:13; *Midrash Tehillim* 9:5. On Lot as the evil impulse, see also *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-78a|1:78a]], [[Zohar 11.09 - Sitrei Torah#^z1-79a|79a]] (both *ST*), [[Zohar 10.06 - Parashat Va-Yera#^z1-109a|109a–110b]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-128b|128b]], [[Zohar 10.08 - Parashat Toledot#^z1-137a|137a–138a]] (all three *MhN*); *ZḤ* [[Zohar 10.05 - Parashat Lekh Lekha#^zh-24d|24d]] (*MhN*). On the serpent as the evil impulse, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-35b|1:35b]] (in the name of Rabbi Yitsḥak), 49b; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-18c|18c]] (*MhN*). Cf. BT *Bava Batra* [[Bava Batra 16#16a|16a]]: “Resh Lakish said, ‘Satan, the evil impulse, and the Angel of Death are one and the same.’” Cf. *Pirqei de-Rabbi Eli’ezer* 13. On [[Torah 02 - Noach#^8-21|Genesis 8:21]], see BT *Sukkah* [[Sukkah 52#52a|52a]]; *Qiddushin* [[Kiddushin 30#30b|30b]].
+    On the evil impulse entering at birth, see *Avot de-Rabbi Natan* A, 16; *Qohelet Rabbah* on 4:13; *Midrash Tehillim* 9:5. On Lot as the evil impulse, see also *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-78a|1:78a]], [[Zohar 11.09 - Sitrei Torah#^z1-79a|79a]] (both *ST*), [[Zohar 10.06 - Parashat Va-Yera#^z1-109a|109a–110b]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-128b|128b]], [[Zohar 10.08 - Parashat Toledot#^z1-137a|137a–138a]] (all three *MhN*); *ZḤ* [[Zohar 10.05 - Parashat Lekh Lekha#^zh-24d|24d]] (*MhN*). On the serpent as the evil impulse, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-35b|1:35b]] (in the name of Rabbi Yitsḥak), [[Zohar 1.07 - Parashat Be-Reshit#^z1-49b|49b]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-18c|18c]] (*MhN*). Cf. BT *Bava Batra* [[Bava Batra 16#16a|16a]]: “Resh Lakish said, ‘Satan, the evil impulse, and the Angel of Death are one and the same.’” Cf. *Pirqei de-Rabbi Eli’ezer* 13. On [[Torah 02 - Noach#^8-21|Genesis 8:21]], see BT *Sukkah* [[Sukkah 52#52a|52a]]; *Qiddushin* [[Kiddushin 30#30b|30b]].
 
     See also *ZḤ* [[Zohar 12.09 - Qav ha-Middah#^zh-58d|58d]]: “All the limbs of the body are in torment, caught between the soul and the Deviser of Evil.”
 
@@ -589,7 +589,7 @@ Alternatively, *Like an apple tree among the trees of the forest*—this refers 
 
 [^52]: **referring to the evil impulse…** Vanquished by the righteous, the evil impulse leaves their body—seeking easier prey.
 
-    On Lot as the evil impulse, see *ZḤ* [[Zohar 10.05 - Parashat Lekh Lekha#^zh-24b|24b]] (*MhN*) and note 26 above. See also *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-78a|1:78a]], [[Zohar 11.09 - Sitrei Torah#^z1-79a|79a]], [[Zohar 11.09 - Sitrei Torah#^z1-80b|80b]] (all *ST*); 109a–110b, 128b (both *MhN*).
+    On Lot as the evil impulse, see *ZḤ* [[Zohar 10.05 - Parashat Lekh Lekha#^zh-24b|24b]] (*MhN*) and note 26 above. See also *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-78a|1:78a]], [[Zohar 11.09 - Sitrei Torah#^z1-79a|79a]], [[Zohar 11.09 - Sitrei Torah#^z1-80b|80b]] (all *ST*); [[Zohar 10.06 - Parashat Va-Yera#^z1-109a|109a–110b]], [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-128b|128b]] (both *MhN*).
 
 [^53]: **until he is captured and seized for his iniquities** Having enticed the wicked to sin, the evil impulse (Lot, Abram’s kinsman) is captured, meaning that the wicked person is seized and faces heavenly judgment.
 
@@ -765,7 +765,7 @@ Alternatively, *Like an apple tree among the trees of the forest*—this refers 
 
 [^92]: **Countenance of Days** This title derives from [[Daniel 07#^7-9|Daniel 7:9]]: *As I watched, thrones were placed, and the Ancient of Days sat; His garment like white snow, the hair of His head like clean fleece, His throne flames of fire, its wheels blazing fire*.
 
-    In BT *Pesaḥim* [[Pesachim 119#119a|119a]], secrets of Torah are referred to as “things hidden by the Ancient of Days.” See *Bereshit Rabbah* 35:2; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-83a|1:83a]], [[Zohar 11.09 - Sitrei Torah#^z1-89b|89b]] (*ST*), 130a, 188a; 3:132b (*IR*), 201a; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-19a|19a]] (*MhN*).
+    In BT *Pesaḥim* [[Pesachim 119#119a|119a]], secrets of Torah are referred to as “things hidden by the Ancient of Days.” See *Bereshit Rabbah* 35:2; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-83a|1:83a]], [[Zohar 11.09 - Sitrei Torah#^z1-89b|89b]] (*ST*), [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-130a|130a]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-188a|188a]]; [[Zohar 8.09 - Idra Rabba#^z3-132b|3:132b]] (*IR*), [[Zohar 9.10 - Commentary on Balaq, continued#^z3-201a|201a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-19a|19a]] (*MhN*).
 
     Though one might expect such a lofty epithet to signify God, here the referent is Rabbi El’azar son of Arakh, presumably because he is the repository of supernal secrets.
 
@@ -785,7 +785,7 @@ Alternatively, *Like an apple tree among the trees of the forest*—this refers 
 
 [^96]: **This is King David, who is the fourth** Rabbinic tradition applies this verse from Psalms to David, youngest of Jesse’s sons, relegated to tending the flock. See [[I Samuel 16#^16-11|1 Samuel 16:11]]; BT *Pesaḥim* [[Pesachim 119#119a|119a]]; *Midrash Shemu’el* 19:7. Here, Rabbi Dostai employs the verse to answer Rabbi El’azar’s riddle. The missing leg of the throne is King David.
 
-    On [[Psalms 118#^118-22|Psalms 118:22]] and David as the fourth leg of the throne, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-20a|1:20a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-20b|20b]], [[Zohar 1.08 - Parashat Noah#^z1-72a|72a]], [[Zohar 11.09 - Sitrei Torah#^z1-89b|89b]] (*ST*), 99a, 197b, 246b, 248b. See also below, note 99.
+    On [[Psalms 118#^118-22|Psalms 118:22]] and David as the fourth leg of the throne, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-20a|1:20a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-20b|20b]], [[Zohar 1.08 - Parashat Noah#^z1-72a|72a]], [[Zohar 11.09 - Sitrei Torah#^z1-89b|89b]] (*ST*), [[Zohar 2.03 - Parashat Va-Yera#^z1-99a|99a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-197b|197b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-246b|246b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-248b|248b]]. See also below, note 99.
 
 [^97]: **conventional interpretation** This renders דרשה (*derashah*), “interpretation, homiletical interpretation,” contrasted here with deeper wisdom: “the essence of the matter (or word).” See *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-18c|18c]] (*MhN*); cf. *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-145a|2:145a]].
 

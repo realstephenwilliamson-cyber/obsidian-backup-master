@@ -129,7 +129,7 @@ In other words, [the geese] showed Rabbah bar bar Chanah that he too had attaine
 
 **He subdues peoples under us, and nations beneath our feet —** This refers to the aspect of *chirik.* This is the lower point of the *aleph,* corresponding to “and under His feet…,” and to “the earth is My footstool.”
 
-**He chooses our heritage for us —** This is the aspect of Moshe, the upper point of the *aleph.* It corresponds to “Above the firmament… was the semblance of a throne”/”and his throne will be like the sun”/”Moshe’s face was like the face of the sun.” As the Sages taught: Rabbi Shimon said, “‘Heritage’ refers to Shiloh” ([[Zevachim 119#119a|Zevachim 119a]]). [And] “‘Shiloh’ is Moshe” (Zohar I, 25b).
+**He chooses our heritage for us —** This is the aspect of Moshe, the upper point of the *aleph.* It corresponds to “Above the firmament… was the semblance of a throne”/”and his throne will be like the sun”/”Moshe’s face was like the face of the sun.” As the Sages taught: Rabbi Shimon said, “‘Heritage’ refers to Shiloh” ([[Zevachim 119#119a|Zevachim 119a]]). [And] “‘Shiloh’ is Moshe” ([[Zohar 1.025b|Zohar I, 25b]]).
 
 **… the pride of Yaakov —** This is the *vav* in the middle of the *aleph,* the tent. It is the light that Moshe shone into Yehoshua, as is written ([[Torah 06 - Toldot#^25-27|Genesis 25:27]]), “but Yaakov was a man of perfection who remained in the tents.”
 

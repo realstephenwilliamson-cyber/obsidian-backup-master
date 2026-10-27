@@ -27,7 +27,7 @@ pañcaprakārakṛtyoktiśivatvānnijakarmaṇe || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#^pg209|p. 189]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=209>))
 >
-> (Somānanda), the eldest (parameṣthin) and most excellent teacher (of our lineage), says in his Sivadrṣṭi that: ‘it is Śiva’s nature (to perform) the five kinds of tasks (pañcakrtya) (that is, creation, persistence, destruction, grace and obscuration) taught (before). Thus, where (is the occasion) to seek other instigating causes (nimitta) (to act in this way) for one who, engaged in His own (natural) activity, (is already doing this)?’ (with 13.108–109ab)
+> (Somānanda), the eldest (parameṣṭhin) and most excellent teacher (of our lineage), says in his Śivadṛṣṭi that: ‘it is Śiva’s nature (to perform) the five kinds of tasks (pañcakṛtya) (that is, creation, persistence, destruction, grace and obscuration) taught (before). Thus, where (is the occasion) to seek other instigating causes (nimitta) (to act in this way) for one who, engaged in His own (natural) activity, (is already doing this)?’ (with 13.108–109ab)
 
 ## Viveka
 

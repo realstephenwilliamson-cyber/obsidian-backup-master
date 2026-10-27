@@ -257,7 +257,7 @@ In this way, the universal nature is present in the vital breath, and so now he 
 
 tena prānṇapathe viśvakalaneyar virājate ॥ 45 ॥ yena rūpenṇa tad vacmaḥ sadbhis tad avadhīyatām | 
 
-That form (of consciousness called Time) is that by virtue of which this (progressive) differentiation” of all things manifests on the path of the vital breath. We will explain that. May the wise pay close attention! (45cd- 46ab) 
+That form (of consciousness called Time) is that by virtue of which this (progressive) differentiation” of all things manifests on the path of the vital breath. We will explain that. May the wise pay close attention! (45cd-46ab) 
 
 #### Viveka on 6.45–46
 

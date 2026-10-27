@@ -462,7 +462,7 @@ Surely (one may ask), in that case, who (out of these kinds of teacher) has the 
 yo yatra śāstre svabhyastajñāno vyākhyār caret tu saḥ || 387 ॥
 nānyathā tadabhāvaś cet sarvathā so ‘py athācaret | 
 
-(The teacher) whose knowledge of a (corpus of) scripture (śāstra) is well-practiced may explain it, not another.’ . Now, if there is no (teacher like) that in all respects, he (who is available) may also do that. (387cd- 388ab) 
+(The teacher) whose knowledge of a (corpus of) scripture (śāstra) is well-practiced may explain it, not another.’ . Now, if there is no (teacher like) that in all respects, he (who is available) may also do that. (387cd-388ab) 
 
 #### Viveka on 28.387–388
 

@@ -607,7 +607,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^13]: **forty-two couplings... forty-two letters of the act of Creation** The forty-two-letter name is mentioned in the name of Rav, though not recorded, in BT *Qiddushin* [[Kiddushin 71#71a|71a]]. According to one later view, it consists of the first forty-two letters of the Torah, from the ב (bet) of בראשית (*Be-reshit*) through the ב (*bet*) of בהו (*bohu*), *void* ([[Torah 01 - Bereshit#^1-2|Genesis 1:2]]).
 
-    See *Tosafot, Ḥagigah* 11b, s.v. *ein doreshin; KP* 1:46c–d; Trachtenberg, *Jewish Magic and Superstition*, 94–95; cf. Maimonides, *Guide of the Perplexed*, 1:62. Cordovero (*OY*) describes how the name *YHVH* (“the engraved, explicit name”) can be permuted into a forty-two-letter name; cf. *Zohar* [[Zohar 12.05 - Heikhalot Pequdei#^z2-260a|2:260a]]. In *Zohar* [[#^z1-9a|1:9a]], Moses’ staff is described as “radiating the engraved name in every direction with the radiance of the wise who engraved the explicit name in forty-two colors.” Cf. *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-15b|1:15b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-30a|30a]]; [[Zohar 5.05 - Parashat Terumah#^z2-130b|2:130b]], and 175b: “... the forty-two holy letters of the holy name, by which heaven and earth were created.”
+    See *Tosafot, Ḥagigah* 11b, s.v. *ein doreshin; KP* 1:46c–d; Trachtenberg, *Jewish Magic and Superstition*, 94–95; cf. Maimonides, *Guide of the Perplexed*, 1:62. Cordovero (*OY*) describes how the name *YHVH* (“the engraved, explicit name”) can be permuted into a forty-two-letter name; cf. *Zohar* [[Zohar 12.05 - Heikhalot Pequdei#^z2-260a|2:260a]]. In *Zohar* [[#^z1-9a|1:9a]], Moses’ staff is described as “radiating the engraved name in every direction with the radiance of the wise who engraved the explicit name in forty-two colors.” Cf. *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-15b|1:15b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-30a|30a]]; [[Zohar 5.05 - Parashat Terumah#^z2-130b|2:130b]], and [[Zohar 5.05 - Parashat Terumah#^z2-175b|175b]]: “... the forty-two holy letters of the holy name, by which heaven and earth were created.”
 
 [^14]: ***pruning of tyrants...*** זמיר (*Zemir*) is usually translated “singing of” in this verse, but Rabbi Shim’on understands it as “pruning of,” i.e., the pruning of the demonic powers, the *tyrants* (*KP*; cf. *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-4b|3:4b]]), or the pruning of humans by the demonic tyrants (*OY*).
 
@@ -619,7 +619,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^17]: **paradigm of the land...** According to BT *Berakhot* [[Berakhot 57#57b|57b]], the Sabbath is “a reflection of the world to come.”
 
-[^18]: **patriarchs, who entered...** See *Bereshit Rabbah* 1:4: “Six things preceded Creation.... The patriarchs arose in thought \[i.e., were intended\] to be created.” In the Kabbalah, the patriarchs (Abraham, Isaac, and Jacob) represent the triad of *sefirot: Ḥesed, Gevurah*, and *Tif’eret.* Cf. *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]], 97a–b; 3:4b.
+[^18]: **patriarchs, who entered...** See *Bereshit Rabbah* 1:4: “Six things preceded Creation.... The patriarchs arose in thought \[i.e., were intended\] to be created.” In the Kabbalah, the patriarchs (Abraham, Isaac, and Jacob) represent the triad of *sefirot: Ḥesed, Gevurah*, and *Tif’eret.* Cf. *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]], [[Zohar 2.03 - Parashat Va-Yera#^z1-97a|97a–b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-4b|3:4b]].
 
 [^19]: **the world that is coming דאתי‎ עלמא** (*Alma de-atei*), the Aramaic equivalent of the rabbinic Hebrew הבא‎ העולם (*ha-olam ha-ba*), “the world that is coming.” This concept is often understood as referring to the hereafter and is usually translated as “the world to come.” From another point of view, however, “the world that is coming” already exists, occupying another dimension. See *Tanḥuma, Vayiqra* 8: “The wise call it *ha-olam ha-ba* not because it does not exist now, but for us today in this world it is still to come.” Cf. Maimonides, *Mishneh Torah, Hilkhot Teshuvah* 8:8; and Guttmann, *Philosophies of Judaism*, 37: “‘The world to come’ does not succeed ‘this world’ in time, but exists from eternity as a reality outside and above time, to which the soul ascends.”
 
@@ -663,7 +663,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^35]: **I Myself will not enter...** The blessed Holy One promises not to enter the heavenly Jerusalem, *Shekhinah*, until the earthly Jerusalem is restored. See *Tanḥuma, Pequdei* 1: “There is a Jerusalem above aligned with Jerusalem below. Out of His love for the one below, He fashioned another above.... He has sworn that His presence will not enter the heavenly Jerusalem until the earthly Jerusalem is rebuilt.”
 
-    See [[Revelation 21#^21-2|Revelation 21:2]]; *Targum Yonatan*, [[Psalms 122#^122-3|Psalms 122:3]]; BT *Ta’anit* 5a; *Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-80b|1:80b]] (*ST*), 128b, 183b, 231a; 3:15b, 68b, 147b.
+    See [[Revelation 21#^21-2|Revelation 21:2]]; *Targum Yonatan*, [[Psalms 122#^122-3|Psalms 122:3]]; BT *Ta’anit* 5a; *Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-80b|1:80b]] (*ST*), [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-128b|128b]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-183b|183b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-231a|231a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-15b|3:15b]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-68b|68b]], [[Zohar 8.10 - Commentary on Naso, continued#^z3-147b|147b]].
 
 [^36]: **this rung...** *Shekhinah*.
 
@@ -777,7 +777,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^86]: **whoever wants to tell a lie...** See Rashi on [[Torah 37 - Sh'lach#^13-27|Numbers 13:27]], who paraphrases BT *Sotah* [[Sotah 35#35a|35a]]; *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-215b|2:215b]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-264a|264a]]; [[Zohar 9.03 - Parashat Shelah Lekha#^z3-161a|3:161a]].
 
-[^87]: **ש** (***shin***) **is a letter of truth...** The three prongs of the ש (*shin*) stand for the three patriarchs: Abraham, Isaac, and Jacob, who symbolize the triad of *sefirot: Ḥesed, Gevurah,* and *Tif’eret.* See *Zohar* [[Zohar 1.025b|1:25b]] (*TZ*); 2:204a.
+[^87]: **ש** (***shin***) **is a letter of truth...** The three prongs of the ש (*shin*) stand for the three patriarchs: Abraham, Isaac, and Jacob, who symbolize the triad of *sefirot: Ḥesed, Gevurah,* and *Tif’eret.* See *Zohar* [[Zohar 1.025b|1:25b]] (*TZ*); [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-204a|2:204a]].
 
 [^88]: **appear on the evil side** Perhaps because they stand for קליפה (*qelippah*), “husk,” and רע (*ra*), “evil.” See *Zohar* [[Zohar 6.03 - Parashat Tetsavveh#^z2-180b|2:180b]]; *ZḤ* 8c (*SO*).
 
@@ -961,7 +961,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^160]: **He said to him** The Messiah said to Rabbi Shim’on.
 
-[^161]: **370 lights** Apparently the number 300 signifies the three highest *sefirot*, while the number 70 represents the seven lower *sefirot* emanating from them. See *OY; Zohar* 2:14a–b (*MhN*); 3:128b (*IR*). *KP* reads: 390, corresponding to the 390 firmaments.
+[^161]: **370 lights** Apparently the number 300 signifies the three highest *sefirot*, while the number 70 represents the seven lower *sefirot* emanating from them. See *OY; Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-14a|2:14a–b]] (*MhN*); [[Zohar 8.09 - Idra Rabba#^z3-128b|3:128b]] (*IR*). *KP* reads: 390, corresponding to the 390 firmaments.
 
 [^162]: **613 senses** Corresponding to the 613 *mitsvot* of the Torah. See *Zohar* [[Zohar 8.09 - Idra Rabba#^z3-128a|3:128a]] (*IR*).
 
@@ -993,7 +993,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^174]: **seventy crowns...** The number seventy appears in the context of revelation in BT *Shabbat* [[Shabbat 88#88b|88b]]: “Rabbi Yoḥanan said, ‘... Every utterance emerging from the mouth of Power branched into seventy languages.’” See *Bemidbar Rabbah* 13:16, where Torah is compared to wine: “Just as יין (*yayin*), wine, is numerically equivalent to seventy, so Torah assumes seventy faces.”
 
-    See *Sefer Ḥanokh* (*Beit ha-Midrash*, 2:116); Ibn Ezra, introduction to Commentary on the Torah; *Zohar* [[Zohar 1.026a|1:26a]] (*TZ*), 47b, 54a.
+    See *Sefer Ḥanokh* (*Beit ha-Midrash*, 2:116); Ibn Ezra, introduction to Commentary on the Torah; *Zohar* [[Zohar 1.026a|1:26a]] (*TZ*), [[Zohar 1.07 - Parashat Be-Reshit#^z1-47b|47b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-54a|54a]].
 
 [^175]: **innovated word of wisdom** A new mystical insight, which rises higher than other new interpretations. Cf. *OY*: “One is able to innovate in Torah matters that Moses himself was not permitted to reveal.”
 
@@ -1241,7 +1241,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
     See *Re’uyyot Yeḥhezqel*, ed. Gruenwald, in *Temirin* 1 (1972): 111–14; Matt, *Essential Kabbalah*, 126, 205; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-85a|1:85a]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-149a|149a–b]].
 
-[^271]: ***A river dries up and is parched*** See *Zohar* [[Zohar 1.026a|1:26a]] (*TZ*), 67a; 2:166b; 3:150b.
+[^271]: ***A river dries up and is parched*** See *Zohar* [[Zohar 1.026a|1:26a]] (*TZ*), [[Zohar 1.08 - Parashat Noah#^z1-67a|67a]]; [[Zohar 5.05 - Parashat Terumah#^z2-166b|2:166b]]; [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-150b|3:150b]].
 
 [^272]: **originated... were destroyed...** The two Temples came into being through the flow of divine emanation, and when that flow ceased they were destroyed.
 
@@ -1373,7 +1373,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^320]: **Holy sons of God...** Souls of the righteous, such as Rav Hamnuna, who circulate among humanity, spreading wisdom.
 
-[^321]: **towering hammers** See BT *Berakhot* [[Berakhot 28#28b|28b]], where Yoḥanan son of Zakkai is addressed by his students as “Mighty Hammer.” Cf. *Zohar* [[Zohar 9.10 - Commentary on Balaq, continued#^z3-206a|3:206a]], and 187a: “Rabbi Yehudah wept and said, ‘Rabbi Shim’on, happy is your share! Happy is the generation! On account of you, even schoolchildren are towering, mighty hammers!’”
+[^321]: **towering hammers** See BT *Berakhot* [[Berakhot 28#28b|28b]], where Yoḥanan son of Zakkai is addressed by his students as “Mighty Hammer.” Cf. *Zohar* [[Zohar 9.10 - Commentary on Balaq, continued#^z3-206a|3:206a]], and [[Zohar 9.09 - Yanuqa#^z3-187a|187a]]: “Rabbi Yehudah wept and said, ‘Rabbi Shim’on, happy is your share! Happy is the generation! On account of you, even schoolchildren are towering, mighty hammers!’”
 
 [^322]: **Master of Colors** Apparently Metatron (see *KP*). According to *TZ*, intro, 7a; 70, 119b, Metatron has *the appearance of the rainbow* ([[Ezekiel 01#^1-28|Ezekiel 1:28]]). He is often associated with the Heavenly Academy.
 
@@ -1707,7 +1707,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^469]: **the verse should read וארעא** (***ve-ar’a***) The common Aramaic word for “earth.”
 
-[^470]: **those seven earths below** Corresponding to the seven heavens. See *Vayiqra Rabbah* 29:11; *Sefer Yetsirah* 4:12; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]]–40a, 54b, 157a; 3:9b–10a; *ZḤ* 8c–9b (*SO*); [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-87b|87b]] (*MhN, Rut*).
+[^470]: **those seven earths below** Corresponding to the seven heavens. See *Vayiqra Rabbah* 29:11; *Sefer Yetsirah* 4:12; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39b|1:39b]]–40a, [[Zohar 1.07 - Parashat Be-Reshit#^z1-54b|54b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-157a|157a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-9b|3:9b–10a]]; *ZḤ* 8c–9b (*SO*); [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-87b|87b]] (*MhN, Rut*).
 
 [^471]: **banished from the face of the earth** See Cain’s statement in [[Torah 01 - Bereshit#^4-14|Genesis 4:14]]: *Behold, You have banished me today from the face of the earth*.
 
@@ -1715,7 +1715,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^473]: **dual earth, dualized by darkness and light** Both manifesting in confusion. See *KP*. Cf. *Zohar* [[Zohar 9.13 - Parashat Va-Yelekh#^z3-285b|3:285b]].
 
-[^474]: **two heads** On the two-headed descendants of Cain, see *Beit ha-Midrash*, 4:151–52; Judah ben Barzillai, *Peirush Sefer Yetsirah*, 173; *Tosafot, Menaḥot* 37a, s.v. *o qum gelei; Zohar* 1:157a; 2:80a; *ZḤ* 9b (*ST*); Ginzberg, *Legends*, 5:143 n. 34; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 125, n. 84.
+[^474]: **two heads** On the two-headed descendants of Cain, see *Beit ha-Midrash*, 4:151–52; Judah ben Barzillai, *Peirush Sefer Yetsirah*, 173; *Tosafot, Menaḥot* 37a, s.v. *o qum gelei; Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-157a|1:157a]]; [[Zohar 4.07 - Parashat Yitro#^z2-80a|2:80a]]; *ZḤ* 9b (*ST*); Ginzberg, *Legends*, 5:143 n. 34; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 125, n. 84.
 
 [^475]: **Afrira and Kastimon** Ruling darkness and light, respectively. Afrira’s name derives from עפר (*afar*), “dust,” and, as noted below, his earth is not fruitful (see *Zohar* [[Zohar 12.05 - Heikhalot Pequdei#^z2-266b|2:266b]]). For the second name, *KP* reads: Kastiron, who also appears in *Sefer Razi’el*, 41a. Cf. קוסטור (*qustor*), “quaestor,” a Roman prosecutor (e.g., JT *Eruvin* 6:2, 23b).
 
@@ -1727,7 +1727,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^478]: **Uzza and Azael** These two angels opposed the creation of Adam and Eve, fell from heaven, and were attracted by *the daughters of men* ([[Torah 01 - Bereshit#^6-2|Genesis 6:2]]). They were punished by being bound in chains of iron in the mountains of darkness, from where they still manage to wreak havoc, teaching sorcery to humans.
 
-    See 1 Enoch 6–8; Jubilees 5; BT *Yoma* [[Yoma 67#67b|67b]]; *Aggadat Bereshit*, intro, 39; *Midrash Avkir*, 7 (cited in *Yalqut Shim’oni*, Genesis, 44); *Pirqei de-Rabbi Eli’ezer* 22; *Zohar* [[Zohar 1.023a|1:23a]] (*TZ*), 37a, 37a (*Tos*), 58a, 126a; 3:208a–b, 212a–b; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-81a|81a]]–b (*MhN, Rut*).
+    See 1 Enoch 6–8; Jubilees 5; BT *Yoma* [[Yoma 67#67b|67b]]; *Aggadat Bereshit*, intro, 39; *Midrash Avkir*, 7 (cited in *Yalqut Shim’oni*, Genesis, 44); *Pirqei de-Rabbi Eli’ezer* 22; *Zohar* [[Zohar 1.023a|1:23a]] (*TZ*), [[Zohar 1.07 - Parashat Be-Reshit#^z1-37a|37a]], [[Zohar 12.12 - Passages (Mis)Labeled as Tosefta#^z1-37a|37a]] (*Tos*), [[Zohar 1.07 - Parashat Be-Reshit#^z1-58a|58a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-126a|126a]]; [[Zohar 9.10 - Commentary on Balaq, continued#^z3-208a|3:208a–b]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-212a|212a–b]]; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-81a|81a]]–b (*MhN, Rut*).
 
 [^479]: **call them to judgment** For their deeds of lust.
 
@@ -1771,7 +1771,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^495]: **but among the nations... one did** See *Sifrei*, Deuteronomy 357: “*Never again did there arise in Israel a prophet like Moses* —In Israel none arose, but among the nations of the world one did! Who is this? Balaam son of Beor.”
 
-    See *Bemidbar Rabbah* 14:20; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-21b|2:21b]] (*MhN*); 3:193b.
+    See *Bemidbar Rabbah* 14:20; *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-21b|2:21b]] (*MhN*); [[Zohar 9.10 - Commentary on Balaq, continued#^z3-193b|3:193b]].
 
 [^496]: **Who revives the dead?... Who makes the rain fall?...** See [[I Kings 17#^17-1|1 Kings 17:1]], 7, 17–24; 18:41–45; [[II Kings 04#^4-8|2 Kings 4:8–37]]; *Bereshit Rabbah* 77:1.
 
@@ -1861,7 +1861,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^532]: **removes him from the world** Satan and the Angel of Death are two manifestations of *Sitra Aḥra*, “the Other Side,” the demonic. See BT *Bava Batra* [[Bava Batra 16#16a|16a]]: “Resh Lakish said, ‘Satan, the evil impulse, and the Angel of Death are one and the same.’” Cf. *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-35b|1:35b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-52a|52a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-202a|202a]]; [[Zohar 12.05 - Heikhalot Pequdei#^z2-262b|2:262b–263a]]; Moses de León, *Sefer ha-Rimmon*, 394–95.
 
-    See the description of Satan’s itinerary in *Bava Batra*, loc cit.: “He descends and seduces, ascends and arouses wrath, obtains authorization, and seizes the soul.” Cf. Rashi on BT *Shabbat* [[Shabbat 89#89a|89a]], s.v. *ba ha-satan; Zohar* 1:46b, 125a, 148a (*ST*), 152b; 2:33b, 268b.
+    See the description of Satan’s itinerary in *Bava Batra*, loc cit.: “He descends and seduces, ascends and arouses wrath, obtains authorization, and seizes the soul.” Cf. Rashi on BT *Shabbat* [[Shabbat 89#89a|89a]], s.v. *ba ha-satan; Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-46b|1:46b]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-125a|125a]], [[Zohar 11.09 - Sitrei Torah#^z1-148a|148a]] (*ST*), [[Zohar 2.06 - Parashat Va-Yetse#^z1-152b|152b]]; [[Zohar 4.05 - Parashat Bo#^z2-33b|2:33b]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-268b|268b]].
 
 [^533]: **gladdening the poor...** See *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-87b|87b]] (*MhN, Rut*): “The blessed Holy One enjoys the food that one gives to a poor person because that food satisfies the poor person and makes him happy.” Cf. *Orḥot Ḥayyim*, par. 65; *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-88b|2:88b]]; [[Zohar 8.04 - Parashat Emor#^z3-103b|3:103b–104a]]; Maimonides, *Mishneh Torah, Hilkhot Yom Tov* 6:18.
 
@@ -2373,7 +2373,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^734]: **mystery of unification... This is ו** (***vav***)... The first line of the *Shema* contains six words in Hebrew: אחד‎ יהוה‎ אלהינו‎ יהוה‎ ישראל‎ שמע (*Shema Yisra’el YHVH Eloheinu YHVH eḥad*), *Hear O Israel! YHVH is our God, YHVH is one*. By reciting these words with כונה (*kavvanah*), “intention,” one unifies *Tif’eret* and the five *sefirot* surrounding Him (*Ḥesed* to *Yesod*). *Tif’eret* then channels the entire flow of emanation to *Shekhinah*, consummating the union. See above, page 82; Tishby, *Wisdom of the Zohar*, 3:971–74.
 
-    The letter ו (*vav*), whose numerical value is six, symbolizes *Tif’eret* and constitutes the third letter of the name יהוה (*YHVH*). *Tif’eret* is also symbolized by Jacob, who is called Israel. See *Zohar* [[Zohar 12.06 - Piqqudin#^z2-43a|2:43a]], 160b; BT *Pesaḥim* [[Pesachim 56#56a|56a]].
+    The letter ו (*vav*), whose numerical value is six, symbolizes *Tif’eret* and constitutes the third letter of the name יהוה (*YHVH*). *Tif’eret* is also symbolized by Jacob, who is called Israel. See *Zohar* [[Zohar 12.06 - Piqqudin#^z2-43a|2:43a]], [[Zohar 5.05 - Parashat Terumah#^z2-160b|160b]]; BT *Pesaḥim* [[Pesachim 56#56a|56a]].
 
 [^735]: ***If you listen** closely to My commandments that I command you this day, to love YHVH your God and to serve Him with all your heart and with all your being...*.
 

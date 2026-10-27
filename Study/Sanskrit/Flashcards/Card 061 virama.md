@@ -17,6 +17,8 @@ nyasa: "none (a sign, not a letter)"
 
 **Card 61 of 108** (printed: Card 3-1 · Alpha 0) · punctuation
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ◌्

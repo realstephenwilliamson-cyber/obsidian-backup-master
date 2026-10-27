@@ -316,7 +316,7 @@ na sa yogamavāpnoti śivena saha mānavaḥ |
 
 The Shaft of the Trident 
 
-Then (beyond that) one should imagine the channel which is the staff of that (Trident) called Ananta that extends up to the uvula. There is said to be a knot above the staff. O great Goddess, without piercing through (that) great ocean of nets and fetters, a man does not attain union (yoga) with Śiva. (56cd- 58ab) 
+Then (beyond that) one should imagine the channel which is the staff of that (Trident) called Ananta that extends up to the uvula. There is said to be a knot above the staff. O great Goddess, without piercing through (that) great ocean of nets and fetters, a man does not attain union (yoga) with Śiva. (56cd-58ab) 
 
 Māyā at the Uvula 
 
@@ -339,7 +339,7 @@ The reciter of mantra should meditate on the four qualities (of the intellect), 
 
 *[p. 420]* ^pg438
 
-the four cornices (gātraka) in the four-directions, starting with the east. (58cd- 59) 
+the four cornices (gātraka) in the four-directions, starting with the east. (58cd-59) 
 
 The Square at Śuddhavidyā between the Uvula and Cavity of Brahmā 
 
@@ -477,7 +477,7 @@ parāparāṁ svarūpeṇa raktavarnāḥ mahābalām || 72 ||
 icchārūpadharām dhyātvā kimcidugrār na bhīṣaṇām |
 aparār vāmaśrùge tu bhīṣaṇām kṛṣṇapiṁgalām ॥ 73 ॥ 
 
-Then, (one should contemplate) the supreme power (Parā) in the middle and the (other) two on the right and the left. Parāparā (on the right) is red by nature and very powerful. She bears the form of the will (> sic. knowledge) and is somewhat fierce (but) not frightening (bhīṣaṇa). Having visualized. (her, meditate on) Aparā on the left prong, who is frightening and tawny-black. (72- 73) 
+Then, (one should contemplate) the supreme power (Parā) in the middle and the (other) two on the right and the left. Parāparā (on the right) is red by nature and very powerful. She bears the form of the will (> sic. knowledge) and is somewhat fierce (but) not frightening (bhīṣaṇa). Having visualized. (her, meditate on) Aparā on the left prong, who is frightening and tawny-black. (72-73) 
 
 इच्छारूपधरां देवीं प्रणतार्तिविनाशिनीम् |
 परां चाप्यायनीं देवीं चन्द्रकोस्ययुतप्रभाम् || ७४ ||
@@ -563,7 +563,7 @@ turyāntamāṇavari vidyāditi śūlatrayaṁ matam |
 Thus, this is said to be the Divine (śāmbhava) (Trident). The Empowered one (śākta) is considered (to reach up only to) the end of eight (fingers? space above the Cavity of Brahmā). One should know that the 
 
 [^1049]: lab (359-360). See there for details.
-[^1050]: MV 8/81cd-82ab is quoted in TĀv ad 15/361cd-363ab (361-362). TĀ 15⁄(361cd-365ab) (361- 364) expands and explains MV 8/81-83ab, 84ab.
+[^1050]: MV 8/81cd-82ab is quoted in TĀv ad 15/361cd-363ab (361-362). TĀ 15⁄(361cd-365ab) (361-364) expands and explains MV 8/81-83ab, 84ab.
 
 *[p. 426]* ^pg444
 
@@ -575,7 +575,7 @@ Individual (Trident) ends four (fingers’ space above it). This is considered t
 11111111 vicintayet I| 83 I|
 tenāpi \[illegible\] baddhvā tyajatyeva mahītalam | 
 
-(One can also) meditate on the assembly of powers (śakticakra) by the procedure (in which the deities) are worshipped individually (pṛthagyāgavidhānena).” By that (means also), once having formed (the gesture of) the Skyfaring (Goddess), he quits in the same way the surface of the earth.\* (83cd- 84ab) 
+(One can also) meditate on the assembly of powers (śakticakra) by the procedure (in which the deities) are worshipped individually (pṛthagyāgavidhānena).” By that (means also), once having formed (the gesture of) the Skyfaring (Goddess), he quits in the same way the surface of the earth.\* (83cd-84ab) 
 
 ततोऽभिमनच्य धान्यानि महाखेण त्रिसप्तधा ॥ ८४ ॥
 निक्षिपेदिश्चु सवीसु ज्वकत्पावकवत्स्मरेत् |
@@ -601,7 +601,7 @@ Then, after having consecrated grains of wheat with the great Weapon twenty-one 
 
 1054?\. \[illegible\] TĀ 15/365cd-366ab) (365) is an explanation of MV 8/83cd-84ab (not quoted by Jayaratha).
 
-1055?\. This is where Ganeśa is worshipped. MV 8/85 is quoted in TĀv ad 15/377cd-378ab (376cd- 377). See TĀ 15/369cd-370ab (369).
+1055?\. This is where Ganeśa is worshipped. MV 8/85 is quoted in TĀv ad 15/377cd-378ab (376cd-377). See TĀ 15/369cd-370ab (369).
 
 
 *[p. 427]* ^pg445
@@ -837,7 +837,7 @@ Once the skilled (practitioner) has fashioned the mandala with scents (or unguen
 
 1083?\. Read pūrve for pūrvaṁ.
 
-1084?\. MV 8/107 is quoted in TĀv ad 15/381cd-388ab (378-385ab). TĀ 15/387cd-388ab (384cd- 385ab) is an explanatory paraphrase of MV 8/107.
+1084?\. MV 8/107 is quoted in TĀv ad 15/381cd-388ab (378-385ab). TĀ 15/387cd-388ab (384cd-385ab) is an explanatory paraphrase of MV 8/107.
 
 1085?\. kh: pūjayedasim.
 
@@ -876,7 +876,7 @@ sivamomiti vinyasya sahpūjya dvitayaṁ punaḥ |
 tāmrapātre śarāve vā ānayejjātavedasam || 112 ॥
 sivaśukramiti dhyātvā vidyāyonau vinikṣipet | 
 
-One should deposit the (Mālinī) Vidyā OM HRĪM. Having deposited the Siva (Mātṛkā with an initial) OM and worshipped both again, he should bring the fire on a copper or earthenware plate. Having meditated (on it thinking that it is) Śiva’s seed, it should be cast into the womb (yoni) of the Vidyā.”’ (111cd- 113ab) 
+One should deposit the (Mālinī) Vidyā OM HRĪM. Having deposited the Siva (Mātṛkā with an initial) OM and worshipped both again, he should bring the fire on a copper or earthenware plate. Having meditated (on it thinking that it is) Śiva’s seed, it should be cast into the womb (yoni) of the Vidyā.”’ (111cd-113ab) 
 
 ततस्त्वाहुतयः पञ्च वि\]ड्ैरेव होमयेत् || ११३ ॥
 जादि ततः कर्म सर्वमेवं कृते कृतम् |
@@ -1050,7 +1050,7 @@ evar vidha Śubhaṁ dṛṣtvā siddhi prāpnotyabhīpsitām ॥ 129 ॥
 
 *[p. 438]* ^pg456
 
-Auspicious dreams such those of flowers, fruits and the like, women with beautiful clothes and ornaments, escape from a calamity, ascent[^1108] into auspicious lands, the drinking of liquor, decapitation, the eating of raw meat, the direct vision of deities, the smearing with faces - having seen such an auspicious (dream), he obtains the accomplishment (siddhi) he desires. (127cd- 129) 
+Auspicious dreams such those of flowers, fruits and the like, women with beautiful clothes and ornaments, escape from a calamity, ascent[^1108] into auspicious lands, the drinking of liquor, decapitation, the eating of raw meat, the direct vision of deities, the smearing with faces - having seen such an auspicious (dream), he obtains the accomplishment (siddhi) he desires. (127cd-129) 
 
 एतदेवान्यथाभूतं दुःस्वपण इति कीर्तयते |
 पक्वमांसाशनाभ्यङ्कगतीदिपतनादिकम् ॥ (brahmin).[^1111] ॥

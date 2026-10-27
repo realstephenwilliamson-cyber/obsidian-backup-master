@@ -5,6 +5,8 @@ updated: 2026-10-19
 ---
 # CIS Ch. 3 cards
 
+`BUTTON[sr-note, sr-cram]`
+
 [[The Cambridge Introduction 10 - Chapter 3 Road Map Verbs|Ch. 3 Road Map: Verbs]] · [[Ruppel 3]] · [[CIS - Answers to Chapter 3 Exercises (Ruppel)|key]]
 
 ## The Nutshell: categories of the verb (p. 34)

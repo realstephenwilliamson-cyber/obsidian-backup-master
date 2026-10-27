@@ -192,7 +192,7 @@ Thus, their relationship (with one another) as the means and the goal, is procla
 anubhāvo vikalpo ‘pi mānaso na manaḥ śive || 74 ||
 avijñāya śivan dīkṣā katham ity atra cottaram | 
 
-That (view) also (expressed in its own way) in the venerable Kiraṇaśāstra in the (course of a series) of questions and answers (that begins with the following objection): ‘The experience (anubhāva) (of hunger and thirst etc.) is mental, and (as such) is also a thought construct (vikalpa). (Thus,) the mind (cannot apply itself) to Śiva.% (But) without having first known Śiva, how is initiation (that serves to conjoin the soul to Him possible)?” The answer here (to this question) is as follows." (74- 75ab) (75-76ab) 
+That (view) also (expressed in its own way) in the venerable Kiraṇaśāstra in the (course of a series) of questions and answers (that begins with the following objection): ‘The experience (anubhāva) (of hunger and thirst etc.) is mental, and (as such) is also a thought construct (vikalpa). (Thus,) the mind (cannot apply itself) to Śiva.% (But) without having first known Śiva, how is initiation (that serves to conjoin the soul to Him possible)?” The answer here (to this question) is as follows." (74-75ab) (75-76ab) 
 
 #### Viveka on 1.74–75
 

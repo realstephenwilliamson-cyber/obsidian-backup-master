@@ -668,7 +668,7 @@ Rabbi Abba replied, “This matter I have learned, and it is a sublime mystery. 
 
     In the concluding sentence, “these” probably refers to all seven clusters. “The well of water” symbolizes *Shekhinah*. On Her being dug, cf. above, note 46.
 
-    On the triads אני (*alef, nun, yod*) and והו (*vav, he, vav*), see M *Sukkah* 4:5; JT *Sukkah* 4:5, 54c; Rashi and *Tosafot* on BT *Sukkah* [[Sukkah 45#45a|45a]], s.v. *ani va-ho*; Eleazar ben Judah of Worms, *Peirushei Siddur ha-Tefillah*, 1:132; Ḥizzequni on [[Torah 16 - Beshalach#^14-21|Exodus 14:21]]; *Or Yaqar*; *Zohar* [[Zohar 1.023a|1:23a]] (*TZ*); 2:52a; 3:222b (*RM*), 227a (*RM*), 276b (*RM*); *ZḤ* 113b (*TZ*); Baḥya ben Asher on [[Torah 16 - Beshalach#^15-3|Exodus 15:3]].
+    On the triads אני (*alef, nun, yod*) and והו (*vav, he, vav*), see M *Sukkah* 4:5; JT *Sukkah* 4:5, 54c; Rashi and *Tosafot* on BT *Sukkah* [[Sukkah 45#45a|45a]], s.v. *ani va-ho*; Eleazar ben Judah of Worms, *Peirushei Siddur ha-Tefillah*, 1:132; Ḥizzequni on [[Torah 16 - Beshalach#^14-21|Exodus 14:21]]; *Or Yaqar*; *Zohar* [[Zohar 1.023a|1:23a]] (*TZ*); [[Zohar 4.06 - Parashat Be-Shallah#^z2-52a|2:52a]]; 3:222b (*RM*), 227a (*RM*), 276b (*RM*); *ZḤ* 113b (*TZ*); Baḥya ben Asher on [[Torah 16 - Beshalach#^15-3|Exodus 15:3]].
 
     For various interpretations of how the seventy-two triads divide up into seven clusters, see *Or Yaqar*; *Haggahot Maharḥu; Miqdash Melekh*; *Nitsotsei Orot*; *Yahel Or*; *Ateret Tsevi*; *Sullam*; *Matoq mi-Devash.*
 
@@ -1184,4 +1184,4 @@ Rabbi Abba replied, “This matter I have learned, and it is a sublime mystery. 
 
     On the brevity of Moses’ prayer, see *Sifrei*, Numbers 105; *Mekhilta, Beshallaḥ* 3; *Vayassa* 1; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^14-15|Exodus 14:15]]; [[Torah 16 - Beshalach#^15-25|15:25]]; BT *Berakhot* [[Berakhot 34#34a|34a]]; *Zohar* [[Zohar 6.06 - Parashat Pequdei#^z2-244b|2:244b]]–245a (*Heikh*), [[Zohar 12.05 - Heikhalot Pequdei#^z2-259b|259b]] (*Heikh*).
 
-    On God caring more about the honor of the righteous than His own honor, see *Pesiqta de-Rav Kahana* 2:6; *Tanḥuma, Toledot* 12; *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-64a|2:64a]] (Vol. 4, p. 346–47, n. 523); 3:288a (*IZ*).
+    On God caring more about the honor of the righteous than His own honor, see *Pesiqta de-Rav Kahana* 2:6; *Tanḥuma, Toledot* 12; *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-64a|2:64a]] (Vol. 4, p. 346–47, n. 523); [[Zohar 9.15 - Idra Zuta#^z3-288a|3:288a]] (*IZ*).

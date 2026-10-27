@@ -378,7 +378,7 @@ Maximus and Didymus.
 
 indicates the Christian content of the allegory" (85n3 1). 
 
-1 50. The *QT* (CCSG 7 and 22), *Amb.Io.* (in Greek, PG 91.1061-1417; in Latin, CCSG 22), and the *Opuscula* (PG 9 1 .9-285). The word θέλημα appears three times in the *QD* (QD 2 1 : τὸ αὐτεξούσιον θέλημα; *QD* 83: the entire question addresses διαφόρων θελημάτων θεου <sup>n</sup>; and *QD* l 45, where the author speaks of the importance of not having one's own will.) There is never a direct reference made in the *QD* to either one or two wills in Christ. 
+1 50. The *QT* (CCSG 7 and 22), *Amb.Io.* (in Greek, PG 91.1061-1417; in Latin, CCSG 22), and the *Opuscula* (PG 9 1 .9-285). The word θέλημα appears three times in the *QD* (QD 2 1 : τὸ αὐτεξούσιον θέλημα; *QD* 83: the entire question addresses διαφόρων θελημάτων θεου”; and *QD* I 45, where the author speaks of the importance of not having one's own will.) There is never a direct reference made in the *QD* to either one or two wills in Christ. 
 
 1 5 1 . Ceresa-Gastaldo lists forty manuscripts from which he compiles the critical edition of the CC, and van Deun lists sixty-two for the *LA.* Declerck lists thirteen manuscripts for the *QD.* 
 
@@ -916,7 +916,7 @@ regarding any thought of attaining perfect detachment.
 
 3.8, and 3.9 (GCS 1, 30.9, 33.30, and 34.7). 
 
-61\. Τὸ δεξιόν αὐτῆς κέρας. One translation of the phrase is "chief strength" (1 Mace 9:1) from Bagster's translation *\[The Septuagint Version of the Old Testament and Apocrypha* (London: Samuel Bagster and Sons, 1879)\] . The horn is also a symbol of power and can even be translated as arm of the cross of Christ; see Lampe, 747. This term is found in 1 Mace 9 : 1 and, as a military term, refers to the right wing of the army; see Cassius Dio, *Hist. Rom.* 75.6.3; Josephus, *Ant. Jud.* 19.9 1 ; and Herodotus, *Hist.* 6.111. 
+61\. Τὸ δεξιόν αὐτῆς κέρας. One translation of the phrase is "chief strength" (1 Macc 9:1) from Bagster's translation *\[The Septuagint Version of the Old Testament and Apocrypha* (London: Samuel Bagster and Sons, 1879)\] . The horn is also a symbol of power and can even be translated as arm of the cross of Christ; see Lampe, 747. This term is found in 1 Macc 9 : 1 and, as a military term, refers to the right wing of the army; see Cassius Dio, *Hist. Rom.* 75.6.3; Josephus, *Ant. Jud.* 19.9 1 ; and Herodotus, *Hist.* 6.111. 
 
 62\. Matt 1 7:24-27. 
 
@@ -1128,7 +1128,7 @@ ISO. [[Torah 04 - Vayera#^19-26|Gen 19:26]].
 
 153\. See also, *QT* 6 1 .29 (CCSG 22, 85), and Aristotle, *Nich. Eth.* 10.4-5.1 1 74a-1 1 76a. 
 
-1 54. [[Torah 49 - Ki Teitzei#^23-4|Deut 23:4]] and Exod 20:S; see *QD* I, 78.1-3. 
+1 54. [[Torah 49 - Ki Teitzei#^23-4|Deut 23:4]] and Exod 20:5; see *QD* I, 78.1-3. 
 
 155\. "Dirty rag," see Liddell and Scott, *A Greek-English Lexicon* (Oxford: Oxford University Press, 1 889, rev. ed 1968), 7 1 5 . See also, Achtemeier's definition of the word on page 849 of *Harper's Bible Dictionary:* "an obscure term of abuse, probably from the Aramaic meaning 'empty one.'" 
 
@@ -1582,7 +1582,7 @@ passages in *Amb.Io.* 10 (PG 91.1120BC).
 
 372\. [[LXX Psalms 30#^30-3|Ps 30:3]]. 
 
-373\. Nazianzus, *Or. XL, In s. Baptisma* 33 (PG 36.405B); see [[Matthew 15#^15-21|Matt 15:21]]. 3 74. Nazianzus, *Or. XL , In s . Baptisma* 33 (PG 36.405B); see [[Luke 08#^8-44|Luke 8:44]], 
+373\. Nazianzus, *Or. XL, In s. Baptisma* 33 (PG 36.405B); see [[Matthew 15#^15-21|Matt 15:21]]. 3 74. Nazianzus, *Or. XL , In s . Baptisma* 33 (PG 36.405B); see [[Luke 08#^8-44|Luke 8:44]], [[Matthew 09#^9-20|Matt 9:20]]. 
 
 375\. Nazianzus, *Or. XL, In s. Baptisma* 33 (PG 36.405B); see [[Luke 08#^8-44|Luke 8:44]], [[Mark 05#^5-29|Mark 5:29]]. 
 
@@ -1996,7 +1996,7 @@ see QD 34 and *QD* 194.
 
 5 70. [[Joshua 08#^8-29|Josh 8:29]]. Adonibezek is the king of Jerusalem (see [[Joshua 10#^10-1|Josh 10: 1-26]]) and was not hanged on a double tree but was hanged along with four other kings on five trees. The king of Ai was hanged on the double tree. 
 
-571\. See [[John 12#^12-31|John 12:31]], [[John 14#^14-30|14:30]], 16:ll; [[Joshua 08#^8-29|Josh 8:29]]. 
+571\. See [[John 12#^12-31|John 12:31]], [[John 14#^14-30|14:30]], 16:11; [[Joshua 08#^8-29|Josh 8:29]]. 
 
 572\. 3 Kgdms 22: 19. 
 
@@ -2166,7 +2166,7 @@ some context. Noah lived over six hundred years.
 
 650\. See *QD* 9. For the snake as the originator of evil, see Romanus the Melodist, *Cant.* 43. 1 7.3 (SC 128, 520); and the *Acta Phillipi* 11 1.3 \[Maximilianus Bonnet, ed., *Acta Apostolorum Apocrypha* vol. II, 2 (Zurich: George Olms Verlag, 1990), 43\] . 
 
-651\. Rom 6:l l. 
+651\. Rom 6:11. 
 
 652\. [[John 19#^19-34|John 19:34]]; [[Matthew 27#^27-49|Matt 27:49]]. 
 

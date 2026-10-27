@@ -17,6 +17,8 @@ nyasa: "crown lock (*śikhā*)"
 
 **Card 26 of 108** (printed: Card 1-26 · Alpha 28) · special letter ‘anusvāra’ · the letter: [[Letter 15 am (anusvara)|अं (a)ṃ]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** अं

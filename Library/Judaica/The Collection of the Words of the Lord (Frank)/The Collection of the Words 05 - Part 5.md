@@ -395,7 +395,7 @@ the place where the prince carried on a hunt and reveals to him that he is very 
 [^828]: The reference is to the first word in the Bible, *bereshit*, cf 85 n. Frank’s interpretation is an original one among hundreds of others.
 [^829]: 531 n, with a pun on the words for “chiefs” and the name of the Hebrew letter ‘alef.
 [^830]: [[Ecclesiastes 01#^1-2|Eccl 1.2]]
-[^831]: [[Zohar 5.03 - Parashat Mishpatim#^z2-112b|Zohar 2.112b]], 3.233a to 1 K 9.17f
+[^831]: [[Zohar 5.03 - Parashat Mishpatim#^z2-112b|Zohar 2.112b]], [[Zohar 9.11 - Parashat Pinehas#^z3-233a|3.233a]] to 1 K 9.17f
 [^832]: [[Psalms 051#^51-7|Ps 51.7]]
 [^833]: Reading with 9/2 which adds *wgrzechu, to oznacza, w braku*.
 [^834]: 503 n
@@ -511,7 +511,7 @@ themselves; some said since according to their laws only a 60th part of the dish
 [^872]: [[Zechariah 09#^9-9|Zech 9.9]]
 [^873]: Cf [[Torah 08 - Vayishlach#^32-25|Gen 32.25]]; 29. Frank refers to the angel at the Jabbok by the term *sar*, “prince” as in Gen R 77.3, etc. (Rashi)
 [^874]: From "Jacob saw" to "slavery" is lacking in 9/2.
-[^875]: Cf [[Zohar 3.07 - Parashat Va-Yhi#^z1-236a|Zohar 1.236a]], 2.160b, 3.119b, Tik 21.56a. It is not clear that Frank means anything other than the derogation of Jacob here and the tradition of the long-suffering Israel of history (based on Gen. R. 74a among others) and none of the same thing(s) the Zohar might in connection with this name.
+[^875]: Cf [[Zohar 3.07 - Parashat Va-Yhi#^z1-236a|Zohar 1.236a]], [[Zohar 5.05 - Parashat Terumah#^z2-160b|2.160b]], [[Zohar 8.07 - Parashat Be-Midbar#^z3-119b|3.119b]], Tik 21.56a. It is not clear that Frank means anything other than the derogation of Jacob here and the tradition of the long-suffering Israel of history (based on Gen. R. 74a among others) and none of the same thing(s) the Zohar might in connection with this name.
 
 *[p. 188]* ^pg188
 

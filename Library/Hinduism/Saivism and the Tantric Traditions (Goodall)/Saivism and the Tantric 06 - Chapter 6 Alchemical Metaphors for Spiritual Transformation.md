@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF; footnotes re-converted 15 O
 converted: 2026-10-07
 ---
 
-[[Saivism and the Tantric 05 - Chapters 4-5|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 07 - Chapters 7-8|next →]]
+[[Saivism and the Tantric 05 - Chapters 4-5, Further Thoughts on Ramakantha's Relationship to Earlier Positions|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 07 - Chapters 7-8, On Vagisvarakirti's Influence in Kashmir and among the Khmer - Reflections on the King of Ascetics|next →]]
 
 *[p. 127]* ^pg162
 

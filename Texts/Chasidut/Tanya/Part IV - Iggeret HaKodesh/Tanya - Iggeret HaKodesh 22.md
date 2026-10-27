@@ -131,7 +131,7 @@ May the good L–rd, who blesses His people with peace,[^81] set among you peace
 [^65]: I.e., to calculate on the motives of other people and to criticize them.
 [^66]: *Avot* 4:10.
 [^67]: I.e., any one.
-[^68]: Whereas all of Israel together form a single stature every one complements the other, thereby improving and perfecting him; cf. *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-234a|I:234a]] (also, ibid., [[Zohar 3.03 - Parashat Va-Yishlah#^z1-167b|167b]]); *Kuzari* 3:19; *Tomer Devorah* 1:4.—Cf. also *Avot* 4:1; *Zohar* III:85b.
+[^68]: Whereas all of Israel together form a single stature every one complements the other, thereby improving and perfecting him; cf. *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-234a|I:234a]] (also, ibid., [[Zohar 3.03 - Parashat Va-Yishlah#^z1-167b|167b]]); *Kuzari* 3:19; *Tomer Devorah* 1:4.—Cf. also *Avot* 4:1; *Zohar* [[Zohar 8.03 - Parashat Qedoshim#^z3-85b|III:85b]].
 [^69]: [[Judges 20#^20-11|Judges 20:11]]; cf. *Chagigah* [[Chagigah 26#26a|26a]].
 [^70]: Cf. *Mechilta d’R. Shimon bar Yochai* (ed. Epstein-Melamed), on [[Torah 17 - Yitro#^19-6|Exodus 19:6]] (Jerusalem, 1955, p. 139): “as one body, and one soul.”
 [^71]: Ibid. (also, *Mechilta d’R. Yishmael*, ad loc.); *Vayikra Rabbah* 4:6.—See also below, Epistle 31.

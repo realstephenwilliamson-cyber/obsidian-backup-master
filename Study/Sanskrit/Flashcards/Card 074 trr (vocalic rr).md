@@ -17,6 +17,8 @@ nyasa: "ta: left hip (*kaṭi*) · ṝ: left nostril (*nāsā*)"
 
 **Card 74 of 108** (printed: Card 3-14 · Alpha 56) · consonant + vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** तॄ

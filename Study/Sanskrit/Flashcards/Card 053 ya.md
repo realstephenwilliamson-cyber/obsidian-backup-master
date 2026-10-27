@@ -17,6 +17,8 @@ nyasa: "skin (*tvak*)"
 
 **Card 53 of 108** (printed: Card 2-26 · Alpha 82) · consonant · the letter: [[Letter 42 ya|य ya]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** य

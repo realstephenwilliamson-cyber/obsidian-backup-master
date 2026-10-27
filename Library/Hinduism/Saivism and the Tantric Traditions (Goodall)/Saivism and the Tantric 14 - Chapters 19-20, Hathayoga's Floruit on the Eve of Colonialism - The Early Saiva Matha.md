@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF; footnotes re-converted 15 O
 converted: 2026-10-07
 ---
 
-[[Saivism and the Tantric 13 - Chapters 17-18|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 15 - Chapter 21 The Kriyasamgrahapanjika of Kuladatta|next →]]
+[[Saivism and the Tantric 13 - Chapters 17-18, The Amrtasiddhi - A Sexual Ritual with Maya in Matsyendrasamhita 40|← previous]] · [[Saivism and the Tantric Traditions (Goodall)|contents]] · [[Saivism and the Tantric 15 - Chapter 21 The Kriyasamgrahapanjika of Kuladatta|next →]]
 
 *[p. 447]* ^pg482
 

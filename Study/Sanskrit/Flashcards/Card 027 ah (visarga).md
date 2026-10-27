@@ -17,6 +17,8 @@ nyasa: "tongue (*jihvā*)"
 
 **Card 27 of 108** (printed: Card 1-27 · Alpha 29) · special letter ‘visarga’ · the letter: [[Letter 16 ah (visarga)|अः (a)ḥ]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** अः

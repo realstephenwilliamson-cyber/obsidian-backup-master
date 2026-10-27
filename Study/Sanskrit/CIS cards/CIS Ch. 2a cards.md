@@ -5,6 +5,8 @@ updated: 2026-10-19
 ---
 # CIS Ch. 2a cards
 
+`BUTTON[sr-note, sr-cram]`
+
 [[The Cambridge Introduction 09 - Chapter 2a Word Stress Heavy and Light Syllables|Ch. 2a Word Stress: Heavy and Light Syllables]] · [[Ruppel 2A]] · [[CIS - Answers to Chapter 2 and 2A Exercises (Ruppel)|key]]
 
 ## Dividing syllables (p. 25)

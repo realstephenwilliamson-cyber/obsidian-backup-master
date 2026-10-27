@@ -26,7 +26,7 @@ Surely (one may ask), what is the Brahman, that even when practicing it, one abi
 ānando brahma paramaṁ tac ca dehe tridhā sthitam ॥ 97 ॥
 upakāri dvayaṁ tatra phalam anyat tadātmakam | 
 
-Bliss is the supreme Brahman, and that is present in the body in three forms. There, two (namely, meat and wine,) are aids, and the other one (i.e. sexual union) is the fruit, which is of that (blissful) nature. (97cd- 98ab) 
+Bliss is the supreme Brahman, and that is present in the body in three forms. There, two (namely, meat and wine,) are aids, and the other one (i.e. sexual union) is the fruit, which is of that (blissful) nature. (97cd-98ab) 
 
 #### Viveka on 29.97–98
 
@@ -475,7 +475,7 @@ What is the reason for using the term ‘wheel’? With this doubt in mind, he s
 चक्रं कसेश्चकेः कृत्या करोतेश्च किलोदित् vikāsāt tṛptitaḥ pāśotkartanāt kṛtiśaktitaḥ ॥ 106 ॥
 cakraṁ kaseś cakeḥ kṛtyā karoteś ca kiloditam || 
 
-The word ‘cakra’ is said to be derive from the roots ‘ks? (expansion), ‘caka’ (satisfaction), ‘krí? (severing), and ‘kr’ (acting). Thus ‘cakra’ is that which expands, satisfies, severs (bondage), and acts. (106cd- 107ab) 
+The word ‘cakra’ is said to be derive from the roots ‘ks? (expansion), ‘caka’ (satisfaction), ‘krí? (severing), and ‘kr’ (acting). Thus ‘cakra’ is that which expands, satisfies, severs (bondage), and acts. (106cd-107ab) 
 
 #### Viveka on 29.106–107
 
@@ -1124,7 +1124,7 @@ enlightenment (aprāptavibodha),\* (but) are well-established in the sacrifice t
 
 (consciousness) 
 
-(parikalpita), attain discerning knowledge (of consciousness, and bestow its fruits to the less enlightened).\* (129cd- 130ab) 
+(parikalpita), attain discerning knowledge (of consciousness, and bestow its fruits to the less enlightened).\* (129cd-130ab) 
 
 ### TĀ 29.129–130
 
@@ -1256,7 +1256,7 @@ tiṣthaty uparatavṛttiḥ
 
 sūnyālambī nirānandaḥ | 
 
-By attaining that tranquil state, the activity of the entire troupe of deities that resides in the (central) Wheel ceases, and abiding (thus) suspended in the Void, is devoid of (outer) bliss (nirānanda).“(134cd- 135ab) 
+By attaining that tranquil state, the activity of the entire troupe of deities that resides in the (central) Wheel ceases, and abiding (thus) suspended in the Void, is devoid of (outer) bliss (nirānanda).“(134cd-135ab) 
 
 #### Viveka on 29.134–135
 

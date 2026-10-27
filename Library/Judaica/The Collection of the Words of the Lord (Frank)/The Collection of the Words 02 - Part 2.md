@@ -230,7 +230,7 @@ went on. He came upon a beautiful tree, but it was barren and dry. The tree, too
 [^219]: 68 *odkąd* , 69/1, *od kiedy*
 [^220]: 68 lacks *i mnozyć*, (and to multiply).
 [^221]: 68 lacks *zowie* (called).
-[^222]: [[Torah 49 - Ki Teitzei#^22-6|Dt 22.6]], cf. *otsar ha-midrashim*, *gan ‘eden ve-gehinom* 10 (among others), e.g. [[Zohar 4.03 - Parashat Shemot#^z2-7b|Zohar 2.7b-8a]], 3.196b.
+[^222]: [[Torah 49 - Ki Teitzei#^22-6|Dt 22.6]], cf. *otsar ha-midrashim*, *gan ‘eden ve-gehinom* 10 (among others), e.g. [[Zohar 4.03 - Parashat Shemot#^z2-7b|Zohar 2.7b-8a]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-196b|3.196b]].
 [^223]: 68 lacks *pokorni* (meek).
 
 *[p. lvi]* ^pg56
@@ -369,7 +369,7 @@ to God, will sing and rejoice, saying, To you, o God, belongs the beauty, greatn
 [^274]: [[Torah 07 - Vayetzei#^28-12|Gen. 28.12]]
 [^275]: [[Zohar 2.06 - Parashat Va-Yetse#^z1-149b|Zohar 1.149b]]
 [^276]: 1 K 19.11-12
-[^277]: The theme of the voice/sound (of Jacob) causing other voices/sounds to join with it and bringing about change in the upper sefirot can be found in several passages in the Zohar; 3.38b and 99b-100a associate this verse ([[Torah 06 - Toldot#^27-22|Gen 27.22]], “the voice is the voice of Jacob, but the hands are the hands of Esau”) with the sounding of the shofar on Rosh Hashana, for example. See also [[Zohar 1.08 - Parashat Noah#^z1-74a|Zohar 1.74a]], 151a, 246b. The general principle of the Zohar (3.31b is that “through an action below an action above is aroused.”
+[^277]: The theme of the voice/sound (of Jacob) causing other voices/sounds to join with it and bringing about change in the upper sefirot can be found in several passages in the Zohar; 3.38b and 99b-100a associate this verse ([[Torah 06 - Toldot#^27-22|Gen 27.22]], “the voice is the voice of Jacob, but the hands are the hands of Esau”) with the sounding of the shofar on Rosh Hashana, for example. See also [[Zohar 1.08 - Parashat Noah#^z1-74a|Zohar 1.74a]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-151a|151a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-246b|246b]]. The general principle of the Zohar (3.31b is that “through an action below an action above is aroused.”
 [^278]: [[Song of Songs 5#^5-2|Song 5.2]]
 
 *[p. lxiv]* ^pg64
@@ -433,7 +433,7 @@ must be a good stone. So it is with me and you. I told you base things about Buc
 
 [^299]: 68 has *lutrować* \[!\], prps. *lustrować* (polish, cleanse, purge) or *lutować* (braze); 69, *filtrować*
 [^300]: Zach 13.9; the translation changes the verb from first person to third.
-[^301]: [[Torah 16 - Beshalach#^17-16|Ex 17.16]] and see Zohar 1.25a, 2.67a.
+[^301]: [[Torah 16 - Beshalach#^17-16|Ex 17.16]] and see [[Zohar 1.025a|Zohar 1.25a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-67a|2.67a]].
 [^302]: [[Proverbs 27#^27-5|Prv 27.5]]
 
 *[p. lxviii]* ^pg68

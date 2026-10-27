@@ -17,6 +17,8 @@ nyasa: "right cheek (*gaṇḍa*), as ḷ"
 
 **Card 17 of 108** (printed: Card 1-17 · Alpha 19) · vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ◌ॢ

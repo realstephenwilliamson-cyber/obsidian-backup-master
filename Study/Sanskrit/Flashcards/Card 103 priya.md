@@ -17,6 +17,8 @@ nyasa: "pa: right side (*pārśva*) · ra: blood (*rakta*) · i: right eye (*d�
 
 **Card 103 of 108** (printed: Card 3-43 · Alpha 75) · word
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** प्रिय

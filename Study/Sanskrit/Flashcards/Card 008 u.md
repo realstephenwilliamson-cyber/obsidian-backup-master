@@ -17,6 +17,8 @@ nyasa: "right ear (*karṇa*)"
 
 **Card 8 of 108** (printed: Card 1-8 · Alpha 10) · vowel · the letter: [[Letter 05 u|उ u]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** उ

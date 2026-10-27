@@ -27,7 +27,7 @@ kajaṃ madhye tadardhena śūlaśṛṅgāṇi tāni tu |
 > [!source] Dyczkowski, vol. XI
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)/Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#^pg111|p. 93]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 11.pdf#page=111>))
 >
-> ‘(In one type of mandala, there is a) lotus in the middle (of it). (In the other type,) the prongs of the trident are half the size of that (lotus). These (constitute) the mandala that is marked by a trident. One marked by a lotus should be fashioned to complete it.’
+> ‘(In one type of maṇḍala, there is a) lotus in the middle (of it). (In the other type,) the prongs of the trident are half the size of that (lotus). These (constitute) the maṇḍala that is marked by a trident. One marked by a lotus should be fashioned to complete it.’
 
 ## Viveka
 

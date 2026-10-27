@@ -515,7 +515,7 @@ Again:
 
 563\. SvT 10/528cd.
 
-564\. SvT 10/530ab. These references are drawn from SvT 10/525-530 i.e. SvT 10/526ab, 527cd, 528cd, 530ab, 531-532. The whole passage reads: rgvedo mūrtimāmhs tasminn indralīnasamadyutiḥ | divyagandhaviliptāṅgo divyābharaṇnabhūṣitaḥ ॥ 526 ॥ saṁsthitaḥ pūrvatas tasya dīpyamānaḥ svatejasā | uttareṇa yajurvedaḥ śuddhasphaṭikasainibhaḥ ॥ 527 ॥ divyakundaladhārī ca mahākāyo mahābhujaḥ | sthitaḥ paścimadigbhāge sāmavedaḥ sanātanaḥ ॥ 528 ॥ raktāmbaradharaḥ śrīmān padmarāgasamaprabhaḥ | sragdāmadhārakaś citramālābhūṣaṇabhūṣitaḥ ॥ 529 ॥ atharvāñjanavacchyāmaḥ sthito dakṣinatas tathā | 11450 lohitagrīvo harikeśo mahātanuḥ ॥ 530 II ‘(In the east) the Rgveda possesses a form (there) within it, its light like (brilliant) sapphire. Its body is smeared with divine scent and is adorned with divine ornaments. It is located to the east of it, shining with its own radiant energy. (526- 527ab) To the north is the Yajurveda that (shines) like pure crystal. He wears divine earrings and has a big body and arms. (527cd-528ab) The eternal Sāmaveda is located in the western quarter. He wears red clothes and venerable, his light is like that of a ruby. The Atharvaveda is dark blue like collyrium and is located to the south. His eyes are brown, his neck red and, fair haired, his body is very big. (SvT 10/526-530) ream karmadevatāstutimātraparāyaṇānām anuṣṭhānāsphuḷṛatayā śyāmatā | yajuṣāṁ tu tatsphuṭatayā sitatvam | sāmnāmṁ gītiprādhānyena rañjakatvād raktatvam | atharvaṇa abhicārādyaihikakarmaparatayā kṛṣnṇatvari śabalatā ca ॥ Commentary: ‘The Rgvedika (Mantras) are dark blue, due to the clarity of the observance of those who are intent only on ritual, and the praise of the deities is clearly evident. The Yajus (Mantras) are lucid with that, and so white in colour. As the Sāma (Mantras) are predominantly musical and so pleasing (rañjaka), they are red (rakta). The Atharvaṇa (Mantras) are occupied with worldly rituals such as magic rites, and so are black or dappled colour.’ (SvTu ad 10/530)
+564\. SvT 10/530ab. These references are drawn from SvT 10/525-530 i.e. SvT 10/526ab, 527cd, 528cd, 530ab, 531-532. The whole passage reads: rgvedo mūrtimāmhs tasminn indralīnasamadyutiḥ | divyagandhaviliptāṅgo divyābharaṇnabhūṣitaḥ ॥ 526 ॥ saṁsthitaḥ pūrvatas tasya dīpyamānaḥ svatejasā | uttareṇa yajurvedaḥ śuddhasphaṭikasainibhaḥ ॥ 527 ॥ divyakundaladhārī ca mahākāyo mahābhujaḥ | sthitaḥ paścimadigbhāge sāmavedaḥ sanātanaḥ ॥ 528 ॥ raktāmbaradharaḥ śrīmān padmarāgasamaprabhaḥ | sragdāmadhārakaś citramālābhūṣaṇabhūṣitaḥ ॥ 529 ॥ atharvāñjanavacchyāmaḥ sthito dakṣinatas tathā | 11450 lohitagrīvo harikeśo mahātanuḥ ॥ 530 II ‘(In the east) the Rgveda possesses a form (there) within it, its light like (brilliant) sapphire. Its body is smeared with divine scent and is adorned with divine ornaments. It is located to the east of it, shining with its own radiant energy. (526-527ab) To the north is the Yajurveda that (shines) like pure crystal. He wears divine earrings and has a big body and arms. (527cd-528ab) The eternal Sāmaveda is located in the western quarter. He wears red clothes and venerable, his light is like that of a ruby. The Atharvaveda is dark blue like collyrium and is located to the south. His eyes are brown, his neck red and, fair haired, his body is very big. (SvT 10/526-530) ream karmadevatāstutimātraparāyaṇānām anuṣṭhānāsphuḷṛatayā śyāmatā | yajuṣāṁ tu tatsphuṭatayā sitatvam | sāmnāmṁ gītiprādhānyena rañjakatvād raktatvam | atharvaṇa abhicārādyaihikakarmaparatayā kṛṣnṇatvari śabalatā ca ॥ Commentary: ‘The Rgvedika (Mantras) are dark blue, due to the clarity of the observance of those who are intent only on ritual, and the praise of the deities is clearly evident. The Yajus (Mantras) are lucid with that, and so white in colour. As the Sāma (Mantras) are predominantly musical and so pleasing (rañjaka), they are red (rakta). The Atharvaṇa (Mantras) are occupied with worldly rituals such as magic rites, and so are black or dappled colour.’ (SvTu ad 10/530)
 
 
 *[p. 186]* ^pg204
@@ -545,7 +545,7 @@ Rudra’s World
 dīkṣājṁñānavihīnā ye liṁgārādhanatatparāḥ |
 te yānty andāntare raudrań purar nādhaḥ kadācana ॥ 158 ॥ 
 
-Those who are devoid of knowledge and have not been initiated, (but are) devoted to the worship of the Liṅga,” go to Rudra’s abode within the Egg of Brahmā, and never go to (worlds) below 1.5 (158) (157cd- 158ab) 
+Those who are devoid of knowledge and have not been initiated, (but are) devoted to the worship of the Liṅga,” go to Rudra’s abode within the Egg of Brahmā, and never go to (worlds) below 1.5 (158) (157cd-158ab) 
 
 #### Viveka on 8.157–158
 
@@ -795,7 +795,7 @@ TM\*
 
 (North) ‘Nidhīśa (Lord of Treasures), Rūpavat (Beautiful), Dhanya (Blessed), Saumyadeha (Body of Tranquillity), Jatādhara (Dredlocks), Lakṣmī (Wealth), Ratnadhara (Bearer of Gems),\*\* Kāmin (Passionate), Prasāda (Clarity), and Prabhāsaka (Shining One) (are in the north).”5° 
 
-(Northeast) ‘Vidyādhipa (Lord of Knowledge), Sarvajña (Omniscient), Jñānadṛk (Knowledge Eye), Vedapāraga (Knower of the Vedas), Śarva, Sureśa (Lord of the Gods), Jyeṣtha (Eldest), Bhūtapāla (Guardian of the Ghosts), Bali (Animal Sacrifice) and Priya (Beloved) (are in the northeast). 
+(Northeast) ‘Vidyādhipa (Lord of Knowledge), Sarvajña (Omniscient), Jñānadṛk (Knowledge Eye), Vedapāraga (Knower of the Vedas), Śarva, Sureśa (Lord of the Gods), Jyeṣṭha (Eldest), Bhūtapāla (Guardian of the Ghosts), Bali (Animal Sacrifice) and Priya (Beloved) (are in the northeast). 
 
 (Nadir) ‘Vṛṣa (Bull), Vṛṣadhara (Sustained by the Bull), Ananta (Endless), Akrodhana (No Anger), ' Mārutāśana? (Eater of the Winds), Grasana (Devourer), Dambara (Deceit), 42 (Sovereign), Phaṇīndra (Lord of the Snakes) and Vajradaṁṣṭraka (Adamantine Teeth) (are in the nadir). 7 
 
@@ -846,11 +846,11 @@ The Nature of the Egg of Brahmā”
 
 andasvarūpaṁ gurubhiś coktan śŚrīrauravādiṣu |
 vyakter abhimukhībhūtaḥ pracyutaḥ śaktirūpataḥ ॥ 169 ॥
-āvāpavān anirbhakto vastupindo ‘nda ucyate |
+āvāpavān anirbhakto vastupiṇḍo ‘ṇḍa ucyate |
 tamoleśānuviddhasya kapālaṁ sattvam uttaram || 170 ॥
 rajo ‘nuviddhar nirmṛṣṭasattvam asyādharaṁ tamaḥ | 
 
-The teacher (Sadyojyotis or Bṛhaspati?)” has explained what the Egg of Brahmā is in (his commentary on) the venerable Raurava and elsewhere (adi), ), (with the words): ‘The Egg is said to be an aggregate of entities (vastupinda) that has preserved its potency,“ has been sown (with fertilizing seed) (&vāpavat)\* and is undivided, which is in a state of propensity (abhimukhībhūta) towards manifestation. (The Egg) is threaded through with a trace of Tamas. Its upper shell (kapāla) consists of Sattva mixed with Rajas. The lower part of the shell consists of Tamas devoid of 
+The teacher (Sadyojyotis or Bṛhaspati?)” has explained what the Egg of Brahmā is in (his commentary on) the venerable Raurava and elsewhere (adi), ), (with the words): ‘The Egg is said to be an aggregate of entities (vastupiṇḍa) that has preserved its potency,“ has been sown (with fertilizing seed) (&vāpavat)\* and is undivided, which is in a state of propensity (abhimukhībhūta) towards manifestation. (The Egg) is threaded through with a trace of Tamas. Its upper shell (kapāla) consists of Sattva mixed with Rajas. The lower part of the shell consists of Tamas devoid of 
 
 Sattva.” (169-171ab) (168cd-170) 
 
@@ -882,7 +882,7 @@ Sattva.” (169-171ab) (168cd-170)
 तन्वक्षसमुदायत्वे कथमेकत्वमित्यतः ॥ १७४ ॥
 अनिर्भक्त इति प्रोक्तं साजात्यपरिदर्शकम् ।
 
-vastupiṇda iti proktań śivaśaktisamūhabhāk | 171 ॥
+vastupiṇḍa iti proktań śivaśaktisamūhabhāk | 171 ॥
 andaḥ 
 
 syād iti tadvyaktau samukhībhāva ucyate |
@@ -935,7 +935,7 @@ not so, because (that would entail) that (the Egg needs) be associated with anot
 
 Surely (then, one may ask that), even so, because bodies etc. (in the worlds of the Egg) are many, how could it be referred to as one, in the form of an aggregate? So (in response to this objection,) he says that it is ‘undivided’, as one does not perceive (any) division (in the Egg); it manifests in (a perfectly) homogeneous state (sājātya) that gives life to (its) oneness, due to which it is right to consider that it is one, as is the (single) perception of a city (viewed from a height). 
 
-Surely, (one may object that) if that is so, then each metaphysical principle would be an ‘Egg’. Thus, in order to exclude that (possibility), (he) adds that it is also an aggregate of entities (vastupinda). Thus, he says: 
+Surely, (one may object that) if that is so, then each metaphysical principle would be an ‘Egg’. Thus, in order to exclude that (possibility), (he) adds that it is also an aggregate of entities (vastupiṇḍa). Thus, he says: 
 
 ### TĀ 8.175–177
 
@@ -943,12 +943,12 @@ Surely, (one may object that) if that is so, then each metaphysical principle wo
 तत्त्वष्वण्डस्वभावत्वं नन्वेवमपि किंन तत् गुणतन्मात्रभूतौघमये तत्त्वे प्रसृज्यते ॥ १ ७६॥
 उच्यते वस्तुशब्देन तन्वक्षभुवनात्मकम् रूपमुक्तं यतस्तेन तत्समूहोऽण्ड उच्यते ॥ १७७ ॥
 
-vināpi vastupindākhyapadenaikaikaśo bhavet ॥ 175 ॥
+vināpi vastupiṇḍākhyapadenaikaikaśo bhavet ॥ 175 ॥
 tattveṣv andasvabhāvatvaṁ nanv 11111001 guṇatanmātrabhūtaughamaye tattve prasṛjyate | 176 ॥
 ucyate vastuśabdena tanvakṣabhuvanātmakam |
 rūpam uktaṁ yatas tena tatsamūho ‘nda ucyate | 177 ॥ 
 
-If one were not to say that (the Egg) is an aggregate of entities (vastupinda), each one of the metaphysical principles could (then be thought to) be an Egg (of Brahmā).“” Even so, (if one accepts that this is not so in the case of all the other principles), surely, (one may ask,) why should this (undesirable view) not apply to (Prakṛti), the principle which consists of the flux of gross and subtle elements and the qualities (guna). (In response to this objection,) it is said that the term ‘entity’ (vastu) refers to something that has a body, senses and world-order. This is the reason why the Egg of Brahmā is said to be an aggregate of that. (175cd-177) (175-177ab) 
+If one were not to say that (the Egg) is an aggregate of entities (vastupiṇḍa), each one of the metaphysical principles could (then be thought to) be an Egg (of Brahmā).“” Even so, (if one accepts that this is not so in the case of all the other principles), surely, (one may ask,) why should this (undesirable view) not apply to (Prakṛti), the principle which consists of the flux of gross and subtle elements and the qualities (guna). (In response to this objection,) it is said that the term ‘entity’ (vastu) refers to something that has a body, senses and world-order. This is the reason why the Egg of Brahmā is said to be an aggregate of that. (175cd-177) (175-177ab) 
 
 #### Viveka on 8.175–177
 
@@ -956,7 +956,7 @@ If one were not to say that (the Egg) is an aggregate of entities (vastupinda), 
 
 610\. Only the Earth principle is considered to be the Egg of Brahmā.
 
-611?\. To understand the point of the discussion, we need to recall that there are four Eggs. The Egg of Earth (pṛthvyanda), which is here identified with the Egg of Brahmā, contains only the Earth principle. The Egg of Nature (prakṛtyanda) extends from Water to Nature, The Egg of Māyā (māyānda) from the Person (puruṣa) to end of Māyā, and the Egg of Power (sāktāṇnda), includes the Pure Principles up to Śakti. The Śiva Principle is beyond the Eggs. Thus, the other three Eggs are indeed aggregates of entities, that is, worlds and principles. We have been told that the Earth principle is an ‘Egg’ because it consists of an aggregate of entities. The question now arises, why the other principles, that also contain numerous worlds, are not defined as ‘Eggs’? Why is Earth different? The expression vastupinda (‘aggregate of entities’) is fully applicable only to the Earth principle. Viewed holistically, the dictum applies that ‘every single thing is all things’ (sarvan sarvātmakam). If so, then what difference is there between Earth and the other principles? Why should they not all be ‘Eggs’? The answer is that Earth is unique, as it is at the lowest extremity of the ladder of principles. They are all present in Earth in a gr sthūla) form, whereas Earth is present within them in a subtle (sūkṣma) form. To respond to the objection (advanced by Sadyojyotis), who maintains that Nature (prakṛti) should also be an Egg because of the many realities (vastu) that constitute it (sattva, śabda, guṇa etc), Abhinavagupta advances a more restricted interpretation of the nature of an ‘Egg’, which differs from the one he offers later (see below 11/8-17). The term vastu — ‘entity’ — is used in a specific sense with reference to the body, and not in a general sense with reference to the qualities (guna) of Nature (prakṛti) etc.
+611?\. To understand the point of the discussion, we need to recall that there are four Eggs. The Egg of Earth (pṛthvyanda), which is here identified with the Egg of Brahmā, contains only the Earth principle. The Egg of Nature (prakṛtyanda) extends from Water to Nature, The Egg of Māyā (māyānda) from the Person (puruṣa) to end of Māyā, and the Egg of Power (sāktāṇnda), includes the Pure Principles up to Śakti. The Śiva Principle is beyond the Eggs. Thus, the other three Eggs are indeed aggregates of entities, that is, worlds and principles. We have been told that the Earth principle is an ‘Egg’ because it consists of an aggregate of entities. The question now arises, why the other principles, that also contain numerous worlds, are not defined as ‘Eggs’? Why is Earth different? The expression vastupiṇḍa (‘aggregate of entities’) is fully applicable only to the Earth principle. Viewed holistically, the dictum applies that ‘every single thing is all things’ (sarvan sarvātmakam). If so, then what difference is there between Earth and the other principles? Why should they not all be ‘Eggs’? The answer is that Earth is unique, as it is at the lowest extremity of the ladder of principles. They are all present in Earth in a gr sthūla) form, whereas Earth is present within them in a subtle (sūkṣma) form. To respond to the objection (advanced by Sadyojyotis), who maintains that Nature (prakṛti) should also be an Egg because of the many realities (vastu) that constitute it (sattva, śabda, guṇa etc), Abhinavagupta advances a more restricted interpretation of the nature of an ‘Egg’, which differs from the one he offers later (see below 11/8-17). The term vastu — ‘entity’ — is used in a specific sense with reference to the body, and not in a general sense with reference to the qualities (guna) of Nature (prakṛti) etc.
 
 
 *[p. 201]* ^pg219
@@ -1010,7 +1010,7 @@ Again, others explain this differently. Thus, he says:
 tāvanmātrāsv avasthāsu māyādhīne ‘dhvamandale |
 mā bhūd andatvam ity āhur anye bhedakayojanam || 179 ॥ 
 
-Others say that these distinguishing features are added in order to counter the objection that the state of the Egg (as an aggregate of entities) would not only be that of these states (i.e. the body etc.), but also that of (others) in the domain of the Path subordinate to Māyā.“ (179) (178cd- 179ab) 
+Others say that these distinguishing features are added in order to counter the objection that the state of the Egg (as an aggregate of entities) would not only be that of these states (i.e. the body etc.), but also that of (others) in the domain of the Path subordinate to Māyā.“ (179) (178cd-179ab) 
 
 #### Viveka on 8.178–179
 

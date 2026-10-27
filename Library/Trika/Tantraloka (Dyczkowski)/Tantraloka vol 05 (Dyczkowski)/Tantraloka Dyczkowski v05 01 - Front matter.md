@@ -170,7 +170,7 @@ Ilāvṛta, verse 68, pages 117-118 West of Meru: Ketumāla and its Seven Mounta
 
 Mount Lokāloka: The Land of Gold and the Rudras of the Eight 
 
-Directions Around Mount Lokāloka, verses 107cd-109ab (107- 108), pages 150-152 Ajavīthī and Suvithī, the Paths of the Fathers and the Gods, verses 109cd- 110ab (109), pages 152-154 
+Directions Around Mount Lokāloka, verses 107cd-109ab (107-108), pages 150-152 Ajavīthī and Suvithī, the Paths of the Fathers and the Gods, verses 109cd- 110ab (109), pages 152-154 
 
 The Rising and Setting of the Sun in Lokāloka and the Lands around Meru, verses 110cd-113ab (110ab-112), pages 155-158 
 
@@ -190,7 +190,7 @@ verses 121cd-142 (121-143ab), pages 162-177
 
 3\) Svarloka, verses 144-149ab (143cd-148), pages 177-181 
 
-4\) Maharloka (the Great World), verses 149cd-151 (149-151ab), pages 182-186 5) Janaloka (the World of People) and 6) Tapoloka (the World of Austerities), verses (152-154ab) (151cd-153ab), pages 182-186 7) Satyaloka (the World of Truth), verses 154cd-155ab (153cd- 154), pages 182-186 The Worlds of Brahmā and Viṣnṇu, verses 155cd-158 (155-157ab), pages 182-186 Rudra’s World, verses 158-162ab (157cd-161), pages 187-190 Elements Gross and Subtle From Which the Egg is Fashioned, verses 162cd-165ab (162-164), pages 190-192 Measurements of the Egg of Brahmā, verses 165cd-167 (165-167ab), pages 193-194 The Hundred Rudras, verses 168 (167cd-168ab), pages 194-196 The Nature of the Egg of Brahmā, verses 169-179 (168cd-179ab), pages 197-203 The Eleven Rudras Governing the Hundred Rudras, verses 180-184ab 
+4\) Maharloka (the Great World), verses 149cd-151 (149-151ab), pages 182-186 5) Janaloka (the World of People) and 6) Tapoloka (the World of Austerities), verses (152-154ab) (151cd-153ab), pages 182-186 7) Satyaloka (the World of Truth), verses 154cd-155ab (153cd-154), pages 182-186 The Worlds of Brahmā and Viṣnṇu, verses 155cd-158 (155-157ab), pages 182-186 Rudra’s World, verses 158-162ab (157cd-161), pages 187-190 Elements Gross and Subtle From Which the Egg is Fashioned, verses 162cd-165ab (162-164), pages 190-192 Measurements of the Egg of Brahmā, verses 165cd-167 (165-167ab), pages 193-194 The Hundred Rudras, verses 168 (167cd-168ab), pages 194-196 The Nature of the Egg of Brahmā, verses 169-179 (168cd-179ab), pages 197-203 The Eleven Rudras Governing the Hundred Rudras, verses 180-184ab 
 
 (179cd-183), pages 204-206 
 
@@ -240,7 +240,7 @@ The Twelve Suśivas Governed by Vīrabhadra and the Eight
 
 Mahādevas, verses 249cd (249-251ab), pages 262-263 
 
-Summary of the Worlds in the Intellect, verses 252-253 (251cd- 253ab), pages 263-264 The Worlds of the Qualities and of Nature 
+Summary of the Worlds in the Intellect, verses 252-253 (251cd-253ab), pages 263-264 The Worlds of the Qualities and of Nature 
 
 The Qualities as Unmanifest Nature as the cause of the Intellect, 
 
@@ -284,7 +284,7 @@ The Worlds of the Fetters and the Coverings of the Soul
 
 The Ten Attributes of the Body (dehadharma) and the Fetters of the Soul, verses 288cd-293ab (288-292), pages 295-299 Defining feature of the Fetters, verses 293cd-295ab (293-294), pages 299-300 
 
-The Worlds of the Five Kañcukas, verses 295cd-298 (294-298ab), pages 300-303 Māyāguhā - The Womb of the Cave of Māyā, verses 299-302 (298cd- 302ab), pages 303-306 The World of Ananta, verses 303ab-307ab (302cd-306), pages 307-309 The Cavity (bila) and the Wombs (yoni, bhaga) of Māyā, verses 307cd- 
+The Worlds of the Five Kañcukas, verses 295cd-298 (294-298ab), pages 300-303 Māyāguhā - The Womb of the Cave of Māyā, verses 299-302 (298cd-302ab), pages 303-306 The World of Ananta, verses 303ab-307ab (302cd-306), pages 307-309 The Cavity (bila) and the Wombs (yoni, bhaga) of Māyā, verses 307cd- 
 
 317ab (307-316), pages 309-313 
 
@@ -312,7 +312,7 @@ Transcendental Śiva 353-355 (352cd-355ab), pages 342-
 
 344 
 
-The Four Worlds in the Principle of Īśvara, verses 356-357 (355cd- 357ab), pages 344-346 The Worlds of the Principle of Sadāśiva 
+The Four Worlds in the Principle of Īśvara, verses 356-357 (355cd-357ab), pages 344-346 The Worlds of the Principle of Sadāśiva 
 
 The Enclosures and Deities of the Principle of Sadāśiva, verses 358-373 (357cd-373ab), pages 346-354 
 

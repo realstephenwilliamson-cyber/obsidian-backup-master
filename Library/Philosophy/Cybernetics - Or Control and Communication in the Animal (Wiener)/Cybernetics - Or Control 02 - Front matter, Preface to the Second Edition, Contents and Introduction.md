@@ -4,7 +4,7 @@ work: "[[Wiener - Cybernetics]]"
 book: "[[Library/Philosophy/Cybernetics - Or Control and Communication in the Animal (Wiener)/Cybernetics - Or Control and Communication in the Animal (Wiener)|Cybernetics - Or Control and Communication in the Animal (Wiener)]]"
 order: 2
 source_pdf: Library/Philosophy/Norbert_Wiener_Cybernetics.pdf
-page_range: vii–27
+page_range: vi–27
 pdf_pages: 2–46
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -42,7 +42,7 @@ Printed in the United States of America.
 
 To ARTURO ROSENBLUETH for many years my companion in science 
 
-*[PDF 5]* ^pg5
+*[p. vi]* ^pg5
 
 *[p. vii]* ^pg6
 
@@ -183,7 +183,7 @@ I shall devote Chapter X to this, and in particular shall discuss how oscillatin
 
 It is often stated that the production of any specific kind of molecule in the image of existing ones has an analogy to the use of templates in engineering whereby we can use a functional element of a machine as the pattern on which another similar element is made. The image of the template is a static one, and there must be some process by which one gene molecule manufactures another. 1 give the tentative suggestion that frequencies, let us say the frequencies of molecular spectra, may be the pattern elements which carry the identity of biological substances; and the self-organization of genes 
 
-*[PDF 12]* ^pg12
+*[p. xiii]* ^pg12
 
 may be a manifestation of the self-organization of frequencies which I shall discuss later. 
 
@@ -270,7 +270,7 @@ Also, in the writing down of my new chapters, and particularly in the computatio
 
 Without the meticulous care and devotion of all of these T would not have had either the courage or the accuracy to turn out a new and corrected edition, Norsenr Wiener Cambridge, Massachusetta, March, 1961 
 
-*[PDF 16]* ^pg16
+*[p. xvii]* ^pg16
 
 CONTENTS 
 
@@ -318,7 +318,7 @@ On Learning and Self-Reproducing Machines 169 Brain Waves and Self-Organizing Sy
 
 Index 
 
-*[PDF 17]* ^pg17
+*[p. xviii]* ^pg17
 
 *[PDF 18]* ^pg18
 
@@ -458,7 +458,7 @@ I shall discuss this in considerable detail in the appropriate chapters.
 
 It is enough to say here that when we desire a motion to follow a given pattern the difference between this pattern and the actually performed motion is used as a new input to eause the part regulated to move in such a way as to bring its 
 
-*[p. vi]* ^pg26
+*[p. 7]* ^pg26
 
 motion closer to that given by the pattern. For example, one form of steering engine of a ship carries the reading of the wheel to an offset from the tiller, which so regulates the valves of the steering engine as to move the tiller in such a way as to turn these valves off. Thus the tiller turns so as to bring the other end of the valve-regulating offset amidships, and in that way registers the angular position of the wheel as the angular position of the tiller. 
 

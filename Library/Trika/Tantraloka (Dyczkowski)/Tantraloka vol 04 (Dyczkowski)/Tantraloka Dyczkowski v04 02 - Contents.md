@@ -52,7 +52,7 @@ The Supreme, Subtle and Gross Emergence of the Phonemes (varnodaya),
 
 verses 216cd-217ab (216), page 424 The Supreme Emergence of the Phonemes as Unstruck Sound, verses 217cd- 219ab (217-218), page 425 The Inferior Supreme Emergence of the Letters — The Flux of the Phonemes, verses 219cd-224ab (219-223), pages 425-428 The Subtle Emergence of the Letters, verses 224cd (224ab), page 428 The Subtle-Subtle Emergence of the Letters, verses 225 (224cd-225ab), pages 428-429 The Subtle-Gross Emergence of the Letters, verses 226-227 (225cd-227cd), pages 429-430 The Vyomavyāpin Mantra, verses 228-230 (227cd-230ab), pages 431-437 The Supreme Emergence of the Phonemes in the Breath, verses 231-238ab 
 
-(230ab-237), pages 437-442 The Supreme Subtle Emergence of the Phonemes, verses 238cd-240ab (238- 239), pages 442-443 The Gross Emergence of the Letters in the Breath, verses 240cd-241ab (240), pages 443-449 
+(230ab-237), pages 437-442 The Supreme Subtle Emergence of the Phonemes, verses 238cd-240ab (238-239), pages 442-443 The Gross Emergence of the Letters in the Breath, verses 240cd-241ab (240), pages 443-449 
 
 Appendix to Volume Four 
 

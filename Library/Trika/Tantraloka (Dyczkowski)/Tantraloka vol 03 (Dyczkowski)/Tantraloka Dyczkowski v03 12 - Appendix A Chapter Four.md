@@ -516,7 +516,7 @@ pratibhedagatā saikā devadevī \[illegible\] |
 
 (Her) body shines (like that of) Nārāyaṇa, she who is the enemy of the garland of great ghosts (?).[^1048] Her one pastime is playing the good vīṇā made of Brahma’s skeleton. Voraciously greedy to invade the sequence of cycles of all the deities \* \* ++ she illumines the Lord Bhairava. All the Lords and Bhairavas adorn (her) body and ears. Emitting (the universe) because the moment of destruction is clearly manifest, she delights in the wonderful variety of (her) dance. 
 
-Having visualized her extensively in her own abode, she should be worshipped in (her) mandala. The goddesses should be worshipped in the same way. They should all be visualized in accord with (one’s) purpose (yathārtha). Present in each variety, she is Karaṅkiṇī, the one goddess of the gods. (65- 69ab) 
+Having visualized her extensively in her own abode, she should be worshipped in (her) mandala. The goddesses should be worshipped in the same way. They should all be visualized in accord with (one’s) purpose (yathārtha). Present in each variety, she is Karaṅkiṇī, the one goddess of the gods. (65-69ab) 
 
 The Worship of Karaṅkinī 
 
@@ -633,7 +633,7 @@ evaṁ prāpya mahābhāge kālikramavinirṇayam || 97 ॥
 6la kh) kenacic chubhapunyena janmanā paścimena tu |
 sadaivābhyasanīyari \[g: (?)\] hi abhyāsāt svagatir (> su-) bhavet || 98 ॥ 
 
-Success will come in six months by means of this practice, O goddess of the gods, wherever he may go, no doubt! O fair lady, what is the use of speaking much and prolixity of speech, there is nothing greater than this, I am telling you the truth. O greatly fortunate one, once one whose (karma) is auspicious and is in the last life has obtained the teaching concerning the Kālikākrama in this way, he should practice it regularly. By practice (his) condition will be good. (95cd- 98) 
+Success will come in six months by means of this practice, O goddess of the gods, wherever he may go, no doubt! O fair lady, what is the use of speaking much and prolixity of speech, there is nothing greater than this, I am telling you the truth. O greatly fortunate one, once one whose (karma) is auspicious and is in the last life has obtained the teaching concerning the Kālikākrama in this way, he should practice it regularly. By practice (his) condition will be good. (95cd-98) 
 
 73a) vācayā pūrvasiddhiś (> pūrnasiddhiṁ) ca sādhayaty \[g: sādhayety\] eva nānyathā |
 evar rahasyam \[g: raha + m\] ākhyātaṁi suguptaṁ kālikākramaṁi ॥ 99 ॥

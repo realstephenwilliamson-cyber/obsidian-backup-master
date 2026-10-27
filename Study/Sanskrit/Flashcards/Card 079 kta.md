@@ -17,6 +17,8 @@ nyasa: "ka: right shoulder (*skandha*) · ta: left hip (*kaṭi*)"
 
 **Card 79 of 108** (printed: Card 3-19 · Alpha 32) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** क्त

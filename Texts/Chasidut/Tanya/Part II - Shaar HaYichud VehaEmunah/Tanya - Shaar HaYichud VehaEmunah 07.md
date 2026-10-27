@@ -104,7 +104,7 @@ And each power and grade [of the life-force] can create beings according to its 
 [^30]: *Shabbat* [[Shabbat 97#97a|97a]]. Faith is a legacy from the Patriarchs and comes naturally to their children.
 [^31]: Hence it is contradictory to assert that He is absent from a place where His knowledge and providence function.
 [^32]: Fire, air, water, and dust, the basic elements of which all created things are composed.
-[^33]: *Zohar* III:225a.
+[^33]: *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-225a|III:225a]].
 [^34]: I.e., angels, who, according to Maimonides (*Moreh Nevuchim* 1, ch. 49) are incorporeal and occupy no space. They are distinguished one from the other only by the extent and level of their comprehension, and hence are called “intelligences.” Nachmanides in *Shaar HaGemul* (quoted in *Torah Or*, *Bereishit* 4b) holds that they do have bodily existence but their bodies are formed only of the spiritual elements of “fire” and “air.” They are “intelligences” in that despite their bodily existence, their conceptions are nonspatial and nontemporal, while man’s conceptions are circumscribed by the limitations of time and space. See *Torah Or*, ibid.; *Likkutei Torah*, *Shelach* 46a.
 [^35]: *Tikkunei Zohar*, [[Tikkunei Zohar 017a#^17a-10|Introduction]].
 [^36]: [[Psalms 139#^139-12|Psalms 139:12]].

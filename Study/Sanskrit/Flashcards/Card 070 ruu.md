@@ -17,6 +17,8 @@ nyasa: "ra: blood (*rakta*) · ū: left ear (*karṇa*)"
 
 **Card 70 of 108** (printed: Card 3-10 · Alpha 85) · consonant + vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** रू

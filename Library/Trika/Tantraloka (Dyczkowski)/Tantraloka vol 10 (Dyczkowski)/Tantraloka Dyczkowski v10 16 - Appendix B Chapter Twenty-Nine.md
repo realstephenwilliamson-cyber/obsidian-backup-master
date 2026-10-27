@@ -606,7 +606,7 @@ viśrāmaṁ yatra kurute sahasrāṇy ekavimśatiḥ |
 
 O fair lady, one should recollect in this way (that) perpetually manifest (and active) latent impression (Kaula adepts possess) if one desires the best for oneself. Women should be worshipped for (the attainment of) one’s own accomplishment. Having known the injunction in this way, she who destroys (time shines) in the centre.” (159-160ab) 
 
-The power of the Supreme Goddess who is (subtle) like a (fine) woollen fibre, present at the extremity within (the yogi who has projected the sacred sites on his body) is said to be Saṁkarṣiṇī. She operates on the (Time that) that is within the six seasons and merged within him. She consumes that Time, she who is devoid of merger and emergence. O beloved, it is where emergence and merger, that is, the pulse of exhalation (prāṇa) and inhalation (apāna) (are located) and where (She) brings them to rest, 21,000 (times a day). (160cd- 163ab) 
+The power of the Supreme Goddess who is (subtle) like a (fine) woollen fibre, present at the extremity within (the yogi who has projected the sacred sites on his body) is said to be Saṁkarṣiṇī. She operates on the (Time that) that is within the six seasons and merged within him. She consumes that Time, she who is devoid of merger and emergence. O beloved, it is where emergence and merger, that is, the pulse of exhalation (prāṇa) and inhalation (apāna) (are located) and where (She) brings them to rest, 21,000 (times a day). (160cd-163ab) 
 
 tar \[kh: ?\] kālaṁ grasate sā tu trimārgapathavyāpinam \[k, kh: -yāpinam, g: - yāyinari\] ॥ 163 ॥
 124a kh) tatrāntaragatā \[kh: tatrānteragatā\] sā tu bhāsārūpā manomayā (> manonmanā) |
@@ -872,7 +872,7 @@ O goddess, it should always be kept secret and should only be known by the adept
 
 *[p. 453]* ^pg470
 
-the congregation of Yoginīs takes place here. The knower of reality who knows (this) thus is one who belongs to the Kula tradition (kulāgamin). He who does not know the threefold worship of place (sthānapūjana) in this way is a fettered soul who wanders in many (creatures) born of bodies from birth to birth. (228- 232ab) 
+the congregation of Yoginīs takes place here. The knower of reality who knows (this) thus is one who belongs to the Kula tradition (kulāgamin). He who does not know the threefold worship of place (sthānapūjana) in this way is a fettered soul who wanders in many (creatures) born of bodies from birth to birth. (228-232ab) 
 
 ādau cādhyātmikari \[kh: vādhyātmike\] yogami aliphalgusubhojanam \[g: aliń-\] ॥ 232 ॥ svasatvittiprayogena \[kh g: -na\] sakrīdāpūjanaṁ \[k, kh, g: sakṛdā-\] yadi |
 kulakoṭyarbudair yukto vaset khecaramadhyagaḥ ॥ 233 ॥

@@ -43,7 +43,7 @@ Not so in the case of the nations’ sciences whereby he clothes and defiles the
 Unless he employs [these sciences] as a useful instrument, viz., as a means of a more affluent livelihood to be able to serve G–d or knows how to apply them in the service of G–d and His Torah. This is the reason why Maimonides and Nachmanides, of blessed memory, and their adherents engaged in them.
 
 [^1]: Mishnah, *Sanhedrin* 11:3; *Bamidbar Rabbah* 14:12, etc.
-[^2]: Cf. *Zohar* III:253a; 277a f.
+[^2]: Cf. *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-253a|III:253a]]; 277a f.
 [^3]: Ch. 7.
 [^4]: *Chibut hakever*. Cf. *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-151a|II:151a]], and especially R. Chaim Vital, end of *Sefer Hagilgulim*, and *Sefer Hakavanot*, p. 55b f.
 [^5]: Cf. [[I Samuel 25#^25-29|I Samuel 25:29]]: “And the soul of your enemies, He will sling it with the hollow of the sling,” eschatologically interpreted in *Shabbat* [[Shabbat 152#152b|152b]].

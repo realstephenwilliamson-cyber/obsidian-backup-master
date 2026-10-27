@@ -33,7 +33,7 @@ roddhrī dātrī ca mokṣasya tāṃ bhittvā cordhvakuṇḍalī || ^iast
 >
 > Above Suṣumnā is the enclosure named after the Cavity of Brahmā. Brahmā resides there, white in colour, three-eyed, holding a trident and five-faced, with the moon as his crest-jewel. The supreme goddess Brahmāṇī sits on his lap. Residing on the path to liberation, she (both) impedes and bestows it. (with 8.394–395abc)
 >
-> Penetrating (beyond) her, (one reaches) the power Kundalinī in her raised state (rdhvakundalī). Similar (in form) to a sleeping serpent, she is said to be the sustaining ground of all things (viśvādhāra). Within her (live) the powers, Sūkṣmā (Subtle), Susūkṣmā (Very Subtle), Amrtā (Immortal) and Amitā (Unlimited) and, in the centre, Vyapini (the Pervasive One). Within her is Vyāpīśa, her Lord. (with 8.395d–397ab)
+> Penetrating (beyond) her, (one reaches) the power Kuṇḍalinī in her raised state (ūrdhvakuṇḍalī). Similar (in form) to a sleeping serpent, she is said to be the sustaining ground of all things (viśvādhāra). Within her (live) the powers, Sūkṣmā (Subtle), Susūkṣmā (Very Subtle), Amṛtā (Immortal) and Amitā (Unlimited) and, in the centre, Vyāpinī (the Pervasive One). Within her is Vyāpīśa, her Lord. (with 8.395d–397ab)
 
 ## Viveka
 

@@ -943,7 +943,7 @@ vākyaṁ smarayatīva svaṁ svātmasabrahmacāri yat | 164 ॥
 
 Or else, (if you say) that the act of obscuration (of the light of consciousness) obscures only (its objectively knowable) objectivity, (that is not correct). The nature of a jar that is covered by a cloth, for example, does not change, (whereas, if it is explained in this way, the obscuration of light would entail a change in its nature). Nor is the Self objectified, for its nature is consciousness, (that can never become an object). That that (objectivity) is the obscuring covering of these (souls) is not appealing even in the words (with which it is stated to exist). (161-162) 
 
-Surely (one may object), these individual souls can be known (objectively) by the Lord. As its nature as consciousness has been obscured, how can (the soul), which is such, and nature consciousness, not be an object of knowledge? (We reply that) saying that consciousness is an object of knowledge (is like saying something that is as impossible as) “my mother is barren.” This kind of statement is like inducing one to recollect that one’s own Self is celibate (it does not give birth to anything) (?). (163- 164) 
+Surely (one may object), these individual souls can be known (objectively) by the Lord. As its nature as consciousness has been obscured, how can (the soul), which is such, and nature consciousness, not be an object of knowledge? (We reply that) saying that consciousness is an object of knowledge (is like saying something that is as impossible as) “my mother is barren.” This kind of statement is like inducing one to recollect that one’s own Self is celibate (it does not give birth to anything) (?). (163-164) 
 
 kir ceśvarasya sārvajñyaṁ tāvatā pratihanyate |
 Āāvṛtān vetti nāṇūn yan na tv eṣāmṁi kācana kṣatiḥ ॥ 165 ॥
@@ -961,7 +961,7 @@ Moreover, the Lord’s omniscience is destroyed in this way. He does not know th
 
 ### TĀ 9.71–73
 
-Tt is not so that in this way (Impurity) blocks the rays of vision in the course of their movement. It is not possible that the knower can have an obscuring covering, as a cloth (can be for a jar). It is clear that (if) Impurity, which is not pervasive, were to be the obscuring covering of the pervasive (perceiver), (then it would like) the space within a jar assuming (spontaneously), by its very nature, a condition that is not empty. (167- 168) 
+Tt is not so that in this way (Impurity) blocks the rays of vision in the course of their movement. It is not possible that the knower can have an obscuring covering, as a cloth (can be for a jar). It is clear that (if) Impurity, which is not pervasive, were to be the obscuring covering of the pervasive (perceiver), (then it would like) the space within a jar assuming (spontaneously), by its very nature, a condition that is not empty. (167-168) 
 
 #### Viveka on 9.71–73
 

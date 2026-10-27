@@ -17,6 +17,8 @@ nyasa: "la: flesh (*māṃsa*)"
 
 **Card 96 of 108** (printed: Card 3-36 · Alpha 89) · double consonant
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ल्ल

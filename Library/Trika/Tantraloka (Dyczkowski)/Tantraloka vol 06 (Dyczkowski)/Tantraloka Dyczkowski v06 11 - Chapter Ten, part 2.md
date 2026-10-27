@@ -74,7 +74,7 @@ A lamp illumines the form (rūpa) (of an object) by its very nature, and it is t
 
 pradīpaś caiṣa bhāvānām prakāśatvaṁ dadhāty” alam ॥ 54 ॥ anyathā na prakāśeran na bhede cedṛśo vidhiḥ | 
 
-Again, the lamp gives sufficient light to the things (it illumines); otherwise, they would not shine. (However,) the same applies (to cognition only) if it is there is no difference (bheda) (between it and the object). (54cd- 55ab) 
+Again, the lamp gives sufficient light to the things (it illumines); otherwise, they would not shine. (However,) the same applies (to cognition only) if it is there is no difference (bheda) (between it and the object). (54cd-55ab) 
 
 #### Viveka on 10.54–55
 
@@ -544,7 +544,7 @@ vedyatā bhāsamānā ca svayaṁ nīlādidharmavat || 75 ॥
 
 aprakāśā svaprakāśād dharmād eti prakāśatām | 
 
-(This objection does not affect us at all. The truth is) that perceptibility (vedyatā), like other qualities, such as blue and the like, is unmanifest (aprakāśa) in itself (svayam), (but) manifests (‘shines’) by virtue of that quality of self-luminosity (that is the inherent nature of perceptibility, which is not perceptible in the manner of an object). (75cd- 76ab) 
+(This objection does not affect us at all. The truth is) that perceptibility (vedyatā), like other qualities, such as blue and the like, is unmanifest (aprakāśa) in itself (svayam), (but) manifests (‘shines’) by virtue of that quality of self-luminosity (that is the inherent nature of perceptibility, which is not perceptible in the manner of an object). (75cd-76ab) 
 
 #### Viveka on 10.75–76
 
@@ -1014,7 +1014,7 @@ Fully Conditioned (sakala) Subjects
 evar pañcadaśātmeyaṁ dharā tadvaj jalādayaḥ || 97 |
 avyaktāntā yato ‘sty \[illegible\] sakalar prati vedyatā | 
 
-In this way, the Earth (principle) has fifteen aspects, as do those (principles) from Water to Unmanifest Nature, insofar as they are perceptible (vedyatā) to the Fully Conditioned (sakala) (subjects)." (97cd- 98ab) 
+In this way, the Earth (principle) has fifteen aspects, as do those (principles) from Water to Unmanifest Nature, insofar as they are perceptible (vedyatā) to the Fully Conditioned (sakala) (subjects)." (97cd-98ab) 
 
 #### Viveka on 10.97–98
 
@@ -1042,7 +1042,7 @@ So how is it that it is said (here that its) subjectivity extends (only) up to U
 yat tūcyate kalādyena dharāntena samanvitāḥ || 98 ||
 sakalā iti tatkośaṣatkodrekopalakṣanam | 
 
-It is said (in the Mālinīvijayottara) that the Fully Conditioned (sakala) (subjects) possess (the principles) ranging from the Force (of limited agency) up to Earth. (But this is only) a secondary characterization (of these perceivers, which serves to) indicate that, (in their case, all) six coverings (kośa, i.e. kañcuka) have emerged (and are functioning). (98cd- 99ab) 
+It is said (in the Mālinīvijayottara) that the Fully Conditioned (sakala) (subjects) possess (the principles) ranging from the Force (of limited agency) up to Earth. (But this is only) a secondary characterization (of these perceivers, which serves to) indicate that, (in their case, all) six coverings (kośa, i.e. kañcuka) have emerged (and are functioning). (98cd-99ab) 
 
 #### Viveka on 10.98–99
 

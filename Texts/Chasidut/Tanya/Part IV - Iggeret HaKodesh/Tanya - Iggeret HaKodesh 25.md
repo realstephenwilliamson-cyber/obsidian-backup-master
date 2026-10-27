@@ -130,7 +130,7 @@ You have now seen an explanation of a single passage from the well known books a
 [^28]: (Emended according to *Kitzurim V’Hearot*, p. 40, and L. H.).—[[Torah 01 - Bereshit#^2-7|Genesis 2:7]]; see above, Epistle 12, note 48.
 [^29]: Brackets appear in the text.
 [^30]: See above, Epistle 15, note 24.
-[^31]: See *Zohar* III:232a; ibid., 306b. Cf. *Shemot Rabbah* 3:15 and comment. by R. David Luria, ad loc.; *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-7a|III:7a]] and [[Zohar 9.12 - Parashat Va-Ethannan#^z3-265a|265a]].
+[^31]: See *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-232a|III:232a]]; ibid., 306b. Cf. *Shemot Rabbah* 3:15 and comment. by R. David Luria, ad loc.; *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-7a|III:7a]] and [[Zohar 9.12 - Parashat Va-Ethannan#^z3-265a|265a]].
 [^32]: I.e., Moses was but a passive tool for the speech of the *Shechinah*, as if he himself did not exist as a separate entity. Cf. *Likkutei Amarim*, Part I, ch. 34.
 [^33]: Brackets appear in the text.
 [^34]: L. H. substitutes nations for this and all subsequent instances of heathens.

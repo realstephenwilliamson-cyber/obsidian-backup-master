@@ -30,7 +30,7 @@ dehātīte'pi viśrāntyā saṃvitteḥ kalpanāvaśāt || ^iast
 > [!source] Dyczkowski, vol. IX
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#^pg72|p. 52]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=72>))
 >
-> Moreover, it is said in the Trisirastantra: ‘Just as there is a (vertical) space twelve fingers high (ufthāna) at the base of one’s own (body), in the same way also, there is one the same size beyond the body. O fair lady, the body extends a span of eighty-four fingers from the feet up to the end of the head. (Beyond that, it extends) up to (the End of the Twelve, which is) the plane of Unstruck Sound (anāhata).’ (with 16.110cd–112ab)
+> Moreover, it is said in the Triśirastantra: ‘Just as there is a (vertical) space twelve fingers high (utthāna) at the base of one’s own (body), in the same way also, there is one the same size beyond the body. O fair lady, the body extends a span of eighty-four fingers from the feet up to the end of the head. (Beyond that, it extends) up to (the End of the Twelve, which is) the plane of Unstruck Sound (anāhata).’ (with 16.110cd–112ab)
 >
 > As consciousness rests beyond the body also, it is imagined to be (part of) the body. That is why there can be an extension of twelve fingers (above it). In order to teach (nirṇetum) this, it is said that (the measure) here is of one hundred and eight (fingers). (with 16.112cd–113)
 

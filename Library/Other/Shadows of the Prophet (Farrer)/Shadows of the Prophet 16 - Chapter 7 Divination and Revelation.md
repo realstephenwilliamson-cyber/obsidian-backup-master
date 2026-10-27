@@ -4,7 +4,7 @@ work: "[[Farrer - Shadows of the Prophet]]"
 book: "[[Library/Other/Shadows of the Prophet (Farrer)/Shadows of the Prophet (Farrer)|Shadows of the Prophet (Farrer)]]"
 order: 16
 source_pdf: Library/Other/Farrer - Shadows of the Prophet (2009).pdf
-page_range: 231–250
+page_range: 225–250
 pdf_pages: 231–256
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[Shadows of the Prophet 15 - Chapter 6 Social and Aesthetic Drama|← previous]] · [[Shadows of the Prophet (Farrer)|contents]] · [[Shadows of the Prophet 17 - Chapter 8 Deathscapes of the Malay Martial Artist|next →]]
 
-*[PDF 231]* ^pg231
+*[p. 225]* ^pg231
 
 ## Chapter 7
 Divination and Revelation

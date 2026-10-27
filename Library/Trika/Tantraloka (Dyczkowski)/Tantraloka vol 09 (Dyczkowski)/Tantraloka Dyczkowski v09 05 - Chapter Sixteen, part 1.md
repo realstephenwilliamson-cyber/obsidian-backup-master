@@ -966,7 +966,7 @@ It is said in the Ānandaśāstra: ‘Whoever has been purified by Mantra, aband
 
 *[p. 32]* ^pg52
 
-having (returned to the) human condition, even if he does the same again, reborn from one to seven times in this way, he becomes a sacrificial animal. Of two kinds, biped“ or quadruped, (he is born) in order to serve as the sacrificial pap (caruka) of the goddess.[^61] Offered by the donor, this (animal) in this way attains Śiva by being conjoined (to Him) (sāyujyataḥ).[^62] (65- 68ab) 
+having (returned to the) human condition, even if he does the same again, reborn from one to seven times in this way, he becomes a sacrificial animal. Of two kinds, biped“ or quadruped, (he is born) in order to serve as the sacrificial pap (caruka) of the goddess.[^61] Offered by the donor, this (animal) in this way attains Śiva by being conjoined (to Him) (sāyujyataḥ).[^62] (65-68ab) 
 
 #### Viveka on 16.65–68
 
@@ -1281,7 +1281,7 @@ anusaṁhitaye śiṣyavarjaṁ pañcasu taṁ yajet ॥ 88 ॥
 
 “Just as I am the one subject who unifies (all) the diverse products (kārya) (of consciousness), forms and assembly of the senses (indriyacakra), in the same way, I am clearly manifest (sphuṭa) in six ways (rūpa) as the fire and the rest.” 
 
-Thus viewing (himself) in this way, (the teacher) should worship (amongst the six Paths) the Path by which he intends to perform the initiation, into (these) five (experiences of oneness), with the exception (of the body of) the disciple,” in order to bring about (their) unification. ” (87- 88) 
+Thus viewing (himself) in this way, (the teacher) should worship (amongst the six Paths) the Path by which he intends to perform the initiation, into (these) five (experiences of oneness), with the exception (of the body of) the disciple,” in order to bring about (their) unification. ” (87-88) 
 
 #### Viveka on 16.87–88
 
@@ -1378,7 +1378,7 @@ yathāyogolako yāti gurur evan śivātmatām |
 
 *[p. 44]* ^pg64
 
-Just as a ball of iron (worked by a blacksmith gradually) assumes a fiery (incandescent) state by a series (of successive actions) such as heating, beating and sprinkling it (with water to then heat it again and so on), in the same way the teacher (gradually) attains the state of Śiva’s nature. (93cd- 94ab) 
+Just as a ball of iron (worked by a blacksmith gradually) assumes a fiery (incandescent) state by a series (of successive actions) such as heating, beating and sprinkling it (with water to then heat it again and so on), in the same way the teacher (gradually) attains the state of Śiva’s nature. (93cd-94ab) 
 
 ### TĀ 16.94–96
 

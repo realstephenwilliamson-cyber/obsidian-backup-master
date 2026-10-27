@@ -63,7 +63,7 @@ saṁghaṭṭānandaviśrāntyā yugmam itthańn prapūjayet ॥ 49 ॥
 mahāprakāśarūpāyāḥ sańivido visphuliṁgavat |
 yo raśmyoghas tam evātra pūjayed devatāgaṇam ॥ 50 ॥ 
 
-Śakti, swollen (with passion) (ucchūnā), flows forth, and Bhairava pours out with enthusiasm (to unite with her) — one should worship the couple in this way by resting in the bliss of (their) union. A stream of rays emerges like sparks from (their united) consciousness, which is the Great Light. That is the host of (attendant) deities one should worship here. (49- 50) 
+Śakti, swollen (with passion) (ucchūnā), flows forth, and Bhairava pours out with enthusiasm (to unite with her) — one should worship the couple in this way by resting in the bliss of (their) union. A stream of rays emerges like sparks from (their united) consciousness, which is the Great Light. That is the host of (attendant) deities one should worship here. (49-50) 
 
 #### Viveka on 29.49–50
 
@@ -699,7 +699,7 @@ He says that:
 hṛt kundalī bhruvor madhyam etad eva kramāt trayam ॥ 71 ॥
 Smaśānādi druman kṣetrabhavari sadyoginīgaṇnam | 
 
-(One should worship) this triad in due order, (namely) the Heart, Kundali, and the centre between the eyebrows. (It corresponds to the three) beginning with the cremation ground, (the wish-granting) tree and the host of true (and good) Yoginīs, that has arisen from the (sacred) site. (71cd- 72ab) 
+(One should worship) this triad in due order, (namely) the Heart, Kundali, and the centre between the eyebrows. (It corresponds to the three) beginning with the cremation ground, (the wish-granting) tree and the host of true (and good) Yoginīs, that has arisen from the (sacred) site. (71cd-72ab) 
 
 #### Viveka on 29.71–72
 
@@ -740,7 +740,7 @@ srībhairava uvāca Smaśānaṁ hṛtpradeśaṁ tu kalpavṛkṣaṁ tu kundal
 yoginyaḥ kṣetraṁ \[kh g: kṣetra\] bhrūmadhye jñātavyaṁ yoginīkule \\ īdṛśaṁ tu mahādevi kulapūjātra vai priye \\ 211 ॥
 180a g) siddhyate tatkṣaṇād \[g: tatkṣanā\] devi yadi cāsti mukhāgamam | 
 
-One should know that according to the Yoginīkula, the cremation ground is the place of the Heart, the wish-granting tree, Kundali, and the field of the Yoginīs is the centre between the eyebrows. O Great Goddess, such, O beloved, is Kula worship here. It is successful in that very moment, O goddess, if there is an oral tradition (to explain the practice). (210cd- 212ab) 
+One should know that according to the Yoginīkula, the cremation ground is the place of the Heart, the wish-granting tree, Kundali, and the field of the Yoginīs is the centre between the eyebrows. O Great Goddess, such, O beloved, is Kula worship here. It is successful in that very moment, O goddess, if there is an oral tradition (to explain the practice). (210cd-212ab) 
 
 srīdevyuvāca \[g: śrīdevyāvāca\] 126a kh) mā gopayasva me deva kramahīnaṁ na siddhyati ॥ 212 ॥
 khandajñānaṁ bhavet sarvaṁ khandacakraṁ na muktibhāk |

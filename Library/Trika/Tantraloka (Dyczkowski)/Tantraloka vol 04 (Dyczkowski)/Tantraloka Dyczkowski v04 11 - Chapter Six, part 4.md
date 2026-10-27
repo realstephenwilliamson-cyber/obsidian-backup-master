@@ -30,7 +30,7 @@ He says that:
 \[illegible\] \[illegible\] yadā tv ardhaṁ līnaṁ prātipade dale ॥ 106 ॥
 pratipac ca viśuddhā syāt tanmokṣo dūrage vidhau | 
 
-When the half (moment) of the New Moon (amāvasyā) dissolves into the half of the first lunar day, the first lunar day is pure (and the Sun is freed at the end of an eclipse), when the Moon has moved away.” (106cd- 107ab) (106) 
+When the half (moment) of the New Moon (amāvasyā) dissolves into the half of the first lunar day, the first lunar day is pure (and the Sun is freed at the end of an eclipse), when the Moon has moved away.” (106cd-107ab) (106) 
 
 #### Viveka on 6.106
 
@@ -340,7 +340,7 @@ makarādīni tenātra kriyā sūte sadṛk phalam |
 
 (Exhalation): The signs of Capricorn and the rest are, respectively, 1) impregnation (and pregnancy) (garbhatā) (Capricorn), 2) the (initial) state of the impulse to birth (prodbubhūṣiṣyadbhāva) (Aquarius), 3) the state of desire to be born (udbubhūṣutā) (Pisces), 4) incipient birth (udbhaviṣyattva) (proximity to future birth) (Aries), 5) the commencement of birth (udbhūtiprārambha) (Taurus), and 6) the stable state of (incipient) emergence (udbhavasthiti) (Gemini). 
 
-(Inhalation): 7) Birth (janma) (Cancer), 8) existence (sattā) (Leo), 9) development (pariṇati) (Virgo), 10) maturity (vṛddhi) (Libra), 11) decrease (hrāsa) (Scorpio), and 12) destruction (kṣaya) (Sagittarius). The (spiritual) action (performed) there (with mindfulness of this process) thus generates the fruit corresponding to their nature.” (117cd-119ab) (117- 118) 
+(Inhalation): 7) Birth (janma) (Cancer), 8) existence (sattā) (Leo), 9) development (pariṇati) (Virgo), 10) maturity (vṛddhi) (Libra), 11) decrease (hrāsa) (Scorpio), and 12) destruction (kṣaya) (Sagittarius). The (spiritual) action (performed) there (with mindfulness of this process) thus generates the fruit corresponding to their nature.” (117cd-119ab) (117-118) 
 
 #### Viveka on 6.117–118
 
@@ -724,7 +724,7 @@ prāṇasakhyāri vadet tatra ṣaṣtyādyabdodayari punaḥ ॥ 134 ॥
 
 *[p. 360]* ^pg375
 
-Dividing that (year) by twelve, one gets the measure of a (divine) month. Then, dividing that by thirty, one gets a (divine) day and a night. Dividing that by 21,600, we get the measure of a (divine) breath. The various cycles of sixty years and the rest arise there also. 133-134 (132cd- 134ab) 
+Dividing that (year) by twelve, one gets the measure of a (divine) month. Then, dividing that by thirty, one gets a (divine) day and a night. Dividing that by 21,600, we get the measure of a (divine) breath. The various cycles of sixty years and the rest arise there also. 133-134 (132cd-134ab) 
 
 #### Viveka on 6.132–134
 
@@ -1198,7 +1198,7 @@ taddinaprakṣaye \[illegible\] \[illegible\] \[illegible\] pravilīyate || 155 
 kṣīṇāyāṁ niśi tāvatyāṁ gahaneśaḥ sṛjet punaḥ |
 evam avyaktakālaīi tu parārdhair daśabhir jahi ॥ 156 ॥ māyāhas tāvatī rātrir bhavet pralaya eṣa saḥ | 
 
-At the end of his Day, the universe dissolves into Māyā, and at the end of the Night, which is the same length (as the day), Gahaneśa creates it again. To obtain the length of a day of Māyā, multiply the duration of (a Day of) Unmanifest (Nature) (prakṛti) by ten times a trillion (parārdha).\* Such also is its Night, which is (the period of) dissolution (pralaya). (155cd- 157ab) (155-156) 
+At the end of his Day, the universe dissolves into Māyā, and at the end of the Night, which is the same length (as the day), Gahaneśa creates it again. To obtain the length of a day of Māyā, multiply the duration of (a Day of) Unmanifest (Nature) (prakṛti) by ten times a trillion (parārdha).\* Such also is its Night, which is (the period of) dissolution (pralaya). (155cd-157ab) (155-156) 
 
 #### Viveka on 6.155–156
 

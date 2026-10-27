@@ -17,6 +17,8 @@ nyasa: "bha: belly (*jaṭhara*) · ū: left ear (*karṇa*)"
 
 **Card 69 of 108** (printed: Card 3-9 · Alpha 79) · consonant + vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** भू

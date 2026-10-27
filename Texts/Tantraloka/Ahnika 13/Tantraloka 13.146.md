@@ -27,7 +27,7 @@ yatprātibhādvā sarvaṃ cetyūce śeṣamahāmuniḥ || ^iast
 > [!source] Dyczkowski, vol. VII
 > [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#^pg236|p. 214]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf#page=236>))
 >
-> What indeed does such knowled; gel born of intuition, not achieve for anybody in this way? As the great sage i.e. Patañjali) has said: ‘or else (the Yogi discerns) all by (the power of) intuition (pratibhā).’
+> What indeed does such knowledge, born of intuition, not achieve for anybody in this way? As the great sage Śeṣa (i.e. Patañjali) has said: ‘or else (the Yogi discerns) all by (the power of) intuition (pratibhā).’
 
 ## Viveka
 

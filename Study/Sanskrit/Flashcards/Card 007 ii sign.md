@@ -17,6 +17,8 @@ nyasa: "left eye (*dṛk*), as ī"
 
 **Card 7 of 108** (printed: Card 1-7 · Alpha 9) · vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ◌ी

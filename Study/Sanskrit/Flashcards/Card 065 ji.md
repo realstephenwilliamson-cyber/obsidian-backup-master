@@ -17,6 +17,8 @@ nyasa: "ja: left hand (*kara*) · i: right eye (*dṛk*)"
 
 **Card 65 of 108** (printed: Card 3-5 · Alpha 44) · consonant + vowel
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** जि

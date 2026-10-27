@@ -29,7 +29,7 @@ yaduktaṃ parameśena śrīmadānandagahvare || ^iast
 >
 > There is another (form of) obscuration, namely, the transgression of the (initiate’s) pledges (samaya). (with 14.18ab)
 >
-> A As the Supreme Lord has said in the venerable Anandagahvaratantra: ‘O goddess, by transgressing the pledges one becomes a carnivorous demon for one hundred years.’ (with 14.18cd–19ab)
+> As the Supreme Lord has said in the venerable Ānandagahvaratantra: ‘O goddess, by transgressing the pledges one becomes a carnivorous demon for one hundred years.’ (with 14.18cd–19ab)
 
 ## Viveka
 

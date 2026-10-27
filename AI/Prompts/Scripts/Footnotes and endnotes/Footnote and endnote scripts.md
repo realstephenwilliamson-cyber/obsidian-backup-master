@@ -1,6 +1,6 @@
 ---
 type: prompt
-updated: 2026-10-18
+updated: 2026-10-26
 ---
 # Footnote and endnote scripts
 
@@ -14,6 +14,7 @@ Three tested ways of giving a converted book its footnotes or endnotes, from 15 
 - **Text-only notes** (`rastogi/`, 18 Oct 2026): for a book whose notes are partly images (Rastogi's Devanagari quotations): only notes that are wholly text in the layer, not followed by an image and not running on, become footnotes (108). Read `REPORT-rastogi.txt`.
 - **Section notes from the text layer** (`dhvanyaloka/`, 18 Oct 2026): for a book whose notes follow each block of text and restart at 1 (the Dhvanyāloka's K/A/L blocks: 886 footnotes). Blocks, note labels and call digits come from the ABBYY layer; a footnote is written only where the call's digits and the note's own number at both ends are read. Quote marks next to a call are never removed there: neither OCR tells them from a misread number. Read `REPORT-dhvanyaloka.txt`.
 - **Endnote calls read from the page images** (`deshpande/`, 18 Oct 2026): for a low-resolution scan where neither OCR has the raised numbers (Deshpande's *Abhinavagupta*: 81 calls linked to the appendix). Subagents read the numbers from zoomed bands of every page; the script checks each chapter's sequence, finds the words before each call in the note, and links it to a block id on the endnote, placed from the PDF layer's labels. Read `REPORT-deshpande.txt`.
+- **Footnotes placed by page readers** (`kubjika/`, 26 Oct 2026): for a fresh OCR whose calls and note numbers came out as stray marks or not at all, with notes that run over page breaks (Dyczkowski, *Kubjikā, Kālī, Tripurā and Trika*: 162 footnotes). Readers (agents) go through every page image and write an op list (`reader-brief.txt` says how); `apply_ops.py` applies it, joins carried-over notes to their footnote, and checks one call and one definition per number. A third reader placed a sample blind.
 - **Link endnote calls to their endnotes** (`endnotes/`): for books whose notes are endnotes in a Notes section (Ricoeur, *Politics, Economy, and Society*: 123; Stiegler, *Nanjing Lectures*: 452). Each endnote paragraph gets a block id, each call becomes a link with the superscript digits as its label. Read `REPORT-endnotes.txt`.
 
 **Checks every time:** page-marker lines identical and in order (each followed by a blank line, so its `^pg` id registers); headings and frontmatter unchanged apart from `text_source`; the words of each note unchanged once links, footnote markers and removed OCR digits are set aside; every `[^n]` paired with exactly one `[^n]:`; no link inside frontmatter; look at five or six pages against the page images, including the pages the scripts found hardest, **before** applying (since 18 Oct: the definitions' text against the printed notes, not only where the references sit); every paragraph without a footnote is an original paragraph or a piece of one (`torzsok/layoutcheck.py`).

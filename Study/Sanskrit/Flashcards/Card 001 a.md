@@ -17,6 +17,8 @@ nyasa: "forehead (*lalāṭa*)"
 
 **Card 1 of 108** (printed: Card 1-1 · Alpha 1) · vowel · the letter: [[Letter 01 a|अ a]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** अ

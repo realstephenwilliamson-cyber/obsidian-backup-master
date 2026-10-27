@@ -87,7 +87,7 @@ In the same way, he applies another term (to denote this state) as the field (of
 vedyasattāri bahirbhūtām anapekṣyaiva sarvataḥ || 255 ॥
 vedye svātantryabhāg \[illegible\] svapnaṁ vyāptitayā bhajet | 
 
-Dreaming is (a type of conceptual) cognitive consciousness \[illegible\] which, with respect to the object of knowledge, is creatively free. Independent in every way of external objectivity (vedyasattā), (for the men of knowledge,) it abides as the state (termed) ‘Pervasion’ (vyāpti). (255cd- 256ab) 
+Dreaming is (a type of conceptual) cognitive consciousness \[illegible\] which, with respect to the object of knowledge, is creatively free. Independent in every way of external objectivity (vedyasattā), (for the men of knowledge,) it abides as the state (termed) ‘Pervasion’ (vyāpti). (255cd-256ab) 
 
 #### Viveka on 10.255–256
 
@@ -470,7 +470,7 @@ Surely (one may ask), as they are mixed together with one another within that (s
 naitasyām aparā turyadaśā sambhāvyate kila ॥ 275 ||
 saṁvin na kila vedyā sā vittvenaiva hi bhāsate | 
 
-No second Fourth state (i.e. Fourth-fourth) is possible in this (state). Consciousness (saṁvid) is not objectively perceptible (vedyā). It only manifests as the conscious sentience (vittva) (of the perceiver). (275cd- 276ab) 
+No second Fourth state (i.e. Fourth-fourth) is possible in this (state). Consciousness (saṁvid) is not objectively perceptible (vedyā). It only manifests as the conscious sentience (vittva) (of the perceiver). (275cd-276ab) 
 
 #### Viveka on 10.275–276
 
@@ -589,7 +589,7 @@ tannirāsāya \[illegible\] \[illegible\] bheda ukto viśeṣanam |
 
 *[p. 475]* ^pg494
 
-There can be no question of any divisions within it, because it is perfectly complete (pārṇpa). Thus, in order to refute (this possibility, the Maālinīvijaya) does not mention any specific division within it. (281cd- 282ab) 
+There can be no question of any divisions within it, because it is perfectly complete (pārṇpa). Thus, in order to refute (this possibility, the Maālinīvijaya) does not mention any specific division within it. (281cd-282ab) 
 
 #### Viveka on 10.281–282
 
@@ -844,7 +844,7 @@ turyātītapade saṁsyur iti pañcadaśātmake |
 
 (sahiṣnu) 
 
-inward entry into Bhairava’s consciousness,” (gradually) lose their own individual essence and, in themselves undivided, become established on the plane Beyond the Fourth State. (Such is the correspondence between the five states) when the divisions are fifteen. (292- 294ab) 
+inward entry into Bhairava’s consciousness,” (gradually) lose their own individual essence and, in themselves undivided, become established on the plane Beyond the Fourth State. (Such is the correspondence between the five states) when the divisions are fifteen. (292-294ab) 
 
 #### Viveka on 10.292–294
 

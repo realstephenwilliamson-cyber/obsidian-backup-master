@@ -149,7 +149,7 @@ dimbāhatasya yogeśībhakṣitasyābhicārataḥ |
 mṛtasya gurunā yantratantrādinihatasya vā || 8 ||
 bhraṣṭasvasamayasyātha dīkṣāṁ prāptavato ‘py alam | 
 
-(The teacher should impart the initiation, that rescues the dead (from lower worlds) (mṛtoddhārī dīkṣā) and bestows Śiva, (to the following)): 1) one whose body is consumed by serving the teacher (but) has died without getting initiation; 2) one in whom has arisen such a desire (for initiation) at the moment of death; 3) one who has (received) the purifying (empowerment) (saṁskāra) of an initiation into inferior scriptures (tantra) etc; 4) one who has obtained (the initiation) of a (common) regular initiate but no initiation beyond it; 5) one who has died in a riot; 6) one who has been devoured by witches \[illegible\] 7) one who has been killed by powerful (guruṇā) magic or by means of magic diagrams and rites (yantratantra) or the like, or (finally), 8) (an initiate) who although he has received a complete (alam) initiation has fallen from (the observance of) his Rule. (6- 9ab) 
+(The teacher should impart the initiation, that rescues the dead (from lower worlds) (mṛtoddhārī dīkṣā) and bestows Śiva, (to the following)): 1) one whose body is consumed by serving the teacher (but) has died without getting initiation; 2) one in whom has arisen such a desire (for initiation) at the moment of death; 3) one who has (received) the purifying (empowerment) (saṁskāra) of an initiation into inferior scriptures (tantra) etc; 4) one who has obtained (the initiation) of a (common) regular initiate but no initiation beyond it; 5) one who has died in a riot; 6) one who has been devoured by witches \[illegible\] 7) one who has been killed by powerful (guruṇā) magic or by means of magic diagrams and rites (yantratantra) or the like, or (finally), 8) (an initiate) who although he has received a complete (alam) initiation has fallen from (the observance of) his Rule. (6-9ab) 
 
 #### Viveka on 21.6–9
 
@@ -999,7 +999,7 @@ Or else, if the teacher (feels that he is) not properly (and fully inspired and)
 
 *[p. 275]* ^pg295
 
-perform the initiation for (his disciple), free of (all) doubts once he has purified (himself) with rites of reparation (prāyaścitta), the offering of gifts (dāna) and practiced (various forms of) breath control (prānāyāma). (57cd- 58) 
+perform the initiation for (his disciple), free of (all) doubts once he has purified (himself) with rites of reparation (prāyaścitta), the offering of gifts (dāna) and practiced (various forms of) breath control (prānāyāma). (57cd-58) 
 
 #### Viveka on 21.57–58
 

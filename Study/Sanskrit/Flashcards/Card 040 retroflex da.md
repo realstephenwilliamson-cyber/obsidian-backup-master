@@ -17,6 +17,8 @@ nyasa: "right foot (*pāda*)"
 
 **Card 40 of 108** (printed: Card 2-13 · Alpha 52) · consonant · the letter: [[Letter 29 retroflex da|ड ḍa]]
 
+`BUTTON[sr-note, sr-cram]`
+
 ## Front
 
 - **Glyph:** ड

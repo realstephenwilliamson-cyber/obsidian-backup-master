@@ -429,7 +429,7 @@ sphuraty antargatā \[all: -gato\] ghūrmir \[illegible\] \[all: ghrrmmira-\] sp
 
 Kaulinī is that certain (inscrutable one) who delights in the bliss of consciousness shining vibrantly within the inner Void, which is the expansion (vikāsa) of the supreme outpouring of that essential nature. (15) 
 
-As the energy of Kaula Kaṁkāla, She voraciously consumes (grāsaghasmara). Kālī is the energy of the Sun (bhānavī) consisting of the twelve risen (suns). Terrible, she manifests Time (kālāñjanī). (16) (203cd- 205ab) 
+As the energy of Kaula Kaṁkāla, She voraciously consumes (grāsaghasmara). Kālī is the energy of the Sun (bhānavī) consisting of the twelve risen (suns). Terrible, she manifests Time (kālāñjanī). (16) (203cd-205ab) 
 
 Both process (krama) and its absence (akrama), it is the supreme Krama, it is the Kālikākrama, which is (the enlightening) transmission (saṁkrāma). It shines radiantly as the inner pulse of inebriation (ghūrmi), the supreme and inexplicable (anākhya) vibration (spanda) (of consciousness). (17) (205cd-206ab) 
 

@@ -840,7 +840,7 @@ etad
 
 dhāmatrayādhiṣthātṛdevatātrayahi nirūpayati tadadhiṣthātr-viśvāntar-bhāvam atra prakaṭayitum ---- 
 
-‘Place the Circle of the Path of the Sun on the leaves and conjoin the Moon to the stamens. O goddess, place the Circle of Fire in the calyx. (72cd- 73ab) 
+‘Place the Circle of the Path of the Sun on the leaves and conjoin the Moon to the stamens. O goddess, place the Circle of Fire in the calyx. (72cd-73ab) 
 
 Here the Moon, which is the object of knowledge, is in between the subject and means of knowledge that are Fire and the Sun (respectively). There is no light of objectivity of any kind without the screen of the light of the subject (onto which it is projected) and the pervasive presence of the light of the means of knowledge. It is the perceiver alone, who is the condensed state of the aesthetic savour of consciousness, that illumines the object of knowledge. That which is made manifest (‘illumined’) is pervaded by the light of the means of knowledge. Now enough of excessive (talk). (This) will be (taught) extensively (later) in the chapter devoted to emanation and withdrawal. The three presiding deities of these three abodes is (now going to be) described. (The following) is said in order to elucidate the universal inner state of the presiding (deities) of that (triple abode): 
 
@@ -890,7 +890,7 @@ O fair-faced one, place him, the destroyer of great sins, in the calix (of the l
 
 Above it: 
 
-‘After that, place the Great Ghost, sentient and laughing (on the lotus). He is red, beautifully powerful (sutejaska) and adorned with three eyes.’ (81cd- 82ab) 
+‘After that, place the Great Ghost, sentient and laughing (on the lotus). He is red, beautifully powerful (sutejaska) and adorned with three eyes.’ (81cd-82ab) 
 
 prakarṣeṇa 
 
@@ -1706,7 +1706,7 @@ He should then add the Vidyāmūrti by means of the (following) Mantra. The grea
 
 *[p. 410]* ^pg428
 
-(Śaktibindu). O goddess, this most excellent pinda (mantra) is taught (in the scriptures) (śruta) as the Ninefold One (i.e., Navātman). This, the producer of all accomplishments, has been mentioned (here) secretly (sarahasyam). (21- 24ab) 
+(Śaktibindu). O goddess, this most excellent pinda (mantra) is taught (in the scriptures) (śruta) as the Ninefold One (i.e., Navātman). This, the producer of all accomplishments, has been mentioned (here) secretly (sarahasyam). (21-24ab) 
 
 एष त्यर्णोज्डितोऽधस्तादीरधः षड्भिः स्वरर्युतः ॥ २४ ||
 षडद्गानि हदादीनि जातिभेदेन कल्पयेत् ।

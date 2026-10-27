@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Deleuze, Guattari - A Thousand Plateaus]]"
 book: "[[Library/Philosophy/A Thousand Plateaus (Deleuze, Guattari)/A Thousand Plateaus (Deleuze, Guattari)|A Thousand Plateaus (Deleuze, Guattari)]]"
 order: 5
 source_pdf: "Library/Philosophy/Deleuze, Guattari - A Thousand Plateaus (1987).pdf"
-page_range: "3–25"
+page_range: "1–25"
 pdf_pages: "22–46"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-26
@@ -12,11 +12,11 @@ converted: 2026-10-26
 
 [[A Thousand Plateaus 04 - Authors' Note|← previous]] · [[A Thousand Plateaus (Deleuze, Guattari)|contents]] · [[A Thousand Plateaus 06 - 2. 1914 One or Several Wolves|next →]]
 
-*[PDF 22]* ^pg22
+*[p. 1]* ^pg22
 
 A Thousand Plateaus 
 
-*[PDF 23]* ^pg23
+*[p. 2]* ^pg23
 
 *This page intentionally left blank* 
 

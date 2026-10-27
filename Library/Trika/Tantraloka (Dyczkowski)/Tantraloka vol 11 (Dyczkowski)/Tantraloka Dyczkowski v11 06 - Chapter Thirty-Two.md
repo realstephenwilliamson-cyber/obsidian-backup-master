@@ -40,13 +40,13 @@ Definition of Mudrā
 mudrā ca pratibimbātmā śrīmaddevyākhyayāmale |
 uktā bimbodayaśrutyā vācyadvayavivecanāt || 1 || 
 
-Mudrā' (is a seal; as such, it) is said in the venerable Devyāyāmala that it is essentially a reflection (pratibimba) (of the original form of the seal). This is because two meanings can be discerned by the expression in the scriptures (concerning the nature of Mudrā, namely that it is) 1) ‘the arising of (and 2) from) the original form’ (bimbodaya) (of reflected consciousness).? (1) 
+Mudrā[^364] (is a seal; as such, it) is said in the venerable Devyāyāmala that it is essentially a reflection (pratibimba) (of the original form of the seal). This is because two meanings can be discerned by the expression in the scriptures (concerning the nature of Mudrā, namely that it is) 1) ‘the arising of (and 2) from) the original form’ (bimbodaya) (of reflected consciousness).[^365] (1) 
 
 #### Viveka on 32.1
 
-364?\. In common parlance, a mudrā is a seal. As in English, a seal can mean both the stamp which makes the impression and the actual impression itself.
+[^364]: In common parlance, a mudrā is a seal. As in English, a seal can mean both the stamp which makes the impression and the actual impression itself.
 
-365?\. The word bimba denotes the object that is reflected, what I call the original form or object. The word pratibimba denotes its reflection. It is that which faces in front of or towards — prati — the original form — bimba, as its reflected counterpart or ‘counter-form. Taken as an ablative, the compound ‘bimbodaya’ means ‘the arising FROM the original image’ (bimbād udayaḥ). It can also mean, simply, ‘the arising OF the original image’ (bimbasya udayaḥ). Padoux explains: ‘Mudrā is pratibimba, reflection, or rather pratibimbodaya . . . First . . . \[illegible\] arises from an original image . . . : the mudrā appears from the deity and is a reflection, a reproduction by man of the appearance (and nature) of the deity. Or . . . \[mudrā\] is that from which the original arises, that which is a means by which the original appears . . . For Abhinavagupta these two interpretations are equally valid. A mudrā has therefore a twofold nature and function: It reflects reality; i.e. the hand and body postures adopted by the adept, together with the visualizations, reflect, reproduce, the form and attitude of the deity. But from these postures, etc., reproducing those of deity, and from the visualizations of divinity, there arises, for the adept, an identification with that deity. For him the original appears and takes the place of the merely reflected image: he is possessed by the devatā, identified with her; the original form is born from the reflection.” (Padoux 1990a: 71-72)
+[^365]: The word bimba denotes the object that is reflected, what I call the original form or object. The word pratibimba denotes its reflection. It is that which faces in front of or towards — prati — the original form — bimba, as its reflected counterpart or ‘counter-form. Taken as an ablative, the compound ‘bimbodaya’ means ‘the arising FROM the original image’ (bimbād udayaḥ). It can also mean, simply, ‘the arising OF the original image’ (bimbasya udayaḥ). Padoux explains: ‘Mudrā is pratibimba, reflection, or rather pratibimbodaya . . . First . . . \[illegible\] arises from an original image . . . : the mudrā appears from the deity and is a reflection, a reproduction by man of the appearance (and nature) of the deity. Or . . . \[mudrā\] is that from which the original arises, that which is a means by which the original appears . . . For Abhinavagupta these two interpretations are equally valid. A mudrā has therefore a twofold nature and function: It reflects reality; i.e. the hand and body postures adopted by the adept, together with the visualizations, reflect, reproduce, the form and attitude of the deity. But from these postures, etc., reproducing those of deity, and from the visualizations of divinity, there arises, for the adept, an identification with that deity. For him the original appears and takes the place of the merely reflected image: he is possessed by the devatā, identified with her; the original form is born from the reflection.” (Padoux 1990a: 71-72)
 
 
 *[p. 135]* ^pg153
@@ -65,11 +65,11 @@ He says the same by means (of a presentation of the) general purport (of this st
 bimbāt samudayo yasyā ity uktā pratibimbatā |
 bimbasya yasyā udaya ity uktā tadupāyatā ॥ 2 ॥ 
 
-(In the sense of) the arising (of Mudrā) from an original image (bimba) (as does a reflection of an image in a mirror or an impression of a seal in wax), the state of (Mudrā) is said to be that of a reflection (pratibimba). (In the sense that) the arising is that of its original image, (Mudrā) is said to be the means to (the realization of) that (original image).? (2) 
+(In the sense of) the arising (of Mudrā) from an original image (bimba) (as does a reflection of an image in a mirror or an impression of a seal in wax), the state of (Mudrā) is said to be that of a reflection (pratibimba). (In the sense that) the arising is that of its original image, (Mudrā) is said to be the means to (the realization of) that (original image).[^366] (2) 
 
 #### Viveka on 32.2
 
-366?\. A less literal, clearer translation of this verse could be: \*A mudrā is said to be a reflection in the sense that it is born from the original image or else in the sense that the image is born from it, which thus becomes an instrument of its birth.”
+[^366]: A less literal, clearer translation of this verse could be: \*A mudrā is said to be a reflection in the sense that it is born from the original image or else in the sense that the image is born from it, which thus becomes an instrument of its birth.”
 
 
 *[p. 136]* ^pg154
@@ -118,26 +118,26 @@ karaṅkinī krodhanā ca bhairavī lelihānikā |
 mahāpretā yogamudrā jvālinī kṣobhinī dhruvā ॥ 5 ॥
 ity evar bahubhedeyari śrīkhecary eva gīyate | 
 
-‘There, (in this regard, of all the mudrās,) the main (and most fundamental) one is the venerable Skyfarer (khecarī).” (In her) ‘undifferentiated’ form (niṣkalatvena), she is well known to be Deity by 
+[^369]There, (in this regard, of all the mudrās,) the main (and most fundamental) one is the venerable Skyfarer (khecarī).[^370] (In her) ‘undifferentiated’ form (niṣkalatvena), she is well known to be Deity by 
 
-369?\. This passage may well be drawn from the Devyāyāmala. It is common practice to list the names of a series of mudrās that are described in the remaining part of the chapter. See for example MV 712-3. Several of them are not found in chapter seven of the MV, which is dedicated to that topic (see below), notably those elaborated in the Kramanaya. Although these are not arranged in what became a standard set of five, associated with the so-called Pañcavāha, that emerged as the central teaching of the Krama system. The mix of Trika and Krama mudrās listed here may well be drawn from the Devyāyāmala, which taught, as we have repeatedly observed, a form of Trika dominated by Krama as its highest teachings. The mix of mudrās listed here reflects this syncretism well.
+[^369]: This passage may well be drawn from the Devyāyāmala. It is common practice to list the names of a series of mudrās that are described in the remaining part of the chapter. See for example MV 712-3. Several of them are not found in chapter seven of the MV, which is dedicated to that topic (see below), notably those elaborated in the Kramanaya. Although these are not arranged in what became a standard set of five, associated with the so-called Pañcavāha, that emerged as the central teaching of the Krama system. The mix of Trika and Krama mudrās listed here may well be drawn from the Devyāyāmala, which taught, as we have repeatedly observed, a form of Trika dominated by Krama as its highest teachings. The mix of mudrās listed here reflects this syncretism well.
 
-370?\. The description of Khecarīmudrā — the Seal of the Skyfarer — here is very different from the one we find in the later medieval texts on yoga, many of which belong to the Gorakhanāthī tradition, or are strongly influenced by it. The Khecarīmudrā taught in those sources involves curling the tongue to the back of the mouth and inserting it up into the nasal cavity. This serves to catch the lunar nectar that flows down from the lunar Drop (bindu), from which it oozes spontaneously, located between the eyebrows. The practice of Khecarīmudrā Abhinava teaches here is essentially same as the daily practice of visualizing the Trika Trident in the body. Although the other form of Khecarīmudrā is known to the early Tantras, variants of this one is by far the most popular. Indeed, the popularity of the other form, which nowadays is only one generally known, is largely due to the later Haṭha Yoga traditions, said to originate from Gorakhanātha.
+[^370]: The description of Khecarīmudrā — the Seal of the Skyfarer — here is very different from the one we find in the later medieval texts on yoga, many of which belong to the Gorakhanāthī tradition, or are strongly influenced by it. The Khecarīmudrā taught in those sources involves curling the tongue to the back of the mouth and inserting it up into the nasal cavity. This serves to catch the lunar nectar that flows down from the lunar Drop (bindu), from which it oozes spontaneously, located between the eyebrows. The practice of Khecarīmudrā Abhinava teaches here is essentially same as the daily practice of visualizing the Trika Trident in the body. Although the other form of Khecarīmudrā is known to the early Tantras, variants of this one is by far the most popular. Indeed, the popularity of the other form, which nowadays is only one generally known, is largely due to the later Haṭha Yoga traditions, said to originate from Gorakhanātha.
 
 
 *[p. 139]* ^pg157
 
-nature. In (Her) differentiated form (sākalya) (She is the mudrās called) Triśūlinī (the Trident), Karaṅkinī (the Corpse), Krodhanā (Rage), Bhairavī, Lelihānikā (She Who Destroys by Licking up), + Mahāpretā (the 
+nature. In (Her) differentiated form (sākalya) (She is the mudrās called) Triśūlinī (the Trident), Karaṅkinī (the Corpse), Krodhanā (Rage), Bhairavī, Lelihānikā (She Who Destroys by Licking up),[^371] Mahāpretā (the 
 
-Great Ghost), Yogamudrā (the Gesture of Yoga), Jvālinī (the Burning One), Kṣobhinī (the Disturbing One), and Dhruvā (Firmly Fixed).’ This venerable Skyfarer itself, that is and has many varieties, is praised in this 
+Great Ghost), Yogamudrā (the Gesture of Yoga), Jvālinī (the Burning One), Kṣobhinī (the Disturbing One), and Dhruvā (Firmly Fixed).[^372] This venerable Skyfarer itself, that is and has many varieties, is praised in this 
 
-way." (4-6ab) 
+way.[^373] (4-6ab) 
 
 #### Viveka on 32.4–6
 
 ‘Well fixed’ is an adjective of Khecarī. The intended sense is that even though it assumes a differentiated (sakala) form as Triśūlinī and the rest, it does not fall from (its essentially) undifferentiated nature (niṣkala). Indeed, it is said: 
 
-‘This Gesture of the Skyfarer is said to be undifferentiated. Its differentiated form abides as each of these (many) varieties.’ 11 
+‘This Gesture of the Skyfarer is said to be undifferentiated. Its differentiated form abides as each of these (many) varieties.’[^374] 
 
 Surely (one may ask), there can also be other mudrās like Triśūlinī etc. that are its auxiliaries. So how is it that those too also are not mentioned? With this doubt in mind, he says: 
 
@@ -150,18 +150,18 @@ Surely (one may ask), there can also be other mudrās like Triśūlinī etc. tha
 \[illegible\] tadaṁgabhūtās tu padmādyā mālinīmate ॥ 6 I|
 tāsāṁ bahutvāmukhyatvayogābhyārṁ neha varnanam | 
 
-371?\. Yogamudrā is described in MV 7/35-36; even so, one wonders whether to emend to the much better known yonimudrā.
+[^371]: Yogamudrā is described in MV 7/35-36; even so, one wonders whether to emend to the much better known yonimudrā.
 
-372?\. These four mudrās beginning with Karaṅkinī are, along with Khecarīmudrā, an important, ndard set of five, integrated and internalized into the so-called Pañcavāha, taught in the systematized Krama practice in its final fully formed development as an elaboration of phases of the flux of cognitive consciousness engaged in the act of perception, marked with the components of its original external liturgy. They are mentioned together in a meditation in the Vijñānabhairava (verse 77). Kṣemarāja makes a brief reference to these mudrās in his commentary on NT 20/36ab, referring us back to his unfortunately lost commentary on the VBh. He writes: mudrātra prathamaṁ svaśarīranihsaranasamaye karaṁkinī, taccharīrākramaṇe krodhanā, tadraśmyādivilāpane lelihānā, tatpurād nihsarane khecarī, svahṛtprāptau bhairavī | tadbandhasatattvaṁ ānabhairavoddyote.asmābhirdarśitam | ‘Here the first Seal is Karaṅkinī, (which is used) at the time when one exits from one’s own body. (The Seal called) Krodhanā (is used) when attacking that body. Lelihānā (is used) when its rays etc. are being destroyed, and Khecarī when quitting that abode (i.e. body), Bhairavi when attaining one’s own heart. 1 have explained their formation and nature in the venerable Vijñānabhairavoddyota.” The reader is referred to the Appendix to this chapter for extensive citations of Trika and Krama sources concerning mudras, including these five, that are elaborated as phases or aspects of the dynamism of cognitive consciousness engaged in perception.
+[^372]: These four mudrās beginning with Karaṅkinī are, along with Khecarīmudrā, an important, ndard set of five, integrated and internalized into the so-called Pañcavāha, taught in the systematized Krama practice in its final fully formed development as an elaboration of phases of the flux of cognitive consciousness engaged in the act of perception, marked with the components of its original external liturgy. They are mentioned together in a meditation in the Vijñānabhairava (verse 77). Kṣemarāja makes a brief reference to these mudrās in his commentary on NT 20/36ab, referring us back to his unfortunately lost commentary on the VBh. He writes: mudrātra prathamaṁ svaśarīranihsaranasamaye karaṁkinī, taccharīrākramaṇe krodhanā, tadraśmyādivilāpane lelihānā, tatpurād nihsarane khecarī, svahṛtprāptau bhairavī | tadbandhasatattvaṁ ānabhairavoddyote.asmābhirdarśitam | ‘Here the first Seal is Karaṅkinī, (which is used) at the time when one exits from one’s own body. (The Seal called) Krodhanā (is used) when attacking that body. Lelihānā (is used) when its rays etc. are being destroyed, and Khecarī when quitting that abode (i.e. body), Bhairavi when attaining one’s own heart. 1 have explained their formation and nature in the venerable Vijñānabhairavoddyota.” The reader is referred to the Appendix to this chapter for extensive citations of Trika and Krama sources concerning mudras, including these five, that are elaborated as phases or aspects of the dynamism of cognitive consciousness engaged in perception.
 
-373?\. Read ity evaṁ bahu- for ity evaṁbahu-.
+[^373]: Read ity evaṁ bahu- for ity evaṁbahu-.
 
-374?\. Jayaratha may be quoting the source of, at least, verse four. It is not the Mālinīvijayottara. Perhaps it is the Devyāyāmala.
+[^374]: Jayaratha may be quoting the source of, at least, verse four. It is not the Mālinīvijayottara. Perhaps it is the Devyāyāmala.
 
 
 *[p. 140]* ^pg158
 
-Other (mudrās) (described) in the Mālinīmata that are its auxiliaries, such as Padmamudrā,”? are not described here, because they are many and are (only of) secondary application. (6cd-7ab) 
+Other (mudrās) (described) in the Mālinīmata that are its auxiliaries, such as Padmamudrā,[^375] are not described here, because they are many and are (only of) secondary application. (6cd-7ab) 
 
 #### Viveka on 32.6–7
 
@@ -180,12 +180,12 @@ Whatever place one who is penetrated by the venerable (goddess) Khecarī (the Sk
 
 It is ‘enough’, that is, sufficient. 
 
-375?\. The Mālinīmata is the Mālinīvijayottara, chapter seven of which is dedicated to the description of mudrās. Padmamudrā (the Lotus Seal) is made simply by spreading open the fingers of the two hands held together at the wrists so that they look like a blooming lotus. padmākārau karau kṛtvā padmamudrāṁ pradarśayet । MV 7/6ab ‘Having made the two hands in the form of a lotus, display the gesture of the lotus.’ The yogic practice of this mudrā is described in the Kubjikāmata. Yoked to the flow of the vital breath through suṣumn leads to the state of flight, and so is considered there to be a form of Khecarīmudrā, as are all the yogic mudrās taught in this chapter. There we read: ‘Padmamudrā is a seal of the Skyfarers. It is produced in three ways. A) The energy Anāmā should be conjoined to the hub of the sixteen spoked (Wheel) (in the throat,) and it should be pressed. By pressing it, (the energy) straightens along the Path of the Skyfarer. When it reaches the goal, namely, Mālinī, (the yogi) certainly (achieves) Flight. B) (The yogi) should first place the six-petalled (lotus) (of Svādhisthāna) on (his) head, conjoining it with the tip of (his) index finger. Once the (yogi’s) mind is Void and is established in the Void, he should press one (Void) with the other. The six petalled (lotus) should be made to bloom under the impulse of the upward moving breath (udāna). (The yogi) should (then) contemplate Mālinī (and so) certainly (achieves) flight. C) (The yogi) should enter into the end of the uvula by means of the tube that is above the twelve spoked (Wheel) (in the heart). (Then) by contracting (the breath, he should) break the chain connected to the Tortoise (in mālādhāra at the base of suṣumnā). (Then) he should contemplate Mālinī (and so achieve) Flight.’ (KM 6/59 - 64a) The mudrās described in the MV are listed in the beginning of chapter seven (MV 7/2- 3). They are: 1) Trisūla (the Tridem, 2) Padma (the Lotus), 3) Śakti (Power), 4) Cakra (the Wheel), 5) Vajraka (the Thunderbolt), 6) Danda (the Staff), 7) Daṁstra (Teeth), 8) Mahāpretā (the Great Ghost), 9) Mahāmudrā (the Great Seal), 10) Khageśvarī (the Skyfarer), 11) Mahodayā (the Great Arising), 12) Karālā (Fierce Teeth), 13) Khaṭvāṁga (the Ascetic’s Staff), 14) Kapālaka (the Skull), 15) Hala (the Plough), 16) Pāśa (the Noose), 17) Aṅkuśa (the Goad), 18) Ghanṭā (the Bell), 19) Mudgara (the Pestle), and 20) Trisikha (the Three Crests).
+[^375]: The Mālinīmata is the Mālinīvijayottara, chapter seven of which is dedicated to the description of mudrās. Padmamudrā (the Lotus Seal) is made simply by spreading open the fingers of the two hands held together at the wrists so that they look like a blooming lotus. padmākārau karau kṛtvā padmamudrāṁ pradarśayet । MV 7/6ab ‘Having made the two hands in the form of a lotus, display the gesture of the lotus.’ The yogic practice of this mudrā is described in the Kubjikāmata. Yoked to the flow of the vital breath through suṣumn leads to the state of flight, and so is considered there to be a form of Khecarīmudrā, as are all the yogic mudrās taught in this chapter. There we read: ‘Padmamudrā is a seal of the Skyfarers. It is produced in three ways. A) The energy Anāmā should be conjoined to the hub of the sixteen spoked (Wheel) (in the throat,) and it should be pressed. By pressing it, (the energy) straightens along the Path of the Skyfarer. When it reaches the goal, namely, Mālinī, (the yogi) certainly (achieves) Flight. B) (The yogi) should first place the six-petalled (lotus) (of Svādhisthāna) on (his) head, conjoining it with the tip of (his) index finger. Once the (yogi’s) mind is Void and is established in the Void, he should press one (Void) with the other. The six petalled (lotus) should be made to bloom under the impulse of the upward moving breath (udāna). (The yogi) should (then) contemplate Mālinī (and so) certainly (achieves) flight. C) (The yogi) should enter into the end of the uvula by means of the tube that is above the twelve spoked (Wheel) (in the heart). (Then) by contracting (the breath, he should) break the chain connected to the Tortoise (in mālādhāra at the base of suṣumnā). (Then) he should contemplate Mālinī (and so achieve) Flight.’ (KM 6/59 - 64a) The mudrās described in the MV are listed in the beginning of chapter seven (MV 7/2- 3). They are: 1) Trisūla (the Tridem, 2) Padma (the Lotus), 3) Śakti (Power), 4) Cakra (the Wheel), 5) Vajraka (the Thunderbolt), 6) Danda (the Staff), 7) Daṁstra (Teeth), 8) Mahāpretā (the Great Ghost), 9) Mahāmudrā (the Great Seal), 10) Khageśvarī (the Skyfarer), 11) Mahodayā (the Great Arising), 12) Karālā (Fierce Teeth), 13) Khaṭvāṁga (the Ascetic’s Staff), 14) Kapālaka (the Skull), 15) Hala (the Plough), 16) Pāśa (the Noose), 17) Aṅkuśa (the Goad), 18) Ghanṭā (the Bell), 19) Mudgara (the Pestle), and 20) Trisikha (the Three Crests).
 
 
 *[p. 141]* ^pg159
 
-Surely (one may ask), with regard to these (other Mudrās, it is said that): ‘the reciter of Mantra who is protected by these (Mudrās) attains accomplishment of Mantra.’"? According to this teaching, they are primary with respect to the adepts (engaged in reciting Mantras). So how is it that he has said this? With this doubt in mind, he says: 
+Surely (one may ask), with regard to these (other Mudrās, it is said that): ‘the reciter of Mantra who is protected by these (Mudrās) attains accomplishment of Mantra.’[^376] According to this teaching, they are primary with respect to the adepts (engaged in reciting Mantras). So how is it that he has said this? With this doubt in mind, he says: 
 
 ### TĀ 32.8
 
@@ -219,15 +219,15 @@ The Nature of the Mudrās (svarūpam)
 mudrā caturvidhā kāyakaravākcittabhedataḥ ॥ 9 I|
 tatra pūrṇena rūpeṇa khecarīm eva varnaye | 
 
-Mudrā is of four kinds, according to whether it is (made with) the body, the hands, speech or mind." There (in that regard), I will describe only the Skyfarer in a complete form (that includes all these four varieties). (9cd-10ab) 
+Mudrā is of four kinds, according to whether it is (made with) the body, the hands, speech or mind.[^377] There (in that regard), I will describe only the Skyfarer[^378] in a complete form (that includes all these four varieties). (9cd-10ab) 
 
 #### Viveka on 32.9–10
 
-376?\. MV Vcd.
+[^376]: MV Vcd.
 
-377?\. Cf above, 26/67.
+[^377]: Cf above, 26/67.
 
-378?\. The image of the flying yogi goes back at least to the late part of the Rgveda, where we find the hymn to the Muni: He with the long loose locks supports Agni, and moisture (poison), heaven and earth; He is all sky to look upon: he with long Hair is called this light. (1) The Munis, girdled with the wind, wear Garments soiled of yellow hue. They, following the wind’s swift course, Go where the gods have gone before. (2) Transported with our Munihood we have Pressed into the winds; You therefore, mortal men, behold our Natural bodies and no more. (3) The Muni, made associate in the holy Work of every God, Looking upon all varied forms flies through The region of the air. (4) The steed of Vāta, Vāyu’s friend, the Muni, by the Gods impelled, In both the oceans has his home, in Eastern and in the western sea. (5) Treading the path of the sylvan beasts Gandharvas and Apsarases, He with long locks, who knows the wish, Is a sweet most delightful friend. (6) Vāyu hath churned for him; for him he Poundeth things most hard to bend, When he with long loose locks hath drunk, With Rudra, poison from the cup. (7) Rgveda 10/86 (Griffith’s translation). Concerning Khecarīmudrā (here called Khagesī-mudrā), see Eliade 1954: 249-251.
+[^378]: The image of the flying yogi goes back at least to the late part of the Rgveda, where we find the hymn to the Muni: He with the long loose locks supports Agni, and moisture (poison), heaven and earth; He is all sky to look upon: he with long Hair is called this light. (1) The Munis, girdled with the wind, wear Garments soiled of yellow hue. They, following the wind’s swift course, Go where the gods have gone before. (2) Transported with our Munihood we have Pressed into the winds; You therefore, mortal men, behold our Natural bodies and no more. (3) The Muni, made associate in the holy Work of every God, Looking upon all varied forms flies through The region of the air. (4) The steed of Vāta, Vāyu’s friend, the Muni, by the Gods impelled, In both the oceans has his home, in Eastern and in the western sea. (5) Treading the path of the sylvan beasts Gandharvas and Apsarases, He with long locks, who knows the wish, Is a sweet most delightful friend. (6) Vāyu hath churned for him; for him he Poundeth things most hard to bend, When he with long loose locks hath drunk, With Rudra, poison from the cup. (7) Rgveda 10/86 (Griffith’s translation). Concerning Khecarīmudrā (here called Khagesī-mudrā), see Eliade 1954: 249-251.
 
 
 *[p. 142]* ^pg160
@@ -246,7 +246,7 @@ Mudrā is of four kinds, according to whether it is (made with) the body, the ha
 
 A) The Seal of the Skyfarer (khecarīmudrā) According to the 
 
-Mālinīvijayottara' 
+Mālinīvijayottara[^379] 
 
 बद्धवा पद्मासनं योगी नाभावक्षेवरं क्षिपेत् ॥ १० ॥
 दण्डाकारं तु तं तावन्नयेद्यावत्कखत्रयम् ।
@@ -257,13 +257,13 @@ baddhvā padmāsanari yogī nābhāv akṣeśvaraṁ kṣipet ॥ 10 ॥ daṇnd
 nigṛhya tatra tat \[illegible\] prerayet khatrayenṇa tu ॥ 11 ॥
 etāmṁ baddhvā khe gatiḥ syād iti śŚrīpūrvaśāsane | 
 
-(It is said) in the Śrīpūrvaśāsana (that is, in the Mālinīvijayottara): ‘Assuming the lotus posture, the Yogi should direct (his mind), the Lord of the Senses, into the navel. In the form of a staff, he should lead it along until (it reaches) the three Voids (in the head). After restraining it there, he should rapidly impel (it) with the three Voids (above the head). Having formed this (Mudrā), (the yogi) flies into the (supreme) \[illegible\] (10cd-12ab) 
+(It is said) in the Śrīpūrvaśāsana (that is, in the Mālinīvijayottara): ‘Assuming the lotus posture, the Yogi should direct (his mind), the Lord of the Senses, into the navel. In the form of a staff, he should lead it along until (it reaches) the three Voids (in the head). After restraining it there, he should rapidly impel (it) with the three Voids (above the head). Having formed this (Mudrā), (the yogi) flies into the (supreme) \[illegible\][^380] (10cd-12ab) 
 
 #### Viveka on 32.10–12
 
-379?\. In the following verses from 10cd to 62, Abhinava teaches the practice Seal of the Skyfaring Goddess (khecarī) according to the following six Tantras. Apart from Kāmika, the others are, as we would expect, all Trika Tantras. 1) Mālinīvijayottara (10cd-12ab), 32/10cd-12a = MV 7/15cd-17a 2) the Yogasaṁicāratantra (12cd-31), 3) The Vṛrāvalitantra (32-47ab), 4) The Kāmikatantra (47cd-48), 5) The Gahvaratantra (49-53) 6) The Bhargasikhākulatantra (54-62).
+[^379]: In the following verses from 10cd to 62, Abhinava teaches the practice Seal of the Skyfaring Goddess (khecarī) according to the following six Tantras. Apart from Kāmika, the others are, as we would expect, all Trika Tantras. 1) Mālinīvijayottara (10cd-12ab), 32/10cd-12a = MV 7/15cd-17a 2) the Yogasaṁicāratantra (12cd-31), 3) The Vṛrāvalitantra (32-47ab), 4) The Kāmikatantra (47cd-48), 5) The Gahvaratantra (49-53) 6) The Bhargasikhākulatantra (54-62).
 
-380?\. 32/10cd-12a = MV 7/15cd-17a. MV 7/16a reads bhāvaṁ for TĀ 32/1 la tāvan. Somadeva (2004: 266) explains that: “The Mālinīvijayottara refers here to two groups of three voids, one triad in the head (kakhatraya) and another beyond (khatraya). The interior void in the heart is not mentioned separately in this context, presumably because nothing of importance takes place when the mind (and by implication the vital energy) traverses that region. The Mālinīvijayottara\*s voids are thus at least seven: one in the heart (abhyāntaraśünya), three in the head (samuccayaśünya), and three beyond (bāhyaśünya). This interpretation may be confirmed by comparing a textually closely related passage in the Kubjikāmata. There, the term ‘granthi’ is used instead of ‘void’: ‘The yogi, seated in the lotus-posture, his body straight and his head erect, should expel the air from his body, inhale it again and retain it in the heart. He should cast his mind into the pericarp (nābhau) of the lotus that is in the knot in the heart. The wise (yogi) should unify three: the mantra, the self and (the breath,) and guide them, in the form of a staff, up to the cranial aperture. From that place, he should impel (the staff) along the great path, O beautiful lady, with his two finger(s) again and again. He should conjoin his tongue and uvula and attain the fifth state (?). He should assume the secret wheel (?) (and) assume the attitude of (pulling) up the anus. When the three knots are merged (and have been reached), O Goddess, there will take place motion in the Void, (of this) there is no doubt.’ KM 7/81cd-86ab
+[^380]: 32/10cd-12a = MV 7/15cd-17a. MV 7/16a reads bhāvaṁ for TĀ 32/1 la tāvan. Somadeva (2004: 266) explains that: “The Mālinīvijayottara refers here to two groups of three voids, one triad in the head (kakhatraya) and another beyond (khatraya). The interior void in the heart is not mentioned separately in this context, presumably because nothing of importance takes place when the mind (and by implication the vital energy) traverses that region. The Mālinīvijayottara\*s voids are thus at least seven: one in the heart (abhyāntaraśünya), three in the head (samuccayaśünya), and three beyond (bāhyaśünya). This interpretation may be confirmed by comparing a textually closely related passage in the Kubjikāmata. There, the term ‘granthi’ is used instead of ‘void’: ‘The yogi, seated in the lotus-posture, his body straight and his head erect, should expel the air from his body, inhale it again and retain it in the heart. He should cast his mind into the pericarp (nābhau) of the lotus that is in the knot in the heart. The wise (yogi) should unify three: the mantra, the self and (the breath,) and guide them, in the form of a staff, up to the cranial aperture. From that place, he should impel (the staff) along the great path, O beautiful lady, with his two finger(s) again and again. He should conjoin his tongue and uvula and attain the fifth state (?). He should assume the secret wheel (?) (and) assume the attitude of (pulling) up the anus. When the three knots are merged (and have been reached), O Goddess, there will take place motion in the Void, (of this) there is no doubt.’ KM 7/81cd-86ab
 
 
 *[p. 144]* ^pg162
@@ -274,7 +274,7 @@ Once the Yogi who is seated in a stable and comfortable posture has risen from t
 
 ### TĀ 32.12–13
 
-B) The Seal of the Skyfarer According to the Yogasamhcāra’' ध्वनिज्योतिर्मरुयुक्त चित्तं विश्रम्य चोपरि ॥ १२॥
+B) The Seal of the Skyfarer According to the Yogasamhcāra[^381] ध्वनिज्योतिर्मरुयुक्त चित्तं विश्रम्य चोपरि ॥ १२॥
 अनेनाभ्यासयोगेन शिवं भित्वा परं व्रजेत् । |
 dhvanijyotirmarudyuktaṁ \[illegible\] viśramya copari ॥ 12 ॥
 anenābhyāsayogena śivaṁ bhittvā \[illegible\] vrajet | 
@@ -294,7 +294,7 @@ He also teaches the nature of the Trident (Mudrā) as that (process of) piercing
 जत्रवधस्तात्करौ कृत्वा वामपादं च दक्षिणे ॥ १३ ॥
 विदायीस्यं कनिष्टाभ्ां मध्यमाभ्यां तु नासिकाम् अनामे कुञ्चयेत्प्रज्ञो भ्रृभङ्ं तर्जनीद्रयम् ॥ १४ ॥
 
-381?\. This passage, drawn from the Yogasaṁcāra, extends from 12cd to 31.
+[^381]: This passage, drawn from the Yogasaṁcāra, extends from 12cd to 31.
 
 
 *[p. 145]* ^pg163
@@ -328,9 +328,9 @@ sūnyāśūnyalaye kṛtvā ekadande ‘nilānalau || 16 ॥
 śaktitritayasambaddhe adhiṣthātṛtridaivate |
 triśūlam tad vijānīyād yena vyomotpated budhaḥ | 17 ॥ 
 
-Once Wind and Fire” have been made (to fuse) into the single staff of the three presiding deities, the three powers conjoined (to it and each other), and the Void and (its opposite) the Non-void have dissolved away, 
+Once Wind and Fire[^382] have been made (to fuse) into the single staff of the three presiding deities, the three powers conjoined (to it and each other), and the Void and (its opposite) the Non-void have dissolved away, 
 
-382?\. \[illegible\] The end of the two branches (Sakhāprānta) is the End of the Twelve, and the two wheels (or branches) of exhalation (prāṇa) and inhalation (apāna) that, ascending and descending, reabsorb and emit, respectively.
+[^382]: \[illegible\] The end of the two branches (Sakhāprānta) is the End of the Twelve, and the two wheels (or branches) of exhalation (prāṇa) and inhalation (apāna) that, ascending and descending, reabsorb and emit, respectively.
 
 
 *[p. 146]* ^pg164
@@ -357,13 +357,13 @@ ekadandaṁ sa vijñāya triśūlaṁ khacaraṁ priye |
 baddhvā tu khecarīṁ mudrām dhyātvātmānaṁ ca bhairavam ॥ 19 ॥
 khecarīcakrasañjuṣṭaṁ sadyas tyajati medinīm | 
 
-Having abandoned the condition of (material) space and realized that the trident, with its single staff, O beloved, moves in the Void, having also abandoned (even) just (the essence of) the being (sattāmātram) (of objectivity), and made the Trident one, (the yogi) abides (in that oneness) like the juice (of aesthetic delight) (rasa)” (merged) into juice. (Then,) having formed the Seal of the Skyfaring goddess (khecarī) and contemplated his own Self, endowed (saṁjuṣṭa) with the assembly (cakra) of the Skyfaring goddesses, as Bhairava, he immediately quits (the surface) of the earth. (18-20ab) 
+Having abandoned the condition of (material) space and realized that the trident, with its single staff, O beloved, moves in the Void, having also abandoned (even) just (the essence of) the being (sattāmātram) (of objectivity), and made the Trident one, (the yogi) abides (in that oneness) like the juice (of aesthetic delight) (rasa)[^383] (merged) into juice. (Then,) having formed the Seal of the Skyfaring goddess (khecarī) and contemplated his own Self, endowed (saṁjuṣṭa) with the assembly (cakra) of the Skyfaring goddesses, as Bhairava, he immediately quits (the surface) of the earth. (18-20ab) 
 
 #### Viveka on 32.18–20
 
 ‘Having realized’ in this way ‘that the trident, with its single staff, moves in the Void’, and ‘having also abandoned (even) just (the essence of) the being (sattāmātram) (of objectivity)’ that gives rise to each specific 
 
-383?\. Jayaratha reads rasam iva for rasa iva.
+[^383]: Jayaratha reads rasam iva for rasa iva.
 
 
 *[p. 147]* ^pg165
@@ -401,7 +401,7 @@ Free from partial aspects and without (any) doubts, devoid (of the need for conv
 
 one from whom (various) observances have emerged (and fallen away, as he himself) has emerged out from the observances (of conventionally proper) conduct. ‘Seeing that all the deities reside in (his) body’ means that he knows that the Self is made of all the deities. (By saying) ‘joy’ etc., particular fluctuations of the mind are indicated (thereby). ‘Form and the rest’ are the group of five objects of sense. “The (true) perceiver’ is one in nature with the supreme perceiver. This is the meaning. 
 
-He strengthens (this view) by (referring) to its opposite.” 
+He strengthens (this view) by (referring) to its opposite.[^384] 
 
 ### TĀ 32.24
 
@@ -423,15 +423,15 @@ One who is in doubt (about the efficacity of the) Vidyā, (the existence of the 
 sivo raviḥ sivo vahniḥ paktṛtvāt sa purohitaḥ |
 tatrasthā devatāḥ sarvā dyotayantyo ‘khilańi jagat ॥ 25 ॥ 
 
-Śiva is the Sun, Śiva is Fire, and because he cooks (all things), (Śiva is) the priest (purohita).”? There (within Śiva), all deities reside, illuminating the entire universe. (25) 
+Śiva is the Sun, Śiva is Fire, and because he cooks (all things), (Śiva is) the priest (purohita).[^385] There (within Śiva), all deities reside, illuminating the entire universe. (25) 
 
 #### Viveka on 32.25
 
 ‘The Sun’ is the means of knowledge, ‘Fire’ is the perceiver, thus ‘the priest’ is the sacrificer. This is the meaning. ((Śiva is) the priest (purohita)) ‘because he cooks (all things)’, that is, makes all things one with Himself, and so (the deities at one with Him) illuminate (the universe). This is (what) remains (to be said to complete this statement). In this way Śiva Himself is everything, so what occasion is there for doubt? This is the intended sense. 
 
-384?\. \[illegible\] This line and the following verse seem to be free-floating, with no connection to what precedes or follows. It seems that there has been some error in the transmission of the text. If that is so, it had already occurred before Jayaratha’s time. His commentary appears to try to somehow make connections, but he cannot be said to have succeeded.
+[^384]: \[illegible\] This line and the following verse seem to be free-floating, with no connection to what precedes or follows. It seems that there has been some error in the transmission of the text. If that is so, it had already occurred before Jayaratha’s time. His commentary appears to try to somehow make connections, but he cannot be said to have succeeded.
 
-385?\. In the course of the Vedic sacrifice, food is offered to the gods as oblations to the fire. This may be raw food — grains and the like, or cooked. Cooked food is the meat of an animal that has been sacrificed for that purpose. This is not offered raw. It must first be cooked. Thus, the priest is the cook of the gods, and the sacrificial area his kitchen. The priest is called ‘purohita’ literally ‘placed in front’, because he sits in front of the Fire. The Fire is also called ‘purohita’ because Fire is in front of all, as the priest of the gods, who conveys the offering to them.
+[^385]: In the course of the Vedic sacrifice, food is offered to the gods as oblations to the fire. This may be raw food — grains and the like, or cooked. Cooked food is the meat of an animal that has been sacrificed for that purpose. This is not offered raw. It must first be cooked. Thus, the priest is the cook of the gods, and the sacrificial area his kitchen. The priest is called ‘purohita’ literally ‘placed in front’, because he sits in front of the Fire. The Fire is also called ‘purohita’ because Fire is in front of all, as the priest of the gods, who conveys the offering to them.
 
 
 *[p. 149]* ^pg167
@@ -450,7 +450,7 @@ kaniṣthābhyāmṁ vidāryāsyari tarjanībhyāri bhruvau tathā |
 anāme madhyame vaktre jihvayā tālukaṁ spṛśet ॥ 26 ॥
 eṣā karaṅkinī devī. ...... 
 
-Holding the mouth wide open with the little fingers,” and, in the same way, the eyebrows with the index fingers, (placing) the ring and middle (fingers) on the mouth, (the yogi) should touch the palate with (his) tongue. This is the Goddess Karaṅkinī (the Skeleton). (26-27a) 
+Holding the mouth wide open with the little fingers,[^386] and, in the same way, the eyebrows with the index fingers, (placing) the ring and middle (fingers) on the mouth, (the yogi) should touch the palate with (his) tongue. This is the Goddess Karaṅkinī (the Skeleton). (26-27a) 
 
 #### Viveka on 32.26–27
 
@@ -473,7 +473,7 @@ japed yadi tataḥ siddhyet trailokyaṁ sacarācaram || 29 ॥
 
 Now listen to (how the seal of the Goddess) Jvālinī (the Blazing One) (is made). The hands placed (on the area) from the jaw to the forehead, stretching (them out) clearly from the fingers, and having placed the eyebrows within them, the wise man should move them about with the 
 
-386?\. Read kaniṣthābhyāṁ for kaniṣthayā.
+[^386]: Read kaniṣthābhyāṁ for kaniṣthayā.
 
 
 *[p. 150]* ^pg168
@@ -482,7 +482,7 @@ force of the vital breath. Then opening the mouth wide along with the tongue, he
 
 #### Viveka on 32.27–29
 
-The reading (of the word) ‘hanur’ (‘the jaw’) is a deviant form (aisaḥ pāthaḥ)\* Thus (one should understand) the meaning to be that (the hands) should be placed (on the face,) beginning from the jaw (hanataḥ sic hanutaḥ) up to the forehead.” ‘Stretching the fingers out’ means with the fingers stretched out. (The eyebrows are) ‘within them’, that is, within the two hands. (The yogi should repeat Mantra,) having meditated on (his) inner Self in the upward facing triangle ‘within the Wheel of Fire’. 
+The reading (of the word) ‘hanur’ (‘the jaw’) is a deviant form (aisaḥ pāthaḥ)[^387] Thus (one should understand) the meaning to be that (the hands) should be placed (on the face,) beginning from the jaw (hanataḥ sic hanutaḥ) up to the forehead.[^388] ‘Stretching the fingers out’ means with the fingers stretched out. (The eyebrows are) ‘within them’, that is, within the two hands. (The yogi should repeat Mantra,) having meditated on (his) inner Self in the upward facing triangle ‘within the Wheel of Fire’. 
 
 He (now) explains the accomplishment (attained by means of this mudrā). 
 
@@ -504,16 +504,16 @@ By (making the) sound (nāda) HĀ! (the yogi) sees (his own) Self wandering with
 
 ‘By (making the) sound (nāda) HĀ! means by uttering the sound of the letter HĀ. ‘Established on the plane of the going and coming (of the vital breath)’, (he moves) from his own body into another (person’s) body, or from another (person’s) body into his own. The penetration (of trance) (brought about) by forming Khecarīmudrā is explained also by (saying) that (he is) ʻa Skyfarer’. 
 
-387?\. Clearly Jayaratha takes this to be a direct citation from the Yogasaṁcāra, confirming that the entire passage (i.e. 12cd-31) is drawn from there.
+[^387]: Clearly Jayaratha takes this to be a direct citation from the Yogasaṁcāra, confirming that the entire passage (i.e. 12cd-31) is drawn from there.
 
-388?\. Tt would be easier simply to emend hanur to hanor.
+[^388]: Tt would be easier simply to emend hanur to hanor.
 
 
 *[p. 151]* ^pg169
 
 He now explains the procedure concerning this (Mudrā) taught in the venerable Vīrāvali also. 
 
-C) The Seal of the Skyfarer (khecarī) According to the Virāvalītantra” 
+C) The Seal of the Skyfarer (khecarī) According to the Virāvalītantra[^389] 
 
 ### TĀ 32.32–34
 
@@ -523,23 +523,23 @@ C) The Seal of the Skyfarer (khecarī) According to the Virāvalītantra”
 व्रजेत् कन्दपदं मध्ये रावं कृत्व हयगवकम् ॥ ३३ ॥
 यावज्जीवं चतुष्कोणं पिण्डाधारं च कामिकम्
 
-kulakundalikām buddhvā” anor antaravedinīm |
+kulakundalikām buddhvā[^390] anor antaravedinīm |
 vāmo yo ‘yari jagaty asmiṁs tasya sahharanodyatām || 32 ॥
 svasthāne nirvrtiń labdhvā jñānāmṛtarasātmakam |
 vrajet kandapadaṁ madhye rāvar kṛtvā hy arāvakam || 33 ॥
 yāvaj jīvaṁ catuṣkone pindādhāre ca kāmikam | 
 
-Kulakuṇdalikā abides unaware (avedinī) within the individual (fettered) soul, and is intent, once awakened, to withdraw (into herself all) that is within this universe that runs contrary to that (soul’s essential freedom).” Once she has attained, in her own place, rest (and contentment) (nivṛti), she should travel to the plane of the Bulb (kandapada), which is the juice (of the aesthetic delight) of the nectar of (spiritual) knowledge \[illegible\] (Then,) having made, in the middle (of the Root), the Sound without sound, (she continues) until (she reaches) the living being (i.e. the inhaled breath) (jīva) that, lustful (kāmika), is in the square base of the body.” (32-34ab) 
+Kulakuṇdalikā abides unaware (avedinī) within the individual (fettered) soul, and is intent, once awakened, to withdraw (into herself all) that is within this universe that runs contrary to that (soul’s essential freedom).[^391] Once she has attained, in her own place, rest (and contentment) (nivṛti), she should travel to the plane of the Bulb (kandapada), which is the juice (of the aesthetic delight) of the nectar of (spiritual) knowledge \[illegible\] (Then,) having made, in the middle (of the Root), the Sound without sound, (she continues) until (she reaches) the living being (i.e. the inhaled breath) (jīva) that, lustful (kāmika), is in the square base of the body.[^392] (32-34ab) 
 
 #### Viveka on 32.32–34
 
-389?\. This passage, drawn from the Vīrāvalitantra, extends from verse 32 to 47ab.
+[^389]: This passage, drawn from the Vīrāvalitantra, extends from verse 32 to 47ab.
 
-390?\. Read with MS T buddhvā for baddhvā.
+[^390]: Read with MS T buddhvā for baddhvā.
 
-391?\. Meaning and translation unce;
+[^391]: Meaning and translation unce;
 
-392?\. in the printed edition, and comments accordingly. That reads (jīvaṁ) catuṣkonṇaṁ pindādhāraṁ ca kāmikam, which means that ‘the living being, lustful, is the square base of the body’. Clearly this reading makes no sense. A better reading would be (jīvaṁ) catuṣkone pindādhāre ca kāmikam — ‘the living being, lustful, is in the square base of the body’ and so I have emended accordingly. The ‘living being’ is apāna. This is the wind that expels the products of the body, which includes both excreta and urine. Triggered off by orgasm, it expels seminal fluid. Thus, the text says that it is “lustful”. The rhythm of the breathing oscillates between the Heart in the chest and the End of the Twelve. The latter may be external (bāhyadvādaśānta). As such, it is situated at a distance of twelve finger-breadths from the place between the eyebrows, where the breath curves down and out. The upper End of the Twelve (ārdhvadvādaśānta) is at a distance of twelve finger-breadths from the Cavity of Brahmā at the top of the head. When Kundalinī is ‘awake’, i.e. active, she is the enlivening and enlightening flow of the breath, at one with its energy, the power of consciousness, and speech. Initially, in those who are ignorant, she pervades the individual soul, abiding unconscious within it. When awakened, she emerges out of the individual soul, who is located in the Heart, that is, the inhaled breath. Preparing to emit seed, the inhaled breath (apāna) is sucked down into the base of the genitals, here called the Empowered Place, which is Kundalinīśakti’s place. Then apāna operates as the energy of Sañjīvanīkalā — the Vivifying sixteenth digit of the Moon, which is the power of emission (visargaśakti).? It is joined by Kundalinī, that resounds with Unstruck Sound within this, the Bulb at the base of suṣumnā — the inner Trika Trident. Now it is ready to ascend the Trident in the manner described in the following verses. Impelled by the power of emission, it transports the ‘living being’ i.e. the individual soul, upwards.
+[^392]: in the printed edition, and comments accordingly. That reads (jīvaṁ) catuṣkonṇaṁ pindādhāraṁ ca kāmikam, which means that ‘the living being, lustful, is the square base of the body’. Clearly this reading makes no sense. A better reading would be (jīvaṁ) catuṣkone pindādhāre ca kāmikam — ‘the living being, lustful, is in the square base of the body’ and so I have emended accordingly. The ‘living being’ is apāna. This is the wind that expels the products of the body, which includes both excreta and urine. Triggered off by orgasm, it expels seminal fluid. Thus, the text says that it is “lustful”. The rhythm of the breathing oscillates between the Heart in the chest and the End of the Twelve. The latter may be external (bāhyadvādaśānta). As such, it is situated at a distance of twelve finger-breadths from the place between the eyebrows, where the breath curves down and out. The upper End of the Twelve (ārdhvadvādaśānta) is at a distance of twelve finger-breadths from the Cavity of Brahmā at the top of the head. When Kundalinī is ‘awake’, i.e. active, she is the enlivening and enlightening flow of the breath, at one with its energy, the power of consciousness, and speech. Initially, in those who are ignorant, she pervades the individual soul, abiding unconscious within it. When awakened, she emerges out of the individual soul, who is located in the Heart, that is, the inhaled breath. Preparing to emit seed, the inhaled breath (apāna) is sucked down into the base of the genitals, here called the Empowered Place, which is Kundalinīśakti’s place. Then apāna operates as the energy of Sañjīvanīkalā — the Vivifying sixteenth digit of the Moon, which is the power of emission (visargaśakti).? It is joined by Kundalinī, that resounds with Unstruck Sound within this, the Bulb at the base of suṣumnā — the inner Trika Trident. Now it is ready to ascend the Trident in the manner described in the following verses. Impelled by the power of emission, it transports the ‘living being’ i.e. the individual soul, upwards.
 
 
 *[p. 152]* ^pg170
@@ -550,7 +550,7 @@ Kulakundalikā, who ‘abides unaware (vedinī) here ‘within the individual (f
 
 For this reason, (Kuṇqalinī) makes ‘the sound’ (rāva) which is (the innate) Sound (of consciousness) \[illegible\] that is ‘without sound’, its nature completely tranquil, within the foundation of the subtle channel \[illegible\] in the centre (i.e. \[illegible\] Then, in accord with the view (taught in the Vīrāva/i) that ‘(the deities) in the Bulb (kanda) are greedy for the six flavours’, ‘the plane of the Bulb’ ʻis the juice (of the aesthetic delight) of the nectar of (spiritual) knowledge \[illegible\] 
 
-\` +" (There,) the living being’ called ‘All Desire’ is ‘lustful (kāmika)’, and is called the Vivifying Nectar (saĝjīvanyamyta). \[illegible\] travels to ‘the base (ādhāra) of the body’ (the abode of the living being). Called ‘the Wish-granting Gem’, it is ‘square’, because it is located on a crossroad.? 
+[^393] (There,) the living being’ called ‘All Desire’ is ‘lustful (kāmika)’, and is called the Vivifying Nectar (saĝjīvanyamyta).[^394] \[illegible\] travels to ‘the base (ādhāra) of the body’ (the abode of the living being). Called ‘the Wish-granting Gem’, it is ‘square’, because it is located on a crossroad.[^395] 
 
 ### TĀ 32.34–36
 
@@ -568,16 +568,16 @@ koṇamadhyaviniṣkrāntaṁ liṅgamūlaṁ vibhedayet | 36 ॥
 
 (The yogi) awakens (Kulakundalinī) there (at first), and knows (her) motion, (that is,) how she has approached gradually from the location of 
 
-393?\. \[illegible\] Read kandapadam | for kandapadaṁ.
+[^393]: \[illegible\] Read kandapadam | for kandapadaṁ.
 
-394?\. Read sañjīvanyamṛtābhidham | for sañjīvanyamṛtābhidhaṁ.
+[^394]: Read sañjīvanyamṛtābhidham | for sañjīvanyamṛtābhidhaṁ.
 
-395?\. \[illegible\] There is another ‘crossroad’ (catuṣpatha) above, at the base of the uvula at the back of the throat. Here, as there, the function of the ‘crossroad’ is to regulate the upward ascent of the Kunqalinī. When it is an in the form of an X, the path is blocked. When it is rotated to form a cross +, it is free to ascend.
+[^395]: \[illegible\] There is another ‘crossroad’ (catuṣpatha) above, at the base of the uvula at the back of the throat. Here, as there, the function of the ‘crossroad’ is to regulate the upward ascent of the Kunqalinī. When it is an in the form of an X, the path is blocked. When it is rotated to form a cross +, it is free to ascend.
 
 
 *[p. 153]* ^pg171
 
-the Root, and, linked to both the two wheels (of the cycles of inhalation and exhalation), takes as her support the extremity of the branches (of the flow of the breath). (Then) the yogi? should burst apart the knot of darkness called the Adamantine (vajra) (and suṣumnā) by (the strength) born of knowledge. (Then, hanging) from the extremity of both branches (of the flow of the breath), he should in the same way pierce through the root of the Jiṅga that has emerged from the centre of the triangle. (34cd-36) 
+the Root, and, linked to both the two wheels (of the cycles of inhalation and exhalation), takes as her support the extremity of the branches (of the flow of the breath). (Then) the yogi[^396] should burst apart the knot of darkness called the Adamantine (vajra) (and suṣumnā) by (the strength) born of knowledge. (Then, hanging) from the extremity of both branches (of the flow of the breath), he should in the same way pierce through the root of the Jiṅga that has emerged from the centre of the triangle. (34cd-36) 
 
 #### Viveka on 32.34–36
 
@@ -603,7 +603,7 @@ sasaṅgamam idar sthānam ūrminyunmīlanari param |
 
 Conjoined there, the two wheels shine as one. Having cast (the breath up) in reverse (from the root of the Liṅga), it (again) assumes a two-fold state. From there, (Kundalinī) should cast (herself down) from the hips up to the end of the big toe, (where) the Fire of Time (kālāgni) (is located). She who is marked with the signs (of the two breaths, i.e. Kunqdalinī,) 
 
-396?\. Read yogī for devi
+[^396]: Read yogī for devi
 
 
 *[p. 154]* ^pg172
@@ -641,7 +641,7 @@ Sound) devoid of phonemes (avarpa), which is (immanent as) the phonemes. (40cd-4
 
 #### Viveka on 32.40–41
 
-‘This is the sequence’ of her (gradual rise), which is (her) circulation through each of the Foundations (ādhāra) as stated, that is, (her) spontaneous flow. This is the meaning. “There is also another’ (arising of) that (Kunqalinī,) that takes place (suddenly) \[illegible\] of sequence’. This ‘supreme Skyfaring (Goddess), (previously) known as the Foundation of the Yoni (yonyādhārā)’, is then ‘called ‘the Root of the Trident (sū/amūlā when she is arisen. The meaning is that she attains the plane of the End of the Twelve (suddenly and) immediately by being conjoined to the three spokes (of the Trident), that are Power, the Pervasive One and the Equal One. It is because of that that ‘the phonemes’ that are outer (acts of) reflective awareness ‘dissolve away there’ within (Kundalinī, who is Unstruck Sound, and so is) ‘devoid of phonemes (avarṇpa)’. (In other words, they) come to rest in (her) own nature, which is just her own (pure) reflective awareness (of her own pure conscious nature), that has also encompassed (within itself) outer reflective awareness, and whose nature is to remove all (the diversity of discursive representation).” This is the meaning. 
+‘This is the sequence’ of her (gradual rise), which is (her) circulation through each of the Foundations (ādhāra) as stated, that is, (her) spontaneous flow. This is the meaning. “There is also another’ (arising of) that (Kunqalinī,) that takes place (suddenly) \[illegible\] of sequence’. This ‘supreme Skyfaring (Goddess), (previously) known as the Foundation of the Yoni (yonyādhārā)’, is then ‘called ‘the Root of the Trident (sū/amūlā when she is arisen. The meaning is that she attains the plane of the End of the Twelve (suddenly and) immediately by being conjoined to the three spokes (of the Trident), that are Power, the Pervasive One and the Equal One. It is because of that that ‘the phonemes’ that are outer (acts of) reflective awareness ‘dissolve away there’ within (Kundalinī, who is Unstruck Sound, and so is) ‘devoid of phonemes (avarṇpa)’. (In other words, they) come to rest in (her) own nature, which is just her own (pure) reflective awareness (of her own pure conscious nature), that has also encompassed (within itself) outer reflective awareness, and whose nature is to remove all (the diversity of discursive representation).[^398] This is the meaning. 
 
 Surely (one may ask), be that so (as you say), but how can the yogi awaken her again? With this doubt in mind, he says: 
 
@@ -655,15 +655,15 @@ nādiphāntaṁ samuccārya kauleśaṁ dehasarinibham |
 ākramya prathamaṁ cakran khe yantre pādapīditam ॥ 42 ॥
 nādar vai śaktisadgarbhaṁ sadgarbhāt kaulinīpadam | 
 
-‘(The Mālinī alphabet) from N to PH is uttered \[illegible\] It is the Lord of Kula (Kauleśa), who is like the body. It is the Sound (nāda) that contains the Being of Power (śaktisat). (Then, once uttered and) having traversed into the first wheel, which is squeezed with the foot within the organ (yantra) of the Void (khe yantre), the plane of Kaulinī (that is, Kulakunṇdalinī) (arises) from the womb of Being. (42-43ab) 
+‘(The Mālinī alphabet) from N to PH is uttered \[illegible\][^399] It is the Lord of Kula (Kauleśa), who is like the body. It is the Sound (nāda) that contains the Being of Power (śaktisat). (Then, once uttered and) having traversed into the first wheel, which is squeezed with the foot within the organ (yantra) of the Void (khe yantre), the plane of Kaulinī (that is, Kulakunṇdalinī) (arises) from the womb of Being. (42-43ab) 
 
 #### Viveka on 32.42–43
 
 ‘Kauleśa’ is the pure Self that is consciousness, and is the most important (and fundamental of all) secret (spiritual) knowledge. Thus (having) 
 
-398?\. There are two forms of reflective awareness, outer and inner. The former is directed to outer objectivity and is multiple. It is clothed in mental discursive representations (vikalpa) of individual objects, each with their own form and location in space and time. Thus, it is made of the phonemes that constitute words. Inward awareness is directed towards the perceiving and acting subjectivity, which is one, and devoid of conceptual representation, and so is ‘devoid of phonemes’. Concerning these two aspects of reflective awareness, see Dyczkowski 1987: 70-71.
+[^398]: There are two forms of reflective awareness, outer and inner. The former is directed to outer objectivity and is multiple. It is clothed in mental discursive representations (vikalpa) of individual objects, each with their own form and location in space and time. Thus, it is made of the phonemes that constitute words. Inward awareness is directed towards the perceiving and acting subjectivity, which is one, and devoid of conceptual representation, and so is ‘devoid of phonemes’. Concerning these two aspects of reflective awareness, see Dyczkowski 1987: 70-71.
 
-399?\. The utterance of the Mālinī alphabet in the course of ritual or yogic procedure (as taught here, for example) is characteristic of Trika practice in the early Tantras, and so is further evidence that the Vīrāvali was a Trika Tantra. Another characteristic of Trika practice is the projection of the Trika Trident into the body along the axis of the Central Channel (i.e. suṣumnā), as we find here.
+[^399]: The utterance of the Mālinī alphabet in the course of ritual or yogic procedure (as taught here, for example) is characteristic of Trika practice in the early Tantras, and so is further evidence that the Vīrāvali was a Trika Tantra. Another characteristic of Trika practice is the projection of the Trika Trident into the body along the axis of the Central Channel (i.e. suṣumnā), as we find here.
 
 
 *[p. 156]* ^pg174
@@ -683,7 +683,7 @@ hṛcchūlagranthibhedaiś cid rudraśaktiṁ prabodhayet |
 
 #### Viveka on 32.43–44
 
-(Then,) having blocked in some way the power of the vital breath (there), and ‘traversed into’ the remaining five wheels by successively crossing over the group of five causes beginning with Brahmā,” he should awaken Rudra’s power. (This is the power) of the Trident in the Heart, with twelve knots made of the three channels, and that of the Trident located beyond the Cavity of Brahmā, that consists of Power and the rest. (He awakens Rudra’s power) by progressively breaking through (bhedanakramenṇa) (the two-fold Trident). 
+(Then,) having blocked in some way the power of the vital breath (there), and ‘traversed into’ the remaining five wheels by successively crossing over the group of five causes beginning with Brahmā,[^400] he should awaken Rudra’s power. (This is the power) of the Trident in the Heart, with twelve knots made of the three channels, and that of the Trident located beyond the Cavity of Brahmā, that consists of Power and the rest. (He awakens Rudra’s power) by progressively breaking through (bhedanakramenṇa) (the two-fold Trident). 
 
 ### TĀ 32.44–47
 
@@ -697,9 +697,9 @@ hṛcchūlagranthibhedaiś cid rudraśaktiṁ prabodhayet |
 
 candracakravilomena praviśed bhūtapañjare ॥ 45 ॥ 
 
-400?\. The Five Causes are the deities who preside over the five gross elements and corresponding pentads, arranged in the cakras along the axis of the subtle body, marking stations of the ascent of
+[^400]: The Five Causes are the deities who preside over the five gross elements and corresponding pentads, arranged in the cakras along the axis of the subtle body, marking stations of the ascent of
 
-401?\. \[illegible\] See above, note 8,25.
+    \[illegible\] See above, note 8,25.
 
 
 *[p. 157]* ^pg175
@@ -712,13 +712,13 @@ srīmadvīrāvalīyoga eṣa syāt khecarīvidhiḥ |
 
 #### Viveka on 32.44–47
 
-Due to that (awakening), this (rise of Kundalinī takes place,) beginning from the Abode of Birth (up to) the end of the Wheel of the Wind, which is the Foundation of the Wind, near which is located ‘the sphere of the navel’, which is the foundation of its union. ‘The location of the uvula’ is above that. The Foundation of Nectar (sudhā) is the one ‘called Bindw’, located between the eyebrows. The foundation of the channels (of the vital breath) is called the Lotus of Knowledge (vidyākamala). It (i.e. Bindu (??)) has come forth from the twelve knots present there (in those channels) up to the abode of the End of the Twelve, which is beyond all the fetters.” It moves all around in a straight sequence and should be made to rest there. This is the meaning. 
+Due to that (awakening), this (rise of Kundalinī takes place,) beginning from the Abode of Birth (up to) the end of the Wheel of the Wind, which is the Foundation of the Wind, near which is located ‘the sphere of the navel’, which is the foundation of its union. ‘The location of the uvula’ is above that. The Foundation of Nectar (sudhā) is the one ‘called Bindw’, located between the eyebrows. The foundation of the channels (of the vital breath) is called the Lotus of Knowledge (vidyākamala). It (i.e. Bindu (??)) has come forth from the twelve knots present there (in those channels) up to the abode of the End of the Twelve, which is beyond all the fetters.[^401] It moves all around in a straight sequence and should be made to rest there. This is the meaning. 
 
 Then, (descending) again in reverse, which is a turnabout, from the Wheel of the Moon which is in (the flow of) exhalation, in such a way that this (yogi) can behave in a manner proper to (his) rising from meditative absorption. Thus, the meaning in brief is that, in accord with the force and speed of those who know (reality) and have penetrated into Khecarīmudrā, they have the power to emanate and withdraw (all this) by the inner and outer unfolding and withdrawal (of their consciousness). (This matter is expounded in the Vīrāvalītantra) in the context of teaching ‘yoga’. 
 
 He (now) talks about the form of that (Khecarīmudrā) taught in the venerable Kāmika also. 
 
-D) The Seal of the Skyfarer According to the Kāmikatantra” 
+D) The Seal of the Skyfarer According to the Kāmikatantra[^402] 
 
 ### TĀ 32.47–48
 
@@ -729,26 +729,26 @@ D) The Seal of the Skyfarer According to the Kāmikatantra”
 cumbākārenṇa vaktreṇa yat tattvaṁ śrūyate param | 47 ॥
 grasamānam idar viśvan candrārkapuṭasathipuṭe | 
 
-402?\. Read sarvabandhottīrnar for sarvasaṁbandhottīrnaṁ.
+[^401]: Read sarvabandhottīrnar for sarvasaṁbandhottīrnaṁ.
 
-403?\. This passage, drawn from the Kāmikatantra, extends only from 47cd to 48.
+[^402]: This passage, drawn from the Kāmikatantra, extends only from 47cd to 48.
 
 
 *[p. 158]* ^pg176
 
 tenaiva syāt khagāmīti śrīmatkāmika ucyate || 48 || 
 
-It is said in the venerable Kāmika that ‘supreme is the Reality (tattva) (which is the Mantra uttered) with the mouth shaped in the form of a kiss. It is heard, engaged in devouring this universe, within the cavity of the capsule formed by the Moon and Sun.” By just that, (the yogi) becomes a Skyfarer.’ (47cd-48) 
+It is said in the venerable Kāmika that ‘supreme is the Reality (tattva) (which is the Mantra uttered) with the mouth shaped in the form of a kiss. It is heard, engaged in devouring this universe, within the cavity of the capsule formed by the Moon and Sun.[^403] By just that, (the yogi) becomes a Skyfarer.’ (47cd-48) 
 
 #### Viveka on 32.47–48
 
-‘The form of a kiss’ is the energy of Unstruck Sound (anackakalā) which has the form of the cavity of the beak of a crow.\*' By virtue of that, and by means of ‘the mouth’, which is one’s own nature, that takes the support of the energy of the vital breath in the Centre (of the channel of Suṣumnā), ‘this universe’, consisting of the means and object of knowledge, is made one with one’s own nature. Thus the ‘supreme reality’, which is one with the perceiver, ‘is heard’, that is, made directly perceivable, ʻin the cavity’ of the Central Abode ‘of the capsule formed by the Moon and Sun’, that is, the pair, inhalation (prāṇa) and exhalation (apāna). Thus (the yogi) attains the state of flight. This is the meaning of this statement. 
+‘The form of a kiss’ is the energy of Unstruck Sound (anackakalā) which has the form of the cavity of the beak of a crow.[^404] By virtue of that, and by means of ‘the mouth’, which is one’s own nature, that takes the support of the energy of the vital breath in the Centre (of the channel of Suṣumnā), ‘this universe’, consisting of the means and object of knowledge, is made one with one’s own nature. Thus the ‘supreme reality’, which is one with the perceiver, ‘is heard’, that is, made directly perceivable, ʻin the cavity’ of the Central Abode ‘of the capsule formed by the Moon and Sun’, that is, the pair, inhalation (prāṇa) and exhalation (apāna). Thus (the yogi) attains the state of flight. This is the meaning of this statement. 
 
 Now he says (the following) in order to teach the form of this (Mudrā,) with (its) special (characteristics,) taught in the venerable Kulagahvara. 
 
 ### TĀ 32.49–50
 
-E) The Seal of the Skyfarer According to the Kulagahvaratantra 
+E) The Seal of the Skyfarer According to the Kulagahvaratantra[^405] 
 
 भवान्मुक्त्वा द्रावयन्ति पाशान्मद्रा हि शक्तयः ।
 मुख्यासा खेचरी सा च ्रिधोच्चारेण वाचिकौ ॥ ४९ ॥
@@ -758,20 +758,20 @@ bhavān muktvā drāvayanti pāśān mudrā hi śaktayaḥ ।
 mukhyāsām khecarī sā ca tridhoccārenṇa vācikī ॥ 49 ॥
 triśiromudgaro(re) devi kāyikī paripaṭhyate । 
 
-404?\. See above, 3/168cd-170ab (168-169) and note and also PT 12cd ff. Abhinava clearly identifies his source as the Kāmika. Even so, the first line of his citation is practically the same as the first line of NTS mūlasūtra 6/10, and that reads: cumbākāreṇa vaktreṇa yat tattvaṁ śrūyate bhuvi | kalādhantari vijānīyād ākāśasthaṁi ca me śṛnu Il ‘That TATTVA (Mantra) that is heard on earth (bhuvi) (when it is uttered) with the mouth shaped in the form of a kiss: (this) one should know to be KALĀDHYA.’ (modified translation by Goodall et al.) Also, Sārdhatriśatikālottara 19/6ab: cumbākārenṇa vaktrenṇa tat tattvaṁ parikīrtitam | Goodall et al. suggest that ‘In other words this could be a sort of whistling sound produced by breathing HUM through the mouth when the lips are pushed forward into a moue.” See also Goodall, Vasudeva and Isaacson, ‘\*tattva\` in Tantrābhidhānakośa vol. 3 p. 55.
+[^403]: See above, 3/168cd-170ab (168-169) and note and also PT 12cd ff. Abhinava clearly identifies his source as the Kāmika. Even so, the first line of his citation is practically the same as the first line of NTS mūlasūtra 6/10, and that reads: cumbākāreṇa vaktreṇa yat tattvaṁ śrūyate bhuvi | kalādhantari vijānīyād ākāśasthaṁi ca me śṛnu Il ‘That TATTVA (Mantra) that is heard on earth (bhuvi) (when it is uttered) with the mouth shaped in the form of a kiss: (this) one should know to be KALĀDHYA.’ (modified translation by Goodall et al.) Also, Sārdhatriśatikālottara 19/6ab: cumbākārenṇa vaktrenṇa tat tattvaṁ parikīrtitam | Goodall et al. suggest that ‘In other words this could be a sort of whistling sound produced by breathing HUM through the mouth when the lips are pushed forward into a moue.” See also Goodall, Vasudeva and Isaacson, ‘\*tattva\` in Tantrābhidhānakośa vol. 3 p. 55.
 
-405?\. a Crow, see above 3/168cd-170ab (168-169) and note.
+[^404]: a Crow, see above 3/168cd-170ab (168-169) and note.
 
-406?\. This passage drawn from the Kulagahvara extends from 49 to 53.
+[^405]: This passage drawn from the Kulagahvara extends from 49 to 53.
 
 
 *[p. 159]* ^pg177
 
-Mudrās are indeed powers, (and are so called because,) having liberated (muktvā) from transmigratory existence (bhava), they melt away (drāvayanti) the fetters. Of these, the main one is the Skyfarer, which is of three kinds. (Of these three, its) the vocalic (form is produced) by utterance. O Goddess, the bodily one is called ‘the Hammer with Three 
+Mudrās are indeed powers, (and are so called because,) having liberated (muktvā) from transmigratory existence (bhava), they melt away (drāvayanti) the fetters. Of these, the main one is the Skyfarer, which is of three kinds.[^406] (Of these three, its) the vocalic (form is produced) by utterance. O Goddess, the bodily one is called ‘the Hammer with Three 
 
 Heads’. 
 
-“ (49-50ab) 
+[^407] (49-50ab) 
 
 #### Viveka on 32.49–50
 
@@ -797,9 +797,11 @@ In the very same way, supreme consciousness has poured forth as the body. Thus h
 \[illegible\] \[illegible\] cāpi hṛt stanadvayam eva ca ॥ 50 ॥
 vṛṣaṇadvayaliṅgari ca prāpya \[illegible\] gatā tv iyam | 
 
-407?\. The three kinds of mudrā are those of the body, speech and mind. Above in 32/9cd, it is said that mudrās are four kinds, that is, these three as well as hands.
+[^406]: The three kinds of mudrā are those of the body, speech and mind. Above in 32/9cd, it is said that mudrās are four kinds, that is, these three as well as hands.
 
-408?\. Abhinava has condensed 32/49ab the following verse, quoted by Jayaratha from the Kulagahvara:: mocayanti mahāghorāt saṁmisāramakarākarāt | drāvayanti paśoḥ pāśāris tena mudrā hi śaktayaḥ ॥ ‘They liberate from the greatly terrible world of transmigratory existence, which has the form of a sea monster, and melt away the fetters of the fettered soul, and so Mudrās are (indeed) powers.” as \[ Mothers | Mudrā /Kula Location TA Location (2) Brāhmiṇī Lotus | Hen | Nose Māheśvarī Trident Three Channels Right Eye Vaiṣṇavī Wheel Navel Left Eye Endof Sound | Hean ěć | Javelin टा Yāmī Staff | Poim\_ \_\_ | Right Breast पा | ना | Thunderbolt | Min | Left Breast Cāmuṇqdā Tooth Tongue Two Testicles Yogeśvarī Skull Firmament Penis Jayaratha does not tell us the name of the source from which he is quoting. It is clear from this table that the locations of the mudrās as listed by Abhinava and Jayaratha’s source are not the same. Perhaps the references are to two sets of locations both listed in the Kulagahvara, but this seems unlikely.
+[^407]: Abhinava has condensed 32/49ab the following verse, quoted by Jayaratha from the Kulagahvara:: mocayanti mahāghorāt saṁmisāramakarākarāt | drāvayanti paśoḥ pāśāris tena mudrā hi śaktayaḥ ॥ ‘They liberate from the greatly terrible world of transmigratory existence, which has the form of a sea monster, and melt away the fetters of the fettered soul, and so Mudrās are (indeed) powers.”
+
+[^408]: \[ Mothers | Mudrā /Kula Location TA Location (2) Brāhmiṇī Lotus | Hen | Nose Māheśvarī Trident Three Channels Right Eye Vaiṣṇavī Wheel Navel Left Eye Endof Sound | Hean ěć | Javelin टा Yāmī Staff | Poim\_ \_\_ | Right Breast पा | ना | Thunderbolt | Min | Left Breast Cāmuṇqdā Tooth Tongue Two Testicles Yogeśvarī Skull Firmament Penis Jayaratha does not tell us the name of the source from which he is quoting. It is clear from this table that the locations of the mudrās as listed by Abhinava and Jayaratha’s source are not the same. Perhaps the references are to two sets of locations both listed in the Kulagahvara, but this seems unlikely.
 
 
 *[p. 160]* ^pg178
@@ -809,7 +811,7 @@ bhavasthānābhavasthānam uccāreṇāvadhārayet || 51 ॥
 
 Having reached the nose, the two eyes, the heart, the two breasts, the two testicles and the penis, this (mudrā) is present (in all) the body. One should ascertain the abode of transmigration and the abode of its absence by the upward movement (uccārena) (of Mudrā). This is the mental (form 
 
-of the Seal of the Skyfarer).“ (50cd-52a) 
+of the Seal of the Skyfarer).[^408] (50cd-52a) 
 
 #### Viveka on 32.50–52
 
@@ -837,7 +839,7 @@ Apart from (the Skyfarer,) there are eight (other) mudras, including (the Seal o
 
 The meaning is, it moves upwards in the way (described in such passages). There ‘are eight’. As is said (in the Kulagahvara): 
 
-‘Khecarī’s entourage is said to consists of eight seals \[illegible\] O mistress of the gods, they are said to be in the group of eight families Kulas” within the group of Mothers. (They are) 1) the Lotus (padma), 2) the Trident \[illegible\] 3) the Wheel (cakra), 4) the Javelin (śakti), 5) the Staff (danda), along with 6) the Thunderbolt (vajra), 7) the Tooth (daṁṣtra), and 8) the Skull (kapāla) - all of this is arranged (there) in this way 
+‘Khecarī’s entourage is said to consists of eight seals \[illegible\][^409] O mistress of the gods, they are said to be in the group of eight families Kulas[^410] within the group of Mothers. (They are) 1) the Lotus (padma), 2) the Trident \[illegible\] 3) the Wheel (cakra), 4) the Javelin (śakti), 5) the Staff (danda), along with 6) the Thunderbolt (vajra), 7) the Tooth (daṁṣtra),[^411] and 8) the Skull (kapāla) - all of this is arranged (there) in this way[^412] 
 
 ‘The phoneme (kūfākṣara)’ is KṢ. This, along with (a description of its) nature, has been established previously many times. The (main) characteristic of the Bhairava Mudrā mentioned before has also been taught thus. 
 
@@ -845,18 +847,18 @@ In order to explain that (the teachings concerning this Mudrā) are consistent e
 
 ### TĀ 32.54–55
 
-F) The Seal of the Skyfarer According to the Bhargāṣṭakaśikhākula सूपविष्टः पद्मके तु हस्ताग्राहुलिरश्मिभिः ।
+F) The Seal of the Skyfarer According to the Bhargāṣṭakaśikhākula[^413] सूपविष्टः पद्मके तु हस्ताग्राहुलिरश्मिभिः ।
 पराङ्मुखैरडरित्युदयदररिमिभिः पृष्टसंस्थितै : ॥ ५४ ॥
 
-409?\. By reading with Ṭh: parivārāya for parivāras tu, the meaning would be “there are said to be eight seals, that serve to make up Khecarī’s entourage.”
+[^409]: By reading with Ṭh: parivārāya for parivāras tu, the meaning would be “there are said to be eight seals, that serve to make up Khecarī’s entourage.”
 
-410?\. Read with MS \[illegible\] kulāṣtake for 51144.
+[^410]: Read with MS \[illegible\] kulāṣtake for 51144.
 
-411?\. Read daṁṣtraṁ for daṁṣtrā.
+[^411]: Read daṁṣtraṁ for daṁṣtrā.
 
-412?\. This set of eight Mudrās associated with the Mothers goes back to the Brahmayāmala, one of the first Bhairava Tantras. There they are listed as follows, with just a small variation in their sequential order: sūlamudrā tathā padmaṁ cakraṁ Śaktistathaiva \[k: śaktī tathaiva\] ca ॥ 182 ॥ 88a) dandaṁ caiva tathā vajran draṁṣtrāṁ caiva \[k: draṣtrāścaiva\] kapālakaḥ \[k: -kam\] \\ etā mudrāḥ \[k: mudrā\] samākhyātā \[k: tāṁ\] mātṛnāṁi ca yathākramaḥ \[k: -mam\] ॥ 183॥ “The Mudrā of the Trident, the Lotus, and the Javelin, so too that of the Staff, the Thunderbolt, the Tooth and the Skull.” BY 12/182cd-183
+[^412]: This set of eight Mudrās associated with the Mothers goes back to the Brahmayāmala, one of the first Bhairava Tantras. There they are listed as follows, with just a small variation in their sequential order: sūlamudrā tathā padmaṁ cakraṁ Śaktistathaiva \[k: śaktī tathaiva\] ca ॥ 182 ॥ 88a) dandaṁ caiva tathā vajran draṁṣtrāṁ caiva \[k: draṣtrāścaiva\] kapālakaḥ \[k: -kam\] \\ etā mudrāḥ \[k: mudrā\] samākhyātā \[k: tāṁ\] mātṛnāṁi ca yathākramaḥ \[k: -mam\] ॥ 183॥ “The Mudrā of the Trident, the Lotus, and the Javelin, so too that of the Staff, the Thunderbolt, the Tooth and the Skull.” BY 12/182cd-183
 
-413?\. This passage, drawn from the Bhargāṣṭakasikhākula extends from verse 54 to 62. Presumably this is the Bhargavaśikhā / Bhargaśikha Abhinava quotes in several places.
+[^413]: This passage, drawn from the Bhargāṣṭakasikhākula extends from verse 54 to 62. Presumably this is the Bhargavaśikhā / Bhargaśikha Abhinava quotes in several places.
 
 
 *[p. 162]* ^pg180
@@ -867,7 +869,7 @@ sūpaviṣtaḥ padmake tu hastāgrāmiguliraśmibhiḥ |
 parāùmukhair jhaṭity udyadraśmibhiḥ pṛṣthasaṁsthitaiḥ | 54 ॥
 antahsthitiḥ khecarīyaṁ saṁkocākhyā śaśāṁkinī | 
 
-1\) (The yogi,) well seated in the lotus posture, (experiences) the inner state (of rest when he engulfs and withdraws outer objectivity) with the (lunar) rays located on the back of the fingers on the forepart of (his) hands, that emerge all of a sudden, turned away (from \[illegible\] This (first form of the Seal of the) Skyfarer is (the Goddess of the Moon) Śaśāṁkinī, who is (also appropriately) called ‘Retraction’ (sarrkocā).’(54-55ab) 
+1\) (The yogi,) well seated in the lotus posture, (experiences) the inner state (of rest when he engulfs and withdraws outer objectivity) with the (lunar) rays located on the back of the fingers on the forepart of (his) hands, that emerge all of a sudden, turned away (from \[illegible\][^414] This (first form of the Seal of the) Skyfarer is (the Goddess of the Moon) Śaśāṁkinī, who is (also appropriately) called ‘Retraction’ (sarrkocā).[^415] (54-55ab) 
 
 #### Viveka on 32.54–55
 
@@ -878,21 +880,21 @@ Here (engaged in this practice), the yogi sits in the lotus or other such postur
 तस्मादेव समुत्तम्य बाहू चैवावकुञचितौ ॥ ५५ ॥
 सम्यग्व्योमसु संस्थानाद् व्योमाख्या खेचरी मता ।
 
-414?\. The citation appears to be a contracted paraphrase of the original. As it is so concise, the meaning is not immediately clear. If Jayaratha had a copy of the original, one wonders why he did not quote it. Perhaps the original was no less enigmatic. Jayaratha’s explanation is plausible, although one would wish for more details. The printed text reads pṛṣṭhasaṁsthitaiḥ — ‘located at the back (of the hand)’ qualifying udyadrasśmibhiḥ ‘emerging rays’. This leads to a possible meaning that there are two sets of rays ~ those from the tips of the fingers and those from the back of the hands. But this makes little sense, nor does Jayaratha’s explanation support this interpretation. Perhaps the reading should be emended to pṛṣṭhasaṁsthitaḥ — ‘located behind’ qualifying the unstated subject (i.e. the yogi), as Jayaratha’s interpretation suggests. The yogi is ‘located behind’ his hands, i.e. they are in front of him. Presumably they are upraised before him.
+[^414]: The citation appears to be a contracted paraphrase of the original. As it is so concise, the meaning is not immediately clear. If Jayaratha had a copy of the original, one wonders why he did not quote it. Perhaps the original was no less enigmatic. Jayaratha’s explanation is plausible, although one would wish for more details. The printed text reads pṛṣṭhasaṁsthitaiḥ — ‘located at the back (of the hand)’ qualifying udyadrasśmibhiḥ ‘emerging rays’. This leads to a possible meaning that there are two sets of rays ~ those from the tips of the fingers and those from the back of the hands. But this makes little sense, nor does Jayaratha’s explanation support this interpretation. Perhaps the reading should be emended to pṛṣṭhasaṁsthitaḥ — ‘located behind’ qualifying the unstated subject (i.e. the yogi), as Jayaratha’s interpretation suggests. The yogi is ‘located behind’ his hands, i.e. they are in front of him. Presumably they are upraised before him.
 
-415?\. These rather difficult lines seem to me to be teaching the following practice. The yogi sits in the lotus posture with his hands raised in front of him, the palms facing towards him. The fingers are held straight. He should imagine that rays of lunar light emerge suddenly and with great force from the back of his fingers and hands and go out into the outer world. This presumably takes place when the yogi exhales. Then, it seems, the lunar breath of inhalation withdraws the outer lunar realm of objectivity into the yogi\`’s subjective consciousness. Thus, he experiences the inner state of rest within that consciousness. Then, if he succeeds in doing this, the yogi enters the first form of a series of eight Seals of the Skyfaring Goddess Khecarī, in which She is called Śaśāṁkinī — the Goddess of the Moon. As the objectivity withdrawn in this way contracts, she is also called ‘Retraction’ (Saṁkocā, literally \*Contraction’).
+[^415]: These rather difficult lines seem to me to be teaching the following practice. The yogi sits in the lotus posture with his hands raised in front of him, the palms facing towards him. The fingers are held straight. He should imagine that rays of lunar light emerge suddenly and with great force from the back of his fingers and hands and go out into the outer world. This presumably takes place when the yogi exhales. Then, it seems, the lunar breath of inhalation withdraws the outer lunar realm of objectivity into the yogi\`’s subjective consciousness. Thus, he experiences the inner state of rest within that consciousness. Then, if he succeeds in doing this, the yogi enters the first form of a series of eight Seals of the Skyfaring Goddess Khecarī, in which She is called Śaśāṁkinī — the Goddess of the Moon. As the objectivity withdrawn in this way contracts, she is also called ‘Retraction’ (Saṁkocā, literally \*Contraction’).
 
 
 *[p. 163]* ^pg181
 
-tasmād eva samuttamyaṛ bāhū caivāvakuñcitau ॥ 55 ॥
+tasmād eva samuttamya[^416] bāhū caivāvakuñcitau ॥ 55 ॥
 samyag vyomasu saṁsthānād vyomākhyā khecarī matā | 
 
 2\) Then having raised the arms well bent, he abides well in the Voids and so this (form of) Khecarī is considered to be (the one) called the (Seal of the) Void (vyomākhyā). (55cd-56ab) 
 
 #### Viveka on 32.55–56
 
-Maintaining that same positioning of the hands and fingers etc., ‘having raised” the arms well bent’ in the form of a diagonal cross (svastika), and fixed them (in that position) by abiding well, that is, with profound resolution (gādhāvaṣtambha), by means of the aforementioned process (of withdrawal of objectivity) within the five Voids, referred to in (such statements as) ‘the Void is endless and is called Māyā’, the second (form of Khecarī Mudrā is formed,) ‘called the (Seal of the) Void ( vyomākhyā). 
+Maintaining that same positioning of the hands and fingers etc., ‘having raised[^417] the arms well bent’ in the form of a diagonal cross (svastika), and fixed them (in that position) by abiding well, that is, with profound resolution (gādhāvaṣtambha), by means of the aforementioned process (of withdrawal of objectivity) within the five Voids, referred to in (such statements as) ‘the Void is endless and is called Māyā’, the second (form of Khecarī Mudrā is formed,) ‘called the (Seal of the) Void ( vyomākhyā). 
 
 ### TĀ 32.56
 
@@ -918,9 +920,9 @@ samadṛṣtyāvalokyaṁ ca bahiryojitapāṇikam ॥ 57 ॥
 
 Again, the word ‘hand’ (in this case) denotes, by association, the arm, and so (what is meant by saying ‘the two hands’ is actually) the two arms. The left one is below and the right one is above. Although the hands face each other inwardly (i.e. the back of the left hand is placed in the palm of the right one), ‘the upraised one’, that is, the (right) hand that is above, should be observed 
 
-416?\. Read samuttamya for samuttambya.
+[^416]: Read samuttamya for samuttambya.
 
-417?\. Read samuttamya for samuttambya.
+[^417]: Read samuttamya for samuttambya.
 
 
 *[p. 164]* ^pg182
@@ -1011,7 +1013,7 @@ The ‘many kinds’ are (the Seals) of the Trident and the rest. As there is no
 
 *[p. 166]* ^pg184
 
-‘One is the seed-syllable made of emanation and one is the Seal, which is the Skyfarer. He who knows the two (to be) one is indeed worthy of veneration in the Kula tradition \[illegible\] = 
+‘One is the seed-syllable made of emanation and one is the Seal, which is the Skyfarer. He who knows the two (to be) one is indeed worthy of veneration in the Kula tradition \[illegible\][^418] 
 
 Thus he says: 
 
@@ -1055,7 +1057,7 @@ The Various Occasions When the Seals are Applied (kālabheda)
 
 yāgādau tanmadhye 
 
-418?\. \[illegible\] This verse is quoted in brief and explained in verse 32/64; verses 63 and 65 is part of this explanation.
+[^418]: \[illegible\] This verse is quoted in brief and explained in verse 32/64; verses 63 and 65 is part of this explanation.
 
 
 *[p. 167]* ^pg185

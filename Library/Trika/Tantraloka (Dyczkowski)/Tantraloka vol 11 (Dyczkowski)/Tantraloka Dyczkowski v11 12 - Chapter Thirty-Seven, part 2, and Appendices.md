@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 *[p. 268]* ^pg286
 
-‘O Śiva’, Supreme Lord! It is You who are the one that hears me. ‘Listen (graciously) to this essence’ which is in the midst of the scriptures, ‘composed’ with the excellence which is that of encompassing in itself all knowledge and its true nature, ‘by Abhinavagupta’, who has attained fame (prasiddhi) by (constantly) reflecting (cintana) on Your (sacred) feet. This is the meaning. It is for this reason that ‘you who hear (everything) in all respects’ are omniscient to this same extent. The sense is that one who is not omniscient does not have the competence to ascertain (its true and complete meaning). Moreover, that alone is not the reason here (to write this book). Thus he says: ‘this, in truth, is praise (nuti) (dedicated) to You’. (However,) one should not consider that the nature of this (book) is just a hymn. Thus he says: ‘indeed, it is an examination of your nature’. The meaning is that ‘This’ ‘praise (nuti)’ (that is dedicated) to You’ is the examination of Your nature as the object of praise, that is, the repeated reflective awareness of (Your) own nature. It is this (praise) alone of Śiva, Who is nondual consciousness, that is described here with every word. Thus, O Lord, being satisfied with my praise (abhinava) (or ‘with me Abhinava’), which is (this) hymn (nava) (that eulogises You) in every way (abhitaḥ) all around, ‘make the (whole) world one with Yourself! Make it one with Your own nature, as one’s own nature that has been recognized (to be Yours,) so that everybody may be competent to understand (and attain) that. This is the auspicious (end). 
+‘O Śiva’, Supreme Lord! It is You who are the one that hears me. ‘Listen (graciously) to this essence’ which is in the midst of the scriptures, ‘composed’ with the excellence which is that of encompassing in itself all knowledge and its true nature, ‘by Abhinavagupta’, who has attained fame (prasiddhi) by (constantly) reflecting (cintana) on Your (sacred) feet. This is the meaning. It is for this reason that ‘you who hear (everything) in all respects’ are omniscient to this same extent. The sense is that one who is not omniscient does not have the competence to ascertain (its true and complete meaning). Moreover, that alone is not the reason here (to write this book). Thus he says: ‘this, in truth, is praise (nuti) (dedicated) to You’. (However,) one should not consider that the nature of this (book) is just a hymn.[^654] Thus he says: ‘indeed, it is an examination of your nature’. The meaning is that ‘This’ ‘praise (nuti)’ (that is dedicated) to You’ is the examination of Your nature as the object of praise, that is, the repeated reflective awareness of (Your) own nature. It is this (praise) alone of Śiva, Who is nondual consciousness, that is described here with every word. Thus, O Lord, being satisfied with my praise (abhinava) (or ‘with me Abhinava’), which is (this) hymn (nava) (that eulogises You) in every way (abhitaḥ) all around, ‘make the (whole) world one with Yourself! Make it one with Your own nature, as one’s own nature that has been recognized (to be Yours,) so that everybody may be competent to understand (and attain) that. This is the auspicious (end). 
 
 ‘Jayaratha explained this, the thirty-seventh chapter (of the Tantrāloka). May the wise (sat) reflect on this right up to the end, and may it be auspicious in every way.’ 
 
@@ -34,14 +34,14 @@ The illustrious and most excellent teacher has, with incomparable effort, examin
 
 He who has studied (each and every) word in all the scriptures, who exerts himself in (the practices taught in) the treatises on Yoga \[illegible\] he who has developed passion for the coherence of the teachings declared (in the scriptures) (vākyārtha) which is the nectar of the illustrious (philosophy of) recognition, he who by virtue of his extensive study of other (forms of) 
 
-654?\. Read stotrarūpatvam eva atrāsyāstīti for stotrarūpatvaṁ ca atra na astīti.
+[^654]: Read stotrarūpatvam eva atrāsyāstīti for stotrarūpatvaṁ ca atra na astīti.
 
 
 *[p. 269]* ^pg287
 
 ### Dyczkowski's verse 2
 
-reasoning, possesses the knowledge of duality and nonduality,'! may he be competent in this (teaching). The words of others is like prattle. (2) 
+reasoning, possesses the knowledge of duality and nonduality,[^655] may he be competent in this (teaching). The words of others is like prattle. (2) 
 
 ### Dyczkowski's verse 3
 
@@ -61,15 +61,15 @@ He who, in order to make this universe, prevails over everything; He who, becaus
 
 ### Dyczkowski's verse 7
 
-That which makes wine (maireya)'" have the greatest effect, that none would not desire, the Goddess Śāradā, who makes known the supreme nature of knowledge, and the Vitastā that assumes dexterous exertion in good action —where that unimpaired triad (trika) (of will, knowledge and action) is found, it nourishes intensely the ordinance (praśasti) (of Śiva and the king). (7) 
+That which makes wine (maireya)[^656] have the greatest effect, that none would not desire, the Goddess Śāradā, who makes known the supreme nature of knowledge, and the Vitastā that assumes dexterous exertion in good action —where that unimpaired triad (trika) (of will, knowledge and action) is found, it nourishes intensely the ordinance (praśasti) (of Śiva and the king). (7) 
 
 ### Dyczkowski's verse 8
 
 Within (that land of Kashmir) is Pravarapura (the Most Excellent City) which, embodied, is named in accord with truth (tathya). The one who made it was (the most excellent -- pravara) king Pravara (by name), who attained success (siddhi) because he was before (all others), as the Lord whose body 
 
-655?\. One could also translate dvaitādvayajñāna- as “the knowledge of the nonduality of duality’.
+[^655]: One could also translate dvaitādvayajñāna- as “the knowledge of the nonduality of duality’.
 
-656?\. Maireya is a kind of intoxicating drink made of two kinds of wine, surā and asava.
+[^656]: Maireya is a kind of intoxicating drink made of two kinds of wine, surā and asava.
 
 
 *[p. 270]* ^pg288
@@ -82,7 +82,7 @@ Within (that land of Kashmir) is Pravarapura (the Most Excellent City) which, em
 
 ### Dyczkowski's verse 10
 
-Adoring the city, the illustrious king Yaśaskara'\* brought low the condition of the rule of Dharmasūnu by discriminating discernments of what is true and false, and made the one called Pūrṇamanoratha’' minister in all matters concerning the stability of Dharma. (10) 
+Adoring the city, the illustrious king Yaśaskara[^657] brought low the condition of the rule of Dharmasūnu by discriminating discernments of what is true and false, and made the one called Pūrṇamanoratha[^658] minister in all matters concerning the stability of Dharma. (10) 
 
 ### Dyczkowski's verse 11-12
 
@@ -94,24 +94,24 @@ Sūryaratha, like Viṣṇu with four arms, had as many sons, who were skilful i
 
 ### Dyczkowski's verse 14
 
-In the monastery (called) Vartakāra in Śālāsthāna, Utpala and Amṛtaratha, who were (the embodiment of) good deeds and diligent work, took refuge with the Brahmins (who resided there)."'\* (14) 
+In the monastery (called) Vartakāra in Śālāsthāna, Utpala and Amṛtaratha, who were (the embodiment of) good deeds and diligent work, took refuge with the Brahmins (who resided there).[^659] (14) 
 
 ### Dyczkowski's verse 15
 
-The armies (niveśa) of the (king of) of the land of Trigarta'” were made to hang, (helplessly drenched) by the waters of the rut of the elephants (of Ananta’s army). (The armies) complained that (the earth was) languishing (and 
+The armies (niveśa) of the (king of) of the land of Trigarta[^660] were made to hang, (helplessly drenched) by the waters of the rut of the elephants (of Ananta’s army). (The armies) complained that (the earth was) languishing (and 
 
-658?\. Yagaskara ruled from 939 to 948 CE.
+[^657]: Yagaskara ruled from 939 to 948 CE.
 
-659?\. Rastogi 1987: 88: ‘Pūrṇamanoratha, the first known ancestor of Jayaratha, was a colleague of Vallabha who was a minister in king Yaśaskara’s court. We have seen that his son Śauri was Abhinava’s senior contemporary, and grandson Karna was married to Ambā, Abhinava’s sister.”
+[^658]: Rastogi 1987: 88: ‘Pūrṇamanoratha, the first known ancestor of Jayaratha, was a colleague of Vallabha who was a minister in king Yaśaskara’s court. We have seen that his son Śauri was Abhinava’s senior contemporary, and grandson Karna was married to Ambā, Abhinava’s sister.”
 
-660?\. The Sanskrit reads: sālāsthāne vartakāre mathe sukṛtakarmaṭhau | teṣūtpalāmṛtarathau cakrāte dvijasaiśrayau ॥ This translation is based on the one in Hindi by Paramhaṁsa Miśrā. 1 suggest the following one: ‘Amongst them, Utpala(ratha) and Amṛtaratha established two monasteries (maṭha), that were engaged in good (spiritual) work and were the support of (virtuous) Brahmins in a place there was (formerly) a metal workshop (vartakāra (?)). (12)
+[^659]: The Sanskrit reads: sālāsthāne vartakāre mathe sukṛtakarmaṭhau | teṣūtpalāmṛtarathau cakrāte dvijasaiśrayau ॥ This translation is based on the one in Hindi by Paramhaṁsa Miśrā. 1 suggest the following one: ‘Amongst them, Utpala(ratha) and Amṛtaratha established two monasteries (maṭha), that were engaged in good (spiritual) work and were the support of (virtuous) Brahmins in a place there was (formerly) a metal workshop (vartakāra (?)). (12)
 
-661?\. This was another name for Jālandhara, which is situated in the northwest of India.
+[^660]: This was another name for Jālandhara, which is situated in the northwest of India.
 
 
 *[p. 271]* ^pg289
 
-decreasing in vigour (mlāni)), and so too of the sullied state of the spreading reputation of king there (of that place). (In response,) Ananta," (the king who was) like the moon of the earth, put to flight with great force (the darkness of) the king of the Dards. Having attained (on that occasion) the status of his minister, Utpala(ratha) (now) also (attained) a befitting path (paddhati) on the road to liberation (as did the king). (15) 
+decreasing in vigour (mlāni)), and so too of the sullied state of the spreading reputation of king there (of that place). (In response,) Ananta,[^661] (the king who was) like the moon of the earth, put to flight with great force (the darkness of) the king of the Dards. Having attained (on that occasion) the status of his minister, Utpala(ratha) (now) also (attained) a befitting path (paddhati) on the road to liberation (as did the king). (15) 
 
 ### Dyczkowski's verse 16
 
@@ -123,7 +123,7 @@ Although (Vibhūtidatta) out of love for him had taught his eldest son all the s
 
 ### Dyczkowski's verse 18
 
-(From Utpalaratha) he obtained (the teaching concerning) union (with a Yoginī) (melāpa) which, threaded through with great Kaulika'" knowledge, is glorious and should be given to just one (most excellent) disciple. Having attained the reality which is free of (further) rebirth, that Brahmin (Utpalaratha), who was (just like) the Lord who sustained the world, gave (the teaching (artha) concerning (freedom from) further rebirth) to Śrīcakra, (a pupil of Vibhūtidatta). From Śrīcakra, (Viśvadatta) took all (the teaching,) that was obtained from the lineage of his own the father, along with the competence (to practice it that) was given (with it). (18) 
+(From Utpalaratha) he obtained (the teaching concerning) union (with a Yoginī) (melāpa) which, threaded through with great Kaulika[^662] knowledge, is glorious and should be given to just one (most excellent) disciple. Having attained the reality which is free of (further) rebirth, that Brahmin (Utpalaratha), who was (just like) the Lord who sustained the world, gave (the teaching (artha) concerning (freedom from) further rebirth) to Śrīcakra, (a pupil of Vibhūtidatta). From Śrīcakra, (Viśvadatta) took all (the teaching,) that was obtained from the lineage of his own the father, along with the competence (to practice it that) was given (with it). (18) 
 
 ### Dyczkowski's verse 19
 
@@ -131,17 +131,17 @@ Now when his teacher (Vibhūtidatta passed away and) attained oneness with the S
 
 ### Dyczkowski's verse 20
 
-(Then,) in order to live there, (Viśvadatta moved to) a monastery (maṭha) in front a temple constructed by the illustrious Kanakadatta who, after he had (constructed it,) gave him the full amount of gold and immovable assets (for his maintenance). (20) 
+(Then,) in order to live there, (Viśvadatta moved to) a monastery (maṭha) in front a temple constructed by the illustrious Kanakadatta[^663] who, after he had (constructed it,) gave him the full amount of gold and immovable assets (for his maintenance). (20) 
 
 ### Dyczkowski's verse 21
 
 (Utpalaratha) obtained four sons called Śiva(ratha), Śakra(ratha), Samma(ratha) and Nandiratha. Their intentions extremely profound and 
 
-662?\. King Ananta ruled from 1028 to 1063 CE.
+[^661]: King Ananta ruled from 1028 to 1063 CE.
 
-663?\. Read kaulika- for laukika-.
+[^662]: Read kaulika- for laukika-.
 
-664?\. Tt 15 not possible to say who this Kanakadatta was. He was possibly a relative of Vibhūtidatta, as their common surname ‘datta’ may indicate.
+[^663]: Tt 15 not possible to say who this Kanakadatta was. He was possibly a relative of Vibhūtidatta, as their common surname ‘datta’ may indicate.
 
 
 *[p. 272]* ^pg290
@@ -154,11 +154,11 @@ They attained great proficiency in the daily practice of devotion to Śiva. (The
 
 ### Dyczkowski's verse 24
 
-Authority (to be a minister) was conferred upon that learned man by king Ucchala."! Having created a stable state of law and order (dharma) (in the country) for some time, free of clinging, he renounced (his post). (24) 
+Authority (to be a minister) was conferred upon that learned man by king Ucchala.[^664] Having created a stable state of law and order (dharma) (in the country) for some time, free of clinging, he renounced (his post). (24) 
 
 ### Dyczkowski's verse 25
 
-By Śiva’s grace," from Sammaratha (two sons) were born, called Gunṇaratha and Devaratha, who, like worldly enjoyment and liberation, were the hope of all. (25) 
+By Śiva’s grace,[^665] from Sammaratha (two sons) were born, called Gunṇaratha and Devaratha, who, like worldly enjoyment and liberation, were the hope of all. (25) 
 
 ### Dyczkowski's verse 26
 
@@ -178,15 +178,15 @@ Greedy for the dust of (her saintly husband’s) feet, (his widow) served the wi
 
 ### Dyczkowski's verse 30
 
-This (son), Śṛṁgāraratha by name, his virtue well known (to all), whom the illustrious Rājarāja in due course appointed as a minister, was brought up (as a child) by that mother called Sattvā. (30)'” 
+This (son), Śṛṁgāraratha by name, his virtue well known (to all), whom the illustrious Rājarāja in due course appointed as a minister, was brought up (as a child) by that mother called Sattvā. (30)[^666] 
 
 #### Viveka on Dyczkowski's verse 30
 
-665?\. King Ucchala reigned from 1101 to 1111 CE.
+[^664]: King Ucchala reigned from 1101 to 1111 CE.
 
-666?\. Read sivānugrahād for sivānugagād.
+[^665]: Read sivānugrahād for sivānugagād.
 
-667?\. Sanderson has translated this verse, concerning which he writes (2006b: 159-160 and ibid. note 579): ‘Evidence of the date of Rājānaka Jayaratha is here in the last verses of his commentary. There he tells us that his father Śṛṅgāraratha was made a minister by the king Rājarāja. It was his father who inspired him to write his commentary on the Tantrāloka (v. 30). At the end of his commentary (-vimarśinī) on Ruyyaka’s Alaṁkārasarvasva (p. 753, Il 10-15), he reports that his father Śṛṁgāraratha was the principal minister (mantrinām agranīḥ) of Rājarāja. No Kashmiri king has precisely this name, but it is evident that Jayaratha means Rājadeva who lived in Kashmir for 23 years from AD 1213-1236 (Jonarāja, Rājataraṁginī, vv. 75 and 87). Jayaratha tells us (in these verses) that Śivaratha, a brother of his great-great-grandfather had served as a minister under King Uccala, who ruled Kashmir from AD 1101 to 1111. Jayaratha quotes the Rājataraṁginī of Kalhana in his commentary on the Alaṅkārasarvasva (p. 720, 1 3-26). Kalhaṇa began his work in AD 1148/9 and completed it in the following year, only five years before the end of the reign of Jayasiṁha (1128-1155). (pace Rastogi 1979: 210 and Pandey 1963: 262) who identify Rājarāja with this Jayasiṁha.”
+[^666]: Sanderson has translated this verse, concerning which he writes (2006b: 159-160 and ibid. note 579): ‘Evidence of the date of Rājānaka Jayaratha is here in the last verses of his commentary. There he tells us that his father Śṛṅgāraratha was made a minister by the king Rājarāja. It was his father who inspired him to write his commentary on the Tantrāloka (v. 30). At the end of his commentary (-vimarśinī) on Ruyyaka’s Alaṁkārasarvasva (p. 753, Il 10-15), he reports that his father Śṛṁgāraratha was the principal minister (mantrinām agranīḥ) of Rājarāja. No Kashmiri king has precisely this name, but it is evident that Jayaratha means Rājadeva who lived in Kashmir for 23 years from AD 1213-1236 (Jonarāja, Rājataraṁginī, vv. 75 and 87). Jayaratha tells us (in these verses) that Śivaratha, a brother of his great-great-grandfather had served as a minister under King Uccala, who ruled Kashmir from AD 1101 to 1111. Jayaratha quotes the Rājataraṁginī of Kalhana in his commentary on the Alaṅkārasarvasva (p. 720, 1 3-26). Kalhaṇa began his work in AD 1148/9 and completed it in the following year, only five years before the end of the reign of Jayasiṁha (1128-1155). (pace Rastogi 1979: 210 and Pandey 1963: 262) who identify Rājarāja with this Jayasiṁha.”
 
 
 *[p. 273]* ^pg291
@@ -197,7 +197,7 @@ Although (his enemies) where made to wither away in the fire of his majesty, tha
 
 ### Dyczkowski's verse 32
 
-He extracted' the best (rorodogdhā) of all people with talent by his knowledge of (their) inner qualities, and he gave more to all people here who were enamoured with (their) talent. His zeal for (his good) intentions was endless, and 80 it was he who become (the real) instrument that induced my reflection on (the meaning of) the Tantrāloka.”” (32) 
+He extracted[^667] the best (rorodogdhā) of all people with talent by his knowledge of (their) inner qualities, and he gave more to all people here who were enamoured with (their) talent. His zeal for (his good) intentions was endless, and 80 it was he who become (the real) instrument that induced my reflection on (the meaning of) the Tantrāloka.[^668] (32) 
 
 ### Dyczkowski's verse 33
 
@@ -209,15 +209,15 @@ He was (as close to the king) as (his) mind to his soul. Having attained the hig
 
 ### Dyczkowski's verse 35
 
-He attained (unrestricted) authority over all the main infantry and armed forces that belonged to the families of tributary lords, and when this (faithful) assistant of the king occupied the post of plenipotentate (sarvādhikārin), he extended the regular forces (sena) and mercenaries (bhata), (each one) separately (from the other) also.' (35) 
+He attained (unrestricted) authority over all the main infantry and armed forces that belonged to the families of tributary lords, and when this (faithful) assistant of the king occupied the post of plenipotentate (sarvādhikārin), he extended the regular forces (sena) and mercenaries (bhata), (each one) separately (from the other) also.[^669] (35) 
 
 #### Viveka on Dyczkowski's verse 35
 
-668?\. Read roradogdhā for roradrogdhā.
+[^667]: Read roradogdhā for roradrogdhā.
 
-669?\. In other words, Jayaratha was much encouraged by his royal patron Rājarāja, whose inspiration impelled him to write his commentary on the Tantrāloka.
+[^668]: In other words, Jayaratha was much encouraged by his royal patron Rājarāja, whose inspiration impelled him to write his commentary on the Tantrāloka.
 
-670?\. According to Rastogi, he was given unrestricted authority over all the infantries and armies falling under the tributary princes, and while exercising his powers as the top brass (sarvādhikārin), he introduced a major innovation by keeping the regular forces and mercenaries separately (33).
+[^669]: According to Rastogi, he was given unrestricted authority over all the infantries and armies falling under the tributary princes, and while exercising his powers as the top brass (sarvādhikārin), he introduced a major innovation by keeping the regular forces and mercenaries separately (33).
 
 
 *[p. 274]* ^pg292
@@ -226,7 +226,7 @@ He attained (unrestricted) authority over all the main infantry and armed forces
 
 He helped all (the common) people, supporting the talented with (grants of his own) money and wealth. He wisely took away (peoples’) terror (of the State) and, as befitted (his noble) family, his devotion to Śiva was very pleasing 
 
-(to Him).'” (36) 
+(to Him).[^670] (36) 
 
 ### Dyczkowski's verse 37
 
@@ -234,11 +234,11 @@ In accord with the succession of (his) family lineage, the illustrious Subhaṭa
 
 ### Dyczkowski's verse 38
 
-And Śṛṁgāra, son of Rājānaka Dāśī, who was also my teacher's teacher (paramaguru), was the teacher of (my father) in the Rājatantra (when he was concerned) with the king’s governance (rājatantra).” (38) 
+And Śṛṁgāra, son of Rājānaka Dāśī, who was also my teacher's teacher (paramaguru), was the teacher of (my father) in the Rājatantra (when he was concerned) with the king’s governance (rājatantra).[^671] (38) 
 
 ### Dyczkowski's verse 39
 
-Observing the lamentable (appearance) of what had been newly constructed, due to the adverse nature (daurātmya)” of (its) location and time, (this) wise man carried out five renovations (to old buildings) on Mahādeva mountain. (39) 
+Observing the lamentable (appearance) of what had been newly constructed, due to the adverse nature (daurātmya)[^672] of (its) location and time, (this) wise man carried out five renovations (to old buildings) on Mahādeva mountain. (39) 
 
 ### Dyczkowski's verse 40
 
@@ -246,15 +246,15 @@ From him, through (his wife) Kamalā arose (two sons) called Jayaratha and Jayad
 
 #### Viveka on Dyczkowski's verse 40
 
-10The venerable Subhaṭa Datta wrote a commentary on the Tantrāloka (for Śṛṁgāraratha,) who because of him (yaś caibhyo) knew the teaching (artha) 
+[^673]The venerable Subhaṭa Datta wrote a commentary on the Tantrāloka (for Śṛṁgāraratha,) who because of him (yaś caibhyo) knew the teaching (artha) 
 
-671?\. Rastogi: ‘He devoted his energies for the welfare of the common man and encouraged pursuit of excellence by suitable financial gifts and grants. He created an atmosphere free from terror and subsequently developed acute devotion for Siva, something behoving his noble heritage.” (34)
+[^670]: Rastogi: ‘He devoted his energies for the welfare of the common man and encouraged pursuit of excellence by suitable financial gifts and grants. He created an atmosphere free from terror and subsequently developed acute devotion for Siva, something behoving his noble heritage.” (34)
 
-672?\. This translation follows that of Sanderson (2006b p. 17, n. 46, 2007: 253 n 68). Rastogi (1987: introduction p. 93) understands the expression ‘Rājātantra’ to mean ‘statecraft’. According to him, Rājānaka \[illegible\] was an alias for Tribhuvanadatta and Śṛṁgāra, Subhaṭadatta. However, Sanderson proposes that the Rājatantra was the Jayadrathayāmala, also called the Tantrarāja that Śṛṁgāra taught to Jayaratha's father, the minister Śṛṁgāraratha. He writes (loc. cit.) ‘the alternative is to take this to mean that Śṛṁgāra taught him the science of governance while he was concerned therewith. But that would be very flat and out of context, especially since Jayaratha declares him his own paramaguruḥ. It would be more probable that Jayaratha has substituted Rājatantra ‘the King Tantra’ for the usual title Tantrarāja ‘the King of Tantras’ for the sake of a play on words.’
+[^671]: This translation follows that of Sanderson (2006b p. 17, n. 46, 2007: 253 n 68). Rastogi (1987: introduction p. 93) understands the expression ‘Rājātantra’ to mean ‘statecraft’. According to him, Rājānaka \[illegible\] was an alias for Tribhuvanadatta and Śṛṁgāra, Subhaṭadatta. However, Sanderson proposes that the Rājatantra was the Jayadrathayāmala, also called the Tantrarāja that Śṛṁgāra taught to Jayaratha's father, the minister Śṛṁgāraratha. He writes (loc. cit.) ‘the alternative is to take this to mean that Śṛṁgāra taught him the science of governance while he was concerned therewith. But that would be very flat and out of context, especially since Jayaratha declares him his own paramaguruḥ. It would be more probable that Jayaratha has substituted Rājatantra ‘the King Tantra’ for the usual title Tantrarāja ‘the King of Tantras’ for the sake of a play on words.’
 
-673?\. Cf, above, 1/216d for this expression.
+[^672]: Cf, above, 1/216d for this expression.
 
-674?\. Sanderson ((2006: 7 n 17 and also 2007: 242 n 36) summarizes the contents of the concluding verses (8-41) of Jayaratha’s commentary in which he outlines his genealogy: Purṇamanoratha, minister of Yaśaskara (r. 939-948) > Utpala(ratha) > Prakāśaratha > Sūryaratha > Utpalaratha minister of Ananta (r. 1028-1063), and disciple of his mother’s brother Vibhūtidatta, grandson of an unnamed minister of finance > Śivaratha >, minister of Uccala (r. 1101-1111); his brother Sammaratha > Guṇaratha > Guṅgaratha > Śṛṁgāraratha minister of Rājarāja (Rājadeva, r. 1213- 236), initiated by Subhatṭadatta, descendent of Vibhūtidatta and author of a lost commentary on the Tantrāloka > Jayaratha. Jayaratha reports that his patrilineal ancestors included ministers under Yaśakara, Ananta (r. 1028-1063), Uccala (r. 1101-1111) and Rājadeva (r. 1213-1236), the last of these being his own father. A connection with the milieu of the court is also suggested by the prevalence of contributions by these authors to belles-lettres and the theory of poetry, drama, dance and music. He himself wrote a commentary (vimarśinī) on the Alaṁkārasarvasva, a work on Sanskrit poetics by Ruyyaka. He also wrote an epic poem called Haravijayacintāmani.
+[^673]: Sanderson ((2006: 7 n 17 and also 2007: 242 n 36) summarizes the contents of the concluding verses (8-41) of Jayaratha’s commentary in which he outlines his genealogy: Purṇamanoratha, minister of Yaśaskara (r. 939-948) > Utpala(ratha) > Prakāśaratha > Sūryaratha > Utpalaratha minister of Ananta (r. 1028-1063), and disciple of his mother’s brother Vibhūtidatta, grandson of an unnamed minister of finance > Śivaratha >, minister of Uccala (r. 1101-1111); his brother Sammaratha > Guṇaratha > Guṅgaratha > Śṛṁgāraratha minister of Rājarāja (Rājadeva, r. 1213- 236), initiated by Subhatṭadatta, descendent of Vibhūtidatta and author of a lost commentary on the Tantrāloka > Jayaratha. Jayaratha reports that his patrilineal ancestors included ministers under Yaśakara, Ananta (r. 1028-1063), Uccala (r. 1101-1111) and Rājadeva (r. 1213-1236), the last of these being his own father. A connection with the milieu of the court is also suggested by the prevalence of contributions by these authors to belles-lettres and the theory of poetry, drama, dance and music. He himself wrote a commentary (vimarśinī) on the Alaṁkārasarvasva, a work on Sanskrit poetics by Ruyyaka. He also wrote an epic poem called Haravijayacintāmani.
 
 
 *[p. 275]* ^pg293
@@ -265,7 +265,7 @@ of all the Śaiva scripture. (Jayaratha,) having obtained this teacher, called t
 
 ### Dyczkowski's verse 42
 
-(Śaṅkhadhara) had attained (full) knowledge of grammar (padavidyā) and he studied (the teachings of) the three sages." He made known the lack of weight (laghutva) in Jaimini’s science of linguistic interpretation (vākyabodha), and attained mastery on all the paths of the philosophies (naya) and (so) reached proficiency in (this) the third of the disciplines (kathā)." (42) 
+(Śaṅkhadhara) had attained (full) knowledge of grammar (padavidyā) and he studied (the teachings of) the three sages.[^674] He made known the lack of weight (laghutva) in Jaimini’s science of linguistic interpretation (vākyabodha), and attained mastery on all the paths of the philosophies (naya) and (so) reached proficiency in (this) the third of the disciplines (kathā).[^675] (42) 
 
 ### Dyczkowski's verse 43
 
@@ -283,17 +283,17 @@ If this request is made to good (wise people), it serves no purpose, as their re
 
 Aho! O fate! (you) have always in some (mysterious) way become propitious towards me! Be gracious now O Lord, and make (even just) one (person) listen to (these) words! Make just any one person at once into one who has known that and who will listen to this, my work, for (even just a) moment with his hearing (opened up, and) with tears (in his eyes) arisen from the delight 
 
-(he experiences). (46) 
+(he experiences).[^676] (46) 
 
 ### Dyczkowski's verse 47
 
 You (too, O Lord,) listen to (these) words (I have) fashioned, containing the essence of truth (rattvārtha), that are pleasing to the heart like the resonant sound of a vīṇā. This creative reflection (bhāvānā) (on the meaning of the 
 
-675?\. suppose these are Gautama, who taught the Nyāyasūtra, Kaṇāda, who taught the Vaiśaṣikasūtra, and Jaimini, the founder of the Mīmāṁsā.
+[^674]: suppose these are Gautama, who taught the Nyāyasūtra, Kaṇāda, who taught the Vaiśaṣikasūtra, and Jaimini, the founder of the Mīmāṁsā.
 
-676?\. (ibid. p. 98), this verse means that Śaṅkhadhara had attained ‘proficiency in the secular sciences, including grammar, the science of linguistic interpretation expounded by Jaimini and all other empirical disciplines’.
+[^675]: (ibid. p. 98), this verse means that Śaṅkhadhara had attained ‘proficiency in the secular sciences, including grammar, the science of linguistic interpretation expounded by Jaimini and all other empirical disciplines’.
 
-677?\. Read pramoditāsru for pramoditāsu.
+[^676]: Read pramoditāsru for pramoditāsu.
 
 
 *[p. 276]* ^pg294
@@ -302,7 +302,7 @@ scriptures that has developed by) constant practice is (like) a newly married wo
 
 ### Dyczkowski's verse 48
 
-Doubt has been removed, the suffering of transmigratory existence has been quelled, discrimination, with increasing abundance, has arisen deeply within (my) heart in (just) an instant. Thus, I have attained the unique (asāmānya) state of nondual consciousness devoid of (all) limitations, so what use is there now for other (mundane) affairs?[^678] (48) 
+Doubt has been removed, the suffering of transmigratory existence has been quelled, discrimination, with increasing abundance, has arisen deeply within (my) heart in (just) an instant. Thus, I have attained the unique (asāmānya) state of nondual consciousness devoid of (all) limitations, so what use is there now for other (mundane) affairs?[^677] (48) 
 
 #### Viveka on Dyczkowski's verse 48
 
@@ -312,7 +312,7 @@ Thus, the Discernment of the Light on the Tantras is fully complete. It is the w
 
 Praise to the teacher who for those who desire the fruits (that) Śiva bestows is a veritable wish-granting tree. The only fire (that can burn up) the fuel of duality, he is the lamp (that illumines) Śiva’s path. (He) is Śłambhu, who has made the lunar orb an adornment for the crest of his matted hair. He is this boat (that ferries across) the ocean of the Śaiva (scriptures) and bestows the most excellent fruits. 
 
-[^678]: Jayaratha says of himself that he was free from all doubts and was imbued with a sense of blissful inner tranquillity. His realisation of absolute harmony induced a feeling of total resignation from mundane affairs.
+[^677]: Jayaratha says of himself that he was free from all doubts and was imbued with a sense of blissful inner tranquillity. His realisation of absolute harmony induced a feeling of total resignation from mundane affairs.
 
 *[p. 277]* ^pg295
 
@@ -323,9 +323,9 @@ Chapter Seven of the Mālinīvijayottara Concerning Mudrās
 The first two passages concerning Mudrā are drawn from two Trika Tantras. The first is Abhinava’s prime authority, the Mālinīvijayottara. The second is an excerpt from a chapter in the Tantrasadbhāva dedicated to this topic. We notice immediately that in the former the Mudrās are, for the most part, just outer ritual gestures made with the hands. But this is not entirely so. Some relate to the movement of the vital breath or are accompanied with reciation of Mantra. The names of several of them indicate their connection with yogic practice, at least in the minimal sense that they are made when the yogi is engaged in his practice. In some cases, there is a hint that they may not only induce or accompany yogic states, they are identified with these states themselves, as we find in passages quoted further ahead from Krama or proto Krama sources. Abhinava clearly declares that these states are one of the four modalities in which Mudrā is formed along with the body, hands and speech. Only these three are mentioned in the Tantrasadbhāva that models its presentation accordinglyThe Tantrasadbhāva is much more sophisticated than the Mālinīvijayottara in that it identifies Mudrā with the goddess who can assume the innumerable forms as countless Mudrās who are, basically, yoginīs. 
 
 athātaḥ sahpravakṣyāmi mudrākhyāḥ śivaśaktayaḥ |
-yābhiḥ' sarirakṣito mantrī mantrasiddhim avāpnuyāt || 1 ॥ 
+yābhiḥ[^678] sarirakṣito mantrī mantrasiddhim avāpnuyāt || 1 ॥ 
 
-Now I will tell (you) about Śiva’s powers that are called gestures (mudrā).? 
+Now I will tell (you) about Śiva’s powers that are called gestures (mudrā).[^679] 
 
 ### Dyczkowski's verse 1 (2)
 
@@ -342,9 +342,9 @@ amṛtā yogamudreti \[illegible\] vīravandite ॥ 4 ॥
 
 (The gestures \[illegible\] Triśūla (the Trident) and Padma (the Lotus), Śakti (Power), Cakra (the Wheel) along with Vajra (the Thunderbolt), Danda (the Stick), Daṁṣṭra (the Fang), Mahāpretā (the Great Ghost), Mahāmudrā (the Great Gesture), Khageśvarī (the Skyfaring Goddess), Mahodayā (the Great Arising), Karālā (the Gapping Mouth and Protruding Teeth) and Khatvāṁga (the Ascetic’s Staff) along with Kapālaka (the Skull), Hala (the Plough), Pāśa (the Fetter), Aṅkuśa (the Elephant Gaud), \[illegible\] (the Bell), Mudgara (the Mallet), and Triśikha (the Three Tufts of Hair) is another. (The gesture made to) Aavaha 
 
-679?\. svaccha yābhistu rakṣita
+[^678]: svaccha yābhistu rakṣita
 
-680?\. MV 7/1b TĀv ad 15/259ab.
+[^679]: MV 7/1b TĀv ad 15/259ab.
 
 
 *[p. 278]* ^pg296
@@ -388,7 +388,7 @@ uttānavāmamuṣtṭestu dakṣa \* \* \* \* \* \* || 7 ||
 
 The fist of the left-hand faces upwards, the right . . . cast the fist . . . is 
 
-the Wheel and the Arrow . . .? (7cd-8ab) 
+the Wheel and the Arrow . . .[^680] (7cd-8ab) 
 
 #### Viveka on Dyczkowski's verse 7cd-8ab
 
@@ -404,7 +404,7 @@ Place the right face downwards above the left facing upwards. The little fingers
 
 #### Viveka on Dyczkowski's verse 8cd-9
 
-681?\. Part of the text is missing here.
+[^680]: Part of the text is missing here.
 
 
 *[p. 279]* ^pg297
@@ -434,7 +434,7 @@ vāmajānugataṁi pādami hastau pṛṣthapralambinau |
 vikṛte locane grīvā bhagnā jihvā prasāritā ॥ 12 ॥
 sarvayogigaṇasyeṣtā prītā yogīśvarī matā | 
 
-The foot is placed on the left knee and the two hands hang behind, the eyes are distorted, the neck is bent and the tongue extended ~ (this is the gesture of) the ghost,‘ considered to be the goddess of yogis (yogṛśvarī) is the favourite of the all the hosts of yogis. (113ab) 
+The foot is placed on the left knee and the two hands hang behind, the eyes are distorted, the neck is bent and the tongue extended ~ (this is the gesture of) the ghost,[^681] considered to be the goddess of yogis (yogṛśvarī) is the favourite of the all the hosts of yogis. (113ab) 
 
 #### Viveka on Dyczkowski's verse 113ab
 
@@ -453,12 +453,12 @@ The hands facing down, the wise man should lead (his) two feet up to the heart a
 
 Khageśvarī (the Skyfaring Goddess) 
 
-vaddhvā padmāsanari yogī nābhāv akṣeśvarari nyaset || 15 ||
-dandākārari tu tarn tāvan nayed yāvat kakhatrayam“ | 
+vaddhvā padmāsanari yogī nābhāv akṣeśvarari nyaset[^682] || 15 ||
+dandākārari tu tarn tāvan nayed yāvat kakhatrayam[^683] | 
 
-682?\. Read \[illegible\] for prītā.
+[^681]: Read \[illegible\] for prītā.
 
-683?\. tarn: kṣiped
+[^682]: tarn: kṣiped
 
 
 *[p. 280]* ^pg298
@@ -470,9 +470,9 @@ APPENDIX A TO CHAPTER THIRTY-TWO
 nigṛhya tatra tat tūrnaṁ prerayet khatrayena tu || 16 ||
 \[illegible\] baddhvā mahāvīraḥ \[illegible\] pratipadyate | 
 
-Assuming the lotus posture the yogi should direct (his mind) the lord of the senses into the navel (region). In the form of a staff, he should lead it along until” (it reaches) the three voids (in the head). After restraining it there he should rapidly impel (it) with the three voids (above the head). Having formed that (Seal of the Skyfaring Goddess), the great hero, attains flight (in the sky of 
+Assuming the lotus posture the yogi should direct (his mind) the lord of the senses into the navel (region). In the form of a staff, he should lead it along until[^684] (it reaches) the three voids (in the head). After restraining it there he should rapidly impel (it) with the three voids (above the head).[^685] Having formed that (Seal of the Skyfaring Goddess), the great hero, attains flight (in the sky of 
 
-consciousness).’ (15cd-17ab) 
+consciousness).[^686] (15cd-17ab) 
 
 #### Viveka on Dyczkowski's verse 15cd-17ab
 
@@ -496,7 +496,7 @@ Karālā (the Gaping Mouth and Protruding Teeth)
 
 anāmikākaniṣthābhyār sṛkvanyau pravidārayet | 
 
-jihvār ca cālayen mantrī” hāhākārari ca kārayet ॥ 20 ॥ 
+jihvār ca cālayen mantrī[^687] hāhākārari ca kārayet ॥ 20 ॥ 
 
 kruddhadṛṣtiḥ karāleyan mudrā duṣtabhayaṁkarī | 
 
@@ -511,13 +511,15 @@ Khatvāṁṁga (the Ascetic’s Staff)
 vāmaskandhagato vāmamuṣṭir ucchritatarjanī | 21 ॥
 khaṭvāṅgākhyā smṛtā mudrā kapālam adhunā śṛnu | 
 
-684?\. Kh: tar ca taṁ tāvad 7 \*Read with TĀ 32/1 1b \[illegible\] for bhāva
+[^683]: Kh: tar ca taṁ tāvad
 
-685?\. \[illegible\] The three voids in the head are bindu, nāda and the Cavity of Brahmā. The three above the head are Power (Sakti), the Pervasive One (vyāpinī) and With Mind (samanā). The mind is ‘restrained’ by breath retention (kumbhaka). If successful, the yogi attains the level of the Transmental, through which he unites with Siva.
+[^684]: \*Read with TĀ 32/1 1b \[illegible\] for bhāva
 
-686?\. MV 7/15cd-17ab is quoted in TĀv ad 15⁄(361cd-363ab) (361-362), which is a commentary on it, and TĀ 32/10cd-12a = MV 7/15cd-17a.
+[^685]: \[illegible\] The three voids in the head are bindu, nāda and the Cavity of Brahmā. The three above the head are Power (Sakti), the Pervasive One (vyāpinī) and With Mind (samanā). The mind is ‘restrained’ by breath retention (kumbhaka). If successful, the yogi attains the level of the Transmental, through which he unites with Siva.
 
-687?\. K: jihvāṁ ca lālayed
+[^686]: MV 7/15cd-17ab is quoted in TĀv ad 15⁄(361cd-363ab) (361-362), which is a commentary on it, and TĀ 32/10cd-12a = MV 7/15cd-17a.
+
+[^687]: K: jihvāṁ ca lālayed
 
 
 *[p. 281]* ^pg299
@@ -530,7 +532,7 @@ Kapālaka (the Skull)
 
 ### Dyczkowski's verse 22cd-23ab
 
-nimnaṁ pānitalan dakṣam īṣatsakucitāṁguli"" I| 22 I| 
+nimnaṁ pānitalan dakṣam īṣatsakucitāṁguli[^688] I| 22 I| 
 
 kapālam iti vijñeyam adhunā halam ucyate | 
 
@@ -583,7 +585,7 @@ When the left hand is facing downwards, the wise man should wiggle the index fin
 
 #### Viveka on Dyczkowski's verse 26
 
-688?\. Sva: mīṣattatkuñcitāṁgulim
+[^688]: Sva: mīṣattatkuñcitāṁgulim
 
 
 *[p. 282]* ^pg300
@@ -595,18 +597,18 @@ Mudgara (the Mallet) and Triśikhā (the Three Tufts of Hair)
 ### Dyczkowski's verse 28 (2)
 
 karāv ūrdhvamukhau kāryāv anyonyāntaritāṁṁgulī |
-anāme madhyapṛṣthasthe tarjanyau mūlapavarge” ॥ 27 ॥ 
+anāme madhyapṛṣthasthe tarjanyau mūlapavarge[^689] ॥ 27 ॥ 
 
-The hands should be turned upwards and the fingers mutually concealed by one another. The two ring fingers are placed on the back of the middle (fingers) and the two index fingers on the two little fingers (mālaparva). (27) madhyame” dve yute kārye kaniṣthe paruṣāvadhi |
+The hands should be turned upwards and the fingers mutually concealed by one another. The two ring fingers are placed on the back of the middle (fingers) and the two index fingers on the two little fingers (mālaparva). (27) madhyame[^690] dve yute kārye kaniṣthe paruṣāvadhi |
 tarjanyau madhyapārśvasthe virale parikalpite ॥ 28 ॥ 
 
-The two middle fingers should be connected together and the two little fingers at the end of the paruṣa (paruṣāvadhi);\* the two index fingers are 
+The two middle fingers should be connected together and the two little fingers at the end of the paruṣa (paruṣāvadhi);[^691] the two index fingers are 
 
-placed on the middle fingers” and splayed apart. (28) 
+placed on the middle fingers[^692] and splayed apart. (28) 
 
 ### Dyczkowski's verse 29ab
 
-mudgarastriśikho hy eṣa kṣanād āveśakārakaḥ | 
+mudgarastriśikho[^693] hy eṣa kṣanād āveśakārakaḥ | 
 
 This is (the gesture of) the Mallet and the Three Tufts of Hair that brings about the penetration (of Rudra’s power) in a moment. (29ab) 
 
@@ -633,15 +635,15 @@ Rodhā (Fixing)
 
 dvāv eva garbhagāṁguṣthau vijñeyā saṁṁnirodhinī | 
 
-689?\. \[illegible\] mūlaparvata
+[^689]: \[illegible\] mūlaparvata
 
-690?\. \[illegible\] madhye dva tu yuta paruṣāvapi ca
+[^690]: \[illegible\] madhye dva tu yuta paruṣāvapi ca
 
-691?\. The text here is corrupt, paruṣāvadhi makes no sense. It seems that the sense is that the two little fingers are conjoined at the side of the hand.
+[^691]: The text here is corrupt, paruṣāvadhi makes no sense. It seems that the sense is that the two little fingers are conjoined at the side of the hand.
 
-692?\. \*Read madhyaparvasthe for madhyapārśvasthe.
+[^692]: \*Read madhyaparvasthe for madhyapārśvasthe.
 
-693?\. k: strisira
+[^693]: k: strisira
 
 
 *[p. 283]* ^pg301
@@ -652,7 +654,7 @@ The two thumbs placed within (the clenched fists) should be known to be (the ges
 
 dravyadā tu samākhyātā + \* \* + tra \[illegible\] | 31 I| 
 
-~ ~ . (placed) facing before one , . . is said to be (the gesture of) the offering of the sacrificial substances.” (31cd) 
+~ ~ . (placed) facing before one , . . is said to be (the gesture of) the offering of the sacrificial substances.[^694] (31cd) 
 
 #### Viveka on Dyczkowski's verse 31cd
 
@@ -690,7 +692,7 @@ sarvāsāṁ vācakaś cāsāṁ om hrīṁ nāma tato namaḥ || 36 ॥
 
 The wise reciter of mantra should make the group of gestures in this way in (front of his) heart. (The mantra that) denotes all of them (and is uttered 
 
-694?\. Part of the text is missing here.
+[^694]: Part of the text is missing here.
 
 
 *[p. 284]* ^pg302
@@ -707,7 +709,7 @@ iti śrīmālinīvijayottare tantre mudrādhikāraḥ saptamaḥ ॥ 7 |
 
 Appendix B to Chapter Thirty-two 
 
-Chapter Eight of the Tantrasadbhāva concerning Mudrā' 
+Chapter Eight of the Tantrasadbhāva concerning Mudrā[^695] 
 
 The following is an extract from chapter eight of the Trika Tantra, the Tantrasadbhāva. 
 
@@ -720,12 +722,12 @@ mudritaḥ gopitan proktaṁ cicchaktyāyāḥ (all: cichaktyāyā) svarūpiṇa
 na (g: ?) jñāyate (k: jāyate; g: ?) varārohe sā māyā (k, kh, g: mayā kh: + sayā) samudāhṛtā |
 ajñānamalarūpeṇa yāvad baddhaḥ sa pudgalaḥ ॥ 78 ॥ 
 
-na jānāti parātmānar tāvan māyā (k, kh, g: yāyā) pravartate | 
+na jānāti parātmānar[^696] tāvan māyā (k, kh, g: yāyā) pravartate | 
 
 bhinne tamasi ekatvaṁ yadā paśyati mānavaḥ ॥ 79 ||
 tadā sā tu parā proktā bandhamokṣakarī (kh: kari) priye | (g: ? 76 to 80ab unclear in MS G) 
 
-Śakti is denoted in this way by these and other such synonyms, each separately. She is said to be the power of Mudrā (mudrāśakti). Stamped (with that the world) will melt away. Thus, she is called Mudrā by Śambhu, the God of the gods. \`Sealed' is said to be what has been hidden which is the essential nature of the power of consciousness. Unknown, O fair lady, she is said to be Māyā. As long as the soul is bound by the impurity of ignorance,’ he does not know the Supreme Self and Māyā operates. If when the darkness has been rent asunder and a man sees oneness,‘ then, O beloved, (that power) is said to be Parā (the supreme) who binds and releases\* (bandhamokṣakarī) (16-80ab) 
+Śakti is denoted in this way by these and other such synonyms, each separately. She is said to be the power of Mudrā (mudrāśakti). Stamped (with that the world) will melt away. Thus, she is called Mudrā by Śambhu, the God of the gods. \`Sealed' is said to be what has been hidden which is the essential nature of the power of consciousness. Unknown, O fair lady, she is said to be Māyā. As long as the soul is bound by the impurity of ignorance,[^697] he does not know the Supreme Self and Māyā operates. If when the darkness has been rent asunder and a man sees oneness,[^698] then, O beloved, (that power) is said to be Parā (the supreme) who binds and releases[^699] (bandhamokṣakarī) (16-80ab) 
 
 ### Dyczkowski's verse 80cd-83
 
@@ -737,22 +739,22 @@ carate sarvajantūnāṁi khecarī tena sā smṛtā (k, kh, g: smṛtāḥ) ॥
 paratvenaikadhā (kh: nekadhā) jṁeyā punaś caiva dvidhā smṛtā |
 icchā (g: icchā) \[illegible\] (g: jñāna) tṛtīyā (g: \* \* \*?) tu (g: \*?) varṇarūpā (g: \* \* \* \*?) upāgatā (g: \* \* \* \*?) || 83 || (k: ?) 
 
-695?\. KM 6/76-113ab is drawn di.rectly from the Tantrasadbhāva 8/76cd-113ab. The two versions have been compared. In places I adopt the reading in the KM although, the Tantrasadbhāva certainly precedes it.
+[^695]: KM 6/76-113ab is drawn di.rectly from the Tantrasadbhāva 8/76cd-113ab. The two versions have been compared. In places I adopt the reading in the KM although, the Tantrasadbhāva certainly precedes it.
 
-696?\. Read with the KM parātmānaṁ for parātmā vai and māyā for yāyā
+[^696]: Read with the KM parātmānaṁ for parātmā vai and māyā for yāyā
 
-697?\. \*Read with KM ajñānamalarūpenṇa for ajñānatamarūpena
+[^697]: \*Read with KM ajñānamalarūpenṇa for ajñānatamarūpena
 
-698?\. Or ‘if a man sees oneness in the multiplicity of darkness’.
+[^698]: Or ‘if a man sees oneness in the multiplicity of darkness’.
 
-699?\. Or ‘releases the bound’.
+[^699]: Or ‘releases the bound’.
 
 
 *[p. 286]* ^pg304
 
 APPENDIX B TO CHAPTER THIRTY-TWO 
 
-That supreme power is one, established as Śiva’s will, liberating from (the negative influences of) the planets etc and causes the mass of fetters to melt away. As she releases (mocana) and causes to melt away (drāvaṇa) that power is said to be called ‘mudrā’. As she moves perpetually on the Path of the Sky as the fate, intelligence and purpose of all living beings, she is said to be Khecarī. She should be known to be one as the supreme and is also said to be two-fold as will and knowledge. The third form she assumes is the letters (varna). (80cd-83) 
+That supreme power is one, established as Śiva’s will, liberating from (the negative influences of) the planets etc and causes the mass of fetters to melt away. As she releases (mocana) and causes to melt away (drāvaṇa) that power is said to be called ‘mudrā’. As she moves perpetually on the Path of the Sky as the fate, intelligence and purpose of all living beings, she is said to be Khecarī.[^700] She should be known to be one as the supreme and is also said to be two-fold as will and knowledge. The third form she assumes is the letters (varna).[^701] (80cd-83) 
 
 ### Dyczkowski's verse 84-86
 
@@ -782,14 +784,14 @@ kaumāryāḥ (kh: -ryās; g: kumā \*?) sapta uddiṣṭā vaiṣṇavyāḥ (k
 
 cāmundās tu smṛtāḥ (kh: smṛtās) sapta evar vai sapta saptasu | (g: ?) 
 
-700?\. KM 6/81cd reads: khagatir hy ürdhvabhāvena khagamārgena nityaśaḥ Flight always (occurs) by means of the elevated state (ārdhvabhāva) which is the Path of the Skyfarers.
+[^700]: KM 6/81cd reads: khagatir hy ürdhvabhāvena khagamārgena nityaśaḥ Flight always (occurs) by means of the elevated state (ārdhvabhāva) which is the Path of the Skyfarers.
 
-701?\. paratve ekā tu sā jṁeyā punaś caiva tridhā smṛtā ॥ 81 ॥ icchā jṁānī kriyā sā tu varnarūpam upāgatā | In the supreme state she should be known to be one and she is also said to be three-fold. She is will, knowledge and action and has assumed the form of Letters.
+[^701]: paratve ekā tu sā jṁeyā punaś caiva tridhā smṛtā ॥ 81 ॥ icchā jṁānī kriyā sā tu varnarūpam upāgatā | In the supreme state she should be known to be one and she is also said to be three-fold. She is will, knowledge and action and has assumed the form of Letters.
 
 
 *[p. 287]* ^pg305
 
-ekonapañcāśatir devyo (k, g: -ti devyau) bhuvanāvalisaṁsthitāḥ (kh: -sam 1€51.[^702] 10) ॥ 91 ॥ 
+ekonapañcāśatir devyo (k, g: -ti devyau) bhuvanāvalisaṁsthitāḥ (kh: -sam 1€51. 10) ॥ 91 ॥ 
 
 Her form, in terms of (her) limbs are the Mothers, each one located within her own limb. O fair faced lady, there is the limb that is Brāhmī, (so too) Raudrī, Kaumārī, Vaiṣṇavī, Yāmī, and Aindrā. O sinless one, she is Yogeśvarī s limb of Yoga. She is the leader (nāyikā) of (these), the Mistresses of Yoga (yogayogesT). These are said to be seven limbs and, again, they are in each group of seven. (88-89ab) 
 
@@ -807,7 +809,7 @@ ekaikaromakūpe (kh: ekaike-) tu yoginyaḥ koṭiśaḥ sthitāḥ ॥ 93 ॥ (
 yathā cāmbaraparyante pṛthivyādiṣu sāṁbhavāḥ (k, kh, g: sambhavāḥ) ॥ 94 ॥
 (8: ?) 
 
-Again, she who is the series of (Yoginīs) in the Sky (gaganāvalī) abides as many kinds. The pores (of the skin) in her body are said to be three billion and fifty lakhs. (The Yoginīs) are born from them. There are billions of Yoginīs in each (and every) pore. They are three billions of billions, many times over that rise up to the extremity of the heavens beginning with (the worlds) in Earth and the 1€51.\^ (994) 
+Again, she who is the series of (Yoginīs) in the Sky (gaganāvalī) abides as many kinds. The pores (of the skin) in her body are said to be three billion and fifty lakhs. (The Yoginīs) are born from them. There are billions of Yoginīs in each (and every) pore. They are three billions of billions, many times over that rise up to the extremity of the heavens beginning with (the worlds) in Earth and the 1€51.[^702] (994) 
 
 ### Dyczkowski's verse 95-97
 
@@ -837,7 +839,7 @@ kaṁ śarīram (k, g: śavīram; kh: śarīras) iti khyātaṁ nyastās tatra p
 helāgamanamārgena (kh: -na) tena nāmā kanīyasī (k: varīyasī > kh: vanīyasī) |
 (8: 2) 
 
-Dance, motion, humour, nudity, jumping, horripilation, weeping, outbursts ~ whatever alteration they bring about (in the body), it is all called mudrā. And the finger (aṁgulyā) is said to be the woman (aṁganā) (Kuṇqalinī (?)) who moves constantly in the body (aṅga). Thus, O fair faced lady, (the positioning of) the fingers are taught when making a mudrā.” ‘Ka’ is said to be the body. (The fingers) placed there, (mudrā) operates by the path of amorous dalliance (helāgamana). Thus (kanīyasī, the little finger) is called the \`lowest' (kanīyasī). (98-101ab) 
+Dance, motion, humour, nudity, jumping, horripilation, weeping, outbursts ~ whatever alteration they bring about (in the body), it is all called mudrā. And the finger (aṁgulyā) is said to be the woman (aṁganā) (Kuṇqalinī (?)) who moves constantly in the body (aṅga). Thus, O fair faced lady, (the positioning of) the fingers are taught when making a mudrā.[^703] ‘Ka’ is said to be the body. (The fingers) placed there, (mudrā) operates by the path of amorous dalliance (helāgamana). Thus (kanīyasī, the little finger) is called the \`lowest' (kanīyasī). (98-101ab) 
 
 ### Dyczkowski's verse 101cd-102ab
 
@@ -847,7 +849,7 @@ tatrādhārād (k, kh, g: -ro) vrajed ūrddhvaṁi punar āgamanami priye |
 
 madhyamā nāma tenātra kathitā mantravādinām (g: -vādi \*?) ॥ 103 ॥ 
 
-(The ring finger is called) \`anāmāī' as it (corresponds to the energy called) \`Without Name'. She is configured in billions of ways. 10 (She is called) \`Without Name' because (as that is so) it is not possible to give (her a) name. (101cd-102ab) 
+(The ring finger is called) \`anāmāī' as it (corresponds to the energy called) \`Without Name'. She is configured in billions of ways. [^704] (She is called) \`Without Name' because (as that is so) it is not possible to give (her a) name. (101cd-102ab) 
 
 ### Dyczkowski's verse 102cd-103
 
@@ -855,9 +857,9 @@ The middle (finger) (madhyamā) of those who know mantra is so-called here becau
 
 #### Viveka on Dyczkowski's verse 102cd-103
 
-703?\. \[illegible\] Reading, as in the KM, aṅgulyā Another translation could be “Thus it (the woman ?) is indicated by the finger when a gesture is formed.”
+[^703]: \[illegible\] Reading, as in the KM, aṅgulyā Another translation could be “Thus it (the woman ?) is indicated by the finger when a gesture is formed.”
 
-704?\. KM reads koṭibhedair vyavasthitā \[illegible\] is configured with billions of kinds’.
+[^704]: KM reads koṭibhedair vyavasthitā \[illegible\] is configured with billions of kinds’.
 
 
 *[p. 289]* ^pg307
@@ -876,12 +878,12 @@ It is called the gesture of the index finger \[illegible\] Amongst all (the mudr
 
 ### Dyczkowski's verse 104-106ab
 
-O beloved, the thumb is the current (of the vital breath) that flows constantly. It is should be set into operation by the utterance (of Mantra) and so it is said to be the thumb (aṅguṣtha)." (104-106ab) 
+O beloved, the thumb is the current (of the vital breath) that flows constantly. It is should be set into operation by the utterance (of Mantra) and so it is said to be the thumb (aṅguṣtha).[^705] (104-106ab) 
 
 ### Dyczkowski's verse 106cd-108ab
 
 aha (k, g: adha) ūrddhvagatiḥ proktā stau tu rātrī nigadyate (k, g: ni-)\\ 106 ॥
-hastau (kh: hasto) tena samākhyātau vāmadakṣinam ucyate |”? 
+hastau (kh: hasto) tena samākhyātau vāmadakṣinam ucyate |[^706] 
 
 77a kh) vāme sṛṣṭir iti proktā saṁihāro dakṣinena tu ॥ 107 ॥
 savyāsavyagatau tena kathitau vīranāyike | 
@@ -897,41 +899,41 @@ yo jñāyati varārohe śaktir ādyā (g: sa-) manonmanī (kh: -manotmanī) |
 tena jñātaṁ (k, g: jñānamn) jagat sarvan (g: ?) avarnaṁ (k, kh: avarṇa; g: ?) varṇavarjitam (kh: varnā-) ॥ 110 ॥
 42a g) sā tu mudrā samākhyātā viśvavyāptikarā parā | 
 
-The universe is pervaded by the left. Once known (that), then, O beloved, everything is known.’ O fair lady, by conjoining (the two), that (mudrā becomes) the Kundalinī of the Self. This is the essence, the supreme womb (yoni), the most excellent womb (yoni) of the wombs (yoni). O fair lady, he who knows the first (and foremost) Śakti, that is, Mind beyond Mind (manonmanī), has known the entire universe. (It is) the letter A devoid of 
+The universe is pervaded by the left. Once known (that), then, O beloved, everything is known.[^707] O fair lady, by conjoining (the two), that (mudrā becomes) the Kundalinī of the Self. This is the essence, the supreme womb (yoni), the most excellent womb (yoni) of the wombs (yoni). O fair lady, he who knows the first (and foremost) Śakti, that is, Mind beyond Mind (manonmanī), has known the entire universe. (It is) the letter A devoid of 
 
-705?\. The word for thumb — aṅguṣtha — is here derived apparently from aṅga means ‘limb’ and, by extension ‘body’. The word \[illegible\] means ‘lip’. So, the thumb is the “lip of the body’, that is, it stands for the mouth especially when speaking.
+[^705]: The word for thumb — aṅguṣtha — is here derived apparently from aṅga means ‘limb’ and, by extension ‘body’. The word \[illegible\] means ‘lip’. So, the thumb is the “lip of the body’, that is, it stands for the mouth especially when speaking.
 
-706?\. Lines 107 to 108 illegible in MS g.
+[^706]: Lines 107 to 108 illegible in MS g.
 
-707?\. 107cd reads: vāmāvyāptaṁ jagat kṛtsnaṁ saṁārāntaṁ tadā priye “The entire universe is pervaded by Vāmā then, O beloved, it is the end of withdrawal.”
+[^707]: 107cd reads: vāmāvyāptaṁ jagat kṛtsnaṁ saṁārāntaṁ tadā priye “The entire universe is pervaded by Vāmā then, O beloved, it is the end of withdrawal.”
 
 
 *[p. 290]* ^pg308
 
 APPENDIX B TO CHAPTER THIRTY-TWO 
 
-letters." That is said to be Parā Mudrā who brings about the pervasion of the universe. (108cd-1 1 1ab) 
+letters.[^708] That is said to be Parā Mudrā who brings about the pervasion of the universe. (108cd-1 1 1ab) 
 
 ### Dyczkowski's verse 110cd-3
 
 dvau bindū (k, kh, g: vindu) culike (k, kh, g: tulike) dve tu visargaḥ saktisaṁputaḥ | 111 ॥
 tadutthatveha (kh, g: -ceha) nādānta viddhi śūnyam udāhṛtam (kh: -samudā-; 
 
-g: sūnya-) \\" 
+g: sūnya-) \\[^709] 
 
 30b) ekā (k, kh, g: ekam) mudrā samākhyātā vāṁmanahkāyakarmani (g: -mana- )॥ 112॥ 
 
 The two Drops and two Crests (cūlika) (constitute) emission encapsulation by Śakti. Here above that is the End of Sound, the pervasive energy (vibhvī) which said to be the Void. She rises upwards from the Place of Birth until (she reaches) the Circle of Phenomenal Existence. This is between the Foundation and the genitals by virtue of the union of emanation and withdrawal. There is (thus) said to be (just) one Mudrā (that operates) in the 
 
-activity of speech, mind and body. (110cd - 3) 
+activity of speech, mind and body.[^710] (110cd - 3) 
 
 #### Viveka on Dyczkowski's verse 110cd-3
 
-708?\. The KM reads: varnāvarnavivarjitam ‘free of (both) letter and (the condition) devoid of letters’.
+[^708]: The KM reads: varnāvarnavivarjitam ‘free of (both) letter and (the condition) devoid of letters’.
 
-709?\. 1-1 12ab: tadūrdhvam iha nādāntaṁ vibhvī śūnyam udāhṛtam | janmasthānāt samudyantī yāvat tadbhavamandalam ॥ 111 ॥ sṛstisahhārayogena medhram-ādhāramadhyagam |
+[^709]: 1-1 12ab: tadūrdhvam iha nādāntaṁ vibhvī śūnyam udāhṛtam | janmasthānāt samudyantī yāvat tadbhavamandalam ॥ 111 ॥ sṛstisahhārayogena medhram-ādhāramadhyagam |
 
-710?\. The colophon declares: iti bhairavasrotasi mahātantre vidyāpīṭhe saptakoṭipramāne śrītantrasadbhāve mudrādhikāro nāmāstamaḥ paṭalaḥ ॥ 8 ॥ This is the eighth chapter concerning Mudrā which is in the venerable Tantrasadbhāva that is part of the Vidyāpīṭha that measures seven billion (verses), the great Tantra within the Bhairava current (of scriptures).
+[^710]: The colophon declares: iti bhairavasrotasi mahātantre vidyāpīṭhe saptakoṭipramāne śrītantrasadbhāve mudrādhikāro nāmāstamaḥ paṭalaḥ ॥ 8 ॥ This is the eighth chapter concerning Mudrā which is in the venerable Tantrasadbhāva that is part of the Vidyāpīṭha that measures seven billion (verses), the great Tantra within the Bhairava current (of scriptures).
 
 
 *[p. 291]* ^pg309
@@ -940,7 +942,7 @@ Appendix C to Chapter Thirty-two
 
 Mudrā according to the Krama System 
 
-The five mudrās of the five spheres of Siddhas according to the Mahānayaprakāśa by Arṇasiṁha' 
+The five mudrās of the five spheres of Siddhas according to the Mahānayaprakāśa by Arṇasiṁha[^711] 
 
 The Wheel of the Aggregate 
 
@@ -982,7 +984,7 @@ Bhairavī is said to be the seal that, having filled the spectacle of duality ge
 
 The Śāktasiddhas, free of defects, are rightly said to be (those who) reside in the abode devoid of limitations (graha) they, luminous and supremely powerful (fīkṣṇatama), are intent on destroying the most subtle energies said to 
 
-711?\. MNP (by Arṇasimha) verses 86-106
+[^711]: MNP (by Arṇasimha) verses 86-106
 
 
 *[p. 292]* ^pg310
@@ -1041,13 +1043,13 @@ Mahārthamañjarī concerning Mudrā
 
 according to the Krama System 
 
-'By (practicing the mudraas called) Karaṁkinī, Krodhanii, Bhairavī, Lelihānā and Khecarī when perception takes place, the supreme pervasion (of consciousness) is revealed. (77) 
+[^712]By (practicing the mudraas called) Karaṁkinī, Krodhanii, Bhairavī, Lelihānā and Khecarī when perception takes place, the supreme pervasion (of consciousness) is revealed. (77) 
 
 #### Viveka on Dyczkowski's verse 77
 
 The manner in which the mudrās are formed (externally) is taught there itself (in the Vijñānabhairava): 
 
-(The yogi should sit) on a soft seat, on one buttock, keeping (his) hands and feet without support. By adhering to that (posture, his) intellect (mati) becomes supreme and complete.? (78) (77) (Karaṅkinī) 
+(The yogi should sit) on a soft seat, on one buttock, keeping (his) hands and feet without support. By adhering to that (posture, his) intellect (mati) becomes supreme and complete.[^713] (78) (77) (Karaṅkinī) 
 
 Sat on a seat, half bending the arms properly (as required), fixing the mind on the space under the armpits, by merging into that, peace comes. (79) (Krodhanii) 
 
@@ -1055,9 +1057,9 @@ Fixing the gaze without blinking on something with a gross (and beautiful) form,
 
 The tongue (turned up) into the center (of the nasal cavity), the mouth wide open and the attention fixed on the center (there), uttering the letter H mentally, (the breath) then dissolves into the Tranquil One. (81) (Lelihānā) 
 
-712?\. The following passage concerning Krama Mudraas is drawn from Mahaarthama~njarii verse 77 p. 90 ff. karaṅkinī krodhanī ca bhairavī lelihānikā | khecarī ceti mudrāyāḥ pañcātmakatayā sthitiḥ | iti | tathā śrīvijṁānabhaṭṭārake ~ 1) karaṅkinyā 2) krodhanayā 3) bhairavyā 4) lelihānayā | 5) khecaryā dṛṣtikāle ca parā vyāptiḥ prakāśate ॥ iti | mudrāṇāṁm bandhaprakāraśca tatraivopapāditaḥ | yathā - 1) mṛdvāsane sphijaikena hastapādaṁ nirāśrayam | vidhāya tatprasaṁgena parā pūrṇā matirbhavet || (karaṁkinṇyā) 2) upaviśyāsane samyag bāhū kṛtvārdhakuñcitau | kakṣavyomni manaḥ kurvan śamamā llayāt || (krodhanayā) 3) sthūlarūpasya bhāvasya stabdhāṁ dṛṣṭiṁ nipātya ca | acireṇa nirādhāraṁṁ manaḥ kṛtvā śivaṁ vrajet || (bhairavyā) 4) madhyajihve sphāritāsye madhye nikṣipya cetanām | hoccāraṁ manasā kurvan tataḥ śānte pralīyate || (lelihānayā) 5) āsane śayane sthitvā nirādhāraṁ vicintayet | svar dehaṁ manasi kṣīne kṣanāt kṣīnāśayo bhavet ॥ iti | (khecaryā)
+[^712]: The following passage concerning Krama Mudraas is drawn from Mahaarthama~njarii verse 77 p. 90 ff. karaṅkinī krodhanī ca bhairavī lelihānikā | khecarī ceti mudrāyāḥ pañcātmakatayā sthitiḥ | iti | tathā śrīvijṁānabhaṭṭārake ~ 1) karaṅkinyā 2) krodhanayā 3) bhairavyā 4) lelihānayā | 5) khecaryā dṛṣtikāle ca parā vyāptiḥ prakāśate ॥ iti | mudrāṇāṁm bandhaprakāraśca tatraivopapāditaḥ | yathā - 1) mṛdvāsane sphijaikena hastapādaṁ nirāśrayam | vidhāya tatprasaṁgena parā pūrṇā matirbhavet || (karaṁkinṇyā) 2) upaviśyāsane samyag bāhū kṛtvārdhakuñcitau | kakṣavyomni manaḥ kurvan śamamā llayāt || (krodhanayā) 3) sthūlarūpasya bhāvasya stabdhāṁ dṛṣṭiṁ nipātya ca | acireṇa nirādhāraṁṁ manaḥ kṛtvā śivaṁ vrajet || (bhairavyā) 4) madhyajihve sphāritāsye madhye nikṣipya cetanām | hoccāraṁ manasā kurvan tataḥ śānte pralīyate || (lelihānayā) 5) āsane śayane sthitvā nirādhāraṁ vicintayet | svar dehaṁ manasi kṣīne kṣanāt kṣīnāśayo bhavet ॥ iti | (khecaryā)
 
-713?\. If this is the posture (mudrā) of the Skeleton, like śavāsana it involves lying down, but in this case on one side so only one buttock is resting on the matress (mṛdvāsana). If so, the reference here is not to both feet and hands being ‘without support’ just the two that are on the upper side of the reclining body.
+[^713]: If this is the posture (mudrā) of the Skeleton, like śavāsana it involves lying down, but in this case on one side so only one buttock is resting on the matress (mṛdvāsana). If so, the reference here is not to both feet and hands being ‘without support’ just the two that are on the upper side of the reclining body.
 
 
 *[p. 294]* ^pg312
@@ -1066,7 +1068,7 @@ APPENDIX D TO CHAPTER THIRTY-TWO
 
 Either (sitting) on a seat or (lying) on a bed, meditating on his own body as being without support, when the mind ceases, within a moment (the yogi) is free of (all his binding) dispositions (āśaya). (82) (Khecarī) 
 
-Karaṅkiṇī 
+Karaṅkiṇī[^714] 
 
 From the point of view of reality (rattvavṛttyā) the Mudrā called Karaṅkinī is capable of bringing about the falling away of the duality (bheda) which is called one’s own body and senses. As (is said) in the venerable Cidgaganacandrikā: 
 
@@ -1078,7 +1080,7 @@ Krodhanī leads to the (true) nature of one’s own Self by means of the anger w
 
 You are Krodhanī as the intense desire to withdraw the assembly of reality levels ending with Nature and commencing with Earth, which is the plane of limited perception. Your iconic form is Mantra of which (You are) the one who unfolds it here. 
 
-714?\. tattvavṛttyā tu karaṁkiṇī nāma svadehendriyākhyabhedavigalanapragalbhā mudrā | yathā śrīcidgaganacandrikāyām - antar amba! bahir apy amī karā ye tavākṣatanavo \[illegible\] eṣa yah | vigrahadvitayam apy ataḥ parar cinnabho nayasi nah karaṅkinī I iti | pṛthivyādiprakṛtyantaḥ tattvasandoham antahsamjihīrṣālakṣanena krodhena svātmarūpatām nayati krodhanī | yathā - yat prakṛtyavadhitattvamandalari kṣmāmukhari parimitagrahāspadam | krodhanī tvam asi tajjihīrṣayā mantramārtir iha te vijṛmbhate || iti | antarbahirbhāvayaugapadyena pūrnasaṁvitsvabhāvā bhairavī | yathā - granthayo ‘pi ṣad ume! yayā dhṛtā sā nirāvaranacinnabhahpadā | spandamūrtidhṛtabhedadambarā bhairavi tvam asi viśvabhedinī I iti | iyan ca nimīlanonmīlanasamādhidvayasāmarasyaucityād asmābhir atyantam upalālyate | yad āhuḥ - antarlakṣo \[illegible\] iyan sā bhairavī mudrā sarvatantreṣu gopitā | iti |
+[^714]: tattvavṛttyā tu karaṁkiṇī nāma svadehendriyākhyabhedavigalanapragalbhā mudrā | yathā śrīcidgaganacandrikāyām - antar amba! bahir apy amī karā ye tavākṣatanavo \[illegible\] eṣa yah | vigrahadvitayam apy ataḥ parar cinnabho nayasi nah karaṅkinī I iti | pṛthivyādiprakṛtyantaḥ tattvasandoham antahsamjihīrṣālakṣanena krodhena svātmarūpatām nayati krodhanī | yathā - yat prakṛtyavadhitattvamandalari kṣmāmukhari parimitagrahāspadam | krodhanī tvam asi tajjihīrṣayā mantramārtir iha te vijṛmbhate || iti | antarbahirbhāvayaugapadyena pūrnasaṁvitsvabhāvā bhairavī | yathā - granthayo ‘pi ṣad ume! yayā dhṛtā sā nirāvaranacinnabhahpadā | spandamūrtidhṛtabhedadambarā bhairavi tvam asi viśvabhedinī I iti | iyan ca nimīlanonmīlanasamādhidvayasāmarasyaucityād asmābhir atyantam upalālyate | yad āhuḥ - antarlakṣo \[illegible\] iyan sā bhairavī mudrā sarvatantreṣu gopitā | iti |
 
 
 *[p. 295]* ^pg313
@@ -1109,13 +1111,13 @@ I have also said in the venerable Parāstotra:
 
 APPENDIX D TO CHAPTER THIRTY-TWO 
 
-Having heated intensely the Earth with the hot, stainless (rays) that have unfolded from the eyes from (the state) which is the dawning of bliss without limits whose sole touch (spar”sa) is (contact) with the Inner Place, She, who the wise man contemplates above (in the Sky of Consciousness), for there to be the festival of the unfolding perception of full (and perfect) subjectivity (pūrṇāhamprathana) is that certain (inscrutable reality) that is said to be You, the inconceivable accomplishment — the great immobile Mudrā!\* 
+Having heated intensely the Earth with the hot, stainless (rays) that have unfolded from the eyes from (the state) which is the dawning of bliss without limits whose sole touch (spar”sa) is (contact) with the Inner Place, She, who the wise man contemplates above (in the Sky of Consciousness), for there to be the festival of the unfolding perception of full (and perfect) subjectivity (pūrṇāhamprathana) is that certain (inscrutable reality) that is said to be You, the inconceivable accomplishment — the great immobile Mudrā![^716] 
 
 Lelihānā 
 
 Lelihānā is (the Mudrā) who is greedy (lālasā) to consume all the wealth of the latent traces (of Karma produced) by (the activity of) the subtle body etc. As is said (of Her): 
 
-‘O Mother! You are Lelihānā, the mass of rays (that pour forth) from the abyss of the withdrawal of the latent traces of the seeds (of Karma) that arise from the subtle body (aṣṭapuri), You whose mouth is wide open (bhedā) (engaged) solely in licking (them \[illegible\] 
+‘O Mother! You are Lelihānā, the mass of rays (that pour forth) from the abyss of the withdrawal of the latent traces of the seeds (of Karma) that arise from the subtle body (aṣṭapuri), You whose mouth is wide open (bhedā) (engaged) solely in licking (them \[illegible\][^717] 
 
 Khecarī 
 
@@ -1125,13 +1127,15 @@ svātmasarividavibhinnākārā ca khecarī | yathā -
 
 Khecarī destroys the disturbance of the remaining thought constructs. Her form undivided from the consciousness of Her own essential nature, she crosses over the boundry of the path of suṣumna. As (is said): 
 
-“You are intent on destroying the expanse of manifestation that extends from Supreme (Speech) and ends with the Corporeal One. O goddess, You, are Khecarī who expands consciousness present in Śiva’s abode that is free of coverings. (You are) Kundali who, flying upwards swiftly like a bolt of lightning, burns up the abodes of Fire, Sun and Moon. O Mother! You are Khecarī who has entered’ Śiva’s (dimensionless) Point (śāmbhavabindu) by the Middle Way.’ 
+“You are intent on destroying the expanse of manifestation that extends from Supreme (Speech) and ends with the Corporeal One. O goddess, You, are Khecarī who expands consciousness present in Śiva’s abode that is free of coverings. (You are) Kundali who, flying upwards swiftly like a bolt of lightning, burns up the abodes of Fire, Sun and Moon. O Mother! You are Khecarī who has entered[^718] Śiva’s (dimensionless) Point (śāmbhavabindu) by the Middle Way.’[^719] 
 
-716?\. stabdhadṛṣṭi bahirarthasaṁśrayaṁ nirvikalpam api yat tavāsanam | muktapañjaraśukānukāri tad bhairavaṁ vapor udāram āhara ॥ iti | mayā ‘py uktaṁ Śrīparāstotre - ānandodayalakṣmanor akaluṣair utpakṣmanor ūṣmalair - akṣnor unmiṣitaiḥ pratāpya pṛthivīm antahsthalaikaspṛśaḥ | pūrnāhamprathanotsavāya sudhiyo \[illegible\] ürdhvam adhyāsate sā kācit tvam acintyasiddhir acalā mudrā mahaty ucyase | iti | 6 puryaṣtakādivāsanāsarvasvagrāsalālasā lelihānā | yathoktam - aṣtapuryuditabījavāsanāsaṁhrtipravanaraśmipu~njayā | līdhamātramukhabhedayā tvayā bhūyate janani! lelihānayā \\ iti |
+[^716]: stabdhadṛṣṭi bahirarthasaṁśrayaṁ nirvikalpam api yat tavāsanam | muktapañjaraśukānukāri tad bhairavaṁ vapor udāram āhara ॥ iti | mayā ‘py uktaṁ Śrīparāstotre - ānandodayalakṣmanor akaluṣair utpakṣmanor ūṣmalair - akṣnor unmiṣitaiḥ pratāpya pṛthivīm antahsthalaikaspṛśaḥ | pūrnāhamprathanotsavāya sudhiyo \[illegible\] ürdhvam adhyāsate sā kācit tvam acintyasiddhir acalā mudrā mahaty ucyase | iti |
 
-717?\. Read gatāsi for matāsi
+[^717]: puryaṣtakādivāsanāsarvasvagrāsalālasā lelihānā | yathoktam - aṣtapuryuditabījavāsanāsaṁhrtipravanaraśmipu~njayā | līdhamātramukhabhedayā tvayā bhūyate janani! lelihānayā \\ iti |
 
-718?\. tvar parāprabhṛtivaikharāntimollekhavistaravilāpanonmukhī | devy anāvaraṇaśambhusadmagā khecarī bhavasi cidvikāsinī || vahnisūryaśaśidhāmaghasmarī kundalī tidad ivotpatanty asau | Sāmbhavar janani bindum adhvanā madhyamena ca matāsi khecarī ||
+[^718]: Read gatāsi for matāsi
+
+[^719]: tvar parāprabhṛtivaikharāntimollekhavistaravilāpanonmukhī | devy anāvaraṇaśambhusadmagā khecarī bhavasi cidvikāsinī || vahnisūryaśaśidhāmaghasmarī kundalī tidad ivotpatanty asau | Sāmbhavar janani bindum adhvanā madhyamena ca matāsi khecarī ||
 
 
 *[p. 297]* ^pg315
@@ -1186,9 +1190,9 @@ iti jayadrathe triśūlamudrāvidhiḥ \[kh: \* śūlamudrā + \*\] ||
 
 The two hands stretched up, a great trident comes forth that destroys all obstacles by the conjunction of the little fingers and thumbs. In a month, by applying (himself) to (its) practice, a man becomes a skyfarer. Endowed with the qualities of all the accomplishments, he possesses the eight (yogic) powers (guna). O greatly fortunate lady, by forming this (mudrā) he become the god whose banner is the bull directly apparent. He is seen in all the worlds, he who is the Supreme Lord. 
 
-By forming this (mudrā) the goddesses, Dāmarikās, Khecarīs, Nakracu.spaas,' Lāmās, Bhūcarīs stand (before him) humbly and deluded. The Mahocchūṣmās and others are all under his control. This is the most excellent of 
+By forming this (mudrā) the goddesses, Dāmarikās, Khecarīs, Nakracu.spaas,[^720] Lāmās, Bhūcarīs stand (before him) humbly and deluded. The Mahocchūṣmās and others are all under his control. This is the most excellent of 
 
-Mudrās called Triśūlā (the Trident).? 
+Mudrās called Triśūlā (the Trident).[^721] 
 
 This is the procedure concerning the Trident Mudrā in the Jayadratha 
 
@@ -1214,9 +1218,9 @@ Next, I will tell (you something) that is very astonishing along with its secret
 pradeśinye sṛk kaṇnābhyār \[k, kh, g: - kinībhyāṁ\] dāritāsye \[k: dāritā \* \* (?) stho, kh, g: dāritāsyo\] vinikṣipet |
 jihvām \[kh: jihvā\] sañcālayed vegāt \[kh: vegād\] svāhākāra samuddharet \[k: samudana; kh: samu \* dana; g: samuda \*(?)\] ॥ 578 ॥ 
 
-719?\. Literally the yoginiis who ‘suck finger nails’.
+[^720]: Literally the yoginiis who ‘suck finger nails’.
 
-720?\. JY 4/2/170cd-178.
+[^721]: JY 4/2/170cd-178.
 
 
 *[p. 299]* ^pg317
@@ -1227,11 +1231,11 @@ sarahasyā tavākhyātā \[k, g: bhavā-\] nākhyeyā yasya kasyacit |
 29b kh) anayā baddhayā gauri kālāgnyādiśivāntakam || 580 ॥
 kampate viśvam akhila darśanāt sādhakasya \[k, g: -kalpa; kh: -kasya\] hi |
 yathā śrīdariṣtrinī devī yathā devī \[kh: devā\] karaṁkinī \[g: +( 27074777\] ॥ 581 ॥
-4la g) tathā sā dṛśyate \[g: dr men.[^721] te\] sarvaiḥ sadevāsuramānuṣaiḥ | 
+4la g) tathā sā dṛśyate \[g: dr men. te\] sarvaiḥ sadevāsuramānuṣaiḥ | 
 
 Making his eyes look severe, he should move the pair of eyebrows, all the fingers of both hands should be intertwined like snakes, he should place (the thumbs of his hands) in (his) gaping mouth with two drops of blood in places (on it). He should move his tongue with force and utter svāhā! He should make a loud frightening laugh, that is fierce (and threatening) by nature (bhairava), eight times. This is Daṁṣṭriṇīmudrā which is the dawning of the Wheel of the Rays (raśmicakra). 
 
-I have told it to you with (its) secret. It should not be told to (just) anybody. O Gaurī, when this (mudrā) is made all the universe from the Fire of Time to Śiva trembles at the sight of the adept. As is the goddess the venerable \[illegible\] so is the goddess Karaṅkiṇī seen by all including the gods, demons and men.? 
+I have told it to you with (its) secret. It should not be told to (just) anybody. O Gaurī, when this (mudrā) is made all the universe from the Fire of Time to Śiva trembles at the sight of the adept. As is the goddess the venerable \[illegible\] so is the goddess Karaṅkiṇī seen by all including the gods, demons and men.[^722] 
 
 ### Dyczkowski's verse 587cd-590
 
@@ -1253,7 +1257,7 @@ kanīvike locane ca kruddhadṛgṣtir vidhūnayet \[kh, g: -drṣtividhūnayet\
 cālayel lehayej jihvār \[kh: jihvā\] oṣthau \[k: \* ṣthau; g: oṣtho\] samcūṣayed bhṛśam \[g: \*(?)śar\] |
 muṣtibandhaiḥ karair devi karasthe kuñcite \[kh: kucite\] kṛte ॥ 592 ॥ 
 
-[^721]: JY 4/2/572-582ab.
+[^722]: JY 4/2/572-582ab.
 
 *[p. 300]* ^pg318
 
@@ -1293,7 +1297,7 @@ Whatever be the action he desires, that is accomplished forcefully. There is no 
 
 *[p. 301]* ^pg319
 
-without her, none of them bestow the fruits of accomplishment. Thus, she is said to be common (to all) and bestows the fruits of worldly benefits and liberation.\* 
+without her, none of them bestow the fruits of accomplishment. Thus, she is said to be common (to all) and bestows the fruits of worldly benefits and liberation.[^723] 
 
 This is the procedure concerning Lelihānamudrā according to the Jayadrathayaamala. 
 
@@ -1324,7 +1328,7 @@ Having gone to Hara’s fearsome abode, exaulted by the bliss of wine, observing
 
 #### Viveka on Dyczkowski's verse 616-620ab
 
-722?\. JY 4/21587-602ab.
+[^723]: JY 4/21587-602ab.
 
 
 *[p. 302]* ^pg320
@@ -1345,7 +1349,7 @@ mahākṣobhakarī jñṁñeyā na bandhet samaya vinā ॥ 625 ॥
 sarahasyā tavākhyātā \[k: bhavā-\] gopanīyā prayatnataḥ |
 iti jayadrathe karaṁkiṇīmudrābandhaḥ | 
 
-Mounted in the Kula of the Great Abode, as if (engaged) in devouring the universe, (the yogi) vomits and licks everything up. O beloved, he devours all Impurity (mala). Mounted on the vitality (vīrya) of yore, he makes the mudrā of great light. O goddess, when that (mudrā) is made the triple world is reduced to ashes. He devours hundreds of thousands of Kālāgnis and causes a series of suns to fall (from the sky). Without a doubt, by just making it, he disturbs the entire Egg of Brahmā! In an hour and a half (praharārdha) he flies up into the sky, praised by the assembly of Yoginīs. If he is the Lord Bhairava, what wonder is it! There is no other mudrā similar to this one in the three worlds. One should know that it does all tasks and withdraws all things. One should know that (that mudra) is greatly disturbing (to oneself) if she is made without (observing) the Rule. I have told you about it along with its secret. It should be protected with effort.[^723] 
+Mounted in the Kula of the Great Abode, as if (engaged) in devouring the universe, (the yogi) vomits and licks everything up. O beloved, he devours all Impurity (mala). Mounted on the vitality (vīrya) of yore, he makes the mudrā of great light. O goddess, when that (mudrā) is made the triple world is reduced to ashes. He devours hundreds of thousands of Kālāgnis and causes a series of suns to fall (from the sky). Without a doubt, by just making it, he disturbs the entire Egg of Brahmā! In an hour and a half (praharārdha) he flies up into the sky, praised by the assembly of Yoginīs. If he is the Lord Bhairava, what wonder is it! There is no other mudrā similar to this one in the three worlds. One should know that it does all tasks and withdraws all things. One should know that (that mudra) is greatly disturbing (to oneself) if she is made without (observing) the Rule. I have told you about it along with its secret. It should be protected with effort.[^724] 
 
 (Such) is the formation of Karaṁkiṇīmudrā according to the Jayarathayāmala. 
 
@@ -1362,7 +1366,7 @@ tasyā \[kh: asyās; g: yasyā\] \[illegible\] \[kh, g: tulyā\] na paśyāmi mu
 
 Now 1 will tell (you about) the mudrā called Khecarī that, auspicious, does everything and is hidden in all the Tantras by virtue of which, O (goddess) 
 
-[^723]: JY 4/2/613cd-626ab.
+[^724]: JY 4/2/613cd-626ab.
 
 *[p. 303]* ^pg321
 
@@ -1404,9 +1408,9 @@ bhavaty eva hi saptāhād yathā devī karaṁkinī ॥ 640 ॥
 hattāhaṭṭtamukhā \[kh, g: haddāhadda-\] raudrā tathānyā nātra saṁśayaḥ |
 mahārahasyamudreśī nākhyeyā jātuci tvayā ॥ 641 ॥
 sārāt \[k: sārā\] sāratarā hyeṣā tavākhyātā yathārthataḥ |
-iti khecarīmudrābandhaḥ \[kh: -mudrā is.[^724] + || 
+iti khecarīmudrābandhaḥ \[kh: -mudrā is. + || 
 
-He flies up into the sky and is worshipped in every way by the skyfarers. In seven days, he becomes as is the goddess Karaṁkiṇī. Her face made of bones, fierce and more without a doubt. She is the greatly secret Mudreśī whom you should never talk about to anybody. I have told you what is the most essential essence of her as it truly 18. 
+He flies up into the sky and is worshipped in every way by the skyfarers. In seven days, he becomes as is the goddess Karaṁkiṇī. Her face made of bones, fierce and more without a doubt. She is the greatly secret Mudreśī whom you should never talk about to anybody. I have told you what is the most essential essence of her as it truly 18.[^725] 
 
 This is the formation of Khecarīmudrā 
 
@@ -1426,7 +1430,7 @@ Now I will tell (you) the mudrā that attains all things, the most excellent one
 gatvā vīravarodyānaṁ madirānandananditaḥ || 646 I|
 uktāsanopaviṣtas \[kh, g: udvāsano-\] tu samakāyaśirodharaḥ | 
 
-[^724]: JY 4/2/627cd-642ab.
+[^725]: JY 4/2/627cd-642ab.
 
 *[p. 305]* ^pg323
 
@@ -1467,18 +1471,18 @@ He should disturb the abode of Śakti and cause the mass of knots to fall. Full 
 
 *[p. 306]* ^pg324
 
-The man who sees it formed, in a moment attains his own essential nature. Though (his) body be like stone and he always transgresses the conduct of the Rule, O goddess, by viewing (this) mudrā he will be established in his own essential nature. Without this all the expanse without exception of Bhairava is said to be dead. There is no need to reflect on this. O Great Goddess, it should not be revealed to the disciple who have been poorly examined. The queen of mudrās, the greatly fortunate one, who bestows the fuits of worldly benefits and liberation.” 
+The man who sees it formed, in a moment attains his own essential nature. Though (his) body be like stone and he always transgresses the conduct of the Rule, O goddess, by viewing (this) mudrā he will be established in his own essential nature. Without this all the expanse without exception of Bhairava is said to be dead. There is no need to reflect on this. O Great Goddess, it should not be revealed to the disciple who have been poorly examined. The queen of mudrās, the greatly fortunate one, who bestows the fuits of worldly benefits and liberation.[^726] 
 
 This is the procedure concerning Bhairavamudrā according to the Jayarathayāmala. 
 
-725?\. JY 4/2/642cd-658ab.
+[^726]: JY 4/2/642cd-658ab.
 
 
 *[p. 307]* ^pg325
 
 Appendix A to Chapter Thirty-three 
 
-Sarvātmakacakra according to chapter five of the Tantrasadbhāva' 
+Sarvātmakacakra according to chapter five of the Tantrasadbhāva[^727] 
 
 mantranyāsaṁ (k, kh: madyanyāsaṁ) tataḥ kuryād bījair dvādaśabhedataḥ (bījaidvādasa-) |
 sve sve varnādhikāreṇa parāyāstu (kh: parāyastu) yathākramam || 11 ॥
@@ -1512,7 +1516,7 @@ I will tell (you) their deposition. Listen to the sure (and certain) teaching co
 
 #### Viveka on Dyczkowski's verse 14cd-17
 
-726?\. Refer to note 33, 42.
+[^727]: Refer to note 33, 42.
 
 
 *[p. 308]* ^pg326

@@ -42,8 +42,5 @@
   "autoResumeScroll": true,
   "autoResumeScrollDelay": 3000,
   "newDayStartsAt": 0,
-  "activePlan": {
-    "notePath": "Journal/2026/2026-10-26.md",
-    "anchorDate": 1792987200000
-  }
+  "activePlan": {}
 }

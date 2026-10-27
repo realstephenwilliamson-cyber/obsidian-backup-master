@@ -1,0 +1,32 @@
+# Brief: place the footnote calls in one note of Dyczkowski's Tantraloka (library copy)
+
+You are working on one note of Stephen's Obsidian vault: a Markdown copy (OCR) of part of Mark Dyczkowski's translation of the Tantrāloka with Jayaratha's Viveka. Its footnotes were left as plain paragraphs; a script has already turned each numbered footnote paragraph into a Markdown definition `[^n]: text`. In the body text the superscript calls are garbled (a quote mark, `?`, `\*`, a stray letter, digits glued to a word) or missing. Your job: read the page images and place each call `[^n]` exactly where the print has the superscript; and report what the script could not do. Stephen's standing rule: never write the Tetragrammaton (the four-letter divine name) in anything you produce, not even in your reply.
+
+Your folder (DIR, given in your task) holds:
+- `note.txt`: the note as it is now, one line per row, prefixed with its line number and a tab. Your ops refer to these line numbers. Read it in ranges as you go (Read with offset/limit), not all at once.
+- `pages.txt`: for every PDF page that has footnotes: its marker line (`*[p. N]* ^pgK`: printed page N = PDF page K; the text after a marker is that PDF page), the footnote numbers defined on it and their lines, the body lines, and hints (marks in the body that may be garbled calls; neither complete nor certain). At the top: numbers the script fixed, sequence flags, and footnotes that were already real before tonight (their calls are in place: no op for them).
+- `p-KKK.png`: PDF page KKK at 200 dpi. If a superscript is hard to read, render the page larger in your own folder: `pdftoppm -f K -l K -r 300 -gray -png "PDF" DIR/zoom/p` (PDF path in your task), and crop with Python (PIL).
+
+**Numbering.** The note numbers its footnotes through the volume (e.g. 364, 365, …) while the print may start again at 1 in each chapter. Use the note's numbers. The k-th numbered footnote printed on a page is the k-th definition the note has for that page; if they don't correspond (a definition missing, two notes run together, an extra one, a wrong number), sort it out with the ops below or report it.
+
+**Work page by page.** Read 3 or 4 page images per turn (several Read calls in one turn). For each footnote printed on the page, find its superscript in the body text, note the words just before it, find them in the body lines of that page, and write the call op. Also look at the footnote zone: continuation paragraphs, text carried over from the previous page, stray number lines.
+
+## Ops (all line numbers = note.txt as it is now)
+
+1. Call: `{"n": 366, "kind": "call", "op": "replace", "line": 68, "old": "image).?", "new": "image).[^366]"}`. `old` is an exact substring of that line (copy it character for character from note.txt, without the line-number prefix; keep escapes such as `\*` and `\[`), long enough to occur **exactly once** in the line: take the garbled mark with some characters before it (and after it if needed). `new` is the same text with the garble replaced by `[^n]` at the printed position. Keep punctuation the print really has: print `Tantras,²`, note `Tantras,”` → `Tantras,[^2]`; print `…give it.’³` (a real closing quote) → `give it.’[^3]`. When the OCR turned the superscript into a letter or digit glued to the word, remove it. When the call is missing altogether, insert `[^n]` where the print has the superscript. Only the garble goes; no other change to the words.
+2. Definition fix: `{"n": 413, "kind": "def", "op": "replace", "line": L, "old": "[^412]: ", "new": "[^413]: "}` when the script's number is wrong. Two footnotes run together in one paragraph: `old` = a few characters at the join, `new` = the same with `\n\n[^n]: ` where the second begins (drop its garbled number). A footnote paragraph whose number was lost (it stands as a plain paragraph): `old` = its first words, `new` = `[^n]: ` + those words.
+3. Continuation, same page: `{"n": 12, "kind": "cont", "op": "indent", "line": L}` for a further paragraph of footnote n on the same page that is not yet indented (it gets four spaces, so Markdown keeps it in the footnote). `{"kind": "cont", "op": "unindent", "line": L}` for a line the script indented that is not footnote text.
+4. Carried over to the next page: `{"n": 12, "kind": "cont", "op": "move", "line": L, "after": M}`. The print carries footnote n over the page break; in the note the carried part now sits as an unnumbered paragraph at the foot of the next page (usually just before that page's first definition). Line L is moved to follow line M (the last line of footnote n's text before the page break: its definition line or its last same-page continuation) and indented. Only for text the image shows as the continuation of a footnote.
+5. Stray number: `{"kind": "stray", "op": "delete", "line": L}` for a line holding nothing but a misplaced footnote number.
+
+## Rules
+
+- Every footnote defined in the note must end with exactly one call. If a call truly is not in the print, or a printed footnote has no text in the note at all, report it in `problems` and add nothing. Do not add or retype footnote text.
+- No other wording changes: leave OCR slips, `\[illegible\]` placeholders (keep them also when you split or renumber a definition: `[^n]: \[illegible\] text`), misprints, Sanskrit, everything else alone. Never touch page markers, headings (`#`), block ids, or the frontmatter.
+- Footnote text that the OCR put into the body, body text among the notes, text out of order: report in `problems`, don't fix (unless it is a plain carry-over, op 4).
+- Write a call followed by an opening parenthesis with a space between them where the print has one (`[^n] (54-55ab)`): `[^n](…)` is read by Obsidian as a link.
+- If two calls fall in the same line, write two separate ops whose `old` strings don't overlap.
+
+## Output
+
+Write `DIR/ops.json`: `{"note": "...", "ops": [...], "problems": ["..."], "per_note": [{"n": 366, "pdf": 153, "printed": 3, "call_line": 68}]}` (per_note for every footnote you placed). Write no other file outside DIR. Reply in under 250 words: the numbers covered, the count of each op, and the problems.

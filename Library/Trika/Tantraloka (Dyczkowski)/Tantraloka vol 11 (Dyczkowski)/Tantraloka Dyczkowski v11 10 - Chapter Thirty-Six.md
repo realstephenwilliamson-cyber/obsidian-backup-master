@@ -63,28 +63,30 @@ svargād ardhaṁ rāvaṇo ‘tha jahre rāmo ‘rdham apy ataḥ |
 vibhīṣaṇamukhād āpa guruśiṣyavidhikramāt || 6 ||
 khandair ekānnaviṁśatyā vibhaktaṁ tad abhūt tataḥ | 
 
-(This is the transmission) taught in the venerable Siddhā and other (Tantras) (my) teacher? has described. (The first to transmit it was) Bhairava, (then the following received and transmitted it successively:) 2) the goddess Bhairavī, 3) Svacchanda, 4) Lākula, 5) Aṇurāṭ (the Lord of the Souls), 6) Gahaneśa, 7) Abjaja (Brahmā, the Lotus Born One), 8) Śakra and 9) Bṛhaspati. (The scripture originally) extended to 1) 90,000,000 (verses). 2-9) 10,000,000 (verses) less (of it) was studied successively by (each of one of) these nine. Then Bṛhaspati out of the mere 10,000,000 (verses he had received) transmitted 10) a quarter (2,500,000) to Dakṣa and the rest, 11) both quarters to Saṁvarta and the rest, 12) a quarter to Vāmana etc (2,500,000), 13) half a quarter (1,250,000) to Bhārgava, 14) a quarter of a quarter to Bali (625,000), 15) a half of the other quarter of a quarter to Siṁha (312,500), 16) then two parts (bhāga) of what remained to Garuda (104,167), 17) one part to the snake Vāsuki (52,083).\* (Up to this point,) these sections (khanda) number seventeen. Now 18) Rāvanṇa stole half from heaven (78,125). (Then) from that 19) Rāma also (obtained) half from Vibhīṣana’s mouth (78,125). Thus, that (scripture which was transmitted) successively from teacher to disciple in the prescribed manner was divided into nineteen parts (khanda). (1-7ab) 
+[^530](This is the transmission) taught in the venerable Siddhā and other (Tantras) (my) teacher[^531] has described. (The first to transmit it was) Bhairava, (then the following received and transmitted it successively:) 2) the goddess Bhairavī, 3) Svacchanda, 4) Lākula, 5) Aṇurāṭ (the Lord of the Souls), 6) Gahaneśa, 7) Abjaja (Brahmā, the Lotus Born One), 8) Śakra and 9) Bṛhaspati. (The scripture originally) extended to 1) 90,000,000 (verses). 2-9) 10,000,000 (verses) less (of it) was studied successively by (each of one of) these nine. Then Bṛhaspati out of the mere 10,000,000 (verses he had received) transmitted 10) a quarter (2,500,000) to Dakṣa and the rest, 11) both quarters to Saṁvarta and the rest, 12) a quarter to Vāmana etc (2,500,000), 13) half a quarter (1,250,000) to Bhārgava, 14) a quarter of a quarter to Bali (625,000), 15) a half of the other quarter of a quarter to Siṁha (312,500), 16) then two parts (bhāga) of what remained to Garuda (104,167),[^532] 17) one part to the snake Vāsuki (52,083).[^533] (Up to this point,) these sections (khanda) number seventeen. Now 18) Rāvanṇa stole half from heaven (78,125).[^534] (Then) from that 19) Rāma also (obtained) half from Vibhīṣana’s mouth (78,125). Thus, that (scripture which was transmitted) successively from teacher to disciple in the prescribed manner was divided into nineteen parts (khanda). (1-7ab) 
 
 #### Viveka on 36.1–7
 
 ‘Anurātṭ (the Lord of the Souls)’ is Ananta. ‘Abjaja (The Lotus Born One)’ is Brahmā. (Then each of the following studied) ‘10,000,000 (verses) less 
 
-530?\. Although no direct citations can be identified, the edited text of the short recension of the SYM has a short version of the transmission in chapter 32. The list of names Dakṣa etc. referred to in verse 3 and cited by Jayaratha are found in chapter 28 of that recension of the SYM.
+[^530]: Although no direct citations can be identified, the edited text of the short recension of the SYM has a short version of the transmission in chapter 32. The list of names Dakṣa etc. referred to in verse 3 and cited by Jayaratha are found in chapter 28 of that recension of the SYM.
 
-531?\. 1 take the plural of gurubhis to be an honorific referring to Śambhunātha. This is quite possible, as there are several other places where Abhinava implies he has received teachings from him concerning the SYM. However, it seems that Jayaratha does not agree. Thus, after quoting (above in TĀv ad 1/84-86ab) the first half of the first line of his citation from the SYM here, the commentary, apparently mirroring Abhinava’s words, declares that, ‘this and the remaining statement has also been made by our teachers (asmadgurubhi.’ He then goes on to say, ‘this is said by Śrīkaṇtha’, who is a form of Śiva (ityādyukter asmadgurubhir apy ukta iti śrīkanthasyeyam uktiḥ). We may take this to be an ambiguous, indirect way of referring to whom Abhinava identifies with Śrīkantha (above, 1/9, where he is called Maheśvara).
+[^531]: 1 take the plural of gurubhis to be an honorific referring to Śambhunātha. This is quite possible, as there are several other places where Abhinava implies he has received teachings from him concerning the SYM. However, it seems that Jayaratha does not agree. Thus, after quoting (above in TĀv ad 1/84-86ab) the first half of the first line of his citation from the SYM here, the commentary, apparently mirroring Abhinava’s words, declares that, ‘this and the remaining statement has also been made by our teachers (asmadgurubhi.’ He then goes on to say, ‘this is said by Śrīkaṇtha’, who is a form of Śiva (ityādyukter asmadgurubhir apy ukta iti śrīkanthasyeyam uktiḥ). We may take this to be an ambiguous, indirect way of referring to whom Abhinava identifies with Śrīkantha (above, 1/9, where he is called Maheśvara).
 
-532?\. 312,500 divided by 3 = 104,167. + 104,167 divided by 2 = 52,083.
+[^532]: 312,500 divided by 3 = 104,167.
 
-533?\. This is half of 156,250 which is half of 312,500.
+[^533]: 104,167 divided by 2 = 52,083.
+
+[^534]: This is half of 156,250 which is half of 312,500.
 
 
 *[p. 221]* ^pg239
 
 (of it)’. Bhairava studied (all the) ninety million (verses), Bhairavī, eighty, (and so on) up to Śukra, (who studied) ten. (They did so) ‘successively’, (that is) Bhairavī (studied it) from Bhairava, then Svacchanda (from the goddess, and so on) up to Bṛhaspati (who studied it) from Śukra. “These’ (nine, that is) Bhairava and the rest. As scripture (i.e. the Siddhayogīśvarīmata declares): 
 
-‘Bhairav? obtained the Siddhayogīśvarīmata from Bhairava. It was then (obtained from Bhairavī) by the god Svacchanda, and from Svacchanda by Lākula, by Ananta from Lākulīśa, and Gahanādhipa from Ananta. O goddess, (Brahmā) the Grandfather and Lord of the gods (received it) from Gahanādhipati. (It was transmitted by) the Grandfather to Indra and by Indra to Bṛhaspati, diminishing by ten million (at each stage), it was heard by all the greatly powerful ones, Svacchanda and the rest.’ 
+‘Bhairavī[^535] obtained the Siddhayogīśvarīmata from Bhairava. It was then (obtained from Bhairavī) by the god Svacchanda, and from Svacchanda by Lākula, by Ananta from Lākulīśa, and Gahanādhipa from Ananta. O goddess, (Brahmā) the Grandfather and Lord of the gods (received it) from Gahanādhipati. (It was transmitted by) the Grandfather to Indra and by Indra to Bṛhaspati, diminishing by ten million (at each stage), it was heard by all the greatly powerful ones, Svacchanda and the rest.’ 
 
-ʻA quarter’ is a fourth part, which consists of 2,500,000 (verses). By (saying) ‘both’ and ‘quarters’, the dual number indicates that it is used (with the intention) of including the previous quarter (which was transmitted to Dakṣa).\* Otherwise (if this were not to be the meaning), because of the dual number, both would be doubled, and so (the calculation would not) bear fruit (and be correct); moreover, the calculation (of the extent of the descending series of parts) would not be consistent. ‘Half a quarter’ (that was given to Bhārgava consists of) 1,250,000 (verses). ʻA quarter of a quarter’ (was given to Bali, that is) 625,000 (verses). ‘The other quarter of a quarter’ is also 625,000, a half of which (was given to Siṁha, which) amounts to 312,500 (verses). ‘Then two parts of what remained’ that is the second half, which was the same (as the first, i.e. 312,500 verses). In relation to the second half, which measures 156,250 (verses, of which half), as will be explained, was stolen by Rāvaṇa, (two parts) from the first half measure 104,167 (verses). This is the meaning. ʻA part’ (here) means a third, which is 52,083. Along with the previous nine parts, (the scripture was divided into) seventeen (parts in this way). The conclusion is such in order to highlight that their subject is divine. 
+ʻA quarter’ is a fourth part, which consists of 2,500,000 (verses). By (saying) ‘both’ and ‘quarters’, the dual number indicates that it is used (with the intention) of including the previous quarter (which was transmitted to Dakṣa).[^536] Otherwise (if this were not to be the meaning), because of the dual number, both would be doubled, and so (the calculation would not) bear fruit (and be correct); moreover, the calculation (of the extent of the descending series of parts) would not be consistent. ‘Half a quarter’ (that was given to Bhārgava consists of) 1,250,000 (verses). ʻA quarter of a quarter’ (was given to Bali, that is) 625,000 (verses). ‘The other quarter of a quarter’ is also 625,000, a half of which (was given to Siṁha, which) amounts to 312,500 (verses). ‘Then two parts of what remained’ that is the second half, which was the same (as the first, i.e. 312,500 verses). In relation to the second half, which measures 156,250 (verses, of which half), as will be explained, was stolen by Rāvaṇa, (two parts) from the first half measure 104,167 (verses). This is the meaning. ʻA part’ (here) means a third, which is 52,083. Along with the previous nine parts, (the scripture was divided into) seventeen (parts in this way). The conclusion is such in order to highlight that their subject is divine. 
 
 (Rāvaṇa) ‘stole half from heaven’ means that he obtained it in the manner in which violent sexual intercourse (hathamelāpa) (takes place). ‘From that’, that is, from the half that was stolen by Rāvaṇa, (Rāma obtained) ‘half’, which numbered 78,125 (verses). (The statement that the scripture that was transmitted) ‘successively from teacher to disciple’ applies to all (these instances). (It was divided into) ‘nineteen parts’, including the previous seventeen. In order to show that these two parts belong to one and the same area (of application, namely, this) earthly world, they are indicated by being enumerated separately from the (other) seventeen (parts). It is said with the same intention that ‘the rest will be (revealed) in a house on the Island of the Virgin (Goddess) (i.e. India).” “That’ (scripture) is the Siddhayogeśvarīmata that 
 
@@ -92,9 +94,9 @@ extends
 
 for ninety million (verses). As the scripture (i.e. the Siddhayogeśvarīmata says,) beginning with: 
 
-535?\. Read bhairavyā for bhairavīṁ. The first half of this line is quoted above in TĀv ad 1/84-86ab.
+[^535]: Read bhairavyā for bhairavīṁ. The first half of this line is quoted above in TĀv ad 1/84-86ab.
 
-536?\. <sup>\*</sup>In other words, Saṁvarta received a quarter. He says ‘both quarters’ in the sense of that one and the quarter received by Dakṣa.
+[^536]: <sup>\*</sup>In other words, Saṁvarta received a quarter. He says ‘both quarters’ in the sense of that one and the quarter received by Dakṣa.
 
 
 *[p. 222]* ^pg240
@@ -103,7 +105,7 @@ CHAPTER THIRTY-SIX
 
 ‘There, the illustrious Bṛhaspati began an explanation of that (scripture). 
 
-ʻO goddess, once Dakṣa, Caṇda, Hari, Caṇdin, Pramatha, Bhīma, Manmatha, Śakuni, Sumati, Nanda, Gopāla, and Pitāmaha had heard this Tantra, the Yogīśvarīmata, out of ten million, they made one quarter clear and firm (in their memory). Saṁvarta and the rest and the Vīreśas learnt two uarters. O fair lady, O Bhairavī, Vāmana and the rest knew one quarter. Then Sakra obtained a half (of that) and Balinanda a half of that. In the same way Siṁha (received) half of that, and Garuda just 100,000 (verses of it). Mahānāga, the Lord engaged in guarding the netherworld, (got) half of 100,000. The lord of the Nāgas, called Vāsuki, having laid hold (of it,) worshipped (it) constantly. Then all that remined of it was stolen by one with an evil mind. (It was) Rāvaṇa, the thorn (in the side) of the god who went to Laṅkā.’” 
+ʻO goddess, once Dakṣa, Caṇda, Hari, Caṇdin, Pramatha, Bhīma, Manmatha, Śakuni, Sumati, Nanda, Gopāla, and Pitāmaha[^537] had heard this Tantra, the Yogīśvarīmata, out of ten million, they made one quarter clear and firm (in their memory). Saṁvarta and the rest and the Vīreśas learnt two uarters. O fair lady, O Bhairavī, Vāmana and the rest knew one quarter. Then Sakra obtained a half (of that) and Balinanda a half of that. In the same way Siṁha (received) half of that, and Garuda just 100,000 (verses of it). Mahānāga, the Lord engaged in guarding the netherworld, (got) half of 100,000. The lord of the Nāgas, called Vāsuki, having laid hold (of it,) worshipped (it) constantly. Then all that remined of it was stolen by one with an evil mind. (It was) Rāvaṇa, the thorn (in the side) of the god who went to Laṅkā.’” 
 
 ‘It has come in this way into the mortal world from the world of Vāsava. Brought down by Rāvaṇa, it has come down through the sequence of the series (of teachers). Then Vibhīṣaṇa obtained it, and from him it went to (Rāma) the son of Daśaratha.” 
 
@@ -111,7 +113,7 @@ CHAPTER THIRTY-SIX
 
 Here, the word ‘just’ (in the expression) ‘just 100,000 (verses of it)’ and the word ‘half’ (in the expression) ‘half of 1000007, which denotes an unequal part, indicates that a slightly greater number (than a half) has been accepted, which the author has conceived to be a ‘bhāga’ (‘part’), in order to 
 
-highlight that (discrepancy).'” 
+highlight that (discrepancy).[^538] 
 
 Each of the (nineteen) sections is here made of eight sections. Thus he says: 
 
@@ -128,9 +130,9 @@ And each of these parts (khanda) is (subdivided into) eight parts, in accord wit
 
 He indicates (the name of the types of divisions of the scriptures into) pādas etc. 
 
-537?\. \[illegible\] See above 33/8cd-9ab, where these twelve are listed as the members of a twelve-spoked wheel. They govern the twelve months of the year.
+[^537]: \[illegible\] See above 33/8cd-9ab, where these twelve are listed as the members of a twelve-spoked wheel. They govern the twelve months of the year.
 
-538?\. Jayaratha is saying that Abhinavagupta refers to portions of the scripture that were received by Garuda as ‘bhāgas’, which is one of a number of words that mean ‘part’, in order to stress that these portions were not of equal length, as indicated above.
+[^538]: Jayaratha is saying that Abhinavagupta refers to portions of the scripture that were received by Garuda as ‘bhāgas’, which is one of a number of words that mean ‘part’, in order to stress that these portions were not of equal length, as indicated above.
 
 
 *[p. 223]* ^pg241
@@ -159,13 +161,13 @@ na kācid uktā vyavacchidāhīne ॥ 9 ॥
 
 #### Viveka on 36.8–9
 
-These, ‘pāda’ and the rest, are technical terms that have as their objects fixed (predetermined) sizes of a book. Surely (one may ask), if the three Goddesses are described here in their amplified (and developed) form (prapañca) in three ways, so how is it is not said that there are nine sections?" With this doubt in mind, he says that ‘Anuttara pervades (them all)’. It is for this reason that it is said that ‘In the ninth phase (pada) (which is that of Anuttara and so) exempt from division, no enumeration of any sort is taught’. As scripture (i.e. the Siddhayogīśvarīmata says): 
+These, ‘pāda’ and the rest, are technical terms that have as their objects fixed (predetermined) sizes of a book. Surely (one may ask), if the three Goddesses are described here in their amplified (and developed) form (prapañca) in three ways, so how is it is not said that there are nine sections?[^539] With this doubt in mind, he says that ‘Anuttara pervades (them all)’. It is for this reason that it is said that ‘In the ninth phase (pada) (which is that of Anuttara and so) exempt from division, no enumeration of any sort is taught’. As scripture (i.e. the Siddhayogīśvarīmata says): 
 
-‘O lady of good vows, I have told you the pāda, mūla, and uddhāra, the uttara, the bṛhaduttara, the kalpa, and the saṁhitā. O fair lady, I will tell you the kalpaskanda” in brief. A pāda numbers half of one hundred (syllables), the müla one hundred, know that the uddhāra is twice that (i.e. 200), and the uttara is considered to be four times that (i.e. 400). O fair lady, this other one is devoid of half a syllable. In this way, the urttaratantra within the root Bhairava (current of scripture) has been declared. If the other one, O fair lady, is devoid of six parts, then it is the bṛhaduttara (of 394 syllables). By omitting the syllable of nectar, it consists of a hundred syllables and is called a paribhāṣā. The kalpa numbers 1000 (syllables) which is that of Aparā, O renowned lady. When (the 
+‘O lady of good vows, I have told you the pāda, mūla, and uddhāra, the uttara, the bṛhaduttara, the kalpa, and the saṁhitā. O fair lady, I will tell you the kalpaskanda[^540] in brief. A pāda numbers half of one hundred (syllables), the müla one hundred, know that the uddhāra is twice that (i.e. 200), and the uttara is considered to be four times that (i.e. 400). O fair lady, this other one is devoid of half a syllable. In this way, the urttaratantra within the root Bhairava (current of scripture) has been declared. If the other one, O fair lady, is devoid of six parts, then it is the bṛhaduttara (of 394 syllables). By omitting the syllable of nectar, it consists of a hundred syllables and is called a paribhāṣā. The kalpa numbers 1000 (syllables) which is that of Aparā, O renowned lady. When (the 
 
-539?\. 1 take pratyeka (‘each one’) to be spurious. Each phase (pada) cannot be considered to be ninefold. There can be a doubt as to why each one of the three Goddess is not threefold to make nine altogether.
+[^539]: 1 take pratyeka (‘each one’) to be spurious. Each phase (pada) cannot be considered to be ninefold. There can be a doubt as to why each one of the three Goddess is not threefold to make nine altogether.
 
-540?\. Read as we find further ahead in this passage, and as does Abhinava, kalpaskandaṁ for kalpaḥ skandaṁ.
+[^540]: Read as we find further ahead in this passage, and as does Abhinava, kalpaskandaṁ for kalpaḥ skandaṁ.
 
 
 *[p. 224]* ^pg242
@@ -218,11 +220,11 @@ sa cārdhatryambakābhikhyaḥ saritānaḥ supratiṣthitaḥ ॥ 13 ॥
 ataś cārdhacatasro ‘tra mathikāḥ saṁtatikramāt |
 siṣyapraśiṣyair vistīrnāḥ Śataśākhari vyavasthitaiḥ I| 14 II 
 
-When what they had received through the sequence (of the transmission) was lost with the passage of time then, at the command of the venerable Śrīkanṭha, (three) Siddhas came down (to earth). (They were) the ones called Tryambika and Amardaka, (along with) Śrinātha, who were skilled, respectively, in the nondual, dual and dual-cum-nondual teachings of Śiva (śivaśāsana). The first one gave rise to a second lineage that (originated) from the school (krama) (of his) daughter which, well established, is called the lineage of Ardhatryambaka (Half of Tryambaka). Thus, there are three and a half orders (maṭhikā) (that have originated) here from the lineages (of the Śaiva) tradition (santatikrama),“ and were extended (far and wide) into countless (lit. ʻa hundred’) branches by disciples and their disciples. (11-14) 
+When what they had received[^541] through the sequence (of the transmission) was lost with the passage of time then, at the command of the venerable Śrīkanṭha, (three) Siddhas came down (to earth). (They were) the ones called Tryambika and Amardaka, (along with) Śrinātha, who were skilled, respectively, in the nondual, dual and dual-cum-nondual teachings of Śiva (śivaśāsana). The first one gave rise to a second lineage that (originated) from the school (krama) (of his) daughter which, well established, is called the lineage of Ardhatryambaka (Half of Tryambaka). Thus, there are three and a half orders (maṭhikā) (that have originated) here from the lineages (of the Śaiva) tradition (santatikrama),[^542] and were extended (far and wide) into countless (lit. ʻa hundred’) branches by disciples and their disciples. (11-14) 
 
 #### Viveka on 36.11–14
 
-‘Nondual’ (Śaiva schools are) the Trikakula etc. (It is a) ‘half’ (lineage,) in relation (to the fact that it was established by Tryambika’s) daughter.“ ‘There are three and a half’ (lineages). ‘Along with the half, there are four’ (lineages,) means there are three and a half. 
+‘Nondual’ (Śaiva schools are) the Trikakula etc. (It is a) ‘half’ (lineage,) in relation (to the fact that it was established by Tryambika’s) daughter.[^543] ‘There are three and a half’ (lineages). ‘Along with the half, there are four’ (lineages,) means there are three and a half. 
 
 Surely, (one may ask that,) it would be logical to say here (in this case that) there is only Traiyambika’s lineage (maṭhikā) through which this scripture comes down. So, what is the use of describing another lineage? With this doubt in mind, he says: 
 
@@ -231,11 +233,11 @@ The Tantrāloka is Their Essence
 अध्युष्टसंततिखोत ःसारभूतरसाहतिम् ।
 विधाय तन््रालोकोऽयं स्यन्दते सकलात्रसान् ॥ १५ ॥
 
-541?\. Read yat prāptaṁ for tanmadhye.
+[^541]: Read yat prāptaṁ for tanmadhye.
 
-542?\. Verses 1160 to 14ab are quoted above in TĀv ad 1/7. Cf. above 4/260 and see below 37/60-61 concerning Abhinava’s teachers in these lineages. See above notes 1,139, 167 and 168, where this passage and its parallel in ŚDr 7/107-111 are discussed. The reader is reminded that in Somānanda’s account of these lineages, which is the original one upon which this one is modelled, there is no mention of Tryambaka’s daughter as the founder of the lineage of Ardhatryambaka (Half of Tryambaka), that Abhinava identifies as the one that teaches the Kaula modality of Trika, which is, essentially, Trika itself.
+[^542]: Verses 1160 to 14ab are quoted above in TĀv ad 1/7. Cf. above 4/260 and see below 37/60-61 concerning Abhinava’s teachers in these lineages. See above notes 1,139, 167 and 168, where this passage and its parallel in ŚDr 7/107-111 are discussed. The reader is reminded that in Somānanda’s account of these lineages, which is the original one upon which this one is modelled, there is no mention of Tryambaka’s daughter as the founder of the lineage of Ardhatryambaka (Half of Tryambaka), that Abhinava identifies as the one that teaches the Kaula modality of Trika, which is, essentially, Trika itself.
 
-543?\. \[illegible\] It is normal practice, as in this case, that women receive a ‘half initiation with respect to men. It is not said to be ‘half’ because it is less than a man’s initiation or because a woman only has ‘half’ his authority. It simply denotes that it is brief and is the woman’s part through which she receives immediate enlightenment. The Trika tradition transmitted in Kashmir by Tryambaka’s daughter, that Abhinava felt he belonged to, was clearly not a lesser tradition. Indeed, quite the contrary. See previous note.
+[^543]: \[illegible\] It is normal practice, as in this case, that women receive a ‘half initiation with respect to men. It is not said to be ‘half’ because it is less than a man’s initiation or because a woman only has ‘half’ his authority. It simply denotes that it is brief and is the woman’s part through which she receives immediate enlightenment. The Trika tradition transmitted in Kashmir by Tryambaka’s daughter, that Abhinava felt he belonged to, was clearly not a lesser tradition. Indeed, quite the contrary. See previous note.
 
 
 *[p. 226]* ^pg244
@@ -249,7 +251,7 @@ vidhāya tantrāloko ‘yari syandate sakalān rasān ॥ 15 ॥
 
 Having extracted (and absorbed) the juice (rasa) (of the aesthetic delight) which is the essence of the current of (these) three and a half lineages, this (our work), the Tantrāloka, oozes with all the juices (rasa) (of 
 
-aesthetic sentiments).”ć (15) 
+aesthetic sentiments).[^544] (15) 
 
 #### Viveka on 36.15
 
@@ -268,7 +270,7 @@ Now we will explain why it is necessary to adopt (this tradition, of which) the 
 
 Here (in this book), in order to show the mutual connection between one chapter and the next, at the end (of the prior one) and the beginning (of the subsequent one), the separate conclusion (of the former) and introduction (of the latter) are connected together by (being incorporated into) one verse, (of which the first line is the former and the second line, the latter). Even though (this is so in every case), now (we are) at the end of the book; in order to stress that intimate connection strongly, (they are) connected together simultaneously by 
 
-(just) half (a verse). 
+(just) half (a verse).[^545] 
 
 This the auspicious end (of this chapter of the Tantrāloka). 
 
@@ -276,6 +278,6 @@ This the auspicious end (of this chapter of the Tantrāloka).
 
 Thus (ends) Chapter Thirty-six, called the Description of the Sequence of the Transmission, of the (commentary called) Discernment, of the venerable Tantrāloka. 
 
-544?\. Quoted above in TĀv ad 1/9.
+[^544]: Quoted above in TĀv ad 1/9.
 
-545?\. In other words, the second half of the verse, which would normally be at the beginning of the following chapter, is omitted.
+[^545]: In other words, the second half of the verse, which would normally be at the beginning of the following chapter, is omitted.

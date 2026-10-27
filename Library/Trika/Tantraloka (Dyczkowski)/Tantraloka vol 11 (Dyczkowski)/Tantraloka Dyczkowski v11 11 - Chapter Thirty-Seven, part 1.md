@@ -52,7 +52,7 @@ in the same way, one attains Śiva on the basis of that certainty (of His existe
 
 #### Viveka on 37.2
 
-\*(Some) other’ (fruit) is one that is not seen.’ 
+\*(Some) other’ (fruit) is one that is not seen.[^546] 
 
 Surely (one may ask), in this way, the tradition, which is essentially commonly accepted belief (prasiddhi), is of many kinds, so which one (these many kinds) is it essential to accept? With this doubt in mind, he says: 
 
@@ -71,7 +71,7 @@ kṣayaṁ karmasthitis tadvad aśaṁkād bhairavatvataḥ ॥ 4 ॥
 yadārṣe pātahetūktaṁ tad asmin vāmaśāsane |
 āśusiddhyai yataḥ sarvam ārṣaṁ māyodarasthitam || 5 ॥ 
 
-(Although) the scriptures, that teach their own (partial) aspects (of reality) and (so yield) limited fruits, must necessarily be chosen (by those who want these fruits), (the scripture) which is much more worthy of selection is one that (yields unlimited fruit, and so) is the opposite of this. (3-5? 
+(Although) the scriptures, that teach their own (partial) aspects (of reality) and (so yield) limited fruits, must necessarily be chosen (by those who want these fruits), (the scripture) which is much more worthy of selection is one that (yields unlimited fruit, and so) is the opposite of this. (3-5)[^547] 
 
 #### Viveka on 37.3
 
@@ -86,9 +86,9 @@ The Scripture Whose Teachings are Complete Bestows Anuttara
 तच्च यत्सर्वसर्वज्ञदृष्टं तच्चापि किं भवेत् ।
 tac ca yat sarvasarvajñadṛṣtar tac cāpi (771 bhavet | 
 
-546?\. There are two types of consequences of one’s actions (karman). One is ‘seen’, in the sense that it is apparent in this life. The other type is not.
+[^546]: There are two types of consequences of one’s actions (karman). One is ‘seen’, in the sense that it is apparent in this life. The other type is not.
 
-547?\. Verse 4 of the printed edition is the same as verse 12cd-13ab, and verse 5 is the same as 11cd- 12ab. Placed as verses 4 and 5 they make little sense, whereas as 12cd-13ab and 11cd-12ab, they are in context. Accordingly, these two verses have been removed from here. The numbering remains that of the printed edition so as not to create confusion.
+[^547]: Verse 4 of the printed edition is the same as verse 12cd-13ab, and verse 5 is the same as 11cd- 12ab. Placed as verses 4 and 5 they make little sense, whereas as 12cd-13ab and 11cd-12ab, they are in context. Accordingly, these two verses have been removed from here. The numbering remains that of the printed edition so as not to create confusion.
 
 
 *[p. 229]* ^pg247
@@ -119,7 +119,7 @@ a Corresponding Limited Knowledge यथाधराधरप्रक्तव�
 yathādharādharaproktavastutattvānuvādataḥ |
 uttaraṁ kathitaṁ saṁvitsiddhaṁ tad dhi tathā bhavet ॥ 7 ॥ 
 
-Just as a higher (reality) is explained in terms of its consonance with the nature of the matter (vastutattva) taught at a correspondingly lower level, so is it with (the reality) that is proved (to exist) by the consciousness (of personal experience).? (7) 
+Just as a higher (reality) is explained in terms of its consonance with the nature of the matter (vastutattva) taught at a correspondingly lower level, so is it with (the reality) that is proved (to exist) by the consciousness (of personal experience).[^548] (7) 
 
 #### Viveka on 37.7
 
@@ -133,7 +133,7 @@ It is thus determined (for sure) that the lower teachings are instituted by thos
 अपूर्णसर्ववित््रक्तिजञीयतेऽधरशासने ॥ ८ ॥
 yaduktādhikasaṁivittisiddhavastunirūpanāt | 
 
-548?\. Gnoli’ translation is more in accord with Jayaratha’s explanation: ‘after having referred to the main essential points that are repeatedly reaffirmed by progressively inferior doctrines, a superior reality is affirmed here, in the same way, this reality must be personally ascertained.
+[^548]: Gnoli’ translation is more in accord with Jayaratha’s explanation: ‘after having referred to the main essential points that are repeatedly reaffirmed by progressively inferior doctrines, a superior reality is affirmed here, in the same way, this reality must be personally ascertained.
 
 
 *[p. 230]* ^pg248
@@ -179,7 +179,7 @@ naiva pramāṇayed vidvān śaivam evāgamaṁ śrayet |
 
 *[p. 231]* ^pg249
 
-The Supreme Lord has said in the venerable Aanandaśāstra, for example, that a learned man should not select as (his) authority the Veda (rṣivākya), which (gives) much affliction (kleśa),‘ yields little and unstable results, and is limited (mita) (in its teachings and application); (rather) he should take refuge only in Śaiva scripture (gama). (10-11ab) 
+The Supreme Lord has said in the venerable Aanandaśāstra, for example, that a learned man should not select as (his) authority the Veda (rṣivākya), which (gives) much affliction (kleśa),[^551] yields little and unstable results, and is limited (mita) (in its teachings and application); (rather) he should take refuge only in Śaiva scripture (gama). (10-11ab) 
 
 #### Viveka on 37.10–11
 
@@ -193,24 +193,24 @@ Surely (one may object) that, if one should not adopt treatises such as Manusm�
 yadārṣe pātahetūktaṁ tad asmin vāmaśāsane ॥ 11 ॥
 āśu siddhyai yataḥ sarvam \[illegible\] māyodarasthitam | 
 
-That which is said in the Veda to be the cause of a fall (into sin), in this doctrine of the left (vāmaśāsana), serves to lead rapidly to accomplishment. This is so because all (the Vedic teaching) of the 775 \[illegible\] is in the very belly of Māyā. (11cd-12ab) 
+That which is said in the Veda to be the cause of a fall (into sin), in this doctrine of the left (vāmaśāsana),[^552] serves to lead rapidly to accomplishment. This is so because all (the Vedic teaching) of the 775 \[illegible\] is in the very belly of Māyā. (11cd-12ab) 
 
 #### Viveka on 37.11–12
 
 ‘That which is said (in the Veda) to be the cause of a fall (into sin)’ means the word uttered by the gods etc., who are the cause of sin. A clear (and hence preferable) reading is ‘that which is said to bring about a fall’. (The Vedic teaching) is ‘in the very belly of Māyā’ because its intent is to protect (and preserve) the worldly way of life. 
 
-Surely (one may ask), would not the basic condition (sthiti) of Karma (that ensures that our actions bear their consequences) be undermined?? He removes this doubt, heralding (his response) by first presenting an example, saying ‘just as’ etc. 
+Surely (one may ask), would not the basic condition (sthiti) of Karma (that ensures that our actions bear their consequences) be undermined?[^553] He removes this doubt, heralding (his response) by first presenting an example, saying ‘just as’ etc. 
 
 ### TĀ 37.12–13
 
 यथा खगे्वरीभावनिःशङड्वाद्रषं व्रजेत् ॥ १२ ॥
 षयं कर्मस्थितिस्तद्रदशङ्धाद्रैरवत्वतः ।
 
-551?\. The same expression appears below in 37/28a.
+[^551]: The same expression appears below in 37/28a.
 
-552?\. This verse is also from the Ānandatantra. About the significance and symbolic value of the word vāma (which means \[illegible\] or ‘opposite’), as contrary to the current of worldly existence (saṁsāraviparīta), see above, 15/278cd-281. Cf. Kulārṇavatantra 5/48ab: yair eva patana dravyais siddhis tair eva coditā | “Those sacrificial substances which cause (one) to fall (according to other schools) are (the means to the attainment) of the accomplishment enjoined (in this one).” According to Sanderson (1995: 86), who refers to Śrīkanṭhī v. 264, by vāmaśāsana here is meant the left current of scriptures (vāmasrotas), as the Ānandatantra quoted here belongs to that part of the canon.
+[^552]: This verse is also from the Ānandatantra. About the significance and symbolic value of the word vāma (which means \[illegible\] or ‘opposite’), as contrary to the current of worldly existence (saṁsāraviparīta), see above, 15/278cd-281. Cf. Kulārṇavatantra 5/48ab: yair eva patana dravyais siddhis tair eva coditā | “Those sacrificial substances which cause (one) to fall (according to other schools) are (the means to the attainment) of the accomplishment enjoined (in this one).” According to Sanderson (1995: 86), who refers to Śrīkanṭhī v. 264, by vāmaśāsana here is meant the left current of scriptures (vāmasrotas), as the Ānandatantra quoted here belongs to that part of the canon.
 
-553?\. \[illegible\] The question is very cogent. It is the Veda and its related literature — the smṛti ~ amongst which are the law books (dharmaśāstra), that ascertain the nature of Karma, whether it is good or bad and to what degree in relation to the person who creates it. Moreover, it prescribes the penances that are applicable for the infringement of the rules of Karma and more. The concept of Karma is universally accepted in all of Asia. For Śaivites the authority on which this acceptance is based is the Veda. Thus, its authority cannot be totally denied, nor does it need to be.
+[^553]: \[illegible\] The question is very cogent. It is the Veda and its related literature — the smṛti ~ amongst which are the law books (dharmaśāstra), that ascertain the nature of Karma, whether it is good or bad and to what degree in relation to the person who creates it. Moreover, it prescribes the penances that are applicable for the infringement of the rules of Karma and more. The concept of Karma is universally accepted in all of Asia. For Śaivites the authority on which this acceptance is based is the Veda. Thus, its authority cannot be totally denied, nor does it need to be.
 
 
 *[p. 232]* ^pg250
@@ -218,9 +218,9 @@ Surely (one may ask), would not the basic condition (sthiti) of Karma (that ensu
 yathā khageśvarībhāvanihśaṁkatvād viṣaṁ vrajet ॥ 12 ॥
 kṣayari karmasthitis tadvad aśaṁkād bhairavatvataḥ | 
 
-Just as (snake) venom departs (from the body) by (the firm conviction), free of doubt, of being Garuda, in the same way the (fettered) karmic state’ is destroyed (by the firm conviction), free of doubt, that one 
+Just as (snake) venom departs (from the body) by (the firm conviction), free of doubt, of being Garuda, in the same way the (fettered) karmic state[^554] is destroyed (by the firm conviction), free of doubt, that one 
 
-possesses Bhairava’s nature.” (12cd-13ab) 
+possesses Bhairava’s nature.[^555] (12cd-13ab) 
 
 #### Viveka on 37.12–13
 
@@ -246,30 +246,30 @@ utkṛṣtaṁ bhairavābhikhyaṁ catuhṣaṣtivibheditam | 17 Il
 
 (The teachings) of inferior systems are afflicted by ignorance and the lack of (sound) teachings. It is necessary therefore to choose the 
 
-554?\. \[illegible\] Correct karmasthitis to karmasthites.
+[^554]: \[illegible\] Correct karmasthitis to karmasthites.
 
-555?\. is the enemy of the serpents. The venom of the serpents, according to a widespread tradition, is neutralized by the meditation of Garuda, if done, that is, by the one bitten or, the doctor who has him in his care, thinking that he is Garuda, identifies himself mentally with Garuda. Mutatis mutandis, the poison/venom of transmigration is overcome/conquered by thinking of oneself to be Bhairava. This comparison also occurs in the writings of Śaivite masters of South India (for example Tirumālar, etc.). For an outline of this practice as found in a passage of the Gārudapurāṇa, which may well have been drawn from a Gārudatantra, see Dyczkowski 1988: 39-41.
+[^555]: is the enemy of the serpents. The venom of the serpents, according to a widespread tradition, is neutralized by the meditation of Garuda, if done, that is, by the one bitten or, the doctor who has him in his care, thinking that he is Garuda, identifies himself mentally with Garuda. Mutatis mutandis, the poison/venom of transmigration is overcome/conquered by thinking of oneself to be Bhairava. This comparison also occurs in the writings of Śaivite masters of South India (for example Tirumālar, etc.). For an outline of this practice as found in a passage of the Gārudapurāṇa, which may well have been drawn from a Gārudatantra, see Dyczkowski 1988: 39-41.
 
 
 *[p. 233]* ^pg251
 
-doctrine preached by Śiva, which is the (exact) opposite of this." (13cd-14ab) 
+doctrine preached by Śiva, which is the (exact) opposite of this.[^556] (13cd-14ab) 
 
 ### TĀ 37.14–15
 
-+€ teachers) qualified there (to teach it) are two, the venerable Śrīkaṇṭha and Lakulīśa.” This scripture, which is the right (one) and bestows the supreme good, is divided into two (major) currents (pravāha), of which the first also bestows worldly benefits as desired (not just 
+[^557] teachers) qualified there (to teach it) are two, the venerable Śrīkaṇṭha and Lakulīśa.[^558] This scripture, which is the right (one) and bestows the supreme good, is divided into two (major) currents (pravāha), of which the first also bestows worldly benefits as desired (not just 
 
-liberation). (14cd-15) 
+liberation).[^559] (14cd-15) 
 
 ### TĀ 37.16–17
 
-Again, that (current), diversified by the variety of (Śiva’s five) powers, is said to be of five kinds.” The teaching (śāsana) of the venerable Śrīkaṇṭha is called the Five Currents (srotas) (of scriptures). These five currents (combining variously are) ten and eighteen-fold, (as the common scriptures of the Siddhānta) and then (above them) also is the most excellent and complete (alam) (current) called Bhairava, which is divided 
+Again, that (current), diversified by the variety of (Śiva’s five) powers, is said to be of five kinds.[^560] The teaching (śāsana) of the venerable Śrīkaṇṭha is called the Five Currents (srotas) (of scriptures). These five currents (combining variously are) ten and eighteen-fold, (as the common scriptures of the Siddhānta) and then (above them) also is the most excellent and complete (alam) (current) called Bhairava, which is divided 
 
-into sixty-four (scriptures). (16-17) 
+into sixty-four (scriptures).[^561] (16-17) 
 
 #### Viveka on 37.16–17
 
-(Inferior teachings) are ‘afflicted’, that is, touched (by Impurity) due to ignorance, and because they teach (dualist doctrines) that are the reverse (of the nondualist truth). ‘The first’ (of the teachers qualified) ‘there’ in Śiva’s teaching (sivaśāsana). is Śrīkanṇtha. The ‘five kinds’ are divided into (the power of) consciousness and the rest.” 
+(Inferior teachings) are ‘afflicted’, that is, touched (by Impurity) due to ignorance, and because they teach (dualist doctrines) that are the reverse (of the nondualist truth). ‘The first’ (of the teachers qualified) ‘there’ in Śiva’s teaching (sivaśāsana). is Śrīkanṇtha. The ‘five kinds’ are divided into (the power of) consciousness and the rest.[^562] 
 
 The Four Collections of Scriptures (pītha) 
 
@@ -286,39 +286,39 @@ Now in order to teach the nature of the group of four seats (pīṭha) here (in 
 śrīmadānandaśāstrādau \[07014771 bhagavatā kila |
 samūhaḥ pīṭham etac ca dvidhā dakṣinavāmataḥ || 18 ॥ 
 
-556?\. The first part of the citation from the Ānandatantra ends here. The following lines from 14cd to 17, that outline the major currents of scripture, were probably written by Abhinava himself.
+[^556]: The first part of the citation from the Ānandatantra ends here. The following lines from 14cd to 17, that outline the major currents of scripture, were probably written by Abhinava himself.
 
-557?\. Cf, TĀ 37/13cd-17 with MVV 1/193-196ab.
+[^557]: Cf, TĀ 37/13cd-17 with MVV 1/193-196ab.
 
-558?\. Śrīkanṭha is a form of Śiva credited with revealing the Śaivāgama (below) and the major Śaiva lineages (above, 36/11) (see above, note to TĀv 1/33). Lākulīśa was the founder of an important sect of the Pāśupatas that belonged to the Atimārga.
+[^558]: Śrīkanṭha is a form of Śiva credited with revealing the Śaivāgama (below) and the major Śaiva lineages (above, 36/11) (see above, note to TĀv 1/33). Lākulīśa was the founder of an important sect of the Pāśupatas that belonged to the Atimārga.
 
-559?\. In other words, Pāśupata Śaivism, taught by Lākulīśa, which is practiced by those who observe the ascetic’s Vow of the Pāśupata, aims solely at the attainment of liberation. Āgamic Śaivism, taught by Śrīkantha, which can be practiced also by those living a householder’s life, bestows both worldly benefits and liberation. See above, note 1,423 to TĀv 1/33.
+[^559]: In other words, Pāśupata Śaivism, taught by Lākulīśa, which is practiced by those who observe the ascetic’s Vow of the Pāśupata, aims solely at the attainment of liberation. Āgamic Śaivism, taught by Śrīkantha, which can be practiced also by those living a householder’s life, bestows both worldly benefits and liberation. See above, note 1,423 to TĀv 1/33.
 
-560?\. Śiva’s five powers of consciousness, bliss, will, knowledge and action are each related to one of his five faces. See MVV 1/169cd-17 lab also SvTu vol. 1 (2), p. 54, 1. 2-3.
+[^560]: Śiva’s five powers of consciousness, bliss, will, knowledge and action are each related to one of his five faces. See MVV 1/169cd-17 lab also SvTu vol. 1 (2), p. 54, 1. 2-3.
 
-561?\. \[illegible\] See above, 1/18 and note. The five currents of scripture come from Sadāśiva’s five faces, that utter five categories of Tantras. These are discussed in Dyczkowski 1988: 40-41.
+[^561]: \[illegible\] See above, 1/18 and note. The five currents of scripture come from Sadāśiva’s five faces, that utter five categories of Tantras. These are discussed in Dyczkowski 1988: 40-41.
 
-562?\. See above note 37,13.
+[^562]: See above note 37,13.
 
 
 *[p. 234]* ^pg252
 
 mantro vidyeti tasmāc ca mudrāmandalagari dvayam | 
 
-The Blessed One (bhagavat) has said in the venerable Ānandaśāstra and elsewhere that (the term) ‘pītha’ (denotes) a ‘collection’ (samūha) (of scriptures). And that is of two kinds, that of the right and the left, (which are, respectively, the \[illegible\] of Mantra and Vidyā. From that (pair) (come) two (more) associated with Mudrā and Mandala. (18-19ab) 
+The Blessed One (bhagavat) has said in the venerable Ānandaśāstra and elsewhere that (the term) ‘pītha’ (denotes) a ‘collection’ (samūha) (of scriptures).[^563] And that is of two kinds, that of the right and the left, (which are, respectively, the \[illegible\] of Mantra and Vidyā. From that (pair) (come) two (more) associated with Mudrā and Mandala. (18-19ab) 
 
 #### Viveka on 37.18–19
 
 ‘The Blessed One (bhagavat) has said’ in the Āgama that ‘(the term) ‘pīṭha’ (denotes) a ‘collection’ (samūha) (of scriptures).’ The meaning is that it has been defined this way. ‘According to whether it is of the right or the left’ means as being in the form of Śiva or (His) Power. The nature of Mantra is 
 
-563?\. 1 have discussed this important way of categorizing the Tantras, including lists of the contents of the four groups of scripture in my Canon 1988 p. 49-55 and 105-120 The reader is there for a detailed discussion. Sanderson has written about the distingui the Tantras of these pīṭhas, focusing especially on the Vidyāpīṭha in hi epic article published in 1988. Perhaps the earliest place where this classification appears is in the Brahmayāmala. The BY consisting of twelve thousand verses refers to itself as a Bhairava Tantra containing the four pīṭhas (nudrāmandalamantrāni vidyāpīthopalakṣitam ॥ 2 Il sahasrāni daśadve ca catuhpīṭhaṁ tu bhairavam 1). They are all implicitly indicated and so contained in the Vidyāpīṭha to which the BY assigns itself in its colophons (bhairavasrotasi mahātantre vidyāpīthe brahmayāmale ). The SYM does the same. By the time we get to the first (and probably earliest) ṣaṭka of the JY (which also assigns itself to the Vidyāpīṭha), the classification is filled out with lists of Tantras belonging to each pīṭha. The Vidyāpīṭha contained the Trika Tantras and developed extensively amongst the types of Tantras Abhinava valued the most. It is mentioned in the Svacchandatantra (that belongs to the Mantrapīṭha) and the Sarvācāra and the Ānandatantra. Sanderson has pointed out in eloquent detail the special prestige, from Abhinava’s point of view, of the Tantras of the Vidyāpīṭha as being contrary to the norms of purity advocated by the Brahminical orthodoxy and prescribing the worship of goddesses with offerings of bodily substances. Commenting of SvT 1/5c, where the Svacchandatantra is declared to be ‘a great Tantra consisting of the four pīṭhas’ (catuṣpīṭhaḥ mahātantrari), Kṣemarāja, introducing a quote from the Sarvavīra, which was a Trika Tantra, he says that: caturnār vidyāmantramandalamudrānām, pīṭham āśrayaṁ saṁṁbhavamātrenṇa | ʻA pīṭha is a category (āśraya) (of scriptures that teach) Vidyās, Mantras, Mandalas and Mudrās (respectively). (This is not an absolute rule, it is so) just as a possibility. (In other words, Tantras of any of the four categories may teach matters found in the others) (Indeed, they are all present in each of them)’ (cf. T 37/19cd-22ab). The division of Tantras into groups called ‘pīṭhas’ is not found in the MV nor does it affiliate itself to any of them. Mantras are the sonic bodies of male deities and Vidyās of female ones. This distinction is a major defining feature of the Tantras of these two pīṭhas. Thus, according to the Sarvavīra quoted by Kṣemarāja in the SvTU ad 1/5c, the Mantrapīṭha Tantras are named after Bhairavas: svacchandabhairavaścandaḥ krodha unmattabhairavaḥ | granthāntarāni catvāri mantrapīthaṁi varānane ॥ ʻO fair faced lady, the Mantrapītṭha consists of four other books, namely, the Svacchandabhairavatantra, the Candabhairava, Krodhabhairava and Unmattabhairava.” The Svacchandatantra is the only known Tantra of this pītha. It is centred on the worship of this Bhairava. Abhinava citing the Ānandabhairava understands the worship of the numerous goddesses of the Vidyāpīṭha to be its completion and fulfilment.
+[^563]: 1 have discussed this important way of categorizing the Tantras, including lists of the contents of the four groups of scripture in my Canon 1988 p. 49-55 and 105-120 The reader is there for a detailed discussion. Sanderson has written about the distingui the Tantras of these pīṭhas, focusing especially on the Vidyāpīṭha in hi epic article published in 1988. Perhaps the earliest place where this classification appears is in the Brahmayāmala. The BY consisting of twelve thousand verses refers to itself as a Bhairava Tantra containing the four pīṭhas (nudrāmandalamantrāni vidyāpīthopalakṣitam ॥ 2 Il sahasrāni daśadve ca catuhpīṭhaṁ tu bhairavam 1). They are all implicitly indicated and so contained in the Vidyāpīṭha to which the BY assigns itself in its colophons (bhairavasrotasi mahātantre vidyāpīthe brahmayāmale ). The SYM does the same. By the time we get to the first (and probably earliest) ṣaṭka of the JY (which also assigns itself to the Vidyāpīṭha), the classification is filled out with lists of Tantras belonging to each pīṭha. The Vidyāpīṭha contained the Trika Tantras and developed extensively amongst the types of Tantras Abhinava valued the most. It is mentioned in the Svacchandatantra (that belongs to the Mantrapīṭha) and the Sarvācāra and the Ānandatantra. Sanderson has pointed out in eloquent detail the special prestige, from Abhinava’s point of view, of the Tantras of the Vidyāpīṭha as being contrary to the norms of purity advocated by the Brahminical orthodoxy and prescribing the worship of goddesses with offerings of bodily substances. Commenting of SvT 1/5c, where the Svacchandatantra is declared to be ‘a great Tantra consisting of the four pīṭhas’ (catuṣpīṭhaḥ mahātantrari), Kṣemarāja, introducing a quote from the Sarvavīra, which was a Trika Tantra, he says that: caturnār vidyāmantramandalamudrānām, pīṭham āśrayaṁ saṁṁbhavamātrenṇa | ʻA pīṭha is a category (āśraya) (of scriptures that teach) Vidyās, Mantras, Mandalas and Mudrās (respectively). (This is not an absolute rule, it is so) just as a possibility. (In other words, Tantras of any of the four categories may teach matters found in the others) (Indeed, they are all present in each of them)’ (cf. T 37/19cd-22ab). The division of Tantras into groups called ‘pīṭhas’ is not found in the MV nor does it affiliate itself to any of them. Mantras are the sonic bodies of male deities and Vidyās of female ones. This distinction is a major defining feature of the Tantras of these two pīṭhas. Thus, according to the Sarvavīra quoted by Kṣemarāja in the SvTU ad 1/5c, the Mantrapīṭha Tantras are named after Bhairavas: svacchandabhairavaścandaḥ krodha unmattabhairavaḥ | granthāntarāni catvāri mantrapīthaṁi varānane ॥ ʻO fair faced lady, the Mantrapītṭha consists of four other books, namely, the Svacchandabhairavatantra, the Candabhairava, Krodhabhairava and Unmattabhairava.” The Svacchandatantra is the only known Tantra of this pītha. It is centred on the worship of this Bhairava. Abhinava citing the Ānandabhairava understands the worship of the numerous goddesses of the Vidyāpīṭha to be its completion and fulfilment.
 
 
 *[p. 235]* ^pg253
 
-Śiva and the nature of Vidyā is Śakti.? ‘From that pair of seats, that is, Mantra and Vidyā. 
+Śiva and the nature of Vidyā is Śakti.[^564] ‘From that pair of seats, that is, Mantra and Vidyā. 
 
-He explains that in due order.” 
+He explains that in due order.[^565] 
 
 ### TĀ 37.19–22
 
@@ -336,21 +336,21 @@ mandala sāram ukta hi mandaśrutyā śivāhvayam |
 evam anyonyasamibhedavṛtti pīthacatuṣtayam ॥ 21 ॥
 yatas tasmād bhavet sarvar \[illegible\] pīthe ‘pi vastutaḥ | 
 
-The one that bestows (deep) reflection (manana) and salvation (trāṇa) is called ‘Mantra’. The reinforcement there (in that respect) by Vidyā is fulfilment \[illegible\] (of Mantra). It is that which illumines what should be known. Mudrā is the counterpart (pratikṛti) of Mantra, and Mandala fulfils it. It is said to be the essence and, in accord with (the sense of) the word ‘manda’, it is called Śiva.” The four pīṭhas penetrate one another in this way and so, in actual fact, everything is present in each single \[illegible\] (19cd-22ab) 
+The one that bestows (deep) reflection (manana) and salvation (trāṇa) is called ‘Mantra’.[^566] The reinforcement there (in that respect) by Vidyā is fulfilment \[illegible\] (of Mantra). It is that which illumines what should be known. Mudrā is the counterpart (pratikṛti) of Mantra, and Mandala fulfils it. It is said to be the essence and, in accord with (the sense of) the word ‘manda’, it is called Śiva.[^567] The four pīṭhas penetrate one another in this way and so, in actual fact, everything is present in each single \[illegible\] (19cd-22ab) 
 
 #### Viveka on 37.19–22
 
-As has been stated in brief: ‘the secret of Mantra is the Being of the Body of Knowledge (Vidyā)’.” (Vidyā) ʻillumines what should known’ 
+As has been stated in brief: ‘the secret of Mantra is the Being of the Body of Knowledge (Vidyā)’.[^568] (Vidyā) ʻillumines what should known’ 
 
-564?\. In other words, the Bhairava Tantras of the Mantrapītha focus predominantly on the worship of Bhairava. The only surviving Tantra of this group of scriptures, the Svacchandatantra, is a fine example. The Tantras of the Vidyāpītha teach the worship of goddesses.
+[^564]: In other words, the Bhairava Tantras of the Mantrapītha focus predominantly on the worship of Bhairava. The only surviving Tantra of this group of scriptures, the Svacchandatantra, is a fine example. The Tantras of the Vidyāpītha teach the worship of goddesses.
 
-565?\. In Jayaratha’s view, it seems, the following verses (19cd-25ab) are Abhinava’s explanation of the citation from the Ānandatantra, not a continuation of it.
+[^565]: In Jayaratha’s view, it seems, the following verses (19cd-25ab) are Abhinava’s explanation of the citation from the Ānandatantra, not a continuation of it.
 
-566?\. Concerning this popular etymology of the word ‘mantra’, see above, 11/55-60ab and note.
+[^566]: Concerning this popular etymology of the word ‘mantra’, see above, 11/55-60ab and note.
 
-567?\. The mandala according to this last etymology is therefore that which gives, administers (lā dāne) the essence, and like it, nurtures mudrā. Concerning the system of classification of the Tantras into four pīṭhas, see Dyczkowski 1988 pp. 49-55. The point Abhinava is making is that the Tantras of a particular group ~ pītha — do not deal exclusively with the matter to which they are said to be concerned.
+[^567]: The mandala according to this last etymology is therefore that which gives, administers (lā dāne) the essence, and like it, nurtures mudrā. Concerning the system of classification of the Tantras into four pīṭhas, see Dyczkowski 1988 pp. 49-55. The point Abhinava is making is that the Tantras of a particular group ~ pītha — do not deal exclusively with the matter to which they are said to be concerned.
 
-568?\. ŚSū 2/3. Bhāskara explains: ‘By knowledge, we mean the unfolding of one’s own inherent light; it is the sudden expansion (unmeṣa) of the thrill of energy (sahasa) that takes place within the Pure Principle by penetrating (āveśa) (and becoming one with) pure consciousness (cinmātra). This is the Being (sattā) of the body of the one who recites Mantra, and the supreme secret.’ According to Kṣemarāja, the knowledge referred to here is supreme nondual awareness (parādvayaprathā). Śiva, as the essence of all possible words and meanings, contained in a potential form in the fifty letters of the alphabet (śabdarāśi), possesses this ‘Body of Knowledge’, the essence of which is the secret power of Mantra, and is the pulsing radiance (sphurattā) of the light of consciousness identified with the reflective awareness of perfect ‘T consciousness (pūrnāhaṁvimarśa) that consists of the oneness of the entire universe. ŚSūvi p. 89, Dyczkowski
+[^568]: ŚSū 2/3. Bhāskara explains: ‘By knowledge, we mean the unfolding of one’s own inherent light; it is the sudden expansion (unmeṣa) of the thrill of energy (sahasa) that takes place within the Pure Principle by penetrating (āveśa) (and becoming one with) pure consciousness (cinmātra). This is the Being (sattā) of the body of the one who recites Mantra, and the supreme secret.’ According to Kṣemarāja, the knowledge referred to here is supreme nondual awareness (parādvayaprathā). Śiva, as the essence of all possible words and meanings, contained in a potential form in the fifty letters of the alphabet (śabdarāśi), possesses this ‘Body of Knowledge’, the essence of which is the secret power of Mantra, and is the pulsing radiance (sphurattā) of the light of consciousness identified with the reflective awareness of perfect ‘T consciousness (pūrnāhaṁvimarśa) that consists of the oneness of the entire universe. ŚSūvi p. 89, Dyczkowski
 
 
 *[p. 236]* ^pg254
@@ -390,9 +390,9 @@ tasyāpi paramaṁ sāra mālinīvijayottaram |
 
 *[p. 237]* ^pg255
 
-The Siddhayogeśvarīmata is the main (most important Tantra) of the Vidyāpītha.” (Beyond even that is) its supreme essence, namely, the 
+The Siddhayogeśvarīmata is the main (most important Tantra) of the Vidyāpītha.[^569] (Beyond even that is) its supreme essence, namely, the 
 
-Mālinīvijayottara.” (24cd-25ab) 
+Mālinīvijayottara.[^570] (24cd-25ab) 
 
 #### Viveka on 37.24–25
 
@@ -418,13 +418,13 @@ dakṣiṇari raudrakarmādhyari vāmari siddhisamākulam ॥ 27 ॥
 svalpapunyari bahukleśaṁ svapratītivivarjitam |
 mokṣavidyāvihīnaṁ ca vinayari tyaja dūrataḥ ॥ 28 ॥ 
 
-The Supreme Lord has declared this in the venerable Ratnamālā, (where we read): ‘the essence of all the Tantras, present in (those of) the Left (vāma) and Right (dakṣina), is united (milita) in one place as Kaula” 
+The Supreme Lord has declared this in the venerable Ratnamālā, (where we read): ‘the essence of all the Tantras, present in (those of) the Left (vāma) and Right (dakṣina), is united (milita) in one place as Kaula[^571] 
 
-569?\. Alternatively, one may translate the ‘The Siddhayogīśvarīmata primarily belongs to the Vidyāpītha.” Again: ‘the predominant (pīṭha) of the Siddhayogeśvarīmata is the Vidyāpīṭtha.” 1 have chosen to translate in this way, as it follows from what Abhinava has just said. He is again establishing a hierarchy of scriptures, this time in terms of the pīṭha classification, of which he perceives the Vidyāpīṭha and its Tantras to be the most excellent. He goes on to say that of these Tantras, the most important is the Siddhayogeśvarīmata, of which the ‘supreme essence’, and hence ultimately the most excellent, is the MV.
+[^569]: Alternatively, one may translate the ‘The Siddhayogīśvarīmata primarily belongs to the Vidyāpītha.” Again: ‘the predominant (pīṭha) of the Siddhayogeśvarīmata is the Vidyāpīṭtha.” 1 have chosen to translate in this way, as it follows from what Abhinava has just said. He is again establishing a hierarchy of scriptures, this time in terms of the pīṭha classification, of which he perceives the Vidyāpīṭha and its Tantras to be the most excellent. He goes on to say that of these Tantras, the most important is the Siddhayogeśvarīmata, of which the ‘supreme essence’, and hence ultimately the most excellent, is the MV.
 
-570?\. Cf. above, 1/18.
+[^570]: Cf. above, 1/18.
 
-571?\. Perhaps Kaula here refers to Kula teaching present in the Tantras, whereas Kula refers to particular schools. Hanneder (1998: 25) comments: ‘For that reason, the Trika is called ‘half of six’ because its constituent parts are the following three: the sixth stream above Īśāna, i.e. the ürdhordhva, the left and the right.” Here the stream above the upper one is roundly identified with all the forms and levels of Kula schools, which are the primary domain of Trika. Trika Kaulism is characterized in this citation as a fusion of the Tantras of the right, that teach fierce magical rites, and those of the left, that teach the attainment of supernatural powers (siddhi). It is a fusion that rises up above both, loaded with their power transformed into the current that leads to liberation.
+[^571]: Perhaps Kaula here refers to Kula teaching present in the Tantras, whereas Kula refers to particular schools. Hanneder (1998: 25) comments: ‘For that reason, the Trika is called ‘half of six’ because its constituent parts are the following three: the sixth stream above Īśāna, i.e. the ürdhordhva, the left and the right.” Here the stream above the upper one is roundly identified with all the forms and levels of Kula schools, which are the primary domain of Trika. Trika Kaulism is characterized in this citation as a fusion of the Tantras of the right, that teach fierce magical rites, and those of the left, that teach the attainment of supernatural powers (siddhi). It is a fusion that rises up above both, loaded with their power transformed into the current that leads to liberation.
 
 
 *[p. 238]* ^pg256
@@ -433,11 +433,11 @@ The Supreme Lord has declared this in the venerable Ratnamālā, (where we read)
 
 ### TĀ 37.27–28
 
-”In the Siddhānta there is an (excessive) abundance of (outer) ritual, which is, (moreover,) sullied by the Impurity (of ignorance) and Māyā etc. The current of the right” abounds with fierce (black) rites (raudrakarman). The left is confounded by (an excess of) supernatural powers (siddhi). Stay far away (from works on) moral discipline (vinaya), which gives little merit and much affliction (kleśa)” and, without personal insight, is devoid of the knowledge that leads to liberation (mokṣavidyā).’ (25cd-28) 
+[^572]In the Siddhānta there is an (excessive) abundance of (outer) ritual, which is, (moreover,) sullied by the Impurity (of ignorance) and Māyā etc. The current of the right[^573] abounds with fierce (black) rites (raudrakarman). The left is confounded by (an excess of) supernatural powers (siddhi). Stay far away (from works on) moral discipline (vinaya), which gives little merit and much affliction (kleśa)[^574] and, without personal insight, is devoid of the knowledge that leads to liberation (mokṣavidyā).’ (25cd-28) 
 
 #### Viveka on 37.27–28
 
-‘Fierce (black) rites (raudrakarman)’ include (rituals designed to) murder and eradicate (an enemy). ‘One’s own insight’ is personal experience. ‘Moral discipline’ is scripture which is predominantly Tantric (rather than दवण).
+‘Fierce (black) rites (raudrakarman)’ include (rituals designed to) murder and eradicate (an enemy). ‘One’s own insight’ is personal experience. ‘Moral discipline’ is scripture which is predominantly Tantric (rather than दवण).[^575]
 
 Surely, (one may object,) here also an (excessive) abundance of ritual is prescribed as what remains to be done (until the initiate dies and attains liberation) \[illegible\] So how is it that this has been said (especially of the Siddhānta)? With this doubt in mind, he says: 
 
@@ -452,17 +452,19 @@ yasmin kāle ca gurunṇā nirvikalpa prakāśitam |
 
 muktas tenaiva kālena yantra tiṣthati kevalam || 29 ॥ 
 
-When the teacher reveals (the one reality) free of thought constructs, (the disciple) is liberated in that very moment; all that remains is the machine (of the body).” (29) 
+When the teacher reveals (the one reality) free of thought constructs, (the disciple) is liberated in that very moment; all that remains is the machine (of the body).[^576] (29) 
 
 #### Viveka on 37.29
 
-572?\. Cf. above 13/300cd-301, where the progressive development of saktipāta is traced by the hierarchy of scripture.
+[^572]: Cf. above 13/300cd-301, where the progressive development of saktipāta is traced by the hierarchy of scripture.
 
-573?\. The right current of scripture is uttered by Aghora, which Hanneder (1998: 218) explains with reference to Abhinava’s account of this face in the MVV (1/288cd-289ab). He writes that ‘Aghora is related to the non-dualist śāstras \[i.e. Tantras\], the power that manifests this face, i.e. the power of action, is interpreted as that which nullifies prior division, thereby conforming this description of non-duality as a rejection of duality. The aspect of reabsorption inherent in this concept accounts for the destructive practices prevalent in this part of the tradition.”
+[^573]: The right current of scripture is uttered by Aghora, which Hanneder (1998: 218) explains with reference to Abhinava’s account of this face in the MVV (1/288cd-289ab). He writes that ‘Aghora is related to the non-dualist śāstras \[i.e. Tantras\], the power that manifests this face, i.e. the power of action, is interpreted as that which nullifies prior division, thereby conforming this description of non-duality as a rejection of duality. The aspect of reabsorption inherent in this concept accounts for the destructive practices prevalent in this part of the tradition.”
 
-574?\. The same expression appears above in 37/10c.
+[^574]: The same expression appears above in 37/10c.
 
-575?\. vinayari tantrapradhānari \[illegible\] | > This verse is from the Gamatantra. It is also quoted above as 13/230cd-23 lab (see note there) and the first line and a half in TĀv ad 13/313cd-314ab. The point is that the Siddhānta, which, as presented here at least, can only lead to liberation after death for those who have maintained their moral and ritual obligations. It does not offer an alternative. Although the rites and forms of Yoga Abhinava prescribes, even in just in his own liturgical manual, the Tantrāloka, are also numerous, the concern with rites and Yoga is not ‘excessive’, because an alternative is an ever-present possibility. That is immediate realisation, which requires neither rite nor Yoga, and moreover, it grants immediate and permanent liberation while alive. The Siddhānta, at least as portrayed by Abhinava, does not offer this possibility. One fundamental reason for this, according to Abhinava, is that the former is a gradual path of step-by-step upward progress of the soul in consonance with the flow of the life force. The other is one of devastating, radical transformation by powerful penetration of the power of consciousness radiating from the deity into the soul, and the soul projected with force into its Infinite Being and ultimate, essential dynamic identity.
+[^575]: vinayari tantrapradhānari \[illegible\] |
+
+[^576]: This verse is from the Gamatantra. It is also quoted above as 13/230cd-23 lab (see note there) and the first line and a half in TĀv ad 13/313cd-314ab. The point is that the Siddhānta, which, as presented here at least, can only lead to liberation after death for those who have maintained their moral and ritual obligations. It does not offer an alternative. Although the rites and forms of Yoga Abhinava prescribes, even in just in his own liturgical manual, the Tantrāloka, are also numerous, the concern with rites and Yoga is not ‘excessive’, because an alternative is an ever-present possibility. That is immediate realisation, which requires neither rite nor Yoga, and moreover, it grants immediate and permanent liberation while alive. The Siddhānta, at least as portrayed by Abhinava, does not offer this possibility. One fundamental reason for this, according to Abhinava, is that the former is a gradual path of step-by-step upward progress of the soul in consonance with the flow of the life force. The other is one of devastating, radical transformation by powerful penetration of the power of consciousness radiating from the deity into the soul, and the soul projected with force into its Infinite Being and ultimate, essential dynamic identity.
 
 
 *[p. 239]* ^pg257
@@ -481,9 +483,9 @@ mayaitat srotasāṁ rūīpam anuttarapadād dhruvāt |
 jijñāsus tata evedam avadhārayitun kṣamaḥ |
 vayari tūktānuvacanam \[illegible\] nādriyāmahe || 31 ॥ 
 
-I have discussed the nature of these (five) currents (of scripture), as beginning from the immovable (dhruva) plane of Anuttara, in detail in the Mālinīślokavārtika. He who wants to know (about it), can understand it from there. We do not sanction fruitless repetition of what has (already) 
+I have discussed the nature of these (five) currents (of scripture), as beginning from the immovable (dhruva) plane of Anuttara, in detail in the Mālinīślokavārtika.[^577] He who wants to know (about it), can understand it from there. We do not sanction fruitless repetition of what has (already) 
 
-been said.” (30-31) 
+been said.[^578] (30-31) 
 
 #### Viveka on 37.30–31
 
@@ -501,22 +503,22 @@ yathepsitamahābhogadātṛtvena vyavasthitam ॥ 32 ॥
 
 Bestowing in this way without effort the great fruit which is liberation in this life, and arranged in such a way so as to bestow the great enjoyment (of all worldly benefits) as one desires, clearly, it is this, the 
 
-576?\. ārttika, which is also called just Mālinīvārttika. The full name is is Mālinīvijayaikaślokavārttika, because it is a commentary on one verse of the Mālinīvijayottara, that is, the introductory maṁgalaśloka.
+[^577]: ārttika, which is also called just Mālinīvārttika. The full name is is Mālinīvijayaikaślokavārttika, because it is a commentary on one verse of the Mālinīvijayottara, that is, the introductory maṁgalaśloka.
 
-577?\. See the MVV 1/15 ff. and above, 1/18 and notes.
+[^578]: See the MVV 1/15 ff. and above, 1/18 and notes.
 
 
 *[p. 240]* ^pg258
 
-essence of Trika (ṣadardha), that is the true scripture (śāstra) that one should adopt (upādeya).” (32-33ab) 
+essence of Trika (ṣadardha), that is the true scripture (śāstra) that one should adopt (upādeya).[^579] (32-33ab) 
 
 #### Viveka on 37.32–33
 
 By this (statement,) he has completed the great purpose of this book that was taken up (right from the start), as (stated at the beginning): 
 
-‘Thus, the wise man who constantly (and assiduously) practices these thirty-seven chapters becomes Bhairava Himself in person (directly visible) (sākṣāt). He whose awakened understanding of the thirty-seven (chapters) is perfectly complete (and His perfectly full consciousness (pervades) within the thirty-seven (principles)) is Bhairava;\* what wonder is it if by his (mere) 
+‘Thus, the wise man who constantly (and assiduously) practices these thirty-seven chapters becomes Bhairava Himself in person (directly visible) (sākṣāt). He whose awakened understanding of the thirty-seven (chapters) is perfectly complete (and His perfectly full consciousness (pervades) within the thirty-seven (principles)) is Bhairava;[^580] what wonder is it if by his (mere) 
 
-glance, individual souls (also) attain Bhairava’s state?” 
+glance, individual souls (also) attain Bhairava’s state?’[^581] 
 
 The Concluding Verses 
 
@@ -542,19 +544,19 @@ brahmāṇdam atyantamanoharar tu
 
 vaicitryavarjaṁ nahi ramyabhāvaḥ ॥ 33 ॥ 
 
-Although all this endless series of worlds has been generated by the might of the thirty-six principles,” it is the Egg of Brahmā that is the most delightful. (Indeed,) without variety there is no beauty. (33) 
+Although all this endless series of worlds has been generated by the might of the thirty-six principles,[^582] it is the Egg of Brahmā[^583] that is the most delightful. (Indeed,) without variety there is no beauty. (33) 
 
 #### Viveka on 37.33
 
-578?\. \[illegible\] The ‘essence of Trika’ to which Abhinava is referring here is his Tantrāloka. It is a \[illegible\] both in the sense of a ‘treatise’ and a ‘scripture’.
+[^579]: \[illegible\] The ‘essence of Trika’ to which Abhinava is referring here is his Tantrāloka. It is a \[illegible\] both in the sense of a ‘treatise’ and a ‘scripture’.
 
-579?\. The first line of this verse has two meanings. The immediate sense is the one that follows from the previous verse. The suggested sense is that of the translation of the same line in brackets.
+[^580]: The first line of this verse has two meanings. The immediate sense is the one that follows from the previous verse. The suggested sense is that of the translation of the same line in brackets.
 
-580?\. TĀ 1/286-287 (284cd-286ab), also quoted above in TĀv ad 13/160.
+[^581]: TĀ 1/286-287 (284cd-286ab), also quoted above in TĀv ad 13/160.
 
-581?\. \[illegible\] Literally: ‘the strength of the principles, which are thirty-six.’ Grammatically sattriṁśatā is a substantive, used in opposition with rattvabalena.
+[^582]: \[illegible\] Literally: ‘the strength of the principles, which are thirty-six.’ Grammatically sattriṁśatā is a substantive, used in opposition with rattvabalena.
 
-582?\. The Egg of Brahmā covers the extent of the Earth principle. By describing one, the other is described. See above 8/118cd-119ab (118).
+[^583]: The Egg of Brahmā covers the extent of the Earth principle. By describing one, the other is described. See above 8/118cd-119ab (118).
 
 
 *[p. 241]* ^pg259
@@ -581,11 +583,11 @@ tatrāpi ca tridivabhogamahārghavarṣa-
 
 dvīpāntarād adhikam eva kumārikāhvam | 
 
-Although completely full of the seven worlds beginning from earth (bhūr),” I think that within (the Egg), it is the second world that is the abode of joy. Where else is there (such a world,) adorned with the (two) kinds of enjoyment of the unfolding of day and night, embellished by the wonderful (and various) courses of the Sun and Moon? And there also, of the other continents and islands (in this world), greatly precious enjoyment of the gods, the greatest is the one called ‘“Kumārikā’.” (34-35ab) 
+Although completely full of the seven worlds beginning from earth (bhūr),[^584] I think that within (the Egg), it is the second world that is the abode of joy. Where else is there (such a world,) adorned with the (two) kinds of enjoyment of the unfolding of day and night, embellished by the wonderful (and various) courses of the Sun and Moon? And there also, of the other continents and islands (in this world), greatly precious enjoyment of the gods, the greatest is the one called ‘“Kumārikā’.[^585] (34-35ab) 
 
 #### Viveka on 37.34–35
 
-‘The second world’ is the world of the sky (bhuvarloka). “There’ in the second world. The ‘continents’ are Ilāvṛta and the rest. “The islands’ are Śāka and the rest.\*' 
+‘The second world’ is the world of the sky (bhuvarloka). “There’ in the second world. The ‘continents’ are Ilāvṛta and the rest. “The islands’ are Śāka and the rest.[^586] 
 
 He explains (its) greatness. 
 
@@ -603,11 +605,11 @@ It is where the priceless faculty (adhikṛti) called creative action (kṛti) e
 
 #### Viveka on 37.35
 
-583?\. The seven worlds starting from the lowest are: Bhūrloka, Bhuvarloka, Mahāloka, Brahmaloka, Satyaloka, Viṣṇuloka and Śivaloka. See above, 8/119cd (119) ff.
+[^584]: The seven worlds starting from the lowest are: Bhūrloka, Bhuvarloka, Mahāloka, Brahmaloka, Satyaloka, Viṣṇuloka and Śivaloka. See above, 8/119cd (119) ff.
 
-584?\. Concerning the continents (varsa) and islands \[illegible\] of this world, see above, 8/62cd ff. Amongst them, India is the region called ‘Kanyā’ or “Kumārikā’. Cf. above, 8/83-84 and note, sce also Dyczkowski 2009: vol. 1 p. 115.
+[^585]: Concerning the continents (varsa) and islands \[illegible\] of this world, see above, 8/62cd ff. Amongst them, India is the region called ‘Kanyā’ or “Kumārikā’. Cf. above, 8/83-84 and note, sce also Dyczkowski 2009: vol. 1 p. 115.
 
-585?\. See above, 8/102-104.
+[^586]: See above, 8/102-104.
 
 
 *[p. 242]* ^pg260
@@ -642,21 +644,21 @@ jātyandhasadmani na janma na ko ‘bhininded
 
 bhinnāñjanāyitaravipramukhaprakāsśe ॥ 37 ॥ 
 
-What use is birth, be it even in a place where there is only happiness, (if it be one) in which one (only) experiences the consequences that befit the fettered state, that suffers the consequences of previous actions (karman)? The greatest (possible) delight for all (who are here is only) in what they hope for in the future,” not indeed in the present, that lasts (just) an instant. (36) 
+What use is birth, be it even in a place where there is only happiness, (if it be one) in which one (only) experiences the consequences that befit the fettered state, that suffers the consequences of previous actions (karman)? The greatest (possible) delight for all (who are here is only) in what they hope for in the future,[^587] not indeed in the present, that lasts (just) an instant. (36) 
 
 ### TĀ 37.37
 
-Moreover, here in this land called Kanyā, there is no greater place than one where the most excellent scriptures are the eye (of all). Who indeed would praise“ birth in a house of those born blind, where the light of (all luminaries), the first of which is the sun, is black as pitch?“ (37) 
+Moreover, here in this land called Kanyā,[^588] there is no greater place than one where the most excellent scriptures are the eye (of all). Who indeed would praise[^589] birth in a house of those born blind, where the light of (all luminaries), the first of which is the sun, is black as pitch?[^590] (37) 
 
 #### Viveka on 37.37
 
-586?\. The same idea is found again below in verses 77 and 79, where the ‘hope for the future’ clearly refers to supernatural powers (siddhi) and liberation, which will be attained in the future.
+[^587]: The same idea is found again below in verses 77 and 79, where the ‘hope for the future’ clearly refers to supernatural powers (siddhi) and liberation, which will be attained in the future.
 
-587?\. Is Abhinava referring here to India as the land of Kumārī, or is he referring to Kanyākubja, i.e. Kannauj, where his ancestor Atrigupta lived? While that is not impossible, Abhinava is talking about the land by this name, not a city or town.
+[^588]: Is Abhinava referring here to India as the land of Kumārī, or is he referring to Kanyākubja, i.e. Kannauj, where his ancestor Atrigupta lived? While that is not impossible, Abhinava is talking about the land by this name, not a city or town.
 
-588?\. If the reading na janma no ko'bhinindet is correct, the two negations ‘na’ ‘not’ would be reinforcing each other: ‘who would (definitely) not criticize (= \*curse’) a birth . . .’. However, two negations in regular Sankrit usage cancel each other out. Emending /aJbhinindet to \[a\]bhinandet ‘praise’, resolves this problem.
+[^589]: If the reading na janma no ko'bhinindet is correct, the two negations ‘na’ ‘not’ would be reinforcing each other: ‘who would (definitely) not criticize (= \*curse’) a birth . . .’. However, two negations in regular Sankrit usage cancel each other out. Emending /aJbhinindet to \[a\]bhinandet ‘praise’, resolves this problem.
 
-589?\. Literally, ‘is like the collyrium (bhinnāñjanāyita -). About the term bhinnāñjana, (oil) — mixed collyrium, ‘pounded galena’, see the note by C. Vogel, On the meaning of the Sanskrit (PRA) bhinnāñjana 3/10/1967, pp. 171-176.
+[^590]: Literally, ‘is like the collyrium (bhinnāñjanāyita -). About the term bhinnāñjana, (oil) — mixed collyrium, ‘pounded galena’, see the note by C. Vogel, On the meaning of the Sanskrit (PRA) bhinnāñjana 3/10/1967, pp. 171-176.
 
 
 *[p. 243]* ^pg261
@@ -677,7 +679,7 @@ nihśeṣaśāstrasadanaṁ kila madhyadeśas-
 tasminn ajāyata guṇnābhyadhiko dvijanmā |
 ko ‘py atrigupta iti nāmaniruktagotraḥ sāstrābdhicarvaṇakalodyad agastyagotraḥ ॥ 38 ॥ 
 
-Madhyadeśa (the Land in the Middle)“ is indeed the abode of all the scriptures. Here was born a brahmin who possessed extraordinary qualities, a certain Atrigupta, whose family lineage (gotra) is declared by the etymology of his name, and who, intent on the art of relishing the ocean of the scriptures, (rightly) belongs to Agastya’s clan (gotra).” (38) 
+Madhyadeśa (the Land in the Middle)[^591] is indeed the abode of all the scriptures. Here was born a brahmin who possessed extraordinary qualities, a certain Atrigupta, whose family lineage (gotra) is declared by the etymology of his name, and who, intent on the art of relishing the ocean of the scriptures, (rightly) belongs to Agastya’s clan (gotra).[^592] (38) 
 
 ### TĀ 37.39
 
@@ -709,18 +711,18 @@ tan manye ‘hañ samabhilaṣitāśeṣasiddher na siddhyai
 
 kaśmīrebhyaḥ param atha puran pūrnavṛtter na tuṣtyai || 40 ॥ 
 
-590?\. The Madhyadeśa extends round the area of Prayāga (modern Allahabad) up to Vārāṇasī in the cast, and to where modern Delhi is now located in the west.
+[^591]: The Madhyadeśa extends round the area of Prayāga (modern Allahabad) up to Vārāṇasī in the cast, and to where modern Delhi is now located in the west.
 
-591?\. Agastya was a Vedic sage (rsi) who, among other things, is famous for having drunk the ocean (Mahābhārata, 3/105, Padmapurāna, 1/19).
+[^592]: Agastya was a Vedic sage (rsi) who, among other things, is famous for having drunk the ocean (Mahābhārata, 3/105, Padmapurāna, 1/19).
 
 
 *[p. 244]* ^pg262
 
-Enthused by (his) affection (for him), king Latitāditya brought him to his country called Kashmir, that lies on the top of the Himālayas. (Śiva), Gaur?s beloved, resides here with (his) rays (kara), Vijaya and other (Rudras),” in order to relish with delight (rasāf), all at once, the entire essence of worldly enjoyment." (39) 
+Enthused by (his) affection (for him), king Latitāditya[^593] brought him to his country called Kashmir, that lies on the top of the Himālayas. (Śiva), Gaur?s beloved, resides here with (his) rays (kara), Vijaya and other (Rudras),[^594] in order to relish[^595] with delight (rasāf), all at once, the entire essence of worldly enjoyment.[^596] (39) 
 
 ### TĀ 37.40
 
-(There,) in every place, all (the great) sages made their dwellings. (Indeed,) Śiva Himself presides over every step (within it).? I believe there is no country greater than Kashmir to achieve all the accomplishments (one may) desire, and satisfy one whose condition is full (and perfect). (40) 
+(There,) in every place, all (the great) sages made their dwellings. (Indeed,) Śiva Himself presides over every step (within it).[^597] I believe there is no country greater than Kashmir to achieve all the accomplishments (one may) desire, and satisfy one whose condition is full (and perfect). (40) 
 
 #### Viveka on 37.40
 
@@ -742,15 +744,15 @@ Where its Excellent Wine Enflames Lovers’ Passion
 
 रेदधि्ामलमातुलुङ्गकनकच्छायाभिरामप्रभम्
 
-592?\. Lalitāditya Muktapīda reigned in Kashmir in the first half of the eight century CE. Cf. PTv p. 280: ‘The Brahmin Atrigupta who was born in Antarvedī migrated a long time ago to a city in Kashmir, where there is no corner which is not purified by countless incarnations of Śiva.”
+[^593]: Lalitāditya Muktapīda reigned in Kashmir in the first half of the eight century CE. Cf. PTv p. 280: ‘The Brahmin Atrigupta who was born in Antarvedī migrated a long time ago to a city in Kashmir, where there is no corner which is not purified by countless incarnations of Śiva.”
 
-593?\. Jaya, Vijaya, etc. are names of Rudras in Śiva’s retinue (see above, 28/14cd-17ab). In the fourth from the last verse of the Abhinavabhāratī, the river Vitastā that flows through the capital of Kashmir is said to be purified ‘by thousands of Rudras, like Vijaya, etc. Vijaya is a hypostasis of Śiva, who presides over a homonymous Jiga that was one of the most venerated places of pilgrimage in Kashmir. It corresponds to the modern village of Vijabror. The myth concerning the origin of this liṅga is narrated by Jayadratha in chapter ten of the Haracaritacintāmani. See Stein (1892) vol. 1 p. 38, 105 and note.
+[^594]: Jaya, Vijaya, etc. are names of Rudras in Śiva’s retinue (see above, 28/14cd-17ab). In the fourth from the last verse of the Abhinavabhāratī, the river Vitastā that flows through the capital of Kashmir is said to be purified ‘by thousands of Rudras, like Vijaya, etc. Vijaya is a hypostasis of Śiva, who presides over a homonymous Jiga that was one of the most venerated places of pilgrimage in Kashmir. It corresponds to the modern village of Vijabror. The myth concerning the origin of this liṅga is narrated by Jayadratha in chapter ten of the Haracaritacintāmani. See Stein (1892) vol. 1 p. 38, 105 and note.
 
-594?\. Read paricarvitum for paricarcitum.
+[^595]: Read paricarvitum for paricarcitum.
 
-595?\. Read bhoge sāraṁ for bhogāsārar.
+[^596]: Read bhoge sāraṁ for bhogāsārar.
 
-596?\. About the sacred places of Kashmir, see Stein (1892) vol. 2, pp. 376 ff.
+[^597]: About the sacred places of Kashmir, see Stein (1892) vol. 2, pp. 376 ff.
 
 
 *[p. 245]* ^pg263
@@ -792,22 +794,22 @@ yat kāntānār praṇayavacasi praudhimānari vidhatte
 yan nirvighnaṁ nidhuvanavidhau sādhvasari sarńdhunoti |
 yasmin viśvāḥ kalitarucayo devatāś cakracaryastan mārdvīkaṁ sapadi tanute yatra bhogāpavargau ॥ 44 ॥ 
 
-It is where (the goddess resides,) radiant white like the autumn (śārada) moon, well known amongst people as the illustrious Śāradā who, well pleased by the aesthetic delight (rasa) of Śāṇdilya’s (devout) service, bestows her own glorious riches on (one and) all. (41) 
+It is where (the goddess resides,) radiant white like the autumn (śārada) moon, well known amongst people as the illustrious Śāradā who, well pleased by the aesthetic delight (rasa) of Śāṇdilya’s[^598] (devout) service, bestows her own glorious riches on (one and) all. (41) 
 
 ### TĀ 37.42
 
-Here wine is Mahābhairava,“ who burns radiantly (with His) four powers (that are its four types). One is beautiful with the red colour of oranges. (Another) takes (her) beauty from the white ripening rice. (The third shines with a) light beautiful with the golden lustre (cchāyā) of 
+Here wine is Mahābhairava,[^599] who burns radiantly (with His) four powers (that are its four types). One is beautiful with the red colour of oranges. (Another) takes (her) beauty from the white ripening rice. (The third shines with a) light beautiful with the golden lustre (cchāyā) of 
 
-597?\. Śānṇdilya is, according to the legend, an ascetic (muni) who subjected himself to severe austerities to attain a vision of the goddess Śaradā. See Stein op. cit., vol. 2, pp. 280-281.
+[^598]: Śānṇdilya is, according to the legend, an ascetic (muni) who subjected himself to severe austerities to attain a vision of the goddess Śaradā. See Stein op. cit., vol. 2, pp. 280-281.
 
-598?\. Concerning the use of wine and other alcoholic beverages, see above, 15/69 ff. and note, and also 29/12-13 and note.
+[^599]: Concerning the use of wine and other alcoholic beverages, see above, 15/69 ff. and note, and also 29/12-13 and note.
 
 
 *[p. 246]* ^pg264
 
 stainless (freshly) sliced lemons. (The fourth) shines dark blue, imitating 
 
-(the colour) of the kerīkuntala’s sprout." (42) 
+(the colour) of the kerīkuntala’s sprout.[^600] (42) 
 
 ### TĀ 37.43
 
@@ -821,11 +823,11 @@ wheels.
 
 ### TĀ 37.44
 
-= (44) 
+[^601] (44) 
 
 #### Viveka on 37.44
 
-The ‘four powers’ are Siddhā etc.,” and they are white, red, yellow and black in colour. “The arrows’ of Madana (the God of Love) are desiccation (Soṣana) etc., and their task is (to induce) attachment (rāga) etc." (The deities of) ‘the wheels’ (move in) the primary wheel (of consciousness), and the subsidiary ones (of the senses). 
+The ‘four powers’ are Siddhā etc.,[^602] and they are white, red, yellow and black in colour. “The arrows’ of Madana (the God of Love) are desiccation (Soṣana) etc., and their task is (to induce) attachment (rāga) etc.[^603] (The deities of) ‘the wheels’ (move in) the primary wheel (of consciousness), and the subsidiary ones (of the senses). 
 
 The Beauty of the Kashmir Valley and Greatness of its Inhabitants 
 
@@ -836,13 +838,13 @@ The Beauty of the Kashmir Valley and Greatness of its Inhabitants
 सम्यग्ेवीत्रितययजनोद्यानमाविष्करोति ॥ ४५ ॥
 सर्वो लोकः कविरथ बुधो यत्र शुरोऽपि वाग्मी
 
-599?\. Probably an allusion to the colours of the wine. On the cultivation of the vines in Kashmir, at one time flowering much more than now, see Lawrence (1895) pp. 351 ff. I am unsure what plant the keerikuntala is. Perhaps it is the Kuntalavardhana, which is the eclipta prostata. In the Tamil tradition of Siddha medicine, it is used to treat many diseases. In Ayurvedic medicine, the leaf extract is considered to be a powerful liver tonic, and especially good for the hair. A black dye obtained from the eclipta prosta used for dying hair and tattooing. It also used to treat athlete's foot, eczema and derm: and is applied to the scalp to prevent loss of hair loss. The leaves improve the growth of hair growth and its colour. However, the plant is not blue, but the stem is purplish red in some plants.
+[^600]: Probably an allusion to the colours of the wine. On the cultivation of the vines in Kashmir, at one time flowering much more than now, see Lawrence (1895) pp. 351 ff. I am unsure what plant the keerikuntala is. Perhaps it is the Kuntalavardhana, which is the eclipta prostata. In the Tamil tradition of Siddha medicine, it is used to treat many diseases. In Ayurvedic medicine, the leaf extract is considered to be a powerful liver tonic, and especially good for the hair. A black dye obtained from the eclipta prosta used for dying hair and tattooing. It also used to treat athlete's foot, eczema and derm: and is applied to the scalp to prevent loss of hair loss. The leaves improve the growth of hair growth and its colour. However, the plant is not blue, but the stem is purplish red in some plants.
 
-600?\. This verse is quoted in Maheśvarānanda’s MM p. 113. There yat kāntānāṁ (‘lovers’) reads yan mugdhānāṁ (‘simple people”). It may be that Maheśvarānanda altered the original reading to fit the context in which he quotes this verse, which is the interiorization of worship. Other variants are mādhvīkaṁ (‘intoxicating drink made from honey’) for mārdvīkaṁ (grape wine’) and kurute (tdoes’) for tanute (‘spreads out’).
+[^601]: This verse is quoted in Maheśvarānanda’s MM p. 113. There yat kāntānāṁ (‘lovers’) reads yan mugdhānāṁ (‘simple people”). It may be that Maheśvarānanda altered the original reading to fit the context in which he quotes this verse, which is the interiorization of worship. Other variants are mādhvīkaṁ (‘intoxicating drink made from honey’) for mārdvīkaṁ (grape wine’) and kurute (tdoes’) for tanute (‘spreads out’).
 
-601?\. These four are Siddhā, Raktā, Śuṣkā and Utpalāhastā. See above, TĀv ad 29/51 and note 29,125. Sanderson (2005: 277 n 110): ‘the colours were no doubt thought to be significant as those of four varieties of wine.’ Sanderson notes (ibid. 277) that ‘the Ānandeśvarapūjā has this set of four worshipped as the retinue of Ānandeśvarabhairava and his consort Surādevī, the deities of wine.”
+[^602]: These four are Siddhā, Raktā, Śuṣkā and Utpalāhastā. See above, TĀv ad 29/51 and note 29,125. Sanderson (2005: 277 n 110): ‘the colours were no doubt thought to be significant as those of four varieties of wine.’ Sanderson notes (ibid. 277) that ‘the Ānandeśvarapūjā has this set of four worshipped as the retinue of Ānandeśvarabhairava and his consort Surādevī, the deities of wine.”
 
-602?\. Madana, more commonly called Kāmadeva, has five arrows that inflict five wounds of love and give rise to the lover’s five states of mind.
+[^603]: Madana, more commonly called Kāmadeva, has five arrows that inflict five wounds of love and give rise to the lover’s five states of mind.
 
 
 *[p. 247]* ^pg265
@@ -868,11 +870,11 @@ yatrāṁṁgārojjvalavikasitāīnantasauṣumnamārga-
 
 grastārkendurgaganavimalo yoginīnār ca vargaḥ ॥ 46 ॥ 
 
-The ground strewn at every step with saffron flowers,” with their blue-red (Śyāmarakta i.e. violet) petals blooming on the white sprouts emerging (from their stem), (adorned) on the inside with beautiful rows of stamens (quivering) playfully with their radiant deep red colour, make a (veritable) garden fit for the worship of the three goddesses (Parā, Parāparā, and Aparā). (45) 
+The ground strewn at every step with saffron flowers,[^604] with their blue-red (Śyāmarakta i.e. violet) petals blooming on the white sprouts emerging (from their stem), (adorned) on the inside with beautiful rows of stamens (quivering) playfully with their radiant deep red colour, make a (veritable) garden fit for the worship of the three goddesses (Parā, Parāparā, and Aparā). (45) 
 
 ### TĀ 37.46
 
-Every man here is a poet, wise, valiant and eloquent. Graceful is the gait of the women of the towns, who shine (like the) light of the moon. Here the yoginīs are stainless like the sky, the Sun and Moon (of exhalation and inhalation) devoured into the blooming, endless path of suṣumnā that burns radiantly (like red-hot) coals. (46) 
+Every man here is a poet, wise, valiant and eloquent. Graceful is the gait of the women of the towns, who shine (like the) light of the moon. Here the yoginīs[^605] are stainless like the sky, the Sun and Moon (of exhalation and inhalation) devoured into the blooming, endless path of suṣumnā that burns radiantly (like red-hot) coals. (46) 
 
 #### Viveka on 37.46
 
@@ -886,9 +888,9 @@ King Pravarasena, the Founder of the Capital Pravarapura
 
 यनिर्ममे प्रवरसेन इति क्षितीशः ।
 
-603?\. The word for saffron here is kāśmīrapuṣpa — the flower of Kashmir. Saffron is today one of the principal products of Kashmir. In the past, this was the only place in the world in which it grew. See RT vol. 2, p. 428.
+[^604]: The word for saffron here is kāśmīrapuṣpa — the flower of Kashmir. Saffron is today one of the principal products of Kashmir. In the past, this was the only place in the world in which it grew. See RT vol. 2, p. 428.
 
-604?\. See above 28/371-373ab and note.
+[^605]: See above 28/371-373ab and note.
 
 
 *[p. 248]* ^pg266
@@ -912,29 +914,29 @@ vyomotpatan nudasṛjat kila dhūpaghanṭām || 47 ॥
 sā cāsya tatsucaritaḥ prathayābabhūva |
 sadvṛttasāragurutaijasamūrtayo hi tyaktā api prabhuguṇān adhika dhvananti || 48 ॥ 
 
-There, the king Pravarasena, who constructed the supremely illustrious city called Pravara (Most Excellent),“ at the end of a rite of worship (in the sanctuary of) Maheśvara he had himself established, flew 
+There, the king Pravarasena, who constructed the supremely illustrious city called Pravara (Most Excellent),[^606] at the end of a rite of worship (in the sanctuary of) Maheśvara he had himself established, flew 
 
-up into the sky, letting fall an incense bell. (47) 
+up into the sky, letting fall an incense bell.[^607] (47) 
 
 ### TĀ 37.48
 
-That (bell), with its pleasing, most excellent sounds produced by its swinging, proclaimed his righteous conduct.“ (Metallic) icons made of radiant energy, heavy with essence and well fashioned, even when dropped, sonorously proclaim even more the qualities of their lord.“ (48) 
+That (bell), with its pleasing, most excellent[^608] sounds produced by its swinging, proclaimed his righteous conduct.[^609] (Metallic) icons made of radiant energy, heavy with essence and well fashioned, even when dropped, sonorously proclaim even more the qualities of their lord.[^610] (48) 
 
 #### Viveka on 37.48
 
-‘The king Pravarasena constructed the city (called Pravara (Most Excellent))’ within which the king Lalitāditya ‘made a dwelling place there for this brahmin (Atrigupta)’; (thus, the two statements are) related at a distance (from one another). By (saying that the king Pravarasena) ‘flew up into the sky’, what he proclaims here (in this case) also is in consonance with (that king’s supernatural) accomplishments (siddhi). “That bell, and (icons) ‘made of radiant energy’ and iron. 
+‘The king Pravarasena constructed the city (called Pravara (Most Excellent))’ within which the king Lalitāditya ‘made a dwelling place there for this brahmin (Atrigupta)’; (thus, the two statements are) related at a distance (from one another).[^611] By (saying that the king Pravarasena) ‘flew up into the sky’, what he proclaims here (in this case) also is in consonance with (that king’s supernatural) accomplishments (siddhi). “That bell, and (icons) ‘made of radiant energy’ and iron. 
 
-605?\. \[illegible\] This is the modern Srinagar. The legendary story of the founding of this city by king Pravarasena the second, who reigned in Kashmir towards the second half of the fourth century, is narrated in the RT 3/336 ff.; see also RT vol. 2, pp. 442 ff.
+[^606]: \[illegible\] This is the modern Srinagar. The legendary story of the founding of this city by king Pravarasena the second, who reigned in Kashmir towards the second half of the fourth century, is narrated in the RT 3/336 ff.; see also RT vol. 2, pp. 442 ff.
 
-606?\. The miraculous ascension into the sky of king Pravarasena happened in the temple of Śiva Pravareśvara, founded by him. Bilhana refers to it his Vikramāṁkadevacaritam (18/28), as does Kalhana in RT (3/374 ff). However, neither of them refers to the dhūpaghantā, which I have here translated, as ‘incense bell’.
+[^607]: The miraculous ascension into the sky of king Pravarasena happened in the temple of Śiva Pravareśvara, founded by him. Bilhana refers to it his Vikramāṁkadevacaritam (18/28), as does Kalhana in RT (3/374 ff). However, neither of them refers to the dhūpaghantā, which I have here translated, as ‘incense bell’.
 
-607?\. Read —vāranādaiḥ for -vīranādaih.
+[^608]: Read —vāranādaiḥ for -vīranādaih.
 
-608?\. \[illegible\] Or perhaps, ‘this his extraordinary enterprise’?
+[^609]: \[illegible\] Or perhaps, ‘this his extraordinary enterprise’?
 
-609?\. The second part of this verse contains a samāsokti, which is a figure of speech whereby the behaviour of something is described by describing the similar behaviour or attributes of something else.
+[^610]: The second part of this verse contains a samāsokti, which is a figure of speech whereby the behaviour of something is described by describing the similar behaviour or attributes of something else.
 
-610?\. The first statement is made in the beginning of verse 47 and the second one at the end of verse
+[^611]: The first statement is made in the beginning of verse 47 and the second one at the end of verse
 
 
 *[p. 249]* ^pg267
@@ -962,7 +964,7 @@ The Beauty and Sanctity of the River Vitastā
 
 यद्धूषयत्यविरतं तटिनी वितस्ता ॥ ५१ ॥
 
-1111 liṅgas[^611] 
+1111 liṅgas[^612] 
 
 gādhāṁgarāgaghanakuṁkumapiñjaraśrīḥ |
 proddhūtavetasalatāsitacāmaraughair- 
@@ -988,17 +990,17 @@ Siddhas, ascetics, and men (rightly) honour it, purified of (their) sins by repe
 
 #### Viveka on 37.50
 
-[^611]: \[illegible\] A svāyambhā (literally \*self-generated’) liṅga is a natural formation of rock or other materials that look like a Jiṅga and is worshipped as such.
+[^612]: \[illegible\] A svāyambhā (literally \*self-generated’) liṅga is a natural formation of rock or other materials that look like a Jiṅga and is worshipped as such.
 
 *[p. 250]* ^pg268
 
 ### TĀ 37.51
 
-The river Vitastā, brought down (into the world) by a blow from Śiva’s trident (pināka), adorns without a break (by its constant flow, the city). (A veritable) wish-granting creeper that fulfils (those who bathe in it with) both worldly fruits and liberation, demeaning (the Ganges), the river of the gods and Siddhas, which gives only worldly fruits. (51) 
+The river Vitastā, brought down (into the world) by a blow from Śiva’s trident (pināka), adorns without a break (by its constant flow, the city).[^613] (A veritable) wish-granting creeper that fulfils (those who bathe in it with) both worldly fruits and liberation, demeaning (the Ganges), the river of the gods and Siddhas, which gives only worldly fruits. (51) 
 
 #### Viveka on 37.51
 
-(The river Vitastā) fulfils (those who bathe in it with) ‘both worldly fruits and liberation’, described in (the previous) two verses (i.e. 49 and 50). \*(Śiva’s) trident (pināka)’ is (his) weapon, which is (his) trident. 
+(The river Vitastā) fulfils (those who bathe in it with) ‘both worldly fruits and liberation’, described in (the previous) two verses (i.e. 49 and 50). \*(Śiva’s) trident (pināka)’ is (his) weapon, which is (his) trident.[^614] 
 
 Abhinavagupta’s Ancestral Home Donated to Atrigupta and Handed Down to Varāhagupta and Narasiṁhagupta 
 
@@ -1039,16 +1041,16 @@ tasyātmajaś cukhalaketi jane prasiddhaś-
 candrāvadātadhiṣaṇo narasimṁaguptaḥ |
 yari sarvaśāstrarasamajjanaśubhracittan 
 
-612?\. \[illegible\] The legendary origin of the river Vitastā is narrated in the Haricaritacintāmani 12/2-34. See also the RT vol. 2 p. 411.
+[^613]: \[illegible\] The legendary origin of the river Vitastā is narrated in the Haricaritacintāmani 12/2-34. See also the RT vol. 2 p. 411.
 
-613?\. The word pināka most commonly means a bow. Sivas precursor, the Vedic Rudra, is commonly portrayed as a hunter who carries a bow — pināka. Śivas pināka is his trident. Jayaratha glosses the word ‘pināka’ in the general sense of a weapon.
+[^614]: The word pināka most commonly means a bow. Sivas precursor, the Vedic Rudra, is commonly portrayed as a hunter who carries a bow — pināka. Śivas pināka is his trident. Jayaratha glosses the word ‘pināka’ in the general sense of a weapon.
 
 
 *[p. 251]* ^pg269
 
 māheśvarī paramalaṁkurute sma bhaktiḥ | 54 ॥ 
 
-(Thus,) on the bank of the Vitastā, sanctified by the sight before it (of the temple) of Sītāhśumauli,” (to the north of which is) Kubera’s abode, the king, imagining the great benefits (sampat) (of doing so), made a dwelling place there for this brahmin (called Atrigupta). (52) 
+(Thus,) on the bank of the Vitastā, sanctified by the sight before it (of the temple) of Sītāhśumauli,[^615] (to the north of which is) Kubera’s abode, the king, imagining the great benefits (sampat) (of doing so), made a dwelling place there for this brahmin (called Atrigupta). (52) 
 
 ### TĀ 37.53
 
@@ -1056,7 +1058,7 @@ Within his great lineage, there was a certain (descendent) called Varāhagupta. 
 
 ### TĀ 37.54
 
-His son was Narasiṁhagupta, well known amongst men by the name of Cukhalaka.” Supremely adorned with devotion to Maheśvara, his intellect was pure like the moon, and his mind shone brightly by virtue of his (constant) immersion in the aesthetic essence (rasa) of all the scriptures. (54) 
+His son was Narasiṁhagupta, well known amongst men by the name of Cukhalaka.[^616] Supremely adorned with devotion to Maheśvara, his intellect was pure like the moon, and his mind shone brightly by virtue of his (constant) immersion in the aesthetic essence (rasa) of all the scriptures. (54) 
 
 #### Viveka on 37.54
 
@@ -1079,9 +1081,9 @@ Abhinavagupta’s Mother Died When He Was a Child; His Youthful Folly and the Da
 सेहोऽतिगाढीकुरुते हि पाशान् ।
 तन्मूलबन्धे गलिते किलास्य मन्ये स्थिता जीवत एव मुक्तिः ॥ ५७ ॥
 
-614?\. A name of Śiva whìch literally means \[illegible\] god who wears as) a diadem the moon’. This verse may also be translated: ‘Purified by the sight, in front of them, of the (mountain) peak (mauli), radiant white, situated in the north’ alluding to some Himalayan mountain, for example, the Haramukh, visible from Śrīnagar and sacred to Śiva.
+[^615]: A name of Śiva whìch literally means \[illegible\] god who wears as) a diadem the moon’. This verse may also be translated: ‘Purified by the sight, in front of them, of the (mountain) peak (mauli), radiant white, situated in the north’ alluding to some Himalayan mountain, for example, the Haramukh, visible from Śrīnagar and sacred to Śiva.
 
-615?\. 37/54ab is quoted above in TĀv ad 1/1 (see note there concerning the various forms of his name). Other references to Abhinava’s father are above 1/12 (see notes there); also in MVV 1/5, ĪPVv vol. 3 pp. 405-406 verses 2-5, and PTv p. 281, where Abhinava says of him: “After a long time, Varāhagupta was born in his (i.e. Atrigupta’s) family, and from him Cukhala, who was averse to the things of the world and was entirely concentrated on Śiva. From him, who had discerned all things, Abhinavagupta was purely conceived who, having conquered all fear of transmigration, makes this ancient essence of Trika known.’ (12-13)
+[^616]: 37/54ab is quoted above in TĀv ad 1/1 (see note there concerning the various forms of his name). Other references to Abhinava’s father are above 1/12 (see notes there); also in MVV 1/5, ĪPVv vol. 3 pp. 405-406 verses 2-5, and PTv p. 281, where Abhinava says of him: “After a long time, Varāhagupta was born in his (i.e. Atrigupta’s) family, and from him Cukhala, who was averse to the things of the world and was entirely concentrated on Śiva. From him, who had discerned all things, Abhinavagupta was purely conceived who, having conquered all fear of transmigration, makes this ancient essence of Trika known.’ (12-13)
 
 
 *[p. 252]* ^pg270
@@ -1109,7 +1111,7 @@ His son is well known as Abhinavagupta, who has been purified by the pollen of t
 
 ### TĀ 37.55
 
-Once he had set aside the burdens of the oceanic waves (of his stormy) youth, he mounted with vigour (haṭhena) on the firm boat of detachment, and then, having attained the (full) development of (his) devotion, thanks to the (precious) gems of (his) meditation on Maheśa, totally destroyed the calamities of (worldly) existence.” (56) (55) 
+Once he had set aside the burdens of the oceanic waves (of his stormy) youth, he mounted with vigour (haṭhena) on the firm boat of detachment, and then, having attained the (full) development of (his) devotion, thanks to the (precious) gems of (his) meditation on Maheśa, totally destroyed the calamities of (worldly) existence.[^617] (56) (55) 
 
 ### TĀ 37.57
 
@@ -1135,7 +1137,7 @@ to Maheśa, He Had No Worldly Concerns
 भक्त्या स्वयंग्रहणदुर्मदया गृहीतः ॥ ५८ ॥
 स तन्मयीभूय न लोकवर्तनी-
 
-616?\. This verse has been taken to be a reference Abhinava makes to himself. This is indeed likely. However, in the printed edition, this verse comes just after the one referring to his father, and so appears to be referring to him. Reversing the order of this verse with following seems appropriate. Abhinava first loses his mother in his childhood and then had a ‘stormy youth’.
+[^617]: This verse has been taken to be a reference Abhinava makes to himself. This is indeed likely. However, in the printed edition, this verse comes just after the one referring to his father, and so appears to be referring to him. Reversing the order of this verse with following seems appropriate. Abhinava first loses his mother in his childhood and then had a ‘stormy youth’.
 
 
 *[p. 253]* ^pg271
@@ -1157,17 +1159,17 @@ tadīyasaibhogavivṛddhaye purā
 
 karoti dāsyam guruveśmasu svayam || 59 || 
 
-He was introduced to (Sanskrit) grammar (śabdagahana)”? by his father. The drops sprinkled by the waves of the ocean of logic (tarka) purified his stainless mind, and he dedicated himself to the enjoyment of the intense aesthetic delight (rasa) of literature, gripped by devotion to Maheśa, by virtue of the (spiritual) inebriation that spontaneously takes hold (of those such as him). (58) 
+He was introduced to (Sanskrit) grammar (śabdagahana)[^618] by his father. The drops sprinkled by the waves of the ocean of logic (tarka) purified his stainless mind, and he dedicated himself to the enjoyment of the intense aesthetic delight (rasa) of literature, gripped by devotion to Maheśa, by virtue of the (spiritual) inebriation that spontaneously takes hold (of those such as him). (58) 
 
 ### TĀ 37.59
 
-Totally immersed in deity,“ he had no concern for anything in the world at all. AIl he did was to serve in the homes of (his numerous) teachers himself, in order to develop his (spiritual) experience. (59) 
+Totally immersed in deity,[^619] he had no concern for anything in the world at all. AIl he did was to serve in the homes of (his numerous) teachers himself, in order to develop his (spiritual) experience. (59) 
 
 #### Viveka on 37.59
 
 ‘He did’ (purā karoti) — the use of the present tense (in this case is sanctioned by the rule ‘(the affix verbal) \[illegible\] (that normally marks the present tense denotes future action when associated with the particles) yāvat and 
 
-purā?” 
+purā.’[^620] 
 
 Who are these teachers? With this doubt in mind, he says: 
 
@@ -1187,11 +1189,11 @@ Abhinavagupta’s Teachers
 नन्दात्मजोत्पलजलक्ष्मणगुप्तनाथः ।
 तुयख्यसंततिमहोदधिपूर्णचन्द्रः
 
-617?\. Śabdagahane literally means ‘into the abyss of words’.
+[^618]: Śabdagahane literally means ‘into the abyss of words’.
 
-618?\. tanmayībhūya - literally means ‘being one with’ (the deity).
+[^619]: tanmayībhūya - literally means ‘being one with’ (the deity).
 
-619?\. yāvat purānipatayor lat PāSū 3/3/4. The expression here ‘purā karoti’, which literally means ‘in the past he does’, denotes past action, although the verb ‘to do’ is conjugated in the present tense. This idiom is sanctioned by this rule.
+[^620]: yāvat purānipatayor lat PāSū 3/3/4. The expression here ‘purā karoti’, which literally means ‘in the past he does’, denotes past action, although the verb ‘to do’ is conjugated in the present tense. This idiom is sanctioned by this rule.
 
 
 *[p. 254]* ^pg272
@@ -1241,9 +1243,9 @@ yat saṁprādur yad api ca janānnaikṣatākṣetrabhūtān
 
 svātmārāmas tad ayam aniśaṁ tattvasevāraso ‘bhūt || 63 ॥ 
 
-1\) Vāmanātha, the son of the true teacher, the excellent Erakavara, was the helmsman (of the boat on which he crossed) the ocean of the Lineage of Bliss (ānandasaṁtati).[^620] 2) The venerable son of Bhūtirāja, who 
+1\) Vāmanātha, the son of the true teacher, the excellent Erakavara, was the helmsman (of the boat on which he crossed) the ocean of the Lineage of Bliss (ānandasaṁtati).[^621] 2) The venerable son of Bhūtirāja, who 
 
-[^620]: Abhinava has had occasion to refer to a set of four Śaiva orders (maṭhika — literally ‘small monasteries’) (see 4/265cd-267ab, and 36/11-14), of which, he says, the Tantrāloka is imbued with the essence (rasa). These derive their names from their founders. The Āmardaka order taught dualistic Śaivism. The one founded by Śrīnātha, dualistic-cum-nondualistic. Tryambaka is nondual, and the additional Half Tryambaka founded by his daughter is the Kaula Trika. If this is the model here, as Sanderson understands it to be (2005b: 121 note 79), the Ānandasaṁtati is the dualist Śaiva order founded by Āmardaka taught to him by Vāmanātha. While the identity of the other three is quite clear, this one is not. The problem is the identity of Erakavara. According to the Kramastotra, as reported by Jayaratha (TĀv ad 4/173ab), Eraka, also called Erakanātha and Naverakanātha, was a disciple of Keyūravatī, who was a direct disciple of Sivānanda (alias Jñānanetra), who introduced the Krama system into the Kashmir Valley around the middle of the 9TM century. That would place Erakanātha around the first half of the 10\* century. Erakanātha wrote the Kramastotra that Abhinava commented on and appreciated very much. The young Abhinava may well have learnt the Krama teachings of this, ‘the Lineage of Bliss’ of the Krama school, from an aged Vāmanātha. Sanderson does not endorse the view that the Erakavara to whom Abhinava refers was the Krama teacher. However, Āmardaka is a well-known founder gure mentioned in Siddhānta sources. This is as one would expect, if this order taught dualist Śaivism. One wonders why Abhinava refers to these teachers before he does those of the Pratyabhijñā and Trika, who appear in the verse that follows. If the serial order of the verses has not been reversed by mistake, it may appear that these teachers were in some way more important than the ones that follow. Possibly Abhinava is listing them in chronological order. Abhinava’s first teacher was his father. We know that his commentary on the Bhagavadgītā was the earliest surviving work. There he states that he reflected on the traditional explanation taught in Bhaṭtendurāja’s tradition (ibid. intro. verse 6) and that he was Bhūtirāja’s son (concluding verse 1, where he is compared to the sun, as he is at the beginning of the work). We know from his reference to his commentary on the Kramastotra — the Kramakeli — in the PTv that Abhinava wrote it before the PTv. Abhinava appears to have begun his studies with Krama and Trika and then moved on to the Pratyabhijñā, because although he quotes from the Jśvarapratyabhijñā and other works by Utpaladeva in the PTv, he does not refer there to Lakṣmaṇagupta, who taught him Pratyabhijñā (above 1/11). Finally, we observe that this is the serial order in which he praises them at the beginning of the Tantrāloka also (see above, 1/7-11)
+[^621]: Abhinava has had occasion to refer to a set of four Śaiva orders (maṭhika — literally ‘small monasteries’) (see 4/265cd-267ab, and 36/11-14), of which, he says, the Tantrāloka is imbued with the essence (rasa). These derive their names from their founders. The Āmardaka order taught dualistic Śaivism. The one founded by Śrīnātha, dualistic-cum-nondualistic. Tryambaka is nondual, and the additional Half Tryambaka founded by his daughter is the Kaula Trika. If this is the model here, as Sanderson understands it to be (2005b: 121 note 79), the Ānandasaṁtati is the dualist Śaiva order founded by Āmardaka taught to him by Vāmanātha. While the identity of the other three is quite clear, this one is not. The problem is the identity of Erakavara. According to the Kramastotra, as reported by Jayaratha (TĀv ad 4/173ab), Eraka, also called Erakanātha and Naverakanātha, was a disciple of Keyūravatī, who was a direct disciple of Sivānanda (alias Jñānanetra), who introduced the Krama system into the Kashmir Valley around the middle of the 9TM century. That would place Erakanātha around the first half of the 10\* century. Erakanātha wrote the Kramastotra that Abhinava commented on and appreciated very much. The young Abhinava may well have learnt the Krama teachings of this, ‘the Lineage of Bliss’ of the Krama school, from an aged Vāmanātha. Sanderson does not endorse the view that the Erakavara to whom Abhinava refers was the Krama teacher. However, Āmardaka is a well-known founder gure mentioned in Siddhānta sources. This is as one would expect, if this order taught dualist Śaivism. One wonders why Abhinava refers to these teachers before he does those of the Pratyabhijñā and Trika, who appear in the verse that follows. If the serial order of the verses has not been reversed by mistake, it may appear that these teachers were in some way more important than the ones that follow. Possibly Abhinava is listing them in chronological order. Abhinava’s first teacher was his father. We know that his commentary on the Bhagavadgītā was the earliest surviving work. There he states that he reflected on the traditional explanation taught in Bhaṭtendurāja’s tradition (ibid. intro. verse 6) and that he was Bhūtirāja’s son (concluding verse 1, where he is compared to the sun, as he is at the beginning of the work). We know from his reference to his commentary on the Kramastotra — the Kramakeli — in the PTv that Abhinava wrote it before the PTv. Abhinava appears to have begun his studies with Krama and Trika and then moved on to the Pratyabhijñā, because although he quotes from the Jśvarapratyabhijñā and other works by Utpaladeva in the PTv, he does not refer there to Lakṣmaṇagupta, who taught him Pratyabhijñā (above 1/11). Finally, we observe that this is the serial order in which he praises them at the beginning of the Tantrāloka also (see above, 1/7-11)
 
 *[p. 255]* ^pg273
 
@@ -1251,16 +1253,16 @@ was favoured (with initiation) by his father, (was for him) a radiantly beautifu
 
 ### TĀ 37.61
 
-Śrīnātha.” (60) 
+Śrīnātha.[^622] (60) 
 
-621?\. We have seen that Bhûtirāja was one of Abhinava’s Krama teachers. Abhinava hails him with the greatest respect as most excellent teacher (tato gurutaraḥ śrīmānbhūtirājo mahāmatiḥ | MVV 1/6ab) on a par with his Trika master, Śambhunātha (above, 1/9). It appears therefore that he also taught the dualist-cum-nondualist Śaivism of the Śrīsantati, Śrīsantāna and Śrīnāthasaṁtāna (see above comm. 1/9 and 6/89). See above, note to comm. 1/9. There has been some speculation whether ‘the son of Bhûtirāọja’ was Helārāja, who wrote an important commentary of the Vākyapadīya by Bhartṛhari, the foremost treatise in Sanskrit on the philosophy of language. In the colophons at the end of each chapter, Helārāja declares that he is ‘the son of Bhūtirāja’. Moreover, elsewhere he tells us that he was a descendent of Lakṣaṇa (> Lakṣmana), a minister of the Kashmiri king Muktāpīda (VP khanda 3 pt. 2 p. 272). However, in the concluding verses on his commentary on the Bhagavadgītā, Abhinava tells us that his teacher in the Gītā and literature (sāhitya) was the son of Bhūtirāja, called Indurāja ot Bhaṭṭendurāja. The latter ascription is amply confirmed by Abhinava himself, for he praises Bhaṭtendurāja as his teacher at the beginning of his commentary (locana) on the great work on poetics, the Dhvanyāloka by Anandavardhana. Thus he writes: bhaṭṭendurājacaranābjakṛtādhivāsahṛdyaśruto ‘bhinavaguptapadābhidho” ham | \*I am the one called Abhinavagupta, who has heard what is to be taken to heart, having taken as (my) abode the lotus feet of Bhaṭṭendurāja.” Although Indurāja’s learning as a literary critic is attested, it is not stated that he was also learned in the work of Bhartṛhari. Is it possible that Indurāja and Helārāja were both sons of Bhūtirāja? We know from Jayaratha that Abhinava wrote a work called Prakīrnakavivarana (TĀv ad 10/44) that has not been recovered. It appears from the context that it was a work that dealt with grammar. As prakīrṇa is the name of the third section (khanda) of the Vākyapadīya. It is possible that it was a commentary (vivarana) on this section of the Vākyapadīya. Helārāja’ commentary is called Prakīrnakaprakaśa. It has been suggested on the basis of this very tenuous evidence that Helārāja was the ‘son of Bhūtirāja’, to whom Abhinava is referring here (Iyer 1969: 40). There can be no doubt that Bharthari was well known to the expounders of the Pratyabhijñā, Somānanda (who criticized him) and Utpaladeva (who accepted him), before Abhinava, as he was by Abhinava himself. It may well be that Abhinava did write a commentary on his work, but beyond that there is no strong evidence that he was a \[illegible\] of Helārāja.
+[^622]: We have seen that Bhûtirāja was one of Abhinava’s Krama teachers. Abhinava hails him with the greatest respect as most excellent teacher (tato gurutaraḥ śrīmānbhūtirājo mahāmatiḥ | MVV 1/6ab) on a par with his Trika master, Śambhunātha (above, 1/9). It appears therefore that he also taught the dualist-cum-nondualist Śaivism of the Śrīsantati, Śrīsantāna and Śrīnāthasaṁtāna (see above comm. 1/9 and 6/89). See above, note to comm. 1/9. There has been some speculation whether ‘the son of Bhûtirāọja’ was Helārāja, who wrote an important commentary of the Vākyapadīya by Bhartṛhari, the foremost treatise in Sanskrit on the philosophy of language. In the colophons at the end of each chapter, Helārāja declares that he is ‘the son of Bhūtirāja’. Moreover, elsewhere he tells us that he was a descendent of Lakṣaṇa (> Lakṣmana), a minister of the Kashmiri king Muktāpīda (VP khanda 3 pt. 2 p. 272). However, in the concluding verses on his commentary on the Bhagavadgītā, Abhinava tells us that his teacher in the Gītā and literature (sāhitya) was the son of Bhūtirāja, called Indurāja ot Bhaṭṭendurāja. The latter ascription is amply confirmed by Abhinava himself, for he praises Bhaṭtendurāja as his teacher at the beginning of his commentary (locana) on the great work on poetics, the Dhvanyāloka by Anandavardhana. Thus he writes: bhaṭṭendurājacaranābjakṛtādhivāsahṛdyaśruto ‘bhinavaguptapadābhidho” ham | \*I am the one called Abhinavagupta, who has heard what is to be taken to heart, having taken as (my) abode the lotus feet of Bhaṭṭendurāja.” Although Indurāja’s learning as a literary critic is attested, it is not stated that he was also learned in the work of Bhartṛhari. Is it possible that Indurāja and Helārāja were both sons of Bhūtirāja? We know from Jayaratha that Abhinava wrote a work called Prakīrnakavivarana (TĀv ad 10/44) that has not been recovered. It appears from the context that it was a work that dealt with grammar. As prakīrṇa is the name of the third section (khanda) of the Vākyapadīya. It is possible that it was a commentary (vivarana) on this section of the Vākyapadīya. Helārāja’ commentary is called Prakīrnakaprakaśa. It has been suggested on the basis of this very tenuous evidence that Helārāja was the ‘son of Bhūtirāja’, to whom Abhinava is referring here (Iyer 1969: 40). There can be no doubt that Bharthari was well known to the expounders of the Pratyabhijñā, Somānanda (who criticized him) and Utpaladeva (who accepted him), before Abhinava, as he was by Abhinava himself. It may well be that Abhinava did write a commentary on his work, but beyond that there is no strong evidence that he was a \[illegible\] of Helārāja.
 
 
 *[p. 256]* ^pg274
 
-3\) Lakṣmaṇaguptanātha,” a disciple of Utpala, who was the disciple (ātmaja)” of Somānanda, who lay on the ocean of (the lineage that) spread from Tryambaka (and showed him through it). 4) Śambhunātha, who knew everything (of the Śaiva scriptures and traditions), the disciple of the venerable Sumati,” (illumined for him, like) the full moon, the ocean of the 
+3\) Lakṣmaṇaguptanātha,[^623] a disciple of Utpala, who was the disciple (ātmaja)[^624] of Somānanda, who lay on the ocean of (the lineage that) spread from Tryambaka (and showed him through it). 4) Śambhunātha, who knew everything (of the Śaiva scriptures and traditions), the disciple of the venerable Sumati,[^625] (illumined for him, like) the full moon, the ocean of the 
 
-lineage called the fourth.\* (61) 
+lineage called the fourth.[^626] (61) 
 
 #### Viveka on 37.61
 
@@ -1270,25 +1272,25 @@ teachers were)
 
 ### TĀ 37.62
 
-the venerable Candraśarman, Bhavabhaktivilāsa,”? Yogānanda, Abhinanda, Śivaśakti," and Vicitranātha. There were other great (teachers also) who were (amongst) the main ones, namely, Dharmaśiva (the Siddhāntin)ą, Vāmanaka, Udbhaṭa (who taught Krama, as did) the venerable Bhūteśa, and (Bhāskara,) whose face is like 
+the venerable Candraśarman, Bhavabhaktivilāsa,[^627] Yogānanda, Abhinanda, Śivaśakti,[^628] and Vicitranātha. There were other great (teachers also) who were (amongst) the main ones, namely, Dharmaśiva (the Siddhāntin)ą, Vāmanaka, Udbhaṭa (who taught Krama, as did) the venerable Bhūteśa, and (Bhāskara,) whose face is like 
 
-the sun (bhāskaramukha).\* (62) 
+the sun (bhāskaramukha).[^629] (62) 
 
 #### Viveka on 37.62
 
-622?\. Referring to Lakṣmaṇagupta, Abhinava says: ‘by whom the bee of my mind, though (api) intoxicated by relishing countless new tastes, is (eventually) satisfied with the pleasure (/bliss that is the ultimate reality,) and attaining unity with it, remains so in itself (/its own self), that a wealth of different sounds (/doctrines) is opening in her.’ MVV 1/10
+[^623]: Referring to Lakṣmaṇagupta, Abhinava says: ‘by whom the bee of my mind, though (api) intoxicated by relishing countless new tastes, is (eventually) satisfied with the pleasure (/bliss that is the ultimate reality,) and attaining unity with it, remains so in itself (/its own self), that a wealth of different sounds (/doctrines) is opening in her.’ MVV 1/10
 
-623?\. The expression ‘ātmaja’ can also mean ‘son’. Indeed, Pandey was of the opinion that Utpaladeva was Somānanda’s son and Lakṣmaṇagupta, that of Utpaladeva. But the expression can equally mean ‘spiritual son’, i.e. disciple. As there are no reference in our sources to suggest otherwise, I have chosen to translate in this way.
+[^624]: The expression ‘ātmaja’ can also mean ‘son’. Indeed, Pandey was of the opinion that Utpaladeva was Somānanda’s son and Lakṣmaṇagupta, that of Utpaladeva. But the expression can equally mean ‘spiritual son’, i.e. disciple. As there are no reference in our sources to suggest otherwise, I have chosen to translate in this way.
 
-624?\. Read śrīsaumataḥ for śrīsomataḥ. See Sanderson 2005b pp. 132-133, fn 106 concerning this emendation.
+[^625]: Read śrīsaumataḥ for śrīsomataḥ. See Sanderson 2005b pp. 132-133, fn 106 concerning this emendation.
 
-625?\. We have seen that there were said to be three teachers who founded the lineages that taught dualist, dualist-cum-nondualist and non-dualist Śaivism, namely, Amardaka, Śrīnātha and Tryambika, respectively. The daughter of the last founded a fourth ‘half tradition’ (ardhamaṭhikā) (see above, 36/11-14), which is identified here very clearly with that of the Trika transmitted to Abhinava by Śambhunātha. Note, moreover, that Tryambika’s lineage descends through the non-dualist Śaiva Somānanda down to Utpaladeva, who founded its development, called Pratyabhijñā. Through his disciple Lakṣmaṇagupta it reached Abhinava. Clearly, ॥ the lineage of the Pratyabhijñā which, although closely related to Trika, is distinguished from it.
+[^626]: We have seen that there were said to be three teachers who founded the lineages that taught dualist, dualist-cum-nondualist and non-dualist Śaivism, namely, Amardaka, Śrīnātha and Tryambika, respectively. The daughter of the last founded a fourth ‘half tradition’ (ardhamaṭhikā) (see above, 36/11-14), which is identified here very clearly with that of the Trika transmitted to Abhinava by Śambhunātha. Note, moreover, that Tryambika’s lineage descends through the non-dualist Śaiva Somānanda down to Utpaladeva, who founded its development, called Pratyabhijñā. Through his disciple Lakṣmaṇagupta it reached Abhinava. Clearly, ॥ the lineage of the Pratyabhijñā which, although closely related to Trika, is distinguished from it.
 
-626?\. The reading of some of these names is uncertain. Bhava could be the name of a teacher, Bhavabhūti mentioned above in 13/149-150ab as being one of several who wrote a commentary on the Parātrīśikā. Or, in the sense of Siva, be linked to the following -bhaktivilāsa. It could also be understood to mean ‘son’, that is, the son of Candraśarman.
+[^627]: The reading of some of these names is uncertain. Bhava could be the name of a teacher, Bhavabhūti mentioned above in 13/149-150ab as being one of several who wrote a commentary on the Parātrīśikā. Or, in the sense of Siva, be linked to the following -bhaktivilāsa. It could also be understood to mean ‘son’, that is, the son of Candraśarman.
 
-627?\. \[illegible\] Pandey (1963a: 12) reads Śivabhakti for Śivaśakti. See Rastogi 1987: 35 ff.
+[^628]: \[illegible\] Pandey (1963a: 12) reads Śivabhakti for Śivaśakti. See Rastogi 1987: 35 ff.
 
-628?\. It is not possible, at present at least, to identify all these teachers. Abhinava refers to a ritual manual by Dharmaśiva (above 31/50 see also Kṣemarāja on SvT vol. 6, pp. 8-9). Initiatory names ending in -śiva are common amongst Śaivasiddhāntins, and so we may assume that Dharmaśiva was one. The appellation \[illegible\] is commonly affixed to the names of female Siddhāntins. So it possible that Śivaśakti was such. Vāmanaka may be identified with Bhūtirāja, one of Abhinava’s Krama teachers (see above, note 37,77). Or it may be that Śrībhūteśa is Bhūtirāja. Udbhaṭa was another of Abhinava’s Krama teachers (see above, TĀv ad 4/173ab). 1 have translated ‘bhāskaramukha’ as an adjective, ‘he whose face is like the sun’ referring to the teacher called Bhāskara. It is not impossible that he is the Bhāskara who wrote a commentary on the Śivasūtra. At the beginning of it, he gives a brief account of his lineage, that descends directly from Kallaṭabhaṭta, from whom he is removed by just four generations, and so could have been Abhinava’s teacher (Dyczkowski 1992b: 11). Torella has suggested that it is possible that Vāmanadatta, who is author of the Viṣnustuti, better known as the Saṁvitprakāśa, might be the Vāmanaka mentioned here. It is also possible that he is the same as the author of the Svabodhodayāmañjarī, a possibility to which Torella cautiously subscribes (Torella 1994b: 482, note 4), which I reject (Dyczkowski 1992a: 305). Abhinava quotes Bhatta Rāmakantha 2 directly above (8/428cd-434ab (428-434)); (see Goodall (1995: intro. p. 3) without criticising him; this might be because Rāmakantha was a senior contemporary whom he would not attack directly. Again, Nārāyaṇakantha, Rāmakantha’s father, quotes the Saṁvitprakāśa. Thus, although a direct connection between Abhinava and the author of the Saṁvirprakāśa is unlikely (Hanneder 1998: 146 note 18), it is still possible that he was one of Abhinava’s teachers, if Abhinava was young and he was quite old,
+[^629]: It is not possible, at present at least, to identify all these teachers. Abhinava refers to a ritual manual by Dharmaśiva (above 31/50 see also Kṣemarāja on SvT vol. 6, pp. 8-9). Initiatory names ending in -śiva are common amongst Śaivasiddhāntins, and so we may assume that Dharmaśiva was one. The appellation \[illegible\] is commonly affixed to the names of female Siddhāntins. So it possible that Śivaśakti was such. Vāmanaka may be identified with Bhūtirāja, one of Abhinava’s Krama teachers (see above, note 37,77). Or it may be that Śrībhūteśa is Bhūtirāja. Udbhaṭa was another of Abhinava’s Krama teachers (see above, TĀv ad 4/173ab). 1 have translated ‘bhāskaramukha’ as an adjective, ‘he whose face is like the sun’ referring to the teacher called Bhāskara. It is not impossible that he is the Bhāskara who wrote a commentary on the Śivasūtra. At the beginning of it, he gives a brief account of his lineage, that descends directly from Kallaṭabhaṭta, from whom he is removed by just four generations, and so could have been Abhinava’s teacher (Dyczkowski 1992b: 11). Torella has suggested that it is possible that Vāmanadatta, who is author of the Viṣnustuti, better known as the Saṁvitprakāśa, might be the Vāmanaka mentioned here. It is also possible that he is the same as the author of the Svabodhodayāmañjarī, a possibility to which Torella cautiously subscribes (Torella 1994b: 482, note 4), which I reject (Dyczkowski 1992a: 305). Abhinava quotes Bhatta Rāmakantha 2 directly above (8/428cd-434ab (428-434)); (see Goodall (1995: intro. p. 3) without criticising him; this might be because Rāmakantha was a senior contemporary whom he would not attack directly. Again, Nārāyaṇakantha, Rāmakantha’s father, quotes the Saṁvitprakāśa. Thus, although a direct connection between Abhinava and the author of the Saṁvirprakāśa is unlikely (Hanneder 1998: 146 note 18), it is still possible that he was one of Abhinava’s teachers, if Abhinava was young and he was quite old,
 
 
 *[p. 257]* ^pg275
@@ -1312,7 +1314,7 @@ yāvan manaḥ praṇidadhāti manorathākhyan
 
 tāvaj janaḥ katipayas tam upāsasāda ॥ 64 ॥ 
 
-Now a few people came to study with him as he applied his mind to grace his brother called Manoratha,[^629] who was (also) devoted to Śiva and full of reflection on all the scriptures. (64) 
+Now a few people came to study with him as he applied his mind to grace his brother called Manoratha,[^630] who was (also) devoted to Śiva and full of reflection on all the scriptures. (64) 
 
 #### Viveka on 37.64
 
@@ -1331,7 +1333,7 @@ He (now) refers to these few people.
 
 yo yauvane viditaśārrbhavatattvasāraḥ | 
 
-[^629]: Abhinava says this of him in the PTv: bhrātā mamaiva śivaśāsanarūdhacittaḥ prepsuḥ parātmani manorathaguptanāmā | yah sāstratantram akhilaṁ pravivektukāmaḥ prāptur parar sivapadaṁ bhavabhedanāya ॥ 8 ॥ ‘My brother, named Manorathagupta, whose mind is well established in Śiva’s teachings, much intent on attaining the supreme Self, desires to discern all the śāstras and Tantras to attain Śiva’s supreme plane, and so destroy continued rebirth.” PTv p. 280 (8)
+[^630]: Abhinava says this of him in the PTv: bhrātā mamaiva śivaśāsanarūdhacittaḥ prepsuḥ parātmani manorathaguptanāmā | yah sāstratantram akhilaṁ pravivektukāmaḥ prāptur parar sivapadaṁ bhavabhedanāya ॥ 8 ॥ ‘My brother, named Manorathagupta, whose mind is well established in Śiva’s teachings, much intent on attaining the supreme Self, desires to discern all the śāstras and Tantras to attain Śiva’s supreme plane, and so destroy continued rebirth.” PTv p. 280 (8)
 
 *[p. 258]* ^pg276
 
@@ -1341,15 +1343,15 @@ deha tyajan prathayati sma janasya satyaṁ
 
 yogacyutarhi prati mahāmunikṛṣnavākyam || 65 ॥ 
 
-(Amongst them) was a (young) man called Karna,” the son of the venerable Śauri,” who in his youth had (already) come to know the essence of Śiva’s true nature (śāmbhavatattva). Leaving the body (when he was still young), he demonstrated the truth of the words of Kṛṣna the great ascetic, 
+(Amongst them) was a (young) man called Karna,[^631] the son of the venerable Śauri,[^632] who in his youth had (already) come to know the essence of Śiva’s true nature (śāmbhavatattva). Leaving the body (when he was still young), he demonstrated the truth of the words of Kṛṣna the great ascetic, 
 
-about those fallen from (the practice) of Yoga.” (65) 
+about those fallen from (the practice) of Yoga.[^633] (65) 
 
 #### Viveka on 37.65
 
 ‘The words of Kṛṣṇa’ (are as is said in) the Gta: 
 
-He who has fallen from Yoga is born in the house of a pure and noble family. Or he is reborn in a family of wise yogis endowed with wisdom. Such a birth in this world is indeed (even) more difficult to attain. 
+[^634]He who has fallen from Yoga is born in the house of a pure and noble family. Or he is reborn in a family of wise yogis endowed with wisdom. Such a birth in this world is indeed (even) more difficult to attain. 
 
 There he regains that level of realisation that he possessed in his previous body, and by virtue of this, O Joy of the Kurus, he keeps on practicing in order to attain perfection in Yoga. 
 
@@ -1357,13 +1359,13 @@ He is, even against his will, transported by that former practice, and desiring 
 
 The yogi, continuously practicing with great effort, purified of all sins, perfected through many births, reaches the ultimate goal.” 
 
-630?\. Karṇa was the husband of Ambā, who was Abhinava’s sister. Abhinava refers to him, still alive, in one of the concluding verses (7) of the PTv, where we read: tasyaivātmabhavo vibhāvitajagatsargasthitiḥ śaṁkara-dhyānārcāparicintanaikarasikah karnābhidhāno dvijaḥ | yo bālye 'py atha yauvane 'pi viṣayāsaktiṁ vihāya sthirām enām āśrayate vimarśapadavīṁ saṁsāranirmūlinīm ॥ 7 Il ‘The Brahmin called Karna, son (of Śauri), who has meditated deeply on the creation and present state of the world, and whose sole delight is the thoughts (born of) the meditation and worship of Śiva, who in (his) childhood also, as well as in his youth, abandoned all attachment to the objects of sense, and took refuge in this firm path of reflection (vimarśa) that uproots transmigratory existence.” PTv p. 279-280 (7) We may also note, by the way, that Karna is mentioned along with his close friend Mandra at the beginning of the MVV (1/11), as his true disciple. Together they requested him to write the MVV. Thus, he was certainly alive then also. Mandra, his childhood friend, is not mentioned in the PTv, as he is here (below 37/66). This is surprising, as it was probably written after the MVV.
+[^631]: Karṇa was the husband of Ambā, who was Abhinava’s sister. Abhinava refers to him, still alive, in one of the concluding verses (7) of the PTv, where we read: tasyaivātmabhavo vibhāvitajagatsargasthitiḥ śaṁkara-dhyānārcāparicintanaikarasikah karnābhidhāno dvijaḥ | yo bālye 'py atha yauvane 'pi viṣayāsaktiṁ vihāya sthirām enām āśrayate vimarśapadavīṁ saṁsāranirmūlinīm ॥ 7 Il ‘The Brahmin called Karna, son (of Śauri), who has meditated deeply on the creation and present state of the world, and whose sole delight is the thoughts (born of) the meditation and worship of Śiva, who in (his) childhood also, as well as in his youth, abandoned all attachment to the objects of sense, and took refuge in this firm path of reflection (vimarśa) that uproots transmigratory existence.” PTv p. 279-280 (7) We may also note, by the way, that Karna is mentioned along with his close friend Mandra at the beginning of the MVV (1/11), as his true disciple. Together they requested him to write the MVV. Thus, he was certainly alive then also. Mandra, his childhood friend, is not mentioned in the PTv, as he is here (below 37/66). This is surprising, as it was probably written after the MVV.
 
-631?\. In one of the concluding verses to the PTv (p. 279, (5)) Abhinava refers to Śaura as the son of Vallabha, a Brahmin who was prime minister at the time of king Yaśaskara (reigned 939-348 CE). He praises him as possessing many fine qualities, and as dedicated to meditating on Śiva. Vatsalikā was his wife, see below TĀ 37/75 note 37,97 and 98.
+[^632]: In one of the concluding verses to the PTv (p. 279, (5)) Abhinava refers to Śaura as the son of Vallabha, a Brahmin who was prime minister at the time of king Yaśaskara (reigned 939-348 CE). He praises him as possessing many fine qualities, and as dedicated to meditating on Śiva. Vatsalikā was his wife, see below TĀ 37/75 note 37,97 and 98.
 
-632?\. \[illegible\] The spiritual merits of a person who is engaged in the practice of Yoga but unable to reach the goal in one life are not lost. Rather, they ensure that he is reborn to parents who are both advanced in Yoga and in an environment that encourages and sustains its practice so that he may attain liberation.
+[^633]: \[illegible\] The spiritual merits of a person who is engaged in the practice of Yoga but unable to reach the goal in one life are not lost. Rather, they ensure that he is reborn to parents who are both advanced in Yoga and in an environment that encourages and sustains its practice so that he may attain liberation.
 
-633?\. Arjuna in the Bhagavadgītā is anxious to know what happens to a person who dies without being able to achieve perfection in Yoga. \[illegible\] 6/43cd-47 Jayaratha quotes here is Kṛgna’s reply to his question.
+[^634]: Arjuna in the Bhagavadgītā is anxious to know what happens to a person who dies without being able to achieve perfection in Yoga. \[illegible\] 6/43cd-47 Jayaratha quotes here is Kṛgna’s reply to his question.
 
 
 *[p. 259]* ^pg277
@@ -1417,30 +1419,30 @@ abhyarthanāvimukhabhāvam aśikṣitena
 
 tenāpy anugrahapadaḥ kṛtaḥ . . . ॥ 69abc II 
 
-Now, the venerable Mandra” was his childhood friend and, well known, was the son of a minister. He was beautiful with all the essence of (good) qualities (guna). Both Lakṣmī and Sarasvatī adorned him equally. (Indeed,) the power of charm (and good fortune) surmounts rivalry between wives. (66) 
+Now, the venerable Mandra[^635] was his childhood friend and, well known, was the son of a minister. He was beautiful with all the essence of (good) qualities (guna). Both Lakṣmī and Sarasvatī adorned him equally. (Indeed,) the power of charm (and good fortune) surmounts rivalry between wives. (66) 
 
 ### TĀ 37.67
 
 Others were the sons of his paternal uncle, bright with Śiva’s power. They were Kṣema, Utpala, Abhinava, Cakraka and Padmagupta, 
 
-634?\. See above, note 37,86.
+[^635]: See above, note 37,86.
 
 
 *[p. 260]* ^pg278
 
 who considered worldly success (saṁpat) (to be as worthless as) grass, meditating in (their) heart on their own (true) heart, which was completely 
 
-filled (by their devout) service to Śiva.” (67) 
+filled (by their devout) service to Śiva.[^636] (67) 
 
 ### TĀ 37.68
 
-(Another was) Rāmagupta, who, (devoutly) intent on all the path of service to the teacher, Śiva and the scriptures, came to know all the rites and mandalas ete. (prescribed) in the Trika scriptures.” (68) 
+(Another was) Rāmagupta, who, (devoutly) intent on all the path of service to the teacher, Śiva and the scriptures, came to know all the rites and mandalas ete. (prescribed) in the Trika scriptures.[^637] (68) 
 
 ### TĀ 37.69
 
-(Indeed,) any other person (who came to him) possessing (spiritual) power of his own, helplessly impelled by a descent of Śiva’s power, he made a locus (of Śiva’s) grace,” for he had not been taught to be averse to 
+(Indeed,) any other person (who came to him) possessing (spiritual) power of his own, helplessly impelled by a descent of Śiva’s power, he made a locus (of Śiva’s) grace,[^638] for he had not been taught to be averse to 
 
-refusing a (sincere) request.” (69) 
+refusing a (sincere) request.[^639] (69) 
 
 #### Viveka on 37.69
 
@@ -1460,13 +1462,13 @@ refusing a (sincere) request.” (69)
 स्वातोद्यमेव हि निनर्तिषतोऽवतीर्णम् ।
 सोऽनुग्रहप्रवण एव हि सद्रुरूणा-
 
-635?\. An intentional play on words based on the word ‘heart’, which is both the individual heart of each one as the abode of the individual soul and the universal Heart of consciousness, which is its supreme subjectivity or ‘I-ness’. It is impossible to say whether the person Abhinava refers to here amongst these five brothers, his paternal cousins, as Kṣema, was Kṣemarāja, the only disciple who can be said to have continued his work.
+[^636]: An intentional play on words based on the word ‘heart’, which is both the individual heart of each one as the abode of the individual soul and the universal Heart of consciousness, which is its supreme subjectivity or ‘I-ness’. It is impossible to say whether the person Abhinava refers to here amongst these five brothers, his paternal cousins, as Kṣema, was Kṣemarāja, the only disciple who can be said to have continued his work.
 
-636?\. Rāmagupta must have been Rāmadeva, to whom Abhinava refers at the end of the PTv p. 280 (9), as being of noble birth and as an expert in Sanskrit grammar, ritual and logic, but solely concentrated on Śiva’s scriptures. At the end of his commentary on the Netratantra, Kṣemarāja refers to a certain Śrīrāma as ‘the first of the group of teachers’ (śrīrāmādigurugrāmas-). Could this be the same man?
+[^637]: Rāmagupta must have been Rāmadeva, to whom Abhinava refers at the end of the PTv p. 280 (9), as being of noble birth and as an expert in Sanskrit grammar, ritual and logic, but solely concentrated on Śiva’s scriptures. At the end of his commentary on the Netratantra, Kṣemarāja refers to a certain Śrīrāma as ‘the first of the group of teachers’ (śrīrāmādigurugrāmas-). Could this be the same man?
 
-637?\. Read -padaḥ for -padar.
+[^638]: Read -padaḥ for -padar.
 
-638?\. To sum up, comparing this account with the other found in the concluding verses of the PTv (p. 279-280) (5-10) (A) parallel to TĀ (B). Sanderson (2006, p. 7 note 16) co-ordinates them as follows: (TĀ 37/65-83), concerning his discip les Karna (Vallabha, prime minister \[amātyāgranīḥ\] of Yaśaskara (reigned 939-348 CE) (A 5) > Sauri, who retired to devote himself to religion \[B 75\] > Karna), and his cousin Mandra, described as the wealthy and learned son of an unnamed minister (B 66). Śauri was the brother of Mandra’s father and was married to Vatsalikā (A 6 ab, B 75a) in a house provided by whom Abhinavagupta wrote his Tantrāloka (B 82). Sanderson notes (ibid p. 7) that: ‘the innermost circle of the devotees of Abhinavagupta . . . consisted of members of ministerial families one of a grandson of the same king’s \[i.e. Yaśaskara’s\] prime minister.” This trend continues with Jayaratha, whose patrilineal ancestors included ministers to several kings.
+[^639]: To sum up, comparing this account with the other found in the concluding verses of the PTv (p. 279-280) (5-10) (A) parallel to TĀ (B). Sanderson (2006, p. 7 note 16) co-ordinates them as follows: (TĀ 37/65-83), concerning his discip les Karna (Vallabha, prime minister \[amātyāgranīḥ\] of Yaśaskara (reigned 939-348 CE) (A 5) > Sauri, who retired to devote himself to religion \[B 75\] > Karna), and his cousin Mandra, described as the wealthy and learned son of an unnamed minister (B 66). Śauri was the brother of Mandra’s father and was married to Vatsalikā (A 6 ab, B 75a) in a house provided by whom Abhinavagupta wrote his Tantrāloka (B 82). Sanderson notes (ibid p. 7) that: ‘the innermost circle of the devotees of Abhinavagupta . . . consisted of members of ministerial families one of a grandson of the same king’s \[i.e. Yaśaskara’s\] prime minister.” This trend continues with Jayaratha, whose patrilineal ancestors included ministers to several kings.
 
 
 *[p. 261]* ^pg279
@@ -1490,7 +1492,7 @@ This was the group (of disciples) who requested the teacher (to teach them,) in 
 
 ### TĀ 37.71
 
-He also accepted their request, or else (how could it be otherwise,) the required musical instrument is surely furnished to one who wants to dance.” At the command of his excellent teachers, which is the great sprout that gives birth to (all that is) auspicious, he was (always) inclined to favour (them). (71) 
+He also accepted their request, or else (how could it be otherwise,) the required musical instrument is surely furnished to one who wants to dance.[^640] At the command of his excellent teachers, which is the great sprout that gives birth to (all that is) auspicious, he was (always) inclined to favour (them). (71) 
 
 #### Viveka on 37.71
 
@@ -1513,7 +1515,7 @@ He also accepted their request, or else (how could it be otherwise,) the require
 
 भूषाविधिर्विहितवत्सलिकोचिताख्या ॥ ७३ ॥
 
-639?\. The sense seems to be this — he who intensely desires something, sooner or later finds an occasion to satisfy his desire.
+[^640]: The sense seems to be this — he who intensely desires something, sooner or later finds an occasion to satisfy his desire.
 
 
 *[p. 262]* ^pg280
@@ -1558,11 +1560,11 @@ tatyāja yo bhūpatimantribhāvam ॥ 75 I|
 
 Wishing (to help him) avoid distraction, Mandra invited him to his own excellent city where, like a sacred place, everybody including children 
 
-and cowherds behaved as servants to Maheśvara.” (72) 
+and cowherds behaved as servants to Maheśvara.[^641] (72) 
 
 #### Viveka on 37.72
 
-640?\. The same expression ~ maheśvarasya dāsyaṁi — is found in the first verse of Utpaladeva’s Īśvarapratyabhiji ikā, in which he proclaims that this is his condition (i.e. that of a servant of Maheśvara, Śiva the Great Lord). Note also that in these verses, Abhinava uses the same word for ‘wealth’, ‘good fortune’ ‘success’ — saṁpat. Here it is: katharhicid āsādya maheśvarasya dāsyai janasyāpy upakāram iccan | samstasapatsamavāptihetur tatpratyabhij~ām upapādayāmi | ‘Having in some way attained the status of a servant of Maheśvara (maheśvarasya dāsyaṁ) and wishing to offer assistance also to the whole of mankind, I shall - by giving its logic justification - make possible the awakening of the recognition of the Lord, which brings about the achievement of all success.” \[illegible\] 1/1/1
+[^641]: The same expression ~ maheśvarasya dāsyaṁi — is found in the first verse of Utpaladeva’s Īśvarapratyabhiji ikā, in which he proclaims that this is his condition (i.e. that of a servant of Maheśvara, Śiva the Great Lord). Note also that in these verses, Abhinava uses the same word for ‘wealth’, ‘good fortune’ ‘success’ — saṁpat. Here it is: katharhicid āsādya maheśvarasya dāsyai janasyāpy upakāram iccan | samstasapatsamavāptihetur tatpratyabhij~ām upapādayāmi | ‘Having in some way attained the status of a servant of Maheśvara (maheśvarasya dāsyaṁ) and wishing to offer assistance also to the whole of mankind, I shall - by giving its logic justification - make possible the awakening of the recognition of the Lord, which brings about the achievement of all success.” \[illegible\] 1/1/1
 
 
 *[p. 263]* ^pg281
@@ -1575,15 +1577,15 @@ He (i.e. Mandra) had an aunt who was the wife of a paternal uncle and was approp
 
 ### TĀ 37.74
 
-She was like patience personified, compassion incarnate, a river of auspicious virtue embodied. She was like the complete state of the perfect maturity of the essence of dispassion, the earth wherein grows, like a splendid gem, the essence of truth (tattvārtha).” (74) 
+She was like patience personified, compassion incarnate, a river of auspicious virtue embodied. She was like the complete state of the perfect maturity of the essence of dispassion, the earth wherein grows, like a splendid gem, the essence of truth (tattvārtha).[^642] (74) 
 
 ### TĀ 37.75
 
-Such was the case with her husband” also, whose state of mind (cittavṛtti) was completely purified by devotion to Śiva. This was Śauri” who, having assumed the state of a minister (mantribhāva) of the Lord, renounced the condition of a minister to the king. (75) 
+Such was the case with her husband[^643] also, whose state of mind (cittavṛtti) was completely purified by devotion to Śiva. This was Śauri[^644] who, having assumed the state of a minister (mantribhāva) of the Lord, renounced the condition of a minister to the king. (75) 
 
 #### Viveka on 37.75
 
-‘He’, that is, Mandra (had an aunt who served Abhinavagupta). (Śauri assumed the state of) ʻa minister’ (mantrin) (to the Lord) and (that of an) adept also.” 
+‘He’, that is, Mandra (had an aunt who served Abhinavagupta). (Śauri assumed the state of) ʻa minister’ (mantrin) (to the Lord) and (that of an) adept also.[^645] 
 
 ### TĀ 37.76
 
@@ -1596,13 +1598,13 @@ Ambā: Abhinavagupta’s Sister
 
 नामानुरूपस्फरदर्थतत्त्वम् ॥ ७६ ॥
 
-641?\. \[illegible\] Abhinava praises Vatsalikā at the end of the PTv (p. 279) in the same way, saying that she was: sīlasyāyatanari parasya yaśaso jṛmbhāspadaṁ narmabhūr vātsalyasya samagralokakarunādharmasya janmasthitiḥ | srīmadvatsalikābhidhā sahacārī tasyaiva bṁaktyullasat-prodriktāntaravrtti śSahkaranutau yasyā mano jṛmbhate ॥ 6 ॥ ‘A veritable temple of supreme virtue, the place where (spiritual) fame manifests, garden of tender affection (vātsalya), whose observance (dharma) is compassion for all creatures, and whose condition from birth is denoted (by her name) — the venerable Vatsalikā (Endearing One). (Śauri) was her companion (sahacārin) and her mind, resplendent with inner devotion, bowing (and dedicated) to Śiva, unfolds (perpetually).” (6)
+[^642]: \[illegible\] Abhinava praises Vatsalikā at the end of the PTv (p. 279) in the same way, saying that she was: sīlasyāyatanari parasya yaśaso jṛmbhāspadaṁ narmabhūr vātsalyasya samagralokakarunādharmasya janmasthitiḥ | srīmadvatsalikābhidhā sahacārī tasyaiva bṁaktyullasat-prodriktāntaravrtti śSahkaranutau yasyā mano jṛmbhate ॥ 6 ॥ ‘A veritable temple of supreme virtue, the place where (spiritual) fame manifests, garden of tender affection (vātsalya), whose observance (dharma) is compassion for all creatures, and whose condition from birth is denoted (by her name) — the venerable Vatsalikā (Endearing One). (Śauri) was her companion (sahacārin) and her mind, resplendent with inner devotion, bowing (and dedicated) to Śiva, unfolds (perpetually).” (6)
 
-642?\. Sanderson suggests the reading bhartā (‘husband’) for bhrārā (‘brother’). Taking, no doubt, the expression sahacārin — ‘companion’ Abhinava uses in the verse in PTv quoted in the previous note with reference to Śauri, in its usual sense of ‘husband’. Gnoli, on the contrary, understands sahacārin, which he agrees would normally mean husband, to mean ‘brother’ in this context. Sanderson’s suggestion appears to be much more plausible and so, accordingly, I read bhartāpi —‘wife also’ for bhrātāpi ‘brother also’.
+[^643]: Sanderson suggests the reading bhartā (‘husband’) for bhrārā (‘brother’). Taking, no doubt, the expression sahacārin — ‘companion’ Abhinava uses in the verse in PTv quoted in the previous note with reference to Śauri, in its usual sense of ‘husband’. Gnoli, on the contrary, understands sahacārin, which he agrees would normally mean husband, to mean ‘brother’ in this context. Sanderson’s suggestion appears to be much more plausible and so, accordingly, I read bhartāpi —‘wife also’ for bhrātāpi ‘brother also’.
 
-643?\. \[illegible\] See above, 37/65.
+[^644]: \[illegible\] See above, 37/65.
 
-644?\. The word ‘mantrin’ means both ‘minister’ and ‘one who recites Mantra’, that is, one who invokes Deity by repeating its Mantra. This is essentially the practice of a sādhaka, that is, repeated recitation of Mantra (mantrajapa).
+[^645]: The word ‘mantrin’ means both ‘minister’ and ‘one who recites Mantra’, that is, one who invokes Deity by repeating its Mantra. This is essentially the practice of a sādhaka, that is, repeated recitation of Mantra (mantrajapa).
 
 
 *[p. 264]* ^pg282
@@ -1664,13 +1666,13 @@ tatraiva tṛsnā vavṛdhe nikāmam ॥ 80 ॥
 
 *[p. 265]* ^pg283
 
-(Ambā, Śauris) daughter-in-law, that is, Karṇa’s wife,” had shaken off the condition of worldly life (saṁsāravṛtti). She had only one son, who was given the name Yogeśvara (Lord of Yoga), " who was radiant with the essence of reality, as befitted his name. (76) 
+(Ambā, Śauris) daughter-in-law, that is, Karṇa’s wife,[^646] had shaken off the condition of worldly life (saṁsāravṛtti). She had only one son, who was given the name Yogeśvara (Lord of Yoga),[^647] who was radiant with the essence of reality, as befitted his name. (76) 
 
 ### TĀ 37.77
 
 Saddened by the separation from her husband, who preceded (her in death) when he was (still) young, (Śiva) the Three Eyed One Himself (spontaneously) graced her by virtue of (her) devotion. In those who are zealous for future greatness, a misfortune drags with it a series of good 
 
-fortunes. (77) 
+fortunes.[^648] (77) 
 
 ### TĀ 37.78
 
@@ -1682,11 +1684,11 @@ Her name was Ambā. She viewed the teacher, her own brother, as if he were Śiva
 
 ### TĀ 37.80
 
-Her brother was Abhinava by name, not only because of his own righteous deeds. One who has drunk the aesthetic juice (rasa) of consciousness, his craving there itself (for it) grows exceedingly (nikāmam), by virtue of that." (80) 
+Her brother was Abhinava by name, not only because of his own righteous deeds. One who has drunk the aesthetic juice (rasa) of consciousness, his craving there itself (for it) grows exceedingly (nikāmam), by virtue of that.[^649] (80) 
 
 #### Viveka on 37.80
 
-He explains (how his condition was) ‘ever new’ (abhinavatva), not only (for his) righteous deeds." 
+He explains (how his condition was) ‘ever new’ (abhinavatva), not only (for his) righteous deeds.[^650] 
 
 Living in the House Vatsalikā Gave Him, 
 
@@ -1705,15 +1707,15 @@ Assisted by Lumpaka, He Wrote the Tantrāloka
 स्थितः समाधाय मतिं बहूनि ।
 पूर्वश्रुतान्याकलयन् स्वबुद्ध्या
 
-645?\. Karna was Śauri’s son. Karṇa’s wife was Ambā, Abhinavagupta’s sister. See above, note 37,86.
+[^646]: Karna was Śauri’s son. Karṇa’s wife was Ambā, Abhinavagupta’s sister. See above, note 37,86.
 
-646?\. Read yogeśvara- for yogeśvari-.
+[^647]: Read yogeśvara- for yogeśvari-.
 
-647?\. Read sārthaṁ for satyam. Cf. above 37/36 and note.
+[^648]: Read sārthaṁ for satyam. Cf. above 37/36 and note.
 
-648?\. Abhinava supplies various explanations of his name, he himself has conceived. See above, 1/1 and 4/278cd-279ab (278) and below 37/85. Here he is saying that he is called this because of his pious actions, including the performance of rituals and the like, not just because of his knowledge.
+[^649]: Abhinava supplies various explanations of his name, he himself has conceived. See above, 1/1 and 4/278cd-279ab (278) and below 37/85. Here he is saying that he is called this because of his pious actions, including the performance of rituals and the like, not just because of his knowledge.
 
-649?\. Read na saccaritakṛtam eva for saccaritakṛtam eva.
+[^650]: Read na saccaritakṛtam eva for saccaritakṛtam eva.
 
 
 *[p. 266]* ^pg284
@@ -1768,11 +1770,11 @@ sadyo ‘nugṁnātu ca tattvadṛṣtyā || 84 ||
 
 *[p. 267]* ^pg285
 
-(Thus), he composed this greatly precious (mahārtha)\* work, in which is expounded the essence of the Tantras (tantratattva), in accord with reason (yukti) and the tradition \[illegible\] Easy is the practice of (their) rites once (the people of) this world has acquired (its) light (loka). (83) 
+(Thus), he composed this greatly precious (mahārtha)[^651] work, in which is expounded the essence of the Tantras (tantratattva), in accord with reason (yukti) and the tradition \[illegible\] Easy is the practice of (their) rites once (the people of) this world has acquired (its) light (loka).[^652] (83) 
 
 ### TĀ 37.84
 
-May you (who are) good receive well (anugṛḥ) this, his work, but first of all seek to grasp it (gṛh). This is the rule. And may that also lay hold (gṛh) of your mind and soon grace it (anugṛḥ) by the vision of the reality (it bestows). (84) 
+May you (who are) good receive well (anugṛḥ) this, his work, but first of all seek to grasp it (gṛh). This is the rule. And may that also[^653] lay hold (gṛh) of your mind and soon grace it (anugṛḥ) by the vision of the reality (it bestows). (84) 
 
 #### Viveka on 37.84
 
@@ -1804,14 +1806,14 @@ ty abhinavaparituṣtṭo lokam ātmīkuruṣva || 85 ॥
 
 O Śiva, you who hear (everything) in all respects, listen (graciously) to this essence of the scriptures, composed by Abhinavagupta. This, in truth, is praise (nuti) (dedicated) to You; and, indeed, it is an examination of your nature. (O Lord,) satisfied by (this) praise (abhinava), make the 
 
-(whole) world one with Yourself!” (85) 
+(whole) world one with Yourself![^654] (85) 
 
 #### Viveka on 37.85
 
-650?\. Here is another clear double meaning. The word ‘mahārtha’ literally means ‘greatly precious’. It is also a name of the Krama system. Although it is clear at every step that the Tantrāloka is an Anuttara Trika Śaiva work, here Abhinava covertly implies that it is also a Krama work.
+[^651]: Here is another clear double meaning. The word ‘mahārtha’ literally means ‘greatly precious’. It is also a name of the Krama system. Although it is clear at every step that the Tantrāloka is an Anuttara Trika Śaiva work, here Abhinava covertly implies that it is also a Krama work.
 
-651?\. Abhinava is referring, by this play on words, to the Tantrāloka which, as the essence of the Tantras, explains how their Trika rituals should be performed. Here, the end of his treatise mirrors the beginning, where he refers to it as a ‘liturgical manual’ (paddhati) (above, 1/14).
+[^652]: Abhinava is referring, by this play on words, to the Tantrāloka which, as the essence of the Tantras, explains how their Trika rituals should be performed. Here, the end of his treatise mirrors the beginning, where he refers to it as a ‘liturgical manual’ (paddhati) (above, 1/14).
 
-652?\. \*Read, as Jayaratha does, rad api for tato ‘pi.
+[^653]: \*Read, as Jayaratha does, rad api for tato ‘pi.
 
-653?\. \[illegible\] There is a play on the word ‘abhinava’, the second part of which is derived here from the root nu — to praise — and so is understood to mean ‘praise’ (nuti, stava). Alternative translation could be: “The essence of all scriptural writings has been put together by Abhinavagupta (in this Tantrāloka) so that Śiva may bring peace to all who hear it. Inspired by You, O Lord Siva, this work talks about You; I, Abhinavagupta, pray that you be pleased with this hymn, and request You appear in every particle of this world.’
+[^654]: \[illegible\] There is a play on the word ‘abhinava’, the second part of which is derived here from the root nu — to praise — and so is understood to mean ‘praise’ (nuti, stava). Alternative translation could be: “The essence of all scriptural writings has been put together by Abhinavagupta (in this Tantrāloka) so that Śiva may bring peace to all who hear it. Inspired by You, O Lord Siva, this work talks about You; I, Abhinavagupta, pray that you be pleased with this hymn, and request You appear in every particle of this world.’

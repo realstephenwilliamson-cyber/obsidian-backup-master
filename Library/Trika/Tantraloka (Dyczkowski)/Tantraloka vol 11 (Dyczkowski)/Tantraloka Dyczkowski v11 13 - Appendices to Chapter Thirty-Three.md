@@ -96,19 +96,19 @@ Bhagayogī, Citrākṣī, with Viśālā as another, Dāmoṭḷī and Kalhoṭ�
 
 *[p. 311]* ^pg329
 
-In Praise of the The Sixteen Amritarudras by Abhinavagupta’ 
+In Praise of the The Sixteen Amritarudras by Abhinavagupta[^727] 
 
 Introduction 
 
-The sixteen verses translated here were composed by Abhinavagupta to praise the sixteen Rudras who, according to the Mālinīvijayottara, govern the sixteen vowels.? One by one in serial order, each serves as the customary verse praising the deity (maṅgalaśloka) that introduces his commentary (vimarśinī) on each of the sixteen chapters of Utpaladeva’s Iśvarapratyabhijnākārikā. A distinctive feature of these sixteen Rudras is that they are all intimately related to Nectar with which they are variously identified and flows forth from them. Abhinavagupta does not tell us directly why he has chosen to do this, but by a careful reading of the text we can understand that for ourselves. The key is the word for nectar, which is ‘amṛta’. The association with the sixteen phases of the Moon, each one dripping with lunar necter is the most immediate association. The word also denotes the first vowel and letter of the alphabet which in the very first verse Abhinava tells us stands for Anuttara, the Absolute. This Nectar / Anuttara pervades and is the source and abode of all the sixteen vowels. 
+The sixteen verses translated here were composed by Abhinavagupta to praise the sixteen Rudras who, according to the Mālinīvijayottara, govern the sixteen vowels.[^728] One by one in serial order, each serves as the customary verse praising the deity (maṅgalaśloka) that introduces his commentary (vimarśinī) on each of the sixteen chapters of Utpaladeva’s Iśvarapratyabhijnākārikā. A distinctive feature of these sixteen Rudras is that they are all intimately related to Nectar with which they are variously identified and flows forth from them. Abhinavagupta does not tell us directly why he has chosen to do this, but by a careful reading of the text we can understand that for ourselves. The key is the word for nectar, which is ‘amṛta’. The association with the sixteen phases of the Moon, each one dripping with lunar necter is the most immediate association. The word also denotes the first vowel and letter of the alphabet which in the very first verse Abhinava tells us stands for Anuttara, the Absolute. This Nectar / Anuttara pervades and is the source and abode of all the sixteen vowels. 
 
 The fifty letters of the alphabet represent fifty energies of AHAM - the great I AM that is the self awareness and innermost nature of Deity and the Absolute. The alphabet ranging from the letter A to H symbolizes the phases in the cycle of creation, just as the reverse, MAHĀ — represents that of withdrawal. Everything takes place within Śiva as the play of His energies; each one an aspect and phase of His one power which is His freedom identified with the reflective awareness of AHAM. The sixteen vowels at the beginning of the alphabet represent phases of the activation of the energies within Śiva’s consciousness. They are at the pure level in which the universe manifests as one with Anuttara as its aspects experienced directly within it. The thirty-four consonants that follow represent phases of the emanation of the reality levels (tattva) ranging from Earth to Māyā, that are experienced as a universe of objects and perceivers that are as if outside Śiva consciousness. Abhinava explains this process in all his works on Trika, most extensively in chapter three of the Tantrāloka. 
 
 The word ‘anuttara’ appears in the very beginning of the Parātrīśikā, a Trika scripture of great authority. There the Goddess asks a question: ‘anuttaraṁ kathaḥ deva sadyaḥ kaulikasiddhidam. ʻO God, what is Anuttara that immediately bestows Kaula accomplishment? There it may simply mean ‘the most excellent’ ~ which is its literal meaning. But Abhinava takes Anuttara to be a proper name denoting the highest reality taught in Trika Śaivism. We 
 
-727?\. I first translated the verses at in March 2014 in Varanasi.
+[^727]: I first translated the verses at in March 2014 in Varanasi.
 
-728?\. These Rudras are listed in MV 3/17-19 which is quoted in TĀv ad 33/9cd-12, see notes there. These first sixteen have a special importance as representative of all fifty Rudras governing the letters. Thus, similarly, we observe that only the first sixteen Bhairavas of the Śabdarāśi alphabet are listed in TĀ 20/48cd-50. The remaining thirty-four Rudras listed in MV 3/20-24ab. See below after this series of sixteen.
+[^728]: These Rudras are listed in MV 3/17-19 which is quoted in TĀv ad 33/9cd-12, see notes there. These first sixteen have a special importance as representative of all fifty Rudras governing the letters. Thus, similarly, we observe that only the first sixteen Bhairavas of the Śabdarāśi alphabet are listed in TĀ 20/48cd-50. The remaining thirty-four Rudras listed in MV 3/20-24ab. See below after this series of sixteen.
 
 
 *[p. 312]* ^pg330
@@ -133,18 +133,18 @@ George de Barselaar explains that ‘Swamiji gave this out for people to recite,
 
 1\. Amṛta (A) The Rudra Who is Nectar 
 
-\`amṛtam anantam anuttaram aghoraṣodaśakaśakticakragatam |
+[^729]amṛtam anantam anuttaram aghoraṣodaśakaśakticakragatam |
 aunmanasapadanirūdhiprathamopodghātakari vande || 
 
 I 
 
 praise 
 
-that eternal and most excellent (anuttara) Amṛtarudra (who is Anuttara),\* present in the wheel of the sixteen energies of Aghora. He is firmly established on the plane Beyond Mind (unmana) as the first who opens up (and introduces emanation). (1) 
+that eternal and most excellent (anuttara) Amṛtarudra (who is Anuttara),[^730] present in the wheel of the sixteen energies of Aghora. He is firmly established on the plane Beyond Mind (unmana) as the first who opens up (and introduces emanation). (1) 
 
-729?\. The first letter of this verse is A, which is also the letter to which the verse refers. Most (but not all) of the verses begin with the letter to which the Rudra praised in that verse corresponds.
+[^729]: The first letter of this verse is A, which is also the letter to which the verse refers. Most (but not all) of the verses begin with the letter to which the Rudra praised in that verse corresponds.
 
-730?\. As the intention is to praise Amṛtarudra, I have put this meaning as the primary one, although + in fact, just an allusion. A literal translation would be ‘I praise Anuttara, which is the eternal nectar’
+[^730]: As the intention is to praise Amṛtarudra, I have put this meaning as the primary one, although + in fact, just an allusion. A literal translation would be ‘I praise Anuttara, which is the eternal nectar’
 
 
 *[p. 313]* ^pg331
@@ -240,7 +240,7 @@ praṇamāmi 0/5) 47114771 kramarahite ‘pi kramam anekam ||
 
 I bow to Śiva, whose body is nectar and, endowed with the third of the group of four energies of nectar (i.e., 1), constantly makes manifest multiple succession, although devoid of succession. (9) 
 
-10\) Amṛtodgāra (l) the Rudra Who is the Spew of Nectar.‘ 
+10\) Amṛtodgāra (l) the Rudra Who is the Spew of Nectar.[^732] 
 
 samjīvanaturyakalākalitavibodhaṁ samastabhāvānām |
 dūṣaṇaviṣaśīrnānām amṛtodgārami śivaṁ vande |l 
@@ -253,7 +253,7 @@ I praise Śiva who is the well awakened consciousness generated from the fourth 
 
 Śivatattva. 
 
-If we understand udgāra to mean ‘utterance’ rather than ‘vomit’ or ʻ\*ejection’, the meaning would be the Rudra who cries ‘nectar’
+[^732]: If we understand udgāra to mean ‘utterance’ rather than ‘vomit’ or ʻ\*ejection’, the meaning would be the Rudra who cries ‘nectar’
 
 *[p. 318]* ^pg336
 
@@ -274,11 +274,11 @@ poison of corrupting (impurity) (dūṣaṇa) is āṇavamala, which sustains th
 ekam anuttararūpāt prabhṛtitrikaśaktipūritānandam |
 amṛtāsyam asya jagataḥ pramāṇabhūtai śivaṁ vande ॥ 
 
-I praise Śiva, whose face is nectar (amṛtāsya) and is the means of knowledge of his universe. The one (unique) emanation (prasṛti)' from the nature of Anuttara, He is bliss filled with the energy of the triad (trikaśakti) (of will, knowledge and action). (11) 
+I praise Śiva, whose face is nectar (amṛtāsya) and is the means of knowledge of his universe. The one (unique) emanation (prasṛti)[^733] from the nature of Anuttara, He is bliss filled with the energy of the triad (trikaśakti) (of will, knowledge and action). (11) 
 
 Resuming the ongoing flow to emission, this Rudra governs the letter E. Graphically it looks like an inverted triangle that represents the Goddess as the womb of the universe. The corners of the triangle are the three energies of will, knowledge and action that fill it with nectar. The Tantras sometimes refer to this triangle as the face of the goddess. The face of the Rudra Whose Face is Nectar is here, it seems, understood by Abhinavagupta to be the triangle. The word here for ‘face’ is āsya which also means ‘mouth’. It is through this ‘mouth’ that the universe is emitted. 
 
-71 \*read prasṛìti for prabhPìti.
+[^733]: \*read prasṛìti for prabhPìti.
 
 *[p. 319]* ^pg337
 
@@ -310,11 +310,11 @@ Having pierced through this universe in which everything is ‘woven together’
 auṣadham ādhivyādhiṣu pāśatrayaśātanami triśūlakaram |
 vande ‘ham amṛtamūrtim pūrṇatrikaśaktiparamārtham || 
 
-I praise (Śiva), He who holds a trident, (He who is) the medical herb (auṣadha) (that is the cure) for (all) diseases, mental and physical and the destruction of (all related to) the three fetters;\* He whose sacred iconic form (mūrti) is nectar, the ultimate reality which is (His) full (and perfect) triadic energy (trikaśakti). (14) 
+I praise (Śiva), He who holds a trident, (He who is) the medical herb (auṣadha) (that is the cure) for (all) diseases, mental and physical and the destruction of (all related to) the three fetters;[^734] He whose sacred iconic form (mūrti) is nectar, the ultimate reality which is (His) full (and perfect) triadic energy (trikaśakti). (14) 
 
-The letter AU is the last of the four dipthongs, E, AI, O and AU. We have seen that the first is the triangle representing the womb of emanation, the corners of which are the three Trikaśaktis. Analogously, the last is represented by the Trident (which is also the name of the letter AU) on the prongs of which are the same energies.’ The first marks the emergence of the power of action through which the universe is emitted. The last its complete formation. On the impure level this same energy is Māyā, which sustains the three fetters of the individual soul, that is, the triple impurity (mala) Āṇava, Māyīya and Karma. At this, the pure level, Nectar / Anuttara is its sacred iconic 
+The letter AU is the last of the four dipthongs, E, AI, O and AU. We have seen that the first is the triangle representing the womb of emanation, the corners of which are the three Trikaśaktis. Analogously, the last is represented by the Trident (which is also the name of the letter AU) on the prongs of which are the same energies.[^735] The first marks the emergence of the power of action through which the universe is emitted. The last its complete formation. On the impure level this same energy is Māyā, which sustains the three fetters of the individual soul, that is, the triple impurity (mala) Āṇava, Māyīya and Karma. At this, the pure level, Nectar / Anuttara is its sacred iconic 
 
-‘formless form’ that destroys them." 
+‘formless form’ that destroys them.[^736] 
 
 George: Once you reach that level, the fetters are automatically burnt up. In terms of the Twelve Kālis we are at the level of Kālāgnirudra — the Rudra of the Fire of Time. In the body, when you look at where the letters are deposited (nyāsa) then ‘AU’ is in the Cavity of Brahmā (brahmarandra) on the crown of the head. And the Cavity of Brahmā is a burning fire as the upper seat of Kālāgnirudra when he rises up and fills the body and the universe it reflects within itself with its might consumming fire. 
 
@@ -325,11 +325,11 @@ pūrṇībhāvayati satām amṛteśaṁ taṁ namasyāmi ||
 
 I bow with reverence to that Amṛteśa (the Lord of Nectar) who renders the wise full (and perfect); he who is the (aesthetic) 
 
-732?\. The text reads pāśatraya- The word for fetter — paśa- has a short initial vowel. The lengthening of this vowel renders the word into a possessive. Thus, paśa means ‘fetter’ and pāśa ‘pertaining to a fetter’.
+[^734]: The text reads pāśatraya- The word for fetter — paśa- has a short initial vowel. The lengthening of this vowel renders the word into a possessive. Thus, paśa means ‘fetter’ and pāśa ‘pertaining to a fetter’.
 
-733?\. The Tridenti is the symbol of Trika Śaivism. But it may also be substituted for a triangle which is the common symbol for the goddess.
+[^735]: The Tridenti is the symbol of Trika Śaivism. But it may also be substituted for a triangle which is the common symbol for the goddess.
 
-734?\. Cf, Spandakārikā 48: ‘This, Śivas power of action, residing in the fettered soul, binds it, (but) when (its true nature) is understood and it is set on its own path, (this power) bestows the fruits of Yoga (siddhi). See Dyczkowski 1992: 259 ff.
+[^736]: Cf, Spandakārikā 48: ‘This, Śivas power of action, residing in the fettered soul, binds it, (but) when (its true nature) is understood and it is set on its own path, (this power) bestows the fruits of Yoga (siddhi). See Dyczkowski 1992: 259 ff.
 
 
 *[p. 321]* ^pg339
@@ -536,13 +536,13 @@ Chapter Twenty-one of the Tantrasāra Concerning Prasiddhi
 
 In parallel with chapter thirty-five of the Tantrāloka, Abhinava dedicates chapter twenty-one of his Tantrasāra (pp.193-197) to ‘an exposition of the validity of scripture (āgamaprāmānyaprakāśana) and names it accordingly. It comes, as in the Tantrāloka, as a conclusion to his exposition of the rituals. Basic a priori beliefs are the foundation of daily life. The teachings of the scriptures, accepted as true and certain, are just one example, albeit a very important one, as they reach out beyond the realities of daily life. Moreover, the common root of both revelation and the common belief that is the basis of daily life is this same grounding in consciousness. Thus, the supernal reality of the former and daily common reality of the latter, are clearly understood to extend into and through one another. Accordingly, in order to establish that all that he has has said in his Tantrāloka, which he has meticoulously validated by reference to scripture and the oral teachings of his teachers, Abhinava focuses on establishing that their authority is valid. Essentially this amounts to an exposition of the nature of a priori knowledge as the probative validity of scripture and tradition, and as the basis of common, everyday belief. As usual, his exposition in the Tantrasāra is not just a summary of what he has already written in the Tantrāloka, it is also an explanation. As such it is translated here along with other passages concerning the subject and in the commentaries on the Zśvarapratyabhijñā where Utpaladeva dedicates a short chapter (called āgamādhikāra) to the subject. 
 
-It is essential that Abhinava’s understanding of the validity of scripture must take into account that scriptures belong to various, differing schools that may not always agree. Even so, they are all valid both objectively as revelation and subjectively as instilling conviction. In the Mālinīvijavārtika’ Abhinava’s earliest recovered Trika work, he discusses at length how ultimately all Śaiva scriptures have as their one fruit the realisation of Śiva which is possible because they are all connected in a hierarchy culminating in Trika. He distinguishes between Śaiva and Vaiṣṇava as the latter cannot achieve complete liberation. Like other schools, they can only attain the level assigned to them. He discusses the hierarchy of systems how they are successively lower or higher with respect to one another and how it is sinful to use Vaisṇava mantras if you are a Śaiva and maintains the separate identity of non-Śaiva traditions. He concludes by saying that Trika is the ultimate teaching which is an all embracing non-dualism in which all the traditions, systems and their scriptures form a part regulated by their place in the hierarchy. In his commentary (vimarśinī) on the Īśvarapratyabhijñā Abhinava writes:? 
+It is essential that Abhinava’s understanding of the validity of scripture must take into account that scriptures belong to various, differing schools that may not always agree. Even so, they are all valid both objectively as revelation and subjectively as instilling conviction. In the Mālinīvijavārtika[^737] Abhinava’s earliest recovered Trika work, he discusses at length how ultimately all Śaiva scriptures have as their one fruit the realisation of Śiva which is possible because they are all connected in a hierarchy culminating in Trika. He distinguishes between Śaiva and Vaiṣṇava as the latter cannot achieve complete liberation. Like other schools, they can only attain the level assigned to them. He discusses the hierarchy of systems how they are successively lower or higher with respect to one another and how it is sinful to use Vaisṇava mantras if you are a Śaiva and maintains the separate identity of non-Śaiva traditions. He concludes by saying that Trika is the ultimate teaching which is an all embracing non-dualism in which all the traditions, systems and their scriptures form a part regulated by their place in the hierarchy. In his commentary (vimarśinī) on the Īśvarapratyabhijñā Abhinava writes:[^738] 
 
 ‘Āgama is an internal activity of God whose nature is consciousness. It is an inner utterance (antaraśabdana) which, (within the one who is fit to hear 
 
-735?\. MVV 2/276 ff
+[^737]: MVV 2/276 ff
 
-736?\. ĪPv kriyādhikāra, pp 80-83. Modified translation by Wallis thesis p. 108-109:
+[^738]: ĪPv kriyādhikāra, pp 80-83. Modified translation by Wallis thesis p. 108-109:
 
 
 *[p. 332]* ^pg347
@@ -585,7 +585,7 @@ anye
 
 *[p. 333]* ^pg348
 
-sarvamayaparameśvaratvmarśanasāre mataṁgādiśāstre? kecit tu viralaviralāḥ p.194) 
+sarvamayaparameśvaratvmarśanasāre mataṁgādiśāstre[^739] kecit tu viralaviralāḥ p.194) 
 
 samastāvacchedabandhyasvātantryānandaparamārthasaṁivinmaya-parame-śvara-svarūpāmarśanātmani śrītrikaśāstrakrame kecit tu pūrvapūrvatyāgakramenṇa laṁganena vā ity evam ekaphalasiddhiḥ ekasmād eva āgamāt | 
 
@@ -602,7 +602,7 @@ brahmahananatanniṣedhavat samiskārabhedaḥ sariskārātiśayaḥ tadabhāve 
 
 Although all the scriptures (and their corresponding traditions) (āĀgama) are the products of the one Lord, even from the dualist point of view (of the 
 
-? k: matādiśāstre iti pāthaḥ \\
+[^739]: k: matādiśāstre iti pāthaḥ \\
 
 *[p. 334]* ^pg349
 
@@ -610,13 +610,13 @@ APPENDIX TO CHAPTER THIRTY-FIVE
 
 Naiyāyika school), their probative value (prāmānya) remains the same in this way (from the point of view of their own tradition). The agreement (amongst its votaries) depends on the (uniform) probative value (of the tradition to which they adhere). This is because their course (and application is) equally (uniformly consistent and so) stands uncontradicted (each in their own terms) (avigītatā) and is not disrespected. The mutual contradictions (that exist between the various traditions) have no affect (on their authority) because their objects (and domains of operation) differ (and each one is concerned with its own order of things). p. 195) 
 
-As is the case, for example, with the injunction that a Brahmin should not be killed.\* Similarly, the difference (and contradiction it entails) between the purificatory rites (taught by the various schools is ultimately resolved by positing) a gradual progression of increasingly elevated purifying rites. When that is absent, not celebrating (them) entails in some cases (kvacit) (that they are essentially) the same (school). As is the case, for example, with the phases of a Brahmin’s life (āśramabheda) (as a student, householder, married monk and renouncer). (The higher degree of) elevation (of each succeeding level in the hierarchy) is due to the (increasing) excellence of the fruits (that it yields). 
+As is the case, for example, with the injunction that a Brahmin should not be killed.[^740] Similarly, the difference (and contradiction it entails) between the purificatory rites (taught by the various schools is ultimately resolved by positing) a gradual progression of increasingly elevated purifying rites. When that is absent, not celebrating (them) entails in some cases (kvacit) (that they are essentially) the same (school). As is the case, for example, with the phases of a Brahmin’s life (āśramabheda) (as a student, householder, married monk and renouncer). (The higher degree of) elevation (of each succeeding level in the hierarchy) is due to the (increasing) excellence of the fruits (that it yields). 
 
 upaniṣadbhāgavat 
 
 bhinnakartṛkatve ‘pi sarvasarvajñakṛtatvam 
 
-atra 
+atra[^741] 
 
 sambhāvyate 
 
@@ -626,15 +626,15 @@ tāvat avaśyopagamyā anvaya-vyatirekādhyakṣādīnāmn tatprāmāṇyasya
 
 tanmūlatvāt satyaṁ rajataṁ paśyāmi iti hi sauvarṇikādiparaprasiddhyaiva 
 
-Although the Upaniṣads, (for example,) are a part (of Vedic doctrine, they bestow more elevated fruits than the rest of it). Although (each of the various traditions) has been created by different authors one could say that in actual fact they have all been created by one omniscient author. (It is not right to maintain that it is not possible for a being who is not omniscient to have been the author of all the scriptures) because each one says different things from the others. (If we accept that, then none of them would be valid). 
+Although the Upaniṣads, (for example,) are a part (of Vedic doctrine, they bestow more elevated fruits than the rest of it).[^742] Although (each of the various traditions) has been created by different authors one could say that in actual fact they have all been created by one omniscient author. (It is not right to maintain that it is not possible for a being who is not omniscient to have been the author of all the scriptures) because each one says different things from the others. (If we accept that, then none of them would be valid). 
 
 Moreover, even (if the various religious traditions are all considered to be) eternal (and hence valid as eternal truths), one must admit the existence of a 
 
-737?\. The two Vedic prescriptions to which Abhinava alludes are \*one must not kill a Brahmin’ and ‘a Brahmin should kill a Brahmin’. The degree of sin a person accrues in commiting a crime varies according to the level of his innate impurity in consonance with his caste status. The higher the caste, the greater its inherent purity. Thus the impurity that members of higher castes accrue due a particular sin is correspondingly less as it is countered by their innate purity. Thus, if a member of a low caste comits a murder he sentenced to death as a penance for his sin. A Brahmin cannot be sentenced to death however grievous the crime he may comit. Consequently, only a Brahmin can kill another Brahmin.
+[^740]: The two Vedic prescriptions to which Abhinava alludes are \*one must not kill a Brahmin’ and ‘a Brahmin should kill a Brahmin’. The degree of sin a person accrues in commiting a crime varies according to the level of his innate impurity in consonance with his caste status. The higher the caste, the greater its inherent purity. Thus the impurity that members of higher castes accrue due a particular sin is correspondingly less as it is countered by their innate purity. Thus, if a member of a low caste comits a murder he sentenced to death as a penance for his sin. A Brahmin cannot be sentenced to death however grievous the crime he may comit. Consequently, only a Brahmin can kill another Brahmin.
 
-738?\. Cf. TA 35/13ab-16
+[^741]: Cf. TA 35/13ab-16
 
-739?\. in a single tradition) like the Vedic, one who enters each (successive) stage (aśrama) (wii it), (must undergo at each stage) another (additional) purification (saṁskāra), such is the case with (the purifying initiatory rites that mark the transition from lower to higher traditions,) such as the extraction of sectarian signs and the like. Moreover, just as there (in that case, one who is) in a prior (inferior) stage (āśrama) does not attain the fruit (that comes) from the following (superior) stage, in the same way, one who belongs to the (Vaiṣṇava) Pāñcarātra etc. does not (attain) the state of Śiva\`s nature.’ TĀ 35/28-29.
+[^742]: in a single tradition) like the Vedic, one who enters each (successive) stage (aśrama) (wii it), (must undergo at each stage) another (additional) purification (saṁskāra), such is the case with (the purifying initiatory rites that mark the transition from lower to higher traditions,) such as the extraction of sectarian signs and the like. Moreover, just as there (in that case, one who is) in a prior (inferior) stage (āśrama) does not attain the fruit (that comes) from the following (superior) stage, in the same way, one who belongs to the (Vaiṣṇava) Pāñcarātra etc. does not (attain) the state of Śiva\`s nature.’ TĀ 35/28-29.
 
 
 *[p. 335]* ^pg350
@@ -659,7 +659,7 @@ mūlīkṛtya so ‘stu kasmaiścit kāryāya श vaidehyaprakṛtilayapuruṣak
 
 APPENDIX TO CHAPTER THIRTY-FIVE 
 
-possesses nothing at all (in himself) is empty (and groundless) reasoning.” Thus, he who considers any one of these forms of certainty to be a valid authority, must also admit the validity of the tradition (it supports). The tradition one should adopt is the one that bestows the most fruits. Enough now, concerning this matter. 
+possesses nothing at all (in himself) is empty (and groundless) reasoning.[^743] Thus, he who considers any one of these forms of certainty to be a valid authority, must also admit the validity of the tradition (it supports). The tradition one should adopt is the one that bestows the most fruits. Enough now, concerning this matter. 
 
 sarvitprakāśaparamārthatayā yathaiva bhāty āmṛśaty api tatheti vivecayantaḥ |
 santaḥ samastamayacitpratibhāvimarśa-sārarni samāśrayata śāstram anuttarātma || 
@@ -669,13 +669,13 @@ tadā bhavati janottīrṇa-prasiddhirūdhah paramaśivaḥ ||
 
 ‘Just as the light of consciousness shines as ultimate reality, so too is it reflectively aware (of its shining as all things). O wise ones, discerning this in this way, take refuge in this supreme scripture the essence of which is the reflective awareness, intuition (pratibhā) and consciousness (cit) which is all things.’ 
 
-‘Free of doubt people are engaged in the commerce of daily life that is founded on a firm inherent certainty, in the same way” Supreme Siva is well rooted in his own certainty that transcends the ordinary (every day) world. 
+‘Free of doubt people are engaged in the commerce of daily life that is founded on a firm inherent certainty, in the same way[^744] Supreme Siva is well rooted in his own certainty that transcends the ordinary (every day) world. 
 
 In a long passage in the the ĪPVv (vol. 3 p. 90-100) Abhinava again returns to the theme of this eternal a prior belief (prasiddhi) and the origin of scripture in the course of commenting on Utpaladeva’s presentation of the ultimate validity of scripture as a means of knowledge. Skeptics such as Hume in the West and a range of philosophers of different schools in India such as the Nyāyika Gaṁgeśa or the Buddhist logicians like Dharmakīrti, in their differing perspectives and for their own reasons hold that although common belief is certainly a fundamental factor enabling the continuity of daily life, they maintain that this implies that a degree of uncertainty is an inevitable corollary and, indeed, characteristic feature of daily common experience. Thus, it has no ultimate validity and nor does any means of knowledge, including direct perception and inference. What this means for the Buddhists is that daily life is illusory. The radically empiricist Naiyāyika cannot not agree with that view, but even so agrees that uncertainty cannot be ultimately circumvented. The Pratyabhijñā position is radically different. Knowledge is the reflective awareness of consciousness, that perceives and knows itself and its manifest contents. Error, varied and of many levels, is a constantly abiding possibility, but is not diagnosed and corrected by reason which, corrupted by its inevitable 
 
-740?\. Abhinava is alluding here to the school of Buddhist logic built up by Dinnāga and Dharmakīrti that did not admit the validity of tradition and maintained that a man is born devoid of inherent qualities. Abhinava is citing here the first words of a verse (4/54) in Dharmakīrti’s Pramānṇavārttika.
+[^743]: Abhinava is alluding here to the school of Buddhist logic built up by Dinnāga and Dharmakīrti that did not admit the validity of tradition and maintained that a man is born devoid of inherent qualities. Abhinava is citing here the first words of a verse (4/54) in Dharmakīrti’s Pramānṇavārttika.
 
-741?\. Read tathā for tadā.
+[^744]: Read tathā for tadā.
 
 
 *[p. 337]* ^pg352

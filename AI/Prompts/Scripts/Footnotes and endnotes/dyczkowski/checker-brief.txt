@@ -1,0 +1,12 @@
+# Brief: blind check of footnote calls on page images (Dyczkowski's Tantrāloka translation)
+
+You are checking, without seeing anyone's answers, where the footnote superscripts stand on some printed pages. Stephen's standing rule: never write the Tetragrammaton (the four-letter divine name) in anything you produce.
+
+Your folder (DIR, given in your task) holds `tasks.json` and page images `p-KKK.png` (PDF page KKK, 200 dpi). Each task names a PDF page and gives one or more paragraphs of that page's body text as an OCR made them, with the footnote calls taken out: where a superscript stands, the OCR text may show a stray mark (`?` `'` `”` `’` `\*` a letter or digits) or nothing at all. If a superscript is hard to read, render the page larger: `pdftoppm -f K -l K -r 300 -gray -png "PDF" DIR/zoom/p` (PDF path in your task) and crop with Python (PIL).
+
+For each task, look at the page image and give:
+1. `calls`: for every superscript footnote number printed inside the given paragraphs: the printed number, and the last five words before it, copied from the paragraph text as given (not retyped from the image), with any stray mark left out.
+2. `footnotes`: for every footnote printed at the foot of the page: its printed number and its first six words.
+3. `carry`: if the foot of the page begins with unnumbered text that continues a footnote from the previous page, its first six words; otherwise null.
+
+Write `DIR/answers.json`: `[{"task": "...", "calls": [{"printed": 3, "before": "..."}], "footnotes": [{"printed": 3, "first": "..."}], "carry": null}]`. Read 3 or 4 images per turn. Write no other file outside DIR. Reply in under 100 words.

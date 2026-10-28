@@ -112,7 +112,7 @@ Rabbi Tanḥum said, “Similarly in the time to come: With compassion He struck
 
     On Adam and Eve as “mighty men” without peer, cf. Naḥmanides on [[Torah 01 - Bereshit#^6-4|Genesis 6:4]].
 
-    Cf. *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-37a|1:37a]]; [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a|2:179a]] (*SdTs*).
+    Cf. *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-37a|1:37a]]; [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a-c|2:179a]] (*SdTs*).
 
 [^8]: **the verse stipulates that he had died** See [[Torah 01 - Bereshit#^5-5|Genesis 5:5]] preceding the Torah’s discussion of the Nephilim: *All the days that Adam lived came to 930 years; then he died*.
 
@@ -190,7 +190,7 @@ Rabbi Tanḥum said, “Similarly in the time to come: With compassion He struck
 
 [^22]: **בשגם (*be-shaggam*)… has the numerical value of משה (*Moshe*), Moses…** Both equal 345.
 
-    On *be-shaggam* as signifying Moses (who lived a hundred and twenty years, see [[Torah 54 - V'Zot HaBerachah#^34-7|Deuteronomy 34:7]]), see *Bereshit Rabbah* 26:6: BT *Ḥullin* [[Chullin 139#139b|139b]]; *Pirqei de-Rabbi Eli’ezer* 32; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-37b|1:37b–38a]]; [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a|2:179a]] (*SdTs*), [[Zohar 6.06 - Parashat Pequdei#^z2-238a|238a]].
+    On *be-shaggam* as signifying Moses (who lived a hundred and twenty years, see [[Torah 54 - V'Zot HaBerachah#^34-7|Deuteronomy 34:7]]), see *Bereshit Rabbah* 26:6: BT *Ḥullin* [[Chullin 139#139b|139b]]; *Pirqei de-Rabbi Eli’ezer* 32; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-37b|1:37b–38a]]; [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a-c|2:179a]] (*SdTs*), [[Zohar 6.06 - Parashat Pequdei#^z2-238a|238a]].
 
 [^23]: **Every וינחם (*va-yinnaḥem*) in the Torah is an expression of comfort…** In its biblical context, the word *va-yinnaḥem* can be rendered variously as “changed His mind, retracted, renounced, relented, repented, regretted, was sorry.” Here, Rabbi Abbahu in the name of Rabbi Yoḥanan explains that *va-yinnaḥem* does not in fact mean that God was sorry or regretful, but rather that he was comforted or consoled—another meaning of the root נחם (*nḥm*).
 

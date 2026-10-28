@@ -24,7 +24,7 @@ The four grades, beginning with the regular (initiate) and the rest, (may be bes
 
 #### Viveka on 13.295–300
 
-(The regular initiate attains Śiva’s state) ‘gradually’, that is, after (his) initiation as a spiritual son. Thus, the descent of the power (of grace) here (in this case) is weak. (The spiritual son may identify with Siva) ‘quickly’, that is, after the death of the body (or else) ‘immediately’ that is, whilst still alive. This is the meaning. The intervening worldly benefits (the adept (sādhaka) enjoys by virtue of his practice of Mantra) may be slow or quick (in working themselves out). Thus, it is said that (the adept may also achieve union) ‘slowly or quickly’. The teacher (guru) ‘possesses (all) types of worldly benefits and liberation’, that is to say, with respect to (his) disciple. It is said that, as for him, he possesses all that needs to be achieved completely. (Grace is various) due to gradation of these two also. (This) gradation is indicated by the word ‘types’. (The four grades of initiation may be bestowed) \[illegible\] together or separately’ and also ‘sequentially or otherwise’. In that case, if it is sequentially, then the first is (the initiation into the status of) a regular (initiate), then spiritual son, then teacher. This is (what is meant by) ‘all together’. (If the levels of access are given) otherwise, then someone (may begin directly) as a spiritual son, even if he is not initially a regular initiate also. Someone may be a (made a) teacher (directly,) without being a regular initiate or a spiritual son prior to that. This is the situation (when initiation is given) ‘separately’. 
+(The regular initiate attains Śiva’s state) ‘gradually’, that is, after (his) initiation as a spiritual son. Thus, the descent of the power (of grace) here (in this case) is weak. (The spiritual son may identify with Siva) ‘quickly’, that is, after the death of the body (or else) ‘immediately’ that is, whilst still alive. This is the meaning. The intervening worldly benefits (the adept (sādhaka) enjoys by virtue of his practice of Mantra) may be slow or quick (in working themselves out). Thus, it is said that (the adept may also achieve union) ‘slowly or quickly’. The teacher (guru) ‘possesses (all) types of worldly benefits and liberation’, that is to say, with respect to (his) disciple. It is said that, as for him, he possesses all that needs to be achieved completely. (Grace is various) due to gradation of these two also. (This) gradation is indicated by the word ‘types’. (The four grades of initiation may be bestowed) ‘all together or separately’ and also ‘sequentially or otherwise’. In that case, if it is sequentially, then the first is (the initiation into the status of) a regular (initiate), then spiritual son, then teacher. This is (what is meant by) ‘all together’. (If the levels of access are given) otherwise, then someone (may begin directly) as a spiritual son, even if he is not initially a regular initiate also. Someone may be a (made a) teacher (directly,) without being a regular initiate or a spiritual son prior to that. This is the situation (when initiation is given) ‘separately’. 
 
 The variety of (the forms of) the descent of the power (of grace) is not only due to its taking place sequentially or otherwise, it may also (be various) because (it happens) in (some other) way. Thus, he says: 
 
@@ -57,7 +57,7 @@ The Trika system (trikārtha}[^603] alone is supreme because it is the most exce
 
 [^600]: Here Mata is probably the Yāmalas. Specifically, these are the Brahmayāmala, Devyāyāmala and Jayadrathayāmala, each of which is a Śākta school - Mata - in itself. Cf. 15/319-320 and note.
 [^601]: It is possible that we should read kaule ṣadardhe hṛdaye together as meaning ‘Kaula Trika, which is the Heart (of Śaivism)’. The verse Jayaratha quotes can also be read that way. The variant of this verse, quoted above in TĀv ad 1/18 and ad 4/47cd-48, has Kula > Mata > Trika (see below, note 13,332). Here Jayaratha lists Trika directly after Kula. We notice that ‘Kaula’ is absent; or should we take Trika to be Kaula? If so, we may understand that ‘Kaula’, as the form of the word suggests, is derived from Kula. Kaula is the product of Kula in the sense, no doubt, of a higher refinement of it. Certainly, Abhinava proudly sustains the excellence of a Kaula Trika. In Chapter Four we noted with Sanderson that Kula meant the form of Kaulism that prohibited outer ritual and enjoined Kaula practice. Kaula, instead, teaches that nothing is either enjoined or prohibited (see note 4,831). In Abhinava’s most authoritative sources, the Siddhayogeśvarīmata and the Mālinīvijottara, Kula / Kaula elements are relatively subdued. Even so, Abhinava insists in many ways on placing them in the forefront and, indeed, at the summit, of the form of Trika Saivism he supports. To this end, he refers matically to the Trika Tantras that lly Kaula. Amongst them is the Niśācāra, quoted in the commentary on the next verse. So, reading kaule trike together as Kaula Trika is not without good reason.
-[^602]: Another place where a hierarchy of initiations is presented is below, in the context of the description of the Trident Throne (in 15/319-320). There, after the Vāma and Dakṣiṇa Bhairava Tantras, come the Mata and Yāmala Tantras, culminating in Trika. Elsewhere, we find that after the Dakṣṣiṇa Tantras come Kula Kaula or Mata Tantras. Sanderson understands Matayāmala to be Picumatayāmala, i.e. the Brahmayāmala. If that is so, where are the Kula / Kaula Tantras that in the MVV are in the current above the upper (ārdhordhva), flowing forth from the goddess? According to the MVV, drawing from the Bhargasikhā, this current flows between those of the Tantras of the Right and the Left, to culminate in Trika. Thus, Abhinava presents Trika as the ultimate development of Kaulism. Trika is even higher than Kaula / Mata, but even so, it is Trikakula beyond which there is no higher form of Trika, and so, also for this reason, Abhinava calls it the Anuttaratrikakula (see 1/14 and note) - where \[illegible\] also means ‘unexcelled’.
+[^602]: Another place where a hierarchy of initiations is presented is below, in the context of the description of the Trident Throne (in 15/319-320). There, after the Vāma and Dakṣiṇa Bhairava Tantras, come the Mata and Yāmala Tantras, culminating in Trika. Elsewhere, we find that after the Dakṣṣiṇa Tantras come Kula Kaula or Mata Tantras. Sanderson understands Matayāmala to be Picumatayāmala, i.e. the Brahmayāmala. If that is so, where are the Kula / Kaula Tantras that in the MVV are in the current above the upper (ārdhordhva), flowing forth from the goddess? According to the MVV, drawing from the Bhargasikhā, this current flows between those of the Tantras of the Right and the Left, to culminate in Trika. Thus, Abhinava presents Trika as the ultimate development of Kaulism. Trika is even higher than Kaula / Mata, but even so, it is Trikakula beyond which there is no higher form of Trika, and so, also for this reason, Abhinava calls it the Anuttaratrikakula (see 1/14 and note) - where ‘anuttara’ also means ‘unexcelled’.
 [^603]: \[illegible\] See Dyczkowski 1992a: 360, note 10 concerning the use of the word ‘artha’ as denoting a school or system with special reference to Trikārtha, Mahārtha and Spandārtha.
 [^604]: Abhinavagupta praises the Heart as the supreme principle in his introductory verse of auspicious invocation at the beginning of all his works on Trika. We have established that the form of Trika he teaches is Anuttara Trika. Following the lead of Somānanda, he affirms that it is this that is taught in the Parātrīśika. A focal point of that work is the symbolism of the Heart which, at one level, is the seed-syllable SAUH of the goddess Parā, but in a deeper sense, is the reality which is Anuttaratrika as the supreme subjectivity (ahaṁbhāva). It is therefore possible, despite what Jayaratha says here, that the Heart denotes the next and highest level of Trika, which is the one Abhinava teaches here. As this form of Trika is the result of Abhinava’s insight, it is not, as one would expect, mentioned in the scriptures, as we observe in the reference Jayaratha supplies. Although an argument based on silence is not the best, nonetheless it is not entirely irrelevant as a support for this view. Jayaratha would certainly have quoted such a reference if he knew of one.
 
@@ -319,7 +319,7 @@ The Teacher Should Withdraw his Knowledge from an Unworthy Disciple
 
 yadā tu vaicitryavaśā yāt tasya tādṛśam | 
 
-viparītapravṛttatvaṁ \[illegible\] tasmād upāharet | 312
+viparītapravṛttatvaṁ jñānaṁ tasmād upāharet | 312
 || 
 
 tar ca tyajet pāpavṛttiṁ bhavet tu jñānatatparaḥ | 
@@ -398,7 +398,7 @@ Thus, the scripture also (declares) the same. Accordingly, he says:
 स्वच्छन्दशास्रे प्रोक्तं च वैष्णवादिषु ये रताः ।। ३१६ ॥।
 भ्रमयत्येव तान्माया ह्यमोक्षे मोक्षक्िप्सया ।
 
-svacchandaśāstre \[illegible\] ca vaiṣṇavādiṣu ye ratāḥ || 316 ॥
+svacchandaśāstre proktaṁ ca vaiṣṇavādiṣu ye ratāḥ || 316 ॥
 bhramayaty eva tān māyā hy amokṣe mokṣalipsayā | 
 
 It is also said in the Svacchandasāstra that those who are devoted to the followers of Viṣṇu etc. ‘are made to wander about, (confused) by Māyā in what is not liberation, because of (their) desire for liberation. ° (316cd-317ab) 
@@ -442,7 +442,7 @@ Surely (one may ask), even though this 1 so, what is the cause of (his) falling 
 svadṛṣṭau paradṛṣtau ca samayollaṅghanād asau ॥ 318 ॥
 pratyavāyaṁ yato ‘bhyeti caret tan \[illegible\] kramam | 
 
-(By doing so,) he transgresses the rules in his own teaching \[illegible\] and in that of the others (he has accepted); (thus adulterated,) the rite (krama) becomes an obstacle (pratyavāya) (for his further development), and so he should not practice like this (or adhere to such a tradition). (318cd-319ab) 
+(By doing so,) he transgresses the rules in his own teaching (dṛṣṭi) and in that of the others (he has accepted); (thus adulterated,) the rite (krama) becomes an obstacle (pratyavāya) (for his further development), and so he should not practice like this (or adhere to such a tradition). (318cd-319ab) 
 
 #### Viveka on 13.318–319
 
@@ -632,7 +632,7 @@ the most elevated.” (327)
 
 The knowledge that ‘consists of cogitation (cintā)’ is divided into two types, according to whether it is (superficial and) slow (manda), or (deep and) well-practiced. Thus, he says that it is of ‘two varieties’. That is said (in the Mālinīvijayottara): 
 
-‘It is said that that knowledge is of three kinds. The first one is considered to be (the one received) through hearing (that is, study) \[illegible\] Now, another consists of cogitation \[illegible\] and (one) consists of imaginative contemplation (bhāvanā). The one (called) ‘hearing’ (i.e. study) is considered to be the full knowledge of a subject (artha) (taught in) scripture, which is dispersed (in various places in it). Having seen all of a teaching (artha) in the scriptures, its systematic arrangement (brought about by reflecting that) “this is (said) here; (whereas) this is said here, and this is (rightly) applied here,” is the knowledge consisting of cogitation. It is taught that it is of two kinds, according to whether it is (superficial and) slow (manda) or (deep and) well practiced. There, (of these two), the well-practiced is the best. Then, when it is well developed, the one consisting of contemplation arises within it. It is due to that that once the yogi has attained yoga, he gets the fruit of yoga. In this way, the man of knowledge (jñānin) is said to be of four kinds (according to which of these kinds of knowledge he \[illegible\] \` %7 
+‘It is said that that knowledge is of three kinds. The first one is considered to be (the one received) through hearing (that is, study) (śrauta). Now, another consists of cogitation (cintā), and (one) consists of imaginative contemplation (bhāvanā). The one (called) ‘hearing’ (i.e. study) is considered to be the full knowledge of a subject (artha) (taught in) scripture, which is dispersed (in various places in it). Having seen all of a teaching (artha) in the scriptures, its systematic arrangement (brought about by reflecting that) “this is (said) here; (whereas) this is said here, and this is (rightly) applied here,” is the knowledge consisting of cogitation. It is taught that it is of two kinds, according to whether it is (superficial and) slow (manda) or (deep and) well practiced. There, (of these two), the well-practiced is the best. Then, when it is well developed, the one consisting of contemplation arises within it. It is due to that that once the yogi has attained yoga, he gets the fruit of yoga. In this way, the man of knowledge (jñānin) is said to be of four kinds (according to which of these kinds of knowledge he \[illegible\] \` %7 
 
 635?\. See above, 4/103 for the definition of \*cintā’.
 
@@ -846,7 +846,7 @@ Surely (one may ask), a student desires knowledge. If that is acquired in some w
 शक्तिहीनं गुं प्राप्य मोक्षज्ञाने कथं श्रयेत् ।
 नष्टमूले द्रुमे देवि कुतः पुष्पफलादिकम् ॥ ३३६ ॥
 
-saktihīnaṁ \[illegible\] prāpya mokṣajñāne kathaṁ śrayet |
+saktihīnaṁ guruṁ prāpya mokṣajñāne kathaṁ śrayet |
 naṣtamūle drume devi kutaḥ puṣpaphalādikam ॥ 336 ॥ 
 
 [^651]: Quoted again below in 22/45-46ab, where we are told that it is taken from the Mataśāstra.
@@ -1244,7 +1244,7 @@ Right (current in relation to that). (Those who have fallen) ‘anywhere’ mean
 
 न शासने समाम्नातं लिद्खोद्धारादि किञ्चन ॥ ३५९ ॥
 ata eva hi sarvajñair brahmaviṣnvādibhir nije |
-na \[illegible\] samāmnātari liṅgoddhārādi kiñcana ॥ 359 ॥ 
+na śāsane samāmnātari liṅgoddhārādi kiñcana ॥ 359 ॥ 
 
 This is the reason why Brahmā, Viṣṇu and other omniscient (sarvajña) (gods) have not prescribed in their teaching any (rites to) extract the sectarian marks (of other schools) or the like. (359) 
 

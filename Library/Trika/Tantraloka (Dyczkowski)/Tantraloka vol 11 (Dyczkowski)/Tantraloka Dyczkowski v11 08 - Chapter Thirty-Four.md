@@ -44,7 +44,7 @@ tatrāntarantarāviśya viśrāmyet savidhe pade || 1 ||
 tato ‘py āṇavasaṁtyāgāc chāktī bhūmim upāśrayet |
 tato ‘pi śāmbhavīm evar tāratamyakramāt sphutṭam ॥ 2 ॥ 
 
-Having penetrated more and more deeply into the Individual (means to realization), which is of many kinds, in order to attain Śiva’s nature \[illegible\] (the adept) should come to rest on that plane (which is proximate to it and) of a similar nature (savidha). Then, by abandoning the Individual (level), he should take the support of the Empowered plane. Then, after that also, (he attains) the Śāmbhava one. In this same way, by 
+Having penetrated more and more deeply into the Individual (means to realization), which is of many kinds, in order to attain Śiva’s nature (śivatā), (the adept) should come to rest on that plane (which is proximate to it and) of a similar nature (savidha). Then, by abandoning the Individual (level), he should take the support of the Empowered plane. Then, after that also, (he attains) the Śāmbhava one. In this same way, by 
 
 *[p. 186]* ^pg204
 

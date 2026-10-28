@@ -37,7 +37,7 @@ The order here, that is, Kalā, Vidyā, Rāga, Kāla and Niyati, is also found i
 
 is Supreme Śiva himself who is free (mukta). 
 
-He possesses the agency (that does) all things, (as well as) omniscience, plenitude, eternal permanence, and is (all-)pervasive. Although (his) powers are (always) uncontracted, by (freely) assuming contraction, (they operate) as limited agency (ka/ā) and capacity to know \[illegible\] attachment (rāga), time, and necessity (niyati). Here (in this condition), limited agency is the cause of this individual soul’s limited capacity to act. (His) capacity to know is the cause of his limited capacity to know. Attachment is attachment to (particular) objects of sense. Time is the sequence that divides up (and conditions) phenomena whose nature is to manifest (at some particular time) and not manifest (at another,) as gross elements etc. Necessity is the cause of the constraint that ‘I must do this’ (or) ‘I must not do this’. As this group of five obscures his own nature, it is (said to be) an obscuring covering \[illegible\] 
+He possesses the agency (that does) all things, (as well as) omniscience, plenitude, eternal permanence, and is (all-)pervasive. Although (his) powers are (always) uncontracted, by (freely) assuming contraction, (they operate) as limited agency (ka/ā) and capacity to know (vidyā), attachment (rāga), time, and necessity (niyati). Here (in this condition), limited agency is the cause of this individual soul’s limited capacity to act. (His) capacity to know is the cause of his limited capacity to know. Attachment is attachment to (particular) objects of sense. Time is the sequence that divides up (and conditions) phenomena whose nature is to manifest (at some particular time) and not manifest (at another,) as gross elements etc. Necessity is the cause of the constraint that ‘I must do this’ (or) ‘I must not do this’. As this group of five obscures his own nature, it is (said to be) an obscuring covering \[illegible\] 
 
 In the Pratyabhijñāhṛdaya, the kañcukas are said to originate from the five pure Tattvas mediated by Māyā. The universal qualities of citsakti 
 
@@ -52,7 +52,7 @@ APPENDIX B CHAPTER NINE
 
 (omnipresence), ānandaśsakti (eternity), \[illegible\] (omnipotence), jñānasakti (omniscience) and kríyāśakti (universal action), become the five obscuring coverings (kañcuka). There we read: 
 
-‘Although (Śiva’s) powers are those of consciousness, bliss, will, knowledge and action, (and continue to be so) due to (the individual soul’s) ignorance, (they assume) the form of the group of five (coverings), because he is enveloped by the obscuring coverings of limited agency (ka/ā, limited capacity to know ( \[illegible\] attachment, time and necessity. + 
+‘Although (Śiva’s) powers are those of consciousness, bliss, will, knowledge and action, (and continue to be so) due to (the individual soul’s) ignorance, (they assume) the form of the group of five (coverings), because he is enveloped by the obscuring coverings of limited agency (ka/ā, limited capacity to know ( (vidyā), attachment, time and necessity. + 
 
 After Kṣemarāja has explained how consciousness and the powers of the individual soul to perceive and act are restricted by the contraction brought about by the threefold Impurity of Āṇava, Māyīya and Kārma, he goes on to say that: 
 
@@ -71,7 +71,7 @@ Another context in which the sequential order of the kañcukas varies is in thei
 
 *[p. 505]* ^pg524
 
-Kṣemarāja presents a condensed, simplified version of the same in his commentary on the \[illegible\] The correspondences are consistent and uniform in these accounts except with respect to the semivowels Y R L and V. In the Parātrīśikā, they are said to be dhāraṇas — ‘sustainers’ — because, as the kañcukas and the gross elements with which they are also identified, they sustain, that is, maintain the existence of the individual soul in its embodied condition. In the Tantrāloka, these four correspond to the five Kañcukas + Māyā that they replace.” According to Abhinava they are Kalā, Vidyā, Māyā and Rāga. 
+Kṣemarāja presents a condensed, simplified version of the same in his commentary on the Śivasūtra. The correspondences are consistent and uniform in these accounts except with respect to the semivowels Y R L and V. In the Parātrīśikā, they are said to be dhāraṇas — ‘sustainers’ — because, as the kañcukas and the gross elements with which they are also identified, they sustain, that is, maintain the existence of the individual soul in its embodied condition. In the Tantrāloka, these four correspond to the five Kañcukas + Māyā that they replace.” According to Abhinava they are Kalā, Vidyā, Māyā and Rāga. 
 
 Commenting on ŚSū 2/7 mātṛkīsambodhaḥ — ‘the awakening of the letters’, Kṣemarāja describes the progressive unfolding of the letters from consciousness in relation to the Tattvas, as outlined by Abhinava. When he reaches the semivowels that correspond to the Kañcukas, he says: 
 

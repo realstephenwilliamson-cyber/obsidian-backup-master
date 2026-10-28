@@ -128,7 +128,7 @@ page_range: 553–558
 
 ***Shema***   Literally, “hear”; central prayer recited morning and evening, comprising [[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4–9]]; [[Torah 46 - Eikev#^11-13|11:13–21]]; and [[Torah 37 - Sh'lach#^15-37|Numbers 15:37–41]]. The opening verse is: *Hear O Israel! YHVH our God, YHVH is one!*
 
-***Shir ha-Shirim***   The book of Song of Songs. [p. 556] ***Sifra di-Tsni’uta***   “Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah in short, obscure sentences, divided into five chapters. Its subject is the mysteries of divine being. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b|2:176b]]–179a.
+***Shir ha-Shirim***   The book of Song of Songs. [p. 556] ***Sifra di-Tsni’uta***   “Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah in short, obscure sentences, divided into five chapters. Its subject is the mysteries of divine being. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b-c|2:176b]]–179a.
 
 ***Sitrei Otiyyot***   “Secrets of the Letters”; a discourse by Rabbi Shim’on focusing on the letters of the divine name *YHVH* and how they symbolize the process of emanation. *Zohar Ḥadash* [[Zohar 12.08 - Sitrei Otiyyot|1b–7b]].
 

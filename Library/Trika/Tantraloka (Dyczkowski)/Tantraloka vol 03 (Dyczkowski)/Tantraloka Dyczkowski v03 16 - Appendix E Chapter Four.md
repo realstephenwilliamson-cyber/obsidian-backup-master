@@ -76,7 +76,7 @@ Withdrawal of Emanation
 kaulārṇavānandaghanormirūpām unmeṣameṣobhayabhājam antaḥ |
 nilīyate nīlakulālaye (>līnakulālaye) yā tām sṛṣṭikālīṁ satata namāmi || 
 
-I constantly worship Sṛṣtikālī, Who is the wave \[illegible\] of dense (uninterrupted) bliss of the Ocean of Energy (kaulārṇava), and contains inwardly (within Herself) both the unfolding (of the universe when She opens Her eyes) (unmeṣa) and (its) withdrawal (when She closes them) (meṣa) - She Who merges (and, at rest, dissolves away) into the Abode of Energy that has 
+I constantly worship Sṛṣtikālī, Who is the wave (ūrmi) of dense (uninterrupted) bliss of the Ocean of Energy (kaulārṇava), and contains inwardly (within Herself) both the unfolding (of the universe when She opens Her eyes) (unmeṣa) and (its) withdrawal (when She closes them) (meṣa) - She Who merges (and, at rest, dissolves away) into the Abode of Energy that has 
 
 merged (into Śiva).[^1143] 
 

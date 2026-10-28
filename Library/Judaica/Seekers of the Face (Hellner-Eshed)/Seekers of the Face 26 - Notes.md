@@ -686,7 +686,7 @@ exegesis on the Ten Martyrs and the death of the kings from the original writing
 
 *[p. 406]* ^pg418
 
-15\. Liebes, *Torat ha-Yeẓirah*, 137: “These ‘kings,’ thoughts that never became actions, were indeed nullified, but they did not disappear entirely from the world. After the Creator was ‘configured’ \[or ‘adorned,’ *nitqan*\], he himself configures and heals them, finding a place for them within established existence. Into those scales \[ . . . \] come the kings who died to be weighed, all of those ideas that arose in \[the Creator’s\] mind and never became actions \[lit., weighed upon it were those who did not exist\], some of which will ultimately become actions and be integrated into the created world, and some of which will remain as empty thoughts: ‘Upon it rose and upon it rise those who were not, and who were, and who will be’” (citing Sifra di-Tsniʿuta, [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b|Zohar 2:176b]]; trans. Matt 5:535).
+15\. Liebes, *Torat ha-Yeẓirah*, 137: “These ‘kings,’ thoughts that never became actions, were indeed nullified, but they did not disappear entirely from the world. After the Creator was ‘configured’ \[or ‘adorned,’ *nitqan*\], he himself configures and heals them, finding a place for them within established existence. Into those scales \[ . . . \] come the kings who died to be weighed, all of those ideas that arose in \[the Creator’s\] mind and never became actions \[lit., weighed upon it were those who did not exist\], some of which will ultimately become actions and be integrated into the created world, and some of which will remain as empty thoughts: ‘Upon it rose and upon it rise those who were not, and who were, and who will be’” (citing Sifra di-Tsniʿuta, [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b-c|Zohar 2:176b]]; trans. Matt 5:535).
 
 16\. It should be noted that Liebes showed that the interpretations that develop the myth of the kings in the Idra *Rabba* are entirely unattested in the works of Moses de León. Nor do they stem from the works of other kabbalists in the Zohar circle, in particular David ben Judah he-Ḥasid’s *Sefer ha-Gevul*, a Hebrew reworking of the Idra. Given this finding, he concluded that the interpretations concerning the kings of Edom were interpolated into the Idra only in the final stages of its redaction. See Liebes, *Studies in the Zohar*, 127–129; and Yehuda Liebes, “Shenat Petirato Shel R. Mosheh De Liʾon,” in *Sefer ha-Zikaron le-Me*ʾ*ir Benayahu* \[Meir Benayahu—Memorial volume\], ed. Moshe Bar-Asher et al., 745–750 (Jerusalem: Carmel Press, 2019).
 
@@ -774,7 +774,7 @@ Chapter 12: Arraying *Arikh Anpin’s* Beard
 
 *[p. 409]* ^pg421
 
-mentioned or revealed—is most sublime and precious of all, precisely because it is concealed and hidden. Since the beard is the praise and precious perfection of the face, Scripture treasured it away, and it remains unrevealed” ([[Zohar 8.09 - Idra Rabba#^z3-139a|Zohar 3:139a]]; trans. Matt 8:408). Also, an awareness of this absence is already evident in Sifra di-Tsniʿuta: “The beard of faith is not mentioned for it is Glory of all” ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a|Zohar 2:177a]]; trans. Matt 5:537).
+mentioned or revealed—is most sublime and precious of all, precisely because it is concealed and hidden. Since the beard is the praise and precious perfection of the face, Scripture treasured it away, and it remains unrevealed” ([[Zohar 8.09 - Idra Rabba#^z3-139a|Zohar 3:139a]]; trans. Matt 8:408). Also, an awareness of this absence is already evident in Sifra di-Tsniʿuta: “The beard of faith is not mentioned for it is Glory of all” ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a-c|Zohar 2:177a]]; trans. Matt 5:537).
 
 7\. See Liebes, *Studies in the Zohar*, 62–63 and related notes.
 
@@ -784,11 +784,11 @@ mentioned or revealed—is most sublime and precious of all, precisely because i
 
 10\. See Targum Pseudo-Jonathan, Rashi, and Ibn Ezra on [[Torah 05 - Chayei Sara#^24-2|Genesis 24:2]], and [[Torah 12 - Vayechi#^47-29|Genesis 47:29]] with its commentators. See also the section “The Adjuration and the Curse” and note 43, in Chapter 8.
 
-11\. There is indeed a similar formulation in Sifra di-Tsniʿuta ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a|Zohar 2:177a]]).
+11\. There is indeed a similar formulation in Sifra di-Tsniʿuta ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a-c|Zohar 2:177a]]).
 
 12\. See PT Avodah Zarah 18b; Bereshit Rabbah 62:2; and BT [[Taanit 25#25a|Taʿanit 25a]].
 
-13\. The formulation “some are manifested on the seventh in the world,” brought in our Idra Rabba text as a citation from Sifra di-Tsniʿuta, refers to the seventh month, Tishrei. This is made explicit in Sifra di-Tsniʿuta following the thirteen *tiqqunim*: “When Tishrei, the seventh month, arrives, these thirteen appear in the supernal world and thirteen gates of Compassion open” ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a|Zohar 2:177a]]; trans. Matt 5:537, emended).
+13\. The formulation “some are manifested on the seventh in the world,” brought in our Idra Rabba text as a citation from Sifra di-Tsniʿuta, refers to the seventh month, Tishrei. This is made explicit in Sifra di-Tsniʿuta following the thirteen *tiqqunim*: “When Tishrei, the seventh month, arrives, these thirteen appear in the supernal world and thirteen gates of Compassion open” ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a-c|Zohar 2:177a]]; trans. Matt 5:537, emended).
 
 14\. In the discussion of the third *tiqqun* of *Ze*ʿ*eir Anpin*’s beard, I also briefly discuss the third *tiqqun* of ʿ*Attiqa*’s beard. See the section “Judgment in Duality, Blushing Red: A Path, Lips, and Rounded Cheeks in the Third and Fifth *Tiqqunim*,” in Chapter 16.
 
@@ -860,7 +860,7 @@ Misti” \[Consumed by love: The death of Nadav and Avihu as a ritual of erotic 
 
 44\. [[Zohar 8.09 - Idra Rabba#^z3-132b|Zohar 3:132b]].
 
-45\. [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a|Zohar 2:177a]].
+45\. [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a-c|Zohar 2:177a]].
 
 46\. [[Zohar 8.09 - Idra Rabba#^z3-140b|Zohar 3:140b]]; trans. Matt 8:421.
 
@@ -1020,7 +1020,7 @@ manides\], *Commentary on the Torah*, ed Charles Ber Chavel (New York: Shilo, 19
 
 *[p. 416]* ^pg428
 
-8\. In Sifra di-Tsniʿuta, precisely how the nine *tiqqunim* are derived from the psalm is not explicitly stated ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177b|Zohar 2:177b]]). Here, the Idra Rabba presents an extensive solution to this riddle.
+8\. In Sifra di-Tsniʿuta, precisely how the nine *tiqqunim* are derived from the psalm is not explicitly stated ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177b-c|Zohar 2:177b]]). Here, the Idra Rabba presents an extensive solution to this riddle.
 
 9\. In the Idra Zuṭa, an additional scriptural interpretation concerning *Ze*ʿ*eir Anpin*’s nine *tiqqunim* provides more clarification for their number ([[Zohar 9.15 - Idra Zuta#^z3-295b|Zohar 3:295b]]). According to this interpretation, the nine *tiqqunim* are also those which Moses recites to God in the passage in which he beseeches God not to destroy his people in the desert after the sin of the spies ([[Torah 37 - Sh'lach#^14-18|Numbers 14:18]]). The Idra Zuṭa’s interpretation emphasizes *Ze*ʿ*eir Anpin*’s dependence on ʿ*Attiqa*’s beard; he can manifest as a mighty warrior only when ʿ*Attiqa*’s beard shines within him. Yehuda Liebes discusses this interpretation at length, raising various interpretive possibilities concerning the “contraction” of thirteen attributes into nine. See Yehuda Liebes, “Koʾaḥ ha-Milah ke-Yesod Mashmaʿutah be-Sifrut ha-Qabalah” \[The power of a word as the basis for its meaning in Kabbalah\], in *Devar Devor* ʿ*Al* ʾ*Ofanav:* *Meḥqarim be-Parshanut ha-Miqra*ʾ *ve-ha-Qur*ʾ*an be-Yemei ha-benayyim Mugashim le-Ḥagai Ben-Sham*ʾ*ai* \[A word fitly spoken: Studies in medieval exegesis of the Hebrew Bible and the Qurʾān: Presented to Haggai Ben-Shammai\], ed. Meir M. Bar-Asher et al., (Jerusalem: Ben-Zvi Institute, 2007), 163–177.
 
@@ -1038,7 +1038,7 @@ manides\], *Commentary on the Torah*, ed Charles Ber Chavel (New York: Shilo, 19
 
 16\. Yehuda Liebes suggests that Beauty, *Tif*ʾ*eret*, is a mingling of two powers: “This is *Tif*ʾ*eret*, Beauty—power *of* might and compassion.”
 
-17\. [[Zohar 8.09 - Idra Rabba#^z3-141a|Zohar 3:141a]]. Here, the Idra Rabba ([[Zohar 8.09 - Idra Rabba#^z3-141a|Zohar 3:141a]]; trans. Matt 8:425) cites Sifra di-- Tsniʿuta ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a|Zohar 2:177a]]): “A path emerging below two holes of an armoire to eliminate sin, as is written: *His splendor is forgiving transgression* ([[Proverbs 19#^19-11|Proverbs 19:11]]).”
+17\. [[Zohar 8.09 - Idra Rabba#^z3-141a|Zohar 3:141a]]. Here, the Idra Rabba ([[Zohar 8.09 - Idra Rabba#^z3-141a|Zohar 3:141a]]; trans. Matt 8:425) cites Sifra di-- Tsniʿuta ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a-c|Zohar 2:177a]]): “A path emerging below two holes of an armoire to eliminate sin, as is written: *His splendor is forgiving transgression* ([[Proverbs 19#^19-11|Proverbs 19:11]]).”
 
 Chapter 17: The Ancient of Ancients and *Zeʿeir Anpin*: All Is One
 
@@ -1118,7 +1118,7 @@ Qavvim le-Geniʾologiah Shel ha-Shekhinah ve-ha-ʾEm” \[And now we have no mot
 
 *[p. 420]* ^pg432
 
-19\. For example, consider Sifra di-Tsniʿuta’s identification of the Lamp of Adamantine Darkness with the letter *vav*, which is the standard signifier for *Tif*ʾ*eret* in the Zohar ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a|2:177a]]). It also should be noted that the Lamp of Adamantine Darkness possesses a distinctly feminine aspect. See the section “The Formation of *Ze*ʿ*eir Anpin*’s Skull,” in Chapter 14.
+19\. For example, consider Sifra di-Tsniʿuta’s identification of the Lamp of Adamantine Darkness with the letter *vav*, which is the standard signifier for *Tif*ʾ*eret* in the Zohar ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a-c|2:177a]]). It also should be noted that the Lamp of Adamantine Darkness possesses a distinctly feminine aspect. See the section “The Formation of *Ze*ʿ*eir Anpin*’s Skull,” in Chapter 14.
 
 20\. See BT [[Shabbat 118#118b|Shabbat 118b]] for language identifying “woman” with “house.”
 
@@ -1150,7 +1150,7 @@ Chapter 20: Separation and Coupling
 
 1\. See the RaBad’s comments and Idel’s discussion in Idel, *Kabbalah and Eros*, 62–69.
 
-2\. The formulation in Sifra di-Tsniʿuta is as follows: “The male extended and was arrayed with His enhancements, with the phallus, with the mouth of the phallus. Kings who were nullified were here established. Judgments of the male are harsh at the beginning, at the end calm. Of the female, the reverse” ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178a|Zohar 2:178a]]; trans. Matt 5:540).
+2\. The formulation in Sifra di-Tsniʿuta is as follows: “The male extended and was arrayed with His enhancements, with the phallus, with the mouth of the phallus. Kings who were nullified were here established. Judgments of the male are harsh at the beginning, at the end calm. Of the female, the reverse” ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178a-c|Zohar 2:178a]]; trans. Matt 5:540).
 
 3\. This account contradicts the imagery discussed previously, in which Judgment is concentrated in the Female alone, and the Male remains filled with white Love. However, the imagery of the Male’s Judgment as “harsh at the beginning” is reconcilable with the earlier account if we view the divine Male as expanding from *Ze*ʿ*eir Anpin*’s head, which comprises both Compassion and Judgment.
 
@@ -1198,7 +1198,7 @@ root *m-t-q* (sweet). On scents and fragrances as arousing, see [[Zohar 9.09 - Y
 
 11\. Elsewhere in the Zohar, there is a parallel statement that is important in this context, providing an account of the formation of Adam ([[Zohar 5.05 - Parashat Terumah#^z2-167b|Zohar 2:167b–168a]]). The passage implies that the Serpent’s force is present in Eve’s first two births, but its power diminishes with each subsequent birth. It is only with the birth of Seth that a human likeness is achieved that balances Judgment, a likeness that corresponds with Adam’s image.
 
-12\. According to Sifra di-Tsniʿuta, the Serpent created a space within the Female when he copulated with her, “a nest of slime,” in which all the unsweetened disembodied forces may dwell. Cain (*Qayin*) is the physical representation of that nest (*qinna*) of pollution ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178a|Zohar 2:178a]]).
+12\. According to Sifra di-Tsniʿuta, the Serpent created a space within the Female when he copulated with her, “a nest of slime,” in which all the unsweetened disembodied forces may dwell. Cain (*Qayin*) is the physical representation of that nest (*qinna*) of pollution ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178a-c|Zohar 2:178a]]).
 
 13\. On the myth of Cain and Abel in the Idra, see Gershom Scholem, *Qabalot R.* *Ya*ʿ*aqov v’R. Yiẓḥaq Benei Ya*ʿ*aqov Ha-Kohen* \[The Qabala of Rabbis Jacob and Isaac, sons of Jacob the Cohen\] (Jerusalem: Hamadpis, 1923), 75; Liebes, “Peraqim be-Milon Sefer ha-Zohar,” 180; and Neta Sobol, “Sipur Qayin ve-Hevel ke-Pereq Siyum le-Mitos Mot 
 
@@ -1208,7 +1208,7 @@ ha-Melkhim ba-ʾIdraʾ Raba” \[The story of Cain and Abel as a closing chapter
 
 14\. See Tishby, *Wisdom of the Zohar*, vol. 2, 692-731 and 749-761. In contrast with this conception, which distances the souls of Cain and Abel from the existing Adamic figure, R. Isaac Luria was of the opinion that Cain and Abel represent the source of most souls (referring, for example, to “all of the sparks of the souls from the roots of Cain and Abel, the sons of First Adam, whence most human souls derive”), with very few new souls originating in Seth (such as that of Rabbi Israel Baal Shem, the Besht, according to Hasidic tradition). R. Ḥayyim Vital, *Sha*ʿ*ar HaKavvanot* \[The gate of intentions\], in vol. 11 of *Kitve ha-Ari* \[The works of the Ari\], (Jerusalem, 1988).
 
-15\. See Sifra di-Tsniʿuta ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178a|Zohar 2:178a]]).
+15\. See Sifra di-Tsniʿuta ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178a-c|Zohar 2:178a]]).
 
 16\. See Farber-Ginat, “Qelipah Qodemet le-Peri”; and see Berman, *Divine and Demonic*, 136–224. On the mythic body of impurity, see Sobol, “Sipur Qayin ve-Hevel,” 2:564–585.
 

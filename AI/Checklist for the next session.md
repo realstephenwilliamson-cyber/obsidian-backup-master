@@ -24,7 +24,7 @@ Everything open at the close of the 21 Oct orientation chat, as one list to tick
 
 - [ ] Property types on each device: `date` → Date; the eight habit toggles → Checkbox; `reading_min` → Number (F-21).
 - [ ] Settings → Spaced Repetition → *Show context in cards*: off, on each device you review on — the title › heading line gives the answer away (T22, 21 Oct evening).
-- [ ] Check the 108 card notes against the images in `.trash/00 108 Sanskrit Flash Cards/` before `.trash` is emptied — they are the only source left (J3-20, decided 21 Oct evening).
+- [x] Check the 108 card notes against the images in `.trash/00 108 Sanskrit Flash Cards/` before `.trash` is emptied — they are the only source left (J3-20, decided 21 Oct evening). — Stephen, 27 Oct 2026: no check needed. ✅ 2026-10-27
 - [x] The stale plugin ids and empty plugin folders on the laptop, Obsidian closed (C3). ✅ 2026-10-21
 - [x] Sync: distinct device names on the three devices; the same conflict-resolution choice everywhere. ✅ 2026-10-21
 - [x] Phone and tablet: the Vertical Tabs / Quick Explorer swap (or *Disable on this device*); Omnisearch *Disable on this device*; confirm *Installed community plugins* off in Sync; Ink on the tablet after a start-up timer test. ✅ 2026-10-21

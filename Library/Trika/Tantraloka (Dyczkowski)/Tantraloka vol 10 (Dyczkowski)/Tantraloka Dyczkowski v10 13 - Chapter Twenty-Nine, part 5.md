@@ -676,7 +676,7 @@ Surely (one may ask), by piercing the body, what difference does it make to the 
 
 523?\. Read mahākaula-kaula-kulākula-kulākulākhyāni for mahākaula-kaulākula-kulākulākhyāni. This is only a tentative emendation.
 
-524?\. They are Brahmā, Viṣṇu, Rudra, Īśvara and Sadāśiva. Normally they are six, including Anāśritaśiva. See above, TĀv ad 29/233-234. 525 The Seven Groups of Five \[Fores | Principles | Lunar Voids | = | Causes Senses days पणा Earth Nandā | Genitals / Nādīi | Mahākaula | Brahmā | Hearing /Cakra Anus Pratiṣthā | Water Jayā Navel / Māyā | \[illegible\] | \[illegible\] Touch /cakra Genitals Vidyā Fire Bhadrā Heart / Yogi | \[illegible\] | Rudra | Sight/ Hand Cakra | Sma | Air Riktā Bindu /Dīpta Akula Isvara | Taste / Feet Cakra āntātītā | Space | rm | Nāda / Śānta Kulākula | Sadāśiva Smell /Cakra Speech
+524?\. They are Brahmā, Viṣṇu, Rudra, Īśvara and Sadāśiva. Normally they are six, including Anāśritaśiva. See above, TĀv ad 29/233-234. 525 The Seven Groups of Five \[Fores | Principles | Lunar Voids | = | Causes Senses days पणा Earth Nandā | Genitals / Nādīi | Mahākaula | Brahmā | Hearing /Cakra Anus Pratiṣthā | Water Jayā Navel / Māyā | \[illegible\] | \[illegible\] Touch /cakra Genitals Vidyā Fire Bhadrā Heart / Yogi | Kula | Rudra | Sight/ Hand Cakra | Sma | Air Riktā Bindu /Dīpta Akula Isvara | Taste / Feet Cakra āntātītā | Space | rm | Nāda / Śānta Kulākula | Sadāśiva Smell /Cakra Speech
 
 525?\. Read asyd for asya.
 

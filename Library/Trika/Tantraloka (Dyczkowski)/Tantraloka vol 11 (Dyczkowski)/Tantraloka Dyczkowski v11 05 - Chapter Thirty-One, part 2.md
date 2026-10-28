@@ -238,7 +238,7 @@ the wall (kaṭi),[^302] to the right and the left. (92cd-93)
 शूलं कृष्णेन रजसा ब्रह्मेखा सिता पुनः ।
 शूलाग्रं ज्वालया युक्त शृलदण्डस्तु पीतल: ॥ ९५ ॥
 
-[^300]: Jayaratha explains that this ‘space of sixteen parts’ is \[illegible\] the field divided by sixteen strings/threads’, which is not clear to me. The central part of the mandala measures, as we have seen, twelve squares on each side. The diameter of the lotus is twenty-four finger-breadths, which is one handspan. Above we were told that the square extends three squares outside the lotus.
+[^300]: Jayaratha explains that this ‘space of sixteen parts’ is ‘in the field divided by sixteen strings/threads’, which is not clear to me. The central part of the mandala measures, as we have seen, twelve squares on each side. The diameter of the lotus is twenty-four finger-breadths, which is one handspan. Above we were told that the square extends three squares outside the lotus.
 
 [^301]: Read āmala- for amala-.
 

@@ -186,7 +186,7 @@ page_range: 717–724
 
 ***Shir ha-Shirim*** The book of Song of Songs.
 
-***Sifra di-Tsni’uta*** “The Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah, consisting of five short chapters and composed in obscure sentences. Its subject is the mysterious dynamics of divine being. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b|2:176b–179a]].
+***Sifra di-Tsni’uta*** “The Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah, consisting of five short chapters and composed in obscure sentences. Its subject is the mysterious dynamics of divine being. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b-c|2:176b–179a]].
 
 ***Sitrei Otiyyot*** “Secrets of the Letters”; a discourse by Rabbi Shim’on focusing on the letters of the divine name *YHVH* and how they symbolize the process of emanation. *Zohar Ḥadash* [[Zohar 12.08 - Sitrei Otiyyot|1b–7b]].
 

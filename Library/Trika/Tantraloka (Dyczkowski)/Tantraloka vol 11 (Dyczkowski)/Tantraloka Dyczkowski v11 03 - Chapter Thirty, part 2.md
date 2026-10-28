@@ -125,7 +125,7 @@ yasmād eṣā parā śaktir bhedenānyena kīrtitā ॥ 50 ॥
 yāvatyaḥ siddhayas tantre tāḥ sarvāḥ kurute tv iyam |
 aṅgavaktrāni cāpy asyāḥ prāgvat svaraniyogataḥ ॥ 51 ॥ 
 
-[^112]\[illegible\] Living Being (S) within the capsule of (the two) Vital Breaths (H), shining like the Fire of Time (R), the Left Foot (of the goddess) (PH), intensely energized, its head adorned with the Point (M) and linked with the Right Knee \[illegible\][^113] (HSHPHREM). Venerated by all the hosts of Mothers (mātr),[^114] this (Mantra) gives life to them \[illegible\][^115] and they bestow the fruit (one) desires. This is the supreme essence of the Mothers (Mātṛsadbhāva) and of Bhairava.[^116] Therefore, it is this that he who recites Mantra, who aspires to the most excellent accomplishment (of liberation), should repeatedly recite. The penetration of Rudra’s power (rudraśaktisamāveśa) is always established here (in it), for it is said to be the Supreme Power (Parā), in another form.[^117] As many as are the accomplishments (siddhi) 
+[^112]\[illegible\] Living Being (S) within the capsule of (the two) Vital Breaths (H), shining like the Fire of Time (R), the Left Foot (of the goddess) (PH), intensely energized, its head adorned with the Point (M) and linked with the Right Knee \[illegible\][^113] (HSHPHREM). Venerated by all the hosts of Mothers (mātr),[^114] this (Mantra) gives life to them all,[^115] and they bestow the fruit (one) desires. This is the supreme essence of the Mothers (Mātṛsadbhāva) and of Bhairava.[^116] Therefore, it is this that he who recites Mantra, who aspires to the most excellent accomplishment (of liberation), should repeatedly recite. The penetration of Rudra’s power (rudraśaktisamāveśa) is always established here (in it), for it is said to be the Supreme Power (Parā), in another form.[^117] As many as are the accomplishments (siddhi) 
 
 [^112]: 30/47-51ab is a direct quote of MV 8/39-43ab, 5164 is a variant of MV 8/43cd. See following notes for variant readings.
 
@@ -137,7 +137,7 @@ aṅgavaktrāni cāpy asyāḥ prāgvat svaraniyogataḥ ॥ 51 ॥
 
 [^116]: MV 8/41b reads paripaṭhyate — ‘is taught (in the scriptures)” for bhairavasya ca ‘and of Bhairava’. This variant suggests that Abhinava did actually read sarvāḥ all (the Mothers), as noted in the previous note. Otherwise, if he read ‘all’ in general, there would have been no need to specify Bhairava also. The extraction of this mantra is a direct citation of the MV 8/39-40ab; clearly HSHPHREM is the form of Mātṛsadbhāva taught in the MV. Abhinava tacitly takes this to be the mono-syllabic Vidyā of Kālasaṁkarṣiṇī, although she is entirely absent in the MV. This is the form associated with Parā. See above, note 3,228 ad 3/68cd-70 (69-71ab). We can well suppose that this was a wonderful coincidence for Abhinava as a practitioner. It allowed him to worship the highest Goddess of both the most elevated schools together.
 
-[^117]: MV 8/42d reads MV -bhedānena ʻin this \[illegible\] for bhedenānyena ‘in another form’. The reference here is to the sonic form of Parā, that is, SAUH. See above, TĀv on 29/21: ‘Here with the word ‘Parā’ itself, the author has referred (vyākṛta) to Mātṛsadbhāva, which is the highest form of Parā Herself.’ The change from ‘this’ to ‘another’ is Abhinava’s way of saying that this is another, Trika form of Mātṛsadbhāva, along with the Krama form, i.e., KHPHREM.
+[^117]: MV 8/42d reads MV -bhedānena ʻin this form’ for bhedenānyena ‘in another form’. The reference here is to the sonic form of Parā, that is, SAUH. See above, TĀv on 29/21: ‘Here with the word ‘Parā’ itself, the author has referred (vyākṛta) to Mātṛsadbhāva, which is the highest form of Parā Herself.’ The change from ‘this’ to ‘another’ is Abhinava’s way of saying that this is another, Trika form of Mātṛsadbhāva, along with the Krama form, i.e., KHPHREM.
 
 
 *[p. 37]* ^pg55
@@ -194,7 +194,7 @@ navārṇeyar guptatarā sadbhāvaḥ kālakarṣinī ॥ 54 ॥
 
 MAHĀCAṆDṬAYOGEŚV followed by R, as the eighth syllable.[^122] according to the venerable Dāmara Mahāyāga,[^123] this is the nine-syllabled 
 
-[^121]: 30/52-53 is a paraphrase of MV 11/12cd-15ab. TĀ 30/53 = MV 11/12cd-13ab. Read paroditā, as is found in the MV, for puroditā. MV reads: \[illegible\] daṇndasamākrāntaṁ śūŭlasyopari sarhisthitam \\\\ dakṣāṁguli tato.adhastāttato vāmapayodharam | nābhikanthau tato.adhastādvāmaskandhavibhūṣanau || sivajihvānvitaḥ paścāt tadūrdhvoṣṭhena copari | “There above that, one should deposit the god, with this syllabic (kūṭa) mantra: the living being (S) invaded by the staff (of the Trident) (R) (= SR), which is on top of the Trident (J) sand then below, the right finger (BH), after which comes the left breast (L), the navel (KṢ) and the throat (V), and then, below, both are adorned with the left shoulder (Y). After that it has Śiva’s tongue along with the upper lip above it.’ MV 11/12cd-14ab Thus, this too is a Trika mantra drawn from the MV. It is the mantra of the Lord of all the assemblies of yoginīs. In other words, it is a Bhairava mantra. The previous verse (i.e. MV 11/11) refers to the deployment of the eight Mātṛkās in the directions. Clearly the ‘assemblies of yoginīs’ are the Mothers and the yoginīs associated with them, over which Bhairava, in the centre, presides. The Mantra is: SRJIBHLKṢVYŪAUH (pronounced SRJA BHLKṢA VYŪ-AUH). The mantra when applied is probably something like SRJIBHLKṢVYŪAUH ŚRĪBHAIRAVA-PĀDĀYA NAMAH.
+[^121]: 30/52-53 is a paraphrase of MV 11/12cd-15ab. TĀ 30/53 = MV 11/12cd-13ab. Read paroditā, as is found in the MV, for puroditā. MV reads: jīvaṁ daṇndasamākrāntaṁ śūŭlasyopari sarhisthitam \\\\ dakṣāṁguli tato.adhastāttato vāmapayodharam | nābhikanthau tato.adhastādvāmaskandhavibhūṣanau || sivajihvānvitaḥ paścāt tadūrdhvoṣṭhena copari | “There above that, one should deposit the god, with this syllabic (kūṭa) mantra: the living being (S) invaded by the staff (of the Trident) (R) (= SR), which is on top of the Trident (J) sand then below, the right finger (BH), after which comes the left breast (L), the navel (KṢ) and the throat (V), and then, below, both are adorned with the left shoulder (Y). After that it has Śiva’s tongue along with the upper lip above it.’ MV 11/12cd-14ab Thus, this too is a Trika mantra drawn from the MV. It is the mantra of the Lord of all the assemblies of yoginīs. In other words, it is a Bhairava mantra. The previous verse (i.e. MV 11/11) refers to the deployment of the eight Mātṛkās in the directions. Clearly the ‘assemblies of yoginīs’ are the Mothers and the yoginīs associated with them, over which Bhairava, in the centre, presides. The Mantra is: SRJIBHLKṢVYŪAUH (pronounced SRJA BHLKṢA VYŪ-AUH). The mantra when applied is probably something like SRJIBHLKṢVYŪAUH ŚRĪBHAIRAVA-PĀDĀYA NAMAH.
 [^122]: Literally ‘phoneme’ (varna). There are two forms of the Vidyā of Kālasaṁkarṣiṇī. One consists of seventeen syllables (recorded above in TĀv ad 29/69cd-70). Another is this shortened version consisting of nine syllables. It beg ins with the syllable KHPHREM, and so the Vidyā is KHPHREM MAHĀCAṆDAYOGEŚVARI (see Sanderson 2007: 307 n 246) or, as here, ending in p. To this are normally added OM in the beginning, that serves to energize it (dīpaka), and PHAT, ‘marking it as one endowed with the character of aggression.” (Sanderson 2007b: 279). There is also a Samayavidyā of 100 syllables (see MP Old Kashmiri 13/1-5 and DP 6/130). Sanderson (2007b: 307 n. 247) decodes it as follows: KHPHREM PHAṬ | MAHĀCAṆDE CAṆDAMUKHI CANṆDAYOGEŚVARI PHAṬṬ | CANDADUHKHA-VIMOCANI SARVASAMAYALOPAVIGHĀTANI TEJOVATI AMRTAMŪRTE ASIDDHASĀDHANI SIDDHI-RDDHIPRADE NĀŚAYA SARVADOṢĀN ABHIMATAM ME PRAYACCHA SARVE SARVAGE ARŪPE SARVARŪPE HRĪM PHAT | KHPHREM PHAT | HŪM KROM KṢĀM SARVAVIDYEŚVARI PHAṬ SVĀHĀ | This is the form of the Samayavidyā of the Anākhyakrama. There are four oth corresponding to the other four circles of the Five Currents (pañcavāha), that is, the Sṛṣti-Saṁāra- and Bhāsā- kramas. They are recorded in the Kālikākulapañcakramakramārcana by Vimalaprabodha, of which there are two Nepalese manuscripts (see bibliography)..The version in the MSs reads: KHPHREM PHAT MAHĀCAṆDE CAṆDAMUKHI CAṆDAYOGEŚVARI PHAṬ CANDADUHKHA-VIMOCANI (K: -MUKHA-) SARVASAMAYALOPAVIGHĀTANI (K: - VIGHOTANI KH: -VIGHOṬANI) TEJOMAYI AMRTAMŪRTE ASIDDHISĀDHANI RDDHISIDDHIPRADE NĀŚAYA SARVADOṢĀN-ABHIMATAM ME PRAYACCHA SARVE SARVAGE ARŪPE SARVARÜŪPE HRĪM PHATṬ KHPHREM PHAT HÜM KROM KṢĀM SARVAVIDYEŚVARI PHAṬ SVĀHĀ ॥ 100 I| MS K folio 14a.
 
 *[p. 39]* ^pg57
@@ -287,7 +287,7 @@ chedinī kṣurikeyaṁ syād yayā yojayate pare || 59 ॥
 
 a) and b) Two times the Staff (R) and Fire (R); \[illegible\] the Vital Breath (H), Sky (KṢ), and the Trident (J); d) the Divider (K) and Fire (R); e) the Peak (KṢ) and Fire (R) - (all) these five with emission[^135] and (applied) to 
 
-the five \[illegible\][^136] (58) 
+the five Voids.[^136] (58) 
 
 ### TĀ 30.59
 
@@ -319,7 +319,7 @@ The Liberating Weapon
 कथितं सरहस्यं तु सद्योनिरवीणदं परम् ।
 
 bindvindvanalakūṭāgnimarutṣaṣthasvarair yutam |
-āpādatalamūrdhāntai smared astram \[illegible\] jvalat[^138] || 60 ॥
+āpādatalamūrdhāntai smared astram idaṁ jvalat[^138] || 60 ॥
 kuñcanaṁ cāṁgulīnāṁ tu kartavyan codanari tataḥ \\[^139] jānvādiparacakrāntaṁ cakrāc cakraṁ tu kuñcayet ॥ 61 ॥
 kathitaṁ sarahasyaṁ tu sadyonirvāṇadaṁ param[^140] | 
 
@@ -381,7 +381,7 @@ The Brahmavidyā Consisting of Parts (sakalā)
 
 [^146]: Are we to understand that the diction ayam — ‘this’ here implies that Bhūtirāja was still alive when Abhinava wrote this?
 
-[^147]: Jayaratha refers to this verse and Bhūtirāja above in his commentary on 4/173ab. See note to TĀv ad 1/9. Bhūtirāja is identified with Śrīkantha twice — first in 1/9 and then again in 30/120cd- 1219. Śrīkantha is the form of Śiva that lives on mount Kailasa and teaches the Saivāgama. Thus, we could translate śivaḥ śrībhūtirāūjo’ yam as Śiva, this venerable Bhūtirāja Abhinava most probably meant a play on words here with \[illegible\] that, as an adjective, means ‘auspicious’ or the like, leaving open a second implied sense that he was also Śiva.
+[^147]: Jayaratha refers to this verse and Bhūtirāja above in his commentary on 4/173ab. See note to TĀv ad 1/9. Bhūtirāja is identified with Śrīkantha twice — first in 1/9 and then again in 30/120cd- 1219. Śrīkantha is the form of Śiva that lives on mount Kailasa and teaches the Saivāgama. Thus, we could translate śivaḥ śrībhūtirāūjo’ yam as Śiva, this venerable Bhūtirāja Abhinava most probably meant a play on words here with ‘śiva’ that, as an adjective, means ‘auspicious’ or the like, leaving open a second implied sense that he was also Śiva.
 
 
 *[p. 45]* ^pg63
@@ -556,7 +556,7 @@ This is the seventh declaration, set in Ārya metre, (consisting of) fourteen wo
 
 ākramya madhyamārgaṁi prāṇnāpānau samāhṛtya |
 dharmādharmau tyaktvā nārāyaṇa yāhi śāntāntam || 78 ॥
-āryāvākyam \[illegible\] proktam aṣtamaṁ navabhiḥ padaiḥ | 
+āryāvākyam idaṁ proktam aṣtamaṁ navabhiḥ padaiḥ | 
 
 8\) “Having entered the Middle Path, retracted the exhaled and inhaled breath and abandoned Dharma and Adharma, go, O Nārāyaṇa, to the extremity of the Tranquil One!” (78) 
 
@@ -713,7 +713,7 @@ sakaleyań brahmavidyā 5) \[illegible\] pañcadaśabhiḥ sphuṭaiḥ |
 vākyaiḥ pañcākṣarais tv asyā niṣkalā parikīrtyate ॥ 89 ॥
 prativākyari yayādyantayojitā paripathyate | 
 
-This is the Brahmavidyā, consisting of parts (sakalā) made of fifteen clear declarations. We will (now) talk of this \[illegible\] Brahmavidyā) without parts (niṣkalā), (fashioned) with five syllables, with which each declaration is conjoined at the beginning and at the end.[^166] (89-90ab) 
+This is the Brahmavidyā, consisting of parts (sakalā) made of fifteen clear declarations. We will (now) talk of this (same Brahmavidyā) without parts (niṣkalā), (fashioned) with five syllables, with which each declaration is conjoined at the beginning and at the end.[^166] (89-90ab) 
 
 #### Viveka on 30.89–90
 
@@ -785,7 +785,7 @@ tāraḥ śamarayaiḥ pindo natiśca caturarṇakam || 93 ||
 
 śākinīstobhanaṁi marma hṛdayaṁ jīvitaṁ tv idam | 
 
-The Saviour (OM), the group (pinda) (formed) with (the letters) Ś, M, R, and Y, (along with vowel Ū) and salutation (NAMAH) (constitute) the four syllabled \[illegible\][^170] The purification (brought about by the Initiation of the) Scales (tulāśuddhi) instils immediate conviction (that it has been effective), 
+The Saviour (OM), the group (pinda) (formed) with (the letters) Ś, M, R, and Y, (along with vowel Ū) and salutation (NAMAH) (constitute) the four syllabled (Mantra).[^170] The purification (brought about by the Initiation of the) Scales (tulāśuddhi) instils immediate conviction (that it has been effective), 
 
 [^171] by (perceiving that he who has received it loses weight 
 

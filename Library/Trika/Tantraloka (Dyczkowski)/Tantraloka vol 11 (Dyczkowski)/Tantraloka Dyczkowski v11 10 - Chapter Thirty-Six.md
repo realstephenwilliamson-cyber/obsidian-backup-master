@@ -208,7 +208,7 @@ The Transmission of the Śaiva Traditions (santatikrama)
 अतश्वार्धचतसरोऽत्र मटिकाः संततिक्रमात् ।
 शिष्यप्रशिष्यर्विस्तीणीः शतशाखं व्यवस्थितैः ॥ १४ ॥
 
-teṣām kramena yat \[illegible\] bhraṣtaṁ kālāntarādyadā |
+teṣām kramena yat prāptaṁ bhraṣtaṁ kālāntarādyadā |
 \[illegible\] śrīkanṭthanāthājṁāvaśāt siddhā avātaran | 11 ॥ 
 
 *[p. 225]* ^pg243

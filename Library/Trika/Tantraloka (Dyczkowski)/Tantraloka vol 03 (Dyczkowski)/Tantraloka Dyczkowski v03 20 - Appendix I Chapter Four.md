@@ -67,7 +67,7 @@ If relative distinction (bheda) (between phases of perception and their contents
 
 And that (falling away could not be brought about, even) with innumerable thoughts (kalpa) and much action that is difficult to do. Nor (can we say that consciousness does not possesses this dynamic) effulgence, for one does not perceive that anything else possesses it. (11) 
 
-Nor is there just non-existence (abhāvamātra). For if there were, it would always be manifest. Therefore, be it reality (tattva) or its absence (atattva), it would not be possible without phenomenal being \[illegible\] (12) 
+Nor is there just non-existence (abhāvamātra). For if there were, it would always be manifest. Therefore, be it reality (tattva) or its absence (atattva), it would not be possible without phenomenal being (bhāva). (12) 
 
 Manifestation (bhāna lit. ‘shining’) is dominated (vaśa) by the empire of one’s own (consciousness), and so is the same for both what truly exists (tattva) and what does not (atattva). (9-13ab) 
 
@@ -345,7 +345,7 @@ Nine syllable Vidyā khphreṁ mahācandayogeśvari Seventeen syllable Vidyā (1
 
 hrīṁ mahācandayogeśvari thr dhr thr phat phat phaṭ phat phat Seventeen syllable Vidyā (2) 
 
-khphreṁ phāṁ phīṁ mahācandayogeśvari kālakāli \[illegible\] phaṭ 100 syllable Samayavidyā khphreṁ phat | mahācande caṇdamukhi candayogeśvari phat | candaduhkhavimocani sarvasamayalopavighātani tejovati (tejomayi) amṛtamūrte asiddha-sādhani siddhirddhiprade nāśaya sarvadoṣān abhimataṁ me prayaccha sarve sarvage arūpe sarvarūpe \[illegible\] phaṭ | khphreṁ phat | \[illegible\] kron \[illegible\] sarva-vidyeśvari phat svāhā | 
+khphreṁ phāṁ phīṁ mahācandayogeśvari kālakāli \[illegible\] phaṭ 100 syllable Samayavidyā khphreṁ phat | mahācande caṇdamukhi candayogeśvari phat | candaduhkhavimocani sarvasamayalopavighātani tejovati (tejomayi) amṛtamūrte asiddha-sādhani siddhirddhiprade nāśaya sarvadoṣān abhimataṁ me prayaccha sarve sarvage arūpe sarvarūpe hrīṁ phaṭ | khphreṁ phat | \[illegible\] kron \[illegible\] sarva-vidyeśvari phat svāhā | 
 
 The Thirteen Kālīs 
 

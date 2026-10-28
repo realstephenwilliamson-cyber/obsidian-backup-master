@@ -43,9 +43,9 @@ The body is subject to pleasure and pain because it is associated with Karma whi
 avidyopāsito deho hy anyajanmasamudbhuvā I| 232 ||
 karmanṇā tena bādhyante jñānino ‘pi kalevare | 
 
-‘Indeed, the body is attended (upāsita) by ignorance \[illegible\] that arose (due to Karma) in another life. Thus, even realised souls (jñānin) are 
+‘Indeed, the body is attended (upāsita) by ignorance (avidyā) that arose (due to Karma) in another life. Thus, even realised souls (jñānin) are 
 
-continuity of discourse with verse 13/232cd-233ab, that Abhinava clearly states is from the Gamatantra. Abhinava is telling us here that, occasioned by the most intense śaktipāta, this form of initiation grants liberation in life (jīvanmukti). Accordingly, when Maheśvarānanda quotes the same verse (in MM p. 166), he discusses the attainment of liberation in this life and how it takes place in an instant by the teacher’s gracious gaze (kaṭākṣapāta), whereby his liberated state is transmitted directly to his disciple in an instant. He refers to the Parātrīśikā as teaching the same, and quotes Abhinava’s commentary in that regard. He also quotes a passage from the \[illegible\] that declares that once gold is known, there is no need of other means of knowledge. Thus, he walks in the footsteps of Abhinava, for whom the nondualist Śaivism and the Pratyabhijñā, like the PT, teach immediate liberation in this lifetime.
+continuity of discourse with verse 13/232cd-233ab, that Abhinava clearly states is from the Gamatantra. Abhinava is telling us here that, occasioned by the most intense śaktipāta, this form of initiation grants liberation in life (jīvanmukti). Accordingly, when Maheśvarānanda quotes the same verse (in MM p. 166), he discusses the attainment of liberation in this life and how it takes place in an instant by the teacher’s gracious gaze (kaṭākṣapāta), whereby his liberated state is transmitted directly to his disciple in an instant. He refers to the Parātrīśikā as teaching the same, and quotes Abhinava’s commentary in that regard. He also quotes a passage from the Śivadṛṣṭi that declares that once gold is known, there is no need of other means of knowledge. Thus, he walks in the footsteps of Abhinava, for whom the nondualist Śaivism and the Pratyabhijñā, like the PT, teach immediate liberation in this lifetime.
 
 [^521]: Jayaratha explains that this ignorance is Māyā.
 
@@ -90,7 +90,7 @@ abhyāsayuktisakrāntivedhaghaṭtanarodhataḥ ॥ 234 ॥
 huter vā mantrasāmarthyāt pāśacchedaprayogataḥ |
 sadyonirvāṇadāṁ kuryāt sadyahprāṇaviyojikām ॥ 235 ॥ 
 
-(If the disciple is worthy, the teacher) should perform the initiation that bestows liberation (nirvāṇa) immediately, separating him instantly from his life breath. (It may be imparted, as the case may be,) by exercising (on the vital breath), by a special ritual procedure (yukti), by transiting (into another body and the like), by piercing (the centres of the subtle body with Mantra etc.) (vedha), by offering oblation, by striking \[illegible\] (the disciple), by blocking (the vital breath in the central channel of Suṣumnā) (rodha), by the power of Mantra, or by severing the fetters.” (234cd-235) 
+(If the disciple is worthy, the teacher) should perform the initiation that bestows liberation (nirvāṇa) immediately, separating him instantly from his life breath. (It may be imparted, as the case may be,) by exercising (on the vital breath), by a special ritual procedure (yukti), by transiting (into another body and the like), by piercing (the centres of the subtle body with Mantra etc.) (vedha), by offering oblation, by striking (ghaṭṭana) (the disciple), by blocking (the vital breath in the central channel of Suṣumnā) (rodha), by the power of Mantra, or by severing the fetters.” (234cd-235) 
 
 #### Viveka on 13.234–235
 
@@ -183,7 +183,7 @@ Concluding thus (this) point, he introduces another.
 ### TĀ 13.240
 
 एकस्िकोऽयं निर्णीतः शक्तिपातेऽप्यथापरः ।
-ekas triko \[illegible\] nirnītaḥ śaktipāte ‘py athāparaḥ | 
+ekas triko ‘yaṁ nirnītaḥ śaktipāte ‘py athāparaḥ | 
 
 The three (forms of) one (kind of) the descent of the power (of grace) have been explained. Now (let us examine) another (that is, the moderate descent of power). (240ab) 
 
@@ -611,7 +611,7 @@ said that they are independent of Karma and other (such factors)? Accordingly, h
 ते मन्रादित्वमापत्नाः कथं कममीनपेक्षिणः ।
 
 nanu pūjājapadhyānaśaṁkarasevanādibhiḥ ॥ 259 ॥
-te mantrāditvamāpannāḥ \[illegible\] karmānapekṣinaḥ | 
+te mantrāditvamāpannāḥ kathaṁ karmānapekṣinaḥ | 
 
 Surely, (someone may object that) they have attained the state of Mantra and the other (higher level subjects) by worship, the repetition (of Mantras), meditation, attending on Śiva and the like. So how are they independent of Karma? (259cd-260ab) 
 
@@ -713,7 +713,7 @@ If you ask: “what is the cause of their craving for worldly benefits?” We ha
 
 *[p. 289]* ^pg311
 
-experience’, that is, initially manifesting contraction as (the Karma) that determines birth \[illegible\] lifespan and worldly experience, he binds Himself with Karmas conceived by thought he himself has fashioned (as an individual soul). Then again, (having done that,) His own completely pure nature (emerges) by the obscuration of adventitious Impurity and Karma etc. that takes place by the process of divesting (Himself of them). (Thus,) the Supreme Lord, who is free, and nature full (and perfect) knowledge and action, alone remains. This is the meaning. As was said before: 
+experience’, that is, initially manifesting contraction as (the Karma) that determines birth (jāti), lifespan and worldly experience, he binds Himself with Karmas conceived by thought he himself has fashioned (as an individual soul). Then again, (having done that,) His own completely pure nature (emerges) by the obscuration of adventitious Impurity and Karma etc. that takes place by the process of divesting (Himself of them). (Thus,) the Supreme Lord, who is free, and nature full (and perfect) knowledge and action, alone remains. This is the meaning. As was said before: 
 
 ‘God is free consciousness, and his nature the Light (that shines as all things). As he is engaged (yogāt) by his very nature in the game of concealing (His true) form, (he becomes) each one (of the many) individual souls. It has been explained (in the scriptures) that it is (Śiva) Himself who, out of His own free will, binds Himself here (in this world) by actions, which are essentially thoughts with (variously) conceived forms. This is the greatness of God’s freedom, that even though (His) state is that of an individual soul, He also makes contact with His own true essential nature, which is completely pure (and thereby reveals 10.77“ 
 
@@ -1222,7 +1222,7 @@ Surely, (one may ask) of what (statement) is this the meaning? With this doubt i
 यया यान्ति परां सिद्धिमित्यस्येदं तु जीवितम् । accomplishment.[^591] ॥
 yayā yānti parāṁ siddhim ity asyedaṁ tu jīvitam | 289 ॥ 
 
-This is the essence \[illegible\] of (the statement) ‘due to that . . . they 
+This is the essence (jīvita) of (the statement) ‘due to that . . . they 
 
 attain the supreme accomplishment.” (289cd) 
 
@@ -1249,7 +1249,7 @@ No Specific Time or Cause of Grace
 
 śrīmānutpaladevaś cāpy \[illegible\] paramo guruḥ |
 saktipātasamaye vicāraṇari prāptam īía na karoṣi karhicit \\\\ 290 ॥
-adya māṁ prati kim \[illegible\] yataḥ svaprakāśanavidhau vilambase |
+adya māṁ prati kim āgataṁ yataḥ svaprakāśanavidhau vilambase |
 karhicit prāptaśabdābhyām anapekṣitvam ūcivān || 291 ॥
 durlabhatvam arāgitvar śaktipātavidhau vibhoḥ | 
 

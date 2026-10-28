@@ -193,7 +193,7 @@ Rabbi Ḥiyya said, “Why is the exodus from Egypt mentioned here, as is writte
 
     The full verse in Ecclesiastes reads: *At all times let your garments be white, and oil on your head not be lacking*. According to an interpretation in BT *Shabbat* [[Shabbat 153#153a|153a]], *let your garments be white* alludes to the white threads of tzitzit.
 
-[^24]: **in the mystery of the Book of Concealment…** Namely, in *Sifra di-Tsni’uta* (The Book of Concealment). See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a|2:179a]] (*SdTs*). For the meaning of this cryptic description there, see Vol. 5, pp. 580–81, n. 84. Below, these lines are interpreted as applying to the *mitsvah* of tzitzit.
+[^24]: **in the mystery of the Book of Concealment…** Namely, in *Sifra di-Tsni’uta* (The Book of Concealment). See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a-c|2:179a]] (*SdTs*). For the meaning of this cryptic description there, see Vol. 5, pp. 580–81, n. 84. Below, these lines are interpreted as applying to the *mitsvah* of tzitzit.
 
 [^25]: **How many witnesses…** According to a rabbinic tradition, two angels accompany a person constantly. Here Rabbi Yehudah expands the number.
 

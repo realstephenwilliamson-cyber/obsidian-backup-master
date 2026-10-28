@@ -33,7 +33,7 @@ For the sake of those who aspire to realise the Supreme Abode by the practice (v
 
 ‘The practice’ consists (of the various forms of) utterance (of Mantra, the vital breath and consciousness) and the rest. ‘That’, namely, the Individual Means, which is going to be explained (in this chapter). 
 
-1 Āṇavopāya — the Individual Means — is the category of practice that comprises grossest, most objective, bodily based means; nonetheless, like the other categories of means, it culminates in the realisation of the oneness of Anuttara, which according to Abhinava, is taught only in the Trika tradition, and is ultimately attainable only through its teachings. There is no difference in the fruits of Trika practice in any of these means, whether ‘higher’ or lower’. The gradation depends on the degree of purity of consciousness, that is, on the presence or absence of thought constructs (vikalpa), which in turn depends upon the degree of objectivity with which subjective consciousness is engaged. In this chapter, Abhinava presents examples, one by one, of the varieties of practice listed in the MV (2/21) as belonging to the Individual Means (see above 1/170 and 214-233ab). For the convenience of the reader, here is that passage again: ‘The penetration that takes place by (the practice) of the utterance (of Mantra and upward movement of the vital breath) (uccāra), the instruments (of Yoga) (karana), visualization (dhyāna), the letters (varna) (as the subtle practice of Mantra), and the formation of place (sthānakalpanā) (to make offerings and on which to concentrate) is rightly said to be Individual \[illegible\] " Although said to belong to the lowest category of means, their elevation appears to be very surprising. But this is not really so. The category of practice to which a means to realisation belongs is determined by where it begins. It may develop in stages through the higher categories or reach its goal directly. Abhinava, as always, is optimistic that the aspirant will receive abundant grace and progress quickly. Those who do not will benefit anyway by contemplating these higher states by cultivating creative contemplation (bhāvanā).
+1 Āṇavopāya — the Individual Means — is the category of practice that comprises grossest, most objective, bodily based means; nonetheless, like the other categories of means, it culminates in the realisation of the oneness of Anuttara, which according to Abhinava, is taught only in the Trika tradition, and is ultimately attainable only through its teachings. There is no difference in the fruits of Trika practice in any of these means, whether ‘higher’ or lower’. The gradation depends on the degree of purity of consciousness, that is, on the presence or absence of thought constructs (vikalpa), which in turn depends upon the degree of objectivity with which subjective consciousness is engaged. In this chapter, Abhinava presents examples, one by one, of the varieties of practice listed in the MV (2/21) as belonging to the Individual Means (see above 1/170 and 214-233ab). For the convenience of the reader, here is that passage again: ‘The penetration that takes place by (the practice) of the utterance (of Mantra and upward movement of the vital breath) (uccāra), the instruments (of Yoga) (karana), visualization (dhyāna), the letters (varna) (as the subtle practice of Mantra), and the formation of place (sthānakalpanā) (to make offerings and on which to concentrate) is rightly said to be Individual (āṇava).’ " Although said to belong to the lowest category of means, their elevation appears to be very surprising. But this is not really so. The category of practice to which a means to realisation belongs is determined by where it begins. It may develop in stages through the higher categories or reach its goal directly. Abhinava, as always, is optimistic that the aspirant will receive abundant grace and progress quickly. Those who do not will benefit anyway by contemplating these higher states by cultivating creative contemplation (bhāvanā).
 
 *[p. 2]* ^pg17
 
@@ -49,7 +49,7 @@ The Individual Means as Purification of Thought with an Outer Support
 vikalpasyaiva saṁskāre jāte niṣpratiyogini |
 abhīṣṭe vastuni prāptir niścitā bhogamokṣayoḥ ॥ 2 ॥ 
 
-When thought (vikalpa) has been purified and is free of (all) contrary (mental representations), one certainly attains the desired object, be it worldly benefits (bhoga) or liberation \[illegible\] (2) 
+When thought (vikalpa) has been purified and is free of (all) contrary (mental representations), one certainly attains the desired object, be it worldly benefits (bhoga) or liberation (mokṣa). (2) 
 
 #### Viveka on 5.2
 
@@ -207,7 +207,7 @@ uktaṁ traisirase caitad devyai candrārdhamaulinā |
 jīvaḥ śaktiḥ śivasyaiva sarvatraiva sthitāpi sā || 9॥
 svarūpapratyaye rūdhā jñānasyonmīlanāt parā | 
 
-(Śiva), who is crowned with the crescent moon, said this to the goddess in the Traiśirasa (Trisirobhairavatantra): ‘Śiva’s supreme power is the individual soul (jīva). (This is so) when, although present everywhere, it is established \[illegible\] in the determinate perception of the nature (of things) (svarūpapratyaya) by the unfolding of cognition (jñāna).’ (9-10ab) 
+(Śiva), who is crowned with the crescent moon, said this to the goddess in the Traiśirasa (Trisirobhairavatantra): ‘Śiva’s supreme power is the individual soul (jīva). (This is so) when, although present everywhere, it is established (rūḍhā) in the determinate perception of the nature (of things) (svarūpapratyaya) by the unfolding of cognition (jñāna).’ (9-10ab) 
 
 #### Viveka on 5.9–10
 
@@ -273,7 +273,7 @@ Surely (one may ask), just as a reflection has no separate existence (of its own
 बद्धिम्राणादितो भिन्नं चैतन्यं निश्चितं बलात् ॥ १२ ॥
 सत्यतस्तदभिन्न स्यात्तस्यान्योन्यविभेदतः । |
 
-buddhiprāṇādito bhinnaṁ caitanyaṁ \[illegible\] balāt ॥ 12 ||
+buddhiprāṇādito bhinnaṁ caitanyaṁ niścitaṁ balāt ॥ 12 ||
 satyatas tadabhinnari syāt tasyānyonyavibhedataḥ | 
 
 Once consciousness (caitanya) has been forcefully (balāt) realized to be different from the intellect, vital breath and the rest, (the yogi subsequently discovers that) it does not really differ (abhinna) from them. This is because they are distinct from one another (but not from consciousness, which is at one with all things). (12cd-13ab) 
@@ -310,7 +310,7 @@ Here, (according to us,) ‘the purity’ of consciousness, which is the Supreme
 
 TM” 
 
-> Read prāptapratiṣthānatā for prāptapratiṣthānā. % ĪP 1/5/1. Utpaladeva explains in his gloss \[illegible\] ‘However, even in (the case of) direct perception (not just memory or thought), the manifestation of objects as separate (from the individual perceiver identified with the mind and body) is admissible only if
+> Read prāptapratiṣthānatā for prāptapratiṣthānā. % ĪP 1/5/1. Utpaladeva explains in his gloss (vṛtti): ‘However, even in (the case of) direct perception (not just memory or thought), the manifestation of objects as separate (from the individual perceiver identified with the mind and body) is admissible only if
 
 *[p. 14]* ^pg29
 
@@ -411,7 +411,7 @@ The first (primary form) is called ‘vitality’ (prāṇanā) and is the Supre
 
 #### Viveka on 5.18
 
-It ‘is called ‘vitality”. It is the inner exertion (udyoga) (of the vitality which impels and fuels the activity of mind, senses and body). Also called ‘life’ \[illegible\] it is just the (bare) vital force alone (prāṇanāmātra). This is the meaning. As he will say: 
+It ‘is called ‘vitality”. It is the inner exertion (udyoga) (of the vitality which impels and fuels the activity of mind, senses and body). Also called ‘life’ (jīvana), it is just the (bare) vital force alone (prāṇanāmātra). This is the meaning. As he will say: 
 
 ‘This vitalizing power of the breath, which is the will of the inner exertion (of consciousness), is variously called vibration (spanda), effulgence (sphurattā), repose, the living being (jīva), the Heart and intuition. This, the activity of the vital breath, lays hold of the body in five ways, as the exhaled breath (prāṇa) and the rest. It is because of this that (the body) appears to be full 
 
@@ -522,7 +522,7 @@ There the undistracted (yogi) should contemplate the dynamic union of the Moon, 
 
 #### Viveka on 5.22
 
-This is because ‘there’ in the Heart, the attentive yogi ‘should contemplate the dynamic union of the Moon, Sun and Fire’, which are the inhaled (apāna), exhaled \[illegible\] and upward moving breath (udāna), (respectively). The meaning is that by the modality of breath retention (kumbhakavṛtti), he should contemplate the unfolding (expansion) (unmīlana)\* (of consciousness). This is the meaning.” 
+This is because ‘there’ in the Heart, the attentive yogi ‘should contemplate the dynamic union of the Moon, Sun and Fire’, which are the inhaled (apāna), exhaled (prāṇa), and upward moving breath (udāna), (respectively). The meaning is that by the modality of breath retention (kumbhakavṛtti), he should contemplate the unfolding (expansion) (unmīlana)\* (of consciousness). This is the meaning.” 
 
 Surely (one may ask,) what is the result of meditating in this way there (within the Heart)? With this doubt in mind, he says: 
 
@@ -540,7 +540,7 @@ The fire of the mighty Bhairava, blazing intensely in the great sacrificial hear
 
 ‘That meditation’, namely, the aforementioned union of Moon, Sun and Fire, is ‘the fire stick’, by means of which, severing the motion of the 
 
-“ Read —vṛttyonmilanam- for —vṛttyonmilanām-. + The breath naturally halts at the end of inhalation and exhalation. Here forced breath retention is not meant, otherwise the following phases that take place through the movement of the breath could not arise. Even so, as an aid to concentration, the breath is gently brought to a halt. The Sun of the exhaled breath unites with the Moon of the inhaled breath when the movement of the breath halts in the upper half of the movement of the breath. Then the reverse takes place at the end of the descending movement of the breath. The yogi should pay attention to these two junctions as taking place within the Heart and the End of the Twelve above the head. Thus, he comes to experience their connection through an upward expansion of consciousness that marks the ascent of the Fire of the upward moving breath (udāna) in the emptiness between them, as the power of the vital breath. The movement of the breath coincides with the activity of the mind that generates thought constructs. Conversely, its suspension marks the stilling of that activity, and its replacement by the unfolding expansion of the dynamism of consciousness itself, free of thought constructs. # There are many names for fire. The one here is ‘havyabhuk’, which literally means ‘he who consumes the fire offerings.’ In this inner fire sacrifice the offering is objectivity, which includes the body, senses, and mind. Thus one ŚSū (2/8) declares: ‘the body is the oblation’, and another (ibid. 1/14) that ‘the perceptible is (His) body.’  Read \[illegible\] for tasyāḥ.
+“ Read —vṛttyonmilanam- for —vṛttyonmilanām-. + The breath naturally halts at the end of inhalation and exhalation. Here forced breath retention is not meant, otherwise the following phases that take place through the movement of the breath could not arise. Even so, as an aid to concentration, the breath is gently brought to a halt. The Sun of the exhaled breath unites with the Moon of the inhaled breath when the movement of the breath halts in the upper half of the movement of the breath. Then the reverse takes place at the end of the descending movement of the breath. The yogi should pay attention to these two junctions as taking place within the Heart and the End of the Twelve above the head. Thus, he comes to experience their connection through an upward expansion of consciousness that marks the ascent of the Fire of the upward moving breath (udāna) in the emptiness between them, as the power of the vital breath. The movement of the breath coincides with the activity of the mind that generates thought constructs. Conversely, its suspension marks the stilling of that activity, and its replacement by the unfolding expansion of the dynamism of consciousness itself, free of thought constructs. # There are many names for fire. The one here is ‘havyabhuk’, which literally means ‘he who consumes the fire offerings.’ In this inner fire sacrifice the offering is objectivity, which includes the body, senses, and mind. Thus one ŚSū (2/8) declares: ‘the body is the oblation’, and another (ibid. 1/14) that ‘the perceptible is (His) body.’  Read tayā for tasyāḥ.
 
 *[p. 26]* ^pg41
 
@@ -633,7 +633,7 @@ He brings (all) this together.
 एकैकमासां वहन्य्कसोमतच्छान्तिभासनम्
 
 \[illegible\] dvādaśa tā devyaḥ sūryabimbavad āsthitāḥ ॥ 26 ॥
-ekaikam \[illegible\] vahnyarkasomatacchāntibhāsanam | 
+ekaikam āsāṁ vahnyarkasomatacchāntibhāsanam | 
 
 In this way, these goddesses are twelve, like the orb (bimba) of the sun (one in each of the twelve celestial mansions). Each one is the manifestation of Fire, Sun, Moon,” and their extinction. (26cd-27ab) 
 
@@ -648,7 +648,7 @@ All this is proved by everybody’s experience. There is nothing new (in this vi
 एतदनुत्तरं चक्र हदयाच्चक्षुरादिभिः ॥ २७ ॥
 व्योमभिर्नि-सरत्येवं तत्तद्रिषयगोचरे ।
 
-etad anuttaraṁ? \[illegible\] hṛdayāc cakṣurādibhiḥ ॥ 27 ॥
+etad anuttaraṁ? cakraṁ hṛdayāc cakṣurādibhiḥ ॥ 27 ॥
 vyomabhir nihsaraty evar tattadviṣayagocare | 
 
 + There are commonly believed in India to be twelve solar discs (bimba), one for each solar month. Cf. above, 4/146cd. 5 As usual, Abhinava here tacitly equates Fire, Sun and Moon with subject, means and object of knowledge. The Upaniṣads teach that when these lights go out, the Light that remains ‘which illumines man’ is that of the Self. ‘Now the Light which shines higher than this heaven, on the backs of all, on the backs of everything, in the highest worlds, than which there is no higher — verily that is the same as this light which is here within a person. There is this seeing of it — (8) when one perceives by touch this heat here in the body. There is this hearing of it — when one closes his ears and hears as it were a sound, as it were a noise of a fire blazing. One should reverence that Light as something that has been seen and heard, one beautiful to see, one heard of in renown, one who knows this — yea, one who knows this.’ Chāndogya 3/13/7-8 Hume’s translation. The sun shines not there, nor the moon and stars. These lightnings shine not, much less this earthly fire! After Him, as He shines, doth everything shine. This whole world is illumined with His Light. Katha Up 5/15, also Mund 2/2/10 and Śvet. 6/14 Hume’s translation. 5! Jayaratha is referring to the exposition of the Twelve Kālīs above at 4/148 ff. > Read anuttaraṁ for ānuttarar.

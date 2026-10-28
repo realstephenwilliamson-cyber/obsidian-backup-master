@@ -435,7 +435,7 @@ Rabbi Yehudah said, “Come and see what is written about him: *He saw that he c
 
     In any case, Rabbi Shim’on clarifies and extends the voice’s statement: the souls of the righteous manifest as angels assisting the righteous on earth. See *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-7a|1:7a]] on Hamnuna Sava: “virtuous ones of that world come to them.”
 
-    The phrase “a mouth speaking grandly” derives from Daniel’s dream-vision (7:8, 20); cf. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178b|2:178b]] (*SdTs*). Either Rabbi Shim’on is saying this about the *Shekhinah*, the source of the voice, or alternatively about himself. Another possibility is that Rabbi Shim’on identifies himself with the *Shekhinah*.
+    The phrase “a mouth speaking grandly” derives from Daniel’s dream-vision (7:8, 20); cf. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178b-c|2:178b]] (*SdTs*). Either Rabbi Shim’on is saying this about the *Shekhinah*, the source of the voice, or alternatively about himself. Another possibility is that Rabbi Shim’on identifies himself with the *Shekhinah*.
 
     On the souls of the righteous as ministering angels, see *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-100a|1:100a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-129b|129b]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-10a|10a]], [[Zohar 10.03 - Parashat Be-Reshit#^zh-19a|19a]], [[Zohar 10.04 - Parashat Noah#^zh-21a|21a]] (all *MhN*); *TZ, Haqdamah*, 16b.
 

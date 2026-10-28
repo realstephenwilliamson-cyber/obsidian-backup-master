@@ -23,7 +23,7 @@ lesson: 21
 
 ## 1
 
-The fourth chapter of *Sifra De’ Tzniuta* [states]: “*Atika Tamir V’satim* (*Atik* is hidden and concealed); ***Z’er Anpin*** is revealed and not revealed.” ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178a|Zohar II, 178a]])
+The fourth chapter of *Sifra De’ Tzniuta* [states]: “*Atika Tamir V’satim* (*Atik* is hidden and concealed); ***Z’er Anpin*** is revealed and not revealed.” ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178a-c|Zohar II, 178a]])
 
 “When you raise up the candles, [the seven candles shall shine toward the face of the menorah]” ([[Torah 36 - Beha'alotcha#^8-2|Numbers 8:2]]). Rashi explains: The flame shall rise up on its own.
 

@@ -37,7 +37,7 @@ to this teaching, the perceiver, who is supreme consciousness, is Fire, as it bu
 
 *[p. 154]* ^pg167
 
-is established on the level of the means of knowledge (pramāna) and is said to be the Sun. The means of knowledge is the subject's extroverted (bahirmukha) form, and so the perceiver there, in (the corresponding) degree, becomes its inner state. The means of knowledge is perception \[illegible\] and that does not arise anywhere without a basis, and so it must necessarily include the object of perception, and so that is also included here. He says that ‘it is the Sun’. The ‘Moon’ is the object of knowledge. As was said before: 
+is established on the level of the means of knowledge (pramāna) and is said to be the Sun. The means of knowledge is the subject's extroverted (bahirmukha) form, and so the perceiver there, in (the corresponding) degree, becomes its inner state. The means of knowledge is perception (jñāna), and that does not arise anywhere without a basis, and so it must necessarily include the object of perception, and so that is also included here. He says that ‘it is the Sun’. The ‘Moon’ is the object of knowledge. As was said before: 
 
 ‘(The wise) say that the Sun is the means of knowledge, while the Moon is said to be the object. (Although) they are both independent, they are not separate from one another. ”[^370] 
 
@@ -207,7 +207,7 @@ are twelve.”[^398]
 
 *[p. 162]* ^pg175
 
-According to this view, it is said that (consciousness) dawns twelve-fold in a different modality of practice (prakriyā) \[illegible\][^399] Thus, all (that is taught concerning this matter) is free of contradiction. 
+According to this view, it is said that (consciousness) dawns twelve-fold in a different modality of practice (prakriyā) also.[^399] Thus, all (that is taught concerning this matter) is free of contradiction. 
 
 Surely (one may then ask), as (consciousness) manifests (in this way) because such is its nature, then one must inevitably accept that (consciousness) possesses specific qualities; otherwise it would not be the many (things that are made manifest by it). So where (in what circumstance) and how (is consciousness qualified)? With this doubt in mind, he says: 
 
@@ -425,7 +425,7 @@ the rest.[^423]
 
 *[p. 178]* ^pg191
 
-‘The learned call the imperishable plane, (which is the universal) cause of emanation and withdrawal, with the word \[illegible\] because it dissolves (all) things (away) (laya), and because (it makes them) come forth \[illegible\][^424] ‘Just as’ the two ‘stream forth’, that is, (once united) they generate emanation, similarly, the two Wheels of sixteen and eight spokes ‘no doubt’ (do so also). ‘By the union’, which is (their) mutual intent on one another, that is, of the Moon (the Wheel of sixteen spokes), which is the object, and of the Fire (the Wheel of eight spokes), which is the subject, they ‘exude’ nectar, that is, the supreme principle of consciousness, which, because it is unmeasured by time, is without beginning or end.[^425] The meaning is that they flow out in that form. The intended sense is that consciousness itself, (initially) in a gross state (āśyānībhūtā),[^426] assuming the form of (all phenomena), such as (the experience) ‘blue’, having destroyed (vilāpya) that form and coming to rest in the subject through the development of the means of knowledge, manifests radiantly in its own form as one with the subject. This is the intended 
+‘The learned call the imperishable plane, (which is the universal) cause of emanation and withdrawal, with the word ‘liṅga’ because it dissolves (all) things (away) (laya), and because (it makes them) come forth (āgamana).’[^424] ‘Just as’ the two ‘stream forth’, that is, (once united) they generate emanation, similarly, the two Wheels of sixteen and eight spokes ‘no doubt’ (do so also). ‘By the union’, which is (their) mutual intent on one another, that is, of the Moon (the Wheel of sixteen spokes), which is the object, and of the Fire (the Wheel of eight spokes), which is the subject, they ‘exude’ nectar, that is, the supreme principle of consciousness, which, because it is unmeasured by time, is without beginning or end.[^425] The meaning is that they flow out in that form. The intended sense is that consciousness itself, (initially) in a gross state (āśyānībhūtā),[^426] assuming the form of (all phenomena), such as (the experience) ‘blue’, having destroyed (vilāpya) that form and coming to rest in the subject through the development of the means of knowledge, manifests radiantly in its own form as one with the subject. This is the intended 
 
 (meaning).[^427] 
 
@@ -452,7 +452,7 @@ Surely, (one may ask) the daily commerce of subject and object etc. is that of M
 taccakrapīdanād rātrau jyotir bhāty arkasomagam |
 tām dṛṣtvā paramāṁ jyotsnār kālajñṁānaṁ pravartate ॥ 132 ॥ 
 
-The light (of the subject), beyond the Sun (of the means of knowledge) and the Moon (of objectivity), shines by pressing these two Wheels (of sixteen and eight spokes embodied in the male and female organs, respectively,) at night (when the duality of Māyā prevails, during the prelude to union, prior to the dawning of subjectivity). Beholding that Supreme Light (as one’s own nature), the Knowledge of \[illegible\][^428] (which is the supreme reality) arises. (132) 
+The light (of the subject), beyond the Sun (of the means of knowledge) and the Moon (of objectivity), shines by pressing these two Wheels (of sixteen and eight spokes embodied in the male and female organs, respectively,) at night (when the duality of Māyā prevails, during the prelude to union, prior to the dawning of subjectivity). Beholding that Supreme Light (as one’s own nature), the Knowledge of Time[^428] (which is the supreme reality) arises. (132) 
 
 #### Viveka on 4.132
 
@@ -620,7 +620,7 @@ Now, because of the nectar that streams from the Moon within (the Wheel of the b
 
 #### Viveka on 4.137–138
 
-“Now he’ who is called the Goose, that is, Śiva, the Supreme Soul, who is ‘the All-pervasive Lord’, assuming a contracted (state of consciousness) by (the power) of His own (innate) freedom and, ‘subject to the changes (of phenomenal existence)’ because (he) is linked to the changes (vikāra)\* of birth and the rest (to which the body is subject),[^444] develops within the (the Wheel with) ‘five spokes’, that is, (the physical) body made of the five gross elements, because (he is) nourished by the nectar that flows from the Moon in the manner described previously. And so, intent (unmukha) as He is (in that condition) on ‘the secret wheels’ of the genitals (janmasthāna) and the rest, ‘he rushes (down)’ (towards them), with the desire to emit the universe. (The Wheels are made of) ‘three spokes and three juices’. In accord with the words (of the scripture): ‘the left one flows, transporting water, the middle one, sperm, and the one on the right, blood’, the three juices are water and the rest. Their number corresponds to that of (their) form as channels (nāḍī) and spokes, which are of those kinds. There are three spokes when separated, and six spokes in the couple in union \[illegible\][^445] Thus, they are ‘secret’, because they (should not be) 
+“Now he’ who is called the Goose, that is, Śiva, the Supreme Soul, who is ‘the All-pervasive Lord’, assuming a contracted (state of consciousness) by (the power) of His own (innate) freedom and, ‘subject to the changes (of phenomenal existence)’ because (he) is linked to the changes (vikāra)\* of birth and the rest (to which the body is subject),[^444] develops within the (the Wheel with) ‘five spokes’, that is, (the physical) body made of the five gross elements, because (he is) nourished by the nectar that flows from the Moon in the manner described previously. And so, intent (unmukha) as He is (in that condition) on ‘the secret wheels’ of the genitals (janmasthāna) and the rest, ‘he rushes (down)’ (towards them), with the desire to emit the universe. (The Wheels are made of) ‘three spokes and three juices’. In accord with the words (of the scripture): ‘the left one flows, transporting water, the middle one, sperm, and the one on the right, blood’, the three juices are water and the rest. Their number corresponds to that of (their) form as channels (nāḍī) and spokes, which are of those kinds. There are three spokes when separated, and six spokes in the couple in union (yāmala).[^445] Thus, they are ‘secret’, because they (should not be) 
 
 revealed.[^446] This is the meaning. 
 

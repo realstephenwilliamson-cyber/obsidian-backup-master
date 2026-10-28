@@ -191,13 +191,13 @@ vedāśrite caturhaste tribhāgaṁ sarvatas tyajet ॥ 10 ॥
 
 *[p. 71]* ^pg89
 
-bhāgaiḥ ṣodaśabhiḥ sarvar tat tat \[illegible\] vibhājayet | 
+bhāgaiḥ ṣodaśabhiḥ sarvar tat tat kṣetraṁ vibhājayet | 
 
 One should omit a third part on each side from a square (measuring) four handspans and, having done so, divide all the remaining area into sixteen squares (on each side).[^212] (10cd-11ab) 
 
 #### Viveka on 31.10–11
 
-‘Four handspans’ measure ninety-six finger-breadths. ʻA third part’ is thirty-two finger-breadths. ‘On each side’ means in the four directions. Thus, one should remove sixteen finger-breadths in each of directions. The meaning is that one should establish them (in reserve) for the doors etc. This is the meaning. By omitting a third part of a handspan, all the area \[illegible\] that remains, which is useful for the fashioning (vartanā) of the triple Trident that is about to be explained, should be divided into sixteen parts. The meaning is that 256 squares (measuring) four finger-breadths (each) should be fashioned. There are 576 squares in the entire area, which is divided twenty-four times, and so, by omitting four parts in each direction for the doors etc, 320 squares remain. This is the overall meaning.[^213] He begins to fashion (vartanā) the Trident there, (saying): 
+‘Four handspans’ measure ninety-six finger-breadths. ʻA third part’ is thirty-two finger-breadths. ‘On each side’ means in the four directions. Thus, one should remove sixteen finger-breadths in each of directions. The meaning is that one should establish them (in reserve) for the doors etc. This is the meaning. By omitting a third part of a handspan, all the area (kṣetra) that remains, which is useful for the fashioning (vartanā) of the triple Trident that is about to be explained, should be divided into sixteen parts. The meaning is that 256 squares (measuring) four finger-breadths (each) should be fashioned. There are 576 squares in the entire area, which is divided twenty-four times, and so, by omitting four parts in each direction for the doors etc, 320 squares remain. This is the overall meaning.[^213] He begins to fashion (vartanā) the Trident there, (saying): 
 
 The mandala of the Three Tridents described in the Trikasadbhāva.[^214] 
 
@@ -390,7 +390,7 @@ Having formed in this way the three tridents here, he says (the following) in or
 पदानामध चक्राणां व्योम्नां वा सप्तक भवेत् ॥ २८ ॥
 मिश्रितं वाथ सङ्कीर्ण समासव्यासभेदतः ।
 
-adho bhāgavivṛddhyāsya \[illegible\] vṛttacatuṣtayam |
+adho bhāgavivṛddhyāsya padmaṁ vṛttacatuṣtayam |
 tataś cakraṁ ṣodaśāraṁ dvādaśāraṁ dvidhātha tat ॥ 26 ॥
 madhye kuleśvarīsthānari vyoma vā tilakari ca vā |
 padma vātha ṣadarari vā viyaddvādaśakari ca vā I| 27 I|
@@ -447,7 +447,7 @@ Amongst these types, by altering the sequence of the (groups of) three etc., and
 ### TĀ 31.29
 
 ततः क्षत्रार्धमानेन क्षत्रं तत्राधिकं क्षिपेत् ॥ २९ ॥
-tataḥ kṣetrārdhamānena \[illegible\] tatrādhikaṁ kṣipet ॥ 29 ॥ 
+tataḥ kṣetrārdhamānena kṣetraṁ tatrādhikaṁ kṣipet ॥ 29 ॥ 
 
 Then one must plot an extra area there half the measure of the area 
 
@@ -486,7 +486,7 @@ It is said that (base of) the staff (of the Trident) there is (the width of) a s
 
 #### Viveka on 31.30–32
 
-As the breadth of the staff and the āmalasāra (is such, their extent) is said to be ʻa square’. Thus he says that their pervasion is ‘She who is the Goddess \[illegible\] (The bulb is) characterized as having ‘six sides’. (She) is ‘six deities’. As is said (in the Trikasadbhāva): 
+As the breadth of the staff and the āmalasāra (is such, their extent) is said to be ʻa square’. Thus he says that their pervasion is ‘She who is the Goddess Kuṇḍalinī’. (The bulb is) characterized as having ‘six sides’. (She) is ‘six deities’. As is said (in the Trikasadbhāva): 
 
 ‘Hāhārāvā (Sound of Raucous Laughter), Mahārāvā (Great Sound), Ghoraghoṣā (Fierce Sound), Bhayaṁkarīi (Frightening One), Pheṅkāriṇī (Cursing One), and Mahājvālā (Great Conflagration) are in the bulb, greedy for the six juices.’ 
 
@@ -632,7 +632,7 @@ Having thus established by the way that the mandala has an endless (number of va
 शूलयागाः षट् सहसखाण्येवं सार्धशतद्रयम् ।
 
 kim vātibahunoktena tritriśūlārasaptakāḥ ॥ 42 ॥
-śsūlayāgāḥ ṣat sahasrāny \[illegible\] sārdhaśatadvayam | 
+śsūlayāgāḥ ṣat sahasrāny evaṁ sārdhaśatadvayam | 
 
 Or what is the use of speaking much? The trident mandalas (Śūlayāga)[^238] with three tridents and seven spokes are six thousand. Such (is the number of) the two hundred and fifty (mandalas) mentioned previously 
 
@@ -679,7 +679,7 @@ That Goddess who is the supreme (parā) power, established as the one who transp
 
 [^242]: TĀ 31/39.
 
-[^243]: See above, 31/31. Concerning the name ‘kundalin? as meaning \[illegible\] who has an earring’ or is ‘coiled like an earring’, see Dyczkowski 2009: vol. 2, 4.
+[^243]: See above, 31/31. Concerning the name ‘kundalin? as meaning ‘one who has an earring’ or is ‘coiled like an earring’, see Dyczkowski 2009: vol. 2, 4.
 
 
 *[p. 87]* ^pg105
@@ -780,7 +780,7 @@ Another Form of the Trika Mandala According to the Trikahṛdaya चतुखि
 catustriśūlaṁ vā guptadandań yāgami samācaret |
 tatra tat pūjayet samyak sphuṭtaṁ kramacatuṣtayam ॥ 53 ॥ 
 
-Or else, one may worship the configuration of deities \[illegible\] of (a mandala consisting of) four tridents with the staff hidden (by one of them).[^250] 
+Or else, one may worship the configuration of deities (yāga) of (a mandala consisting of) four tridents with the staff hidden (by one of them).[^250] 
 
 [^249]: Sanderson (1986: 197) explains: ‘The guru further installs these phases (kramāḥ) in their fully elaborated form as the four separate sequences of \[Krama\] deities, those of projection, immersion and resorption on the Tridents of Parā, Parāparā and Aparā, respectively, and those of the Nameless in the centre, or else the fourth alone, containing the three by implication’. Sanderson points out that Abhinava supplies another example of the latter alternative above in 16/157. The additional projection of the Krama onto the Trika Trident, although unknown to the Mālinīvijaya, is Abhinava’s preferred form of the Trident and worship that takes places on it.
 [^250]: This is the fourth trident, which, in the preceding mandala, is partially covered by the stick.
@@ -1087,7 +1087,7 @@ hastāyāmari tadardhaṁ tu vistārād api tatsamam || 73 ॥
 dviguṇaṁ bāhyataḥ kuryāt tataḥ padmarni yathā śṛnu |
 ekaikabhāgamānāni kuryād vṛttāni vedavat ॥ 74 ॥ 
 
-[^282]The staff (drawn) in the other half of the field (measures) two handspans (in length), five (squares) of which are covered.[^283] The pure bulb (at the base of the shaft) \[illegible\] below that is six (finger-breadths) wide and four broad. Below that is the root, which is four fingers (wide) and should end in a sharp point. In the quarters of the first field (above), one should fashion four doors in the (four) directions that extend (altogether) for one handspan[^284] and half that (deep).[^285] Their breadth is the same as that. Externally double it.[^286] [^287]Then listen to how the lotus (is drawn in the middle). (First of all,) fashion circles (that number four) as do the Vedas, they measure each one square (more than the preceding one).[^288] (71cd-74) 
+[^282]The staff (drawn) in the other half of the field (measures) two handspans (in length), five (squares) of which are covered.[^283] The pure bulb (at the base of the shaft) (sāraka) below that is six (finger-breadths) wide and four broad. Below that is the root, which is four fingers (wide) and should end in a sharp point. In the quarters of the first field (above), one should fashion four doors in the (four) directions that extend (altogether) for one handspan[^284] and half that (deep).[^285] Their breadth is the same as that. Externally double it.[^286] [^287]Then listen to how the lotus (is drawn in the middle). (First of all,) fashion circles (that number four) as do the Vedas, they measure each one square (more than the preceding one).[^288] (71cd-74) 
 
 #### Viveka on 31.71–74
 

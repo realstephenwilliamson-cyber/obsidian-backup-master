@@ -38,7 +38,7 @@ catuṣkam anyat tenāṣtau difas tattadadhiṣthitāḥ |
 
 330\. The centre is the location of the officiant of the rite. He embodies the contracted state of consciousness, which in its subjective aspect is its light, and in its objective aspect, as the psychophysical organism, its apparent absence. It is from this centre and in relation to it that the directions arise
 
-331\. There is a play on words here. The word daksina may mean ‘right’ or ‘southern’ as well as ‘compliant’. Similarly, the word \[illegible\] may mean ‘left’ or ‘northern’ as well as ‘contrary’.
+331\. There is a play on words here. The word daksina may mean ‘right’ or ‘southern’ as well as ‘compliant’. Similarly, the word vāma may mean ‘left’ or ‘northern’ as well as ‘contrary’.
 
 332\. The word vamana means both ‘left’ and contrary. The ‘right’ is in consonance with light, that is, as more propense to the luminosity of its subjectivity. The ‘left’ is, on the contrary, facing away in the other direction, more propense to the darkness of objectivity, rather than the luminosity of the subject. Both are in between the strongly illuminated ‘east’, which is in front, and the heavily shrouded ‘west’, which is behind. So, the south is ‘somewhat’ illumined and the north is ‘somewhat’ darkened.
 
@@ -118,7 +118,7 @@ pātālavaktram adharam aprakāśatayā sthiteḥ |
 
 #### Viveka on 15.204–206
 
-45", that is, because the sole nature of {58 is the light (of consciousness), he is said to be the upper direction. Tatpuruṣa is the east (pūrva), because he spreads forth towards the light (of consciousness) (which is in front ~ pūrva — of him). Aghora is the south \[illegible\] because he is favourable to (and in accord with) (anukūla) the intensity of the light (of consciousness) that has flowed forth. Vāmadeva is contrary to that and so is the left (vāmā), that is, the northern (direction), which predominantly (consists of the) contact with the moon of the object. Sadyojāta is the western (direction) (paścimā), because he is turned away from the light (of consciousness and so is behind it ~ paścima). Again, (the face of the netherworlds) is the Picu’s Face 
+45", that is, because the sole nature of {58 is the light (of consciousness), he is said to be the upper direction. Tatpuruṣa is the east (pūrva), because he spreads forth towards the light (of consciousness) (which is in front ~ pūrva — of him). Aghora is the south (dakṣiṇā), because he is favourable to (and in accord with) (anukūla) the intensity of the light (of consciousness) that has flowed forth. Vāmadeva is contrary to that and so is the left (vāmā), that is, the northern (direction), which predominantly (consists of the) contact with the moon of the object. Sadyojāta is the western (direction) (paścimā), because he is turned away from the light (of consciousness and so is behind it ~ paścima). Again, (the face of the netherworlds) is the Picu’s Face 
 
 *[p. 128]* ^pg146
 
@@ -280,7 +280,7 @@ In same way, during an equinox, (the direction) from which (the sun) is visible 
 
 *[p. 132]* ^pg150
 
-(prāk). This is for them the east \[illegible\] as I have already explained in (the chapter dealing with the) Path (of the Worlds). (213-217ab) 
+(prāk). This is for them the east (pūrva), as I have already explained in (the chapter dealing with the) Path (of the Worlds). (213-217ab) 
 
 #### Viveka on 15.213–217
 
@@ -349,7 +349,7 @@ Directions in Relation to the Sacrificer किं वातिबहुना �
 kir vātibahunā yo ‘sau yaṣtā tatsahmukhāditaḥ ॥ 219 ॥
 diśo ‘pi pravibhajyante prāksavyottarapaścimāḥ | 
 
-What is the use of extensive (explanations)? The directions are divided into eastern, southern, northern and western in relation to the sacrificer \[illegible\] according to whether (a place is) in front of him (behind) and so on. (219cd-220ab) 
+What is the use of extensive (explanations)? The directions are divided into eastern, southern, northern and western in relation to the sacrificer (yaṣṭṛ), according to whether (a place is) in front of him (behind) and so on. (219cd-220ab) 
 
 #### Viveka on 15.219–220
 
@@ -467,7 +467,7 @@ direction, so that they may (each) bestow (their) appropriate (corresponding) fr
 साधकाश्वाससंबुद्धास्तत्तत्स्वेष्टफलप्रदाः ।
 
 sarvago ‘py anilo yadvad vyajanenopavījitaḥ ॥ 226 ॥
-prabuddhaḥ svāṁ \[illegible\] kuryād gharmanirnodanādikām ।
+prabuddhaḥ svāṁ kriyāṁ kuryād gharmanirnodanādikām ।
 tadvat sarvagatāḥ sarvā aindryadyāḥ śíaktayah sphuṭam || 227 |
 sādhakāśvāsasahbuddhās tattatsveṣtaphalapradāḥ | 
 
@@ -760,7 +760,7 @@ tenātra nyāsayogyo ‘sau bhagavān ratiśekharaḥ ॥ 243 ॥
 
 3\) (Then) the Three Principles (tritattva) are deposited on the back of that (pṛṣthe), in (their) three domains.” 
 
-385\. In order to understand this passage, one should observe the configuration of the mandala “in the vital breath, the mind and the void’, concerning which see below, 15/295cd-312. The three pideen, Parā, Parāparā and Aparā are visualized in three lotuses situated on the three prongs of Śiva’s trident. They sit on their respective partners, Bhairavasadbhāva, Ratiśckhara and Navātman. The inner, mental rite of worship is heralded, as we shall see, by a sixfold deposition (ṣodhānyāsa), but it can equally well begin with meditation on Navātman or Ratiśekhara. Abhinavagupta mentions the first, but does not thereby exclude the others. Concerning this rite, see Sanderson, 1986, pp. 169-207. Verses 239cd-246 are an interpretation of MV 8/35, cited below (15/247), along with other verses concerning the same subject. The text of this verse is as follows: mūrtiḥ sṛsṭis tritattvaṁ ca aṣṭau mūrtyaṅgasaṁyutāḥ | śivaḥ sāṁgaś ca ṣodhaiva nyāsaḥ sariprakīrtitaḥ | “The sixfold deposition is said to be that of the sacred body (mārti), emanation, the eight, endowed with the limbs of the sacred body and Śiva, along with (his) limbs.’ According to Abhinava’s interpretation, based on the authority of his teacher Śambhunātha (sce below, 15/245cd-246), the ‘sacred body in this case is the god Navātman (‘The Ninefold One’), the partner of Aparā, whose phonemic form is R, H, R, KṢ, M, L, V, Y, ŪM (see below, 30/1164-1290 Navātman mantra RHRKṢMLVYÜŪM; MV 8/21cd-23ab). Emanation \[illegible\] is Mātṛkā. The three principles are Siva, Vidya and Ātman. The eight are the eight gods Aghora, Paramaghora, Ghorarūpa, Ghorānana, Bhima, Bhīṣaṇa, Vamana, and Pivana (MV 1/19cd-20ab) (concerning the Eight Bhairavas, see note 1,802; 8,1029; 15,391; 29,127; and 30,61). Śiva is the Mantra deity Bhairavasadbhāva, the partner of Parā, whose phonemic form is JH, KṢ, H, ŪM (see below, 30/16cd-17, Bhairavasadbhāva mantra - JHKṢHŪM, MV 8/33-34). The expression ‘sāṅga’ ‘endowed with limbs’, denotes the main deity. In this case, the mantra deity Ratiśckhara, who is the partner of Parāparā, and whose phonemic form is R, Y, L, V, ŪM (see below, 30/10cd-1 lab and MV 9/35). According to this interpretation, it seems that the expression mūrtyaṅgasaṁyutāḥ is understood here to mean ‘united with the limbs of the sacred body’, which refers, according to Jayaratha, to the ‘sacred body’ of Śivasadbāva (i.e., Bhairavasadbhāva). The expression sāṅgaḥ in this verse does not refer to Siva (Bhairavasadbhāva), but is independent, i.e., “the one endowed with limbs’. Another view is that the ‘three principles’ are the mantra deities, Bhairavasadbhāva, Ratiśekhara and Navātman. The eight, that is, the gods Aghora etc., are as before ‘endowed with the limbs of the sacred body’, that is, with the limbs of Navātman. The sixth element is Śiva, that is, Bhairavasadbhāva, ‘along with his limbs’. This ingenious interpretation (that is, separating sāṅgaḥ — 'along with his limbs’ — from the preceding sivaḥ) allows Abhinavagupta to leave the sixth, the most important moment or place of the deposition, free to be occupied by any of the three Bhairavas, as the meditator chooses. Indeed, as we shall see, their places are interchangeable. If Navātman is the first deposition and Śiva (= Bhairavasadbhāva), the fifth, Ratiśekhara is the sixth. Navātman and Ratiśekhara can change places, in which case Ratiśekhara comes to occupy the first place, and Navātman the sixth. If one then wishes to worship Bhairavasadbhāva, Ratiśekhara will take the fifth place, previously occupied by Bhairavasadbhāva.
+385\. In order to understand this passage, one should observe the configuration of the mandala “in the vital breath, the mind and the void’, concerning which see below, 15/295cd-312. The three pideen, Parā, Parāparā and Aparā are visualized in three lotuses situated on the three prongs of Śiva’s trident. They sit on their respective partners, Bhairavasadbhāva, Ratiśckhara and Navātman. The inner, mental rite of worship is heralded, as we shall see, by a sixfold deposition (ṣodhānyāsa), but it can equally well begin with meditation on Navātman or Ratiśekhara. Abhinavagupta mentions the first, but does not thereby exclude the others. Concerning this rite, see Sanderson, 1986, pp. 169-207. Verses 239cd-246 are an interpretation of MV 8/35, cited below (15/247), along with other verses concerning the same subject. The text of this verse is as follows: mūrtiḥ sṛsṭis tritattvaṁ ca aṣṭau mūrtyaṅgasaṁyutāḥ | śivaḥ sāṁgaś ca ṣodhaiva nyāsaḥ sariprakīrtitaḥ | “The sixfold deposition is said to be that of the sacred body (mārti), emanation, the eight, endowed with the limbs of the sacred body and Śiva, along with (his) limbs.’ According to Abhinava’s interpretation, based on the authority of his teacher Śambhunātha (sce below, 15/245cd-246), the ‘sacred body in this case is the god Navātman (‘The Ninefold One’), the partner of Aparā, whose phonemic form is R, H, R, KṢ, M, L, V, Y, ŪM (see below, 30/1164-1290 Navātman mantra RHRKṢMLVYÜŪM; MV 8/21cd-23ab). Emanation (sṛṣṭi) is Mātṛkā. The three principles are Siva, Vidya and Ātman. The eight are the eight gods Aghora, Paramaghora, Ghorarūpa, Ghorānana, Bhima, Bhīṣaṇa, Vamana, and Pivana (MV 1/19cd-20ab) (concerning the Eight Bhairavas, see note 1,802; 8,1029; 15,391; 29,127; and 30,61). Śiva is the Mantra deity Bhairavasadbhāva, the partner of Parā, whose phonemic form is JH, KṢ, H, ŪM (see below, 30/16cd-17, Bhairavasadbhāva mantra - JHKṢHŪM, MV 8/33-34). The expression ‘sāṅga’ ‘endowed with limbs’, denotes the main deity. In this case, the mantra deity Ratiśckhara, who is the partner of Parāparā, and whose phonemic form is R, Y, L, V, ŪM (see below, 30/10cd-1 lab and MV 9/35). According to this interpretation, it seems that the expression mūrtyaṅgasaṁyutāḥ is understood here to mean ‘united with the limbs of the sacred body’, which refers, according to Jayaratha, to the ‘sacred body’ of Śivasadbāva (i.e., Bhairavasadbhāva). The expression sāṅgaḥ in this verse does not refer to Siva (Bhairavasadbhāva), but is independent, i.e., “the one endowed with limbs’. Another view is that the ‘three principles’ are the mantra deities, Bhairavasadbhāva, Ratiśekhara and Navātman. The eight, that is, the gods Aghora etc., are as before ‘endowed with the limbs of the sacred body’, that is, with the limbs of Navātman. The sixth element is Śiva, that is, Bhairavasadbhāva, ‘along with his limbs’. This ingenious interpretation (that is, separating sāṅgaḥ — 'along with his limbs’ — from the preceding sivaḥ) allows Abhinavagupta to leave the sixth, the most important moment or place of the deposition, free to be occupied by any of the three Bhairavas, as the meditator chooses. Indeed, as we shall see, their places are interchangeable. If Navātman is the first deposition and Śiva (= Bhairavasadbhāva), the fifth, Ratiśekhara is the sixth. Navātman and Ratiśekhara can change places, in which case Ratiśekhara comes to occupy the first place, and Navātman the sixth. If one then wishes to worship Bhairavasadbhāva, Ratiśekhara will take the fifth place, previously occupied by Bhairavasadbhāva.
 
 386\. See MV 8/24cd-26ab. There we are told that the limbs are 1) Heart (Hṛdaya) / Upper Head: KAM, 2) Head (siras) / Eastern Head: ṢAM, 3) Crest (sikhā) / Southern Head: YAM, 4) Armour (kavaca) / Westem Head: RAM, 5) Eye (netra) / Northem Head: VAM, 6) Weapon (astra) /Lower Head: LAM.
 
@@ -779,7 +779,7 @@ tenātra nyāsayogyo ‘sau bhagavān ratiśekharaḥ ॥ 243 ॥
 
 #### Viveka on 15.239–244
 
-(By saying that it) ‘is the emergence of the metaphysical principles (tattvodaya)’, (he has) stated the fruit of the deposition. ‘The three principles’ are Śiva, Śakti and the (individual) Self (ātman). Otherwise, according to this school (mata), the venerable Ratiśekhara would not be omitted in the procedure of deposition (to make way for Navātman). ‘On the back of that \[illegible\] means on top of the deposition of Mātṛkā. ‘In (their) three domains’ means (that the three principles) are present in (their) three fields, which are the topknot, heart and feet (for Śiva, Śakti and the Self, respectively). Again, according to the view \[illegible\] here (in the Maālinīvijayottara, where it says): ‘conjoined to the limbs of the ‘icon’ ...’? The meaning of the ‘icon’ is the ‘being’ (sattā), that is, essence (sadbhāva) (of the deity, who in this case is Navātman). (Or else Ratiśekhara should be deposited) ‘above’ the (previous) group of five depositions (in the place of Navātman). Surely (one may ask), it is said that that which is to be attended on as the main (deity) should be placed in the deposition which is above (the others). So how is it that now it said here that Ratiśekhara should be deposited there? With this doubt in mind, he says, ʻif the main deity is Navātmā, they exchange places’. Thus, one should place Ratiśekhara in the place of the first deposition (i.e., Navātman) and Navātman in the sixth. 
+(By saying that it) ‘is the emergence of the metaphysical principles (tattvodaya)’, (he has) stated the fruit of the deposition. ‘The three principles’ are Śiva, Śakti and the (individual) Self (ātman). Otherwise, according to this school (mata), the venerable Ratiśekhara would not be omitted in the procedure of deposition (to make way for Navātman). ‘On the back of that \[illegible\] means on top of the deposition of Mātṛkā. ‘In (their) three domains’ means (that the three principles) are present in (their) three fields, which are the topknot, heart and feet (for Śiva, Śakti and the Self, respectively). Again, according to the view (pakṣa) here (in the Maālinīvijayottara, where it says): ‘conjoined to the limbs of the ‘icon’ ...’? The meaning of the ‘icon’ is the ‘being’ (sattā), that is, essence (sadbhāva) (of the deity, who in this case is Navātman). (Or else Ratiśekhara should be deposited) ‘above’ the (previous) group of five depositions (in the place of Navātman). Surely (one may ask), it is said that that which is to be attended on as the main (deity) should be placed in the deposition which is above (the others). So how is it that now it said here that Ratiśekhara should be deposited there? With this doubt in mind, he says, ʻif the main deity is Navātmā, they exchange places’. Thus, one should place Ratiśekhara in the place of the first deposition (i.e., Navātman) and Navātman in the sixth. 
 
 ### TĀ 15.244–245
 
@@ -832,7 +832,7 @@ The Sixfold Śāmbhava Deposition
 मूर्तिः सृष्टिखितत्वं चेत्यष्टौ मूयङ्गसंयुताः ।
 शिवः सादश विज्ञेयो न्यासः षोढा प्रकीर्तितः । २४७ ॥
 
-[^393]: According to this interpretation, the translation of MV 8/35 would be as \[illegible\] deposition according to the tradition is sixfold, consisting of mārti (= Navātman), emi Mātṛkā), the three principles, the eight conjoined to the ‘icon’, Siva (= Bhairavasadbhāva), and (a sixth being) with his limbs.”
+[^393]: According to this interpretation, the translation of MV 8/35 would be as follows: ‘The deposition according to the tradition is sixfold, consisting of mārti (= Navātman), emi Mātṛkā), the three principles, the eight conjoined to the ‘icon’, Siva (= Bhairavasadbhāva), and (a sixth being) with his limbs.”
 [^394]: This Lakṣmaṇagupta, who is leamed in Trika ritual and mantra, may or may not be the Lakṣmanṇagupta who was Abhinava’s teacher of Pratyabhijñā (see above 1/11 and below 37/61). He is mentioned again below in TĀv ad 30/15-16ab, where he is presented by Jayaratha as holding a different view concerning the details of a Trika mantra.
 
 *[p. 149]* ^pg167
@@ -860,7 +860,7 @@ The Sixfold Śākta Deposition
 ततः कवक्त्रकण्ठेषु ह्नाभीगुह्य ऊरुत : ॥ २४९ ॥
 जानुपदेऽप्यघोयीदयं ततो विद्याङ्गपञ्चकम् |
 
-[^395]: TĀ 15/247-248ab quotes MV 8/35-36ab with variants, but without change of meaning. 247ab is the same as MV 8/35ab with no variants. In place of TĀ 15/247cd: sivaḥ sāṁgaś ca vijñeyo nyāsaḥ ṣodhā prakīrtitaḥ ~ \[illegible\] should (also) know Śiva with his limbs ~ this is said to be the sixfold deposition’ MV 8/35cd reads śivaḥ sāṅgaś ca ṣodhaiva nyāsaḥ sahiprakīrtitaḥ — ‘and Śiva with his limbs - this is said to be the sixfold deposition’. In place of TĀ 15/248ab: asyopari tataḥ sākta nyāsaṁ kuryāc ca ṣadvidham — ‘one should then perform the sixfold deposition of energy above it.’ MV 8/36ab reads: asyopari tataḥ śāktaṁ kuryān nyāsaṁ yathā śṛnu — ‘then one should then perform the deposition of energy above it; listen to how (that is done).’ It is translated here in a different way, in accord with Lakṣmaṇagupta’s interpretation. The energies should be deposited above the eight preceding principles. As Abhinava says in his Tantrasāra: ‘According to this school, one must, above all, sacrifice to the energies. The teachers have said that the venerable Navātman etc., function in relation to them as their foundation, that is, the underlying reality, and that one must worship only the energies.” (TSā pp. 140-141)
+[^395]: TĀ 15/247-248ab quotes MV 8/35-36ab with variants, but without change of meaning. 247ab is the same as MV 8/35ab with no variants. In place of TĀ 15/247cd: sivaḥ sāṁgaś ca vijñeyo nyāsaḥ ṣodhā prakīrtitaḥ ~ ‘one should (also) know Śiva with his limbs ~ this is said to be the sixfold deposition’ MV 8/35cd reads śivaḥ sāṅgaś ca ṣodhaiva nyāsaḥ sahiprakīrtitaḥ — ‘and Śiva with his limbs - this is said to be the sixfold deposition’. In place of TĀ 15/248ab: asyopari tataḥ sākta nyāsaṁ kuryāc ca ṣadvidham — ‘one should then perform the sixfold deposition of energy above it.’ MV 8/36ab reads: asyopari tataḥ śāktaṁ kuryān nyāsaṁ yathā śṛnu — ‘then one should then perform the deposition of energy above it; listen to how (that is done).’ It is translated here in a different way, in accord with Lakṣmaṇagupta’s interpretation. The energies should be deposited above the eight preceding principles. As Abhinava says in his Tantrasāra: ‘According to this school, one must, above all, sacrifice to the energies. The teachers have said that the venerable Navātman etc., function in relation to them as their foundation, that is, the underlying reality, and that one must worship only the energies.” (TSā pp. 140-141)
 [^396]: See below 30/37cd-41cd for the Five Vidyāṁgas. See above 15/49-51ab, note 114.
 
 *[p. 150]* ^pg168
@@ -875,7 +875,7 @@ jānupāde ‘py aghoryādyaṁ tato vidyāṁgapañcakam |
 tatas tvāvāhayec chaktiń mātṛsadbhāvarūpinīm ॥ 250 ॥
 yogeśvarīṁi parāṁ pūrṇām kālasaṁkarṣiṇīṁ dhruvām | 
 
-1\) (One should) first of all deposit Parāparā with (her limbs and) faces (with Navātman, the Icon), 2) then Mālinī (onto emission), and then 3) the triad Parā and the rest (onto the Three Principles)” into the topknot, heart and feet, respectively. 4) Then (above the eight, Aghora and the rest, one should deposit the eight goddesses) beginning with + \[illegible\] onto the head, mouth, throat, heart, naval, genitals, thighs and feet,” and (then) 5) the five limbs of the Vidyā (vidyāṁga) (above the corresponding limbs of the Icon). 6) Then (finally, the officiant) should invoke (āvāhayet) (Śiva’s) power in the form of Mātṛsadbhāva,“' who, (perfectly) complete (pūrnā) and (immutably) stabile (dhruvā), is Parā, the Mistress of Yogis \[illegible\] (of Trika), and Kālasaṁkarṣiṇī (the Destructress of Time)“ (of the Kālīkrama). (248-251ab) 
+1\) (One should) first of all deposit Parāparā with (her limbs and) faces (with Navātman, the Icon), 2) then Mālinī (onto emission), and then 3) the triad Parā and the rest (onto the Three Principles)” into the topknot, heart and feet, respectively. 4) Then (above the eight, Aghora and the rest, one should deposit the eight goddesses) beginning with + \[illegible\] onto the head, mouth, throat, heart, naval, genitals, thighs and feet,” and (then) 5) the five limbs of the Vidyā (vidyāṁga) (above the corresponding limbs of the Icon). 6) Then (finally, the officiant) should invoke (āvāhayet) (Śiva’s) power in the form of Mātṛsadbhāva,“' who, (perfectly) complete (pūrnā) and (immutably) stabile (dhruvā), is Parā, the Mistress of Yogis (yogīśvarī) (of Trika), and Kālasaṁkarṣiṇī (the Destructress of Time)“ (of the Kālīkrama). (248-251ab) 
 
 #### Viveka on 15.248–251
 
@@ -959,7 +959,7 @@ Thus, it is proclaimed in both the Sāraśāstra (Trikasāra) and the Yāmala of
 
 ‘It is proclaimed’ by the Lord Śrīkanṇthanātha. (This) goddess (i.e., “> As was said previously, Kālasaṁkarṣaṇī) abides as the most excellent (of \[illegible\] with the same intention: 
 
-‘The reality (tattva) that is higher than supreme (transcendence) and lower (immanence) is said to be this Goddess. That is the Essence \[illegible\] and that is the Heart, the supreme emission (visarga), which is the Lord.“ In (the section of) the Devīyāmala dealing with the Great \[illegible\] Sacrifice (yāga), She is called Kālakarṣiṇī (the Attractress of Time), who is situated on the head of the venerable Parā (the Supreme). In the Mālinīvijaya (śrīpūrvaśāstra), she is described as Mātṛsadbhāva (the Essential Being of the Mothers). \*"\* 
+‘The reality (tattva) that is higher than supreme (transcendence) and lower (immanence) is said to be this Goddess. That is the Essence (sāra) and that is the Heart, the supreme emission (visarga), which is the Lord.“ In (the section of) the Devīyāmala dealing with the Great Ḍāmara Sacrifice (yāga), She is called Kālakarṣiṇī (the Attractress of Time), who is situated on the head of the venerable Parā (the Supreme). In the Mālinīvijaya (śrīpūrvaśāstra), she is described as Mātṛsadbhāva (the Essential Being of the Mothers). \*"\* 
 
 ‘The deposition of power is also sixfold’. Thus’ etc. (she is), as pure, unlimited consciousness alone, the Supreme Goddess who, in order (for her to) to be taught separately, (this) deposition of power is also\* said to be sixfold. This is the (prose order and) syntax (saṁbandha). The Icon (here) is Mālinī as the power Parāparā, because she holds that office (rātsthyāt).\*" 
 
@@ -1032,7 +1032,7 @@ The sixfold deposition (in this case) is said to be one in which (the Mantras de
 
 There are some Mantras (taught) here in other Tantras that are divided up, in accord with the (threefold) division, into Śāmbhava (Śākta and Āṇava).“ As they too possess the (same) vitality (of Mantra), they should also be deposited in the (same) sequence taught (here). ‘However’, wherever and whatever ‘Mantra is to be invoked’ as the object of veneration (upāsya), it should be placed in the sixth place, in such a way that (this deposition) may be the sixfold deposition taught everywhere in the scripture, and bestow each (of the practitioner’s) desired fruits. As was said previously with the (same) intended sense: 
 
-‘Thus, even if one has fallen \[illegible\] from the ritual procedure (vidhi), (its) vitality (vīrya) and (even its) form (svarūpa), by repeating the deposition again with this (Mālinī), the Mantras that have (already) been deposited are fully completed, and bestow (their) fruits.” 
+‘Thus, even if one has fallen (bhraṣṭa) from the ritual procedure (vidhi), (its) vitality (vīrya) and (even its) form (svarūpa), by repeating the deposition again with this (Mālinī), the Mantras that have (already) been deposited are fully completed, and bestow (their) fruits.” 
 
 418\. After a brief digression from 251cd to 256 to accommodate the worship of Kālasaṁkarṣṣiṇī with and as Parā, Abhinava returns to his presentation of chapter eight of the Mālinīvijayottara and its procedure. Thus verses 257-258 are almost literally MV 8/47-48, which say: “This deposition is also considered in the same way to be five-fold. (It is performed with) as many kinds (of Mantras) as denote Siva, (His) Power and the individual soul. However, (one should take care) that wherever the (mantra) which is be invoked (happens to be), it is (present) along with (its) ixth (deposition). This is said everywhere (in the scriptures of all schools) to be a sixfold (deposition).
 
@@ -1152,7 +1152,7 @@ He (now) logically accounts for (their) absence of awareness of the ultimate rea
 
 न खल्वेष शिवः शान्तो नाम कशिद्रिभदवान् ॥ २६४ ॥।
 सर्वेतराध्वव्यावृत्तो घटतुल्योऽस्ति कुत्रचित् । |
-na khalv \[illegible\] śivaḥ śānto nāma kaścid vibhedavān ॥ 264 ॥ sarvetarādhvavyāvṛtto ghaṭatulyo “sti kutracit | 
+na khalv eṣa śivaḥ śānto nāma kaścid vibhedavān ॥ 264 ॥ sarvetarādhvavyāvṛtto ghaṭatulyo “sti kutracit | 
 
 [^429]: Above, 15/238-239a.
 [^430]: Read vidus te for vidus ta.
@@ -1172,7 +1172,7 @@ Surely (one may ask), if Śiva is not such, then how is He? With this doubt in m
 mahāprakāśarūpā hi yeyaṁ saṁvid vijṛmbhate ॥ 265 ||
 sā śivaḥ śivataivāsya vaiśvarūpyāvabhāsitā | 
 
-This consciousness, which is the Great Light and is (perpetually) expanding, is Śiva.\*”? (His) Śiva nature \[illegible\] itself is His manifestation as all things. (265cd-266ab) 
+This consciousness, which is the Great Light and is (perpetually) expanding, is Śiva.\*”? (His) Śiva nature (śivatā) itself is His manifestation as all things. (265cd-266ab) 
 
 #### Viveka on 15.265–266
 
@@ -1350,7 +1350,7 @@ Thus, he concludes that it is logically sound to maintain (yukta) that Śiva-nat
 tataḥ saṁsārabhāgīyatathāniścayaśātinīm ॥ 274 ॥
 nityādiniścayadvārām \[illegible\] sthitińn śrayet | 
 
-Thus, one should abide in a state (of awareness) free of thought constructs \[illegible\] the means to which is the conviction of (one’s own) eternal nature and the like, that destroys that (previous opposite) conviction, which is a part of transmigratory existence (saṁsāra). (274cd-275ab) 
+Thus, one should abide in a state (of awareness) free of thought constructs (vikalpa), the means to which is the conviction of (one’s own) eternal nature and the like, that destroys that (previous opposite) conviction, which is a part of transmigratory existence (saṁsāra). (274cd-275ab) 
 
 #### Viveka on 15.274–275
 

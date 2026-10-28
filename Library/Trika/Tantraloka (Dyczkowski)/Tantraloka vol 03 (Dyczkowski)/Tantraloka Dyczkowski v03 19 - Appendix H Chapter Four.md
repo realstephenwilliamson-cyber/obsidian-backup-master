@@ -67,7 +67,7 @@ vīryaṁ tasmād deha eva mahāpīthe (-pītha) samudgatam (-taḥ) | 8 ॥
 
 The vitality (vīrya) which is the energy (mahat) generated from the oneness (sāmarasya) of the expansion of both Śiva and Śakti has arisen within (my) body, the Great Seat (of divine consciousness). (8) 
 
-ādyasaṁivitsamullāsaḥ (-sa) \[illegible\] \[illegible\] (pīyas) kṛtāspadaḥ (-dā) ।
+ādyasaṁivitsamullāsaḥ (-sa) pīṭhe pīṭhe (pīyas) kṛtāspadaḥ (-dā) ।
 anantaśakticakraughasvāminī tatra mokṣadā (mokṣayam) ॥ 9 ॥ 
 
 The mistress of the flux of the Wheel of Endless Power bestows freedom, in whichever of the sacred seats the primordial outpouring of consciousness takes place. (9) 
@@ -103,7 +103,7 @@ yo
 ‘dhyuṣtakalanodrekasvabhāvaḥ (yonudhyuṣtakalodrekasvabhāva) praṇavābhidhaḥ |
 pīthādhipas tam evāharṁṁ nāmāmy (nanāsy) āgamasiddhaye ॥ 15 ॥ 
 
-I salute the Lord of the Sacred Seat to attain the teaching \[illegible\] \[illegible\] who is called (praṇava), the sacred OM, whose inner nature is exalted by virtue of the activity (kalanā) of (Kunṇdaliṇī, the energy) in three folds and one half (adhyuṣṭa), He who greedily consumes the unfolding perception of emission (visarga), persistence and withdrawal, and who is intent on generating the Great Light of the Inexplicable. (14-15) 
+I salute the Lord of the Sacred Seat to attain the teaching (āgama), He who is called (praṇava), the sacred OM, whose inner nature is exalted by virtue of the activity (kalanā) of (Kunṇdaliṇī, the energy) in three folds and one half (adhyuṣṭa), He who greedily consumes the unfolding perception of emission (visarga), persistence and withdrawal, and who is intent on generating the Great Light of the Inexplicable. (14-15) 
 
 The Cremation Ground 
 
@@ -387,7 +387,7 @@ visargasahitā bhānti parāvāggarbhaniṣthitāḥ (-vāgarbha-) |
 
 The sixteen vowels, their energies completely tranquil, shine along with (the energy of) emission (visarga), firmly fixed in the womb of Supreme Speech. (69cd-70ab) 
 
-varṇabhedakramenetthaṁ samāśrityeha \[illegible\] adhaḥ || 70 || 
+varṇabhedakramenetthaṁ samāśrityeha tān adhaḥ || 70 || 
 
 *[p. 497]* ^pg510
 
@@ -537,9 +537,9 @@ intent on devouring (the duality of) the four-fold manifestation of Speech, that
 yāsparśāsparśagagane \[illegible\] nirniketanā |
 sarvāvaraṇanirmuktā mudrā sā khecarī smṛtā ॥ 102 ॥ 
 
-The seal that, free of all obscuring coverings and without abode (nirniketanā), moves in the Expanse of No Touch (asparśagagana) and is (herself) Touch \[illegible\] is said to be Khecarī. (102) 
+The seal that, free of all obscuring coverings and without abode (nirniketanā), moves in the Expanse of No Touch (asparśagagana) and is (herself) Touch (sparśā), is said to be Khecarī. (102) 
 
-tadillekhaiva (-kheva) \[illegible\] vyomni yāntī sarvojjhite pade (game) |
+tadillekhaiva (-kheva) yā vyomni yāntī sarvojjhite pade (game) |
 svaprakāśavikāsaikarūpā sā khecarī smṛtā ॥ 103 ॥ 
 
 Khecarī is said to be the lightning flash that travels through the Sky (of Consciousness), the plane free of all things, her sole nature the expansion of her own innate light (svaprakāśa). (103) 
@@ -836,7 +836,7 @@ mahāvratadharo yas tarn vande ‘haṁ paradhāmagam || 156 ॥
 5\) Then I salute the venerable Cakrabhānu, teacher of the Devatānaya (Teachings concerning the Deities) who, observing the Great Vow (mahāvrata) (of a Kāpālika), has attained the supreme abode. (156) 
 
 srīmadīśānikākhyā yā pañcamudrāvibhūṣitā ।
-akramakramasantānakovidā (-santānākovidān) \[illegible\] namāmy aham || 157 || 
+akramakramasantānakovidā (-santānākovidān) tāṁ namāmy aham || 157 || 
 
 6\) I salute the venerable one called Īśānikā, she who is adorned with the five insignias (of a Kāpālika) and is well versed in the tradition of the Krama without stages (akrama). (157) 
 
@@ -1083,7 +1083,7 @@ itthamekādaśavidhaḥ saṁvidullāsavistaraḥ |
 
 tasyaiva bhedavibhavagrasanāya samutthitaḥ ॥ 207 ॥ 
 
-The ten-fold expansion of subject and object, along with the arising of the resonance (nāda of consciousness) which is one in nature with (the process of) reversal \[illegible\] in this way constitutes the eleven-fold expanse of the outpouring of consciousness, manifest to consume the energy of its own duality (bheda). (206-207) 
+The ten-fold expansion of subject and object, along with the arising of the resonance (nāda of consciousness) which is one in nature with (the process of) reversal (pratyāvṛtti), in this way constitutes the eleven-fold expanse of the outpouring of consciousness, manifest to consume the energy of its own duality (bheda). (206-207) 
 
 mahābhakṣādirūpiṇnyo niśitā dīptayogagāḥ (-māḥ) |
 yās tā eveha saṁṁhāre (-ra) sahasā bhānti nityaśaḥ ॥ 208 ॥ 
@@ -1302,7 +1302,7 @@ sarvatrāvasthitaḥ vande vācātfītam anāmayam || 249 ||
 
 (This transcendent reality) is the (all-encompassing) activity of the great expanse (of consciousness mahāvyomavṛtti), which is not an object of perception and has no (phenomenal) foundation. Unobscured and unborn, it is the (one) Sacred Seat of the Goddess and is called Kundalini (adhyuṣṭa). 1 praise that omnipresent reality which, free of imperfections and beyond speech, is free of (extrinsic) links (and contemplation (saṁdhāna) and inaction (nihspanda) \* \* \*, (248-249) 
 
-yady apy \[illegible\] mukhāmnāyayuktyā samyak (samyaṁ) nirūpitaḥ |
+yady apy ayaṁ mukhāmnāyayuktyā samyak (samyaṁ) nirūpitaḥ |
 akramakramasadbhāvasamgrahasyaikanirbharaḥ (ańikra( ?)makra-) ॥ 250 ॥
 tathāpy etat samuttīrṇaṁ (samuttīrṇā) vastu vaktuṁ na pāryate |
 samayakṣatibhīrutvāt (-tvā) vijñeyaṁ guruvaktrataḥ ॥ 251 ॥ 

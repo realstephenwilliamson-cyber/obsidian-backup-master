@@ -25,7 +25,7 @@ lesson: 2
 
 “God said to Moshe, ‘*Emor El HaKohanim* (Speak to the priests), the sons of Aharon, and say to them: Let no [priest] defile himself by [contact with] the dead among his people.’” ([[Torah 31 - Emor#^21-1|Leviticus 21:1]])
 
-In *Siphra DeTzneuta* we find: From *Nukva DePardaska* the breath of life is drawn to Mashiach ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a|Zohar II, 177a]]).
+In *Siphra DeTzneuta* we find: From *Nukva DePardaska* the breath of life is drawn to Mashiach ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a-c|Zohar II, 177a]]).
 
 For the basic weapon of Mashiach is prayer. This is the aspect of *ChoTeM* (the nose), as is written ([[Isaiah 48#^48-9|Isaiah 48:9]]), “For My praise, *eChToM* (I will restrain My anger) from you.” [Mashiach’s] main vitality is from [the nose]. All the wars he will wage, and all his conquests, will be from there, as is written ([[Isaiah 11#^11-3|Isaiah 11:3]]), “He shall breathe of the fear of God.” This is the aspect of *chotem* .
 

@@ -26,7 +26,7 @@ We have seen that the Kālīkrama, also called Kālīkula, is well known to the 
 
 along 
 
-with their consorts and the spiritual descendants of Matsyendranātha as a prelude to the Kula ritual described by Abhinava in Chapter Twenty-nine of the Tantrāloka. A major source of this ritual, called Ādiyāga, is the Mādhavakula, that is, the fourth \[illegible\] of the Jayadrathayāmala. The relevant passage is translated in an Appendix to Chapter Twenty-nine. There is no mention there, or in any other parts of the Jayadrathayāmala, of Matsyendranātha and associates. Even so, Abhinava begins his version of the rite with the worship of the Gurumandala of the four Yuganāthas, thus conforming the procedure of the Ādiyāga taught in the Mādhavakula to the later Kaula rites that considered their first teacher to be Matsyendranātha. How far this was Abhinava’s synthesis, or whether he was drawing from Trika Tantras is not possible to say. None of the three that survive teach Ādiyāga, nor is the Trika they teach linked to the Krama, thus rendering their Kaulism weak. 
+with their consorts and the spiritual descendants of Matsyendranātha as a prelude to the Kula ritual described by Abhinava in Chapter Twenty-nine of the Tantrāloka. A major source of this ritual, called Ādiyāga, is the Mādhavakula, that is, the fourth ṣaṭka of the Jayadrathayāmala. The relevant passage is translated in an Appendix to Chapter Twenty-nine. There is no mention there, or in any other parts of the Jayadrathayāmala, of Matsyendranātha and associates. Even so, Abhinava begins his version of the rite with the worship of the Gurumandala of the four Yuganāthas, thus conforming the procedure of the Ādiyāga taught in the Mādhavakula to the later Kaula rites that considered their first teacher to be Matsyendranātha. How far this was Abhinava’s synthesis, or whether he was drawing from Trika Tantras is not possible to say. None of the three that survive teach Ādiyāga, nor is the Trika they teach linked to the Krama, thus rendering their Kaulism weak. 
 
 Jñānanetra, who founded the Kashmiri Kālīkrama, belonged to the middle of the ninth century. Abhinava postdates him by over a century. It is not clear to what degree the Kālīkrama had developed before him. Abhinava does quote some works that, judging by their name and the context in which he refers to them, belonged to that tradition. These include the Kālīkula and possibly the Devīpañcaśatika. Important is the Ūrmikaulārṇava. This is a Kālīkrama Tantra attributed to Matsyendranātha, which has partially survived in two Nepalese manuscripts (see bibliography). Abhinava quotes it several times.[^1088] However, 
 
@@ -88,7 +88,7 @@ The venerable Bhairava said:
 Listen, I will tell (you) all that has come from (my) mouth and is in the mouths (of initiates). The supreme essence, devoid of (anything that can be) denoted (by words) and (any) denotator, cannot be told (to others). Incomparable (to anything in any other) śāstra, it is hard to understand and hard to acquire. Even today, it has not been known by Siddhas, (even though they) possess an awakened consciousness. It has come down through the series (of masters and disciples) and moves from mouth to mouth. O greatly wise one, listen to that Kālikākrama, as is proper. (1-3) 
 
 8 45a) yat tad brahma paran dhāma vyomātītaṁ nirāmayam |
-niṣkalaṁ \[k: nikūlar; g: nikṛlaḥ\] ca para śuddhaṁ \[k: \[illegible\] g: śūddhi\] nirvikāraṁ nirāśrayam || 4 || kaivalyaṁ ca nirādhāraṁ sarvavāgjālavarjitam |
+niṣkalaṁ \[k: nikūlar; g: nikṛlaḥ\] ca para śuddhaṁ \[k: śuddhi; g: śūddhi\] nirvikāraṁ nirāśrayam || 4 || kaivalyaṁ ca nirādhāraṁ sarvavāgjālavarjitam |
 nistattvaṁ paramātmākhyaṁ ajan śāntaṁ dhruvaṁ \[g: dhruva\] śivam \[k, g: śi \*1॥5॥
 bhāvābhāvapadaiṁīnar \[k: -padaihīnaṁni\] bhāvanāparivarjitam | 
 
@@ -508,7 +508,7 @@ palāṇduṁ; g:
 
 palāmduṁ\] laśunaṁ caiva dravyadvādaśakari śubham | 
 
-The auspicious group of twelve substances (consists of) semen, urine (harāmbu), menstrual blood \[illegible\] faeces \[illegible\] and phlegm (nālājyaka), human flesh (pauruṣa), beef (kṣmābhava), goat’s flesh (chāga), fish, fowl, onion and garlic. [^1123] (81-82ab) 
+The auspicious group of twelve substances (consists of) semen, urine (harāmbu), menstrual blood (puṣpa), faeces (kṣāra) and phlegm (nālājyaka), human flesh (pauruṣa), beef (kṣmābhava), goat’s flesh (chāga), fish, fowl, onion and garlic. [^1123] (81-82ab) 
 
 ebhir dvādaśabhir deva \[k, kh, g: devyo\] naivedyais toṣayec chiva \[g: ~ yaicchiva\] ॥ 82 ||
 anyāni yāni dravyānṇi rasarūpānṇi dāpayet |

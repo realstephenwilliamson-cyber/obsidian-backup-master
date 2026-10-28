@@ -154,7 +154,7 @@ page_range: 595–600
 
 ***Shir ha-Shirim***   The book of Song of Songs.
 
-***Sifra di-Tsni’uta***   “The Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah, consisting of five short chapters and composed in obscure sentences. Its subject is the mysterious dynamics of divine being. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b|2:176b]]–179a (above, pp. 535–86).
+***Sifra di-Tsni’uta***   “The Book of Concealment”; an anonymous, highly condensed commentary on the beginning of the Torah, consisting of five short chapters and composed in obscure sentences. Its subject is the mysterious dynamics of divine being. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b-c|2:176b]]–179a (above, pp. 535–86).
 
 ***Sitra Aḥra***   “The other side”; the demonic realm, or the shadow of the divine, led by Samael and Lilith.
 

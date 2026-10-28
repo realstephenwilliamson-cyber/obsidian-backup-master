@@ -1,0 +1,27 @@
+# Reading brief: transcribe boxed text from page scans (27 Oct 2026)
+
+The scans are pages of Mark Dyczkowski's English translation of Abhinavagupta's Tantrāloka with Jayaratha's commentary (11 volumes). You are checking what the print actually shows. Report the print exactly, even where the print itself looks wrong. Never fill in what a word "should" be.
+
+## Files
+- SHEETS/<sheet>.png: each sheet stacks up to 12 strips. Each strip is one printed line with its ID on the left and a red box around a word or a few words.
+- ITEMS/<sheet>.txt: one line per ID with the text just BEFORE and just AFTER the boxed text, from a transcription that may contain errors. Use it only to be sure which words are meant. The boxed text itself is deliberately not given.
+
+## For each ID
+1. Find the boxed text. The box may be a little too wide or too narrow: transcribe the whole word(s) the box is on, from the end of the "before" text to the start of the "after" text.
+2. Transcribe it exactly as printed, letter by letter, with every diacritic: ā ī ū ṛ ṝ ḷ ṅ ñ ṭ ḍ ṇ ś ṣ ḥ, capitals Ś Ā Ī Ū Ṛ Ṭ Ḍ, and the anusvāra as ṁ (this book prints m with a dot above). Look closely at the first and the last letter of each word (a final ṁ or ḥ, an initial Ś).
+3. Include the punctuation and brackets printed against the word: ( ) ‘ ’ “ ” , . ; : exactly as printed.
+4. A raised footnote number printed against the word is not part of it: write it as ^N after the word (for example: them),^22).
+5. If you cannot read a letter with confidence, write ? for it and set conf to "low". A dot or macron you cannot actually see is not there: mark it ? and low.
+6. If the box is on the wrong words, or the text runs over a line end with a hyphen, say so in note.
+
+To look closer you may enlarge a strip, e.g.
+python3 -c "from PIL import Image; im=Image.open('SHEETS/A-01.png'); im.crop((0,0,im.width,160)).resize((im.width*2,320)).save('ZOOM/a01-top.png')"
+then Read the zoomed file (make the ZOOM folder first). Use this where a letter is in doubt; it is cheap.
+
+## Output
+After each sheet, and before the next, write (overwrite) READ/<sheet>.jsonl with one JSON object per ID:
+{"id": "A00010", "printed": "śaktiṁ", "conf": "high", "note": ""}
+If you redo a sheet, overwrite its file. Do not rely on memory of a sheet you have not opened: open every sheet image before writing its answers.
+
+## Limits
+Read only this brief, the sheets, the item lists and your own zoomed crops. Do not use the web or any tool that reaches the user's computer. Never write the divine name of the Hebrew Bible (the four-letter name) in anything you produce. Keep your final reply short: items done, how many low-confidence, anything systematic.

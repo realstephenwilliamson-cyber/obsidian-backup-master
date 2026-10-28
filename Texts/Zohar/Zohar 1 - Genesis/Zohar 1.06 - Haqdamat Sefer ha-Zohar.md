@@ -791,7 +791,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^91]: **י** (***yod***) **faces backward...** This reflects the Sephardic practice of writing the *צ* (*tsadi*). See Scholem; Friedman, *Tsidqat ha-Tsaddiq*, 41–55; Meshi-Zahav, *Qovets Sifrei Setam*, intro, 36; 8, 149–52, 239–40; Havlin, in *Alei Sefer* 12 (1986): 13–19; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 65, 139, nn. 163–66.
 
-[^92]: **not turned face-to-face...** Initially the union between the masculine and feminine aspects of God was back-to-back and thus incomplete. See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b|2:176b]] (*SdTs*); [[Zohar 9.15 - Idra Zuta#^z3-292b|3:292b]] (*IZ*); BT *Bava Batra* [[Bava Batra 99#99a|99a]]. This incomplete union is symbolized by the configuration of the *צ* (*tsadi*). The צ (*tsadi*) must remain hidden so that this secret will not become widely known and “provide the world a pretext” to impugn the divine union.
+[^92]: **not turned face-to-face...** Initially the union between the masculine and feminine aspects of God was back-to-back and thus incomplete. See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b-c|2:176b]] (*SdTs*); [[Zohar 9.15 - Idra Zuta#^z3-292b|3:292b]] (*IZ*); BT *Bava Batra* [[Bava Batra 99#99a|99a]]. This incomplete union is symbolized by the configuration of the *צ* (*tsadi*). The צ (*tsadi*) must remain hidden so that this secret will not become widely known and “provide the world a pretext” to impugn the divine union.
 
 [^93]: **It looked upward... downward...** Trying to face its partner. See Tishby, *Wisdom of the Zohar*, 2:564.
 
@@ -859,11 +859,11 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^121]: **one lock...** The opening within *Binah*. The “precise place” is the subtle link between the primordial point of *Ḥokhmah* and the womb of the Divine Mother, *Binah*. Elsewhere in the *Zohar* this site is identified as *a path unknown to any vulture* ([[Job 28#^28-7|Job 28:7]]). See 1:29a–b; 2:122b–123a; 3:61b.
 
-[^122]: **Six gates...** The six *sefirot* hidden within *Ḥokhmah*. See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a|2:177a]] (*SdTs*).
+[^122]: **Six gates...** The six *sefirot* hidden within *Ḥokhmah*. See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a-c|2:177a]] (*SdTs*).
 
 [^123]: **revealed word... concealed word...** The word בראשית (*Be-reshit*) contains two words: ברא (*bara*), “created,” referring to the hidden mystery of creation, and שית (*shit*), “six,” referring to the revelation of the six *sefirot*.
 
-    Yehuda Liebes argues that the insistence on the concealed nature of ברא (*bara*) alludes to a different pronunciation and meaning: ברא (*bera*), “son,” the Divine Son. See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178b|2:178b]] (*SdTs*); and Liebes, *Studies in the Zohar*, 146–52.
+    Yehuda Liebes argues that the insistence on the concealed nature of ברא (*bara*) alludes to a different pronunciation and meaning: ברא (*bera*), “son,” the Divine Son. See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178b-c|2:178b]] (*SdTs*); and Liebes, *Studies in the Zohar*, 146–52.
 
 [^124]: **Holy Lamp** קדישא‎ בוצינא (*Botsina Qaddisha*), the Zoharic title of Rabbi Shim’on son of Yoḥai. See *Zohar* [[#^z1-4a|1:4a]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-156a|156a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-197b|197b]]; [[Zohar 9.04 - Rav Metivta#^z3-171a|3:171a]]; *ZḤ 85d* (*MhN, Rut*).
 
@@ -2169,13 +2169,13 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
     See *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-62a|1:62a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-70b|3:70b]]; *TZ* 45, 82b. On the various levels of soul, see Tishby, *Wisdom of the Zohar*, 2:677–722.
 
-[^657]: **that holy חיה** (***ḥayyah***), ***living being** Shekhinah*, who gives birth to the highest level of soul. See Ezra of Gerona, *Peirush Shir ha-Shirim*, 508–9; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-46b|1:46b]]–47a, [[Zohar 3.07 - Parashat Va-Yhi#^z1-242a|242a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-48b|2:48b]], [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177b|177b–178a]] (*SdTs*); [[Zohar 7.06 - Parashat Tazri'a#^z3-46b|3:46b]].
+[^657]: **that holy חיה** (***ḥayyah***), ***living being** Shekhinah*, who gives birth to the highest level of soul. See Ezra of Gerona, *Peirush Shir ha-Shirim*, 508–9; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-46b|1:46b]]–47a, [[Zohar 3.07 - Parashat Va-Yhi#^z1-242a|242a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-48b|2:48b]], [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177b-c|177b–178a]] (*SdTs*); [[Zohar 7.06 - Parashat Tazri'a#^z3-46b|3:46b]].
 
     *Shekhinah*, the *ḥayyah*, controls and sustains the holy *ḥayyot* (“living creatures, animals”) who support the Chariot, the divine throne.
 
 [^658]: **no holy soul** The highest level.
 
-[^659]: **his murmuring** דרחיש‎ רחישו (*Reḥishu de-raḥeish*). The root means “to move,” here, to move the lips, whisper. *Targum Onqelos* employs the same root to translate *swarm* in [[Torah 01 - Bereshit#^1-20|Genesis 1:20]]; see *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177b|2:177b]] (*SdTs*).
+[^659]: **his murmuring** דרחיש‎ רחישו (*Reḥishu de-raḥeish*). The root means “to move,” here, to move the lips, whisper. *Targum Onqelos* employs the same root to translate *swarm* in [[Torah 01 - Bereshit#^1-20|Genesis 1:20]]; see *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177b-c|2:177b]] (*SdTs*).
 
 [^660]: **those engaged in Torah, called** ***His angels...*** The sages are compared to, or described as, angels in BT *Nedarim* [[Nedarim 20#20b|20b]]; *Qiddushin* [[Kiddushin 72#72a|72a]].
 

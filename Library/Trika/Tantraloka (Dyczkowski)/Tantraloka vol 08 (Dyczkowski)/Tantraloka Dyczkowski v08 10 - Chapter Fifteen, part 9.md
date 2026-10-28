@@ -68,7 +68,7 @@ na ninded atha vandeta nityaṁ tajjoṣinas tathā |
 upadeśāya na doṣā hṛdaye cen na vidviṣet ॥ 562 ॥
 vijātīyavikalpāriśatyāgāya prayateta ca | 
 
-One should never be revolted by the hero’s sacrificial substances, such as wine. Nor should one criticise those who delight in them; (rather,) one should always praise \[illegible\] There are no defects in teaching (others about them) if one is not (secretly) averse to them in (his) heart.’ One should exert oneself to abandon (all) contrary notions (vijāfīyavikalpa) (about them).\*” (561cd-563ab) (559-560) 
+One should never be revolted by the hero’s sacrificial substances, such as wine. Nor should one criticise those who delight in them; (rather,) one should always praise them. There are no defects in teaching (others about them) if one is not (secretly) averse to them in (his) heart.’ One should exert oneself to abandon (all) contrary notions (vijāfīyavikalpa) (about them).\*” (561cd-563ab) (559-560) 
 
 ### TĀ 15.561–562
 
@@ -203,7 +203,7 @@ The Pledges according to the Mādhavakula
 वेदोक्ति वैष्णवोक्तिं च तैरुक्तं वजयेत्सदा ।
 
 \[illegible\] śrīhmādhavakule śāsanāntarasaṁsthitān ॥ 573 ॥
-\[illegible\] vaiṣṇavoktiṁ ca tair \[illegible\] varjayet sadā | 
+\[illegible\] vaiṣṇavoktiṁ ca tair uktaṁ varjayet sadā | 
 
 “It is said in the venerable Mādhavakula[^873] that those who are established in other doctrines, what is taught in the Veda and by Vaiṣṇavas and what they say, should always be avoided.[^874] (573cd-574ab) (571) 
 
@@ -236,12 +236,12 @@ pramādāc ca kṛte sakhye goṣthyāṁ cakram tu pūjayet ॥ 575 ॥
 
 876\. 15/575cd is derived from JY 4/20/98cd (MS K 14la Kh 1219. MS G 173a), which reads: vedoktań vaiṣnavoktaṁ vā udakaṁ varjayet sadā I|
 
-877\. \[illegible\] TĀ 15/576abc (572abc) is JY 4/20/140abc (MS K: fl 142b, Kh: 123a G: 175b). The text continues: akulīnaiś ca saṁparkāt tatkulāt patanaṁ bhavet ॥ 140 ॥ ekapātre kulāmnāye \[illegible\] nānyat kadācana | yadicched ātmanaḥ śreyo \[k,kh: śreyeḥ\] siddhir vā vīṛravandite ॥ 141 ॥ Jīvitaṁ sucira vātha yoginyo melakaś ca vā | atītānāgataḥ yogar bhāvanā bhāvanāśanī | 142 ॥ taiḥ sārddhaṁ bhojanaṁ varjyari pānagoṣthī ca yatnataḥ | teṣu sabhāṣanaṁ varjyari saṁsparsaṁ kiṁ punaḥ priye I| 143 ॥ adīkṣitajanasparśāt snānam āgneyam ācaret | ‘By contact with those who do not belong to (the same) Kula, there is a fall from that Kula. In a Kula tradition that is exclusive (ekapātra), one should never do otherwise, if one wishes the best for oneself or accomplishment, O lady praised by (Kaula) heroes, (if one wishes) a long life or meetings with Yoginīs, Yoga that has passed or not yet come, and the contemplation (bhāvanā) that destroys phenomenal existence. One must strenuously avoid drinking together with them. Conversation with them must be avoided, what to say, O beloved, of touching! The touch of one who is not initiated requires that one must bath in fire.”
+877\. \[illegible\] TĀ 15/576abc (572abc) is JY 4/20/140abc (MS K: fl 142b, Kh: 123a G: 175b). The text continues: akulīnaiś ca saṁparkāt tatkulāt patanaṁ bhavet ॥ 140 ॥ ekapātre kulāmnāye kāryaṁ nānyat kadācana | yadicched ātmanaḥ śreyo \[k,kh: śreyeḥ\] siddhir vā vīṛravandite ॥ 141 ॥ Jīvitaṁ sucira vātha yoginyo melakaś ca vā | atītānāgataḥ yogar bhāvanā bhāvanāśanī | 142 ॥ taiḥ sārddhaṁ bhojanaṁ varjyari pānagoṣthī ca yatnataḥ | teṣu sabhāṣanaṁ varjyari saṁsparsaṁ kiṁ punaḥ priye I| 143 ॥ adīkṣitajanasparśāt snānam āgneyam ācaret | ‘By contact with those who do not belong to (the same) Kula, there is a fall from that Kula. In a Kula tradition that is exclusive (ekapātra), one should never do otherwise, if one wishes the best for oneself or accomplishment, O lady praised by (Kaula) heroes, (if one wishes) a long life or meetings with Yoginīs, Yoga that has passed or not yet come, and the contemplation (bhāvanā) that destroys phenomenal existence. One must strenuously avoid drinking together with them. Conversation with them must be avoided, what to say, O beloved, of touching! The touch of one who is not initiated requires that one must bath in fire.”
 
 
 *[p. 335]* ^pg353
 
-(ekapātra),\* and so one must avoid those (who belong to other ones). However, if by mistake one has made friends” (with a member of another tradition, and takes) part in (his) gathering \[illegible\] one should worship the assembly (cakra) (of deities and initiates there along with them). (574cd-575) (572-573ab) 
+(ekapātra),\* and so one must avoid those (who belong to other ones). However, if by mistake one has made friends” (with a member of another tradition, and takes) part in (his) gathering (goṣṭhi), one should worship the assembly (cakra) (of deities and initiates there along with them). (574cd-575) (572-573ab) 
 
 ### TĀ 15.573–574
 
@@ -292,7 +292,7 @@ One should not (take) initiation and the like and go to sacred sites (āyatana) 
 
 ‘O goddess, a person who mentions (an initiate’s) prior caste (status is a sinner who is) subject to penance. He burns for three days in Rudra’s hell, five in Keśava’s, and a lunar fortnight in that of Brahmā.’\* 
 
-ʻO (goddess) praised by heroes, Brahmins, warriors (kṣatriya), merchants (vaiśya) and servants \[illegible\] who have been appointed as teachers are all considered to be Śivas.” 
+ʻO (goddess) praised by heroes, Brahmins, warriors (kṣatriya), merchants (vaiśya) and servants (śūdra) who have been appointed as teachers are all considered to be Śivas.” 
 
 ### TĀ 15.577–578
 
@@ -372,7 +372,7 @@ the teacher’s command,)
 शिवस्य स्वात्मसंस्कृत्यै प्रहीभावो गुरोः पुन ; ।
 हादायेत्युभया्थाय तत्तुष्टः फलदा शिशोः ॥ ५८६ ॥
 
-samayānār vilope ca \[illegible\] pṛceched asannidhau || 583 ||
+samayānār vilope ca guruṁ pṛceched asannidhau || 583 ||
 tadvargaṁ nijasantānam anyaṁ tasyāpy asaṁnidhau |
 tenoktam anutiṣthec ca nirvikalpa prayatnataḥ ॥ 584 ॥
 yataḥ śāstrādisabodhatanmayīkṛtamānasaḥ |
@@ -477,7 +477,7 @@ The distinguishing characteristic (of a teacher) is also explained in the same w
 
 *[p. 341]* ^pg359
 
-\[illegible\] should (always) be \[illegible\] without (outer) manifest sectarian signs. Nowhere (in any circumstance) should one bear (outer) signs (of one’s spiritual affiliation). Nor should one congregate together to practice (ācāramelana) with those who do (bear such outer) signs. One should only defend (and respect) those who bear (these) signs (nothing more). One should not fear (bībhatsyā) people who are deformed (and ugly). (593-596) (590cd-592) 
+\[illegible\] should (always) be (tiṣṭhet) without (outer) manifest sectarian signs. Nowhere (in any circumstance) should one bear (outer) signs (of one’s spiritual affiliation). Nor should one congregate together to practice (ācāramelana) with those who do (bear such outer) signs. One should only defend (and respect) those who bear (these) signs (nothing more). One should not fear (bībhatsyā) people who are deformed (and ugly). (593-596) (590cd-592) 
 
 #### Viveka on 15.590–592
 
@@ -527,7 +527,7 @@ One should not be attached to what is not true (atattva) (moved) by (some foolis
 
 908\. The body (aga) of Mantras is a diagram or grid called a prastāra, within which the letters of the alphabet (mārrkā) are deposited. When it been properly consecrated, it becomes an ‘assembly of letters” (mātṛkācakra). Thus empowered, the letters are extracted from it to form Mantras. It can also serve as a code. Instead of mentioning a letter directly, the text may identify it by referring to its position in relation to other letters in the grid. See Schoterman 1982: 181-209 for an extensive discussion and presentation, including drawings of several prastāras (also called gahvaras), and Dyczkowski 2009: vol. 7 pp. 9-11, 13-16 notes 1, 4 and 5.
 
-909\. \[illegible\] The word graha is a noun derived from the root gṛh, which has the sense of “lay hold of, catch’. Here the same word is used in two senses. One 1 translate as ‘tenacious error’, These are the things we ‘hold on \[illegible\] and ‘lay hold of' as seemingly important due to ignorance and attachment. The word is repeated in a second sense, which is defined in Monier-Williams\* dictionary as ‘particular evil demons or spirits who seize or exercise a bad influence on the body and mind of a man (causing insanity etc., it falls within the domain of medical science to expel these demons, those who especially seize children and cause convulsions etc. are divided into nine classes according to the number of planets)’. Indeed, the word ‘graha’ may also means ‘planet because planets ‘lay hold’ of people, thus influencing their destiny. Again, a ‘graha’ is also, according to Monier Williams, ‘any state which proceeds from magical influences and takes possession of the whole man’. An interesting example mentioned in the medical books is rudragraha. A person afflicted by this graha is possessed by the notion that he is as mighty and important as Rudra. He is gripped by a fury that makes him very strong and unmindful of the normal social restraints. Thus, he may run through the streets naked yelling at the top of his voice “I am Rudra”. This is a state of possession — graha — which is quite different from the grace —anugraha of the Deity that also manifests as a ‘descent of power’ that penetrates and ‘possesses’ the person who is its object. The difference, of course, is that it enlightens and liberates, whereas the former obscures and binds. Finally, more simply and directly, one could translate ‘graha’ as \*attachment’, as in the expression ‘jārigraha’ — ‘attachment to caste”.
+909\. \[illegible\] The word graha is a noun derived from the root gṛh, which has the sense of “lay hold of, catch’. Here the same word is used in two senses. One 1 translate as ‘tenacious error’, These are the things we ‘hold on to’ and ‘lay hold of' as seemingly important due to ignorance and attachment. The word is repeated in a second sense, which is defined in Monier-Williams\* dictionary as ‘particular evil demons or spirits who seize or exercise a bad influence on the body and mind of a man (causing insanity etc., it falls within the domain of medical science to expel these demons, those who especially seize children and cause convulsions etc. are divided into nine classes according to the number of planets)’. Indeed, the word ‘graha’ may also means ‘planet because planets ‘lay hold’ of people, thus influencing their destiny. Again, a ‘graha’ is also, according to Monier Williams, ‘any state which proceeds from magical influences and takes possession of the whole man’. An interesting example mentioned in the medical books is rudragraha. A person afflicted by this graha is possessed by the notion that he is as mighty and important as Rudra. He is gripped by a fury that makes him very strong and unmindful of the normal social restraints. Thus, he may run through the streets naked yelling at the top of his voice “I am Rudra”. This is a state of possession — graha — which is quite different from the grace —anugraha of the Deity that also manifests as a ‘descent of power’ that penetrates and ‘possesses’ the person who is its object. The difference, of course, is that it enlightens and liberates, whereas the former obscures and binds. Finally, more simply and directly, one could translate ‘graha’ as \*attachment’, as in the expression ‘jārigraha’ — ‘attachment to caste”.
 
 
 *[p. 343]* ^pg361
@@ -627,7 +627,7 @@ Nakuleśa
 
 śrīmadbhir nakuleśādyair apy etat sunirūpitam |
 Śarīram evāyatanaṁ nānyad āyatanaṁ vrajet ॥ 607 ॥
-tīrtham \[illegible\] smaren mantram anyatīrthāni varjayet | 
+tīrtham ekaṁ smaren mantram anyatīrthāni varjayet | 
 
 This has also been well described by the venerable Nakuleśa” and others, (who say that) the body alone is the sanctuary (yatana); one should 
 
@@ -666,7 +666,7 @@ iti matvā vidhānajñaḥ sahńmohaṁ parivarjayet ॥ 609 ॥
 mantrasya hṛdayaṁ muktvā na cānyat paramai kvacit |
 iti matvā vidhānajño mantrajālari parityajet ॥ 610 ॥ 
 
-Having understood this injunction with ease \[illegible\] one should abandon the net of injunctions (that merely bind and confuse). (Perfect) contemplative absorption (samādhi) cannot be attained in (any) other (way) except (by the complete) certainty (niścaya) (of realization). Once understood this, one who (truly) knows (the nature of) what is prescribed (vidhāna) (in this higher sense) should avoid (all) confusion (samoha). Apart from the heart of Mantra (SAUH), there is nothing else superior (to this) anywhere. Once understood this, one who (truly) knows (the nature of) what is prescribed should abandon the net of Mantra. (608cd-610) (606-608ab) 
+Having understood this injunction with ease (sukham), one should abandon the net of injunctions (that merely bind and confuse). (Perfect) contemplative absorption (samādhi) cannot be attained in (any) other (way) except (by the complete) certainty (niścaya) (of realization). Once understood this, one who (truly) knows (the nature of) what is prescribed (vidhāna) (in this higher sense) should avoid (all) confusion (samoha). Apart from the heart of Mantra (SAUH), there is nothing else superior (to this) anywhere. Once understood this, one who (truly) knows (the nature of) what is prescribed should abandon the net of Mantra. (608cd-610) (606-608ab) 
 
 ### TĀ 15.608–609
 
@@ -708,7 +708,7 @@ They are called pledges (samaya) because they must be observed,” because (by m
 एवं संश्राव्य समयान्देवं संपूज्य देशिकः ।
 विसर्जयेत्स्वचिट्व्योमि शान्ते मूर्तिविलापनात् ।। ६१३ ॥
 
-921?\. Malamoud (1998: 10) explains: ‘A piece of food is called \[illegible\] when it is in fact considered to be the remains of a bulk of food that someone has begun to eat. It is for this reason that even one’s own leftovers are impure for oneself. The same rules hold for the gods, concerning what is to be done with the leftovers of sacrificial food. The Brāhmaṇas treat the matter clearly: they cannot be thrown into the fire, since that would be tantamount to offering table scraps to the gods! The best procedure is that the sacrificer eat them himself, or throw them into a body of water. These leftovers that are not to be given to the gods, it must be noted, are scraps from a meal they themselves have eaten; and while no foreign element has come to alter this food, its status has nevertheless changed, for the simple fact that it has continued to exist after the conclusion of the sacrifice.”
+921?\. Malamoud (1998: 10) explains: ‘A piece of food is called ucchiṣṭa when it is in fact considered to be the remains of a bulk of food that someone has begun to eat. It is for this reason that even one’s own leftovers are impure for oneself. The same rules hold for the gods, concerning what is to be done with the leftovers of sacrificial food. The Brāhmaṇas treat the matter clearly: they cannot be thrown into the fire, since that would be tantamount to offering table scraps to the gods! The best procedure is that the sacrificer eat them himself, or throw them into a body of water. These leftovers that are not to be given to the gods, it must be noted, are scraps from a meal they themselves have eaten; and while no foreign element has come to alter this food, its status has nevertheless changed, for the simple fact that it has continued to exist after the conclusion of the sacrifice.”
 
 922?\. See below, 26/71.
 
@@ -1127,7 +1127,7 @@ The deployment (niveśa) (in this way) in the body‘ (takes place) here as stat
 
 The yogi who is engaged in (his) practice based on this process externally in relation to the world orders and principles and (internally the corresponding internal) wheels, (comes to) possess particular accomplishments (siddhi) (according to) where he is within the body or the vital breath (PTv p. 155). Just as (particular) medicinal herbs taken together give rise to a specific result, in the same way, (practiced) together, a specific meditation or deposition (of letters and Mantras onto the body), oblation and the like bestow a (corresponding) specific accomplishment, because here (in this case) also, the activity (of the power of) constraint (niyati) is not transcended. 
 
-Each (set of) scriptures (Śāstra) describe a grid (prastāra) formed on the basis of a particular deployment of the phonemes (vārṇnaniveśapurahsara) (within it). It consists of the aggregate \[illegible\] of phonemes, grouped together in a (fixed) determined series (niyataparipāṭīpinda), as determined by the particular primary phoneme which accords with the predominance of this or that divine phoneme in proportion to the knowledge (vijñāana) of their followers. (Once the manner in which the grid is to be drawn has been described, a Tantra) describes the manner in which Mantras are extracted (mantroddhāra) from it. (This is done) to reveal the nature of that phoneme which imparts radiant energy (sphurattā) to the Mantras that are augmented (upabrrihita) by imparting this kind of vitality (vīrya) (to them). This is just (as is the case) with the venerable Nityā Tantras, (where this method) is the reason for the predominance 
+Each (set of) scriptures (Śāstra) describe a grid (prastāra) formed on the basis of a particular deployment of the phonemes (vārṇnaniveśapurahsara) (within it). It consists of the aggregate (samūha) of phonemes, grouped together in a (fixed) determined series (niyataparipāṭīpinda), as determined by the particular primary phoneme which accords with the predominance of this or that divine phoneme in proportion to the knowledge (vijñāana) of their followers. (Once the manner in which the grid is to be drawn has been described, a Tantra) describes the manner in which Mantras are extracted (mantroddhāra) from it. (This is done) to reveal the nature of that phoneme which imparts radiant energy (sphurattā) to the Mantras that are augmented (upabrrihita) by imparting this kind of vitality (vīrya) (to them). This is just (as is the case) with the venerable Nityā Tantras, (where this method) is the reason for the predominance 
 
 931?\. \[illegible\] Abhinava is referring here the deposition of letters and Mantras onto the body. See TĀ 15/121 ff.
 
@@ -1598,9 +1598,9 @@ Head- | \[illegible\] | Pratiṣthā | Head-Nivṛtti | Pratiṣthā band band |
 Head- | । |
 Vidyā Head- | Pratiṣthi | Vidyāśak band band kā ti EE Vidyā 
 
-Head- Ḷ | \[illegible\] | Head- | Vidyā āntiśakt band band i 
+Head- Ḷ | Śāntā | Head- | Vidyā āntiśakt band band i 
 
-Ḷ | \[illegible\] | Head- | Tha Satī | Pes | | \[illegible\] | \[illegible\] band ए akti Ca 
+Ḷ | Śānti | Head- | Tha Satī | Pes | | \[illegible\] | \[illegible\] band ए akti Ca 
 
 Cāmuṇdā 
 

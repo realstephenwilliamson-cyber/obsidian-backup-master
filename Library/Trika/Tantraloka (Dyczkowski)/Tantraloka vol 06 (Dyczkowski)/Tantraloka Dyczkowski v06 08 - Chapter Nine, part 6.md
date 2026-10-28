@@ -77,7 +77,7 @@ Surely (one may ask), if that is the case, how is it that you have said that sub
 तथापि वस्तुसत्तेयमिहास्माभिर्निरूपिता ।
 तस्यां च न क्रमः कोऽपि स्याद्रा सोऽपि विपर्ययात् । २१९ ॥
 
-+ We have seen above ad 9/40cd that, according to Bṛhaspati’s interpretation of this sentence, as he presents it in his vārtika on the Rauravasūtrasaṁgraha, the meaning is ‘and the Unmanifest (arose) from that (Māyā) (avyaktarnń ca \[illegible\] In other words, according to Bṛhaspati, Attachment (rāga) and (the limited capacity for) Knowledge (vidyā) arise from the Force (of limited agency) (kalā), and the Unmanifest (avyakta) from Māyā. Sadyojyotiṣ however maintains that all three are derived from the Force (of limited agency) (kalā). The first two emerge from it together as a pair, and then the Unmanifest alone, afterwards. The translation here is in accord with the meaning given by Sadyojyotiṣ in his vyfti on the same. Jayaratha comments here on this divergent interpretation, as pointed out by Abhinava. See Sanderson 2006 p. 51 n 51. One view is that Attachment, Limited Knowledge, and Unmanifest Nature come into being together. Another view is that Unmanifest Nature and the Force (of limited agency) arise out of Māyā. So in this case fatah would mean ‘from’, i.e., that ‘(Force arises) from Māyā’, rather than ‘then’ (after Māyā) (as translated above).
++ We have seen above ad 9/40cd that, according to Bṛhaspati’s interpretation of this sentence, as he presents it in his vārtika on the Rauravasūtrasaṁgraha, the meaning is ‘and the Unmanifest (arose) from that (Māyā) (avyaktarnń ca tatas).’ In other words, according to Bṛhaspati, Attachment (rāga) and (the limited capacity for) Knowledge (vidyā) arise from the Force (of limited agency) (kalā), and the Unmanifest (avyakta) from Māyā. Sadyojyotiṣ however maintains that all three are derived from the Force (of limited agency) (kalā). The first two emerge from it together as a pair, and then the Unmanifest alone, afterwards. The translation here is in accord with the meaning given by Sadyojyotiṣ in his vyfti on the same. Jayaratha comments here on this divergent interpretation, as pointed out by Abhinava. See Sanderson 2006 p. 51 n 51. One view is that Attachment, Limited Knowledge, and Unmanifest Nature come into being together. Another view is that Unmanifest Nature and the Force (of limited agency) arise out of Māyā. So in this case fatah would mean ‘from’, i.e., that ‘(Force arises) from Māyā’, rather than ‘then’ (after Māyā) (as translated above).
 
 *[p. 208]* ^pg225
 
@@ -346,7 +346,7 @@ From the intellect arises the product of the ego (ahaṁkṛt). It is the (false
 
 #### Viveka on 9.230
 
-‘The product of the ego’ has, in other words, arisen (from the intellect). That is said (in the Mālinīvijayottara), (where we read that) ‘similarly, the ego (originated) from the intellect.” (The ego) is the (mistaken) notion of oneself as ‘T’ (that arises when conceiving that) “I do and I know this” within ‘this light’, which is the modification \[illegible\] of the intellect ‘sullied by objectivity’ 
+‘The product of the ego’ has, in other words, arisen (from the intellect). That is said (in the Mālinīvijayottara), (where we read that) ‘similarly, the ego (originated) from the intellect.” (The ego) is the (mistaken) notion of oneself as ‘T’ (that arises when conceiving that) “I do and I know this” within ‘this light’, which is the modification (vṛtti) of the intellect ‘sullied by objectivity’ 
 
 and is ‘this kind’, that is, the locus of the manifestation of the light of the individual soul. Surely (one may ask), the cognitive consciousness of the intellect is just an object (vedya), because it is an object of experience (bhogya) (of the individual soul), in accord with such teachings as: 
 
@@ -354,7 +354,7 @@ and is ‘this kind’, that is, the locus of the manifestation of the light of 
 
 *[p. 217]* ^pg234
 
-‘This cognitive consciousness of the intellect,’ concerning which a little has been said (leśokta) (briefly), is experienced by consciousness \[illegible\] (thus) its objective status, by virtue of which it arises and is experienced, is proved.” 
+‘This cognitive consciousness of the intellect,’ concerning which a little has been said (leśokta) (briefly), is experienced by consciousness (cetana); (thus) its objective status, by virtue of which it arises and is experienced, is proved.” 
 
 \* 
 
@@ -423,7 +423,7 @@ The Inner and Outer Senses are Instruments and Products of the Ego
 इत्ययं करणस्कन्धोऽहङ्कारस्य निरूपितः ।
 ्रधास्य प्रकृतिस्कन्धः सात्त्वराजसतामसः ।। २३३ ॥
 
-ity \[illegible\] karaṇaskandho ‘haṅkārasya nirūpitaḥ |
+ity ayaṁ karaṇaskandho ‘haṅkārasya nirūpitaḥ |
 tridhāsya prakṛtiskandhaḥ sāttvarājasatāmasaḥ ॥ 233 ॥ 
 
 We have described one aspect of the ego, namely, (the ego) as an instrument of cognition (karanaskandha). (Now we come) to its material aspect (prakṛtiskandha), which is three-fold, namely, sāttvika, rājasika and tāmasika.\* (233) 
@@ -735,7 +735,7 @@ karmāmśasparśinaṁ svāṁnśaṁ karanīkurute svayam || 244 ||
 
 Therefore, the agent, by virtue of (his) link with the freedom (of consciousness), 
 
-differentiating his own body \[illegible\] by himself (spontaneously) (svayam), fashions that part of himself which is in contact with the active (objective) aspect (karmāmśa) into an instrument of action. (244) 
+differentiating his own body (vapuṣ) by himself (spontaneously) (svayam), fashions that part of himself which is in contact with the active (objective) aspect (karmāmśa) into an instrument of action. (244) 
 
 #### Viveka on 9.244
 
@@ -965,7 +965,7 @@ Surely (one may ask), if that is so, how is it that the activity (vyavahāra) of
 ### TĀ 9.255 (2)
 
 तस्य प्रधानाधिष्ठानं परं पञ्चाद्ुलिः करः । २५५ ॥।
-tasya pradhānādhiṣthānaṁ \[illegible\] pañcāṁguliḥ karaḥ || 255 ॥ 
+tasya pradhānādhiṣthānaṁ paraṁ pañcāṁguliḥ karaḥ || 255 ॥ 
 
 The (physical) hand consisting of five fingers is merely its principal locus. (255cd) 
 
@@ -995,7 +995,7 @@ Picking up (something) with (one’s) mouth also (indicates that) an organ of ac
 
 ‘one does perceive (some) subtle movement and (the act of) picking up (even) in the case of those whose hands and feet have been severed.” 
 
-Surely, (one may ask): the visible face, for example, is a fashioned (entity) \[illegible\] (whereas) an organ of action is not visible and can (only) be imagined (kalpya). (It is said that) ‘when there is a contradiction between a fashioned (entity) and one that is imagined, (one should know that) the 
+Surely, (one may ask): the visible face, for example, is a fashioned (entity) (kḷpta), (whereas) an organ of action is not visible and can (only) be imagined (kalpya). (It is said that) ‘when there is a contradiction between a fashioned (entity) and one that is imagined, (one should know that) the 
 
 + Read adhiṣthānamātre for adhiṣthānamātra. + Nyāyamañjari chapter 8.
 

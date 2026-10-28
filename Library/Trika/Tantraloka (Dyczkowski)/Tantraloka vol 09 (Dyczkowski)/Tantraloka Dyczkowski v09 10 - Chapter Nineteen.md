@@ -32,7 +32,7 @@ Surely (one may ask), this (initiation) has not been taught with such clear evid
 The Initiation Whereby a Dying Man Attains Śiva at the Moment of Death तत्क्षणाच्चोपभोगाद्रा देहपाते शिवं ब्रजेत् ।
 इत्युक्त्या मालिनीशास्रे सूचितासौ महेशिना ॥ १ ॥
 \[illegible\] copabhogād vā dehapāte \[illegible\] vrajet |
-ity \[illegible\] mālinīśāstre sūcitāsau maheśinā ॥ 1 ॥ 
+ity uktyā mālinīśāstre sūcitāsau maheśinā ॥ 1 ॥ 
 
 The Lord has briefly referred (to this initiation) in the Mālinīvijayottara (mālinīśāstra) with the words, ‘(he) goes to (Śiva) when the body drops, either at that very moment, or else after (he has) enjoyed the worldly experience (predetermined for him in another world) (upabhoga).” (1) 
 
@@ -92,7 +92,7 @@ Qualifications for the Initiation of the Immediate Exit from the Body
 yadā hy āsannamarane śaktipātaḥ prajāyate |
 tatra mande ‘tha gurvādisevayāyuḥ kṣayaṁ vrajet ॥ 4 ॥
 athavā bandhumitrādidvārā sāsya vibhoḥ patet |
-pūrvaṁ vā samayī naiva \[illegible\] dīkṣām avāptavān || 5 ॥
+pūrvaṁ vā samayī naiva parāṁ dīkṣām avāptavān || 5 ॥
 āptadīkṣo ‘pi vā prāṇāñ jihāsuḥ kleśavarjitam |
 antyān gurus tadā kuryāt sadyautkrāntidīkṣaṇam ॥ 6 ॥ 
 
@@ -296,7 +296,7 @@ We read in the Gorakṣasaṁitā: ṣatcakraṁ ṣodaśādhārar trilakṣaṁ
 
 the subtle body). That is said (in the following passage, in which the sixteen supports are enumerated): 
 
-\*1) One should know that Kula is below the sexual organ (medhra), and 2) the one called Poison \[illegible\] is in the middle (of it). 3) It is said that the Empowered One (śākta) that impels the Sound of Awakened Consciousness (bodhanāda) is in the Root (māla). 4) Then, the one called Fire is four fingers above that, below the navel in the Support of Fire (pavanādhāra).” 5) In the navel itself is the one called the Jar. 6) The one called All Desire (sarvakāma) is on the (central) path, halfway between the navel and the heart.” 7) The one called the Vivifier” is in the middle of the calyx (udara) of the lotus of the heart. 8) The Tortoise is in the chest, and the one called 9) Lola (the glottis) is said to be in the throat. 10) The Support of Nectar” (sudhā), the nature of which is nectar (sudhā), is located above the glottis (lambaka). 11) The Lunar One (saumya), surrounded by the energies of the Moon, is located in the root of that same (glottis). 12) The one called the Lotus of Knowledge is between the eyebrows, in the Circle of the Sky.” 13) The Support on the surface of the palate is (called) Raudra, and is sustained by Rudra’s power. 14) (The Support) called Cintāmaṇi” is located on the Crossroad. 15) The Support of the Fourth (state)” is in the head, in the middle of” the Cavity of Brahmā. 16) The Support of the (Middle) Channel (of the vital breath) (nāḍyādhāra) is subtle and supreme. 
+\*1) One should know that Kula is below the sexual organ (medhra), and 2) the one called Poison (viṣa) is in the middle (of it). 3) It is said that the Empowered One (śākta) that impels the Sound of Awakened Consciousness (bodhanāda) is in the Root (māla). 4) Then, the one called Fire is four fingers above that, below the navel in the Support of Fire (pavanādhāra).” 5) In the navel itself is the one called the Jar. 6) The one called All Desire (sarvakāma) is on the (central) path, halfway between the navel and the heart.” 7) The one called the Vivifier” is in the middle of the calyx (udara) of the lotus of the heart. 8) The Tortoise is in the chest, and the one called 9) Lola (the glottis) is said to be in the throat. 10) The Support of Nectar” (sudhā), the nature of which is nectar (sudhā), is located above the glottis (lambaka). 11) The Lunar One (saumya), surrounded by the energies of the Moon, is located in the root of that same (glottis). 12) The one called the Lotus of Knowledge is between the eyebrows, in the Circle of the Sky.” 13) The Support on the surface of the palate is (called) Raudra, and is sustained by Rudra’s power. 14) (The Support) called Cintāmaṇi” is located on the Crossroad. 15) The Support of the Fourth (state)” is in the head, in the middle of” the Cavity of Brahmā. 16) The Support of the (Middle) Channel (of the vital breath) (nāḍyādhāra) is subtle and supreme. 
 
 It 
 
@@ -463,7 +463,7 @@ iyam utkrāmanī dīkṣā kartavyā yogino guroḥ || 23 ॥
 anabhyastaprāṇacāraḥ katham enār kariṣyati |
 vakṣyamāṇāri brahmavidyāmṁ sakalāṁ niṣkalombhitām ॥ 24 ॥
 karne ‘sya vā paṭhed bhūyo bhūyo vāpy atha pātṭhayet |
-svayaṁ ca karma \[illegible\] tattvaśuddhyādikaṁ guruḥ ॥ 25 ॥
+svayaṁ ca karma kurvīta tattvaśuddhyādikaṁ guruḥ ॥ 25 ॥
 mantrakriyābalāt pūrnāhutyetthaṁ yojayet pare | 
 
 This initiation, that brings about the exit (of the soul from the body,) should be performed by a teacher who is (an advanced) yogi. How could one who has not practiced (the control and contemplation of) the movement of the vital breath do it? Or else (if he is not such a yogi), he should recite or make (someone else) recite in the ear of his (dying disciple) the Brahmavidyā.” This will be taught further ahead in its two forms, that is, with parts (sakalā), and woven together with the one without parts (niṣkalombhitā). (The Brahmavidyā) may do (its) work of purifying the elements and the rest by itself.” (However) the teacher may (only) conjoin (his disciple) to the supreme (reality) in the same way (ittham) by offering, with the power (bala) of (ritual) action and mantras, a full oblation. (23cd-26ab) 
@@ -777,7 +777,7 @@ Just as a light breeze becomes (a strong) fast (wind) when combined with (other 
 
 #### Viveka on 19.44–45
 
-(Wind which is) ‘of the same kind as itself’, that is, one produced, for example, by a fan. (The Self awakens) \[illegible\] this way’, that is, by the reflective awareness of Mantra and the like. 
+(Wind which is) ‘of the same kind as itself’, that is, one produced, for example, by a fan. (The Self awakens) ‘in this way’, that is, by the reflective awareness of Mantra and the like. 
 
 (Someone may object that,) well then, reciting Mantra in this way in front of one who is not initiated clearly entails a transgression of the Rule. With this doubt in mind, he says: 
 
@@ -802,10 +802,10 @@ In the same way, if someone else is helped by the recitation of the scriptures a
 अत एव निजं शाखं पठति क्वापि सामये ।
 तच्छुत्वा कोऽपि धन्यश्ेन्मुच्यते नास्य सा क्षतिः । ४६ ॥
 
-ata eva \[illegible\] \[illegible\] patṭhati kvāpi sāmaye |
+ata eva nijaṁ śāstraṁ patṭhati kvāpi sāmaye |
 tac chrutvā ko ‘pi dhanyaś cen mucyate nāsya sā kṣatiḥ ॥ 46 ॥ 
 
-Thus, if (some) fortunate man is liberated (on his death bed), having heard his own (appropriate) (nija) scripture recited somewhere by (even) a common initiate, he is not (guilty of) that defect \[illegible\] (46) (46cd-47ab) 
+Thus, if (some) fortunate man is liberated (on his death bed), having heard his own (appropriate) (nija) scripture recited somewhere by (even) a common initiate, he is not (guilty of) that defect (kṣati). (46) (46cd-47ab) 
 
 #### Viveka on 19.46–47
 

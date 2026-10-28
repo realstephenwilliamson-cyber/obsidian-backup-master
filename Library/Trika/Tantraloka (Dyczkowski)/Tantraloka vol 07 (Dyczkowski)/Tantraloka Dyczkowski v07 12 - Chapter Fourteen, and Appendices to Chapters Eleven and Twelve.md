@@ -117,7 +117,7 @@ by Abandoning Karma He is Free of Obscuration
 विभासयिषुरास्तेऽयं तिरोधानेऽनपेक्षकः ।
 
 niyatyaiva yadā caiṣa svarūpācchādanakramāt || 5 ॥
-bhuṅkte duhkhavimohādi \[illegible\] karmaphalakramaḥ |
+bhuṅkte duhkhavimohādi tadā karmaphalakramaḥ |
 tyaktvā tu niyaman \[illegible\] duhkhamohaparītatām || 6 ॥
 bibhāsayiṣur āste ‘yarn tirodhāne ‘napekṣakaḥ | 
 
@@ -987,7 +987,7 @@ from
 
 the following passage in chapter four of the Svacchandatantra (4/107-127), which expounds this rite of initiation, mapping as it does so the soul's purifying journey along the Path of the Forces (kalādhvan). However, although the references are certainly relevant and the sequence of stages is similar, it is not completely the same as we find in the Tantrāloka. But even so, the passage in the Svacchandatantra is well worth quoting in full at least as a typical example of this form of initiation and for Kṣemarāja’s commentary on it. The lines Jayaratha quotes are in bold face. 
 
-The passage begins with a brief presentation of the nature of the Impurity (mala) that binds the soul. It then goes on to explain how the teacher removes it in order to make the soul’s essential Siva nature manifest. The procedure begins by imagining that the Path of the Forces is contained within the Force of Cessation (nivṛttikalā), which is the first of the five. Then \[illegible\] is invoked into the sacrificial hearth and is worshipped as follows. 
+The passage begins with a brief presentation of the nature of the Impurity (mala) that binds the soul. It then goes on to explain how the teacher removes it in order to make the soul’s essential Siva nature manifest. The procedure begins by imagining that the Path of the Forces is contained within the Force of Cessation (nivṛttikalā), which is the first of the five. Then Vāgīśī is invoked into the sacrificial hearth and is worshipped as follows. 
 
 ### Dyczkowski's verse 107ab
 

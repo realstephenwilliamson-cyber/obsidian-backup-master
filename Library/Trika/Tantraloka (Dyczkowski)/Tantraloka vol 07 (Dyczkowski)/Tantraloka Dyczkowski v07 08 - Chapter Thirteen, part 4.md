@@ -54,7 +54,7 @@ Again, the reality which, ‘beyond the senses’, cannot be grasped by (any) me
 
 *[p. 233]* ^pg255
 
-and attains the plane of contemplative insight (vicāra), is called discrimination, which is one’s own (innate) reflective awareness. When that exists, the knowledge (born of) intuition, which has as its object \[illegible\] (the true nature of the individual soul) who is bound, the bondage (that binds it,) and the one who binds it, manifest radiantly ‘by itself (spontaneously)’, independently of (anything) else. When that (intuition), which is like the sun, has en ‘one 
+and attains the plane of contemplative insight (vicāra), is called discrimination, which is one’s own (innate) reflective awareness. When that exists, the knowledge (born of) intuition, which has as its object (viṣaya) (the true nature of the individual soul) who is bound, the bondage (that binds it,) and the one who binds it, manifest radiantly ‘by itself (spontaneously)’, independently of (anything) else. When that (intuition), which is like the sun, has en ‘one 
 
 should first establish (oneself) in the intellect (buddhi), that is, in right knowledge. (Then) other limited knowledge ‘that can be attained’ by the (bodily) organs of action, represented (here) by speech and the (sensory) organs of perception, exemplified by sight and hearing, and so too the inner (mental) organs that are along with the senses, is (as useless and feeble) as a lamp during the day. Thus, one should abandon (all) dependence on (anything) else (in order to realise that supreme reality). 
 
@@ -377,7 +377,7 @@ The principle of the intellect (buddhitattva) has three qualities, best, inferio
 
 ‘O great goddess, the principle of the intellect is the field of the main seat of thoughts (and feelings). The best (quality of the intellect) is sattva. Tamas and rajas are, respectively, inferior and middling. By its association with the (yogic powers) to make oneself small at will (anima) and the rest, it is covered over by the net of worldly enjoyment.’ 
 
-(Now, if the view) here is that liberation (is attained) by (the knowledge born of) intuition, then in accord with the dictum \[illegible\] one can get honey in the corner of one’s own house, why should one go to a mountain to get it??[^474] what is the use of initiation, that can (only) be attained by countless efforts? Thus, the goddess asks again: 
+(Now, if the view) here is that liberation (is attained) by (the knowledge born of) intuition, then in accord with the dictum ‘if one can get honey in the corner of one’s own house, why should one go to a mountain to get it??[^474] what is the use of initiation, that can (only) be attained by countless efforts? Thus, the goddess asks again: 
 
 ### TĀ 13.193
 
@@ -535,7 +535,7 @@ bhuktimuktiprasiddhyarthaṁ nīyate sadgurum prati | 202 ॥
 tamārādhya tatas tuṣtād dīkṣām āsādya śāṁkarīm |
 tatkṣanād vopabhogād vā dehapātāc chivami vrajet ॥ 203 ॥ 
 
-The Mālinīmata, referring to the same inner reality (artha), (declares): ‘(It happens that,) at some (undetermined) time, because an individual soul is fit (to receive it), Śiva’s tranquil (transcendent) power \[illegible\] that bestows the fruit of liberation, is connected to it. Thus, some (fortunate one) is liberated due to that conjunction (saṁńbandha) (with Śiva’s power) at that very moment.” Then, having said that, referring to the descent of the power (of grace) called ‘intensely intense’, (Śiva) spoke again: ‘for some (other fortunate) person, the state of oneness with ignorance (to which the fettered are subject) ceases. (A third type of person) who is penetrated by Rudra’s power desires to go to a true teacher in order to attain worldly benefits and liberation, and is led (to him) by Śiva’s will. Once he has worshipped him, and because he has become satisfied oy the sight of the signs of the disciple’s state of grace), he obtains from him 6 \[illegible\] initiation. (Such a one) goes to (Śiva) either immediately, or by the dropping of the body, or because (he has) enjoyed the worldly experience (predetermined by his remaining Karma.?” (199-203) 
+The Mālinīmata, referring to the same inner reality (artha), (declares): ‘(It happens that,) at some (undetermined) time, because an individual soul is fit (to receive it), Śiva’s tranquil (transcendent) power (śaivī), that bestows the fruit of liberation, is connected to it. Thus, some (fortunate one) is liberated due to that conjunction (saṁńbandha) (with Śiva’s power) at that very moment.” Then, having said that, referring to the descent of the power (of grace) called ‘intensely intense’, (Śiva) spoke again: ‘for some (other fortunate) person, the state of oneness with ignorance (to which the fettered are subject) ceases. (A third type of person) who is penetrated by Rudra’s power desires to go to a true teacher in order to attain worldly benefits and liberation, and is led (to him) by Śiva’s will. Once he has worshipped him, and because he has become satisfied oy the sight of the signs of the disciple’s state of grace), he obtains from him 6 \[illegible\] initiation. (Such a one) goes to (Śiva) either immediately, or by the dropping of the body, or because (he has) enjoyed the worldly experience (predetermined by his remaining Karma.?” (199-203) 
 
 #### Viveka on 13.199–203
 
@@ -693,7 +693,7 @@ that he) is Śiva. (209)
 
 The (individual) soul ‘who is united with this tranquil power’, which (is such because it is) tranquil (and at rest), abiding thus as such, ‘participates in the essential nature of (Śiva’s) power’; that is, he rests directly on the plane of Pure Knowledge. Thus, having ‘abandoned the condition of a limited individual soul’ and, being such, (attains) stability in that power, abiding in the state of helpless penetration (āveśavaivaśya) by that (power), is Śiva. The meaning is that he is one with consciousness, the essential nature of which is the full (unimpeded) agency (of all things,) made manifest by removing (the power of) obscuration of each (obscuring) covering (of the fettered soul). As was said before: 
 
-\*(When) that same (soul) possesses (this divine) intuition \[illegible\] he is said to be the Principle of Power (śaktitattva) (incarnate). Penetrated by its descent (pātāveśa), he is Śiva Himself, and is liberated from the ocean of 
+\*(When) that same (soul) possesses (this divine) intuition (pratibhā), he is said to be the Principle of Power (śaktitattva) (incarnate). Penetrated by its descent (pātāveśa), he is Śiva Himself, and is liberated from the ocean of 
 
 worldly existence. 
 
@@ -732,7 +732,7 @@ There (in that case) also, according to the level (of intensity) etc. (of the de
 
 Surely (one may object that), although our philosophy (affirms that the one reality) consists of supreme nondual consciousness, the essence of which is the wonder of subjectivity (ahaṁcamatkāra), if liberation is (a state of intense absorption in which the body looks) like (an old dried out) piece of wood even if one is alive, then one should define liberation as being like this, because all the qualities of that (consciousness) have been removed. (If so, then) what 
 
-consciousness) and the rest (of the spheres of energies), shine on the planes of daily life arising externally and outwardly by turning back each object of sense (into consciousness). (22-23ab) Their nature manifests by virtue of the mind of one who knows (true) worship. The knowledge of some (fortunate one) whose consciousness has developed free of (all) traces of thought constructs is perceived (by him) without the need of (any) means. (23cd-24) 3) The Weak Intense (Descent of the Power of Grace) udriktanirvikalpāmśam manda mandavikalpataḥ | prathate kasyacij \[illegible\] saṁketādikathāśrayāt | pūjanādikramāpekṣaṁ saṁsthite (svaṁ-) \* \* (> saṁsthitan jñānarni) kasyacit | vikalpasāmanantaryān nirvikalpaḥ pravartate || (When) the knowledge of some (fortunate one) is perceived (by him) by taking the support of the oral transmission (kathā) with the conventions and the rest, the aspect free of thought constructs prevailing as thought becomes (progressively) weaker. (25) (When) the knowledge of some (fortunate one) depends upon the process of pūjana etc., (consciousness) free of thought constructs operates subsequently after (the elimination of) thought. (26) apravṛttasya \* \* \* íaktipātasya yā sthitiḥ | atimātrādibhedena tato ‘yam uditaḥ (-mucitah) kramaḥ I| paradhārāsamārūdhamāheśvaryapradarśakaḥ | śaktipātakramo yo ‘ya mahātīvratamādikaḥ || The condition of the descent of the power (of grace) of one who is not engaged in \* \* \* (text missing). From that, this the Krama has arisen, (which is of various) kinds, beginning with Intense (atimātra). It displays the great lordship (of consciousness) mounted on the supreme flow (of consciousness). This is the sequence of the descent of the power (of grace) beginning with the Great Most Intense and the rest.” (27-28)
+consciousness) and the rest (of the spheres of energies), shine on the planes of daily life arising externally and outwardly by turning back each object of sense (into consciousness). (22-23ab) Their nature manifests by virtue of the mind of one who knows (true) worship. The knowledge of some (fortunate one) whose consciousness has developed free of (all) traces of thought constructs is perceived (by him) without the need of (any) means. (23cd-24) 3) The Weak Intense (Descent of the Power of Grace) udriktanirvikalpāmśam manda mandavikalpataḥ | prathate kasyacij jñānaṁ saṁketādikathāśrayāt | pūjanādikramāpekṣaṁ saṁsthite (svaṁ-) \* \* (> saṁsthitan jñānarni) kasyacit | vikalpasāmanantaryān nirvikalpaḥ pravartate || (When) the knowledge of some (fortunate one) is perceived (by him) by taking the support of the oral transmission (kathā) with the conventions and the rest, the aspect free of thought constructs prevailing as thought becomes (progressively) weaker. (25) (When) the knowledge of some (fortunate one) depends upon the process of pūjana etc., (consciousness) free of thought constructs operates subsequently after (the elimination of) thought. (26) apravṛttasya \* \* \* íaktipātasya yā sthitiḥ | atimātrādibhedena tato ‘yam uditaḥ (-mucitah) kramaḥ I| paradhārāsamārūdhamāheśvaryapradarśakaḥ | śaktipātakramo yo ‘ya mahātīvratamādikaḥ || The condition of the descent of the power (of grace) of one who is not engaged in \* \* \* (text missing). From that, this the Krama has arisen, (which is of various) kinds, beginning with Intense (atimātra). It displays the great lordship (of consciousness) mounted on the supreme flow (of consciousness). This is the sequence of the descent of the power (of grace) beginning with the Great Most Intense and the rest.” (27-28)
 
 *[p. 257]* ^pg279
 
@@ -869,7 +869,7 @@ The Mildly Intense Descent of the Power of Grace
 
 mandatīvrāc chaktibalād yiyāsāsyopajāyate |
 sivecchāvaśayogena sadguruṁ prati so ‘pi ca ॥ 218 ॥
-atraiva lakṣitaḥ \[illegible\] yad \[illegible\] parameṣṭhinā | 
+atraiva lakṣitaḥ śāstre yad \[illegible\] parameṣṭhinā | 
 
 Due to the strength of a mildly intense (descent of the) power (of grace), a desire arises in him, by union with the influence of Śiva’s will,” to go to a true teacher.’ He is described here in this scripture (the Mālinīvijayottara). As the Lord has said (there) . . . . (218-219ab) 
 
@@ -930,7 +930,7 @@ pratibhānāt suhṛtsaṁgād gurau jigamiṣur bhavet |
 evar jigamiṣāyogād ācāryaḥ prāpyate sa ca ॥ 223 ॥
 tāratamyādiyogena sańisiddhah sarńskrto ‘pi ca | 
 
-“What is the true nature of things (tattva)? Who knows it?” By virtue of this reflection (āmarśana), (which develops by one’s own) intuitive insight (and intelligence) (pratibhāna) and by (the good influence of) the company of friends, one desires to go to a teacher. And so, because one has such a desire, one finds a (true) teacher. According to the gradation (of the intensity of the descent of the power of grace he has received, the teacher) may be self-accomplished (by his own intuition) (sārṛsiddhika), or be one (who has been taught) and purified (by other teachers) \[illegible\] (222cd-224ab) 
+“What is the true nature of things (tattva)? Who knows it?” By virtue of this reflection (āmarśana), (which develops by one’s own) intuitive insight (and intelligence) (pratibhāna) and by (the good influence of) the company of friends, one desires to go to a teacher. And so, because one has such a desire, one finds a (true) teacher. According to the gradation (of the intensity of the descent of the power of grace he has received, the teacher) may be self-accomplished (by his own intuition) (sārṛsiddhika), or be one (who has been taught) and purified (by other teachers) (saṁskṛta). (222cd-224ab) 
 
 #### Viveka on 13.222–224
 
@@ -966,7 +966,7 @@ Surely (one may ask), how can he be such even when he is associated with the bod
 देहसंबन्थिताप्यस्य शिवतायै यतः स्फुटा ।
 dehasaṁibandhitāpy asya śivatāyai yataḥ sphuṭā | 
 
-[^510]: This is statement is constructed from the beginning and end of a rearrangement of MV 1/45cd which reads: tatkṣanād vopabhogād vā dehapātāc \[illegible\] vrajet | \*(He) goes to (Siva) when the body drops, either at that very moment or else after (he has) enjoyed the worldly experience (predetermined for him in another world) (upabhoga).’ Abhinava quotes this line in 19/1ab and explains it in the following verses. Cf. also 21/31 ff.
+[^510]: This is statement is constructed from the beginning and end of a rearrangement of MV 1/45cd which reads: tatkṣanād vopabhogād vā dehapātāc chivaṁ vrajet | \*(He) goes to (Siva) when the body drops, either at that very moment or else after (he has) enjoyed the worldly experience (predetermined for him in another world) (upabhoga).’ Abhinava quotes this line in 19/1ab and explains it in the following verses. Cf. also 21/31 ff.
 
 *[p. 265]* ^pg287
 
@@ -998,7 +998,7 @@ talk
 
 (sahgama);“ by a 
 
-(compassionate) look (āvalocana),“ by (his explanation of) a sacred text \[illegible\] by a transmission (saṛhṁkramana) (of power), by observing the conduct of equality (sāmyacaryā),” by (eating) the sacrificial pap (caru), by the glorious power of Mantra, by ritual gesture (mudrā) and the like, by (ritual) action (kriyā), or by penetrating into the inner vital breath. (227cd-229ab) 
+(compassionate) look (āvalocana),“ by (his explanation of) a sacred text (śāstra), by a transmission (saṛhṁkramana) (of power), by observing the conduct of equality (sāmyacaryā),” by (eating) the sacrificial pap (caru), by the glorious power of Mantra, by ritual gesture (mudrā) and the like, by (ritual) action (kriyā), or by penetrating into the inner vital breath. (227cd-229ab) 
 
 #### Viveka on 13.227–229
 
@@ -1021,7 +1021,7 @@ talk
 
 *[p. 266]* ^pg288
 
-(spiritual) conduct (caryā) of ‘equality’ by hiding (from view) differences of caste and the \[illegible\] (The teacher can also initiate the disciple) ‘by the sacrificial pap (caru)’, that is, a mixture of male and female sexual fluids (kundagola) and the like. \*(Ritual) action’ is the fire sacrifice (homa) and the like. The word ‘or’ has a conjunctive sense. (Finally, initiation may be imparted) ‘by penetrating into the inner vital force’, that is, by the progressive process of union (yogakrama) that takes place by entering into the vital breath, which is internal with respect to the external body. Again, that (initiation can be imparted to one disciple) individually or collectively (to more than one), according to the degree of the descent of the power (of grace). Thus, he says that (there are various types of initiation) ‘according to whether it is (imparted) individually or collectively’. 
+(spiritual) conduct (caryā) of ‘equality’ by hiding (from view) differences of caste and the like. (The teacher can also initiate the disciple) ‘by the sacrificial pap (caru)’, that is, a mixture of male and female sexual fluids (kundagola) and the like. \*(Ritual) action’ is the fire sacrifice (homa) and the like. The word ‘or’ has a conjunctive sense. (Finally, initiation may be imparted) ‘by penetrating into the inner vital force’, that is, by the progressive process of union (yogakrama) that takes place by entering into the vital breath, which is internal with respect to the external body. Again, that (initiation can be imparted to one disciple) individually or collectively (to more than one), according to the degree of the descent of the power (of grace). Thus, he says that (there are various types of initiation) ‘according to whether it is (imparted) individually or collectively’. 
 
 In accord with the teaching that ‘by speaking, both are in a state of oneness (sāmarasya)’, by means of this kind of (initiation,) a state (of final) repose within supreme consciousness arises, even when the body (is still alive,) so that he becomes one who is fit to be called ‘liberated in this life’ (jīvanmukta). He says that: 
 

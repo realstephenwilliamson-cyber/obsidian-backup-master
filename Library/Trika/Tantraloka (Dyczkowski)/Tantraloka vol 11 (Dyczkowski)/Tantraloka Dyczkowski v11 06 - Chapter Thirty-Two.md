@@ -27,7 +27,7 @@ He now begins to expound the procedure concerning the Mudrās.
 अथ कथये मुद्राणां गुवीगमगीतमत्र विधिम् ।
 atha kathaye mudrāṇām gurvāgamagītam atra vidhim | 
 
-Now I will talk about the procedure here concerning Mudrās praised \[illegible\] by (my) teacher and the scriptures. 
+Now I will talk about the procedure here concerning Mudrās praised (gīta) by (my) teacher and the scriptures. 
 
 He says that: 
 
@@ -76,7 +76,7 @@ bimbasya yasyā udaya ity uktā tadupāyatā ॥ 2 ॥
 
 The ‘arising’ (samudaya) (of the reflection is its) origination (utpatti). (The pronoun) ‘its’, that is, of Mudrā, which is a reflection, has the sense of a genitive. (In the second instance of the use of the word) ‘its’, the sense is that of an ablative, as (the arising of the reflection) from the presence (of the original image). Its ‘arising’ is insight (jñapti) and ‘the means to that’ is the means to (the realisation of the nature of) the original image by means of insight. This is the meaning. 
 
-Having explained the conventional meaning (rūḍhi) of the word \[illegible\] he (now) also explains the etymological (yoga) one. 
+Having explained the conventional meaning (rūḍhi) of the word ‘Mudrā’, he (now) also explains the etymological (yoga) one. 
 
 ### TĀ 32.3
 
@@ -90,7 +90,7 @@ It is called mudrā in the scriptures because, (as its etymology indicates,) it 
 
 #### Viveka on 32.3
 
-[^367]: About the origin and derivation of the word mudra, see Shah 1956: 11-14. This is a common didactic etymology of the word mudrā. Abhinava uses the term mudrā in another sense in the PTv (p. 223). There he says that mudrā — a feminine word — denotes two forms of Sakti. One is the power of knowledge \[illegible\] and the other action (kriyā). These energies are the ‘stamps’ (mudrā) or marks (anka) which characterize gender, female and male respectively. He alludes also to the union of the genders as a yoga of ‘inner reversing into outer and outer into inner’ as the union of the sign of gender of the two partners engaged in union. He writes: sarvaṁ hi mudrādvayānuviddhaḥ — jñānakriyāśaktisāratvāt kevala devatāsu jṁāūnamudrā antarudriktā kriyāmudrā bahiḥ vīreṣu viparyayaḥ anupraveśas tu samatayā viparyayāc ca anenaivābhiprāyenṇa jñānaśaktyātmake \[illegible\] kriyāśaktisamarpanam uktam | ‘Everything is threaded through with two seals, because the essence (of all things) are the powers of knowledge and action. The seal of knowledge is inwardly predominant within the deities (of the senses). The seal of action is external and is within Kaula adepts (vīra). Reversal is entering (within,) and because of the balance (samatā) and reversal, it is said with this intention that the power of action is offered into the genital centre \[illegible\] which is the power of knowledge.’ PTv (p. 223) Commenting on the following verse from Utpaladeva’s Sivastotrāvali, Kṣemarāja says, along the same lines, that the mudrā of Maheśvara is stamped everywhere, and consists of knowledge and action, which are the two genders. jaya sarva jagannyastasvamudrāvyaktavaibhava | jayātmadānaparyantaviśveśvara maheśvara | “Victory (to You) O Maheśvara, You who are everything! You whose glory is manifest by Your own seal (mudrā) stamped (everywhere) in (all) the universe; victory (to You) who are the Lord of the universe to the very limit of the gift of Yourself.” ŚSt 14/12 jaya sarveti | sarvatra jagati nyastayā svamudrayānandasārajñānakriyāśaktivyāpti-mayayāvaṣtambharūpayā vyaktaṁ vaibhavaṁ vyāpakatvari prabhutvari ca yasya | yad āgamaḥ na cakrāṁkā na vajrāṁkā dṛśyante jantavaḥ kvacit | bhagaliṅgāṁkitaṁ viśvaṁ tena māheśvaraṁ jagat |1 iti | \*His glory is his Lordship and omnipresence, made manifest in His own seal, made of the pervasion of the powers of knowledge and action, the essence of which is bliss. As scripture (declares): ‘People, wherever they be, are not seen (to be who they truly are by being) marked (with sectarian signs such as) the Wheel and Vajra. (But) everything is marked with the signs of the female and male organs, thus the universe (pervaded by) Maheśvara belongs to Him.’ See also Gnoli-Orofino 1994 p. 81.
+[^367]: About the origin and derivation of the word mudra, see Shah 1956: 11-14. This is a common didactic etymology of the word mudrā. Abhinava uses the term mudrā in another sense in the PTv (p. 223). There he says that mudrā — a feminine word — denotes two forms of Sakti. One is the power of knowledge (vidyā) and the other action (kriyā). These energies are the ‘stamps’ (mudrā) or marks (anka) which characterize gender, female and male respectively. He alludes also to the union of the genders as a yoga of ‘inner reversing into outer and outer into inner’ as the union of the sign of gender of the two partners engaged in union. He writes: sarvaṁ hi mudrādvayānuviddhaḥ — jñānakriyāśaktisāratvāt kevala devatāsu jṁāūnamudrā antarudriktā kriyāmudrā bahiḥ vīreṣu viparyayaḥ anupraveśas tu samatayā viparyayāc ca anenaivābhiprāyenṇa jñānaśaktyātmake liṅge kriyāśaktisamarpanam uktam | ‘Everything is threaded through with two seals, because the essence (of all things) are the powers of knowledge and action. The seal of knowledge is inwardly predominant within the deities (of the senses). The seal of action is external and is within Kaula adepts (vīra). Reversal is entering (within,) and because of the balance (samatā) and reversal, it is said with this intention that the power of action is offered into the genital centre (liṅga), which is the power of knowledge.’ PTv (p. 223) Commenting on the following verse from Utpaladeva’s Sivastotrāvali, Kṣemarāja says, along the same lines, that the mudrā of Maheśvara is stamped everywhere, and consists of knowledge and action, which are the two genders. jaya sarva jagannyastasvamudrāvyaktavaibhava | jayātmadānaparyantaviśveśvara maheśvara | “Victory (to You) O Maheśvara, You who are everything! You whose glory is manifest by Your own seal (mudrā) stamped (everywhere) in (all) the universe; victory (to You) who are the Lord of the universe to the very limit of the gift of Yourself.” ŚSt 14/12 jaya sarveti | sarvatra jagati nyastayā svamudrayānandasārajñānakriyāśaktivyāpti-mayayāvaṣtambharūpayā vyaktaṁ vaibhavaṁ vyāpakatvari prabhutvari ca yasya | yad āgamaḥ na cakrāṁkā na vajrāṁkā dṛśyante jantavaḥ kvacit | bhagaliṅgāṁkitaṁ viśvaṁ tena māheśvaraṁ jagat |1 iti | \*His glory is his Lordship and omnipresence, made manifest in His own seal, made of the pervasion of the powers of knowledge and action, the essence of which is bliss. As scripture (declares): ‘People, wherever they be, are not seen (to be who they truly are by being) marked (with sectarian signs such as) the Wheel and Vajra. (But) everything is marked with the signs of the female and male organs, thus the universe (pervaded by) Maheśvara belongs to Him.’ See also Gnoli-Orofino 1994 p. 81.
 
 *[p. 137]* ^pg155
 
@@ -548,7 +548,7 @@ Kulakundalikā, who ‘abides unaware (vedinī) here ‘within the individual (f
 
 ‘the empowered one who impels awakened consciousness and Sound is said to be in the root (mūla).’ 
 
-For this reason, (Kuṇqalinī) makes ‘the sound’ (rāva) which is (the innate) Sound (of consciousness) \[illegible\] that is ‘without sound’, its nature completely tranquil, within the foundation of the subtle channel \[illegible\] in the centre (i.e. \[illegible\] Then, in accord with the view (taught in the Vīrāva/i) that ‘(the deities) in the Bulb (kanda) are greedy for the six flavours’, ‘the plane of the Bulb’ ʻis the juice (of the aesthetic delight) of the nectar of (spiritual) knowledge \[illegible\] 
+For this reason, (Kuṇqalinī) makes ‘the sound’ (rāva) which is (the innate) Sound (of consciousness) (nāda) that is ‘without sound’, its nature completely tranquil, within the foundation of the subtle channel \[illegible\] in the centre (i.e. \[illegible\] Then, in accord with the view (taught in the Vīrāva/i) that ‘(the deities) in the Bulb (kanda) are greedy for the six flavours’, ‘the plane of the Bulb’ ʻis the juice (of the aesthetic delight) of the nectar of (spiritual) knowledge \[illegible\] 
 
 [^393] (There,) the living being’ called ‘All Desire’ is ‘lustful (kāmika)’, and is called the Vivifying Nectar (saĝjīvanyamyta).[^394] \[illegible\] travels to ‘the base (ādhāra) of the body’ (the abode of the living being). Called ‘the Wish-granting Gem’, it is ‘square’, because it is located on a crossroad.[^395] 
 
@@ -641,7 +641,7 @@ Sound) devoid of phonemes (avarpa), which is (immanent as) the phonemes. (40cd-4
 
 #### Viveka on 32.40–41
 
-‘This is the sequence’ of her (gradual rise), which is (her) circulation through each of the Foundations (ādhāra) as stated, that is, (her) spontaneous flow. This is the meaning. “There is also another’ (arising of) that (Kunqalinī,) that takes place (suddenly) \[illegible\] of sequence’. This ‘supreme Skyfaring (Goddess), (previously) known as the Foundation of the Yoni (yonyādhārā)’, is then ‘called ‘the Root of the Trident (sū/amūlā when she is arisen. The meaning is that she attains the plane of the End of the Twelve (suddenly and) immediately by being conjoined to the three spokes (of the Trident), that are Power, the Pervasive One and the Equal One. It is because of that that ‘the phonemes’ that are outer (acts of) reflective awareness ‘dissolve away there’ within (Kundalinī, who is Unstruck Sound, and so is) ‘devoid of phonemes (avarṇpa)’. (In other words, they) come to rest in (her) own nature, which is just her own (pure) reflective awareness (of her own pure conscious nature), that has also encompassed (within itself) outer reflective awareness, and whose nature is to remove all (the diversity of discursive representation).[^398] This is the meaning. 
+‘This is the sequence’ of her (gradual rise), which is (her) circulation through each of the Foundations (ādhāra) as stated, that is, (her) spontaneous flow. This is the meaning. “There is also another’ (arising of) that (Kunqalinī,) that takes place (suddenly) ‘out of sequence’. This ‘supreme Skyfaring (Goddess), (previously) known as the Foundation of the Yoni (yonyādhārā)’, is then ‘called ‘the Root of the Trident (sū/amūlā when she is arisen. The meaning is that she attains the plane of the End of the Twelve (suddenly and) immediately by being conjoined to the three spokes (of the Trident), that are Power, the Pervasive One and the Equal One. It is because of that that ‘the phonemes’ that are outer (acts of) reflective awareness ‘dissolve away there’ within (Kundalinī, who is Unstruck Sound, and so is) ‘devoid of phonemes (avarṇpa)’. (In other words, they) come to rest in (her) own nature, which is just her own (pure) reflective awareness (of her own pure conscious nature), that has also encompassed (within itself) outer reflective awareness, and whose nature is to remove all (the diversity of discursive representation).[^398] This is the meaning. 
 
 Surely (one may ask), be that so (as you say), but how can the yogi awaken her again? With this doubt in mind, he says: 
 
@@ -655,7 +655,7 @@ nādiphāntaṁ samuccārya kauleśaṁ dehasarinibham |
 ākramya prathamaṁ cakran khe yantre pādapīditam ॥ 42 ॥
 nādar vai śaktisadgarbhaṁ sadgarbhāt kaulinīpadam | 
 
-‘(The Mālinī alphabet) from N to PH is uttered \[illegible\][^399] It is the Lord of Kula (Kauleśa), who is like the body. It is the Sound (nāda) that contains the Being of Power (śaktisat). (Then, once uttered and) having traversed into the first wheel, which is squeezed with the foot within the organ (yantra) of the Void (khe yantre), the plane of Kaulinī (that is, Kulakunṇdalinī) (arises) from the womb of Being. (42-43ab) 
+‘(The Mālinī alphabet) from N to PH is uttered (first).[^399] It is the Lord of Kula (Kauleśa), who is like the body. It is the Sound (nāda) that contains the Being of Power (śaktisat). (Then, once uttered and) having traversed into the first wheel, which is squeezed with the foot within the organ (yantra) of the Void (khe yantre), the plane of Kaulinī (that is, Kulakunṇdalinī) (arises) from the womb of Being. (42-43ab) 
 
 #### Viveka on 32.42–43
 
@@ -668,7 +668,7 @@ nādar vai śaktisadgarbhaṁ sadgarbhāt kaulinīpadam |
 
 *[p. 156]* ^pg174
 
-‘uttered (first)’, as one with one’s own body, Sound (nāda), the form of which (is the Mālinī alphabet) that begins with N and ends with PH. (It) has included within itself the power (of the vital breath) in the centre (of Suṣumnā), (its) nature the fire stick (that energizes) all Mantras. (Then,) taking that Sound, which is being uttered in this way, along with its contents as a base (adhikṛtya) within ‘the Void’, that is, within the vital centre (marman), the form of which is the space of the genitals (janmākāśa), (the yogi) squeezes with the foot, which is a limb (of his body), ‘the first wheel’. This is the channel (of the vital breath,) concerning which it is said that ‘the wheel of the channels (of the vital breath) is in (the vital centre) called that of birth’, and is ‘the abode of \[illegible\] that is, of Kulakunqdalinī. 
+‘uttered (first)’, as one with one’s own body, Sound (nāda), the form of which (is the Mālinī alphabet) that begins with N and ends with PH. (It) has included within itself the power (of the vital breath) in the centre (of Suṣumnā), (its) nature the fire stick (that energizes) all Mantras. (Then,) taking that Sound, which is being uttered in this way, along with its contents as a base (adhikṛtya) within ‘the Void’, that is, within the vital centre (marman), the form of which is the space of the genitals (janmākāśa), (the yogi) squeezes with the foot, which is a limb (of his body), ‘the first wheel’. This is the channel (of the vital breath,) concerning which it is said that ‘the wheel of the channels (of the vital breath) is in (the vital centre) called that of birth’, and is ‘the abode of Kaulinī’, that is, of Kulakunqdalinī. 
 
 ### TĀ 32.43–44
 
@@ -835,11 +835,11 @@ Apart from (the Skyfarer,) there are eight (other) mudras, including (the Seal o
 
 (lt is said in the Kulagahvara:) 
 
-‘O beloved, 1) the Lotus (padma) here (in this case) is the lotus of the heart. 2) The Trident is the three channels (of the vital breath). One should know that 3) the Wheel (cakra) is the navel. 4) The Javelin \[illegible\] is the End of Sound. 5) The Staff (danda) has arisen from the location of the Point. 6) The impenetrable Thunderbolt is the mind. O greatly fortunate one, 7) the Tooth (daṁṣtra) is the tongue and 8) the Skull is the firmament (vyomamandala). (The Seal) is called the mental one because it moves in these places.’ 
+‘O beloved, 1) the Lotus (padma) here (in this case) is the lotus of the heart. 2) The Trident is the three channels (of the vital breath). One should know that 3) the Wheel (cakra) is the navel. 4) The Javelin (śakti) is the End of Sound. 5) The Staff (danda) has arisen from the location of the Point. 6) The impenetrable Thunderbolt is the mind. O greatly fortunate one, 7) the Tooth (daṁṣtra) is the tongue and 8) the Skull is the firmament (vyomamandala). (The Seal) is called the mental one because it moves in these places.’ 
 
 The meaning is, it moves upwards in the way (described in such passages). There ‘are eight’. As is said (in the Kulagahvara): 
 
-‘Khecarī’s entourage is said to consists of eight seals \[illegible\][^409] O mistress of the gods, they are said to be in the group of eight families Kulas[^410] within the group of Mothers. (They are) 1) the Lotus (padma), 2) the Trident \[illegible\] 3) the Wheel (cakra), 4) the Javelin (śakti), 5) the Staff (danda), along with 6) the Thunderbolt (vajra), 7) the Tooth (daṁṣtra),[^411] and 8) the Skull (kapāla) - all of this is arranged (there) in this way[^412] 
+‘Khecarī’s entourage is said to consists of eight seals (mudrā).[^409] O mistress of the gods, they are said to be in the group of eight families Kulas[^410] within the group of Mothers. (They are) 1) the Lotus (padma), 2) the Trident (śūla), 3) the Wheel (cakra), 4) the Javelin (śakti), 5) the Staff (danda), along with 6) the Thunderbolt (vajra), 7) the Tooth (daṁṣtra),[^411] and 8) the Skull (kapāla) - all of this is arranged (there) in this way[^412] 
 
 ‘The phoneme (kūfākṣara)’ is KṢ. This, along with (a description of its) nature, has been established previously many times. The (main) characteristic of the Bhairava Mudrā mentioned before has also been taught thus. 
 
@@ -1013,7 +1013,7 @@ The ‘many kinds’ are (the Seals) of the Trident and the rest. As there is no
 
 *[p. 166]* ^pg184
 
-‘One is the seed-syllable made of emanation and one is the Seal, which is the Skyfarer. He who knows the two (to be) one is indeed worthy of veneration in the Kula tradition \[illegible\][^418] 
+‘One is the seed-syllable made of emanation and one is the Seal, which is the Skyfarer. He who knows the two (to be) one is indeed worthy of veneration in the Kula tradition (āgama).’[^418] 
 
 Thus he says: 
 

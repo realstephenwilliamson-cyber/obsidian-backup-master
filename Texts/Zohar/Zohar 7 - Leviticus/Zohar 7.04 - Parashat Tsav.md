@@ -539,7 +539,7 @@ Rabbi El’azar said, “Happy is the share \[35b\] of Israel in this world and 
 
 [^74]: **supernal holy beings…** Angels, distilled from God’s breath.
 
-    “Mouth” renders בסיטא (*besita*), which apparently derives from Castilian *boca*, “mouth,” with the diminutive suffix *ita*. See *Zohar* [[Zohar 4.04 - Parashat Va-Era#^z2-30b|2:30b]], [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a|177a]] (*SdTs*); [[Zohar 8.09 - Idra Rabba#^z3-131a|3:131a]] (*IR*); *Ma’arikh*, s.v. *bosita*; Liebes, *Peraqim*, 134–35; Corominas, *Diccionario*, 1:603–4. Cf. *Zohar* [[Zohar 8.09 - Idra Rabba#^z3-128b|3:128b]] (*IR*); Luria, *Va-Ye’esof David*, s.v. *besit*.
+    “Mouth” renders בסיטא (*besita*), which apparently derives from Castilian *boca*, “mouth,” with the diminutive suffix *ita*. See *Zohar* [[Zohar 4.04 - Parashat Va-Era#^z2-30b|2:30b]], [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a-c|177a]] (*SdTs*); [[Zohar 8.09 - Idra Rabba#^z3-131a|3:131a]] (*IR*); *Ma’arikh*, s.v. *bosita*; Liebes, *Peraqim*, 134–35; Corominas, *Diccionario*, 1:603–4. Cf. *Zohar* [[Zohar 8.09 - Idra Rabba#^z3-128b|3:128b]] (*IR*); Luria, *Va-Ye’esof David*, s.v. *besit*.
 
     The full verse in Genesis reads: *God said, “Let there be a firmament in the midst of the waters, and let it divide water from water.”* The full verse in Psalms reads: *By the word of YHVH the heavens were made, and by the breath of His mouth all their array*.
 

@@ -60,7 +60,7 @@ The number of phonemes contained in the nineteen” Parts of the Goddess (Parāp
 
 ### TĀ 16.218–219
 
-The procedure for the deposition (of the goddess) Aparā (HRĪH HÜM PHAT)“ is said to be one phoneme and a half (for the principles) up to the Root (Nature) (PHAT), there is a single phoneme (HRĪH) (for the principles from there) up to Māyā, and one (HŪM) (for the remaining principles) ending with \[illegible\] (218) (218cd-219ab) 
+The procedure for the deposition (of the goddess) Aparā (HRĪH HÜM PHAT)“ is said to be one phoneme and a half (for the principles) up to the Root (Nature) (PHAT), there is a single phoneme (HRĪH) (for the principles from there) up to Māyā, and one (HŪM) (for the remaining principles) ending with Śakti. (218) (218cd-219ab) 
 
 ### TĀ 16.219–220
 
@@ -359,7 +359,7 @@ He concludes this (teaching saying):
 एवं परापरादेव्याः स्वतन्त्रो न्यास उच्यते ।
 \[illegible\] parāparādevyāḥ svatantro nyāsa ucyate | 
 
-Such is said to be the independent deposition of the Goddess \[illegible\] (236ab) (236cd) 
+Such is said to be the independent deposition of the Goddess Parāparā. (236ab) (236cd) 
 
 #### Viveka on 16.236
 
@@ -577,7 +577,7 @@ In the case of an initiation that takes place in association with (the Kaula) su
 
 #### Viveka on 16.248
 
-‘Its (corresponding) mantra’, characterized by the disciple’s name encapsulated by the purifying (mantra). In actual fact that is the instrumental cause of ‘the conjunction (of the disciple’s soul) with (the sequence of) births (in the worlds) or separation (from \[illegible\] This is the meaning. 
+‘Its (corresponding) mantra’, characterized by the disciple’s name encapsulated by the purifying (mantra). In actual fact that is the instrumental cause of ‘the conjunction (of the disciple’s soul) with (the sequence of) births (in the worlds) or separation (from them).’ This is the meaning. 
 
 Again, in 
 
@@ -818,7 +818,7 @@ Surely (one may ask), if this is so, then how can one distinguish (the direct un
 śsabdāc chabdāntare tena vyutpattir vyavadhānataḥ |
 vyavahārāt tu sā sākṣāc citropākhyāvimarśinī ॥ 263 ॥ 
 
-299\. Abhinava says we should not consider that synonymous words like ‘jar’ (ghaṭa) and ‘pot’ (kumbha) denote two different things. However, not uncommonly, two or more words with the same meaning have different etymological derivations. Such is the case with the words pāṇi and kara, which both mean ‘hand’. Even if the etymology of the two words differs, as happens for example with the word \[illegible\] which derived from panāyate, ‘playing at dice’ and ‘kara’, from karoti, ‘to do’. The difference is that we apprehend directly, through common usage, the meaning of the words for jar, whereas the understanding of the meaning of the words for hand, through their etymology, is indirect. But even though, as synonyms their meaning is the same and does not change, they can also be understood to each have their own specific meaning in accord with their etymology. About synonyms and related matters, see K. Kunjunni Raja (1963: pp. 32ff.) and Kumārila, TV 1/3/26.
+299\. Abhinava says we should not consider that synonymous words like ‘jar’ (ghaṭa) and ‘pot’ (kumbha) denote two different things. However, not uncommonly, two or more words with the same meaning have different etymological derivations. Such is the case with the words pāṇi and kara, which both mean ‘hand’. Even if the etymology of the two words differs, as happens for example with the word ‘pāṇi’, which derived from panāyate, ‘playing at dice’ and ‘kara’, from karoti, ‘to do’. The difference is that we apprehend directly, through common usage, the meaning of the words for jar, whereas the understanding of the meaning of the words for hand, through their etymology, is indirect. But even though, as synonyms their meaning is the same and does not change, they can also be understood to each have their own specific meaning in accord with their etymology. About synonyms and related matters, see K. Kunjunni Raja (1963: pp. 32ff.) and Kumārila, TV 1/3/26.
 
 
 *[p. 116]* ^pg136
@@ -868,7 +868,7 @@ Thus, (the Lord) has adopted Mantra (as a means to realization), observing that 
 
 #### Viveka on 16.265–267
 
-[^300]: possess a special sacred power to bring about particular results and are themselves sacred. Even so, they exist and operate on the same principle as common language, namely, convention (saṁketa). Convention determines the meaning of words and their usage in a language shared by those who know the convention on which that language is based. Abhinava argues that, although the source of discursivity, the formation and knowledge of a convention cannot belong to the domain of discursivity. Thought is a kind of inner speech (saṁjalpa), it is discursive. The convention on which it is based is grounded in pure, universal non-conceptual ‘I’ consciousness that precedes it. In the following passage, Abhinava refers to it as the ‘supreme mantra’, which is the supreme level of Speech. “This process of entry into consciousness is here (according to us) everywhere (in every case) such (as is about to be described). An entity (padārtha), (whatever it may be, whether) imagined or directly perceived, is in this way \[illegible\] established in the great (effulgent) Mantric power (mahaḥ) of Supreme Speech, which is the pure reflective awareness that is not subject to Māyā (amāyīya) and not conventional (asārketika). (This is) where the votaries of all schools proclaim the (state or) plane (of consciousness) free of thought constructs (avikalpā daśsā) (is found). That (effulgent) power of the supreme mantra (ahaṁ) is (all the fundamental energies which generate the variety of things represented by) the letters K onwards, whether individually or combined together as seeds or syllabic groups (pinda) etc. which, ultimately real, are (present in the principles) of Earth and the rest (to which they correspond). Otherwise, (if this were not so,) all (prior) non-conceptual perceptions (nirvikalpajñānāni), be they of mount Meru or a tree, of water or of fire, of existence or non-existence, of a jar or of pleasure, would all be the same. (As a result,) the same would apply to conceptual knowledge, which arises from non-conceptual knowledge, (and so its fundamental nature) cannot essentially differ from it. (The wise man) who knows everything (sarvajña) sees (clearly) in this way that the body, which is not conventional, of that Mantra (asāṁketikaṁ mantravapuḥ) is itself the various form (of things diversified inwardly by the) mutual difference (of one part with respect to another) (anyonyavicitrarūpa), and the means by which convention (is formed, established and applied) (saṁketopāya). (Thus, seeing it in this way,) they teach it as being an object of worship (and practice) (upāsyatayā).’ PTv p. 193-194.
+[^300]: possess a special sacred power to bring about particular results and are themselves sacred. Even so, they exist and operate on the same principle as common language, namely, convention (saṁketa). Convention determines the meaning of words and their usage in a language shared by those who know the convention on which that language is based. Abhinava argues that, although the source of discursivity, the formation and knowledge of a convention cannot belong to the domain of discursivity. Thought is a kind of inner speech (saṁjalpa), it is discursive. The convention on which it is based is grounded in pure, universal non-conceptual ‘I’ consciousness that precedes it. In the following passage, Abhinava refers to it as the ‘supreme mantra’, which is the supreme level of Speech. “This process of entry into consciousness is here (according to us) everywhere (in every case) such (as is about to be described). An entity (padārtha), (whatever it may be, whether) imagined or directly perceived, is in this way (tāvat) established in the great (effulgent) Mantric power (mahaḥ) of Supreme Speech, which is the pure reflective awareness that is not subject to Māyā (amāyīya) and not conventional (asārketika). (This is) where the votaries of all schools proclaim the (state or) plane (of consciousness) free of thought constructs (avikalpā daśsā) (is found). That (effulgent) power of the supreme mantra (ahaṁ) is (all the fundamental energies which generate the variety of things represented by) the letters K onwards, whether individually or combined together as seeds or syllabic groups (pinda) etc. which, ultimately real, are (present in the principles) of Earth and the rest (to which they correspond). Otherwise, (if this were not so,) all (prior) non-conceptual perceptions (nirvikalpajñānāni), be they of mount Meru or a tree, of water or of fire, of existence or non-existence, of a jar or of pleasure, would all be the same. (As a result,) the same would apply to conceptual knowledge, which arises from non-conceptual knowledge, (and so its fundamental nature) cannot essentially differ from it. (The wise man) who knows everything (sarvajña) sees (clearly) in this way that the body, which is not conventional, of that Mantra (asāṁketikaṁ mantravapuḥ) is itself the various form (of things diversified inwardly by the) mutual difference (of one part with respect to another) (anyonyavicitrarūpa), and the means by which convention (is formed, established and applied) (saṁketopāya). (Thus, seeing it in this way,) they teach it as being an object of worship (and practice) (upāsyatayā).’ PTv p. 193-194.
 
 *[p. 118]* ^pg138
 
@@ -917,13 +917,13 @@ Thus, in this way, the teacher who is intent on the application (parisīilana) o
 tena mantrārthasaṁbodhe mantravārtikam ādarāt |
 ūhāpohaprayogaṁ vā sarvathā gurur ācaret ॥ 268 ॥ 
 
-Therefore, in order to awaken (the disciple) to the meaning (purpose, goal and ultimate nature of) Mantras (mantrārtha), the teacher should with (great) respect make use in every way of the explanation of the mantras (mantravārttika) (found in the scriptures and transmitted by the tradition), or (when they are used for ritual purposes,) apply the methods of modification \[illegible\] and exclusion (apoha). (268) (268cd-269ab) 
+Therefore, in order to awaken (the disciple) to the meaning (purpose, goal and ultimate nature of) Mantras (mantrārtha), the teacher should with (great) respect make use in every way of the explanation of the mantras (mantravārttika) (found in the scriptures and transmitted by the tradition), or (when they are used for ritual purposes,) apply the methods of modification (ūha) and exclusion (apoha). (268) (268cd-269ab) 
 
 #### Viveka on 16.268–269
 
 Surely (one may ask), if there is no such teacher, then what should be done? With this doubt in mind, he says: 
 
-[^304]: Abhinavagupta uses here the language of the grammarians and of the Mīmaṁsā, the philosophy adapted to the exegesis of the Veda and Vedic ritual. The word \[illegible\] in a non-technical sense means ‘deliberation’ or ‘consideration’. It also means ‘transposition’ or ‘modification’. In the context of Vedic mantras, it denotes the modification of a word in a Vedic mantra to adapt it to the context in which that mantra will be used. This modification or adaptation of a mantra is generally obtained by changing the suffixes of the cases (see, concerning this method, Mahābhāṣya, Paśpa śāhnika, I, 1, e; Concerning üha — 'modification’ according to the Mīmāṁsa, see Ganganatha Jha 1942: 294-299. In this Tantric context, it is the generation of a series of mantras on the basis of a common arrangement that is applied to a series of realities, entities or deities modified accord to each particular instance. Abhinava gives an example below (17/1 1cd- 13ab) of how that takes place with respect to the mantras of the reality levels (tartva) invoked and thereby purified by the utterance of their respective invocatory mantra. The term apoha is here probably synonymous with bādha, which is the exclusion of aspects of the original mantra of the rite which is being celebrated (concerning this see Ganganatha Jha, op. cit., pp. 300-306). In that case, a mantra is modified by exclusion of its parts in order to apply it to a correspondingly changed entity the mantra invokes.
+[^304]: Abhinavagupta uses here the language of the grammarians and of the Mīmaṁsā, the philosophy adapted to the exegesis of the Veda and Vedic ritual. The word ūha in a non-technical sense means ‘deliberation’ or ‘consideration’. It also means ‘transposition’ or ‘modification’. In the context of Vedic mantras, it denotes the modification of a word in a Vedic mantra to adapt it to the context in which that mantra will be used. This modification or adaptation of a mantra is generally obtained by changing the suffixes of the cases (see, concerning this method, Mahābhāṣya, Paśpa śāhnika, I, 1, e; Concerning üha — 'modification’ according to the Mīmāṁsa, see Ganganatha Jha 1942: 294-299. In this Tantric context, it is the generation of a series of mantras on the basis of a common arrangement that is applied to a series of realities, entities or deities modified accord to each particular instance. Abhinava gives an example below (17/1 1cd- 13ab) of how that takes place with respect to the mantras of the reality levels (tartva) invoked and thereby purified by the utterance of their respective invocatory mantra. The term apoha is here probably synonymous with bādha, which is the exclusion of aspects of the original mantra of the rite which is being celebrated (concerning this see Ganganatha Jha, op. cit., pp. 300-306). In that case, a mantra is modified by exclusion of its parts in order to apply it to a correspondingly changed entity the mantra invokes.
 
 *[p. 120]* ^pg140
 
@@ -1156,7 +1156,7 @@ The Clarity of the Object of Meditation Increases in Accord with the Decrease of
 tad evan mantrasañjalpavikalpābhyāsayogataḥ ॥ 279 ॥
 bhāvyavastusphuṭībhāvaḥ sañjalpahrāsayogataḥ | 
 
-In this way, by the yoga of the practice of the discourse \[illegible\] and thought (vikalpa) of Mantra, the clarity with which the reality that is the object of meditation (bhāvyavastu) (manifests) is (such) in association with the (degree in which) discourse decreases. (279cd-280ab) (280) 
+In this way, by the yoga of the practice of the discourse (saṁjalpa) and thought (vikalpa) of Mantra, the clarity with which the reality that is the object of meditation (bhāvyavastu) (manifests) is (such) in association with the (degree in which) discourse decreases. (279cd-280ab) (280) 
 
 #### Viveka on 16.280
 
@@ -1535,7 +1535,7 @@ Purification of the Disciple’s Karma by Initiation
 यः पुनलौकिक भोगं राज्यस्वगीदिकं शिशुः त्यक्त्वा लोकोत्तरं भोगमीप्सुस्तस्य शुभेष्वपि ।। ३०३ ॥
 
 duṣtānām eva sarveṣāṁ bhūtabhavyabhaviṣyatām |
-karmanārm śodhanaṁ \[illegible\] bubhukṣor na śubhātmanām ॥ 302 ॥
+karmanārm śodhanaṁ kāryaṁ bubhukṣor na śubhātmanām ॥ 302 ॥
 yah punar laukikaṁ bhogaṁ rājyasvargādikaṁ śisuḥ |
 tyaktvā lokottaraṁ bhogam īpsus tasya śubheṣv api | 303 ॥ 
 
@@ -1640,7 +1640,7 @@ Now he concludes, (summarizing) the subject of (this) chapter with the first hal
 ### TĀ 16.311
 
 इति प्रमेयं कथितं दीक्षाकाले गुरोर्यथा ।
-iti prameya \[illegible\] dīkṣā kāle guror yathā | 
+iti prameya kathitaṁ dīkṣā kāle guror yathā | 
 
 Thus, that which needs to be known has been declared, namely the manner of the initiation (the teacher imparts) at (the appropriate) time. (311ab) (311cd) 
 

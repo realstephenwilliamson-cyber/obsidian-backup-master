@@ -790,7 +790,7 @@ Now, in order to place the Lotus of Knowledge on the throne, on top of the pillo
 
 947?\. SvT 4/313d.
 
-948?\. \[illegible\] yatra yatra mano yāti jñeyaṁ tatraiva cintayet | calitvā yāsyate kutra sarvaṁ śivamayaṁ yataḥ || 4-313 ॥ “(For such a great yogi,) wherever (his) mind goes, he should think that (the supreme reality) which is to be known is there. As everything is Siva \[illegible\] having moved (from one place), where will it go (that is not Śiva)?” SvT 4/313
+948?\. \[illegible\] yatra yatra mano yāti jñeyaṁ tatraiva cintayet | calitvā yāsyate kutra sarvaṁ śivamayaṁ yataḥ || 4-313 ॥ “(For such a great yogi,) wherever (his) mind goes, he should think that (the supreme reality) which is to be known is there. As everything is Siva (śivamaya), having moved (from one place), where will it go (that is not Śiva)?” SvT 4/313
 
 
 *[p. 385]* ^pg403
@@ -802,10 +802,10 @@ The white lotus has these colours. It is white because it is (the principle of) 
 vāmār pūrvadale nyasya jyeṣthāṁi vahnidalāśritām |
 raudrīm dakṣinapatre tu kālīṁ nairrtagocare ॥ 68 ॥
 kalavikaranīri \[illegible\] vinyasyed \[illegible\] dale |
-balavikaranīṁ \[illegible\] vāyavyadalamāśritām ॥ 69 ॥
+balavikaranīṁ devīṁ vāyavyadalamāśritām ॥ 69 ॥
 balapramathanī devīmuttare viniyojayet |
 sarvabhūtadamanīṁ ca eśānyār viniyojayet ॥ 70 ॥
-madhye manonmanīṁ \[illegible\] karnikāyāṁ niveśayet | 
+madhye manonmanīṁ devīṁ karnikāyāṁ niveśayet | 
 
 ‘Place Vāmā on the eastern petal. Then Jyeṣtṭhā is placed on the southeastern petal. Raudrī is on the southern petal and Kālī is in the area of the southwest (nairrta). The one (called) Kalavikaraṇī should be deposited on the western petal. The one (called) Balavikaraṇī is located on the petal in the northwest. The goddess Balapramathanī should be allocated to the north and Sarvabhūtadamanī to the northeast. The one called Manonmanī should be placed in the middle of the calyx.’ (68-7 lab) 
 

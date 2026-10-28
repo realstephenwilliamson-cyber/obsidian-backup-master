@@ -115,7 +115,7 @@ dīkṣākarmoditar tatra tatra śāstre maheśinā ॥ 6 ॥
 
 466?\. The use of the Parā Vidyā (SAUH) here and the Mālinī alphabet qualifies this brief initiation as a Trika rite. However, Abhinava is quick to tell us here and at the end of this chapter (18/11) that this rite is taught in various Tantras, referring especially to the Kirana and Dīkṣottara, both of which are Siddhāntāgamas, although he does also refer to the Brahmayāmala (18/9). Jayaratha quotes a parallel passage from what appears to be the Kiranatantra, in which, instead of Parā, we find Śiva. Although these lines cannot be traced in the 12 chapters of the published Vidyāpāda, the reference in the vocative to Garuda, who only dialogues with Śiva in the Kiranatantra, practically confirms that it is drawn from the remaining unpublished part. Thus, as Abhinava does not cite any Trika source, as he would normally do, it is possible that Abhinava has drawn the basic framework of this brief, simple procedure from the two Siddhāntas and made it into a Trika rite. Certainly, Jayaratha could not find a Trika source.
 
-467?\. MS Th \[illegible\] ante — Śiva at the end’ for śivamantre.- ‘within Śiva’s mantra’.
+467?\. MS Th śivam ante — Śiva at the end’ for śivamantre.- ‘within Śiva’s mantra’.
 
 468?\. Read with MS Th -saṁyuktaṁ for —saryuktāṁ.
 

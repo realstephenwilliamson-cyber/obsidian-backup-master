@@ -417,7 +417,7 @@ Having made the mandala and worshiped the deity there, (the teacher) should fash
 
 602?\. TSā p. 166 ‘and the mantra is (spontaneously) energetic by itself mantraḥ svayaṁ dīptaś ca.
 
-603?\. \[illegible\] Unlike the normal funerary rites \[illegible\] which are performed as a matter of course (see below, Chapter Twenty-four), these rites are meant to rescue those who have died impure deaths or in a state of impurity in such circumstances as listed above, which would not allow them access to them, or required extra reparation. Sanderson (2006: 32) observes that the Vedic smārta counterpart of this is ‘the Nārāyaṇabali or Sūryabali, which is performed for exactly the same classes of individuals a year after their death. Those rites are then performed over the next few days. They begin with a ritual of cremation (antyeṣṭiḥ) in which a crude doll (parnapuruṣa) takes the place of the non-existent corpse, and end with the sapindīkarana ritual in which the deceased (pretaḥ) is incorporated as an ancestor (pity). While in the smārta rite, it was simply the ritual processing (saṁskāraḥ) and disposal (pratipattiḥ) of the sacrificer's body and implements (āyudham), here it was part of the initiatory destruction of the bonds \[illegible\] which hold the omniscient and omnipotent soul in ignorance and impotence of the cycles of births and deaths (saṁsāraḥ).
+603?\. \[illegible\] Unlike the normal funerary rites (antyeṣṭi), which are performed as a matter of course (see below, Chapter Twenty-four), these rites are meant to rescue those who have died impure deaths or in a state of impurity in such circumstances as listed above, which would not allow them access to them, or required extra reparation. Sanderson (2006: 32) observes that the Vedic smārta counterpart of this is ‘the Nārāyaṇabali or Sūryabali, which is performed for exactly the same classes of individuals a year after their death. Those rites are then performed over the next few days. They begin with a ritual of cremation (antyeṣṭiḥ) in which a crude doll (parnapuruṣa) takes the place of the non-existent corpse, and end with the sapindīkarana ritual in which the deceased (pretaḥ) is incorporated as an ancestor (pity). While in the smārta rite, it was simply the ritual processing (saṁskāraḥ) and disposal (pratipattiḥ) of the sacrificer's body and implements (āyudham), here it was part of the initiatory destruction of the bonds \[illegible\] which hold the omniscient and omnipotent soul in ignorance and impotence of the cycles of births and deaths (saṁsāraḥ).
 
 
 *[p. 258]* ^pg278
@@ -530,7 +530,7 @@ karṣanīye ‘tha jive yogaḥ śrīśambhunāthāgamaparigamito
 
 jālanāmā mayoktaḥ ॥ 26 ॥ 
 
-By this (means), (the soul) that is to be covered (by the Net) at first turns, helpless, towards (the teacher) and, if it is a wakeful fettered soul \[illegible\] is then led (to him), as desired, from out of the midst of the Path. Thus, I have taught the conjunction (yoga) I have learnt from the venerable Śambhunātha and the scriptures, called ‘the Net’. (It is applied) when attracting (a person who is absent into one’s presence) \[illegible\] and rescuing (it) (uddhṛti), when dead. Or else, in the case of a living soul (that is absent), that needs to (be captured by the Net and) dragged (into the teacher’s presence to receive initiation). (26) 
+By this (means), (the soul) that is to be covered (by the Net) at first turns, helpless, towards (the teacher) and, if it is a wakeful fettered soul (sakala), is then led (to him), as desired, from out of the midst of the Path. Thus, I have taught the conjunction (yoga) I have learnt from the venerable Śambhunātha and the scriptures, called ‘the Net’. (It is applied) when attracting (a person who is absent into one’s presence) (ākṛṣṭi), and rescuing (it) (uddhṛti), when dead. Or else, in the case of a living soul (that is absent), that needs to (be captured by the Net and) dragged (into the teacher’s presence to receive initiation). (26) 
 
 #### Viveka on 21.26
 
@@ -663,7 +663,7 @@ Surely (one may ask), in this way, by not abandoning that body, that soul does n
 तदेहसंस्थितोऽप्येष जीवो जालबलादिमम् ।
 दा्भादिदेहं व्याप्नोति स्वाधिष्ठित्याप्यचेतयन् ॥ ३३ ॥
 
-taddehasaṁsthito ‘py \[illegible\] jīvo jālabalād imam |
+taddehasaṁsthito ‘py eṣa jīvo jālabalād imam |
 dārbhādidehaṁ vyāpnoti svādhiṣthityāpy acetayan ॥ 33 ॥ 
 
 Although this soul resides in (his own) body, by virtue of the power of the Net, he (occupies and) pervades the effigy (deha) made of kuśa grass 
@@ -880,7 +880,7 @@ When (the teacher) is initiating (a disciple) in absentia, (he) may conjoin (him
 
 #### Viveka on 21.48
 
-‘So that he can enjoy worldly benefits (bhogāya)’, not, indeed, liberation. (A lack of worldly desire) ‘is rare’, because one does not expect the severance of latent tendencies to (take pleasure in) worldly experience (bhogavāsanā). A lack of desire for worldly enjoyment (bhoga) (is possible, and) does happen in the case of some great souls, and that contributes to (their) liberation. Thus he says: \[illegible\] else if there is (no desire, he may conjoin the disciple to reality levels) in order to destroy (further binding) worldly experience’. 
+‘So that he can enjoy worldly benefits (bhogāya)’, not, indeed, liberation. (A lack of worldly desire) ‘is rare’, because one does not expect the severance of latent tendencies to (take pleasure in) worldly experience (bhogavāsanā). A lack of desire for worldly enjoyment (bhoga) (is possible, and) does happen in the case of some great souls, and that contributes to (their) liberation. Thus he says: ‘or else if there is (no desire, he may conjoin the disciple to reality levels) in order to destroy (further binding) worldly experience’. 
 
 Surely (one may ask), if during an initiation in absentia (the teacher) performs (a rite) that conjoins (the disciple to other reality levels and worlds,) so that in this way he may have the worldly experience (that is the consequence of his Karma), how can that be (his) liberation, even if there is no desire for worldly experience? With this doubt in mind, he gives the reply (that remedies it), along with a supporting argument. 
 
@@ -990,7 +990,7 @@ Here (in this context, he now) presents another view.
 कृत्वा विधिमिमां चापि दीक्षां कुयीदशङ्कितः ॥ ५८ ॥
 yadi vā daiśikaḥ samyañ na dīptas tasya tatpurā ॥ 57 ॥
 prāyaścittais tathā dānaiḥ prāṇāyāmaiś ca śodhanam |
-kṛtvā vidhim \[illegible\] cāpi \[illegible\] kuryād aśaṁkitaḥ ॥ 58 ॥ 
+kṛtvā vidhim imāṁ cāpi \[illegible\] kuryād aśaṁkitaḥ ॥ 58 ॥ 
 
 Or else, if the teacher (feels that he is) not properly (and fully inspired and) energized (dīpta), he may execute this procedure, and so too 
 

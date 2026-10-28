@@ -58,7 +58,7 @@ This initiation that is called that of (the teacher’s spiritual) son possesses
 
 *[p. 296]* ^pg316
 
-‘This’ (initiation is) with seed. By virtue of (their) consecration, these two (i.e. the teacher and the adept) possess the authority (to be so), and that (authority) should be given to (the disciple) once he has been examined (for his competence to receive it). Thus, one begins to examine the teacher \[illegible\] due order’ etc. ‘In due order’ means primarily what he has learnt (śruta), (then his) cognition (cintā) (on it), and so \[illegible\] That should be related everywhere (to all these cases). ‘Wishes to be so (bubhūṣu) and will be so (in the future)’ is in relation to (the disciple’s) well-practiced knowledge.? 
+‘This’ (initiation is) with seed. By virtue of (their) consecration, these two (i.e. the teacher and the adept) possess the authority (to be so), and that (authority) should be given to (the disciple) once he has been examined (for his competence to receive it). Thus, one begins to examine the teacher ‘in due order’ etc. ‘In due order’ means primarily what he has learnt (śruta), (then his) cognition (cintā) (on it), and so on. That should be related everywhere (to all these cases). ‘Wishes to be so (bubhūṣu) and will be so (in the future)’ is in relation to (the disciple’s) well-practiced knowledge.? 
 
 Surely, it is said everywhere (in the scriptures) that only consecration can confer such authority. So here (in this case) also, simply perform the consecration (and the disciple will have that authority). What use is there to consider (whether the disciple is) a well-exercised man of knowledge (or not)? With this doubt in mind, he says: 
 
@@ -118,7 +118,7 @@ Defects of a False Teacher
 कुण्डो गोलश्च ते दुष्ट उक्त देव्याख्ययामले ।
 पुनभान्यलिद्गो यः पुनः शवे प्रतिष्ठितः ॥ १० ॥
 
-na svayaṁbhüs tasya \[illegible\] lakṣanaṁ parameśinā |
+na svayaṁbhüs tasya coktaṁ lakṣanaṁ parameśinā |
 abhakto jīvitadhiyā kurvan nīśānadhiṣthitaḥ ॥ 8 ॥
 paśvātmanā svayarṁbhūṣnur nādhikārī sa kutracit | 
 
@@ -665,7 +665,7 @@ He now concludes the main point.
 विद्यात्रतमिदं प्रोक्तं मन्रवीर्यप्रसिद्धये ॥ ३९ ॥
 तच्च तादात्म्यमेवेति यदुक्तं स्पन्दशासने ।
 
-736?\. \[illegible\] See above, 6/161 and note. The standard ascent of Sound with the breath through \[illegible\] is in twelve stages beginning from the heart (see Appendix A to Chapter One). In this case, four extra steps have been added below, and the goal is counted separately, thus making seventeen stations of ascent. The reason for this number may well be that it coincides with the number of syllables of the Kālasaṁkarṣiṇī Vidyā. If that is so, the adept who recites the Vidyā should imagine first, and then experience directly, that this rise takes place progressively through these stages in the course of the utterance of the Vidyā. However, a problem arises here. The visualization starts and ends in the wheel of the heart. How does the breath travel down below that to the Root and then back up to the heart? The answer seems to be that this is a separate practice. Once the teacher has generated potency of his mantras, he can recite them in any of these subtle centres in his own, or his disciple’s body. Wherever he does so, the mantras are equally effective.
+736?\. \[illegible\] See above, 6/161 and note. The standard ascent of Sound with the breath through suṣumnā is in twelve stages beginning from the heart (see Appendix A to Chapter One). In this case, four extra steps have been added below, and the goal is counted separately, thus making seventeen stations of ascent. The reason for this number may well be that it coincides with the number of syllables of the Kālasaṁkarṣiṇī Vidyā. If that is so, the adept who recites the Vidyā should imagine first, and then experience directly, that this rise takes place progressively through these stages in the course of the utterance of the Vidyā. However, a problem arises here. The visualization starts and ends in the wheel of the heart. How does the breath travel down below that to the Root and then back up to the heart? The answer seems to be that this is a separate practice. Once the teacher has generated potency of his mantras, he can recite them in any of these subtle centres in his own, or his disciple’s body. Wherever he does so, the mantras are equally effective.
 
 737?\. Devyāyāmala also quoted above ad 8/398-400ab (397cd-399).
 
@@ -879,7 +879,7 @@ cintayitvā tayā grastaprakāśari tarn vicintayet ॥ 54 ॥
 anena kramayogena mūdhabuddher durātmanaḥ |
 vijñānamantravidyādyāḥ prakurvanty apakāritām ॥ 55 ॥ 
 
-“Although (the disciple) was not known (to be fickle and deceitful) but comes to be known (to be such, the teacher) should take away (this) knowledge (from \[illegible\] If the (teacher) comes to know repeatedly that (the disciple) is devoid of faith (in him), he should then imagine (dhyayet) him be 
+“Although (the disciple) was not known (to be fickle and deceitful) but comes to be known (to be such, the teacher) should take away (this) knowledge (from him). If the (teacher) comes to know repeatedly that (the disciple) is devoid of faith (in him), he should then imagine (dhyayet) him be 
 
 749?\. Verses 23/51cd-55 are based on MV 18/57cd-66ab.
 
@@ -1165,7 +1165,7 @@ adhahśāstraṁ prapadyāpi na śreyaḥ pātratām iyāt ॥ 70 ॥
 adhodṛṣṭau prapannas tu tad anāśvastamānasaḥ |
 ūrdhvaśāsanabhāk pāpaṁ tac cojjhec ca śivībhavet ॥ 71 ॥ 
 
-He who, propense to a superior doctrine \[illegible\] loses (his) faith in it and so subsequently follows an inferior scripture, (will never) become worthy of the more excellent one (śreyas). However, he who (on the contrary), is propense to an inferior doctrine, (but his) mind has no faith (in it) and adheres (instead) to a more elevated teaching (śāsana), may abandon the sin (and blame of his former belief) and identify with Śiva. (10-71) 
+He who, propense to a superior doctrine (dṛṣti), loses (his) faith in it and so subsequently follows an inferior scripture, (will never) become worthy of the more excellent one (śreyas). However, he who (on the contrary), is propense to an inferior doctrine, (but his) mind has no faith (in it) and adheres (instead) to a more elevated teaching (śāsana), may abandon the sin (and blame of his former belief) and identify with Śiva. (10-71) 
 
 #### Viveka on 23.70–71
 
@@ -1504,7 +1504,7 @@ Surely (one may ask), all these fettered souls manifest within consciousness, an
 नन्वेष कस्माद् दृष्टान्तः किमेतेनाशुभं कृतम् ।
 चित्स्मन्दः सर्वगो भिन्नादुपाधेः स तथा तथा ॥ ९३ ॥
 
-nanv \[illegible\] kasmād dṛṣtāntaḥ kim etenāśubhari kṛtam |
+nanv eṣa kasmād dṛṣtāntaḥ kim etenāśubhari kṛtam |
 citspandaḥ sarvago bhinnād upādheḥ sa tathā tathā ॥ 93 ॥ 
 
 Surely (one may ask), how is it that that example (has been given)? (Our response to this question is,) what has been done in this way that is inauspicious (and inappropriate)? The pulse of consciousness (citspanda) is (indeed) present (equally) in all (things), but because the limiting adjuncts (that contain it) are diverse (and divided, it manifests accordingly) in this way and that. (93) 
@@ -1548,7 +1548,7 @@ asaṁbhāvyatayā cātra dṛdhakopaprasādavat || 95 ॥
 
 #### Viveka on 23.95
 
-This is not said to be a type of spontaneous enlightenment that occurs here, (in the case of) one who is obscured. Rather, the word ‘type’ is used with the intention that (it is nothing more than) just a possibility that this (person whose consciousness) is obscured proceeds (on his own) by the power of the descent of grace. The meaning is the descent of the power (of grace) he has generally is of the weakest sort (mandamanda). Moreover, that is impossible, just as it is for a king to be gracious towards someone he has made an object of his anger without the prior intercession of someone else, because (his anger is very) intense. In the same way, how is it possible for knowledge to arise (spontaneously) by itself even for him, without a teacher? The removal of knowledge is classified (into different types) in this way, with respect to the field of its application \[illegible\] 
+This is not said to be a type of spontaneous enlightenment that occurs here, (in the case of) one who is obscured. Rather, the word ‘type’ is used with the intention that (it is nothing more than) just a possibility that this (person whose consciousness) is obscured proceeds (on his own) by the power of the descent of grace. The meaning is the descent of the power (of grace) he has generally is of the weakest sort (mandamanda). Moreover, that is impossible, just as it is for a king to be gracious towards someone he has made an object of his anger without the prior intercession of someone else, because (his anger is very) intense. In the same way, how is it possible for knowledge to arise (spontaneously) by itself even for him, without a teacher? The removal of knowledge is classified (into different types) in this way, with respect to the field of its application (viṣaya). 
 
 And that must necessarily be observed by the teacher. Accordingly, he says: 
 

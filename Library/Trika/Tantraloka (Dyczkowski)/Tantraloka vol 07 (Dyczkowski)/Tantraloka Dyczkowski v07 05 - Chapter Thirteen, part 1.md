@@ -90,7 +90,7 @@ intellect down to Earth,) partakes (of the experience of) pleasure, pain and del
 
 *[p. 123]* ^pg143
 
-which consists of sattva and the other (experiential qualities in a balanced state in which none predominates over the others, and so forms a single unified field of undifferentiated, pure objectivity) that has many forms (as it gives rise to many effects). (However, although we agree that this pure objectivity exists, we do not agree with the Sāṁkhya that it is a self-subsistent causal reality; on the contrary,) it is (a phenomenal) effect, as (is any common object) like a jar, and (this is why it) is insentient (acetana) (not because it is an independent reality that is separate and differs from consciousness). (Dualist Saivites agree that it is not ultimate, but they maintain that) the sole cause of this (objectivity is Māyā), the Night \[illegible\] (and not ultimately consciousness, as we do). (3-4) 
+which consists of sattva and the other (experiential qualities in a balanced state in which none predominates over the others, and so forms a single unified field of undifferentiated, pure objectivity) that has many forms (as it gives rise to many effects). (However, although we agree that this pure objectivity exists, we do not agree with the Sāṁkhya that it is a self-subsistent causal reality; on the contrary,) it is (a phenomenal) effect, as (is any common object) like a jar, and (this is why it) is insentient (acetana) (not because it is an independent reality that is separate and differs from consciousness). (Dualist Saivites agree that it is not ultimate, but they maintain that) the sole cause of this (objectivity is Māyā), the Night (niśā) (and not ultimately consciousness, as we do). (3-4) 
 
 #### Viveka on 13.3–4
 
@@ -108,7 +108,7 @@ it is not multiple." Insofar as it is insentient, Unmanifest (Nature) is multipl
 
 Self, which is conscious.’ 
 
-As Unmanifest Nature is an effect, what (then) is its cause? Thus (in response to this question), it is said that ‘the sole cause of this (objectivity is Māyā), the Night \[illegible\] . 
+As Unmanifest Nature is an effect, what (then) is its cause? Thus (in response to this question), it is said that ‘the sole cause of this (objectivity is Māyā), the Night (niśā)’. . 
 
 Surely (then, the Sāṁkhya opponent may object that), agreed that your Māyā is like our Nature, the cause of all things, then what is the need to also (postulate the existence of) the Lord (īśvara), who presides over it? With this doubt in mind, he says: 
 
@@ -222,7 +222,7 @@ Now (Kṛṣṇa declares in the Bhagavadgītā): ʻO Arjuna, the fire of knowle
 
 Naiyāyikas) say (that) the cause is of many kinds, such as attendance to the six or sixteen realities (padārtha).” So, (having said) that much (tāvaf), we do not know which one out of these (alternatives) has been ordained (to be its cause). He says there (with regards to that,) with reference to (the view of) the Mīmāṁsā (and the Nyāya), that accept the existence of a God (who governs the universe and ordains its laws, and that the means to this liberating knowledge is the observance of) ‘the duty (dharma) enjoined (codita) by God’. The meaning is that (this) ‘duty’, which is variously (otherwise) termed, for example ‘apūrva’ etc., has as its characteristic that it is ‘enjoined’, (the injunction being that) ‘one should offer sacrifice’ (to the gods) (yajet).? (But) 
 
-279?\. Jayaratha is referring here to the Vaiśeṣika and its closely related philosophy, Nyāya. The Vaiśeṣika ‘takes its name from \[illegible\] (particularity); it emphasizes the significance of particulars or individuals, and is decidedly pluralistic. The Vaiśeṣika is mainly a system of physics and metaphysics. It adopts a sixfold classification of the objects of experience (padārthas): substance, quality, activity, generality, and inherence, to which later Vaiśeṣikas added a seventh, non-existence. We find that three of these (substance, quality and activity) possess real objective existence and we can intuit them; others (generality, particularity, and inherence) are the products of intellectual discrimination. They are logically inferred, not directly perceived.’ (Radhakrishnan and Moor 1957; 386). These categories are described in detail in the Vaiseṣikasūtra ascribed to Kaṇāda written not later than 300 BCE. ‘Nyāya’ literally means ‘that by which the mind is led to a conclusion’. We are led to conclusions by argument and reasoning. These arguments are either valid or invalid. ‘Nyāya’ in popular usage means ‘right’ or ‘just’, and so Nyāya becomes the science of right or just reasoning. It is, in a wider sense, the science of demonstration or correct knowledge (pramāṇaśāstra).' (op. cit. p. 356). Thus, the most basic of the sixteen categories on which the Naiyāyika reflects are concerned with that. The remaining ones are concerned with the principles of sound disputation and the identification of unsound ones. Gotama, also called Akṣapāda, who lived in the third century BCE, was a founder of the system. He wrote the Nyāyasūtra which begins in the first sūtra with a list of these categories that are then discussed in the same serial order in succeeding sections of the text. They are: (1) the means of authoritative knowledge (pramāṇa), (2) the object of knowledge (prameya), (3) doubt (saṁśaya / śaṅkā), (4) purpose (prayojana), (5) familiar instance (dṛstānta), (6) established tenets (siddhānta), (7) the members of a syllogism (avayava), (8) logical reasoning (tarka), (9) ascertainment (nirṇaya), (10) discussion (vāda), (11) wrangling (jalpa), (12) cavil (vitandā), (13) fallacies (hetvābhāsa), (14) deceitful quibbling (chala), (15) futility (āti), and (16) occasions for rebuke (nigrahasthāna).
+279?\. Jayaratha is referring here to the Vaiśeṣika and its closely related philosophy, Nyāya. The Vaiśeṣika ‘takes its name from ‘viśeṣa’ (particularity); it emphasizes the significance of particulars or individuals, and is decidedly pluralistic. The Vaiśeṣika is mainly a system of physics and metaphysics. It adopts a sixfold classification of the objects of experience (padārthas): substance, quality, activity, generality, and inherence, to which later Vaiśeṣikas added a seventh, non-existence. We find that three of these (substance, quality and activity) possess real objective existence and we can intuit them; others (generality, particularity, and inherence) are the products of intellectual discrimination. They are logically inferred, not directly perceived.’ (Radhakrishnan and Moor 1957; 386). These categories are described in detail in the Vaiseṣikasūtra ascribed to Kaṇāda written not later than 300 BCE. ‘Nyāya’ literally means ‘that by which the mind is led to a conclusion’. We are led to conclusions by argument and reasoning. These arguments are either valid or invalid. ‘Nyāya’ in popular usage means ‘right’ or ‘just’, and so Nyāya becomes the science of right or just reasoning. It is, in a wider sense, the science of demonstration or correct knowledge (pramāṇaśāstra).' (op. cit. p. 356). Thus, the most basic of the sixteen categories on which the Naiyāyika reflects are concerned with that. The remaining ones are concerned with the principles of sound disputation and the identification of unsound ones. Gotama, also called Akṣapāda, who lived in the third century BCE, was a founder of the system. He wrote the Nyāyasūtra which begins in the first sūtra with a list of these categories that are then discussed in the same serial order in succeeding sections of the text. They are: (1) the means of authoritative knowledge (pramāṇa), (2) the object of knowledge (prameya), (3) doubt (saṁśaya / śaṅkā), (4) purpose (prayojana), (5) familiar instance (dṛstānta), (6) established tenets (siddhānta), (7) the members of a syllogism (avayava), (8) logical reasoning (tarka), (9) ascertainment (nirṇaya), (10) discussion (vāda), (11) wrangling (jalpa), (12) cavil (vitandā), (13) fallacies (hetvābhāsa), (14) deceitful quibbling (chala), (15) futility (āti), and (16) occasions for rebuke (nigrahasthāna).
 
 280?\. Apūrva is a term coined by the Mīmāṁsaka exegetes of Vedic ritual to denote the invisible merit accrued by performing Vedic sacrifices. Its existence explains how ritual action has a long-term effect at a distance. In this respect it is like Karma, but it is not a part of the processes and factors that bind the soul.
 
@@ -414,7 +414,7 @@ Ignorance as the Antecedent Absence of Knowledge is Refuted
 मुक्ताणोरपि सोऽस्त्येव जन्मतः प्रागसौ न च ।
 ज्ञानं भावि विमुक्तेऽस्मिन्निति चेच्चध्यतामिदम् ॥ १९ ॥
 
-bhāvinaḥ prāgabhāvaś ca jṁñānasyeti \[illegible\] sati ॥ 18 ॥
+bhāvinaḥ prāgabhāvaś ca jṁñānasyeti sthite sati ॥ 18 ॥
 muktānṇor api so ‘sty eva janmataḥ prāg asau na ca |
 jñānam bhāvi vimukte ‘sminn iti cec carcyatām idam || 19 || 
 
@@ -583,7 +583,7 @@ avaśyam iti kasyāpi na karmaprakṣayo bhavet |
 
 #### Viveka on 13.27–29
 
-‘Destruction’ is the Great Destruction (mahāsamihāra), that is, the total destruction that takes place due to the destruction of the body, vital breath, intellect, and void also (along with all else at the end of the period of creation). This is the meaning. (This continues) up to ‘the first’, that is, the initial (creation of the next cosmic cycle). There is no disagreement here that from the first creation, the Lord ordains the conjunction etc. of specific bodies with (particular) individual souls in accord with their own Karma. Karma, which is associated with ignorance, gives rise to its consequences, (but) when the body etc. has not arisen, ignorance is without support (adhikarana) and \[illegible\] does not exist. Thus, because its associated ancillary cause does not exist, the capacity Karmas have to give rise to (their) consequences is blocked, and so creation cannot take place. Thus, in that case, even just (the basic) functions (pravṛtti) of the Lord could not be accomplished, and nothing at all would exist. 
+‘Destruction’ is the Great Destruction (mahāsamihāra), that is, the total destruction that takes place due to the destruction of the body, vital breath, intellect, and void also (along with all else at the end of the period of creation). This is the meaning. (This continues) up to ‘the first’, that is, the initial (creation of the next cosmic cycle). There is no disagreement here that from the first creation, the Lord ordains the conjunction etc. of specific bodies with (particular) individual souls in accord with their own Karma. Karma, which is associated with ignorance, gives rise to its consequences, (but) when the body etc. has not arisen, ignorance is without support (adhikarana) and (so) does not exist. Thus, because its associated ancillary cause does not exist, the capacity Karmas have to give rise to (their) consequences is blocked, and so creation cannot take place. Thus, in that case, even just (the basic) functions (pravṛtti) of the Lord could not be accomplished, and nothing at all would exist. 
 
 Now, (as for the second alternative,) ignorance is associated with Karmas from the time of their arising up to the conclusion of (their) consequences, and (so) they must necessarily be associated with (ignorance) all the time. Thus, nobody’s Karma would ever cease” at any time, (for) it is said that it only due to the destruction of ignorance that that would be destroyed. (However,) ignorance is always associated with it, so how could this condition (ever) come about? 
 
@@ -619,7 +619,7 @@ Surely, (the opponent may rejoin, alright,) what is (the need) for us (to mainta
 स्वभावादिति चेनमक्ते शिवे वा किं तथा न हि ॥ ३१ ॥
 
 atha pralayakāle ‘pi citsvabhāvatvayogataḥ ॥ 30 ॥
-anṇūnāṁ sańibhavaty eva \[illegible\] mithyeti tat kutaḥ |
+anṇūnāṁ sańibhavaty eva jñānaṁ mithyeti tat kutaḥ |
 svabhāvād iti cen mukte śive vā kiṁ tathā na hi || 31 ॥ 
 
 Now, (you may reply that) it is possible for individual souls? to possess (some) knowledge even when cosmic destruction (pralaya) (takes place,) because of (their) connection with (their) (own essential) conscious nature. (But in that case, we reply by asking,) how could that (knowledge) be false? If you were to say that that is the essential nature (of knowledge itself), why then is it absent in that form (fathā) within Śiva, who is liberated? (30cd-31) 
@@ -910,7 +910,7 @@ As is said (concerning) ‘the term “ignorance”:
 
 *[p. 150]* ^pg170
 
-‘Impurity (mala), ignorance, the fettered state (paśutva), the producer of obscurity, delusion (famas), nescience (avidyā), obscuring covering \[illegible\] and coma (murccha) are said there (in that regard) to be synonyms. ’ 
+‘Impurity (mala), ignorance, the fettered state (paśutva), the producer of obscurity, delusion (famas), nescience (avidyā), obscuring covering (āvṛti), and coma (murccha) are said there (in that regard) to be synonyms. ’ 
 
 And how is that (obscuring covering)? Thus (in order to answer this question,) he says: 
 
@@ -930,7 +930,7 @@ bhede pramāṇābhāvāc ca tad ekar nikhilātmasu |
 
 ‘(Many and) various are the powers of Impurity that obscure the qualities of each soul (individually).’ \* 
 
-319?\. Read with the citation in the rātparyadīpikā and MS \[illegible\] tiraskārakaras for tiraskārarasas.
+319?\. Read with the citation in the rātparyadīpikā and MS Ṭh, tiraskārakaras for tiraskārarasas.
 
 320?\. Kirṇāgama vidyāpāda 2/20cd-2lab, quoted by Śrīkumāra in his commentary tātparyadīpikā on the Tattvaprakāśa. The citation reads in the tatpāryadīpikā ākṛtir for Āāvṛtir and tasya vācakāḥ for tatra coditāḥ.
 
@@ -1049,7 +1049,7 @@ jadam malari tad ajñānam sahsārāṁṁkurakāraṇam || 49 ॥
 
 #### Viveka on 13.49
 
-That ‘Impurity’ of Individuality (ānavamala), which is such, is the cause of the sprout of the world of transmigration, which is the Impurity of Māyā described (in, for example, the scripture that says that) ‘bodies, worlds and forms are (the Impurity of) Māyā \[illegible\] \^ It is like a sprout. It is the 
+That ‘Impurity’ of Individuality (ānavamala), which is such, is the cause of the sprout of the world of transmigration, which is the Impurity of Māyā described (in, for example, the scripture that says that) ‘bodies, worlds and forms are (the Impurity of) Māyā (māyīya).’ \^ It is like a sprout. It is the 
 
 330?\. Abhinavagupta first states the dualist Siddhānta view up to verse 52 and then goes on to refute it in the following verses, which conclude below in lines 9/98-100ab, to then put forward his own view as an introduction to his understanding of the nature of the descent of the power of grace (śaktipāta), its forms and modalities.
 
@@ -1062,7 +1062,7 @@ That ‘Impurity’ of Individuality (ānavamala), which is such, is the cause o
 
 cause of the Impurity of Karma. (The Impurity of Individuality, which is) its cause, as it is of the two Impurities (of Karma and Māyā together) also, is the instrumental cause (of the world of transmigratory existence), whether directly (sākṣāt) or indirectly (pāramparyena). This is the meaning. As is said: 
 
-‘(the soul’s essential) Impurity and Karma are the instrumental cause (nimitta), the effect (of which) follows \[illegible\] 
+‘(the soul’s essential) Impurity and Karma are the instrumental cause (nimitta), the effect (of which) follows after.’ 
 
 Surely, if Impurity is such, it is eternal and, permanently associated with (all) fettered souls, the world of transmigration would never quell it. Thus, the (undesired) consequence would be that there is no liberation. With this doubt in mind, he says: 
 
@@ -1076,7 +1076,7 @@ Positing the Existence of a Binding Power of Impurity is not a Solution
 
 tasya roddhrī yadā śaktir udāste śivaraśmibhiḥ ।
 tadāṇuḥ spṛśyate spṛṣtaḥ svake jñānakriye sphute ॥ 50 ॥
-samāviśed \[illegible\] sūryakānto ‘rkeṇeva coditaḥ | 
+samāviśed ayaṁ sūryakānto ‘rkeṇeva coditaḥ | 
 
 If the power (of Impurity), which paralyzes (the soul), ceases (to function), then the soul is touched by Śiva’s rays and touched (by the energy of Śiva’s grace, the soul) penetrates into its own (powers of) knowledge and action (now) fully evident (to it, and they operate within it) as does a magnifying glass (that, touched) by (the rays of) the sun, is impelled (to burn and illumine). (50-51ab) 
 
@@ -1124,7 +1124,7 @@ Surely (one may ask), it is taught everywhere (in all the scriptures) that the S
 ### TĀ 13.52
 
 स एष शक्तिपाताख्यः शासेषु परिभाष्यते ।। ५२ ॥
-sa \[illegible\] śaktipātākhyaḥ śāstreṣu paribhāṣyate ॥ 52 ॥ 
+sa eṣa śaktipātākhyaḥ śāstreṣu paribhāṣyate ॥ 52 ॥ 
 
 That is this (process of illumination,) termed in the scriptures ‘the descent of the power (of grace)’ (śaktipāta). (52cd) 
 

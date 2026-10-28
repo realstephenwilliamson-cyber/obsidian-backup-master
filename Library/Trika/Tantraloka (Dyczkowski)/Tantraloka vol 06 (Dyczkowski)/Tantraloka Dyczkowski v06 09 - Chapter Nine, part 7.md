@@ -257,7 +257,7 @@ The primarily fāmasika ego obscures the subjective aspect (bhoktraṁśa). It i
 
 5%Sound, touch, form, taste, and smell as the fifth ~ (these are) the subtle elements, (variously) specified by the qualities (of Nature)’ and conjoined to the plane (pada) of the subtle elements.” (Their) state is that of 
 
-5 These two verses are found in the Mṛgendratantra as vidyāpāda verses 12/5-6. Jayaratha does not tell us where he is drawing these verses from, but there can be little room to doubt that he is quoting from the MṛT. He has quoted MṛT vidyāpāda 12/3 ad 9/234 and M;T vidyāpāda 12/4 ad 9/253. Those two verses along with the ones here present the complete account found in the MṛT of how the three forms of the ego, sāttvika etc. develop to form the principles (tattva) below it. These two verses are not found in the printed edition of the MV. However, Somadeva (2004: 11 note 32.1-3) has identified them as the first two of three additional verses that come after verse 1/32 of the printed edition of the MV that are found in two manuscripts. One is MS C 4106 (V) Banaras Hindu University library, Varanasi and the other is MS no. 488. Collection of 1875-76 in Deccan College, Poone. Although we do find verses from the MV in references that cannot be traced in the printed edition, these two are probably not.  Read with MS V and P gunavisiṣṭās for gunṇā visi; iS. 5? Nārāyaṇakaṇtha comments on this verse in MṛT vi ;āpāda 12/5: śabdasparśarūparasagandhā aviśiṣtaguṇā anabhiv) ktaviśeṣatvena tāvanmātrapade bhūtaprakṛtitvarūpe yojitās tanmātrāśabdena 9 | tāvatyaś ca mātrās tanmātrā iti striliṅgo ‘yam iha tanmātrāśabdaḥ | guṇāviśiṣtatvaṁ caitāsām ittham- yathā pṛthivyāṁ khaṭakhaṭādirūpaḥ śabdaḥ, sparśaś ca śītoṣṇaḥ, rūpam api anekavidhaṁ śuklādi, ṣad-vidhaś ca raso gandhaś ca surabhyasurabhirūpo ‘sti \\ naiva tatkāraṇabhūta-prthivītanmātrāvasthitā \[illegible\] upalabhyante, api tu aviśiṣtaguṇnapañcakamātraṁ pṛthivītanmātram eva manyate | ‘Sound, touch, form, taste, and smell, without specific qualities, should be known by the word \[illegible\] As no specific qualities are manifest, they are on the plane (pada) of just essential basic existence (tāvanmātra), linked to their material nature, which is that of the (five) elements (bhūtaprakṛti). The word ‘tanmātrā’ is feminine here (and literally means) ‘just these alone’ (in the sense of a purely generic ‘sound’ or ‘touch’ etc. unspecified as a particular one). The absence of specifying qualities in their case (corresponds to a nondescript) sound such as a ‘khaṭa khaṭa’ in (the case of) Earth; touch that is warm and cold, form also that is of many kinds, such as white and the like, taste is of six kinds (sweet (madhura), sour (amla), salty (lavana), pungent \[illegible\] bitter (tikta) and astringent (kaṣāya)), smell that can be fragrant or not. Particulars are not perceived in this way to be present in the subtle element of Earth,
+5 These two verses are found in the Mṛgendratantra as vidyāpāda verses 12/5-6. Jayaratha does not tell us where he is drawing these verses from, but there can be little room to doubt that he is quoting from the MṛT. He has quoted MṛT vidyāpāda 12/3 ad 9/234 and M;T vidyāpāda 12/4 ad 9/253. Those two verses along with the ones here present the complete account found in the MṛT of how the three forms of the ego, sāttvika etc. develop to form the principles (tattva) below it. These two verses are not found in the printed edition of the MV. However, Somadeva (2004: 11 note 32.1-3) has identified them as the first two of three additional verses that come after verse 1/32 of the printed edition of the MV that are found in two manuscripts. One is MS C 4106 (V) Banaras Hindu University library, Varanasi and the other is MS no. 488. Collection of 1875-76 in Deccan College, Poone. Although we do find verses from the MV in references that cannot be traced in the printed edition, these two are probably not.  Read with MS V and P gunavisiṣṭās for gunṇā visi; iS. 5? Nārāyaṇakaṇtha comments on this verse in MṛT vi ;āpāda 12/5: śabdasparśarūparasagandhā aviśiṣtaguṇā anabhiv) ktaviśeṣatvena tāvanmātrapade bhūtaprakṛtitvarūpe yojitās tanmātrāśabdena 9 | tāvatyaś ca mātrās tanmātrā iti striliṅgo ‘yam iha tanmātrāśabdaḥ | guṇāviśiṣtatvaṁ caitāsām ittham- yathā pṛthivyāṁ khaṭakhaṭādirūpaḥ śabdaḥ, sparśaś ca śītoṣṇaḥ, rūpam api anekavidhaṁ śuklādi, ṣad-vidhaś ca raso gandhaś ca surabhyasurabhirūpo ‘sti \\ naiva tatkāraṇabhūta-prthivītanmātrāvasthitā \[illegible\] upalabhyante, api tu aviśiṣtaguṇnapañcakamātraṁ pṛthivītanmātram eva manyate | ‘Sound, touch, form, taste, and smell, without specific qualities, should be known by the word ‘tanmātra’. As no specific qualities are manifest, they are on the plane (pada) of just essential basic existence (tāvanmātra), linked to their material nature, which is that of the (five) elements (bhūtaprakṛti). The word ‘tanmātrā’ is feminine here (and literally means) ‘just these alone’ (in the sense of a purely generic ‘sound’ or ‘touch’ etc. unspecified as a particular one). The absence of specifying qualities in their case (corresponds to a nondescript) sound such as a ‘khaṭa khaṭa’ in (the case of) Earth; touch that is warm and cold, form also that is of many kinds, such as white and the like, taste is of six kinds (sweet (madhura), sour (amla), salty (lavana), pungent (kaṭuka), bitter (tikta) and astringent (kaṣāya)), smell that can be fragrant or not. Particulars are not perceived in this way to be present in the subtle element of Earth,
 
 *[p. 253]* ^pg272
 
@@ -443,7 +443,7 @@ related to action (karman) and the like, that are based on the two of them, and 
 
 The mind, in the course of determining (the nature of the) entity perceived (vyavasita), for example, by the sense of sight, brings (the initial sensory perception) to the stage in which its nature is ascertained. Then, after the thought processes (kalpanā) (related to the perception of the object are over), it generates the thought processes (kalpana) associated with action and the like, based on the two, that is, the unity (of the perceiving and acting subject) and diversity (of the object). Such is the subjectivity of the Māyā perceiver, that is said to be ‘the activity of the subject’. 
 
-In accord with the principle \[illegible\] that ‘on the plane of indeterminate perception (nirvikalpa), this, the Lord’s state, is also that of the fettered \[illegible\] each phenomenal entity would manifest as one (abhedena) (with all the others). So how can the journey of the everyday life (lokayātrā), which consists of (both) the oneness (abheda) (of the perceiver) and the diversity (bheda) (of the outer world), be accomplished (nirvavet)? 
+In accord with the principle (nīti) that ‘on the plane of indeterminate perception (nirvikalpa), this, the Lord’s state, is also that of the fettered \[illegible\] each phenomenal entity would manifest as one (abhedena) (with all the others). So how can the journey of the everyday life (lokayātrā), which consists of (both) the oneness (abheda) (of the perceiver) and the diversity (bheda) (of the outer world), be accomplished (nirvavet)? 
 
 Moreover, here (according to us), the subtle elements (are derived from) the tāmasika ego, which is the first (of the series of principles beginning with) the gross elements (bhūtādi). Thus he says: 
 
@@ -469,7 +469,7 @@ None disagree here that that objectively perceivable reality (grāhya) commences
 
 #### Viveka on 9.280
 
-Nobody disagrees here that this is the beginning of the objectively perceivable (reality) (grāhya), which is a permutation (of the \[illegible\] Thus, it is 
+Nobody disagrees here that this is the beginning of the objectively perceivable (reality) (grāhya), which is a permutation (of the ego). Thus, it is 
 
 5 Drawn from ĪP 2/2/3. See Torella 1994b p. 159 and note 8. 59 Cf, ĪPVv vol. 3 p. 314: sā pūrvabhāvinī nirvikalpadaśā yasyām aiśvaro bhāvaḥ “That is the plane of indeterminate perception that precedes (determinate perception). The Lord’s state (bhāva) is within that.” 0 Read vikaranātmano for varanātmano.
 
@@ -577,7 +577,7 @@ When the subtle element of sound is disturbed, it becomes the Space element, whi
 
 *[p. 264]* ^pg283
 
-Surely (one may ask), according to others, sound is only the quality of Space. As they say: ‘There the qualities of Space are sound, number, change, separation, conjunction and \[illegible\] Thus how is it that it is said here that Air also possesses that quality? With this doubt in mind, he says: 
+Surely (one may ask), according to others, sound is only the quality of Space. As they say: ‘There the qualities of Space are sound, number, change, separation, conjunction and division.’ Thus how is it that it is said here that Air also possesses that quality? With this doubt in mind, he says: 
 
 ### TĀ 9.285–287
 
@@ -631,7 +631,7 @@ tatra pratyakṣataḥ siddho dharādir gunasañcayaḥ |
 
 *[p. 266]* ^pg285
 
-Direct perception proves that Earth and the other (gross \[illegible\] consist of the aggregate of (these) qualities. (289ab) 
+Direct perception proves that Earth and the other (gross elements) consist of the aggregate of (these) qualities. (289ab) 
 
 #### Viveka on 9.289
 
@@ -759,7 +759,7 @@ He (now) concludes the main point.
 तेन धममीतिरिक्तोऽत्र धर्मी नाम न कश्चन ।
 tena dharmātirikto ‘tra dharmī nāma na kaścana | 
 
-Thus here (according to us), there is no bearer of qualities at all that is separate from \[illegible\] (294ab) 
+Thus here (according to us), there is no bearer of qualities at all that is separate from them. (294ab) 
 
 #### Viveka on 9.294
 
@@ -810,7 +810,7 @@ They are ‘of many kinds’. There (in that case), 1) smell is of two kinds, fr
 
 *[p. 272]* ^pg291
 
-5\) (The sounds within Earth) are ‘varied’, because they (may be any number of sounds and noises), such as ‘khata \[illegible\] and the like. The three ‘clear white (sweet and cold)’ are the objects of form, taste and touch (respectively). As is said: 
+5\) (The sounds within Earth) are ‘varied’, because they (may be any number of sounds and noises), such as ‘khata khaṭa’ and the like. The three ‘clear white (sweet and cold)’ are the objects of form, taste and touch (respectively). As is said: 
 
 ‘White, sweet and cold are form, taste and touch.’ 
 
@@ -876,7 +876,7 @@ Surely (they may say that,) if the sound is in the drum, it is because the drum 
 न च हेतुत्वमात्रेण तदादानत्ववेदनात् ।
 na ca hetutvamātreṇa tadādānatvavedanāt | 
 
-This is because we do not have the idea of receiving \[illegible\] that (sound) just because (the drum) is the cause (of it). (299ab) 
+This is because we do not have the idea of receiving (ādāna) that (sound) just because (the drum) is the cause (of it). (299ab) 
 
 #### Viveka on 9.299
 
@@ -1012,7 +1012,7 @@ To the degree in which the mass of reality levels (tattva) of these (principles)
 
 ‘Māyā, Being (sat), and finally the Lord \[illegible\] are the three principles called the Self (ātmatattva), Knowledge (vidyātattva) and Śiva. (Each) with respect to the one which precedes (progressively) possesses (more of the) light which is consciousness.’ 
 
-It is said in this way that. although the quality which is their nature as consciousness (ciddharmatā), present in the principles consisting of Māyā and the rest, which (collectively) are Nara, is not prominent (aviśiṣṭa), that is, is less, even sọ, just as in the descending sequence, the gross quality of their objectivity increases progressively; so too (conversely), in their ascending sequence, (this,) their specific (and most excellent quality) \[illegible\] progressively (increases). To the degree in which the quality (of consciousness of) the preceding principle goes on increasing (with respect to the ones that follow), it pervades the principles from Earth onwards, as does Water Earth, and Fire (Water) and so on. 
+It is said in this way that. although the quality which is their nature as consciousness (ciddharmatā), present in the principles consisting of Māyā and the rest, which (collectively) are Nara, is not prominent (aviśiṣṭa), that is, is less, even sọ, just as in the descending sequence, the gross quality of their objectivity increases progressively; so too (conversely), in their ascending sequence, (this,) their specific (and most excellent quality) (viśeṣa), progressively (increases). To the degree in which the quality (of consciousness of) the preceding principle goes on increasing (with respect to the ones that follow), it pervades the principles from Earth onwards, as does Water Earth, and Fire (Water) and so on. 
 
 Surely (one may ask), as is the case with fire and smoke, the cause invariably accompanies (its) effect and so pervades it, and (conversely), the effect invariably accompanies that and so is pervaded (by it). Or else, like an actor who is covered by a curtain, the subtle, (which is the actor’s true identity,) is pervaded, and the gross, (which is the role he plays,) pervades (it). So what is (all this) talk here of the progressive excellence of (the Principles’ respective) qualities (gunādhikya)? With this doubt in mind, he says: 
 

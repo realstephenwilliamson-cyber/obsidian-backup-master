@@ -1286,7 +1286,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
     The spark is so potently brilliant that it overwhelms comprehension. Many mystics convey similar paradoxical images: “a ray of divine darkness” (Dionysius, *Mystical Theology* 1:1); “the luminous darkness” (Gregory of Nyssa, *Life of Moses* 2:163); “the black light” (Iranian Sufism; see Corbin, *The Man of Light in Iranian Sufism*, 99–120). Prior to the *Zohar*, Azriel of Gerona and the author of *Ma’yan ha-Ḥokhmah* mention “the light darkened from shining.” See Verman, *The Books of Contemplation*, 59–60, 158–59; Scholem, *Origins of the Kabbalah*, 336. Cf. Maimonides, *Guide of the Perplexed* 1:59: “We are dazzled by His beauty, and He is hidden from us because of the intensity with which He becomes manifest, just as the sun is hidden to eyes too weak to apprehend it.”
 
-    Here the blinding spark is the first impulse of emanation flashing from *Ein Sof* through *Keter* and proceeding to delineate the various *sefirot*. (On the connection between *qardinuta* and measurement, see Liebes, *Peraqim*, 146–49, 162–63.) The goal of meditation is to attain this spark and participate in the primal flow of being. See *ZḤ* [[Zohar 12.09 - Qav ha-Middah#^zh-57d|57d–58a]] (*QhM*); cf. *Zohar* [[#^z1-18b|1:18b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-86b|86b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-172a|172a]]; [[Zohar 5.05 - Parashat Terumah#^z2-133b|2:133b]], [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a|177a]], [[Zohar 6.06 - Parashat Pequdei#^z2-233a|233a]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-254b|254b]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-260a|260a]]; [[Zohar 7.06 - Parashat Tazri'a#^z3-48b|3:48b–49a]], [[Zohar 8.09 - Idra Rabba#^z3-135b|135b]], [[Zohar 8.09 - Idra Rabba#^z3-139a|139a]] (*IR*), [[Zohar 9.15 - Idra Zuta#^z3-292b|292b]], [[Zohar 9.15 - Idra Zuta#^z3-295a|295a–b]] (*IZ*).
+    Here the blinding spark is the first impulse of emanation flashing from *Ein Sof* through *Keter* and proceeding to delineate the various *sefirot*. (On the connection between *qardinuta* and measurement, see Liebes, *Peraqim*, 146–49, 162–63.) The goal of meditation is to attain this spark and participate in the primal flow of being. See *ZḤ* [[Zohar 12.09 - Qav ha-Middah#^zh-57d|57d–58a]] (*QhM*); cf. *Zohar* [[#^z1-18b|1:18b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-86b|86b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-172a|172a]]; [[Zohar 5.05 - Parashat Terumah#^z2-133b|2:133b]], [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a-c|177a]], [[Zohar 6.06 - Parashat Pequdei#^z2-233a|233a]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-254b|254b]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-260a|260a]]; [[Zohar 7.06 - Parashat Tazri'a#^z3-48b|3:48b–49a]], [[Zohar 8.09 - Idra Rabba#^z3-135b|135b]], [[Zohar 8.09 - Idra Rabba#^z3-139a|139a]] (*IR*), [[Zohar 9.15 - Idra Zuta#^z3-292b|292b]], [[Zohar 9.15 - Idra Zuta#^z3-295a|295a–b]] (*IZ*).
 
     Other renderings of the phrase include: חשוכה‎ מנורה (*menorah ḥashukhah*), “a dark lamp” (Galante); חזק‎ ניצוץ (*nitsots ḥazaq*), “powerful spark” (*DE*); חשך‎ של‎ נר (*ner shel ḥoshekh*), “a lamp of darkness” (Elijah of Vilna, *Yahel Or*); “a dark flame” (Scholem, *Zohar*, 27); “a very powerful light” (Scholem, *Kabbalah*, 228); “a lamp of scintillation \[or: darkness, measurement\]” (Sperling and Simon, *The Zohar*); “a blinding spark” (Matt, *Zohar*, 49); *une flamme obscure* (Mopsik, *Le Zohar*); “the hardened spark” (Wolfson, “Woman—The Feminine as Other in Theosophic Kabbalah,” 178–82). On the phallic connotations of the phrase, see Wolfson’s discussion there and in his *Circle in the Square*, 60–62, and index, s.v. “hardened spark”; Liebes, “*Zohar ve-Eros*,” 73–80.
 
@@ -1484,7 +1484,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
 [^72]: **standing above** ***the enlightened,*** **of whom is written...** The *sky* is *Tif’eret*, who stands above *the enlightened*, specifically *Netsaḥ* and *Hod*, also called *the heads*. The *living being* (חיה \[*ḥayyah*\]) is *Shekhinah*, who controls and sustains the holy *ḥayyot* (“living creatures, animals”), who support the Chariot, the divine throne.
 
-    See Ezra of Gerona, *Peirush Shir ha-Shirim*, 508–9; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|1:12b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-242a|242a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-48b|2:48b]], [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177b|177b–178a]] (*SdTs*); [[Zohar 7.06 - Parashat Tazri'a#^z3-46b|3:46b]].
+    See Ezra of Gerona, *Peirush Shir ha-Shirim*, 508–9; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|1:12b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-242a|242a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-48b|2:48b]], [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177b-c|177b–178a]] (*SdTs*); [[Zohar 7.06 - Parashat Tazri'a#^z3-46b|3:46b]].
 
 [^73]: **illumining Torah** The radiance illumines *Tif’eret*, called Written Torah, and through Him, the lower *sefirot*.
 
@@ -1818,7 +1818,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
 [^206]: **these are אלהים** (***Elohim***), ***God*, and these are אדני** (***Adonai***), **Lord...** *Binah* is *Elohim* and the first ה (*he*) of יהוה (*YHVH*); *Shekhinah* is *Adonai* and the second ה (*he*).
 
-    See *Bahir* 20 (29); *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-62a|1:62a]]; [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a|2:177a]] (*SdTs*); [[Zohar 7.08 - Parashat Aharei Mot#^z3-74b|3:74b]], [[Zohar 8.04 - Parashat Emor#^z3-89b|89b]]; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-82c|82c]] (*MhN, Rut*).
+    See *Bahir* 20 (29); *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-62a|1:62a]]; [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a-c|2:177a]] (*SdTs*); [[Zohar 7.08 - Parashat Aharei Mot#^z3-74b|3:74b]], [[Zohar 8.04 - Parashat Emor#^z3-89b|89b]]; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-82c|82c]] (*MhN, Rut*).
 
 [^207]: **this expansion took this name...** The emanation proceeded from *Binah*, first to *Ḥesed* and then to *Gevurah*, which took the name *Elohim*, previously associated with *Binah*, the upper waters.
 
@@ -3204,7 +3204,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
 [^750]: **Those waters conceived...** See *Shemot Rabbah* 15:22: “Water conceived and bore darkness.” Here apparently the lower waters give birth to darkness. Cf. *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-103b|1:103b]], where the waters of *Ḥesed* give birth to the darkness of *Gevurah*.
 
-[^751]: ***The curtain will serve you as a partition...*** The curtain in the Tabernacle parallels the diaphragm in the human body and the *expanse* in the cosmos. Here *the curtain* symbolizes *Yesod*, who separates *Shekhinah* and *Binah*, symbolized respectively by *the Holy* and *the Holy of Holies*. See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178b|2:178b]] (*SdTs*).
+[^751]: ***The curtain will serve you as a partition...*** The curtain in the Tabernacle parallels the diaphragm in the human body and the *expanse* in the cosmos. Here *the curtain* symbolizes *Yesod*, who separates *Shekhinah* and *Binah*, symbolized respectively by *the Holy* and *the Holy of Holies*. See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178b-c|2:178b]] (*SdTs*).
 
 [^752]: **the uppermost waters ... the house...** The emanation emerging from *Ḥokhmah* (*wisdom*) and *Binah* (*understanding*) culminates in *Shekhinah*, the *house*.
 
@@ -3252,7 +3252,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
     “By the pint” renders בקסטייהו (*be-qistaihu*), “in their pints.” The singular, קסטא (*qista*), derives from the Greek *xestes*, a measure about the size of a pint. See [[Job 28#^28-25|Job 28:25]], also cited above: *He meted the waters by measure*. Cf. *Bereshit Rabbah* 4:5: “Ben Pazzi said, ‘The upper waters exceed the lower waters by about thirty *xestes*.’”
 
-[^770]: ***The curtain shall serve you...** As the curtain* divides *between the Holy and the Holy of Holies*, so *Yesod, the expanse*, separates the upper and lower waters. See above, page 200; cf. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178b|2:178b]] (*SdTs*).
+[^770]: ***The curtain shall serve you...** As the curtain* divides *between the Holy and the Holy of Holies*, so *Yesod, the expanse*, separates the upper and lower waters. See above, page 200; cf. *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178b-c|2:178b]] (*SdTs*).
 
 [^771]: **what is written next...** In the account of the third day of Creation.
 
@@ -3496,7 +3496,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
 [^864]: **that** ***living being*** **gliding... Night** *Shekhinah*, the Divine Presence who spreads over the entire world. The word רומשת (*romeset*), *glides*, is here identified with רמש (*remesh*), “evening.”
 
-    On *Shekhinah* as *ḥayyah*, see Ezra of Gerona, *Peirush Shir ha-Shirim*, 508–9; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|1:12b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-242a|242a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-48b|2:48b]], [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177b|177b–178a]] (*SdTs*); [[Zohar 7.06 - Parashat Tazri'a#^z3-46b|3:46b]].
+    On *Shekhinah* as *ḥayyah*, see Ezra of Gerona, *Peirush Shir ha-Shirim*, 508–9; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|1:12b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-242a|242a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-48b|2:48b]], [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177b-c|177b–178a]] (*SdTs*); [[Zohar 7.06 - Parashat Tazri'a#^z3-46b|3:46b]].
 
 [^865]: **for waters nourish them** Emanation flowing from the *sefirot* nourishes the souls emerging from *Shekhinah*.
 
@@ -3932,7 +3932,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
 [^1022]: ***sixty mighty men encircling her*** The female figure in the Song of Songs is identified with *Shekhinah*, who is surrounded by sixty angelic powers. See *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-5a|2:5a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-51a|51a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-60a|3:60a]].
 
-[^1023]: **מעולם** (***me-olam***), ***from the world*, literally,** ***from the world,*** **precisely!** The word עולם (*olam*) means both “eternity” and “world.” Rabbi Yose picks the second meaning, which is also one of the names of *Shekhinah*, the culmination of the upper world. From Her *the mighty men* derived. See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a|2:179a]] (*SdTs*); [[Zohar 8.09 - Idra Rabba#^z3-144a|3:144a]] (*IR*).
+[^1023]: **מעולם** (***me-olam***), ***from the world*, literally,** ***from the world,*** **precisely!** The word עולם (*olam*) means both “eternity” and “world.” Rabbi Yose picks the second meaning, which is also one of the names of *Shekhinah*, the culmination of the upper world. From Her *the mighty men* derived. See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a-c|2:179a]] (*SdTs*); [[Zohar 8.09 - Idra Rabba#^z3-144a|3:144a]] (*IR*).
 
 [^1024]: **What does** ***name*** **mean?...** *Shekhinah*, known as *the world*, is also the divine name, the full expression of divine being.
 
@@ -4006,7 +4006,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
 [^1045]: **He is the Lad...** Through his heavenly journey, Enoch was transformed into the chief angel, Metatron, also known as the Lad (heavenly servant). Rabbi Abba proves the identification of Enoch with the Lad by citing the phrase from Proverbs: לנער‎ חנוך (*ḥanokh la-na’ar*), *train the lad*, which is understood to mean that *Ḥanokh* (Enoch) was transformed into *the lad*.
 
-    See 3 Enoch 4:1–10; BT *Yevamot* [[Yevamot 16#16b|16b]], and *Tosafot*, s.v. *pasuq zeh; Targum Yerushalmi*, [[Torah 01 - Bereshit#^5-24|Genesis 5:24]]; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-223b|1:223b]]; [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a|2:179a]] (*SdTs*), Ginzberg, *Legends*, 5:162–63, n. 61; Scholem, *Kabbalah*, 378–79; Margaliot, *Mal’akhei El-yon*, 89–90.
+    See 3 Enoch 4:1–10; BT *Yevamot* [[Yevamot 16#16b|16b]], and *Tosafot*, s.v. *pasuq zeh; Targum Yerushalmi*, [[Torah 01 - Bereshit#^5-24|Genesis 5:24]]; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-223b|1:223b]]; [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a-c|2:179a]] (*SdTs*), Ginzberg, *Legends*, 5:162–63, n. 61; Scholem, *Kabbalah*, 378–79; Margaliot, *Mal’akhei El-yon*, 89–90.
 
 [^1046]: **he conveys one hundred blessings...** See *Shemot Rabbah* 21:4: “Rabbi Pinḥas said in the name of Rabbi Me’ir and Rabbi Yirmeyah said in the name of Rabbi Abba, ‘When Israel prays, you do not find them all praying as one, but rather each assembly prays on its own, one after the other. When they have all finished, the angel appointed over prayers gathers all the prayers offered in all the synagogues and weaves them into wreaths, which he places on the head of the blessed Holy One.’”
 
@@ -4262,7 +4262,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
 [^1130]: ***And every soul of the living being that moves*** The verse continues: *which the waters brought forth in swarms, according to its kind, and every winged bird, according to its kind*.
 
-[^1131]: **the actual** ***soul*** **of that** ***living being*** The souls of Israel derive from *Shekhinah*, who is known as *ḥayyah, living being*. On *Shekhinah* as *ḥayyah*, see Ezra of Gerona, *Peirush Shir ha-Shirim*, 508–9; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|1:12b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-242a|242a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-48b|2:48b]], [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177b|177b–178a]] (*SdTs*); [[Zohar 7.06 - Parashat Tazri'a#^z3-46b|3:46b]].
+[^1131]: **the actual** ***soul*** **of that** ***living being*** The souls of Israel derive from *Shekhinah*, who is known as *ḥayyah, living being*. On *Shekhinah* as *ḥayyah*, see Ezra of Gerona, *Peirush Shir ha-Shirim*, 508–9; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|1:12b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-242a|242a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-48b|2:48b]], [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177b-c|177b–178a]] (*SdTs*); [[Zohar 7.06 - Parashat Tazri'a#^z3-46b|3:46b]].
 
 [^1132]: ***a nation unique on earth*** The verse begins: *Who is like Your people, like Israel, a nation unique on earth...?* The phrase can also be translated *a single nation* \[or: *a nation of oneness*\] *on earth*, perhaps connected here to the singular *soul*.
 
@@ -5106,7 +5106,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
 [^1430]: **although he was** ***a lad*** **below...** Joshua’s description, נער (*na’ar*), *lad*, suggests the chief angel, Metatron—known as the Lad who serves beneath *Shekhinah*, receiving Her light. Joshua displayed the qualities of Metatron, yet he also reflected the defective nature of *Shekhinah*, symbolized by *the Tent*.
 
-    See BT *Yevamot* [[Yevamot 16#16b|16b]], and *Tosafot*, s.v. *pasuq zeh*; above, note 1045; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-223b|1:223b]]; [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a|2:179a]] (*SdTs*), Scholem, *Kabbalah*, 378–79; Margaliot, *Mal’akhei Elyon*, 89–90.
+    See BT *Yevamot* [[Yevamot 16#16b|16b]], and *Tosafot*, s.v. *pasuq zeh*; above, note 1045; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-223b|1:223b]]; [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a-c|2:179a]] (*SdTs*), Scholem, *Kabbalah*, 378–79; Margaliot, *Mal’akhei Elyon*, 89–90.
 
 [^1431]: **the blessed Holy One deprived him of those weapons...** Adam and Eve were stripped of their original potent splendor, here identified with the weapons bestowed upon Israel at Sinai.
 
@@ -5182,7 +5182,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
 [^1452]: **they taste a taste of death** See BT *Berakhot* [[Berakhot 57#57b|57b]]: “Sleep is one-sixtieth of death.” Cf. *Zohar* [[#^z1-36b|1:36b]].
 
-[^1453]: **whirlwind** קפטירא (*Qaftira*), a Zoharic neologism. See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178a|2:178a]] (*SdTs*); Liebes, *Peraqim*, 351.
+[^1453]: **whirlwind** קפטירא (*Qaftira*), a Zoharic neologism. See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178a-c|2:178a]] (*SdTs*); Liebes, *Peraqim*, 351.
 
 [^1454]: **the hands of a human being, now contaminated** During sleep one’s spirit soars upward and an impure spirit arrives.
 
@@ -5244,7 +5244,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
 [^1470]: **from him emerged all evil haunts...** On the demonic descendants of Cain, see El’azar of Worms, *Ḥokhmat ha-Nefesh*, 26c; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-9b|1:9b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-36b|36b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-178a|178a–b]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-76b|3:76b]], [[Zohar 8.08 - Parashat Naso#^z3-122a|122a]].
 
-[^1471]: **קין** (***Qayin***), **Cain—קינא** (***qina***), **nest...** The same play on words appears in *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178a|2:178a]] (*SdTs*).
+[^1471]: **קין** (***Qayin***), **Cain—קינא** (***qina***), **nest...** The same play on words appears in *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178a-c|2:178a]] (*SdTs*).
 
 [^1472]: **each from his own side...** See *Bereshit Rabbah* 22:5: “*Cain brought* \[*an offering to YHVH*\] *from the fruit of the soil*— from the inferior crops.” In this midrash the phrase *from the fruit* is taken to mean: “not from the first fruit.”
 
@@ -5566,7 +5566,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
     The number forty-five may allude to the numerical value of the divine name יהוה (*YHVH*) spelled out according to its letters: יוד (*yod*), הא (*he*), ואו (*vav*), הא (*he*), which equals the value of the word אדם (*adam*). See *Zohar* [[#^z1-34b|1:34b]].
 
-    In Heikhalot literature Enoch is identified with the chief angel, Metatron, sometimes described as קטן‎ יהוה (*YHVH Qatan*), “Lesser *YHVH*.” See BT *Yevamot* [[Yevamot 16#16b|16b]], and *Tosafot*, s.v. *pasuq zeh; Sanhedrin* 38b; *Targum Yerushalmi*, [[Torah 01 - Bereshit#^5-24|Genesis 5:24]]; *Zohar* [[#^z1-21a|1:21a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-37b|37b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-223b|223b]]; [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a|2:179a]] (*SdTs*), Scholem, *Kabbalah*, 378–79; Margaliot, *Mal’akhei Elyon*, 89–90.
+    In Heikhalot literature Enoch is identified with the chief angel, Metatron, sometimes described as קטן‎ יהוה (*YHVH Qatan*), “Lesser *YHVH*.” See BT *Yevamot* [[Yevamot 16#16b|16b]], and *Tosafot*, s.v. *pasuq zeh; Sanhedrin* 38b; *Targum Yerushalmi*, [[Torah 01 - Bereshit#^5-24|Genesis 5:24]]; *Zohar* [[#^z1-21a|1:21a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-37b|37b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-223b|223b]]; [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a-c|2:179a]] (*SdTs*), Scholem, *Kabbalah*, 378–79; Margaliot, *Mal’akhei Elyon*, 89–90.
 
 [^1575]: **This verse has been discussed...** See BT *Sotah* [[Sotah 42#42a|42a]]; *Niddah* [[Niddah 13#13b|13b]].
 

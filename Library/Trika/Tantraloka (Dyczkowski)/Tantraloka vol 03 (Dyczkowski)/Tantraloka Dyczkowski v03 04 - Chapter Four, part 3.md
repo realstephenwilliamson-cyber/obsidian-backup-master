@@ -112,7 +112,7 @@ sasphuratvaprasiddhyarthaṁ tataḥ sādhyaṁ prasiddhyati |
 
 *[p. 79]* ^pg92
 
-‘There’ in the venerable Brahmayāmala, (this) is said (concerning the adept who is) ‘free of thought’, in accord with the dictum: ‘one who has doubts is not successful’; and thought is doubt, which (in this case) is absent because his own view is sound. Even though (the disciple) ‘has served’ (his teacher and deity), repeating Mantra hundreds of thousands of times and the rest as taught in his own ritual procedure (kalpa), (but) due to some inability on (his) teacher’s part,[^203] (he does not achieve) the success which is its fruit, namely, the attainment of the object of (his) mind’s desire, then ‘what should he do’? When the goddess had asked this question, the Lord replied that ‘he should initiate himself’, that is, reflect (on his own nature) as supreme consciousness, so that it may serve as a further means to energize the nature of the Mantra, for example, that he is repeating, so that ‘they may be endowed with the effulgence of consciousness through the progressive (development) of his insight (saṁjñānakrama) into his own nature, that is, the correct insight into his own (nature) which is related to (his true) Self, which, free of the opposition of doubt, is (of the form) ‘the Self alone is all \[illegible\][^204] Its ‘progressive (development)’ is the ascent onto the supreme summit (of consciousness), in accord with the excellence of (his) practice. By virtue (of this practice), the adept ‘attains’ the reality he wishes to attain. The meaning is that (in this way) 
+‘There’ in the venerable Brahmayāmala, (this) is said (concerning the adept who is) ‘free of thought’, in accord with the dictum: ‘one who has doubts is not successful’; and thought is doubt, which (in this case) is absent because his own view is sound. Even though (the disciple) ‘has served’ (his teacher and deity), repeating Mantra hundreds of thousands of times and the rest as taught in his own ritual procedure (kalpa), (but) due to some inability on (his) teacher’s part,[^203] (he does not achieve) the success which is its fruit, namely, the attainment of the object of (his) mind’s desire, then ‘what should he do’? When the goddess had asked this question, the Lord replied that ‘he should initiate himself’, that is, reflect (on his own nature) as supreme consciousness, so that it may serve as a further means to energize the nature of the Mantra, for example, that he is repeating, so that ‘they may be endowed with the effulgence of consciousness through the progressive (development) of his insight (saṁjñānakrama) into his own nature, that is, the correct insight into his own (nature) which is related to (his true) Self, which, free of the opposition of doubt, is (of the form) ‘the Self alone is all this’.[^204] Its ‘progressive (development)’ is the ascent onto the supreme summit (of consciousness), in accord with the excellence of (his) practice. By virtue (of this practice), the adept ‘attains’ the reality he wishes to attain. The meaning is that (in this way) 
 
 [^203]: The printed text here clearly says that this inability (vaigunya) is that of the adept (sādhaka), but the remedy clearly implies that that it is the teacher who cannot elevate his disciple. Otherwise, if the adept could receive the initiation he needs from his teacher, why should he be advised to initiate himself? Accordingly, the reading sādhakasya — ʻadept’—has been emended to ācāryasya — ‘teacher
 
@@ -183,7 +183,7 @@ This is so because the goddess Raktā (herself) initiates him progressively by m
 
 All the (ritual and other) ritual action the teacher performs is indicated (by saying that the goddess) ‘initiates’ (the aspirant directly). As is said: 
 
-‘It is \[illegible\] (Herself) who offers oblation and repeats Mantra everywhere here to elevate[^210] (Her devotee).’ 
+‘It is Caṇḍikā (Herself) who offers oblation and repeats Mantra everywhere here to elevate[^210] (Her devotee).’ 
 
 (She does this) ‘progressively’ through (all the levels of initiation), beginning with (that of the first common) Śaiva initiation of the Rule (samaya). Surely (one may ask,) if this is the case, would not all the scriptures, which (invariably) praise the teacher, become meaningless? With this doubt in mind, he says: ‘if (the aspirant) cannot find a teacher’ and so on ‘such as has been described’, that is, ‘uncreated-cum-created’ etc., who is effulgent (with consciousness), ‘he should observe this procedure’; that is, he should practice the procedure previously described, of taking the mantra and the rest by himself. Otherwise, (if he does find a qualified teacher), he should, on the contrary, get the teacher to do everything (for him). This is the sense (of this verse). 
 
@@ -496,7 +496,7 @@ Surely (one may ask,) how can that be possible by just (a simple) confirmation? 
 yataḥ śāstrakramāt tajjñaguruprajñānuśīlanāt ॥ 77 ॥
 ātmapratyayitari jñānarṁi pūrṇatvād bhairavāyate | 
 
-This is so because the knowledge proved trustworthy by oneself, (attained) by putting into practice the procedures laid down in the scriptures (śāstrakrama) and attending to the wisdom (prajñā) of a teacher who knows them, is full (and perfect) \[illegible\] and so leads to the realisation of one’s authentic identity as Bhairava (bhairavāyate).[^240] (77cd-78ab) 
+This is so because the knowledge proved trustworthy by oneself, (attained) by putting into practice the procedures laid down in the scriptures (śāstrakrama) and attending to the wisdom (prajñā) of a teacher who knows them, is full (and perfect) (pūrṇa), and so leads to the realisation of one’s authentic identity as Bhairava (bhairavāyate).[^240] (77cd-78ab) 
 
 #### Viveka on 4.77–78
 
@@ -565,7 +565,7 @@ Surely (one may ask,) if the cause of knowledge of the supreme reality is all (t
 कर्तुं वासीं च टट च क्रकचं चापि गृहणते ॥ ८० ॥
 तावच्च छेदनं ह्येकं तथेवाद्याभिसंधितः ।
 
-karanṇasya vicitratvād vicitrām eva \[illegible\] chidam |
+karanṇasya vicitratvād vicitrām eva tāṁ chidam |
 kartuṁ vāsīṁ ca ṭaṁkaṁ ca krakacam cāpi gṛhnate ॥ 80 ॥
 tāvac ca chedanaṁ hy ekaṁ tathaivādyābhisaridhitaḥ | 
 
@@ -667,7 +667,7 @@ Moreover, by the perceiver’s application of many means of knowledge (coordinat
 
 *[p. 100]* ^pg113
 
-(perceptions) depends on the previous ones, and the previous ones on the subsequent ones, here (in our view), there is also no (such) vicious circle. This is because (according to us) the validity (of perceptions) is not mutually dependent (on one another). The validity of perceptions depends on the novelty of the manifestation (prakāśa — lit. \[illegible\] of the object (artha), and that light (of consciousness) which has as its object (some) novel entity is the (specific) separate condition of all things (as this or that). So what occasion could there be for (this kind of) vicious circle? It is said concerning the concurrence (of many valid perceptions together) (saṁplava) with respect to (a single entity that possesses many) properties (dharmin), that many means of knowledge operate in the case of just one entity. (However,) in actual fact, on the contrary, some particular attribute of an entity (dharmin) which is qualified by many attributes is made manifest as novel by some (means of knowledge, and others by others).[^258] Thus, once the perceiver has known the possessor of these attributes completely by first coming to know each particular attribute, he ultimately 
+(perceptions) depends on the previous ones, and the previous ones on the subsequent ones, here (in our view), there is also no (such) vicious circle. This is because (according to us) the validity (of perceptions) is not mutually dependent (on one another). The validity of perceptions depends on the novelty of the manifestation (prakāśa — lit. ‘light’) of the object (artha), and that light (of consciousness) which has as its object (some) novel entity is the (specific) separate condition of all things (as this or that). So what occasion could there be for (this kind of) vicious circle? It is said concerning the concurrence (of many valid perceptions together) (saṁplava) with respect to (a single entity that possesses many) properties (dharmin), that many means of knowledge operate in the case of just one entity. (However,) in actual fact, on the contrary, some particular attribute of an entity (dharmin) which is qualified by many attributes is made manifest as novel by some (means of knowledge, and others by others).[^258] Thus, once the perceiver has known the possessor of these attributes completely by first coming to know each particular attribute, he ultimately 
 
 becomes satisfied.[^259] 
 
@@ -797,7 +797,7 @@ It is said in the venerable Vīrāvali: ‘By dissolving the one-pointed mind in
 
 #### Viveka on 4.89–91
 
-The ‘dissolving away of the mind’ is the state of rest \[illegible\] within the sentient subject (cetayitr)[^272] (attained) by the progressive assimilation of 
+The ‘dissolving away of the mind’ is the state of rest (viśrānti) within the sentient subject (cetayitr)[^272] (attained) by the progressive assimilation of 
 
 [^268]: The Praśnopaniṣad identifies the vital breath - prāṇa — with the sun. When it rises in the East and then enters the other directions, it gathers up the vital breaths into its rays. The Upaniṣad goes on to declare that: ‘That very one rises who is prāṇa and fire, who is identified with all creatures . . . (Those who realised the Brahman knew) the one that is possessed of all forms, full of rays, endowed with illumination, the resort of all, the single light (of all), and the radiator of heat. It is the sun that rises ~ the sun that possesses a thousand rays, exists in a hundred forms and is the life (prāṇa) of all creatures,’ (1/6-8)
 

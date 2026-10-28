@@ -25,7 +25,7 @@ lesson: 19
 
 “*Tefillah L’Chabakkuk* (A prayer by Habakkuk) the prophet for having erred. [O God, I heard your utterance, I feared; O God, revive Your acts in the midst of years….]”
 
-The first chapter of the *Sifra De’Tzniuta* states ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b|Zohar II, 176b]]): **“As long as there was no scale, there was no providence face to face.”**
+The first chapter of the *Sifra De’Tzniuta* states ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b-c|Zohar II, 176b]]): **“As long as there was no scale, there was no providence face to face.”**
 
 Everyone wonders: Why is it necessary to travel to the tzaddik to hear \<ethical teachings> directly from him, when it is possible to study the ethical teachings from books? But, the truth is that there is a great advantage [to visiting the tzaddik]. For there is a big difference between someone who hears directly from the true tzaddik himself and someone who hears from someone else who repeats it in his name, and certainly when he hears from someone who heard from someone else. Each time it descends from level to level, [becoming increasingly] distant from the tzaddik. So, too, between someone who hears it directly from the tzaddik and someone who studies from a book there is an even greater difference.
 

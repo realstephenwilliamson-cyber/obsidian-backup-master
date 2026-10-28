@@ -49,7 +49,7 @@ Although Bliss (Ā) is the object of enjoyment (bhogya) (of the Absolute), it is
 
 rest mentioned (previously) is not ultimately real. 
 
-(Although) essentially the object of enjoyment, (they appear to be the enjoyer only) because they are imagined (kalpana) to be such. And ‘so (for that very reason), because (they are) the object of enjoyment, objectivity itself is the state of the energy (of consciousness) \[illegible\][^607] With this same intended (sense) (we read in the Maṅgalaśāstra): ‘His powers are the entire universe, while the Great Lord is the possessor of power.[^608] 
+(Although) essentially the object of enjoyment, (they appear to be the enjoyer only) because they are imagined (kalpana) to be such. And ‘so (for that very reason), because (they are) the object of enjoyment, objectivity itself is the state of the energy (of consciousness) (śaktitva).[^607] With this same intended (sense) (we read in the Maṅgalaśāstra): ‘His powers are the entire universe, while the Great Lord is the possessor of power.[^608] 
 
 Surely, in this way (one may ask,) does this not again entail that the enjoyer and the object of enjoyment are two (separate realities)? With this doubt in mind, he says: 
 
@@ -355,7 +355,7 @@ Surely (one may ask,) although it rests in the undivided and supreme Light (of c
 aparicchinnaviśvāntahsāre svātmani yah prabhoḥ ॥ 202 ॥
 parāmarśaḥ sa evokto dvayasaṁipattilakṣanaḥ | 
 
-The characterizing feature of the reflective awareness of the Lord within His own nature, which is the inner essence of the undifferentiated universe \[illegible\] is characterized as the attainment of the dyad 
+The characterizing feature of the reflective awareness of the Lord within His own nature, which is the inner essence of the undifferentiated universe (viśva), is characterized as the attainment of the dyad 
 
 (dvayasaṁpatti) (of Śiva and Śakti).[^636] (202cd-203ab) 
 
@@ -432,7 +432,7 @@ Surely (one may ask,) if (you) intend to say that according to the standard Pā�
 तदिदं विश्वमन्त स्थं शक्तौ सानुत्तरे परे । २०५ ॥
 तत्तस्यामिति यत्सत्यं विभुना सम्पुटीकृतिः ।
 
-tad \[illegible\] viśvam antahsthaṁ śaktau sānuttare pare ॥ 205 ॥
+tad idaṁ viśvam antahsthaṁ śaktau sānuttare pare ॥ 205 ॥
 tat tasyām iti yat satyaṁ vibhunā sampuṭīkṛtiḥ | 
 
 [^642]: The expression qualifying the Lord’s power — ‘pratyāhṛtā’ — can also mean ‘withdrawn back (into itself)’. Indeed, this is the meaning which is apparent at first. However, Jayaratha sees another meaning which would be apparent to the those acquainted with the nomenclature of Sanskrit grammar. Grammarians in their grammars for convenience refer to a series of letters by mentioning just the first and the last. These two form what grammarians call a pratyāhāra — an ‘encompassing compression’. The alphabet begins with the letter A and ends with H. The
@@ -446,7 +446,7 @@ tat tasyām iti yat satyaṁ vibhunā sampuṭīkṛtiḥ |
 
 *[p. 325]* ^pg341
 
-This universe (rests) within power \[illegible\] and that within the Absolute which is supreme, and that (again) within that (power).[^645] Thus verily (in this way), the All-pervasive Lord encapsulates (saṁpufīkṛti) (the universe of power).[^646] (205cd-206ab) 
+This universe (rests) within power (śakti), and that within the Absolute which is supreme, and that (again) within that (power).[^645] Thus verily (in this way), the All-pervasive Lord encapsulates (saṁpufīkṛti) (the universe of power).[^646] (205cd-206ab) 
 
 #### Viveka on 3.205–206
 
@@ -628,7 +628,7 @@ plenitude (bhara)
 
 of the exuberance of empowered (consciousness, which is experienced) when things that are heard or seen etc. are propense (pronmukha) (to merge) into one’s own consciousness. It is called the ‘Awakening of the Ming’ (cittasahbodha). 
 
-3\) The supreme emission, which is that of Siva (śāmbhavavisarga), is called the ‘Dissolving Away of the Ming’ (cittapralaya).[^663] It comes about by (A) the union \[illegible\] of (outer) reality (vastu) (with consciousness) by its intent there (towards consciousness), that takes place by (B) (its) establishment in the Heart (of pure self-reflective consciousness) brought about by complete (pūrṇatayā) penetration (āveśa) (into Śiva consciousness). (Thus, this emission takes place by) (C) the merger of the limited mind into Śiva (that this union with consciousness brings about), along with (D) the dissolving away of all possible limitation that could be brought about by some future intent (towards contracted states of consciousness), as was the case before (this state of emission is attained). (211-214) 
+3\) The supreme emission, which is that of Siva (śāmbhavavisarga), is called the ‘Dissolving Away of the Ming’ (cittapralaya).[^663] It comes about by (A) the union (saṁghaṭṭa) of (outer) reality (vastu) (with consciousness) by its intent there (towards consciousness), that takes place by (B) (its) establishment in the Heart (of pure self-reflective consciousness) brought about by complete (pūrṇatayā) penetration (āveśa) (into Śiva consciousness). (Thus, this emission takes place by) (C) the merger of the limited mind into Śiva (that this union with consciousness brings about), along with (D) the dissolving away of all possible limitation that could be brought about by some future intent (towards contracted states of consciousness), as was the case before (this state of emission is attained). (211-214) 
 
 #### Viveka on 3.211–214
 
@@ -685,7 +685,7 @@ literally: ‘intensification’ of His) agency (kartṛtva) and the other (powe
 
 *[p. 335]* ^pg351
 
-no longer even (any) possible future contraction (of consciousness). Thus, by the most excellent ‘dissolving away of the ming’, that is, by the removal of the contracted state (of consciousness) by taking its support from the fullness (of consciousness, the mind) manifests as the (pure) consciousness of one’s own (true) nature alone. (That effulgent manifestation) is ‘the supreme emission, which is that of Śiva (śāmbhavavisarga)', and predominately based on nonduality (abheda), is Bliss. That is the power of emission of the Supreme Goddess (parameśvarī) (and Hers is the emission) which manifests intensely (parisphurati) in this way and that. It is said to be of three kinds, as (the emissions of the Trika triad) of Nara (the individual soul and the world), Śakti and Śiva. It is thus rightly said that the power of emission is present everywhere (in all three domains of duality, unity-in-difference and \[illegible\][^674] 
+no longer even (any) possible future contraction (of consciousness). Thus, by the most excellent ‘dissolving away of the ming’, that is, by the removal of the contracted state (of consciousness) by taking its support from the fullness (of consciousness, the mind) manifests as the (pure) consciousness of one’s own (true) nature alone. (That effulgent manifestation) is ‘the supreme emission, which is that of Śiva (śāmbhavavisarga)', and predominately based on nonduality (abheda), is Bliss. That is the power of emission of the Supreme Goddess (parameśvarī) (and Hers is the emission) which manifests intensely (parisphurati) in this way and that. It is said to be of three kinds, as (the emissions of the Trika triad) of Nara (the individual soul and the world), Śakti and Śiva. It is thus rightly said that the power of emission is present everywhere (in all three domains of duality, unity-in-difference and nonduality).[^674] 
 
 Thus, this was said by the Lord Himself, and so he says: 
 
@@ -892,7 +892,7 @@ In this way, Anuttarā itself, which is this power of emission of the Supreme Go
 
 ‘The repose of the light (of consciousness) within its own nature is said to be the state of (pure) ‘T’ (consciousness) (ahahbhāva).'[^691] 
 
-That is also the supreme reality of Mātṛkā. It is taught with this intention that: ‘there is no Vidyā greater than Mātṛkā.’[^692] It bestows the accomplishment (siddhi) which is both worldly enjoyment (bhukti) and liberation to those yogis who have fully understood its nature in this way (i.e. as pure ‘T consciousness), otherwise (if it is not known), on the contrary, assuming the form of joy and grief etc. by pervading (anuvedha) each and every word \[illegible\][^693] it binds the 
+That is also the supreme reality of Mātṛkā. It is taught with this intention that: ‘there is no Vidyā greater than Mātṛkā.’[^692] It bestows the accomplishment (siddhi) which is both worldly enjoyment (bhukti) and liberation to those yogis who have fully understood its nature in this way (i.e. as pure ‘T consciousness), otherwise (if it is not known), on the contrary, assuming the form of joy and grief etc. by pervading (anuvedha) each and every word (vācaka),[^693] it binds the 
 
 [^691]: APS 22cd, also quoted above ad 1/55, 3/203cd-204ab and 6/238cd-239ab (238). Abhinava himself refers to this line in TĀ 5/6164-6230. The absolute ‘I’ consciousness is the reflective awareness that the Light of consciousness has of its own nature. Contemplating itself, it ‘rests’ within itself, in the sense that it does not issue forth into the cycle of emanation and withdrawal. This notion, which one could say is the most fundamental one of the philosophy of the Pratyabhijñā, does not appear in the Tantras themselves, at least not in this form. However, the notion that deity and hence reality deploys itself as the universe of the energies of the letters is well represented in the Tantras in general. Equating the former with the latter, as is uniformly done by these Trika masters, then we can indeed say that, in that form, it is well known to the scri However, although the energies of letters are said to be those of the Goddess. Tantras themselves, Her identification with the reflective awareness of the Light of consciousness is unknown to them. For an extensive discussion, see Dyczkowski 2004: 29 ff.
 
@@ -939,7 +939,7 @@ be (barren) like autumn clouds.[^696] (223cd)
 
 *[p. 345]* ^pg361
 
-fruitless as (barren) autumn clouds or a sky flower or a hare’s horn or the son of a barren woman or, O goddess, the (sexual) fluid \[illegible\][^697] of a eunuch. They are then as fruitless as Brahmins without the (sacred) fire. Mantras devoid of the first (letter) (A) and the last (H) are as fruitless as that, like one who drinks the water of a mirage.’ 
+fruitless as (barren) autumn clouds or a sky flower or a hare’s horn or the son of a barren woman or, O goddess, the (sexual) fluid (drava)[^697] of a eunuch. They are then as fruitless as Brahmins without the (sacred) fire. Mantras devoid of the first (letter) (A) and the last (H) are as fruitless as that, like one who drinks the water of a mirage.’ 
 
 If, on the contrary, (letters) are understood to be essentially the supreme vitality of Mantra, which is the reflective awareness of ‘T’, then they give rise to each and every one of (their desired) results. This is the general meaning. As he will say: 
 
@@ -1000,7 +1000,7 @@ Therefore, knowing whatever verse or prose (he utters) united with the first and
 
 [^702]: Abhinava is paraphrasing the lines from the SYM quoted here by Jayaratha.
 
-[^703]: This is one possible translation; another could be ‘what to say of (the Mantra called) Tadgraha? There is a long Mantra called Tadgraha, which is described in the Trika scripture called the Tantrasadbhāva, from which it is drawn by the Kubjikāmata. This Mantra is set in the form of anuṣṭubh \[illegible\] verses. So it is possible that this verse serves to justify the classification of Tadgraha as a Mantra, although it is in this form. For the details and the complete Mantra, see Dyczkowski 2009: intro. vol. 1: 282 and 641. The mantra is recorded in KM 17/71-76; it is reproduced in Dyczkowski 2009: vol. 13 p. 15- 16. Note that the meaning is also: ‘they too are Mantras, then what to say of the one who receives it (tadgraha}).
+[^703]: This is one possible translation; another could be ‘what to say of (the Mantra called) Tadgraha? There is a long Mantra called Tadgraha, which is described in the Trika scripture called the Tantrasadbhāva, from which it is drawn by the Kubjikāmata. This Mantra is set in the form of anuṣṭubh (śloka) verses. So it is possible that this verse serves to justify the classification of Tadgraha as a Mantra, although it is in this form. For the details and the complete Mantra, see Dyczkowski 2009: intro. vol. 1: 282 and 641. The mantra is recorded in KM 17/71-76; it is reproduced in Dyczkowski 2009: vol. 13 p. 15- 16. Note that the meaning is also: ‘they too are Mantras, then what to say of the one who receives it (tadgraha}).
 
 
 *[p. 347]* ^pg363
@@ -1075,7 +1075,7 @@ such as ‘kundagola’
 
 .[^712] (It is said in this regard that): 
 
-‘Of these \[illegible\] the liquid offering (argha) (contained in the sacrificial vessel is produced) by union with the female Kaula consort (śakti).’[^713] 
+‘Of these (tatra), the liquid offering (argha) (contained in the sacrificial vessel is produced) by union with the female Kaula consort (śakti).’[^713] 
 
 In accord with (this) teaching (nīti), which will be imparted further ahead, it is said to be the supreme thing to be adopted (paramopādeya). It is the ‘Supreme Brahman’, that arises perpetually (nityodita) from their union, and is 
 

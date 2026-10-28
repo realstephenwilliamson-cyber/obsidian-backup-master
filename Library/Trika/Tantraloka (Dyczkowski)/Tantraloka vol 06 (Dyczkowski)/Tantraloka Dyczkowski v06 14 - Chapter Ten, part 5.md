@@ -43,7 +43,7 @@ The sense of the word ‘also’ is that, not only is the waking state of four k
 
 *[p. 458]* ^pg477
 
-alone (manomātra), its sole condition \[illegible\] being (just) intention to conceptualize (saṁkalpana). 4) (The fourth variety of dreaming is called Well Concentrated (susamāhita)) because (in the fourth state within dreaming) the mind is directed solely to one mentally conceived object. 
+alone (manomātra), its sole condition (vṛtti) being (just) intention to conceptualize (saṁkalpana). 4) (The fourth variety of dreaming is called Well Concentrated (susamāhita)) because (in the fourth state within dreaming) the mind is directed solely to one mentally conceived object. 
 
 That is said (in the Mālinīvijayottara), beginning with: ‘(the wise) consider the dream state to have two names: Abiding in Place (padastha) as well as Pervasion (vyāpti). . . ' and ending with ‘Abiding in Place is of four kinds, namely, Gone and Come (gatāgata), Well Dispersed (suvikṣipta), Well Conjoined (saṁgata) and Well Concentrated (susamāhita).”?" 
 
@@ -187,7 +187,7 @@ Like waking in waking, for example, this is the primary (form of the) state of d
 ### TĀ 10.260
 
 मुख्या मातृदशा सेयं सुषुप्ताख्या निगद्यते ।। २६० ॥
-mukhyā mātṛdaśā \[illegible\] suṣuptākhyā nigadyate ॥ 260 ॥ 
+mukhyā mātṛdaśā seyaṁ suṣuptākhyā nigadyate ॥ 260 ॥ 
 
 This state called deep sleep is said to be the primary plane (daśā) of the perceiver. (260cd) 
 
@@ -202,12 +202,12 @@ As before, that (state of deep sleep) also has two names, according to whether i
 प्रसंख्यानवतः कापि वद्यसङ्धोचनात्र यत् ।
 नास्ति तेन महाव्याप्तिरियं तदनुसारत : ॥ २६२ ॥
 
-rūpakatvāc ca \[illegible\] tattādātmyaṁi yoginaḥ punaḥ |
+rūpakatvāc ca rūpaṁ tattādātmyaṁi yoginaḥ punaḥ |
 rūpasthari tatsamāpattyaudāsīnyari rūpiṇārṁ viduḥ ॥ 261 ॥
 prasarikhyānavataḥ kāpi vedyasaṁkocanātra yat |
 nāsti tena mahāvyāptir iyan tadanusārataḥ ॥ 262 ॥ 
 
-Insofar as (the perceiver) metaphorically (rūpakatvāt) (identifies with the object of cognition, he is himself called) ‘Form’ (rūpa). Yogis (call) the state of identity with that (subject) ‘Established in Form’ (rāpastha). (The wise) know that those who, by means of the corresponding contemplative attainment (samāpatti), are endowed with the subject’s form (rūpin), are in a state of transcendent detachment (audasīnya) (from all phenomena with \[illegible\] The contraction (to which consciousness is subject due to) objectivity does not occur here.” Thus those who possess intuitive insight (prasaṁikhyāna) (call it), in accord with that, the ‘Great Pervasion’ (mahāvyāpti). (261-262) 
+Insofar as (the perceiver) metaphorically (rūpakatvāt) (identifies with the object of cognition, he is himself called) ‘Form’ (rūpa). Yogis (call) the state of identity with that (subject) ‘Established in Form’ (rāpastha). (The wise) know that those who, by means of the corresponding contemplative attainment (samāpatti), are endowed with the subject’s form (rūpin), are in a state of transcendent detachment (audasīnya) (from all phenomena with form). The contraction (to which consciousness is subject due to) objectivity does not occur here.” Thus those who possess intuitive insight (prasaṁikhyāna) (call it), in accord with that, the ‘Great Pervasion’ (mahāvyāpti). (261-262) 
 
 #### Viveka on 10.261–262
 
@@ -365,7 +365,7 @@ awareness,) “I see”. Thus, all the means to realizing it are only indirect (
 
 #### Viveka on 10.268–269
 
-‘Form’ is the object, ‘vision’ is the means of knowledge, and the ego is the subject. ‘She’ (is the Goddess), Who is the sole life of the universe. Pure and supreme consciousness, she transcends in this way ‘the three aspects’ (as the act of perception which takes the form of the state of awareness) “I see”. Then after the outward flow in this form, She returns back (into herself). The instrumental means \[illegible\] for her to rest within her own nature is the means (upāya) characterized by the three, namely, object of knowledge and the rest, based on just this, (and is generated) by her. However, within her own nature she is the state of supreme subjectivity, which is freedom (itself devoid of) means (anupāyā), which (in her case) need not be employed, and are not appropriate. This is the meaning.’ 
+‘Form’ is the object, ‘vision’ is the means of knowledge, and the ego is the subject. ‘She’ (is the Goddess), Who is the sole life of the universe. Pure and supreme consciousness, she transcends in this way ‘the three aspects’ (as the act of perception which takes the form of the state of awareness) “I see”. Then after the outward flow in this form, She returns back (into herself). The instrumental means (dvāra) for her to rest within her own nature is the means (upāya) characterized by the three, namely, object of knowledge and the rest, based on just this, (and is generated) by her. However, within her own nature she is the state of supreme subjectivity, which is freedom (itself devoid of) means (anupāyā), which (in her case) need not be employed, and are not appropriate. This is the meaning.’ 
 
 Surely (one may object) that, we see that the Light, the form of which is the Fourth state, abides on the plane of the fruit (of perception), which is separate from its object, means and agent. No consciousness of any sort manifests (parisphurati) which is separate from that, that can be indicated by means (of the expression) “I see”. With this doubt in mind, he says that ‘that shines (thus)’. That pure consciousness which is the supreme perceiver shines (spontaneously) by itself (in itself). It is not on the plane of manifestation of thought constructs such as “I see” and the like. This is the meaning. She is the essential nature of the Light which, considered to be the Fourth state, (shines as) “I see”. Thus, if she were not to shine, for even a moment, nothing at all would 
 
@@ -397,7 +397,7 @@ tatsamāveśoparāgān mānatvaṁ meyatā punaḥ ॥ 270 ॥ tatsamāveśanaik
 
 #### Viveka on 10.270–271
 
-Subject, (means, and object of knowledge are such) according to their distance in relation to the Fourth state. Thus he says that \[illegible\] pure) subjectivity (of consciousness) is clearly evident (sphuta)) in the state of oneness (tādātmya) with the penetration (of the Fourth State) (samāveśa). (The means of knowledge (operates)) due to the influence (uparāga) of that penetration, and (objectivity (exists)) because of its proximity (naikatya) to it? 
+Subject, (means, and object of knowledge are such) according to their distance in relation to the Fourth state. Thus he says that ‘((the pure) subjectivity (of consciousness) is clearly evident (sphuta)) in the state of oneness (tādātmya) with the penetration (of the Fourth State) (samāveśa). (The means of knowledge (operates)) due to the influence (uparāga) of that penetration, and (objectivity (exists)) because of its proximity (naikatya) to it? 
 
 According to the doctrine that consciousness is other than the result of the (application of) a means of knowledge, and in accord with what is well known to the scriptures, he says: 
 
@@ -558,7 +558,7 @@ Thus, as (the state) here is one with consciousness, only intuitive insight (pra
 अनुत्तरादिह प्रोक्तं महाप्रचयसंज्ञितम् ।
 
 prasaṁikhyānabalāt tv etad 7 \[illegible\] pūrnatvayogataḥ ॥ 280 ॥
-anuttarād iha \[illegible\] mahāpracayasamjñitam | 
+anuttarād iha proktaṁ mahāpracayasamjñitam | 
 
 This state (rūpa) (can only be attained) by the power of intuition (prasaṁṁkhyāna).” For this reason, and because it is full (and perfect) and is Anuttara (the Absolute), it is called here the ‘Great Accumulation’ (mahāpracaya).\* (280cd-281ab) 
 
@@ -566,7 +566,7 @@ This state (rūpa) (can only be attained) by the power of intuition (prasaṁṁ
 
 (The word) ‘this’ (in the expression) ‘this state’ refers to the (state) Beyond the Fourth. Surely (one may ask), the term ‘Accumulation’ was used for the Fourth state. What is the reason for its being greater than that also? With this doubt in mind, he says that is ‘because it is Anuttara (the absolute)’ and ‘because it is full (and perfect)’. Anuttara is the Fourth state. There (in the case of the Fourth state), the nature (rāpa) of consciousness is only transcendent. Here (in the case of the state Beyond the Fourth), although it is also such, (its nature) is also immanent. Thus, it is additionally (said to be) 
 
-\[illegible\] That is said (in the Mālinīvijayottara): 
+‘great’. That is said (in the Mālinīvijayottara): 
 
 ‘The discerning (vicakṣaṇa) (men of knowledge) consider (the state) Beyond the Fourth to be the Great Accumulation (mahāpracaya).” 
 
@@ -692,7 +692,7 @@ other’
 
 (state is an) 
 
-instrument of objectivization (adhiṣthānakaranṇa), whereas (the individual) perceiver predominates (over the means and object of knowledge) in deep sleep. Thus, he says that “The Mantras, their Lords (i.e the Lords of Mantra), along with (their) Lords (i.e. the Great Lords of Mantra)’ (abide in the Fourth state in deep sleep). ‘Power’ is consciousness, and she is, as was said previously, the form of the Fourth state. (Śiva is) ‘transcendent’ means that his nature (is one and) undivided. Thus it is said that He is ‘established in His own nature’ and is ‘unmanifest’ and \[illegible\] He is ‘beyond all’. that is, He is beyond all (the states), including the Fourth and the rest. The meaning is that He excels everything else. 
+instrument of objectivization (adhiṣthānakaranṇa), whereas (the individual) perceiver predominates (over the means and object of knowledge) in deep sleep. Thus, he says that “The Mantras, their Lords (i.e the Lords of Mantra), along with (their) Lords (i.e. the Great Lords of Mantra)’ (abide in the Fourth state in deep sleep). ‘Power’ is consciousness, and she is, as was said previously, the form of the Fourth state. (Śiva is) ‘transcendent’ means that his nature (is one and) undivided. Thus it is said that He is ‘established in His own nature’ and is ‘unmanifest’ and ‘pure’. He is ‘beyond all’. that is, He is beyond all (the states), including the Fourth and the rest. The meaning is that He excels everything else. 
 
 Surely, it was said before that ‘(I will now describe them as) I have learnt them by the grace of Śambhunātha’, so is what he has stated (just) his own idea or not? With this doubt in mind, he says: 
 
@@ -780,7 +780,7 @@ The state of deep sleep coincides with the absence (of all sensations) of pleasu
 
 #### Viveka on 10.289–291
 
-‘The waking state’ is the perception of a reality (artha) which, because it is external, is common to all perceivers as the field of operation of all the senses. Again, as that reality is external, ‘it is clearly evident \[illegible\] and stable’; that is, abides (constantly) as a clearly evident (state of) manifestation (ābhāsa). Thus, as no contradiction (bādha) arises (to sublate them), ‘(the experiences had in it) follow on from one another coherently repeatedly’. The meaning is that the field (of the waking state) is a clearly evident and stable (outer) reality. That is said (in the Iśvarapratyabhijñā): 
+‘The waking state’ is the perception of a reality (artha) which, because it is external, is common to all perceivers as the field of operation of all the senses. Again, as that reality is external, ‘it is clearly evident (sphuṭa) and stable’; that is, abides (constantly) as a clearly evident (state of) manifestation (ābhāsa). Thus, as no contradiction (bādha) arises (to sublate them), ‘(the experiences had in it) follow on from one another coherently repeatedly’. The meaning is that the field (of the waking state) is a clearly evident and stable (outer) reality. That is said (in the Iśvarapratyabhijñā): 
 
 ‘The creation (of phenomena), which is stable because it is the field (of operation) of all the senses, insofar as it is external, and (so) is common to all perceivers, is the waking state.” 
 
@@ -807,7 +807,7 @@ Surely (one may ask), how is it that here the experience (bhoga) of the Dissolut
 
 because Māyā is absent, it does not become stable.” 
 
-(The state of deep sleep coincides with the absence of all sensations of) ‘pleasure and the like’. The expression \[illegible\] the like’ refers to (outer sensations) of sound etc. That is said (in the Jśvarapratyabhijñā): 
+(The state of deep sleep coincides with the absence of all sensations of) ‘pleasure and the like’. The expression ‘and the like’ refers to (outer sensations) of sound etc. That is said (in the Jśvarapratyabhijñā): 
 
 ‘The state of deep sleep, which is similar to cosmic destruction, (obtains when (the subject) rests solely on just (the plane of the void or the vital breath) alone. It may be associated with the impurity of Māyā or not, according to whether objectivity is present or absent.) And it is ‘the state (of consciousness which is) devoid of objects of perception . . . . . 
 
@@ -815,7 +815,7 @@ because Māyā is absent, it does not become stable.”
 
 365?\. This appears to be another citation from Jayaratha’s unnamed source.
 
-366?\. ÎP 3/2/15b. The remaining part of the kārikā has been added in brackets. These are the two kinds of deep sleep. One is total in the sense that in that state the perceiver perceives nothing at all and so is completely devoid of any objective experience of anything. This is deep sleep ‘without objectivity’ (apavedyasuṣupti). This is the condition of emptiness of objectivity. It is quite different, indeed quite the opposite of the emptiness of subjectivity. The former is totally exclusive and so incomplete (apūrṇa), whereas the latter is absolutely inclusive and all-embracing and full of all things \[illegible\] The first kind of deep sleep exists as unknown objectivity. In the second kind of deep sleep, the sleeper is immersed in the flux of the vital force, which although beyond the inner cognitive apparatus, is experienced as a recollection of having slept soundly and that it has passed. Utpaladeva explains in his brief commentary on this verse (vṛtti): ‘(When the subject) rests in the emptiness (of total deep sleep), there is no object, and so the Impurity of Māyā does not exist. (But when the subject abandoning the mind merges) into the vital breath (prāṇa) etc., the state of (his) deep sleep is (experienced in retrospect as transitory, and so is) similar to cosmic destruction. He (still) possesses (and is affected by) the Impurity of Māyā, because (in this state there is some) association with a (subtle) touch of pleasure and the like (that he recollects as his having slept well when he wakes up).
+366?\. ÎP 3/2/15b. The remaining part of the kārikā has been added in brackets. These are the two kinds of deep sleep. One is total in the sense that in that state the perceiver perceives nothing at all and so is completely devoid of any objective experience of anything. This is deep sleep ‘without objectivity’ (apavedyasuṣupti). This is the condition of emptiness of objectivity. It is quite different, indeed quite the opposite of the emptiness of subjectivity. The former is totally exclusive and so incomplete (apūrṇa), whereas the latter is absolutely inclusive and all-embracing and full of all things (pūrṇa). The first kind of deep sleep exists as unknown objectivity. In the second kind of deep sleep, the sleeper is immersed in the flux of the vital force, which although beyond the inner cognitive apparatus, is experienced as a recollection of having slept soundly and that it has passed. Utpaladeva explains in his brief commentary on this verse (vṛtti): ‘(When the subject) rests in the emptiness (of total deep sleep), there is no object, and so the Impurity of Māyā does not exist. (But when the subject abandoning the mind merges) into the vital breath (prāṇa) etc., the state of (his) deep sleep is (experienced in retrospect as transitory, and so is) similar to cosmic destruction. He (still) possesses (and is affected by) the Impurity of Māyā, because (in this state there is some) association with a (subtle) touch of pleasure and the like (that he recollects as his having slept well when he wakes up).
 
 367?\. Thid. 3/2/13d. The reference here is to the form of deep sleep devoid of objectivity (apavedyasauṣupti). The complete verse states: “When the void, which is absence of the intellect and the rest (of the inner mental organ), is the plane of the agency (of the subject who is inactive), subjectivity (ahantā) (in which objectivity consists of) just latent traces (of past action) (saṁskāramātrinī), (that is) the state (of consciousness) devoid of objects of perception.’
 
@@ -1027,7 +1027,7 @@ The Five States in Relation to the Fifteen Divisions and the Seven Perceivers
 स्वं क्रिया ज्ञानमिच्छा च शंभुर्र च पञ्चमी ।
 महेशभेदे त्रिविधे जाग्रदादि निरूपितम् || ३०८ ॥
 
-etac chrīpūrvaśāstre ca \[illegible\] uktaṁ maheśinā || 301 || tatra svarūpam śaktiś ca sakalaś ceti tat trayam |
+etac chrīpūrvaśāstre ca sphuṭam uktaṁ maheśinā || 301 || tatra svarūpam śaktiś ca sakalaś ceti tat trayam |
 iti jāūgradavastheyaṁ bhede pañcadaśātmake ॥ 302 ॥
 akalau svapnasauṣupte turyańn mantrādivargabhāk |
 turyātītaṁ śaktiśaṁbhū trayodaśābhidhe punaḥ | 303 ॥
@@ -1049,7 +1049,7 @@ saktiḥ 41011101" imāḥ pañca mantreśe pañcabhedake ॥ 307 ॥
 svar kriyā jṁñānam icchā ca śambhur atra ca pañcamī |
 maheśabhede trividhe jāgradādi nirūpitam ॥ 308 ॥ 
 
-The Great Lord has clearly said this in the Śrīpūrvaśastra, (where we \[illegible\] “(1) When the divisions are fifteen, this waking state corresponds to three of them, namely, (one’s) Own Nature, the Conditioned (sakala) (subject) and (his) power. Dreaming and deep sleep correspond to the two Deconditioned (subjects), the Fourth state to the Mantra (subjects) and the rest, and the state Beyond the Fourth to Śiva and His power. (301cd-303abc) 
+The Great Lord has clearly said this in the Śrīpūrvaśastra, (where we read): “(1) When the divisions are fifteen, this waking state corresponds to three of them, namely, (one’s) Own Nature, the Conditioned (sakala) (subject) and (his) power. Dreaming and deep sleep correspond to the two Deconditioned (subjects), the Fourth state to the Mantra (subjects) and the rest, and the state Beyond the Fourth to Śiva and His power. (301cd-303abc) 
 
 ### TĀ 10.303–304
 

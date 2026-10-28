@@ -46,7 +46,7 @@ and the Components of the Rite
 बहिश्च लिद्गमूयग्नस्थण्डिलादिषु सर्वतः ।
 तथा स्थितः समस्तश्च व्यस्तशैष क्रमाक्रमात् ॥ ३ ॥
 
-ittham adhvā samasto \[illegible\] yathā saṁvidi saṁsthitaḥ |
+ittham adhvā samasto ‘yaṁ yathā saṁvidi saṁsthitaḥ |
 taddvārā 
 
 śūnyadhīprāṇanādīcakratanuṣv atho |I 2 ॥
@@ -136,7 +136,7 @@ Surely (one may ask), what is the purpose of its manifesting in this way? With t
 देशकालमयस्पन्दसदम देहं विलोकयेत् ॥ ६ ॥
 
 \[illegible\] viśvādhvasahpūrṇari kālavyāpāracitritam |
-deśakālamayaspandasadma \[illegible\] vilokayet || 6 || 
+deśakālamayaspandasadma dehaṁ vilokayet || 6 || 
 
 One should view the body in this way as full of all the paths (of manifestation), wonderfully diversified by the activity of time, as the abode (sadman) of the pulse (spanda) which is time and space. (6) 
 
@@ -230,7 +230,7 @@ The Observance of the Pure Vow of Equality
 
 tathaivari kurvataḥ sarvan samabhāvena pi niṣkampatā vrataṁ ŚSuddhaṁ sāmyaṁ nandis 
 
-According to the Nandiśikhā, the unshaking (niṣkampatā) (freedom from doubt of one)’ who, doing this in this way, sees all things, (both those that should be abandoned and those that should be adopted,) with a sense of (their) equality (samabhāvena), is (the observance of) the pure vow of equality \[illegible\] (12) 
+According to the Nandiśikhā, the unshaking (niṣkampatā) (freedom from doubt of one)’ who, doing this in this way, sees all things, (both those that should be abandoned and those that should be adopted,) with a sense of (their) equality (samabhāvena), is (the observance of) the pure vow of equality (sāmya). (12) 
 
 #### Viveka on 12.12
 
@@ -444,7 +444,7 @@ This kind of doubt \[illegible\] which is Impurity (mālinya), lassitude (glāni
 
 ‘Impurity (mālinya)’ is the Impurity of Individuality (āṇnavamala), which is ignorance. ‘Lassitude’ is the lack of enthusiasm that arises from that. As is said (in the Stanzas on Vibration): 
 
-253?\. Hanneder (1998: 145): ‘As a philosophical concept, \[illegible\] describes the condition of the individual trying to protect his identity by excluding things or experiences that seem to threaten it, and thereby continuously recreating his limited ‘artificial’ identity (kṭrimāham). More specifically, these limitations were described as ‘eight possessors’ (graha): ‘obsession with caste (jātigraha), Vedic learning (vidyā-), the social standing of one’s family (kula-), with orthodox conduct (ācāra-) . . ." Psychologically complementing these identifications were ‘the fear of loss of identity’ (ātmasaṅkā), of participation in non-Vedic rites (divyakaraśaṁkā), of impure Tantric incantations (mantraśaṁkā), fear of contact with forbidden substances that are offered and consumed in Tantric worship (dravyaśaṁkā) . . .' (Sanderson 1985 fn. 69) Behind these formulations were of course the transgressive practices with respect to the Vedic norms of the heterodox, non-Vedic cults like the Kula and Krama, where the gratification of female deities with forbidden substances was enjoined in order to overcome these inhibitions and transcend one’s limited identity.” See also PTv p. 235 ff.
+253?\. Hanneder (1998: 145): ‘As a philosophical concept, śaṅkā describes the condition of the individual trying to protect his identity by excluding things or experiences that seem to threaten it, and thereby continuously recreating his limited ‘artificial’ identity (kṭrimāham). More specifically, these limitations were described as ‘eight possessors’ (graha): ‘obsession with caste (jātigraha), Vedic learning (vidyā-), the social standing of one’s family (kula-), with orthodox conduct (ācāra-) . . ." Psychologically complementing these identifications were ‘the fear of loss of identity’ (ātmasaṅkā), of participation in non-Vedic rites (divyakaraśaṁkā), of impure Tantric incantations (mantraśaṁkā), fear of contact with forbidden substances that are offered and consumed in Tantric worship (dravyaśaṁkā) . . .' (Sanderson 1985 fn. 69) Behind these formulations were of course the transgressive practices with respect to the Vedic norms of the heterodox, non-Vedic cults like the Kula and Krama, where the gratification of female deities with forbidden substances was enjoined in order to overcome these inhibitions and transcend one’s limited identity.” See also PTv p. 235 ff.
 
 254?\. Swami Lakshmanjoo (KND p. 36) understands doubt to be these three kinds of impurity (i.e. impurity (mālinya), lassitude (glāni) and contraction (saṁkoca). Doubt, he says, is lassitude, which is the negligence (pramāda) born from ignorance. This is ‘contraction’. In this way, doubt is present in the dungeon of transmigratory existence like a great pillar to which man is constantly bound. Clearly, from the Trika perspective, ‘doubt’ (as described above) is in itself the ultimate cause of bondage. It is the fundamental impurity of ignorance, not just a mistaken notion of purity. The liberated, uncontracted state of consciousness is one in which this doubt has ceased. Kṣemarāja (comm. PrHṛ 12) quotes the Sarvavīratantra as saying: ‘People are in doubt because of ignorance. Thus (because of that) there is creation and destruction.”
 

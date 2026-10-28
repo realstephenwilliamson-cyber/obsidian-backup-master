@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 *[p. 348]* ^pg361
 
-commonly observed in the world \[illegible\][^900] That is said there (in the Sarvajñānottara): 
+commonly observed in the world (loka).[^900] That is said there (in the Sarvajñānottara): 
 
 ‘(One should not question the propriety of) the mundane (forms of) conduct (to be observed according to one’s) caste and stage of life, and so too the rites of expiation (when failing to do so). One should not question the well-known (and commonly accepted) (prasiddha) (observance of sound ritually sustained) relationships (between family members and society) and the laws (and cultural) norms of (a particular) region (deśadharma).[^901] Once (having performed all the Vedic rites of passage,) beginning with insemination up to marriage, such is the extent of Vaidika ritual (obligation).[^902] Thereafter, (one should abide) within (the norms of) the Śaiva (scriptures), and not participate in those of others. Indeed, O Skanda, one should not observe worldly obligations (lokadharma) as (one’s) main (and most important) activity. 
 
@@ -113,7 +113,7 @@ this way, it is said to be the Arrow.’[^917]
 
 [^916]: \[illegible\] According to Goodall (1998: xlv): ‘this is probably a quotation from the Ur-Vijaya, the first of the Rudrabhedas in all the lists of the Siddhāntas. (That the work is closely associated with Ananta is clear from its 10 quoted in the tantrotpattivyākhyāpaṭala of the Bṁatkālottara (Sanderson \*1996b verse 4160; NAK 1- 89, NGMPP B 24/59 ‘Kālottara’, f. 52v line 2): athānanteśvaram devan sarvajñānottareśvaram | ādisūtram idaṁ tartre vijaye samprakīrttitam |.
 
-[^917]: Indeed, a description of this mudrā is not found in the SvT. Kṣemarāja describes it in just a few words, saying that \[illegible\] is applied by impelling the index, middle finger and thumb, casting (the arrow) into the middle of the house’ nārācāstraąprayogas tarjanīmadhyamāṁguṣthapreraṇāt, gṛhamadhyata iti, prakṣipann iti seṣaḥ (SvTu ad
+[^917]: Indeed, a description of this mudrā is not found in the SvT. Kṣemarāja describes it in just a few words, saying that ‘it is applied by impelling the index, middle finger and thumb, casting (the arrow) into the middle of the house’ nārācāstraąprayogas tarjanīmadhyamāṁguṣthapreraṇāt, gṛhamadhyata iti, prakṣipann iti seṣaḥ (SvTu ad
 
 
 *[p. 353]* ^pg366
@@ -170,7 +170,7 @@ c) Commentary on the words ‘there is neither duality nor nonduality.’
 \[illegible\] dvaitam idar neti parasparaniṣedhataḥ |
 māyīyabhedaklṛptari tat syād akālpanike (4114771 ॥ 254 ॥ 
 
-(The notions that) ‘this is duality \[illegible\] or ‘this is not (duality)’ contradict one another. Thus, they have been fashioned by the duality 
+(The notions that) ‘this is duality (dvaita)’ or ‘this is not (duality)’ contradict one another. Thus, they have been fashioned by the duality 
 
 [^918]: According to Abhinava, what is taught in the Vedic traditions contracts consciousness (nimīlana), whereas the Trika teachings lead to an expansion of consciousness (unmīlana). Thi because the Vedas are limited, ‘contracted’ scriptures based on a dualist view of reality (bheda), whereas the Śaiva scriptures are free of contraction and are grounded in nonduality (abheda). The contraction of nonduality corresponds to the expansion of duality. Conversely, the contraction of duality corresponds to the expansion of nonduality. Thus, the latter refutes and cancels out the former.
 
@@ -516,7 +516,7 @@ jvālādiliṁgari cānyasya kapālādi tu me nijam |
 
 #### Viveka on 4.263–264
 
-‘This’ is the meditator (dhyātr). ‘The trident and the \[illegible\][^957] (are the sectarian marks of) another (school), because they arise due to the desire (to make a show of) outer (things) and the like. ‘My own’ (sectarian mark is the Skull and the like), which is located in my own body.[^958] 
+‘This’ is the meditator (dhyātr). ‘The trident and the rest’[^957] (are the sectarian marks of) another (school), because they arise due to the desire (to make a show of) outer (things) and the like. ‘My own’ (sectarian mark is the Skull and the like), which is located in my own body.[^958] 
 
 (Now) he explains the meaning of the words ‘and the rest’, (of the expression) ‘(bearing sectarian) marks (liṅga) and the rest’. 
 
@@ -601,7 +601,7 @@ that and the one called Āmarda.[^965] (In the Half Traiyambaka order there is) 
 
 #### Viveka on 4.265–267
 
-(The lineage of teachers) is called in two ways, namely, ‘Kula’ and ‘monastic order’ (maṭthikā). There are not just (the lineages of) the three and a half ‘monastic orders’ \[illegible\][^967] there are others also, and so he says ‘(the line of Siddhas . . . following the order of the (four)) Ages’. The word ‘preceding’ should be explained to be (read) twice (tantrena).[^968] Thus Kūrma is the (teacher who) brought down (the Kaula teachings) of the Tretā Age. The one who preceded Kūrmanātha is the venerable Khagendranātha, who brought down the (Kaula teachings) in the Kṛta Age, and he is at the beginning as is his (lineage). The word ‘kula’ has not been explained separately, as (its meaning) is well known (even to) common people, as for example the teacher’s family (of disciples) (gurukula)[^969] and so on. 
+(The lineage of teachers) is called in two ways, namely, ‘Kula’ and ‘monastic order’ (maṭthikā). There are not just (the lineages of) the three and a half ‘monastic orders’ (maṭhikā),[^967] there are others also, and so he says ‘(the line of Siddhas . . . following the order of the (four)) Ages’. The word ‘preceding’ should be explained to be (read) twice (tantrena).[^968] Thus Kūrma is the (teacher who) brought down (the Kaula teachings) of the Tretā Age. The one who preceded Kūrmanātha is the venerable Khagendranātha, who brought down the (Kaula teachings) in the Kṛta Age, and he is at the beginning as is his (lineage). The word ‘kula’ has not been explained separately, as (its meaning) is well known (even to) common people, as for example the teacher’s family (of disciples) (gurukula)[^969] and so on. 
 
 Now he explains the meaning of the words ‘and the like’ (in the expression) ‘the clan and the like’. 
 
@@ -819,7 +819,7 @@ The ‘spiritual lineages’ (ovallī) are the six lineages of (spiritual) knowl
 
 is ‘because all things are Śiva’. As is said (in the Trikaśāsana): 
 
-‘All (emotive and spiritual) states and modes of conduct (vṛtti) are equal in all respects, as are all views \[illegible\] and sacrificial substances, levels of attainment, and all the lineages (ovallī) as well as all the gods[^991] and phonemes in all respects.” 
+‘All (emotive and spiritual) states and modes of conduct (vṛtti) are equal in all respects, as are all views (dṛṣṭi) and sacrificial substances, levels of attainment, and all the lineages (ovallī) as well as all the gods[^991] and phonemes in all respects.” 
 
 Surely (then, one may ask), who knows that everything is Śiva, for whom this teaching may grow (and develop in him)? With this doubt in mind, he says: 
 
@@ -964,7 +964,7 @@ It is beyond the scope of this already oversized work to go into the details of 
 
 *[p. 385]* ^pg398
 
-and her entourage of Twelve Kālīs. Modified and methodically systematized in Abhinava’s subtle exegesis of the Kālīs as the deities of the phases of perception and more, it is the cornerstone of the Krama teachings incorporated into Abhinava’s Anuttara Trika. Although drawn from Krama doctrine, Abhinava considered this assembly of Kālīs to be the highest teaching of his Anuttara Trika. He found authority for this view in the Devyāyāmala he learnt from Śambhunātha, his Trika teacher. There, Kālasaṁkarṣiṇī \[illegible\] is Parātītā —Beyond Parā.[^998] 
+and her entourage of Twelve Kālīs. Modified and methodically systematized in Abhinava’s subtle exegesis of the Kālīs as the deities of the phases of perception and more, it is the cornerstone of the Krama teachings incorporated into Abhinava’s Anuttara Trika. Although drawn from Krama doctrine, Abhinava considered this assembly of Kālīs to be the highest teaching of his Anuttara Trika. He found authority for this view in the Devyāyāmala he learnt from Śambhunātha, his Trika teacher. There, Kālasaṁkarṣiṇī Kālī is Parātītā —Beyond Parā.[^998] 
 
 Passages that illustrate Krama doctrine concerning these Kālīs are presented in this Appendix. ranging through the length of the development of the Krama system from the earliest proto-Krama sources found in the Jayadrathayāmala to the fully formed Krama system of three texts called Mahānayaprakāśa. We have arranged them in the categories marking the stages of this development first in the Tantras and then in post-scriptural sources, as follows: 
 
@@ -982,4 +982,4 @@ The technical terminology of these texts is extensive and hard to understand, es
 
 [^998]: See TĀ 3/68cd-70 (69-7 lab) and notes.
 
-[^999]: JY \[illegible\] 4 MSs K fl. 67b-73a and MS G fl. 81a-87a.
+[^999]: JY ṣaṭka 4 MSs K fl. 67b-73a and MS G fl. 81a-87a.

@@ -67,7 +67,7 @@ Maālinīvijayottara), another (way) also has been taught of dividing up (and cl
 
 #### Viveka on Dyczkowski's verse 2
 
-following the Mālinīvijayottara, whicl inspired by Kaula teachings, they are treated in more detail by including their subdi jons. The following passage up to 10/186ab is a detailed exposition and explanation of it. The teachings concerning these perceivers, generally commonly presented as an integral part of the \[illegible\] system, is taught, in various forms and degrees of sophistication, in most of the early Siddhānta, especially the Mṛgendra and the Svāyambhuvāgama. They are also found in the Tattvaprakāśa attributed to Rāja Bhoja, Tattvasańngrahah, Tattvatrayanirṇaya and Bhogakārikā, all by Sadyojyotiṣ, and the Ratnatrayaparīkṣā, by Śrīkanṇthasūri. Conversely, with the important exception of the Mālinīvijayottara, we do not find it in the Bhairava Tantras. Accordingly, Jayaratha states that this topic which is ‘appropriate for the philosophy of the Siddhānta and the like’ (which are dualist) (siddhāntādidarśanasamucitam) (TĀv ad 10/6-7ab). Why then does Abhinava refer to it as a unique secret of the Trikaśāstra? We cannot say that it was just a manner of speaking, for he reaffirms this at the beginning of chapter nine of the Tantrasāra (sa ca saptadhā ṣadardhaśāstra eva para parameśena uktaḥ). Perhaps this is because in many of the Siddhāntas, there are only six perceivers, not seven, as Pralayākala is not mentioned. Or does he mean that it is THE one secret of Trikaśāstra? In the next line, he tells us that the MV is called the venerable Trikaśāstra. So perhaps he means that it is the one, in the sense of most excellent, disclosure of a most fundamental teaching found in the MV. Or that this is the sole place in all the Trika scripture that it is taught as the ‘secret’ of what is taught concerning this in the Siddhānta. Certainly, it is a very important topic for Abhinava, who refers to it at length in his previous Trika works, the MVV and the PTv. Indeed, it is so integral to his Trika Śaivism that he has already had occasion to expound it succinctly towards the beginning of the Tantrāloka (above, 1/77-80 (78-81)), and then again in 4/29-32ab. Jayaratha similarly refers to it on several occasions, for example ad 1/187cd-188ab and ad 1/191. The general references to levels of subjectivity, in terms of the forms of objectivity associated with it (whether corporeal or mental etc.), are considerably more. Indeed, it is a fundamental feature of the Trika understanding of the nature of the Self and consciousness. ? Read eṣām for teṣām as found in the MV 2/la and suggested by Sanderson (Somadeva 2004: 191 note 14). ° Cf. above, 9/2.
+following the Mālinīvijayottara, whicl inspired by Kaula teachings, they are treated in more detail by including their subdi jons. The following passage up to 10/186ab is a detailed exposition and explanation of it. The teachings concerning these perceivers, generally commonly presented as an integral part of the Tattva system, is taught, in various forms and degrees of sophistication, in most of the early Siddhānta, especially the Mṛgendra and the Svāyambhuvāgama. They are also found in the Tattvaprakāśa attributed to Rāja Bhoja, Tattvasańngrahah, Tattvatrayanirṇaya and Bhogakārikā, all by Sadyojyotiṣ, and the Ratnatrayaparīkṣā, by Śrīkanṇthasūri. Conversely, with the important exception of the Mālinīvijayottara, we do not find it in the Bhairava Tantras. Accordingly, Jayaratha states that this topic which is ‘appropriate for the philosophy of the Siddhānta and the like’ (which are dualist) (siddhāntādidarśanasamucitam) (TĀv ad 10/6-7ab). Why then does Abhinava refer to it as a unique secret of the Trikaśāstra? We cannot say that it was just a manner of speaking, for he reaffirms this at the beginning of chapter nine of the Tantrasāra (sa ca saptadhā ṣadardhaśāstra eva para parameśena uktaḥ). Perhaps this is because in many of the Siddhāntas, there are only six perceivers, not seven, as Pralayākala is not mentioned. Or does he mean that it is THE one secret of Trikaśāstra? In the next line, he tells us that the MV is called the venerable Trikaśāstra. So perhaps he means that it is the one, in the sense of most excellent, disclosure of a most fundamental teaching found in the MV. Or that this is the sole place in all the Trika scripture that it is taught as the ‘secret’ of what is taught concerning this in the Siddhānta. Certainly, it is a very important topic for Abhinava, who refers to it at length in his previous Trika works, the MVV and the PTv. Indeed, it is so integral to his Trika Śaivism that he has already had occasion to expound it succinctly towards the beginning of the Tantrāloka (above, 1/77-80 (78-81)), and then again in 4/29-32ab. Jayaratha similarly refers to it on several occasions, for example ad 1/187cd-188ab and ad 1/191. The general references to levels of subjectivity, in terms of the forms of objectivity associated with it (whether corporeal or mental etc.), are considerably more. Indeed, it is a fundamental feature of the Trika understanding of the nature of the Self and consciousness. ? Read eṣām for teṣām as found in the MV 2/la and suggested by Sanderson (Somadeva 2004: 191 note 14). ° Cf. above, 9/2.
 
 *[p. 287]* ^pg306
 
@@ -359,11 +359,11 @@ sāmānyātmā sa Śaktitve ganito na tu tadbhidaḥ |
 layākalasya mānāriśaḥ sa eva param asphuṭaḥ ॥ 13 ॥
 jñānākalasya mānaṁ tu galadvidyākalāvṛti |
 aśuddhavidyākalanādhvarṁsasariskārasaṁgatā ॥ 14 ॥
-prabubhutsuḥ śuddhavidyā mantrāṇām \[illegible\] \[illegible\] bhavet |
+prabubhutsuḥ śuddhavidyā mantrāṇām karaṇaṁ bhavet |
 prabuddhā śuddhavidyā tu tatsaiskāreṇa saṁgatā ॥ 15 ॥
 māna mantreśvarāṇār syāt tatsarṁskāravivarjitā | 
 
-māna mantramaheśānāmṁ \[illegible\] śaktir ucyate || 16 ॥
+māna mantramaheśānāmṁ karaṇaṁ śaktir ucyate || 16 ॥
 svātantryamātrasadbhāvā yā tv icchāśaktir aiśvarī |
 sivasya saiva karaṇaṁi tayā vetti karoti ca ॥ 17 ॥ 
 
@@ -443,7 +443,7 @@ In this way, defining by the way the nature of the powers of the Conditioned and
 
 *[p. 302]* ^pg321
 
-ā \[illegible\] sakalāntaṁi ye mātāraḥ sapta te dvidhā |
+ā śivāt sakalāntaṁi ye mātāraḥ sapta te dvidhā |
 nyagbhūtodriktaśaktitvāt tadbhedo vedyabhedakaḥ || 18 ॥ 
 
 (Thus,) the seven perceivers from Śiva to the Conditioned one (sakala) are of two kinds, according to whether their power is subordinated (to them and dormant) (nyagbhūta) or predominates (udrikta) (over them and is stimulated to act).“ This same distinction (also applies to) the object of knowledge (and so) divides (it) up. (18) 
@@ -1074,7 +1074,7 @@ Surely (the opponent may object that), if a metaphor is entirely false, how is i
 \[illegible\] vahnyupacāre yad bījaṁ taikṣṇyādi tac ca sat ॥ 49 ॥
 prakāśatvopacāre tu kiṁ \[illegible\] yatra satyatā | 
 
-The reason (bīja) why he is metaphorically called ‘fiery’ is (his) liveliness and the like, which is a real (reason). But (if something is unmanifest,) what could be a (similarly) real reason \[illegible\] for the metaphor (that ascribes to it) a luminous (manifest) state? (49cd-50ab) 
+The reason (bīja) why he is metaphorically called ‘fiery’ is (his) liveliness and the like, which is a real (reason). But (if something is unmanifest,) what could be a (similarly) real reason (bīja) for the metaphor (that ascribes to it) a luminous (manifest) state? (49cd-50ab) 
 
 #### Viveka on 10.49–50
 

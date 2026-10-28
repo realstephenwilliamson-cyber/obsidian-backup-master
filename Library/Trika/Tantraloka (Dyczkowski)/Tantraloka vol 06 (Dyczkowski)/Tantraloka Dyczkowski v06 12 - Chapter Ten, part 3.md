@@ -625,7 +625,7 @@ The wonderful diversity of the world-orders etc. abides in the same way. Thus he
 ### TĀ 10.151
 
 तत एव विचित्रोऽयं भुवनादिविधिः स्थितः ।। १५९१ ॥
-tata eva vicitro \[illegible\] bhuvanādividhiḥ sthitaḥ ॥ 151 ॥ 
+tata eva vicitro ‘yaṁ bhuvanādividhiḥ sthitaḥ ॥ 151 ॥ 
 
 Thus (because of that), the procedure concerning the world-orders and the rest is wonderfully diverse. (151cd) 
 
@@ -835,7 +835,7 @@ The meaning of ‘without participating (in the experience)’ is like the grass
 
 (tanmayībhāva). 2) ‘Immersion’ (nimajjana) is entering into (the essential underlying consciousness which is the basis of this oneness). It is an attentive clinging (to it) (āsaṁga). 3) ‘Expansion’ (vikāsa) is the unfolding (of consciousness impelled) by the enthusiasm for (the beauty of the object). 4) ‘Inebriation’ (vighūrnana) is the pulsation (spandana) (of consciousness) which is (its) outpouring that results from the propensity towards it. It is ‘cognized’ in the sense that the power (of awareness) is abounding (udrikta)?[^204] 
 
-Surely (one may ask), as the result (i.e. the perception of the object) is the same (in all these cases), what is the use of this (other) type (bheda), which is essentially merely a verbal (distinction)? With this doubt in mind, he says that ‘differing, it gives rise to the appropriate effects (arthakriyā).’ Something seen by someone whose power (of awareness) has not arisen is as if unseen, (and so) it would not nourish (the perceiver’s sense of) satisfaction \[illegible\] Whereas, on the contrary, one whose power (of awareness) has arisen, perceiving a (beautiful) sensory object, a supreme (sense of the) most excellent wonder (ensues). Thus, this type (bheda) (of perception) has had an effect. So why do you say it is essentially just a verbal (distinction)? 
+Surely (one may ask), as the result (i.e. the perception of the object) is the same (in all these cases), what is the use of this (other) type (bheda), which is essentially merely a verbal (distinction)? With this doubt in mind, he says that ‘differing, it gives rise to the appropriate effects (arthakriyā).’ Something seen by someone whose power (of awareness) has not arisen is as if unseen, (and so) it would not nourish (the perceiver’s sense of) satisfaction (nivṛti). Whereas, on the contrary, one whose power (of awareness) has arisen, perceiving a (beautiful) sensory object, a supreme (sense of the) most excellent wonder (ensues). Thus, this type (bheda) (of perception) has had an effect. So why do you say it is essentially just a verbal (distinction)? 
 
 (Now), by means of an example, he further strengthens (this view of the act of perception), which includes (reference to) both positive concomitance (when the right conditions are operative) and negative concomitance (when they are not). 
 
@@ -1126,7 +1126,7 @@ said here as (if it were) something new?’ With this doubt in mind, he say.
 
 Śiva (is the (eternally) persistent (acyuta) conscious nature).’ There is no 
 
-dispute that Śiva is thus \[illegible\] the supreme perceiver, and that his nature is eternal consciousness. His power, the nature of which is will, knowledge and action, shining forth in a pure and impure form, pours forth the group of six perceivers. There (amongst them), the three, Mantra, the Lord of Mantra, and the Great Lord of Mantra, do not depend on objectivity etc. (to be subjects), and so possess a pure subjectivity. The three (lower perceivers, namely) Consciousness Deconditioned and the rest, do depend on objectivity etc., and so the subjectivity they possess is impure. Thus it is said that (He possesses three powers, that) by virtue of (His) freedom’ (assume the form of the subject), and ‘are coloured by that of the object’. ‘The three kinds (of pure perceivers), ending with Mantra’, consist of the Great Lords of Mantra, the Lords of Mantra, and the Mantra (perceivers). This is the meaning. They are ‘as if aloof (udāsīna) (from all activity)’, that is, they are undisturbed. The sense is that, if they were to be disturbed, their state would be that of (their respective) powers. 
+dispute that Śiva is thus (tāvat) the supreme perceiver, and that his nature is eternal consciousness. His power, the nature of which is will, knowledge and action, shining forth in a pure and impure form, pours forth the group of six perceivers. There (amongst them), the three, Mantra, the Lord of Mantra, and the Great Lord of Mantra, do not depend on objectivity etc. (to be subjects), and so possess a pure subjectivity. The three (lower perceivers, namely) Consciousness Deconditioned and the rest, do depend on objectivity etc., and so the subjectivity they possess is impure. Thus it is said that (He possesses three powers, that) by virtue of (His) freedom’ (assume the form of the subject), and ‘are coloured by that of the object’. ‘The three kinds (of pure perceivers), ending with Mantra’, consist of the Great Lords of Mantra, the Lords of Mantra, and the Mantra (perceivers). This is the meaning. They are ‘as if aloof (udāsīna) (from all activity)’, that is, they are undisturbed. The sense is that, if they were to be disturbed, their state would be that of (their respective) powers. 
 
 He (now) concludes (this point). 
 
@@ -1183,7 +1183,7 @@ The wise man should explain how Water and the rest (of the other categories) are
 
 #### Viveka on 10.183
 
-Surely, no one disagrees that the (couple) Śiva and Śakti is (eternally) persistent consciousness. (Moreover,) it has been said that Śakti, shining as will, knowledge and action, manifests as the group of six perceivers. But as (Śiva’s) sakti is one and the same in all circumstances, then \[illegible\] should also possess this fifteen-fold (state) right up to the level of the Great Lords of Mantras. So how is it that that itself has not been described, setting aside the thirteen-fold and other (divisions)? With this doubt in mind, he says: 
+Surely, no one disagrees that the (couple) Śiva and Śakti is (eternally) persistent consciousness. (Moreover,) it has been said that Śakti, shining as will, knowledge and action, manifests as the group of six perceivers. But as (Śiva’s) sakti is one and the same in all circumstances, then (śakti) should also possess this fifteen-fold (state) right up to the level of the Great Lords of Mantras. So how is it that that itself has not been described, setting aside the thirteen-fold and other (divisions)? With this doubt in mind, he says: 
 
 ### TĀ 10.183–184
 
@@ -1354,7 +1354,7 @@ The six moments?” from the third (to the eighth) are non-discursive (nirvikalp
 
 233\. These six moments represent the first three powerholders, that is, Great Lords of Mantra, Lords of Mantra and Mantra, along with their respective powers. These perceivers are the experiencing subjects of the three pure principles, that is, Sadāśiva (who experience that ‘I am all this (universe)’, with an emphasis on the subjective aspect), Iśvara (who experience that \*all this (universe) is me’, with an emphasis on the objective aspect), and Pure Knowledge (śuddhavidyā) (who experience that ‘I am all this (universe) and all this (universe) is me’, in which the subjective and objective aspects are equally balanced). The pure principles are aspects of the experience of oneness of subject and object, and so are in the domain of pure nondiscursive (nirvikalpa) consciousness.
 
-234\. Instead of this verse, the MVV continues: \[illegible\] ca saptakaṁ tatra nirvikalpakatāmi gatam | kramonmiṣadvikalpāmśacchāyācchādanakovidam I| ‘The first group of seven there has assumed a state (of consciousness) devoid of thought constructs. It is skilled in covering over, as it gradually unfolds, the shade of the aspect (of consciousness) which is thought.’ MVV 1/984
+234\. Instead of this verse, the MVV continues: ādyaṁ ca saptakaṁ tatra nirvikalpakatāmi gatam | kramonmiṣadvikalpāmśacchāyācchādanakovidam I| ‘The first group of seven there has assumed a state (of consciousness) devoid of thought constructs. It is skilled in covering over, as it gradually unfolds, the shade of the aspect (of consciousness) which is thought.’ MVV 1/984
 
 
 *[p. 413]* ^pg432

@@ -196,7 +196,7 @@ vismaraty eva tad duhkha sukhaviśrāntivartmanā || 201 ||
 tathā gatavikalpe ‘pi rūdhāḥ sarṁłvedane janāḥ |
 vikalpaviśrāntibalāt tāṁ sattā nābhimanvate ॥ 202 ॥ 
 
-Just as a person long afflicted by suffering, who subsequently regains (his normal) state of health (sukha), forgets that pain because he rests in (his present) happiness, so is it with those people who are established in (pure) consciousness (saṁvedana), in which ideation (vikalpa) has ceased, have no notion of (even its) existence \[illegible\] because it has (all) come to rest.” (201-202) 
+Just as a person long afflicted by suffering, who subsequently regains (his normal) state of health (sukha), forgets that pain because he rests in (his present) happiness, so is it with those people who are established in (pure) consciousness (saṁvedana), in which ideation (vikalpa) has ceased, have no notion of (even its) existence (sattā), because it has (all) come to rest.” (201-202) 
 
 #### Viveka on 10.201–202
 
@@ -415,7 +415,7 @@ In the subsequent moments, from the third onwards, the Mahāmantreśas (mantrād
 
 #### Viveka on 10.210–211
 
-It is called ‘the first (energy)’ with respect to the aspect \[illegible\] which is the outpouring of duality. The sense is that (it is) just here, that is, the division, which is meant to be indicated first of all. Thus, it is called ‘Intuition’, because 
+It is called ‘the first (energy)’ with respect to the aspect (aṁśa) which is the outpouring of duality. The sense is that (it is) just here, that is, the division, which is meant to be indicated first of all. Thus, it is called ‘Intuition’, because 
 
 it is capable of designing ever new forms. ‘She’ is the initial Intuition, which is the second (moment). Surely, it is said that Śiva’s power resides in the second moment. (So) what (is present) in the third and (subsequent moments)? With this doubt in mind, he says: ‘(In the subsequent moments), from the third onwards, (the Mahāmantreśas and their powers, followed by the Mantreśas and the rest, arise progressively). 
 
@@ -662,7 +662,7 @@ Surely (one may object that), because the effect did not exist previously (when 
 ### TĀ 10.222
 
 सर्वस्य कारणं प्रोक्तं सव्रैवोदितं यतः ।। २२२ ॥
-sarvasya \[illegible\] proktari sarvatraivoditaṁ yataḥ || 222 ॥ 
+sarvasya kāraṇaṁ proktari sarvatraivoditaṁ yataḥ || 222 ॥ 
 
 (Consciousness) is said to be the cause of all things because it is (constantly) emerging (into phenomenal existence) (udita) everywhere. (222cd) 
 
@@ -807,7 +807,7 @@ cosmic manifestation) is denoted by the word ‘state’ (avasthā).[^274] (227c
 
 #### Viveka on 10.227–228
 
-‘Here’ the consciousness, which is each (of the series of) perceivers beginning with Śiva (Himself), pours forth into the Path of the Principles (world orders and spheres of energy), that has been described as the fifteen-fold sequence and the rest, and has assumed a state of objectivity as the Innate Nature. This (consciousness), which is such, possesses ‘the inherent (svakam) variety \[illegible\] which is connected with each of the objects made manifest by its own (free) will. (Moreover, it is the variety) which is associated with each (state of consciousness), whether one (in which the object) is common (to all individuals, as is the waking state), or peculiar to one individual alone (as is dreaming). That is denoted as the ‘state’ of, for example, waking. This the meaning 
+‘Here’ the consciousness, which is each (of the series of) perceivers beginning with Śiva (Himself), pours forth into the Path of the Principles (world orders and spheres of energy), that has been described as the fifteen-fold sequence and the rest, and has assumed a state of objectivity as the Innate Nature. This (consciousness), which is such, possesses ‘the inherent (svakam) variety (vaicitrya)’ which is connected with each of the objects made manifest by its own (free) will. (Moreover, it is the variety) which is associated with each (state of consciousness), whether one (in which the object) is common (to all individuals, as is the waking state), or peculiar to one individual alone (as is dreaming). That is denoted as the ‘state’ of, for example, waking. This the meaning 
 
 He (now) analyses the states and levels. 
 
@@ -871,7 +871,7 @@ saṁvedanagataṁ vedyaṁ taj jāgrat samudāhṛtam || 231 ॥
 
 The waking state is said to be that in which objectivity (vedya) is in the purview of awareness (saṁvedanagata). Indeed, it is (invariably) that which is sustained (adhiṣtheya) (by consciousness), never the sustaining 
 
-subject \[illegible\] (231) 
+subject (adhiṣṭhātṛ). (231) 
 
 #### Viveka on 10.231
 
@@ -1134,7 +1134,7 @@ For the men of knowledge (jñānin) who are solely intent on (cultivating) medit
 
 293\. Read viśararutaparihārenṇa for viśarārutāparihāreṇa.
 
-294\. Amongst Vedāntins, those who were prasaṁkhyānavādins were those who, like Mandana and Vācaspati Miśra, maintained that hearing the scripture (śabda) by itself did not lead to the direct realisation of the Brahman, but did so only by means of prasarikhyāna, that is, meditation, devotion, contemplation, reflection, deliberation, and study etc. combined. Sureśvara and most of the latter Vedāntins rejected this view. Rather, they championed a direct, sudden realisation of identity with the Brahman by just hearing the teaching. Abhinava uses the term in the more precise sense of reflection or meditation, as opposed to Yoga or ritual action. It is this, not Yoga or ritual that, above all, leads to the realisation of Anuttara. This unbroken continuous ‘very subtle’ reflection leads ultimately to a perception, which is perfectly stable and ultimate, of Śiva’s omnipresence. The term in this sense appears at least six times in the PTv (p. 37- 38, 136, 177, 225, 226, 272-3, and 278), and so too in \[illegible\] 7/5cd-6. It is not as prominent in the Tantrāloka as a term in itself. It appears most frequently, as it does here, as a modality of experience within the states of consciousness. See below, 10/246, 262, 275ab (prasaṁkhyātā), and 280cd-28 lab, where it means ‘intuitive insight’. For the contraposition of prasaṁṁkhyāna and Yoga Cf \[illegible\] 3/3: ‘As taught by Me since ancient times, O Blameless One, there are in this world two kinds of disciplines: the Yoga of knowledge for the followers of the Sāṁkhya and the Yoga of action for yogis.’ Utpaladeva in his \[illegible\] comments on the term, saying: sāvadhānānāṁ vivekīnāṁ vidambhanābhīrūṇām ca (it is for) ‘those who are attentive, discerning, and fearful of being deceived.” (ĪPVv 3, p. 89)
+294\. Amongst Vedāntins, those who were prasaṁkhyānavādins were those who, like Mandana and Vācaspati Miśra, maintained that hearing the scripture (śabda) by itself did not lead to the direct realisation of the Brahman, but did so only by means of prasarikhyāna, that is, meditation, devotion, contemplation, reflection, deliberation, and study etc. combined. Sureśvara and most of the latter Vedāntins rejected this view. Rather, they championed a direct, sudden realisation of identity with the Brahman by just hearing the teaching. Abhinava uses the term in the more precise sense of reflection or meditation, as opposed to Yoga or ritual action. It is this, not Yoga or ritual that, above all, leads to the realisation of Anuttara. This unbroken continuous ‘very subtle’ reflection leads ultimately to a perception, which is perfectly stable and ultimate, of Śiva’s omnipresence. The term in this sense appears at least six times in the PTv (p. 37- 38, 136, 177, 225, 226, 272-3, and 278), and so too in \[illegible\] 7/5cd-6. It is not as prominent in the Tantrāloka as a term in itself. It appears most frequently, as it does here, as a modality of experience within the states of consciousness. See below, 10/246, 262, 275ab (prasaṁkhyātā), and 280cd-28 lab, where it means ‘intuitive insight’. For the contraposition of prasaṁṁkhyāna and Yoga Cf \[illegible\] 3/3: ‘As taught by Me since ancient times, O Blameless One, there are in this world two kinds of disciplines: the Yoga of knowledge for the followers of the Sāṁkhya and the Yoga of action for yogis.’ Utpaladeva in his ṭīkā comments on the term, saying: sāvadhānānāṁ vivekīnāṁ vidambhanābhīrūṇām ca (it is for) ‘those who are attentive, discerning, and fearful of being deceived.” (ĪPVv 3, p. 89)
 
 
 *[p. 451]* ^pg470
@@ -1203,7 +1203,7 @@ The dream state prevails in the primary sense (mukhyataḥ) when the aforementio
 
 #### Viveka on 10.247–248
 
-Again, those referred to as ‘living beings’, such as Caitra and Maitra, who dwell in the waking state, (may also) be present in the (inner mental) action (that consists of) the objectivization (adhiṣṭhitikriyā) (of the mental perception of) principles and living beings, by the crossing over (āskandana) (of the perceiver) onto the plane of the (mind and senses, that constitute) the means of knowledge. That is the dream state \[illegible\] the primary sense’, which is primarily based on cognition (māna) (alone, without an outer object,) that manifests the latent traces (cchāyā literally ‘shade’) of objectivity (previously experienced in the waking state). This is the meaning. (This is the dream state) in the primary sense. It is also possible to have other varieties that are not primary, such as waking in the dream state etc. This is the point. 
+Again, those referred to as ‘living beings’, such as Caitra and Maitra, who dwell in the waking state, (may also) be present in the (inner mental) action (that consists of) the objectivization (adhiṣṭhitikriyā) (of the mental perception of) principles and living beings, by the crossing over (āskandana) (of the perceiver) onto the plane of the (mind and senses, that constitute) the means of knowledge. That is the dream state ‘in the primary sense’, which is primarily based on cognition (māna) (alone, without an outer object,) that manifests the latent traces (cchāyā literally ‘shade’) of objectivity (previously experienced in the waking state). This is the meaning. (This is the dream state) in the primary sense. It is also possible to have other varieties that are not primary, such as waking in the dream state etc. This is the point. 
 
 Surely (one may ask), the nature (of the living beings etc.) is such (and is the same in both of) the two states (pada), namely, the one with thought 
 
@@ -1262,7 +1262,7 @@ utprekṣāsvapnasaṁkalpasmṛtyunmādādidṛṣtiṣu ॥ 249 ॥
 
 vispaṣtaṁi yad vedyajātaṁ jāgran mukhyatayaiva tat | 
 
-When objectivity manifests very clearly (and distinctly) (vispaṣta) in the imagination (utprekṣā), a dream, an intention (saṁkalpa), memory, when drunk (unmada), or other such perceptions \[illegible\] waking is the predominant state (within dreaming). (249cd-250ab) 
+When objectivity manifests very clearly (and distinctly) (vispaṣta) in the imagination (utprekṣā), a dream, an intention (saṁkalpa), memory, when drunk (unmada), or other such perceptions (dṛṣṭi), waking is the predominant state (within dreaming). (249cd-250ab) 
 
 #### Viveka on 10.249–250
 

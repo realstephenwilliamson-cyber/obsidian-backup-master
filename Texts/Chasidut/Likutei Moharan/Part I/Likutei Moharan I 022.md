@@ -25,7 +25,7 @@ lesson: 22
 
 The fifth chapter of *Sifra De’ Tzniuta* [states]:
 
-“‘In the beginning, the Lord created.’ ‘In the beginning’ is a complete-statement; ‘He created’ is a half-statement. Father and son. Hidden and revealed. Upper Eden, which is hidden and concealed. Lower Eden.” ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178b|Zohar II, 178b]])
+“‘In the beginning, the Lord created.’ ‘In the beginning’ is a complete-statement; ‘He created’ is a half-statement. Father and son. Hidden and revealed. Upper Eden, which is hidden and concealed. Lower Eden.” ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178b-c|Zohar II, 178b]])
 
 Know! there is a seal and there is ***Chotem B’tokh Chotem*** (a seal within a seal).
 

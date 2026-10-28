@@ -286,7 +286,7 @@ Dvivedi, V. 1994: Uttaraṣatkam, Vārāṇasī.
 
 Dvivedi V.V. 1983: Luptāgamasarigraha (dvitiyo bhāgaḥ)Yogatantragranthamālā vol. 10. Sampūrṇānanda Sanskrit University. Dwivedi, R. C. and Navjivan Rastogi, Motilal Banarsidass, 1987, The Tantraloka of Abhinavagupta: With the Commentary of Jayratha Dyczkowski, M. S.G. 1987a: The Doctrine of Vibration, SUNY, Albany (reprint, Motilal Banarsidass, Delhi, 1989). 
 
-Dyczkowski, M. S.G. 1987b: La Via dello Yogin: La Spiritualita’ dello Śaivismo del Kashmir. In La Realizazione Spirituale \[illegible\] Uomo. Istituto Propaganda Libraria, Milano (pp. 33-59) 
+Dyczkowski, M. S.G. 1987b: La Via dello Yogin: La Spiritualita’ dello Śaivismo del Kashmir. In La Realizazione Spirituale dell’ Uomo. Istituto Propaganda Libraria, Milano (pp. 33-59) 
 
 Dyczkowski, M. S.G. 1988: The Canon of the Śaivāgama and the Kubjikā Tantras of the Western Kaula Tradition, SUNY, Albany. 
 
@@ -328,7 +328,7 @@ Gellner, David N. and Quigley, Declan (eds.) 1995: Contested Hierarchies: A Coll
 
 Clarendon Press. Ethnography of Caste in the Kathmandu Valley, Nepal. Oxford: Clarendon Press. 
 
-Ghose, Rajeshwari 1996: The Lord of Ārūr. The Tyāgarāja Cult in Tamilnāḍu. Motilal Banarsidass: New Delhi Ghurye, G. S. 1995 (reprint): Indian Sadhus. Bombay: Popular Prakashan Gimbutas, Marija 1991: The Language of the Goddess. San Francisco: Harper Collins Gnoli, R. 1956: Alcune tecniche yoga nelle scuole Saiva, in RSO (31). Gnoli, R. 1957: \[illegible\] by Somānanda. English translation of chapter one, East and West (8) pp. 16-22. 
+Ghose, Rajeshwari 1996: The Lord of Ārūr. The Tyāgarāja Cult in Tamilnāḍu. Motilal Banarsidass: New Delhi Ghurye, G. S. 1995 (reprint): Indian Sadhus. Bombay: Popular Prakashan Gimbutas, Marija 1991: The Language of the Goddess. San Francisco: Harper Collins Gnoli, R. 1956: Alcune tecniche yoga nelle scuole Saiva, in RSO (31). Gnoli, R. 1957: Śivadṛṣṭi by Somānanda. English translation of chapter one, East and West (8) pp. 16-22. 
 
 Gnoli, R. 1959a: Vāc. il secondo capitolo della Śivadṛṣṭi di Somānanda, in RSO (34). pp. 55-75. 
 
@@ -400,7 +400,7 @@ Gupta, S. 1972: Lakṣmītantra. A Pāñcarātra 7; ext, translation and notes, 
 
 Gupta, S. and Goudriaan, T. 1979, Hindu Tantrism, Leiden. 
 
-Halbfass, Wilhelm 1988: \[illegible\] and Europe. An Essay in Understanding. Albany: State University of New York Press. 
+Halbfass, Wilhelm 1988: India and Europe. An Essay in Understanding. Albany: State University of New York Press. 
 
 Handiqui, K. K. 1949: Yaśastilaka and Indian Culture. Sholapur: Jain Saṁskṛti Saṁrakṣaka Sangh. 
 
@@ -484,7 +484,7 @@ Kuiper, F. B. J. 1979: Varuna and Vidūṣaka. On the Origin of Sanskrit Drama. 
 
 Kumar, Pushpendra 1974: Sakti Cult in Ancient India. Benares: Bharatiya Publishing House. 
 
-Kunjunni Raja K. 1971: New Catalogus Catalogorum. An Alphabetical Register of Sanskrit and Allied Works. Volume six. Madras: University of Madras. Kunjunni Raja, K. 1963: \[illegible\] Theories of Meaning, Adyar. 
+Kunjunni Raja K. 1971: New Catalogus Catalogorum. An Alphabetical Register of Sanskrit and Allied Works. Volume six. Madras: University of Madras. Kunjunni Raja, K. 1963: Indian Theories of Meaning, Adyar. 
 
 Laksmanjoo, Swami (Raina, Laksmana)1995: Śrītantrāloka Ishvara Ashram 
 

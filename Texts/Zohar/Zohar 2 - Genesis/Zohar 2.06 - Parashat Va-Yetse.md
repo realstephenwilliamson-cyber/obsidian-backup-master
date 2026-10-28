@@ -2591,7 +2591,7 @@ Rabbi Abba opened, “*Male and female He created them, and He blessed them and 
 
 [^722]: **These are two birds we have discussed … issuing from Lebanon…** The two birds are *Binah* and *Shekhinah*, who emanate from *Ḥokhmah*, generating other divine or angelic powers and birdlike souls.
 
-    On the angelic birds of *Shekhinah*, see *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-172a|1:172a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-217b|217b]], [[Zohar 11.08 - Tosefta#^z1-234a|234a]] (*Tos*); [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a|2:179a]] (*SdTs*). On birdlike souls, see BT *Sanhedrin* [[Sanhedrin 91#91a|91a]]; *Avot de-Rabbi Natan* A, add. *2*, 7:3; *Zohar* [[Zohar 9.10 - Commentary on Balaq, continued#^z3-196b|3:196b]], [[Zohar 9.11 - Parashat Pinehas#^z3-217b|217b]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-13c|13c]] (*MhN*).
+    On the angelic birds of *Shekhinah*, see *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-172a|1:172a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-217b|217b]], [[Zohar 11.08 - Tosefta#^z1-234a|234a]] (*Tos*); [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-179a-c|2:179a]] (*SdTs*). On birdlike souls, see BT *Sanhedrin* [[Sanhedrin 91#91a|91a]]; *Avot de-Rabbi Natan* A, add. *2*, 7:3; *Zohar* [[Zohar 9.10 - Commentary on Balaq, continued#^z3-196b|3:196b]], [[Zohar 9.11 - Parashat Pinehas#^z3-217b|217b]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-13c|13c]] (*MhN*).
 
 [^723]: **Mystery of the word: *Now Laban had two daughters*…** Here לבן (*Lavan*), like לבנון (*Levanon*), symbolizes *Ḥokhmah*, while his two daughters symbolize *Binah* and *Shekhinah*.
 

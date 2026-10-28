@@ -650,7 +650,7 @@ He says that:
 
 149\. MV 6/27cd-28ab.
 
-150\. The technical term atideśa, coined by Mīmāṁsakas, is discussed by Jaimini in seven sūtras of seven section of the Mīmāmhsasūtra. It denotes the transposition or transference of ritual procedures or other details from one sacrifice to another. Gaṅganath Jha (1964: 289-290) explains, “There are several Sacrifices, in connection with which the Veda does not not specifically prescribe all the necessary details, but declares that ‘such and such a sacrifice shall be performed in the manner of such and such other Sacrifice’; for instance, with regard to the \[illegible\] Sacrifice, after having declared its peculiar features, the Vedic text goes on to declare that ‘the rest is like the Shyena Sacrifice’. In such cases, the Shyena Sacrifice could be called the ‘prakṛti’, Archetype, and the \[illegible\] Sacrifice, the corresponding ‘vikti’, Ectype. The Transference, then, of the details of the Archetype to the Ectype is what is called ‘atideśa’, which has been seen as ‘that process whereby a detail becomes extended in its application from the Primary to the other acts cognate to it’, (Bhā tṛs p. 1239). The Prakaranapañcikā (p. 227) has defined it as “that through which the Ectype becomes connected with the details of the Archetypal Sacrifice,” or ‘the extension of the details of one Sacrifice to another, when there is no incongruity with such extension’. For more details see ibid. p. 289-293.
+150\. The technical term atideśa, coined by Mīmāṁsakas, is discussed by Jaimini in seven sūtras of seven section of the Mīmāmhsasūtra. It denotes the transposition or transference of ritual procedures or other details from one sacrifice to another. Gaṅganath Jha (1964: 289-290) explains, “There are several Sacrifices, in connection with which the Veda does not not specifically prescribe all the necessary details, but declares that ‘such and such a sacrifice shall be performed in the manner of such and such other Sacrifice’; for instance, with regard to the \[illegible\] Sacrifice, after having declared its peculiar features, the Vedic text goes on to declare that ‘the rest is like the Shyena Sacrifice’. In such cases, the Shyena Sacrifice could be called the ‘prakṛti’, Archetype, and the Iṣu Sacrifice, the corresponding ‘vikti’, Ectype. The Transference, then, of the details of the Archetype to the Ectype is what is called ‘atideśa’, which has been seen as ‘that process whereby a detail becomes extended in its application from the Primary to the other acts cognate to it’, (Bhā tṛs p. 1239). The Prakaranapañcikā (p. 227) has defined it as “that through which the Ectype becomes connected with the details of the Archetypal Sacrifice,” or ‘the extension of the details of one Sacrifice to another, when there is no incongruity with such extension’. For more details see ibid. p. 289-293.
 
 151\. Read bhūyo nirdiṣtaṁ for bhūyo ‘tidiṣtaṁ.
 
@@ -905,7 +905,7 @@ As (the word) ‘Mantras’ is plural, it means that they are (those) associated
 
 177?\. An upward leap (udbhava) is one of the ‘signs on the path’ (pathalakṣana) that serves as a means of ascertaining (pratyaya) that a penetration (āveśa) or descent of power (śaktipāta) of the deity has taken place in the disciple in the course of initiation, indicating that it has been imparted successfully. See above, 5/101 ff.
 
-178?\. Most forms of initiation include the object of purification \[illegible\] that is, the world orders (bhuvana), reality principles (rattva) and sphere of energy (kalā) that contain them. The neophant is induced, through the ritual procedure, to be reborn progressively from lower to higher levels within it, and so is progressively purified of his binding Karma. This is done by means of the mantra, parts of mantra and phonemes, that are the purifiers (śodhaka). In this case, the neophant is initiated by the power of the deposition of the purifying mantras deposited on his body alone, without previously projecting the paths that are to be purified. See below, 16/237cd-239ab (238-239) and 16/244cd-247ab (245-247).
+178?\. Most forms of initiation include the object of purification (śodhya), that is, the world orders (bhuvana), reality principles (rattva) and sphere of energy (kalā) that contain them. The neophant is induced, through the ritual procedure, to be reborn progressively from lower to higher levels within it, and so is progressively purified of his binding Karma. This is done by means of the mantra, parts of mantra and phonemes, that are the purifiers (śodhaka). In this case, the neophant is initiated by the power of the deposition of the purifying mantras deposited on his body alone, without previously projecting the paths that are to be purified. See below, 16/237cd-239ab (238-239) and 16/244cd-247ab (245-247).
 
 179?\. Cf. above, 16/157-158ab and below 16/190. Now that the deposition of the 70 purifying Mantras has been defined, Abhinava goes on to talk about the deposition of the object of purification and the enumeration of its forms. This subject and concluding remarks take up verses 163 to 206. The exposition of the deposition of Mantras continues below from verse 207 onwards.
 
@@ -1159,7 +1159,7 @@ tām saptatyā bhittvā
 dīkṣābhedānsvayari kalayet || 185 || pañcakamiha lakṣānām 
 
 ca saptanavatiḥ sahasraparisaikhyā |
-aṣṭau \[illegible\] dīkṣā- 
+aṣṭau śatāni dīkṣā- 
 
 bhedo ‘yarn mālinītantre ॥ 186 ॥ 
 
@@ -1216,7 +1216,7 @@ mokṣas tredhā dvigunā
 
 saptatir iti kāryatābhedāḥ || 189 ॥ 
 
-The purifying (mantras) are of seventy kinds. The object of purification is of thirty kinds, (according to whether it is) one principle, \[illegible\] (It should be purified along with the four-fold) Egg that consist of the six Paths.” (The rite) that needs to be performed in this way is of four kinds. (Thus, it may consist of the outer ritual centred on the offering of Kaula) substances, (or internalized as) insight (jñāna). Again, it may entail or be devoid of the process of taking birth (in world orders in order to exhaust the effects of Karma) and the \[illegible\] Again, that is of thirty-five kinds, according to the intention (to gain thereby various kinds of) worldly benefits (bhoga) and liberation.” This is so as there are thirty-two kinds of 
+The purifying (mantras) are of seventy kinds. The object of purification is of thirty kinds, (according to whether it is) one principle, etc. (It should be purified along with the four-fold) Egg that consist of the six Paths.” (The rite) that needs to be performed in this way is of four kinds. (Thus, it may consist of the outer ritual centred on the offering of Kaula) substances, (or internalized as) insight (jñāna). Again, it may entail or be devoid of the process of taking birth (in world orders in order to exhaust the effects of Karma) and the like. Again, that is of thirty-five kinds, according to the intention (to gain thereby various kinds of) worldly benefits (bhoga) and liberation.” This is so as there are thirty-two kinds of 
 
 212\. See above 16/164-165.
 
@@ -1600,7 +1600,7 @@ uvāca sadyojyotiś ca vṛttau svāyambhuvasya tat ॥ 209 ||
 bādham eko hi pāśātmā śabdo ‘nyaś ca śivātmakaḥ |
 tasmāt tasyaiva varṇasya yuktā śŚodhakaśodhyatā ॥ 210 ॥ 
 
-And (so too) Sadyojyotis has said in his commentary on the Svāyambhuva: “Yes indeed! the Assemblage of Sounds \[illegible\] (has two natures,) one is that it is the bondage (that binds the soul) \[illegible\] and the other that is Śiva.”” Therefore it is reasonable (to maintain) that (one and the) same phoneme (can be both) purifying (Śodhaka) and purified (Śodhya). (209cd-210) (210-21 1ab) 
+And (so too) Sadyojyotis has said in his commentary on the Svāyambhuva: “Yes indeed! the Assemblage of Sounds (śabda) (has two natures,) one is that it is the bondage (that binds the soul) (pāśa) and the other that is Śiva.”” Therefore it is reasonable (to maintain) that (one and the) same phoneme (can be both) purifying (Śodhaka) and purified (Śodhya). (209cd-210) (210-21 1ab) 
 
 #### Viveka on 16.210
 

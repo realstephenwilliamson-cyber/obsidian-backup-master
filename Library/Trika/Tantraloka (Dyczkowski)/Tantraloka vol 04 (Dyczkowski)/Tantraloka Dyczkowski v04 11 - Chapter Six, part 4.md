@@ -179,7 +179,7 @@ Night.
 
 (And ending with): 
 
-‘One should know that (the first \[illegible\] is the first lunar day, and the Moon (at that time) has (just) one digit, and in the second (11411), there is a second (digit), (in such a way) that it increases progressively. Such are the lunar days, that begin in this way, (increasing) up to the fifteenth \[illegible\] 
+‘One should know that (the first tuṭi) is the first lunar day, and the Moon (at that time) has (just) one digit, and in the second (11411), there is a second (digit), (in such a way) that it increases progressively. Such are the lunar days, that begin in this way, (increasing) up to the fifteenth tuṭi.’ 
 
 (Now) he also describes the conjunction of the lunar fortnight etc. (that take place) here. 
 
@@ -197,7 +197,7 @@ prāgvad anyad ayan māsaḥ prāṇacāre ‘bda ucyate |
 
 As before, the conjunction between the (two) fortnights takes place in the last 
 
-\[illegible\] which is that of the Full Moon. A lunar eclipse takes place by the 
+tuṭi, which is that of the Full Moon. A lunar eclipse takes place by the 
 
 jal entry into the conjunction (of the Full Moon), with the first lunar day (of the new cycle). The great fruit that adepts (can acquire) during this eclipse (grahana) is worldly. The rest is as before.” This is the 
 
@@ -286,7 +286,7 @@ place in the north.’
 
 Well then, if this equinox is supernal, then how is (the equinox when the Sun is on) the southern course (dakṣināyana)? With this question in mind, he says: 
 
-266\. One of the senses of the possessive suffix ‘vat is that of ‘being fit \[illegible\] or ‘competent’. See below, 6/206cd-207ab and note for a definition and detailed explanation of the inner equinoxes.
+266\. One of the senses of the possessive suffix ‘vat is that of ‘being fit for’ or ‘competent’. See below, 6/206cd-207ab and note for a definition and detailed explanation of the inner equinoxes.
 
 267\. SvT 7/98cd-99ab.
 
@@ -314,7 +314,7 @@ world).[^268] beloved, below Sakti, in the Heart (of the Cavity of Brahma), the 
 equinox. 
 
 [^268]: Cole in a note to me: ‘This correlates to the mid-day Abhijit, using a tropical zodiac for the time period.’
-[^269]: \[illegible\] SVT 7/112cd-114. śakteḥ sādhanarūpāyā adho vyāpinīśaktiḥ | brahmarandhrādipade karkaṭa Śiva adhovaktro haṁsaḥ, tataḥ sadāśivapade nadanapradhānatvāśeṣaviśvākramaṇa-kāritvābhyāṁ siṁhaḥ, ‘Below \[illegible\] who is the means (sādhana), is the Pervasive power (vyāpinīśakti). On the plane of the Cavity of Brahmā etc., it is the downward-facing breath (haṁsa), that is as if Cancer. Then on the plane of Sadāśiva with the two, namely, its subjugation of the entire universe and (its nature, which is) predominantly resonance (nadana), is Leo. tato bhrūmadhyādau baindavaprakāśaprādhānyād dīptikāntiyogāt sarvasādhāraṇa-prasaraṇarūpagatitaś (> -ghatitaś) ca kanyāśabdavācyaḥ, tato.api tālumadhye samatvenāvasthitatvāt tulārūpaḥ, sāmyād eva ca viṣuṁ vyāptim aṁatīti kṛtvā viṣuvacchabdābhidheyaḥ | punar viṣuvad iti pūrvoktottaraviṣuvato ‘nyo ‘yam viṣuvatkāla ity arthaḥ ॥ 114 I| Then between the eyebrows is (the sign) denoted by the word ‘Virgo’, formed by the flow (of consciousness) common to all, because of the predominance (here of) the Light of the Drop and the beauty of the radiance it possesses. Then again, in the middle of the palate (comes the one that is) Libra (the Balance), (which is such) because it is firmly fixed as a state of equality and because it is in a state of equality, it is befittingly the pervasion in both directions (11514) (of the two halves of the day and the year) and so is called by the word ‘equinox’ (viṣuvat) (lit. ‘possessing equality’). It is again (another) equinox, that is, this equinoctial time differs from the northern equinox mentioned before. This is the meaning.”
+[^269]: \[illegible\] SVT 7/112cd-114. śakteḥ sādhanarūpāyā adho vyāpinīśaktiḥ | brahmarandhrādipade karkaṭa Śiva adhovaktro haṁsaḥ, tataḥ sadāśivapade nadanapradhānatvāśeṣaviśvākramaṇa-kāritvābhyāṁ siṁhaḥ, ‘Below śakti’, who is the means (sādhana), is the Pervasive power (vyāpinīśakti). On the plane of the Cavity of Brahmā etc., it is the downward-facing breath (haṁsa), that is as if Cancer. Then on the plane of Sadāśiva with the two, namely, its subjugation of the entire universe and (its nature, which is) predominantly resonance (nadana), is Leo. tato bhrūmadhyādau baindavaprakāśaprādhānyād dīptikāntiyogāt sarvasādhāraṇa-prasaraṇarūpagatitaś (> -ghatitaś) ca kanyāśabdavācyaḥ, tato.api tālumadhye samatvenāvasthitatvāt tulārūpaḥ, sāmyād eva ca viṣuṁ vyāptim aṁatīti kṛtvā viṣuvacchabdābhidheyaḥ | punar viṣuvad iti pūrvoktottaraviṣuvato ‘nyo ‘yam viṣuvatkāla ity arthaḥ ॥ 114 I| Then between the eyebrows is (the sign) denoted by the word ‘Virgo’, formed by the flow (of consciousness) common to all, because of the predominance (here of) the Light of the Drop and the beauty of the radiance it possesses. Then again, in the middle of the palate (comes the one that is) Libra (the Balance), (which is such) because it is firmly fixed as a state of equality and because it is in a state of equality, it is befittingly the pervasion in both directions (11514) (of the two halves of the day and the year) and so is called by the word ‘equinox’ (viṣuvat) (lit. ‘possessing equality’). It is again (another) equinox, that is, this equinoctial time differs from the northern equinox mentioned before. This is the meaning.”
 
 *[p. 345]* ^pg360
 
@@ -484,7 +484,7 @@ prānṇe varṣodayaḥ prokto dvādaśābdodayo ‘dhunā |
 kharasās tithya ekasminn ekasminn \[illegible\] \[illegible\] kramāt ॥ 124 ॥
 dvādaśābdodaye te ca caitrādyā dvādaśoditāḥ | 
 
-The arising of the year in the breath has been explained. Now (follows an exposition) of the twelve-year cycle. This is (calculated) by attributing 60 lunar days to each finger space successively, and (for the transit of Jupiter from one sign to another), and those twelve arise starting from the month of \[illegible\] (giving each month the value of a year,) in the course of the emergence of twelve years. (124-125ab) (123cd-124) 
+The arising of the year in the breath has been explained. Now (follows an exposition) of the twelve-year cycle. This is (calculated) by attributing 60 lunar days to each finger space successively, and (for the transit of Jupiter from one sign to another), and those twelve arise starting from the month of Caitra, (giving each month the value of a year,) in the course of the emergence of twelve years. (124-125ab) (123cd-124) 
 
 #### Viveka on 6.123–124
 
@@ -1037,7 +1037,7 @@ The Lifespans of the Lords of the Worlds and Cosmic Cycles up to Śiva”
 
 *[p. 368]* ^pg383
 
-abādyavyaktatattvānteṣv \[illegible\] varṣaśataṁ kramāt ॥ 147 ॥
+abādyavyaktatattvānteṣv itthaṁ varṣaśataṁ kramāt ॥ 147 ॥
 dinarātrivibhāgaḥ syāt svasvāyuhśatamānataḥ | 
 
 The life of the Rudras who reside in Water is equal to a day and a night of the Rudras who reside in Fire, and so on up to the principle of unmanifest Nature (avyakta). In this way, it proceeds for a hundred years (of each Rudra), progressively (upwards)." (Such is this) division of Day and Night, that accords with the length of each one’s lifespan of a hundred (divine years). (147cd-148ab) (147) 

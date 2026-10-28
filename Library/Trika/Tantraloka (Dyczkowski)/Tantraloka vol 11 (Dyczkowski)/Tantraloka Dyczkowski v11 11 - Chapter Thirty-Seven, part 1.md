@@ -208,7 +208,7 @@ Surely (one may ask), would not the basic condition (sthiti) of Karma (that ensu
 
 [^551]: The same expression appears below in 37/28a.
 
-[^552]: This verse is also from the Ānandatantra. About the significance and symbolic value of the word vāma (which means \[illegible\] or ‘opposite’), as contrary to the current of worldly existence (saṁsāraviparīta), see above, 15/278cd-281. Cf. Kulārṇavatantra 5/48ab: yair eva patana dravyais siddhis tair eva coditā | “Those sacrificial substances which cause (one) to fall (according to other schools) are (the means to the attainment) of the accomplishment enjoined (in this one).” According to Sanderson (1995: 86), who refers to Śrīkanṭhī v. 264, by vāmaśāsana here is meant the left current of scriptures (vāmasrotas), as the Ānandatantra quoted here belongs to that part of the canon.
+[^552]: This verse is also from the Ānandatantra. About the significance and symbolic value of the word vāma (which means ‘left’ or ‘opposite’), as contrary to the current of worldly existence (saṁsāraviparīta), see above, 15/278cd-281. Cf. Kulārṇavatantra 5/48ab: yair eva patana dravyais siddhis tair eva coditā | “Those sacrificial substances which cause (one) to fall (according to other schools) are (the means to the attainment) of the accomplishment enjoined (in this one).” According to Sanderson (1995: 86), who refers to Śrīkanṭhī v. 264, by vāmaśāsana here is meant the left current of scriptures (vāmasrotas), as the Ānandatantra quoted here belongs to that part of the canon.
 
 [^553]: \[illegible\] The question is very cogent. It is the Veda and its related literature — the smṛti ~ amongst which are the law books (dharmaśāstra), that ascertain the nature of Karma, whether it is good or bad and to what degree in relation to the person who creates it. Moreover, it prescribes the penances that are applicable for the infringement of the rules of Karma and more. The concept of Karma is universally accepted in all of Asia. For Śaivites the authority on which this acceptance is based is the Veda. Thus, its authority cannot be totally denied, nor does it need to be.
 
@@ -336,7 +336,7 @@ mandala sāram ukta hi mandaśrutyā śivāhvayam |
 evam anyonyasamibhedavṛtti pīthacatuṣtayam ॥ 21 ॥
 yatas tasmād bhavet sarvar \[illegible\] pīthe ‘pi vastutaḥ | 
 
-The one that bestows (deep) reflection (manana) and salvation (trāṇa) is called ‘Mantra’.[^566] The reinforcement there (in that respect) by Vidyā is fulfilment \[illegible\] (of Mantra). It is that which illumines what should be known. Mudrā is the counterpart (pratikṛti) of Mantra, and Mandala fulfils it. It is said to be the essence and, in accord with (the sense of) the word ‘manda’, it is called Śiva.[^567] The four pīṭhas penetrate one another in this way and so, in actual fact, everything is present in each single \[illegible\] (19cd-22ab) 
+The one that bestows (deep) reflection (manana) and salvation (trāṇa) is called ‘Mantra’.[^566] The reinforcement there (in that respect) by Vidyā is fulfilment (āpyāya) (of Mantra). It is that which illumines what should be known. Mudrā is the counterpart (pratikṛti) of Mantra, and Mandala fulfils it. It is said to be the essence and, in accord with (the sense of) the word ‘manda’, it is called Śiva.[^567] The four pīṭhas penetrate one another in this way and so, in actual fact, everything is present in each single \[illegible\] (19cd-22ab) 
 
 #### Viveka on 37.19–22
 
@@ -607,7 +607,7 @@ It is where the priceless faculty (adhikṛti) called creative action (kṛti) e
 
 [^584]: The seven worlds starting from the lowest are: Bhūrloka, Bhuvarloka, Mahāloka, Brahmaloka, Satyaloka, Viṣṇuloka and Śivaloka. See above, 8/119cd (119) ff.
 
-[^585]: Concerning the continents (varsa) and islands \[illegible\] of this world, see above, 8/62cd ff. Amongst them, India is the region called ‘Kanyā’ or “Kumārikā’. Cf. above, 8/83-84 and note, sce also Dyczkowski 2009: vol. 1 p. 115.
+[^585]: Concerning the continents (varsa) and islands (dvīpa) of this world, see above, 8/62cd ff. Amongst them, India is the region called ‘Kanyā’ or “Kumārikā’. Cf. above, 8/83-84 and note, sce also Dyczkowski 2009: vol. 1 p. 115.
 
 [^586]: See above, 8/102-104.
 
@@ -703,7 +703,7 @@ tam atha lalitādityo rājā nijaṁ puram ānayat
 pranayarabhasāt kaśmīrākhyan himālayamūrdhagam |
 adhivasati yad gaurīkāntaḥ karair vijayādibhir- 
 
-yugapad akhilan bhoge \[illegible\] \[illegible\] rasāt paricarvitum | 39 ॥
+yugapad akhilan bhoge sāraṁ rasāt paricarvitum | 39 ॥
 sthāne sthāne munibhir akhilaiś cakrire yan nivāsā 
 
 yac cādhyāste pratipadam idaṁ sa svayaṁ candracūdaḥ |
@@ -1115,7 +1115,7 @@ Once he had set aside the burdens of the oceanic waves (of his stormy) youth, he
 
 ### TĀ 37.57
 
-As the saying goes, a mother is the greatest friend. (However,) love makes the fetters (that bind to worldly life) very firm. When this, the root fetter, had fallen away, I consider that for him liberation in this life itself was accomplished \[illegible\] (57) 
+As the saying goes, a mother is the greatest friend. (However,) love makes the fetters (that bind to worldly life) very firm. When this, the root fetter, had fallen away, I consider that for him liberation in this life itself was accomplished (sthitā). (57) 
 
 #### Viveka on 37.57
 
@@ -1167,7 +1167,7 @@ Totally immersed in deity,[^619] he had no concern for anything in the world at 
 
 #### Viveka on 37.59
 
-‘He did’ (purā karoti) — the use of the present tense (in this case is sanctioned by the rule ‘(the affix verbal) \[illegible\] (that normally marks the present tense denotes future action when associated with the particles) yāvat and 
+‘He did’ (purā karoti) — the use of the present tense (in this case is sanctioned by the rule ‘(the affix verbal) laṭ (that normally marks the present tense denotes future action when associated with the particles) yāvat and 
 
 purā.’[^620] 
 
@@ -1290,7 +1290,7 @@ the sun (bhāskaramukha).[^629] (62)
 
 [^628]: \[illegible\] Pandey (1963a: 12) reads Śivabhakti for Śivaśakti. See Rastogi 1987: 35 ff.
 
-[^629]: It is not possible, at present at least, to identify all these teachers. Abhinava refers to a ritual manual by Dharmaśiva (above 31/50 see also Kṣemarāja on SvT vol. 6, pp. 8-9). Initiatory names ending in -śiva are common amongst Śaivasiddhāntins, and so we may assume that Dharmaśiva was one. The appellation \[illegible\] is commonly affixed to the names of female Siddhāntins. So it possible that Śivaśakti was such. Vāmanaka may be identified with Bhūtirāja, one of Abhinava’s Krama teachers (see above, note 37,77). Or it may be that Śrībhūteśa is Bhūtirāja. Udbhaṭa was another of Abhinava’s Krama teachers (see above, TĀv ad 4/173ab). 1 have translated ‘bhāskaramukha’ as an adjective, ‘he whose face is like the sun’ referring to the teacher called Bhāskara. It is not impossible that he is the Bhāskara who wrote a commentary on the Śivasūtra. At the beginning of it, he gives a brief account of his lineage, that descends directly from Kallaṭabhaṭta, from whom he is removed by just four generations, and so could have been Abhinava’s teacher (Dyczkowski 1992b: 11). Torella has suggested that it is possible that Vāmanadatta, who is author of the Viṣnustuti, better known as the Saṁvitprakāśa, might be the Vāmanaka mentioned here. It is also possible that he is the same as the author of the Svabodhodayāmañjarī, a possibility to which Torella cautiously subscribes (Torella 1994b: 482, note 4), which I reject (Dyczkowski 1992a: 305). Abhinava quotes Bhatta Rāmakantha 2 directly above (8/428cd-434ab (428-434)); (see Goodall (1995: intro. p. 3) without criticising him; this might be because Rāmakantha was a senior contemporary whom he would not attack directly. Again, Nārāyaṇakantha, Rāmakantha’s father, quotes the Saṁvitprakāśa. Thus, although a direct connection between Abhinava and the author of the Saṁvirprakāśa is unlikely (Hanneder 1998: 146 note 18), it is still possible that he was one of Abhinava’s teachers, if Abhinava was young and he was quite old,
+[^629]: It is not possible, at present at least, to identify all these teachers. Abhinava refers to a ritual manual by Dharmaśiva (above 31/50 see also Kṣemarāja on SvT vol. 6, pp. 8-9). Initiatory names ending in -śiva are common amongst Śaivasiddhāntins, and so we may assume that Dharmaśiva was one. The appellation ‘śakti’ is commonly affixed to the names of female Siddhāntins. So it possible that Śivaśakti was such. Vāmanaka may be identified with Bhūtirāja, one of Abhinava’s Krama teachers (see above, note 37,77). Or it may be that Śrībhūteśa is Bhūtirāja. Udbhaṭa was another of Abhinava’s Krama teachers (see above, TĀv ad 4/173ab). 1 have translated ‘bhāskaramukha’ as an adjective, ‘he whose face is like the sun’ referring to the teacher called Bhāskara. It is not impossible that he is the Bhāskara who wrote a commentary on the Śivasūtra. At the beginning of it, he gives a brief account of his lineage, that descends directly from Kallaṭabhaṭta, from whom he is removed by just four generations, and so could have been Abhinava’s teacher (Dyczkowski 1992b: 11). Torella has suggested that it is possible that Vāmanadatta, who is author of the Viṣnustuti, better known as the Saṁvitprakāśa, might be the Vāmanaka mentioned here. It is also possible that he is the same as the author of the Svabodhodayāmañjarī, a possibility to which Torella cautiously subscribes (Torella 1994b: 482, note 4), which I reject (Dyczkowski 1992a: 305). Abhinava quotes Bhatta Rāmakantha 2 directly above (8/428cd-434ab (428-434)); (see Goodall (1995: intro. p. 3) without criticising him; this might be because Rāmakantha was a senior contemporary whom he would not attack directly. Again, Nārāyaṇakantha, Rāmakantha’s father, quotes the Saṁvitprakāśa. Thus, although a direct connection between Abhinava and the author of the Saṁvirprakāśa is unlikely (Hanneder 1998: 146 note 18), it is still possible that he was one of Abhinava’s teachers, if Abhinava was young and he was quite old,
 
 
 *[p. 257]* ^pg275
@@ -1488,7 +1488,7 @@ so ‘nugrahapravana eva hi sadgurūnām-
 
 ājñāvaśena śubhasūtimahāṁkurenṇa ॥ 71 || 
 
-This was the group (of disciples) who requested the teacher (to teach them,) in order to learn (all the) Tantras fully, in depth and properly. May the wealth \[illegible\] of the intellect of one graced by (good) fate be dedicated solely to (this) literary work, (which is itself an unbroken stream of) prosperity (saṁpatprabandha). (70) 
+This was the group (of disciples) who requested the teacher (to teach them,) in order to learn (all the) Tantras fully, in depth and properly. May the wealth (saṁpat) of the intellect of one graced by (good) fate be dedicated solely to (this) literary work, (which is itself an unbroken stream of) prosperity (saṁpatprabandha). (70) 
 
 ### TĀ 37.71
 
@@ -1498,7 +1498,7 @@ He also accepted their request, or else (how could it be otherwise,) the require
 
 ‘This was the group (of disciples) who, in order to learn (all the) Tantras fully’ ‘requested the teacher (to teach them)’. This is the (syntactical) relationship (between these statements). (He accepted) ‘their’ (request) that is, of (this) group (of disciples). 
 
-(By saying) \[illegible\] else (how could it be otherwise,)’, (he) mentions another view in order to highlight (what would happen even if that) request is not made (i.e. Abhinavagupta would have taught them anyway, for that was essential for them). 
+(By saying) ‘or else (how could it be otherwise,)’, (he) mentions another view in order to highlight (what would happen even if that) request is not made (i.e. Abhinavagupta would have taught them anyway, for that was essential for them). 
 
 ### TĀ 37.72
 
@@ -1770,7 +1770,7 @@ sadyo ‘nugṁnātu ca tattvadṛṣtyā || 84 ||
 
 *[p. 267]* ^pg285
 
-(Thus), he composed this greatly precious (mahārtha)[^651] work, in which is expounded the essence of the Tantras (tantratattva), in accord with reason (yukti) and the tradition \[illegible\] Easy is the practice of (their) rites once (the people of) this world has acquired (its) light (loka).[^652] (83) 
+(Thus), he composed this greatly precious (mahārtha)[^651] work, in which is expounded the essence of the Tantras (tantratattva), in accord with reason (yukti) and the tradition (āgama). Easy is the practice of (their) rites once (the people of) this world has acquired (its) light (loka).[^652] (83) 
 
 ### TĀ 37.84
 

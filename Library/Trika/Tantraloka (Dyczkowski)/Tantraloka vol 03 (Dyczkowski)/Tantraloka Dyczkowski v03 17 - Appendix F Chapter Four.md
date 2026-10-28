@@ -289,7 +289,7 @@ The final development of the fully formed Krama system is consolidated in three 
 
 One of the other two is anonymous, and there is no concrete evidence of where it was written except the circumstance that the sole manuscript is found in Trivandrum. The other Mahānayaprakāśa, by Arṇasiṁha, was most probably South Indian, as are the Krama works written after them that have survived. These are two. The first of these is the Cidgaganacandrikā, followed by the Mahārthamañjarī ~ the Bouquet of (the Teachings of the) Mahārtha - of Maheśvarānanda, who quotes it. The latter is composed in seventy verses in old Mahārāṣṭrian. Maheśvarānanda claims that it was revealed to him directly by the Goddess. He translated the verses and wrote an extensive commentary in Sanskrit. 
 
-Maheśvarānanda tells us that he lived in the land of the Colas, that is, modern Tamil Nadu. Perhaps he came from Mahāraṣtṭra and the goddess spoke to him in his native language. He was the grand-disciple of \[illegible\] 
+Maheśvarānanda tells us that he lived in the land of the Colas, that is, modern Tamil Nadu. Perhaps he came from Mahāraṣtṭra and the goddess spoke to him in his native language. He was the grand-disciple of Śivānanda, 
 
 the 
 

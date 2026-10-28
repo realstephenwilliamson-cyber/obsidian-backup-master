@@ -138,7 +138,7 @@ yato \[illegible\] sudīptatvāt sthāvarānṇy api mocayet ॥ 7 ॥
 
 “Their own effect’ is to bind those who are to be bound. (The initiation is) ‘full of fervour (sudīpta)’. If it were devoid of fervour, it would not be capable of conjoining even animals, what to say of plants! This is the intended sense. That is said (in the scriptures where we read): 
 
-‘(This initiation liberates) bears \[illegible\] birds (pakṣin), hyenas, and the like. It can even liberate plants.” 
+‘(This initiation liberates) bears (ṛkṣa), birds (pakṣin), hyenas, and the like. It can even liberate plants.” 
 
 Thus, he says: 
 

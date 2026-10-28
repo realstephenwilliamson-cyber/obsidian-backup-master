@@ -206,7 +206,7 @@ nāsmin vidhīyate kiñcin na cāpi pratiṣidhyate |
 
 touched) or the like. There is neither duality nor nonduality.[^823] There is no worship of the Liṅga or the like, neither its abandonment.[^824] There is neither (the 
 
-renouncer’s rule) of not caring to own anything (niṣparigrahatā) nor (the householder’s) engagement with possessions (saparigrahatā). (Such practices as having) matted hair, (smearing the body) with ashes and the like are neither rejected (nor enjoined).[^825] Such is also the case with the observance or otherwise of (the ascetic’s) Vows and the like. Entry into the sacred meeting grounds \[illegible\] etc., the observance of the Rule etc., (the distinction between) one’s own and others’ (sectarian) appearance (rūpa), sectarian insignia \[illegible\] (initiatory) names and clans (gotra) or the like ~ none are either prescribed or prohibited in this (Tantra). (213cd-217ab) 
+renouncer’s rule) of not caring to own anything (niṣparigrahatā) nor (the householder’s) engagement with possessions (saparigrahatā). (Such practices as having) matted hair, (smearing the body) with ashes and the like are neither rejected (nor enjoined).[^825] Such is also the case with the observance or otherwise of (the ascetic’s) Vows and the like. Entry into the sacred meeting grounds (kṣetra) etc., the observance of the Rule etc., (the distinction between) one’s own and others’ (sectarian) appearance (rūpa), sectarian insignia \[illegible\] (initiatory) names and clans (gotra) or the like ~ none are either prescribed or prohibited in this (Tantra). (213cd-217ab) 
 
 ### TĀ 4.217–221
 
@@ -271,7 +271,7 @@ a) Commentary on the words ‘here (in the practice of this Tantra) there is nei
 अशुद्धं हि कथं नाम देहाद्यं पाञ्चभौतिकम् ॥ impure? ॥
 प्रकाशतातिरिक्ते किं शुद्ध्यशुद्धी हि वस्तुन ; ।
 
-aśuddhari hi \[illegible\] nāma dehādyaṁi pāñcabhautikam ॥ 221 ॥
+aśuddhari hi kathaṁ nāma dehādyaṁi pāñcabhautikam ॥ 221 ॥
 prakāśatātirikte kiṁ śuddhyaśuddhī hi vastunaḥ | 
 
 [^831]Indeed, how can the body and the rest which consists of the five gross elements be impure?[^832] How can purity and impurity (be an intrinsic 
@@ -305,7 +305,7 @@ impure’ would be compromised.[^835]
 
 If impurity, which is thus an attribute of the perceiver, were to be purified by another entity, is that (entity) pure or impure? 
 
-[^835]: \[illegible\] An entity possesses two types of qualities. One is called ‘guna’ and is extrinsic to its nature. A jar, for example, may be red or black. It makes no difference to its essential nature as a jar. The other type of quality is called ‘dharma’, which is, on the contrary, intrinsic to its nature. If the ‘jar-ness’ of a jar, for example, changes to something else like ‘cloth-ness’, it is no longer a jar. If impurity were to be an intrinsic quality of an entity, purification would require a change in its essential nature. This means that it would cease to be one thing (‘an impure entity’) and become another (‘pure entity’). One could get over this objection by simply saying that ‘purity’ or ‘impurity’ are secondary qualities, like ‘blue’ or ‘yellow’. However, conceding that amounts to admitting that nothing is ‘impure’ or \[illegible\] in itself. The point here, it seems, is that if the nature of something could be changed, then there would be no need to purify or clean it in some particular way. Moreover, it is indeed possible to purify or clean something. Otherwise, the scriptures would not explain how to do it. Nor would they enjoin it if it were not possible. So the question naturally arises that if the distinction between ‘pure’ and ‘impure’ is just a way of perceiving, how can something which is impure be purified? Abhinava replies that if outer entities were indeed to be pure or impure in themselves, they could not be sullied or purified. A so-called pure entity in the course of cleaning an impure one would itself become impure, and so would need another to purify it. Thus, the distinction is a perceived difference, not an intrinsic one.
+[^835]: \[illegible\] An entity possesses two types of qualities. One is called ‘guna’ and is extrinsic to its nature. A jar, for example, may be red or black. It makes no difference to its essential nature as a jar. The other type of quality is called ‘dharma’, which is, on the contrary, intrinsic to its nature. If the ‘jar-ness’ of a jar, for example, changes to something else like ‘cloth-ness’, it is no longer a jar. If impurity were to be an intrinsic quality of an entity, purification would require a change in its essential nature. This means that it would cease to be one thing (‘an impure entity’) and become another (‘pure entity’). One could get over this objection by simply saying that ‘purity’ or ‘impurity’ are secondary qualities, like ‘blue’ or ‘yellow’. However, conceding that amounts to admitting that nothing is ‘impure’ or ‘pure’ in itself. The point here, it seems, is that if the nature of something could be changed, then there would be no need to purify or clean it in some particular way. Moreover, it is indeed possible to purify or clean something. Otherwise, the scriptures would not explain how to do it. Nor would they enjoin it if it were not possible. So the question naturally arises that if the distinction between ‘pure’ and ‘impure’ is just a way of perceiving, how can something which is impure be purified? Abhinava replies that if outer entities were indeed to be pure or impure in themselves, they could not be sullied or purified. A so-called pure entity in the course of cleaning an impure one would itself become impure, and so would need another to purify it. Thus, the distinction is a perceived difference, not an intrinsic one.
 
 [^836]: \[illegible\] MSs Ch and Ñ read taijasādīnāṁ for taijasānām.
 
@@ -663,7 +663,7 @@ It is always possible to harbour doubt as to whether the expressed sense (of a p
 
 *[p. 332]* ^pg345
 
-the nature of space and other similar categories (which according to the Vedic schools of philosophy are \[illegible\][^866] (233) 
+the nature of space and other similar categories (which according to the Vedic schools of philosophy are eternal).[^866] (233) 
 
 #### Viveka on 4.233
 
@@ -830,7 +830,7 @@ May (all come to) realise that the impurity said to be in a corpse, or what come
 
 #### Viveka on 4.240
 
-It is said in the Vedic scriptures that impurity (inheres) \[illegible\] a corpse’ or in the secretions (mala) etc. that come from the body, (but) ‘it is not present elsewhere’; that is, not in the secretions (mala) etc. of the body when (they are) within the living body. Thus, because (purity and impurity) relate to whether (something is) contiguous to consciousness or not, ‘one should think’, that is, as there is no reference to any specific (thing), may all understand (and accept) that everything ‘which is (seemingly) severed’ from the presence of ‘consciousness’ and (is apparently) separate from it, ‘is impure’. This is the meaning. Thus, all that is one with consciousness is pure. It follows that the distinction between purity and impurity is, in every case, due to the oneness or otherwise (of something) with consciousness. This is the view, and it has been proved. 
+It is said in the Vedic scriptures that impurity (inheres) ‘in a corpse’ or in the secretions (mala) etc. that come from the body, (but) ‘it is not present elsewhere’; that is, not in the secretions (mala) etc. of the body when (they are) within the living body. Thus, because (purity and impurity) relate to whether (something is) contiguous to consciousness or not, ‘one should think’, that is, as there is no reference to any specific (thing), may all understand (and accept) that everything ‘which is (seemingly) severed’ from the presence of ‘consciousness’ and (is apparently) separate from it, ‘is impure’. This is the meaning. Thus, all that is one with consciousness is pure. It follows that the distinction between purity and impurity is, in every case, due to the oneness or otherwise (of something) with consciousness. This is the view, and it has been proved. 
 
 Nor[^877] is that (view) proved by just reason, it is also (sustained) by the scriptures. 
 
@@ -987,7 +987,7 @@ Even if one accepts that purity and impurity are properties of the object, even 
 
 said to cause a person to fall from his caste status.[^889] 
 
-Therefore, even if (purity and impurity) were to be properties of the object, and both were not to be conditioned by their dependence on the perceiver, then wine (for example) would either be pure or impure for everybody (equally without distinction). Thus, one should understand in this way that it is generally enjoined (in the Vedic scriptures) that wine is impure, but (this general rule) is rendered invalid because particular Vedic passages \[illegible\] contradict it with regard to the sacrificer of the Sautrāmanī. 
+Therefore, even if (purity and impurity) were to be properties of the object, and both were not to be conditioned by their dependence on the perceiver, then wine (for example) would either be pure or impure for everybody (equally without distinction). Thus, one should understand in this way that it is generally enjoined (in the Vedic scriptures) that wine is impure, but (this general rule) is rendered invalid because particular Vedic passages (śruti) contradict it with regard to the sacrificer of the Sautrāmanī. 
 
 Surely, (an opponent may rejoin,) even if one may agree that to this extent (at least), Vedic injunction is rendered invalid by the injunction of Śaiva (scripture) in the aforestated manner, (but in the example you cite and many others like it, according to you) Vedic injunction renders itself invalid, and that does not seem to us to be logical. With this doubt in mind, he says: 
 
@@ -1069,7 +1069,7 @@ uttarottaravaiśiṣṭyāt pūrvapūrvaprabādhakam |
 
 What is uttered by men is overridden by what is uttered by rṣis. What is uttered by Vi 
 
-is (overridden) by what is uttered by Rudra. He says this (by stating that): ‘(the prescription that follows is more specific, and so) invalidates (the more general one that) precedes it.’ This is the reason why each subsequent (scripture) is greater (than the preceding ones). The point is that is it sound (to maintain that) the general (rule) is overridden by the particular \[illegible\][^893] 
+is (overridden) by what is uttered by Rudra. He says this (by stating that): ‘(the prescription that follows is more specific, and so) invalidates (the more general one that) precedes it.’ This is the reason why each subsequent (scripture) is greater (than the preceding ones). The point is that is it sound (to maintain that) the general (rule) is overridden by the particular (one).[^893] 
 
 Thus, conversely, (the injunctions of lower scriptures) do not render (those of the higher ones) invalid. 
 

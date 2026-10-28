@@ -40,7 +40,7 @@ He says that:
 यटुक्तम् चक्रभेदेन सार्ध पूज्यमिति त्रिकम् ।
 तत्रैष चक्रभेदानामेकीकारो दिशानया ॥ १ ॥
 
-yad uktam cakrabhedena \[illegible\] pūjyam iti trikam | 
+yad uktam cakrabhedena sārdhaṁ pūjyam iti trikam | 
 
 [^419]: The word ekīkāraḥ literally means ‘unification\*; the sense in this context is clearly ‘gathering together’ or ‘assembling together’.
 
@@ -189,7 +189,7 @@ suprabhā ṣodaśsī ceti śrīkaṇṭhādikaśaktyaḥ |
 
 Kānti 
 
-(Beauty), Svadhā,[^442] Dhṛti (Fortitude), \[illegible\] (Radiance), \[illegible\] (Satisfaction), Mati (Intellegence), Kīrti (Fame), Susthiti (Good State), Sugati (Good Fortune), Smṛti (Memory) and Suprabhā (Beautiful Light), who is the sixteenth. (They are) the powers of Śrīkaṇtha 
+(Beauty), Svadhā,[^442] Dhṛti (Fortitude), Dīpti (Radiance), Puṣṭi (Satisfaction), Mati (Intellegence), Kīrti (Fame), Susthiti (Good State), Sugati (Good Fortune), Smṛti (Memory) and Suprabhā (Beautiful Light), who is the sixteenth. (They are) the powers of Śrīkaṇtha 
 
 and the rest.[^443] (6-7ab) 
 

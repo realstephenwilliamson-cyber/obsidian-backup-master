@@ -121,7 +121,7 @@ Moreover, the Supreme Lord has said this in the Jñānottara.\* (There we read):
 
 *[p. 403]* ^pg423
 
-certainly \[illegible\] not install the Mantras of the secret scriptures externally, especially not those that are (externally) manifest (and spoken out aloud). That is why the installation procedure taught elsewhere (in other scriptures) for the benefit of the deceased, (according to our) scriptures, should not be performed here (in this case). Rather, on the contrary, a common (sādhāranṇī) (rite of installation) should be performed (with common mantras). (6-8) 
+certainly (jātu) not install the Mantras of the secret scriptures externally, especially not those that are (externally) manifest (and spoken out aloud). That is why the installation procedure taught elsewhere (in other scriptures) for the benefit of the deceased, (according to our) scriptures, should not be performed here (in this case). Rather, on the contrary, a common (sādhāranṇī) (rite of installation) should be performed (with common mantras). (6-8) 
 
 #### Viveka on 27.6–8
 
@@ -231,7 +231,7 @@ Here (in that case), at the time when the (deity) is detained (in the 1९00) (�
 
 ### TĀ 27.12–13
 
-The \[illegible\] may be a made of quartz (bānṇaliṅga)," gems, pearls, flowers, food, cloth, or fragrant substances. He should not take into consideration (parikalpayet) a Liṅga made of stone fashioned by an artisan \[illegible\] So too any other made of metal should be avoided, with the exception of gold. (12-13) 
+The liṅga may be a made of quartz (bānṇaliṅga)," gems, pearls, flowers, food, cloth, or fragrant substances. He should not take into consideration (parikalpayet) a Liṅga made of stone fashioned by an artisan (śilpin). So too any other made of metal should be avoided, with the exception of gold. (12-13) 
 
 ### TĀ 27.14–16
 
@@ -258,7 +258,7 @@ artifact (kalpanā) with regard to a thread (that is used for a rosary), a (sacr
 
 ### TĀ 27.19–20
 
-Or else the teacher may (if he so wishes), cause the installation of an iconic (vyakta) (representation of the deity),) such as a picture, (a mask, or image made of) papier machè etc., or it may be made of deodar wood” or gold fashioned by a true (member of the) artisan (caste) \[illegible\] who has received (the appropriate) initiation (to do the job). (19cd-20ab) 
+Or else the teacher may (if he so wishes), cause the installation of an iconic (vyakta) (representation of the deity),) such as a picture, (a mask, or image made of) papier machè etc., or it may be made of deodar wood” or gold fashioned by a true (member of the) artisan (caste) (śilpin) who has received (the appropriate) initiation (to do the job). (19cd-20ab) 
 
 #### Viveka on 27.19–20
 
@@ -285,7 +285,7 @@ Characteristics and Features of a Skull
 
 ### TĀ 27.21–22
 
-We will now state its defining characteristic (lakṣana), as described in the venerable Picuśastra, (where we read that): ‘the sacrifice? \[illegible\] (performed) on a skull devoid of defects is always commended (śasta) as bestowing accomplishment (siddhi).”” (21cd-22ab) 
+We will now state its defining characteristic (lakṣana), as described in the venerable Picuśastra, (where we read that): ‘the sacrifice? (yāga) (performed) on a skull devoid of defects is always commended (śasta) as bestowing accomplishment (siddhi).”” (21cd-22ab) 
 
 #### Viveka on 27.21–22
 
@@ -365,7 +365,7 @@ sarvar samālikhet pūjyaṁ sarvāvayavasundaram |
 
 (But our) teachers” explain that, when it is said in the Picumata (that) ‘in a magical rite (kāmyavidhi) one should take care to avoid (a skull 
 
-960?\. The following is a passage from the Brahmayāmala, where we find an example of the use of a skull for a magical rite to subdue ~ ‘attract’ — a victim: yāgakāle prakartavyā gandhadhūpādikā kriyā \\ 162 I| daśārnarecitā vidyā siddhasandohalakṣanā | asya sādhanakarmaṁ ca kathayāmi yathā bhavet || 163 ॥ “At the time of a sacrifice, one should make ritual (offering of) perfume, incense and the like. The Vidyā is made of five phonemes and is the extract of (the teachings of the) Siddhas. Now I will tell you how the rite of its sādhana is. (162cd-163) mahāvīrakapāle tu kṛtvā \[illegible\] caturbhujam | kapālamālābharanaṁ nāgayajñopavītinam \[g: -nīm\] Il 164 ॥ kapālakhaṭvāṁgadharāmi pretārūdhāri subhairavīm | 143a g\] digambarāṁ \[g: ?\] caturvaktrāṁ pāśāṁkuśadharāṁ śubhām ॥ 165 ॥ pūjayīta kṛtanyāso mudrāpañcakabhūṣitaḥ | The worshipper who has performed the deposition (of the mantras on his body) and is adorned with the five insignia (mudrā) (of a Kāpālika) (should worship) having fashioned in this way (a Bhairava) on the skull of a Great Hero with four arms (holding) a skull, a garland, as an ornament, and (wearing) a snake as a sacred thread. (On the skull there is also) a beautiful Bhairavi who holds an ascetic’s staff, mounted on a ghost, naked with four faces and holds an auspicious noose and elephant gaud, (164-166ab) digvāso muktakeśaś ca madhocchiṣtavidhau sthitaḥ ॥ 166 ॥ mṛtanirmālyapuṣpais tu anyair vācāntadhāūtakaiḥ | \[g: 21 pūjayed bhairavīdevīṁi puṣpair nānāvidhais tathā ॥ 167 ॥ \[g: ?\] dantakarnākṣināsāyā mūlaṁ balisamudbhavam | \[g: ?\] sugandhamiśritaṁ \[g: ?\] dadyād gandhametad dvijottamaḥ || 168 II He is naked, his hair dishevelled, observing the procedure that requires wine and the remnants of food. He should worship the goddess Bhairavi with dead leftover flowers, used previously as an offering and other (such things) and (also) with flowers of many kinds. The most excellent of the twice bor, should offer this as scent — the root of the teeth, ears and eyes of the animal offered in sacrifice (bali) mixed with fine perfume. (168) laśunaṁ guggulaṁ caiva mahāmāṁsari tathaiva ca | kṛsnamārjāraviṣṭiṁ ca ekatra viniyojitam ॥ 169 I| bodhitar strīrajenāyaṁn daded dhūpaṁ tu mantravit | svavāmāṁgodbhavenaiva rudhireṇa kapālake || 170 ॥ arghar tasya pradātavyaṁ suray ca pratarpayet | Garlic, bdellium, human flesh (or beef), a black cat and (the meat of a) slave together in one place — the knower of Mantra should offer (this), awakened (and energized) by a woman’s menstrual blood as incense. Purifying liquid (argha) should be offered with the blood from the left part of one’s own body onto the skull and offer libation with wine (surā). (171ab) matsyamāṁsaṁ caruṁ deva upahāraṁ tathaiva ca ॥ 171 II vaṭakaiḥ pūrakair dhūpair āmamāṁsamanvitaiḥ | naivedyaṁ dāpayet prājṁñaḥ palānduṁ laśunaṁ tathā ॥ 172 Il tato homar prakartavyaṁ mahāmārisena mantrinī | gomāṁsarudhireṇaiva tarpayed hastajena tu || 173 ॥ arthālābhena \[g: ?\] cānyena \[g: ?\] tataḥ kṛtvā pradakṣinām | japaṁ śahkhākṣasūtrari \[g: saṁ-\] ca mahāśaṁkho \[g: -sarikho\] hy atandritaḥ W 174 Il sadocchiṣto japed devīṁ yadīcchet siddhim ātmanaḥ \[g: -tsiddhimā + \*?\] | japet akṣarātyakṣena mahocchuṣmaṁ prapaśyati ? ॥ 175 ॥ bhinnāñjanapratīkāśami ghoraṁ dvādaśalocanam | svapnānte paśyate devī dṛṣṭvā siddhyati mantravit ॥ 176 ॥ O god, the wise man should offer a food offering of sacrificial pap made of fish and meat, along with cakes of pulse, balls of meat, incense, along with raw meat, onion, and garlic. O reciter of Mantra, (he should make) a fire offering of human flesh (or beef) (mahāmāṁsa) and offer libations with the blood of cow flesh and that of an elephant or with something else if he cannot procure the money (to do that). Then, having circumambulated (the skull), he should tirelessly repeat (the Vidyā of) the goddess if he wishes accomplishments for himself. (171cd-175ab) He should repeat Mantra without omitting (any letters) (until) he sees Mahocchuṣmā. (He is black) like sliced collyrium, fearsome and with twelve eyes. O goddess, he sees him in a dream and having seen him, the knower of Mantra is successful.” (175cd-176) The text goes on to list a variety of kinds of meat to offer in the fire concluding that the person with whose name he makes these offering is attracted in a moment. (177-1 82ab)
+960?\. The following is a passage from the Brahmayāmala, where we find an example of the use of a skull for a magical rite to subdue ~ ‘attract’ — a victim: yāgakāle prakartavyā gandhadhūpādikā kriyā \\ 162 I| daśārnarecitā vidyā siddhasandohalakṣanā | asya sādhanakarmaṁ ca kathayāmi yathā bhavet || 163 ॥ “At the time of a sacrifice, one should make ritual (offering of) perfume, incense and the like. The Vidyā is made of five phonemes and is the extract of (the teachings of the) Siddhas. Now I will tell you how the rite of its sādhana is. (162cd-163) mahāvīrakapāle tu kṛtvā caivaṁ caturbhujam | kapālamālābharanaṁ nāgayajñopavītinam \[g: -nīm\] Il 164 ॥ kapālakhaṭvāṁgadharāmi pretārūdhāri subhairavīm | 143a g\] digambarāṁ \[g: ?\] caturvaktrāṁ pāśāṁkuśadharāṁ śubhām ॥ 165 ॥ pūjayīta kṛtanyāso mudrāpañcakabhūṣitaḥ | The worshipper who has performed the deposition (of the mantras on his body) and is adorned with the five insignia (mudrā) (of a Kāpālika) (should worship) having fashioned in this way (a Bhairava) on the skull of a Great Hero with four arms (holding) a skull, a garland, as an ornament, and (wearing) a snake as a sacred thread. (On the skull there is also) a beautiful Bhairavi who holds an ascetic’s staff, mounted on a ghost, naked with four faces and holds an auspicious noose and elephant gaud, (164-166ab) digvāso muktakeśaś ca madhocchiṣtavidhau sthitaḥ ॥ 166 ॥ mṛtanirmālyapuṣpais tu anyair vācāntadhāūtakaiḥ | \[g: 21 pūjayed bhairavīdevīṁi puṣpair nānāvidhais tathā ॥ 167 ॥ \[g: ?\] dantakarnākṣināsāyā mūlaṁ balisamudbhavam | \[g: ?\] sugandhamiśritaṁ \[g: ?\] dadyād gandhametad dvijottamaḥ || 168 II He is naked, his hair dishevelled, observing the procedure that requires wine and the remnants of food. He should worship the goddess Bhairavi with dead leftover flowers, used previously as an offering and other (such things) and (also) with flowers of many kinds. The most excellent of the twice bor, should offer this as scent — the root of the teeth, ears and eyes of the animal offered in sacrifice (bali) mixed with fine perfume. (168) laśunaṁ guggulaṁ caiva mahāmāṁsari tathaiva ca | kṛsnamārjāraviṣṭiṁ ca ekatra viniyojitam ॥ 169 I| bodhitar strīrajenāyaṁn daded dhūpaṁ tu mantravit | svavāmāṁgodbhavenaiva rudhireṇa kapālake || 170 ॥ arghar tasya pradātavyaṁ suray ca pratarpayet | Garlic, bdellium, human flesh (or beef), a black cat and (the meat of a) slave together in one place — the knower of Mantra should offer (this), awakened (and energized) by a woman’s menstrual blood as incense. Purifying liquid (argha) should be offered with the blood from the left part of one’s own body onto the skull and offer libation with wine (surā). (171ab) matsyamāṁsaṁ caruṁ deva upahāraṁ tathaiva ca ॥ 171 II vaṭakaiḥ pūrakair dhūpair āmamāṁsamanvitaiḥ | naivedyaṁ dāpayet prājṁñaḥ palānduṁ laśunaṁ tathā ॥ 172 Il tato homar prakartavyaṁ mahāmārisena mantrinī | gomāṁsarudhireṇaiva tarpayed hastajena tu || 173 ॥ arthālābhena \[g: ?\] cānyena \[g: ?\] tataḥ kṛtvā pradakṣinām | japaṁ śahkhākṣasūtrari \[g: saṁ-\] ca mahāśaṁkho \[g: -sarikho\] hy atandritaḥ W 174 Il sadocchiṣto japed devīṁ yadīcchet siddhim ātmanaḥ \[g: -tsiddhimā + \*?\] | japet akṣarātyakṣena mahocchuṣmaṁ prapaśyati ? ॥ 175 ॥ bhinnāñjanapratīkāśami ghoraṁ dvādaśalocanam | svapnānte paśyate devī dṛṣṭvā siddhyati mantravit ॥ 176 ॥ O god, the wise man should offer a food offering of sacrificial pap made of fish and meat, along with cakes of pulse, balls of meat, incense, along with raw meat, onion, and garlic. O reciter of Mantra, (he should make) a fire offering of human flesh (or beef) (mahāmāṁsa) and offer libations with the blood of cow flesh and that of an elephant or with something else if he cannot procure the money (to do that). Then, having circumambulated (the skull), he should tirelessly repeat (the Vidyā of) the goddess if he wishes accomplishments for himself. (171cd-175ab) He should repeat Mantra without omitting (any letters) (until) he sees Mahocchuṣmā. (He is black) like sliced collyrium, fearsome and with twelve eyes. O goddess, he sees him in a dream and having seen him, the knower of Mantra is successful.” (175cd-176) The text goes on to list a variety of kinds of meat to offer in the fire concluding that the person with whose name he makes these offering is attracted in a moment. (177-1 82ab)
 
 
 *[p. 411]* ^pg431
@@ -416,7 +416,7 @@ And the scripture also (characterizes the sacrificial jar) in the same way. Acco
 
 *[p. 413]* ^pg433
 
-Śrībrahmayāmale ‘py uktaṁ \[illegible\] gomukham uttamam |
+Śrībrahmayāmale ‘py uktaṁ pātraṁ gomukham uttamam |
 gajakūrmatalaṁ kumbhavṛttaśaktikajākṛti ॥ 29 ॥ 
 
 Tt is also said in the venerable Brahmayāmala that the best vessel (i.e. a skull) is (one that is shaped like) the head of a cow, its base (round like) a tortoise or elephant, and form like the female organ (śaktikaja),”it (should be) round like an elephant’s forehead (kumbha).(29) 
@@ -645,7 +645,7 @@ It is said in the venerable Kālīmukha that a sword, a blade, a dagger, or a mi
 
 ‘Its own appropriate offerings’ are those that are appropriate to, for example, the condition of a householder. As is said: 
 
-‘One should worship, in accord with the enjoined procedure, in the house with (sacrificial) substances, and in the cremation ground with (substances) that come from that (place). One should not mix them \[illegible\] 
+‘One should worship, in accord with the enjoined procedure, in the house with (sacrificial) substances, and in the cremation ground with (substances) that come from that (place). One should not mix them up.’ 
 
 ### TĀ 27.47
 
@@ -711,7 +711,7 @@ ata eva yadā bhūridinan mandalakalpanam |
 tadā dine dine kuryād vibhavais tarpaṇaṁ bahu ॥ 51 ॥ pratiṣthāyāṁ ca sarvatra guruḥ pūrvodita param |
 satattvam anusandhāya saṁnidhiṁ sphutam ācaret || 52 ॥ 
 
-(It is essential) to purify and lustrate (tarpana) (the Liṅgas and icons etc.) installed in this way by oneself lavishly,“ (regularly, ànd) without a break, for as long as they are functional. Thus if, (for example), a mandala that has been fashioned to last for many days, it should be lustrated daily abundantly. When installing (a deity) the teacher should, in all respects, conjoin (himself in) meditation with the supreme reality and its essential nature mentioned previously, and having done so, bring (the deity) into his presence \[illegible\] in a clearly evident manner (in the outer icon). (50-52) 
+(It is essential) to purify and lustrate (tarpana) (the Liṅgas and icons etc.) installed in this way by oneself lavishly,“ (regularly, ànd) without a break, for as long as they are functional. Thus if, (for example), a mandala that has been fashioned to last for many days, it should be lustrated daily abundantly. When installing (a deity) the teacher should, in all respects, conjoin (himself in) meditation with the supreme reality and its essential nature mentioned previously, and having done so, bring (the deity) into his presence (saṁnidhi) in a clearly evident manner (in the outer icon). (50-52) 
 
 #### Viveka on 27.50–52
 
@@ -939,7 +939,7 @@ mūlacchedena teṣāṁ hi jighārisanti malatrayam |
 malatrayaviyuktasya Śarīraṁ na prarohati | 18 ॥
 dīpavad yojanaṁ tasya paśor naiva hi ghātanam |
 vyāpakena svarūpena svaśaktivibhavena ca || 19 ॥
-troṭayanti paśoḥ pāśān \[illegible\] yena naśyati |
+troṭayanti paśoḥ pāśān śarīraṁ yena naśyati |
 sarīreṇa pranaṣtena mokṣanaṁ nahi māranam || 20 ॥
 dṛdhaprarudhapāśasya baddhasya puruṣasya yah |
 viyogas tu Śarīreṇna marana tadvidurbudhāḥ ॥ 21 ॥ 
@@ -1008,7 +1008,7 @@ madirāsavapānena yathaivonmāditaḥ kvacit ॥ 25 ॥
 krīdate hy asvatantratvād bālo vā bhramyati kvacit |
 unmatto vāpramattena preryate paśavas tathā || 26 ॥
 mātṛbhir guhyakaiḥ śaktyā svena yogabalena tu |
-jīva ākṛṣyate \[illegible\] paśūnāṁ yogavīryataḥ ॥ 27 ॥ 
+jīva ākṛṣyate kṣipraṁ paśūnāṁ yogavīryataḥ ॥ 27 ॥ 
 
 ‘That knowledge bestows attainment (siddhi) to Siddhas, and is attended by the skyfaring goddesses.” (23cd) 
 
@@ -1080,7 +1080,7 @@ tatstha
 
 ### Dyczkowski's verse 29cd-30
 
-aśnīyāt pibed gacchet tiṣthet supyāt tāvad yāvat samāsāditasakalaceṣtāphalaḥ sa yogī samipadyate tatas tam ānayed visṛjen mohayed unmīlayed āpūrayed viśiṣtaṁ vā \[illegible\] prāpayet | ityādi ॥ 30 ॥ 
+aśnīyāt pibed gacchet tiṣthet supyāt tāvad yāvat samāsāditasakalaceṣtāphalaḥ sa yogī samipadyate tatas tam ānayed visṛjen mohayed unmīlayed āpūrayed viśiṣtaṁ vā sthānaṁ prāpayet | ityādi ॥ 30 ॥ 
 
 ‘Having crossed over into that (soul) which is located in (the animal’s) heart by entering in below and above, and achieved a state of oneness (with the sacrificial victim), he should practice (that) (balanced) oneness (samatava). Having entered into the causal body of the other, he should then practice (his) independence.’ (29cd-30) 
 

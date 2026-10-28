@@ -76,7 +76,7 @@ ahamamātmatātaṅko māyāśaktir athāvṛtiḥ ॥ 85 ॥
 doṣabīja paśutvaṁ ca saṁsārāṅkurakāranṇam |
 ityādy anvarthasaṁijñābhis tatra tatraiṣa bhanyate ॥ 86 ॥ 
 
-"Impurity is given a number of names in various places (in the scriptures) in accord with its nature. Thus, for example, (it is called) desire \[illegible\] ignorance, nescience, craving (lolikā), absence of insight (aprathā), the defect of phenomenal existence (bhavadoṣa), the boat of the soul (anuplava), lassitude (glāni),” aridity (śoṣa), delusion (vimūdhatā), the 
+"Impurity is given a number of names in various places (in the scriptures) in accord with its nature. Thus, for example, (it is called) desire (abhilāṣa), ignorance, nescience, craving (lolikā), absence of insight (aprathā), the defect of phenomenal existence (bhavadoṣa), the boat of the soul (anuplava), lassitude (glāni),” aridity (śoṣa), delusion (vimūdhatā), the 
 
 1? See above, 1/23 ff. and below, 13/41cd ff. Abhinava is also referring to MVV 2/157- 186, translated above in note 9,183. \[illegible\] Lines 84cd to 88ab are Abhinava’s summary and brief didactic etymology of the terms for Impurity. 19 Concerning desire (abhilāṣa), see note 13,65, with reference to SvTu 4/105. 20 See below, 9/143-144ab. > See above, note to 1/181cd-182ab and below, 12/20cd. The Stanzas on Vibration teach: ‘Lassitude ravages the body, and this arises from ignorance, but if it is eliminated by an expansion of consciousness (unmeṣa), how can (ignorance), deprived of its cause, continue to exist? The expansion of consciousness that takes place when one is engaged in a single thought should be known as the source from whence another arises. One should experience that for oneself.’ SpKā 40-41 From a different perspective Abhinava explains: ‘Ignorant that (there) in the Heart (one) savours within oneself the joy of supreme wealth, immersed as it is in the body, the vital breath and the rest, it is afflicted by a lassitude (glāni) without equal. (But) if the supreme goddess who delights in giving birth to all the universe (is within our hearts), may she play (there in all her) plenitude, (blazing forth) as does an offering to the fire (havi). PTv p. 111
 
@@ -165,7 +165,7 @@ icchāṁ gṁnāti yo nitya karuṇārasanirbharaḥ |
 
 nanu svabhāvāt tat tādṛkkarmātaḥ phaladāyakam I| 200 ॥
 prāyaścittādikaraṇāc chāmyec ceti vicārayan |
-devas tathaiva tanute \[illegible\] citropadeśakam || 201 ॥
+devas tathaiva tanute śāstraṁ citropadeśakam || 201 ॥
 saivaṁ svabhāva etādṛk karmanṇām iti ko nayaḥ |
 bījam aṁkurasaṁisūtisvabhāvam iti mādṛśaḥ ॥ 202 ॥
 pūrvavṛddhavyavahṛter vijñātuṁ prabhaviṣnavaḥ |
@@ -271,7 +271,7 @@ Although (the Vijñānakevalin) is devoid of Karma, he does not move (sarati) up
 
 *[p. 91]* ^pg108
 
-Individuality \[illegible\] called ‘ignorance’. Nor (does he move) ‘downwards’ to the impure one because ‘the cause of variety’, that is, the impurity of Karma, ‘is lacking’. He is ‘isolated’. 
+Individuality (āṇava) called ‘ignorance’. Nor (does he move) ‘downwards’ to the impure one because ‘the cause of variety’, that is, the impurity of Karma, ‘is lacking’. He is ‘isolated’. 
 
 ‘Those (souls) who are Isolated in Consciousness are above Māyā and 
 
@@ -542,7 +542,7 @@ Even when the contracted (state of consciousness) has not been eliminated, (the 
 
 #### Viveka on 9.105–106
 
-(Even when the contracted (state of consciousness)) which is the attendant cause (of Karma) ‘has not been eliminated’ and is still present, (it does not) bear fruit. (By \[illegible\] one should understand that it means (the fruit of) good and bad Karma. ʻA drunkard or a fool’ does not consider that ‘I am doing this’. Something done without having reflected (on it) is (as if) it had not been done. So how can (that action) give rise to (its) consequences? It is said by others, with the same intended sense, that ‘there is action and the like (after) 
+(Even when the contracted (state of consciousness)) which is the attendant cause (of Karma) ‘has not been eliminated’ and is still present, (it does not) bear fruit. (By ‘fruit’) one should understand that it means (the fruit of) good and bad Karma. ʻA drunkard or a fool’ does not consider that ‘I am doing this’. Something done without having reflected (on it) is (as if) it had not been done. So how can (that action) give rise to (its) consequences? It is said by others, with the same intended sense, that ‘there is action and the like (after) 
 
 rising out (of a state of deep meditation). 
 
@@ -559,7 +559,7 @@ Surely (one may ask), as this is so, does this amount (to saying) that it is not
 यन्मयाद्य तपस्तप्तं तदस्मै स्यादिति स्फ़टम् ।। १०६ ॥
 अभिसंधिमतः कर्म न फलेदभिसन्धितः ।
 
-yanmayādya tapas \[illegible\] tad asmai syād iti sphutam || 106 ॥
+yanmayādya tapas taptaṁ tad asmai syād iti sphutam || 106 ॥
 abhisańidhim ataḥ karma na phaled abhisandhitaḥ | 
 
 31 A repentant person thinks “I wish I had not done so”. %2? This citation is from the Yogasūtra or its commentary (bhāṣya).
@@ -609,13 +609,13 @@ yas tu tatrāpi dārdhyena phalasariskāram ujjhati \\\\ 108 Il sa tatphalatyāg
 
 #### Viveka on 9.108–109
 
-Again, ‘he who there (in that case) abandons’ also ‘the latent impression of the fruit of (his) action by the firmness (of his intention to do so)’, in accord with the teaching (that) ‘he who discharges his duty \[illegible\] karma) without concern for the fruit of (his) action’, gives up attachment (to it). By his detachment from the fruit (of his actions) ‘he enjoys a special’ supernal (lokottara) ‘fruit’ generated (from that detachment). The meaning is that he attains the plane beyond Māyā. As is said in the Bhagavadgītā: 
+Again, ‘he who there (in that case) abandons’ also ‘the latent impression of the fruit of (his) action by the firmness (of his intention to do so)’, in accord with the teaching (that) ‘he who discharges his duty (kāryaṁ karma) without concern for the fruit of (his) action’, gives up attachment (to it). By his detachment from the fruit (of his actions) ‘he enjoys a special’ supernal (lokottara) ‘fruit’ generated (from that detachment). The meaning is that he attains the plane beyond Māyā. As is said in the Bhagavadgītā: 
 
 ‘The wise, endowed with intelligence, renouncing the fruit born of action, are freed from the bondage of (repeated) birth and attain the plane free of 
 
 (all) troubles.” 
 
-Surely (one may ask), if this is so, then scripture (would attest) that even fishermen, for example, by just staying awake at night would partake of the fruit of (observing the vigil) of Śiva’s Night \[illegible\] Moreover, how could the law books’ (smṛti) (injunction to practice) penance be explained with respect to those who drink what is prohibited unintentionally? Do they not reflect (and intend that): ‘we act in this way for that purpose?’ 
+Surely (one may ask), if this is so, then scripture (would attest) that even fishermen, for example, by just staying awake at night would partake of the fruit of (observing the vigil) of Śiva’s Night (śivarātri). Moreover, how could the law books’ (smṛti) (injunction to practice) penance be explained with respect to those who drink what is prohibited unintentionally? Do they not reflect (and intend that): ‘we act in this way for that purpose?’ 
 
 It is said here (regarding this objection): where is this intention (anusaṁdhāna) applied? Is it to the nature of (his) action, or to (its) consequence? It is not to the consequence. One who, killing a Brahmin, (thinks,) ‘may I not go to hell (for the) sin of killing a Brahmin’ is not in this way released (from his sin), because in actual fact everybody is frightened (of going to) hell (and so would think that anyway). On the contrary, even if (its) consequence is evident (to him) (dṛsta), the result he desires, namely, that (his action should) not be the cause of painful (consequences), would not thereby be so. This is because that very moment hundreds of other defects are seen to arise (that he could not forsee and prevent by wishing them to be otherwise). Nor would there be any (good) result from (his) being merciful. This is because no intention was formulated to have the fruit of acting only out of mercy (for his victim). 
 
@@ -900,7 +900,7 @@ Moreover, (the variety) one experiences of pleasure, pain, and the rest, even wh
 
 #### Viveka on 9.123–124
 
-One should not think that (he says) ‘moreover’ because (what was said) previously is not (fully) stated; rather, it is to highlight, by carrying over \[illegible\] (what was said in the previous line), that it is to be taken together as (a single) cumulative (statement) (samuccaya). Even if the ‘perceived cause is the same’ for every single person, such as service (of the teacher), study and the like, the variety of joys and sorrows etc. ‘indicates’, that is, one infers that there is some other cause which is said to be unperceived to some degree, as it could not logically be explained otherwise. This is the meaning. 
+One should not think that (he says) ‘moreover’ because (what was said) previously is not (fully) stated; rather, it is to highlight, by carrying over (āvṛtti) (what was said in the previous line), that it is to be taken together as (a single) cumulative (statement) (samuccaya). Even if the ‘perceived cause is the same’ for every single person, such as service (of the teacher), study and the like, the variety of joys and sorrows etc. ‘indicates’, that is, one infers that there is some other cause which is said to be unperceived to some degree, as it could not logically be explained otherwise. This is the meaning. 
 
 Moreover, because it gives rise to a specific result, one must accept that it is due to some particular (cause), and ‘that’, he says ‘is Karma’. But even though if this (causal state) is a quality of Karma, why could it not (something we experience) also be due, for example, to (some) unknown evil spirit? With this doubt in mind, he says that (this is so), ‘because (Karma) is seen (to be operating in this way) here (in this world)’ The sense is that in all circumstances here (in this world) one sees a variety of results due to the variety of Karma. 
 
@@ -1019,7 +1019,7 @@ ucchidyatām antyadaśaṁ niroddhur na hi śakyate |
 
 #### Viveka on 9.130–131
 
-> Phalapāka literally means ‘maturing of the fruit’. 351 Initiation can be imparted by means of a rite \[illegible\] or in other more direct ways, such as the imparting of knowledge (jñānadīkṣā), or just transfer (sańkramana) of the teacher’s state of enlightened consciousness to the disciple. See above, note 1,1020. 25 See below, 13/237.
+> Phalapāka literally means ‘maturing of the fruit’. 351 Initiation can be imparted by means of a rite (kriyā), or in other more direct ways, such as the imparting of knowledge (jñānadīkṣā), or just transfer (sańkramana) of the teacher’s state of enlightened consciousness to the disciple. See above, note 1,1020. 25 See below, 13/237.
 
 *[p. 113]* ^pg130
 
@@ -1140,7 +1140,7 @@ saṅkoca eva sānena so ‘pi dehaikatāmayaḥ || 137 ॥
 
 *[p. 118]* ^pg135
 
-nature as all things in the undivided, pervasive, eternity (of consciousness). That latent impression is, essentially, a contracted (form) of consciousness \[illegible\] Thus, that too consists of the oneness (of individualized consciousness) with the body. (135cd-137) 
+nature as all things in the undivided, pervasive, eternity (of consciousness). That latent impression is, essentially, a contracted (form) of consciousness (saṁkoca). Thus, that too consists of the oneness (of individualized consciousness) with the body. (135cd-137) 
 
 #### Viveka on 9.135–137
 

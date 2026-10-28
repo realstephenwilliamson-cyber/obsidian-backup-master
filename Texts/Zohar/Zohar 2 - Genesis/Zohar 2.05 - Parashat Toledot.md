@@ -1286,7 +1286,7 @@ Rabbi Yeisa opened, “*A son honors his father, and a servant his master* ([[Ma
 
     See *Pirqei de-Rabbi Eli’ezer* 34: “Rabbi Yehudah said, ‘… In the time to come the blessed Holy One will bring down a dew of revival, reviving the dead…’ Rabbi Tanḥum said, ‘… From where does it descend? From the head of the blessed Holy One. In the time to come He will shake the hair of His head and bring down a dew of revival, reviving the dead, as is said: *I was asleep, but my heart was awake….For my head is drenched with dew* ([[Song of Songs 5#^5-2|Song of Songs 5:2]]).’”
 
-    See *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-95b|1:95b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-225b|225b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-232a|232a]]; [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b|2:176b]] (*SdTs*), [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-210a|210a]]; [[Zohar 8.09 - Idra Rabba#^z3-128b|3:128b]] (*IR*), [[Zohar 8.09 - Idra Rabba#^z3-135a|135a–b]] (*IR*), [[Zohar 9.15 - Idra Zuta#^z3-288a|288a]] (*IZ*), [[Zohar 9.15 - Idra Zuta#^z3-292b|292b]] (*IZ*).
+    See *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-95b|1:95b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-225b|225b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-232a|232a]]; [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b-c|2:176b]] (*SdTs*), [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-210a|210a]]; [[Zohar 8.09 - Idra Rabba#^z3-128b|3:128b]] (*IR*), [[Zohar 8.09 - Idra Rabba#^z3-135a|135a–b]] (*IR*), [[Zohar 9.15 - Idra Zuta#^z3-288a|288a]] (*IZ*), [[Zohar 9.15 - Idra Zuta#^z3-292b|292b]] (*IZ*).
 
 [^302]: **Holy Apple Orchard** *Shekhinah*. See above, note 262.
 

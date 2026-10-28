@@ -32,7 +32,7 @@ The illustrious and most excellent teacher has, with incomparable effort, examin
 
 #### Viveka on Dyczkowski's verse 1
 
-He who has studied (each and every) word in all the scriptures, who exerts himself in (the practices taught in) the treatises on Yoga \[illegible\] he who has developed passion for the coherence of the teachings declared (in the scriptures) (vākyārtha) which is the nectar of the illustrious (philosophy of) recognition, he who by virtue of his extensive study of other (forms of) 
+He who has studied (each and every) word in all the scriptures, who exerts himself in (the practices taught in) the treatises on Yoga (yogaśāstra), he who has developed passion for the coherence of the teachings declared (in the scriptures) (vākyārtha) which is the nectar of the illustrious (philosophy of) recognition, he who by virtue of his extensive study of other (forms of) 
 
 [^654]: Read stotrarūpatvam eva atrāsyāstīti for stotrarūpatvaṁ ca atra na astīti.
 
@@ -338,9 +338,9 @@ dandadariṣtre mahāpretā mahāmudrā khageśvarī || 2 ॥
 mahodayā karālā ca khaṭvāṁgamr sakapālakam |
 halar pāśāṁkuśam ghanṭā mudgarastriśikho ‘paraḥ ॥ 3 ॥
 āvāhasthāpanīrodhā dravyadā natireva ca |
-amṛtā yogamudreti \[illegible\] vīravandite ॥ 4 ॥ 
+amṛtā yogamudreti vijñeyā vīravandite ॥ 4 ॥ 
 
-(The gestures \[illegible\] Triśūla (the Trident) and Padma (the Lotus), Śakti (Power), Cakra (the Wheel) along with Vajra (the Thunderbolt), Danda (the Stick), Daṁṣṭra (the Fang), Mahāpretā (the Great Ghost), Mahāmudrā (the Great Gesture), Khageśvarī (the Skyfaring Goddess), Mahodayā (the Great Arising), Karālā (the Gapping Mouth and Protruding Teeth) and Khatvāṁga (the Ascetic’s Staff) along with Kapālaka (the Skull), Hala (the Plough), Pāśa (the Fetter), Aṅkuśa (the Elephant Gaud), \[illegible\] (the Bell), Mudgara (the Mallet), and Triśikha (the Three Tufts of Hair) is another. (The gesture made to) Aavaha 
+(The gestures \[illegible\] Triśūla (the Trident) and Padma (the Lotus), Śakti (Power), Cakra (the Wheel) along with Vajra (the Thunderbolt), Danda (the Stick), Daṁṣṭra (the Fang), Mahāpretā (the Great Ghost), Mahāmudrā (the Great Gesture), Khageśvarī (the Skyfaring Goddess), Mahodayā (the Great Arising), Karālā (the Gapping Mouth and Protruding Teeth) and Khatvāṁga (the Ascetic’s Staff) along with Kapālaka (the Skull), Hala (the Plough), Pāśa (the Fetter), Aṅkuśa (the Elephant Gaud), Ghaṇṭā (the Bell), Mudgara (the Mallet), and Triśikha (the Three Tufts of Hair) is another. (The gesture made to) Aavaha 
 
 [^678]: svaccha yābhistu rakṣita
 
@@ -445,7 +445,7 @@ Mahāmudrā (the Great Gesture)
 hastāv adhomukhau padbhyāmṁi hṛdayāntaṁ nayed budhaḥ || 13 ॥
 tiryagmukhāntam upari saṁmukhāv ūrdhvagau nayet |
 mahāmudreti vikhyātā dehaśodhanakarmani I| 14 ॥
-sarvakarmakarī \[illegible\] yoginār yogasiddhaye | 
+sarvakarmakarī caiṣā yoginār yogasiddhaye | 
 
 The hands facing down, the wise man should lead (his) two feet up to the heart and (then) lead them up the top of the face which (should be) tilted. The two feet, raised up, face each other. (This is) called Mahāmudrā (which is used) during the rite of the purification of the body. This (gesture) performs all the rites and serves yogis to accomplish yoga. (13cd-15ab) 
 
@@ -814,7 +814,7 @@ Again, she who is the series of (Yoginīs) in the Sky (gaganāvalī) abides as m
 ### Dyczkowski's verse 95-97
 
 anavas tv aprameyās tu (k: abhāvastva-; g: ?) tatve tatve anekadhā |
-sūkṣmarūpās (k, g: sūkṣmā rūpā) tathā mudrā \[illegible\] sarṁkhyā na vidyate ॥ 95 ॥
+sūkṣmarūpās (k, g: sūkṣmā rūpā) tathā mudrā evaṁ sarṁkhyā na vidyate ॥ 95 ॥
 vyāpitaṁ tu samastaṁ (kh: -sta) hi mudre sūkṣmāntaraiḥ (kh: sūkṣmaparaiḥ; g: sūkṣmātaraiḥ) priye |
 evan mudrāḥ samākhyātā vyāpitvam aprameyataḥ (k: -tāḥ; g: vyāpi \* \* \* \*\* \*?) |196 Il 76b kh) ekā eva parā mudrā yasyedaṁ (k, kh, g: -haṁ) tiṣthate jagat | (g: ?) yari yar spṛśaty asāv aṁgaṁn sā sā mudrā vidhīyate ॥ 97 || (g: ?) 
 
@@ -859,7 +859,7 @@ The middle (finger) (madhyamā) of those who know mantra is so-called here becau
 
 [^703]: \[illegible\] Reading, as in the KM, aṅgulyā Another translation could be “Thus it (the woman ?) is indicated by the finger when a gesture is formed.”
 
-[^704]: KM reads koṭibhedair vyavasthitā \[illegible\] is configured with billions of kinds’.
+[^704]: KM reads koṭibhedair vyavasthitā ‘she is configured with billions of kinds’.
 
 
 *[p. 289]* ^pg307
@@ -874,7 +874,7 @@ tarjanī kathitā tena mudrā sarvāsu (k, kh, g: sarvāstu) cottamā |
 aṁguṣtha oghabhūtas tu pravahet satataṁ priye ॥ 105 ॥
 uccāreṇa (kh: -ṇā) pravarteta aṁguṣthas tena sa (k: saḥ) smṛtaḥ | 
 
-It is called the gesture of the index finger \[illegible\] Amongst all (the mudrās) it is the most excellent. It always points, that is, connects (with what it is pointing to) and disconnects (from where it moves away). It points (threateningly) at the endless net of fetters which is the great delusion (disconnecting from it and connecting to a higher reality). (104-105ab) 
+It is called the gesture of the index finger (tarjanī). Amongst all (the mudrās) it is the most excellent. It always points, that is, connects (with what it is pointing to) and disconnects (from where it moves away). It points (threateningly) at the endless net of fetters which is the great delusion (disconnecting from it and connecting to a higher reality). (104-105ab) 
 
 ### Dyczkowski's verse 104-106ab
 
@@ -1117,7 +1117,7 @@ Lelihānā
 
 Lelihānā is (the Mudrā) who is greedy (lālasā) to consume all the wealth of the latent traces (of Karma produced) by (the activity of) the subtle body etc. As is said (of Her): 
 
-‘O Mother! You are Lelihānā, the mass of rays (that pour forth) from the abyss of the withdrawal of the latent traces of the seeds (of Karma) that arise from the subtle body (aṣṭapuri), You whose mouth is wide open (bhedā) (engaged) solely in licking (them \[illegible\][^717] 
+‘O Mother! You are Lelihānā, the mass of rays (that pour forth) from the abyss of the withdrawal of the latent traces of the seeds (of Karma) that arise from the subtle body (aṣṭapuri), You whose mouth is wide open (bhedā) (engaged) solely in licking (them up).’[^717] 
 
 Khecarī 
 
@@ -1144,7 +1144,7 @@ Selected Mudrās taught in Chapter Two of the
 
 Fourth Ṣatka of the Jayadrathayāmala 
 
-Over a hundred mudrās are described in the second \[illegible\] of the Jayadrathayāmala. Here we are drawing from the fourth one. Although he draws from several sources, Abhinava does not quote from it or even refer to it in chapter thirty-two of his Tantrāloka that deals with mudrās. This may be because, apart from the Kāmikāgama, the rest are all Trika Tantras and the teachings focus on Khecarīmudrā. 
+Over a hundred mudrās are described in the second ṣaṭka of the Jayadrathayāmala. Here we are drawing from the fourth one. Although he draws from several sources, Abhinava does not quote from it or even refer to it in chapter thirty-two of his Tantrāloka that deals with mudrās. This may be because, apart from the Kāmikāgama, the rest are all Trika Tantras and the teachings focus on Khecarīmudrā. 
 
 The Trident Seal (triśsūlamudrā) 
 

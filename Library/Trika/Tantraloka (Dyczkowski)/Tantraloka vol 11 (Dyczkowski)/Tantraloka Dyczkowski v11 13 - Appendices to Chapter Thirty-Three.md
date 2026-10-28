@@ -31,7 +31,7 @@ vāmanī jaṭilā rambhā 5171117 harisā (kh: hasām) gajānanā ।
 bhīṣanṇī piṅgalā śūrā gajakarniḥ (k, kh, g: -karni) pinākinī ॥ 30 ॥
 sikhidhvajāśca (kh: śikhidhvajā ca) vikhyātā dvādaśāre (g: -sāre) vyavasthitāḥ | 
 
-Dakṣa, \[illegible\] Hara, Śauṇdī, Pramatha, Bhīma, Manmatha, Śakuni, Samati, Nanda, Gopāla, and Pitāmaha (are the Rudras). Vāmanī, Jaṭilā, Rambhā, \[illegible\] Haṁnsā, Gajānanā, Bhīṣaṇī, Piṁgalā, Śūrā, Gajakarni, Pinākinī and Śikhidhvajā are said to be located in the (wheel with) twelve spokes. (29-31ab) 
+Dakṣa, Caṇḍa, Hara, Śauṇdī, Pramatha, Bhīma, Manmatha, Śakuni, Samati, Nanda, Gopāla, and Pitāmaha (are the Rudras). Vāmanī, Jaṭilā, Rambhā, \[illegible\] Haṁnsā, Gajānanā, Bhīṣaṇī, Piṁgalā, Śūrā, Gajakarni, Pinākinī and Śikhidhvajā are said to be located in the (wheel with) twelve spokes. (29-31ab) 
 
 nabhau (kh: nabho) bhānur anantaś ca helārājo (kh: halā-) mahābalaḥ ॥ 31 ॥
 bhīmārjuno tathā drono mahārājo.atha sundaraḥ |
@@ -92,7 +92,7 @@ ghorā ca śūkarī (kh, g: sūkarī) caiva tathānyā ca valotkaṭā |
 trāsanī (k, kh, g: trāíanī) ca samākhyātā dvātrimśāre (g: -sāre) prapūjayet ॥ 43
 ॥ 
 
-Bhagayogī, Citrākṣī, with Viśālā as another, Dāmoṭḷī and Kalhoṭī, Daṁṣtriṇī and Piṅgalā. Mūlā and Mūlatarā, Yatrā, Mūlaghātikā (k: śūlapātikā), Mūlakārī and should know that Prāṇahārikā is another. Chuchundarī and Ratnākṣī, and Rākṣasī is another, Ghorā, Śūkarī and another is Balotkaṭā, Piśācā, Nṛtnā, Āpīdā, Vyāghrī, \[illegible\] Halāyudhā, Sahanī, Grasanī and Mohanī, Priyadarśanā, and the one called Trāsanī should be worshipped in the (wheel with) thirty-two spokes. (39cd-43) Tantrasadbhāva 5/11-43 
+Bhagayogī, Citrākṣī, with Viśālā as another, Dāmoṭḷī and Kalhoṭī, Daṁṣtriṇī and Piṅgalā. Mūlā and Mūlatarā, Yatrā, Mūlaghātikā (k: śūlapātikā), Mūlakārī and should know that Prāṇahārikā is another. Chuchundarī and Ratnākṣī, and Rākṣasī is another, Ghorā, Śūkarī and another is Balotkaṭā, Piśācā, Nṛtnā, Āpīdā, Vyāghrī, Haṁsī, Halāyudhā, Sahanī, Grasanī and Mohanī, Priyadarśanā, and the one called Trāsanī should be worshipped in the (wheel with) thirty-two spokes. (39cd-43) Tantrasadbhāva 5/11-43 
 
 *[p. 311]* ^pg329
 
@@ -247,7 +247,7 @@ dūṣaṇaviṣaśīrnānām amṛtodgārami śivaṁ vande |l
 
 I praise Śiva who is the well awakened consciousness generated from the fourth (turya) vivifying (saṁjīvana) energy (i.e., Ḷ) and the spew of nectar (amṭodgāra) of (all phenomena) wasted away (Sīrṇna) (and rent asunder) by the poison of corrupting 
 
-(impurity) \[illegible\] (10) 
+(impurity) (dūṣaṇa). (10) 
 
 Śaivism divides the reality levels (tattva) into five spheres of energy called kalā. These, along with the reality levels they encompass are as follows: 1) Nivṛtikalā — the Energy of Cessation. This contains just one tattva, namely, Earth. 2) Pratiṣthākalā the Energy of Establishment. This sphere extends from Water to Nature (prakṛti). 3) Vidyākalā ~ the Energy of Knowledge that contains the levels from Puruga, the individual soul up to Māyā. 4) Śāntakalā —the Tranquil Energy that extends from Śuddha Vidyā to Sadāśiva. 5) Śāntātītākalā The Energy Beyond the Tranquil. This corresponds to Śakti and 
 
@@ -555,7 +555,7 @@ Objection: “If this is so, the very same scripture can be a valid means of kno
 
 Let us see now what Abhinava has to say in chapter twenty-one of his Tantrasāra. 
 
-\[illegible\] samastaṁ nitya naimittikaḥ karma nirūpitam | adhunā asyaiva āgamasya prāmāṇyam ucyate | tatra saṁṁvinmātramaye viśvasmin saṁvidi ca 
+evaṁ samastaṁ nitya naimittikaḥ karma nirūpitam | adhunā asyaiva āgamasya prāmāṇyam ucyate | tatra saṁṁvinmātramaye viśvasmin saṁvidi ca 
 
 vimarśātmikāyāṁ 
 
@@ -682,7 +682,7 @@ In a long passage in the the ĪPVv (vol. 3 p. 90-100) Abhinava again returns to 
 
 objective referants, can anyway never reach absolute certainty. But this certainty must be possible for there to knowledge and that can only be because that certainty is an inherent quality of a firm and stable reflective awareness that can only by self-contradicted by its own vacillation. 
 
-Abhinava explains commenting on Utpaladeva that ‘that which is heard (as scripture), that too is just commonly accepted belief (prasiddhi). And that also is without beginning. All (of the many) commonly accepted beliefs, have existed from a beginningless time. There, sometimes one emerges (from consciousness) and another, merges back (into it). (Utpaladeva) clarifies in this way what is meant by ‘emerges’ and ‘is submerged’ by means of an example in this way. That is something that is figuratively defined (upacāravastu). It is like the letters of a name (for example) that, are to be brought into the perview of the listener’s mind (and so, understood and remembered), that are figuratively denoted (upacaryante) in written form. Thus, they function in the world, by virtue of a firm (and fully convinced) reflective awareness (on the part of the perceiver), as the commonly maintained truth. (This takes place) in accord with the firm imposition (imposed) by the affairs of daily life that have been practiced for a very long time over many lifetimes (as explained) in accord with (the teachings of Trika Tantras) such as the Sarvavīra and the Bhargaśikhā, that are in accord with the Supreme Lord’s command \[illegible\] (In short) truth belongs to a firm (convinced) reflective awareness.’ 
+Abhinava explains commenting on Utpaladeva that ‘that which is heard (as scripture), that too is just commonly accepted belief (prasiddhi). And that also is without beginning. All (of the many) commonly accepted beliefs, have existed from a beginningless time. There, sometimes one emerges (from consciousness) and another, merges back (into it). (Utpaladeva) clarifies in this way what is meant by ‘emerges’ and ‘is submerged’ by means of an example in this way. That is something that is figuratively defined (upacāravastu). It is like the letters of a name (for example) that, are to be brought into the perview of the listener’s mind (and so, understood and remembered), that are figuratively denoted (upacaryante) in written form. Thus, they function in the world, by virtue of a firm (and fully convinced) reflective awareness (on the part of the perceiver), as the commonly maintained truth. (This takes place) in accord with the firm imposition (imposed) by the affairs of daily life that have been practiced for a very long time over many lifetimes (as explained) in accord with (the teachings of Trika Tantras) such as the Sarvavīra and the Bhargaśikhā, that are in accord with the Supreme Lord’s command (ājñā). (In short) truth belongs to a firm (convinced) reflective awareness.’ 
 
 *[p. 338]* ^pg353
 
@@ -765,7 +765,7 @@ Second ṣatka: K: NAK no. 4-1357 Śaivatantra 427, NGMPP reel no. A 151/14; Kh:
 
 ; Third ṣatṭka: K: NAK no. 1-1497 Śaivatantra 425, NGMPP reel no. B 122/3; Kh: NAK running no. 728, NGMPP reel no. C 72/8; G: NAK no. 5-1978 Śaivatantra 430, NGMPP reel no. A 151/15; Gh: NAK no. 5-1975 Śaivatantra 429, NGMPP reel no. A 152/9. 
 
-र, Fourth \[illegible\] MS K: NA MS no. 5-1941 Saivatantra 428, NGMPP reel no. A 151/16; Kh: NAK no. 1-1468 Śaivatantra 422, NGMPP reel no. B 122/4; G: NAK MS no. 3-683. NGMPP reel no. A 996/3. 
+र, Fourth ṣaṭka: MS K: NA MS no. 5-1941 Saivatantra 428, NGMPP reel no. A 151/16; Kh: NAK no. 1-1468 Śaivatantra 422, NGMPP reel no. B 122/4; G: NAK MS no. 3-683. NGMPP reel no. A 996/3. 
 
 Jayadrathayāmalaprastāramantrasaigraha (labelled ‘Jaydrathayāmala’) folios 3-64 of NAK 1-253 NGMPP reel no. A 152/8 Newari script; dated CE 1642/3
 Jñānaratnāvalī by Jñānaśiva, a South Indian living in Benares in the second half of the 12th century (IFP T 231) 
@@ -1051,7 +1051,7 @@ Paratrīśikātātparyadīpikā and Śāktavijñāna of Somānanda, J. D. Zaadoo
 
 Parātrīśikāvivṛti, by J. Zaadoo Śāstrī, KSTS (49), Śrīnagar, 1947. 
 
-Parātrīśikālaghuvṛtti by \[illegible\] ta, and Parātrīśikāvivṛti by Lakṣmīrāma, J. D. Zaadoo \[illegible\] KSTS (68, 69), Srīnagar, 1947. 
+Parātrīśikālaghuvṛtti by \[illegible\] ta, and Parātrīśikāvivṛti by Lakṣmīrāma, J. D. Zaadoo Śāstrī, KSTS (68, 69), Srīnagar, 1947. 
 
 Parātriṁmśikātattvavivaraṇa by Abhinavagupta, see Gnoli, 1985. 
 

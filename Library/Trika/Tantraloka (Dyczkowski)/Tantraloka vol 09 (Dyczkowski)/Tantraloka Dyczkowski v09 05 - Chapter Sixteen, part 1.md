@@ -180,7 +180,7 @@ vāme cāparayā \[illegible\] navātmā dakṣagaṁ param |
 \[illegible\] dakṣine madhyaśṛṁgastho ratiśekharaḥ ॥ 13 ॥
 syāt parāparayā sāka dakṣe bhairavasatpare |
 vāme triśūle madhyastho navātmāparayā saha || 14 ॥
-syāt pare parayā sākam vāmāre \[illegible\] ca bhairavaḥ | 
+syāt pare parayā sākam vāmāre saṁś ca bhairavaḥ | 
 
 Bhairavasadbhāva, together with Parā, is in middle of the middle trident. Navātmā, together with Aparā, is on the left (prong), and the other (couple) is on the right one.” Ratiśekhara, along with Parāparā, is on the middle prong of the right trident. Bhairavasadbhāva, along with Parā, is on the right prong, (and Navātmā with Aparā on the left prong). Navātmā, along with Aparā, is on the middle prong of the left trident, and Sadbhairava with Parā is on the other left prong (and Ratiśekhara together with Parāparā is on the right prong). (12cd-15ab) 
 
@@ -311,13 +311,13 @@ One should then (contemplate and) conjoin the five, namely, the (main) and (seco
 
 #### Viveka on 16.21–23
 
-‘The (performance of the) sacrifice is complete’ because (the goddess’s) predominant (quality) is to fill (and bring to perfection) \[illegible\] ‘Thus’, because it is ‘just by her (sustaining and) presiding over it (adhiṣthāna)’ that the sacrifice attains completion. This has been explained many times in the book (called) Trīśikā (i.e. the Parātrīśikā). ‘in their own (proper) place’, for example, in the southeast and northeast etc. “Then’, after having worshipped the mandala, (one should conjoin the five). ‘By meditating on their (essential) nonduality’, in the form of “I myself am present 
+‘The (performance of the) sacrifice is complete’ because (the goddess’s) predominant (quality) is to fill (and bring to perfection) (pūraṇa). ‘Thus’, because it is ‘just by her (sustaining and) presiding over it (adhiṣthāna)’ that the sacrifice attains completion. This has been explained many times in the book (called) Trīśikā (i.e. the Parātrīśikā). ‘in their own (proper) place’, for example, in the southeast and northeast etc. “Then’, after having worshipped the mandala, (one should conjoin the five). ‘By meditating on their (essential) nonduality’, in the form of “I myself am present 
 
 21\. PT 20c, see also above 13/151cd-154.
 
 22?\. Sec below, 30/42-43ab.
 
-23?\. See above 15/239b and following; also, below 30/45cd-46. Mātṛsadbhāva is both the Trika Parā is Kālasaṁkarṣinī Kāli. By this cursory mention of what is, in fact, the highest deity of the Trika Abhinava sponsors, he hides its ultimate secret. But as always, he leaves behind him more clues. Thus below, when he concludes his description of this Trika trisūlābjamandala as taught in the Trikasadbhāva, he states clearly the three phases (krama) of Krama worship, namely, those of emanation \[illegible\] stability (sthiti) and reabsorption (saṁhāra) (and so implicitly the deities that populate these wheels — cakras) should be worshipped on the main, central prong of each trident where Parā is located. The ‘Fourth’, i.e. Kālasaṁkarṣinī — the Inexplicable — Anākhyā - 15 in the very centre, which is the place of Kuleśvarī, She who governs the Trikakula. By saying that, as an alternative for those who seek worldly benefits (bubhūkṣu), the eight Bhairavas and the rest should be worshipped, Abhinava clearly implies that worship culminates with Mātṛsadbhāva for those who seek liberation (mumukṣu).
+23?\. See above 15/239b and following; also, below 30/45cd-46. Mātṛsadbhāva is both the Trika Parā is Kālasaṁkarṣinī Kāli. By this cursory mention of what is, in fact, the highest deity of the Trika Abhinava sponsors, he hides its ultimate secret. But as always, he leaves behind him more clues. Thus below, when he concludes his description of this Trika trisūlābjamandala as taught in the Trikasadbhāva, he states clearly the three phases (krama) of Krama worship, namely, those of emanation (sṛṣṭi), stability (sthiti) and reabsorption (saṁhāra) (and so implicitly the deities that populate these wheels — cakras) should be worshipped on the main, central prong of each trident where Parā is located. The ‘Fourth’, i.e. Kālasaṁkarṣinī — the Inexplicable — Anākhyā - 15 in the very centre, which is the place of Kuleśvarī, She who governs the Trikakula. By saying that, as an alternative for those who seek worldly benefits (bubhūkṣu), the eight Bhairavas and the rest should be worshipped, Abhinava clearly implies that worship culminates with Mātṛsadbhāva for those who seek liberation (mumukṣu).
 
 
 *[p. 12]* ^pg32
@@ -406,7 +406,7 @@ nirvāpito vīrapaśuḥ so ‘ṣtadhottaratottamaḥ (> -māḥ) ॥ 29 ॥
 yathottaraṁ na dātavyam ayogyebhyaḥ kadācana |
 sivopayuktaṁ hi havir na sarvo bhoktum arhati | 30 ॥ 
 
-(The sacrificial animal may be) of eight kinds which are, respectively, of a progressively more elevated order, namely 1) ‘seen’ (dṛsta), 2) ‘sprinkled’ \[illegible\] 3) ‘a witness’ (saṁdraṣṭr), 4) ‘deceived’ (prālabdha), 5) ‘appropriated’ (upātta), 6) ‘conjoined’ (yojita), 7) ‘offered as oblation’ (nirvāpita) and 8) ‘heroic’ (vīrapaśu). The more elevated kinds should not be given to those (beings) who are not qualified (to receive 
+(The sacrificial animal may be) of eight kinds which are, respectively, of a progressively more elevated order, namely 1) ‘seen’ (dṛsta), 2) ‘sprinkled’ (prokṣita), 3) ‘a witness’ (saṁdraṣṭr), 4) ‘deceived’ (prālabdha), 5) ‘appropriated’ (upātta), 6) ‘conjoined’ (yojita), 7) ‘offered as oblation’ (nirvāpita) and 8) ‘heroic’ (vīrapaśu). The more elevated kinds should not be given to those (beings) who are not qualified (to receive 
 
 26?\. What is Abhinava’s source for this section, that extends from v. 28 to 50, that provides the procedure for this peculiar manner in which the sacrificial animal is sacrificed? As the root mantra taught here for the extraction of the animal’s life force is KHPHREM (48cd-49ab), which is a seed syllable of Kālī, it may have belonged to the Kālīkrama or a text influenced by it. Abhinava concludes his exposition by referring to Kallaṭa’s Tattvārthacintāmani. Kṣemarāja confirms that a procedure like this one was taught there in NTu ad 20/28-29ab, as part of a long passage in which a similar procedure is described. Thus, it is possible that Abhinava’s source is the Tattvārthacintāmani, but it is not at all certain. We know that Jayaratha had access to the Tattvārthacintāmani, for he quotes it in several places. Thus, one would expect him to quote from it here also, but he does not. Does then Abhinava’s reference to the Tattvārthacintāmani (in 16/50cd-5 lab) concern just the meditative practice and not the rest of the procedure? This is not likely. It is clear from the way Kṣemarāja references the Tattvārthacintāmani in his commentary on the NT that it taught a complete procedure, either this one or a similar one. See Appendix to this chapter, where the whole of chapter twenty of the Netratantra and the commentary has been translated.
 
@@ -464,7 +464,7 @@ yojitaḥ kāraṇatyāgakramena śivayojanāt |
 nirvāpitaḥ kṛtābhyāsaguruprānamano \[illegible\] || 35 ॥
 dakṣinenāgninā saumyakalājālavilāpanāt | 
 
-1\) The (sacrificial) animal that is ‘seen’ \[illegible\] is one that has been viewed (by the officiating priest), casting (upon him) a gaze inflamed (iddha) with the rays (of consciousness). 2) The ‘sprinkled’ (prokṣita) one has only been sprinkled with drops (of the liquid) contained in the sacrificial vessel (arghapātra). 3) (The sacrificial animal that is called) a ‘witness’ (saṁdraṣtr) is one that has been shown the entire mandala after it has been properly worshipped. 4) The ‘deceived’ (prālabdha) (sacrificial animal) is one that has been purified by the three aforementioned (methods). (Depending on the type, the animal) also quakes, trembles, and gushes forth (prasravet) (urine), or else is paralysed and (falls) unconscious (pralīna), respectively. 
+1\) The (sacrificial) animal that is ‘seen’ (dṛṣṭa) is one that has been viewed (by the officiating priest), casting (upon him) a gaze inflamed (iddha) with the rays (of consciousness). 2) The ‘sprinkled’ (prokṣita) one has only been sprinkled with drops (of the liquid) contained in the sacrificial vessel (arghapātra). 3) (The sacrificial animal that is called) a ‘witness’ (saṁdraṣtr) is one that has been shown the entire mandala after it has been properly worshipped. 4) The ‘deceived’ (prālabdha) (sacrificial animal) is one that has been purified by the three aforementioned (methods). (Depending on the type, the animal) also quakes, trembles, and gushes forth (prasravet) (urine), or else is paralysed and (falls) unconscious (pralīna), respectively. 
 
 5\) The (sacrificial animal that is) ‘appropriated’ (upātta) is one that, close to the sacrifice, has been tranquilized (śamita) (and life brough to an end) by a weapon (as speedy as) the winds.” 6) (The sacrificial animal that has been) ‘conjoined’ (yojita) is such because it is conjoined with Śiva by the process of (progressively) abandoning the causal forces (kāraṇatyāga).”” 7) (The sacrificial animal that is) ‘offered as oblation’ (nirvāpita) (is such) because it is one (within which) the teacher who, (well) practiced, has placed (his) mind and vital breath. (He does this) by destroying (vilāpana) the network of lunar energies (kalā) (of the exhaled breath of the sacrificial animal) with the fire (his) right (exhaled breath).” (32-36ab) 
 
@@ -538,7 +538,7 @@ In this way, (the teacher) must first of all rest in the supreme nature (paran r
 
 Then he should quickly transfer (this) network of (vital) energies (kalā) (thus dissolved away), completely full of all the principles (tattva) and the source of nourishment (of every living being) in a state of oneness (with himself), into his own Self, and uproot forcefully \[illegible\] and 
 
-31?\. This method is also explained in NT 20/27 ff. See ibid. 20/1-40, especially 27cd-37ab. Features of this process are drawn from there. TĀ 16/38cd = NT 20/29ab and 16/39ab is close to NT 20/32d-33a. In this context, the ‘supreme nature’ is the supreme vital principle, that is, the strength of Śiva’s power (Śāktaṁ balam). According to both Abhinavagupta and Kṣemarāja, it was expounded and discussed in a lost work by Kallaṭabhaṭṭa, called the Tattvārthacintamāni. Bhāskara writes at the beginning of his commentary on the Śivasūtra that, after Vasugupta had received them: ‘Subsequently, he transmitted them along with their secret to the venerable Brahmin \[illegible\] Kallaṭa, who wrote the Aphorisms on Vibration (spandasūtra) as a commentary on (the first) three of its four sections, and The Wishgranting Gem of the Purport of Reality (Tattvārthacintāmani) on the last.” Dyczkowski 1992: 11.
+31?\. This method is also explained in NT 20/27 ff. See ibid. 20/1-40, especially 27cd-37ab. Features of this process are drawn from there. TĀ 16/38cd = NT 20/29ab and 16/39ab is close to NT 20/32d-33a. In this context, the ‘supreme nature’ is the supreme vital principle, that is, the strength of Śiva’s power (Śāktaṁ balam). According to both Abhinavagupta and Kṣemarāja, it was expounded and discussed in a lost work by Kallaṭabhaṭṭa, called the Tattvārthacintamāni. Bhāskara writes at the beginning of his commentary on the Śivasūtra that, after Vasugupta had received them: ‘Subsequently, he transmitted them along with their secret to the venerable Brahmin (sūri) Kallaṭa, who wrote the Aphorisms on Vibration (spandasūtra) as a commentary on (the first) three of its four sections, and The Wishgranting Gem of the Purport of Reality (Tattvārthacintāmani) on the last.” Dyczkowski 1992: 11.
 
 32?\. By way of the channel on the right, that is, piṅgalā.
 
@@ -547,7 +547,7 @@ Then he should quickly transfer (this) network of (vital) energies (kalā) (thus
 
 *[p. 19]* ^pg39
 
-resolutely (rasāt) (the animal) from the bond of Karma“ (that fetters it to transmigratory existence). Then, in association with (this process of) divesting and uprooting, moving round to the left (of the animal) \[illegible\] the teacher, who by (this) anticlockwise sequence (vāmāvartakrama) has reached the lotus of the (animal’s) heart, the filaments of which are made of nectar, and has filled the bag of his own vital breath with the nectar of the kundalinī, by establishing himself firmly in the calix of (the animal’s) heart, begins to draw towards himself, by means of (the fire) of his inhaled breath (prāṇa), which is like a bent finger in the form of an elephant’s trunk, the essence (sāra) (of the animal), that is, its vital essence (ojodhātu) which, dissolved away, is slightly yellowish-red, and consists of the (animal’s) pure lunar (exhalation). Then, having rapidly exited (through the right vital channel of the animal), he enters by way of his own left-hand path, feeding the lunar wheel of the inhaled breath (apāna), and offers libation with that (animal’s vital) essence to the wheel” of the deities that reside in the lotus of (his) heart. (39-45ab) 
+resolutely (rasāt) (the animal) from the bond of Karma“ (that fetters it to transmigratory existence). Then, in association with (this process of) divesting and uprooting, moving round to the left (of the animal) (vāmam), the teacher, who by (this) anticlockwise sequence (vāmāvartakrama) has reached the lotus of the (animal’s) heart, the filaments of which are made of nectar, and has filled the bag of his own vital breath with the nectar of the kundalinī, by establishing himself firmly in the calix of (the animal’s) heart, begins to draw towards himself, by means of (the fire) of his inhaled breath (prāṇa), which is like a bent finger in the form of an elephant’s trunk, the essence (sāra) (of the animal), that is, its vital essence (ojodhātu) which, dissolved away, is slightly yellowish-red, and consists of the (animal’s) pure lunar (exhalation). Then, having rapidly exited (through the right vital channel of the animal), he enters by way of his own left-hand path, feeding the lunar wheel of the inhaled breath (apāna), and offers libation with that (animal’s vital) essence to the wheel” of the deities that reside in the lotus of (his) heart. (39-45ab) 
 
 #### Viveka on 16.39–45
 
@@ -594,7 +594,7 @@ The Victim’s Soul is Made One (samarasa) With the Wheel of the Goddesses
 तदेव तर्पणं मुख्यं भोग्यभोकत्रात्मतैव सा ।
 
 \[illegible\] samarasīkuryād devīcakreṇa bhāvanāt | 47 |
-tad eva tarpana \[illegible\] bhogyabhoktrātmataiva sā | 
+tad eva tarpana mukhyaṁ bhogyabhoktrātmataiva sā | 
 
 The (animal’s) soul should be made one (samarasa) with the wheel of the goddesses by imagining (it to be so) (bhāvanāt). That itself is the principal (and supreme) libation (tarpana), which is a state of (oneness) of the enjoyer and the object of enjoyment. (47cd-48ab) 
 
@@ -611,7 +611,7 @@ Sacrificed by Means of Mantra अग्नसंपुटफुल्लार�
 agnisaṁputaphullārnatryaśrakālātmako mahān ॥ 48 I|
 pindo raktādisāraughacālanākarṣanādiṣu | 
 
-The great syllabic Mantra (pinda) (that is used to) move and draw out \[illegible\] etc. the flux of the (vital) essences, such as blood and the like (in the animal’s body), consists of three letters — the Blooming Phoneme (PH) encapsulated by Fire (R), the Triangle (E) and Time (M) (i.e 
+The great syllabic Mantra (pinda) (that is used to) move and draw out (ākarṣaṇa) etc. the flux of the (vital) essences, such as blood and the like (in the animal’s body), consists of three letters — the Blooming Phoneme (PH) encapsulated by Fire (R), the Triangle (E) and Time (M) (i.e 
 
 RPHREM).\* 
 
@@ -735,7 +735,7 @@ puṣpādayo ‘pi tallābhabhāginaḥ śivapūjayā |
 
 #### Viveka on 16.54–56
 
-“The condition (of Śiva’s) attendant is that of proximity (sāmīpya) to (Śiva). In the same way, (the sacrificer attains by offering) the outer sacrificial animal, the attainment (of his desire by the offering) of the \[illegible\] sacrificial animal and so on, up to (the offering of) the ‘heroic’ sacrificial animal (which bestows on the sacrificer) conjunction with the Mantra (deity). 
+“The condition (of Śiva’s) attendant is that of proximity (sāmīpya) to (Śiva). In the same way, (the sacrificer attains by offering) the outer sacrificial animal, the attainment (of his desire by the offering) of the iṣṭa sacrificial animal and so on, up to (the offering of) the ‘heroic’ sacrificial animal (which bestows on the sacrificer) conjunction with the Mantra (deity). 
 
 Surely (one may ask), how can the sacrificial animals, flowers and the rest, and so too the mobile and immobile (universe), participate in that attainment? With this doubt in mind, he says: 
 
@@ -798,7 +798,7 @@ Again:
 
 as there are hairs (on that) animal’s (body), going from one life to १48 another. 
 
-46?\. Cf. Manusmṛti chapter 5: “Beasts and birds recommended (for consumption) may be slain by Brāhmaṇas for sacrifices, and in order to feed those whom they are bound to maintain; for Agastya did this of old. For in ancient (times) the sacrificial cakes were (made of the flesh) of eatable beasts and birds at the sacrifices offered by \[illegible\] and Kgṣatriyas.” (5/22-23) One may eat meat when it has been sprinkled with water, while Mantras were recited, when Brāhmaṇas desire (one’s doing it), when one is engaged (in the performance of a rite) according to the law, and when one’s own life is in danger. (27) The Lord of the creatures (prajāpati) created this (whole world) to be the sustenance of the vital spirit; both the immovable and movable (creation is) the food of the vit spirit. (28) The eater who even daily devours those destined to be his food, commits no sin; for the creator himself created both the eaters and those who are eaten (for those special purposes). (30) “The consumption of meat (is befitting) for sacrifices’; that is declared to be the rule made by the gods; but to persist (in using it) on other (occasions) is to be a proceeding worthy of Rākṣasas. (31) He who eats meat when he honours the gods and manes commits no sin, whether he has bought it, or himself has killed (the animal), or has received it as a present from others. (32) A twice-born man who knows the law, must not eat meat except in conformity with law; for if he has eaten it unlawfully, he will, unable to save himself, be eaten after death by his (victims). (33)
+46?\. Cf. Manusmṛti chapter 5: “Beasts and birds recommended (for consumption) may be slain by Brāhmaṇas for sacrifices, and in order to feed those whom they are bound to maintain; for Agastya did this of old. For in ancient (times) the sacrificial cakes were (made of the flesh) of eatable beasts and birds at the sacrifices offered by Brāhmaṇas and Kgṣatriyas.” (5/22-23) One may eat meat when it has been sprinkled with water, while Mantras were recited, when Brāhmaṇas desire (one’s doing it), when one is engaged (in the performance of a rite) according to the law, and when one’s own life is in danger. (27) The Lord of the creatures (prajāpati) created this (whole world) to be the sustenance of the vital spirit; both the immovable and movable (creation is) the food of the vit spirit. (28) The eater who even daily devours those destined to be his food, commits no sin; for the creator himself created both the eaters and those who are eaten (for those special purposes). (30) “The consumption of meat (is befitting) for sacrifices’; that is declared to be the rule made by the gods; but to persist (in using it) on other (occasions) is to be a proceeding worthy of Rākṣasas. (31) He who eats meat when he honours the gods and manes commits no sin, whether he has bought it, or himself has killed (the animal), or has received it as a present from others. (32) A twice-born man who knows the law, must not eat meat except in conformity with law; for if he has eaten it unlawfully, he will, unable to save himself, be eaten after death by his (victims). (33)
 
 47?\. Read with MS Th: kṛtveha for kṛtvoha.
 
@@ -1096,7 +1096,7 @@ anugrāhyās tvayā śiṣyāḥ śivaśaktipracoditāḥ |
 
 67?\. The word liṅgikā is not found in the dictionaries I could consult. It literally means ʻa small (female) penis’ is this the clitoris? Probably not, because female animals are not offered.
 
-68?\. Like \[illegible\] I could not find mandalikā in the dictionaries.
+68?\. Like liṅgikā, I could not find mandalikā in the dictionaries.
 
 
 *[p. 36]* ^pg56

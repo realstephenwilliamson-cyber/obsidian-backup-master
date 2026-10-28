@@ -357,7 +357,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
     On the significance of the letters of the Holy Name (*YHVH*), see above, note 37. On the intention of the priest, see *Sifrei*, Numbers 116; Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 521; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-45b|1:45b]] (*Heikh*), [[Zohar 11.09 - Sitrei Torah#^z1-89b|89b]] (*ST*); [[Zohar 4.06 - Parashat Be-Shallah#^z2-57a|2:57a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-8b|3:8b]], [[Zohar 7.03 - Parashat Va-Yiqra#^z3-18a|18a]], [[Zohar 7.04 - Parashat Tsav#^z3-35a|35a]]; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-82a|82a]] (*MhN, Rut*); Baḥya ben Asher, *Kad ha-Qemaḥ*, 292; Lieberman, *Tosefet Rishonim*, 2:207.
 
-[^40]: **the Concealment of the Book…** Referring to *Sifra di-Tsni’uta* (The Book of Concealment). See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178a|2:178a]] (*SdTs*), Vol. 5, pp. 569–70, n. 60.
+[^40]: **the Concealment of the Book…** Referring to *Sifra di-Tsni’uta* (The Book of Concealment). See *Zohar* [[Zohar 5.06 - Sifra di-Tsni'uta#^z2-178a-c|2:178a]] (*SdTs*), Vol. 5, pp. 569–70, n. 60.
 
     The more revealed name is הא‎ ואו‎ הא‎ יוד (*Yod He Vav He*), which represents the name יהוה (*YHVH*) spelled out completely, letter by letter. This name refers to *Ze’eir Anpin* (the configuration of *sefirot* from *Ḥokhmah* to *Yesod*) or to *Ze’eir Anpin* and the Female (corresponding to *Shekhinah*).
 

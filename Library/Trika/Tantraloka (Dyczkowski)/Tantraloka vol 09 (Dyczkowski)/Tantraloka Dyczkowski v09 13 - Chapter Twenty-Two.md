@@ -18,7 +18,7 @@ converted: 2026-10-07
 
 The Extraction of Sectarian Signs (liṅgoddhāra)' 
 
-I praise the Lord who has opened His mouth wide to withdraw the false purification of those who are badly fashioned \[illegible\] the praise (I offer) is not weak (amanda) and delights (all) the worlds. 
+I praise the Lord who has opened His mouth wide to withdraw the false purification of those who are badly fashioned (durvṛtta); the praise (I offer) is not weak (amanda) and delights (all) the worlds. 
 
 Now, he says with the second half of the verse (begun at the end of the previous chapter,) in order to discuss the initiation that extracts the (sectarian) signs (of other schools and so converts to Saivism): 
 
@@ -80,7 +80,7 @@ After having taught (the manner of) concentration on the (gross element) Earth, 
 
 638?\. 22/3-5ab is a quotation of MV 12/41ab, 40, 41cd-42 with minor variants.
 
-639?\. 22/5d-6a is a brief paraphrase of MV 16/24. A series of meditative supports \[illegible\] are described in chapters 12 to 16 of the MV. These correspond to cach of the reality levels beginning with Earth and ending with Māyā (16/42). Then beyond that, the yogi attains “the plane of the Lord of the Lords of mantra’ (16/47). Along this chain of ascent, he rises to the reality level of the individual soul (16/17cd-23) and meditates on him within the lotus of the heart. In the MV, Śiva, echoed by Abhinava, declares that: ‘that is the knowledge (vijñāna) of the Vedānta, described in brief. I imparted this (teaching) previously to Kapila extensively.” (16/24) As the founder of Sāṁkhya, the sage Kapila is traditionally believed to have contributed considerably to the concept of the individual soul. Uncreated and eternal, individual souls are innumerable, some embodied, others not. The respect Kapila enjoys in Śaiva circles underscores their indebtedness to the Sāṁkhya for supplying twenty-four of the reality levels absorbed into the Śaiva system of thirty-six. Here we are alerted that he was especially venerated for his teachings concerning the individual soul (puruṣa).
+639?\. 22/5d-6a is a brief paraphrase of MV 16/24. A series of meditative supports (dhāraṇā) are described in chapters 12 to 16 of the MV. These correspond to cach of the reality levels beginning with Earth and ending with Māyā (16/42). Then beyond that, the yogi attains “the plane of the Lord of the Lords of mantra’ (16/47). Along this chain of ascent, he rises to the reality level of the individual soul (16/17cd-23) and meditates on him within the lotus of the heart. In the MV, Śiva, echoed by Abhinava, declares that: ‘that is the knowledge (vijñāna) of the Vedānta, described in brief. I imparted this (teaching) previously to Kapila extensively.” (16/24) As the founder of Sāṁkhya, the sage Kapila is traditionally believed to have contributed considerably to the concept of the individual soul. Uncreated and eternal, individual souls are innumerable, some embodied, others not. The respect Kapila enjoys in Śaiva circles underscores their indebtedness to the Sāṁkhya for supplying twenty-four of the reality levels absorbed into the Śaiva system of thirty-six. Here we are alerted that he was especially venerated for his teachings concerning the individual soul (puruṣa).
 
 
 *[p. 279]* ^pg299
@@ -107,7 +107,7 @@ samastaśāstrakathitavastuvaiviktyadāyinaḥ ॥ 8 ॥
 sivāgamasya sarvebhyo ‘py āgamebhyo viśiṣṭatā |
 sivajñānena ca vinā bhūyo ‘pi paśutodbhavaḥ ॥ 9 ॥ 
 
-Thus, the sense that (these verses) suggest is also that 1) one who has been conjoined to reality levels (tattva) below that of Śiva, should be extracted from them again (and elevated further). 2) Śiva’s scripture bestows separation from the realities taught in all (the other) doctrines \[illegible\] (Such) is its special (excellence) with respect to all (other) serāptures (which makes it the most elevated of all). 3) Without knowledge of Siva, the fettered state (inevitably) arises again. (7cd-9) 
+Thus, the sense that (these verses) suggest is also that 1) one who has been conjoined to reality levels (tattva) below that of Śiva, should be extracted from them again (and elevated further). 2) Śiva’s scripture bestows separation from the realities taught in all (the other) doctrines (śāstra). (Such) is its special (excellence) with respect to all (other) serāptures (which makes it the most elevated of all). 3) Without knowledge of Siva, the fettered state (inevitably) arises again. (7cd-9) 
 
 #### Viveka on 22.7–9
 

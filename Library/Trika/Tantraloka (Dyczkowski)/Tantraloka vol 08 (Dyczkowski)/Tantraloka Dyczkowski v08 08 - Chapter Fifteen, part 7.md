@@ -626,7 +626,7 @@ Inner Ascent Through the Tattvas by a Series Inner Conjunctions
 अणुर्विद्या तदीशेशौ सादाख्यं शक्तिकुण्डली |
 व्यापिनी समनौन्मन्यं ततोऽनामनि योजयेत् || ४३७ ॥।
 
-705\. Read evam abhedaparāmarśātmā for \[illegible\] bhedaparāmarśātmā.
+705\. Read evam abhedaparāmarśātmā for evaṁ bhedaparāmarśātmā.
 
 706\. Read vrajaty asya for brudaty asya.
 
@@ -747,7 +747,7 @@ onto the sacrificial pap with (the syllable of) fire, that is, HĀ repeatedly.�
 
 ‘Then’, that is, after the libation. ‘On which the Mantras have not (yet) been deposited’. As is said: 
 
-‘The liquid (offerings) along with the sacrificial pap and rice cakes (purodāśa are the auspicious \[illegible\] oblation (offered) into the fire that, purified with the five sacraments (saṁskāra), is transcendental Śiva,”?! who has been invoked (and is present). 
+‘The liquid (offerings) along with the sacrificial pap and rice cakes (purodāśa are the auspicious (śiva) oblation (offered) into the fire that, purified with the five sacraments (saṁskāra), is transcendental Śiva,”?! who has been invoked (and is present). 
 
 Thus, it is said there that it is a pure fire. (The sacrificial pap) ‘should be prepared’ by the teacher himself. (The pap can be prepared by the disciples) ‘at the same time as (the teacher makes) the offering to the fire’, because the disciples are not occupied with the offering to the fire ete. ‘Kaula substances (vīradravya)’ are such things as wine.” The ‘ordinary ones’ are such things as milk and rice. (The substances may be) ʻas desired’, that is, either Kaula or otherwise. ‘All the rites’ include the taking up of the cooking pot (sthālī) etc., their consecration with Mantras, and stirring (the preparation) with a ladle. (SVĀ) is ‘the syllable of nectar’, because (the phonemes) S and V are nourishing. (HĀ) is ‘(the syllable of) fire’, because (the phoneme) H (represents) the perceiver, as it denotes Siva. The sense (of saying) ‘repeatedly’ is that the procedure (prayoga) should be done in this way with each offering to the fire. In this way, SVĀ is (deposited) onto the fire. This is the lunar aspect. 
 
@@ -788,7 +788,7 @@ Surely (one may ask), what has been stated in this way is just the equality (of 
 भोग्यस्य परमं सारं भोग्यं नर्नर्तिं यत्नतः ।। ४४५ ॥
 
 \[illegible\] saṁpātasaṁskāraś caror bhoktā hy adhiṣṭhitaḥ ।
-bhogyasya parama \[illegible\] bhogyaṁ narnarti yatnataḥ ॥ 445 ॥ 
+bhogyasya parama sāraṁ bhogyaṁ narnarti yatnataḥ ॥ 445 ॥ 
 
 This is the (empowering) purification that comes about by the oblation (which is the ‘falling together’ of the clarified butter into the fire and onto the sacrificial pap) (saṁpātasahskāra)[^723] He who eats the sacrificial pap (i.e., the subject) is the (fundamental) sustaining state (of the rite) (adhiṣṭhiti), and so is the supreme essence of (what is) eaten (i.e., the object). (It is due to him, thus inwardly sustained and sustaining, that) the eaten (i.e., objectivity) (vibrates, as if) dancing intensely (narnarti) without any effort (at all).[^724] (445) (442cd-443ab) 
 
@@ -1123,7 +1123,7 @@ It is said in the venerable Devyāyāmalatantra that ‘(the disciple) becomes a
 
 747\. The following is an outline of how this procedure can serve to impart an initiation that dispenses immediate liberation (sadyonirvāṇadīkṣā) by removing the vital breath from the disciple’s body, thus conjoining him with Śiva by his death. Concerning this type of initiation, see below, Chapter Nineteen.
 
-748\. Printed edition reads pheṅkāra-; \[illegible\] -phreṁkāra-.
+748\. Printed edition reads pheṅkāra-; Ṭh: -phreṁkāra-.
 
 
 *[p. 285]* ^pg303

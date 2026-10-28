@@ -97,7 +97,7 @@ tayā śaktyā vihīnā ye na te siddhim avāpnuyāt \[k: -yah\] ॥ 17 ॥
 
 *[p. 390]* ^pg412
 
-tasmāt sarvaprayatnena \[illegible\] kuryāt tayā \[g: tayāḥ\] saha |
+tasmāt sarvaprayatnena yāgaṁ kuryāt tayā \[g: tayāḥ\] saha |
 183b g) anyathā kurute yāgaṁ sarvaṁ tasya vinaśyati || 18 || sugupte nirjane ramye vīrakṣetre ‘tha siddhiṣu (> siddhīcchuḥ) |
 digvāso hrīvinirmuktāś cādvaitakulapūjakāḥ \[kh: -jaka; g: -ścā \* \* \* \*?\]°? ॥ 19
 ॥
@@ -625,7 +625,7 @@ nopapadyate tadaviditābhiprāyatayā na samyak, yatas tamomayapāpāvṛtihetuk
 adharmāt tamaso dehe gurutvaṁ yat kṣayo ‘sya tu |
 dharmato laghutotpādād ghaṭataḥ sampratīyate | | iti | 
 
-‘The basis and causes of the course (of the soul through life) (gati) and (its) perceptions are derived from fate (adṛṣta). By the destruction of (his) fate the initiate has no course (to travel anymore).’ That also does not render (our view) defective. According to the view that the intellect is purified by the insight \[illegible\] (born of) the perception that discriminates Nature etc. (from consciousness), nonacceptance and contradiction (are eliminated). Thus, as is said: 
+‘The basis and causes of the course (of the soul through life) (gati) and (its) perceptions are derived from fate (adṛṣta). By the destruction of (his) fate the initiate has no course (to travel anymore).’ That also does not render (our view) defective. According to the view that the intellect is purified by the insight (dṛṣṭi) (born of) the perception that discriminates Nature etc. (from consciousness), nonacceptance and contradiction (are eliminated). Thus, as is said: 
 
 ‘Sustained meditation (dhāraṇa), impetus, disturbance and blockage do not occur, impotent as they are, after initiation etc.” 
 
@@ -750,7 +750,7 @@ has performed its function (kṛtakārya), he blocks the power of Impurity by a 
 
 yathā ca svatantraśaktipātavādipakṣe pratipuruṣaṁ kiñcid eva karma kadācid eva devaḥ paripācya bhogabhogyari karoti, na tu sarvān prati sarvar yugapat, tattvāni ca niyatakāryakāraṇabhāvabhāñji darśayati, māyāprakṛtyādi ca 
 
-svāpaprabodhayor aucityena parinamayatīti nāsya sarvatrāviśeṣeṇa kartṛtvam, tathā malaparipākapakṣe = \[illegible\] karmaṇo malasya ca \[illegible\] paripākam apekṣya nigrahānugrahau puṁsāḥ karoti parameśvaraḥ, na tv evam eva, tasyāprekṣāpūrvakāritvaprasa"ngād iti tāvac chrīmatkheṭapālācāryamatam |
+svāpaprabodhayor aucityena parinamayatīti nāsya sarvatrāviśeṣeṇa kartṛtvam, tathā malaparipākapakṣe = \[illegible\] karmaṇo malasya ca vicitraṁ paripākam apekṣya nigrahānugrahau puṁsāḥ karoti parameśvaraḥ, na tv evam eva, tasyāprekṣāpūrvakāritvaprasa"ngād iti tāvac chrīmatkheṭapālācāryamatam |
 yadāha bhogakārikāsu ---- 
 
 According to the view of those who maintain that the descent of the power (of grace) is independent (of causes and conditions), the god matures Karma to some degree for each soul at any time, and having done so, makes the experience (which is a consequence of Karma) (bhoga) into an object of experience. But (he does) not (do) everything with respect to all simultaneously, and severing the fixed relationship between cause and effect, he exhibits the realities and brings about change in Māyā and Prakṛti etc. in accord with the sleeping and waking state (of a particular soul). Thus, (the Lord’s) agency is not (the same) everywhere without difference. So too also, according to the view that (a descent of the power of grace takes place) when Impurity matures, the Supreme Lord graces and restrains individual souls according to the various (ways and degree their) Karma and Impurity has matured, not just like that (i.e. with the Supreme Lord’s intervention), because that would entail the undesirable consequence that his agency is not (based on) a preceding examination (of the condition of the soul’s Impurity and Karma). Such then is the view of the venerable Kheṭapāla. As is said in the Bhogakārikās: 
@@ -811,7 +811,7 @@ atha jñātṛtvakartṛtvātmakasvarūpāvārakatvena (nirodhikā?), tarhi ātm
 
 ‘nabhyupagamāt |
 na ca mūrtena malenātmanām amūrtacitsvarūpāṇām āvaraṇaḥ ghaṭate |
-cakṣusūryādiraśmīnāṁ tu bhautikatvāt paṭalādibhis tadyujyata eva | yady api madyaviṣāder \[illegible\] pratyāvārakatvam, 
+cakṣusūryādiraśmīnāṁ tu bhautikatvāt paṭalādibhis tadyujyata eva | yady api madyaviṣāder jīvaṁ pratyāvārakatvam, 
 
 tatsiddhasa"nkocami prāṇādimayami 
 
@@ -940,7 +940,7 @@ Now, (if the Lord’s will) is not free (and independent of causes and condition
 
 yadi ca ruddhaśaktikarmadaśāyām eva mala rundhyāt, tat sa pralayā-vasthāyāh 
 
-sarveṣāṁ \[illegible\] kuryāt |
+sarveṣāṁ tathā kuryāt |
 tatrāūpi ca (> ।
 tādṛg-bhogapradakarmasa"ngo ʻstīti cet, viruddhakarmadvayasa"nge tādṛg-bhogadan karmāstīti ki vaktuṁ na śakyate | 
 
@@ -1042,7 +1042,7 @@ conmīlitarūpatayeti tāvatyaśe baddhamuktarūpatayā vastutas tu sa eva tāva
 
 *[p. 424]* ^pg446
 
-ordered universe). Wherever he (unfolds, thereby engendering) perception (prathayati), (he manifests) as that which is to be regulated by the law of causality (kāryakāraṇabhāva), and as the wonderful variety of the fruits of Karma etc. (He also manifests) in (his) withdrawn form (nimīlitarūpa) as (He) withdraws that (outer manifestation), and so too in an expanded (unfolded form) (as He makes manifests all things). (He manifests) only in that aspect \[illegible\] in a bound and liberated form. (Thus,) in reality it is he alone who flashes forth thus \[illegible\] as all things (and as his cosmic nature) (viśvātmanā). There is no other who is either bound or liberated. 
+ordered universe). Wherever he (unfolds, thereby engendering) perception (prathayati), (he manifests) as that which is to be regulated by the law of causality (kāryakāraṇabhāva), and as the wonderful variety of the fruits of Karma etc. (He also manifests) in (his) withdrawn form (nimīlitarūpa) as (He) withdraws that (outer manifestation), and so too in an expanded (unfolded form) (as He makes manifests all things). (He manifests) only in that aspect \[illegible\] in a bound and liberated form. (Thus,) in reality it is he alone who flashes forth thus (tāvat) as all things (and as his cosmic nature) (viśvātmanā). There is no other who is either bound or liberated. 
 
 na caivaṁ svarūpāpattyātmani mokṣe svarīūpanāśo ‘sti | sa"nkocanāśas tv 1514 eva | na ca prāptaśivābhedasya sarvasarvātmatayā sarvatra sarvadā sphurataḥ punarbhavo ‘sti | paramaśivasyaiva satattvasya śivādisakalāntenāpi mahatā svasvarūpeṇa 
 

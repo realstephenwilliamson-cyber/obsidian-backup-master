@@ -34,7 +34,7 @@ B) (Within the domain of) ‘the next’ (Force, namely,) the Established One (p
 
 C) ‘The next Force’ is Knowledge (vidyā) which also called the Enlightening One (bodhinī). (lt includes) seven principles from Puruṣa to Māyā and (seven) phonemes from Ñ to GH.” There are two padas and two Mantras (consisting of these seven phonemes), five in the first and two in the second (of each pair). There are twenty-eight worlds. 
 
-D) ‘The fourth’ (Force is) the Tranquil One \[illegible\] also called the Sanctifying One (utpūyinī). (It contains) three phonemes (i.e. G, KH and K), (the three) principles of Śuddhavidyā, 
+D) ‘The fourth’ (Force is) the Tranquil One (śāntā), also called the Sanctifying One (utpūyinī). (It contains) three phonemes (i.e. G, KH and K), (the three) principles of Śuddhavidyā, 
 
 Īśvara and Sadāśiva, one pada and one 
 
@@ -97,7 +97,7 @@ The Path of Mantra Within the Subject
 सोऽयं समस्त एवाध्वा भैरवाभेदवृत्तिमान् |
 तत्स्वातन््यात्स्वतनरत्वमूनुवानोऽवभासते ॥ ५४ ॥
 
-so \[illegible\] samasta evādhvā bhairavābhedavṛttimān |
+so ‘yaṁ samasta evādhvā bhairavābhedavṛttimān |
 tatsvātantryāt svatantratvam aśnuvāno ‘vabhāsate || 54 I| 
 
 \[illegible\] this Path (exists and) functions at one with Bhairava, (but) by virtue of His freedom, it manifests possessing an independent existence (of its own).” (54) 
@@ -418,7 +418,7 @@ Even if we point (at something we wish the child to know, this is not enough to 
 
 #### Viveka on 11.70
 
-By pointing to an object in front of a child who is being instructed, to indicate that ‘this is a jar’, the ‘understanding’ (that arises within his mind) is characterized by the relationship between the denoted object and (the word which is) its denotator. (The form it assumes is) “this (object) is denoted by the word jar”, and so, because it is shot through with verbal denotation (Sabda), it is not devoid of conceptual representation \[illegible\] (It is said that) ʻif (perceptions) have conceptual representations (savikalpa), the sources of those notions (vikalpa) are words \[illegible\] In accord with this principle, a thought construct (vikalpa) is rooted in speech (śabda), the ultimate nature of which is solely a linguistic convention. Thus, as (even the nonverbal indication of objects entails thought and thus language), it depends on other (words with a) 
+By pointing to an object in front of a child who is being instructed, to indicate that ‘this is a jar’, the ‘understanding’ (that arises within his mind) is characterized by the relationship between the denoted object and (the word which is) its denotator. (The form it assumes is) “this (object) is denoted by the word jar”, and so, because it is shot through with verbal denotation (Sabda), it is not devoid of conceptual representation (vikalpa). (It is said that) ʻif (perceptions) have conceptual representations (savikalpa), the sources of those notions (vikalpa) are words (śabda).’ In accord with this principle, a thought construct (vikalpa) is rooted in speech (śabda), the ultimate nature of which is solely a linguistic convention. Thus, as (even the nonverbal indication of objects entails thought and thus language), it depends on other (words with a) 
 
 Note that Abhinava does not understand ‘convention’ (saṁketa) to be just the common linguistic one of day-to-day speech. The same term may be used to denote a system of Mantras, and with them the teaching which supports their application and explains their nature and function. By extension, it denotes the whole corpus of instruction of a scripture which is written, making use of its own technical terms, and meant to convey its own meaning through its own conventional use of language.
 
@@ -448,13 +448,13 @@ Therefore, (one must admit that this) endless, numinous (amāyīya) aggregate of
 
 #### Viveka on 11.71
 
-It is ‘such’, that is, independent of (linguistic) convention. (It unfolds) ‘constantly’ when making use of created, phenomenal \[illegible\] phonemes." 
+It is ‘such’, that is, independent of (linguistic) convention. (It unfolds) ‘constantly’ when making use of created, phenomenal (māyīya) phonemes." 
 
 142\. MVV 1/1027-1028 = TĀ 11/71cd-72ab (71-72). MVV: tenānantastvamāyīyo; MVV reads pravi-jṛmbhate for sa hi jṛmbhate.
 
 143\. convention cannot require another to explain it; otherwise this would lead to an infinite regress. The understanding of a sentence is ultimately based on consciousness, which is not just passive awareness but an active understanding of words, or what amounts to the same thing, thought. It is necessary to posit such a direct understanding of what a word means; otherwise, the phenomena of understanding language could never be explained. It is not enough to say that we came to understand the meaning of a word by explaining it in terms of others, for they themselves must be understood. Therefore, one must accept the existence of an aggregate (of undifferentiated letters), which independent of conventional meaning are of the nature of Śuddha Vidyā, consisting of the very essence of the self-reflective awareness of pure consciousness, that function as a locus of rest, such that the possibility of an infinite regress may be circumvented.
 
-144\. CF MVV 1/410cd-413: varṇavākyapadātmānaḥ śāstrārthālokagocarāḥ ॥ 410 ॥ samāśritya pravartante \[illegible\] tārṁs tantrāvatārakān | tena prathamato yāvan \[illegible\] vaikharīṁ darīm ॥ 411 ॥ māyīyavarṇasaṁidṛbdhaḥ śāstrārtho nāyam āgataḥ | antaḥ sāravidhodhaikaparavāṅmayavarnakaḥ Il 412 || akṛtrimaparāveśamūlasaṁskārasaṁskṛtaḥ | sāstrārtho 'laukikānto ‘sti saptatriṁśe pare \[trimśapare iti pāthaḥ\] vibhau ॥ 413 ॥ ‘The spheres of the exegesis of the meaning of the scriptures are phonemes, sentences and syllables. On the basis of that, they impel each of those who bring Tantras down to earth. Thus, initially (they impel) the flow of Corporeal Speech (that belongs to the realm of) Māyā; to that extent \[illegible\] the purport of the scripture fashioned from Māyīya phonemes has come to be a guide. Inwardly, it is the one letter, which is Supreme Speech and the udder (of all Speech) pierced (vidha) (and pervaded) by the essence (of the scriptures). It has been purified by the root purification (saṁskāra), which is uncreated and supreme absorption (into consciousness) (parāveśa). The purport of the scriptures (and the reality — artha — they teach) is the culmination of the transcendent (alaukika) within the supreme, pervasive (vibhu) thirty-seventh principle (of universal, immanent consciousness).”
+144\. CF MVV 1/410cd-413: varṇavākyapadātmānaḥ śāstrārthālokagocarāḥ ॥ 410 ॥ samāśritya pravartante \[illegible\] tārṁs tantrāvatārakān | tena prathamato yāvan \[illegible\] vaikharīṁ darīm ॥ 411 ॥ māyīyavarṇasaṁidṛbdhaḥ śāstrārtho nāyam āgataḥ | antaḥ sāravidhodhaikaparavāṅmayavarnakaḥ Il 412 || akṛtrimaparāveśamūlasaṁskārasaṁskṛtaḥ | sāstrārtho 'laukikānto ‘sti saptatriṁśe pare \[trimśapare iti pāthaḥ\] vibhau ॥ 413 ॥ ‘The spheres of the exegesis of the meaning of the scriptures are phonemes, sentences and syllables. On the basis of that, they impel each of those who bring Tantras down to earth. Thus, initially (they impel) the flow of Corporeal Speech (that belongs to the realm of) Māyā; to that extent (yāvat), the purport of the scripture fashioned from Māyīya phonemes has come to be a guide. Inwardly, it is the one letter, which is Supreme Speech and the udder (of all Speech) pierced (vidha) (and pervaded) by the essence (of the scriptures). It has been purified by the root purification (saṁskāra), which is uncreated and supreme absorption (into consciousness) (parāveśa). The purport of the scriptures (and the reality — artha — they teach) is the culmination of the transcendent (alaukika) within the supreme, pervasive (vibhu) thirty-seventh principle (of universal, immanent consciousness).”
 
 
 *[p. 66]* ^pg86
@@ -603,7 +603,7 @@ saṁkete pūrvapūrvāṁśamajjane pratibhābhidaḥ || 78 ॥
 
 *[p. 70]* ^pg90
 
-Degrees of creative intuition (pratibhā) (develop) as each (lower) prior aspect of (a linguistic) convention (saṁketa) (operating in relation to objectivity) merges into the one that follows after (at a higher level of subjectivity). (This process continues up to) the primal \[illegible\] phonemes which, inwardly merged (within consciousness), are (the energies of its pure reflective awareness), free of Māyā. (78) (77cd-78ab) 
+Degrees of creative intuition (pratibhā) (develop) as each (lower) prior aspect of (a linguistic) convention (saṁketa) (operating in relation to objectivity) merges into the one that follows after (at a higher level of subjectivity). (This process continues up to) the primal (ādya) phonemes which, inwardly merged (within consciousness), are (the energies of its pure reflective awareness), free of Māyā. (78) (77cd-78ab) 
 
 #### Viveka on 11.77–78
 
@@ -735,7 +735,7 @@ Subject, Object and Means of Knowledge
 
 165?\. Above, 11/73ab (720).
 
-166?\. Cf. MVV 1/1033cd: \[illegible\] eva tatas tena guptā guptena bhāṣitāḥ |
+166?\. Cf. MVV 1/1033cd: teṣām eva tatas tena guptā guptena bhāṣitāḥ |
 
 167?\. The passage Jayaratha quotes from the SYM corresponds to 1/12-14 of the edited text. The edited version reads sarniskārarahitaṁ for saṁskāravirahaṁ; ajñānānāṁ for manujānāṁ; aśŚeṣām for sarveṣām; tena te for tenaite na.
 
@@ -751,7 +751,7 @@ This six-fold Path manifests in this way as noetic consciousness, subject, objec
 
 ‘It is (all) purified if (any one) of its own bodies is purified’. ‘Own’ means the specific nature (of each one of the six parts of the Path), which is not common (to the other bodies), such as, for example, (the Path of) the Forces (which differs from the other five bodies). It is ‘purified’ when the impurity of attachment to worldly experience ceases. This is the meaning. 
 
-Surely (one may ask), if that is so, should the six-fold Path be purified directly (and entirely) \[illegible\] for each initiand, or not? With this doubt in mind, he says: 
+Surely (one may ask), if that is so, should the six-fold Path be purified directly (and entirely) (sākṣāt) for each initiand, or not? With this doubt in mind, he says: 
 
 ### TĀ 11.83–84
 
@@ -1041,7 +1041,7 @@ Surely (one may ask), as Śiva’s oneness is universal, what is the reason (nim
 
 he says that it is) ʻas the teaching declares’. The ‘teaching’ is that of nonduality. That is said (in the scripture, which declares that): 
 
-‘According to the nondual tradition \[illegible\] Bhairava’s Being is everywhere, in the universals' (as well as in the objects) in the purview (of the senses); there is no other (reality) apart from Him.’ 
+‘According to the nondual tradition (āgama), Bhairava’s Being is everywhere, in the universals' (as well as in the objects) in the purview (of the senses); there is no other (reality) apart from Him.’ 
 
 The meaning is that the nondual tradition is (the one that teaches) the nondual manner (gati) (of existence). 
 
@@ -1056,7 +1056,7 @@ Everything Appears Within Śiva Like a Reflection or Image in a Dream or Notion 
 सर्वमेतद्रिभात्येव परमेशितरि ध्रुवे ॥ ९३ ॥
 ्रतिविम्बस्वरूपेण न तु बाह्यतया यतः ।
 
-sarvam etad vibhāty \[illegible\] parameśitari dhruve ॥ 93 ॥
+sarvam etad vibhāty eva parameśitari dhruve ॥ 93 ॥
 pratibimbasvarūpenṇa na tu bāhyatayā yataḥ | 
 
 Thus, in reality, all this manifests as a reflected image within the eternal (dhruva) Supreme Lord, not as something external (to Him). (93cd-94ab) (93) 
@@ -1171,7 +1171,7 @@ Heart (of Śiva’s universal consciousness). (97cd-98ab) (97)
 
 #### Viveka on 11.97
 
-‘Just as some Śālagrāma stones’, although all equally stones without distinction, are given different names, such as ‘mudrā’, and are by their very nature of various forms, because they possess particular formal configurations such as (the shapes of) a conch or wheel, in the same way, (the forms of) consciousness, although in themselves (all) equally without distinction perceivers and objects of perception etc., are \` \[illegible\] lines (inscribed) in the wonderfully diverse Heart (of Siva’s universal consciousness)’. The meaning 
+‘Just as some Śālagrāma stones’, although all equally stones without distinction, are given different names, such as ‘mudrā’, and are by their very nature of various forms, because they possess particular formal configurations such as (the shapes of) a conch or wheel, in the same way, (the forms of) consciousness, although in themselves (all) equally without distinction perceivers and objects of perception etc., are \` ‘(like) lines (inscribed) in the wonderfully diverse Heart (of Siva’s universal consciousness)’. The meaning 
 
 201\. The things we see in a dream are the products of the imagination. External objects are specific, individual particulars. Those seen in a dream are not. The jar we see in a dream is not a particular jar, as is the one we see when awake. It is a generic image of it, that has its qualities, although a jar that has those qualities is absent. Moreover, as causal laws do not regulate the pattern of experience that one has while dreaming, it is possible to experience what would otherwise be impossible, such as witnessing the severing of one’s own head. That such events, however impossible, appear within consciousness in a dream, is given here as evidence that consciousness can produce such manifestations within itself independently of external causes. In short, all things are manifestations of forms of consciousness within it.
 
@@ -1392,7 +1392,7 @@ Surely, Earth sustains Water, and Water Fire, and that Air, and so on. (This) se
 अन्ते संविन्मयी शक्तिः शिवरूपैव धारिणी ।
 bhūtatanmātravargāder ādhārādheyatākrame” | 106 Il ante saṁvinmayī śaktiḥ śivarūpaiva dhārinī | 
 
-(Thus, at the root of the relationship between) the sustainer and sustained, which obtains progressively between the gross and subtle elements and the rest onwards in serial order, is Śiva’s power \[illegible\] which is at the end (of the series), and is the consciousness that sustains (all things). (106ed-107ab) (106) 
+(Thus, at the root of the relationship between) the sustainer and sustained, which obtains progressively between the gross and subtle elements and the rest onwards in serial order, is Śiva’s power (śakti), which is at the end (of the series), and is the consciousness that sustains (all things). (106ed-107ab) (106) 
 
 #### Viveka on 11.106
 
@@ -1515,7 +1515,7 @@ Time and space are not fixed (and predetermined) at all, even (in the sphere of 
 
 ### TĀ 11.112
 
-Moments \[illegible\] Do Not Exist 
+Moments (kṣaṇa) Do Not Exist 
 
 जागराभिमते सार्धहस्तत्रितयगोचरे । ११२ ॥
 प्रहरे च पृथक् स्वपाधचित्रदिक्कालमानिनः ।
@@ -1580,7 +1580,7 @@ sphuṭīkartuṁ svatantratvād īśaḥ so ‘smatprabhuḥ śivaḥ[^231] |
 
 (To conclude:) He who, by virtue of (His) freedom, can make existent things empty, and make evidently apparent what does not exist, is 
 
-God \[illegible\] who is Śiva, our Lord. (115cd-116ab) (115) 
+God (īśa), who is Śiva, our Lord. (115cd-116ab) (115) 
 
 #### Viveka on 11.115
 

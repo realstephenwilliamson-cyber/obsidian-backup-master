@@ -150,7 +150,7 @@ Purification of Embodied Subjectivity, verses 45-46, pages 37-38 The Ablution wi
 
 The Selection of the Place Suitable for the Sacrifice (sthānakalpana) 
 
-Outer and Inner Sacred Place, verses 79-83ab, pages 58-59 The Eight Fields, Primary \[illegible\] and Secondary (upakṣetra), and the Eight upasaṁdohas, verses 83cd-93ab, pages 59-63 
+Outer and Inner Sacred Place, verses 79-83ab, pages 58-59 The Eight Fields, Primary (kṣetra) and Secondary (upakṣetra), and the Eight upasaṁdohas, verses 83cd-93ab, pages 59-63 
 
 Sacred Sites in the Body, verses 93cd-97ab, pages 64-67 The Power of Outer Sacred Places 97cd-101ab, pages 67-69 
 

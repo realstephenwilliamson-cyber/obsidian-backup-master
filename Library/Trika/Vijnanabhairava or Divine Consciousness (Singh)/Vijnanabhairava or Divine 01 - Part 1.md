@@ -4,7 +4,7 @@ work: "[[Singh (tr.) - Vijnanabhairava or Divine Consciousness]]"
 book: "[[Library/Trika/Vijnanabhairava or Divine Consciousness (Singh)/Vijnanabhairava or Divine Consciousness (Singh)|Vijnanabhairava or Divine Consciousness (Singh)]]"
 order: 1
 source_pdf: Library/Trika/Vijnana Bhairava Or Divine Consciousness - Jaideva Singh.pdf
-page_range: 1–7
+page_range: "x–7"
 pdf_pages: 1–40
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08
@@ -545,7 +545,7 @@ p- 246). He cannot attain ivavyāpti which is the state of identification with p
 
 13\. Unmanā. The stage above samanā is unmanā. 11 15 the ultimate energy beyond all mental process. Kṣemarāja explains 
 
-*[p. xxi̇x]* ^pg30
+*[p. xxix]* ^pg30
 
 prāptaṁ manah ca it thus—unmanam-utkrāntam-utkarsam yatra tadunmanam i.e. ‘unmanā is that state in which manas or mental process is transcended and it reaches its highest excellence. Unmanā is the highest śūnya (void), not śūnya in the popular sense, but in the sense of the disappearance ofall objectivity. It is Sattāmātram which, as Kṣemarāja explains, is the Light of Universal Consciousness which is the fount and source of every thing. 
 

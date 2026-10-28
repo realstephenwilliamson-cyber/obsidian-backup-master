@@ -20,7 +20,7 @@ Converted from the PDF on 8 Oct 2026 (fresh OCR with Tesseract 5 (eng+san) of th
 
 ## Contents
 
-- [[Sanskrit Syntax 01 - Part 1|Part 1]] (pp. 4–71)
+- [[Sanskrit Syntax 01 - Part 1|Part 1]] (pp. viii–71)
 - [[Sanskrit Syntax 02 - Part 2|Part 2]] (pp. 72–151)
 - [[Sanskrit Syntax 03 - Part 3|Part 3]] (pp. 152–231)
 - [[Sanskrit Syntax 04 - Part 4|Part 4]] (pp. 232–311)

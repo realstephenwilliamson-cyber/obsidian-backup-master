@@ -4,7 +4,7 @@ work: "[[Bansat-Boudon - The World on Show]]"
 book: "[[Library/Trika/The World on Show, or Sensibility in Disguise (Bansat-Boudon)/The World on Show, or Sensibility in Disguise (Bansat-Boudon)|The World on Show, or Sensibility in Disguise (Bansat-Boudon)]]"
 order: 1
 source_pdf: Library/Trika/Bansat-Boudon - The World on Show, Tantraloka 1.332 (2016).pdf
-page_range: 1–63
+page_range: "i–vi; 34–63"
 pdf_pages: 1–40
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -146,7 +146,7 @@ Helārāja on Omniscience, *Āgama*, and the Origin of Language *...............
 
 Transmission of the *Mūlamadhyamakakārikā* and *Prasannapadā* to Tibet from Kashmir *..............................................................* 645 
 
-*[p. 33]* ^pg10
+*[PDF 10]* ^pg10
 
 The World on Show, 
 

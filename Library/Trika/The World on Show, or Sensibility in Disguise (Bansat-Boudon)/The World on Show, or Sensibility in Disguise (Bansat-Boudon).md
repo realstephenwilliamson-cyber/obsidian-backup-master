@@ -17,5 +17,5 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The World on Show 01 - Part 1|Part 1]] (pp. 1–63)
+- [[The World on Show 01 - Part 1|Part 1]] (pp. i–vi; 34–63)
 - [[The World on Show 02 - Part 2|Part 2]] (pp. 64–79)

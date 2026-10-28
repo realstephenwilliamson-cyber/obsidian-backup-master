@@ -4,7 +4,7 @@ work: "[[Torzsok - Theatre, Acting and the Image of the Actor in Abhinavagupta's
 book: "[[Library/Trika/Theatre, Acting and the Image of the Actor (Torzsok)/Theatre, Acting and the Image of the Actor (Torzsok)|Theatre, Acting and the Image of the Actor (Torzsok)]]"
 order: 1
 source_pdf: Library/Trika/Torzsok - Theatre, Acting and the Image of the Actor (2016).pdf
-page_range: 1–vi
+page_range: "i–vi"
 pdf_pages: 1–9
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

@@ -23,4 +23,4 @@ Converted from the PDF on 22 Oct 2026 (the PDF's OCR text layer (Acrobat), PyMuP
 - [[Speak Truth to Power 05 - II. The Price of Power|II. The Price of Power]] (pp. ii–25)
 - [[Speak Truth to Power 06 - III. The Enemy Redefined|III. The Enemy Redefined]] (pp. iii–34)
 - [[Speak Truth to Power 07 - IV. Alternative to Violence|IV. Alternative to Violence]] (pp. iv–48)
-- [[Speak Truth to Power 08 - V. A Choice with Hope|V. A Choice with Hope]] (pp. v–71)
+- [[Speak Truth to Power 08 - V. A Choice with Hope|V. A Choice with Hope]] (pp. 49–71)

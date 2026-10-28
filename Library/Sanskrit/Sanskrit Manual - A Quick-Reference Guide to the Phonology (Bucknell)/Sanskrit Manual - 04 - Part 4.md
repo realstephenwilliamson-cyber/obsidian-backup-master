@@ -3501,7 +3501,7 @@ WHITNEY, William D. The Roots, Verb-forms and Primary Derivatives of the Sanskri
 
 1885; repr. Delhi: Motilal Banarsidass, 1979. 
 
-*[p. 137]* ^pg137
+*[PDF 137]* ^pg137
 
 RopericK 9. त. 
 

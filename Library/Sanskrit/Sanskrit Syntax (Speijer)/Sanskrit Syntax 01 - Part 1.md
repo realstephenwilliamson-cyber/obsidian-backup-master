@@ -4,7 +4,7 @@ work: "[[Speijer - Sanskrit Syntax]]"
 book: "[[Library/Sanskrit/Sanskrit Syntax (Speijer)/Sanskrit Syntax (Speijer)|Sanskrit Syntax (Speijer)]]"
 order: 1
 source_pdf: Library/Sanskrit/20 Sanskrit Syntax.pdf
-page_range: 4–71
+page_range: "viii–71"
 pdf_pages: 1–40
 text_source: fresh OCR with Tesseract 5 (eng+san) of the page images, English lines read again with eng alone where the san model put Devanagari into them (the PDF's older OCR layer adds no transliteration to this book, only junk)
 converted: 2026-10-08
@@ -15,7 +15,7 @@ converted: 2026-10-08
 > [!warning] For Sanskrit, use the PDF
 > This text is a fresh OCR of the page images: the English is reliable, but transliterated Sanskrit has lost its diacritics (ā ī ū ṛ ṭ ḍ ṇ ś ṣ ṃ ḥ: *Siva* stands for Śiva, *prana* for prāṇa) and Devanagari may be misread. For Devanagari and transliteration, read the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 ~SANSKRIT SYNTAX
 
@@ -27,7 +27,7 @@ MOTILAL BANARSIDASS PUBLISHERS
 
 PRIVATE LIMITED e DELHI
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 First Edition: Leiden, 1886
 
@@ -75,13 +75,13 @@ In order to comply with the wishes of Dr. Speijer I take the liberty to introduc
 
 H. KERN. Leypen, 18 July 1886,
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 PREFACE,
 
 This book aims to give a succinct account of Sanskrit Syntax , as it is represented in classic Sanskrit literature, without neglecting however the archaisms and peculiarities of vaidik prose (brihmana, upanishad, sfitra) and of epic poetry. The facts laid down here have been stated chiefly by my own observations in perusing Sanskrit writings, and accordingly by far the. great majority of the examples quoted have been selected directly from the sources, if not, those suggested by the Pe-tropolitan Dictionary or others have, as a rule, been received only after verification. Moreover, valuable information was gained by the statements of vernacular grammarians, especially of Pa-nini, to whose reverenced authority due respect is paid and whose rules are referred to at every opportunity. For some useful intelligence I am indebted to Mr, Anunporam Borooan’s Higher Sanskrit Grammar Calcutta 1879. A welcome and precious assistance were to me some treatises or occasional hints of distinguished European scholars, who, as Detsrtick, DE Saussure, Whitney, have explored tracks of this scarcely trodden region of Indian philology. But for the greater part of the subjects falling within the scopé of this compilation,
 
-*[p. 4]* ^pg4
+*[p. viii–ix]* ^pg4
 
 VII PREFACKH.
 
@@ -111,7 +111,7 @@ Chapt. I. General remarks. Kinds of verbs. Auxiliaries. Pe-riphrase of verbs . �
 
 Chapt. I. Coordination. . 2. oe . 887-346 » LI. Subordination. Periods and clauses. . . . . 847—352 » IIL Relative sentences introduced by pronouns . . . 359-357 » LV. Relative adverbs and conjunctions . , . . . 358--879 » V. The conditional period = 2... 1. , . 872—379 „+ . 879-—388 » VI. The direct construction; इति hoe ee . Amsterdam, July 1886. J. 8, रिणः,
 
-*[p. 5]* ^pg5
+*[p. x–1]* ^pg5
 
 x ADDENDUM
 
@@ -129,7 +129,7 @@ SENTENCES,
 
 1\) Vernacular grammar has no term to name the subject of the sentence or grammatical subject. The term kartr signifies the agent or logical subject. In the same way karma means the logical object, whatsoever may be its grammatical function; it thus implies the object of the active verb as well as the subject of the passive or the objective genitive, In such sentences as »the knife cuts”, the grammatical subject is both karir (agent) and karana (instrument).
 
-*[p. 6]* ^pg6
+*[p. 2–3]* ^pg6
 
 4, It must be added, if »to be” means »to exist” or »to be met with;” likewise if the grammatical tense or mood is to be expressed.
 

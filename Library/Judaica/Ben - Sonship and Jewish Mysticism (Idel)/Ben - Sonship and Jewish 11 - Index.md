@@ -4,7 +4,7 @@ work: "[[Idel - Ben, Sonship and Jewish Mysticism]]"
 book: "[[Library/Judaica/Ben - Sonship and Jewish Mysticism (Idel)/Ben - Sonship and Jewish Mysticism (Idel)|Ben - Sonship and Jewish Mysticism (Idel)]]"
 order: 11
 source_pdf: Library/Judaica/Idel - Ben, Sonship and Jewish Mysticism (2007).pdf
-page_range: 696–723
+page_range: "696–725"
 pdf_pages: 354–368
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF
 converted: 2026-10-07
@@ -4455,7 +4455,7 @@ understanding
 
 as intellectual universe 528n49 
 
-*[p. 368]* ^pg368
+*[p. 724–725]* ^pg368
 
 Uriel 26 
 

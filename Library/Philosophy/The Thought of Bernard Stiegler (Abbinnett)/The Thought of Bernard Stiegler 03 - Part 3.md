@@ -2941,7 +2941,7 @@ Zinjanthropus M1, 21-2, 26. 7)
 
 Spirit of
 
-*[p. 105]* ^pg105
+*[PDF 105]* ^pg105
 
 mae Taylor & Francis eBooks
 
@@ -2985,7 +2985,7 @@ Pg Routledge |
 
 www.tandfebooks.com
 
-*[p. 106]* ^pg106
+*[PDF 106]* ^pg106
 
 MEDIA, CULTURE AND CRITIQUE: FUTURE
 

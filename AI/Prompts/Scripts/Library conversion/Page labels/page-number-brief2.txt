@@ -1,0 +1,21 @@
+READING PRINTED PAGE NUMBERS, v2 (28 Oct 2026, later session: adds the "also" field for pages printing two numbers; readers were also told that a scan may show two pages side by side, given as "4–5"). Reading task; you change nothing but your own output file.
+
+Each image is one page of a scanned or digital book, cut down to two strips: the TOP of the page (above the red line) and the
+BOTTOM of the page (below the red line). Book page numbers are normally printed in one of those strips: in the running head at the
+top (left or right corner, or centred) or at the foot of the page.
+
+For each image, say which page number is printed on the page, exactly as printed: arabic ("137") or roman ("xiv"). Rules:
+- Only the page's own page number. Ignore footnote numbers, chapter or section numbers ("CHAPTER 7", "§ 4"), verse or line numbers,
+  years, figure or plate numbers, numbers inside a running title, and numbers in the body text.
+- Some pages print two different page numbers (one in the head, one at the foot). Then give the foot number in "printed" and
+  the other in "also", with where it is in "note". Otherwise leave "also" empty.
+- If the strips show no page number at all (a chapter opening, a blank page, a plate, a title page), answer "none".
+- If you see a number but cannot read it for certain, answer "unclear" and say what you see in "note".
+- Make sure each image has actually loaded before you answer. If an image does not load or is blank white, answer "noimage".
+- Read each digit carefully (3 / 8, 1 / 7, 5 / 6, iii / m, vi / vii are easy to confuse); zoom in your mind on the number itself.
+
+Output: a JSON Lines file at the path given in your task, one line per image, in the order listed:
+{"id": "e03", "printed": "113", "also": "", "where": "top-right", "note": ""}
+"where": top-left / top-centre / top-right / bottom-left / bottom-centre / bottom-right / "" (for none or noimage).
+Check before finishing that there is one line per image and each parses as JSON. Reply with one short line of counts
+(numbers read, none, unclear, noimage). Do not paste the readings into the reply.

@@ -20,7 +20,7 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 ## Contents
 
 - [[Religion and Time 01 - Front matter|Front matter]] (pp. I–VIII)
-- [[Religion and Time 02 - Introduction|Introduction]] (pp.  1–16)
+- [[Religion and Time 02 - Introduction|Introduction]] (pp. 1–16)
 
 ### Part One
 

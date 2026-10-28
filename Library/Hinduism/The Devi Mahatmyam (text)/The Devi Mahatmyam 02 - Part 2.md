@@ -4,7 +4,7 @@ work: "[[The Devi Mahatmyam]]"
 book: "[[The Devi Mahatmyam (text)|The Devi Mahatmyam (text)]]"
 order: 2
 source_pdf: Library/Hinduism/Devi Mahatmyam.pdf
-page_range: 9–55
+page_range: 41–55
 pdf_pages: 41–55
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Devi Mahatmyam 01 - Part 1|← previous]] · [[The Devi Mahatmyam (text)|contents]]
 
-*[p. 9]* ^pg41
+*[p. 41]* ^pg41
 
 30\. And the Danuja-lord, the son of Diti, putting forth a myriad of arms, covered Chandikā with myriad discuses. 
 
@@ -38,7 +38,7 @@ Others were repulsed by showers of the water purified by the incantation of Brah
 
 Here ends the Ninth Chapter called 'the Slaying of Niśhumbha' of Devī Māhātmyam in Mārkaṇḍeya Purāṇa during the period of Savarni, the Manu. 
 
-*[p. 10]* ^pg42
+*[p. 42]* ^pg42
 
 The Slaying of Śhumbha 
 
@@ -62,7 +62,7 @@ Ambikā alone then remained.
 
 16\. Next the supreme monarch of the Daityas, taking his sword bright like the sun and shining shield bearing the images of a hundred moons, rushed at the Devi at that moment. Just as he was rushing forward, Chandikā split his sword with sharp arrows from Her bow, and also his shield as bright as the solar rays. 
 
-*[p. 10]* ^pg43
+*[p. 43]* ^pg43
 
 18\. With his steeds slain, his bow broken, deprived of a charioteer, the Daitya then grasped his terrible mace, being ready to kill Ambikā. With sharp arrows, She split the mace of Śhumbha, who was rushing at Her. Even then, raising his fist, he rushed swiftly at Her. The Daitya-king brought his fist down on the heart of the Devi, and the Devi also with Her Palm smote him on his chest. 
 
@@ -78,7 +78,7 @@ Ambikā alone then remained.
 
 Here ends the Tenth Chapter called 'The Slaying of Śhumbha' of Devī Māhātmyam in Mārkaṇḍeya Purāṇa, during the period of Savarni, the Manu. 
 
-*[p. 11]* ^pg44
+*[p. 44]* ^pg44
 
 Hymn to Narayani 
 
@@ -440,7 +440,7 @@ Trai-lokya-vāsinām-īḍye lokānāṁ varadā bhava *(35)*
 
 36\. The Devi said: ‘O Devas, I am prepared to bestow a boon. Choose whatever boon You desire in Your mind, for the welfare of the world. I shall grant it.' 
 
-*[p. 11]* ^pg49
+*[p. 49]* ^pg49
 
 38\. The Devas said: ‘O Queen of all, this same manner, You must destroy all our enemies and all the afflictions of Three Worlds. 
 
@@ -458,7 +458,7 @@ Trai-lokya-vāsinām-īḍye lokānāṁ varadā bhava *(35)*
 
 55\. Thus whenever trouble arises due to the advent of the Dānavas, I shall incarnate and destroy the foes.' Here ends the Eleventh Chapter called 'Hymn to Narayani' of Devī Māhātmyam in the Mārkaṇḍeya Purana, during the period of Savarni, the Manu. 
 
-*[p. 12]* ^pg50
+*[p. 50]* ^pg50
 
 Eulogy of the Merits 
 
@@ -504,7 +504,7 @@ never forsake and there My Presence is certain.
 
 24\. The chanting and hearing of the story of My Manifestations removes sins, grants perfect health and protects one from evil spirits; and when My martial exploit in the form of the slaughter of the wicked Daityas is listened to, men will have no fear from enemies. These hymns uttered by you, by the Divine Sages, and those by Brahmā bestow a pious mind. He who is lost on a lonesome spot in a forest, or is surrounded by forest fire, or who is surrounded by robbers in a desolate spot, or who is captured by enemies, or is being pursued by a lion or tiger, or by wild elephants in a forest, or who, under the orders of a wrathful king, is sentenced to death or imprisonment, or who is tossed about in his boat by a tempest in the vast sea, or who is in the most terrible battle under a shower of weapons, or who is amidst all kinds of dreadful troubles, or is afflicted with pain - such a man on remembering this 
 
-*[p. 12]* ^pg52
+*[p. 52]* ^pg52
 
 story of Mine is saved from his strait. Through My Power, lions etc., robbers and enemies, flee to a distance from him who remembers this story of mine.’ 
 
@@ -526,7 +526,7 @@ story of Mine is saved from his strait. Through My Power, lions etc., robbers an
 
 Here ends the Twelfth Chapter called ‘Eulogy of the Merits’ of Devī Māhātmyam in the Mārkaṇḍeya Purana, during the period of Savarni, the Manu. 
 
-*[p. 13]* ^pg53
+*[p. 53]* ^pg53
 
 The Bestowing of Boons to King Suratha and the Merchant 
 

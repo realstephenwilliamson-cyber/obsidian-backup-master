@@ -35,7 +35,7 @@ Converted from the PDF on 22 Oct 2026 (fresh OCR with Tesseract 5 of the page im
 - [[The Early Upanisads 14 - 5. Kausitaki Upanisad|5. Kausitaki Upanisad]] (pp. 324–362)
 - [[The Early Upanisads 15 - 6. Kena Upanisad|6. Kena Upanisad]] (pp. 363–371)
 - [[The Early Upanisads 16 - 7. Katha Upanisad|7. Katha Upanisad]] (pp. 372–404)
-- [[The Early Upanisads 17 - 8. Isa Upanisad|8. Isa Upanisad]] (pp. 405–18)
+- [[The Early Upanisads 17 - 8. Isa Upanisad|8. Isa Upanisad]] (pp. 405–412)
 - [[The Early Upanisads 18 - 9. Svetasvatara Upanisad|9. Svetasvatara Upanisad]] (pp. 413–433)
 - [[The Early Upanisads 19 - 10. Mundaka Upanisad|10. Mundaka Upanisad]] (pp. 434–456)
 - [[The Early Upanisads 20 - 11. Prasna Upanisad|11. Prasna Upanisad]] (pp. 457–472)

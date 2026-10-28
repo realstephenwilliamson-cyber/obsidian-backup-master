@@ -195,7 +195,7 @@ Mohayaitau durādharṣhā vasurau Madhu Kaiṭabhau ||
 
 O Devi, being lauded thus, bewitch these two unassailable Asuras Madhu and Kaitabha with Your Superior Powers. 
 
-*[p. 1]* ^pg8
+*[p. 8]* ^pg8
 
 Prabodham cha jagat-svāmī nīyatām achyuto laghu ||
 *86* Bodhaśh-cha kriya tāmasya hantum-etau mahāsurau ||
@@ -213,7 +213,7 @@ Here ends the Brahma-stuti.
 
 Here ends the First Chapter called 'The Slaying of Madhu and Kaitabha' of Devī Māhātmyam in Mārkaṇḍeya Purāṇa, during the period of Savarni, the Manu. 
 
-*[p. 2]* ^pg9
+*[p. 9]* ^pg9
 
 The Slaughter of the Armies of Mahiṣhāsura 
 
@@ -277,7 +277,7 @@ gave a spotless Sword and a Shield.
 
 41\. Then began a battle between that Devi and the enemies of the Devas, in which the quarters of the sky were illumined by the weapons and arms hurled on both sides. Mahiṣhāsura's general, a great Asura named Chikṣhura, and Chāmara, attended by forces comprising the four parts *(Infantry, Cavalry,* *Chariots and Elephants)*, and other Asuras fought. A great Asura named Udagra with sixty thousand chariots, and Mahāhanu with ten million chariots gave battle. Asiloman, another great Asura, with fifteen million chariots, and Baskala with six million fought in that battle. Privarita with many thousands of 
 
-*[p. 1]* ^pg12
+*[p. 12]* ^pg12
 
 elephants and horses, and surrounded by ten million chariots, fought in that battle. An Asura named Bidala fought in that battle surrounded with five hundred crores of chariots. And other great Asuras, thousands in number, surrounded with chariots, elephants and horses fought with the Devi in that battle. 
 
@@ -287,7 +287,7 @@ elephants and horses, and surrounded by ten million chariots, fought in that bat
 
 59\. Pierced in the breast by Her trident, some fell on the ground. Pierced all over by Her arrows and resembling porcupines, some of the enemies of the Devas gave up their lives on that field of battle. Some had their arms cut off, some, their necks broken the heads of others rolled down; some others were torn asunder in the middle of their trunks, and some great Asuras fell on the ground with their legs severed. 
 
-*[p. 2]* ^pg13
+*[p. 13]* ^pg13
 
 62\. Some rendered one-armed, one-eyed, and one-legged were again clove in twain by the Devi. And others, though rendered headless, fell and rose again. 
 
@@ -303,7 +303,7 @@ Some of these headless trunks danced there in the battle to the rhythm of the mu
 
 Here ends the Second Chapter called 'Slaughter of the Armies of Mahiṣhāsura' of Devī Māhātmyam in Mārkaṇḍeya Purāṇa, during the period of Savarni, the Manu. 
 
-*[p. 3]* ^pg14
+*[p. 14]* ^pg14
 
 The Slaying of Mahiṣhāsura 
 
@@ -664,7 +664,7 @@ Kara pallava saṅgīni tairasmān rakṣha sarvataḥ ||
 
 Here ends the Śhrī Shukr’ādi Stuti. 
 
-*[p. 4]* ^pg24
+*[p. 24]* ^pg24
 
 28\. The Ṛiṣhi said: ‘Thus the Supporter of the Worlds was praised by the Devas, worshipped with Celestial Flowers that blossomed in Nandana and with perfumes and unguents; and with devotion all of them offered Her - Heavenly incense. Benignly serene in countenance She spoke to all obeisant Devas. 
 
@@ -682,7 +682,7 @@ Gratified immensely with these hymns, I grant it with great pleasure ' 33. The D
 
 Here ends the Fourth Chapter called ‘The Devi Stuti’ of the Devī Māhātmyam in Mārkaṇḍeya Purāṇa during the period of Savarni, the Manu. 
 
-*[p. 5]* ^pg25
+*[p. 25]* ^pg25
 
  Devi's conversation with the messenger 
 
@@ -884,7 +884,7 @@ the noose of the ocean-king is among Your brother's possessions. Niśhumbha has 
 
 108\. He says, ‘All the Three Worlds are mine and the Devas are obedient to me. I enjoy all their hares in sacrifices separately. ‘All the choicest gems in the Three Worlds are in my possession; and so is the gem of elephants, Airavata, the vehicle of the King of Devas carried away be me. The Devas themselves offered to me with salutations that gem of horses named Ucchaih-śhravas which arose at the churning of the Milk-ocean. 
 
-*[p. 5]* ^pg30
+*[p. 30]* ^pg30
 
 111\. O Beautiful Lady, whatever other rare objects there existed among the Devas, the Gandharvas and Nāgas are now with me. We look upon You, O Devi, as the jewel of womankind in the world. You who are such, come to me, since we are the enjoyers of the best objects. 
 
@@ -902,7 +902,7 @@ the noose of the ocean-king is among Your brother's possessions. Niśhumbha has 
 
 Here ends the Fifth Chapter called 'Devi's Conversation with the Messenger' of the Devī Māhātmyam in the Mārkaṇḍeya Purāṇa during the period of Savarni, the Manu. 
 
-*[p. 6]* ^pg31
+*[p. 31]* ^pg31
 
 The Slaying of Dhūmra-lochana 
 
@@ -930,7 +930,7 @@ distressed when dragged by Your hair.' 10. The Devi said: ‘You are sent by the
 
 16\. Some Asuras, it slaughtered with a blow of its fore paw, others with its mouth, and other great Asuras, by treading over with its hind legs. 
 
-*[p. 6]* ^pg32
+*[p. 32]* ^pg32
 
 17\. The lion, with its claws, tore out the hearts of some and severed heads with a blow of the paw. 
 
@@ -946,7 +946,7 @@ distressed when dragged by Your hair.' 10. The Devi said: ‘You are sent by the
 
 Here ends the Sixth Chapter called 'The Slaying of Dhūmra-lochana' of Devī Māhātmyam in the Mārkaṇḍeya Purāṇa during the period of Savarni, the Manu. 
 
-*[p. 7]* ^pg33
+*[p. 33]* ^pg33
 
 The Slaying of Chaṇḍa and Muṇḍa 
 
@@ -972,7 +972,7 @@ Her countenance then became dark as ink. Out from the surface of Her forehead, f
 
 14\. She destroyed all that host of mighty and evil-natured Asuras, devoured some and battered others. 
 
-*[p. 7]* ^pg34
+*[p. 34]* ^pg34
 
 15\. Some were killed with Her word, some were beaten with Her skull-topped staff, and other Asuras met their death being ground with the edge of Her teeth. 
 
@@ -998,7 +998,7 @@ Her countenance then became dark as ink. Out from the surface of Her forehead, f
 
 Here ends the Seventh Chapter called 'The slaying of Chaṇḍa and Muṇḍa' of Devī Māhātmyam in Mārkaṇḍeya Purāṇa, during the period of Savarni, the Manu. 
 
-*[p. 8]* ^pg35
+*[p. 35]* ^pg35
 
 The Slaying of Raktabīja 
 
@@ -1080,7 +1080,7 @@ overwhelmed the noises of Her bow-string, Lion and Bell by Her terrific roars.
 
 47\. Vaiṣhṇavī struck him with Her discus in the battle, Aindrī beat that Lord of Asuras with Her club. The world was pervaded by thousands of great Asuras of his stature and who rose up from the blood that flowed from him when cloven by the discus of Vaiṣhṇavī. 
 
-*[p. 8]* ^pg38
+*[p. 38]* ^pg38
 
 49\. Kaumarī struck the great Asura Raktabīja with Her spear, Vārāhī with Her sword, and Māheśhvarī with Her trident. 
 
@@ -1108,7 +1108,7 @@ So shall this Daitya, with his blood emptied, perish.
 
 Here ends the Eighth Chapter called 'The Slaying of Raktabīja' of Devī Māhātmyam in Mārkaṇḍeya Purāṇa, during the period of Savarni, the Manu. 
 
-*[p. 9]* ^pg39
+*[p. 39]* ^pg39
 
 The Slaying of Niśhumbha 
 

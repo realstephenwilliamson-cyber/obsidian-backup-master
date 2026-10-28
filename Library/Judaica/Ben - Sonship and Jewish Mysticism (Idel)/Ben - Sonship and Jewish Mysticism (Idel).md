@@ -27,4 +27,4 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 - [[Ben - Sonship and Jewish 08 - Concluding Remarks|Concluding Remarks]] (pp. 584–643)
 - [[Ben - Sonship and Jewish 09 - Appendix|Appendix]] (pp. 644–669)
 - [[Ben - Sonship and Jewish 10 - Bibliography|Bibliography]] (pp. 670–695)
-- [[Ben - Sonship and Jewish 11 - Index|Index]] (pp. 696–723)
+- [[Ben - Sonship and Jewish 11 - Index|Index]] (pp. 696–725)

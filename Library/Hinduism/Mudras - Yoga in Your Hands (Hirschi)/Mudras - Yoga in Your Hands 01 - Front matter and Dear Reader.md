@@ -4,7 +4,7 @@ work: "[[Hirschi - Mudras - Yoga in Your Hands]]"
 book: "[[Library/Hinduism/Mudras - Yoga in Your Hands (Hirschi)/Mudras - Yoga in Your Hands (Hirschi)|Mudras - Yoga in Your Hands (Hirschi)]]"
 order: 1
 source_pdf: Library/Hinduism/Gertrud Hirschi - Mudras_ Yoga in Your Hands-Red Wheel_Weiser (2000).pdf
-page_range: 1–xv
+page_range: "vi–xv"
 pdf_pages: 1–12
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07
@@ -99,7 +99,7 @@ What Are Mudras?
 
 2 Origin of Mudras 5 Breathing, Visualization, and Affirmations to Enhance the Mudras 13 Mudras and Music 16 Mudras and Color 18 Using Mudras to Heal Physical Complaints 20 Mudras and Healing Emotional Problems 22 Mudras and Other Hand Therapies 25 My Personal Experiences 40 Mudras and Meditation 43 Mudras for Recharging Energy Reserves 43 Mudras for Coming to Terms with the Past Mudras for Improving Relationships 
 
-*[p. v]* ^pg4
+*[p. vi]* ^pg4
 
 CONTENTS 
 

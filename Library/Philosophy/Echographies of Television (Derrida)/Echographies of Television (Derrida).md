@@ -18,6 +18,6 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (eng); the PDF'
 
 ## Contents
 
-- [[Echographies of Television 01 - Part 1|Part 1]] (pp. vi–73)
+- [[Echographies of Television 01 - Part 1|Part 1]] (pp. v–73)
 - [[Echographies of Television 02 - Part 2|Part 2]] (pp. 74–153)
 - [[Echographies of Television 03 - Part 3|Part 3]] (pp. 154–174)

@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (ABBYY FineReade
 
 ## Contents
 
-- [[Mudras - Yoga in Your Hands 01 - Front matter and Dear Reader|Front matter and Dear Reader]] (pp. 1–xv)
+- [[Mudras - Yoga in Your Hands 01 - Front matter and Dear Reader|Front matter and Dear Reader]] (pp. vi–xv)
 - [[Mudras - Yoga in Your Hands 02 - Dear Reader (end), What Are Mudras - Breathing, Visualization, and Affirmations|Dear Reader (end), What Are Mudras? – Breathing, Visualization, and Affirmations]] (pp. 13–26)
 - [[Mudras - Yoga in Your Hands 03 - Breathing, Visualization, and Affirmations (end), Mudras and Music - Mudras and Other Hand Therapies|Breathing, Visualization, and Affirmations (end), Mudras and Music – Mudras and Other Hand Therapies]] (pp. 14–42)
 - [[Mudras - Yoga in Your Hands 04 - Mudras and Other Hand Therapies (continued)|Mudras and Other Hand Therapies (continued)]] (pp. 43–39)

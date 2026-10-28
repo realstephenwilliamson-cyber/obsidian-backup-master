@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[Ideas Pertaining to a Pure Phenomenology (Husserl)|contents]] · [[Ideas Pertaining to a Pure 02 - Part 2|next →]]
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 EDMUND HUSSERL EDMUND HUSSERL COLLECTED WORKS IDEAS PERTAINING TO A PURE
 
@@ -42,7 +42,7 @@ First Book: General Introduction to a Pure Phenomenology
 
 HUSSERL ARCHIVES (LOUVAIN) THE HAGUE / BOSTON / LANCASTER
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 Translation of Edmund Hussert, /deen zu einer reinen Phénomenologie und phdnomenologischen Philosophie, I. Buch: Allgemeine Einfiihrung in die reine Phénomenologie. Halle a. d. S., Max Niemeyer Verlag, 1913. With corrections and supplementary materials (in footnotes) from Edmund Husserl, /deen zu einer reinen Phanomenologie und phanomenologischen Philosophie, 1. Buch:
 
@@ -156,7 +156,7 @@ XVII
 
 31
 
-*[p. vi]* ^pg3
+*[p. vi–vii]* ^pg3
 
 8 8
 
@@ -396,7 +396,7 @@ Attitude.
 
 14\)
 
-*[p. 4]* ^pg4
+*[p. viii–ix]* ^pg4
 
 ON OP WON WO Won
 
@@ -642,7 +642,7 @@ Modifications. The Universal Concept of Positing Syntheses of Consciousness. Syn
 
 278 283 285 287 288 291 293 294
 
-*[p. x]* ^pg5
+*[p. x–xi]* ^pg5
 
 § 126. Completeness and Universality of Expression Lone .
 
@@ -755,13 +755,13 @@ Index to Proper Names Analytic Subject Index .
 148\. § 148. Problems of the Theory of Reason Pertaining to Formal Ontology 329 333 340
 
 
-*[p. 6]* ^pg6
+*[PDF 6]* ^pg6
 
 Edmund Husserl’s \[deen zu einer reinen Phanomenologie und phanomenologischen Philosophie, Erstes Buch: Allgemeine Einfuhrung in die reine Phano-menologte, was first published in 1913 in the first volume of Jahrbuch fur Philosophie und phanomenologische Forschung, edited by Edmund Husserl, Adolf Reinach, Max Scheler, Moritz Geiger and Alexander Pfander (Halle: Max Niemeyer), pp. 1-323. In 1922 the book was reprinted with an ‘“‘Ausfiihrliches Sachregister” prepared by Gerda Walther. Reprinted again in 1928, the book contained a ‘“‘Sachregis-ter” prepared by Ludwig Landgrebe replacing that of Gerda Walther. A new edition of the book was published in 1950 by Martinus Nijhoff, The Hague. Edited by Walter Biemel, the title page states that the edition is a ““Neu, auf Grund der handschriftlichen Zusatze des Verfassers erweiterte Auflage.”’ This edition, published as Volume III of Edmund Husserl, Gesammelte Werke (Hus-serliana) included additions, insertions and marginal notes of Husserl which were either run into the text itself or printed in a section of “Textkritische Anmerkungen” (pp. 463-483). Much of this supplementary material was taken from three copies of Ideen which Husserl annotated between 1913 and 1929. Biemel also included as appendices manuscripts of Husserl in which he either developed further certain ideas in the text or else tried to rewrite existing sections of the book.
 
 In 1976 Biemel’s edition was replaced by one edited by Dr. Karl Schuhmann (Husserliana III, 1 and III, 2), also published by Mar-tinus Nijhoff. This new edition establishes a corrected text of the three editions printed during Husserl’s lifetime and contains, in a second volume, revised and corrected texts of the supplementary material found in Biemel’s edition along with material not found in that edition. In addition to reproducing Husserl’s annotations in still
 
-*[p. xiv]* ^pg7
+*[p. xiv–xv]* ^pg7
 
 another copy of /deen (the copies are identified as Copies A, B, C, D),?
 
@@ -815,7 +815,7 @@ elevate its specific peculiarity and that of the natural attitudes into the scie
 
 During the last decade much has been said in German philosophy <2) and psychology about phenomenology. In supposed agreement with
 
-*[p. xviii]* ^pg9
+*[p. xviii–xix]* ^pg9
 
 the Logische Untersuchungen,’ phenomenology has been conceived as a substratum of empirical psychology, as a sphere comprising “‘immanental”’ descriptions of psychical mental processes, a sphere comprising descriptions that — so the immanence in question is understood
 
@@ -841,7 +841,7 @@ nology in our peculiar sense.
 
 ‘Insertion in Copy D: the Ego and 5 Insertion in Copy D; Ego- <3>
 
-*[p. xx]* ^pg10
+*[p. xx–xxi]* ^pg10
 
 <4)
 
@@ -901,7 +901,7 @@ problems.
 
 <5)
 
-*[p. xxii]* ^pg11
+*[p. xxii–xxiii]* ^pg11
 
 <6)
 
@@ -953,7 +953,7 @@ accessible intuitions; because, rather, in general long investigations
 
 must precede their definitive clarifications and determinations: combined ways of speaking are therefore frequently indispensable which arrange together a plurality of expressions of common discourse which are in use in approximately the same sense and which give terminological pre-eminence to single expressions of this sort. One cannot define in philosophy as in mathematics; any imitation of mathematical procedure in this respect is not only unfruitful but wrong, and has most injurious consequences. For the rest, each of the above terminological expressions is to receive its fixed sense by means of a determinate, intrinsically evident validation of that sense in the deliberations to be carried out. Meanwhile, circumstantial critical comparisons with the philosophical tradition in this respect, as in all others, must be renounced if only because of the length of this work.
 
-*[p. 12]* ^pg12
+*[PDF 12]* ^pg12
 
 FIRST BOOK <7)
 
@@ -961,13 +961,13 @@ GENERAL INTRODUCTION TO A PURE
 
 PHENOMENOLOGY
 
-*[p. 13]* ^pg13
+*[PDF 13]* ^pg13
 
 PART ONE
 
 ESSENCE AND EIDETIC COGNITION
 
-*[p. 14]* ^pg14
+*[PDF 14]* ^pg14
 
 MATTER OF FACT AND ESSENCE
 

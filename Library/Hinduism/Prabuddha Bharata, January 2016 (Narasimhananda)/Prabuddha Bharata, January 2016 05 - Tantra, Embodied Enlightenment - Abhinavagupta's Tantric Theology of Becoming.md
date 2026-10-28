@@ -133,7 +133,7 @@ The Theology of Mahakali
 
 According to tantric doctrine, a determined. attempt to see through the duality and into the underlying unified field of consciousness and energy that inheres in, and surrounds us at all levels is the only course of action to take in order to break through the conditioning of both human culture and our physical-biological limitations which, together, impose the dualistic perception on our consciousness. Such a perception is 
 
-*[p. 486]* ^pg186
+*[p. 176]* ^pg186
 
 contrary to both the natural and societal sensibilities under which we humans function. Thus, what is needed is a methodology by which we can surpass our dualistic mode of understanding and see through the sense perceptions as well as the culturally induced conditioning to the ineffable unified reality underlying phenomenal 
 
@@ -277,7 +277,7 @@ Lord Venkatesh
 
 vara Temple at Tirupetti 
 
-*[p. 492]* ^pg192
+*[p. 182]* ^pg192
 
 Tirupati Bala} is visited daily by thousands of pilgrims in his temple in Tirupati, south India, is always seen adorned with genuine diamonds, rubies, and gold finery. 
 

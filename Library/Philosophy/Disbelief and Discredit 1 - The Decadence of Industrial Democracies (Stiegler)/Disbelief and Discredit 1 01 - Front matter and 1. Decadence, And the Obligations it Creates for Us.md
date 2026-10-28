@@ -4,7 +4,7 @@ work: "[[Stiegler - Disbelief and Discredit (vols 1-3)]]"
 book: "[[Library/Philosophy/Disbelief and Discredit 1 - The Decadence of Industrial Democracies (Stiegler)/Disbelief and Discredit 1 - The Decadence of Industrial Democracies (Stiegler)|Disbelief and Discredit 1 - The Decadence of Industrial Democracies (Stiegler)]]"
 order: 1
 source_pdf: Library/Philosophy/Stiegler - The Decadence of Industrial Democracies, Disbelief and Discredit 1 (2011).pdf
-page_range: 2–35
+page_range: "1–35"
 pdf_pages: 1–20
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF
 converted: 2026-10-07
@@ -15,7 +15,7 @@ converted: 2026-10-07
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's OCR layer (Adobe Acrobat Paper Capture), not a born-digital text: words can be misread, and some passages may be marked illegible. For exact readings, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 ## The Decadence of Industrial Democracies
 
@@ -33,7 +33,7 @@ and Suzanne Arnold
 
 polity 
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 First published in French as *Mecniance et Discredit, tome 1: La decadence des CB* 
 
@@ -71,7 +71,7 @@ Contents
 
 *Index* 184 
 
-*[p. 3]* ^pg3
+*[p. 1]* ^pg3
 
 They have admired things that are hardly ever admired now, have seen truths living that are now nearly dead, have in fact speculated on values whose decline or collapse is as clear, as manifest, and as ruinous to their hopes and beliefs as the decline or collapse of the 
 

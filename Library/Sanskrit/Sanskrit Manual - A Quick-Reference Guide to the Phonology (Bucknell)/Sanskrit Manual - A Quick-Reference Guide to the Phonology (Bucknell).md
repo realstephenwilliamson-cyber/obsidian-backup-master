@@ -20,7 +20,7 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 
 ## Contents
 
-- [[Sanskrit Manual - 01 - Part 1|Part 1]] (pp. xiv–63)
+- [[Sanskrit Manual - 01 - Part 1|Part 1]] (pp. x–63)
 - [[Sanskrit Manual - 02 - Part 2|Part 2]] (pp. 64–143)
 - [[Sanskrit Manual - 03 - Part 3|Part 3]] (pp. 144–223)
 - [[Sanskrit Manual - 04 - Part 4|Part 4]] (pp. 224–255)

@@ -17,5 +17,5 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Theatre, Acting and the Image 01 - Front matter|Front matter (Theatre, Acting and the Image of the Actor in Abhinavagupta’s Tantric Sources, A)]] (pp. 1–vi)
+- [[Theatre, Acting and the Image 01 - Front matter|Front matter (Theatre, Acting and the Image of the Actor in Abhinavagupta’s Tantric Sources, A)]] (pp. i–vi)
 - [[Theatre, Acting and the Image 02 - Theatre, Acting and the Image of the Actor in Abhinavagupta's|Theatre, Acting and the Image of the Actor in Abhinavagupta’s Tantric Sources\*]] (pp. 451–493)

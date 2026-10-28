@@ -4,7 +4,7 @@ work: "[[Balslev (ed.) - Religion and Time]]"
 book: "[[Library/Other/Religion and Time (Balslev)/Religion and Time (Balslev)|Religion and Time (Balslev)]]"
 order: 2
 source_pdf: Library/Other/Balslev, Mohanty (eds.) - Religion and Time (1993).pdf
-page_range: " 1–16"
+page_range: "1–16"
 pdf_pages: 9–24
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08
@@ -15,7 +15,7 @@ converted: 2026-10-08
 > [!note] Text from the PDF's OCR layer
 > This text is the PDF's earlier OCR layer, with its junk words replaced from a fresh OCR of the page images. The English is reliable. Transliterated Sanskrit keeps its diacritics, but some may be misread, and Devanagari may be misread or marked [illegible]. For exact Sanskrit, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p.  1]* ^pg9
+*[p. 1]* ^pg9
 
 ## Introduction
 

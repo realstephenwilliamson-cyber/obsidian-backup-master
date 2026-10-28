@@ -4,7 +4,7 @@ work: "[[Bucknell - Sanskrit Manual]]"
 book: "[[Library/Sanskrit/Sanskrit Manual - A Quick-Reference Guide to the Phonology (Bucknell)/Sanskrit Manual - A Quick-Reference Guide to the Phonology (Bucknell)|Sanskrit Manual - A Quick-Reference Guide to the Phonology (Bucknell)]]"
 order: 1
 source_pdf: Library/Sanskrit/18 Sanskrit Manual A Quick-Reference Guide.pdf
-page_range: xiv–63
+page_range: "x–63"
 pdf_pages: 1–40
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08
@@ -15,7 +15,7 @@ converted: 2026-10-08
 > [!note] Text from the PDF's OCR layer
 > This text is the PDF's earlier OCR layer, with its junk words replaced from a fresh OCR of the page images. The English is reliable. Transliterated Sanskrit keeps its diacritics, but some may be misread, and Devanagari may be misread or marked [illegible]. For exact Sanskrit, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 \+ 
 
@@ -35,7 +35,7 @@ f
 
 RODERICK S. BUCKNEL
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 A Quick-reference Guide to the Phonology 
 
@@ -51,7 +51,7 @@ TIS
 
 PRIVATE LIMITED è DELHI 
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 MOTILAL BANARSIDASS PUBLISHERS PRIVATE LIMITED 
 
@@ -139,7 +139,7 @@ Abbreviations sun erste
 
 एधा Tae Ai E. PRE 
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
 LIST OF TABLES 
 
@@ -241,7 +241,7 @@ Index to noun/adjective endings + ~ +
 
 28. 29. + च
 
-*[p. 5]* ^pg5
+*[PDF 5]* ^pg5
 
 This book is designed to serve as a convenient quick-reference guide to the grammar of Classical Sanskrít, for the use of university students and others. Itis not intended to be a complete grammar of the language. Rather, its purpose is to present, mainly in the form of easily read tables, essential reference information such as the rules of sandhi, the declensional and conjugational paradigms, and the principal parts of major verbs, About two-thirds of the book consists of tables. The remain- 
 
@@ -253,7 +253,7 @@ While still primarily intended for beginning and intermediate students, the manu
 
 Much of the difficulty encountered by students of Sanskrit is due, it can be argued, to unsatisfactory presentation. This derives largely from a tendency, on the part of those who compile Sanskrit textbooks, to accept uncritically the traditional In this grammarians’ concepts and modes of description. manual that tendency has been resisted. Certain concepts and modes of description that are very firmly established in the tradition of Sanskrit grammar are set aside in favour of ones that are self-evidently simpler and more appropriate. To this extent the present work is innovative — and no doubt also 
 
-*[p. 6]* ^pg6
+*[p. x–xi]* ^pg6
 
 controversial. 
 
@@ -297,7 +297,7 @@ principal classificatory criterion ought tọ be the pattern of
 
 conjugational endings attached to the stem. The manner ìn which the stem itself is derived from the root is rightly treated as a secondary consideration. The classification adopted here recognizes this: the verbs traditionally classed as 1, 4, important, and important are treated as a single class, termed ‘the -atì class’ after theìr characteristic ending (.९. the ending ìn the most important 
 
-*[p. 7]* ^pg7
+*[p. xii–xiii]* ^pg7
 
 Sanskrit Manual 
 
@@ -337,7 +337,7 @@ discussion focuses on how to conjugate once this basic form is known. The identi
 
 The traditional practice of presenting verbs in terms of derivation from roots has another major disadvantage: Ìt depends on, and thus reinforces, the very unsatisfactory traditional account of vowel gradation. According to that account, the root (e.g. ji) is in the fundamental grade, and it yields the present stem (ji -> je-, jay-) by being raised or strengthened to the guna grade. Now, according to the findings of historical linguistics, the mechanism of vowel gradation is actually the reverse of that just described: in reality the guna grade (as ìn the present indicative jayati, infinitive jetum, etc.) is the source, 
 
-*[p. xiv]* ^pg8
+*[p. xiv–xv]* ^pg8
 
 while the fundamental grade (as in the perfect passive participle jìta- and the root jì) is derived from it by reduction or weakenìng (cf. Mayrhofer, p. 37). The traditional account has it back to front. 
 

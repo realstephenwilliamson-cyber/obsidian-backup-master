@@ -17,4 +17,4 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 ## Contents
 
 - [[The Devi Mahatmyam 01 - Part 1|Part 1]] (pp. 1–40)
-- [[The Devi Mahatmyam 02 - Part 2|Part 2]] (pp. 9–55)
+- [[The Devi Mahatmyam 02 - Part 2|Part 2]] (pp. 41–55)

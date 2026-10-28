@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/American Friends Service Committee - Speak Truth to 
 book: "[[Library/Philosophy/Speak Truth to Power (American Friends Service Committee)/Speak Truth to Power (American Friends Service Committee)|Speak Truth to Power (American Friends Service Committee)]]"
 order: 8
 source_pdf: "Library/Philosophy/American Friends Service Committee - Speak Truth to Power (1955).pdf"
-page_range: "v–71"
+page_range: "49–71"
 pdf_pages: "58–84"
 text_source: "the PDF's OCR text layer (Acrobat), PyMuPDF"
 converted: 2026-10-22
@@ -12,7 +12,7 @@ converted: 2026-10-22
 
 [[Speak Truth to Power 07 - IV. Alternative to Violence|← previous]] · [[Speak Truth to Power (American Friends Service Committee)|contents]]
 
-*[p. v]* ^pg58
+*[p. 49]* ^pg58
 
 ## V. A Choice with Hope
 

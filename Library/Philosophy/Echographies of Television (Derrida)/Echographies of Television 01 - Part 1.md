@@ -4,7 +4,7 @@ work: "[[Derrida, Stiegler - Echographies of Television]]"
 book: "[[Library/Philosophy/Echographies of Television (Derrida)/Echographies of Television (Derrida)|Echographies of Television (Derrida)]]"
 order: 1
 source_pdf: Library/Philosophy/Echographies of Television Filmed Interviews (2002).pdf
-page_range: vi–73
+page_range: "v–73"
 pdf_pages: 1–40
 text_source: fresh OCR with Tesseract 5 (eng); the PDF's own OCR layer was not usable (right-hand pages of the spreads missing)
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[Echographies of Television (Derrida)|contents]] · [[Echographies of Television 02 - Part 2|next →]]
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 ECHOGRAPHIES OF TELEVISION
 
@@ -26,7 +26,7 @@ Translated by Jennifer Bajorek
 
 polity
 
-*[p. 2]* ^pg2
+*[p. v]* ^pg2
 
 Copyright this translation Polity Press 2002. First published in France as Echographies de la télévision. Entretiens filmés, © Editions Galilée, 1996.
 
@@ -94,7 +94,7 @@ Notes vi vill
 
 145
 
-*[p. vi]* ^pg3
+*[p. vi–vii]* ^pg3
 
 ILLUSTRATIONS
 
@@ -158,7 +158,7 @@ Lioret, © INA)
 
 138
 
-*[p. 4]* ^pg4
+*[p. viii]* ^pg4
 
 TRANSLATOR’S NOTE
 

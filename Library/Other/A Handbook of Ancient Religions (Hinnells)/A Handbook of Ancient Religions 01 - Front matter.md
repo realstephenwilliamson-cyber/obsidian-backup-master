@@ -4,7 +4,7 @@ work: "[[Hinnells (ed.) - A Handbook of Ancient Religions]]"
 book: "[[Library/Other/A Handbook of Ancient Religions (Hinnells)/A Handbook of Ancient Religions (Hinnells)|A Handbook of Ancient Religions (Hinnells)]]"
 order: 1
 source_pdf: Library/Other/Hinnells (ed.) - A Handbook of Ancient Religions (CUP 2007).pdf
-page_range: Cover–xii
+page_range: "i–xii"
 pdf_pages: 1–14
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -14,7 +14,7 @@ converted: 2026-10-07
 
 *[p. Cover]* ^pg1
 
-*[p. c]* ^pg2
+*[PDF 2]* ^pg2
 
 This page intentionally left blank
 

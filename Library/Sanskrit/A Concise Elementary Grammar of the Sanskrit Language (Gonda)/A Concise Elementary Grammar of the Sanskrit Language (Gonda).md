@@ -20,7 +20,7 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 
 ## Contents
 
-- [[A Concise Elementary Grammar 01 - Front matter|Front matter (Cover, Titel, Contens, Translator's Preface, The Script, Reading Exercise)]] (pp. i–7)
+- [[A Concise Elementary Grammar 01 - Front matter|Front matter (Cover, Titel, Contens, Translator's Preface, The Script, Reading Exercise)]] (pp. 2–7)
 - [[A Concise Elementary Grammar 02 - Phonology|Phonology]] (pp. 8–19)
 - [[A Concise Elementary Grammar 03 - Declension|Declension]] (pp. 20–41)
 - [[A Concise Elementary Grammar 04 - Conjugation|Conjugation]] (pp. 42–79)

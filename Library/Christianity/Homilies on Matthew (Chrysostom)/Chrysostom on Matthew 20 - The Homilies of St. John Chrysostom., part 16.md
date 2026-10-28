@@ -122,7 +122,7 @@ And again passing an opposite sentence, to some He will answer, “Depart into t
 
 [[Matthew 17#^17-9|Matt. xvii. 9]]. \[In the last clause “the Son of Man” is omitted, and ἀναστ is substituted for ἐγερθμεσολαβοντο 2206 . 2207 [[Matthew 25#^25-34|Matt. xxv. 34]], [[Matthew 25#^25-35|35]]. 2208 [[Matthew 25#^25-23|Matt. xxv. 23]]. 2209 [[Matthew 25#^25-41|Matt. xxv. 41]].
 
-2210 [[Matthew 25#^25-26|Matt. xxv. 26]]. 2211 [[Matthew 22#^22-13|Matt. xxii. 13]]. 335 2213 [[Hebrews 04#^4-13|Heb. iv. 13]]. 2214 Is. lviii. 6. Is. lviii. 7.
+2210 [[Matthew 25#^25-26|Matt. xxv. 26]]. 2211 [[Matthew 22#^22-13|Matt. xxii. 13]]. 2212 [[Matthew 13#^13-43|Matt. xiii. 43]].
 
 
 *[p. 610]* ^pg618
@@ -146,6 +146,9 @@ Then implying that virtue is easy, but vice grievous and galling, he makes it ou
 “Set at liberty them that are bruised;” them that are afflicted. For such a being is the debtor; when he sees his creditor, his mind is broken, and he fears him more than a wild beast.
 
 “Bring in the poor that are cast out to thy house; if thou seest one naked, clothe him, and them that belong to thy seed thou shalt not overlook.”<sup>2215</sup>
+
+335 2213 [[Hebrews 04#^4-13|Heb. iv. 13]]. 2214 Is. lviii. 6. 2215 Is. lviii. 7.
+
 
 *[p. 611]* ^pg619
 

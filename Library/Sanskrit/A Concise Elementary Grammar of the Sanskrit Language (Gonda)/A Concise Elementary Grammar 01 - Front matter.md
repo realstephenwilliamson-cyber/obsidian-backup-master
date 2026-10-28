@@ -4,7 +4,7 @@ work: "[[Gonda - A Concise Elementary Grammar of the Sanskrit Language]]"
 book: "[[Library/Sanskrit/A Concise Elementary Grammar of the Sanskrit Language (Gonda)/A Concise Elementary Grammar of the Sanskrit Language (Gonda)|A Concise Elementary Grammar of the Sanskrit Language (Gonda)]]"
 order: 1
 source_pdf: Library/Sanskrit/Gonda, Ford (tr.) - A Concise Elementary Grammar of the Sanskrit Language.pdf
-page_range: i–7
+page_range: "2–7"
 pdf_pages: 1–8
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08
@@ -15,7 +15,7 @@ converted: 2026-10-08
 > [!note] Text from the PDF's OCR layer
 > This text is the PDF's earlier OCR layer, with its junk words replaced from a fresh OCR of the page images. The English is reliable. Transliterated Sanskrit keeps its diacritics, but some may be misread, and Devanagari may be misread or marked [illegible]. For exact Sanskrit, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 ## Cover
 
@@ -29,7 +29,7 @@ Sanskrit Language
 
 Translāted trom the German by Gordon B. Ford, Jr. 
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 ## Titel
 
@@ -55,7 +55,7 @@ LEIDEN
 
 E. J. BRILL 
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 ## Contens
 
@@ -93,7 +93,7 @@ Copyright 1966 by E. J. Brill, Leiden, Netherlands All righis reserved, No part 
 
 PRINTED IN THE NETHERLANDS 
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
 ## Translator's Preface
 
@@ -105,7 +105,7 @@ Evanston, February 1066.
 
 GORDON B. 0), JR. 
 
-*[p. i]* ^pg5
+*[PDF 5]* ^pg5
 
 ## The Script
 

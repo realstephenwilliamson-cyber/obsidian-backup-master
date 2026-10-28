@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[A Handbook of Ancient Religions 01 - Front matter|Front matter (Front matter, Half-title, Title, Copyright, Contents, Illustrations, Maps, Table)]] (pp. Cover–xii)
+- [[A Handbook of Ancient Religions 01 - Front matter|Front matter (Front matter, Half-title, Title, Copyright, Contents, Illustrations, Maps, Table)]] (pp. i–xii)
 - [[A Handbook of Ancient Religions 02 - Introduction|Introduction]] (pp. 1–6)
 - [[A Handbook of Ancient Religions 03 - 1 Palaeolithic art and religion|1 Palaeolithic art and religion]] (pp. 7–45)
 - [[A Handbook of Ancient Religions 04 - 2 Ancient Egypt|2 Ancient Egypt]] (pp. 46–104)

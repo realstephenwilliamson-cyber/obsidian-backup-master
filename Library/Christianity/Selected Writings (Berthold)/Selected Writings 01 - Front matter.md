@@ -15,7 +15,7 @@ converted: 2026-10-12
 > [!note] Scan of two book pages per PDF page; OCR text
 > Each PDF page shows two book pages, so each page marker gives both page numbers. The text is the PDF's own OCR layer, except on 66 of the 130 PDF pages, where the layer had many misread words and a fresh OCR of the page images replaces it. On those pages the small raised note numbers are often lost or misread ("®" for 9), italics are lost, and on a few of them specks in the gutter come out as stray letters ("i", "Disa s"). On PDF pages 7, 9, 10, 59 and 100, where one of the two book pages is short, the lines of the two pages are mixed. The notes are printed after each work. In the indexes the columns are interleaved line by line. For exact readings, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 ## Front matter
 

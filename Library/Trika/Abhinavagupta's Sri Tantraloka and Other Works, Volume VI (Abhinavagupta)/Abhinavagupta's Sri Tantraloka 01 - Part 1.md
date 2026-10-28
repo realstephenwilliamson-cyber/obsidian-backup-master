@@ -4,7 +4,7 @@ work: "[[Singh and Maheshvarananda (tr.) - Sri Tantraloka, vol. VI]]"
 book: "[[Library/Trika/Abhinavagupta's Sri Tantraloka and Other Works, Volume VI (Abhinavagupta)/Abhinavagupta's Sri Tantraloka and Other Works, Volume VI (Abhinavagupta)|Abhinavagupta's Sri Tantraloka and Other Works, Volume VI (Abhinavagupta)]]"
 order: 1
 source_pdf: Library/Trika/Singh and Maheshvarananda - Sri Tantraloka, vol. VI, chapters 16-20 (2015).pdf
-page_range: xx–xxxi̇x
+page_range: "x–xxxix"
 pdf_pages: 1–40
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07
@@ -183,7 +183,7 @@ Both Advaita Vedānta and Tantra find their origin in the Vedas, but their detai
 
 To the best of my knowledge the present is the first complete English translation of this colossal work rendered by the combined efforts of Professor Satya ब tdi युरूष्ग्ग्डहान्तं sniker,
 
-*[p. xx]* ^pg11
+*[p. x]* ^pg11
 
 Prakash Singh and Swami Maheshvarananda with their years of practice of yoga and tantra, philosophy Eastern and Western, psychology Freudian and Jungian, Sanskrit and English. This is evident from dozens of their publications and papers ranging over areas like yoga, history and culture on A.N. Whitehead, C.G. Jung, Veda and the history of yoga, linguistics and many more. It was by virtue of deep understanding that an English translation of such a massive work as the Tantrāloka could be accomplished lucidly by these scholars after a lapse of almost a millennium from the time of Abhinavagupta himself. But for Tantrāloka, the disciplines of Yoga and Tantra would have remained only a dream in its relationship to philosophy and yoga. Tantrāloka, indeed, by virtue of its wide and integrative attempt, would have been lost for ever to the modern world getting diminished to the state of a mere cult instead of opening the doors to the mystery of human psychology and physiology.
 
@@ -381,7 +381,7 @@ How Whitehead could draw so close to Abhinava without any possibility of contact
 5\. [[Tantraloka 10.223|Tantrāloka X.223]]
 
 
-*[p. xxxi̇x]* ^pg30
+*[p. xxix]* ^pg30
 
 VI. Abhinava, Freud and Jung
 
@@ -401,7 +401,7 @@ His idea of the unconscious came to be developed owing to the trace of such outl
 
 Apart from the Upaniṣads and their tradition, it is perhaps Raman Maharshi who had the most vivid experiences of the Self independently of all external influence on him in his early youth and to have identified it in the form of the hill Aruṇāchal in his vicinity reminding the reader of the same viewpoint of Abhinavagupta concerning the mount Meru as delineated in the eighth chapter of the Tantrāloka dealing with the idea of desādhvan wherein he considers
 
-*[p. xxxi̇]* ^pg32
+*[p. xxxi]* ^pg32
 
 the mountain as the most impressive emblem, liga of Śiva placed against the background of the whole of the earth as its pedestal, yoni, representing Force as His consort. Viewed in the light of the Maharshi’s direct experience and Jung’s deduction out of the American patient’s drawings and resolution of the psychic problem, Abhinava’s view of the Meru and its pedestal can at its best be rationally explicable in terms of projection of the idea of the Self on the mountain coinciding with that of his iva eventually as a device for the commonplace understanding of Him.
 
@@ -445,7 +445,7 @@ So far as Abhinava versus Patañjali, the author of Yoga-Sūtra, is concerned he
 
 As regards Abhinava’s reference to another aphorism of Patañjali, it is understandable from his use of the phenomenon of possession of the aspirant by an evil spirit, piśāca. He has referred to this phenomenon on behalf of some text titled Mālā. Referring to this text he reports that how it has been stated there that on aspirant’s piercing through the higher cakra there is the danger of being possessed by some evil spirit which may mislead him. He has indicated to that spirit as a snake, bhujangam emerging out of mantra, nāda and vindu of supernal nature. This psychic phenomenon is comparable to the import of Patañjali’s formula, sūtra, occurring at No. 51 of the same third chapter of the text titled vibhūtipāda. Use of the word bhujanga, snake, as the characteristic feature of the agency of distraction as understood by Patañjali on arousal of attachment to
 
-*[p. xxxi̇v]* ^pg35
+*[p. xxxiv]* ^pg35
 
 the beatitude and sense of self-glorification on achieving some higher state of mind of the yogin seems to refer to the awakening of the force of kundalini in terms of Abhinava to which surprisingly enough there is no reference at all in the Yoga-Süūtra and hence Patañjali was required to characterise it as an agency of distraction at the higher state of psychic progress.
 
@@ -503,7 +503,7 @@ Since Abinavagupta belongs to the same School there is nothing surprising in fin
 
 As distinct from the lower is the higher part of it known as dvādaśānta on two
 
-*[p. xxxi̇x]* ^pg40
+*[p. xxxix]* ^pg40
 
 accounts. One of it is the gross length of the area covered in the body measuring broadly twelve finger-ends from the throat to the sagittal suture located at the crest. The second one of the reasons behind the denomination of it as such is the fact that it has been found to cover as many as twelve loci of principles. The first ladder of it is the cakra known as visuddha which controls the sound, svara. The second one is the cakra known as ājñāã which acts as the centre of dispersal of ideas and sounds corresponding to them, visarga. The third step is known as cakreśvara comprising all the consonant sounds from k to ks. The fourth one is known as vindu, the point. The Fifth is known as ardha candra. The sixth is known as ridhini nāda, the point of inhibition of sound. The seventh is nādānta, end of sound. The eighth is the locus of śakti, the force, followed by vyāpini, pervasive, and samanā, concentrative in the form of focus of mind. The next to it is the step known as sāmanasa, equipoise, which in its turn is followed by the step known as śāmbhava, related to Śambhu, which is indicated by transcendence of the point, parā-vindu. As is obvious from the denominations of these steps covering the dvādaśānta, they are related to sound and the state of soundlessness in keeping with the corresponding states of mind stopping its operation as indicated by the stoppage of sound at the end. Thus the division of all the stages of dvādaśānta is based on the idea of coordination of sound and functioning of mind as the foremost instrument of consciousness in the human personality. All these details concerning the coordination between phonology and psychology seems to have emerged in course of recitation of the sound Om in its lengthened form, pluta, along with deep contemplation on its sense as representing the entire Reality in both its phases, universal and supernal as it stands for the virtue of having been considered as the most fundamental one right from the very beginning and to have served as the stuff of creation as well as the source of the corresponding consciousness in all its modes and forms.
 

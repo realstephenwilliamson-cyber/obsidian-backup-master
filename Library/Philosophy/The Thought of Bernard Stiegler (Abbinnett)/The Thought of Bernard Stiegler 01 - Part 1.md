@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Thought of Bernard Stiegler (Abbinnett)|contents]] · [[The Thought of Bernard Stiegler 02 - Part 2|next →]]
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 R
 
@@ -26,7 +26,7 @@ Ross Abbinnett
 
 MEDIA, CULTURE AND CRITIQUE: FUTURE IMPERFECT 8 gg
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 ‘Bernard Stiegler is one of the most interesting philosophers of technology writing today and the student of Derrida of greatest relevance to the conremporary cultural scene. However, Stiegler s work has been so far available a English only in piecemeal form. Ross Abbinnett remedies that problem in this book, which provides a patient and thoughtful reconstruction of Stiegler’s entire intellectual trajectory. Here readers will acquire a deep and systematic sense of Stieglers broad conception of “technology”, which ranges from Plato's extended dream state, through the accelerated pace of modern industrial society, to the potential eclipse of the human spirit in the name of digital dexterity. Those who seck d middle way between embracing and refusing this “transhumanizing” trajectory will find much insight in this book.’
 
@@ -34,7 +34,7 @@ MEDIA, CULTURE AND CRITIQUE: FUTURE IMPERFECT 8 gg
 
 University of Warwick, UK
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 The Thought of Bernard Stiegler
 
@@ -50,7 +50,7 @@ concerned with our postmodern inheritance.
 
 Ross Abbinnett is Senior Lecturer in Social and Political Theory and Programme Director of the BA in Sociology at the University of Birmingham, UK.
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
 Media, Culture and Critique: Future Imperfect The Thought of Bernard Stiegler Series Editors:
 
@@ -76,7 +76,7 @@ Taylor & Francis Group
 
 LONDON AND NEW YORK
 
-*[p. 5]* ^pg5
+*[PDF 5]* ^pg5
 
 First published 2018 by Routledge 2 Park Square, Milton Park, Abingdon, Oxon OX14 4R.N and by Routledge TI Third Avenue, New York, NY 10017 Routledge is an imprint of the Taylor & Francis Group, an informa business © 2018 Ross Abbinnett The right of Ross Abbinnett to be identified as the author of this work has been asserted by him in accordance with sections 77 and 78 of the Copyright, Designs and Patents Act 1988.
 
@@ -96,7 +96,7 @@ Printed and bound in Great Britain by TJ International Ltd, Padstow, Comwall For
 
 Contemporary Philosophy of Technology Group at Birmingham.
 
-*[p. 6]* ^pg6
+*[PDF 6]* ^pg6
 
 Contents
 
@@ -116,7 +116,7 @@ Bibliography 186
 
 193 Index
 
-*[p. 7]* ^pg7
+*[PDF 7]* ^pg7
 
 Technology and spirit
 

@@ -4,7 +4,7 @@ work: "[[Shastri - Malini Vijayottara Tantra]]"
 book: "[[Library/Trika/Malini Vijayottara Tantra (Shastri)/Malini Vijayottara Tantra (Shastri)|Malini Vijayottara Tantra (Shastri)]]"
 order: 10
 source_pdf: Library/Trika/Malini Vijayottara Tantra Eng Translation 1956 - Vishnu Datt Shastri.pdf
-page_range: "247–252; 1–32"
+page_range: "247–252; 1–31"
 pdf_pages: 361–400
 text_source: fresh OCR with Tesseract 5, English model, of the page images, each page straightened and enlarged first (15 Oct 2026; replaces the reading of 8 Oct, whose Sanskrit model put Devanagari and digits into the English)
 converted: 2026-10-08
@@ -836,11 +836,11 @@ Sidyojata XX 49... 7%. .. Sarvatita TT AS) OAV BBs
 
 a 4s \$ nal elt nh mr a Tay : Mp! SEARS eee b aw ont ae
 
-*[p. 31]* ^pg398
+*[PDF 398]* ^pg398
 
 *(no text read on this page)*
 
-*[p. 32]* ^pg399
+*[p. 31]* ^pg399
 
 Shavesa II 138, 17, 21, #82, Samudra III 37,
 

@@ -29,4 +29,4 @@ Converted from the PDF on 8 Oct 2026; text read again on 15 Oct 2026 (fresh OCR 
 - [[Malini Vijayottara Tantra 07 - Part 7|Part 7]] (pp. 127–166)
 - [[Malini Vijayottara Tantra 08 - Part 8|Part 8]] (pp. 167–206)
 - [[Malini Vijayottara Tantra 09 - Part 9|Part 9]] (pp. 207–246)
-- [[Malini Vijayottara Tantra 10 - Part 10|Part 10]] (pp. 247–252; 1–32)
+- [[Malini Vijayottara Tantra 10 - Part 10|Part 10]] (pp. 247–252; 1–31)

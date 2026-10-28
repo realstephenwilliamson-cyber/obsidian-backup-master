@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[Abhinavagupta's Sri Tantraloka 01 - Part 1|Part 1]] (pp. xx–xxxi̇x)
+- [[Abhinavagupta's Sri Tantraloka 01 - Part 1|Part 1]] (pp. x–xxxix)
 - [[Abhinavagupta's Sri Tantraloka 02 - Part 2|Part 2]] (pp. xl–25)
 - [[Abhinavagupta's Sri Tantraloka 03 - Part 3|Part 3]] (pp. 26–66)
 - [[Abhinavagupta's Sri Tantraloka 04 - Part 4|Part 4]] (pp. 67–113)

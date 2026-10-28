@@ -4,7 +4,7 @@ work: "[[Dyczkowski - Tantraloka (tr., vols I-XI)]]"
 book: "[[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)|Tantraloka vol 06 (Dyczkowski)]]"
 order: 1
 source_pdf: Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 06.pdf
-page_range: 1–vi
+page_range: "ii–vii"
 pdf_pages: 1–11
 text_source: the PDF OCR layer, with anusvara fix; Devanagari lines read again with Tesseract san (7 Oct 2026); words the old OCR layer garbled replaced from a fresh OCR (Tesseract eng+san) where that reads an English word or Devanagari
 converted: 2026-10-07
@@ -90,7 +90,7 @@ In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, 
 
 Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhi Bharṭṁari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nātṭyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of 
 
-*[p. m]* ^pg7
+*[p. iii]* ^pg7
 
 the Music Faculty of BHU and President of the Sangit Nataka Academy. There are many other renowned scholars in \[illegible\] whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was a scholar and initiate in line of Bhāskara Rāya, the great 18" century 
 
@@ -160,7 +160,7 @@ The Nature of Impurity continued, verses 84cd-88ab, pages 84-85 Concerning Karma
 
 (kañcuka), verses 154cd-166ab, pages 135-144 The Five Coverings (kañcuka), verses 166cd-220ab, pages 144-208 
 
-*[p. vi]* ^pg11
+*[p. vii]* ^pg11
 
 Kalā - the Force of Limited Agency, verses 174-183, pages 150- 
 

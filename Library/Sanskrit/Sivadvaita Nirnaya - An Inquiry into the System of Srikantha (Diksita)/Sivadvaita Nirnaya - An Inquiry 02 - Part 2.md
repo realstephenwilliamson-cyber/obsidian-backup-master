@@ -4,7 +4,7 @@ work: "[[Appayya Diksita - Sivadvaita Nirnaya]]"
 book: "[[Library/Sanskrit/Sivadvaita Nirnaya - An Inquiry into the System of Srikantha (Diksita)/Sivadvaita Nirnaya - An Inquiry into the System of Srikantha (Diksita)|Sivadvaita Nirnaya - An Inquiry into the System of Srikantha (Diksita)]]"
 order: 2
 source_pdf: Library/Sanskrit/Sivadvaita.Nirnaya.by.Appayya.Diksita.pdf
-page_range: 33–80
+page_range: "33–62; 2–6"
 pdf_pages: 41–80
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08
@@ -1082,7 +1082,7 @@ H \[illegible\] i
 
 सिद्धान्तभावं भजत (+>)
 
-*[p. 1]* ^pg74
+*[p. 2]* ^pg74
 
 रिवादवितनिणेयः ।
 
@@ -1169,7 +1169,7 @@ g हि श्रुतिः ‹ एतत्ततो भवतिं \[ह�
 
 ग्थंव॑स्थापनार्थं तथे -(1४5) 2 वाकस्थानश्वातिदेग्रवया सर्वैः ।
 
-*[p. 5]* ^pg78
+*[p. 6]* ^pg78
 
 शिवाद्धेतनिणेयः ।
 

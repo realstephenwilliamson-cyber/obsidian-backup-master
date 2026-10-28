@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 
 ## Contents
 
-- [[Disbelief and Discredit 1 01 - Front matter and 1. Decadence, And the Obligations it Creates for Us|Front matter and 1. Decadence: And the Obligations it Creates for Us]] (pp. 2–35)
+- [[Disbelief and Discredit 1 01 - Front matter and 1. Decadence, And the Obligations it Creates for Us|Front matter and 1. Decadence: And the Obligations it Creates for Us]] (pp. 1–35)
 - [[Disbelief and Discredit 1 02 - Belief and Politics|Belief and Politics]] (pp. 36–79)
 - [[Disbelief and Discredit 1 03 - 2. Belief and Politics, In the Capitalist Age (continued)|2. Belief and Politics: In the Capitalist Age (continued)]] (pp. 80–93)
 - [[Disbelief and Discredit 1 04 - The Otium of the People|The Otium of the People]] (pp. 94–129)

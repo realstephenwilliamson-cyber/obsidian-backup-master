@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Olivelle (ed.) - The Early Upanisads]]"
 book: "[[Library/Hinduism/The Early Upanisads (Olivelle)/The Early Upanisads (Olivelle)|The Early Upanisads (Olivelle)]]"
 order: 17
 source_pdf: "Library/Hinduism/Olivelle (ed.) - The Early Upanisads (1998).pdf"
-page_range: "405–18"
+page_range: "405–412"
 pdf_pages: "428–435"
 text_source: "fresh OCR with Tesseract 5 of the page images: Latin, and Latin+san on the pages of Devanagari text (the earlier OCR layer had lost the diacritics and the Devanagari)"
 converted: 2026-10-22
@@ -122,7 +122,7 @@ And into still blinder darkness,
 
 people who delight in learning.
 
-*[p. 431]* ^pg431
+*[p. 408]* ^pg431
 
 अन्यदेवाहूर्विद्ययान्यदाहूरविद्ययाः |
 इति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ||१०।।
@@ -152,7 +152,7 @@ qa योऽसावसौ पुरुषः सोऽहमस्मि ।�
 वायुरनिलममृतमथेदं भस्मान्तं शरीरम् ।
 ॐ क्रतौ स्मर कृतं स्मर क्रतौ स्मर कृतं स्मर ।।१७।।
 
-*[p. 17]* ^pg432
+*[p. 409]* ^pg432
 
 Iśā Upaniṣad
 
@@ -228,7 +228,7 @@ Mind, remember the deed!
 
 Remember!
 
-*[p. 18]* ^pg433
+*[p. 410]* ^pg433
 
 अग्ने नय सुपथा राये अस्मान्
 
@@ -239,7 +239,7 @@ Remember!
 
 ॥ इति ईशोपनिषत् ॥
 
-*[p. 434]* ^pg434
+*[p. 411]* ^pg434
 
 Isā Upaniṣad
 
@@ -259,6 +259,6 @@ we shall offer to you!
 
 The end of the Īsā Upaniṣađ.
 
-*[p. 435]* ^pg435
+*[p. 412]* ^pg435
 
 This page intentionally left blank

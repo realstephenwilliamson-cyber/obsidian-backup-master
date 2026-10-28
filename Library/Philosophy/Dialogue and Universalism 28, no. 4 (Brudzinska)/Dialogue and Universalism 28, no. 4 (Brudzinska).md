@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Dialogue and Universalism 28 01 - Front matter and Editorial, 'Catching Meteors.' Philosophical Anthropology at the Crossroads|Front matter and Editorial, “Catching Meteors.” Philosophical Anthropology at the Crossroads]] (pp. 1–8)
+- [[Dialogue and Universalism 28 01 - Front matter and Editorial, 'Catching Meteors.' Philosophical Anthropology at the Crossroads|Front matter and Editorial, “Catching Meteors.” Philosophical Anthropology at the Crossroads]] (pp. 6–8)
 - [[Dialogue and Universalism 28 02 - Czerniak, Helmuth Plessner, Philosophical Anthropology as Social Critique|Czerniak, Helmuth Plessner: Philosophical Anthropology as Social Critique]] (pp. 9–28)
 - [[Dialogue and Universalism 28 03 - Czerniak, The Category of 'Contingency' in Contemporary Anthropological Discourse|Czerniak, The Category of “Contingency” in Contemporary Anthropological Discourse]] (pp. 29–52)
 - [[Dialogue and Universalism 28 04 - Czerniak, Max Scheler-Bernhard Waldenfels - Bohme, Self-Cultivation according to Immanuel Kant|Czerniak, Max Scheler—Bernhard Waldenfels – Böhme, Self-Cultivation according to Immanuel Kant]] (pp. 53–108)
@@ -27,4 +27,4 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[Dialogue and Universalism 28 09 - Michalski, Arnold Gehlen's Anthropological Theory of Institution|Michalski, Arnold Gehlen’s Anthropological Theory of Institution]] (pp. 177–194)
 - [[Dialogue and Universalism 28 10 - Gniazdowski, The Political Anthropology of Edmund Husserl - Pugliese, Play and Self-Reflection|Gniazdowski, The Political Anthropology of Edmund Husserl – Pugliese, Play and Self-Reflection]] (pp. 195–230)
 - [[Dialogue and Universalism 28 11 - Geniusas, Musical Works as Ideal Objects|Geniušas, Musical Works as Ideal Objects]] (pp. 231–244)
-- [[Dialogue and Universalism 28 12 - Brudzinska, Lived Body and Intentional Embodiment|Brudzińska, Lived Body and Intentional Embodiment]] (pp. 245–263)
+- [[Dialogue and Universalism 28 12 - Brudzinska, Lived Body and Intentional Embodiment|Brudzińska, Lived Body and Intentional Embodiment]] (pp. 245–259)

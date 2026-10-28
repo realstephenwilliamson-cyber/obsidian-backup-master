@@ -4,7 +4,7 @@ work: "[[Howells, Moore (eds.) - Stiegler and Technics]]"
 book: "[[Library/Philosophy/Stiegler and Technics (Howells)/Stiegler and Technics (Howells)|Stiegler and Technics (Howells)]]"
 order: 27
 source_pdf: Library/Philosophy/Howells, Moore (eds.) - Stiegler and Technics (Edinburgh 2013).pdf
-page_range: 292–313
+page_range: "292–296"
 pdf_pages: 305–313
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

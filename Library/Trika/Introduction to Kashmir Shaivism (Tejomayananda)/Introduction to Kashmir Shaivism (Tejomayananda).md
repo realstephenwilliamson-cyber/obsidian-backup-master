@@ -21,7 +21,7 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 ## Contents
 
 - [[Introduction to Kashmir Shaivism 01 - Front matter|Front matter (Front matter, Contents, Baba's Message, Preface)]] (pp. vi–ix)
-- [[Introduction to Kashmir Shaivism 02 - Chapter 1 Introduction to Kashmir Shaivism|Chapter 1    Introduction to Kashmir Shaivism]] (pp. 2–5)
+- [[Introduction to Kashmir Shaivism 02 - Chapter 1 Introduction to Kashmir Shaivism|Chapter 1    Introduction to Kashmir Shaivism]] (pp. 1–5)
 - [[Introduction to Kashmir Shaivism 03 - Chapter 2 Paramashiva - The Ultimate Reality|Chapter 2    Paramashiva - The Ultimate Reality]] (pp. 6–9)
 - [[Introduction to Kashmir Shaivism 04 - Chapter 3 Nature of Universal Manisfestation - The Play of|Chapter 3    Nature of Universal Manisfestation - The Play of Universal Consciousness]] (pp. 10–16)
 - [[Introduction to Kashmir Shaivism 05 - Chapter 4 Process of Universal Manifestation Evolution and|Chapter 4    Process of Universal Manifestation Evolution and Involution]] (pp. 17–41)

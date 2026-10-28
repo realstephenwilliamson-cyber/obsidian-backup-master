@@ -17,13 +17,13 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (OCRmyPDF with T
 
 ## Contents
 
-- [[The Aryeh Kaplan Anthology 01 - Front matter|Front matter]] (pp. 1–4)
-- [[The Aryeh Kaplan Anthology 02 - Content|Content]] (pp. 5–7)
-- [[The Aryeh Kaplan Anthology 03 - Foreward|Foreward]] (pp. 8–11)
-- [[The Aryeh Kaplan Anthology 04 - Maimonides' Principles, part 1|Maimonides' Principles, part 1]] (pp. 12–56)
+- [[The Aryeh Kaplan Anthology 01 - Front matter|Front matter]] (PDF 1–4)
+- [[The Aryeh Kaplan Anthology 02 - Content|Content]] (PDF 5–7)
+- [[The Aryeh Kaplan Anthology 03 - Foreward|Foreward]] (PDF 8–11)
+- [[The Aryeh Kaplan Anthology 04 - Maimonides' Principles, part 1|Maimonides' Principles, part 1]] (PDF 12–56)
 - [[The Aryeh Kaplan Anthology 05 - Maimonides' Principles, part 2|Maimonides' Principles, part 2]] (pp. 103–106)
 - [[The Aryeh Kaplan Anthology 06 - The Infinite Light|The Infinite Light]] (pp. 107–167)
-- [[The Aryeh Kaplan Anthology 07 - If you were G-d|If you were G-d]] (pp. 165–184)
-- [[The Aryeh Kaplan Anthology 08 - Immortality and the Soul|Immortality and the Soul]] (pp. 185–197)
+- [[The Aryeh Kaplan Anthology 07 - If you were G-d|If you were G-d]] (PDF 165–184)
+- [[The Aryeh Kaplan Anthology 08 - Immortality and the Soul|Immortality and the Soul]] (PDF 185–197)
 - [[The Aryeh Kaplan Anthology 09 - A World of Love|A World of Love]] (pp. 213–219)
-- [[The Aryeh Kaplan Anthology 10 - The Real Messiah|The Real Messiah?]] (pp. 240–319)
+- [[The Aryeh Kaplan Anthology 10 - The Real Messiah|The Real Messiah?]] (PDF 240–319)

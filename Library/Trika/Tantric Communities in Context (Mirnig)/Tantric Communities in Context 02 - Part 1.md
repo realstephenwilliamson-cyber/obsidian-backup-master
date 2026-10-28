@@ -4,7 +4,7 @@ work: "[[Mirnig, Rastelli, Eltschinger (eds.) - Tantric Communities in Context]]
 book: "[[Library/Trika/Tantric Communities in Context (Mirnig)/Tantric Communities in Context (Mirnig)|Tantric Communities in Context (Mirnig)]]"
 order: 2
 source_pdf: Library/Trika/Mirnig, Rastelli, Eltschinger (eds.) - Tantric Communities in Context (2019).pdf
-page_range: 2–21
+page_range: "vi–21"
 pdf_pages: 2–40
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -104,7 +104,7 @@ THE INTERFACE WITH LAY COMMUNITIES
 
 NINA MIRNIG: “Rudras on Earth” on the eve of the Tantric Age: The *Śivadharmaśāstra* and the making of Śaiva lay and initiatory communities .............................................. 471 PETER BISSCHOP: Inclusivism revisited: The worship of other gods in the *Śivadharmaśāstra*, the *Skandapurāṇa*, and the *Niśvāsamukha* ........................................................................... 511 S.A.S. SARMA: Mātṛtantra texts of South India with special reference to the worship of Rurujit in Kerala and to three different communities associated with this worship .......... 539 GERGELY HIDAS: Further *Mahāpratisarā* fragments from Gilgit ...................................................................................... 571 Index ............................................................................................... 587 
 
-*[PDF 8]* ^pg8
+*[p. vii]* ^pg8
 
 Preface 
 
@@ -122,7 +122,7 @@ We have adopted various conventions to present the material as consistently as p
 
 In publishing this volume, we are most grateful to the Holzhausen-Legat for providing financial support to cover the production costs. We would also like to express our thanks to Birgit Kellner, the series editor, and the publication commission of the Austrian Academy of Sciences for having accepted the manuscript to be included in the series “Beiträge zur Kultur-und Geistesgeschichte Asiens”. Thanks also go to the staff at the Austrian Academy Press for their support in the production process. We also thank Dennis Johnson for proof-reading the volume, and Csaba Kiss for producing the index and providing some technical support. Last but not least, we are extremely grateful to the contributors of this volume for their excellent chapters and their patience during the production process. 
 
-*[PDF 10]* ^pg10
+*[p. ix]* ^pg10
 
 Introduction 
 

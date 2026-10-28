@@ -2,7 +2,7 @@
 type: book-section
 book: "[[The Radha Tantra (Broo)]]"
 order: 6
-page_range: "343–348"
+page_range: ""
 ---
 [p. 343] ^pg343
 

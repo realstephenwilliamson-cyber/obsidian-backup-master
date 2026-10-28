@@ -4,7 +4,7 @@ work: "[[Maximus the Confessor - Questions and Doubts]]"
 book: "[[Library/Christianity/Questions and Doubts (Maximus the Confessor)/Questions and Doubts (Maximus the Confessor)|Questions and Doubts (Maximus the Confessor)]]"
 order: 11
 source_pdf: Library/Christianity/Maximus the Confessor - Questions and Doubts (2010).pdf
-page_range: 243–247
+page_range: "233–237"
 pdf_pages: 243–247
 text_source: "PDF text layer, PyMuPDF; the layer is an OCR of a scan, not born-digital, and its Greek is garbled into Latin letters"
 converted: 2026-10-07

@@ -313,7 +313,7 @@ Index
 
 589
 
-*[PDF 12]* ^pg12
+*[p. xi]* ^pg12
 
 Preface
 
@@ -325,7 +325,7 @@ We would like to acknowledge the sponsors who made the symposium possible: All S
 
 The contributors to the volume and the publisher have endured a long wait for this volume to come to fruition, and we would like to thank them for their patience and cheerful support. Special thanks are due also to Anusha Sudin-dra Rao, who proofread the volume carefully on short notice, and to Liwen Liu, who prepared the index.
 
-*[PDF 13]* ^pg13
+*[p. xii]* ^pg13
 
 List of Figures and Tables
 
@@ -395,7 +395,7 @@ Tables
 
 Two types of Turyātīta in the ĪPVV 164 13.1 Developmental phases of the Navarātra 326 14.1 The *bīja*s as defined in the *Śārikāstotra* 360 16.1 Deities of the Nine-Syllable Vidyā 393 19.1 A comparison of the number of verses in early and late texts on Haṭhayoga 457 19.2 The Proliferation of post-fifteenth Haṭhayogic techniques 460
 
-*[PDF 15]* ^pg15
+*[p. xiv]* ^pg15
 
 ### Notes on Contributors
 
@@ -477,7 +477,7 @@ and Sanskrit intellectual formations from late medieval to early colonial period
 
 *Alex Watson* completed his BA in Philosophy and Psychology (Oxford), and MA in Hindi, Hinduism and Indian Philosophy (SOAS, University of London), before returning to Oxford to complete an MPhil in Classical Indian Religions. After this, he began his DPhil under Alexis Sanderson’s supervision on the Śaiva thinker, Bhaṭṭa Rāmakaṇṭha II, and his arguments against the Buddhist doctrine of no-self. Following a postdoctoral fellowship at Wolfson College, he taught Sanskrit at St James’ School, London, and then held short-term visiting appointments at the University of Vienna and Kyushu University, Japan. He was associated with the EFEO, Pondicherry, for a number of years, and was Preceptor in Sanskrit at Harvard University before taking up his present position as Professor of Indian Philosophy at Ashoka University. He is author of *The Self ’s Awareness of Itself* (2006) and, with Dominic Goodall and Anjaneya Sarma, *An Enquiry Into the Nature of Liberation* (2013), as well as several articles in the *Journal of Indian Philosophy* and *Philosophy East and West*.
 
-*[PDF 26]* ^pg26
+*[p. xxv]* ^pg26
 
 A Note on Alexis Sanderson and Indology
 
@@ -539,7 +539,7 @@ In a bygone age, it might have been appropriate to gather together in one public
 
 What we hope and expect instead is that the papers gathered in this volume will reveal some of the many ways in which Alexis has been influential, their authors showing us in the mirrors of their own bright intellects some reflections of the radiance, the *prakāśa*, of Alexis Sanderson.
 
-*[PDF 32]* ^pg32
+*[p. xxxi]* ^pg32
 
 Bibliography of the Published Works of Alexis
 

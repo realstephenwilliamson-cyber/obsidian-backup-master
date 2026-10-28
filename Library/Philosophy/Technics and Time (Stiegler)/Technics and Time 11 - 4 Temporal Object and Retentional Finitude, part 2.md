@@ -4,7 +4,7 @@ work: "[[Stiegler - Technics and Time (vols 1-3)]]"
 book: "[[Library/Philosophy/Technics and Time (Stiegler)/Technics and Time (Stiegler)|Technics and Time (Stiegler)]]"
 order: 11
 source_pdf: Library/Philosophy/Stiegler - Technics and Time (1998).pdf
-page_range: 231–285
+page_range: "231–267"
 pdf_pages: 243–285
 text_source: PDF text layer (born-digital), PyMuPDF; 8 pages read by OCR (Tesseract) where the text layer has no Unicode
 converted: 2026-10-07

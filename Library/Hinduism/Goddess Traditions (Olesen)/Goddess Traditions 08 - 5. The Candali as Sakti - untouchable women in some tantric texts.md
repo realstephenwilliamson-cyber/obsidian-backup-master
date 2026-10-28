@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Goddess Traditions in Tantric Hinduism (Olesen)]]"
 order: 8
-page_range: 96–108
+page_range: ""
 aliases:
   - Goddess Traditions 08 - 5. The Cāṇḍālī as Śakti - untouchable women in some tantric texts
 ---

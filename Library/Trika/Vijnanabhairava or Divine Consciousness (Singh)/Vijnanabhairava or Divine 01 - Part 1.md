@@ -182,7 +182,7 @@ DHĀRAṆĀS OR YOGA PRACTICES
 
 The Devi now enquires, “By what means can this highest state be realized ?” In reply to this, Bhairava describes 112 dhāraṇās. 
 
-*[PDF 14]* ^pg14
+*[p. xiii]* ^pg14
 
 In Patañjali, the word dhāranṇā is used in a somewhat limited sense viz; ‘fixation ofmind on a particular spot.” In Vijñānabhairava it is used in the wide sense of fixation or concentration of mind or yoga. The word yoga is used both in the sense of communion (with the Divine) and the means (upāya) for that communion. So 112 types of yoga or means of communion with Bhairava have been described in this text. 
 
@@ -224,7 +224,7 @@ The important bases of the dhāranās recommended in the text are the following:
 
 Indian thought believes that between the body and the mind or between the material or physical energy and mental energy, there is prāṇa which is an intermediary link between the two. The word prāṇa has been variously translated as the vital force, 
 
-*[PDF 16]* ^pg16
+*[p. xv]* ^pg16
 
 biological energy, bio-plasma, etc. It has been a moot point in western Philosophy and Psychology as to how mind which is psychic in nature affects the body which is physical or material in nature. According to Indian Philosophy, between the body and manas or mind, there is prāṇa which serves as a link between the two. Prāṇa is not mind; it is insentient, but it is not like gross physical energy. It is subtle biological energy which catches the vibrations of the mind and transmits them to the nerves and plexuses and also physical vibrations to the mind. By controlling the mind one can control the prāna, and by controlling the prāṇa, one can control the mind. 
 
@@ -373,7 +373,7 @@ Ksobha :
 
 The word Ksobha means mental agitation, disquiet, turmoil, Verse 74 says that wherever there is tusṭi or mental satisfaction or joy, there the mind should be fixed. In all such joys or intensive experience, it is implied that the fixation of the mind should be without ksobha or mental agitation. When one is deeply 
 
-*[PDF 23]* ^pg23
+*[p. xxii]* ^pg23
 
 moved by some beautiful object e.g. a beautiful woman, the attitude should be “This beautiful tabernacle houses Śiva who is my own essential Self.” It is this attitude which leads to the right dhāraṇā based on aesthetic experience. If one’s mind is agitated by such experience and he is carried away by sense-pleasure, he cannot have the proper dhdranda. . He will be unable to utilize that experience for yogic purposes. As Spandakārikā एण।§ 1 : “यदा क्षोभः प्रलीयेत तदा स्यात् परमं पदम्"
 
@@ -442,7 +442,7 @@ primal ignorance, the feeling of I-ness, attraction, repulsion and fear of death
 
 Sivopādhyāya has further given a long quotation from Vimarśa-dipikā which means that iva is full and free and fundamental ground of all that is known as void, from whom all the zattvas arise and in whom they are all dissolved. Since Siva or the foundational consciousness cannot be described in words or any determination of thought, therefore, is He called śŭünya. 
 
-*[PDF 26]* ^pg26
+*[p. xxv]* ^pg26
 
 The most explicit explanation of śēnya is given in Svacchanda Tantra in the following verse : 
 

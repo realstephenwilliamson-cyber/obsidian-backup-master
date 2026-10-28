@@ -17,10 +17,10 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Goddess Lives in Upstate New 01 - Front matter|Front matter]] (pp. 1–11)
-- [[The Goddess Lives in Upstate New 02 - Contents|Contents]] (pp. 12–xii)
-- [[The Goddess Lives in Upstate New 03 - Note on Transliteration|Note on Transliteration]] (pp. 14–17)
-- [[The Goddess Lives in Upstate New 04 - Introduction A Temple Trip|Introduction: A Temple Trip]] (pp. 18–12)
+- [[The Goddess Lives in Upstate New 01 - Front matter|Front matter]] (pp. viii–x)
+- [[The Goddess Lives in Upstate New 02 - Contents|Contents]] (pp. xi–xii)
+- [[The Goddess Lives in Upstate New 03 - Note on Transliteration|Note on Transliteration]] (pp. xiii–xiv)
+- [[The Goddess Lives in Upstate New 04 - Introduction A Temple Trip|Introduction: A Temple Trip]] (pp. 4–12)
 - [[The Goddess Lives in Upstate New 05 - PART I Encounters with Divinity Ritual Power and Miracles|PART I: Encounters with Divinity: Ritual Power and Miracles]] (pp. 13–80)
 - [[The Goddess Lives in Upstate New 06 - PART II The Work of a Guru Bridge Building and Boundary|PART II: The Work of a Guru: Bridge Building and Boundary Breaking]] (pp. 81–146)
 - [[The Goddess Lives in Upstate New 07 - PART III Temple Inhabitants Making Home in a World of|PART III: Temple Inhabitants: Making Home in a World of Impermanence]] (pp. 147–208)

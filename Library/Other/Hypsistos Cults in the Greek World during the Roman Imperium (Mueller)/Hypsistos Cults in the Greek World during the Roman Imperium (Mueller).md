@@ -17,6 +17,6 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Hypsistos Cults in the Greek 01 - Part 1|Part 1]] (pp. 1–34)
+- [[Hypsistos Cults in the Greek 01 - Part 1|Part 1]] (pp. ii–34)
 - [[Hypsistos Cults in the Greek 02 - Part 2|Part 2]] (pp. 35–74)
 - [[Hypsistos Cults in the Greek 03 - Part 3|Part 3]] (pp. 75–90)

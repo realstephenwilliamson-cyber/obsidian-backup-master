@@ -4,7 +4,7 @@ work: "[[Ruppel - The Cambridge Introduction to Sanskrit]]"
 book: "[[Library/Sanskrit/The Cambridge Introduction to Sanskrit (Ruppel)/The Cambridge Introduction to Sanskrit (Ruppel)|The Cambridge Introduction to Sanskrit (Ruppel)]]"
 order: 1
 source_pdf: Library/Sanskrit/Ruppel/A. M. Ruppel - The Cambridge Introduction to Sanskrit-Cambridge University Press (2017).pdf
-page_range: 1–8
+page_range: ""
 pdf_pages: 1–8
 text_source: PDF text layer (born-digital), PyMuPDF; Devanagari the text layer leaves unmapped read from a fresh OCR (Tesseract eng+san); 6 pages read by OCR (Tesseract) where the text layer has no Unicode
 converted: 2026-10-07

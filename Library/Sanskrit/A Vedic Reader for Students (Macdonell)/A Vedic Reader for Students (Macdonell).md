@@ -20,7 +20,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[A Vedic Reader for Students 01 - Part 1|Part 1]] (pp. 2–6)
+- [[A Vedic Reader for Students 01 - Part 1|Part 1]] (pp. 1–6)
 - [[A Vedic Reader for Students 02 - Part 2|Part 2]] (pp. 7–46)
 - [[A Vedic Reader for Students 03 - Part 3|Part 3]] (pp. 47–86)
 - [[A Vedic Reader for Students 04 - Part 4|Part 4]] (pp. 87–126)

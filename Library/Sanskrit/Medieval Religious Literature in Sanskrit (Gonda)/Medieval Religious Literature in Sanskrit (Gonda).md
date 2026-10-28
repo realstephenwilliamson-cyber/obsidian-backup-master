@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[Medieval Religious Literature 01 - Part 1|Part 1]] (pp. 2–24)
+- [[Medieval Religious Literature 01 - Part 1|Part 1]] (pp. 1–24)
 - [[Medieval Religious Literature 02 - Part 2|Part 2]] (pp. 25–64)
 - [[Medieval Religious Literature 03 - Part 3|Part 3]] (pp. 65–104)
 - [[Medieval Religious Literature 04 - Part 4|Part 4]] (pp. 105–144)

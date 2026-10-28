@@ -17,9 +17,9 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[The Touch of Sakti 01 - Jacket|Jacket]] (pp. 1–4)
+- [[The Touch of Sakti 01 - Jacket|Jacket]] (PDF 1–4)
 - [[The Touch of Sakti 02 - Preface|Preface]] (pp. viii–xxii)
-- [[The Touch of Sakti 03 - Chapter - 1|Chapter - 1]] (pp. 2–37)
+- [[The Touch of Sakti 03 - Chapter - 1|Chapter - 1]] (pp. 1–37)
 - [[The Touch of Sakti 04 - Chapter - 2|Chapter - 2]] (pp. 40–70)
 - [[The Touch of Sakti 05 - Chapter -3, part 1|Chapter -3, part 1]] (pp. 71–114)
 - [[The Touch of Sakti 06 - Chapter -3, part 2|Chapter -3, part 2]] (pp. 115–158)

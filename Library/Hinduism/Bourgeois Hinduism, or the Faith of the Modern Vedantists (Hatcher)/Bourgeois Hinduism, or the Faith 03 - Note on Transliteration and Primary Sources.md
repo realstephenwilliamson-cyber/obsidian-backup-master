@@ -4,7 +4,7 @@ work: "[[Hatcher - Bourgeois Hinduism, or the Faith of the Modern Vedantists]]"
 book: "[[Library/Hinduism/Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)/Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)|Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)]]"
 order: 3
 source_pdf: Library/Hinduism/Hatcher - Bourgeois Hinduism, or the Faith of the Modern Vedantists (2008).pdf
-page_range: 14–17
+page_range: "xiii–xiv"
 pdf_pages: 14–17
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[Bourgeois Hinduism, or the Faith 02 - Contents|← previous]] · [[Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)|contents]] · [[Bourgeois Hinduism, or the Faith 04 - Introduction|next →]]
 
-*[PDF 14]* ^pg14
+*[p. xiii]* ^pg14
 
 ## Note on Transliteration and Primary Sources
 

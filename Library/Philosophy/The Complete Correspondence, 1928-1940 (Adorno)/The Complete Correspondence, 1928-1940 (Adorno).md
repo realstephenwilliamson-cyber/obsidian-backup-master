@@ -18,9 +18,9 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Internet Archiv
 
 ## Contents
 
-- [[The Complete Correspondence 01 - Front matter|Front matter]] (pp. 1–6)
-- [[The Complete Correspondence 02 - The Complete Correspondence|The Complete Correspondence]] (pp. 7)
-- [[The Complete Correspondence 03 - Pffi C, 2,|Pffi C, 2,]] (pp. 8–12)
+- [[The Complete Correspondence 01 - Front matter|Front matter]] (PDF 1–6)
+- [[The Complete Correspondence 02 - The Complete Correspondence|The Complete Correspondence]] (PDF 7)
+- [[The Complete Correspondence 03 - Pffi C, 2,|Pffi C, 2,]] (PDF 8–12)
 - [[The Complete Correspondence 04 - The Correspondence, part 1|The Correspondence, part 1]] (pp. 3–39)
 - [[The Complete Correspondence 05 - The Correspondence, part 2|The Correspondence, part 2]] (pp. 40–78)
 - [[The Complete Correspondence 06 - The Correspondence, part 3|The Correspondence, part 3]] (pp. 79–117)

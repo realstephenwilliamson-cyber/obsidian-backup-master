@@ -4,7 +4,7 @@ work: "[[Harper (ed.) - The Roots of Tantra]]"
 book: "[[Library/Hinduism/The Roots of Tantra (Harper)/The Roots of Tantra (Harper)|The Roots of Tantra (Harper)]]"
 order: 2
 source_pdf: Library/Hinduism/Harper, Brown (eds.) - The Roots of Tantra (2002).pdf
-page_range: 4–11
+page_range: "v–ix"
 pdf_pages: 4–11
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -110,7 +110,7 @@ THE TEXTS AND TANTRA
 
 *The Padamālā Mantra Vidyā 231 Lina Gupta List of Contributors 251 Glossary 255 Index 257*
 
-*[PDF 8]* ^pg8
+*[p. vii]* ^pg8
 
 ILLUSTRATIONS
 

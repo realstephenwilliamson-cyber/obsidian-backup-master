@@ -20,7 +20,7 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 
 ## Contents
 
-- [[The System of Five Cakras 01 - Part 1|Part 1]] (pp. 1–32)
+- [[The System of Five Cakras 01 - Part 1|Part 1]] (pp. vi–32)
 - [[The System of Five Cakras 02 - Part 2|Part 2]] (pp. 33–72)
 - [[The System of Five Cakras 03 - Part 3|Part 3]] (pp. 73–112)
 - [[The System of Five Cakras 04 - Part 4|Part 4]] (pp. 113–152)

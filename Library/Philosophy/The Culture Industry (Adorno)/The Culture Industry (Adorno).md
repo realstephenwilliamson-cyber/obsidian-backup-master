@@ -17,8 +17,8 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Culture Industry 01 - Front matter|Front matter (BOOK COVER, TITLE, COPYRIGHT)]] (pp. 1–5)
-- [[The Culture Industry 02 - CONTENTS|CONTENTS]] (pp. 6–28)
+- [[The Culture Industry 01 - Front matter|Front matter (BOOK COVER, TITLE, COPYRIGHT)]] (PDF 1–5)
+- [[The Culture Industry 02 - CONTENTS|CONTENTS]] (pp. 1–28)
 - [[The Culture Industry 03 - 1 On the Fetish Character in Music and the Regression of Listening|1 On the Fetish Character in Music and the Regression of Listening]] (pp. 29–60)
 - [[The Culture Industry 04 - 2 The Schema of Mass Culture|2 The Schema of Mass Culture]] (pp. 61–97)
 - [[The Culture Industry 05 - 3 Culture Industry Reconsidered|3 Culture Industry Reconsidered]] (pp. 98–106)

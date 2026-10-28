@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 6
-page_range: "93–146"
+page_range: ""
 ---
 [[Forgery and Counterforgery 05 - Chapter Four - Forgery in Antiquity - Aspects of the Broader Phenomenon|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 07 - Chapter Six - Introduction to Forgery and Counterforgery in Early Christian Polemics|next →]]
 

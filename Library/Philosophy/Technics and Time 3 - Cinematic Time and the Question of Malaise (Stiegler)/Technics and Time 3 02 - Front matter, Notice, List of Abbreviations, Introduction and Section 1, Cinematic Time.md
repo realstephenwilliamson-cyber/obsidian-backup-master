@@ -71,7 +71,7 @@ Contents
 
 Making (the) Difference §5 157 §6 Technoscience and Reproduction 187 *Notes 225 Bibliography 25I* 
 
-*[PDF 9]* ^pg9
+*[p. x]* ^pg9
 
 To seem like a god, mankind today does not feel happy. 
 

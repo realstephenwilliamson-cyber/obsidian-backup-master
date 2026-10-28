@@ -17,6 +17,6 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[The Cult of the Goddess Kubjika 01 - Part 1|Part 1]] (pp. 2–35)
+- [[The Cult of the Goddess Kubjika 01 - Part 1|Part 1]] (pp. 1–35)
 - [[The Cult of the Goddess Kubjika 02 - Part 2|Part 2]] (pp. 36–74)
 - [[The Cult of the Goddess Kubjika 03 - Part 3|Part 3]] (pp. 75–84)

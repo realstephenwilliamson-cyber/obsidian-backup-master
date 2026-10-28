@@ -2022,7 +2022,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
 [^284]: **שנאן** (***Shin’an***)**...** This word from [[Psalms 068#^68-18|Psalms 68:18]], of uncertain origin and meaning, is interpreted here as an acronym alluding to the four faces of the *ḥayyot*: שור (*shor*), *ox*; נשר (*nesher*), *eagle*; אריה (*aryeh*), *lion*; and finally אדם (*adam*), *human*, symbolized by the last letter, ן (final *nun*), whose extended length implies the fullness of male and female.
 
-    See *Bahir* 56 (83); *Zohar* [[Zohar 11.08 - Tosefta#^z1-147a|1:147a]]–b (*Tos*), [[Zohar 11.09 - Sitrei Torah#^z1-149b|149b]] (*ST*); 2:118a (*RM*); [[Zohar 7.08 - Parashat Aharei Mot#^z3-66b|3:66b]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-155a|155a]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-156b|156b]], [[Zohar 9.13 - Parashat Va-Yelekh#^z3-285b|285b]].
+    See *Bahir* 56 (83); *Zohar* [[Zohar 11.08 - Tosefta#^z1-147a|1:147a]]–b (*Tos*), [[Zohar 11.09 - Sitrei Torah#^z1-149b|149b]] (*ST*); 2:118a (*RM*); [[Zohar 7.08 - Parashat Aharei Mot#^z3-66b|3:66b]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-155a|155a]], [[Zohar 9.03 - Parashat Shelah Lekha#^z3-156b|156b]], [[Zohar 9.13 - Parashat Va-Yelekh#^z3-285b|285b]].
 
 [^285]: **All those thousands and myriads** Of angels.
 
@@ -3568,7 +3568,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
 [^893]: **ם** (**final *mem***), **who is למרבה** (***le-marbeh***), ***for the abundance of, dominion*** This is the only time in the entire Bible that a final ם (*mem*) appears out of place, before the end of the word—a peculiarity that stimulated the rabbinic mind. See BT *Sanhedrin* [[Sanhedrin 94#94a|94a]]; *Soferim* 7:3; *Midrash Ḥaserot Vi-Yterot* 185 (*Battei Midrashot*, 2:302); *Minḥat Shai*, ad loc.
 
-    Here the ם (*mem*), shaped like a house, signifies *Binah*, who houses the lower *sefirot*. See *ZḤ* [[Zohar 12.08 - Sitrei Otiyyot#^zh-5c|5c]] (*SO*); cf. *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-127a|2:127a]]–b; [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-156b|3:156b]], [[Zohar 9.13 - Parashat Va-Yelekh#^z3-285b|285b]].
+    Here the ם (*mem*), shaped like a house, signifies *Binah*, who houses the lower *sefirot*. See *ZḤ* [[Zohar 12.08 - Sitrei Otiyyot#^zh-5c|5c]] (*SO*); cf. *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-127a|2:127a]]–b; [[Zohar 9.03 - Parashat Shelah Lekha#^z3-156b|3:156b]], [[Zohar 9.13 - Parashat Va-Yelekh#^z3-285b|285b]].
 
     On the esoteric nature of the ם (final *mem*), see BT *Shabbat* [[Shabbat 104#104a|104a]]: “The Rabbis told Rabbi Yehoshu’a son of Levi: ‘Children have now come to the house of study and said things unparalleled even in the days of Joshua son of Nun:... Open מ (*mem*) and closed ם (*mem*): open saying and sealed saying.’”
 
@@ -4482,7 +4482,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
 [^1205]: **from the left side, dross of gold** The demonic derives from the dregs of *Gevurah* or *Din* (strict Judgment), located on the left side of the sefirotic tree and symbolized by gold.
 
-    See *Zohar* [[#^z1-52a|1:52a]], [[Zohar 1.08 - Parashat Noah#^z1-73a|73a]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-193a|193a]]; [[Zohar 6.06 - Parashat Pequdei#^z2-236b|2:236b]].
+    See *Zohar* [[#^z1-52a|1:52a]], [[Zohar 1.08 - Parashat Noah#^z1-73a|73a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-193a|193a]]; [[Zohar 6.06 - Parashat Pequdei#^z2-236b|2:236b]].
 
 [^1206]: **Their terror is provoked by the holy name...** If adjured by the divine name, demons flee in terror. See BT *Gittin* [[Gittin 68#68a|68a]].
 
@@ -4710,7 +4710,7 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
 [^1285]: **the mystery of left and right...** The good and evil impulses derive, respectively, from the *sefirot* of *Ḥesed* on the right and *Gevurah* on the left.
 
-    See BT *Berakhot* [[Berakhot 61#61a|61a]]; *Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-144b|1:144b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-155b|155b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-165b|165b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-174b|174b]]; [[Zohar 12.06 - Piqqudin#^z3-263b|3:263b]].
+    See BT *Berakhot* [[Berakhot 61#61a|61a]]; *Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-144b|1:144b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-155b|155b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-165b|165b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-174b|174b]]; [[Zohar 12.06 - Piqqudin#^z3-263b|3:263b]].
 
 [^1286]: ***His left hand beneath my head*** The verse continues: *his right embracing me*. In the divine romance, the left hand (*Gevurah*) arouses the body of *Shekhinah*, then the right hand (*Ḥesed*) completes the embrace, uniting Her with *Tif’eret*. See above, page 270.
 
@@ -4974,11 +4974,11 @@ He opened further, saying, “*The path of the righteous is like gleaming light,
 
 [^1383]: **while another, of life, is on the right...** The demonic serpent (corresponding to the evil impulse) is balanced by the holy serpent (corresponding to the good impulse). See *TZ* 21 (43a).
 
-    According to rabbinic tradition, two angels—one good and one bad—accompany each person. See BT *Shabbat* [[Shabbat 119#119b|119b]]; cf. *Ta’anit* 11a; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|1:12b]], [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-14a|14a]], [[Zohar 2.05 - Parashat Toledot#^z1-144b|144b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-165b|165b]]; [[Zohar 5.03 - Parashat Mishpatim#^z2-106b|2:106b]], [[Zohar 6.06 - Parashat Pequdei#^z2-239a|239a]].
+    According to rabbinic tradition, two angels—one good and one bad—accompany each person. See BT *Shabbat* [[Shabbat 119#119b|119b]]; cf. *Ta’anit* 11a; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|1:12b]], [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-14a|14a]], [[Zohar 2.05 - Parashat Toledot#^z1-144b|144b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-165b|165b]]; [[Zohar 5.03 - Parashat Mishpatim#^z2-106b|2:106b]], [[Zohar 6.06 - Parashat Pequdei#^z2-239a|239a]].
 
 [^1384]: **dross of gold** The demonic derives from the dregs of *Gevurah* or *Din* (strict Judgment), located on the left side of the sefirotic tree and symbolized by gold.
 
-    See *Zohar* [[#^z1-48a|1:48a]], [[Zohar 1.08 - Parashat Noah#^z1-73a|73a]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-193a|193a]]; [[Zohar 6.06 - Parashat Pequdei#^z2-236b|2:236b]].
+    See *Zohar* [[#^z1-48a|1:48a]], [[Zohar 1.08 - Parashat Noah#^z1-73a|73a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-193a|193a]]; [[Zohar 6.06 - Parashat Pequdei#^z2-236b|2:236b]].
 
 [^1385]: **he inflicts death upon him...** The serpent inflicts death upon anyone drawn toward him. See *Zohar* [[#^z1-35b|1:35b]].
 

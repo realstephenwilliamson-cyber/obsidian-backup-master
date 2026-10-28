@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Goddess Traditions in Tantric Hinduism (Olesen)]]"
 order: 5
-page_range: 33–50
+page_range: ""
 aliases:
   - Goddess Traditions 05 - 2. The (Un)Dreadful Goddess - Aghorī in early Śākta tantras
 ---

@@ -141,7 +141,7 @@ Your own, SwAmi MUKTANANDA
 
 R\] pi \$ 
 
-*[PDF 9]* ^pg9
+*[p. vii]* ^pg9
 
 ## Preface
 

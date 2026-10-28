@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Tantric Mantras (Padoux)]]"
 order: 3
-page_range: 12–23
+page_range: ""
 aliases:
   - Tantric Mantras 03 - 2. The extraction and examination of mantras - Mantroddhāra and mantravicāra
 ---

@@ -4,7 +4,7 @@ work: "[[Kinsley - Tantric Visions of the Divine Feminine]]"
 book: "[[Library/Hinduism/Tantric Visions of the Divine Feminine (Kinsley)/Tantric Visions of the Divine Feminine (Kinsley)|Tantric Visions of the Divine Feminine (Kinsley)]]"
 order: 2
 source_pdf: Library/Hinduism/Kinsley - Tantric Visions of the Divine Feminine (1998).pdf
-page_range: 8–9
+page_range: ""
 pdf_pages: 8–9
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

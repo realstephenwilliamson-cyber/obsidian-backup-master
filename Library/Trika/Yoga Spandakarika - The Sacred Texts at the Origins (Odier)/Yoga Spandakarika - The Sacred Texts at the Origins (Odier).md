@@ -17,13 +17,13 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (ABBYY FineReade
 
 ## Contents
 
-- [[Yoga Spandakarika - The Sacred 01 - Front matter|Front matter (Yoga)]] (pp. 1–2)
-- [[Yoga Spandakarika - The Sacred 02 - Yoga|Yoga]] (pp. 3–xvi)
-- [[Yoga Spandakarika - The Sacred 03 - The Ancient Text|The Ancient Text]] (pp. 16)
+- [[Yoga Spandakarika - The Sacred 01 - Front matter|Front matter (Yoga)]] (PDF 1–2)
+- [[Yoga Spandakarika - The Sacred 02 - Yoga|Yoga]] (pp. ix–xvi)
+- [[Yoga Spandakarika - The Sacred 03 - The Ancient Text|The Ancient Text]] (pp. 1)
 - [[Yoga Spandakarika - The Sacred 04 - Spandakarika The Tantric Song of the Sacred Tremor|Spandakarika: The Tantric Song of the Sacred Tremor]] (pp. 2–13)
-- [[Yoga Spandakarika - The Sacred 05 - The Commentary|The Commentary]] (pp. 29)
+- [[Yoga Spandakarika - The Sacred 05 - The Commentary|The Commentary]] (PDF 29)
 - [[Yoga Spandakarika - The Sacred 06 - First Flow (Stanzas 1-16)|First Flow (Stanzas 1-16)]] (pp. 16–60)
 - [[Yoga Spandakarika - The Sacred 07 - Second Flow (Stanzas 17 - 27)|Second Flow (Stanzas 17 - 27)]] (pp. 61–100)
 - [[Yoga Spandakarika - The Sacred 08 - Third Flow (Stanzas 28-52)|Third Flow (Stanzas 28-52)]] (pp. 101–139)
 - [[Yoga Spandakarika - The Sacred 09 - Conclusion Should One Practice Mahamudra|Conclusion: Should One Practice Mahamudra?]] (pp. 140–164)
-- [[Yoga Spandakarika - The Sacred 10 - The Natural Liberation through Naked Vision, Identifying|The Natural Liberation through Naked Vision, Identifying Intelligence]] (pp. 165–190)
+- [[Yoga Spandakarika - The Sacred 10 - The Natural Liberation through Naked Vision, Identifying|The Natural Liberation through Naked Vision, Identifying Intelligence]] (pp. 165–175)

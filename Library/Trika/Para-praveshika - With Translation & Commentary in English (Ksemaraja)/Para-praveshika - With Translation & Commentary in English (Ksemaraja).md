@@ -20,5 +20,5 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (eng+san) of th
 
 ## Contents
 
-- [[Para-praveshika - 01 - Part 1|Part 1]] (pp. 1–60)
-- [[Para-praveshika - 02 - Part 2|Part 2]] (pp. 61–110)
+- [[Para-praveshika - 01 - Part 1|Part 1]] (pp. iv–60)
+- [[Para-praveshika - 02 - Part 2|Part 2]] (pp. 61–94)

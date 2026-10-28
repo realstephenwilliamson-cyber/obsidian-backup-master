@@ -17,12 +17,12 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Ancient Israel in Sinai 01 - Front matter|Front matter]] (pp. 1–8)
-- [[Ancient Israel in Sinai 02 - Foreword|Foreword]] (pp. 9–16)
-- [[Ancient Israel in Sinai 03 - Contents|Contents]] (pp. 17–xvi)
-- [[Ancient Israel in Sinai 04 - Abbreviations|Abbreviations]] (pp. 19–xx)
-- [[Ancient Israel in Sinai 05 - Chronological Charts|Chronological Charts]] (pp. 23–26)
-- [[Ancient Israel in Sinai 06 - 1. The Wilderness Tradition|1. The Wilderness Tradition]] (pp. 27–22)
+- [[Ancient Israel in Sinai 01 - Front matter|Front matter]] (PDF 1–8)
+- [[Ancient Israel in Sinai 02 - Foreword|Foreword]] (pp. viii–xiv)
+- [[Ancient Israel in Sinai 03 - Contents|Contents]] (pp. xv–xvi)
+- [[Ancient Israel in Sinai 04 - Abbreviations|Abbreviations]] (pp. xvii–xx)
+- [[Ancient Israel in Sinai 05 - Chronological Charts|Chronological Charts]] (pp. xxi–xxii)
+- [[Ancient Israel in Sinai 06 - 1. The Wilderness Tradition|1. The Wilderness Tradition]] (pp. 4–22)
 - [[Ancient Israel in Sinai 07 - 2. The Wilderness Tradition and the Historian of Religion|2. The Wilderness Tradition and the Historian of Religion]] (pp. 23–34)
 - [[Ancient Israel in Sinai 08 - 3. Sinai The Great and Terrible Wilderness|3. Sinai: The Great and Terrible Wilderness]] (pp. 35–46)
 - [[Ancient Israel in Sinai 09 - 4. The Geography of the Exodus Ramesses to the Sea|4. The Geography of the Exodus: Ramesses to the Sea]] (pp. 47–74)

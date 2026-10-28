@@ -1379,7 +1379,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
 [^215]: **she grasps what is imminent** Since demons possess limited foreknowledge. See Naḥmanides on [[Torah 29 - Achrei Mot#^17-7|Leviticus 17:7]]; *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-130a|1:130a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-200a|200a]]; [[Zohar 12.05 - Heikhalot Pequdei#^z2-251b|2:251b]] (*Heikh*); [[Zohar 7.03 - Parashat Va-Yiqra#^z3-25a|3:25a]].
 
-[^216]: **disseminating deceptions** Through false dreams. A rabbinic tradition in BT *Berakhot* [[Berakhot 55#55b|55b]] states that angels convey prophetic dreams, while demons convey false ones. See *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-130a|1:130a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-200a|200a]]; [[Zohar 5.05 - Parashat Terumah#^z2-130a|2:130a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-25a|3:25a]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-156b|156b]].
+[^216]: **disseminating deceptions** Through false dreams. A rabbinic tradition in BT *Berakhot* [[Berakhot 55#55b|55b]] states that angels convey prophetic dreams, while demons convey false ones. See *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-130a|1:130a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-200a|200a]]; [[Zohar 5.05 - Parashat Terumah#^z2-130a|2:130a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-25a|3:25a]], [[Zohar 9.03 - Parashat Shelah Lekha#^z3-156b|156b]].
 
 [^217]: **to her place** To the body.
 

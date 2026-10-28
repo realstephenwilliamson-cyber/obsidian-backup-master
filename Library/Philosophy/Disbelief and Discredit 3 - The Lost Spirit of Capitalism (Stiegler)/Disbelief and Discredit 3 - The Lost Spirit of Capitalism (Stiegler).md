@@ -17,8 +17,8 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Disbelief and Discredit 3 01 - Front matter|Front matter (The Lost Spirit of Capitalism)]] (pp. 1–2)
-- [[Disbelief and Discredit 3 02 - The Lost Spirit of Capitalism|The Lost Spirit of Capitalism]] (pp. 2–4)
+- [[Disbelief and Discredit 3 01 - Front matter|Front matter (The Lost Spirit of Capitalism)]] (PDF 1–2)
+- [[Disbelief and Discredit 3 02 - The Lost Spirit of Capitalism|The Lost Spirit of Capitalism]] (pp. 1–4)
 - [[Disbelief and Discredit 3 03 - Sociopathology of 1968|Sociopathology of 1968]] (pp. 5–40)
 - [[Disbelief and Discredit 3 04 - Super-Ego and the Passage of Desire as Original Diversion of|Super-Ego and the Passage of Desire as Original Diversion of]] (pp. i–82)
 - [[Disbelief and Discredit 3 05 - Conclusion|Conclusion]] (pp. 83–105)

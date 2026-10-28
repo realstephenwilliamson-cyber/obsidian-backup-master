@@ -4,7 +4,7 @@ work: "[[Pande - Abhinavabharati]]"
 book: "[[Library/Trika/Abhinavabharati - Abhinavagupta's Commentary on Bharata's (Pande)/Abhinavabharati - Abhinavagupta's Commentary on Bharata's (Pande)|Abhinavabharati - Abhinavagupta's Commentary on Bharata's (Pande)]]"
 order: 2
 source_pdf: Library/Trika/Pande - Abhinavabharati (1997).pdf
-page_range: 6–28
+page_range: "28"
 pdf_pages: 3–27
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08

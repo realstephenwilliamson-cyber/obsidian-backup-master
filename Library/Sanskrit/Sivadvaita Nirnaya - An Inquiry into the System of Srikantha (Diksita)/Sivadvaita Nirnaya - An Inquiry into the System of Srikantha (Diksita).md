@@ -28,4 +28,4 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 - [[Sivadvaita Nirnaya - An Inquiry 06 - Part 6|Part 6]] (pp. 33–240)
 - [[Sivadvaita Nirnaya - An Inquiry 07 - Part 7|Part 7]] (pp. 78–112)
 - [[Sivadvaita Nirnaya - An Inquiry 08 - Part 8|Part 8]] (pp. 113–152)
-- [[Sivadvaita Nirnaya - An Inquiry 09 - Part 9|Part 9]] (pp. 153–332)
+- [[Sivadvaita Nirnaya - An Inquiry 09 - Part 9|Part 9]] (pp. 153–161)

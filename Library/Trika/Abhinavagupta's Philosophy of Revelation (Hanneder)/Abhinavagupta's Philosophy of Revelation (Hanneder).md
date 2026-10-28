@@ -24,4 +24,4 @@ Converted from the PDF on 8 Oct 2026 (the PDF's own text layer (an older OCR lay
 - [[Abhinavagupta's Philosophy 05 - Part 5|Part 5]] (pp. 152–191)
 - [[Abhinavagupta's Philosophy 06 - Part 6|Part 6]] (pp. 192–231)
 - [[Abhinavagupta's Philosophy 07 - Part 7|Part 7]] (pp. ii–271)
-- [[Abhinavagupta's Philosophy 08 - Part 8|Part 8]] (pp. 272–305)
+- [[Abhinavagupta's Philosophy 08 - Part 8|Part 8]] (pp. 272–295)

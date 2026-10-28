@@ -186,7 +186,7 @@ Excerpts with Commentary from the Tantrāloka, Chapter XXIX ... 177 Definition..
 
 CONCLUSION ....oenesssnesssossssosssessssrsssseseessosesseeso 207 INDEX. ..ooueuseuuenressrersserossorseserrerereseresesessesessee 215
 
-*[PDF 13]* ^pg13
+*[p. xiii]* ^pg13
 
 FOREWORD
 

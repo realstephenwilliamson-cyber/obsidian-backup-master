@@ -196,7 +196,7 @@ The rediscovery of a large part of the Parākhya made possible by this edition d
 
 1341The incomprehensibility of the Devakoṭtṭai edition of the Kirana (Ep) is plentifully illustrated in this volume: see footnotes 143, 726, 732, 755, 781, 846, and 904 on pp. 181, 347, 351, 358, 364, 383, and 402. Fewer illustrations are given of difficulties in the South Indian edition of the Svāyambhuvasūtrasaùgraha, but see footnotes 522 and 743 on pp. 290 and 355. VASUDEVA (\*2000) draws attention to and repairs a number.
 
-*[PDF 90]* ^pg90
+*[p. lxxxviii]* ^pg90
 
 Adyar Library) its text is marred by large distortive interpolations, !35 non-sensical omissions,!38 and passages that deviate very widely from all the manuscripts I have consulted.!37” The corpus of published early scriptures is thus small indeed, and the addition to it of the Parākhya makes a considerable difference, if only in bulk. And even if it treats many of the same themes as other texts, naturally it has different emphases. Thus it devotes more attention than the other early published scriptures to theories about language, mantras and scripture, and to the relative importance of dīkṣā and the four pādas. The Parākhya’s fourteenth chapter is a welcome addition to the small collection of works on early Saiva yoga. BRUNNER, in her article on the subject (1994), was obliged to rely (among the early Saiddhāntika sources) on the in some respects unusual account of the Mrgendra, the uninterpretably corrupt account of the Devakoṭtai edition of the Kirana, and the difficult treatments of the Matañùga and the Sārdhatriśatikālottara, the latter given piecemeal in a number of chapters. 138
 
@@ -288,7 +288,7 @@ of a multifarious transmission, perhaps a version close to that once transmitted
 
 149SANDERSON (1995b:565) mentions the omission of this source in his review, as well as of two other catalogued sources in North India that I have not seen: Sāhitya Samsthāna, Rājasthāna Vidyāpītṭha, Udaipur, Accession Nos. 205 and 334. In a letter of 27.ix.1997, Professor SANDERSON drew my attention to the existence of another Kashmirian MS in a collection recently acquired by the Staatsbibliothek in Berlin: it is part of a Sammelhandschrift, at that time labelled KA 1436, part of which has been consulted for its text of the Mālinīvijayottara and described by VAsupEva (\*2001:xiii).
 
-*[PDF 97]* ^pg97
+*[p. xcv]* ^pg97
 
 SOURCES FOR. THE CONSTITUTION OF THE TEXT
 
@@ -447,7 +447,7 @@ predominantly South Indian Saiddhāntika works arranged by the title of the work
 
 1688The composite character of this text appears not to have been noticed by its editor and translator Tara MICHAËL. A cursory search enabled me to find just less than a half of the verses that make up its first and principal section in other sources, among which the Sarvajñānottara and the Devīkālottara appear to be the most quoted.
 
-*[PDF 110]* ^pg110
+*[p. cviii]* ^pg110
 
 eviii Parākhyatantra
 
@@ -595,7 +595,7 @@ Svāyambhuvasūtrasaṁgraha 1:1-2 (1-2), 2:1 (19), 2:8
 
 The 39th verse of the Calcutta edition (of which, as we have seen, the second half has been supplied by the editor, and of which the first pāda looks as if it belongs to the tail-end of a passage of prose) is therefore to be expunged. The verses that are missing in the Calcutta edition and supplied in THIRUGNANASAMBANDHAN’s appendix have here been numbered 40a, 40b, etc., following the numeration in that appendix. I have not been able to trace a source that preserves the missing parts of the commentary.
 
-*[PDF 119]* ^pg119
+*[p. cxvii]* ^pg119
 
 Sources for the constitution of the text exvii
 

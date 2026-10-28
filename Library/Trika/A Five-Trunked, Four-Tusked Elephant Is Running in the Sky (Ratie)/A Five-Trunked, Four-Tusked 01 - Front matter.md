@@ -4,7 +4,7 @@ work: "[[Ratie - How Free Is Imagination according to Utpaladeva and Abhinavagup
 book: "[[Library/Trika/A Five-Trunked, Four-Tusked Elephant Is Running in the Sky (Ratie)/A Five-Trunked, Four-Tusked Elephant Is Running in the Sky (Ratie)|A Five-Trunked, Four-Tusked Elephant Is Running in the Sky (Ratie)]]"
 order: 1
 source_pdf: Library/Trika/Ratie - How Free Is Imagination according to Utpaladeva and Abhinavagupta (2010).pdf
-page_range: 1–5
+page_range: ""
 pdf_pages: 1–5
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

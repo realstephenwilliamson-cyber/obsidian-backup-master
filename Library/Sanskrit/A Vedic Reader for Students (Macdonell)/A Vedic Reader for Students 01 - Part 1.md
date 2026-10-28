@@ -4,7 +4,7 @@ work: "[[Macdonell - A Vedic Reader for Students (1992 reprint)]]"
 book: "[[Library/Sanskrit/A Vedic Reader for Students (Macdonell)/A Vedic Reader for Students (Macdonell)|A Vedic Reader for Students (Macdonell)]]"
 order: 1
 source_pdf: Library/Sanskrit/Macdonell - A Vedic Reader for Students (1992 reprint).pdf
-page_range: 2–6
+page_range: "1–6"
 pdf_pages: 1–40
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

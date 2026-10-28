@@ -4,7 +4,7 @@ work: "[[Ratie - A History of Time in the Samkhya Tradition]]"
 book: "[[Library/Philosophy/A History of Time in the Samkhya Tradition (Ratie)/A History of Time in the Samkhya Tradition (Ratie)|A History of Time in the Samkhya Tradition (Ratie)]]"
 order: 2
 source_pdf: Library/Philosophy/Ratie - A History of Time in the Samkhya Tradition (2021).pdf
-page_range: 376–85
+page_range: "376–419"
 pdf_pages: 41–85
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

@@ -23,4 +23,4 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 - [[Vijnanabhairava or Divine 02 - Part 2|Part 2]] (pp. 8–47)
 - [[Vijnanabhairava or Divine 03 - Part 3|Part 3]] (pp. 48–87)
 - [[Vijnanabhairava or Divine 04 - Part 4|Part 4]] (pp. 88–127)
-- [[Vijnanabhairava or Divine 05 - Part 5|Part 5]] (pp. 128–207)
+- [[Vijnanabhairava or Divine 05 - Part 5|Part 5]] (pp. 128–173)

@@ -4,7 +4,7 @@ work: "[[Report of the Hindu-Jewish Leadership Summit]]"
 book: "[[Report of the Hindu-Jewish Leadership Summit (text)|Report of the Hindu-Jewish Leadership Summit (text)]]"
 order: 1
 source_pdf: Library/Judaica/1st-Hindu-Jewish_Summit_Report-Final.pdf
-page_range: 1–25
+page_range: "3–25"
 pdf_pages: 1–29
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

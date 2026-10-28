@@ -25,5 +25,5 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[The Ritual of Battle 06 - Part 6|Part 6]] (pp. 210–249)
 - [[The Ritual of Battle 07 - Part 7|Part 7]] (pp. 250–289)
 - [[The Ritual of Battle 08 - Part 8|Part 8]] (pp. 290–330)
-- [[The Ritual of Battle 09 - Part 9|Part 9]] (pp. 331–360)
-- [[The Ritual of Battle 10 - Part 10|Part 10]] (pp. 361–373)
+- [[The Ritual of Battle 09 - Part 9|Part 9]] (pp. 331–362)
+- [[The Ritual of Battle 10 - Part 10|Part 10]] (pp. m)

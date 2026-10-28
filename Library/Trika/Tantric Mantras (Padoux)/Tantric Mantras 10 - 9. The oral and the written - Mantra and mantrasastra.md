@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Tantric Mantras (Padoux)]]"
 order: 10
-page_range: 111–122
+page_range: ""
 aliases:
   - Tantric Mantras 10 - 9. The oral and the written - Mantra and mantraśāstra
 ---

@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Goddess Traditions in Tantric Hinduism (Olesen)]]"
 order: 11
-page_range: "174–185"
+page_range: ""
 ---
 [p. 174] ^pg174
 

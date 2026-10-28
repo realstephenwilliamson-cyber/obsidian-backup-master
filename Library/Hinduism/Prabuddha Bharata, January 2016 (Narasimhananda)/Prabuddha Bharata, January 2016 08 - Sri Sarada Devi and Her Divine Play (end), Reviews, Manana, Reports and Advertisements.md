@@ -4,7 +4,7 @@ work: "[[Narasimhananda (ed.) - Prabuddha Bharata, January 2016]]"
 book: "[[Library/Hinduism/Prabuddha Bharata, January 2016 (Narasimhananda)/Prabuddha Bharata, January 2016 (Narasimhananda)|Prabuddha Bharata, January 2016 (Narasimhananda)]]"
 order: 8
 source_pdf: Library/Hinduism/012016.pdf
-page_range: 288–305
+page_range: "277–292"
 pdf_pages: 287–305
 text_source: the scan's OCR text layer (OCRmyPDF with Tesseract 5), PyMuPDF
 converted: 2026-10-07

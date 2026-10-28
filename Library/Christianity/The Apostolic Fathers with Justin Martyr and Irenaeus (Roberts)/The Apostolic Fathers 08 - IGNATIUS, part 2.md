@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 8
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: 120–125
+page_range: "120–163"
 pdf_pages: 160–203
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

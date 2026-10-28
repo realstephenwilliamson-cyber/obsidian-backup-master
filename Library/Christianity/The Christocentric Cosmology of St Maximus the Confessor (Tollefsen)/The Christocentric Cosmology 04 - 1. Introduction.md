@@ -4,7 +4,7 @@ work: "[[Tollefsen - The Christocentric Cosmology of St Maximus the Confessor]]"
 book: "[[Library/Christianity/The Christocentric Cosmology of St Maximus the Confessor (Tollefsen)/The Christocentric Cosmology of St Maximus the Confessor (Tollefsen)|The Christocentric Cosmology of St Maximus the Confessor (Tollefsen)]]"
 order: 4
 source_pdf: Library/Christianity/Tollefsen - The Christocentric Cosmology of St Maximus the Confessor (OUP 2008).pdf
-page_range: 2–20
+page_range: "1–20"
 pdf_pages: 12–31
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

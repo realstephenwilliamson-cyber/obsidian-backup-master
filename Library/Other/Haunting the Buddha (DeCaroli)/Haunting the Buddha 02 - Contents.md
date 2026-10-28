@@ -4,7 +4,7 @@ work: "[[DeCaroli - Haunting the Buddha]]"
 book: "[[Library/Other/Haunting the Buddha (DeCaroli)/Haunting the Buddha (DeCaroli)|Haunting the Buddha (DeCaroli)]]"
 order: 2
 source_pdf: Library/Other/DeCaroli - Haunting the Buddha (OUP 2004).pdf
-page_range: 10–13
+page_range: ""
 pdf_pages: 10–13
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

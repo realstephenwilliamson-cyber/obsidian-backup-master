@@ -4,7 +4,7 @@ work: "[[Maximus the Confessor - Disputation with Pyrrhus]]"
 book: "[[Library/Christianity/Disputation with Pyrrhus (Farrell)/Disputation with Pyrrhus (Farrell)|Disputation with Pyrrhus (Farrell)]]"
 order: 1
 source_pdf: "Library/Christianity/Maximus the Confessor - Disputation with Pyrrhus (Farrell).pdf"
-page_range: "i"
+page_range: "1–i"
 pdf_pages: "1–2"
 text_source: "fresh OCR with Tesseract 5 (eng, one text block per page, psm 6) of the page images: camera photos, two book pages on each"
 converted: 2026-10-12

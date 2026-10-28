@@ -44,7 +44,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 - [[Samarasya 26 - Chapter22|Chapter22]] (pp. 431–438)
 - [[Samarasya 27 - Chapter23|Chapter23]] (pp. l–454)
 - [[Samarasya 28 - Chapter24|Chapter24]] (pp. l–466)
-- [[Samarasya 29 - Chapter25|Chapter25]] (pp. l–476)
+- [[Samarasya 29 - Chapter25|Chapter25]] (pp. 467–476)
 - [[Samarasya 30 - Chapter26|Chapter26]] (pp. 480–520)
 - [[Samarasya 31 - Chapter27|Chapter27]] (pp. 521–528)
 - [[Samarasya 32 - Chapter28|Chapter28]] (pp. 532–538)

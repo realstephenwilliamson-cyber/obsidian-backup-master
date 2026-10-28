@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Goddess Traditions in Tantric Hinduism (Olesen)]]"
 order: 9
-page_range: 109–140
+page_range: ""
 aliases:
   - Goddess Traditions 09 - 6. Śāktism and haṭhayoga
 ---

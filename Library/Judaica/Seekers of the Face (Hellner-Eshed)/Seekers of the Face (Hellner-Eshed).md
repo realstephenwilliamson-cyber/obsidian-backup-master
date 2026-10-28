@@ -16,8 +16,8 @@ Converted from the PDF on 14 Oct 2026 (the PDF's own text layer). Each PDF page 
 
 ## Contents
 
-- [[Seekers of the Face 01 - Front matter|Front matter]] (pp. 1–16)
-- [[Seekers of the Face 02 - Introduction|Introduction]] (pp. 1–13)
+- [[Seekers of the Face 01 - Front matter|Front matter]] (PDF 1–16)
+- [[Seekers of the Face 02 - Introduction|Introduction]] (pp. 1–14)
 - [[Seekers of the Face 03 - Chapter 1 Introduction to the Idra Rabba|Chapter 1: Introduction to the Idra Rabba]] (pp. 17–29)
 - [[Seekers of the Face 04 - Chapter 2 The Language of Divine Faces|Chapter 2: The Language of Divine Faces]] (pp. 30–61)
 - [[Seekers of the Face 05 - Chapter 3 The Gaze|Chapter 3: The Gaze]] (pp. 62–74)

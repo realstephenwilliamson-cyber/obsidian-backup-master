@@ -17,10 +17,10 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Bourgeois Hinduism, or the Faith 01 - Front matter|Front matter]] (pp. 1–11)
-- [[Bourgeois Hinduism, or the Faith 02 - Contents|Contents]] (pp. 12–xii)
-- [[Bourgeois Hinduism, or the Faith 03 - Note on Transliteration and Primary Sources|Note on Transliteration and Primary Sources]] (pp. 14–17)
-- [[Bourgeois Hinduism, or the Faith 04 - Introduction|Introduction]] (pp. 18–18)
+- [[Bourgeois Hinduism, or the Faith 01 - Front matter|Front matter]] (pp. viii–x)
+- [[Bourgeois Hinduism, or the Faith 02 - Contents|Contents]] (pp. xi–xii)
+- [[Bourgeois Hinduism, or the Faith 03 - Note on Transliteration and Primary Sources|Note on Transliteration and Primary Sources]] (pp. xiii–xiv)
+- [[Bourgeois Hinduism, or the Faith 04 - Introduction|Introduction]] (pp. 4–18)
 - [[Bourgeois Hinduism, or the Faith 05 - 1. Vedanta According to Rammohan Roy|1. Vedānta According to Rammohan Roy]] (pp. 19–32)
 - [[Bourgeois Hinduism, or the Faith 06 - 2. Debendranath Tagore and the Tattvabodhini Sabha|2. Debendranath Tagore and the Tattvabodhinī Sabhā]] (pp. 33–48)
 - [[Bourgeois Hinduism, or the Faith 07 - 3. New Members and a New Founder|3. New Members and a New Founder]] (pp. 49–64)

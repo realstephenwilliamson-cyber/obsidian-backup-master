@@ -4,7 +4,7 @@ work: "[[Bang - Selected Chapters from the Tantrasadbhava]]"
 book: "[[Library/Trika/Selected Chapters from the Tantrasadbhava (Bang)/Selected Chapters from the Tantrasadbhava (Bang)|Selected Chapters from the Tantrasadbhava (Bang)]]"
 order: 4
 source_pdf: Library/Trika/Bang - Selected Chapters from the Tantrasadbhava (Hamburg diss. 2018).pdf
-page_range: v–10
+page_range: "v–vi"
 pdf_pages: 9–10
 text_source: PDF text layer (born-digital), PyMuPDF; 176 pages read by OCR (Tesseract) where the text layer has no Unicode
 converted: 2026-10-07
@@ -58,7 +58,7 @@ Mālinī-gahvara according to 3.99-102 . . . . . . . . . . . . . . . 356 5.9
 
 *Nādiphānta-krama* and locations of phonemes, according to 3.103- 126b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 360 5.10 Summary of *Tantrasadbhāva* 9.151-167b . . . . . . . . . . . . . . . . . . 380 5.11 Three encrypted mantras in the *Tantrasadbhāva* and in Jayaratha’s commentary on the *Tantrāloka* . . . . . . . . . . . . . . . . . . . . . 398
 
-*[PDF 10]* ^pg10
+*[p. vi]* ^pg10
 
 5.12 Encrypted *kṣurikā* mantras in the *Tantrasadbhāva* and *Tantrālokaviveka* . . . 402 5.13 Mantras from *Tantrasadbhāva* 9.316-6 And *Tantrāokaviveka* 30.60ab . . . . . 403 5.14 Four types of *kuṇḍas* . . . . . . . . . . . . . . . . . . . . . . . . . . . 417
 

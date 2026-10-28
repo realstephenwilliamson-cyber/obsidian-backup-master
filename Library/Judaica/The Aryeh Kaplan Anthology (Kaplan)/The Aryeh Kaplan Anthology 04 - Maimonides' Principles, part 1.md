@@ -4,7 +4,7 @@ work: "[[Kaplan - The Aryeh Kaplan Anthology]]"
 book: "[[Library/Judaica/The Aryeh Kaplan Anthology (Kaplan)/The Aryeh Kaplan Anthology (Kaplan)|The Aryeh Kaplan Anthology (Kaplan)]]"
 order: 4
 source_pdf: Library/Judaica/Aryeh Kaplan - Aryeh Kaplan Anthology Volume I. 1-Artscroll (1991).pdf
-page_range: 12–56
+page_range: ""
 pdf_pages: 12–56
 text_source: the scan's OCR text layer (OCRmyPDF with Tesseract 5), PyMuPDF
 converted: 2026-10-07

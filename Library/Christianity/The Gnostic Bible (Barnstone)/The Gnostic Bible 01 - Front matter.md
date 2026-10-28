@@ -4,7 +4,7 @@ work: "[[Barnstone (ed.) - The Gnostic Bible]]"
 book: "[[Library/Christianity/The Gnostic Bible (Barnstone)/The Gnostic Bible (Barnstone)|The Gnostic Bible (Barnstone)]]"
 order: 1
 source_pdf: Library/Christianity/The Gnostic Bible.pdf
-page_range: 1–2
+page_range: ""
 pdf_pages: 1–2
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

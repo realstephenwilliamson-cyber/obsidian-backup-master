@@ -4,7 +4,7 @@ work: "[[Gonda - History of Indian Literature Vol 2.1, Medieval Religious Litera
 book: "[[Library/Sanskrit/Medieval Religious Literature in Sanskrit (Gonda)/Medieval Religious Literature in Sanskrit (Gonda)|Medieval Religious Literature in Sanskrit (Gonda)]]"
 order: 1
 source_pdf: Library/Sanskrit/Gonda - Medieval Religious Literature in Sanskrit (2020).pdf
-page_range: 2–24
+page_range: "1–24"
 pdf_pages: 1–40
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

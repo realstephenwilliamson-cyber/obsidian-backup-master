@@ -17,9 +17,9 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Of Gods and Books 01 - Front matter|Front matter (Front matter, Studies in Manuscript Cultures, Of Gods and Books, Contents)]] (pp. 1–7)
-- [[Of Gods and Books 02 - Preface|Preface]] (pp. 8–13)
-- [[Of Gods and Books 03 - 1 Manuscripts, Ritual, and the State in Indian Sources (sections 1.1-1.2)|1 Manuscripts, Ritual, and the State in Indian Sources (sections 1.1–1.2)]] (pp. 14–38)
+- [[Of Gods and Books 01 - Front matter|Front matter (Front matter, Studies in Manuscript Cultures, Of Gods and Books, Contents)]] (PDF 1–7)
+- [[Of Gods and Books 02 - Preface|Preface]] (PDF 8–13)
+- [[Of Gods and Books 03 - 1 Manuscripts, Ritual, and the State in Indian Sources (sections 1.1-1.2)|1 Manuscripts, Ritual, and the State in Indian Sources (sections 1.1–1.2)]] (pp. 1–38)
 - [[Of Gods and Books 04 - 1 Manuscripts, Ritual, and the State in Indian Sources (continued, sections 1.2-1.3)|1 Manuscripts, Ritual, and the State in Indian Sources (continued, sections 1.2–1.3)]] (pp. 39–76)
 - [[Of Gods and Books 05 - Chapter 1 (end) and 2 The Task of Writing and the Art of Giving (section 2.1)|Chapter 1 (end) and 2 The Task of Writing and the Art of Giving (section 2.1)]] (pp. 77–114)
 - [[Of Gods and Books 06 - 2 The Task of Writing and the Art of Giving (continued, sections 2.1-2.3)|2 The Task of Writing and the Art of Giving (continued, sections 2.1–2.3)]] (pp. 115–152)
@@ -31,5 +31,5 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[Of Gods and Books 12 - 4 The Throne of Knowledge (end) and Appendix 1, The 'Chapter on the Gift of Knowledge'|4 The Throne of Knowledge (end) and Appendix 1: The ‘Chapter on the Gift of Knowledge’]] (pp. 357–396)
 - [[Of Gods and Books 13 - Appendix 1, The 'Chapter on the Gift of Knowledge' (end) and Appendix 2, Tables of Textual Parallels|Appendix 1: The ‘Chapter on the Gift of Knowledge’ (end) and Appendix 2: Tables of Textual Parallels]] (pp. 397–434)
 - [[Of Gods and Books 14 - Table A Structure of the Chapters on the Gift of Knowledge in the Sanskrit|Table A: Structure of the Chapters on the Gift of Knowledge in the Sanskrit Law-Digests]] (pp. 435–470)
-- [[Of Gods and Books 15 - Index of Authors|Index of Authors]] (pp. 484–m)
-- [[Of Gods and Books 16 - Index of Works|Index of Works]] (pp. 486–491)
+- [[Of Gods and Books 15 - Index of Authors|Index of Authors]] (pp. m)
+- [[Of Gods and Books 16 - Index of Works|Index of Works]] (PDF 486–491)

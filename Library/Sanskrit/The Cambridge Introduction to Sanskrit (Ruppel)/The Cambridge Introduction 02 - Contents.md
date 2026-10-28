@@ -4,7 +4,7 @@ work: "[[Ruppel - The Cambridge Introduction to Sanskrit]]"
 book: "[[Library/Sanskrit/The Cambridge Introduction to Sanskrit (Ruppel)/The Cambridge Introduction to Sanskrit (Ruppel)|The Cambridge Introduction to Sanskrit (Ruppel)]]"
 order: 2
 source_pdf: Library/Sanskrit/Ruppel/A. M. Ruppel - The Cambridge Introduction to Sanskrit-Cambridge University Press (2017).pdf
-page_range: vii
+page_range: "vii–xii"
 pdf_pages: 9–14
 text_source: PDF text layer (born-digital), PyMuPDF; Devanagari the text layer leaves unmapped read from a fresh OCR (Tesseract eng+san); 6 pages read by OCR (Tesseract) where the text layer has no Unicode
 converted: 2026-10-07
@@ -94,7 +94,7 @@ CHAPTER 6 
 
 Speech 59
 
-*[PDF 10]* ^pg10
+*[p. viii]* ^pg10
 
 Vowel Gradation and Why We Need to 
 
@@ -176,7 +176,7 @@ Compound Nouns 137
 
 General 137 Stems 138
 
-*[PDF 11]* ^pg11
+*[p. ix]* ^pg11
 
 Types of Sanskrit Compound 
 
@@ -253,7 +253,7 @@ Imperatives 241
 
 *s*-Stems 241 Imperatives 242
 
-*[PDF 12]* ^pg12
+*[p. x]* ^pg12
 
 Noun Stem Gradation; Consonant 
 
@@ -355,7 +355,7 @@ CHAPTER 39 
 
 Pronouns V: *asau*/*adas*- 351
 
-*[PDF 13]* ^pg13
+*[p. xi]* ^pg13
 
 Some Irregular Nouns 357
 
@@ -387,4 +387,4 @@ Literature Introductions 382 Conjunct Consonants: Reference List 385
 
 *Index* 430
 
-*[PDF 14]* ^pg14
+*[p. xii]* ^pg14

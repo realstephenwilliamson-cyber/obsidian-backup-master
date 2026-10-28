@@ -24,4 +24,4 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 - [[Abhinavagupta and His Works 02 - Part 2|Part 2]] (pp. 32–71)
 - [[Abhinavagupta and His Works 03 - Part 3|Part 3]] (pp. 72–111)
 - [[Abhinavagupta and His Works 04 - Part 4|Part 4]] (pp. 112–151)
-- [[Abhinavagupta and His Works 05 - Part 5|Part 5]] (pp. 152–204)
+- [[Abhinavagupta and His Works 05 - Part 5|Part 5]] (pp. 152–192)

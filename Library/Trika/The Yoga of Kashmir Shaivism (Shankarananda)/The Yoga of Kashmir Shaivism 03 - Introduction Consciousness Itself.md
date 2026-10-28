@@ -4,7 +4,7 @@ work: "[[Shankarananda - The Yoga of Kashmir Shaivism]]"
 book: "[[Library/Trika/The Yoga of Kashmir Shaivism (Shankarananda)/The Yoga of Kashmir Shaivism (Shankarananda)|The Yoga of Kashmir Shaivism (Shankarananda)]]"
 order: 3
 source_pdf: Library/Trika/Shankarananda - The Yoga of Kashmir Shaivism (2006).pdf
-page_range: 14–24
+page_range: "16–24"
 pdf_pages: 14–23
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07

@@ -4,7 +4,7 @@ work: "[[De Simini - Of Gods and Books]]"
 book: "[[Library/Hinduism/Of Gods and Books (De Simini)/Of Gods and Books (De Simini)|Of Gods and Books (De Simini)]]"
 order: 15
 source_pdf: Library/Hinduism/God's and books.pdf
-page_range: 484–m
+page_range: "m"
 pdf_pages: 484–485
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

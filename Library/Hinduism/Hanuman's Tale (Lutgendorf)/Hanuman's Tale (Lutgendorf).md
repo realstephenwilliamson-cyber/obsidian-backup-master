@@ -19,8 +19,8 @@ Converted from the PDF on 22 Oct 2026 (PDF text layer (born-digital), PyMuPDF; t
 
 ## Contents
 
-- [[Hanuman's Tale 01 - Front matter|Front matter]] (pp. viii–x)
-- [[Hanuman's Tale 02 - On Transliteration, Vocabulary, and Style|On Transliteration, Vocabulary, and Style]] (pp. xiv)
+- [[Hanuman's Tale 01 - Front matter|Front matter]] (pp. 1–13)
+- [[Hanuman's Tale 02 - On Transliteration, Vocabulary, and Style|On Transliteration, Vocabulary, and Style]] (pp. 14–17)
 - [[Hanuman's Tale 03 - 1. Major and Minor - Hanuman in Hindu Life and Scholarly Discourse|1. Major and Minor - Hanuman in Hindu Life and Scholarly Discourse]] (pp. 4–34)
 - [[Hanuman's Tale 04 - 2. A Long and Winding Tail - Hanuman in History and Historiography|2. A Long and Winding Tail - Hanuman in History and Historiography]] (pp. 35–88)
 - [[Hanuman's Tale 05 - 3. Prayers, Recipes, Memoirs - Hanuman in Hindi Popular Literature|3. Prayers, Recipes, Memoirs - Hanuman in Hindi Popular Literature]] (pp. 89–124)

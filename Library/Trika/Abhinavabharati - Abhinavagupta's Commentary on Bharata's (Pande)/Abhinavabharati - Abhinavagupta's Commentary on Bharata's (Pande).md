@@ -20,10 +20,10 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 
 ## Contents
 
-- [[Abhinavabharati - 01 - Front matter|Front matter]] (pp. 1–2)
-- [[Abhinavabharati - 02 - Introduction|Introduction]] (pp. 6–28)
+- [[Abhinavabharati - 01 - Front matter|Front matter]] (PDF 1–2)
+- [[Abhinavabharati - 02 - Introduction|Introduction]] (pp. 28)
 - [[Abhinavabharati - 03 - Natyasastra and its Commentary, part 1|Nāṭyaśāstra and its Commentary, part 1]] (pp. 29–76)
 - [[Abhinavabharati - 04 - Natyasastra and its Commentary, part 2|Nāṭyaśāstra and its Commentary, part 2]] (pp. 77–122)
 - [[Abhinavabharati - 05 - Notes|Notes]] (pp. 123–178)
-- [[Abhinavabharati - 06 - Select Bibliography|Select Bibliography]] (pp. 179–182)
-- [[Abhinavabharati - 07 - Index|Index]] (pp. 183–185)
+- [[Abhinavabharati - 06 - Select Bibliography|Select Bibliography]] (PDF 179–182)
+- [[Abhinavabharati - 07 - Index|Index]] (PDF 183–185)

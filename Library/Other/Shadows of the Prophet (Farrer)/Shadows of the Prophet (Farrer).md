@@ -19,8 +19,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 - [[Shadows of the Prophet 01 - Cover|Cover]] (PDF 1)
 - [[Shadows of the Prophet 02 - Muslims in Global Societies Series, Volume 2|Muslims in Global Societies Series, Volume 2]] (PDF 2)
-- [[Shadows of the Prophet 03 - Shadows of the Prophet Martial Arts and Sufi Mysticism|Shadows of the Prophet:
-Martial Arts and Sufi Mysticism]] (PDF 3–5)
+- [[Shadows of the Prophet 03 - Shadows of the Prophet Martial Arts and Sufi Mysticism|Shadows of the Prophet: Martial Arts and Sufi Mysticism]] (PDF 3–5)
 - [[Shadows of the Prophet 04 - Preface|Preface]] (pp. vii–viii)
 - [[Shadows of the Prophet 05 - Acknowledgements|Acknowledgements]] (pp. ix–x)
 - [[Shadows of the Prophet 06 - Contents|Contents]] (pp. xi–xiii)

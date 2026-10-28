@@ -107,7 +107,7 @@ The Approach of Kashmir Saivism 329 Bettina Bäumer Appendix:
 
 Bibliography Kashmir Saivism 361 3. About the Contributors 363
 
-*[PDF 7]* ^pg7
+*[p. vii]* ^pg7
 
 ACKNOWLEDGEMENTS
 
@@ -125,13 +125,13 @@ Mr-G.K. Chatterjee has fed the articles into the computer, and Mr D.K. Sahoo has
 
 The Abhishiktananda Society has supported the Seminar and the preparation of the press-copy, mostly financed by the royalties of the books of Abhishiktananda.
 
-*[PDF 8]* ^pg8
+*[p. viii]* ^pg8
 
 In the heart of every man there is something — a drive? — which is already there when he is born and will haunt him unremittingly until his last breath. It is a mystery which encompasses him on every side, but one which none of his faculties can ever attain to or, still less, lay hold of. It cannot be located in anything that can be seen,.heard, touched or known in this world. There is no sign for it . . . It is a bursting asunder at the very heart of being, something utterly unbearable. But nevertheless this is the price of finding the treasure that is without name or form or sign. It is the unique splendour of the Self — but no one is left in its presence to exclaim, “How beautiful it is!”
 
 Abhishiktananda, *The Further Shore*, p. 37
 
-*[PDF 9]* ^pg9
+*[p. ix]* ^pg9
 
 *S o ’ham* I am He.
 

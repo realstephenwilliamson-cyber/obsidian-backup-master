@@ -4,7 +4,7 @@ work: "[[Acri - The Saiva Atimarga in the Light of Nisvasaguhya 12.1-22ab]]"
 book: "[[Library/Hinduism/The Saiva Atimarga in the Light of Nisvasaguhya 12.1-22ab (Acri)/The Saiva Atimarga in the Light of Nisvasaguhya 12.1-22ab (Acri)|The Saiva Atimarga in the Light of Nisvasaguhya 12.1-22ab (Acri)]]"
 order: 1
 source_pdf: Library/Hinduism/2014_The_Saiva_Atimarga_in_the_Light_of.pdf
-page_range: 1–46
+page_range: "8–49"
 pdf_pages: 1–46
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

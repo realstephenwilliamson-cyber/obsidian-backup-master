@@ -4,7 +4,7 @@ work: "[[Goshen-Gottstein - The Jewish Encounter with Hinduism]]"
 book: "[[Library/Judaica/The Jewish Encounter with Hinduism (Goshen-Gottstein)/The Jewish Encounter with Hinduism (Goshen-Gottstein)|The Jewish Encounter with Hinduism (Goshen-Gottstein)]]"
 order: 11
 source_pdf: Library/Judaica/The Jewish encounter with Hinduism _ wisdom, spirituality, identity-Palgrave Macmillan (2016).pdf
-page_range: 97–111
+page_range: "94–111"
 pdf_pages: 97–115
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

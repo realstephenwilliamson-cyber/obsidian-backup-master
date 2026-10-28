@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Tantric Mantras (Padoux)]]"
 order: 9
-page_range: "103–110"
+page_range: ""
 ---
 [p. 103] ^pg103
 

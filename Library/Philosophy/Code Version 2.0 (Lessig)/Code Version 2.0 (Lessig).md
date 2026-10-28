@@ -18,7 +18,7 @@ Converted from the PDF on 22 Oct 2026 (the PDF's own text layer (PyMuPDF)). Each
 
 - [[Code v2 01 - Front matter|Front matter]] (pp. 1–6)
 - [[Code v2 02 - Preface to the Second Edition|Preface to the Second Edition]] (pp. ix–xi)
-- [[Code v2 03 - Preface to the First Edition|Preface to the First Edition]] (pp. xiii–xvii)
+- [[Code v2 03 - Preface to the First Edition|Preface to the First Edition]] (pp. xiii–15)
 - [[Code v2 04 - Chapter 1. Code Is Law|Chapter 1. Code Is Law]] (pp. 1–8)
 - [[Code v2 05 - Chapter 2. Four Puzzles from Cyberspace|Chapter 2. Four Puzzles from Cyberspace]] (pp. 9–30)
 - [[Code v2 06 - Chapter 3. Is-Ism Is the Way It Is the Way It Must Be|Chapter 3. Is-Ism: Is the Way It Is the Way It Must Be?]] (pp. 31–37)

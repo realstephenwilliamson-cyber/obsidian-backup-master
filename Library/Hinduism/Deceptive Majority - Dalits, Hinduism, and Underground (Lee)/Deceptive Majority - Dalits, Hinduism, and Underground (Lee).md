@@ -17,9 +17,9 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Deceptive Majority - Dalits 01 - Front matter|Front matter]] (pp. 1–4)
-- [[Deceptive Majority - Dalits 02 - Deceptive Majority|Deceptive Majority]] (pp. 5–18)
-- [[Deceptive Majority - Dalits 03 - Untouchability and Alterity,|Untouchability and Alterity,]] (pp. 19–74)
+- [[Deceptive Majority - Dalits 01 - Front matter|Front matter]] (PDF 1–4)
+- [[Deceptive Majority - Dalits 02 - Deceptive Majority|Deceptive Majority]] (PDF 5–18)
+- [[Deceptive Majority - Dalits 03 - Untouchability and Alterity,|Untouchability and Alterity,]] (pp. 4–74)
 - [[Deceptive Majority - Dalits 04 - II Making Untouchables Hindu, part 1|II Making “Untouchables” Hindu, part 1]] (pp. 75–120)
 - [[Deceptive Majority - Dalits 05 - II Making Untouchables Hindu, part 2|II Making “Untouchables” Hindu, part 2]] (pp. 121–166)
 - [[Deceptive Majority - Dalits 06 - II Making Untouchables Hindu, part 3|II Making “Untouchables” Hindu, part 3]] (pp. 167–210)

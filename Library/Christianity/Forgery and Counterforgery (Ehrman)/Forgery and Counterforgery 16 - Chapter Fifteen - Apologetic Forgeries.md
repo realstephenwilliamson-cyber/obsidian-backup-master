@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 16
-page_range: "481–528"
+page_range: ""
 ---
 [[Forgery and Counterforgery 15 - Chapter Fourteen - Forgeries Arising from Later Theological Controversies|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 17 - Chapter Sixteen - Lies and Deception in the Cause of Truth|next →]]
 

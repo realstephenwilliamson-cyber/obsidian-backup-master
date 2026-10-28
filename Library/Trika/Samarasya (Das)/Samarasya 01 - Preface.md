@@ -22,7 +22,7 @@ Studies in Indian Arts, Philosophy, and Interreligious Dialogue
 
 *[p. ii]* ^pg2
 
-*[PDF 3]* ^pg3
+*[p. iii]* ^pg3
 
 Sāmarasya
 
@@ -42,7 +42,7 @@ D.K.Printworld (P) Ltd.
 
 New Delhi
 
-*[PDF 4]* ^pg4
+*[p. iv]* ^pg4
 
 Cataloging in Publication Data — DK \[Courtesy: D.K. Agencies (P) Ltd. &lt;docinfo@dkagencies.com>\]
 
@@ -80,7 +80,7 @@ D.K. Printworld (P) Ltd.
 
 Regd. Office: ‘Sri Kunj’, F-52, Bali Nagar New Delhi-110 015 Phones: (011) 2545-3975; 2546-6019; Fax: (011) 2546-5926 E-mail: dkprintworld@vsnl.net Website: www.dkprintworld.com
 
-*[PDF 5]* ^pg5
+*[p. v]* ^pg5
 
 mohah śānto guruvaramukhāmnāyatattvopalambhāt magnam cetah samarasasamāsvādalolari cidabdhau |
 bhāvavrātah praśimamagamat nirvikalpe samādhau siddhābhāsah sa bhavatu hi me ko'pi sariwvit vikāsah \\\\
@@ -104,7 +104,7 @@ Swami Rāma Joo (1852-1915) the grandmaster of Swami Lakshman Joo मोहः �
 
 *[p. vi]* ^pg6
 
-*[PDF 7]* ^pg7
+*[p. vii]* ^pg7
 
 Contents
 
@@ -346,13 +346,13 @@ Shivamurthy Shivacharya
 
 557
 
-*[PDF 10]* ^pg10
+*[p. x]* ^pg10
 
 32\. The Drop of Water: An Intercultural Metaphor 567 Raimon Panikkar
 
 Contributors 587 Index 609
 
-*[PDF 11]* ^pg11
+*[p. xi]* ^pg11
 
 Editors’ Preface
 
@@ -386,7 +386,7 @@ Her important contributions to all these areas express on the one hand the origi
 
 This Felicitation Volume is an expression of recognition of the work of Bettina Bäumer over the last forty years — as an eminent scholar, who entered deeply into Indian Culture and Spirituality, as one of the foremost expounders of non-dualistic Kashmir Śaivism, and as an important figure in the field of interreligious dialogue. It is a tribute to her outstanding work and personality. But at the same time it is an expression of friendship
 
-*[PDF 13]* ^pg13
+*[p. xiii]* ^pg13
 
 Editors’ Preface xiii
 
@@ -404,7 +404,7 @@ Sadananda Das
 
 Ernst Fürlinger
 
-*[PDF 14]* ^pg14
+*[p. xiv]* ^pg14
 
 Acknowledgements
 
@@ -414,11 +414,11 @@ Dr. Anjan Chakraverty (Varanasi) for his creative inspiration and practical supp
 
 Michael Ianuzielo (Montreal/ Varanasi) and John Campbell (New York) for their committed and accurate language editing; David Peters (Vienna), Dr. Ulrich Winkler and Michael Bäumer (Salzburg) who helped us to find old and new photos of Bettina Bäumer; Pt. M.L. Kokiloo (Delhi) for providing us the motto for this volume; the publisher, Sri Susheel K. Mittal, for his cooperation, patience and encouragement; the authorities of the ‘Alice Boner Institute’ (Varanasi), for allowing us to use their facilities for the preparation of this volume; all contributors who were kind enough to accept our invitation.
 
-*[PDF 15]* ^pg15
+*[p. xv]* ^pg15
 
 *[p. xvi]* ^pg16
 
-*[PDF 17]* ^pg17
+*[p. xvii]* ^pg17
 
 Lokayātrā
 
@@ -452,7 +452,7 @@ until the present day.
 
 2\. The Vedic Experience. Mantramañjarī. An Anthology of the Vedas for Modern Man and Contemporary Celebration, ed. and tr. with introduction and notes by Raimundo Panikkar, with the collaboration of N. Shanta, M. Rogers, B. Bäumer, M. Bidoli, London: Darton, Longman & Todd, 1977; 1st Indian edn.: Pondicherry: All India Books, 1983.
 
-*[PDF 19]* ^pg19
+*[p. xix]* ^pg19
 
 Lokayātrā: A Pilgrimage in Two Cultures xix
 
@@ -496,7 +496,7 @@ kkmhandweaving@yahoo.com.in
 
 9\. Collections of poems of Agnes Kunze in German: Verwobene Hoffnung, Mainz: Grünewald, 1988; Verdschungelter Glaube, Eigenverlag: Verein Arbeitsgruppe 3. Welt Hard, 1998.
 
-*[PDF 21]* ^pg21
+*[p. xxi]* ^pg21
 
 Lokayātrā: A Pilgrimage in Two Cultures xxi
 
@@ -536,7 +536,7 @@ Spirituality in Interfaith Dialogue, ed. Tosh Arai, Wesley Ariarajah, Geneva: WC
 
 13\. See Swami Abhishiktananda: Hindu-Christian Meeting Point — within the cave of the heart (orig. Paris 1965), tr. Sara Grant, Delhi: ISPCK, 1969, rev. edn. 1976. The Upaniṣadic motive of the ‘cave’ is an important theme in Bettina Bäumer’s work; see her article: ‘From Guhā to Ākāśa: The Mystical Cave in the Vedic and Śaiva Traditions’, in: Kapila Vatsyayan (ed.), Concepts of Space: Ancient and Modern, New Delhi: Indira Gandhi National Centre for the Arts/Abhinav Publications, 1991, pp. 105-22.
 
-*[PDF 23]* ^pg23
+*[p. xxiii]* ^pg23
 
 Lokayātrā xxiii
 
@@ -546,7 +546,7 @@ Photo
 
 Photo
 
-*[PDF 25]* ^pg25
+*[p. xxv]* ^pg25
 
 Lokayātrā XXV
 
@@ -556,7 +556,7 @@ Photo
 
 Photo
 
-*[PDF 27]* ^pg27
+*[p. xxvii]* ^pg27
 
 Lokayātrā xxvii
 
@@ -566,7 +566,7 @@ Photo
 
 Photo
 
-*[PDF 29]* ^pg29
+*[p. xxix]* ^pg29
 
 Lokayātrā xxİx
 
@@ -576,7 +576,7 @@ Photo
 
 Photo
 
-*[PDF 31]* ^pg31
+*[p. xxxi]* ^pg31
 
 Lokayātrā xxxi
 
@@ -586,7 +586,7 @@ Photo
 
 Photo
 
-*[PDF 33]* ^pg33
+*[p. xxxiii]* ^pg33
 
 Lokayātrā xxxiii
 
@@ -596,7 +596,7 @@ Photo
 
 Photo
 
-*[PDF 35]* ^pg35
+*[p. xxxv]* ^pg35
 
 Bettina Bäumer
 
@@ -688,7 +688,7 @@ Patañjali: Die Wurzeln des Yoga. Die Yoga-Sūtren des Patañjali mit einem Komm
 
 Bäumer).
 
-*[PDF 37]* ^pg37
+*[p. xxxvii]* ^pg37
 
 Bettina Bäumer: Bibliography xxxvii
 
@@ -762,7 +762,7 @@ ARTICLES
 
 11. 12. 14.
 
-*[PDF 39]* ^pg39
+*[p. xxxix]* ^pg39
 
 Bettina Bäumer: Bibliography XXXİX
 

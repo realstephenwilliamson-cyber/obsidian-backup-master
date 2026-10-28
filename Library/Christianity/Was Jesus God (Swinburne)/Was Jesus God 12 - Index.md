@@ -4,7 +4,7 @@ work: "[[Swinburne - Was Jesus God]]"
 book: "[[Library/Christianity/Was Jesus God (Swinburne)/Was Jesus God (Swinburne)|Was Jesus God (Swinburne)]]"
 order: 12
 source_pdf: Library/Christianity/Swinburne - Was Jesus God (OUP 2008).pdf
-page_range: 171–187
+page_range: "171–175"
 pdf_pages: 182–187
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

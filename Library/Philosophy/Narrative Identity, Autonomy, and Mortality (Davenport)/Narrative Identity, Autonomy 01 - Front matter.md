@@ -4,7 +4,7 @@ work: "[[Davenport - Narrative Identity, Autonomy, and Mortality]]"
 book: "[[Library/Philosophy/Narrative Identity, Autonomy, and Mortality (Davenport)/Narrative Identity, Autonomy, and Mortality (Davenport)|Narrative Identity, Autonomy, and Mortality (Davenport)]]"
 order: 1
 source_pdf: Library/Philosophy/Davenport - Narrative Identity, Autonomy, and Mortality (2012).pdf
-page_range: 1–iv
+page_range: "i–iv"
 pdf_pages: 1–5
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

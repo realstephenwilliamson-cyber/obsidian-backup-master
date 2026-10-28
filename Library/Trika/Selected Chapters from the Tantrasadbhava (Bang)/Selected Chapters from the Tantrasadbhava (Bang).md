@@ -17,11 +17,11 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF; 17
 
 ## Contents
 
-- [[Selected Chapters 01 - Front matter|Front matter]] (pp. 1–4)
-- [[Selected Chapters 02 - Contents|Contents]] (pp. i–6)
-- [[Selected Chapters 03 - List of Figures|List of Figures]] (pp. iii–8)
-- [[Selected Chapters 04 - List of Tables|List of Tables]] (pp. v–10)
-- [[Selected Chapters 05 - Acknowledgements|Acknowledgements]] (pp. vii–12)
+- [[Selected Chapters 01 - Front matter|Front matter]] (PDF 1–4)
+- [[Selected Chapters 02 - Contents|Contents]] (pp. i–ii)
+- [[Selected Chapters 03 - List of Figures|List of Figures]] (pp. iii–iv)
+- [[Selected Chapters 04 - List of Tables|List of Tables]] (pp. v–vi)
+- [[Selected Chapters 05 - Acknowledgements|Acknowledgements]] (pp. vii)
 - [[Selected Chapters 06 - Chapter 1 A Glimpse of 11th Century Saiva Sanskrit Manuscripts from Nepal|Chapter 1 A Glimpse of 11th Century Śaiva Sanskrit Manuscripts from Nepal]] (pp. 1–58)
 - [[Selected Chapters 07 - Chapter 2 Introduction|Chapter 2 Introduction]] (pp. 59–118)
 - [[Selected Chapters 08 - Chapter 3 Sources and Editorial Conventions|Chapter 3 Sources and Editorial Conventions]] (pp. 119–130)

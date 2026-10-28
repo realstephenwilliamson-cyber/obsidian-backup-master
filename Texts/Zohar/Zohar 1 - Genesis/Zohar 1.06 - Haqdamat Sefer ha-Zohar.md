@@ -2131,7 +2131,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^639]: **Quality of day... of night** In BT *Berakhot* [[Berakhot 11#11b|11b]], Rava and Abbaye indicate that light is mentioned in the evening prayers, and darkness in the morning prayers, “in order to mention the quality of day during the night and the quality of night during the day.”
 
-    See *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-120b|1:120b]], 259a (*Hash*); [[Zohar 5.05 - Parashat Terumah#^z2-162a|2:162a]]; [[Zohar 9.12 - Parashat Va-Ethannan#^z3-260b|3:260b]], [[Zohar 12.06 - Piqqudin#^z3-264a|264a]].
+    See *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-120b|1:120b]], 259a (*Hash*); [[Zohar 5.05 - Parashat Terumah#^z2-162a|2:162a]]; [[Zohar 9.12 - Parashat Va-Ethannan#^z3-260b|3:260b]], [[Zohar 12.06 - Piqqudin#^z3-264a|264a]].
 
 [^640]: **he joined below...** The serpent united the demonic powers below, thereby ruining the divine harmony above. Alternatively, he united *Shekhinah* with the demonic powers. On the nature of the sin in the Garden of Eden, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-35b|1:35b]]–36b, [[Zohar 1.07 - Parashat Be-Reshit#^z1-51a|51a–53b]], [[Zohar 8.04 - Parashat Emor#^z1-221a|221a–b]]; Scholem, *Major Trends*, 231–32, 236, 404–5, n. 105; Tishby, *Wisdom of the Zohar*, 1:373–76.
 
@@ -2203,7 +2203,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
 [^672]: **on the right... on the left...** Corresponding to *Ḥesed* (“Love”) and *Din* (“Judgment”). Though the angels stem from opposite sides, they act in concert, according to each person’s conduct.
 
-    See BT *Shabbat* [[Shabbat 119#119b|119b]]; *Ta’anit* 11a; *Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-144b|1:144b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-165b|165b]]; [[Zohar 5.03 - Parashat Mishpatim#^z2-106b|2:106b]], [[Zohar 6.06 - Parashat Pequdei#^z2-239a|239a]]; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47a|47a]]; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-84d|84d]] (*MhN, Rut*).
+    See BT *Shabbat* [[Shabbat 119#119b|119b]]; *Ta’anit* 11a; *Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-144b|1:144b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-165b|165b]]; [[Zohar 5.03 - Parashat Mishpatim#^z2-106b|2:106b]], [[Zohar 6.06 - Parashat Pequdei#^z2-239a|239a]]; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47a|47a]]; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-84d|84d]] (*MhN, Rut*).
 
 [^673]: **has the authority** To grant a pardon. See *Zohar* [[Zohar 12.05 - Heikhalot Pequdei#^z2-252a|2:252a]].
 
@@ -2405,7 +2405,7 @@ As soon as the day is hallowed and holiness rules the world, that other side dim
 
     See [[Torah 15 - Bo#^13-1|Exodus 13:1–16]]; [[Torah 34 - Bamidbar#^3-11|Numbers 3:11–13]]; *Teshuvot ha-Ge’onim, Sha’arei Teshuvah*, 47; Ta-Shma, *Minhag Ashkenaz ha-Qadmon*, 336-42.
 
-[^747]: **two appointees...** Two angels accompany each human being. See BT *Shabbat* [[Shabbat 119#119b|119b]]; *Ta’anit* 11a; *Zohar* [[#^z1-12b|1:12b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-52a|52a]], [[Zohar 2.05 - Parashat Toledot#^z1-144b|144b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-165b|165b]]; [[Zohar 5.03 - Parashat Mishpatim#^z2-106b|2:106b]], [[Zohar 6.06 - Parashat Pequdei#^z2-239a|239a]].
+[^747]: **two appointees...** Two angels accompany each human being. See BT *Shabbat* [[Shabbat 119#119b|119b]]; *Ta’anit* 11a; *Zohar* [[#^z1-12b|1:12b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-52a|52a]], [[Zohar 2.05 - Parashat Toledot#^z1-144b|144b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-165b|165b]]; [[Zohar 5.03 - Parashat Mishpatim#^z2-106b|2:106b]], [[Zohar 6.06 - Parashat Pequdei#^z2-239a|239a]].
 
 [^748]: ***good*****—Angel of Life;** ***very*****—Angel of Death** See *Bereshit Rabbah* 9:10 (according to Oxford MS 147; cf. Paris MS 149 and *Yalqut Shim’oni* \[in the variants in Theodor-Albeck’s edition\]): “Rabbi Shemu’el son of Rav Yitsḥak said, ‘*Behold, it was good*—this is the Angel of Life; *very*—this is the Angel of Death.’”
 

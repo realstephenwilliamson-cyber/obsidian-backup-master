@@ -17,11 +17,11 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Darkness of God 01 - Front matter|Front matter]] (pp. 1–4)
-- [[The Darkness of God 02 - THE DARKNESS OF GOD|THE DARKNESS OF GOD]] (pp. 5–6)
-- [[The Darkness of God 03 - Contents|Contents]] (pp. 7–8)
+- [[The Darkness of God 01 - Front matter|Front matter]] (PDF 1–4)
+- [[The Darkness of God 02 - THE DARKNESS OF GOD|THE DARKNESS OF GOD]] (PDF 5–6)
+- [[The Darkness of God 03 - Contents|Contents]] (PDF 7–8)
 - [[The Darkness of God 04 - Acknowledgements|Acknowledgements]] (pp. ix–10)
-- [[The Darkness of God 05 - The Allegory and Exodus|The Allegory and Exodus]] (pp. i–18)
+- [[The Darkness of God 05 - The Allegory and Exodus|The Allegory and Exodus]] (pp. 11–18)
 - [[The Darkness of God 06 - Cataphatic and the apophatic in Denys the Areopagite|Cataphatic and the apophatic in Denys the Areopagite]] (pp. 19–49)
 - [[The Darkness of God 07 - The God within Augustine's Confessions|The God within: Augustine's Confessions]] (pp. 50–73)
 - [[The Darkness of God 08 - Interiority and ascent Augustine's De Trinitate|Interiority and ascent: Augustine's De Trinitate]] (pp. 74–101)
@@ -31,5 +31,5 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[The Darkness of God 12 - The Cloud of Unknowing and the critique ofinteriority|The Cloud of Unknowing and the critique ofinteriority]] (pp. 186–210)
 - [[The Darkness of God 13 - Denys the Carthusian and the problem of experience|Denys the Carthusian and the problem of experience]] (pp. 211–225)
 - [[The Darkness of God 14 - John of the Cross the dark nights and depression|John of the Cross: the dark nights and depression]] (pp. 226–251)
-- [[The Darkness of God 15 - From mystical theology to mysticism|From mystical theology to mysticism]] (pp. ii–275)
+- [[The Darkness of God 15 - From mystical theology to mysticism|From mystical theology to mysticism]] (pp. 252–275)
 - [[The Darkness of God 16 - Index|Index]] (pp. 276–278)

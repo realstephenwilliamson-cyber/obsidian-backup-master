@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Play as Symbol of the World (Fink)]]"
 order: 11
-page_range: "249–250"
+page_range: ""
 ---
 [p. 249] ^pg249
 

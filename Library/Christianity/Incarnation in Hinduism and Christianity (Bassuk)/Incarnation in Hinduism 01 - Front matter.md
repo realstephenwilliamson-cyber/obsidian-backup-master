@@ -4,7 +4,7 @@ work: "[[Bassuk - Incarnation in Hinduism and Christianity]]"
 book: "[[Library/Christianity/Incarnation in Hinduism and Christianity (Bassuk)/Incarnation in Hinduism and Christianity (Bassuk)|Incarnation in Hinduism and Christianity (Bassuk)]]"
 order: 1
 source_pdf: Library/Christianity/Bassuk - Incarnation in Hinduism and Christianity (1987).pdf
-page_range: 1–3
+page_range: ""
 pdf_pages: 1–3
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF
 converted: 2026-10-07

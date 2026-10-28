@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Goddess Traditions in Tantric Hinduism (Olesen)]]"
 order: 10
-page_range: 141–173
+page_range: ""
 aliases:
   - Goddess Traditions 10 - 7. Śāktism, polity and society in medieval Malabar
 ---

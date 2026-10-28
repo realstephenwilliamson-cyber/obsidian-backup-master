@@ -4,7 +4,7 @@ work: "[[Schweitzer - The Quest of the Historical Jesus]]"
 book: "[[Library/Christianity/The Quest of the Historical Jesus (Schweitzer)/The Quest of the Historical Jesus (Schweitzer)|The Quest of the Historical Jesus (Schweitzer)]]"
 order: 1
 source_pdf: Library/Christianity/Albert Schweitzer - The Quest of the Historical Jesus.pdf
-page_range: 2–39
+page_range: "1–39"
 pdf_pages: 1–40
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

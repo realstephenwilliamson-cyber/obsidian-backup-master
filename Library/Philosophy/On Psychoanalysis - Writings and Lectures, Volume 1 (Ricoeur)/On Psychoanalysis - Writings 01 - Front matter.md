@@ -4,7 +4,7 @@ work: "[[Ricoeur - On Psychoanalysis (Writings and Lectures Vol 1)]]"
 book: "[[Library/Philosophy/On Psychoanalysis - Writings and Lectures, Volume 1 (Ricoeur)/On Psychoanalysis - Writings and Lectures, Volume 1 (Ricoeur)|On Psychoanalysis - Writings and Lectures, Volume 1 (Ricoeur)]]"
 order: 1
 source_pdf: Library/Philosophy/Ricoeur - On Psychoanalysis, Writings and Lectures 1 (2012).pdf
-page_range: "1"
+page_range: ""
 pdf_pages: 1–1
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF
 converted: 2026-10-07

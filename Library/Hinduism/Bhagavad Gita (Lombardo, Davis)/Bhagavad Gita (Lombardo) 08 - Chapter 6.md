@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Bhagavad Gita (Lombardo, Davis)]]"
 order: 8
-page_range: "37–43"
+page_range: ""
 aliases:
   - "Gita (Lombardo) 6"
 ---

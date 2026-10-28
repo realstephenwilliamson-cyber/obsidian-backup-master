@@ -4,7 +4,7 @@ work: "[[Dyczkowski - Tantraloka (tr., vols I-XI)]]"
 book: "[[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)|Tantraloka vol 01 (Dyczkowski)]]"
 order: 2
 source_pdf: Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf
-page_range: 15–41
+page_range: "1–41"
 pdf_pages: 15–55
 text_source: the PDF OCR layer, with anusvara fix; Devanagari lines read again with Tesseract san; footnotes separated at the footnote rule and numbered by sequence (7 Oct 2026)
 converted: 2026-10-07

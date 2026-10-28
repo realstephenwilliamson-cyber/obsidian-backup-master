@@ -403,7 +403,7 @@ Rabbi Yehudah said, “Come and see what is written about him: *He saw that he c
 
     In BT *Bava Metsi’a* 85a, the name of Rabbi El’azar’s brother-in-law is given as Rabbi Shim’on son of Issi (Yose) son of Lekonya, which would make Yose his father-in-law, as in the *Zohar*—but nowhere in rabbinic literature is he named Yose son of Shim’on.
 
-    On journeying from Usha to Lydda, see *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-5a|2:5a]] (*MhN*), [[Zohar 4.05 - Parashat Bo#^z2-36b|36b]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-45b|45b]]; [[Zohar 8.08 - Parashat Naso#^z3-122a|3:122a]], [[Zohar 9.11 - Parashat Pinehas#^z3-240a|240a]]. On the verse from Genesis, see *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-165b|1:165b–166a]]; [[Zohar 9.16 - Commentary on Ha'azinu, continued#^z3-298a|3:298a]].
+    On journeying from Usha to Lydda, see *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-5a|2:5a]] (*MhN*), [[Zohar 4.05 - Parashat Bo#^z2-36b|36b]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-45b|45b]]; [[Zohar 8.08 - Parashat Naso#^z3-122a|3:122a]], [[Zohar 9.11 - Parashat Pinehas#^z3-240a|240a]]. On the verse from Genesis, see *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-165b|1:165b–166a]]; [[Zohar 9.16 - Commentary on Ha'azinu, continued#^z3-298a|3:298a]].
 
 [^7]: **angels that accompanied him previously…** When Jacob departed from Laban and began his journey back to the land of Israel, he was met by angels ([[Torah 07 - Vayetzei#^32-1|Genesis 32:1–3]]). Earlier, when he had set out for Haran, he beheld angels in a dream ([[Torah 07 - Vayetzei#^28-12|Genesis 28:12]]). According to Rabbi Shim’on, they were the same angels—bookending, as it were, his stay outside of the land of Israel. See *Aggadat Bereshit* (Buber) 55:1; *Tanḥuma, Vayishlaḥ* 3.
 
@@ -465,7 +465,7 @@ Rabbi Yehudah said, “Come and see what is written about him: *He saw that he c
 
 [^18]: ***For He will command His angels*…** Rabbi El’azar does not divulge what he has seen and heard.
 
-    On the verse from Psalms, see *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-165b|1:165b–166a]]; cf. *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|1:12b]].
+    On the verse from Psalms, see *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-165b|1:165b–166a]]; cf. *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|1:12b]].
 
     This story provides a neat illustration of Zoharic literary art, with narrative and homily reinforcing one another. Just as Jacob is met by angels (his father and grandfather), so Rabbi El’azar encounters his deceased father, transformed into an angel.
 

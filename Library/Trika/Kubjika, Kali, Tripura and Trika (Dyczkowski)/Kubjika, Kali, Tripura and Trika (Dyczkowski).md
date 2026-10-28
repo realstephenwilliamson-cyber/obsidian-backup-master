@@ -17,5 +17,5 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[Kubjika, Kali, Tripura and Trika 01 - Part 1|Part 1]] (pp. 2–35)
+- [[Kubjika, Kali, Tripura and Trika 01 - Part 1|Part 1]] (pp. 1–35)
 - [[Kubjika, Kali, Tripura and Trika 02 - Part 2|Part 2]] (pp. 36–64)

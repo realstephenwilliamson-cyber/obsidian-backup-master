@@ -19,10 +19,10 @@ Converted from the PDF on 7 Oct 2026 (the PDF OCR layer, with anusvara fix; Deva
 ## Contents
 
 - [[Tantraloka Dyczkowski v09 01 - Front matter|Front matter]] (pp. 1–viii)
-- [[Tantraloka Dyczkowski v09 02 - Contents, part 1|Contents, part 1]] (pp. 13–x)
+- [[Tantraloka Dyczkowski v09 02 - Contents, part 1|Contents, part 1]] (pp. ix–x)
 - [[Tantraloka Dyczkowski v09 03 - Contents, part 2|Contents, part 2]] (pp. xi)
 - [[Tantraloka Dyczkowski v09 04 - Contents, part 3|Contents, part 3]] (pp. xii–xvi)
-- [[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1|Chapter Sixteen, part 1]] (pp. 21–46)
+- [[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1|Chapter Sixteen, part 1]] (pp. 1–46)
 - [[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2|Chapter Sixteen, part 2]] (pp. 47–92)
 - [[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3|Chapter Sixteen, part 3]] (pp. 93–138)
 - [[Tantraloka Dyczkowski v09 08 - Chapter Seventeen|Chapter Seventeen]] (pp. 139–192)
@@ -37,4 +37,4 @@ Converted from the PDF on 7 Oct 2026 (the PDF OCR layer, with anusvara fix; Deva
 - [[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six|Chapter Twenty-Five (continued) and Chapter Twenty-Six]] (pp. 356–399)
 - [[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven|Chapter Twenty-Seven]] (pp. 400–442)
 - [[Tantraloka Dyczkowski v09 19 - Appendix A Chapter Nineteen|Appendix A Chapter Nineteen]] (pp. 443–451)
-- [[Tantraloka Dyczkowski v09 20 - Appendix B Chapter Nineteen|Appendix B Chapter Nineteen]] (pp. 452–477)
+- [[Tantraloka Dyczkowski v09 20 - Appendix B Chapter Nineteen|Appendix B Chapter Nineteen]] (pp. 452–456)

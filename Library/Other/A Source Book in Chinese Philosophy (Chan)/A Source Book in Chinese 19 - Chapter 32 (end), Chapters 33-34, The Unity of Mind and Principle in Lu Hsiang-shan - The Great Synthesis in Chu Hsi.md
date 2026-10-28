@@ -4,7 +4,7 @@ work: "[[Chan (ed.) - A Source Book in Chinese Philosophy]]"
 book: "[[Library/Other/A Source Book in Chinese Philosophy (Chan)/A Source Book in Chinese Philosophy (Chan)|A Source Book in Chinese Philosophy (Chan)]]"
 order: 19
 source_pdf: Library/Other/Wing-Tsit Chan - A Source Book in Chinese Philosophy (1969).pdf
-page_range: i–600
+page_range: 561–600
 pdf_pages: 588–627
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[A Source Book in Chinese 18 - 31. The Idealistic Tendency in Ch'eng Hao (end) and 32. The Rationalistic Tendency in Ch'eng I|← previous]] · [[A Source Book in Chinese Philosophy (Chan)|contents]] · [[A Source Book in Chinese 20 - 34. The Great Synthesis in Chu Hsi (continued)|next →]]
 
-*[p. i]* ^pg588
+*[p. 561]* ^pg588
 
 of things. The word *ko* (investigate) means to arrive, as it is used in the saying "the spirits of imperial progenitors have arrived."[^85] There is principle in everything, and one must investigate principle to the utmost. There are many ways to do this. One way is to read books and elucidate moral principles. Another way is to discuss people and events of the past and present, and to distinguish which are right and which are wrong. Still another way is to handle affairs and settle them in the proper way. All these are ways to investigate the principle of things exhaustively.
 
@@ -49,7 +49,7 @@ Huang Tsung-hsi said that Ch'eng Hao substituted seriousness for Chou Tun-i's tr
 [^96]: "Religion and Philosophy in Chinese Philosophy," in Sophia Zen, ed., *Sym* - *posiu*m *on Chinese Culture,* p. 57.
 [^97]: See the next section.
 
-*[p. i]* ^pg590
+*[p. 563]* ^pg590
 
 extreme. Likewise, Ch'eng I felt that seriousness alone was not enough and therefore he supplemented it with the extension of knowledge.<sup>98</sup> This is a keen observation. It may be added that with regard to seriousness, while Ch'eng Hao is primarily concerned with the mental state of seriousness, Ch'eng I pays attention to its external aspect also, such as orderliness of dress. Even regarding the mental state, Ch'eng I offers more ideas, like guarding against depravity, concentration on one thing, and so forth.
 
@@ -78,7 +78,7 @@ extreme. Likewise, Ch'eng I felt that seriousness alone was not enough and there
 [^101]: *Fa-yen* (Model Sayings), ch. 12, SPPY, 12:4b-5a. For Yang Hsiung, see above, ch. 15.
 [^102]: Duke Chou (d. 1094 B.C.) helped found the Chou dynasty and was greatly admired by Confucius for his virtue.
 
-*[p. i]* ^pg592
+*[p. 565]* ^pg592
 
 remains in the same state. Any day added to the life of an infant means a day spent. Since when can one stay in the same state? (18:10b-lla)
 
@@ -107,7 +107,7 @@ remains in the same state. Any day added to the life of an infant means a day sp
 [^108]: Chu Hsi said (*Chu T*z*u yü*-*lei*, 96:9a) that "there is nothing" in the text should read "there is anything." This is confirmed by *Ts'ui-yen,* 1:6a.
 [^109]: The quotation is from *Changes,* commentary on hexagram no. 24, *fu* (to return). Cf. Legge, *Yi King, p.* 233. Wang Pi (226-249) is the chief exponent of the theory. See above, ch. 19, sec. 2.
 
-*[p. i]* ^pg594
+*[p. 567]* ^pg594
 
 received by man and things from Heaven are called destiny. What is inherent in things[^110] is called principle. What is endowed in man is called nature. And as the master of the body it is called the mind. In reality they are all one. The mind is originally good. As it is aroused and expresses itself in thoughts and ideas, there is good and evil. When the mind has been aroused, it should be described in terms of feelings, and not as the mind in itself. For instance, water is water. But as it flows and branches off, some to the east and some to the west, it is called streams and branches. (18:17a)
 
@@ -132,7 +132,7 @@ can. Only those who ruin themselves and cast themselves away do not change. *Que
 
 <sup>115</sup> *Mencius*, 6A:3. This is Kao Tzu's doctrine. <sup>117</sup> *Analects,* 6:19. <sup>118</sup> *Mencius,* 6A:2-8.
 
-*[p. i]* ^pg596
+*[p. 569]* ^pg596
 
 Tzu could understand only ten points when he heard one.[^119] When one finally understands principle, even millions of things can be understood. (19:1a)
 
@@ -169,7 +169,7 @@ measure and degree, they are good, no matter in what connection. Whenever we spe
 [^124]: Japanese sources (e.g., *Daikanwa jiten* or Great Chinese-Japanese Dictionary) maintain that the first half of the saying originated with Ch'eng-kuan (c.760- 838) in his commentary on *Hua-yen ching* (*Avatamsaka sutra,* or Flower Splendor Scripture), but as Ota Kinjo (1765-1825) has pointed out (*Gimon roku,* or Records of Questioning, 1831 ed., pt. 1, p. 6), it does not appear here or in any of Ch'eng-kuan's works. It is possible that it was in the portion of his commentary which is now lost, but if so, no one has given any specific source. However, Ch'eng-kuan virtually said the same thing rather extensively, though in slightly different words, in his commentary (*Zokuzokyo,* or Supplement to the Buddhist Canon, 1st collection, case 88, 3:35a-b). By the eleventh century, the saying was common among both Buddhists and Neo-Confucianists. As T'ang Shun-chih (1507-1560) said, "Both Buddhists and Confucianists said the same thing and none could tell whose words they were." (*T'ang Ching-ch'uan chi,* or Collected Works of Tang Shun-chih, 1553 ed., 6:2b.) As to the second half of the saying, Ota said that it is Fa-tsang's (643-712), but he gave no specific reference.
 [^125]: *Changes*, commentary on hexagram no. 1, *ch*'*ien* (Heaven). Cf. Legge, p.
 
-*[p. i]* ^pg598
+*[p. 571]* ^pg598
 
 72\. Destiny is what is endowed by Heaven and the nature is what things have received from Heaven. (*ibid.,* 1:2b)
 

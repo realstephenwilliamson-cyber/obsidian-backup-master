@@ -4,7 +4,7 @@ work: "[[Ricoeur - Hermeneutics (Writings and Lectures Vol 2)]]"
 book: "[[Library/Philosophy/Hermeneutics - Writings and Lectures, Volume 2 (Ricoeur)/Hermeneutics - Writings and Lectures, Volume 2 (Ricoeur)|Hermeneutics - Writings and Lectures, Volume 2 (Ricoeur)]]"
 order: 4
 source_pdf: Library/Philosophy/Ricoeur - Hermeneutics, Writings and Lectures 2 (2013).pdf
-page_range: "13"
+page_range: ""
 pdf_pages: 13–13
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF
 converted: 2026-10-07

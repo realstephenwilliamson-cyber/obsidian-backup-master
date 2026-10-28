@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 2
-page_range: "1–8"
+page_range: ""
 ---
 [[Forgery and Counterforgery 01 - Acknowledgments|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 03 - Chapter Two - Forgers, Critics, and Deceived Deceivers|next →]]
 

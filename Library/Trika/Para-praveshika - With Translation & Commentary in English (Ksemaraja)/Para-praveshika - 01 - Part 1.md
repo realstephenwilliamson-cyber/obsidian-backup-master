@@ -4,7 +4,7 @@ work: "[[Zadoo (tr.) - Parapravesika of Ksemaraja]]"
 book: "[[Library/Trika/Para-praveshika - With Translation & Commentary in English (Ksemaraja)/Para-praveshika - With Translation & Commentary in English (Ksemaraja)|Para-praveshika - With Translation & Commentary in English (Ksemaraja)]]"
 order: 1
 source_pdf: Library/Trika/Parapraveshika - Shri Ram Shiava Trika Ashram.pdf
-page_range: 1–60
+page_range: "iv–60"
 pdf_pages: 1–73
 text_source: fresh OCR with Tesseract 5 (eng+san) of the page images (the PDF has an older OCR layer that garbles Sanskrit)
 converted: 2026-10-07
@@ -184,7 +184,7 @@ ar was authoritative tapasavi and a initiated disciples of Shri Swami r througho
 
 Jalali was a grahasthi Sadhu Shri Swami Govind Koul adal Ashram. He knew the who taught and preached at Fatehk theosophical knowledge of Shaiva philosophy which he had learnt from his preceptor Shri Swami Ram Ji. Swami Gobind Koul Ji would come to Ashram at the feet of his Guru everyday in the morning as well as in the evening. After Swami Ramji’s Nirwan he taught Shaive philosophy to his disciples both at home and at Ashram. Sh. Gobind Koul Ji had profeciency in teaching Shaivism par excellent. There were many disciples of Swami Gobind Koul Ji, prominent among them were Late Mahatma Tara Chand Koul, Late Shri Prem Nath Nehru Late Shri B. N. Nazir Late Shri Jagan Nath Razd3n Shri Trilokinath Ganjoo and Mahatma Kashinath Koul. While Shri T. N. Ganjoo is looking after the Ashram at Fatehkadal, Mahatma Kashi Nath Koul is looking after the Ashram at Trilokpore Gole Gujral Jammu. He is the living legend of his Guru and Param Guru. He has continued to carry onthe banner in upkeeping the tradition of his master in teaching Shaive philosophy to the seekers in and outside Ashram despite adverse trying circumstances befallen on Kashmiri Pandits
 
-*[PDF 10]* ^pg10
+*[p. v]* ^pg10
 
 because of oxodus.
 

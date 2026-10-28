@@ -16,9 +16,9 @@ Converted from the PDF on 22 Oct 2026 (PDF text layer (born-digital), PyMuPDF; t
 
 ## Contents
 
-- [[Seeking Mahadevi 01 - Front matter|Front matter]] (pp. vii–ix)
-- [[Seeking Mahadevi 02 - Acknowledgments|Acknowledgments]] (pp. xi)
-- [[Seeking Mahadevi 03 - A Note on Transliteration and Pronunciation|A Note on Transliteration and Pronunciation]] (pp. xiii)
+- [[Seeking Mahadevi 01 - Front matter|Front matter]] (pp. 1–11)
+- [[Seeking Mahadevi 02 - Acknowledgments|Acknowledgments]] (pp. xi–13)
+- [[Seeking Mahadevi 03 - A Note on Transliteration and Pronunciation|A Note on Transliteration and Pronunciation]] (pp. xiii–15)
 - [[Seeking Mahadevi 04 - Introduction - Identity Construction and the Hindu Great Goddess (Tracy|Introduction - Identity Construction and the Hindu Great Goddess (Tracy Pintchman)]] (pp. 1–18)
 - [[Seeking Mahadevi 05 - 1. The Tantric and Vedantic Identity of the Great Goddess in the Devi Gita|1. The Tantric and Vedantic Identity of the Great Goddess in the Devi Gita (C. Mackenzie Brown)]] (pp. 19–36)
 - [[Seeking Mahadevi 06 - 2. Mahadevi as Mother - The Oriya Hindu Vision of Reality (Usha Menon)|2. Mahadevi as Mother - The Oriya Hindu Vision of Reality (Usha Menon)]] (pp. 37–54)

@@ -17,9 +17,9 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Haunting the Buddha 01 - Front matter|Front matter]] (pp. 1–viii)
-- [[Haunting the Buddha 02 - Contents|Contents]] (pp. 10–13)
-- [[Haunting the Buddha 03 - 1. Coming to Terms|1. Coming to Terms]] (pp. 14–30)
+- [[Haunting the Buddha 01 - Front matter|Front matter]] (pp. viii)
+- [[Haunting the Buddha 02 - Contents|Contents]] (PDF 10–13)
+- [[Haunting the Buddha 03 - 1. Coming to Terms|1. Coming to Terms]] (pp. 4–30)
 - [[Haunting the Buddha 04 - 2. Making Believers|2. Making Believers]] (pp. 31–54)
 - [[Haunting the Buddha 05 - 3. Set in Stone|3. Set in Stone]] (pp. 55–86)
 - [[Haunting the Buddha 06 - 4. Ghost Stories|4. Ghost Stories]] (pp. 87–104)

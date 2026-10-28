@@ -17,7 +17,7 @@ Converted from the PDF on 8 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Lost Scriptures 01 - Front matter|Front matter]] (pp. 1–vi)
+- [[Lost Scriptures 01 - Front matter|Front matter]] (pp. v–vi)
 - [[Lost Scriptures 02 - General Introduction|General Introduction]] (pp. 1–6)
 
 ### Non-Canonical Gospels

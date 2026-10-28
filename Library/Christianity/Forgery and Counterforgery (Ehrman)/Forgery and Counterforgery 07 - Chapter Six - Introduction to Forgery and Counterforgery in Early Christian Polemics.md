@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 7
-page_range: "147–154"
+page_range: ""
 ---
 [[Forgery and Counterforgery 06 - Chapter Five - Forgery in Antiquity - Motives, Techniques, Intentions, Justifications, and Criteria|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 08 - Chapter Seven - Early Pauline Forgeries Dealing with Eschatology|next →]]
 

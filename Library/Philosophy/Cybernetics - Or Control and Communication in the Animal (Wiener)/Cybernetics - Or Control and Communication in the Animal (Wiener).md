@@ -6,14 +6,14 @@ author:
 work: "[[Wiener - Cybernetics]]"
 source_pdf: Library/Philosophy/Norbert_Wiener_Cybernetics.pdf
 pages: 231
-text_source: PDF text layer (born-digital), PyMuPDF
+text_source: PDF text layer (OCR'd scan), PyMuPDF
 converted: 2026-10-07
 ---
 # Cybernetics: Or Control and Communication in the Animal and the Machine
 
 Norbert Wiener. MIT Press, Cambridge, Massachusetts, 1961.
 
-Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). Each PDF page starts with a line `*[p. N]*` giving the printed page number (or the PDF page where none is printed) and ending in the block id `^pgK`, K being the PDF page, so a link to PDF page K can be written `[[Chapter note#^pgK]]`. The PDF stays on the computer: open it from [[Wiener - Cybernetics|the catalog note]].
+Converted from the PDF on 7 Oct 2026 (PDF text layer (OCR'd scan), PyMuPDF). Each PDF page starts with a line `*[p. N]*` giving the printed page number (or the PDF page where none is printed) and ending in the block id `^pgK`, K being the PDF page, so a link to PDF page K can be written `[[Chapter note#^pgK]]`. The PDF stays on the computer: open it from [[Wiener - Cybernetics|the catalog note]].
 
 ## Contents
 

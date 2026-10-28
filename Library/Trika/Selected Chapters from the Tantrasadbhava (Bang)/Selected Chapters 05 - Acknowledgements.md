@@ -4,7 +4,7 @@ work: "[[Bang - Selected Chapters from the Tantrasadbhava]]"
 book: "[[Library/Trika/Selected Chapters from the Tantrasadbhava (Bang)/Selected Chapters from the Tantrasadbhava (Bang)|Selected Chapters from the Tantrasadbhava (Bang)]]"
 order: 5
 source_pdf: Library/Trika/Bang - Selected Chapters from the Tantrasadbhava (Hamburg diss. 2018).pdf
-page_range: vii–12
+page_range: "vii"
 pdf_pages: 11–12
 text_source: PDF text layer (born-digital), PyMuPDF; 176 pages read by OCR (Tesseract) where the text layer has no Unicode
 converted: 2026-10-07

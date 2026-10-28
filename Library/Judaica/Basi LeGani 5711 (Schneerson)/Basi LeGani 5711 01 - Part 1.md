@@ -4,7 +4,7 @@ work: "[[Schneerson - Basi LeGani 5711]]"
 book: "[[Library/Judaica/Basi LeGani 5711 (Schneerson)/Basi LeGani 5711 (Schneerson)|Basi LeGani 5711 (Schneerson)]]"
 order: 1
 source_pdf: Library/Judaica/Basi Legani.pdf
-page_range: 1–54
+page_range: "17–54"
 pdf_pages: 1–40
 text_source: PDF text layer (born-digital), PyMuPDF; Hebrew lines put in reading order
 converted: 2026-10-07

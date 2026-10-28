@@ -16,10 +16,10 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Krishna - A Sourcebook 01 - Front matter|Front matter]] (pp. 1–5)
-- [[Krishna - A Sourcebook 02 - Contents|Contents]] (pp. 6–9)
-- [[Krishna - A Sourcebook 03 - Contributors|Contributors]] (pp. 10–17)
-- [[Krishna - A Sourcebook 04 - Introduction|Introduction]] (pp. 18–20)
+- [[Krishna - A Sourcebook 01 - Front matter|Front matter]] (PDF 1–5)
+- [[Krishna - A Sourcebook 02 - Contents|Contents]] (pp. vi–viii)
+- [[Krishna - A Sourcebook 03 - Contributors|Contributors]] (pp. ix–xiv)
+- [[Krishna - A Sourcebook 04 - Introduction|Introduction]] (pp. 4–20)
 - [[Krishna - A Sourcebook 05 - PART I Classical Source Material, part 1|PART I: Classical Source Material, part 1]] (pp. 21–59)
 - [[Krishna - A Sourcebook 06 - PART I Classical Source Material, part 2|PART I: Classical Source Material, part 2]] (pp. 60–98)
 - [[Krishna - A Sourcebook 07 - PART I Classical Source Material, part 3|PART I: Classical Source Material, part 3]] (pp. 99–136)

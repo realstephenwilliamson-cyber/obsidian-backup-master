@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Abhinavagupta's Portrait 01 - Front matter|Front matter]] (pp. 1–x)
+- [[Abhinavagupta's Portrait 01 - Front matter|Front matter]] (pp. iii–x)
 - [[Abhinavagupta's Portrait 02 - Introduction|Introduction]] (pp. 1–22)
 - [[Abhinavagupta's Portrait 03 - Agents of Revelation in the Saiva Tantras, part 1|Agents of Revelation in the Śaiva Tantras, part 1]] (pp. 23–67)
 - [[Abhinavagupta's Portrait 04 - Agents of Revelation in the Saiva Tantras, part 2|Agents of Revelation in the Śaiva Tantras, part 2]] (pp. 68–111)

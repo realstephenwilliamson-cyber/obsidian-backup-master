@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Dreamer and the Yogin 01 - Front matter|Front matter (The Dreamer and the Yogin: On the relationship between Buddhist and Śaiva ideali)]] (pp. 1–438)
+- [[The Dreamer and the Yogin 01 - Front matter|Front matter (The Dreamer and the Yogin: On the relationship between Buddhist and Śaiva ideali)]] (pp. 438)
 - [[The Dreamer and the Yogin 02 - The main argument from the Vijnanavada the necessity of being|The main argument from the Vijñānavāda: the necessity of being simultaneously aware of the object and its cognition]] (pp. 439–445)
 - [[The Dreamer and the Yogin 03 - Additional arguments from the Vijnanavada the contradictory nature|Additional arguments from the Vijñānavāda: the contradictory nature of the external object]] (pp. 446–452)
 - [[The Dreamer and the Yogin 04 - The Pratyabhijna philosophers' strategy to distance their idealism|The Pratyabhijñā philosophers’ strategy to distance their idealism from the Vijñānavāda]] (pp. 453–459)

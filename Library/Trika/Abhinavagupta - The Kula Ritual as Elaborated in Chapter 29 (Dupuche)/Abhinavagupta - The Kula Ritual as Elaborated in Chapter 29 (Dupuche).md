@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin) (the PD
 
 ## Contents
 
-- [[Abhinavagupta - The Kula Ritual 01 - Part 1|Part 1]] (pp. 1–23)
+- [[Abhinavagupta - The Kula Ritual 01 - Part 1|Part 1]] (pp. xi–23)
 - [[Abhinavagupta - The Kula Ritual 02 - Part 2|Part 2]] (pp. 24–63)
 - [[Abhinavagupta - The Kula Ritual 03 - Part 3|Part 3]] (pp. 64–103)
 - [[Abhinavagupta - The Kula Ritual 04 - Part 4|Part 4]] (pp. 104–143)
@@ -30,4 +30,4 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin) (the PD
 - [[Abhinavagupta - The Kula Ritual 11 - Part 11|Part 11]] (pp. 385–424)
 - [[Abhinavagupta - The Kula Ritual 12 - Part 12|Part 12]] (pp. 425–464)
 - [[Abhinavagupta - The Kula Ritual 13 - Part 13|Part 13]] (pp. 465–504)
-- [[Abhinavagupta - The Kula Ritual 14 - Part 14|Part 14]] (pp. 505–552)
+- [[Abhinavagupta - The Kula Ritual 14 - Part 14|Part 14]] (pp. 505–532)

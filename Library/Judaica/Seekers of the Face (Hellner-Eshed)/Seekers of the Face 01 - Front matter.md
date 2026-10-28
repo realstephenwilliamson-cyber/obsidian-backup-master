@@ -4,7 +4,7 @@ work: "[[Catalog/Judaica/Hellner-Eshed - Seekers of the Face]]"
 book: "[[Library/Judaica/Seekers of the Face (Hellner-Eshed)/Seekers of the Face (Hellner-Eshed)|Seekers of the Face (Hellner-Eshed)]]"
 order: 1
 source_pdf: "Library/Judaica/Hellner-Eshed - Seekers of the Face (2021).pdf"
-page_range: "1–16"
+page_range: ""
 pdf_pages: "1–16"
 text_source: "the PDF's own text layer"
 converted: 2026-10-14

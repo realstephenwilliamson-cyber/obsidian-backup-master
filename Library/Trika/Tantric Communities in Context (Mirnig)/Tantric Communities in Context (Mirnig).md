@@ -16,8 +16,8 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Tantric Communities in Context 01 - Front matter|Front matter (Cover)]] (pp. 1)
-- [[Tantric Communities in Context 02 - Part 1|Part 1]] (pp. 2–21)
+- [[Tantric Communities in Context 01 - Front matter|Front matter (Cover)]] (PDF 1)
+- [[Tantric Communities in Context 02 - Part 1|Part 1]] (pp. vi–21)
 - [[Tantric Communities in Context 03 - Part 2|Part 2]] (pp. 22–60)
 - [[Tantric Communities in Context 04 - Part 3|Part 3]] (pp. 61–99)
 - [[Tantric Communities in Context 05 - Part 4|Part 4]] (pp. 100–138)

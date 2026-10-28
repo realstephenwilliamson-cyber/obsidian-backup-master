@@ -17,8 +17,8 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF; De
 
 ## Contents
 
-- [[The Cambridge Introduction 01 - Front matter|Front matter (Cover, Half-title page, Title page, Copyright page, Dedication)]] (pp. 1–8)
-- [[The Cambridge Introduction 02 - Contents|Contents]] (pp. vii)
+- [[The Cambridge Introduction 01 - Front matter|Front matter (Cover, Half-title page, Title page, Copyright page, Dedication)]] (PDF 1–8)
+- [[The Cambridge Introduction 02 - Contents|Contents]] (pp. vii–xii)
 - [[The Cambridge Introduction 03 - Acknowledgements|Acknowledgements]] (pp. xiii)
 - [[The Cambridge Introduction 04 - Chapter 0 Studying Sanskrit|Chapter 0 Studying Sanskrit]] (pp. 1–6)
 - [[The Cambridge Introduction 05 - List of Abbreviations|List of Abbreviations]] (pp. 7)

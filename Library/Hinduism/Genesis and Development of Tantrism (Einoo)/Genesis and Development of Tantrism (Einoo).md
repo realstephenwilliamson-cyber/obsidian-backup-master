@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Genesis and Development 01 - Front matter|Front matter]] (pp. 5–7)
+- [[Genesis and Development 01 - Front matter|Front matter]] (PDF 1–7)
 - [[Genesis and Development 02 - Sanderson, The Saiva Age - The Etiolation and Subsumption of the Cult of the Sun-God|Sanderson, The Śaiva Age – The Etiolation and Subsumption of the Cult of the Sun-God]] (pp. 41–55)
 - [[Genesis and Development 03 - The Dominance of Saivism (continued), The Decline of Vaisnavism - Royal Patronage of Buddhism|The Dominance of Śaivism (continued), The Decline of Vaiṣṇavism – Royal Patronage of Buddhism]] (pp. 56–97)
 - [[Genesis and Development 04 - Royal Patronage of Buddhism (end), The Development of Tantric Buddhism - The Sarvatathagatattvasamgraha|Royal Patronage of Buddhism (end), The Development of Tantric Buddhism – The Sarvatathāgatattvasaṃgraha]] (pp. 98–139)

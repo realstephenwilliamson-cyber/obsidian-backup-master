@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Tantric Mantras (Padoux)]]"
 order: 7
-page_range: 89–94
+page_range: ""
 aliases:
   - Tantric Mantras 07 - 6. On the defects and the perfecting of mantras - Mantradoṣa and mantrasaṃskāra
 ---

@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 14
-page_range: "407–454"
+page_range: ""
 ---
 [[Forgery and Counterforgery 13 - Chapter Twelve - Forgeries Involving Church Organization and Leadership|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 15 - Chapter Fourteen - Forgeries Arising from Later Theological Controversies|next →]]
 

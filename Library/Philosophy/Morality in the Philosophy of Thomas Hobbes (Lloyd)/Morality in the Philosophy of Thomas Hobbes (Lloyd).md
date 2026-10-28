@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF; 9 
 
 ## Contents
 
-- [[Morality in the Philosophy 01 - Front matter|Front matter (Front matter, Half-title, Title, Copyright, Dedication, Contents)]] (pp. 1–10)
+- [[Morality in the Philosophy 01 - Front matter|Front matter (Front matter, Half-title, Title, Copyright, Dedication, Contents)]] (PDF 1–10)
 - [[Morality in the Philosophy 02 - Preface|Preface]] (pp. ix–xvi)
 - [[Morality in the Philosophy 03 - Introduction|Introduction]] (pp. 1–10)
 - [[Morality in the Philosophy 04 - Part One Moral Philosophy, Method and Matter, part 1|Part One: Moral Philosophy, Method and Matter, part 1]] (pp. 11–52)

@@ -4,7 +4,7 @@ work: "[[Mirnig, Rastelli, Eltschinger (eds.) - Tantric Communities in Context]]
 book: "[[Library/Trika/Tantric Communities in Context (Mirnig)/Tantric Communities in Context (Mirnig)|Tantric Communities in Context (Mirnig)]]"
 order: 1
 source_pdf: Library/Trika/Mirnig, Rastelli, Eltschinger (eds.) - Tantric Communities in Context (2019).pdf
-page_range: "1"
+page_range: ""
 pdf_pages: 1–1
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

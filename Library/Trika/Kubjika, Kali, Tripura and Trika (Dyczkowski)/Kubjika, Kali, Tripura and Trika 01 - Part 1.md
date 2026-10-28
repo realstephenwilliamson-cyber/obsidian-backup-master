@@ -4,7 +4,7 @@ work: "[[Dyczkowski - Kubjika, Kali, Tripura and Trika]]"
 book: "[[Library/Trika/Kubjika, Kali, Tripura and Trika (Dyczkowski)/Kubjika, Kali, Tripura and Trika (Dyczkowski)|Kubjika, Kali, Tripura and Trika (Dyczkowski)]]"
 order: 1
 source_pdf: Library/Trika/Dyczkowski - Kubjika, Kali, Tripura and Trika (Nepal Research Centre 22, 2000).pdf
-page_range: 2–35
+page_range: "1–35"
 pdf_pages: 1–40
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

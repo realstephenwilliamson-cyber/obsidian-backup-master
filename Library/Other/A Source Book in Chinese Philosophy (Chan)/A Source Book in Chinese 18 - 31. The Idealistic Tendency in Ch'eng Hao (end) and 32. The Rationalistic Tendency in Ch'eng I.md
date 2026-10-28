@@ -493,7 +493,7 @@ Fung Yu-lan has asserted that to Ch'eng I, principle is comparable to the "idea"
 [^8]: *History of Chinese Philosophy,* vol. 2, pp. 507-508.
 [^9]: *Development of Neo-Confucian Thought,* pp. 192-194.
 
-*[p. i]* ^pg572
+*[p. 545]* ^pg572
 
 that the Way cannot be found outside of material force. A thing involves both the corporeal (material force) and incorporeal (principle) aspects. This is what Ch'eng I meant by one manifesting as many.
 
@@ -517,7 +517,7 @@ Both brothers exerted a tremendous influence on the philosophical and political 
 [^14-p546]: Ch'eng I's courtesy name was Cheng-shu. Because he and his brother lived in the I River area in Honan, he was called Master I-ch'uan (I River). In 1056 he and his brother entered the national university where he was so outstanding that a schoolmate treated him as a teacher. At twenty-five (1057) he memorialized the emperor to practice the Confucian kingly way. Two years later he obtained the "presented scholar" degree. He lived and taught in Lo-yang, and repeatedly declined high offices, including a professorship at the directorate of education in 1085. In 1086 he was appointed expositor in waiting, and he lectured in great seriousness on Confucian principles to the emperor. He did this for twenty months and attracted many followers. But his uncompromising attitude, his critical opinions, and his attack on many things created bitter enemies, particularly Su Shih (Su Tung-po, 1036-1101), leader of the Szechuan group. This led to the bitter factional struggle between it and the Lo-yang group led by Ch'eng I. In 1087 he was appointed director of the directorate of education in the western capital but resigned a few months later. When he was supervisor of the directorate in 1092, censors repeatedly petitioned for his impeachment. He finally resigned and returned to Lo-yang. In 1097 his teachings were prohibited, his land was confiscated, and he was banished to Fu-chou in modern Szechuan. He was pardoned three years later and resumed his position at the directorate. By that time, government persecution of factions had become severe. Both he and Su Shih, along with several hundred scholars, were blacklisted. His followers left him. In 1103 his books were destroyed and teachings prohibited. He was pardoned again in 1106, a year before he died. See *Sung shih* (History of the Sung Dynasty, 960-1279), PNP, 427:10a-15b, Yao Ming-ta, *Ch'eng I-ch'uan nien-p'u* (Chronological Biography of Ch'eng I), 1937, and Bruce, *Chu Hsi and His Masters,* pp. 45-47.
 [^15-p546]: Yao Ming-ta, *Ch'eng I-ch'uan nien-p'u,* pp. 262, 273-283.
 
-*[p. i]* ^pg574
+*[p. 547]* ^pg574
 
 Below are selections of Ch'eng I's sayings covering various subjects as follows:[^16-pi]
 
@@ -557,7 +557,7 @@ Therefore the student must exert his own mind to the utmost. If he does so, he w
 
 <sup>27</sup> *Analects,* 6:2.
 
-*[p. i]* ^pg576
+*[p. 549]* ^pg576
 
 failed to realize it. Having realized it, he never did it again."[^28-pi] This is the way he earnestly loved and learned.
 
@@ -593,7 +593,7 @@ me are quite correct. Soon after I looked at them, they were borrowed from me. I
 [^41-p550]: *Mencius*, 6A:2, 2A:2.
 [^42-p550]: This and the following sentence in parentheses are Ch'eng's own insertions.
 
-*[p. i]* ^pg578
+*[p. 551]* ^pg578
 
 having \[only\] the many manifestations \[that is, distinctions in human relations but no universal principle underlying them\] is that selfishness will dominate and humanity (*jen*) will be lost. On the other hand, the sin of having no manifestations is that there will be universal love for all without righteousness. To establish the many manifestations and to extend the one principle in order to check the tendency of being dominated by selfishness, is the method of *jen*. To make no distinction in human relations and to be deluded in universal love to the extreme of recognizing no special relationship with the father,[^43-pi] is to do violent injury to rightousness. You are mistaken in comparing and equating them. Furthermore, you said that the "Western Inscription" speaks of substance \[*jen*\] without including function \[its specific application in various human relations according to righteousness\]. But its intention is to enable people to extend \[principle\] and put it into practice. The purpose is primarily for its function (practice). And yet you said that it does not include function. How strange! (*ibid*., 5:12b)
 
@@ -641,7 +641,7 @@ To devote oneself to investigate principle to the utmost does not mean that it i
 [^51]: Ch'eng's own note. See above, ch. 31, n.92.
 [^52]: Quoting the text of the *Great Learning.*
 
-*[p. i]* ^pg580
+*[p. 553]* ^pg580
 
 18\. If one does not look, listen, speak, or move in violation of principle, that is propriety, for propriety is none other than principle. What is not of the Principle of Nature (*T'ien,* Heaven) is of human (selfish) desire. In that case, even if one has the intention to do good, it will still be contrary to propriety. When there is no human (selfish) desire, then all will be the Principle of Nature. (15:1b)
 
@@ -664,7 +664,7 @@ To devote oneself to investigate principle to the utmost does not mean that it i
 [^55-p554]: See above, ch. 23, comment on sec. 3.
 [^56-p554]: For a more lengthy discussion of the idea, see Chan, "The Neo-Confucian Solution of the Problem of Evil," *Studies Presented to Hu Shih on His Sixty-fifth Birthday,* pp. 787-791.
 
-*[p. i]* ^pg582
+*[p. 555]* ^pg582
 
 others for not doing as they do. They leave these human relationships to others and have nothing to do with them. They set themselves apart as a special class. If this is the way to lead the people, it will be the end of the human race. As to their discourse on principle and the nature of things, it is primarily for the sake of life and death. Their feelings are basically love of life and fear of death. This is selfishness. (15:5b)
 
@@ -701,7 +701,7 @@ not say that the state described above, which has neither form nor sign, depends
 [^64-p556]: *Analects,* 12:2.
 [^65-p556]: Quoting *Changes,* "Appended Remarks," pt. 1, ch. 10. Cf. Legge, *Yi King,*
 
-*[p. i]* ^pg584
+*[p. 557]* ^pg584
 
 . For example, when we talk about filial piety, we must find out what constitutes filial piety. If principle cannot be investigated to the utmost in one event, investigate another. One may begin with either the easy or the most difficult, depending on the degree of one's capacity. There are thousands of tracks and paths to go to the capital. Yet one can enter if he has found just one way. Principle can be investigated to the utmost \[in this way\] because all things share the same principle. Even the most insignificant of things and events has this principle. (15:- 11a)
 
@@ -741,7 +741,7 @@ it is also evolved from material force. The same is true of the origin of man in
 
 <sup>75</sup> See sec. 4.
 
-*[p. i]* ^pg586
+*[p. 559]* ^pg586
 
 39\. The material force of the true source is the source from which material force is produced and is not mixed with external force. It is nourished and cultivated only by external force. It is like fish in water. The life and nature of fish are not made by the water, but they must be nourished and cultivated by water in order that they may live. Man's position in the force of the universe is not different from that of fish in water. As to the nourishment of food, it is a way in which man is nourished and cultivated by external force. And as to inhaling and exhaling of breath, it is only the operation of opening and closing. The breath that has just been exhaled is not the material force that is inhaled in the next breath. But the true source can create material force by itself. The material force that is inhaled simply enters the human body when the body closes. This material force is not needed to assist the true source. (15:17b)
 

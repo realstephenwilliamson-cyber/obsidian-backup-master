@@ -4,7 +4,7 @@ work: "[[Conway - Behold the Man, Jesus and Greco-Roman Masculinity]]"
 book: "[[Library/Biblical-Studies/Behold the Man (Conway)/Behold the Man (Conway)|Behold the Man (Conway)]]"
 order: 4
 source_pdf: Library/Biblical-Studies/Conway - Behold the Man, Jesus and Greco-Roman Masculinity (OUP 2008).pdf
-page_range: 12–13
+page_range: ""
 pdf_pages: 12–13
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

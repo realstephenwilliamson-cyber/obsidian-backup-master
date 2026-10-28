@@ -4,7 +4,7 @@ work: "[[Bryant (ed.) - Krishna - A Sourcebook]]"
 book: "[[Library/Hinduism/Krishna - A Sourcebook (Bryant)/Krishna - A Sourcebook (Bryant)|Krishna - A Sourcebook (Bryant)]]"
 order: 3
 source_pdf: Library/Hinduism/Edwin F. Bryant - Krishna_ A Sourcebook-Oxford University Press, USA (2007).pdf
-page_range: 10–17
+page_range: "ix–xiv"
 pdf_pages: 10–17
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[Krishna - A Sourcebook 02 - Contents|← previous]] · [[Krishna - A Sourcebook (Bryant)|contents]] · [[Krishna - A Sourcebook 04 - Introduction|next →]]
 
-*[PDF 10]* ^pg10
+*[p. ix]* ^pg10
 
 ## Contributors
 

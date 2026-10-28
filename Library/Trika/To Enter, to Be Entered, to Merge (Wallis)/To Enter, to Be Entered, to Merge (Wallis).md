@@ -17,8 +17,8 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[To Enter, to Be Entered 01 - Front matter|Front matter (COVER DISS)]] (pp. 1)
-- [[To Enter, to Be Entered 02 - Part 1|Part 1]] (pp. 2–32)
+- [[To Enter, to Be Entered 01 - Front matter|Front matter (COVER DISS)]] (PDF 1)
+- [[To Enter, to Be Entered 02 - Part 1|Part 1]] (pp. 10–32)
 - [[To Enter, to Be Entered 03 - Part 2|Part 2]] (pp. 33–74)
 - [[To Enter, to Be Entered 04 - Part 3|Part 3]] (pp. 75–116)
 - [[To Enter, to Be Entered 05 - Part 4|Part 4]] (pp. 117–158)

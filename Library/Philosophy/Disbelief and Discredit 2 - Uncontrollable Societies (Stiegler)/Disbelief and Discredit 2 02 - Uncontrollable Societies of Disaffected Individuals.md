@@ -4,7 +4,7 @@ work: "[[Stiegler - Disbelief and Discredit (vols 1-3)]]"
 book: "[[Library/Philosophy/Disbelief and Discredit 2 - Uncontrollable Societies (Stiegler)/Disbelief and Discredit 2 - Uncontrollable Societies (Stiegler)|Disbelief and Discredit 2 - Uncontrollable Societies (Stiegler)]]"
 order: 2
 source_pdf: Library/Philosophy/(Disbelief and Discredit 2) Uncontrollable Societies of Disaffected Individuals (2011).pdf
-page_range: 2–29
+page_range: "1–29"
 pdf_pages: 2–36
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF
 converted: 2026-10-07

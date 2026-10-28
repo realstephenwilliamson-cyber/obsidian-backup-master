@@ -4,7 +4,7 @@ work: "[[Tejomayananda - Introduction to Kashmir Shaivism]]"
 book: "[[Library/Trika/Introduction to Kashmir Shaivism (Tejomayananda)/Introduction to Kashmir Shaivism (Tejomayananda)|Introduction to Kashmir Shaivism (Tejomayananda)]]"
 order: 2
 source_pdf: Library/Trika/Tejomayananda - Introduction to Kashmir Shaivism (1979).pdf
-page_range: 2–5
+page_range: "1–5"
 pdf_pages: 12–16
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08

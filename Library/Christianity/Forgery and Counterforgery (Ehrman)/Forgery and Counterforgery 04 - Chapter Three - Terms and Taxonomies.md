@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 4
-page_range: "29–68"
+page_range: ""
 ---
 [[Forgery and Counterforgery 03 - Chapter Two - Forgers, Critics, and Deceived Deceivers|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 05 - Chapter Four - Forgery in Antiquity - Aspects of the Broader Phenomenon|next →]]
 

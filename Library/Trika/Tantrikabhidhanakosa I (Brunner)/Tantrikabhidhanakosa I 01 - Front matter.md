@@ -4,7 +4,7 @@ work: "[[Brunner (ed.) - Tantrikabhidhanakosa]]"
 book: "[[Library/Trika/Tantrikabhidhanakosa I (Brunner)/Tantrikabhidhanakosa I (Brunner)|Tantrikabhidhanakosa I (Brunner)]]"
 order: 1
 source_pdf: Library/Trika/Brunner, Oberhammer, Padoux - Tantrikabhidhanakosa I (2000).pdf
-page_range: 1–5
+page_range: ""
 pdf_pages: 1–5
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

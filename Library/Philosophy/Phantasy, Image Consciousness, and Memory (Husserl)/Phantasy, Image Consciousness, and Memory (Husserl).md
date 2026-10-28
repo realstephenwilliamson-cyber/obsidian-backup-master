@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Phantasy, Image Consciousness 01 - Husserl - Phantasy, Image Consciousness, and Memory (1898-1925)|Husserl - Phantasy, Image Consciousness, and Memory (1898–1925)]] (pp. 1–5)
+- [[Phantasy, Image Consciousness 01 - Husserl - Phantasy, Image Consciousness, and Memory (1898-1925)|Husserl - Phantasy, Image Consciousness, and Memory (1898–1925)]] (PDF 1–5)
 - [[Phantasy, Image Consciousness 02 - Contents|Contents]] (pp. v–xxvii)
 - [[Phantasy, Image Consciousness 03 - TRANSLATOR'S INTRODUCTION|TRANSLATOR’S INTRODUCTION]] (pp. xxix–lxviii)
 - [[Phantasy, Image Consciousness 04 - Text 1 PHANTASY AND IMAGE CONSCIOUSNESS Chapter 1 THE QUESTION|Text 1: PHANTASY AND IMAGE CONSCIOUSNESS / Chapter 1 THE QUESTION OF PHANTASY PRESENTATION IN CONTRAST TO PERCEPTUAL PRESENTATION]] (pp. 1–15)

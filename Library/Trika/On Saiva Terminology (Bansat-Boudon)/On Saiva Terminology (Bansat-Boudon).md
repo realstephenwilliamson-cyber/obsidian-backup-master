@@ -17,5 +17,5 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[On Saiva Terminology 01 - Part 1|Part 1]] (pp. 1–75)
+- [[On Saiva Terminology 01 - Part 1|Part 1]] (pp. 40–75)
 - [[On Saiva Terminology 02 - Part 2|Part 2]] (pp. 76–97)

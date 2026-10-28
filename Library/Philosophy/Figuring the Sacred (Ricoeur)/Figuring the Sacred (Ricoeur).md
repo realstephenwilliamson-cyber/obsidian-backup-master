@@ -17,8 +17,8 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Internet Archiv
 
 ## Contents
 
-- [[Figuring the Sacred 01 - Front matter|Front matter (Front matter, The Library)]] (pp. 1–4)
-- [[Figuring the Sacred 02 - Front matter, Preface and Introduction|Front matter, Preface and Introduction]] (pp. 2–33)
+- [[Figuring the Sacred 01 - Front matter|Front matter (Front matter, The Library)]] (PDF 1–4)
+- [[Figuring the Sacred 02 - Front matter, Preface and Introduction|Front matter, Preface and Introduction]] (pp. 1–33)
 - [[Figuring the Sacred 03 - Chapters 1-3, Philosophy and Religious Language - The 'Sacred' Text and the Community|Chapters 1–3, Philosophy and Religious Language – The “Sacred” Text and the Community]] (pp. 34–73)
 - [[Figuring the Sacred 04 - Chapters 4-6, A Philosophical Hermeneutics of Religion, Kant - Emmanuel Levinas|Chapters 4–6, A Philosophical Hermeneutics of Religion: Kant – Emmanuel Levinas]] (pp. 74–116)
 - [[Figuring the Sacred 05 - 6. Emmanuel Levinas (end), Chapters 7-8, On the Exegesis of Genesis 1.1-2.4a - The Bible and the Imagination|6. Emmanuel Levinas (end), Chapters 7–8, On the Exegesis of Genesis 1:1–2:4a – The Bible and the Imagination]] (pp. 117–159)
@@ -26,4 +26,4 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Internet Archiv
 - [[Figuring the Sacred 07 - Chapters 11-13, Hope and the Structure of Philosophical Systems - Toward a Narrative Theology|Chapters 11–13, Hope and the Structure of Philosophical Systems – Toward a Narrative Theology]] (pp. 203–245)
 - [[Figuring the Sacred 08 - Chapters 13 (end), 14, 20 (end) and 21, Evil, a Challenge - Love and Justice, Bibliographical Note and Index of Biblical Passages|Chapters 13 (end), 14, 20 (end) and 21, Evil, a Challenge – Love and Justice, Bibliographical Note and Index of Biblical Passages]] (pp. 246–333)
 - [[Figuring the Sacred 09 - Index of Biblical Passages (end), Index of Names and Index of Subjects|Index of Biblical Passages (end), Index of Names and Index of Subjects]] (pp. 334–340)
-- [[Figuring the Sacred 10 - Back cover|Back cover]] (pp. 310)
+- [[Figuring the Sacred 10 - Back cover|Back cover]] (PDF 310)

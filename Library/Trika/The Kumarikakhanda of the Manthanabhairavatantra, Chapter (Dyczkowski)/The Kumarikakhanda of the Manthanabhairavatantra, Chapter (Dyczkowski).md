@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Kumarikakhanda 01 - The Kumarikakhanda of the Manthanabhairavatantra|The Kumārikākhaṇḍa of the Manthānabhairavatantra]] (pp. 1–65)
+- [[The Kumarikakhanda 01 - The Kumarikakhanda of the Manthanabhairavatantra|The Kumārikākhaṇḍa of the Manthānabhairavatantra]] (pp. 58–65)
 - [[The Kumarikakhanda 02 - illegible illegible|\[illegible\] \[illegible\]]] (pp. 66–67)
 - [[The Kumarikakhanda 03 - illegible|\[illegible\]]] (pp. 68–69)
 - [[The Kumarikakhanda 04 - illegible|\[illegible\]]] (pp. 70–71)
@@ -24,4 +24,4 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[The Kumarikakhanda 06 - illegible|\[illegible\]]] (pp. 74–75)
 - [[The Kumarikakhanda 07 - illegible|\[illegible\]]] (pp. 76–77)
 - [[The Kumarikakhanda 08 - illegible|\[illegible\]]] (pp. 78–83)
-- [[The Kumarikakhanda 09 - Notes to the|Notes to the]] (pp. 30–267)
+- [[The Kumarikakhanda 09 - Notes to the|Notes to the]] (pp. 196–267)

@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Goddess Traditions in Tantric Hinduism (Olesen)]]"
 order: 6
-page_range: 51–73
+page_range: ""
 aliases:
   - Goddess Traditions 06 - 3. Varieties of melaka in the Jayadrathayāmala - some reflections on the terms haṭha and p
 ---

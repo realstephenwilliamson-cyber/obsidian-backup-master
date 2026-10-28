@@ -4,7 +4,7 @@ work: "[[Bansat-Boudon - On Saiva Terminology]]"
 book: "[[Library/Trika/On Saiva Terminology (Bansat-Boudon)/On Saiva Terminology (Bansat-Boudon)|On Saiva Terminology (Bansat-Boudon)]]"
 order: 1
 source_pdf: Library/Trika/Bansat-Boudon - On Saiva Terminology (2014).pdf
-page_range: 1–75
+page_range: "40–75"
 pdf_pages: 1–40
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

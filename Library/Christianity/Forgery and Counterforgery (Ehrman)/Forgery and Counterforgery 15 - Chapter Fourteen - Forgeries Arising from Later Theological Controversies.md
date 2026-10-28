@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 15
-page_range: "455–480"
+page_range: ""
 ---
 [[Forgery and Counterforgery 14 - Chapter Thirteen - Forgeries Involving Debates over the Flesh|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 16 - Chapter Fifteen - Apologetic Forgeries|next →]]
 

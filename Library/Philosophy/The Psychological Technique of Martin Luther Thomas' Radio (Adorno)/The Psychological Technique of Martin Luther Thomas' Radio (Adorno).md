@@ -17,5 +17,5 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Psychological Technique 01 - Part 1|Part 1]] (pp. 1–40)
-- [[The Psychological Technique 02 - Part 2|Part 2]] (pp. 41–88)
+- [[The Psychological Technique 01 - Part 1|Part 1]] (pp. 57–60)
+- [[The Psychological Technique 02 - Part 2|Part 2]] (PDF 41–88)

@@ -4,7 +4,7 @@ work: "[[Stiegler - Automatic Society 1, The Future of Work]]"
 book: "[[Library/Philosophy/Automatic Society, Volume 1 (Stiegler)/Automatic Society, Volume 1 (Stiegler)|Automatic Society, Volume 1 (Stiegler)]]"
 order: 8
 source_pdf: Library/Philosophy/(Automatic Society 1) The Future of Work (2017).pdf
-page_range: 302–339
+page_range: "302–341"
 pdf_pages: 310–349
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF
 converted: 2026-10-07

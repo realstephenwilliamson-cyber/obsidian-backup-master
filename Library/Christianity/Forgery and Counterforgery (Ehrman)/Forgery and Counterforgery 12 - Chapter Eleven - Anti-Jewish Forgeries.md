@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 12
-page_range: "323–366"
+page_range: ""
 ---
 [[Forgery and Counterforgery 11 - Chapter Ten - Forgeries in Opposition to Paul and His Message|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 13 - Chapter Twelve - Forgeries Involving Church Organization and Leadership|next →]]
 

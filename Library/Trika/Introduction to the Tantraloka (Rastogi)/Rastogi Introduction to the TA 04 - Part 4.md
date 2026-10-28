@@ -4,7 +4,7 @@ work: "[[Rastogi - Introduction to the Tantraloka]]"
 book: "[[Library/Trika/Introduction to the Tantraloka (Rastogi)/Introduction to the Tantraloka (Rastogi)|Introduction to the Tantraloka (Rastogi)]]"
 order: 4
 source_pdf: Library/Trika/Rastogi - Introduction to the Tantraloka (1987).pdf
-page_range: 121–130
+page_range: "93–130"
 pdf_pages: 121–160
 text_source: the original ClearScan text layer (one copy; the 5 Oct OCR copy left out); footnotes read again with Tesseract Latin+san (7 Oct 2026)
 converted: 2026-10-07

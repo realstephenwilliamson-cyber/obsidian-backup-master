@@ -20,7 +20,7 @@ Converted from the PDF on 8 Oct 2026 (fresh OCR with Tesseract 5 (eng+san) of th
 
 ## Contents
 
-- [[SBE 08 Bhagavadgita 01 - Front matter|Front matter]] (pp. 1–16)
+- [[SBE 08 Bhagavadgita 01 - Front matter|Front matter]] (PDF 1–16)
 - [[SBE 08 Bhagavadgita 02 - Bhagavadgita Introduction|Bhagavadgītā: Introduction]] (pp. 1–36)
 - [[SBE 08 Bhagavadgita 03 - Bhagavadgita Translation, part 1|Bhagavadgītā: Translation, part 1]] (pp. 37–85)
 - [[SBE 08 Bhagavadgita 04 - Bhagavadgita Translation, part 2|Bhagavadgītā: Translation, part 2]] (pp. 86–134)

@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 
 ## Contents
 
-- [[Incarnation in Hinduism 01 - Front matter|Front matter]] (pp. 1–3)
+- [[Incarnation in Hinduism 01 - Front matter|Front matter]] (PDF 1–3)
 - [[Incarnation in Hinduism 02 - Incarnation in Hinduistn and Christianity|Incarnation in Hinduistn and Christianity]] (pp. vii–11)
 - [[Incarnation in Hinduism 03 - Part One, part 1|Part One, part 1]] (pp. 15–58)
 - [[Incarnation in Hinduism 04 - Part One, part 2|Part One, part 2]] (pp. 59–102)

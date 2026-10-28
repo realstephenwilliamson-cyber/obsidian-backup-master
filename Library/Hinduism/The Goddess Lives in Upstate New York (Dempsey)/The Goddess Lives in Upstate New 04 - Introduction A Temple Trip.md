@@ -4,7 +4,7 @@ work: "[[Dempsey - The Goddess Lives in Upstate New York]]"
 book: "[[Library/Hinduism/The Goddess Lives in Upstate New York (Dempsey)/The Goddess Lives in Upstate New York (Dempsey)|The Goddess Lives in Upstate New York (Dempsey)]]"
 order: 4
 source_pdf: Library/Hinduism/Dempsey - The Goddess Lives in Upstate New York (2006).pdf
-page_range: 18–12
+page_range: "4–12"
 pdf_pages: 18–27
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

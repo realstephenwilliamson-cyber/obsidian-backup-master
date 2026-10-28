@@ -4,7 +4,7 @@ work: "[[Einoo (ed.) - Genesis and Development of Tantrism]]"
 book: "[[Library/Hinduism/Genesis and Development of Tantrism (Einoo)/Genesis and Development of Tantrism (Einoo)|Genesis and Development of Tantrism (Einoo)]]"
 order: 1
 source_pdf: Library/Hinduism/The_Saiva_Age_The_Rise_and_Dominance_of.pdf
-page_range: 5–7
+page_range: ""
 pdf_pages: 1–7
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

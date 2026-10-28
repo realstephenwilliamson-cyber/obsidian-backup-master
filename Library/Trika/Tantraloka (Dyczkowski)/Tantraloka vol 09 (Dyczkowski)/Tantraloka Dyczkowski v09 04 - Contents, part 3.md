@@ -90,7 +90,7 @@ Appendix B to Chapter Nineteen: Time and the Conquest of Death,
 
 Kubjikāmata chapter 23, pages 452-456 Appendix to Chapter Twenty-two: The Seven Common Mantras, page 457 
 
-*[PDF 18]* ^pg18
+*[p. xiv]* ^pg18
 
 Abbreviations 
 

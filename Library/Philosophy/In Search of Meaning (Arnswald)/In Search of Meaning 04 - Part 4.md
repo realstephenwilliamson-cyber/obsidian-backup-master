@@ -4,7 +4,7 @@ work: "[[Arnswald (ed.) - In Search of Meaning]]"
 book: "[[Library/Philosophy/In Search of Meaning (Arnswald)/In Search of Meaning (Arnswald)|In Search of Meaning (Arnswald)]]"
 order: 4
 source_pdf: Library/Philosophy/Arnswald (ed.) - In Search of Meaning (2009).pdf
-page_range: 107–168
+page_range: "107–150"
 pdf_pages: 121–168
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

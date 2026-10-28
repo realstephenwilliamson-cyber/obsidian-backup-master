@@ -4,7 +4,7 @@ work: "[[Raghavan - Abhinavagupta and His Works]]"
 book: "[[Library/Trika/Abhinavagupta and His Works (Raghavan)/Abhinavagupta and His Works (Raghavan)|Abhinavagupta and His Works (Raghavan)]]"
 order: 5
 source_pdf: Library/Trika/Raghavan - Abhinavagupta and His Works (1980).pdf
-page_range: 152–204
+page_range: "152–192"
 pdf_pages: 161–204
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08

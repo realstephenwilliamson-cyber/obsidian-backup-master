@@ -4,7 +4,7 @@ work: "[[Wallis - To Enter, to Be Entered, to Merge]]"
 book: "[[Library/Trika/To Enter, to Be Entered, to Merge (Wallis)/To Enter, to Be Entered, to Merge (Wallis)|To Enter, to Be Entered, to Merge (Wallis)]]"
 order: 2
 source_pdf: Library/Trika/To_Enter_to_be_entered_to_merge_The_role.pdf
-page_range: 2–32
+page_range: "10–32"
 pdf_pages: 2–43
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

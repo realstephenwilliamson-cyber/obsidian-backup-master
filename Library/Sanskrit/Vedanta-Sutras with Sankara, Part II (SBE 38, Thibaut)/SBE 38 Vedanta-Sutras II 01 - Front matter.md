@@ -4,7 +4,7 @@ work: "[[Muller (ed.) - The Sacred Books of the East]]"
 book: "[[Library/Sanskrit/Vedanta-Sutras with Sankara, Part II (SBE 38, Thibaut)/Vedanta-Sutras with Sankara, Part II (SBE 38, Thibaut)|Vedanta-Sutras with Sankara, Part II (SBE 38, Thibaut)]]"
 order: 1
 source_pdf: Library/Sanskrit/Sacred Books of the East/38 - Brahma Sutras with Sankara Bhashya - Part Two.pdf
-page_range: 1–12
+page_range: ""
 pdf_pages: 1–12
 text_source: fresh OCR with Tesseract 5 (eng+san) of the page images, English lines read again with eng alone where the san model put Devanagari into them (the PDF's text layer has its words out of order)
 converted: 2026-10-08

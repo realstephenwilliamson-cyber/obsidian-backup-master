@@ -19,7 +19,7 @@ Converted from the PDF on 7 Oct 2026 (the PDF OCR layer, with anusvara fix; Deva
 ## Contents
 
 - [[Tantraloka Dyczkowski v10 01 - Front matter|Front matter]] (pp. ii–xiii)
-- [[Tantraloka Dyczkowski v10 02 - Chapter Twenty-Eight, opening page|Chapter Twenty-Eight, opening page]] (pp. 18)
+- [[Tantraloka Dyczkowski v10 02 - Chapter Twenty-Eight, opening page|Chapter Twenty-Eight, opening page]] (pp. 1)
 - [[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1|Chapter Twenty-Eight, part 1]] (pp. 2–41)
 - [[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2|Chapter Twenty-Eight, part 2]] (pp. 42–81)
 - [[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3|Chapter Twenty-Eight, part 3]] (pp. 82–121)

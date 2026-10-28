@@ -17,9 +17,9 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (ABBYY FineReade
 
 ## Contents
 
-- [[Technics and Time 1 01 - Front matter|Front matter]] (pp. 1–5)
-- [[Technics and Time 1 02 - Preface|Preface]] (pp. ix–xi)
-- [[Technics and Time 1 03 - Contents|Contents]] (pp. xv–18)
+- [[Technics and Time 1 01 - Front matter|Front matter]] (PDF 1–5)
+- [[Technics and Time 1 02 - Preface|Preface]] (pp. ix–xii)
+- [[Technics and Time 1 03 - Contents|Contents]] (pp. xiii–18)
 - [[Technics and Time 1 04 - Part I The Invention of the Human, part 1|Part I: The Invention of the Human, part 1]] (pp. 19–59)
 - [[Technics and Time 1 05 - Part I The Invention of the Human, part 2|Part I: The Invention of the Human, part 2]] (pp. 60–100)
 - [[Technics and Time 1 06 - Part I The Invention of the Human, part 3|Part I: The Invention of the Human, part 3]] (pp. 101–141)

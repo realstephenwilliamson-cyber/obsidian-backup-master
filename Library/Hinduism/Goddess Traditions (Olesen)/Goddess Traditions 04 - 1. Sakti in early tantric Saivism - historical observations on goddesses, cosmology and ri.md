@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Goddess Traditions in Tantric Hinduism (Olesen)]]"
 order: 4
-page_range: 16–32
+page_range: ""
 aliases:
   - Goddess Traditions 04 - 1. Śakti in early tantric Śaivism - historical observations on goddesses, cosmology and ri
 ---

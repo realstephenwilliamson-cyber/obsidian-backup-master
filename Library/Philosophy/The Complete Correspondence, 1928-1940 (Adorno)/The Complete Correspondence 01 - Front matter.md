@@ -4,7 +4,7 @@ work: "[[Adorno, Benjamin - The Complete Correspondence]]"
 book: "[[Library/Philosophy/The Complete Correspondence, 1928-1940 (Adorno)/The Complete Correspondence, 1928-1940 (Adorno)|The Complete Correspondence, 1928-1940 (Adorno)]]"
 order: 1
 source_pdf: Library/Philosophy/Adorno, Benjamin - The Complete Correspondence 1928-1940 (2000).pdf
-page_range: 1–6
+page_range: ""
 pdf_pages: 1–6
 text_source: the scan's OCR text layer (Internet Archive), PyMuPDF
 converted: 2026-10-07

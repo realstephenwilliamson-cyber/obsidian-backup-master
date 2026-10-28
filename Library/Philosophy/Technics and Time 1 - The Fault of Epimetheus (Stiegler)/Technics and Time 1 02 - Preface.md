@@ -4,7 +4,7 @@ work: "[[Stiegler - Technics and Time (vols 1-3)]]"
 book: "[[Library/Philosophy/Technics and Time 1 - The Fault of Epimetheus (Stiegler)/Technics and Time 1 - The Fault of Epimetheus (Stiegler)|Technics and Time 1 - The Fault of Epimetheus (Stiegler)]]"
 order: 2
 source_pdf: Library/Philosophy/(Technics and Time 1) The Fault of Epimetheus (1998).pdf
-page_range: ix–xi
+page_range: "ix–xii"
 pdf_pages: 6–9
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07
@@ -59,4 +59,4 @@ Lastly, I would like to express my thanks to Roger Lesgards, to Jacques Tarnero,
 
 B.S. 
 
-*[PDF 9]* ^pg9
+*[p. xii]* ^pg9

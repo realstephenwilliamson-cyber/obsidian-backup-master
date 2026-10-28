@@ -4,7 +4,7 @@ work: "[[Adorno - Negative Dialectics]]"
 book: "[[Library/Philosophy/Negative Dialectics (Adorno)/Negative Dialectics (Adorno)|Negative Dialectics (Adorno)]]"
 order: 2
 source_pdf: Library/Philosophy/Adorno - Negative Dialectics (2001).pdf
-page_range: 41–80
+page_range: ""
 pdf_pages: 41–80
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

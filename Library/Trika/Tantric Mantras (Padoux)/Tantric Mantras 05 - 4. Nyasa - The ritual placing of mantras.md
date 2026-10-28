@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Tantric Mantras (Padoux)]]"
 order: 5
-page_range: 54–80
+page_range: ""
 aliases:
   - Tantric Mantras 05 - 4. Nyāsa - The ritual placing of mantras
 ---

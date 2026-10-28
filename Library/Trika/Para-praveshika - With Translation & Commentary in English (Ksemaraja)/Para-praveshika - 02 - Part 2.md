@@ -4,7 +4,7 @@ work: "[[Zadoo (tr.) - Parapravesika of Ksemaraja]]"
 book: "[[Library/Trika/Para-praveshika - With Translation & Commentary in English (Ksemaraja)/Para-praveshika - With Translation & Commentary in English (Ksemaraja)|Para-praveshika - With Translation & Commentary in English (Ksemaraja)]]"
 order: 2
 source_pdf: Library/Trika/Parapraveshika - Shri Ram Shiava Trika Ashram.pdf
-page_range: 61–110
+page_range: "61–94"
 pdf_pages: 74–110
 text_source: fresh OCR with Tesseract 5 (eng+san) of the page images (the PDF has an older OCR layer that garbles Sanskrit)
 converted: 2026-10-07

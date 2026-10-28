@@ -4,7 +4,7 @@ work: "[[Harper (ed.) - The Roots of Tantra]]"
 book: "[[Library/Hinduism/The Roots of Tantra (Harper)/The Roots of Tantra (Harper)|The Roots of Tantra (Harper)]]"
 order: 1
 source_pdf: Library/Hinduism/Harper, Brown (eds.) - The Roots of Tantra (2002).pdf
-page_range: 1–3
+page_range: ""
 pdf_pages: 1–3
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

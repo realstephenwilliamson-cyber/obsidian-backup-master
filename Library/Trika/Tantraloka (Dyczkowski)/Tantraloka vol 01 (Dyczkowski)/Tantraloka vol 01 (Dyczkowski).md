@@ -19,7 +19,7 @@ Converted from the PDF on 7 Oct 2026 (the PDF OCR layer, with anusvara fix; Deva
 ## Contents
 
 - [[Tantraloka Dyczkowski v01 01 - Front matter|Front matter]] (pp. 1–x)
-- [[Tantraloka Dyczkowski v01 02 - Chapter One, part 1|Chapter One, part 1]] (pp. 15–41)
+- [[Tantraloka Dyczkowski v01 02 - Chapter One, part 1|Chapter One, part 1]] (pp. 1–41)
 - [[Tantraloka Dyczkowski v01 03 - Chapter One, part 2|Chapter One, part 2]] (pp. 42–82)
 - [[Tantraloka Dyczkowski v01 04 - Chapter One, part 3|Chapter One, part 3]] (pp. 83–123)
 - [[Tantraloka Dyczkowski v01 05 - Chapter One, part 4|Chapter One, part 4]] (pp. 124–164)

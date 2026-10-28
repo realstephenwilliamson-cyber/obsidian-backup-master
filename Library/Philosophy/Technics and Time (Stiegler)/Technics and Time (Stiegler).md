@@ -17,14 +17,14 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF; 8 
 
 ## Contents
 
-- [[Technics and Time 01 - Technics and Time, 2|Technics and Time, 2]] (pp. 1–4)
-- [[Technics and Time 02 - TECHNICS AND TIME, 2|TECHNICS AND TIME, 2]] (pp. 5–6)
-- [[Technics and Time 03 - Contents|Contents]] (pp. 7–8)
-- [[Technics and Time 04 - Translator's Note|Translator’s Note]] (pp. 9–10)
+- [[Technics and Time 01 - Technics and Time, 2|Technics and Time, 2]] (PDF 1–4)
+- [[Technics and Time 02 - TECHNICS AND TIME, 2|TECHNICS AND TIME, 2]] (PDF 5–6)
+- [[Technics and Time 03 - Contents|Contents]] (PDF 7–8)
+- [[Technics and Time 04 - Translator's Note|Translator’s Note]] (PDF 9–10)
 - [[Technics and Time 05 - Technics and Time, 2, part 1|Technics and Time, 2, part 1]] (pp. 11–36)
 - [[Technics and Time 06 - Technics and Time, 2, part 2|Technics and Time, 2, part 2]] (pp. 37–74)
 - [[Technics and Time 07 - Technics and Time, 2, part 3|Technics and Time, 2, part 3]] (pp. 75–112)
 - [[Technics and Time 08 - Technics and Time, 2, part 4|Technics and Time, 2, part 4]] (pp. 113–150)
 - [[Technics and Time 09 - Technics and Time, 2, part 5|Technics and Time, 2, part 5]] (pp. 151–187)
 - [[Technics and Time 10 - 4 Temporal Object and Retentional Finitude, part 1|§ 4 Temporal Object and Retentional Finitude, part 1]] (pp. 188–230)
-- [[Technics and Time 11 - 4 Temporal Object and Retentional Finitude, part 2|§ 4 Temporal Object and Retentional Finitude, part 2]] (pp. 231–285)
+- [[Technics and Time 11 - 4 Temporal Object and Retentional Finitude, part 2|§ 4 Temporal Object and Retentional Finitude, part 2]] (pp. 231–267)

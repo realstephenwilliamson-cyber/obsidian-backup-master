@@ -19,6 +19,6 @@ Converted from the PDF on 12 Oct 2026 (fresh OCR with Tesseract 5 (eng, one text
 
 ## Contents
 
-- [[Disputation with Pyrrhus 01 - Front matter|Front matter (Title page, contents and preface)]] (pp. i)
+- [[Disputation with Pyrrhus 01 - Front matter|Front matter (Title page, contents and preface)]] (pp. 1–i)
 - [[Disputation with Pyrrhus 02 - Introduction|Introduction]] (pp. ii–1)
 - [[Disputation with Pyrrhus 03 - The Disputation with Pyrrhus|The Disputation with Pyrrhus]] (pp. 2–74)

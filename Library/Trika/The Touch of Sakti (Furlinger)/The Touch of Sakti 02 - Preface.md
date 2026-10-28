@@ -184,7 +184,7 @@ Prof. André Padoux
 
 Fhe-Fonchof Sakti
 
-*[PDF 21]* ^pg21
+*[p. xvii]* ^pg21
 
 Preface xvii
 
@@ -224,7 +224,7 @@ I was lucky to study in Varanasi with another eminent scholar of non-dualistic K
 
 support.
 
-*[PDF 23]* ^pg23
+*[p. xix]* ^pg23
 
 Preface xix
 
@@ -238,7 +238,7 @@ Last but not least I thank my friend and colleague Michael Ianuzielo (Varanasi/M
 
 *[p. xx]* ^pg24
 
-*[PDF 25]* ^pg25
+*[p. xxi]* ^pg25
 
 Abbreviations
 

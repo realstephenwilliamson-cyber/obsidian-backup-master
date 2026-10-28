@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 21
-page_range: "623–628"
+page_range: ""
 ---
 [[Forgery and Counterforgery 20 - Index of Subjects|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]]
 

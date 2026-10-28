@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 13
-page_range: "367–406"
+page_range: ""
 ---
 [[Forgery and Counterforgery 12 - Chapter Eleven - Anti-Jewish Forgeries|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 14 - Chapter Thirteen - Forgeries Involving Debates over the Flesh|next →]]
 

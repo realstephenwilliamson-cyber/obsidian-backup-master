@@ -1201,7 +1201,7 @@ Rabbi Abba opened, “*Male and female He created them, and He blessed them and 
 
     See *Bereshit Rabbah* 76:2: “Rav Huna said in the name of Rabbi Aḥa, ‘*Here, I am with you* ([[Torah 07 - Vayetzei#^28-15|Genesis 28:15]]); *If Elohim will be with me*. From here we learn that a righteous person has no assurance in this world.’”
 
-    See *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-83a|1:83a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-130a|130a–b]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-183a|183a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-199b|199b–200a]]; [[Zohar 5.05 - Parashat Terumah#^z2-130a|2:130a]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-264a|264a]] (*Heikh*); [[Zohar 7.03 - Parashat Va-Yiqra#^z3-25a|3:25a]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-156b|156b]].
+    See *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-83a|1:83a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-130a|130a–b]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-183a|183a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-199b|199b–200a]]; [[Zohar 5.05 - Parashat Terumah#^z2-130a|2:130a]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-264a|264a]] (*Heikh*); [[Zohar 7.03 - Parashat Va-Yiqra#^z3-25a|3:25a]], [[Zohar 9.03 - Parashat Shelah Lekha#^z3-156b|156b]].
 
 [^161]: **I will draw blessings from the bubbling spring… to… *Elohim*** I will attain the rung of *Tif’eret*, known as יהוה (*YHVH*), and thereby convey the stream of emanation from the upper sefirotic source to *Shekhinah*, known as *Elohim*.
 
@@ -1757,7 +1757,7 @@ Rabbi Abba opened, “*Male and female He created them, and He blessed them and 
 
     See M *Berakhot* 9:5: “*With all* לבבך (*levavekha*), *your heart* ([[Torah 45 - Vaetchanan#^6-5|Deuteronomy 6:5]])—with both your impulses: your good impulse and your evil impulse.”
 
-    See BT *Berakhot* [[Berakhot 61#61a|61a]]; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-49b|1:49b]], [[Zohar 2.05 - Parashat Toledot#^z1-144b|144b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-165b|165b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-174b|174b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-178b|178b]]; [[Zohar 12.06 - Piqqudin#^z3-263b|3:263b]].
+    See BT *Berakhot* [[Berakhot 61#61a|61a]]; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-49b|1:49b]], [[Zohar 2.05 - Parashat Toledot#^z1-144b|144b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-165b|165b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-174b|174b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-178b|178b]]; [[Zohar 12.06 - Piqqudin#^z3-263b|3:263b]].
 
 [^382]: **other directions of this world** Symbolizing the other four *sefirot*, which complete the “six directions” of *Ḥesed* through *Yesod*. See above, note 366.
 

@@ -17,8 +17,8 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Gifts from the Goddess 01 - Front matter|Front matter]] (pp. 1–17)
-- [[Gifts from the Goddess 02 - A Note from Guruji Amma|A Note from Guruji Amma]] (pp. xi–19)
+- [[Gifts from the Goddess 01 - Front matter|Front matter]] (PDF 1–17)
+- [[Gifts from the Goddess 02 - A Note from Guruji Amma|A Note from Guruji Amma]] (pp. xi–xii)
 - [[Gifts from the Goddess 03 - Foreword Performing a Successful Transplant|Foreword: Performing a Successful Transplant]] (pp. xiii–15)
 - [[Gifts from the Goddess 04 - Sanskrit Pronunciation Guide|Sanskrit Pronunciation Guide]] (pp. 16–18)
 - [[Gifts from the Goddess 05 - Selected Works Of Sri Amritananda Natha Saraswati|Selected Works Of Sri Amritananda Natha Saraswati]] (pp. 19–20)
@@ -84,8 +84,8 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[Gifts from the Goddess 136 - Mantra|Mantra]] (pp. 396)
 - [[Gifts from the Goddess 137 - The Seventh Avarana Eight Forms of Saraswati|The Seventh Avarana Eight Forms of Saraswati]] (pp. 397)
 - [[Gifts from the Goddess 138 - Eight Forms of Saraswati|Eight Forms of Saraswati]] (pp. 398–411)
-- [[Gifts from the Goddess 146 - Sakti Puja Worship of the Living Mother|Śakti Pūjā: Worship of the Living Mother]] (pp. 412–459)
-- [[Gifts from the Goddess 147 - Dasa Mahavidyas The Ten Great Wisdom Goddesses|Daśa Mahāvidyās The Ten Great Wisdom Goddesses]] (pp. 460–461)
+- [[Gifts from the Goddess 146 - Sakti Puja Worship of the Living Mother|Śakti Pūjā: Worship of the Living Mother]] (pp. 412)
+- [[Gifts from the Goddess 147 - Dasa Mahavidyas The Ten Great Wisdom Goddesses|Daśa Mahāvidyās The Ten Great Wisdom Goddesses]] (PDF 460–461)
 - [[Gifts from the Goddess 148 - Introduction|Introduction]] (pp. 417–428)
 - [[Gifts from the Goddess 152 - Tara|Tara]] (pp. 429–438)
 - [[Gifts from the Goddess 159 - Tripurasundari|Tripurasundari]] (pp. 439–454)
@@ -112,4 +112,4 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[Gifts from the Goddess 192 - Contributors|Contributors]] (pp. 556–558)
 - [[Gifts from the Goddess 193 - Notes|Notes]] (pp. 559–566)
 - [[Gifts from the Goddess 194 - List of Illustrations|List of Illustrations]] (pp. 567–568)
-- [[Gifts from the Goddess 195 - Index|Index]] (pp. 569–637)
+- [[Gifts from the Goddess 195 - Index|Index]] (pp. 569–590)

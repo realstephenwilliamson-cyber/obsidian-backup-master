@@ -4,7 +4,7 @@ work: "[[Hoffmeier - Ancient Israel in Sinai]]"
 book: "[[Library/Biblical-Studies/Ancient Israel in Sinai (Hoffmeier)/Ancient Israel in Sinai (Hoffmeier)|Ancient Israel in Sinai (Hoffmeier)]]"
 order: 2
 source_pdf: Library/Biblical-Studies/Hoffmeier - Ancient Israel in Sinai (OUP 2005).pdf
-page_range: 9–16
+page_range: "viii–xiv"
 pdf_pages: 9–16
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -30,7 +30,7 @@ neighbors, from prehistory to the present. But effective, modern-quality archaeo
 
 —kenneth a. kitchen
 
-*[PDF 11]* ^pg11
+*[p. ix]* ^pg11
 
 Preface
 
@@ -88,6 +88,6 @@ will stimulate thought and discussion about the wilderness tradition among stude
 
 All Bible quotations are from the New Revised Standard Version (NRSV) unless otherwise specified.
 
-*[PDF 16]* ^pg16
+*[p. xiv]* ^pg16
 
 *This page intentionally left blank*

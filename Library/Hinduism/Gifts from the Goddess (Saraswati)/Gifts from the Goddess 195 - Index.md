@@ -4,7 +4,7 @@ work: "[[Saraswati - Gifts from the Goddess]]"
 book: "[[Library/Hinduism/Gifts from the Goddess (Saraswati)/Gifts from the Goddess (Saraswati)|Gifts from the Goddess (Saraswati)]]"
 order: 195
 source_pdf: Library/Hinduism/Bowden - Gifts from the Goddess, Selected Works of Sri Amritananda Natha Saraswati.pdf
-page_range: 569–637
+page_range: "569–590"
 pdf_pages: 614–637
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

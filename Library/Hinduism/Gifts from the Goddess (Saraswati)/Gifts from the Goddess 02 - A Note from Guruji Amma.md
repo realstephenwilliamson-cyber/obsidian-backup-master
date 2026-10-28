@@ -4,7 +4,7 @@ work: "[[Saraswati - Gifts from the Goddess]]"
 book: "[[Library/Hinduism/Gifts from the Goddess (Saraswati)/Gifts from the Goddess (Saraswati)|Gifts from the Goddess (Saraswati)]]"
 order: 2
 source_pdf: Library/Hinduism/Bowden - Gifts from the Goddess, Selected Works of Sri Amritananda Natha Saraswati.pdf
-page_range: xi–19
+page_range: "xi–xii"
 pdf_pages: 18–19
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -34,6 +34,6 @@ You need only open your heart wide enough to receive it.
 
 With gratitude to all, and love and blessings from Devi and Guruji, *Amma*
 
-*[PDF 19]* ^pg19
+*[p. xii]* ^pg19
 
 B Sri Uma-Parvathinanda Natha Saraswati on a visit to Mexico.

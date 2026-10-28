@@ -4,7 +4,7 @@ work: "[[Dyczkowski - Tantraloka (tr., vols I-XI)]]"
 book: "[[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)|Tantraloka vol 06 (Dyczkowski)]]"
 order: 3
 source_pdf: Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 06.pdf
-page_range: 18–41
+page_range: "1–41"
 pdf_pages: 18–58
 text_source: the PDF OCR layer, with anusvara fix; Devanagari lines read again with Tesseract san (7 Oct 2026); words the old OCR layer garbled replaced from a fresh OCR (Tesseract eng+san) where that reads an English word or Devanagari
 converted: 2026-10-07

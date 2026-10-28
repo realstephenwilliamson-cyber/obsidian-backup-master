@@ -68,7 +68,7 @@ Rabbi Shim’on opened and said, “Until the end of the first watch—these are
 
     [[Torah 08 - Vayishlach#^32-4|Genesis 32:4–6]] reads: *Jacob sent messengers ahead of him to Esau his brother in the land of Seir, the steppe of Edom. He instructed them, saying, “Thus shall you say: ‘To my lord Esau, thus says your servant Jacob: With Laban I have sojourned and I tarried until now. I have acquired ox and donkey, sheep, and male and female slaves, and I send ahead to tell my lord, to find favor in your eyes.’”*
 
-[^6]: **two angels…** On the two accompanying angels, see BT *Shabbat* [[Shabbat 119#119b|119b]]; *Ta’anit* 11a; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|1:12b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-165b|165b]]; [[Zohar 5.03 - Parashat Mishpatim#^z2-106b|2:106b]]; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47a|47a]], [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-84d|84d]] (*MhN, Rut*).
+[^6]: **two angels…** On the two accompanying angels, see BT *Shabbat* [[Shabbat 119#119b|119b]]; *Ta’anit* 11a; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|1:12b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-165b|165b]]; [[Zohar 5.03 - Parashat Mishpatim#^z2-106b|2:106b]]; *ZḤ* [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47a|47a]], [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-84d|84d]] (*MhN, Rut*).
 
     On the nocturnal ascent of the soul, see *Bereshit Rabbah* 14:9: “It was said in the name of Rabbi Me’ir: ‘This soul fills the body; and when a person sleeps, she ascends—drawing down life from above.’” See Tishby, *Wisdom of the Zohar*, 2:809–14. On the soul and the angels offering testimony, see BT *Ta’anit* 11a; *Ḥagigah* [[Chagigah 16#16a|16a]].
 

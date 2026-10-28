@@ -17,8 +17,8 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 
 ## Contents
 
-- [[Disbelief and Discredit 2 01 - Front matter|Front matter]] (pp. 1)
-- [[Disbelief and Discredit 2 02 - Uncontrollable Societies of Disaffected Individuals|Uncontrollable Societies of Disaffected Individuals]] (pp. 2–29)
+- [[Disbelief and Discredit 2 01 - Front matter|Front matter]] (PDF 1)
+- [[Disbelief and Discredit 2 02 - Uncontrollable Societies of Disaffected Individuals|Uncontrollable Societies of Disaffected Individuals]] (pp. 1–29)
 - [[Disbelief and Discredit 2 03 - The Antigone Complex|The Antigone Complex]] (pp. 30–50)
 - [[Disbelief and Discredit 2 04 - Spiritual Misery and Reasons for Hope, part 1|Spiritual Misery and Reasons for Hope, part 1]] (pp. 51–97)
 - [[Disbelief and Discredit 2 05 - Spiritual Misery and Reasons for Hope, part 2|Spiritual Misery and Reasons for Hope, part 2]] (pp. 98–143)

@@ -17,8 +17,8 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[You Will Be Like the Gods 01 - Front matter|Front matter (Titlepagetemplate)]] (pp. 1)
-- [[You Will Be Like the Gods 02 - Front matter and Chapters 1-2, Introduction - Cognitive Origins of Deity Concepts|Front matter and Chapters 1–2, Introduction – Cognitive Origins of Deity Concepts]] (pp. 2–33)
+- [[You Will Be Like the Gods 01 - Front matter|Front matter (Titlepagetemplate)]] (PDF 1)
+- [[You Will Be Like the Gods 02 - Front matter and Chapters 1-2, Introduction - Cognitive Origins of Deity Concepts|Front matter and Chapters 1–2, Introduction – Cognitive Origins of Deity Concepts]] (pp. 1–33)
 - [[You Will Be Like the Gods 03 - Chapter 2. Cognitive Origins of Deity Concepts (end) and Chapter 3|Chapter 2. Cognitive Origins of Deity Concepts (end) and Chapter 3]] (pp. 34–72)
 - [[You Will Be Like the Gods 04 - Chapter 3 (end) and Chapter 4. The Conceptualization of Deity|Chapter 3 (end) and Chapter 4. The Conceptualization of Deity]] (pp. 73–111)
 - [[You Will Be Like the Gods 05 - Chapter 4 (end), Chapter 5. Conclusions, Appendices A-C and Bibliography|Chapter 4 (end), Chapter 5. Conclusions, Appendices A–C and Bibliography]] (pp. 112–150)

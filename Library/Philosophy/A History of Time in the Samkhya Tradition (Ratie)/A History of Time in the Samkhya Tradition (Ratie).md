@@ -17,5 +17,5 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[A History of Time in the Samkhya 01 - Part 1|Part 1]] (pp. 1–375)
-- [[A History of Time in the Samkhya 02 - Part 2|Part 2]] (pp. 376–85)
+- [[A History of Time in the Samkhya 01 - Part 1|Part 1]] (pp. viii–375)
+- [[A History of Time in the Samkhya 02 - Part 2|Part 2]] (pp. 376–419)

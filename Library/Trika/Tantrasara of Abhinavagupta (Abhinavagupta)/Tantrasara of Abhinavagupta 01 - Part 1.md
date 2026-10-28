@@ -134,7 +134,7 @@ One of the great deficiencies that those of us who have an interest in Śaivism 
 
 This particular project has been going on so long, I can’t even remember when it started. After Swami Muktananda passed away, I began visiting Swami Lakshman Joo in Srinagar. I was never really able to stay there long enough to really study with him or to consider myself a student of his, but I was and am a great admirer
 
-*[PDF 8]* ^pg8
+*[p. viii]* ^pg8
 
 vii PREFACE
 
@@ -158,7 +158,7 @@ It was the tradition of some of the ancient pandits belonging to different schoo
 
 The primary aim of the TS is to make knowledge easily accessible; thus, Abhinavagupta avoids getting into complex and lengthy philosophical arguments and elaboration, and lays out the subject matter smoothly and concisely. For us, on the other hand, who are attempting to study and to understand this text a millennium later, the brevity of the style of the TS presents a significant challenge. Furthermore, the Sanskrit used by Abhinavagupta in the TS is not easy, and the notions and practices found in it are obscure
 
-*[PDF 10]* ^pg10
+*[p. x]* ^pg10
 
 x FOREWORD
 
@@ -168,7 +168,7 @@ For example, in Chapter Sixteen, Abhinavagupta speaks of the application of thè
 
 As already pointed out, the brevity of the style of the TS presents a serious difficulty in understanding this text. Fortunately, these doctrines are often discussed at length by the same author in his TA as well as in his other works. The translator then is required to read the TA along with the TS if intent on grasping the meaning and wider context of topics discussed. Thus, the TĀ and the TS complement each other, although on rare occasions the translator is fortunate to find additional information or explana-
 
-*[PDF 11]* ^pg11
+*[p. xi]* ^pg11
 
 FOREWORD Xxi
 

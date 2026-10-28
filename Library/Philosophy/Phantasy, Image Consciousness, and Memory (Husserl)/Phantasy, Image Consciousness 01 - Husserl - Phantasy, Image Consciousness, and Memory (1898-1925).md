@@ -4,7 +4,7 @@ work: "[[Husserl - Phantasy, Image Consciousness, and Memory (1898-1925)]]"
 book: "[[Library/Philosophy/Phantasy, Image Consciousness, and Memory (Husserl)/Phantasy, Image Consciousness, and Memory (Husserl)|Phantasy, Image Consciousness, and Memory (Husserl)]]"
 order: 1
 source_pdf: Library/Philosophy/Husserl - Phantasy, Image Consciousness, and Memory 1898-1925 (2005).pdf
-page_range: 1–5
+page_range: ""
 pdf_pages: 1–5
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

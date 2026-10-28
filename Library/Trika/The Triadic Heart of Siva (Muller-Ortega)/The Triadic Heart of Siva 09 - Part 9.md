@@ -4,7 +4,7 @@ work: "[[Muller-Ortega - The Triadic Heart of Siva]]"
 book: "[[Library/Trika/The Triadic Heart of Siva (Muller-Ortega)/The Triadic Heart of Siva (Muller-Ortega)|The Triadic Heart of Siva (Muller-Ortega)]]"
 order: 9
 source_pdf: Library/Trika/Muller-Ortega - The Triadic Heart of Siva, Kaula Tantricism of Abhinavagupta (SUNY 1989).pdf
-page_range: 311–360
+page_range: "311–l"
 pdf_pages: 321–360
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

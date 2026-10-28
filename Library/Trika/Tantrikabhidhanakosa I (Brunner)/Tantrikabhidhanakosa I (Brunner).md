@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Tantrikabhidhanakosa I 01 - Front matter|Front matter (COVER, TITELEI, SOMMAIRE ; CONTENTS; INHALT)]] (pp. 1–5)
+- [[Tantrikabhidhanakosa I 01 - Front matter|Front matter (COVER, TITELEI, SOMMAIRE ; CONTENTS; INHALT)]] (PDF 1–5)
 - [[Tantrikabhidhanakosa I 02 - VORWORT|VORWORT]] (pp. 7–10)
 - [[Tantrikabhidhanakosa I 03 - INTRODUCTION|INTRODUCTION]] (pp. 11–36)
 - [[Tantrikabhidhanakosa I 04 - ABREVIATIONS UTILISEES ; ABBREVIATIONS ; ABKURZUNGEN|ABRÉVIATIONS UTILISÉES ; ABBREVIATIONS ; ABKÜRZUNGEN]] (pp. 37–42)

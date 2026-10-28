@@ -17,6 +17,6 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (ABBYY FineReade
 
 ## Contents
 
-- [[Acting Out 01 - Front matter|Front matter (ACTING OUT, Crossing Aesthetics, ACTING OUT)]] (pp. 1–7)
+- [[Acting Out 01 - Front matter|Front matter (ACTING OUT, Crossing Aesthetics, ACTING OUT)]] (PDF 1–7)
 - [[Acting Out 02 - How I Became a Philosopher|How I Became a Philosopher]] (pp. i–59)
 - [[Acting Out 03 - The destruction of the process of psychic and collective individuation and the|The destruction of the process of psychic and collective individuation and the question of evil]] (pp. ii–93)

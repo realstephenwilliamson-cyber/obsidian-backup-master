@@ -4,7 +4,7 @@ work: "[[Williams - Abhinavagupta's Portrait of a Guru]]"
 book: "[[Library/Trika/Abhinavagupta's Portrait of a Guru (Williams)/Abhinavagupta's Portrait of a Guru (Williams)|Abhinavagupta's Portrait of a Guru (Williams)]]"
 order: 1
 source_pdf: Library/Trika/Abhinavaguptas_Portrait_of_a_Guru_Revela.pdf
-page_range: 1–x
+page_range: "iii–x"
 pdf_pages: 1–12
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

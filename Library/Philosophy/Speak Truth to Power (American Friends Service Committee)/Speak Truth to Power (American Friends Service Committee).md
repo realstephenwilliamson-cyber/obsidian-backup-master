@@ -18,7 +18,7 @@ Converted from the PDF on 22 Oct 2026 (the PDF's OCR text layer (Acrobat), PyMuP
 
 - [[Speak Truth to Power 01 - Front matter|Front matter]] (pp. 1–2)
 - [[Speak Truth to Power 02 - A Note to the Reader|A Note to the Reader]] (pp. iii–vi)
-- [[Speak Truth to Power 03 - Table of Contents|Table of Contents]] (pp. vii)
+- [[Speak Truth to Power 03 - Table of Contents|Table of Contents]] (pp. vii–8)
 - [[Speak Truth to Power 04 - I. Facing the Paradox|I. Facing the Paradox]] (pp. i–13)
 - [[Speak Truth to Power 05 - II. The Price of Power|II. The Price of Power]] (pp. ii–25)
 - [[Speak Truth to Power 06 - III. The Enemy Redefined|III. The Enemy Redefined]] (pp. iii–34)

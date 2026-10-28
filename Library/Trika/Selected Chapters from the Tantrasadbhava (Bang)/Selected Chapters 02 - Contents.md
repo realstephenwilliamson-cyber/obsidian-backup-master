@@ -4,7 +4,7 @@ work: "[[Bang - Selected Chapters from the Tantrasadbhava]]"
 book: "[[Library/Trika/Selected Chapters from the Tantrasadbhava (Bang)/Selected Chapters from the Tantrasadbhava (Bang)|Selected Chapters from the Tantrasadbhava (Bang)]]"
 order: 2
 source_pdf: Library/Trika/Bang - Selected Chapters from the Tantrasadbhava (Hamburg diss. 2018).pdf
-page_range: i–6
+page_range: "i–ii"
 pdf_pages: 5–6
 text_source: PDF text layer (born-digital), PyMuPDF; 176 pages read by OCR (Tesseract) where the text layer has no Unicode
 converted: 2026-10-07
@@ -72,7 +72,7 @@ The date of the *Tantrasadbhāva* . . . . . . . . . . . . . . . . . . 82 2.2
 
 Summary of the Selected Chapters . . . . . . . . . . . . . . . . . . . . 84
 
-*[PDF 6]* ^pg6
+*[p. ii]* ^pg6
 
 Sources and Editorial Conventions
 

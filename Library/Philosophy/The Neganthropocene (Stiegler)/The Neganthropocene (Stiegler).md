@@ -17,9 +17,9 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Neganthropocene 01 - Front matter|Front matter (front)]] (pp. 1)
-- [[The Neganthropocene 02 - Blank page|Blank page]] (pp. 2)
-- [[The Neganthropocene 03 - Front matter, Introduction and Chapter 1, The Anthropocene and Neganthropology|Front matter, Introduction and Chapter 1, The Anthropocene and Neganthropology]] (pp. 3–39)
+- [[The Neganthropocene 01 - Front matter|Front matter (front)]] (PDF 1)
+- [[The Neganthropocene 02 - Blank page|Blank page]] (PDF 2)
+- [[The Neganthropocene 03 - Front matter, Introduction and Chapter 1, The Anthropocene and Neganthropology|Front matter, Introduction and Chapter 1, The Anthropocene and Neganthropology]] (pp. 8–39)
 - [[The Neganthropocene 04 - Chapter 1 (end), Chapters 2-4, Escaping the Anthropocene - Elements of Neganthropology|Chapter 1 (end), Chapters 2–4, Escaping the Anthropocene – Elements of Neganthropology]] (pp. 40–78)
 - [[The Neganthropocene 05 - 4. Elements of Neganthropology (end), Chapters 5-7, Passages to the Act, Dialogical Interactions - Governing Towards the Neganthropocene|4. Elements of Neganthropology (end), Chapters 5–7, Passages to the Act, Dialogical Interactions – Governing Towards the Neganthropocene]] (pp. 79–117)
 - [[The Neganthropocene 06 - Chapter 7 (end), Chapters 8-10, Five Theses after Schmitt and Bratton - The Organology of Dreams and Arche-Cinema|Chapter 7 (end), Chapters 8–10, Five Theses after Schmitt and Bratton – The Organology of Dreams and Arche-Cinema]] (pp. 118–156)
@@ -27,5 +27,5 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[The Neganthropocene 08 - 13. What is Called Caring, Thinking Beyond the Anthropocene (continued)|13. What is Called Caring? Thinking Beyond the Anthropocene (continued)]] (pp. 196–234)
 - [[The Neganthropocene 09 - 13. What is Called Caring, Thinking Beyond the Anthropocene (end) and Notes|13. What is Called Caring? Thinking Beyond the Anthropocene (end) and Notes]] (pp. 235–273)
 - [[The Neganthropocene 10 - Notes (continued)|Notes (continued)]] (pp. 274–312)
-- [[The Neganthropocene 11 - Notes (end), References and List of Sources|Notes (end), References and List of Sources]] (pp. 313–348)
-- [[The Neganthropocene 12 - Back cover|Back cover]] (pp. 349)
+- [[The Neganthropocene 11 - Notes (end), References and List of Sources|Notes (end), References and List of Sources]] (pp. 313–345)
+- [[The Neganthropocene 12 - Back cover|Back cover]] (PDF 349)

@@ -87,4 +87,4 @@ Converted from the PDF on 12 Oct 2026 (a fresh OCR (Tesseract 5) of the page ima
 - [[Ambigua II 50 - Notes to the Text|Notes to the Text]] (pp. 343–351)
 - [[Ambigua II 51 - Notes to the Translation|Notes to the Translation]] (pp. 353–373)
 - [[Ambigua II 52 - Bibliography|Bibliography]] (pp. 375–381)
-- [[Ambigua II 53 - Index|Index]] (pp. 383–388)
+- [[Ambigua II 53 - Index|Index]] (PDF 383–388)

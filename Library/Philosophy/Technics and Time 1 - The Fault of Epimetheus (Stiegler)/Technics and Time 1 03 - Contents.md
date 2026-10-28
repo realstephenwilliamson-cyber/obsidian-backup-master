@@ -4,7 +4,7 @@ work: "[[Stiegler - Technics and Time (vols 1-3)]]"
 book: "[[Library/Philosophy/Technics and Time 1 - The Fault of Epimetheus (Stiegler)/Technics and Time 1 - The Fault of Epimetheus (Stiegler)|Technics and Time 1 - The Fault of Epimetheus (Stiegler)]]"
 order: 3
 source_pdf: Library/Philosophy/(Technics and Time 1) The Fault of Epimetheus (1998).pdf
-page_range: xv–18
+page_range: "xiii–18"
 pdf_pages: 10–33
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07
@@ -15,7 +15,7 @@ converted: 2026-10-07
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's OCR layer (ABBYY FineReader), not a born-digital text: words can be misread, and some passages may be marked illegible. For exact readings, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[PDF 10]* ^pg10
+*[p. xiii]* ^pg10
 
 ## Contents
 
@@ -41,7 +41,7 @@ Introduction 183 §1 Prometheus's Liver 185 204 §2 Already There §3 The Diseng
 
 *Notes Bibliography* 
 
-*[PDF 11]* ^pg11
+*[p. xiv]* ^pg11
 
 *[p. xv]* ^pg12
 

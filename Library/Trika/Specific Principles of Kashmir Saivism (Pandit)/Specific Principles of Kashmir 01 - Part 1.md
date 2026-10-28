@@ -140,7 +140,7 @@ Contents
 
 134 153 192 196
 
-*[PDF 11]* ^pg11
+*[p. ix]* ^pg11
 
 The present work is a collection of articles on the non-dualistic Śaivism of Kashmir that is intended to clarify certain philosophical and theological principles central to this philosophy. Most of these principles are specific to Saiva non-dualism and its Trika system of yoga and are not commonly included in other schools of thought In a few cases, these concepts have been discussed in various other philosophies, but Kashmir Śaivism has its own distinctive approach to these issues.
 
@@ -202,7 +202,7 @@ Jammu
 
 15 May 1997
 
-*[PDF 15]* ^pg15
+*[p. xiii]* ^pg15
 
 The word “philosophy is commonly used to translate the Sanskrit word darśana, but in fact darśana has far broader implications than its English equivalent implies. By “philosophy” we usually mean that love and pursuit of superior wisdom that develops through intellectual and logical reasoning. Darśana, on the other hand, is a revelation or an intuitive experience. of the truth brought about by the practice of yoga. The logical expression of this experience of the truth through language is considered to be a secondary meaning of darsana.
 

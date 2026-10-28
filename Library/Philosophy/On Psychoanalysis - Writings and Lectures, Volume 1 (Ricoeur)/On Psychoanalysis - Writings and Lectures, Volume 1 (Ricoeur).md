@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 
 ## Contents
 
-- [[On Psychoanalysis - Writings 01 - Front matter|Front matter]] (pp. 1)
+- [[On Psychoanalysis - Writings 01 - Front matter|Front matter]] (PDF 1)
 - [[On Psychoanalysis - Writings 02 - Front matter and Editor's Introduction|Front matter and Editor's Introduction]] (pp. vi–8)
 - [[On Psychoanalysis - Writings 03 - Note about this Edition - The Question of Proof in Freud's Psychoanalytic Writings|Note about this Edition – The Question of Proof in Freud's Psychoanalytic Writings]] (pp. 9–46)
 - [[On Psychoanalysis - Writings 04 - The Question of Proof (end), Psychoanalysis and Hermeneutics - The Self in Psychoanalysis|The Question of Proof (end), Psychoanalysis and Hermeneutics – The Self in Psychoanalysis]] (pp. 47–84)

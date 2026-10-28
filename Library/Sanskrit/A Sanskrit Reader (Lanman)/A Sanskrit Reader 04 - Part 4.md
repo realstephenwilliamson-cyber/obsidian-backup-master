@@ -4,7 +4,7 @@ work: "[[Lanman - A Sanskrit Reader]]"
 book: "[[Library/Sanskrit/A Sanskrit Reader (Lanman)/A Sanskrit Reader (Lanman)|A Sanskrit Reader (Lanman)]]"
 order: 4
 source_pdf: Library/Sanskrit/22 A Sanskrit Reader Text, Vocabulary and Notes.pdf
-page_range: 104–160
+page_range: "104–106"
 pdf_pages: 121–160
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08

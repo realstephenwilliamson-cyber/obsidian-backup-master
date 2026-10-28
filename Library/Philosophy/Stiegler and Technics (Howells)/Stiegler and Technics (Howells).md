@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Stiegler and Technics 01 - Front matter|Front matter (Front matter, Title Page, Imprint, Contents, Acknowledgements)]] (pp. 1–viii)
+- [[Stiegler and Technics 01 - Front matter|Front matter (Front matter, Title Page, Imprint, Contents, Acknowledgements)]] (pp. vi–viii)
 - [[Stiegler and Technics 02 - Abbreviations and Guide to Referencing|Abbreviations and Guide to Referencing]] (pp. ix–xii)
 - [[Stiegler and Technics 03 - Introduction Philosophy - The Repression of Technics|Introduction: Philosophy – The Repression of Technics]] (pp. 1–14)
 - [[Stiegler and Technics 04 - Section I Anthropology - The Invention of the Human|Section I: Anthropology – The Invention of the Human]] (pp. 15–16)
@@ -42,4 +42,4 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[Stiegler and Technics 24 - 16 Techno-pharmaco-genealogy|16 Techno-pharmaco-genealogy]] (pp. 259–275)
 - [[Stiegler and Technics 25 - Notes on Contributors|Notes on Contributors]] (pp. 276–279)
 - [[Stiegler and Technics 26 - Bibliography|Bibliography]] (pp. 280–291)
-- [[Stiegler and Technics 27 - Index|Index]] (pp. 292–313)
+- [[Stiegler and Technics 27 - Index|Index]] (pp. 292–296)

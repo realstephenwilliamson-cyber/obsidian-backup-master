@@ -4,7 +4,7 @@ work: "[[Das (ed.) - Samarasya]]"
 book: "[[Library/Trika/Samarasya (Das)/Samarasya (Das)|Samarasya (Das)]]"
 order: 29
 source_pdf: Library/Trika/ed_Samarasya_Studies_in_Indian_Arts_Phi.pdf
-page_range: l–476
+page_range: "467–476"
 pdf_pages: 491–501
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

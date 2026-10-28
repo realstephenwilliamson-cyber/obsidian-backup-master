@@ -4,7 +4,7 @@ work: "[[Dyczkowski (ed.) - The Kumarikakhanda of the Manthanabhairavatantra, Ch
 book: "[[Library/Trika/The Kumarikakhanda of the Manthanabhairavatantra, Chapter (Dyczkowski)/The Kumarikakhanda of the Manthanabhairavatantra, Chapter (Dyczkowski)|The Kumarikakhanda of the Manthanabhairavatantra, Chapter (Dyczkowski)]]"
 order: 9
 source_pdf: Library/Trika/MBT CH 4_text and translation+notes_Malinistavaraja.pdf
-page_range: 30–267
+page_range: "196–267"
 pdf_pages: 30–103
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

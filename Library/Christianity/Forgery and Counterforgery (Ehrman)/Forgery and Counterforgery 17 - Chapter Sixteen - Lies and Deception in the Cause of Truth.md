@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 17
-page_range: "529–548"
+page_range: ""
 ---
 [[Forgery and Counterforgery 16 - Chapter Fifteen - Apologetic Forgeries|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 18 - Bibliography|next →]]
 

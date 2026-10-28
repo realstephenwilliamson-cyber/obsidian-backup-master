@@ -17,10 +17,10 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 
 ## Contents
 
-- [[Hermeneutics - Writings 01 - Front matter|Front matter (Front matter, Hermeneutics, Contents)]] (pp. 1–4)
+- [[Hermeneutics - Writings 01 - Front matter|Front matter (Front matter, Hermeneutics, Contents)]] (PDF 1–4)
 - [[Hermeneutics - Writings 02 - Acknowledgments|Acknowledgments]] (pp. ix–xli)
-- [[Hermeneutics - Writings 03 - Editors' Note|Editors' Note]] (pp. 12)
-- [[Hermeneutics - Writings 04 - Translator's Note|Translator's Note]] (pp. 13)
+- [[Hermeneutics - Writings 03 - Editors' Note|Editors' Note]] (PDF 12)
+- [[Hermeneutics - Writings 04 - Translator's Note|Translator's Note]] (PDF 13)
 - [[Hermeneutics - Writings 05 - O~igin of the Texts|O~igin of the Texts]] (pp. xvi)
 - [[Hermeneutics - Writings 06 - The Problem of Hermeneutics|The Problem of Hermeneutics]] (pp. 1–44)
 - [[Hermeneutics - Writings 07 - Metaphor and the Central Problem of Hermeneutics|Metaphor and the Central Problem of Hermeneutics]] (pp. 45–64)

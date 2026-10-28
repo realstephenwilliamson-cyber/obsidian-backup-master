@@ -4,7 +4,7 @@ work: "[[Stiegler - Symbolic Misery (vols 1-2)]]"
 book: "[[Library/Philosophy/Symbolic Misery 2 - The Catastrophe of the Sensible (Stiegler)/Symbolic Misery 2 - The Catastrophe of the Sensible (Stiegler)|Symbolic Misery 2 - The Catastrophe of the Sensible (Stiegler)]]"
 order: 1
 source_pdf: Library/Philosophy/(Symbolic Misery 2) The Catastrophe of the Sensible (2015).pdf
-page_range: 1–5
+page_range: ""
 pdf_pages: 1–5
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture, ClearScan), PyMuPDF
 converted: 2026-10-07

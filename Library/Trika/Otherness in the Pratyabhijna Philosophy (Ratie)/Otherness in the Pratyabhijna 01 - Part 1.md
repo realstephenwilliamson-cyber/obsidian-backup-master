@@ -4,7 +4,7 @@ work: "[[Ratie - Otherness in the Pratyabhijna Philosophy]]"
 book: "[[Library/Trika/Otherness in the Pratyabhijna Philosophy (Ratie)/Otherness in the Pratyabhijna Philosophy (Ratie)|Otherness in the Pratyabhijna Philosophy (Ratie)]]"
 order: 1
 source_pdf: Library/Trika/Ratie - Otherness in the Pratyabhijna Philosophy (JIP 2007).pdf
-page_range: 1–352
+page_range: "314–352"
 pdf_pages: 1–40
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

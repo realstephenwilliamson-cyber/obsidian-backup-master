@@ -4,7 +4,7 @@ work: "[[McClellan - You Will Be Like the Gods (MA thesis)]]"
 book: "[[Library/Biblical-Studies/You Will Be Like the Gods (McClellan)/You Will Be Like the Gods (McClellan)|You Will Be Like the Gods (McClellan)]]"
 order: 2
 source_pdf: Library/Biblical-Studies/McClellan - You Will Be Like the Gods (MA thesis 2013).pdf
-page_range: 2–33
+page_range: "1–33"
 pdf_pages: 2–40
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

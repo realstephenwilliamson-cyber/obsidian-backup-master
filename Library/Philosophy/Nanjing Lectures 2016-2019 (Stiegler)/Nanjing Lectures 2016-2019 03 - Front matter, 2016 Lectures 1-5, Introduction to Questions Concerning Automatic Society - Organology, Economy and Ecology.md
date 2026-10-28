@@ -4,7 +4,7 @@ work: "[[Stiegler - Nanjing Lectures 2016-2019]]"
 book: "[[Library/Philosophy/Nanjing Lectures 2016-2019 (Stiegler)/Nanjing Lectures 2016-2019 (Stiegler)|Nanjing Lectures 2016-2019 (Stiegler)]]"
 order: 3
 source_pdf: Library/Philosophy/Stiegler_2020_Nanjing-Lectures.pdf
-page_range: 3–39
+page_range: "10–39"
 pdf_pages: 3–41
 text_source: PDF text layer (born-digital), PyMuPDF; endnote calls linked 15 Oct 2026
 converted: 2026-10-07

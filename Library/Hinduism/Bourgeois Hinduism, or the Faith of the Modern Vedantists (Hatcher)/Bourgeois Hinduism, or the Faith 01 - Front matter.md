@@ -4,7 +4,7 @@ work: "[[Hatcher - Bourgeois Hinduism, or the Faith of the Modern Vedantists]]"
 book: "[[Library/Hinduism/Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)/Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)|Bourgeois Hinduism, or the Faith of the Modern Vedantists (Hatcher)]]"
 order: 1
 source_pdf: Library/Hinduism/Hatcher - Bourgeois Hinduism, or the Faith of the Modern Vedantists (2008).pdf
-page_range: 1–11
+page_range: "viii–x"
 pdf_pages: 1–11
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -156,6 +156,6 @@ Some of the material in this book draws on my earlier work. I thank Oxford Unive
 
 Finally, I would like to thank Beth Cunningham, Provost and Dean of Faculty at IWU, who generously provided funds to support costs associated with the production of Bourgeois Hinduism. I remain immensely grateful to Cynthia Read at Oxford University Press for her interest in the original manuscript, as well as to Daniel Gonzalez and Linda Donnelly for providing timely and patient assistance throughout the entire process of editing.
 
-*[PDF 11]* ^pg11
+*[p. x]* ^pg11
 
 *This page intentionally left blank*

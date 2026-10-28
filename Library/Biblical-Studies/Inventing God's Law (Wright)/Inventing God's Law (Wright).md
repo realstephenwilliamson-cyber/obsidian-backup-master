@@ -17,8 +17,8 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Inventing God's Law 01 - Front matter|Front matter]] (pp. 1–11)
-- [[Inventing God's Law 02 - Contents|Contents]] (pp. 12–13)
+- [[Inventing God's Law 01 - Front matter|Front matter]] (PDF 1–11)
+- [[Inventing God's Law 02 - Contents|Contents]] (PDF 12–13)
 - [[Inventing God's Law 03 - Abbreviations and Special Terminology|Abbreviations and Special Terminology]] (pp. xiii)
 - [[Inventing God's Law 04 - 1. Introduction The Basic Thesis and Background|1. Introduction: The Basic Thesis and Background]] (pp. 3–28)
 - [[Inventing God's Law 05 - Part I and Chapters 2-3, The Casuistic Laws - The Apodictic Laws|Part I and Chapters 2–3, The Casuistic Laws – The Apodictic Laws]] (pp. 29–74)

@@ -4,7 +4,7 @@ work: "[[Stiegler - Disbelief and Discredit (vols 1-3)]]"
 book: "[[Library/Philosophy/Disbelief and Discredit 3 - The Lost Spirit of Capitalism (Stiegler)/Disbelief and Discredit 3 - The Lost Spirit of Capitalism (Stiegler)|Disbelief and Discredit 3 - The Lost Spirit of Capitalism (Stiegler)]]"
 order: 2
 source_pdf: Library/Philosophy/(Disbelief and Discredit 3) The Lost Spirit of Capitalism (2014).pdf
-page_range: 2–4
+page_range: "1–4"
 pdf_pages: 3–10
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

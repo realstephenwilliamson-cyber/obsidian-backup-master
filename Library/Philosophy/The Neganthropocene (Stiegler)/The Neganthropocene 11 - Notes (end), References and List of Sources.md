@@ -4,7 +4,7 @@ work: "[[Stiegler - The Neganthropocene]]"
 book: "[[Library/Philosophy/The Neganthropocene (Stiegler)/The Neganthropocene (Stiegler)|The Neganthropocene (Stiegler)]]"
 order: 11
 source_pdf: Library/Philosophy/Stiegler_2018_The-Neganthropocene.pdf
-page_range: 313–348
+page_range: "313–345"
 pdf_pages: 315–348
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

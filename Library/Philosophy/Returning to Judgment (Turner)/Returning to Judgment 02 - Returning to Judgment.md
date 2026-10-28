@@ -4,7 +4,7 @@ work: "[[Turner - Returning to Judgment]]"
 book: "[[Library/Philosophy/Returning to Judgment (Turner)/Returning to Judgment (Turner)|Returning to Judgment (Turner)]]"
 order: 2
 source_pdf: Library/Philosophy/Turner - Returning to Judgment (2023).pdf
-page_range: 4–7
+page_range: ""
 pdf_pages: 4–7
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

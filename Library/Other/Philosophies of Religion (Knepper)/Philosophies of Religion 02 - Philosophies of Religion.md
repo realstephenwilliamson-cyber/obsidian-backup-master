@@ -104,7 +104,7 @@ Cosmos? 347
 
  *Glossary* 375 *Notes* 415 *Select Bibliography* 449 *Index* 463 
 
-*[PDF 10]* ^pg10
+*[p. ix]* ^pg10
 
  Figures and Tables 
 

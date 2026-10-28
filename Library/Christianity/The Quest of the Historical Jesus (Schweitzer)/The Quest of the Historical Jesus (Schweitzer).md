@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Quest of the Historical 01 - Part 1|Part 1]] (pp. 2–39)
+- [[The Quest of the Historical 01 - Part 1|Part 1]] (pp. 1–39)
 - [[The Quest of the Historical 02 - Part 2|Part 2]] (pp. 40–79)
 - [[The Quest of the Historical 03 - Part 3|Part 3]] (pp. 80–119)
 - [[The Quest of the Historical 04 - Part 4|Part 4]] (pp. 120–159)

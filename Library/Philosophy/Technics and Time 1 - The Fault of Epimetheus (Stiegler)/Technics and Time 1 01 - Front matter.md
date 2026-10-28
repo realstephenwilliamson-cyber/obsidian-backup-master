@@ -4,7 +4,7 @@ work: "[[Stiegler - Technics and Time (vols 1-3)]]"
 book: "[[Library/Philosophy/Technics and Time 1 - The Fault of Epimetheus (Stiegler)/Technics and Time 1 - The Fault of Epimetheus (Stiegler)|Technics and Time 1 - The Fault of Epimetheus (Stiegler)]]"
 order: 1
 source_pdf: Library/Philosophy/(Technics and Time 1) The Fault of Epimetheus (1998).pdf
-page_range: 1–5
+page_range: ""
 pdf_pages: 1–5
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07

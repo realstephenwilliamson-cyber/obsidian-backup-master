@@ -17,5 +17,5 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Otherness in the Pratyabhijna 01 - Part 1|Part 1]] (pp. 1–352)
+- [[Otherness in the Pratyabhijna 01 - Part 1|Part 1]] (pp. 314–352)
 - [[Otherness in the Pratyabhijna 02 - Part 2|Part 2]] (pp. 353–370)

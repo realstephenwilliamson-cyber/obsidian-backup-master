@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 
 ## Contents
 
-- [[Taking Care of Youth 01 - Front matter|Front matter]] (pp. 1–16)
+- [[Taking Care of Youth 01 - Front matter|Front matter]] (PDF 1–16)
 - [[Taking Care of Youth 02 - Sections 1-3, Destruction of the Juvenile Psychic Apparatus - Mysteries and Drives from Aufklarung to Psychopower|§§ 1–3, Destruction of the Juvenile Psychic Apparatus – Mysteries and Drives from Aufklärung to Psychopower]] (pp. 1–50)
 - [[Taking Care of Youth 03 - Section 3 (end), Sections 4-6, The Synaptogenesis of Attention's Destruction - Economy and Cognition of Attention|§ 3 (end), §§ 4–6, The Synaptogenesis of Attention's Destruction – Economy and Cognition of Attention]] (pp. 51–100)
 - [[Taking Care of Youth 04 - Section 6 (end), Sections 7-9, What Is Philosophy - Disciplines and Pharmacologies of Knowledge|§ 6 (end), §§ 7–9, What Is Philosophy? – Disciplines and Pharmacologies of Knowledge]] (pp. 101–150)

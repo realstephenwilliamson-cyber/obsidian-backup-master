@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[In Search of Meaning 01 - Part 1|Part 1]] (pp. 1–26)
+- [[In Search of Meaning 01 - Part 1|Part 1]] (pp. v–26)
 - [[In Search of Meaning 02 - Part 2|Part 2]] (pp. 27–66)
 - [[In Search of Meaning 03 - Part 3|Part 3]] (pp. 67–106)
-- [[In Search of Meaning 04 - Part 4|Part 4]] (pp. 107–168)
+- [[In Search of Meaning 04 - Part 4|Part 4]] (pp. 107–150)

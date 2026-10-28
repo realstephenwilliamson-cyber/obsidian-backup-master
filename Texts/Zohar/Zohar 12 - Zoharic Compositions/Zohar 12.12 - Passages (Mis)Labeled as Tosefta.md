@@ -135,7 +135,7 @@ He said to him, “My son, take out your note and heed the voice of your elder, 
 
     In BT *Bava Metsi’a* 85a, the name of Rabbi El’azar’s brother-in-law is given as Rabbi Shim’on son of Issi (Yose) son of Lekonya, which would make Yose his father-in-law, as in the *Zohar*—but nowhere in rabbinic literature is he named Yose son of Shim’on.
 
-    Usha was a town in Lower Galilee. Lydda (or Lod) is located in the coastal plain. On journeying from Usha to Lydda, see *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-5a|2:5a]] (*MhN*), [[Zohar 4.05 - Parashat Bo#^z2-36b|36b]]; [[Zohar 8.08 - Parashat Naso#^z3-122a|3:122a]], [[Zohar 9.11 - Parashat Pinehas#^z3-240a|240a]]. Cf. *Nitsotsei Zohar* on 2:169b, n. 11. On the verse from Genesis, see *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-165b|1:165b–166a]]; [[Zohar 9.16 - Commentary on Ha'azinu, continued#^z3-298a|3:298a]]. For a detailed analysis of this story, see Liebes, “Terein Urzilin de-Ayyalta,” 148–60.
+    Usha was a town in Lower Galilee. Lydda (or Lod) is located in the coastal plain. On journeying from Usha to Lydda, see *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-5a|2:5a]] (*MhN*), [[Zohar 4.05 - Parashat Bo#^z2-36b|36b]]; [[Zohar 8.08 - Parashat Naso#^z3-122a|3:122a]], [[Zohar 9.11 - Parashat Pinehas#^z3-240a|240a]]. Cf. *Nitsotsei Zohar* on 2:169b, n. 11. On the verse from Genesis, see *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-165b|1:165b–166a]]; [[Zohar 9.16 - Commentary on Ha'azinu, continued#^z3-298a|3:298a]]. For a detailed analysis of this story, see Liebes, “Terein Urzilin de-Ayyalta,” 148–60.
 
     The story that follows appears in a slightly longer version in *Zohar Ḥadash* [[Zohar 10.04 - Parashat Noah#^zh-20d|20d]] (*MhN*); see Vol. 10, pp. 225–28.
 

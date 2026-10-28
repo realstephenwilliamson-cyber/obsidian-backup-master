@@ -25,5 +25,5 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[The Triadic Heart of Siva 06 - Part 6|Part 6]] (pp. 190–230)
 - [[The Triadic Heart of Siva 07 - Part 7|Part 7]] (pp. 231–269)
 - [[The Triadic Heart of Siva 08 - Part 8|Part 8]] (pp. 270–310)
-- [[The Triadic Heart of Siva 09 - Part 9|Part 9]] (pp. 311–360)
-- [[The Triadic Heart of Siva 10 - Part 10|Part 10]] (pp. 361–380)
+- [[The Triadic Heart of Siva 09 - Part 9|Part 9]] (pp. 311–l)
+- [[The Triadic Heart of Siva 10 - Part 10|Part 10]] (PDF 361–380)

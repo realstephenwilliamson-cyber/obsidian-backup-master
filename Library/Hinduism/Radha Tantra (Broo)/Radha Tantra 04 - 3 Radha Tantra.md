@@ -2,7 +2,7 @@
 type: book-section
 book: "[[The Radha Tantra (Broo)]]"
 order: 4
-page_range: 44–241
+page_range: ""
 aliases:
   - Radha Tantra 04 - 3 Rādhā Tantra
 ---

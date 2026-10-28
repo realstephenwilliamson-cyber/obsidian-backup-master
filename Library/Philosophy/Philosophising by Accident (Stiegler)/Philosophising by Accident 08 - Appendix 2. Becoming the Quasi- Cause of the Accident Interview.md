@@ -4,7 +4,7 @@ work: "[[Stiegler, During - Philosophising by Accident]]"
 book: "[[Library/Philosophy/Philosophising by Accident (Stiegler)/Philosophising by Accident (Stiegler)|Philosophising by Accident (Stiegler)]]"
 order: 8
 source_pdf: Library/Philosophy/Philosophising by Accident Interviews with Elie During (2017).pdf
-page_range: 105–134
+page_range: "105–125"
 pdf_pages: 113–134
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

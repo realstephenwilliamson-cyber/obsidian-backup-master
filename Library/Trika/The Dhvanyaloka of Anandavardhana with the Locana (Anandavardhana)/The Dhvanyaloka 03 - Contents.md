@@ -4,7 +4,7 @@ work: "[[Anandavardhana, Abhinavagupta - The Dhvanyaloka]]"
 book: "[[Library/Trika/The Dhvanyaloka of Anandavardhana with the Locana (Anandavardhana)/The Dhvanyaloka of Anandavardhana with the Locana (Anandavardhana)|The Dhvanyaloka of Anandavardhana with the Locana (Anandavardhana)]]"
 order: 3
 source_pdf: Library/Trika/Anandavardhana - The Dhvanyaloka, with the Locana of Abhinavagupta (1990).pdf
-page_range: 13–15
+page_range: ""
 pdf_pages: 13–15
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

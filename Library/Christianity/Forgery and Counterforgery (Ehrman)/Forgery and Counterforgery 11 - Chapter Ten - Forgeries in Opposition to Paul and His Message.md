@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 11
-page_range: "283–322"
+page_range: ""
 ---
 [[Forgery and Counterforgery 10 - Chapter Nine - Forgeries in Support of Paul and His Apostolic Mission|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 12 - Chapter Eleven - Anti-Jewish Forgeries|next →]]
 

@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[A Five-Trunked, Four-Tusked 01 - Front matter|Front matter (Asiatische Studien Études Asiatiques LXIV · 2 · 2010, INHALTSVERZEICHNIS – TABLE)]] (pp. 1–5)
+- [[A Five-Trunked, Four-Tusked 01 - Front matter|Front matter (Asiatische Studien Études Asiatiques LXIV · 2 · 2010, INHALTSVERZEICHNIS – TABLE)]] (PDF 1–5)
 - [[A Five-Trunked, Four-Tusked 02 - 1. Imagination According to Utpaladeva A Spontaneous Act of|1. Imagination According to Utpaladeva: A Spontaneous Act of Creation]] (pp. 342–348)
 - [[A Five-Trunked, Four-Tusked 03 - 3. An Objection Imagination Merely Combines Pre-existing Elements|3. An Objection: Imagination Merely Combines Pre-existing Elements]] (pp. 349–352)
 - [[A Five-Trunked, Four-Tusked 04 - 4. Utpaladeva's First Element of Answer The Combination itself is|4. Utpaladeva’s First Element of Answer: The Combination itself is Spontaneous]] (pp. 353)

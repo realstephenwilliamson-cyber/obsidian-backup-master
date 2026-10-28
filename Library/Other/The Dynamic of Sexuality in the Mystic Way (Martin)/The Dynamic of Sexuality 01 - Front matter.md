@@ -4,7 +4,7 @@ work: "[[Martin - The Dynamic of Sexuality in the Mystic Way]]"
 book: "[[Library/Other/The Dynamic of Sexuality in the Mystic Way (Martin)/The Dynamic of Sexuality in the Mystic Way (Martin)|The Dynamic of Sexuality in the Mystic Way (Martin)]]"
 order: 1
 source_pdf: Library/Other/The_Dynamic_of_Sexuality_in_the_Mystic_W.pdf
-page_range: 1–viii
+page_range: "ii–viii"
 pdf_pages: 1–8
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -124,7 +124,7 @@ III. Saundaryalaharī 63
 
 Śakti and Kuṇḍalinī 64 Śrīcakra and Śrīvidyā 67 Tripurasundarī 68 
 
-*[PDF 5]* ^pg5
+*[p. v]* ^pg5
 
 #### 6 The Two Mysticisms Compared and Contrasted 70
 

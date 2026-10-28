@@ -4,7 +4,7 @@ work: "[[Furlinger - The Touch of Sakti]]"
 book: "[[Library/Trika/The Touch of Sakti (Furlinger)/The Touch of Sakti (Furlinger)|The Touch of Sakti (Furlinger)]]"
 order: 1
 source_pdf: Library/Trika/The_Touch_of_Sakti_A_Study_in_Non_Dualis.pdf
-page_range: 1–4
+page_range: ""
 pdf_pages: 1–4
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

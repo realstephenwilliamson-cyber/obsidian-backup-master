@@ -20,17 +20,17 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 
 ## Contents
 
-- [[The Maharthamanjari 01 - Front matter|Front matter]] (pp. 1–10)
+- [[The Maharthamanjari 01 - Front matter|Front matter]] (PDF 1–10)
 - [[The Maharthamanjari 02 - Introduction|Introduction]] (pp. 11–20)
 
 ### The Mahārtha-mañjarī (with the commentary of Śrī Maheśvarānanda)
 
-- [[The Maharthamanjari 03 - Mahartha-manjari, verses 1-10|Mahārtha-mañjarī, verses 1–10]] (pp. 21–55)
-- [[The Maharthamanjari 04 - Mahartha-manjari, verses 11-20|Mahārtha-mañjarī, verses 11–20]] (pp. 56–74)
-- [[The Maharthamanjari 05 - Mahartha-manjari, verses 21-30|Mahārtha-mañjarī, verses 21–30]] (pp. 75–93)
-- [[The Maharthamanjari 06 - Mahartha-manjari, verses 31-40|Mahārtha-mañjarī, verses 31–40]] (pp. 94–110)
-- [[The Maharthamanjari 07 - Mahartha-manjari, verses 41-50|Mahārtha-mañjarī, verses 41–50]] (pp. 111–128)
-- [[The Maharthamanjari 08 - Mahartha-manjari, verses 51-60|Mahārtha-mañjarī, verses 51–60]] (pp. 129–155)
-- [[The Maharthamanjari 09 - Mahartha-manjari, verses 61-70|Mahārtha-mañjarī, verses 61–70]] (pp. 156–171)
+- [[The Maharthamanjari 03 - Mahartha-manjari, verses 1-10|Mahārtha-mañjarī, verses 1–10]] (pp. 21)
+- [[The Maharthamanjari 04 - Mahartha-manjari, verses 11-20|Mahārtha-mañjarī, verses 11–20]] (PDF 56–74)
+- [[The Maharthamanjari 05 - Mahartha-manjari, verses 21-30|Mahārtha-mañjarī, verses 21–30]] (PDF 75–93)
+- [[The Maharthamanjari 06 - Mahartha-manjari, verses 31-40|Mahārtha-mañjarī, verses 31–40]] (PDF 94–110)
+- [[The Maharthamanjari 07 - Mahartha-manjari, verses 41-50|Mahārtha-mañjarī, verses 41–50]] (PDF 111–128)
+- [[The Maharthamanjari 08 - Mahartha-manjari, verses 51-60|Mahārtha-mañjarī, verses 51–60]] (PDF 129–155)
+- [[The Maharthamanjari 09 - Mahartha-manjari, verses 61-70|Mahārtha-mañjarī, verses 61–70]] (PDF 156–171)
 - [[The Maharthamanjari 10 - Glossary of Important Terms in Kashmir Saivism|Glossary of Important Terms in Kashmir Śaivism]] (pp. 173–198)
 - [[The Maharthamanjari 11 - Index|Index]] (pp. 199–205)

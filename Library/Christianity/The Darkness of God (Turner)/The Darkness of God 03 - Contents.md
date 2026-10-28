@@ -4,7 +4,7 @@ work: "[[Turner - The Darkness of God]]"
 book: "[[Library/Christianity/The Darkness of God (Turner)/The Darkness of God (Turner)|The Darkness of God (Turner)]]"
 order: 3
 source_pdf: Library/Christianity/Denys Turner - The Darkness of God_ Negativity in Christian Mysticism (1998).pdf
-page_range: 7–8
+page_range: ""
 pdf_pages: 7–8
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

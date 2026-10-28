@@ -18,9 +18,9 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 ## Contents
 
 - [[The Christocentric Cosmology 01 - Front matter|Front matter]] (pp. viii)
-- [[The Christocentric Cosmology 02 - Contents|Contents]] (pp. 10)
-- [[The Christocentric Cosmology 03 - List of Abbreviations|List of Abbreviations]] (pp. 11)
-- [[The Christocentric Cosmology 04 - 1. Introduction|1. Introduction]] (pp. 2–20)
+- [[The Christocentric Cosmology 02 - Contents|Contents]] (PDF 10)
+- [[The Christocentric Cosmology 03 - List of Abbreviations|List of Abbreviations]] (PDF 11)
+- [[The Christocentric Cosmology 04 - 1. Introduction|1. Introduction]] (pp. 1–20)
 - [[The Christocentric Cosmology 05 - 2. The Divine Ideas and the Creation of the Cosmos|2. The Divine Ideas and the Creation of the Cosmos]] (pp. 21–63)
 - [[The Christocentric Cosmology 06 - 3. The Logos, the logoi, and Created Beings|3. The Logos, the logoi, and Created Beings]] (pp. 64–137)
 - [[The Christocentric Cosmology 07 - 4. The Divine Activity|4. The Divine Activity]] (pp. 138–189)

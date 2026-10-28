@@ -4,7 +4,7 @@ work: "[[Brudzinska (ed.) - Dialogue and Universalism 28, no. 4]]"
 book: "[[Library/Philosophy/Dialogue and Universalism 28, no. 4 (Brudzinska)/Dialogue and Universalism 28, no. 4 (Brudzinska)|Dialogue and Universalism 28, no. 4 (Brudzinska)]]"
 order: 1
 source_pdf: Library/Philosophy/Play_and_Self_Reflection_Eugen_Fink_s_Ph.pdf
-page_range: 1–8
+page_range: "6–8"
 pdf_pages: 1–10
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

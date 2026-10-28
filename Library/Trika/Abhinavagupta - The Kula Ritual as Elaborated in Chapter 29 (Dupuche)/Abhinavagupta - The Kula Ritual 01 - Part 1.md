@@ -4,7 +4,7 @@ work: "[[Dupuche - Abhinavagupta]]"
 book: "[[Library/Trika/Abhinavagupta - The Kula Ritual as Elaborated in Chapter 29 (Dupuche)/Abhinavagupta - The Kula Ritual as Elaborated in Chapter 29 (Dupuche)|Abhinavagupta - The Kula Ritual as Elaborated in Chapter 29 (Dupuche)]]"
 order: 1
 source_pdf: Library/Trika/Dupuche - Abhinavagupta, The Kula Ritual as Elaborated in Chapter 29 of the Tantraloka (2003).pdf
-page_range: 1–23
+page_range: "xi–23"
 pdf_pages: 1–40
 text_source: fresh OCR with Tesseract 5 (Latin) (the PDF text layer is a poor old OCR)
 converted: 2026-10-07

@@ -20,7 +20,7 @@ Converted from the PDF on 7 Oct 2026 (the PDF OCR layer, with anusvara fix; Deva
 
 - [[Tantraloka Dyczkowski v06 01 - Front matter|Front matter]] (pp. 1–vi)
 - [[Tantraloka Dyczkowski v06 02 - Contents|Contents]] (pp. viii–xiii)
-- [[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1|Chapter Nine, part 1]] (pp. 18–41)
+- [[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1|Chapter Nine, part 1]] (pp. 1–41)
 - [[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2|Chapter Nine, part 2]] (pp. 42–82)
 - [[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3|Chapter Nine, part 3]] (pp. 83–123)
 - [[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4|Chapter Nine, part 4]] (pp. 124–164)

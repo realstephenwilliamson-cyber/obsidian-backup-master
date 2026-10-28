@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 5
-page_range: "69–92"
+page_range: ""
 ---
 [[Forgery and Counterforgery 04 - Chapter Three - Terms and Taxonomies|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 06 - Chapter Five - Forgery in Antiquity - Motives, Techniques, Intentions, Justifications, and Criteria|next →]]
 

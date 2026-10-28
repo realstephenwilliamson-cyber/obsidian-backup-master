@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 10
-page_range: "239–282"
+page_range: ""
 ---
 [[Forgery and Counterforgery 09 - Chapter Eight - Later Forgeries Dealing with Eschatology|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 11 - Chapter Ten - Forgeries in Opposition to Paul and His Message|next →]]
 

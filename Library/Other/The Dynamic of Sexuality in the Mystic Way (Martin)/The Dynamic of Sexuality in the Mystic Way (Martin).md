@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Dynamic of Sexuality 01 - Front matter|Front matter]] (pp. 1–viii)
+- [[The Dynamic of Sexuality 01 - Front matter|Front matter]] (pp. ii–viii)
 - [[The Dynamic of Sexuality 02 - 1 The Province of Mysticism|1 The Province of Mysticism]] (pp. 1–9)
 - [[The Dynamic of Sexuality 03 - 2 The Way of Mysticism|2 The Way of Mysticism]] (pp. 10–26)
 - [[The Dynamic of Sexuality 04 - 3 Approaching the Way|3 Approaching the Way]] (pp. 27–32)

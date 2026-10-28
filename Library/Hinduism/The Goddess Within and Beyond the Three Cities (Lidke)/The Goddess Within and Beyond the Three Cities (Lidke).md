@@ -18,11 +18,11 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 ## Contents
 
 - [[The Goddess Within and Beyond 01 - Prelims|Prelims]] (pp. viii–xxviii)
-- [[The Goddess Within and Beyond 02 - Captions|Captions]] (pp. 29–30)
-- [[The Goddess Within and Beyond 03 - Introduction|Introduction]] (pp. 2–12)
+- [[The Goddess Within and Beyond 02 - Captions|Captions]] (PDF 29–30)
+- [[The Goddess Within and Beyond 03 - Introduction|Introduction]] (pp. 1–12)
 - [[The Goddess Within and Beyond 04 - Chapter 1|Chapter 1]] (pp. 13–36)
 - [[The Goddess Within and Beyond 05 - Chapter 2|Chapter 2]] (pp. 37–60)
-- [[The Goddess Within and Beyond 06 - Layout|Layout]] (pp. 91–106)
+- [[The Goddess Within and Beyond 06 - Layout|Layout]] (PDF 91–106)
 - [[The Goddess Within and Beyond 07 - Chapter 3|Chapter 3]] (pp. 62–107)
 - [[The Goddess Within and Beyond 08 - Chapter 4|Chapter 4]] (pp. 108–144)
 - [[The Goddess Within and Beyond 09 - Conclusion|Conclusion]] (pp. 145–152)

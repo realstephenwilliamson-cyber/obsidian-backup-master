@@ -17,5 +17,5 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF; He
 
 ## Contents
 
-- [[Basi LeGani 5711 01 - Part 1|Part 1]] (pp. 1–54)
-- [[Basi LeGani 5711 02 - Part 2|Part 2]] (pp. 55–79)
+- [[Basi LeGani 5711 01 - Part 1|Part 1]] (pp. 17–54)
+- [[Basi LeGani 5711 02 - Part 2|Part 2]] (pp. 55–92)

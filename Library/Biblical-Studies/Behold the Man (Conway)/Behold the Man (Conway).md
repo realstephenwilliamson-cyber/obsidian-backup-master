@@ -17,12 +17,12 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Behold the Man 01 - Front matter|Front matter (Front matter, Behold the Man)]] (pp. 1–3)
-- [[Behold the Man 02 - Title page, copyright and dedication|Title page, copyright and dedication]] (pp. 4–7)
-- [[Behold the Man 03 - Preface|Preface]] (pp. 8–11)
-- [[Behold the Man 04 - Contents|Contents]] (pp. 12–13)
-- [[Behold the Man 05 - Half-title|Half-title]] (pp. 14–15)
-- [[Behold the Man 06 - Introduction|Introduction]] (pp. 16–14)
+- [[Behold the Man 01 - Front matter|Front matter (Front matter, Behold the Man)]] (PDF 1–3)
+- [[Behold the Man 02 - Title page, copyright and dedication|Title page, copyright and dedication]] (PDF 4–7)
+- [[Behold the Man 03 - Preface|Preface]] (pp. viii–ix)
+- [[Behold the Man 04 - Contents|Contents]] (PDF 12–13)
+- [[Behold the Man 05 - Half-title|Half-title]] (PDF 14–15)
+- [[Behold the Man 06 - Introduction|Introduction]] (pp. 4–14)
 - [[Behold the Man 07 - How to Be a Man in the Greco-Roman World|How to Be a Man in the Greco-Roman World]] (pp. 15–34)
 - [[Behold the Man 08 - Constructing the Lives of Divine Men|Constructing the Lives of Divine Men]] (pp. 35–66)
 - [[Behold the Man 09 - The Unmanned Christ and the Manly Christian in the Pauline Tradition|The Unmanned Christ and the Manly Christian in the Pauline Tradition]] (pp. 67–88)

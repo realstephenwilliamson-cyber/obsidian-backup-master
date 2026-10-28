@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Narrative Identity, Autonomy 01 - Front matter|Front matter]] (pp. 1–iv)
+- [[Narrative Identity, Autonomy 01 - Front matter|Front matter]] (pp. i–iv)
 - [[Narrative Identity, Autonomy 02 - Narrative Identity, Autonomy, and Mortality|Narrative Identity, Autonomy, and Mortality]] (pp. v)
 - [[Narrative Identity, Autonomy 03 - Copyright|Copyright]] (pp. vi–viii)
 - [[Narrative Identity, Autonomy 04 - Contents|Contents]] (pp. ix–xii)

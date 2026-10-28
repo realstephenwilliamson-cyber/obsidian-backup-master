@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 3
-page_range: "9–28"
+page_range: ""
 ---
 [[Forgery and Counterforgery 02 - Chapter One - Introduction|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 04 - Chapter Three - Terms and Taxonomies|next →]]
 

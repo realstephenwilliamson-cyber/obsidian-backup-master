@@ -4,7 +4,7 @@ work: "[[Knepper - Philosophies of Religion]]"
 book: "[[Library/Other/Philosophies of Religion (Knepper)/Philosophies of Religion (Knepper)|Philosophies of Religion (Knepper)]]"
 order: 1
 source_pdf: Library/Other/Knepper - Philosophies of Religion (2023).pdf
-page_range: 1–ii
+page_range: "i–ii"
 pdf_pages: 1–3
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

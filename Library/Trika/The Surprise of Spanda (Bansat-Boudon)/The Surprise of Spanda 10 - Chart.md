@@ -4,7 +4,7 @@ work: "[[Bansat-Boudon - The Surprise of Spanda]]"
 book: "[[Library/Trika/The Surprise of Spanda (Bansat-Boudon)/The Surprise of Spanda (Bansat-Boudon)|The Surprise of Spanda (Bansat-Boudon)]]"
 order: 10
 source_pdf: Library/Trika/Bansat-Boudon - The Surprise of Spanda (2022).pdf
-page_range: 101–43
+page_range: "101"
 pdf_pages: 42–43
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

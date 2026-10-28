@@ -4,7 +4,7 @@ work: "[[Bang - Selected Chapters from the Tantrasadbhava]]"
 book: "[[Library/Trika/Selected Chapters from the Tantrasadbhava (Bang)/Selected Chapters from the Tantrasadbhava (Bang)|Selected Chapters from the Tantrasadbhava (Bang)]]"
 order: 3
 source_pdf: Library/Trika/Bang - Selected Chapters from the Tantrasadbhava (Hamburg diss. 2018).pdf
-page_range: iii–8
+page_range: "iii–iv"
 pdf_pages: 7–8
 text_source: PDF text layer (born-digital), PyMuPDF; 176 pages read by OCR (Tesseract) where the text layer has no Unicode
 converted: 2026-10-07
@@ -42,7 +42,7 @@ Stemma codicum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120 5.1
 
 An Image abstracted from the Nepalese manuscript ngmpp C 3/14-C 3/13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 357
 
-*[PDF 8]* ^pg8
+*[p. iv]* ^pg8
 
 The four cardinals and *matsyadvayam* 5.3
 

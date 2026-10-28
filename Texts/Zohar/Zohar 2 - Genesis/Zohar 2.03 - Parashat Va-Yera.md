@@ -2067,7 +2067,7 @@ Rabbi El’azar said, “Isaac was sifted, ascending favorably in the presence o
 
 [^578]: ***they will bring all your brothers …as an offering to YHVH*…** The other nations will gather the dispersed of Israel and bring them as an offering to God in Jerusalem.
 
-[^579]: **The Ishmaelites are destined… to incite…** See *Pirqei de-Rabbi Eli’ezer* (Friedlander) 30, (Higger) 29; *Zohar* [[Zohar 4.04 - Parashat Va-Era#^z2-32a|2:32a]]; *ZḤ* [[Zohar 12.11 - Zohar al ha-Parashot#^zh-56b|56b]] (*MhN*).
+[^579]: **The Ishmaelites are destined… to incite…** See *Pirqei de-Rabbi Eli’ezer* (Friedlander) 30, (Higger) 29; *Zohar* [[Zohar 8.04 - Parashat Emor#^z2-32a|2:32a]]; *ZḤ* [[Zohar 12.11 - Zohar al ha-Parashot#^zh-56b|56b]] (*MhN*).
 
 [^580]: **small *vav*…** While *Tif’eret* is symbolized by a large ו (*vav*), *Yesod*, emerging from Him, is symbolized by a small ו (*vav*). Together the two letters spell וו (*vav*). *Yesod*, the divine phallus, unites with *Shekhinah*, engendering new souls or, as here, renewing ancient souls that had issued previously from the heavenly treasure house and reincarnating them in new bodies.
 

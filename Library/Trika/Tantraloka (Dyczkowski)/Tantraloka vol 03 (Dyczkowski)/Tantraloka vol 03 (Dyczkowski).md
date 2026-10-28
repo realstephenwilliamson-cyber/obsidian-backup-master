@@ -18,8 +18,8 @@ Converted from the PDF on 7 Oct 2026 (the PDF OCR layer, with anusvara fix; Deva
 
 ## Contents
 
-- [[Tantraloka Dyczkowski v03 01 - Front matter|Front matter]] (pp. 1–v)
-- [[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1|Chapter Four, part 1]] (pp. 10–35)
+- [[Tantraloka Dyczkowski v03 01 - Front matter|Front matter]] (pp. ii–v)
+- [[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1|Chapter Four, part 1]] (pp. vi–35)
 - [[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2|Chapter Four, part 2]] (pp. 36–74)
 - [[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3|Chapter Four, part 3]] (pp. 75–113)
 - [[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4|Chapter Four, part 4]] (pp. 114–152)

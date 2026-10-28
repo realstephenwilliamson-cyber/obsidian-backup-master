@@ -19,10 +19,10 @@ Converted from the PDF on 22 Oct 2026 (fresh OCR with Tesseract 5 of the page im
 
 ## Contents
 
-- [[The Early Upanisads 01 - Front matter|Front matter]] (pp. viii)
-- [[The Early Upanisads 02 - Abbreviations|Abbreviations]] (pp. xii–xiii)
+- [[The Early Upanisads 01 - Front matter|Front matter]] (pp. 1–11)
+- [[The Early Upanisads 02 - Abbreviations|Abbreviations]] (pp. 12–15)
 - [[The Early Upanisads 03 - Note on the Edition|Note on the Edition]] (pp. xv–xix)
-- [[The Early Upanisads 04 - Note on the Translation|Note on the Translation]] (pp. xx–xxii)
+- [[The Early Upanisads 04 - Note on the Translation|Note on the Translation]] (pp. xx–25)
 - [[The Early Upanisads 05 - Introduction|Introduction]] (pp. 3–28)
 - [[The Early Upanisads 06 - 1. Brhadaranyaka Upanisad, part 1|1. Brhadaranyaka Upanisad, part 1]] (pp. 29–74)
 - [[The Early Upanisads 07 - 1. Brhadaranyaka Upanisad, part 2|1. Brhadaranyaka Upanisad, part 2]] (pp. 75–120)

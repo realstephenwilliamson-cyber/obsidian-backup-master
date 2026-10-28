@@ -4,7 +4,7 @@ work: "[[Muller (ed.) - The Sacred Books of the East]]"
 book: "[[Library/Sanskrit/Bhagavadgita, Sanatsugatiya and Anugita (SBE 8, Telang)/Bhagavadgita, Sanatsugatiya and Anugita (SBE 8, Telang)|Bhagavadgita, Sanatsugatiya and Anugita (SBE 8, Telang)]]"
 order: 1
 source_pdf: Library/Sanskrit/Sacred Books of the East/8 - Gita, Sanatsugatiya and the Anugita.pdf
-page_range: 1–16
+page_range: ""
 pdf_pages: 1–16
 text_source: fresh OCR with Tesseract 5 (eng+san) of the page images, English lines read again with eng alone where the san model put Devanagari into them (the PDF's text layer has its words out of order)
 converted: 2026-10-08

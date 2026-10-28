@@ -4,7 +4,7 @@ work: "[[Singh (tr.) - Vijnanabhairava or Divine Consciousness]]"
 book: "[[Library/Trika/Vijnanabhairava or Divine Consciousness (Singh)/Vijnanabhairava or Divine Consciousness (Singh)|Vijnanabhairava or Divine Consciousness (Singh)]]"
 order: 5
 source_pdf: Library/Trika/Vijnana Bhairava Or Divine Consciousness - Jaideva Singh.pdf
-page_range: 128–207
+page_range: "128–173"
 pdf_pages: 161–207
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08

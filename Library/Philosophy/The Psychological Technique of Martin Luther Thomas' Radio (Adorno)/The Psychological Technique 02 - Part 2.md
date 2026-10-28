@@ -4,7 +4,7 @@ work: "[[Adorno - The Psychological Technique of Martin Luther Thomas' Radio Add
 book: "[[Library/Philosophy/The Psychological Technique of Martin Luther Thomas' Radio (Adorno)/The Psychological Technique of Martin Luther Thomas' Radio (Adorno)|The Psychological Technique of Martin Luther Thomas' Radio (Adorno)]]"
 order: 2
 source_pdf: Library/Philosophy/Adorno - The Psychological Technique of Martin Luther Thomas' Radio Addresses (1975).pdf
-page_range: 41–88
+page_range: ""
 pdf_pages: 41–88
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

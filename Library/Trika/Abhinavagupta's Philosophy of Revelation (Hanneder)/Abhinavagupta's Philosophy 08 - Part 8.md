@@ -4,7 +4,7 @@ work: "[[Hanneder - Abhinavagupta's Philosophy of Revelation]]"
 book: "[[Library/Trika/Abhinavagupta's Philosophy of Revelation (Hanneder)/Abhinavagupta's Philosophy of Revelation (Hanneder)|Abhinavagupta's Philosophy of Revelation (Hanneder)]]"
 order: 8
 source_pdf: Library/Trika/Abhinavagupta's Philosophy of Revelation Malini Shloka Vartika I , 1-399 - Jurgen Hanneder.pdf
-page_range: 272–305
+page_range: "272–295"
 pdf_pages: 281–305
 text_source: the PDF's own text layer (an older OCR layer with good IAST; the pages are rotated 180° and are read in the order shown), its junk words replaced from a fresh OCR (Tesseract 5, eng+san); Appendix 1 (pp. 249–277 of the PDF, the Sanskrit text in Devanagari, where the old layer is junk) read by the fresh OCR (san). Stephen's decision of 8 Oct 2026
 converted: 2026-10-08

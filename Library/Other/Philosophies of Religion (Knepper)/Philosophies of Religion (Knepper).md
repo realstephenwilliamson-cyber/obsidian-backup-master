@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Philosophies of Religion 01 - Front matter|Front matter (Front matter, Philosophies)]] (pp. 1–ii)
+- [[Philosophies of Religion 01 - Front matter|Front matter (Front matter, Philosophies)]] (pp. i–ii)
 - [[Philosophies of Religion 02 - Philosophies of Religion|Philosophies of Religion]] (pp. iii–10)
 - [[Philosophies of Religion 03 - Part I, part 1|Part I, part 1]] (pp. 11–52)
 - [[Philosophies of Religion 04 - Part I, part 2|Part I, part 2]] (pp. 53–94)

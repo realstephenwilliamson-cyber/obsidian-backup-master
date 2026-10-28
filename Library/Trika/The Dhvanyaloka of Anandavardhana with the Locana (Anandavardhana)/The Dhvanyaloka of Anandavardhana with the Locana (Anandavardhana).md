@@ -18,10 +18,10 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[The Dhvanyaloka 01 - Front matter|Front matter]] (pp. 1–8)
-- [[The Dhvanyaloka 02 - Foreword|Foreword]] (pp. 9–12)
-- [[The Dhvanyaloka 03 - Contents|Contents]] (pp. 13–15)
-- [[The Dhvanyaloka 04 - Introduction|Introduction]] (pp. 2–40)
+- [[The Dhvanyaloka 01 - Front matter|Front matter]] (PDF 1–8)
+- [[The Dhvanyaloka 02 - Foreword|Foreword]] (PDF 9–12)
+- [[The Dhvanyaloka 03 - Contents|Contents]] (PDF 13–15)
+- [[The Dhvanyaloka 04 - Introduction|Introduction]] (pp. 1–40)
 - [[The Dhvanyaloka 05 - Translation and Notes, part 1|Translation  and  Notes, part 1]] (pp. 41–81)
 - [[The Dhvanyaloka 06 - Translation and Notes, part 2|Translation  and  Notes, part 2]] (pp. 82–122)
 - [[The Dhvanyaloka 07 - Translation and Notes, part 3|Translation  and  Notes, part 3]] (pp. 123–163)

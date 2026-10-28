@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Gnostic Bible 01 - Front matter|Front matter]] (pp. 1–2)
+- [[The Gnostic Bible 01 - Front matter|Front matter]] (PDF 1–2)
 - [[The Gnostic Bible 02 - THE GNOSTIC BIBLE, part 1|THE GNOSTIC BIBLE, part 1]] (pp. vii–29)
 - [[The Gnostic Bible 03 - THE GNOSTIC BIBLE, part 2|THE GNOSTIC BIBLE, part 2]] (pp. 30–65)
 - [[The Gnostic Bible 04 - THE GNOSTIC BIBLE, part 3|THE GNOSTIC BIBLE, part 3]] (pp. 66–101)

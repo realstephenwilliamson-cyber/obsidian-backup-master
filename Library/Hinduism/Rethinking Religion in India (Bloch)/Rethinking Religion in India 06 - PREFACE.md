@@ -4,7 +4,7 @@ work: "[[Bloch (ed.) - Rethinking Religion in India]]"
 book: "[[Library/Hinduism/Rethinking Religion in India (Bloch)/Rethinking Religion in India (Bloch)|Rethinking Religion in India (Bloch)]]"
 order: 6
 source_pdf: Library/Hinduism/Bloch, Keppens, Hegde (eds.) - Rethinking Religion in India (2010).pdf
-page_range: xiii–17
+page_range: "xiii–xv"
 pdf_pages: 14–17
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

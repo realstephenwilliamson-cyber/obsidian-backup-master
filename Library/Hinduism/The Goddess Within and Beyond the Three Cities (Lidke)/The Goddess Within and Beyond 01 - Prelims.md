@@ -100,9 +100,9 @@ As Sir John Woodroffe observed in the most incipient era of Tantric studies, Śa
 
 Douglas R. Brooks
 
-*[PDF 12]* ^pg12
+*[p. xii]* ^pg12
 
-*[PDF 13]* ^pg13
+*[p. xiii]* ^pg13
 
 Preface Reflexive Speech For me, to say a few words on Jeffrey Lidke’s work is to map my own life of the past two decades, reflecting on the rivulets that flowed together and streamed apart in the intersecting journey of our lives that has brought many gifts, and took some as it evolved. Writing is an act of self-discovery for me, a process from which I have never tried to disentangle myself. I have never pretended to be the author of the truth that splits my being and stands outside of myself. And to discuss this work, which of course is praiseworthy, is therefore not in isolation of my own self-discovery and the space that Jeffrey has occupied in this mapped and unfolded realm of being. I was then a lecturer at Nepal Sanskrit University in Kathmandu and Jeffrey a Fulbright scholar researching the goddess tradition in Nepal. We were both young and had yet to recognize our potentials. We were facing in two directions: I wanted to learn from the West and he from the East. His teachers and spiritual masters had urged him to ground his self-experience on indigenous Nepalese culture. My teachers, classical *paṇḍit*s mostly naïve regarding affairs of the world, had a romantic imagination regarding the Western scholarship of India and her culture. And I am a product of the culture shaped by Kumārila Bhaṭṭa, and a firm believer that I need to learn from all, inside and outside of culture. We both grew up in a perennial imagination of a transcendental reality that is not shaped by culture, language, or the like. There was an occasion for me to learn from Jeffrey: about the West, English language to begin with, and the Western modes of scholarship. There was something I could trade: my own Sanskrit training, my studies of Indian philosophical and theological traditions, my research on Tantric manuscripts and a few jokes from Nepal. We both are still walking in these two directions to eventually greet each other, not as two total strangers but as two friends.
 
@@ -146,7 +146,7 @@ Sthaneshwar Timalsina
 
 Professor of Religious Studies Department of Religious Studies San Diego State University
 
-*[PDF 19]* ^pg19
+*[p. xix]* ^pg19
 
 Contents
 
@@ -158,9 +158,9 @@ Contents
 
 *Appendix C*: Inscriptions from Bhaktapur Tripurasundarī 333 Vidyā-Pīṭha and Dolakha’s Devīkoṭṭa 338 *Glossary* 349 *Bibliography* 372 *Index*	
 
-*[PDF 20]* ^pg20
+*[p. xx]* ^pg20
 
-*[PDF 21]* ^pg21
+*[p. xxi]* ^pg21
 
 Acknowledgements According to Taoist legend, Sage Lao T’zu gestated in his mother’s womb eighty-one years before emerging into the world already as an “old sage.” This metaphorical narrative comes to mind as I now witness the birth of this book. The research for the following pages commenced way back in 1997 when I was a Fulbright Dissertation Fellow living in the Kathmandu Valley with my then wife and our five-month old daughter, Sarita. Since that time I earned my doctorate, taught at Grinnell then Bard then the University of Virginia before coming to Berry College, thirteen years ago. What began when I was a twenty-eight-year old dissertation fellow reaches its fruition now in my forty-eighth year as a tenured professor and chair of the Department of Religion and Philosophy at Berry. 
 
@@ -194,9 +194,9 @@ Jeffrey S. Lidke
 
 Berry College
 
-*[PDF 24]* ^pg24
+*[p. xxiv]* ^pg24
 
-*[PDF 25]* ^pg25
+*[p. xxv]* ^pg25
 
 Abbreviations
 
@@ -362,9 +362,9 @@ Vikram Samvat or Vikram era (Indian calendar starting in 57 bce)
 
 *Yogavāsiṣṭham*
 
-*[PDF 26]* ^pg26
+*[p. xxvi]* ^pg26
 
-*[PDF 27]* ^pg27
+*[p. xxvii]* ^pg27
 
 List of Plates Fig. 1 Śrī Yantra, painted by Narayan Chitrakar, Bhaktapur, Nepal, 1997. 
 

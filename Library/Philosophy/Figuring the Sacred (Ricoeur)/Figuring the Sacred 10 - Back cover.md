@@ -4,7 +4,7 @@ work: "[[Ricoeur - Figuring the Sacred]]"
 book: "[[Library/Philosophy/Figuring the Sacred (Ricoeur)/Figuring the Sacred (Ricoeur)|Figuring the Sacred (Ricoeur)]]"
 order: 10
 source_pdf: Library/Philosophy/Ricoeur - Figuring the Sacred, Religion, Narrative, and Imagination (1995).pdf
-page_range: "310"
+page_range: ""
 pdf_pages: 310–310
 text_source: the scan's OCR text layer (Internet Archive), PyMuPDF
 converted: 2026-10-07

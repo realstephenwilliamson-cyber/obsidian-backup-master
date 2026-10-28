@@ -1583,7 +1583,7 @@ Rabbi Yehudah said, “Happy are Israel, for the blessed Holy One protects them 
 
 [^387]: **he ascends and obtains authorization** See the description of Satan’s itinerary in BT *Bava Batra* [[Bava Batra 16#16a|16a]]: “He descends and seduces, ascends and arouses wrath, obtains authorization and seizes the soul.”
 
-    Satan is identified with the evil impulse on the same Talmudic page: “Resh Lakish said, ‘Satan, the evil impulse, and the Angel of Death are one and the same.’” On the good and evil impulses as a pair of angels on the right and the left, respectively, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-49b|1:49b]], [[Zohar 2.05 - Parashat Toledot#^z1-144b|144b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-155b|155b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-165b|165b]]; [[Zohar 12.06 - Piqqudin#^z3-263b|3:263b]]; cf. BT *Berakhot* [[Berakhot 61#61a|61a]].
+    Satan is identified with the evil impulse on the same Talmudic page: “Resh Lakish said, ‘Satan, the evil impulse, and the Angel of Death are one and the same.’” On the good and evil impulses as a pair of angels on the right and the left, respectively, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-49b|1:49b]], [[Zohar 2.05 - Parashat Toledot#^z1-144b|144b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-155b|155b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-165b|165b]]; [[Zohar 12.06 - Piqqudin#^z3-263b|3:263b]]; cf. BT *Berakhot* [[Berakhot 61#61a|61a]].
 
 [^388]: **evil impulse becomes his servant…** On this transformation, see *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-114b|1:114b]], [[Zohar 2.05 - Parashat Toledot#^z1-144b|144b]]; above, page 6.
 
@@ -2071,7 +2071,7 @@ Rabbi Yehudah said, “Happy are Israel, for the blessed Holy One protects them 
 
     According to a rabbinic tradition, two angels accompany a person. Here the angelic pair is identified with the good and evil impulses.
 
-    See BT *Berakhot* [[Berakhot 61#61a|61a]]; *Shabbat* [[Shabbat 119#119b|119b]]; *Ta’anit* 11a; *Ḥagigah* [[Chagigah 16#16a|16a]]; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-49b|1:49b]], [[Zohar 2.05 - Parashat Toledot#^z1-144b|144b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-155b|155b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-165b|165b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-174b|174b]]; [[Zohar 12.06 - Piqqudin#^z3-263b|3:263b]].
+    See BT *Berakhot* [[Berakhot 61#61a|61a]]; *Shabbat* [[Shabbat 119#119b|119b]]; *Ta’anit* 11a; *Ḥagigah* [[Chagigah 16#16a|16a]]; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-49b|1:49b]], [[Zohar 2.05 - Parashat Toledot#^z1-144b|144b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-155b|155b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-165b|165b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-174b|174b]]; [[Zohar 12.06 - Piqqudin#^z3-263b|3:263b]].
 
 [^547]: **by whom all rungs are adorned…** The various members of the community are linked with specific sefirotic rungs. Priests and Levites symbolize respectively *Ḥesed* and *Gevurah*. “Righteous and devout” symbolize respectively *Yesod* and the pair *Netsaḥ* and *Hod*. *The upright* refers to *Tif’eret* (the central column), and *assembly* alludes to *Shekhinah*, who is known as אל (*El*), “God,” as in the phrase *assembly of God*. Cf. *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-155b|1:155b]]. Thus, through their varied acts of worship, study, and righteous living, the people of Israel adorn God.
 

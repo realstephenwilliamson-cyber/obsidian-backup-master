@@ -4,7 +4,7 @@ work: "[[Arnswald (ed.) - In Search of Meaning]]"
 book: "[[Library/Philosophy/In Search of Meaning (Arnswald)/In Search of Meaning (Arnswald)|In Search of Meaning (Arnswald)]]"
 order: 1
 source_pdf: Library/Philosophy/Arnswald (ed.) - In Search of Meaning (2009).pdf
-page_range: 1–26
+page_range: "v–26"
 pdf_pages: 1–40
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -73,7 +73,7 @@ Ulrich Arnswald ................................................................
 
 the whole sphere of what happens and is the case.’ (TLP 6.41) Liam Hughes ................................................................................... 51 4 Philosophy and Life Anja Weiberg ........................................... 67 5 Sense of Ethics and Ethical Sense Jens Kertscher ................... 87 6 The Convergence of God, the Self, and the World in Wittgenstein’s *Tractatus* John Churchill ............................. 113 7 ‘Objectively there is no truth’ — Wittgenstein and Kierkegaard on Religious Belief Genia Schönbaumsfeld ........................... 131 About the Contributors ..................................................................... 149 Index ...................................................................................................... 151 
 
-*[PDF 8]* ^pg8
+*[p. vi]* ^pg8
 
 *[p. vii]* ^pg9
 
@@ -115,7 +115,7 @@ tends, of course, to all the contributors to this volume for having accepted the
 
 Heidelberg / Karlsruhe, July 2009 
 
-*[PDF 12]* ^pg12
+*[p. x]* ^pg12
 
 *[p. xi]* ^pg13
 

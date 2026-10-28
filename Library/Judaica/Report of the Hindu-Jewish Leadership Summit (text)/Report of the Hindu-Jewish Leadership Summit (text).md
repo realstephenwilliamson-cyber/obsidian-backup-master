@@ -16,8 +16,8 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Report of the Hindu-Jewish 01 - Report of the Hindu-Jewish Leadership Summit February 5-7 2007 New|Report of the Hindu-Jewish Leadership Summit February 5-7 2007 New Delhi, India An initiative of the]] (pp. 1–25)
+- [[Report of the Hindu-Jewish 01 - Report of the Hindu-Jewish Leadership Summit February 5-7 2007 New|Report of the Hindu-Jewish Leadership Summit February 5-7 2007 New Delhi, India An initiative of the]] (pp. 3–25)
 - [[Report of the Hindu-Jewish 02 - The Dialogue|The Dialogue]] (pp. 26–44)
 - [[Report of the Hindu-Jewish 03 - The Declaration of|The Declaration of]] (pp. 45–47)
 - [[Report of the Hindu-Jewish 04 - Concluding Remarks of|Concluding Remarks of]] (pp. 48–53)
-- [[Report of the Hindu-Jewish 05 - OUTCOMES|OUTCOMES]] (pp. 54–73)
+- [[Report of the Hindu-Jewish 05 - OUTCOMES|OUTCOMES]] (pp. 54–64)

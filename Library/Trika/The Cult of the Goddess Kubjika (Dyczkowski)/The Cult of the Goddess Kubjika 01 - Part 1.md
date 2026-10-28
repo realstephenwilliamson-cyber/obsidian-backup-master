@@ -4,7 +4,7 @@ work: "[[Dyczkowski - The Cult of the Goddess Kubjika]]"
 book: "[[Library/Trika/The Cult of the Goddess Kubjika (Dyczkowski)/The Cult of the Goddess Kubjika (Dyczkowski)|The Cult of the Goddess Kubjika (Dyczkowski)]]"
 order: 1
 source_pdf: Library/Trika/Dyczkowski - The Cult of the Goddess Kubjika (Nepal Research Centre 23).pdf
-page_range: 2–35
+page_range: "1–35"
 pdf_pages: 1–40
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

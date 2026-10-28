@@ -4,7 +4,7 @@ work: "[[Wright - Inventing God's Law]]"
 book: "[[Library/Biblical-Studies/Inventing God's Law (Wright)/Inventing God's Law (Wright)|Inventing God's Law (Wright)]]"
 order: 1
 source_pdf: Library/Biblical-Studies/Wright - Inventing God's Law (OUP 2009).pdf
-page_range: 1–11
+page_range: ""
 pdf_pages: 1–11
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

@@ -4,7 +4,7 @@ work: "[[Stiegler - The Re-Enchantment of the World]]"
 book: "[[Library/Philosophy/The Re-Enchantment of the World (Stiegler)/The Re-Enchantment of the World (Stiegler)|The Re-Enchantment of the World (Stiegler)]]"
 order: 1
 source_pdf: Library/Philosophy/The Re-Enchantment of the World The Value of Spirit Against Industrial Populism (2014).pdf
-page_range: 1–4
+page_range: "viii–ix"
 pdf_pages: 1–4
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

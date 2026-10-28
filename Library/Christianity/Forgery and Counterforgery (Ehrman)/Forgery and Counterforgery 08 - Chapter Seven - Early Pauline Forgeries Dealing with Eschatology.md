@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 8
-page_range: "155–190"
+page_range: ""
 ---
 [[Forgery and Counterforgery 07 - Chapter Six - Introduction to Forgery and Counterforgery in Early Christian Polemics|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 09 - Chapter Eight - Later Forgeries Dealing with Eschatology|next →]]
 

@@ -4,7 +4,7 @@ work: "[[Ratie - The Dreamer and the Yogin]]"
 book: "[[Library/Trika/The Dreamer and the Yogin (Ratie)/The Dreamer and the Yogin (Ratie)|The Dreamer and the Yogin (Ratie)]]"
 order: 1
 source_pdf: Library/Trika/The_Dreamer_and_the_Yogin_On_the_relatio.pdf
-page_range: 1–438
+page_range: "438"
 pdf_pages: 1–2
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

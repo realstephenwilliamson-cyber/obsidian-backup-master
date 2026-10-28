@@ -4,7 +4,7 @@ work: "[[Stiegler - Acting Out]]"
 book: "[[Library/Philosophy/Acting Out (Stiegler)/Acting Out (Stiegler)|Acting Out (Stiegler)]]"
 order: 1
 source_pdf: Library/Philosophy/Acting Out (2008).pdf
-page_range: 1–7
+page_range: ""
 pdf_pages: 1–7
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07

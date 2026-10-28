@@ -4,7 +4,7 @@ work: "[[Lloyd - Morality in the Philosophy of Thomas Hobbes]]"
 book: "[[Library/Philosophy/Morality in the Philosophy of Thomas Hobbes (Lloyd)/Morality in the Philosophy of Thomas Hobbes (Lloyd)|Morality in the Philosophy of Thomas Hobbes (Lloyd)]]"
 order: 1
 source_pdf: Library/Philosophy/Lloyd - Morality in the Philosophy of Thomas Hobbes (CUP 2009).pdf
-page_range: 1–10
+page_range: ""
 pdf_pages: 1–10
 text_source: PDF text layer (born-digital), PyMuPDF; 9 pages read by OCR (Tesseract) where the text layer has no Unicode
 converted: 2026-10-07

@@ -4,7 +4,7 @@ work: "[[Odier - Yoga Spandakarika]]"
 book: "[[Library/Trika/Yoga Spandakarika - The Sacred Texts at the Origins (Odier)/Yoga Spandakarika - The Sacred Texts at the Origins (Odier)|Yoga Spandakarika - The Sacred Texts at the Origins (Odier)]]"
 order: 10
 source_pdf: Library/Trika/Odier, Frock - Yoga Spandakarika, the Sacred Texts at the Origins of Tantra (2005).pdf
-page_range: 165–190
+page_range: "165–175"
 pdf_pages: 179–190
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07

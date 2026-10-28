@@ -16,8 +16,8 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Roots of Tantra 01 - Front matter|Front matter (Front matter, The Roots of Tantra)]] (pp. 1–3)
-- [[The Roots of Tantra 02 - The Roots of Tantra|The Roots of Tantra]] (pp. 4–11)
+- [[The Roots of Tantra 01 - Front matter|Front matter (Front matter, The Roots of Tantra)]] (PDF 1–3)
+- [[The Roots of Tantra 02 - The Roots of Tantra|The Roots of Tantra]] (pp. v–ix)
 - [[The Roots of Tantra 03 - Introduction|Introduction]] (pp. 1–14)
 - [[The Roots of Tantra 04 - OVERVIEWS|OVERVIEWS]] (pp. i–16)
 - [[The Roots of Tantra 05 - What Do We Mean by Tantrism 1|What Do We Mean by Tantrism?1]] (pp. 17–24)

@@ -20,14 +20,14 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 
 ## Contents
 
-- [[A Sanskrit Reader 01 - Part 1|Part 1]] (pp. 1–23)
+- [[A Sanskrit Reader 01 - Part 1|Part 1]] (pp. 4–23)
 - [[A Sanskrit Reader 02 - Part 2|Part 2]] (pp. 24–63)
 - [[A Sanskrit Reader 03 - Part 3|Part 3]] (pp. 64–103)
-- [[A Sanskrit Reader 04 - Part 4|Part 4]] (pp. 104–160)
-- [[A Sanskrit Reader 05 - Part 5|Part 5]] (pp. 161–200)
-- [[A Sanskrit Reader 06 - Part 6|Part 6]] (pp. 201–240)
-- [[A Sanskrit Reader 07 - Part 7|Part 7]] (pp. 241–280)
-- [[A Sanskrit Reader 08 - Part 8|Part 8]] (pp. 281–320)
-- [[A Sanskrit Reader 09 - Part 9|Part 9]] (pp. 321–360)
-- [[A Sanskrit Reader 10 - Part 10|Part 10]] (pp. 361–400)
-- [[A Sanskrit Reader 11 - Part 11|Part 11]] (pp. 401–418)
+- [[A Sanskrit Reader 04 - Part 4|Part 4]] (pp. 104–106)
+- [[A Sanskrit Reader 05 - Part 5|Part 5]] (PDF 161–200)
+- [[A Sanskrit Reader 06 - Part 6|Part 6]] (PDF 201–240)
+- [[A Sanskrit Reader 07 - Part 7|Part 7]] (pp. v)
+- [[A Sanskrit Reader 08 - Part 8|Part 8]] (PDF 281–320)
+- [[A Sanskrit Reader 09 - Part 9|Part 9]] (PDF 321–360)
+- [[A Sanskrit Reader 10 - Part 10|Part 10]] (PDF 361–400)
+- [[A Sanskrit Reader 11 - Part 11|Part 11]] (PDF 401–418)

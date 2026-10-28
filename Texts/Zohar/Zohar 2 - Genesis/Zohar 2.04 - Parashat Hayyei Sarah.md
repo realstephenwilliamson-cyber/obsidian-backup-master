@@ -861,7 +861,7 @@ Rabbi El’azar said, “At that moment Assembly of Israel[^411] looked up and s
 
 [^194]: **sometimes conveying deceptions, toying with her…** A rabbinic tradition in BT *Berakhot* [[Berakhot 55#55b|55b]] states that angels convey prophetic dreams, while demons convey false ones.
 
-    See *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-83a|1:83a]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-150b|150b]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-183a|183a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-199b|199b–200a]]; [[Zohar 5.05 - Parashat Terumah#^z2-130a|2:130a]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-264a|264a]] (*Heikh*); [[Zohar 7.03 - Parashat Va-Yiqra#^z3-25a|3:25a]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-156b|156b]].
+    See *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-83a|1:83a]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-150b|150b]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-183a|183a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-199b|199b–200a]]; [[Zohar 5.05 - Parashat Terumah#^z2-130a|2:130a]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-264a|264a]] (*Heikh*); [[Zohar 7.03 - Parashat Va-Yiqra#^z3-25a|3:25a]], [[Zohar 9.03 - Parashat Shelah Lekha#^z3-156b|156b]].
 
 [^195]: **those holy ones** Angels.
 

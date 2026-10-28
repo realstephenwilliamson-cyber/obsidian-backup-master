@@ -4,7 +4,7 @@ work: "[[Adorno - The Culture Industry]]"
 book: "[[Library/Philosophy/The Culture Industry (Adorno)/The Culture Industry (Adorno)|The Culture Industry (Adorno)]]"
 order: 2
 source_pdf: Library/Philosophy/Adorno - The Culture Industry.pdf
-page_range: 6–28
+page_range: "1–28"
 pdf_pages: 6–37
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

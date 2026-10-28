@@ -1,0 +1,31 @@
+DECIDING ZOHAR FOLIO REFERENCES (reading task; you change nothing but your own output file)
+
+Background. The Pritzker Zohar (Daniel Matt's translation) is split into notes, one per parashah. On some folio sides of the
+printed Zohar one parashah ends and the next begins, so two notes carry the same folio side. Other notes (mostly Matt's
+footnotes) cite such a folio side by number, e.g. "see Zohar 1:193a". Each citation must point to the passage it means.
+
+Your packet (a Markdown file) has, for each shared folio side:
+- Passage A and Passage B: the text of that folio side in each of the two notes. Each starts a little before the folio
+  marker (**[3:156b]** and the like); only the text AFTER the marker is on that folio side. Text may be cut at 8,000 characters.
+- References to decide: each with its id, the citing note, and the citing text, where the reference itself is shown as ⟦label⟧.
+  When the reference sits in a footnote's later paragraph, the footnote's earlier text is given first.
+
+For each reference decide which passage the citing text means:
+- "A" or "B": the citing text's topic (the matter it says to "see", the word, verse or idea it is about) is found in that passage.
+- "both": the matter is in both passages, or the citation clearly covers the whole folio side.
+- "neither": the matter is not in either passage as given (remember passages may be cut).
+- "unclear": you cannot tell.
+A range label that runs on to the NEXT folio side (e.g. 1:165b–166a) can only be in the passage that continues onto that next
+side, i.e. the later parashah (the note whose passage does NOT end on this side); say so in "why".
+Judge only by the texts. Do not guess from the note names or the order of the passages.
+
+Confidence: "high" (the matter is plainly there, e.g. the same verse, word or image), "medium", "low".
+
+Output: write a JSON Lines file (one JSON object per line, UTF-8) at the path given in your task, with exactly one line per
+reference, in packet order:
+{"id": "z3-156b-01", "choice": "A", "confidence": "high", "why": "at most 25 words: what in the passage matches"}
+Rules for "why": your own words; quote at most six words of source text; never write the divine name (the four-letter name of God)
+in any script or transliteration — write "the divine name" instead.
+
+Before you finish, check that your file has one line for every "#### " id in the packet and that each line parses as JSON.
+Then reply with one short line: the number of references and the counts of each choice. Do not paste the decisions in the reply.

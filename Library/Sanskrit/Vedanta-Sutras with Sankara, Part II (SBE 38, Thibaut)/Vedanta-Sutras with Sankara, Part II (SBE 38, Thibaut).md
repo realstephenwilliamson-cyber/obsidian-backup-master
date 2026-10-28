@@ -20,7 +20,7 @@ Converted from the PDF on 8 Oct 2026 (fresh OCR with Tesseract 5 (eng+san) of th
 
 ## Contents
 
-- [[SBE 38 Vedanta-Sutras II 01 - Front matter|Front matter]] (pp. 1–12)
+- [[SBE 38 Vedanta-Sutras II 01 - Front matter|Front matter]] (PDF 1–12)
 
 ### Adhyāya II
 

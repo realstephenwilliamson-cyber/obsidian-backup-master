@@ -16,12 +16,12 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Rethinking Religion in India 01 - Front matter|Front matter (Front matter)]] (pp. 1–3)
-- [[Rethinking Religion in India 02 - RETHINKING RELIGION IN INDIA|RETHINKING RELIGION IN INDIA]] (pp. 4–7)
+- [[Rethinking Religion in India 01 - Front matter|Front matter (Front matter)]] (PDF 1–3)
+- [[Rethinking Religion in India 02 - RETHINKING RELIGION IN INDIA|RETHINKING RELIGION IN INDIA]] (PDF 4–7)
 - [[Rethinking Religion in India 03 - CONTENTS|CONTENTS]] (pp. vii–ii)
 - [[Rethinking Religion in India 04 - ACKNOWLEDGEMENTS|ACKNOWLEDGEMENTS]] (pp. ix–x)
 - [[Rethinking Religion in India 05 - CONTRIBUTORS|CONTRIBUTORS]] (pp. xi–xii)
-- [[Rethinking Religion in India 06 - PREFACE|PREFACE]] (pp. xiii–17)
+- [[Rethinking Religion in India 06 - PREFACE|PREFACE]] (pp. xiii–xv)
 - [[Rethinking Religion in India 07 - INTRODUCTION|INTRODUCTION]] (pp. 1–22)
 - [[Rethinking Religion in India 08 - HISTORICAL AND|HISTORICAL AND]] (pp. i–24)
 - [[Rethinking Religion in India 09 - HINDUS AND OTHERS|HINDUS AND OTHERS]] (pp. 25–40)

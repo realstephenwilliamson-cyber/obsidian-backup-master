@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 9
-page_range: "191–238"
+page_range: ""
 ---
 [[Forgery and Counterforgery 08 - Chapter Seven - Early Pauline Forgeries Dealing with Eschatology|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 10 - Chapter Nine - Forgeries in Support of Paul and His Apostolic Mission|next →]]
 

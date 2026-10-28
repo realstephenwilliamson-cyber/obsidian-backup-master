@@ -4,7 +4,7 @@ work: "[[Bhattacharyya - History of the Tantric Religion]]"
 book: "[[Library/Hinduism/History of the Tantric Religion (Bhattacharyya)/History of the Tantric Religion (Bhattacharyya)|History of the Tantric Religion (Bhattacharyya)]]"
 order: 1
 source_pdf: Library/Hinduism/Bhattacharyya - History of the Tantric Religion (1999).pdf
-page_range: 8–40
+page_range: "1–40"
 pdf_pages: 1–40
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

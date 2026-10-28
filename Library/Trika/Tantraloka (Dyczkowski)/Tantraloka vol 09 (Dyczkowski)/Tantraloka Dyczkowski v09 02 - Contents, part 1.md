@@ -4,7 +4,7 @@ work: "[[Dyczkowski - Tantraloka (tr., vols I-XI)]]"
 book: "[[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)|Tantraloka vol 09 (Dyczkowski)]]"
 order: 2
 source_pdf: Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf
-page_range: 13–x
+page_range: "ix–x"
 pdf_pages: 13–14
 text_source: the PDF OCR layer, with anusvara fix; Devanagari lines read again with Tesseract san (7 Oct 2026); words the old OCR layer garbled replaced from a fresh OCR (Tesseract eng+san) where that reads an English word or Devanagari
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[Tantraloka Dyczkowski v09 01 - Front matter|← previous]] · [[Tantraloka vol 09 (Dyczkowski)|contents]] · [[Tantraloka Dyczkowski v09 03 - Contents, part 2|next →]]
 
-*[PDF 13]* ^pg13
+*[p. ix]* ^pg13
 
 CHAPTER EIGHTEEN 
 

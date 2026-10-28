@@ -4,7 +4,7 @@ work: "[[Lee - Deceptive Majority]]"
 book: "[[Library/Hinduism/Deceptive Majority - Dalits, Hinduism, and Underground (Lee)/Deceptive Majority - Dalits, Hinduism, and Underground (Lee)|Deceptive Majority - Dalits, Hinduism, and Underground (Lee)]]"
 order: 2
 source_pdf: Library/Hinduism/Lee - Deceptive Majority (2021).pdf
-page_range: 5–18
+page_range: ""
 pdf_pages: 5–18
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

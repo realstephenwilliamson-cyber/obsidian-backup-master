@@ -4,7 +4,7 @@ work: "[[Hoffmeier - Ancient Israel in Sinai]]"
 book: "[[Library/Biblical-Studies/Ancient Israel in Sinai (Hoffmeier)/Ancient Israel in Sinai (Hoffmeier)|Ancient Israel in Sinai (Hoffmeier)]]"
 order: 5
 source_pdf: Library/Biblical-Studies/Hoffmeier - Ancient Israel in Sinai (OUP 2005).pdf
-page_range: 23–26
+page_range: "xxi–xxii"
 pdf_pages: 23–26
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[Ancient Israel in Sinai 04 - Abbreviations|← previous]] · [[Ancient Israel in Sinai (Hoffmeier)|contents]] · [[Ancient Israel in Sinai 06 - 1. The Wilderness Tradition|next →]]
 
-*[PDF 23]* ^pg23
+*[p. xxi]* ^pg23
 
 ## Chronological Charts
 

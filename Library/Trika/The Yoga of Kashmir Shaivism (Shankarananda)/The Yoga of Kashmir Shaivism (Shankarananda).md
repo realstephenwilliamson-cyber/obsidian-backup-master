@@ -17,9 +17,9 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (ABBYY FineReade
 
 ## Contents
 
-- [[The Yoga of Kashmir Shaivism 01 - Front matter|Front matter (Front matter)]] (pp. 1–3)
-- [[The Yoga of Kashmir Shaivism 02 - THE YOGA OF KASHMIR SHAIVISM|THE YOGA OF KASHMIR SHAIVISM]] (pp. 4–13)
-- [[The Yoga of Kashmir Shaivism 03 - Introduction Consciousness Itself|Introduction Consciousness Itself]] (pp. 14–24)
+- [[The Yoga of Kashmir Shaivism 01 - Front matter|Front matter (Front matter)]] (PDF 1–3)
+- [[The Yoga of Kashmir Shaivism 02 - THE YOGA OF KASHMIR SHAIVISM|THE YOGA OF KASHMIR SHAIVISM]] (PDF 4–13)
+- [[The Yoga of Kashmir Shaivism 03 - Introduction Consciousness Itself|Introduction Consciousness Itself]] (pp. 16–24)
 - [[The Yoga of Kashmir Shaivism 04 - Chapter 1 The Grace of Shiva|Chapter 1 The Grace of Shiva]] (pp. 25–40)
 - [[The Yoga of Kashmir Shaivism 05 - Chapter 2 The Origins of Kashmir Shaivism|Chapter 2 The Origins of Kashmir Shaivism]] (pp. 41–52)
 - [[The Yoga of Kashmir Shaivism 06 - Chapter 3 A Shaivite Overview, part 1|Chapter 3 A Shaivite Overview, part 1]] (pp. 53–88)

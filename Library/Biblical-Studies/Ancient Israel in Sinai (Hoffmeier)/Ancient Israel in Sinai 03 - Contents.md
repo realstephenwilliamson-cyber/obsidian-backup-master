@@ -4,7 +4,7 @@ work: "[[Hoffmeier - Ancient Israel in Sinai]]"
 book: "[[Library/Biblical-Studies/Ancient Israel in Sinai (Hoffmeier)/Ancient Israel in Sinai (Hoffmeier)|Ancient Israel in Sinai (Hoffmeier)]]"
 order: 3
 source_pdf: Library/Biblical-Studies/Hoffmeier - Ancient Israel in Sinai (OUP 2005).pdf
-page_range: 17–xvi
+page_range: "xv–xvi"
 pdf_pages: 17–18
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[Ancient Israel in Sinai 02 - Foreword|← previous]] · [[Ancient Israel in Sinai (Hoffmeier)|contents]] · [[Ancient Israel in Sinai 04 - Abbreviations|next →]]
 
-*[PDF 17]* ^pg17
+*[p. xv]* ^pg17
 
 ## Contents
 

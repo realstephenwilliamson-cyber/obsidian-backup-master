@@ -146,7 +146,7 @@ Selected Secondary Works Index: Biblical General 199 200 216 227 242
 
 299 317 320
 
-*[PDF 9]* ^pg9
+*[p. vii]* ^pg9
 
 Preface
 
@@ -156,7 +156,7 @@ continuity and change.
 
 One editorial problem raised by this circumstance is the relation between the second volume and the first. By my own definition, set forth in the preface to the first volume, I intend each volume to stand on its own feet; this second volume is no exception. Yet the very traditionalism of the theologians with whom I have been dealing makes cross-references to the first five centuries of the church unavoidable. I have sought to obviate the necessity of retelling the entire story of volume 1 by recapitulating that story as it was understood by the seventh century and by those that followed it, without at this time entering directly on
 
-*[PDF 10]* ^pg10
+*[p. viii]* ^pg10
 
 PREFACE Vill
 
@@ -164,7 +164,7 @@ the question of how accurately they may have interpreted their tradition. For th
 
 In keeping with this working principle, I have here treated the first five or six centuries of the history of Christian doctrine as a given, even though I am quite aware of their heterogeneity. In the bibliography to this volume, I have likewise concentrated my attention on those works that carry the story into the centuries being covered here. If I were writing the history of Christian doctrine backwards, beginning with the nineteenth and twentieth centuries and working my way to the beginnings—an intriguing idea intellectually, and an impossible one methodologically—I would, I am sure, look at the seventh century in quite another way and would also produce another kind of bibliography. But I have included in the bibliography those works that are the most instructive about the career of Eastern Christian thought. These I have selected on the basis of a combination of two criteria: those that have taught me the most, and those that will carry my readets to the next stage of the scholarly discussion. As is obvious from the list of works cited, these two criteria are frequently discordant; for I have been the beneficiary chiefly of Eastern scholarship, especially Russian (to some of which I have paid my tribute), while my bibliography has works in Western languages that are less influential in determining my own interpretations but are more available. An additional factor determining the bibliography is the sheer problem of quantity. Without counting items in anyone’s list, \] am sure that there are more first-rate monographs on the theology of Augustine than on the entire theological history of Byzantium. This has compelled me to include works whose counterparts in the scholarly literature about the early centuries I did not cite in volume 1. Conversely, I have not repeated works cited there unless they were essential to my account of these centuries. One place, however, where I did not make such compromises is in the citation of primary sources; these I have continued to quote, as I did in vol-
 
-*[PDF 11]* ^pg11
+*[p. ix]* ^pg11
 
 Preface ix
 
@@ -174,7 +174,7 @@ The title of this volume does perhaps deserve comment. In the précis and prospe
 
 The linguistic problem, as represented especially by the transliteration of names and the translation of technical terms, has probably caused me more hours of trouble than the methodological one. Transliteration is especially awkward where the same name has been used in more than one alphabet. I have tried to steer a middle course between literalistic pedantry and thoughtless uniformity. The translation of technical theological words is, obviously, much more delicate. Perhaps the best illustration of the problem occurs in chapter 2, where évépyera could easily have been rendered as “energy” (except that this is not what the word “energy” means to us) or as “operation” to conform with the Latin (except that this is even more opaque); after trying different sets of terms, I finally
 
-*[PDF 12]* ^pg12
+*[p. x]* ^pg12
 
 PREFACE x
 
@@ -418,7 +418,7 @@ John Calvin. Institutes of the Christian Religion (edition of 1559)
 
 Council of Chalcedon Acts Canons Third Council of Constantinople Acts Oration to the Emperor (Iconoclast) Synod of 754 in Hiereia and Constantinople. Decrees Fourth Council of Constantinople. Acts
 
-*[PDF 15]* ^pg15
+*[p. xiii]* ^pg15
 
 Cerul.
 
@@ -732,7 +732,7 @@ the Bogomils
 
 Gottschalk of Orbais. That it is Permissible to Speak of the Deity as Trine
 
-*[PDF 17]* ^pg17
+*[p. xv]* ^pg17
 
 Gr.M.
 
@@ -1072,7 +1072,7 @@ Epistles
 
 Against the Famous Romanist in Leipzig Macarius of Antioch. Symbol
 
-*[PDF 19]* ^pg19
+*[p. xvii]* ^pg19
 
 Man.JI.Pal.Dial.
 
@@ -1248,7 +1248,7 @@ Message {Poslanie}
 
 Nicetas of Amasia. On the Patriarchs Nicetas of Byzantium
 
-*[PDF 20]* ^pg20
+*[p. xviii]* ^pg20
 
 Arab.
 
@@ -1394,7 +1394,7 @@ History of the Heresy of the Manicheans, Who Are Also
 
 Called Paulicians Sermons against the Manicheans, Who Are Also Called Paulicians Philotheus of Pskov. Message {Poslanie} Philoxenus of Mabbug. Dissertations Patriarch Photius of Constantinople
 
-*[PDF 21]* ^pg21
+*[p. xix]* ^pg21
 
 Amph.
 
@@ -1764,7 +1764,7 @@ Theophanes the Confessor. Chronography
 
 Theophanes of Nicea. Sermon on the Theotokos
 
-*[PDF 23]* ^pg23
+*[p. xxi]* ^pg23
 
 Theor.Disp.
 
@@ -1880,7 +1880,7 @@ Connolly, Richard Hugh, ed. Narsai. Liturgical Homalies.
 
 Cambridge, 1909.
 
-*[PDF 24]* ^pg24
+*[p. xxii]* ^pg24
 
 Connolly-Codrington
 
@@ -2002,7 +2002,7 @@ Karmirés, Idannés N., ed. Ta doyparixd kal cvuBodticd urvnuela THS 6pOoddkou K
 
 Graz, 1960-68.
 
-*[PDF 25]* ^pg25
+*[p. xxiii]* ^pg25
 
 Kayser
 

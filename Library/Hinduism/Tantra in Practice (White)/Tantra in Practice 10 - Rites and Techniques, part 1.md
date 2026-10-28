@@ -4,7 +4,7 @@ work: "[[White (ed.) - Tantra in Practice]]"
 book: "[[Library/Hinduism/Tantra in Practice (White)/Tantra in Practice (White)|Tantra in Practice (White)]]"
 order: 10
 source_pdf: Library/Hinduism/David Gordon White - Tantra in Practice (2000).pdf
-page_range: 389–427
+page_range: "384–427"
 pdf_pages: 389–434
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07

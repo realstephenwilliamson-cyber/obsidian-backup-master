@@ -17,4 +17,4 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Saiva Atimarga in the Light 01 - Part 1|Part 1]] (pp. 1–46)
+- [[The Saiva Atimarga in the Light 01 - Part 1|Part 1]] (pp. 8–49)

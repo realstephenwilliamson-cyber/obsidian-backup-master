@@ -16,14 +16,14 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Apostolic Fathers 01 - Front matter|Front matter (Cover, About this book)]] (pp. 1–2)
+- [[The Apostolic Fathers 01 - Front matter|Front matter (Cover, About this book)]] (PDF 1–2)
 - [[The Apostolic Fathers 02 - Table of Contents|Table of Contents]] (pp. iii–xl)
 - [[The Apostolic Fathers 03 - Title Page|Title Page]] (pp. 3–4)
 - [[The Apostolic Fathers 04 - CLEMENT OF ROME|CLEMENT OF ROME]] (pp. 5–22)
 - [[The Apostolic Fathers 05 - MATHETES|MATHETES]] (pp. 263–264)
 - [[The Apostolic Fathers 06 - POLYCARP|POLYCARP]] (pp. 72–480)
 - [[The Apostolic Fathers 07 - IGNATIUS, part 1|IGNATIUS, part 1]] (pp. 481–119)
-- [[The Apostolic Fathers 08 - IGNATIUS, part 2|IGNATIUS, part 2]] (pp. 120–125)
+- [[The Apostolic Fathers 08 - IGNATIUS, part 2|IGNATIUS, part 2]] (pp. 120–163)
 - [[The Apostolic Fathers 09 - IGNATIUS, part 3|IGNATIUS, part 3]] (pp. 168–1353)
 - [[The Apostolic Fathers 10 - BARNABAS|BARNABAS]] (pp. 208–236)
 - [[The Apostolic Fathers 11 - PAPIAS|PAPIAS]] (pp. 237–243)
@@ -39,7 +39,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[The Apostolic Fathers 21 - IRENUS, part 3|IRENÆUS, part 3]] (pp. 588–627)
 - [[The Apostolic Fathers 22 - IRENUS, part 4|IRENÆUS, part 4]] (pp. 628–3248)
 - [[The Apostolic Fathers 23 - IRENUS, part 5|IRENÆUS, part 5]] (pp. 3249–688)
-- [[The Apostolic Fathers 24 - IRENUS, part 6|IRENÆUS, part 6]] (pp. 725–747)
+- [[The Apostolic Fathers 24 - IRENUS, part 6|IRENÆUS, part 6]] (pp. 708–747)
 - [[The Apostolic Fathers 25 - IRENUS, part 7|IRENÆUS, part 7]] (pp. 748–787)
 - [[The Apostolic Fathers 26 - IRENUS, part 8|IRENÆUS, part 8]] (pp. 788–827)
 - [[The Apostolic Fathers 27 - IRENUS, part 9|IRENÆUS, part 9]] (pp. 828–860)

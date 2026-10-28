@@ -4,7 +4,7 @@ work: "[[Dempsey - The Goddess Lives in Upstate New York]]"
 book: "[[Library/Hinduism/The Goddess Lives in Upstate New York (Dempsey)/The Goddess Lives in Upstate New York (Dempsey)|The Goddess Lives in Upstate New York (Dempsey)]]"
 order: 1
 source_pdf: Library/Hinduism/Dempsey - The Goddess Lives in Upstate New York (2006).pdf
-page_range: 1–11
+page_range: "viii–x"
 pdf_pages: 1–11
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -140,6 +140,6 @@ It would be difficult to single out the many devotees whose kindness, support, a
 
 The person primarily responsible for the substance and tenor of this book—not to mention the substance and tenor of the temple itself—is Aiya, who bore my steady stream of questions and omnipresent tape recorder with patience and good humor. Not one to keep his views to himself, he regularly was candid with me about the ups and downs of being a guru, of dealing with the needs of temple participants, and of running an organization that adheres to yet stridently strays from traditional principles. On rare occasions, he would even ask my advice. The extent to which Aiya shared with me the teachings of his tradition and furthermore trusted me with his thoughts and opinions is of no small significance to me. His generosity, openness, and honesty—and my admiration for them—give significant substance to this book. More than anything, his towering faith in the Mother of us all has left me a different person than when I began this project.
 
-*[PDF 11]* ^pg11
+*[p. x]* ^pg11
 
 *This page intentionally left blank*

@@ -4,7 +4,7 @@ work: "[[Lidke - The Goddess Within and Beyond the Three Cities]]"
 book: "[[Library/Hinduism/The Goddess Within and Beyond the Three Cities (Lidke)/The Goddess Within and Beyond the Three Cities (Lidke)|The Goddess Within and Beyond the Three Cities (Lidke)]]"
 order: 2
 source_pdf: Library/Hinduism/The_Goddess_Within_and_Beyond_the_Three.pdf
-page_range: 29–30
+page_range: ""
 pdf_pages: 29–30
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

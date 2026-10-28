@@ -90,7 +90,7 @@ Finally I should like to thank Professor SANDERSON, who first taught and encoura
 
 1 Where emendations and ideas are attributed to him without reference to a letter, this should be because they were not advanced in a letter, but there may be one or two written communications that I have mislaid.
 
-*[PDF 9]* ^pg9
+*[p. vii]* ^pg9
 
 Acknowledgements vii
 
@@ -104,9 +104,9 @@ A final word of thanks is addressed to Wolfson College, Oxford, who welcomed me 
 
 Dominic Goodall, Ecole française d’Extrême-Orient, Pondicherry, September 2004.
 
-*[PDF 10]* ^pg10
+*[p. viii]* ^pg10
 
-*[PDF 11]* ^pg11
+*[p. ix]* ^pg11
 
 CONTENTS
 
@@ -136,15 +136,15 @@ Appendix II. Diplomatic Transcription 441
 
 Appendix III. Śataratnollekhinī ad sūtra 18 515
 
-*[PDF 13]* ^pg13
+*[p. xi]* ^pg13
 
 Contents
 
 Appendix IV. Measurements Works Consulted Index of Pādas General Index Résumé français 529 557 623 663
 
-*[PDF 14]* ^pg14
+*[p. xii]* ^pg14
 
-*[PDF 15]* ^pg15
+*[p. xiii]* ^pg15
 
 PREFACE
 
@@ -172,7 +172,7 @@ Even the more specialised survey material presents a rather confused picture of 
 
 A more comprehensive account of the gamas could easily have been given, but that would have involved only tiresome repetition. Most of the Āgamas deal with the same sort of subjects more or less in the same manner with some incidental variations as regards their emphasis on this
 
-*[PDF 17]* ^pg17
+*[p. xv]* ^pg17
 
 Preface Xv
 
@@ -202,7 +202,7 @@ masquerade as ‘Intelligence-Deconditioned Souls’). (The work is also politel
 
 Hardly more edifying is Guy L. BECK's Sonic Theology: Hinduism and Sacred Sound (1995), pp. 148-171 of which are devoted to ‘Śaivism: Sacred Sound as the Energy of Siva’. Here BECK recognises that Sadyojyotis through to Aghoraśiva are the ‘chief formulators of Śaiva Siddhānta theology in Sanskrit’ (p. 157), and yet he quotes instead such later authorities as Mariasusai DHAVAMONY 1971 (p.160), who relied almost entirely on later Tamil sources, K. SIVARAMAN 1973 (pp. 160-1), who appears to have based much of what he wrote on the late Pauṣkarabhāṣya, and N. R. BHATT (p. 153), about whom, after quoting a somewhat speculative passage from an interview transcript, in which BHATT characterises ‘the original Śaiva Agama culture’, BECK states (ibid.): ‘Bhatt presumably drew upon his extraordinary knowledge of a large range of published and unpublished Agama texts for this characterization.’
 
-*[PDF 19]* ^pg19
+*[p. xvii]* ^pg19
 
 Preface xvii
 
@@ -236,7 +236,7 @@ BRUNNER 1981.
 
 15 For a slightly fuller treatment of this bibliographical theme, see GOODALL 2000:205- 6, fn. 1. \`
 
-*[PDF 21]* ^pg21
+*[p. xix]* ^pg21
 
 Preface xix
 
@@ -270,7 +270,7 @@ VAN TROY 1974.
 
 18SANDERSON (2002:7-8, fn. 5) has drawn attention to the references to these two texts in an inscription from the reign of the Cambodian king Rājendravarman (944-68),
 
-*[PDF 23]* ^pg23
+*[p. xxi]* ^pg23
 
 Preface xxi
 
@@ -296,7 +296,7 @@ There are however three firm proofs that a given Siddhāntatantra is early:—
 
 3\. substantial attributed quotations in the works of early commen-
 
-*[PDF 25]* ^pg25
+*[p. xxiii]* ^pg25
 
 Preface xxiii
 
@@ -334,7 +334,7 @@ There are, of course, complications that the table does not reflect: ancient wor
 
 26 For references to these quotations, see GOODALL 1998:xlv, fn. 103.
 
-*[PDF 27]* ^pg27
+*[p. xxv]* ^pg27
 
 Preface Xxv
 
@@ -366,7 +366,7 @@ First of all we may observe that these demonstrably early tantras, with a single
 
 3Particularly 2:1-27, in which, as SANDERSON has pointed out (1992:291, fn. 42), Śiva is represented as the supreme soul whose form is being, consciousness, and bliss and as the identity of everything, including individual souls. (Many of the same verses occur also in a passage of the Vātulaśuddhākhya: 9:77-89, quoted in the apparatus to the Ajita.)
 
-*[PDF 29]* ^pg29
+*[p. xxvii]* ^pg29
 
 Preface xxvii
 
@@ -398,7 +398,7 @@ reality without recourse to ritual. This is because the state of bondage, in whi
 
 After reading this characterisation of the pre-twelfth-century Śaiva Siddhānta, the reader might ask: why, if this is really a true portrait, it is not widely accepted in our time? Why do publications of today present the school as Tamil, philosophically non-dualist (or at any rate not strictly dualist) and vedanticizing, largely or entirely post-12th-century, and partly based on a group of liturgical Sanskrit tantras teaching the mode of public worship in temples? I think that there are a number of factors that go some way to explaining how this distorted picture has been reached.
 
-*[PDF 31]* ^pg31
+*[p. xxix]* ^pg31
 
 Preface xxix
 
@@ -422,7 +422,7 @@ post-date the fifth century.38 The majority of scholars who claim to study the �
 
 40Tn the case of the Prayogamañjarī, its being rooted in the Siddhāntas is evident, for instance, in chapter 9 (see particularly 9:1 and 9:8, but see also 1:6 and 1:29). For a characterisation of the Isānaśivagurudevapaddhati, see p. cix below.
 
-*[PDF 33]* ^pg33
+*[p. xxxi]* ^pg33
 
 Preface xxxi
 
@@ -446,7 +446,7 @@ Now to return to the bibliographical issue With which I started, the principal r
 
 43 Precise dates are commonly given for each of these fourteen ‘foundational’ treatises. All are placed in the thirteenth and fourteenth centuries except the first two, the Tiruvuntiyār and the Tirukkalirruppatiyār, which are assigned to 1147 and 1177 AD respectively. One work among the fourteen, the Cañkarpanirākaranam records the occasion and the date of its composition: 1313 AD. I have not been able to discover on what authority dates have been assigned to the other thirteen works. Nor am I aware of these dates being investigated in recent secondary literature. PRENTISS (1996:237, fn. 20), among others, refers for her dates to DHAVAMONY 1971, a much cited work often given the epithet ‘authoritative’. DHAVAMONY in turn (1971:175) refers to IRACAMĀṆIKKANĀR 1958 for the date of the Tiruvuntiyār (for the other twelve unsubstantiated dates he refers to no authority). But IRACAMĀṆIKKANĀR (1958:269, n.31) appears not to give any justification for this date. The dates of the Meykanta-cāttiraṁùkal appear already (without evidence being adduced) in the preface (pp. 5-7) of the Madras edition of 1897. We should note that S.S. SURYANARAYANA SASTRI (1930:22, fn. 31), who appears to have been rigorous in his attempts to date the various authors he studied relative to each other, describes 1313 AD, the date given by Umāpati in the beginning of his Cañkarpanirākaraṇam, as ‘the only date definitely known in the history of Tamil Śaivism’.
 
-*[PDF 35]* ^pg35
+*[p. xxxiii]* ^pg35
 
 Preface xxxiii
 
@@ -472,7 +472,7 @@ stating explicitly that there is, as I have implied, some most admirable seconda
 
 Shortly before completing this book, I have become aware of DviveEDĪ 2000, pp. 235- 427 of which give a useful account of the principal authors and doctrines of the early pan-IĪndian Śaiva Siddhānta. I have two small reservations about this treatment. The first is that the presentation of doctrines often takes relatively little account of historical development, in other words, does not articulate the relationships between the texts that give slightly conflicting accounts of particular points of doctrine or attempt to explain or comment on those differences (see, e.g., the treatment of the transmigratory body on p.374), and where it is historically more sensitive, it has elsewhere been improved upon in a number of details (contrast, e.g., the account of malaparipāka and karmasāmya on pp. 357-62 with GOODALL 1998:xxxiii-xxxvi, and 215-220). The second is that the account of the relations between most of the authors he discusses has also, I think, been improved on elsewhere (this is particularly so of Aghoraśiva, Trilocanaśiva, and Sarvātmaśambhu; see GoopaLL 2000).
 
-*[PDF 37]* ^pg37
+*[p. xxxv]* ^pg37
 
 INTRODUCTION
 

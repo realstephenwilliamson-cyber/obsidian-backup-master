@@ -2,7 +2,7 @@
 type: book-section
 book: "[[The Essential Kabbalah (Matt)]]"
 order: 12
-page_range: "147–158"
+page_range: ""
 ---
 [p. 147] ^pg147
 

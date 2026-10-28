@@ -4,7 +4,7 @@ work: "[[Stiegler - Taking Care of Youth and the Generations]]"
 book: "[[Library/Philosophy/Taking Care of Youth and the Generations (Stiegler)/Taking Care of Youth and the Generations (Stiegler)|Taking Care of Youth and the Generations (Stiegler)]]"
 order: 1
 source_pdf: Library/Philosophy/Taking Care of Youth and the Generations (2010).pdf
-page_range: 1–16
+page_range: ""
 pdf_pages: 1–16
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF
 converted: 2026-10-07

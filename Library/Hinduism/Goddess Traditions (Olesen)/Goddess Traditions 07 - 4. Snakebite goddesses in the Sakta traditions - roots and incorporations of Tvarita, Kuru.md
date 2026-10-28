@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Goddess Traditions in Tantric Hinduism (Olesen)]]"
 order: 7
-page_range: 74–95
+page_range: ""
 aliases:
   - Goddess Traditions 07 - 4. Snakebite goddesses in the Śākta traditions - roots and incorporations of Tvaritā, Kuru
 ---

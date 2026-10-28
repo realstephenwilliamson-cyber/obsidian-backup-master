@@ -361,7 +361,7 @@ Rabbi Yitsḥak said, “*And they were fruitful and multiplied greatly*—surel
 
     On Abraham as cosmic pillar, see *Tanḥuma, Shemot* 19; *Tanḥuma* (Buber), *Shemot* 16 (both in the name of Rabbi Yehoshu’a son of Korḥah); *Shemot Rabbah* 2:6; Maimonides, *Guide of the Perplexed* 3:29; idem, *Mishneh Torah, Hilkhot Avodat Kokhavim* 1:2. See *Bereshit Rabbah* 12:9 (again in the name of Rabbi Yehoshu’a son of Korḥah), according to which the world was created for the sake of Abraham. On the interpretation of [[Psalms 089#^89-3|Psalms 89:3]], see *Mekhilta, Shirta* 9.
 
-    The verse in [[Torah 03 - Lech Lecha#^17-1|Genesis 17]] records Abraham’s response after God promises him that Sarah, age ninety, will bear him a son. On Abraham’s lack of compassion for Israel, see BT *Shabbat* [[Shabbat 89#89b|89b]]; *Midrash ha-Gadol*, [[Torah 12 - Vayechi#^50-21|Genesis 50:21]] (citing [[Torah 03 - Lech Lecha#^17-18|Genesis 17:18]]). Cf. *Zohar* [[Zohar 4.04 - Parashat Va-Era#^z2-32a|2:32a]].
+    The verse in [[Torah 03 - Lech Lecha#^17-1|Genesis 17]] records Abraham’s response after God promises him that Sarah, age ninety, will bear him a son. On Abraham’s lack of compassion for Israel, see BT *Shabbat* [[Shabbat 89#89b|89b]]; *Midrash ha-Gadol*, [[Torah 12 - Vayechi#^50-21|Genesis 50:21]] (citing [[Torah 03 - Lech Lecha#^17-18|Genesis 17:18]]). Cf. *Zohar* [[Zohar 8.04 - Parashat Emor#^z2-32a|2:32a]].
 
 [^14]: ***Israel does not recognize us…*** When Israel (Jacob) offered blessings to his sons (as recounted in [[Torah 12 - Vayechi#^49-1|Genesis 49]]), he did not bless them directly but rather through *Shekhinah*.
 

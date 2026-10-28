@@ -4,7 +4,7 @@ work: "[[Mahesvarananda - The Maharthamanjari of Mahesvarananda]]"
 book: "[[Library/Trika/The Maharthamanjari of Mahesvarananda (Mahesvarananda)/The Maharthamanjari of Mahesvarananda (Mahesvarananda)|The Maharthamanjari of Mahesvarananda (Mahesvarananda)]]"
 order: 3
 source_pdf: Library/Trika/mahartha-manjari-mahesvaranandapdf-pdf-free.pdf
-page_range: 21–55
+page_range: "21"
 pdf_pages: 22–55
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08

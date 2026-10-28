@@ -4,7 +4,7 @@ work: "[[Lakshmanjoo - The Mystery of Vibrationless-Vibration in Kashmir Shaivis
 book: "[[Library/Trika/The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)/The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)|The Mystery of Vibrationless-Vibration in Kashmir Shaivism (Lakshmanjoo)]]"
 order: 4
 source_pdf: Library/Trika/Lakshmanjoo, Hughes - The Mystery of Vibrationless-Vibration in Kashmir Shaivism (2016).pdf
-page_range: 47–67
+page_range: ""
 pdf_pages: 47–67
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

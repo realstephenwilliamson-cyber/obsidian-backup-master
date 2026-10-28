@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[BCP 1928 01 - Part 1|Part 1]] (pp. 1–33)
+- [[BCP 1928 01 - Part 1|Part 1]] (pp. v–33)
 - [[BCP 1928 02 - Part 2|Part 2]] (pp. 34–73)
 - [[BCP 1928 03 - Part 3|Part 3]] (pp. 74–113)
 - [[BCP 1928 04 - Part 4|Part 4]] (pp. 114–153)
@@ -24,11 +24,11 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[BCP 1928 06 - Part 6|Part 6]] (pp. 194–233)
 - [[BCP 1928 07 - Part 7|Part 7]] (pp. 234–273)
 - [[BCP 1928 08 - Part 8|Part 8]] (pp. 274–313)
-- [[BCP 1928 09 - Part 9|Part 9]] (pp. 314–10)
-- [[BCP 1928 10 - Part 10|Part 10]] (pp. 11–43)
-- [[BCP 1928 11 - Part 11|Part 11]] (pp. 44–77)
-- [[BCP 1928 12 - Part 12|Part 12]] (pp. 78–480)
-- [[BCP 1928 13 - Part 13|Part 13]] (pp. 481–520)
-- [[BCP 1928 14 - Part 14|Part 14]] (pp. 139–553)
+- [[BCP 1928 09 - Part 9|Part 9]] (pp. 314–353)
+- [[BCP 1928 10 - Part 10|Part 10]] (pp. 354–393)
+- [[BCP 1928 11 - Part 11|Part 11]] (pp. 394–433)
+- [[BCP 1928 12 - Part 12|Part 12]] (pp. 434–473)
+- [[BCP 1928 13 - Part 13|Part 13]] (pp. 474–513)
+- [[BCP 1928 14 - Part 14|Part 14]] (pp. 514–553)
 - [[BCP 1928 15 - Part 15|Part 15]] (pp. 554–593)
-- [[BCP 1928 16 - Part 16|Part 16]] (pp. 594–621)
+- [[BCP 1928 16 - Part 16|Part 16]] (pp. 594–611)

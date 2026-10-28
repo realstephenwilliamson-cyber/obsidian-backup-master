@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Tantric Mantras (Padoux)]]"
 order: 6
-page_range: 81–88
+page_range: ""
 aliases:
   - Tantric Mantras 06 - 5. A Hindu rosary ritual - (Jayākhyasaṃhitā, chapter 14)
 ---

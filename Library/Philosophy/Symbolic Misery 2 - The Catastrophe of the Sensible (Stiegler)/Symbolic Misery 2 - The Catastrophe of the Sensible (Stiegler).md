@@ -17,8 +17,8 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 
 ## Contents
 
-- [[Symbolic Misery 2 01 - Front matter|Front matter (Front matter, Symbolic Misery Bernard Stiegler, Contents)]] (pp. 1–5)
-- [[Symbolic Misery 2 02 - Call to Adventure|Call to Adventure]] (pp. 2–5)
+- [[Symbolic Misery 2 01 - Front matter|Front matter (Front matter, Symbolic Misery Bernard Stiegler, Contents)]] (PDF 1–5)
+- [[Symbolic Misery 2 02 - Call to Adventure|Call to Adventure]] (pp. 1–5)
 - [[Symbolic Misery 2 03 - Prologue with Chorus|Prologue with Chorus]] (pp. 6–20)
 - [[Symbolic Misery 2 04 - Sensing through Participation|Sensing through Participation]] (pp. i–45)
 - [[Symbolic Misery 2 05 - Setting Out|Setting Out]] (pp. ii–72)

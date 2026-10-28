@@ -4,7 +4,7 @@ work: "[[Heilijgers-Seelen - The System of Five Cakras in Kubjikamatatantra 14-1
 book: "[[Library/Trika/The System of Five Cakras in Kubjikamatatantra 14-16 (Heilijgers-Seelen)/The System of Five Cakras in Kubjikamatatantra 14-16 (Heilijgers-Seelen)|The System of Five Cakras in Kubjikamatatantra 14-16 (Heilijgers-Seelen)]]"
 order: 1
 source_pdf: Library/Trika/Heilijgers-Seelen - The System of Five Cakras in Kubjikamatatantra 14-16 (1994).pdf
-page_range: 1–32
+page_range: "vi–32"
 pdf_pages: 1–40
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08
@@ -109,7 +109,7 @@ And I also wish to thank Dr H. T. Bakker, Dr L. A. van Daalen, Dr Th. Damsteegt 
 
 Finally, I would like to mention my family. I wish to express my warmest thanks to my husband Lex. I appreciate the immense patience with which he endured the often tiresome years during which I was pursuing my research. And to my son Aregaweh I apologize for having been so busy with my own work. 
 
-*[PDF 6]* ^pg6
+*[p. vii]* ^pg6
 
 CONTENTS 
 

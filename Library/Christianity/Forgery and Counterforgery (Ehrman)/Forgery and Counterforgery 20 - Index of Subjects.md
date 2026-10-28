@@ -2,7 +2,7 @@
 type: book-section
 book: "[[Forgery and Counterforgery (Ehrman)]]"
 order: 20
-page_range: "591–622"
+page_range: ""
 ---
 [[Forgery and Counterforgery 19 - Index of Ancient Sources|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 21 - Index of Modern Scholars|next →]]
 

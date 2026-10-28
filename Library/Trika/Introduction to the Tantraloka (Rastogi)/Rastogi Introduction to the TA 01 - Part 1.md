@@ -286,7 +286,7 @@ Jnana, Yoga, Kriya and Carya 195 IV. *Cross-references: A Collateral Source of T
 
 *Organisation* 
 
-*[PDF 21]* ^pg21
+*[p. xx]* ^pg21
 
 CONTENTS 
 

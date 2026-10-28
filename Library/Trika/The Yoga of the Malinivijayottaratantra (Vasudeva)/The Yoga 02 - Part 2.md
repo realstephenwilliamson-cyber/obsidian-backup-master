@@ -44,7 +44,7 @@ The structure of the Māālinīvijayottara is quadripartite, although its four s
 63\. Such as may be observed, for instance, in much later systematisations in the scriptures of the Kubjikā cult.
 
 
-*[PDF 43]* ^pg43
+*[p. xliii]* ^pg43
 
 ANTECEDENTS XLIII
 
@@ -56,9 +56,9 @@ of a aiva scripture.
 
 (1998:LvI11-LXV).
 
-*[PDF 44]* ^pg44
+*[p. xliv]* ^pg44
 
-*[PDF 45]* ^pg45
+*[p. xlv]* ^pg45
 
 Title
 
@@ -82,7 +82,7 @@ Most of the explanatory etymologies (nirvacana) of the name of the Goddess Māli
 
 68 Cf. Ramyadeva Bhaṭtas Vivaraṇa to Bhāvopahāra of Cakrapāṇinātha 3: mantrā varnarūpā garbhe yasyāh sā mālinī.
 
-*[PDF 47]* ^pg47
+*[p. xlvii]* ^pg47
 
 TITLE XLVII
 
@@ -143,7 +143,7 @@ tre pi patah patāntarācchādakah syāt.
 73\. Kubjikāmata 2.1ab: jaya tvam Mālinī devī nirmale malanāśinī.
 
 
-*[PDF 49]* ^pg49
+*[p. xlix]* ^pg49
 
 TITLE XLIX
 
@@ -196,7 +196,7 @@ aunmukhyābhāvād āntarī pramātraikātmyam āpannā śaktiþ.
 
 81 Jayaratha: pārnaprakāśātmanah śabdarāśehþ, ‘\[Internal\] to Śabdarāśi who is full manifestation’
 
-*[PDF 51]* ^pg51
+*[p. li]* ^pg51
 
 TITLE LI
 

@@ -179,43 +179,7 @@ Dhyani Mudra, 146 Maha Bandha, 172
 
 *[PDF 7]* ^pg7
 
-SPECIFIC MUDRAS 
-
-Abhaya Mudra, 152 Dynamic Mudra, 138 
-
-Agochari Mudra, 168 Ganesha Mudras, 60 
-
-Akashi Mudra, 169 Garuda Mudra, 102 
-
-Apan Mudra, 74 Hakini Mudra, 112 
-
-Apan Vayu Mudra, 90 Jnana Mudra and Chin Mudra, 139, 
-
-Ardha Cakrasana, 186 167 
-
-Asthma Mudra, 68 Joint Mudra, 132 
-
-Atmanjali Mudra, 144 Kaki Mudra, 170 
-
-Back Mudra, 92 Kalesvara Mudra, 134 
-
-Bhramara Mudra, 118 Kartari Mudra, 189 
-
-Bhuchari Mudra, 167 Ksepana Mudra, 98 
-
-Bhudi Mudra, 88 Kubera Mudra, 94 
-
-Bhujangani Mudra, 169 Kundalini Mudra, 96 
-
-Bhumisparsha Mudra, 156 Limber-Up and Warm-Up 
-
-Bronchial Mudra, 66 Exercises, 177 
-
-Detoxification Mudra, 122 Linga Mudra, 72 
-
-Dharmachakra Mudra, 158 Lotus Mudra, 150 
-
-Dhyani Mudra, 146 Maha Bandha, 172 
+*The scan repeats the first page of Specific Mudras here (PDF 7); its text is above, at PDF 6.*
 
 *[PDF 8]* ^pg8
 

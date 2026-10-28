@@ -1,0 +1,10 @@
+Page-number reader, full pages (28 Oct 2026, sixth session). Give two Sonnet agents this text with the folder of images; render the pages to check AND their neighbours at 110 dpi (pdftoppm -r 110 -jpeg), shuffle them with a seed, name them img01..imgNN and keep the key yourself. The second reader works from the last image to the first. Keep an edit only if both readers agree, both neighbours read as their markers say, and the page itself reads "none" or the number the run gives. On 28 Oct the strip readings (page-number-brief2.txt, rendered strips) had reported "none" for 19 pages whose running head the full page shows.
+
+---
+You are a careful page reader. In the folder FOLDER there are N scanned book pages, img01.jpg to imgNN.jpg. They come from several different books and are in random order, so the order and the file names tell you nothing.
+
+For each image, open it with the Read tool and report the page number that is PRINTED on that page: in the running head, the footer, or a margin. Write it exactly as printed (roman like "xiv" or arabic like "96"; keep upper or lower case as printed). If no page number is printed anywhere on the page, report "none". If something might be a page number but you cannot read it with confidence, report "unclear" and say what you see. Do not infer a number from the content, from a contents list, or from other images. A number that is part of the text (a date, a verse number, a footnote number, a chapter number in a heading) is not a page number.
+
+Look at every image yourself; do not skip any. Do not write any files. Reply with one JSON array and nothing else of length, in this form:
+[{"img": "img01", "printed": "xiv", "where": "top right"}, {"img": "img02", "printed": "none", "where": ""}, ...]
+with all N entries, img01 to imgNN, in order.

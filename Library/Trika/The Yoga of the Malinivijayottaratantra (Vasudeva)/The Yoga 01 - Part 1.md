@@ -90,7 +90,7 @@ Mysore, the staff in the vvri in Hoshiarpur, and Bob Miller at Sam Fogg Rare Boo
 
 Somadeva Vasudeva, 8th of June, Hook Norton
 
-*[PDF 7]* ^pg7
+*[p. vii]* ^pg7
 
 CONTENTS
 
@@ -176,7 +176,7 @@ I have neglected to investigate the complicated relation that the Saiddhāntika 
 
 lying categories.
 
-*[PDF 13]* ^pg13
+*[p. xiii]* ^pg13
 
 Sources
 
@@ -204,7 +204,7 @@ linīvijayottara 3.22.
 10\. Cf. op.cit. foreword pp. i-iii.
 
 
-*[PDF 15]* ^pg15
+*[p. xv]* ^pg15
 
 SOURCES XV
 
@@ -229,7 +229,7 @@ B: The Berlin manuscript, Ka 1436. The ms is complete in 42 folios. It is writte
 
 Figure x: Folio 29" of B, showing MvUT 16.59—17.6ab.
 
-*[PDF 17]* ^pg17
+*[p. xvii]* ^pg17
 
 SOURCES XVII
 
@@ -291,7 +291,7 @@ MaA भग्निरीविशय्ञडथ)
 18\. ms catalogue no. 641, JANERT & Pori (1975:102).
 
 
-*[PDF 19]* ^pg19
+*[p. xix]* ^pg19
 
 SOURCES XIX
 
@@ -312,7 +312,7 @@ but no material is missing. The dimensions of the manuscript cannot be ascertain
 
 J: The Jammu manuscript, deposited in the Śrī Raghunātha Temple Library, is listed as ‘Mālinīvijayan, ms no. 1524/ka. Itis not recorded in the printed catalogue and its dimensions are unknown to me since only an enlarged photocopy was available for consultation. It is written in an even, bold, Kashmirian style Devanāgarī often seen in transcripts of Śāradā mss prepared in Jammu. The Ms is complete, with some lacune marked by added blank space
 
-*[PDF 21]* ^pg21
+*[p. xxi]* ^pg21
 
 SOURCES XXI
 
@@ -396,7 +396,7 @@ Another ms bearing the title Mālinīvijaya held at Wai was also examined but pr
 
 L. no. 9-2/ 479. It is written in Devanāgarī on paper with g lines 22 HARAPRASĀDA SHASTRI (1939:27).
 
-*[PDF 23]* ^pg23
+*[p. xxiii]* ^pg23
 
 SOURCES XXIII
 
@@ -404,9 +404,9 @@ per folio and <sup>21</sup>characters per line. It measures 16.3 X10.4 cm and is
 
 23 Josni (1995:1046, 1047).
 
-*[PDF 24]* ^pg24
+*[p. xxiv]* ^pg24
 
-*[PDF 25]* ^pg25
+*[p. xxv]* ^pg25
 
 Editorial Policies AS the critical apparatus shows, all of the wit-
 
@@ -425,7 +425,7 @@ filled in by scribal emendations and conjectures. Since there is no evidence to 
 
 The situation is complicated further by the availability of abundant external evidence for the text of the Mālinivijayottara (collectively denoted by the siglum %). Much has survived in directly attributed citations and paraphrases in the exegetical works of Sadyojyotis (possibly), Nārāyaṇakaṇtha, Rāmakanṇtha, Abhinava-gupta, Kṣemarāja and Jayaratha. Among these the citations in Abhinavagupta’ works constitute the most important historical evidence extant for the Mālinīvijayottara. Abhinavagupta presents himself as an initiate of the Mālinīvijayottara’s scriptural tradition, whose authority he upholds. This by no means implies that his citations of the text are the most authoritative: many citations occur in the Tantrāloka where metre and doctrine often force Abhinavagu-pta slightly to alter the text. Such passages, noted in the commentary accompanying the translation, pose less of a problem for the textual critic, since motive and opportunity for textual change are evident. Far more problematic are paraphrases and passages where Abhinavagupta deviates from the otherwise constituted text for no apparent reason, For example, at Mālinivijayottara 17.31a: śatā-rdhoccārayogena, ‘by fifty enunciations’, Abhinavagupta ([[Tantraloka 30.056|Tantrāloka 30.56c]]) reads: śatāvartanayā hy asyāþ, ‘by a hundred repetitions of this \[razor-mantra\]’. There is no immediately obvious reason why “one hundred” should be substituted for “fifty”. Is Abhinavagupta here simply misremembering the exact number on the grounds that all that is significant to him is that it is a fairly large number? His commentator Jayaratha cites the corresponding passage of the Mālinīvijayottara, reading fifty repetitions, without remarking
 
-*[PDF 27]* ^pg27
+*[p. xxvii]* ^pg27
 
 EDITORIAL POLICIES XXVII
 
@@ -448,7 +448,7 @@ The history of the Mālinīvijayottara before its Kashmirian recension is unknow
 
 also cited by Jayaratha.
 
-*[PDF 29]* ^pg29
+*[p. xxix]* ^pg29
 
 EDITORIAL POLICIES XXIX
 
@@ -476,7 +476,7 @@ A ms preserving an abundance of apparently grammatically correct and doctrinally
 
 36 Ṣatsāhasrasamhitā 3,1-37. Śiva describes an extravagant ritual, which, as SCHOTERMAN (1982) remarks, can only have been detrimental to the scribe's concentration. Even worse, the preceptor, we are told (3.29cd: tato mañgala-nirghosaih pustakam vācayet tataþ): ‘Should read out the text accompanied by auspicious exclamations;
 
-*[PDF 31]* ^pg31
+*[p. xxxi]* ^pg31
 
 EDITORIAL POLICIES XXXI
 
@@ -499,7 +499,7 @@ In extreme cases, a learned scribe, conjecturing on the basis of several mss mig
 43\. See GRIER (1988:272), who argues against accepting only two categories of readings: authentic and non-authentic.
 
 
-*[PDF 33]* ^pg33
+*[p. xxxiii]* ^pg33
 
 EDITORIAL POLICIES XXXIII
 
@@ -540,7 +540,7 @@ BVJ derive from 6. They share the following lacune against 7:4? L5od, 4.38c (B h
 49\. This alone is of course inconclusive evidence. An old and brittle birch-bark manuscript might be copied many times over, each new reader damaging it a little more. Such cumulative deterioration may be inferred if several mss
 
 
-*[PDF 35]* ^pg35
+*[p. xxxv]* ^pg35
 
 EDITORIAL POLICIES XXXV
 
@@ -574,7 +574,7 @@ preserved in B and J.
 52\. See Reeve (1989).
 
 
-*[PDF 37]* ^pg37
+*[p. xxxvii]* ^pg37
 
 EDITORIAL POLICIES XXXVII
 
@@ -590,9 +590,9 @@ Definitions, where they do occur, are phrased in what aspires to be the condense
 
 However, in the absence of access to all of the Śaiva Tantras affiliated to the Mālinīvijayottara (many simply have not come down tous)itis extremely difficult to provide an always adequate reading for such a closely interdependent canon of scriptures.
 
-*[PDF 38]* ^pg38
+*[p. xxxviii]* ^pg38
 
-*[PDF 39]* ^pg39
+*[p. xxxix]* ^pg39
 
 Antecedents
 

@@ -443,7 +443,7 @@ Aham 501, 62l, 761.
 
 ( -bhāsana)
 
-*[PDF 95]* ^pg95
+*[p. ii]* ^pg95
 
 ( -parīmarsa) 356, 410,
 
@@ -625,7 +625,7 @@ Atināya 34-37.
 
 \$ f i f S ~ अवट "षष लर म
 
-*[PDF 97]* ^pg97
+*[p. iv]* ^pg97
 
 ९
 
@@ -1177,7 +1177,7 @@ Kriya 48 fn., 54, 55, 105, 379, 411, 543, 545, 767, 774; (- dakti) 707;
 
 Krodhanī 105,694-96, 418, 491,535, 656, 735, 764,
 
-*[PDF 104]* ^pg104
+*[p. xi]* ^pg104
 
 Krsa 520., Krsa-tanu 520., Krti 403.
 
@@ -1359,7 +1359,7 @@ Mana-sanskara-cakra 722.
 
 Mīnavaugha 114, 117-121,250.
 
-*[PDF 106]* ^pg106
+*[p. xiii]* ^pg106
 
 Caheg
 
@@ -1418,7 +1418,7 @@ Mrdañga 774. :
 
 Naisa 423. <sup>7</sup>
 
-*[PDF 107]* ^pg107
+*[p. xiv]* ^pg107
 
 kiv
 

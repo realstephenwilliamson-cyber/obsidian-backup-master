@@ -136,7 +136,7 @@ NOTE ON THE MUKTABODHA INDOLOGICAL
 
 RESEARCH INSTITUTE ...ssssesensssteserssrerererensrseeernesreeseeserenstsntesse 252
 
-*[PDF 10]* ^pg10
+*[p. viii]* ^pg10
 
 *[p. ix]* ^pg11
 
@@ -148,7 +148,7 @@ The Sanskrit text of the verses of the Paramārthasāra of Abhinavagupta is take
 
 In the transliteration of the Sanskrit, hyphens are placed between the stems of compounds and spaces are placed after all word breaks unless prevented from doing so by vowel sandhi.
 
-*[PDF 12]* ^pg12
+*[p. x]* ^pg12
 
 *[p. xi]* ^pg13
 
@@ -186,7 +186,7 @@ And finally I offer my thanks to to Drs. William K. Mahony, Paul Muller-Ortega, 
 
 been possible.
 
-*[PDF 16]* ^pg16
+*[p. xiv]* ^pg16
 
 *[p. xv]* ^pg17
 
